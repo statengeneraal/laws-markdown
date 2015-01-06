@@ -43,7 +43,7 @@ hypotheekhouder: degene ten gunste van wie een recht van hypotheek is gevestigd 
 
 kennisgeving van overgang: kennisgeving van overgang van een productierecht, of een gedeelte daarvan, als bedoeld in artikel 27, eerste lid, van de wet; 
 
-mengvoeder: mengvoeder als bedoeld in artikel 1, eerste lid, onderdeel d, van de Kaderwet diervoeders; 
+mengvoeders: mengvoeders als bedoeld in artikel 3.1 van het Besluit diervoeders 2012; 
 
 mestkorrels: dierlijke meststoffen die in een overeenkomstig artikel 24, eerste lid, onderdeel f, van verordening (EG) nr. 1069/2009 van het Europees Parlement en de Raad van 21 oktober 2009 tot vaststelling van gezondheidsvoorschriften inzake niet voor menselijke consumptie bestemde dierlijke bijproducten en afgeleide producten en tot intrekking van Verordening (EG) nr. 1774/2002 (PbEU L 300) erkende inrichting of bedrijf zodanig zijn bewerkt dat het drogestofgehalte ervan ten minste 90% bedraagt; 
 
@@ -112,7 +112,6 @@ gereserveerd
 4.  In afwijking van het eerste lid is het toegestaan de in bijlage Aa, onder IV, opgenomen eindproducten van de aldaar omschreven bewerkingprocedés, die zijn gebruikt als strooisel in stallen te mengen met dierlijke mest in de mestkelder. 
 
 ### Artikel  6a  
-Treedt in werking per 01-01-2015 
 
 Herwonnen fosfaten uit rioolzuiveringsslib worden behandeld langs biologische, chemische of thermische weg, door langdurige opslag of volgens enig ander geschikt procedé, dat tot gevolg heeft dat het grootste deel van de in het zuiveringsslib aanwezige pathogene organismen afsterft. 
 
@@ -244,13 +243,7 @@ b. indien wordt voldaan aan elk van de voorwaarden, bedoeld in de artikelen 25, 
 5.  In het kalenderjaar waarin de gebruiksnormen, bedoeld in artikel 24, eerste en tweede lid, worden toegepast, wordt gedurende de periode van 15 mei tot en met 15 september ten minste tachtig procent van de tot het bedrijf behorende oppervlakte landbouwgrond, die voor het op of in de bodem brengen van dierlijke meststoffen beschikbaar is, onafgebroken beteeld met gras dat is bestemd om te worden gebruikt als ruwvoer.   
 6.  De landbouwer gebruikt geen fosfaat uit kunstmest.   
 7.  De landbouwer verleent desgevraagd zijn medewerking aan monitoringswerkzaamheden als bedoeld in artikel 8 van de derogatiebeschikking, in opdracht van de minister of de Minister van Infrastructuur en Milieu.   
-8.  Na de melding, bedoeld in het eerste lid, kan de landbouwer het bedrijf tot 16 mei afmelden voor de toepassing van artikel 24, eerste en tweede lid, zonder dat de geldsom, bedoeld in het vierde lid, in rekening wordt gebracht.   
-9.  In afwijking van het eerste lid meldt de landbouwer het bedrijf in 2014 tussen 1 mei en 13 juni aan bij de minister.   
-10.  In afwijking van het vijfde lid, bedraagt in 2014 voor een landbouwer die in 2013 gebruik heeft gemaakt van derogatie en die in 2013 op zijn bedrijf beschikte over minder dan tachtig procent grasland, het percentage grasland zeventig procent, indien de landbouwer kan aantonen dat hij vóór 21 maart 2014 financiële verplichtingen is aangegaan voor telen van een gewas op bouwland, waardoor tachtig procent grasland als bedoeld in het vijfde lid niet haalbaar is.   
-11.  Voor de toepassing van het tiende lid gaat de melding, bedoeld in het eerste lid, vergezeld van bescheiden waaruit blijkt dat landbouwer vóór 21 maart 2014 financiële verplichtingen is aangegaan.   
-12.  Het zesde lid is in 2014 niet van toepassing indien de landbouwer kan aantonen dat hij vóór 1 mei 2014 financiële verplichtingen is aangegaan voor de aankoop van fosfaatkunstmest. Indien de landbouwer de fosfaat uit kunstmest gebruikt na 15 mei 2014, gaat de melding, bedoeld in het eerste lid, vergezeld van bescheiden waaruit blijkt dat de landbouwer vóór 1 mei 2014 financiële verplichtingen is aangegaan.   
-13.  In afwijking van het achtste lid, kan de landbouwer in 2014 het bedrijf tot 14 juni afmelden voor de toepassing van artikel 24, eerste en tweede lid.   
-14.  Het negende lid tot en met het dertiende lid en dit lid vervallen met ingang van 1 januari 2015.  
+8.  Na de melding, bedoeld in het eerste lid, kan de landbouwer het bedrijf tot 16 mei afmelden voor de toepassing van artikel 24, eerste en tweede lid, zonder dat de geldsom, bedoeld in het vierde lid, in rekening wordt gebracht.  
 
 ### Artikel  27  
 
@@ -259,19 +252,14 @@ b. indien wordt voldaan aan elk van de voorwaarden, bedoeld in de artikelen 25, 
 3.  De landbouwer bewaart het bemestingsplan als onderdeel van de administratie, bedoeld in artikel 32 van het besluit.   
 4.  De landbouwer houdt een meststoffenregister bij dat voldoet aan artikel 5, zevende lid, van de derogatiebeschikking.   
 5.  De landbouwer verstrekt elk kalenderjaar uiterlijk op 31 januari aan de minister gegevens uit het meststoffenregister.   
-6.  De landbouwer bewaart het meststoffenregister als onderdeel van de administratie, bedoeld in artikel 32 van het besluit.   
-7.  In afwijking van het eerste lid stelt de landbouwer in 2014 een bemestingsplan op vóór 14 juni.   
-8.  In afwijking van het vijfde lid verstrekt de landbouwer in 2014 uiterlijk op 13 juni aan de minister gegevens uit het meststoffenregister.   
-9.  Het zevende lid, het achtste lid en dit lid vervallen met ingang van 1 januari 2015. 
+6.  De landbouwer bewaart het meststoffenregister als onderdeel van de administratie, bedoeld in artikel 32 van het besluit.  
 
 ### Artikel  27a  
 
 1.  Ten hoogste vier jaren voorafgaand aan 1 februari van het kalenderjaar waarin de gebruiksnorm, bedoeld in artikel 24, eerste lid, wordt toegepast, zijn de waarde van de fosfaattoestand en de waarde van het stikstofleverende vermogen van de bodem van de tot het bedrijf behorende oppervlakte landbouwgrond vastgesteld en vastgelegd in een analyserapport door een laboratorium dat blijkens accreditatie door de Raad aantoonbaar voldoet aan de norm NEN-EN-ISO/IEC 17025.   
 2.  Het laboratorium stelt de fosfaattoestand van de bodem vast door middel van bemonstering en analyse van de bodem van de desbetreffende percelen overeenkomstig artikel 103a, eerste tot en met derde lid.   
 3.  De landbouwer bewaart het analyserapport als onderdeel van de administratie, bedoeld in artikel 32 van het besluit.   
-4.  Indien een perceel door de landbouwer in gebruik wordt genomen na 1 februari en vóór 16 mei van het kalenderjaar waarin de gebruiksnorm, bedoeld in artikel 24, eerste lid, wordt toegepast, vindt de waardevaststelling, bedoeld in het eerste lid, uiterlijk 7 dagen na de ingebruikname plaats.   
-5.  In afwijking van het eerste lid zijn in 2014 de daar bedoelde waarden ten hoogste vier jaren, 4 maanden en 14 dagen voorafgaand aan 14 juni vastgesteld en vastgelegd in een daar bedoeld analyserapport.   
-6.  Het vijfde lid en dit lid vervallen met ingang van 1 januari 2015. 
+4.  Indien een perceel door de landbouwer in gebruik wordt genomen na 1 februari en vóór 16 mei van het kalenderjaar waarin de gebruiksnorm, bedoeld in artikel 24, eerste lid, wordt toegepast, vindt de waardevaststelling, bedoeld in het eerste lid, uiterlijk 7 dagen na de ingebruikname plaats.  
 
 ### Artikel  27b  
 
@@ -343,14 +331,14 @@ d. de landbouwer als onderdeel van de administratie, bedoeld in artikel 32 van h
 
 4°. de afnemers van de desbetreffende gewassen.       
 3.  Voor de bepaling van de gewasopbrengst, bedoeld in het eerste lid, onderdelen a tot en met f, wordt uitsluitend in aanmerking genomen de hoeveelheid die door de desbetreffende landbouwer rechtstreeks dan wel door tussenkomst van een daartoe gespecialiseerd bedrijf dat zich toelegt op het sorteren van de betreffende gewassen, is afgeleverd aan afnemers die de suikerbieten respectievelijk de consumptieaardappelen tot voor menselijke consumptie dan wel de gewassen, bedoeld in het eerste lid, onder c tot en met f, tot voor menselijke of dierlijke consumptie geschikte producten verwerken.   
-4.  In afwijking van het tweede lid, onderdeel b, meldt de landbouwer in 2014 uiterlijk op 15 september zijn bedrijf aan bij de minister.   
+4.  Vervallen.   
 5.  In afwijking van het eerste lid, onderdelen c, d, e en f, wordt de opbrengst bepaald aan de hand van het voorafgaande jaar in 2014 en de twee voorafgaande jaren in 2015.   
-6.  Het vierde lid en dit lid vervallen met ingang van 1 januari 2015.   
+6.  Vervallen.   
 7.  Het vijfde lid en dit lid vervallen met ingang van 1 januari 2016.  
 
 ### Artikel  28b  
 
-1.  In afwijking van artikel 28 bedraagt de hoeveelheid stikstof, bedoeld in artikel 10, eerste lid, van de wet op bouwland voor een gewasperceel 125 procent van de hoeveelheid stikstof die in bijlage A, tabel 1, voor de desbetreffende grondsoort bij het desbetreffende gewas onder het desbetreffende jaar is vermeld, indien voor dat betreffende gewasperceel: 
+In afwijking van artikel 28 bedraagt de hoeveelheid stikstof, bedoeld in artikel 10, eerste lid, van de wet op bouwland voor een gewasperceel 125 procent van de hoeveelheid stikstof die in bijlage A, tabel 1, voor de desbetreffende grondsoort bij het desbetreffende gewas onder het desbetreffende jaar is vermeld, indien voor dat betreffende gewasperceel: 
 
 a. de betrokken landbouwer schade leidt of dreigt te leiden uit opbrengstderving of kwaliteitsverlies, veroorzaakt door het optreden van een neerslaghoeveelheid die uitgaat boven 50 millimeter in de 24 uur na 08.00 uur of 60 millimeter in de 48 uur na 08.00 uur;  
 
@@ -364,9 +352,7 @@ e. de landbouwer het voornemen tot bijbemesting vooraf heeft gemeld bij de minis
 
 f. de landbouwer bij de melding, bedoeld in onderdeel e, heeft verklaard dat ten aanzien van het desbetreffende bedrijf wordt voldaan aan de onderdelen a tot en met d;  
 
-g. de landbouwer als onderdeel van de administratie, bedoeld in artikel 32 van het besluit, het rapport, bedoeld onder c, bewaart.     
-2.  In afwijking van onderdeel e, meldt de landbouwer in 2014 uiterlijk op 15 augustus de bijbemesting bij de minister, indien de neerslaghoeveelheden als bedoeld in onderdeel a zich vóór 1 augustus 2014 hebben voorgedaan.   
-3.  Het tweede lid, de aanduiding ‘1.’ voor het eerste lid alsmede dit lid vervallen met ingang van 1 januari 2015.  
+g. de landbouwer als onderdeel van de administratie, bedoeld in artikel 32 van het besluit, het rapport, bedoeld onder c, bewaart.   
 
 ### Artikel  29  
 
@@ -456,10 +442,10 @@ b. in de jaren 2006 tot en met 2009 50 procent van de hoeveelheid fosfaat in sch
 
 ### Artikel  35a  
 
-1.  In de periode van 1 januari 2009 tot en met 31 december 2014 vindt een onderzoek plaats naar de landbouwkundige en milieukundige effecten met betrekking tot de productie, de afzet en het gebruik van mineralenconcentraat.   
+1.  In de periode van 1 januari 2015 tot en met 31 december 2017 vindt een onderzoek plaats naar de landbouwkundige en milieukundige effecten met betrekking tot de productie, de afzet en het gebruik van mineralenconcentraat.   
 2.  Aan het onderzoek kan worden deelgenomen door ten hoogste tien producenten van mineralenconcentraat.   
-3.  Een producent van mineralenconcentraat die wil deelnemen aan het onderzoek kan zich hiertoe, onder vermelding van het door de minister ter identificatie van het bedrijf of de onderneming van de producent verstrekte relatienummer, uiterlijk 15 april 2009 aanmelden bij de minister.   
-4.  In afwijking van het derde lid, kunnen twee producenten van mineralenconcentraat zich in de periode van 1 oktober 2012 tot en met 1 november 2012 aanmelden bij de minister, onder vermelding van het door de minister ter identificatie van het bedrijf of de onderneming van de producent verstrekte relatienummer.  
+3.  Een producent van mineralenconcentraat die wil deelnemen aan het onderzoek kan zich hiertoe, onder vermelding van het door de minister ter identificatie van het bedrijf of de onderneming van de producent verstrekte relatienummer, vanaf 1 januari 2015 aanmelden bij de minister.   
+4.  Vervallen.  
 5.  Bij de aanmelding overlegt de producent gegevens over: 
 
 a. de naam, het correspondentie- en e-mailadres van de contactpersoon;  
@@ -467,17 +453,25 @@ a. de naam, het correspondentie- en e-mailadres van de contactpersoon;
 b. het adres van de bedrijfsgebouwen waar mineralenconcentraat wordt geproduceerd;  
 
 c. de kadastrale aanduiding van de onderscheiden locaties van de tot het bedrijf behorende opslagruimten voor mineralenconcentraat, dan wel, ingeval de producent een intermediair is, het registratienummer van de opslagruimte voor mineralenconcentraat, bedoeld in artikel 49.     
-6.  Bij de aanmelding overlegt de producent voorts een beschrijving van: 
+6.  Bij de aanmelding overlegt de producent voorts: 
 
-a. de installatie;  
+a. een beschrijving van de installatie, waaruit blijkt dat deze tenminste een omgekeerde osmosestap omvat;  
 
-b. de mestsoorten die worden behandeld, de hoeveelheden daarvan, uitgedrukt in tonnen en in kilogrammen stikstof en fosfaat per jaar, en de hoeveelheid, de aard en de samenstelling van de eventueel tezamen met de dierlijke meststoffen behandelde stoffen;  
+b. een beschrijving van de mestsoorten die worden behandeld, de hoeveelheden daarvan uitgedrukt in tonnen en in kilogrammen stikstof en fosfaat per jaar, en de hoeveelheid, de aard en de samenstelling van de eventueel tezamen met de dierlijke meststoffen behandelde stoffen;  
 
-c. het productieproces, waaronder de gebruikte technieken, de volgorde waarin deze worden toegepast en de capaciteit per uur van de desbetreffende apparatuur;  
+c. een beschrijving van het productieproces, waaronder de gebruikte technieken, de volgorde waarin deze worden toegepast en de capaciteit per uur van de desbetreffende apparatuur en de wijze waarop de omvang van de productie wordt gemonitord;  
 
-d. de eindproducten van het productieproces, de hoeveelheden daarvan, uitgedrukt in tonnen per jaar, en de verwachte samenstelling ervan, onderscheiden naar de verschillende eindproducten;  
+d. een beschrijving van de eindproducten van het productieproces, de hoeveelheden daarvan, uitgedrukt in tonnen per jaar, en de verwachte samenstelling daarvan, onderscheiden naar de verschillende eindproducten;  
 
-e. de maximale behandelingscapaciteit van de installatie in tonnen per jaar.     
+e. een analyse waaruit blijkt dat aan de kwaliteitseisen voor het product mineralenconcentraat kan worden voldaan. De kwaliteitseisen zijn de volgende: 
+
+1°. minimale gehalte aan NH4-N is 90 procent;  
+
+2°. verhouding stikstof-fosfaat is minimaal 15, en  
+
+3°. geleidbaarheid van het product uitgedrukt als EC is minimaal 50;    
+
+f. een opgave van de maximale behandelingscapaciteit van de installatie in tonnen per jaar.    
 7.  Voor zover de in het zesde lid bedoelde beschrijvingen zijn verstrekt op grond van de wet en niet zijn gewijzigd, behoeven deze niet opnieuw te worden verstrekt. 
 
 ### Artikel  35b  
@@ -490,14 +484,14 @@ b. de producent de volledige zeggenschap over de gehele installatie en het produ
 
 c. de bedrijfsgebouwen waar het mineralenconcentraat wordt geproduceerd, behoren tot het bedrijf of de onderneming van de producent;  
 
-d. de installatie uiterlijk 1 oktober 2012 volledig operationeel is;  
+d. de installatie volledig operationeel is;  
 
 e. de producent daadwerkelijk mineralenconcentraat produceert, overeenkomstig de beschrijvingen, bedoeld in artikel 35a, zesde lid.     
 2.  De minister kan aan de aanwijzing nadere voorschriften verbinden. De aan de aanwijzing verbonden voorschriften kunnen worden gewijzigd, aangevuld of ingetrokken.  
 
 ### Artikel  35c  
 
-1.  Indien meer dan twee producenten, bedoeld in artikel 35a, vierde lid, voldoen aan de voorwaarden, bedoeld in artikel 35b, eerste lid, wijst de minister ten hoogste twee producenten aan. De aanwijzing geschiedt zodanig dat in het onderzoek primair een zo groot mogelijke spreiding wordt bereikt naar de te behandelen mestsoort en de vestigingsplaats van de installatie. Bij de aanwijzing zal voorts worden gelet op een zo groot mogelijke spreiding in het onderzoek naar de gebruikte technieken en de omvang van de jaarlijkse productie.  
+Indien meer dan tien producenten, bedoeld in artikel 35a, derde lid, voldoen aan de voorwaarden, bedoeld in artikel 35b, eerste lid, wijst de minister ten hoogste tien producenten aan. De aanwijzing geschiedt op volgorde van aanmelding. 
 
 ### Artikel  35d  
 
@@ -512,7 +506,7 @@ e. de producent daadwerkelijk mineralenconcentraat produceert, overeenkomstig de
 
 ### Artikel  35e  
 
-De landbouwer die op zijn bedrijf mineralenconcentraat gebruikt, is voor wat betreft het gebruik van het mineralenconcentraat, voor de jaren 2009, 2010, 2011, 2012, 2013 en 2014 vrijgesteld van artikel 7 van de wet, voor zover het gebruik van de totale hoeveelheid meststoffen op zijn bedrijf de stikstofgebruiksnorm, bedoeld in artikel 8, onderdeel b, van de wet, en de fosfaatgebruiksnorm, bedoeld in artikel 8, onderdeel c, van de wet, niet overschrijdt, en indien is voldaan aan elk van de voorwaarden, bedoeld in artikel 35f.
+De landbouwer die op zijn bedrijf mineralenconcentraat gebruikt, is voor wat betreft het gebruik van het mineralenconcentraat, voor de jaren 2009 tot en met 2017 vrijgesteld van artikel 7 van de wet, voor zover het gebruik van de totale hoeveelheid meststoffen op zijn bedrijf de stikstofgebruiksnorm, bedoeld in artikel 8, onderdeel b, van de wet, en de fosfaatgebruiksnorm, bedoeld in artikel 8, onderdeel c, van de wet, niet overschrijdt, en indien is voldaan aan elk van de voorwaarden, bedoeld in artikel 35f.
 
 ### Artikel  35f  
 
@@ -527,7 +521,7 @@ De landbouwer die op zijn bedrijf mineralenconcentraat gebruikt, is voor wat bet
 
 ### Artikel  35g  
 
-Deze paragraaf vervalt met ingang van 1 januari 2015. 
+Deze paragraaf vervalt met ingang van 1 januari 2018. 
 
 ### Hoofdstuk  4  
 
@@ -741,7 +735,7 @@ b. de gehalten aan droge stof, fosfaat en stikstof, het organisch stofgehalte en
 
 a. de naam, het adres en het door de minister ter identificatie van het bedrijf verstrekte relatienummer van het bedrijf, waaraan diervoeder is geleverd;  
 
-b. de hoeveelheid geleverd mengvoeder bestemd voor staldieren of runderen, onderscheiden naar diersoort; en  
+b. de hoeveelheid geleverd mengvoeders bestemd voor staldieren of runderen, onderscheiden naar diersoort; en  
 
 c. de hoeveelheid geleverd ruwvoer en enkelvoudig diervoeder.   
 2. De ondernemer in het kader van wiens onderneming zuiveringsslib wordt geproduceerd of anderszins wordt behandeld, verstrekt jaarlijks vóór 1 februari aan de minister gegevens uit de administratie over de in het voorgaande kalenderjaar in het zuiveringsslib gemiddeld aanwezige hoeveelheden van de in bijlage II, onder tabel 2, van het besluit opgenomen zware metalen.
@@ -766,7 +760,7 @@ c. de hoeveelheid geleverd ruwvoer en enkelvoudig diervoeder.
 ### Artikel  54  
 
 1.  Het vervoer van dierlijke meststoffen vindt uitsluitend plaats, indien de in artikel 53 bedoelde apparatuur zowel afzonderlijk als in onderlinge samenhang adequaat functioneert.   
-2.  Het eerste lid is niet van toepassing op het vervoer van dierlijke meststoffen middels een transportvoertuig, indien het niet adequaat functioneren van de apparatuur is veroorzaakt door een storing die door de vervoerder terstond telefonisch is gemeld aan meldkamer van de Algemene Inspectiedienst en indien de Algemene Inspectiedienst toestemming heeft verleend voor het vervoer.   
+2.  Het eerste lid is niet van toepassing op het vervoer van dierlijke meststoffen middels een transportvoertuig, indien het niet adequaat functioneren van de apparatuur is veroorzaakt door een storing die door de vervoerder terstond telefonisch is gemeld aan meldkamer van de Nederlandse Voedsel- en Warenautoriteit en indien de Nederlandse Voedsel- en Warenautoriteit toestemming heeft verleend voor het vervoer.   
 3.  De in het tweede lid bedoelde toestemming kan ten hoogste voor een periode van 24 uur worden verleend en kan de verplichting inhouden van het vervoer elektronisch of telefonisch mededeling te doen voordat het laden van het transportmiddel plaatsvindt, waarbij de gegevens, bedoeld in artikel 58, tweede lid, worden verstrekt.  
 
 ### Artikel  55  
@@ -1129,11 +1123,11 @@ Als eindproduct als bedoeld in artikel 1, eerste lid, onderdeel dd, onder 1°, v
 
 1.  Het verwerkingspercentage, bedoeld in artikel 33a, tweede lid, onderdeel b, van de wet, bedraagt voor: 
 
-a. het in bijlage I bij de wet als gebied II omschreven gebied: 30 procent;  
+a. het in bijlage I bij de wet als gebied II omschreven gebied: 50 procent;  
 
-b. het in bijlage I bij de wet als gebied I omschreven gebied: 15 procent;  
+b. het in bijlage I bij de wet als gebied I omschreven gebied: 30 procent;  
 
-c. het deel van Nederland dat niet behoort tot de gebieden, bedoeld in de onderdelen a en b: 5 procent.     
+c. het deel van Nederland dat niet behoort tot de gebieden, bedoeld in de onderdelen a en b: 10 procent.     
 2.  Indien een bedrijf bestaat uit verschillende productielocaties die zijn gelegen in verschillende gebieden als bedoeld in het eerste lid, geldt in een kalenderjaar voor het bedrijf het hoogste verwerkingspercentage.  
 
 ### Artikel  72  
@@ -1142,30 +1136,30 @@ De hoeveelheid dierlijke meststoffen, uitgedrukt in kilogrammen fosfaat, bedoeld
 
 ### Artikel  72a  
 
-1.  Als categorieën landbouwers als bedoeld in artikel 33a, tweede lid, onderdeel b, onder 2°, van de wet worden aangewezen: 
+1.  Als categorieën landbouwers als bedoeld in artikel 21, tweede lid, onderdeel d, onder 2° en artikel 33a, tweede lid, onderdeel b, onder 2°, van de wet worden aangewezen: 
 
 a. landbouwers die een biologisch veehouderijbedrijf als bedoeld in artikel 14 van Verordening (EG) nr. 834/2007 van de Raad van de Europese Unie van 28 juni 2007 inzake de biologische productie en de etikettering van biologische producten en tot intrekking van Verordening (EEG) nr. 2092/91 (PbEU 2007, L 189) hebben en de dierlijke meststoffen overdragen of laten overdragen aan een afnemer die behoort tot de categorie afnemers, bedoeld in het tweede lid, onderdeel a;  
 
 b. landbouwers die op hun bedrijf dierlijke meststoffen afkomstig van paarden, pony’s of pluimvee produceren, en deze dierlijke meststoffen overdragen of laten overdragen aan een afnemer die behoort tot de categorie afnemers, bedoeld in het tweede lid, onderdeel b, waarbij de afvoer als bedoeld in artikel 89, eerste lid, tevens wordt beschouwd als het overdragen of laten overdragen aan een afnemer die behoort tot de categorie afnemers, bedoeld in het tweede lid, onderdeel b.     
-2.  Als categorieën afnemers als bedoeld in artikel 33a, tweede lid, onderdeel b, onder 2°, worden aangewezen: 
+2.  Als categorieën afnemers als bedoeld in artikel 21, tweede lid, onderdeel d, onder 2° en artikel 33a, tweede lid, onderdeel b, onder 2°, van de wet worden aangewezen: 
 
 a. landbouwers die een bedrijf hebben waar biologisch plantaardige productie, als bedoeld in artikel 12 van Verordening (EG) nr. 834/2007 van de Raad van de Europese Unie van 28 juni 2007 inzake de biologische productie en de etikettering van biologische producten en tot intrekking van Verordening (EEG) nr. 2092/91 (PbEU 2007, L 189) plaatsvindt;  
 
 b. ondernemers die champignonsubstraat bereiden.     
-3.  Een afnemer als bedoeld in het tweede lid, onderdeel b, die in een kalenderjaar ingevolge artikel 33a, tweede lid, onderdeel b, onder 2°, een hoeveelheid dierlijke meststoffen, uitgedrukt in kilogrammen fosfaat, ontvangt, gebruikt in het desbetreffende kalenderjaar die hoeveelheid dierlijke meststoffen, uitgedrukt in kilogrammen fosfaat, voor de bereiding van champignonsubstraat.  
+3.  Een afnemer als bedoeld in het tweede lid, onderdeel b, die in een kalenderjaar ingevolge artikel 21, tweede lid, onderdeel d, onder 2° en artikel 33a, tweede lid, onderdeel b, onder 2°, van de wet, een hoeveelheid dierlijke meststoffen, uitgedrukt in kilogrammen fosfaat, ontvangt, gebruikt in het desbetreffende kalenderjaar die hoeveelheid dierlijke meststoffen, uitgedrukt in kilogrammen fosfaat, voor de bereiding van champignonsubstraat.  
 
 ### Artikel  72b  
 
-1.  De afstand, bedoeld in artikel 33a, tweede lid, onderdeel b, onder 3°, van de wet, tussen: 
+1.  De afstand, bedoeld in artikel 21, tweede lid, onderdeel d, onder 3°en artikel 33a, tweede lid, onderdeel b, onder 3° van de wet, tussen: 
 
 a. het in België gelegen perceel en de Nederlandse grens bedraagt ten hoogste 25 kilometer;  
 
 b. het in Duitsland gelegen perceel en de Nederlandse grens bedraagt ten hoogste 20 kilometer.     
-2.  De voorwaarden, bedoeld in artikel 33a, tweede lid, onderdeel b, onder 3°, van de wet, zijn de voorwaarden, genoemd in artikel 87, eerste lid, onderdelen a en d tot en met f.  
+2.  De voorwaarden, artikel 21, tweede lid, onderdeel d, onder 3° en artikel 33a, tweede lid, onderdeel b, onder 3° van de wet, zijn de voorwaarden, genoemd in artikel 87, eerste lid, onderdelen a en d tot en met f.  
 
 ### Artikel  72c  
 
-Als voorwaarden, bedoeld in artikel 33a, tweede lid, onderdeel e, van de wet gelden dat: 
+Als voorwaarden, bedoeld in artikel 21, tweede lid, onderdeel d, onder 4° en artikel 33a, tweede lid, onderdeel e, van de wet gelden dat: 
 
 a. het bedrijfsoverschot van de landbouwer in het desbetreffende kalenderjaar maximaal 25% van de totale mestproductie van zijn bedrijf in dat jaar bedraagt, en  
 
@@ -1213,7 +1207,7 @@ c. de door de minister ter identificatie van de partijen bij de overeenkomst ver
 
 ### Artikel  74a  
 
-Voor zover het graasdieren betreft die worden gehouden op een bedrijf dat is geregistreerd overeenkomstig artikel 2, eerste lid, van de Landbouwkwaliteitsregeling 2007 en die behoren tot de in Bijlage I bij die regeling onderscheiden categorieën dieren, zijn de in artikel 66, eerste en tweede lid, van het besluit bedoelde forfaitaire productienormen, uitgedrukt in kilogrammen stikstof per dier per jaar, in afwijking van de artikelen 73 en 74, de normen die bij de desbetreffende categorie dieren in die bijlage zijn vermeld. 
+Voor zover het graasdieren betreft die worden gehouden op een bedrijf waarvoor een inkennisstelling heeft plaatsgevonden als bedoeld in artikel 2.14, eerste lid, van de Regeling dierlijke producten en die behoren tot de in de bijlage bij die regeling onderscheiden dieren, zijn de in artikel 66, eerste en tweede lid, van het besluit bedoelde forfaitaire productienormen, uitgedrukt in kilogrammen stikstof per dier per jaar, in afwijking van de artikelen 73 en 74, de normen die bij de desbetreffende categorie dieren in die bijlage zijn vermeld. 
 
 ### Artikel  75  
 
@@ -1281,8 +1275,8 @@ b. het verschil in gewicht tussen de grootste en de kleinste vracht bedraagt bij
 ### Artikel  81  
 
 1.  Het laboratorium analyseert de monsters uiterlijk vijf werkdagen na ontvangst en zendt de analyseresultaten uiterlijk vijf werkdagen na analyse aan de vervoerder, de leverancier, de afnemer en elektronisch aan de minister.   
-2.  Indien bij ontvangst van een toegezonden monster wordt geconstateerd dat de monsterverpakking is beschadigd, rapporteert het laboratorium aan de meldkamer van de Algemene Inspectiedienst de gegevens ter identificatie van de monsterverpakking en het nummer van het op de desbetreffende vracht betrekking hebbende vervoersbewijs dierlijke meststoffen. Het laboratorium volgt de door de Algemene Inspectiedienst ter zake verstrekte aanwijzingen op.   
-3.  Het laboratorium voldoet aan de overigens in het in artikel 80, eerste lid, bedoelde accreditatieprogramma gestelde eisen.   
+2.  Indien bij ontvangst van een toegezonden monster wordt geconstateerd dat de monsterverpakking is beschadigd, rapporteert het laboratorium aan de meldkamer van de Nederlandse Voedsel- en Warenautoriteit de gegevens ter identificatie van de monsterverpakking en het nummer van het op de desbetreffende vracht betrekking hebbende vervoersbewijs dierlijke meststoffen. Het laboratorium volgt de door de Nederlandse Voedsel- en Warenautoriteit ter zake verstrekte aanwijzingen op.   
+3.  Het laboratorium voldoet aan de eisen van het accreditatieprogramma AP05, dat is opgenomen in bijlage H.   
 4.  Uiterlijk tien werkdagen na verzending van de analyseresultaten door het laboratorium, kan door de betrokkenen heranalyse worden aangevraagd. Er vindt ten hoogste éénmaal een heranalyse plaats die wordt uitgevoerd door het laboratorium dat de analyse heeft uitgevoerd.   
 5.  Indien een laboratorium het fosfaatgehalte of stikstofgehalte van een monster niet kan vaststellen, omdat het monster na ontvangst door het laboratorium in het ongerede is geraakt, wordt de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van artikel 68, eerste en vijfde lid, van het besluit bepaald op basis van de in bijlage I voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten.  
 
@@ -1309,6 +1303,12 @@ b. geschieden de bemonstering en de verpakking van de genomen monsters, in afwij
 ### Artikel  83  
 
 Indien een vracht bestaat uit mestkorrels, geldt dat het gewicht, onderscheidenlijk het stikstofgehalte en het fosfaatgehalte, in afwijking van de artikelen 76, eerste lid, onderscheidenlijk 77, eerste lid, wordt bepaald op basis van het gewicht, onderscheidenlijk het stikstofgehalte en het fosfaatgehalte, zoals dat is vermeld op de verpakking van de mestkorrels of het begeleidende document bij de mestkorrels. 
+
+### Artikel  83a  
+
+1.  Indien de dierlijke meststoffen, bedoeld in de artikelen 84 tot en met 91, bestaan uit gier en filtraat na mestscheiding of koek na mestscheiding, wordt, in afwijking van de artikelen 84 tot en met 91, het stikstofgehalte en het fosfaatgehalte vastgesteld door middel van analyse van een uit de desbetreffende meststoffen genomen monster.   
+2.  De artikelen 77 tot en met 80 zijn van overeenkomstige toepassing.   
+3.  Artikel 81, vijfde lid, is van overeenkomstige toepassing op een monster dat in het ongerede is geraakt.  
 
 ### Artikel  84  
 
@@ -1514,12 +1514,12 @@ b. stelt het stikstofgehalte, het fosfaatgehalte en indien van toepassing het dr
 
 a. de resultaten van de overeenkomstig het protocol dat is opgenomen in bijlage K, onderdeel II, uitgevoerde bemonstering en analyse van de diervoeders; of  
 
-b. indien het mengvoeder betreft, de berekeningen uitgaande van de bekende gehalten van de nutriënten in de grondstoffen waaruit de diervoeders zijn bereid en het aandeel van deze stoffen in het eindproduct en rekening houdend met de aard van het productieproces.     
+b. indien het mengvoeders betreft, de berekeningen uitgaande van de bekende gehalten van de nutriënten in de grondstoffen waaruit de diervoeders zijn bereid en het aandeel van deze stoffen in het eindproduct en rekening houdend met de aard van het productieproces.     
 2.  Het stikstofgehalte en het fosfaatgehalte in diervoeders met een vochtgehalte kleiner dan of gelijk aan veertien procent wordt vastgesteld: 
 
 a. door middel van analyse van een uit de desbetreffende diervoeders volgens de algemeen geldende bemonsteringsprincipes genomen representatief monster; of  
 
-b. indien het mengvoeder betreft, de berekeningen uitgaande van de bekende gehalten van de nutriënten in de grondstoffen waaruit de diervoeders zijn bereid en het aandeel van deze stoffen in het eindproduct en rekening houdend met de aard van het productieproces.     
+b. indien het mengvoeders betreft, de berekeningen uitgaande van de bekende gehalten van de nutriënten in de grondstoffen waaruit de diervoeders zijn bereid en het aandeel van deze stoffen in het eindproduct en rekening houdend met de aard van het productieproces.     
 3.  De analyse, bedoeld in het eerste lid, onderdeel a, en het tweede lid, geschiedt binnen één week na ontvangst van het monster door een laboratorium dat voldoet aan de norm NEN-EN-ISO/IEC 17025 of een hieraan gelijkwaardige norm, volgens de toepasselijke onderzoekmethode voor de bepaling van het ruw eiwitgehalte, het fosforgehalte en het droge stofgehalte in diervoeders.   
 4.  De in het derde lid bedoelde toepasselijke methoden zijn de methoden die ten minste dezelfde waarborgen bieden als de methoden zijn voorgeschreven in Richtlijn 93/28/EEG van de Commissie van 4 juni 1993 (Pb.EG L 179) tot wijziging van bijlage I bij Derde Richtlijn 72/199/EEG betreffende de vaststelling van gemeenschappelijke analysemethoden voor de officiële controle van diervoerders, voor het ruw eiwitgehalte en in de Tweede Richtlijn 71/393/EEG van de Commissie van 18 november 1971 betreffende de vaststelling van gemeenschappelijke analysemethoden voor officiële controle van veevoeders (Pb.EG L 279) voor het fosforgehalte.   
 5.  Het resultaat van de analyse wordt door het laboratorium beoordeeld in het licht van de herhaalbaarheid, aangegeven in de betreffende analysemethode. Indien de norm voor herhaalbaarheid wordt overschreden, voert het laboratorium een herhalingsonderzoek op het monster uit.   
@@ -1533,7 +1533,7 @@ a. het overeenkomstig artikel 97 in samenhang met artikel 98 vastgestelde stikst
 
 b. voor diervoeder met een vochtgehalte groter dan veertien procent, het droge stofgehalte dan wel het vochtgehalte en het stikstofgehalte en het fosfaatgehalte in de droge stof van het desbetreffende diervoeder;  
 
-c. voor mengvoeder de diersoort waarvoor het diervoeder is bestemd;  
+c. voor mengvoeders de diersoort waarvoor het diervoeder is bestemd;  
 
 d. de datum van levering;  
 
@@ -1801,118 +1801,70 @@ Een productierecht, of een gedeelte daarvan, dat is overgegaan ingevolge het bep
 
 ####Uitbreiding buiten rechten
 
-###Artikel 112 
+### Artikel  112  
 
-1.  De minister kan indien naar zijn oordeel is voldaan aan deze paragraaf ontheffing verlenen van het verbod, bedoeld in de artikelen 19 en 20, eerste lid, van de wet.   
-2.  De ontheffing geldt voor het overeenkomstig artikel 113 te bepalen gemiddeld aantal varkens onderscheidenlijk kippen en kalkoenen dat in een kalenderjaar ten hoogste mag worden gehouden.   
-3.  Het gemiddeld aantal varkens onderscheidenlijk kippen en kalkoenen, bedoeld in het tweede lid, wordt uitgedrukt in varkenseenheden onderscheidenlijk in pluimvee-eenheden, overeenkomstig de in bijlage II van de wet daarvoor opgenomen normen. 
+1.  De minister kan op aanvraag ontheffing verlenen van het verbod, bedoeld in de artikelen 19, eerste lid, en 20, eerste lid van de wet.   
+2.  De minister kan een ontheffing geheel of gedeeltelijk intrekken indien een houder van een ontheffing niet langer voldoet aan de voorwaarden, bedoeld in deze paragraaf.  
 
-###Artikel 113 
+### Artikel  113  
 
-1.  Het gemiddeld aantal varkens onderscheidenlijk kippen en kalkoenen, bedoeld in artikel 112, tweede lid, komt overeen met het verschil in omvang van het op het bedrijf rustende productierecht op het tijdstip, bedoeld in artikel 119, tweede lid, en op het tijdstip waarop de ontheffing is verleend, verminderd met de omvang van de verkleiningen van het op het bedrijf rustende productierecht die in de periode vanaf het tijdstip waarop de ontheffing is verleend, hebben plaatsgevonden als gevolg van een registratie van een kennisgeving van een overgang van een productierecht, of gedeelte daarvan als bedoeld in artikel 27, tweede lid, van de wet, en bedraagt ten hoogste de ingevolge artikel 115, eerste lid, onderdeel a, bedoelde omvang van de voorgenomen vergroting van het varkensrecht, onderscheidenlijk pluimveerecht.   
-2.  Het totale aantal diereenheden, waarvoor ingevolge deze paragraaf ontheffing wordt verleend bedraagt ten hoogste 270.270. Van dit aantal zijn 135.135 diereenheden gereserveerd voor ontheffingen in het kader van mestverbranding en het resterende aantal is gereserveerd voor ontheffingen in het kader van mestverwerking. Van het laatstbedoelde aantal is 81.081 gereserveerd voor varkenseenheden. 
+1.  Het aantal varkenseenheden waarvoor ontheffing kan worden verleend bedraagt 121.622.   
+2.  Het aantal pluimvee-eenheden waarvoor ontheffing kan worden verleend bedraagt 1.200.000.  
 
-###Artikel 114 
+### Artikel  114  
 
-Aanvragen voor een ontheffing kunnen onder vermelding van het door de minister ter identificatie van het desbetreffende bedrijf verstrekte relatienummer vanaf 1 maart 2006 tot en met 30 april 2006 bij de minister worden ingediend: 
+1.  Een aanvraag voor ontheffing kan worden ingediend in de periode van 5 januari 2015, 9:00 uur, tot 30 januari 2015, 17:00 uur.   
+2.  Een aanvraag kan worden ingediend voor: 
 
-a. door een landbouwer die voornemens is: 
+a. ontheffing waarbij de varkens of het pluimvee waarop de uitbreiding betrekking heeft worden gehouden in een integraal duurzame stal, of  
 
-1°. het op het bedrijf rustende productierecht met ten hoogste 100 procent te vergroten; en  
+b. ontheffing waarbij de varkens of het pluimvee waarop de uitbreiding betrekking heeft niet in een integraal duurzame stal worden gehouden.     
+3.  Per bedrijf waarop een productierecht rust, kan maximaal één aanvraag voor een ontheffing voor varkenseenheden en maximaal één aanvraag voor een ontheffing voor pluimvee-eenheden worden ingediend.   
+4.  Een aanvraag die niet compleet is moet uiterlijk op 13 februari 2015 compleet zijn.  
 
-2°. de op het bedrijf door de diersoort waarop de aanvraag betrekking heeft geproduceerde hoeveelheid dierlijke meststoffen te verwerken of te laten verwerken door middel van mestverbranding of mestverwerking; en    
+### Artikel  115  
 
-b. ten aanzien van een door deze landbouwer gevoerd bedrijf: 
+1.  Een aanvraag voor ontheffing wordt ingediend met gebruikmaking van een middel dat door de minister beschikbaar wordt gesteld.   
+2.  Indien een aanvraag als bedoeld in artikel 114, tweede lid, onderdeel a, wordt ingediend en de aanvrager met een stalcertificaat als bedoeld in artikel 117, tweede lid, onderdeel c, wil aantonen dat de varkens of het pluimvee waarop de uitbreiding betrekking heeft in een integraal duurzame stal worden gehouden, gaat de aanvraag vergezeld van een kopie van dat stalcertificaat.  
 
-1°. dat op 13 april 2005 op naam van de desbetreffende landbouwer was geregistreerd bij de minister;  
+### Artikel  116  
 
-2°. dat op de datum, genoemd onder 1°, beschikte over een varkensrecht of een pluimveerecht, voor zover de aanvraag betrekking heeft op varkenseenheden onderscheidenlijk op pluimvee-eenheden; en  
+1.  De minister verdeelt het aantal beschikbare varkenseenheden in de volgorde van rangschikking, waarbij de aanvragen, bedoeld in artikel 114, tweede lid, onderdeel a, hoger worden gerangschikt dan de aanvragen, bedoeld in artikel 114, tweede lid, onderdeel b.   
+2.  Indien er meer aanvragen voor varkenseenheden worden ingediend dan het aantal, genoemd in artikel 113, eerste lid, verdeelt de minister het aantal beschikbare varkenseenheden door middel van loting tussen de aanvragen die op grond van de rangschikking voor verdeling in aanmerking komen.   
+3.  De minister verdeelt het aantal beschikbare pluimvee-eenheden in de volgorde van rangschikking, waarbij de aanvragen, bedoeld in artikel 114, tweede lid, onderdeel a, hoger worden gerangschikt dan de aanvragen, bedoeld in artikel 114, tweede lid, onderdeel b.   
+4.  Indien er meer aanvragen voor pluimvee-eenheden worden ingediend dan het aantal, genoemd in artikel 113, tweede lid, verdeelt de minister het aantal beschikbare pluimvee-eenheden door middel van loting tussen de aanvragen die op grond van de rangschikking voor verdeling in aanmerking komen.  
 
-3°. waarvan het productierecht na de datum, genoemd onder 1°, niet is verkleind, als gevolg van een registratie van een kennisgeving van een overgang van een productierecht, of gedeelte daarvan als bedoeld in artikel 27, tweede lid, van de wet, tenzij deze verkleining nadien is ongedaan gemaakt door een vergroting van het productierecht als gevolg van een registratie van een kennisgeving van een overgang van een productierecht, of gedeelte daarvan als bedoeld in artikel 27, tweede lid, van de wet.    
+### Artikel  117  
 
-###Artikel 115 
+1.  De aanvrager die een aanvraag als bedoeld in artikel 114, tweede lid, onderdeel a, heeft ingediend, houdt de varkens of het pluimvee waarop de uitbreiding betrekking heeft in een integraal duurzame stal.   
+2.  De aanvrager kan aantonen dat hij beschikt over een integraal duurzame stal indien hij beschikt over: 
 
-1.  Bij de aanvraag worden in ieder geval de volgende gegevens verstrekt: 
+a. een beschikking tot subsidievaststelling op grond van artikel 29 van de Regeling GLB-inkomstensteun 2006,  
 
-a. de omvang van de voorgenomen vergroting van het varkensrecht, onderscheidenlijk pluimveerecht;  
+b. een beschikking tot subsidievaststelling op grond van artikel 2.37, eerste lid, van de Regeling LNV-subsidies juncto bijlage 2, hoofdstuk 4, bij de Regeling LNV-subsidies, die hoger is dan € 0,00, of  
 
-b. de aard en de capaciteit van de installatie waarin de mestverbranding of de mestverwerking plaatsvindt;  
+c. een stal ontwerp certificaat of een definitief stalcertificaat Maatlat Duurzame Veehouderij afgegeven door de Stichting Milieukeur.    
 
-c. de wijze waarop de dierlijke meststoffen worden bewerkt of verwerkt en de techniek van de bij de mestverwerking gebruikte systemen;  
+### Artikel  118  
 
-d. een volledige beschrijving van het mestverwerkingsproces;  
+1.  De houder van een ontheffing laat 100% van de hoeveelheid dierlijke meststoffen van zijn bedrijfsoverschot overeenkomstig artikel 33a, derde lid, onderdeel a of b, van de Meststoffenwet verwerken.   
+2.  Indien de ontheffing niet op 1 januari wordt verleend, laat de houder van de ontheffing 100% van de hoeveelheid meststoffen van zijn bedrijfsoverschot overeenkomstig artikel 33a, derde lid, onderdeel a of b, van de Meststoffenwet verwerken die evenredig is met de periode van dat jaar waarvoor de ontheffing is verleend.  
 
-e. de hoeveelheid en de aard van de dierlijke meststoffen die zullen worden verbrand of verwerkt;  
+### Artikel  119  
 
-f. een beschrijving van de eindproducten die bij de mestverbranding of mestverwerking ontstaan;  
+1.  De minister verleent ontheffing voor 50% van de uitbreiding met een maximum van 2.500 varkenseenheden of 20.000 pluimvee-eenheden per ontheffing.   
+2.  Een landbouwer verwerft de overige varkenseenheden of pluimvee-eenheden die vereist zijn voor de uitbreiding uiterlijk op 31 december 2015.   
+3.  Een landbouwer heeft de uitbreiding niet voor 28 september 2011 gerealiseerd en realiseert de uitbreiding uiterlijk 31 december 2015.  
 
-g. gegevens of bescheiden op grond waarvan is verzekerd dat de producten, bedoeld in onderdeel f, niet worden afgevoerd naar of op of in de bodem worden gebracht op in Nederland gelegen landbouwgrond of natuurterrein; en  
+### Artikel  120  
 
-h. indien de verbrandings- of verwerkingsinstallatie nog niet operationeel is, gegevens waarmee aannemelijk wordt gemaakt dat de installatie wordt gerealiseerd vóór 1 mei 2009, onderscheidenlijk 1 november 2007.     
-2.  Indien de dierlijke meststoffen niet op het eigen bedrijf worden verbrand of verwerkt gaat de aanvraag vergezeld van een verklaring van de intermediair met wie de landbouwer voornemens is een overeenkomst aan te gaan tot mestverbranding of mestverwerking, waarin deze dit voornemen bevestigt, onder vermelding van het door de minister ter identificatie van de intermediair verstrekte relatienummer.  
-3.  Door of namens de minister kunnen nadere gegevens worden gevraagd. 
+Indien het gehele bedrijf ongewijzigd wordt voortgezet door een andere landbouwer gaan de rechten en voorschriften verbonden aan de ontheffing op hem over indien partijen zulks ter zake van de registratie van de overgang van het op dat bedrijf rustende productierecht aan de minister hebben gemeld. De ontheffing is in andere gevallen niet overdraagbaar. 
 
-###Artikel 116 
+### Artikel  120a  
 
-1.  De minister beslist in volgorde van de datum van ontvangst op de volledig ingediende aanvragen.   
-2.  Indien dit noodzakelijk is in verband met het bereiken van de in artikel 113, tweede lid, bedoelde aantallen wordt door middel van loting beslist over de rangschikking van de op één datum ontvangen aanvragen. 
+De ontheffing wordt verleend tot en met 31 december 2017. 
 
-###Artikel 117 
-
-De ontheffing wordt slechts verleend indien wordt voldaan aan elk van de volgende voorwaarden: 
-
-a. de omvang van de voorgenomen vergroting van het productierecht bedraagt ten hoogste 100 procent van het op het bedrijf rustende productierecht;  
-
-b. het op het bedrijf rustende productierecht is in de periode vanaf het tijdstip waarop de ontheffing is aangevraagd, niet verkleind, als gevolg van een registratie van een kennisgeving van een overgang van een productierecht, of gedeelte daarvan als bedoeld in artikel 27, tweede lid, van de wet,  
-
-c. de verbranding of de verwerking van de dierlijke meststoffen geschiedt op een naar het oordeel van de minister adequate wijze; en  
-
-d. de installatie waarin de dierlijke meststoffen worden verbrand of verwerkt, heeft naar oordeel van de minister voldoende capaciteit om de betrokken hoeveelheid dierlijke meststoffen te verbranden, onderscheidenlijk te verwerken.  
-
-###Artikel 118 
-
-1.  Aan de ontheffing worden de volgende voorschriften verbonden: 
-
-a. de installatie is overeenkomstig artikel 23, eerste lid of 24, eerste lid, van verordening (EG) nr. 1069/2009 geregistreerd respectievelijk erkend;  
-
-b. ten aanzien van de installatie is een vergunning als bedoeld in artikel 8.1, eerste lid, van de Wet milieubeheer of een omgevingsvergunning als bedoeld in artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht afgegeven;  
-
-c. de installatie voldoet steeds aan de voorwaarden, bedoeld in artikel 117, onderdelen c en d;  
-
-d. de totale hoeveelheid in een kalenderjaar op het bedrijf geproduceerde dierlijke meststoffen afkomstig van de diersoort waarop de ontheffing betrekking heeft, wordt uiterlijk in het daarop volgende kalenderjaar in de installatie verbrand of verwerkt en in datzelfde jaar worden de eindproducten die bij de mestverbranding of de mestverwerking ontstaan afgezet;  
-
-e. de eindproducten die bij de mestverbranding of de mestverwerking ontstaan worden niet afgevoerd naar of op of in de bodem gebracht op in Nederland gelegen landbouwgrond of natuurterrein;  
-
-f. indien de dierlijke meststoffen op het eigen bedrijf worden verbrand of verwerkt, beschikt de landbouwer over schriftelijke overeenkomsten die voor ten minste één jaar zijn aangegaan met de afnemers van de in onderdeel e, bedoelde eindproducten, op grond waarvan deze afnemers verplicht zijn de totale hoeveelheid in een kalenderjaar geproduceerde eindproducten af te nemen;  
-
-g. indien de dierlijke meststoffen niet op het eigen bedrijf worden verbrand of verwerkt, beschikt de landbouwer over schriftelijke overeenkomsten die voor ten minste drie jaar zijn aangegaan met de verbrander of de verwerker op grond waarvan hij verplicht is de totale hoeveelheid dierlijke meststoffen die in een kalenderjaar door de dieren behorend tot de diersoort waarop de ontheffing betrekking heeft kan worden geproduceerd, ter verbranding onderscheidenlijk ter verwerking van deze meststoffen af te leveren aan deze verbrander of verwerker;  
-
-h. in de in onderdeel g bedoelde situatie voert de landbouwer de hoeveelheid dierlijke meststoffen die hij ingevolge de overeenkomst verplicht is te leveren daadwerkelijk af aan de verbrander of de verwerker, die de meststoffen ter verbranding of verwerking in zijn installatie afneemt;  
-
-i. indien de verbranding of de verwerking van de dierlijke meststoffen niet op een adequate wijze kan geschieden als gevolg van een storing van de installatie, doet de landbouwer hiervan binnen drie dagen melding aan de minister; en  
-
-j. Wijzigingen in de ingevolge artikel 115 verstrekte gegevens worden uiterlijk 30 dagen na de datum van de wijziging, onder vermelding van het door de minister ter identificatie van het bedrijf verstrekte relatienummer, gemeld aan de minister.     
-2.  De landbouwer bewaart een afschrift van de overeenkomsten, bedoeld in het eerste lid, onderdelen f en g, als onderdeel van de administratie, bedoeld in artikel 32 van het besluit.   
-3.  Aan de ontheffing kunnen nadere voorschriften worden verbonden. 
-
-###Artikel 119 
-
-1.  De ontheffing geldt voor een periode van 10 jaar.   
-2.  De periode vangt aan op het tijdstip waarop blijkens een aan de minister te overleggen verklaring voldaan wordt aan de voorschriften, bedoeld in artikel 118. 
-
-###Artikel 120 
-
-1.  De ontheffing kan geheel of gedeeltelijk worden ingetrokken indien in strijd wordt gehandeld met één of meer bij of krachtens artikel 118 gestelde voorschriften of indien overigens in strijd wordt gehandeld met de bij of krachtens de Meststoffenwet.   
-2.  De ontheffing wordt ingetrokken indien de producent, die de aanvraag om ontheffing heeft ingediend, het bedrijf ten aanzien waarvan de ontheffing is verleend, niet langer voert.   
-3.  In afwijking van het tweede lid, gaan indien het gehele bedrijf ongewijzigd wordt voortgezet door een andere landbouwer de rechten en voorschriften verbonden aan de ontheffing op hem over indien partijen zulks ter zake van de registratie van de overgang van het op dat bedrijf rustende productierecht aan de minister hebben gemeld.   
-4.  De ontheffing vervalt indien niet binnen 36 of 18 maanden, te rekenen vanaf het tijdstip waarop over de aanvraag is beslist met de mestverbranding onderscheidenlijk mestverwerking is begonnen. 
-
-###Artikel 121 
-
-Voor de toepassing van deze paragraaf wordt bij de bepaling van de omvang van het op een bedrijf rustende productierecht de beperking van de verkleining en de vergroting die ingevolge artikel 28, derde lid, van de wet plaatsvindt in het jaar waarin de kennisgeving van de overgang van een productierecht wordt geregistreerd, buiten beschouwing gelaten.
-
-### Artikel  121a*  
-Treedt in werking per 01-01-2015 
+### Artikel  121  
 
 1.  Op ontheffingen die op grond van artikel 112 van de Uitvoeringsregeling Meststoffenwet zijn verleend voor de datum waarop deze regeling in werking treedt, blijft paragraaf 5 van de Uitvoeringsregeling Meststoffenwet, zoals deze luidde op de dag voor inwerkingtreding van deze regeling van toepassing.   
 2.  De landbouwer aan wie ontheffing op grond van artikel 112 van de Uitvoeringsregeling Meststoffen wet is verleend voor de datum waarop deze regeling in werking treedt, voldoet tevens aan de voorwaarden van paragraaf 5 van de Uitvoeringsregeling Meststoffenwet indien hij 100% van de hoeveelheid dierlijke meststoffen van zijn bedrijfsoverschot overeenkomstig artikel 33a, derde lid, onderdeel a of b, van de Meststoffenwet laat verwerken.   
@@ -1991,7 +1943,7 @@ De voldoening aan de voorwaarden 30, 35, 43, 44, 92a, derde lid, en 126, tweede 
 
 ### Artikel  129  
 
-Met het toezicht op de naleving van het bepaalde bij of krachtens de Meststoffenwet zijn belast de ambtenaren van de Algemene Inspectiedienst van het Ministerie van Economische Zaken, Landbouw en Innovatie. 
+Met het toezicht op de naleving van het bepaalde bij of krachtens de Meststoffenwet zijn belast de ambtenaren van de Nederlandse Voedsel- en Warenautoriteit van het Minister van Economische Zaken. 
 
 ### Artikel  130  
 
@@ -2124,7 +2076,7 @@ I. Stoffen die als meststof kunnen worden verhandeld
 
 15. Reststof die is vrijgekomen bij de ontzwaveling van rookgassen afkomstig van afgedankte katalysatorpellets gebruikt voor het kraken van olie van olieraffinaderijen al dan niet onder toevoeging van metaalhoudende slibben en/of filterkoeken, nadat deze in een wervel bed oven of een roterende trommeloven thermisch zijn behandeld om molybdeen, kobalt, nikkel en vanadium terug te winnen. De rookgassen worden gefilterd en met luchtwassers wordt zwaveldioxide aan magnesiumhydroxide tot magnesiumsulfiet gebonden dat vervolgens geoxideerd wordt tot een oplossing van magnesiumsulfaat in water met minder dan 100 mg fluoride per kg (waterige oplossing van magnesiumsulfaat van rookgasreiniging).  
 
-16. Reststof die is vrijgekomen bij de fabrieksmatige verwerking van aardappelen door het scheiden van resten aardappel, vet en onoplosbaar zetmeel waarna de geschoonde vloeistof anaëroob wordt gezuiverd en dan koolzuurgas wordt verwijderd en vervolgens magnesiumoxide wordt toegevoegd en het dan gevormde precipitaat wordt afgescheiden en gewassen, ontwaterd en eventueel gedroogd en die bestaat uit magnesiumammoniumfosfaat (magnesiumammoniumfosfaat van aardappelproceswater).  
+16. Vervallen.  
 
 17. Reststof die is vrijgekomen bij de fabrieksmatige bewerking van wei van kaasproductie na verwijdering van eiwit en calcium- en magnesiumfosfaten en die bestaat uit een oplossing van natriumchloride en kaliumchloride in water (natrium- en kaliumchlorideoplossing in water afkomstig van kaasproductie). 
 
@@ -2214,6 +2166,7 @@ I. Stoffen die als meststof kunnen worden verhandeld
 |8 |Reststof die is vrijgekomen bij het ontkorsten van kaas afkomstig van gepasteuriseerde koeienmelk en bestemd is voor levensmiddelen en die bestaat uit kaas, kaaskorst en maximaal 3% kaaskorstbedekkingsmiddel van copolymeren van vinylacetaat en maximaal 0,0006% Natamycine (E235) bevat (kaasschaafsel). |
 |9 |Reststof die is vrijgekomen bij de productie van melkzuurbacteriën bestemd voor de productie van kaas, kwark, yoghurt of karnemelk via een fermentatieproces en waaruit melkzuurbacteriën door een centrifugestap zijn verwijderd. De reststof bestaat uit resten van een vloeibaar groeimedium voor melkzuurbacteriën (supernatant, precipitaatvrij, waterig restant van groeimedium voor melkzuurbacteriën). |
 |10 |Reststof die vrijkomt als zuiveringsslib van een aerobe zuiveringsstap op AWZI van afvalwater van een kaasfabriek met sporen afvalwater van huishoudens, gevolgd door langdurige opslag en die bestaat uit de resten van actief slib en bezonken bestanddelen uit afvalwater en waarin pathogenen afdoende zijn afgedood (zuiveringsslib van kaasfabriek). |
+|11 |Reststof die is vrijgekomen bij zuivering van afvalwater van een fabriek die runderhuiden dan wel varkenshuiden verwerkt tot gelatine bestemd voor menselijke consumptie en die bestaat uit steekvast zuiveringsslib afkomstig van de afvalwaterzuiveringsinstallatie (steekvast zuiveringsslib van afvalwaterzuivering van gelatineproductie uit runder- dan wel varkenshuid). |
 |  *D*  |  *Stoffen afkomstig uit de diervoederindustrie*   |
 |  *E*  |  *Stoffen afkomstig uit andere industrieën*   |
 | 1  | Reststof die is vrijgekomen bij de fabrieksmatige winning van biodiesel uit raapzaadolie of koolzaadolie door omestering met methanol en scheiding onder invloed van de zwaartekracht (glycerine).  |
@@ -2595,186 +2548,186 @@ Tabel 1. Overzicht te betalen tarief per klasse
 
 Tabel 1 stikstofnormen per gewas 
 
-| grondsoort  | kleigrond  | zandgrond  | lössgrond  | veengrond  | jaar  | 2014–2017  | 2014  | 2014  | 2014–2017  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-|  *Grasland (kg N per ha per jaar)*   | --- | --- | --- | --- |
-| Grasland met beweiden  | 345  | 250  | 250  | 265  |
-| Grasland met volledig maaien<sup>1</sup>   | 385  | 320  | 320  | 300  |
-|  *Tijdelijk grasland (kg N per ha per periode) *   | --- | --- | --- | --- |
-| van 1 januari tot minstens 15 april  | 60  | 50  | 50  | 50  |
-| van 1 januari tot minstens 15 mei  | 110  | 90  | 90  | 90  |
-| van 1 januari tot minstens 15 augustus  | 250  | 210  | 210  | 210  |
-| van 1 januari tot minstens 15 september  | 280  | 235  | 235  | 235  |
-| van 1 januari tot minstens 15 oktober  | 310  | 250  | 250  | 265  |
-| vanaf 15 april tot minstens 15 oktober  | 310  | 250  | 250  | 265  |
-| vanaf 15 mei tot minstens 15 oktober  | 280  | 235  | 235  | 235  |
-| vanaf 15 augustus tot minstens 15 oktober  | 95  | 80  | 80  | 80  |
-| vanaf 15 september tot minstens 15 oktober  | 30  | 25  | 25  | 25  |
-| vanaf 15 oktober  | 0  | 0  | 0  | 0  |
-|  *Akkerbouwgewassen (kg N per ha per teelt)*   | --- | --- | --- | --- |
-| Blauwmaanzaad  | 110  | 100  | 100  | 105  |
-| Cichorei  | 70  | 70  | 70  | 70  |
-| Consumptieaardappelrassen hoge norm (zie tabel 2)  | 275  | 260  | 255  | 270  |
-| Consumptieaardappelrassen lage norm (zie tabel 2)  | 225  | 210  | 205  | 220  |
-| Consumptieaardappelrassen, vroeg  | 120  | 120  | 120  | 120  |
-| Consumptieaardappelrassen, overig  | 250  | 235  | 230  | 245  |
-| Graszaad, Engels raaigras, 1e jaars  | 165  | 150  | 150  | 155  |
-| Graszaad, Engels raaigras, overjarig  | 200  | 185  | 185  | 190  |
-| Graszaad, Italiaans  | 130  | 120  | 120  | 125  |
-| Graszaad, rietzwenkgras  | 140  | 130  | 130  | 135  |
-| Graszaad, rietzwenkgras, volgteelt  | 60  | 50  | 50  | 55  |
-| Graszaad, roodzwenkgras, 1e jaars  | 85  | 80  | 75  | 80  |
-| Graszaad, roodzwenkgras, 1e jaars, volgteelt  | 35  | 35  | 35  | 35  |
-| Graszaad, roodzwenkgras, overjarig  | 115  | 105  | 105  | 110  |
-| Graszaad, roodzwenkgras, overjarig, volgteelt  | 45  | 45  | 45  | 45  |
-| Graszaad, veldbeemd  | 110  | 100  | 100  | 105  |
-| Graszaad, veldbeemd, volgteelt  | 60  | 50  | 50  | 55  |
-| Graszaad, westerwolds  | 110  | 100  | 100  | 105  |
-| Graszaad, overig  | 90  | 80  | 80  | 85  |
-| Graszaad, overig, volgteelt  | 45  | 45  | 45  | 45  |
-| Graszoden  | 340  | 340  | 340  | 340  |
-| Haver  | 100  | 100  | 100  | 100  |
-| Maïs, bedrijven met derogatie  | 160  | 140  | 140  | 150  |
-| Maïs, bedrijven zonder derogatie  | 185  | 140  | 140  | 150  |
-| Luzerne, eerste jaar  | 40  | 40  | 40  | 40  |
-| Luzerne, volgende jaren  | 0  | 0  | 0  | 0  |
-| Karwij  | 150  | 140  | 140  | 145  |
-| Karwij waarvan ten hoogste na 31/12 (winterteelt)  | 90  | 80  | 80  | 85  |
-| Koolzaad waarvan ten hoogste voor 31/12 (winterteelt)  | 45  | 45  | 45  | 45  |
-| Koolzaad, winter  | 205  | 190  | 190  | 195  |
-| Koolzaad, zomer  | 120  | 120  | 120  | 120  |
-| Pootaardappelrassen hoge norm (zie tabel 3)  | 140  | 140  | 140  | 140  |
-| Pootaardappelrassen lage norm (zie tabel 3)  | 100  | 100  | 100  | 100  |
-| Pootaardappelen, uitgroeiteelt  | 180  | 165  | 165  | 170  |
-| Pootaardappelrassen, overig  | 120  | 120  | 120  | 120  |
-| Suikerbieten  | 150  | 145  | 145  | 145  |
-| Triticale  | 160  | 150  | 150  | 150  |
-| Ui, overig  | 120  | 120  | 120  | 120  |
-| Vlas  | 70  | 70  | 70  | 70  |
-| Voederbieten  | 165  | 165  | 165  | 165  |
-| Wintergerst  | 140  | 140  | 140  | 140  |
-| Winterrogge  | 140  | 140  | 140  | 140  |
-| Wintertarwe  | 245  | 160  | 190  | 160  |
-| Winterui, 2e jaars plantui  | 170  | 155  | 155  | 160  |
-| Winterui, 2e jaars plantui, waarvan ten hoogste na 31/12 (winterteelt)  | 130  | 120  | 120  | 125  |
-| Zaaiui  | 170  | 120  | 120  | 120  |
-| Zetmeelaardappelen  | 240  | 230  | 230  | 230  |
-| Zomergerst  | 80  | 80  | 80  | 80  |
-| Zomertarwe  | 150  | 140  | 140  | 140  |
-| Akkerbouwgewassen, overig  | 200  | 185  | 185  | 190  |
-|  *Bladgewassen (kg N per ha per teelt)*   | --- | --- | --- | --- |
-| Andijvie, 1e teelt  | 180  | 170  | 170  | 170  |
-| Andijvie, volgteelt  | 90  | 90  | 90  | 90  |
-| Selderij, bleek/groen  | 200  | 185  | 185  | 190  |
-| Slasoorten, 1e teelt  | 180  | 165  | 165  | 170  |
-| Slasoorten, volgteelt  | 105  | 105  | 105  | 105  |
-| Spinazie, 1e teelt  | 260  | 190  | 190  | 200  |
-| Spinazie, volgteelt  | 185  | 145  | 145  | 150  |
-| Prei  | 245  | 225  | 225  | 235  |
-| Prei waarvan ten hoogste na 31/12 (winterteelt)  | 100  | 90  | 90  | 95  |
-| Bladgewassen, overig, eenmalige oogst  | 150  | 140  | 140  | 145  |
-| Bladgewassen, overig, meermalige oogst  | 275  | 250  | 250  | 260  |
-|  *Koolgewassen (kg N per ha per teelt)*   | --- | --- | --- | --- |
-| Bloemkool  | 230  | 210  | 210  | 220  |
-| Bloemkool waarvan ten hoogste na 31/12 (winterteelt)  | 120  | 110  | 110  | 115  |
-| Boerenkool  | 170  | 155  | 155  | 160  |
-| Broccoli  | 270  | 235  | 235  | 245  |
-| Chinese kool  | 180  | 155  | 155  | 160  |
-| Paksoi  | 180  | 165  | 165  | 170  |
-| Raapstelen  | 140  | 130  | 130  | 135  |
-| Rode kool  | 285  | 260  | 260  | 270  |
-| Savooiekool  | 285  | 260  | 260  | 270  |
-| Spitskool  | 285  | 260  | 260  | 270  |
-| Spruitkool  | 290  | 265  | 265  | 275  |
-| Spruitkool waarvan ten hoogste na 31/12 (winterteelt)  | 50  | 50  | 50  | 50  |
-| Witte kool  | 320  | 290  | 290  | 305  |
-|  *Kruiden (kg N per ha per teelt)*   | --- | --- | --- | --- |
-| Kruiden, bladgewas, eenmalige oogst  | 150  | 140  | 140  | 145  |
-| Kruiden, bladgewas, meermalig oogsten  | 275  | 250  | 250  | 260  |
-| Kruiden, wortelgewassen  | 200  | 185  | 185  | 190  |
-| Kruiden, zaadgewassen  | 100  | 90  | 90  | 95  |
-|  *Vruchtgewassen (kg N per ha per teelt)*   | --- | --- | --- | --- |
-| Aardbei (wachtbed, vermeerdering)  | 120  | 110  | 110  | 115  |
-| Aardbei (productie)  | 170  | 155  | 155  | 160  |
-| Aardbei (productie) waarvan ten hoogste na 31/12 (winterteelt)  | 80  | 70  | 70  | 75  |
-| Erwt, vers + rijp zaad  | 30  | 30  | 30  | 30  |
-| Komkommerachtigen (augurk, courgette, meloen, pompoen)  | 190  | 175  | 175  | 180  |
-| Landbouwstambonen, rijp zaad  | 135  | 135  | 135  | 135  |
-| Peul  | 90  | 85  | 85  | 85  |
-| Stam/stokboon, vers  | 120  | 110  | 110  | 115  |
-| Suikermaïs  | 200  | 185  | 185  | 190  |
-| Tuinbonen, vers/peulen  | 75  | 75  | 75  | 75  |
-| Veld- en tuinbonen, vers + rijp zaad  | 50  | 50  | 50  | 50  |
-|  *Stengel/knol/wortelgewassen (kg N per ha per teelt)*   | --- | --- | --- | --- |
-| Asperge (excl. opkweek)  | 85  | 75  | 75  | 80  |
-| Bospeen  | 50  | 50  | 50  | 50  |
-| Knolselderij  | 200  | 185  | 185  | 190  |
-| Knolvenkel/venkel  | 180  | 165  | 165  | 170  |
-| Koolraap  | 170  | 155  | 155  | 160  |
-| Koolrabi  | 180  | 165  | 165  | 170  |
-| Kroten/rode bieten  | 185  | 170  | 170  | 175  |
-| Rabarber  | 250  | 230  | 230  | 240  |
-| Radijs  | 80  | 80  | 80  | 80  |
-| Schorseneer  | 170  | 170  | 170  | 170  |
-| Winterpeen/waspeen  | 110  | 110  | 110  | 110  |
-| Witlof  | 100  | 100  | 100  | 100  |
-| Stengel/knol/wortelgewassen, overig  | 200  | 185  | 185  | 190  |
-|  *Groenbemesters (kg N per ha per teelt)*   | --- | --- | --- | --- |
-| Niet-vlinderbloemige groenbemesters (bladrammenas, gele mosterd, gras/granen)  | 60  | 50  | 50  | 60  |
-| Tagetes  | 90  | 80  | 80  | 90  |
-| Vlinderbloemige groenbemesters (wikke)  | 30  | 25  | 25  | 30  |
-|  *Bloembollengewassen (kg N per ha per teelt)*   | --- | --- | --- | --- |
-| Acidanthera  | 255  | 240  | 240  | 240  |
-| Anemone coronaria  | 130  | 125  | 125  | 125  |
-| Dahlia  | 110  | 105  | 105  | 105  |
-| Fritillaria imperialis  | 135  | 130  | 130  | 130  |
-| Gladiool, pitten  | 260  | 245  | 245  | 245  |
-| Gladiool, kralen  | 190  | 180  | 180  | 180  |
-| Hyacint  | 220  | 210  | 210  | 210  |
-| Iris, grofbollig  | 170  | 160  | 160  | 160  |
-| Iris, fijnbollig  | 140  | 135  | 135  | 135  |
-| Knolbegonia  | 150  | 145  | 145  | 145  |
-| Krokus, grote gele  | 175  | 165  | 165  | 165  |
-| Krokus, overig  | 90  | 85  | 85  | 85  |
-| Lelie  | 155  | 145  | 145  | 145  |
-| Narcis  | 145  | 140  | 140  | 140  |
-| Tulp  | 200  | 190  | 190  | 190  |
-| Zantedeschia  | 120  | 120  | 120  | 120  |
-| Bloembollengewassen, overig  | 165  | 155  | 155  | 155  |
-|  *Fruitteeltgewassen (kg N per ha per jaar)*   | --- | --- | --- | --- |
-| Appel  | 175  | 165  | 165  | 165  |
-| Blauwe bes  | 100  | 95  | 95  | 95  |
-| Braam  | 150  | 140  | 140  | 140  |
-| Framboos  | 150  | 140  | 140  | 140  |
-| Kers  | 175  | 165  | 165  | 165  |
-| Peer  | 175  | 165  | 165  | 165  |
-| Pruim  | 175  | 165  | 165  | 165  |
-| Rode bes  | 150  | 140  | 140  | 140  |
-| Wijnbouw  | 100  | 95  | 95  | 95  |
-| Zwarte bes  | 175  | 165  | 165  | 165  |
-|  *Buitenbloemen (kg N per ha per teelt)*   | --- | --- | --- | --- |
-| Buitenbloemen hoge norm (zie tabel 4)  | 200  | 200  | 200  | 200  |
-| Buitenbloemen, overig  | 150  | 150  | 150  | 150  |
-|  *Boomkwekerijgewassen (kg N per ha per jaar)*   | --- | --- | --- | --- |
-| Bos- en Haagplantsoen  | 95  | 95  | 95  | 95  |
-| Buxus  | 95  | 95  | 95  | 95  |
-| Coniferen (inclusief kerstsparren en dennen)  | 80  | 80  | 80  | 80  |
-| Ericaceae  | 70  | 70  | 70  | 70  |
-| Laanbomen: onderstammen  | 40  | 40  | 40  | 40  |
-| Laanbomen: spillen  | 90  | 90  | 90  | 90  |
-| Laanbomen: opzetters  | 115  | 115  | 115  | 115  |
-| Rozen (incl. zaailingen, onderstammen)  | 70  | 70  | 70  | 70  |
-| Sierheesters  | 75  | 75  | 75  | 75  |
-| Snijgroen  | 95  | 95  | 95  | 95  |
-| Trek- en besheesters  | 80  | 80  | 80  | 80  |
-| Vaste planten  | 175  | 175  | 175  | 175  |
-| Vruchtbomen: onderstammen  | 30  | 30  | 30  | 30  |
-| Vruchtbomen: moerbomen  | 110  | 110  | 110  | 110  |
-| Vruchtbomen, overig  | 135  | 105  | 105  | 105  |
-|  *Bosbouw (kg N per ha per jaar)*   | --- | --- | --- | --- |
-| Snelgroeiende houtsoorten voor biomassaproductie  | 90  | 90  | 90  | 90  |
+| grondsoort  | kleigrond  | noordelijke<sup>1</sup>, westelijke<sup>2</sup> en centrale<sup>3</sup> zandgronden  | zuidelijke zandgronden<sup>4</sup>   | lössgrond  | veengrond  | jaar  | 2014–2017  | 2015–2017  | 2015–2017  | 2015–2017  | 2014–2017  |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|  *Grasland (kg N per ha per jaar)*   | --- | --- | --- | --- | --- |
+| Grasland met beweiden  | 345  | 250  | 250  | 250  | 265  |
+| Grasland met volledig maaien<sup>5</sup>   | 385  | 320  | 320  | 320  | 300  |
+|  *Tijdelijk grasland (kg N per ha per periode) *   | --- | --- | --- | --- | --- |
+| van 1 januari tot minstens 15 april  | 60  | 50  | 50  | 50  | 50  |
+| van 1 januari tot minstens 15 mei  | 110  | 90  | 90  | 90  | 90  |
+| van 1 januari tot minstens 15 augustus  | 250  | 210  | 210  | 210  | 210  |
+| van 1 januari tot minstens 15 september  | 280  | 235  | 235  | 235  | 235  |
+| van 1 januari tot minstens 15 oktober  | 310  | 250  | 250  | 250  | 265  |
+| vanaf 15 april tot minstens 15 oktober  | 310  | 250  | 250  | 250  | 265  |
+| vanaf 15 mei tot minstens 15 oktober  | 280  | 235  | 235  | 235  | 235  |
+| vanaf 15 augustus tot minstens 15 oktober  | 95  | 80  | 80  | 80  | 80  |
+| vanaf 15 september tot minstens 15 oktober  | 30  | 25  | 25  | 25  | 25  |
+| vanaf 15 oktober  | 0  | 0  | 0  | 0  | 0  |
+|  *Akkerbouwgewassen (kg N per ha per teelt)*   | --- | --- | --- | --- | --- |
+| Blauwmaanzaad  | 110  | 100  | 80  | 80  | 105  |
+| Cichorei  | 70  | 70  | 70  | 70  | 70  |
+| Consumptieaardappelrassen hoge norm (zie tabel 2)  | 275  | 260  | 208  | 204  | 270  |
+| Consumptieaardappelrassen lage norm (zie tabel 2)  | 225  | 210  | 168  | 164  | 220  |
+| Consumptieaardappelrassen, vroeg  | 120  | 120  | 96  | 96  | 120  |
+| Consumptieaardappelrassen, overig  | 250  | 235  | 188  | 184  | 245  |
+| Graszaad, Engels raaigras, 1e jaars  | 165  | 150  | 120  | 120  | 155  |
+| Graszaad, Engels raaigras, overjarig  | 200  | 185  | 148  | 148  | 190  |
+| Graszaad, Italiaans  | 130  | 120  | 96  | 96  | 125  |
+| Graszaad, rietzwenkgras  | 140  | 130  | 104  | 104  | 135  |
+| Graszaad, rietzwenkgras, volgteelt  | 60  | 50  | 40  | 40  | 55  |
+| Graszaad, roodzwenkgras, 1e jaars  | 85  | 75  | 60  | 60  | 80  |
+| Graszaad, roodzwenkgras, 1e jaars, volgteelt  | 35  | 35  | 28  | 28  | 35  |
+| Graszaad, roodzwenkgras, overjarig  | 115  | 105  | 84  | 84  | 110  |
+| Graszaad, roodzwenkgras, overjarig, volgteelt  | 45  | 45  | 36  | 36  | 45  |
+| Graszaad, veldbeemd  | 110  | 100  | 80  | 80  | 105  |
+| Graszaad, veldbeemd, volgteelt  | 60  | 50  | 40  | 40  | 55  |
+| Graszaad, westerwolds  | 110  | 100  | 80  | 80  | 105  |
+| Graszaad, overig  | 90  | 80  | 64  | 64  | 85  |
+| Graszaad, overig, volgteelt  | 45  | 45  | 36  | 36  | 45  |
+| Graszoden  | 340  | 340  | 272  | 272  | 340  |
+| Haver  | 100  | 100  | 100  | 100  | 100  |
+| Maïs, bedrijven met derogatie  | 160  | 140  | 112  | 112  | 150  |
+| Maïs, bedrijven zonder derogatie  | 185  | 140  | 112  | 112  | 150  |
+| Luzerne, eerste jaar  | 40  | 40  | 40  | 40  | 40  |
+| Luzerne, volgende jaren  | 0  | 0  | 0  | 0  | 0  |
+| Karwij  | 150  | 140  | 112  | 112  | 145  |
+| Karwij waarvan ten hoogste na 31/12 (winterteelt)  | 90  | 80  | 64  | 64  | 85  |
+| Koolzaad waarvan ten hoogste voor 31/12 (winterteelt)  | 45  | 45  | 36  | 36  | 45  |
+| Koolzaad, winter  | 205  | 190  | 152  | 152  | 195  |
+| Koolzaad, zomer  | 120  | 120  | 96  | 96  | 120  |
+| Pootaardappelrassen hoge norm (zie tabel 3)  | 140  | 140  | 140  | 140  | 140  |
+| Pootaardappelrassen lage norm (zie tabel 3)  | 100  | 100  | 100  | 100  | 100  |
+| Pootaardappelen, uitgroeiteelt  | 180  | 165  | 165  | 165  | 170  |
+| Pootaardappelrassen, overig  | 120  | 120  | 120  | 120  | 120  |
+| Suikerbieten  | 150  | 145  | 116  | 116  | 145  |
+| Triticale  | 160  | 150  | 120  | 120  | 150  |
+| Ui, overig  | 120  | 120  | 120  | 120  | 120  |
+| Vlas  | 70  | 70  | 56  | 56  | 70  |
+| Voederbieten  | 165  | 165  | 132  | 132  | 165  |
+| Wintergerst  | 140  | 140  | 140  | 140  | 140  |
+| Winterrogge  | 140  | 140  | 140  | 140  | 140  |
+| Wintertarwe  | 245  | 160  | 160  | 190  | 160  |
+| Winterui, 2e jaars plantui  | 170  | 155  | 124  | 124  | 160  |
+| Winterui, 2e jaars plantui, waarvan ten hoogste na 31/12 (winterteelt)  | 130  | 120  | 96  | 96  | 125  |
+| Zaaiui  | 170  | 120  | 120  | 120  | 120  |
+| Zetmeelaardappelen  | 240  | 230  | 184  | 184  | 230  |
+| Zomergerst  | 80  | 80  | 80  | 80  | 80  |
+| Zomertarwe  | 150  | 140  | 140  | 140  | 140  |
+| Akkerbouwgewassen, overig  | 200  | 185  | 148  | 148  | 190  |
+|  *Bladgewassen (kg N per ha per teelt)*   | --- | --- | --- | --- | --- |
+| Andijvie, 1e teelt  | 180  | 170  | 136  | 136  | 170  |
+| Andijvie, volgteelt  | 90  | 90  | 72  | 72  | 90  |
+| Selderij, bleek/groen  | 200  | 185  | 148  | 148  | 190  |
+| Slasoorten, 1e teelt  | 180  | 165  | 132  | 132  | 170  |
+| Slasoorten, volgteelt  | 105  | 105  | 84  | 84  | 105  |
+| Spinazie, 1e teelt  | 260  | 190  | 152  | 152  | 200  |
+| Spinazie, volgteelt  | 185  | 145  | 116  | 116  | 150  |
+| Prei  | 245  | 225  | 180  | 180  | 235  |
+| Prei waarvan ten hoogste na 31/12 (winterteelt)  | 100  | 90  | 72  | 72  | 95  |
+| Bladgewassen, overig, eenmalige oogst  | 150  | 140  | 112  | 112  | 145  |
+| Bladgewassen, overig, meermalige oogst  | 275  | 250  | 200  | 200  | 260  |
+|  *Koolgewassen (kg N per ha per teelt)*   | --- | --- | --- | --- | --- |
+| Bloemkool  | 230  | 210  | 168  | 168  | 220  |
+| Bloemkool waarvan ten hoogste na 31/12 (winterteelt)  | 120  | 110  | 88  | 88  | 115  |
+| Boerenkool  | 170  | 155  | 124  | 124  | 160  |
+| Broccoli  | 270  | 235  | 188  | 188  | 245  |
+| Chinese kool  | 180  | 155  | 124  | 124  | 160  |
+| Paksoi  | 180  | 165  | 132  | 132  | 170  |
+| Raapstelen  | 140  | 130  | 104  | 104  | 135  |
+| Rode kool  | 285  | 260  | 208  | 208  | 270  |
+| Savooiekool  | 285  | 260  | 208  | 208  | 270  |
+| Spitskool  | 285  | 260  | 208  | 208  | 270  |
+| Spruitkool  | 290  | 265  | 212  | 212  | 275  |
+| Spruitkool waarvan ten hoogste na 31/12 (winterteelt)  | 50  | 50  | 40  | 40  | 50  |
+| Witte kool  | 320  | 290  | 232  | 232  | 305  |
+|  *Kruiden (kg N per ha per teelt)*   | --- | --- | --- | --- | --- |
+| Kruiden, bladgewas, eenmalige oogst  | 150  | 140  | 112  | 112  | 145  |
+| Kruiden, bladgewas, meermalig oogsten  | 275  | 250  | 200  | 200  | 260  |
+| Kruiden, wortelgewassen  | 200  | 185  | 148  | 148  | 190  |
+| Kruiden, zaadgewassen  | 100  | 90  | 72  | 72  | 95  |
+|  *Vruchtgewassen (kg N per ha per teelt)*   | --- | --- | --- | --- | --- |
+| Aardbei (wachtbed, vermeerdering)  | 120  | 110  | 88  | 88  | 115  |
+| Aardbei (productie)  | 170  | 155  | 124  | 124  | 160  |
+| Aardbei (productie) waarvan ten hoogste na 31/12 (winterteelt)  | 80  | 70  | 56  | 56  | 75  |
+| Erwt, vers + rijp zaad  | 30  | 30  | 30  | 30  | 30  |
+| Komkommerachtigen (augurk, courgette, meloen, pompoen)  | 190  | 175  | 140  | 140  | 180  |
+| Landbouwstambonen, rijp zaad  | 135  | 135  | 108  | 108  | 135  |
+| Peul  | 90  | 85  | 68  | 68  | 85  |
+| Stam/stokboon, vers  | 120  | 110  | 88  | 88  | 115  |
+| Suikermaïs  | 200  | 185  | 148  | 148  | 190  |
+| Tuinbonen, vers/peulen  | 75  | 75  | 75  | 75  | 75  |
+| Veld- en tuinbonen, vers + rijp zaad  | 50  | 50  | 40  | 40  | 50  |
+|  *Stengel/knol/wortelgewassen (kg N per ha per teelt)*   | --- | --- | --- | --- | --- |
+| Asperge (excl. opkweek)  | 85  | 75  | 60  | 60  | 80  |
+| Bospeen  | 50  | 50  | 50  | 50  | 50  |
+| Knolselderij  | 200  | 185  | 148  | 148  | 190  |
+| Knolvenkel/venkel  | 180  | 165  | 132  | 132  | 170  |
+| Koolraap  | 170  | 155  | 124  | 124  | 160  |
+| Koolrabi  | 180  | 165  | 132  | 132  | 170  |
+| Kroten/rode bieten  | 185  | 170  | 136  | 136  | 175  |
+| Rabarber  | 250  | 230  | 184  | 184  | 240  |
+| Radijs  | 80  | 80  | 64  | 64  | 80  |
+| Schorseneer  | 170  | 170  | 170  | 170  | 170  |
+| Winterpeen/waspeen  | 110  | 110  | 110  | 110  | 110  |
+| Witlof  | 100  | 100  | 100  | 100  | 100  |
+| Stengel/knol/wortelgewassen, overig  | 200  | 185  | 148  | 148  | 190  |
+|  *Groenbemesters (kg N per ha per teelt)*   | --- | --- | --- | --- | --- |
+| Vlinderbloemige groenbemesters |30 | 25 | 25  | 25  | 30  |
+| Niet-vlinderbloemige groenbemesters  | 60  | 50  | 50  | 50  | 60  |
+|  *Bloembollengewassen (kg N per ha per teelt)*   | --- | --- | --- | --- | --- |
+| Acidanthera  | 255  | 240  | 240  | 240  | 240  |
+| Anemone coronaria  | 130  | 125  | 125  | 125  | 125  |
+| Dahlia  | 110  | 105  | 105  | 105  | 105  |
+| Fritillaria imperialis  | 135  | 130  | 130  | 130  | 130  |
+| Gladiool, pitten  | 260  | 245  | 245  | 245  | 245  |
+| Gladiool, kralen  | 190  | 180  | 180  | 180  | 180  |
+| Hyacint  | 220  | 210  | 210  | 210  | 210  |
+| Iris, grofbollig  | 170  | 160  | 160  | 160  | 160  |
+| Iris, fijnbollig  | 140  | 135  | 135  | 135  | 135  |
+| Knolbegonia  | 150  | 145  | 145  | 145  | 145  |
+| Krokus, grote gele  | 175  | 165  | 165  | 165  | 165  |
+| Krokus, overig  | 90  | 85  | 85  | 85  | 85  |
+| Lelie  | 155  | 145  | 145  | 145  | 145  |
+| Narcis  | 145  | 140  | 140  | 140  | 140  |
+| Tulp  | 200  | 190  | 190  | 190  | 190  |
+| Zantedeschia  | 120  | 120  | 120  | 120  | 120  |
+| Bloembollengewassen, overig  | 165  | 155  | 155  | 155  | 155  |
+|  *Fruitteeltgewassen (kg N per ha per jaar)*   | --- | --- | --- | --- | --- |
+| Appel  | 175  | 165  | 165  | 165  | 165  |
+| Blauwe bes  | 100  | 95  | 95  | 95  | 95  |
+| Braam  | 150  | 140  | 140  | 140  | 140  |
+| Framboos  | 150  | 140  | 140  | 140  | 140  |
+| Kers  | 175  | 165  | 165  | 165  | 165  |
+| Peer  | 175  | 165  | 165  | 165  | 165  |
+| Pruim  | 175  | 165  | 165  | 165  | 165  |
+| Rode bes  | 150  | 140  | 140  | 140  | 140  |
+| Wijnbouw  | 100  | 95  | 95  | 95  | 95  |
+| Zwarte bes  | 175  | 165  | 165  | 165  | 165  |
+|  *Buitenbloemen (kg N per ha per teelt)*   | --- | --- | --- | --- | --- |
+| Buitenbloemen hoge norm (zie tabel 4)  | 200  | 200  | 200  | 200  | 200  |
+| Tagetes  | 90  | 80  | 80  | 80  | 90  |
+| Buitenbloemen, overig  | 150  | 150  | 150  | 150  | 150  |
+|  *Boomkwekerijgewassen (kg N per ha per jaar)*   | --- | --- | --- | --- | --- |
+| Bos- en Haagplantsoen  | 95  | 95  | 95  | 95  | 95  |
+| Buxus  | 95  | 95  | 95  | 95  | 95  |
+| Coniferen (inclusief kerstsparren en dennen)  | 80  | 80  | 80  | 80  | 80  |
+| Ericaceae  | 70  | 70  | 70  | 70  | 70  |
+| Laanbomen: onderstammen  | 40  | 40  | 40  | 40  | 40  |
+| Laanbomen: spillen  | 90  | 90  | 90  | 90  | 90  |
+| Laanbomen: opzetters  | 115  | 115  | 115  | 115  | 115  |
+| Rozen (incl. zaailingen, onderstammen)  | 70  | 70  | 70  | 70  | 70  |
+| Sierheesters  | 75  | 75  | 75  | 75  | 75  |
+| Snijgroen  | 95  | 95  | 95  | 95  | 95  |
+| Trek- en besheesters  | 80  | 80  | 80  | 80  | 80  |
+| Vaste planten  | 175  | 175  | 175  | 175  | 175  |
+| Vruchtbomen: onderstammen  | 30  | 30  | 30  | 30  | 30  |
+| Vruchtbomen: moerbomen  | 110  | 110  | 110  | 110  | 110  |
+| Vruchtbomen, overig  | 135  | 105  | 105  | 105  | 105  |
+|  *Bosbouw (kg N per ha per jaar)*   | --- | --- | --- | --- | --- |
+| Snelgroeiende houtsoorten voor biomassaproductie  | 90  | 90  | 90  | 90  | 90  |
 
-<sup>1</sup> Onder ‘grasland met volledig maaien’ wordt mede verstaan grasland waar uitsluitend jongvee van runderen niet ouder dan 2 jaar wordt geweid, voor zover het aantal stuks jongvee in de wei niet groter is dan het aantal op het bedrijf gehouden ouderdieren of waar hobbymatig gehouden dieren worden geweid. Tabel 2 Consumptieaardappelrassen met een hoge of een lage stikstofnorm 
+<sup>1</sup> Zijnde de zandgronden gelegen in de provincies Friesland, Groningen en Drenthe.<sup>2</sup> Zijnde de zandgronden gelegen in de provincies Noord-Holland, Zuid-Holland, Flevoland en Zeeland.<sup>3</sup> Zijnde de zandgronden gelegen in de provincies Overijssel, Gelderland en Utrecht.<sup>4</sup> Zijnde de zandgronden gelegen in de provincies Limburg en Noord-Brabant.<sup>5</sup> Onder ‘grasland met volledig maaien’ wordt mede verstaan grasland waar uitsluitend jongvee van runderen niet ouder dan 2 jaar wordt geweid, voor zover het aantal stuks jongvee in de wei niet groter is dan het aantal op het bedrijf gehouden ouderdieren of waar hobbymatig gehouden dieren worden geweid. Tabel 2 Consumptieaardappelrassen met een hoge of een lage stikstofnorm 
 
 | Consumptieaardappelrassen met een hoge stikstofnorm  | Consumptieaardappelrassen met een lage stikstofnorm  |
 |:---|:---|
@@ -2847,7 +2800,7 @@ Tabel 5 consumptieaardappelrassen als bedoeld in artikel 28a
 
 ####Principe
 
-De bouwvoor of zode van een perceel landbouwgrond wordt volgens een gestratificeerde aselecte steekproef bemonsterd met behulp van een speciaal daarvoor opgesteld softwareprogramma dat digitaal te verkrijgen is bij het Ministerie van Economische Zaken, Landbouw en Innovatie. In onderdeel I van dit protocol wordt aangegeven hoe de bemonstering van een perceel bouwland of grasland dient plaats te vinden. De grond van de verschillende bemonsteringspunten wordt gemengd tot één mengmonster. Het mengmonster wordt vervolgens voorbehandeld en in duplo geanalyseerd op fosfaattoestand volgens de werkvoorschriften voor de bepaling van het PAL-getal en het Pw-getal, die respectievelijk staan omschreven in onderdeel II en III van dit protocol. Het gemiddelde van de duplo-bepalingen is de uitslag van de test die vergeleken moet worden met de waarden die opgenomen zijn in artikel 30, eerste en tweede lid van de regeling. Een heranalyse van het genomen bodemmonster is niet mogelijk. Voor een nieuwe analyse dient een nieuw monster gestoken te worden om het mengmonster te verkrijgen. 
+De bouwvoor of zode van een perceel landbouwgrond wordt volgens een gestratificeerde aselecte steekproef bemonsterd met behulp van een speciaal daarvoor opgesteld softwareprogramma dat digitaal te verkrijgen is bij het Minister van Economische Zaken. In onderdeel I van dit protocol wordt aangegeven hoe de bemonstering van een perceel bouwland of grasland dient plaats te vinden. De grond van de verschillende bemonsteringspunten wordt gemengd tot één mengmonster. Het mengmonster wordt vervolgens voorbehandeld en in duplo geanalyseerd op fosfaattoestand volgens de werkvoorschriften voor de bepaling van het PAL-getal en het Pw-getal, die respectievelijk staan omschreven in onderdeel II en III van dit protocol. Het gemiddelde van de duplo-bepalingen is de uitslag van de test die vergeleken moet worden met de waarden die opgenomen zijn in artikel 30, eerste en tweede lid van de regeling. Een heranalyse van het genomen bodemmonster is niet mogelijk. Voor een nieuwe analyse dient een nieuw monster gestoken te worden om het mengmonster te verkrijgen. 
 
 ### Onderdeel  I  
 
@@ -3068,16 +3021,16 @@ De stikstofexcreties van staldieren moeten berekend worden conform de stalbalans
 |:---|:---|:---|:---|:---|:---|:---|
 |  *Bos Taurus (rund)*   | 10  | --- |
 | Melk- en kalfkoeien (alle koeien die ten minste éénmaal hebben gekalfd en die voor de melkproductie of de fokkerij worden gehouden; ook koeien die drooggezet zijn alsmede koeien die worden vetgemest en in de mesttijd worden gemolken)  | 100  | --- | Zie tabel II  | Zie tabel II  | Zie tabel II  | –  |
-| Jongvee jonger dan 1 jaar (alle runderen jonger dan 1 jaar met uitzondering van startkalveren, witvleeskalveren, rosevleeskalveren en vleesstieren)  | 101  | drijfmest  vaste mest  | 4,4  2,2  | 36,8  31,5  | 10,2  | –  –  |
-| Jongvee van 1 jaar en ouder (alle runderen van 1 jaar en ouder inclusief overig vleesvee, maar met uitzondering van roodvleesstieren en fokstieren)  | 102  | drijfmest  vaste mest  | 9,5  4,7  | 70,2  59,9  | 23,5  | –  –  |
-| Fokstieren (stieren van 2 jaar en ouder)  | 104  | alle  | 7,6  | 76,7  | 26,5  | –  |
-| Witvleeskalveren van ca. 14 dagen tot ca 6 maanden (kalveren van ca. 14 dagen en ouder die gehouden worden op een rantsoen van hoofdzakelijk melk en op een leeftijd van ca. 6 maanden worden geslacht)  | 112  | alle  | 1,6  | 8,3  | –  | 2,2  |
-| Startkalveren voor rosevlees (kalveren van ca. 14 dagen tot ca. 3 maanden die op gespecialiseerde bedrijven worden gehouden en vervolgens op een ander bedrijf als rosevleeskalf worden gehouden)  | 115  | alle  | 1,2  | 9,3  | 2,8  | –  |
-| Rosevleeskalveren van ca.3 maanden tot ca. 8 maanden (kalveren van ca. 3 maanden en ouder die hiervoor zijn gehouden als startkalf, gehouden worden op een rantsoen van melk en andere voeders en op een leeftijd van ca. 8 maanden worden geslacht)  | 116  | alle  | 3,3  | 24,8  | 12,0  | –  |
-| Rosevleeskalveren van ca. 14 dagen tot ca. 8 maanden (kalveren van ca. 14 dagen en ouder die gehouden worden op een rantsoen van melk en andere voeders en op een leeftijd van ca. 8 maanden worden geslacht)  | 117  | alle  | 2,6  | 19,4  | 8,7  | –  |
-| Weide- en zoogkoeien (koeien die ten minste éénmaal hebben gekalfd niet zijnde melk- en kalfkoeien)  | 120  | drijfmest  vaste mest  | 11,2  5,3  | 74,9  66,8  | 28,6  | –  –  |
-| Startkalveren voor roodvlees (kalveren van ca. 14 dagen tot ca. 3 maanden die op gespecialiseerde bedrijven worden gehouden en vervolgens op een ander bedrijf als roodvleesstier gehouden worden)  | 121  | alle  | 1,2  | 9,3  | 2,8  | –  |
-| Roodvleesstieren van ca. 3 maanden tot de slacht (stieren en ossen van 3 maanden en ouder die hiervoor zijn gehouden als startkalf en die voor de leeftijd van 24 maanden worden geslacht, inclusief vrouwelijke dieren die op deze wijze worden gemest)  | 122  | drijfmest  vaste mest  | 4,2  2,2  | 34,1  30,9  | 12,4  | –  |
+| Jongvee jonger dan 1 jaar voor de melkveehouderij, en vrouwelijke opfokkalveren voor de vleesveehouderij tot 1 jaar  | 101  | drijfmest  vaste mest  | 4,4  2,2  | 32,3  29,1  | 9,6  9,6  | –  |
+| Jongvee van ouder dan 1 jaar (alle runderen van 1 jaar en ouder inclusief overig vleesvee, maar met uitzondering van roodvleesstieren en fokstieren)  | 102  | drijfmest  vaste mest  | 9,5  4,7  | 66,9  61,3  | 21,9  21,9  | –  |
+| Fokstieren (stieren van 2 jaar en ouder)  | 104  | alle  | 7,6  | 74,2  | 25,8  | –  |
+| Witvleeskalveren van ca. 14 dagen tot ca. 8 maanden (kalveren van ca. 14 dagen en ouder die gehouden worden op een rantsoen van hoofdzakelijk melk en op een leeftijd van ca. 8 maanden worden geslacht)  | 112  | alle  | 1,6  | 10,9  | –  | 2,7  |
+| Startkalveren voor rosevlees of roodvlees (kalveren van ca. 14 dagen tot ca. 3 maanden die op gespecialiseerde bedrijven worden gehouden en vervolgens op een ander bedrijf als rosevleeskalf worden gehouden)  | 115  | alle  | 1,2  | 9,2  | 2,6  | –  |
+| Rosevleeskalveren van ca.3 maanden tot ca. 8 maanden (kalveren van ca. 3 maanden en ouder die hiervoor zijn gehouden als startkalf, gehouden worden op een rantsoen van melk en andere voeders en op een leeftijd van ca. 8 maanden worden geslacht)  | 116  | alle  | 3,3  | 24,6  | 10,9  | –  |
+| Rosevleeskalveren van ca. 14 dagen tot ca. 8 maanden (kalveren van ca. 14 dagen en ouder die gehouden worden op een rantsoen van melk en andere voeders en op een leeftijd van ca. 8 maanden worden geslacht)  | 117  | alle  | 2,6  | 24,6  | 8,2  | –  |
+| Weide- en zoogkoeien (koeien die ten minste éénmaal hebben gekalfd niet zijnde melk- en kalfkoeien)  | 120  | drijfmest  vaste mest  | 11,2  5,3  | 76,3  72,4  | 27,1  27,1  | –  –  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Roodvleesstieren van ca. 3 maanden tot de slacht (inclusief ossen en vrouwelijke dieren die op deze wijze worden gemest)  | 122  | drijfmest  vaste mest  | 4,2  2,2  | 30,5  28,0  | 10,9  10,9  | –  –  |
 |  *Ovis Aries (Schaap)*   | 55  | --- |
 | Fokschapen (alle vrouwelijke schapen die ten minste éénmaal hebben gelammerd, inclusief alle schapen tot een gewicht van ca. 25 kg voor zover gehouden op het bedrijf waar deze schapen geboren zijn)  | 550  | alle  | 0,5  | 10,7  | 3,8  | –  |
 | Overige schapen  | 552  | alle  | 6  | 7,8  | 2,5  | –  |
@@ -3156,8 +3109,8 @@ De stikstofexcreties van staldieren moeten berekend worden conform de stalbalans
 | Vleeskalkoenen (kalkoenen die worden gehouden voor de slacht)  | 210  | alle  | 0,048  | 1,01  | –  | 0,8  |
 |  *Mustela vison (Nerts)*   Fokteven, (alle vrouwelijke dieren, die tenminste eenmaal zijn gedekt, met bijbehorende reuen en jongen, en nertsen voor pelsproduktie)  | 75  | vaste mest  drijfmest  | 0,039  0,075  | 1,56  1,56  | –  –  | 1,1  |
 |  *Oryctolagus cuniculus (Konijn)*   | 90  | --- |
-| Voedsters (alle vrouwelijke dieren die ten minste eenmaal gedekt zijn, met bijbehorende rammen, zogende jongen en opfokkonijnen)  | 900  | vaste mest  drijfmest  | 0,126  0,176  | 1,53  | –  | 1,23  |
-| Vleeskonijnen (alle jonge konijnen die na het spenen zijn bestemd voor de vleesproductie)  | 901  | vaste mest  drijfmest  | 0,025  0,057  | 0,5  | –  | 0,24  |
+| Voedsters (alle vrouwelijke dieren die ten minste eenmaal gedekt zijn, met bijbehorende zogende jongen en opfokkonijnen) en fokrammen  | 900  | Alle | 0,126  | 1,13  | –  | 1,58  |
+| Vleeskonijnen (alle jonge konijnen die na het spenen zijn bestemd voor de vleesproductie)  | 901  | Alle | 0,025  | 0,3  | –  | 0,42  |
 |  *Rattus norvegicus (Bruine rat)*   Ratten (alle geslachtsrijpe vrouwelijke ratten)  | 15  | alle  | 0,023  | 0,28  | –  | 50%<sup>7</sup>   |
 |  *Mus musculus (Tamme muis)*   Muizen (alle geslachtsrijpe vrouwelijke muizen)  | 16  | alle  | 0,003  | 0,033  | –  | 50%<sup>7</sup>   |
 |  *Cavia porcellus (Cavia)*   Cavia’s (alle geslachtsrijpe vrouwelijke cavia’s)  | 17  | alle  | 0,054  | 0,65  | –  | 50%<sup>7</sup>   |
@@ -3179,225 +3132,229 @@ De stikstofexcreties van staldieren moeten berekend worden conform de stalbalans
 
 *Noten*  <sup>1</sup> Als de omschrijving van de categorieën niet aansluit bij de voorkomende situatie dienen de forfaits gehanteerd te worden van de categorie die het best aansluit bij de voorkomende situatie.  <sup>2</sup> Behorende bij artikel 36 van de Uitvoeringsregeling Meststoffenwet.  <sup>3</sup> Behorende bij de artikelen 43 en 73 van de Uitvoeringsregeling Meststoffenwet. Met betrekking tot artikel 73 alleen relevant voor de graasdieren en daarmee niet van toepassing op diercategorieën die vallen onder de staldieren.  <sup>4</sup> Behorende bij artikel 73 van de Uitvoeringsregeling Meststoffenwet. Alleen relevant voor de graasdieren en daarmee niet van toepassing op diercategorieën die vallen onder de staldieren.  <sup>5</sup> Behorende bij artikel 96 van de Uitvoeringsregeling Meststoffenwet  <sup>6</sup> De mestproductie van deze dieren is reeds verrekend in het forfait van de fokschapen.  <sup>7</sup> Gasvormig verlies van overige knaagdieren en overig pluimvee bedraagt 50% van de N-excretie, die volgens de stalbalans is berekend. 
 
-#### Tabel IIA. Excretieforfaits per melkkoe drijfmest
+### Tabel IIA 
 
-Stikstofexcretie en fosfaatexcretie per koe (in kg N respectievelijk kg P2O5 per jaar) in relatie tot melkproductie per jaar en ureumgehalte in de melk  
+####Excretieforfaits per melkkoe drijfmest
+
+Stikstofexcretie en fosfaatexcretie per koe (in kg N resp. kg P2O5 per jaar), in relatie tot melkproductie per jaar en ureumgehalte in de melk. Excretie na aftrek vluchtige N.  
 
 | Melkproductie in kg melk per koe per jaar  | Stikstofexcretie (kg)  Ureumgehalte in mg/100 g  | < 14  | 14  | 15  | 16  | 17  | 18  | 19  | 20  | 21  | 22  |
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| < 5.624  | 79,0  | 80,5  | 82,0  | 83,5  | 85,5  | 87,0  | 88,5  | 90,0  | 91,5  | 93,5  |
-| 5.625 – 5.874  | 83,5  | 85,0  | 86,5  | 88,5  | 90,0  | 91,5  | 93,0  | 94,5  | 96,0  | 98,0  |
-| 5.875 – 6.124  | 85,5  | 87,0  | 89,0  | 90,5  | 92,0  | 93,5  | 95,0  | 96,5  | 98,5  | 100,0  |
-| 6.125 – 6.374  | 87,5  | 89,5  | 91,0  | 92,5  | 94,0  | 95,5  | 97,0  | 99,0  | 100,5  | 102,0  |
-| 6.375 – 6.624  | 90,0  | 91,5  | 93,0  | 94,5  | 96,0  | 97,5  | 99,5  | 101,0  | 102,5  | 104,0  |
-| 6.625 – 6.874  | 92,0  | 93,5  | 95,0  | 96,5  | 98,0  | 100,0  | 101,5  | 103,0  | 104,5  | 106,0  |
-| 6.875 – 7.124  | 94,0  | 95,5  | 97,0  | 98,5  | 100,5  | 102,0  | 103,5  | 105,0  | 106,5  | 108,0  |
-| 7.125 – 7.374  | 96,0  | 97,5  | 99,0  | 100,5  | 102,5  | 104,0  | 105,5  | 107,0  | 108,5  | 110,5  |
-| 7.375 – 7.624  | 98,0  | 99,5  | 101,0  | 103,0  | 104,5  | 106,0  | 107,5  | 109,0  | 111,0  | 112,5  |
-| 7.625 – 7.874  | 100,0  | 101,5  | 103,5  | 105,0  | 106,5  | 108,0  | 109,5  | 111,0  | 113,0  | 114,5  |
-| 7.875 – 8.124  | 102,0  | 104,0  | 105,5  | 107,0  | 108,5  | 110,0  | 111,5  | 113,5  | 115,0  | 116,5  |
-| 8.125 – 8.374  | 104,5  | 106,0  | 107,5  | 109,0  | 110,5  | 112,0  | 114,0  | 115,5  | 117,0  | 118,5  |
-| 8.375 – 8.624  | 106,5  | 108,0  | 109,5  | 111,0  | 112,5  | 114,5  | 116,0  | 117,5  | 119,0  | 120,5  |
-| 8.625 – 8.874  | 108,5  | 110,0  | 111,5  | 113,0  | 115,0  | 116,5  | 118,0  | 119,5  | 121,0  | 122,5  |
-| 8.875 – 9.124  | 110,5  | 112,0  | 113,5  | 115,5  | 117,0  | 118,5  | 120,0  | 121,5  | 123,0  | 125,0  |
-| 9.125 – 9.374  | 112,5  | 114,0  | 115,5  | 117,5  | 119,0  | 120,5  | 122,0  | 123,5  | 125,5  | 127,0  |
-| 9.375 – 9.624  | 114,5  | 116,0  | 118,0  | 119,5  | 121,0  | 122,5  | 124,0  | 125,5  | 127,5  | 129,0  |
-| 9.625 – 9.874  | 116,5  | 118,5  | 120,0  | 121,5  | 123,0  | 124,5  | 126,0  | 128,0  | 129,5  | 131,0  |
-| 9.875 – 10.124  | 119,0  | 120,5  | 122,0  | 123,5  | 125,0  | 126,5  | 128,5  | 130,0  | 131,5  | 133,0  |
-| 10.125 – 10.374  | 121,0  | 122,5  | 124,0  | 125,5  | 127,0  | 129,0  | 130,5  | 132,0  | 133,5  | 135,0  |
-| 10.375 – 10.624  | 123,0  | 124,5  | 126,0  | 127,5  | 129,5  | 131,0  | 132,5  | 134,0  | 135,5  | 137,0  |
-| > 10.624  | 127,0  | 128,5  | 130,0  | 132,0  | 133,5  | 135,0  | 136,5  | 138,0  | 140,0  | 141,5  |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| < 5.624  | 76,0  | 77,5  | 79,0  | 81,0  | 82,5  | 84,0  | 86,0  | 87,5  | 89,0  | 90,5  |
+| 5.625 – 5.874  | 80,5  | 82,5  | 84,0  | 85,5  | 87,0  | 89,0  | 90,5  | 92,0  | 94,0  | 95,5  |
+| 5.875 – 6.124  | 83,0  | 84,5  | 86,0  | 87,5  | 89,5  | 91,0  | 92,5  | 94,5  | 96,0  | 97,5  |
+| 6.125 – 6.374  | 85,0  | 86,5  | 88,0  | 90,0  | 91,5  | 93,0  | 95,0  | 96,5  | 98,0  | 100,0  |
+| 6.375 – 6.624  | 87,0  | 89,0  | 90,5  | 92,0  | 93,5  | 95,5  | 97,0  | 98,5  | 100,5  | 102,0  |
+| 6.625 – 6.874  | 89,5  | 91,0  | 92,5  | 94,0  | 96,0  | 97,5  | 99,0  | 101,0  | 102,5  | 104,0  |
+| 6.875 – 7.124  | 91,5  | 93,0  | 94,5  | 96,5  | 98,0  | 99,5  | 101,5  | 103,0  | 104,5  | 106,0  |
+| 7.125 – 7.374  | 93,5  | 95,0  | 97,0  | 98,5  | 100,0  | 102,0  | 103,5  | 105,0  | 106,5  | 108,5  |
+| 7.375 – 7.624  | 95,5  | 97,5  | 99,0  | 100,5  | 102,5  | 104,0  | 105,5  | 107,0  | 109,0  | 110,5  |
+| 7.625 – 7.874  | 98,0  | 99,5  | 101,0  | 103,0  | 104,5  | 106,0  | 107,5  | 109,5  | 111,0  | 112,5  |
+| 7.875 – 8.124  | 100,0  | 101,5  | 103,5  | 105,0  | 106,5  | 108,0  | 110,0  | 111,5  | 113,0  | 115,0  |
+| 8.125 – 8.374  | 102,0  | 104,0  | 105,5  | 107,0  | 108,5  | 110,5  | 112,0  | 113,5  | 115,5  | 117,0  |
+| 8.375 – 8.624  | 104,5  | 106,0  | 107,5  | 109,0  | 111,0  | 112,5  | 114,0  | 116,0  | 117,5  | 119,0  |
+| 8.625 – 8.874  | 106,5  | 108,0  | 109,5  | 111,5  | 113,0  | 114,5  | 116,5  | 118,0  | 119,5  | 121,5  |
+| 8.875 – 9.124  | 108,5  | 110,0  | 112,0  | 113,5  | 115,0  | 117,0  | 118,5  | 120,0  | 122,0  | 123,5  |
+| 9.125 – 9.374  | 111,0  | 112,5  | 114,0  | 115,5  | 117,5  | 119,0  | 120,5  | 122,5  | 124,0  | 125,5  |
+| 9.375 – 9.624  | 113,0  | 114,5  | 116,0  | 118,0  | 119,5  | 121,0  | 123,0  | 124,5  | 126,0  | 127,5  |
+| 9.625 – 9.874  | 115,0  | 116,5  | 118,5  | 120,0  | 121,5  | 123,5  | 125,0  | 126,5  | 128,0  | 130,0  |
+| 9.875 – 10.124  | 117,0  | 119,0  | 120,5  | 122,0  | 124,0  | 125,5  | 127,0  | 128,5  | 130,5  | 132,0  |
+| 10.125 – 10.374  | 119,5  | 121,0  | 122,5  | 124,5  | 126,0  | 127,5  | 129,0  | 131,0  | 132,5  | 134,0  |
+| 10.375 – 10.624  | 121,5  | 123,0  | 125,0  | 126,5  | 128,0  | 129,5  | 131,5  | 133,0  | 134,5  | 136,5  |
+| > 10.624  | 126,0  | 127,5  | 129,0  | 130,5  | 132,5  | 134,0  | 135,5  | 137,5  | 139,0  | 140,5  |
 
 Vervolg Tabel IIA. Excretieforfaits per melkkoe drijfmest
 
 | Melkproductie in kg melk per koe per jaar  | Stikstofexcretie (kg)  Ureumgehalte in mg/100 g  | 23  | 24  | 25  | 26  | 27  | 28  | 29  | 30  | 31  | 32  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| < 5.624  | 95,0  | 96,5  | 98,0  | 99,5  | 101,0  | 103,0  | 104,5  | 106,0  | 107,5  | 109,0  |
-| 5.625 – 5.874  | 99,5  | 101,0  | 102,5  | 104,0  | 106,0  | 107,5  | 109,0  | 110,5  | 112,0  | 113,5  |
-| 5.875 – 6.124  | 101,5  | 103,0  | 104,5  | 106,5  | 108,0  | 109,5  | 111,0  | 112,5  | 114,0  | 116,0  |
-| 6.125 – 6.374  | 103,5  | 105,0  | 106,5  | 108,5  | 110,0  | 111,5  | 113,0  | 114,5  | 116,5  | 118,0  |
-| 6.375 – 6.624  | 105,5  | 107,0  | 109,0  | 110,5  | 112,0  | 113,5  | 115,0  | 116,5  | 118,5  | 120,0  |
-| 6.625 – 6.874  | 107,5  | 109,5  | 111,0  | 112,5  | 114,0  | 115,5  | 117,0  | 119,0  | 120,5  | 122,0  |
-| 6.875 – 7.124  | 110,0  | 111,5  | 113,0  | 114,5  | 116,0  | 117,5  | 119,5  | 121,0  | 122,5  | 124,0  |
-| 7.125 – 7.374  | 112,0  | 113,5  | 115,0  | 116,5  | 118,0  | 120,0  | 121,5  | 123,0  | 124,5  | 126,0  |
-| 7.375 – 7.624  | 114,0  | 115,5  | 117,0  | 118,5  | 120,5  | 122,0  | 123,5  | 125,0  | 126,5  | 128,0  |
-| 7.625 – 7.874  | 116,0  | 117,5  | 119,0  | 121,0  | 122,5  | 124,0  | 125,5  | 127,0  | 128,5  | 130,5  |
-| 7.875 – 8.124  | 118,0  | 119,5  | 121,0  | 123,0  | 124,5  | 126,0  | 127,5  | 129,0  | 131,0  | 132,5  |
-| 8.125 – 8.374  | 120,0  | 121,5  | 123,5  | 125,0  | 126,5  | 128,0  | 129,5  | 131,5  | 133,0  | 134,5  |
-| 8.375 – 8.624  | 122,0  | 124,0  | 125,5  | 127,0  | 128,5  | 130,0  | 131,5  | 133,5  | 135,0  | 136,5  |
-| 8.625 – 8.874  | 124,5  | 126,0  | 127,5  | 129,0  | 130,5  | 132,0  | 134,0  | 135,5  | 137,0  | 138,5  |
-| 8.875 – 9.124  | 126,5  | 128,0  | 129,5  | 131,0  | 132,5  | 134,5  | 136,0  | 137,5  | 139,0  | 140,5  |
-| 9.125 – 9.374  | 128,5  | 130,0  | 131,5  | 133,0  | 135,0  | 136,5  | 138,0  | 139,5  | 141,0  | 142,5  |
-| 9.375 – 9.624  | 130,5  | 132,0  | 133,5  | 135,5  | 137,0  | 138,5  | 140,0  | 141,5  | 143,0  | 145,0  |
-| 9.625 – 9.874  | 132,5  | 134,0  | 136,0  | 137,5  | 139,0  | 140,5  | 142,0  | 143,5  | 145,5  | 147,0  |
-| 9.875 – 10.124  | 134,5  | 136,0  | 138,0  | 139,5  | 141,0  | 142,5  | 144,0  | 146,0  | 147,5  | 149,0  |
-| 10.125 – 10.374  | 136,5  | 138,5  | 140,0  | 141,5  | 143,0  | 144,5  | 146,5  | 148,0  | 149,5  | 151,0  |
-| 10.375 – 10.624  | 139,0  | 140,5  | 142,0  | 143,5  | 145,0  | 146,5  | 148,5  | 150,0  | 151,5  | 153,0  |
-| > 10.624  | 143,0  | 144,5  | 146,0  | 147,5  | 149,5  | 151,0  | 152,5  | 154,0  | 155,5  | 157,0  |
+| < 5.624  | 92,5  | 94,0  | 95,5  | 97,5  | 99,0  | 100,5  | 102,5  | 104,0  | 105,5  | 107,0  |
+| 5.625 – 5.874  | 97,0  | 99,0  | 100,5  | 102,0  | 103,5  | 105,5  | 107,0  | 108,5  | 110,5  | 112,0  |
+| 5.875 – 6.124  | 99,5  | 101,0  | 102,5  | 104,0  | 106,0  | 107,5  | 109,0  | 111,0  | 112,5  | 114,0  |
+| 6.125 – 6.374  | 101,5  | 103,0  | 104,5  | 106,5  | 108,0  | 109,5  | 111,5  | 113,0  | 114,5  | 116,0  |
+| 6.375 – 6.624  | 103,5  | 105,0  | 107,0  | 108,5  | 110,0  | 112,0  | 113,5  | 115,0  | 116,5  | 118,5  |
+| 6.625 – 6.874  | 105,5  | 107,5  | 109,0  | 110,5  | 112,5  | 114,0  | 115,5  | 117,0  | 119,0  | 120,5  |
+| 6.875 – 7.124  | 108,0  | 109,5  | 111,0  | 113,0  | 114,5  | 116,0  | 117,5  | 119,5  | 121,0  | 122,5  |
+| 7.125 – 7.374  | 110,0  | 111,5  | 113,5  | 115,0  | 116,5  | 118,5  | 120,0  | 121,5  | 123,0  | 125,0  |
+| 7.375 – 7.624  | 112,0  | 114,0  | 115,5  | 117,5  | 119,0  | 120,5  | 122,0  | 123,5  | 125,5  | 127,0  |
+| 7.625 – 7.874  | 114,5  | 116,0  | 117,5  | 119,5  | 121,0  | 122,5  | 124,0  | 126,0  | 127,5  | 129,0  |
+| 7.875 – 8.124  | 116,5  | 118,0  | 120,0  | 121,5  | 123,0  | 124,5  | 126,5  | 128,0  | 129,5  | 131,5  |
+| 8.125 – 8.374  | 118,5  | 120,5  | 122,0  | 123,5  | 125,0  | 127,0  | 128,5  | 130,0  | 132,0  | 133,5  |
+| 8.375 – 8.624  | 121,0  | 122,5  | 124,0  | 125,5  | 127,5  | 129,0  | 130,5  | 132,5  | 134,0  | 135,5  |
+| 8.625 – 8.874  | 123,0  | 124,5  | 126,0  | 128,0  | 129,5  | 131,0  | 133,0  | 134,5  | 136,0  | 137,5  |
+| 8.875 – 9.124  | 125,0  | 126,5  | 128,5  | 130,0  | 131,5  | 133,5  | 135,0  | 136,5  | 138,0  | 140,0  |
+| 9.125 – 9.374  | 127,0  | 129,0  | 130,5  | 132,0  | 134,0  | 135,5  | 137,0  | 138,5  | 140,5  | 142,0  |
+| 9.375 – 9.624  | 129,5  | 131,0  | 132,5  | 134,5  | 136,0  | 137,5  | 139,0  | 141,0  | 142,5  | 144,0  |
+| 9.625 – 9.874  | 131,5  | 133,0  | 135,0  | 136,5  | 138,0  | 139,5  | 141,5  | 143,0  | 144,5  | 146,5  |
+| 9.875 – 10.124  | 133,5  | 135,5  | 137,0  | 138,5  | 140,0  | 142,0  | 143,5  | 145,0  | 147,0  | 148,5  |
+| 10.125 – 10.374  | 136,0  | 137,5  | 139,0  | 141,0  | 142,5  | 144,0  | 145,5  | 147,5  | 149,0  | 150,5  |
+| 10.375 – 10.624  | 138,0  | 139,5  | 141,5  | 143,0  | 144,5  | 146,0  | 148,0  | 149,5  | 151,0  | 153,0  |
+| > 10.624  | 142,5  | 144,0  | 145,5  | 147,0  | 149,0  | 150,5  | 152,0  | 154,0  | 155,5  | 157,0  |
 
 Vervolg Tabel IIA. Excretieforfaits per melkkoe drijfmest
 
 | Melkproductie in kg melk per koe per jaar  | Stikstofexcretie (kg)  Ureumgehalte in mg/100 g  | 33  | 34  | 35  | 36  | 37  | 38  | 39  | 40  | > 40  |--- |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| < 5.624  | 110,5  | 112,5  | 114,0  | 115,5  | 117,0  | 118,5  | 120,5  | 122,0  | 123,5  | --- |
-| 5.625 – 5.874  | 115,5  | 117,0  | 118,5  | 120,0  | 121,5  | 123,0  | 125,0  | 126,5  | 128,0  | --- |
-| 5.875 – 6.124  | 117,5  | 119,0  | 120,5  | 122,0  | 123,5  | 125,5  | 127,0  | 128,5  | 130,0  | --- |
-| 6.125 – 6.374  | 119,5  | 121,0  | 122,5  | 124,0  | 126,0  | 127,5  | 129,0  | 130,5  | 132,0  | --- |
-| 6.375 – 6.624  | 121,5  | 123,0  | 124,5  | 126,5  | 128,0  | 129,5  | 131,0  | 132,5  | 134,0  | --- |
-| 6.625 – 6.874  | 123,5  | 125,0  | 127,0  | 128,5  | 130,0  | 131,5  | 133,0  | 134,5  | 136,5  | --- |
-| 6.875 – 7.124  | 125,5  | 127,0  | 129,0  | 130,5  | 132,0  | 133,5  | 135,0  | 137,0  | 138,5  | --- |
-| 7.125 – 7.374  | 127,5  | 129,5  | 131,0  | 132,5  | 134,0  | 135,5  | 137,5  | 139,0  | 140,5  | --- |
-| 7.375 – 7.624  | 130,0  | 131,5  | 133,0  | 134,5  | 136,0  | 137,5  | 139,5  | 141,0  | 142,5  | --- |
-| 7.625 – 7.874  | 132,0  | 133,5  | 135,0  | 136,5  | 138,0  | 140,0  | 141,5  | 143,0  | 144,5  | --- |
-| 7.875 – 8.124  | 134,0  | 135,5  | 137,0  | 138,5  | 140,5  | 142,0  | 143,5  | 145,0  | 146,5  | --- |
-| 8.125 – 8.374  | 136,0  | 137,5  | 139,0  | 141,0  | 142,5  | 144,0  | 145,5  | 147,0  | 148,5  | --- |
-| 8.375 – 8.624  | 138,0  | 139,5  | 141,5  | 143,0  | 144,5  | 146,0  | 147,5  | 149,0  | 151,0  | --- |
-| 8.625 – 8.874  | 140,0  | 142,0  | 143,5  | 145,0  | 146,5  | 148,0  | 149,5  | 151,5  | 153,0  | --- |
-| 8.875 – 9.124  | 142,0  | 144,0  | 145,5  | 147,0  | 148,5  | 150,0  | 152,0  | 153,5  | 155,0  | --- |
-| 9.125 – 9.374  | 144,5  | 146,0  | 147,5  | 149,0  | 150,5  | 152,5  | 154,0  | 155,5  | 157,0  | --- |
-| 9.375 – 9.624  | 146,5  | 148,0  | 149,5  | 151,0  | 152,5  | 154,5  | 156,0  | 157,5  | 159,0  | --- |
-| 9.625 – 9.874  | 148,5  | 150,0  | 151,5  | 153,0  | 155,0  | 156,5  | 158,0  | 159,5  | 161,0  | --- |
-| 9.875 – 10.124  | 150,5  | 152,0  | 153,5  | 155,5  | 157,0  | 158,5  | 160,0  | 161,5  | 163,0  | --- |
-| 10.125 – 10.374  | 152,5  | 154,0  | 156,0  | 157,5  | 159,0  | 160,5  | 162,0  | 163,5  | 165,5  | --- |
-| 10.375 – 10.624  | 154,5  | 156,5  | 158,0  | 159,5  | 161,0  | 162,5  | 164,0  | 166,0  | 167,5  | --- |
-| > 10.624  | 159,0  | 160,5  | 162,0  | 163,5  | 165,0  | 167,0  | 168,5  | 170,0  | 171,5  | --- |
+| < 5.624  | 109,0  | 110,5  | 112,0  | 114,0  | 115,5  | 117,0  | 118,5  | 120,5  | 122,0  | --- |
+| 5.625 – 5.874  | 113,5  | 115,0  | 117,0  | 118,5  | 120,0  | 122,0  | 123,5  | 125,0  | 127,0  | --- |
+| 5.875 – 6.124  | 115,5  | 117,5  | 119,0  | 120,5  | 122,5  | 124,0  | 125,5  | 127,5  | 129,0  | --- |
+| 6.125 – 6.374  | 118,0  | 119,5  | 121,0  | 123,0  | 124,5  | 126,0  | 128,0  | 129,5  | 131,0  | --- |
+| 6.375 – 6.624  | 120,0  | 121,5  | 123,5  | 125,0  | 126,5  | 128,5  | 130,0  | 131,5  | 133,0  | --- |
+| 6.625 – 6.874  | 122,0  | 124,0  | 125,5  | 127,0  | 129,0  | 130,5  | 132,0  | 133,5  | 135,5  | --- |
+| 6.875 – 7.124  | 124,5  | 126,0  | 127,5  | 129,5  | 131,0  | 132,5  | 134,0  | 136,0  | 137,5  | --- |
+| 7.125 – 7.374  | 126,5  | 128,0  | 130,0  | 131,5  | 133,0  | 134,5  | 136,5  | 138,0  | 139,5  | --- |
+| 7.375 – 7.624  | 128,5  | 130,5  | 132,0  | 133,5  | 135,0  | 137,0  | 138,5  | 140,0  | 142,0  | --- |
+| 7.625 – 7.874  | 131,0  | 132,5  | 134,0  | 135,5  | 137,5  | 139,0  | 140,5  | 142,5  | 144,0  | --- |
+| 7.875 – 8.124  | 133,0  | 134,5  | 136,0  | 138,0  | 139,5  | 141,0  | 143,0  | 144,5  | 146,0  | --- |
+| 8.125 – 8.374  | 135,0  | 136,5  | 138,5  | 140,0  | 141,5  | 143,5  | 145,0  | 146,5  | 148,5  | --- |
+| 8.375 – 8.624  | 137,0  | 139,0  | 140,5  | 142,0  | 144,0  | 145,5  | 147,0  | 149,0  | 150,5  | --- |
+| 8.625 – 8.874  | 139,5  | 141,0  | 142,5  | 144,5  | 146,0  | 147,5  | 149,5  | 151,0  | 152,5  | --- |
+| 8.875 – 9.124  | 141,5  | 143,0  | 145,0  | 146,5  | 148,0  | 150,0  | 151,5  | 153,0  | 154,5  | --- |
+| 9.125 – 9.374  | 143,5  | 145,5  | 147,0  | 148,5  | 150,5  | 152,0  | 153,5  | 155,0  | 157,0  | --- |
+| 9.375 – 9.624  | 146,0  | 147,5  | 149,0  | 151,0  | 152,5  | 154,0  | 155,5  | 157,5  | 159,0  | --- |
+| 9.625 – 9.874  | 148,0  | 149,5  | 151,5  | 153,0  | 154,5  | 156,0  | 158,0  | 159,5  | 161,0  | --- |
+| 9.875 – 10.124  | 150,0  | 152,0  | 153,5  | 155,0  | 156,5  | 158,5  | 160,0  | 161,5  | 163,5  | --- |
+| 10.125 – 10.374  | 152,5  | 154,0  | 155,5  | 157,5  | 159,0  | 160,5  | 162,0  | 164,0  | 165,5  | --- |
+| 10.375 – 10.624  | 154,5  | 156,0  | 157,5  | 159,5  | 161,0  | 162,5  | 164,5  | 166,0  | 167,5  | --- |
+| > 10.624  | 158,5  | 160,5  | 162,0  | 163,5  | 165,5  | 167,0  | 168,5  | 170,5  | 172,0  | --- |
 
 Vervolg Tabel IIA. Excretieforfaits per melkkoe drijfmest
 
 | Melkproductie in kg melk per koe per jaar  | Fosfaatexcretie (kg)  | M<sup>3</sup> mest/7 maanden op basis van 1,7 kg P2O5/ton  |
 |:---|:---|:---|
-| < 5.624  | 35,2  | 12,1  |
-| 5.625 – 5.874  | 36,8  | 12,6  |
-| 5.875 – 6.124  | 37,6  | 12,9  |
-| 6.125 – 6.374  | 38,3  | 13,1  |
-| 6.375 – 6.624  | 39,0  | 13,4  |
-| 6.625 – 6.874  | 39,7  | 13,6  |
-| 6.875 – 7.124  | 40,5  | 13,9  |
-| 7.125 – 7.374  | 41,2  | 14,1  |
-| 7.375 – 7.624  | 41,9  | 14,4  |
-| 7.625 – 7.874  | 42,6  | 14,6  |
-| 7.875 – 8.124  | 43,4  | 14,9  |
-| 8.125 – 8.374  | 44,1  | 15,1  |
-| 8.375 – 8.624  | 44,8  | 15,4  |
-| 8.625 – 8.874  | 45,5  | 15,6  |
-| 8.875 – 9.124  | 46,3  | 15,9  |
-| 9.125 – 9.374  | 47,0  | 16,1  |
-| 9.375 – 9.624  | 47,7  | 16,4  |
-| 9.625 – 9.874  | 48,4  | 16,6  |
-| 9.875 – 10.124  | 49,2  | 16,9  |
-| 10.125 – 10.374  | 49,9  | 17,1  |
-| 10.375 – 10.624  | 50,6  | 17,4  |
-| > 10.624  | 52,1  | 17,9  |
+| < 5.624  | 32,4  | 12,1  |
+| 5.625 – 5.874  | 34,0  | 12,6  |
+| 5.875 – 6.124  | 34,8  | 12,9  |
+| 6.125 – 6.374  | 35,5  | 13,1  |
+| 6.375 – 6.624  | 36,2  | 13,4  |
+| 6.625 – 6.874  | 36,9  | 13,6  |
+| 6.875 – 7.124  | 37,7  | 13,9  |
+| 7.125 – 7.374  | 38,4  | 14,1  |
+| 7.375 – 7.624  | 39,1  | 14,4  |
+| 7.625 – 7.874  | 39,8  | 14,6  |
+| 7.875 – 8.124  | 40,6  | 14,9  |
+| 8.125 – 8.374  | 41,3  | 15,1  |
+| 8.375 – 8.624  | 42,0  | 15,4  |
+| 8.625 – 8.874  | 42,7  | 15,6  |
+| 8.875 – 9.124  | 43,5  | 15,9  |
+| 9.125 – 9.374  | 44,2  | 16,1  |
+| 9.375 – 9.624  | 44,9  | 16,4  |
+| 9.625 – 9.874  | 45,6  | 16,6  |
+| 9.875 – 10.124  | 46,4  | 16,9  |
+| 10.125 – 10.374  | 47,1  | 17,1  |
+| 10.375 – 10.624  | 47,8  | 17,4  |
+| > 10.624  | 49,3  | 17,9  |
 
-#### Tabel IIB. Excretieforfaits per melkkoe vaste mest
+### Tabel IIB 
 
-Stikstofexcretie en fosfaatexcretie per koe (in kg N respectievelijk kg P2O5 per jaar) in relatie tot melkproductie per jaar en ureumgehalte in de melk  
+####Excretieforfaits per melkkoe vaste mest
+
+Stikstofexcretie en fosfaatexcretie per koe (in kg N respectievelijk kg P2O5 per jaar) in relatie tot melkproductie per jaar en ureumgehalte in de melk. Excretie na aftrek vluchtige N.  
 
 | Melkproductie in kg melk per koe per jaar  | Stikstofexcretie (kg)  Ureumgehalte in mg/100 g  | < 14  | 14  | 15  | 16  | 17  | 18  | 19  | 20  | 21  | 22  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| < 5.624  | 71,5  | 73,0  | 74,5  | 76,0  | 77,5  | 79,0  | 80,5  | 81,5  | 83,0  | 84,5  |
-| 5.625 – 5.874  | 76,0  | 77,0  | 78,5  | 80,0  | 81,5  | 83,0  | 84,5  | 86,0  | 87,5  | 88,5  |
-| 5.875 – 6.124  | 77,5  | 79,0  | 80,5  | 82,0  | 83,5  | 85,0  | 86,5  | 87,5  | 89,0  | 90,5  |
-| 6.125 – 6.374  | 79,5  | 81,0  | 82,5  | 84,0  | 85,5  | 86,5  | 88,0  | 89,5  | 91,0  | 92,5  |
-| 6.375 – 6.624  | 81,5  | 83,0  | 84,5  | 85,5  | 87,0  | 88,5  | 90,0  | 91,5  | 93,0  | 94,5  |
-| 6.625 – 6.874  | 83,5  | 84,5  | 86,0  | 87,5  | 89,0  | 90,5  | 92,0  | 93,5  | 95,0  | 96,5  |
-| 6.875 – 7.124  | 85,0  | 86,5  | 88,0  | 89,5  | 91,0  | 92,5  | 94,0  | 95,5  | 96,5  | 98,0  |
-| 7.125 – 7.374  | 87,0  | 88,5  | 90,0  | 91,5  | 93,0  | 94,5  | 95,5  | 97,0  | 98,5  | 100,0  |
-| 7.375 – 7.624  | 89,0  | 90,5  | 92,0  | 93,5  | 94,5  | 96,0  | 97,5  | 99,0  | 100,5  | 102,0  |
-| 7.625 – 7.874  | 91,0  | 92,5  | 93,5  | 95,0  | 96,5  | 98,0  | 99,5  | 101,0  | 102,5  | 104,0  |
-| 7.875 – 8.124  | 92,5  | 94,0  | 95,5  | 97,0  | 98,5  | 100,0  | 101,5  | 103,0  | 104,0  | 105,5  |
-| 8.125 – 8.374  | 94,5  | 96,0  | 97,5  | 99,0  | 100,5  | 102,0  | 103,0  | 104,5  | 106,0  | 107,5  |
-| 8.375 – 8.624  | 96,5  | 98,0  | 99,5  | 101,0  | 102,0  | 103,5  | 105,0  | 106,5  | 108,0  | 109,5  |
-| 8.625 – 8.874  | 98,5  | 100,0  | 101,0  | 102,5  | 104,0  | 105,5  | 107,0  | 108,5  | 110,0  | 111,5  |
-| 8.875 – 9.124  | 100,0  | 101,5  | 103,0  | 104,5  | 106,0  | 107,5  | 109,0  | 110,5  | 111,5  | 113,0  |
-| 9.125 – 9.374  | 102,0  | 103,5  | 105,0  | 106,5  | 108,0  | 109,5  | 110,5  | 112,0  | 113,5  | 115,0  |
-| 9.375 – 9.624  | 104,0  | 105,5  | 107,0  | 108,5  | 109,5  | 111,0  | 112,5  | 114,0  | 115,5  | 117,0  |
-| 9.625 – 9.874  | 106,0  | 107,5  | 108,5  | 110,0  | 111,5  | 113,0  | 114,5  | 116,0  | 117,5  | 119,0  |
-| 9.875 – 10.124  | 107,5  | 109,0  | 110,5  | 112,0  | 113,5  | 115,0  | 116,5  | 118,0  | 119,5  | 120,5  |
-| 10.125 – 10.374  | 109,5  | 111,0  | 112,5  | 114,0  | 115,5  | 117,0  | 118,5  | 119,5  | 121,0  | 122,5  |
-| 10.375 – 10.624  | 111,5  | 113,0  | 114,5  | 116,0  | 117,5  | 118,5  | 120,0  | 121,5  | 123,0  | 124,5  |
-| > 10.624  | 115,5  | 116,5  | 118,0  | 119,5  | 121,0  | 122,5  | 124,0  | 125,5  | 127,0  | 128,0  |
+| < 5.624  | 65,0  | 66,5  | 68,0  | 69,5  | 71,0  | 72,5  | 73,5  | 75,0  | 76,5  | 78,0  |
+| 5.625 – 5.874  | 69,5  | 70,5  | 72,0  | 73,5  | 75,0  | 76,5  | 77,5  | 79,0  | 80,5  | 82,0  |
+| 5.875 – 6.124  | 71,0  | 72,5  | 74,0  | 75,5  | 77,0  | 78,0  | 79,5  | 81,0  | 82,5  | 84,0  |
+| 6.125 – 6.374  | 73,0  | 74,5  | 76,0  | 77,0  | 78,5  | 80,0  | 81,5  | 83,0  | 84,5  | 85,5  |
+| 6.375 – 6.624  | 75,0  | 76,0  | 77,5  | 79,0  | 80,5  | 82,0  | 83,5  | 84,5  | 86,0  | 87,5  |
+| 6.625 – 6.874  | 76,5  | 78,0  | 79,5  | 81,0  | 82,5  | 83,5  | 85,0  | 86,5  | 88,0  | 89,5  |
+| 6.875 – 7.124  | 78,5  | 80,0  | 81,5  | 82,5  | 84,0  | 85,5  | 87,0  | 88,5  | 90,0  | 91,0  |
+| 7.125 – 7.374  | 80,5  | 81,5  | 83,0  | 84,5  | 86,0  | 87,5  | 89,0  | 90,0  | 91,5  | 93,0  |
+| 7.375 – 7.624  | 82,0  | 83,5  | 85,0  | 86,5  | 88,0  | 89,0  | 90,5  | 92,0  | 93,5  | 95,0  |
+| 7.625 – 7.874  | 84,0  | 85,5  | 87,0  | 88,5  | 89,5  | 91,0  | 92,5  | 94,0  | 95,5  | 96,5  |
+| 7.875 – 8.124  | 86,0  | 87,5  | 88,5  | 90,0  | 91,5  | 93,0  | 94,5  | 96,0  | 97,0  | 98,5  |
+| 8.125 – 8.374  | 87,5  | 89,0  | 90,5  | 92,0  | 93,5  | 95,0  | 96,0  | 97,5  | 99,0  | 100,5  |
+| 8.375 – 8.624  | 89,5  | 91,0  | 92,5  | 94,0  | 95,0  | 96,5  | 98,0  | 99,5  | 101,0  | 102,5  |
+| 8.625 – 8.874  | 91,5  | 93,0  | 94,0  | 95,5  | 97,0  | 98,5  | 100,0  | 101,5  | 102,5  | 104,0  |
+| 8.875 – 9.124  | 93,0  | 94,5  | 96,0  | 97,5  | 99,0  | 100,5  | 101,5  | 103,0  | 104,5  | 106,0  |
+| 9.125 – 9.374  | 95,0  | 96,5  | 98,0  | 99,5  | 101,0  | 102,0  | 103,5  | 105,0  | 106,5  | 108,0  |
+| 9.375 – 9.624  | 97,0  | 98,5  | 100,0  | 101,0  | 102,5  | 104,0  | 105,5  | 107,0  | 108,5  | 109,5  |
+| 9.625 – 9.874  | 99,0  | 100,0  | 101,5  | 103,0  | 104,5  | 106,0  | 107,5  | 108,5  | 110,0  | 111,5  |
+| 9.875 – 10.124  | 100,5  | 102,0  | 103,5  | 105,0  | 106,5  | 107,5  | 109,0  | 110,5  | 112,0  | 113,5  |
+| 10.125 – 10.374  | 102,5  | 104,0  | 105,5  | 106,5  | 108,0  | 109,5  | 111,0  | 112,5  | 114,0  | 115,0  |
+| 10.375 – 10.624  | 104,5  | 105,5  | 107,0  | 108,5  | 110,0  | 111,5  | 113,0  | 114,0  | 115,5  | 117,0  |
+| > 10.624  | 108,0  | 109,5  | 111,0  | 112,5  | 113,5  | 115,0  | 116,5  | 118,0  | 119,5  | 120,5  |
 
 Vervolg Tabel IIB. Excretieforfaits per melkkoe vaste mest
 
 | Melkproductie in kg melk per koe per jaar  | Stikstofexcretie (kg)  Ureumgehalte in mg/100 g  | 23  | 24  | 25  | 26  | 27  | 28  | 29  | 30  | 31  | 32  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| < 5.624  | 86,0  | 87,5  | 89,0  | 90,5  | 92,0  | 93,0  | 94,5  | 96,0  | 97,5  | 99,0  |
-| 5.625 – 5.874  | 90,0  | 91,5  | 93,0  | 94,5  | 96,0  | 97,5  | 99,0  | 100,5  | 101,5  | 103,0  |
-| 5.875 – 6.124  | 92,0  | 93,5  | 95,0  | 96,5  | 98,0  | 99,5  | 100,5  | 102,0  | 103,5  | 105,0  |
-| 6.125 – 6.374  | 94,0  | 95,5  | 97,0  | 98,5  | 99,5  | 101,0  | 102,5  | 104,0  | 105,5  | 107,0  |
-| 6.375 – 6.624  | 96,0  | 97,5  | 98,5  | 100,0  | 101,5  | 103,0  | 104,5  | 106,0  | 107,5  | 109,0  |
-| 6.625 – 6.874  | 97,5  | 99,0  | 100,5  | 102,0  | 103,5  | 105,0  | 106,5  | 108,0  | 109,0  | 110,5  |
-| 6.875 – 7.124  | 99,5  | 101,0  | 102,5  | 104,0  | 105,5  | 107,0  | 108,0  | 109,5  | 111,0  | 112,5  |
-| 7.125 – 7.374  | 101,5  | 103,0  | 104,5  | 106,0  | 107,0  | 108,5  | 110,0  | 111,5  | 113,0  | 114,5  |
-| 7.375 – 7.624  | 103,5  | 105,0  | 106,0  | 107,5  | 109,0  | 110,5  | 112,0  | 113,5  | 115,0  | 116,5  |
-| 7.625 – 7.874  | 105,0  | 106,5  | 108,0  | 109,5  | 111,0  | 112,5  | 114,0  | 115,5  | 116,5  | 118,0  |
-| 7.875 – 8.124  | 107,0  | 108,5  | 110,0  | 111,5  | 113,0  | 114,5  | 115,5  | 117,0  | 118,5  | 120,0  |
-| 8.125 – 8.374  | 109,0  | 110,5  | 112,0  | 113,5  | 114,5  | 116,0  | 117,5  | 119,0  | 120,5  | 122,0  |
-| 8.375 – 8.624  | 111,0  | 112,5  | 113,5  | 115,0  | 116,5  | 118,0  | 119,5  | 121,0  | 122,5  | 124,0  |
-| 8.625 – 8.874  | 112,5  | 114,0  | 115,5  | 117,0  | 118,5  | 120,0  | 121,5  | 123,0  | 124,5  | 125,5  |
-| 8.875 – 9.124  | 114,5  | 116,0  | 117,5  | 119,0  | 120,5  | 122,0  | 123,5  | 124,5  | 126,0  | 127,5  |
-| 9.125 – 9.374  | 116,5  | 118,0  | 119,5  | 121,0  | 122,5  | 123,5  | 125,0  | 126,5  | 128,0  | 129,5  |
-| 9.375 – 9.624  | 118,5  | 120,0  | 121,5  | 122,5  | 124,0  | 125,5  | 127,0  | 128,5  | 130,0  | 131,5  |
-| 9.625 – 9.874  | 120,5  | 121,5  | 123,0  | 124,5  | 126,0  | 127,5  | 129,0  | 130,5  | 132,0  | 133,0  |
-| 9.875 – 10.124  | 122,0  | 123,5  | 125,0  | 126,5  | 128,0  | 129,5  | 131,0  | 132,0  | 133,5  | 135,0  |
-| 10.125 – 10.374  | 124,0  | 125,5  | 127,0  | 128,5  | 130,0  | 131,0  | 132,5  | 134,0  | 135,5  | 137,0  |
-| 10.375 – 10.624  | 126,0  | 127,5  | 129,0  | 130,0  | 131,5  | 133,0  | 134,5  | 136,0  | 137,5  | 139,0  |
-| > 10.624  | 129,5  | 131,0  | 132,5  | 134,0  | 135,5  | 137,0  | 138,5  | 139,5  | 141,0  | 142,5  |
+| < 5.624  | 79,0  | 80,5  | 82,0  | 83,5  | 85,0  | 86,5  | 88,0  | 89,0  | 90,5  | 92,0  |
+| 5.625 – 5.874  | 83,5  | 85,0  | 86,0  | 87,5  | 89,0  | 90,5  | 92,0  | 93,5  | 94,5  | 96,0  |
+| 5.875 – 6.124  | 85,0  | 86,5  | 88,0  | 89,5  | 91,0  | 92,5  | 93,5  | 95,0  | 96,5  | 98,0  |
+| 6.125 – 6.374  | 87,0  | 88,5  | 90,0  | 91,5  | 92,5  | 94,0  | 95,5  | 97,0  | 98,5  | 100,0  |
+| 6.375 – 6.624  | 89,0  | 90,5  | 92,0  | 93,0  | 94,5  | 96,0  | 97,5  | 99,0  | 100,0  | 101,5  |
+| 6.625 – 6.874  | 91,0  | 92,0  | 93,5  | 95,0  | 96,5  | 98,0  | 99,5  | 100,5  | 102,0  | 103,5  |
+| 6.875 – 7.124  | 92,5  | 94,0  | 95,5  | 97,0  | 98,5  | 99,5  | 101,0  | 102,5  | 104,0  | 105,5  |
+| 7.125 – 7.374  | 94,5  | 96,0  | 97,5  | 98,5  | 100,0  | 101,5  | 103,0  | 104,5  | 106,0  | 107,0  |
+| 7.375 – 7.624  | 96,5  | 97,5  | 99,0  | 100,5  | 102,0  | 103,5  | 105,0  | 106,0  | 107,5  | 109,0  |
+| 7.625 – 7.874  | 98,0  | 99,5  | 101,0  | 102,5  | 104,0  | 105,0  | 106,5  | 108,0  | 109,5  | 111,0  |
+| 7.875 – 8.124  | 100,0  | 101,5  | 103,0  | 104,0  | 105,5  | 107,0  | 108,5  | 110,0  | 111,5  | 112,5  |
+| 8.125 – 8.374  | 102,0  | 103,5  | 104,5  | 106,0  | 107,5  | 109,0  | 110,5  | 111,5  | 113,0  | 114,5  |
+| 8.375 – 8.624  | 103,5  | 105,0  | 106,5  | 108,0  | 109,5  | 111,0  | 112,0  | 113,5  | 115,0  | 116,5  |
+| 8.625 – 8.874  | 105,5  | 107,0  | 108,5  | 110,0  | 111,0  | 112,5  | 114,0  | 115,5  | 117,0  | 118,5  |
+| 8.875 – 9.124  | 107,5  | 109,0  | 110,0  | 111,5  | 113,0  | 114,5  | 116,0  | 117,5  | 118,5  | 120,0  |
+| 9.125 – 9.374  | 109,0  | 110,5  | 112,0  | 113,5  | 115,0  | 116,5  | 117,5  | 119,0  | 120,5  | 122,0  |
+| 9.375 – 9.624  | 111,0  | 112,5  | 114,0  | 115,5  | 116,5  | 118,0  | 119,5  | 121,0  | 122,5  | 124,0  |
+| 9.625 – 9.874  | 113,0  | 114,5  | 116,0  | 117,0  | 118,5  | 120,0  | 121,5  | 123,0  | 124,0  | 125,5  |
+| 9.875 – 10.124  | 115,0  | 116,0  | 117,5  | 119,0  | 120,5  | 122,0  | 123,5  | 124,5  | 126,0  | 127,5  |
+| 10.125 – 10.374  | 116,5  | 118,0  | 119,5  | 121,0  | 122,5  | 123,5  | 125,0  | 126,5  | 128,0  | 129,5  |
+| 10.375 – 10.624  | 118,5  | 120,0  | 121,5  | 122,5  | 124,0  | 125,5  | 127,0  | 128,5  | 130,0  | 131,0  |
+| > 10.624  | 122,0  | 123,5  | 125,0  | 126,5  | 128,0  | 129,0  | 130,5  | 132,0  | 133,5  | 135,0  |
 
 Vervolg Tabel IIB. Excretieforfaits per melkkoe vaste mest
 
 | Melkproductie in kg melk per koe per jaar  | Stikstofexcretie (kg)  Ureumgehalte in mg/100 g  | 33  | 34  | 35  | 36  | 37  | 38  | 39  | 40  | > 40  |--- |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| < 5.624  | 100,5  | 102,0  | 103,5  | 105,0  | 106,0  | 107,5  | 109,0  | 110,5  | 112,0  | --- |
-| 5.625 – 5.874  | 104,5  | 106,0  | 107,5  | 109,0  | 110,5  | 112,0  | 113,0  | 114,5  | 116,0  | --- |
-| 5.875 – 6.124  | 106,5  | 108,0  | 109,5  | 111,0  | 112,0  | 113,5  | 115,0  | 116,5  | 118,0  | --- |
-| 6.125 – 6.374  | 108,5  | 110,0  | 111,0  | 112,5  | 114,0  | 115,5  | 117,0  | 118,5  | 120,0  | --- |
-| 6.375 – 6.624  | 110,0  | 111,5  | 113,0  | 114,5  | 116,0  | 117,5  | 119,0  | 120,5  | 121,5  | --- |
-| 6.625 – 6.874  | 112,0  | 113,5  | 115,0  | 116,5  | 118,0  | 119,5  | 120,5  | 122,0  | 123,5  | --- |
-| 6.875 – 7.124  | 114,0  | 115,5  | 117,0  | 118,5  | 119,5  | 121,0  | 122,5  | 124,0  | 125,5  | --- |
-| 7.125 – 7.374  | 116,0  | 117,5  | 118,5  | 120,0  | 121,5  | 123,0  | 124,5  | 126,0  | 127,5  | --- |
-| 7.375 – 7.624  | 117,5  | 119,0  | 120,5  | 122,0  | 123,5  | 125,0  | 126,5  | 128,0  | 129,5  | --- |
-| 7.625 – 7.874  | 119,5  | 121,0  | 122,5  | 124,0  | 125,5  | 127,0  | 128,5  | 129,5  | 131,0  | --- |
-| 7.875 – 8.124  | 121,5  | 123,0  | 124,5  | 126,0  | 127,5  | 128,5  | 130,0  | 131,5  | 133,0  | --- |
-| 8.125 – 8.374  | 123,5  | 125,0  | 126,5  | 127,5  | 129,0  | 130,5  | 132,0  | 133,5  | 135,0  | --- |
-| 8.375 – 8.624  | 125,5  | 126,5  | 128,0  | 129,5  | 131,0  | 132,5  | 134,0  | 135,5  | 137,0  | --- |
-| 8.625 – 8.874  | 127,0  | 128,5  | 130,0  | 131,5  | 133,0  | 134,5  | 136,0  | 137,0  | 138,5  | --- |
-| 8.875 – 9.124  | 129,0  | 130,5  | 132,0  | 133,5  | 135,0  | 136,0  | 137,5  | 139,0  | 140,5  | --- |
-| 9.125 – 9.374  | 131,0  | 132,5  | 134,0  | 135,0  | 136,5  | 138,0  | 139,5  | 141,0  | 142,5  | --- |
-| 9.375 – 9.624  | 133,0  | 134,0  | 135,5  | 137,0  | 138,5  | 140,0  | 141,5  | 143,0  | 144,5  | --- |
-| 9.625 – 9.874  | 134,5  | 136,0  | 137,5  | 139,0  | 140,5  | 142,0  | 143,5  | 144,5  | 146,0  | --- |
-| 9.875 – 10.124  | 136,5  | 138,0  | 139,5  | 141,0  | 142,5  | 143,5  | 145,0  | 146,5  | 148,0  | --- |
-| 10.125 – 10.374  | 138,5  | 140,0  | 141,5  | 142,5  | 144,0  | 145,5  | 147,0  | 148,5  | 150,0  | --- |
-| 10.375 –10.624  | 140,5  | 141,5  | 143,0  | 144,5  | 146,0  | 147,5  | 149,0  | 150,5  | 152,0  | --- |
-| > 10.624  | 144,0  | 145,5  | 147,0  | 148,5  | 150,0  | 151,5  | 152,5  | 154,0  | 155,5  | --- |
+| < 5.624  | 93,5  | 95,0  | 96,5  | 97,5  | 99,0  | 100,5  | 102,0  | 103,5  | 105,0  | --- |
+| 5.625 – 5.874  | 97,5  | 99,0  | 100,5  | 102,0  | 103,0  | 104,5  | 106,0  | 107,5  | 109,0  | --- |
+| 5.875 – 6.124  | 99,5  | 101,0  | 102,0  | 103,5  | 105,0  | 106,5  | 108,0  | 109,5  | 110,5  | --- |
+| 6.125 – 6.374  | 101,0  | 102,5  | 104,0  | 105,5  | 107,0  | 108,5  | 109,5  | 111,0  | 112,5  | --- |
+| 6.375 – 6.624  | 103,0  | 104,5  | 106,0  | 107,5  | 108,5  | 110,0  | 111,5  | 113,0  | 114,5  | --- |
+| 6.625 – 6.874  | 105,0  | 106,5  | 107,5  | 109,0  | 110,5  | 112,0  | 113,5  | 115,0  | 116,0  | --- |
+| 6.875 – 7.124  | 107,0  | 108,0  | 109,5  | 111,0  | 112,5  | 114,0  | 115,0  | 116,5  | 118,0  | --- |
+| 7.125 – 7.374  | 108,5  | 110,0  | 111,5  | 113,0  | 114,5  | 115,5  | 117,0  | 118,5  | 120,0  | --- |
+| 7.375 – 7.624  | 110,5  | 112,0  | 113,5  | 114,5  | 116,0  | 117,5  | 119,0  | 120,5  | 122,0  | --- |
+| 7.625 – 7.874  | 112,5  | 113,5  | 115,0  | 116,5  | 118,0  | 119,5  | 121,0  | 122,0  | 123,5  | --- |
+| 7.875 – 8.124  | 114,0  | 115,5  | 117,0  | 118,5  | 120,0  | 121,0  | 132,5  | 124,0  | 125,5  | --- |
+| 8.125 – 8.374  | 116,0  | 117,5  | 119,0  | 120,0  | 121,5  | 123,0  | 124,5  | 126,0  | 127,5  | --- |
+| 8.375 – 8.624  | 118,0  | 119,0  | 120,5  | 122,0  | 123,5  | 125,0  | 126,5  | 127,5  | 129,0  | --- |
+| 8.625 – 8.874  | 119,5  | 121,0  | 122,5  | 124,0  | 125,5  | 126,5  | 128,0  | 129,5  | 131,0  | --- |
+| 8.875 – 9.124  | 121,5  | 123,0  | 124,5  | 126,0  | 127,0  | 128,5  | 130,0  | 131,5  | 133,0  | --- |
+| 9.125 – 9.374  | 123,5  | 125,0  | 126,0  | 127,5  | 129,0  | 130,5  | 132,0  | 133,5  | 134,5  | --- |
+| 9.375 – 9.624  | 125,0  | 126,5  | 128,0  | 129,5  | 131,0  | 132,5  | 133,5  | 135,0  | 136,5  | --- |
+| 9.625 – 9.874  | 127,0  | 128,5  | 130,0  | 131,5  | 132,5  | 134,0  | 135,5  | 137,0  | 138,5  | --- |
+| 9.875 – 10.124  | 129,0  | 130,5  | 131,5  | 133,0  | 134,5  | 136,0  | 137,5  | 139,0  | 140,0  | --- |
+| 10.125 – 10.374  | 131,0  | 132,0  | 133,5  | 135,0  | 136,5  | 138,0  | 139,0  | 140,5  | 142,0  | --- |
+| 10.375 – 10.624  | 132,5  | 134,0  | 135,5  | 137,0  | 138,5  | 139,5  | 141,0  | 142,5  | 144,0  | --- |
+| > 10.624  | 136,5  | 137,5  | 139,0  | 140,5  | 142,0  | 143,5  | 145,0  | 146,0  | 147,5  | --- |
 
 Vervolg Tabel IIB. Excretieforfaits per melkkoe vaste mest
 
 | Melkproductie in kg melk per koe per jaar  | Fosfaat-excretie (kg)  | M<sup>3</sup> mest/7 maanden op basis van 1,7 kg P2O5/ton  |
 |:---|:---|:---|
-| < 5.624  | 35,2  | 6,2  |
-| 5.625 – 5.874  | 36,8  | 6,5  |
-| 5.875 – 6.124  | 37,6  | 6,6  |
-| 6.125 – 6.374  | 38,3  | 6,7  |
-| 6.375 – 6.624  | 39,0  | 6,8  |
-| 6.625 – 6.874  | 39,7  | 7,0  |
-| 6.875 – 7.124  | 40,5  | 7,1  |
-| 7.125 – 7.374  | 41,2  | 7,2  |
-| 7.375 – 7.624  | 41,9  | 7,3  |
-| 7.625 – 7.874  | 42,6  | 7,5  |
-| 7.875 – 8.124  | 43,4  | 7,6  |
-| 8.125 – 8.374  | 44,1  | 7,7  |
-| 8.375 – 8.624  | 44,8  | 7,8  |
-| 8.625 – 8.874  | 45,5  | 8,0  |
-| 8.875 – 9.124  | 46,3  | 8,1  |
-| 9.125 – 9.374  | 47,0  | 8,2  |
-| 9.375 – 9.624  | 47,7  | 8,4  |
-| 9.625 – 9.874  | 48,4  | 8,5  |
-| 9.875 – 10.124  | 49,2  | 8,6  |
-| 10.125 – 10.374  | 49,9  | 8,7  |
-| 10.375 – 10.624  | 50,6  | 8,9  |
-| > 10.624  | 52,1  | 9,1  |
+| < 5.624  | 32,4  | 6,2  |
+| 5.625 – 5.874  | 34,0  | 6,5  |
+| 5.875 – 6.124  | 34,8  | 6,6  |
+| 6.125 – 6.374  | 35,5  | 6,7  |
+| 6.375 – 6.624  | 36,2  | 6,8  |
+| 6.625 – 6.874  | 36,9  | 7,0  |
+| 6.875 – 7.124  | 37,7  | 7,1  |
+| 7.125 – 7.374  | 38,4  | 7,2  |
+| 7.375 – 7.624  | 39,1  | 7,3  |
+| 7.625 – 7.874  | 39,8  | 7,5  |
+| 7.875 – 8.124  | 40,6  | 7,6  |
+| 8.125 – 8.374  | 41,3  | 7,7  |
+| 8.375 – 8.624  | 42,0  | 7,8  |
+| 8.625 – 8.874  | 42,7  | 8,0  |
+| 8.875 – 9.124  | 43,5  | 8,1  |
+| 9.125 – 9.374  | 44,2  | 8,2  |
+| 9.375 – 9.624  | 44,9  | 8,4  |
+| 9.625 – 9.874  | 45,6  | 8,5  |
+| 9.875 – 10.124  | 46,4  | 8,6  |
+| 10.125 – 10.374  | 47,1  | 8,7  |
+| 10.375 – 10.624  | 47,8  | 8,9  |
+| > 10.624  | 49,3  | 9,1  |
 
 #### *Tabel III. Aan- en afvoer van staldieren, behorende bij artikel 102* 
 
@@ -3416,7 +3373,7 @@ Vervolg Tabel IIB. Excretieforfaits per melkkoe vaste mest
 | --- | Fokberen ouder dan 7 maanden  | 8,13  | 3,98  | 0,0250  | 0,0123  |
 | --- | Slachtzeugen  | 5,13  | 2,51  | 0,0250  | 0,0123  |
 | Gallus gallus (Kip)  | --- | --- | --- | --- |
-| --- | Eendagskuikens – kip  | 0,0258  | 0,0058  | 0,0010  | 0,0002  |
+| --- | Eendagskuikens – kip  | 0,0010  | 0,0002  | 0,0258  | 0,0058  |
 | --- | Opfokhennen/hanen van ongeveer 18 weken, wit  | 0,036  | 0,016  | 0,0280  | 0,0126  |
 | --- | Opfokhennen/hanen van ongeveer 18 weken, bruin  | 0,043  | 0,019  | 0,0280  | 0,0126  |
 | --- | Hennen/hanen ouder dan 18 weken, wit  | 0,045  | 0,021  | 0,0280  | 0,0128  |
@@ -3439,10 +3396,9 @@ Vervolg Tabel IIB. Excretieforfaits per melkkoe vaste mest
 | --- | Reuen ouder dan 7 mnd  | 0,223  | 0,110  | 0,0279  | 0,0137  |
 | --- | Pups   | 0,209  | 0,103  | 0,0279  | 0,0137  |
 | Oryctolagus cuniculus (Konijn)  | --- | --- | --- | --- |
-| --- | Jonge konijnen  | 0,020  | 0,010  | 0,0289  | 0,0137  |
-| --- | Voedsters  | 0,124  | 0,053  | 0,0289  | 0,0137  |
-| --- | Fokrammen  | 0,129  | 0,055  | 0,0289  | 0,0137  |
-| --- | Vleeskonijnen en opfokkonijnen  | 0,074  | 0,035  | 0,0289  | 0,0137  |
+| --- | Jonge konijnen  | 0,021  | 0,009  | 0,0300  | 0,0124  |
+| --- | Voedsters en fokrammen  | 0,121  | 0,048  | 0,0302  | 0,0119  |
+| --- | Vleeskonijnen en opfokkonijnen  | 0,071  | 0,030  | 0,0282  | 0,0119  |
 | Rattus norvegicus (Bruine rat)  | --- | --- | --- | --- |
 | --- | Alle ratten  | 0,0101  | 0,0048  | 0,0289  | 0,0137  |
 | Mus musculus (Tamme muis)  | --- | --- | --- | --- |
@@ -3598,7 +3554,7 @@ d. de verpakkingsapparatuur levert de met meststoffen gevulde monsterverpakking 
 
 – het soort bericht ‘lossen van mest’; en  
 
-– een Indicatie of er tijdens het vervoer een storing is opgetreden.   6.3. De AGR-apparatuur beschikt over een voorziening waarmee elektronische databerichten behouden blijven indien er een storing optreedt in de mobiele datacommunicatie en waarmee de elektronische databerichten alsnog worden verstuurd zodra de storing is opgeheven. 6.4. De AGR-apparatuur maakt voor het versturen van elektronische databerichten uitsluitend gebruik van een infrastructuur die wordt beheerd door een ten opzichte van de intermediair onafhankelijk partij, waarbij gewaarborgd is dat de met het databericht verzonden gegevens die bestemd zijn voor het ministerie van Economische Zaken, Landbouw en Innovatie, uitsluitend door een ten opzichte van de intermediair onafhankelijke partij worden beheerd. 6.5. De AGR-apparatuur sluit op elektronische wijze, overeenkomstig de technische specificaties die op verzoek door de minister worden verstrekt, aan op het door de minister beschikbaar gestelde portaal. 
+– een Indicatie of er tijdens het vervoer een storing is opgetreden.   6.3. De AGR-apparatuur beschikt over een voorziening waarmee elektronische databerichten behouden blijven indien er een storing optreedt in de mobiele datacommunicatie en waarmee de elektronische databerichten alsnog worden verstuurd zodra de storing is opgeheven. 6.4. De AGR-apparatuur maakt voor het versturen van elektronische databerichten uitsluitend gebruik van een infrastructuur die wordt beheerd door een ten opzichte van de intermediair onafhankelijk partij, waarbij gewaarborgd is dat de met het databericht verzonden gegevens die bestemd zijn voor het Minister van Economische Zaken, uitsluitend door een ten opzichte van de intermediair onafhankelijke partij worden beheerd. 6.5. De AGR-apparatuur sluit op elektronische wijze, overeenkomstig de technische specificaties die op verzoek door de minister worden verstrekt, aan op het door de minister beschikbaar gestelde portaal. 
 
 #### *7. Signalering van storingen* 
 
@@ -3707,8 +3663,9 @@ Behorende bij artikel 61
 | *Verwerking*  | --- |
 | VDM geldt als mestverwerkingsovereenkomst: afvoer direct naar verwerker of export, in het kader van de verwerkingsplicht  | 61  |
 | Uitzonderingen verwerkingsplicht  | --- |
-| – Regionale afzet  | 71  |
+| – Regionale afzet  |71 |
 | – Afvoer naar champignonsubstraatbereider  | 72  |
+|– Huisvestingssysteem strorijke mest | 73  |
 | *Bemonstering*  | --- |
 | Mestmonster verloren gegaan  | 50  |
 | Analyse van het monster mislukt  | 52  |
@@ -3752,70 +3709,149 @@ Behorende bij artikel 61
 
 ### Bijlage H 
 
-#### behorende bij de artikelen 80  en 81 
+####behorende bij de artikelen 80  en 81 
 
-####Accreditatieprogramma dierlijke mest; samenstelling AP05
+####Accreditatieprogramma dierlijke mest; AP05
 
-#### *1. Introductie* 
+### Hoofdstuk  1  
 
-Dit accreditatieprogramma is geschreven voor de uitvoering van analyses van stikstof en fosfaat in dierlijke mest en beschrijft een set van verrichtingen die alle onder de scope van de accreditatie volgens NEN EN ISO/IEC 17025 moeten vallen. Het komt niet in de plaats van voornoemde accreditatie, maar vormt een voor de markt eenvoudig te herkennen onderdeel hiervan. Het schept duidelijkheid voor opdrachtgevers over de aard en omvang van de accreditatie. Dit accreditatieprogramma dient de kwaliteit en de vergelijkbaarheid van metingen van stikstof en fosfaat in dierlijke mest zowel binnen een laboratorium als tussen laboratoria op langere termijn te waarborgen en dient een stimulans te zijn voor prestatieverbetering. In hoofdstuk 2 van dit document zijn de algemene eisen vermeld waaraan een laboratorium moet voldoen om in aanmerking komen voor accreditatie door de Raad van Accreditatie. De verrichtingen die onder het accreditatieprogramma vallen zijn in hoofdstuk 3 vermeld. In hoofdstuk 4 zijn de monsteroverdracht en de daarbij horende verantwoordelijkheden beschreven. De technische beschrijvingen van de verrichtingen en het maken van mengmonsters is beschreven in hoofdstuk 5. In hoofdstuk 6 is kwaliteitsborging middels de eerste-, tweede- en derdelijnscontrole omschreven die minimaal moet worden toegepast tijdens de uitvoering van verrichtingen die onder dit accreditatieprogramma vallen. Hoofdstuk 7 beschrijft de rapportage van de resultaten en de aspecten die verband houden met heranalyse. In hoofdstuk 8, 9 en 10 zijn respectievelijk de richtlijnen voor de archivering van gegevens, de controle op naleving en de toetredingsprocedure voor nieuwe laboratoria beschreven. 
+####Introductie
 
-#### *2. Algemene eisen* 
+Deze bijlage is geschreven voor de uitvoering en kwaliteitsborging van analyses van stikstof en fosfaat in dierlijke mest en beschrijft een set van verrichtingen die alle onder de scope van de accreditatie volgens NEN EN ISO/IEC 17025 moeten vallen. Het accreditatieprogramma omvat zowel een beschrijving voor de toelating tot en de periodieke herbeoordeling van de accreditatie van laboratoria, als een beschrijving van het beheerssysteem waarmee de kwaliteit van de laboratoria tussentijds geborgd is. Dit accreditatieprogramma wordt verder aangeduid als AP05. AP05 dient de kwaliteit en de vergelijkbaarheid van metingen van stikstof en fosfaat in dierlijke mest zowel binnen een laboratorium als tussen laboratoria op langere termijn te waarborgen. In hoofdstuk 2 zijn de algemene eisen vermeld waaraan een laboratorium moet voldoen om in aanmerking komen voor accreditatie door de Raad voor Accreditatie. De verrichtingen die onder AP05 vallen zijn in hoofdstuk 3 vermeld. In hoofdstuk 4 zijn de monsteroverdracht en de daarbij horende verantwoordelijkheden beschreven. De technische beschrijvingen van de verrichtingen en het maken van mengmonsters is beschreven in hoofdstuk 5. In hoofdstuk 6 is kwaliteitsborging middels de eerste-, tweede- en derdelijnscontrole omschreven die minimaal moet worden toegepast tijdens de uitvoering van verrichtingen die onder dit accreditatieprogramma vallen. Hoofdstuk 7 beschrijft de rapportage van de resultaten en de aspecten die verband houden met heranalyse. In hoofdstuk 8, 9 en 10 zijn respectievelijk de richtlijnen voor de archivering van gegevens, de controle op naleving en de toetredingsprocedure voor nieuwe laboratoria beschreven. 
 
-2.1. Een laboratorium dat op grond van de Uitvoeringsregeling Meststoffenwet analyse uitvoert naar de gehalten stikstof en fosfaat van uit een vracht dierlijke meststoffen genomen mestmonster is door de Raad voor Accreditatie geaccrediteerd voor het accreditatieprogramma ‘Dierlijke mest; samenstelling’. Indien in dit document de Raad voor Accreditatie wordt genoemd kan dit ook een accreditatieorganisatie zijn waarmee de Raad voor Accreditatie een Multi Lateral Agreement MLA {EA}, MRA {ILAC} heeft gesloten. 2.2. Om voor accreditatie voor het accreditatieprogramma ‘Dierlijke mest; samenstelling’ in aanmerking te komen, moet het laboratorium door de Raad voor Accreditatie geaccrediteerd zijn voor de norm NEN-EN-ISO/IEC 17025: IDT (general requirements for the competence of testing and calibration laboratories). 2.3. Een laboratorium kan voor het accreditatieprogramma ‘Dierlijke mest; samenstelling’ worden geaccrediteerd, indien dit laboratorium met historische gegevens, verkregen volgens de procedure beschreven in hoofdstuk 10, kan aantonen dat aan de in het accreditatieprogramma gedefinieerde kwaliteitseisen wordt voldaan. 2.4. Een laboratorium moet alle verrichtingen die in hoofdstuk 3 van het accreditatieprogramma ‘Dierlijke mest; samenstelling’ zijn vermeld altijd kunnen aanbieden. Uitzondering hierop is de analyse van vaste mest met een voorbehandeling conform NEN 7431 indien het laboratorium geen monsters vaste mest ontvangt en hiervoor ook geen accreditatie nastreeft. Deze uitzondering blijkt uit de accreditatie 2.5. De monstervoorbehandeling volgens NEN 7430 of 7431 en de hierop aansluitende ontsluiting volgens NEN 7433 worden dwingend voorgeschreven. Voor de andere verrichtingen (NEN 7434 en ontwerp NEN 7435) wordt de referentiemethode met een norm gedefinieerd. Hierbij kan een andere meetmethode worden gehanteerd indien wordt aangetoond dat de meetresultaten aan minimaal dezelfde eisen voldoen als de referentiemethode. 2.6. Indien het accreditatieprogramma wordt gewijzigd, dient het laboratorium zich daaraan binnen 6 maanden te conformeren, tenzij anders bepaald. 
+### Hoofdstuk  2  
 
-#### *3. Verrichtingen van het accreditatieprogramma* 
+####Algemene eisen
 
-In het accreditatieprogramma zijn alle verrichtingen, die in het kader van het stelsel van gebruiksnormen kunnen worden gebruikt, opgenomen. De volgende verrichtingen zijn voorgeschreven: 
+Laboratoria die wensen deel te nemen aan AP05 dienen zich aan te melden bij de Raad voor Accreditatie. Het laboratorium dient aan te tonen dat het bekend is met de specifieke kenmerken van de matrix dierlijke mest en dat de voorgeschreven analysemethoden goed kunnen worden uitgevoerd. Hiervoor moet vooraf een groot aantal monsters (200) onder beheerste condities geanalyseerd worden. Reden voor dit grote aantal analyses vooraf, is de diversiteit in de matrix mest (diersoorten, stalsystemen) en de daarbij behorende effecten op de gehalten. Als aangetoond is dat aan de kwaliteitseisen van AP05 kan worden voldaan kan het laboratorium worden geaccrediteerd door de Raad voor Accreditatie. Vóórdat monsters in het kader van het stelsel van gebruiksnormen geanalyseerd mogen worden, dient ook de kwaliteitsbewaking opgestart te zijn, in de vorm van controlemonsters met de bijbehorende controlekaarten. Indien in dit document de Raad voor Accreditatie wordt genoemd kan dit ook een accreditatieorganisatie zijn waarmee de Raad voor Accreditatie een Multi Lateral Agreement MLA {EA}, MRA {ILAC} heeft gesloten. Om voor accreditatie voor AP05 in aanmerking te komen, moet het laboratorium door de Raad voor Accreditatie geaccrediteerd zijn voor de norm NEN-EN-ISO/IEC 17025: IDT (general requirements for the competence of testing and calibration laboratories). Een laboratorium moet de verrichtingen die in hoofdstuk 3 van AP05 zijn vermeld en waarvoor het laboratorium is geaccrediteerd te allen tijden kunnen uitvoeren. Indien AP05 wordt gewijzigd, dient het laboratorium zich daaraan binnen 6 maanden te conformeren, tenzij anders bepaald. In een dergelijke situatie ligt de verantwoordelijkheid voor het nemen van initiatieven met betrekking tot onderzoek door de RvA bij de laboratoria. 
+
+### Hoofdstuk  3  
+
+####Verrichtingen binnen AP05
+
+### §  3.1  
+
+####Algemeen
+
+In AP05 zijn de verrichtingen, die in het kader van het stelsel van gebruiksnormen kunnen worden gebruikt, opgenomen. Een laboratorium kan kiezen voor accreditatie voor:
+
+1. alleen drijfmest;  
+
+2. alleen vaste mest;  
+
+3. drijfmest en vaste mest. De verrichtingen volgens de volgende NEN-normen zijn voorgeschreven: 
 
 – NEN 7430: Dierlijke mest en mestproducten. Monstervoorbehandeling door homogeniseren. Drijfmest;  
 
-– NEN 7431: Dierlijke mest en mestproducten. Monstervoorbehandeling door mengen,drogen en malen. Stapelbare mest;  
+– NEN 7431: Dierlijke mest en mestproducten. Monstervoorbehandeling door mengen, drogen en malen. Stapelbare mest;  
 
-– NEN 7433: Dierlijke mest en mestproducten. Monstervoorbehandeling voor de bepaling van stikstof, fosfor en kalium. Ontsluiting met zwavelzuur, waterstofperoxyde en kopersulfaat;   De volgende verrichtingen zijn als referentieverrichting opgenomen: 
+– NEN 7433: Dierlijke mest en mestproducten. Monstervoorbehandeling voor de bepaling van stikstof, fosfor en kalium. Ontsluiting met zwavelzuur, waterstofperoxyde en kopersulfaat;  
 
-– NEN 7434 (ontw.): Dierlijke mest en mestproducten. Bepaling van het gehalte aan stikstof in destruaten;  
+– NEN-EN 14672:2005: Karakterisering van slib – Bepaling van het totale gehalte aan fosfor. Deze norm is alleen van toepassing op drijfmest in de vorm van mineralenconcentraat.   De verrichtingen uit de volgende NEN-normen zijn als referentiemethoden voorgeschreven: 
 
-– NEN 7435: Dierlijke mest en mestproducten. Bepaling van het gehalte aan fosfor in destruaten;   De volgende verrichting is optioneel: – NEN 7437: Dierlijke mest en mestproducten. Bepaling van het gehalte aan totaal stikstof. • Noot: Als deze verrichting voor een laboratorium niet onder de accreditatie van de Raad van Accreditatie valt, , dan dient deze in voorkomende gevallen te worden uitbesteed aan een laboratorium waarbij deze verrichting wél onder het accreditatieprogramma valt. 3.1. Validatie van een verrichting Bij de introductie van een verrichting of bij invoering van wijzigingen die invloed hebben op een verrichting dient binnen het laboratorium een validatie-onderzoek te worden uitgevoerd. Indien een verrichting conform een referentieverrichting wordt uitgevoerd dan dient in dit validatie-onderzoek op zijn minst de herhaalbaarheid te worden getoetst. Deze moet gelijk of beter zijn dan de in hoofdstuk 5 vermelde herhaalbaarheid voor de betreffende verrichting. De herhaalbaarheid wordt getoetst op monsters die representatief zijn voor de mestsoorten die het laboratorium ontvangt. Indien een laboratorium alleen monsters stapelbare mest of alleen monsters drijfmest ontvangt kan volstaan worden met het vaststellen van de herhaalbaarheid in de desbetreffende mestsoort. Het aantal monsters dat onderzocht moet worden bedraagt minimaal 200. Deze monsters moeten een representatieve steekproef zijn van het hele concentratiegebied waarin stikstof en fosfaat in mest voorkomen. De concentratiegebieden van stikstof en fosfaat voor drijfmest en vaste mest zijn in Tabel 1 aangegeven. De monsters dienen afkomstig te zijn van verschillende locaties (producenten).  Tabel 1. Concentratiegebieden van stikstof en fosfaat voor drijfmest en vaste mest waarvoor het validatie-onderzoek van een verrichting in het kader van AP05 moet worden uitgevoerd 
+– NEN 7434: Dierlijke mest en mestproducten. Bepaling van het gehalte aan stikstof in destruaten;  
 
-|--- | Concentratiegebied  (g/kg)  |--- | Drijfmest  | Vaste mest  |
-|:---|:---|:---|:---|:---|
-| Stikstof  | 2 – 10  | 10 – 45  |
-| Fosfaat  | 1 – 8  | 8 – 30  |
+– NEN 7435 (2<sup>e</sup> ontwerp): Dierlijke mest en mestproducten. Bepaling van het gehalte aan fosfor in destruaten;  
 
-3.2. Gelijkwaardigheidsonderzoek van een huismethode Het is toegestaan binnen dit accreditatieprogramma om in plaats van de referentiemethode een huismethode te gebruiken. Aangetoond moet worden via een gelijkwaardigheidsonderzoek dat de gebruikte huismethode gelijk of beter dan de referentiemethode is. Het gelijkwaardigheidsonderzoek dient uitgevoerd te worden met minimaal 200 verschillende monsters afkomstig van verschillende locaties en gespreid over het hele concentratiegebied (zie Tabel 1). De gelijkwaardigheid dient te worden aangetoond voor stikstof en fosfaat. Om de gelijkwaardigheid te kunnen aantonen dient eerst nagegaan te worden of de standaardafwijking onder herhaalbaarheidscondities verkregen met de huismethode niet significant afwijkt van die van de referentiemethode (F-toets). Is dit het geval dan moet getoetst worden of het met de huismethode gevonden gemiddelde niveau niet significant afwijkt van dat van de referentiemethode. Deze toetsing vindt plaats door middel van de gepaarde Student’s t-toets. Nulhypothese hierbij is dat er geen verandering in analyseresultaat optreedt, indien de alternatieve methode wordt gebruikt (2-zijdige toetsing, overschrijdingskans 5%). Bij zeer nauwkeurige uitvoering van de referentiemethode en de alternatieve methode kan snel een significant verschil worden gevonden. Daarom wordt in alle gevallen een relatief verschil van 2% toegestaan. De meetresultaten mogen op generlei wijze voor systematische verschillen gecorrigeerd worden. 
+– NEN 7437: Dierlijke mest en mestproducten. Bepaling van het gehalte aan totaal stikstof. Als een laboratorium niet is geaccrediteerd voor NEN 7437, dan moet dit laboratorium deze verrichting uitbesteden aan een laboratorium dat voor deze verrichting wél is geaccrediteerd.  
 
-#### *4. Controle en registratie inkomende monsters* 
+### §  3.2  
 
-4.1. Controle monsterverpakking Het laboratorium controleert of de verpakking van een monster voldoet aan de eisen. Gecontroleerd moet worden of de verpakking nog gesloten is. Verder dient gelet te worden op beschadigingen aan de verpakking die wijzen op mogelijke fraude. De verpakking dient in dusdanige staat te verkeren dat geen vermoeden bestaat dat het monster toegankelijk is geweest. Bij evidente ondeugdelijkheid van de verpakking wordt het monster niet in bewerking genomen. In geval van een mengmonster worden ook de bijbehorende monsters niet in bewerking genomen. Binnen 24 uur wordt melding gedaan aan de Algemene Inspectiedienst (AID) en het monster of de monsters worden gedurende maximaal 28 dagen gekoeld opgeslagen. De AID beslist wat verder met de monsters dient te gebeuren. 4..2 Controle hoeveelheid monster Het laboratorium controleert of de inkomende monsters de vereiste minimale hoeveelheid mest bevatten. Elk monster dient gewogen te worden. Het gewicht wordt geregistreerd en tegelijk met de analyseresultaten gerapporteerd aan de vervoerder en in de periodieke rapportage aan de minister. 4.3. Registratie van gegevens Het laboratorium registreert van elk inkomende monster de volgende gegevens: 
+####Validatie van een verrichting volgens een referentiemethode
 
-o datum ontvangst  
+Voorafgaand aan indienen van een verzoek om accreditatie en bij van wijzigingen die invloed hebben op een verrichting voert het laboratorium een validatie-onderzoek uit. Indien een verrichting conform een referentieverrichting wordt uitgevoerd dan toetst het laboratorium in dit validatie-onderzoek op zijn minst de herhaalbaarheid. Deze moet gelijk of beter zijn dan de in hoofdstuk 6 vermelde herhaalbaarheid voor de betreffende verrichting. De herhaalbaarheid wordt getoetst aan de hand van een representatieve steekproef van de mestsoorten die het laboratorium ontvangt en de concentratieniveaus waarin stikstof en fosfor in de desbetreffende mestsoorten voorkomt. In eerste instantie wordt van 200 monsters het stikstof- en fosfaatgehalte in duplo bepaald. Vervolgens worden de resultaten waarbij het stikstof- en/of fosfaatgehalte beneden de minimale rapportagewaarde (zie § 7.1) ligt weggelaten. Deze worden vervangen door aanvullende metingen aan nieuwe monsters zodat het totaal aantal duplobepalingen dat boven de minimale rapportagewaarde voor stikstof en fosfaat ligt uiteindelijk 200 bedraagt. De herhaalbaarheid voor stikstof en fosfor zoals vermeld in hoofdstuk 6 is gedefinieerd voor twee concentratieniveaus. Wanneer het laboratorium voor beide concentratieniveaus geaccrediteerd wilt zijn dan dienen er minimaal 20 resultaten voor stikstof, en minimaal 20 resultaten voor fosfor in het lage concentratieniveau te liggen. Dit vereist indien nodig aanvullende duplobepalingen op een set van aanvullende monsters. De herhaalbaarheid wordt vervolgens berekend uit de standaarddeviatie van de duplobepalingen voor stikstof en fosfor. Wanneer het relevant is wordt deze berekening afzonderlijk uitgevoerd voor beide concentratieniveaus. De standaarddeviatie van de duplobepalingen (SD<sub>duplo</sub>) wordt berekend met: ![253886](http://wetten.overheid.nl/Illustration/253886)
+Waarbij x<sub>2,i</sub> en x<sub>1,i</sub> het i-de duplopaar voorstellen en Nc het aantal monsters betreft binnen het betreffende concentratieniveau. Vervolgens wordt de herhaalbaarheid (s<sub>r</sub>) berekend met: ![253887](http://wetten.overheid.nl/Illustration/253887)
+Voor het lage concentratieniveau wordt de herhaalbaarheid vergeleken met de herhaalbaarheid voor het betreffende element in hoofdstuk 6, en deze moet kleiner of gelijk te zijn aan de herhaalbaarheid voor het lage concentratieniveau. Voor het hoge concentatieniveau moet de berekende herhaalbaarheid eerst worden gedeeld door het gemiddelde van alle metingen voor het desbetreffende element. Deze moet kleiner of gelijk zijn aan de in hoofdstuk 6 vermelde herhaalbaarheid voor het hoge concentratieniveau.
 
-o nummer(s) gehele monsterverpakking  
+### §  3.3  
 
-o gewicht  
+####Gelijkwaardigheidsonderzoek van een huismethode
 
-o mestcode   4.4. Monsteropslag en conservering Het laboratorium dient inkomende monsters gekoeld bij 4 ± 3°C te bewaren. Wanneer de monsters op de dag van ontvangst of de daarop volgende dag in bewerking worden genomen behoeft koeling niet plaats te vinden. 
+Het is toegestaan binnen AP05 om in plaats van de referentiemethode een huismethode te gebruiken. Het laboratorium moet dan via een gelijkwaardigheidsonderzoek aantonen dat de gebruikte huismethode vergelijkbare of betere resultaten geeft dan de referentiemethode. Ten eerste dient aangetoond te worden dat de herhaalbaarheid van de huismethode gelijk of beter is dan de in hoofdstuk 6 vermelde herhaalbaarheid voor de betreffende verrichting. Hiervoor dient de in § 3.2 beschreven procedure te worden gebruikt. Daarnaast dient aangetoond te worden dat de verschillen tussen de huismethode en de referentiemethode binnen acceptabele grenzen liggen. Hiervoor dienen de monsters die zijn gebruikt voor het bepalen van de herhaalbaarheid van de huismethode tevens met de referentiemethode te worden gemeten in duplo. De resultaten van de duplobepalingen dienen te worden gemiddeld. Vervolgens wordt van beide bepalingen (huismethode en referentiemethode) het relatieve verschil berekend door het resultaat van de huismethode af te trekken van het resultaat van de referentiemethode en dit verschil te delen door het resultaat zoals verkregen met de referentiemethode en dit te vermenigvuldigen met 100%. Tot slot wordt de mediane waarde van deze relatieve verschillen bepaald zonder een onderscheid te maken tussen de twee concentratieniveaus. De mediaan van deze verschillen dient voor stikstof en fosfor kleiner te zijn dan 2.5%. Bij het uitvoeren van de bepalingen mogen de meetresultaten op generlei wijze voor systematische verschillen gecorrigeerd worden.
 
-#### *5. Technische beschrijving van verrichtingen* 
+### Hoofdstuk 4  
 
-5.1. Maken van mengmonsters Als sprake is van het maken van een mengmonster dan wordt dit aangegeven op een begeleidingsformulier dat de vervoerder met de betreffende monsters meestuurt. Voor het maken van mengmonsters moet wat betreft de te volgen procedure onderscheid gemaakt worden tussen drijfmest en stapelbare mest. 5.1.1. Mengen van monsters drijfmest Voor het mengen van monsters drijfmest geldt de volgende procedure: 
+####Controle en registratie inkomende monsters
+
+### §  4.1  
+
+####Controle monsterverpakking
+
+Het laboratorium controleert bij ontvangst of de verpakking van een monster voldoet aan de eisen. Hierbij controleert het laboratorium de volgende punten: 
+
+* Is de verpakking nog gesloten.  
+
+* Zijn er beschadigingen aan de verpakking die wijzen op mogelijke fraude. De verpakking dient in dusdanige staat te verkeren dat geen vermoeden bestaat dat het monster toegankelijk is geweest.  
+
+* Is er sprake van andere opvallendheden die manipulaties van het monster vermoeden.   Bij evidente ondeugdelijkheid van de verpakking wordt het monster niet in bewerking genomen. In geval van een mengmonster worden ook de bijbehorende monsters niet in bewerking genomen. Binnen 24 uur wordt melding gedaan van bovenstaande punten aan de meldkamer van de NVWA en het monster of de monsters worden gedurende maximaal 28 dagen gekoeld opgeslagen. De NVWA beslist wat verder met de monsters dient te gebeuren.
+
+### §  4.2  
+
+####Controle hoeveelheid monster
+
+Het laboratorium controleert of de inkomende monsters 
+
+– drijfmest de vereiste minimale hoeveelheid bedoeld in bijlage E, letters A en B bij de Uitvoeringsregeling Meststoffenwet bevatten;  
+
+– vaste mest de vereiste minimale hoeveelheid bedoeld in artikel 78, tweede lid, van de Uitvoeringsregeling Meststoffenwet bevatten.   Het laboratorium weegt elk monster en registreert het gewicht. Het gewicht wordt tegelijk met de analyseresultaten gerapporteerd aan de vervoerder en in de periodieke rapportage aan de minister. Indien het gewicht van het monster te laag is, wordt dit monster niet geanalyseerd en mag niet worden gemengd in een mengmonster.
+
+### §  4.3  
+
+####Registratie van gegevens
+
+Het laboratorium registreert van elk inkomende monster de volgende gegevens: 
+
+– Datum ontvangst  
+
+– Nummer(s) gehele monsterverpakking  
+
+– Gewicht  
+
+– Mestcode  
+
+### §  4.4  
+
+####Monsteropslag en conservering
+
+Het laboratorium bewaart inkomende monsters gekoeld bij 4±3°C. Wanneer de monsters op de dag van ontvangst of de daarop volgende dag in bewerking worden genomen behoeft koeling niet plaats te vinden. 
+
+### Hoofdstuk  5  
+
+####Technische beschrijving van verrichtingen
+
+### §  5.1  
+
+####Maken van mengmonsters
+
+Als sprake is van het maken van een mengmonster dan wordt dit aangegeven op een begeleidingsformulier dat de vervoerder met de betreffende monsters meestuurt. Voor het maken van mengmonsters moet wat betreft de te volgen procedure onderscheid gemaakt worden tussen drijfmest en vaste mest. 
+
+### 5.1.1  
+
+####Mengen van monsters drijfmest
+
+Voor het mengen van monsters drijfmest geldt de volgende procedure: 
 
 – Controleer of alle op het begeleidingsformulier vermelde monsters aanwezig zijn.  
 
-– Giet de monsters na krachtig schudden volledig uit in een komvormig verzamelvat met een voldoende krachtige roerder. Controleer of de monsterverpakking nog sedimentresten bevat. In dat geval dient dit te worden ‘uitgespoeld’ met mest uit het verzamelvat, of dient de verpakking volledig te worden leeggeschraapt.  
+– Giet de monsters na krachtig schudden volledig uit in een komvormig verzamelvat met een voldoende krachtige roerder. Controleer of de monsterverpakking nog sedimentresten bevat. In dat geval dient dit te worden ‘uitgespoeld’ met mest uit het verzamelvat, of dient de verpakking volledig te worden leeg geschraapt.  
 
 – Roer gedurende 1 minuut krachtig met de roerder vlak boven de bodem van de kom.  
 
-– Neem een monster van 500–800 ml in een schone monsterfles. Tijdens de monstername dient blijvend geroerd te worden.  
+– Neem een monster van 500-800 ml in een schone monsterfles. Tijdens de monstername dient blijvend geroerd te worden.  
 
-– Voorzie de monsterfles van een intern laboratoriumnummer, vermeld dit nummer tevens ophet begeleidingsformulier of registreer het elektronisch.  
+– Voorzie de monsterfles van een intern laboratoriumnummer, vermeld dit nummer tevens op het begeleidingsformulier of registreer het elektronisch.  
 
-– Het mengmonster drijfmest dient bij 4 ± 3°C bewaard te worden.   5.1.2. Mengen van monsters stapelbare mest Voor het mengen van monsters stapelbare mest geldt de volgende procedure: 
+– Het mengmonster drijfmest dient bij 4±3°C bewaard te worden.  
+
+### 5.1.2  
+
+####Mengen van monsters vaste mest
+
+Voor het mengen van monsters vaste mest geldt de volgende procedure: 
 
 – Controleer of alle op het begeleidingsformulier vermelde monsters aanwezig zijn.  
 
-– Breng de inhoud van de monsters bijeen en verklein het materiaal tot een deeltjesgrootte ≤ 1 cm.  
+– Breng de volledige inhoud van de monsters bijeen en verklein het materiaal tot een deeltjesgrootte ≤ 1 cm.  
 
 – Meng het materiaal grondig.  
 
@@ -3831,41 +3867,72 @@ o mestcode   4.4. Monsteropslag en conservering Het laboratorium dient inkomende
 
 – Vervolg de procedure volgens het betreffende onderdeel van NEN 7431.  
 
-– Voorzie het mengmonster van een intern laboratoriumnummer, vermeld dit nummer tevens op het begeleidingsformulier of registreer het elektronisch.   5.2. Monstervoorbehandeling De monstervoorbehandeling van drijfmest moet uitgevoerd worden conform NEN 7430: ‘Dierlijke mest en mestproducten. Monstervoorbehandeling door homogeniseren. Drijfmest’. Het aldus verkregen analysemonster drijfmest (minimale omvang ca. 250 ml) dient bij 4 ± 3°C bewaard te worden. Drijfmest met een geschat drogestofgehalte groter dan 15% wordt verdund met water. Hierbij dient de hoeveelheid in bewerking genomen mest en de toegevoegde hoeveelheid water gewogen te worden voor berekening van de verdunningsfactor. De mest dient zo nodig uit de monsterverpakking gespoeld te worden. Ook hierbij moet de verdunningsfactor worden berekend. De totale hoeveelheid mest wordt vastgesteld door begin- en eindgewicht van de monsterverpakkingen te registreren. De monstervoorbehandeling van stapelbare mest en gedroogde mest moet uitgevoerd worden conform de procedure onder 5.1.2. en aansluitend volgens het betreffende onderdeel van NEN 7431 (volg protocol met toevoeging van wijnsteenzuur). 5.3. Bepaling van stikstof en fosfor in mestmonsters De dierlijke mest wordt ontsloten volgens NEN 7433 met een mengsel van zwavelzuur, waterstofperoxyde en kopersulfaat, waarbij stikstof en fosfor in een zodanige chemische vorm in oplossing worden gebracht, dat zonder verdere voorbehandeling (behalve verdunnen en het toevoegen van reagentia) een bepaling van stikstof en fosfor met instrumentele methoden mogelijk is. Van de mest wordt, indien gehomogeniseerd volgens NEN 7430, een hoeveelheid tussen 4 en 6 ml in bewerking genomen of, indien gedroogd en gemalen volgens NEN 7431, een hoeveelheid van ca 1 gram. De ontsluitingsmethode kan worden toegepast op alle soorten dierlijke mest, met uitzondering van die soorten mest waarin stikstof aanwezig is in de vorm van nitraat. Onbehandelde dierlijke mest bevat geen nitraat. Nitraat kan echter wel zijn toegevoegd (aanzuren met salpeterzuur) of tijdens bepaalde behandelingen (beluchten) zijn gevormd. Bij dierlijke mest waarvan zeker dat nitraat is toegevoegd dient NEN 7437 ‘Dierlijke mest en mestproducten. Bepaling van het gehalte aan totaal stikstof’ te worden toegepast. Hierbij wordt de dierlijke mest ontsloten met een mengsel van geconcentreerd zwavelzuur/salicylzuur en kaliumsulfaat met koper als katalysator. Door toevoeging van salicylzuur vormen aanwezige nitraten en nitrieten met salicylzuur nitroverbindingen. Tevens wordt natriumthiosulfaat toegevoegd om de reductie van het genitreerde salicylzuur te bevorderen en omzetting tot ammoniumionen te versnellen. De eisen gesteld aan deze bepaling van totaal stikstof zijn gelijk aan die voor de bepaling van stikstof volgens NEN 7434. De volgende verrichtingen zijn als referentieverrichting opgenomen: 
+– Voorzie het mengmonster van een intern laboratoriumnummer, vermeld dit nummer tevens op het begeleidingsformulier of registreer het elektronisch.  
 
-– NEN 7434: Dierlijke mest en mestproducten. Bepaling van het gehalte aan stikstof in destruaten;  
+### §  5.2  
 
-– NEN 7435: Dierlijke mest en mestproducten. Bepaling van het gehalte aan fosfor in destruaten.   Alle verrichtingen in dit accreditatieprogramma, met uitzondering van NEN 7430 & NEN 7431, worden onder herhaalbaarheidscondities in duplo uitgevoerd. 
+####Monstervoorbehandeling
 
-#### *6. Kwaliteitsborging* 
+De monstervoorbehandeling van drijfmest moet uitgevoerd worden conform NEN 7430: ‘Dierlijke mest en mestproducten. Monstervoorbehandeling door homogeniseren. Drijfmest’. Het aldus verkregen analysemonster drijfmest (minimale omvang ca. 250 ml) dient bij 4±3°C bewaard te worden. Drijfmest met een geschat drogestofgehalte groter dan 15% wordt verdund met water. Hierbij dient de hoeveelheid in bewerking genomen mest en de toegevoegde hoeveelheid water gewogen te worden voor berekening van de verdunningsfactor. De mest dient zo nodig uit de monsterverpakking gespoeld te worden. Ook hierbij moet de verdunningsfactor worden berekend. De totale hoeveelheid mest wordt vastgesteld door begin- en eindgewicht van de monsterverpakkingen te registreren. De monstervoorbehandeling van vaste mest en gedroogde mest moet uitgevoerd worden conform de procedure in § 5.1.2. en aansluitend volgens het betreffende onderdeel van NEN 7431 (volg protocol met toevoeging van wijnsteenzuur).
+
+### §  5.3  
+
+####Bepaling van stikstof en fosfor in mestmonsters
+
+De dierlijke mest wordt ontsloten volgens NEN 7433 met een mengsel van zwavelzuur, waterstofperoxyde en kopersulfaat, waarbij stikstof en fosfor in een zodanige chemische vorm in oplossing worden gebracht, dat zonder verdere voorbehandeling (behalve verdunnen en het toevoegen van reagentia) een bepaling van stikstof en fosfor met instrumentele methoden mogelijk is. Van de mest wordt, indien gehomogeniseerd volgens NEN 7430, een hoeveelheid tussen 4 en 6 ml in bewerking genomen of, indien gedroogd en gemalen volgens NEN 7431, een hoeveelheid van ca. 1 gram. In afwijking van de vorige alinea wordt mineralenconcentraat voorbehandeld volgens NEN 7430 en vervolgens geanalyseerd gelijkwaardig met NEN-EN 14672:2005, omdat mineralenconcentraat doorgaans zeer lage fosforgehalten (< 0,01 g/kg) bevat. De ontsluitingsmethode kan worden toegepast op alle soorten dierlijke mest, met uitzondering van mest waarin stikstof deels aanwezig is in de vorm van nitraat. Wanneer er nitraat in het monster aanwezig is dan wordt dit duidelijk tijdens de monstervoorbewerking volgens NEN 7433, waarbij er roodbruine dampen ontstaan tijdens het aanzuren. Onbehandelde dierlijke mest bevat geen nitraat. Nitraat kan echter wel zijn toegevoegd (aanzuren met salpeterzuur) of tijdens bepaalde behandelingen (beluchten) zijn gevormd. Bij dierlijke mest waarvan het tijdens de monstervoorbewerking duidelijk wordt dat het nitraat bevat dient NEN 7437 ‘Dierlijke mest en mestproducten. Bepaling van het gehalte aan totaal stikstof’ te worden toegepast. De eisen gesteld aan deze bepaling van totaal stikstof zijn gelijk aan die voor de bepaling van stikstof volgens NEN 7434.
+
+### Hoofdstuk 6  
+
+####Kwaliteitsborging
+
+### §  6.1  
+
+####Algemeen
 
 De kwaliteitsborging van een verrichting bestaat uit de volgende onderdelen: Eerstelijnscontrole – Interne controle door de uitvoerenden van de verrichting zelf. Tweedelijnscontrole – Interne controle onafhankelijk van de uitvoerenden. Derdelijnscontrole – Externe controle door onafhankelijke instantie(s). De kwaliteitsborging van het laboratorium dient te zijn vastgelegd in eerste, tweede en derdelijnsdocumenten, waarin de volgende aspecten dienen te worden ondergebracht: 
 
-– statistische controle van de kwaliteitsborging;  
+– Statistische controle van de kwaliteitsborging.  
 
-– afhandeling bij ‘out of control’ situaties;  
+– Afhandeling bij ‘out of control’ situaties.  
 
-– gebruik c.q. bereiding van de controlemonsters;  
+– Gebruik c.q. bereiding van de controlemonsters.  
 
-– verantwoordelijkheden van functionarissen.   De eerste-, tweede- en derdelijnscontrole vormen géén additionele kwaliteitsborging maar de minimale kwaliteitsborging die dient te worden toegepast. De kwaliteitsborging is vastgelegd in de herhaalbaarheid. Voor stikstof en fosfor in dierlijke mest is deze, afhankelijk van het niveau, als volgt:  
+– Verantwoordelijkheden van functionarissen.   De eerste-, tweede- en derdelijnscontrole vormen géén additionele kwaliteitsborging maar de minimale kwaliteitsborging die dient te worden toegepast. De kwaliteitsborging is vastgelegd in de herhaalbaarheid. Voor stikstof en fosfor in dierlijke mest is deze, afhankelijk van het concentratieniveau, als volgt:  
 
-|--- | Niveau  | Herhaal-  baarheid  |
+| Element  | Concentratieniveau  | Herhaalbaarheid  |
 |:---|:---|:---|
-| Stikstof  | 0,00–2,50 g/kg:  | 0,10 g/kg  |
-| --- | >2,50 g/kg:  | 4%  |
-| --- | --- | --- |
-| Fosfor  | 0,00–0,50 g/kg:  | 0,03 g/kg  |
-| --- | >0,50 g/kg:  | 6%  |
+| Stikstof  | 0,00-2,50 g/kg  | 0,10 g/kg  |
+| --- | >2,50 g/kg  | 4%  |
+| Fosfor  | 0,00-0,50 g/kg  | 0,03 g/kg  |
+| --- | 0,50 g/kg  | 6%  |
 
-Drijfmest, die verdund is met water voor het verkrijgen van een goed analysemonster, wordt getoetst op herhaalbaarheid in het analysemonster vóórdat het in het analysemonster verkregen gehalte teruggerekend wordt naar het oorspronkelijke monster. Dit geldt ook voor de stapelbare mest die al dan niet voorbehandeld is met wijnsteenzuur en gemalen teneinde een geschikt analysemonster te verkrijgen. 6.1. Eerstelijnscontrole De eerstelijnscontrole is opgebouwd uit de beoordeling van de analyseresultaten van het controlemonster en van het analysemonster. In het kader van de kwaliteitsborging worden alle analyses in duplo onder herhaalbaarheidscondities uitgevoerd. 6.1.1. Controlemonster eerste lijn Het controlemonster van de eerstelijn dient om het niveau van een serie monsters te bewaken. Uitgangspunt is dat het gebruikte monstermateriaal gedurende de gebruiksperiode niet verandert van samenstelling. Om te garanderen dat het controlemonster drijfmest over lange periode stabiel blijft dient het te worden bewaard bij een temperatuur van 4°C of lager. Het (met wijnsteenzuur behandelde en gedroogde) controlemonster vaste mest dient bij kamertemperatuur bewaard te worden. 6.1.1.1. Omvang serie Door het laboratorium dient de omvang van de serie te worden vastgelegd. Per serie wordt het desbetreffende controlemonster in tweevoud onder herhaalbaarheidscondities geanalyseerd. Minimaal één controlemonster (drijfmest of stapelbare mest) per analysedag is vereist. 6.1.1.2. Eisen controlemonster eerste lijn Het gehalte aan stikstof en fosfor van het controlemonster drijfmest dient te liggen tussen 4 en 12 g/kg resp. 1 en 5 g/kg. Het gehalte aan stikstof en fosfor van het al dan niet voorbehandelde gedroogde en gemalen controlemonster stapelbare mest dient te liggen tussen 25 en 75 g/kg resp. 4 en 20 g/kg. De eisen gesteld aan de herhaalbaarheid van het controlemonster zijn gelijk aan die van de monsters, dus voor stikstof 4% en voor fosfor 6%. 6.1.1.3. Opstellen controlekaart Er wordt een controlekaart voor stikstof en voor fosfor opgesteld waarbij de standaardafwijking van de gemiddelde waarde van het controlemonster voor stikstof 2,29% bedraagt en voor fosfor 3,42%. (Toelichting: Deze percentages zijn berekend aan de hand van de herhaalbaarheid, waarbij de vereiste herhaalbaarheid gedeeld wordt door 2,8 en vervolgens met 1,6 wordt vermenigvuldigd teneinde de lange termijneffecten op de gemiddelde waarde van het controlemonster in de controlekaart mee te nemen.) Een nieuwe controlekaart wordt opgestart door minimaal vijf maal de verrichting uit te voeren in het nieuwe materiaal in verschillende al dan niet opeenvolgende series. Uit de testgegevens wordt berekend of het monstermateriaal voldoet aan de gestelde eisen voor gemiddelde en de herhaalbaarheid. Is dit het geval dan wordt de gemiddelde waarde van deze 10 waarnemingen (5 maal 2) genomen als startpunt van de controlekaart. Aan de hand van dit gemiddelde en de relatieve waarde van de toegestane standaardafwijking worden de 2s en 3s grenzen berekend en weergegeven in de kaart. De gegevens dienen van een periode te zijn dat de bepaling beheerst werd uitgevoerd, d.w.z. uit goedgekeurde series. Wanneer meer gegevens van het controlemonster beschikbaar komen uit analyse van volgende series kan het zijn dat de schatting van de gemiddelde waarde uit de testgegevens afwijkt van die uit de aanvullende gegevens. In dat geval mag na 15 series opnieuw het gemiddelde en de bijbehorende 2s en 3s grenzen worden berekend. De reden van verandering van deze grenzen dient gedocumenteerd te worden. 6.1.1.4. Dagelijkse toetsing controlekaart Van onbeheerste kwaliteit (‘out of control’) is sprake in de volgende gevallen: 
+Voor het lage concentratieniveau is de herhaalbaarheid uitgedrukt als een absoluut verschil tussen duplobepalingen, terwijl de herhaalbaarheid voor het hoge concentratieniveau is uitgedrukt als een percentage van de gemiddelde waarde van een duplobepaling. Drijfmest, die verdund is met water voor het verkrijgen van een goed analysemonster, wordt getoetst op herhaalbaarheid in het analysemonster vóórdat het in het analysemonster verkregen gehalte teruggerekend wordt naar het oorspronkelijke monster. Dit geldt ook voor de vaste mest die al dan niet voorbehandeld is met wijnsteenzuur en gemalen teneinde een geschikt analysemonster te verkrijgen.
 
-– Het controlemonster voldoet niet aan de herhaalbaarheidseis;  
+### §  6.2  
 
-– Elke overschrijding van het gemiddelde van de 3s-grens;  
+####Eerstelijnscontrole
 
-– Een tweemaal achter elkaar optredende overschrijding van de 2s-grens aan dezelfde kant van het gemiddelde;  
+De eerstelijnscontrole is opgebouwd uit de beoordeling van de analyseresultaten van het controlemonster en van het analysemonster. In het kader van de kwaliteitsborging worden alle analyses in duplo onder herhaalbaarheidscondities uitgevoerd.
 
-– Een 11 maal opeenvolgende eenzijdige overschrijding van het gemiddelde.   Bij onbeheerste kwaliteit (‘out of control’) moeten de volgende maatregelen worden genomen: 
+### §  6.2.1  
+
+####Controlemonster eerste lijn
+
+Het controlemonster van de eerstelijn dient om het concentratieniveau van een serie monsters te bewaken. Uitgangspunt is dat het gebruikte monstermateriaal gedurende de gebruiksperiode niet verandert van samenstelling. Om te garanderen dat het controlemonster drijfmest over lange periode stabiel blijft dient het te worden bewaard bij een temperatuur van 4°C of lager. Het (met wijnsteenzuur behandelde en gedroogde) controlemonster vaste mest dient bij kamertemperatuur bewaard te worden. Door het laboratorium dient de omvang van de serie te worden vastgelegd. Per serie wordt het desbetreffende controlemonster in tweevoud onder herhaalbaarheidscondities geanalyseerd. Minimaal één controlemonster (drijfmest of vaste mest) per analysedag is vereist. Het gehalte aan stikstof en fosfor van het controlemonster drijfmest dient te liggen tussen 4 en 12 g/kg respectievelijk 1 en 5 g/kg. Het gehalte aan stikstof en fosfor van het al dan niet voorbehandelde gedroogde en gemalen controlemonster vaste mest dient te liggen tussen 25 en 75 g/kg respectievelijk 4 en 20 g/kg. De eisen gesteld aan de herhaalbaarheid van het controlemonster zijn gelijk aan die van de monsters, dus voor stikstof 4% en voor fosfor 6%. Er wordt een controlekaart voor stikstof en voor fosfor opgesteld waarin de gemiddelde waardes van de duplobepalingen worden uitgezet. Hierbij bedraagt de standaardafwijking van de gemiddelde waarde van het controlemonster voor stikstof 2,29% en voor fosfor 3,42%. Toelichting: Deze percentages zijn berekend aan de hand van de herhaalbaarheid, waarbij de vereiste herhaalbaarheid gedeeld wordt door 2,8 en vervolgens met 1,6 wordt vermenigvuldigd teneinde de variatie tussen meetreeksen mee te nemen: intralaboratoriumreproduceerbaarheid. Een nieuwe controlekaart wordt opgestart door minimaal vijf maal de verrichting in duplo uit te voeren in het nieuwe materiaal in verschillende al dan niet opeenvolgende series. Hieruit wordt berekend of het monstermateriaal voldoet aan de gestelde eisen voor gemiddelde en de herhaalbaarheid. Is dit het geval dan wordt de gemiddelde waarde van deze 10 waarnemingen (5 maal 2) genomen als startpunt van de controlekaart. Aan de hand van dit gemiddelde en de relatieve waarde van de toegestane standaardafwijking worden de ±2s en ±3s grenzen berekend en weergegeven in de kaart. De gegevens dienen van een periode te zijn dat de bepaling beheerst werd uitgevoerd, d.w.z. uit goedgekeurde series. Wanneer meer gegevens van het controlemonster beschikbaar komen uit analyse van volgende series kan het zijn dat de schatting van de gemiddelde waarde uit de testgegevens afwijkt van die uit de aanvullende gegevens. In dat geval mag na 15 series opnieuw het gemiddelde en de bijbehorende ±2s en ±3s grenzen worden berekend. De reden van verandering van deze grenzen dient gedocumenteerd te worden.
+
+### §  6.2.2  
+
+####Onbeheerste kwaliteit
+
+Van onbeheerste kwaliteit (‘out of control’) is sprake in de volgende gevallen: 
+
+– de duplobepaling van het controlemonster niet voldoet aan de herhaalbaarheidseis;  
+
+– het gemiddelde van de duplobepaling van het controlemonster de ±3s-grens overschrijdt;  
+
+– het gemiddelde van de duplobepaling van het controlemonster tweemaal achter elkaar de 2s-grens aan dezelfde kant van het gemiddelde overschrijdt;  
+
+– het gemiddelde van de duplobepaling van het controlemonster 9 maal achter elkaar eenzijdig het gemiddelde overschrijdt.   Bij onbeheerste kwaliteit (‘out of control’) moeten de volgende maatregelen worden genomen: 
 
 1. De meetresultaten van de bij de betreffende serie horende monsters worden geblokkeerd totdat de foutenbron is gelokaliseerd.  
 
@@ -3873,87 +3940,184 @@ Drijfmest, die verdund is met water voor het verkrijgen van een goed analysemons
 
 3. Er wordt geen nieuwe serie monsters in analyse genomen totdat de foutenbron is gelokaliseerd.  
 
-4. Na opheffing van de foutenbron wordt de betreffende serie monsters opnieuw geanalyseerd. Alleen in het geval van een evidente fout (bijvoorbeeld een rekenfout) kunnen de oorspronkelijke meetgegevens alsnog gebruikt worden.   6.1.2. Duplo-analyse monsters Alle mestmonsters worden, na de voorgeschreven monstervoorbehandeling, in duplo onder herhaalbaarheidscondities geanalyseerd. Indien de serie waarin het desbetreffende monster zich bevindt aan de eisen voldoet, worden vervolgens de meetresultaten van het individuele mestmonster beoordeeld aan de hand van de herhaalbaarheidseisen. Voldoet een monster aan de gestelde eisen dan wordt het gemiddelde berekend en geregistreerd. Voldoet een monster niet aan de gestelde eisen dan wordt de analyse opnieuw uitgevoerd in duplo. Voldoet het monster bij herhaling wel aan de gestelde eisen dan wordt het gemiddelde berekend van de laatste 2 meetresultaten en geregistreerd. De eerder gevonden resultaten worden verworpen. Voldoet het monster bij herhaling wederom niet aan de gestelde herhaalbaarheidseisen dan wordt het gemiddelde berekend van de 4 meetresultaten. Bij de rapportage wordt hiervan melding gemaakt: ‘gemiddelde van 4 waarnemingen’. 6.2. Tweedelijnscontrole De tweedelijnscontrole omvat de beoordeling van de onder herhaalbaarheidsomstandigheden verkregen analyseresultaten van het tweedelijnscontrolemonster teneinde het niveau van de analysemethode voor de desbetreffende tijdsperiode te bewaken. Het gaat dus om de langere termijn bewaking van het analyseniveau. 6.2.1. Controlemonster tweede lijn Het laboratorium dient een tweedelijnscontrolemonster te analyseren met een frequentie van eenmaal per 2 weken. Hierbij doorloopt het monster zo veel mogelijk de gehele procedure van alle in dit accreditatieprogramma genoemde parameters. 6.2.1.1. Eisen controlemonster tweede lijn Het tweedelijnscontrolemonster dient een ander monster te zijn dan het controlemonster dat gebruikt wordt voor de eerstelijnscontrole en dient – voor zover mogelijk – onherkenbaar bepaald te worden. Het controlemonster dient bij voorkeur te bestaan uit een mengsel van met wijnsteenzuur voorbehandelde, gedroogde en gemalen stapelbare mest. Het gehalte aan stikstof en fosfor dient te liggen tussen 25 en 75 g/kg resp. 4 en 20 g/kg. De aangemaakte hoeveelheid monster dient voldoende te zijn voor een periode van 10 jaar. (Toelichting: Uitgaande van een maximale frequentie van een maal per twee weken betekent dit een hoeveelheid monster van 1 (gram: inweeg) * 2 (duplo) * 26 (weken) * 10 (jaar) * 1,1 (marge) ≈ 600 gram.) De eisen gesteld aan de herhaalbaarheid van het controlemonster zijn gelijk aan die van de monsters, dus voor stikstof 4% en voor fosfor 6%. 6.2.1.2. Opstellen controlekaart Idem 6.1.1.3 6.2.1.3. Toetsing controlekaart De resultaten worden beoordeeld door een persoon die onafhankelijk is van de uitvoerende laboratoriumafdeling. Van onbeheerste kwaliteit (‘out of control’) is sprake in de volgende gevallen: 
+4. Na opheffing van de foutenbron wordt de betreffende serie monsters opnieuw geanalyseerd. Alleen in het geval van een evidente fout (bijvoorbeeld een rekenfout) kunnen de oorspronkelijke meetgegevens alsnog gebruikt worden.  
 
-– het controlemonster voldoet niet aan de herhaalbaarheidseis;  
+### §  6.2.3  
 
-– elke overschrijding van het gemiddelde van de 3s-grens;  
+####Duplo-analyse
 
-– een tweemaal achter elkaar optredende overschrijding van de 2s-grens aan dezelfde kant van het gemiddelde;  
+Alle mestmonsters worden, na de voorgeschreven monstervoorbehandeling, in duplo onder herhaalbaarheidscondities geanalyseerd. Indien de serie waarin het desbetreffende monster zich bevindt aan de eisen voldoet, worden vervolgens de meetresultaten van het individuele mestmonster beoordeeld aan de hand van de herhaalbaarheidseisen. Voldoet een monster aan de gestelde eisen dan wordt het gemiddelde berekend en geregistreerd. Voldoet een monster niet aan de gestelde eisen dan wordt de analyse opnieuw uitgevoerd in duplo. Voldoet het monster bij herhaling wel aan de gestelde eisen dan wordt het gemiddelde berekend van de laatste twee meetresultaten en geregistreerd. De eerder gevonden resultaten worden verworpen. Voldoet het monster bij herhaling wederom niet aan de gestelde herhaalbaarheidseisen dan wordt het gemiddelde berekend van de twee middelste meetresultaten. Bij de rapportage wordt hiervan melding gemaakt: ‘mediaan van 4 waarnemingen’.
 
-– een 11 maal opeenvolgende eenzijdige overschrijding van het gemiddelde (langzame drift).   Wanneer sprake is van onbeheerste kwaliteit moet het laboratorium een onderzoek instellen naar de oorzaak. In het geval sprake is van niet voldoen aan de herhaalbaarheidseis, dan dient het tweedelijnscontrolemonster in een volgende serie opnieuw geanalyseerd te worden. De conclusies betreffende het onderzoek worden vermeld bij de kwaliteitscontrolekaart. Jaarlijks worden de resultaten van de tweedelijnscontrole intern geëvalueerd en vastgelegd. 6.2.2. Procedurele aspecten Voor de tweedelijnscontrole dienen de volgende procedurele aspecten in een apart document of in het kwaliteitssysteem van het laboratorium te zijn opgenomen: 
+### §  6.3  
 
-– in bewerking nemen van de tweedelijnscontrolemonsters;  
+####Tweedelijnscontrole
 
-– verwerking en beoordeling van ontvangen resultaten;  
+De tweedelijnscontrole omvat de beoordeling van de onder herhaalbaarheidsomstandigheden verkregen analyseresultaten van het tweedelijnscontrolemonster teneinde het concentratieniveau van de analysemethode voor de desbetreffende tijdsperiode te bewaken. Het gaat dus om de langere termijn bewaking van het analyseniveau. 
 
-– gang van zaken bij afwijkingen;  
+### §  6.3.1  
 
-– jaarlijkse beoordeling;  
+####Controlemonster tweede lijn
 
-– archivering van resultaten;  
+Het laboratorium dient een tweedelijnscontrolemonster in duplo te analyseren met een frequentie van eenmaal per twee weken. Hierbij doorloopt het monster zo veel mogelijk de gehele procedure van alle in dit accreditatieprogramma genoemde parameters. Wanneer er in de periode van twee weken geen mestmonsters zijn geanalyseerd door het laboratorium dan kan de tweedelijnscontrole tijdelijk worden onderbroken. Het tweedelijnscontrolemonster dient een ander monster te zijn dan het controlemonster dat gebruikt wordt voor de eerstelijnscontrole en dient – voor zover mogelijk – onherkenbaar bepaald te worden. Het controlemonster dient te bestaan uit een mengsel van met wijnsteenzuur voorbehandelde, gedroogde en gemalen vaste mest. Het gehalte aan stikstof en fosfor dient te liggen tussen 25 en 75 g/kg resp. 4 en 20 g/kg. De aangemaakte hoeveelheid monster dient voldoende te zijn voor een periode van 10 jaar. De eisen gesteld aan de herhaalbaarheid van het controlemonster zijn gelijk aan die van de monsters, dus voor stikstof 4% en voor fosfor 6%. Het opstellen van de controlekaart is gelijk aan het opstellen van de controlekaart voor eerstelijns controles (zie § 6.2.1.)
 
-– verantwoordelijkheden van de betrokken functionarissen.   6.3. Derdelijnscontrole Doel van de derdelijnscontrole is o.a. het stimuleren van een prestatieverbetering van de laboratoria. De derdelijnscontrole bestaat uit twee onderdelen: 
+### §  6.3.2  
+
+####Onbeheerste kwaliteit
+
+De resultaten worden beoordeeld door een persoon die onafhankelijk is van de uitvoerende medewerkers. Van onbeheerste kwaliteit (‘out of control’) is sprake in de volgende gevallen: 
+
+– de duplobepaling van het controlemonster niet voldoet aan de herhaalbaarheidseis;  
+
+– het gemiddelde van de duplobepaling van het controlemonster de ±3s-grens overschrijdt;  
+
+– het gemiddelde van de duplobepaling van het controlemonster tweemaal achter elkaar de 2s-grens aan dezelfde kant van het gemiddelde overschrijdt;  
+
+– het gemiddelde van de duplobepaling van het controlemonster 9 maal achter elkaar eenzijdig het gemiddelde overschrijdt.   Wanneer sprake is van onbeheerste kwaliteit moet het laboratorium een onderzoek instellen naar de oorzaak. In het geval sprake is van niet voldoen aan de herhaalbaarheidseis, dan dient het tweedelijnscontrolemonster in een volgende serie opnieuw geanalyseerd te worden. De conclusies betreffende het onderzoek worden vermeld bij de kwaliteitscontrolekaart. Jaarlijks worden de resultaten van de tweedelijnscontrole intern geëvalueerd en vastgelegd. 
+
+### §  6.3.3  
+
+####Procedurele aspecten
+
+Voor de tweedelijnscontrole dienen de volgende procedurele aspecten in een apart document of in het kwaliteitssysteem van het laboratorium te zijn opgenomen: 
+
+– In bewerking nemen van de tweedelijnscontrolemonsters.  
+
+– Verwerking en beoordeling van ontvangen resultaten.  
+
+– Gang van zaken bij afwijkingen.  
+
+– Jaarlijkse beoordeling.  
+
+– Archivering van resultaten.  
+
+– Verantwoordelijkheden van de betrokken functionarissen.  
+
+### §  6.4  
+
+####Derdelijnscontrole
+
+Het doel van de derdelijnscontrole is het continu borgen van de analytische kwaliteit van de laboratoria voor de bepaling van stikstof en fosfaat volgens AP05. De derdelijnscontrole bestaat uit twee onderdelen: 
 
 – Ringonderzoeken  
 
-– Steekproeven.   6.3.1. Ringonderzoek 6.3.1.1. Procedurele aspecten Het laboratorium dient minimaal drie keer per jaar voor zijn geaccrediteerde verrichtingen aan ringonderzoeken deel te nemen. Deze ringonderzoeken worden in opdracht van het Ministerie van LNV uitgevoerd door daartoe door de minister van LNV aangewezen instantie of instanties. Monsters die in het kader van ringonderzoeken worden aangeboden zijn als zodanig herkenbaar. Ten aanzien van ringonderzoeken dienen de volgende procedurele aspecten in een apart document of in het kwaliteitssysteem van het laboratorium te zijn opgenomen. 
+– Steekproeven  
 
-– aanmelding als deelnemer aan het ringonderzoek;  
+### §  6.4.1  
 
-– ontvangst en in bewerking nemen van de monsters van het ringonderzoek;  
+####Ringonderzoek
 
-– controle en verzending van resultaten;  
+### §  6.4.1.1  
 
-– verwerking en beoordeling van ontvangen resultaten;  
+####Procedurele aspecten
 
-– gang van zaken bij significante afwijkingen;  
+Het laboratorium dient minimaal drie keer per jaar voor zijn geaccrediteerde verrichtingen aan ringonderzoeken deel te nemen. Deze ringonderzoeken worden in opdracht van het Ministerie van Economische Zaken uitgevoerd door daartoe door de minister aangewezen instantie of instanties. Monsters die in het kader van ringonderzoeken worden aangeboden zijn als zodanig herkenbaar. Ten aanzien van ringonderzoeken dienen de volgende procedurele aspecten in een apart document of in het kwaliteitssysteem van het laboratorium te zijn opgenomen: 
 
-– jaarlijkse beoordeling en gang van zaken bij systematische afwijkingen;  
+– Aanmelding als deelnemer aan het ringonderzoek.  
 
-– archivering van resultaten en rapporten;  
+– Ontvangst en in bewerking nemen van de monsters van het ringonderzoek.  
 
-– archivering van monsters.   6.3.1.2. Evaluatie van ringonderzoekresultaten De resultaten van een ringonderzoek worden door de uitvoerende instantie als volgt geëvalueerd. Van elke parameter van elk monster wordt de z-score berekend: z = (X<sub>lab.</sub> – X<sub>gem.</sub>) / s Waarbij: X<sub>lab.</sub> = de door het laboratorium gemeten waarde van het monster; X<sub>gem.</sub> = de toegekende gemiddelde waarde van het monster (na verwijdering van uitbijters); s = de onzekerheid in deze toegekende waarde als standaarddeviatie van het labgemiddelde (na verwijdering van uitbijters). Het resultaat van een parameter is significant afwijkend t.a.v. de toegekende waarde indien: 
+– Controle en verzending van resultaten.  
 
-– de berekende z-waarde van één der waarnemingen groter is dan 3  
+– Verwerking en beoordeling van ontvangen resultaten.  
 
-– de berekende z-waarden van twee opeenvolgende resultaten van één specifieke parameter beide groter zijn dan 2, mits deze waarden aan dezelfde kant van het gemiddelde liggen.   Per parameter wordt een toets op systematische afwijkingen uitgevoerd. Hiervoor wordt na elk ringonderzoek per parameter het gemiddelde van de z-scores van de laatste drie ringonderzoeken berekend. Deze gemiddelde z-waarde dient tussen +1 en –1 te liggen. Tevens dient het aantal significant afwijkende waarden per parameter te worden beoordeeld. Bij 2 of meer is de kwaliteit onvoldoende. 6.3.1.3. Rapportage van ringonderzoekresultaten De resultaten van de ringonderzoeken en de evaluatie worden door de uitvoerende instantie aan het laboratorium en aan de minister van LNV gerapporteerd. 6.3.2. Steekproef 6.3.2.1. Procedurele aspecten Een aantal keren per jaar worden op het laboratorium reeds geanalyseerde monsters aselect verzameld ten behoeve van analyse door het RIKILT-Instituut voor Voedselveiligheid, onderdeel van Wageningen UR te Wageningen. Het aantal te verzamelen monsters is per laboratorium gelijk en bedraagt per keer en per laboratorium 30 of meer. Dit gebeurt onaangekondigd. Het RIKILT bepaalt van elk monster in willekeurige volgorde het stikstof- en fosforgehalte volgens de referentiemethoden. Het laboratorium is verplicht vastgelegde stikstof- en fosforgehalten van desbetreffende monsters aan RIKILT beschikbaar te stellen.6.3.2.2. Evaluatie van steekproefresultatenDe resultaten worden door het RIKILT als volgt geëvalueerd. Voor elk monster en elk kenmerk wordt het verschil berekend tussen het <sup>10</sup>log getransformeerde meetresultaat van het laboratorium en het <sup>10</sup>log getransformeerde meetresultaat van het RIKILT. Vervolgens wordt per laboratorium de mediaan van deze verschillen berekend. Deze mediaan is de keuringsvariabele *y*. De medianen *y* worden uitgezet in een controlekaart met de eerder berekende medianen uit vorige steekproeven inclusief de daaruit berekende 2s- en 3s-grenzen. De grenzen worden berekend op basis van de oude<sup> 1 Neem de medianen van alle perioden van de laatste 3 jaar mee in de variantie-analyse. </sup> medianen uit vorige steekproeven door een (eventueel inorthogonale) variantie analyse<sup> 2 Deze statistische analyse kan worden uitgevoerd met een algoritme voor Residual Maximum Likelihood (REML), zoals beschikbaar in alle gebruikelijke statistische pakketten. </sup> uit te voeren, waarbij de responsvariabele de medianen *y* bevat en de factoren Laboratorium en Periode als random factoren in het model worden opgenomen. Bij deze berekening van grenzen worden medianen uit eerdere steekproeven die niet aan de normen voldeden (zie hierna) uitgesloten, De standaardafwijking s wordt berekend als de wortel van de som van s<sup>2</sup> <sub>lab</sub> en s<sup>2</sup> <sub>rest</sub>, waarbij s<sup>2</sup> <sub>lab</sub> de geschatte variantie-component voor Laboratorium is en s<sup>2</sup> <sub>rest</sub> de geschatte rest-variantie-component. De grenzen 2s en 3s en -2s en -3s (berekend door s met resp. 2, 3, -2 en -3 te vermenigvuldigen) dienen vervolgens als grenzen voor de medianen in de actuele periode. Een laboratorium voldoet niet aan de norm als: 
+– Gang van zaken bij significante afwijkingen.  
 
-* de berekende mediaan boven 3s of beneden -3s uitkomt,  
+– Jaarlijkse beoordeling en gang van zaken bij systematische afwijkingen.  
 
-* de berekende mediaan en die van de periode ervoor beide boven 2s of beide beneden -2s liggen,  
+– Archivering van resultaten en rapporten.  
 
-* de berekende mediaan en die van 8 voorgaande perioden alle boven dan wel alle onder de 0-lijn liggen.   Geef een waarschuwing als de berekende mediaan boven 2s of beneden -2s uitkomt.
+– Archivering van monsters.  
 
-#### *7. Rapportage van resultaten* 
+### §  6.4.1.2  
 
-7.1. Uitdrukking van meetresultaten De meetresultaten dienen te allen tijde te worden berekend op productbasis. Stapelbare mest wordt met de droogfactor die bepaald is bij de voorbehandeling volgens NEN 7431 omgerekend naar product. Het resultaat van fosfor moet worden uitgedrukt op oxide basis, omrekeningsfactor hiervoor is: fosfor (P) naar fosforpentoxide (P<sub>2</sub>O<sub>5</sub>): 2,29 Fosforpentoxide (P<sub>2</sub>O<sub>5</sub>) wordt in de praktijk en de mestwetgeving aangeduid met fosfaat. De meetresultaten voor stikstof en fosfaat worden bij een gehalte <10 g/kg afgerond op 2 decimalen, bij een gehalte ≥10 g/kg op 1 decimaal, en bij een gehalte ≥100 g/kg op 0 decimaal. De minimale rapporteringswaarde bedraagt voor stikstof 0,10 g/kg en voor fosfaat 0,07 g/kg. De berekende hoeveelheden fosfaat en stikstof – gebaseerd op het gehalte maal de vrachtomvang – wordt uitgedrukt in kilogrammen en afgerond op hele getallen. 7.2. Analyserapport Het analyserapport moet voldoen aan de volgende algemene voorwaarden: 
+####Evaluatie van ringonderzoekresultaten
 
-– De meetresultaten worden te allen tijde afgerond gerapporteerd;  
+De resultaten van een ringonderzoek worden door de uitvoerende instantie als volgt geëvalueerd. Van elke parameter van elk monster wordt de Z-score berekend: ![253888](http://wetten.overheid.nl/Illustration/253888)
+Waarbij X<sub>lab</sub> de door het laboratorium gemeten waarde van het monster is, X<sub>gem</sub> de toegekende gemiddelde waarde van het monster (na verwijdering van uitbijters) is en s de standaardafwijking van alle gemeten waarden van het monster (na verwijdering van uitbijters). Het resultaat van een parameter is significant afwijkend t.a.v. de toegekende waarde indien: 
 
-– De meetresultaten onder de rapportagegrens worden aangegeven met het ‘kleiner dan’ teken met de rapportagegrens;  
+– De berekende Z-waarde van één der waarnemingen groter is dan 3.  
 
-– Indien een verrichting wordt uitbesteed, dient te worden aangegeven naar welke instelling is uitbesteed; deze instelling moet altijd voor de desbetreffende verrichting zijn geaccrediteerd volgens het accreditatieprogramma ‘Dierlijke mest; samenstelling’ en dient te zijn aangewezen door de minister.   Het analyserapport dient minimaal de volgende gegevens te bevatten: 
+– De berekende Z-waarden van twee opeenvolgende resultaten van één specifieke parameter beide groter zijn dan 2, mits deze waarden aan dezelfde kant van het gemiddelde liggen.   Per parameter wordt een toets op systematische afwijkingen uitgevoerd. Hiervoor wordt na elk ringonderzoek per parameter het gemiddelde van de Z-scores van de laatste drie ringonderzoeken berekend. Deze gemiddelde Z-waarde dient tussen +1 en -1 te liggen. Tevens dient het aantal significant afwijkende waarden per parameter te worden beoordeeld. Bij twee of meer is de kwaliteit onvoldoende.
 
-– ontvangstdatum van het monster  
+### §  6.4.1.3  
 
-– laboratoriumnummer  
+####Rapportage van ringonderzoekresultaten
 
-– nummer(s) en datum(s) van de vervoersbewijzen  
+De resultaten van de ringonderzoeken en de evaluatie worden door de uitvoerende instantie aan het laboratorium en aan de minister gerapporteerd.
 
-– netto gewicht van de partij  
+### §  6.4.2  
 
-– netto massa van het monster  
+####Steekproef
 
-– laboratoriumanalyseresultaat fosfaat  
+### §  6.4.2.1  
 
-– laboratoriumanalyseresultaat stikstof  
+####Procedurele aspecten
 
-– vermelding van niet voldoen aan herhaalbaarheidseis  
+Een aantal keren per jaar worden op het laboratorium reeds geanalyseerde monsters aselect verzameld ten behoeve van heranalyse door het RIKILT, Wageningen UR. Het aantal te verzamelen monsters bedraagt per laboratorium en per keer 30 tot 40. Dit gebeurt indien daar aanleiding toe bestaat onaangekondigd. Het RIKILT bepaalt van elk monster in willekeurige volgorde het stikstof- en fosfaatgehalte volgens de referentiemethoden. Het laboratorium is verplicht vastgelegde stikstof- en fosfaatgehalten van desbetreffende monsters aan RIKILT beschikbaar te stellen, evenals aanvullende gegevens die nodig zijn om de analyseresultaten te kunnen vergelijken zoals eventuele (droog)factoren.
 
-– berekende hoeveelheid fosfaat van de partij  
+### §  6.4.2.2  
 
-– berekende hoeveelheid stikstof van de partij.   Het laboratorium stuurt het analyserapport aan de vervoerder van de vracht of partij mest waar de analyse betrekking op heeft. Dit kan op papier of elektronisch. 7.3. Heranalyse De bewaartermijn van de analysemonsters is 14 dagen na verzending van het analyserapport aan de leverancier, vervoerder en afnemer van de vracht of partij mest. Producenten en afnemers van de mest kunnen tot tien dagen na verzending van het analyserapport bij het laboratorium een verzoek indienen om heranalyse(s) uit te voeren. Dit verzoek moet schriftelijk via de vervoerder worden ingediend. Heranalyse is slechts één maal mogelijk en vindt in hetzelfde laboratorium plaats als waar het monster voor analyse is aangeboden. Heranalyse vindt plaats in duplo onder herhaalbaarheidscondities, op het gekoeld bewaarde analysemonster, binnen 21 dagen na de eerste verslaglegging. De duploresultaten van de heranalyse dienen te voldoen aan de eisen voor de herhaalbaarheid, voor stikstof 4% en voor fosfor 6%. Voldoet een monster niet aan deze eisen dan wordt de analyse opnieuw uitgevoerd in duplo. Voldoet het monster bij herhaling wel aan de gestelde eisen dan wordt het gemiddelde berekend van de laatste 2 meetresultaten. De eerder gevonden duploresultaten worden dan verworpen. Voldoet het monster bij herhaling wederom niet aan de gestelde herhaalbaarheidseisen dan wordt het gemiddelde berekend van de 4 meetresultaten. Bij de eventuele rapportage wordt hiervan melding gemaakt. Indien het gemiddelde meetresultaat van de heranalyse voor stikstof en fosfor niet meer dan 6,4% resp. 9,8% afwijkt van het resultaat de eerste analyse, is er sprake van een bevestiging van het resultaat. De aanvrager van de heranalyse ontvangt in dat geval van het laboratorium bericht van de bevestiging waarbij aangegeven wordt dat het eerder gerapporteerde resultaat onverkort van toepassing blijft. Wanneer de analyseresultaten niet worden bevestigd, wordt door het laboratorium een gewijzigd analyserapport verzonden aan de leverancier, vervoerder en afnemer van de vracht of partij mest en daarmee vervalt het eerste analyseresultaat. Op het analyserapport wordt aangegeven dat het een heranalyse betreft. 7.4. Rapportage aan de minister Periodiek moet het laboratorium in ieder geval de volgende gegevens aan de minister rapporteren: 
+####Evaluatie van steekproefresultaten
+
+De resultaten worden door het RIKILT als volgt geëvalueerd. Voor elk monster wordt voor stikstof en fosfaat het verschil berekend tussen het <sup>10</sup>log getransformeerde meetresultaat van het laboratorium en het <sup>10</sup>log getransformeerde meetresultaat van het RIKILT. Vervolgens wordt per laboratorium de mediaan van deze verschillen berekend. Hierbij worden resultaten die beneden de rapportagegrens liggen weggelaten. De medianen van de verschillende laboratoria worden uitgezet in een controlekaart met de eerder berekende medianen uit acht vorige steekproeven inclusief de daaruit berekende ±2s- en ±3s-grenzen. De ±2s en ±3s grenzen worden berekend op basis van de oude medianen uit acht vorige steekproeven door een variantie analyse uit te voeren, waarbij de medianen worden gebruikt als responsvariabelen en de factoren ‘laboratorium’ en ‘periode’ als random factoren in het model worden opgenomen. Bij deze berekening van grenzen worden medianen uit eerdere steekproeven die niet aan de normen voldeden (zie hierna) uitgesloten. De standaardafwijking s wordt berekend als de wortel van de som van s<sup>2</sup> <sub>lab</sub> en s<sup>2</sup> <sub>rest</sub>, waarbij s<sup>2</sup> <sub>lab</sub> de geschatte variantie-component voor de factor ‘laboratorium’ is en s<sup>2</sup> <sub>rest</sub> de geschatte rest-variantie-component betreft. De procentuele±2s en ±3s-grenzen worden berekend door eerst de standaardafwijking s te transformeren volgens:  *S<sub>%</sub> *=100*(10<sup>±</sup> * <sup>s</sup> *–1) en vervolgens respectievelijk te vermenigvuldigen met een factor ±2, en ±3. Een laboratorium voldoet niet aan de norm als: 
+
+– De berekende mediaan boven 3s of beneden -3s uitkomt.  
+
+– De berekende mediaan en die van de periode ervoor beide boven 2s of beide beneden -2s liggen.  
+
+### Hoofdstuk 7  
+
+####Rapportage van resultaten
+
+### §  7.1  
+
+####Uitdrukking van meetresultaten
+
+De meetresultaten dienen te allen tijde te worden berekend op productbasis. Vaste mest wordt met de droogfactor die bepaald is bij de voorbehandeling volgens NEN 7431 omgerekend naar product. Het resultaat van fosfor moet worden uitgedrukt op oxide basis, de omrekeningsfactor hiervoor is: Fosfor (P) naar fosforpentoxide (P<sub>2</sub>O<sub>5</sub>): 2,29. Fosforpentoxide (P<sub>2</sub>O<sub>5</sub>) wordt in de praktijk en de mestwetgeving aangeduid met fosfaat. De meetresultaten voor stikstof en fosfaat worden bij een gehalte <10 g/kg afgerond op 2 decimalen, bij een gehalte ≥10 g/kg op 1 decimaal, en bij een gehalte ≥100 g/kg op 0 decimaal. De minimale rapporteringswaarde bedraagt voor stikstof 0,10 g/kg en voor fosfaat 0,07 g/kg. De berekende hoeveelheden fosfaat en stikstof – gebaseerd op het gehalte maal de vrachtomvang – wordt uitgedrukt in kilogrammen en afgerond op hele getallen.
+
+### §  7.2  
+
+####Analyserapport
+
+Het analyserapport moet voldoen aan de volgende algemene voorwaarden: 
+
+– de meetresultaten worden te allen tijde afgerond gerapporteerd;  
+
+– de meetresultaten onder de rapportagegrens worden aangegeven met het ‘kleiner dan’ teken met de rapportagegrens;  
+
+– indien een verrichting wordt uitbesteed, dient te worden aangegeven naar welke instelling is uitbesteed; deze instelling moet altijd voor de desbetreffende verrichting zijn geaccrediteerd volgens AP05 en dient te zijn aangewezen door de minister.   Het analyserapport dient minimaal de volgende gegevens te bevatten: 
+
+– Ontvangstdatum van het monster;  
+
+– laboratoriumnummer;  
+
+– Nummer(s) en datum(s) van de vervoersbewijzen;  
+
+– Netto gewicht van de vracht;  
+
+– Netto gewicht van het monster;  
+
+– Laboratoriumanalyseresultaat fosfaat;  
+
+– Laboratoriumanalyseresultaat stikstof;  
+
+– Vermelding van niet voldoen aan herhaalbaarheidseis;  
+
+– Berekende hoeveelheid fosfaat van de partij;  
+
+– Berekende hoeveelheid stikstof van de partij;   Het laboratorium stuurt het analyserapport aan de vervoerder van de vracht of partij mest waar de analyse betrekking op heeft. Dit kan op papier of elektronisch. Het laboratorium zendt de analyseresultaten uiterlijk vijf werkdagen na analyse aan de minister.
+
+### §  7.3  
+
+####Heranalyse
+
+Analysemonsters moeten bewaard worden tot het verstrijken va de eindtermijn voor het doen van een heranalyse. Producenten en afnemers van de mest kunnen tot tien dagen na verzending van het analyserapport bij het laboratorium een verzoek indienen om heranalyse(s) uit te voeren. Dit verzoek moet schriftelijk via de vervoerder worden ingediend. Heranalyse is slechts één maal mogelijk en vindt in hetzelfde laboratorium plaats als waar het monster voor analyse is aangeboden. Heranalyse vindt plaats in duplo onder herhaalbaarheidscondities, op het gekoeld bewaarde analysemonster, binnen 21 dagen na de eerste verslaglegging. De duploresultaten van de heranalyse dienen te voldoen aan de eisen voor de herhaalbaarheid, voor stikstof 4% en voor fosfor 6%. Voldoet een monster niet aan deze eisen dan wordt de analyse opnieuw uitgevoerd in duplo. Voldoet het monster bij herhaling wel aan de gestelde eisen dan wordt het gemiddelde berekend van de laatste 2 meetresultaten. De eerder gevonden duploresultaten worden dan verworpen. Voldoet het monster bij herhaling wederom niet aan de gestelde herhaalbaarheidseisen dan wordt het gemiddelde berekend van de 4 meetresultaten. Bij de eventuele rapportage wordt hiervan melding gemaakt. Indien het gemiddelde meetresultaat van de heranalyse voor stikstof en fosfor niet meer dan 6,4% resp. 9,8% afwijkt van het resultaat de eerste analyse, is er sprake van een bevestiging van het resultaat voor het hoge concentratie concentratieniveau (zie hoofdstuk 6). Wanneer de gemeten gehaltes gemiddeld lager zijn dan 2,5 g/kg stikstof of 0,5 g/kg fosfor (het lage concentratie niveau) dan is er sprake van een bevestiging van het resultaat wanneer het verschil niet meer dan 0,16 en 0,05 g/kg bedraagt. De aanvrager van de heranalyse ontvangt in dat geval van het laboratorium bericht van de bevestiging waarbij aangegeven wordt dat het eerder gerapporteerde resultaat onverkort van toepassing blijft. Wanneer de analyseresultaten niet worden bevestigd, wordt door het laboratorium een gewijzigd analyserapport verzonden aan de leverancier, vervoerder en afnemer van de vracht of partij mest en daarmee vervalt het eerste analyseresultaat. Op het analyserapport wordt aangegeven dat het een heranalyse betreft.
+
+### §  7.4  
+
+####Rapportage aan de minister
+
+Periodiek moet het laboratorium in ieder geval de volgende gegevens aan de minister rapporteren: 
 
 – Nummer vervoersbewijs  
 
@@ -3965,35 +4129,25 @@ Drijfmest, die verdund is met water voor het verkrijgen van een goed analysemons
 
 – Nummer(s) gehele monsterverpakking  
 
-– Mestcode   
+– Mestcode  
 
-#### *8. Archivering van gegevens* 
+### Hoofdstuk 8  
+
+####Archivering van gegevens
 
 De meetgegevens van het laboratorium dienen gedurende minimaal 5 jaar te worden gearchiveerd en wel zodanig dat de meetresultaten kunnen worden geherinterpreteerd en snel en handzaam terugvindbaar zijn. Dit geldt ook voor de validatiegegevens en de analyserapporten. Het is toegestaan de meetgegevens elektronisch op te slaan vermits voldaan wordt aan de relevante eisen uit de NEN-EN-ISO/IEC 17025. 
 
-#### *9. Controle op naleving* 
+### Hoofdstuk  9  
 
-De jaarlijkse controle op de naleving van de eisen geformuleerd in dit Accreditatieprogramma wordt uitgevoerd door de Raad voor Accreditatie (RvA). In geval van een schorsing of intrekking van de accreditatie zal dit door de RvA worden gemeld aan de minister van LNV. Indien de accreditatie is ingetrokken, mag een laboratorium geen analyses van stikstof en fosfaat in dierlijke mest meer uitvoeren. In het kader van haar toezichthoudende taak zal de AID tevens de naleving van het voldoen aan de eisen uit het AP05 controleren. De resultaten van de ringtesten zullen door de uitvoerende instantie of instanties aan de minister van LNV gerapporteerd worden. Mochten de resultaten van de ringtesten aanleiding geven tot vragen betreffende de kwaliteit van een laboratorium dan zal op verzoek van de minister de ringtest gedecodeerd worden. Indien gewenst kan de minister de RvA opdracht geven een extra onderzoek in te stellen. De RvA zal in een jaarlijkse geanonimiseerde rapportage aan de minister van LNV haar bevindingen weergeven. Tevens zullen de branchebreed waargenomen afwijkingen/tekortkomingen worden behandeld. Hiermee kunnen mogelijke knelpunten die zich in de praktijk voordoen worden opgespoord en zonodig worden aangepast in het accreditatieprogramma. 
+####Controle op naleving
 
-#### *10. Toetredingsprocedure* 
+De steeksproefgewijze controle op de naleving van de eisen van AP05 wordt uitgevoerd door de Raad voor Accreditatie. De Raad voor Accreditatie oordeelt naar bevinden. Als richtlijn wordt aangehouden dat een laboratorium haar accreditatie status verliest wanneer het voor een periode van 2 jaar niet aan de eisen voor de ringonderzoeken en/of de steekproeven voldoet. In geval van een schorsing of intrekking van de accreditatie zal dit door de Raad voor Accreditatie worden gemeld aan de minister. Indien de accreditatie is ingetrokken, mag een laboratorium geen analyses van stikstof en fosfaat in dierlijke mest meer uitvoeren. Aansluitend op deze controlerende taak van de Raad voor Accreditatie ziet de NVWA toe op naleving van AP05 en op artikel 80 van de Uitvoeringsregeling Meststoffenwet. De resultaten van de ringtesten zullen door de uitvoerende instantie of instanties aan de minister gerapporteerd worden. Mochten de resultaten van de ringtesten aanleiding geven tot vragen betreffende de kwaliteit van een laboratorium dan zal op verzoek van de minister de ringtest gedecodeerd worden. Indien gewenst kan de minister de RvA opdracht geven een extra onderzoek in te stellen. De RvA zal in een jaarlijkse geanonimiseerde rapportage aan de minister haar bevindingen weergeven. Tevens zullen de branchebreed waargenomen afwijkingen/tekortkomingen worden behandeld. Hiermee kunnen mogelijke knelpunten die zich in de praktijk voordoen worden opgespoord en zo nodig worden aangepast in het accreditatieprogramma. 
 
-Laboratoria die wensen deel te nemen aan het Accreditatieprogramma AP05 dienen zich aan te melden bij de Raad voor Accreditatie. Het laboratorium dient aan te tonen dat het bekend is met de specifieke kenmerken van de matrix dierlijke mest en dat de voorgeschreven analysemethoden goed kunnen worden uitgevoerd. Hiervoor moet vooraf een groot aantal monsters (200) onder beheerste condities geanalyseerd worden. Reden voor dit grote aantal analyses vooraf, is de diversiteit in de matrix mest (diersoorten, stalsystemen) en de daarbij behorende effecten op de gehalten. Als aangetoond is dat aan de kwaliteitseisen van AP05 kan worden voldaan wordt het laboratorium geaccrediteerd. Vóórdat monsters in het kader van het stelsel van gebruiksnormen geanalyseerd mogen worden, dient ook de kwaliteitsbewaking opgestart te zijn, in de vorm van controlemonsters met de bijbehorende controlekaarten. Kwalificatieprocedure voor het verkrijgen van de accrediatieAP05: 
+### Hoofdstuk  10  
 
-1. Neem 200 monsters mest verdeeld over verschillende diersoorten en stalsystemen, zodat het hele werkgebied bestreken wordt.  
+####Literatuur
 
-2. Analyseer de monsters volgens de procedures van AP05.  
-
-3. Verdeel de monsters over een aantal series en verspreid over een periode van 2 maanden (zodat ook informatie van de controlemonsters wordt verkregen).  
-
-4. Toets de duplo-waarden van de monsters aan de hand van de prestatiekenmerken uit AP05 en bereken de herhaalbaarheid.  
-
-5. Het controlemonster geeft, wanneer in duplo bij elke serie meegenomen, goed inzicht in de binnenlab reproduceerbaarheid. Bereken daartoe uit de verkregen dataset van het controlemonster de dag tot dag effecten en ga na of deze significant verschillen van de herhaalbaarheid. Voldoen de duplo-waarden aan de gestelde criteria en is de binnenlab reproduceerbaarheid niet significant verschillend van de herhaalbaarheid, dan kan het laboratorium daarmee aantonen dat ze de analyse van mest beheerst.  
-
-6. Als aanvullende voorwaarde geldt dat aan een AP05 ringtest is deelgenomen, bij voorkeur aan het eind van de analyseperiode van de testmonsters. Hierbij dient het laboratorium ook voldoende te scoren (maximaal 1 keer buiten de gestelde z-score per component bij 4 monsters).   
-
-#### *11. Literatuur* 
-
-NEN 7430: Dierlijke mest en mestproducten. Monstervoorbehandeling door homogeniseren. Drijfmest. NEN 7431: Dierlijke mest en mestproducten. Monstervoorbehandeling door mengen, drogen en malen. Stapelbare mest NEN 7433: Dierlijke mest en mestproducten. Monstervoorbehandeling voor de bepaling van stikstof, fosfor en kalium. Ontsluiting met zwavelzuur, waterstofperoxyde en kopersulfaat. NEN 7434: Dierlijke mest en mestproducten. Bepaling van het gehalte aan stikstof in destruaten. NEN 7435: Dierlijke mest en mestproducten. Bepaling van het gehalte aan fosfor in destruaten. NEN 7437: Dierlijke mest en mestproducten. Bepaling van het gehalte aan totaal stikstof. Opzet van ringonderzoeken en interpretatie van resultaten, R94.012 (3de versie), Kwaliteitsdienst Landbouwkundige Laboratoria, TNO voeding. Eindrapportage bemonstering en analyse van dierlijke mest, Projectgroep Bemonstering en Analyse, april 1995. 
+NEN 7430: Dierlijke mest en mestproducten. Monstervoorbehandeling door homogeniseren. Drijfmest. NEN 7431: Dierlijke mest en mestproducten. Monstervoorbehandeling door mengen, drogen en malen. Stapelbare mest NEN 7433: Dierlijke mest en mestproducten. Monstervoorbehandeling voor de bepaling van stikstof, fosfor en kalium. Ontsluiting met zwavelzuur, waterstofperoxyde en kopersulfaat. NEN-EN 14672:2005: Karakterisering van slib – Bepaling van het totale gehalte aan fosfor NEN 7434: Dierlijke mest en mestproducten. Bepaling van het gehalte aan stikstof in destruaten. NEN 7435 (2<sup>e</sup> ontwerp): Dierlijke mest en mestproducten. Bepaling van het gehalte aan fosfor in destruaten. NEN 7437: Dierlijke mest en mestproducten. Bepaling van het gehalte aan totaal stikstof. Opzet van ringonderzoeken en interpretatie van resultaten, R94.012 (3de versie), Kwaliteitsdienst Landbouwkundige Laboratoria, TNO voeding. Eindrapportage bemonstering en analyse van dierlijke mest, Projectgroep Bemonstering en Analyse, april 1995. 
 
 ### Bijlage  I  
 
@@ -4003,41 +4157,41 @@ NEN 7430: Dierlijke mest en mestproducten. Monstervoorbehandeling door homogenis
 
 | Diersoort/omschrijving   |--- | Mestcode   | kg stikstof   per ton  | kg fosfaat   per ton  |
 |:---|:---|:---|:---|:---|
-| Rundvee   | Vaste mest  | 10  | 6,3  | 3,7  |
-| --- | Gier en filtraat na mestscheiding  | 11  | 4,1  | 2,0  |
-| --- | Koek na mestscheiding  | 13  | 19,9  | 13,9  |
-| --- | Drijfmest behalve van vleeskalveren  | 14  | 4,2  | 1,7  |
+| Rundvee  | vaste mest  | 10  | 7,7  | 4,3  |
+| --- | drijfmest behalve van vleeskalveren  | 14  | 4,0  | 1,5  |
+| --- | gier en filtraat na mestscheiding  | 11  | 3,4  | 1,4  |
+| --- | koek na mestscheiding  | 13  | 16,9  | 9,8  |
 | --- | bewerkte kalvergier  | 17  | 3,2  | 6,8  |
-| --- | Vleeskalveren, witvlees  | 18  | 2,8  | 1,5  |
-| --- | Vleeskalveren, rosevlees  | 19  | 5,1  | 2,3  |
-| Kalkoenen   | Mest, alle systemen  | 23  | 25,9  | 21,0  |
-| Kippen   | Drijfmest  | 30  | 10,4  | 7,0  |
-| --- | Deeppitstal, kanalenstal  | 31  | 28,5  | 28,8  |
-| --- | Mestband  | 32  | 26,8  | 21,8  |
-| --- | Mestband + nadroog  | 33  | 35,1  | 28,1  |
-| --- | Geheel of gedeeltelijk strooiselstal  (incl voliérestal/scharrelstal)  | 35  | 25,0  | 26,8  |
-| Vleeskuikens en parelhoenders   | Mest, alle systemen  | 39  | 32,6  | 17,7  |
-| Varkens   | Vaste mest  | 40  | 10,8  | 10,7  |
-| --- | Gier en filtraat na mestscheiding  | 41  | 3,9  | 1,1  |
-| --- | Koek na mestscheiding  | 43  | 18,7  | 19,5  |
-| --- | Drijfmest fokzeugen, incl. biggen, opfokzeugen/-beren, dekberen  | 46  | 5,1  | 3,1  |
-| --- | Drijfmest vleesvarkens  | 50  | 6,8  | 3,9  |
-| Schapen   | Mest, alle systemen  | 56  | 8,3  | 4,6  |
-| Geiten   | Drijfmest  | 60  | 8,8  | 4,1  |
-| --- | Vaste mest  | 61  | 9,6  | 5,2  |
+| --- | vleeskalveren, witvlees  | 18  | 3,1  | 1,4  |
+| --- | vleeskalveren, rosévlees  | 19  | 5,6  | 2,3  |
+| Kalkoenen  | mest, alle systemen  | 23  | 32,7  | 22,5  |
+| Kippen  | drijfmest  | 30  | 10,0  | 6,0  |
+| --- | deeppitstal, kanalenstal  | 31  | 28,5  | 28,8  |
+| --- | mestband  | 32  | 28,4  | 23,0  |
+| --- | mestband + nadroog  | 33  | 32,7  | 25,9  |
+| --- | geheel of gedeeltelijk strooiselstal (incl. volièrestal/scharrelstal)  | 35  | 29,0  | 25,6  |
+| Vleeskuikens en parelhoenders  | mest, alle systemen  | 39  | 34,1  | 16,6  |
+| Varkens  | vaste mest  | 40  | 13,9  | 13,6  |
+| --- | drijfmest fokzeugen, incl. biggen, opfokzeugen/-beren, dekberen  | 46  | 3,8  | 2,5  |
+| --- | gier en filtraat na mestscheiding  | 41  | 1,4  | 0,6  |
+| --- | koek na mestscheiding  | 43  | 25,7  | 21,4  |
+| --- | drijfmest vleesvarkens  | 50  | 7,0  | 3,9  |
+| Schapen  | mest, alle systemen  | 56  | 8,7  | 5,1  |
+| Geiten  | drijfmest  | 60  | 5,1  | 2,8  |
+| --- | vaste mest  | 61  | 9,7  | 5,4  |
 | Vossen   | Mest, alle systemen  | 70  | 37,2  | 27,4  |
-| Nertsen   | Vaste mest  | 75  | 34,2  | 35,8  |
-| --- | Drijfmest  | 76  | 9,6  | 6,0  |
-| Eenden   | Vaste mest  | 80  | 9,1  | 8,5  |
-| --- |Drijfmest |81 |4,5 |3,5 |
-| Konijnen   | Vaste mest  | 90  | 12,9  | 12,4  |
-| --- | Drijfmest met percentage droge stof < 2,5%  | 91  | 0,0  | 0,0  |
+| Nertsen  | vaste mest  | 75  | 42,9  | 59,1  |
+| --- | drijfmest  | 76  | 8,3  | 4,5  |
+| Eenden  | vaste mest  | 80  | 10,7  | 9,7  |
+| --- | drijfmest  | 81  | 4,5  | 3,5  |
+| Konijnen  | vaste mest  | 90  | 13,6  | 12,6  |
+| --- | drijfmest  | 91  | 0,0  | 0,0  |
 | --- | Drijfmest  | 92  | 5,1  | 4,1  |
-| Paarden   | vaste mest  | 25  | 5,0  | 3,0  |
+| Paarden  | vaste mest  | 25  | 5,6  | 3,0  |
 | Ezels   | vaste mest  | 26  | 5,0  | 3,0  |
 | Pony's   | vaste mest  | 27  | 5,0  | 3,0  |
 | Herten   | vaste mest  | 95  | 7,1  | 5,3  |
-| Waterbuffels   | mest, alle systemen  | 96  | 4,5  | 1,9  |
+| Waterbuffels  | mest, alle systemen  | 96  | 5,1  | 2,1  |
 | Knobbelgans   | vaste mest  | 97  | 8,9  | 8,1  |
 | Grauwe gans   | vaste mest  | 98  | 8,9  | 8,1  |
 | Fazanten en patrijzen   | vaste mest  | 99  | 32,6  | 17,7  |
@@ -4056,7 +4210,7 @@ NEN 7430: Dierlijke mest en mestproducten. Monstervoorbehandeling door homogenis
 | Paardenmest  | 25  | 5,0  | 3,0  |
 | Fase 1 substraat  | 107  | 5,5  | 3,1  |
 | Fase 3 substraat<sup>*</sup>  | 109  | 8,0  | 4,4  |
-| champost<sup>**</sup>  | 110  | 6,9  | 4,1  |
+| Champost<sup>**</sup>  | 110  | 8,2  | 4,4  |
 
 <sup>*</sup> Fase 3 substraat is het product dat van het compostbedrijf wordt vervoerd naar de champignonkwekerij.<sup>**</sup> champost is het product dat van de champignonkweker wordt afgevoerd.
 
@@ -4064,7 +4218,7 @@ NEN 7430: Dierlijke mest en mestproducten. Monstervoorbehandeling door homogenis
 
 | Omschrijving  | Mestcode  | Kg stikstof per ton  | Kg fosfaat per ton  |
 |:---|:---|:---|:---|
-| Mineralenconcentraat<sup>xiii</sup>  | 120  | 8,0  | 1,0  |
+| Mineralenconcentraat<sup>xiii</sup>  | 120  | 6,4  | 0,3  |
 
 <sup>xiii</sup> mineralenconcentraat dat is geproduceerd door een overeenkomstig artikel 35b aangewezen producent en dat wordt vervoerd naar een in artikel 35f, eerste lid, bedoelde landbouwer.
 
@@ -4100,36 +4254,30 @@ Wanneer in één maand één monster wordt aangeboden ten behoeve van het twaalf
 
 ### Bijlage  J  
 
-####Forfaitaire opbrengst en mineralengehalten ruwvoer en enkelvoudig diervoer
-
-#### Behorende bij de artikelen 97 , 100  en 101  
-
-| gewas  | Opbrengst  (ton ds/ha)  | Opbrengst (ton product /ha)  | Stikstof-gehalte  (kg stikstof/ton ds)  | Fosfaat-gehalte  (kg fosfaat/ton ds)  | Stikstof-gehalte  (kg stikstof/ton vers product)  | Fosfaat-gehalte  (kg fosfaat/ton vers product)  |
+| gewas  | Opbrengst (ton ds/ha)  | Opbrengst (ton product/ ha)  | Stikstofgehalte (kg stikstof/ton ds)  | Fosfaatgehalte (kg fosfaat/ton ds)  | Stikstofgehalte  (kg stikstof/ton vers product)  | Fosfaatgehalte  (kg fosfaat/ton vers product)  |
 |:---|:---|:---|:---|:---|:---|:---|
-| Snijmaïs  | 13,0  | 40,0  | 13,5  | 5,0  | 4,3  | 1,6  |
-| Maïskolven-schroot  | 7,8  | 14,0  | 15,7  | 7,8  | 8,6  | 4,3  |
-| Corncobmix  (100% spil)  | 7,5  | 13,6  | 15,9  | 7,9  | 8,7  | 4,4  |
-| Corncobmix  (25% spil)  | 7,3  | 12,0  | 15,9  | 7,9  | 9,7  | 4,8  |
-| Korrelmaïs  | 7,2  | 8,5  | 16,0  | 8,0  | 13,4  | 6,7  |
-| Gehele plant silage  | 8,8  | 10,5  | 19,8  | 7,5  | 16,6  | 6,3  |
-| Tarwe  | 6,7  | 7,8  | 23,9  | 9,0  | 20,1  | 7,8  |
-| Snijerwten  | 5,5  | 6,5  | 33,0  | 9,0  | 27,8  | 7,6  |
-| Gerst  | 5,0  | 5,9  | 22,0  | 10,0  | 18,5  | 8,5  |
-| Aardappelen (vers)  | 8,0  | 45,0  | 17,8  | 6,4  | 3,1  | 1,15  |
-| Aardappelen (kuil)  | *  | *  | 15,7  | 5,6  | 5,5  | 1,6  |
-| Appelen  | *  | *  | 4,2  | 1,8  | 0,7  | 0,2  |
-| Graanstro (rogge)  | 3,6  | 4,3  | 4,6  | 2,29  | 3,9  | 1,83  |
-| Graanstro (tarwe)  | 3,5  | 4,1  | 6,9  | 1,83  | 5,8  | 1,60  |
-| Grashooi  | *  | *  | 23,2  | 6,9  | 19,3  | 5,7  |
-| Graskuil  | *  | *  | 30,6  | 9,6  | 13,8  | 4,3  |
-| Graszaadstro  | *  | *  | 13,3  | 3,7  | 11,0  | 3,0  |
-| Rogge  | 4,6  | 5,3  | 18,2  | 8,4  | 15,8  | 7,3  |
-| Uien  | 4,6  | 46,4  | 21,6  | 5,7  | 2,2  | 0,7  |
-| Voederbieten  | 15,5  | 100,0  | 12,8  | 3,0  | 1,9  | 0,5  |
-| Witlofwortelen  | **  | **  | 7,8  | 5,2  | 1,3  | 0,5  |
-| Kaaswei  | --- | --- | 33,6  | 27,7  | 1,5  | 1,3  |
-
-ds = droge stof ha = hectare * opbrengst is sterk afhankelijk van teeltmethode en tijdstip van oogsten, en het betreft vaak een deel van de totale opbrengst van het jaar. De jaaropbrengst is afhankelijk van de stikstofgift. ** altijd aanvoer van andere bedrijven, waarbij geen relatie met oppervlakte te maken is. 
+| Snijmaïs  | 15,9  | 44,2  | 11,5  | 4,4  | 4,1  | 1,6  |
+| Maïskolvenschroot  | 7,8  | 14,0  | 14,4  | 5,7  | 7,6  | 3,0  |
+| Corncobmix (100% spil)  | 7,5  | 14,6  | 15,7  | 6,2  | 8,0  | 3,2  |
+| Corncobmix (25% spil)  | 7,5  | 12,8  | 15,5  | 7,3  | 9,1  | 4,3  |
+| Korrelmaïs  | 7,9  | 9,1  | 13,1  | 5,5  | 11,4  | 4,8  |
+| Gehele plant silage  | 8,8  | 10,5  | 16,2  | 6,9  | 6,0  | 2,6  |
+| Tarwe  | 7,0  | 8,1  | 17,8  | 6,9  | 15,4  | 6,0  |
+| Erwten  | 5,5  | 6,5  | 33,8  | 9,2  | 29,3  | 7,9  |
+| Gerst  | 5,5  | 6,3  | 16,6  | 7,6  | 14,5  | 6,6  |
+| Aardappelen (vers)  | 10,0  | 50,7  | 16,3  | 5,7  | 3,2  | 1,1  |
+| Aardappelen (kuil)  | *  | *  | 15,7  | 4,6  | 5,5  | 1,6  |
+| Appelen  | *  | *  | 4,2  | 1,8  | 0,7  | 0,3  |
+| Graanstro (rogge)  | 3,6  | 4,3  | 4,6  | 2,3  | 3,9  | 1,9  |
+| Graanstro (tarwe)  | 3,5  | 4,1  | 7,0  | 2,5  | 6,4  | 2,3  |
+| Grashooi  | *  | *  | 21,1  | 6,2  | 17,8  | 5,2  |
+| Graskuil  | *  | *  | 27,0  | 9,0  | 12,4  | 4,1  |
+| Graszaadstro  | *  | *  | 11,2  | 3,9  | 9,5  | 3,3  |
+| Rogge  | 3,5  | 4,0  | 15,7  | 7,3  | 13,7  | 6,4  |
+| Uien  | 5,6  | 56,4  | 21,6  | 7,1  | 2,2  | 0,7  |
+| Voederbieten  | 15,5  | 100,0  | 11,8  | 3,0  | 1,5  | 0,4  |
+| Witlofwortelen  | **  | **  | 9,3  | 4,6  | 1,4  | 0,7  |
+| kaaswei  | --- | --- | 33,4  | 18,8  | 1,6  | 0,9  |
 
 ### Bijlage K 
 
@@ -4143,7 +4291,7 @@ In artikel 98 van de Uitvoeringsregeling Meststoffenwet staat dat de ondernemer,
 
 – resultaten van bemonstering en analyse van voedermiddelen en voeders, of  
 
-– wat betreft mengvoeder: op berekeningen, uitgaande van bekende gehalten van de in het mengvoeder verwerkte voedermiddelen.   
+– wat betreft mengvoeders: op berekeningen, uitgaande van bekende gehalten van de in het mengvoeders verwerkte voedermiddelen.   
 
 #### *2. Doel* 
 
@@ -4275,7 +4423,7 @@ De in deze bijlage opgenomen toleranties betreft het maximale acceptabele versch
 
 ####Principe
 
-De bouwvoor of zode van een perceel landbouwgrond wordt bij voorkeur volgens een gestratificeerde aselecte steekproef bemonsterd met behulp van een speciaal daarvoor opgesteld softwareprogramma dat digitaal te verkrijgen is bij het Ministerie van Economische Zaken, Landbouw en Innovatie. Indien gebruik gemaakt wordt van de gestratificeerde aselecte steekproef dient de procedure gevolgd te worden zoals beschreven in bijlage C, onderdeel I, van onderhavige regeling. Indien geen gebruik gemaakt wordt van de gestratificeerde aselecte steekproef dient de bemonstering van een perceel dan wel perceelsdeel plaats te vinden volgens het onderhavige protocol. De grond van de verschillende bemonsteringspunten wordt gemengd tot één mengmonster. Het mengmonster wordt vervolgens voorbehandeld en in duplo geanalyseerd op fosfaattoestand volgens de onderdelen II en III van het onderhavige protocol. Het is toegestaan een afwijkende methode voor de bepaling van het PAL-getal (onderdeel II) en voor de bepaling van het Pw-getal (onderdeel III) te hanteren mits die methode ten minste dezelfde waarborgen omvat ten aanzien van betrouwbaarheid en nauwkeurigheid. Het gemiddelde van de duplo-bepalingen is de uitslag van de test. Een heranalyse van het genomen bodemmonster is niet mogelijk. Voor een nieuwe analyse dienen nieuwe monsters te worden gestoken om het mengmonster te verkrijgen. 
+De bouwvoor of zode van een perceel landbouwgrond wordt bij voorkeur volgens een gestratificeerde aselecte steekproef bemonsterd met behulp van een speciaal daarvoor opgesteld softwareprogramma dat digitaal te verkrijgen is bij het Minister van Economische Zaken. Indien gebruik gemaakt wordt van de gestratificeerde aselecte steekproef dient de procedure gevolgd te worden zoals beschreven in bijlage C, onderdeel I, van onderhavige regeling. Indien geen gebruik gemaakt wordt van de gestratificeerde aselecte steekproef dient de bemonstering van een perceel dan wel perceelsdeel plaats te vinden volgens het onderhavige protocol. De grond van de verschillende bemonsteringspunten wordt gemengd tot één mengmonster. Het mengmonster wordt vervolgens voorbehandeld en in duplo geanalyseerd op fosfaattoestand volgens de onderdelen II en III van het onderhavige protocol. Het is toegestaan een afwijkende methode voor de bepaling van het PAL-getal (onderdeel II) en voor de bepaling van het Pw-getal (onderdeel III) te hanteren mits die methode ten minste dezelfde waarborgen omvat ten aanzien van betrouwbaarheid en nauwkeurigheid. Het gemiddelde van de duplo-bepalingen is de uitslag van de test. Een heranalyse van het genomen bodemmonster is niet mogelijk. Voor een nieuwe analyse dienen nieuwe monsters te worden gestoken om het mengmonster te verkrijgen. 
 
 ####Onderdeel I Protocol voor bemonstering van een perceel bouwland of grasland
 
@@ -4700,8 +4848,8 @@ De uitkomst van de bepaling, het Pw-getal bij volumeverhouding 1:60 wordt uitged
 | --- | --- | --- | Niet na analyse van het mestmonster toezenden van de analyseresultaten door het laboratorium aan de vervoerder, de leverancier, de afnemer en elektronisch aan de minister  | M520  | € 300  |
 | --- | --- | --- | Niet uiterlijk 5 werkdagen na analyse van het mestmonster toezenden van de analyseresultaten door het laboratorium aan de vervoerder, de leverancier, de afnemer en elektronisch aan de minister  | M521  | € 100  |
 | --- | --- | --- | --- | --- | --- |
-| --- | --- | Art. 81 lid 2  | Niet rapporteren van beschadigingen m.b.t. de monsterverpakking door het laboratorium aan de AID  | M522  | € 300  |
-| --- | --- | --- | Niet opvolgen van de door de AID verstrekte aanwijzingen door het laboratorium  | M523  | € 300  |
+| --- | --- | Art. 81 lid 2  | Niet rapporteren van beschadigingen m.b.t. de monsterverpakking door het laboratorium aan de NVWA  | M522  | € 300  |
+| --- | --- | --- | Niet opvolgen van de door de NVWA verstrekte aanwijzingen door het laboratorium  | M523  | € 300  |
 | --- | --- | --- | --- | --- | --- |
 | --- | --- | Art. 81, lid 3,  art. 125  | Niet voldoen door het laboratorium aan de in het accreditatieprogramma AP05 gestelde eisen  | M524  | € 300  |
 | --- | --- | --- | --- | --- | --- |

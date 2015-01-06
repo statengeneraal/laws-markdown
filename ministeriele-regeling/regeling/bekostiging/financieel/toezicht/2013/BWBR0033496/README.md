@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Financiën en de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 28 mei 2013, kenmerk: FM 2013/0929 M, tot vaststelling van de bandbreedtes en tarieven 2013, bedoeld in artikel 13, zesde lid, van de Wet bekostiging financieel toezicht (Regeling bekostiging financieel toezicht 2013)
 
 De Minister van Financiën en de Staatsecretaris van Sociale Zaken en Werkgelegenheid,  
-Gelet op [artikel 13, zesde lid, van de Wet bekostiging financieel toezicht](../../../../../../../wet/wet/bekostiging/financieel/toezicht/BWBR0031659/README.md);
+Gelet op artikel 13, zesde lid, van de Wet bekostiging financieel toezicht;
 Besluiten:    
 
 ### Artikel  1  
@@ -12,11 +12,11 @@ In deze regeling wordt verstaan onder:
 
 a.  *geconsolideerde jaarrekening:* jaarrekening waarin de activa, passiva, baten en lasten van personen die een groep of groepsdeel vormen en andere in de consolidatie meegenomen personen, als één geheel zijn opgenomen;  
 
-b.  *toezichtcategorie:* toezichtcategorie als bedoeld in [bijlage II van de Wet bekostiging financieel toezicht](../../../../../../../wet/wet/bekostiging/financieel/toezicht/BWBR0031659/README.md).   
+b.  *toezichtcategorie:* toezichtcategorie als bedoeld in bijlage II van de Wet bekostiging financieel toezicht.   
 
 ### Artikel  2  
 
-Voor het kalenderjaar 2013 worden de bandbreedtes en de tarieven, bedoeld in [artikel 13, zesde lid, van de Wet bekostiging financieel toezicht](../../../../../../../wet/wet/bekostiging/financieel/toezicht/BWBR0031659/README.md), voor de toezichtcategorieën behorend bij het onderdeel ‘Toezichthouder: Autoriteit Financiële Markten’ als volgt vastgesteld:  
+Voor het kalenderjaar 2013 worden de bandbreedtes en de tarieven, bedoeld in artikel 13, zesde lid, van de Wet bekostiging financieel toezicht, voor de toezichtcategorieën behorend bij het onderdeel ‘Toezichthouder: Autoriteit Financiële Markten’ als volgt vastgesteld:  
 
 | Toezichtcategorie  | Maatstaf  | Bandbreedtes  | Tarieven  |
 |:---|:---|:---|:---|
@@ -51,7 +51,7 @@ Voor het kalenderjaar 2013 worden de bandbreedtes en de tarieven, bedoeld in [ar
 | --- | --- | in voorkomend geval vermeerderd met:  |
 | --- | >500,0 fte’s  | € 10 per fte  |
 | Banken en clearinginstellingen  |  *Minimum omvang toetsingsvermogen (MTV)*:  | --- | € 6.500 vermeerderd met:  |
-| --- | Minimum omvang toetsingsvermogen berekend conform de regels die op grond van [artikel 3:57 van de Wet op het financieel toezicht](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) worden bepaald  | >€ 0 tot en met € 80 miljoen MTV  | € 775 per € miljoen MTV  |
+| --- | Minimum omvang toetsingsvermogen berekend conform de regels die op grond van artikel 3:57 van de Wet op het financieel toezicht worden bepaald  | >€ 0 tot en met € 80 miljoen MTV  | € 775 per € miljoen MTV  |
 | --- | --- | in voorkomend geval vermeerderd met:  |
 | --- | >€ 80 miljoen tot en met € 400 miljoen MTV  | € 335 per € miljoen MTV  |
 | --- | --- | in voorkomend geval vermeerderd met:  |
@@ -66,13 +66,13 @@ Voor het kalenderjaar 2013 worden de bandbreedtes en de tarieven, bedoeld in [ar
 | --- | --- | >€ 10 miljard tot en met € 15 miljard BT  | € 2 per € miljoen BT  |
 | --- | --- | --- | in voorkomend geval vermeerderd met:  |
 | --- | --- | >€ 15 miljard BT  | € 1 per € miljoen BT  |
-| Beleggingsondernemingen niet voor eigen rekening, exclusief exploitanten van een MTF  |  *Vergunningtypen in combinatie met effectenrekeningen*:  a. vergunningtypen voor het verlenen van beleggingsdiensten als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  b. het aantal effectenrekeningen (ER) bij of in beheer bij de desbetreffende instelling  |  *Vergunningtypen:*   | --- |
-| Vergunning voor het ontvangen en doorgeven van orders als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  | € 900 in voorkomend geval vermeerderd met:  |
-| --- | Vergunning voor het uitvoeren van orders voor rekening van cliënten als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  | € 2.700 in voorkomend geval vermeerderd met:  |
-| --- | Vergunning vermogensbeheer als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  | € 3.600 in voorkomend geval vermeerderd met:  |
-| --- | --- | Vergunning voor beleggingsadvies als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  | € 2.700 in voorkomend geval vermeerderd met:  |
-| --- | --- | Vergunning voor het begeleiden of overnemen van emissies met plaatsingsgaranties als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  | € 900 in voorkomend geval vermeerderd met:  |
-| --- | --- | Vergunning voor het begeleiden van emissies zonder plaatsingsgarantie als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  | € 900 in voorkomend geval vermeerderd met:  |
+| Beleggingsondernemingen niet voor eigen rekening, exclusief exploitanten van een MTF  |  *Vergunningtypen in combinatie met effectenrekeningen*:  a. vergunningtypen voor het verlenen van beleggingsdiensten als bedoeld in artikel 1:1 van de Wet op het financieel toezicht;  b. het aantal effectenrekeningen (ER) bij of in beheer bij de desbetreffende instelling  |  *Vergunningtypen:*   | --- |
+| Vergunning voor het ontvangen en doorgeven van orders als bedoeld in artikel 1:1 van de Wet op het financieel toezicht  | € 900 in voorkomend geval vermeerderd met:  |
+| --- | Vergunning voor het uitvoeren van orders voor rekening van cliënten als bedoeld in artikel 1:1 van de Wet op het financieel toezicht  | € 2.700 in voorkomend geval vermeerderd met:  |
+| --- | Vergunning vermogensbeheer als bedoeld in artikel 1:1 van de Wet op het financieel toezicht  | € 3.600 in voorkomend geval vermeerderd met:  |
+| --- | --- | Vergunning voor beleggingsadvies als bedoeld in artikel 1:1 van de Wet op het financieel toezicht  | € 2.700 in voorkomend geval vermeerderd met:  |
+| --- | --- | Vergunning voor het begeleiden of overnemen van emissies met plaatsingsgaranties als bedoeld in artikel 1:1 van de Wet op het financieel toezicht  | € 900 in voorkomend geval vermeerderd met:  |
+| --- | --- | Vergunning voor het begeleiden van emissies zonder plaatsingsgarantie als bedoeld in artikel 1:1 van de Wet op het financieel toezicht  | € 900 in voorkomend geval vermeerderd met:  |
 | --- | --- |  *In combinatie met effectenrekeningen (ER):*   | In alle gevallen vermeerderd met:  |
 | --- | --- | 0 tot en met 100 ER  | € 4,00 per ER  |
 | --- | --- | --- | in voorkomend geval vermeerderd met:  |
@@ -152,16 +152,16 @@ Voor het kalenderjaar 2013 worden de bandbreedtes en de tarieven, bedoeld in [ar
 
 ### Artikel  3  
 
-Twee of meer aanbieders van beleggingsobjecten waaraan een vergunning is verleend als bedoeld in [artikel 2:55 van de Wet op het financieel toezicht](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en die gedurende het gehele jaar, in steeds dezelfde samenstelling, gezamenlijk aanbiedingen doen aan consumenten, of deze aanbiedingen aan consumenten gezamenlijk beheren, worden voor de toepassing van artikel 2 aangemerkt als één persoon. 
+Twee of meer aanbieders van beleggingsobjecten waaraan een vergunning is verleend als bedoeld in artikel 2:55 van de Wet op het financieel toezicht en die gedurende het gehele jaar, in steeds dezelfde samenstelling, gezamenlijk aanbiedingen doen aan consumenten, of deze aanbiedingen aan consumenten gezamenlijk beheren, worden voor de toepassing van artikel 2 aangemerkt als één persoon. 
 
 ### Artikel  4  
 
-Voor het kalenderjaar 2013 worden de bandbreedtes en de tarieven, bedoeld in [artikel 13, zesde lid, van de Wet bekostiging financieel toezicht](../../../../../../../wet/wet/bekostiging/financieel/toezicht/BWBR0031659/README.md), voor de toezichtcategorieën behorende bij het onderdeel ‘Toezichthouder: de Nederlandsche Bank’ als volgt vastgelegd:  
+Voor het kalenderjaar 2013 worden de bandbreedtes en de tarieven, bedoeld in artikel 13, zesde lid, van de Wet bekostiging financieel toezicht, voor de toezichtcategorieën behorende bij het onderdeel ‘Toezichthouder: de Nederlandsche Bank’ als volgt vastgelegd:  
 
 | Toezichtcategorie  | Maatstaf  | Bandbreedtes  | Tarieven  |
 |:---|:---|:---|:---|
 | Banken en clearinginstellingen  |  *Minimum omvang toetsingsvermogen (MTV):*   | --- | --- |
-| --- | Minimum omvang toetsingsvermogen berekend conform de regels die op grond van [artikel 3:57 van de Wet op het financieel toezicht](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) worden bepaald  |  *Personen waaraan een vergunning is verleend als bedoeld in de artikelen 2:4, 2:11, 2:20, 3:4, eerste lid, of 3:110, eerste lid, van de Wet op het financieel toezicht:*   | € 35.000 vermeerderd met:  |
+| --- | Minimum omvang toetsingsvermogen berekend conform de regels die op grond van artikel 3:57 van de Wet op het financieel toezicht worden bepaald  |  *Personen waaraan een vergunning is verleend als bedoeld in de artikelen 2:4, 2:11, 2:20, 3:4, eerste lid, of 3:110, eerste lid, van de Wet op het financieel toezicht:*   | € 35.000 vermeerderd met:  |
 | --- | --- | >€ 0 tot en met € 80 miljoen MTV  | € 4.141 per € miljoen MTV  |
 | --- | --- | --- | in voorkomend geval vermeerderd met:  |
 | --- | --- | >€ 80 miljoen tot en met € 400 miljoen MTV  | € 1.784 per € miljoen MTV  |
@@ -179,18 +179,18 @@ Voor het kalenderjaar 2013 worden de bandbreedtes en de tarieven, bedoeld in [ar
 | --- | --- | --- | in voorkomend geval vermeerderd met:  |
 | --- | --- | >€ 15 miljard BT  | € 0,08 per € miljoen BT  |
 | Beleggingsondernemingen niet voor eigen rekening  |  *Vergunningtypen in combinatie met effectenrekeningen*:  | --- | € 4.000 in voorkomend geval vermeerderd met:  |
-| --- | a. vergunningtypen voor het verlenen van beleggingsdiensten als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  b. het aantal effectenrekeningen (ER) bij of in beheer bij de desbetreffende instelling  |  *Vergunningtypen:*   | --- |
-| --- | Vergunning voor het ontvangen en doorgeven van orders als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  | n.v.t.  |
+| --- | a. vergunningtypen voor het verlenen van beleggingsdiensten als bedoeld in artikel 1:1 van de Wet op het financieel toezicht;  b. het aantal effectenrekeningen (ER) bij of in beheer bij de desbetreffende instelling  |  *Vergunningtypen:*   | --- |
+| --- | Vergunning voor het ontvangen en doorgeven van orders als bedoeld in artikel 1:1 van de Wet op het financieel toezicht  | n.v.t.  |
 | --- | --- | in voorkomend geval vermeerderd met:  |
-| --- | Vergunning voor het uitvoeren van orders voor rekening van cliënten als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  | € 5.000  |
+| --- | Vergunning voor het uitvoeren van orders voor rekening van cliënten als bedoeld in artikel 1:1 van de Wet op het financieel toezicht  | € 5.000  |
 | --- | --- | --- | in voorkomend geval vermeerderd met:  |
-| --- | --- | Vergunning vermogensbeheer als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  | € 5.000  |
+| --- | --- | Vergunning vermogensbeheer als bedoeld in artikel 1:1 van de Wet op het financieel toezicht  | € 5.000  |
 | --- | --- | --- | in voorkomend geval vermeerderd met:  |
-| --- | --- | Vergunning voor beleggingsadvies als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  | n.v.t.  |
+| --- | --- | Vergunning voor beleggingsadvies als bedoeld in artikel 1:1 van de Wet op het financieel toezicht  | n.v.t.  |
 | --- | --- | --- | in voorkomend geval vermeerderd met:  |
-| --- | --- | Vergunning voor het begeleiden of overnemen van emissies met plaatsingsgaranties als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  | € 8.000  |
+| --- | --- | Vergunning voor het begeleiden of overnemen van emissies met plaatsingsgaranties als bedoeld in artikel 1:1 van de Wet op het financieel toezicht  | € 8.000  |
 | --- | --- | --- | in voorkomend geval vermeerderd met:  |
-| --- | --- | Vergunning voor het begeleiden van emissies zonder plaatsingsgarantie als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  | € 4.000  |
+| --- | --- | Vergunning voor het begeleiden van emissies zonder plaatsingsgarantie als bedoeld in artikel 1:1 van de Wet op het financieel toezicht  | € 4.000  |
 | --- | --- |  *In combinatie met effectenrekeningen (ER):*   | In alle gevallen vermeerderd met:  |
 | --- | --- | >0 tot en met 100 ER  | € 17,00 per ER  |
 | --- | --- | --- | in voorkomend geval vermeerderd met:  |

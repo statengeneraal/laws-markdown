@@ -3,11 +3,11 @@
 ##Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 27 december 2010, nr. Z/VV-3038488, houdende regels voor de toepassing van het Besluit van 22 december 2010 houdende regels voor een zorgverzekering voor de bevolking van Bonaire, Sint Eustatius en Saba (Regeling aanspraken zorgverzekering BES)
 
 De Minister van Volksgezondheid, Welzijn en Sport,  
-Gelet op de [artikelen 6, tweede en derde lid](../../../../../../AMvB-BES/besluit/zorgverzekering/bes/BWBR0029404/README.md), [8, vierde tot en met zevende lid](../../../../../../AMvB-BES/besluit/zorgverzekering/bes/BWBR0029404/README.md), [10, zesde lid](../../../../../../AMvB-BES/besluit/zorgverzekering/bes/BWBR0029404/README.md) en [18 van het Besluit zorgverzekering BES](../../../../../../AMvB-BES/besluit/zorgverzekering/bes/BWBR0029404/README.md);
+Gelet op de artikelen 6, tweede en derde lid, 8, vierde tot en met zevende lid, 10, zesde lid en 18 van het Besluit zorgverzekering BES;
 Besluit:     
 ### Hoofdstuk  1  
 
-####Aanspraken als bedoeld in [artikel 6, tweede en derde lid, van het Besluit zorgverzekering BES](../../../../../../AMvB-BES/besluit/zorgverzekering/bes/BWBR0029404/README.md)
+####Aanspraken als bedoeld in artikel 6, tweede en derde lid, van het Besluit zorgverzekering BES
 
 ### §  1  
 
@@ -31,25 +31,25 @@ f.  *verloskundige:* een persoon die bevoegd is tot het verlenen van verloskundi
 
 g.  *psycholoog:* een persoon die bevoegd tot het verlenen van psychologische zorg;  
 
-h.  *het besluit:* het [Besluit zorgverzekering BES](../../../../../../AMvB-BES/besluit/zorgverzekering/bes/BWBR0029404/README.md);  
+h.  *het besluit:* het Besluit zorgverzekering BES;  
 
-i.  *BES-eilanden:* de eilanden bedoeld in [artikel 1, onderdeel k, van het besluit](../../../../../../AMvB-BES/besluit/zorgverzekering/bes/BWBR0029404/README.md);  
+i.  *BES-eilanden:* de eilanden bedoeld in artikel 1, onderdeel k, van het besluit;  
 
-j.  *Zorgverzekeringskantoor BES:* Zorgverzekeringskantoor BES bedoeld in [artikel 1, onderdeel c, van het besluit](../../../../../../AMvB-BES/besluit/zorgverzekering/bes/BWBR0029404/README.md);  
+j.  *Zorgverzekeringskantoor BES:* Zorgverzekeringskantoor BES bedoeld in artikel 1, onderdeel c, van het besluit;  
 
-k.  *geneesmiddel:* geneesmiddel als bedoeld in [artikel 1, onderdeel d, van de Wet op de geneesmiddelenvoorziening BES](../../../../../../wet-BES/wet/op/de/geneesmiddelenvoorziening/bes/BWBR0028486/README.md);  
+k.  *geneesmiddel:* geneesmiddel als bedoeld in artikel 1, onderdeel d, van de Wet op de geneesmiddelenvoorziening BES;  
 
-l.  *eigen bijdrage:* een bijdrage in de kosten bedoeld in [artikel 6, vierde lid, van het besluit](../../../../../../AMvB-BES/besluit/zorgverzekering/bes/BWBR0029404/README.md);  
+l.  *eigen bijdrage:* een bijdrage in de kosten bedoeld in artikel 6, vierde lid, van het besluit;  
 
 m.  *ter hand stellen:* het rechtstreeks verstrekken of doen bezorgen van een geneesmiddel aan de patiënt voor wie het geneesmiddel is bestemd.   
 
 ### Artikel  1.1.2  
 
-De inhoud en omvang van de zorg of diensten, omschreven in de artikelen 1.2.1.tot en met 1.13.4 wordt bepaald door het totaal aan zorg dat de zorgverlenende personen en instellingen kunnen bieden, hetgeen nader wordt omschreven in de overeenkomsten bedoeld in [artikel 8 van het besluit](../../../../../../AMvB-BES/besluit/zorgverzekering/bes/BWBR0029404/README.md) en wordt mede bepaald door de stand van de wetenschap en praktijk en, bij het ontbreken van een zodanige maatstaf, door hetgeen in het betrokken vakgebied geldt als verantwoorde en adequate zorg en diensten. 
+De inhoud en omvang van de zorg of diensten, omschreven in de artikelen 1.2.1.tot en met 1.13.4 wordt bepaald door het totaal aan zorg dat de zorgverlenende personen en instellingen kunnen bieden, hetgeen nader wordt omschreven in de overeenkomsten bedoeld in artikel 8 van het besluit en wordt mede bepaald door de stand van de wetenschap en praktijk en, bij het ontbreken van een zodanige maatstaf, door hetgeen in het betrokken vakgebied geldt als verantwoorde en adequate zorg en diensten. 
 
 ### Artikel  1.1.3  
 
-Indien op grond van deze regeling toestemming dient te worden verkregen van het Zorgverzekeringskantoor BES, behoeft deze niet te worden gevraagd indien het Zorgverzekeringskantoor BES en de desbetreffende zorgaanbieder voor de noodzakelijke zorgverlening handelingsprotocollen zijn overeengekomen en de zorg, of, in voorkomend geval, de zorg waarvoor de verzekerde door de behandelend zorgaanbieder naar een andere zorgaanbieder wordt verwezen, wordt verleend door een zorgaanbieder met wie of waarmee het Zorgverzekeringskantoor BES een overeenkomst heeft gesloten als bedoeld in [artikel 8 van het besluit](../../../../../../AMvB-BES/besluit/zorgverzekering/bes/BWBR0029404/README.md). 
+Indien op grond van deze regeling toestemming dient te worden verkregen van het Zorgverzekeringskantoor BES, behoeft deze niet te worden gevraagd indien het Zorgverzekeringskantoor BES en de desbetreffende zorgaanbieder voor de noodzakelijke zorgverlening handelingsprotocollen zijn overeengekomen en de zorg, of, in voorkomend geval, de zorg waarvoor de verzekerde door de behandelend zorgaanbieder naar een andere zorgaanbieder wordt verwezen, wordt verleend door een zorgaanbieder met wie of waarmee het Zorgverzekeringskantoor BES een overeenkomst heeft gesloten als bedoeld in artikel 8 van het besluit. 
 
 ### §  2  
 
@@ -84,7 +84,7 @@ b. alternatieve geneeswijzen.
 
 a. diagnostisch onderzoek, waaronder laboratoriumonderzoek, radiologisch-, functie- en pathologisch-anatomisch onderzoek;  
 
-b. zwangerschapsafbrekingen in de zin van de [Wet afbreking zwangerschap](../../../../../../wet/wet/afbreking/zwangerschap/BWBR0003396/README.md), te verlenen door een instelling die daarvoor een vergunning heeft op grond van die wet.    
+b. zwangerschapsafbrekingen in de zin van de Wet afbreking zwangerschap, te verlenen door een instelling die daarvoor een vergunning heeft op grond van die wet.    
 3. De zorg, bedoeld in het eerste lid omvat niet: 
 
 a. de tweede of volgende in-vitrofertilisatiepoging;  
@@ -999,7 +999,7 @@ a. persoonlijke verzorging, verpleging of begeleiding door een door het Zorgkant
 
 b. opname en verder verblijf in een verzorgingshuis, verpleeghuis of instelling voor gehandicapten in verband met een somatische of psychogeriatrische aandoening of beperking of een verstandelijke, lichamelijke of zintuiglijke handicap indien de verzekerde is aangewezen op een beschermende woonomgeving, therapeutisch leefklimaat dan wel permanent toezicht.     
 2.  De echtgenoot van een persoon met een somatische of psychogeriatrische aandoening of beperking die op grond van een besluit van de Indicatiecommissie bedoeld in artikel 1.12.3, dan wel, zolang deze niet is ingesteld, die met toestemming van het Zorgverzekeringskantoor BES in een instelling verblijft, heeft aanspraak op verblijf in dezelfde instelling. Hij behoudt aanspraak op verblijf in die instelling na het overlijden van zijn echtgenoot danwel na het vertrek van zijn echtgenoot naar een andere instelling.   
-3.  De verzekerde, die een pensioen ontvangt ingevolge de [Wet algemene ouderdomsverzekering BES](../../../../../../wet-BES/wet/algemene/ouderdomsverzekering/bes/BWBR0028459/README.md) is voor het verblijf, bedoeld in het eerste lid, onderdeel b, een aan de instelling te betalen eigen bijdrage verschuldigd gelijk aan dat pensioen.   
+3.  De verzekerde, die een pensioen ontvangt ingevolge de Wet algemene ouderdomsverzekering BES is voor het verblijf, bedoeld in het eerste lid, onderdeel b, een aan de instelling te betalen eigen bijdrage verschuldigd gelijk aan dat pensioen.   
 4.  Geen eigen bijdrage is verschuldigd indien de achterblijvende partner, kinderen of overige gezinsleden van de verzekerde van diens pensioen afhankelijk zijn voor de voorziening in de kosten van levensonderhoud.   
 5.  Aanspraak op langdurige zorg bestaat, behoudens indien sprake is van een spoedgeval, in beginsel slechts na toestemming van het Hoofd Zorgverzekeringskantoor BES.  
 
@@ -1030,6 +1030,17 @@ d. het individueel gebruik van een rolstoel indien dat gebruik is aangewezen in 
 2.  In afwijking van het eerste lid bestaat aanspraak op meer uren, indien het niet verlenen van meer uren voor de verzekerde zal leiden tot een onbillijkheid van overwegende aard.   
 3.  Aanspraak op zorg door een doventolk bestaat slechts indien op het wooneiland van de verzekerde een doventolk werkzaam is en de zorg minimaal 30 minuten duurt.  
 
+### §  12a  
+
+####Neonatale hielprik
+
+### Artikel  1.12a.1  
+
+1.  Een neonatale hielprik omvat onderzoek naar het voorkomen van Adrenogenitaal syndroom, Biotinidase deficiëntie, Congenitale hypothyreoïdie, Galactosemie, Cystic Fibrosis, Glutaar acidurie type I, HMG-CoA-lyase deficiëntie, Holocarboxylase synthase deficiëntie, Homocystinurie, Isovaleriaan acidemie, Long-chain hydroxyacyl-CoA dehydrogenase deficiëntie, Maple syrup urine disease, Medium-chain acylCoA dehydrogenase deficiëntie, 3-methylcrotonyl-CoAcarboxylase deficiëntie, Phenylketonurie, Sikkelcelziekte, Tyrosinemie type I en Very long-chain acylCoA dehydrogenase deficiëntie en wordt uitgevoerd door een laboratorium dat daar0-toe door het Rijksinstituut voor volksgezondheid en milieu is aangewezen.   
+2.  Aanspraak op het onderzoek, bedoeld in het eerste lid, bestaat voor de zuigeling die de leeftijd van twee maanden nog niet heeft bereikt, en in zeer bijzondere gevallen voor oudere zuigelingen.   
+3.  Het onderzoek, bedoeld in het eerste lid, vindt in de regel plaats op de leeftijd van drie tot en met zeven dagen van betrokkene.   
+4.  Het laboratoriumonderzoek, bedoeld in het eerste lid, wordt uitgevoerd volgens de onderzoeksmethoden, vastgesteld door het Rijksinstituut voor volksgezondheid en milieu, dat tevens voor dit laboratoriumonderzoek wordt aangewezen als referentie-instituut.  
+
 ### §  13  
 
 ####Medische uitzendingen
@@ -1037,10 +1048,10 @@ d. het individueel gebruik van een rolstoel indien dat gebruik is aangewezen in 
 ### Artikel  1.13.1  
 
 1.  Onder medische uitzending wordt verstaan: uitzending voor medisch onderzoek of behandeling van een verzekerde van één van de BES-eilanden naar een medisch centrum of een medisch specialist daarbuiten, op verwijzing van een huisarts of medisch specialist.   
-2.  Zo mogelijk wordt verwezen naar zorgaanbieders met wie of waarmee het Zorgverzekeringskantoor BES een overeenkomst heeft gesloten als bedoeld in [artikel 8, tweede lid, van het besluit](../../../../../../AMvB-BES/besluit/zorgverzekering/bes/BWBR0029404/README.md).   
+2.  Zo mogelijk wordt verwezen naar zorgaanbieders met wie of waarmee het Zorgverzekeringskantoor BES een overeenkomst heeft gesloten als bedoeld in artikel 8, tweede lid, van het besluit.   
 3.  Behoudens acute noodsituaties, en behoudens indien zulks is voorzien bij protocol, dient voor medische uitzending zo mogelijk vooraf toestemming van het Zorgverzekeringskantoor BES te worden verkregen. In gevallen waarin zulks niet mogelijk is gebleken, wordt de rechtmatigheid en doelmatigheid van de medische uitzending achteraf door het Zorgverzekeringskantoor BES beoordeeld.   
-4.  Het derde lid is niet van toepassing indien de verzekerde wordt verwezen naar een zorgaanbieder met wie of waarmee een overeenkomst als bedoeld in [artikel 8, tweede lid, van het besluit](../../../../../../AMvB-BES/besluit/zorgverzekering/bes/BWBR0029404/README.md) is gesloten. In dat geval controleert het Zorgverzekeringskantoor achteraf de rechtmatigheid en doelmatigheid van de uitzending.   
-5.  In geval van een medische uitzending naar een zorgaanbieder met wie of waarmee het Zorgverzekeringskantoor BES geen overeenkomst als bedoeld in [artikel 8, tweede lid, van het besluit](../../../../../../AMvB-BES/besluit/zorgverzekering/bes/BWBR0029404/README.md) heeft gesloten, faciliteert het Zorgverzekeringskantoor BES de financiële afwikkeling daarvan door rechtstreekse betaling van de geconsulteerde zorgaanbieder. In dat geval worden de in rekening gebrachte kosten vergoed.   
+4.  Het derde lid is niet van toepassing indien de verzekerde wordt verwezen naar een zorgaanbieder met wie of waarmee een overeenkomst als bedoeld in artikel 8, tweede lid, van het besluit is gesloten. In dat geval controleert het Zorgverzekeringskantoor achteraf de rechtmatigheid en doelmatigheid van de uitzending.   
+5.  In geval van een medische uitzending naar een zorgaanbieder met wie of waarmee het Zorgverzekeringskantoor BES geen overeenkomst als bedoeld in artikel 8, tweede lid, van het besluit heeft gesloten, faciliteert het Zorgverzekeringskantoor BES de financiële afwikkeling daarvan door rechtstreekse betaling van de geconsulteerde zorgaanbieder. In dat geval worden de in rekening gebrachte kosten vergoed.   
 6.  Bij een medische uitzending is de verzekerde verantwoordelijk voor het maken van reis- en eventuele verblijfarrangementen bij de verzekerde, tenzij het Zorgverzekeringskantoor BES anders heeft bepaald.  
 
 ### Artikel  1.13.2  
@@ -1097,13 +1108,13 @@ e. verblijfskosten ten behoeve van verblijf bij familie.
 
 ### Artikel  1.14.1  
 
-1.  Bij verblijf buiten het grondgebied van een van de BES-eilanden anders dan in geval van medische uitzending als bedoeld in artikel 1.13.1 en 1.13.2, bestaat, indien zorg wordt ingeroepen in afwijking van het bepaalde in [artikel 8, tweede lid van het besluit](../../../../../../AMvB-BES/besluit/zorgverzekering/bes/BWBR0029404/README.md), aanspraak op een vergoeding wegens kosten van geneeskundige verzorging, bedoeld in [artikel 6, eerste lid, van het besluit](../../../../../../AMvB-BES/besluit/zorgverzekering/bes/BWBR0029404/README.md), indien deze zorg redelijkerwijze niet kon worden uitgesteld tot de terugkomst op dat grondgebied.   
+1.  Bij verblijf buiten het grondgebied van een van de BES-eilanden anders dan in geval van medische uitzending als bedoeld in artikel 1.13.1 en 1.13.2, bestaat, indien zorg wordt ingeroepen in afwijking van het bepaalde in artikel 8, tweede lid van het besluit, aanspraak op een vergoeding wegens kosten van geneeskundige verzorging, bedoeld in artikel 6, eerste lid, van het besluit, indien deze zorg redelijkerwijze niet kon worden uitgesteld tot de terugkomst op dat grondgebied.   
 2.  De in het eerste lid bedoelde vergoeding bedraagt ten hoogste het bedrag van de in rekening gebrachte kosten, maar niet meer dan het op het grondgebied van het BES-eiland waar de verzekerde woont voor de desbetreffende zorg gebruikelijke tarief, of, bij gebreke van een dergelijk tarief, van het tarief dat daarvoor op het grondgebied van het land van behandeling pleegt te worden vergoed aan of ten behoeve van de verzekerden van dat land. Indien ook een dergelijk tarief niet kan worden vastgesteld bedraagt de vergoeding ten hoogste het tarief dat op het grondgebied van Nederland in Europa voor de desbetreffende zorg in rekening pleegt te worden gebracht.   
 3.  Indien in deze regeling is bepaald dat de verzekerde voor de verleende zorg een bijdrage in de kosten is verschuldigd, wordt deze bijdrage in mindering gebracht op de in het eerste en tweede lid bedoelde vergoeding.  
 
 ### Hoofdstuk  2  
 
-####Nadere regels betreffende inhoud en prijs van de overeenkomsten, alsmede vergoeding van kosten van zorg, bedoeld in [artikel 8, vierde tot en met zevende lid](../../../../../../AMvB-BES/besluit/zorgverzekering/bes/BWBR0029404/README.md), en [artikel 10, zesde lid, van het Besluit zorgverzekering BES](../../../../../../AMvB-BES/besluit/zorgverzekering/bes/BWBR0029404/README.md)
+####Nadere regels betreffende inhoud en prijs van de overeenkomsten, alsmede vergoeding van kosten van zorg, bedoeld in artikel 8, vierde tot en met zevende lid, en artikel 10, zesde lid, van het Besluit zorgverzekering BES
 
 ### Artikel  2.1  
 
@@ -1113,29 +1124,29 @@ e. verblijfskosten ten behoeve van verblijf bij familie.
 
 ### Artikel  2.2  
 
-1.  Indien een verzekerde ingevolge [artikel 10, vierde lid, van het besluit](../../../../../../AMvB-BES/besluit/zorgverzekering/bes/BWBR0029404/README.md) toestemming heeft gekregen om zich voor zijn aanspraak op een verstrekking te wenden tot een zorgaanbieder binnen het grondgebied van de BES-eilanden met wie voor de verlening van zorg geen overeenkomst is gesloten, is de vergoeding gelijk aan de in rekening gebrachte kosten, doch bedraagt niet meer dan het op het grondgebied van het BES-eiland waar de verzekerde woont voor de desbetreffende zorg gebruikelijke tarief, of, bij gebreke van een dergelijk tarief, van het tarief dat daarvoor op het grondgebied van de BES-eilanden door het Zorgverzekeringskantoor BES pleegt te worden vergoed. Indien ook een dergelijk tarief niet kan worden vastgesteld bedraagt de vergoeding ten hoogste het tarief dat in de Nederlandse marktomstandigheden in redelijkheid passend is te achten.   
-2.  De kosten van het met het verlenen van die zorg samenhangende noodzakelijke vervoer, bedoeld in [artikel 6, eerste lid, onderdeel j., van het besluit](../../../../../../AMvB-BES/besluit/zorgverzekering/bes/BWBR0029404/README.md) en artikel 1.10.1 van deze regeling, worden vergoed.   
+1.  Indien een verzekerde ingevolge artikel 10, vierde lid, van het besluit toestemming heeft gekregen om zich voor zijn aanspraak op een verstrekking te wenden tot een zorgaanbieder binnen het grondgebied van de BES-eilanden met wie voor de verlening van zorg geen overeenkomst is gesloten, is de vergoeding gelijk aan de in rekening gebrachte kosten, doch bedraagt niet meer dan het op het grondgebied van het BES-eiland waar de verzekerde woont voor de desbetreffende zorg gebruikelijke tarief, of, bij gebreke van een dergelijk tarief, van het tarief dat daarvoor op het grondgebied van de BES-eilanden door het Zorgverzekeringskantoor BES pleegt te worden vergoed. Indien ook een dergelijk tarief niet kan worden vastgesteld bedraagt de vergoeding ten hoogste het tarief dat in de Nederlandse marktomstandigheden in redelijkheid passend is te achten.   
+2.  De kosten van het met het verlenen van die zorg samenhangende noodzakelijke vervoer, bedoeld in artikel 6, eerste lid, onderdeel j., van het besluit en artikel 1.10.1 van deze regeling, worden vergoed.   
 3.  Indien in deze regeling is bepaald dat de verzekerde voor de verleende zorg een bijdrage in de kosten is verschuldigd, wordt deze bijdrage in mindering gebracht op de in het eerste en tweede lid bedoelde vergoeding.  
 
 ### Artikel  2.3  
 
-1.  Onverminderd het bepaalde in de artikelen 1.13.1 en 1.13.2 van deze regeling wordt aan een verzekerde een vergoeding verstrekt voor kosten van zorg als omschreven in deze regeling, die buiten het grondgebied van de BES-eilanden is verleend en anders dan op de in [artikel 10, tweede lid, van het besluit](../../../../../../AMvB-BES/besluit/zorgverzekering/bes/BWBR0029404/README.md) omschreven wijze is verkregen als gevolg van de navolgende omstandigheden: 
+1.  Onverminderd het bepaalde in de artikelen 1.13.1 en 1.13.2 van deze regeling wordt aan een verzekerde een vergoeding verstrekt voor kosten van zorg als omschreven in deze regeling, die buiten het grondgebied van de BES-eilanden is verleend en anders dan op de in artikel 10, tweede lid, van het besluit omschreven wijze is verkregen als gevolg van de navolgende omstandigheden: 
 
-a. indien door het Zorgverzekeringskantoor BES, dan wel de indicatiecommissie, bedoeld in artikel 1.12.3 van deze regeling is vastgesteld dat betrokkene is aangewezen op de zorg, bedoeld in [artikel 6, onderdeel k, van het besluit](../../../../../../AMvB-BES/besluit/zorgverzekering/bes/BWBR0029404/README.md) en betrokkene anders dan met het oogmerk om zorg te verkrijgen buiten het grondgebied van de BES-eilanden verblijft, gedurende ten hoogste dertien weken per kalenderjaar;  
+a. indien door het Zorgverzekeringskantoor BES, dan wel de indicatiecommissie, bedoeld in artikel 1.12.3 van deze regeling is vastgesteld dat betrokkene is aangewezen op de zorg, bedoeld in artikel 6, onderdeel k, van het besluit en betrokkene anders dan met het oogmerk om zorg te verkrijgen buiten het grondgebied van de BES-eilanden verblijft, gedurende ten hoogste dertien weken per kalenderjaar;  
 
 b. indien zorg wegens onvoorziene omstandigheden noodzakelijk wordt en gelet op de gezondheidstoestand van betrokkene en het te verwachten verloop daarvan, niet kan worden uitgesteld tot de verzekerde is teruggekeerd op het grondgebied van het BES-eiland waar hij woont, gedurende een periode van ten hoogste dertien weken. Deze termijn kan door het Zorgverzekeringskantoor BES worden verlengd indien de verzekerde om medische redenen niet naar het grondgebied van dat BES-eiland vervoerd kan worden;  
 
-c. wegens het volgen van een studie of uitoefening van bedrijf of beroep, al dan niet in dienstbetrekking zolang betrokkene blijft behoren tot de kring van verzekerden, bedoeld in [artikel 5 van het besluit](../../../../../../AMvB-BES/besluit/zorgverzekering/bes/BWBR0029404/README.md);  
+c. wegens het volgen van een studie of uitoefening van bedrijf of beroep, al dan niet in dienstbetrekking zolang betrokkene blijft behoren tot de kring van verzekerden, bedoeld in artikel 5 van het besluit;  
 
 d. indien betrokkene behoort tot het huishouden van de verzekerde bedoeld in onderdeel c.     
-2.  Het in het vorige lid in de onderdelen b, c en d bepaalde, ten aanzien van zorg bedoeld in [artikel 6, onderdeel k, van het besluit](../../../../../../AMvB-BES/besluit/zorgverzekering/bes/BWBR0029404/README.md), is slechts van toepassing indien door het Zorgverzekeringskantoor BES, dan wel de Indicatiecommissie, bedoeld in artikel 1.12.3 van deze regeling, gehoord de behandelend arts, is vastgesteld dat de verzekerde op de desbetreffende zorg is aangewezen en in welke omvang de verzekerde op de desbetreffende zorg is aangewezen.   
+2.  Het in het vorige lid in de onderdelen b, c en d bepaalde, ten aanzien van zorg bedoeld in artikel 6, onderdeel k, van het besluit, is slechts van toepassing indien door het Zorgverzekeringskantoor BES, dan wel de Indicatiecommissie, bedoeld in artikel 1.12.3 van deze regeling, gehoord de behandelend arts, is vastgesteld dat de verzekerde op de desbetreffende zorg is aangewezen en in welke omvang de verzekerde op de desbetreffende zorg is aangewezen.   
 3.  Behoudens in geval van toepassing van artikel 1.13.2 van deze regeling, is de vergoeding voor de in het eerste lid bedoelde zorg gelijk aan het bedrag dat aldaar voor de desbetreffende zorg in rekening pleegt te worden gebracht. Indien de zorg bestaat uit zorg, waarvoor geen zodanig tarief geldt of waarvoor geen tarief bestaat dat daarvoor in rekening pleegt te worden gebracht, bedraagt de vergoeding niet meer dan het bedrag dat in de Nederlandse marktomstandigheden in redelijkheid passend is te achten.   
-4.  Indien zorg wordt verleend in het geval, bedoeld in het eerste lid, onderdelen b tot en met d, wordt het met het verlenen van die zorg samenhangende noodzakelijke vervoer, bedoeld in [artikel 6, eerste lid, onderdeel j, van het besluit](../../../../../../AMvB-BES/besluit/zorgverzekering/bes/BWBR0029404/README.md) en artikel 1.10.1 van deze regeling, vergoed.   
+4.  Indien zorg wordt verleend in het geval, bedoeld in het eerste lid, onderdelen b tot en met d, wordt het met het verlenen van die zorg samenhangende noodzakelijke vervoer, bedoeld in artikel 6, eerste lid, onderdeel j, van het besluit en artikel 1.10.1 van deze regeling, vergoed.   
 5.  Indien in deze regeling is bepaald dat de verzekerde voor de verleende zorg een bijdrage in de kosten is verschuldigd, wordt deze bijdrage in mindering gebracht op de vergoeding.  
 
 ### Hoofdstuk  3  
 
-####Toepassing [artikel 18 van het Besluit zorgverzekering BES](../../../../../../AMvB-BES/besluit/zorgverzekering/bes/BWBR0029404/README.md)
+####Toepassing artikel 18 van het Besluit zorgverzekering BES
 
 ### Artikel  3.1  
 
@@ -1157,40 +1168,12 @@ Zolang niet anders wordt bepaald, bestaat aanspraak op brillen en contactlenzen 
 
 ### Artikel  4.2a  
 
-1.  In aanvulling op artikel 1.4.2, eerste lid, heeft de verzekerde tot en met 31 december 2014 aanspraak op behandelingen fysiotherapie en oefentherapie, indien het Zorgverzekeringskantoor BES daartoe toestemming heeft verleend en de verzekerde lijdt aan: 
-
-a. een van de volgende aandoeningen van het bewegingsapparaat: 
-
-1°. wervelfractuur als gevolg van osteoporose;  
-
-2°. reumatoïde artritis of chronische reuma;  
-
-3°. chronische artritiden;  
-
-4°. spondylitis ankylopoetica (morbus Bechterew);  
-
-5°. reactieve artritis;  
-
-6°. juveniele chronische artritis, of    
-
-b. een van de volgende hartaandoeningen: 
-
-1°. myocard-infarct (AMI);  
-
-2°. status na coronary artery bypass-operatie (CABG);  
-
-3°. status na percutane transluminale coronair angioplastiek (PTCA);  
-
-4°. status na hartklepoperatie;  
-
-5°. status na operatief gecorrigeerde congenitale afwijkingen.       
-2.  Tot en met 31 december 2014 wordt artikel 1.4.2, tweede lid, buiten toepassing gelaten.   
-3.  Tot en met 31 december 2014 bestaat aanspraak op negen behandelingen in andere gevallen dan de gevallen genoemd in het eerste lid van artikel 1.4.2.  
+Artikel 1.4.2, tweede lid, is niet van toepassing indien de eerste behandeling fysiotherapie en oefentherapie, bedoeld in artikel 1.4.2, eerste lid, in het kader van de desbetreffende indicatie is verleend voor 1 januari 2015. 
 
 ### Artikel  4.3  
 
-1.  Deze regeling treedt in werking met ingang van de dag waarop het [Besluit zorgverzekering BES](../../../../../../AMvB-BES/besluit/zorgverzekering/bes/BWBR0029404/README.md) in werking treedt.   
-2.  Indien het [Besluit zorgverzekering BES](../../../../../../AMvB-BES/besluit/zorgverzekering/bes/BWBR0029404/README.md) na 1 januari 2011 in werking treedt, werkt deze regeling terug tot en met 1 januari 2011.  
+1.  Deze regeling treedt in werking met ingang van de dag waarop het Besluit zorgverzekering BES in werking treedt.   
+2.  Indien het Besluit zorgverzekering BES na 1 januari 2011 in werking treedt, werkt deze regeling terug tot en met 1 januari 2011.  
 
 ### Artikel  4.4  
 

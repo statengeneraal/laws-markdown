@@ -3,7 +3,7 @@
 ##Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 24 maart 2010, nr. DL/FCA/197112, houdende regels voor het verstrekken van subsidie aan scholen in het primair onderwijs en voortgezet onderwijs ten behoeve van het implementeren van innovatieve maatregelen in de schoolorganisatie gericht op verhoging van de arbeidsproductiviteit en ten behoeve van het meten van de effecten van deze maatregelen op de arbeidsproductiviteit (Regeling InnovatieImpuls Onderwijs)
 
 De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,  
-Gelet op de [artikelen 2](../../../../../wet/wet/overige/ocw-subsidies/BWBR0009458/README.md) en [4 van de Wet overige OCW-subsidies](../../../../../wet/wet/overige/ocw-subsidies/BWBR0009458/README.md);
+Gelet op de artikelen 2 en 4 van de Wet overige OCW-subsidies;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -17,11 +17,11 @@ In deze regeling wordt verstaan onder:
 
 a.  *minister:* de Minister van Onderwijs, Cultuur en Wetenschap,  
 
-b.  *po:* het primair onderwijs als bedoeld in de [Wet op het primair onderwijs](../../../../../wet/wbo/BWBR0003420/README.md),  
+b.  *po:* het primair onderwijs als bedoeld in de Wet op het primair onderwijs,  
 
-c.  *vo:* het voortgezet onderwijs als bedoeld in de [Wet op het voortgezet onderwijs](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md),  
+c.  *vo:* het voortgezet onderwijs als bedoeld in de Wet op het voortgezet onderwijs,  
 
-d.  *school:* een uit ’s Rijks kas bekostigde basisschool of een speciale school voor basisonderwijs als bedoeld in [artikel 1 van de Wet op het primair onderwijs](../../../../../wet/wbo/BWBR0003420/README.md), dan wel een uit ’s Rijks kas bekostigde school als bedoeld in [artikel 1 van de Wet op het voortgezet onderwijs](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md),  
+d.  *school:* een uit ’s Rijks kas bekostigde basisschool of een speciale school voor basisonderwijs als bedoeld in artikel 1 van de Wet op het primair onderwijs, dan wel een uit ’s Rijks kas bekostigde school als bedoeld in artikel 1 van de Wet op het voortgezet onderwijs,  
 
 e.  *urgentieschool:* een basisschool of een speciale school voor basisonderwijs waarvan minimaal 30% van het onderwijsgevend personeel 55 jaar of ouder is (peildatum 1 oktober 2009), dan wel een school voor voortgezet onderwijs waarvan minimaal 30% van het onderwijsgevend personeel 55 jaar of ouder is (peildatum 1 oktober 2009),  
 
@@ -55,7 +55,9 @@ a. voor de ontwikkeling van een projectplan;
 
 b. voor de uitvoering van een projectplan zoals bedoeld in a;  
 
-c. voor deelname aan de effectmeting door scholen in de controlegroep.     
+c. voor deelname aan de effectmeting door scholen in de controlegroep;  
+
+d. voor deelname aan de effectmeting in 2015 door scholen in de experimentgroep en in de controlegroep.    
 2.  De subsidies als bedoeld in lid 1, a en b worden verleend voor de ontwikkeling en uitvoering van projectplannen: 
 
 a. die gebaseerd zijn op een gepubliceerd innovatieconcept;  
@@ -65,7 +67,7 @@ b. die gericht zijn op de implementatie van innovatieve maatregelen die leiden t
 c. die zo ingericht zijn dat de effecten van de innovatieve maatregelen op de arbeidsproductiviteit, de kwaliteit van het onderwijs en de werkdruk gemeten kunnen worden, en;  
 
 d. die kennis, ervaringen en inzichten opleveren die overdraagbaar zijn aan en toegepast kunnen worden door bevoegde gezagsorganen die niet van deze regeling gebruikmaken.     
-3.  De subsidie als bedoeld in lid 1, c, wordt verleend als tegemoetkoming in de kosten die voortvloeien uit deelname aan de effectmeting.  
+3.  De subsidie als bedoeld in het eerste lid onder c en d wordt verleend als tegemoetkoming in de kosten die voortvloeien uit deelname aan de effectmeting.  
 
 ### Artikel  3  
 
@@ -90,7 +92,7 @@ c. het bevoegd gezag zich akkoord heeft verklaard met deze toewijzing conform de
 
 ####Subsidieplafond
 
-1.  Voor subsidieverlening op grond van deze regeling is in totaal een bedrag van € 18 miljoen beschikbaar voor de jaren 2010–2014.   
+1.  Voor subsidieverlening op grond van deze regeling is in totaal een bedrag van € 18 miljoen beschikbaar voor de jaren 2010 tot en met 2015. In 2015 worden subsidies aan scholen in de experimentgroep en in de controlegroep enkel verstrekt voor deelname aan de effectmeting in 2015.   
 2.  Voor verlening van subsidie voor de ontwikkeling van een projectplan als bedoeld in artikel 2, lid 1, a, is een bedrag beschikbaar van € 1,8 mln.   
 3.  Voor verlening van subsidie voor de uitvoering van een projectplan als bedoeld in artikel 2, lid 1, b, is het in lid 1 genoemde totaalbedrag beschikbaar verminderd met het in lid 2 genoemde bedrag en het bedrag gemoeid met subsidie voor deelname aan de effectmeting als bedoeld in artikel 2, lid 1, c.  
 
@@ -308,8 +310,8 @@ De leden van de commissie werken mee aan het tot stand komen van een overeenkoms
 
 ####Vergoeding
 
-1.  De voorzitter en de andere leden van de commissie ontvangen een vaste vergoeding. De toepasselijke salarisschaal voor de voorzitter en de andere leden is schaal 18, nr. 10, van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md). De arbeidsduurfactor voor de voorzitter is 25 uur per maand en voor de overige leden 22,5 uur per maand. De vergoeding wordt aan het einde van de zittingstermijn van de commissie (inclusief eventuele verlenging) uitbetaald. Indien de werkzaamheden meer of minder dan het vastgestelde aantal uren bedraagt, wordt in overleg eventueel de vergoeding evenredig vastgesteld.   
-2.  De voorzitter en de andere leden van de commissie ontvangen een vergoeding van reis- en verblijfkosten op de voet van het [Reisbesluit binnenland](../../../../../AMvB/reisbesluit/binnenland/BWBR0005889/README.md) en het [Reisbesluit buitenland](../../../../../AMvB/reisbesluit/buitenland/BWBR0006842/README.md).  
+1.  De voorzitter en de andere leden van de commissie ontvangen een vaste vergoeding. De toepasselijke salarisschaal voor de voorzitter en de andere leden is schaal 18, nr. 10, van bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984. De arbeidsduurfactor voor de voorzitter is 25 uur per maand en voor de overige leden 22,5 uur per maand. De vergoeding wordt aan het einde van de zittingstermijn van de commissie (inclusief eventuele verlenging) uitbetaald. Indien de werkzaamheden meer of minder dan het vastgestelde aantal uren bedraagt, wordt in overleg eventueel de vergoeding evenredig vastgesteld.   
+2.  De voorzitter en de andere leden van de commissie ontvangen een vergoeding van reis- en verblijfkosten op de voet van het Reisbesluit binnenland en het Reisbesluit buitenland.  
 
 ### Hoofdstuk  4  
 
@@ -332,7 +334,7 @@ b. in de tweede plaats: een vergelijking van de geschiktheid van de overige proj
 
 c. in de derde plaats: de verhouding tussen het aantal projectplannen van urgentiescholen en het totaal aantal projectplannen.     
 3.  Indien er na toepassing van lid 2 nog sprake is van gelijke kwalitatieve geschiktheid van projectplannen, zal de minister het beschikbare bedrag in de volgorde van ontvangst van de aanvragen verdelen.   
-4.  Met het oog op het bepaalde in het eerste en derde lid, geldt als datum van ontvangst de dag waarop de aanvraag is aangevuld, wanneer de aanvrager krachtens [artikel 4:5 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) de gelegenheid heeft gehad de aanvraag aan te vullen.  
+4.  Met het oog op het bepaalde in het eerste en derde lid, geldt als datum van ontvangst de dag waarop de aanvraag is aangevuld, wanneer de aanvrager krachtens artikel 4:5 van de Algemene wet bestuursrecht de gelegenheid heeft gehad de aanvraag aan te vullen.  
 
 ### Artikel  20  
 
@@ -364,13 +366,13 @@ Aan de verlening van de subsidie als bedoeld in artikel 2, lid 1, b, kunnen aa
 
 ####Begrotingsvoorwaarde
 
-In geval van niet vervullen van de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), worden de op grond van deze regeling verleende subsidiebedragen voor de uitvoering van projectplannen als bedoeld in artikel 2, lid 1, b, verlaagd tot het bedrag van de subsidie dat na de vaststelling of goedkeuring van de Rijksbegroting ter beschikking staat, een en ander naar rato van het aantal subsidieaanvragers aan wie subsidie is verleend en van de hoogte van de verleende subsidiebedragen. 
+In geval van niet vervullen van de voorwaarde, bedoeld in artikel 4:34, eerste lid, van de Algemene wet bestuursrecht, worden de op grond van deze regeling verleende subsidiebedragen voor de uitvoering van projectplannen als bedoeld in artikel 2, lid 1, b, verlaagd tot het bedrag van de subsidie dat na de vaststelling of goedkeuring van de Rijksbegroting ter beschikking staat, een en ander naar rato van het aantal subsidieaanvragers aan wie subsidie is verleend en van de hoogte van de verleende subsidiebedragen. 
 
 ### Artikel  25  
 
 ####Weigeringsgronden
 
-1. Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan verlening van subsidie worden geweigerd indien de aanvrager op grond van een andere regeling van de (rijks)overheid reeds subsidie ontvangt voor het projectplan dat het bevoegd gezag indient in het kader van deze regeling. 
+1. Onverminderd artikel 4:35 van de Algemene wet bestuursrecht kan verlening van subsidie worden geweigerd indien de aanvrager op grond van een andere regeling van de (rijks)overheid reeds subsidie ontvangt voor het projectplan dat het bevoegd gezag indient in het kader van deze regeling. 
 2. De minister kan subsidieverlening weigeren als het aantal goedgekeurde projectplannen voor implementatie van een innovatieconcept onvoldoende is om een adequate effectmeting te kunnen uitvoeren of als hiertoe het aantal controlescholen onvoldoende is.
 
 ### Hoofdstuk  5  
@@ -420,8 +422,8 @@ In geval van niet vervullen van de voorwaarde, bedoeld in [artikel 4:34, eerste
 
 ####Verantwoording en controle
 
-1.  De verantwoording van de subsidies voor de ontwikkeling van het projectplan respectievelijk voor deelname aan de effectmeting als bedoeld in artikel 2, lid 1, a respectievelijk c, geschiedt in de jaarverslaggeving, bedoeld in de [Regeling jaarverslaggeving onderwijs](../../../../../ministeriele-regeling/regeling/jaarverslaggeving/onderwijs/BWBR0023132/README.md). De verklaring van de accountant bij de jaarrekening omvat tevens een oordeel over de rechtmatige besteding van de subsidies.   
-2.  De financiële verantwoording van de subsidie voor de uitvoering van een projectplan als bedoeld in artikel 2, lid 1, b, geschiedt in de jaarverslaggeving, bedoeld in de [Regeling jaarverslaggeving onderwijs](../../../../../ministeriele-regeling/regeling/jaarverslaggeving/onderwijs/BWBR0023132/README.md), met model G, behorend bij de richtlijn RJ660, alinea 212, zoals vastgesteld door de Raad voor de Jaarverslaggeving. De verwerking van niet-bestede middelen geschiedt in de jaarrekening van het laatste jaar van besteding. De verklaring van de accountant bij de jaarrekening omvat tevens een oordeel over de rechtmatige besteding van de subsidie.   
+1.  De verantwoording van de subsidies voor de ontwikkeling van het projectplan respectievelijk voor deelname aan de effectmeting als bedoeld in artikel 2, lid 1, a respectievelijk c, geschiedt in de jaarverslaggeving, bedoeld in de Regeling jaarverslaggeving onderwijs. De verklaring van de accountant bij de jaarrekening omvat tevens een oordeel over de rechtmatige besteding van de subsidies.   
+2.  De financiële verantwoording van de subsidie voor de uitvoering van een projectplan als bedoeld in artikel 2, lid 1, b, geschiedt in de jaarverslaggeving, bedoeld in de Regeling jaarverslaggeving onderwijs, met model G, behorend bij de richtlijn RJ660, alinea 212, zoals vastgesteld door de Raad voor de Jaarverslaggeving. De verwerking van niet-bestede middelen geschiedt in de jaarrekening van het laatste jaar van besteding. De verklaring van de accountant bij de jaarrekening omvat tevens een oordeel over de rechtmatige besteding van de subsidie.   
 3.  In aanvulling op de verantwoording van de subsidie in de jaarverslaggeving stelt de subsidieontvanger van een subsidie als bedoeld in artikel 2 lid 1, b een verslag van activiteiten op waaruit de besteding van de subsidie duidelijk blijkt. Het verslag bevat een overzicht van de werkzaamheden waarvoor subsidie is verstrekt en van de daarmee bereikte resultaten. Het verslag wordt uiterlijk binnen 3 maanden na afloop van de subsidieperiode ingediend bij DUO.   
 4.  De inrichting van het verslag zoals bedoeld in lid 3 komt overeen met de inrichting van het projectplan en bevat, voor zover van toepassing, een analyse van verschillen tussen voorgenomen activiteiten en beoogde resultaten, vermeld in het projectplan, en de feitelijke realisatie.   
 5.  Uiterlijk 1 jaar na ontvangst van het jaarverslag van het laatste jaar van besteding wordt de subsidie als bedoeld in lid 2 definitief door DUO vastgesteld.  
@@ -430,7 +432,7 @@ In geval van niet vervullen van de voorwaarde, bedoeld in [artikel 4:34, eerste
 
 ####Lagere vaststelling subsidie
 
-Onverminderd [artikel 4:46 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan de subsidie lager worden vastgesteld indien: 
+Onverminderd artikel 4:46 van de Algemene wet bestuursrecht kan de subsidie lager worden vastgesteld indien: 
 
 a. de aanvrager onjuiste, niet tijdige of voor de beoordeling van de verantwoording onvolledige gegevens heeft verstrekt;  
 
@@ -451,7 +453,40 @@ d. de ontvanger van de subsidie kennelijk in strijd met het doel van de subsidie
 1.  Indien er sprake is van subsidie voor de uitvoering van een projectplan als bedoeld in artikel 2, lid 1, b, wordt het subsidiebedrag betaalbaar gesteld conform het in de goedgekeurde projectbegroting opgenomen bestedingspatroon. De betalingen vinden jaarlijks plaats in januari, te beginnen in 2011.   
 2.  Indien er sprake is van subsidie voor de ontwikkeling van een projectplan als bedoeld in artikel 2, lid 1, a, wordt het subsidiebedrag uiterlijk in december 2010 betaalbaar gesteld.   
 3.  Indien er sprake is van subsidie voor deelname aan de effectmeting als bedoeld in artikel 2, lid 1, c, wordt per kalenderjaar 25% van het subsidiebedrag betaalbaar gesteld. De betalingen vinden jaarlijks plaats in januari, te beginnen in 2011.   
-4.  Het betaalbaar stellen van de subsidies als bedoeld in artikel 2, lid 1, geschiedt door de DUO.  
+4.  Het betaalbaar stellen van de subsidies als bedoeld in artikel 2, lid 1, geschiedt door de DUO.   
+5.  Het betaalbaar stellen van de subsidies als bedoeld in artikel 2, eerste lid, onder d, geschiedt nadat de school tijdig de gevraagde gegevens heeft geleverd, op basis van de aanwijzingen die door de onderzoeker aan de betreffende school zijn verstrekt. 
+
+### Hoofdstuk  7a  
+
+####Effectmeting 2015
+
+### Artikel  32a  
+
+####Toepasselijk recht
+
+1.  De hoofdstukken 5 en 6 van deze regeling zijn op dit hoofdstuk niet van toepassing.   
+2.  Hoofdstuk 3 van de Regeling OCW-Subsidies is op dit hoofdstuk van toepassing.  
+
+### Artikel  32b  
+
+####Subsidie effectmeting
+
+1.  Voor scholen die deel uitmaken van een experiment- of controlegroep en zich voor 1 februari 2015 aanmelden is voor deelname aan de effectmeting in 2015 een subsidie van € 2.500 per school beschikbaar.   
+2.  Deze subsidie wordt beschikbaar gesteld nadat de school tijdig aan alle onderzoeksverplichtingen heeft voldaan, conform de aanwijzingen die door de onderzoeker aan de school worden gegeven.   
+3.  De school doet de in het eerste lid bedoelde aanmelding en levert de onderzoeksgegevens aan bij de onderzoeker die de effectmeting uitvoert.   
+4.  Zodra alle gegevens geleverd zijn, meldt de onderzoeker dit aan DUO volgens het door DUO vastgestelde format, waarna de subsidie uiterlijk december 2015 wordt betaald.  
+
+### Artikel  32c  
+
+####Experiment- en controlegroepen
+
+In aanvulling op het bepaalde in het eerste lid van artikel 32b geldt dat een vo-school zowel aan de effectmeting van de experiment- als van de controlegroep meewerkt. Daarom is voor vo-scholen voor beide inspanningen tezamen een subsidie van € 5.000 per school beschikbaar. 
+
+### Artikel  32d  
+
+####Voorbehoud bij onvoldoende deelnemers
+
+De minister kan besluiten de subsidie niet te verstrekken als het aantal scholen onvoldoende is om een adequate effectmeting te kunnen uitvoeren. 
 
 ### Hoofdstuk  8  
 
@@ -461,7 +496,7 @@ d. de ontvanger van de subsidie kennelijk in strijd met het doel van de subsidie
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en vervalt per 1 januari 2016. 
+Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en vervalt per 1 januari 2017. 
 
 ### Artikel  34  
 

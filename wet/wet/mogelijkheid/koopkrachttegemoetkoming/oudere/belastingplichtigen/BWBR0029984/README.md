@@ -48,7 +48,7 @@ De binnenlandse of buitenlandse belastingplichtige die de leeftijd heeft bereikt
 
 ####Ontstaan van het recht op de tegemoetkoming
 
-Het recht op de tegemoetkoming ontstaat van rechtswege op de eerste dag van de maand, waarin aan de voorwaarden, genoemd in artikel 3, eerste lid, is voldaan. 
+Het recht op de tegemoetkoming ontstaat van rechtswege op de eerste dag van de maand, waarin aan de voorwaarden, genoemd in artikel 3, is voldaan. 
 
 ### Artikel  5  
 
@@ -97,13 +97,11 @@ a. redelijkerwijs te voorzien is dat de betrokkene niet zal kunnen voortgaan met
 
 b. redelijkerwijs te voorzien is dat een schuldregeling met betrekking tot alle vorderingen van de overige schuldeisers zonder een zodanig besluit niet tot stand zal komen;  
 
-c. de vordering van de SVB wegens onverschuldigde betaling ten minste zal worden voldaan naar evenredigheid met de vorderingen van de schuldeisers van gelijke rang;  
+c. een naar het oordeel van de SVB betrouwbaar voorstel tot schuldregeling is tot stand gekomen door tussenkomst van een schuldhulpverlener als bedoeld in artikel 48 van de Wet op het consumentenkrediet;  
 
-d. een naar het oordeel van de SVB betrouwbaar voorstel tot schuldregeling is tot stand gekomen door tussenkomst van een schuldhulpverlener als bedoeld in artikel 48 van de Wet op het consumentenkrediet;  
+d. aannemelijk is dat medewerking aan een schuldregeling niet concurrentieverstorend werkt; en  
 
-e. aannemelijk is dat medewerking aan een schuldregeling niet concurrentieverstorend werkt; en  
-
-f. uitdeling in het kader van de schuldregeling plaatsvindt overeenkomstig artikel 349 van de Faillissementswet.     
+e. uitdeling in het kader van de schuldregeling plaatsvindt overeenkomstig artikel 349 van de Faillissementswet.     
 2.  Het besluit tot het afzien van terugvordering of van verdere terugvordering wordt ingetrokken of ten nadele van de betrokkene gewijzigd indien: 
 
 a. niet binnen twaalf maanden nadat dat besluit is bekendgemaakt, een schuldregeling tot stand is gekomen die voldoet aan de eisen, bedoeld in het eerste lid;  

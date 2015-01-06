@@ -4,25 +4,25 @@
 
 Gehoord de voorzitter,
 
-Gelet op [hoofdstuk 10 van de Algemene wet bestuursrecht](../../../../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);
+Gelet op hoofdstuk 10 van de Algemene wet bestuursrecht;
 
-Gelet op [hoofdstuk 1](../../../../../../../../../../../../../../pbo/verordening/pt/algemene/bepalingen/2006/BWBR0020002/README.md), [3](../../../../../../../../../../../../../../pbo/verordening/pt/algemene/bepalingen/2006/BWBR0020002/README.md) en [9 van de Verordening PT algemene bepalingen](../../../../../../../../../../../../../../pbo/verordening/pt/algemene/bepalingen/2006/BWBR0020002/README.md);
+Gelet op hoofdstuk 1, 3 en 9 van de Verordening PT algemene bepalingen;
 
-Gelet op de [artikelen 4](../../../../../../../../../../../../../../pbo/besluit/pt/verlening/mandaat/volmacht/en/machtiging/voorzitter/en/etc/BWBR0019834/README.md) en [5 van het Besluit PT verlening mandaat, volmacht en machtiging voorzitter en secretaris Productschap Tuinbouw](../../../../../../../../../../../../../../pbo/besluit/pt/verlening/mandaat/volmacht/en/machtiging/voorzitter/en/etc/BWBR0019834/README.md);
+Gelet op de artikelen 4 en 5 van het Besluit PT verlening mandaat, volmacht en machtiging voorzitter en secretaris Productschap Tuinbouw;
 
 Gelet op de brief van het Ministerie van Landbouw en Visserij inzake het aanwijzen van het Productschap Tuinbouw als certificerende instelling betreffende radio-activiteit;
 
-Gelet op de [Regeling medebewind Gemeenschappelijk Landbouwbeleid](../../../../../../../../../../../../../../ministeriele-regeling/regeling/medebewind/gemeenschappelijk/landbouwbeleid/BWBR0020360/README.md);
+Gelet op de Regeling medebewind Gemeenschappelijk Landbouwbeleid;
 
-Gelet op [artikel 62 van de Wet bescherming persoonsgegevens](../../../../../../../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md);
+Gelet op artikel 62 van de Wet bescherming persoonsgegevens;
 
-Gelet op [artikel 15 van de Wet tuchtrechtspraak bedrijfsorganisatie 2002](../../../../../../../../../../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md);
+Gelet op artikel 15 van de Wet tuchtrechtspraak bedrijfsorganisatie 2002;
 Besluit:    
 
 ### Artikel  1 
 Materieel uitgewerkt per 03-05-2009 
 
-1.  Aan de secretaris is voorbehouden het nemen van besluiten, inhoudende een afwijzing van een verzoek om informatie ingevolge de [Wet openbaarheid van bestuur](../../../../../../../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md).   
+1.  Aan de secretaris is voorbehouden het nemen van besluiten, inhoudende een afwijzing van een verzoek om informatie ingevolge de Wet openbaarheid van bestuur.   
 2.  Tevens is aan de secretaris voorbehouden het nemen van beslissingen op bezwaar die betrekking hebben op de in bijlage 1 genoemde werkzaamheden.  
 
 ### Artikel  2  

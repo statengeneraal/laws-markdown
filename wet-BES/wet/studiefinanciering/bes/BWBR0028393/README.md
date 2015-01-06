@@ -12,31 +12,31 @@
 
 1.  In deze wet en de daarop berustende bepalingen wordt verstaan onder:  *aanvraag:* schriftelijk verzoek tot het nemen van een besluit,  *afsluitend examen*: 
 
-a. het examen, bedoeld in [artikel 7.4.2 van de Wet educatie en beroepsonderwijs BES](../../../../../wet-BES/wet/educatie/en/beroepsonderwijs/bes/BWBR0028395/README.md),  
+a. het examen, bedoeld in artikel 7.4.2 van de Wet educatie en beroepsonderwijs BES,  
 
-b. het examen, bedoeld in [artikel 7.10a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), en  
+b. het examen, bedoeld in artikel 7.10a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek, en  
 
 c. het met onderdeel a of b vergelijkbare examen van een opleiding waarvoor criteria zijn vastgesteld bij ministeriële regeling,    *ander openbaar lichaam*: het openbaar lichaam waar de ouders van de studerende wonen of een van diens ouders woont, niet zijnde het openbaar lichaam waar de studerende een opleiding volgt,  *bacheloropleiding*: 
 
-a. opleiding als bedoeld in [artikel 7.3a, eerste lid, onderdeel a, of tweede lid, onderdeel a, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), die is geaccrediteerd als bedoeld in [artikel 1.1, onderdeel s, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), of die de toets nieuwe opleiding, bedoeld in artikel 1.1, onderdeel t, van die wet, met positief gevolg heeft ondergaan,  
+a. opleiding als bedoeld in artikel 7.3a, eerste lid, onderdeel a, of tweede lid, onderdeel a, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek, die is geaccrediteerd als bedoeld in artikel 1.1, onderdeel s, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek, of die de toets nieuwe opleiding, bedoeld in artikel 1.1, onderdeel t, van die wet, met positief gevolg heeft ondergaan,  
 
 b. opleiding die vergelijkbaar is met een opleiding als bedoeld in onderdeel a waarvoor criteria zijn vastgesteld bij ministeriële regeling,    *beroepsonderwijs*: 
 
-a. beroepsonderwijs in de zin van [artikel 7.2.6, derde lid, van de Wet educatie en beroepsonderwijs BES](../../../../../wet-BES/wet/educatie/en/beroepsonderwijs/bes/BWBR0028395/README.md), en  
+a. beroepsonderwijs in de zin van artikel 7.2.6, derde lid, van de Wet educatie en beroepsonderwijs BES, en  
 
 b. onderwijs waarvoor criteria zijn vastgesteld bij ministeriële regeling,    *beroepsopleiding:*  
 
-a. opleiding als bedoeld in [artikel 7.2.2, eerste lid, van de Wet educatie en beroepsonderwijs BES](../../../../../wet-BES/wet/educatie/en/beroepsonderwijs/bes/BWBR0028395/README.md), en  
+a. opleiding als bedoeld in artikel 7.2.2, eerste lid, van de Wet educatie en beroepsonderwijs BES, en  
 
 b. opleiding die vergelijkbaar is met een opleiding als bedoeld in onderdeel a, waarvoor criteria zijn vastgesteld bij ministeriële regeling,    *debiteur*: degene die zich krachtens artikel 4.2 heeft verplicht tot terugbetaling,  *deelnemer:* degene die beroepsonderwijs volgt,  *diplomatermijn beroepsonderwijs*: periode van tien jaren die aanvangt op de eerste dag van de maand waarover voor het eerst prestatiebeurs is toegekend voor het volgen van beroepsonderwijs,  *diplomatermijn hoger onderwijs:* periode van tien jaren die aanvangt op de eerste dag van de maand waarover voor het eerst prestatiebeurs is toegekend voor het volgen van hoger onderwijs,  *eigen openbaar lichaam*: het openbaar lichaam waar de ouders van de studerende wonen of een van diens ouders woont, tevens het openbaar lichaam waar de studerende een opleiding volgt,  *hoger onderwijs*: 
 
-a. wetenschappelijk onderwijs en hoger beroepsonderwijs in de zin van de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), en  
+a. wetenschappelijk onderwijs en hoger beroepsonderwijs in de zin van de Wet op het hoger onderwijs en wetenschappelijk onderzoek, en  
 
 b. wetenschappelijk onderwijs en hoger beroepsonderwijs waarvoor criteria zijn vastgesteld bij ministeriële regeling,    *lening*: rentedragende lening die niet kan worden omgezet in een gift,  *masteropleiding*: 
 
-a. opleiding als bedoeld in [artikel 7.3a, eerste lid, onderdeel b, of tweede lid, onderdeel b, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), die is geaccrediteerd als bedoeld in [artikel 1.1, onderdeel s, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), of die de toets nieuwe opleiding, bedoeld in artikel 1.1, onderdeel t, van die wet, met positief gevolg heeft ondergaan,  
+a. opleiding als bedoeld in artikel 7.3a, eerste lid, onderdeel b, of tweede lid, onderdeel b, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek, die is geaccrediteerd als bedoeld in artikel 1.1, onderdeel s, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek, of die de toets nieuwe opleiding, bedoeld in artikel 1.1, onderdeel t, van die wet, met positief gevolg heeft ondergaan,  
 
-b. opleiding die vergelijkbaar is met een opleiding als bedoeld in onderdeel a waarvoor criteria zijn vastgesteld bij ministeriële regeling,    *Onze Minister*: Onze Minister van Onderwijs, Cultuur en Wetenschap,  *openbaar lichaam*: openbaar lichaam Bonaire, Sint Eustatius of Saba,  *opleiding niveau 1 of 2: *assistentopleiding en basisberoepsopleiding als bedoeld in [artikel 7.2.2, eerste lid, onderdelen a en b, van de Wet educatie en beroepsonderwijs BES](../../../../../wet-BES/wet/educatie/en/beroepsonderwijs/bes/BWBR0028395/README.md),  *opleiding niveau 3 of 4: *vakopleiding, middenkaderopleiding en specialistenopleiding als bedoeld in [artikel 7.2.2, eerste lid, onderdelen c, d en e, van de Wet educatie en beroepsonderwijs BES](../../../../../wet-BES/wet/educatie/en/beroepsonderwijs/bes/BWBR0028395/README.md),  *opstarttoelage*: door Onze Minister toegekend eenmalig bedrag in verband met het volgen van beroepsonderwijs of hoger onderwijs in het Europese deel van Nederland,  *persoonsgebonden nummer BES*: door Onze Minister uitgegeven onderwijsnummer, toegekend aan een studerende of debiteur,  *prestatiebeurs*: rentedragende lening die onder voorwaarden kan worden omgezet in een gift, waarbij tevens de rente teniet gaat, niet zijnde de rentedragende lening die niet kan worden omgezet in een gift,  *student*: degene die hoger onderwijs volgt, niet zijnde een extraneus,  *studerende*: deelnemer of student,  *studiefinanciering BES*: door Onze Minister toegekende financiering in verband met het volgen van beroepsonderwijs of hoger onderwijs waarop uitsluitend op grond van deze wet aanspraak bestaat, niet zijnde een opstarttoelage,  *studiefinancieringstijdvak*: kalenderjaar of een gedeelte daarvan waarop de toekenning van studiefinanciering BES betrekking heeft, met dien verstande dat deze periode ten minste 1 kalendermaand is,  *studiejaar*: 
+b. opleiding die vergelijkbaar is met een opleiding als bedoeld in onderdeel a waarvoor criteria zijn vastgesteld bij ministeriële regeling,    *Onze Minister*: Onze Minister van Onderwijs, Cultuur en Wetenschap,  *openbaar lichaam*: openbaar lichaam Bonaire, Sint Eustatius of Saba,  *opleiding niveau 1 of 2: *assistentopleiding en basisberoepsopleiding als bedoeld in artikel 7.2.2, eerste lid, onderdelen a en b, van de Wet educatie en beroepsonderwijs BES,  *opleiding niveau 3 of 4: *vakopleiding, middenkaderopleiding en specialistenopleiding als bedoeld in artikel 7.2.2, eerste lid, onderdelen c, d en e, van de Wet educatie en beroepsonderwijs BES,  *opstarttoelage*: door Onze Minister toegekend eenmalig bedrag in verband met het volgen van beroepsonderwijs of hoger onderwijs in het Europese deel van Nederland,  *persoonsgebonden nummer BES*: door Onze Minister uitgegeven onderwijsnummer, toegekend aan een studerende of debiteur,  *prestatiebeurs*: rentedragende lening die onder voorwaarden kan worden omgezet in een gift, waarbij tevens de rente teniet gaat, niet zijnde de rentedragende lening die niet kan worden omgezet in een gift,  *student*: degene die hoger onderwijs volgt, niet zijnde een extraneus,  *studerende*: deelnemer of student,  *studiefinanciering BES*: door Onze Minister toegekende financiering in verband met het volgen van beroepsonderwijs of hoger onderwijs waarop uitsluitend op grond van deze wet aanspraak bestaat, niet zijnde een opstarttoelage,  *studiefinancieringstijdvak*: kalenderjaar of een gedeelte daarvan waarop de toekenning van studiefinanciering BES betrekking heeft, met dien verstande dat deze periode ten minste 1 kalendermaand is,  *studiejaar*: 
 
 1°. in het beroepsonderwijs: tijdvak dat aanvangt op 1 augustus van enig kalenderjaar en eindigt op 31 juli daaropvolgend,  
 
@@ -44,10 +44,10 @@ b. opleiding die vergelijkbaar is met een opleiding als bedoeld in onderdeel a w
 
 3°. voor opleidingen waarvoor criteria zijn vastgesteld bij ministeriële regeling: tijdvak zoals gehanteerd door de instellingen die deze opleidingen verzorgen,    *voltijdse opleiding*: 
 
-1°. opleiding in de zin van de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), met uitzondering van deeltijds onderwijs,  
+1°. opleiding in de zin van de Wet op het hoger onderwijs en wetenschappelijk onderzoek, met uitzondering van deeltijds onderwijs,  
 
-2°. opleiding die vergelijkbaar is met een opleiding als bedoeld onder 1° waarvoor criteria zijn vastgesteld bij ministeriële regeling,    *WSF 2000*: [Wet studiefinanciering 2000](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md).   
-2.  Onder voltijdse opleiding wordt mede verstaan een duale opleiding in de zin van de [Wet op het hoger onderwijs en het wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) of een daarmee vergelijkbare opleiding waarvoor criteria zijn vastgesteld bij ministeriële regeling.  
+2°. opleiding die vergelijkbaar is met een opleiding als bedoeld onder 1° waarvoor criteria zijn vastgesteld bij ministeriële regeling,    *WSF 2000*: Wet studiefinanciering 2000.   
+2.  Onder voltijdse opleiding wordt mede verstaan een duale opleiding in de zin van de Wet op het hoger onderwijs en het wetenschappelijk onderzoek of een daarmee vergelijkbare opleiding waarvoor criteria zijn vastgesteld bij ministeriële regeling.  
 
 ### Artikel  1.2  
 
@@ -81,7 +81,7 @@ b. woonplaats heeft in een openbaar lichaam en voorafgaand aan de eerste aanvraa
 
 ####Leeftijd
 
-1.  Voor de opstarttoelage kan in aanmerking komen degene die in aanmerking komt voor studiefinanciering op grond van de [WSF 2000](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md).   
+1.  Voor de opstarttoelage kan in aanmerking komen degene die in aanmerking komt voor studiefinanciering op grond van de WSF 2000.   
 2.  Voor studiefinanciering BES en de opstarttoelage kan een studerende in aanmerking komen tot en met de maand waarin hij de leeftijd van 30 jaren heeft bereikt.   
 3.  In afwijking van het tweede lid behoudt een studerende bij het bereiken van de leeftijd van 30 jaren zijn aanspraak zolang hij zonder onderbreking studiefinanciering BES geniet.  
 
@@ -89,7 +89,7 @@ b. woonplaats heeft in een openbaar lichaam en voorafgaand aan de eerste aanvraa
 
 ####Inspecteur der rijksbelastingen bepaalt inkomen of loon
 
-Op verzoek van Onze Minister bepaalt de inspecteur, bedoeld in [hoofdstuk II van de Wet inkomstenbelasting BES](../../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md), het belastbare inkomen, bedoeld in hoofdstuk 2 van die wet, of het zuiver voljaarloon, bedoeld in [hoofdstuk III van de Wet loonbelasting BES](../../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md), van de debiteur. 
+Op verzoek van Onze Minister bepaalt de inspecteur, bedoeld in hoofdstuk II van de Wet inkomstenbelasting BES, het belastbare inkomen, bedoeld in hoofdstuk 2 van die wet, of het zuiver voljaarloon, bedoeld in hoofdstuk III van de Wet loonbelasting BES, van de debiteur. 
 
 ### Artikel  1.7  
 
@@ -131,24 +131,24 @@ Een minderjarige is bekwaam de rechtshandelingen te verrichten die noodzakelijk 
 
 ####Overzicht bedragen
 
-1.   *Bedragen studiefinanciering BES:* 
+1.   Bedragen studiefinanciering BES: 
 
-| I. Onderwijstype  | II. Plaats opleiding  | III. Prestatiebeurs of  gift per maand  | IV. Lening tijdens  prestatiebeurs per  maand  | V. Lening na prestatiebeurs  per maand  |
+| I. Onderwijstype  | II. Plaats opleiding  | III. Prestatiebeurs of gift per maand  | IV. Lening tijdens prestatiebeurs per maand  | V. Lening na prestatiebeurs per maand  |
 |:---|:---|:---|:---|:---|
-| Beroepsonderwijs  | Eigen openbaar lichaam  | USD 71,91  | USD 143,82  | USD 215,73  |
-| --- | Ander openbaar lichaam, Aruba, Curaçao, Sint Maarten  | USD 233,70  | USD 467,40  | USD 701,10  |
-| --- | Overig deel Caribische regio  | USD 359,53  | USD 719,06  | USD 1.078,59  |
-| --- | Verenigde Staten van Amerika  | USD 493,20  | USD 986,40  | USD 1.479,60  |
-| Hoger onderwijs  | Eigen openbaar lichaam  | USD 134,82  | USD 269,64  | USD 404,46  |
-| --- | Ander openbaar lichaam, Aruba, Curaçao, Sint Maarten  | USD 269,64  | USD 539,28  | USD 808,92  |
-| --- | Overig deel Caribische regio  | USD 359,53  | USD 719,06  | USD 1.078,59  |
-| --- | Verenigde Staten van Amerika  | USD 493,20  | USD 986,40  | USD 1.479,60  |
+| Beroepsonderwijs  | Eigen openbaar lichaam  | USD 73,15  | USD 146,30  | USD 219,45  |
+| --- | Ander openbaar lichaam, Aruba, Curaçao, Sint Maarten  | USD 237,74  | USD 475,48  | USD 713,22  |
+| --- | Overig deel Caribische regio  | USD 365,75  | USD 731,50  | USD 1.097,25  |
+| --- | Verenigde Staten van Amerika  | USD 501,73  | USD 1.003,46  | USD 1.505,19  |
+| Hoger onderwijs  | Eigen openbaar lichaam  | USD 137,15  | USD 274,30  | USD 411,45  |
+| --- | Ander openbaar lichaam, Aruba, Curaçao, Sint Maarten  | USD 274,30  | USD 548,60  | USD 822,90  |
+| --- | Overig deel Caribische regio  | USD 365,75  | USD 731,50  | USD 1.097,25  |
+| --- | Verenigde Staten van Amerika  | USD 501,73  | USD 1.003,46  | USD 1.505,19  |
 
-2.   *Bedragen opstarttoelage BES:*
+2.   Bedragen opstarttoelage BES: 
 
 | I. Onderwijstype  | II. Plaats opleiding  | III. Prestatiebeurs  | IV. Lening  |
 |:---|:---|:---|:---|
-| Beroepsonderwijs opleiding niveau 3 of 4 en hoger onderwijs  | Europees deel van Nederland  | USD 2.481,87  | USD 4.963,74  |
+| Beroepsonderwijs opleiding niveau 3 of 4 en hoger onderwijs  | Europees deel van Nederland  | USD 2.524,81  | USD 5.049,62  |
 
 ### Paragraaf  2.3  
 
@@ -205,7 +205,7 @@ d. een bewijs van inschrijving aan een opleiding in het beroepsonderwijs of het 
 1.  Studiefinanciering BES wordt aan studerenden beroepsonderwijs opleiding niveau 3 of 4 en hoger onderwijs gedurende maximaal 4 jaren verstrekt in de vorm van een prestatiebeurs.   
 2.  Als onderdeel van de studiefinanciering BES aan deze studerenden kan tevens gedurende de periode, bedoeld in het eerste lid, een lening worden verstrekt. Het bedrag dat per maand kan worden geleend is opgenomen in kolom IV van het overzicht in artikel 2.2, eerste lid.   
 3.  Studiefinanciering BES aan deze studerenden wordt gedurende maximaal 36 maanden na de periode, bedoeld in het eerste lid, verstrekt in de vorm van een lening. Het bedrag dat per maand kan worden geleend is opgenomen in kolom V van het overzicht in artikel 2.2, eerste lid.   
-4.  De opstarttoelage aan studerenden in de zin van de [WSF 2000](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md) die een opleiding niveau 3 of 4 of hoger onderwis in het Europese deel van Nederland volgen, wordt eenmalig verstrekt in de vorm van een prestatiebeurs.   
+4.  De opstarttoelage aan studerenden in de zin van de WSF 2000 die een opleiding niveau 3 of 4 of hoger onderwis in het Europese deel van Nederland volgen, wordt eenmalig verstrekt in de vorm van een prestatiebeurs.   
 5.  Als onderdeel van de opstarttoelage kan een lening worden verstrekt. Het bedrag dat kan worden geleend is opgenomen in kolom IV van het overzicht in artikel 2.2, tweede lid.  
 
 ### Artikel  2.8  
@@ -235,7 +235,7 @@ d. een nieuwe aanspraak op studiefinanciering BES ontstaat.
 a. als deelnemer aan een instelling die een beroepsopleiding verzorgt, of  
 
 b. als student aan een instelling die een bacheloropleiding of masteropleiding verzorgt.     
-2.  Voor een opstarttoelage kan in aanmerking komen degene die aannemelijk kan maken dat hij een beroepsopleiding niveau 3 of 4 in de zin van de [Wet educatie en beroepsonderwijs](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), of hoger onderwijs in de zin van de [Wet op het hoger onderwijs en het wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) in het Europese deel van Nederland gaat volgen.  
+2.  Voor een opstarttoelage kan in aanmerking komen degene die aannemelijk kan maken dat hij een beroepsopleiding niveau 3 of 4 in de zin van de Wet educatie en beroepsonderwijs, of hoger onderwijs in de zin van de Wet op het hoger onderwijs en het wetenschappelijk onderzoek in het Europese deel van Nederland gaat volgen.  
 
 ### Artikel  2.10  
 
@@ -247,7 +247,7 @@ a. indien hij is ingeschreven aan een opleiding waarvan de duur, daaronder begre
 
 b. indien hij niet is ingeschreven voor een voltijdse opleiding in het beroepsonderwijs of het hoger onderwijs,  
 
-c. indien hij aanspraak heeft op studiefinanciering op grond van de [Wet studiefinanciering 2000](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md),  
+c. indien hij aanspraak heeft op studiefinanciering op grond van de Wet studiefinanciering 2000,  
 
 d. indien hij in het betreffende studiefinancieringstijdvak aanspraak maakt op een tegemoetkoming in de kosten van levensonderhoud, studie, overtocht en huisvesting die door de daarvoor verantwoordelijke autoriteit van een ander land wordt verstrekt.     
 2.  De aanspraak op de opstarttoelage vervalt indien de studerende niet binnen een termijn van 9 maanden na zijn aanvraag is ingeschreven voor het volgen van het onderwijs, bedoeld in artikel 2.9, tweede lid.   
@@ -303,7 +303,7 @@ Een student heeft geen aanspraak op studiefinanciering BES indien er 10 jaren ve
 1.  Indien een student binnen de diplomatermijn hoger onderwijs het afsluitend examen van een hbo-bacheloropleiding, of het geheel van een bacheloropleiding en een masteropleiding in geval van een opleiding in het wetenschappelijk onderwijs met goed gevolg heeft afgesloten, wordt de aan hem toegekende prestatiebeurs omgezet in een gift.   
 2.  Indien een student binnen de diplomatermijn hoger onderwijs het afsluitend examen van een opleiding in het hoger onderwijs met goed gevolg heeft afgesloten, wordt de resterende periode van zijn prestatiebeurs verstrekt in de vorm van een gift indien hij een andere opleiding in de zin van deze wet volgt.   
 3.  Onze Minister kan voor de toepassing van het eerste en tweede lid examens aanwijzen die worden gelijkgesteld met een afsluitend examen.   
-4.  Met een afsluitend examen wordt eveneens gelijkgesteld het examen van een bacheloropleiding in het wetenschappelijk onderwijs en het examen van een programma als bedoeld in [artikel 7.8a van de WHW](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), voor zover de student daartoe een aanvraag heeft ingediend.   
+4.  Met een afsluitend examen wordt eveneens gelijkgesteld het examen van een bacheloropleiding in het wetenschappelijk onderwijs en het examen van een programma als bedoeld in artikel 7.8a van de WHW, voor zover de student daartoe een aanvraag heeft ingediend.   
 5.  Omzetting vindt plaats per 1 januari volgend op het kalenderjaar waarin Onze Minister heeft vastgesteld dat een student heeft voldaan aan de voorwaarden, bedoeld in het eerste lid.  
 
 ### Artikel  3.3  
@@ -347,7 +347,7 @@ Indien noodzakelijk kunnen in afwijking van het in dit hoofdstuk bepaalde bij mi
 
 ####Definities en reikwijdte hoofdstuk 4
 
-1.  In dit hoofdstuk wordt verstaan onder:  *minimumloon*: het bij of krachtens de [Wet minimumlonen BES](../../../../../wet-BES/wet/minimumlonen/bes/BWBR0028170/README.md) geldende hoogst vastgestelde minimumloon dan wel bij gebreke daarvan het door Onze Minister vastgestelde bedrag,  *peiljaar*: het tweede jaar voorafgaand aan het jaar waarvoor de draagkracht in de zin van hoofdstuk 4 wordt vastgesteld,  *toetsingsinkomen*: de belastbare som, bedoeld in [artikel 24, eerste lid, van de Wet inkomstenbelasting BES](../../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md).   
+1.  In dit hoofdstuk wordt verstaan onder:  *minimumloon*: het bij of krachtens de Wet minimumlonen BES geldende hoogst vastgestelde minimumloon dan wel bij gebreke daarvan het door Onze Minister vastgestelde bedrag,  *peiljaar*: het tweede jaar voorafgaand aan het jaar waarvoor de draagkracht in de zin van hoofdstuk 4 wordt vastgesteld,  *toetsingsinkomen*: de belastbare som, bedoeld in artikel 24, eerste lid, van de Wet inkomstenbelasting BES.   
 2.  In dit hoofdstuk wordt onder lening mede verstaan de prestatiebeurs.  
 
 ### Artikel  4.2  
@@ -443,7 +443,7 @@ Onze Minister stelt jaarlijks uiterlijk in december een rentepercentage vast dat
 
 ####Omzetting van niet meer verrekenbare schulden in lening
 
-1.  Op het ogenblik van beëindiging van het recht op studiefinanciering BES van een studerende wordt zijn schuld, ontstaan in het kader van de toepassing van deze wet, van rechtswege omgezet in een lening. Op het ogenblik van beëindiging van het recht op studiefinanciering op grond van de [WSF 2000](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md) wordt de schuld van een studerende met betrekking tot de opstarttoelage van rechtswege omgezet in een lening.   
+1.  Op het ogenblik van beëindiging van het recht op studiefinanciering BES van een studerende wordt zijn schuld, ontstaan in het kader van de toepassing van deze wet, van rechtswege omgezet in een lening. Op het ogenblik van beëindiging van het recht op studiefinanciering op grond van de WSF 2000 wordt de schuld van een studerende met betrekking tot de opstarttoelage van rechtswege omgezet in een lening.   
 2.  Indien na beëindiging van het recht op studiefinanciering BES van een studerende door een beschikking op grond van artikel 5.1 een vordering ontstaat van Onze Minister, wordt die vordering omgezet in een lening op de eerste dag van de maand na de herziening. Bij de berekening van de rente voor die vordering wordt het rentepercentage gehanteerd dat geldt met ingang van 1 januari volgend op het kalenderjaar waarin de studerende is opgehouden studiefinanciering BES te genieten. Indien de omzetting plaatsvindt in het kalenderjaar waarin de studerende ophoudt studerende te zijn, wordt het rentepercentage gehanteerd dat geldt met ingang van 1 januari van dat kalenderjaar. Artikel 4.4, derde lid, is bij de berekening van rente van overeenkomstige toepassing.   
 3.  De in het eerste of tweede lid bedoelde lening wordt rentedragend met ingang van het tijdstip van de daar bedoelde omzetting.  
 
@@ -512,7 +512,7 @@ d. andere, nader gebleken feiten of omstandigheden, die, waren zij eerder bekend
 
 ####Samenloop van terugbetaling
 
-Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de samenloop van de verplichting tot terugbetaling uit hoofde van deze wet en de [WSF 2000](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md) met dien verstande dat de verplichting tot terugbetaling de laagst vastgestelde draagkracht van de debiteur niet mag overschrijden. 
+Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de samenloop van de verplichting tot terugbetaling uit hoofde van deze wet en de WSF 2000 met dien verstande dat de verplichting tot terugbetaling de laagst vastgestelde draagkracht van de debiteur niet mag overschrijden. 
 
 ### Hoofdstuk  7  
 
@@ -549,10 +549,10 @@ Organen met een publiekrechtelijke taak zijn verplicht op een bij algemene maatr
 
 ####Gegevensuitwisseling met landen buiten het Koninkrijk
 
-1.  Onze Minister kan in verband met een tegemoetkoming in de kosten voor de toegang tot het onderwijs of voor levensonderhoud de gegevens die bij hem bekend zijn als gevolg van de uitvoering van zijn wettelijke taken verstrekken aan een autoriteit van een staat buiten het Koninkrijk indien deze staat een passend beschermingsniveau als bedoeld in [artikel 42 van de Wet bescherming persoonsgegevens BES](../../../../../wet-BES/wet/bescherming/persoonsgegevens/bes/BWBR0028067/README.md) waarborgt.   
+1.  Onze Minister kan in verband met een tegemoetkoming in de kosten voor de toegang tot het onderwijs of voor levensonderhoud de gegevens die bij hem bekend zijn als gevolg van de uitvoering van zijn wettelijke taken verstrekken aan een autoriteit van een staat buiten het Koninkrijk indien deze staat een passend beschermingsniveau als bedoeld in artikel 42 van de Wet bescherming persoonsgegevens BES waarborgt.   
 2.  De in het eerste lid bedoelde verantwoordelijke autoriteit toont voor de verstrekking van gegevens aan dat de studerende ten laste van die autoriteit een tegemoetkoming in de kosten voor de toegang tot het onderwijs of voor levensonderhoud heeft aangevraagd dan wel reeds ontvangt.   
 3.  Onze Minister kan, voor de uitvoering van de wet, inlichtingen over een studerende die studiefinanciering BES of opstarttoelage aanvraagt dan wel reeds ontvangt, opvragen bij het bevoegd gezag van een staat buiten het Koninkrijk waar de studerende een opleiding wil gaan volgen of volgt aan een opleiding zoals vastgesteld bij ministeriële regeling.   
-4.  Voor gegevensuitwisseling als bedoeld in dit artikel met een staat die geen passend beschermingsniveau kan waarborgen, kan Onze Minister een vergunning als bedoeld in [artikel 43 van de Wet bescherming persoonsgegevens BES](../../../../../wet-BES/wet/bescherming/persoonsgegevens/bes/BWBR0028067/README.md) aanvragen bij Onze Minister van Justitie.  
+4.  Voor gegevensuitwisseling als bedoeld in dit artikel met een staat die geen passend beschermingsniveau kan waarborgen, kan Onze Minister een vergunning als bedoeld in artikel 43 van de Wet bescherming persoonsgegevens BES aanvragen bij Onze Minister van Justitie.  
 
 ### Paragraaf  7.2  
 
@@ -604,7 +604,7 @@ Onze Minister kan voor bepaalde gevallen de wet buiten toepassing laten of daarv
 
 ####Bezwaarschriftprocedure
 
-De [artikelen 64 tot en met 67 van de Wet administratieve rechtspraak BES](../../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md) zijn niet van toepassing. 
+De artikelen 64 tot en met 67 van de Wet administratieve rechtspraak BES zijn niet van toepassing. 
 
 ### Hoofdstuk  9  
 
@@ -614,7 +614,7 @@ De [artikelen 64 tot en met 67 van de Wet administratieve rechtspraak BES](../..
 
 ####Geen aanspraak op een opstarttoelage
 
-Degene die voor de aanvang van het studiejaar 2011–2012 in het Europese deel van Nederland studiefinanciering op grond van de [WSF 2000](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md) geniet, heeft geen aanspraak op een opstarttoelage. 
+Degene die voor de aanvang van het studiejaar 2011–2012 in het Europese deel van Nederland studiefinanciering op grond van de WSF 2000 geniet, heeft geen aanspraak op een opstarttoelage. 
 
 ### Artikel  9.2  
 

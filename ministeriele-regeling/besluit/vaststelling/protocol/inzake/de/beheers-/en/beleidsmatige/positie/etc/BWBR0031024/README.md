@@ -3,7 +3,7 @@
 ##Besluit van de Minister van Infrastructuur en Milieu, van 12 december 2011, nr. IENM/BSK-2011/163545, houdende vaststelling van het Protocol inzake de beheers- en beleidsmatige positie van het Kennisinstituut voor Mobiliteitsbeleid (Protocol KIM)
 
 De Minister van Infrastructuur en Milieu,  
-Gelet op [artikel 16, vierde lid, van het Organisatie- en mandaatbesluit Infrastructuur en Milieu 2012](../../../../../../../../../../../../ministeriele-regeling/organisatie-/en/mandaatbesluit/infrastructuur/en/milieu/2012/BWBR0030951/README.md);
+Gelet op artikel 16, vierde lid, van het Organisatie- en mandaatbesluit Infrastructuur en Milieu 2012;
 Besluit:    
 
 ### I  
@@ -81,7 +81,7 @@ d. de omvang van te verrichten extern onderzoek mag in geld uitgedrukt niet meer
 ####Voorlichting, publiciteit en externe contacten
 
 1.  De minister en zijn ambtenaren respecteren de uitkomsten van de door het KiM uitgevoerde onderzoeken. Zij verstrekken geen dienstopdrachten aan het KiM om formuleringen, uitkomsten, onderzoeksmethoden of veronderstellingen te veranderen.   
-2.  De onderzoeken van het KiM zijn in principe openbaar en worden geplaatst op de eigen website van het KiM. Het tijdstip van publicatie is in beginsel niet later dan drie maanden na afronding van het onderzoek. In voorkomende gevallen kan hiervan worden afgeweken, bijvoorbeeld als de onderzoeken deel uitmaken van de voorbereiding van een grote beleidsnota, waarbij alle relevante onderzoeksrapporten gelijktijdig met het uitbrengen van de nota worden gepubliceerd. In zulke gevallen zal overleg met de departementsleiding plaatsvinden. Op actieve en passieve openbaarmaking is te allen tijde de [Wet Openbaarheid van Bestuur](../../../../../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) van toepassing.   
+2.  De onderzoeken van het KiM zijn in principe openbaar en worden geplaatst op de eigen website van het KiM. Het tijdstip van publicatie is in beginsel niet later dan drie maanden na afronding van het onderzoek. In voorkomende gevallen kan hiervan worden afgeweken, bijvoorbeeld als de onderzoeken deel uitmaken van de voorbereiding van een grote beleidsnota, waarbij alle relevante onderzoeksrapporten gelijktijdig met het uitbrengen van de nota worden gepubliceerd. In zulke gevallen zal overleg met de departementsleiding plaatsvinden. Op actieve en passieve openbaarmaking is te allen tijde de Wet Openbaarheid van Bestuur van toepassing.   
 3.  Door middel van publicatie van dit protocol in de Staatscourant wordt vastgelegd dat de inhoud van de publicaties van het KiM niet het standpunt van de minister van IenM behoeven weer te geven.   
 4.  De persvoorlichting over KiM-rapporten en de beleidsmatige implicaties daarvan wordt verzorgd door de Directie Communicatie van IenM.   
 5.  Directie en medewerkers van het KiM kunnen desgevraagd worden betrokken bij het werk van adviesorganen, zoals de Raad voor Leefomgeving en Infrastructuur. In deze situaties zal de nadruk meestal liggen op het verstrekken van gegevens, uitvoeren van wetenschappelijke analyses en opstellen van prognoses.   

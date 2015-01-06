@@ -4562,15 +4562,11 @@ b. waarop titel 16.2 van toepassing is.
 
 ### Artikel  15.52  
 
-Indien de hoeveelheid emissies, bedoeld in artikel 15.51, eerste lid, wordt overschreden, is diegene die een inrichting als bedoeld in artikel 15.51 drijft een vergoeding verschuldigd. Bij algemene maatregel van bestuur wordt de hoogte van die vergoeding dan wel de wijze van berekenen van de hoogte van die vergoeding vastgesteld. 
+Indien de hoeveelheid emissies, bedoeld in artikel 15.51, eerste lid, wordt overschreden, is diegene die een inrichting als bedoeld in artikel 15.51 drijft een vergoeding verschuldigd aan Onze Minister. Bij algemene maatregel van bestuur wordt de hoogte van die vergoeding dan wel de wijze van berekenen van de hoogte van die vergoeding vastgesteld. 
 
 ### Artikel  15.53  
 
-1.  Bij algemene maatregel van bestuur kan ten behoeve van de uitvoering van de artikelen 15.51 en 15.52 medewerking worden gevorderd van het bestuur van een bedrijfslichaam als bedoeld in artikel 66 van de Wet op de bedrijfsorganisatie.   
-2.  Indien de in het eerste lid bedoelde medewerking bestaat uit het stellen van nadere regels bij verordening, behoeft die verordening de goedkeuring van Onze Minister. Krachtens de verordening genomen besluiten behoeven, voor zover zulks bij de maatregel, bedoeld in het eerste lid, is bepaald, de goedkeuring van Onze Minister.   
-3.  Bij de maatregel, bedoeld in het eerste lid, kunnen overtredingen van de verordening, bedoeld in het tweede lid, worden aangewezen als feiten waarvoor een tuchtrechtelijke maatregel als bedoeld in de Wet tuchtrechtspraak bedrijfsorganisatie 2004 kan worden opgelegd.   
-4.  De artikelen 1, onderdeel b, 2, 3 tot en met 6, 15 tot en met 44, eerste lid, en 46 van de Wet tuchtrechtspraak bedrijfsorganisatie 2004 zijn van overeenkomstige toepassing, met dien verstande dat de in artikel 46 van die wet genoemde instemming dient te worden verkregen van Onze Minister.   
-5.  Met het toezicht op de naleving van de verordening, bedoeld in het tweede lid, zijn belast de bij besluit van het bestuur van het op grond van het eerste lid aangewezen bedrijfslichaam aangewezen personen. Dat besluit behoeft de goedkeuring van Onze Minister. Onze Minister kan het bestuur van het bedrijfslichaam een aanwijzing geven omtrent het aanwijzen van toezichthouders en de wijze waarop toezicht wordt uitgeoefend.  
+Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld ten behoeve van de uitvoering van de artikelen 15.51 en 15.52.
 
 ###Hoofdstuk 16 
 
@@ -5633,7 +5629,6 @@ c. de EG-verordening registratie, evaluatie en autorisatie van chemische stoffen
 
 d. de EG-verordening indeling, etikettering en verpakking van stoffen en mengsels.     
 3.  In afwijking van het eerste lid is artikel 5.15, aanhef en onder b, van de Wet algemene bepalingen omgevingsrecht niet van toepassing voor zover het betreft de handhaving van het bij of krachtens hoofdstuk 16 bepaalde.   
-3.  Dit hoofdstuk is niet van toepassing op het bij verordening als bedoeld in artikel 15.53 bepaalde, voor zover daarvoor een tuchtrechtelijke maatregel als bedoeld in de Wet tuchtrechtspraak bedrijfsorganisatie 2004 kan worden opgelegd.  
 4.  Tot de bevoegdheid tot toepassing van bestuursdwang krachtens artikel 5.15 van de Wet algemene bepalingen omgevingsrecht behoort het in Nederland door of vanwege het bevoegde bestuursorgaan beheren van afvalstoffen in gevallen waarin die afvalstoffen in strijd met het bij of krachtens de EG-verordening overbrenging van afvalstoffen of titel 10.7 bepaalde, binnen of buiten Nederlands grondgebied worden gebracht.  
 
 ### Artikel  18.1b  

@@ -3,9 +3,9 @@
 ##Verordening van de Sociaal-Economische Raad van 21 november 2003 houdende regelen terzake van de bezoldiging van de voorzitter, de leden en de secretaris van een tuchtgerecht op grond van de Wet tuchtrechtspraak bedrijfsorganisatie 2002 (Verordening bezoldiging tuchtgerechten PBO)
 
 De Sociaal-Economische Raad;
-Gelet op [artikel 36 van de Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+Gelet op artikel 36 van de Wet op de bedrijfsorganisatie;
 
-Gelet op [artikel 13, derde lid, van de Wet tuchtrechtspraak bedrijfsorganisatie 2002](../../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md);
+Gelet op artikel 13, derde lid, van de Wet tuchtrechtspraak bedrijfsorganisatie 2002;
 
 Gehoord de Bestuurskamer;
 Besluit:
@@ -17,11 +17,11 @@ Besluit:
 
 In deze verordening wordt verstaan onder:
 
-a.tuchtgerecht: een tuchtgerecht als bedoeld in [artikel 7 van de Wet tuchtrechtspraak bedrijfsorganisatie 2002](../../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md);
+a.tuchtgerecht: een tuchtgerecht als bedoeld in artikel 7 van de Wet tuchtrechtspraak bedrijfsorganisatie 2002;
 
 b.Raad: Sociaal-Economische Raad;
 
-c.Bestuurskamer: commissie van de Raad, ingesteld op grond van [artikel 19 van de Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+c.Bestuurskamer: commissie van de Raad, ingesteld op grond van artikel 19 van de Wet op de bedrijfsorganisatie;
 
 d.zitting: terechtzitting ter mondelinge behandeling van zaken.
 
@@ -74,7 +74,7 @@ Deze verordening wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie
 
 ###Artikel 8 
 
-Deze verordening treedt in werking op het tijdstip waarop de [Wet tuchtrechtspraak bedrijfsorganisatie 2002](../../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md) in werking treedt.
+Deze verordening treedt in werking op het tijdstip waarop de Wet tuchtrechtspraak bedrijfsorganisatie 2002 in werking treedt.
 
 ###Artikel 9 
 

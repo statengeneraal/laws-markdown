@@ -3,7 +3,7 @@
 ##Regeling van de Staatssecretaris van Economische Zaken van 23 juni 2014, nr. WJZ/14101260, houdende regels met betrekking tot het houden van dieren
 
 De Staatssecretaris van Economische Zaken,  
-Gelet op richtlijn nr. 2007/43/EG van de Raad van de Europese Unie van 28 juni 2007 tot vaststelling van minimumvoorschriften voor de bescherming van vleeskuikens (PbEU L 182), verordening (EG) nr. 178/2002 van het Europees Parlement en de Raad van 28 januari 2002, tot vaststelling van de algemene beginselen en voorschriften van de levensmiddelenwetgeving, tot oprichting van een Europese Autoriteit voor voedselveiligheid en tot vaststelling van procedures voor voedselveiligheidsaangelegenheden, voor houders van productiedieren die gehouden worden voor de voedselproductie (PbEG 2002 L 31), verordening (EG) nr. 1/2005 van de Raad van de Europese Unie van 22 december 2004 inzake de bescherming van dieren tijdens het vervoer en daarmee samenhangende activiteiten en tot wijziging van de Richtlijnen 64/432/EEG en 93/119/EG en Verordening (EG) nr. 1255/97 (PbEU 2005 L 3), verordening (EG) nr. 1099/2009: verordening (EG) Nr. 1099/2009 van de Raad van 24 september 2009 inzake de bescherming van dieren bij het doden (PbEU 2009 L 303), de [artikelen 2.1, vierde lid](../../../../../../wet/wet/dieren/BWBR0030250/README.md), [2.5, eerste lid](../../../../../../wet/wet/dieren/BWBR0030250/README.md), [6.2, eerste lid](../../../../../../wet/wet/dieren/BWBR0030250/README.md), [6.3, tweede lid](../../../../../../wet/wet/dieren/BWBR0030250/README.md), [6.4](../../../../../../wet/wet/dieren/BWBR0030250/README.md), [7.1](../../../../../../wet/wet/dieren/BWBR0030250/README.md), [7.6, eerste en tweede lid](../../../../../../wet/wet/dieren/BWBR0030250/README.md), [10.1, derde lid](../../../../../../wet/wet/dieren/BWBR0030250/README.md), en [10.4 van de Wet dieren](../../../../../../wet/wet/dieren/BWBR0030250/README.md) en de [artikelen 1.22, tweede lid](../../../../../../AMvB/besluit/houders/van/dieren/BWBR0035217/README.md), [1.25](../../../../../../AMvB/besluit/houders/van/dieren/BWBR0035217/README.md), [2.52, derde lid](../../../../../../AMvB/besluit/houders/van/dieren/BWBR0035217/README.md), [2.54, vijfde lid](../../../../../../AMvB/besluit/houders/van/dieren/BWBR0035217/README.md), [2.55, derde lid](../../../../../../AMvB/besluit/houders/van/dieren/BWBR0035217/README.md), [2.63, eerste lid](../../../../../../AMvB/besluit/houders/van/dieren/BWBR0035217/README.md), [2.65, tweede lid](../../../../../../AMvB/besluit/houders/van/dieren/BWBR0035217/README.md), [2.69, tweede lid](../../../../../../AMvB/besluit/houders/van/dieren/BWBR0035217/README.md), [5.2](../../../../../../AMvB/besluit/houders/van/dieren/BWBR0035217/README.md), [6.2](../../../../../../AMvB/besluit/houders/van/dieren/BWBR0035217/README.md) en[ 6.3 van het Besluit houders van dieren](../../../../../../AMvB/besluit/houders/van/dieren/BWBR0035217/README.md);
+Gelet op richtlijn nr. 2007/43/EG van de Raad van de Europese Unie van 28 juni 2007 tot vaststelling van minimumvoorschriften voor de bescherming van vleeskuikens (PbEU L 182), verordening (EG) nr. 178/2002 van het Europees Parlement en de Raad van 28 januari 2002, tot vaststelling van de algemene beginselen en voorschriften van de levensmiddelenwetgeving, tot oprichting van een Europese Autoriteit voor voedselveiligheid en tot vaststelling van procedures voor voedselveiligheidsaangelegenheden, voor houders van productiedieren die gehouden worden voor de voedselproductie (PbEG 2002 L 31), verordening (EG) nr. 1/2005 van de Raad van de Europese Unie van 22 december 2004 inzake de bescherming van dieren tijdens het vervoer en daarmee samenhangende activiteiten en tot wijziging van de Richtlijnen 64/432/EEG en 93/119/EG en Verordening (EG) nr. 1255/97 (PbEU 2005 L 3), verordening (EG) nr. 1099/2009: verordening (EG) Nr. 1099/2009 van de Raad van 24 september 2009 inzake de bescherming van dieren bij het doden (PbEU 2009 L 303), de artikelen 2.1, vierde lid, 2.5, eerste lid, 6.2, eerste lid, 6.3, tweede lid, 6.4, 7.1, 7.6, eerste en tweede lid, 10.1, derde lid, en 10.4 van de Wet dieren en de artikelen 1.22, tweede lid, 1.25, 2.52, derde lid, 2.54, vijfde lid, 2.55, derde lid, 2.63, eerste lid, 2.65, tweede lid, 2.69, tweede lid, 5.2, 6.2 en 6.3 van het Besluit houders van dieren;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -13,13 +13,13 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-–  *besluit:* [Besluit houders van dieren](../../../../../../AMvB/besluit/houders/van/dieren/BWBR0035217/README.md);  
+–  *besluit:* Besluit houders van dieren;  
 
 –  *minister:* Minister van Economische Zaken;  
 
 –  *NVWA:* Nederlandse Voedsel- en Warenautoriteit van het Ministerie van Economische Zaken;  
 
-–  *recept:* een recept als bedoeld in [artikel 1.1 van het Besluit diergeneesmiddelen](../../../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md);  
+–  *recept:* een recept als bedoeld in artikel 1.1 van het Besluit diergeneesmiddelen;  
 
 –  *richtlijn 2007/43/EG: * richtlijn 2007/43/EG van de Raad van 28 juni 2007 tot vaststelling van minimumvoorschriften voor de bescherming van vleeskuikens (PbEU 2007, L 182);  
 
@@ -38,9 +38,9 @@ gereserveerd
 
 ####Administratie van diergeneesmiddelen door houder van dieren
 
-1.  Een houder van dieren die dieren houdt die voor de productie van levensmiddelen zijn bestemd, voert een administratie inzake iedere transactie met diergeneesmiddelen als bedoeld in de [artikelen 2.13](../../../../../../ministeriele-regeling/regeling/diergeneesmiddelen/BWBR0032626/README.md), [2.14](../../../../../../ministeriele-regeling/regeling/diergeneesmiddelen/BWBR0032626/README.md) en [4.12 van de Regeling diergeneesmiddelen](../../../../../../ministeriele-regeling/regeling/diergeneesmiddelen/BWBR0032626/README.md), in welke administratie de volgende documenten en gegevens zijn opgenomen: 
+1.  Een houder van dieren die dieren houdt die voor de productie van levensmiddelen zijn bestemd, voert een administratie inzake iedere transactie met diergeneesmiddelen als bedoeld in de artikelen 2.13, 2.14 en 4.12 van de Regeling diergeneesmiddelen, in welke administratie de volgende documenten en gegevens zijn opgenomen: 
 
-a. voor zover een recept als bedoeld in [artikel 5.13 van de Regeling diergeneesmiddelen](../../../../../../ministeriele-regeling/regeling/diergeneesmiddelen/BWBR0032626/README.md) is opgesteld, een gewaarmerkt afschrift van dat recept;  
+a. voor zover een recept als bedoeld in artikel 5.13 van de Regeling diergeneesmiddelen is opgesteld, een gewaarmerkt afschrift van dat recept;  
 
 b. de facturen bij aankoop van diergeneesmiddelen;  
 
@@ -50,11 +50,11 @@ d. de identificatie van de behandelde dieren;
 
 e. de vastgestelde wachttermijn, voor zover deze niet reeds op een recept als bedoeld in onderdeel a is vermeld;  
 
-f. de aantekeningen, bedoeld in [artikel 5.3, van de Regeling diergeneeskundigen](../../../../../../ministeriele-regeling/regeling/diergeneesmiddelen/BWBR0032626/README.md).     
-2.  De houder van dieren, bedoeld in het eerste lid, kan de administratie, bedoeld in het eerste lid, doen uitvoeren in de door de dierenarts overeenkomstig [artikel 5.16 van de Regeling diergeneesmiddelen](../../../../../../ministeriele-regeling/regeling/diergeneesmiddelen/BWBR0032626/README.md) en [artikel 5.1 van de Regeling diergeneeskundigen](../../../../../../ministeriele-regeling/regeling/diergeneesmiddelen/BWBR0032626/README.md) te voeren administratie.   
+f. de aantekeningen, bedoeld in artikel 5.3, van de Regeling diergeneeskundigen.     
+2.  De houder van dieren, bedoeld in het eerste lid, kan de administratie, bedoeld in het eerste lid, doen uitvoeren in de door de dierenarts overeenkomstig artikel 5.16 van de Regeling diergeneesmiddelen en artikel 5.1 van de Regeling diergeneeskundigen te voeren administratie.   
 3.  Een houder van dieren die dieren houdt die bestemd zijn voor de productie van levensmiddelen, voert een administratie inzake transacties met diervoeder met medicinale werking, in welke administratie de volgende gegevens zijn opgenomen: 
 
-a. een gewaarmerkt afschrift van een recept als bedoeld in [artikel 7.2 van de Regeling diergeneesmiddelen](../../../../../../ministeriele-regeling/regeling/diergeneesmiddelen/BWBR0032626/README.md) en, voor zover dit niet reeds op dat afschrift is vermeld:  
+a. een gewaarmerkt afschrift van een recept als bedoeld in artikel 7.2 van de Regeling diergeneesmiddelen en, voor zover dit niet reeds op dat afschrift is vermeld:  
 
 b. naam en hoeveelheid van het voorgeschreven diervoeder met medicinale werking;  
 
@@ -89,7 +89,7 @@ Indien de situatie dermate spoedeisend is dat de minister een besluit op een aan
 
 ####Certificaat van goedkeuring van een vervoermiddel
 
-1.  Een aanvraag voor een certificaat van goedkeuring van een vervoermiddel als bedoeld in artikel 18, eerste lid, of artikel 19, eerste lid, van verordening (EG) nr. 1/2005 wordt ingediend bij de Dienst Wegverkeer, bedoeld in [artikel 4a van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md).   
+1.  Een aanvraag voor een certificaat van goedkeuring van een vervoermiddel als bedoeld in artikel 18, eerste lid, of artikel 19, eerste lid, van verordening (EG) nr. 1/2005 wordt ingediend bij de Dienst Wegverkeer, bedoeld in artikel 4a van de Wegenverkeerswet 1994.   
 2.  De minister kan het certificaat van goedkeuring schorsen of intrekken in de gevallen, bedoeld in artikel 26, vierde lid, aanhef en onderdeel c, van verordening (EG) nr. 1/2005.   
 3.  Ter vergoeding van de kosten ter behandeling van een aanvraag als bedoeld in het eerste lid, wordt bij de aanvrager een bedrag in rekening gebracht overeenkomstig de door de Dienst Wegverkeer vastgestelde tarieven met betrekking tot dierenvervoer.  
 
@@ -111,7 +111,7 @@ Indien de situatie dermate spoedeisend is dat de minister een besluit op een aan
 
 ####Erkenning examen verordening (EG) nr. 1/2005 
 
-1.  Een door de Divisie CCV van het Centraal Bureau Rijvaardigheidsbewijzen, bedoeld in [artikel 4z van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), afgenomen examen wordt aangemerkt als een erkend examen als bedoeld in bijlage IV, onderdeel 1, van verordening (EG) nr. 1/2005.   
+1.  Een door de Divisie CCV van het Centraal Bureau Rijvaardigheidsbewijzen, bedoeld in artikel 4z van de Wegenverkeerswet 1994, afgenomen examen wordt aangemerkt als een erkend examen als bedoeld in bijlage IV, onderdeel 1, van verordening (EG) nr. 1/2005.   
 2.  De Divisie CCV van het Centraal Bureau Rijvaardigheidsbewijzen is belast met het afgeven van een getuigschrift van vakbekwaamheid als bedoeld in artikel 17, tweede lid, van verordening (EG) nr. 1/2005.   
 3.  De minister kan een getuigschrift van vakbekwaamheid schorsen of intrekken in de gevallen, bedoeld in artikel 26, vijfde lid, van verordening (EG) nr. 1/2005.   
 4.  Ter vergoeding van de kosten ter behandeling van een aanvraag voor een getuigschrift als bedoeld in het tweede lid, wordt bij de aanvrager een bedrag in rekening gebracht overeenkomstig de door het Centraal Bureau Rijvaardigheidsbewijzen vastgestelde tarieven.  
@@ -120,7 +120,7 @@ Indien de situatie dermate spoedeisend is dat de minister een besluit op een aan
 
 ####Verbodsbepaling
 
-Als voorschriften als bedoeld in [artikel 6.2, eerste lid, van de wet](../../../../../../wet/wet/dieren/BWBR0030250/README.md) worden aangewezen de artikelen 3 tot en met 9 en 12 van verordening (EG) nr. 1/2005. 
+Als voorschriften als bedoeld in artikel 6.2, eerste lid, van de wet worden aangewezen de artikelen 3 tot en met 9 en 12 van verordening (EG) nr. 1/2005. 
 
 ### Hoofdstuk  5  
 
@@ -131,7 +131,7 @@ Als voorschriften als bedoeld in [artikel 6.2, eerste lid, van de wet](../../../
 ####Nationale gidsen voor goede praktijken
 
 1.  De minister beoordeelt gidsen voor goede praktijken overeenkomstig artikel 13 van verordening (EG) nr. 1099/2009.   
-2.  De minister maakt zijn oordeel bekend overeenkomstig [artikel 3:42, eerste lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).  
+2.  De minister maakt zijn oordeel bekend overeenkomstig artikel 3:42, eerste lid, van de Algemene wet bestuursrecht.  
 
 ### Artikel  5.2  
 
@@ -191,7 +191,7 @@ Aanvragen tot verstrekking van een getuigschrift als bedoeld in artikel 5.4 en 5
 
 ####Verbodsbepaling
 
-Als voorschriften van EU-verordeningen als bedoeld in [artikel 6.2, eerste lid, van de wet](../../../../../../wet/wet/dieren/BWBR0030250/README.md) worden aangewezen de artikelen 3, 4, eerste en vierde lid, 5, eerste en tweede lid, 6, eerste en tweede lid, 7, 8, 9, 12, 14, eerste en tweede lid, 15, eerste, tweede en derde lid, 16, eerste tot en met vierde lid, 17, 19, 21, zesde lid, 24 en 28, eerste lid, van verordening (EG) nr. 1099/2009. 
+Als voorschriften van EU-verordeningen als bedoeld in artikel 6.2, eerste lid, van de wet worden aangewezen de artikelen 3, 4, eerste en vierde lid, 5, eerste en tweede lid, 6, eerste en tweede lid, 7, 8, 9, 12, 14, eerste en tweede lid, 15, eerste, tweede en derde lid, 16, eerste tot en met vierde lid, 17, 19, 21, zesde lid, 24 en 28, eerste lid, van verordening (EG) nr. 1099/2009. 
 
 ### Hoofdstuk  6  
 
@@ -207,11 +207,11 @@ Voor de toepassing van dit hoofdstuk wordt verstaan onder bruto oppervlakte van 
 
 ####Kennisgeving hogere bezettingsdichtheid
 
-1.  De kennisgeving, bedoeld in [artikel 2.55, eerste lid, van het besluit](../../../../../../AMvB/besluit/houders/van/dieren/BWBR0035217/README.md), en de kennisgeving, bedoeld in [artikel 2.59, eerste lid, van het besluit](../../../../../../AMvB/besluit/houders/van/dieren/BWBR0035217/README.md), geschiedt aan de minister.   
+1.  De kennisgeving, bedoeld in artikel 2.55, eerste lid, van het besluit, en de kennisgeving, bedoeld in artikel 2.59, eerste lid, van het besluit, geschiedt aan de minister.   
 2.  Voor de kennisgeving, bedoeld in het eerste lid, wordt gebruikt gemaakt van een door de minister ter beschikking gesteld middel.   
 3.  De kennisgeving gaat per stal vergezeld van de volgende gegevens: 
 
-a. het KIP-nummer, zijnde het nummer dat wordt verstrekt op grond van [artikel 2, tweede lid, van de Verordening identificatie en registratie van pluimveebedrijven en levend pluimvee (PPE) 2012](../../../../../../pbo/verordening/identificatie/en/registratie/van/pluimveebedrijven/en/levend/etc/BWBR0031111/README.md) van het Productschap Pluimvee en Eieren;  
+a. het KIP-nummer, zijnde het nummer dat wordt verstrekt op grond van artikel 2, tweede lid, van de Verordening identificatie en registratie van pluimveebedrijven en levend pluimvee (PPE) 2012 van het Productschap Pluimvee en Eieren;  
 
 b. het relatienummer van de houder;  
 
@@ -228,7 +228,7 @@ f. het bouwjaar van de stal en, indien van toepassing, het jaar waarin een grond
 
 ####Kennisgeving lagere bezettingsdichtheid
 
-1.  De kennisgeving, bedoeld in [artikel 2.65, eerste lid, van het besluit](../../../../../../AMvB/besluit/houders/van/dieren/BWBR0035217/README.md), geschiedt aan de minister.   
+1.  De kennisgeving, bedoeld in artikel 2.65, eerste lid, van het besluit, geschiedt aan de minister.   
 2.  Voor de kennisgeving, bedoeld in het eerste lid, wordt gebruikt gemaakt van een door de minister ter beschikking gesteld middel.   
 3.  De kennisgeving gaat per stal vergezeld van de gegevens, genoemd in artikel 6.2, derde lid, onderdelen a, b, c en d.   
 4.  Artikel 6.2, vierde lid, is van overeenkomstige toepassing.  
@@ -245,7 +245,7 @@ f. het bouwjaar van de stal en, indien van toepassing, het jaar waarin een grond
 ####Aanvullende normen voor het aanhouden van een bezettingsdichtheid van meer dan 39 kg/m<sup>2</sup>, maar ten hoogste 42 kg/m<sup>2</sup> 
 
 1.  De houder die een bezettingsdichtheid van meer dan 39 kg/m<sup>2</sup>, maar ten hoogste 42 kg/m<sup>2</sup> toepast, zorgt ervoor dat voor elk koppel in het slachthuis, of voor een voor de export bestemd koppel op het bedrijf ten hoogste vijf werkdagen voor het einde van de ronde, wordt vastgesteld in welke mate voetzoollaesies voorkomen.   
-2.   Ten behoeve van de vaststelling, bedoeld in het eerste lid, wordt bij een aantal vleeskuikens van een koppel beoordeeld bij hoeveel dieren er 
+2.  Ten behoeve van de vaststelling, bedoeld in het eerste lid, wordt bij een aantal vleeskuikens van een koppel beoordeeld bij hoeveel dieren er 
 
 a. geen of een zeer kleine verkleuring zichtbaar is (klasse 0);  
 
@@ -256,18 +256,29 @@ c. een laesie met aantasting van de opperhuid en onderhuidse ontsteking (klasse 
 
 a. bij het slachthuis: 
 
-1°. door een daarvoor opgeleide medewerker, bij 100 kuikens van elk koppel, waarvan 50 kuikens direct na verwerking van ongeveer 30% van het koppel, en 50 kuikens direct na verwerking van ongeveer 60% van het koppel, met inachtneming van het protocol dat als bijlage 3 bij deze regeling is gevoegd, dan wel  
+1°. door een daarvoor opgeleide medewerker, bij 100 kuikens van elk koppel, waarvan 50 kuikens direct na verwerking van ongeveer 30% van het koppel, en 50 kuikens direct na verwerking van ongeveer 60% van het koppel, met inachtneming van het protocol dat als bijlage 3 bij deze regeling is gevoegd, dan wel:  
 
-2°. met gebruikmaking van een digitaal meetsysteem bij ten minste 70% van alle kuikens van elk koppel;    
+2°. met gebruikmaking van een digitaal meetsysteem bij ten minste 70% van alle kuikens van elk koppel, overeenkomstig het protocol, dat is opgenomen in bijlage 4;    
 
-b. in de stal: ten hoogste 5 werkdagen voordat de laatste vleeskuikens worden weggeladen, door een daarvoor opgeleide medewerker, bij 100 kuikens van elk koppel met inachtneming van het protocol dat als bijlage 4 bij deze regeling is gevoegd.     
+b. in de stal: ten hoogste 5 werkdagen voordat de laatste vleeskuikens worden weggeladen, door een daarvoor opgeleide controleur, bij 100 kuikens van elk koppel met inachtneming van het protocol dat als bijlage 5 bij deze regeling is gevoegd.     
 4.  De totaalscore voor het koppel wordt vastgesteld: 
 
-a. in geval van visuele meting in het slachthuis of het houderijbedrijf met gebruikmaking van de formule: aantal punten= (aantal dieren klasse 0)x0 + (aantal dieren klasse 1)x(0,5) + (aantal dieren klasse 2)x2  
+a. in geval van visuele meting in het slachthuis of het houderijbedrijf met gebruikmaking van de formule: aantal punten = (aantal dieren klasse 0) x 0 + (aantal dieren klasse 1) x (0,5) + (aantal dieren klasse 2) x 2  
 
-b. bij meting door middel van een digitaal meetsysteem met de formule: aantal punten= (percentage dieren klasse 0)x0 + (percentage dieren klasse 1)x(0,5) + (percentage dieren klasse 2)x2     
+b. bij meting door middel van een digitaal meetsysteem met de formule: aantal punten = (percentage dieren klasse 0) x 0 + (percentage dieren klasse 1) x (0,5) + (percentage dieren klasse 2) x 2     
 5.  De in het eerste lid bedoelde houder verstrekt per koppel de gegevens waaruit de score blijkt binnen 30 dagen na de vaststelling aan de minister. De artikelen 6.2, tweede lid, en 6.8, tweede en derde lid, zijn van overeenkomstige toepassing.   
-6.  De in het eerste lid bedoelde houder stelt na elk kalenderjaar een gemiddelde score voor het afgelopen jaar per stal vast op basis van de gegevens, bedoeld in het vijfde lid.  
+6.  De in het eerste lid bedoelde houder stelt na elk kalenderjaar een gemiddelde score voor het afgelopen jaar per stal vast op basis van de gegevens, bedoeld in het vijfde lid.   
+7.  Het in het derde lid, onderdeel a, onder 2°, bedoelde digitale meetsysteem voldoet aan de volgende eisen: 
+
+a. het systeem levert een betrouwbare indeling op van de voetzoollaesies in de in het tweede lid genoemde klassen en van de resultaten van de meting overeenkomstig de in het vierde lid, onderdeel b, genoemde formule;  
+
+b. het systeem kan ten behoeve van een betrouwbare indeling worden ingesteld op beoordeling van de poten van de koppels die onder hoogbroei en van de koppels die onder laagbroei zijn verwerkt;  
+
+c. het systeem kan op zodanige wijze worden ingesteld dat de beoordeling van ieder koppel afzonderlijk plaatsvindt;  
+
+d. de in onderdeel a bedoelde gegevens worden ten minste eenmaal per dag opgeleverd;  
+
+e. de beelden van de beoordeelde koppels kunnen worden bewaard.   
 
 ### Artikel  6.6  
 
@@ -278,7 +289,7 @@ b. bij meting door middel van een digitaal meetsysteem met de formule: aantal pu
 
 a. stelt de houder, zo mogelijk met behulp van een dierenarts, voor 1 maart van het jaar dat volgt op het jaar waarop de verstrekte gegevens betrekking hadden, een verbeterplan op met daarin de maatregelen die hij gaat doorvoeren in elke stal waarvoor de gemiddelde score meer dan 120 punten bedroeg, om ervoor te zorgen dat in elk geval aan het einde van dat jaar wordt voldaan aan het eerste lid, en  
 
-b. verlaagt de houder uiterlijk met ingang van 1 maart van het jaar dat volgt op het jaar waarop de meldingen betrekking hadden, en vervolgens ten minste gedurende het hele kalenderjaar, de bezettingsdichtheid in elke stal waar de gemiddelde score meer dan 120 punten bedroeg, tot ten hoogste 39 kg/m<sup>2</sup>.     
+b. verlaagt de houder uiterlijk met ingang van 1 maart van het jaar dat volgt op het jaar waarop de meldingen betrekking hadden, en vervolgens ten minste gedurende het hele kalenderjaar, de bezettingsdichtheid in elke stal waar de gemiddelde score meer dan 120 punten bedroeg, tot ten hoogste 39 kg/m².     
 3.  Indien de gemiddelde score, bedoeld in artikel 6.5, zesde lid, in afwijking van het eerste lid, meer dan 80 punten bedraagt maar minder dan 120 punten, stelt de houder, zo mogelijk met behulp van een dierenarts, voor 1 februari van het jaar dat volgt op het jaar waarop de meldingen betrekking hadden, een verbeterplan op met daarin de maatregelen die hij gaat doorvoeren in elke stal waar de gemiddelde score meer dan 80 punten bedroeg, om ervoor te zorgen dat binnen een jaar wordt voldaan aan het eerste lid.   
 4.  Een verbeterplan wordt ingediend bij de minister. Artikel 6.2, tweede en vierde lid, is van overeenkomstige toepassing.   
 5.  Indien naar het oordeel van de minister de uitvoering van het verbeterplan er in redelijkheid niet toe kan leiden dat binnen een kalenderjaar kan worden voldaan aan het eerste lid, dient de houder op verzoek van de minister binnen een maand na dat verzoek een aangepast verbeterplan in.   
@@ -287,17 +298,17 @@ b. verlaagt de houder uiterlijk met ingang van 1 maart van het jaar dat volgt o
 
 ### Artikel  6.7  
 
-####Voortduren meting bij gedwongen verlaging bezettingsdichtheid naar 39 kg/m<sup>2</sup> 
+####Voortduren meting bij gedwongen verlaging bezettingsdichtheid naar 39 kg/m<sup>2</sup>
 
-Artikel 6.5 is ten aanzien van het kalenderjaar waarin de bezettingsdichtheid is verlaagd naar ten hoogste 39 kg/m<sup>2</sup> van overeenkomstige toepassing op de houder, bedoeld in artikel 6.6, tweede lid. 
+Artikel 6.5 is ten aanzien van het kalenderjaar waarin de bezettingsdichtheid is verlaagd naar ten hoogste 39 kg/m<sup>2</sup> van overeenkomstige toepassing op de houder, bedoeld in artikel 6.6, tweede lid.
 
 ### Artikel  6.8  
 
 ####Verstrekking gegevens aantallen vleeskuikens
 
-1.  Ten behoeve van het bepalen van de bezettingsdichtheid draagt de houder er zorg voor dat per koppel de volgende gegevens worden verstrekt aan de minister: 
+1.  Ten behoeve van het bepalen van de bezettingsdichtheid draagt de houder, bedoeld in de artikelen 6.2 en 6.3, er zorg voor dat per koppel de volgende gegevens worden verstrekt aan de minister: 
 
-a. het aantal binnengebrachte vleeskuikens, bedoeld in [artikel 2.52, eerste lid, onderdeel a, van het besluit](../../../../../../AMvB/besluit/houders/van/dieren/BWBR0035217/README.md);  
+a. het aantal binnengebrachte vleeskuikens, bedoeld in artikel 2.52, eerste lid, onderdeel a, van het besluit;  
 
 b. de datum waarop de vleeskuikens die uit de stal zijn verwijderd met het oogmerk om te worden geslacht, in de stal zijn geplaatst;  
 
@@ -307,16 +318,16 @@ d. het levend gewicht van de vleeskuikens, bedoeld in onderdeel c, op het tijdst
 
 e. de datum waarop de vleeskuikens, bedoeld in onderdeel c, zijn geslacht;  
 
-f. het resterende aantal vleeskuikens, bedoeld in [artikel 2.52, eerste lid, onderdeel e, van het besluit](../../../../../../AMvB/besluit/houders/van/dieren/BWBR0035217/README.md).     
+f. het resterende aantal vleeskuikens, bedoeld in artikel 2.52, eerste lid, onderdeel e, van het besluit.     
 2.  De gegevens, bedoeld in het eerste lid, worden verstrekt binnen 30 dagen nadat de laatste vleeskuikens van het betreffende koppel uit de stal zijn verwijderd met het oogmerk om te worden geslacht.   
-3.  De houder bewaart de gegevens, bedoeld in het eerste lid, gedurende drie jaren na de datum van de verstrekking bij de gegevens die op grond van [artikel 2.52 van het besluit](../../../../../../AMvB/besluit/houders/van/dieren/BWBR0035217/README.md) worden geregistreerd.   
+3.  De houder bewaart de gegevens, bedoeld in het eerste lid, gedurende drie jaren na de datum van de verstrekking bij de gegevens die op grond van artikel 2.52 van het besluit worden geregistreerd.   
 4.  Artikel 6.2, tweede en vierde lid, is van overeenkomstige toepassing.  
 
 ### Artikel  6.9  
 
 ####Erkenning opleidingscertificaat
 
-1.  De minister erkent een certificaat als bedoeld in [artikel 2.54, eerste lid, van het besluit](../../../../../../AMvB/besluit/houders/van/dieren/BWBR0035217/README.md), indien dit certificaat betrekking heeft op: 
+1.  De minister erkent een certificaat als bedoeld in artikel 2.54, eerste lid, van het besluit, indien dit certificaat betrekking heeft op: 
 
 a. een opleiding die voldoet aan één van de volgende kwalificaties: 
 
@@ -326,7 +337,7 @@ a. een opleiding die voldoet aan één van de volgende kwalificaties:
 
 b. de certificeerbare eenheid ‘welzijn van vleeskuikens’.     
 2.  De minister erkent een certificaat als bedoeld in artikel 4, derde lid, van de richtlijn nr. 2007/43/EG dat is afgegeven of erkend door de bevoegde autoriteit van de lidstaat van de Europese Unie.   
-3.  Naast de aspecten, genoemd in [artikel 2.54, derde lid, van het besluit](../../../../../../AMvB/besluit/houders/van/dieren/BWBR0035217/README.md) heeft de vleeskuikenhouder tevens kennis van: 
+3.  Naast de aspecten, genoemd in artikel 2.54, derde lid, van het besluit heeft de vleeskuikenhouder tevens kennis van: 
 
 a. contactdermatitis bij vleeskuikens, en  
 
@@ -340,10 +351,10 @@ b. maatregelen die in het kader van de bedrijfsvoering kunnen worden genomen om 
 
 ####Registratie legkippen
 
-1.  Ter uitvoering van [artikel 2.69 van het besluit](../../../../../../AMvB/besluit/houders/van/dieren/BWBR0035217/README.md) wordt medewerking gevorderd van het Productschap Pluimvee en Eieren.   
+1.  Ter uitvoering van artikel 2.69 van het besluit wordt medewerking gevorderd van het Productschap Pluimvee en Eieren.   
 2.  De in het eerste lid bedoelde medewerking bestaat uit het vaststellen van een registratie systeem voor pluimveehouders, het toekennen van een identificatienummer en de daarbij behorende administratieve verplichtingen.   
 3.  Het Productschap Pluimvee en Eieren kan voor het toekennen van een identificatienummer en voor de onderzoeken of verrichtingen die het productschap uitvoert in het kader van het eerste en tweede lid, een heffing vaststellen.   
-4.  Het eerste en tweede lid zijn niet van toepassing voor zover het Productschap Pluimvee en Eieren reeds uitvoering geeft aan [artikel 2.69 van het besluit](../../../../../../AMvB/besluit/houders/van/dieren/BWBR0035217/README.md) op grond van [artikel 93 van de Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md).  
+4.  Het eerste en tweede lid zijn niet van toepassing voor zover het Productschap Pluimvee en Eieren reeds uitvoering geeft aan artikel 2.69 van het besluit op grond van artikel 93 van de Wet op de bedrijfsorganisatie.  
 
 ### Hoofdstuk  8  
 
@@ -355,13 +366,13 @@ b. maatregelen die in het kader van de bedrijfsvoering kunnen worden genomen om 
 
 In dit hoofdstuk wordt verstaan onder: 
 
-*aanvrager:* migrerende beroepsbeoefenaar als bedoeld in [artikel 1 van de Algemene wet erkenning EG-beroepskwalificaties](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), die erkenning van beroepskwalificaties aanvraagt.   
+*aanvrager:* migrerende beroepsbeoefenaar als bedoeld in artikel 1 van de Algemene wet erkenning EG-beroepskwalificaties, die erkenning van beroepskwalificaties aanvraagt.   
 
 ### Artikel  8.2  
 
 ####Verschuldigde bedragen
 
-Voor de aanmelding, bedoeld in [art. 3.8, eerste lid, van het besluit](../../../../../../AMvB/besluit/houders/van/dieren/BWBR0035217/README.md) en de melding bedoeld in artikel 3.8, vijfde lid, van het besluit, is jaarlijks een bedrag verschuldigd van € 19,00. 
+Voor de aanmelding, bedoeld in art. 3.8, eerste lid, van het besluit en de melding bedoeld in artikel 3.8, vijfde lid, van het besluit, is jaarlijks een bedrag verschuldigd van € 19,00. 
 
 ### Artikel  8.3  
 
@@ -374,7 +385,7 @@ a. Parvovirusinfectie;
 b. de ziekte van Carré en  
 
 c. Hepatitis Contagiosia Canis.     
-2.  Onverminderd het bepaalde in [artikel 2.19, derde lid, onderdeel a, van de wet](../../../../../../wet/wet/dieren/BWBR0030250/README.md) geschiedt de inenting overeenkomstig het derde tot en met vijfde lid.   
+2.  Onverminderd het bepaalde in artikel 2.19, derde lid, onderdeel a, van de wet geschiedt de inenting overeenkomstig het derde tot en met vijfde lid.   
 3.  Een hond wordt binnen 7 weken na de geboorte tegen de in het eerste lid, onderdelen a en b, bedoelde ziekten ingeënt, met dien verstande dat, in het geval van verkoop of aflevering, de hond uiterlijk 7 dagen vóór het moment van verkoop of aflevering wordt ingeënt.   
 4.  Voor zover een hond in een inrichting verblijft, laat de beheerder de inenting, bedoeld in het eerste lid, onderdeel c, en de benodigde herhalingsentingen tegen de in het eerste lid bedoelde ziekten plaatsvinden.   
 5.  Indien bij binnenkomst van een hond de vaccinatiestatus onvolledig of onbekend is, laat de beheerder de hond binnen 5 werkdagen tegen de in het eerste lid bedoelde ziekten inenten.   
@@ -389,7 +400,7 @@ c. Hepatitis Contagiosia Canis.
 a. Panleucopenievirus en  
 
 b. Feline herpes- en calicivirus.     
-2.  Onverminderd het bepaalde in [artikel 2.19, derde lid, onderdeel a, van de wet](../../../../../../wet/wet/dieren/BWBR0030250/README.md), geschiedt de inenting overeenkomstig het derde tot en met vijfde lid.   
+2.  Onverminderd het bepaalde in artikel 2.19, derde lid, onderdeel a, van de wet, geschiedt de inenting overeenkomstig het derde tot en met vijfde lid.   
 3.  Een kat wordt binnen 7 weken na de geboorte tegen de in het eerste lid bedoelde ziekten ingeënt, met dien verstande dat, in het geval van verkoop of aflevering, de kat uiterlijk 7 dagen vóór het moment van verkoop of aflevering wordt ingeënt.   
 4.  Voor zover de kat in een inrichting verblijft, laat de beheerder de benodigde herhalingsentingen tegen de in het eerste lid bedoelde ziekten plaatsvinden.   
 5.  Indien bij binnenkomst van een kat de vaccinatiestatus onvolledig of onbekend is, laat de beheerder de kat binnen 5 werkdagen tegen de in het eerste lid bedoelde ziekten inenten.  
@@ -398,7 +409,7 @@ b. Feline herpes- en calicivirus.
 
 ####Bewijs van inenting
 
-1.  Het bewijs van inenting, bedoeld in [artikel 3.15, onderdeel b, van het besluit](../../../../../../AMvB/besluit/houders/van/dieren/BWBR0035217/README.md), is een door een dierenarts opgemaakt en schriftelijk afgegeven bewijs.   
+1.  Het bewijs van inenting, bedoeld in artikel 3.15, onderdeel b, van het besluit, is een door een dierenarts opgemaakt en schriftelijk afgegeven bewijs.   
 2.  Het is het eerste lid bedoelde bewijs heeft betrekking op de inentingen die overeenkomstig de artikelen 3 en 4 hebben plaatsgevonden en bevat de volgende gegevens: 
 
 – naam en praktijkadres van de dierenarts;  
@@ -414,43 +425,43 @@ b. Feline herpes- en calicivirus.
 – voor zover bekend, geboortedatum van het dier en  
 
 – indien aanwezig, het identificatienummer van de chip of de cijfer- en lettercode van de tatoeage.     
-3.  Met het in het eerste lid bedoelde bewijs van inenting wordt gelijkgesteld een bewijs van inenting dat ingevolge het [Honden- en kattenbesluit 1999](../../../../../../AMvB/honden-/en/kattenbesluit/1999/BWBR0010200/README.md) voor desbetreffende hond of kat is afgegeven.  
+3.  Met het in het eerste lid bedoelde bewijs van inenting wordt gelijkgesteld een bewijs van inenting dat ingevolge het Honden- en kattenbesluit 1999 voor desbetreffende hond of kat is afgegeven.  
 
 ### Artikel  8.6  
 
 ####Diergroepen
 
-De volgende diergroepen, bedoeld in [artikel 3.11, eerste lid, van het besluit](../../../../../../AMvB/besluit/houders/van/dieren/BWBR0035217/README.md), worden onderscheiden: hond en kat, overige zoogdieren, vogels, vissen en herpeten. 
+De volgende diergroepen, bedoeld in artikel 3.11, eerste lid, van het besluit, worden onderscheiden: hond en kat, overige zoogdieren, vogels, vissen en herpeten. 
 
 ### Artikel  8.7  
 
 ####Vermelden diergroep op diploma
 
-De resultatenlijst behorend bij een diploma van het kwalificatiedossier, Crebocode 97790 en 97791, bedoeld in [bijlage 2 van de Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2012](../../../../../../ministeriele-regeling/regeling/vaststelling/kwalificatiedossiers/en/opleidingsdomeinen/2012/BWBR0031310/README.md), vermeldt de diergroep, bedoeld in artikel 6 van deze regeling, waarvoor het onderwijs is genoten. 
+De resultatenlijst behorend bij een diploma van het kwalificatiedossier, Crebocode 97790 en 97791, bedoeld in bijlage 2 van de Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2012, vermeldt de diergroep, bedoeld in artikel 6 van deze regeling, waarvoor het onderwijs is genoten. 
 
 ### Artikel  8.8  
 
 ####Erkenning beroepskwalificaties
 
 1.  De artikelen 8.8 tot en met 8.10 van deze regeling zijn van toepassing op de aanvraag van een migrerende beroepsbeoefenaar tot het verkrijgen van erkenning van beroepskwalificaties voor de toegang tot uitoefening van het gereglementeerde beroep beheerder van een inrichting als bedoeld in het besluit.   
-2.  Artikel 8.12 van deze regeling is van toepassing op de verklaring, bedoeld in [artikel 23 van de Algemene wet erkenning EG-beroepskwalificaties](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), en de controle, bedoeld in [artikel 27 van de Algemene wet erkenning EG-beroepskwalificaties](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), van een dienstverrichter die een gereglementeerd beroep als bedoeld in het eerste lid wenst uit te oefenen.  
+2.  Artikel 8.12 van deze regeling is van toepassing op de verklaring, bedoeld in artikel 23 van de Algemene wet erkenning EG-beroepskwalificaties, en de controle, bedoeld in artikel 27 van de Algemene wet erkenning EG-beroepskwalificaties, van een dienstverrichter die een gereglementeerd beroep als bedoeld in het eerste lid wenst uit te oefenen.  
 
 ### Artikel  8.9  
 
 ####Aanvraag erkenning beroepskwalificaties
 
-1.  Een aanvraag tot het verkrijgen van erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de Algemene wet erkenning EG-beroepskwalificaties](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md) wordt ingediend bij de minister.   
+1.  Een aanvraag tot het verkrijgen van erkenning van beroepskwalificaties als bedoeld in artikel 5 van de Algemene wet erkenning EG-beroepskwalificaties wordt ingediend bij de minister.   
 2.  Bij de aanvraag overlegt de aanvrager: 
 
-a. de documenten, bedoeld in [artikel 13, eerste lid, onderdelen a tot en met c, van de Algemene wet erkenning EG-beroepskwalificaties](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), en  
+a. de documenten, bedoeld in artikel 13, eerste lid, onderdelen a tot en met c, van de Algemene wet erkenning EG-beroepskwalificaties, en  
 
-b. indien de aanvraag en de documenten, bedoeld in [artikel 13, eerste lid, onderdelen b en c, van de Algemene wet Erkenning EG-beroepskwalificaties](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md) in een andere dan de Nederlandse, Duitse of Engelse taal zijn gesteld, een door een beëdigde tolk of vertaler opgestelde vertaling daarvan in één van deze talen.    
+b. indien de aanvraag en de documenten, bedoeld in artikel 13, eerste lid, onderdelen b en c, van de Algemene wet Erkenning EG-beroepskwalificaties in een andere dan de Nederlandse, Duitse of Engelse taal zijn gesteld, een door een beëdigde tolk of vertaler opgestelde vertaling daarvan in één van deze talen.    
 
 ### Artikel  8.10  
 
 ####Proeve van bekwaamheid
 
-Indien de aanvrager op grond van [artikel 11 van de Algemene wet erkenning EG-beroepskwalificaties](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md) een proeve van bekwaamheid moet afleggen: 
+Indien de aanvrager op grond van artikel 11 van de Algemene wet erkenning EG-beroepskwalificaties een proeve van bekwaamheid moet afleggen: 
 
 a. wordt de aanvrager schriftelijk geïnformeerd over de vakken waarop de proeve van bekwaamheid betrekking heeft, over de wijze waarop de proeve van bekwaamheid wordt afgenomen en over de kosten van de proeve;  
 
@@ -460,7 +471,7 @@ b. wordt het resultaat van de proeve van bekwaamheid zo spoedig mogelijk meegede
 
 ####Aanpassingsstage
 
-Indien de aanvrager op grond van [artikel 11 van de Algemene wet erkenning EG-beroepskwalificaties](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md) een aanpassingsstage moet doorlopen, wordt de aanvrager schriftelijk medegedeeld: 
+Indien de aanvrager op grond van artikel 11 van de Algemene wet erkenning EG-beroepskwalificaties een aanpassingsstage moet doorlopen, wordt de aanvrager schriftelijk medegedeeld: 
 
 a. de vakken waarop de aanpassingsstage betrekking heeft;  
 
@@ -472,12 +483,12 @@ c. in voorkomend geval de aanvullende opleiding die deel uitmaakt van de aanpass
 
 ####Eerste dienstverrichting
 
-1.  Een dienstverrichter als bedoeld in [artikel 21 van de Algemene wet erkenning EG-beroepskwalificaties](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md) verstrekt voorafgaand aan de eerste dienstverrichting aan de minister de volgende documenten: 
+1.  Een dienstverrichter als bedoeld in artikel 21 van de Algemene wet erkenning EG-beroepskwalificaties verstrekt voorafgaand aan de eerste dienstverrichting aan de minister de volgende documenten: 
 
-a. de documenten, bedoeld in [artikel 23, eerste en derde lid, van de Algemene wet erkenning EG-beroepskwalificaties](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), en  
+a. de documenten, bedoeld in artikel 23, eerste en derde lid, van de Algemene wet erkenning EG-beroepskwalificaties, en  
 
-b. indien de documenten, bedoeld in [artikel 23, eerste en derde lid, onderdelen b, c en d, van de Algemene wet erkenning EG-beroepskwalificaties](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md) in een andere dan de Nederlandse, Duitse of Engelse taal zijn gesteld, een door een beëdigde tolk of vertaler opgestelde vertaling daarvan in één van deze talen.     
-2.  Indien na de controle, bedoeld in [artikel 27 van de Algemene wet Erkenning EG-beroepskwalificaties](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), blijkt dat de beroepskwalificaties van dienstverrichter als bedoeld in [artikel 21 van de Algemene wet Erkenning EG-beroepskwalificaties](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md) wezenlijk verschillen van de vereiste opleiding voor de toegang tot uitoefening van het beroep beheerder van een inrichting, legt de dienstverrichter een proeve van bekwaamheid af.  
+b. indien de documenten, bedoeld in artikel 23, eerste en derde lid, onderdelen b, c en d, van de Algemene wet erkenning EG-beroepskwalificaties in een andere dan de Nederlandse, Duitse of Engelse taal zijn gesteld, een door een beëdigde tolk of vertaler opgestelde vertaling daarvan in één van deze talen.     
+2.  Indien na de controle, bedoeld in artikel 27 van de Algemene wet Erkenning EG-beroepskwalificaties, blijkt dat de beroepskwalificaties van dienstverrichter als bedoeld in artikel 21 van de Algemene wet Erkenning EG-beroepskwalificaties wezenlijk verschillen van de vereiste opleiding voor de toegang tot uitoefening van het beroep beheerder van een inrichting, legt de dienstverrichter een proeve van bekwaamheid af.  
 
 ### Hoofdstuk  9  
 
@@ -503,7 +514,7 @@ e. Siberian husky, mits bij de honden geen pijn of letsel wordt veroorzaakt en d
 
 ####Verbodsbepaling
 
-Als voorschrift van een EU-verordening als bedoeld in [artikel 6.2, eerste lid, van de wet](../../../../../../wet/wet/dieren/BWBR0030250/README.md) wordt aangewezen: artikel 18 van verordening (EG) nr. 178/2002 van het Europees Parlement en de Raad van 28 januari 2002, tot vaststelling van de algemene beginselen en voorschriften van de levensmiddelenwetgeving, tot oprichting van een Europese Autoriteit voor voedselveiligheid en tot vaststelling van procedures voor voedselveiligheidsaangelegenheden, voor houders van productiedieren die gehouden worden voor de voedselproductie (PbEG 2002 L 31). 
+Als voorschrift van een EU-verordening als bedoeld in artikel 6.2, eerste lid, van de wet wordt aangewezen: artikel 18 van verordening (EG) nr. 178/2002 van het Europees Parlement en de Raad van 28 januari 2002, tot vaststelling van de algemene beginselen en voorschriften van de levensmiddelenwetgeving, tot oprichting van een Europese Autoriteit voor voedselveiligheid en tot vaststelling van procedures voor voedselveiligheidsaangelegenheden, voor houders van productiedieren die gehouden worden voor de voedselproductie (PbEG 2002 L 31). 
 
 ### Hoofdstuk  10  
 
@@ -511,31 +522,31 @@ Als voorschrift van een EU-verordening als bedoeld in [artikel 6.2, eerste lid, 
 
 ### Artikel  10.1  
 
-####Wijziging van de [Regeling handhaving en overige zaken Wet dieren](../../../../../../ministeriele-regeling/regeling/handhaving/en/overige/zaken/wet/dieren/BWBR0032523/README.md)
+####Wijziging van de Regeling handhaving en overige zaken Wet dieren
 
 Wijzigt de Regeling handhaving en overige zaken Wet dieren. 
 
 ### Artikel  10.2  
 
-####Wijziging [Regeling diergeneesmiddelen](../../../../../../ministeriele-regeling/regeling/diergeneesmiddelen/BWBR0032626/README.md)
+####Wijziging Regeling diergeneesmiddelen
 
 Wijzigt de Regeling diergeneesmiddelen. 
 
 ### Artikel  10.3  
 
-####Wijziging [Regeling dierlijke producten](../../../../../../ministeriele-regeling/regeling/dierlijke/producten/BWBR0032462/README.md)
+####Wijziging Regeling dierlijke producten
 
 Wijzigt de Regeling dierlijke producten. 
 
 ### Artikel  10.4  
 
-####Wijziging [Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE](../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md)
+####Wijziging Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE
 
 Wijzigt de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s. 
 
 ### Artikel  10.5  
 
-####Wijziging [Tijdelijke vrijstellingsregeling enten AI-gevoelige vogels dierentuinen 2003](../../../../../../ministeriele-regeling/tijdelijke/vrijstellingsregeling/enten/ai-gevoelige/dieren/dierentuinen/etc/BWBR0014990/README.md)
+####Wijziging Tijdelijke vrijstellingsregeling enten AI-gevoelige vogels dierentuinen 2003
 
 Wijzigt de Tijdelijke vrijstellingsregeling enten AI-gevoelige vogels dierentuinen 2003. 
 
@@ -543,7 +554,7 @@ Wijzigt de Tijdelijke vrijstellingsregeling enten AI-gevoelige vogels dierentuin
 
 ####Intrekking regelingen
 
-De [Vrijstellingsregeling dierenwelzijn](../../../../../../ministeriele-regeling/vrijstellingsregeling/ingrepen/BWBR0012793/README.md) wordt ingetrokken. 
+De Vrijstellingsregeling dierenwelzijn wordt ingetrokken. 
 
 ### Hoofdstuk  11  
 
@@ -595,11 +606,25 @@ S.A.M. Dijksma
 
 ### Bijlage  4  
 
+####Protocol voor de monitoring van voetzoollaesies aan vleeskuikens in het slachthuis met behulp van een digitaal meetsysteem als bedoeld in artikel 6.5, derde lid, onderdeel a, subonderdeel 2° , van de Regeling houders van dieren
+
+1. In het slachthuis is een rapport aanwezig van een onafhankelijke kennisinstelling of instantie, waaruit blijkt dat het digitale meetsysteem zodanig werkt dat de scores een score oplevert die vergelijkbaar is met de score van een visuele beoordeling die aan de hand van de scorekaart is uitgevoerd. In het rapport is een beschrijving door de kennisinstelling of de instantie opgenomen van de wijze waarop dit is vastgesteld.  
+
+2. Het camerasysteem meet ten minste 70% van de poten van elk koppel.  
+
+3. De percentages per klasse en de eindscores worden minimaal 1 keer per werkdag door het systeem opgeleverd, door het slachthuis verwerkt en aan de pluimveeveehouder doorgegeven.  
+
+4. Het slachthuis treft maatregelen om het digitale meetsysteem en de daarbij gebruikte software te beschermen tegen willekeurige wijzigingen.  
+
+5. Het slachthuis zorgt ervoor dat het systeem zodanig wordt onderhouden dat het goed blijft functioneren. Indien het systeem gebreken of defecten vertoont meldt het slachthuis dit aan de leverancier of de fabrikant en de betrokken pluimveehouders.  
+
+### Bijlage  5  
+
 ####Protocol voor het monitoren van voetzoollaesies aan levende dieren op vleeskuikenbedrijven als bedoeld in artikel 6.5, derde lid, onderdeel b , van de Regeling houders van dieren
 
 1. Deze monitoring wordt uitgevoerd op het bedrijf zelf, maximaal 5 dagen voordat het koppel wordt geslacht. Het betreft koppels die geëxporteerd worden en waar geen meting van voetzoollaesies plaatsvindt in het slachthuis van bestemming, of koppels die in kleine slachthuizen in Nederland worden geslacht.  
 
-2. De monitoring wordt uitgevoerd door een hiervoor opgeleide controleur van een door het Productschap voor Pluimvee en Eieren erkende organisatie die vermeld staat op de website van dat productschap.  
+2. De opgeleide controleur, bedoeld in artikel 6.5 derde lid, onderdeel b, heeft in elk geval de Cursus monitoring voetzoollaesies of een gelijkwaardige cursus met goed gevolg afgesloten, en is geen werknemer van de pluimveehouder voor wie de beoordeling wordt uitgevoerd.  
 
 3. Per stal worden 100 levende vleeskuikens beoordeeld, waarbij ten minste 4 steekproeven in de stal (bijvoorbeeld 4 keer 25 dieren) worden genomen, genomen op locaties verdeeld over de stal, minimaal 2 locaties tegen de muur en de overige locaties tussen voer- en drinklijnen in. Zie voorbeeld hieronder.  
 

@@ -3,7 +3,7 @@
 ##Besluit van de Minister van Economische Zaken van 8 februari 2013, nr. WJZ / 13017588, houdende regels inzake het verlenen van mandaat, volmacht en machtiging aan de (technisch) directeuren van de keuringsdiensten (Besluit mandaat, volmacht en machtiging keuringsdiensten 2013)
 
 De Minister van Economische Zaken,  
-Gelet op [afdeling 10.1.1. van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);
+Gelet op afdeling 10.1.1. van de Algemene wet bestuursrecht;
 
 Gezien de schriftelijke instemming van de technisch directeur Stichting Kwaliteits-Controle-Bureau, de directeur Stichting Bloembollenkeuringsdienst, de directeur Stichting Nederlandse Algemene Kwaliteitsdienst Tuinbouw en de directeur Nederlandse Algemene Keuringsdienst voor zaaizaad en pootgoed voor landbouwgewassen;
 Besluit:     
@@ -35,11 +35,11 @@ i.  *de NAK:* de Stichting Nederlandse Algemene Keuringsdienst voor zaaizaad en 
 
 j.  *de keuringsdienst:* de Stichting Kwaliteits-Controle-Bureau, de Stichting Bloembollenkeuringsdienst, de Nederlandse Algemene Kwaliteitsdienst Tuinbouw of de Nederlandse Algemene Keuringsdienst voor zaaizaad en pootgoed voor landbouwgewassen;  
 
-k.  *de wet:* de [Plantenziektenwet](../../../../../../../../../wet/plantenziektenwet/BWBR0002075/README.md);  
+k.  *de wet:* de Plantenziektenwet;  
 
-l.  *het besluit:* het [Besluit bestrijding schadelijke organismen](../../../../../../../../../AMvB/besluit/bestrijding/schadelijke/organismen/BWBR0005206/README.md);  
+l.  *het besluit:* het Besluit bestrijding schadelijke organismen;  
 
-m.  *de regeling:* de [Regeling invoer, uitvoer en verkeer van planten](../../../../../../../../../ministeriele-regeling/regeling/invoer/uitvoer/en/verkeer/van/planten/BWBR0005997/README.md).   
+m.  *de regeling:* de Regeling invoer, uitvoer en verkeer van planten.   
 
 ### §  2  
 
@@ -49,53 +49,55 @@ m.  *de regeling:* de [Regeling invoer, uitvoer en verkeer van planten](../../..
 
 1.  Aan de technisch directeur KCB, de directeur BKD, de directeur Naktuinbouw en de directeur NAK wordt, ieder voor zich, mandaat, volmacht en machtiging verleend voor het nemen van beschikkingen en het verrichten van overige handelingen die verband houden met: 
 
-a. de routinematige monitoring op de aanwezigheid van schadelijke organismen op grond van [artikel 3 van de wet](../../../../../../../../../wet/plantenziektenwet/BWBR0002075/README.md) en het op verzoek van de minister verrichten van overige werkzaamheden die verband houden met de aanwezigheid van een schadelijk organisme;  
+a. de routinematige monitoring op de aanwezigheid van schadelijke organismen op grond van artikel 3 van de wet en het op verzoek van de minister verrichten van overige werkzaamheden die verband houden met de aanwezigheid van een schadelijk organisme;  
 
-b. de uitgifte van legitimatiebewijzen aan de medewerkers van het KCB, de BKD, de Naktuinbouw en de NAK die zijn aangewezen als toezichthouder bedoeld in [artikel 10 van de wet](../../../../../../../../../wet/plantenziektenwet/BWBR0002075/README.md);  
+b. de uitgifte van legitimatiebewijzen aan de medewerkers van het KCB, de BKD, de Naktuinbouw en de NAK die zijn aangewezen als toezichthouder bedoeld in artikel 10 van de wet;  
 
-c. de mededelingen en aanzeggingen, op grond van het [besluit](../../../../../../../../../AMvB/besluit/bestrijding/schadelijke/organismen/BWBR0005206/README.md), indien de keuringsdienst de vondst zelf mag afhandelen;  
+c. de mededelingen en aanzeggingen, op grond van het besluit, indien de keuringsdienst de vondst zelf mag afhandelen;  
 
-d. de toestemmingen en de aanwijzingen, op grond van het [besluit](../../../../../../../../../AMvB/besluit/bestrijding/schadelijke/organismen/BWBR0005206/README.md), indien de keuringsdienst de vondst zelf mag afhandelen;  
+d. de toestemmingen en de aanwijzingen, op grond van het besluit, indien de keuringsdienst de vondst zelf mag afhandelen;  
 
-e. het besluit, bedoeld in [artikel 2 van de Regeling bestrijding schadelijke organismen](../../../../../../../../../ministeriele-regeling/regeling/bestrijding/schadelijke/organismen/BWBR0013946/README.md), indien de keuringsdienst de vondst zelf mag afhandelen;  
+e. het besluit, bedoeld in artikel 2 van de Regeling bestrijding schadelijke organismen, indien de keuringsdienst de vondst zelf mag afhandelen;  
 
-f. het plantenpaspoort, bedoeld in [artikel 6 van de regeling](../../../../../../../../../ministeriele-regeling/regeling/invoer/uitvoer/en/verkeer/van/planten/BWBR0005997/README.md);  
+f. het plantenpaspoort, bedoeld in artikel 6 van de regeling;  
 
-g. het aanmaken, drukken of nadien bewaren van plantenpaspoorten, als bedoeld in [artikel 7, vijfde lid, van de regeling](../../../../../../../../../ministeriele-regeling/regeling/invoer/uitvoer/en/verkeer/van/planten/BWBR0005997/README.md);  
+g. het aanmaken, drukken of nadien bewaren van plantenpaspoorten, als bedoeld in artikel 7, vijfde lid, van de regeling;  
 
-h. het gebruiken van plantenpaspoorten als bedoeld in [artikel 7, zesde lid, van de regeling](../../../../../../../../../ministeriele-regeling/regeling/invoer/uitvoer/en/verkeer/van/planten/BWBR0005997/README.md);  
+h. het gebruiken van plantenpaspoorten als bedoeld in artikel 7, zesde lid, van de regeling;  
 
-i. de verklaring, bedoeld in [artikel 12, tiende lid, van de regeling](../../../../../../../../../ministeriele-regeling/regeling/invoer/uitvoer/en/verkeer/van/planten/BWBR0005997/README.md);  
+i. de verklaring, bedoeld in artikel 12, tiende lid, van de regeling;  
 
-j. het verrichten van taken als bedoeld in [artikel 15 van de regeling](../../../../../../../../../ministeriele-regeling/regeling/invoer/uitvoer/en/verkeer/van/planten/BWBR0005997/README.md) met uitzondering van de afgifte van een fytosanitair certificaat en het eindonderzoek van de voor export gereedstaande zending;  
+j. het verrichten van taken als bedoeld in artikel 15 van de regeling met uitzondering van de afgifte van een fytosanitair certificaat en het eindonderzoek van de voor export gereedstaande zending;  
 
-k. de registratie, bedoeld in [artikel 17](../../../../../../../../../ministeriele-regeling/regeling/invoer/uitvoer/en/verkeer/van/planten/BWBR0005997/README.md), dan wel de doorhaling van de registratie, bedoeld in [artikel 19, van de regeling](../../../../../../../../../ministeriele-regeling/regeling/invoer/uitvoer/en/verkeer/van/planten/BWBR0005997/README.md);  
+k. de registratie, bedoeld in artikel 17, dan wel de doorhaling van de registratie, bedoeld in artikel 19, van de regeling;  
 
-l. de vergunning voor het elektronisch aanvragen van inspecties, bedoeld in [artikel 20a, eerste lid, van de regeling](../../../../../../../../../ministeriele-regeling/regeling/invoer/uitvoer/en/verkeer/van/planten/BWBR0005997/README.md);  
+l. de vergunning voor het elektronisch aanvragen van inspecties, bedoeld in artikel 20a, eerste lid, van de regeling;  
 
-m. de besluiten, bedoeld in [artikel 20a, derde tot en met zevende lid, van de regeling](../../../../../../../../../ministeriele-regeling/regeling/invoer/uitvoer/en/verkeer/van/planten/BWBR0005997/README.md).     
-2.  Aan de directeur BKD, de directeur Naktuinbouw en de directeur NAK wordt tevens, ieder voor zich, mandaat, volmacht en machtiging verleend voor het nemen van beschikkingen en het verrichten van overige handelingen die verband houden met de verklaring, bedoeld in [artikel 12b van het besluit](../../../../../../../../../AMvB/besluit/bestrijding/schadelijke/organismen/BWBR0005206/README.md).   
-3.  Aan de technisch directeur KCB, de directeur BKD, de directeur Naktuinbouw en de directeur NAK wordt, ieder voor zich, mandaat, volmacht en machtiging verleend voor het nemen van beschikkingen en het verrichten van overige handelingen die verband houden met het verzenden van facturen voor de afgifte van een fytosanitair certificaat en het eindonderzoek van de voor export gereedstaande zending die zijn gebaseerd op door de minister vastgestelde tarieven als bedoeld in [artikel 6a van de wet](../../../../../../../../../wet/plantenziektenwet/BWBR0002075/README.md).   
-4.  Aan de directeur BKD, de directeur Naktuinbouw en de directeur NAK wordt, ieder voor zich, mandaat, volmacht en machtiging verleend voor het nemen van beschikkingen en het verrichten van overige handelingen die verband houden met het verzenden van facturen voor de verrichte werkzaamheden, bedoeld in het eerste lid, onderdelen a, f, i en j, en het tweede lid, die zijn gebaseerd op de door de minister vastgestelde tarieven als bedoeld in [artikel 6a van de wet](../../../../../../../../../wet/plantenziektenwet/BWBR0002075/README.md).   
-5.  Aan de technisch directeur KCB, de directeur BKD en de directeur Naktuinbouw en de directeur NAK wordt, ieder voor zich, mandaat, volmacht en machtiging verleend voor het nemen van beschikkingen en het verrichten van overige handelingen die verband houden met het verzenden van facturen voor de verrichte werkzaamheden voor het doen van bijschrijvingen op een certificaat ten behoeve van zendingen van producten die onder de Overeenkomst inzake de internationale handel in bedreigde in het wildlevende dier- en plantsoorten (Trb.  50 (1973) nr. 22) vallen die zijn gebaseerd op de door de minister vastgestelde tarieven als bedoeld in [artikel 6a van de wet](../../../../../../../../../wet/plantenziektenwet/BWBR0002075/README.md).   
-6.  Aan de technisch directeur KCB, wordt mandaat, volmacht en machtiging verleend voor het nemen van beschikkingen en het verrichten van overige handelingen die verband houden met het verzenden van facturen voor de werkzaamheden, bedoeld in het eerste lid, onderdelen a, f, i en j, die zijn gebaseerd op door de minister vastgestelde tarieven als bedoeld in [artikel 6a van de wet](../../../../../../../../../wet/plantenziektenwet/BWBR0002075/README.md).   
-7.  Aan de directeur NAK wordt voorts mandaat, volmacht en machtiging verleend voor het nemen van beschikkingen en het verrichten van overige handelingen die verband houden met de verklaring, bedoeld in [artikel 5](../../../../../../../../../ministeriele-regeling/regeling/bruin-/en/ringrot/2000/BWBR0011741/README.md) en [6 van de Regeling bruin- en ringrot 2000](../../../../../../../../../ministeriele-regeling/regeling/bruin-/en/ringrot/2000/BWBR0011741/README.md) alsmede het verzenden van facturen voor de verrichte inspecties die hiermee verband houden die zijn gebaseerd op de door de minister vastgestelde tarieven als bedoeld in [artikel 6a van de wet](../../../../../../../../../wet/plantenziektenwet/BWBR0002075/README.md).   
-8.  Aan de directeur Naktuinbouw wordt voorts mandaat, volmacht en machtiging verleend voor het nemen van beschikkingen en het verrichten van overige handelingen die verband houden met de aanzegging, bedoeld in [artikel 8 van het Besluit bestrijding bacterievuur 1983](../../../../../../../../../AMvB/besluit/bestrijding/bacterievuur/1983/BWBR0003641/README.md).  
+m. de besluiten, bedoeld in artikel 20a, derde tot en met zevende lid, van de regeling.     
+2.  Aan de directeur BKD, de directeur Naktuinbouw en de directeur NAK wordt tevens, ieder voor zich, mandaat, volmacht en machtiging verleend voor het nemen van beschikkingen en het verrichten van overige handelingen die verband houden met de verklaring, bedoeld in artikel 12b van het besluit.   
+3.  Aan de technisch directeur KCB, de directeur BKD, de directeur Naktuinbouw en de directeur NAK wordt, ieder voor zich, mandaat, volmacht en machtiging verleend voor het nemen van beschikkingen en het verrichten van overige handelingen die verband houden met het verzenden van facturen voor de afgifte van een fytosanitair certificaat en het eindonderzoek van de voor export gereedstaande zending die zijn gebaseerd op door de minister vastgestelde tarieven als bedoeld in artikel 6a van de wet.   
+4.  Aan de directeur BKD, de directeur Naktuinbouw en de directeur NAK wordt, ieder voor zich, mandaat, volmacht en machtiging verleend voor het nemen van beschikkingen en het verrichten van overige handelingen die verband houden met het verzenden van facturen voor de verrichte werkzaamheden, bedoeld in het eerste lid, onderdelen a, f, i en j, en het tweede lid, die zijn gebaseerd op de door de minister vastgestelde tarieven als bedoeld in artikel 6a van de wet.   
+5.  Aan de technisch directeur KCB, de directeur BKD en de directeur Naktuinbouw en de directeur NAK wordt, ieder voor zich, mandaat, volmacht en machtiging verleend voor het nemen van beschikkingen en het verrichten van overige handelingen die verband houden met het verzenden van facturen voor de verrichte werkzaamheden voor het doen van bijschrijvingen op een certificaat ten behoeve van zendingen van producten die onder de Overeenkomst inzake de internationale handel in bedreigde in het wildlevende dier- en plantsoorten (Trb.  50 (1973) nr. 22) vallen die zijn gebaseerd op de door de minister vastgestelde tarieven als bedoeld in artikel 6a van de wet.   
+6.  Aan de technisch directeur KCB, wordt mandaat, volmacht en machtiging verleend voor het nemen van beschikkingen en het verrichten van overige handelingen die verband houden met het verzenden van facturen voor de werkzaamheden, bedoeld in het eerste lid, onderdelen a, f, i en j, die zijn gebaseerd op door de minister vastgestelde tarieven als bedoeld in artikel 6a van de wet.   
+7.  Aan de directeur NAK wordt voorts mandaat, volmacht en machtiging verleend voor het nemen van beschikkingen en het verrichten van overige handelingen die verband houden met de verklaring, bedoeld in artikel 5 en 6 van de Regeling bruin- en ringrot 2000 alsmede het verzenden van facturen voor de verrichte inspecties die hiermee verband houden die zijn gebaseerd op de door de minister vastgestelde tarieven als bedoeld in artikel 6a van de wet.   
+8.  Aan de directeur Naktuinbouw wordt voorts mandaat, volmacht en machtiging verleend voor het nemen van beschikkingen en het verrichten van overige handelingen die verband houden met de aanzegging, bedoeld in artikel 8 van het Besluit bestrijding bacterievuur 1983.  
 
 ### Artikel  3  
 
-1.  Aan de technisch directeur KCB en de directeur van de BKD wordt, ieder voor zich, mandaat, volmacht en machtiging verleend voor het nemen van beschikkingen en het verrichten van overige handelingen die verband houden met het besluit tot oplegging van een last onder bestuursdwang als bedoeld in [artikel 19 van de Landbouwkwaliteitswet](../../../../../../../../../wet/landbouwkwaliteitswet/BWBR0002755/README.md), aangaande groenten, fruit, bananen, krenten en rozijnen, teeltmateriaal van bloembollen alsmede de hiermee samenhangende besluiten.   
-2.  Aan de directeur van Naktuinbouw en aan de directeur van NAK wordt, ieder voor zich, mandaat, volmacht en machtiging verleend voor het nemen van beschikkingen en het verrichten van overige handelingen die verband houden met het besluit tot oplegging van een last onder bestuursdwang als bedoeld in [artikel 93 van de Zaaizaad en plantgoedwet 2005](../../../../../../../../../wet/zaaizaad-/en/plantgoedwet/2005/BWBR0018040/README.md), aangaande het teeltmateriaal van tuinbouwgewassen en landbouwgewassen, alsmede de hiermee samenhangende besluiten.  
+1.  Aan de technisch directeur KCB wordt mandaat, volmacht en machtiging verleend voor het nemen van beschikkingen en het verrichten van overige handelingen die verband houden met het besluit tot oplegging van een last onder bestuursdwang als bedoeld in artikel 19 van de Landbouwkwaliteitswet, aangaande groenten, fruit, bananen, krenten en rozijnen, alsmede de hiermee samenhangende besluiten.   
+2.  Aan de directeur van de BKD wordt mandaat, volmacht en machtiging verleend voor het nemen van beschikkingen en het verrichten van overige handelingen die verband houden met het besluit tot oplegging van een last onder bestuursdwang als bedoeld in artikel 19 van de Landbouwkwaliteitswet, aangaande het teeltmateriaal van bloembollen, alsmede de hiermee samenhangende besluiten.   
+3.  Aan de directeur van Naktuinbouw wordt mandaat, volmacht en machtiging verleend voor het nemen van beschikkingen en het verrichten van overige handelingen die verband houden met het besluit tot oplegging van een last onder bestuursdwang als bedoeld in artikel 93 van de Zaaizaad- en plantgoedwet 2005, aangaande het teeltmateriaal van tuinbouwgewassen, alsmede de hiermee samenhangende besluiten.   
+4.  Aan de directeur van NAK wordt mandaat, volmacht en machtiging verleend voor het nemen van beschikkingen en het verrichten van overige handelingen die verband houden met het besluit tot oplegging van een last onder bestuursdwang als bedoeld in artikel 93 van de Zaaizaad- en plantgoedwet 2005, aangaande het teeltmateriaal en de teelt van landbouwgewassen, alsmede de hiermee samenhangende besluiten.  
 
 ### Artikel  4  
 
-Aan de technisch directeur KCB, de directeur BKD, de directeur Naktuinbouw en de directeur NAK wordt, ieder voor zich, mandaat en machtiging verleend voor het besluit tot toepassing van [artikel 12, eerste lid, van de wet](../../../../../../../../../wet/plantenziektenwet/BWBR0002075/README.md) voor zover het de verplichting tot het verlenen van medewerking van een krachtens [artikel 10 van de wet](../../../../../../../../../wet/plantenziektenwet/BWBR0002075/README.md) aangewezen functionaris betreft. 
+Aan de technisch directeur KCB, de directeur BKD, de directeur Naktuinbouw en de directeur NAK wordt, ieder voor zich, mandaat en machtiging verleend voor het besluit tot toepassing van artikel 12, eerste lid, van de wet voor zover het de verplichting tot het verlenen van medewerking van een krachtens artikel 10 van de wet aangewezen functionaris betreft. 
 
 ### Artikel  5  
 
-1.  Aan de technisch directeur KCB, de directeur BKD, de directeur Naktuinbouw en de directeur NAK wordt, ieder voor zich, machtiging verleend voor het mededelen van de uitslagen van de onderzoeken als bedoeld in [artikel 12, eerste lid, van de regeling](../../../../../../../../../ministeriele-regeling/regeling/invoer/uitvoer/en/verkeer/van/planten/BWBR0005997/README.md).   
-2.  Aan de technisch directeur KCB, de directeur BKD, de directeur Naktuinbouw en de directeur NAK wordt voorts, ieder voor zich, machtiging verleend voor het verrichten van overige handelingen als bedoeld in [artikel 20b van de regeling](../../../../../../../../../ministeriele-regeling/regeling/invoer/uitvoer/en/verkeer/van/planten/BWBR0005997/README.md).   
-3.  Aan de technisch directeur KCB, de directeur BKD, de directeur Naktuinbouw en de directeur NAK wordt tevens, ieder voor zich, machtiging verleend voor het kenmerken of het onder verzegeling brengen als bedoeld in [artikel 15 van het besluit](../../../../../../../../../AMvB/besluit/bestrijding/schadelijke/organismen/BWBR0005206/README.md).  
+1.  Aan de technisch directeur KCB, de directeur BKD, de directeur Naktuinbouw en de directeur NAK wordt, ieder voor zich, machtiging verleend voor het mededelen van de uitslagen van de onderzoeken als bedoeld in artikel 12, eerste lid, van de regeling.   
+2.  Aan de technisch directeur KCB, de directeur BKD, de directeur Naktuinbouw en de directeur NAK wordt voorts, ieder voor zich, machtiging verleend voor het verrichten van overige handelingen als bedoeld in artikel 20b van de regeling.   
+3.  Aan de technisch directeur KCB, de directeur BKD, de directeur Naktuinbouw en de directeur NAK wordt tevens, ieder voor zich, machtiging verleend voor het kenmerken of het onder verzegeling brengen als bedoeld in artikel 15 van het besluit.  
 
 ### Artikel  6  
 
@@ -132,11 +134,11 @@ De uit dit besluit voor de technisch directeur KCB, de directeur BKD, de directe
 
 De volgende besluiten worden ingetrokken: 
 
-a.het [Mandaatbesluit Stichting Bloembollenkeuringsdienst](../../../../../../../../../ministeriele-regeling/mandaatsbesluit/stichting/bloembollenkeuringsdienst/BWBR0011306/README.md), kenmerk TRCJZ/2000/3487, van 14 april 2000 (Stcrt. 2000, 76);
+a.het Mandaatbesluit Stichting Bloembollenkeuringsdienst, kenmerk TRCJZ/2000/3487, van 14 april 2000 (Stcrt. 2000, 76);
 
 b.het Mandaat Nederlandse Algemene Kwaliteitsdienst Tuinbouw en Nederlandse Algemene Keuringsdienst voor zaaizaad en pootgoed van landbouwgewassen, kenmerk TRCJZ/2001/1194, van 1 februari 2001 (Stcrt. 2001, 25);
 
-c.het [Besluit mandaat keuringsdiensten](../../../../../../../../../ministeriele-regeling/besluit/mandaat/keuringsdiensten/BWBR0022459/README.md).
+c.het Besluit mandaat keuringsdiensten.
 
 ### Artikel  11  
 

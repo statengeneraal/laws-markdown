@@ -3,7 +3,7 @@
 ##Regeling ter uitvoering van de Wet openbaarheid van bestuur Volkshuisvesting Ruimtelijke Ordening en Milieubeheer
 
 De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,  
-Gelet op [artikel 14 van de Wet openbaarheid van bestuur](../../../../../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) (Stb. 1991, 703), alsmede de [Aanwijzingen inzake openbaarheid van bestuur](../../../../../../../../../../../../ministeriele-regeling/circulaire/van/8/april/1992/BWBR0005469/README.md), vastgesteld bij besluit van de Minister-President van 8 april 1992, nr. 92M001858 (Stcrt. 84);
+Gelet op artikel 14 van de Wet openbaarheid van bestuur (Stb. 1991, 703), alsmede de Aanwijzingen inzake openbaarheid van bestuur, vastgesteld bij besluit van de Minister-President van 8 april 1992, nr. 92M001858 (Stcrt. 84);
 Besluit:     
 ### Hoofdstuk  I  
 
@@ -11,7 +11,7 @@ Besluit:
 
 ####Definities
 
-In deze regeling wordt verstaan onder:   *de wet:*   de [Wet openbaarheid van bestuur](../../../../../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md);    *de gemachtigd ambtenaar:*   een ambtenaar die door de minister tot het beslissen over verzoeken om informatie is gemachtigd;    *informatiepunt:*   een persoon of een plaats binnen het ministerie en binnen de daaronder ressorterende instellingen, diensten of bedrijven waar informatie kan worden verkregen;    *de minister:*   de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;    *De WOB-contactfunctionaris:*   de ambtenaar die krachtens artikel 3, tweede lid, is aangewezen.    
+In deze regeling wordt verstaan onder:   *de wet:*   de Wet openbaarheid van bestuur;    *de gemachtigd ambtenaar:*   een ambtenaar die door de minister tot het beslissen over verzoeken om informatie is gemachtigd;    *informatiepunt:*   een persoon of een plaats binnen het ministerie en binnen de daaronder ressorterende instellingen, diensten of bedrijven waar informatie kan worden verkregen;    *de minister:*   de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;    *De WOB-contactfunctionaris:*   de ambtenaar die krachtens artikel 3, tweede lid, is aangewezen.    
 
 ### Artikel  2  
 
@@ -24,7 +24,7 @@ a. de onder verantwoordelijkheid van de minister werkzame instellingen, diensten
 b. de niet-ambtelijke adviescommissies.    
 2.  Het register vermeldt de naam, adressen en informatiepunten van de instellingen, diensten en bedrijven.   
 3.  Het register ligt voor een ieder ter inzage bij het Bureau Persoonlijke Voorlichting van de Directie Voorlichting en Externe Betrekkingen en de bibliotheek van het ministerie.   
-4.  Met het bijhouden van het register is belast de [WOB](../../../../../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md)-contactfunctionaris.  
+4.  Met het bijhouden van het register is belast de WOB-contactfunctionaris.  
 
 ### Artikel  3  
 
@@ -48,16 +48,6 @@ b. de niet-ambtelijke adviescommissies.
 
 1.  Het behandelen van verzoeken om informatie en vragen daaromtrent geschiedt door de dienstonderdelen die met voorlichting zijn belast, voor zover het niet door de bewindspersonen zelf geschiedt, of door hen in bepaalde gevallen aan anderen is opgedragen.   
 2.  Het in het eerste lid gestelde doet geen afbreuk aan de uit de normale taakuitvoering voortvloeiende plicht van de ambtenaar om aan particuliere personen en instanties met wie hij door zijn functie in contact komt, informatie op verzoek te verschaffen over de daarbij aan de orde zijnde aangelegenheden.  
-
-### Artikel  6  
-
-De dienstonderdelen en ambtenaren, bedoeld in artikel 5, leiden via de [WOB](../../../../../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md)-contactfunctionaris een verzoek om informatie ter beslissing door naar de gemachtigd ambtenaar, indien zij: 
-
-a. in geval van een mondeling verzoek om informatie van oordeel zijn dat het verzoek op grond van de bij of krachtens de wet gestelde regels niet kan worden ingewilligd en de verzoeker om een schriftelijke beslissing vraagt; 
-
-b. weten of redelijkerwijs kunnen vermoeden dat de geldende voorschriften ruimte laten voor verschillende uitleg over de vraag of een verzoek om informatie al dan niet behoort te worden ingewilligd; 
-
-c. weten of redelijkerwijs kunnen vermoeden dat inwilliging of weigering van een verzoek om informatie belangrijke maatschappelijke of politieke gevolgen kan hebben.  
 
 ### Artikel  7  
 
@@ -101,7 +91,7 @@ De
 Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
 J. G. M. Alders     
 
-####Register als bedoeld in [artikel 2, eerste lid, van de Regeling ter uitvoering van de Wet openbaarheid van bestuur](../../../../../../../../../../../../ministeriele-regeling/regeling/ter/uitvoering/van/de/wet/openbaarheid/van/bestuur/BWBR0005461/README.md)
+####Register als bedoeld in artikel 2, eerste lid, van de Regeling ter uitvoering van de Wet openbaarheid van bestuur
 
 I. Onder verantwoordelijkheid van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer zijn de volgende instellingen, diensten en bedrijven werkzaam: Geen. 
 

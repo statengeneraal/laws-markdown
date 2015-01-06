@@ -27,7 +27,7 @@ a.het loon is onderworpen aan een belasting naar het inkomen die door of vanwege
 
 b.het loon niet op grond van een verdrag ter voorkoming van dubbele belasting of op grond van enige andere regel van interregionaal of internationaal recht in feite slechts in Nederland aan een belasting naar het inkomen is onderworpen. 
 5.  Het eerste lid is eveneens niet van toepassing op personen die niet in Nederland wonen, met betrekking tot een gedeeltelijk, maar niet nagenoeg geheel buiten Nederland vervulde dienstbetrekking, anders dan de dienstbetrekkingen die in het derde lid, eerste volzin, zijn genoemd, voorzover het loon uit die dienstbetrekking met inachtneming van verdragen waarbij de Staat der Nederlanden partij is, feitelijk is onderworpen aan een belasting naar het inkomen die door of vanwege Aruba, Curaçao, Sint Maarten, de BES eilanden of een andere mogendheid wordt geheven.  
-6. Het eerste lid is eveneens niet van toepassing op personen die als vrijwilliger uitsluitend vergoedingen of verstrekkingen ontvangen met een gezamenlijke waarde van ten hoogste € 150 per maand en € 1 500 per kalenderjaar. Hierbij wordt onder vrijwilliger verstaan degene die niet bij wijze van beroep arbeid verricht voor een algemeen nut beogende instelling, een sportorganisatie of een niet als zodanig aan te merken lichaam dat niet is onderworpen aan de vennootschapsbelasting of daarvan is vrijgesteld. Het desbetreffende lichaam is gehouden volgens ministeriële regeling te stellen regels opgave te doen van gegevens waarvan de kennisneming voor de uitvoering van de Wet werk en bijstand, van belang is.  
+6. Het eerste lid is eveneens niet van toepassing op personen die als vrijwilliger uitsluitend vergoedingen of verstrekkingen ontvangen met een gezamenlijke waarde van ten hoogste € 150 per maand en € 1 500 per kalenderjaar. Hierbij wordt onder vrijwilliger verstaan degene die niet bij wijze van beroep arbeid verricht voor een algemeen nut beogende instelling, een sportorganisatie of een niet als zodanig aan te merken lichaam dat niet is onderworpen aan de vennootschapsbelasting of daarvan is vrijgesteld. Het desbetreffende lichaam is gehouden volgens ministeriële regeling te stellen regels opgave te doen van gegevens waarvan de kennisneming voor de uitvoering van de Participatiewet, van belang is.  
 7.   Krachtens wettelijk vruchtgenot aan een kind ontleend loon wordt geacht door het kind te zijn genoten.   
 8.   Loon in de vorm van periodieke uitkeringen welke van publiekrechtelijke aard zijn, kan in het kalenderjaar waarin de verstrekking van die uitkeringen aanvangt dan wel eindigt volgens bij ministeriële regeling te stellen regels worden geacht niet te zijn genoten door de werknemer doch door zijn partner in de zin van artikel 1.2 van de Wet inkomstenbelasting 2001.   
 
@@ -64,7 +64,7 @@ b. degene, die de onder *a* bedoelde persoon als hulp bij het verrichten van de 
 
 c. degene, die een tak van sport op topniveau beoefent en ter zake daarvan een inkomensvoorziening of een kostenvergoeding geniet;  
 
-d. degene, die arbeid verricht ten behoeve van een lichaam waarin hij of zijn partner als bedoeld in artikel 12a, vierde lid, onderdeel a, een aanmerkelijk belang heeft in de zin van de Wet inkomstenbelasting 2001;  
+d. degene, die arbeid verricht ten behoeve van een lichaam waarin hij of zijn partner als bedoeld in artikel 12a, vijfde lid, onderdeel a, een aanmerkelijk belang heeft in de zin van de Wet inkomstenbelasting 2001;  
 
 e. degene, die tegen beloning persoonlijk arbeid verricht en wiens arbeidsverhouding niet reeds ingevolge de voorgaande bepalingen als dienstbetrekking wordt beschouwd, doch hiermede maatschappelijk gelijk kan worden gesteld;   
 
@@ -216,15 +216,13 @@ b. voorzover de gage wordt ontvangen van een derde: deze derde.
 2.   Tot het loon behoren aanspraken om na verloop van tijd of onder een voorwaarde een of meer uitkeringen of verstrekkingen te ontvangen.    
 3.  Onder aanspraken worden mede verstaan rechten op geheel of gedeeltelijk betaald verlof.  
 4. Tot het loon behoren uitkeringen en verstrekkingen ingevolge een tot het loon behorende aanspraak voor zover de aanspraak in afwijking van hetgeen bij of krachtens deze wet is bepaald, bij de bepaling van de verschuldigde belasting niet als loon in aanmerking is genomen.
-5.  Onverminderd de omstandigheid dat de inhoudingsplichtige ingevolge artikel 32ba, artikel 32bb of artikel 32bc de aldaar bedoelde belasting is verschuldigd en de bedragen die worden ingehouden als bijdrage ingevolge een in artikel 32ba bedoelde regeling tot het loon behoren, behoren tot het loon: 
+5.  Onverminderd de omstandigheid dat de inhoudingsplichtige ingevolge artikel 32ba of artikel 32bb de aldaar bedoelde belasting is verschuldigd en de bedragen die worden ingehouden als bijdrage ingevolge een in artikel 32ba bedoelde regeling tot het loon behoren, behoren tot het loon: 
 
 a.uitkeringen en verstrekkingen uit een voordien niet tot het loon gerekende aanspraak ingevolge een regeling voor vervroegde uittreding in de zin van artikel 32ba;
 
-b.vertrekvergoedingen als bedoeld in artikel 32bb, met uitzondering van vertrekvergoedingen als bedoeld in artikel 32bb, vijfde of zesde lid;
+b.vertrekvergoedingen als bedoeld in artikel 32bb, met uitzondering van vertrekvergoedingen als bedoeld in artikel 32bb, vijfde lid;
 
-c.hetgeen wordt genoten ter zake van de uitoefening of vervreemding van een aandelenoptierecht als bedoeld in artikel 32bb, vijfde lid;
-
-d.uitkeringen en verstrekkingen uit een voordien niet tot het loon gerekende aanspraak ingevolge een pensioenregeling als bedoeld in artikel 32bc.
+c.hetgeen wordt genoten ter zake van de uitoefening of vervreemding van een aandelenoptierecht als bedoeld in artikel 32bb, vijfde lid.
 
 ### Artikel  10a  
 
@@ -307,7 +305,7 @@ s. hetgeen wordt genoten ter zake van het verrichten van arbeid in de ondernemin
 
 Tot het loon behoren voorts mede niet: 
 
-a. een premie als bedoeld in artikel 31, tweede lid, onderdeel j, van de Wet werk en bijstand, mits in het jaar waarin de premie is verstrekt geen vergoeding is verstrekt als bedoeld in artikel 31, tweede lid, onderdeel k, van de Wet werk en bijstand;  
+a. een premie als bedoeld in artikel 31, tweede lid, onderdeel j, van de Participatiewet, mits in het jaar waarin de premie is verstrekt geen vergoeding is verstrekt als bedoeld in artikel 31, tweede lid, onderdeel k, van de Participatiewet;  
 
 b. een bij ministeriële regeling, zonodig onder het stellen van voorwaarden, aan te wijzen premie die naar aard en strekking overeenkomt met een premie als bedoeld in onderdeel a.  
 
@@ -325,15 +323,35 @@ Bij ministeriële regeling kunnen, in overeenstemming met Onze Minister van Soci
 
 ### Artikel  12a  
 
-1. Ten aanzien van de werknemer die arbeid verricht ten behoeve van een lichaam waarin hij of zijn partner een aanmerkelijk belang heeft, wordt het in een kalenderjaar van dat lichaam genoten loon ten minste gesteld op € 44.000 dan wel, indien aannemelijk is dat ter zake van soortgelijke dienstbetrekkingen waarbij een aanmerkelijk belang geen rol speelt, in het economische verkeer een lager loon gebruikelijk is, gesteld op dat lagere loon. Indien aannemelijk is dat ter zake van soortgelijke dienstbetrekkingen waarbij een aanmerkelijk belang geen rol speelt, in het economische verkeer een hoger loon gebruikelijk is, wordt het loon gesteld op een zodanig bedrag dat het niet meer in belangrijke mate afwijkt van hetgeen gebruikelijk is, met dien verstande dat – indien bij het lichaam of daarmee verbonden lichamen ook andere werknemers in dienst zijn – het niet lager wordt gesteld dan het hoogste loon van de overige werknemers. Ingeval aannemelijk is dat het loon, gelet op wat gebruikelijk is in het economische verkeer waarbij een aanmerkelijk belang geen rol speelt, op een lager bedrag behoort te worden gesteld dan het hoogste loon van de overige werknemers wordt het, in afwijking in zoverre van de vorige volzin, op een zodanig bedrag gesteld dat het niet meer in belangrijke mate afwijkt van hetgeen gebruikelijk is. Het loon wordt nimmer op een lager bedrag gesteld dan het bedrag ingevolge de eerste volzin.  
-2.  Indien artikel 32d van toepassing is op het door een of meer lichamen verschuldigde loon, wordt het eerste lid toegepast alsof de ten behoeve van deze andere lichamen verrichte arbeid is verricht ten behoeve van de inhoudingsplichtige die ingevolge artikel 32d geacht wordt het loon te verstrekken.   
-3.  Het eerste lid is niet van toepassing indien het bij toepassing van het eerste en tweede lid vast te stellen loon voor de arbeid in het lichaam, bedoeld in het eerste lid, en – als het lichaam tot een concern behoort – de tot hetzelfde concern behorende andere lichamen, in het kalenderjaar niet hoger is dan € 5000.   
-4.  Voor de toepassing van dit artikel wordt verstaan onder: 
+1.  Ten aanzien van de werknemer die arbeid verricht ten behoeve van een lichaam waarin hij of zijn partner een aanmerkelijk belang heeft, wordt het in het kalenderjaar van dat lichaam genoten loon ten minste gesteld op het hoogste van de volgende bedragen: 
+
+a. 75% van het loon uit de meest vergelijkbare dienstbetrekking;  
+
+b. het hoogste loon van de werknemers die in dienst zijn van het lichaam, bedoeld in de aanhef, of met het lichaam verbonden lichamen;  
+
+c. € 44.000.     
+2.  Indien de inhoudingsplichtige aannemelijk maakt dat het hoogste bedrag, bedoeld in het eerste lid, hoger is dan 75% van het loon uit de meest vergelijkbare dienstbetrekking, wordt het loon in afwijking van het eerste lid gesteld op 75% van het loon uit de meest vergelijkbare dienstbetrekking, met dien verstande dat het loon ten minste wordt gesteld op het bedrag, genoemd in het eerste lid, onderdeel c, of, indien het loon uit de meest vergelijkbare dienstbetrekking lager is dan dat bedrag, op het loon uit de meest vergelijkbare dienstbetrekking.  
+3.  Indien artikel 32d van toepassing is op het door een of meer lichamen verschuldigde loon, worden het eerste en het tweede lid toegepast alsof de ten behoeve van deze andere lichamen verrichte arbeid is verricht ten behoeve van de inhoudingsplichtige die ingevolge artikel 32d geacht wordt het loon te verstrekken.   
+4.  Het eerste en het tweede lid zijn niet van toepassing indien het bij toepassing van het eerste tot en met derde lid vast te stellen loon voor de arbeid in het lichaam, bedoeld in het eerste lid, en met het lichaam verbonden lichamen in het kalenderjaar niet hoger is dan € 5.000.   
+5.  Voor de toepassing van dit artikel wordt verstaan onder: 
 
 a. partner: een in artikel 3.91, tweede lid, onderdeel b, onder 1°, van de Wet inkomstenbelasting 2001 aangeduide persoon;  
 
-b. een aanmerkelijk belang: een aanmerkelijk belang in de zin van de Wet inkomstenbelasting 2001.     
-5. Het in het eerste lid vermelde bedrag wordt bij het begin van het kalenderjaar bij ministeriële regeling vervangen door een ander. Dit bedrag wordt berekend door het te vervangen bedrag te vermenigvuldigen met de tabelcorrectiefactor van artikel 10.2 van de Wet inkomstenbelasting 2001 en vervolgens de nodig geachte afronding aan te brengen. Indien in het voorafgaande jaar een dergelijke afronding is toegepast, kan bij vervanging worden uitgegaan van het niet-afgeronde bedrag.
+b. een aanmerkelijk belang: een aanmerkelijk belang in de zin van de Wet inkomstenbelasting 2001;  
+
+c. meest vergelijkbare dienstbetrekking: de dienstbetrekking die van alle dienstbetrekkingen: 
+
+1°. waarbij een aanmerkelijk belang geen rol speelt;  
+
+2°. die bekend zijn bij de inhoudingsplichtige en de inspecteur;  
+
+3°. waarvan het loon bekend is of in redelijkheid geschat kan worden; en  
+
+4°. waarvan het loon niet op een ander bedrag is vastgesteld dan in het economische verkeer gebruikelijk is;   het meest vergelijkbaar is met de dienstbetrekking van de werknemer, bedoeld in het eerste lid, aanhef;  
+
+d. met het lichaam verbonden lichamen: met het lichaam verbonden vennootschappen als bedoeld in artikel 10a, zevende lid.    
+6.  De inspecteur die aannemelijk maakt dat 75% van het loon uit de meest vergelijkbare dienstbetrekking hoger is dan het bedrag waarop het loon door de inhoudingsplichtige gesteld is, overlegt aan de inhoudingsplichtige ten minste de criteria op basis waarvan de inspecteur heeft vastgesteld dat de door de inspecteur aangedragen dienstbetrekking de meest vergelijkbare dienstbetrekking is.  
+7. Het in het eerste lid vermelde bedrag wordt bij het begin van het kalenderjaar bij ministeriële regeling vervangen door een ander. Dit bedrag wordt berekend door het te vervangen bedrag te vermenigvuldigen met de tabelcorrectiefactor van artikel 10.2 van de Wet inkomstenbelasting 2001 en vervolgens de nodig geachte afronding aan te brengen. Indien in het voorafgaande jaar een dergelijke afronding is toegepast, kan bij vervanging worden uitgegaan van het niet-afgeronde bedrag.
 
 ### Artikel  13  
 
@@ -359,18 +377,13 @@ d. het genot van een in het kader van de dienstbetrekking ter beschikking gestel
 a. 25% van de waarde van de auto indien de auto niet meer dan 15 jaar geleden voor het eerst in gebruik is genomen;  
 
 b. 35% van de waarde van de auto indien de auto meer dan 15 jaar geleden voor het eerst in gebruik is genomen.  De auto wordt in ieder geval geacht ook voor privé-doeleinden ter beschikking te zijn gesteld tenzij blijkt dat de auto op kalenderjaarbasis voor niet meer dan 500 kilometer voor privé-doeleinden wordt gebruikt. 
-2.  Indien de auto wordt aangedreven door een motor met compressieontsteking, wordt het voordeel, bedoeld in het eerste lid, eerste volzin, op kalenderjaarbasis verlaagd met: 
+2.  Het voordeel, bedoeld in het eerste lid, eerste volzin, wordt op jaarbasis verlaagd met: 
 
-a. 11% van de waarde van de auto indien de CO<sub>2</sub>-uitstoot niet hoger is dan 85 gram per kilometer, en  
+a. 11% van de waarde van de auto indien de CO<sub>2</sub>-uitstoot niet hoger is dan 82 gram per kilometer;  
 
-b. 5% van de waarde van de auto indien de CO<sub>2</sub>-uitstoot hoger is dan 85 gram per kilometer, maar niet hoger is dan 111 gram per kilometer.   In afwijking van de eerste volzin wordt het voordeel, bedoeld in het eerste lid, eerste volzin, tot 1 januari 2016 op kalenderjaarbasis verlaagd met 21% van de waarde van de auto indien de CO<sub>2</sub>-uitstoot 0 gram per kilometer is en met 18% van de waarde van de auto indien de CO<sub>2</sub>-uitstoot hoger is dan 0 gram per kilometer, maar niet hoger is dan 50 gram per kilometer.  
-3.  Indien de auto niet wordt aangedreven door een motor met compressieontsteking, wordt het voordeel, bedoeld in het eerste lid, eerste volzin, op kalenderjaarbasis verlaagd met: 
-
-a. 11% van de waarde van de auto indien de CO<sub>2</sub>-uitstoot niet hoger is dan 88 gram per kilometer, en  
-
-b. 5% van de waarde van de auto indien de CO<sub>2</sub>-uitstoot hoger is dan 88 gram per kilometer, maar niet hoger is dan 117 gram per kilometer.   In afwijking van de eerste volzin wordt het voordeel, bedoeld in het eerste lid, eerste volzin, tot 1 januari 2016 op kalenderjaarbasis verlaagd met 21% van de waarde van de auto indien de CO<sub>2</sub>-uitstoot 0 gram per kilometer is en met 18% van de waarde van de auto indien de CO<sub>2</sub>-uitstoot hoger is dan 0 gram per kilometer, maar niet hoger is dan 50 gram per kilometer. 
-4. Indien uit een rittenregistratie of anderszins blijkt dat de auto op kalenderjaarbasis voor niet meer dan 500 kilometer voor privé-doeleinden wordt gebruikt, wordt het voordeel gesteld op nihil. 
-5. Voor de toepassing van dit artikel en de daarop berustende bepalingen wordt onder auto verstaan een personenauto of bestelauto als bedoeld in artikel 3 van de Wet op de belasting van personenauto's en motorrijwielen 1992, met uitzondering van de bestelauto die door aard of inrichting uitsluitend of nagenoeg uitsluitend geschikt blijkt te zijn voor vervoer van goederen en met uitzondering van de bestelauto die buiten de werktijd niet gebruikt kan worden of de bestelauto waarvoor een verbod op privé-gebruik geldt. Van een dergelijk verbod op privé-gebruik is sprake indien:
+b. 5% van de waarde van de auto indien de CO<sub>2</sub>-uitstoot hoger is dan 82 gram per kilometer, maar niet hoger dan 110 gram per kilometer.   In afwijking van de eerste volzin wordt het voordeel, bedoeld in het eerste lid, eerste volzin, tot 1 januari 2016 op kalenderjaarbasis verlaagd met 21% van de waarde van de auto indien de CO<sub>2</sub>-uitstoot 0 gram per kilometer is en met 18% van de waarde van de auto indien de CO<sub>2</sub>-uitstoot hoger is dan 0 gram per kilometer, maar niet hoger is dan 50 gram per kilometer.   
+3. Indien uit een rittenregistratie of anderszins blijkt dat de auto op kalenderjaarbasis voor niet meer dan 500 kilometer voor privé-doeleinden wordt gebruikt, wordt het voordeel gesteld op nihil. 
+4. Voor de toepassing van dit artikel en de daarop berustende bepalingen wordt onder auto verstaan een personenauto of bestelauto als bedoeld in artikel 3 van de Wet op de belasting van personenauto's en motorrijwielen 1992, met uitzondering van de bestelauto die door aard of inrichting uitsluitend of nagenoeg uitsluitend geschikt blijkt te zijn voor vervoer van goederen en met uitzondering van de bestelauto die buiten de werktijd niet gebruikt kan worden of de bestelauto waarvoor een verbod op privé-gebruik geldt. Van een dergelijk verbod op privé-gebruik is sprake indien:
 
 a.het verbod schriftelijk is vastgelegd;
 
@@ -379,23 +392,23 @@ b.de inhoudingsplichtige de vastlegging van het verbod bij de loonadministratie 
 c.de inhoudingsplichtige voldoende toezicht houdt op de naleving van het verbod, en
 
 d.de inhoudingsplichtige een passende sanctie oplegt indien het verbod wordt overtreden.
-6. Voor de toepassing van dit artikel is de CO<sub>2</sub>-uitstoot van een auto, de CO<sub>2</sub>-uitstoot gemeten overeenkomstig bijlage XII bij Verordening (EG) nr. 692/2008 van de Commissie van 18 juli 2008 tot uitvoering en wijziging van Verordening (EG) nr. 715/2007 van het Europees Parlement en de Raad betreffende de type goedkeuring van motorvoertuigen met betrekking tot emissies van lichte personen- en bedrijfsvoertuigen (Euro 5 en Euro 6) en de toegang tot reparatie- en onderhoudsinformatie (PbEU 2008, L 199). Indien de meting mede met LPG of aardgas als brandstof is uitgevoerd, wordt de CO<sub>2</sub>-uitstoot van de auto met LPG of aardgas als brandstofsoort gehanteerd. 
-7. Bij ministeriële regeling kunnen regels worden gesteld waaraan een rittenregistratie moet voldoen. Tevens kunnen regels worden gesteld over het anderszins laten blijken dat de auto op kalenderjaarbasis voor niet meer dan 500 kilometer voor privé-doeleinden wordt gebruikt. 
-8. Voor de toepassing van dit artikel wordt de waarde van de auto gesteld op de catalogusprijs in de zin van artikel 9 van de Wet op de belasting van personenauto’s en motorrijwielen 1992 vermeerderd met de belasting van personenauto’s en motorrijwielen ingevolge de artikelen 9 tot en met 9c van genoemde wet. In afwijking in zoverre van de eerste volzin wordt de waarde van een auto die meer dan vijftien jaar geleden voor het eerst in gebruik is genomen, gesteld op de waarde in het economische verkeer. 
-9. Het voordeel wordt in aanmerking genomen voorzover het uitgaat boven de vergoeding die de werknemer voor het gebruik voor privé-doeleinden is verschuldigd. 
-10. Voor de toepassing van dit artikel wordt woon-werkverkeer geacht niet voor privé-doeleinden plaats te vinden. 
-11. Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de loontijdvakken waarin het in het eerste lid bedoelde voordeel in aanmerking wordt genomen. 
-12. Indien de werknemer een verklaring van de inspecteur overlegt waarin is vastgelegd dat de werknemer aan de inspecteur heeft medegedeeld dat de hem ter beschikking gestelde auto op kalenderjaarbasis voor niet meer dan 500 kilometer voor privé-doeleinden wordt gebruikt (verklaring geen privé-gebruik), laat de inhoudingsplichtige inhouding van belasting over het in het eerste lid bedoelde voordeel achterwege. De eerste volzin is niet van toepassing ingeval de inhoudingsplichtige weet dat de in de eerste volzin bedoelde mededeling niet juist is. 
-13. De werknemer kan een verzoek om een verklaring geen privé-gebruik bij de inspecteur indienen. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking. 
-14. De inspecteur kan de verklaring geen privé-gebruik, al dan niet op verzoek van de werknemer, bij voor bezwaar vatbare beschikking intrekken, waarbij de intrekking voor zover nodig terugwerkende kracht kan hebben. Bij algemene maatregel van bestuur wordt bepaald in welke gevallen de werknemer om intrekking moet verzoeken. 
-15. In geval van een verklaring geen privé-gebruik kan de inspecteur de werknemer op enig moment verzoeken te doen blijken dat de auto op kalenderjaarbasis voor niet meer dan 500 kilometer voor privé-doeleinden wordt gebruikt. 
-16. Indien de verklaring geen privé-gebruik wordt ingetrokken of indien de werknemer niet doet blijken dat de auto op kalenderjaarbasis voor niet meer dan 500 kilometer voor privé-doeleinden is gebruikt, wordt de verschuldigde belasting, voorzover nodig in afwijking van artikel 20, tweede lid, van de Algemene wet inzake rijksbelastingen, nageheven van de werknemer. In afwijking van de eerste volzin wordt nageheven van de inhoudingsplichtige ingeval de inhoudingsplichtige wist dat de mededeling, bedoeld in het twaalfde lid, eerste volzin, niet juist was. 
-17. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de verklaring geen privé-gebruik. 
-18.  Indien een bestelauto als bedoeld in artikel 3, derde lid, van de Wet op de belasting van personenauto’s en motorrijwielen 1992 door de werknemer uitsluitend zakelijk wordt gebruikt, kan de werknemer door tussenkomst van de inhoudingsplichtige met betrekking tot deze auto aan de inspecteur een verklaring uitsluitend zakelijk gebruik afgeven (verklaring uitsluitend zakelijk gebruik bestelauto). De ontvangst van die verklaring wordt door de inspecteur bevestigd. Indien een verklaring als bedoeld in de eerste volzin is afgegeven, laat de inhoudingsplichtige inhouding van belasting over het in het eerste lid bedoelde voordeel achterwege. De vorige volzin is niet van toepassing ingeval de inhoudingsplichtige weet dat de in die volzin genoemde verklaring niet juist is.   
-19.  De werknemer kan de verklaring uitsluitend zakelijk gebruik bestelauto intrekken. De mededeling van de intrekking wordt door de inspecteur bevestigd.  
-20.  In geval van een verklaring uitsluitend zakelijk gebruik bestelauto kan de inspecteur bij het vermoeden van een rit voor privédoeleinden, de inhoudingsplichtige en de werknemer verzoeken te doen blijken dat de betreffende rit zakelijk was. Slagen inhoudingsplichtige en de werknemer niet in dit bewijs, dan wordt de bestelauto geacht op kalenderjaarbasis voor meer dan 500 kilometer voor privédoeleinden te worden gebruikt en wordt de verschuldigde belasting, voor zover nodig in afwijking van artikel 20, tweede lid, van de Algemene wet inzake rijksbelastingen, nageheven van de werknemer. In afwijking van de tweede volzin wordt nageheven van de inhoudingsplichtige ingeval hij wist dat de verklaring niet juist was of ingeval hij niet aanstonds heeft medegedeeld dat de werknemer ten onrechte de verklaring nog niet heeft ingetrokken.   
-21.  Indien de werknemer de verklaring uitsluitend zakelijk gebruik bestelauto heeft ingetrokken voordat hij de bestelauto ook voor privédoeleinden heeft gebruikt, wordt de bestelauto tot het moment van de intrekking geacht wel voor privédoeleinden ter beschikking te zijn gesteld, maar niet voor privédoeleinden te zijn gebruikt.   
-22.  Bij algemene maatregel van bestuur wordt bepaald: 
+5. Voor de toepassing van dit artikel is de CO<sub>2</sub>-uitstoot van een auto, de CO<sub>2</sub>-uitstoot gemeten overeenkomstig bijlage XII bij Verordening (EG) nr. 692/2008 van de Commissie van 18 juli 2008 tot uitvoering en wijziging van Verordening (EG) nr. 715/2007 van het Europees Parlement en de Raad betreffende de type goedkeuring van motorvoertuigen met betrekking tot emissies van lichte personen- en bedrijfsvoertuigen (Euro 5 en Euro 6) en de toegang tot reparatie- en onderhoudsinformatie (PbEU 2008, L 199). Indien de meting mede met LPG of aardgas als brandstof is uitgevoerd, wordt de CO<sub>2</sub>-uitstoot van de auto met LPG of aardgas als brandstofsoort gehanteerd. 
+6. Bij ministeriële regeling kunnen regels worden gesteld waaraan een rittenregistratie moet voldoen. Tevens kunnen regels worden gesteld over het anderszins laten blijken dat de auto op kalenderjaarbasis voor niet meer dan 500 kilometer voor privé-doeleinden wordt gebruikt. 
+7. Voor de toepassing van dit artikel wordt de waarde van de auto gesteld op de catalogusprijs in de zin van artikel 9 van de Wet op de belasting van personenauto’s en motorrijwielen 1992 vermeerderd met de belasting van personenauto’s en motorrijwielen ingevolge de artikelen 9 tot en met 9c van genoemde wet. In afwijking in zoverre van de eerste volzin wordt de waarde van een auto die meer dan vijftien jaar geleden voor het eerst in gebruik is genomen, gesteld op de waarde in het economische verkeer. 
+8. Het voordeel wordt in aanmerking genomen voorzover het uitgaat boven de vergoeding die de werknemer voor het gebruik voor privé-doeleinden is verschuldigd. 
+9. Voor de toepassing van dit artikel wordt woon-werkverkeer geacht niet voor privé-doeleinden plaats te vinden. 
+10. Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de loontijdvakken waarin het in het eerste lid bedoelde voordeel in aanmerking wordt genomen. 
+11. Indien de werknemer een verklaring van de inspecteur overlegt waarin is vastgelegd dat de werknemer aan de inspecteur heeft medegedeeld dat de hem ter beschikking gestelde auto op kalenderjaarbasis voor niet meer dan 500 kilometer voor privé-doeleinden wordt gebruikt (verklaring geen privé-gebruik), laat de inhoudingsplichtige inhouding van belasting over het in het eerste lid bedoelde voordeel achterwege. De eerste volzin is niet van toepassing ingeval de inhoudingsplichtige weet dat de in de eerste volzin bedoelde mededeling niet juist is. 
+12. De werknemer kan een verzoek om een verklaring geen privé-gebruik bij de inspecteur indienen. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking. 
+13. De inspecteur kan de verklaring geen privé-gebruik, al dan niet op verzoek van de werknemer, bij voor bezwaar vatbare beschikking intrekken, waarbij de intrekking voor zover nodig terugwerkende kracht kan hebben. Bij algemene maatregel van bestuur wordt bepaald in welke gevallen de werknemer om intrekking moet verzoeken. 
+14. In geval van een verklaring geen privé-gebruik kan de inspecteur de werknemer op enig moment verzoeken te doen blijken dat de auto op kalenderjaarbasis voor niet meer dan 500 kilometer voor privé-doeleinden wordt gebruikt. 
+15. Indien de verklaring geen privé-gebruik wordt ingetrokken of indien de werknemer niet doet blijken dat de auto op kalenderjaarbasis voor niet meer dan 500 kilometer voor privé-doeleinden is gebruikt, wordt de verschuldigde belasting, voorzover nodig in afwijking van artikel 20, tweede lid, van de Algemene wet inzake rijksbelastingen, nageheven van de werknemer. In afwijking van de eerste volzin wordt nageheven van de inhoudingsplichtige ingeval de inhoudingsplichtige wist dat de mededeling, bedoeld in het elfde lid, eerste volzin, niet juist was. 
+16. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de verklaring geen privé-gebruik. 
+17.  Indien een bestelauto als bedoeld in artikel 3, derde lid, van de Wet op de belasting van personenauto’s en motorrijwielen 1992 door de werknemer uitsluitend zakelijk wordt gebruikt, kan de werknemer door tussenkomst van de inhoudingsplichtige met betrekking tot deze auto aan de inspecteur een verklaring uitsluitend zakelijk gebruik afgeven (verklaring uitsluitend zakelijk gebruik bestelauto). De ontvangst van die verklaring wordt door de inspecteur bevestigd. Indien een verklaring als bedoeld in de eerste volzin is afgegeven, laat de inhoudingsplichtige inhouding van belasting over het in het eerste lid bedoelde voordeel achterwege. De vorige volzin is niet van toepassing ingeval de inhoudingsplichtige weet dat de in die volzin genoemde verklaring niet juist is.   
+18.  De werknemer kan de verklaring uitsluitend zakelijk gebruik bestelauto intrekken. De mededeling van de intrekking wordt door de inspecteur bevestigd.  
+19.  In geval van een verklaring uitsluitend zakelijk gebruik bestelauto kan de inspecteur bij het vermoeden van een rit voor privédoeleinden, de inhoudingsplichtige en de werknemer verzoeken te doen blijken dat de betreffende rit zakelijk was. Slagen inhoudingsplichtige en de werknemer niet in dit bewijs, dan wordt de bestelauto geacht op kalenderjaarbasis voor meer dan 500 kilometer voor privédoeleinden te worden gebruikt en wordt de verschuldigde belasting, voor zover nodig in afwijking van artikel 20, tweede lid, van de Algemene wet inzake rijksbelastingen, nageheven van de werknemer. In afwijking van de tweede volzin wordt nageheven van de inhoudingsplichtige ingeval hij wist dat de verklaring niet juist was of ingeval hij niet aanstonds heeft medegedeeld dat de werknemer ten onrechte de verklaring nog niet heeft ingetrokken.   
+20.  Indien de werknemer de verklaring uitsluitend zakelijk gebruik bestelauto heeft ingetrokken voordat hij de bestelauto ook voor privédoeleinden heeft gebruikt, wordt de bestelauto tot het moment van de intrekking geacht wel voor privédoeleinden ter beschikking te zijn gesteld, maar niet voor privédoeleinden te zijn gebruikt.   
+21.  Bij algemene maatregel van bestuur wordt bepaald: 
 
 a. op welke wijze de verklaring uitsluitend zakelijk gebruik bestelauto wordt afgegeven en ingetrokken;  
 
@@ -406,20 +419,20 @@ c. in welke gevallen de inhoudingsplichtige de inspecteur schriftelijk moet mede
 d. op welke wijze de inspecteur naar aanleiding van een mededeling als bedoeld in onderdeel c bekendmaakt dat de verklaring uitsluitend zakelijk gebruik bestelauto geacht wordt te zijn ingetrokken;  
 
 e. vanaf welk moment de verklaring bij toepassing van onderdeel d geacht wordt te zijn ingetrokken.     
-23.  Na een vervanging van de CO<sub>2</sub>-uitstootgrenzen in het tweede of derde lid, blijft met betrekking tot een auto: 
+22.  Na een vervanging van de CO<sub>2</sub>-uitstootgrenzen in het tweede lid, blijft met betrekking tot een auto: 
 
-a. waarvan het kenteken na 30 juni 2012 voor het eerst op naam is gesteld: voor een periode van 60 maanden te rekenen vanaf de eerste dag van de maand volgend op die waarin het kenteken van de auto voor het eerst op naam is gesteld, de verlaging van toepassing ingevolge de begrenzingen die golden op de datum van de eerste tenaamstelling, en voor direct daarop volgende periodes van telkens 60 maanden, de verlaging ingevolge de begrenzingen zoals die golden op de laatste dag van de direct daaraan voorafgaande periode van 60 maanden;  
+a. die na 30 juni 2012 voor het eerst te naam is gesteld in het kentekenregister: voor een periode van 60 maanden te rekenen vanaf de eerste dag van de maand volgend op die waarin de auto voor het eerst te naam is gesteld in het kentekenregister, de verlaging van toepassing ingevolge de begrenzingen die golden op de datum van de eerste tenaamstelling in het kentekenregister, en voor direct daarop volgende periodes van telkens 60 maanden, de verlaging ingevolge de begrenzingen zoals die golden op de laatste dag van de direct daaraan voorafgaande periode van 60 maanden;  
 
-b. waarvan het kenteken voor het eerst op naam is gesteld vóór 1 juli 2012 en die de werknemer al vóór en vanaf 1 juli 2012 onafgebroken ter beschikking is gesteld: de op 30 juni 2012 geldende verlaging ingevolge de op die datum geldende begrenzingen van toepassing;  
+b. waarvan het kenteken voor het eerst op naam is gesteld vóór 1 juli 2012 en die de werknemer al vóór en vanaf 1 juli 2012 onafgebroken ter beschikking is gesteld: de op 30 juni 2012 geldende verlaging ingevolge de op die datum geldende begrenzingen van toepassing;  
 
-c. waarvan het kenteken op naam van de eigenaar is gesteld vóór 1 juli 2012 en die de werknemer op of na 1 juli 2012 voor het eerst ter beschikking is gesteld: de op 30 juni 2012 geldende verlaging ingevolge de op die datum geldende begrenzingen van toepassing;  
+c. waarvan het kenteken op naam van de eigenaar is gesteld vóór 1 juli 2012 en die de werknemer op of na 1 juli 2012 voor het eerst ter beschikking is gesteld: de op 30 juni 2012 geldende verlaging ingevolge de op die datum geldende begrenzingen van toepassing;  
 
-d. waarvan het kenteken voor het eerst op naam is gesteld vóór 1 juli 2012 en die op naam van de eigenaar is gesteld op of na 1 juli 2012: voor een periode van 60 maanden te rekenen vanaf 1 juli 2012, de verlaging van toepassing ingevolge de begrenzingen zoals die golden op 30 juni 2012, en voor direct daaropvolgende periodes van telkens 60 maanden, de verlaging ingevolge de begrenzingen zoals die golden op de laatste dag van de direct daaraan voorafgaande periode van 60 maanden.     
-24.  In afwijking van het drieëntwintigste lid, onderdeel d, heeft de eigendomsoverdracht van een auto die aan een werknemer ter beschikking is gesteld geen gevolgen voor de verlaging, zolang de terbeschikkingstelling van die auto aan de betreffende werknemer voortduurt.   
-25.  In afwijking van het drieëntwintigste lid blijft na vervanging van de CO<sub>2</sub>-uitstootgrenzen in het tweede of derde lid, met betrekking tot een auto waarvan het kenteken voor het eerst op naam is gesteld op of na 1 januari 2012 en die een CO<sub>2</sub>-uitstoot heeft van niet hoger dan 50 gram per kilometer voor een periode van 60 maanden te rekenen vanaf de eerste dag van de maand volgend op die waarin het kenteken van de auto voor het eerst op naam is gesteld, de verlaging van toepassing ingevolge de begrenzingen die golden op de datum van de eerste tenaamstelling, en voor direct daaropvolgende periodes van telkens 60 maanden, de verlaging ingevolge de begrenzingen zoals die gelden op de laatste dag van de direct daaraan voorafgaande periode van 60 maanden.   
-26.  In afwijking van het drieëntwintigste lid wordt het voordeel, bedoeld in het eerste lid, eerste volzin, met betrekking tot een auto waarvan het kenteken vóór 1 januari 2012 voor het eerst op naam is gesteld en die een CO<sub>2</sub>-uitstoot heeft van 0 gram per kilometer, tot 1 januari 2017 verlaagd met 25% van de waarde van de auto en daarna met het hoogste percentage aan verlaging dat op dat tijdstip in het tweede of derde lid van dit artikel wordt genoemd.   
-27.  In afwijking van het drieëntwintigste lid wordt het voordeel, bedoeld in het eerste lid, eerste volzin, met betrekking tot een auto waarvan het kenteken vóór 1 januari 2012 voor het eerst op naam is gesteld en die een CO<sub>2</sub>-uitstoot heeft van hoger dan 0 gram per kilometer, maar niet hoger dan 50 gram per kilometer, van 1 januari 2012 tot 1 januari 2017 verlaagd met 25% van de waarde van de auto, en geldt voor direct daaropvolgende periodes van telkens 60 maanden een verlaging ingevolge de begrenzingen van het tweede of derde lid van dit artikel zoals die gelden op de laatste dag van de direct daaraan voorafgaande periode van 60 maanden.   
-28.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot een auto waarvan de datum van de eerste tenaamstelling van het kenteken niet overeenkomt met de datum van eerste toelating op de weg van die auto. 
+d. waarvan het kenteken voor het eerst op naam is gesteld vóór 1 juli 2012 en die op naam van de eigenaar is gesteld op of na 1 juli 2012: voor een periode van 60 maanden te rekenen vanaf 1 juli 2012, de verlaging van toepassing ingevolge de begrenzingen zoals die golden op 30 juni 2012, en voor direct daaropvolgende periodes van telkens 60 maanden, de verlaging ingevolge de begrenzingen zoals die golden op de laatste dag van de direct daaraan voorafgaande periode van 60 maanden.     
+23.  In afwijking van het tweeëntwintigste lid, onderdeel d, heeft de eigendomsoverdracht van een auto die aan een werknemer ter beschikking is gesteld geen gevolgen voor de verlaging, zolang de terbeschikkingstelling van die auto aan de betreffende werknemer voortduurt.   
+24.  In afwijking van het tweeëntwintigste lid blijft na vervanging van de CO<sub>2</sub>-uitstootgrenzen in het tweede lid, met betrekking tot een auto die voor het eerst te naam is gesteld in het kentekenregister op of na 1 januari 2012 en die een CO<sub>2</sub>-uitstoot heeft van niet hoger dan 50 gram per kilometer voor een periode van 60 maanden te rekenen vanaf de eerste dag van de maand volgend op die waarin de auto voor het eerst te naam is gesteld in het kentekenregister, de verlaging van toepassing ingevolge de begrenzingen die golden op de datum van de eerste tenaamstelling in het kentekenregister, en voor direct daaropvolgende periodes van telkens 60 maanden, de verlaging ingevolge de begrenzingen zoals die gelden op de laatste dag van de direct daaraan voorafgaande periode van 60 maanden.   
+25.  In afwijking van het tweeëntwintigste lid wordt het voordeel, bedoeld in het eerste lid, eerste volzin, met betrekking tot een auto waarvan het kenteken vóór 1 januari 2012 voor het eerst op naam is gesteld en die een CO<sub>2</sub>-uitstoot heeft van 0 gram per kilometer, tot 1 januari 2017 verlaagd met 25% van de waarde van de auto en daarna met het hoogste percentage aan verlaging dat op dat tijdstip in het tweede lid van dit artikel wordt genoemd.   
+26.  In afwijking van het tweeëntwintigste lid wordt het voordeel, bedoeld in het eerste lid, eerste volzin, met betrekking tot een auto waarvan het kenteken vóór 1 januari 2012 voor het eerst op naam is gesteld en die een CO<sub>2</sub>-uitstoot heeft van hoger dan 0 gram per kilometer, maar niet hoger dan 50 gram per kilometer, van 1 januari 2012 tot 1 januari 2017 verlaagd met 25% van de waarde van de auto, en geldt voor direct daaropvolgende periodes van telkens 60 maanden een verlaging ingevolge de begrenzingen van het tweede lid van dit artikel zoals die gelden op de laatste dag van de direct daaraan voorafgaande periode van 60 maanden.   
+27.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot een auto waarvan de datum van de eerste tenaamstelling in het kentekenregister niet overeenkomt met de datum van eerste toelating op de weg van die auto.  
 
 ### Artikel  13a  
 
@@ -472,16 +485,17 @@ b. waarin is bepaald dat de aanspraken ingevolge de regeling niet kunnen worden 
 c. waarvan als verzekeraar optreedt een lichaam als bedoeld in artikel 19a, eerste lid; een en ander voor zover die regeling blijft binnen de in of krachtens dit hoofdstuk vastgestelde begrenzingen.     
 2.  Onder pensioenregeling wordt mede verstaan een regeling die: 
 
-a. het ouderdomspensioen na het bereiken van 40<sup>1</sup>/<sub>6</sub> deelnemingsjaren aanvult (40<sup>1</sup>/<sub>6</sub>-deelnemingsjarenpensioen);  
+a. het ouderdomspensioen na het bereiken van 40<sup>1</sup>/<sub>4</sub> deelnemingsjaren aanvult (40<sup>1</sup>/<sub>4</sub>-deelnemingsjarenpensioen);  
 
 b. het partnerpensioen dan wel het wezenpensioen aanvult in verband met het ontbreken van uitkeringen ingevolge de Algemene nabestaandenwet en het verschil in verschuldigde premie voor de volksverzekeringen over het pensioen voor en na de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet (nabestaandenoverbruggingspensioen).     
-3.  Ingeval een regeling voldoet aan de in het eerste lid opgenomen voorwaarden doch niet blijft binnen de in of krachtens dit hoofdstuk opgenomen begrenzingen, is de regeling een pensioenregeling voorzover blijkt dat zij blijft binnen de in of krachtens dit hoofdstuk opgenomen begrenzingen. De inhoudingsplichtige verzoekt de inspecteur uiterlijk op het eerste moment van overschrijding van de bedoelde begrenzingen vast te stellen welk deel van de desbetreffende aanspraak blijft binnen die begrenzingen. Bij toepassing van de eerste volzin geeft de inhoudingsplichtige bij elke te zijner tijd op basis van de regeling te verstrekken pensioenuitkering overeenkomstig bij ministeriële regeling te stellen regels aan welk deel daarvan tot het loon van de werknemer behoort. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking.  
+3.  Ingeval een regeling voldoet aan de in het eerste lid opgenomen voorwaarden doch niet blijft binnen de in of krachtens dit hoofdstuk opgenomen begrenzingen, is de regeling een pensioenregeling voorzover blijkt dat zij blijft binnen de in of krachtens dit hoofdstuk opgenomen begrenzingen. De inhoudingsplichtige verzoekt de inspecteur uiterlijk op het eerste moment van overschrijding van de bedoelde begrenzingen vast te stellen welk deel van de desbetreffende aanspraak blijft binnen die begrenzingen. Bij toepassing van de eerste volzin geeft de inhoudingsplichtige bij elke te zijner tijd op basis van de regeling te verstrekken pensioenuitkering overeenkomstig bij ministeriële regeling te stellen regels aan welk deel daarvan tot het loon van de werknemer behoort. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking.   
+4.  Voor de toepassing van het derde lid blijft een nettopensioenregeling als bedoeld in afdeling 5.3B van de Wet inkomstenbelasting 2001 buiten beschouwing. 
 
 ### Artikel  18a  
 
-1.  Een op een eindloonstelsel gebaseerd ouderdomspensioen bedraagt per dienstjaar niet meer dan 1,9 percent van het pensioengevend loon.   
-2.  Een op een middelloonstelsel gebaseerd ouderdomspensioen bedraagt per dienstjaar niet meer dan 2,15 percent van het pensioengevend loon.   
-3.  Een op een beschikbare-premiestelsel gebaseerd ouderdomspensioen wordt tijdsevenredig opgebouwd en is gericht op een pensioen dat na 37 jaren opbouw niet meer bedraagt dan 70 percent van het pensioengevend loon op dat tijdstip. De beschikbare premie wordt ten hoogste bepaald met inachtneming van de volgende uitgangspunten: 
+1.  Een op een eindloonstelsel gebaseerd ouderdomspensioen bedraagt per dienstjaar niet meer dan 1,657 percent van het pensioengevend loon.   
+2.  Een op een middelloonstelsel gebaseerd ouderdomspensioen bedraagt per dienstjaar niet meer dan 1,875 percent van het pensioengevend loon.   
+3.  Een op een beschikbare-premiestelsel gebaseerd ouderdomspensioen wordt tijdsevenredig opgebouwd en is gericht op een pensioen dat na 40 jaren opbouw niet meer bedraagt dan 75 percent van het gemiddelde pensioengevend loon tot dat tijdstip. De beschikbare premie wordt ten hoogste bepaald met inachtneming van de volgende uitgangspunten: 
 
 a. de beschikbare premie wordt actuarieel vastgesteld per leeftijdsklasse van ten hoogste vijf jaren en wordt afgestemd op de gemiddelde leeftijd in de klasse;  
 
@@ -511,12 +525,13 @@ c. Voor het wezenpensioen kan het in onderdeel a bedoelde bedrag voor 14% en voo
 9.  Met betrekking tot een op een beschikbare-premiestelsel gebaseerd ouderdomspensioen als bedoeld in het derde lid vindt, in afwijking van het vierde lid, onder 3° en 4°, de beoordeling of binnen de in het zevende lid genoemde begrenzingen wordt gebleven plaats op het tijdstip waarop voor het eerst aanspraak op ouderdomspensioen ontstaat en op het tijdstip onmiddellijk voorafgaand aan het tijdstip van ingang van het pensioen. Indien op het tijdstip onmiddellijk voorafgaand aan het tijdstip van ingang van het pensioen de begrenzing wordt overschreden, zal het meerdere worden uitgekeerd in een uitkering ineens. De uitkering ineens dan wel, indien uitkering niet plaatsvindt, het bedrag dat zou moeten worden uitgekeerd, wordt aangemerkt als loon uit tegenwoordige dienstbetrekking van de werknemer en wordt geacht te zijn genoten op het tijdstip onmiddellijk voorafgaand aan het tijdstip van ingang van het pensioen. Ten aanzien van de werknemer die niet premieplichtig is voor de Algemene Ouderdomswet wordt, in afwijking van de artikelen 20a, 20b en 26, de verschuldigde belasting over de uitkering onderscheidenlijk het bedrag dat zou moeten worden uitgekeerd, gesteld op de som van de belasting en de premie ingevolge de Algemene Ouderdomswet die daarover verschuldigd zou zijn door een persoon die wel premieplichtig is ingevolge die wet en overigens in dezelfde omstandigheden verkeert als de werknemer.   
 10.  Ingeval de werknemer voor het tijdstip van ingang van het ouderdomspensioen ophoudt binnenlands belastingplichtige te zijn, wordt in het negende lid voor het tijdstip onmiddellijk voorafgaand aan het tijdstip van ingang van het pensioen steeds gelezen: het tijdstip onmiddellijk voorafgaand aan het tijdstip waarop de werknemer ophoudt binnenlands belastingplichtige te zijn.   
 11.  De in het zesde lid genoemde pensioenrichtleeftijd wordt jaarlijks bij algemene maatregel van bestuur gewijzigd. De wijziging vindt voor het eerst plaats per 1 januari 2015 en wordt berekend op basis van de volgende formule: V = (L – 18,26) – (P – 65) waarbij: V staat voor het aantal jaren waarmee de pensioenrichtleeftijd wordt verhoogd; L staat voor de geraamde macro gemiddelde resterende levensverwachting voor de Nederlandse bevolking in jaren op 65-jarige leeftijd in het kalenderjaar dat is gelegen tien jaar na het kalenderjaar van wijziging; P staat voor de geldende pensioenrichtleeftijd in het kalenderjaar voorafgaande aan het kalenderjaar van wijziging. Indien V negatief is of vóór afronding minder dan 1 beloopt, wordt deze gesteld op 0. Indien V vóór afronding 1 of meer beloopt, wordt deze gesteld op 1. Een wijziging ingevolge de eerste volzin van de pensioenrichtleeftijd wordt bekendgemaakt ten minste een jaar voordat deze toepassing vindt.   
-12.  De ramingen van de macro gemiddelde resterende levensverwachting, bedoeld in het elfde lid, worden uitgevoerd en bekendgemaakt door het Centraal Bureau voor de Statistiek. 
+12.  De ramingen van de macro gemiddelde resterende levensverwachting, bedoeld in het elfde lid, worden uitgevoerd en bekendgemaakt door het Centraal Bureau voor de Statistiek.  
+13.  In afwijking in zoverre van het vierde lid hoeft een ouderdomspensioen niet eerder in te gaan dan op de eerste dag van de maand volgend op het tijdstip waarop de werknemer de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, heeft bereikt, zolang het pensioen blijft binnen de in artikel 66, eerste lid, van de Pensioenwet opgenomen begrenzing. 
 
 ### Artikel  18b  
 
-1.  Een op een eindloonstelsel gebaseerd partnerpensioen bedraagt per dienstjaar of ontbrekend dienstjaar niet meer dan 1,33 percent van het pensioengevend loon of bereikbare pensioengevend loon.   
-2.  Een op een middelloonstelsel gebaseerd partnerpensioen bedraagt per dienstjaar of ontbrekend dienstjaar niet meer dan 1,51 percent van het pensioengevend loon of bereikbaar pensioengevend loon.   
+1.  Een op een eindloonstelsel gebaseerd partnerpensioen bedraagt per dienstjaar of ontbrekend dienstjaar niet meer dan 1,160 percent van het pensioengevend loon of bereikbare pensioengevend loon.   
+2.  Een op een middelloonstelsel gebaseerd partnerpensioen bedraagt per dienstjaar of ontbrekend dienstjaar niet meer dan 1,313 percent van het pensioengevend loon of bereikbaar pensioengevend loon.   
 3.  Voor een op een beschikbare-premiestelsel gebaseerd partnerpensioen is artikel 18a, derde lid, van overeenkomstige toepassing.   
 4.  Ingeval in de pensioenregeling is rekening gehouden met: 
 
@@ -530,8 +545,8 @@ c. Voor het wezenpensioen kan het in onderdeel a bedoelde bedrag voor 14% en voo
 
 ### Artikel  18c  
 
-1.  Een op een eindloonstelsel gebaseerd wezenpensioen bedraagt per dienstjaar of ontbrekend dienstjaar niet meer dan 0,27 percent van het pensioengevend loon of bereikbaar pensioengevend loon.   
-2.  Een op een middelloonstelsel gebaseerd wezenpensioen bedraagt per dienstjaar of ontbrekend dienstjaar niet meer dan 0,3 percent van het pensioengevend loon of bereikbaar pensioengevend loon.   
+1.  Een op een eindloonstelsel gebaseerd wezenpensioen bedraagt per dienstjaar of ontbrekend dienstjaar niet meer dan 0,232 percent van het pensioengevend loon of bereikbaar pensioengevend loon.   
+2.  Een op een middelloonstelsel gebaseerd wezenpensioen bedraagt per dienstjaar of ontbrekend dienstjaar niet meer dan 0,263 percent van het pensioengevend loon of bereikbaar pensioengevend loon.   
 3.  Voor een op een beschikbare-premiestelsel gebaseerd wezenpensioen is artikel 18a, derde lid, van overeenkomstige toepassing.   
 4.  Een wezenpensioen gaat in onmiddellijk na het overlijden van de werknemer of gewezen werknemer dan wel direct na beëindiging van een uitkering ingevolge de Algemene nabestaandenwet.   
 5.  Een wezenpensioen gaat op het tijdstip van ingang niet uit boven 14 percent van het pensioengevend loon of bereikbaar pensioengevend loon.   
@@ -556,17 +571,17 @@ e. aanpassing van de in de pensioenregeling vastgestelde ingangsdatum van het ou
 
 ### Artikel  18e  
 
-1. Een 40<sup>1</sup>/<sub>6</sub>-deelnemingsjarenpensioen is een levenslang pensioen dat:
+1. Een 40<sup>1</sup>/<sub>4</sub>-deelnemingsjarenpensioen is een levenslang pensioen dat:
 
 a.ingaat op hetzelfde tijdstip als het ouderdomspensioen;
 
-b.met inbegrip van het ouderdomspensioen niet meer bedraagt dan 70% van het pensioengevend loon ingeval het ouderdomspensioen ingaat bij het bereiken van de 63<sup>1</sup>/<sub>6</sub>-jarige leeftijd;
+b.met inbegrip van het ouderdomspensioen niet meer bedraagt dan 75% van het gemiddelde pensioengevend loon tot dat tijdstip ingeval het ouderdomspensioen ingaat bij het bereiken van de 63<sup>1</sup>/<sub>4</sub>-jarige leeftijd;
 
-c.niet eerder wordt opgebouwd dan vanaf het tijdstip waarop de werknemer 40<sup>1</sup>/<sub>6</sub> deelnemingsjaren heeft bereikt. 
-2. Ingeval het 40<sup>1</sup>/<sub>6</sub>-deelnemingsjarenpensioen later ingaat dan bij het bereiken van de 63<sup>1</sup>/<sub>6</sub>-jarige leeftijd mag het 40<sup>1</sup>/<sub>6</sub>-deelnemingsjarenpensioen na het bereiken van die leeftijd met inachtneming van algemeen aanvaarde actuariële grondslagen worden verhoogd. 
-3. Ingeval het 40<sup>1</sup>/<sub>6</sub>-deelnemingsjarenpensioen eerder ingaat dan bij het bereiken van de 63<sup>1</sup>/<sub>6</sub>-jarige leeftijd wordt het 40<sup>1</sup>/<sub>6</sub>-deelnemingsjarenpensioen met inachtneming van algemeen aanvaarde actuariële grondslagen herrekend ten opzichte van die leeftijd. 
-4. De artikelen 18a, negende lid, en 18d zijn van overeenkomstige toepassing, met dien verstande dat door de overeenkomstige toepassing van artikel 18d, eerste lid, onderdeel d, een 40<sup>1</sup>/<sub>6</sub>-deelnemingsjarenpensioen met inbegrip van het ouderdomspensioen niet meer bedraagt dan 100% van het laatste pensioengevend loon. 
-5. Het in het eerste lid opgenomen maximum wordt voor de periode vanaf het bereiken van de 65<sup>1</sup>/<sub>6</sub>-jarige leeftijd opgevat met inbegrip van een bedrag dat ten minste wordt gesteld op de uitkeringen voor gehuwde personen zonder toeslag als omschreven in artikel 9, eerste lid, onderdeel b, en vijfde lid, van de Algemene Ouderdomswet, vermeerderd met de vakantietoeslag. 
+c.niet eerder wordt opgebouwd dan vanaf het tijdstip waarop de werknemer 40<sup>1</sup>/<sub>4</sub> deelnemingsjaren heeft bereikt. 
+2. Ingeval het 40<sup>1</sup>/<sub>4</sub>-deelnemingsjarenpensioen later ingaat dan bij het bereiken van de 63<sup>1</sup>/<sub>4</sub>-jarige leeftijd mag het 40<sup>1</sup>/<sub>4</sub>-deelnemingsjarenpensioen na het bereiken van die leeftijd met inachtneming van algemeen aanvaarde actuariële grondslagen worden verhoogd. 
+3. Ingeval het 40<sup>1</sup>/<sub>4</sub>-deelnemingsjarenpensioen eerder ingaat dan bij het bereiken van de 63<sup>1</sup>/<sub>4</sub>-jarige leeftijd wordt het 40<sup>1</sup>/<sub>4</sub>-deelnemingsjarenpensioen met inachtneming van algemeen aanvaarde actuariële grondslagen herrekend ten opzichte van die leeftijd. 
+4. De artikelen 18a, negende lid, en 18d zijn van overeenkomstige toepassing, met dien verstande dat door de overeenkomstige toepassing van artikel 18d, eerste lid, onderdeel d, een 40<sup>1</sup>/<sub>4</sub>-deelnemingsjarenpensioen met inbegrip van het ouderdomspensioen niet meer bedraagt dan 100% van het laatste pensioengevend loon. 
+5. Het in het eerste lid opgenomen maximum wordt voor de periode vanaf het bereiken van de 65<sup>1</sup>/<sub>4</sub>-jarige leeftijd opgevat met inbegrip van een bedrag dat ten minste wordt gesteld op de uitkeringen voor gehuwde personen zonder toeslag als omschreven in artikel 9, eerste lid, onderdeel b, en vijfde lid, van de Algemene Ouderdomswet, vermeerderd met de vakantietoeslag. 
 
 ### Artikel  18f  
 
@@ -587,13 +602,19 @@ a. de loonbestanddelen die daarin worden opgenomen;
 
 b. de loonbestanddelen waarover de opbouw van het pensioen volgens een ander stelsel dan het eindloonstelsel dient plaats te vinden;  
 
-c. de situatie waarin de werknemer aan het eind van zijn loopbaan terugtreedt naar een lager gekwalificeerde functie met een lager loon dan in zijn daaraan voorafgaande functie;  
+c. de bepaling van het gemiddelde pensioengevend loon; 
 
-d.de situatie waarin het loon wordt verlaagd in verband met ziekte of arbeidsongeschiktheid van de werknemer.  
+d. de situatie waarin de werknemer aan het eind van zijn loopbaan terugtreedt naar een lager gekwalificeerde functie met een lager loon dan in zijn daaraan voorafgaande functie;  
+
+e.de situatie waarin het loon wordt verlaagd in verband met ziekte of arbeidsongeschiktheid van de werknemer.  
+
+### Artikel  18ga  
+
+Als pensioengevend loon als bedoeld in de artikelen 18a, 18b, 18c, 18d en 18e wordt ten hoogste een bedrag van € 100.000 in aanmerking genomen. Bij dienstbetrekkingen in deeltijd wordt dit bedrag verminderd overeenkomstig de deeltijdfactor. 
 
 ### Artikel  18h  
 
-1.  In afwijking in zoverre van het overigens in of krachtens dit hoofdstuk bepaalde is een regeling waarvan geheel of gedeeltelijk een lichaam als bedoeld in artikel 19a, eerste lid, onderdelen d of e, als verzekeraar optreedt, een pensioenregeling indien zij voldoet aan de artikelen 18 tot en met 18g en voorts een pensioen inhoudt dat niet uitgaat boven hetgeen in collectieve regelingen gangbaar is.   
+1.  In afwijking in zoverre van het overigens in of krachtens dit hoofdstuk bepaalde is een regeling waarvan geheel of gedeeltelijk een lichaam als bedoeld in artikel 19a, eerste lid, onderdelen d of e, als verzekeraar optreedt, een pensioenregeling indien zij voldoet aan de artikelen 18 tot en met 18ga en voorts een pensioen inhoudt dat niet uitgaat boven hetgeen in collectieve regelingen gangbaar is.   
 2.  Bij algemene maatregel van bestuur kan worden vastgesteld wat in collectieve regelingen als bedoeld in het eerste lid gangbaar is.  
 
 ###Artikel 19 
@@ -698,12 +719,12 @@ Vervallen per 01-01-2012
 
 1.  De belasting over een loontijdvak van een jaar wordt bepaald aan de hand van de navolgende tabel (tarieftabel).   
 
-| Bij een belastbaar loon van meer dan | maar niet meer dan  | bedraagt de belasting het in kolom III vermelde bedrag, vermeerderd met het bedrag dat wordt berekend door het in kolom IV vermelde percentage te nemen van het gedeelte van de het belastbare loon dat het in kolom I vermelde bedrag te boven gaat | I  | II  | III  | IV  |
+| Bij een belastbaar loon van meer dan  | maar niet meer dan  | bedraagt de belasting het in kolom III vermelde bedrag, vermeerderd met het bedrag dat wordt berekend door het in kolom IV vermelde percentage te nemen van het gedeelte van het belastbare loon dat het in kolom I vermelde bedrag te boven gaat  | I  | II  | III  | IV  |
 |:---|:---|:---|:---|:---|:---|:---|
-| –  | € 19.645  | –  | 5,10%  |
-| € 19.645  | € 33.363  | € 1.001  | 10,85%  |
-| € 33.363  | € 56.531  | € 2.489  | 42%  |
-| € 56.531  | –  | € 12.219  | 52%  |
+| –  | € 19.822  | –  | 8,35%  |
+| € 19.822  | € 33.589  | € 1.655  | 13,85%  |
+| € 33.589  | € 57.585  | € 3.561  | 42,00%  |
+| € 57.585  | –  | € 13.639  | 52,00%  |
 
 2.  De in het eerste lid vermelde bedragen worden bij het begin van het kalenderjaar van rechtswege vervangen door de bedragen die krachtens artikel 10.1 van de Wet inkomstenbelasting 2001 worden vastgesteld ter vervanging van de in artikel 2.10, eerste lid, van die wet vermelde bedragen.  
 
@@ -711,22 +732,22 @@ Vervallen per 01-01-2012
 
 1. In afwijking van artikel 20a, eerste lid, wordt indien de werknemer vóór 1 januari 1946 is geboren, de belasting over een loontijdvak van een jaar bepaald aan de hand van de volgende tabel (tarieftabel voor werknemers geboren vóór 1 januari 1946).  
 
-| Bij een belastbaar loon van meer dan | maar niet meer dan  | bedraagt de belasting het in kolom III vermelde bedrag, vermeerderd met het bedrag dat wordt berekend door het in kolom IV vermelde percentage te nemen van het gedeelte van de het belastbare loon dat het in kolom I vermelde bedrag te boven gaat | I  | II  | III  | IV  |
+| Bij een belastbaar loon van meer dan  | maar niet meer dan  | bedraagt de belasting het in kolom III vermelde bedrag, vermeerderd met het bedrag dat wordt berekend door het in kolom IV vermelde percentage te nemen van het gedeelte van het belastbare loon dat het in kolom I vermelde bedrag te boven gaat  | I  | II  | III  | IV  |
 |:---|:---|:---|:---|:---|:---|:---|
-| –  | € 19.645  | –  | 5,10%  |
-| € 19.645  | € 33.555  | € 1.001  | 10,85%  |
-| € 33.555  | € 56.531  | € 2.510  | 42%  |
-| € 56.531  | –  | € 12.159  | 52%  |
+| –  | € 19.822  | –  | 8,35%  |
+| € 19.822  | € 33.857  | € 1.655  | 13,85%  |
+| € 33.857  | € 57.585  | € 3.598  | 42,00%  |
+| € 57.585  | –  | € 13.563  | 52,00%  |
 
 2.  De in het eerste lid vermelde bedragen worden bij het begin van het kalenderjaar van rechtswege vervangen door de bedragen die krachtens artikel 10.1 van de Wet inkomstenbelasting 2001 worden vastgesteld ter vervanging van de in artikel 2.10a, eerste lid, van die wet vermelde bedragen. 
 
-###Artikel 21 
+### Artikel  21  
 
-In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
+In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder: 
 
-a.belastingtarief eerste schijf: het in de eerste regel van de vierde kolom van de tabel in artikel 20a opgenomen percentage;
+a. belastingtarief eerste schijf: het in de eerste regel van de vierde kolom van de tabel in artikel 20a opgenomen percentage;  
 
-b.gecombineerd heffingspercentage: de som van het belastingtarief eerste schijf en de volgens artikel 11 van de Wet financiering sociale verzekeringen vastgestelde premiepercentages voor de algemene ouderdomsverzekering, de nabestaandenverzekering en de algemene verzekering bijzondere ziektekosten.
+b. gecombineerd heffingspercentage: de som van het belastingtarief eerste schijf en de volgens artikel 11 van de Wet financiering sociale verzekeringen vastgestelde premiepercentages voor de algemene ouderdomsverzekering, de nabestaandenverzekering en de verzekering langdurige zorg.   
 
 ### Artikel  21a  
 
@@ -755,18 +776,18 @@ f.  de alleenstaande ouderenkorting (artikel 22c).
 ### Artikel  22  
 
 1.  Voor de werknemer is de algemene heffingskorting van toepassing.   
-2.  De algemene heffingskorting bedraagt € 2.103, verminderd met 2% van het gedeelte van het belastbare loon dat meer bedraagt dan € 19.645, met dien verstande dat de vermindering ten hoogste € 737 bedraagt.  
+2.  De algemene heffingskorting bedraagt € 2.203, verminderd met 2,32% van het gedeelte van het belastbare loon dat meer bedraagt dan € 19.822, met dien verstande dat de vermindering ten hoogste € 861 bedraagt.  
 
 ### Artikel  22a  
 
 1.  Voor de werknemer die loon uit tegenwoordige arbeid geniet, is de arbeidskorting van toepassing.  
 2. De arbeidskorting wordt berekend over het loon uit tegenwoordige arbeid en bedraagt:
 
-a.1,807% van dat loon met een maximum van € 161, vermeerderd met:
+a.1,810% van dat loon met een maximum van € 163, vermeerderd met:
 
-b.18,724% van dat loon voorzover dit bij een tijdvakloon op jaarbasis meer bedraagt dan € 8.913, waarbij de som van de bedragen berekend op de voet van de onderdelen a en b niet meer bedraagt dan € 2.097, en verminderd, doch niet verder dan tot € 367, met:
+b.19,679% van dat loon voorzover dit bij een tijdvakloon op jaarbasis meer bedraagt dan € 9.010, waarbij de som van de bedragen berekend op de voet van de onderdelen a en b niet meer bedraagt dan € 2.220, en verminderd, doch niet verder dan tot € 184, met:
 
-c.4,00% van dat loon voorzover dit bij een tijdvakloon op jaarbasis meer bedraagt dan € 40.721. 
+c.4,00% van dat loon voorzover dit bij een tijdvakloon op jaarbasis meer bedraagt dan € 49.770. 
 3.  Met loon uit tegenwoordige arbeid wordt gelijkgesteld: 
 
 a. loon genoten wegens tijdelijke inactiviteit als bedoeld in artikel 628 van Boek 7 van het Burgerlijk Wetboek, alsmede hetgeen door de werknemer met een publiekrechtelijke dienstbetrekking wordt genoten op grond van naar aard en strekking overeenkomstige regelingen, voor een tijdvak van maximaal 104 weken;  
@@ -779,7 +800,7 @@ d. uitkeringen op grond van de Wet arbeid en zorg en aanvullingen daarop door de
 
 ### Artikel  22abis  
 
-1.  Voor de werknemer die loon uit tegenwoordige arbeid geniet en die bij het begin van het kalenderjaar de leeftijd van 60 jaar heeft bereikt maar nog niet de leeftijd van 64 jaar, is de werkbonus van toepassing.   
+1.  Voor de werknemer die loon uit tegenwoordige arbeid geniet en die bij het begin van het kalenderjaar de leeftijd van 61 jaar heeft bereikt maar nog niet de leeftijd van 64 jaar, is de werkbonus van toepassing.   
 2.  De werkbonus bedraagt: 
 
 a. 58,100% van het loon uit tegenwoordige arbeid voor zover dat meer bedraagt dan € 17.327, met een maximum van € 1.119, verminderd, doch niet verder dan tot nihil, met:  
@@ -788,22 +809,22 @@ b. 10,567% van het loon uit tegenwoordige arbeid voor zover dat meer bedraagt da
 
 ### Artikel  22aa  
 
-1.  Voor de werknemer die een uitkering geniet op grond van de Wet werk en arbeidsondersteuning jonggehandicapten of recht heeft op arbeidsondersteuning op grond van die wet, is de jonggehandicaptenkorting van toepassing. De korting kan tevens worden toegepast ten aanzien van de werknemer die ingevolge de Wet werk en arbeidsondersteuning jonggehandicapten recht heeft op een arbeidsongeschiktheidsuitkering, doch welke uitkering ingevolge artikel 3:48, 3:50 of 3:51 van die wet niet wordt betaald.   
-2.  De jonggehandicaptenkorting bedraagt € 708.  
+1.  Voor de werknemer die een uitkering geniet op grond van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten of recht heeft op arbeidsondersteuning op grond van die wet, is de jonggehandicaptenkorting van toepassing. De korting kan tevens worden toegepast ten aanzien van de werknemer die ingevolge de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten recht heeft op een arbeidsongeschiktheidsuitkering, doch welke uitkering ingevolge artikel 3:48, 3:50 of 3:51 van die wet niet wordt betaald.   
+2.  De jonggehandicaptenkorting bedraagt € 715.  
 
 ### Artikel  22b  
 
 1.  Voor de werknemer die de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, heeft bereikt, is de ouderenkorting van toepassing.   
-2.  De ouderenkorting bedraagt € 1032 indien de werknemer een tijdvakloon heeft dat op jaarbasis niet meer bedraagt dan € 35 450. De ouderenkorting bedraagt € 150 indien de werknemer een tijdvakloon heeft dat op jaarbasis meer bedraagt dan € 35 450. 
+2.  De ouderenkorting bedraagt € 1.042 indien de werknemer een tijdvakloon heeft dat op jaarbasis niet meer bedraagt dan € 35.770. De ouderenkorting bedraagt € 152 indien de werknemer een tijdvakloon heeft dat op jaarbasis meer bedraagt dan € 35.770. 
 
 ### Artikel  22c  
 
-1. Voor de werknemer die een uitkering als bedoeld in artikel 9, eerste lid, onderdeel a of onderdeel c, van de Algemene Ouderdomswet geniet, is de alleenstaande ouderenkorting van toepassing. 
-2. De alleenstaande ouderenkorting bedraagt € 429.
+1. Voor de werknemer die een uitkering als bedoeld in artikel 9, eerste lid, onderdeel a, van de Algemene Ouderdomswet geniet, is de alleenstaande ouderenkorting van toepassing. 
+2. De alleenstaande ouderenkorting bedraagt € 433.
 
 ### Artikel  22d  
 
-De in de artikelen 22, 22a, 22abis, 22aa, 22b en 22c vermelde bedragen en percentages worden bij het begin van het kalenderjaar van rechtswege vervangen door de bedragen en percentages die krachtens de artikelen 10.1, 10.7 en 10.7a van de Wet inkomstenbelasting 2001 worden vastgesteld ter vervanging van de in de artikelen 8.10, 8.11, 8.12, 8.16a, 8.17 en 8.18 van die wet vermelde bedragen en percentages. 
+De in de artikelen 22, 22a, 22aa, 22b en 22c vermelde bedragen en percentages worden bij het begin van het kalenderjaar van rechtswege vervangen door de bedragen en percentages die krachtens de artikelen 10.1 en 10.7 van de Wet inkomstenbelasting 2001 worden vastgesteld ter vervanging van de in de artikelen 8.10, 8.11, 8.16a, 8.17 en 8.18 van die wet vermelde bedragen en percentages. 
 
 ### Artikel  23  
 
@@ -818,7 +839,7 @@ a. met toepassing van de heffingskorting voor de loonbelasting:
 2°. met betrekking tot het loon in de vorm van uitkeringen ingevolge de Algemene Ouderdomswet dan wel loon uit vroegere dienstbetrekking waarin zijn begrepen de uitkeringen ingevolge de Algemene Ouderdomswet dat een in Nederland wonende werknemer die de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, heeft bereikt geniet, tenzij de werknemer een schriftelijk, gedagtekend en ondertekend verzoek aan de inhoudingsplichtige heeft gedaan om de heffingskorting voor de loonbelasting niet toe te passen;    
 
 b. zonder toepassing van de heffingskorting voor de loonbelasting met betrekking tot tegemoetkomingen als bedoeld in artikel 10 van de Wet tegemoetkoming chronisch zieken en gehandicapten, zoals dat luidde op 31 december 2013, artikel 63a van de Wet werk en inkomen naar arbeidsvermogen, artikel 65l van de Wet op de arbeidsongeschiktheidsverzekering, artikel 67i van de Wet arbeidsongeschiktheidsverzekering zelfstandigen en artikel 3:75 van de Wet werk en arbeidsondersteuning jonggehandicapten.    
-4.  In afwijking in zoverre van het eerste en tweede lid wordt door de werknemer, die een uitkering of inkomensvoorziening geniet op grond van de Wet werk en arbeidsondersteuning jonggehandicapten, het deel van de heffingskorting dat betrekking heeft op de jonggehandicaptenkorting geldend gemaakt tegenover de inhoudingsplichtige die de uitkering of inkomensvoorziening op grond van de Wet werk en arbeidsondersteuning jonggehandicapten uitbetaalt.   
+4.  In afwijking in zoverre van het eerste en tweede lid wordt door de werknemer, die een uitkering of inkomensvoorziening geniet op grond van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, het deel van de heffingskorting dat betrekking heeft op de jonggehandicaptenkorting geldend gemaakt tegenover de inhoudingsplichtige die de uitkering of inkomensvoorziening op grond van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten uitbetaalt.   
 5.  De inhoudingsplichtige bewaart het in het eerste en derde lid bedoelde verzoek ten minste vijf jaren na het einde van het kalenderjaar waarin de dienstbetrekking is geëindigd. 
 
 ### Artikel  24  
@@ -840,7 +861,7 @@ Voor de toepassing van de artikelen 21 tot en met 22d ter bepaling van de hoogte
 
 ### Artikel  26  
 
-1.  Tantièmes, gratificaties en andere beloningen die in de regel slechts eenmaal of eenmaal per jaar worden toegekend, worden belast volgens loonbelastingtabellen voor bijzondere beloningen die bij ministeriële regeling worden vastgesteld met overeenkomstige toepassing van artikel 25, tweede en derde lid, met dien verstande dat in deze tabellen jaarlonen en belastingpercentages worden opgenomen en geen rekening wordt gehouden met de arbeidskorting en de werkbonus.    
+1.  Tantièmes, gratificaties en andere beloningen die in de regel slechts eenmaal of eenmaal per jaar worden toegekend, worden belast volgens loonbelastingtabellen voor bijzondere beloningen die bij ministeriële regeling worden vastgesteld met overeenkomstige toepassing van artikel 25, tweede en derde lid, met dien verstande dat in deze tabellen jaarlonen en belastingpercentages worden opgenomen.    
 2.   Indien dit niet tot een hoger belastingbedrag leidt, mogen de in het eerste lid bedoelde beloningen worden beschouwd als een toevoeging aan het loon over het loontijdvak waarin zij worden uitbetaald.    
 3.   Overwerkloon mag worden belast naar het percentage dat wordt aangewezen door de loonbelastingtabel voor bijzondere beloningen.    
 4.   Als jaarloon geldt voor de toepassing van dit artikel:  
@@ -874,7 +895,7 @@ d.de werknemer ter zake van de in de onderdelen a tot en met c bedoelde inlichti
 1.  De belasting wordt geheven door inhouding op het loon.    
 2.  De inhoudingsplichtige is verplicht de belasting in te houden op het tijdstip waarop het loon wordt genoten.   
 3.   De inhouding vindt plaats volgens de op het tijdstip van inhouding voor de werknemer geldende loonbelastingtabel.    
-4.   Overtreft de belasting het van de inhoudingsplichtige genoten loon in geld, dan wordt het ontbrekende geacht te zijn ingehouden op het in het tweede lid omschreven tijdstip, met dien verstande dat de inhoudingsplichtige bevoegd is dat ontbrekende te verhalen op de werknemer.  Ingeval het artikel 27b, eerste lid toepassing vindt, is de vorige volzin van overeenkomstige toepassing met betrekking tot het gezamenlijke bedrag van de belasting en de premie voor de volksverzekeringen.    
+4.   Overtreft de belasting het van de inhoudingsplichtige genoten loon in geld, dan wordt het ontbrekende geacht te zijn ingehouden op het in het tweede lid omschreven tijdstip, met dien verstande dat de inhoudingsplichtige bevoegd is dat ontbrekende te verhalen op de werknemer.  Ingeval artikel 27b, eerste lid, toepassing vindt, is de vorige volzin van overeenkomstige toepassing met betrekking tot het gezamenlijke bedrag van de belasting en de premie voor de volksverzekeringen.    
 5.  De inhoudingsplichtige is verplicht de in een tijdvak ingehouden belasting op aangifte af te dragen.    
 6.  Onder bij ministeriële regeling te stellen voorwaarden kunnen ten aanzien van een in de onderneming van zijn ouder werkzaam kind dat behoort tot de huishouding van die ouder en niet is verzekerd ingevolge enige andere sociale verzekering dan een volksverzekering in de zin van de Wet financiering sociale verzekeringen of de zorgverzekering in de zin van de Zorgverzekeringswet, een van het tweede lid afwijkend tijdstip van inhouding en een van het derde lid afwijkende loonbelastingtabel worden vastgesteld. 
 
@@ -987,7 +1008,7 @@ e. de inspecteur binnen een halfjaar na het einde van een verstreken kalenderjaa
 
 ### Artikel 28b 
 
-1. Indien de inhoudingsplichtige de correcties, bedoeld in artikel 28a, tweede lid, niet, onjuist, onvolledig dan wel niet binnen de gestelde termijn heeft ingediend, vormt dit een verzuim terzake waarvan de inspecteur hem een bestuurlijke boete van ten hoogste € 1230 kan opleggen. 
+1. Indien de inhoudingsplichtige de correcties, bedoeld in artikel 28a, tweede lid, niet, onjuist, onvolledig dan wel niet binnen de gestelde termijn heeft ingediend, vormt dit een verzuim terzake waarvan de inspecteur hem een bestuurlijke boete van ten hoogste € 1.319 kan opleggen. 
 2. De bevoegdheid tot het opleggen van een bestuurlijke boete wegens het feit, bedoeld in artikel 28a, tweede lid, aanhef en onderdelen a en c, vervalt door verloop van vijf jaar na het einde van het kalenderjaar van de aangifte waarop het correctiebericht betrekking had moeten hebben. 
 3. De bevoegdheid tot het opleggen van een bestuurlijke boete wegens het feit, bedoeld in artikel 28a, tweede lid, aanhef en onderdelen b en d, vervalt door verloop van een jaar na het einde van de termijn waarbinnen het correctiebericht had moeten worden gedaan. 
 4.  De bevoegdheid tot het opleggen van een bestuurlijke boete wegens het feit, bedoeld in artikel 28a, tweede lid, aanhef en onderdeel e, vervalt door verloop van een jaar na het einde van het kalenderjaar waarin de opgave had moeten worden verstrekt.  
@@ -996,7 +1017,7 @@ e. de inspecteur binnen een halfjaar na het einde van een verstreken kalenderjaa
 
 ### Artikel 28c 
 
-1. Indien de inhoudingsplichtige de opgave, bedoeld in artikel 28, eerste lid, onderdeel g, niet, onjuist, onvolledig dan wel niet binnen de gestelde termijn heeft verstrekt, vormt dit een verzuim terzake waarvan de inspecteur hem een bestuurlijke boete van ten hoogste € 1230 kan opleggen. 
+1. Indien de inhoudingsplichtige de opgave, bedoeld in artikel 28, eerste lid, onderdeel g, niet, onjuist, onvolledig dan wel niet binnen de gestelde termijn heeft verstrekt, vormt dit een verzuim terzake waarvan de inspecteur hem een bestuurlijke boete van ten hoogste € 1.319 kan opleggen. 
 2. De bevoegdheid tot het opleggen van een bestuurlijke boete wegens het feit, bedoeld in het eerste lid, vervalt door verloop van één jaar na het einde van het kalenderjaar waarin de opgave, bedoeld in artikel 28, eerste lid, onderdeel g, had moeten worden verstrekt. 
 3.  Artikel 67cb van de Algemene wet inzake rijksbelastingen is van overeenkomstige toepassing op het in het eerste lid genoemde bedrag. 
 
@@ -1077,7 +1098,7 @@ b. een woning, behoudens voor zover:
 
 2°. het huisvesting buiten de woonplaats ter zake van de dienstbetrekking betreft;   
 
-c. geldboeten opgelegd door een Nederlandse stafrechter en geldsommen betaald aan de Staat ter voorkoming van strafvervolging in Nederland of ter voldoening aan een voorwaarde verbonden aan een besluit tot gratieverlening, bestuurlijke boeten, geldboeten opgelegd op basis van bij wet geregeld tuchtrecht, alsmede kosten als bedoeld in artikel 234, vijfde lid, en artikel 235, derde lid, van de Gemeentewet;  
+c. geldboeten opgelegd door een strafrechter en geldsommen betaald aan een staat of een onderdeel daarvan ter voorkoming van strafvervolging of ter voldoening aan een voorwaarde verbonden aan een besluit tot gratieverlening, bestuurlijke boeten en daarmee vergelijkbare buitenlandse boeten, geldboeten opgelegd op basis van bij wet geregeld tuchtrecht, alsmede kosten als bedoeld in artikel 234, vijfde lid, en artikel 235, derde lid, van de Gemeentewet;  
 
 d. misdrijven ter zake waarvan de werknemer door een Nederlandse strafrechter bij onherroepelijke uitspraak is veroordeeld, daaronder begrepen misdrijven die zijn betrokken bij de bepaling van de hoogte van de opgelegde straf en ter zake waarvan het Openbaar Ministerie heeft verklaard te zullen afzien van vervolging;  
 
@@ -1093,7 +1114,7 @@ g. dieren die krachtens een onherroepelijke bestuursrechtelijke of strafrechteli
 ### Artikel  31a  
 
 1.  Het bedrag van de verschuldigde belasting met betrekking tot vergoedingen en verstrekkingen als bedoeld in artikel 31, eerste lid, onderdeel f en onderdeel g, wordt per inhoudingsplichtige bepaald.   
-2.  De verschuldigde belasting met betrekking tot vergoedingen en verstrekkingen als bedoeld in artikel 31, eerste lid, onderdeel f en onderdeel g, wordt bepaald naar een tarief van 80%, met dien verstande dat deze vergoedingen en verstrekkingen worden verminderd, maar niet verder dan tot nihil, met 1,5% van het loon waarover met toepassing van de artikelen 20a, 20b, 26 en 26b belasting wordt geheven, alsmede met vergoedingen en verstrekkingen als bedoeld in artikel 31, eerste lid, onderdeel f en onderdeel g, ter zake of in de vorm van: 
+2.  De verschuldigde belasting met betrekking tot vergoedingen en verstrekkingen als bedoeld in artikel 31, eerste lid, onderdeel f en onderdeel g, wordt bepaald naar een tarief van 80%, met dien verstande dat deze vergoedingen en verstrekkingen worden verminderd, maar niet verder dan tot nihil, met 1,2% van het loon waarover met toepassing van de artikelen 20a, 20b, 26 en 26b belasting wordt geheven, alsmede met vergoedingen en verstrekkingen als bedoeld in artikel 31, eerste lid, onderdeel f en onderdeel g, ter zake of in de vorm van: 
 
 a. vervoer in het kader van de dienstbetrekking, waaronder woon-werkverkeer: 
 
@@ -1115,13 +1136,21 @@ d. het volgen van een opleiding of studie met het oog op het verwerven van inkom
 
 e. extra kosten van tijdelijk verblijf buiten het land van herkomst in het kader van de dienstbetrekking (extraterritoriale kosten), met dien verstande dat voor bij of krachtens algemene maatregel van bestuur aan te wijzen groepen werknemers die door een inhoudingsplichtige van buiten Nederland in dienstbetrekking worden genomen of buiten Nederland worden uitgezonden, onder daarbij te stellen voorwaarden, geldt dat vergoedingen van kosten en verstrekkingen van verblijf buiten het land van herkomst – voor van buiten Nederland in dienstbetrekking genomen werknemers gedurende ten hoogste acht jaar – ten minste worden beschouwd als vergoeding voor extraterritoriale kosten tot ten hoogste 30% van het daarbij aan te wijzen gedeelte van het loon, alsmede tot het bedrag van de daarbij aan te wijzen schoolgelden;  
 
-f. verhuizing in het kader van de dienstbetrekking, ter omvang van de kosten van het overbrengen van de inboedel vermeerderd met € 7750, waarbij bij ministeriële regeling regels kunnen worden gesteld voor de beoordeling of in ieder geval in het kader van de dienstbetrekking wordt verhuisd.     
+f. verhuizing in het kader van de dienstbetrekking, ter omvang van de kosten van het overbrengen van de inboedel vermeerderd met € 7750, waarbij bij ministeriële regeling regels kunnen worden gesteld voor de beoordeling of in ieder geval in het kader van de dienstbetrekking wordt verhuisd;  
+
+g. gereedschappen, computers, mobiele communicatiemiddelen en dergelijke apparatuur, die naar het redelijke oordeel van de inhoudingsplichtige noodzakelijk zijn voor de behoorlijke vervulling van de dienstbetrekking, met inbegrip van het bijbehorende datatransport en de voor het gebruik in het kader van dienstbetrekking benodigde programmatuur en dergelijke, indien: 
+
+1°. de werknemer verplicht is tot teruggaaf van deze voorziening of tot vergoeding van de restwaarde, voor zover de voorziening voor rekening van de inhoudingsplichtige is gekomen, op het moment dat deze voorziening naar het redelijke oordeel van de inhoudingsplichtige niet langer noodzakelijk is voor de behoorlijke vervulling van de dienstbetrekking; en  
+
+2°. de werknemer geen werkzaamheden verricht in de functie van bestuurder of commissaris van de inhoudingsplichtige;    
+
+h. bij ministeriële regeling aan te wijzen voorzieningen die geheel of gedeeltelijk op een bij die ministeriële regeling aan te wijzen werkplek worden gebruikt of verbruikt;  
+
+i. branche-eigen producten van het bedrijf van de inhoudingsplichtige of van het bedrijf van een met de inhoudingsplichtige verbonden vennootschap, tot een bedrag van ten hoogste 20% van de waarde in het economische verkeer van deze producten, maar niet meer dan € 500 per werknemer per kalenderjaar.    
 3.  In afwijking in zoverre van het tweede lid worden vergoedingen en verstrekkingen als bedoeld in artikel 31, eerste lid, onderdeel f en onderdeel g, bij de bepaling van de daarover verschuldigde belasting niet verminderd met vaste vergoedingen ter zake van de in het tweede lid bedoelde kosten ingeval aan deze vergoedingen geen onderzoek naar de werkelijk gemaakte kosten ten grondslag ligt.   
-4.  In afwijking in zoverre van het tweede lid is het bij de berekening van de verschuldigde belasting met betrekking tot vergoedingen en verstrekkingen als bedoeld in artikel 31, eerste lid, onderdeel f en onderdeel g, toegestaan om gedurende het kalenderjaar gebruik te maken van het door de inhoudingsplichtige verstrekte loon over het gehele voorafgaande kalenderjaar, met toepassing van de herleidingsregels, bedoeld in artikel 25, eerste lid. Bij toepassing van de eerste volzin vindt uiterlijk in het eerste aangiftetijdvak van het volgende kalenderjaar herrekening van de verschuldigde belasting plaats op basis van het daadwerkelijk door de inhoudingsplichtige verstrekte loon waarover met toepassing van de artikelen 20a, 20b, 26 en 26b belasting is geheven.   
-5.  Ingeval de vergoedingen en verstrekkingen, bedoeld in artikel 31, eerste lid, onderdeel f en onderdeel g, verminderd met de vergoedingen en verstrekkingen, bedoeld in het tweede lid, onderdelen a tot en met f, meer bedragen dan 1,5% van het loon waarover met toepassing van de artikelen 20a, 20b, 26 en 26b belasting wordt geheven, is het, in afwijking van artikel 27a, tweede lid, toegestaan de verschuldigde belasting eerst vast te stellen en af te dragen voor zover de vergoedingen en verstrekkingen, bedoeld in artikel 31, eerste lid, onderdeel f en onderdeel g, verminderd met de vergoedingen en verstrekkingen, bedoeld in het tweede lid, onderdelen a tot en met f, over de in het kalenderjaar verstreken aangiftetijdvakken meer bedragen dan 1,5% van het door de inhoudingsplichtige over het gehele voorafgaande kalenderjaar verstrekte loon waarover met toepassing van de artikelen 20a, 20b, 26 en 26b belasting is geheven. Bij toepassing van de eerste volzin vindt uiterlijk in het eerste aangiftetijdvak van het volgende kalenderjaar herrekening van de verschuldigde belasting plaats op basis van het daadwerkelijk door de inhoudingsplichtige verstrekte loon.   
-6.  Voor de toepassing van het tweede lid wordt onder vervoer vanwege de inhoudingsplichtige verstaan: vervoer als bedoeld in artikel 13a, zesde lid.   
-7.  Voor de toepassing van dit artikel worden vergoedingen ter zake van vervoer als bedoeld in het tweede lid, onderdeel a, onder 3°, geacht niet hoger te zijn dan € 0,19 per afgelegde kilometer voor zover deze vergoedingen in totaal niet meer hebben bedragen dan het aantal in het kalenderjaar in dit kader afgelegde kilometers vermenigvuldigd met € 0,19.   
-8.  Voor de berekening van de in het tweede lid, onderdeel a, bedoelde vaste vergoeding ter zake van vervoer worden de in dat onderdeel genoemde aantallen dagen: 
+4.  Voor de toepassing van het tweede lid wordt onder vervoer vanwege de inhoudingsplichtige verstaan: vervoer als bedoeld in artikel 13a, zesde lid.   
+5.  Voor de toepassing van dit artikel worden vergoedingen ter zake van vervoer als bedoeld in het tweede lid, onderdeel a, onder 3°, geacht niet hoger te zijn dan € 0,19 per afgelegde kilometer voor zover deze vergoedingen in totaal niet meer hebben bedragen dan het aantal in het kalenderjaar in dit kader afgelegde kilometers vermenigvuldigd met € 0,19.   
+6.  Voor de berekening van de in het tweede lid, onderdeel a, bedoelde vaste vergoeding ter zake van vervoer worden de in dat onderdeel genoemde aantallen dagen: 
 
 a. vermenigvuldigd met vier vijfde, drie vijfde, twee vijfde of een vijfde ingeval de werknemer een vierdaagse, een driedaagse, een tweedaagse onderscheidenlijk een eendaagse werkweek heeft;  
 
@@ -1130,12 +1159,31 @@ b. naar tijdsgelang herrekend bij:
 1°. een wijziging van de reisafstand in de loop van het kalenderjaar;  
 
 2°. het aanvangen of beëindigen van de vergoeding in de loop van het kalenderjaar.      
+7.  Het tweede lid, onderdeel g, is niet van toepassing voor zover de vergoeding of verstrekking, al dan niet in het kader van een wijziging van de samenstelling van de tussen de werknemer en de inhoudingsplichtige overeengekomen beloning, in de plaats is gekomen van een ander loonbestanddeel.   
+8.  Het tweede lid, onderdeel g, onder 2°, is niet van toepassing voor zover de inhoudingsplichtige aannemelijk maakt dat de voorziening een voor de behoorlijke vervulling van de dienstbetrekking van de desbetreffende werknemer gebruikelijke voorziening is.  
 9.  Bij de toepassing van het tweede lid wordt, in afwijking van artikel 13, zesde lid, de ingevolge artikel 13, eerste tot en met vijfde lid, in aanmerking te nemen waarde van verstrekkingen als bedoeld in artikel 31, eerste lid, onderdeel f en onderdeel g, verminderd met het bedrag dat de inhoudingsplichtige ter zake van die verstrekkingen in totaal aan zijn werknemers in rekening heeft gebracht, met dien verstande dat de aldus verminderde waarde ten minste op nihil wordt gesteld.  
 10.  Bij de bepaling van het in het tweede lid bedoelde loon wordt buiten beschouwing gelaten: 
 
 a. loon uit vroegere dienstbetrekking indien de inhoudingsplichtige in meer dan bijkomstige mate loon uit vroegere dienstbetrekking verstrekt;  
 
-b. loon ter zake waarvan de inhoudingsplichtige uitsluitend ingevolge artikel 6, eerste lid, onderdeel c, inhoudingsplichtige is.   
+b. loon ter zake waarvan de inhoudingsplichtige uitsluitend ingevolge artikel 6, eerste lid, onderdeel c, inhoudingsplichtige is.    
+11.  De verschuldigde belasting, bedoeld in het tweede lid, wordt, in afwijking van artikel 27a, tweede lid, uiterlijk aangegeven en afgedragen tegelijk met de aangifte, onderscheidenlijk afdracht, over het eerste tijdvak van het volgende kalenderjaar. Ingeval de inhoudingsplicht is geëindigd in de loop van het kalenderjaar wordt voor het eerste tijdvak van het volgende kalenderjaar, bedoeld in de eerste volzin, gelezen: het tijdvak waarin de inhoudingsplicht is geëindigd. 
+
+### Artikel  32  
+
+1.  In afwijking van artikel 31a, eerste lid, kan de belasting die door alle gezamenlijk in concernverband opererende inhoudingsplichtigen is verschuldigd met betrekking tot vergoedingen en verstrekkingen als bedoeld in artikel 31, eerste lid, onderdeel f en onderdeel g, worden bepaald alsof deze inhoudingsplichtigen gezamenlijk één inhoudingsplichtige zijn. Deze belasting wordt aangegeven en afgedragen door de tot het concernverband behorende inhoudingsplichtige met het grootste bedrag aan loon waarover in het kalenderjaar met toepassing van de artikelen 20a, 20b, 26 en 26b belasting is geheven.   
+2.  Een inhoudingsplichtige opereert gezamenlijk met een andere inhoudingsplichtige in concernverband, indien gedurende het gehele kalenderjaar: 
+
+a. de inhoudingsplichtige voor ten minste 95% belang heeft in die andere inhoudingsplichtige;  
+
+b. die andere inhoudingsplichtige voor ten minste 95% belang heeft in de inhoudingsplichtige, of  
+
+c. een derde voor ten minste 95% belang heeft in de inhoudingsplichtige, terwijl deze derde tevens voor ten minste 95% belang heeft in die andere inhoudingsplichtige.   Een inhoudingsplichtige wordt voor de toepassing van het eerste lid eveneens geacht gezamenlijk met een andere inhoudingsplichtige in concernverband te opereren, indien deze inhoudingsplichtigen stichtingen zijn die gedurende het gehele kalenderjaar in financieel, organisatorisch en economisch opzicht zodanig met elkaar zijn verweven dat zij een eenheid vormen. Bij ministeriële regeling worden nadere regels gesteld voor de toepassing van de tweede volzin.   
+3.  Bij ministeriële regeling worden regels gesteld over de door iedere inhoudingsplichtige die ingevolge het eerste lid samen met andere inhoudingsplichtigen als één inhoudingsplichtige wordt beschouwd te administreren gegevens ten aanzien van: 
+
+a. de berekening van de verschuldigde belasting, bedoeld in het eerste lid;  
+
+b. de inhoudingsplichtige die de belasting, bedoeld in onderdeel a, aangeeft en afdraagt.    
 
 ### Artikel  32a  
 
@@ -1174,7 +1222,7 @@ Ter bevordering van een goede uitvoering van deze afdeling kunnen bij ministeri�
 ###Artikel 32bb 
 
 1. In afwijking in zoverre van het overigens bij of krachtens deze wet bepaalde, wordt een door een inhoudingsplichtige aan een werknemer toegekende vertrekvergoeding als bedoeld in het vierde lid voor zover die vergoeding meer bedraagt dan het toetsloon, bedoeld in het derde lid, van de werknemer, aangemerkt als loon dat als een eindheffingsbestanddeel wordt belast naar een tarief van 75%.
-2. Dit artikel is niet van toepassing ingeval het toetsloon van de werknemer niet meer bedraagt dan € 531 000.
+2. Dit artikel is niet van toepassing ingeval het toetsloon van de werknemer niet meer bedraagt dan € 535.000.
 3. Voor de toepassing van dit artikel wordt onder het toetsloon van een werknemer verstaan:
 
 a.ingeval de dienstbetrekking is aangevangen vóór of met het begin van het tweede kalenderjaar voorafgaande aan het kalenderjaar waarin de dienstbetrekking is beëindigd: het loon dat de werknemer in dat tweede voorafgaande kalenderjaar heeft genoten van de inhoudingsplichtige;
@@ -1202,19 +1250,6 @@ d. ingeval de dienstbetrekking is aangevangen in het kalenderjaar waarin de dien
 7. Voor de toepassing van het eerste lid wordt een vertrekvergoeding beschouwd te zijn toegekend op het tijdstip waarop de dienstbetrekking is beëindigd, of, voor zover de vertrekvergoeding pas daarna als loon wordt genoten, op dat latere tijdstip. Ingeval een vertrekvergoeding ingevolge de eerste volzin wordt beschouwd te zijn toegekend op meer dan een tijdstip, wordt de berekening ingevolge het vierde lid op elk tijdstip toegepast onder verrekening van hetgeen eerder is berekend.
 8. Bij het begin van het kalenderjaar wordt het in het tweede lid genoemde bedrag bij ministeriële regeling vervangen door een ander bedrag. Dit bedrag wordt berekend door het te vervangen bedrag te vermenigvuldigen met de tabelcorrectiefactor, bedoeld in artikel 10.2 van de Wet inkomstenbelasting 2001, en vervolgens de nodig geachte afronding aan te brengen. Indien in het voorafgaande kalenderjaar een dergelijke afronding is toegepast, kan bij vervanging worden uitgegaan van het niet-afgeronde bedrag.
 9. Het eerste lid is niet van toepassing op een bedrag dat ingevolge artikel 32ba, eerste lid, wordt aangemerkt als loon dat als een eindheffingsbestanddeel wordt belast.
-
-###Artikel  32bc 
-
-1. In afwijking in zoverre van het overigens bij of krachtens deze wet bepaalde, wordt een door een inhoudingsplichtige ter zake van een loonstijging aan een werknemer toegekende aanspraak ingevolge een op een eindloonstelsel gebaseerde pensioenregeling, aangemerkt als loon dat als een eindheffingsbestanddeel wordt belast naar een tarief van 15%. De waarde van de ter zake van de loonstijging toegekende aanspraak wordt hierbij gesteld op het viervoud van de verhoging van het pensioengevend loon ten gevolge van die loonstijging.
-2. Het eerste lid is van overeenkomstige toepassing ingeval een aanspraak ingevolge een op een eindloonstelsel gebaseerde pensioenregeling wordt toegekend ter zake van het verschil tussen het op het tijdstip van toekenning geldende pensioengevend loon en het pensioengevend loon in een eerdere dienstbetrekking van de werknemer op het tijdstip van beëindiging van die dienstbetrekking. De waarde van de ter zake van dit verschil toegekende aanspraak wordt hierbij gesteld op het viervoud van dit verschil.
-3. Voor de toepassing van dit artikel blijven loonstijgingen en verschillen in pensioengevend loon buiten beschouwing voor zover de loonstijging onderscheidenlijk het verschil in pensioengevend loon niet leidt tot een ingevolge een op een eindloonstelsel gebaseerde pensioenregeling in aanmerking genomen pensioengevend loon van meer dan € 531 000. 
-4. Bij het begin van het kalenderjaar wordt het in het derde lid genoemde bedrag bij ministeriële regeling vervangen door een ander bedrag. Dit bedrag wordt berekend door het te vervangen bedrag te vermenigvuldigen met de tabelcorrectiefactor, bedoeld in artikel 10.2 van de Wet inkomstenbelasting 2001, en vervolgens de nodig geachte afronding aan te brengen. Indien in het voorafgaande kalenderjaar een dergelijke afronding is toegepast, kan bij vervanging worden uitgegaan van het niet-afgeronde bedrag.
-
-### Artikel  32bd  
-
-1.  In afwijking in zoverre van het overigens bij of krachtens deze wet bepaalde, wordt loon uit tegenwoordige dienstbetrekking waarover in het voorafgaande kalenderjaar met toepassing van de artikelen 20a, 20b, 26 en 26b belasting is geheven, voor de toepassing van dit artikel aangemerkt als op 31 maart van het kalenderjaar genoten loon dat als een eindheffingsbestanddeel wordt belast naar een tarief van 16%, voor zover dat loon in het voorafgaande kalenderjaar meer bedroeg dan € 150 000.   
-2.  Voor de toepassing van het eerste lid behoort tevens tot het loon van een werknemer het loon dat die werknemer heeft genoten van een met de inhoudingsplichtige verbonden vennootschap. Het eerste lid vindt in de in de vorige volzin bedoelde gevallen toepassing bij de inhoudingsplichtige die in het voorafgaande kalenderjaar het grootste deel van het loon van de werknemer heeft verstrekt.   
-3.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot hetgeen voor de toepassing van het eerste lid als door een inhoudingsplichtige in het voorafgaande kalenderjaar aan een werknemer verstrekt loon in aanmerking wordt genomen.  
 
 ###Hoofdstuk VA 
 
@@ -1252,7 +1287,7 @@ b. de inhoudingsplichtige aan wie het loon wordt afgestaan aangifte doet in over
 
 1.  Ter vergemakkelijking van de heffing van belasting kunnen bij of krachtens algemene maatregel van bestuur regels worden gesteld betreffende: 
 
-a. een rechtstreeks uit het familierecht voortvloeiende uitkering of verstrekking in de zin van artikel 3.101, eerste lid, onderdeel b, van de Wet inkomstenbelasting 2001, ingeval hiermede rekening wordt gehouden bij het vaststellen van de hoogte van een periodieke uitkering ingevolge de Wet werk en bijstand;  
+a. een rechtstreeks uit het familierecht voortvloeiende uitkering of verstrekking in de zin van artikel 3.101, eerste lid, onderdeel b, van de Wet inkomstenbelasting 2001, ingeval hiermede rekening wordt gehouden bij het vaststellen van de hoogte van een periodieke uitkering ingevolge de Participatiewet;  
 
 b. de voorwaarden waaronder een vermindering met het loon van hulpen plaatsvindt van het loon verstrekt aan: 
 
@@ -1262,7 +1297,7 @@ b. de voorwaarden waaronder een vermindering met het loon van hulpen plaatsvindt
 
 c. het vaststellen van tabelloon in de gevallen, bedoeld in het tweede lid, onderdeel c;  
 
-d. het door de inhoudingsplichtige aan het einde van het kalenderjaar herrekenen van de belasting geheven over uitkeringen en verstrekkingen ingevolge de Wet werk en bijstand;  
+d. het door de inhoudingsplichtige aan het einde van het kalenderjaar herrekenen van de belasting geheven over uitkeringen en verstrekkingen ingevolge de Participatiewet;  
 
 e. de inhoudingsplicht ter zake van loon dat een werknemer geniet van een derde.    
 2.   Bij ministeriële regeling kunnen aanvullende regels worden gesteld betreffende:  
@@ -1273,7 +1308,7 @@ b. inhouding van geschatte bedragen, gevolgd door periodieke afrekening;
 
 c. het vaststellen van loonbelastingtabellen voor: 
 
-1°. degenen die uitkeringen of verstrekkingen ontvangen ingevolge de Wet werk en bijstand;  
+1°. degenen die uitkeringen of verstrekkingen ontvangen ingevolge de Participatiewet;  
 
 2°. uitvoerders van aangenomen werk, hun hulpen, degenen van wie de arbeidsverhouding op grond van artikel 4, onderdeel a, b of e, als dienstbetrekking wordt beschouwd en bij ministeriële regeling aangewezen sekswerkers van wie de arbeidsverhouding bij of krachtens algemene maatregel van bestuur als dienstbetrekking wordt beschouwd.    Voor de gevallen waarin artikel 27b, eerste lid, toepassing vindt, worden deze tabellen zodanig vastgesteld dat telkens de belasting en de premie voor de volksverzekeringen in één percentage worden opgenomen.  
 
@@ -1526,7 +1561,7 @@ b.aan werknemers die voor 1 januari 2005 de leeftijd van 55 jaar hebben bereikt 
 
 ###Artikel 38g 
 
-Voor de toepassing van artikel 18e, eerste lid, onderdeel b, en vierde lid, wordt het 40<sup>1</sup>/<sub>6</sub>-deelnemingsjarenpensioen opgevat met inbegrip van:
+Voor de toepassing van artikel 18e, eerste lid, onderdeel b, en vierde lid, wordt het 40<sup>1</sup>/<sub>4</sub>-deelnemingsjarenpensioen opgevat met inbegrip van:
 
 a.een overbruggingspensioen als bedoeld in artikel 18e, zoals dit artikel op 31 december 2004 luidde;
 
@@ -1565,7 +1600,6 @@ Artikel 19b, eerste lid, is niet van toepassing op een bij artikel 66 van de Inv
 In afwijking in zoverre van artikel 18d, eerste lid, onderdeel b, wordt de mate van variatie in de hoogte van een pensioen dat vóór 1 januari 2013 is ingegaan ten laatste bij het bereiken van de 65-jarige leeftijd vastgesteld. 
 
 ### Artikel  38m  
-Treedt in werking per 01-01-2015 
 
 In afwijking in zoverre van de artikelen 18a, 18b, 18c en 18e kunnen een ouderdomspensioen, een partnerpensioen, een wezenpensioen en een deelnemingsjarenpensioen meer bedragen dan de aldaar opgenomen maxima voor zover zulks het gevolg is van de omstandigheid dat artikel 18ga tot 1 januari 2015 niet van toepassing was. 
 
@@ -1577,17 +1611,6 @@ a.loon waarop de belasting met toepassing van die bepaling voor 1 januari 1994 
 
 b.loon waarvan is overeengekomen dat een niet meer dan bijkomstig gedeelte op een ongebruikelijk tijdstip zal worden genoten en waarop de belasting met toepassing van die bepaling voor 1 januari 2006 zou zijn ingehouden. 
 
-### Artikel  39c  
-
-1.  Ingeval de inhoudingsplichtige daar bij de aanvang van het kalenderjaar, dan wel bij aanvang van de inhoudingsplicht, voor kiest, blijven artikel 10, eerste lid, artikel 11, eerste lid, onderdelen a, b, i, m, q, s en t, artikel 13, artikel 13a, hoofdstuk IIA, artikel 31, met uitzondering van het eerste lid, onderdeel f, het tweede lid, onderdeel c, onder 1°, het achtste lid en het tiende lid, artikel 32a en artikel 32d zoals deze op 31 december 2010 luidden, alsmede de daarop gebaseerde bepalingen, voor al zijn werknemers van toepassing voor dat kalenderjaar onderscheidenlijk voor het vanaf de aanvang van de inhoudingsplicht resterende gedeelte van het kalenderjaar, en zijn artikel 31a en de daarop gebaseerde bepalingen niet van toepassing voor dat kalenderjaar onderscheidenlijk voor het vanaf de aanvang van de inhoudingsplicht resterende gedeelte van het kalenderjaar. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de toepassing van de op deze wet gebaseerde uitvoeringsbepalingen.  
-2.  Bij toepassing van het eerste lid wordt artikel 15b, eerste lid, onderdeel ha, zoals dat op 31 december 2010 luidde, vanaf 1 januari 2011 als volgt gelezen: 
-
-ha. personeelsreizen, personeelsfestiviteiten en dergelijke incidentele voorzieningen, behoudens voor zover de vergoeding, volgens bij ministeriële regeling te stellen regels, niet meer bedraagt dan € 454 per jaar.     
-3.  Bij toepassing van het eerste lid wordt artikel 15a, eerste lid, onderdeel j, zoals dat op 31 december 2010 luidde, vanaf 1 januari 2012 als volgt gelezen: 
-
-j. extra kosten van tijdelijk verblijf buiten het land van herkomst (extraterritoriale kosten), met dien verstande dat voor bij of krachtens algemene maatregel van bestuur aan te wijzen groepen werknemers die door een inhoudingsplichtige van buiten Nederland in dienstbetrekking worden genomen of buiten Nederland worden uitgezonden, onder daarbij te stellen voorwaarden, geldt dat vergoedingen van kosten van verblijf buiten het land van herkomst – voor van buiten Nederland in dienstbetrekking genomen werknemers gedurende ten hoogste acht jaar – ten minste worden beschouwd als vergoeding voor extraterritoriale kosten tot ten hoogste 30 percent van het loon en de vergoeding voor extraterritoriale kosten, alsmede tot het bedrag van de daarbij aan te wijzen schoolgelden;    
-4.  Bij het begin van het kalenderjaar worden de in de artikelen 34, 35, 51, 55 en 59 van de Uitvoeringsregeling loonbelasting 2001, zoals deze op 31 december 2010 luidde, vermelde bedragen en percentages gewijzigd overeenkomstig de tot en met die datum gehanteerde regels. 
-
 ### Artikel  39d  
 
 1.  Voor de werknemer die op 31 december 2011 een aanspraak had ingevolge een levensloopregeling als bedoeld in artikel 19g, zoals dit artikel op 31 december 2011 luidde, waarvan de waarde in het economische verkeer op die datum € 3000 of meer bedroeg, blijven de artikelen 11, eerste lid, onderdeel j, onder 5°, en onderdeel r, onder 4°, en derde lid, 19g, met uitzondering van het tweede lid, 21c, onderdeel f, 22a, zesde lid, 22ca, eerste lid, eerste volzin, en tweede lid, en 22d, artikel 25, vierde lid, van de Wet op de vennootschapsbelasting 1969 en artikel 4, zesde lid, van de Wet op de dividendbelasting 1965, zoals deze artikelen op 31 december 2011 luidden, van toepassing, met dien verstande dat: 
@@ -1598,7 +1621,8 @@ b. de op artikel 19g, zoals dat artikel op 31 december 2011 luidde, gebaseerde 
 2. Bij toepassing van dit artikel wordt artikel 19g, achtste lid, zoals dat luidde op 31 december 2011, vanaf 1 januari 2013 als volgt gelezen:
 
 8.De ingevolge de levensloopregeling opgebouwde voorziening wordt op de dag voorafgaand aan de dag waarop de werknemer de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, heeft bereikt, maar uiterlijk op de dag voorafgaand aan het ingaan van het ouderdomspensioen aangemerkt als loon uit een vroegere dienstbetrekking van de werknemer. 
-3.  Het eerste lid is voor de werknemer niet van toepassing ingeval het tweede lid, zoals dat op 31 december 2013 luidde, is toegepast. 
+3.  Het eerste lid is voor de werknemer niet van toepassing ingeval het tweede lid, zoals dat op 31 december 2013 luidde, is toegepast.  
+4.  In afwijking in zoverre van het eerste lid wordt, indien de werknemer ineens beschikt over de opgebouwde aanspraak, bedoeld in het eerste lid, en voor zover het ingevolge het eerste lid als loon in aanmerking te nemen bedrag niet hoger is dan de waarde in het economisch verkeer van die aanspraak op 31 december 2013, 80 percent van het ingevolge het eerste lid als loon in aanmerking te nemen bedrag in aanmerking genomen. Na toepassing van de eerste volzin, is op de werknemer het eerste lid niet meer van toepassing. 
 
 ### Artikel  39e  
 
@@ -1606,27 +1630,14 @@ Voor de werknemer die uiterlijk op 31 december 2011 een vergoeding genoot waaro
 
 ### Artikel  39f  
 
-1.  Met betrekking tot op 31 december 2013 bestaande aanspraken op periodieke uitkeringen ter vervanging van gederfd of te derven loon als bedoeld in de artikelen 11, eerste lid, onderdeel g, en 37, zoals die op 31 december 2013 luidden, en daarmee gelijkgestelde bedragen als bedoeld in artikel 11a, eerste lid, zoals dat op 31 december 2013 luidde, blijven de artikelen 10, vijfde lid, onderdeel c, 11, eerste lid, onderdeel g, en vierde lid, 11a, 19b, achtste lid, 32bb, zesde en achtste lid, en 37, zoals die op 31 december 2013 luidden, alsmede de daarop gebaseerde bepalingen, van toepassing.   
-2.  In afwijking in zoverre van het eerste lid mag de waarde van de aanspraak, het tegoed van de stamrechtrechtspaarrekening of de waarde van het stamrechtbeleggingsrecht in een bedrag ineens worden uitgekeerd.   
-3.  Indien de werknemer ineens beschikt over de aanspraak, bedoeld in het eerste of tweede lid, of over het ingevolge het eerste lid daarmee gelijkgestelde bedrag, wordt 80 percent van het ingevolge het eerste en tweede lid als loon in aanmerking te nemen bedrag in aanmerking genomen.   
-4.  Het derde lid is niet van toepassing indien de inhoudingsplichtige die de aanspraak, onderscheidenlijk het bedrag, heeft toegekend: 
-
-a. in geval van een aanspraak als bedoeld in artikel 11, eerste lid, onderdeel g, zoals dat op 31 december 2013 luidde: het ter financiering van die aanspraak verschuldigde bedrag niet voor 15 november 2013 heeft overgemaakt naar een verzekeraar als bedoeld in artikel 11, eerste lid, onderdeel g, onder 2°, zoals dat op 31 december 2013 luidde;  
-
-b. in geval van een bedrag als bedoeld in artikel 11a, eerste lid, zoals dat op 31 december 2013 luidde: het bedrag niet voor 15 november 2013 heeft overgemaakt naar: 
-
-1°. een stamrechtspaarrekening als bedoeld in artikel 11a, eerste lid, zoals dat op 31 december 2013 luidde, of  
-
-2°. een beheerder van een beleggingsinstelling als bedoeld in artikel 11a, tweede lid, onderdelen b en c, zoals dat op 31 december 2013 luidde.       
-5.  Voor de toepassing van het vierde lid wordt een bedrag mede geacht voor 15 november 2013 door de inhoudingsplichtige, bedoeld in het vierde lid, te zijn overgemaakt naar een verzekeraar als bedoeld in artikel 11, eerste lid, onderdeel g, onder 2°, zoals dat op 31 december 2013 luidde, ingeval die inhoudingsplichtige zich voor 15 november 2013 heeft verplicht als zodanige verzekeraar van de betreffende aanspraak op te treden.  
+1.  Met betrekking tot op 31 december 2013 bestaande aanspraken op periodieke uitkeringen ter vervanging van gederfd of te derven loon als bedoeld in de artikelen 11, eerste lid, onderdeel g, en 37, zoals die op 31 december 2013 luidden, en daarmee gelijkgestelde bedragen als bedoeld in artikel 11a, eerste lid, zoals dat op 31 december 2013 luidde, blijven de  artikelen 10, vijfde lid, onderdelen b en c, 11, eerste lid, onderdeel g, en vierde lid, 11a, 19b, achtste lid, 32bb, zesde en achtste lid, en 37, zoals die op 31 december 2013 luidden, alsmede de daarop gebaseerde bepalingen, van toepassing.   
+2.  In afwijking in zoverre van het eerste lid mag de waarde van de aanspraak, het tegoed van de stamrechtspaarrekening of de waarde van het stamrechtbeleggingsrecht geheel of gedeeltelijk op een eerder tijdstip worden uitgekeerd dan in de artikelen 11 en 11a, zoals die op 31 december 2013 luidden, en de daarop gebaseerde bepalingen, is bepaald.  
 
 ### Artikel  39g  
-Treedt in werking per 01-01-2015 
 
 Artikel 10, vijfde lid, zoals dat luidde op 31 december 2014, blijft van toepassing op uitkeringen en verstrekkingen uit een voordien niet tot het loon gerekende aanspraak ingevolge een pensioenregeling als bedoeld in artikel 32bc, zoals dat luidde op 31 december 2014. 
 
 ### Artikel  39h  
-Treedt in werking per 01-01-2015 
 
 Met betrekking tot auto’s waarvan het kenteken vóór 1 januari 2014 op naam is gesteld, dient, waar in artikel 13bis, drieëntwintigste lid, onderdeel a, vijfentwintigste lid of achtentwintigste lid, wordt gesproken over de eerste tenaamstelling van de auto in het kentekenregister, te worden uitgegaan van de eerste tenaamstelling van het kenteken van de auto in het kentekenregister. 
 

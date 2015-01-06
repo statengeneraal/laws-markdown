@@ -83,7 +83,7 @@ c. het een eenmalige aanvulling is die wordt verstrekt in verband met werkhervat
 
 ####Informatie
 
-*Bepalingen ter uitvoering van de artikelen 21, vierde lid, 38, derde lid, 39, tweede lid, 40, derde lid, 41, tweede lid, 42, derde lid, 43, tweede lid, 44, derde lid, 45, tweede lid en 46, vijfde lid van de Pensioenwet en de artikelen 48, derde lid, 49, derde lid, 50, tweede lid, 51, derde lid, 52, tweede lid, 53, derde lid, 54, tweede lid, 55, derde lid, 56, tweede lid en 57, vijfde lid, van de Wet verplichte beroepspensioenregeling*   
+*Bepalingen ter uitvoering van de artikelen 21, vierde lid, 38, derde lid, 39, tweede lid, 40, derde lid, 41, tweede lid, 42, derde lid, 43, tweede lid, 44, derde lid, 45, tweede lid, 45a, tweede lid en 46, vijfde lid van de Pensioenwet en de artikelen 48, derde lid, 49, derde lid, 50, tweede lid, 51, derde lid, 52, tweede lid, 53, derde lid, 54, tweede lid, 55, derde lid, 56, tweede lid, 56a, tweede lid, en 57, vijfde lid, van de Wet verplichte beroepspensioenregeling*   
 
 ### Artikel  2  
 
@@ -233,8 +233,6 @@ De informatie op grond van de artikelen 21, 38 tot en met 45 en 46, eerste lid, 
 
 ####Informatie over uitvoeringskosten in jaarverslag
 
-Treedt in werking per 01-01-2015 
-
 1.  De administratieve uitvoeringskosten, bedoeld in artikel 45a, eerste lid, van de Pensioenwet dan wel artikel 56a, eerste lid, van de Wet verplichte beroepspensioenregeling, zijn de kosten voor het pensioenbeheer. Hieronder wordt onder meer begrepen de kosten voor: 
 
 a. het vaststellen en innen van de premie;  
@@ -265,8 +263,6 @@ c. deelname aan beleggingsfondsen.
 ### Artikel  10b  
 
 ####Weergave uitvoeringskosten in jaarverslag
-
-Treedt in werking per 01-01-2015 
 
 1.  De administratieve uitvoeringskosten, bedoeld in artikel 10a, eerste lid, worden in het jaarverslag opgenomen als totaalbedrag en als bedrag per deelnemer of pensioengerechtigde.   
 2.  De kosten van vermogensbeheer, bedoeld in artikel 10a, tweede lid, en de transactiekosten, bedoeld in artikel 10a, derde lid, worden in het jaarverslag opgenomen als totaal bedrag en als percentage van het in het verslagjaar gemiddeld belegde vermogen.  
@@ -311,17 +307,19 @@ c. indien de uitbesteding een belemmering kan vormen voor een adequaat toezicht 
 
 a. welke werkzaamheden worden uitbesteed onder verwijzing, indien mogelijk, naar de administratieve organisatiebeschrijving van het fonds, alsmede de voorwaarden waaronder de uitbesteding plaatsvindt;  
 
-b. de informatie-uitwisseling tussen het fonds en de derde;  
+b. sluitende afspraken in beleggingsmandaten bij uitbesteding van vermogensbeheer; 
 
-c. de verplichting voor de derde om informatie waar de toezichthouder ter uitvoering van zijn wettelijke taak om vraagt rechtstreeks aan de toezichthouder ter beschikking te stellen; 
+c. de informatie-uitwisseling tussen het fonds en de derde;  
 
-d. de mogelijkheid voor het fonds om te allen tijde wijzigingen aan te brengen in de wijze waarop de uitvoering van de werkzaamheden door de derde geschiedt;  
+d. de verplichting voor de derde om informatie waar de toezichthouder ter uitvoering van zijn wettelijke taak om vraagt rechtstreeks aan de toezichthouder ter beschikking te stellen; 
 
-e. de verplichting voor de derde om het fonds in staat te stellen blijvend te voldoen aan het bij of krachtens de Pensioenwet dan wel de Wet verplichte beroepspensioenregeling bepaalde;  
+e. de mogelijkheid voor het fonds om te allen tijde wijzigingen aan te brengen in de wijze waarop de uitvoering van de werkzaamheden door de derde geschiedt;  
 
-f. de mogelijkheid voor de toezichthouder om onderzoek ter plaatse te doen of te laten doen bij de derde; en  
+f. de verplichting voor de derde om het fonds in staat te stellen blijvend te voldoen aan het bij of krachtens de Pensioenwet dan wel de Wet verplichte beroepspensioenregeling bepaalde;  
 
-g. de wijze waarop de overeenkomst wordt beëindigd, en de wijze waarop wordt gewaarborgd dat het fonds de werkzaamheden na beëindiging van de overeenkomst weer zelf kan uitvoeren of door een andere derde kan laten uitvoeren.    
+g. de mogelijkheid voor de toezichthouder om onderzoek ter plaatse te doen of te laten doen bij de derde; en  
+
+h. de wijze waarop de overeenkomst wordt beëindigd, en de wijze waarop wordt gewaarborgd dat het fonds de werkzaamheden na beëindiging van de overeenkomst weer zelf kan uitvoeren of door een andere derde kan laten uitvoeren.    
 
 ### Artikel  14  
 
@@ -329,8 +327,9 @@ g. de wijze waarop de overeenkomst wordt beëindigd, en de wijze waarop wordt ge
 
 1.  Een fonds draagt zorg voor een systematische analyse van de risico’s die samenhangen met de uitbesteding van werkzaamheden en legt deze vast. Het fonds maakt de analyse op het niveau van zijn eigen organisatie in zijn geheel en op het niveau van de onderscheiden bedrijfsonderdelen.   
 2.  Een fonds voert een adequaat beleid en beschikt over procedures en maatregelen met betrekking tot de uitbesteding van werkzaamheden, als onderdeel van een beheerste en integere bedrijfsvoering als bedoeld in artikel 143 van de Pensioenwet dan wel artikel 138 van de Wet verplichte beroepspensioenregeling.   
-3.  Een fonds beschikt over toereikende procedures, maatregelen, deskundigheid en informatie om de uitvoering van de uitbestede werkzaamheden te kunnen beoordelen.   
-4.  Een fonds heeft zicht op het beloningsbeleid van de derde aan wie werkzaamheden worden uitbesteed, betrekt het beloningsbeleid bij de keuze voor de derde waaraan de werkzaamheden worden uitbesteed en maakt zijn beleid dienaangaande openbaar. 
+3.  Een fonds hanteert een adequate selectieprocedure voor derden aan wie werkzaamheden worden uitbesteed. Het fonds legt vast op grond van welke afwegingen zij tot de keuze voor een bepaalde derde is gekomen.  
+4.  Een fonds beschikt over toereikende procedures, maatregelen, deskundigheid en informatie om de uitvoering van de uitbestede werkzaamheden te kunnen beoordelen.   
+5.  Een fonds heeft zicht op het beloningsbeleid van de derde aan wie werkzaamheden worden uitbesteed, betrekt het beloningsbeleid bij de keuze voor de derde waaraan de werkzaamheden worden uitbesteed en maakt zijn beleid dienaangaande openbaar. 
 
 ### Hoofdstuk  5  
 
@@ -350,7 +349,7 @@ g. de wijze waarop de overeenkomst wordt beëindigd, en de wijze waarop wordt ge
 
 ####Afkoop kleine pensioenen en afkoop bovenmatig pensioen
 
-1.  De afkoopwaarde, bedoeld in de artikelen 66 en 69, tweede lid, van de Pensioenwet dan wel bedoeld in artikel 78 van de Wet verplichte beroepspensioenregeling, wordt door de pensioenuitvoerder vastgesteld door middel van een afkoopvoet.   
+1.  De afkoopwaarde, bedoeld in de artikelen 66 en 69 van de Pensioenwet dan wel bedoeld in de artikelen 78 en 80a van de Wet verplichte beroepspensioenregeling, wordt door de pensioenuitvoerder vastgesteld door middel van een afkoopvoet.   
 2.  Er wordt dezelfde afkoopvoet vastgesteld voor een door de pensioenuitvoerder vast te stellen periode voor alle deelnemers en gewezen deelnemers.   
 3.  De afkoopvoet wordt zodanig vastgesteld dat er sprake is van collectieve actuariële gelijkwaardigheid.  
 
@@ -724,10 +723,47 @@ d. het overnemen van elkaars oordeel.
 
 ### Hoofdstuk  9  
 
-####Kostenregeling
+####Nettopensioen
 
-*Bepalingen ter uitvoering van artikel 160, vierde lid, van de Pensioenwet en artikel 155, vierde lid, van de Wet verplichte beroepspensioenregeling*   
-Vervallen per 01-01-2013 
+Bepalingen ter uitvoering van artikel 117a, eerste lid, van de Pensioenwet en artikel 115a, eerste lid, van de Wet verplichte beroepspensioenregeling 
+
+### Artikel  41  
+
+####Voorwaarden uitvoering nettopensioen
+
+1.  De uitvoering van het nettopensioen door een fonds voldoet aan de volgende voorwaarden: 
+
+a. ouderdomspensioen of nabestaandenpensioen op opbouwbasis heeft het karakter van een premieovereenkomst of premieregeling waarbij het fonds het kapitaal dat is ontstaan uit de som van de beschikbaar gestelde premies en de daarop behaalde rendementen belegt tot een onder b genoemd moment van omzetting;  
+
+b. omzetting van het kapitaal dat is ontstaan uit de som van de beschikbaar gestelde premies en de daarop behaalde rendementen in een pensioenrecht of pensioenaanspraak in de vorm van een periodieke uitkering kan plaatsvinden op het moment dat de deelnemer overlijdt, gepensioneerde of gewezen deelnemer wordt of in de tien jaren voorafgaand aan de pensioendatum op basis van een kostendekkend tarief;  
+
+c. de omzetting van het kapitaal dat is ontstaan uit de som van de beschikbaar gestelde premies en de daarop behaalde rendementen in een pensioenrecht of pensioenaanspraak in de vorm van een periodieke uitkering vindt plaats door inkoop in de basispensioenregeling waarbij: 
+
+1°. uitsluitend rekening wordt gehouden met de levensverwachting van de groep deelnemers aan het nettopensioen; en  
+
+2°. het nettopensioen een voorwaardelijke toeslagverlening kent;    
+
+d. ingeval de verplichtingen van het fonds ten aanzien van het nettopensioen toenemen als gevolg van een verschil in de stijging van de levensverwachting tussen de deelnemers aan het nettopensioen en de deelnemers aan de basispensioenregeling, vermindert het fonds de voorwaardelijke toeslagverlening bij het nettopensioen totdat deze toename van de verplichtingen bij het nettopensioen is gecompenseerd;  
+
+e. ingeval het fonds een incidentele bijstorting ontvangt van de werkgever vermindert het fonds de voorwaardelijke toeslagverlening bij het nettopensioen, voor zover deze storting ten goede is gekomen aan het nettopensioen;  
+
+f. in geval van een nabestaandenpensioen op risicobasis of een premievrijstelling in verband met arbeidsongeschiktheid stelt het fonds de hierop betrekking hebbende premie vast rekening houdend met de kenmerken van de groep deelnemers aan het nettopensioen;  
+
+g. het fonds rekent de kosten behorend bij het nettopensioen apart toe;  
+
+h. het fonds houdt voor het nettopensioen een gescheiden administratie bij, waaruit ten minste blijken: 
+
+1°. de voor het nettopensioen ingelegde premies;  
+
+2°. de met de beschikbaar gestelde premies behaalde rendementen;  
+
+3°. de waarde van de pensioenverplichtingen;  
+
+4°. de actuariële gegevens over de groep deelnemers aan het nettopensioen die ten grondslag liggen aan de premie en aan de waardering van de pensioenverplichtingen, waaronder de geschatte levensverwachting en risico’s op arbeidsongeschiktheid en vooroverlijden;  
+
+5°. de toeslagverlening en de toepassing van de onderdelen d en e.       
+2.  Voor de toepassing van het eerste lid, onderdeel b, zijn de artikelen 128, eerste lid, van de Pensioenwet en 123, eerste lid, van de Wet verplichte beroepspensioenregeling van toepassing op het nettopensioen rekening houdend met tariefgrondslagen passend bij de groep deelnemers aan het nettopensioen.   
+3.  Het eerste lid is niet van toepassing voor zover het ouderdomspensioen, nabestaandenpensioen of premievrijstelling bij arbeidsongeschiktheid is verzekerd bij een verzekeraar.  
 
 ### Hoofdstuk  10  
 
@@ -816,16 +852,16 @@ De door de toezichthouder met toepassing van artikel 48 vast te stellen bestuurl
 | 102a  | 1  |
 | 103  | 1  |
 | 104  | 1  |
-| 105  | 1  |
+| 105  | 2  |
 | 106  | 1  |
 | 107  | 1  |
 | 111  | 1  |
 | 112  | 1  |
 | 113  | 1  |
 | 115  |1 |
-| 115a  |1 |
+| 115a  |2 |
 | 115b  |1 |
-| 115c  |1 |
+| 115c  |2 |
 | 115e  |1 |
 | 115f  |1 |
 | 115g  |1 |
@@ -839,6 +875,7 @@ De door de toezichthouder met toepassing van artikel 48 vast te stellen bestuurl
 | 128  | 1  |
 | 129  | 1  |
 | 130  | 1  |
+|130a |2 |
 | 134, tweede, vierde en vijfde lid  | 1  |
 | 135, eerste en vierde lid  | 1  |
 | 136, eerste lid  | 1  |
@@ -847,7 +884,7 @@ De door de toezichthouder met toepassing van artikel 48 vast te stellen bestuurl
 | 139  | 2  |
 | 140, eerste tot en met derde lid  | 2  |
 | 143  | 1  |
-| 145  | 1  |
+| 145  | 2  |
 | 146  | 1  |
 | 147, eerste, tweede, derde en vijfde lid  | 2  |
 | 150  | 1  |
@@ -912,10 +949,10 @@ De door de toezichthouder met toepassing van artikel 48 vast te stellen bestuurl
 | 108  | 1  |
 | 110  | 1  |
 | 110a  | 1  |
-| 110b  | 1  |
+| 110b  | 2  |
 | 110c  | 1  |
 | 110d  | 1  |
-| 110e  | 1  |
+| 110e  | 2  |
 | 110f  | 1  |
 | 110g  | 1  |
 | 110h  | 1  |
@@ -928,6 +965,7 @@ De door de toezichthouder met toepassing van artikel 48 vast te stellen bestuurl
 | 123  | 1  |
 | 124  | 1  |
 | 125  | 1  |
+|125a |2 |
 | 129, tweede, vierde en vijfde lid  | 1  |
 | 130, eerste en vierde lid  | 1  |
 | 131, eerste lid  | 1  |
@@ -936,7 +974,7 @@ De door de toezichthouder met toepassing van artikel 48 vast te stellen bestuurl
 | 134  | 2  |
 | 135, eerste tot en met derde lid  | 2  |
 | 138  | 1  |
-| 140  | 1  |
+| 140  | 2  |
 | 141  | 1  |
 | 142, eerste, tweede, derde en vijfde lid  | 2  |
 | 145  | 1  |
@@ -980,6 +1018,7 @@ De door de toezichthouder met toepassing van artikel 48 vast te stellen bestuurl
 |:---|:---|
 | 12  | 1  |
 | 13  | 1  |
+|13a |1 |
 | 14  | 1  |
 | 15  | 2  |
 | 16  | 2  |

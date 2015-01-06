@@ -184,12 +184,11 @@ j. de liquidatie van het fonds, met name ook wat betreft de verplichtingen van d
 
 ### Artikel  7b  
 
-1.  De pensioenuitvoerder heeft het recht om bij ingang van een pensioen een pensioen dat minder bedraagt dan een bij regeling van Onze Minister vast te stellen bedrag per jaar, behoudens in bij die regeling aan te wijzen gevallen, af te kopen.   
+1.  De pensioenuitvoerder heeft het recht om bij ingang van een pensioen, een pensioen dat minder bedraagt dan een bij regeling van Onze Minister vast te stellen bedrag per jaar, behoudens in bij die regeling aan te wijzen gevallen, af te kopen.   
 2.  De pensioenuitvoerder stelt de afkoopwaarde ter beschikking aan de pensioengerechtigde.   
-3.  Het in het eerste lid bedoelde bedrag wordt bij regeling van Onze Minister jaarlijks herzien op basis van een door Onze Minister aan te wijzen consumentenprijsindexcijfer, vastgesteld door het Centraal Bureau voor de Statistiek.   
-4.  Indien uit de door het Centraal Bureau voor de Statistiek vastgestelde consumentenprijsindexcijfers voor de openbare lichamen Bonaire, Sint Eustatius en Saba blijkt, dat het prijsindexcijfer voor het derde kwartaal van het lopende jaar, vergeleken met het prijsindexcijfer voor het derde kwartaal van het voorafgaande jaar is gestegen of gedaald, stelt Onze Minister bedragen vast, die met ingang van 1 januari van het komende jaar in de plaats treden van het bedrag, bedoeld in het eerste lid. Onze Minister bepaalt welke consumentenprijsindexcijfers voor de toepassing van de eerste zin worden gebruikt. De consumentenprijsindexcijfers kunnen voor de onderscheiden openbare lichamen en voor belanghebbenden die woonachtig zijn buiten de openbare lichamen, verschillend zijn.  
-5.  Voor de toepassing van het eerste lid wordt het weduwen-, weduwnaars- en wezenpensioen als een eenheid beschouwd.   
-6.  Bij regeling van Onze Minister worden regels gesteld met betrekking tot de wijze waarop de afkoopwaarde wordt berekend.  
+3.  Indien uit de door het Centraal Bureau voor de Statistiek vastgestelde consumentenprijsindexcijfers voor de openbare lichamen Bonaire, Sint Eustatius en Saba blijkt, dat het prijsindexcijfer voor het derde kwartaal van het lopende jaar, vergeleken met het prijsindexcijfer voor het derde kwartaal van het voorafgaande jaar is gestegen of gedaald, stelt Onze Minister bedragen vast, die met ingang van 1 januari van het komende jaar in de plaats treden van het bedrag, bedoeld in het eerste lid. Onze Minister bepaalt welke consumentenprijsindexcijfers voor de toepassing van de eerste zin worden gebruikt. De consumentenprijsindexcijfers kunnen voor de onderscheiden openbare lichamen en voor belanghebbenden die woonachtig zijn buiten de openbare lichamen, verschillend zijn.  
+4.  Voor de toepassing van het eerste lid wordt het weduwen-, weduwnaars- en wezenpensioen als een eenheid beschouwd.   
+5.  Bij regeling van Onze Minister worden regels gesteld met betrekking tot de wijze waarop de afkoopwaarde wordt berekend.  
 
 ### Artikel  7c  
 

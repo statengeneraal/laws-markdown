@@ -55,7 +55,8 @@ h. IOAZ: Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewez
 
 1.  Met uitzondering van de maand mei, wordt iedere maand op of omstreeks de vijftiende dag van die maand 8% van de voor het betreffende jaar vastgestelde uitkering, bedoeld in artikel 69, eerste lid, van de wet betaalbaar gesteld. In de maand mei wordt op of omstreeks de vijftiende dag 12% van de uitkeringen betaalbaar gesteld.   
 2.  Het bedrag waarmee de uitkering op grond van artikel 71 van de wet wordt aangepast, wordt in gelijke delen verrekend met de voor het betreffende kalenderjaar resterende maandelijks te betalen delen van de uitkering, bedoeld in artikel 69, eerste lid, van de wet.   
-3.  Elk van de drie delen waaruit de meerjarige aanvullende uitkering bestaat, bedoeld in artikel 10c, tweede lid, van het Besluit WWB 2007, wordt betaalbaar gesteld voor 1 april van het tweede kalenderjaar volgend op het kalenderjaar waar het desbetreffende deel op ziet. 
+3.  Elk van de drie delen waaruit de meerjarige aanvullende uitkering bestaat, bedoeld in artikel 10c, tweede lid, van het Besluit WWB 2007, zoals dit artikel luidde op 31 december 2014 wordt betaalbaar gesteld voor 1 april van het tweede kalenderjaar volgend op het kalenderjaar waar het desbetreffende deel op ziet.  
+4.  De incidentele aanvullende uitkering 2014 en de aanvullende uitkering 2015 worden betaalbaar gesteld voor 1 april 2016, respectievelijk 1 april 2017. 
 
 ### Artikel  5a  
 
@@ -224,7 +225,7 @@ Indien de belanghebbende de pensioengerechtigde leeftijd, bedoeld in artikel 7a,
 
 ### Artikel  15  
 
-####Incidentele aanvullende uitkering
+####Incidentele aanvullende uitkering 2014
 
 1.  Een verzoek tot een incidentele aanvullende uitkering wordt in de periode van 1 januari tot en met 31 juli van het kalenderjaar volgend op het kalenderjaar waarop het verzoek betrekking heeft, door de toetsingscommissie ontvangen. Een verzoek, dat door de toetsingscommissie wordt ontvangen na 31 juli wordt niet behandeld, met dien verstande dat indien artikel 8b van de wet, onderscheidenlijk artikel 40 van de IOAW en artikel 40 van de IOAZ van toepassing is het verzoek niet in behandeling wordt genomen indien het wordt ontvangen na 31 augustus.   
 2.  Een verzoek tot een incidentele aanvullende uitkering wordt ingediend onder gebruikmaking van een formulier dat door de minister elektronisch beschikbaar wordt gesteld. 
@@ -260,8 +261,20 @@ b. de uitstroom van de tekortgemeente in jaar [t] ten opzichte van de gemiddelde
 
 a. beslist uiterlijk 31 december van het kalenderjaar waarin het verzoek als bedoeld in het eerste lid is ingediend of dat verzoek wordt gehonoreerd en of de eigen bijdrage 2,5%, 5% of 7,5% bedraagt;  
 
-b. stelt, na toewijzing van het verzoek, de hoogte van elk van de delen vast binnen zes weken na 15 juli van het kalenderjaar volgend op het kalenderjaar waarop het desbetreffende deel betrekking heeft of, indien een gemeente haar verantwoording over de uitvoering van de wet op de wijze als bedoeld in artikel 17a van de Financiële verhoudingswet niet uiterlijk 15 juli bij Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties heeft ingediend, binnen zes weken na indiening van de verantwoordingsinformatie.     
+b. stelt, van een toegewezen verzoek, de hoogte van het uitkeringsdeel dat betrekking heeft op 2014 vast binnen zes weken na 15 juli 2015 of, indien een gemeente haar verantwoording over de uitvoering van de wet in 2014 op de wijze als bedoeld in artikel 17a van de Financiële verhoudingswet niet uiterlijk 15 juli 2015 bij Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties heeft ingediend, binnen zes weken na indiening van de verantwoordingsinformatie.     
 6.  Het percentage, bedoeld in artikel 10a, eerste lid, onderdeel c, van het Besluit Participatiewet, bedraagt 4,2% voor het kalenderjaar 2011 en 0% voor de kalenderjaren 2012 en 2013.  
+
+### Artikel  15aa  
+
+####Aanvullende uitkering Participatiewet 2015
+
+1.  Een verzoek tot een aanvullende uitkering wordt door de toetsingscommissie ontvangen in de periode van 1 januari tot en met 15 augustus 2016.   
+2.  Een verzoek als bedoeld in het eerste lid gaat vergezeld van documenten waaruit blijkt dat voldaan is aan artikel 10a, tweede lid, van het Besluit Participatiewet.   
+3.  Een verzoek tot een aanvullende uitkering wordt ingediend onder gebruikmaking van een formulier dat door de minister elektronisch beschikbaar wordt gesteld.   
+4.  Een verzoek dat door de toetsingscommissie wordt ontvangen na 15 augustus 2016 wordt niet in behandeling genomen.   
+5.  De toetsingscommissie adviseert de minister uiterlijk 31 oktober 2016 over de te nemen beslissing.   
+6.  De toetsingscommissie kan de minister voor 15 oktober 2016 verzoeken om een aantal adviezen later dan 31 oktober vast te stellen.   
+7.  Indien de minister aan een verzoek als bedoeld in het zesde lid voldoet, bepaalt hij daarbij het aantal adviezen dat later kan worden vastgesteld en de datum waarop deze adviezen uiterlijk door de minister worden ontvangen.  
 
 ###§ 7a 
 

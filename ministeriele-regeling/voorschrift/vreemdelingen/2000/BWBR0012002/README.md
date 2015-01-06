@@ -121,8 +121,8 @@ b. een religieuze of levensbeschouwelijke organisatie die deel uitmaakt van een 
 
 ### Artikel  1.11  
 
-1.  Ter zake van de afdoening van een aanvraag om de erkenning als referent is de aanvrager een bedrag van € 5.065 verschuldigd.   
-2.  In afwijking van het eerste lid is de aanvrager ter zake van de afdoening van een aanvraag om de erkenning als referent verband houdend met uitwisseling een bedrag van € 2.533 verschuldigd.  
+1.  Ter zake van de afdoening van een aanvraag om de erkenning als referent is de aanvrager een bedrag van € 5.116 verschuldigd.   
+2.  In afwijking van het eerste lid is de aanvrager ter zake van de afdoening van een aanvraag om de erkenning als referent verband houdend met uitwisseling een bedrag van € 2.558 verschuldigd.  
 
 ### Artikel  1.12  
 
@@ -376,7 +376,7 @@ b. het paspoortnummer.
 ### Artikel  3.11  
 
 1.  De examenprogramma’s, bedoeld in artikel 3.98a, derde en zesde lid, van het Besluit, die zijn opgenomen in het zelfstudiepakket Naar Nederland, zijn verkrijgbaar bij alle erkende boekhandels en via internetboekhandels.   
-2.  De adviesprijs van het zelfstudiepakket bedraagt € 110.  
+2.  De adviesprijs van het zelfstudiepakket bedraagt € 99,50.  
 
 ### Artikel  3.12  
 
@@ -431,8 +431,8 @@ c. Australië, Canada, Israël, Japan, Monaco, Nieuw Zeeland, Suriname, de Veren
 
 ### Artikel  3.19  
 
-1.  Voor alleenstaanden in de zin van artikel 4, onderdeel a, van de Wet werk en bijstand zijn de in artikel 16, eerste lid, onder c, van de Wet bedoelde middelen van bestaan in ieder geval voldoende, indien de som van het loon, bedoeld in artikel 16 van de Wet financiering sociale verzekeringen, uit arbeid in loondienst, het bruto inkomen uit een inkomensvervangende uitkering krachtens een socialeverzekeringswet waarvoor premies zijn afgedragen, de bruto-winst uit arbeid als zelfstandige en het inkomen uit eigen vermogen ten minste gelijk is aan 70 procent van het minimumloon, bedoeld in de artikelen 8, eerste lid, onder a, en 14, van de Wet minimumloon en minimumvakantiebijslag, met inbegrip van de vakantiebijslag, bedoeld in artikel 15 van die wet.   
-2.  Voor alleenstaande ouders in de zin van artikel 4, onderdeel b, van de Wet werk en bijstand zijn de in artikel 16, eerste lid, onder c, van de Wet bedoelde middelen van bestaan in ieder geval voldoende, indien de in het eerste lid bedoelde som ten minste gelijk is aan 90 procent van het in het eerste lid bedoelde minimumloon.   
+1.  Voor alleenstaanden in de zin van artikel 4, onderdeel a, van de Participatiewet zijn de in artikel 16, eerste lid, onder c, van de Wet bedoelde middelen van bestaan in ieder geval voldoende, indien de som van het loon, bedoeld in artikel 16 van de Wet financiering sociale verzekeringen, uit arbeid in loondienst, het bruto inkomen uit een inkomensvervangende uitkering krachtens een socialeverzekeringswet waarvoor premies zijn afgedragen, de bruto-winst uit arbeid als zelfstandige en het inkomen uit eigen vermogen ten minste gelijk is aan 70 procent van het minimumloon, bedoeld in de artikelen 8, eerste lid, onder a, en 14, van de Wet minimumloon en minimumvakantiebijslag, met inbegrip van de vakantiebijslag, bedoeld in artikel 15 van die wet.   
+2.  Voor alleenstaande ouders in de zin van artikel 4, onderdeel b, van de Participatiewet zijn de in artikel 16, eerste lid, onder c, van de Wet bedoelde middelen van bestaan in ieder geval voldoende, indien de in het eerste lid bedoelde som ten minste gelijk is aan 90 procent van het in het eerste lid bedoelde minimumloon.   
 3.  Voor degene die het verblijf in Nederland financiert van een vreemdeling die in Nederland verblijft of wil verblijven in het kader van uitwisseling, voor zover de vreemdeling als au pair verblijft of wil verblijven of van medische behandeling, zijn de middelen van bestaan in ieder geval voldoende, indien de in het eerste lid bedoelde som ten minste gelijk is aan het in het eerste of tweede lid of artikel 3.74, eerste lid, onderdeel a, van het Besluit bedoelde bedrag voor de categorie waartoe die persoon behoort, aangevuld met 50 procent van het in het eerste lid bedoelde minimumloon.   
 4.  Voor degene die het verblijf in Nederland financiert van een vreemdeling die in Nederland verblijft of wil verblijven in het kader van studie, zijn de middelen van bestaan voldoende, indien de in het eerste lid bedoelde som ten minste gelijk is aan het normbedrag voor uitwonende studenten, bedoeld in de Wet op de Studiefinanciering 2000, aangevuld met het eerste of tweede lid of artikel 3.74, eerste lid, onderdeel a, van het Besluit bedoelde bedrag voor de categorie waartoe de persoon behoort die het verblijf financiert.   
 5.  Voor degene die het verblijf in Nederland financiert van een vreemdeling die in Nederland verblijft of wil verblijven in het kader van medische behandeling en van zijn gezinsleden, zijn de middelen van bestaan in ieder geval voldoende, indien de in het eerste lid bedoelde som ten minste gelijk is aan het in het eerste of tweede lid of artikel 3.74, eerste lid, onderdeel a, van het Besluit bedoelde bedrag voor de categorie waartoe die persoon behoort, aangevuld met: 
@@ -501,7 +501,7 @@ b. de wijze waarop de referent invulling geeft aan de zorgplicht;
 c. de aard en omvang van de werkzaamheden die de vreemdeling gaat verrichten, en  
 
 d. indien het een uitwisselingsprogramma voor au pairs betreft, dat de au pair en het gastgezin de dagindeling overeenkomen.     
-4.  Indien de vreemdeling de Zuid-Koreaanse nationaliteit heeft, wordt de aanvraag niet afgewezen op de grond, bedoeld in artikel 3.42, eerste lid, onder a, van het Besluit. 
+4.  Indien de vreemdeling de Zuid-Koreaanse nationaliteit heeft, wordt de aanvraag niet afgewezen op de grond, bedoeld in artikel 3.43, eerste lid, onder a, van het Besluit. 
 
 ### Artikel  3.24a  
 
@@ -540,25 +540,25 @@ Ter zake van de afdoening van een aanvraag tot het verlenen of wijzigen ondersch
 
 | I. Verblijfsdoel  | II. Verlening of wijziging  | III. Verlenging  |
 |:---|:---|:---|
-| a. ‘verblijf als familie- of gezinslid’  | € 228  | € 228  |
-| b. ‘verblijf als economisch niet-actieve langdurig ingezetene of vermogende vreemdeling’  | € 152, of als vermogende vreemdeling: € 2.026  | € 152, of als vermogende vreemdeling: € 1.013  |
-| c. ‘arbeid als zelfstandige’  | € 1.266  | € 380  |
-| d. ‘arbeid als kennismigrant’  | € 861  | € 380  |
-| e. ‘verblijf als houder van de Europese blauwe kaart’  | € 861  | € 380  |
-| f. ‘seizoenarbeid’  | € 760  | niet van toepassing  |
-| g. ‘arbeid in loondienst’  | € 861  | € 380  |
-| h. ‘grensoverschrijdende dienstverlening’  | € 861  | € 380  |
-| i. ‘wetenschappelijk onderzoek in de zin van richtlijn 2005/71/EG’  | € 304  | € 304  |
-| j. ‘lerend werken’  | € 760  | niet van toepassing  |
+| a. ‘verblijf als familie- of gezinslid’  | € 230  | € 230  |
+| b. ‘verblijf als economisch niet-actieve langdurig ingezetene of vermogende vreemdeling’  | € 154, of als vermogende vreemdeling: € 2.046  | € 154, of als vermogende vreemdeling: € 1.023  |
+| c. ‘arbeid als zelfstandige’  | € 1.279  | € 384  |
+| d. ‘arbeid als kennismigrant’  | € 870  | € 384  |
+| e. ‘verblijf als houder van de Europese blauwe kaart’  | € 870  | € 384  |
+| f. ‘seizoenarbeid’  | € 768  | niet van toepassing  |
+| g. ‘arbeid in loondienst’  | € 870  | € 384  |
+| h. ‘grensoverschrijdende dienstverlening’  | € 870  | € 384  |
+| i. ‘wetenschappelijk onderzoek in de zin van richtlijn 2005/71/EG’  | € 307  | € 307  |
+| j. ‘lerend werken’  | € 768  | niet van toepassing  |
 | k. ‘arbeid als niet-geprivilegieerd militair of niet-geprivilegieerd burgerpersoneel’  | € 0  | € 0  |
-| l. ‘studie’  | € 304  | € 152  |
-| m. ‘het zoeken en verrichten van arbeid al dan niet in loondienst’  | € 608  | niet van toepassing  |
-| n. ‘uitwisseling, al dan niet in het kader van een verdrag’  | € 608  | niet van toepassing  |
-| o. ‘medische behandeling’  | € 962  | € 380  |
-| p. ‘tijdelijke humanitaire gronden’  | In het kader van ‘buiten schuld’, met uitzondering van amv’s € 304, de regeling langdurig verblijvende kinderen € 152, overige € 0  | In het kader van ‘buiten schuld’, met uitzondering van amv’s € 304, de regeling langdurig verblijvende kinderen € 152, overige € 0  |
-| q. ‘het afwachten van een verzoek op grond van artikel 17 van de Rijkswet op het Nederlanderschap’  | € 962  | € 380  |
-| r. ‘niet-tijdelijke humanitaire gronden’  | € 962  | € 380  |
-| s. alle overige verblijfsdoelen  | € 962  | € 380  |
+| l. ‘studie’  | € 307  | € 154  |
+| m. ‘het zoeken en verrichten van arbeid al dan niet in loondienst’  | € 614  | niet van toepassing  |
+| n. ‘uitwisseling, al dan niet in het kader van een verdrag’  | € 614  | niet van toepassing  |
+| o. ‘medische behandeling’  | € 972  | € 384  |
+| p. ‘tijdelijke humanitaire gronden’  | In het kader van ‘buiten schuld’, met uitzondering van amv’s € 307, overige € 0  | In het kader van ‘buiten schuld’, met uitzondering van amv’s € 307, overige € 0  |
+| q. ‘het afwachten van een verzoek op grond van artikel 17 van de Rijkswet op het Nederlanderschap’  | € 972  | € 384  |
+| r. ‘niet-tijdelijke humanitaire gronden’  | In het kader van de regeling langdurig verblijvende kinderen € 154, overige € 972  | In het kader van de regeling langdurig verblijvende kinderen € 154, overige € 384  |
+| s. alle overige verblijfsdoelen  | € 972  | € 384  |
 
 ### Artikel 3.34a  
 
@@ -566,23 +566,22 @@ In afwijking van artikel 3.34 geldt voor de navolgende categorieën vreemdelinge
 
 | I. Categorie  | II. Verlening of wijziging  | III. Verlenging  |
 |:---|:---|:---|
-| a. ”verblijf als familie- of gezinslid” indien het een kind betreft die verblijf vraagt bij een ouder  | € 228  | € 152  |
-| b. gezinslid van een houder van een EU-verblijfsvergunning voor langdurig ingezetenen welk gezinslid het verblijfsdoel ‘verblijf als familie- of gezinslid’ aanvraagt  | € 152  | € 152  |
-| c. houder van een EU-verblijfsvergunning voor langdurig ingezetenen in een andere lidstaat of een gezinslid daarvan die een verblijfsvergunning als bedoeld in artikel 14 van de Wet aanvraagt  | € 152  | € 152  |
+| a. ‘verblijf als familie- of gezinslid’ indien het een kind betrtikel 3.343.34d komen te luiden:nderdeel NNet Voorschrift Vreemdelingen 2000 worden de bij dit besluit opgenomen bijlagen  ingreft die verblijf vraagt bij een ouder  | € 230  | € 154  |
+| b. gezinslid van een houder van een EU-verblijfsvergunning voor langdurig ingezetenen welk gezinslid het verblijfsdoel ‘verblijf als familie- of gezinslid’ aanvraagt  | € 154  | € 154  |
+| c. houder van een EU-verblijfsvergunning voor langdurig ingezetenen in een andere lidstaat of een gezinslid daarvan die een verblijfsvergunning als bedoeld in artikel 14 van de Wet aanvraagt  | € 154  | € 154  |
 | d. vreemdeling die valt onder artikel 41, eerste lid, van het op 23 november 1970 te Brussel tot stand gekomen Aanvullend Protocol bij de op 12 september 1963 te Ankara gesloten Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Economische Gemeenschap en Turkije (Trb. 1971, 70) of artikel 6, 7 of 13 van het Besluit 1/80 van de Associatieraad EEG-Turkije betreffende de ontwikkeling van de Associatie  | € 53  | € 53  |
 | e. vreemdeling die in aanmerking komt voor de terugkeeroptie op grond van artikel 8 van de Remigratiewet  | € 53  | € 53  |
-| f. vreemdeling met de nationaliteit van Australië, Canada, Nieuw-Zeeland dan wel Zuid-Korea die het verblijfsdoel ‘uitwisseling’ aanvraagt, in het kader van het Working Holiday Scheme of het Working Holiday Program  | € 53  | niet van toepassing  |
+| f. vreemdeling met de nationaliteit van Australië, Canada, Nieuw Zeeland dan wel Zuid-Korea die het verblijfsdoel ‘uitwisseling’ aanvraagt, in het kader van het Working Holiday Scheme of het Working Holiday Programme  | € 53  | niet van toepassing  |
 | g. vreemdeling met de nationaliteit van Canada die het verblijfsdoel ‘lerend werken’ aanvraagt, in het kader van het Young Workers Exchange Programme  | € 53  | niet van toepassing  |
-| h. vreemdeling die werkzaamheden als bedoeld in artikel 40, eerste lid, van het op 7 juni 2007 te ’s-Gravenhage tot stand gekomen Zetelverdrag tussen het Internationaal Strafhof en het Gastland (Trb. 2007, 25) verricht en het verblijfsdoel ‘arbeid in loondienst’ aanvraagt  | € 61  | € 61  |
-| i. vreemdeling die met het oog op de voorlaatste alinea van de brief van 21 december 2007 van de Permanente Vertegenwoordiging van het Koninkrijk der Nederlanden bij de Verenigde Naties, behorend bij het op 21 december 2007 te New York tot stand gekomen Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Naties betreffende de Zetel van het Speciale Tribunaal voor Libanon (Trb. 2007, 228), het verblijfsdoel ‘arbeid in loondienst’ aanvraagt  | € 61  | € 61  |
+| h. vreemdeling die werkzaamheden als bedoeld in artikel 40, eerste lid, van het op 7 juni 2007 te ’s-Gravenhage tot stand gekomen Zetelverdrag tussen het Internationaal Strafhof en het Gastland (Trb. 2007, 25) verricht en het verblijfsdoel ‘arbeid in loondienst’ aanvraagt  | € 62  | € 62  |
+| i. vreemdeling die met het oog op de voorlaatste alinea van de brief van 21 december 2007 van de Permanente Vertegenwoordiging van het Koninkrijk der Nederlanden bij de Verenigde Naties, behorend bij het op 21 december 2007 te New York tot stand gekomen Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Naties betreffende de Zetel van het Speciale Tribunaal voor Libanon (Trb. 2007, 228), het verblijfsdoel ‘arbeid in loondienst’ aanvraagt  | € 62  | € 62  |
 | j. vreemdeling die het verblijfsdoel ‘verblijf als familie- of gezinslid’ aanvraagt en die om vrijstelling van leges verzoekt, daarbij een gerechtvaardigd beroep doet op artikel 8 EVRM en aantoont niet te kunnen beschikken over middelen om aan de legesverplichting te kunnen voldoen  | € 0  | € 0  |
 | k. vreemdeling die blijkens een schriftelijke verklaring van de Minister in aanmerking komt voor een verblijfsvergunning als bedoeld in artikel 14 van de Wet, voor een verblijfsdoel verband houdend met niet-tijdelijke humanitaire gronden of met een ander verblijfsdoel dan genoemd in artikel 3.4, eerste lid, van het Besluit  | € 0  | niet van toepassing  |
-| l. minderjarig kind dat een aanvraag indient voor ‘verblijf als familie- of gezinslid’ bij een vreemdeling die verblijf heeft gekregen of heeft aangevraagd voor het verblijfsdoel ‘tijdelijke humanitaire gronden’, tenzij die verblijfsvergunning is verleend op grond van artikel 3.48, eerste lid, onder d, of 3.48, tweede lid, onder a, van het Besluit  | € 0  | € 0  |
+| l. minderjarig kind dat een aanvraag indient voor ‘verblijf als familie- of gezinslid’ bij een vreemdeling die verblijf heeft gekregen of heeft aangevraagd voor het verblijfsdoel ‘tijdelijke humanitaire gronden’, tenzij die verblijfsvergunning is verleend op grond van artikel 3.48, eerste lid, onder g, of 3.48, tweede lid, onder a, van het Besluit  | € 0  | € 0  |
 | m. de vreemdeling in aanmerking komt voor verlenging van de verblijfsvergunning als bedoeld in artikel van 14 van de Wet, onder een beperking verband houdend met verblijf als familie- of gezinslid voor verblijf bij een vreemdeling aan wie in het kader van dreigend eergerelateerd geweld, slachtoffer mensenhandel of huiselijk geweld, een verblijfsvergunning als bedoeld in artikel 14 van de Wet, onder een beperking verband houdend met tijdelijke humanitaire gronden is verleend  | niet van toepassing  | € 0  |
 | n. de broer en zus die een aanvraag indienen voor ‘verblijf als familie- en gezinslid’ bij een vreemdeling die verblijf heeft gekregen of heeft aangevraagd voor het verblijfsdoel ‘tijdelijke humanitaire gronden’ in het kader van het beleid voor de Afghaanse vreemdeling die een verwesterde, schoolgaande en minderjarige vrouw is  | € 0  | € 0  |
 | o. vreemdeling die een aanvraag indient in het geval, bedoeld in artikel 3.101, tweede lid, van het Besluit  | € 0  | niet van toepassing  |
-| p. vreemdeling die een aanvraag indient voor het verblijfsdoel ‘niet-tijdelijke humanitaire gronden’ in het kader van de definitieve regeling langdurig verblijvende kinderen.  | € 0  | niet van toepassing  |
-| q. gezinslid van de houder van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28 van de Wet, die gelijktijdig met de hoofdpersoon is ingereisd dan wel binnen drie maanden nadat aan de hoofdpersoon deze verblijfsvergunning is verleend, is nagereisd, en niet dezelfde nationaliteit heeft als de hoofdpersoon, een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in artikel 14 van de Wet onder een beperking verband houdend met verblijf als familie- of gezinslid indient  | € 0  | € 0  |
+| p. de vreemdeling waaraan een verblijfsvergunning is verleend in het kader van verblijf als gezinslid van een militair verbonden aan een hier te lande gevestigd internationaal militair hoofdkwartier (Joint Force Command-headquarters) onder de beperking ‘arbeid in loondienst’  | € 230  | € 0  |
 
 ### Artikel 3.34b  
 
@@ -590,7 +589,7 @@ In aanvulling op artikel 3.34 en 3.34a kan de Minister in overleg met de Ministe
 
 ### Artikel 3.34c  
 
-1. In afwijking van artikel 3.34 en 3.34a is de vreemdeling voor een aanvraag tot het wijzigen van een verblijfsvergunning als bedoeld in artikel 14 van de Wet een bedrag van € 355 verschuldigd die: 
+1. In afwijking van artikel 3.34 en 3.34a is de vreemdeling voor een aanvraag tot het wijzigen van een verblijfsvergunning als bedoeld in artikel 14 van de Wet een bedrag van € 359 verschuldigd die: 
 
 a. een aanvraag indient tot het wijzigen van een verblijfsvergunning als bedoeld in artikel 14 van de Wet, onder een beperking verband houdend met tijdelijke humanitaire gronden in het kader van dreigend eergerelateerd geweld, slachtoffer mensenhandel of huiselijk geweld, in een verblijfsvergunning als bedoeld in artikel 14 van de Wet, voor een verblijfsdoel verband houdend met niet-tijdelijke humanitaire gronden, in het kader van dreigend eergerelateerd geweld, slachtoffer mensenhandel of huiselijk geweld;  
 
@@ -599,7 +598,7 @@ b. een aanvraag indient tot het wijzigen van een verblijfsvergunning als bedoeld
 c. als minderjarige vreemdeling een aanvraag indient tot het wijzigen van een verblijfsvergunning als bedoeld in artikel 14 van de Wet, onder de beperking verband houdend met verblijf als familie- of gezinslid, in een verblijfsvergunning als bedoeld in artikel 14 van de Wet, voor een verblijfsdoel verband houdend met niet-tijdelijke humanitaire gronden, in het kader van ondervonden huiselijk geweld of eergerelateerd geweld;  
 
 d. een aanvraag indient tot het wijzigen van de verblijfsvergunning als bedoeld in artikel 14 van de Wet, in een verblijfsvergunning als bedoeld in artikel 14 van de Wet, voor een verblijfsdoel verband houdend met niet-tijdelijke humanitaire gronden, in het kader van achterlating.   
-2.  In afwijking van artikel 3.34 en 3.34a is de vreemdeling voor een aanvraag tot het wijzigen van een verblijfsvergunning als bedoeld in artikel 14 van de Wet, onder een beperking verband houdend met verblijf als familie- of gezinslid, in een verblijfsvergunning als bedoeld in artikel 14 van de Wet, voor een verblijfsdoel verband houdend met niet-tijdelijke humanitaire gronden op grond van artikel 3.50, eerste lid, of artikel 3.51, eerste lid, aanhef en ander a, ten eerste, van het Besluit, een bedrag van € 228 verschuldigd. 
+2.  In afwijking van artikel 3.34 en 3.34a is de vreemdeling voor een aanvraag tot het wijzigen van een verblijfsvergunning als bedoeld in artikel 14 van de Wet, onder een beperking verband houdend met verblijf als familie- of gezinslid, in een verblijfsvergunning als bedoeld in artikel 14 van de Wet, voor een verblijfsdoel verband houdend met niet-tijdelijke humanitaire gronden op grond van artikel 3.50, eerste lid, of artikel 3.51, eerste lid, aanhef en ander a, ten eerste, van het Besluit, een bedrag van € 230 verschuldigd. 
 
 ### Artikel 3.34d  
 
@@ -611,11 +610,10 @@ b. deze aanvraag gelijktijdig is ontvangen met een aanvraag tot het verlenen van
 
 ### Artikel 3.34g  
 
-1. Ter zake van de afdoening van een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in artikel 20 van de Wet, is de vreemdeling een bedrag van € 152 verschuldigd.
-2. In afwijking van het eerste lid is de vreemdeling die in aanmerking komt voor de terugkeeroptie op grond van artikel 8 van de Remigratiewet en in aanmerking komt voor verlening van een verblijfsvergunning als bedoeld in artikel 20 van de Wet, een bedrag van € 53 verschuldigd. 
-3.  In afwijking van het eerste lid is de vreemdeling van Turkse nationaliteit en aan wie het verrichten van arbeid is toegestaan ter zake van de afdoening van een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in artikel 20 van de Wet, een bedrag van € 53 verschuldigd.   
-4.  In afwijking van het eerste lid is het toegelaten gezinslid van een vreemdeling als bedoeld in het derde lid, ter zake van de afdoening van een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in artikel 20 van de Wet, een bedrag van € 53 verschuldigd.  
-5.  Ter zake van de afgifte ter uitvoering van artikel 4.22, tweede lid, van het Besluit, van een vervangend document waaruit het rechtmatig verblijf, bedoeld in artikel 8, onder b en e, van de Wet blijkt, is de vreemdeling een bedrag van € 53 verschuldigd. 
+1. Ter zake van de afdoening van een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in artikel 20 van de Wet, is de vreemdeling een bedrag van € 154 verschuldigd. 
+2.  In afwijking van het eerste lid is de vreemdeling van Turkse nationaliteit en aan wie het verrichten van arbeid is toegestaan ter zake van de afdoening van een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in artikel 20 van de Wet, een bedrag van € 53 verschuldigd.   
+3.  In afwijking van het eerste lid is het toegelaten gezinslid van een vreemdeling als bedoeld in het derde lid, ter zake van de afdoening van een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in artikel 20 van de Wet, een bedrag van € 53 verschuldigd.  
+4.  Ter zake van de afgifte ter uitvoering van artikel 4.22, tweede lid, van het Besluit, van een vervangend document waaruit het rechtmatig verblijf, bedoeld in artikel 8, onder b en e, van de Wet blijkt, is de vreemdeling een bedrag van € 53 verschuldigd. 
 
 ### Artikel 3.34h  
 
@@ -624,8 +622,8 @@ b. deze aanvraag gelijktijdig is ontvangen met een aanvraag tot het verlenen van
 
 ### Artikel  3.34j  
 
-1.  Ter zake van de afgifte ter uitvoering van artikel 4.22, eerste lid, van het Besluit, van een vervangend document waaruit het rechtmatig verblijf, bedoeld in artikel 8, onder a, van de Wet blijkt, is de vreemdeling een bedrag van € 253 verschuldigd.   
-2.  Ter zake van de afgifte ter uitvoering van artikel 4.22, eerste lid, van het Besluit, van een vervangend document waaruit het rechtmatig verblijf, bedoeld in artikel 8, onder b, van de Wet blijkt, is de vreemdeling een bedrag van € 152 verschuldigd.  
+1.  Ter zake van de afgifte ter uitvoering van artikel 4.22, eerste lid, van het Besluit, van een vervangend document waaruit het rechtmatig verblijf, bedoeld in artikel 8, onder a, van de Wet blijkt, is de vreemdeling een bedrag van € 256 verschuldigd.   
+2.  Ter zake van de afgifte ter uitvoering van artikel 4.22, eerste lid, van het Besluit, van een vervangend document waaruit het rechtmatig verblijf, bedoeld in artikel 8, onder b, van de Wet blijkt, is de vreemdeling een bedrag van € 154 verschuldigd.  
 3.  Ter zake van de afgifte ter uitvoering van artikel 4.22, eerste lid, van het Besluit, van een vervangend document waaruit het rechtmatig verblijf, bedoeld in artikel 8, onder e, van de Wet blijkt, is de vreemdeling een bedrag van € 53 verschuldigd.   
 4.  In afwijking van het eerste lid is de vreemdeling een bedrag van € 53 verschuldigd ter zake van de afgifte van een vervangend document: 
 
@@ -636,11 +634,11 @@ b. waaruit het rechtmatig verblijf, bedoeld in artikel 8, onder b, van de Wet 
 c. waaruit het rechtmatig verblijf, bedoeld in artikel 8, onder a, b of l, van de Wet blijkt voor zover de vreemdeling van Turkse nationaliteit is en het verrichten van arbeid is toegestaan;  
 
 d. waaruit het rechtmatig verblijf bedoeld in artikel 8, onder a, b of l, van de Wet blijkt, voor zover de vreemdeling het gezinslid is van een vreemdeling als bedoeld in onderdeel c.     
-5.  In afwijking van het eerste lid is de vreemdeling een bedrag van € 228 verschuldigd ter zake van de afgifte van een vervangend document waaruit het rechtmatig verblijf, bedoeld in artikel 8, onder a, van de Wet blijkt, voor zover de verblijfsvergunning is verleend onder een beperking verband houdend met verblijf als familie- of gezinslid. 
+5.  In afwijking van het eerste lid is de vreemdeling een bedrag van € 230 verschuldigd ter zake van de afgifte van een vervangend document waaruit het rechtmatig verblijf, bedoeld in artikel 8, onder a, van de Wet blijkt, voor zover de verblijfsvergunning is verleend onder een beperking verband houdend met verblijf als familie- of gezinslid. 
 
 ### Artikel  3.34ja 
 
-In afwijking van de tarieftabel in artikel 3.34a, rij d tot en met g, en de artikelen 3.34g, tweede tot en met het vijfde lid, 3.34h, eerste en tweede lid, en 3.34j, is de minderjarige vreemdeling een bedrag van € 28 verschuldigd. 
+In afwijking van de tarieftabel in artikel 3.34a, rij d tot en met g, en de artikelen 3.34g, tweede tot en met het vijfde lid, 3.34h, eerste en tweede lid, en 3.34j, derde en vierde lid, is de minderjarige vreemdeling een bedrag van € 28 verschuldigd. 
 
 ### Artikel  3.34jb  
 
@@ -648,7 +646,7 @@ In afwijking van de tarieftabel in artikel 3.34, rij a, de tarieftabel in artike
 
 ### Artikel  3.34k  
 
-1.  Ter zake van de afgifte van een document waaruit het rechtmatig verblijf, bedoeld in artikel 8, onder a of b, van de Wet blijkt, aan de minderjarige vreemdeling die voor de eerste keer een zelfstandig verblijfsdocument aanvraagt, is de vreemdeling een bedrag van € 101 verschuldigd.   
+1.  Ter zake van de afgifte van een document waaruit het rechtmatig verblijf, bedoeld in artikel 8, onder a of b, van de Wet blijkt, aan de minderjarige vreemdeling die voor de eerste keer een zelfstandig verblijfsdocument aanvraagt, is de vreemdeling een bedrag van € 102 verschuldigd.   
 2.  Ter zake van de afgifte van een document waaruit het rechtmatig verblijf, bedoeld in artikel 8, onder e, van de Wet blijkt, is de minderjarige vreemdeling een bedrag van € 28 verschuldigd.   
 3.  In afwijking van het eerste lid is de minderjarige vreemdeling die het gezinslid is van een vreemdeling als bedoeld in artikel 3.34j, vierde lid, onderdeel c een bedrag van € 28 verschuldigd.  
 
@@ -799,15 +797,15 @@ e. de wijze waarop hij kan voldoen aan zijn verplichting tot het indienen van de
 
 ### Artikel  3.43b  
 
-1.  Ter zake van de afdoening van een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in artikel 33 van de Wet, is de vreemdeling een bedrag van € 152 verschuldigd.   
+1.  Ter zake van de afdoening van een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in artikel 33 van de Wet, is de vreemdeling een bedrag van € 154 verschuldigd.   
 2.   In afwijking van het eerste lid is de vreemdeling van Turkse nationaliteit ter zake van de afdoening van een verblijfsvergunning als bedoeld in artikel 33 van de Wet, een bedrag van € 53 verschuldigd.  
 3.  De leges, bedoeld in het eerste lid, worden door de vreemdeling door middel van een in opdracht van de IND toegezonden acceptgirokaart voldaan.   
 4.  Ter zake van de afgifte ter uitvoering van artikel 4.22, tweede lid, van het Besluit, van een vervangend document waaruit het rechtmatig verblijf, bedoeld in artikel 8, onder c en d, van de Wet blijkt, is de vreemdeling een bedrag van € 53 verschuldigd. 
 
 ### Artikel  3.43c  
 
-1.  Ter zake van de afgifte ter uitvoering van artikel 4.22, eerste lid, van het Besluit, van een vervangend document waaruit het rechtmatig verblijf, bedoeld in artikel 8, onder c, van de Wet blijkt, is de vreemdeling een bedrag van € 152 verschuldigd.   
-2.  Ter zake van de afgifte ter uitvoering van artikel 4.22, eerste lid, van het Besluit, van een vervangend document waaruit het rechtmatig verblijf, bedoeld in artikel 8, onder d, van de Wet blijkt, is de vreemdeling een bedrag van € 152 verschuldigd.   
+1.  Ter zake van de afgifte ter uitvoering van artikel 4.22, eerste lid, van het Besluit, van een vervangend document waaruit het rechtmatig verblijf, bedoeld in artikel 8, onder c, van de Wet blijkt, is de vreemdeling een bedrag van € 154 verschuldigd.   
+2.  Ter zake van de afgifte ter uitvoering van artikel 4.22, eerste lid, van het Besluit, van een vervangend document waaruit het rechtmatig verblijf, bedoeld in artikel 8, onder d, van de Wet blijkt, is de vreemdeling een bedrag van € 154 verschuldigd.   
 3.  In afwijking van het eerste en tweede lid is de vreemdeling van Turkse nationaliteit ter zake van de afgifte van een vervangend document waaruit het rechtmatig verblijf, bedoeld in artikel 8, onder c of d, van de Wet blijkt, een bedrag van € 53 verschuldigd.   
 4.  In afwijking van het eerste en tweede lid is de vreemdeling die het gezinslid is van een vreemdeling als bedoeld in het derde lid ter zake van de afgifte van een vervangend document waaruit het rechtmatig verblijf, bedoeld in artikel 8, onder c of d, van de Wet blijkt, een bedrag van € 53 verschuldigd.  
 
@@ -1442,13 +1440,13 @@ c. indien de referent beschikt over inkomen als zelfstandige:
 
 d. indien de referent naar het oordeel van de Minister blijvend en volledig arbeidsongeschikt is: 
 
-1°. de toekenningsbeschikking van de uitkerende instantie ingevolge de Wet op de Arbeidsongeschiktheidsverzekering, de Wet arbeidsongeschiktheid zelfstandigen, de Wet werk en inkomen naar arbeidsvermogen of de Wet arbeidsongeschiktheidsvoorziening voor jonggehandicapten waaruit blijkt dat de referent volledig arbeidsongeschikt is, en  
+1°. de toekenningsbeschikking van de uitkerende instantie ingevolge de Wet op de Arbeidsongeschiktheidsverzekering, de Wet arbeidsongeschiktheid zelfstandigen, de Wet werk en inkomen naar arbeidsvermogen of de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten waaruit blijkt dat de referent volledig arbeidsongeschikt is, en  
 
 2°. de uitkeringsspecificaties;    
 
 e. indien de referent blijvend niet in staat is aan de plicht tot arbeidsinschakeling te voldoen: 
 
-1°. alle toekenningsbesluiten ingevolge de Wet werk en bijstand die betrekking hebben op de vijf jaar voorafgaand aan het tijdstip waarop de aanvraag is ontvangen of de beschikking wordt gegeven;  
+1°. alle toekenningsbesluiten ingevolge de Participatiewet die betrekking hebben op de vijf jaar voorafgaand aan het tijdstip waarop de aanvraag is ontvangen of de beschikking wordt gegeven;  
 
 2°. voor zover van toepassing correspondentie met het college van burgemeester en wethouders omtrent ontheffing van de plicht tot arbeidsinschakeling, die betrekking heeft op de vijf jaar voorafgaand aan het tijdstip waarop de aanvraag is ontvangen of de beschikking wordt gegeven, en  
 
@@ -1637,7 +1635,7 @@ Als wettelijke voorschriften, bedoeld in artikel 107, tweede lid, onder b, van d
 
 – de Algemene Ouderdomswet;  
 
-– de Algemene Wet Bijzondere Ziektekosten;  
+– de Wet langdurige zorg;  
 
 – de Algemene wet erkenning EG-beroepskwalificaties;  
 
@@ -1645,7 +1643,7 @@ Als wettelijke voorschriften, bedoeld in artikel 107, tweede lid, onder b, van d
 
 – de Faillisementswet;  
 
-– de Huisvestingswet;  
+– de Huisvestingswet 2014;  
 
 – de Paspoortwet;  
 
@@ -1723,9 +1721,9 @@ Als wettelijke voorschriften, bedoeld in artikel 107, tweede lid, onder b, van d
 
 – de Wet structuur uitvoeringsorganisatie werk en inkomen;  
 
-– de Wet werk en arbeidsondersteuning jonggehandicapten;  
+– de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten;  
 
-– de Wet werk en bijstand;  
+– de Participatiewet;  
 
 – de Wet werk en inkomen naar arbeidsvermogen;  
 

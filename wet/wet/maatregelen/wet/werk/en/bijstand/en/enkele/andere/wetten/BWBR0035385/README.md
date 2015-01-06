@@ -125,11 +125,11 @@ b. is artikel 22a van de Participatiewet niet van toepassing,   tot 1 juli 2015
 3.  Bij de toepassing van het eerste lid worden de normen, genoemd in het in het eerste lid, onderdeel a, genoemde artikel 22, toegepast zoals ze zouden luiden met toepassing van artikel 37a van de Participatiewet waarbij wordt uitgegaan van het netto minimumloon zoals dat luidt op 1 januari 2015.   
 4.  Bij de toepassing van het eerste lid wordt, indien het gaat om een persoon als bedoeld in het eerste lid die aanspraak heeft op de verhoging van het kindgebonden budget, bedoeld in artikel 2, zesde lid, van de Wet op het kindgebonden budget: 
 
-a. in artikel 20, tweede lid, onderdeel a, van de Wet werk en bijstand, zoals deze bepaling luidde op 31 december 2014 voor «506,78» gelezen: 234,88,  
+a. in artikel 20, tweede lid, onderdeel a, van de Wet werk en bijstand, zoals deze bepaling luidde op 31 december 2014 voor «506,78» gelezen: 234,88 per 1 januari 2015: € 237,16,  
 
-b. in artikel 21, onderdeel b, van de Wet werk en bijstand, zoals deze bepaling luidde op 31 december 2014 voor «951,64» gelezen: 679,75,  
+b. in artikel 21, onderdeel b, van de Wet werk en bijstand, zoals deze bepaling luidde op 31 december 2014 voor «951,64» gelezen: 679,75 per 1 januari 2015: € 686,31,  
 
-c. in artikel 22, onderdeel b, van de Wet werk en bijstand, zoals deze bepaling luidde op 31 december 2014 voor «1.313,82» gelezen: 1.044,01,   tot 1 juli 2015.   
+c. in artikel 22, onderdeel b, van de Wet werk en bijstand, zoals deze bepaling luidde op 31 december 2014 voor «1.313,82» gelezen: 1.044,01 per 1 januari 2015: € 1.077,63,   tot 1 juli 2015.   
 5.  Op de persoon: 
 
 a. die op 31 december 2014 recht had op algemene bijstand, en  

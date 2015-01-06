@@ -55,8 +55,8 @@ h. de betaling van de subsidie en het verlenen van voorschotten;
 i. andere criteria voor de verstrekking van subsidie.     
 2.  Verplichtingen als bedoeld in artikel 4:39 van de Algemene wet bestuursrecht kunnen slechts bij algemene maatregel van bestuur aan de subsidie worden verbonden.   
 3.  In afwijking van artikel 4:21, derde lid, van de Algemene wet bestuursrecht is titel 4.2 van die wet van toepassing op subsidies die worden verstrekt op grond van een algemene maatregel van bestuur of een ministeriële regeling als bedoeld in het eerste lid, die uitsluitend voorziet in verstrekking aan rechtspersonen die krachtens publiekrecht zijn ingesteld.  
-4. Onze Minister kan bij het verwerken van persoonsgegevens in het kader van subsidieverstrekking op grond van deze wet gebruik maken van het burgerservicenummer, bedoeld in artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer of, bij het ontbreken daarvan, van het sociaal-fiscaalnummer, bedoeld in artikel 2, derde lid, van de Algemene wet inzake rijksbelastingen met het oog op rapportage over en evaluatie van de besteding van subsidie. 
-5. De subsidie-ontvanger vermeldt bij het verstrekken van persoonsgegevens aan Onze Minister in verband met de besteding van subsidie het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer van de persoon op wie de persoonsgegevens betrekking hebben.
+4. Onze Minister kan bij het verwerken van persoonsgegevens in het kader van subsidieverstrekking op grond van deze wet gebruik maken van het burgerservicenummer, bedoeld in artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer met het oog op rapportage over en evaluatie van de besteding van subsidie. 
+5. De subsidie-ontvanger vermeldt bij het verstrekken van persoonsgegevens aan Onze Minister in verband met de besteding van subsidie het burgerservicenummer van de persoon op wie de persoonsgegevens betrekking hebben.
 
 ### Artikel  4  
 

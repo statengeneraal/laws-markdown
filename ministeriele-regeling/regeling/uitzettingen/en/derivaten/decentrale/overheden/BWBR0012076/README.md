@@ -5,14 +5,14 @@
 De Minister van Financiën;  
 Handelende in overeenstemming met de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Staatssecretaris van Verkeer en Waterstaat;
 
-Gelet op [artikel 2, tweede lid, van de Wet financiering decentrale overheden](../../../../../../../../wet/wet/financiering/decentrale/overheden/BWBR0011987/README.md),
+Gelet op artikel 2, tweede lid, van de Wet financiering decentrale overheden,
 Besluit:     
 
 ### Artikel  1  
 
 In deze regeling wordt verstaan onder: 
 
-a.  *de wet:* de [Wet financiering decentrale overheden](../../../../../../../../wet/wet/financiering/decentrale/overheden/BWBR0011987/README.md);  
+a.  *de wet:* de Wet financiering decentrale overheden;  
 
 b.  *lidstaat:* staat die lid is van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte;  
 
@@ -22,23 +22,38 @@ d.  *solvabiliteitsratio:* het in een lidstaat voor een financiële onderneming 
 
 e.  *vastrentende waarden:* openbare en onderhandse leningen;  
 
-f.  *nazorgfondsen:* fondsen als bedoeld in [artikel 15.47 van de Wet Milieubeheer](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md).  
+f.  *nazorgfondsen:* fondsen als bedoeld in artikel 15.47 van de Wet Milieubeheer.  
 
 g.  *rating:* taxatie van de kredietwaardigheid van een financiële onderneming of een land, bepaald door een ratingbureau;  
 
 h.  *nettingovereenkomst:* een overeenkomst op grond waarvan de wederzijdse verplichtingen tussen partijen verrekend worden waardoor wordt bepaald wat de ene partij per saldo aan de andere partij verschuldigd is;  
 
-i.  *waardepapieren:* documenten met een geldswaarde, zoals een bewijs van een aandeel of obligatie.   
+i.  *waardepapieren:* documenten met een geldswaarde, zoals een bewijs van een aandeel of obligatie;  
+
+k. *rentecap:* financieel derivaat waarbij de koper gedurende een in de overeenkomst overeengekomen renteperiode van de verkoper een geldsom ontvangt indien de variabele rente zich boven een overeengekomen rentepercentage beweegt;  
+
+l. *renteswap:* financieel derivaat waarbij gedurende een overeengekomen periode kasstromen in de vorm van rentebetalingen worden uitgewisseld;  
+
+m. *payer swap:* renteswap waarbij de betaler een vaste rente over de nominale waarde betaalt en een variabele rente over de nominale waarde ontvangt;  
+
+n. *receiver swap:* renteswap waarbij de betaler een variabele rente over de nominale waarde betaalt en een vaste rente over de nominale waarde ontvangt;  
+
+o. *forward starting swap:* payer- of receiver swap met een overeengekomen toekomstige begindatum;  
+
+p. *swaption:* financieel derivaat dat de koper gedurende een bepaalde periode of op een bepaald moment het recht geeft om onder bepaalde voorwaarden een renteswap af te sluiten;  
+
+q. *niet-effectieve positie:* situatie waarin de looptijd en de onderliggende waarde van een financieel derivaat niet overeenkomt met de financieringsbehoefte waaraan het derivaat wordt toegerekend;  
+
+r. *financieringsbehoefte:* een lening, groep leningen of een nog aan te trekken lening respectievelijk groep leningen.  
 
 ### Artikel  2  
 
-1.  Openbare lichamen zetten, al dan niet tegen waardepapieren, slechts gelden uit bij en gaan slechts verbintenissen met betrekking tot financiële derivaten aan met financiële ondernemingen die: 
+1.  Openbare lichamen zetten, al dan niet tegen waardepapieren, slechts uitgezonderde middelen, bedoeld in artikel 2a, tweede lid, van de wet uit bij en gaan slechts verbintenissen met betrekking tot financiële derivaten aan met financiële ondernemingen die: 
 
 a. gevestigd zijn in een lidstaat die ten minste beschikt over een AA-rating afgegeven door ten minste twee ratingbureaus; en  
 
-b. voor henzelf of voor de door hen uitgegeven waardepapieren kunnen aantonen dat ze ten minste over een AA-minusrating beschikken, afgegeven door ten minste twee ratingbureaus.     
-2.  Indien de gelden worden uitgezet of de verbintenissen met betrekking tot financiële derivaten worden aangegaan voor een periode van minder dan drie maanden, tonen deze financiële ondernemingen aan dat ze, in afwijking van het eerste lid, onderdeel b, voor henzelf of voor de door hen uitgegeven waardepapieren ten minste over een A-rating, afgegeven door ten minste twee ratingbureaus beschikken.   
-3.  Het eerste en tweede lid zijn niet van toepassing op uitzettingen tegen waardepapieren waarvoor een solvabiliteitsratio van 0 procent geldt. 
+b. voor henzelf of voor de door hen uitgegeven waardepapieren kunnen aantonen dat ze ten minste over een A-rating beschikken, afgegeven door ten minste twee ratingbureaus.     
+2.  Het eerste is niet van toepassing op uitzettingen tegen waardepapieren waarvoor een solvabiliteitsratio van 0 procent geldt. 
 
 ### Artikel  2a  
 
@@ -48,7 +63,7 @@ b. voor henzelf of voor de door hen uitgegeven waardepapieren kunnen aantonen da
 
 ### Artikel  3  
 
-Openbare lichamen als bedoeld in [artikel 1, onderdeel a, van de wet](../../../../../../../../wet/wet/financiering/decentrale/overheden/BWBR0011987/README.md), zetten uitsluitend gelden uit in de vorm van: 
+Openbare lichamen als bedoeld in artikel 1, onderdeel a, van de wet, zetten uitsluitend gelden uit in de vorm van: 
 
 a.  producten waarbij de hoofdsom tenminste aan het einde van de looptijd intact is, uitgezet bij een instelling die voldoet aan artikel 2; 
 
@@ -65,12 +80,15 @@ b.  overige uitzettingen tegen rente bij een instelling die voldoet aan artikel 
 
 ### Artikel  4  
 
-1.  Derivaten worden uitsluitend gebruikt ter beperking van financiële risico's. Dit houdt in dat geen open posities worden ingenomen. Derivaten worden afgesloten met een instelling die voldoet aan artikel 2;   
-2.  In afwijking van het eerste lid, laatste volzin, kunnen derivaten ook worden afgesloten op een gereglementeerde markt in de Europese Economische Ruimte, zoals bedoeld in de Richtlijn 93/22/EEG van de Raad van 10 mei 1993 betreffende het verrichten van diensten op het gebied van beleggingen in effecten in een lidstaat van de Europese Economische Ruimte onder toezicht staande effecteninstelling. Een wijziging van deze Richtlijn gaat voor de toepassing van deze regeling gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.   
+1.  Openbare lichamen hanteren financiële derivaten uitsluitend ter beperking van financiële risico’s en nemen geen niet-effectieve positie in.   
+2.  Financiële derivaten worden door openbare lichamen uitsluitend afgesloten met een financiële onderneming als bedoeld in artikel 2, eerste lid, of op een gereglementeerde markt, bedoeld in artikel 1:1 van de Wet op het financieel toezicht, in een van de staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte.   
+3.  Openbare lichamen hanteren uitsluitend rentecaps, payer swaps, forward start payer swaps of swaptions.   
+4.  Bijstortverplichtingen worden alleen overeengekomen indien de bijstortverplichting op beide partijen of uitsluitend op de financiële onderneming rust.   
+5.  Indien een niet-effectieve positie ontstaat, nemen openbare lichamen de noodzakelijke maatregelen om deze binnen een redelijke termijn ongedaan te maken. Hiervoor kan een openbaar lichaam, in afwijking van het derde lid, een receiver swap hanteren.  
 
 ### Artikel  5  
 
-Deze regeling treedt in werking met ingang van de datum waarop de [Wet financiering decentrale overheden](../../../../../../../../wet/wet/financiering/decentrale/overheden/BWBR0011987/README.md) in werking treedt.  
+Deze regeling treedt in werking met ingang van de datum waarop de Wet financiering decentrale overheden in werking treedt.  
 
 ### Artikel  6  
 

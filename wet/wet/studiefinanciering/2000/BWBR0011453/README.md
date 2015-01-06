@@ -282,7 +282,7 @@ De studerende die lesgeld is verschuldigd op grond van artikel 5, tweede lid, va
 
 ####Rechtens ontnomen vrijheid
 
-1.  Een studerende die voor ten minste één maand rechtens zijn vrijheid is ontnomen, heeft, behoudens in de gevallen, bedoeld in de Wet bijzondere opnemingen in psychiatrische ziekenhuizen en in artikel 37, eerste lid, van het Wetboek van Strafrecht en de gevallen, bedoeld in hoofdstuk IVB, van de Wet op de jeugdzorg, met ingang van de eerste dag van de maand volgend op de maand waarin de vrijheidsontneming ten minste één maand heeft geduurd slechts aanspraak op studiefinanciering voor een thuiswonende studerende.   
+1.  Een studerende die voor ten minste één maand rechtens zijn vrijheid is ontnomen, heeft, behoudens in de gevallen, bedoeld in de Wet bijzondere opnemingen in psychiatrische ziekenhuizen en in artikel 37, eerste lid, van het Wetboek van Strafrecht en de gevallen, bedoeld in hoofdstuk 6 van de Jeugdwet, met ingang van de eerste dag van de maand volgend op de maand waarin de vrijheidsontneming ten minste één maand heeft geduurd slechts aanspraak op studiefinanciering voor een thuiswonende studerende.   
 2.  Voor de toepassing van het eerste lid worden perioden van vrijheidsontneming samengeteld, indien zij elkaar met een onderbreking van minder dan vier weken opvolgen.   
 3.  Het eerste en tweede lid zijn niet van toepassing op bij algemene maatregel van bestuur aan te wijzen groepen van personen waarbij tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel buiten een justitiële inrichting plaatsvindt. 
 
@@ -349,7 +349,7 @@ b.een toeslag voor een één-oudergezin ingevolge artikel 3.5.
 ####Toeslag partner
 
 1.  Aan een studerende met een partner die financieel van hem afhankelijk is en die niet in aanmerking komt voor studiefinanciering, wordt een toeslag voor een partner toegekend.   
-2.  Uitsluitend als financieel afhankelijk wordt aangemerkt de partner die een toetsingsinkomen heeft dat naar de maatstaf van 1 januari 2008 minder bedraagt dan € 8 129,26 Per 1 januari 2014: € 9.150,27en die de verzorging heeft van een of meer kinderen die jonger zijn dan 12 jaar waarvoor op grond van de Algemene Kinderbijslagwet aanspraak op kinderbijslag bestaat. Bij de bepaling van het toetsingsinkomen van de partner is artikel 8, derde lid, van de Algemene wet inkomensafhankelijke regelingen en artikel 3.17, derde tot en met zesde en tiende lid, van deze wet, van overeenkomstige toepassing.   
+2.  Uitsluitend als financieel afhankelijk wordt aangemerkt de partner die een toetsingsinkomen heeft dat naar de maatstaf van 1 januari 2008 minder bedraagt dan € 8 129,26 per 1 januari 2015: € 9.234,45en die de verzorging heeft van een of meer kinderen die jonger zijn dan 12 jaar waarvoor op grond van de Algemene Kinderbijslagwet aanspraak op kinderbijslag bestaat. Bij de bepaling van het toetsingsinkomen van de partner is artikel 8, derde lid, van de Algemene wet inkomensafhankelijke regelingen en artikel 3.17, derde tot en met zesde en tiende lid, van deze wet, van overeenkomstige toepassing.   
 3.  Het bedrag, bedoeld in het eerste lid, is opgenomen in artikel 3.18.   
 4.  Artikel 9, tweede lid, van de Algemene wet inkomensafhankelijke regelingen is van toepassing. 
 
@@ -398,7 +398,7 @@ b.een toeslag voor een één-oudergezin ingevolge artikel 3.5.
 
 1.  Maatstaf voor de bepaling van de veronderstelde ouderlijke bijdrage is het toetsingsinkomen van de afzonderlijke ouders van de studerende in het peiljaar.   
 2.  Vervallen.  
-3. Op het toetsingsinkomen in het peiljaar wordt in mindering gebracht de vrije voet. Deze voet is naar de maatstaf van 2008 gelijk aan € 15 928,16Per 1 januari 2014: € 17.928,66.. Indien een van de ouders is overleden, geldt voor de andere ouder een dubbele vrije voet. Indien een studerende die niet geadopteerd is en die als ingezetene in de basisregistratie personen is ingeschreven, blijkens de basisregistratie personen slechts één ouder heeft of artikel 3.14 toepassing heeft gevonden, is de vorige volzin van overeenkomstige toepassing. Indien voor een ouder voor de inkomstenbelasting – naast de algemene heffingskorting – de alleenstaande-ouderkorting of de aanvullende alleenstaande-ouderkorting van toepassing is, en voor hem geen dubbele vrije voet geldt, geldt voor hem in afwijking van de tweede volzin een vrije voet die naar de maatstaf van 2008 gelijk is aan € 20 199,42 Per 1 januari 2014: € 22.736,38..
+3. Op het toetsingsinkomen in het peiljaar wordt in mindering gebracht de vrije voet. Deze voet is naar de maatstaf van 2012 gelijk aan € 16 288,94per 1 januari 2015: € 16.890,62. Indien een van de ouders is overleden, geldt voor de andere ouder een dubbele vrije voet. Indien een studerende die niet geadopteerd is en die als ingezetene in de basisregistratie personen is ingeschreven, blijkens de basisregistratie personen slechts één ouder heeft of artikel 3.14 toepassing heeft gevonden, is de vorige volzin van overeenkomstige toepassing. Indien het een ouder zonder partner betreft als bedoeld in artikel 2, zesde lid, van de Wet op het kindgebonden budget en voor hem geen dubbele vrije voet geldt, geldt voor hem in afwijking van de tweede volzin een vrije voet die naar de maatstaf van 2013 gelijk is aan € 22.407,00per 1 januari 2015: € 21.399,51.
 4. Het bruto kortingsbedrag op jaarbasis is 26% van het verschil tussen het toetsingsinkomen in het peiljaar en de vrije voet in het toekenningsjaar.  
 5.  Op het bruto kortingsbedrag, bedoeld in het vierde lid, worden in mindering gebracht: 
 
@@ -429,9 +429,9 @@ Voor de toepassing van de artikelen 3.9 en 3.10 wordt zolang het toetsingsinkome
 
 ### Artikel  3.12  
 
-####Alleenstaande-ouderkorting
+####Ouder zonder partner
 
-Indien voor een ouder voor de inkomstenbelasting na het peiljaar – naast de algemene heffingskorting – de alleenstaande-ouderkorting van toepassing wordt, wordt op aanvraag van die ouder of de studerende de hoogte van de vrije voet, bedoeld in artikel 3.9, derde lid, dienovereenkomstig aangepast. 
+Indien het een ouder zonder partner betreft als bedoeld in artikel 2, zesde lid, van de Wet op het kindgebonden budget, wordt op aanvraag van die ouder of de studerende de hoogte van de vrije voet, bedoeld in artikel 3.9, derde lid, dienovereenkomstig aangepast. 
 
 ### Artikel  3.13  
 
@@ -482,11 +482,11 @@ Het verschil tussen het maximale bedrag van de aanvullende beurs en de voor een 
 
 ####Vordering wegens eigen inkomsten studerende
 
-1.  Indien een studerende in een kalenderjaar meerinkomen heeft, leidt dit tot een vordering van Onze Minister op de studerende. Meerinkomen is het toetsingsinkomen, verminderd met een vrije voet naar de maatstaf van 1 januari 2011 van € 13 215,83 Per 1 januari 2014: € 13.729,80..   
+1.  Indien een studerende in een kalenderjaar meerinkomen heeft, leidt dit tot een vordering van Onze Minister op de studerende. Meerinkomen is het toetsingsinkomen, verminderd met een vrije voet naar de maatstaf van 1 januari 2011 van € 13 215,83 per 1 januari 2015: € 13.856,11.   
 2.  Vervallen.   
 3.  Tot het meerinkomen worden niet gerekend: 
 
-a. een uitkering op grond van de Wet werk en bijstand, de Toeslagenwet of de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers of de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen,   
+a. een uitkering op grond van de Participatiewet, de Toeslagenwet of de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers of de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen,   
 
 b. de studiefinanciering verstrekt op grond van deze wet en voor zover in deze inkomsten begrepen, en  
 
@@ -528,17 +528,17 @@ c. voor iedere maand waarin hij op enig moment beschikte over de reisvoorziening
 
 ####Overzicht normbedragen
 
-De bedragen in onderstaande overzichten luiden per maand en zijn uitgedrukt in euro’s naar de maatstaf van 1 september 2007: Overzicht 1. Maandbedragen
+De bedragen in onderstaande overzichten luiden per maand en zijn uitgedrukt in euro’s, voor de Overzichten 1 en 2 naar de maatstaf van 1 september 2007, en voor Overzicht 3 naar de maatstaf van 1 september 2015: Overzicht 1. Maandbedragen
 
 |--- |Hoger onderwijs |Beroepsonderwijs |
 |:---|:---|:---|
 |Levensonderhoud | --- | --- |
 |a. thuiswonend |€ 573,53
-per 1 januari 2014 tot 1 januari 2015: € 633,44. |€ 438,67
-per 1 januari 2014 tot 1 januari 2015: € 484,48. |
+per 1 januari 2015: € 649,34 |€ 438,67
+per 1 januari 2015: € 496,64 |
 |b. uitwonend |€ 754,41
-per 1 januari 2014 tot 1 januari 2015: € 833,22. |€ 619,55
-per 1 januari 2014 tot 1 januari 2015: € 684,25. |
+per 1 januari 2015: € 854,13 |€ 619,55
+per 1 januari 2015: € 701,42 |
 
 Overzicht 2. Financieringsbronnen
 
@@ -546,27 +546,30 @@ Overzicht 2. Financieringsbronnen
 |:---|:---|:---|
 |Basisbeurs (excl. toeslagen) | --- | --- |
 |a. thuiswonend |€ 90,77
-per 1 januari 2014 tot 1 januari 2015: € 100,25. |€ 71,57
-per 1 januari 2014 tot 1 januari 2015: € 79,04. |
+per 1 januari 2015: € 102,77 |€ 71,57
+per 1 januari 2015: € 81,02 |
 |b. uitwonend |€ 252,73
-per 1 januari 2014 tot 1 januari 2015: € 279,14. |€ 233,53
-per 1 januari 2014 tot 1 januari 2015: € 257,93. |
+per 1 januari 2015: € 286,15 |€ 233,53
+per 1 januari 2015: € 264,40 |
 |Maximale aanvullende beurs/lening (of veronderstelde ouderlijke bijdrage) | --- | --- |
 |a. thuiswonend |€ 206,25
-per 1 januari 2014 tot 1 januari 2015: € 237,46. |€ 292,46
-per 1 januari 2014 tot 1 januari 2015: € 324,10. |
+per 1 januari 2015: € 245,30 |€ 292,46
+per 1 januari 2015: € 332,30 |
 |b. uitwonend |€ 225,17
-per 1 januari 2014 tot 1 januari 2015: € 258,35. |€ 311,38
-per 1 januari 2014 tot 1 januari 2015: € 344,98. |
+per 1 januari 2015: € 266,71 |€ 311,38
+per 1 januari 2015: € 353,70 |
 |Basislening |€ 276,51
-per 1 januari 2014 tot 1 januari 2015: € 295,73. |€ 155,89
-per 1 januari 2014 tot 1 januari 2015: € 172,17. |
+per 1 januari 2015: € 301,27 |€ 155,89
+per 1 januari 2015: € 176,49 |
 |Toeslag partner |€ 529,03
-per 1 januari 2014 tot 1 januari 2015: € 584,28. |€ 529,03
-per 1 januari 2014 tot 1 januari 2015: € 584,28. |
-|Toeslag één-oudergezin |€ 423,34
-per 1 januari 2014 tot 1 januari 2015: € 467,54. |€ 423,34
-per 1 januari 2014 tot 1 januari 2015: € 467,54. |
+per 1 januari 2015: € 598,95 |€ 529,03
+per 1 januari 2015: € 598,95 |
+
+Overzicht 3. Aanvullende financieringsbron 
+
+|--- | Hoger onderwijs  | Beroepsonderwijs  |
+|:---|:---|:---|
+| Toeslag eenoudergezin  | € 247,12  | € 247,12  |
 
 ### Paragraaf  3.6  
 
@@ -732,7 +735,7 @@ Deze paragraaf is uitsluitend van toepassing op deelnemers die in Nederland een 
 1. Studiefinanciering, met uitzondering van de basislening en de aanvullende lening, wordt voor een opleiding niveau 3 of 4 binnen en buiten Nederland tezamen gedurende ten hoogste 4 jaren verstrekt in de vorm van een prestatiebeurs, met dien verstande dat de aanvullende beurs in de eerste 12 maanden waarvoor aanspraak op studiefinanciering bestaat wordt verstrekt in de vorm van een gift. 
 2. Indien een deelnemer een specialistenopleiding volgt en hij 4 jaren studiefinanciering in de vorm van prestatiebeurs heeft genoten, wordt aan hem studiefinanciering, met uitzondering van de basislening en de aanvullende lening, voor die opleiding op aanvraag gedurende ten hoogste 2 jaren verstrekt in de vorm van een prestatiebeurs. 
 3. Indien aan de voorwaarden, bedoeld in deze paragraaf, wordt voldaan wordt de prestatiebeurs omgezet in een gift. 
-4. Studiefinanciering wordt gedurende in totaal ten hoogste 36 maanden na de perioden, bedoeld in het eerste en tweede lid, verstrekt in de vorm van een lening. Het bedrag dat per maand kan worden geleend, bedraagt in afwijking van de artikelen 3.1, derde lid, 3.2, 3.13 en 3.18, naar de maatstaf van 1 januari 2005 € 787,02per 1 januari 2014 tot 1 januari 2015 € 894,51. Tevens kan een reisvoorziening worden verstrekt. 
+4. Studiefinanciering wordt gedurende in totaal ten hoogste 36 maanden na de perioden, bedoeld in het eerste en tweede lid, verstrekt in de vorm van een lening. Het bedrag dat per maand kan worden geleend, bedraagt in afwijking van de artikelen 3.1, derde lid, 3.2, 3.13 en 3.18, naar de maatstaf van 1 januari 2005 € 787,02per 1 januari 2015 tot 1 januari 2016 € 916,96. Tevens kan een reisvoorziening worden verstrekt. 
 5.  Op aanvraag kan een deelnemer als bedoeld in artikel 3.4, gedurende de periode, bedoeld in het vierde lid, tevens in aanmerking komen voor een lening ter grootte van het bedrag, bedoeld in artikel 3.4, derde lid.   
 6.  Op aanvraag kan een deelnemer als bedoeld in artikel 3.5, gedurende de periode bedoeld in het vierde lid, tevens in aanmerking komen voor een lening ter grootte van het bedrag, bedoeld in artikel 3.5, tweede lid. 
 
@@ -776,7 +779,7 @@ Onze Minister verlengt op aanvraag van de deelnemer de duur van de prestatiebeur
 
 ####Arbeidsongeschiktheid
 
-Indien een deelnemer op enig moment binnen de diplomatermijn beroepsonderwijs in staat wordt om met arbeid niet meer dan 20% te verdienen van het maatmaninkomen in de zin van de Wet werk en arbeidsondersteuning jonggehandicapten, wordt de aan hem toegekende prestatiebeurs omgezet in een gift.
+Indien een deelnemer op enig moment binnen de diplomatermijn beroepsonderwijs in staat wordt om met arbeid niet meer dan 20% te verdienen van het maatmaninkomen in de zin van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten en recht op arbeidsongeschiktheidsuitkering op grond van hoofdstuk 3 van die wet bestaat, of duurzaam geen mogelijkheden tot arbeidsparticipatie meer heeft in de zin van die wet, wordt de aan hem toegekende prestatiebeurs omgezet in een gift.
 
 ### Artikel 4.14 
 
@@ -823,7 +826,7 @@ Deze paragraaf is uitsluitend van toepassing op deelnemers die zijn ingeschreven
 ####Studiefinanciering
 
 1. Studiefinanciering wordt gedurende ten hoogste 4 jaren verstrekt in de vorm van een gift. 
-2. Studiefinanciering wordt gedurende 36 maanden na de periode, bedoeld in het eerste lid, verstrekt in de vorm van een lening. Het bedrag dat per maand kan worden geleend, bedraagt in afwijking van de artikelen 3.1, derde lid, 3.2, 3.13 en 3.18, naar de maatstaf van 1 januari 2004 € 770,53per 1 januari 2014 tot 1 januari 2015 € 894,51. Tevens kan een reisvoorziening worden verstrekt.
+2. Studiefinanciering wordt gedurende 36 maanden na de periode, bedoeld in het eerste lid, verstrekt in de vorm van een lening. Het bedrag dat per maand kan worden geleend, bedraagt in afwijking van de artikelen 3.1, derde lid, 3.2, 3.13 en 3.18, naar de maatstaf van 1 januari 2004 € 770,53per 1 januari 2015 tot 1 januari 2016 € 916,96. Tevens kan een reisvoorziening worden verstrekt.
 
 ### Artikel 4.19 
 
@@ -886,7 +889,7 @@ Dit hoofdstuk is uitsluitend van toepassing op studenten die na 31 augustus 1996
 
 1.  Studiefinanciering, met uitzondering van het collegegeldkrediet, de basislening en de aanvullende lening, wordt gedurende 4 jaren of het aantal jaren genoemd in artikel 5.6, dan wel bedoeld in artikel 2.14, derde lid, verstrekt in de vorm van een prestatiebeurs, met dien verstande dat de aanvullende beurs in de eerste 5 maanden waarvoor aanspraak op studiefinanciering bestaat wordt verstrekt in de vorm van een gift.   
 2.  Indien aan de voorwaarden, bedoeld in dit hoofdstuk, wordt voldaan wordt de prestatiebeurs omgezet in een gift.   
-3. Studiefinanciering, met uitzondering van het collegegeldkrediet, wordt gedurende 36 maanden na de periode, bedoeld in het eerste lid, verstrekt in de vorm van een lening. Het bedrag dat per maand kan worden geleend, bedraagt in afwijking van de artikelen 3.1, derde lid, 3.2, 3.3, 3.13 en 3.18, naar de maatstaf van 1 januari 2007 € 809,93 per 1 januari 2014 tot 1 januari 2015 € 894,51. Tevens kan een reisvoorziening worden verstrekt.  
+3. Studiefinanciering, met uitzondering van het collegegeldkrediet, wordt gedurende 36 maanden na de periode, bedoeld in het eerste lid, verstrekt in de vorm van een lening. Het bedrag dat per maand kan worden geleend, bedraagt in afwijking van de artikelen 3.1, derde lid, 3.2, 3.3, 3.13 en 3.18, naar de maatstaf van 1 januari 2007 € 809,93 per 1 januari 2015 tot 1 januari 2016 € 916,96. Tevens kan een reisvoorziening worden verstrekt.  
 4. De basislening en de aanvullende lening kunnen gedurende de periode, bedoeld in het eerste lid, worden verstrekt. Het collegegeldkrediet kan gedurende de periode bedoeld in het eerste en derde lid worden verstrekt.
 5. Op aanvraag kan een student als bedoeld in artikel 3.4, gedurende de in het derde lid bedoelde periode tevens in aanmerking komen voor een lening ter grootte van het bedrag, bedoeld in artikel 3.4, derde lid.
 6. Op aanvraag kan een student als bedoeld in artikel 3.5, gedurende de in het derde lid bedoelde periode tevens in aanmerking komen voor een lening ter grootte van het bedrag, bedoeld in artikel 3.5, tweede lid.
@@ -992,7 +995,7 @@ Vervallen per 01-09-2004
 
 ####Arbeidsongeschiktheid
 
-Indien een student op enig moment binnen de diplomatermijn hoger onderwijs in staat wordt om met arbeid niet meer dan 20% te verdienen van het maatmaninkomen in de zin van de Wet werk en arbeidsondersteuning jonggehandicapten, wordt de aan hem toegekende prestatiebeurs omgezet in een gift. 
+Indien een student op enig moment binnen de diplomatermijn hoger onderwijs in staat wordt om met arbeid niet meer dan 20% te verdienen van het maatmaninkomen in de zin van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten en recht op arbeidsongeschiktheidsuitkering op grond van hoofdstuk 3 van die wet bestaat, of duurzaam geen mogelijkheden tot arbeidsparticipatie meer heeft in de zin van die wet, wordt de aan hem toegekende prestatiebeurs omgezet in een gift. 
 
 ### Artikel  5.16  
 
@@ -1126,7 +1129,7 @@ c. ieder vijfde jaar na het vierde jaar van de aflosfase.
 
 a. 120% van het belastbaar minimumloon voor een debiteur met partner,  
 
-b. 120% van het belastbaar minimumloon voor een debiteur op wie de alleenstaande-ouderkorting, bedoeld in artikel 8.15 van de Wet inkomstenbelasting 2001, van toepassing is, of  
+b. 120% van het belastbaar minimumloon voor een debiteur die ouder zonder partner is als bedoeld in artikel 2, zesde lid, van de Wet op het kindgebonden budget, of  
 
 c. 84% van het belastbaar minimumloon voor overige debiteuren zonder partner.     
 3.  De draagkracht van de debiteur uit inkomen is 12% van het inkomen boven de draagkrachtvrije voet.   
@@ -1160,9 +1163,9 @@ b. aannemelijk wordt gemaakt dat gedurende ten minste 3 kalenderjaren zal worden
 
 ### Artikel  6.13  
 
-####Alleenstaande ouder-korting
+####Draagkracht ouder zonder partner
 
-Indien voor de debiteur voor de inkomstenbelasting na het tweede jaar voorafgaande aan het jaar waarvoor de draagkracht wordt vastgesteld de alleenstaande-ouderkorting van toepassing wordt, wordt op aanvraag van de debiteur de hoogte van zijn draagkracht dienovereenkomstig aangepast. 
+Indien het een debiteur betreft die ouder zonder partner is als bedoeld in artikel 2, zesde lid, van de Wet op het kindgebonden budget, wordt op aanvraag van de debiteur de hoogte van zijn draagkracht dienovereenkomstig aangepast. 
 
 ### Artikel  6.14  
 
@@ -1455,7 +1458,7 @@ In dit hoofdstuk wordt onder tempobeurs verstaan een voorwaardelijke gift die on
 
 1.  In afwijking van artikel 3.1, tweede lid, onderdeel b, kan studiefinanciering worden toegekend in de vorm van tempobeurs.   
 2.  Studiefinanciering met uitzondering van de reisvoorziening wordt gedurende 5 jaren of het aantal jaren genoemd in artikel 10.5, verstrekt in de vorm van een tempobeurs. De reisvoorziening wordt verstrekt in de vorm van een gift.   
-3.  Studiefinanciering met uitzondering van de reisvoorziening wordt gedurende 2 jaren na de periode, bedoeld in het tweede lid, verstrekt in de vorm van een lening. De reisvoorziening wordt verstrekt in de vorm van een gift. Het bedrag dat per maand gedurende deze periode kan worden geleend, bedraagt, in afwijking van de artikelen 3.2 en 3.3, naar de maatstaf van 1 januari 2007 € 809,93 per 1 januari 2014 tot 1 januari 2015 € 894,51. De artikelen 3.13 en 3.18 zijn niet van toepassing.  
+3.  Studiefinanciering met uitzondering van de reisvoorziening wordt gedurende 2 jaren na de periode, bedoeld in het tweede lid, verstrekt in de vorm van een lening. De reisvoorziening wordt verstrekt in de vorm van een gift. Het bedrag dat per maand gedurende deze periode kan worden geleend, bedraagt, in afwijking van de artikelen 3.2 en 3.3, naar de maatstaf van 1 januari 2007 € 809,93 per 1 januari 2015 tot 1 januari 2016 € 916,96. De artikelen 3.13 en 3.18 zijn niet van toepassing.  
 
 ### Artikel  10.4  
 
@@ -1616,7 +1619,7 @@ c. ieder vijfde jaar na het vierde jaar van de aflosfase.
 ####Draagkracht debiteur uit inkomen op jaarbasis
 
 1.  Maatstaf voor de vaststelling van de draagkracht van de debiteur uit inkomen is zijn toetsingsinkomen in het tweede jaar voorafgaande aan het jaar waarvoor de draagkracht wordt vastgesteld.   
-2.  Op het toetsingsinkomen wordt in mindering gebracht de draagkrachtvrije voet. Deze voet is gelijk aan het belastbare minimumloon in het tweede jaar voorafgaande aan het jaar waarvoor de draagkracht wordt vastgesteld, indien voor de debiteur voor de inkomstenbelasting – naast de algemene heffingskorting – de alleenstaande-ouderkorting, of voor zijn partner de verhoging van de gecombineerde heffingskorting, bedoeld in artikel 8.9 van de Wet inkomstenbelasting 2001, van toepassing is. Indien voor de debiteur de verhoging van de gecombineerde heffingskorting, bedoeld in artikel 8.9 van de Wet inkomstenbelasting 2001, of de algemene heffingskorting maar niet de alleenstaande-ouderkorting van toepassing is, is de draagkrachtvrije voet 0%, onderscheidenlijk 50% van de voet die van toepassing zou zijn indien voor de debiteur – naast de algemene heffingskorting – voor zijn partner de verhoging van de gecombineerde heffingskorting, bedoeld in artikel 8.9 van de Wet inkomstenbelasting 2001 van toepassing zou zijn.   
+2.  Op het toetsingsinkomen wordt in mindering gebracht de draagkrachtvrije voet. Deze voet is gelijk aan het belastbare minimumloon in het tweede jaar voorafgaande aan het jaar waarvoor de draagkracht wordt vastgesteld, indien de debiteur een ouder zonder partner is als bedoeld in artikel 2, zesde lid, van de Wet op het kindgebonden budget, of voor zijn partner voor de inkomstenbelasting de verhoging van de gecombineerde heffingskorting, bedoeld in artikel 8.9 van de Wet inkomstenbelasting 2001, van toepassing is. Indien voor de debiteur de verhoging van de gecombineerde heffingskorting, bedoeld in artikel 8.9 van de Wet inkomstenbelasting 2001, of de algemene heffingskorting van toepassing is, is de draagkrachtvrije voet 0%, onderscheidenlijk 50% van de voet die van toepassing zou zijn indien voor de debiteur – naast de algemene heffingskorting – voor zijn partner de verhoging van de gecombineerde heffingskorting, bedoeld in artikel 8.9 van de Wet inkomstenbelasting 2001 van toepassing zou zijn.   
 3.  Het resterende inkomen wordt verdeeld in 2 schijven ter grootte van de helft van de in het tweede lid bedoelde draagkrachtvrije voet alsmede een derde schijf ter grootte van 260% van het belastbare minimumloon in het tweede jaar voorafgaande aan het jaar waarvoor de draagkracht wordt vastgesteld, verminderd met de draagkrachtvrije voet en de eerste en de tweede schijf.   
 4.  Indien de debiteur of zijn partner een toetsingsinkomen heeft dat kleiner is dan de som van de in het tweede lid bedoelde draagkrachtvrije voet en de eerste 3 volle schijven, bedoeld in het derde lid, wordt het deel van de draagkrachtvrije voet en de eerste 3 schijven dat nog niet is benut, overgeheveld naar de ander. Daarbij wordt het onbenutte deel van een schijf toegevoegd aan de overeenkomstige schijf van de ander en het onbenutte deel van de draagkrachtvrije voet aan de draagkrachtvrije voet van de ander.   
 5.  Indien de debiteur en zijn partner een toetsingsinkomen hebben dat kleiner is dan de som van de in het tweede lid bedoelde draagkrachtvrije voet en de eerste 3 volle schijven, bedoeld in het derde lid, wordt het vierde lid toegepast in die zin dat van de debiteur of zijn partner met het laagste toetsingsinkomen het onbenutte deel van de draagkrachtvrije voet en de eerste 3 schijven wordt overgeheveld naar de ander.   
@@ -1628,7 +1631,7 @@ c. ieder vijfde jaar na het vierde jaar van de aflosfase.
 
 ####Andere aanpassing van draagkracht debiteur
 
-Indien voor de debiteur voor de inkomstenbelasting na het tweede jaar voorafgaande aan het jaar waarvoor de draagkracht wordt vastgesteld – naast de algemene heffingskorting – de alleenstaande-ouderkorting, of voor zijn partner de verhoging van de gecombineerde heffingskorting, bedoeld in artikel 8.9 van de Wet inkomstenbelasting 2001, van toepassing wordt, wordt op aanvraag van de debiteur de hoogte van zijn draagkracht dienovereenkomstig aangepast. 
+Indien het een debiteur betreft die ouder zonder partner is als bedoeld in artikel 2, zesde lid, van de Wet op het kindgebonden budget of voor zijn partner de verhoging van de gecombineerde heffingskorting, bedoeld in artikel 8.9 van de Wet inkomstenbelasting 2001, van toepassing wordt na het tweede jaar voorafgaande aan het jaar waarvoor de draagkracht wordt vastgesteld, wordt op aanvraag van de debiteur de hoogte van zijn draagkracht dienovereenkomstig aangepast. 
 
 ### Artikel  10a.10  
 

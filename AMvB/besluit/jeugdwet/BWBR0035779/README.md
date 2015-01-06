@@ -702,11 +702,11 @@ In deze paragraaf wordt verstaan onder:
 
 a. voor verblijf gedurende het etmaal: 
 
-1°. van een jeugdige tot en met vijf jaar: € 74,93 per maand;  
+1°. van een jeugdige tot en met vijf jaar: € 74,93 per maand per 1 januari 2015: € 75,75;  
 
-2°. van een jeugdige van zes tot en met elf jaar: € 103,03 per maand;  
+2°. van een jeugdige van zes tot en met elf jaar: € 103,03 per maand per 1 januari 2015: € 104,16;  
 
-3°. van een jeugdige van twaalf tot en met twintig jaar: € 131,12 per maand;    
+3°. van een jeugdige van twaalf tot en met twintig jaar: € 131,12 per maandper 1 januari 2015: € 132,56;    
 
 b. voor verblijf gedurende een deel van een etmaal: de helft van het voor de jeugdige ingevolge het onder onderdeel a geldende bedrag per maand.     
 2.  Voor de toepassing van het eerste lid geldt de leeftijd van de jeugdige op de eerste dag van de betreffende maand.   

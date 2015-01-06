@@ -16,8 +16,6 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ####Aanpassingswet Algemene wet inkomensafhankelijke regelingen
 
-Treedt in werking per 01-01-2015 
-
 Wijzigt de Algemene wet inkomensafhankelijke regelingen. 
 
 ### Artikel  I  
@@ -36,15 +34,11 @@ Wijzigt de Algemene nabestaandenwet.
 
 ####Algemene Ouderdomswet
 
-Treedt in werking per 01-01-2015 
-
 Wijzigt de Algemene Ouderdomswet. 
 
 ### Artikel  IV  
 
 ####Toeslagenwet
-
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Toeslagenwet. 
 
@@ -52,23 +46,17 @@ Wijzigt de Toeslagenwet.
 
 ####Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers
 
-Treedt in werking per 01-01-2015 
-
 Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers. 
 
 ### Artikel  VI  
 
 ####Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen
 
-Treedt in werking per 01-01-2015 
-
 Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen. 
 
 ### Artikel  VII  
 
 ####Wet op het kindgebonden budget
-
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet op het kindgebonden budget. 
 
@@ -82,21 +70,15 @@ Wijzigt de Wet werk en arbeidsondersteuning jonggehandicapten.
 
 ####Wet werk en bijstand
 
-Treedt in werking per 01-01-2015 
-
 Wijzigt de Wet werk en bijstand. 
 
 ### Hoofdstuk  2  
 
 ####Ministerie van Financiën
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  IX  
 
 ####Wet inkomstenbelasting 2001
-
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet inkomstenbelasting 2001. 
 
@@ -104,15 +86,11 @@ Wijzigt de Wet inkomstenbelasting 2001.
 
 ####Wet op de loonbelasting 1964
 
-Treedt in werking per 01-01-2015 
-
 Wijzigt de Wet op de loonbelasting 1964. 
 
 ### Artikel  IXb  
 
 ####Wet op het consumentenkrediet
-
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet op het consumentenkrediet. 
 
@@ -120,13 +98,9 @@ Wijzigt de Wet op het consumentenkrediet.
 
 ####Ministerie van Onderwijs, Cultuur en Wetenschap
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  X  
 
 ####Wet studiefinanciering 2000
-
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet studiefinanciering 2000. 
 
@@ -150,15 +124,11 @@ Wijzigt de Wet kinderopvang en kwaliteitseisen peuterspeelzalen.
 
 ####Samenloop voorstel van Wet sociaal leenstelsel masterfase
 
-Treedt in werking per 01-01-2015 
-
 Wijzigt deze wet. 
 
 ### Hoofdstuk  4  
 
 ####Ministerie van Veiligheid en Justitie
-
-Treedt in werking per 01-01-2015 
 
 ### Artikel  XI  
 
@@ -172,13 +142,9 @@ Wijzigt het Wetboek van Burgerlijke Rechtsvordering.
 
 ####Ministerie van Volksgezondheid, Welzijn en Sport
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  XIa  
 
 ####Wet buitengewoon pensioen 1940–1945
-
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet buitengewoon pensioen 1940–1945. 
 
@@ -186,15 +152,11 @@ Wijzigt de Wet buitengewoon pensioen 1940–1945.
 
 ####Wet buitengewoon pensioen Indisch verzet
 
-Treedt in werking per 01-01-2015 
-
 Wijzigt de Wet buitengewoon pensioen Indisch verzet. 
 
 ### Artikel  XIc  
 
 ####Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers
-
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers. 
 
@@ -202,15 +164,11 @@ Wijzigt de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers.
 
 ####Wet uitkeringen burger-oorlogsslachtoffers 1940–1945
 
-Treedt in werking per 01-01-2015 
-
 Wijzigt de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945. 
 
 ### Artikel  XIe  
 
 ####Wet uitkeringen vervolgingsslachtoffers 1940–1945
-
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet uitkeringen vervolgingsslachtoffers 1940–1945. 
 
@@ -218,13 +176,9 @@ Wijzigt de Wet uitkeringen vervolgingsslachtoffers 1940–1945.
 
 ####Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  XIf  
 
 ####Samenloopregeling Indonesische pensioenen 1960
-
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Samenloopregeling Indonesische pensioenen 1960. 
 
@@ -232,15 +186,11 @@ Wijzigt de Samenloopregeling Indonesische pensioenen 1960.
 
 ####Wet aanpassing pensioenvoorzieningen Bijstandkorps
 
-Treedt in werking per 01-01-2015 
-
 Wijzigt de Wet aanpassing pensioenvoorzieningen Bijstandkorps. 
 
 ### Artikel  XIh  
 
 ####Wet op de huurtoeslag
-
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet op de huurtoeslag. 
 
@@ -252,23 +202,20 @@ Wijzigt de Wet op de huurtoeslag.
 
 ####Overgangsrecht
 
-Treedt in werking per 01-01-2015 
-
 1.  Een op 31 december 2014 bestaande tegemoetkoming op grond van de Regeling tegemoetkoming ouders van thuiswonende gehandicapte kinderen wordt aangemerkt als kinderbijslag als bedoeld in artikel 7a van de Algemene Kinderbijslagwet.   
 2.  Voor de persoon die op 31 december 2014 recht had op algemene bijstand op grond van de Wet werk en bijstand, de op hem van toepassing zijnde norm een norm voor een alleenstaande ouder was en hij geen aanspraak heeft op de verhoging van het kindgebonden budget, bedoeld in artikel 2, zesde lid, van de Wet op het kindgebonden budget omdat hij een partner heeft als bedoeld in artikel 3 van de Algemene wet inkomensafhankelijke regelingen, is tot 1 januari 2016 in afwijking van de artikelen 20 tot en met 22a van de Participatiewet, de norm per kalendermaand, indien het betreft: 
 
-a. een persoon van 18, 19 of 20 jaar op wie een norm voor alleenstaande ouders van toepassing is: € 506,78;  
+a. een persoon van 18, 19 of 20 jaar op wie een norm voor alleenstaande ouders van toepassing is: € 506,78 per 1 januari 2015: € 511,68;  
 
-b. een persoon van 21 jaar of ouder doch jonger dan de pensioengerechtigde leeftijd, die niet met een of meer meerderjarige personen in dezelfde woning zijn hoofdverblijf heeft en op wie een norm voor alleenstaande ouders van toepassing is: € 1.191,18;  
+b. een persoon van 21 jaar of ouder doch jonger dan de pensioengerechtigde leeftijd, die niet met een of meer meerderjarige personen in dezelfde woning zijn hoofdverblijf heeft en op wie een norm voor alleenstaande ouders van toepassing is: € 1.191,18 per 1 januari 2015: € 1.235,35;  
 
-c. een persoon die de pensioengerechtigde leeftijd heeft bereikt, die niet met een of meer meerderjarige personen in dezelfde woning zijn hoofdverblijf heeft en op wie een norm voor alleenstaande ouders van toepassing is: € 1.313,82;  
+c. een persoon die de pensioengerechtigde leeftijd heeft bereikt, die niet met een of meer meerderjarige personen in dezelfde woning zijn hoofdverblijf heeft en op wie een norm voor alleenstaande ouders van toepassing is: € 1.313,82 per 1 januari 2015: € 1.358,27;  
 
 d. een alleenstaande ouder op wie artikel 22a, eerste lid, van de Participatiewet van toepassing is of een gehuwde voor wie op grond van artikel 24 van de Participatiewet de norm gelijk is aan de norm die voor hem als alleenstaande ouder zou gelden: de norm per kalendermaand als bedoeld in artikel 22a, eerste lid, verhoogd met 20% x de rekennorm, bedoeld in artikel 22a, tweede lid, van de Participatiewet.     
 3.  Onze Minister van Sociale Zaken en Werkgelegenheid kan de bedragen, genoemd in het tweede lid, aanpassen na inwerkingtreding van dit artikel indien het netto minimumloon wijzigt.   
 4.  Dit artikel vervalt met ingang van 1 januari 2016.  
 
 ### Artikel  XIII  
-Treedt in werking per 01-01-2015 
 
 *[Vervallen]* 
 

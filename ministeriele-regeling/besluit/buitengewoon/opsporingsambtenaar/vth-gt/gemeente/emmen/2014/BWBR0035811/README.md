@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Besluit van de Staatssecretaris van Veiligheid en Justitie van 13 november 2014, nr. BOACAT2014/049, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Emmen
+##Besluit van de Minister van Veiligheid en Justitie van 13 november 2014, nr. BOACAT2014/053, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Emmen
 
 De Staatssecretaris van Veiligheid en Justitie,  
 Gelezen het verzoek van de gemeente Emmen van 21 oktober 2014 en de adviezen van de hoofdofficier van justitie Noord-Nederland en de korpschef als bedoeld in artikel 27 van de Politiewet 2012;

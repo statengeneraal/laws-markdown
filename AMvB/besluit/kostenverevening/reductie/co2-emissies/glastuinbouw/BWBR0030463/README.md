@@ -15,54 +15,19 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In dit besluit wordt verstaan onder: 
-
-*vergoeding:* vergoeding als bedoeld in artikel 15.52 van de wet;  
-
-*wet:* Wet milieubeheer.   
-
-### Artikel  2  
-
-Artikel 15.52 van de wet is van toepassing op inrichtingen als bedoeld in artikel 15.51, eerste lid, van de wet, die in het kalenderjaar, waarop de vergoeding, bedoeld in artikel 3 betrekking heeft, 305 ton CO<sub>2</sub> of meer emitteren. 
+In dit besluit wordt verstaan onder wet: Wet milieubeheer. 
 
 ### Artikel  3  
 
-De hoogte van de door een inrichting als bedoeld in artikel 2 verschuldigde vergoeding is de uitkomst van de formule:  ![249346](http://wetten.overheid.nl/Illustration/249346)
-waarin voorstelt: V: de door de inrichting verschuldigde vergoeding; Et: de door de inrichtingen, bedoeld in artikel 15.51 van de wet, in het kalenderjaar gezamenlijk geëmitteerde hoeveelheid CO<sub>2</sub> uitgedrukt in tonnen; Er: de door Onze Minister in overeenstemming met Onze Minister van Economische Zaken, Landbouw en Innovatie vastgestelde hoeveelheid emissies, bedoeld in artikel 15.51 van de wet, uitgedrukt in tonnen; P: het bedrag in euro per ton geëmitteerde CO<sub>2</sub>; Eb: de door de inrichting in het kalenderjaar geëmitteerde hoeveelheid CO<sub>2</sub> uitgedrukt in tonnen; Ebt: de door de inrichtingen, bedoeld in artikel 2, in het kalenderjaar gezamenlijk geëmitteerde hoeveelheid CO<sub>2</sub> uitgedrukt in tonnen. 
+De hoogte van de vergoeding die verschuldigd is door degene die een inrichting als bedoeld in artikel 15.51 van de wet drijft is de uitkomst van de formule: V = ((Et – Er) x P) x (Eb/Et),waarin voorstelt: V: de door de inrichting verschuldigde vergoeding; Et: de door de inrichtingen, bedoeld in artikel 15.51 van de wet, in het kalenderjaar gezamenlijk geëmitteerde hoeveelheid CO<sub>2</sub> uitgedrukt in tonnen; Er: de door Onze Minister in overeenstemming met Onze Minister van Economische Zaken, Landbouw en Innovatie vastgestelde hoeveelheid emissies, bedoeld in artikel 15.51 van de wet, uitgedrukt in tonnen; P: het bedrag in euro per ton geëmitteerde CO<sub>2</sub>; Eb: de door de inrichting in het kalenderjaar geëmitteerde hoeveelheid CO<sub>2</sub> uitgedrukt in tonnen. 
 
 ### Artikel  4  
 
-1.  Ter uitvoering van titel 15.13 van de wet wordt medewerking gevorderd van het bestuur van het Productschap Tuinbouw.   
-2.  De medewerking, bedoeld in het eerste lid, bestaat uit het verrichten van de noodzakelijke werkzaamheden en het bij verordening stellen van nadere regels, inzake: 
+Bij regeling van Onze Minister van Economische Zaken worden nadere regels vastgesteld inzake: 
 
-a. het vaststellen van de door een inrichting als bedoeld in artikel 15.51 van de wet in een kalenderjaar geëmitteerde hoeveelheid CO<sub>2</sub>;  
+a. de gegevens die degene die een inrichting als bedoeld in artikel 15.51 van de wet drijft, verstrekt in het kader van de uitvoering van titel 15.13 van de wet;  
 
-b. het vaststellen van de door de inrichtingen, bedoeld in artikel 15.51 van de wet, gezamenlijk in een kalenderjaar geëmitteerde hoeveelheid CO<sub>2</sub>;  
-
-c. de gegevens die een inrichting als bedoeld in artikel 15.51 van wet verstrekt in het kader van de uitvoering van titel 15.13 van de wet;  
-
-d. het vaststellen van het bedrag per ton als bedoeld in artikel 3 en het vaststellen van de door een inrichting verschuldigde vergoeding.     
-3.  Bij de verordening, bedoeld in het tweede lid, kan de bevoegdheid tot het vaststellen van nadere voorschriften omtrent bij die verordening aangewezen onderwerpen worden gedelegeerd aan een ander orgaan van het Productschap Tuinbouw.  
-
-### Artikel  5  
-
-Besluiten ter uitvoering van de krachtens artikel 4 vastgestelde verordening, die: 
-
-a. nadere regels inhouden ter uitvoering van die verordening, of  
-
-b. betrekking hebben op de hoogte van het bedrag per ton geëmitteerde CO<sub>2</sub>, bedoeld in artikel 3,   behoeven de goedkeuring van Onze Minister. 
-
-### Artikel  6  
-
-Overtreding door een inrichting van de krachtens artikel 4 vastgestelde verordening is een feit waarvoor een tuchtrechtelijke maatregel als bedoeld in de Wet tuchtrechtspraak bedrijfsorganisatie 2004 kan worden opgelegd. 
-
-### Artikel  7  
-
-Wijzigt het Besluit glastuinbouw. 
-
-### Artikel  8  
-
-Wijzigt het Besluit omgevingsrecht.
+b. het vaststellen van de waarde van V, Et, P en Eb, bedoeld in artikel 3.   
 
 ### Artikel  9  
 

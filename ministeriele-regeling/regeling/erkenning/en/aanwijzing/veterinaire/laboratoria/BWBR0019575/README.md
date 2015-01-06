@@ -308,14 +308,14 @@ C.P. Veerman
 |10. |Doelmatigheid van antirabiësvaccins serologische tests als bedoel in artikel 3, eerste lid van beschikking 2000/258/EG | --- |
 |11. | Onderzoek naar trichinella als bedoeld in artikel 2, eerste lid, tweede alinea, en derde lid, derde alinea, van verordening (EG) nr. 2075/2005 |De referentiemethode als bedoeld in bijlage I, van verordening (EG) nr. 2075/2005, met eventueel daarbij één of meer gelijkwaardige methoden als bedoeld in hoofdstuk II van bijlage I van de verordening |
 |12. |Afrikaanse paardenpest (APP) of  African horse sickness  |ELISA: competitieELISA/indirecte ELISA  Complementbindingsreactie |
-|13. |Contagious Equine Metritis (CEM) of  Taylorella equigenitalis |Cultureel bacteriologisch onderzoek (kweek) |
+|13. | Contagious Equine Metritis (CEM) of Taylorella equigenitalis |Cultureel bacteriologisch onderzoek (kweek) of (realtime) polymerasekettingreactie (PCR) |
 |14. |Dourine of  Trypanosoma equiperdum |Complementbindingsreactie |
 |15. |Surra of  Trypanosoma evansi |Card agglutination test (CATT)  Microscopisch onderzoek van bloeduitstrijkje |
 |16. |Equine infectious anaemie (EIA) |Agargelimmunodiffusie test (AGIDT) |
 |17. |Salmonella abortus equi of  Equine paratyphoid |Serumagglutinatietest |
 |18. |Equine piroplasmosis of  Theilleria equi en Babesia caballi |Indirect fluorescent antibody test (IFAT)  ELISA  Microscopisch onderzoek van bloeduitstrijkje |
 |19. |Rhinopneumonie (ER) |Virusneutralisatietest  Virusisolatie |
-|20. |Virale arteritis (EVA) |Virusneutralisatietest  Virusisolatie (sperma) |
+|20. |Virale arteritis (EVA) | Virusneutralisatietest, Virusisolatie (sperma), of (realtime) polymerasekettingreactie (PCR) |
 |21. |Malleus of  Kwade droes of  Glanders |Complementbindingsreactie |
 |22. |Venezulaanse/Eastern  en Western equine encephalomyelitis (VEE/EEE/WEE) |Hemagglutinatie-inhibitie test (HI)  Complementbindingsreactie  Plaque reduction neutralisation test (PRNT) |
 |23. |Vesiculaire stomatitis (VS) |ELISA  Complementbindingsreactie |

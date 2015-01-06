@@ -148,7 +148,7 @@ De aanvraag om ouderdomspensioen of om een verhoging van het ouderdomspensioen w
 
 1.  Het ouderdomspensioen wordt door Onze Minister ingetrokken of herzien, wanneer degene aan wie het is toegekend, ingevolge het op grond van deze wet bepaalde, daarvoor niet of niet of niet meer in aanmerking komt, dan wel voor een hoger of lager ouderdomspensioen in aanmerking komt.   
 2.  De herziening van het ouderdomspensioen, die voortvloeit uit een wijziging van de omstandigheden en die een verhoging van dit pensioen tot gevolg heeft, gaat in op de eerste dag van de maand, volgende op de maand waarin de wijziging van die omstandigheden heeft plaats gevonden. Het bepaalde in artikel 11, tweede lid, is van overeenkomstige toepassing.   
-3.  De intrekking van het ouderdomspensioen of de herziening daarvan, die een verlaging van dit pensioen tot gevolg heeft, gaat, behoudens in bij algemene maatregel van bestuur aan te wijzen gevallen, in op de eerste dag van de maand, volgende op die, waarin de dag van de dagtekening van de kennisgeving op grond van artikel 37, eerste lid, onderdeel a, is gelegen.   
+3.  De intrekking van het ouderdomspensioen of de herziening daarvan, die een verlaging van dit pensioen tot gevolg heeft, gaat, behoudens in bij algemene maatregel van bestuur aan te wijzen gevallen, in op de eerste dag van de maand, volgende op die, waarin de dag van de dagtekening van de kennisgeving op grond van artikel 37, eerste lid, is gelegen.   
 4.  De herziening van het ouderdomspensioen in verband met artikel 8a, eerste lid, gaat, in afwijking van het bepaalde in het tweede en derde lid, in op de dag, met ingang waarvan op grond van artikel 8a, eerste lid, de in artikel 7 genoemde bedragen van het ouderdomspensioen zijn herzien.   
 5.  Ter uitvoering van het bepaalde in dit artikel kunnen bij algemene maatregel van bestuur nadere voorschriften worden gegeven. Daarbij kunnen tevens nadere regels worden gesteld met betrekking tot schorsing en opschorting van de uitbetaling van het ouderdomspensioen.  
 
@@ -352,7 +352,7 @@ d. voor degene die in 2015 de leeftijd van 60 jaar bereikt, in die artikelen in 
 
 ### Artikel  41  
 
-1.  Degene, die vóór of op 1 september 1960 van artikel 6 de leeftijd van 15 heeft bereikt en die – al dan niet onafgebroken – gedurende zes jaren na de voleindiging van zijn 54ste levensjaar in Aruba, Curaçao, Sint Maarten, de openbare lichamen Bonaire, Sint Eustatius of Saba, Nederland, Suriname of Nederlands Nieuw-Guinea heeft gewoond, heeft recht op ouderdomspensioen.   
+1.  Degene, die vóór of op 1 september 1960 de leeftijd van 15 heeft bereikt en die – al dan niet onafgebroken – gedurende zes jaren na de voleindiging van zijn 54ste levensjaar in Aruba, Curaçao, Sint Maarten, de openbare lichamen Bonaire, Sint Eustatius of Saba, Nederland, Suriname of Nederlands Nieuw-Guinea heeft gewoond, heeft recht op ouderdomspensioen.   
 2.  Het bepaalde in het vorige lid is niet van toepassing op de gehuwde vrouw, behoudens in het geval waarin: 
 
 a. haar echtgenoot de leeftijd van 65 jaar heeft bereikt en geen recht op ouderdomspensioen kan doen gelden; of  

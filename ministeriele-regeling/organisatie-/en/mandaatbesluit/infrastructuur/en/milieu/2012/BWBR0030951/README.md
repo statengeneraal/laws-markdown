@@ -3,7 +3,7 @@
 ##Besluit van de Minister van Infrastructuur en Milieu, van 5 december 2011, nr. IENM/BSK-2011/159456 houdende vaststelling van de organisatie van het Ministerie van Infrastructuur en Milieu en verlening van mandaat, volmacht en machtiging aan de secretaris-generaal en de diensthoofden (Organisatie- en mandaatbesluit Infrastructuur en Milieu 2012)
 
 De Minister van Infrastructuur en Milieu,  
-Gelet op [artikel 3, tweede lid, van het Coördinatiebesluit organisatie en bedrijfsvoering rijksdienst 2011](../../../../../../../../../KB/coördinatiebesluit/organisatie/en/bedrijfsvoering/rijksdienst/2011/BWBR0029514/README.md) en op de [artikelen 10:3](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [10:9, eerste lid](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [10:11](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [10:12 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);
+Gelet op artikel 3, tweede lid, van het Coördinatiebesluit organisatie en bedrijfsvoering rijksdienst 2011 en op de artikelen 10:3, 10:9, eerste lid, 10:11 en 10:12 van de Algemene wet bestuursrecht;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -31,7 +31,7 @@ g. *minister:* de Minister van Infrastructuur en Milieu;
 
 h. *ministerie:* het Ministerie van Infrastructuur en Milieu;  
 
-i. *secretaris van adviesorgaan of overlegorgaan:* secretaris of algemeen secretaris van een adviesorgaan of overlegorgaan, genoemd in artikel 2, derde lid;  
+i. *secretaris van adviesorgaan:* secretaris of algemeen secretaris van een adviesorgaan, genoemd in artikel 2, derde lid;  
 
 j. *secretaris-generaal:* de secretaris-generaal van Infrastructuur en Milieu; en  
 
@@ -49,7 +49,7 @@ k. *staatssecretaris:* de Staatssecretaris van Infrastructuur en Milieu.
 
 ####: Onderdelen ministerie
 
-1.  Het ministerie bestaat uit de secretaris-generaal, de diensten en de secretariaten van de adviesorganen en overlegorganen.   
+1.  Het ministerie bestaat uit de secretaris-generaal, de diensten en de secretariaten van de adviesorganen.   
 2.  Diensten van het ministerie zijn: 
 
 a. het directoraat-generaal Bereikbaarheid;  
@@ -64,40 +64,36 @@ e. de directie Bestuursondersteuning;
 
 f. de directie Communicatie;  
 
-g. het Centrum Publieksparticipatie;  
+g. de directie Participatie;  
 
 h. de hoofddirectie Financiën, Management en Control;  
 
 i. de Shared Services Organisatie;  
 
-j. de directie Concern Informatievoorziening;  
+j. de directie Kennis, Innovatie en Strategie;  
 
-k. de directie Kennis, Innovatie en Strategie;  
+k. het Kennisinstituut voor Mobiliteitsbeleid;  
 
-l. het Kennisinstituut voor Mobiliteitsbeleid;  
+l. het Planbureau voor de Leefomgeving;  
 
-m. het Planbureau voor de Leefomgeving;  
+m. het Stafbureau deltacommissaris;  
 
-n. het Stafbureau deltacommissaris;  
+n. het Koninklijk Nederlands Meteorologisch Instituut, bedoeld in de Wet op het Koninklijk Nederlands Meteorologisch Instituut;  
 
-o. het Koninklijk Nederlands Meteorologisch Instituut, bedoeld in de [Wet op het Koninklijk Nederlands Meteorologisch Instituut](../../../../../../../../../wet/wet/op/het/koninklijk/nederlands/meteorologisch/instituut/BWBR0012952/README.md);  
+o. de directie Nederlandse emissieautoriteit;  
 
-p. de directie Nederlandse emissieautoriteit;  
+p. de directie Autoriteit Nucleaire Veiligheid en Stralingsbescherming; 
 
 q. de Inspectie Leefomgeving en Transport, bedoeld in het Instellingsbesluit Inspectie Leefomgeving en Transport; en  
 
-r. het directoraat-generaal Rijkswaterstaat, bedoeld in het [Instellingsbesluit directoraat-generaal Rijkswaterstaat](../../../../../../../../../ministeriele-regeling/instellingsbesluit/directoraat-generaal/rijkswaterstaat/BWBR0026953/README.md).     
-3.  Secretariaten van adviesorganen of overlegorganen van het ministerie zijn: 
+r. het directoraat-generaal Rijkswaterstaat, bedoeld in het Instellingsbesluit directoraat-generaal Rijkswaterstaat.     
+3.  Secretariaten van adviesorganen van het ministerie zijn: 
 
-a. het secretariaat van de Raad voor de leefomgeving en infrastructuur, bedoeld in de [Wet Raad voor de leefomgeving en infrastructuur](../../../../../../../../../wet/wet/raad/voor/de/leefomgeving/en/infrastructuur/BWBR0031263/README.md);  
+a. het secretariaat van de Raad voor de leefomgeving en infrastructuur, bedoeld in de Wet Raad voor de leefomgeving en infrastructuur;  
 
-b. het secretariaat van het Overleg Infrastructuur en Milieu, zijnde het Overlegorgaan verkeer en waterstaat, bedoeld in de [Wet overleg verkeer en waterstaat](../../../../../../../../../wet/wet/overleg/verkeer/en/waterstaat/BWBR0008410/README.md);  
+b. het secretariaat van de Adviescommissie Water, bedoeld in het Instellingsbesluit Adviescommissie Water, dat dienstonderdeel is van het directoraat-generaal Ruimte en Water; en  
 
-c. het secretariaat van de Adviescommissie Water, bedoeld in het [Instellingsbesluit Adviescommissie Water](../../../../../../../../../ministeriele-regeling/instellingsbesluit/adviescommissie/water/BWBR0016434/README.md), dat dienstonderdeel is van het directoraat-generaal Ruimte en Water;  
-
-d. het secretariaat van de Commissie van advies inzake de waterstaatswetgeving, bedoeld in [artikel 10:3 van de Waterwet](../../../../../../../../../wet/waterwet/BWBR0025458/README.md); en  
-
-e. het secretariaat van de Technische commissie bodem, bedoeld in de [Wet bodembescherming](../../../../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md).    
+c. het secretariaat van de Technische commissie bodem, bedoeld in de Wet bodembescherming.    
 
 ### §  2.2  
 
@@ -107,7 +103,7 @@ e. het secretariaat van de Technische commissie bodem, bedoeld in de [Wet bodemb
 
 ####: Taken secretaris-generaal
 
-1.  De secretaris-generaal is overeenkomstig het [Besluit houdende regeling van de functie en verantwoordelijkheid van de secretaris-generaal](../../../../../../../../../KB/besluit/regeling/functie/en/verantwoordelijkheid/van/de/etc/BWBR0004419/README.md) belast met de ambtelijke leiding van al hetgeen het ministerie betreft.   
+1.  De secretaris-generaal is overeenkomstig het Besluit houdende regeling van de functie en verantwoordelijkheid van de secretaris-generaal belast met de ambtelijke leiding van al hetgeen het ministerie betreft.   
 2.  Bij afwezigheid of verhindering van de secretaris-generaal zijn de directeuren-generaal Bereikbaarheid, Milieu en Internationaal en Ruimte en Water, bedoeld in de artikelen 4, 5 en 6, bevoegd om als plaatsvervanger op te treden.   
 3.  Plaatsvervanging geschiedt voor het overige overeenkomstig daartoe strekkende instructies van de secretaris-generaal.  
 
@@ -135,9 +131,9 @@ e. de programmadirectie Beter Benutten;
 f. de unit Strategie; en  
 
 g. het stafbureau directoraat-generaal Bereikbaarheid.     
-3.  De dienstonderdelen, genoemd in het tweede lid, onder a tot en met e, staan onder leiding van een directeur. De dienstonderdelen, genoemd in het tweede lid, onder f en g, staan onder leiding van een afdelingshoofd. De dienstonderdelen, genoemd in het tweede lid, onder a tot en met d bestaan uit afdelingen die onder leiding staan van een afdelingshoofd.   
-4.  Bij afwezigheid of verhindering van de directeur-generaal Bereikbaarheid zijn de directeuren-generaal Milieu en Internationaal en Ruimte en Water, bedoeld in de artikelen 5 en 6, en de directeuren bevoegd om als plaatsvervanger op te treden.   
-5.  Bij afwezigheid of verhindering van een directeur zijn de overige directeuren en de afdelingshoofden binnen de directie bevoegd om als plaatsvervanger op te treden.   
+3.  De dienstonderdelen, genoemd in het tweede lid, onder a tot en met d, staan onder leiding van een directeur. Het dienstonderdeel, genoemd in het tweede lid, onder e, staat onder leiding van een programmadirecteur. De dienstonderdelen, genoemd in het tweede lid, onder f en g, staan onder leiding van een afdelingshoofd. De dienstonderdelen, genoemd in het tweede lid, onder a tot en met d bestaan uit afdelingen die onder leiding staan van een afdelingshoofd.   
+4.  Bij afwezigheid of verhindering van de directeur-generaal Bereikbaarheid zijn de directeuren-generaal Milieu en Internationaal en Ruimte en Water, bedoeld in de artikelen 5 en 6, en de directeuren en de programmadirecteur bevoegd om als plaatsvervanger op te treden.   
+5.  Bij afwezigheid of verhindering van een directeur of de programmadirecteur zijn de overige directeuren, de programmadirecteur en de afdelingshoofden binnen de directie bevoegd om als plaatsvervanger op te treden.   
 6.  Bij afwezigheid of verhindering van een afdelingshoofd binnen een directie zijn de overige afdelingshoofden binnen de directie bevoegd om als plaatsvervanger op te treden.   
 7.  Plaatsvervanging geschiedt voor het overige overeenkomstig daartoe strekkende instructies van de directeur-generaal Bereikbaarheid.   
 8.  Het directoraat-generaal Bereikbaarheid heeft als doel de netwerkkwaliteit van luchtwegen, vaarwegen, spoorwegen, havens en het wegennet verder te ontwikkelen, het veilige en duurzame gebruik daarvan te waarborgen en te zorgen voor een goede en verantwoorde inpassing in de leefomgeving. Daarmee hebben het directoraat-generaal Bereikbaarheid en zijn dienstonderdelen de volgende taken: 
@@ -166,9 +162,11 @@ c. de directie Openbaar Vervoer en Spoor: het ontwikkelen en implementeren van b
 
 i. openbaar vervoer en ander personenvervoer;  
 
-ii. beheer, gebruik en aanleg van de hoofdspoorinfrastructuur en spoorwegen; en  
+ii. beheer, gebruik en aanleg van de hoofdspoorinfrastructuur en spoorwegen;  
 
-iii. goederenvervoer per spoor.    
+iii. goederenvervoer per spoor; en  
+
+iv. de veiligheid op en rond het spoor;    
 
 d. de directie Wegen en Verkeersveiligheid: het ontwikkelen en implementeren van beleid met betrekking tot: 
 
@@ -178,7 +176,7 @@ ii. gebruik en onderhoud van het hoofdwegennet en goederenvervoer over de weg;
 
 iii. inpassing van wegen in relatie tot milieu en natuur alsmede bereikbaarheid; en  
 
-iv. veilig verkeer en vervoer.    
+iv. veilig verkeer en vervoer;    
 
 e. de programmadirectie Beter Benutten: het ontwikkelen en implementeren van beleid met betrekking tot maatregelen die zijn gericht op betere benutting van het hoofdwegen-, hoofdspoorwegen- en hoofdvaarwegennet;  
 
@@ -199,12 +197,10 @@ b. de directie Internationaal;
 
 c. de directie Klimaat, Lucht en Geluid;  
 
-d. de directie Veiligheid en Risico’s;  
+d. de directie Veiligheid en Risico’s; en  
 
-e. de programmadirectie Eenvoudig Beter; en  
-
-f. de unit Coördinerend Opdrachtgeverschap en Strategie.     
-3.  De dienstonderdelen, genoemd in het tweede lid, onder a tot en met d, staan onder leiding van een directeur. Het dienstonderdeel, genoemd in het tweede lid, onder e, staat onder leiding van een programmadirecteur. Het dienstonderdeel, genoemd in het tweede lid, onder f, staat onder leiding van een afdelingshoofd. De dienstonderdelen, genoemd in het tweede lid, onder a tot en met e, bestaan uit afdelingen en taakvelden die onder leiding staan van een afdelingshoofd.   
+e. de programmadirectie Eenvoudig Beter.     
+3.  De dienstonderdelen, genoemd in het tweede lid, onder a tot en met d, staan onder leiding van een directeur. Het dienstonderdeel, genoemd in het tweede lid, onder e, staat onder leiding van een programmadirecteur. Onder de dienstonderdelen, genoemd in het tweede lid, ressorteren tevens afdelingshoofden.   
 4.  Bij afwezigheid of verhindering van de directeur-generaal Milieu en Internationaal zijn de directeuren-generaal Bereikbaarheid en Ruimte en Water, bedoeld in de artikelen 4 en 6, en de directeuren en de programmadirecteur bevoegd om als plaatsvervanger op te treden.   
 5.  Bij afwezigheid of verhindering van een directeur of de programmadirecteur zijn de overige directeuren of de programmadirecteur en de afdelingshoofden binnen de directie of programmadirectie bevoegd om als plaatsvervanger op te treden.   
 6.  Bij afwezigheid of verhindering van een afdelingshoofd binnen een directie of programmadirectie zijn de overige afdelingshoofden binnen de directie of programmadirectie bevoegd om als plaatsvervanger op te treden.   
@@ -213,23 +209,21 @@ f. de unit Coördinerend Opdrachtgeverschap en Strategie.
 
 a. de directie Duurzaamheid: het ontwikkelen en implementeren van beleid met betrekking tot: 
 
-i. duurzaamheid, waaronder duurzaam inkopen, duurzame productketens en duurzame landbouw;  
+i. duurzaamheid, waaronder duurzame productketens en duurzame landbouw;  
 
-ii. afvalbeheer;  
+ii. duurzaam afval- en grondstoffenbeheer; en  
 
-iii. kaderstelling en preventie van emissies ten behoeve van de kwaliteit van bodem en water;  
-
-iv. biodiversiteit en ecosysteemdiensten; en  
-
-v. biociden en gewasbeschermingsmiddelen;    
+iii. biodiversiteit en ecosysteemdiensten, waaronder het behoud en gebruik van natuurlijke hulpbronnen;    
 
 b. de directie Internationaal: 
 
 i. advisering ten behoeve van de bewindspersoon en de ambtelijke leiding op het terrein van internationale strategie en beleidsvorming;  
 
-ii. het waarborgen van de kwaliteit en coherentie van het internationale optreden van het ministerie; en  
+ii. het verbinden van de internationale context met de nationale beleidsontwikkelingen;  
 
-iii. het vertegenwoordigen van de bewindspersoon bij internationale en Europese aangelegenheden;    
+iii. het waarborgen van de kwaliteit en coherentie van het beleid van het ministerie in het internationale veld;  
+
+iv. het coördineren en regisseren van de internationale functie binnen het ministerie;.    
 
 c. de directie Klimaat, Lucht en Geluid: het ontwikkelen en implementeren van beleid met betrekking tot: 
 
@@ -239,21 +233,21 @@ ii. luchtkwaliteit en geluidhinder;
 
 iii. luchtemissies industrie en verhandelbare emissierechten; en  
 
-iv. verkeersemissies en biobrandstoffen;    
+iv. verkeersemissies en brandstoffen;    
 
 d. de directie Veiligheid en Risico’s: het ontwikkelen en implementeren van beleid met betrekking tot veiligheid en risico’s op het gebied van: 
 
-i. vervoer van gevaarlijke stoffen via weg, water en spoor en buisleidingen;  
+i. vervoer van gevaarlijke stoffen via weg, water, spoor en buisleidingen;  
 
 ii. gevaarlijke stoffen en nieuwe risico’s, waaronder chemische stoffen, nanodeeltjes, genetisch gemodificeerde organismen, elektromagnetische velden en asbest;  
 
-iii. gevaarlijke stoffen in bedrijven en inrichtingen; en  
+iii. gevaarlijke stoffen in bedrijven en inrichtingen en de omgeving daarvan;  
 
-iv. nationale veiligheid en bescherming van de vitale infrastructuur;    
+iv. nationale veiligheid en bescherming van de vitale infrastructuur; en  
 
-e. de programmadirectie Eenvoudig Beter: het ontwikkelen en implementeren van beleid met betrekking tot een eenvoudiger en beter omgevingsrecht; en 
+v. biociden en gewasbeschermingsmiddelen; en   
 
-f. de unit Coördinerend Opdrachtgeverschap en Strategie: het waarborgen van integrale beleidsvorming en het ondersteunen van het directoraat-generaal Milieu en Internationaal.    
+e. de programmadirectie Eenvoudig Beter: het ontwikkelen en implementeren van beleid met betrekking tot een eenvoudiger en beter omgevingsrecht.    
 
 ### Artikel  6  
 
@@ -268,17 +262,13 @@ b. de directie Gebieden en Projecten;
 
 c. de directie Algemeen Waterbeleid en Veiligheid;  
 
-d. de directie Water en Bodem;  
+d. de directie Water en Bodem; en  
 
-e. het programma Topsector Water/Internationaal;  
-
-f. het Rijk-regioprogramma Almere - Amsterdam - Markermeer; en  
-
-g. het stafbureau directoraat-generaal Ruimte en Water.     
-3.  De dienstonderdelen, genoemd in het tweede lid, onder a tot en met d, staan onder leiding van een directeur. De dienstonderdelen, genoemd in het tweede lid, onder e en f, staan onder leiding van een programmadirecteur. Het dienstonderdeel, genoemd in het tweede lid, onder g, staat onder leiding van een afdelingshoofd. De dienstonderdelen, genoemd in het tweede lid, onder a tot en met d, bestaan uit afdelingen die onder leiding staan van een afdelingshoofd. Onder het dienstonderdeel, genoemd in het tweede lid, onder a, ressorteren tevens programmamanagers. Onder de dienstonderdelen, genoemd in het tweede lid, onder b en c, ressorteren tevens programmadirecteuren.   
-4.  Bij afwezigheid of verhindering van de directeur-generaal Ruimte en Water zijn de directeuren-generaal Bereikbaarheid en Milieu en Internationaal, bedoeld in de artikelen 4 en 5, en de directeuren en programmadirecteuren bevoegd om als plaatsvervanger op te treden.   
-5.  Bij afwezigheid van een directeur of programmadirecteur zijn de overige directeuren of programmadirecteuren en de afdelingshoofden binnen de directie of programmadirectie bevoegd om als plaatsvervanger op te treden.   
-6.  Bij afwezigheid of verhindering van een afdelingshoofd binnen een directie zijn de overige afdelingshoofden binnen de directie bevoegd om als plaatsvervanger op te treden.   
+e. het stafbureau directoraat-generaal Ruimte en Water.     
+3.  De dienstonderdelen, genoemd in het tweede lid, onder a tot en met d, staan onder leiding van een directeur. Het dienstonderdeel, genoemd in het tweede lid, onder e, staat onder leiding van een afdelingshoofd. De dienstonderdelen, genoemd in het tweede lid, onder a tot en met d, bestaan uit afdelingen die onder leiding staan van een afdelingshoofd. Onder het dienstonderdeel, genoemd in het tweede lid, onder a, ressorteert tevens een programmamanager.   
+4.  Bij afwezigheid of verhindering van de directeur-generaal Ruimte en Water zijn de directeuren-generaal Bereikbaarheid en Milieu en Internationaal, bedoeld in de artikelen 4 en 5, en de directeuren bevoegd om als plaatsvervanger op te treden.   
+5.  Bij afwezigheid van een directeur zijn de overige directeuren, de afdelingshoofden en de programmamanager binnen de directie bevoegd om als plaatsvervanger op te treden.   
+6.  Bij afwezigheid of verhindering van een afdelingshoofd of de programmamanager binnen een directie zijn de overige afdelingshoofden of de programmamanager binnen de directie bevoegd om als plaatsvervanger op te treden.   
 7.  Plaatsvervanging geschiedt voor het overige overeenkomstig daartoe strekkende instructies van de directeur-generaal Ruimte en Water.   
 8.  Het directoraat-generaal Ruimte en Water heeft tot doel de verdere ontwikkeling van Nederland als een veilige, leefbare, bereikbare en concurrerende delta. Daarmee hebben directoraat-generaal Ruimte en Water en zijn dienstonderdelen de volgende taken: 
 
@@ -320,13 +310,9 @@ i. het gebruik van de ondergrond, waaronder de infrastructuur van buisleidingen,
 
 ii. waterkwaliteit en waterkwantiteit en zoetwater; en  
 
-iii. het instrumentarium van bodembeheer, drinkwatervoorziening en rioleringsbeheer;    
+iii. het instrumentarium van bodembeheer, drinkwatervoorziening en rioleringsbeheer; en    
 
-e. het programma Topsector Water/Internationaal: het ontwikkelen en implementeren van beleid met betrekking tot kennis en innovatie op het gebied van water, alsmede het leveren van een bijdrage in EU-verband op het gebied van water en klimaatadaptie;  
-
-f. het Rijk-regioprogramma Almere - Amsterdam - Markermeer: het ontwikkelen en implementeren van beleid met betrekking tot de internationale concurrentiepositie van de Noordelijke Randstad; en  
-
-g. het stafbureau directoraat-generaal Ruimte en Water: het ondersteunen van het directoraat-generaal Ruimte en Water.    
+e. het stafbureau directoraat-generaal Ruimte en Water: het ondersteunen van het directoraat-generaal Ruimte en Water.    
 
 ### Artikel  7  
 
@@ -336,30 +322,32 @@ g. het stafbureau directoraat-generaal Ruimte en Water: het ondersteunen van het
 2.  Onder de hoofddirecteur Bestuurlijke en Juridische Zaken ressorteren de directeur Bestuurlijke en Juridische Zaken en de programmadirecteur Omgevingsrecht.   
 3.  De hoofddirectie Bestuurlijke en Juridische Zaken bestaat uit afdelingen die onder leiding staan van een afdelingshoofd.   
 4.  Bij afwezigheid of verhindering van de hoofddirecteur Bestuurlijke en Juridische Zaken zijn de directeur Bestuurlijke en Juridische Zaken, de programmadirecteur en de afdelingshoofden bevoegd om als plaatsvervanger op te treden.   
-5.  Bij afwezigheid of verhindering van de directeur Bestuurlijke en Juridische zaken of de programmadirecteur Omgevingsrecht zijn de afdelingshoofden bevoegd om als plaatsvervanger op te treden. Bij afwezigheid of verhindering van een afdelingshoofd zijn de overige afdelingshoofden bevoegd om als plaatsvervanger op te treden.   
-6.  Plaatsvervanging geschiedt voor het overige overeenkomstig daartoe strekkende instructies van de hoofddirecteur Bestuurlijke en Juridische Zaken.   
-7.  De hoofddirectie Bestuurlijke en Juridische Zaken heeft de volgende taken: 
+5.  Bij afwezigheid of verhindering van de directeur Bestuurlijke en Juridische zaken of de programmadirecteur Omgevingsrecht zijn de afdelingshoofden bevoegd om als plaatsvervanger op te treden.   
+6.  Bij afwezigheid of verhindering van een afdelingshoofd zijn de overige afdelingshoofden bevoegd om als plaatsvervanger op te treden.  
+7.  Plaatsvervanging geschiedt voor het overige overeenkomstig daartoe strekkende instructies van de hoofddirecteur Bestuurlijke en Juridische Zaken.   
+8.  De hoofddirectie Bestuurlijke en Juridische Zaken heeft de volgende taken: 
 
 a. het tot stand brengen van de wet- en regelgeving van het ministerie;  
 
 b. het in de rol van Chief Legal Officer zorg dragen voor en borgen van bestuurlijk-juridische kwaliteit van de producten van het ministerie;  
 
-c. het behandelen van bezwaar- en beroepschriften;  
+c. het behandelen van bezwaar- en beroepschriften, alsmede het nemen van beslissingen tot niet-ontvankelijkverklaring van een bezwaarschrift;  
 
-d. het vertegenwoordigen van de bewindspersoon in bestuursrechtelijke procedures, met inbegrip van het indienen van een verweerschrift, het maken van bezwaar, het instellen van beroep of hoger beroep of het doen van een verzoek om voorlopige voorziening; en  
+d. het vertegenwoordigen van de bewindspersoon in bestuursrechtelijke procedures, met inbegrip van het indienen van een verweerschrift, het maken van bezwaar, het instellen van beroep of hoger beroep of het doen van een verzoek om voorlopige voorziening;  
 
-e. de bestuurlijk-juridische advisering en het behartigen van algemene bestuurlijk-juridische onderwerpen.    
+e. het vertegenwoordigen van de Staat der Nederlanden in civielrechtelijke procedures, met inbegrip van de behandeling van civielrechtelijke aansprakelijkheidsstellingen en vorderingen; en 
+
+f. de bestuurlijk-juridische advisering en het behartigen van algemene bestuurlijk-juridische onderwerpen.    
 
 ### Artikel  8  
 
 ####: Directie Bestuursondersteuning
 
 1.  De directie Bestuursondersteuning staat onder leiding van de directeur Bestuursondersteuning.   
-2.  De directie Bestuursondersteuning bestaat uit afdelingen die onder leiding staan van een afdelingshoofd.   
+2.  De directie Bestuursondersteuning bestaat uit afdelingen die onder leiding staan van de directeur Bestuursondersteuning of een afdelingshoofd.   
 3.  Bij afwezigheid of verhindering van de directeur Bestuursondersteuning zijn de afdelingshoofden bevoegd om als plaatsvervanger op te treden.   
-4.  Bij afwezigheid of verhindering van een afdelingshoofd zijn de overige afdelingshoofden bevoegd om als plaatsvervanger op te treden.   
-5.  Plaatsvervanging geschiedt voor het overige overeenkomstig daartoe strekkende instructies van de directeur Bestuursondersteuning.   
-6.  De directie Bestuursondersteuning heeft de volgende taken: 
+4.  Plaatsvervanging geschiedt voor het overige overeenkomstig daartoe strekkende instructies van de directeur Bestuursondersteuning.   
+5.  De directie Bestuursondersteuning heeft de volgende taken: 
 
 a. de politiek-bestuurlijke advisering ten behoeve van de bewindspersoon en de ambtelijke leiding; en  
 
@@ -378,18 +366,17 @@ b. de zorg voor de stukkenstroom naar de bewindspersoon, ambtelijke leiding en h
 
 ### Artikel  10  
 
-####: Centrum Publieksparticipatie
+####: Directie Participatie
 
-1.  Het Centrum Publieksparticipatie staat onder leiding van de directeur Centrum Publieksparticipatie.   
-2.  Bij afwezigheid of verhindering van de directeur Centrum Publieksparticipatie is het afdelingshoofd Centrum Publieksparticipatie bevoegd om als plaatsvervanger op te treden.   
-3.  Plaatsvervanging geschiedt voor het overige overeenkomstig daartoe strekkende instructies van de directeur Centrum Publieksparticipatie.   
-4.  Het Centrum Publieksparticipatie heeft de volgende taken: 
+1.  De directie Participatie staat onder leiding van de directeur Participatie, tevens aangewezen als secretaris van het Overlegorgaan infrastructuur en milieu, bedoeld in de Wet overleg infrastructuur en milieu.   
+2.  Plaatsvervanging geschiedt overeenkomstig daartoe strekkende instructies van de directeur Participatie.   
+3.  De directie Participatie heeft de volgende taken: 
 
-a. het verlenen van advies en ondersteuning bij de inrichting, afbakening, uitvoering en doorwerking van publieksparticipatie als onderdeel van het besluitvormingsproces van plannen en projecten;  
+a. het verkennen, signaleren en analyseren van ontwikkelingen op het gebied van maatschappelijke participatie en het ontwikkelen van participatiebeleid;  
 
-b. het coördineren en uitvoeren van vormvrije consultatietrajecten en wettelijke voorbereidingsprocedures; en  
+b. het coördineren van vormvrije consultatietrajecten en wettelijke voorbereidingsprocedures; en  
 
-c. het bundelen van kennis en ervaring op het gebied van publieksparticipatie en het op basis daarvan ontwikkelen van handvatten op het gebied van publieksparticipatie en het uitdragen en bewaken ervan.    
+c. het met instemming ondersteunen van het Overlegorgaan infrastructuur en milieu.    
 
 ### Artikel  12  
 
@@ -409,7 +396,7 @@ c. de directie Human Resource Management.
 6.  Plaatsvervanging geschiedt voor het overige overeenkomstig daartoe strekkende instructies van de hoofddirecteur Financiën, Management en Control.   
 7.  De hoofddirectie Financiën, Management en Control en haar dienstonderdelen hebben de volgende taken: 
 
-a. de directie Begroting en Beleidscontrol: de ingevolge [artikel 27 van de Comptabiliteitwet](../../../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md) en het [Besluit Taak FEZ](../../../../../../../../../AMvB/besluit/taak/fez/BWBR0005333/README.md) aan de directeur FEZ opgedragen zorg voor de begrotingszaken en de daarmee samenhangende administraties;  
+a. de directie Begroting en Beleidscontrol: de ingevolge artikel 27 van de Comptabiliteitwet en het Besluit Taak FEZ aan de directeur FEZ opgedragen zorg voor de begrotingszaken en de daarmee samenhangende administraties;  
 
 b. de directie Bedrijfsvoering, Organisatie en Informatiebeleid: 
 
@@ -430,7 +417,7 @@ c. de directie Human Resource Management: het ontwikkelen van beleid met betrekk
 1.  De Shared Services Organisatie staat onder leiding van de algemeen directeur Shared Services Organisatie.   
 2.  De Shared Services Organisatie bestaat uit de volgende dienstonderdelen: 
 
-a. de directie Regie en Informatiemanagement;  
+a. de directie Concern Informatievoorziening;  
 
 b. de directie Financiën en Inkoop; en  
 
@@ -442,22 +429,19 @@ c. de directie Human Resource Management.
 7.  Plaatsvervanging geschiedt voor het overige overeenkomstig daartoe strekkende instructies van de algemeen directeur Shared Services Organisatie.   
 8.  De Shared Services Organisatie en haar dienstonderdelen hebben de volgende taken: 
 
-a. de directie Regie en Informatiemanagement: het verzorgen van dienstverlening en advies op het gebied van facilitair management, huisvesting en informatiemanagement;  
+a. de directie Concern Informatievoorziening: het verzorgen van dienstverlening en advies op het gebied van informatievoorziening en ICT-toepassingen;  
 
-b. de directie Financiën en Inkoop: het verzorgen van dienstverlening en advies op het gebied van financiën en inkoop, waaronder het betaalproces, buitenlandse dienstreizen, Europese aanbestedingen en andere inkooptrajecten; en  
+b. de directie Financiën en Inkoop: het verzorgen van dienstverlening en advies op het gebied van: 
 
-c. de directie Human Resource Management: het verzorgen van dienstverlening en advies op het gebied van human resource management, waaronder de personeels- en salarisadministratie.    
+i. financiën en inkoop, waaronder het betaalproces, buitenlandse dienstreizen, Europese aanbestedingen en andere inkooptrajecten; en  
 
-### Artikel  14  
+ii. documentair informatiemanagement; en    
 
-####: Directie Concern Informatievoorziening
+c. de directie Human Resource Management: het verzorgen van dienstverlening en advies op het gebied van: 
 
-1.  De directie Concern Informatievoorziening staat onder leiding van de directeur Concern Informatievoorziening.   
-2.  De directie Concern Informatievoorziening bestaat uit afdelingen die onder leiding staan van een afdelingshoofd.   
-3.  Bij afwezigheid of verhindering van de directeur Concern Informatievoorziening zijn de afdelingshoofden bevoegd om als plaatsvervanger op te treden.   
-4.  Bij afwezigheid of verhindering van een afdelingshoofd zijn de overige afdelingshoofden bevoegd om als plaatsvervanger op te treden.   
-5.  Plaatsvervanging geschiedt voor het overige overeenkomstig daartoe strekkende instructies van de directeur Concern Informatievoorziening.   
-6.  De directie Concern Informatievoorziening heeft tot taak het verzorgen van dienstverlening en advies op het gebied van informatievoorziening en ICT-toepassingen.  
+i. human resource management, waaronder de personeels- en salarisadministratie; en  
+
+ii. facilitair management en huisvesting.      
 
 ### Artikel  15  
 
@@ -465,16 +449,18 @@ c. de directie Human Resource Management: het verzorgen van dienstverlening en a
 
 1.  De directie Kennis, Innovatie en Strategie staat onder leiding van de directeur Kennis, Innovatie en Strategie.   
 2.  Plaatsvervanging geschiedt overeenkomstig daartoe strekkende instructies van de directeur Kennis, Innovatie en Strategie.   
-3.  De directie Kennis, Innovatie en Strategie heeft tot taak de maatschappelijke prestaties van het ministerie te verbeteren door het gebruiken van kennis, het benutten van innovaties en het formuleren van een gezamenlijke strategie.  
+3.  De directie Kennis, Innovatie en Strategie heeft tot taak de maatschappelijke prestaties van het ministerie te verbeteren door het gebruiken van kennis, het benutten van innovaties en het bepalen van een gezamenlijke strategie.  
 
 ### Artikel  16  
 
 ####: Kennisinstituut voor Mobiliteitsbeleid
 
 1.  Het Kennisinstituut voor Mobiliteitsbeleid staat onder leiding van de directeur Kennisinstituut voor Mobiliteitsbeleid.   
-2.  Bij afwezigheid of verhindering van de directeur Kennisinstituut voor Mobiliteitsbeleid zijn de programmamanagers bevoegd om als plaatsvervanger op te treden.   
-3.  Plaatsvervanging geschiedt voor het overige overeenkomstig daartoe strekkende instructies van de directeur Kennisinstituut voor Mobiliteitsbeleid.   
-4.  Het Kennisinstituut voor Mobiliteitsbeleid heeft tot taak de strategische kennisbasis van het mobiliteitsbeleid van het ministerie te versterken en te verbreden door het uitvoeren van verkenningen en beleidsanalyses en het inbrengen van kennis in de beleidsprocessen. Het Kennisinstituut voor Mobiliteitsbeleid voert deze taak uit op basis van een door de minister vastgesteld protocol.  
+2.  Onder de directeur Kennisinstituut voor Mobiliteitsbeleid ressorteert een afdelingshoofd.  
+3.  Bij afwezigheid of verhindering van de directeur Kennisinstituut voor Mobiliteitsbeleid is het afdelingshoofd bevoegd om als plaatsvervanger op te treden.   
+4.  Plaatsvervanging geschiedt voor het overige overeenkomstig daartoe strekkende instructies van de directeur Kennisinstituut voor Mobiliteitsbeleid.   
+5.  Het Kennisinstituut voor Mobiliteitsbeleid heeft tot taak de strategische kennisbasis van het mobiliteitsbeleid van het ministerie te versterken en te verbreden door het uitvoeren van verkenningen en beleidsanalyses en het inbrengen van kennis in de beleidsprocessen.   
+6.  Het Kennisinstituut voor Mobiliteitsbeleid voert de taken, genoemd in het vijfde lid, uit op basis van een door de minister vastgesteld protocol. 
 
 ### Artikel  17  
 
@@ -485,7 +471,19 @@ c. de directie Human Resource Management: het verzorgen van dienstverlening en a
 3.  Het Planbureau voor de Leefomgeving bestaat uit sectoren en stafbureaus die onder leiding staan van sectorhoofden en hoofden stafbureaus.   
 4.  Bij afwezigheid of verhindering van de directeur Planbureau voor de Leefomgeving is de plaatsvervangend directeur Planbureau voor de Leefomgeving bevoegd om als plaatsvervanger op te treden.   
 5.  Plaatsvervanging geschiedt voor het overige overeenkomstig daartoe strekkende instructies van de directeur Planbureau voor de Leefomgeving.   
-6.  Het Planbureau voor de Leefomgeving heeft op het gebied van het milieu, de natuur en de ruimte tot taak het verkennen en signaleren van relevante maatschappelijke ontwikkelingen, het monitoren en analyseren van ontwikkelingen en het analyseren van relevant beleid en van besluitvormingsprocessen met betrekking tot dat beleid, het maken van prognoses en toekomstverkenningen en het ontwikkelen van beleidsvarianten en scenario’s. Daarnaast kan het Planbureau voor de Leefomgeving door tussenkomst van de minister op verzoek van de Minister van Algemene Zaken, de Minister van Buitenlandse Zaken, de Minister van Binnenlandse Zaken en Koninkrijksrelaties, de Minister van Economische Zaken en de Minister van Volksgezondheid, Welzijn en Sport de door deze gevraagde werkzaamheden verrichten. Het Planbureau voor de Leefomgeving voert zijn taken en werkzaamheden uit op basis van een door de minister vastgesteld protocol en vervaardigt ten behoeve van zijn taken en werkzaamheden in ieder geval een maal per twee jaar een Balans voor de Leefomgeving, waarin een actueel beeld van de kwaliteit van de leefomgeving wordt gegeven, mede in relatie tot het gevoerde beleid.  
+6.  Het Planbureau voor de Leefomgeving heeft op het gebied van het milieu, de natuur en de ruimte de volgende taken: 
+
+a. het verkennen en signaleren van relevante maatschappelijke ontwikkelingen;  
+
+b. het monitoren en analyseren van ontwikkelingen;  
+
+c. het analyseren van relevant beleid en van besluitvormingsprocessen met betrekking tot dat beleid;  
+
+d. het maken van prognoses en toekomstverkenningen; en  
+
+e. het ontwikkelen van beleidsvarianten en scenario’s.     
+7.  Het Planbureau voor de Leefomgeving kan door tussenkomst van de minister op verzoek van de Minister van Algemene Zaken, de Minister van Buitenlandse Zaken, de Minister van Binnenlandse Zaken en Koninkrijksrelaties, de Minister van Economische Zaken en de Minister van Volksgezondheid, Welzijn en Sport de door deze gevraagde werkzaamheden verrichten.   
+8.  Het Planbureau voor de Leefomgeving voert de taken en werkzaamheden, genoemd in het zesde en zevende lid, uit op basis van een door de minister vastgesteld protocol en vervaardigt ten behoeve van die taken en werkzaamheden in ieder geval een maal per twee jaar een Balans voor de Leefomgeving, waarin een actueel beeld van de kwaliteit van de leefomgeving wordt gegeven, mede in relatie tot het gevoerde beleid. 
 
 ### Artikel  18  
 
@@ -499,22 +497,14 @@ c. de directie Human Resource Management: het verzorgen van dienstverlening en a
 
 ####: Koninklijk Nederlands Meteorologisch Instituut
 
-1.  Het Koninklijk Nederlands Meteorologisch Instituut (KNMI) staat overeenkomstig de [Wet op het Koninklijk Nederlands Meteorologisch Instituut](../../../../../../../../../wet/wet/op/het/koninklijk/nederlands/meteorologisch/instituut/BWBR0012952/README.md) onder leiding van de hoofddirecteur KNMI.   
-2.  Het KNMI bestaat uit de volgende dienstonderdelen: 
-
-a. de sector Weer;  
-
-b. de sector Klimaat en Seismologie;  
-
-c. de sector Informatie- en Waarneeminfrastructuur, en  
-
-d. de sector Staf.     
-3.  De dienstonderdelen, genoemd in het tweede lid, onder a tot en met c, staan onder leiding van een directeur. Het dienstonderdeel, genoemd in het tweede lid, onder d, staat onder leiding van de hoofddirecteur KNMI. De dienstonderdelen, genoemd in het tweede lid, onder a tot en met d bestaan uit afdelingen die onder leiding staan van een afdelingshoofd.   
-4.  Bij afwezigheid of verhindering van de hoofddirecteur KNMI zijn de directeuren bevoegd om als plaatsvervanger op te treden.   
-5.  Bij afwezigheid of verhindering van een directeur zijn de overige directeuren en afdelingshoofden binnen de sector bevoegd om als plaatsvervanger op te treden.   
-6.  Bij afwezigheid of verhindering van een afdelingshoofd binnen een sector zijn de overige afdelingshoofden binnen de sector bevoegd om als plaatsvervanger op te treden.   
+1.  Het Koninklijk Nederlands Meteorologisch Instituut (KNMI) staat overeenkomstig de Wet op het Koninklijk Nederlands Meteorologisch Instituut onder leiding van de hoofddirecteur KNMI.   
+2.  Onder de hoofddirecteur KNMI ressorteren directeuren.   
+3.  Het KNMI bestaat uit dienstonderdelen die onder leiding staan van een hoofd.   
+4.  Bij afwezigheid of verhindering van de hoofddirecteur KNMI zijn de directeuren en de hoofden bevoegd om als plaatsvervanger op te treden.   
+5.  Bij afwezigheid of verhindering van een directeur zijn de overige directeur en de hoofden bevoegd om als plaatsvervanger op te treden.   
+6.  Bij afwezigheid of verhindering van een hoofd zijn de overige hoofden bevoegd om als plaatsvervanger op te treden.   
 7.  Plaatsvervanging geschiedt voor het overige overeenkomstig daartoe strekkende instructies van de hoofddirecteur KNMI.   
-8.  Het KNMI heeft de taken, genoemd in de [Wet op het Koninklijk Nederlands Meteorologisch Instituut](../../../../../../../../../wet/wet/op/het/koninklijk/nederlands/meteorologisch/instituut/BWBR0012952/README.md).  
+8.  Het KNMI heeft de taken, genoemd in de Wet op het Koninklijk Nederlands Meteorologisch Instituut.  
 
 ### Artikel  20  
 
@@ -524,19 +514,48 @@ d. de sector Staf.
 2.  De directie Nederlandse emissieautoriteit bestaat uit afdelingen die onder leiding staan van een afdelingshoofd.   
 3.  Bij afwezigheid of verhindering van de directeur Nederlandse emissieautoriteit zijn de afdelingshoofden bevoegd om als plaatsvervanger op te treden.   
 4.  Plaatsvervanging geschiedt voor het overige overeenkomstig daartoe strekkende instructies van de directeur Nederlandse emissieautoriteit.   
-5.  De directie Nederlandse emissieautoriteit heeft tot taak het bestuur van de Nederlandse emissieautoriteit, bedoeld in [artikel 2.1 van de Wet milieubeheer](../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), te ondersteunen bij de uitoefening van de haar ingevolge de [Wet milieubeheer](../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) opgedragen taken. De directie Nederlandse Emissieautoriteit heeft tevens tot taak de uitvoering van de handel in emissierechten bedoeld in [hoofdstuk 16 van de Wet milieubeheer](../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), en de verlening van instemmingen aan projectactiviteiten als bedoeld in het Protocol van Kyoto.  
+5.  De directie Nederlandse emissieautoriteit heeft de volgende taken: 
+
+a. het bestuur van de Nederlandse emissieautoriteit, bedoeld in artikel 2.1 van de Wet milieubeheer, te ondersteunen bij de uitoefening van de aan dit bestuur ingevolge de Wet milieubeheer opgedragen taken;  
+
+b. de uitvoering van de handel in emissierechten, bedoeld in hoofdstuk 16 van de Wet milieubeheer;  
+
+c. de uitvoering van de regelgeving hernieuwbare energie vervoer;  
+
+d. de uitvoering van de regelgeving brandstoffen luchtverontreiniging; en  
+
+e. de verlening van instemmingen aan projectactiviteiten als bedoeld in het Protocol van Kyoto.    
+
+### Artikel  20a  
+
+####Directie Autoriteit Nucleaire Veiligheid en Stralingsbescherming
+
+1.  De directie Autoriteit Nucleaire Veiligheid en Stralingsbescherming staat onder leiding van de algemeen directeur Autoriteit Nucleaire Veiligheid en Stralingsbescherming.   
+2.  Onder de algemeen directeur Autoriteit Nucleaire Veiligheid en Stralingsbescherming ressorteert de directeur Autoriteit Nucleaire Veiligheid en Stralingsbescherming.   
+3.  De directie Autoriteit Nucleaire Veiligheid en Stralingsbescherming bestaat uit sectoren die onder leiding staan van sectorhoofden.   
+4.  Bij afwezigheid of verhindering van de algemeen directeur Autoriteit Nucleaire Veiligheid en Stralingsbescherming zijn de directeur Autoriteit Nucleaire Veiligheid en Stralingsbescherming en de sectorhoofden bevoegd om als plaatsvervanger op te treden.   
+5.  Bij afwezigheid of verhindering van de directeur Autoriteit Nucleaire Veiligheid en Stralingsbescherming zijn de sectorhoofden bevoegd om als plaatsvervanger op te treden.   
+6.  Bij afwezigheid of verhindering van een sectorhoofd zijn de overige sectorhoofden bevoegd om als plaatsvervanger op te treden.   
+7.  Plaatsvervanging geschiedt voor het overige overeenkomstig daartoe strekkende instructies van de algemeen directeur Autoriteit Nucleaire Veiligheid en Stralingsbescherming.   
+8.  De directie Autoriteit Nucleaire Veiligheid en Stralingsbescherming heeft met betrekking tot nucleaire veiligheid en stralingsbescherming en de daarmee samenhangende crisisvoorbereiding en beveiliging, en waarborgen als bedoeld in de verdragen van het Internationaal Atoom Energie Agentschap, tot taak: 
+
+a. de uitvoering van de taken van de minister bij of krachtens de Kernenergiewet;  
+
+b. het toezicht op de naleving van bij of krachtens de Kernenergiewet gestelde regels; en  
+
+c. het evalueren, voorbereiden van en adviseren over het beleid en wet- en regelgeving.    
 
 ### §  2.4  
 
-####Organisatie secretariaten adviesorganen of overlegorganen
+####Organisatie secretariaten adviesorganen
 
 ### Artikel  21  
 
-####: Secretariaten van adviesorganen of overlegorganen
+####: Secretariaten van adviesorganen
 
-1.  De secretariaten van de adviesorganen of overlegorganen van het ministerie staan onder leiding van de secretaris van het desbetreffende adviesorgaan of overlegorgaan.  
-2.  Plaatsvervanging geschiedt overeenkomstig daartoe strekkende instructies van de secretaris van het betreffende adviesorgaan of overlegorgaan.   
-3.  De secretariaten van de adviesorganen of overlegorganen hebben tot taak het met instemming van het betreffende adviesorgaan of overlegorgaan ondersteunen van het adviesorgaan of overlegorgaan.  
+1.  De secretariaten van de adviesorganen van het ministerie staan onder leiding van de secretaris van het desbetreffende adviesorgaan.  
+2.  Plaatsvervanging geschiedt overeenkomstig daartoe strekkende instructies van de secretaris van het betreffende adviesorgaan.   
+3.  De secretariaten van de adviesorganen hebben tot taak het met instemming van het betreffende adviesorgaan ondersteunen van het adviesorgaan.  
 
 ### Hoofdstuk  3  
 
@@ -569,18 +588,18 @@ a. een onder hem ressorterend dienstonderdeelhoofd;
 b. een andere onder hem ressorterende functionaris; en  
 
 c. een niet onder zijn dienst ressorterend dienstonderdeelhoofd of functionaris, mits de mate waarin en de wijze waarop het toegekende mandaat moet worden uitgeoefend schriftelijk zijn vastgelegd.     
-3.  De directeur-generaal Rijkswaterstaat kan bij het verlenen van ondermandaat, bedoeld in het tweede lid, onder a, bepalen dat het dienstonderdeelhoofd vervolgens ondermandaat kan verlenen aan een onder hem ressorterende functionaris.   
+3.  De directeur-generaal Rijkswaterstaat kan bij het verlenen van ondermandaat, bedoeld in het tweede lid, onder a, bepalen dat het dienstonderdeelhoofd vervolgens ondermandaat kan verlenen aan een onder de directeur-generaal Rijkswaterstaat ressorterende functionaris.   
 4.  De directeur-generaal Bereikbaarheid kan ondermandaat verlenen aan de directeur-generaal Rijkswaterstaat voor zover het de uitvoering van zijn taken met betrekking tot luchthavens betreft, mits de mate waarin en de wijze waarop het toegekende mandaat moet worden uitgeoefend schriftelijk zijn vastgelegd.  
 
 ### §  3.3  
 
-####Mandaat secretarissen adviesorganen of overlegorganen
+####Mandaat secretarissen adviesorganen
 
 ### Artikel  24  
 
-####: Mandaat secretarissen adviesorganen of overlegorganen
+####: Mandaat secretarissen adviesorganen
 
-Aan de secretarissen van de adviesorganen of overlegorganen van het ministerie wordt mandaat verleend voor alle bevoegdheden die behoren bij de uitoefening van de taken van hun secretariaat genoemd in paragraaf 2.4 dan wel in overige wet- en regelgeving, waaronder mede begrepen de bedrijfsvoering van het secretariaat, een en ander tenzij bij wettelijk voorschrift anders is bepaald en onverminderd de artikelen 26 tot en met 28. 
+Aan de secretarissen van de adviesorganen van het ministerie wordt mandaat verleend voor alle bevoegdheden die behoren bij de uitoefening van de taken van hun secretariaat genoemd in artikel 21, derde lid dan wel in overige wet- en regelgeving, waaronder mede begrepen de bedrijfsvoering van het secretariaat, een en ander tenzij bij wettelijk voorschrift anders is bepaald en onverminderd de artikelen 26 tot en met 28. 
 
 ### §  3.4  
 
@@ -590,9 +609,9 @@ Aan de secretarissen van de adviesorganen of overlegorganen van het ministerie w
 
 ####: Ondertekeningsmandaat
 
-1.  Aan de secretaris-generaal wordt ondertekeningsmandaat verleend voor alle bevoegdheden van de minister, een en ander tenzij bij wettelijk voorschrift anders is bepaald en onverminderd artikel 26, eerste lid.   
+1.  Aan de secretaris-generaal wordt ondertekeningsmandaat verleend voor alle bevoegdheden van de bewindspersoon, een en ander tenzij bij wettelijk voorschrift anders is bepaald en onverminderd artikel 26, eerste lid.   
 2.  Aan de directeur Bestuursondersteuning wordt ondertekeningsmandaat verleend ten aanzien van de aan de secretaris-generaal verleende bevoegdheden, een en ander tenzij bij wettelijk voorschrift anders is bepaald.   
-3.  Aan de algemeen directeur Shared Services Organisatie wordt ondertekeningsmandaat verleend ten aanzien van de aan de diensthoofden en de secretarissen van adviesorganen en overlegorganen verleende bevoegdheden betreffende de ambtelijke rechtspositie van de onder hen ressorterende functionarissen.   
+3.  Aan de algemeen directeur Shared Services Organisatie wordt ondertekeningsmandaat verleend ten aanzien van de aan de diensthoofden en de secretarissen van adviesorganen verleende bevoegdheden betreffende de ambtelijke rechtspositie van de onder hen ressorterende functionarissen.   
 4.  Artikel 23, tweede lid, aanhef en onder a en b, is van toepassing op het ondertekeningsmandaat, bedoeld in het derde lid.  
 
 ### Hoofdstuk  4  
@@ -620,7 +639,7 @@ f. de vicepresident van de Raad van State; en
 g. de president van Algemene Rekenkamer.     
 2.  Het eerste lid geldt niet ten aanzien van handelingen ten opzichte van een van de in het eerste lid, onder f en g genoemden, voor zover het stukken betreft die louter van informatieve aard zijn.   
 3.  Aan de bewindspersoon is voorbehouden de bevoegdheid tot het vaststellen, wijzigen of intrekken van algemeen verbindende voorschriften.   
-4.  Aan de bewindspersoon is voorbehouden het instellen van beroep tegen een besluit van een ander bestuursorgaan, voor zover de bewindspersoon belanghebbende is op grond van [artikel 1:2, tweede lid, van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).  
+4.  Aan de bewindspersoon is voorbehouden het instellen van beroep tegen een besluit van een ander bestuursorgaan, voor zover de bewindspersoon belanghebbende is op grond van artikel 1:2, tweede lid, van de Algemene wet bestuursrecht.  
 
 ### Artikel  27  
 
@@ -628,15 +647,13 @@ g. de president van Algemene Rekenkamer.
 
 Aan de secretaris-generaal zijn de volgende bevoegdheden voorbehouden: 
 
-a. het nemen van een besluit op een verzoek om informatie, bedoeld in de [Wet openbaarheid van bestuur](../../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md), voor zover dit besluit een afwijzing van dat verzoek betreft op grond van het bepaalde in [artikel 10, eerste lid, en tweede lid, onder a tot en met d, f en g](../../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md), en [artikel 11, van die wet](../../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md);  
+a. het doen van de mededeling, bedoeld in artikel 9:36, vierde lid, van de Algemene wet bestuursrecht, dat een aanbeveling van de Nationale ombudsman niet wordt opgevolgd; en  
 
-b. het doen van de mededeling, bedoeld in [artikel 9:36, vierde lid, van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), dat een aanbeveling van de Nationale Ombudsman niet wordt opgevolgd; en  
-
-c. bevoegdheden betreffende de hoofdlijnen van de ambtelijke rechtspositie, voor zover het dienstonderdeelhoofden betreft die rechtstreeks ressorteren onder de diensthoofden.   
+b. bevoegdheden betreffende de hoofdlijnen van de ambtelijke rechtspositie, voor zover het dienstonderdeelhoofden betreft die rechtstreeks ressorteren onder de diensthoofden.   
 
 ### Artikel  28  
 
-####: Beperkingen mandaatverlening aan diensthoofden en secretarissen van adviesorganen of overlegorganen
+####: Beperkingen mandaatverlening aan diensthoofden en secretarissen van adviesorganen
 
 1.  Onverminderd artikel 22, eerste lid, wordt mandaat betreffende de volgende bevoegdheden bij uitsluiting verleend aan de volgende diensthoofden: 
 
@@ -644,19 +661,17 @@ a. de directeuren-generaal Bereikbaarheid, Milieu en Internationaal, Ruimte en W
 
 i. het vaststellen, wijzigen of intrekken van beleidsregels met betrekking tot de gemandateerde bevoegdheid;  
 
-ii. het nemen van een besluit op een verzoek om informatie, bedoeld in de [Wet openbaarheid van bestuur](../../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md);    
+ii. het nemen van een besluit op een verzoek om informatie, bedoeld in de Wet openbaarheid van bestuur;    
 
 b. de hoofddirecteur Bestuurlijke en Juridische Zaken: de bevoegdheden inzake het behandelen van bezwaarschriften en het vertegenwoordigen van de bewindspersoon in bestuursrechtelijke procedures, bedoeld in artikel 7, zevende lid, onder c en d, met uitzondering van bezwaarschriften en bestuursrechtelijke procedures die verband houden met de taken van de Inspectie Leefomgeving en Transport en het directoraat-generaal Rijkswaterstaat, alsmede de ambtelijke rechtspositie;  
 
 c. de algemeen directeur Shared Services Organisatie: 
 
-i. het voeren van de salarisadministratie voor alle onderdelen, genoemd in artikel 2;  
+i. het voeren van de personeels- en salarisadministratie voor alle onderdelen, genoemd in artikel 2;  
 
 ii. het vaststellen van ordeningsplannen, archiefcodes, alsmede vernietigingslijsten voor de onderdelen, genoemd in artikel 2, met uitzondering van het Planbureau voor de Leefomgeving, het Koninklijk Nederlands Meteorologisch Instituut, de directie Nederlandse emissieautoriteit en het directoraat-generaal Rijkswaterstaat;  
 
-iii. de zorg voor gebouwgebonden veiligheid, waaronder brandpreventie en bedrijfshulpverlening bij alle gebouwen en vitale objecten van het ministerie, met uitzondering van die gebouwen waarvan het gebouwbeheer onder verantwoordelijkheid staat van het Planbureau voor de Leefomgeving, het Koninklijk Nederlands Meteorologisch Instituut, de Inspectie Leefomgeving en Transport en het directoraat-generaal Rijkswaterstaat; en  
-
-iv. het verrichten van dienstoverstijgende Europese aanbestedingen, met uitzondering van goederen en diensten op het gebied van grond-, weg- en waterbouw; en    
+iii. de zorg voor gebouwgebonden veiligheid, waaronder brandpreventie en bedrijfshulpverlening bij alle gebouwen en vitale objecten van het ministerie, met uitzondering van die gebouwen waarvan het gebouwbeheer onder verantwoordelijkheid staat van het Planbureau voor de Leefomgeving, het Koninklijk Nederlands Meteorologisch Instituut, de Inspectie Leefomgeving en Transport en het directoraat-generaal Rijkswaterstaat; en    
 
 d. de directeur-generaal Rijkswaterstaat: de inkoop van energie voor gebruik door het ministerie.     
 2.  In afwijking van artikel 23, tweede lid, kan geen ondermandaat worden verleend ten aanzien van de in het eerste lid, onder a, bedoelde bevoegdheden. De vorige zin is niet van toepassing op de directeur-generaal Rijkswaterstaat, voor zover het de in het eerste lid, onder a, sub ii, bedoelde bevoegdheid betreft.  
@@ -688,7 +703,7 @@ b. machtiging om in naam van de bewindspersoon handelingen te verrichten die noc
 
 1.  De uitoefening van bevoegdheden die bij of krachtens dit besluit zijn verleend, geschiedt met inachtneming van: 
 
-a. de door de bewindspersoon, secretaris-generaal, diensthoofden, dienstonderdeelhoofden en secretarissen van de adviesorganen of overlegorganen gegeven algemene of bijzondere instructies;  
+a. de door de bewindspersoon, secretaris-generaal, diensthoofden, dienstonderdeelhoofden en secretarissen van de adviesorganen gegeven algemene of bijzondere instructies;  
 
 b. de gestelde kaders ten aanzien van inkoop en aanbesteding;  
 
@@ -696,9 +711,9 @@ c. de van toepassing zijnde begrotingswet en de daarbij gegeven financiële ruim
 
 d. de toegekende budgetten op basis van het geldende jaarplan;  
 
-e. het bepaalde bij of krachtens de [Comptabiliteitswet 2001](../../../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md) en de aanwijzingen van de hoofddirecteur Financiën, Management en Control op grond van die wet en de daarop berustende regelgeving, waaronder het [Besluit taak FEZ](../../../../../../../../../AMvB/besluit/taak/fez/BWBR0005333/README.md);  
+e. het bepaalde bij of krachtens de Comptabiliteitswet 2001 en de aanwijzingen van de hoofddirecteur Financiën, Management en Control op grond van die wet en de daarop berustende regelgeving, waaronder het Besluit taak FEZ;  
 
-f. het [Besluit privaatrechtelijke rechtshandelingen 1996](../../../../../../../../../AMvB/besluit/privaatrechtelijke/rechtshandelingen/1996/BWBR0007804/README.md); en  
+f. het Besluit privaatrechtelijke rechtshandelingen 1996; en  
 
 g. de overige ter zake geldende wet- en regelgeving en beleidsregels.     
 2.  Een functionaris die krachtens overeenkomst naar burgerlijk recht werkzaam is bij het ministerie, oefent de aan zijn functie verleende bevoegdheden slechts uit wanneer dat voor een goede functievervulling strikt noodzakelijk is en wanneer in de overeenkomst met de functionaris waarborgen voor een goede uitoefening van bevoegdheden zijn opgenomen.  
@@ -736,7 +751,8 @@ e. alle besluiten tot wijziging of intrekking van de onder a tot en met d genoem
 3.  In geval van volmacht luidt de ondertekening als volgt: NAMENS DE STAAT DER NEDERLANDEN DE MINISTER VAN INFRASTRUCTUUR EN MILIEU, namens deze, gevolgd door de aanduiding van de gevolmachtigde functionaris.   
 4.  In geval van mandaat, ondermandaat of volmacht voor een aangelegenheid die behoort tot de verantwoordelijkheid van de staatssecretaris, wordt de in het tweede onderscheidenlijk derde lid voorgeschreven vermelding van de minister vervangen door: DE STAATSSECRETARIS VAN INFRASTRUCTUUR EN MILIEU.   
 5.  In geval van ondertekeningsmandaat, bedoeld in artikel 25, wordt vermeld dat het document wordt ondertekend overeenkomstig het door de minister, staatssecretaris, secretaris-generaal of bevoegde functionaris zelf genomen besluit.   
-6.  In geval van plaatsvervanging overeenkomstig dit besluit bevat de ondertekening zowel een aanduiding van de plaatsvervanger als de functionaris die bij afwezigheid of verhindering wordt vervangen.  
+6.  In geval van plaatsvervanging overeenkomstig dit besluit bevat de ondertekening zowel een aanduiding van de plaatsvervanger als de functionaris die bij afwezigheid of verhindering wordt vervangen.   
+7.  Het eerste en tweede lid zijn niet van toepassing op bevoegdheden betreffende de ambtelijke rechtspositie. 
 
 ### Hoofdstuk  5  
 
@@ -748,18 +764,18 @@ e. alle besluiten tot wijziging of intrekking van de onder a tot en met d genoem
 
 1. De volgende besluiten worden ingetrokken:
 
-a.het [Organisatie- en mandaatbesluit Verkeer en Waterstaat 2010](../../../../../../../../../ministeriele-regeling/organisatie-/en/mandaatbesluit/verkeer/en/waterstaat/2010/BWBR0028076/README.md);
+a.het Organisatie- en mandaatbesluit Verkeer en Waterstaat 2010;
 
-b.het [Organisatiebesluit VROM 2008](../../../../../../../../../ministeriele-regeling/organisatiebesluit/vrom/2008/BWBR0023797/README.md);
+b.het Organisatiebesluit VROM 2008;
 
-c.het [Besluit mandaat, volmacht en machtiging VROM 2007](../../../../../../../../../ministeriele-regeling/besluit/mandaat/volmacht/en/machtiging/vrom/2007/BWBR0021789/README.md);
+c.het Besluit mandaat, volmacht en machtiging VROM 2007;
 
 d.de krachtens de onder a tot en met c vastgestelde besluiten, met uitzondering van het Besluit mandaat, volmacht en machtiging Rijkswaterstaat 2011. 
 2. Na de inwerkingtreding van dit besluit berusten het Besluit mandaat, volmacht en machtiging Rijkswaterstaat 2011, alsmede de krachtens dat besluit vastgestelde besluiten, op artikel 23, tweede en derde lid.
 
 ### Artikel  36  
 
-####: Wijziging [Instellingsbesluit directoraat-generaal Rijkswaterstaat](../../../../../../../../../ministeriele-regeling/instellingsbesluit/directoraat-generaal/rijkswaterstaat/BWBR0026953/README.md)
+####: Wijziging Instellingsbesluit directoraat-generaal Rijkswaterstaat
 
 Wijzigt het Instellingsbesluit directoraat-generaal Rijkswaterstaat. 
 

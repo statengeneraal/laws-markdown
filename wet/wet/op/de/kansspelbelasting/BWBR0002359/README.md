@@ -16,16 +16,20 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. Onder de naam 'kansspelbelasting' wordt een directe belasting geheven van:  
 
-a. degene die gelegenheid geeft tot deelname aan binnenlandse casinospelen alsmede de exploitant van een in Nederland geplaatste fysieke speelautomaat, ingericht voor de beoefening van een kansspel, dat bestaat uit een door de speler in werking gesteld mechanisch, elektrisch of elektronisch proces, waarbij het resultaat kan leiden tot rechtstreekse of niet-rechtstreekse uitkering van prijzen, met inbegrip van extra speelduur (kansspelautomatenspel);  
+a. degene die gelegenheid geeft tot deelname aan binnenlandse casinospelen, de houder van een vergunning voor de exploitatie van speelautomaten als bedoeld in artikel 30h, eerste lid, van de Wet op de kansspelen, ten aanzien van de onder diens vergunning in Nederland geplaatste fysieke speelautomaten waarop een kansspelautomatenspel wordt gespeeld en degene die opbrengst geniet van zonder een vergunning als bedoeld in artikel 30h, eerste lid, van de Wet op de kansspelen in Nederland geplaatste fysieke speelautomaten waarop een kansspelautomatenspel wordt gespeeld;  
 
 b.degene die gelegenheid geeft tot deelneming aan binnenlandse kansspelen welke via het internet worden gespeeld;
 
 c. de gerechtigden tot de prijzen van binnenlandse kansspelen, niet zijnde casinospelen, kansspelautomatenspelen of kansspelen welke via het internet worden gespeeld; 
 
-d. de in Nederland wonende of gevestigde gerechtigden tot de prijzen van buitenlandse kansspelen, niet zijnde kansspelen welke via het internet worden gespeeld;   
+d. de in Nederland wonende of gevestigde gerechtigden tot de prijzen van buitenlandse kansspelen, niet zijnde:  
 
-e.de in Nederland wonende of gevestigde gerechtigden tot de prijzen van buitenlandse kansspelen welke via het internet worden gespeeld. 
-2. Onder exploitant als bedoeld in het eerste lid, onderdeel a, wordt verstaan degene die een kansspelautomaat exploiteert in de zin van artikel 30h, tweede lid, van de Wet op de kansspelen.
+1°. casinospelen en kansspelautomatenspelen die worden gehouden door natuurlijke personen of door lichamen van wie er een of meer wonen of zijn gevestigd in een lidstaat van de Europese Unie of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte;  
+
+2°. kansspelen welke via het internet worden gespeeld;   
+
+e.de in Nederland wonende of gevestigde gerechtigden tot de prijzen van buitenlandse kansspelen welke via het internet worden gespeeld.  
+2.  Onder kansspelautomatenspel wordt verstaan een kansspel dat bestaat uit een door de speler in werking gesteld mechanisch, elektrisch of elektronisch proces, waarbij het resultaat kan leiden tot rechtstreekse of niet-rechtstreekse uitkering van prijzen, met inbegrip van extra speelduur. 
 
 ### Artikel  2  
 
@@ -61,7 +65,7 @@ c.in de gevallen waarin artikel 1, eerste lid, onderdeel e, van toepassing is, n
 
 1.  Indien artikel 1, eerste lid, onderdeel c of d, van toepassing is, is van de belasting vrijgesteld:  
 
-a. de prijs welke niet meer bedraagt dan € 454;   
+a. de prijs die niet meer bedraagt dan € 449;  
 
 b. de prijs welke niet uitgaat boven de prestatie welke staat tegenover de deelneming uit hoofde waarvan aanspraak op de prijs bestaat.      
 2.   Alle prijzen uit loterijen en prijsvragen welke verschuldigd zijn door dezelfde schuldenaar en vallen op loten of onderdelen van loten op grond van dezelfde toevallige gebeurtenis, worden voor de toepassing van het eerste lid tezamen als één prijs beschouwd.   

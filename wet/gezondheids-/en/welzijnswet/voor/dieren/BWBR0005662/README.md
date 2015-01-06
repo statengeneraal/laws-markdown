@@ -14,7 +14,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1  
 
-1.  In deze wet en de daarop berustende bepalingen wordt verstaan onder:  Onze Minister: Onze Minister van Economische Zaken; bedrijfslichaam: een produktschap of bedrijfschap bedoeld in artikel 66 van de Wet op de Bedrijfsorganisatie;  samenwerkingslichaam: rechtspersoonlijkheid bezittend lichaam als bedoeld in artikel 110 Wet op de bedrijfsorganisatie; dier: dier dat wordt gehouden, voor zover niet uitdrukkelijk anders is bepaald en met dien verstande dat artikel 36 tevens van toepassing is op dieren die niet worden gehouden;  vee: herkauwende en eenhoevige dieren en varkens;  pluimvee: dieren zijnde hoenderachtigen, eenden of ganzen;  besmettelijke dierziekte: elke aantasting van de gezondheid van een dier die gevaar kan opleveren voor de gezondheid van andere dieren of van de mens;  smetstof: elk micro-organisme of virus dat, of elke andere biologische eenheid die, een infectieziekte en elke parasiet, die een parasitaire ziekte bij dieren kan veroorzaken;  schadelijke stoffen: stoffen die de gezondheid van mens of dier kunnen aantasten;  zieke dieren: dieren die zijn aangetast door een krachtens artikel 15, eerste lid, aangewezen dierziekte;  verdachte dieren: dieren die overeenkomstig artikel 15, vierde lid, verdacht worden gevaar op te leveren voor verspreiding van een krachtens artikel 15, eerste lid, aangewezen besmettelijke dierziekte;  produkten van dierlijke oorsprong: van dier afkomstige produkten al dan niet be- of verwerkt;  houder: eigenaar, houder of hoeder; Diergezondheidsfonds: fonds als bedoeld in artikel 95a.    
+1.  In deze wet en de daarop berustende bepalingen wordt verstaan onder:  Onze Minister: Onze Minister van Economische Zaken; dier: dier dat wordt gehouden, voor zover niet uitdrukkelijk anders is bepaald en met dien verstande dat artikel 36 tevens van toepassing is op dieren die niet worden gehouden;  vee: herkauwende en eenhoevige dieren en varkens;  pluimvee: dieren zijnde hoenderachtigen, eenden of ganzen;  besmettelijke dierziekte: elke aantasting van de gezondheid van een dier die gevaar kan opleveren voor de gezondheid van andere dieren of van de mens;  smetstof: elk micro-organisme of virus dat, of elke andere biologische eenheid die, een infectieziekte en elke parasiet, die een parasitaire ziekte bij dieren kan veroorzaken;  schadelijke stoffen: stoffen die de gezondheid van mens of dier kunnen aantasten;  zieke dieren: dieren die zijn aangetast door een krachtens artikel 15, eerste lid, aangewezen dierziekte;  verdachte dieren: dieren die overeenkomstig artikel 15, vierde lid, verdacht worden gevaar op te leveren voor verspreiding van een krachtens artikel 15, eerste lid, aangewezen besmettelijke dierziekte;  produkten van dierlijke oorsprong: van dier afkomstige produkten al dan niet be- of verwerkt;  houder: eigenaar, houder of hoeder; Diergezondheidsfonds: fonds als bedoeld in artikel 95a.    
 2.  Voor de toepassing van het bij of krachtens de artikelen 91a tot en met 93a en 96a bepaalde wordt verstaan onder bedrijf: bedrijf als bedoeld in artikel 1, eerste lid, van de Meststoffenwet.   
 3.  Voor de toepassing van artikel 91e wordt verstaan onder vestiging: op één plaats gelegen bedrijf of deel van een bedrijf, bestaande uit alle aldaar gelegen aangrenzende percelen grond, gebouwen of afgescheiden gedeelten daarvan dat, naar de feitelijke omstandigheden beoordeeld, als functionele eenheid voor het houden van varkens in gebruik is of daartoe bestemd is.    
 4.  Bij ministeriële regeling worden regels gesteld waaraan percelen grond, gebouwen of afgescheiden gedeelten daarvan moeten voldoen om als aangrenzend in de zin van het derde lid te worden aangemerkt.    
@@ -627,29 +627,40 @@ a. de bedrijfsvoering niet voldoet aan nader door Onze Minister gestelde regelen
 b. de ondernemer ten behoeve van wiens bedrijf de officiële erkenning is verleend, in strijd handelt met het bepaalde bij of krachtens de artikelen 77, 78 of 79.      
 4.   Het bepaalde in het tweede en derde lid is van overeenkomstige toepassing indien op grond van de artikelen 78 of 79 wordt voorzien in een officiële erkenning van bedrijven, markten of verzamelplaatsen.   
 
-###Hoofdstuk VIIa 
+### Hoofdstuk  VIIa  
 
-####Niet voor menselijke consumptie bestemde dierlijke bijproducten
+####Uitvoering EU-rechtshandelingen bewaking en bestrijding van zoönosen en zoönoseverwekkers
 
-Vervallen per 01-01-2013 
+### Artikel  81a  
 
-###Afdeling 1 
+1.  In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder: 
 
-####Algemene bepalingen
+a.  *EU-besluit:* besluit als bedoeld in artikel 288 van het Verdrag betreffende de werking van de Europese Unie;  
 
-Vervallen per 01-01-2013 
+b.  *EU-rechtshandeling:* EU-verordening, EU-richtlijn, of EU-besluit;  
 
-###Afdeling 2 
+c.  *EU-richtlijn:* richtlijn als bedoeld in artikel 288 van het Verdrag betreffende de werking van de Europese Unie;  
 
-####Voorschriften ter uitvoering van Europese voorschriften
+d.  *EU-verordening:* verordening als bedoeld in artikel 288 van het Verdrag betreffende de werking van de Europese Unie.     
+2.  Dit hoofdstuk is van toepassing op de uitvoering van EU-rechtshandelingen betreffende de bewaking en bestrijding van zoönosen en zoönoseverwekkers die krachtens de artikelen 114, 168, 169 of 192 van het Verdrag betreffende de werking van de Europese Unie zijn vastgesteld en krachtens die rechtshandelingen vastgestelde EU-rechtshandelingen.  
 
-Vervallen per 01-01-2013 
+### Artikel  81b  
 
-###Afdeling 3 
+Het is verboden te handelen in strijd met bij ministeriële regeling aangewezen voorschriften van EU-verordeningen. 
 
-####Overige voorschriften
+### Artikel  81c  
 
-Vervallen per 01-01-2013 
+1.  Bij ministeriële regeling kunnen regels worden gesteld ter uitvoering van EU-verordeningen of EU-besluiten.   
+2.  Bij of krachtens algemene maatregel van bestuur regels worden gesteld ter implementatie van EU-richtlijnen.   
+3.  De regels, bedoeld in het eerste en tweede lid, kunnen betrekking hebben op: 
+
+a. de aanwijzing van een bevoegde instantie;  
+
+b. de aanwijzing of erkenning van een laboratorium;  
+
+c. het doen van onderzoek naar, het bewaren van gegevens over, het verzamelen en ter beschikking stellen van onderzoeksresultaten met betrekking tot de aanwezigheid van zoönosen en zoönoseverwekkers, antimicrobiële resistentie bij zoönoseverwekkers en bij andere verwekkers, wanneer deze een gevaar opleveren voor de volksgezondheid.     
+4.  De regels, bedoeld in het eerste lid, worden vastgesteld in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport.   
+5.  Een voordracht tot vaststelling, wijziging of intrekking van een algemene maatregel van bestuur als bedoeld in het tweede lid wordt Ons gedaan door Onze Minister in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport.  
 
 ###Hoofdstuk VIIb 
 
@@ -740,7 +751,7 @@ c. de herbevolking van de verblijfsruimten voor dieren;
 d. de te nemen preventieve maatregelen.      
 4.   Onze Minister kan de uitbetaling van de tegemoetkoming opschorten totdat aan de ingevolge het derde lid gestelde voorwaarden is voldaan, dan wel aan degene aan wie de tegemoetkoming is toegekend, de verplichting opleggen zekerheid te stellen voor de juiste nakoming van de krachtens dat lid gestelde voorwaarden.    
 5.   Onze Minister kan bepalen, dat in afwijking van het bepaalde in het eerste en tweede lid, geen tegemoetkoming wordt toegekend, dan wel dat de tegemoetkoming op een geringer bedrag wordt bepaald, voor zover het optreden van de besmettelijke ziekte mede aan betrokkene te wijten is.    
-6.   Een zelfde bevoegdheid heeft Onze Minister indien wordt vastgesteld dat de eigenaar aan zijn krachtens artikel 4 of krachtens artikel 92 opgelegde verplichtingen niet of niet volledig heeft voldaan.    
+6.   Een zelfde bevoegdheid heeft Onze Minister indien wordt vastgesteld dat de eigenaar aan zijn krachtens artikel 4 of krachtens de artikelen 91a, 91h of 92 opgelegde verplichtingen niet of niet volledig heeft voldaan.    
 7.   Onze Minister kan het bedrag van de tegemoetkoming geheel of gedeeltelijk terugvorderen, indien aan de aan deze tegemoetkoming krachtens het derde lid gestelde voorwaarden niet of niet ten volle is voldaan.   
 
 ### Artikel  87  
@@ -807,16 +818,25 @@ a. bedoeld in artikel 83 en 88, vijfde lid, voor zover die kosten noodzakelijk z
 
 b. van de tegemoetkomingen bedoeld in artikel 86, eerste lid, aanhef en onderdelen a en b, en artikel 90, alsmede de vergoedingen bedoeld in artikel 91, voor zover die tegemoetkomingen, respectievelijk vergoedingen, voortvloeien uit de bestrijding van voor varkens op grond van artikel 15, eerste lid, aangewezen besmettelijke ziekten;   
 
-c. van door Onze Minister getroffen maatregelen en voorzieningen als bedoeld in hoofdstuk II, afdeling 3, voor zover die kosten noodzakelijk zijn met het oog op de bestrijding van voor varkens op grond van artikel 15, eerste lid, aangewezen besmettelijke ziekten, waartoe tevens gerekend worden de kosten van door Onze Minister getroffen maatregelen en voorzieningen die noodzakelijk zijn met het oog op de bescherming van het welzijn van dieren dan wel met het oog op onderzoek naar de mate van verspreiding van die ziekten in Nederland, en   
+c. van door Onze Minister getroffen maatregelen en voorzieningen als bedoeld in hoofdstuk II, afdeling 3, voor zover die kosten noodzakelijk zijn met het oog op de bestrijding van voor varkens op grond van artikel 15, eerste lid, aangewezen besmettelijke ziekten, waartoe tevens gerekend worden de kosten van door Onze Minister getroffen maatregelen en voorzieningen die noodzakelijk zijn met het oog op de bescherming van het welzijn van dieren dan wel met het oog op onderzoek naar de mate van verspreiding van die ziekten in Nederland;  
 
-d. die noodzakelijk zijn met het oog op de heffing en invordering van de varkensheffing.      
-2.  Bij algemene maatregel van bestuur kan worden bepaald dat de varkensheffing, met ingang van 1 januari van een op de datum van inwerkingtreding van die maatregel volgend kalenderjaar, tevens wordt geheven ter bestrijding van de kosten van het Diergezondheidsfonds, voor zover noodzakelijk met het oog op het weren van voor varkens op grond van artikel 15, eerste lid, aangewezen besmettelijke ziekten.    
+d. van tegemoetkomingen voor maatregelen ter bestrijding van zoönosen of zoönoseverwekkers bij varkens waartoe de houder op grond van EU-verordeningen of EU-besluiten als bedoeld in artikel 81a is gehouden, en 
+
+e. die noodzakelijk zijn met het oog op de heffing en invordering van de varkensheffing.      
+2.  Bij algemene maatregel van bestuur kan worden bepaald dat de varkensheffing, met ingang van een datum die volgt op de datum van inwerkingtreding van deze maatregel, tevens wordt geheven ter bestrijding van de kosten van het Diergezondheidsfonds met het oog op het weren van: 
+
+a. voor varkens op grond van artikel 15, eerste lid, aangewezen besmettelijke dierziekten;  
+
+b. andere dierziekten bij varkens;  
+
+c. ziekten die door varkens kunnen worden overgebracht op de mens en die alleen de gezondheid van de mens aantasten, waarop op grond van artikel 103 bepalingen van deze wet geheel of gedeeltelijk van overeenkomstige toepassing zijn verklaard, of  
+
+d. tegen antimicrobiële diergeneesmiddelen resistente bacteriën bij varkens.     
 3.  De heffing wordt geheven per bedrijf per kalenderjaar.   
 
 ### Artikel  91b  
 
-1.  De varkensheffing wordt geheven naar het aantal varkens, uitgedrukt in heffingseenheden, dat gemiddeld in een kalenderjaar op het bedrijf wordt gehouden. De omrekening van varkens in heffingseenheden geschiedt overeenkomstig de bij deze wet behorende bijlage.    
-2.  Bij ministeriële regeling worden nadere regels gesteld omtrent de wijze waarop het gemiddelde aantal varkens wordt bepaald.   
+De varkensheffing wordt geheven naar het aantal varkens, uitgedrukt in heffingseenheden, dat gemiddeld in een kalenderjaar op het bedrijf wordt gehouden. De omrekening van varkens in heffingseenheden geschiedt overeenkomstig de bij deze wet behorende bijlage.
 
 ### Artikel  91c  
 
@@ -833,7 +853,8 @@ a. een raming van de kosten, bedoeld in artikel 91a, eerste lid, en, voor zover 
 b. ten hoogste 50% van de door het Diergezondheidsfonds gemaakte kosten, bedoeld in artikel 91a, eerste lid, over de periode vanaf de datum van invoering van de varkensheffing tot 1 januari van het kalenderjaar dat voorafgaat aan het kalenderjaar met ingang waarvan het tarief uit hoofde van het tweede lid kan worden gewijzigd, voor zover die kosten meer bedragen dan de totale som van de varkensheffing, bestemd voor de bestrijding van die kosten, zoals geheven over de tot laatstbedoelde datum verstreken kalenderjaren, en, voor zover van toepassing,   
 
 c. ten hoogste 50% van de door het Diergezondheidsfonds gemaakte kosten, bedoeld in artikel 91a, tweede lid, over de periode vanaf de in dat artikellid genoemde datum tot 1 januari van het kalenderjaar dat voorafgaat aan het kalenderjaar met ingang waarvan het tarief uit hoofde van het tweede lid kan worden gewijzigd, voor zover die kosten meer bedragen dan de totale som van de varkensheffing, bestemd voor de bestrijding van die kosten, zoals geheven over de tot laatstbedoelde datum verstreken kalenderjaren.      
-4.  In geval van toepassing van artikel 91a, tweede lid, wordt bij de in dat artikellid bedoelde algemene maatregel van bestuur het tarief van de varkensheffing verhoogd met ingang van 1 januari van het in artikel 91a, tweede lid, bedoelde kalenderjaar. De tariefsverhoging wordt gebaseerd op een raming van de kosten, bedoeld in artikel 95c, onderdeel c, over de kalenderjaren, te rekenen vanaf de in de vorige volzin bedoelde datum tot de datum met ingang waarvan uit hoofde van het tweede lid het tarief van de varkensheffing kan worden gewijzigd, voor zover die kosten betrekking hebben op de diersoort varken.   
+4.  In afwijking van het tweede lid kan het tarief van de varkensheffing tevens worden gewijzigd binnen de in dat lid bedoelde periode van drie kalenderjaren, naar aanleiding van de inwerkingtreding van artikel XXIII, onderdeel Ac, van de Wet opheffing bedrijfslichamen. Het derde en vijfde lid zijn van overeenkomstige toepassing op de raming van het desbetreffende tarief.  
+5.  In geval van toepassing van artikel 91a, tweede lid, wordt bij de in dat artikellid bedoelde algemene maatregel van bestuur het tarief van de varkensheffing verhoogd met ingang van een datum die volgt op de datum van inwerkingtreding als bedoeld in artikel 91a, tweede lid. De tariefsverhoging wordt gebaseerd op een raming van de kosten, bedoeld in artikel 95c, onderdeel c, over de kalenderjaren, te rekenen vanaf de in de vorige volzin bedoelde datum tot de datum met ingang waarvan uit hoofde van het tweede lid het tarief van de varkensheffing kan worden gewijzigd, voor zover die kosten betrekking hebben op de diersoort varken.   
 
 ### Artikel  91e  
 
@@ -859,10 +880,6 @@ f. een bij algemene maatregel van bestuur, op ten minste 5 en ten hoogste 25, va
 
 De varkensheffing wordt geheven bij wege van aanslag.  
 
-### Artikel  91g  
-
-Bij ministeriële regeling kunnen regels worden gesteld ten aanzien van de door de in artikel 91a, eerste lid, bedoelde heffingplichtigen te voeren administratie met het oog op de vaststelling van het aantal en de categorieën varkens waarover de varkensheffing verschuldigd is en de toepassing van het bij of krachtens artikel 91e bepaalde.  
-
 ### Artikel  91h  
 
 1.  Terzake van het houden van dieren, behorende tot enige andere diersoort dan de diersoort varken, kunnen bij algemene maatregel van bestuur, met ingang van een datum die volgt op de datum van inwerkingtreding van de desbetreffende algemene maatregel van bestuur, heffingen worden ingevoerd die worden geheven van de persoon of rechtspersoon die of het samenwerkingsverband van personen of rechtspersonen dat een bedrijf voert, welke heffingen dienen ter bestrijding van de kosten:  
@@ -871,10 +888,20 @@ a. bedoeld in artikel 83 en 88, vijfde lid, voor zover die kosten noodzakelijk z
 
 b. van de tegemoetkomingen bedoeld in artikel 86, eerste lid, aanhef en onderdelen a en b, en artikel 90, alsmede de vergoedingen bedoeld in artikel 91, voor zover die tegemoetkomingen, onderscheidenlijk vergoedingen, voortvloeien uit de bestrijding van voor andere diersoorten dan de diersoort varken op grond van artikel 15, eerste lid, aangewezen besmettelijke ziekten;   
 
-c. van door Onze Minister getroffen maatregelen en voorzieningen als bedoeld in hoofdstuk II, afdeling 3, voor zover die kosten noodzakelijk zijn met het oog op de bestrijding van voor andere diersoorten dan de diersoort varken op grond van artikel 15, eerste lid, aangewezen besmettelijke ziekten, waartoe tevens gerekend worden de kosten van door Onze Minister getroffen maatregelen en voorzieningen die noodzakelijk zijn met het oog op de bescherming van het welzijn van dieren dan wel met het oog op onderzoek naar de mate van verspreiding van die ziekten in Nederland, en   
+c. van door Onze Minister getroffen maatregelen en voorzieningen als bedoeld in hoofdstuk II, afdeling 3, voor zover die kosten noodzakelijk zijn met het oog op de bestrijding van voor andere diersoorten dan de diersoort varken op grond van artikel 15, eerste lid, aangewezen besmettelijke ziekten, waartoe tevens gerekend worden de kosten van door Onze Minister getroffen maatregelen en voorzieningen die noodzakelijk zijn met het oog op de bescherming van het welzijn van dieren dan wel met het oog op onderzoek naar de mate van verspreiding van die ziekten in Nederland;  
 
-d. die noodzakelijk zijn met het oog op de heffing en invordering van de heffingen.      
-2.  Bij algemene maatregel van bestuur kan worden bepaald dat een heffing als bedoeld in het eerste lid, met ingang van 1 januari van een op de datum van inwerkingtreding van die maatregel volgend kalenderjaar, tevens wordt geheven ter bestrijding van de kosten van het Diergezondheidsfonds, voor zover noodzakelijk met het oog op het weren van voor andere diersoorten dan de diersoort varken op grond van artikel 15, eerste lid, aangewezen besmettelijke ziekten.    
+d. van tegemoetkomingen voor maatregelen ter bestrijding van zoönosen of zoönoseverwekkers bij andere dieren dan varkens waartoe de houder op grond van EU-verordeningen of EU- besluiten als bedoeld in artikel 81a is gehouden, en 
+
+e. die noodzakelijk zijn met het oog op de heffing en invordering van de heffingen.      
+2.  Bij algemene maatregel van bestuur kan worden bepaald dat een heffing als bedoeld in het eerste lid, met ingang van een datum die volgt op de datum van inwerkingtreding van deze maatregel, tevens wordt geheven ter bestrijding van de kosten van het Diergezondheidsfonds met het oog op het weren van: 
+
+a. voor andere diersoorten dan de diersoort varken op grond van artikel 15, eerste lid, aangewezen besmettelijke dierziekten;  
+
+b. andere dierziekten bij andere diersoorten dan de diersoort varken;  
+
+c. ziekten die door andere diersoorten dan de diersoort varken kunnen worden overgebracht op de mens en die alleen de gezondheid van de mens aantasten, waarop op grond van artikel 103 bepalingen van deze wet geheel of gedeeltelijk van overeenkomstige toepassing zijn verklaard, of  
+
+d. tegen antimicrobiële diergeneesmiddelen resistente bacteriën bij dieren van andere diersoorten dan de diersoort varken.     
 3.  Een krachtens het eerste lid ingevoerde heffing wordt geheven per bedrijf per kalenderjaar naar het aantal dieren van de bij de desbetreffende heffing betrokken diersoort dat gemiddeld in een kalenderjaar op het bedrijf wordt gehouden, met dien verstande dat, in geval de betrokken heffing wordt ingevoerd gedurende het kalenderjaar, de heffing in dat kalenderjaar wordt geheven over het nog niet verstreken deel van dat jaar.    
 4.  Een algemene maatregel van bestuur als bedoeld in het eerste lid kan gevallen bepalen waarin korting op het tarief van de desbetreffende heffing wordt verkregen. Daarbij wordt in ieder geval rekening gehouden met de mate waarin het bedrijf of de bedrijfsvoering van de heffingplichtige een risico vormt voor de verspreiding van op grond van artikel 15, eerste lid, aangewezen en voor de bij de desbetreffende heffing betrokken diersoort besmettelijke ziekten. Bij de in de eerste volzin bedoelde maatregel kan op de bij die maatregel aangegeven wijze rekening worden gehouden met de mate waarin en het tijdstip waarop voldaan is aan bij die maatregel voor de desbetreffende soort of categorie dieren te bepalen voorschriften met betrekking tot één of meer onderwerpen waarover krachtens hoofdstuk III van de wet regels zijn gesteld.   
 5.  De toepassing van het vierde lid geschiedt zodanig dat in geen geval meer dan 70% korting op het tarief wordt verkregen.    
@@ -891,7 +918,8 @@ a. een raming van de terzake van de bij de desbetreffende heffing betrokken dier
 b. ten hoogste 50% van de door het Diergezondheidsfonds terzake van de, bij de desbetreffende heffing betrokken diersoort, gemaakte kosten, bedoeld in artikel 91h, eerste lid, over de periode vanaf de datum van invoering van die heffing tot 1 januari van het kalenderjaar dat voorafgaat aan het kalenderjaar met ingang waarvan het tarief uit hoofde van het tweede lid kan worden gewijzigd, voor zover die kosten meer bedragen dan de totale som van die heffing, bestemd voor de bestrijding van die kosten, zoals geheven over de tot laatstbedoelde datum verstreken kalenderjaren, en, voor zover van toepassing,   
 
 c. ten hoogste 50% van de door het Diergezondheidsfonds terzake van de, bij de desbetreffende heffing betrokken diersoort, gemaakte kosten, bedoeld in artikel 91h, tweede lid, over de periode vanaf de in dat artikellid genoemde datum tot 1 januari van het kalenderjaar dat voorafgaat aan het kalenderjaar met ingang waarvan het tarief uit hoofde van het tweede lid kan worden gewijzigd, voor zover die kosten meer bedragen dan de totale som van die heffing, bestemd voor de bestrijding van die kosten, zoals geheven over de tot laatstbedoelde datum verstreken kalenderjaren.      
-4.  In geval van toepassing van artikel 91h, tweede lid, wordt bij de in dat artikellid bedoelde algemene maatregel van bestuur het tarief van de desbetreffende heffing verhoogd met ingang van 1 januari van het in artikel 91h, tweede lid, bedoelde kalenderjaar. De verhoging wordt gebaseerd op een raming van de kosten, bedoeld in artikel 95c, onderdeel c, voor zover die kosten betrekking hebben op de bij de desbetreffende heffing betrokken diersoort, over de kalenderjaren, te rekenen vanaf de in de vorige volzin bedoelde datum tot de datum met ingang waarvan uit hoofde van het tweede lid het tarief van de desbetreffende heffing kan worden gewijzigd.   
+4.  In afwijking van het tweede lid kan het tarief van de heffing tevens worden gewijzigd binnen de in dat lid bedoelde periode van drie kalenderjaren, naar aanleiding van de inwerkingtreding van artikel XXIII, onderdeel Ae, van de Wet opheffing bedrijfslichamen. Het derde en vijfde lid zijn van overeenkomstige toepassing op de raming van het desbetreffende tarief.  
+5.  In geval van toepassing van artikel 91h, tweede lid, wordt bij de in dat artikellid bedoelde algemene maatregel van bestuur het tarief van de desbetreffende heffing verhoogd met ingang van een datum die volgt op de datum van inwerkingtreding als bedoeld in artikel 91h, tweede lid. De verhoging wordt gebaseerd op een raming van de kosten, bedoeld in artikel 95c, onderdeel c, voor zover die kosten betrekking hebben op de bij de desbetreffende heffing betrokken diersoort, over de kalenderjaren, te rekenen vanaf de in de vorige volzin bedoelde datum tot de datum met ingang waarvan uit hoofde van het tweede lid het tarief van de desbetreffende heffing kan worden gewijzigd.   
 
 ### Artikel  92  
 
@@ -901,10 +929,20 @@ a. bedoeld in artikel 83 en 88, vijfde lid, voor zover die kosten noodzakelijk z
 
 b. van de tegemoetkomingen bedoeld in artikel 86, eerste lid, aanhef en onderdelen a en b, en artikel 90, alsmede de vergoedingen bedoeld in artikel 91;   
 
-c. van door Onze Minister getroffen maatregelen en voorzieningen als bedoeld in hoofdstuk II, afdeling 3, voor zover die kosten noodzakelijk zijn, waartoe tevens gerekend worden de kosten van door Onze Minister getroffen maatregelen en voorzieningen die noodzakelijk zijn met het oog op de bescherming van het welzijn van dieren dan wel met het oog op onderzoek naar de mate van verspreiding van die ziekten in Nederland, en   
+c. van door Onze Minister getroffen maatregelen en voorzieningen als bedoeld in hoofdstuk II, afdeling 3, voor zover die kosten noodzakelijk zijn, waartoe tevens gerekend worden de kosten van door Onze Minister getroffen maatregelen en voorzieningen die noodzakelijk zijn met het oog op de bescherming van het welzijn van dieren dan wel met het oog op onderzoek naar de mate van verspreiding van die ziekten in Nederland;  
 
-d. die noodzakelijk zijn met het oog op de heffing en invordering van de heffingen.      
-2.  Bij algemene maatregel van bestuur kan worden bepaald dat een heffing als bedoeld in het eerste lid, met ingang van 1 januari van een op de datum van inwerkingtreding van die maatregel volgend kalenderjaar, tevens wordt geheven ter bestrijding van de kosten van het Diergezondheidsfonds, voor zover noodzakelijk met het oog op het weren van op grond van artikel 15, eerste lid, aangewezen besmettelijke ziekten.    
+d. van tegemoetkomingen voor maatregelen ter bestrijding van zoönosen of zoönoseverwekkers, en 
+
+e. die noodzakelijk zijn met het oog op de heffing en invordering van de heffingen.      
+2.  Bij algemene maatregel van bestuur kan worden bepaald dat een heffing als bedoeld in het eerste lid, met ingang van een datum die volgt op de datum van inwerkingtreding van deze maatregel, tevens wordt geheven ter bestrijding van de kosten van het Diergezondheidsfonds met het oog op het weren van: 
+
+a. op grond van artikel 15, eerste lid, aangewezen besmettelijke dierziekten;  
+
+b. andere dierziekten;  
+
+c. ziekten die door dieren kunnen worden overgebracht op de mens en die alleen de gezondheid van de mens aantasten, waarop op grond van artikel 103 bepalingen van deze wet geheel of gedeeltelijk van overeenkomstige toepassing zijn verklaard, of  
+
+d. tegen antimicrobiële diergeneesmiddelen resistente bacteriën bij dieren.     
 3.  Een algemene maatregel van bestuur als bedoeld in het eerste lid kan gevallen bepalen op grond waarvan korting op het tarief van de desbetreffende heffing wordt verkregen. Daarbij wordt in ieder geval rekening gehouden met de mate waarin de heffingplichtige activiteit een risico oplevert voor de verspreiding van besmettelijke dierziekten.    
 4.  De toepassing van het derde lid geschiedt zodanig dat in geen geval meer dan 70% korting op het tarief van de heffing wordt verkregen.    
 5.  Een krachtens het eerste lid ingevoerde heffing wordt geheven bij wege van aanslag.   
@@ -920,16 +958,20 @@ a. een raming van de kosten, bedoeld in artikel 92, eerste lid, en, voor zover v
 b. ten hoogste 50% van het totaal van de door het Diergezondheidsfonds tot 1 januari van het kalenderjaar, voorafgaande aan het kalenderjaar met ingang waarvan het tarief uit hoofde van het tweede lid kan worden gewijzigd, gemaakte kosten, bedoeld in artikel 92, eerste lid, voor zover die kosten meer bedragen dan de totale som van de varkensheffing, bestemd voor de bestrijding van de kosten, bedoeld in artikel 91a, eerste lid, de totale som van de krachtens artikel 91h, eerste lid, ingevoerde heffingen, bestemd voor de bestrijding van de in dat artikellid bedoelde kosten, alsmede de totale som van krachtens artikel 92, eerste lid, ingevoerde heffingen, bestemd voor de bestrijding van de in dat artikellid bedoelde kosten, zoals geheven over de tot laatstbedoelde datum verstreken kalenderjaren, en, voor zover van toepassing,   
 
 c. ten hoogste 50% van het totaal van de door het Diergezondheidsfonds tot 1 januari van het kalenderjaar, voorafgaande aan het kalenderjaar met ingang waarvan het tarief uit hoofde van het tweede lid kan worden gewijzigd, gemaakte kosten, bedoeld in artikel 92, tweede lid, voor zover die kosten meer bedragen dan de totale som van de varkensheffing, bestemd voor de bestrijding van de kosten, bedoeld in artikel 91a, tweede lid, de totale som van krachtens artikel 91h, eerste lid, ingevoerde heffingen, bestemd voor de bestrijding van de in artikel 91h, tweede lid, bedoelde kosten, alsmede de totale som van krachtens artikel 92, eerste lid, ingevoerde heffingen, bestemd voor de bestrijding van de in artikel 92, tweede lid bedoelde kosten, zoals geheven over de tot laatstbedoelde datum verstreken kalenderjaren.      
-4.  In geval van toepassing van artikel 92, tweede lid, wordt bij de in dat artikellid bedoelde algemene maatregel van bestuur het tarief van de desbetreffende heffing verhoogd met ingang van 1 januari van het in artikel 92, tweede lid, bedoelde kalenderjaar. De verhoging wordt gebaseerd op een raming van de kosten, bedoeld in artikel 95c, onderdeel c, voor zover die kosten betrekking hebben op de kalenderjaren, te rekenen vanaf de in de vorige volzin bedoelde datum tot de datum met ingang waarvan uit hoofde van het tweede lid het tarief van de desbetreffende heffing kan worden gewijzigd en rekening houdend met de over die periode geraamde som van de varkensheffing en krachtens artikel 91h, eerste lid, ingevoerde heffingen.   
+4.  In afwijking van het tweede lid kan het tarief van de heffing tevens worden gewijzigd binnen de in dat lid bedoelde periode van drie kalenderjaren, naar aanleiding van de inwerkingtreding van artikel XXIII, onderdeel Ag, van de Wet opheffing bedrijfslichamen. Het derde en vijfde lid zijn van overeenkomstige toepassing op de raming van het desbetreffende tarief.  
+5.  In geval van toepassing van artikel 92, tweede lid, wordt bij de in dat artikellid bedoelde algemene maatregel van bestuur het tarief van de desbetreffende heffing verhoogd met ingang van een datum die volgt op de datum van inwerkingtreding als bedoeld in artikel 92, tweede lid. De verhoging wordt gebaseerd op een raming van de kosten, bedoeld in artikel 95c, onderdeel c, voor zover die kosten betrekking hebben op de kalenderjaren, te rekenen vanaf de in de vorige volzin bedoelde datum tot de datum met ingang waarvan uit hoofde van het tweede lid het tarief van de desbetreffende heffing kan worden gewijzigd en rekening houdend met de over die periode geraamde som van de varkensheffing en krachtens artikel 91h, eerste lid, ingevoerde heffingen.   
+
+### Artikel  92b  
+
+Bij ministeriële regeling worden nadere regels gesteld omtrent de heffing, bedoeld in artikel 91a, alsmede omtrent bij algemene maatregel van bestuur op grond van de artikelen 91h en 92 ingevoerde heffingen. 
 
 ### Artikel  93  
 
 1.  De heffing, bedoeld in artikel 91a, alsmede bij algemene maatregel van bestuur op grond van de artikelen 91h en 92 ingevoerde heffingen worden door Onze Minister geheven.    
 2.  Onverminderd het overigens bij of krachtens deze afdeling bepaalde worden de in het eerste lid bedoelde heffingen geheven met overeenkomstige toepassing van de Algemene wet inzake rijksbelastingen, met dien verstande dat van die wet buiten toepassing blijven de artikelen 2, vierde lid, 37 tot en met 39, 47a, 53, tweede en derde lid, 76, 80, tweede, derde en vierde lid, 82, 84, 86 en 87.    
 3.  Voor de toepassing van de Algemene wet inzake rijksbelastingen treedt Onze Minister in de plaats van Onze Minister van Financiën. Voor de in de Algemene wet inzake rijksbelastingen genoemde functionarissen treden in de plaats de door Onze Minister aangewezen functionarissen.    
-4.  Voor de toepassing van artikel 18, derde lid, van de Algemene wet inzake rijksbelastingen wordt met een onherroepelijke veroordeling gelijk gesteld het vervallen van het recht op strafvordering op de voet van de artikelen 74 en 74a van het Wetboek van Strafrecht.    
-5.  Voor de toepassing van het bij of krachtens de artikelen 91a tot en met 92a bepaalde wordt artikel 52, tweede lid, van de Algemene wet inzake rijksbelastingen als volgt gelezen:  Administratieplichtigen zijn: de personen, rechtspersonen en samenwerkingsverbanden, bedoeld in artikel 91a, respectievelijk de personen, rechtspersonen en samenwerkingsverbanden, bedoeld in de artikelen 91h en 92.    
-6.  Voor de toepassing van artikel 66 van de Algemene wet inzake rijksbelastingen zijn de bij regeling van Onze Minister van Financiën gestelde regels van toepassing. Door Onze Minister worden de afwijkingen daarop vastgesteld die voor de juiste toepassing van het bij of krachtens de artikelen 91a tot en met 92a bepaalde noodzakelijk zijn.   
+4.  Voor de toepassing van het bij of krachtens de artikelen 91a tot en met 92a bepaalde wordt artikel 52, tweede lid, van de Algemene wet inzake rijksbelastingen als volgt gelezen:  Administratieplichtigen zijn: de personen, rechtspersonen en samenwerkingsverbanden, bedoeld in artikel 91a, respectievelijk de personen, rechtspersonen en samenwerkingsverbanden, bedoeld in de artikelen 91h en 92.    
+5.  Voor de toepassing van artikel 66 van de Algemene wet inzake rijksbelastingen zijn de bij regeling van Onze Minister van Financiën gestelde regels van toepassing. Door Onze Minister worden de afwijkingen daarop vastgesteld die voor de juiste toepassing van het bij of krachtens de artikelen 91a tot en met 92a bepaalde noodzakelijk zijn.   
 
 ### Artikel  93a  
 
@@ -1027,11 +1069,15 @@ a. ter uitvoering van artikel 83 en 88, vijfde lid, artikel 86, eerste lid, aanh
 
 b. terzake van door Onze Minister getroffen maatregelen en voorzieningen bedoeld in hoofdstuk II, afdeling 3, waartoe tevens gerekend worden de met de bestrijding van op grond van artikel 15, eerste lid, aangewezen besmettelijke dierziekten verband houdende door Onze Minister getroffen maatregelen en voorzieningen met het oog op de bescherming van het welzijn van dieren dan wel met het oog op onderzoek naar de mate van verspreiding van dierziekten in Nederland;   
 
-c. terzake van door Onze Minister, met het oog op het weren van krachtens artikel 15, eerste lid, aangewezen besmettelijke dierziekten, gemaakte kosten;   
+c. terzake van door Onze Minister, met het oog op het weren van krachtens artikel 15, eerste lid, aangewezen besmettelijke dierziekten, andere dierziekten of ziekteverschijnselen, gemaakte kosten;   
 
-d. terzake van de heffing en invordering van de varkensheffing en krachtens artikel 91h of 92 ingevoerde heffingen, en   
+d. terzake van door Onze Minister gemaakte kosten met het oog op tegemoetkomingen voor maatregelen ter bestrijding van zoönosen of zoönoseverwekkers waartoe de houder op grond van EU-verordeningen of EU-besluiten als bedoeld in artikel 81a is gehouden; 
 
-e. terzake van andere uitgaven.    
+e. terzake van uitgaven ten behoeve van het weren van tegen antimicrobiële diergeneesmiddelen resistente bacteriën bij dieren; 
+
+f. terzake van de heffing en invordering van de varkensheffing en krachtens artikel 91h of 92 ingevoerde heffingen, en   
+
+g. terzake van andere uitgaven.    
 
 ### Artikel  95d  
 
@@ -1118,17 +1164,6 @@ Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter hand
 2.   Een vrijstelling of ontheffing van het bij of krachtens de artikelen 97 tot en met 99 bepaalde alsmede van een voorschrift dat tevens in het belang is van de bestrijding van een dierziekte die is aangewezen in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport wordt in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport verleend.    
 3.   Aan een vrijstelling of ontheffing kunnen voorschriften of voorwaarden worden verbonden. Zij kunnen onder beperkingen worden verleend. Zij kunnen te allen tijde worden ingetrokken.   
 
-### Artikel  108  
-
-1.  Bij of krachtens algemene maatregel van bestuur dan wel bij ministeriële regeling, ter uitvoering van deze wet gegeven, kan medewerking worden gevorderd van het bestuur van een bedrijfslichaam of een samenwerkingslichaam. Hierbij kunnen de, ingevolge het bepaalde bij of krachtens deze wet aan de Minister toekomende bevoegdheden tot het nemen van besluiten, waaronder het vaststellen van nadere regels, aan het bestuur van een bedrijfslichaam of samenwerkingslichaam worden overgedragen.   
-2.   Indien de in het eerste lid bedoelde medewerking bestaat in het stellen van nadere regelen bij verordening, behoeft zodanige verordening de goedkeuring van Onze Minister. Krachtens de verordening genomen besluiten behoeven, voor zover zulks bij of krachtens de algemene maatregel van bestuur is bepaald, de goedkeuring van de daarbij aangewezen autoriteit.   
-
-### Artikel  108a  
-
-1.  Bij toepassing van artikel 108, eerste en tweede lid, kan bij of krachtens algemene maatregel van bestuur dan wel bij ministeriële regeling worden bepaald dat tuchtrechtelijke maatregelen worden gesteld op overtreding van de bij die maatregel of regeling genoemde nadere regelen die door het bestuur van het betrokken bedrijfslichaam of samenwerkingslichaam krachtens artikel 108, eerste lid, bij verordening als bedoeld in artikel 108, tweede lid, zijn of worden gesteld, voorzover handelen in strijd met deze nadere regelen als overtreding strafbaar is gesteld.   
-2.  De artikelen 1, onderdeel b, 2, 3 tot en met 6, 15 tot en met 44, eerste lid en 46 van de Wet tuchtrechtspraak bedrijfsorganisatie 2004 zijn van overeenkomstige toepassing, met dien verstande dat de in artikel 46 genoemde instemming dient te worden verkregen van Onze Minister.   
-3.  Onverminderd artikel 114, eerste lid, kan bij algemene maatregel van bestuur, dan wel bij ministeriële regeling, worden bepaald dat met het toezicht op de naleving van de nadere regels waarvoor tuchtrechtelijke maatregelen zijn of worden opgelegd, de bij besluit van het betrokken bedrijfslichaam of samenwerkingslichaam aangewezen personen zijn belast. Dit besluit behoeft de goedkeuring van Onze Minister. Onze Minister kan het betrokken bedrijfslichaam of samenwerkingslichaam een aanwijzing geven omtrent het aanwijzen van toezichthouders en de wijze waarop toezicht wordt uitgeoefend.  
-
 ### Artikel  110  
 
 1.  De algemene maatregelen van bestuur, bedoeld in de artikelen 1, tweede lid; 15, eerste lid, onderdeel e; 33, eerste lid; 34, eerste en tweede lid; 35, eerste lid; 38; 39; 40, tweede lid, onderdeel c, en derde lid; 42; 43; 44, eerste en negende lid; 45, eerste en derde lid; 46, eerste lid; 50, tweede lid; 52, eerste lid; 53; 54; 55, eerste, tweede en derde lid; 56; 59a, tweede en vierde lid; 59b, tweede lid; 61, tweede en derde lid; 65; 68; 69, tweede lid; 70; 76, eerste lid, 91a, tweede lid, 91d, tweede lid, 91e, tweede en derde lid, 91h, tweede lid, 91i, tweede lid, 92, tweede lid, 92a, tweede lid, alsmede 96 worden aan beide Kamers der Staten-Generaal overgelegd. Binnen 30 dagen na de overlegging kan door ten minste een vijfde van het grondwettelijk aantal leden van één der Kamers de wens te kennen worden gegeven dat de inwerkingtreding bij wet zal worden geregeld. Indien zodanige wens te kennen wordt gegeven, dienen Wij zo spoedig mogelijk een desbetreffend wetsvoorstel in.    
@@ -1163,7 +1198,7 @@ Deze wet treedt niet in hetgeen bij of krachtens de Wet op de dierproeven (*Stb.
 
 ### Artikel  114  
 
-1.  Onverminderd artikel 108a, derde lid, zijn met het toezicht op de naleving van het bepaalde bij of krachtens deze wet de bij besluit van Onze Minister aangewezen ambtenaren belast.   
+1.  Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn de bij besluit van Onze Minister aangewezen ambtenaren belast.   
 2.  Onze Minister wijst ambtenaren aan die zijn belast met onderzoek naar de aanwezigheid van besmettelijke dierziekten.    
 3.  Met de opsporing van de bij artikel 121 strafbaar gestelde feiten zijn, onverminderd artikel 141 Wetboek van Strafvordering, belast de daartoe aangewezen buitengewone opsporingsambtenaren. Deze ambtenaren zijn tevens belast met de opsporing van de feiten, strafbaar gesteld in de artikelen 179 tot en met 182 en 184 van het Wetboek van Strafrecht voor zover deze feiten betrekking hebben op een bevel, vordering of handeling gedaan of ondernomen door henzelf.    
 4.  Van een besluit als bedoeld in dit artikel wordt mededeling gedaan door plaatsing in de *Staatscourant*.   

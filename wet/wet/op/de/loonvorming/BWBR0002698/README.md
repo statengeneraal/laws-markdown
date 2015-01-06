@@ -36,11 +36,9 @@ e.  *loon:* arbeidsvoorwaarde, regelende de vergoeding van de werkgever aan de w
 
 a. personen in dienst van een publiekrechtelijk lichaam;   
 
-b. personen, aan een onderwijsinrichting werkzaam, wier arbeid bestaat in het geven van onderwijs;   
-
-c. personen die een geestelijk ambt bekleden.      
+b. personen die een geestelijk ambt bekleden.      
 2.   Deze wet is voorts niet van toepassing op arbeidsverhoudingen, behorende tot een bij algemene maatregel van bestuur daartoe aangewezen categorie.    
-3.  In afwijking van het eerste lid is deze wet van toepassing op de dienstbetrekking, bedoeld in de Wet sociale werkvoorziening, en de Wet inschakeling werkzoekenden.   
+3.  In afwijking van het eerste lid is deze wet van toepassing op de dienstbetrekking, bedoeld in de Wet sociale werkvoorziening.   
 
 ### §  2  
 
@@ -48,8 +46,8 @@ c. personen die een geestelijk ambt bekleden.
 
 ### Artikel  4  
 
-1.  Van het sluiten, wijzigen of opzeggen van een collectieve arbeidsovereenkomst, doen partijen schriftelijk mededeling aan Onze Minister. Daarbij wordt de tekst van de gesloten overeenkomst dan wel van de gewijzigde bepalingen daarvan alsmede een toelichting daarop overgelegd.    
-2.   Onze Minister stelt zo spoedig mogelijk na ontvangst van de mededeling en de bescheiden bedoeld in het eerste lid partijen hiervan schriftelijk in kennis.    
+1.  Van het sluiten, wijzigen of opzeggen van een collectieve arbeidsovereenkomst, doen partijen mededeling aan Onze Minister. Daarbij wordt de tekst van de gesloten overeenkomst dan wel van de gewijzigde bepalingen daarvan alsmede een toelichting daarop overgelegd.    
+2.   Onze Minister stelt zo spoedig mogelijk na ontvangst van de mededeling en de bescheiden bedoeld in het eerste lid partijen hiervan in kennis.    
 3.   Een collectieve arbeidsovereenkomst of wijziging daarvan kan eerst in werking treden met ingang van de dag volgende op die waarop Onze Minister de in het tweede lid bedoelde kennisgeving heeft verzonden.   
 
 ### §  3  
@@ -104,7 +102,7 @@ Elk beding tussen een werkgever en een werknemer alsmede elke bepaling in een co
 
 ### Artikel  14  
 
-Onze Minister kan regelen stellen, inhoudende op welke wijze een mededeling als bedoeld in artikel 4, eerste lid, dan wel een verzoek als bedoeld in artikel 5, eerste lid, of 6, tweede lid, moet worden ingediend en welke gegevens daarbij moeten worden verstrekt.  
+Onze Minister kan regelen stellen, inhoudende op welke wijze een mededeling als bedoeld in artikel 4, eerste lid, dan wel een verzoek als bedoeld in artikel 5, eerste lid, of 6, tweede lid, moet worden ingediend en welke gegevens daarbij moeten worden verstrekt, waarbij kan worden bepaald dat dit, in afwijking van artikel 2:14, eerste lid, van de Algemene wet bestuursrecht, uitsluitend langs elektronische weg kan geschieden, tenzij naar het oordeel van Onze Minister sprake is van omstandigheden die zich daartegen verzetten. 
 
 ### Artikel  15  
 

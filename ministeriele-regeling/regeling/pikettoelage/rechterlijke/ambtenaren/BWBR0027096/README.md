@@ -3,16 +3,16 @@
 ##Regeling van de Minister van Justitie van 5 januari 2010, nr. 5636245/10, houdende regels met betrekking tot de hoogte van de pikettoelage rechterlijke ambtenaren (Regeling pikettoelage rechterlijke ambtenaren)
 
 De Minister van Justitie,  
-Gelet op [artikel XIII van het Besluit van 9 december 2002 tot wijziging van enige algemene maatregelen van bestuur in verband met de formalisering van de Arbeidsvoorwaardenovereenkomst 2000–2001 en de Arbeidsvoorwaardenovereenkomst 2001–2002 sector Rechterlijke Macht](../../../../../../AMvB/wijzigingsbesluit/enige/algemene/maatregelen/van/bestuur/(uitvoering/etc/BWBR0014404/README.md);
+Gelet op artikel XIII van het Besluit van 9 december 2002 tot wijziging van enige algemene maatregelen van bestuur in verband met de formalisering van de Arbeidsvoorwaardenovereenkomst 2000–2001 en de Arbeidsvoorwaardenovereenkomst 2001–2002 sector Rechterlijke Macht;
 
-Gelet op [artikel IV, tweede lid, van het Besluit van 9 juli 2004 tot wijziging van het Besluit rechtspositie rechterlijke ambtenaren in verband met de formalisering van de Arbeidsvoorwaardenovereenkomst sector Rechterlijke macht 2002–2003](../../../../../../AMvB/wijzigingsbesluit/besluit/rechtspositie/rechterlijke/ambtenaren/etc/BWBR0017014/README.md);
+Gelet op artikel IV, tweede lid, van het Besluit van 9 juli 2004 tot wijziging van het Besluit rechtspositie rechterlijke ambtenaren in verband met de formalisering van de Arbeidsvoorwaardenovereenkomst sector Rechterlijke macht 2002–2003;
 
-Gelet op [artikel 38l, tweede lid, van het Besluit rechtspositie rechterlijke ambtenaren](../../../../../../AMvB/besluit/rechtspositie/rechterlijke/ambtenaren/BWBR0006530/README.md);
+Gelet op artikel 38l, tweede lid, van het Besluit rechtspositie rechterlijke ambtenaren;
 Besluit:    
 
 ### Artikel  1  
 
-De pikettoelage rechterlijke ambtenaren als bedoeld in [artikel 6f, tweede lid, van het Besluit rechtspositie rechterlijke ambtenaren](../../../../../../AMvB/besluit/rechtspositie/rechterlijke/ambtenaren/BWBR0006530/README.md) wordt jaarlijks per 1 januari geïndexeerd op basis van de in het voorgaande kalenderjaar gerealiseerde contractloonmutatie op jaarbasis in de sector Rechterlijke Macht. 
+De pikettoelage rechterlijke ambtenaren als bedoeld in artikel 6f, tweede lid, van het Besluit rechtspositie rechterlijke ambtenaren wordt jaarlijks per 1 januari geïndexeerd op basis van de in het voorgaande kalenderjaar gerealiseerde contractloonmutatie op jaarbasis in de sector Rechterlijke Macht. 
 
 ### Artikel  2  
 
@@ -20,11 +20,11 @@ De pikettoelage rechterlijke ambtenaren behoort met ingang van 1 januari 2005 to
 
 ### Artikel  3  
 
-De hoogte van de pikettoelage op weekbasis bedraagt in 2014: € 257,86. 
+De hoogte van de pikettoelage op weekbasis bedraagt: € 257,86. 
 
 ### Artikel  3a  
 
-Deze regeling berust op [artikel 6f, tweede lid, van het Besluit rechtspositie rechterlijke ambtenaren](../../../../../../AMvB/besluit/rechtspositie/rechterlijke/ambtenaren/BWBR0006530/README.md). 
+Deze regeling berust op artikel 6f, tweede lid, van het Besluit rechtspositie rechterlijke ambtenaren. 
 
 ### Artikel  4  
 

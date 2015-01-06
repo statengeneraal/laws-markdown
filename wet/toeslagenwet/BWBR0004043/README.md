@@ -22,15 +22,15 @@ b. Uitvoeringsinstituut werknemersverzekeringen: het Uitvoeringsinstituut werkne
 
 c. Toeslagenfonds: het fonds, bedoeld in artikel 31;   
 
-d. loondervingsuitkering: een uitkering krachtens de verplichte verzekering op grond van de Werkloosheidswet, de Ziektewet, de Wet werk en inkomen naar arbeidsvermogen, de Wet op de arbeidsongeschiktheidsverzekering en de Wet arbeidsongeschiktheidsverzekering zelfstandigen, alsmede een uitkering of inkomensvoorziening op grond van de Wet werk en arbeidsondersteuning jonggehandicapten, op grond van hoofdstuk 3, afdeling 2, paragraaf 1, van de Wet arbeid en zorg aan de werknemer of de gelijkgestelde, bedoeld in artikel 3:6, eerste lid, van die wet, de Wet arbeidsongeschiktheidsvoorziening militairen en de Wet inkomensvoorziening oudere werklozen;  
+d. loondervingsuitkering: een uitkering krachtens de verplichte verzekering op grond van de Werkloosheidswet, de Ziektewet, de Wet werk en inkomen naar arbeidsvermogen, de Wet op de arbeidsongeschiktheidsverzekering en de Wet arbeidsongeschiktheidsverzekering zelfstandigen, alsmede een uitkering of inkomensvoorziening op grond van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, op grond van hoofdstuk 3, afdeling 2, paragraaf 1, van de Wet arbeid en zorg aan de werknemer of de gelijkgestelde, bedoeld in artikel 3:6, eerste lid, van die wet, de Wet arbeidsongeschiktheidsvoorziening militairen en de Wet inkomensvoorziening oudere werklozen;  
 
 e. toeslag: een op een loondervingsuitkering of naast het recht op loon, bedoeld in artikel 629 van Boek 7 van het Burgerlijk Wetboek, dan wel de bezoldiging of hetgeen daarmee overeenkomt, bedoeld in artikel 76a van de Ziektewet, te verlenen toeslag ingevolge deze wet;   
 
 f. minimumloon:  
 
-1°. voor de persoon, bedoeld in artikel 2, eerste of tweede lid, het minimumloon per maand, bedoeld in artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag (Stb. 1968, 657), gedeeld door 21,75, en   
+1°. voor de persoon, bedoeld in artikel 2, eerste lid, het minimumloon per maand, bedoeld in artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag (Stb. 1968, 657), gedeeld door 21,75, en   
 
-2°. voor de persoon, bedoeld in artikel 2, derde lid, het voor zijn leeftijd geldende minimumloon per maand, bedoeld in artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag in verbinding met artikel 8, derde lid, van die wet, gedeeld door 21,75;    
+2°. voor de persoon, bedoeld in artikel 2, tweede lid, het voor zijn leeftijd geldende minimumloon per maand, bedoeld in artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag in verbinding met artikel 8, derde lid, van die wet, gedeeld door 21,75;    
 
 g.vervolgdagloon: het vervolgdagloon, bedoeld in artikel 21b van de Wet op de arbeidsongeschiktheidsverzekering;
 
@@ -62,7 +62,7 @@ d. zij op grond van een registratie worden aangemerkt als een gezamenlijke huish
 6.  Bij algemene maatregel van bestuur wordt vastgesteld welke registraties, en gedurende welk tijdvak, in aanmerking worden genomen voor de toepassing van het vijfde lid, onderdeel d.    
 7.  Bij algemene maatregel van bestuur kunnen regels worden gesteld ten aanzien van hetgeen wordt verstaan onder het blijk geven zorg te dragen voor een ander, zoals bedoeld in het vierde lid.    
 8.  Onder bloedverwant in de eerste graad als bedoeld in het derde lid, onderdeel a, wordt mede verstaan een meerderjarig aangehuwd kind of een meerderjarig voormalig pleegkind van de ongehuwde meerderjarige.   
-9.  Onder voormalig pleegkind als bedoeld in het achtste lid wordt verstaan een pleegkind waarvoor de ongehuwde meerderjarige een pleegvergoeding ontving of ontvangt op grond van de Wet op de jeugdzorg of kinderbijslag ontving op grond van de Algemene Kinderbijslagwet. 
+9.  Onder voormalig pleegkind als bedoeld in het achtste lid wordt verstaan een pleegkind voor wie de ongehuwde meerderjarige een pleegvergoeding ontving of ontvangt op grond van de Wet op de jeugdzorg of de Jeugdwet, of kinderbijslag ontving op grond van de Algemene Kinderbijslagwet. 
 
 ### Hoofdstuk  II  
 
@@ -78,34 +78,27 @@ d. zij op grond van een registratie worden aangemerkt als een gezamenlijke huish
 
 a. recht heeft op loondervingsuitkering, en   
 
-b. per dag een inkomen heeft dat lager is dan € 68,74.     
-2.   Recht op toeslag heeft een ongehuwde, die: 
-
-a. recht heeft op loondervingsuitkering;  
-
-b. een kind heeft jonger dan 18 jaar, dat niet als eigen kind, aangehuwd kind of pleegkind tot het huishouden van een ander behoort en voor wie aan hem op grond van artikel 18 van de Algemene Kinderbijslagwet kinderbijslag wordt betaald, zal worden betaald of zou worden betaald indien artikel 7, tweede lid, van die wet niet van toepassing zou zijn, en   
-
-c. per dag een inkomen heeft dat lager is dan € 64,67.     
-3.   Behoudens het vierde lid heeft voorts recht op toeslag een ongehuwde, die:  
+b. per dag een inkomen heeft dat lager is dan € 69,05.     
+2.   Behoudens het derde lid heeft voorts recht op toeslag een ongehuwde, die:  
 
 a. recht heeft op loondervingsuitkering, en   
 
 b. per dag een inkomen heeft dat lager is dan:
 
-1°.indien hij 23 jaar of ouder is: € 51,81;
+1°.indien hij 23 jaar of ouder is: € 52,05;
 
-2°.indien hij 22 jaar is: € 40,86;
+2°.indien hij 22 jaar is: € 40,90;
 
-3°.indien hij 21 jaar is: € 34,43;
+3°.indien hij 21 jaar is: € 34,44;
 
 4°.indien hij 20 jaar is: € 28,81;
 
-5°.indien hij 19 jaar is: € 24,12;
+5°.indien hij 19 jaar is: € 24,09;
 
-6°.indien hij 18 jaar is: € 20,57.     
-4.   Geen recht op toeslag heeft de in het derde lid bedoelde ongehuwde, die de leeftijd van 21 jaar nog niet heeft bereikt en behoort tot het huishouden van zijn ouders of pleegouders.    
-5.  Zolang een gehuwde of ongehuwde geen recht heeft op een loondervingsuitkering omdat hem rechtens zijn vrijheid is ontnomen of omdat hij zich onttrekt aan de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel, heeft hij geen recht op toeslag.  
-6. Zolang een gehuwde of ongehuwde de leeftijd van 18 jaar nog niet heeft bereikt, heeft hij geen recht op toeslag.
+6°.indien hij 18 jaar is: € 20,88.     
+3.   Geen recht op toeslag heeft de in het tweede lid bedoelde ongehuwde, die de leeftijd van 21 jaar nog niet heeft bereikt en behoort tot het huishouden van zijn ouders of pleegouders.    
+4.  Zolang een gehuwde of ongehuwde geen recht heeft op een loondervingsuitkering omdat hem rechtens zijn vrijheid is ontnomen of omdat hij zich onttrekt aan de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel, heeft hij geen recht op toeslag.  
+5. Zolang een gehuwde of ongehuwde de leeftijd van 18 jaar nog niet heeft bereikt, heeft hij geen recht op toeslag.
 
 ### Artikel  3  
 
@@ -118,11 +111,11 @@ Geen recht op toeslag heeft de persoon die onbetaald verlof geniet als bedoeld i
 ### Artikel  4a  
 
 1.  Geen recht op toeslag heeft de persoon, bedoeld in artikel 2, gedurende de periode dat hij niet in Nederland woont.   
-2.  De persoon, bedoeld in artikel 2, die op grond van het eerste lid geen recht heeft op toeslag, heeft vanaf de dag dat hij in Nederland woont recht op toeslag, indien hij aan de voorwaarden, bedoeld in artikel 2, eerste, tweede of derde lid, voldoet.  
+2.  De persoon, bedoeld in artikel 2, die op grond van het eerste lid geen recht heeft op toeslag, heeft vanaf de dag dat hij in Nederland woont recht op toeslag, indien hij aan de voorwaarden, bedoeld in artikel 2, eerste of tweede lid, voldoet.  
 
 ### Artikel  4b  
 
-Geen recht op toeslag heeft de persoon die inkomensondersteuning als bedoeld in artikel 2:43 van de Wet werk en arbeidsondersteuning jonggehandicapten ontvangt. 
+Geen recht op toeslag heeft de persoon die inkomensondersteuning als bedoeld in artikel 2:43 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten ontvangt. 
 
 ### Artikel  5  
 
@@ -158,9 +151,8 @@ b. indien en voor zover het inkomen uit arbeid meer bedraagt dan het in onderdee
 
 ### Artikel  8  
 
-1. Voor de persoon, bedoeld in artikel 2, eerste lid, is de toeslag gelijk aan het verschil tussen € 68,74 en het inkomen per dag.
-2. Voor de persoon, bedoeld in artikel 2, tweede lid, is de toeslag gelijk aan het verschil tussen € 64,67 en het inkomen per dag.
-3. Voor de persoon, bedoeld in artikel 2, derde lid, is de toeslag gelijk aan het verschil tussen het in artikel 2, derde lid, onderdeel b, bij de leeftijd van die persoon genoemd bedrag en het inkomen per dag.
+1. Voor de persoon, bedoeld in artikel 2, eerste lid, is de toeslag gelijk aan het verschil tussen € 69,05 en het inkomen per dag.
+2. Voor de persoon, bedoeld in artikel 2, tweede lid, is de toeslag gelijk aan het verschil tussen het in artikel 2, tweede lid, onderdeel b, bij de leeftijd van die persoon genoemd bedrag en het inkomen per dag.
 
 ###Artikel 8a 
 
@@ -168,17 +160,15 @@ b. indien en voor zover het inkomen uit arbeid meer bedraagt dan het in onderdee
 
 a.de persoon, bedoeld in artikel 2, eerste lid, indien het dagloon, vervolgdagloon of de grondslag waarnaar de loondervingsuitkering is berekend, lager is dan het minimumloon;
 
-b.de persoon, bedoeld in artikel 2, tweede lid, indien het dagloon, vervolgdagloon of de grondslag waarnaar de loondervingsuitkering is berekend, lager is dan 90% van het minimumloon;
-
-c.de persoon, bedoeld in artikel 2, derde lid, indien het dagloon, vervolgdagloon of de grondslag waarnaar de loondervingsuitkering is berekend, lager is dan 70% van het minimumloon.
+b.de persoon, bedoeld in artikel 2, tweede lid, indien het dagloon, vervolgdagloon of de grondslag waarnaar de loondervingsuitkering is berekend, lager is dan 70% van het minimumloon.
 2.  Voor de toepassing van het eerste lid wordt de in het dagloon, vervolgdagloon of grondslag waarnaar de loondervingsuitkering is berekend, begrepen vakantiebijslag niet in aanmerking genomen.
 3. Bij algemene maatregel van bestuur kan worden bepaald dat voor de toepassing van het eerste lid ander inkomen dan de loondervingsuitkering wordt gelijkgesteld met de op het dagloon, vervolgdagloon of de grondslag waarnaar de loondervingsuitkering is berekend, in mindering te brengen loondervingsuitkering. 
 4.  Voor de toepassing van dit artikel wordt tevens onder grondslag verstaan de factor A, bedoeld in artikel 10, eerste lid, van de Wet inkomensvoorziening oudere werklozen, gedeeld door 21,75. 
 
 ### Artikel  9  
 
-1. De in de artikelen 2 en 8 genoemde bedragen worden gewijzigd overeenkomstig de wijze en met ingang van de dag waarop de bedragen, genoemd in hoofdstuk 3 van de Wet werk en bijstand, worden gewijzigd. De gewijzigde bedragen treden voor de in de artikelen 2 en 8 genoemde bedragen in de plaats. 
-2.  Van de gewijzigde bedragen, bedoeld in het eerste lid, en de dag waarop de wijziging plaats vindt, wordt door Onze Minister mededeling gedaan in de Staatscourant. 
+1. De in de artikelen 2 en 8 genoemde bedragen worden gewijzigd overeenkomstig de wijze en met ingang van de dag waarop de bedragen, genoemd in hoofdstuk 3 van de Participatiewet, worden gewijzigd. De gewijzigde bedragen treden voor de in de artikelen 2 en 8 genoemde bedragen in de plaats. 
+2.  De gewijzigde bedragen, bedoeld in het eerste lid, en de dag waarop de wijzigingen ingaan, worden door of namens Onze Minister bekend gemaakt in de Staatscourant. 
 
 ### §  3  
 
@@ -228,14 +218,15 @@ Degene die aanspraak maakt op toeslag, zijn echtgenoot, of zijn wettelijke verte
 
 1.  In aanvulling op artikel 12 kan het Uitvoeringsinstituut werknemersverzekeringen degene die aanspraak maakt op toeslag of zijn wettelijke vertegenwoordiger verzoeken aan te tonen dat: 
 
-a. degene die aanspraak maakt op toeslag een ongehuwde is als bedoeld in artikel 2, tweede of derde lid, onderdeel a en onderdeel b, onder 1°, 2° of 3°;  
+a. degene die aanspraak maakt op toeslag een ongehuwde is als bedoeld in artikel 2, tweede lid, onderdeel a en onderdeel b, onder 1°, 2° of 3°;  
 
 b. de feitelijke woonsituatie van degene die aanspraak maakt op toeslag, van zijn echtgenoot of van een kind in overeenstemming is met het verstrekte adres van hemzelf, zijn echtgenoot of van zijn kind.   Teneinde hem daartoe in de gelegenheid te stellen kan het Uitvoeringsinstituut werknemersverzekeringen bij die verzoeken aanbieden met de toestemming van degene die aanspraak maakt op toeslag dan wel zijn wettelijke vertegenwoordiger de woning van degene die aanspraak maakt op toeslag binnen te treden.   
-2.  Indien degene die aanspraak maakt op toeslag dan wel zijn wettelijke vertegenwoordiger niet desgevraagd aantoont dat degene die aanspraak maakt op toeslag een ongehuwde is als bedoeld in artikel 2, tweede lid, of derde lid, onderdeel a en onderdeel b, onder 1°, 2° of 3°, wordt de toeslag toegekend respectievelijk herzien naar een hoogte gelijk aan het verschil tussen de helft van het bedrag, bedoeld in artikel 8, eerste lid, en het inkomen per dag.  
+2.  Indien degene die aanspraak maakt op toeslag dan wel zijn wettelijke vertegenwoordiger niet desgevraagd aantoont dat degene die aanspraak maakt op toeslag een ongehuwde is als bedoeld in artikel 2, tweede lid, onderdeel a en onderdeel b, onder 1°, 2° of 3°, wordt de toeslag toegekend respectievelijk herzien naar een hoogte gelijk aan het verschil tussen de helft van het bedrag, bedoeld in artikel 8, eerste lid, en het inkomen per dag.  
 
 ### Artikel  13  
 
-Degene die aanspraak maakt op toeslag, zijn echtgenoot, of zijn wettelijke vertegenwoordiger, alsmede de instelling aan welke ingevolge artikel 22 toeslag wordt uitbetaald, zijn verplicht de voorschriften, bedoeld in artikel 30, op te volgen en anderszins aan het Uitvoeringsinstituut werknemersverzekeringen desgevraagd de medewerking te verlenen die redelijkerwijs nodig is voor de uitvoering van deze wet. 
+1.  Degene die aanspraak maakt op toeslag, zijn echtgenoot, of zijn wettelijke vertegenwoordiger, alsmede de instelling aan welke ingevolge artikel 22 toeslag wordt uitbetaald, zijn verplicht de voorschriften, bedoeld in artikel 30, op te volgen en anderszins aan het Uitvoeringsinstituut werknemersverzekeringen desgevraagd de medewerking te verlenen die redelijkerwijs nodig is voor de uitvoering van deze wet.  
+2.  Degene die aanspraak maakt op toeslag of zijn echtgenoot onthouden zich van zeer ernstige misdragingen jegens de met de uitvoering van deze wet belaste personen en instanties tijdens het verrichten van hun werkzaamheden. 
 
 ### Artikel  14  
 
@@ -253,7 +244,7 @@ Degene die aanspraak maakt op toeslag, zijn echtgenoot, of zijn wettelijke verte
 3.  Indien het niet of niet behoorlijk nakomen door degene die aanspraak maakt op een toeslag, zijn echtgenoot, of zijn wettelijke vertegenwoordiger van de verplichting, bedoeld in artikel 12, niet heeft geleid tot een benadelingsbedrag, legt het Uitvoeringsinstituut werknemersverzekeringen een bestuurlijke boete op van ten hoogste het bedrag van de tweede categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht.   
 4.  Het Uitvoeringsinstituut werknemersverzekeringen kan afzien van het opleggen van een bestuurlijke boete als bedoeld in het derde lid en volstaan met het geven van een schriftelijke waarschuwing wegens het niet of niet behoorlijk nakomen van de verplichting, bedoeld in artikel 12, tenzij het niet of niet behoorlijk nakomen van de verplichting plaatsvindt binnen een periode van twee jaar te rekenen vanaf de datum waarop eerder aan degene die aanspraak maakt op een toeslag, zijn echtgenoot, of zijn wettelijke vertegenwoordiger een zodanige waarschuwing is gegeven.   
 5.  Het Uitvoeringsinstituut werknemersverzekeringen legt een bestuurlijke boete op wegens het niet of niet behoorlijk nakomen door degene die aanspraak maakt op een toeslag, zijn echtgenoot, of zijn wettelijke vertegenwoordiger van de verplichting, bedoeld in artikel 12, als gevolg waarvan ten onrechte of tot een te hoog bedrag aan toeslag is ontvangen, van ten hoogste 150 procent van het benadelingsbedrag indien binnen een tijdvak van vijf jaar voorafgaand aan de dag van het begaan van de overtreding een eerdere bestuurlijke boete of strafrechtelijke sanctie is opgelegd wegens een eerdere overtreding, bestaande uit eenzelfde gedraging, die onherroepelijk is geworden.   
-6.  Onder eenzelfde gedraging als bedoeld in het vijfde lid wordt verstaan het niet of niet behoorlijk nakomen van de verplichting, bedoeld in de artikelen 12 van deze wet, 25 van de Werkloosheidswet, 70, eerste en tweede lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen, 12, eerste lid, van de Wet inkomensvoorziening oudere werklozen, 80 van de Wet op de arbeidsongeschiktheidsverzekering, 2:7, eerste lid, of 3:74 van de Wet werk en arbeidsondersteuning jonggehandicapten, 27, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen, 31, eerste lid, of 49 van de Ziektewet, als gevolg waarvan ten onrechte of tot een te hoog bedrag aan uitkering, inkomensvoorziening, ziekengeld of toeslag is verleend.   
+6.  Onder eenzelfde gedraging als bedoeld in het vijfde lid wordt verstaan het niet of niet behoorlijk nakomen van de verplichting, bedoeld in de artikelen 12 van deze wet, 25 van de Werkloosheidswet, 70, eerste en tweede lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen, 12, eerste lid, van de Wet inkomensvoorziening oudere werklozen, 80 van de Wet op de arbeidsongeschiktheidsverzekering, 2:7, eerste lid, of 3:74 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, 27, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen, 31, eerste lid, of 49 van de Ziektewet, als gevolg waarvan ten onrechte of tot een te hoog bedrag aan uitkering, inkomensvoorziening, ziekengeld of toeslag is verleend.   
 7.  In afwijking van het vijfde lid is het in dat lid genoemde tijdvak van vijf jaar tien jaar indien wegens de eerdere overtreding, bedoeld in het vijfde lid, degene die aanspraak maakt op een toeslag, zijn echtgenoot, of zijn wettelijke vertegenwoordiger is gestraft met een onvoorwaardelijke gevangenisstraf.   
 8.  Het Uitvoeringsinstituut werknemersverzekeringen kan: 
 
@@ -267,9 +258,9 @@ b. afzien van het opleggen van een bestuurlijke boete indien daarvoor dringende 
 
 ### Artikel  14g  
 
-1.  Het Uitvoeringsinstituut werknemersverzekeringen verrekent de bestuurlijke boete met een toeslag op grond van deze wet, een uitkering op grond van de Werkloosheidswet, de Ziektewet, de Wet werk en inkomen naar arbeidsvermogen, de Wet op de arbeidsongeschiktheidsverzekering, de Wet arbeidsongeschiktheidsverzekering zelfstandigen, de Wet werk en arbeidsondersteuning jonggehandicapten, de Wet arbeidsongeschiktheidsvoorziening militairen, de Wet inkomensvoorziening oudere werklozen of de Wet arbeid en zorg, die degene aan wie de bestuurlijke boete is opgelegd ontvangt.   
+1.  Het Uitvoeringsinstituut werknemersverzekeringen verrekent de bestuurlijke boete met een toeslag op grond van deze wet, een uitkering op grond van de Werkloosheidswet, de Ziektewet, de Wet werk en inkomen naar arbeidsvermogen, de Wet op de arbeidsongeschiktheidsverzekering, de Wet arbeidsongeschiktheidsverzekering zelfstandigen, de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, de Wet arbeidsongeschiktheidsvoorziening militairen, de Wet inkomensvoorziening oudere werklozen of de Wet arbeid en zorg, die degene aan wie de bestuurlijke boete is opgelegd ontvangt.   
 2.  Onverminderd het eerste lid kan het Uitvoeringsinstituut werknemersverzekeringen de bestuurlijke boete verrekenen met een vordering die degene aan wie de bestuurlijke boete is opgelegd op hem heeft.  
-3.  De Sociale verzekeringsbank onderscheidenlijk de gemeente betaalt het bedrag van de bestuurlijke boete, zonder dat daarvoor een machtiging nodig is, op zijn verzoek aan het Uitvoeringsinstituut werknemersverzekeringen indien degene aan wie een bestuurlijke boete is opgelegd een uitkering ontvangt op grond van de Algemene Ouderdomswet, de Algemene nabestaandenwet, de Wet werk en bijstand, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers of de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen.   
+3.  De Sociale verzekeringsbank onderscheidenlijk de gemeente betaalt het bedrag van de bestuurlijke boete, zonder dat daarvoor een machtiging nodig is, op zijn verzoek aan het Uitvoeringsinstituut werknemersverzekeringen indien degene aan wie een bestuurlijke boete is opgelegd een uitkering ontvangt op grond van de Algemene Ouderdomswet, de Algemene nabestaandenwet, de Participatiewet, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers of de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen.   
 4.  De in artikel 479g van het Wetboek van Burgerlijke Rechtsvordering aan de raad voor de kinderbescherming toegekende bevoegdheid komt gelijkelijk toe aan het Uitvoeringsinstituut werknemersverzekeringen. Indien het Uitvoeringsinstituut werknemersverzekeringen gebruik maakt van deze bevoegdheid, geschiedt de bekendmaking van het dwangbevel, in afwijking van artikel 4:123, eerste lid, van de Algemene wet bestuursrecht, door middel van toezending per post aan degene aan wie de boete is opgelegd.   
 5.  Zolang degene die aanspraak maakt op een toeslag, zijn echtgenoot, of zijn wettelijke vertegenwoordiger zijn verplichting, bedoeld in artikel 14a, negende lid, niet of niet behoorlijk nakomt: 
 
@@ -283,7 +274,7 @@ b. geldt de beslagvrije voet, bedoeld in de artikelen 475c tot en met 475e van h
 2.  Artikel 14g, eerste lid, en het eerste lid zijn van overeenkomstige toepassing op de verrekening van de bestuurlijke boete wegens eenzelfde gedraging als bedoeld in artikel 14a, zesde lid, indien en voor zover op het moment van verrekening, bedoeld in het eerste lid, de bestuurlijke boete door de overtreder niet is betaald.   
 3.  Het Uitvoeringsinstituut werknemersverzekeringen kan op verzoek van de overtreder besluiten het eerste lid en tweede lid niet of niet meer toe te passen indien, gelet op bijzondere omstandigheden, dringende redenen daartoe noodzaken.   
 4.  De voorgaande leden laten de verrekening van de bestuurlijke boete op grond van artikel 14g, eerste lid, na het tijdvak, bedoeld in het eerste lid, onverlet.   
-5.  Indien als gevolg van de verrekening, bedoeld in het eerste en tweede lid, algemene bijstand op grond van de Wet werk en bijstand wordt toegekend, wordt bij de verrekening een bij ministeriële regeling bepaald deel van de toeslag op grond van deze wet op aanvraag vrijgelaten in verband met zorgkosten, woonkosten en de kosten van kinderen. Het vrij te laten deel van de toeslag kan afhankelijk worden gesteld van de leefsituatie.   
+5.  Indien als gevolg van de verrekening, bedoeld in het eerste en tweede lid, algemene bijstand op grond van de Participatiewet wordt toegekend, wordt bij de verrekening een bij ministeriële regeling bepaald deel van de toeslag op grond van deze wet op aanvraag vrijgelaten in verband met zorgkosten, woonkosten en de kosten van kinderen. Het vrij te laten deel van de toeslag kan afhankelijk worden gesteld van de leefsituatie.   
 6.  Voor de toepassing van het vijfde lid kunnen bij ministeriële regeling nadere regels worden gesteld.   
 7.  Het vrijgelaten deel, bedoeld in het vijfde lid, is niet vatbaar voor beslag, waaronder begrepen beslag ingevolge faillissement of toepassing van de schuldsaneringsregeling natuurlijke personen. 
 
@@ -392,13 +383,11 @@ a. redelijkerwijs te voorzien is dat degene die aanspraak maakt op de toeslag, z
 
 b. redelijkerwijs te voorzien is dat een schuldregeling met betrekking tot alle vorderingen, behoudens de in het tweede lid bedoelde vorderingen, van de overige schuldeisers zonder een zodanig besluit niet tot stand zal komen;  
 
-c. de vordering van het Uitvoeringinstituut werknemersverzekeringen wegens onverschuldigde betaling ten minste zal worden voldaan naar evenredigheid met de vorderingen van de schuldeisers van gelijke rang;  
+c. een naar het oordeel van het Uitvoeringsinstituut werknemersverzekeringen betrouwbaar voorstel voor een schuldregeling tot stand is gekomen door tussenkomst van een schuldhulpverlener als bedoeld in artikel 48 van de Wet op het consumentenkrediet;  
 
-d. een naar het oordeel van het Uitvoeringsinstituut werknemersverzekeringen betrouwbaar voorstel voor een schuldregeling tot stand is gekomen door tussenkomst van een schuldhulpverlener als bedoeld in artikel 48 van de Wet op het consumentenkrediet;  
+d. aannemelijk is dat medewerking aan een schuldregeling niet concurrentieverstorend werkt; en  
 
-e. aannemelijk is dat medewerking aan een schuldregeling niet concurrentieverstorend werkt; en  
-
-f. uitdeling in het kader van de schuldregeling plaatsvindt overeenkomstig artikel 349 van de Faillissementswet.     
+e. uitdeling in het kader van de schuldregeling plaatsvindt overeenkomstig artikel 349 van de Faillissementswet.     
 2.  Het eerste lid is niet van toepassing indien een vordering is ontstaan door het niet nakomen door degene die aanspraak maakt op de toeslag, zijn echtgenoot of zijn wettelijke vertegenwoordiger, alsmede de instelling aan welke ingevolge artikel 22 toeslag wordt uitbetaald, van de verplichting, bedoeld in artikel 12, en hiervoor een boete als bedoeld in artikel 14a is opgelegd, dan wel met betrekking tot het niet naleven van die verplichting aangifte is gedaan op grond van het Wetboek van Strafrecht.   
 3.  Het besluit tot het afzien van terugvordering of van verdere terugvordering wordt ingetrokken of ten nadele van degene die aanspraak maakt op de toeslag, zijn echtgenoot of zijn wettelijke vertegenwoordiger, alsmede de instelling aan welke ingevolge artikel 22 toeslag wordt uitbetaald, degene van wie wordt teruggevorderd gewijzigd indien: 
 
@@ -494,7 +483,7 @@ Artikel 120 van de Wet financiering sociale verzekeringen is van overeenkomstige
 ### Artikel  38  
 
 1.  In afwijking van artikel 7:10, eerste lid, van de Algemene wet bestuursrecht beslist het Uitvoeringsinstituut werknemersverzekeringen binnen dertien weken gerekend vanaf de dag na die waarop de termijn voor het indienen van het bezwaarschrift is verstreken.    
-2.  Indien het bezwaarschrift, bedoeld in het eerste lid, verband houdt met een bezwaar tegen een besluit waaraan een medische of arbeidskundige beoordeling ten grondslag ligt, zijn de artikelen 79, tweede lid, van de Algemene Arbeidsongeschiktheidswet, artikel 112 van de Wet werk en inkomen naar arbeidsvermogen, artikel 96, tweede lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen, artikel 6:3, tweede lid, van de Wet werk en arbeidsondersteuning jonggehandicapten, 87d van de Wet op de arbeidsongeschiktheidsverzekering en XXVIIa, tweede lid, van de Wet terugdringing beroep op de arbeidsongeschiktheidsregelingen van overeenkomstige toepassing.  
+2.  Indien het bezwaarschrift, bedoeld in het eerste lid, verband houdt met een bezwaar tegen een besluit waaraan een medische of arbeidskundige beoordeling ten grondslag ligt, zijn de artikelen 79, tweede lid, van de Algemene Arbeidsongeschiktheidswet, artikel 112 van de Wet werk en inkomen naar arbeidsvermogen, artikel 96, tweede lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen, artikel 6:3, tweede lid, van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, 87d van de Wet op de arbeidsongeschiktheidsverzekering en XXVIIa, tweede lid, van de Wet terugdringing beroep op de arbeidsongeschiktheidsregelingen van overeenkomstige toepassing.  
 
 ### Artikel  39  
 
@@ -539,7 +528,7 @@ c.op 1 januari 2008 recht zou hebben op een toeslag.
 ###Artikel 44b 
 
 1. Voor de toepassing van dit artikel wordt onder verordening verstaan: Verordening (EG) nr. 647/2005 van het Europees Parlement en de Raad van 13 april 2005 tot wijziging van Verordening (EEG) nr. 1408/71 van de Raad betreffende de toepassing van de socialezekerheidsregelingen op werknemers en zelfstandigen, alsmede op hun gezinsleden, die zich binnen de Gemeenschap verplaatsen, en van Verordening (EEG) nr. 574/72 van de Raad tot vaststelling van de wijze van toepassing van Verordening (EEG) nr. 1408/71 (PbEU (L 117). 
-2. Aan de persoon, bedoeld in artikel 2, eerste, tweede of derde lid, die:
+2. Aan de persoon, bedoeld in artikel 2, eerste of tweede lid, die:
 
 a.op de dag voor de inwerkingtreding van de verordening recht op toeslag heeft op grond van artikel 10, eerste lid, van Verordening (EEG) nr. 1408/71 van de Raad van de Europese gemeenschappen van 14 juni 1971 betreffende de toepassing van de socialezekerheidsregelingen op werknemers en zelfstandigen, alsmede op hun gezinsleden, die zich binnen de gemeenschap verplaatsen (PbEG L 149); en
 
@@ -556,7 +545,6 @@ b.niet in Nederland woont maar wel in een andere lidstaat van de Europese Unie, 
 Artikel 1, achtste en negende lid, is niet van toepassing indien voor de inwerkingtreding van deze artikelleden op grond van artikel 2 recht bestaat op toeslag omdat de ongehuwde toeslaggerechtigde wegens een gezamenlijke huishouding met een meerderjarig aangehuwd kind of een meerderjarig voormalig pleegkind is aangemerkt als gehuwd, voor zolang dit recht op toeslag bestaat, tenzij toepassing van de genoemde artikelleden leidt tot een hogere toeslag. 
 
 ### Artikel  44d  
-Treedt in werking per 01-01-2015 
 
 1.  Aan de persoon op wie artikel 4a van toepassing wordt als gevolg van de opzegging van een verdrag, de beëindiging van de voorlopige toepassing van een verdrag dan wel de beëindiging van een daarmee gelijk te stellen situatie, wordt, zolang deze persoon blijft wonen in hetzelfde land als waar hij op de dag voor buitenwerkingtreding als gevolg van die opzegging respectievelijk op de dag voor de beëindiging woonde en blijft voldoen aan de overige voorwaarden voor het recht op toeslag, in afwijking van artikel 4a: 
 

@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Justitie van 23 mei 2001, nr. 5099743/01/6;
 
-Gelet op de [artikelen 2, tweede lid](../../../../../../wet/gerechtsdeurwaarderswet/BWBR0012197/README.md), en [21 van de Gerechtsdeurwaarderswet](../../../../../../wet/gerechtsdeurwaarderswet/BWBR0012197/README.md), en de [artikelen 57, vijfde lid](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), [57a, derde lid](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), en [434a van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md);
+Gelet op de artikelen 2, tweede lid, en 21 van de Gerechtsdeurwaarderswet, en de artikelen 57, vijfde lid, 57a, derde lid, en 434a van het Wetboek van Burgerlijke Rechtsvordering;
 
 De Raad van State gehoord (advies van 21 juni 2001, nr. W03.01.0251);
 
@@ -22,67 +22,67 @@ De schuldenaarstarieven, vastgesteld bij of krachtens dit besluit dienen mede to
 
 ### Artikel  2  
 
-Onverminderd de artikelen 5 tot en met 11 en 14, bedragen de kosten, bedoeld in de artikelen[ 240](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) en [434a van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), voor het exploot van: 
+Onverminderd de artikelen 5 tot en met 11 en 14, bedragen de kosten, bedoeld in de artikelen 240 en 434a van het Wetboek van Burgerlijke Rechtsvordering, voor het exploot van: 
 
-a. dagvaarding, oproeping of aanzegging die het geding inleidt: € 77,52;  
+a. dagvaarding, oproeping of aanzegging die het geding inleidt: € 77,84;  
 
-b. betekening van een titel: € 74,61;  
+b. betekening van een titel: € 74,92;  
 
-c. betekening van een verzoekschrift met oproeping om in rechte te verschijnen of van een aanzegging, anders dan bedoeld in dit artikel: € 61,33;  
+c. betekening van een verzoekschrift met oproeping om in rechte te verschijnen of van een aanzegging, anders dan bedoeld in dit artikel: € 61,58;  
 
-d. betekening, anders dan bedoeld in dit artikel: € 65,64;  
+d. betekening, anders dan bedoeld in dit artikel: € 65,91;  
 
-e. beslag op roerende zaken, niet zijnde registergoederen, anders dan bedoeld in een van de volgende onderdelen, of van nadere aanduiding van de in beslag genomen roerende zaken: € 101,97;   
+e. beslag op roerende zaken, niet zijnde registergoederen, anders dan bedoeld in een van de volgende onderdelen, of van nadere aanduiding van de in beslag genomen roerende zaken: € 102,39;   
 
-f. beslag op roerende zaken, niet zijnde registergoederen, die zich bevinden op een zodanige plaats dat voor de toegang daartoe de medewerking van een derde nodig is: € 136,93;  
+f. beslag op roerende zaken, niet zijnde registergoederen, die zich bevinden op een zodanige plaats dat voor de toegang daartoe de medewerking van een derde nodig is: € 137,50;  
 
-g. beslag op rechten aan toonder of order, op effecten op naam of op overige rechten, anders dan bedoeld in dit artikel: € 201,79;  
+g. beslag op rechten aan toonder of order, op effecten op naam of op overige rechten, anders dan bedoeld in dit artikel: € 202,63;  
 
-h. beslag op aandelen op naam in Nederlandse naamloze vennootschappen en besloten vennootschappen met beperkte aansprakelijkheid: € 221,50;  
+h. beslag op aandelen op naam in Nederlandse naamloze vennootschappen en besloten vennootschappen met beperkte aansprakelijkheid: € 222,42;  
 
-i. beslag op aandelen aan toonder of van beslag onder derden, anders dan beslag op periodieke betalingen: € 162,49;  
+i. beslag op aandelen aan toonder of van beslag onder derden, anders dan beslag op periodieke betalingen: € 163,16;  
 
-j. beslag onder derden op periodieke betalingen, anders dan beslag als bedoeld onder k: € 115,65;  
+j. beslag onder derden op periodieke betalingen, anders dan beslag als bedoeld onder k: € 116,13;  
 
-k. beslag als bedoeld in [artikel 479b van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md): € 98,77;  
+k. beslag als bedoeld in artikel 479b van het Wetboek van Burgerlijke Rechtsvordering: € 99,18;  
 
-l. beslag onder de schuldeiser zelf, ongeacht het beslagobject: € 135,29;  
+l. beslag onder de schuldeiser zelf, ongeacht het beslagobject: € 135,85;  
 
-m. executie tot afgifte van roerende zaken, niet zijnde registergoederen: € 235,37;  
+m. executie tot afgifte van roerende zaken, niet zijnde registergoederen: € 236,34;  
 
-n. beslag tot verkrijging van afgifte of levering van roerende zaken, niet zijnde registergoederen: € 101,22;  
+n. beslag tot verkrijging van afgifte of levering van roerende zaken, niet zijnde registergoederen: € 101,64;  
 
-o. beslag op onroerende zaken of op in Nederland te boek gestelde luchtvaartuigen: € 140,10;  
+o. beslag op onroerende zaken of op in Nederland te boek gestelde luchtvaartuigen: € 140,68;  
 
-p. opheffing van beslag op onroerende zaken of de verklaring, bedoeld in [artikel 575, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md): € 49,99;  
+p. opheffing van beslag op onroerende zaken of de verklaring, bedoeld in artikel 575, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering: € 50,20;  
 
-q. beslag op schepen of niet in Nederland te boek gestelde luchtvaartuigen: € 308,83;  
+q. beslag op schepen of niet in Nederland te boek gestelde luchtvaartuigen: € 310,11;  
 
-r. gerechtelijke inbewaringgeving: € 210,15;  
+r. gerechtelijke inbewaringgeving: € 211,02;  
 
-s. het aanslaan van biljetten houdende aankondiging van openbare verkoop: € 76,71;  
+s. het aanslaan van biljetten houdende aankondiging van openbare verkoop: € 77,03;  
 
-t. executoriale openbare verkoop van roerende zaken: € 268,44;  
+t. executoriale openbare verkoop van roerende zaken: € 269,55;  
 
-u. aanzegging van de overname van de executie van onroerende zaken: € 72,09;  
+u. aanzegging van de overname van de executie van onroerende zaken: € 72,39;  
 
-v. gedwongen ontruiming van onroerende zaken: € 200,56;  
+v. gedwongen ontruiming van onroerende zaken: € 201,39;  
 
-w. tenuitvoerlegging van lijfsdwang: € 233,11.   
+w. tenuitvoerlegging van lijfsdwang: € 234,08.   
 
 ### Artikel  3  
 
-Onverminderd de artikelen 9, 10 en 11, bedragen de kosten, bedoeld in [artikel 434a van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), van inning, verdere tenuitvoerlegging en verdeling van de opbrengst van beslag op vorderingen tot periodieke betalingen, per maand waarin de gerechtsdeurwaarder een betaling van de derde int: 
+Onverminderd de artikelen 9, 10 en 11, bedragen de kosten, bedoeld in artikel 434a van het Wetboek van Burgerlijke Rechtsvordering, van inning, verdere tenuitvoerlegging en verdeling van de opbrengst van beslag op vorderingen tot periodieke betalingen, per maand waarin de gerechtsdeurwaarder een betaling van de derde int: 
 
-a. in geval van enkelvoudig derdenbeslag: € 9,88;  
+a. in geval van enkelvoudig derdenbeslag: € 9,92;  
 
-b. in geval van twee samenlopende derdenbeslagen: € 15,71; en  
+b. in geval van twee samenlopende derdenbeslagen: € 15,78; en  
 
-c. voor ieder daarop volgend samenlopend derdenbeslag: € 5,84 per beslag.   
+c. voor ieder daarop volgend samenlopend derdenbeslag: € 5,86 per beslag.   
 
 ###Artikel 4 
 
-1. Onverminderd de artikelen 9, 10 en 11, bedragen de kosten, bedoeld in [artikel 434a van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), voor de ambtshandeling, bedoeld in artikel 2, onder b, d tot en met o en q tot en met w, die geen doorgang vindt, de helft van het bedrag, vastgesteld bij of krachtens het desbetreffende onderdeel van artikel 2, indien:
+1. Onverminderd de artikelen 9, 10 en 11, bedragen de kosten, bedoeld in artikel 434a van het Wetboek van Burgerlijke Rechtsvordering, voor de ambtshandeling, bedoeld in artikel 2, onder b, d tot en met o en q tot en met w, die geen doorgang vindt, de helft van het bedrag, vastgesteld bij of krachtens het desbetreffende onderdeel van artikel 2, indien:
 
 a.de gerechtsdeurwaarder ter plaatse van de uitvoering van de desbetreffende ambtshandeling is aangetreden, en
 
@@ -91,15 +91,15 @@ b.de ambtshandeling geen doorgang heeft gevonden omdat de schuldenaar vrijwillig
 
 ### Artikel  5  
 
-Indien de gerechtsdeurwaarder met betrekking tot dezelfde roerende zaken de ambtshandelingen, bedoeld in artikel 2, onder m en n, verricht, worden de kosten van de ambtshandeling, vastgesteld in artikel 2, onder m, verminderd met € 18,92. 
+Indien de gerechtsdeurwaarder met betrekking tot dezelfde roerende zaken de ambtshandelingen, bedoeld in artikel 2, onder m en n, verricht, worden de kosten van de ambtshandeling, vastgesteld in artikel 2, onder m, verminderd met € 19,00. 
 
 ### Artikel  6  
 
 Indien de gerechtsdeurwaarder zich op grond van een wettelijk voorschrift voor de goede verrichting van de ambtshandeling laat bijstaan door een of meer getuigen, worden de kosten van de ambtshandeling: 
 
-a. bedoeld in artikel 2, onder e, f, g, en n, verhoogd met € 19,28;  
+a. bedoeld in artikel 2, onder e, f, g, en n, verhoogd met € 19,36;  
 
-b. bedoeld in artikel 2, onder m, o, q, v en w, verhoogd met € 67,50.   
+b. bedoeld in artikel 2, onder m, o, q, v en w, verhoogd met € 67,78.   
 
 ### Artikel  7  
 
@@ -107,16 +107,16 @@ Indien uit het exploot blijkt dat de uitvoering ter plaatse van de ambtshandelin
 
 a. bedoeld in artikel 2, onder e, f, g, h en n, langer dan anderhalf uur heeft geduurd, of  
 
-b. bedoeld in artikel 2, onder m, q, r, t, v en w, langer dan drie uur heeft geduurd, worden de kosten verhoogd met € 18,92 voor iedere 15 minuten dat de uitvoering ter plaatse van de ambtshandeling langer dan anderhalf uur, respectievelijk drie uur heeft geduurd, en worden de kosten, vastgesteld bij of krachtens artikel 6, verhoogd met € 11,22 voor iedere 15 minuten dat de bijstand door de getuige daarbij langer dan anderhalf uur, respectievelijk drie uur heeft geduurd.   
+b. bedoeld in artikel 2, onder m, q, r, t, v en w, langer dan drie uur heeft geduurd, worden de kosten verhoogd met € 19,00 voor iedere 15 minuten dat de uitvoering ter plaatse van de ambtshandeling langer dan anderhalf uur, respectievelijk drie uur heeft geduurd, en worden de kosten, vastgesteld bij of krachtens artikel 6, verhoogd met € 11,27 voor iedere 15 minuten dat de bijstand door de getuige daarbij langer dan anderhalf uur, respectievelijk drie uur heeft geduurd.   
 
 ### Artikel  8  
 
-1.  Voor de toepassing van [artikel 434a van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), worden de kosten verhoogd met € 23,86 indien: 
+1.  Voor de toepassing van artikel 434a van het Wetboek van Burgerlijke Rechtsvordering, worden de kosten verhoogd met € 23,96 indien: 
 
 a. het exploot, nadat betekening aan de laatstelijk aan de opdrachtgever bekendgeworden woon- of verblijfplaats van de schuldenaar eens of meermalen niet mogelijk is gebleken, op een volgend adres wordt betekend, en  
 
 b. de gerechtsdeurwaarder aan de voet van het exploot de data vermeldt waarop dat adres is geverifieerd aan de hand van gegevens uit de basisregistratie personen of het Handelsregister, en waarop betekening aan dat adres niet mogelijk is gebleken.     
-2.  Voor de toepassing van [artikel 434a van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), worden de kosten van het exploot, bedoeld in artikel 2, onder e en w, verhoogd met € 48,04 onderscheidenlijk € 93,97, indien de gerechtsdeurwaarder: 
+2.  Voor de toepassing van artikel 434a van het Wetboek van Burgerlijke Rechtsvordering, worden de kosten van het exploot, bedoeld in artikel 2, onder e en w, verhoogd met € 48,24 onderscheidenlijk € 94,36, indien de gerechtsdeurwaarder: 
 
 a. de desbetreffende ambtshandeling heeft verricht nadat een of meer eerdere pogingen daartoe geen doorgang vonden wegens afwezigheid van de schuldenaar of een persoon die hem kan vertegenwoordigen op de plaats van het beslag, onderscheidenlijk de afwezigheid van de schuldenaar op de voorziene plaats van tenuitvoerlegging van de lijfsdwang;  
 
@@ -138,7 +138,7 @@ c.indien het betreft kosten waarvan de hoogte niet bij wettelijk voorschrift is 
 
 ###Artikel 10 
 
-De kosten worden verhoogd met een percentage dat overeenkomt met het percentage, bedoeld in [artikel 9, eerste lid, van de Wet op de Omzetbelasting 1968](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), indien de opdrachtgever de hem in rekening gebrachte omzetbelasting niet op grond van genoemde wet kan verrekenen en zulks nadrukkelijk verklaart, en de gerechtsdeurwaarder aan de voet van het exploot verklaart dat de kosten in verband daarmee zijn verhoogd.
+De kosten worden verhoogd met een percentage dat overeenkomt met het percentage, bedoeld in artikel 9, eerste lid, van de Wet op de Omzetbelasting 1968, indien de opdrachtgever de hem in rekening gebrachte omzetbelasting niet op grond van genoemde wet kan verrekenen en zulks nadrukkelijk verklaart, en de gerechtsdeurwaarder aan de voet van het exploot verklaart dat de kosten in verband daarmee zijn verhoogd.
 
 ###Artikel 11 
 
@@ -159,7 +159,7 @@ b.het exploot waarbij een gebrek in een eerder exploot is hersteld.
 
 ###Artikel 13 
 
-Indien aan de opdrachtgever een toevoeging als bedoeld in [artikel 24 van de Wet op de Rechtsbijstand](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md) is verleend, vraagt de gerechtsdeurwaarder de opdrachtgever bij wijze van voorschot geen bedrag dat hoger is dan het bedrag dat op grond van de artikelen 9 en 10 wordt vastgesteld. Het bedrag, bedoeld in artikel 9, wordt gebaseerd op de kosten die naar zijn oordeel voor de goede verrichting van de ambtshandeling noodzakelijk zullen zijn.
+Indien aan de opdrachtgever een toevoeging als bedoeld in artikel 24 van de Wet op de Rechtsbijstand is verleend, vraagt de gerechtsdeurwaarder de opdrachtgever bij wijze van voorschot geen bedrag dat hoger is dan het bedrag dat op grond van de artikelen 9 en 10 wordt vastgesteld. Het bedrag, bedoeld in artikel 9, wordt gebaseerd op de kosten die naar zijn oordeel voor de goede verrichting van de ambtshandeling noodzakelijk zullen zijn.
 
 ### §  3  
 
@@ -188,11 +188,11 @@ Wijzigt het Besluit tarieven in strafzaken.
 
 ### Artikel  17  
 
-Dit besluit berust op de [artikelen 240](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md)en [434a van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), en de [artikelen 2](../../../../../../wet/gerechtsdeurwaarderswet/BWBR0012197/README.md) en [21 van de Gerechtsdeurwaarderswet](../../../../../../wet/gerechtsdeurwaarderswet/BWBR0012197/README.md). 
+Dit besluit berust op de artikelen 240en 434a van het Wetboek van Burgerlijke Rechtsvordering, en de artikelen 2 en 21 van de Gerechtsdeurwaarderswet. 
 
 ###Artikel 18 
 
-Dit besluit, treedt in werking op het tijdstip waarop de [artikelen 2](../../../../../../wet/gerechtsdeurwaarderswet/BWBR0012197/README.md), [21](../../../../../../wet/gerechtsdeurwaarderswet/BWBR0012197/README.md) en [89 van de Gerechtsdeurwaarderswet](../../../../../../wet/gerechtsdeurwaarderswet/BWBR0012197/README.md) in werking treden, met uitzondering van artikel 14, dat in werking treedt met ingang van het tijdstip waarop artikel 31, onderdeel L, van hoofdstuk 5 van het bij koninklijke boodschap van 20 juni 2001 ingediende voorstel van wet tot aanpassing van de wetgeving aan de herziening van het procesrecht voor burgerlijke zaken, in het bijzonder de wijze van procederen in eerste aanleg (Kamerstukken II 2000/2001, 27 824, nrs. 1–3), nadat het tot wet is verheven, in werking treedt.
+Dit besluit, treedt in werking op het tijdstip waarop de artikelen 2, 21 en 89 van de Gerechtsdeurwaarderswet in werking treden, met uitzondering van artikel 14, dat in werking treedt met ingang van het tijdstip waarop artikel 31, onderdeel L, van hoofdstuk 5 van het bij koninklijke boodschap van 20 juni 2001 ingediende voorstel van wet tot aanpassing van de wetgeving aan de herziening van het procesrecht voor burgerlijke zaken, in het bijzonder de wijze van procederen in eerste aanleg (Kamerstukken II 2000/2001, 27 824, nrs. 1–3), nadat het tot wet is verheven, in werking treedt.
 
 ###Artikel 19 
 

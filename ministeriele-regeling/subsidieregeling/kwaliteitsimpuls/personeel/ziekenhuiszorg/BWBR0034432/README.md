@@ -10,15 +10,15 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a.  *minister:* Minister van Volksgezondheid, Welzijn en Sport;  
+a. *minister:* Minister van Volksgezondheid, Welzijn en Sport;  
 
-b.  *instelling:* privaatrechtelijke rechtspersoon met volledige rechtsbevoegdheid of een rechtspersoon krachtens publiekrecht ingesteld, die een organisatorisch verband in stand houdt;  
+b. *instelling:* privaatrechtelijke rechtspersoon met volledige rechtsbevoegdheid of een rechtspersoon krachtens publiekrecht ingesteld, die een organisatorisch verband in stand houdt;  
 
-c.  *geneeskundige geestelijke gezondheidszorg:* zorg zoals psychiaters en klinisch-psychologen die plegen te bieden, en de eerstelijnspsychologische zorg;  
+c. *geneeskundige geestelijke gezondheidszorg:* zorg zoals psychiaters en klinisch-psychologen die plegen te bieden, en de eerstelijnspsychologische zorg;  
 
-d.  *organisatorisch verband:* organisatorisch verband voor medisch specialistische zorg, bedoeld in artikel 1.2, onder 1, van het Uitvoeringsbesluit WTZi of de audiologische centra, bedoeld in artikel 1.2, onder 2, van dat besluit;  
+d. *organisatorisch verband:* organisatorisch verband voor medisch specialistische zorg, bedoeld in artikel 1.2, onder 1, van het Uitvoeringsbesluit WTZi of de audiologische centra, bedoeld in artikel 1.2, onder 2, van dat besluit;  
 
-e.  *Zvw-omzet:*som van de volgende onderdelen van de bedrijfsopbrengsten van het organisatorisch verband die met het verlenen van zorg in het kader van de Zorgverzekeringswet in het tweede jaar voorafgaand aan het subsidiejaar zijn behaald zoals deze zijn verantwoord in de jaarrekening over dat jaar: 
+e. *Zvw-omzet:*som van de volgende onderdelen van de bedrijfsopbrengsten van het organisatorisch verband die met het verlenen van zorg in het kader van de Zorgverzekeringswet in het tweede jaar voorafgaand aan het subsidiejaar zijn behaald zoals deze zijn verantwoord in de jaarrekening over dat jaar: 
 
 1°. wettelijk budget voor aanvaardbare kosten Zvw-zorg;  
 
@@ -30,26 +30,32 @@ e.  *Zvw-omzet:*som van de volgende onderdelen van de bedrijfsopbrengsten van he
 
 5°. opbrengst uit hoofde van te verrekenen transitiebedrag medisch specialistische zorg;    
 
-f.  *subsidiejaar:* kalenderjaar ten behoeve waarvan de subsidie wordt verstrekt;  
+f. *Personeelskosten:* som van de volgende onderdelen van de bedrijfslasten die van het organisatorisch verband in het tweede jaar voorafgaand aan het subsidiejaar: 
 
-g.  *jaarrekening:* jaarrekening als bedoeld in artikel 361 van Boek 2 van het Burgerlijk Wetboek;  
+1°. lonen en salarissen;  
 
-h.  *accountant:* accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek;  
+2°. sociale lasten;  
 
-i.  *strategisch opleidingsplan:* een met het personeel of een personeelsvertegenwoordiging afgestemd actueel strategisch opleidingsplan van het organisatorisch verband met een planperiode van minimaal 4 jaar, waaronder het subsidiejaar, met betrekking tot ten minste de gewenste omvang van het personeel naar kwalificatieniveau en kwalificatierichting en de daartoe benodigde opleidingsinspanningen om dat te realiseren;  
+3°. pensioenpremies;  
 
-j.  *opleidingsfaciliteiten:* voorzieningen die specifiek opgezet zijn en gebruikt worden voor het opleiden van personeel.   
+4°. andere personeelskosten;   
+
+g. *subsidiejaar:* kalenderjaar ten behoeve waarvan de subsidie wordt verstrekt;  
+
+h. *jaarrekening:* jaarrekening als bedoeld in artikel 361 van Boek 2 van het Burgerlijk Wetboek;  
+
+i. *accountant:* accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek;  
+
+j. *strategisch opleidingsplan:* een met het personeel of een personeelsvertegenwoordiging afgestemd actueel strategisch opleidingsplan van het organisatorisch verband met een planperiode van minimaal 4 jaar, waaronder het subsidiejaar, met betrekking tot ten minste de gewenste omvang van het personeel naar kwalificatieniveau en kwalificatierichting en de daartoe benodigde opleidingsinspanningen om dat te realiseren;  
+
+k. *opleidingsfaciliteiten:* voorzieningen die specifiek opgezet zijn en gebruikt worden voor het opleiden van personeel.   
 
 ### Artikel  2  
 
 1.  De minister kan in de periode 2014 tot en met 2017 aan een instelling jaarlijks een subsidie verstrekken ten behoeve van een organisatorisch verband met een toelating als bedoeld in artikel 5 van de Wet toelating zorginstellingen voor het verlenen van zorg waarop aanspraak bestaat ingevolge een zorgverzekering als bedoeld in artikel 1, onderdeel d, van de Zorgverzekeringswet.   
-2.  In afwijking van het eerste lid wordt geen subsidie verstrekt: 
-
-a. aan academische ziekenhuizen;  
-
-b. ten behoeve van een organisatorisch verband dat in het kader van de Zorgverzekeringswet uitsluitend geneeskundige geestelijke gezondheidszorg verleent.     
+2.  In afwijking van het eerste lid wordt geen subsidie verstrekt ten behoeve van een organisatorisch verband dat in het kader van de Zorgverzekeringswet uitsluitend geneeskundige geestelijke gezondheidszorg verleent.   
 3.  De subsidie wordt uitsluitend verstrekt voor interne en externe opleidingen van personeel, voor het begeleiden van personeel in het kader van de opleiding, voor het vervangen van personeel dat opgeleid wordt en voor opleidingsfaciliteiten.   
-4.  Onder personeel wordt verstaan de natuurlijke personen die op basis van een schriftelijke arbeidsovereenkomst met de instelling werkzaam zijn in het organisatorisch verband waarvoor de subsidie wordt verstrekt.   
+4.  Onder personeel wordt verstaan de natuurlijke personen die op basis van een schriftelijke arbeidsovereenkomst met de instelling of van een schriftelijke aanstelling van de instelling werkzaam zijn in het organisatorisch verband waarvoor de subsidie wordt verstrekt.   
 5.  De subsidie wordt voorts uitsluitend verstrekt voor activiteiten die passen binnen het strategisch opleidingsplan.   
 6.  In afwijking van het derde lid wordt geen subsidie verstrekt voor activiteiten ten behoeve van: 
 
@@ -73,12 +79,18 @@ B: de som van de Zvw-omzet van alle organisatorisch verbanden ten behoeve waarva
 
 C: het uit hoofde van het subsidieplafond beschikbare bedrag;  
 
-D: het maximum bedrag van de subsidie voor het organisatorische verband.    
+D: het maximum bedrag van de subsidie voor het organisatorische verband.     
+4.  In afwijking van het tweede lid bedraagt het subsidieplafond voor de universitair medische centra voor de periode 2015–2017 jaarlijks € 37.012.505.   
+5.  Het uit hoofde van het subsidieplafond beschikbare bedrag voor de universitair medische centra wordt verdeeld volgens de in het derde lid bedoelde formule met dien verstande dat daarbij, anders dan in het derde lid, wordt verstaan onder: 
+
+A: de personeelskosten van het organisatorisch verband ten behoeve waarvan de subsidie wordt verstrekt;  
+
+B: de som van de personeelskosten van alle organisatorisch verbanden ten behoeve waarvan subsidie wordt verstrekt.   
 
 ### Artikel  4  
 
 1.  De subsidie wordt op aanvraag vastgesteld.   
-2.  De subsidieaanvrager doet opgave van de Zvw-omzet en de toelating in het kader van de WTZi.   
+2.   De subsidieaanvrager doet opgave van de toelating in het kader van de WTZi en opgave van de personeelskosten indien het een subsidieaanvraag van een universitair medisch centrum betreft dan wel opgave van de Zvw-omzet indien het een subsidieaanvraag van een overige instelling betreft.   
 3.  De aanvraag gaat vergezeld van: 
 
 a. het strategisch opleidingsplan, tenzij de minister uit hoofde van eerder verstrekte subsidies op grond van deze regeling reeds over de actuele versie beschikt;  
@@ -150,6 +162,7 @@ De minister kan bij de verstrekking van de subsidie verplichtingen opleggen als 
 4.  In afwijking van artikel 5, eerste lid, besluit de minister over aanvragen voor het jaar 2014 binnen tien weken na de in het derde lid bedoelde termijn over de vaststelling van de subsidie.  
 5. In afwijking van artikel 4, zevende lid, wordt de aanvraag van de subsidie ten behoeve van het jaar 2015 uiterlijk 15 februari 2015 ontvangen.
 6. In afwijking van artikel 5, eerste lid, besluit de minister over aanvragen voor het jaar 2015 binnen tien weken na de in het vijfde lid bedoelde termijn over de vaststelling van de subsidie.
+7.  In afwijking van artikel 4, derde lid, onder a, ontvangt de minister uiterlijk 1 juli 2015 het strategisch opleidingsplan van de universitair medische centra ten behoeve van het jaar 2015.
 
 ### Artikel  12  
 

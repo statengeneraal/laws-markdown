@@ -8,9 +8,9 @@ Besluit:
 
 ### Artikel  1  
 
-1. Het college van burgemeester en wethouders, gedeputeerde staten, het dagelijks bestuur van het waterschap, onderscheidenlijk de Sociaal-Economische Raad draagt er zorg voor dat de betrouwbaarheid en de beveiliging van de elektronische uitgifte en beschikbaarstelling van het gemeenteblad, het provinciaal blad, het waterschapsblad en het Verordeningenblad Bedrijfsorganisatie voldoen aan de volgende eisen: 
+1. Het college van burgemeester en wethouders, gedeputeerde staten onderscheidenlijk het dagelijks bestuur van het waterschap draagt onderscheidenlijk dragen er zorg voor dat de betrouwbaarheid en de beveiliging van de elektronische uitgifte en beschikbaarstelling van het gemeenteblad, het provinciaal blad en het waterschapsblad voldoen aan de volgende eisen: 
 
-a. De publicaties worden uitgegeven en beschikbaar gehouden in het bestandsformaat PDF/A-1a (ISO 19005-1:2005). Publicaties die persoonsgegevens bevatten waarbij het uit een oogpunt van privacybescherming ongewenst is dat deze door middel van een zoekmachine kunnen worden gevonden, kunnen in afwijking van de eerste volzin worden uitgegeven en beschikbaar gehouden in het bestandsformaat PDF/A-1b (ISO 19005-1:2005).  
+a. De publicaties worden uitgegeven en beschikbaar gehouden in het bestandsformaat PDF/A-1a (ISO 19005-1:2005) of PDF/A-2a (ISO 19005-2:2011). Publicaties die persoonsgegevens bevatten waarbij het uit een oogpunt van privacybescherming ongewenst is dat deze door middel van een zoekmachine kunnen worden gevonden, kunnen in afwijking van de eerste volzin worden uitgegeven en beschikbaar gehouden in het bestandsformaat PDF/A-1b (ISO 19005-1:2005) of PDF/A-2b (ISO 19005-2:2011).  
 
 b. Het systeem voor gegevensverwerking waarmee de publicaties worden uitgegeven en beschikbaar gehouden, voldoet aan hoge continuïteitseisen.  
 
@@ -22,7 +22,6 @@ e. Van elke publicatie wordt een elektronische kopie gemaakt, die wordt opgeslag
 2. Indien het afkondigingsblad van het openbare lichaam Bonaire, Sint Eustatius of Saba elektronisch wordt uitgegeven, draagt het bestuurscollege er zorg voor dat de betrouwbaarheid en de beveiliging van de elektronische uitgifte en beschikbaarstelling van het afkondigingsblad voldoen aan de eisen, genoemd in het eerste lid.
 
 ### Artikel  1a  
-Treedt in werking per 01-01-2015 
 
 1.  Een publicatieblad als bedoeld in de artikelen 32ja, 45ba, 50daa, 56aa, 65aa, 78aa en 88aa van de Wet gemeenschappelijke regelingen is toegankelijk via het internetadres www.officielebekendmakingen.nl.   
 2.  Indien een publicatieblad als bedoeld in het eerste lid is ingesteld: 
@@ -44,11 +43,13 @@ d. Indien een tekst naar verwachting effecten zal hebben voor belanghebbenden di
 
 ### Artikel  2  
 
-1.  Het college van burgemeester en wethouders draagt er zorg voor dat de beschikbaarstelling van geconsolideerde teksten, bedoeld in artikel 140, eerste lid, van de Gemeentewet, plaatsvindt met inachtneming van de delen III (Consolidatie), IV (Wetstechnische informatie) en VI (Metadata, XML-schema en Webservices) van het Internetpublicatiemodel Decentrale Regelgeving, versie 4.0, dat ter inzage is gelegd bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, Schedeldoekshaven 200 te Den Haag.   
+1.  Het college van burgemeester en wethouders draagt er zorg voor dat de beschikbaarstelling van geconsolideerde teksten, bedoeld in artikel 140, eerste lid, van de Gemeentewet, plaatsvindt met inachtneming van de delen III (Consolidatie), IV (Wetstechnische informatie) en VI (Metadata, XML-schema en Webservices) van het Internetpublicatiemodel Decentrale Regelgeving, versie 4.0, dat ter inzage is gelegd bij het Kennis- en Exploitatiecentrum Officiële Overheidspublicaties van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, Wilhelmina van Pruisenweg 52 te Den Haag.   
 2.  Gedeputeerde staten dragen er zorg voor dat de beschikbaarstelling van geconsolideerde teksten, bedoeld in artikel 137, eerste lid, van de Provinciewet, plaatsvindt met inachtneming van de delen III (Consolidatie), IV (Wetstechnische informatie) en VI (Metadata, XML-schema en Webservices) van het Internetpublicatiemodel Decentrale Regelgeving, bedoeld in het eerste lid.   
 3.  Het dagelijks bestuur van het waterschap draagt er zorg voor dat de beschikbaarstelling van geconsolideerde teksten, bedoeld in artikel 73a, eerste lid, van de Waterschapswet, plaatsvindt met inachtneming van de delen III (Consolidatie), IV (Wetstechnische informatie) en VI (Metadata, XML-schema en Webservices) van het Internetpublicatiemodel Decentrale Regelgeving, bedoeld in het eerste lid.  
-4. Het bestuurscollege draagt er zorg voor dat de beschikbaarstelling van geconsolideerde teksten, bedoeld in artikel 143, eerste lid, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba, plaatsvindt met inachtneming van de delen III (Consolidatie), IV (Wetstechnische informatie) en VI (Metadata, XML-schema en Webservices) van het Internetpublicatiemodel Decentrale Regelgeving, versie 4.0, dat ter inzage is gelegd bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, Schedeldoekshaven 200 te Den Haag. 
-5.  De beschikbaarstelling van geconsolideerde teksten, bedoeld in de artikelen 38a, eerste lid, en 106a, eerste lid, van de Wet op de bedrijfsorganisatie, vindt plaats via het internetadres www.wetten.nl.  
+4. Het bestuurscollege draagt er zorg voor dat de beschikbaarstelling van geconsolideerde teksten, bedoeld in artikel 143, eerste lid, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba, plaatsvindt met inachtneming van de delen III (Consolidatie), IV (Wetstechnische informatie) en VI (Metadata, XML-schema en Webservices) van het Internetpublicatiemodel Decentrale Regelgeving, bedoeld in het eerste lid. 
+5.  De beschikbaarstelling van geconsolideerde teksten, bedoeld in artikel 38a, eerste lid, van de Wet op de sociaaleconomische Raad, vindt plaats via het internetadres www.wetten.nl.   
+6.  Het gemeentebestuur, bedoeld in de artikelen 26 en 62a van de Wet gemeenschappelijke regelingen, onderscheidenlijk het provinciebestuur, bedoeld in de artikelen 42, 53, 75 en 85 van die wet, draagt er zorg voor dat de beschikbaarstelling van geconsolideerde teksten, bedoeld in het tweede lid van de artikelen 26 en 62a van de Wet gemeenschappelijke regelingen in samenhang met artikel 140 van de Gemeentewet onderscheidenlijk het tweede lid van de artikelen 42, 53, 75 en 85 van de Wet gemeenschappelijke regelingen in samenhang met artikel 137 van de Provinciewet, plaatsvindt met inachtneming van de delen III (Consolidatie), IV (Wetstechnische informatie) en VI (Metadata, XML-schema en Webservices) van het Internetpublicatiemodel Decentrale Regelgeving, bedoeld in het eerste lid.   
+7.  Het bestuur van het openbaar lichaam draagt er zorg voor dat de beschikbaarstelling van geconsolideerde teksten, bedoeld in het eerste lid van de artikelen 32l, 45d, 50dc, 56c, 65c, 78c en 88c van de Wet gemeenschappelijke regelingen, plaatsvindt met inachtneming van de delen III (Consolidatie), IV (Wetstechnische informatie) en VI (Metadata, XML-schema en Webservices) van het Internetpublicatiemodel Decentrale Regelgeving, bedoeld in het eerste lid. 
 
 ### Artikel  3  
 
@@ -73,8 +74,6 @@ A.Th.B. Bijleveld-Schouten
 
 ####, bedoeld in artikel 1a, tweede lid, onder a , van de Regeling elektronische bekendmaking en beschikbaarstelling regelgeving decentrale overheden
 
-Treedt in werking per 01-01-2015 
-
 Gegevens over het openbaar lichaam 
 
 | Gegeven  | Toelichting  | Invoerwijze  |
@@ -90,8 +89,6 @@ Gegevens over het openbaar lichaam
 ### Bijlage  2  
 
 ####, bedoeld in artikel 1a, tweede lid, onder b , van de Regeling elektronische bekendmaking en beschikbaarstelling regelgeving decentrale overheden
-
-Treedt in werking per 01-01-2015 
 
 Gegevens over de te publiceren teksten 
 

@@ -23,7 +23,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1a  
 
-1.  Indien het afkondigingsblad van het openbaar lichaam elektronisch wordt uitgegeven, geschiedt dat door plaatsing op een door het bestuurscollege te bepalen internetadres.   
+1.  Indien het afkondigingsblad, bedoeld in artikel 142, tweede lid, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba, elektronisch wordt uitgegeven, geschiedt dat door plaatsing op een door het bestuurscollege te bepalen internetadres.   
 2.  Het bestuurscollege draagt er zorg voor dat het afkondigingsblad na de uitgifte elektronisch op een algemeen toegankelijke wijze beschikbaar blijft en dat daarbij wordt vermeld wanneer het is uitgegeven.  
 
 ### Artikel  2  
@@ -36,18 +36,12 @@ Hebben goedgevonden en verstaan:
 1.  Het waterschapsblad wordt uitgegeven op een door het dagelijks bestuur van het waterschap te bepalen internetadres.   
 2.  Het dagelijks bestuur van het waterschap draagt er zorg voor dat het waterschapsblad na de uitgifte elektronisch op een algemeen toegankelijke wijze beschikbaar blijft en dat daarbij wordt vermeld wanneer het is uitgegeven.  
 
-### Artikel  4  
-
-1.  Indien het Verordeningenblad Bedrijfsorganisatie elektronisch wordt uitgegeven, geschiedt dat door plaatsing op een door de Sociaal-Economische Raad te bepalen internetadres.   
-2.  De Sociaal-Economische Raad draagt er zorg voor dat het Verordeningenblad Bedrijfsorganisatie na de uitgifte elektronisch op een algemeen toegankelijke wijze beschikbaar blijft en dat daarbij wordt vermeld wanneer het is uitgegeven.  
-
 ### Artikel  5  
 
-1.  Het college van burgemeester en wethouders, het bestuurscollege, gedeputeerde staten, het dagelijks bestuur van het waterschap, onderscheidenlijk de Sociaal-Economische Raad draagt er zorg voor dat de nodige maatregelen worden getroffen ter waarborging van de betrouwbaarheid en de beveiliging van de elektronische uitgifte en de beschikbaarstelling van het gemeenteblad, het afkondigingsblad, het provinciaal blad, het waterschapsblad, onderscheidenlijk het Verordeningenblad Bedrijfsorganisatie.   
+1.  Het college van burgemeester en wethouders, het bestuurscollege, gedeputeerde staten onderscheidenlijk het dagelijks bestuur van het waterschap draagt er zorg voor dat de nodige maatregelen worden getroffen ter waarborging van de betrouwbaarheid en de beveiliging van de elektronische uitgifte en de beschikbaarstelling van het gemeenteblad, het afkondigingsblad, het provinciaal blad onderscheidenlijk het waterschapsblad.   
 2.  Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent het eerste lid.  
 
 ### Artikel  5a  
-Treedt in werking per 01-01-2015 
 
 Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties stelt nadere regels over de uitgifte en de beschikbaarheid van publicatiebladen als bedoeld in de artikelen 32ja, 45ba, 50daa, 56aa, 65aa, 78aa en 88aa van de Wet gemeenschappelijke regelingen, alsmede over de kosten in verband met de uitgifte en de beschikbaarheid. 
 
@@ -105,7 +99,7 @@ c. bijlagen bij besluiten, die zich naar hun aard niet lenen voor elektronische 
 
 ### Artikel  9  
 
-1.  De teksten van besluiten die overeenkomstig artikel 38, derde lid, of artikel 106 van de Wet op de bedrijfsorganisatie zijn bekendgemaakt en algemeen verbindende voorschriften inhouden, zijn in geconsolideerde vorm voor een ieder beschikbaar door plaatsing op internet.   
+1.  De teksten van besluiten die overeenkomstig artikel 38, derde lid, van de Wet op de sociaaleconomische Raad zijn bekendgemaakt en algemeen verbindende voorschriften inhouden, zijn in geconsolideerde vorm voor een ieder beschikbaar door plaatsing op internet.   
 2.  Het eerste lid is niet van toepassing op: 
 
 a. besluiten die zijn vervallen of uitgewerkt vóór het tijdstip waarop dit artikel in werking is getreden;  
@@ -115,7 +109,6 @@ b. besluiten voor zover deze strekken tot wijziging van een of meer besluiten;
 c. bijlagen bij besluiten, die zich naar hun aard niet lenen voor elektronische beschikbaarstelling.    
 
 ### Artikel  9a  
-Treedt in werking per 01-01-2015 
 
 1.  De teksten van regelingen als bedoeld in de artikelen 26, 42, 53, 62a, 75 en 85 van de Wet gemeenschappelijke regelingen zijn in geconsolideerde vorm voor een ieder beschikbaar door plaatsing op internet.   
 2.  Het eerste lid is niet van toepassing op: 
@@ -127,7 +120,6 @@ b. regelingen voor zover deze strekken tot wijziging van een of meer regelingen;
 c. bijlagen bij regelingen, die zich naar hun aard niet lenen voor elektronische beschikbaarstelling.    
 
 ### Artikel  9b  
-Treedt in werking per 01-01-2015 
 
 1.  De teksten van besluiten als bedoeld in het eerste lid van de artikelen 32l, 45d, 50dc, 56c, 65c, 78c en 88c van de Wet gemeenschappelijke regelingen zijn in geconsolideerde vorm voor een ieder beschikbaar door plaatsing op internet.   
 2.  Het eerste lid is niet van toepassing op: 

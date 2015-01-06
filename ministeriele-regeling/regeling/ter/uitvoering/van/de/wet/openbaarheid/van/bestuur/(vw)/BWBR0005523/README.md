@@ -3,15 +3,15 @@
 ##Regeling ter uitvoering van de Wet Openbaarheid van bestuur (VW)
 
 De Minister van Verkeer en Waterstaat,  
-Overwegende dat de toepassing van de [Wet openbaarheid van bestuur](../../../../../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) (Stb. 1991, 703) aanleiding geeft tot het vaststellen van een regeling ter uitvoering van die wet,
-Besluit: Vast te stellen de volgende regeling ter uitvoering van de [Wet openbaarheid van bestuur](../../../../../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md).     
+Overwegende dat de toepassing van de Wet openbaarheid van bestuur (Stb. 1991, 703) aanleiding geeft tot het vaststellen van een regeling ter uitvoering van die wet,
+Besluit: Vast te stellen de volgende regeling ter uitvoering van de Wet openbaarheid van bestuur.     
 ### Hoofdstuk  1  
 
 ####Definities
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder:   de wet:  de [Wet openbaarheid van bestuur](../../../../../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) (Stb. 1991, 703);    gemachtigd ambtenaar:  een ambtenaar die door de minister tot het beslissen over verzoeken om informatie is gemachtigd;    informatiepunt:   een persoon of plaats binnen het ministerie en binnen de daaronder ressorterende instelling diensten of bedrijven waar informatie kan worden verkregen;    de minister:   de minister van Verkeer en Waterstaat.    
+In deze regeling wordt verstaan onder:   de wet:  de Wet openbaarheid van bestuur (Stb. 1991, 703);    gemachtigd ambtenaar:  een ambtenaar die door de minister tot het beslissen over verzoeken om informatie is gemachtigd;    informatiepunt:   een persoon of plaats binnen het ministerie en binnen de daaronder ressorterende instelling diensten of bedrijven waar informatie kan worden verkregen;    de minister:   de minister van Verkeer en Waterstaat.    
 
 ### Artikel  2  
 
@@ -47,16 +47,6 @@ Als gemachtigd ambtenaar wordt aangewezen de Secretaris-Generaal, en bij diens a
 
 1.  Het behandelen van verzoeken om informatie en vragen daaromtrent geschiedt door de dienstonderdelen die met voorlichting zijn belast, voor zover het niet door de minister zelf geschiedt, of door hem in bepaalde gevallen aan anderen is opgedragen.   
 2.  Het in het eerste lid gestelde doet geen afbreuk aan de uit de normale taakuitoefening voortvloeiende plicht van de ambtenaar om aan particuliere personen en instanties met wie hij door zijn functie in contact komt, informatie op verzoek te verschaffen over de daarbij aan de orde zijnde aangelegenheden.  
-
-### Artikel  6  
-
-De in artikel 5 bedoelde dienstonderdelen en ambtenaren leiden een verzoek om informatie ter beslissing door naar de gemachtigd ambtenaar indien zij: 
-
-a. in geval van een mondeling verzoek om informatie van oordeel zijn dat het verzoek op grond van de bij of krachtens de wet gestelde regels niet kan worden ingewilligd en de verzoeker om een schriftelijke beslissing vraagt; 
-
-b. weten of redelijkerwijs kunnen vermoeden dat de geldende voorschriften ruimte laten voor verschillende uitleg over de vraag of een verzoek om informatie al dan niet behoort te worden ingewilligd; 
-
-c. weten of redelijkerwijs kunnen vermoeden dat inwilliging of weigering van een verzoek om informatie belangrijke politieke, bestuurlijke of maatschappelijke gevolgen kan hebben.  
 
 ### Artikel  7  
 
@@ -105,7 +95,7 @@ De
 Minister van Verkeer en Waterstaat, 
 J. R. H.  Maij-Weggen     
 
-####Register van niet-ambtelijke adviescommissies, bedoeld in artikel 2, eerste lid, sub b, van de regeling van 20 mei 1992 , ter uitvoering van de [Wet openbaarheid van Bestuur](../../../../../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) <sup> 1  Informatie over de werkzaamheden en/of de uitgebrachte adviezen kan worden ingewonnen bij de Directie Voorlichting, Documentatie en Bibliotheek van het ministerie van Verkeer en Waterstaat.  </sup>
+####Register van niet-ambtelijke adviescommissies, bedoeld in artikel 2, eerste lid, sub b, van de regeling van 20 mei 1992 , ter uitvoering van de Wet openbaarheid van Bestuur <sup> 1  Informatie over de werkzaamheden en/of de uitgebrachte adviezen kan worden ingewonnen bij de Directie Voorlichting, Documentatie en Bibliotheek van het ministerie van Verkeer en Waterstaat.  </sup>
 
 De Voorlopige raad van advies voor Post en Telecommunicatie  
 
@@ -139,6 +129,6 @@ De bevrachtingscommissie, bedoeld in het Beursreglement
 
 De Commissie onderzoek toekomstige relatie tussen de rijksoverheid en de N.V. Nederlandse Spoorwegen.   
 
-####Register van de onder verantwoordelijkheid van de minister werkzame instellingen, diensten en bedrijven, bedoeld in artikel 2, eerste lid, sub a, van de regeling van 20 mei 1992, ter uitvoering van de [Wet Openbaarheid van Bestuur](../../../../../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md)
+####Register van de onder verantwoordelijkheid van de minister werkzame instellingen, diensten en bedrijven, bedoeld in artikel 2, eerste lid, sub a, van de regeling van 20 mei 1992, ter uitvoering van de Wet Openbaarheid van Bestuur
 
 De Stichting Centraal Bureau Rijvaardigheidsbewijzen, P. C. Boutenslaan 1, 2283 GR Rijswijk informatiepunt: 070-3981300.  

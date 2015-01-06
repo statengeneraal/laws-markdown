@@ -32,7 +32,7 @@ a.  *Onze Minister:* Onze Minister van Financiën;
 
 b.  *Onze Ministers:* Onze Minister van Financiën en Onze Minister van Infrastructuur en Milieu; 
 
-c.  *GN-code:* de code, bedoeld in Verordening (EEG) nr. 2658/87 van de Raad van 23 juli 1987 met betrekking tot de tarief- en statistieknomenclatuur en het gemeenschappelijk douanetarief (PbEG 1987, L 256), zoals deze luidde op 19 oktober 1992 onderscheidenlijk, indien het minerale oliën betreft, op 1 januari 2002.     
+c.  *GN-code:* de code, bedoeld in Verordening (EEG) nr. 2658/87 van de Raad van 23 juli 1987 met betrekking tot de tarief- en statistieknomenclatuur en het gemeenschappelijk douanetarief (PbEG 1987, L 256), zoals deze luidde op 1 januari 2002.     
 2.  Bij regeling van Onze Minister kunnen de GN-codes, genoemd in deze wet en de daarop berustende bepalingen worden aangepast indien de overeenkomstige GN-codes zoals opgenomen in Richtlijn 2003/96/EG van de Raad van 27 oktober 2003 tot herstructurering van de communautaire regeling voor de belasting van energieproducten en elektriciteit (PbEU 2003, L 283), in overeenstemming met artikel 2, vijfde lid, van die richtlijn zijn aangepast. In dat geval kan bij regeling van Onze Minister eveneens de laatstgenoemde datum in het eerste lid, onderdeel b, worden vervangen door de datum van de versie van de in dat onderdeel bedoelde verordening die aan de wijziging van de GN-codes ten grondslag heeft gelegen. 
 
 ### Hoofdstuk  II  
@@ -87,7 +87,7 @@ Vervallen per 01-01-2012
 
 ### Artikel  12  
 
-Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder: 
+1. Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder: 
 
 a. leidingwater: water dat door een drinkwaterbedrijf of een afzonderlijke watervoorziening aan derden ter beschikking wordt gesteld, al dan niet van drinkwaterkwaliteit;  
 
@@ -97,7 +97,22 @@ c. afzonderlijke watervoorziening: landgebonden voorziening, niet zijnde een dri
 
 d. aansluiting: een aansluiting van een in Nederland gelegen onroerende zaak als bedoeld in artikel 16, onderdelen a tot en met e, van de Wet waardering onroerende zaken, op het distributienet van een drinkwaterbedrijf of van een afzonderlijke watervoorziening, waaruit leidingwater aan de verbruiker wordt geleverd; een aansluiting kan bestaan uit een of meer leveringspunten;  
 
-e. particuliere installatie voor centrale watervoorziening: installatie voor de levering van water aan meer dan een onroerende zaak als bedoeld in artikel 16, onderdelen a tot en met e, van de Wet waardering onroerende zaken, welke installatie permanent is aangesloten op het distributienet van een drinkwaterbedrijf of van een afzonderlijke watervoorziening.   
+e. particuliere installatie voor centrale watervoorziening: installatie voor de levering van water aan meer dan een onroerende zaak als bedoeld in artikel 16, onderdelen a tot en met e, van de Wet waardering onroerende zaken, welke installatie permanent is aangesloten op het distributienet van een drinkwaterbedrijf of van een afzonderlijke watervoorziening;  
+
+f. verbruiksperiode:
+
+1°. in gevallen waarin een voorschotnota wordt uitgereikt of, indien geen voorschotnota wordt uitgereikt, een voorschotbedrag wordt ontvangen: tijdvak waarop de eindfactuur betrekking heeft;  
+
+2°. in overige gevallen: kalenderjaar;   
+
+g.  eindfactuur: definitieve factuur waarin verrekening plaatsvindt met de voorschotnota’s of voorschotbedragen die betrekking hebben op het tijdvak waarop de factuur ziet;  
+
+h.  verbruiker: degene die, anders dan in de hoedanigheid van drinkwaterbedrijf of afzonderlijke watervoorziening, leidingwater verkrijgt van een drinkwaterbedrijf of afzonderlijke watervoorziening.   
+2.  In afwijking van het eerste lid, onderdeel f, onder 2°, is de verbruiksperiode in de aldaar bedoelde gevallen: 
+
+a. ingeval de overeenkomst tot levering in de loop van het kalenderjaar aanvangt: het gedeelte van het kalenderjaar vanaf het tijdstip waarop de overeenkomst tot levering aanvangt;  
+
+b. ingeval de overeenkomst tot levering in de loop van het kalenderjaar wordt beëindigd: het gedeelte van het kalenderjaar tot het tijdstip waarop de overeenkomst tot levering eindigt.   
 
 ### Afdeling  2  
 
@@ -109,7 +124,10 @@ Onder de naam belasting op leidingwater wordt een belasting geheven op leidingwa
 
 ### Artikel  14  
 
-De belasting wordt geheven ter zake van de levering van leidingwater via een aansluiting aan de verbruiker. 
+1.  De belasting wordt geheven ter zake van de levering van leidingwater via een aansluiting aan de verbruiker, met dien verstande dat de belasting wordt geheven over een hoeveelheid van maximaal 300 kubieke meter per verbruiksperiode van twaalf maanden per aansluiting.   
+2.  Bij een verbruiksperiode korter dan wel langer dan twaalf maanden wordt de in het eerste lid genoemde hoeveelheidsgrens naar evenredigheid verlaagd, onderscheidenlijk verhoogd.   
+3.  Bij de levering van leidingwater aan een particuliere installatie voor centrale watervoorziening wordt, in afwijking in zoverre van het eerste lid, de belasting geheven over de totale hoeveelheid geleverd water, met dien verstande dat, indien de exploitant van de installatie aan degene die het leidingwater heeft geleverd een verklaring heeft overgelegd waarin opgaaf wordt gedaan van het aantal onroerende zaken als bedoeld in artikel 16, onderdelen a tot en met e, van de Wet waardering onroerende zaken dat door de installatie van water wordt voorzien, ten hoogste wordt geheven over een hoeveelheid van 300 kubieke meter vermenigvuldigd met dat aantal.   
+4.  Bij regeling van Onze Minister worden nadere regels gesteld ten behoeve van de uitvoering van dit artikel.  
 
 ### Artikel  15  
 
@@ -137,9 +155,9 @@ a.in gevallen waarin een voorschotnota wordt uitgereikt of, indien geen voorscho
 b.in gevallen waarin geen voorschotnota wordt uitgereikt en geen voorschotbedrag wordt ontvangen, op het tijdstip van de uitreiking van de factuur;
 
 c.in overige gevallen op het tijdstip waarop de levering plaatsvindt. 
-2. Voor de toepassing van het eerste lid, onderdeel a, onder 1°, in samenhang met artikel 14, eerste lid, wordt de hoeveelheid leidingwater, waarop de voorschotnota dan wel het voorschotbedrag is gebaseerd, aangemerkt als geleverde hoeveelheid.
-3. Onder de in het eerste lid, onderdeel a, onder 2°, bedoelde eindfactuur wordt verstaan de factuur die wordt opgemaakt na afloop van een verbruiksperiode en waarin verrekening plaatsvindt met de op deze verbruiksperiode betrekking hebbende voorschotbedragen.
-4. Indien de in het vierde lid bedoelde verrekening leidt tot een lager bedrag dan over de verbruiksperiode aan belasting is voldaan, wordt het verschil in mindering gebracht op de aangifte over het tijdvak waarin de eindfactuur is uitgereikt.
+2. Voor de toepassing van het eerste lid, onderdeel a, onder 1°, in samenhang met artikel 14, eerste lid, wordt de hoeveelheid leidingwater, waarop de voorschotnota dan wel het voorschotbedrag is gebaseerd, aangemerkt als geleverde hoeveelheid. 
+3.  In gevallen waarin per verbruiksperiode van twaalf maanden meer dan 300 kubieke meter leidingwater via een aansluiting aan een verbruiker wordt geleverd en ter zake van die levering voorschotnota’s worden uitgereikt of voorschotbedragen worden ontvangen, wordt bij de berekening van de op de verbruiksperiode betrekking hebbende voorschotbedragen naar evenredigheid rekening gehouden met de belasting die overeenkomstig artikel 14, eerste lid, ter zake van de hoeveelheid van 300 kubieke meter is verschuldigd. 
+4. Indien de verrekening, bedoeld in artikel 12, eerste lid, onderdeel g, leidt tot een lager bedrag dan over de verbruiksperiode aan belasting is voldaan, wordt het verschil in mindering gebracht op de aangifte over het tijdvak waarin de eindfactuur is uitgereikt.
 
 ### Afdeling  4  
 
@@ -147,21 +165,11 @@ c.in overige gevallen op het tijdstip waarop de levering plaatsvindt.
 
 ### Artikel  18  
 
-1.  Het tarief bedraagt voor het gedeelte van de geleverde hoeveelheid per verbruiksperiode van twaalf maanden per aansluiting dat: 
+Het tarief bedraagt € 0,333 per kubieke meter leidingwater. 
 
-a. niet hoger is dan 300 kubieke meter: € 0,330 per kubieke meter;  
+### Artikel  18a  
 
-b. hoger is dan 300 kubieke meter, maar niet hoger dan 50.000 kubieke meter: € 0,400 per kubieke meter;  
-
-c. hoger is dan 50.000 kubieke meter, maar niet hoger dan 250.000 kubieke meter: € 0,360 per kubieke meter;  
-
-d. hoger is dan 250.000 kubieke meter, maar niet hoger dan 1.250.000 kubieke meter: € 0,260 per kubieke meter;  
-
-e. hoger is dan 1.250.000 kubieke meter: € 0,050 per kubieke meter.     
-2.  In afwijking van het eerste lid bedraagt het tarief voor leidingwater € 0,330 per kubieke meter voor de totale hoeveelheid leidingwater die wordt geleverd aan een particuliere installatie voor centrale watervoorziening.   
-3.  Voor de toepassing van het eerste lid wordt de geleverde hoeveelheid in de periode die aanvangt met ingang van 1 januari 2014 en eindigt met ingang van 1 juli 2014 niet meegerekend.   
-4.  Bij een verbruiksperiode korter dan wel langer dan twaalf maanden worden de hoeveelheidsgrenzen, genoemd in het eerste lid, naar evenredigheid verlaagd, onderscheidenlijk verhoogd.   
-5.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld ten behoeve van de toepassing van dit artikel.  
+In de gevallen, bedoeld in artikel 12, tweede lid, onderdeel b, wordt de belasting ter zake van de leveringen die vanaf het begin van het kalenderjaar zijn verricht, herrekend met inachtneming van artikel 14, tweede lid. Indien deze herrekening leidt tot een hoger of lager belastingbedrag dan de belasting die zonder de herrekening over de gehele verbruiksperiode verschuldigd zou zijn, wordt de belasting die moet worden voldaan over het tijdvak waarin de overeenkomst tot levering wordt beëindigd dienovereenkomstig verhoogd onderscheidenlijk verlaagd. Bij de bepaling van de belasting die op de laatste factuur aan de verbruiker wordt vermeld, wordt de verhoging of verlaging, bedoeld in de tweede volzin, in aanmerking genomen. 
 
 ### Afdeling  5  
 
@@ -177,7 +185,7 @@ Vrijstelling van de belasting wordt verleend ter zake van de levering van leidin
 
 ### Artikel  20  
 
-1.  Op verzoek wordt teruggaaf van de belasting verleend voor zover de belasting over de hoeveelheden leidingwater die door een verbruiker in een verbruiksperiode van twaalf maanden van verschillende leveranciers zijn betrokken, hoger is dan de belasting die zou zijn verschuldigd indien sprake was van één leverancier.   
+1.  Op verzoek wordt teruggaaf van de belasting verleend voor zover de belasting over de hoeveelheden leidingwater die door een verbruiker gedurende dezelfde periode binnen een kalenderjaar van verschillende leveranciers zijn betrokken, hoger is dan de belasting die zou zijn verschuldigd indien sprake was van één leverancier.   
 2.  De teruggaaf, bedoeld in het eerste lid, wordt verleend aan de verbruiker.  
 3. Bij op voordracht van Onze Minister vast te stellen algemene maatregel van bestuur worden regels gesteld met betrekking tot de indiening van het verzoek en de wijze waarop kan worden aangetoond dat aan de voorwaarden voor teruggaaf wordt voldaan.
 4. Bij regeling van Onze Minister worden nadere regels gesteld ten behoeve van de uitvoering van dit artikel. 
@@ -207,17 +215,21 @@ a.  *afvalstoffen:* afvalstoffen als bedoeld in de Wet milieubeheer, en zeer laa
 
 b.  *zeer laag radioactief afval:* radioactieve afvalstoffen van natuurlijke bronnen van ioniserende straling, waarin de activiteit van de betrokken natuurlijke bronnen op enig moment gelijk is aan of hoger is dan de in bijlage 1, tabel 1, van het Besluit stralingsbescherming vermelde waarde, en de activiteitsconcentratie van de betrokken natuurlijke bronnen gelijk is aan of hoger is dan de in bijlage 1, tabel 1, van het Besluit stralingsbescherming vermelde waarde en lager is dan tien maal die waarde;  
 
-c.  *verwijdering:* storten of verbranden van afvalstoffen, met uitzondering van verbranden met een hoofdgebruik als brandstof of een hoofdgebruik voor een andere wijze van energieopwekking;  
+c.  *verwijderen:* storten of verbranden van afvalstoffen;  
 
 d.  *nuttige toepassing:* nuttige toepassing als bedoeld in de Wet milieubeheer;  
 
 e.  *storten:* storten als bedoeld in de Wet milieubeheer;  
 
-f.  *inrichting:* een inrichting als bedoeld in de Wet milieubeheer, werken daaronder niet begrepen, waarin afvalstoffen worden verwijderd;  
+f. *inrichting:*
+
+1°. inrichting als bedoeld in de Wet milieubeheer, werken daaronder niet begrepen, waarin afvalstoffen worden gestort;  
+
+2°. inrichting als bedoeld in de Wet milieubeheer waarin blijkens een op grond van de Wet algemene bepalingen omgevingsrecht afgegeven omgevingsvergunning huishoudelijke afvalstoffen, gemengde bedrijfsafvalstoffen of gemengd sorteerresidu mogen, onderscheidenlijk mag, worden verbrand;    
 
 g. *baggerspecie:*
 
-1°. materiaal dat is vrijgekomen uit de bodem of oever van een oppervlaktelichaam en dat bestaat uit minerale delen met een maximale korrelgrootte van 2 millimeter en organische stof in een verhouding en met een structuur zoals deze in de bodem van nature worden aangetroffen, alsmede van nature in de bodem voorkomende schelpen en grind met een korrelgrootte van 2 tot 63 millimeter;  
+1°. materiaal dat is vrijgekomen uit de bodem of oever van een oppervlaktewaterlichaam en dat bestaat uit minerale delen met een maximale korrelgrootte van 2 millimeter en organische stof in een verhouding en met een structuur zoals deze in de bodem van nature worden aangetroffen, alsmede van nature in de bodem voorkomende schelpen en grind met een korrelgrootte van 2 tot 63 millimeter;  
 
 2°. sediment en het residu van de reiniging van baggerspecie;    
 
@@ -238,10 +250,12 @@ k.  *stortgas:* gas dat uit gestorte afvalstoffen vrijkomt als gevolg van biolog
 
 1.  Onder de naam afvalstoffenbelasting wordt een belasting geheven ter zake van: 
 
-a. de afgifte ter verwijdering van afvalstoffen aan een inrichting;  
+a. de afgifte ter verwijdering van afvalstoffen aan een inrichting, met uitzondering van afvalstoffen waarvan uit boeken en bescheiden blijkt dat zij naar Nederland zijn overgebracht in de zin van Verordening (EG) nr. 1013/2006 van het Europees parlement en de Raad van 14 juni 2006 betreffende de overbrenging van afvalstoffen (PbEU 2006, L 190);  
 
 b. de verwijdering van afvalstoffen binnen de inrichting waarin deze zijn ontstaan.     
-2.  De aan een inrichting afgegeven afvalstoffen worden geacht alle te zijn afgegeven ter verwijdering.  
+2.  De aan een inrichting afgegeven afvalstoffen worden geacht alle te zijn afgegeven ter verwijdering.   
+3.  De in het eerste lid, onderdeel a, bedoelde uitzondering voor afvalstoffen die naar Nederland zijn overgebracht geldt niet voor afvalstoffen die in Nederland zijn ontstaan of zijn vermengd met afvalstoffen die in Nederland zijn ontstaan.   
+4.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel. 
 
 ### Artikel  24  
 
@@ -277,6 +291,14 @@ b. hoeveel belasting ter zake van de stoffen, preparaten en voorwerpen geheven i
 5.  Bij op voordracht van Onze Minister vast te stellen algemene maatregel van bestuur kunnen voorwaarden en beperkingen worden gesteld waaronder de in het eerste lid bedoelde vermindering van belasting en het in het derde lid bedoelde verhoudingsgetal worden toegepast.   
 6.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.  
 
+### Artikel  27a  
+
+1.  Op de verschuldigde belasting wordt in mindering gebracht de belasting ter zake van stoffen, preparaten of voorwerpen die in de inrichting in een zodanige staat zijn gebracht, dat deze op grond van artikel 22, tweede lid, niet langer tot afvalstoffen worden gerekend.   
+2.  Het eerste lid is slechts van toepassing voor zover uit boeken en bescheiden blijkt dat ten aanzien van de stoffen, preparaten en voorwerpen wordt voldaan aan de voorwaarden en beperkingen, gesteld bij of krachtens artikel 22, tweede lid.   
+3.  Artikel 27, tweede lid, is van overeenkomstige toepassing.   
+4.  Bij op voordracht van Onze Minister vast te stellen algemene maatregel van bestuur kunnen voorwaarden en beperkingen worden gesteld waaronder de in het eerste lid bedoelde vermindering wordt toegepast.   
+5.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.  
+
 ### Afdeling  4  
 
 ####Tarief
@@ -285,10 +307,12 @@ b. hoeveel belasting ter zake van de stoffen, preparaten en voorwerpen geheven i
 
 1.  Het tarief bedraagt in geval van: 
 
-a. het storten van afvalstoffen: € 17,00 per 1.000 kilogram;  
+a. het storten van afvalstoffen: € 13,00 per 1.000 kilogram;  
 
-b. het verbranden van afvalstoffen: nihil.     
-2.  Bij regeling van Onze Minister kan worden bepaald dat het tarief voor het storten van afvalstoffen die ter verwijdering worden afgegeven in partijen die uitsluitend of nagenoeg uitsluitend bestaan uit door bij die regeling vast te stellen categorieën van gevaarlijke afvalstoffen, wordt vastgesteld tot een verlaagd percentage van het tarief, bedoeld in artikel 28a, dan wel tot nihil.  
+b. het verbranden van afvalstoffen in andere gevallen dan als bedoeld onder c: € 13,00 per 1.000 kilogram;  
+
+c. het verbranden van afvalstoffen in een installatie waarin op grond van bij of krachtens de Wet milieubeheer of de Wet algemene bepalingen omgevingsrecht gestelde voorschriften, dan wel een op grond van laatstgenoemde wet afgegeven omgevingsvergunning, geen huishoudelijke afvalstoffen, gemengde bedrijfsafvalstoffen en gemengd sorteerresidu mogen worden verbrand: nihil.     
+2.  Bij regeling van Onze Minister kan worden bepaald dat het tarief voor het storten van afvalstoffen die ter verwijdering worden afgegeven in partijen die uitsluitend of nagenoeg uitsluitend bestaan uit door bij die regeling vast te stellen categorieën van gevaarlijke afvalstoffen, wordt vastgesteld tot een verlaagd percentage van het tarief, bedoeld in het eerste lid, onderdeel a, dan wel tot nihil.  
 
 ### Afdeling  5*  
 
@@ -329,7 +353,7 @@ d. de kosten die verband houden met de toepassing van bestuursdwang, hieronder b
 
 ### Afdeling  8  
 
-####Overgangsregeling
+####Overgangsregelingen
 
 ### Artikel  31a  
 
@@ -345,7 +369,6 @@ b. voorraden van afvalstoffenstromen ten aanzien waarvan artikel XXXVIc, derde l
 6.  In afwijking van artikel 28 bedraagt de belasting die verschuldigd is op grond van het eerste lid, onderdeel b, het bedrag van de belasting ter zake van de voorraden van afvalstoffenstromen dat niet is of wordt geheven ingevolge artikel XXXVIc, derde lid, van het Belastingplan 2012.  
 
 ### Artikel  31b  
-Treedt in werking per 01-01-2015 
 
 1.  Met betrekking tot afvalstoffen als bedoeld in artikel 28, eerste lid, onderdeel b, die in de periode van 1 januari 2015 tot en met 30 juni 2015 worden afgegeven bij een inrichting als bedoeld in artikel 22, eerste lid, onderdeel f, onder 2<sup>o</sup>, is het tarief, in afwijking van artikel 28, eerste lid, onderdeel b, nihil, indien de houder van de inrichting aantoont dat deze afvalstoffen: 
 
@@ -505,7 +528,7 @@ De belasting wordt berekend over het gewicht van de kolen, uitgedrukt in kilogra
 
 ### Artikel 43 
 
-Het tarief bedraagt per 1000 kilogram kolen € 14,27.
+Het tarief bedraagt per 1000 kilogram kolen € 14,40.
 
 ### Afdeling  5  
 
@@ -626,8 +649,11 @@ z.  postcodegebied: een gebied waarbinnen de postcodes in het postcodesysteem be
 4.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot de toepassing van het eerste lid, onderdeel p.   
 5.  Met betrekking tot aardgas wordt onder distributienet verstaan een gastransportnet als bedoeld in artikel 1, eerste lid, onderdeel d, van de Gaswet.   
 6.  Indien in een tijdvak van 18 maanden een of meerdere voorschotnota’s worden uitgereikt dan wel een of meerdere voorschotbedragen worden ontvangen en uiterlijk binnen 13 weken na afloop van dat tijdvak geen eindfactuur wordt uitgereikt, wordt dat tijdvak van 18 maanden aangemerkt als verbruiksperiode.   
-7.  Met betrekking tot elektriciteit wordt onder directe lijn verstaan een directe lijn als bedoeld in artikel 1, eerste lid, onderdeel ar, van de Elektriciteitswet 1998.   
-8.  Met betrekking tot aardgas wordt onder directe lijn verstaan een directe lijn als bedoeld in artikel 1, eerste lid, onderdeel an, van de Gaswet. 
+7.  In afwijking van het eerste lid, onderdeel d, onder 2°, is de verbruiksperiode in de aldaar bedoelde gevallen: 
+
+a. ingeval de overeenkomst tot levering in de loop van het kalenderjaar aanvangt: het gedeelte van het kalenderjaar vanaf het tijdstip waarop de overeenkomst tot levering aanvangt;  
+
+b. ingeval de overeenkomst tot levering in de loop van het kalenderjaar wordt beëindigd: het gedeelte van het kalenderjaar tot het tijdstip waarop de overeenkomst tot levering eindigt.   
 
 ### Afdeling  2  
 
@@ -640,26 +666,29 @@ z.  postcodegebied: een gebied waarbinnen de postcodes in het postcodesysteem be
 
 ### Artikel 50 
 
-1. Met betrekking tot aardgas en elektriciteit wordt de belasting geheven ter zake van de levering via een aansluiting aan de verbruiker, alsmede ter zake van de levering van aardgas via een aansluiting aan een CNG-vulstation.
-2. Indien de verbruiker, bedoeld in het eerste lid, via een aansluiting elektriciteit op het distributienet heeft ingevoed ter zake waarvan artikel 31c, eerste en tweede lid, van de Elektriciteitswet 1998 wordt toegepast, is het eerste lid van toepassing op het positieve saldo van de via de aansluiting geleverde elektriciteit minus de via de aansluiting ingevoede elektriciteit.
-3. Indien een levering van aardgas of elektriciteit via een aansluiting wordt verricht aan een organisatorische eenheid die zich bezighoudt met het leveren van aardgas of elektriciteit dan wel aan een verbruiker die op zijn beurt het geleverde product geheel of gedeeltelijk via een aansluiting levert aan een verbruiker, wordt eerstgenoemde levering niet aangemerkt als een levering als bedoeld in het eerste lid.
-4. Als een levering als bedoeld in het eerste lid wordt mede aangemerkt het verbruik van aardgas en elektriciteit, indien:
+1. De belasting wordt geheven ter zake van de levering van aardgas of elektriciteit via een aansluiting aan de verbruiker, alsmede ter zake van de levering van aardgas via een aansluiting aan een CNG-vulstation.
+2. Indien de verbruiker, bedoeld in het eerste lid, via een aansluiting elektriciteit op het distributienet heeft ingevoed ter zake waarvan artikel 31c, eerste en tweede lid, van de Elektriciteitswet 1998 wordt toegepast, is het eerste lid van toepassing op het positieve saldo van de via de aansluiting geleverde elektriciteit minus de via de aansluiting ingevoede elektriciteit. 
+3.  De belasting wordt voorts geheven ter zake van: 
 
-a.deze producten op andere wijze zijn verkregen dan door een levering als bedoeld in het eerste lid;
+a. de levering, anders dan via een aansluiting, van aardgas of elektriciteit aan de verbruiker, of van aardgas aan een CNG-vulstation;  
 
-b.deze producten zijn verkregen door tussenkomst van een gasbeurs of een elektriciteitsbeurs;
+b. het verbruik van aardgas of elektriciteit, indien dit product is verkregen door tussenkomst van een gasbeurs of elektriciteitsbeurs;  
 
-c.het verbruik betreft door degene die leveringen via een aansluiting aan de verbruiker verricht. 
-5. Het vierde lid is niet van toepassing met betrekking tot de verbruiker die:
+c. het verbruik van aardgas of elektriciteit door degene die leveringen aan de verbruiker verricht;  
 
-a.elektriciteit heeft opgewekt door middel van hernieuwbare energiebronnen, met uitzondering van elektriciteit uit biomassa die niet als zuivere biomassa wordt aangemerkt;
+d. het verbruik van aardgas of elektriciteit, indien het aardgas of de elektriciteit is verkregen op andere wijze dan door een levering.   
+4. Indien een levering van aardgas of elektriciteit wordt verricht aan een organisatorische eenheid die zich bezighoudt met het leveren van aardgas of elektriciteit dan wel aan een verbruiker die op zijn beurt het geleverde aardgas of de geleverde elektriciteit levert aan een verbruiker, wordt eerstgenoemde levering niet aangemerkt als een levering als bedoeld in het eerste lid. 
+5.  Het derde lid, onderdeel a, is niet van toepassing met betrekking tot de levering van elektriciteit aan een huurder van een woning, voor zover die elektriciteit door de verhuurder van die woning is opgewekt door middel van hernieuwbare energiebronnen, waarbij de productie-installatie is aangebracht op of aan het gebouw met toebehoren waarvan de woning onderdeel uitmaakt, dan wel op of aan de bij dat gebouw behorende grond met toebehoren.  
+6. Het derde lid, onderdelen c en d, is niet van toepassing met betrekking tot het verbruik van:
 
-b.elektriciteit heeft opgewekt door middel van een noodinstallatie in geval van storingen bij de levering via het distributienet;
+a.elektriciteit die de verbruiker heeft opgewekt door middel van hernieuwbare energiebronnen, met uitzondering van elektriciteit uit biomassa die niet als zuivere biomassa wordt aangemerkt;
 
-c.stortgas, rioolwaterzuiveringsgas of biogas heeft gewonnen;
+b.elektriciteit die de verbruiker heeft opgewekt door middel van een noodinstallatie in geval van storingen bij de levering via het distributienet;
 
-d.elektriciteit heeft opgewekt door middel van een installatie voor warmtekrachtkoppeling. 
-6. Bij regeling van Onze Minister worden nadere regels gesteld ten behoeve van de uitvoering van dit artikel.
+c.stortgas, rioolwaterzuiveringsgas of biogas dat de verbruiker heeft gewonnen;
+
+d.elektriciteit die de verbruiker heeft opgewekt door middel van een installatie voor warmtekrachtkoppeling. 
+7. Bij regeling van Onze Minister worden nadere regels gesteld ten behoeve van de uitvoering van dit artikel.
 
 ### Artikel  51  
 
@@ -668,10 +697,8 @@ d.elektriciteit heeft opgewekt door middel van een installatie voor warmtekracht
 
 ### Artikel  53  
 
-1.   Met betrekking tot aardgas en elektriciteit wordt de belasting geheven van degene die de levering verricht.  
-2. In afwijking van het eerste lid wordt bij toepassing van artikel 50, vierde lid, de belasting geheven van degene van wie het verbruik op grond van artikel 50, vierde lid, is aangemerkt als een levering als bedoeld in artikel 50, eerste lid.  
-3.  Hetgeen is bepaald in het tweede lid is niet van toepassing indien het aardgas betreft dat op andere wijze dan via een aansluiting aan een CNG-vulstation als CNG wordt afgeleverd.  
-4.  Indien sprake is van een directe lijn, wordt in afwijking van het eerste en tweede lid bij de toepassing van artikel 50, vierde lid, de belasting geheven van degene die de levering van elektriciteit dan wel aardgas aan verbruikers verricht op de directe lijn. 
+1.   De belasting wordt geheven van degene die de levering verricht.   
+2.  In afwijking van het eerste lid wordt bij toepassing van artikel 50, derde lid, onderdelen b, c en d, de belasting geheven van de verbruiker.  
 
 ### Artikel  54  
 
@@ -704,7 +731,7 @@ b. in gevallen waarin geen voorschotnota wordt uitgereikt of voorschotbedrag wor
 
 c. in overige gevallen: op het tijdstip waarop de levering plaatsvindt.   
 2.   Voor de toepassing van het eerste lid, onderdeel a, onder 1°, worden de hoeveelheden aardgas en elektriciteit, waarop de voorschotnota dan wel het voorschotbedrag is gebaseerd, aangemerkt als geleverde hoeveelheden.   
-3.   In afwijking van het eerste lid wordt de belasting bij toepassing van artikel 50, vierde lid, verschuldigd op het tijdstip waarop het verbruik plaatsvindt. In geval van een levering op een directe lijn is, in afwijking van de eerste volzin, het eerste lid wel van toepassing.  
+3.   In afwijking van het eerste lid wordt de belasting bij toepassing van artikel 50, derde lid, onderdelen b, c en d, verschuldigd op het tijdstip waarop het verbruik plaatsvindt.  
 4. Indien de verrekening, bedoeld in artikel 47, eerste lid, onderdeel e, leidt tot een lager bedrag dan over de verbruiksperiode aan belasting is voldaan, wordt het verschil in mindering gebracht op de aangifte over het tijdvak waarin de eindfactuur is uitgereikt. 
 
 ### Artikel 57 
@@ -719,29 +746,29 @@ Indien in een verbruiksperiode ten aanzien van degene van wie op grond van artik
 
 1.  Het tarief bedraagt voor: 
 
-a. aardgas, met uitzondering van aardgas als bedoeld in onderdeel b, met een bovenste verbrandingswaarde van 35,17 megajoule per Nm<sup>3</sup> voor dat gedeelte van de geleverde hoeveelheid per verbruiksperiode van twaalf maanden per aansluiting dat: 
+a. aardgas, met uitzondering van aardgas als bedoeld in onderdeel b, met een bovenste verbrandingswaarde van 35,17 megajoule per Nm<sup>3</sup> voor dat gedeelte van de geleverde dan wel verbruikte hoeveelheid per verbruiksperiode van twaalf maanden per aansluiting dat: 
 
-– niet hoger is dan 170 000 kubieke meter, per kubieke meter € 0,1894;  
+– niet hoger is dan 170 000 kubieke meter, per kubieke meter € 0,1911;  
 
-– hoger is dan 170 000 kubieke meter, maar niet hoger dan 1 000 000 kubieke meter, per kubieke meter € 0,0446;  
+– hoger is dan 170 000 kubieke meter, maar niet hoger dan 1 000 000 kubieke meter, per kubieke meter € 0,0677;  
 
-– hoger is dan 1 000 000 kubieke meter, maar niet hoger dan 10 000 000 kubieke meter, per kubieke meter € 0,0163;  
+– hoger is dan 1 000 000 kubieke meter, maar niet hoger dan 10 000 000 kubieke meter, per kubieke meter € 0,0247;  
 
-– hoger is dan 10 000 000 kubieke meter, per kubieke meter € 0,0117;    
+– hoger is dan 10 000 000 kubieke meter, per kubieke meter € 0,0118;    
 
-b. aardgas, met een bovenste verbrandingswaarde van 35,17 megajoule per Nm<sup>3</sup>, dat wordt geleverd aan een CNG-vulstation € 0,1280 per kubieke meter;  
+b. aardgas, met een bovenste verbrandingswaarde van 35,17 megajoule per Nm<sup>3</sup>, dat wordt geleverd aan een CNG-vulstation € 0,1600 per kubieke meter;  
 
-c. elektriciteit voor dat gedeelte van de geleverde hoeveelheid per verbruiksperiode van twaalf maanden per aansluiting dat: 
+c. elektriciteit voor dat gedeelte van de geleverde dan wel verbruikte hoeveelheid per verbruiksperiode van twaalf maanden per aansluiting dat: 
 
-– niet hoger is dan 10 000 kWh, per kWh € 0,1185;  
+– niet hoger is dan 10 000 kWh, per kWh € 0,1196;  
 
-– hoger is dan 10 000 kWh, maar niet hoger dan 50 000 kWh, per kWh € 0,0431;  
+– hoger is dan 10 000 kWh, maar niet hoger dan 50 000 kWh, per kWh € 0,0469;  
 
-– hoger is dan 50 000 kWh, maar niet hoger dan 10 000 000 kWh, per kWh € 0,0115;  
+– hoger is dan 50 000 kWh, maar niet hoger dan 10 000 000 kWh, per kWh € 0,0125;  
 
 – hoger is dan 10 000 000 kWh, per kWh € 0,0010 voor niet-zakelijk verbruik en per kWh € 0,0005 voor zakelijk verbruik.       
 2.  Bij aardgas met een bovenste verbrandingswaarde die lager of hoger is dan 35,17 megajoule per Nm<sup>3</sup>, worden de in het eerste lid, onderdelen a en b, genoemde tarieven naar evenredigheid verlaagd, onderscheidenlijk verhoogd alsmede de hoeveelheidsgrenzen naar evenredigheid verhoogd onderscheidenlijk verlaagd.   
-3.  In afwijking van het eerste lid, onderdeel a, bedraagt het tarief voor aardgas € 0,1894 per kubieke meter voor de totale hoeveelheid aardgas die wordt geleverd aan een verbruiker die dat aardgas gebruikt voor een installatie voor blokverwarming niet zijnde een installatie voor stadsverwarming waarbij grotendeels gebruik wordt gemaakt van restwarmte.   
+3.  In afwijking van het eerste lid, onderdeel a, bedraagt het tarief voor aardgas € 0,1911 per kubieke meter voor de totale hoeveelheid aardgas die wordt geleverd aan een verbruiker die dat aardgas gebruikt voor een installatie voor blokverwarming niet zijnde een installatie voor stadsverwarming waarbij grotendeels gebruik wordt gemaakt van restwarmte.   
 4.  In afwijking van het eerste lid, onderdeel a, bedragen de tarieven nihil voor in artikel 48, tweede lid, als aardgas aangemerkte producten voor zover deze als brandstof worden gebruikt in de inrichting waarin zij zijn ontstaan.   
 5.  Indien bij een aansluiting sprake is van zowel zakelijk verbruik als niet-zakelijk verbruik, worden de tarieven, genoemd in het eerste lid, voor verbruik boven 10 000 000 kWh toegepast naar evenredigheid van elk type verbruik. Indien het verbruik nagenoeg geheel bestaat uit zakelijk verbruik of niet-zakelijk verbruik, wordt het volledige verbruik als zodanig aangemerkt.   
 6.  Bij op voordracht van Onze Minister vast te stellen algemene maatregel van bestuur worden nadere regels gesteld ten behoeve van de toepassing van het eerste en derde lid.   
@@ -752,46 +779,38 @@ c. elektriciteit voor dat gedeelte van de geleverde hoeveelheid per verbruiksper
 1.  Het tarief voor elektriciteit, bedoeld in artikel 59, eerste lid, onderdeel c, wordt voor dat gedeelte van de geleverde hoeveelheid dat niet hoger is dan 10.000 kWh verlaagd met € 0,075 per kWh voor zover de elektriciteit in het kader van een daartoe met een aangewezen coöperatie gesloten overeenkomst wordt geleverd aan een lid van die coöperatie via een aansluiting met een totale maximale doorlaatwaarde van ten hoogste 3x80A.   
 2.  De verlaging, bedoeld in het eerste lid, is slechts van toepassing voor de via de aansluiting geleverde elektriciteit, indien wordt voldaan aan de volgende voorwaarden: 
 
-a. de leden van de coöperatie zijn uitsluitend natuurlijke personen;  
+a. de coöperatie heeft in de voor het lid van de coöperatie geldende verbruiksperiode ten minste eenzelfde hoeveelheid door haar opgewekte elektriciteit toegerekend aan dat lid van de coöperatie als de hoeveelheid in die verbruiksperiode geleverde elektriciteit waarvoor de verlaging wordt toegepast;  
 
-b. de onroerende zaak die door middel van de in het eerste lid bedoelde aansluiting met het distributienet is verbonden, dient in hoofdzaak tot gebruik als woning en wordt bewoond door het lid van de coöperatie;  
+b. de door de coöperatie opgewekte elektriciteit, bedoeld in onderdeel a, is opgewekt met behulp van een productie-installatie die juridisch en economisch eigendom is van de coöperatie;  
 
-c. de coöperatie heeft in de voor het lid van de coöperatie geldende verbruiksperiode ten minste eenzelfde hoeveelheid door haar opgewekte elektriciteit toegerekend aan dat lid van de coöperatie als de hoeveelheid in die verbruiksperiode geleverde elektriciteit waarvoor de verlaging wordt toegepast;  
+c. de productie-installatie, bedoeld in onderdeel b, wordt uitsluitend gebruikt voor de opwekking van elektriciteit door middel van hernieuwbare energiebronnen;  
 
-d. de door de coöperatie opgewekte elektriciteit, bedoeld in onderdeel c, is opgewekt met behulp van een productie-installatie die juridisch en economisch eigendom is van de coöperatie;  
+d. de aansluiting via welke de elektriciteit aan het lid wordt geleverd, bevindt zich in hetzelfde postcodegebied als de verbinding van de productie-installatie, bedoeld in onderdeel b, met een net als bedoeld in artikel 1, eerste lid, onderdeel i, van de Elektriciteitswet 1998, dan wel in een aangrenzend postcodegebied; en  
 
-e. de productie-installatie, bedoeld in onderdeel d, wordt uitsluitend gebruikt voor de opwekking van elektriciteit door middel van hernieuwbare energiebronnen;  
-
-f. de aansluiting via welke de elektriciteit aan het lid wordt geleverd, bevindt zich in hetzelfde postcodegebied als de verbinding van de productie-installatie, bedoeld in onderdeel c, met een net als bedoeld in artikel 1, eerste lid, onderdeel i, van de Elektriciteitswet 1998, dan wel in een aangrenzend postcodegebied; en  
-
-g. noch ter zake van de opwekking van de elektriciteit door de coöperatie, noch ter zake van de daartoe gebruikte productie-installatie, is of wordt van rijkswege een financiële tegemoetkoming of subsidie verstrekt.     
-3.  Bij regeling van Onze Minister worden regels gesteld met betrekking tot de aanwijzing en de intrekking van de aanwijzing van een coöperatie als bedoeld in het eerste lid. Behoudens daarbij te bepalen uitzonderingen komen coöperaties waarvan één of meer leden ondernemer zijn in de zin van artikel 7 van de Wet op de omzetbelasting 1968, niet voor aanwijzing in aanmerking.   
+e. noch ter zake van de opwekking van de elektriciteit door de coöperatie, noch ter zake van de daartoe gebruikte productie-installatie, is of wordt van rijkswege een financiële tegemoetkoming of subsidie verstrekt.     
+3.  Bij regeling van Onze Minister worden regels gesteld met betrekking tot de aanwijzing en de wijziging of intrekking van de aanwijzing van een coöperatie als bedoeld in het eerste lid. Coöperaties waarvan een of meer leden ondernemer zijn in de zin van artikel 7 van de Wet op de omzetbelasting 1968, komen niet voor aanwijzing in aanmerking indien een dergelijk lid middellijk of onmiddellijk voor meer dan 20% in de coöperatie deelneemt.   
 4.  Bij op voordracht van Onze Minister vast te stellen algemene maatregel van bestuur kunnen voorwaarden en beperkingen worden gesteld waaronder de verlaging, bedoeld in het eerste lid, wordt toegepast.   
 5.  Bij regeling van Onze Minister worden nadere regels gesteld ten behoeve van de uitvoering van dit artikel.  
 
 ### Artikel  59b  
 
-Voor de toepassing van het verlaagde tarief, bedoeld in artikel 59a, eerste lid, wordt onder een coöperatie mede verstaan een vereniging van eigenaars, met dien verstande dat in geval van levering van de elektriciteit aan een lid van een vereniging van eigenaars: 
-
-a. in afwijking van artikel 59a, tweede lid, onderdeel a, slechts de voorwaarde wordt gesteld dat het lid van de vereniging van eigenaars zelf een natuurlijke persoon is;  
-
-b. de productie-installatie moet zijn aangebracht op of aan het gebouw met toebehoren of de daarbij behorende grond met toebehoren, ter zake waarvan de vereniging van eigenaars is opgericht.   
+Voor de toepassing van het verlaagde tarief, bedoeld in artikel 59a, eerste lid, wordt onder een coöperatie mede verstaan een vereniging van eigenaars, met dien verstande dat in geval van levering van de elektriciteit aan een lid van een vereniging van eigenaars de productie-installatie moet zijn aangebracht op of aan het gebouw met toebehoren of de daarbij behorende grond met toebehoren, ter zake waarvan de vereniging van eigenaars is opgericht. 
 
 ### Artikel  59c  
 
-Indien de verlaging van het tarief, bedoeld in artikel 59a, eerste lid, wordt verminderd of komt te vervallen, blijven de artikelen 59a en 59b, zoals deze luidden op de dag voorafgaand aan de dag met ingang waarvan de verlaging van het tarief wordt verminderd of komt te vervallen, gedurende maximaal 10 jaren na het tijdstip waarop de coöperatie is aangewezen als bedoeld in artikel 59a, eerste lid, van toepassing ten aanzien van de levering van elektriciteit aan personen ten aanzien van wie op de eerst genoemde dag artikel 59a en, indien het een vereniging van eigenaars betreft, artikel 59b, van toepassing waren. 
+Indien de verlaging van het tarief, bedoeld in artikel 59a, eerste lid, wordt verminderd of komt te vervallen, blijven de artikelen 59a en 59b, zoals deze luidden op de dag voorafgaand aan de dag met ingang waarvan de verlaging van het tarief wordt verminderd of komt te vervallen, gedurende 15 jaren na het tijdstip waarop de coöperatie is aangewezen als bedoeld in artikel 59a, eerste lid, van toepassing ten aanzien van de levering van elektriciteit aan personen ten aanzien van wie op de eerst genoemde dag artikel 59a en, indien het een vereniging van eigenaars betreft, artikel 59b, van toepassing waren. 
 
 ### Artikel 60 
 
-1. In afwijking van artikel 59, eerste lid, onderdeel a, bedraagt het tarief voor aardgas voor verwarming ter bevordering van het groeiproces van tuinbouwproducten als bedoeld in post a 32 van de bij de Wet op de omzetbelasting 1968 behorende Tabel I voor aardgas met een bovenste verbrandingswaarde van 35,17 megajoule per Nm<sup>3</sup>, voor dat gedeelte van de geleverde hoeveelheid per verbruiksperiode van twaalf maanden per aansluiting dat:
+1. In afwijking van artikel 59, eerste lid, onderdeel a, bedraagt het tarief voor aardgas voor verwarming ter bevordering van het groeiproces van tuinbouwproducten als bedoeld in post a 32 van de bij de Wet op de omzetbelasting 1968 behorende Tabel I voor aardgas met een bovenste verbrandingswaarde van 35,17 megajoule per Nm<sup>3</sup>, voor dat gedeelte van de geleverde dan wel verbruikte hoeveelheid per verbruiksperiode van twaalf maanden per aansluiting dat:
 
-– niet hoger is dan 170 000 kubieke meter, per kubieke meter € 0,03042;  
+– niet hoger is dan 170 000 kubieke meter, per kubieke meter € 0,03069;  
 
-– hoger is dan 170 000 kubieke meter, maar niet hoger dan 1 000 000 kubieke meter, per kubieke meter € 0,02258;  
+– hoger is dan 170 000 kubieke meter, maar niet hoger dan 1 000 000 kubieke meter, per kubieke meter € 0,02278;  
 
-– hoger is dan 1 000 000 kubieke meter, maar niet hoger dan 10 000 000 kubieke meter, per kubieke meter € 0,0163;  
+– hoger is dan 1 000 000 kubieke meter, maar niet hoger dan 10 000 000 kubieke meter, per kubieke meter € 0,0247;  
 
-– hoger is dan 10 000 000 kubieke meter, per kubieke meter € 0,0117.   
+– hoger is dan 10 000 000 kubieke meter, per kubieke meter € 0,0118.   
 2. Indien behalve voor het in het eerste lid vermelde doel mede aardgas wordt toegepast in één of meerdere woonhuizen, wordt per verbruiksperiode van twaalf maanden per woonhuis een geleverde hoeveelheid van 5000 kubieke meter in de heffing betrokken naar het tarief, bedoeld in artikel 59, eerste lid, onderdeel a, tenzij de geleverde hoeveelheden voor de verschillende toepassingen en de verschillende woonhuizen afzonderlijk worden gemeten.
 3. Bij aardgas met een bovenste verbrandingswaarde die lager of hoger is dan 35,17 megajoule per Nm<sup>3</sup>, worden de in het eerste lid genoemde tarieven naar evenredigheid verlaagd, onderscheidenlijk verhoogd alsmede de hoeveelheidsgrenzen naar evenredigheid verhoogd onderscheidenlijk verlaagd. 
 4. Bij regeling van Onze Minister kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.
@@ -801,7 +820,6 @@ Indien de verlaging van het tarief, bedoeld in artikel 59a, eerste lid, wordt ve
 Bij een verbruiksperiode korter dan wel langer dan twaalf maanden worden de hoeveelheidsgrenzen, genoemd in artikel 59, eerste lid, 60, eerste en tweede lid, 67, eerste lid, en 68, tweede lid, naar evenredigheid verlaagd, onderscheidenlijk verhoogd.
 
 ### Artikel  61a  
-Treedt in werking per 01-01-2015 
 
 In de gevallen, bedoeld in artikel 47, zevende lid, onderdeel b, wordt de belasting ter zake van de leveringen die vanaf het begin van het kalenderjaar zijn verricht, herrekend met inachtneming van artikel 61. Indien deze herrekening leidt tot een hoger of lager belastingbedrag dan de belasting die zonder de herrekening over de gehele verbruiksperiode verschuldigd zou zijn, wordt de belasting die moet worden voldaan over het tijdvak waarin de overeenkomst tot levering wordt beëindigd dienovereenkomstig verhoogd onderscheidenlijk verlaagd. Bij de bepaling van de belasting die op de laatste factuur aan de verbruiker wordt vermeld, wordt de verhoging of verlaging, bedoeld in de tweede volzin, in aanmerking genomen. 
 
@@ -815,15 +833,11 @@ Indien op basis van een contract tussen de belastingplichtige en de verbruiker d
 
 ### Artikel  63  
 
-1.  Op de ter zake van de levering van elektriciteit, bedoeld in artikel 50, eerste lid, verschuldigde belasting wordt een vermindering toegepast. De vermindering bedraagt: 
-
-a. € 318,62 per verbruiksperiode van twaalf maanden per elektriciteitsaansluiting met betrekking tot onroerende zaken die op zichzelf als gebouwde eigendommen zijn aan te merken welke kunnen dienen als woning of ten behoeve van de uitoefening van een bedrijf of beroep of anderszins een verblijfsfunctie hebben;  
-
-b. € 119,62 per verbruiksperiode van twaalf maanden per andere elektriciteitsaansluiting dan die bedoeld in onderdeel a en niet zijnde een elektriciteitsaansluiting met een doorlaatwaarde tot en met 1x6A op het geschakeld net.     
+1.  Op de ter zake van de levering van elektriciteit, bedoeld in artikel 50, eerste lid, verschuldigde belasting wordt een vermindering toegepast met betrekking tot onroerende zaken die op zich als gebouwde eigendommen zijn aan te merken en die kunnen dienen als woning of ten behoeve van de uitoefening van een bedrijf of beroep of anderszins een verblijfsfunctie hebben. De vermindering bedraagt € 311,84 per verbruiksperiode van twaalf maanden per aansluiting.   
 2.  Indien het bedrag van de over de verbruiksperiode verschuldigde belasting lager is dan het bedrag van de vermindering, bedoeld in het eerste lid, wordt het verschil aan de verbruiker terugbetaald. 
 3. In de gevallen waarin een voorschotnota wordt uitgereikt of, indien geen voorschotnota wordt uitgereikt, een voorschotbedrag wordt ontvangen, wordt bij de berekening van het voorschotbedrag naar evenredigheid rekening gehouden met de belastingvermindering, bedoeld in het eerste lid.  
 4.   Bij een verbruiksperiode korter dan wel langer dan twaalf maanden worden de in het eerste lid genoemde bedragen naar evenredigheid verlaagd, onderscheidenlijk verhoogd.   
-5.   Bij toepassing van artikel 50, vierde lid, zijn het eerste en vierde lid van overeenkomstige toepassing.   
+5.   Bij toepassing van artikel 50, derde lid, zijn het eerste en vierde lid van overeenkomstige toepassing.   
 6.  Bij op voordracht van Onze Minister vast te stellen algemene maatregel van bestuur kunnen voorwaarden en beperkingen worden gesteld waaronder de belastingvermindering, bedoeld in het eerste lid, wordt verleend.   
 7.   Bij regeling van Onze Minister worden nadere regels gesteld ten behoeve van de uitvoering van dit artikel.  
 
@@ -876,7 +890,7 @@ c. de verklaring dat hij een energie-intensief bedrijf is als bedoeld in artikel
 
 ### Artikel 68 
 
-1. Op verzoek wordt aan de verbruiker teruggaaf van de belasting verleend met betrekking tot aardgas en elektriciteit, voor zover de belasting over de hoeveelheden aardgas en elektriciteit die door de verbruiker in een kalenderjaar van verschillende leveranciers zijn betrokken, hoger is dan de belasting die zou zijn verschuldigd indien sprake was van één leverancier.
+1. Op verzoek wordt aan de verbruiker teruggaaf van de belasting verleend met betrekking tot aardgas en elektriciteit, voor zover de belasting over de hoeveelheden aardgas en elektriciteit die door een verbruiker gedurende dezelfde periode binnen een kalenderjaar van verschillende leveranciers zijn betrokken, hoger is dan de belasting die zou zijn verschuldigd indien sprake was van één leverancier.
 2. Op verzoek wordt aan de verbruiker teruggaaf van de belasting verleend voor zover met betrekking tot zakelijk verbruik van elektriciteit boven de 10 000 000 kWh per verbruiksperiode van twaalf maanden per aansluiting het tarief voor niet-zakelijk verbruik in rekening is gebracht.
 3. Bij op voordracht van Onze Minister vast te stellen algemene maatregel van bestuur worden voorwaarden en beperkingen gesteld waaronder de teruggaven, bedoeld in het eerste en tweede lid, worden verleend.
 4. Bij regeling van Onze Minister kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.

@@ -65,7 +65,7 @@ g. gelijke behandeling van mannen en vrouwen, alsmede andere bepalingen inzake n
 ### Artikel  4  
 
 1.  De verbindendverklaring kan alleen geschieden op verzoek van één of meer werkgevers of één of meer vereenigingen van werkgevers of werknemers, die partij zijn bij de collectieve arbeidsovereenkomst.    
-2.   De indiening van een verzoek tot verbindendverklaring moet geschieden met inachtneming van de daaromtrent door Onzen Minister gegeven voorschriften.    
+2.  De indiening van een verzoek tot verbindendverklaring en de inbreng van bedenkingen als bedoeld in het derde lid geschieden met inachtneming van de daaromtrent door Onze Minister gegeven voorschriften, waarbij kan worden bepaald dat de indiening van het verzoek en de inbreng van bedenkingen uitsluitend langs elektronische weg kunnen geschieden. Indien Onze Minister bepaalt dat dit uitsluitend langs elektronische weg kan geschieden, dan kan hij tevens bepalen in welke gevallen dit uitzondering kan leiden.   
 3.   Door Onzen Minister wordt van de indiening van het verzoek mededeeling gedaan in de *Staatscourant.* Daarbij wordt een termijn bepaald, binnen welken bedenkingen schriftelijk bij hem kunnen worden ingebracht.    
 4.  Onze Minister kan omtrent het verzoek tot verbindendverklaring in overleg treden met de Stichting van de Arbeid.   
 5.   Voor de behandeling van een verzoek tot verbindendverklaring is door den aanvrager eene vergoeding verschuldigd, volgens een door Onzen Minister vast te stellen tarief. Onze Minister kan vorderen, dat de aanvrager voor de voldoening van die kosten eene waarborgsom stort.   

@@ -10,7 +10,7 @@ Besluit:
 
 ####Hoogte van de bijdrage
 
-De hoogte van de door de persoon of echtgenoot aan de Bank verschuldigde bijdrage, bedoeld in artikel 4, eerste lid, van het Besluit ex artikel 66a ANW, bedraagt met ingang van 1 januari 2014 € 59,38 per maand. 
+De hoogte van de door de persoon of echtgenoot aan de Sociale verzekeringsbank verschuldigde bijdrage, bedoeld in artikel 4, eerste lid, van het Besluit ex artikel 66a ANW, bedraagt met ingang van 1 januari 2015 € 59,82 per maand. 
 
 ### Artikel  2  
 

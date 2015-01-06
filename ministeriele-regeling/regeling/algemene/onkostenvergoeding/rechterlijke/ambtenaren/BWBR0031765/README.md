@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Veiligheid en Justitie van 4 juli 2012, houdende de vaststelling van de hoogte van de algemene onkostenvergoeding voor de rechterlijke ambtenaren (Regeling algemene onkostenvergoeding rechterlijke ambtenaren)
 
 De Minister van Veiligheid en Justitie,  
-Gelet op [artikel 7, vijfde lid, van het Besluit rechtspositie rechterlijke ambtenaren](../../../../../../../AMvB/besluit/rechtspositie/rechterlijke/ambtenaren/BWBR0006530/README.md);
+Gelet op artikel 7, vijfde lid, van het Besluit rechtspositie rechterlijke ambtenaren;
 Besluit:    
 
 ### Artikel  1  
@@ -16,7 +16,7 @@ De indexering van de algemene onkostenvergoeding wordt met terugwerkende kracht 
 
 ### Artikel  3  
 
-In de bij deze regeling behorende bijlage zijn, overeenkomstig de in [artikel 7, tweede lid, van de Wet rechtspositie rechterlijke ambtenaren](../../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) bedoelde indeling, de hoogten van de algemene onkostenvergoeding van de rechterlijke ambtenaren en rechterlijke ambtenaren in opleiding, die zijn aangesteld voor een volledige arbeidsduur, vermeld. 
+In de bij deze regeling behorende bijlage zijn, overeenkomstig de in artikel 7, tweede lid, van de Wet rechtspositie rechterlijke ambtenaren bedoelde indeling, de hoogten van de algemene onkostenvergoeding van de rechterlijke ambtenaren en rechterlijke ambtenaren in opleiding, die zijn aangesteld voor een volledige arbeidsduur, vermeld. 
 
 ### Artikel  4  
 
@@ -32,7 +32,7 @@ De rechterlijk ambtenaar of de rechterlijk ambtenaar in opleiding heeft, wanneer
 
 ### Artikel  7  
 
-De [Regeling indexering algemene onkostenvergoeding rechterlijke ambtenaren wordt ingetrokken](../../../../../../../ministeriele-regeling/regeling/indexering/algemene/onkostenvergoeding/rechterlijke/ambtenaren/BWBR0027090/README.md). 
+De Regeling indexering algemene onkostenvergoeding rechterlijke ambtenaren wordt ingetrokken. 
 
 ### Artikel  8  
 
@@ -45,19 +45,19 @@ I.W. Opstelten
 
 ###Bijlage 
 
-####als bedoeld in artikel 3  van de Regeling algemene onkostenvergoeding rechterlijke ambtenaren
+####als bedoeld in artikel 3  
 
-| Functie  | Totaal per jaar  | Totaal per maand  |
-|:---|:---|:---|
-| president Hoge Raad  procureur-generaal Hoge Raad  |  *€ 5 014,00*   |  *€ 417,84*   |
-| procureurs-generaal die het College van PG’s vormen  |  *€ 4 859,00*   |  *€ 404,92*   |
-| plaatsvervangend procureur-generaal bij de Hoge Raad  |  *€ 2 802,00*   |  *€ 233,50*   |
-| landelijk hoofdadvocaat-generaal  hoofdadvocaat-generaal  hoofdofficier van justitie  |  *€ 2 648,00*   |  *€ 220,67*   |
-| plaatsvervangend hoofdofficier van justitie  |  *€ 2 024,00*   |  *€ 168,67*   |
-| vice-president van de Hoge Raad  senior raadsheer gerechtshof  senior raadsheer Centrale Raad van Beroep  senior raadsheer College van Beroep voor het Bedrijfsleven   *cvp-senior bij de gerechtshoven, CRvB en CBb (overgangsregeling)*   |  *€ 1 868,00*   |  *€ 155,67*   |
-| senior rechter A  senior rechter  advocaat-generaal Hoge Raad  senior advocaat generaal ressortsparket  advocaat-generaal ressortsparket   *cvp-senior bij de rechtbanken (overgangsregeling)*   |  *€ 1 713,00*   |  *€ 142,75*   |
-| senior officier van justitie A  senior officier van justitie  officier van justitie  substituut-officier van justitie  officier enkelvoudige zaken  |  *€ 1 558,00*   |  *€ 129,84*   |
-| raadsheer Hoge Raad  raadsheer gerechtshof  rechter  raadsheer Centrale Raad van Beroep  raadsheer College van Beroep voor het Bedrijfsleven  (senior) gerechtsauditeur, tevens raadsheer-plaatsvervanger in een gerechtshof waarbij hij is aangesteld  (senior) gerechtsauditeur, tevens rechter-plaatsvervanger in een rechtbank waarbij hij is aangesteld  |  *€ 1 404,00*   |  *€ 117,00*   |
-| griffier (+ substituut-griffier) Hoge Raad  |  *€ 784,00*   |  *€ 65,34*   |
-| (senior) gerechtsauditeur  rechterlijk ambtenaar in opleiding  |  *€ 563,00*   |  *€ 46,92*   |
+| Functie  | Totaal per jaar  |
+|:---|:---|
+| president Hoge Raad  procureur-generaal Hoge Raad  | € 5.043  |
+| procureurs-generaal die het College van PG’s vormen  | € 4.887  |
+| plaatsvervangend procureur-generaal bij de Hoge Raad  | € 2.818  |
+| landelijk hoofdadvocaat-generaal  hoofdadvocaat-generaal  hoofdofficier van justitie  | € 2.664  |
+| plaatsvervangend hoofdofficier van justitie  | € 2.036  |
+| vice-president van de Hoge Raad  senior raadsheer gerechtshof  senior raadsheer Centrale Raad van Beroep  senior raadsheer College van Beroep voor het Bedrijfsleven  *cvp-senior bij de gerechtshoven, CRvB en CBb (overgangsregeling)*  | € 1.879  |
+| senior rechter A  senior rechter  advocaat-generaal Hoge Raad  senior advocaat generaal ressortsparket  advocaat-generaal ressortsparket  *cvp-senior bij de rechtbanken (overgangsregeling)*  | € 1.723  |
+| senior officier van justitie A  senior officier van justitie  officier van justitie  substituut-officier van justitie  officier enkelvoudige zaken  | € 1.567  |
+| raadsheer Hoge Raad  raadsheer gerechtshof  rechter  raadsheer Centrale Raad van Beroep  raadsheer College van Beroep voor het Bedrijfsleven  (senior) gerechtsauditeur, tevens raadsheer-plaatsvervanger in een gerechtshof waarbij hij is aangesteld  (senior) gerechtsauditeur, tevens rechter-plaatsvervanger in een rechtbank waarbij hij is aangesteld  | € 1.412  |
+| griffier (+ substituut-griffier) Hoge Raad  | € 789  |
+| (senior) gerechtsauditeur  rechterlijk ambtenaar in opleiding  | € 567  |
 

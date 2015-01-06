@@ -245,7 +245,7 @@ l. het bijhouden, overleggen, controleren, bewaren en melden van gegevens, onder
 
 3°. de herkomst, bestemming of verplaatsing van dieren, en  
 
-4°. de herkomst, ontvangst, bereiding, bewerking, verwerking en verdere behandeling, opslag en bewaring van diervoeders en diergeneesmiddelen, alsmede het gebruik van diervoeders, onderscheidenlijk het toepassen van diergeneesmiddelen alsmede over het voeren van een administratie of het invoeren van gegevens inzake het toepassen van diergeneesmiddelen of diervoeders met medicinale werking in een gecentraliseerd registratiesysteem voor diergeneesmiddelen;    
+4°. de herkomst, ontvangst, bereiding, bewerking, verwerking en verdere behandeling, opslag en bewaring van diervoeders en diergeneesmiddelen, alsmede het gebruik van diervoeders, onderscheidenlijk het toepassen van diergeneesmiddelen;    
 
 m. de te verrichten onderzoeken bij dieren of in ruimten of op terreinen en gebieden waar dieren kunnen worden gehouden, naar de aanwezigheid van besmettelijke dierziekten, zoönosen, ziekteverschijnselen, ziekteverwekkers of organismen die drager van een ziekteverwekker kunnen zijn, of naar de werking van vaccins;  
 
@@ -431,7 +431,9 @@ d. de inrichting en het gebruik van de ruimten waarin diergeneeskundige handelin
 
 e. de hoedanigheid, het voorhanden of in voorraad hebben, het aanbieden, het afleveren, het verkopen, het kopen, het in de handel brengen, het in en buiten Nederland brengen en het gebruik van hulpmiddelen, waaronder apparatuur, die bij het verrichten van diergeneeskundige handelingen worden gebruikt, en  
 
-f. het melden en het voeren van een administratie met betrekking tot verrichte diergeneeskundige handelingen, het bewaren en overleggen van die administratie en de daarmee verband houdende bescheiden alsmede de wijze van controle door de houder van de administratie, of het invoeren van gegevens in een gecentraliseerd registratiesysteem voor diergeneesmiddelen.     
+f. het bijhouden, overleggen, controleren, bewaren en melden van gegevens over verrichte diergeneeskundige handelingen;  
+
+g. de bedrijfsbegeleiding door een dierenarts.    
 5.  Voor de toepassing van het eerste lid en vierde lid en de daarop berustende bepalingen wordt met het toepassen van een diergeneesmiddel bij een dier gelijkgesteld het toepassen van een diergeneesmiddel bij materiaal van dierlijke herkomst, uitgezonderd cel- of weefselcultures.   
 6.  Het bij en krachtens het eerste tot en met het vijfde lid bepaalde is tevens van toepassing ten aanzien van andere dan gehouden dieren.   
 7.  Het bij en krachtens het eerste tot en met zesde lid bepaalde is tevens van toepassing ten aanzien van diervoeders met medicinale werking.  
@@ -644,7 +646,7 @@ h. de kwalificaties van personen die zijn betrokken bij het bereiden, het bewerk
 
 i. controles door bereiders, bewerkers, verwerkers, verpakkers, vervoerders of houders van, onderscheidenlijk handelaren in diervoeders, waaronder de wijze van controles en monsterneming, de vastlegging van controleresultaten alsmede het bewaren en overleggen van controleresultaten en monsters;  
 
-j. het voeren van een administratie met betrekking tot de voorraad, de bereiding, de bewerking, de verwerking, de ontvangst, de herkomst, de aflevering, de vernietiging, de bestemming, het verbruik en de vervoedering van diervoeders, het bewaren en het overleggen van die administratie en de daarmee verband houdende bescheiden alsmede de wijze van controle door de houder van de administratie;  
+j. het bijhouden, overleggen, controleren, bewaren en melden van gegevens over de voorraad, de bereiding, de bewerking, de verwerking, de ontvangst, de herkomst, de aflevering, de vernietiging, de bestemming, het verbruik en de vervoedering van diervoeders;  
 
 k. hygiëne, het voorkomen van de verspreiding van dierziekten, zoönosen en ziekteverschijnselen, en het weren van ziekteverwekkers, en  
 
@@ -714,7 +716,7 @@ h. controles door bereiders, bewerkers, verwerkers, verpakkers, vervoerders of h
 
 i. het aantekening houden en melden van bijwerkingen van een diergeneesmiddel alsmede de inrichting van een diergeneesmiddelenbewakingssysteem;  
 
-j. het voeren van een administratie met betrekking tot de voorraad, de bereiding, de bewerking, de verwerking, de ontvangst, de herkomst, de aflevering, de vernietiging, de bestemming en het verbruik van diergeneesmiddelen, het bewaren en het overleggen van die administratie en de daarmee verband houdende bescheiden alsmede de wijze van controle door de houder van de administratie;  
+j. het bijhouden, overleggen, controleren, bewaren en melden van gegevens over de voorraad, de bereiding, de bewerking, de verwerking, de ontvangst, de herkomst, de aflevering, de vernietiging, de bestemming en het verbruik van diergeneesmiddelen;  
 
 k. de keuring van partijen diergeneesmiddelen, en  
 
@@ -1421,9 +1423,11 @@ g. de termijn waarbinnen gegevens en wijzigingen daarvan worden verwerkt in het 
 
 h. de gevallen waarin een aantekening in de registers wordt gewijzigd of doorgehaald;  
 
-i. de persoon of instantie die de registers beheert en bijhoudt, en  
+i. de persoon of instantie die de registers beheert en bijhoudt;  
 
-j. de minimale of maximale duur van het bewaren van gegevens in het register.     
+j. de minimale of maximale duur van het bewaren van gegevens in het register;  
+
+k. de vergoeding van kosten voor het opnemen en verwerken van gegevens in de registers.    
 3.  Bij of krachtens algemene maatregel van bestuur kan worden geregeld dat een handeling waarvoor een melding als bedoeld in artikel 7.1 vereist is, eerst kan worden verricht nadat de melding is aangetekend in een register als bedoeld in het eerste lid of tweede lid.  
 
 ### Artikel  7.3  
@@ -1572,7 +1576,7 @@ Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter hand
 
 a.  *overtreding:* gedraging die in strijd is met het bepaalde bij of krachtens: 
 
-1°. de artikelen 2.2, negende en tiende lid, 2.3, derde en vierde lid, 2.4, eerste, tweede en derde lid, 2.5, eerste en tweede lid, 2.6, eerste, tweede en derde lid, 2.7, eerste tot en met derde lid, 2.10, tweede, derde en vierde lid, 2.17, 2.18, 2.19, eerste lid, 2.20, 2.21, eerste en derde lid, 2.22, eerste, tweede en derde lid, 3.1, 3.2, eerste en tweede lid, 3.4, 3.5, eerste en derde lid, 5.1, derde lid, tweede volzin, 5.4, eerste lid, 5.5, eerste lid, 5.6, eerste en vijfde lid, 5.10, 5.11, 5.12 of 10.2, eerste lid;  
+1°. de artikelen 2.2, negende en tiende lid, 2.3, derde en vierde lid, 2.4, eerste, tweede en derde lid, 2.5, eerste en tweede lid, 2.6, eerste, tweede en derde lid, 2.7, eerste tot en met derde lid, 2.8, eerste lid, onderdelen b en c, en vierde lid, onderdeel f, 2.10, tweede, derde en vierde lid, 2.17, 2.18, 2.19, eerste lid, 2.20, 2.21, eerste en derde lid, 2.22, eerste, tweede en derde lid, 3.1, 3.2, eerste en tweede lid, 3.4, 3.5, eerste en derde lid, 5.1, derde lid, tweede volzin, 5.4, eerste lid, 5.5, eerste lid, 5.6, eerste en vijfde lid, 5.10, 5.11, 5.12 of 10.2, eerste lid;  
 
 2°. een van de bepalingen, bedoeld in onderdeel a, in samenhang met de artikelen 6.2, eerste lid, 6.4, eerste lid, 7.1, 7.2, eerste of derde lid, 7.5, derde lid, of 10.5, eerste lid;    
 
@@ -1615,7 +1619,7 @@ Bij gebreke van volledige betaling binnen de gestelde termijn kan Onze Minister 
 ####Strafbaarstelling
 
 1.  Gedragingen in strijd met de voorschriften vastgesteld bij of krachtens de artikelen 1.4, 2.1, eerste lid, 2.2, zesde lid, eerste volzin, en achtste lid, 2.8, eerste lid, onderdeel a, derde en vierde lid voor wat betreft de onderwerpen, bedoeld in het vierde lid, onderdelen a, b en c, 2.9, eerste lid, 2.10, eerste lid, en 2.14, eerste lid, of een of meer van de voornoemde bepalingen in samenhang met artikel 6.2, eerste lid, artikel 6.4, eerste lid, of artikel 7.5, derde lid, zijn misdrijven.   
-2.  Gedragingen in strijd met de voorschriften vastgesteld bij of krachtens de artikelen 2.1, zesde lid, 2.2, eerste lid, negende en tiende lid voor wat betreft de onderwerpen, bedoeld in het tiende lid, onderdelen b, c en d, 2.3, derde en vierde lid, 2.4, eerste, tweede en derde lid, 2.8, derde en vierde lid voor wat betreft de onderwerpen, bedoeld in het vierde lid, onderdelen d en e, 2.9, tweede, vierde en vijfde lid, 2.14, tweede lid, 2.15, eerste, tweede, derde, vijfde en zesde lid, en 4.4, eerste lid, of een of meer van de voornoemde bepalingen in samenhang met artikel 6.2, eerste lid, artikel 6.4, eerste lid, of artikel 7.5, derde lid, zijn overtredingen.  
+2.  Gedragingen in strijd met de voorschriften vastgesteld bij of krachtens de artikelen 2.1, zesde lid, 2.2, eerste lid, negende en tiende lid voor wat betreft de onderwerpen, bedoeld in het tiende lid, onderdelen b, c en d, en onderdeel r, voor zover dat onderdeel betrekking heeft op regels als bedoeld in de onderdelen b, c en d, 2.3, derde en vierde lid, 2.4, eerste, tweede en derde lid, 2.8, derde en vierde lid voor wat betreft de onderwerpen, bedoeld in het vierde lid, onderdelen d en e, 2.9, tweede, vierde en vijfde lid, 2.14, tweede lid, 2.15, eerste, tweede, derde, vijfde en zesde lid, en 4.4, eerste lid, of een of meer van de voornoemde bepalingen in samenhang met artikel 6.2, eerste lid, artikel 6.4, eerste lid, of artikel 7.5, derde lid, zijn overtredingen.  
 
 ### Artikel  8.12  
 
@@ -1993,8 +1997,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gest
 
 ####Tuchtrechtelijke handhaving en medebewindsregelgeving
 
-Treedt in werking op een nader te bepalen tijdstip 
-
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2014/571. 
 1.  Bij toepassing van artikel 10.4 kan bij of krachtens algemene maatregel van bestuur dan wel bij ministeriële regeling worden bepaald dat tuchtrechtelijke maatregelen worden gesteld op overtreding van de bij die maatregel of regeling genoemde nadere regelen die door het bestuur van het betrokken productschap of bedrijfschap krachtens artikel 10.4, tweede lid, bij verordening als bedoeld in 10.4, derde lid, zijn of worden gesteld, voor zover handelen in strijd met deze nadere regelen als overtreding strafbaar is gesteld.   
 2.  De artikelen 1, onderdeel b, 2, 3 tot en met 6, 15 tot en met 44, eerste lid, en 46 van de Wet tuchtrechtspraak bedrijfsorganisatie 2004 zijn van overeenkomstige toepassing, met dien verstande dat de instemming, bedoeld in artikel 46 van die wet wordt verkregen van Onze Minister.   
 3.  Onverminderd artikel 8.1, eerste lid, kan bij of krachtens algemene maatregel van bestuur, dan wel bij ministeriële regeling, worden bepaald dat met het toezicht op de naleving van de nadere regels waarvoor tuchtrechtelijke maatregelen zijn of worden opgelegd, de bij besluit van het betrokken bedrijfslichaam of samenwerkingslichaam aangewezen personen zijn belast. Dit besluit behoeft de goedkeuring van Onze Minister. Onze Minister kan het betrokken bedrijfslichaam of samenwerkingslichaam een aanwijzing geven omtrent het aanwijzen van toezichthouders en de wijze waarop toezicht wordt uitgeoefend.  
@@ -2019,9 +2022,9 @@ Ingeval bij of krachtens deze wet wordt verwezen naar door de Voedsel- en Landbo
 
 1.  Onze Minister kan een heffing opleggen ter vergoeding van kosten overeenkomstig een door hem vastgesteld tarief ter zake van de volgende handelingen: 
 
-a. de behandeling van een aanvraag tot een bij of krachtens deze wet voorgeschreven vergunning, erkenning, toestemming, toelating, registratie, bewijs van vakbekwaamheid, goedkeuring of certificering dan wel van een aanvraag tot verlenging of wijziging daarvan;  
+a. de behandeling van een aanvraag tot een bij of krachtens deze wet voorgeschreven vergunning, erkenning, aanwijzing, toestemming, toelating, registratie, bewijs van vakbekwaamheid, goedkeuring of certificering dan wel van een aanvraag tot verlenging of wijziging daarvan;  
 
-b. de instandhouding van de bij of krachtens deze wet verleende vergunning, erkenning, toestemming, toelating, registratie, bewijs van vakbekwaamheid, goedkeuring of certificering;  
+b. de instandhouding van de bij of krachtens deze wet verleende vergunning, erkenning, aanwijzing, toestemming, toelating, registratie, bewijs van vakbekwaamheid, goedkeuring of certificering;  
 
 c. de behandeling van een aanvraag tot ontheffing van het bij of krachtens deze wet bepaalde, dan wel van een aanvraag tot verlenging of wijziging van de ontheffing;  
 
@@ -2035,7 +2038,9 @@ g. onderzoeken, controles of verrichtingen met betrekking tot dieren, diervoeder
 
 h. controles die nodig zijn om de omvang van een overtreding van het bepaalde bij of krachtens deze wet vast te stellen, om na te gaan of corrigerende maatregelen zijn genomen, dan wel om een overtreding op te sporen of te bewijzen, voor zover de heffing ter vergoeding van kosten van deze controles is voorgeschreven bij een EU-rechtshandeling, en  
 
-i. de beoordeling van gidsen als bedoeld artikel 8.44.     
+i. de beoordeling van gidsen als bedoeld artikel 8.44;  
+
+j. het bijhouden van gegevens in een register als bedoeld in artikel 7.2, tweede lid.    
 2.  Bij of krachtens algemene maatregel van bestuur kan een heffing ter vergoeding van kosten worden opgelegd overeenkomstig een vastgesteld tarief ter zake van bij die maatregel benoemde onderzoeken of verrichtingen voor zover de onderzoeken of verrichtingen zijn voorgeschreven bij of krachtens deze wet of bij EU-verordening.   
 3.  Een tarief als bedoeld in het eerste of tweede lid wordt zodanig vastgesteld dat de geraamde baten niet uitgaan boven de geraamde kosten die in een rechtstreeks verband staan met de werkzaamheden waarvoor het tarief wordt opgelegd, onverminderd de daaromtrent bij een EU-rechtshandeling vastgestelde voorschriften.   
 4.  Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de betaling van de heffing, en kan worden geregeld dat een handeling als bedoeld in het eerste lid, aanhef, slechts dan wordt uitgevoerd nadat betaling van de heffing heeft plaatsgevonden.  
@@ -2274,17 +2279,7 @@ a. de wijze waarop het onderzoek plaatsvindt;
 b. het aanwijzen van ambtenaren of personen die het onderzoek verrichten, en  
 
 c. de inrichtingen waar onderzoekswerkzaamheden plaatsvinden.     
-2.  Bij algemene maatregel van bestuur kunnen voor de toepassing van hoofdstuk 2, paragraaf 2, en hoofdstuk 3 de artikelen 8 tot en met 13a van de Landbouwkwaliteitswet of onderdelen daarvan van overeenkomstige toepassing worden verklaard. De toepassing van artikel 13 van de Landbouwkwaliteitswet is onverminderd artikel 18, tweede lid, van de Landbouwkwaliteitswet.  
-
-### Artikel  10.4  
-
-####Medebewind
-
-1.  Bij of krachtens algemene maatregel van bestuur dan wel bij ministeriële regeling kan medewerking worden gevorderd van het bestuur van een productschap of een bedrijfschap als bedoeld in artikel 66 van de Wet op de bedrijfsorganisatie.   
-2.  Bij of krachtens algemene maatregel van bestuur als bedoeld in het eerste lid kunnen de ingevolge het bepaalde bij of krachtens deze wet aan Onze Minister toekomende bevoegdheden tot het nemen van besluiten en tot het vaststellen van regels of nadere regels, alsmede aan Onze Minister opgedragen taken worden overgedragen.   
-3.  Indien de in het eerste lid bedoelde medewerking bestaat uit het stellen van regelen of nadere regelen bij verordening, behoeft zodanige verordening de goedkeuring van Onze Minister.   
-4.  Krachtens een verordening als bedoeld in het derde lid vastgestelde nadere voorschriften en genomen besluiten behoeven, voor zover zulks bij de algemene maatregel van bestuur of regelen, bedoeld in het eerste lid, is bepaald, de goedkeuring van de daarbij aangewezen autoriteit.   
-5.  Verordeningen, bedoeld in het derde lid, kunnen onder meer inhouden toekenning aan een daarbij aan te wijzen orgaan van de bevoegdheid vrijstelling, en op aanvraag, ontheffing van die verordeningen of krachtens deze vast te stellen voorschriften of beperkingen te verlenen.  
+2.  Bij algemene maatregel van bestuur kunnen voor de toepassing van hoofdstuk 2, paragraaf 2, en hoofdstuk 3 de artikelen 8 tot en met 14 van de Landbouwkwaliteitswet of onderdelen daarvan van overeenkomstige toepassing worden verklaard. De toepassing van artikel 13 van de Landbouwkwaliteitswet is onverminderd artikel 18, tweede lid, van de Landbouwkwaliteitswet.  
 
 ### Artikel  10.5  
 

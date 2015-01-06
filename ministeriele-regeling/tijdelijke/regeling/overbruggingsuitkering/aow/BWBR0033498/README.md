@@ -66,7 +66,7 @@ b. rechten op ingegane lijfrenten als bedoeld in artikel 1, onderdeel b, van de 
 
 c. polissen van levensverzekering als bedoeld in artikel 1, onderdeel d, van de Regeling vermogenswaardering Ioaz, mits ter zake van de verzekering geen koopsom is voldaan en deze polissen niet dienen als basis voor de financiering van de eigen woning;  
 
-d. een bedrag van € 117.444,00 ten behoeve van aanvullende pensioenvoorzieningen.     
+d. een bedrag van € 118.771,00 ten behoeve van aanvullende pensioenvoorzieningen.     
 4.  Rechten op lijfrenten als bedoeld in het derde lid, onderdelen a of b, alsmede polissen van levensverzekering als bedoeld in het derde lid, onderdeel c, worden op het bedrag, genoemd in het derde lid, onderdeel d, tot ten hoogste dat bedrag in mindering gebracht.   
 5.  Tot de schulden behoren niet premies en bijdragen ter zake van rechten die op grond van het tweede en derde lid niet tot de bezittingen behoren.   
 6.  Het bedrag, genoemd in het derde lid, onderdeel d, wordt herzien met ingang van de dag waarop het netto-minimumloon zonder de daarin begrepen aanspraak op vakantietoeslag wordt herzien, met het percentage van die herziening. Van het herziene bedrag en van de dag waarop de herziening plaatsvindt, wordt door de Minister mededeling gedaan in de Staatscourant.  
@@ -134,7 +134,7 @@ m. een buitenlandse regeling die naar aard en strekking overeenkomt met een rege
 ####Geen recht op uitkering
 
 1.  Geen recht op een overbruggingsuitkering heeft de persoon wiens echtgenoot recht heeft op een toeslag als bedoeld in artikel 8, eerste lid, van de AOW.   
-2.  Geen recht op een overbruggingsuitkering heeft de persoon die niet in Nederland woont. Artikel 8a, tweede tot en met vijfde lid, van de AOW is van overeenkomstige toepassing, waarbij voor “recht op toeslag” telkens wordt gelezen: recht op een overbruggingsuitkering.   
+2.  Geen recht op een overbruggingsuitkering heeft de persoon die niet in Nederland woont. Artikel 8a, tweede, derde en vijfde lid, van de AOW is van overeenkomstige toepassing, waarbij voor ‘recht op toeslag’ telkens wordt gelezen ‘recht op een overbruggingsuitkering’ en voor ‘pensioengerechtigde’ telkens ‘rechthebbende’. Artikelen 5, eerste lid, en 11, eerste lid, van het Besluit regels export uitkeringen zijn eveneens van overeenkomstige toepassing, waarbij voor ‘recht op een toeslag’ wordt gelezen ‘recht op een overbruggingsuitkering’, voor ‘pensioengerechtigde’ telkens wordt gelezen ‘rechthebbende’ en voor ‘ouderdomspensioen’ wordt gelezen ‘overbruggingsuitkering’.   
 3.  De artikelen 8b en 8c van de AOW zijn van overeenkomstige toepassing, waarbij voor “ouderdomspensioen” telkens wordt gelezen: overbruggingsuitkering.  
 
 ### Artikel  8  
@@ -145,18 +145,14 @@ m. een buitenlandse regeling die naar aard en strekking overeenkomt met een rege
 
 a. de ongehuwde rechthebbende;  
 
-b. de gehuwde rechthebbende;  
-
-c. de ongehuwde rechthebbende die een kind heeft jonger dan 18 jaar, dat niet als eigen kind, aangehuwd kind of pleegkind tot het huishouden van een ander behoort en voor wie aan hem op grond van artikel 18 van de Algemene Kinderbijslagwet kinderbijslag wordt betaald, zal worden betaald of zou worden betaald indien artikel 7, tweede lid, van die wet niet van toepassing zou zijn.     
+b. de gehuwde rechthebbende.     
 2.  De bruto-overbruggingsuitkering bedraagt voor: 
 
-a. de ongehuwde rechthebbende zonder kinderen € 1.126,68;  
+a. de ongehuwde rechthebbende € 1.131,98;  
 
-b. de gehuwde rechthebbende € 731,44;  
-
-c. de ongehuwde rechthebbende met een kind als bedoeld in het eerste lid, onderdeel c, € 1.406,55.     
-3.  De bruto-partneruitkering bedraagt € 731,44.   
-4.  De bedragen, genoemd in het tweede en derde lid, worden herzien met ingang van de dag waarop het netto minimumloon, bedoeld in de artikel 37 van de Wet werk en bijstand, wordt herzien op zodanige wijze dat de netto-uitkering wordt herzien met het percentage van de herziening van dat netto minimumloon. Van de herziene bedragen en van de dag waarop de herziening plaatsvindt, wordt door de Minister mededeling gedaan in de Staatscourant.  
+b. de gehuwde rechthebbende € 731,64.     
+3.  De bruto-partneruitkering bedraagt € 731,64.   
+4.  De bedragen, genoemd in het tweede en derde lid, worden gewijzigd met ingang van de dag waarop het netto minimumloon, bedoeld in artikel 37, eerste lid, van de Participatiewet, wordt gewijzigd op zodanige wijze dat de netto-uitkering wordt gewijzigd met het percentage van de herziening van dat netto minimumloon. Van de gewijzigde bedragen en van de dag waarop de herziening plaatsvindt, wordt door of namens de Minister mededeling gedaan in de Staatscourant.  
 
 ### Artikel  9  
 
@@ -201,7 +197,7 @@ b. voor elke jaarpremie op grond van de Wet financiering sociale verzekeringen, 
 a. voor elk kalenderjaar, dat de echtgenoot van de rechthebbende na het bereiken van de aanvangsleeftijd, doch vóór het bereiken van de leeftijd van 65 jaar van de rechthebbende niet verzekerd is geweest op grond van de artikelen 6 en 6a van de AOW;  
 
 b. voor elke jaarpremie op grond van de Wet financiering sociale verzekeringen, die de echtgenoot van de rechthebbende na het bereiken van de aanvangsleeftijd, doch vóór het bereiken van de leeftijd van 65 jaar van de rechthebbende schuldig nalatig is geweest te betalen.     
-3.  Gedeelten van kalenderjaren gedurende welke de rechthebbende of de echtgenoot van rechthebbende in de periode, bedoeld in het eerste of tweede lid, niet verzekerd is geweest, worden voor de vaststelling van de korting samengesteld en herleid tot hele kalenderjaren. Op de samenstelling en herleiding is artikel 1, derde en vierde lid, van de Regeling herleiding gedeelten van kalenderjaren en van jaarpremies van overeenkomstige toepassing   
+3.  Gedeelten van kalenderjaren gedurende welke de rechthebbende of de echtgenoot van rechthebbende in de periode, bedoeld in het eerste of tweede lid, niet verzekerd is geweest, worden voor de vaststelling van de korting samengesteld en herleid tot hele kalenderjaren. Op de samenstelling en herleiding is artikel 1, derde en vierde lid, van de Regeling herleiding gedeelten van kalenderjaren en van jaarpremies van overeenkomstige toepassing.   
 4.  Gedeelten van jaarpremies die de rechthebbende schuldig nalatig is geweest te betalen, worden voor de vaststelling van de korting samengesteld en herleid tot gehele jaarpremies.   
 5.  Gedeelten van jaarpremies die de echtgenoot van de rechthebbende in de periode, bedoeld in het tweede lid, schuldig nalatig is geweest te betalen, worden voor de vaststelling van de korting samengesteld en herleid tot gehele jaarpremies.   
 6.  Op de samenstelling, bedoeld in het vierde en vijfde lid, is artikel 2, derde en vierde lid, van de Regeling herleiding gedeelten van kalenderjaren en van jaarpremies van overeenkomstige toepassing.   
@@ -237,7 +233,8 @@ De overbruggingsuitkering wordt op aanvraag toegekend door de SVB.
 ####Controlevoorschriften
 
 1.  De SVB is bevoegd controlevoorschriften vast te stellen. Deze voorschriften mogen niet verder gaan dan strikt noodzakelijk is voor een juiste uitvoering van deze regeling.   
-2.  De rechthebbende, zijn echtgenoot dan wel zijn wettelijke vertegenwoordiger, is verplicht de voorschriften op te volgen en anderszins aan de SVB desgevraagd de medewerking te verlenen die redelijkerwijs nodig is voor de uitvoering van deze regeling.  
+2.  De rechthebbende, zijn echtgenoot dan wel zijn wettelijke vertegenwoordiger, is verplicht de voorschriften op te volgen en anderszins aan de SVB desgevraagd de medewerking te verlenen die redelijkerwijs nodig is voor de uitvoering van deze regeling.   
+3.  De rechthebbende, zijn echtgenoot, dan wel zijn wettelijk vertegenwoordiger, onthouden zich van zeer ernstige misdragingen jegens de met de uitvoering van deze regeling belaste personen en instanties tijdens het verrichten van hun werkzaamheden. 
 
 ### Artikel  15  
 
@@ -259,7 +256,7 @@ De overbruggingsuitkering wordt op aanvraag toegekend door de SVB.
 
 ####Maatregel
 
-1.  De SVB weigert de overbruggingsuitkering geheel of gedeeltelijk, tijdelijk of blijvend, indien de rechthebbende, zijn echtgenoot, of zijn wettelijke vertegenwoordiger een verplichting, hem op grond van artikel 14, tweede lid, of artikel 24 opgelegd, of de verplichtingen, bedoeld in artikel 55, tweede lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen niet of niet behoorlijk is nagekomen, dan wel de verplichting, bedoeld in artikel 25 niet binnen de door de SVB daarvoor vastgestelde termijn is nagekomen.   
+1.  De SVB weigert de overbruggingsuitkering geheel of gedeeltelijk, tijdelijk of blijvend, indien de rechthebbende, zijn echtgenoot, of zijn wettelijke vertegenwoordiger een verplichting, hem op grond van artikel 14, tweede of derde lid, of artikel 24 opgelegd, of de verplichtingen, bedoeld in artikel 55, tweede lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen niet of niet behoorlijk is nagekomen, dan wel de verplichting, bedoeld in artikel 25 niet binnen de door de SVB daarvoor vastgestelde termijn is nagekomen.   
 2.  Bij de toepassing van een maatregel is artikel 17b, tweede, derde, vierde en zesde lid, van de AOW van overeenkomstige toepassing, waarbij voor ‘ouderdomspensioen’ wordt gelezen: ‘overbruggingsuitkering’ en waarbij in het Maatregelenbesluit socialezekerheidswetten: 
 
 a. in artikel 1 voor ‘Algemene Ouderdomswet’ wordt gelezen ‘de Tijdelijke regeling overbruggingsuitkering AOW’ en voor ‘AOW’ ‘OBR’;  
@@ -270,7 +267,9 @@ c. in artikel 3, onderdeel c, voor ‘15, tweede lid, van de AOW’ wordt geleze
 
 d. in artikel 3, onderdeel d, voor ‘49 van de AOW’ wordt gelezen ‘25 van de OBR jo. 49 en 50 van de AOW’ en voor ‘ouderdomspensioen en toeslag als bedoeld in de artikelen 7 en 8 van de AOW’ wordt gelezen ‘de overbruggingsuitkering en de partneruitkering, bedoeld in de artikelen 4 en 6 van de OBR’;  
 
-e. in artikel 4, onderdelen a en c, voor ‘15 van de AOW’ wordt gelezen ‘14 van de OBR’.    
+e. in artikel 4, onderdelen a en c, voor ‘15 van de AOW’ wordt gelezen ‘14 van de OBR’;  
+
+f. in artikel 7a voor ‘15, derde lid, van de AOW’ wordt gelezen ‘14, derde lid, van de OBR’.   
 3.  De op grond van artikel 24 aan de rechthebbende, zijn echtgenoot of wettelijk vertegenwoordiger opgelegde verplichting wordt ingedeeld in de eerste categorie, bedoeld in artikel 3 van het Maatregelenbesluit socialezekerheidswetten voorzover deze betrekking heeft op het binnen de vastgestelde termijn gevolg geven aan een verzoek de inlichtingen en bewijsstukken te verstrekken die noodzakelijk zijn ter vaststelling van het recht, bedoeld in artikel 4.   
 4.  De op grond van artikelen 24 en 25 aan de rechthebbende, zijn echtgenoot of wettelijk vertegenwoordiger opgelegde verplichtingen worden ingedeeld in de tweede categorie, bedoeld in artikel 4 van het Maatregelenbesluit socialezekerheidswetten voorzover deze betrekking hebben op het niet of niet behoorlijk nakomen van een verzoek om alle feiten en omstandigheden mede te delen waarvan redelijkerwijs duidelijk is dat zij van invloed kunnen zijn op recht op uitkering, het geldend maken van het recht op uitkering, de hoogte of de duur van de uitkering, of het bedrag dat wordt betaald. 
 

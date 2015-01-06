@@ -5769,7 +5769,7 @@ e. een omschrijving van het verzoek.
 
 ### Artikel 1019 
 
-Deze titel is van toepassing op de handhaving van rechten van intellectuele eigendom ingevolge de Auteurswet, de Wet op de naburige rechten, de Databankenwet, de Rijksoctrooiwet 1995, het Benelux-verdrag inzake de intellectuele eigendom (merken en tekeningen of modellen), de Wet houdende regelen inzake de bescherming van oorspronkelijke topografieën van halfgeleiderprodukten, de Zaaizaad- en plantgoedwet 2005, op procedures krachtens de artikelen 5 en 5a Handelsnaamwet, op procedures inzake geografische benamingen krachtens artikel 13a Landbouwkwaliteitswet en op handhaving van rechten van intellectuele eigendom ingevolge verordening (EG) nr. 40/94 van de Raad van 20 december 1993 inzake het Gemeenschapsmerk (PbEG 1994, L11), verordening (EG) nr. 2100/94 van de Raad van 27 juli 1994 inzake het communautaire kwekersrecht (PbEG L 227) en verordening (EG) nr. 6/2002 van de Raad van 12 december 2001 betreffende Gemeenschapsmodellen (PbEG 2002, L3).
+Deze titel is van toepassing op de handhaving van rechten van intellectuele eigendom ingevolge de Auteurswet, de Wet op de naburige rechten, de Databankenwet, de Rijksoctrooiwet 1995, het Benelux-verdrag inzake de intellectuele eigendom (merken en tekeningen of modellen), de Wet houdende regelen inzake de bescherming van oorspronkelijke topografieën van halfgeleiderprodukten, de Zaaizaad- en plantgoedwet 2005, op procedures krachtens de artikelen 5 en 5a Handelsnaamwet, op procedures inzake geografische benamingen krachtens artikel 14 Landbouwkwaliteitswet en op handhaving van rechten van intellectuele eigendom ingevolge verordening (EG) nr. 40/94 van de Raad van 20 december 1993 inzake het Gemeenschapsmerk (PbEG 1994, L11), verordening (EG) nr. 2100/94 van de Raad van 27 juli 1994 inzake het communautaire kwekersrecht (PbEG L 227) en verordening (EG) nr. 6/2002 van de Raad van 12 december 2001 betreffende Gemeenschapsmodellen (PbEG 2002, L3).
 
 ### Artikel 1019a 
 
@@ -5810,7 +5810,7 @@ Deze titel is van toepassing op de handhaving van rechten van intellectuele eige
 
 De rechter kan op vordering van degene die is getroffen door
 
-a.een beslag dat is gelegd ingevolge artikel 28, derde lid, Auteurswet 1912, artikel 17, tweede lid, Wet op de naburige rechten, de artikelen 2.22, tweede lid, en 3.18, tweede lid, Benelux-verdrag inzake de intellectuele eigendom (merken en tekeningen of modellen), artikel 70, negende lid, Zaaizaad- en plantgoedwet 2005 en artikel 13a, negende lid, Landbouwkwaliteitswet,
+a.een beslag dat is gelegd ingevolge artikel 28, derde lid, Auteurswet 1912, artikel 17, tweede lid, Wet op de naburige rechten, de artikelen 2.22, tweede lid, en 3.18, tweede lid, Benelux-verdrag inzake de intellectuele eigendom (merken en tekeningen of modellen), artikel 70, negende lid, Zaaizaad- en plantgoedwet 2005 en artikel 14, negende lid, Landbouwkwaliteitswet,
 
 b.een maatregel als bedoeld in artikel 1019b, eerste lid,
 

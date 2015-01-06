@@ -318,7 +318,7 @@ De leerling heeft geen aanspraak op tegemoetkoming in de zin van hoofdstuk 4, in
 
 ####Rechtens ontnomen vrijheid
 
-1.  Een scholier of een deelnemer vavo als bedoeld in hoofdstuk 4 die voor ten minste één maand rechtens zijn vrijheid is ontnomen, heeft, behoudens in de gevallen, bedoeld in de Wet bijzondere opnemingen in psychiatrische ziekenhuizen en in artikel 37, eerste lid, van het Wetboek van Strafrecht en de gevallen, bedoeld in hoofdstuk IVB, van de Wet op de jeugdzorg, met ingang van de eerste dag van de maand volgend op de maand waarin de vrijheidsontneming tenminste één maand heeft geduurd slechts aanspraak op een basistoelage voor een thuiswonende leerling.   
+1.  Een scholier of een deelnemer vavo als bedoeld in hoofdstuk 4 die voor ten minste één maand rechtens zijn vrijheid is ontnomen, heeft, behoudens in de gevallen, bedoeld in de Wet bijzondere opnemingen in psychiatrische ziekenhuizen en in artikel 37, eerste lid, van het Wetboek van Strafrecht en de gevallen, bedoeld in hoofdstuk 6 van de Jeugdwet, met ingang van de eerste dag van de maand volgend op de maand waarin de vrijheidsontneming tenminste één maand heeft geduurd slechts aanspraak op een basistoelage voor een thuiswonende leerling.   
 2.  Voor de toepassing van het eerste lid worden perioden van vrijheidsontneming samengeteld, indien zij elkaar met een onderbreking van minder dan vier weken opvolgen.   
 3.  Het eerste en tweede lid zijn niet van toepassing op bij algemene maatregel van bestuur aan te wijzen groepen van personen waarbij tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel buiten een justitiële inrichting plaatsvindt. 
 
@@ -331,7 +331,7 @@ De leerling heeft geen aanspraak op tegemoetkoming in de zin van hoofdstuk 4, in
 ####Grensbedrag draagkracht
 
 1.  De tegemoetkoming in de onderwijsbijdrage en in de schoolkosten is afhankelijk van de hoogte van de op grond van artikel 7, eerste lid, van de Algemene wet inkomensafhankelijke regelingen berekende draagkracht.   
-2.  Volledige tegemoetkoming ingevolge de hoofdstukken 3, 4 en 5 bestaat tot en met het grensbedrag van de draagkracht. Naar de maatstaf van het schooljaar of studiejaar 2004–2005 bedraagt het grensbedrag € 29 882,93 Met ingang van het schooljaar 2014-2015: € 35.763,02.   
+2.  Volledige tegemoetkoming ingevolge de hoofdstukken 3, 4 en 5 bestaat tot en met het grensbedrag van de draagkracht. Naar de maatstaf van het schooljaar of studiejaar 2012–2013 bedraagt het grensbedrag € 32 142,16met ingang van het schooljaar 2015-2016: € 33.329,43.   
 3.  Indien het toe te kennen bedrag per aanvrager minder bedraagt dan € 10,–, wordt de tegemoetkoming op nihil gesteld.  
 
 ###Artikel 2.25 
@@ -540,9 +540,9 @@ b.tegemoetkoming in de schoolkosten.
 
 De basistoelage is naar de maatstaf van 1 januari 2001 per kalendermaand voor een: 
 
-a. thuiswonende leerling:  € 84,59 Van 1 januari 2014 tot 1 januari 2015: € 108,80, en  
+a. thuiswonende leerling:  € 84,59 per 1 januari 2015: € 111,53, en  
 
-b. uitwonende leerling:  € 197,21 Van 1 januari 2014 tot 1 januari 2015: € 253,66.   
+b. uitwonende leerling:  € 197,21 per 1 januari 2015: € 260,03.   
 
 ### Artikel  4.4  
 
@@ -577,16 +577,16 @@ De bedragen in onderstaand overzicht luiden per maand en zijn uitgedrukt in euro
 | e. speciaal onderwijs en voortgezet speciaal onderwijs  | €  46,67  |
 | f. vavo  | € 102,89  |
 
-voor het schooljaar 2014–2015: Overzicht bedragen tegemoetkoming schoolkosten per maand 2014–2015 
+met ingang van schooljaar 2015–2016: Overzicht bedragen tegemoetkoming schoolkosten per maand 2015–2016 
 
 | --- | --- |
 |:---|:---|
-| a. onderbouw volledig op grond van de WVO bekostigd onderwijs en onderbouw + bovenbouw volledig op grond van de WEB bekostigd voorbereidend beroepsonderwijs verzorgd in een agrarisch opleidingscentrum  | € 76,70  |
-| b. bovenbouw volledig op grond van de WVO bekostigd onderwijs  | € 83,99  |
-| c. onderbouw niet volledig en rechtstreeks bekostigd vo  | € 105,03  |
-| d. bovenbouw niet volledig en rechtstreeks bekostigd vo  | € 112,35  |
-| e. speciaal onderwijs en voortgezet speciaal onderwijs  | € 50,96  |
-| f. voortgezet algemeen volwassenen onderwijs (vavo)  | € 112,35  |
+| a. onderbouw volledig op grond van de WVO bekostigd onderwijs en onderbouw + bovenbouw volledig op grond van de WEB bekostigd voorbereidend beroepsonderwijs verzorgd in een agrarisch opleidingscentrum  | € 78,63  |
+| b. bovenbouw volledig op grond van de WVO bekostigd onderwijs  | € 86,10  |
+| c. onderbouw niet volledig en rechtstreeks bekostigd vo  | € 107,67  |
+| d. bovenbouw niet volledig en rechtstreeks bekostigd vo  | € 115,17  |
+| e. speciaal onderwijs en voortgezet speciaal onderwijs  | € 52,24  |
+| f. voortgezet algemeen volwassenen onderwijs (vavo)  | € 115,17  |
 
 ### Artikel  4.7  
 
@@ -705,7 +705,7 @@ De tegemoetkoming in de onderwijsbijdrage bedraagt € 567,23.
 
 ####Tegemoetkoming schoolkosten
 
-De tegemoetkoming in de schoolkosten bedraagt naar de maatstaf van 1 januari 2008 € 647,16 voor het schooljaar 2014–2015: € 706,66. 
+De tegemoetkoming in de schoolkosten bedraagt naar de maatstaf van 1 januari 2008 € 647,16 met ingang van het schooljaar 2015–2016: € 724,40. 
 
 ### Paragraaf  5.1.3  
 
@@ -775,34 +775,34 @@ De bedragen in onderstaande overzichten luiden per schooljaar en zijn uitgedrukt
 | aantal minuten per week  | onderwijsbijdrage  | schoolkosten   |
 |:---|:---|:---|
 | 540 of meer  | onderwijsbijdrage voor een uit 's Rijks kas bekostigde school voor 540 minuten onderwijs (= o<sub>1</sub>)  |  € 226,– 
-voor het schooljaar 2014–2015: € 302,35   |
+met ingang van het schooljaar 2015–2016: € 309,94   |
 | 540 of meer en voor 1 januari 270 tot 540  | 0,5 x [o<sub>1</sub> + (o<sub>1</sub> naar rato aantal minuten dat onderwijs wordt gevolgd)]  |  € 113 
-voor het schooljaar 2014–2015: € 151,18 + € 113 
-voor het schooljaar 2014–2015: € 151,17 naar rato aantal minuten dat onderwijs wordt gevolgd   |
+met ingang van het schooljaar 2015–2016: € 154,97 + € 113 
+met ingang van het schooljaar 2015–2016: € 154,97 naar rato aantal minuten dat onderwijs wordt gevolgd   |
 | 270 tot 540  | onderwijsbijdrage voor een uit 's Rijks kas bekostigde school voor 360 minuten onderwijs (= o<sub>2</sub>)  |  € 152,– 
-voor het schooljaar 2014–2015: € 203,70   |
+met ingang van het schooljaar 2015–2016: € 208,81   |
 | 270 tot 540 en voor 1 januari minder dan 270  | 0,5 x [o<sub>2</sub> + (o<sub>2</sub> naar rato aantal minuten dat onderwijs wordt gevolgd)]  |  € 76,- 
-voor het schooljaar 2014–2015: € 101,85+ € 76,-
-voor het schooljaar 2014–2015: € 101,85 naar rato aantal minuten dat onderwijs wordt gevolgd  |
+met ingang van het schooljaar 2015–2016: € 104,41+ € 76,-
+met ingang van het schooljaar 2015–2016: € 104,40 naar rato aantal minuten dat onderwijs wordt gevolgd  |
 | minder dan 270  | nihil  | nihil 
-voor het schooljaar 2014–2015: nihil  |
+met ingang van het schooljaar 2015–2016: nihil  |
 
 ### *Overzicht 2. Geen onderwijs meer volgen na 30 september en voor 1 januari* 
 
 | aantal minuten per week  | onderwijsbijdrage  | schoolkosten   |
 |:---|:---|:---|
 | 540 of meer  | de helft van de onderwijsbijdrage voor een uit 's Rijks kas bekostigde school voor 540 minuten onderwijs (= o<sub>1</sub>)  |  € 113,- 
-voor het schooljaar 2014–2015: € 151,18   |
+met ingang van het schooljaar 2015–2016: € 154,97   |
 | 540 of meer en voor 1 januari 270 tot 540  | 0,25 x [o<sub>1</sub> + (o<sub>1</sub> naar rato aantal minuten dat onderwijs wordt gevolgd)]  |  € 56,50 
-voor het schooljaar 2014–2015: € 75,59 +  € 56,50 
-voor het schooljaar 2014–2015: € 75,59 naar rato aantal minuten dat onderwijs wordt gevolgd   |
+met ingang van het schooljaar 2015–2016: € 77,49 +  € 56,50 
+met ingang van het schooljaar 2015–2016: € 77,48 naar rato aantal minuten dat onderwijs wordt gevolgd   |
 | 270 tot 540  | de helft van de onderwijsbijdrage voor een uit 's Rijks kas bekostigde school voor 360 minuten onderwijs (= o<sub>2</sub>)  |  € 76,- 
-voor het schooljaar 2014–2015: € 101,85   |
+met ingang van het schooljaar 2015–2016: € 104,41   |
 | 270 tot 540 en voor 1 januari minder dan 270  | 0,25 x [o<sub>2</sub> + (o<sub>2</sub> naar rato aantal minuten dat onderwijs wordt gevolgd)]  |  € 38,- 
-voor het schooljaar 2014–2015: € 50,93 +  € 38,- 
-voor het schooljaar 2014–2015: € 50,92 naar rato aantal minuten dat onderwijs wordt gevolgd   |
+met ingang van het schooljaar 2015–2016: € 52,21 +  € 38,- 
+met ingang van het schooljaar 2015–2016: € 52,20 naar rato aantal minuten dat onderwijs wordt gevolgd   |
 | minder dan 270  | nihil  | nihil 
-voor het schooljaar 2014–2015: nihil  |
+met ingang van het schooljaar 2015–2016: nihil  |
 
 ### *Overzicht 3. Geen onderwijs meer volgen voor 1 oktober* 
 
@@ -1067,7 +1067,7 @@ Voor tegemoetkoming kan een student in aanmerking komen die als student is inges
 ####Grensbedrag toetsingsinkomen
 
 1.  Voor tegemoetkoming kan aanspraak bestaan afhankelijk van de hoogte van het toetsingsinkomen en van de onderwijssoort.   
-2.  Geen aanspraak op een tegemoetkoming bestaat bij een toetsingsinkomen naar de maatstaf van 1 januari 2001 van meer dan € 2 858,-Van 1 januari 2014 tot 1 januari 2015: € 3.712,73.  
+2.  Geen aanspraak op een tegemoetkoming bestaat bij een toetsingsinkomen naar de maatstaf van 1 januari 2001 van meer dan € 2 858,-per 1 januari 2015: € 3.746,89.  
 
 ### Artikel  10.6  
 
@@ -1105,11 +1105,11 @@ b. tegemoetkoming in de schoolkosten.
 4°. voortgezet onderwijs die per week minder dan 270 minuten onderwijs volgt: nihil.     
 3.  De tegemoetkoming in de schoolkosten voor een schooljaar of studiejaar bedraagt naar de maatstaf van 1 augustus 2008 onderscheidenlijk 1 september 2008 voor een leerling of student in het: 
 
-a. hoger onderwijs: € 647,– voor het schooljaar 2014–2015: € 707,00,  
+a. hoger onderwijs: € 647,– met ingang van het schooljaar of studiejaar 2015–2016: € 724,00,  
 
-b. voortgezet onderwijs die per week 540 minuten of meer onderwijs volgt: € 276,90 voor het schooljaar 2014–2015: € 302,35,  
+b. voortgezet onderwijs die per week 540 minuten of meer onderwijs volgt: € 276,90 met ingang van het schooljaar of studiejaar 2015–2016: € 309,94,  
 
-c. voortgezet onderwijs die per week ten minste 270 minuten en minder dan 540 minuten onderwijs volgt: € 186,54 voor het schooljaar 2014–2015: € 203,70,  
+c. voortgezet onderwijs die per week ten minste 270 minuten en minder dan 540 minuten onderwijs volgt: € 186,54 met ingang van het schooljaar of studiejaar 2015–2016: € 208,81,  
 
 d. voortgezet onderwijs die per week minder dan 270 minuten onderwijs volgt: nihil.     
 4.  Bij algemene maatregel van bestuur kunnen de maatstaf genoemd in de aanhef van het derde lid, alsmede de bedragen genoemd in het derde lid, de onderdelen a tot en met c, worden gewijzigd.   

@@ -18,13 +18,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 a. Onze Minister: Onze Minister van Sociale Zaken en Werkgelegenheid;   
 
-b. publiekrechtelijke regeling:  
-
-1°. een regeling als bedoeld in artikel 5 of 6 van de Wet op de loonvorming;   
-
-2°. een verordening als bedoeld in artikel 16, derde lid, of 86, derde lid, van de Wet op de Bedrijfsorganisatie (*Stb.* 1950, K 22);   
-
-3°. een verordening als bedoeld in artikel 93, tweede lid, onder d, van de Wet op de Bedrijfsorganisatie.       
+b. publiekrechtelijke regeling: een regeling als bedoeld in artikel 5 of 6 van de Wet op de loonvorming.     
 2.   Voor de toepassing van het bij of krachtens deze wet bepaalde worden onder collectieve arbeidsovereenkomst mede verstaan bepalingen van een collectieve arbeidsovereenkomst, welke krachtens artikel 2 van de Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten (*Stb.* 1937, 801) algemeen verbindend zijn verklaard.   
 
 ### Artikel  2  
@@ -93,11 +87,11 @@ j.een werkgeversbijdrage in de premie voor de ziektekostenverzekering van een pe
 
 1.  Het minimumloon bedraagt over elke uitbetalingstermijn van:  
 
-a. een maand of een veelvoud van een maand: € 1264,80 per 1 juli 2014: € 1.495,20, onderscheidenlijk een gelijk veelvoud hiervan;   
+a. een maand of een veelvoud van een maand: € 1264,80 per 1 januari 2015: € 1.501,80, onderscheidenlijk een gelijk veelvoud hiervan;   
 
-b. een week of een veelvoud van een week: € 291,90 per 1 juli 2014: € 345,05, onderscheidenlijk een gelijk veelvoud hiervan;   
+b. een week of een veelvoud van een week: € 291,90 per 1 januari 2015: € 346,55, onderscheidenlijk een gelijk veelvoud hiervan;   
 
-c. een andere tijdsduur: € 58,38 per 1 juli 2014: € 69,01 vermenigvuldigd met het aantal van de in die termijn begrepen werkdagen. Onder werkdag wordt verstaan een dag, waarop de werknemer arbeid heeft verricht of waarover hij recht op loon heeft als bedoeld in artikel 7, vijfde lid.      
+c. een andere tijdsduur: € 58,38 per 1 januari 2015: € 69,31 vermenigvuldigd met het aantal van de in die termijn begrepen werkdagen. Onder werkdag wordt verstaan een dag, waarop de werknemer arbeid heeft verricht of waarover hij recht op loon heeft als bedoeld in artikel 7, vijfde lid.      
 2.   Waar in deze wet wordt verwezen naar de in het vorige lid genoemde bedragen, worden als zodanig, indien toepassing is gegeven aan artikel 14, de daarbij laatstelijk in hun plaats gestelde bedragen aangemerkt.    
 3.   In afwijking van het eerste lid bedraagt het minimumloon voor werknemers aan wie de in artikel 7, eerste lid, bedoelde aanspraak is toegekend bij een algemene maatregel van bestuur als bedoeld in het derde lid van dat artikel, een bij die maatregel vast te stellen percentage van de in het eerste lid van het onderhavige artikel genoemde bedragen. Dit percentage kan voor naar leeftijd en tak van bedrijf of beroep te onderscheiden categorieën van deze werknemers verschillend zijn.   
 
@@ -273,10 +267,11 @@ Indien een dwangsom ten onrechte is ingevorderd, wordt de betaalde geldsom, verm
 
 1.  Bestuursorganen zijn bevoegd uit eigen beweging en verplicht desgevraagd aan Onze Minister en de ambtenaren, bedoeld in artikel 18a, eerste en tweede lid, kosteloos alle gegevens en inlichtingen te verstrekken die noodzakelijk zijn voor de uitvoering en het toezicht op de naleving van het bepaalde bij of krachtens deze wet en dit noodzakelijk is ten behoeve van een samenwerkingsverband tussen twee of meer van de voornoemde instanties.   
 2.  Onze Minister en de ambtenaren, bedoeld in artikel 18a, eerste en tweede lid, verstrekken andere bestuursorganen kosteloos alle gegevens en inlichtingen, die zijn verkregen door de uitvoering of het toezicht op de naleving van het bepaalde bij of krachtens deze wet, welke noodzakelijk zijn voor de uitvoering van hun wettelijke taak en dit noodzakelijk is ten behoeve van een samenwerkingsverband tussen twee of meer van de voornoemde instanties.   
-3.  Onze Minister, bestuursorganen en de ambtenaren, bedoeld in artikel 18a, eerste en tweede lid, kunnen bij het verwerken van persoonsgegevens gebruik maken van het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer.   
+3.  Onze Minister, bestuursorganen en de ambtenaren, bedoeld in artikel 18a, eerste en tweede lid, kunnen bij het verwerken van persoonsgegevens gebruik maken van het burgerservicenummer.   
 4.  De gegevensverstrekking, bedoeld in het eerste en tweede lid, vindt niet plaats indien de persoonlijke levenssfeer van de betrokkene daardoor onevenredig wordt geschaad.   
 5.  De door Onze Minister aangewezen ambtenaren, bedoeld in artikel 18a, eerste lid, kunnen kosteloos aan een naar het oordeel van Onze Minister in aanmerking komende rechtspersoon met volledige rechtsbevoegdheid die door de organisaties van werkgevers en werknemers is belast of mede is belast met het toezicht op de naleving van collectieve arbeidsovereenkomsten gegevens verstrekken omtrent opgelegde bestuurlijke boeten voor het niet naleven van de artikelen 7, 15 of 18b, tweede lid, van deze wet.   
-6.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent de gevallen waarin en de wijze waarop in ieder geval gegevens worden verstrekt. 
+6.  Indien aan een werkgever een boete is opgelegd worden de daarvoor in aanmerking komende verenigingen van werknemers en werkgevers daarvan in kennis gesteld.  
+7.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent de gevallen waarin en de wijze waarop in ieder geval gegevens worden verstrekt. 
 
 ### Hoofdstuk  V  
 

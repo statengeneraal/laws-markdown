@@ -3,16 +3,16 @@
 ##Besluit vaststelling factoren L en r boekjaar 2013
 
 Het Uitvoeringsinstituut werknemersverzekeringen,  
-Gelet op [artikel 4, zesde en zevende lid, van de Regeling vordering contante waarde van periodieke verstrekkingen WAO en Wet WIA](../../../../../../../../../../ministeriele-regeling/regeling/vordering/contante/waarde/periodieke/verstrekkingen/wao/BWBR0011500/README.md);
+Gelet op artikel 4, zesde en zevende lid, van de Regeling vordering contante waarde van periodieke verstrekkingen WAO en Wet WIA;
 Besluit:    
 
 ### Artikel  1  
 
-De factor L, bedoeld in [artikel 3 van de Regeling vordering contante waarde van periodieke verstrekkingen WAO en Wet WIA](../../../../../../../../../../ministeriele-regeling/regeling/vordering/contante/waarde/periodieke/verstrekkingen/wao/BWBR0011500/README.md), wordt voor het boekjaar 2013 vastgesteld op 0,209545%. 
+De factor L, bedoeld in artikel 3 van de Regeling vordering contante waarde van periodieke verstrekkingen WAO en Wet WIA, wordt voor het boekjaar 2013 vastgesteld op 0,209545%. 
 
 ### Artikel  2  
 
-De factor r, bedoeld in [artikel 3 van de Regeling vordering contante waarde van periodieke verstrekkingen WAO en Wet WIA](../../../../../../../../../../ministeriele-regeling/regeling/vordering/contante/waarde/periodieke/verstrekkingen/wao/BWBR0011500/README.md), wordt voor het boekjaar 2013 vastgesteld op 0,183961%. 
+De factor r, bedoeld in artikel 3 van de Regeling vordering contante waarde van periodieke verstrekkingen WAO en Wet WIA, wordt voor het boekjaar 2013 vastgesteld op 0,183961%. 
 
 ### Artikel  3  
 

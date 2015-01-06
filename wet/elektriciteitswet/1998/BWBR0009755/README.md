@@ -52,7 +52,7 @@ o. programma-verantwoordelijkheid: de verantwoordelijkheid van afnemers, niet zi
 
 p. systeemdiensten: de diensten die de netbeheerder van het landelijk hoogspanningsnet uitvoert om het transport van elektriciteit over alle netten op een veilige en doelmatige wijze te waarborgen, om grootschalige onderbrekingen van het transport van elektriciteit op te lossen, en om de energiebalans op alle netten te handhaven of te herstellen;  
 
-q. black-start-voorziening: de voorziening die benodigd is om bij een spanningsloos net de eigen energievoorziening van een productielocatie onder spanning te brengen, waarna de productie van elektriciteit kan worden hervat;  
+q. vervallen;  
 
 r. verwant bedrijf: een verbonden onderneming in de zin van artikel 41 van de zevende richtlijn nr. 83/349/EEG van de Raad van 13 juni 1983 op de grondslag van artikel 44, tweede lid, onderdeel g, van het Verdrag betreffende de geconsolideerde jaarrekening, of een geassocieerde onderneming in de zin van artikel 33, eerste lid, daarvan of een onderneming die aan dezelfde aandeelhouders toebehoort;  
 
@@ -367,9 +367,7 @@ a. zijn naam en adres;
 b. een globale beschrijving van de directe lijn;  
 
 c. een aanduiding van de locatie waar de directe lijn zich bevindt.    
-2.  De producent meldt een significante wijziging ten opzichte van een eerdere melding zo spoedig mogelijk na doorvoering van de betreffende wijziging aan de Autoriteit Consument en Markt. Onder een significante wijziging wordt in ieder geval verstaan een wijziging van het aantal aangeslotenen op de directe lijn, een wijziging van de eigenaar van de directe lijn of een wijziging in de eventuele verbinding met een net.   
-3.  Indien de directe lijn via de installatie van een aangeslotene is verbonden met een net, factureert en int de producent het tarief voor systeemdiensten, bedoeld in artikel 30, eerste lid, bij de verbruikers die op zijn directe lijn zijn aangesloten en draagt hij de te innen tarieven af aan de netbeheerder van het landelijk hoogspanningsnet. Op verzoek van de netbeheerder van het landelijk hoogspanningsnet verstrekt de producent gegevens over het verbruik van de verbruikers die op zijn directe lijn zijn aangesloten.   
-4.  De producent kan in afwijking van het derde lid het tarief voor systeemdiensten in de plaats van de aangeslotenen op zijn directe lijn betalen. In dat geval verstrekt de producent op verzoek van de netbeheer van het landelijk hoogspanningsnet gegevens over het totale verbruik van de aangeslotenen op zijn directe lijn. 
+2.  De producent meldt een significante wijziging ten opzichte van een eerdere melding zo spoedig mogelijk na doorvoering van de betreffende wijziging aan de Autoriteit Consument en Markt. Onder een significante wijziging wordt in ieder geval verstaan een wijziging van het aantal aangeslotenen op de directe lijn, een wijziging van de eigenaar van de directe lijn of een wijziging in de eventuele verbinding met een net.  
 
 ### Hoofdstuk  3  
 
@@ -529,8 +527,8 @@ b. in strijd handelt met de voorschriften en beperkingen als bedoeld in het twee
 
 c. bij de aanvraag om een ontheffing onjuiste of onvolledige gegevens heeft verstrekt en de verstrekking van juiste of volledige gegevens tot een andere beschikking op de aanvraag zou hebben geleid.     
 4.  Indien een ontheffing is verleend, zijn uitsluitend het vijfde en zesde lid van toepassing op de eigenaar van een gesloten distributiesysteem.   
-5.  De eigenaar van een gesloten distributiesysteem beheert het gesloten distributiesysteem. De houder van de ontheffing factureert en int het tarief voor systeemdiensten, bedoeld in artikel 30, eerste lid, bij de afnemers die op zijn net zijn aangesloten en draagt de te innen tarieven af aan de netbeheerder van het landelijk hoogspanningsnet. Op verzoek van de netbeheerder van het landelijk hoogspanningsnet verstrekt de houder van de ontheffing gegevens over het verbruik van de afnemers die op zijn net zijn aangesloten. De houder van de ontheffing kan in afwijking van de tweede volzin het tarief voor systeemdiensten in de plaats van de afnemers die op zijn net zijn aangesloten betalen. In dat geval verstrekt de houder van de ontheffing op verzoek van de netbeheerder van het landelijk hoogspanningsnet gegevens over het totale verbruik van de afnemers die op zijn net zijn aangesloten.   
-6.  Het bepaalde bij of krachtens de artikelen 16, eerste lid, met uitzondering van onderdeel h, j en m, 19d, 19e, eerste lid, 23, 24, 24b, 26a, 28, 29, 30, 31b, 31c, 42, tweede en derde lid, 51, 78, 79, 95lb, 95lc en 95m, negende lid, is van overeenkomstige toepassing voor de eigenaar van een gesloten distributiesysteem, met dien verstande dat: 
+5.  De eigenaar van een gesloten distributiesysteem beheert het gesloten distributiesysteem.   
+6.  Het bepaalde bij of krachtens de artikelen 16, eerste lid, met uitzondering van onderdeel h, j en m, 19d, 19e, eerste lid, 23, 24, 24b, 26a, 28, 29, 31b, 31c, 42, tweede en derde lid, 51, 78, 79, 95lb, 95lc en 95m, negende lid, is van overeenkomstige toepassing voor de eigenaar van een gesloten distributiesysteem, met dien verstande dat: 
 
 a. artikel 23, eerste lid, uitsluitend geldt voor zover er na aansluiting sprake is van een afnemer binnen het geografisch gebied waarbinnen het gesloten distributiesysteem ligt en deze aansluiting past bij het karakter van het gesloten distributiesysteem,  
 
@@ -565,7 +563,7 @@ g. het bevorderen van de veiligheid bij het gebruik van toestellen en installati
 
 h. op verzoek van een producent vast te stellen of diens productie-installatie geschikt is voor de opwekking van duurzame elektriciteit dan wel of sprake is van een installatie voor warmtekrachtkoppeling met een bij ministeriële regeling vast te stellen mate van reductie van de uitstoot van kooldioxide dan wel of sprake is van een installatie voor hoogrenderende warmtekrachtkoppeling, alsmede of de inrichting om te meten geschikt is voor de meting van de elektriciteit die met de productie-installatie wordt opgewekt en op een net of een installatie ingevoed;  
 
-i. de hoeveelheid elektriciteit te meten die afkomstig is van een productie-installatie voor duurzame elektriciteit of klimaatneutrale elektriciteit of van een installatie voor warmtekrachtkoppeling;  
+i. de hoeveelheid elektriciteit te meten die afkomstig is van een productie-installatie voor duurzame elektriciteit of klimaatneutrale elektriciteit of van een installatie voor hoogrenderende warmtekrachtkoppeling;  
 
 j. koppelingen met andere netten te realiseren en reparaties aan zijn net uit te voeren;  
 
@@ -648,7 +646,7 @@ c.draagt de netbeheerder er zorg voor dat in de overeenkomst tot uitbesteding de
 
 1.  Het is anderen dan de desbetreffende netbeheerder verboden een taak uit te voeren als bedoeld in artikel 16, eerste of tweede lid, behoudens voor zover het betreft het meten van elektriciteit, bedoeld in artikel 16, eerste lid, onderdeel i. De vorige volzin is niet van toepassing op een interconnector-beheerder voor de taken als bedoeld in artikel 16, eerste lid, onderdeel a, b, j, k en l en tweede lid, onderdeel g en k.   
 2.  Degene, niet zijnde een netbeheerder, die bij een afnemer de meting van van het net afgenomen en verbruikte of opgewekte en op het net ingevoede elektriciteit verricht, deelt de daarmee verkregen meetgegevens mee aan de desbetreffende afnemer en aan de netbeheerder op wiens net de afnemer is aangesloten.   
-3.  De netbeheerder deelt het resultaat van de vaststelling, bedoeld in artikel 16, eerste lid, onderdeel h, en de meetgegevens, bedoeld in het tweede lid en in artikel 16, eerste lid, onderdeel i, mee aan de netbeheerder van het landelijk hoogspanningsnet alsmede aan de desbetreffende producent voor zover die nog niet de beschikking heeft over die informatie.  
+3.  De netbeheerder deelt de meetgegevens, bedoeld in het tweede lid en in artikel 16, eerste lid, onderdeel i, mee aan Onze Minister, alsmede aan de desbetreffende afnemer voor zover die nog niet de beschikking heeft over die informatie.  
 
 ###Artikel 16c  
 
@@ -981,29 +979,7 @@ c. deze gegevens op basis van het tweede tot en met vijfde lid verstrekt worden.
 1. Een netbeheerder brengt op verzoek van een leverancier wijzigingen aan in de besturings- en toepassingsprogramma’s van meetinrichtingen die ter beschikking zijn gesteld aan afnemers als bedoeld in artikel 95a, eerste lid, van de betreffende leverancier, tenzij een meetinrichting door inwilliging van het verzoek niet langer zou voldoen aan de voor die meetinrichting geldende eisen of op andere wijze afbreuk gedaan zou worden aan de integriteit van de meetinrichting.  
 2.  Een netbeheerder leest meetgegevens van een afnemer als bedoeld in artikel 95a, eerste lid, die beschikt over een geïnstalleerde meetinrichting die ten minste voldoet aan de krachtens artikel 95la, eerste lid, gestelde eisen, niet op afstand uit indien de afnemer hierom verzoekt. 
 
-### Artikel  26ad  
-
-1.  Een netbeheerder heeft in het kader van het beheer van de netten in het voor hem krachtens artikel 36 of 37 vastgestelde gebied tot taak ervoor zorg te dragen dat een afnemer als bedoeld in artikel 95a, eerste lid, binnen een redelijke termijn een meetinrichting ter beschikking wordt gesteld die ten minste voldoet aan de krachtens artikel 95la, eerste lid, gestelde eisen, wanneer: 
-
-a. de afnemer hierom vraagt, tenzij het ter beschikking stellen technisch onmogelijk is, financieel niet redelijk is of dit niet in verhouding staat tot de potentiële energiebesparingen;  
-
-b. een bestaande meetinrichting wordt vervangen, tenzij het ter beschikking stellen technisch onmogelijk is of niet kostenefficiënt is in verhouding tot de geraamde potentiële energiebesparingen op lange termijn;  
-
-c. een nieuwe aansluiting wordt gemaakt in een nieuw gebouw;  
-
-d. een gebouw ingrijpend wordt gerenoveerd.     
-2.  Bij algemene maatregel van bestuur kunnen in aanvulling op het eerste lid andere situaties worden bepaald waarin een netbeheerder tot taak heeft ervoor zorg te dragen dat een afnemer als bedoeld in artikel 95a, eerste lid, binnen een redelijke termijn een meetinrichting ter beschikking wordt gesteld die ten minste voldoet aan de krachtens artikel 95la, eerste lid, gestelde eisen.   
-3.  In aanvulling op het eerste en tweede lid kan een netbeheerder in het voor hem krachtens artikel 36 of 37 vastgestelde gebied ervoor zorg dragen dat een afnemer een meetinrichting ter beschikking wordt gesteld die ten minste voldoet aan de krachtens artikel 95la, eerste lid, gestelde eisen.   
-4.  Indien een meetinrichting door de netbeheerder ter beschikking is gesteld ingevolge het eerste lid, onderdeel a, of het tweede lid en deze meetinrichting is geïnstalleerd, is de desbetreffende afnemer aan de desbetreffende netbeheerder een vergoeding verschuldigd in verband met de meerkosten.   
-5.  Bij ministeriële regeling wordt de hoogte van de vergoeding vastgesteld die voor verschillende situaties verschillend kan worden vastgesteld.   
-6.  Een ander dan een netbeheerder kan op verzoek van een afnemer als bedoeld in artikel 95a, eerste lid, er na voorafgaande melding aan de betreffende netbeheerder voor zorgdragen dat die afnemer voor een of meer aansluitingen beschikt over een geïnstalleerde meetinrichting die ten minste voldoet aan de krachtens artikel 95la, eerste lid, gestelde eisen die gelden op het tijdstip van terbeschikkingstelling.   
-7.  Indien een ander dan een netbeheerder er zorg voor draagt dat een afnemer als bedoeld in artikel 95a, eerste lid, beschikt over een meetinrichting die ten minste voldoet aan de krachtens artikel 95la gestelde eisen, betaalt de betreffende netbeheerder aan die ander een vergoeding.   
-8.  Dit lid is nog niet in werking getreden.   
-9.  Het is anderen dan de netbeheerder niet toegestaan bij afnemers als bedoeld in artikel 95a, eerste lid, geïnstalleerde, op afstand uitleesbare meetinrichtingen te vervangen die zijn geïnstalleerd na 31 december 2005.   
-10.  Indien een meetinrichting als bedoeld in artikel 95la, eerste lid, door de netbeheerder ter beschikking wordt gesteld, kan een afnemer als bedoeld in artikel 95a, eerste lid, deze meetinrichting weigeren. In dat geval wordt door de netbeheerder een niet op afstand uitleesbare meetinrichting ter beschikking gesteld.  
-
 ### Artikel  26ae  
-Treedt in werking per 01-01-2015 
 
 1.  Een netbeheerder heeft in het kader van het beheer van de netten in het voor hem krachtens artikel 36 of 37 vastgestelde gebied tot taak ervoor zorg te dragen dat in een bij algemene maatregel van bestuur te bepalen periode, een bij algemene maatregel van bestuur te bepalen percentage afnemers als bedoeld in artikel 95a, eerste lid, de beschikking krijgt over een geïnstalleerde meetinrichting die ten minste voldoet aan de krachtens artikel 95la, eerste lid, gestelde eisen, tenzij die afnemer blijkens de voorwaarden, bedoeld in artikel 31, eerste lid, onderdelen a of b, beschikt over een onbemeten aansluiting.   
 2.  In aanvulling op het eerste lid heeft een netbeheerder tot taak ervoor zorg te dragen dat een afnemer als bedoeld in artikel 95a, eerste lid, binnen een redelijke termijn een meetinrichting ter beschikking wordt gesteld die ten minste voldoet aan de krachtens artikel 95la gestelde eisen, wanneer: 
@@ -1050,7 +1026,7 @@ De artikelen 26ab en 26ac, eerste lid, zijn niet van toepassing met betrekking t
 
 ### Artikel  27  
 
-1.  Met inachtneming van de in artikel 26b bedoelde regels en de in artikel 6 van verordening 714/2009 bedoelde netcodes zenden de gezamenlijke netbeheerders aan de Autoriteit Consument en Markt een voorstel met betrekking tot de door hen jegens afnemers te hanteren tariefstructuren dat de elementen en wijze van berekening beschrijft van het tarief waarvoor afnemers zullen worden aangesloten op een net, van het tarief waarvoor transport van elektriciteit, met inbegrip van de invoer, uitvoer en doorvoer van elektriciteit, ten behoeve van afnemers zal worden uitgevoerd, het tarief waarvoor de systeemdiensten worden verricht en de energiebalans wordt gehandhaafd en het tarief voor meting van elektriciteit bij afnemers als bedoeld in artikel 95a, eerste lid.   
+1.  Met inachtneming van de in artikel 26b bedoelde regels en de in artikel 6 van verordening 714/2009 bedoelde netcodes zenden de gezamenlijke netbeheerders aan de Autoriteit Consument en Markt een voorstel met betrekking tot de door hen jegens afnemers te hanteren tariefstructuren dat de elementen en wijze van berekening beschrijft van het tarief waarvoor afnemers zullen worden aangesloten op een net, van het tarief waarvoor transport van elektriciteit, met inbegrip van de invoer, uitvoer en doorvoer van elektriciteit, ten behoeve van afnemers zal worden uitgevoerd, en de systeemdiensten worden verricht alsmede de energiebalans wordt gehandhaafd en het tarief voor meting van elektriciteit bij afnemers als bedoeld in artikel 95a, eerste lid.   
 2.  In de tariefstructuren wordt in ieder geval opgenomen dat: 
 
 a.een afnemer recht heeft op een aansluiting op het door hem gewenste spanningsniveau, tenzij dit om technische redenen redelijkerwijs niet van de netbeheerder kan worden verlangd;
@@ -1082,7 +1058,7 @@ c. het tot stand brengen en in stand houden van een verbinding tussen de plaats 
 
 ### Artikel  29  
 
-1.  Het tarief waarvoor transport van elektriciteit zal worden uitgevoerd heeft betrekking op de ontvangst en het invoeden van elektriciteit door afnemers, ongeacht de plaats van ontvangst of invoeding van de elektriciteit en ongeacht de plaats van de aansluiting waar de elektriciteit op het Nederlandse net is ontvangen of ingevoed.   
+1.  Het tarief waarvoor transport van elektriciteit zal worden uitgevoerd heeft betrekking op de ontvangst en het invoeden van elektriciteit door afnemers, ongeacht de plaats van ontvangst of invoeding van de elektriciteit en ongeacht de plaats van de aansluiting waar de elektriciteit op het Nederlandse net is ontvangen of ingevoed en op systeemdiensten.   
 2.  Het tarief, bedoeld in het eerste lid, wordt in rekening gebracht bij iedere afnemer die elektriciteit ontvangt op een aansluiting op een net dat wordt beheerd door een netbeheerder. Het tarief kan verschillen voor verschillende afnemers, afhankelijk van het spanningsniveau van het net waarop de afnemer is aangesloten. Bij algemene maatregel van bestuur kan worden bepaald dat het tarief tevens in rekening wordt gebracht bij iedere afnemer die elektriciteit invoedt op een net dat wordt beheerd door een netbeheerder. In dat geval kan het tarief tevens verschillen voor het ontvangen of het invoeden van elektriciteit.   
 3.   Het transporttarief wordt berekend per aansluiting. Voor de toepassing van het transporttarief wordt een streng van lichtmasten geacht te beschikken over één aansluiting.   
 4.  In aanvulling op het bepaalde bij of krachtens het eerste, tweede en derde lid, kunnen bij algemene maatregel van bestuur regels worden gesteld met betrekking tot het tarief waarvoor transport van elektriciteit zal worden uitgevoerd ten behoeve van bij die maatregel aan te geven afnemers dan wel voor daarbij te omschrijven transport van elektriciteit.   
@@ -1097,23 +1073,6 @@ a. 1 juli van het kalenderjaar twee jaar voorafgaand aan het kalenderjaar, bedo
 
 b. 30 juni van het kalenderjaar voorafgaand aan het kalenderjaar, bedoeld in het zevende lid.     
 11.  Bij ministeriële regeling worden nadere regels gesteld ter uitvoering van het zevende tot en met het tiende lid. 
-
-### Artikel  30  
-
-1.  Het tarief voor het verrichten van de systeemdiensten heeft betrekking op: 
-
-a. het reservevermogen en regelvermogen,  
-
-b. de black-start-voorzieningen en  
-
-c. de overige systeemdiensten.     
-2.  Het tarief, bedoeld in het eerste lid, wordt in rekening gebracht bij: 
-
-a. iedere afnemer die elektriciteit verbruikt en een aansluiting heeft op het landelijk hoogspanningsnet of een net dat direct of indirect in verbinding staat met dat net;  
-
-b. een verbruiker van elektriciteit die in verbinding staat met een directe lijn die via de installatie van een aangeslotene in verbinding staat met het landelijk hoogspanningsnet.     
-3.  Het tarief, bedoeld in het eerste lid, wordt uitgedrukt in een bedrag per verbruikte hoeveelheid elektriciteit in kWh.   
-4.  Bij algemene maatregel van bestuur kan worden bepaald dat het tarief, bedoeld in het eerste lid, in rekening wordt gebracht bij de afnemer, bedoeld in het tweede lid, en bij iedere afnemer die een hoeveelheid elektriciteit opwekt en op het net invoedt, dan wel verbruikt op de eigen installatie. In dat geval wordt het tarief uitgedrukt in een bedrag per opgewekte dan wel verbruikte hoeveelheid elektriciteit in kWh.  
 
 ### Artikel  30a  
 
@@ -1267,7 +1226,7 @@ c. de Autoriteit Consument en Markt, gelet op de belangen bedoeld in artikel 36,
 
 ### Artikel  40  
 
-De tarieven voor de diensten ter uitvoering van de taken, genoemd in artikel 16, eerste lid, met uitzondering van onderdeel p, worden vastgesteld overeenkomstig de artikelen 41 tot en met 41d. 
+De tarieven voor de diensten ter uitvoering van de taken, genoemd in artikel 16, eerste en tweede lid, met uitzondering van onderdeel p, worden vastgesteld overeenkomstig de artikelen 41 tot en met 41d. 
 
 ### Artikel  40a  
 
@@ -1275,8 +1234,12 @@ De tarieven voor de meting van elektriciteit bij afnemers als bedoeld in artikel
 
 ### Artikel  41  
 
-1.  De Autoriteit Consument en Markt stelt na overleg met de gezamenlijke netbeheerders en met representatieve organisaties van partijen op de elektriciteitsmarkt, met inachtneming van het belang dat door middel van marktwerking ten behoeve van afnemers de doelmatigheid van de bedrijfsvoering en de meest doelmatige kwaliteit van het transport worden bevorderd en rekening houdend met het belang van voorzieningszekerheid, duurzaamheid en een redelijk rendement op investeringen, voor netbeheerders, met uitzondering van de netbeheerder van het landelijk hoogspanningsnet, de methode tot vaststelling van de korting ter bevordering van de doelmatige bedrijfsvoering, van de kwaliteitsterm en van het rekenvolume van elke tariefdrager waarvoor een tarief wordt vastgesteld, vast. Het besluit tot vaststelling van de methode geldt voor een periode van ten minste drie en ten hoogste vijf jaar.   
-2.  Het eerste lid is van overeenkomstige toepassing voor vaststelling van de methode tot vaststelling van de korting ter bevordering van de doelmatige bedrijfsvoering en van het rekenvolume van elke tariefdrager waarvoor een tarief wordt vastgesteld voor de netbeheerder van het landelijk hoogspanningsnet.   
+1.  De Autoriteit Consument en Markt stelt na overleg met de gezamenlijke netbeheerders en representatieve organisaties van partijen op de elektriciteitsmarkt: 
+
+a. ten aanzien van de taken, genoemd in artikel 16, eerste lid, met inachtneming van het belang dat door middel van marktwerking ten behoeve van afnemers de doelmatigheid van de bedrijfsvoering en de meest doelmatige kwaliteit van het transport worden bevorderd en rekening houdend met het belang van voorzieningszekerheid, duurzaamheid en een redelijk rendement op investeringen, voor netbeheerders, met uitzondering van de netbeheerder van het landelijk hoogspanningsnet, de methode vast tot vaststelling van de korting ter bevordering van de doelmatige bedrijfsvoering, van de kwaliteitsterm en van het rekenvolume van elke tariefdrager waarvoor een tarief wordt vastgesteld;  
+
+b. voor elke taak, genoemd in artikel 16, tweede lid, met inachtneming van het belang dat de doelmatigheid van de bedrijfsvoering en de meest doelmatige kwaliteit van uitvoering van deze taken worden bevorderd, en rekening houdend met het belang van voorzieningszekerheid, duurzaamheid en een redelijk rendement op investeringen, de methode van regulering vast voor de netbeheerder van het landelijk hoogspanningsnet.   Het besluit tot vaststelling van de methode geldt voor een periode van ten minste drie en ten hoogste vijf jaar.   
+2.  Ten aanzien van de taken, genoemd in artikel 16, eerste lid, is het eerste lid, onderdeel a, van overeenkomstige toepassing voor vaststelling van de methode tot vaststelling van de korting ter bevordering van de doelmatige bedrijfsvoering en van het rekenvolume van elke tariefdrager waarvoor een tarief wordt vastgesteld voor de netbeheerder van het landelijk hoogspanningsnet.   
 3.  De korting ter bevordering van de doelmatige bedrijfsvoering heeft onder meer ten doel te bereiken dat de netbeheerder in ieder geval geen rendement kan behalen dat hoger is dan in het economische verkeer gebruikelijk en dat de gelijkwaardigheid in de doelmatigheid van de netbeheerders wordt bevorderd.   
 4.  De kwaliteitsterm geeft de aanpassing van de tarieven in verband met de geleverde kwaliteit aan en heeft ten doel netbeheerders te stimuleren om de kwaliteit van hun transportdienst te optimaliseren.   
 5.  De rekenvolumina die een netbeheerder gebruikt bij het voorstel, bedoeld in artikel 41b, zijn gebaseerd op daadwerkelijk gefactureerde volumina in eerdere jaren, of worden door de Autoriteit Consument en Markt geschat indien deze betrekking hebben op nieuwe tarieven.  
@@ -1295,7 +1258,7 @@ c.het rekenvolume van elke tariefdrager waarvoor een tarief wordt vastgesteld.
 
 ### Artikel  41b  
 
-1.  Iedere netbeheerder zendt jaarlijks voor 1 oktober aan de Autoriteit Consument en Markt een voorstel voor de tarieven die deze netbeheerder ten hoogste zal berekenen voor de uitvoering van de taken genoemd in artikel 16, eerste lid, met uitzondering van onderdeel p, met inachtneming van:
+1.  Iedere netbeheerder zendt jaarlijks voor 1 oktober aan de Autoriteit Consument en Markt een voorstel voor de tarieven die deze netbeheerder ten hoogste zal berekenen voor de uitvoering van de taken genoemd in artikel 16, eerste lid, met uitzondering van onderdeel p, en voor zover het betreft de netbeheerder van het landelijk hoogspanningsnet, de taken, genoemd in artikel 16, tweede lid, met inachtneming van:
 
 a.het uitgangspunt dat de kosten worden toegerekend aan de tariefdragers betreffende de diensten die deze kosten veroorzaken,
 
@@ -1311,8 +1274,9 @@ e. de gemaakte kosten voor investeringen, bedoeld in artikel 20d of 20e, tweede
 f. dit onderdeel is nog niet in werking getreden; 
 
 g. het totaal van de gemaakte kosten voor een verwerving van een bestaand net waarvoor nog niet eerder een netbeheerder was aangewezen door of met instemming van Onze Minister en voor de investeringen tot aanpassing van dat verworven net waardoor aan de bij of krachtens deze wet daaraan gestelde eisen wordt voldaan, voor zover deze kosten doelmatig zijn.    
-2.  De geschatte kosten die een netbeheerder voor de uitvoering van de taken genoemd in artikel 16, eerste lid, bij een andere netbeheerder in rekening zal brengen, worden zonder toepassing van de formule, bedoeld in het eerste lid, onder d, toegevoegd aan de totale inkomsten uit de tarieven van deze andere netbeheerder. Het verschil tussen de geschatte en gerealiseerde kosten wordt betrokken bij de vaststelling van de totale inkomsten uit de tarieven van de andere netbeheerder in een volgend jaar.   
-3.  De Autoriteit Consument en Markt stelt een beleidsregel vast betreffende de beoordeling van doelmatigheid, bedoeld in het eerste lid, onder e en g. 
+2.  De geschatte kosten die een netbeheerder voor de uitvoering van de taken genoemd in artikel 16, eerste en tweede lid, bij een andere netbeheerder in rekening zal brengen, worden zonder toepassing van de formule, bedoeld in het eerste lid, onder d, toegevoegd aan de totale inkomsten uit de tarieven van deze andere netbeheerder. Het verschil tussen de geschatte en gerealiseerde kosten wordt betrokken bij de vaststelling van de totale inkomsten uit de tarieven van de andere netbeheerder in een volgend jaar.   
+3.  De geschatte kosten die de netbeheerder van het landelijk hoogspanningsnet voor de uitvoering van de taken, genoemd in artikel 16, tweede lid, maakt, worden zonder toepassing van de formule, bedoeld in het eerste lid, onderdeel d, en met toepassing van het besluit, bedoeld in artikel 41, eerste lid, onderdeel b, toegevoegd aan de totale inkomsten uit de tarieven van de netbeheerder van het landelijk hoogspanningsnet.  
+4.  De Autoriteit Consument en Markt stelt een beleidsregel vast betreffende de beoordeling van doelmatigheid, bedoeld in het eerste lid, onder e en g. 
 
 ### Artikel  41c  
 
@@ -1333,17 +1297,8 @@ d. zijn vastgesteld met gebruikmaking van gegevens omtrent kosten voor bepaalde 
 
 ### Artikel  41d  
 
-1.  In afwijking van artikel 41a wordt voor de netbeheerder van het landelijk hoogspanningsnet geen kwaliteitsterm vastgesteld.   
+1.  In afwijking van artikel 41a wordt voor de netbeheerder van het landelijk hoogspanningsnet ten aanzien van de taken, bedoeld in artikel 16, eerste lid geen kwaliteitsterm vastgesteld.   
 2.  De Autoriteit Consument en Markt stelt voor de netbeheerder van het landelijk hoogspanningsnet jaarlijks het verschil vast tussen de totale inkomsten uit de tarieven, bedoeld in artikel 41b, eerste lid, onderdeel d, en de gerealiseerde totale inkomsten uit de tarieven. Bij de eerstvolgende vaststelling van de tarieven verwerkt de Autoriteit Consument en Markt het verschil in de tarieven.  
-
-### Artikel  41e  
-
-1.  De tarieven voor diensten ter uitvoering van de taken, genoemd in artikel 16, tweede lid, worden vastgesteld overeenkomstig dit artikel.   
-2.  Voor elke taak van de netbeheerder van het landelijk hoogspanningsnet, genoemd in artikel 16, tweede lid, stelt de Autoriteit Consument en Markt de methode van regulering vast, voor een periode van ten minste drie en ten hoogste vijf jaar, na overleg met de gezamenlijke netbeheerders en met representatieve organisaties van partijen op de elektriciteitsmarkt en met inachtneming van het belang dat de doelmatigheid van de bedrijfsvoering en de meest doelmatige kwaliteit van uitvoering van deze taken worden bevorderd en rekening houdend met het belang van voorzieningszekerheid, duurzaamheid en een redelijk rendement op investeringen.   
-3.  De netbeheerder van het landelijk hoogspanningsnet zendt jaarlijks voor 1 oktober aan de Autoriteit Consument en Markt een voorstel voor de tarieven voor uitvoering van de taken, genoemd in artikel 16, tweede lid, met inachtneming van de tariefstructuren vastgesteld op grond van artikel 36 of 37.   
-4.  De Autoriteit Consument en Markt stelt de tarieven vast overeenkomstig artikel 41c, eerste en tweede lid.   
-5.  Indien een voorstel niet binnen de termijn, bedoeld in het derde lid, aan de Autoriteit Consument en Markt is gezonden, stelt deze de tarieven uit eigen beweging vast met inachtneming van dit artikel.   
-6.  Indien een besluit op grond van het tweede lid bij onherroepelijke rechterlijke uitspraak is vernietigd of bij onherroepelijk besluit op bezwaar is herroepen, herberekent de Autoriteit Consument en Markt de tarieven, bedoeld in het vierde lid, met toepassing van de met inachtneming van die uitspraak of dat besluit op bezwaar gecorrigeerde methode en verdisconteert zij de uitkomsten van deze herberekening in de eerstvolgende op grond van het vierde lid vast te stellen tarieven. Daarbij worden deze herberekening en de wijze waarop de uitkomsten daarvan in de tarieven verdisconteerd zijn separaat weergegeven. 
 
 ### Artikel  42  
 
@@ -1495,88 +1450,55 @@ Vervallen per 01-01-2009
 
 ### §  3  
 
-####Garanties van oorsprong voor duurzame elektriciteit
+####Garanties van oorsprong
 
 ### Artikel  73  
 
-1.  Ter stimulering van de productie van duurzame elektriciteit bestaat een elektronisch systeem voor het uitgeven en innemen van garanties van oorsprong voor duurzame elektriciteit.   
-2.  Onze Minister wijst steeds voor een periode van tien jaar een instantie aan die onafhankelijk is van producenten, leveranciers en handelaren en die op aanvraag van een producent een garantie van oorsprong uitgeeft.  
+1.  Onze Minister is belast met het uitgeven en innemen via een elektronisch systeem van: 
+
+a. garanties van oorsprong voor duurzame elektriciteit;  
+
+b. garanties van oorsprong voor elektriciteit opgewekt in een installatie voor hoogrenderende warmtekrachtkoppeling.     
+2.  Onze Minister opent op aanvraag van een in Nederland gevestigde producent, leverancier, handelaar of afnemer een rekening. Bij deze aanvraag overlegt de producent het resultaat van de vaststelling, bedoeld in artikel 16, eerste lid, onderdeel h.   
+3.  Onze Minister boekt op aanvraag garanties van oorsprong als bedoeld in het eerste lid op een daarbij aangegeven rekening, indien een in Nederland gevestigde producent bij deze aanvraag de gegevens omtrent de door de netbeheerder of door een andere tot meten bevoegde instantie gemeten hoeveelheid duurzame elektriciteit of elektriciteit opgewekt in een installatie voor hoogrenderende warmtekrachtkoppeling overlegt.  
 
 ### Artikel  74  
 
-Een garantie van oorsprong voor duurzame elektriciteit toont bij uitsluiting aan dat de daarop aangegeven hoeveelheid elektriciteit op duurzame wijze is opgewekt. 
+Onze Minister kan de taken, bedoeld in artikel 73, mandateren aan een niet-ondergeschikte die onafhankelijk is van producenten, leveranciers en handelaren. 
 
 ### Artikel  75  
 
-1.  De garantiebeheerinstantie verstrekt desgevraagd kosteloos aan Onze Minister de voor de uitoefening van zijn taak benodigde inlichtingen. Onze Minister kan inzage vorderen van zakelijke gegevens en bescheiden voor zover dat voor de vervulling van zijn taak redelijkerwijs noodzakelijk is.   
-2.  De garantiebeheerinstantie zendt Onze Minister jaarlijks een verslag betreffende de door de instantie krachtens de aanwijzing, bedoeld in artikel 73, tweede lid, uitgevoerde taken en de werkwijze in het afgelopen jaar.  
+1.  Een garantie van oorsprong voor duurzame elektriciteit toont bij uitsluiting aan dat de daarop aangegeven hoeveelheid elektriciteit is opgewekt uit hernieuwbare bronnen.   
+2.  Een garantie van oorsprong voor elektriciteit opgewekt in een installatie voor hoogrenderende warmtekrachtkoppeling toont bij uitsluiting aan dat de daarop aangegeven hoeveelheid elektriciteit is opgewekt in een installatie voor hoogrenderende warmtekrachtkoppeling.  
 
 ### Artikel  76  
 
-1.  De garantiebeheerinstantie doet onverwijld mededeling aan Onze Minister: 
-
-a.van omstandigheden die een wijziging inhouden van de voorwaarden op grond waarvan deze instantie is aangewezen;
-
-b.indien de instantie voornemens is een of meer van de taken die zij krachtens de aanwijzing, bedoeld in artikel 73, tweede lid, uitvoert, te beëindigen.   
-2.  Onze Minister kan een aanwijzing als bedoeld in artikel 73, tweede lid, opschorten of intrekken indien, naar zijn oordeel, de garantiebeheerinstantie niet of niet volledig voldoet aan de bij of krachtens deze wet gestelde voorschriften. Gedurende de periode van een opschorting treft Onze Minister de noodzakelijke voorzieningen.  
-3.  Onze Minister kan de in het vorige lid bedoelde opschorting opheffen indien de garantiebeheerinstantie weer voldoet aan de in het vorige lid bedoelde voorschriften. In dat geval vervallen de in het vorige lid bedoelde voorzieningen. 
+1.  Waar in deze wet en de daarop berustende bepalingen wordt verwezen naar garanties van oorsprong voor duurzame elektriciteit, worden garanties van oorsprong voor duurzame elektriciteit uitgegeven door onafhankelijke instanties in een andere lidstaat van de Europese Unie, die naar aard en strekking overeenkomen met eerstbedoelde garanties van oorsprong voor duurzame elektriciteit, daarmee gelijkgesteld.   
+2.  Waar in deze wet en de daarop berustende bepalingen wordt verwezen naar garanties van oorsprong voor elektriciteit opgewekt in een installatie voor hoogrenderende warmtekrachtkoppeling, worden garanties van oorsprong voor elektriciteit opgewekt in een installatie voor hoogrenderende warmtekrachtkoppeling uitgegeven door onafhankelijke instanties in een andere lidstaat van de Europese Unie, die naar aard en strekking overeenkomen met eerstbedoelde garanties van oorsprong, daarmee gelijkgesteld.  
 
 ### Artikel  77  
 
-1.  De garantiebeheerinstantie opent op aanvraag van een in Nederland gevestigde producent, leverancier, handelaar of afnemer een rekening.   
-2.  Bij de in het eerste lid bedoelde aanvraag overlegt de producent, leverancier, handelaar of afnemer het resultaat van de vaststelling, bedoeld in artikel 16, eerste lid, onderdeel h.  
-3.  De garantiebeheerinstantie boekt op aanvraag garanties van oorsprong voor duurzame elektriciteit op een daarbij aangegeven rekening, indien een in Nederland gevestigde producent bij deze aanvraag de gegevens omtrent de door de netbeheerder of door een andere tot meten bevoegde instantie gemeten hoeveelheid duurzame elektriciteit overlegt. 
+1.  Onze Minister stelt bij ministeriële regeling de tarieven vast voor kosten die gepaard gaan met handelingen met betrekking tot garanties van oorsprong, bedoeld in artikel 73, eerste lid.   
+2.  Onze Minister stelt bij ministeriële regeling regels met betrekking tot: 
 
-### Artikel  77a  
+a. de informatie die door producenten, leveranciers, handelaars, afnemers of netbeheerders verstrekt wordt aan Onze Minister;  
 
-De garantiebeheerinstantie deelt iedere maand aan Onze Minister mee voor welke hoeveelheid duurzame elektriciteit overeenkomstig de bij of krachtens deze paragraaf gestelde bepalingen garanties van oorsprong voor duurzame elektriciteit zijn uitgegeven, alsmede op welke wijze de duurzame elektriciteit waarop die garanties van oorsprong voor duurzame elektriciteit betrekking hebben, is opgewekt. 
+b. het uitgeven en de geldigheidsduur van garanties van oorsprong, bedoeld in artikel 73, eerste lid;  
 
-### Artikel  77b  
+c. het vermelden van gegevens op garanties van oorsprong, bedoeld in artikel 73, eerste lid;  
 
-Waar in deze wet en de daarop berustende bepalingen wordt verwezen naar garanties van oorsprong voor duurzame elektriciteit, worden garanties van oorsprong voor duurzame elektriciteit uitgegeven door onafhankelijke instanties in een andere lidstaat van de Europese Unie, die naar aard en strekking overeenkomen met eerstbedoelde garanties van oorsprong voor duurzame elektriciteit, daarmee gelijkgesteld. 
+d. de voorwaarden waaronder en de wijze waarop producenten, leveranciers, handelaars of afnemers gebruik kunnen maken van de door hen verkregen garanties van oorsprong, bedoeld in artikel 73, eerste lid, of deze kunnen verhandelen;  
 
-### Artikel  77c  
+e. de vaststelling, bedoeld in artikel 16, eerste lid, onderdeel h;  
 
-Onze Minister stelt bij ministeriële regeling regels met betrekking tot: 
-
-a. de informatie die door de garantiebeheerinstantie op grond van de artikelen 75, eerste lid, en 77a verstrekt wordt aan Onze Minister en die door producenten, leveranciers, handelaars, afnemers of netbeheerders verstrekt wordt aan de garantiebeheerinstantie; 
-
-b. het uitgeven en de geldigheidsduur van garanties van oorsprong voor duurzame elektriciteit, het vermelden van gegevens op garanties van oorsprong voor duurzame elektriciteit en het in rekening brengen van de kosten die gepaard gaan met handelingen met betrekking tot garanties van oorsprong voor duurzame elektriciteit; 
-
-c. de voorwaarden waaronder en de wijze waarop producenten, leveranciers, handelaars of afnemers gebruik kunnen maken van de door hen verkregen garanties van oorsprong voor duurzame elektriciteit of deze kunnen verhandelen.  
+f. het meten, bedoeld in artikel 16, eerste lid, onderdeel i, en artikel 16a, tweede lid.     
+3.  De regels, bedoeld in het tweede lid, kunnen verschillen voor de verschillende soorten garanties van oorsprong, bedoeld in artikel 73, eerste lid.  
 
 ###§ 3a 
 
 ####Garanties van oorsprong voor elektriciteit opgewekt in een installatie voor hoogrenderende warmtekrachtkoppeling
 
-### Artikel 77ca 
-
-1. Ter stimulering van de productie van elektriciteit opgewekt in een installatie voor hoogrenderende warmtekrachtkoppeling bestaat een elektronisch systeem voor het uitgeven en innemen van garanties van oorsprong voor elektriciteit opgewekt in een installatie voor hoogrenderende warmtekrachtkoppeling. 
-2. De artikelen 73, tweede lid, 75 en 76 zijn van overeenkomstige toepassing.
-
-### Artikel 77cb 
-
-1. De garantiebeheerinstantie opent op aanvraag van een in Nederland gevestigde producent van elektriciteit opgewekt in een installatie voor hoogrenderende warmtekrachtkoppeling een rekening. 
-2. Bij de aanvraag, bedoeld in het eerste lid, overleg de producent het resultaat van de vaststelling, bedoeld in artikel 16, eerste lid, onderdeel h. 
-3. De garantiebeheerinstantie boekt op aanvraag garanties van oorsprong voor elektriciteit opgewekt in een installatie voor hoogrenderende warmtekrachtkoppeling op een daarbij aangegeven rekening, indien een in Nederland gevestigde producent bij deze aanvraag de gegevens omtrent de door de netbeheerder of door een andere tot meten bevoegde instantie gemeten hoeveelheid elektriciteit opgewekt in een installatie voor hoogrenderende warmtekrachtkoppeling overlegt. Onze Minister kan bij ministeriële regeling andere gegevens vaststellen die de producent bij deze aanvraag verstrekt.
-
-### Artikel 77cc 
-
-De garantiebeheerinstantie deelt ieder kalenderjaar aan Onze Minister mee voor welke hoeveelheid elektriciteit opgewekt in een installatie voor hoogrenderende warmtekrachtkoppeling overeenkomstig de bij of krachtens de artikelen 77ca tot en met 77ce gestelde bepalingen garanties van oorsprong zijn uitgegeven.
-
-### Artikel 77cd 
-
-Waar in deze wet en de daarop berustende bepalingen wordt verwezen naar garanties van oorsprong voor elektriciteit opgewekt in een installatie voor hoogrenderende warmtekrachtkoppeling, worden garanties van oorsprong voor elektriciteit opgewekt in een installatie voor hoogrenderende warmtekrachtkoppeling uitgegeven door onafhankelijke instanties in een andere lidstaat van de Europese Unie, die naar aard en strekking overeenkomen met eerstbedoelde garanties van oorsprong, daarmee gelijkgesteld.
-
-### Artikel 77ce 
-
-Onze Minister kan bij ministeriële regeling regels stellen met betrekking tot:
-
-a.de informatie die door de garantiebeheerinstantie op grond van de artikelen 77ca, tweede lid, juncto de artikelen 75, eerste lid, en 77a verstrekt wordt aan Onze Minister en die door producenten van elektriciteit opgewekt in een installatie voor hoogrenderende warmtekrachtkoppeling of netbeheerders verstrekt wordt aan de garantiebeheerinstantie;
-
-b.het uitgeven en de geldigheidsduur van garanties van oorsprong voor elektriciteit opgewekt in een installatie voor hoogrenderende warmtekrachtkoppeling, het vermelden van gegevens op de garanties van oorsprong en het in rekening brengen van de kosten die gepaard gaan met handelingen met betrekking tot de garanties van oorsprong;
-
-c.het openen van een rekening, het boeken van garanties van oorsprong voor elektriciteit opgewekt in een installatie voor hoogrenderende warmtekrachtkoppeling op die rekening en de gegevens die een producent daarbij overlegt.
+Vervallen per 01-01-2015 
 
 ### §  4  
 
@@ -1650,21 +1572,9 @@ b.de artikelen 10a, eerste en tweede lid, 10b, tweede tot en met vijfde lid, 11,
 1.  Een netbeheerder die bij de uitvoering van zijn taak de beschikking krijgt over gegevens waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden, is verplicht tot geheimhouding van die gegevens, behoudens voor zover enig wettelijk voorschrift hem tot mededeling verplicht, of uit zijn taak de noodzaak tot mededeling voortvloeit.   
 2.  Indien een netbeheerder gegevens over zijn bedrijfsvoering die commercieel voordeel kunnen opleveren ter beschikking stelt aan anderen, doet hij dit op niet-discriminatoire wijze.  
 
-### Artikel  80  
-
-1.  Onze Minister zendt zo spoedig mogelijk na een juli 2006, en vervolgens telkens na vier jaar, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.   
-2.  Bij ministeriële regeling kunnen nadere regels worden gesteld over de inhoud van het verslag. Het verslag bevat in ieder geval een evaluatie van de doeltreffendheid en de effecten van de wet met betrekking tot:
-
-a.de voorzienings- en leveringszekerheid van elektriciteit;
-
-b.de marktordening en de marktwerking;
-
-c.mede gelet op de Mededingingswet, het toezicht en de naleving.   
-3.  De Autoriteit Consument en Markt is belast met de uitvoering van de evaluatie. 
-
 ### Artikel  81  
 
-De voordracht voor een krachtens artikel 29, 30, 84 of 85 vast te stellen algemene maatregel van bestuur en voor een wijziging van een krachtens artikel 20 vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
+De voordracht voor een krachtens artikel 29, 84 of 85 vast te stellen algemene maatregel van bestuur en voor een wijziging van een krachtens artikel 20 vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
 ### §  2  
 

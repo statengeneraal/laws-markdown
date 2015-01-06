@@ -9,7 +9,7 @@ Gelet op:
 
 – Richtlijn nr. 2002/58/EG van het Europees Parlement en de Raad van de Europese Unie van 12 juli 2002 betreffende de verwerking van persoonsgegevens en de bescherming van de persoonlijke levenssfeer in de sector elektronische communicatie (PbEG L 201); en
 
-– de [artikelen 7.1, derde lid](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), [7.3](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), [9.4, eerste lid](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), en [11.9, tweede lid, van de Telecommunicatiewet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) en de [artikelen 2.5, derde lid, onderdeel b](../../../../../../../AMvB/besluit/universele/dienstverlening/en/eindgebruikersbelangen/BWBR0016698/README.md), [2.11](../../../../../../../AMvB/besluit/universele/dienstverlening/en/eindgebruikersbelangen/BWBR0016698/README.md) en [3.5 van het Besluit universele dienstverlening en eindgebruikersbelangen](../../../../../../../AMvB/besluit/universele/dienstverlening/en/eindgebruikersbelangen/BWBR0016698/README.md);
+– de artikelen 7.1, derde lid, 7.3, 9.4, eerste lid, en 11.9, tweede lid, van de Telecommunicatiewet en de artikelen 2.5, derde lid, onderdeel b, 2.11 en 3.5 van het Besluit universele dienstverlening en eindgebruikersbelangen;
 Besluit:   
 ### §  1  
 
@@ -19,9 +19,9 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. besluit: [Besluit universele dienstverlening en eindgebruikersbelangen](../../../../../../../AMvB/besluit/universele/dienstverlening/en/eindgebruikersbelangen/BWBR0016698/README.md);  
+a. besluit: Besluit universele dienstverlening en eindgebruikersbelangen;  
 
-b. geografisch nummer: nummer dat in een krachtens [artikel 4.1 van de wet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) vastgesteld nummerplan bestemd is als een geografisch nummer;  
+b. geografisch nummer: nummer dat in een krachtens artikel 4.1 van de wet vastgesteld nummerplan bestemd is als een geografisch nummer;  
 
 c. netnummergebied: gebied binnen Nederland dat wordt aangekozen met eenzelfde geografisch nummer;  
 
@@ -49,13 +49,13 @@ l. informatietarief: het tarief, niet zijnde het verkeerstarief, dat namens de n
 
 ### Artikel   2.1  
 
-1.  Het maandelijkse tarief, bedoeld in [artikel 2.5, derde lid, onderdeel b, van het besluit](../../../../../../../AMvB/besluit/universele/dienstverlening/en/eindgebruikersbelangen/BWBR0016698/README.md) bedraagt ten hoogste € 11,57.   
-2.  De in [artikel 2.5, derde lid, onderdeel b, van het besluit](../../../../../../../AMvB/besluit/universele/dienstverlening/en/eindgebruikersbelangen/BWBR0016698/README.md) bedoelde gebruiksafhankelijke tarieven bedragen voor oproepen naar abonnees aan wie een geografisch nummer in gebruik is gegeven ten hoogste € 0,136 per minuut met een starttarief van ten hoogste € 0,059 per gesprek.   
+1.  Het maandelijkse tarief, bedoeld in artikel 2.5, derde lid, onderdeel b, van het besluit bedraagt ten hoogste € 11,57.   
+2.  De in artikel 2.5, derde lid, onderdeel b, van het besluit bedoelde gebruiksafhankelijke tarieven bedragen voor oproepen naar abonnees aan wie een geografisch nummer in gebruik is gegeven ten hoogste € 0,136 per minuut met een starttarief van ten hoogste € 0,059 per gesprek.   
 3.  De in dit artikel genoemde tarieven zijn inclusief omzetbelasting.  
 
 ### Artikel   2.2  
 
-1.  De aanbieder van openbare telefoondiensten op een vaste locatie die krachtens [artikel 9.2 van de wet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) is aangewezen verstrekt, onverminderd het bepaalde bij of krachtens [hoofdstuk 11 van de wet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), op verzoek van zijn abonnee een gespecificeerde rekening van de kosten voor de aansluiting op het openbare elektronische communicatienetwerk op een vaste locatie en het gebruik van de openbare telefoondienst over die aansluiting.   
+1.  De aanbieder van openbare telefoondiensten op een vaste locatie die krachtens artikel 9.2 van de wet is aangewezen verstrekt, onverminderd het bepaalde bij of krachtens hoofdstuk 11 van de wet, op verzoek van zijn abonnee een gespecificeerde rekening van de kosten voor de aansluiting op het openbare elektronische communicatienetwerk op een vaste locatie en het gebruik van de openbare telefoondienst over die aansluiting.   
 2.  De aanbieder, bedoeld in het eerste lid, kan slechts een redelijke vergoeding voor een gespecificeerde rekening vragen van de abonnee indien deze rekening meer gespecificeerd is dan het in artikel 2.3 bepaalde basisniveau van specificatie.   
 3.  Gesprekken die voor de oproepende abonnee kosteloos zijn worden niet op de gespecificeerde rekening van de oproepende abonnee vermeld.  
 
@@ -91,12 +91,12 @@ g. het totale bedrag van de rekening, onder vermelding van het toepasselijke ta
 
 ### Artikel   2.4  
 
-1.  De aanbieder van de openbare telefoondienst via het openbare elektronische communicatienetwerk op een vaste locatie die krachtens [artikel 9.2 van de wet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) is aangewezen blokkeert op verzoek van zijn abonnee bepaalde categorieën uitgaande gesprekken of oproepen naar bepaalde categorieën nummers en de mogelijkheid tot het afnemen van Premium SMS-diensten of Premium MMS-diensten.   
+1.  De aanbieder van de openbare telefoondienst via het openbare elektronische communicatienetwerk op een vaste locatie die krachtens artikel 9.2 van de wet is aangewezen blokkeert op verzoek van zijn abonnee bepaalde categorieën uitgaande gesprekken of oproepen naar bepaalde categorieën nummers en de mogelijkheid tot het afnemen van Premium SMS-diensten of Premium MMS-diensten.   
 2.  De blokkering geschiedt kosteloos.  
 
 ### Artikel   2.5  
 
-1.  De aanbieder van de aansluiting op het openbare elektronische communicatienetwerk op een vaste locatie en de openbare telefoondienst over die aansluiting die krachtens [artikel 9.2 van de wet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) is aangewezen, treft jegens een abonnee die zijn rekening geheel of gedeeltelijk niet betaalt uitsluitend maatregelen die in verhouding staan tot de ernst van de wanbetaling, die niet-discriminerend zijn en die vooraf op genoegzame wijze zijn bekendgemaakt.   
+1.  De aanbieder van de aansluiting op het openbare elektronische communicatienetwerk op een vaste locatie en de openbare telefoondienst over die aansluiting die krachtens artikel 9.2 van de wet is aangewezen, treft jegens een abonnee die zijn rekening geheel of gedeeltelijk niet betaalt uitsluitend maatregelen die in verhouding staan tot de ernst van de wanbetaling, die niet-discriminerend zijn en die vooraf op genoegzame wijze zijn bekendgemaakt.   
 2.  Bij de in het eerste lid bedoelde maatregelen: 
 
 a. blijft een beperking van de dienstverlening, voor zover dat technisch mogelijk is, beperkt tot die delen van de dienstverlening waarvoor een betalingsachterstand bestaat, tenzij er sprake is van fraude door de abonnee, en  
@@ -105,16 +105,15 @@ b. gaat de aanbieder niet over tot beperking van de dienstverlening of verbrekin
 
 ### Artikel  2.5a  
 
-De aanbieder van de openbare telefoondienst via het openbare elektronische communicatienetwerk op een vaste locatie die krachtens [artikel 9.2 van de wet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) is aangewezen biedt de mogelijkheid om een abonnement af te sluiten waarbij ongeacht de hoeveelheid gebelde minuten naar binnenlandse niet-betaalnummers niet meer dan een bij de abonnee bekend bedrag per maand in rekening wordt gebracht. 
+De aanbieder van de openbare telefoondienst via het openbare elektronische communicatienetwerk op een vaste locatie die krachtens artikel 9.2 van de wet is aangewezen biedt de mogelijkheid om een abonnement af te sluiten waarbij ongeacht de hoeveelheid gebelde minuten naar binnenlandse niet-betaalnummers niet meer dan een bij de abonnee bekend bedrag per maand in rekening wordt gebracht. 
 
 ### Artikel   2.6  
 
-1.  Het grensbedrag, bedoeld in [artikel 2.13, eerste lid, onderdeel a, van het besluit](../../../../../../../AMvB/besluit/universele/dienstverlening/en/eindgebruikersbelangen/BWBR0016698/README.md), bedraagt € 20.000.000.   
-2.  Het minimum, bedoeld in [artikel 2.13, eerste lid, onderdeel b, van het besluit](../../../../../../../AMvB/besluit/universele/dienstverlening/en/eindgebruikersbelangen/BWBR0016698/README.md), bedraagt € 2.000.000.  
+Het bedrag van de omzet, bedoeld in artikel 2.13, tweede lid, van het besluit is € 2 miljoen. 
 
 ### Artikel  2.7  
 
-1.  De bemiddelingsdienst, bedoeld in [artikel 2.3a van het besluit](../../../../../../../AMvB/besluit/universele/dienstverlening/en/eindgebruikersbelangen/BWBR0016698/README.md), verzorgt: 
+1.  De bemiddelingsdienst, bedoeld in artikel 2.3a van het besluit, verzorgt: 
 
 a. 24 uur per dag alle oproepen tussen enerzijds eindgebruikers die gebruik maken van een teksttelefoon en anderzijds eindgebruikers van een openbare telefoondienst die gebruik maken van reguliere telefonie en vice versa; en  
 
@@ -128,11 +127,11 @@ b. bij oproepen bedoeld in het eerste lid, onder b, voor 85% van de oproepen max
 
 ### Artikel  2.8  
 
-De aanbieder van de bemiddelingsdienst die krachtens [artikel 9.2, eerste lid, van de wet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) is aangewezen, zorgt ervoor dat bij de bemiddeling van oproepen bedoeld in artikel 2.7, eerste lid, geen onnodige vertraging plaatsvindt en er geen informatie of toonzetting verloren gaat. 
+De aanbieder van de bemiddelingsdienst die krachtens artikel 9.2, eerste lid, van de wet is aangewezen, zorgt ervoor dat bij de bemiddeling van oproepen bedoeld in artikel 2.7, eerste lid, geen onnodige vertraging plaatsvindt en er geen informatie of toonzetting verloren gaat. 
 
 ### Artikel  2.9  
 
-1.  De aanbieder van de bemiddelingsdienst die krachtens [artikel 9.2, eerste lid, van de wet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) is aangewezen verstrekt aan de eindgebruiker op duidelijke, volledige en begrijpelijke wijze de volgende informatie over de bemiddelingsdienst: 
+1.  De aanbieder van de bemiddelingsdienst die krachtens artikel 9.2, eerste lid, van de wet is aangewezen verstrekt aan de eindgebruiker op duidelijke, volledige en begrijpelijke wijze de volgende informatie over de bemiddelingsdienst: 
 
 a. de contactgegevens waarover de bemiddelingsdienst wordt aangeboden;  
 
@@ -151,8 +150,8 @@ e. de contactgegevens voor het stellen van vragen als bedoeld in het tweede lid.
 
 ### Artikel   3.1  
 
-1.  Als categorie van openbare elektronische communicatiediensten als bedoeld in [artikel 7.1, vierde lid, van de wet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) wordt aangewezen: openbare elektronische communicatiediensten die door middel van openbare betaaltelefoons worden aangeboden.   
-2.  [Artikel 7.1, eerste en tweede lid, van de wet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) blijft voor die categorie buiten toepassing.  
+1.  Als categorie van openbare elektronische communicatiediensten als bedoeld in artikel 7.1, vierde lid, van de wet wordt aangewezen: openbare elektronische communicatiediensten die door middel van openbare betaaltelefoons worden aangeboden.   
+2.  Artikel 7.1, eerste en tweede lid, van de wet blijft voor die categorie buiten toepassing.  
 
 ### Artikel   3.2  
 
@@ -172,7 +171,7 @@ b. het aanbod, waarbij ten minste wordt aangegeven:
 
 5°. de door de aanbieder gehanteerde algemene voorwaarden, met inbegrip van de minimale periode waarvoor een overeenkomst kan worden aangegaan;    
 
-c. de mogelijkheden van geschillenbeslechting als bedoeld in de [artikelen 12.1](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) en [12.9 van de wet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), alsmede de door de aanbieder opgestelde regelingen voor geschillenbeslechting.     
+c. de mogelijkheden van geschillenbeslechting als bedoeld in de artikelen 12.1 en 12.9 van de wet, alsmede de door de aanbieder opgestelde regelingen voor geschillenbeslechting.     
 2.  Een aanbieder van een carrierdienst maakt aan consumenten op genoegzame wijze informatie bekend over de in het eerste lid bedoelde onderwerpen.   
 3.  In aanvulling op het eerste lid, aanhef en onderdeel b, onder 2, verstrekt een aanbieder van een openbare telefoondienst bij het op diens internetpagina doen van een aanbod tot het sluiten van een overeenkomst met een consument inzake de levering van een openbare telefoondienst, actief een overzichtelijke weergave van de tariefinformatie. De tariefinformatie bestaat ten minste uit de tariefinformatie opgenomen in bijlage 1 en wordt voorafgaand aan het sluiten van de overeenkomst verstrekt. 
 
@@ -225,20 +224,41 @@ b. hoger is dan 15 cent per minuut voor een oproep naar het desbetreffende numme
 
 ### Artikel  3.2g  
 
-1.  Een aanbieder van een elektronische communicatiedienst die eindgebruikers toegang verschaft tot een nummer uit de reeks 0900 uit het Nummerplan telefoon- en ISDN-diensten, 
+1.  Een aanbieder van een elektronische communicatiedienst die eindgebruikers toegang verschaft tot een nummer uit de reeks 0900, 0906 of 0909 uit het Nummerplan telefoon- en ISDN-diensten, 
 
-a. waarvan het tarief door die aanbieder bij de consument in rekening wordt gebracht,  
+a. waarvan de tarieven door die aanbieder bij de eindgebruiker in rekening worden gebracht,  
 
-b. dat door de nummergebruiker wordt gebruikt voor het leveren van klantenservice in het kader van een overeenkomst tot het geregeld afleveren van zaken, of het geregeld doen van verrichtingen en  
+b. dat door de nummergebruiker wordt gebruikt voor het leveren van klantenservice in het kader van een reeds gesloten overeenkomst en  
 
-c. waarvoor een tarief per tijdseenheid wordt gerekend,   brengt bij de consument voor oproepen naar dit nummer een tarief in rekening van ten hoogste 15 cent per minuut, berekend voor de situatie waarin voor de oproep uitsluitend van een vast netwerk in Nederland gebruik wordt gemaakt.   
-2.  Een nummergebruiker die een nummer uit de reeks 0900 uit het Nummerplan telefoon- en ISDN-diensten gebruikt voor het leveren van klantenservice als bedoeld in het eerste lid, onderdeel b, waarvoor een tarief per tijdseenheid wordt gerekend en waarvan het tarief door een aanbieder van een elektronische communicatiedienst bij de eindgebruiker in rekening wordt gebracht, meldt dit gebruik van het nummer aan de platformaanbieder.   
-3.  Iedere aanbieder van een elektronische communicatiedienst die een voor het gebruik van het nummer relevante interconnectieovereenkomst heeft en die een melding ontvangt als bedoeld in het tweede lid, geeft deze melding door aan de partij of partijen waarmee hij een voor het gebruik van het nummer relevante interconnectieovereenkomst heeft.  
+c. waarvoor een tarief per tijdseenheid wordt gerekend,   brengt bij de eindgebruiker voor een oproep naar dit nummer naast het informatietarief, genoemd in het derde lid, ten hoogste het verkeerstarief in rekening.   
+2.  Een aanbieder van een elektronische communicatiedienst die eindgebruikers toegang verschaft tot een nummer uit de reeks 0900, 0906 of 0909 uit het Nummerplan telefoon- en ISDN-diensten, 
+
+a. waarvan de tarieven door die aanbieder bij de eindgebruiker in rekening wordt gebracht,  
+
+b. dat door de nummergebruiker wordt gebruikt voor het leveren van klantenservice in het kader van een reeds gesloten overeenkomst en  
+
+c. waarvoor een tarief per gesprek wordt gerekend,   brengt bij de eindgebruiker voor een oproep naar dit nummer naast het informatietarief, genoemd in het vierde lid, ten hoogste het verkeerstarief in rekening.   
+3.  Een nummergebruiker van een nummer uit de reeks 0900, 0906 of 0909 uit het Nummerplan telefoon- en ISDN-diensten, 
+
+a. waarvan de tarieven door een aanbieder van de elektronische communicatiedienst bij de eindgebruiker in rekening wordt gebracht,  
+
+b. dat door de nummergebruiker wordt gebruikt voor het leveren van klantenservice in het kader van een reeds gesloten overeenkomst en  
+
+c. waarvoor een tarief per tijdseenheid wordt gerekend,   stelt voor een oproep naar dit nummer het informatietarief vast op € 0.   
+4.  Een nummergebruiker van een nummer uit de reeks 0900, 0906 of 0909 uit het Nummerplan telefoon- en ISDN-diensten, 
+
+a. waarvan de tarieven door een aanbieder van een elektronische communicatiedienst bij de eindgebruiker in rekening wordt gebracht,  
+
+b. dat door de nummergebruiker wordt gebruikt voor het leveren van klantenservice in het kader van een reeds gesloten overeenkomst en  
+
+c. waarvoor een tarief per gesprek wordt gerekend,   stelt voor een oproep naar dit nummer het informatietarief op ten hoogste € 1,– vast.   
+5.  Een nummergebruiker die een nummer uit de reeks 0900, 0906 of 0909 uit het Nummerplan telefoon- en ISDN-diensten gebruikt voor het leveren van klantenservice als bedoeld in het eerste lid, onderdeel b, waarvan het tarief door een aanbieder van een elektronische communicatiedienst bij de eindgebruiker in rekening wordt gebracht, meldt dit gebruik van het nummer aan de platformaanbieder.   
+6.  Iedere aanbieder van een elektronische communicatiedienst die een voor het gebruik van het nummer relevante interconnectieovereenkomst heeft en die een melding ontvangt als bedoeld in het vijfde lid, geeft deze melding door aan de partij of partijen waarmee hij een voor het gebruik van het nummer relevante interconnectieovereenkomst heeft.  
 
 ### Artikel   3.3  
 
-1.  Aanbieders van openbare telefoonnetwerken of openbare telefoondiensten bieden eindgebruikers de mogelijkheid aan van nummeridentificatie als bedoeld in [artikel 1.1, onderdeel cc, onder 1°, van de wet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md).   
-2.  Aanbieders van openbare telefoonnetwerken of openbare telefoondiensten stellen de gegevens en signalen beschikbaar die noodzakelijk zijn om grensoverschrijdende nummeridentificatie als bedoeld in [artikel 1.1, onderdeel cc, onder 1°, van de wet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) binnen de Europese Unie mogelijk te maken.   
+1.  Aanbieders van openbare telefoonnetwerken of openbare telefoondiensten bieden eindgebruikers de mogelijkheid aan van nummeridentificatie als bedoeld in artikel 1.1, onderdeel cc, onder 1°, van de wet.   
+2.  Aanbieders van openbare telefoonnetwerken of openbare telefoondiensten stellen de gegevens en signalen beschikbaar die noodzakelijk zijn om grensoverschrijdende nummeridentificatie als bedoeld in artikel 1.1, onderdeel cc, onder 1°, van de wet binnen de Europese Unie mogelijk te maken.   
 3.  Het eerste en tweede lid zijn van overeenkomstige toepassing op aanbieders van carrierdiensten, met dien verstande dat de verplichtingen alleen gelden indien de eindgebruiker een consument is.   
 4.  Aanbieders van openbare elektronische communicatienetwerken die worden gebruikt om carrierdiensten aan te bieden treffen de maatregelen die nodig zijn om de aanbieders van die diensten in staat te stellen de verplichtingen, bedoeld in het derde lid, na te komen.   
 5.  De verplichtingen, bedoeld in het derde en vierde lid, gelden niet voor zover het technisch niet uitvoerbaar dan wel economisch niet haalbaar is om die verplichtingen na te komen.  
@@ -264,8 +284,8 @@ b. het aanbod van een voorziening voor gebruik in een randapparaat.
 ### Artikel  3.5a 
 
 1. Indien een consument een klacht heeft ingediend bij een aanbieder als bedoeld in artikel 3.2a, eerste, tweede of derde lid, of bij een nummergebruiker als bedoeld in artikel 3.2b, eerste, tweede of derde lid, omtrent de hoogte van de rekening, kan de aanbieder geen betaling van het betwiste deel van de rekening verlangen tot op de klacht is beslist.
-2. Indien een consument een geschil met een aanbieder of nummergebruiker als bedoeld in het eerste lid omtrent de hoogte van de rekening binnen de daarvoor geldende termijn aanhangig heeft gemaakt bij een geschillencommissie als bedoeld in [artikel 12.1, eerste of tweede lid, van de wet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), kan de aanbieder bovendien geen betaling van het betwiste deel van de rekening verlangen tot de geschillencommissie op het geschil heeft beslist.
-3. Indien een aanbieder of nummergebruiker als bedoeld in het eerste lid zich niet heeft aangesloten bij een geschillencommissie kan de desbetreffende aanbieder bovendien geen betaling van het betwiste deel van de rekening verlangen tot een geschillencommissie als bedoeld in [artikel 12.1, eerste of tweede lid, van de wet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) alsnog op de klacht heeft beslist dan wel tot de Autoriteit Consument en Markt toepassing heeft gegeven aan [artikel 7.3c, eerste lid, van de wet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md).
+2. Indien een consument een geschil met een aanbieder of nummergebruiker als bedoeld in het eerste lid omtrent de hoogte van de rekening binnen de daarvoor geldende termijn aanhangig heeft gemaakt bij een geschillencommissie als bedoeld in artikel 12.1, eerste of tweede lid, van de wet, kan de aanbieder bovendien geen betaling van het betwiste deel van de rekening verlangen tot de geschillencommissie op het geschil heeft beslist.
+3. Indien een aanbieder of nummergebruiker als bedoeld in het eerste lid zich niet heeft aangesloten bij een geschillencommissie kan de desbetreffende aanbieder bovendien geen betaling van het betwiste deel van de rekening verlangen tot een geschillencommissie als bedoeld in artikel 12.1, eerste of tweede lid, van de wet alsnog op de klacht heeft beslist dan wel tot de Autoriteit Consument en Markt toepassing heeft gegeven aan artikel 7.3c, eerste lid, van de wet.
 4. Indien de in het eerste lid bedoelde klacht of het in het tweede lid bedoelde geschil is gericht tegen de nummergebruiker, stelt de consument de aanbieder op de hoogte van het indienen van de klacht bij de nummergebruiker of het aanhangig maken van het geschil bij de geschillencommissie. 
 
 ###Artikel 3.6 
@@ -274,7 +294,7 @@ De nummergebruiker die een nummer met bijzondere toegang gebruikt uit het Nummer
 
 ###Artikel 3.7 
 
-De in [artikel 4.3, derde lid](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), [artikel 4.7, vijfde lid](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), [artikel 4.9, derde lid](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), [artikel 7.3a , eerste lid](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) en [artikel 7.3b, eerste lid, van de wet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) bedoelde categorieën van nummers zijn:
+De in artikel 4.3, derde lid, artikel 4.7, vijfde lid, artikel 4.9, derde lid, artikel 7.3a , eerste lid en artikel 7.3b, eerste lid, van de wet bedoelde categorieën van nummers zijn:
 
 a.nummers die behoren tot de reeksen 0900, 0906, 0909 of 18 uit het Nummerplan telefoon- en ISDN-diensten;
 
@@ -282,7 +302,7 @@ b.nummers met bijzondere toegang uit het Nummerplan telefoon- en ISDN-diensten, 
 
 ###Artikel 3.8 
 
-De in [artikel 4.9, derde lid, onderdeel b, van de wet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) bedoelde gegevens met betrekking tot een nummer uit de in dat lid bedoelde categorie van nummers zijn:
+De in artikel 4.9, derde lid, onderdeel b, van de wet bedoelde gegevens met betrekking tot een nummer uit de in dat lid bedoelde categorie van nummers zijn:
 
 a. naam;  
 
@@ -312,19 +332,19 @@ f. de gegevens, genoemd onder a tot en met c, van de platformaanbieder die de aa
 a.de totstandkoming van de overeenkomst tot het afnemen van de Premium SMS-dienst is gebaseerd op een geïnformeerd besluit van de consument die de overeenkomst tot levering van de Premium SMS-dienst is aangegaan, en
 
 b.de consument met wie hij een overeenkomst is aangegaan tot levering van de telefoondienst op ondubbelzinnige wijze heeft verklaard dat hij de kosten voor die Premium SMS-dienst zal betalen aan de aanbieder van de openbare telefoondienst.
-6. Er is sprake van een geïnformeerd besluit als bedoeld in het vierde en vijfde lid, indien bij de totstandkoming van de overeenkomst tot het afnemen van de Premium SMS-dienst is voldaan aan de [artikelen 15d](../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) en [15e van Boek 3 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), de bepalingen van [Afdeling 3a van Titel 3](../../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) alsmede de [artikelen 227b](../../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) en [227c van Boek 6 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) en aan de bepalingen van [Afdeling 9A van Titel 1 van Boek 7 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md).
+6. Er is sprake van een geïnformeerd besluit als bedoeld in het vierde en vijfde lid, indien bij de totstandkoming van de overeenkomst tot het afnemen van de Premium SMS-dienst is voldaan aan de artikelen 15d en 15e van Boek 3 van het Burgerlijk Wetboek, de bepalingen van Afdeling 3a van Titel 3 alsmede de artikelen 227b en 227c van Boek 6 van het Burgerlijk Wetboek en aan de bepalingen van Afdeling 2B van Titel 5 van Boek 6 van het Burgerlijk Wetboek.
 7. Indien de aanbieder van de openbare telefoondienst de klacht, bedoeld in het tweede lid, heeft afgewezen, kan hij voorts de levering van de openbare telefoondienst slechts opschorten of beëindigen op grond van het feit dat de consument met wie hij een overeenkomst is aangegaan tot levering van de telefoondienst een door die aanbieder aan hem rekening gebracht bedrag voor een Premium SMS-dienst niet betaalt, indien:
 
 a.in de overeenkomst tot levering van de telefoondienst een beding is opgenomen dat de aanbieder aan de consument bedragen in rekening kan brengen voor Premium SMS-diensten en dat de aanbieder de levering van de telefoondienst mag opschorten of beëindigen wanneer de consument één of meer van die bedragen niet betaalt;
 
 b.hij de consument voor of bij het sluiten van de overeenkomst tot levering van de openbare telefoondienst schriftelijk of door een andere aan die consument ter beschikking staande en voor hem toegankelijke duurzame gegevensdrager heeft gewezen op de mogelijkheid om het afnemen van Premium SMS-diensten te allen tijde kosteloos te blokkeren;
 
-c.hij de consument, tegelijkertijd met een afwijzing van de klacht als bedoeld in het derde lid, schriftelijk of door een andere aan die consument ter beschikking staande en voor hem toegankelijke duurzame gegevensdrager heeft geïnformeerd over diens recht om een geschil hierover aanhangig te maken bij een geschillencommissie als bedoeld in [artikel 12.1, eerste lid, van de wet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) en de consument gedurende een maand nadat hij deze informatie heeft ontvangen, geen gebruik heeft gemaakt van dat recht.
+c.hij de consument, tegelijkertijd met een afwijzing van de klacht als bedoeld in het derde lid, schriftelijk of door een andere aan die consument ter beschikking staande en voor hem toegankelijke duurzame gegevensdrager heeft geïnformeerd over diens recht om een geschil hierover aanhangig te maken bij een geschillencommissie als bedoeld in artikel 12.1, eerste lid, van de wet en de consument gedurende een maand nadat hij deze informatie heeft ontvangen, geen gebruik heeft gemaakt van dat recht.
 
 ###Artikel 3.11 
 
-1. Wanneer een consument die met een aanbieder van een openbare telefoondienst een overeenkomst is aangegaan tot het afnemen van die telefoondienst bij die aanbieder een klacht als bedoeld in artikel 3.10, tweede lid, heeft ingediend en de aanbieder de klacht afwijst, informeert de aanbieder die consument gelijktijdig met het afwijzen van deze klacht schriftelijk of door een andere aan die consument ter beschikking staande duurzame gegevensdrager dat die consument een geschil met betrekking tot deze klacht binnen een maand na de datum van het afwijzen van de klacht aanhangig kan maken bij een geschillencommissie als bedoeld in [artikel 12.1, eerste lid, van de wet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md).
-2. Indien een consument die met een aanbieder van een openbare telefoondienst een overeenkomst is aangegaan tot het afnemen van de telefoondienst het geschil, bedoeld in het eerste lid, binnen de daarvoor gestelde termijn, aanhangig heeft gemaakt bij een geschillencommissie als bedoeld in [artikel 12.1, eerste lid, van de wet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), kan die aanbieder de levering van de telefoondienst aan die consument uitsluitend opschorten of beëindigen op grond van het feit dat de consument het in geschil zijnde bedrag dat de aanbieder aan hem in rekening heeft gebracht voor een Premium SMS-dienst niet betaalt, indien de geschillencommissie daartoe heeft beslist.
+1. Wanneer een consument die met een aanbieder van een openbare telefoondienst een overeenkomst is aangegaan tot het afnemen van die telefoondienst bij die aanbieder een klacht als bedoeld in artikel 3.10, tweede lid, heeft ingediend en de aanbieder de klacht afwijst, informeert de aanbieder die consument gelijktijdig met het afwijzen van deze klacht schriftelijk of door een andere aan die consument ter beschikking staande duurzame gegevensdrager dat die consument een geschil met betrekking tot deze klacht binnen een maand na de datum van het afwijzen van de klacht aanhangig kan maken bij een geschillencommissie als bedoeld in artikel 12.1, eerste lid, van de wet.
+2. Indien een consument die met een aanbieder van een openbare telefoondienst een overeenkomst is aangegaan tot het afnemen van de telefoondienst het geschil, bedoeld in het eerste lid, binnen de daarvoor gestelde termijn, aanhangig heeft gemaakt bij een geschillencommissie als bedoeld in artikel 12.1, eerste lid, van de wet, kan die aanbieder de levering van de telefoondienst aan die consument uitsluitend opschorten of beëindigen op grond van het feit dat de consument het in geschil zijnde bedrag dat de aanbieder aan hem in rekening heeft gebracht voor een Premium SMS-dienst niet betaalt, indien de geschillencommissie daartoe heeft beslist.
 
 ###Artikel 3.12 
 
@@ -332,11 +352,11 @@ De artikelen 3.9 tot en met 3.11 en 3.13 zijn van overeenkomstige toepassing op 
 
 ### Artikel  3.13  
 
-Een aanbieder van een openbaar elektronisch communicatienetwerk of een openbare elektronische communicatiedienst verstrekt aan de eindgebruiker transparante, vergelijkbare, toereikende, actuele, duidelijke en volledige informatie over eventuele beperkingen van de toegang tot of het gebruik van diensten en toepassingen als bedoeld in [artikel 7.3, eerste lid, onderdeel d, en vierde lid, onderdelen b en c van de wet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md). 
+Een aanbieder van een openbaar elektronisch communicatienetwerk of een openbare elektronische communicatiedienst verstrekt aan de eindgebruiker transparante, vergelijkbare, toereikende, actuele, duidelijke en volledige informatie over eventuele beperkingen van de toegang tot of het gebruik van diensten en toepassingen als bedoeld in artikel 7.3, eerste lid, onderdeel d, en vierde lid, onderdelen b en c van de wet. 
 
 ### Artikel  3.14  
 
-De door de aanbieder van een openbaar elektronisch communicatienetwerk of een openbare elektronische communicatiedienst te verstrekken gegevens, bedoeld in de [artikelen 7.1, eerste lid, onderdeel b](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) en [7.3, eerste lid, onderdeel d, en vierde lid, onderdelen b en c, van de wet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) omvatten ten minste: 
+De door de aanbieder van een openbaar elektronisch communicatienetwerk of een openbare elektronische communicatiedienst te verstrekken gegevens, bedoeld in de artikelen 7.1, eerste lid, onderdeel b en 7.3, eerste lid, onderdeel d, en vierde lid, onderdelen b en c, van de wet omvatten ten minste: 
 
 a. de diensten en toepassingen waarop de maatregel of beperking van invloed is,  
 
@@ -356,16 +376,16 @@ In deze paragraaf wordt onder aanbieder verstaan: een aanbieder van een openbaar
 
 ### Artikel   4.2  
 
-Een aanbieder biedt de in [artikel 11.9, eerste lid, onderdeel b, onder 1°, van de wet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) genoemde mogelijkheid kosteloos aan. Een aanbieder is echter bevoegd van een abonnee een redelijke vergoeding voor het gebruik van deze mogelijkheid te verlangen, indien herhaald gebruik zonder redelijk doel door de abonnee daartoe aanleiding geeft. 
+Een aanbieder biedt de in artikel 11.9, eerste lid, onderdeel b, onder 1°, van de wet genoemde mogelijkheid kosteloos aan. Een aanbieder is echter bevoegd van een abonnee een redelijke vergoeding voor het gebruik van deze mogelijkheid te verlangen, indien herhaald gebruik zonder redelijk doel door de abonnee daartoe aanleiding geeft. 
 
 ### Artikel   4.3  
 
-Een aanbieder richt de in [artikel 11.9, eerste lid, van de wet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) bedoelde mogelijkheden zodanig in, dat het gebruik, de bediening of de inwerkingstelling daarvan van eenvoudige aard is. 
+Een aanbieder richt de in artikel 11.9, eerste lid, van de wet bedoelde mogelijkheden zodanig in, dat het gebruik, de bediening of de inwerkingstelling daarvan van eenvoudige aard is. 
 
 ### Artikel   4.4  
 
-1.  Een aanbieder draagt er zorg voor dat de in [artikel 11.9, eerste lid, onder a, van de wet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) bedoelde mogelijkheid, beschikbaar is voor oproepen van in Nederland aanwezige netwerkaansluitpunten naar andere landen.   
-2.  Een aanbieder draagt er zorg voor dat de in [artikel 11.9, eerste lid, onder b](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), bedoelde mogelijkheden beschikbaar zijn voor oproepen gedaan uit andere landen naar in Nederland aanwezige netwerkaansluitpunten.  
+1.  Een aanbieder draagt er zorg voor dat de in artikel 11.9, eerste lid, onder a, van de wet bedoelde mogelijkheid, beschikbaar is voor oproepen van in Nederland aanwezige netwerkaansluitpunten naar andere landen.   
+2.  Een aanbieder draagt er zorg voor dat de in artikel 11.9, eerste lid, onder b, bedoelde mogelijkheden beschikbaar zijn voor oproepen gedaan uit andere landen naar in Nederland aanwezige netwerkaansluitpunten.  
 
 ### Artikel   4.5  
 
@@ -373,7 +393,7 @@ Onverminderd artikel 3.2, draagt een aanbieder er zorg voor dat voor eenieder op
 
 ### Artikel  4.6  
 
-De op grond van [artikel 11.10, tweede lid, van de wet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) te verstrekken locatiegegevens wijken in ten hoogste 15% van de gevallen meer dan 5000 meter af van de werkelijke locatie van het oproepende netwerkaansluitpunt. 
+De op grond van artikel 11.10, tweede lid, van de wet te verstrekken locatiegegevens wijken in ten hoogste 15% van de gevallen meer dan 5000 meter af van de werkelijke locatie van het oproepende netwerkaansluitpunt. 
 
 ### §  5  
 
@@ -381,11 +401,11 @@ De op grond van [artikel 11.10, tweede lid, van de wet](../../../../../../../wet
 
 ### Artikel   5.1  
 
-De [Regeling basisniveau notaspecificatie vaste telefoniediensten](../../../../../../../ministeriele-regeling/regeling/basisniveau/notaspecificatie/vaste/telefoniediensten/BWBR0014297/README.md), de [Regeling nummeridentificatie](../../../../../../../ministeriele-regeling/regeling/nummeridentificatie/BWBR0010036/README.md) en de [Regeling tarieven universele dienstverlening](../../../../../../../ministeriele-regeling/regeling/tarieven/universele/dienstverlening/BWBR0010037/README.md) worden ingetrokken. 
+De Regeling basisniveau notaspecificatie vaste telefoniediensten, de Regeling nummeridentificatie en de Regeling tarieven universele dienstverlening worden ingetrokken. 
 
 ### Artikel   5.2  
 
-Deze regeling treedt in werking met ingang van het tijdstip waarop de [Wet implementatie Europees regelgevingskader voor de elektronische communicatiesector 2002](../../../../../../../wet/wet/implementatie/europees/regelgevingskader/voor/de/elektronische/etc/BWBR0016635/README.md) in werking treedt. 
+Deze regeling treedt in werking met ingang van het tijdstip waarop de Wet implementatie Europees regelgevingskader voor de elektronische communicatiesector 2002 in werking treedt. 
 
 ### Artikel   5.3  
 

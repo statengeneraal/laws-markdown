@@ -702,7 +702,8 @@ b. tussen de datum van ontvangst van dat verzoek of die aangifte en de datum van
 4.  Bij herziening van een voorlopige aanslag inkomstenbelasting of vennootschapsbelasting met een negatief bedrag tot een voorlopige aanslag met positief bedrag, wordt met betrekking tot het verschil tussen die bedragen belastingrente in rekening gebracht over het tijdvak dat aanvangt 6 maanden te rekenen vanaf het tijdvak waarover de belasting wordt geheven en eindigt op de dag voorafgaand aan de dag waarop het verschil invorderbaar is ingevolge artikel 9 van de Invorderingswet 1990. Ingeval de herziening is vastgesteld overeenkomstig een op de door de inspecteur aangegeven wijze ingediend verzoek of overeenkomstig de ingediende aangifte met betrekking tot het tijdvak waarover de belasting wordt geheven, eindigt het tijdvak waarover de belastingrente wordt berekend in afwijking in zoverre van de eerste volzin uiterlijk 14 weken na de datum van ontvangst van het verzoek, onderscheidenlijk 19 weken na de datum van ontvangst van deze aangifte.   
 5.  Bij herziening van een voorlopige aanslag inkomstenbelasting of vennootschapsbelasting met een negatief bedrag tot een voorlopige aanslag met een kleiner negatief bedrag wordt met betrekking tot het verschil tussen die bedragen belastingrente in rekening gebracht over het tijdvak dat aanvangt 6 maanden te rekenen vanaf het tijdvak waarover de belasting wordt geheven en eindigt op de dag voorafgaand aan de dag waarop het verschil invorderbaar is ingevolge artikel 9 van de Invorderingswet 1990. Ingeval de herziening is vastgesteld overeenkomstig een op de door de inspecteur aangegeven wijze ingediend verzoek of overeenkomstig de ingediende aangifte met betrekking tot het tijdvak waarover de belasting wordt geheven, eindigt het tijdvak waarover de belastingrente wordt berekend in afwijking in zoverre van de eerste volzin, uiterlijk 14 weken na de datum van ontvangst van het verzoek, onderscheidenlijk 19 weken na de datum van ontvangst van de aangifte.   
 6.  Bij herziening van een voorlopige aanslag inkomstenbelasting of vennootschapsbelasting met een negatief bedrag tot een voorlopige aanslag met een groter negatief bedrag wordt, ingeval wordt voldaan aan de voorwaarden van artikel 30fa, eerste lid, belastingrente vergoed, berekend over het tijdvak, bedoeld in het tweede lid van dat artikel, en met als grondslag het verschil tussen de twee negatieve bedragen.   
-7.  Indien naar aanleiding van een bezwaarschrift of een daaropvolgende gerechtelijke procedure een voorlopige aanslag wordt herzien overeenkomstig het tweede, derde of zesde lid, wordt geen rente vergoed. In het geval ter zake van de herziene voorlopige aanslag eerder belastingrente in rekening is gebracht, wordt deze rente verminderd overeenkomstig het tweede lid, onderscheidenlijk derde lid.  
+7.  Bij een herziening van een voorlopige aanslag als bedoeld in het eerste, vierde en vijfde lid, is artikel 30f, vierde lid, van overeenkomstige toepassing.  
+8.  Indien naar aanleiding van een bezwaarschrift of een daaropvolgende gerechtelijke procedure een voorlopige aanslag wordt herzien overeenkomstig het tweede, derde of zesde lid, wordt geen rente vergoed. In het geval ter zake van de herziene voorlopige aanslag eerder belastingrente in rekening is gebracht, wordt deze rente verminderd overeenkomstig het tweede lid, onderscheidenlijk derde lid.  
 
 ### Artikel  30fc  
 
@@ -752,7 +753,7 @@ c. indien het betreft een belastingaanslag als bedoeld in artikel 8, vijfde lid,
 
 ### Artikel  30h  
 
-1.  Met betrekking tot naheffingsaanslagen ter zake van loonbelasting, omzetbelasting, overdrachtsbelasting, belasting van personenauto’s en motorrijwielen, accijns, verbruiksbelasting van alcoholvrije dranken of een in artikel 1 van de Wet belastingen op milieugrondslag genoemde belasting, wordt aan degene ten name van wie de naheffingsaanslag is gesteld, rente – belastingrente – in rekening gebracht, ingeval de naheffingsaanslag is vastgesteld na het einde van het kalenderjaar of boekjaar waarop de nageheven belasting betrekking heeft.   
+1.  Met betrekking tot naheffingsaanslagen ter zake van loonbelasting, dividendbelasting, omzetbelasting, overdrachtsbelasting, belasting van personenauto’s en motorrijwielen, accijns, verbruiksbelasting van alcoholvrije dranken of een in artikel 1 van de Wet belastingen op milieugrondslag genoemde belasting, wordt aan degene ten name van wie de naheffingsaanslag is gesteld, rente – belastingrente – in rekening gebracht, ingeval de naheffingsaanslag is vastgesteld na het einde van het kalenderjaar of boekjaar waarop de nageheven belasting betrekking heeft.   
 2.  De belastingrente wordt enkelvoudig berekend over het tijdvak dat aanvangt op de dag volgend op het kalenderjaar of boekjaar waarop de nageheven belasting betrekking heeft en eindigt op de dag voorafgaand aan de dag waarop de naheffingsaanslag invorderbaar is ingevolge artikel 9 van de Invorderingswet 1990 en heeft als grondslag de nageheven belasting.   
 3.  Het eerste lid vindt geen toepassing ingeval de naheffingsaanslag het gevolg is van een verbetering van een aangifte (suppletie), welke is gedaan binnen 3 maanden na het einde van het kalenderjaar of boekjaar waarop de nageheven belasting betrekking heeft.   
 4.  Het eerste en tweede lid zijn van overeenkomstige toepassing voor zover een in het eerste lid bedoelde belasting te laat, doch voordat een naheffingsaanslag is vastgesteld, wordt betaald, behoudens ingeval de betaling plaatsvindt binnen 3 maanden na het einde van het kalenderjaar of boekjaar waarop de te laat betaalde belasting betrekking heeft. Belastingrente wordt berekend over het tijdvak dat aanvangt op de dag volgend op het kalenderjaar of boekjaar waarop de te laat betaalde belasting betrekking heeft en eindigt op de dag van betaling en heeft als grondslag het bedrag van de te laat betaalde belasting.   
@@ -762,11 +763,12 @@ c. indien het betreft een belastingaanslag als bedoeld in artikel 8, vijfde lid,
 
 1.  Met betrekking tot de in artikel 30h bedoelde belastingen wordt rente – belastingrente – vergoed ingeval een teruggaafbeschikking niet wordt vastgesteld binnen 8 weken na de ontvangst van het verzoek om die beschikking. De belastingrente wordt enkelvoudig berekend over het tijdvak dat aanvangt 8 weken na ontvangst van het verzoek, doch niet eerder dan 3 maanden na het einde van het kalenderjaar of boekjaar waarop de teruggaaf betrekking heeft en eindigt 14 dagen na de dagtekening van de teruggaafbeschikking.   
 2.  Uitgezonderd bij een vermindering van een naheffingsaanslag, wordt met betrekking tot de in artikel 30h bedoelde belastingen ook belastingrente vergoed indien recht ontstaat op een terug te geven bedrag dat verband houdt met een door de inspecteur ingenomen standpunt ter zake van de bij wege van voldoening of afdracht op aangifte verschuldigde of terug te geven belasting. De belastingrente wordt enkelvoudig berekend over het tijdvak dat aanvangt op de dag na die van de voldoening of afdracht van die belasting, doch niet eerder dan 3 maanden na het einde van het kalenderjaar of boekjaar waarop de teruggaaf betrekking heeft en eindigt 14 dagen na de dagtekening van de teruggaafbeschikking en heeft als grondslag het terug te geven bedrag.   
-3.  Met betrekking tot de in artikel 30h bedoelde belastingen wordt ook belastingrente vergoed indien een afwijzende beschikking op een verzoek om een teruggaaf wordt vervangen door een teruggaafbeschikking. De belastingrente wordt enkelvoudig berekend over het tijdvak dat aanvangt 8 weken na de ontvangst van het verzoek om de teruggaaf, doch niet eerder dan 3 maanden na het einde van het kalenderjaar of boekjaar waarop de teruggaaf betrekking heeft en eindigt 14 dagen na de dagtekening van de teruggaafbeschikking.  
+3.  Met betrekking tot de in artikel 30h bedoelde belastingen wordt ook belastingrente vergoed indien een afwijzende beschikking op een verzoek om een teruggaaf wordt vervangen door een teruggaafbeschikking. De belastingrente wordt enkelvoudig berekend over het tijdvak dat aanvangt 8 weken na de ontvangst van het verzoek om de teruggaaf, doch niet eerder dan 3 maanden na het einde van het kalenderjaar of boekjaar waarop de teruggaaf betrekking heeft en eindigt 14 dagen na de dagtekening van de teruggaafbeschikking.   
+4.  In afwijking van het eerste lid wordt de termijn van 8 weken bij de vaststelling van een teruggaafbeschikking ter zake van dividendbelasting opgeschort met ingang van de dag na die waarop de inspecteur op grond van de artikelen 47 en 47a verzoekt gegevens en inlichtingen te verstrekken of boeken, bescheiden en andere gegevensdragers of de inhoud daarvan voor raadpleging ter beschikking te stellen, tot de dag waarop aan dit verzoek is voldaan. 
 
 ### Artikel  30hb  
 
-1.  Het percentage van de belastingrente voor de inkomstenbelasting, de erfbelasting, de loonbelasting, de omzetbelasting, de overdrachtsbelasting, de belasting van personenauto’s en motorrijwielen, de accijns, de verbruiksbelasting van alcoholvrije dranken en de in artikel 1 van de Wet belastingen op milieugrondslag genoemde belastingen is gelijk aan het percentage van de ingevolge artikel 120, eerste lid, van Boek 6 van het Burgerlijk Wetboek bij algemene maatregel van bestuur vastgestelde wettelijke rente, bedoeld in artikel 119 van Boek 6 van dat wetboek, met dien verstande dat het eerstgenoemde percentage ten minste 4 bedraagt.   
+1.  Het percentage van de belastingrente voor de inkomstenbelasting, de erfbelasting, de loonbelasting, de dividendbelasting, de omzetbelasting, de overdrachtsbelasting, de belasting van personenauto’s en motorrijwielen, de accijns, de verbruiksbelasting van alcoholvrije dranken en de in artikel 1 van de Wet belastingen op milieugrondslag genoemde belastingen is gelijk aan het percentage van de ingevolge artikel 120, eerste lid, van Boek 6 van het Burgerlijk Wetboek bij algemene maatregel van bestuur vastgestelde wettelijke rente, bedoeld in artikel 119 van Boek 6 van dat wetboek, met dien verstande dat het eerstgenoemde percentage ten minste 4 bedraagt.   
 2.  Het percentage van de belastingrente voor de vennootschapsbelasting is gelijk aan het ingevolge artikel 120, tweede lid, van Boek 6 van het Burgerlijk Wetboek bepaalde percentage van de wettelijke rente, bedoeld in de artikelen 119a en 119b van Boek 6 van dat wetboek, met dien verstande dat een wijziging van de wettelijke rente eerst twee maanden na die wijziging leidt tot een aanpassing van de belastingrente en het eerstgenoemde percentage ten minste 8 bedraagt.  
 
 ### Artikel  30i  
@@ -1069,18 +1071,18 @@ c.bekendmaking plaatsvindt aan degene op wie de gegevens betrekking hebben voorz
 
 ### Artikel  67a  
 
-1.  Indien de belastingplichtige de aangifte voor een belasting welke bij wege van aanslag wordt geheven niet, dan wel niet binnen de ingevolge artikel 9, derde lid, gestelde termijn heeft gedaan, vormt dit een verzuim ter zake waarvan de inspecteur hem, uiterlijk bij de vaststelling van de aanslag, een bestuurlijke boete van ten hoogste € 4 920 kan opleggen.    
+1.  Indien de belastingplichtige de aangifte voor een belasting welke bij wege van aanslag wordt geheven niet, dan wel niet binnen de ingevolge artikel 9, derde lid, gestelde termijn heeft gedaan, vormt dit een verzuim ter zake waarvan de inspecteur hem, uiterlijk bij de vaststelling van de aanslag, een bestuurlijke boete van ten hoogste € 5.278 kan opleggen.    
 2.  Indien over een jaar zowel een aanslag als een conserverende aanslag wordt vastgesteld, wordt de in het eerste lid bedoelde boete uitsluitend opgelegd uiterlijk bij het vaststellen van de aanslag. Wordt over een jaar uitsluitend een conserverende aanslag vastgesteld, dan wordt die boete opgelegd bij het vaststellen van de conserverende aanslag.  
 
 ### Artikel  67b  
 
-1.  Indien de belastingplichtige of de inhoudingsplichtige de aangifte voor een belasting welke op aangifte moet worden voldaan of afgedragen niet, dan wel niet binnen de in artikel 10 bedoelde termijn heeft gedaan, vormt dit een verzuim ter zake waarvan de inspecteur hem een bestuurlijke boete van ten hoogste € 123 kan opleggen.    
-2. Indien de inhoudingsplichtige de aangifte loonbelasting niet, niet binnen de in artikel 10 bedoelde termijn, dan wel onjuist of onvolledig heeft gedaan, vormt dit, in afwijking van het eerste lid, een verzuim terzake waarvan de inspecteur hem een bestuurlijke boete van ten hoogste € 1 230 kan opleggen. 
+1.  Indien de belastingplichtige of de inhoudingsplichtige de aangifte voor een belasting welke op aangifte moet worden voldaan of afgedragen niet, dan wel niet binnen de in artikel 10 bedoelde termijn heeft gedaan, vormt dit een verzuim ter zake waarvan de inspecteur hem een bestuurlijke boete van ten hoogste € 131 kan opleggen.    
+2. Indien de inhoudingsplichtige de aangifte loonbelasting niet, niet binnen de in artikel 10 bedoelde termijn, dan wel onjuist of onvolledig heeft gedaan, vormt dit, in afwijking van het eerste lid, een verzuim terzake waarvan de inspecteur hem een bestuurlijke boete van ten hoogste € 1.319 kan opleggen. 
 3. De bevoegdheid tot het opleggen van de boete wegens het niet dan wel niet tijdig doen van de aangifte vervalt door verloop van een jaar na het einde van de termijn waarbinnen de aangifte had moeten worden gedaan. De bevoegdheid tot het opleggen van de boete wegens het doen van een onjuiste of onvolledige aangifte vervalt door verloop van vijf jaar na het einde van het kalenderjaar van het aangiftetijdvak waarop de aangifte betrekking heeft.
 
 ### Artikel  67c  
 
-1.   Indien de belastingplichtige of de inhoudingsplichtige de belasting welke op aangifte moet worden voldaan of afgedragen niet, gedeeltelijk niet, dan wel niet binnen de in de belastingwet gestelde termijn heeft betaald, vormt dit een verzuim ter zake waarvan de inspecteur hem een bestuurlijke boete van ten hoogste € 4 920 kan opleggen.    
+1.   Indien de belastingplichtige of de inhoudingsplichtige de belasting welke op aangifte moet worden voldaan of afgedragen niet, gedeeltelijk niet, dan wel niet binnen de in de belastingwet gestelde termijn heeft betaald, vormt dit een verzuim ter zake waarvan de inspecteur hem een bestuurlijke boete van ten hoogste € 5.278 kan opleggen.    
 2.  Bij niet of gedeeltelijk niet betalen legt de inspecteur de boete op, gelijktijdig met de vaststelling van de naheffingsaanslag.    
 3.  De bevoegdheid tot het opleggen van de boete wegens niet tijdig betalen vervalt door verloop van vijf jaren na het einde van het kalenderjaar waarin de belastingschuld is ontstaan.   
 4. Artikel 20, eerste lid, tweede volzin, en tweede lid, tweede volzin, is van overeenkomstige toepassing.
@@ -1099,12 +1101,12 @@ d. artikel 9, eerste lid, van de Wet op de dividendbelasting 1965;
 
 e. de artikelen 34c, eerste lid, 34e, 34g en 35a, eerste en tweede lid, van de Wet op de omzetbelasting 1968, of  
 
-f. artikel 54 van de Wet op belastingen van rechtsverkeer, begaat een verzuim ter zake waarvan de inspecteur hem een bestuurlijke boete van ten hoogste € 4 920 kan opleggen.     
+f. artikel 54 van de Wet op belastingen van rechtsverkeer, begaat een verzuim ter zake waarvan de inspecteur hem een bestuurlijke boete van ten hoogste € 5.278 kan opleggen.     
 2.  De bevoegdheid tot het opleggen van de in het eerste lid bedoelde boete vervalt door verloop van vijf jaren na het einde van het kalenderjaar waarin de verplichting is ontstaan.  
 
 ### Artikel  67cb  
 
-1.  De in de artikelen 67a, eerste en tweede lid, 67b, eerste en tweede lid, 67c, eerste lid, en 67ca, eerste lid, genoemde bedragen worden elke vijf jaar, met ingang van 1 januari van een jaar, bij ministeriële regeling gewijzigd. Deze wijziging vindt voor het eerst plaats per 1 januari 2015. De artikelen 10.1 en 10.2 van de Wet inkomstenbelasting 2001 zijn van overeenkomstige toepassing, met dien verstande dat als tabelcorrectiefactor wordt genomen het product van de factoren van de laatste vijf kalenderjaren.   
+1.  De in de artikelen 67a, eerste lid, 67b, eerste en tweede lid, 67c, eerste lid, en 67ca, eerste lid, genoemde bedragen worden elke vijf jaar, met ingang van 1 januari van een jaar, bij ministeriële regeling gewijzigd. Deze wijziging vindt voor het eerst plaats per 1 januari 2015. De artikelen 10.1 en 10.2 van de Wet inkomstenbelasting 2001 zijn van overeenkomstige toepassing, met dien verstande dat als tabelcorrectiefactor wordt genomen het product van de factoren van de laatste vijf kalenderjaren.   
 2.  De gewijzigde bedragen vinden voor het eerst toepassing met betrekking tot verzuimen die zijn begaan na het begin van het kalenderjaar bij de aanvang waarvan de bedragen zijn gewijzigd.  
 
 ### Paragraaf  2  
@@ -1151,14 +1153,6 @@ b. indien verliezen in aanmerking zijn of worden genomen, het bedrag waarop de n
 5.   Artikel 67e, derde lid, is van overeenkomstige toepassing.    
 6.   Artikel 20, eerste lid, tweede volzin, en tweede lid, tweede volzin, is van overeenkomstige toepassing.   
 
-### Artikel  67fa  
-
-Bij toepassing van artikel 5:1, tweede en derde lid, van de Algemene wet bestuursrecht vervalt voor zover nodig: 
-
-a. de voorwaarde van gelijktijdigheid, bedoeld in de artikelen 67c, tweede lid, 67d, eerste lid, 67e, eerste lid, en 67f, derde lid;  
-
-b. de voorwaarde dat uiterlijk bij het vaststellen van de aanslag een verzuimboete kan worden opgelegd, bedoeld in artikel 67a, eerste lid.   
-
 ### Afdeling  2  
 
 ####Aanvullende voorschriften inzake het opleggen van bestuurlijke boeten 
@@ -1188,6 +1182,19 @@ b. degene die door giften, beloften, misbruik van gezag, geweld, bedreiging, mis
 c. degene die als medeplichtige opzettelijk behulpzaam is bij of opzettelijk gelegenheid, middelen of inlichtingen verschaft tot het plegen van de overtreding.     
 2.  De bestuurlijke boete, bedoeld in de artikelen 67a, 67b, 67c en 67ca, kan niet worden opgelegd aan een medeplichtige.   
 3.  Indien de bestuurlijke boete, bedoeld in de artikelen 67cc, 67d, 67e en 67f, wordt opgelegd aan een medeplichtige, wordt het bedrag van de boete dat ten hoogste kan worden opgelegd met een derde verminderd.  
+
+### Artikel  67oa  
+
+Indien aan een ander dan de belastingplichtige of inhoudingsplichtige een bestuurlijke boete wordt opgelegd, zijn niet van toepassing: 
+
+a. de voorwaarde, bedoeld in de artikelen 67c, tweede lid, 67d, eerste lid, 67e, eerste lid, en 67f, derde lid, dat de bestuurlijke boete wordt opgelegd gelijktijdig met de vaststelling van de belastingaanslag;  
+
+b. de voorwaarde, bedoeld in artikel 67a, eerste lid, dat een verzuimboete uiterlijk bij het vaststellen van de aanslag wordt opgelegd.   
+
+### Artikel  67ob  
+
+1.  De bevoegdheid om aan een ander dan de belastingplichtige of inhoudingsplichtige een bestuurlijke boete als bedoeld in de artikelen 67a, eerste lid, en 67d, eerste lid, op te leggen vervalt door verloop van drie jaren na het einde van het kalenderjaar waarin de overtreding heeft plaatsgevonden.   
+2.  De bevoegdheid om aan een ander dan de belastingplichtige of inhoudingsplichtige een bestuurlijke boete als bedoeld in de artikelen 67c, tweede lid, 67e, eerste lid, en 67f, derde lid, op te leggen vervalt door verloop van vijf jaren na het einde van het kalenderjaar waarin de overtreding heeft plaatsgevonden.  
 
 ### Artikel  67p  
 

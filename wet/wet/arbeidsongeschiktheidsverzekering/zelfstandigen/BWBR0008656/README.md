@@ -80,7 +80,7 @@ d. zij op grond van een registratie worden aangemerkt als een gezamenlijke huish
 6.  Bij algemene maatregel van bestuur wordt vastgesteld welke registraties, en gedurende welk tijdvak, in aanmerking worden genomen voor de toepassing van het vijfde lid, onderdeel d.    
 7.  Bij algemene maatregel van bestuur kunnen regels worden gesteld ten aanzien van hetgeen wordt verstaan onder het blijk geven zorg te dragen voor een ander, zoals bedoeld in het vierde lid.    
 8.  Onder bloedverwant in de eerste graad als bedoeld in het derde lid, onderdeel a, wordt mede verstaan een meerderjarig aangehuwd kind of een meerderjarig voormalig pleegkind van de ongehuwde meerderjarige.   
-9.  Onder voormalig pleegkind als bedoeld in het achtste lid wordt verstaan een pleegkind waarvoor de ongehuwde meerderjarige een pleegvergoeding ontving of ontvangt op grond van de Wet op de jeugdzorg of kinderbijslag ontving op grond van de Algemene Kinderbijslagwet. 
+9.  Onder voormalig pleegkind als bedoeld in het achtste lid wordt verstaan een pleegkind voor wie de ongehuwde meerderjarige een pleegvergoeding ontving of ontvangt op grond van de Wet op de jeugdzorg of de Jeugdwet, of kinderbijslag ontving op grond van de Algemene Kinderbijslagwet. 
 
 ### Artikel  2  
 
@@ -582,7 +582,6 @@ Opgeroepenen en, indien hun toestand geleide nodig maakt, mede hun geleiders, wo
 
 1.  Het Uitvoeringsinstituut werknemersverzekeringen en de door hem daartoe aangewezen deskundige kunnen de personen, bedoeld in artikel 41, eerste lid, voorschriften geven in het belang van een behandeling of van genezing of tot behoud, herstel en bevordering van de mogelijkheid tot het verrichten van arbeid.   
 2.  Het Uitvoeringsinstituut werknemersverzekeringen kan voorschrijven dat de personen, bedoeld in artikel 41, eerste lid, zich laten registreren als werkzoekende bij het Uitvoeringsinstituut werknemersverzekeringen.  
-3. Voor de toepassing van het eerste lid wordt niet als arbeid beschouwd arbeid op grond van een dienstbetrekking als bedoeld in hoofdstuk 2 of 3 van de Wet sociale werkvoorziening.
 
 ### Artikel  44  
 
@@ -611,7 +610,7 @@ c.te voldoen aan het voorschrift, gegeven door het Uitvoeringsinstituut werkneme
 
 ####Gevolgen niet-naleving voorschriften
 
-1. Het Uitvoeringsinstituut werknemersverzekeringen handelt overeenkomstig artikel 45, indien de verzekerde:  
+Het Uitvoeringsinstituut werknemersverzekeringen handelt overeenkomstig artikel 45, indien de verzekerde:  
 
 a. de door het Uitvoeringsinstituut werknemersverzekeringen of de door hem daartoe aangewezen deskundige krachtens artikel 43 in het belang van een behandeling of genezing of tot behoud, herstel of bevordering van de mogelijkheid tot het verrichten van arbeid en tot registratie als werkzoekende bij het Uitvoeringsinstituut werknemersverzekeringen gegeven voorschriften zonder deugdelijke grond niet opvolgt;  
 
@@ -631,9 +630,9 @@ h.indien de belanghebbende zonder redelijke gronden niet meewerkt aan het opstel
 
 i.indien de belanghebbende de verplichtingen die zijn opgenomen in de reïntegratievisie bedoeld in artikel 30a, eerste lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen of in het reïntegratieplan, bedoeld in artikel 30a, derde lid, van die wet niet of niet behoorlijk is nagekomen;
 
-j.indien de belanghebbende die bij deelname aan een reïntegratietraject zijn reïntegratieverplichtingen niet naleeft, de reden daarvan niet onmiddellijk aan het reïntegratiebedrijf heeft medegedeeld.  
-2. Voor de toepassing van het eerste lid wordt niet als arbeid beschouwd arbeid op grond van een dienstbetrekking als bedoeld in hoofdstuk 2 of 3 van de Wet sociale werkvoorziening. 
-3. Het eerste lid, onderdeel g, is niet van toepassing op de verzekerde die blijkens een indicatiebeschikking of herindicatiebeschikking tot de doelgroep behoort van de Wet sociale werkvoorziening.
+j.indien de belanghebbende die bij deelname aan een reïntegratietraject zijn reïntegratieverplichtingen niet naleeft, de reden daarvan niet onmiddellijk aan het reïntegratiebedrijf heeft medegedeeld;
+
+k.zich niet onthoudt van zeer ernstige misdragingen jegens de met de uitvoering van deze wet belaste personen en instanties tijdens het verrichten van hun werkzaamheden. 
 
 ### Artikel  47  
 
@@ -670,9 +669,9 @@ b. afzien van het opleggen van een bestuurlijke boete indien daarvoor dringende 
 
 ####Invordering bestuurlijke boete
 
-1.  Het Uitvoeringsinstituut werknemersverzekeringen verrekent de bestuurlijke boete met een uitkering op grond van deze wet, de Werkloosheidswet, de Ziektewet, de Wet werk en inkomen naar arbeidsvermogen, de Wet op de arbeidsongeschiktheidsverzekering, de Wet werk en arbeidsondersteuning jonggehandicapten, de Wet arbeidsongeschiktheidsvoorziening militairen, de Wet inkomensvoorziening oudere werklozen, de Wet arbeid en zorg of een toeslag op grond van de Toeslagenwet, die de persoon aan wie een bestuurlijke boete is opgelegd ontvangt.   
+1.  Het Uitvoeringsinstituut werknemersverzekeringen verrekent de bestuurlijke boete met een uitkering op grond van deze wet, de Werkloosheidswet, de Ziektewet, de Wet werk en inkomen naar arbeidsvermogen, de Wet op de arbeidsongeschiktheidsverzekering, de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, de Wet arbeidsongeschiktheidsvoorziening militairen, de Wet inkomensvoorziening oudere werklozen, de Wet arbeid en zorg of een toeslag op grond van de Toeslagenwet, die de persoon aan wie een bestuurlijke boete is opgelegd ontvangt.   
 2.  Onverminderd het eerste lid kan het Uitvoeringsinstituut werknemersverzekeringen de bestuurlijke boete verrekenen met een vordering die degene aan wie de bestuurlijke boete is opgelegd op hem heeft.  
-3.  De Sociale verzekeringsbank onderscheidenlijk de gemeente betaalt het bedrag van de bestuurlijke boete, zonder dat daarvoor een machtiging nodig is, op zijn verzoek aan het Uitvoeringsinstituut werknemersverzekeringen indien de persoon aan wie een bestuurlijke boete is opgelegd een uitkering ontvangt op grond van de Algemene Ouderdomswet, de Algemene nabestaanden wet, de Wet werk en bijstand, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers of de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen.   
+3.  De Sociale verzekeringsbank onderscheidenlijk de gemeente betaalt het bedrag van de bestuurlijke boete, zonder dat daarvoor een machtiging nodig is, op zijn verzoek aan het Uitvoeringsinstituut werknemersverzekeringen indien de persoon aan wie een bestuurlijke boete is opgelegd een uitkering ontvangt op grond van de Algemene Ouderdomswet, de Algemene nabestaanden wet, de Participatiewet, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers of de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen.   
 4.  De in artikel 479g van het Wetboek van Burgerlijke Rechtsvordering aan de raad voor de kinderbescherming toegekende bevoegdheid komt gelijkelijk toe aan het Uitvoeringsinstituut werknemersverzekeringen. Indien het Uitvoeringsinstituut werknemersverzekeringen gebruik maakt van deze bevoegdheid, geschiedt de bekendmaking van het dwangbevel, in afwijking van artikel 4:123, eerste lid, van de Algemene wet bestuursrecht, door middel van toezending per post aan de persoon aan wie de boete is opgelegd.   
 5.  Zolang de verzekerde of zijn wettelijke vertegenwoordiger zijn verplichting, bedoeld in artikel 48, negende lid, niet of niet behoorlijk nakomt: 
 
@@ -688,7 +687,7 @@ b. geldt de beslagvrije voet, bedoeld in de artikelen 475c tot en met 475e van h
 2.  Artikel 54, eerste lid, en het eerste lid zijn van overeenkomstige toepassing op de verrekening van de bestuurlijke boete wegens eenzelfde gedraging als bedoeld in artikel 48, zesde lid, indien en voor zover op het moment van verrekening, bedoeld in het eerste lid, de bestuurlijke boete door de overtreder niet is betaald.   
 3.  Het Uitvoeringsinstituut werknemersverzekeringen kan op verzoek van de overtreder besluiten het eerste lid en tweede lid niet of niet meer toe te passen indien, gelet op bijzondere omstandigheden, dringende redenen daartoe noodzaken.   
 4.  De voorgaande leden laten de verrekening van de bestuurlijke boete op grond van artikel 54, eerste lid, na het tijdvak, bedoeld in het eerste lid, onverlet.   
-5.  Indien als gevolg van de verrekening, bedoeld in het eerste en tweede lid, algemene bijstand op grond van de Wet werk en bijstand wordt toegekend, wordt bij de verrekening een bij ministeriële regeling bepaald deel van de uitkering op grond van deze wet op aanvraag vrijgelaten in verband met zorgkosten, woonkosten en de kosten van kinderen. Het vrij te laten deel van de uitkering kan afhankelijk worden gesteld van de leefsituatie.   
+5.  Indien als gevolg van de verrekening, bedoeld in het eerste en tweede lid, algemene bijstand op grond van de Participatiewet wordt toegekend, wordt bij de verrekening een bij ministeriële regeling bepaald deel van de uitkering op grond van deze wet op aanvraag vrijgelaten in verband met zorgkosten, woonkosten en de kosten van kinderen. Het vrij te laten deel van de uitkering kan afhankelijk worden gesteld van de leefsituatie.   
 6.  Voor de toepassing van het vijfde lid kunnen bij ministeriële regeling nadere regels worden gesteld.   
 7.  Het vrijgelaten deel, bedoeld in het vijfde lid, is niet vatbaar voor beslag, waaronder begrepen beslag ingevolge faillissement of toepassing van de schuldsaneringsregeling natuurlijke personen. 
 
@@ -730,16 +729,16 @@ c. de verzekerde of zijn wettelijke vertegenwoordiger een verplichting als bedoe
 
 ####Opschorting betaling bij vertrek naar onbekende bestemming
 
-1.  Is van de ontvanger van een arbeidsongeschiktheidsverzekering bij het Uitvoeringsinstituut werknemersverzekeringen een adres in Nederland bekend, terwijl in de basisregistratie personen ambtshalve is opgenomen dat hij is vertrokken naar een onbekend land van verblijf, dan verzoekt het Uitvoeringsinstituut werknemersverzekeringen hem de afwijkende registratie in de basisregistratie personen binnen een redelijke termijn ongedaan te laten maken.   
+1.  Is van de ontvanger van een arbeidsongeschiktheidsuitkering bij het Uitvoeringsinstituut werknemersverzekeringen een adres in Nederland bekend, terwijl in de basisregistratie personen ambtshalve is opgenomen dat hij is vertrokken naar een onbekend land van verblijf, dan verzoekt het Uitvoeringsinstituut werknemersverzekeringen hem de afwijkende registratie in de basisregistratie personen binnen een redelijke termijn ongedaan te laten maken.   
 2.  Wanneer na afloop van deze termijn, de afwijkende registratie niet is beëindigd of als uit de basisregistratie personen niet blijkt dat het college van burgemeester en wethouders van de desbetreffende gemeente de gegevens over het adres in onderzoek heeft genomen, schort het Uitvoeringsinstituut werknemersverzekeringen de betaling van de uitkering aan de persoon, aan wie de arbeidsongeschiktheidsuitkering is toegekend, op.   
 3.  De opschorting wordt beëindigd zodra is vastgesteld dat de persoon, bedoeld in het tweede lid, in het buitenland woont of verblijft of dat een adres in Nederland in de basisregistratie personen is opgenomen.   
-4.  Indien het onderzoek van het college van burgemeester en wethouders is afgerond en de persoon, bedoeld in het tweede lid, in de basisregistratie personen ambtshalve opgenomen blijft met gegevens over het vertrek uit Nederland, schort uit Uitvoeringsinstituut werknemersverzekeringen de betaling van de uitkering op tot verblijf in het buitenland kan worden vastgesteld of een adres in Nederland in de basisregistratie personen is opgenomen.  
+4.  Indien het onderzoek van het college van burgemeester en wethouders is afgerond en de persoon, bedoeld in het tweede lid, in de basisregistratie personen ambtshalve opgenomen blijft met gegevens over het vertrek uit Nederland, schort het Uitvoeringsinstituut werknemersverzekeringen de betaling van de uitkering op tot verblijf in het buitenland kan worden vastgesteld of een adres in Nederland in de basisregistratie personen is opgenomen.  
 
 ### Artikel  57  
 
 ####Betaling aan instellingen
 
-1.  Indien de verzekerde aan wie een arbeidsongeschiktheidsuitkering is toegekend, aanspraak heeft op verstrekking of vergoeding van zorg als bedoeld in de Algemene Wet Bijzondere Ziektekosten en op grond van die wet een bijdrage voor die zorg verschuldigd is, is het Uitvoeringsinstituut werknemersverzekeringen bevoegd de uitkering tot het bedrag van die bijdrage in plaats van aan de verzekerde zonder diens machtiging uit te betalen aan het Zorginstituut Nederland, genoemd in artikel 58, eerste lid, van de Zorgverzekeringswet.  
+1.  Indien de verzekerde aan wie een arbeidsongeschiktheidsuitkering is toegekend, aanspraak heeft op verstrekking of vergoeding van zorg als bedoeld in de Wet langdurige zorg en op grond van die wet een bijdrage voor die zorg verschuldigd is, is het Uitvoeringsinstituut werknemersverzekeringen bevoegd de uitkering tot het bedrag van die bijdrage in plaats van aan de verzekerde zonder diens machtiging uit te betalen aan het Zorginstituut Nederland, genoemd in artikel 58, eerste lid, van de Zorgverzekeringswet.  
 2.  Indien de verzekerde, aan wie een arbeidsongeschiktheidsuitkering is toegekend, in een inrichting ter verpleging van geesteszieken of van zwakzinnigen is opgenomen en het Uitvoeringsinstituut werknemersverzekeringen van de desbetreffende inrichting of van het college van burgemeester en wethouders van de gemeente die de opnamekosten betaalt, het verzoek ontvangt om de arbeidsongeschiktheidsuitkering aan die inrichting of die gemeente uit te betalen, kan het Uitvoeringsinstituut werknemersverzekeringen dat verzoek zonder het stellen van andere voorwaarden inwilligen.   
 3.  Indien het eerste lid toepassing vindt, heeft de in het tweede lid bedoelde bevoegdheid betrekking op het gedeelte van de arbeidsongeschiktheidsuitkering, dat niet aan het Zorginstituut Nederland wordt betaald.   
 4.  Een herziening van de uitkering op grond van het eerste lid als gevolg van een wijziging van de verschuldigde bijdrage vindt plaats zonder dat dit bij beschikking is vastgesteld.  
@@ -880,13 +879,11 @@ a. redelijkerwijs te voorzien is dat de belanghebbende niet zal kunnen voortgaan
 
 b. redelijkerwijs te voorzien is dat een schuldregeling met betrekking tot alle vorderingen, behoudens de in het tweede lid bedoelde vorderingen, van de overige schuldeisers zonder een zodanig besluit niet tot stand zal komen;  
 
-c. de vordering van het Uitvoeringsinstituut werknemersverzekeringen wegens onverschuldigd betaalde uitkering ten minste zal worden voldaan naar evenredigheid met de vorderingen van de schuldeisers van gelijke rang;  
+c. een naar het oordeel van het Uitvoeringsinstituut werknemersverzekeringen betrouwbaar voorstel voor een schuldregeling tot stand is gekomen door tussenkomst van een schuldhulpverlener als bedoeld in artikel 48 van de Wet op het consumentenkrediet;  
 
-d. een naar het oordeel van het Uitvoeringsinstituut werknemersverzekeringen betrouwbaar voorstel voor een schuldregeling tot stand is gekomen door tussenkomst van een schuldhulpverlener als bedoeld in artikel 48 van de Wet op het consumentenkrediet;  
+d. aannemelijk is dat medewerking aan een schuldregeling niet concurrentieverstorend werkt; en  
 
-e. aannemelijk is dat medewerking aan een schuldregeling niet concurrentieverstorend werkt; en  
-
-f. uitdeling in het kader van de schuldregeling plaatsvindt overeenkomstig artikel 349 van de Faillissementswet.     
+e. uitdeling in het kader van de schuldregeling plaatsvindt overeenkomstig artikel 349 van de Faillissementswet.     
 2.  Het eerste lid is niet van toepassing indien een vordering is ontstaan door het niet nakomen door de belanghebbende van de verplichting, bedoeld in artikel 70, en hiervoor een boete als bedoeld in artikel 48 is opgelegd, dan wel indien hiervoor aangifte is gedaan op grond van het Wetboek van Strafrecht.   
 3.  Het besluit tot het afzien van terugvordering of van verdere terugvordering wordt ingetrokken of ten nadele van belanghebbende gewijzigd indien: 
 
@@ -981,7 +978,7 @@ d.werkzaamheden, waarbij er, naar het oordeel van het Uitvoeringsinstituut werkn
 
 ### Artikel  67h  
 
-Het Uitvoeringsinstituut werknemersverzekeringen kan de persoon, die recht heeft op een arbeidsongeschiktheidsuitkering, en voor wie de kans op inschakeling in het arbeidsproces gering is en die daardoor vooralsnog niet bemiddelbaar is op de arbeidsmarkt, onbeloonde additionele werkzaamheden laten verrichten gedurende maximaal twee jaar. Artikel 10a, tweede tot en met tiende lid, van de Wet werk en bijstand is van overeenkomstige toepassing. 
+Het Uitvoeringsinstituut werknemersverzekeringen kan de persoon, die recht heeft op een arbeidsongeschiktheidsuitkering, en voor wie de kans op inschakeling in het arbeidsproces gering is en die daardoor vooralsnog niet bemiddelbaar is op de arbeidsmarkt, onbeloonde additionele werkzaamheden laten verrichten gedurende maximaal twee jaar. Artikel 10a, tweede tot en met tiende lid, van de Participatiewet is van overeenkomstige toepassing. 
 
 ### Hoofdstuk  3B  
 
@@ -992,8 +989,8 @@ Het Uitvoeringsinstituut werknemersverzekeringen kan de persoon, die recht heeft
 ####Tegemoetkoming arbeidsongeschikten
 
 1.  De persoon die op 1 juli van het kalenderjaar recht heeft op een arbeidsongeschiktheidsuitkering bij een arbeidsongeschiktheid van 35% of meer, heeft recht op een tegemoetkoming.   
-2.  De persoon, bedoeld in het eerste lid, ontvangt per kalenderjaar een tegemoetkoming van € 252,00.   
-3.  Het bedrag, genoemd in het tweede lid, wordt jaarlijks per 1 januari bij ministeriële regeling vervangen door een ander bedrag. Dat bedrag wordt berekend door het te vervangen bedrag te vermenigvuldigen met de tabelcorrectiefactor, bedoeld in artikel 10.2 van de Wet inkomstenbelasting 2001, en de uitkomst vervolgens naar boven af te ronden op hele getallen.   
+2.  De persoon, bedoeld in het eerste lid, ontvangt per kalenderjaar een tegemoetkoming van € 255,00.   
+3.  Het bedrag, genoemd in het tweede lid, wordt jaarlijks per 1 januari gewijzigd overeenkomstig de tabelcorrectiefactor, bedoeld in artikel 10.2 van de Wet inkomstenbelasting 2001. Het gewijzigde bedrag wordt door of namens Onze Minister bekend gemaakt in de Staatscourant.   
 4.  In afwijking van het derde lid kan het bedrag, genoemd in het tweede lid, bij algemene maatregel van bestuur met ingang van een bij die maatregel aan te geven datum worden vervangen door een ander bedrag.   
 5.  Het Uitvoeringsinstituut werknemersverzekeringen verstrekt de tegemoetkoming ambtshalve in het derde kwartaal van het kalenderjaar.   
 6.  De tegemoetkoming is niet vatbaar voor beslag.   
@@ -1143,11 +1140,12 @@ Arbeidsongeschiktheidsuitkeringen die zijn toegekend voor de inwerkingtreding va
 
 ####Overgangsrecht in verband met de Wet beperking export uitkeringen
 
-De artikelen 7a, 19a, en 21a, zijn niet van toepassing op de persoon die:
+1. De artikelen 7a, 19a, en 21a, zijn niet van toepassing op de persoon die:
 
 a)op 31 december 1999 op grond van de artikelen 7 dan wel 22 recht heeft op een arbeidsongeschiktheidsuitkering en op die dag niet in Nederland woont, en
 
-b)op 19 december 2005 dit recht op uitkering uitsluitend nog heeft op grond van artikel 2 van de wet van 9 december 2004, houdende goedkeuring van het voornemen tot opzegging van het op 28 juni 1962 te Genève totstandgekomen Verdrag betreffende de gelijkheid van behandeling van eigen onderdanen en vreemdelingen met betrekking tot de sociale zekerheid (Verdrag Nr. 118 aangenomen door de Internationale Arbeidsconferentie in haar zesenveertigste zitting; Trb. 1962, 122 en Trb. 1964, 23) (Stb. 2004, 715).
+b)op 19 december 2005 dit recht op uitkering uitsluitend nog heeft op grond van artikel 2 van de wet van 9 december 2004, houdende goedkeuring van het voornemen tot opzegging van het op 28 juni 1962 te Genève totstandgekomen Verdrag betreffende de gelijkheid van behandeling van eigen onderdanen en vreemdelingen met betrekking tot de sociale zekerheid (Verdrag Nr. 118 aangenomen door de Internationale Arbeidsconferentie in haar zesenveertigste zitting; Trb. 1962, 122 en Trb. 1964, 23) (Stb. 2004, 715). 
+2.  Het eerste lid blijft van toepassing zolang deze persoon blijft wonen in hetzelfde land als het land waar hij op 19 december 2005 woonde en blijft voldoen aan de overige voorwaarden voor het recht op arbeidsongeschiktheidsuitkering. 
 
 ###Artikel 101c 
 
@@ -1176,6 +1174,13 @@ In gedingen aangevangen voor het van toepassing worden van artikel 69, derde lid
 1.  De artikelen 16a en 20, zesde lid, alsmede 21, zevende lid, zoals die zijn komen te luiden na inwerkingtreding van de Wet harmonisatie en vereenvoudiging socialezekerheidswetgeving, zijn niet van toepassing op de persoon wiens arbeidsongeschiktheid voor de dag van inwerkingtreding van die wet is toegenomen als bedoeld in de artikelen 13 tot en met 16, 20 of 21, tot het moment waarop in verband met diezelfde toename van de arbeidsongeschiktheid geen recht meer bestaat op ziekengeld op grond van de Ziektewet.   
 2.  Artikel 20, derde lid, onderdeel b, zoals dat luidde op de dag voor inwerkingtreding van de Wet harmonisatie en vereenvoudiging socialezekerheidswetgeving blijft van toepassing op de persoon die op of voor de dag van inwerkingtreding van die wet arbeidsongeschikt werd als bedoeld in artikel 20, eerste lid.   
 3.  Dit artikel vervalt met ingang van de dag gelegen tien jaar na de dag van inwerkingtreding van de Wet harmonisatie en vereenvoudiging.  
+
+### Artikel  101g  
+
+####Overgangsrecht in verband met opzegging of beëindiging voorlopige toepassing verdragen
+
+1.  De artikelen 7a, 19a en 21a, zijn niet van toepassing op de persoon op wie die artikelen als gevolg van de opzegging van een verdrag, de beëindiging van de voorlopige toepassing van een verdrag dan wel de beëindiging van een daarmee gelijk te stellen situatie van toepassing zouden worden, zolang deze persoon blijft wonen in hetzelfde land als waar hij op de dag voor buitenwerkingtreding als gevolg van die opzegging respectievelijk op de dag voor de beëindiging woonde en blijft voldoen aan de overige voorwaarden voor het recht op een arbeidsongeschiktheidsuitkering.   
+2.  Onze Minister deelt mede ten aanzien van welk land, met inbegrip van de dag waarop, een verdrag als bedoeld in het eerste lid buitenwerking is getreden dan wel de voorlopige toepassing van een verdrag of een daarmee gelijk te stellen situatie als bedoeld in het eerste lid is beëindigd.  
 
 ### Hoofdstuk  11  
 

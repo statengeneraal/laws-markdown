@@ -5,21 +5,21 @@
 De Minister van Volksgezondheid, Welzijn en Sport,  
 Handelende in overeenstemming met de Minister van Financiën;
 
-Gelet op de [artikelen 11, vierde lid](../../../../../../../../../AMvB-BES/besluit/zorgverzekering/bes/BWBR0029404/README.md) en [12, vijfde lid, van het Besluit houdende regels voor een zorgverzekering voor de bevolking van Bonaire, Sint Eustatius en Saba](../../../../../../../../../AMvB-BES/besluit/zorgverzekering/bes/BWBR0029404/README.md);
+Gelet op de artikelen 11, vierde lid en 12, vijfde lid, van het Besluit houdende regels voor een zorgverzekering voor de bevolking van Bonaire, Sint Eustatius en Saba;
 Besluit:    
 
 ### Artikel  1  
 
-Het premiepercentage, bedoeld in [artikel 11, vierde lid, van het Besluit zorgverzekering BES](../../../../../../../../../AMvB-BES/besluit/zorgverzekering/bes/BWBR0029404/README.md), wordt voor het jaar 2014 vastgesteld op 0,5. 
+Het premiepercentage, bedoeld in artikel 11, vierde lid, van het Besluit zorgverzekering BES, wordt voor het jaar 2015 vastgesteld op 0,5. 
 
 ### Artikel  2  
 
-Het premiepercentage, bedoeld in [artikel 12, vijfde lid, van het Besluit zorgverzekering BES](../../../../../../../../../AMvB-BES/besluit/zorgverzekering/bes/BWBR0029404/README.md), wordt voor het jaar 2014 vastgesteld op 16,1. 
+Het premiepercentage, bedoeld in artikel 12, vijfde lid, van het Besluit zorgverzekering BES, wordt voor het jaar 2015 vastgesteld op 16,1. 
 
 ### Artikel  3  
 
-1.  Deze regeling treedt in werking met ingang van de dag waarop het [Besluit zorgverzekering BES](../../../../../../../../../AMvB-BES/besluit/zorgverzekering/bes/BWBR0029404/README.md) in werking treedt.   
-2.  Indien het [Besluit zorgverzekering BES](../../../../../../../../../AMvB-BES/besluit/zorgverzekering/bes/BWBR0029404/README.md) na 1 januari 2011 in werking treedt, werkt deze regeling terug tot en met 1 januari 2011.  
+1.  Deze regeling treedt in werking met ingang van de dag waarop het Besluit zorgverzekering BES in werking treedt.   
+2.  Indien het Besluit zorgverzekering BES na 1 januari 2011 in werking treedt, werkt deze regeling terug tot en met 1 januari 2011.  
 
 ### Artikel  4  
 

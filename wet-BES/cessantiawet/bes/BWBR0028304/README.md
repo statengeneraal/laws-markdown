@@ -48,7 +48,7 @@ a. voor het eerste tot en met het tiende gehele dienstjaar één weekloon per di
 b. voor het elfde tot en met het twintigste gehele dienstjaar een en een kwart maal het weekloon per dienstjaar;  
 
 c. voor de daarop volgende gehele dienstjaren tweemaal het weekloon per dienstjaar.   Voor de berekening van gehele dienstjaren geldt een periode van meer dan zes maanden na het eerste dienstjaar als een geheel dienstjaar.   
-2.  Voor de toepassing van het eerste lid worden dienstbetrekkingen geacht éénzelfde, niet onderbroken dienstbetrekking te vormen in de in artikel 1615k, eerste lid, van het Burgerlijk Wetboek BES genoemde gevallen.   
+2.  Voor de toepassing van het eerste lid worden dienstbetrekkingen geacht éénzelfde, niet onderbroken dienstbetrekking te vormen in de in artikel 1615fa, eerste lid, van het Burgerlijk Wetboek BES genoemde gevallen.   
 3.  Van het bepaalde in het eerste lid kan slechts ten gunste van de werknemer worden afgeweken, terwijl van het bepaalde in het tweede lid slechts bij collectieve arbeidsovereenkomst kan worden afgeweken.   
 4.  Het eerste lid vindt geen toepassing indien een werknemer bij het einde van zijn dienstbetrekking in het genot van een pensioen of uitkering bij wijze van pensioen of ouderdomsverzorging wordt gesteld.   
 5.  Het vierde lid vindt geen toepassing wanneer het pensioen of de uitkering bij wijze van pensioen of ouderdomsverzorging, dat aan de werknemer bij het einde van zijn dienstbetrekking wordt uitgekeerd, minder bedraagt dan het dan geldende wettelijk ouderdomspensioen, danwel, het pensioen ingeval daarop het wettelijk ouderdomspensioen geheel of gedeeltelijk in mindering wordt gebracht, minder bedraagt dan tweemaal het bedrag van het dan geldende wettelijk ouderdomspensioen.   

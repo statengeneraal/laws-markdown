@@ -22,9 +22,9 @@ a.  *Onze Minister:* Onze Minister van Sociale Zaken en Werkgelegenheid;
 
 b.  *Uitvoeringsinstituut werknemersverzekeringen:* het Uitvoeringsinstituut werknemersverzekeringen, genoemd in hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen;  
 
-c.  *Arbeidsondersteuningsfonds jonggehandicapten:* het arbeidsondersteuningsfonds jonggehandicapten, bedoeld in artikel 5:1;  
+c.  *Arbeidsongeschiktheidsfonds jonggehandicapten:* het Arbeidsongeschiktheidsfonds jonggehandicapten, bedoeld in artikel 5:1;  
 
-d.  *jonggehandicapte:* de natuurlijke persoon, bedoeld in artikel 2:3 of artikel 3:2;  
+d.  *jonggehandicapte:* de natuurlijke persoon, bedoeld in artikel 1a:1, artikel 2:3 of artikel 3:2;  
 
 e.  *vreemdeling:* hetgeen daaronder wordt verstaan in de Vreemdelingenwet 2000;  
 
@@ -48,7 +48,7 @@ n.  *participatieplan:* het participatieplan, bedoeld in artikel 2:18, eerste li
 
 o.  *recht op arbeidsondersteuning:* het recht op arbeidsondersteuning op grond van hoofdstuk 2;  
 
-p.  *arbeidsongeschiktheidsuitkering:* een arbeidsongeschiktheidsuitkering op grond van hoofdstuk 3;  
+p.  *arbeidsongeschiktheidsuitkering:* een arbeidsongeschiktheidsuitkering op grond van hoofdstuk 1a of 3;  
 
 q. *zelfstandige:* de persoon die, anders dan in dienstbetrekking, arbeid in eigen bedrijf verricht of een beroep uitoefent, teneinde daarmee inkomen te verwerven; 
 
@@ -78,7 +78,7 @@ d. zij op grond van een registratie worden aangemerkt als een gezamenlijke huish
 6.  Bij algemene maatregel van bestuur wordt vastgesteld welke registraties, en gedurende welk tijdvak, in aanmerking worden genomen voor de toepassing van het vijfde lid, onderdeel d.   
 7.  Bij algemene maatregel van bestuur kunnen regels worden gesteld ten aanzien van hetgeen wordt verstaan onder het blijk geven zorg te dragen voor een ander, zoals bedoeld in het vierde lid.   
 8.  Onder bloedverwant in de eerste graad als bedoeld in het derde lid, onderdeel a, wordt mede verstaan een meerderjarig aangehuwd kind of een meerderjarig voormalig pleegkind van de ongehuwde meerderjarige.   
-9.  Onder voormalig pleegkind als bedoeld in het achtste lid wordt verstaan een pleegkind waarvoor de ongehuwde meerderjarige een pleegvergoeding ontving of ontvangt op grond van de Wet op de jeugdzorg of kinderbijslag ontving op grond van de Algemene Kinderbijslagwet. 
+9.  Onder voormalig pleegkind als bedoeld in het achtste lid wordt verstaan een pleegkind voor wie de ongehuwde meerderjarige een pleegvergoeding ontving of ontvangt op grond van de Wet op de jeugdzorg of de Jeugdwet, of kinderbijslag ontving op grond van de Algemene Kinderbijslagwet. 
 
 ### Artikel  1:2  
 
@@ -116,45 +116,35 @@ e. die, hoewel hij niet op grond van de onderdelen a tot en met d als studerende
 
 ####Arbeidsongeschiktheidsvoorziening voor jonggehandicapten
 
-Treedt in werking per 01-01-2015 
-
 ### §  1  
 
 ####Jonggehandicapte
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  1a:1  
 
 ####Jonggehandicapte
-
-Treedt in werking per 01-01-2015 
 
 1.  Jonggehandicapte in de zin van dit hoofdstuk en de daarop berustende bepalingen is de ingezetene die: 
 
 a. op de dag waarop hij achttien jaar wordt als rechtstreeks en objectief medisch vast te stellen gevolg van ziekte, gebrek, zwangerschap of bevalling duurzaam geen mogelijkheden tot arbeidsparticipatie heeft;  
 
 b. na de in onderdeel a bedoelde dag als rechtstreeks en objectief medisch vast te stellen gevolg van ziekte, gebrek, zwangerschap of bevalling duurzaam geen mogelijkheden tot arbeidsparticipatie heeft en in het jaar, onmiddellijk voorafgaand aan de dag waarop dit is ingetreden, gedurende ten minste zes maanden studerende was.     
-2.  De ingezetene die op de dag, bedoeld in het eerste lid, onderdeel a of b, beperkingen ondervindt als gevolg van ziekte, gebrek, zwangerschap of bevalling, maar op grond van het eerste lid niet aangemerkt wordt als jonggehandicapte, wordt alsnog jonggehandicapte in de zin van dit hoofdstuk en de daarop berustende bepalingen, indien hij binnen vijf jaar na die dag duurzaam geen mogelijkheden tot arbeidsparticipatie heeft, indien dit voortkomt uit dezelfde oorzaak als die op grond waarvan hij beperkingen als gevolg ziekte, gebrek, zwangerschap of bevalling ondervond, op de dag, bedoeld in onderdeel a of b.   
+2.  De ingezetene die op de dag, bedoeld in het eerste lid, onderdeel a of b, beperkingen ondervindt als gevolg van ziekte, gebrek, zwangerschap of bevalling, maar op grond van het eerste lid niet aangemerkt wordt als jonggehandicapte, wordt alsnog jonggehandicapte in de zin van dit hoofdstuk en de daarop berustende bepalingen, indien hij binnen vijf jaar na die dag duurzaam geen mogelijkheden tot arbeidsparticipatie heeft, indien dit voortkomt uit dezelfde oorzaak als die op grond waarvan hij beperkingen als gevolg van ziekte, gebrek, zwangerschap of bevalling ondervond, op de dag, bedoeld in onderdeel a of b.   
 3.  De ingezetene die tijdelijk geen mogelijkheden tot arbeidsparticipatie heeft wordt alsnog jonggehandicapte, indien hij gedurende een tijdvak van tien jaar volgend op de dag waarop hij jonggehandicapte zou zijn geworden op grond van het eerste lid, onderdeel a of b, of het tweede lid, indien hij duurzaam geen mogelijkheden tot arbeidsparticipatie zou hebben gehad, geen mogelijkheden tot arbeidsparticipatie had.   
 4.  Onder duurzaam geen mogelijkheden tot arbeidsparticipatie hebben wordt in dit hoofdstuk en de daarop berustende bepalingen de situatie verstaan waarin de mogelijkheden tot arbeidsparticipatie zich niet kunnen ontwikkelen.   
 5.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot een periodieke herbeoordeling om vast te stellen of betrokkene duurzaam geen mogelijkheden tot arbeidsparticipatie heeft.   
 6.  De beoordeling van de mogelijkheden tot arbeidsparticipatie wordt gebaseerd op een verzekeringsgeneeskundig en voor zover nodig een arbeidskundig onderzoek.   
 7.  Bij de beoordeling, bedoeld in het zesde lid, maakt de verzekeringsarts zo veel mogelijk gebruik van wetenschappelijke inzichten die de beoordeling van de mogelijkheden tot arbeidsparticipatie kunnen ondersteunen.   
-8.  Bij of krachtens algemene maatregel van bestuur kunnen met betrekking tot het eerste en vierde lid nadere regels worden gesteld.   
+8.  Bij of krachtens algemene maatregel van bestuur kunnen met betrekking tot het eerste, vierde en zesde lid nadere regels worden gesteld.   
 9.  De voordracht van een krachtens het achtste lid vast te stellen algemene maatregel van bestuur, onderscheidenlijk de vaststelling van een ministeriële regeling op grond van het achtste lid, wordt niet gedaan dan nadat het ontwerp in de Staatscourant is bekendgemaakt en aan een ieder de gelegenheid is geboden om binnen vier weken na de dag waarop de bekendmaking is geschied, wensen en bedenkingen ter kennis van Onze Minister te brengen. Gelijktijdig met de bekendmaking wordt het ontwerp aan de beide kamers der Staten-Generaal overgelegd.  
 
 ### §  2  
 
 ####Recht op arbeidsongeschiktheidsuitkering
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  1a:2  
 
 ####Recht op arbeidsongeschiktheidsuitkering
-
-Treedt in werking per 01-01-2015 
 
 1.  De jonggehandicapte heeft recht op een arbeidsongeschiktheidsuitkering op grond van dit hoofdstuk, tenzij op hem een uitsluitingsgrond, als bedoeld in artikel 1a:6, eerste lid, van toepassing is.   
 2.  De persoon die recht op arbeidsondersteuning op grond van hoofdstuk 2 of recht op arbeidsongeschiktheidsuitkering op grond van hoofdstuk 3 heeft of heeft gehad, heeft geen recht op arbeidsongeschiktheidsuitkering op grond van dit hoofdstuk.  
@@ -163,16 +153,12 @@ Treedt in werking per 01-01-2015
 
 ####Later ontstaan recht op arbeidsongeschiktheidsuitkering
 
-Treedt in werking per 01-01-2015 
-
 1.  Indien is vastgesteld dat de ingezetene geen jonggehandicapte is, heeft de ingezetene die alsnog wordt aangemerkt als jonggehandicapte op grond van artikel 1a:1, tweede lid, niet eerder dan twaalf maanden na de dag waarop voor het laatst werd vastgesteld dat de ingezetene geen jonggehandicapte was recht op arbeidsongeschiktheidsuitkering.   
 2.  Indien geen recht op arbeidsongeschiktheidsuitkering ontstaat, omdat op de jonggehandicapte een of meer uitsluitingsgronden, als bedoeld in artikel 1a:6, eerste lid, van toepassing zijn, heeft de jonggehandicapte alsnog recht op arbeidsongeschiktheidsuitkering vanaf de dag dat zich geen van deze uitsluitingsgronden meer voordoet.  
 
 ### Artikel  1a:4  
 
 ####Hoogte arbeidsongeschiktheidsuitkering
-
-Treedt in werking per 01-01-2015 
 
 1.  De arbeidsongeschiktheidsuitkering wordt berekend naar de grondslag van het minimumloon per maand gedeeld door 21,75.   
 2.  De arbeidsongeschiktheidsuitkering bedraagt per dag 75% van de grondslag.   
@@ -183,15 +169,11 @@ Treedt in werking per 01-01-2015
 
 ####Verhoging bij hulpbehoevendheid
 
-Treedt in werking per 01-01-2015 
-
 Indien de jonggehandicapte verkeert in een blijvende of voorlopig blijvende toestand van hulpbehoevendheid die geregeld oppassing en verzorging nodig maakt, wordt de arbeidsongeschiktheidsuitkering voor de duur van die hulpbehoevendheid verhoogd tot ten hoogste de grondslag. De eerste zin vindt geen toepassing, indien de jonggehandicapte in een inrichting is opgenomen en de kosten van verblijf ten laste van een zorgverzekering of een verzekering inzake ziektekosten komen. 
 
 ### Artikel  1a:6  
 
 ####Uitsluitingsgronden
-
-Treedt in werking per 01-01-2015 
 
 1.  Voor de toepassing van deze paragraaf en de daarop berustende bepalingen worden de volgende uitsluitingsgronden onderscheiden: 
 
@@ -212,8 +194,6 @@ f. het bereiken of bereikt hebben van de pensioengerechtigde leeftijd, bedoeld i
 
 ####Nadere bepalingen met betrekking tot vrijheidsstraffen en vrijheidsbenemende maatregelen
 
-Treedt in werking per 01-01-2015 
-
 1.  In afwijking van de artikelen 1a:2, eerste lid, en 1a:9 is artikel 1a:6, eerste lid, onderdeel b, eerst van toepassing met ingang van de dag dat de persoon één maand rechtens zijn vrijheid is ontnomen, tenzij op de dag voorafgaande aan de vrijheidsontneming geen recht bestaat op arbeidsongeschiktheidsuitkering op grond van artikel 1a:6, eerste lid, onderdeel c.   
 2.  Artikel 1a:6, eerste lid, onderdeel b, is niet van toepassing op bij algemene maatregel van bestuur aan te wijzen categorieën personen waarbij tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel plaatsvindt buiten een justitiële inrichting.   
 3.  Voor de toepassing van het eerste lid, worden perioden van vrijheidsontneming samengeteld, indien zij elkaar met een onderbreking van minder dan vier weken opvolgen.  
@@ -222,8 +202,6 @@ Treedt in werking per 01-01-2015
 
 ####Niet in Nederland wonen
 
-Treedt in werking per 01-01-2015 
-
 1.  In afwijking van de artikelen 1a:2, eerste lid, en 1a:9 is artikel 1a:6, eerste lid, onderdeel d, eerst van toepassing met ingang van de eerste dag van de maand volgend op die waarin de jonggehandicapte buiten Nederland is gaan wonen.   
 2.  Het eerste lid is tevens van toepassing op de jonggehandicapte die buiten Nederland is gaan wonen en op wie artikel 1:2, derde lid, van toepassing is.   
 3.  Het Uitvoeringsinstituut werknemersverzekeringen kan artikel 1a:6, eerste lid, onderdeel d, buiten toepassing laten of daarvan afwijken voor zover toepassing, gelet op het belang van het eindigen van het recht op arbeidsongeschiktheidsuitkering indien de jonggehandicapte buiten Nederland gaat wonen, zal leiden tot een onbillijkheid van overwegende aard.  
@@ -231,8 +209,6 @@ Treedt in werking per 01-01-2015
 ### Artikel  1a:9  
 
 ####Einde van het recht op arbeidsongeschiktheidsuitkering
-
-Treedt in werking per 01-01-2015 
 
 Het recht op arbeidsongeschiktheidsuitkering eindigt: 
 
@@ -248,8 +224,6 @@ d. indien de jonggehandicapte overlijdt.
 
 ####Herleving van het recht op arbeidsongeschiktheidsuitkering
 
-Treedt in werking per 01-01-2015 
-
 1.  Indien op grond van artikel 1a:9, onderdeel a, het recht op arbeidsongeschiktheidsuitkering is geëindigd, herleeft het recht op arbeidsongeschiktheidsuitkering als de jonggehandicapte binnen vijf jaar na de dag waarop het recht op arbeidsongeschiktheidsuitkering is geëindigd duurzaam geen mogelijkheden tot arbeidsparticipatie als bedoeld in artikel 1a:1 heeft en dit voortkomt uit dezelfde oorzaak als op grond waarvan hij eerder recht op arbeidsongeschiktheidsuitkering had.   
 2.  Indien op grond van artikel 1a:9, onderdeel b, het recht op arbeidsongeschiktheidsuitkering is geëindigd, omdat op de persoon die recht had op arbeidsongeschiktheidsuitkering een of meer uitsluitingsgronden als bedoeld in artikel 1a:6, eerste lid, onderdelen a tot en met e, van toepassing waren, herleeft het recht op arbeidsongeschiktheidsuitkering wanneer zich geen van deze uitsluitingsgronden meer voordoet.   
 3.  Indien op grond van artikel 1a:9, onderdeel c, het recht op arbeidsongeschiktheidsuitkering is geëindigd, herleeft het recht op arbeidsongeschiktheidsuitkering, indien zich geen uitsluitingsgrond als bedoeld in artikel 1a:6, eerste lid, voordoet. Het recht op arbeidsongeschiktheidsuitkering herleeft niet eerder dan een jaar na de dag waarop het recht op arbeidsongeschiktheidsuitkering is geëindigd.  
@@ -257,8 +231,6 @@ Treedt in werking per 01-01-2015
 ### Artikel  1a:11  
 
 ####Aanvraag recht op arbeidsongeschiktheidsuitkering
-
-Treedt in werking per 01-01-2015 
 
 1.  Het Uitvoeringsinstituut werknemersverzekeringen stelt op aanvraag vast of recht op arbeidsongeschiktheidsuitkering op grond van dit hoofdstuk bestaat.   
 2.  Het recht op arbeidsongeschiktheidsuitkering op grond van dit hoofdstuk ontstaat op de dag waarop de aanvraag, bedoeld in dit artikel, werd ingediend, met dien verstande dat dit recht niet eerder kan ontstaan dan de dag waarop de betrokkene achttien jaar wordt.   
@@ -268,8 +240,6 @@ Treedt in werking per 01-01-2015
 ### Artikel  1a:12  
 
 ####Overeenkomstige toepasselijkheid bepalingen hoofdstuk 3 
-
-Treedt in werking per 01-01-2015 
 
 1.  Met betrekking tot de jonggehandicapte en het recht op arbeidsongeschiktheidsuitkering op grond van dit hoofdstuk zijn de volgende artikelen en daarop berustende bepalingen van overeenkomstige toepassing: 
 
@@ -298,7 +268,7 @@ k. ter zake van vervreemding, verpanding en volmacht tot ontvangst: de artikelen
 
 ### Hoofdstuk  2  
 
-####Werk en arbeidsondersteuning
+####Arbeidsongeschiktheidsvoorziening voor jonggehandicapten ingestroomd van 2010 tot en met 2014
 
 ### Afdeling  1  
 
@@ -333,10 +303,8 @@ b. na de in onderdeel a bedoelde dag waarop hij zeventien jaar wordt als rechtst
 
 ####Definitie volledig en duurzaam arbeidsongeschikt
 
-1.  Volledig en duurzaam arbeidsongeschikt in de zin van dit hoofdstuk en de daarop berustende bepalingen is hij die als rechtstreeks en objectief medisch vast te stellen gevolg van ziekte, gebrek, zwangerschap of bevalling duurzaam slechts in staat is om met arbeid niet meer dan 20% te verdienen van het maatmaninkomen.   
-2.  In het eerste lid wordt onder duurzaam verstaan een medisch stabiele of verslechterende situatie en het blijvend ontbreken van mogelijkheden tot arbeidsparticipatie.   
-3.  Onder een medisch stabiele of verslechterende situatie wordt mede verstaan een medische situatie waarbij op lange termijn een geringe kans op herstel bestaat.   
-4.  De jonggehandicapte wordt uitsluitend als volledig en duurzaam arbeidsongeschikt in de zin van dit hoofdstuk beschouwd indien en zolang hij daarmee instemt.  
+1.  Volledig en duurzaam arbeidsongeschikt in de zin van dit hoofdstuk en de daarop berustende bepalingen is de jonggehandicapte die duurzaam geen mogelijkheden tot arbeidsparticipatie heeft.   
+2.  Onder duurzaam wordt de situatie verstaan waarin de mogelijkheden tot arbeidsparticipatie zich niet kunnen ontwikkelen.  
 
 ### Artikel  2:5  
 
@@ -346,9 +314,10 @@ b. na de in onderdeel a bedoelde dag waarop hij zeventien jaar wordt als rechtst
 2.  Bij het vaststellen van hetgeen betrokkene met arbeid kan verdienen wordt, zo mogelijk, rekening gehouden met verkregen nieuwe bekwaamheden, maar wordt buiten beschouwing gelaten of betrokkene de arbeid feitelijk kan verkrijgen.   
 3.  Onder arbeid als bedoeld in het tweede lid, wordt verstaan alle algemeen geaccepteerde arbeid waartoe betrokkene met zijn krachten en bekwaamheden in staat is.   
 4.  Bij de toepassing van dit artikel wordt buiten beschouwing gelaten, hetgeen wordt of kan worden ontvangen voor arbeid verricht bij wijze van sociale werkvoorziening als bedoeld in hoofdstuk 2 of 3 van de Wet sociale werkvoorziening.   
-5.  Bij of krachtens algemene maatregel van bestuur kunnen met betrekking tot het eerste, tweede en derde lid, en de artikelen 2:3, 2:4 en 2:37, tweede lid, nadere en zo nodig afwijkende regels worden gesteld die voor verschillende groepen van jonggehandicapten verschillend kunnen zijn. Hierbij kan tevens onderscheid worden gemaakt tussen de situaties, bedoeld in artikel 2:4, tweede en derde lid.   
-6.  De voordracht voor een krachtens het vijfde lid vast te stellen algemene maatregel van bestuur, onderscheidenlijk de vaststelling van een ministeriële regeling op grond van het vijfde lid, wordt niet gedaan dan nadat het ontwerp in de Staatscourant is bekendgemaakt en aan een ieder de gelegenheid is geboden om binnen vier weken na de dag waarop de bekendmaking is geschied, wensen en bedenkingen ter kennis van Onze Minister te brengen. Gelijktijdig met de bekendmaking wordt het ontwerp aan de beide kamers der Staten-Generaal overgelegd.   
-7.  Bij de beoordeling, bedoeld in het eerste lid, maakt de verzekeringsarts zo veel mogelijk gebruik van wetenschappelijke inzichten die de beoordeling van wat iemand met arbeid kan verdienen, alsmede de beoordeling of iemand volledig en duurzaam arbeidsongeschikt is kunnen ondersteunen.  
+5.  Bij of krachtens algemene maatregel van bestuur kunnen met betrekking tot het eerste, tweede en derde lid, en de artikelen 2:3, 2:4 en 2:37, tweede lid, nadere en zo nodig afwijkende regels worden gesteld die voor verschillende groepen van jonggehandicapten verschillend kunnen zijn.   
+6.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot een periodieke herbeoordeling om vast te stellen of betrokkene volledig en duurzaam arbeidsongeschikt is.  
+7.  De voordracht voor een krachtens het vijfde lid vast te stellen algemene maatregel van bestuur, onderscheidenlijk de vaststelling van een ministeriële regeling op grond van het vijfde lid, wordt niet gedaan dan nadat het ontwerp in de Staatscourant is bekendgemaakt en aan een ieder de gelegenheid is geboden om binnen vier weken na de dag waarop de bekendmaking is geschied, wensen en bedenkingen ter kennis van Onze Minister te brengen. Gelijktijdig met de bekendmaking wordt het ontwerp aan de beide kamers der Staten-Generaal overgelegd.   
+8.  Bij de beoordeling, bedoeld in het eerste lid, maakt de verzekeringsarts zo veel mogelijk gebruik van wetenschappelijke inzichten die de beoordeling van wat iemand met arbeid kan verdienen, alsmede de beoordeling of iemand volledig en duurzaam arbeidsongeschikt is kunnen ondersteunen.  
 
 ### Artikel  2:6  
 
@@ -375,7 +344,9 @@ c. mee te werken door zich te laten onderzoeken door het Uitvoeringsinstituut we
 
 d. tot naleving van door het Uitvoeringsinstituut werknemersverzekeringen vastgestelde controlevoorschriften die noodzakelijk zijn voor een juiste uitvoering van deze wet;  
 
-e. op verzoek onverwijld inzage te geven aan het Uitvoeringsinstituut werknemersverzekeringen in een op hem betrekking hebben document als bedoel in artikel 1, eerste lid, onder 1° tot en met 3°, van de Wet op de identificatieplicht.     
+e. op verzoek onverwijld inzage te geven aan het Uitvoeringsinstituut werknemersverzekeringen in een op hem betrekking hebben document als bedoel in artikel 1, eerste lid, onder 1° tot en met 3°, van de Wet op de identificatieplicht;  
+
+f.zich te onthouden van zeer ernstige misdragingen jegens de met de uitvoering van deze wet belaste personen en instanties tijdens het verrichten van hun werkzaamheden.   
 3.  De verplichtingen, bedoeld in het eerste en tweede lid, zijn van overeenkomstige toepassing op: 
 
 a. de ingezetene die een aanvraag voor het recht op arbeidsondersteuning heeft ingediend;  
@@ -387,7 +358,7 @@ a. het re-integratiebedrijf dat in opdracht van het Uitvoeringsinstituut werknem
 
 b. personen die met toestemming van het Uitvoeringsinstituut werknemersverzekeringen zijn aangewezen door een re-integratiebedrijf als bedoeld in onderdeel b, voor zover dit noodzakelijk is voor de uitvoering van de bij wet of overeenkomst aan deze personen en rechtspersonen opgedragen taken.     
 5.  De jonggehandicapte die recht heeft op arbeidsondersteuning op grond van dit hoofdstuk en die bij deelname aan een re-integratietraject zijn re-integratieverplichtingen niet naleeft, deelt de reden daarvan onmiddellijk mede aan het re-integratiebedrijf.   
-6.  De ingezetene die een aanvraag voor arbeidsondersteuning heeft ingediend of de jonggehandicapte die recht heeft op arbeidsondersteuning op grond van dit hoofdstuk zijn verplicht te voldoen aan het voorschift, gegeven door het Uitvoeringsinstituut werknemersverzekeringen of de door hem daartoe aangewezen deskundige, om zich ter observatie te doen opnemen of te verblijven in een aangewezen inrichting mits observatie of verblijf in een aangewezen inrichting noodzakelijk is voor de vaststelling van de omvang van de arbeidsbeperking of bijdraagt aan genezing of aan behoud, herstel of bevordering van de mogelijkheid tot het verrichten van arbeid.   
+6.  De ingezetene die een aanvraag voor arbeidsondersteuning heeft ingediend of de jonggehandicapte die recht heeft op arbeidsondersteuning op grond van dit hoofdstuk zijn verplicht te voldoen aan het voorschrift, gegeven door het Uitvoeringsinstituut werknemersverzekeringen of de door hem daartoe aangewezen deskundige, om zich ter observatie te doen opnemen of te verblijven in een aangewezen inrichting mits observatie of verblijf in een aangewezen inrichting noodzakelijk is voor de vaststelling van de omvang van de arbeidsbeperking of bijdraagt aan genezing of aan behoud, herstel of bevordering van de mogelijkheid tot het verrichten van arbeid.   
 7.  De werkgever ten behoeve van wie het Uitvoeringsinstituut werknemersverzekeringen de aanspraak op een geldelijke beloning voor de verrichte arbeid, op grond van artikel 2:20 heeft verminderd of die daarvoor een verzoek heeft gedaan, is verplicht aan het Uitvoeringsinstituut werknemersverzekeringen op zijn verzoek of onverwijld uit eigen beweging mededeling te doen van alle feiten en omstandigheden, waarvan hem redelijkerwijs duidelijk moet zijn dat zij van invloed kunnen zijn op de toekenning of de duur en hoogte van de vermindering.  
 
 ### Artikel  2:8  
@@ -478,7 +449,9 @@ d. hij de aanvraag, bedoeld in de aanhef, heeft ingediend op of na de datum van 
 
 a. de jonggehandicapte volledig en duurzaam arbeidsongeschikt is; of  
 
-b. het recht op arbeidsondersteuning op grond van artikel 2:17, eerste of tweede lid, herleeft.    
+b. het recht op arbeidsondersteuning op grond van artikel 2:17, eerste of tweede lid, herleeft.     
+4.  Recht op arbeidsondersteuning ontstaat niet, indien dit zou ingaan op of na de dag van inwerkingtreding van artikel III, onderdeel B, van de Invoeringswet Participatiewet.   
+5.  In afwijking van het vierde lid kan het recht op arbeidsondersteuning wel herleven op grond van artikel 2:17 of ontstaan op grond van artikel 8:10, vierde lid. 
 
 ### Artikel  2:16  
 
@@ -539,13 +512,8 @@ Het Uitvoeringsinstituut werknemersverzekeringen kan de jonggehandicapte tevens 
 
 ####Loondispensatie
 
-1.  Indien de arbeidsprestatie van een werknemer die: 
-
-a. recht heeft op arbeidsondersteuning; of  
-
-b. de leeftijd van achttien jaar nog niet heeft bereikt;   in een bepaalde functie, maar geen functie waarin hij werkzaam is als werknemer in de zin van de Wet sociale werkvoorziening of op een arbeidsovereenkomst als bedoeld in artikel 7 van die wet, ten gevolge van ziekte of gebrek duidelijk minder is dan de arbeidsprestatie die een geldelijke beloning van het voor hem geldende wettelijk minimumloon rechtvaardigt, vermindert het Uitvoeringsinstituut werknemersverzekeringen op verzoek van de betrokken werkgever of werknemer de hoogte van de aanspraak op een geldelijke beloning voor de verrichte arbeid naar evenredigheid, in afwijking van hetgeen bij en krachtens de Wet minimumloon en minimumvakantiebijslag is bepaald.   
-2.  Elk beding waarbij een geldelijke beloning voor de verrichte arbeid wordt overeengekomen die lager is dan de beloning, vastgesteld op grond van het eerste lid is nietig.   
-3.  Vanaf de dag waarop de werknemer, bedoeld in het eerste lid, onderdeel b, de leeftijd van achttien jaar bereikt en recht heeft op arbeidsondersteuning, wordt de op grond van onderdeel b verstrekte vermindering van de hoogte van de aanspraak op een geldelijke beloning, geacht te zijn gebaseerd op het eerste lid, onderdeel a, tenzij de werknemer niet aan de overige voorwaarden van het eerste lid voldoet.  
+1.  Indien de arbeidsprestatie van een werknemer die recht heeft op arbeidsondersteuning in een bepaalde functie, maar geen functie waarin hij werkzaam is als werknemer in de zin van de Wet sociale werkvoorziening of op een arbeidsovereenkomst als bedoeld in artikel 7 van die wet, ten gevolge van ziekte of gebrek duidelijk minder is dan de arbeidsprestatie die een geldelijke beloning van het voor hem geldende wettelijk minimumloon rechtvaardigt, vermindert het Uitvoeringsinstituut werknemersverzekeringen op verzoek van de betrokken werkgever of werknemer de hoogte van de aanspraak op een geldelijke beloning voor de verrichte arbeid naar evenredigheid, in afwijking van hetgeen bij en krachtens de Wet minimumloon en minimumvakantiebijslag is bepaald.   
+2.  Elk beding waarbij een geldelijke beloning voor de verrichte arbeid wordt overeengekomen die lager is dan de beloning, vastgesteld op grond van het eerste lid is nietig.  
 
 ### Artikel  2:22  
 
@@ -646,8 +614,7 @@ Indien het Uitvoeringsinstituut werknemersverzekeringen ten behoeve van een jong
 ####Scholing jonggehandicapten met ernstige scholingbelemmeringen
 
 1.  Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot door het Uitvoeringsinstituut werknemersverzekeringen te verstrekken subsidie aan een rechtspersoon die in het kader van de uitoefening van beroep of bedrijf door scholing de inschakeling van jonggehandicapten met ernstige scholingsbelemmeringen in de arbeid bevordert.   
-2.  Bij de subsidieverlening, bedoeld in het eerste lid, kunnen aan de subsidie-ontvanger verplichtingen worden opgelegd omtrent het hanteren van een registratiesysteem waaruit blijkt of het doel van de subsidie is bereikt.   
-3.  Voor de toepassing van het eerste lid wordt niet als arbeid beschouwd arbeid op grond van een dienstbetrekking als bedoeld in hoofdstuk 2 of 3 van de Wet sociale werkvoorziening.  
+2.  Bij de subsidieverlening, bedoeld in het eerste lid, kunnen aan de subsidie-ontvanger verplichtingen worden opgelegd omtrent het hanteren van een registratiesysteem waaruit blijkt of het doel van de subsidie is bereikt.  
 
 ### Artikel  2:30  
 
@@ -964,7 +931,7 @@ Indien de jonggehandicapte, die een inkomensvoorziening op grond van dit hoofdst
 
 ####Betaling aan instellingen
 
-1.  Indien de jonggehandicapte aan wie een inkomensvoorziening is toegekend, aanspraak heeft op verstrekking of vergoeding van zorg als bedoeld in de Algemene Wet Bijzondere Ziektekosten en op grond van die wet een bijdrage voor die zorg verschuldigd is, is het Uitvoeringsinstituut werknemersverzekeringen bevoegd de inkomensondersteuning tot het bedrag van die bijdrage in plaats van aan de jonggehandicapte zonder diens machtiging uit te betalen aan het Zorginstituut Nederland, genoemd in artikel 58, eerste lid, van de Zorgverzekeringswet.   
+1.  Indien de jonggehandicapte aan wie een inkomensvoorziening is toegekend, aanspraak heeft op verstrekking of vergoeding van zorg als bedoeld in de Wet langdurige zorg en op grond van die wet een bijdrage voor die zorg verschuldigd is, is het Uitvoeringsinstituut werknemersverzekeringen bevoegd de inkomensondersteuning tot het bedrag van die bijdrage in plaats van aan de jonggehandicapte zonder diens machtiging uit te betalen aan het Zorginstituut Nederland, genoemd in artikel 58, eerste lid, van de Zorgverzekeringswet.   
 2.  Indien de jonggehandicapte, aan wie een inkomensvoorziening is toegekend, in een inrichting ter verpleging van geesteszieken of van zwakzinnigen is opgenomen en het Uitvoeringsinstituut werknemersverzekeringen van de desbetreffende inrichting of van het college van burgemeester en wethouders van de gemeente die de opnamekosten betaalt, het verzoek ontvangt om de inkomensvoorziening aan die inrichting of die gemeente uit te betalen, kan het Uitvoeringsinstituut werknemersverzekeringen dat verzoek zonder het stellen van andere voorwaarden inwilligen.   
 3.  Indien het eerste lid toepassing vindt, heeft de in het tweede lid bedoelde bevoegdheid betrekking op het gedeelte van de inkomensvoorziening, dat niet aan het Zorginstituut Nederland wordt betaald.   
 4.  Een herziening van de betaling van de inkomensvoorziening op grond van het eerste lid als gevolg van een wijziging van de verschuldigde bijdrage vindt plaats zonder dat dit bij beschikking is vastgesteld.  
@@ -976,7 +943,7 @@ Indien de jonggehandicapte, die een inkomensvoorziening op grond van dit hoofdst
 1.  Is van de aanvrager of ontvanger van een inkomensvoorziening bij het Uitvoeringsinstituut werknemersverzekeringen een adres in Nederland bekend, terwijl in de basisregistratie personen ambtshalve is opgenomen dat hij is vertrokken naar een onbekend land van verblijf, dan verzoekt het Uitvoeringsinstituut werknemersverzekeringen hem de afwijkende registratie in de basisregistratie personen binnen een redelijke termijn ongedaan te laten maken.   
 2.  Wanneer na afloop van deze termijn, de afwijkende registratie niet is beëindigd of als uit de basisregistratie personen niet blijkt dat het college van burgemeester en wethouders van de desbetreffende gemeente de gegevens over het adres in onderzoek heeft genomen, schort het Uitvoeringsinstituut werknemersverzekeringen de betaling van de inkomensvoorziening aan de persoon, aan wie de inkomensvoorziening is toegekend, op.   
 3.  De opschorting wordt beëindigd zodra is vastgesteld dat de persoon, bedoeld in het tweede lid, in het buitenland woont of verblijft of dat een adres in Nederland in de basisregistratie personen is opgenomen.   
-4.  Indien het onderzoek van het college van burgemeester en wethouders is afgerond en de persoon, bedoeld in het tweede lid, in de basisregistratie personen ambtshalve opgenomen blijft met gegevens over het vertrek uit Nederland, schort uit Uitvoeringsinstituut werknemersverzekeringen de betaling van de inkomensvoorziening op tot verblijf in het buitenland kan worden vastgesteld of een adres in Nederland in de basisregistratie personen is opgenomen.  
+4.  Indien het onderzoek van het college van burgemeester en wethouders is afgerond en de persoon, bedoeld in het tweede lid, in de basisregistratie personen ambtshalve opgenomen blijft met gegevens over het vertrek uit Nederland, schort het Uitvoeringsinstituut werknemersverzekeringen de betaling van de inkomensvoorziening op tot verblijf in het buitenland kan worden vastgesteld of een adres in Nederland in de basisregistratie personen is opgenomen.  
 
 ### Artikel  2:56  
 
@@ -1019,7 +986,7 @@ c. anderszins het recht op arbeidsondersteuning ten onrechte of een inkomensvoor
 
 ####Terugvordering
 
-1.  Een inkomensvoorziening die op grond van dit hoofdstuk onverschuldigd is betaald en hetgeen als gevolg van een beschikking als bedoeld in artikel 2:58 door het Uitvoeringsinstituut werknemersverzekeringen onverschuldigd is betaald of verstrekt wordt door het Uitvoeringsinstituut werknemersverzekeringen teruggevorderd.   
+1.  Een inkomensvoorziening die op grond van dit hoofdstuk onverschuldigd is betaald, hetgeen als gevolg van een beschikking als bedoeld in artikel 2:58 door het Uitvoeringsinstituut werknemersverzekeringen onverschuldigd is betaald of verstrekt, alsmede hetgeen anderszins onverschuldigd is betaald, wordt door het Uitvoeringsinstituut werknemersverzekeringen teruggevorderd.   
 2.  In afwijking van het eerste lid kan het Uitvoeringsinstituut werknemersverzekeringen besluiten van terugvordering of van verdere terugvordering af te zien, indien degene van wie wordt teruggevorderd: 
 
 a. gedurende vijf jaar volledig aan zijn betalingsverplichtingen heeft voldaan;  
@@ -1063,11 +1030,11 @@ a. redelijkerwijs te voorzien is dat degene van wie wordt teruggevorderd niet za
 
 b. redelijkerwijs te voorzien is dat een schuldregeling met betrekking tot alle vorderingen, behoudens de in het tweede lid bedoelde vorderingen, van de overige schuldeisers zonder een zodanig besluit niet tot stand zal komen;  
 
-c. de vordering van het Uitvoeringinstituut werknemersverzekeringen wegens onverschuldigd betaalde inkomensvoorziening ten minste zal worden voldaan naar evenredigheid met de vorderingen van de schuldeisers van gelijke rang;  
+c. een naar het oordeel van het Uitvoeringsinstituut werknemersverzekeringen betrouwbaar voorstel voor een schuldregeling tot stand is gekomen door tussenkomst van een schuldhulpverlener als bedoeld in artikel 48 van de Wet op het consumentenkrediet; en  
 
-d. een naar het oordeel van het Uitvoeringsinstituut werknemersverzekeringen betrouwbaar voorstel voor een schuldregeling tot stand is gekomen door tussenkomst van een schuldhulpverlener als bedoeld in artikel 48 van de Wet op het consumentenkrediet; en  
+d. aannemelijk is dat medewerking aan een schuldregeling niet concurrentieverstorend werkt;  
 
-e. aannemelijk is dat medewerking aan een schuldregeling niet concurrentieverstorend werkt.     
+e. uitdeling in het kader van de schuldregeling plaatsvindt overeenkomstig artikel 349 van de Faillissementswet.    
 2.  Het eerste lid is niet van toepassing indien een vordering is ontstaan door het niet nakomen door degene van wie wordt teruggevorderd van de verplichting, bedoeld in artikel 2:7, en hiervoor een boete is opgelegd als bedoeld in artikel 2:69, dan wel met betrekking tot het niet naleven van die verplichting aangifte is gedaan op grond van het Wetboek van Strafrecht.   
 3.  Het besluit tot het gedeeltelijk afzien van terugvordering of tot het gedeeltelijk afzien van verdere terugvordering wordt ingetrokken of ten nadele van degene van wie wordt teruggevorderd gewijzigd indien: 
 
@@ -1153,7 +1120,7 @@ b. afzien van het opleggen van een bestuurlijke boete indien daarvoor dringende 
 
 ### Hoofdstuk  3  
 
-####Arbeidsongeschiktheidsvoorziening
+####Arbeidsongeschiktheidsvoorziening voor jonggehandicapten ingestroomd voor 2010
 
 ### Afdeling  1  
 
@@ -1263,8 +1230,6 @@ De jonggehandicapte, bedoeld in artikel 3:3, heeft geen recht op arbeidsongeschi
 ### Artikel  3:8a  
 
 ####Duurzaam geen mogelijkheden tot arbeidsparticipatie
-
-Treedt in werking per 01-01-2015 
 
 1.  In afwijking van artikel 3:8, eerste lid, bedraagt de arbeidsongeschiktheidsuitkering per dag bij een arbeidsongeschiktheid van 80% of meer 75% van de grondslag, indien de jonggehandicapte duurzaam geen mogelijkheden tot arbeidsparticipatie heeft.   
 2.  Onder duurzaam wordt de situatie verstaan waarin de mogelijkheden tot arbeidsparticipatie zich niet kunnen ontwikkelen.   
@@ -1575,8 +1540,7 @@ Opgeroepenen en, indien hun toestand geleide nodig maakt, mede hun geleiders, wo
 ####Voorschriften van medische of administratieve aard
 
 1.  Het Uitvoeringsinstituut werknemersverzekeringen en de door hem daartoe aangewezen deskundige kunnen de personen, bedoeld in artikel 3:33, eerste lid, voorschriften geven in het belang van een behandeling of van genezing of tot behoud, herstel en bevordering van de mogelijkheid tot het verrichten van arbeid.   
-2.  Het Uitvoeringsinstituut werknemersverzekeringen kan voorschrijven dat personen, bedoeld in artikel 3:33, eerste lid, zich laten registreren als werkzoekende bij het Uitvoeringsinstituut werknemersverzekeringen.   
-3.  Voor de toepassing van het eerste lid wordt niet als arbeid beschouwd arbeid op grond van een dienstbetrekking als bedoeld in hoofdstuk 2 of 3 van de Wet sociale werkvoorziening. 
+2.  Het Uitvoeringsinstituut werknemersverzekeringen kan voorschrijven dat personen, bedoeld in artikel 3:33, eerste lid, zich laten registreren als werkzoekende bij het Uitvoeringsinstituut werknemersverzekeringen.  
 
 ### Artikel  3:36  
 
@@ -1605,7 +1569,7 @@ c. te voldoen aan het voorschrift, gegeven door het Uitvoeringsinstituut werknem
 
 ####Gevolgen niet-naleving voorschriften
 
-1.  Het Uitvoeringsinstituut werknemersverzekeringen handelt overeenkomstig artikel 3:37, indien de jonggehandicapte: 
+Het Uitvoeringsinstituut werknemersverzekeringen handelt overeenkomstig artikel 3:37, indien de jonggehandicapte: 
 
 a. de door het Uitvoeringsinstituut werknemersverzekeringen of de door hem daartoe aangewezen deskundige krachtens artikel 3:35 in het belang van een behandeling of genezing of tot behoud, herstel of bevordering van de mogelijkheid tot het verrichten van arbeid en tot registratie als werkzoekende bij het Uitvoeringsinstituut werknemersverzekeringen gegeven voorschriften zonder deugdelijke grond niet opvolgt;  
 
@@ -1625,9 +1589,9 @@ h. indien de belanghebbende zonder redelijke gronden niet meewerkt aan het opste
 
 i. indien de belanghebbende de verplichtingen die zijn opgenomen in de reïntegratievisie bedoeld in artikel 30a, vierde lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen of in het reïntegratieplan, bedoeld in artikel 30a, zesde lid, van die wet niet of niet behoorlijk is nagekomen;  
 
-j. indien de belanghebbende die bij deelname aan een reïntegratietraject zijn reïntegratieverplichtingen niet naleeft, de reden daarvan niet onmiddellijk aan het reïntegratiebedrijf heeft medegedeeld.     
-2. Voor de toepassing van het eerste lid wordt niet als arbeid beschouwd arbeid op grond van een dienstbetrekking als bedoeld in hoofdstuk 2 of 3 van de Wet sociale werkvoorziening. 
-3. Het eerste lid, onderdeel g, is niet van toepassing op de jonggehandicapte die blijkens een indicatiebeschikking of herindicatiebeschikking tot de doelgroep behoort van de Wet sociale werkvoorziening.
+j. indien de belanghebbende die bij deelname aan een reïntegratietraject zijn reïntegratieverplichtingen niet naleeft, de reden daarvan niet onmiddellijk aan het reïntegratiebedrijf heeft medegedeeld;  
+
+k.zich niet onthoudt van zeer ernstige misdragingen jegens de met de uitvoering van deze wet belaste personen en instanties tijdens het verrichten van hun werkzaamheden. 
 
 ### Artikel  3:39  
 
@@ -1666,7 +1630,7 @@ b. afzien van het opleggen van een bestuurlijke boete indien daarvoor dringende 
 
 1.  Het Uitvoeringsinstituut werknemersverzekeringen verrekent de bestuurlijke boete met een uitkering op grond van deze wet, de Werkloosheidswet, de Ziektewet, de Wet werk en inkomen naar arbeidsvermogen, de Wet op de arbeidsongeschiktheidsverzekering, de Wet arbeidsongeschiktheidsverzekering zelfstandigen, de Wet arbeidsongeschiktheidsvoorziening militairen, de Wet inkomensvoorziening oudere werklozen, de Wet arbeid en zorg of een toeslag op grond van de Toeslagenwet, die de persoon aan wie een bestuurlijke boete is opgelegd ontvangt.   
 2.  Onverminderd het eerste lid kan het Uitvoeringsinstituut werknemersverzekeringen de bestuurlijke boete verrekenen met een vordering die degene aan wie de bestuurlijke boete is opgelegd op hem heeft.  
-3.  De Sociale verzekeringsbank onderscheidenlijk de gemeente betaalt het bedrag van de bestuurlijke boete, zonder dat daarvoor een machtiging nodig is, op zijn verzoek aan het Uitvoeringsinstituut werknemersverzekeringen indien de persoon aan wie een bestuurlijke boete is opgelegd een uitkering ontvangt op grond van de Algemene Ouderdomswet, de Algemene nabestaandenwet, de Wet werk en bijstand, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers of de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen.   
+3.  De Sociale verzekeringsbank onderscheidenlijk de gemeente betaalt het bedrag van de bestuurlijke boete, zonder dat daarvoor een machtiging nodig is, op zijn verzoek aan het Uitvoeringsinstituut werknemersverzekeringen indien de persoon aan wie een bestuurlijke boete is opgelegd een uitkering ontvangt op grond van de Algemene Ouderdomswet, de Algemene nabestaandenwet, de Participatiewet, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers of de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen.   
 4.  De in artikel 479g van het Wetboek van Burgerlijke Rechtsvordering aan de raad voor de kinderbescherming toegekende bevoegdheid komt gelijkelijk toe aan het Uitvoeringsinstituut werknemersverzekeringen. Indien het Uitvoeringsinstituut werknemersverzekeringen gebruik maakt van deze bevoegdheid, geschiedt de bekendmaking van het dwangbevel, in afwijking van artikel 4:123, eerste lid, van de Algemene wet bestuursrecht, door middel van toezending per post aan de persoon aan wie de boete is opgelegd.   
 5.  Zolang de jonggehandicapte of zijn wettelijke vertegenwoordiger zijn verplichting, bedoeld in artikel 3:40, negende lid, niet of niet behoorlijk nakomt: 
 
@@ -1682,7 +1646,7 @@ b. geldt de beslagvrije voet, bedoeld in de artikelen 475c tot en met 475e van h
 2.  Artikel 3:43, eerste lid, en het eerste lid zijn van overeenkomstige toepassing op de verrekening van de bestuurlijke boete wegens eenzelfde gedraging als bedoeld in artikel 3:40, zesde lid, indien en voor zover op het moment van verrekening, bedoeld in het eerste lid, de bestuurlijke boete door de overtreder niet is betaald.   
 3.  Het Uitvoeringsinstituut werknemersverzekeringen kan op verzoek van de overtreder besluiten het eerste lid en tweede lid niet of niet meer toe te passen indien, gelet op bijzondere omstandigheden, dringende redenen daartoe noodzaken.   
 4.  De voorgaande leden laten de verrekening van de bestuurlijke boete op grond van artikel 3:43, eerste lid, na het tijdvak, bedoeld in het eerste lid, onverlet.   
-5.  Indien als gevolg van de verrekening, bedoeld in het eerste en tweede lid, algemene bijstand op grond van de Wet werk en bijstand wordt toegekend, wordt bij de verrekening een bij ministeriële regeling bepaald deel van de uitkering op grond van deze wet op aanvraag vrijgelaten in verband met zorgkosten, woonkosten en de kosten van kinderen. Het vrij te laten deel van de uitkering kan afhankelijk worden gesteld van de leefsituatie.   
+5.  Indien als gevolg van de verrekening, bedoeld in het eerste en tweede lid, algemene bijstand op grond van de Participatiewet wordt toegekend, wordt bij de verrekening een bij ministeriële regeling bepaald deel van de uitkering op grond van deze wet op aanvraag vrijgelaten in verband met zorgkosten, woonkosten en de kosten van kinderen. Het vrij te laten deel van de uitkering kan afhankelijk worden gesteld van de leefsituatie.   
 6.  Voor de toepassing van het vijfde lid kunnen bij ministeriële regeling nadere regels worden gesteld.   
 7.  Het vrijgelaten deel, bedoeld in het vijfde lid, is niet vatbaar voor beslag, waaronder begrepen beslag ingevolge faillissement of toepassing van de schuldsaneringsregeling natuurlijke personen. 
 
@@ -1717,7 +1681,7 @@ c. de jonggehandicapte of zijn wettelijke vertegenwoordiger een verplichting als
 
 ####Betaling aan instellingen
 
-1. Indien de jonggehandicapte aan wie een arbeidsongeschiktheidsuitkering is toegekend, aanspraak heeft op verstrekking of vergoeding van zorg als bedoeld in de Algemene Wet Bijzondere Ziektekosten en op grond van die wet een bijdrage voor die zorg verschuldigd is, is het Uitvoeringsinstituut werknemersverzekeringen bevoegd de uitkering tot het bedrag van die bijdrage in plaats van aan de jonggehandicapte zonder diens machtiging uit te betalen aan het Zorginstituut Nederland, genoemd in artikel 58, eerste lid, van de Zorgverzekeringswet.  
+1. Indien de jonggehandicapte aan wie een arbeidsongeschiktheidsuitkering is toegekend, aanspraak heeft op verstrekking of vergoeding van zorg als bedoeld in de Wet langdurige zorg en op grond van die wet een bijdrage voor die zorg verschuldigd is, is het Uitvoeringsinstituut werknemersverzekeringen bevoegd de uitkering tot het bedrag van die bijdrage in plaats van aan de jonggehandicapte zonder diens machtiging uit te betalen aan het Zorginstituut Nederland, genoemd in artikel 58, eerste lid, van de Zorgverzekeringswet.  
 2.  Indien de jonggehandicapte, aan wie een arbeidsongeschiktheidsuitkering is toegekend, in een inrichting ter verpleging van geesteszieken of van zwakzinnigen is opgenomen en het Uitvoeringsinstituut werknemersverzekeringen van de desbetreffende inrichting of van het college van burgemeester en wethouders van de gemeente die de opnamekosten betaalt, het verzoek ontvangt om de arbeidsongeschiktheidsuitkering aan die inrichting of die gemeente uit te betalen, kan het Uitvoeringsinstituut werknemersverzekeringen dat verzoek zonder het stellen van andere voorwaarden inwilligen.   
 3.  Indien het eerste lid toepassing vindt, heeft de in het tweede lid bedoelde bevoegdheid betrekking op het gedeelte van de arbeidsongeschiktheidsuitkering, dat niet aan het Zorginstituut Nederland wordt betaald.   
 4.  Een herziening van de betaling van de uitkering op grond van het eerste lid als gevolg van een wijziging van de verschuldigde bijdrage vindt plaats zonder dat dit bij beschikking is vastgesteld.  
@@ -1727,9 +1691,9 @@ c. de jonggehandicapte of zijn wettelijke vertegenwoordiger een verplichting als
 ####Opschorting betaling bij vertrek naar onbekende bestemming
 
 1.  Is van de aanvrager of ontvanger van een arbeidsongeschiktheidsuitkering bij het Uitvoeringsinstituut werknemersverzekeringen een adres in Nederland bekend, terwijl in de basisregistratie personen ambtshalve is opgenomen dat hij is vertrokken naar een onbekend land van verblijf, dan verzoekt het Uitvoeringsinstituut werknemersverzekeringen hem de afwijkende registratie in de basisregistratie personen binnen een redelijke termijn ongedaan te laten maken.   
-2.  Wanneer na afloop van deze termijn, de afwijkende registratie niet is beëindigd of als uit de basisregistratie personen niet blijkt dat het college van burgemeester en wethouders van de desbetreffende gemeente de gegevens over het adres in onderzoek heeft genomen, schort het Uitvoeringsinstituut werknemersverzekeringen de betaling van de inkomensvoorziening aan de persoon, aan wie de arbeidsongeschiktheidsuitkering is toegekend, op.   
+2.  Wanneer na afloop van deze termijn, de afwijkende registratie niet is beëindigd of als uit de basisregistratie personen niet blijkt dat het college van burgemeester en wethouders van de desbetreffende gemeente de gegevens over het adres in onderzoek heeft genomen, schort het Uitvoeringsinstituut werknemersverzekeringen de betaling van de arbeidsongeschiktheidsuitkering aan de persoon, aan wie de arbeidsongeschiktheidsuitkering is toegekend, op.   
 3.  De opschorting wordt beëindigd zodra is vastgesteld dat de persoon, bedoeld in het tweede lid, in het buitenland woont of verblijft of dat een adres in Nederland in de basisregistratie personen is opgenomen.   
-4.  Indien het onderzoek van het college van burgemeester en wethouders is afgerond en de persoon, bedoeld in het tweede lid, in de basisregistratie personen ambtshalve opgenomen blijft met gegevens over het vertrek uit Nederland, schort uit Uitvoeringsinstituut werknemersverzekeringen de betaling van de arbeidsongeschiktheidsuitkering op tot verblijf in het buitenland kan worden vastgesteld of een adres in Nederland in de basisregistratie personen is opgenomen.  
+4.  Indien het onderzoek van het college van burgemeester en wethouders is afgerond en de persoon, bedoeld in het tweede lid, in de basisregistratie personen ambtshalve opgenomen blijft met gegevens over het vertrek uit Nederland, schort het Uitvoeringsinstituut werknemersverzekeringen de betaling van de arbeidsongeschiktheidsuitkering op tot verblijf in het buitenland kan worden vastgesteld of een adres in Nederland in de basisregistratie personen is opgenomen.  
 
 ### Artikel  3:48  
 
@@ -1753,7 +1717,6 @@ b. indien onderdeel a niet van toepassing is, betaald tot een bedrag ter grootte
 
 1. Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot door het UWV te verstrekken subsidie aan een rechtspersoon die in het kader van de uitoefening van beroep of bedrijf door scholing de inschakeling van jonggehandicapten met ernstige scholingsbelemmeringen in de arbeid bevordert. 
 2. Bij de subsidieverlening, bedoeld in het eerste lid, kunnen aan de subsidie-ontvanger verplichtingen worden opgelegd omtrent het hanteren van een registratiesysteem waaruit blijkt of het doel van de subsidie is bereikt.
-3. Voor de toepassing van het eerste lid wordt niet als arbeid beschouwd arbeid op grond van een dienstbetrekking als bedoeld in hoofdstuk 2 of 3 van de Wet sociale werkvoorziening.
 
 ###Artikel 3:50 
 
@@ -1871,13 +1834,11 @@ a. redelijkerwijs te voorzien is dat de jonggehandicapte niet zal kunnen voortga
 
 b. redelijkerwijs te voorzien is dat een schuldregeling met betrekking tot alle vorderingen, behoudens de in het tweede lid bedoelde vorderingen, van de overige schuldeisers zonder een zodanig besluit niet tot stand zal komen;  
 
-c. de vordering van het Uitvoeringsinstituut werknemersverzekeringen wegens onverschuldigd betaalde uitkering ten minste zal worden voldaan naar evenredigheid met de vorderingen van de schuldeisers van gelijke rang;  
+c. een naar het oordeel van het Uitvoeringsinstituut werknemersverzekeringen betrouwbaar voorstel voor een schuldregeling tot stand is gekomen door tussenkomst van een schuldhulpverlener als bedoeld in artikel 48 van de Wet op het consumentenkrediet;  
 
-d. een naar het oordeel van het Uitvoeringsinstituut werknemersverzekeringen betrouwbaar voorstel voor een schuldregeling tot stand is gekomen door tussenkomst van een schuldhulpverlener als bedoeld in artikel 48 van de Wet op het consumentenkrediet;  
+d. aannemelijk is dat medewerking aan een schuldregeling niet concurrentieverstorend werkt; en  
 
-e. aannemelijk is dat medewerking aan een schuldregeling niet concurrentieverstorend werkt; en  
-
-f. uitdeling in het kader van de schuldregeling plaatsvindt overeenkomstig artikel 349 van de Faillissementswet.     
+e. uitdeling in het kader van de schuldregeling plaatsvindt overeenkomstig artikel 349 van de Faillissementswet.     
 2.  Het eerste lid is niet van toepassing indien een vordering is ontstaan door het niet nakomen door de jonggehandicapte van de verplichting, bedoeld in artikel 3:74, en hiervoor een boete als bedoeld in artikel 3:40 is opgelegd, dan wel indien hiervoor aangifte is gedaan op grond van het Wetboek van Strafrecht.   
 3.  Het besluit tot het afzien van terugvordering of van verdere terugvordering wordt ingetrokken of ten nadele van de jonggehandicapte gewijzigd indien: 
 
@@ -1949,8 +1910,7 @@ b. de overlijdensuitkering, bedoeld in artikel 3:54.
 
 ####Recht op ondersteuning bij arbeidsinschakeling van UWV
 
-1. De jonggehandicapte die recht heeft op een arbeidsongeschiktheidsuitkering heeft recht op ondersteuning bij arbeidsinschakeling en, met inachtneming van de daarvoor geldende wettelijke bepalingen, op de naar het oordeel van het Uitvoeringsinstituut werknemersverzekeringen noodzakelijk geachte voorziening gericht op arbeidsinschakeling.
-2. Voor de toepassing van het eerste lid wordt voor personen die blijkens een indicatiebeschikking of herindicatiebeschikking tot de doelgroep behoren van de Wet sociale werkvoorziening onder een voorziening gericht op arbeidsinschakeling mede verstaan een voorziening gericht op het verkrijgen van arbeid in een dienstbetrekking als bedoeld in de artikelen 2 en 7 van die wet.
+De jonggehandicapte die recht heeft op een arbeidsongeschiktheidsuitkering heeft recht op ondersteuning bij arbeidsinschakeling en, met inachtneming van de daarvoor geldende wettelijke bepalingen, op de naar het oordeel van het Uitvoeringsinstituut werknemersverzekeringen noodzakelijk geachte voorziening gericht op arbeidsinschakeling.
 
 ### Artikel 3:67 
 
@@ -1995,7 +1955,7 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking to
 
 ### Artikel  3:73  
 
-Het Uitvoeringsinstituut werknemersverzekeringen kan de jonggehandicapte, die recht heeft op een arbeidsongeschiktheidsuitkering, en voor wie de kans op inschakeling in het arbeidsproces gering is en die daardoor vooralsnog niet bemiddelbaar is op de arbeidsmarkt, onbeloonde additionele werkzaamheden laten verrichten gedurende maximaal twee jaar. Artikel 10a, tweede tot en met tiende lid, van de Wet werk en bijstand is van overeenkomstige toepassing. 
+Het Uitvoeringsinstituut werknemersverzekeringen kan de jonggehandicapte, die recht heeft op een arbeidsongeschiktheidsuitkering, en voor wie de kans op inschakeling in het arbeidsproces gering is en die daardoor vooralsnog niet bemiddelbaar is op de arbeidsmarkt, onbeloonde additionele werkzaamheden laten verrichten gedurende maximaal twee jaar. Artikel 10a, tweede tot en met tiende lid, van de Participatiewet is van overeenkomstige toepassing. 
 
 ### Afdeling  6  
 
@@ -2018,8 +1978,8 @@ Het Uitvoeringsinstituut werknemersverzekeringen kan de jonggehandicapte, die re
 ####Tegemoetkoming jonggehandicapten
 
 1.  De persoon die op 1 juli van het kalenderjaar recht heeft op een arbeidsongeschiktheidsuitkering bij een arbeidsongeschiktheid van 35% of meer of recht heeft op arbeidsondersteuning, heeft recht op een tegemoetkoming.   
-2.  De persoon, bedoeld in het eerste lid, ontvangt per kalenderjaar een tegemoetkoming van € 252,00.   
-3.  Het bedrag, genoemd in het tweede lid, wordt jaarlijks per 1 januari bij ministeriële regeling vervangen door een ander bedrag. Dat bedrag wordt berekend door het te vervangen bedrag te vermenigvuldigen met de tabelcorrectiefactor, bedoeld in artikel 10.2 van de Wet inkomstenbelasting 2001, en de uitkomst vervolgens naar boven af te ronden op hele getallen.   
+2.  De persoon, bedoeld in het eerste lid, ontvangt per kalenderjaar een tegemoetkoming van € 255,00.   
+3.  Het bedrag, genoemd in het tweede lid, wordt jaarlijks per 1 januari gewijzigd overeenkomstig de tabelcorrectiefactor, bedoeld in artikel 10.2 van de Wet inkomstenbelasting 2001. Het gewijzigde bedrag wordt door of namens Onze Minister bekend gemaakt in de Staatscourant.   
 4.  In afwijking van het derde lid kan het bedrag, genoemd in het tweede lid, bij algemene maatregel van bestuur met ingang van een bij die maatregel aan te geven datum worden vervangen door een ander bedrag.   
 5.  Het Uitvoeringsinstituut werknemersverzekeringen verstrekt de tegemoetkoming ambtshalve in het derde kwartaal van het kalenderjaar.   
 6.  De tegemoetkoming is niet vatbaar voor beslag.   
@@ -2052,15 +2012,15 @@ Bij de vaststelling van de schadevergoeding, waarop de jonggehandicapte naar bur
 
 ### Artikel  5:1  
 
-####Arbeidsondersteuningsfonds jonggehandicapten
+####Arbeidsongeschiktheidsfonds jonggehandicapten
 
-Het Uitvoeringsinstituut werknemersverzekeringen beheert en administreert afzonderlijk de in artikel 5:2 bedoelde middelen tot dekking van de uitgaven en de uitgaven, bedoeld in artikel 5:3, in de vorm van een Arbeidsondersteuningsfonds jonggehandicapten dat deel uitmaakt van het Uitvoeringsinstituut werknemersverzekeringen. 
+Het Uitvoeringsinstituut werknemersverzekeringen beheert en administreert afzonderlijk de in artikel 5:2 bedoelde middelen tot dekking van de uitgaven en de uitgaven, bedoeld in artikel 5:3, in de vorm van een Arbeidsongeschiktheidsfonds jonggehandicapten dat deel uitmaakt van het Uitvoeringsinstituut werknemersverzekeringen. 
 
 ### Artikel  5:2  
 
 ####Middelen tot dekking van de uitgaven
 
-In de middelen tot dekking van de uitgaven ten laste van het Arbeidsondersteuningsfonds jonggehandicapten wordt voorzien door: 
+In de middelen tot dekking van de uitgaven ten laste van het Arbeidsongeschiktheidsfonds jonggehandicapten wordt voorzien door: 
 
 a. het Rijk;  
 
@@ -2072,9 +2032,9 @@ d. de bedragen die het Uitvoeringsinstituut werknemersverzekeringen ontvangt met
 
 ### Artikel  5:3  
 
-####Uitgaven ten laste van Arbeidsondersteuningsfonds jonggehandicapten
+####Uitgaven ten laste van Arbeidsongeschiktheidsfonds jonggehandicapten
 
-1.  Ten laste van het Arbeidsondersteuningsfonds jonggehandicapten komen: 
+1.  Ten laste van het Arbeidsongeschiktheidsfonds jonggehandicapten komen: 
 
 a. de op grond van deze wet te betalen uitkeringen en inkomensvoorzieningen;  
 
@@ -2090,7 +2050,7 @@ f. de subsidies, bedoeld in de artikelen 2.29, 3:49 en 8:4, en de kosten in verb
 
 g. de reïntegratie-instrumenten op grond van deze wet;  
 
-h. de kosten verband houdende met de uitvoering van artikel 30a, eerste lid, onderdeel c, van de Wet structuur uitvoeringsorganisatie werk en inkomen ten aanzien van een betrokkene, indien deze ten tijde van het aanvangen van de werkzaamheden van het re-integratiebedrijf, bedoeld in het achtste lid van dat artikel, een uitkering ontvangt ten laste van het Arbeidsondersteuningsfonds jonggehandicapten;  
+h. de kosten verband houdende met de uitvoering van artikel 30a, eerste lid, onderdeel c, van de Wet structuur uitvoeringsorganisatie werk en inkomen ten aanzien van een betrokkene, indien deze ten tijde van het aanvangen van de werkzaamheden van het re-integratiebedrijf, bedoeld in het achtste lid van dat artikel, een uitkering ontvangt ten laste van het Arbeidsongeschiktheidsfonds jonggehandicapten;  
 
 i. de tegemoetkomingen, bedoeld in de artikelen 2:52 en 3:10;  
 
@@ -2219,25 +2179,6 @@ Arbeidsongeschiktheidsuitkeringen die zijn toegekend voor de inwerkingtreding va
 
 De Algemene termijnenwet is niet van toepassing op de tijdvakken van vier weken, genoemd in de artikelen 2:12, derde lid, 3:3, tweede en derde lid, 3:14, derde lid, 3:15, 3:16, eerste lid, 3:17, 3:21 en 3:22. 
 
-### Artikel  8:8  
-
-####Overgangsrecht in verband met artikel 2:40 , 2:41  en 2:42 
-
-1.  Op een bij algemene maatregel van bestuur te bepalen tijdstip wordt: 
-
-a. het getal 0,75 in de artikelen 2:40, tweede lid, 2:41, eerste lid, onderdeel a, onder 1°, en b, onder 1°, en 2:42, eerste lid, onderdeel a, onder 1°, en b, onder 1°, telkens gewijzigd in 0,7;  
-
-b. het getal 0,55 in artikel 2:40, eerste lid, onderdeel a en b, gewijzigd in 0,5;  
-
-c. het getal 0,25 in artikel 2:41, eerste lid, onderdeel b, onder 1°, gewijzigd in 0,3;  
-
-d. het percentage van 70% in artikel 2:40, eerste lid, onderdeel b en c, gewijzigd in 80%;  
-
-e. het percentage van 25% in artikel 2:41, eerste lid, onderdeel a en b, gewijzigd in 30%; en  
-
-f. het percentage van 45% in artikel 2:42, eerste lid, onderdeel a en b, gewijzigd in 50%.     
-2.  Onze Minister stelt de beide kamers der Staten-Generaal in kennis van het voornemen tot de voordracht voor een algemene maatregel van bestuur als bedoeld in het eerste lid.  
-
 ### Artikel  8:9  
 
 ####Overgangsrecht in verband met artikel 3:63 
@@ -2262,11 +2203,16 @@ Artikel 3:63, zoals dat luidde voor de datum van inwerkingtreding van de wet van
 
 Artikel 2:23 is niet van toepassing op de jonggehandicapte, wiens arbeid als zelfstandige is aangevangen voor de dag van inwerkingtreding van de Wet van 3 december 2009 tot uitbreiding van de mogelijkheid om voorzieningen te verstrekken bij arbeid als zelfstandige (Stb. 589).
 
+### Artikel  8:10b  
+
+####Beoordeling geen mogelijkheden tot arbeidsparticipatie op 1 januari 2018
+
+1.  Het Uitvoeringsinstituut werknemersverzekeringen stelt vast of de jonggehandicapte met een mate van arbeidsongeschiktheid van 80% of meer, geen mogelijkheden tot arbeidsparticipatie heeft als bedoeld in artikel 3:8a, zoals dat artikel komt te luiden na inwerkingtreding van artikel III, onderdeel O, van de Invoeringswet Participatiewet.   
+2.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de beoordeling van het geen mogelijkheden tot arbeidsparticipatie hebben. Daarbij kan een procedure worden vastgesteld die afwijkt van de procedure bij de beoordeling van de mogelijkheden tot arbeidsparticipatie die de jonggehandicapte na de dag van inwerkingtreding van artikel III, onderdeel B, van de Invoeringswet Participatiewet heeft.  
+
 ### Artikel  8:10c  
 
 ####Overgangsbepaling in verband met artikel 2:4 
-
-Treedt in werking per 01-01-2015 
 
 De jonggehandicapte die op de dag voor inwerkingtreding van artikel III, onderdeel D, van de Invoeringswet Participatiewet volledig en duurzaam arbeidsongeschikt was, als bedoeld in artikel 2:4, eerste lid, zoals dat luidde op die dag, wordt geacht op de dag van inwerkingtreding van artikel III, onderdeel D, van de Invoeringswet Participatiewet volledig en duurzaam arbeidsongeschikt te zijn, als bedoeld in artikel 2:4, zoals dat is komen te luiden op die dag. 
 
@@ -2280,7 +2226,7 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, da
 
 ####Citeertitel
 
-Deze wet wordt aangehaald als: Wet werk en arbeidsondersteuning jonggehandicapten. 
+Deze wet wordt aangehaald als: Wet arbeidsongeschiktheidsvoorziening jonggehandicapten. 
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

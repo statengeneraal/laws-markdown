@@ -653,37 +653,188 @@ E. M. H. Hirsch Ballin
 
 ### Bijlage  II  
 
-####bij artikel 26, vijfde lid , van het Besluit beheer sociale-huursector dVi (de Verantwoordingsinformatie) verslagjaar 2013
+####bij artikel 26, derde lid , van het Besluit beheer sociale-huursector dVi (de Verantwoordingsinformatie) verslagjaar 2014 GEGEVENSOPVRAGING SOLVABILITEITSOORDEEL CFV
 
-####GEGEVENSOPVRAGING SOLVABILITEITSOORDEEL CFV
+####INHOUDSOPGAVE
 
-![252983](http://wetten.overheid.nl/Illustration/252983)
-![252984](http://wetten.overheid.nl/Illustration/252984)
-![252985](http://wetten.overheid.nl/Illustration/252985)
-![252986](http://wetten.overheid.nl/Illustration/252986)
-![252987](http://wetten.overheid.nl/Illustration/252987)
-![252988](http://wetten.overheid.nl/Illustration/252988)
-![252989](http://wetten.overheid.nl/Illustration/252989)
-![252990](http://wetten.overheid.nl/Illustration/252990)
-![252991](http://wetten.overheid.nl/Illustration/252991)
-![252992](http://wetten.overheid.nl/Illustration/252992)
-![252993](http://wetten.overheid.nl/Illustration/252993)
-![252994](http://wetten.overheid.nl/Illustration/252994)
-![252995](http://wetten.overheid.nl/Illustration/252995)
-![252996](http://wetten.overheid.nl/Illustration/252996)
-![252997](http://wetten.overheid.nl/Illustration/252997)
-![252998](http://wetten.overheid.nl/Illustration/252998)
-![252999](http://wetten.overheid.nl/Illustration/252999)
-![253000](http://wetten.overheid.nl/Illustration/253000)
-![253001](http://wetten.overheid.nl/Illustration/253001)
-![253002](http://wetten.overheid.nl/Illustration/253002)
-![253003](http://wetten.overheid.nl/Illustration/253003)
-![253004](http://wetten.overheid.nl/Illustration/253004)
-![253005](http://wetten.overheid.nl/Illustration/253005)
-![253006](http://wetten.overheid.nl/Illustration/253006)
-![253007](http://wetten.overheid.nl/Illustration/253007)
-![253008](http://wetten.overheid.nl/Illustration/253008)
-![253009](http://wetten.overheid.nl/Illustration/253009)
+| --- | --- | --- |
+|:---|:---|:---|
+| *HOOFDSTUK 1 ALGEMEEN*  |
+| --- | 1.1  | Toelichting  |
+| --- | 1.2  | Algemene gegevens  |
+| *HOOFDSTUK 2 ACTIVITEITEN*  |
+| --- | 2.1  | Ontwikkeling vastgoedportefeuille  |
+| --- | 2.2  | Kenmerken vastgoedportefeuille  |
+| *HOOFDSTUK 3 FINANCIELE VERANTWOORDING*  |
+| --- | 3.1.1  | Balans en Winst- en Verliesrekening (Enkelvoudig toegelaten instelling)  |
+| --- | 3.1.2  | Balans en Winst- en Verliesrekening (Geconsolideerd)  |
+| --- | 3.2  | Toelichting op de enkelvoudige balans- en Winst- en Verliesrekening  |
+| --- | 3.3  | Toelichting verbindingen  |
+| --- | 3.4  | Toelichting op de geconsolideerde of enkelvoudige balans- en Winst- en Verliesrekening  |
+| *HOOFDSTUK 4 WAARDERING BEZIT*  |
+| --- | 4.1  | Specificatie bedrijfswaarde toegelaten instelling  |
+| --- | 4.2  | Toelichting waardering bezit toegelaten instelling  |
+| *HOOFDSTUK 5 OVERIGE (VOLKSHUISVESTELIJKE) VERANTWOORDING*  |
+| --- | 5.1  | Verkoop van huur- en koopwoningen in het verslagjaar per bezitsgemeente  |
+| --- | 5.2  | vervallen  |
+| --- | 5.3  | Kwaliteitsbeleid  |
+| --- | 5.4  | Leefbaarheid  |
+| --- | 5.5  | Betrekken bewoners bij beleid in het verslagjaar  |
+| --- | 5.6  | Wonen en Zorg in het verslagjaar per bezitsgemeente  |
+| --- | 5.7  | Voorschriften Bbsh  |
+| --- | 5.8  | Aantal toewijzingen in het verslagjaar  |
+| --- | 5.9  | Huisuitzettingen en huurachterstanden  |
+
+### HOOFDSTUK 1 
+
+####ALGEMEEN
+
+### 1.1 
+
+####Toelichting
+
+*Maakt geen deel uit van de Bbsh-bijlagen, maar van het opvraagprogramma* 
+
+### 1.2 
+
+####Algemene gegevens
+
+![254496](http://wetten.overheid.nl/Illustration/254496)
+
+### HOOFDSTUK 2 
+
+####ACTIVITEITEN
+
+### 2.1 
+
+####Ontwikkeling vastgoedportefeuille
+
+![254497](http://wetten.overheid.nl/Illustration/254497)
+
+### 2.2 
+
+####Kenmerken vastgoedportefeuille
+
+![254498](http://wetten.overheid.nl/Illustration/254498)
+![254499](http://wetten.overheid.nl/Illustration/254499)
+
+### HOOFDSTUK 3 
+
+####FINANCIELE VERANTWOORDING
+
+### 3.1.1 
+
+####Balans en Winst- en Verliesrekening (Enkelvoudig toegelaten instelling)
+
+![254500](http://wetten.overheid.nl/Illustration/254500)
+![254501](http://wetten.overheid.nl/Illustration/254501)
+![254502](http://wetten.overheid.nl/Illustration/254502)
+
+### 3.1.2 
+
+####Balans en Winst- en Verliesrekening (Geconsolideerd)
+
+![254503](http://wetten.overheid.nl/Illustration/254503)
+![254504](http://wetten.overheid.nl/Illustration/254504)
+![254505](http://wetten.overheid.nl/Illustration/254505)
+
+### 3.1.3 
+
+####Kasstroomoverzicht (in € 1.000)
+
+![254506](http://wetten.overheid.nl/Illustration/254506)
+![254507](http://wetten.overheid.nl/Illustration/254507)
+
+### 3.2 
+
+####Toelichting op de enkelvoudige Balans en Winst- en Verliesrekening
+
+![254508](http://wetten.overheid.nl/Illustration/254508)
+![254509](http://wetten.overheid.nl/Illustration/254509)
+
+### 3.3 
+
+####Toelichting verbindingen
+
+![254510](http://wetten.overheid.nl/Illustration/254510)
+![254511](http://wetten.overheid.nl/Illustration/254511)
+
+###3.4 
+
+####Toelichting op de geconsolideerde of enkelvoudige¹ Balans en Winst- en Verliesrekening
+
+![254512](http://wetten.overheid.nl/Illustration/254512)
+![254513](http://wetten.overheid.nl/Illustration/254513)
+![254514](http://wetten.overheid.nl/Illustration/254514)
+
+### HOOFDSTUK 4 
+
+####WAARDERING BEZIT
+
+### 4.1 
+
+####Specificatie bedrijfswaarde toegelaten instelling
+
+![254515](http://wetten.overheid.nl/Illustration/254515)
+![254516](http://wetten.overheid.nl/Illustration/254516)
+
+### 4.2 
+
+####Toelichting waardering bezit toegelaten instelling
+
+![254517](http://wetten.overheid.nl/Illustration/254517)
+
+### HOOFDSTUK 5 
+
+####OVERIGE (VOLKSHUISVESTELIJKE) VERANTWOORDING
+
+### 5.1 
+
+####Verkoop van huur- en koopwoningen in het verslagjaar per bezitsgemeente<sup>1)</sup> 
+
+![254518](http://wetten.overheid.nl/Illustration/254518)
+
+### 5.3 
+
+####Kwaliteitsbeleid
+
+![254519](http://wetten.overheid.nl/Illustration/254519)
+
+### 5.4 
+
+####Leefbaarheid
+
+![254520](http://wetten.overheid.nl/Illustration/254520)
+
+### 5.5 
+
+####Betrekken bewoners bij beleid in het verslagjaar
+
+![254521](http://wetten.overheid.nl/Illustration/254521)
+
+### 5.6 
+
+####Wonen en Zorg in het verslagjaar per bezitsgemeente
+
+![254522](http://wetten.overheid.nl/Illustration/254522)
+
+### 5.7 
+
+####Voorschriften Bbsh/tijdelijke regeling staatssteun/circulaires
+
+![254523](http://wetten.overheid.nl/Illustration/254523)
+
+### 5.8 
+
+####Aantal toewijzingen in het verslagjaar
+
+![254524](http://wetten.overheid.nl/Illustration/254524)
+
+### 5.9 
+
+####Huisuitzettingen en huurachterstanden
+
+![254525](http://wetten.overheid.nl/Illustration/254525)
 
 ### Aanhangsel  A:  
 
@@ -1529,6 +1680,10 @@ Zonder afbreuk te doen aan ons oordeel, merken wij nog het volgende op:
 
 ####bij artikel 39a, eerste lid , van het Besluit beheer sociale-huursector
 
-![253010](http://wetten.overheid.nl/Illustration/253010)
-![253011](http://wetten.overheid.nl/Illustration/253011)
+### 3.4 
+
+####Toelichting op de geconsolideerde of enkelvoudige* Balans en Winst- en Verliesrekening
+
+![254526](http://wetten.overheid.nl/Illustration/254526)
+![254527](http://wetten.overheid.nl/Illustration/254527)
 

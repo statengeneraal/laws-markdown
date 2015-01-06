@@ -37,22 +37,6 @@ Als instelling als bedoeld in artikel 51, vijfde lid, van de Pensioenwet dan wel
 
 Als instelling als bedoeld in artikel 70, tweede lid, van de Pensioenwet dan wel artikel 81, tweede lid, van de Wet verplichte beroepspensioenregeling worden de in bijlage 1 genoemde instellingen en aan die instellingen verbonden pensioenuitvoerders, aangewezen. 
 
-### Artikel  3  
-
-####Aangewezen verenigingen
-
-Als verenigingen, op wie tot 1 januari 2009 het vierde tot en met zesde lid van artikel 109 van de Pensioenwet niet van toepassing zijn, zijn aangewezen: 
-
-a. de Algemene Nederlandse Bond voor Ouderen (ANBO);  
-
-b. de Nederlandse Bond voor Oudere Migranten (NISBO);  
-
-c. de Nederlandse Vereniging van Organisaties van Gepensioneerden (NVOG);  
-
-d. de Protestants Christelijke Ouderen Bond (PCOB); en  
-
-e. de Unie van Katholieke Bonden van Ouderen (Unie KBO).   
-
 ### Paragraaf  1a  
 
 ####Tijdelijke regeling pensioenknip
@@ -101,161 +85,37 @@ b. de hoogte van de met dit kapitaal te kopen uitkering.
 
 ### Paragraaf  2  
 
-####Informatie over toeslagverlening en de voorwaardelijkheidsverklaring
-
-### Artikel  4  
-
-####Vaststelling toeslagenlabel
-
-1. De kwalitatieve en beeldende maatstaf waarin de informatie over toeslagverlening wordt uitgedrukt als bedoeld in artikel 48, tweede lid, van de Pensioenwet of artikel 59, tweede lid, van de Wet verplichte beroepspensioenregeling is het toeslagenlabel.
-2. In het toeslagenlabel worden de verwachtingen ten aanzien van de toekomstige toeslagverlening, bedoeld in artikel 48, derde lid, van de Pensioenwet of artikel 59, derde lid, van de Wet verplichte beroepspensioenregeling weergegeven als volgt:
-
-a. de verwachte toeslagverlening in de komende 15 jaar; en  
-
-b. de toeslagverlening in een pessimistisch scenario in de komende 15 jaar.  
-3. De berekening van de verwachtingen ten aanzien van de toekomstige toeslagverlening, bedoeld in het tweede lid, wordt door fondsen uitgevoerd in een continuïteitsanalyse en door verzekeraars met het rekeninstrument voor verzekeraars, bedoeld in artikel 4b.
-4. De verwachte toeslagverlening, bedoeld in het tweede lid, onderdeel a, wordt bepaald als de verwachtingswaarde van de verdeling van uitkomsten op basis van het pensioenresultaat. De toeslagverlening in een pessimistisch scenario, bedoeld in het tweede lid, onderdeel b, wordt bepaald als het 5%-risicopercentiel van de verdeling van uitkomsten op basis van het pensioenresultaat.
-5. Het pensioenresultaat, bedoeld in het vierde lid, wordt gedefinieerd als: 1 plus de cumulatieve toeslagverlening in de komende 15 jaar gedeeld door 1 plus de cumulatieve groeivoet van het prijsindexcijfer in de komende 15 jaar en vermenigvuldigd met 100%.
-6. De cumulatieve groeivoet van het prijsindexcijfer, bedoeld in het vijfde lid, wordt berekend op basis van de minimale verwachtingswaarde voor de groeivoet van het prijsindexcijfer, bedoeld in artikel 1, onderdeel a, van de Regeling parameters pensioenfondsen.
-7. De verwachte toeslagverlening en de toeslagverlening in een pessimistisch scenario, bedoeld in het tweede lid, worden beiden afgezet tegen de cumulatieve groeivoet van het prijsindexcijfer en ingedeeld in een categorie. Daarbij wordt gebruik gemaakt van de volgende categorieën:
-
-a. categorie 1: de toeslagverlening bedraagt ten minste 110%;  
-
-b. categorie 2: de toeslagverlening bedraagt minder dan 110% maar ten minste 97%;  
-
-c. categorie 3: de toeslagverlening bedraagt minder dan 97% maar ten minste 90%;  
-
-d. categorie 4: de toeslagverlening bedraagt minder dan 90% maar ten minste 80%; en  
-
-e. categorie 5: de toeslagverlening bedraagt minder dan 80%.  
-8. Indien toeslagcategorie A of B van de toeslagenmatrix, bedoeld in artikel 6, van toepassing is kan, in afwijking van het derde lid, afgezien worden van berekening van de verwachtingen ten aanzien van toekomstige toeslagverlening, bedoeld in het tweede lid. De verwachte toeslagverlening en de toeslagverlening in een pessimistisch scenario, bedoeld in het tweede lid, worden in die situatie ingedeeld in categorie 5 als bedoeld in het zevende lid.
-9. Het toeslagenlabel wordt geactualiseerd:
-
-a.door fondsen:
-
-1°. bij iedere continuïteitsanalyse die plaatsvindt op grond van artikel 22 van het Besluit financieel toetsingkader pensioenfondsen en die plaatsvindt bij iedere ingrijpende wijziging van de pensioenregeling die gevolgen heeft voor het toeslagbeleid; en  
-
-2°. indien de dichtst bij de feitelijke dekkingsgraad op 31 december van enig jaar gelegen fictieve dekkingsgraad een andere is dan de dichtst bij de feitelijke dekkingsgraad op 31 december van het voorgaande jaar gelegen fictieve dekkingsgraad; en  
-
-b.door verzekeraars:
-
-1°. iedere 3 jaar; en  
-
-2°. bij iedere ingrijpende wijziging van de pensioenregeling die gevolgen heeft voor het toeslagbeleid.   
-
-###Artikel 4a 
-
-####Fictieve dekkingsgraden continuïteitsanalyse
-
-1. In de continuïteitsanalyse berekenen fondsen de verwachte toeslagverlening en de toeslagverlening in een pessimistisch scenario, bedoeld in artikel 4, tweede lid, vanuit de actuele dekkingsgraad en vanuit fictieve dekkingsgraden met stappen van 5 procentpunt vanaf het minimaal vereist eigen vermogen tot de dekkingsgraad waarbij de toeslagen volledig afgefinancierd zijn.
-2. Indien de laatste stap tot aan de dekkingsgraad waarbij de toeslagen volledig afgefinancierd zijn geen 5 procentpunt bedraagt, wordt de omvang van deze stap op de feitelijke afstand vastgesteld.
-
-###Artikel 4b 
-
-####Rekeninstrument verzekeraars
-
-1. Verzekeraars berekenen de verwachte toeslagverlening en de toeslagverlening in een pessimistisch scenario, bedoeld in artikel 4, tweede lid, met het rekeninstrument voor verzekeraars. Dit rekeninstrument is door verzekeraars op te vragen bij het Verbond van Verzekeraars.
-2. Voor wijziging van het, in het eerste lid bedoelde rekeninstrument, is instemming van De Nederlandsche Bank en Onze Minister vereist.
-
-###Artikel 4c 
-
-####Gebruik toeslagenlabel
-
-1. Indien sprake is van verschillend toeslagbeleid voor verschillende pensioensoorten wordt in de informatieverstrekking aan de deelnemer of gewezen deelnemer het toeslagenlabel opgenomen dat betrekking heeft op het ouderdomspensioen.
-2. Indien een pensioenregeling meerdere toeslagenregelingen kent wordt in de informatieverstrekking het toeslagenlabel opgenomen dat betrekking heeft op het basisdeel van de pensioenregeling. In dat geval wordt in de informatieverstrekking aan de deelnemer naast het toeslagenlabel de volgende, in te vullen, tekst opgenomen:U hebt een loon dat hoger is dan €…. Het pensioen dat u opbouwt over het deel boven €… wordt <niet/minder/anders> aangepast aan de stijging van de prijzen. (als minder of anders: Dat deel van het pensioen wordt <wijze van indexatie>’). Dit ziet u niet terug in het plaatje.In de informatieverstrekking aan de gewezen deelnemer en pensioengerechtigde wordt naast het toeslagenlabel de volgende, in te vullen, tekst opgenomen:Het pensioen dat u hebt opgebouwd in aanvulling op het basisdeel van de pensioenregeling wordt <niet/minder/anders> aangepast aan de stijging van de prijzen. (als minder of anders: Dat deel van het pensioen wordt <wijze van indexatie>). Dit ziet u niet terug in het plaatje.
-3. Indien een pensioenregeling een verschillend toeslagbeleid kent voor deelnemers enerzijds en gewezen deelnemers en pensioengerechtigden anderzijds wordt in de informatieverstrekking aan de deelnemer naast het toeslagenlabel de volgende, in te vullen, tekst opgenomen:Uw pensioen wordt op een andere manier aangepast aan de stijging van de prijzen, als u niet meer meedoet aan deze pensioenregeling of als u al pensioen krijgt. Uw opgebouwde pensioen wordt dan <wijze van indexatie>. Dit ziet u niet terug in het plaatje.
-4. In de omstandigheden, bedoeld in het eerste tot en met derde lid, wordt in de informatieverstrekking aan de deelnemer, gewezen deelnemer of pensioengerechtigde vermeld dat deze op verzoek het niet in deze informatieverstrekking opgenomen toeslagenlabel kan ontvangen.
-5. Indien in de informatieverstrekking aan de deelnemer, gewezen deelnemer of pensioengerechtigde geen toeslagenlabel wordt opgenomen, wordt op de plaats van het toeslagenlabel een tekst opgenomen. Daarbij wordt gebruik gemaakt van de toepasselijke tekst in bijlage 1b. 
-6.  Van de teksten in het tweede en derde lid en bijlage 1b kan worden afgeweken indien het gebruik van deze teksten zou leiden tot verstrekking van onjuiste, onbegrijpelijke of onduidelijke informatie. Bij de formulering van afwijkende teksten wordt, zoveel mogelijk, aangesloten bij de voorgeschreven teksten. 
-
-###Artikel 4d 
-
-####Vormvereisten toeslagenlabel
-
-1. Pensioenuitvoerders maken gebruik van de toeslagenlabels die beschikbaar worden gesteld op www.afm.nl.
-2. In het uniform pensioenoverzicht, bedoeld in artikel 38, tweede lid, van de Pensioenwet en artikel 49, tweede lid, van de Wet verplichte beroepspensioenregeling, wordt het toeslagenlabel opgenomen in het cijfermatig deel, in het onderdeel ‘Houdt uw pensioen zijn waarde?’.
+####Consistentie verzekeraars en de voorwaardelijkheidsverklaring
 
 ### Artikel  5  
 
-####Consistentie
+####Consistentie verzekeraars
 
 1.  Voor de toepassing van artikel 95, eerste lid, van de Pensioenwet en artikel 103, eerste lid, van de Wet verplichte beroepspensioenregeling wordt verstaan onder: 
 
-a. gewekte verwachtingen: de toeslagambitie, bedoeld in de in bijlage 1a opgenomen toeslagenmatrix;  
+a. *gewekte verwachtingen:* de toeslagambitie;  
 
-b. financiering: 
+b. *financiering:* hetgeen in de uitvoeringsovereenkomst over de financiering is geregeld; en  
 
-1°. bij fondsen: hetgeen op grond van artikel 24, onderdeel f, g en h, van het Besluit financieel toetsingskader pensioenfondsen is opgenomen in de actuariële en bedrijfstechnische nota, bedoeld in artikel 145 van de Pensioenwet of artikel 140 van de Wet verplichte beroepspensioenregeling;  
-
-2°. bij een door een verzekeraar uitgevoerde pensioenregeling: hetgeen in de uitvoeringsovereenkomst over de financiering is geregeld;    
-
-c. het realiseren van voorwaardelijke toeslagen: de toeslagverlening over de afgelopen drie jaar.     
-2.  Consistentie als bedoeld in artikel 95, eerste lid, van de Pensioenwet en artikel 103, eerste lid, van de Wet verplichte beroepspensioenregeling, bestaat voor een fonds indien: 
-
-a. op basis van een continuïteitsanalyse uitgaande van het vereist eigen vermogen over een periode van 15 jaar een toeslagverlening wordt verwacht, die in voldoende mate aansluit bij de toeslagambitie; en  
-
-b. op basis van een continuïteitsanalyse uitgaande van het minimaal vereist eigen vermogen wordt verwacht dat het in de financiering besloten herstelvermogen van het fonds voldoende is om de dekkingsgraad binnen een periode van 15 jaar van het minimaal vereist eigen vermogen op het vereist eigen vermogen te brengen.     
-3.  Indien uitgaande van het vereist eigen vermogen van het fonds niet aan de in het tweede lid, onderdeel a, bedoelde voorwaarde wordt voldaan, bestaat consistentie als bedoeld in artikel 95, eerste lid, van de Pensioenwet of artikel 103, eerste lid, van de Wet verplichte beroepspensioenregeling, indien: 
-
-a. op basis van een continuïteitsanalyse uitgaande van een hogere dekkingsgraad dan het vereist eigen vermogen, over een periode van 15 jaar een toeslagverlening wordt verwacht die in voldoende mate aansluit bij de toeslagambitie; en  
-
-b. op basis van een continuïteitsanalyse uitgaande van het minimaal vereist eigen vermogen wordt verwacht dat het in de financiering besloten herstelvermogen van het fonds voldoende is om de dekkingsgraad binnen een periode van 15 jaar van het minimaal vereist eigen vermogen op de, in onderdeel a genoemde, hogere dekkingsgraad te brengen.     
-4.  De toezichthouder kan op verzoek van een fonds toestaan dat onderdeel b van het tweede of derde lid niet wordt toegepast, dan wel dat voor de continuïteitsanalyse, bedoeld in die onderdelen, mag worden uitgegaan van een hogere dekkingsgraad dan het minimaal vereist eigen vermogen.   
-5.  Consistentie als bedoeld in artikel 95, eerste lid, van de Pensioenwet en artikel 103, eerste lid, van de Wet verplichte beroepspensioenregeling, bestaat voor een door een verzekeraar uitgevoerde pensioenregeling indien op basis van een berekening met het rekeninstrument voor verzekeraars over een periode van 15 jaar een toeslagverlening wordt verwacht die in voldoende mate aansluit bij de toeslagambitie. 
+c. *het realiseren van voorwaardelijke toeslagen:* de toeslagverlening over de afgelopen drie jaar.     
+2.  Consistentie bestaat indien op basis van een berekening met het rekeninstrument voor verzekeraars over een periode van 15 jaar een toeslagverlening wordt verwacht die in voldoende mate aansluit bij de toeslagambitie.   
+3.  Het rekeninstrument, bedoeld in het tweede lid, is door verzekeraars op te vragen bij het Verbond van Verzekeraars. Voor wijziging van dit rekeninstrument is instemming van De Nederlandsche Bank en de Minister van Sociale Zaken en Werkgelegenheid vereist. 
 
 ### Artikel  6  
 
-####Toeslagenmatrix
+####Voorwaardelijkheidsverklaring
 
-1. Bij de informatie over toeslagverlening, bedoeld in artikel 4 van het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling en de voorwaardelijkheidsverklaring, bedoeld in artikel 95, derde lid, van de Pensioenwet en artikel 103, derde lid, van de Wet verplichte beroepspensioenregeling, wordt gebruik gemaakt van de in bijlage 1a opgenomen toeslagenmatrix. 
-2.  Van de teksten in de laatste kolom van de toeslagenmatrix kan worden afgeweken indien het gebruik van deze teksten zou leiden tot verstrekking van onjuiste, onbegrijpelijke of onduidelijke informatie over toeslagverlening. Bij de formulering van afwijkende teksten wordt, zoveel mogelijk, aangesloten bij de voorgeschreven teksten. 
-
-### Paragraaf 2a  
-
-####Vrijstelling termijn kortetermijnherstelplan
-
-### Artikel 6a  
-
-####Vrijstelling termijn kortetermijnherstelplan
-
-1.  Een fonds wordt vrijgesteld van de termijn van drie jaar, bedoeld in artikel 140, tweede lid, van de Pensioenwet of artikel 135, tweede lid, van de Wet verplichte beroepspensioenregeling indien het, met inachtneming van het bepaalde in dit artikel, een kortetermijnherstelplan indient met een looptijd van maximaal vijf jaar.   
-2.  In het kortetermijnherstelplan wordt opgenomen: 
-
-a. hoe het fonds, zonder vermindering van pensioenaanspraken en pensioenrechten, in uiterlijk vijf jaar zal voldoen aan artikel 131 van de Pensioenwet of artikel 126 van de Wet verplichte beroepspensioenregeling (hierna te noemen: het minimaal vereist eigen vermogen); en  
-
-b. welke aanvullende maatregelen, waaronder zonodig vermindering van pensioenaanspraken en/of pensioenrechten, genomen kunnen worden om opnieuw op een haalbaar herstelpad te komen indien gedurende de looptijd van het kortetermijnherstelplan alsnog blijkt dat naar verwachting niet zal kunnen worden voldaan aan het minimaal vereist eigen vermogen.     
-3.  Indien De Nederlandsche Bank gedurende de looptijd van het kortetermijnherstelplan vaststelt dat de feitelijke ontwikkeling van de dekkingsgraad afwijkt van de daarin veronderstelde ontwikkeling, zodanig dat naar verwachting niet aan het einde van de looptijd zal kunnen worden voldaan aan, het minimaal vereist eigen vermogen, worden uiterlijk op 1 april van het tweede jaar volgend op 31 december van enig jaar, op basis van de situatie op 31 december daaraanvoorafgaand de door het fonds gekozen aanvullende maatregelen, bedoeld in het tweede lid, onder b, uitgevoerd, tenzij het fonds ten genoegen van De Nederlandsche Bank aantoont dat de feitelijke ontwikkeling van de dekkingsgraad zodanig is dat naar verwachting opnieuw zal worden voldaan aan het minimaal vereist eigen vermogen.   
-4.  Voor de toepassing van het derde lid wordt de feitelijke ontwikkeling van de dekkingsgraad vastgesteld op 31 december van enig jaar.   
-5.  Indien een fonds geen kortetermijnherstelplan als bedoeld in het tweede lid, onderdeel a, kan indienen omdat vermindering van pensioenaanspraken en pensioenrechten nodig is om aan het einde van de looptijd van het plan te voldoen aan het minimaal vereist eigen vermogen, wordt deze vermindering van pensioenaanspraken en pensioenrechten uiterlijk 1 januari 2011 uitgevoerd, tenzij het fonds tot genoegen van De Nederlandsche Bank aantoont dat de feitelijke ontwikkeling van de dekkingsgraad zodanig is dat naar verwachting zonder die vermindering aan het eind van de looptijd zal worden voldaan aan het minimaal vereist eigen vermogen. Gedurende de verdere looptijd van ieder kortetermijnherstelplan als bedoeld in dit lid zijn het derde en vierde lid van overeenkomstige toepassing.   
-6.  Zo nodig in afwijking van het derde en vierde lid, wordt een vermindering van pensioenaanspraken en pensioenrechten die op grond van de feitelijke ontwikkeling van de dekkingsgraad, vastgesteld op de laatste dag van de looptijd van het kortetermijnherstelplan, noodzakelijk is, uiterlijk 3 maanden na afloop van het kortetermijnherstelplan onvoorwaardelijk ingeboekt en geëffectueerd.   
-7.  Een fonds kan de vermindering van pensioenaanspraken en pensioenrechten spreiden indien de pensioenregeling per 1 januari 2013 de volgende kenmerken heeft: 
-
-a. de in de pensioenregeling opgenomen richtleeftijd voor nieuwe pensioenopbouw is tenminste 67 jaar of, indien dit laatste niet tijdig gerealiseerd kan worden, de pensioenopbouw is verlaagd op een wijze die materieel hetzelfde effect heeft;  
-
-b. stijgingen van de levensverwachting worden ten laste gebracht van de toeslagverlening op pensioenaanspraken en pensioenrechten; en  
-
-c. bij een dekkingsgraad van minder dan 110% wordt geen toeslag verleend.     
-8.  Een fonds met een kortetermijnherstelplan waarvan de looptijd eindigt voor 1 april 2014, kan de vermindering van pensioenaanspraken en pensioenrechten, bedoeld in het zevende lid, als volgt spreiden: 
-
-a. in 2013 kan de vermindering worden beperkt tot hetgeen wordt geëffectueerd per 1 april 2013;  
-
-b. in 2014 kan de effectuering van de vermindering worden beperkt tot 7%;  
-
-c. de resterende vermindering wordt geëffectueerd per 1 april 2015.     
-9.  Een fonds met een kortetermijnherstelplan waarvan de looptijd eindigt na 1 april 2014, kan de vermindering van pensioenaanspraken en pensioenrechten, bedoeld in het zevende lid, als volgt spreiden: 
-
-a. in 2014 kan de vermindering worden beperkt tot hetgeen op grond van het derde lid wordt geëffectueerd per 1 april 2014, met dien verstande dat indien deze vermindering meer bedraagt dan 7%, de vermindering in 2014 kan worden beperkt tot 7%;  
-
-b. in 2015 kan de effectuering van de vermindering worden beperkt tot 7%;  
-
-c. de resterende vermindering wordt geëffectueerd per 1 april 2016.    
-10.  Dit artikel is uitsluitend van toepassing indien de beslissing met betrekking tot de instemming met het kortetermijnherstelplan, bedoeld in artikel 140 van de Pensioenwet of artikel 135 van de Wet verplichte beroepspensioenregeling, wordt genomen na inwerkingtreding van dit artikel en het kortetermijnherstelplan is ingediend voor 1 januari 2011.  
+De voorwaardelijkheidsverklaring, bedoeld in artikel 95, derde lid, van de Pensioenwet dan wel artikel 103, derde lid, van de Wet verplichte beroepspensioenregeling, is vormvrij.
 
 ### Paragraaf  3  
 
-####Begroting, jaarverslag, jaarrekening of verantwoording
+####Reële dekkingsgraad
 
-Vervallen per 01-01-2013 
+### Artikel  7  
+
+####Reële dekkingsgraad
+
+De reële dekkingsgraad, bedoeld in artikel 133b van de Pensioenwet dan wel artikel 128b van de Wet verplichte beroepspensioenregeling, is gelijk aan de beleidsdekkingsgraad gedeeld door de beleidsdekkingsgraad die ingevolge artikel 137, tweede lid, onderdeel b, van de Pensioenwet dan wel artikel 132, tweede lid, onderdeel b, van de Wet verplichte beroepspensioenregeling is vereist voor voorwaardelijke toeslagverlening ter hoogte van de minimale verwachtingswaarde voor de groeivoet van het prijsindexcijfer, bedoeld in artikel 23a, eerste lid, onderdeel a, en tweede lid, van het Besluit financieel toetsingskader pensioenfondsen. 
 
 ### Hoofdstuk  2  
 
@@ -269,7 +129,7 @@ Vervallen per 01-01-2013
 
 ####Prijsinflatie
 
-De prijsinflatie, bedoeld in artikel 9, vierde lid, van het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling is de minimale verwachtingswaarde voor de groeivoet van het prijsindexcijfer, genoemd in artikel 1, onderdeel a, van de Regeling parameters pensioenfondsen. 
+De prijsinflatie, bedoeld in artikel 9, vierde lid, van het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling is de minimale verwachtingswaarde voor de groeivoet van het prijsindexcijfer, bedoeld in artikel 23a, eerste lid, onderdeel a, en tweede lid, van het Besluit financieel toetsingskader pensioenfondsen. 
 
 ### Paragraaf  2  
 
@@ -342,34 +202,48 @@ Vervallen per 01-01-2013
 
 ####Standaardmodel
 
-1.  Voor de berekening van het vereist eigen vermogen per risicofactor volgens het standaardmodel als bedoeld in artikel 12, eerste lid, van het Besluit financieel toetsingskader pensioenfondsen gaat het fonds uit van een scenariomethode op basis van de volgende risicofactoren: 
+1.  Voor de berekening van het vereist eigen vermogen per risicofactor volgens het standaardmodel, bedoeld in artikel 12, eerste lid, van het Besluit financieel toetsingskader pensioenfondsen, gaat het fonds uit van een scenariomethode op basis van de volgende risicofactoren: 
 
 a. het renterisico wordt bepaald aan de hand van het voor het fonds in termen van netto verlies meest negatieve scenario van een rentestijging c.q. rentedaling op basis van de in artikel 1 van bijlage 3 opgenomen rentefactoren;  
 
 b. het aandelen- en vastgoedrisico wordt bepaald aan de hand van een daling van de waarde van de beleggingen in: 
 
-1°.  aandelen ontwikkelde markten en indirect vastgoed met 25%;  
+1°. aandelen ontwikkelde markten en beursgenoteerd vastgoed met 30%;  
 
-2°. aandelen opkomende markten met 35%;  
+2°. aandelen opkomende markten met 40%;  
 
-3°.  niet beursgenoteerde aandelen met 30%; en  
+3°. niet beursgenoteerde aandelen met 40%; en  
 
-4°.  direct vastgoed met 15%;    
+4°. niet-beursgenoteerd vastgoed met 15%, waarbij de waarde van de beleggingen wordt aangepast voor financiering met vreemd vermogen;    
 
-c. het valutarisico wordt bepaald aan de hand van een daling van de waarde van de beleggingen in andere valuta dan de euro met 20%;  
+c. het valutarisico wordt bepaald aan de hand van een daling van de waarde van de beleggingen in andere valuta dan de euro met 20% voor valutarisico in ontwikkelde markten en 35% voor valutarisico in opkomende markten;  
 
-d. het grondstoffenrisico wordt bepaald aan de hand van een daling van de waarde van beleggingen in grondstoffen met 30%;  
+d. het grondstoffenrisico wordt bepaald aan de hand van een daling van de waarde van beleggingen in grondstoffen met 35%;  
 
-e. het kredietrisico wordt bepaald aan de hand van een daling van de gewogen gemiddelde rentemarge voor het kredietrisico van het fonds met 40%;  
+e. het kredietrisico wordt bepaald aan de hand van een stijging van de rentemarge voor het kredietrisico van het fonds, afhankelijk van een ratingklasse als bedoeld in het derde lid: 
+
+1°. 0,60%-punt voor beleggingen met rating AAA, met uitzondering van Europese staatsobligaties;  
+
+2°. 0,80%-punt voor beleggingen met rating AA;  
+
+3°. 1,30%-punt voor beleggingen met rating A;  
+
+4°. 1,80%-punt voor beleggingen met rating BBB; en  
+
+5°. 5,30%-punt voor beleggingen met rating BB en lager, alsook beleggingen zonder rating;    
 
 f. het verzekeringstechnische risico;  
 
 g. het liquiditeitsrisico bedraagt 0%;  
 
-h. het concentratierisico bedraagt 0%; en  
+h. het concentratierisico bedraagt 0%;  
 
-i. het operationeel risico bedraagt 0%.     
-2.  Het vereist vermogen per risicofactor, bedoeld in het eerste lid, is gelijk aan het absolute getal van de waardedaling van het eigen vermogen als gevolg van het scenario voor de betreffende risicofactor.  
+i. het operationeel risico bedraagt 0%; en  
+
+j. het actief beheer risico.     
+2.  Het vereist vermogen per risicofactor, bedoeld in het eerste lid, is gelijk aan het absolute getal van de waardedaling van het eigen vermogen als gevolg van het scenario voor de betreffende risicofactor. Het vereist vermogen per risicofactor wordt vastgesteld op grond van het strategisch beleggingsbeleid waarbij het aanwezig vermogen van het fonds per berekeningsdatum wordt belegd volgens de beoogde beleggingsportefeuille, bedoeld in artikel 13a, tweede lid, van het Besluit financieel toetsingskader pensioenfondsen.   
+3.  Voor de vaststelling van het scenario voor kredietrisico overeenkomstig het eerste lid, onderdeel e, wordt een ratingklasse zoveel mogelijk bepaald op basis van het oordeel van een gekwalificeerde derde partij. De Nederlandsche Bank kan hierover nadere regels stellen.   
+4.  De Nederlandsche Bank kan nadere regels stellen over de vaststelling van het vereist eigen vermogen per risicofactor. 
 
 ### Artikel  25  
 
@@ -377,41 +251,35 @@ i. het operationeel risico bedraagt 0%.
 
 1.  Bij de samenvoeging van het vereist eigen vermogen per risicofactor als bedoeld in artikel 24 tot het totale vereist eigen vermogen wordt uitgegaan van de volgende correlaties: 
 
-a. tussen het aandelen- en vastgoedrisico enerzijds en het renterisico anderzijds: een correlatie (ρ) van 0,50;  
+a. tussen het aandelen- en vastgoedrisico enerzijds en het renterisico anderzijds: een correlatie ρ<sub>1 2</sub> van 0,40 indien het scenario voor het renterisico is gebaseerd op een rentedaling en nihil indien wordt uitgegaan van een rentestijging;  
 
-b. tussen de risico’s die zijn onderscheiden bij het aandelen- en vastgoedrisico: een correlatie (ρ') van 0,75;  
+b. tussen de risico’s die zijn onderscheiden bij het aandelen- en vastgoedrisico: een correlatie ρ’ van 0,75;  
 
-c. tussen de overige risico’s: een correlatie (ρ'') van 0.     
-2.  Voor de berekeningen, bedoeld in het eerste lid, worden de in artikel 2 van bijlage 3 opgenomen formules en de in dat onderdeel beschreven procedure gebruikt.  
+c. tussen het renterisico enerzijds en het kredietrisico anderzijds: een correlatie ρ<sub>1 5</sub> van 0,40 indien het scenario voor het renterisico is gebaseerd op een rentedaling en nihil indien wordt uitgegaan van een rentestijging;  
+
+d. tussen het aandelen- en vastgoedrisico enerzijds en het kredietrisico anderzijds: een correlatie ρ<sub>2 5</sub> van 0,50;  
+
+e. tussen de risico’s die zijn onderscheiden voor het valutarisico: een correlatie van 0,50 tussen valuta in ontwikkelde markten; een correlatie van 0,75 tussen valuta in opkomende markten en een correlatie van 0,25 tussen het valutarisico voor ontwikkelde markten enerzijds en het valutarisico voor opkomende markten anderzijds; en  
+
+f. tussen de overige risico’s: een correlatie van 0.     
+2.  Voor de berekeningen, bedoeld in het eerste lid, worden de in artikel 2 van bijlage 3 opgenomen formules en de in dat onderdeel beschreven procedures gebruikt. 
 
 ### Artikel  26  
 
-####Risicoprofiel
+####Partiële interne modellen
 
-Indien het standaardmodel leidt tot uitkomsten die onvoldoende overeenkomen met het risicoprofiel van het fonds, dan treedt het fonds in overleg met De Nederlandsche Bank over de te nemen maatregelen. 
-
-### Artikel  27  
-
-####Vereenvoudigd model
-
-1.  De Nederlandsche Bank kan toestemming verlenen voor de vaststelling van het vereist eigen vermogen volgens een vereenvoudigd model als bedoeld in artikel 12, tweede lid, van het Besluit financieel toetsingskader pensioenfondsen indien het fonds beschikt over: 
-
-a. een eigen vermogen dat ten minste 30% van de technische voorzieningen bedraagt, waarbij geen sprake is van financiering met achtergestelde leningen;  
-
-b. een eenvoudige pensioenregeling;  
-
-c. een eenvoudig en risicomijdend beleggingsbeleid; en  
-
-d. een eenvoudige bedrijfsvoering.     
-2.  Een fonds dat een vereenvoudigd model toepast, stelt het vereist eigen vermogen vast op 30% van de technische voorzieningen.   
-3.  Indien een fonds in een eerdere periode het standaardmodel of een intern model heeft toegepast, kan toestemming om het vereenvoudigd model toe te passen alleen worden verleend indien sprake is van een substantiële inkrimping, een sterke vereenvoudiging van de bedrijfsprocessen, een eenvoudiger risicoprofiel, een sterk verbeterde financiële positie of een eenvoudigere pensioenregeling.   
-4.  De Nederlandsche Bank kan aan de toestemming, bedoeld in het eerste lid, voorwaarden verbinden.  
+1.  Indien het standaardmodel leidt tot uitkomsten die onvoldoende overeenkomen met het risicoprofiel van het fonds, dan treedt het fonds in overleg met De Nederlandsche Bank over de invulling van een of meer partiële interne modellen in aanvulling op het standaardmodel.   
+2.  Het fonds beoordeelt jaarlijks of het risicoprofiel adequaat wordt weergegeven door het standaardmodel, zo nodig aangevuld met een of meer partiële interne modellen, en legt deze beoordeling vast.   
+3.  De methodieken en procedures voor het gebruik en vaststelling van een of meer partiële interne modellen sluiten aan op de aard, omvang en complexiteit van de betreffende risico’s in de portefeuille. Het fonds legt de methodieken en procedures vast.   
+4.  Een partieel intern model is specifiek voor een belegging of beleggingsportefeuille van het fonds en onderscheidt zich van de risicoscenario’s zoals omschreven in artikel 24, eerste lid.   
+5.  Voor de vaststelling van het vereist eigen vermogen wordt de uitkomst van de doorrekening van een partieel intern model opgeteld bij de uitkomst van het standaardmodel. Op verzoek mogen fondsen onderbouwd en na voorafgaande goedkeuring door De Nederlandsche Bank van deze methode afwijken.   
+6.  De Nederlandsche Bank kan aan de toestemming, bedoeld in artikel 12, tweede lid, van het Besluit financieel toetsingskader pensioenfondsen voorwaarden verbinden.  
 
 ### Artikel  28  
 
 ####Intern model
 
-1.  De Nederlandsche Bank kan toestemming verlenen voor de berekening van het vereist eigen vermogen volgens een intern model als bedoeld in artikel 12, tweede lid, van het Besluit financieel toetsingskader pensioenfondsen indien het fonds voldoet aan door De Nederlandsche Bank gestelde regels ten aanzien van: 
+1.  De Nederlandsche Bank kan toestemming verlenen voor de berekening van het vereist eigen vermogen volgens een intern model als bedoeld in artikel 12, derde lid, van het Besluit financieel toetsingskader pensioenfondsen indien het fonds voldoet aan door De Nederlandsche Bank gestelde regels ten aanzien van: 
 
 a. de organisatorische inbedding van het intern model; en  
 
@@ -435,26 +303,81 @@ b. dient bij De Nederlandsche Bank eens in de 3 jaar een analyse in volgens het 
 a. naar het oordeel van De Nederlandsche Bank de regels waaraan het fonds niet voldoet het gebruik van een intern model niet belemmeren; en  
 
 b. de verwachting is dat het fonds binnen twee jaren wel aan de regels zal voldoen.     
-2.  Voor zover tijdens de overgangsperiode het model incompleet is, kan voor de ontbrekende onderdelen gebruik worden gemaakt van een prudente bijschatting.   
-3.  Het fonds kan tot 1 januari 2010: 
-
-a. voor het bepalen van het renterisico, bedoeld in artikel 24, eerste lid, onderdeel a, de benaderingswijze hanteren die is aangegeven in artikel 3 van bijlage 3;  
-
-b. voor het bepalen van het kredietrisico, bedoeld in artikel 24, eerste lid, onderdeel e, de benaderingswijze hanteren die is aangegeven in artikel 4 van bijlage 3.    
+2.  Voor zover tijdens de overgangsperiode het model incompleet is, kan voor de ontbrekende onderdelen gebruik worden gemaakt van een prudente bijschatting.  
 
 ### Paragraaf  2  
 
-####Continuïteitsanalyse
+####Haalbaarheidstoets
 
 ### Artikel  30  
 
-####Continuïteitsanalyse
+####Haalbaarheidstoets
 
-1.  Het inzicht dat de continuïteitsanalyse biedt in de mate waarin de voorwaardelijke toeslagverlening kan worden toegekend, wordt aangegeven door de cumulatieve toekenning over de 15 prognosejaren op jaarbasis uit te drukken.   
-2.  Bij de continuiteitsanalyse worden kalenderjaren gehanteerd, tenzij sprake is van een continuïteitsanalyse op grond van artikel 22, tweede lid, van het Besluit financieel toetsingskader pensioenfondsen. In dat geval worden actuele data gebruikt.   
-3.  Het fonds geeft aan waarin een continuïteitsanalyse afwijkt van een eerder uitgevoerde continuïteitsanalyse.  
+1.  Voor de toepassing van dit artikel en de artikelen 30a, 30b en 30c wordt verstaan onder: 
+
+a. *rapportagedatum:* de datum vanaf welke de haalbaarheidstoets wordt uitgevoerd over het aantal prognosejaren;  
+
+b. *geboortejaargroep:* een op de rapportagedatum bestaande groep personen met hetzelfde geboortejaar en pensioenaanspraken of pensioenrechten jegens het fonds;  
+
+c. *scenarioset:* de scenarioset, bedoeld in artikel 23b van het Besluit financieel toetsingskader pensioenfondsen;  
+
+d. *scenarioprijsinflatie:* de veronderstelde prijsinflatie die voor ieder jaar in elk scenario in de scenarioset wordt vermeld;  
+
+e. *pensioenresultaat:* een per scenario als percentage uitgedrukt quotiënt met in de teller de som van de verwachte uitkeringen ouderdomspensioen en nabestaandenpensioen en in de noemer de som van de verwachte uitkeringen ouderdomspensioen en nabestaandenpensioen, zonder toepassing van vermindering van pensioenaanspraken en pensioenrechten en met toepassing van jaarlijkse toeslagverlening ter hoogte van de scenarioprijsinflatie.     
+2.  Voor de verwachte uitkeringen, bedoeld in het eerste lid, onderdeel e, wordt uitgegaan van de op de rapportagedatum opgebouwde pensioenaanspraken en pensioenrechten en van de toekomstige opbouw van pensioenaanspraken en pensioenrechten vanaf de rapportagedatum.   
+3.  Voor de haalbaarheidstoets wordt voor een op 1 januari 2015 bestaand fonds verondersteld dat op die datum de feitelijk opgebouwde pensioenaanspraken en pensioenrechten gelijk zijn aan de opgebouwde pensioenaanspraken en pensioenrechten, zonder toepassing van vermindering van pensioenaanspraken en pensioenrechten en met toepassing van jaarlijkse toeslagverlening ter hoogte van de gerealiseerde prijsinflatie voor dat moment. Voor een na 1 januari 2015 opgericht fonds geldt deze veronderstelling voor de datum van oprichting.   
+4.  In de noemer, bedoeld in het eerste lid, onderdeel e, wordt op de rapportagedatum, gelegen na 1 januari 2015 dan wel de datum van oprichting, uitgegaan van de opgebouwde pensioenaanspraken en pensioenrechten zonder toepassing van vermindering van pensioenaanspraken en pensioenrechten en met toepassing van jaarlijkse toeslagverlening ter hoogte van een door alle fondsen te hanteren uniforme gerealiseerde prijsinflatie.   
+5.  In een haalbaarheidstoets worden kalenderjaren gehanteerd. De haalbaarheidstoets omvat 60 prognosejaren. 
 
 ### Artikel  30a  
+
+####Uitvoering haalbaarheidstoets
+
+1.  Voor de aanvangshaalbaarheidstoets geldt: 
+
+a. de rapportagedatum is 1 januari van het kalenderjaar waarin het fonds heeft besloten een nieuwe pensioenregeling uit te voeren of zich een significante wijziging heeft voorgedaan;  
+
+b. de haalbaarheidstoets wordt uitgevoerd op basis van de pensioenfondsbalans en de onderliggende gegevens op de rapportagedatum;  
+
+c. er wordt gebruik gemaakt van de scenarioset die De Nederlandsche Bank beschikbaar heeft gesteld voor het kwartaal waarin het fonds heeft besloten een nieuwe pensioenregeling uit te voeren of zich een significante wijziging heeft voorgedaan, waarbij De Nederlandsche Bank bepaalt hoe in de berekeningen wordt omgegaan met de periode tussen 1 januari en het begin van dat kwartaal;  
+
+d. de datum van inlevering bij De Nederlandsche Bank is een maand nadat het fonds heeft besloten een nieuwe pensioenregeling uit te voeren of zich een significante wijziging heeft voorgedaan.     
+2.  Voor de jaarlijkse haalbaarheidstoets geldt: 
+
+a. de rapportagedatum is 1 januari;  
+
+b. de haalbaarheidstoets wordt uitgevoerd op basis van de pensioenfondsbalans en de onderliggende gegevens die ten grondslag liggen aan de staten, bedoeld in artikel 147 van de Pensioenwet dan wel artikel 142 van de Wet verplichte beroepspensioenregeling, over het aan de rapportagedatum voorafgaande boekjaar;  
+
+c. er wordt gebruik gemaakt van de scenarioset die De Nederlandsche Bank beschikbaar heeft gesteld voor het kwartaal waarin de rapportagedatum ligt;  
+
+d. de datum van inlevering is niet later dan de datum van inlevering van de staten, bedoeld in onderdeel b.     
+3.  Na voorafgaande toestemming van De Nederlandsche Bank kan een fonds afwijken van het eerste en tweede lid en van artikel 30, vijfde lid.   
+4.  De Nederlandsche Bank kan nadere regels stellen over de bij de haalbaarheidstoets te leveren gegevens en de wijze waarop de gegevens worden geleverd.  
+
+### Artikel  30b  
+
+####Berekeningen haalbaarheidstoets
+
+1.  Voor de berekening van het pensioenresultaat worden de verwachte uitkeringen gecorrigeerd voor de scenarioprijsinflatie.   
+2.  Het pensioenresultaat voor een geboortejaargroep wordt voor elk scenario uit de scenarioset berekend.   
+3.  Het pensioenresultaat op fondsniveau is voor elk scenario uit de scenarioset gelijk aan het gewogen gemiddelde van de pensioenresultaten van de geboortejaargroepen. Er wordt gewogen naar het aantal personen in een geboortejaargroep.   
+4.  Het verwachte pensioenresultaat op fondsniveau is het 50<sup>e</sup> percentiel in de doorrekening van de scenarioset.   
+5.  Het pensioenresultaat op fondsniveau in het slechtweerscenario is het 5<sup>e</sup> percentiel in de doorrekening van de scenarioset.  
+
+### Artikel  30c  
+
+####Normen haalbaarheidstoets
+
+1.  Bij de aanvangshaalbaarheidstoets mag het verschil in procentpunten tussen het verwacht pensioenresultaat op fondsniveau vanuit de financiële positie dat precies aan de vereisten van het vereist eigen vermogen wordt voldaan en de daarbij door het fonds gekozen ondergrens niet kleiner zijn dan het verschil in procentpunten tussen het verwacht pensioenresultaat op fondsniveau vanuit de feitelijke financiële positie en de daarbij door het fonds gekozen ondergrens.   
+2.  De maximale afwijking, bedoeld in artikel 22, derde lid, onderdeel d, van het Besluit financieel toetsingskader pensioenfondsen, drukt het fonds uit als een percentage dat de afwijking ten opzichte van het verwachte pensioenresultaat op fondsniveau aangeeft.   
+3.  De onderbouwing van de haalbaarheidstoets is gedegen en biedt voldoende inzicht in onder meer de gebruikte gegevens, veronderstellingen, grondslagen en modellering.   
+4.  Het fonds stelt procedures vast voor de uitvoering, vaststelling en verantwoording van de haalbaarheidstoets.  
+
+### Paragraaf  3  
+
+####Overige bepalingen
+
+### Artikel  30d  
 
 ####Commissie Parameters
 
@@ -467,18 +390,7 @@ b. voor het bepalen van het kredietrisico, bedoeld in artikel 24, eerste lid, on
 
 ####Overgangsrecht
 
-### Artikel  31  
-
-####Overgangsrecht waardeoverdracht
-
-Tot 1 januari 2008 wordt artikel 18, tweede lid, als volgt gelezen: 
-2. De berekening van het standaardtarief geschiedt op basis van algemeen gebruikelijke actuariële formules. Uitgegaan wordt daarbij van netto tarieven en een rekenrente van 4%.
-
-###Artikel 31a 
-
-####Tijdelijk rekeninstrument fondsen
-
-Indien artikel 36 van het Besluit financieel toetsingskader pensioenfondsen van toepassing is gebruikt het fonds jaarlijks, in afwijking van artikel 4, derde lid, een tijdelijk rekeninstrument voor de berekening van de verwachtingen ten aanzien van de toekomstige toeslagverlening, bedoeld in artikel 4, tweede lid. Dit tijdelijk rekeninstrument wordt beschikbaar gesteld via www.toezicht.dnb.nl.
+Vervallen per 01-01-2015 
 
 ### Hoofdstuk  5  
 
@@ -530,95 +442,6 @@ A.J. de Geus
 
 1. Het Europees Centrum voor Kernonderzoek (CERN), bedoeld in het op 1 juli 1953 te Parijs tot stand gekomen Verdrag betreffende de instelling van een Europese Organisatie voor Kernonderzoek; 2. het Europees Centrum voor weervoorspellingen op Middellange termijn, bedoeld in het te Brussel op 11 oktober 1973 tot stand gekomen Verdrag betreffende de instelling van het Europees Centrum voor weervoorspellingen op Middellange termijn; 3. het Europees Laboratorium voor Moleculaire Biologie, bedoeld in het op 10 mei 1973 te Genève tot stand gekomen Overeenkomst tot oprichting van het Europees Laboratorium voor Moleculaire Biologie; 4. het Europees Observatorium voor de Zuidelijke Sterrenhemel, bedoeld in het op 5 oktober 1962 te Parijs tot stand gekomen Verdrag tot oprichting van een Europese organisatie voor astronomisch onderzoek op het zuidelijk halfrond; 5. het Europees Ruimtevaart Agentschap (ESA), bedoeld in het op 30 mei 1975 te Parijs tot stand gekomen Verdrag tot oprichting van een Europees Ruimte-Agentschap; 6. de Europese Centrale Bank, bedoeld in artikel 4 A van het Verdrag tot oprichting van de Europese Gemeenschap en het op 7 februari 1992 te Maastricht tot stand gekomen Protocol betreffende de statuten van het Europees Stelsel van Centrale Banken en van de Europese Centrale Bank; 7. de Europese Meteorologische Satelliet Organisatie (EUMETSAT), bedoeld in het op 24 mei 1983 te Genève tot stand gekomen Verdrag tot oprichting van een Europese Organisatie voor de exploitatie van meteorologische satellieten; 8. de Europese Octrooi-organisatie, bedoeld in het op 5 oktober 1973 te München tot stand gekomen Verdrag inzake de verlening van Europese octrooien; 9. de Europese Organisatie van Tele-communicatiesatellieten (EUTELSAT), bedoeld in het op 15 juli 1982 te Parijs tot stand gekomen Verdrag tot Oprichting van de Europese Organisatie van Telecommunicatiesatellieten; 10. de Europese Organisatie voor de Veiligheid van de Luchtvaart (Eurocontrol), bedoeld in het op 13 december 1960 te Brussel tot stand gekomen Internationaal Verdrag tot samenwerking in het belang van de veiligheid van de luchtvaart; 11. de Intergouvernementele Commissie voor Migratie, bedoeld in het op 19 oktober 1953 te Venetië tot stand gekomen Statuut van de Intergouvernementele Commissie voor Europese Migratie; 12. de Internationale Organisatie voor Atoomenergie, bedoeld in het Statuut dat op 23 oktober 1956 is goedgekeurd door de Conferentie over het Statuut van de Internationale Organisatie voor Atoomenergie die werd gehouden in het Hoofdkwartier van de Verenigde Naties; 13. de Noord-Atlantische Verdragsorganisatie (NATO), bedoeld in het op 4 april 1949 te Washington D.C. tot stand gekomen Noord-Atlantisch Verdrag; 14. de Organisatie voor Economische Samenwerking en Ontwikkeling (OECD), bedoeld in het op 14 december 1960 te Parijs tot stand gekomen Verdrag nopens de Organisatie voor Economische Samenwerking en Ontwikkeling; 15. de Raad van Europa, bedoeld in het op 5 mei 1949 te Londen tot stand gekomen Statuut van de Raad van Europa; 16. de Verenigde Naties (UN), inclusief de hiermee verbonden gespecialiseerde organisaties, bedoeld in het op 26 juni 1945 te San Francisco tot stand gekomen Handvest van de Verenigde Naties; 17. de Wereld Handelsorganisatie (WTO), bedoeld in het op 15 april 1994 tot stand gekomen Verdrag tot oprichting van de Wereld Handelsorganisatie; 18. de West-Europese Unie (WEU), bedoeld in het op 17 maart 1948 te Brussel tot stand gekomen Verdrag van Brussel en het op 23 oktober 1954 te Parijs tot stand gekomen Protocol tot wijziging en aanvulling van het Verdrag van Brussel; 19) de Europese politiedienst (Europol), bedoeld in de op 26 juli 1995 te Brussel tot stand gekomen Overeenkomst op grond van artikel K.3 van het Verdrag betreffende de Europese Unie tot oprichting van een Europese politiedienst (Europol-overeenkomst); 20) de Europese Investeringsbank, bedoeld in artikel 9 van het Verdrag tot oprichting van de Europese Gemeenschap en het op 25 maart 1957 te Rome tot stand gekomen Protocol betreffende de statuten van de Europese Investeringsbank. 
 
-### Bijlage 1a  
-
-Deze bijlage behoort bij artikel 6, eerste lid, van de Regeling Pensioenwet en Wet verplichte beroepspensioenregeling. 
-
-####*Onderdeel a*
-
-Matrix fondsen ten aanzien van toeslagen over pensioenaanspraken en pensioenrechten (is toeslag voor pensioengerechtigden, gewezen deelnemers en deelnemers):  
-
-| Toeslagenbeleid, financiering en communicatie aan deelnemers →  | Toeslagenbeleid  | Financiering  | Voorwaardelijkheidsverklaring  | Voorwaardelijkheidsverklaring  | Toeslag-categorie   I  <sup>V</sup>  | Ambitie  | Methode voor toekenning  | Verwachte realisatie  | Financieringswijze toeslagverlening  | Informatie in pensioenreglement en uitvoeringsovereenkomst  | Informatie aan de (gewezen) deelnemer/pensioengerechtigde bij het verhogen van het pensioen of opgebouwde pensioen: over de verhoging zelf en over de inhoud van de regeling  Volledige tekst op te nemen in alle persoonlijke uitingen. In de startbrief worden alleen de eerste en laatste zin opgenomen.  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| --- | --- | --- | --- | --- | --- | --- |
-| A.  Geen beleid over toeslagverlening  | Er is geen ambitie om toeslagen te geven op pensioenrechten en pensioenaanspraken  | Er is geen maatstaf, omdat de eventuele toekenning van toeslagen berust op incidentele beslissingen van het bestuur.  | De deelnemers en gepensioneerden moeten er van uitgaan dat ze geen toeslag zullen krijgen.  | Omdat er geen toeslagenbeleid is, hoeft er ook niets gefinancierd te worden.  | Op de pensioenrechten en pensioenaanspraken worden geen toeslagen verleend. Het bestuur kan evenwel besluiten om in enig jaar een incidentele toeslag te verlenen, rekening houdend met de financiële positie van het   | Uw pensioenfonds verhoogt uw pensioen/opgebouwde pensioen normaal niet.  Uw pensioen/opgebouwde pensioen is dit jaar met <a%> verhoogd.  Uw pensioenfonds heeft uw pensioen/opgebouwde pensioen de afgelopen drie jaar als volgt verhoogd:  – Over het jaar <t-1> met <b%>. De prijzen gingen toen met <f%> omhoog  |
-| --- | --- | --- | --- | --- |pensioenfonds. |– Over het jaar <t-2> met <c%>. De prijzen gingen toen met <g%> omhoog – Over het jaar <t-3> met <d%>. De prijzen gingen toen met <h%> omhoog U hebt door deze verhoging niet meteen ook recht op verhogingen in de toekomst. |
-| --- | --- | --- | --- | --- | --- | --- |
-| B.  Geen doelgericht toeslagenbeleid  | Er is geen ambitie om jaarlijks toeslagen te geven op pensioen-rechten en pensioen-aanspraken  | Er is geen maatstaf, omdat de eventuele toekenning van toeslagen berust op jaarlijkse beslissingen van het bestuur.  | De deelnemers en gepensioneerden moeten er van uitgaan dat ze geen jaarlijkse toeslag zullen krijgen.  | Omdat er geen doelgericht toeslagenbeleid is, hoeft er ook niets gefinancierd te worden.  | Het bestuur besluit jaarlijks of een toeslag wordt verleend, rekening houdend met de financiële positie van het pensioenfonds.  | Uw pensioenfonds heeft geen uitgewerkt plan om uw pensioenuitkering/  opgebouwde pensioen jaarlijks te verhogen.  Uw pensioen/opgebouwd pensioen is dit jaar met <a%> verhoogd.  – Uw pensioenfonds heeft uw pensioen/opgebouwd pensioen de afgelopen drie jaar als volgt verhoogd:  |
-| --- | --- | --- | --- | --- | --- |– Over het jaar <t-1> met <b%>. De prijzen gingen toen met <f%> omhoog  – Over het jaar <t-2> met <c%>. De prijzen gingen toen met <g%> omhoog  – Over het jaar <t-3> met <d%>. De prijzen gingen toen met <h%> omhoog U hebt door deze verhoging niet meteen ook recht op verhogingen in de toekomst. |
-| --- | --- | --- | --- | --- | --- | --- |
-| C.  Voorwaardelijke toeslagverlenening, niet gekoppeld aan een ex ante bepaalde maatstaf  | C.1. → voorwaardelijke toeslagverlening op basis van beschikbare premie.  De ambitie is om jaarlijks de pensioen-rechten en pensioenaanspraken aan te passen. Hoe hoog de toeslag is, is afhankelijk van de beschikbare premie.  | Geëxpliciteerd moet worden op welke wijze wordt bepaald hoe hoog de daadwerkelijke toekenning zal zijn. In deze situatie gebeurt dat door jaarlijks de beschikbare premie aan te wenden voor toeslagverlening.  | Uit een continuïteitsanalyse blijkt welke gemiddelde toekenning op de lange termijn realistisch is. Aangezien er geen ex ante bepaalde maatstaf is, is de verwachte realisatie tevens de ambitie.  | De voorwaardelijke toeslagverlening wordt gefinancierd uit een opslag op de premie.  | Op de pensioenrechten en pensioenaanspraken worden in beginsel jaarlijks toeslagen verleend. Het bestuur beslist evenwel jaarlijks in hoeverre pensioenrechten en pensioenaanspraken worden aangepast. De hoogte van de toeslagverlening is afhankelijk van de hoogte van de beschikbare premie.  | Uw pensioenfonds probeert ieder jaar uw pensioen/opgebouwde pensioen te verhogen.  Uw pensioen/opgebouwde pensioen is dit jaar met <a%> verhoogd.  Uw pensioenfonds heeft uw pensioen/opgebouwd pensioen de afgelopen drie jaar als volgt verhoogd:  – Over het jaar <t-1> met <b%>. De prijzen gingen toen met <f%> omhoog  – Over het jaar <t-2> met <c%>. De prijzen gingen toen met <g%> omhoog |
-| --- | --- | --- | --- | --- | --- | – Over het jaar <t-3> met <d%>. De prijzen gingen toen met <h%> omhoog Uw pensioenfonds betaalt de toekomstige verhogingen van uw pensioen/opgebouwde pensioen uit daartoe bestemde premies. U hebt door deze verhoging en de verwachting voor de komende jaren niet meteen ook recht op verhogingen in de toekomst. |
-| --- | C.2. → voorwaardelijke toeslagverlening op basis van een bestemmingsreserve  De ambitie is om jaarlijks de pensioenrechten en pensioenaanspraken aan te passen.   | Geëxpliciteerd moet worden op welke wijze wordt bepaald hoe hoog de daadwerkelijke toekenning zal zijn.  In deze situatie gebeurt dat door jaarlijks een deel van de aanwezige   | Uit een continuïteitsanalyse blijkt welke gemiddelde toekenning op de lange termijn realistisch is. Aangezien er geen ex ante bepaalde maatstaf, is de verwachte realisatie tevens de   | De voorwaardelijke toeslagverlening wordt gefinancierd uit een bestemmingsreserve.  | Op de pensioenrechten en pensioenaanspraken worden in beginsel jaarlijks toeslagen verleend. Het bestuur beslist evenwel jaarlijks in hoeverre pensioenrechten en pensioenaanspraken worden   | Uw pensioenfonds probeert ieder jaar uw pensioen/opgebouwde pensioen te verhogen.  Uw pensioen/opgebouwde pensioen is dit jaar met <a%> verhoogd.  Uw pensioenfonds heeft uw pensioen/opgebouwde pensioen de afgelopen drie jaar als volgt verhoogd:  |
-| --- |Hoe hoog de toeslag is, is afhankelijk van de bestemmingsreserve. |bestemmingsreserve aan te wenden voor toeslagverlening. |ambitie. | --- |aangepast. Ter financiering van deze voorwaardelijke toeslagverlening is een bestemmingsreserve gevormd. |– Over het jaar <t-1> met <b%>. De prijzen gingen toen met <f%> omhoog  – Over het jaar <t-2> met <c%>. De prijzen gingen toen met <g%> omhoog  – Over het jaar <t-3> met <d%>. De prijzen gingen toen met <h%> omhoog |
-| --- | --- | --- | --- | --- | --- | Uw pensioenfonds betaalt de toekomstige verhogingen van uw pensioen/opgebouwde pensioen uit geld dat daartoe gereserveerd is. U hebt door deze verhoging en de verwachting voor de komende jaren niet meteen ook recht op verhogingen in de toekomst.  |
-| --- | --- | --- | --- | --- | --- | --- |
-| D.  Voorwaardelijke toeslagverlening gekoppeld aan een ex ante bepaalde maatstaf.  | D. → voorwaardelijke toeslagverlening op basis van een ex ante bepaalde maatstaf  De ambitie is om jaarlijks pensioenrechten en pensioenaanspraken aan te passen aan [de prijs- of loonontwikkeling/ <…%>].  | Geëxpliciteerd moet worden op welke wijze wordt bepaald hoe hoog de daadwerkelijke toekenning zal zijn.  | Uit een continuïteitsanalyse blijkt welke gemiddelde toekenning op de lange termijn te verwachten is ten opzichte van de ex ante bepaalde maatstaf.  | D.1. → financiering van de indexatie uit overrendementen  De voorwaardelijke toeslagverlening wordt gefinancierd uit overrendementen.  In het financieringsbeleid moet omschreven zijn op welke wijze de toeslag uit overrendement wordt gefinancierd.  | Op de pensioenrechten en pensioenaanspraken wordt jaarlijks toeslag verleend van maximaal [de ex ante bepaalde maatstaf]. Het bestuur beslist evenwel jaarlijks in hoeverre pensioenrechten en pensioenaanspraken worden aangepast.  Voor deze voorwaardelijke toeslagverlening is geen   | Uw pensioenfonds probeert ieder jaar uw pensioen/opgebouwde pensioen te verhogen met de prijsontwikkeling/de loonontwikkeling/<…%>.  Uw pensioen/opgebouwde pensioen is dit jaar met <a%> verhoogd.  Uw pensioenfonds heeft uw pensioen/opgebouwde pensioen de afgelopen drie jaar als volgt verhoogd:  – Over het jaar <t-1> met <b%>. De prijzen gingen toen met <f%> omhoog  – Over het jaar <t-2> met <c%>. De prijzen   |
-| --- | --- | --- | --- | --- | reserve gevormd en wordt geen premie betaald. De toeslagverlening wordt uit beleggingsrendement gefinancierd. | gingen toen met <g%> omhoog  – Over het jaar <t-3> met <d%>. De prijzen gingen toen met <h%> omhoog Uw pensioenfonds betaalt de toekomstige verhogingen van uw pensioen/opgebouwde pensioen uit beleggingsrendement. U hebt door deze verhoging en de verwachting voor de komende jaren niet meteen ook recht op verhogingen in de toekomst.  |
-| --- | --- | --- | --- | D.2. → financiering van de toeslagverlening uit een opslag op de premie  De voorwaardelijke toeslagverlening wordt gefinancierd uit een opslag op de premie, waarvan de hoogte is gerelateerd aan de ambitie.  | Op de pensioenrechten en pensioenaanspraken wordt jaarlijks toeslag verleend van maximaal [de ex ante bepaalde maatstaf]. Het bestuur beslist evenwel jaarlijks in hoeverre pensioenrechten en pensioenaanspraken worden aangepast.  | Uw pensioenfonds probeert ieder jaar uw pensioen/opgebouwde pensioen te verhogen met de prijsontwikkeling/de loonontwikkeling/<…%>.  Uw pensioen/opgebouwde pensioen is dit jaar met <a%> verhoogd.  Uw pensioenfonds heeft uw pensioen/opgebouwde pensioen de afgelopen drie jaar als volgt verhoogd:  – Over het jaar <t-1> met <b%>. De prijzen   |
-| --- | --- | --- | --- | --- | Voor deze voorwaardelijke toeslagverlening is geen reserve gevormd. De toeslagverlening wordt uit premies gefinancierd. | gingen toen met <f%> omhoog  – Over het jaar <t-2> met <c%>. De prijzen gingen toen met <g%> omhoog  – Over het jaar <t-3> met <d%>. De prijzen gingen toen met <h%> omhoog Uw pensioenfonds betaalt de toekomstige verhogingen van uw pensioen/opgebouwde pensioen uit premies. U hebt door deze verhoging en de verwachting voor de komende jaren niet meteen ook recht op verhogingen in de toekomst.  |
-| --- | --- | --- | --- | D.3. → financiering van de toeslagverlening uit een opslag op de premie met een premiegarantie van de werkgever.  De werkgever heeft toegezegd jaarlijks een bedrag te storten, waarvan de hoogte is gerelateerd aan de ambitie.  Deze premie wordt door de werkgever betaald, in aanvulling op de premie voor de   | Op de pensioenrechten en pensioenaanspraken wordt jaarlijks toeslag verleend van maximaal [de ex ante bepaalde maatstaf]. Het bestuur beslist evenwel jaarlijks in hoeverre pensioenrechten en pensioenaanspraken worden aangepast.  Voor deze voorwaardelijke toeslagverlening is geen reserve gevormd. De toeslagverlening wordt uit   | Uw pensioenfonds probeert ieder jaar uw pensioen/opgebouwde pensioen te verhogen met de prijsontwikkeling/de loonontwikkeling/<…%>.  Uw pensioen/opgebouwde pensioen is dit jaar met <a%> verhoogd.  Uw pensioenfonds heeft uw pensioen/opgebouwde pensioen de afgelopen drie jaar als volgt verhoogd:  – Over het jaar <t-1> met <b%>. De prijzen gingen toen met <f%> omhoog  – Over het jaar <t-2> met <c%>. De prijzen gingen toen met <g%> omhoog  – Over het jaar <t-3> met <d%>. De prijzen   |
-| --- | --- | --- | --- | nominale aanspraken. | bijdragen van de werkgever gefinancierd. | gingen toen met <h%> omhoog Uw pensioenfonds betaalt de toekomstige verhogingen van uw pensioen/opgebouwde pensioen uit bijdragen van de werkgever. U hebt door deze verhoging en de verwachting voor de komende jaren niet meteen ook recht op verhogingen in de toekomst.  |
-| --- | --- | --- | --- | D.4. → financiering met behulp van een bestemmingsreserve  De voorwaardelijke toeslagverlening wordt gefinancierd uit een bestemmingsreserve, waarvan de hoogte is gerelateerd aan de ambitie.  | Op de pensioenrechten en pensioenaanspraken wordt jaarlijks toeslag verleend van maximaal [de ex ante bepaalde maatstaf]. Het bestuur beslist evenwel jaarlijks in hoeverre pensioenrechten en pensioenaanspraken worden aangepast.  Voor deze voorwaardelijke toeslagverlening is een reserve gevormd.  | Uw pensioenfonds probeert ieder jaar uw pensioen/opgebouwde pensioen te verhogen met de prijsontwikkeling/de loonontwikkeling/<…%>.  Uw pensioen/opgebouwde pensioen is dit jaar met <a%> verhoogd.  Uw pensioenfonds heeft uw pensioen/opgebouwde pensioen de afgelopen drie jaar als volgt verhoogd:  – Over het jaar <t-1> met <b%>. De prijzen gingen toen met <f%> omhoog  – Over het jaar <t-2> met <c%>. De prijzen gingen toen met <g%> omhoog  |
-| --- | --- | --- | --- | --- | --- | – Over het jaar <t-3> met <d%>. De prijzen gingen toen met <h%> omhoog Uw pensioenfonds betaalt de toekomstige verhogingen van uw pensioen/opgebouwde pensioen uit reserves van het pensioenfonds. U hebt door deze verhoging en de verwachting voor de komende jaren niet meteen ook recht op verhogingen in de toekomst.  |
-| --- | --- | --- | --- | D.5. → financiering met behulp van een vrijwillig gevormde technische voorziening  De voorwaardelijke toeslagverlening wordt gefinancierd uit een vrijwillig gevormde technische voorziening,  | Op de pensioenrechten en pensioenaanspraken wordt jaarlijks toeslag verleend van maximaal [de ex ante bepaalde maatstaf]. Het bestuur beslist evenwel jaarlijks in hoeverre pensioenrechten en pensioenaanspraken worden   | Uw pensioenfonds probeert ieder jaar uw pensioen/opgebouwde pensioen te verhogen met de prijsontwikkeling/de loonontwikkeling/<…%>.  Uw pensioen/opgebouwde pensioen is dit jaar met <a%> verhoogd.  Uw pensioenfonds heeft uw pensioen/opgebouwde pensioen de afgelopen drie jaar als volgt verhoogd:  |
-| --- | --- | --- | --- | waarvan de hoogte is gerelateerd aan de ambitie. Indien de voorziening door premies wordt gevuld dan is die  |aangepast.  Voor deze voorwaardelijke toeslagverlening is een technische voorziening gevormd. Deze technische |– Over het jaar <t-1> met <b%>. De prijzen gingen toen met <f%> omhoog  – Over het jaar <t-2> met <c%>. De prijzen gingen toen met <g%> omhoog – Over het jaar <t-3> met <d%>. De prijzen  |
-| --- | --- | --- | --- | premie onderdeel van de kostendekkende premie voor de onvoorwaardelijke aanspraken.  Het fonds bepaalt zelf of het ten opzichte van deze technische voorziening eigen vermogen aanhoudt. |  voorziening kan alleen voor toekomstige toeslagverlening worden aangewend. | gingen toen met <h%> omhoog  Uw pensioenfonds betaalt de toekomstige verhogingen van uw pensioen/opgebouwde pensioen uit de technische voorzieningen van het pensioenfonds. U hebt door deze verhoging en de verwachting voor de komende jaren niet meteen ook recht op verhogingen in de toekomst.  |
-| --- | --- | --- | --- | D.6 Combinaties van D.1. tot en met D.5.  | Op de pensioenrechten en pensioenaanspraken wordt jaarlijks toeslag verleend van [de ex ante bepaalde maatstaf]. Het bestuur beslist evenwel jaarlijks in hoeverre pensioenrechten en pensioenaanspraken worden aangepast.  Voor deze voorwaardelijke toeslagverlening [is geen reserve gevormd en wordt geen premie betaald,   | Uw pensioenfonds probeert ieder jaar uw pensioen/opgebouwde pensioen te verhogen met de prijsontwikkeling/de loonontwikkeling/<…%>.  Uw pensioen/opgebouwde pensioen is dit jaar met <a%> verhoogd.  Uw pensioenfonds heeft uw pensioen/opgebouwde pensioen de afgelopen drie jaar als volgt verhoogd:  – Over het jaar <t-1> met <b%>. De prijzen gingen toen met <f%> omhoog  – Over het jaar <t-2> met <c%>. De prijzen gingen toen met <g%> omhoog  |
-| --- | --- | --- | --- | --- | maar deze wordt uit beleggingsrendement gefinancierd / is geen reserve gevormd, maar wordt een opslag op de premie betaald / is geen reserve gevormd maar deze wordt door de werkgever voldaan / is een reserve gevormd / is een technische voorziening gevormd]. | – Over het jaar <t-3> met <d%>. De prijzen gingen toen met <h%> omhoog  (Een combinatie van financieringswijzen, afhankelijk van de feitelijke omstandigheden:)  Uw pensioenfonds betaalt de toekomstige verhogingen van uw pensioen/opgebouwde pensioen uit beleggingsrendement/premies/bijdragen van de werkgever/reserves van het pensioenfonds/technische voorzieningen van het pensioenfonds. U hebt door deze verhoging en de verwachting voor de komende jaren niet meteen ook recht op verhogingen in de toekomst.  |
-| --- | --- | --- | --- | --- | --- | --- |
-| E.  Combinatie van onvoorwaardelijke en voorwaardelijke toeslagverlening  | De ambitie is om jaarlijks pensioenrechten en pensioenaanspraken aan te passen [aan de prijs- of loonontwikkeling/ <…%>].  | Het onvoorwaardelijke deel van de toeslagverlening wordt altijd toegekend. Voor het voorwaardelijke deel moet geëxpliciteerd worden op welke wijze wordt bepaald hoe hoog de daadwerkelijke toekenning zal zijn.  | Het onvoorwaardelijke deel van de toeslagverlening wordt altijd volledig toegekend. De verwachte realisatie voor dit deel is dan ook gelijk aan de ambitie.  Voor het voorwaardelijke deel moet uit een continuïteitsanalyse blijken welke gemiddelde toekenning op de lange termijn te verwachten is ten opzichte van de ex ante bepaalde maatstaf  | De premie voor het onvoorwaardelijke deel van deze toeslagverlening maakt deel uit van de kostendekkende premie. Onderdeel van deze premie is een opslag voor het bij de aangroei van de pensioenverplichtingen behorende vereist eigen vermogen.  Voor het voorwaardelijke deel van deze toeslagverlening gelden de   | Op de pensioenrechten en pensioenaanspraken wordt jaarlijks toeslag verleend van maximaal [de ex ante bepaalde maatstaf]. Ten aanzien van de voorwaardelijke toeslagverlening beslist het bestuur evenwel jaarlijks in hoeverre pensioenrechten en pensioenaanspraken worden aangepast. De jaarlijkse toeslagverlening is echter nooit lager dan het deel van de toeslagverlening   | Uw pensioenfonds verhoogt ieder jaar uw pensioen/opgebouwde pensioen met de prijsontwikkeling/de loonontwikkeling/ <…%>.  U hebt recht op een jaarlijkse verhoging van uw pensioen/opgebouwde pensioen (het onvoorwaardelijke deel van toeslagverlening). Daar bovenop probeert uw pensioenfonds uw pensioen/opgebouwde pensioen jaarlijks extra te verhogen (het voorwaardelijke deel van de toeslagverlening).  Uw pensioen/opgebouwde pensioen is dit jaar met <a%> verhoogd.  Uw pensioenfonds heeft uw pensioen/  |
-| --- | --- | --- | --- |financieringswijzen, zoals die hierboven worden beschreven in geval van voorwaardelijke toezeggingen. |dat onvoorwaardelijk is. |opgebouwde pensioen de afgelopen drie jaar als volgt verhoogd:  – Over het jaar <t-1> met <b%>. De prijzen gingen toen met <f%> omhoog  – Over het jaar <t-2> met <c%>. De prijzen gingen toen met <g%> omhoog – Over het jaar <t-3> met <d%>. De prijzen gingen toen met <h%> omhoog |
-| --- | --- | --- | --- | --- | --- | (Een combinatie van financieringswijzen, afhankelijk van de feitelijke omstandigheden:)  Uw pensioenfonds betaalt de toekomstige verhogingen van uw pensioen/opgebouwde pensioen uit beleggingsrendement/premies/bijdragen van de werkgever/reserves van het pensioenfonds/technische voorzieningen van het pensioenfonds.  (Ten aanzien van het voorwaardelijke deel van de toeslagverlening:)  U hebt door deze verhoging en de verwachting voor de komende jaren niet meteen ook recht op verhogingen in de toekomst.  |
-| --- | --- | --- | --- | --- | --- | --- |
-| F.  Onvoorwaardelijke toeslagverlening  | F1  Jaarlijks worden pensioenrechten, slapersrechten en opgebouwde pensioenaanspraken aangepast [aan de prijs- of loonontwikkeling/ <…%>].  | Op pensioenrechten, slapersrechten en opgebouwde pensioenaanspraken wordt onvoor-waardelijk toeslag verleend.  | De toeslagverlening wordt altijd volledig toegekend. De verwachte realisatie is altijd gelijk aan de ambitie.  | De premie voor deze toeslagverlening maakt deel uit van de kostendekkende premie voor de onvoorwaardelijke aanspraken.  | Op de pensioenrechten en pensioenaanspraken wordt jaarlijks toeslag verleend conform de ambitie.  | Uw pensioenfonds verhoogt ieder jaar uw pensioen/opgebouwde pensioen met de prijsontwikkeling/de loonontwikkeling/ <…%>.  Uw pensioen/opgebouwde pensioen is dit jaar met <a%> verhoogd.  Uw pensioenfonds heeft uw pensioen/opgebouwde pensioen de afgelopen drie jaar als volgt verhoogd:  |
-| --- | --- | --- | --- | --- | --- | – Over het jaar <t-1> met <b%>. De prijzen gingen toen met <f%> omhoog  – Over het jaar <t-2> met <c%>. De prijzen gingen toen met <g%> omhoog  – Over het jaar <t-3> met <d%>. De prijzen gingen toen met <h%> omhoog U hebt door deze verhoging en de verwachting voor de komende jaren niet meteen ook recht op verhogingen in de toekomst.  |
-| --- | F2  Jaarlijks worden opgebouwde pensioenaanspraken van de actieve deelnemers aangepast [aan de prijs- of loonontwikkeling/<…%>].  Slapersrechten en pensioenrechten worden   | Zolang de deelnemer aan de pensioenregeling deelneemt wordt op opgebouwde pensioenaanspraken onvoorwaardelijk toeslag verleend.  | De toeslagverlening over opgebouwde pensioenaanspraken wordt gedurende het deelnemerschap altijd volledig toegekend. De verwachte realisatie over opgebouwde pensioenaanspraken is gedurende   | De premie voor de toeslagverlening over opgebouwde pensioenaanspraken van actieve deelnemers maakt deel uit van de kostendekkende premie voor de onvoorwaardelijke aanspraken.  | Op de opgebouwde pensioenaanspraken van actieve deelnemers wordt jaarlijks toeslag verleend conform de ambitie.  Voor slapersrechten en pensioenrechten geldt één van de teksten voor het pensioenreglement, zoals   | Uw pensioenfonds verhoogt ieder jaar uw opgebouwde pensioen tijdens uw deelname aan de pensioenregeling met de prijsontwikkeling/de loonontwikkeling/<…%>.  Uw opgebouwde pensioen is dit jaar met <a%> verhoogd.  Uw pensioenfonds heeft uw opgebouwde pensioen de afgelopen drie jaar als volgt verhoogd:  |
-| --- |aangepast volgens één van de toeslag-categorieën A t/m. E. | --- |het deelnemerschap altijd gelijk aan de ambitie. |Voor het voorwaardelijke deel van deze toeslagverlening gelden de financieringswijzen, zoals die hierboven worden beschreven volgens één van de toeslagcategorieën A t/m. E. |opgenomen onder één van de toeslagcategorieën A t/m. E. |– Over het jaar <t-1> met <b%>. De prijzen gingen toen met <f%> omhoog  – Over het jaar <t-2> met <c%>. De prijzen gingen toen met <g%> omhoog  – Over het jaar <t-3> met <d%>. De prijzen gingen toen met <h%> omhoog  U hebt door deze verhoging en de verwachting voor de komende jaren niet meteen ook recht op verhogingen in de toekomst.  |
-
-####*Onderdeel b van bijlage 1a*
-
-Matrix verzekerde regelingen ten aanzien van toeslagen over pensioenaanspraken en pensioenrechten (is toeslag voor pensioengerechtigden, gewezen deelnemers en deelnemers):  
-
-| Toeslagenbeleid, financiering en communicatie aan deelnemers→  | Toeslagenbeleid  | Financiering  | Voorwaardelijkheidsverklaring  | Voorwaardelijkheidsverklaring  | Toeslag-categorie    I  <sup>V</sup>  | Ambitie  | Methode voor toekenning  | Verwachte realisatie  | Financieringswijze toeslagverlening  | Informatie in pensioenreglement en uitvoeringsovereenkomst  | Informatie aan de (gewezen) deelnemer/pensioengerechtigde bij het verhogen van het pensioen of opgebouwde pensioen, over de verhoging zelf en over de inhoud van de regeling  Volledige tekst op te nemen in alle persoonlijke uitingen. In de startbrief worden alleen de eerste en laatste zin opgenomen.  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| --- | --- | --- | --- | --- | --- | --- |
-| A.  Geen beleid over toeslagverlening  | Er is geen ambitie om toeslagen te geven op pensioenrechten en pensioenaanspraken  | Er is geen maatstaf, omdat de eventuele toekenning van toeslagen berust op incidentele beslissingen van de werkgever.  | De deelnemers en gepensioneerden moeten er van uitgaan dat ze geen toeslag zullen krijgen.  | Omdat er geen toeslagenbeleid is, hoeft er ook niets gefinancierd te worden.  | Op de pensioenrechten en pensioenaanspraken worden geen toeslagen verleend. De werkgever kan evenwel besluiten om in enig jaar een incidentele toeslag te verlenen.  | Uw (ex-)werkgever verhoogt uw pensioen/opgebouwde pensioen normaal niet.  Uw pensioen/opgebouwde pensioen is dit jaar met <a%> verhoogd.  Uw pensioen/opgebouwde pensioen is de afgelopen drie jaar als volgt verhoogd:  – Over het jaar <t-1> met <b%>. De prijzen gingen toen met <f%> omhoog  |
-| --- | --- | --- | --- | --- | --- | – Over het jaar <t-2> met <c%>. De prijzen gingen toen met <g%> omhoog  – Over het jaar <t-3> met <d%>. De prijzen gingen toen met <h%> omhoog U hebt door deze verhoging niet meteen ook recht op verhogingen in de toekomst.  |
-| --- | --- | --- | --- | --- | --- | --- |
-| B.  Geen doelgericht toeslagbeleid  | Er is geen ambitie om jaarlijks toeslagen te geven op pensioenrechten en pensioenaanspraken  | Er is geen maatstaf, omdat de eventuele toekenning van toeslagen berust op jaarlijkse beslissingen van de werkgever.  | De deelnemers en gepensioneerden moeten er van uitgaan dat ze geen jaarlijkse toeslag zullen krijgen.  | Omdat er geen doelgericht toeslagenbeleid is, hoeft er ook niets gefinancierd te worden.  | De werkgever besluit jaarlijks of een toeslag wordt verleend.  | Uw (ex-)werkgever besluit jaarlijks of hij uw pensioen/opgebouwde pensioen verhoogd.  Uw pensioen/opgebouwde pensioen is dit jaar met <a%> verhoogd.  Uw pensioen/opgebouwde pensioen is de afgelopen drie jaar als volgt verhoogd:  |
-| --- | --- | --- | --- | --- | --- | – Over het jaar <t-1> met <b%>. De prijzen gingen toen met <f%> omhoog  – Over het jaar <t-2> met <c%>. De prijzen gingen toen met <g%> omhoog  – Over het jaar <t-3> met <d%>. De prijzen gingen toen met <h%> omhoog U hebt door deze verhoging niet meteen ook recht op verhogingen in de toekomst.  |
-| --- | --- | --- | --- | --- | --- | --- |
-| C.  Voorwaardelijke toeslagverlening, niet gekoppeld aan een ex ante bepaalde maatstaf  | C.1. → voorwaardelijke toeslagverlening op basis van winstdeling bij de verzekeraar/extra middelen die de werkgever beschikbaar stelt.  De ambitie is om jaarlijks de pensioenrechten en pensioenaanspraken   | Geëxpliciteerd moet worden op welke wijze wordt bepaald hoe hoog de daadwerkelijke toekenning zal zijn. In deze situatie gebeurt dat door jaarlijks de beschikbare middelen van de werkgever en/of   | Uit de rekentool voor verzekeraars blijkt welke gemiddelde toekenning op de lange termijn realistisch is. Aangezien er geen ex ante bepaalde maatstaf is, is de verwachte realisatie tevens de ambitie.  | De voorwaardelijke toeslagverlening wordt gefinancierd uit winstdeling die de werkgever van de verzekeraar ontvangt en/of middelen die de werkgever extra beschikbaar stelt.  | Op de pensioenrechten en pensioenaanspraken worden in beginsel jaarlijks toeslagen verleend. De werkgever beslist evenwel jaarlijks in hoeverre pensioenrechten en pensioenaanspraken worden aangepast. De hoogte van   | Uw (ex-)werkgever probeert ieder jaar uw pensioen/opgebouwde pensioen te verhogen.  Uw pensioen/opgebouwde pensioen is dit jaar met <a%> verhoogd.  Uw pensioen/opgebouwde pensioen is de afgelopen drie jaar als volgt verhoogd:  – Over het jaar <t-1> met <b%>. De prijzen gingen toen met <f%> omhoog |
-| --- | aan te passen. Hoe hoog de toeslag is, is afhankelijk van de winstdeling die de werkgever van de verzekeraar ontvangt en/of van de middelen die de werkgever extra beschikbaar stelt. | de winstdeling die de werkgever van de verzekeraar ontvangt, aan te wenden voor toeslagverlening. | --- | --- | de toeslagverlening is afhankelijk van de winstdeling die de werkgever van de verzekeraar ontvangt en/of de middelen die de werkgever hiervoor extra beschikbaar stelt. | – Over het jaar <t-2> met <c%>. De prijzen gingen toen met <g%> omhoog  – Over het jaar <t-3> met <d%>. De prijzen gingen toen met <h%> omhoog  Uw werkgever betaalt de toekomstige verhogingen van uw pensioen/opgebouwde pensioen uit winstdeling die hij van de verzekeraar ontvangt en/of extra middelen die hij hiervoor beschikbaar stelt. U hebt door deze verhoging en de verwachting voor de komende jaren niet meteen ook recht op verhogingen in de toekomst.  |
-| --- | C.2. → voorwaardelijke toeslagverlening op basis van een bestemmingsreserve/depot  De ambitie is om jaarlijks de pensioenrechten en pensioenaanspraken aan te passen. Hoe hoog de toeslag is, is afhankelijk van de bestemmingsreserve/depot.  | Geëxpliciteerd moet worden op welke wijze wordt bepaald hoe hoog de daadwerkelijke toekenning zal zijn.  In deze situatie gebeurt dat door jaarlijks een deel van de aanwezige bestemmingsreserve/depot aan te wenden voor toeslagverlening.  | Uit de rekentool voor verzekeraars blijkt welke gemiddelde toekenning op de lange termijn realistisch is. Aangezien er geen ex ante bepaalde maatstaf, is de verwachte realisatie tevens de ambitie.  | De voorwaardelijke toeslagverlening wordt gefinancierd uit een bestemmingsreserve of een depot.  | Op de pensioenrechten en pensioenaanspraken worden in beginsel jaarlijks toeslagen verleend. De werkgever beslist evenwel jaarlijks in hoeverre pensioenrechten en pensioenaanspraken worden aangepast. Voor deze voorwaardelijke toeslagverlening heeft de werkgever een bestemmingsreserve of een depot gevormd.  | Uw (ex-)werkgever probeert ieder jaar uw pensioen/opgebouwde pensioen te verhogen.  Uw pensioen/opgebouwde pensioen is dit jaar met <a%> verhoogd.  Uw pensioen/opgebouwde pensioen is de afgelopen drie jaar als volgt verhoogd:  – Over het jaar <t-1> met <b%>. De prijzen gingen toen met <f%> omhoog  – Over het jaar <t-2> met <c%>. De prijzen gingen toen met <g%> omhoog  – Over het jaar <t-3> met <d%>. De prijzen gingen toen met <h%> omhoog  |
-| --- | --- | --- | --- | --- | De jaarlijkse dotatie aan de bestemmingsreserve wordt door de werkgever bepaald. Aan een depot wordt jaarlijks een deel van de winstdeling bij de verzekeraar toegevoegd, eventueel vermeerderd met eigen middelen van de werkgever. | Uw werkgever betaalt de toekomstige verhogingen van uw pensioen/opgebouwde pensioen uit geld dat hij daarvoor gereserveerd heeft. U hebt door deze verhoging en de verwachting voor de komende jaren niet meteen ook recht op verhogingen in de toekomst.  |
-| --- | --- | --- | --- | --- | --- | --- |
-| D.  Voorwaardelijke toeslagverlening gekoppeld aan een ex ante bepaalde maatstaf.  | D. → voorwaardelijke toeslagverlening op basis van een ex ante bepaalde maatstaf  De ambitie is om jaarlijks pensioenrechten en pensioen-aanspraken aan te passen aan [de prijs- of loon-ontwikkeling/  <…%>].  | Geëxpliciteerd moet worden op welke wijze wordt bepaald hoe hoog de daadwerkelijke toekenning zal zijn.  | Uit de rekentool voor verzekeraars blijkt welke gemiddelde toekenning op de lange termijn te verwachten is ten opzichte van de ex ante bepaalde maatstaf.  | D.1. → financiering uit de winstdeling van de verzekeraar/extra middelen die de werkgever beschikbaar stelt  De voorwaardelijke toeslagverlening wordt gefinancierd uit winstdeling die de werkgever van de verzekeraar ontvangt.  | Op de pensioenrechten en pensioenaanspraken wordt jaarlijks toeslag verleend van maximaal [de ex ante bepaalde maatstaf]. De werkgever beslist evenwel jaarlijks in hoeverre pensioenrechten en pensioenaanspraken worden aangepast.  Voor deze voorwaardelijke toeslagverlening is geen   | Uw (ex-)werkgever probeert ieder jaar uw pensioen/opgebouwde pensioen te verhogen met de prijsontwikkeling/de loonontwikkeling/<…%>.  Uw pensioen/opgebouwde pensioen is dit jaar met <a%> verhoogd.  Uw pensioen/opgebouwde pensioen is de afgelopen drie jaar als volgt verhoogd:  – Over het jaar <t-1> met <b%>. De prijzen gingen toen met <f%> omhoog  – Over het jaar <t-2> met <c%>. De prijzen gingen toen met <g%> omhoog |
-| --- | --- | --- | --- | --- |reserve gevormd en wordt geen premie betaald. De hoogte van de toeslagverlening is afhankelijk van de winstdeling die de werkgever van de verzekeraar ontvangt en/of de middelen die de werkgever hiervoor extra beschikbaar stelt. | – Over het jaar <t-3> met <d%>. De prijzen gingen toen met <h%> omhoog  Uw werkgever betaalt de toekomstige verhogingen van uw pensioen/opgebouwde pensioen uit winstdeling hij van de verzekeraar ontvangt en/of extra middelen die hij hiervoor beschikbaar stelt.  U hebt door deze verhoging en de verwachting voor de komende jaren niet meteen ook recht op verhogingen in de toekomst. |
-| --- | --- | --- | --- | D.2. → financiering van de toeslagverlening uit een opslag op de premie  De voorwaardelijke toeslagverlening wordt gefinancierd uit een opslag op de premie, waarvan de hoogte is gerelateerd aan de ambitie.  | Op de pensioenrechten en pensioenaanspraken wordt jaarlijks toeslag verleend van maximaal [de ex ante bepaalde maatstaf]. De werkgever beslist evenwel jaarlijks in hoeverre pensioenrechten en pensioenaanspraken worden aangepast.  | Uw (ex-)werkgever probeert ieder jaar uw pensioen/opgebouwde pensioen te verhogen met de prijsontwikkeling/de loonontwikkeling/<…%>..  Uw pensioen/opgebouwde pensioen is dit jaar met <a%> verhoogd.  Uw pensioen/opgebouwde pensioen is de afgelopen drie jaar als volgt verhoogd:  – Over het jaar <t-1> met <b%>. De prijzen gingen toen met <f%> omhoog  |
-| --- | --- | --- | --- | --- | Voor deze voorwaardelijke toeslagverlening is geen reserve gevormd. De toeslagverlening wordt uit premies gefinancierd. | – Over het jaar <t-2> met <c%>. De prijzen gingen toen met <g%> omhoog  – Over het jaar <t-3> met <d%>. De prijzen gingen toen met <h%> omhoog  De toekomstige verhogingen van uw pensioen/opgebouwde pensioen worden betaald uit premies. U hebt door deze verhoging en de verwachting voor de komende jaren niet meteen ook recht op verhogingen in de toekomst.  |
-| --- | --- | --- | --- | D.3. → financiering van de toeslagverlening uit een koopsomstorting door de werkgever.  De werkgever heeft toegezegd jaarlijks een bedrag te storten, waarvan de hoogte is gerelateerd aan de ambitie.  | Op de pensioenrechten en pensioenaanspraken wordt jaarlijks toeslag verleend van maximaal [de ex ante bepaalde maatstaf]. De werkgever beslist evenwel jaarlijks in hoeverre pensioenrechten en pensioenaanspraken worden aangepast.  | Uw (ex-)werkgever probeert ieder jaar uw pensioen/opgebouwde pensioen te verhogen met de prijsontwikkeling/de loonontwikkeling/<…%>.  Uw pensioen/opgebouwde pensioen is dit jaar met <a%> verhoogd.  Uw pensioen/opgebouwde pensioen is de afgelopen drie jaar als volgt verhoogd:  – Over het jaar <t-1> met <b%>. De prijzen gingen toen met <f%> omhoog  |
-| --- | --- | --- | --- | --- | Voor deze voorwaardelijke toeslagverlening is geen reserve gevormd. De toeslagverlening wordt uit bijdragen van de werkgever gefinancierd. | – Over het jaar <t-2> met <c%>. De prijzen gingen toen met <g%> omhoog  – Over het jaar <t-3> met <d%>. De prijzen gingen toen met <h%> omhoog  Uw werkgever betaalt de toekomstige verhogingen van uw pensioen/opgebouwde pensioen uit geld dat uw werkgever daarvoor bij de verzekeraar zal storten. U hebt door deze verhoging en de verwachting voor de komende jaren niet meteen ook recht op verhogingen in de toekomst.  |
-| --- | --- | --- | --- | D.4. → financiering met behulp van een bestemmingsreserve/depot  De voorwaardelijke toeslagverlening wordt gefinancierd uit een bestemmingsreserve of een depot.  | Op de pensioenrechten en pensioenaanspraken wordt jaarlijks toeslag verleend van maximaal [de ex ante bepaalde maatstaf]. De werkgever beslist evenwel jaarlijks in hoeverre pensioenrechten en pensioenaanspraken worden aangepast.  | Uw (ex-)werkgever probeert ieder jaar uw pensioen/opgebouwde pensioen te verhogen met de prijsontwikkeling/de loonontwikkeling/<…%>.  Uw pensioen/opgebouwde pensioen is dit jaar met <a%> verhoogd.  Uw pensioen/opgebouwde pensioen is de afgelopen drie jaar als volgt verhoogd:  – Over het jaar <t-1> met <b%>. De prijzen gingen toen met <f%> omhoog  |
-| --- | --- | --- | --- | --- | Voor deze voorwaardelijke toeslagverlening heeft de werkgever een bestemmingsreserve of een depot gevormd.  De jaarlijkse dotatie aan de bestemmingsreserve wordt door de werkgever bepaald. Aan een depot wordt jaarlijks een deel van de winstdeling bij de verzekeraar toegevoegd, eventueel vermeerderd met extra middelen die de werkgever beschikbaar stelt. | – Over het jaar <t-2> met <c%>. De prijzen gingen toen met <g%> omhoog  – Over het jaar <t-3> met <d%>. De prijzen gingen toen met <h%> omhoog  Uw werkgever betaalt de toekomstige verhogingen van uw pensioen/opgebouwde pensioen uit geld dat hij daarvoor gereserveerd heeft. U hebt door deze verhoging en de verwachting voor de komende jaren niet meteen ook recht op verhogingen in de toekomst.  |
-| --- | --- | --- | --- | D.5. → financiering met behulp van een vrijwillig gevormde voorziening  De voorwaardelijke toeslagverlening wordt gefinancierd uit een vrijwillig gevormde voorziening, waarvan de hoogte is gerelateerd aan de ambitie.  | Op de pensioenrechten en pensioenaanspraken wordt jaarlijks toeslag verleend van maximaal de [de ex ante bepaalde maatstaf] . De werkgever beslist evenwel jaarlijks in hoeverre pensioenrechten en pensioenaanspraken worden aangepast.  Voor deze voorwaardelijke toeslagverlening heeft de werkgever een voorziening   | Uw (ex-)werkgever probeert ieder jaar uw pensioen/opgebouwde pensioen te verhogen met de prijsontwikkeling/de loonontwikkeling/<…%>.  Uw pensioen/opgebouwde pensioen is dit jaar met <a%> verhoogd.  Uw pensioen/opgebouwde pensioen is de afgelopen drie jaar als volgt verhoogd:  – Over het jaar <t-1> met <b%>. De prijzen gingen toen met <f%> omhoog  – Over het jaar <t-2> met <c%>. De prijzen gingen toen met <g%> omhoog  – Over het jaar <t-3> met <d%>. De prijzen   |
-| --- | --- | --- | --- | --- | gevormd. Deze voorziening kan alleen voor toekomstige toeslagverlening worden aangewend. | gingen toen met <h%> omhoog  Uw werkgever betaalt de toekomstige verhogingen van uw pensioen/opgebouwde pensioen uit geld dat hij daarvoor gereserveerd heeft. U hebt door deze verhoging en de verwachting voor de komende jaren niet meteen ook recht op verhogingen in de toekomst.  |
-| --- | --- | --- | --- | D.6 Combinaties van D.1. tot en met D.5.  | Op de pensioenrechten en pensioenaanspraken wordt jaarlijks toeslag verleend van maximaal [de ex ante bepaalde maatstaf]. De werkgever beslist evenwel jaarlijks in hoeverre pensioenrechten en pensioenaanspraken worden aangepast.  | Uw (ex-)werkgever probeert ieder jaar uw pensioen/opgebouwde pensioen te verhogen met de prijsontwikkeling/de loonontwikkeling/<…%>.  Uw pensioen/opgebouwde pensioen is dit jaar met <a%> verhoogd.  Uw pensioen/opgebouwde pensioen is de afgelopen drie jaar als volgt verhoogd:  – Over het jaar <t-1> met <b%>. De prijzen gingen toen met <f%> omhoog  |
-| --- | --- | --- | --- | --- | Voor deze voorwaardelijke toeslagverlening [is geen reserve gevormd en wordt geen premie betaald, maar wordt uit winstdeling van de verzekeraar gefinancierd / is geen  | – Over het jaar <t-2> met <c%>. De prijzen gingen toen met <g%> omhoog  – Over het jaar <t-3> met <d%>. De prijzen gingen toen met <h%> omhoog  (Een combinatie van financieringswijzen, afhankelijk van de feitelijke omstandigheden:)  Uw werkgever betaalt de toekomstige   |
-| --- | --- | --- | --- | --- |reserve gevormd, maar wordt een opslag op de premie betaald / is geen reserve gevormd maar wordt door de werkgever voldaan / is een bestemmingsreserve/ depot gevormd / is een voorziening gevormd / stelt uw werkgever extra middelen beschikbaar]. |verhogingen van uw pensioen/opgebouwde pensioen uit winstdeling van de verzekeraar/een opslag op de premie/bijdragen van de  werkgever/geld dat hij daarvoor gereserveerd heeft/extra middelen die hij daarvoor beschikbaar stelt. U hebt door deze verhoging en de verwachting voor de komende jaren niet meteen ook recht op verhogingen in de toekomst. |
-| --- | --- | --- | --- | --- | --- | --- |
-| E.  Combinatie van onvoorwaardelijke en voorwaardelijke toeslagverlening  | De ambitie is om jaarlijks pensioenrechten en pensioen-aanspraken aan te passen [aan de prijs- of loon-ontwikkeling/  <…%>].  | Het onvoorwaardelijke deel van de toeslagverlening wordt altijd toegekend. Voor het voorwaardelijke deel moet geëxpliciteerd worden op welke wijze   | Het onvoorwaardelijke deel van de toeslagverlening wordt altijd volledig toegekend. De verwachte realisatie voor dit deel is dan ook gelijk aan de ambitie.  | Voor het onvoorwaardelijke deel van deze toeslagverlening is de werkgever een koopsom verschuldigd waarmee de toekomstige toeslagen gefinancierd   | Op de pensioenrechten en pensioenaanspraken wordt jaarlijks toeslag verleend van maximaal [de ex ante bepaalde maatstaf]. Ten aanzien van de voorwaardelijke toeslagverlening   | Uw (ex-)werkgever verhoogt ieder jaar uw pensioen/opgebouwde pensioen met de prijsontwikkeling/de loonontwikkeling/ <…%>.  U hebt recht op een jaarlijkse verhoging van uw pensioen/opgebouwde pensioen (het onvoorwaardelijke deel van   |
-| --- | --- |wordt bepaald hoe hoog de daadwerkelijke toekenning zal zijn. Voor het voorwaardelijke deel moet geëxpliciteerd worden hoe hoog de daadwerkelijke toekenning zal zijn. |Voor het voorwaardelijke deel moet uit de rekentool voor verzekeraars blijken welke gemiddelde toekenning op de lange termijn te verwachten is ten opzichte van de ex ante bepaalde maatstaf |worden.  Voor het voorwaardelijke deel van deze toeslagverlening gelden de financieringswijzen, zoals die hierboven worden beschreven in geval van voorwaardelijke toezeggingen. |beslist de werkgever evenwel jaarlijks in hoeverre pensioenrechten en pensioenaanspraken worden aangepast. De jaarlijkse toeslagverlening is echter nooit lager dan het deel van de toeslagverlening dat onvoorwaardelijk is. |toeslagverlening). Daar bovenop probeert uw werkgever uw pensioen/opgebouwde pensioen jaarlijks extra te verhogen (het voorwaardelijke deel van de toeslagverlening).  Uw pensioen/opgebouwde pensioen is dit jaar met <a%> verhoogd.  Uw pensioen/opgebouwde pensioen is de afgelopen drie jaar als volgt verhoogd: |
-| --- | --- | --- | --- | --- | --- | – Over het jaar <t-1> met <b%>. De prijzen gingen toen met <f%> omhoog  – Over het jaar <t-2> met <c%>. De prijzen gingen toen met <g%> omhoog  – Over het jaar <t-3> met <d%>. De prijzen gingen toen met <h%> omhoog  (Een combinatie van financieringswijzen, afhankelijk van de feitelijke omstandigheden:)  |
-| --- | --- | --- | --- | --- | --- |Uw werkgever betaalt de toekomstige verhogingen van uw pensioen/opgebouwde pensioen uit winstdeling van de verzekeraar/ een opslag op de premie / bijdragen van de werkgever / geld dat hij daarvoor gereserveerd heeft / extra middelen die hij daarvoor beschikbaar stelt.  |
-| --- | --- | --- | --- | --- | --- |(Ten aanzien van het voorwaardelijke deel van de toeslagverlening:) U hebt door deze verhoging en de verwachting voor de komende jaren niet meteen ook recht op verhogingen in de toekomst. |
-| --- | --- | --- | --- | --- | --- | --- |
-| F.  Onvoorwaardelijke toeslagverlening  | F1  Jaarlijks worden pensioenrechten, slapersrechten en opgebouwde pensioen-aanspraken aangepast [aan de prijs- of loonontwikkeling/  <…%>].  | Op ingegane pensioenen, slapersrechten en opgebouwde pensioenaanspraken wordt onvoorwaardelijk toeslag verleend.  | De toeslagverlening wordt altijd volledig toegekend. De verwachte realisatie is altijd gelijk aan de ambitie.  | Voor deze toeslagverlening is de werkgever een koopsom verschuldigd waarmee de toekomstige toeslagen gefinancierd worden.  | Op de pensioenrechten en pensioenaanspraken wordt jaarlijks toeslag verleend conform de ambitie.  | Uw (ex-)werkgever verhoogt uw pensioen/opgebouwde pensioen jaarlijks met de prijsontwikkeling/de loonontwikkeling/<…%>.  Uw pensioen/opgebouwde pensioen is dit jaar met <a%> verhoogd.  Uw pensioen/opgebouwde pensioen is de afgelopen drie jaar als volgt verhoogd:  – Over het jaar <t-1> met <b%>. De prijzen gingen toen met <f%> omhoog  |
-| --- | --- | --- | --- | --- | --- | – Over het jaar <t-2> met <c%>. De prijzen gingen toen met <g%> omhoog  – Over het jaar <t-3> met <d%>. De prijzen gingen toen met <h%> omhoog Uw werkgever betaalt de toekomstige verhogingen van uw pensioen/opgebouwde pensioen uit geld dat hij daarvoor bij de verzekeraar heeft gestort.  |
-| --- | F2  Jaarlijks worden opgebouwde pensioenaanspraken van de actieve deelnemers aangepast [aan de prijs- of loonontwikkeling/<…%>].  | Zolang de deelnemer aan de pensioenregeling deelneemt wordt op opgebouwde pensioenaanspraken onvoorwaardelijk toeslag verleend.  | De toeslagverlening over opgebouwde pensioenaanspraken wordt gedurende het deelnemerschap altijd volledig toegekend. De verwachte realisatie over opge-  | Voor de toeslagen op het opgebouwde pensioen van actieve deelnemers is de werkgever jaarlijks een koopsom verschuldigd.  Voor toeslagen op inge-  | Op de opgebouwde pensioenaanspraken wordt tijdens de deelneming jaarlijks toeslag verleend conform de ambitie.  Voor slapersrechten en pensioenrechten geldt één   | Uw werkgever verhoogt ieder jaar uw opgebouwde pensioen tijdens uw deelname aan de pensioenregeling met de prijsontwikkeling/de loonontwikkeling/<…%>.  Uw opgebouwde pensioen is dit jaar met <a%> verhoogd.  Uw opgebouwde pensioen is de afgelopen  |
-| --- |Slapersrechten en pensioenrechten worden aangepast volgens één van de toeslagcategorieën A t/m. E. | --- |bouwde pensioenaanspraken is gedurende het deelnemerschap is altijd gelijk aan de ambitie. |gane pensioenen en slapersrechten geldt één van de financieringswijzen zoals die hierboven zijn beschreven onder één van de toeslagcategorieën A t/m. E. |van de teksten voor het pensioenreglement, zoals opgenomen onder één van de toeslagcategorieën A t/m. E. |drie jaar als volgt verhoogd:  – Over het jaar <t-1> met <b%>. De prijzen gingen toen met <f%> omhoog  – Over het jaar <t-2> met <c%>. De prijzen gingen toen met <g%> omhoog  – Over het jaar <t-3> met <d%>. De prijzen gingen toen met <h%> omhoog  Uw werkgever betaalt de toekomstige verhogingen van uw opgebouwde pensioen uit geld dat hij daarvoor bij de verzekeraar moet storten. |
-
 ### Bijlage  1b  
 
 | soort deelnemer /  soort regeling  |--- |--- |--- |--- |--- |--- |--- |--- | Deelnemer  | Gewezen deelnemer  | Pensioengerechtigde  |
@@ -668,40 +491,51 @@ Matrix verzekerde regelingen ten aanzien van toeslagen over pensioenaanspraken e
 
 ### Bijlage 3 
 
-####als bedoeld in de artikelen 24 , 25  en 29 
+####als bedoeld in de artikelen 24  en 25  van de Regeling Pensioenwet en Wet verplichte beroepspensioenregeling
 
-#### *Artikel 1. Rentefactoren voor het bepalen van het vereist eigen vermogen voor renterisico* 
+### Artikel  1  
 
-|--- | Rentefactor  | Rentefactor  |--- | Rentefactor  | Rentefactor  |--- |--- |--- |--- |--- |--- | Looptijd  | Stijging  | daling  | looptijd  | Stijging  | Daling  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| 1 (jaar)  | 1,60  | 0,63  | 16  | 1,29  | 0,77  |
-| 2  | 1,51  | 0,66  | 17  | 1,29  | 0,77  |
-| 3  | 1,45  | 0,69  | 18  | 1,29  | 0,77  |
-| 4  | 1,41  | 0,71  | 19  | 1,28  | 0,78  |
-| 5  | 1,37  | 0,73  | 20  | 1,28  | 0,78  |
-| 6  | 1,35  | 0,74  | 21  | 1,28  | 0,78  |
-| 7  | 1,34  | 0,75  | 22  | 1,28  | 0,78  |
-| 8  | 1,33  | 0,75  | 23  | 1,28  | 0,78  |
-| 9  | 1,33  | 0,75  | 24  | 1,28  | 0,78  |
-| 10  | 1,32  | 0,76  | 25  | 1,27  | 0,79  |
-| 11  | 1,32  | 0,76  | >25  | 1,27  | 0,79  |
-| 12  | 1,31  | 0,77  | --- | --- | --- |
-| 13  | 1,31  | 0,77  | --- | --- | --- |
-| 14  | 1,31  | 0,77  | --- | --- | --- |
-| 15  | 1,29  | 0,77  | --- | --- | --- |
+####Rentefactoren voor het bepalen van het vereist eigen vermogen voor renterisico
 
-#### *Artikel 2. Formules en procedure standaardmodel* 
+|--- | Rentefactor Nominale rente  |--- |--- | Rentefactor  Reële rente  |--- | Looptijd  | Stijging  | Daling  | Looptijd  | Stijging  | Daling  |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| 1 (jaar)  | 2,05  | 0,49  | 1 (jaar)  | 1,53  | 0,75  |
+| 2  | 1,79  | 0,56  | 2  | 1,40  | 0,78  |
+| 3  | 1,65  | 0,61  | 3  | 1,33  | 0,81  |
+| 4  | 1,55  | 0,64  | 4  | 1,28  | 0,82  |
+| 5  | 1,49  | 0,67  | 5  | 1,25  | 0,84  |
+| 6  | 1,44  | 0,70  | 6  | 1,22  | 0,85  |
+| 7  | 1,40  | 0,71  | 7  | 1,20  | 0,86  |
+| 8  | 1,37  | 0,73  | 8  | 1,19  | 0,87  |
+| 9  | 1,35  | 0,74  | 9  | 1,18  | 0,87  |
+| 10  | 1,34  | 0,75  | 10  | 1,17  | 0,88  |
+| 11  | 1,33  | 0,75  | 11  | 1,17  | 0,88  |
+| 12  | 1,33  | 0,75  | 12  | 1,17  | 0,88  |
+| 13  | 1,33  | 0,75  | 13  | 1,17  | 0,88  |
+| 14  | 1,33  | 0,75  | 14  | 1,17  | 0,88  |
+| 15  | 1,33  | 0,75  | 15  | 1,17  | 0,88  |
+| 16  | 1,32  | 0,76  | 16  | 1,16  | 0,88  |
+| 17  | 1,32  | 0,76  | 17  | 1,16  | 0,88  |
+| 18  | 1,32  | 0,76  | 18  | 1,16  | 0,88  |
+| 19  | 1,32  | 0,76  | 19  | 1,16  | 0,88  |
+| 20  | 1,32  | 0,76  | 20  | 1,16  | 0,88  |
+| 21  | 1,32  | 0,76  | 21  | 1,16  | 0,88  |
+| 22  | 1,32  | 0,76  | 22  | 1,16  | 0,88  |
+| 23  | 1,32  | 0,76  | 23  | 1,16  | 0,88  |
+| 24  | 1,32  | 0,76  | 24  | 1,16  | 0,88  |
+| 25  | 1,32  | 0,76  | 25  | 1,16  | 0,88  |
+| > 25  | 1,32  | 0,76  | > 25  | 1,16  | 0,88  |
 
-Het vereist eigen vermogen per risicofactor als bedoeld in artikel 24 wordt als volgt aangeduid: S<sub>1</sub> voor het vereist eigen vermogen voor het renterisico. S<sub>2</sub> voor het vereist eigen vermogen voor het aandelen- en vastgoedrisico. S<sub>3</sub> voor het vereist eigen vermogen voor het valutarisico. S<sub>4</sub> voor het vereist eigen vermogen voor het grondstoffenrisico. S<sub>5</sub> voor het vereist eigen vermogen voor het kredietrisico. S<sub>6</sub> voor het vereist eigen vermogen voor het verzekeringstechnische risico. S<sub>7</sub> voor het vereist eigen vermogen voor het liquiditeitsrisico. S<sub>8</sub> voor het vereist eigen vermogen voor het concentratierisico. S<sub>9</sub> voor het vereist eigen vermogen voor het operationeel risico. Het vereist eigen vermogen wordt bepaald aan de hand van de volgende formule en op basis van onderstaande procedure: ![241927](http://wetten.overheid.nl/Illustration/241927)
-waarbij ρ = 0,50. Daarbij zal deze formule worden aangepast als aan de risicofactoren S<sub>7</sub>, S<sub>8</sub> en S<sub>9</sub> waarden worden toegekend. Het vereist eigen vermogen van het fonds, als bedoeld in artikel 132 van de Pensioenwet dan wel artikel 127 van de Wet verplichte beroepspensioenregeling, wordt bepaald aan de hand van een iteratief proces. Dit proces bestaat uit het herhaald toepassen van het standaardmodel. Het beleggingsbeleid met de bijbehorende beleggingskarakteristieken blijft daarbij gelijk. Het belegde vermogen in de tweede toepassing en in iedere daaropvolgende herhaalde toepassing is gelijk aan het belegde vermogen in de daaraan voorafgaande toepassing minus het aan het eind van de daaraan voorafgaande toepassing bepaalde verschil tussen het eigen vermogen en de uitkomst van de formule. De herhalingsprocedure stopt indien dit verschil niet langer significant is. Dit is doorgaans het geval na twee herhalingen. De uitkomst van de formule is dan gelijk aan het vereist eigen vermogen. In deze formule komt het vereist vermogen voor het aandelen- en vastgoedrisico S 2 als volgt tot stand. In artikel 25 is bepaald dat in het standaardmodel bij de aggregatie van het vereist eigen vermogen voor respectievelijk aandelen ontwikkelde markten en indirect vastgoed (S 2A ), aandelen opkomende markten (S 2B ), niet-beursgenoteerde aandelen (S 2C ) en direct vastgoed (S 2D ) tot het totale vereist eigen vermogen voor aandelen- en vastgoedrisico (S 2 ) rekening wordt gehouden met de mogelijke statistische samenhang tussen de effecten van de scenario’s. Bij de aggregatie wordt uitgegaan van een uniforme correlatie ρ’ van 0,75. De componenten S 2A tot en met S 2D worden vervolgens gecombineerd tot het totaal vereist eigen vermogen voor aandelen- en vastgoedrisico S 2 aan de hand van de formule: ![241928](http://wetten.overheid.nl/Illustration/241928)
-Waarbij ρ' = 0,75. 
+Het scenario voor renterisico wordt bepaald door de rentefactoren in de tabel toe te passen op de rentetermijnstructuur, gepubliceerd door De Nederlandsche Bank, per looptijd te vermenigvuldigen met hetzij de rentefactoren voor een rentestijging dan wel de rentefactoren voor een rentedaling, afhankelijk wat voor het fonds het meest negatieve scenario is. In het algemeen gaat het dan om een rentedaling. Indien de rente bij looptijd 16 jaar bijvoorbeeld 4% is, moet in de bepaling van de rentegevoeligheid voor deze looptijd rekening gehouden worden met een rentedaling met 0,96%-punt (= (0,76 -1)* 4%) dan wel met een rentestijging met 1,28%-punt (= (1,32 -1)* 4%). Voor beleggingen die gerelateerd zijn aan de reële rente, zoals inflation linked bonds, worden kleinere renteschokken toegepast (rechts in de tabel). Verondersteld is dat 50% van de nominale renteschok zichtbaar is in een schok in de reële rente en dat de overige 50% toegeschreven kan worden aan een mutatie in de (break-even) inflatie.
 
-#### *Artikel 3. Benaderingsmethode renterisico* 
+### Artikel  2  
 
-In de benaderingsmethode als bedoeld in artikel 29, derde lid, wordt het renterisico bepaald op basis van een gewogen gemiddelde looptijd van de verplichtingen (de zogenaamde ‘duration’). Het toepassen van deze benaderingsmethode is echter alleen toegestaan indien er geen rentederivaten of impliciete ‘contingent interest rate claims’ aanwezig zijn. Een fonds met een ‘duration’ van 16 jaar zal in de benaderingsmethode bij een rente van bijvoorbeeld 4% in de bepaling van de rentegevoeligheid van de verplichtingen rekening dienen te houden met een rentedaling tot 3,08% (= 0,77 * 4%) en met een rentestijging tot 5,16% (= 1,29 * 4%). In de benaderingsmethode vindt de bepaling van de waardeverandering van de rentegevoelige beleggingen c.q. pensioenverplichtingen in het rentescenario van de stijging/daling van de rentetermijnstructuur plaats aan de hand van de volgende niet-lineaire benadering: ![241929](http://wetten.overheid.nl/Illustration/241929)
-Hierin is ‘Waarde’ de actuele waarde van de beleggingen c.q. pensioenverplichtingen, ‘duration’ de gewogen gemiddelde looptijd van de beleggingen c.q. pensioenverplichtingen, r<sub>initieel</sub> de rente uit de rentetermijnstructuur met looptijd die correspondeert met de ‘duration’ en r<sub>scenario</sub> de rente in het scenario van een stijging/daling van de rentetermijnstructuur met looptijd die correspondeert met de ‘duration’. Instellingen bepalen allereerst de waardeverandering van alle rentegevoelige beleggingen en de waardeverandering van alle verplichtingen voor het scenario van de stijgende en de dalende rentecurve. Het grootste netto verlies van beide scenario’s bepaalt het vereist eigen vermogen voor renterisico. 
+####Formules en procedure standaardmodel
 
-#### *Artikel 4. Benaderingsmethode kredietrisico* 
-
-Pensioenfondsen mogen tot 1 januari 2010 een benaderingsmethode hanteren om het kredietrisico te bepalen. In de benaderingsmethode als bedoeld in artikel 29, derde lid, vindt de bepaling van de waardeverandering in het kredietrisico scenario plaats aan de hand van de volgende formule: Waardeverandering = – 0,4 × Dur × CS × Waarde Hierin is ‘Waarde’ de waarde van de kredietportefeuille, CS de gewogen gemiddelde credit spread van de kredietportefeuille en Dur de duration of gewogen gemiddelde looptijd van de kredietportefeuille. Het vereist eigen vermogen voor kredietrisico is gelijk aan het absolute getal van deze waardeverandering. 
+Het vereist eigen vermogen per risicofactor als bedoeld in artikel 24 wordt als volgt aangeduid: S<sub>1</sub> voor het vereist eigen vermogen voor het renterisico. S<sub>2</sub> voor het vereist eigen vermogen voor het aandelen- en vastgoedrisico. S<sub>3</sub> voor het vereist eigen vermogen voor het valutarisico. S<sub>4</sub> voor het vereist eigen vermogen voor het grondstoffenrisico. S<sub>5</sub> voor het vereist eigen vermogen voor het kredietrisico. S<sub>6</sub> voor het vereist eigen vermogen voor het verzekeringstechnische risico. S<sub>7</sub> voor het vereist eigen vermogen voor het liquiditeitsrisico. S<sub>8</sub> voor het vereist eigen vermogen voor het concentratierisico. S<sub>9</sub> voor het vereist eigen vermogen voor het operationeel risico. S<sub>10</sub> voor het vereist eigen vermogen voor het actief beheer risico. Het vereist eigen vermogen (VEV) wordt bepaald aan de hand van de volgende formule en op basis van onderstaande procedure: ![254672](http://wetten.overheid.nl/Illustration/254672)
+waarbij ρ<sub>1 2</sub> = 0,40 en ρ<sub>1 5</sub> = 0,40 indien voor S<sub>1</sub> wordt uitgegaan van een rentedaling en nihil indien S<sub>1</sub> is gebaseerd op een rentestijging, en ρ<sub>2 5</sub> = 0,50. Het vereist eigen vermogen van het fonds, bedoeld in artikel 132 van de Pensioenwet dan wel artikel 127 van de Wet verplichte beroepspensioenregeling, wordt bepaald aan de hand van een iteratief proces. Dit proces bestaat uit het herhaald toepassen van het standaardmodel. Het beleggingsbeleid met de bijbehorende beleggingskarakteristieken blijft daarbij gelijk. Het belegde vermogen in de tweede toepassing en in iedere daaropvolgende herhaalde toepassing is gelijk aan het belegde vermogen in de daaraan voorafgaande toepassing minus het aan het eind van de daaraan voorafgaande toepassing bepaalde verschil tussen het eigen vermogen en de uitkomst van de formule. De herhalingsprocedure stopt indien dit verschil niet langer significant is. Dit is doorgaans het geval na twee herhalingen. De uitkomst van de formule is dan gelijk aan het vereist eigen vermogen. In deze formule komt het vereist vermogen voor het aandelen- en beursgenoteerd vastgoedrisico S<sub>2</sub> als volgt tot stand. In artikel 25 is bepaald dat in het standaardmodel bij de aggregatie van het vereist eigen vermogen voor respectievelijk aandelen ontwikkelde markten, inclusief beursgenoteerd vastgoed (S<sub>2A</sub>), aandelen opkomende markten (S<sub>2B</sub>), niet-beursgenoteerde aandelen (S<sub>2C</sub>) en niet-beursgenoteerd vastgoed (S<sub>2D</sub>) tot het totale vereist eigen vermogen voor aandelen- en vastgoedrisico (S<sub>2</sub>) rekening wordt gehouden met de mogelijke statistische samenhang tussen de effecten van de scenario’s. Bij de aggregatie wordt uitgegaan van een uniforme correlatie ρ’ van 0,75. De componenten S<sub>2A</sub> tot en met S<sub>2D</sub> worden vervolgens gecombineerd tot het totaal vereist eigen vermogen voor aandelen- en vastgoedrisico S<sub>2</sub> aan de hand van de formule: ![254673](http://wetten.overheid.nl/Illustration/254673)
+waarbij ρ' = 0,75. In deze formule komt het vereist vermogen voor het valutarisico S<sub>3</sub> als volgt tot stand. In artikel 25 is bepaald dat in het standaardmodel bij de aggregatie van het vereist eigen vermogen voor valutarisico, (S<sub>3</sub>), rekening wordt gehouden met een correlatie (ρ) van 0,50 tussen valuta in ontwikkelde markten; 0,75 tussen valuta in opkomende markten en 0,25 tussen het valutarisico voor ontwikkelde markten enerzijds en het valutarisico voor opkomende markten anderzijds. Het vereist vermogen voor valutarisico wordt vastgesteld voor enerzijds ontwikkelde markten (S<sub>3 A</sub>) en anderzijds opkomende markten (S<sub>3 B</sub>) en gecombineerd aan de hand van de volgende formules: Het vereist vermogen voor valutarisico (S<sub>3</sub>) voor de totale portefeuille is gelijk aan de som van het vereist vermogen voor valutarisico van ontwikkelde en opkomende markten, rekening houdend met een correlatie van 0,25: ![254674](http://wetten.overheid.nl/Illustration/254674)
+Waarbij het vereist vermogen voor valutarisico op ontwikkelde markten (S<sub>3 A</sub>) wordt bepaald als de som van exposures op individuele valuta in ontwikkelde markten, rekening houdend met een correlatie van 0,50 en een daling van deze valuta ten opzichte van de euro met 20%: ![254675](http://wetten.overheid.nl/Illustration/254675)
+Het vereist vermogen voor valutarisico op opkomende markten (S<sub>3 B</sub>) wordt bepaald als de som van exposures op individuele valuta van opkomende markten, rekening houdend met een correlatie van 0,75 en een daling van deze valuta ten opzichte van de euro met 35%: ![254676](http://wetten.overheid.nl/Illustration/254676)
+Bij de bepaling van het vereist vermogen per individuele valuta wordt rekening gehouden met de ‘net exposure’, dat wil zeggen de gevoeligheid voor een daling in deze valuta ten opzichte van de euro rekening houdend met eventuele valutahedges.
 
