@@ -66,7 +66,7 @@ b. Onze Minister definitief van teruggave van het cultuurgoed afziet.
 3.  Indien zich een geval als bedoeld in het tweede lid voordoet, nadat Onze Minister reeds een beschikking als bedoeld in het eerste lid heeft gegeven, trekt hij deze beschikking in.   
 4.  De beschikking vermeldt het in rekening te brengen bedrag. Onder de kosten kunnen worden begrepen de kosten verbonden aan de voorbereiding van de inbewaringneming.   
 5.  Onze Minister kan van de overtreder bij dwangbevel de ingevolge de vorige leden verschuldigde kosten, verhoogd met de op de invordering vallende kosten, invorderen.   
-6.  Het dwangbevel wordt op kosten van de overtreder bij deurwaardersexploot betekend en levert een executoriale titel op in de zin van het [Tweede Boek van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md). Er vindt echter geen tenuitvoerlegging plaats zolang het geval van het tweede lid, onder a, zich nog kan voordoen.   
+6.  Het dwangbevel wordt op kosten van de overtreder bij deurwaardersexploot betekend en levert een executoriale titel op in de zin van het Tweede Boek van het Wetboek van Burgerlijke Rechtsvordering. Er vindt echter geen tenuitvoerlegging plaats zolang het geval van het tweede lid, onder a, zich nog kan voordoen.   
 7.  Gedurende zes weken na de dag van betekening staat verzet tegen het dwangbevel open door dagvaarding van Onze Minister.   
 8.  Het verzet schorst de tenuitvoerlegging. Op verzoek van Onze Minister kan de rechter de schorsing van de tenuitvoerlegging opheffen.  
 
@@ -89,14 +89,14 @@ d. bij beschikking van Onze Minister wegens andere redenen dan bedoeld onder a t
 
 ### Artikel  7  
 
-1.  Onze Minister stelt, nadat hij cultuurgoederen in bewaring heeft genomen, voor de rechter die naar de regels van het [Wetboek van Burgerlijke Rechtsvordering](../../../../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) bevoegd is, een rechtsvordering tot teruggave van die cultuurgoederen in tegen de bezitter, of bij ontstentenis van een bezitter, tegen de houder.   
-2.  De [artikelen 86](../../../../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), [88, eerste lid](../../../../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), en [99, eerste lid, van Boek 3 van het Burgerlijk Wetboek](../../../../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), noch overeenkomsten op grond waarvan cultuurgoederen afkomstig uit bezet gebied zijn vervreemd of bezwaard, kunnen worden tegengeworpen aan Onze Minister die op grond van het eerste lid cultuurgoederen opeist.   
+1.  Onze Minister stelt, nadat hij cultuurgoederen in bewaring heeft genomen, voor de rechter die naar de regels van het Wetboek van Burgerlijke Rechtsvordering bevoegd is, een rechtsvordering tot teruggave van die cultuurgoederen in tegen de bezitter, of bij ontstentenis van een bezitter, tegen de houder.   
+2.  De artikelen 86, 88, eerste lid, en 99, eerste lid, van Boek 3 van het Burgerlijk Wetboek, noch overeenkomsten op grond waarvan cultuurgoederen afkomstig uit bezet gebied zijn vervreemd of bezwaard, kunnen worden tegengeworpen aan Onze Minister die op grond van het eerste lid cultuurgoederen opeist.   
 3.  De rechter die een rechtsvordering als bedoeld in het eerste lid toewijst, kent ten laste van de staat aan de bezitter of de houder toe: 
 
 a. een schadeloosstelling, indien deze aannemelijk maakt het cultuurgoed in eigendom te hebben of te hebben verkregen, dan wel voorzover het betreft andere gevallen:  
 
 b. een naar gelang van de omstandigheden billijke vergoeding, indien deze bij de verkrijging van het cultuurgoed de nodige zorgvuldigheid heeft betracht.     
-4.  Indien de bezitter of de houder van wie de teruggave van een cultuurgoed wordt gevorderd, niet voldoet aan de verplichting die [artikel 87 van Boek 3 van het Burgerlijk Wetboek](../../../../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) hem oplegt, blijft het derde lid, onder b, ten aanzien van hem buiten toepassing.   
+4.  Indien de bezitter of de houder van wie de teruggave van een cultuurgoed wordt gevorderd, niet voldoet aan de verplichting die artikel 87 van Boek 3 van het Burgerlijk Wetboek hem oplegt, blijft het derde lid, onder b, ten aanzien van hem buiten toepassing.   
 5.  Een rechtsvordering als bedoeld in het eerste lid verjaart niet.  
 
 ### Hoofdstuk  4  
@@ -105,7 +105,7 @@ b. een naar gelang van de omstandigheden billijke vergoeding, indien deze bij de
 
 ### Artikel  8  
 
-Met het toezicht op de naleving van het bij deze wet bepaalde zijn belast de inspecteur, bedoeld in [artikel 1, onder f, van de Wet tot behoud van cultuurbezit](../../../../../../../../../../wet/wet/tot/behoud/van/cultuurbezit/BWBR0003659/README.md), en de ambtenaren, bedoeld in [artikel 15, eerste lid, van die wet](../../../../../../../../../../wet/wet/tot/behoud/van/cultuurbezit/BWBR0003659/README.md). 
+Met het toezicht op de naleving van het bij deze wet bepaalde zijn belast de inspecteur, bedoeld in artikel 1, onder f, van de Wet tot behoud van cultuurbezit, en de ambtenaren, bedoeld in artikel 15, eerste lid, van die wet. 
 
 ### Artikel  9  
 
@@ -115,9 +115,9 @@ a. met medeneming van de benodigde apparatuur een woning binnen te treden zonder
 
 b. te vorderen dat de bewoner hun cultuurgoederen die in de woning aanwezig zijn, toont,  
 
-c. ruimten en voorwerpen te verzegelen, voorzover dat voor de uitoefening van de in [artikel 5:17 van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bedoelde bevoegdheden redelijkerwijs noodzakelijk is, of  
+c. ruimten en voorwerpen te verzegelen, voorzover dat voor de uitoefening van de in artikel 5:17 van de Algemene wet bestuursrecht bedoelde bevoegdheden redelijkerwijs noodzakelijk is, of  
 
-d. zo nodig met behulp van de sterke arm de bevoegdheid, bedoeld in [artikel 5:17 van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) uit te oefenen.   
+d. zo nodig met behulp van de sterke arm de bevoegdheid, bedoeld in artikel 5:17 van de Algemene wet bestuursrecht uit te oefenen.   
 
 ### Hoofdstuk  5  
 

@@ -123,19 +123,18 @@ Op het ambtsjubileum van de voorzitter, de plaatsvervangend voorzitter en de zit
 
 ### Artikel  10  
 
-De groep, bedoeld in artikel 7:252a, zesde lid, onderdeel a, van het Burgerlijk Wetboek, bestaat uit huishoudens waarbij: 
+1.  De groep, bedoeld in artikel 7:252a, zesde lid, onderdeel a, van het Burgerlijk Wetboek, bestaat uit huishoudens waarbij: 
 
-a. in geval van een eenpersoonshuishouden aan de huurder van dat huishouden een indicatiebesluit als bedoeld in artikel 1, onderdeel d, van het Zorgindicatiebesluit is verstrekt voor persoonlijke verzorging als bedoeld in artikel 4 van het Besluit zorgaanspraken AWBZ, verpleging als bedoeld in artikel 5 van het Besluit zorgaanspraken AWBZ of individuele begeleiding als bedoeld in artikel 6 van het Besluit zorgaanspraken AWBZ, welk indicatiebesluit een geldigheidsduur heeft van ten minste een jaar en in welk indicatiebesluit ten minste tien uur zorg per week wordt toegekend;  
+a. in geval van een eenpersoonshuishouden de huurder op grond van artikel 2.1 van het Besluit zorgverzekering voor een periode van ten minste een jaar en ten minste 10 uur per week verpleging of verzorging als bedoeld in artikel 2.10 van dat besluit ontvangt;  
 
-b. in geval van een meerpersoonshuishouden aan de huurder of een ander lid van dat huishouden een indicatiebesluit als bedoeld in artikel 1, onderdeel d, van het Zorgindicatiebesluit is verstrekt voor persoonlijke verzorging als bedoeld in artikel 4 van het Besluit zorgaanspraken AWBZ, verpleging als bedoeld in artikel 5 van het Besluit zorgaanspraken AWBZ of individuele begeleiding als bedoeld in artikel 6 van het Besluit zorgaanspraken AWBZ, welk indicatiebesluit een geldigheidsduur heeft van ten minste 371 dagen of indien aan die huurder of dat lid meerdere van de hiervoor genoemde indicatiebesluiten zijn verstrekt, waarvan de geldigheidsduur in het totaal ten minste 371 dagen bedraagt, ende begindatum van elk indicatiebesluit niet meer dan 42 dagen na de einddatum van het daaraan voorafgaande indicatiebesluit heeft gelegen;  
+b. in geval van een meerpersoonshuishouden aan de huurder of een ander lid van dat huishouden een blijk van waardering voor mantelzorgers is verstrekt als bedoeld in artikel 2.1.6 van de Wet maatschappelijke ondersteuning 2015 en waarbij die mantelzorg is verleend aan een ander lid van datzelfde huishouden;  
 
-c. aan de huurder of aan een ander lid van dat huishouden een indicatiebesluit als bedoeld in artikel 1, onderdeel d, van het Zorgindicatiebesluit is verstrekt voor verblijf als bedoeld in artikel 9 van het Besluit zorgaanspraken AWBZ;  
+c. de huurder of een ander lid van dat huishouden in het bezit is van een indicatiebesluit als bedoeld in artikel 1.1.1 van de Wet langdurige zorg voor verblijf als bedoeld in artikel 3.1.1, eerste lid, onderdeel a, van die wet of voor direct oproepbare assistentie bij algemene dagelijkse levensverrichtingen als bedoeld in artikel 10.1.4 van die wet;  
 
-d. aan de huurder of aan een ander lid van dat huishouden een indicatiebesluit als bedoeld in artikel 1, onderdeel d, van het Zorgindicatiebesluit is verstrekt voor ADL-assistentie als bedoeld in artikel 34 van het Besluit zorgaanspraken AWBZ;  
+d. aan de huurder of aan een ander lid van dat huishouden een beschikking is verstrekt ten behoeve van voorzieningen aan de betreffende woonruimte op grond van artikel 1, eerste lid, onderdeel c, van de Wet voorzieningen gehandicapten of artikel 1, eerste lid, onderdeel g, onder 6, van de Wet maatschappelijke ondersteuning, of ten behoeve van een woningaanpassing als bedoeld in artikel 1.1.1 van de Wet maatschappelijke ondersteuning 2015, of  
 
-e. aan de huurder of aan een ander lid van dat huishouden voor 1 mei 2013 een beschikking is verstrekt ten behoeve van voorzieningen aan de betreffende woonruimte op grond van artikel 1, eerste lid, onderdeel c, van de Wet voorzieningen gehandicapten of artikel 1, eerste lid, onderdeel g, onder 6, van de Wet maatschappelijke ondersteuning, of  
-
-f. de huurder of een ander lid van dat huishouden met een verklaring van de huisarts kan aantonen dat hij blind is.   
+e. de huurder of een ander lid van dat huishouden met een verklaring van de huisarts kan aantonen dat hij blind is.     
+2.  Tot de groep, bedoeld in het eerste lid, behoren eveneens de huishoudens, bedoeld in dat lid, die beschikken over een geldend indicatiebesluit als genoemd in artikel 10, onderdelen a, b, c respectievelijk d, van de Uitvoeringsregeling huurprijzen woonruimte, zoals dat artikel luidde op 31 december 2014.  
 
 ### §  7  
 
@@ -148,7 +147,7 @@ f. de huurder of een ander lid van dat huishouden met een verklaring van de huis
 
 a.de ten gunste van de verzoeker krachtens artikel 14, eerste lid, van de Algemene wet inkomensafhankelijke regelingen laatstelijk doch niet eerder dan achttien maanden voor de indiening van het verzoek om vrijstelling gegeven beschikking tot toekenning van een huurtoeslag als bedoeld in artikel 1, onderdeel e, van de Wet op de huurtoeslag waaruit blijkt dat het toetsingsinkomen niet hoger is dan het bedrag dat voor de verzoeker ten tijde van het geven van die beschikking als het minimum-inkomensijkpunt, bedoeld in artikel 17 van die wet, gold, of
 
-b.een ten gunste van de verzoeker niet eerder dan zes maanden voor de indiening van het verzoek om vrijstelling krachtens de Wet werk en bijstand gegeven beschikking tot vaststelling van algemene bijstand.  
+b.een ten gunste van de verzoeker niet eerder dan zes maanden voor de indiening van het verzoek om vrijstelling krachtens de Participatiewet gegeven beschikking tot vaststelling van algemene bijstand.  
 
 ### Artikel  12  
 
@@ -164,7 +163,7 @@ De gegevens, bedoeld in artikel 7, eerste lid, en 8 van de Uitvoeringswet huurpr
 
 ### Artikel  13  
 
-Bij een voorstel als bedoeld in artikel 7:252b, eerste lid, van het Burgerlijk Wetboek verstrekt de huurder: 
+Bij een voorstel als bedoeld in artikel 7:252b, eerste lid, van het Burgerlijk Wetboek, of indien de verhuurder een voorstel als bedoeld in artikel 7:252a, eerste lid, van dat wetboek heeft gedaan en het huishoudinkomen voorwerp van geschil is, bij een verklaring als bedoeld in artikel 7:253, eerste lid, eerste volzin, van dat wetboek of een verzoek als bedoeld in artikel 7:253, tweede lid, aanhef, van dat wetboek, verstrekt de huurder: 
 
 a. een door de inspecteur, bedoeld in artikel 7:252a, tweede lid, onderdeel c, van het Burgerlijk Wetboek, afgegeven verklaring omtrent het inkomensgegeven, bedoeld in artikel 21, onder e, van de Algemene wet inzake rijksbelastingen, van alle bewoners van de woning, en  
 

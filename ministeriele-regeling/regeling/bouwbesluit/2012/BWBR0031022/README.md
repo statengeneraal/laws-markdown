@@ -248,14 +248,13 @@ Waar in artikel 5.9 van het besluit wordt verwezen naar de Bepalingsmethode Mili
 
 ### Artikel  3.2  
 
-Van een ingrijpende renovatie als bedoeld in artikel 5.6, derde lid, van het besluit is sprake wanneer meer dan 25% van de oppervlakte van de gebouwschil, bepaald volgens ISSO 75.1, uitgave oktober 2011, wordt vernieuwd, veranderd of vergroot en deze vernieuwing, verandering of vergroting de integrale gebouwschil betreft. 
+Van een ingrijpende renovatie als bedoeld in artikel 5.6, derde lid, van het besluit is sprake wanneer meer dan 25% van de oppervlakte van de gebouwschil, bepaald volgens ISSO 75.1, uitgave juli 2014, wordt vernieuwd, veranderd of vergroot en deze vernieuwing, verandering of vergroting de integrale gebouwschil betreft. 
 
 ### Artikel  3.3  
 
 Het in artikel 6.55 van het besluit bedoelde systeemrendement wordt bepaald op basis van de als bijlage III bij deze regeling opgenomen rekenmethodiek. 
 
 ### Artikel  3.4  
-Treedt in werking per 01-01-2015 
 
 De gemiddelde warmtedoorgangscoëfficiënt als bedoeld in artikel 5.3, zesde lid, van het besluit wordt berekend door: ![254402](http://wetten.overheid.nl/Illustration/254402)
 waarin: 
@@ -486,23 +485,25 @@ Bij toepassing van NEN 5077 geldt dat in afwijking van tabel 6 de standen van de
 
 ####NEN 7120
 
-Bij de toepassing van NEN 7120 gelden voor de in onderdeel 5.3.2 opgenomen formule de volgende waarden voor de correctiefactor *C* <sub>EPC;mn;U/W</sub>:  
+Bij de toepassing van NEN 7120 gelden voor de in onderdeel 5.3.2 opgenomen formule de volgende waarden voor de correctiefactor *C* <sub>EPC;mn;U/W</sub>   
 
 | Gebruiksfunctie  |  *C* <sub>EPC;mn;U/W</sub>   |
 |:---|:---|
 | 1  | Woonfunctie  | --- |
-| --- | a woonwagen  | 0,93  |
-| --- | b andere woonfunctie  | 1,00  |
-| 2  | Bijeenkomstfunctie  | 0,77  |
-| 3  | Celfunctie  | 0,96  |
+| --- | a woonwagen  | 0,99  |
+| --- | b andere woonfunctie  | 1,10  |
+| 2  | Bijeenkomstfunctie  | 0,73  |
+| 3  | Celfunctie  | 0,98  |
 | 4  | Gezondheidszorgfunctie  | --- |
-| --- | a met bedgebied  | 1,11  |
-| --- | b andere gezondheidszorgfunctie  | 0,92  |
-| 6  | Kantoorfunctie  | 1,01  |
-| 7  | Logiesfunctie  | 0,89  |
-| 8  | Onderwijsfunctie  | 1,34  |
-| 9  | Sportfunctie  | 0,81  |
-| 10  | Winkelfunctie  | 0,92  |
+| --- | a met bedgebied  | 1,17  |
+| --- | b andere gezondheidszorgfunctie  | 0,98  |
+| 6  | Kantoorfunctie  | 1,05  |
+| 7  | Logiesfunctie  | --- |
+| --- | a logiesfunctie in logiesgebouw  | 0,90  |
+| --- | b logiesfunctie niet in logiesgebouw  | 0,88  |
+| 8  | Onderwijsfunctie  | 1,44  |
+| 9  | Sportfunctie  | 0,86  |
+| 10  | Winkelfunctie  | 0,85  |
 
 ### Paragraaf  5.2  
 
@@ -563,7 +564,7 @@ J.W.E. Spies
 | NEN 1010 2007+C1 2008  | Veiligheidsbepalingen voor laagspanningsinstallaties, inclusief wijzigingsblad met correctieblad A1+A1/C1: 2011  |
 | NEN 1010 1962  | Veiligheidsvoorschriften voor laagspanningsinstallaties (Installatievoorschriften I) (bestaande bouw)  |
 | V 1041 1942  | Leidraad voor den aanleg en een veilig bedrijf van electrische sterkstroominstallaties in fabrieken en werkplaatsen (Fabrieksvoorschriften) – Deel II – Hooge spanning (bestaande bouw)  |
-| NEN 1068 2012  | Thermische isolatie van gebouwen – Rekenmethoden  |
+| NEN 1068 2012  | Thermische isolatie van gebouwen-Rekenmethoden, inclusief correctieblad C1: 2014  |
 | NEN 1078 2004  | Voorziening voor gas met een werkdruk tot en met 500 mbar – Prestatie-eisen – Nieuwbouw  |
 | NEN 1087 2001  | Ventilatie van gebouwen – Bepalingsmethoden voor nieuwbouw  |
 | NEN 1413 2011  | Symbolen voor veiligheidsvoorzieningen op bouwkundige tekeningen en in schema’s, inclusief wijzigingsblad A1: 2013  |
@@ -613,7 +614,7 @@ J.W.E. Spies
 | NEN 7002 1968  | Centrifugaal gegoten gietijzeren afvoerbuizen (GA), inclusief correctieblad C1: 1979  |
 | NEN 7003 1968  | Hulpstukken voor gietijzeren afvoerbuizen (GA), inclusief correctieblad C1: 1979  |
 | NEN 7013 1980  | Expansiestukken van PVC en ABS voor binnenrioleringen  |
-| NEN 7120+C2: 2012/C3:2013  | Energieprestatie van gebouwen – Bepalingsmethode  |
+| NEN 7120 + C2 2012  | Energieprestatie van gebouwen -Bepalingsmethode, inclusief correctiebladen C3 2013, C4 2014 en C5: 2014  |
 | NEN 8062 2011  | Brandveiligheid van gebouwen – Methode voor het beoordelen van de brandveiligheid van rookgasafvoervoorzieningen van bestaande gebouwen (bestaande bouw)  |
 | NEN 8078 2004  | Voorziening voor gas met een werkdruk tot en met 500 mbar – Prestatie-eisen – Bestaande bouw (bestaande bouw)  |
 | NEN 8087 2001  | Ventilatie van gebouwen – Bepalingsmethoden voor bestaande gebouwen (bestaande bouw)  |

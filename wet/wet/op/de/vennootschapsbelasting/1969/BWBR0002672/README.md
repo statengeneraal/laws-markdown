@@ -84,7 +84,9 @@ o. de Nederlandse Investeringsbank voor Ontwikkelingslanden N.V.;
 
 p. Ultra Centrifuge Nederland N.V.; 
 
-q. SNS REAAL N.V.;  alsmede de lichamen waarin deze rechtspersonen een belang hebben en de lichamen waarvan deze rechtspersonen een bestuurder kunnen benoemen of ontslaan, met uitzondering van lichamen die uitsluitend of nagenoeg uitsluitend water leveren.    
+q. SNS REAAL N.V.; 
+
+r. Propertize B.V.;  alsmede de lichamen waarin deze rechtspersonen een belang hebben en de lichamen waarvan deze rechtspersonen een bestuurder kunnen benoemen of ontslaan, met uitzondering van lichamen die uitsluitend of nagenoeg uitsluitend water leveren.    
 8.  Voor de toepassing van deze wet worden op de BES eilanden gevestigde lichamen die door de toepassing van artikel 5.2 van de Belastingwet BES geacht worden niet op de BES eilanden te zijn gevestigd, geacht in Nederland te zijn gevestigd.  
 9.  Op schriftelijk verzoek en onder door Onze Minister te stellen voorwaarden staat de inspecteur toe dat een lichaam als bedoeld in het eerste lid, onderdeel e, geacht wordt zijn onderneming te drijven met behulp van zijn gehele vermogen, indien het lichaam als culturele instelling is aangemerkt. Het verzoek moet uiterlijk binnen zes maanden na afloop van het jaar waarop het verzoek voor het eerst betrekking heeft, worden ingediend bij de inspecteur. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking waarin de door Onze Minister te stellen voorwaarden zijn opgenomen. Bij inwilliging van het verzoek geldt dit tot wederopzegging door het lichaam, waarbij wederopzegging alleen mogelijk is met ingang van het tiende jaar of een veelvoud daarvan na het einde van het jaar waarvoor het verzoek voor het eerst is ingewilligd. 
 
@@ -189,7 +191,7 @@ b.banktegoeden.
 
 ### Artikel  8  
 
-1.  De winst wordt opgevat en bepaald op de voet van de artikelen 3.8, 3.11 en 3.12, 3.13, eerste lid, onderdelen a, g, h en i, 3.14, eerste lid, onderdelen b tot en met h, en tweede tot en met zesde lid, 3.21 tot en met 3.30, 3.30a, eerste tot en met zevende lid, 3.31 tot en met 3.54, 3.55 tot en met 3.57, 10.10, 10a.2 en 10a.3 van de Wet inkomstenbelasting 2001, waarbij voor ondernemer wordt gelezen belastingplichtige.   
+1.  De winst wordt opgevat en bepaald op de voet van de artikelen 3.8, 3.11 en 3.12, 3.13, eerste lid, onderdelen a, g, h en i, 3.14, eerste lid, onderdelen b tot en met h, en tweede tot en met vijfde lid, 3.21 tot en met 3.30, 3.30a, eerste tot en met zevende lid, 3.31 tot en met 3.54, 3.55 tot en met 3.57, 10.10, 10a.2 en 10a.3 van de Wet inkomstenbelasting 2001, waarbij voor ondernemer wordt gelezen belastingplichtige.   
 2.  Het eerste lid is niet van toepassing voorzover: 
 
 a. bij of krachtens deze wet of krachtens artikel 3.65 van de Wet inkomstenbelasting 2001 anders is bepaald;  
@@ -199,7 +201,7 @@ b.  artikel 3.53 van de Wet inkomstenbelasting 2001 betrekking heeft op de vormi
 c. uit het verschil in wezen tussen de belastingplichtige en een natuurlijk persoon het tegendeel voortvloeit.     
 3.  Indien een onderneming niet voor rekening van de belastingplichtige wordt gedreven, maar de belastingplichtige, anders dan als aandeelhouder, medegerechtigd is tot het vermogen van die onderneming, wordt de winst van die onderneming rechtstreeks door de belastingplichtige genoten.   
 4.   Artikel 3.13, eerste lid, onderdeel a, van de Wet inkomstenbelasting 2001 is niet van toepassing indien de belastingplichtige deel heeft uitgemaakt van een fiscale eenheid en sinds het ontvoegingstijdstip minder dan 6 jaren zijn verstreken, behoudens voorzover de belastingplichtige aannemelijk maakt dat de in dat onderdeel bedoelde voordelen niet tot zijn winst zouden behoren, indien hij geen deel zou hebben uitgemaakt van de fiscale eenheid.   
-5. Bij aanwezigheid in een jaar van een of meer werknemers in de zin van de Wet op de loonbelasting 1964 wordt de winst mede opgevat en bepaald op de voet van artikel 3.15, eerste, tweede, derde en vijfde lid, van de Wet inkomstenbelasting 2001. Daarbij wordt voor de toepassing van genoemd eerste lid het aldaar vermelde bedrag vervangen door 0,4% van het gezamenlijke bedrag van het door de desbetreffende werknemers in het jaar genoten belastbare loon in de zin van artikel 9 van de Wet op de loonbelasting 1964 indien deze uitkomst hoger is dan € 4400. Indien de belastingplichtige daarvoor bij de aangifte kiest, wordt voor de toepassing van de tweede volzin tot het loon niet gerekend het loon uit een vroegere dienstbetrekking. 
+5. Bij aanwezigheid in een jaar van een of meer werknemers in de zin van de Wet op de loonbelasting 1964 wordt de winst mede opgevat en bepaald op de voet van artikel 3.15, eerste, tweede, derde en vijfde lid, van de Wet inkomstenbelasting 2001. Daarbij wordt voor de toepassing van genoemd eerste lid het aldaar vermelde bedrag vervangen door 0,4% van het gezamenlijke bedrag van het door de desbetreffende werknemers in het jaar genoten belastbare loon in de zin van artikel 9 van de Wet op de loonbelasting 1964 indien deze uitkomst hoger is dan € 4.500. Indien de belastingplichtige daarvoor bij de aangifte kiest, wordt voor de toepassing van de tweede volzin tot het loon niet gerekend het loon uit een vroegere dienstbetrekking. 
 6.  Ingeval de belastingplichtige een lichaam is als bedoeld in artikel 19a, eerste lid, onderdeel d, van de Wet op de loonbelasting 1964 geldt voor de waardering van pensioenverplichtingen, in aanvulling op artikel 3.29 van de Wet inkomstenbelasting 2001, dat de verplichting niet hoger mag worden gewaardeerd dan volgens een stelsel dat correspondeert met een methode die bij verzekeraars als bedoeld in artikel 19a, eerste lid, onderdeel b, van de Wet op de loonbelasting 1964 bij een belangrijk deel van de pensioenovereenkomsten als uitgangspunt dient voor de bepaling van de premies ingevolge die overeenkomsten. Voorts geldt als aanvulling dat bij de waardering van de verplichting geen overlevingstafel kan worden gehanteerd waarin rekening is gehouden met verwachtingen omtrent toekomstige levensverwachtingen en kan een leeftijdsterugstelling alleen worden toegepast ter correctie van het verschil tussen de gehanteerde overlevingstafel en een overlevingstafel van recentere datum.  
 6a. Voor de toepassing van artikel 3.30a van de Wet inkomstenbelasting 2001 wordt verstaan onder:
 
@@ -230,7 +232,7 @@ Tot de winst behoort niet het bedrag waarmee de af te dragen dividendbelasting i
 
 1.  Indien een lichaam, onmiddellijk of middellijk, deelneemt aan de leiding van of het toezicht op, dan wel in het kapitaal van een ander lichaam en tussen deze lichamen ter zake van hun onderlinge rechtsverhoudingen voorwaarden worden overeengekomen of opgelegd (verrekenprijzen) die afwijken van voorwaarden die in het economische verkeer door onafhankelijke partijen zouden zijn overeengekomen, wordt de winst van die lichamen bepaald alsof die laatstbedoelde voorwaarden zouden zijn overeengekomen.   
 2.  Het eerste lid is van overeenkomstige toepassing indien een zelfde persoon, onmiddellijk of middellijk, deelneemt aan de leiding van of aan het toezicht op, dan wel in het kapitaal van het ene en het andere lichaam.   
-3.  De in het eerste en tweede lid bedoelde lichamen nemen in hun administratie gegevens op waaruit blijkt op welke wijze de in dat lid bedoelde verrekenprijzen tot stand zijn gekomen en waaruit kan worden opgemaakt of er met bettrekking tot de totstandgekomen verrekenprijzen sprake is van voorwaarden die in het economische verkeer door onafhankelijke partijen zouden zijn overeengekomen.  
+3.  De in het eerste en tweede lid bedoelde lichamen nemen in hun administratie gegevens op waaruit blijkt op welke wijze de in dat lid bedoelde verrekenprijzen tot stand zijn gekomen en waaruit kan worden opgemaakt of er met betrekking tot de totstandgekomen verrekenprijzen sprake is van voorwaarden die in het economische verkeer door onafhankelijke partijen zouden zijn overeengekomen.  
 
 ### Artikel  8c  
 
@@ -315,7 +317,7 @@ d. vergoedingen op een geldlening alsmede waardemutaties van de lening, indien d
 
 e. de vennootschapsbelasting, alsmede belastingen die buiten Nederland in enige vorm naar de winst of bestanddelen van de winst worden geheven, indien voor de belastingplichtige ter zake daarvan een regeling ter voorkoming van dubbele belasting van toepassing is of indien de bestanddelen van de winst waarop de buiten Nederland geheven belasting betrekking heeft niet worden begrepen in de belastbare winst;  
 
-f. de wegens genoten winst geheven dividendbelasting, naar de prijzen van kansspelen geheven kansspelbelasting, naar een balanstotaal geheven bankenbelasting en naar de hoogte van de depositobasis geheven heffing op grond van de Tijdelijke wet resolutieheffing 2014;  
+f. de wegens genoten winst geheven dividendbelasting, naar de prijzen van kansspelen geheven kansspelbelasting en naar een balanstotaal geheven bankenbelasting;  
 
 g. de bedragen aan meer in aanmerking te nemen loon als omschreven in artikel 12a van de Wet op de loonbelasting 1964, in situaties van een aanmerkelijk belang in de belastingplichtige, behoudens indien de belastingplichtige aannemelijk maakt dat over die bedragen bij degene die deze bedragen volgens genoemd artikel geniet per saldo een belasting naar het inkomen wordt geheven die naar Nederlandse maatstaven redelijk is;  
 
@@ -327,10 +329,10 @@ i.kosten en lasten die verband houden met een werkruimte, de inrichting daaronde
 
 2º. ingeval bedoeld persoon niet tevens een werkruimte buiten die woning ter beschikking heeft, hij zijn belastbaar loon hoofdzakelijk in of vanuit de werkruimte in die woning verwerft en in belangrijke mate in de werkruimte in die woning verwerft; 
 
-j.bij een vennootschap met een geheel of ten dele in aandelen verdeeld kapitaal: uitreiking of toekenning van aandelen in dat kapitaal of in dat van een met die vennootschap verbonden lichaam, van winstbewijzen in de vennootschap of in een met die vennootschap verbonden lichaam, alsmede van rechten om aandelen in dat kapitaal of winstbewijzen in de vennootschap of een daarmee verbonden lichaam te verwerven of van daarmee gelijk te stellen rechten, daaronder begrepen aan werknemers van wie het loon op jaarbasis meer bedraagt dan € 552.000 toegekende rechten waarvan de waarde hoofdzakelijk direct of indirect wordt bepaald door de waardeverandering van die aandelen of winstbewijzen;
+j.bij een vennootschap met een geheel of ten dele in aandelen verdeeld kapitaal: uitreiking of toekenning van aandelen in dat kapitaal of in dat van een met die vennootschap verbonden lichaam, van winstbewijzen in de vennootschap of in een met die vennootschap verbonden lichaam, alsmede van rechten om aandelen in dat kapitaal of winstbewijzen in de vennootschap of een daarmee verbonden lichaam te verwerven of van daarmee gelijk te stellen rechten, daaronder begrepen aan werknemers van wie het loon op jaarbasis meer bedraagt dan € 556.000 toegekende rechten waarvan de waarde hoofdzakelijk direct of indirect wordt bepaald door de waardeverandering van die aandelen of winstbewijzen;
 
 k. bij verenigingen en stichtingen die op de voet van de Woningwet bij koninklijk besluit zijn toegelaten als instellingen die in het belang van de volkshuisvesting werkzaam zijn: de verschuldigde bijdragen, bedoeld in artikel 71e, tweede lid, van de Woningwet.   
-2. Voor de toepassing van dit artikel wordt onder woning mede verstaan: een duurzaam aan een plaats gebonden schip of woonwagen als bedoeld in artikel 1, eerste lid, onder f, van de Huisvestingswet, alsmede de aanhorigheden van een woning, schip of woonwagen. 
+2. Voor de toepassing van dit artikel wordt onder woning mede verstaan: een duurzaam aan een plaats gebonden schip of woonwagen als bedoeld in artikel 1, onder l, van de Wet op de huurtoeslag, alsmede de aanhorigheden van een woning, schip of woonwagen. 
 3.  Bij ministeriële regeling worden regels gesteld ter bepaling van hetgeen voor de toepassing van het eerste lid, onderdeel j, wordt verstaan onder werknemers en onder het loon op jaarbasis.   
 4.  Bij het begin van het kalenderjaar wordt het in het eerste lid, onderdeel j, genoemde bedrag bij ministeriële regeling vervangen door een ander bedrag. Dit bedrag wordt berekend door het te vervangen bedrag te vermenigvuldigen met de tabelcorrectiefactor, bedoeld in artikel 10.2 van de Wet inkomstenbelasting 2001, en vervolgens de nodig geachte afronding aan te brengen. Indien in het voorafgaande kalenderjaar een dergelijke afronding is toegepast, kan bij vervanging worden uitgegaan van het niet-afgeronde bedrag. 
 
@@ -1499,6 +1501,14 @@ Wij behouden Ons voor bij algemene maatregel van bestuur:
 a. nadere regelen te geven met betrekking tot het bepalen van de winst van verzekeringsondernemingen, waaronder regelen met betrekking tot bij deze ondernemingen toelaatbaar te achten reserves, alsmede  
 
 b. andere in het kader van de wet passende nadere regelen te geven ter aanvulling van in de wet geregelde onderwerpen.   
+
+### Artikel  29a  
+
+Bij het bepalen van de winst worden: 
+
+a. een kapitaalinstrument als bedoeld in artikel 52, eerste lid, van Verordening (EU) nr. 575/2013 van het Europees parlement en de Raad van 26 juni 2013 betreffende prudentiële vereisten voor kredietinstellingen en beleggingsondernemingen en tot wijziging van Verordening (EU) nr. 648/2012 (PbEU 2013, L 176), waarbij geen sprake is van de uitgifte van aandelen of certificaten dan wel de verkrijging van een lidmaatschap van een coöperatie in de zin van Boek 2 van het Burgerlijk Wetboek; en  
+
+b. een vermogensbestanddeel dat bij de uitgever als een volgestorte, achtergestelde verplichting onderdeel is van het tier 1-vermogen, bedoeld in artikel 94, eerste lid, van Richtlijn 2009/138/EG van het Europees parlement en de Raad van 25 november 2009 betreffende de toegang tot en uitoefening van het verzekerings- en het herverzekeringsbedrijf (Solvabiliteit II) (PbEU 2009, L 335) en dat bij de uitgever geen deel uitmaakt van het aandelenkapitaal, het agio, het waarborgkapitaal, de ledenbijdragen, de surplusfondsen of de aansluitingsreserve;   bij de uitgever behandeld als een geldlening en bij de houder als een schuldvordering, niet zijnde een lening, onderscheidenlijk een schuldvordering, als bedoeld in artikel 10, eerste lid, onderdeel d. 
 
 ### Hoofdstuk  VIII  
 

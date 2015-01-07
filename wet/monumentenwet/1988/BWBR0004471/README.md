@@ -36,7 +36,7 @@ g. beschermde stads- en dorpsgezichten: stads- en dorpsgezichten die door Onze m
 
 h. het doen van opgravingen: het verrichten van werkzaamheden met als doel het opsporen of onderzoeken van monumenten, waardoor verstoring van de bodem optreedt;   
 
-i. de Raad: de Raad voor cultuur, bedoeld in [artikel 2a van de Wet op het specifiek cultuurbeleid](../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md).    
+i. de Raad: de Raad voor cultuur, bedoeld in artikel 2a van de Wet op het specifiek cultuurbeleid.    
 
 ### Artikel  2  
 
@@ -54,7 +54,7 @@ i. de Raad: de Raad voor cultuur, bedoeld in [artikel 2a van de Wet op het speci
 ### Artikel  3  
 
 1.  Onze minister kan ambtshalve onroerende monumenten aanwijzen als beschermd monument.   
-2.   Voordat Onze minister ter zake een beschikking geeft, vraagt hij advies aan burgemeester en wethouders van de gemeente waarin het monument is gelegen en, indien de monumenten zijn gelegen buiten de krachtens de [Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) vastgestelde bebouwde kom, tevens aan gedeputeerde staten.    
+2.   Voordat Onze minister ter zake een beschikking geeft, vraagt hij advies aan burgemeester en wethouders van de gemeente waarin het monument is gelegen en, indien de monumenten zijn gelegen buiten de krachtens de Wegenverkeerswet 1994 vastgestelde bebouwde kom, tevens aan gedeputeerde staten.    
 3.   Onze minister doet mededeling van de adviesaanvraag, bedoeld in het tweede lid, aan degenen die in de basisregistratie kadaster als eigenaar en beperkt gerechtigde staan vermeld.    
 4.   Burgemeester en wethouders stellen de in het derde lid genoemde belanghebbenden in de gelegenheid zich te doen horen en plegen het overleg, bedoeld in artikel 2, tweede lid.    
 5.   Burgemeester en wethouders brengen hun advies uit binnen vijf maanden na de verzending van de in het tweede lid bedoelde adviesaanvraag, gedeputeerde staten binnen vier maanden.    
@@ -71,7 +71,7 @@ Onze minister doet mededeling van zijn beschikking aan burgemeester en wethouder
 
 a. de artikelen 11, eerste lid, en 63, tweede en derde lid; en  
 
-b. de [hoofdstukken 2](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [3](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [4](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) en [6 van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) voor zover die betrekking hebben op een beschermd monument als bedoeld in [artikel 1.1 van die wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md).    
+b. de hoofdstukken 2, 3, 4 en 6 van de Wet algemene bepalingen omgevingsrecht voor zover die betrekking hebben op een beschermd monument als bedoeld in artikel 1.1 van die wet.    
 
 ### Artikel  6  
 
@@ -97,7 +97,7 @@ b. de [hoofdstukken 2](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BW
 
 ### Artikel  10  
 
-Indien de afschriften van het register niet overeenstemmen met het register dan wel onderling niet gelijkluidend zijn, worden als beschermd monument slechts aangemerkt de monumenten die staan vermeld op het afschrift van het register, dat is opgenomen in de openbare registers, bedoeld in [artikel 1, onderdeel e, van de Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken](../../../../wet/wet/kenbaarheid/publiekrechtelijke/beperkingen/onroerende/zaken/BWBR0016876/README.md).  
+Indien de afschriften van het register niet overeenstemmen met het register dan wel onderling niet gelijkluidend zijn, worden als beschermd monument slechts aangemerkt de monumenten die staan vermeld op het afschrift van het register, dat is opgenomen in de openbare registers, bedoeld in artikel 1, onderdeel e, van de Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken.  
 
 ### §  2  
 
@@ -115,7 +115,7 @@ b. een beschermd archeologisch monument te herstellen, te gebruiken of te laten 
 ### Artikel  12  
 
 1. Een aanvraag om vergunning als bedoeld in artikel 11, tweede lid, wordt ingediend bij burgemeester en wethouders. 
-2.  [Artikel 3.1, tweede lid, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) is van overeenkomstige toepassing. 
+2.  Artikel 3.1, tweede lid, van de Wet algemene bepalingen omgevingsrecht is van overeenkomstige toepassing. 
 
 ### Artikel  13  
 
@@ -129,26 +129,26 @@ In afwijking van het bepaalde in artikel 12 wordt een aanvraag om vergunning die
 
 ###Artikel 14a 
 
-1.  Op de voorbereiding van een besluit op een aanvraag om vergunning als bedoeld in artikel 11, tweede lid, is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing, met dien verstande dat burgemeester en wethouders ten aanzien van het door Onze minister opgestelde ontwerp van het besluit toepassing geven aan de [artikelen 3:11 tot en met 3:17 van die wet](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).  
+1.  Op de voorbereiding van een besluit op een aanvraag om vergunning als bedoeld in artikel 11, tweede lid, is afdeling 3.4 van de Algemene wet bestuursrecht van toepassing, met dien verstande dat burgemeester en wethouders ten aanzien van het door Onze minister opgestelde ontwerp van het besluit toepassing geven aan de artikelen 3:11 tot en met 3:17 van die wet.  
 2. Zienswijzen kunnen naar voren worden gebracht door een ieder. 
 3.  Burgemeester en wethouders zenden tijdig naar voren gebrachte zienswijzen onmiddellijk door aan Onze minister.  
-4.  [Artikel 3:12, tweede lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing.  
-5.  In afwijking van het eerste lid geeft Onze minister in gevallen als bedoeld in artikel 13 toepassing aan de [artikelen 3:11 tot en met 3:17 van die wet](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). Het tweede, derde en vierde lid zijn niet van toepassing. 
+4.  Artikel 3:12, tweede lid, van de Algemene wet bestuursrecht is niet van toepassing.  
+5.  In afwijking van het eerste lid geeft Onze minister in gevallen als bedoeld in artikel 13 toepassing aan de artikelen 3:11 tot en met 3:17 van die wet. Het tweede, derde en vierde lid zijn niet van toepassing. 
 
 ### Artikel  15  
 
-1. De gemeenteraad stelt een verordening vast waarin ten minste de inschakeling wordt geregeld van een commissie op het gebied van de monumentenzorg die in elk geval tot taak heeft te adviseren over aanvragen om een omgevingsvergunning voor een activiteit als bedoeld in [artikel 2.1, eerste lid, onderdeel f, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md). Van de commissie maken geen deel uit leden van burgemeester en wethouders van de desbetreffende gemeente. Binnen de commissie zijn enkele leden deskundig op het gebied van de monumentenzorg.  
+1. De gemeenteraad stelt een verordening vast waarin ten minste de inschakeling wordt geregeld van een commissie op het gebied van de monumentenzorg die in elk geval tot taak heeft te adviseren over aanvragen om een omgevingsvergunning voor een activiteit als bedoeld in artikel 2.1, eerste lid, onderdeel f, van de Wet algemene bepalingen omgevingsrecht. Van de commissie maken geen deel uit leden van burgemeester en wethouders van de desbetreffende gemeente. Binnen de commissie zijn enkele leden deskundig op het gebied van de monumentenzorg.  
 2.  Burgemeester en wethouders vragen de commissie op het gebied van de monumentenzorg advies, voordat: 
 
-a. zij beslissen op een aanvraag om een omgevingsvergunning voor een activiteit als bedoeld in [artikel 2.1, eerste lid, onderdeel f, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md); of  
+a. zij beslissen op een aanvraag om een omgevingsvergunning voor een activiteit als bedoeld in artikel 2.1, eerste lid, onderdeel f, van de Wet algemene bepalingen omgevingsrecht; of  
 
-b. zij advies uitbrengen omtrent een aanvraag om of het ontwerp van een omgevingsvergunning voor een activiteit als bedoeld in [artikel 2.1, eerste lid, onderdeel f, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md).   
+b. zij advies uitbrengen omtrent een aanvraag om of het ontwerp van een omgevingsvergunning voor een activiteit als bedoeld in artikel 2.1, eerste lid, onderdeel f, van de Wet algemene bepalingen omgevingsrecht.   
 
 ### Artikel  17  
 
 1.  Burgemeester en wethouders zenden de aanvraag, bedoeld in artikel 12, onmiddellijk na ontvangst aan Onze minister door. Zij zenden gelijktijdig afschrift aan gedeputeerde staten en stellen de aanvrager schriftelijk in kennis van de datum van doorzending.   
-2.  Indien Onze minister niet voldoet aan [artikel 3:18 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), wordt de vergunning geacht te zijn verleend.   
-3.  De werking van de vergunning wordt opgeschort, totdat de beroepstermijn is verstreken, of, indien beroep is ingesteld, op het beroep is beslist. De vergunninghouder kan de voorzieningenrechter van de rechtbank onderscheidenlijk de voorzitter van de Afdeling bestuursrechtspraak van de Raad van State verzoeken de opschorting op te heffen. [Titel 8.3 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing. 
+2.  Indien Onze minister niet voldoet aan artikel 3:18 van de Algemene wet bestuursrecht, wordt de vergunning geacht te zijn verleend.   
+3.  De werking van de vergunning wordt opgeschort, totdat de beroepstermijn is verstreken, of, indien beroep is ingesteld, op het beroep is beslist. De vergunninghouder kan de voorzieningenrechter van de rechtbank onderscheidenlijk de voorzitter van de Afdeling bestuursrechtspraak van de Raad van State verzoeken de opschorting op te heffen. Titel 8.3 van de Algemene wet bestuursrecht is van overeenkomstige toepassing. 
 4. Onze minister doet van de beschikking op de aanvraag om vergunning mededeling aan burgemeester en wethouders en aan gedeputeerde staten. 
 
 ### Artikel  19  
@@ -165,7 +165,7 @@ c. de verplichting de activiteit die tot bodemverstoring leidt, te laten begelei
 
 ### Artikel  20  
 
-1.  Burgemeester en wethouders, en voor zover het monumenten als bedoeld in artikel 7, eerste lid, betreft, Onze minister houden een openbaar register aan waarin aantekening wordt gehouden van omgevingsvergunningen voor een activiteit als bedoeld in [artikel 2.1, eerste lid, onderdeel f, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) en vergunningen als bedoeld in artikel 11, tweede lid.   
+1.  Burgemeester en wethouders, en voor zover het monumenten als bedoeld in artikel 7, eerste lid, betreft, Onze minister houden een openbaar register aan waarin aantekening wordt gehouden van omgevingsvergunningen voor een activiteit als bedoeld in artikel 2.1, eerste lid, onderdeel f, van de Wet algemene bepalingen omgevingsrecht en vergunningen als bedoeld in artikel 11, tweede lid.   
 2.   In het in het eerste lid bedoelde register worden voorts aangetekend:  
 
 a. de datum van de vergunning;   
@@ -179,7 +179,7 @@ d. de aard van de werkzaamheden.
 
 ### Artikel  21  
 
-1.  Onverminderd [artikel 5.19 van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) kan Onze minister een vergunning als bedoeld in artikel 11, tweede lid, intrekken, indien de omstandigheden aan de kant van de vergunninghouder zich zodanig hebben gewijzigd dat het belang van het monument zwaarder dient te wegen.   
+1.  Onverminderd artikel 5.19 van de Wet algemene bepalingen omgevingsrecht kan Onze minister een vergunning als bedoeld in artikel 11, tweede lid, intrekken, indien de omstandigheden aan de kant van de vergunninghouder zich zodanig hebben gewijzigd dat het belang van het monument zwaarder dient te wegen.   
 2.   Van een besluit tot intrekking van een vergunning wordt mededeling gedaan aan burgemeester en wethouders en aan gedeputeerde staten.   
 
 ### §  3  
@@ -301,9 +301,9 @@ g. de betaling en terugvordering van de uitkering, alsmede het verlenen van voor
 
 ### Artikel  36  
 
-1.  De gemeenteraad stelt ter bescherming van een beschermd stads- of dorpsgezicht een bestemmingsplan vast als bedoeld in de [Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md). Bij het besluit tot aanwijzing van een beschermd stads- en dorpsgezicht kan hiertoe een termijn worden gesteld.    
-2.   Bij het besluit tot aanwijzing van een beschermd stads- of dorpsgezicht wordt bepaald of en in hoeverre geldende bestemmingsplannen als beschermend plan in de zin van het vorige lid kunnen worden aangemerkt, dan wel of een beheersverordening als bedoeld in de [Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), Onze minister gehoord, kan worden vastgesteld.   
-3. Indien een bestemmingsplan als bedoeld in het eerste of tweede lid, opnieuw moet worden vastgesteld ingevolge [artikel 3.1, tweede lid, van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), kan de gemeenteraad, Onze minister gehoord, in afwijking van [artikel 3.1, eerste lid, van die wet](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), voor het desbetreffende gebied een beheersverordening als bedoeld in [die wet](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) vaststellen.
+1.  De gemeenteraad stelt ter bescherming van een beschermd stads- of dorpsgezicht een bestemmingsplan vast als bedoeld in de Wet ruimtelijke ordening. Bij het besluit tot aanwijzing van een beschermd stads- en dorpsgezicht kan hiertoe een termijn worden gesteld.    
+2.   Bij het besluit tot aanwijzing van een beschermd stads- of dorpsgezicht wordt bepaald of en in hoeverre geldende bestemmingsplannen als beschermend plan in de zin van het vorige lid kunnen worden aangemerkt, dan wel of een beheersverordening als bedoeld in de Wet ruimtelijke ordening, Onze minister gehoord, kan worden vastgesteld.   
+3. Indien een bestemmingsplan als bedoeld in het eerste of tweede lid, opnieuw moet worden vastgesteld ingevolge artikel 3.1, tweede lid, van de Wet ruimtelijke ordening, kan de gemeenteraad, Onze minister gehoord, in afwijking van artikel 3.1, eerste lid, van die wet, voor het desbetreffende gebied een beheersverordening als bedoeld in die wet vaststellen.
 
 ### Hoofdstuk  V  
 
@@ -321,26 +321,26 @@ a. regels vaststellen met betrekking tot de eisen die burgemeester en wethouders
 
 b. gevallen vaststellen waarin burgemeester en wethouders kunnen afzien van nader archeologisch onderzoek of het opleggen van daartoe strekkende verplichtingen.     
 2.  Indien een verordening als bedoeld in het eerste lid betrekking heeft op een gebied waarvoor een bestemmingsplan als bedoeld in artikel 38a is vastgesteld, blijft die verordening van kracht voor zover zij niet met dat bestemmingsplan in strijd is.   
-3.  Op de voorbereiding van een verordening als bedoeld in het eerste lid is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.  
+3.  Op de voorbereiding van een verordening als bedoeld in het eerste lid is afdeling 3.4 van de Algemene wet bestuursrecht van toepassing.  
 
 ### Artikel  38a  
 
-De gemeenteraad houdt bij de vaststelling van een bestemmingsplan of een beheersverordening als bedoeld in [artikel 3.1](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), onderscheidenlijk [artikel 3.38, van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) en bij de bestemming van de in het plan begrepen grond, rekening met de in de grond aanwezige dan wel te verwachten monumenten. 
+De gemeenteraad houdt bij de vaststelling van een bestemmingsplan of een beheersverordening als bedoeld in artikel 3.1, onderscheidenlijk artikel 3.38, van de Wet ruimtelijke ordening en bij de bestemming van de in het plan begrepen grond, rekening met de in de grond aanwezige dan wel te verwachten monumenten. 
 
 ### Artikel  39  
 
-1.  Bij een bestemmingsplan kan in het belang van de archeologische monumentenzorg een omgevingsvergunning voor een aanlegactiviteit als bedoeld in [artikel 2.1, eerste lid, onderdeel b, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) verplicht worden gesteld.   
+1.  Bij een bestemmingsplan kan in het belang van de archeologische monumentenzorg een omgevingsvergunning voor een aanlegactiviteit als bedoeld in artikel 2.1, eerste lid, onderdeel b, van de Wet algemene bepalingen omgevingsrecht verplicht worden gesteld.   
 2.  Bij een bestemmingsplan kan in het belang van de archeologische monumentenzorg worden bepaald dat de aanvrager van een omgevingsvergunning voor een activiteit als bedoeld in het eerste lid een rapport dient over te leggen waarin de archeologische waarde van het terrein dat blijkens de aanvraag zal worden verstoord naar het oordeel van het bestuursorgaan dat bevoegd is die vergunning te verlenen in voldoende mate is vastgesteld.  
 
 ### Artikel  40  
 
-1.  Bij een bestemmingsplan kan in het belang van de archeologische monumentenzorg worden bepaald dat de aanvrager van een omgevingsvergunning voor een bouwactiviteit als bedoeld in [artikel 2.1, eerste lid, onderdeel a, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) een rapport dient over te leggen als bedoeld in artikel 39, tweede lid.   
-2.  Bij een bestemmingsplan kan in het belang van de archeologische monumentenzorg worden bepaald dat aan een omgevingsvergunning voor een activiteit als bedoeld in het eerste lid voorschriften kunnen worden verbonden die zijn vastgesteld krachtens [artikel 2.22, derde lid, onderdeel d, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md).  
+1.  Bij een bestemmingsplan kan in het belang van de archeologische monumentenzorg worden bepaald dat de aanvrager van een omgevingsvergunning voor een bouwactiviteit als bedoeld in artikel 2.1, eerste lid, onderdeel a, van de Wet algemene bepalingen omgevingsrecht een rapport dient over te leggen als bedoeld in artikel 39, tweede lid.   
+2.  Bij een bestemmingsplan kan in het belang van de archeologische monumentenzorg worden bepaald dat aan een omgevingsvergunning voor een activiteit als bedoeld in het eerste lid voorschriften kunnen worden verbonden die zijn vastgesteld krachtens artikel 2.22, derde lid, onderdeel d, van de Wet algemene bepalingen omgevingsrecht.  
 
 ### Artikel  41  
 
-1.  De aanvrager van een omgevingsvergunning voor een activiteit als bedoeld in [artikel 2.1, eerste lid, onderdeel c, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) kan in het belang van de archeologische monumentenzorg worden verplicht een rapport over te leggen, waarin de archeologische waarde van het terrein dat blijkens de aanvraag zal worden verstoord naar het oordeel van het bevoegd gezag als bedoeld in [artikel 1.1 van die wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) in voldoende mate is vastgesteld.   
-2.  De aanvrager van een omgevingsvergunning voor een sloopactiviteit als bedoeld in [artikel 2.1, eerste lid, onderdeel h, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) kan in het belang van de archeologische monumentenzorg worden verplicht een rapport over te leggen, waarin de archeologische waarde van de bodem onder het te slopen bouwwerk naar het oordeel van het bevoegd gezag als bedoeld in [artikel 1.1 van die wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) in voldoende mate is vastgesteld.  
+1.  De aanvrager van een omgevingsvergunning voor een activiteit als bedoeld in artikel 2.1, eerste lid, onderdeel c, van de Wet algemene bepalingen omgevingsrecht kan in het belang van de archeologische monumentenzorg worden verplicht een rapport over te leggen, waarin de archeologische waarde van het terrein dat blijkens de aanvraag zal worden verstoord naar het oordeel van het bevoegd gezag als bedoeld in artikel 1.1 van die wet in voldoende mate is vastgesteld.   
+2.  De aanvrager van een omgevingsvergunning voor een sloopactiviteit als bedoeld in artikel 2.1, eerste lid, onderdeel h, van de Wet algemene bepalingen omgevingsrecht kan in het belang van de archeologische monumentenzorg worden verplicht een rapport over te leggen, waarin de archeologische waarde van de bodem onder het te slopen bouwwerk naar het oordeel van het bevoegd gezag als bedoeld in artikel 1.1 van die wet in voldoende mate is vastgesteld.  
 
 ### Artikel  41a  
 
@@ -359,8 +359,8 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met
 1.  Voor zover bij de vaststelling van geldende bestemmingsplannen onvoldoende rekening is gehouden met de in de grond aanwezige dan wel te verwachten monumenten, kunnen provinciale staten binnen het grondgebied van de provincie gebieden die archeologisch waardevol zijn of naar verwachting archeologisch waardevol zijn, aanwijzen als archeologische attentiegebieden.   
 2.  De gemeenteraad stelt binnen een door provinciale staten te stellen termijn in verband met een aangewezen archeologisch attentiegebied een bestemmingsplan vast.   
 3.  Gedeputeerde staten melden een aanwijzingsbesluit als bedoeld in het eerste lid aan Onze minister.   
-4.  Provinciale staten houden bij de vaststelling of de herziening van een structuurvisie als bedoeld in [artikel 2.2 van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) rekening met aangewezen archeologische attentiegebieden.   
-5.  Op de voorbereiding van een besluit als bedoeld in het eerste lid is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.  
+4.  Provinciale staten houden bij de vaststelling of de herziening van een structuurvisie als bedoeld in artikel 2.2 van de Wet ruimtelijke ordening rekening met aangewezen archeologische attentiegebieden.   
+5.  Op de voorbereiding van een besluit als bedoeld in het eerste lid is afdeling 3.4 van de Algemene wet bestuursrecht van toepassing.  
 
 ### § 3  
 
@@ -372,7 +372,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met
 2.  De opgravingsvergunning wordt verleend, indien de aanvrager aantoont bekwaam te zijn tot het doen van opgravingen.   
 3.  De opgravingsvergunning kan onder beperkingen worden verleend.   
 4.  In verband met de verlening van een opgravingsvergunning kunnen door Onze minister kosten in rekening worden gebracht volgens door hem vast te stellen tarieven.   
-5.  Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../../wet/dienstenwet/BWBR0026759/README.md) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op een aanvraag om een vergunning als bedoeld in het eerste lid. 
+5.  Met toepassing van artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet is paragraaf 4.1.3.3. van de Algemene wet bestuursrecht niet van toepassing op een aanvraag om een vergunning als bedoeld in het eerste lid. 
 
 ### Artikel  46  
 
@@ -389,7 +389,7 @@ Onze minister kan de opgravingsvergunning intrekken indien de vergunninghouder n
 
 ### Artikel  47a  
 
-De artikelen 45 tot en met 47 zijn van toepassing in de aansluitende zone, bedoeld in [artikel 1 van de Rijkswet instelling aansluitende zone](../../../../rijkswet/rijkswet/instelling/aansluitende/zone/BWBR0018265/README.md). 
+De artikelen 45 tot en met 47 zijn van toepassing in de aansluitende zone, bedoeld in artikel 1 van de Rijkswet instelling aansluitende zone. 
 
 ### Artikel  48  
 
@@ -403,7 +403,7 @@ De artikelen 45 tot en met 47 zijn van toepassing in de aansluitende zone, bedoe
 
 ### Artikel  49  
 
-1.  Op verzoek van een instelling voor wetenschappelijk onderwijs als bedoeld in [artikel 1.1, onder c, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) dan wel van een instelling voor wetenschappelijk onderwijs, gevestigd in een lidstaat van de Europese Unie of van de Europese Economische Ruimte, kan Onze minister beslissen dat een bepaalde opgraving door die instelling wordt uitgevoerd, indien: 
+1.  Op verzoek van een instelling voor wetenschappelijk onderwijs als bedoeld in artikel 1.1, onder c, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek dan wel van een instelling voor wetenschappelijk onderwijs, gevestigd in een lidstaat van de Europese Unie of van de Europese Economische Ruimte, kan Onze minister beslissen dat een bepaalde opgraving door die instelling wordt uitgevoerd, indien: 
 
 a. de desbetreffende opgraving van uitzonderlijk belang is voor het specifieke onderzoeksprogramma van de instelling;  
 
@@ -414,7 +414,7 @@ c. de mogelijke marktverstorende effecten van het besluit van Onze minister bepe
 d. de mogelijke nadelige financiële gevolgen voor degene die tot het doen van de opgraving is verplicht, niet onevenredig zijn; en  
 
 e. aan de instelling een vergunning als bedoeld in artikel 45 is verleend.     
-2.  Voordat Onze minister een beslissing als bedoeld in het eerste lid neemt, wint hij advies in van de Nederlandse organisatie voor wetenschappelijk onderzoek, bedoeld in [artikel 2 van de Wet op de Nederlandse organisatie voor wetenschappelijk onderzoek](../../../../wet/wet/op/de/nederlandse/organisatie/voor/wetenschappelijk/onderzoek/BWBR0004191/README.md). 
+2.  Voordat Onze minister een beslissing als bedoeld in het eerste lid neemt, wint hij advies in van de Nederlandse organisatie voor wetenschappelijk onderzoek, bedoeld in artikel 2 van de Wet op de Nederlandse organisatie voor wetenschappelijk onderzoek. 
 
 ### § 5  
 
@@ -462,7 +462,7 @@ Degene die bij het opsporen van monumenten, zonder dat daarbij verstoring van de
 
 ### Artikel  54a  
 
-De artikelen 53 en 54 zijn van toepassing in de aansluitende zone, bedoeld in [artikel 1 van de Rijkswet instelling aansluitende zone](../../../../rijkswet/rijkswet/instelling/aansluitende/zone/BWBR0018265/README.md). 
+De artikelen 53 en 54 zijn van toepassing in de aansluitende zone, bedoeld in artikel 1 van de Rijkswet instelling aansluitende zone. 
 
 ### § 8  
 
@@ -496,7 +496,7 @@ Onze minister kan bij schade dan wel dreigende schade aan archeologische monumen
 ### Artikel  57  
 
 1.  Onze minister kan bepalen dat een rechthebbende ten aanzien van een terrein moet dulden dat dat terrein in het belang van een archeologisch onderzoek wordt betreden, dat daarop metingen worden verricht dan wel daarin opgravingen worden gedaan.   
-2.  Het bestuursorgaan dat belast is met de voorbereiding of uitvoering van een bestemmingsplan als bedoeld in [artikel 3.1 van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), een beheersverordening als bedoeld in [artikel 3.38 van die wet](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) of een omgevingsvergunning voor een activiteit als bedoeld in [artikel 2.1, eerste lid, onderdeel c, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) kan bepalen dat een rechthebbende ten aanzien van een terrein moet dulden dat een terrein in het belang van archeologisch onderzoek wordt betreden, dat daarop metingen worden verricht dan wel dat daarin opgravingen worden gedaan, voor zover dat onderzoek dient ter voorbereiding of ter uitvoering daarvan. 
+2.  Het bestuursorgaan dat belast is met de voorbereiding of uitvoering van een bestemmingsplan als bedoeld in artikel 3.1 van de Wet ruimtelijke ordening, een beheersverordening als bedoeld in artikel 3.38 van die wet of een omgevingsvergunning voor een activiteit als bedoeld in artikel 2.1, eerste lid, onderdeel c, van de Wet algemene bepalingen omgevingsrecht kan bepalen dat een rechthebbende ten aanzien van een terrein moet dulden dat een terrein in het belang van archeologisch onderzoek wordt betreden, dat daarop metingen worden verricht dan wel dat daarin opgravingen worden gedaan, voor zover dat onderzoek dient ter voorbereiding of ter uitvoering daarvan. 
 
 ### Artikel  58  
 
@@ -522,8 +522,8 @@ Onze minister kan formulieren vaststellen ten aanzien van de meldingen, bedoeld 
 ### Artikel  63  
 
 1.  Onze minister draagt zorg voor de bestuursrechtelijke handhaving van het bepaalde bij of krachtens deze wet.   
-2.  Het bestuursorgaan dat met betrekking tot een monument bevoegd is een omgevingsvergunning als bedoeld in de [Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) te verlenen, draagt zorg voor de bestuursrechtelijke handhaving van artikel 11, eerste lid, voor zover het een ander monument dan een archeologisch monument betreft.   
-3.  Met betrekking tot de handhaving van het bepaalde bij of krachtens deze wet is [hoofdstuk 5 van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van toepassing, met uitzondering van [artikel 5.2](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) en [paragraaf 5.5 van die wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) en, indien het een archeologisch monument betreft, met uitzondering van [artikel 5.11 van die wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md). 
+2.  Het bestuursorgaan dat met betrekking tot een monument bevoegd is een omgevingsvergunning als bedoeld in de Wet algemene bepalingen omgevingsrecht te verlenen, draagt zorg voor de bestuursrechtelijke handhaving van artikel 11, eerste lid, voor zover het een ander monument dan een archeologisch monument betreft.   
+3.  Met betrekking tot de handhaving van het bepaalde bij of krachtens deze wet is hoofdstuk 5 van de Wet algemene bepalingen omgevingsrecht van toepassing, met uitzondering van artikel 5.2 en paragraaf 5.5 van die wet en, indien het een archeologisch monument betreft, met uitzondering van artikel 5.11 van die wet. 
 
 ### Hoofdstuk  VII  
 
@@ -531,24 +531,24 @@ Onze minister kan formulieren vaststellen ten aanzien van de meldingen, bedoeld 
 
 ### Artikel  65  
 
-Een rijksdienst, een instelling voor wetenschappelijk onderwijs of een gemeente die ten tijde van de inwerkingtreding van de [Wet op de archeologische monumentenzorg](../../../../wet/wet/op/de/archeologische/monumentenzorg/BWBR0021162/README.md) over een opgravingsvergunning voor onbepaalde tijd beschikt, blijft gerechtigd tot het doen van opgravingen onder de beperkingen en voorschriften die aan die vergunning zijn verbonden, gedurende twee jaar na inwerkingtreding van [die wet](../../../../wet/wet/op/de/archeologische/monumentenzorg/BWBR0021162/README.md). 
+Een rijksdienst, een instelling voor wetenschappelijk onderwijs of een gemeente die ten tijde van de inwerkingtreding van de Wet op de archeologische monumentenzorg over een opgravingsvergunning voor onbepaalde tijd beschikt, blijft gerechtigd tot het doen van opgravingen onder de beperkingen en voorschriften die aan die vergunning zijn verbonden, gedurende twee jaar na inwerkingtreding van die wet. 
 
 ### Artikel  66  
 
-1.  Roerende monumenten die worden gevonden bij het doen van opgravingen die zijn begonnen, maar niet zijn voltooid ten tijde van de inwerkingtreding van de [Wet op de archeologische monumentenzorg](../../../../wet/wet/op/de/archeologische/monumentenzorg/BWBR0021162/README.md) en waarop niemand zijn recht van eigendom kan bewijzen, zijn eigendom van de Staat.   
+1.  Roerende monumenten die worden gevonden bij het doen van opgravingen die zijn begonnen, maar niet zijn voltooid ten tijde van de inwerkingtreding van de Wet op de archeologische monumentenzorg en waarop niemand zijn recht van eigendom kan bewijzen, zijn eigendom van de Staat.   
 2.  Roerende monumenten als bedoeld in het eerste lid die zijn gevonden bij het doen van wettige opgravingen door een gemeente, zijn eigendom van die gemeente. 
 
 ### Artikel  67  
 
-Gedurende twee jaar na inwerkingtreding van de [Wet op de archeologische monumentenzorg](../../../../wet/wet/op/de/archeologische/monumentenzorg/BWBR0021162/README.md) kunnen roerende monumenten die zijn gevonden bij het doen van opgravingen worden opgeslagen in de depots van de vergunninghoudende gemeenten, bedoeld in artikel 65.
+Gedurende twee jaar na inwerkingtreding van de Wet op de archeologische monumentenzorg kunnen roerende monumenten die zijn gevonden bij het doen van opgravingen worden opgeslagen in de depots van de vergunninghoudende gemeenten, bedoeld in artikel 65.
 
 ### Artikel  68  
 
-Gedeputeerde staten maken binnen een jaar na inwerkingtreding van de [Wet op de archeologische monumentenzorg](../../../../wet/wet/op/de/archeologische/monumentenzorg/BWBR0021162/README.md) aan de gemeentelijke vergunninghouders, bedoeld in artikel 65, kenbaar, hoe zij gebruik zullen maken van hun bevoegdheid, bedoeld in artikel 51, tweede lid.
+Gedeputeerde staten maken binnen een jaar na inwerkingtreding van de Wet op de archeologische monumentenzorg aan de gemeentelijke vergunninghouders, bedoeld in artikel 65, kenbaar, hoe zij gebruik zullen maken van hun bevoegdheid, bedoeld in artikel 51, tweede lid.
 
 ### Artikel  69  
 
-Besluiten die voor de inwerkingtreding van de [Wet op de archeologische monumentenzorg](../../../../wet/wet/op/de/archeologische/monumentenzorg/BWBR0021162/README.md) op grond van het bij [die wet](../../../../wet/wet/op/de/archeologische/monumentenzorg/BWBR0021162/README.md) vervallen artikel 58, eerste lid, zijn genomen, berusten na inwerkingtreding van de [Wet op de archeologische monumentenzorg](../../../../wet/wet/op/de/archeologische/monumentenzorg/BWBR0021162/README.md) op artikel 63, eerste lid. 
+Besluiten die voor de inwerkingtreding van de Wet op de archeologische monumentenzorg op grond van het bij die wet vervallen artikel 58, eerste lid, zijn genomen, berusten na inwerkingtreding van de Wet op de archeologische monumentenzorg op artikel 63, eerste lid. 
 
 ### Artikel  70  
 

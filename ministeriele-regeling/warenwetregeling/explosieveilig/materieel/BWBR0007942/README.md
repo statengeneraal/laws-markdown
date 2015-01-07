@@ -3,26 +3,26 @@
 ##Regeling houdende nadere regels ten aanzien van explosieveilig materieel
 
 De Staatssecretaris van Sociale Zaken en Werkgelegenheid,  
-Gelet op de [artikelen 4, vijfde en zesde lid](../../../../../wet/wet/op/de/gevaarlijke/werktuigen/BWBR0002087/README.md), [5, derde lid](../../../../../wet/wet/op/de/gevaarlijke/werktuigen/BWBR0002087/README.md), en [12, eerste lid, eerste zin, van de Wet op de gevaarlijke werktuigen](../../../../../wet/wet/op/de/gevaarlijke/werktuigen/BWBR0002087/README.md) en [artikel 17, derde lid, van het Besluit explosieveilig materieel](../../../../../AMvB/besluit/explosieveilig/materieel/BWBR0007497/README.md);
+Gelet op de artikelen 4, vijfde en zesde lid, 5, derde lid, en 12, eerste lid, eerste zin, van de Wet op de gevaarlijke werktuigen en artikel 17, derde lid, van het Besluit explosieveilig materieel;
 Besluit:     
 
 ###Artikel  1  
 
-In deze regeling wordt verstaan onder: a.  het besluit:   het [Warenwetbesluit explosieveilig materieel](../../../../../AMvB/besluit/explosieveilig/materieel/BWBR0007497/README.md);  b.  explosieveilig materieel, aangewezen aangemelde instelling, richtlijn en wet:   hetgeen het besluit daaronder verstaat.    
+In deze regeling wordt verstaan onder: a.  het besluit:   het Warenwetbesluit explosieveilig materieel;  b.  explosieveilig materieel, aangewezen aangemelde instelling, richtlijn en wet:   hetgeen het besluit daaronder verstaat.    
 
 ### Artikel  2  
 
 ####Eisen voor aanwijzing en (blijven) functioneren als aangewezen aangemelde instelling
 
-Een aanwijzing als aangewezen aangemelde instelling als bedoeld in [artikel 17 van het besluit](../../../../../AMvB/besluit/explosieveilig/materieel/BWBR0007497/README.md), kan geschieden indien de aanvragende instelling voldoet aan de criteria, vastgelegd in het Schema voor Aanwijzing en Toezicht op de instellingen voor overeenstemmingsbeoordelingsprocedures voor het [Warenwetbesluit explosieveilig materieel](../../../../../AMvB/besluit/explosieveilig/materieel/BWBR0007497/README.md), zoals opgenomen in de bijlage bij de regeling. 
+Een aanwijzing als aangewezen aangemelde instelling als bedoeld in artikel 17 van het besluit, kan geschieden indien de aanvragende instelling voldoet aan de criteria, vastgelegd in het Schema voor Aanwijzing en Toezicht op de instellingen voor overeenstemmingsbeoordelingsprocedures voor het Warenwetbesluit explosieveilig materieel, zoals opgenomen in de bijlage bij de regeling. 
 
 ###Artikel  3  
 
-De dossiers en de briefwisseling die betrekking hebben op de certificeringsprocedures, bedoeld in [het besluit](../../../../../AMvB/besluit/explosieveilig/materieel/BWBR0007497/README.md), worden gesteld in de Nederlandse taal, of in een andere door de aangewezen aangemelde instelling aanvaarde taal. 
+De dossiers en de briefwisseling die betrekking hebben op de certificeringsprocedures, bedoeld in het besluit, worden gesteld in de Nederlandse taal, of in een andere door de aangewezen aangemelde instelling aanvaarde taal. 
 
 ###Artikel  4  
 
-In het jaarverslag, bedoeld in [artikel 7c, tweede lid, van de wet](../../../../../wet/warenwet/BWBR0001969/README.md), worden door de aangewezen aangemelde instelling ten minste de volgende onderwerpen behandeld: 
+In het jaarverslag, bedoeld in artikel 7c, tweede lid, van de wet, worden door de aangewezen aangemelde instelling ten minste de volgende onderwerpen behandeld: 
 
 a. de door de instelling afgegeven, ingetrokken dan wel geweigerde certificaten;  
 
@@ -65,30 +65,30 @@ R.L.O.  Linschoten
 
 ####Schema voor Aanwijzing en Toezicht op de instellingen voor overeenstemmings- beoordelingsprocedures voor het Warenwetbesluit explosieveilig materieel
 
-Document: WDA&T ATEX: 2011, versie 01  *Onder beheer van:*  Ministerie van SZW Postbus 90801 2509 LV Den Haag www.minszw.nl 
+Document: WDA&T ATEX  *Onder beheer van:*  Ministerie van SZW Postbus 90801 2509 LV Den Haag www.minszw.nl 
 
 ####Inhoud
 
-| --- | --- | --- |
-|:---|:---|:---|
-| 1.  | Inleiding  | 287  |
-| --- | --- | --- |
-| 2.  | Definities  | 287  |
-| --- | --- | --- |
-| 3.  | Werkveldspecifieke kenmerken  | 288  |
-| 3.1  | Beschrijving document  | 288  |
-| 3.2  | Risicoanalyse  | 288  |
-| --- | --- | --- |
-| 4.  | Eisen ten behoeve van de aanwijzing  | 288  |
-| 4.1  | Algemeen kader  | 288  |
-| 4.2  | Procedures voor de beoordeling van overeenstemming  | 289  |
-| 4.2.1  | Producten conform de Richtlijn  | 289  |
-| 4.2.2  | Functies en vakbekwaamheidseisen  | 289  |
-| 4.3  | Aanwijzingscriteria  | 289  |
-| --- | --- | --- |
-| 5.  | Toezicht  | 290  |
-| --- | --- | --- |
-| 6.  | Maatregelen  | 290  |
+| --- | --- |
+|:---|:---|
+| 1.  | Inleiding  |
+| --- | --- |
+| 2.  | Definities  |
+| --- | --- |
+| 3.  | Werkveldspecifieke kenmerken  |
+| 3.1  | Beschrijving document  |
+| 3.2  | Risicoanalyse  |
+| --- | --- |
+| 4.  | Eisen ten behoeve van de aanwijzing  |
+| 4.1  | Algemeen kader  |
+| 4.2  | Procedures voor de beoordeling van overeenstemming  |
+| 4.2.1  | Producten conform de Richtlijn  |
+| 4.2.2  | Functies en vakbekwaamheidseisen  |
+| 4.3  | Aanwijzingscriteria  |
+| --- | --- |
+| 5.  | Toezicht  |
+| --- | --- |
+| 6.  | Maatregelen  |
 
 ### 1  
 
@@ -129,17 +129,17 @@ Dit werkveldspecifieke document voor Aanwijzing en Toezicht binnen de werkvelden
 
 De keuringsinstelling dient in alle gevallen haar werkzaamheden op integere, onpartijdige en onafhankelijke wijze uit te voeren en zal daarbij rekening houden met de mogelijke risico’s in de volgende gebieden: 
 
-* de autonomie in onderzoek (inspecteren, keuren, auditeren), rapportage en certificatie (zie o.a. paragraaf 4.2 van de NEN-EN-ISO/IEC 45011: 1998, hoofdstuk 4 uit de NEN-EN-ISO/IEC 17020: 2004 en paragrafen 5.1. en 5.2 van de NEN-EN-ISO/IEC 17021: 2011 voor voorzieningen die dit risico moeten beperken);  
+* de autonomie in onderzoek (inspecteren, keuren, auditeren), rapportage en certificatie (zie onder andere paragraaf 5.2 van de NEN-EN-ISO/IEC 17065:2012, paragraaf 4.1.4 uit de NEN-EN-ISO/IEC 17020:2012 en paragrafen 5.1. en 5.2 van de NEN-EN-ISO/IEC 17021:2011 voor voorzieningen die dit risico moeten beperken);  
 
-* het niveau van deskundigheid en vakbekwaamheid (zie o.a. hoofdstuk 5 van de NEN-EN-ISO/IEC 45011: 1998, hoofdstuk 8 uit de NEN-EN-ISO/IEC 17020: 2004 voor voorzieningen die dit risico moeten beperken);  
+* het niveau van deskundigheid en vakbekwaamheid (zie onder andere paragraaf 6.1.2 van de NEN-EN-ISO/IEC 17065:2012, paragraaf 6.1 uit de NEN-EN-ISO/IEC 17020:2012 voor voorzieningen die dit risico moeten beperken); 
 
-* het hanteren van vertrouwelijke informatie (zie o.a. paragraaf 4.10 van de NEN-EN-ISO/IEC 45011: 1998, hoofdstuk 5 van de NEN-EN-ISO/IEC 17020: 2004 en paragraaf 8.5 van de NEN-EN-ISO/IEC 17021: 2011 voor voorzieningen die dit risico moeten beperken);  
+* het hanteren van vertrouwelijke informatie (zie onder andere paragraaf 4.5 van de NEN-EN-ISO/IEC 17065:2012, paragraaf 4.2 van de NEN-EN-ISO/IEC 17020:2012 en paragraaf 8.5 van de NEN-EN-ISO/IEC 17021:2011 voor voorzieningen die dit risico moeten beperken); 
 
 * de mate van transparantie van de werkprocessen;  
 
-* het verwerken van ontvangen klachten en bezwaren (zie o.a. hoofdstuk 7 van de EN 45011, hoofdstuk 15 uit de NEN-EN-ISO/IEC 17020: 2004 en paragraaf 9.8 van de NEN-EN-ISO/IEC 17021: 2011 voor voorzieningen die dit risico moeten beperken);  
+* het verwerken van ontvangen klachten en bezwaren (zie onder andere paragraaf 7.13 van de EN NEN-EN-ISO/IEC 17065:2012, hoofdstuk 7.5 uit de NEN-EN-ISO/IEC 17020:2012 en paragraaf 9.8 van de NEN-EN-ISO/IEC 17021:2011 voor voorzieningen die dit risico moeten beperken);  
 
-* het nemen van verantwoordelijkheid voor uitgevoerde taken (zie o.a. paragraaf 7.5 uit de NEN-EN-ISO/IEC 17020: 2004 voor voorzieningen die dit risico moeten beperken).   Enkele voor de hand liggende risico’s voor keuringsinstellingen zijn: 
+* het nemen van verantwoordelijkheid voor uitgevoerde taken (zie onder andere paragraaf 5.1.1 uit de NEN-EN-ISO/IEC 17020:2012 voor voorzieningen die dit risico moeten beperken).   Enkele voor de hand liggende risico’s voor keuringsinstellingen zijn: 
 
 * onterecht een verklaring of certificaat afgeven;  
 
@@ -159,7 +159,7 @@ De keuringsinstelling dient in alle gevallen haar werkzaamheden op integere, onp
 
 Voor de beoordeling door de Raad van Accreditatie van instellingen die zijn of willen worden aangewezen door de minister van SZW, hanteert de Raad voor Accreditatie de eisen uit dit Schema voor Aanwijzing en Toezicht. Voor zover in dit Schema voor Aanwijzing en Toezicht geen nadere invulling wordt gegeven, zijn de eisen uit de betreffende accreditatienormen, te weten: 
 
-1) Voor *productcertificatie* de norm NEN-EN-ISO/IEC 45011: 1998 (certificatie product) of NEN-EN-ISO/IEC 17020: 2004 (inspectie);  
+1) Voor *productcertificatie* de norm NEN-EN-ISO/IEC 17065:2012 (certificatie product) of NEN-EN-ISO/IEC 17020: 2012 (inspectie);  
 
 2) Voor *systeemcertificatie* de norm NEN-EN-ISO/IEC 17021: 2011; onverkort van toepassing.   
 
@@ -175,9 +175,9 @@ Het beoordelen en aanwijzen van een keuringsinstelling gebeurt op grond van het 
 
 3) Als er sprake is van een accreditatie voor de scope van de richtlijn op basis van de relevante geharmoniseerde accreditatienormen, dan is er een gerechtvaardigd vertrouwen dat daarmee is voldaan aan het criterium onder punt 1 en 2: de minimumcriteria voor de aanwijzing van de aan te melden instanties door de Lid-Staten zoals vermeld in bijlage XI van de Richtlijn en de eisen in verband met aangemelde instanties van artikel R17 van bijlage I van het Besluit. De geharmoniseerde accreditatienormen zijn gepubliceerd in een Mededeling van de Commissie in het kader van de uitvoering van Verordening (EG) nr. 765/2008 van het Europees Parlement en de Raad, Besluit nr. 768/2008/EG van het Europees Parlement en de Raad, Verordening (EG) nr. 761/2001 van het Europees Parlement en de Raad (*EU Pl 2009/C 136 van 2009-06-16*). Als relevante geharmoniseerde accreditatienormen gelden: 
 
-a)  *productcertificatie* op basis van een accreditatie volgens de norm NEN-EN 45011 (certificatie product) of NEN-EN-ISO/IEC 17020: 2004 (inspectie);  
+a)  *productcertificatie* op basis van een accreditatie volgens de norm NEN-EN-ISO/IEC 17065:2012 (certificatie product) of NEN-EN-ISO/IEC 17020: 2012 (inspectie);  
 
-b)  *systeemcertificatie* op basis een accreditatie volgens de norm van ISO/IEC 17021.   De Raad voor Accreditatie zal voor de beoordeling van keuringsinstellingen gebruik maken van de EA-2/17: 2009 EA Guidance on the horizontal requirements for the accreditation of conformity assessment bodies for notification purposes (June 2009 rev01). De Guidance omvat de criteria voor aanwijzing van keuringsinstellingen, zoals hierboven onder de punten 1, 2 en 3 is vermeld. Uitgangspunt is dat instellingen die conformiteitsbeoordelingen uitvoeren in het kader van de Richtlijn zijn geaccrediteerd op grond van de toepasselijke geharmoniseerde accreditatienorm(en).   
+b)  *systeemcertificatie* op basis een accreditatie volgens de norm van ISO/IEC 17021.   De Raad voor Accreditatie zal voor de beoordeling van keuringsinstellingen gebruik maken van de EA-2/17M: 2009 Guidance on the horizontal requirements for the accreditation of conformity assessment bodies for notification purposes (June 2009 rev01). De Guidance omvat de criteria voor aanwijzing van keuringsinstellingen, zoals hierboven onder de punten 1, 2 en 3 is vermeld. Uitgangspunt is dat instellingen die conformiteitsbeoordelingen uitvoeren in het kader van de Richtlijn zijn geaccrediteerd op grond van de toepasselijke geharmoniseerde accreditatienorm(en).   
 
 ### 4.2  
 
@@ -219,7 +219,7 @@ De (aangemelde) aangewezen keuringsinstelling dient de verplichtingen na te kome
 
 a) Kosteloze informatieverstrekking aan SZW;  
 
-b) Mee te werken aan controles door SZW (in de praktijk betekent dit dat de controles door de Arbeidsinspectie, Team Certificatie, uitgevoerd kunnen worden);  
+b) Mee te werken aan controles door SZW (in de praktijk betekent dit dat de controles door de Inspectie SZW, uitgevoerd kunnen worden);  
 
 c) SZW in te lichten zodra zij een aanvraag indient voor een aanvullende accreditatie of beoordeling op basis van een wettelijke specifiek schema.  
 

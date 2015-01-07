@@ -96,7 +96,7 @@ De
 Minister van Volksgezondheid, Welzijn en Sport, 
 E.I. Schippers    
 
-####Bijlage
+### Bijlage  
 
 Bij de indeling in een klasse van een rechtspersoon of instelling in de zorg- of welzijnsector, zijn de volgende criteria van belang. Het betreft: 
 
@@ -162,9 +162,11 @@ tabel 1.3 *referentiescores complexiteit voor de verschillende sectoren*
 |  *GGZ*   | 1  | 1–2  |
 |  *Gehandicaptenzorg*   | 0  | 2  |
 |  *Ketenorganisaties*   | 1–2  | 1–2  |
-|  *Huisartsenposten/georganiseerde 1<sup>e</sup> lijnszorg* <sup> 1  Onder georganiseerde 1<sup>e</sup> lijnszorg wordt verstaan ketens van eerstelijnsorganisaties.  </sup>   | 1  | 1–2  |
-|  *Jeugdzorg (VWS)* <sup> 2  Onder Jeugdzorg wordt hier verstaan alle jeugdzorginstellingen die onder het regime van het ministerie van VWS vallen, met uitzondering van justitiële instellingen.  </sup>   | 1  | 1  |
-|  *Overige* <sup> 3  Er zijn instellingen die niet in een sector te plaatsen zijn zoals ambulancediensten, bloedbanken e.d.  </sup>   | --- | --- |
+|  *Huisartsenposten/georganiseerde 1<sup>e</sup> lijnszorg* <sup>1</sup>   | 1  | 1–2  |
+|  *Jeugdzorg (VWS)* <sup>2</sup>   | 1  | 1  |
+|  *Overige* <sup>3</sup>   | --- | --- |
+
+<sup>1</sup> Onder georganiseerde 1<sup>e</sup> lijnszorg wordt verstaan ketens van eerstelijnsorganisaties.<sup>2</sup> Onder Jeugdzorg wordt hier verstaan alle jeugdzorginstellingen die onder het regime van het ministerie van VWS vallen, met uitzondering van justitiële instellingen.<sup>3</sup> Er zijn instellingen die niet in een sector te plaatsen zijn zoals ambulancediensten, bloedbanken e.d.
 
 ### 2  
 
@@ -253,7 +255,7 @@ In de economische theorie worden een vijftal markten onderscheiden, die gehantee
 
 * de aard en mate van concurrentie (bijvoorbeeld in beeld te brengen door een concurrentiescan);  
 
-* de hoeveelheid en de diversiteit van systemen waarin of waarmee de inkoop plaats vindt (denk bijvoorbeeld aan een combinatie van Wet maatschappelijke ondersteuning met aanbestedingen, Wet langdurige zorg en Zorgverzekeringswet);  
+* de hoeveelheid en de diversiteit van systemen waarin of waarmee de inkoop plaats vindt (denk bijvoorbeeld aan een combinatie van Wet maatschappelijke ondersteuning 2015 met aanbestedingen, Wet langdurige zorg en Zorgverzekeringswet);  
 
 * het aantal partijen waarbij ingekocht moet worden en de inkoopmacht daarvan (denk aan het aantal zorgverzekeraars, provincies of gemeenten);  
 

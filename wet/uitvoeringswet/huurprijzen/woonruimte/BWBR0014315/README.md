@@ -20,7 +20,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1.  In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
-a.  *basishuurverhogingspercentage:* het maximale huurverhogingspercentage dat behoort bij het huishoudinkomen dat over het peiljaar lager is dan of gelijk is aan € 34.085; 
+a.  *basishuurverhogingspercentage:* het maximale huurverhogingspercentage dat behoort bij het huishoudinkomen dat over het peiljaar lager is dan of gelijk is aan € 34 229; 
 
 b.  *gebrek:* gebrek als bedoeld in artikel 7:241 van het Burgerlijk Wetboek;  
 
@@ -155,10 +155,9 @@ d. overige verplichtingen die voortvloeien uit die wet.
 
 ### Artikel  5  
 
-1.  De huurcommissie doet desverzocht uitspraak over de redelijkheid van een gebruiksvergoeding of een aanvullende vergoeding, als bedoeld in artikel 51, eerste, onderscheidenlijk derde lid, van de Huisvestingswet en over de wijziging daarvan, bedoeld in artikel 52, eerste lid, van die wet.   
-2.  De huurcommissie verstrekt desverzocht aan de rechter nadere inlichtingen over een door haar gedane uitspraak, alsmede, ingeval zij geen uitspraak heeft gedaan, indien de rechter geacht kan worden daarbij belang te hebben, over de aan een woonruimte toe te kennen kwaliteit en een voor die woonruimte redelijk te achten huurprijs.   
-3.  De huurcommissie verstrekt desverzocht verklaringen aan Onze Minister en aan publiekrechtelijke lichamen die geacht kunnen worden daarbij belang te hebben, over de aan een woonruimte toe te kennen kwaliteit, de gebreken ten aanzien van die woonruimte en een voor die woonruimte redelijk te achten huurprijs. De hierbedoelde verklaring wordt niet gegeven, indien het belang van de verklaring is gelegen in de beoordeling door de verzoeker van een huurovereenkomst als bedoeld in artikel 3, tenzij het belang daarvan gelegen is in de toepassing van artikel 1, vierde lid, van de Huisvestingswet. Bij ministeriële regeling kunnen voor de uitvoering van de in de eerste volzin bedoelde taak nadere regels worden gegeven.   
-4.  De huurcommissie geeft ten aanzien van een huurovereenkomst als bedoeld in artikel 3 desverzocht advies over aangelegenheden waaromtrent de huurcommissie bevoegd zou zijn uitspraak te doen indien artikel 3 daaraan niet in de weg zou staan. De huurcommissie geeft een dergelijk advies slechts voorzover in de huurovereenkomst of anderszins tussen partijen is afgesproken dat de desbetreffende aangelegenheden bij geschil aan de huurcommissie worden voorgelegd.  
+1.  De huurcommissie verstrekt desverzocht aan de rechter nadere inlichtingen over een door haar gedane uitspraak, alsmede, ingeval zij geen uitspraak heeft gedaan, indien de rechter geacht kan worden daarbij belang te hebben, over de aan een woonruimte toe te kennen kwaliteit en een voor die woonruimte redelijk te achten huurprijs.   
+2.  De huurcommissie verstrekt desverzocht verklaringen aan Onze Minister en aan publiekrechtelijke lichamen die geacht kunnen worden daarbij belang te hebben, over de aan een woonruimte toe te kennen kwaliteit, de gebreken ten aanzien van die woonruimte en een voor die woonruimte redelijk te achten huurprijs. De hierbedoelde verklaring wordt niet gegeven, indien het belang van de verklaring is gelegen in de beoordeling door de verzoeker van een huurovereenkomst als bedoeld in artikel 3. Bij ministeriële regeling kunnen voor de uitvoering van de in de eerste volzin bedoelde taak nadere regels worden gegeven.   
+3.  De huurcommissie geeft ten aanzien van een huurovereenkomst als bedoeld in artikel 3 desverzocht advies over aangelegenheden waaromtrent de huurcommissie bevoegd zou zijn uitspraak te doen indien artikel 3 daaraan niet in de weg zou staan. De huurcommissie geeft een dergelijk advies slechts voorzover in de huurovereenkomst of anderszins tussen partijen is afgesproken dat de desbetreffende aangelegenheden bij geschil aan de huurcommissie worden voorgelegd.  
 
 ### Artikel  6  
 
@@ -236,9 +235,9 @@ Voor het door de huurcommissie uitbrengen van een advies als bedoeld in artikel 
 1.  Bij of krachtens algemene maatregel van bestuur worden regels gegeven voor de waardering van de kwaliteit van een woonruimte, van de redelijkheid van de huurprijs en van wijziging daarvan, waarbij onderscheid kan worden gemaakt tussen woonruimte waarvoor de eigenaar een voor die woonruimte, overeenkomstig de op grond van artikel 120 van de Woningwet gegeven regels omtrent de energieprestatie van gebouwen, afgegeven energieprestatiecertificaat aan de huurder heeft verstrekt of indien dat niet het geval is daartoe op grond van die regels wel verplicht was, en overige woonruimte.   
 2.  Bij ministeriële regeling wordt het maximale huurverhogingspercentage vastgesteld, mede aan de hand van het gegeven of het huishoudinkomen over het peiljaar van de op het tijdstip van de in het voorstel tot verhoging van de huurprijs genoemde ingangsdatum in de woonruimte wonende huurder en overige bewoners, 
 
-a. hoger is dan € 34.085 doch lager is dan of gelijk is aan € 43.602, of  
+a. hoger is dan € 34 229 doch lager is dan of gelijk is aan € 43 786, of  
 
-b. hoger is dan € 43.602,   en of die woonruimte een zelfstandige woning vormt. Het huurverhogingspercentage, bedoeld in de eerste volzin, aanhef, is ten aanzien van de onderdelen a en b niet hoger dan het basishuurverhogingspercentage plus 0,5 procentpunt onderscheidenlijk het basishuurverhogingspercentage plus 2,5 procentpunt. Bij ministeriële regeling worden de bedragen, genoemd in artikel 1, eerste lid, onderdeel a, en de eerste volzin, met ingang van 1 januari van elk jaar, voor het eerst op 1 januari 2014, gewijzigd met het percentage waarmee per 1 januari van het peiljaar het bedrag, genoemd in artikel 18, eerste lid, onderdeel d, van de Wet op de huurtoeslag is gewijzigd.  
+b. hoger is dan € 43 786,   en of die woonruimte een zelfstandige woning vormt. Het huurverhogingspercentage, bedoeld in de eerste volzin, aanhef, is ten aanzien van de onderdelen a en b niet hoger dan het basishuurverhogingspercentage plus 0,5 procentpunt onderscheidenlijk het basishuurverhogingspercentage plus 2,5 procentpunt. Bij ministeriële regeling worden de bedragen, genoemd in artikel 1, eerste lid, onderdeel a, en de eerste volzin, met ingang van 1 januari van elk jaar, voor het eerst op 1 januari 2014, gewijzigd met het percentage waarmee per 1 januari van het peiljaar het bedrag, genoemd in artikel 18, eerste lid, onderdeel d, van de Wet op de huurtoeslag is gewijzigd.  
 
 ### §  2  
 

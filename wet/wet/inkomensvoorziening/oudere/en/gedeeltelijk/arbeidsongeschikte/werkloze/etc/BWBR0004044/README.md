@@ -135,21 +135,21 @@ b. de alleenstaande werkloze werknemer en de thuisinwonende werkloze werknemer.
 2.   Het recht op uitkering komt de werkloze werknemer en de echtgenoot gezamenlijk toe. De uitkering wordt aan de werkloze werknemer en de echtgenoot ieder voor de helft uitbetaald, dan wel op hun gezamenlijk verzoek aan een van hen voor het geheel.   
 3.   De grondslag, bedoeld in het eerste lid, wordt door Onze Minister zodanig vastgesteld dat:  
 
-a. voor de werkloze werknemer en de echtgenoot die beiden 21 jaar of ouder zijn, de helft van de grondslag netto gelijk is aan € 661,77 per 1 juli 2014: € 679,75;  
+a. voor de werkloze werknemer en de echtgenoot die beiden 21 jaar of ouder zijn, de helft van de grondslag netto gelijk is aan € 661,77 per 1 januari 2015: € 686,31;  
 
 b. deze voor de werkloze werknemer en de echtgenoot, waarvan een of elk van beiden jonger dan 21 jaar is, de som bedraagt van de grondslagen die voor elk van hen als een alleenstaande werknemer of een thuisinwonende werkloze werknemer zou gelden doch ten hoogste de grondslag als bedoeld in onderdeel *a*.     
 4.   De grondslag, bedoeld in het eerste lid, wordt door Onze Minister zodanig vastgesteld dat deze:  
 
-a. voor de alleenstaande werkloze werknemer van 23 jaar of ouder netto gelijk is aan € 926,47 per 1 juli 2014: € 951,64;  
+a. voor de alleenstaande werkloze werknemer van 23 jaar of ouder netto gelijk is aan € 926,47 per 1 januari 2015: € 960,83;  
 
-b. voor de alleenstaande werkloze werknemer van 22 jaar netto gelijk is aan € 766,74 per 1 juli 2014: € 787,75;  
+b. voor de alleenstaande werkloze werknemer van 22 jaar netto gelijk is aan € 766,74 per 1 januari 2015: € 794,76;  
 
-c. voor de alleenstaande werkloze werknemer van 21 jaar netto gelijk is aan € 672,03 per 1 juli 2014: € 691,42.     
+c. voor de alleenstaande werkloze werknemer van 21 jaar netto gelijk is aan € 672,03 per 1 januari 2015: € 698,12.     
 5.   De grondslag, bedoeld in het eerste lid, wordt door Onze Minister zodanig vastgesteld dat deze:  
 
-a. voor de alleenstaande werkloze werknemer van 18, 19 of 20 jaar netto gelijk is aan € 637,75 per 1 juli 2014: € 655,06;  
+a. voor de alleenstaande werkloze werknemer van 18, 19 of 20 jaar netto gelijk is aan € 637,75 per 1 januari 2015: € 662,28;  
 
-b. voor de thuisinwonende werkloze werknemer netto gelijk is aan € 350,38 per 1 juli 2014: € 359,91.     
+b. voor de thuisinwonende werkloze werknemer netto gelijk is aan € 350,38 per 1 januari 2015: € 363,79.     
 6.  Indien dat lager is dan de grondslag, vastgesteld op grond van het derde tot en met vijfde lid, bedraagt de grondslag, bedoeld in het eerste lid, 10/7 x A + B, waarbij: A staat voor de uitkeringen ontvangen door de werkloze werknemer op grond van de Werkloosheidswet, de Ziektewet, de Wet op de arbeidsongeschiktheidsverzekering en de Wet werk en inkomen naar arbeidsvermogen in de kalendermaand voorafgaande aan de dag waarop de geldende uitkeringsduur op grond van de Werkloosheidswet of de geldende uitkeringsduur van de loongerelateerde werkhervattingsuitkering gedeeltelijk arbeidsgeschikten als bedoeld in hoofdstuk 7 van de Wet werk en inkomen naar arbeidsvermogen is verstreken; B staat voor het loon uit dienstbetrekking dat de werkloze werknemer in die kalendermaand verdiende, waarbij A wordt herzien op de wijze als bedoeld in artikel 14 van de Wet minimumloon en minimumvakantiebijslag.   
 7.  Voor de toepassing van het zesde lid wordt onder uitkering op grond van de Werkloosheidswet tevens verstaan inkomen dat op grond van artikel 34 van de Werkloosheidswet geheel in mindering is gebracht op de uitkering op grond van de Werkloosheidswet.   
 8.  Voor de toepassing van het zesde lid worden de uitkeringen op grond van de Werkloosheidswet en de Ziektewet vermenigvuldigd met 21,75 en vervolgens gedeeld door het aantal werkdagen in die betreffende kalendermaand.   
@@ -195,10 +195,10 @@ Indien het recht op uitkering als gevolg van werkaanvaarding van de werkloze wer
 a. voor de werkloze werknemer en de echtgenoot: de som van het inkomen uit arbeid of overig inkomen van hemzelf en zijn echtgenoot;  
 
 b. voor de alleenstaande en de thuiswonende werkloze werknemer: zijn inkomen uit arbeid of overig inkomen.     
-2.  In afwijking van het eerste lid wordt niet als inkomen uit arbeid beschouwd het inkomen uit arbeid gedurende zes aangesloten maanden tot 25 procent van dit inkomen, met een maximum van € 291,04 per 1 juli 2014: € 306,56 per maand, voor zover een uitkering wordt ontvangen en dit naar het oordeel van burgemeester en wethouders bijdraagt aan de arbeidsinschakeling.   
+2.  In afwijking van het eerste lid wordt niet als inkomen uit arbeid beschouwd het inkomen uit arbeid gedurende zes aangesloten maanden tot 25 procent van dit inkomen, met een maximum van € 291,04 per 1 januari 2015: € 309,36 per maand, voor zover een uitkering wordt ontvangen en dit naar het oordeel van burgemeester en wethouders bijdraagt aan de arbeidsinschakeling.   
 3.  Bij algemene maatregel van bestuur wordt bepaald wat wordt verstaan onder inkomen uit arbeid of overig inkomen als bedoeld in het eerste lid. Daarbij kan tevens worden bepaald dat nader te bepalen inkomen dat gedeeltelijk, niet, of niet langer wordt genoten als gevolg van gewijzigde omstandigheden of enig handelen of nalaten van betrokkene in aanmerking wordt genomen alsof het wel volledig wordt genoten.   
 4.  Het bedrag, genoemd in het tweede lid, wordt gewijzigd met ingang van de dag waarop het in artikel 31, tweede lid, onderdeel n, van de Participatiewet genoemde bedrag wordt gewijzigd. Het gewijzigde bedrag, wordt, samen met de dag waarop de wijzigingen ingaan, door of namens Onze Minister bekend gemaakt in de Staatscourant.  
-5.  In afwijking van het eerste lid wordt niet als inkomen uit arbeid beschouwd het inkomen uit arbeid van een alleenstaande ouder tot 12,5 procent van dit inkomen, met een maximum van € 187,28 per 1 juli 2014: € 202,57 per maand, gedurende een aaneengesloten periode van maximaal 30 maanden, voor zover hij een uitkering ontvangt, ingeval: 
+5.  In afwijking van het eerste lid wordt niet als inkomen uit arbeid beschouwd het inkomen uit arbeid van een alleenstaande ouder tot 12,5 procent van dit inkomen, met een maximum van € 187,28 per 1 januari 2015: € 199,81 per maand, gedurende een aaneengesloten periode van maximaal 30 maanden, voor zover hij een uitkering ontvangt, ingeval: 
 
 a. hij de volledige zorg heeft voor zijn kind tot 12 jaar,  
 

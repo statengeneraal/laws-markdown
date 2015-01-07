@@ -151,8 +151,8 @@ Als model van het stralingspaspoort, bedoeld in artikel 94 van het besluit, word
 
 ####Kosten
 
-1.  Het stralingspaspoort wordt op aanvraag van de ondernemer tegen betaling van € 108,80 afgegeven door de beheerder van het NDRIS. Het eerste inlegvel is hieronder mede begrepen.   
-2.  Een inlegvel wordt op aanvraag van de ondernemer tegen betaling van € 22,75 afgegeven door de beheerder van het NDRIS.   
+1.  Het stralingspaspoort wordt op aanvraag van de ondernemer tegen betaling van € 109,85 afgegeven door de beheerder van het NDRIS. Het eerste inlegvel is hieronder mede begrepen.   
+2.  Een inlegvel wordt op aanvraag van de ondernemer tegen betaling van € 22,97 afgegeven door de beheerder van het NDRIS.   
 3.  De Minister van Sociale Zaken en Werkgelegenheid past de in het eerste en tweede lid genoemde bedragen elk jaar, met ingang van 1 januari, aan aan de ontwikkeling van de consumentenprijsindex sinds de vorige aanpassing van de bedragen en draagt zorg voor publicatie van de aanpassing in de Staatscourant.  
 
 ### Artikel  10  

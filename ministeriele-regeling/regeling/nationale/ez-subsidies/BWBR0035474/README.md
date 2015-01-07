@@ -15,27 +15,29 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-*algemene opleiding:* algemene opleiding als bedoeld in artikel 38, onderdeel 2, van de algemene groepsvrijstellingsverordening;  
-
 *besluit:* Kaderbesluit nationale EZ-subsidies;  
 
-*communautaire norm:* communautaire norm als bedoeld in punt 70.3 van de Communautaire richtsnoeren inzake staatssteun voor milieubescherming (PbEU 2008, C 82);  
+*daadwerkelijke samenwerking:* daadwerkelijke samenwerking als bedoeld in artikel 2, onderdeel 90, van de algemene groepsvrijstellingsverordening; 
 
-*eco-innovatie:* eco-innovatie als bedoeld in punt 70.4 van de Communautaire richtsnoeren inzake staatssteun voor milieubescherming nr. 2008/C 82/01 (PbEU 2008, C 82);  
+*eco-innovatie:* eco-innovatie als bedoeld in paragraaf 1.3, onderdeel 19, onder 4, van de Richtsnoeren staatssteun ten behoeve van milieubescherming en energie 2014–2020 (PbEU 2014, C200);  
 
-*experimentele ontwikkeling:* experimentele ontwikkeling als bedoeld in paragraaf 2.2, onder g, van de O&O&I-kaderregeling;  
+*experimentele ontwikkeling:* experimentele ontwikkeling als bedoeld in artikel 2, onderdeel 86, van de algemene groepsvrijstellingsverordening en paragraaf 1.3, onderdeel j, van de O&O&I-kaderregeling;  
 
-*fundamenteel onderzoek:* fundamenteel onderzoek als bedoeld in paragraaf 2.2, onder e, van de O&O&I-kaderregeling;  
+*fundamenteel onderzoek:* fundamenteel onderzoek als bedoeld in artikel 2, onderdeel 84, van de algemene groepsvrijstellingsverordening en paragraaf 1.3, onderdeel m, van de O&O&I-kaderregeling;  
 
-*hernieuwbare energiebronnen:* hernieuwbare energiebronnen als bedoeld in punt 70.5 van de Communautaire richtsnoeren inzake staatssteun voor milieubescherming nr. 2008/C 82/01 (PbEU 2008, C 82);  
+*groepsvrijstellingsverordening landbouw:* Verordening (EU) nr. 702/2014 van de Commissie van 25 juni 2014 waarbij bepaalde categorieën steun in de landbouw- en de bosbouwsector en in plattelandsgebieden op grond van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie met de interne markt verenigbaar worden verklaard (PbEU 2014, L 193); 
 
-*hooggekwalificeerd personeel:* hooggekwalificeerd personeel als bedoeld in paragraaf 2.2, onderdeel k, van de O&O&I-kaderregeling;  
+*haalbaarheidsstudie:* haalbaarheidsstudie als bedoeld in artikel 2, onderdeel 87, van de algemene groepsvrijstellingsverordening en paragraaf 1.3, onderdeel k, van de O&O&I-kaderregeling; 
 
-*industrieel onderzoek:* industrieel onderzoek als bedoeld in paragraaf 2.2, onder f, van de O&O&I-kaderregeling;  
+*hernieuwbare energiebronnen:* hernieuwbare energiebronnen als bedoeld in als bedoeld in artikel 2, onderdeel 110, van de algemene groepsvrijstellingsverordening, en paragraaf 1.3, onderdeel 19, onder 5, van de Richtsnoeren staatssteun ten behoeve van milieubescherming en energie 2014–2020 (PbEU 2014, C200);  
 
-*innovatieadviesdienst:* innovatieadviesdienst als bedoeld in paragraaf 5.6, eerste gedachtestreepje van de O&O&I-kaderregeling;  
+*hooggekwalificeerd personeel:* hooggekwalificeerd personeel als bedoeld in artikel 2, onderdeel 93, van de algemene groepsvrijstellingsverordening en paragraaf 1.3, onderdeel o, van de O&O&I-kaderregeling;  
 
-*innovatiecluster:* innovatiecluster als bedoeld in paragraaf 2.2, onderdeel m, van de O&O&I-kaderregeling;  
+*industrieel onderzoek:* industrieel onderzoek als bedoeld in artikel 2, onderdeel 85, van de algemene groepsvrijstellingsverordening en paragraaf 1.3, onderdeel q, van de O&O&I-kaderregeling;  
+
+*innovatieadviesdiensten:* innovatieadviesdiensten als bedoeld in artikel 2, onderdeel 94, van de algemene groepsvrijstellingsverordening en paragraaf 1.3, onderdeel r, van de O&O&I-kaderregeling;  
+
+*innovatieclusters:* innovatieclusters als bedoeld in artikel 2, onderdeel 92, van de algemene groepsvrijstellingsverordening en paragraaf 1.3, onderdeel r, van de O&O&I-kaderregeling;  
 
 *innovatieve starter:* innovatieve starter als bedoeld in paragraaf 5.4 van de O&O&I-kaderregeling;  
 
@@ -45,21 +47,11 @@ a. alleen in eigendom, pacht of erfpacht heeft, of
 
 b. volledig in eigendom, pacht of erfpacht heeft met een andere natuurlijke persoon die niet eerder een landbouwonderneming volledig in eigendom, pacht of erfpacht heeft gehad.    
 
-*milieubescherming:* milieubescherming als bedoeld in punt 70.1 van de Communautaire richtsnoeren inzake staatssteun voor milieubescherming nr. 2008/C 82/01 (PbEU 2008, C 82);  
-
 *minister:* Minister van Economische Zaken;  
 
-*O&O&I-kaderregeling:* Communautaire kaderregeling inzake staatssteun voor onderzoek, ontwikkeling en innovatie nr. 2006/ C 323/01 (PbEU 2006, C 323);  
+*O&O&I-kaderregeling:* Kaderregeling betreffende staatssteun voor onderzoek, ontwikkeling en innovatie nr. 2014/C 198/01 (PbEU 2014, C 198);  
 
-*referentiekosten:* kosten voor een investering ten behoeve van een in Nederland gangbaar systeem, apparaat of techniek die in technisch opzicht vergelijkbaar is met een in Nederland uit te voeren project maar waarmee niet hetzelfde niveau van milieubescherming kan worden bereikt als met het uit te voeren project, terwijl, in geval van een uit te voeren project voor hernieuwbare energie, de capaciteit voor de opwekking van energie van dat project ten minste overeenkomt met die van de eerstbedoelde investering;  
-
-*specifieke opleiding:* specifieke opleiding als bedoeld in artikel 38, onderdeel 1, van de algemene groepsvrijstellingsverordening;  
-
-*stadsverwarming:* stadsverwarming als bedoeld in punt 70.12 van de Communautaire richtsnoeren inzake staatssteun voor milieubescherming nr. 2008/C 82/01 (PbEU 2008, C 82);  
-
-*technische haalbaarheidsstudie:* technische haalbaarheidsstudie als bedoeld in paragraaf 5.2 van de O&O&I-kaderregeling;  
-
-*warmtekrachtkoppeling:* warmtekrachtkoppeling als bedoeld in punt 70.10 van de Communautaire richtsnoeren inzake staatssteun voor milieubescherming nr. 2008/C 82/01 (PbEU 2008, C 82).   
+*Unienorm:* Unienorm als bedoeld in artikel 2, onderdeel 102, van de algemene groepsvrijstellingsverordening, en paragraaf 1.3, onderdeel 19, onder 3, van de Richtsnoeren staatssteun ten behoeve van milieubescherming en energie 2014–2020 (PbEU 2014, C200).  
 
 ### Artikel  1.2  
 
@@ -86,6 +78,31 @@ De vaste opslag voor indirecte kosten, bedoeld in artikel 13, eerste lid, onderd
 
 De accountant of accountant-administratiefconsulent controleert en stelt de controleverklaring vast met inachtneming van de voorschriften, gesteld in bijlage 1.3. 
 
+### Artikel  1.6  
+
+####Afwijzingsgronden
+
+1.  Op grond van de hoofdstukken 3 en 4 wordt geen subsidie, voor zover deze valt onder de algemene groepsvrijstellingsverordening, verleend aan een onderneming voor zover deze actief is in een op grond van artikel 1, derde lid, onderdeel a, b, of c, van de algemene groepsvrijstellingsverordening uitgesloten sector.   
+2.  Op grond van de hoofdstukken 3 en 4 wordt geen subsidie, voor zover deze valt onder de algemene groepsvrijstellingsverordening, verleend aan een onderneming die actief is zowel in een in artikel 1, derde lid, onderdeel a, b, of c, van de algemene groepsvrijstellingsverordening uitgesloten sector als in een andere sector, tenzij deze onderneming er, met passende middelen zoals een scheiding van de activiteiten of een uitsplitsing van de kosten, voor zorgt dat de activiteiten in de uitgesloten sector geen uit hoofde van deze regeling voor een andere sector bestemde subsidie genieten.   
+3.  Onverminderd artikel 23, eerste lid, onderdelen b, f en h, van het besluit wordt geen subsidie verleend aan: 
+
+a. een onderneming tegen wie een bevel tot terugvordering uitstaat als bedoeld in artikel 1, vierde lid, onderdeel a, van de algemene groepsvrijstellingsverordening, respectievelijk, indien het een landbouwonderneming betreft, artikel 1, vijfde lid, onderdeel a, van de groepsvrijstellingsverordening landbouw;  
+
+b. een onderneming als bedoeld in artikel 1, vierde lid, onderdeel c, van de algemene groepsvrijstellingsverordening, respectievelijk, indien het een landbouwonderneming betreft, artikel 1, zesde lid, van de groepsvrijstellingsverordening landbouw.     
+4.  Geen subsidie wordt verleend aan een onderneming die op het tijdstip van de verlening van de subsidie geen vaste inrichting of dochteronderneming in Nederland heeft.  
+
+### Artikel  1.7  
+
+####In aanmerking komende kosten
+
+In aanvulling op artikel 10, vierde lid, van het besluit, worden, indien de subsidie valt onder de algemene groepsvrijstellingsverordening, respectievelijk de groepsvrijstellingsverordening landbouw: 
+
+a. de in aanmerking komende kosten berekend en gestaafd met bewijsstukken, overeenkomstig artikel 7, eerste lid, van de algemene groepsvrijstellingsverordening, respectievelijk artikel 7, eerste lid, van de groepsvrijstellingsverordening landbouw;  
+
+b. indien de steun in meerdere tranches wordt uitgekeerd, de in aanmerking komende kosten gedisconteerd overeenkomstig artikel 7, derde lid, van de algemene groepsvrijstellingsverordening, respectievelijk artikel 7, vierde lid, van de groepsvrijstellingsverordening landbouw;  
+
+c. indien de steun wordt toegekend in de vorm van belastingvoordelen, de steuntranches gedisconteerd overeenkomstig artikel 7, vierde lid, van de algemene groepsvrijstellingsverordening, respectievelijk artikel 7, vijfde lid, van de groepsvrijstellingsverordening landbouw.   
+
 ### Hoofdstuk  2  
 
 ####Agro
@@ -110,6 +127,16 @@ b. komen de kosten uitsluitend in aanmerking tot ten hoogste het bedrag dat word
 
 3°. Schaal 13 voor toezichthoudend personeel.       
 2.  Indien in dit hoofdstuk is bepaald dat kosten voor eigen arbeid in aanmerking komen voor een subsidie wordt het uurtarief vastgesteld op het in het eerste lid, onderdeel b, afhankelijk van het type werkzaamheden bedoelde bedrag.  
+
+### Artikel  2.1.2  
+
+####Begripsomschrijvingen
+
+In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder: 
+
+*landbouwsteunkader:* Richtsnoeren van de Europese Unie voor staatssteun in de landbouw- en de bosbouwsector en in plattelandsgebieden 2014–2020 nr. 2014/C 204/01 (PbEU 2014, C 204);  
+
+*vervangingsinvestering:* investering voor het eenvoudige vervangen van een bestaand gebouw of een bestaande machine, of delen daarvan, door een nieuw modern gebouw of een nieuwe moderne machine, zonder dat daarbij de productiecapaciteit met meer dan 25% wordt verhoogd of de betrokken productie of technologie fundamenteel wordt gewijzigd.   
 
 ### Titel  2.2  
 
@@ -147,12 +174,22 @@ b. voor een udv-project, aan een samenwerkingsverband waarin ten minste twee ond
 
 ####Informatieverplichtingen
 
-1.  De aanvrager motiveert bij de aanvraag van subsidie: 
+1.  Een aanvraag voor subsidie als bedoeld in artikel 2.2.2 bevat ten minste de gegevens, bedoeld in artikel 6, tweede lid, van de algemene groepsvrijstellingsverordening en artikel 6, tweede lid, van de groepsvrijstellingsverordening landbouw.   
+2.  Onverminderd het eerste lid bevat een aanvraag voor subsidie ten minste: 
+
+a. gegevens over de aanvrager, waaronder het nummer waaronder de onderneming geregistreerd is bij de Kamer van Koophandel, het post- en bezoekadres en het rekeningnummer;  
+
+b. gegevens over de contactpersoon bij de aanvrager, waaronder de naam, het telefoonnummer en het e-mailadres;  
+
+c. indien van toepassing de topsector waarbinnen het project wordt uitgevoerd;  
+
+d. een begroting waarin de totale kosten van het project en de omvang van de gevraagde subsidie zijn opgenomen.    
+3.  De aanvrager motiveert bij de aanvraag van subsidie: 
 
 a. voor een project als bedoeld in artikel 2.2.2, eerste lid, onderdeel a, op welke wijze voldaan wordt aan de criteria, genoemd in artikel 2.2.9, derde lid.  
 
 b. voor een project als bedoeld in artikel 2.2.2, eerste lid, onderdeel b, op welke wijze voldaan wordt aan de criteria, genoemd in artikel 2.2.9, vierde lid.     
-2.  Bij de aanvraag worden loonkosten gespecificeerd.  
+4.  Bij de aanvraag worden loonkosten gespecificeerd.  
 
 ### Artikel  2.2.4  
 
@@ -174,7 +211,8 @@ c. de kosten voor het vastleggen en verspreiden van kennis, waaronder begrepen d
 
 d. de kosten voor het inhuren van consultatie en bijstand in het kader van innovatieadvies.     
 2.  Voor een project als bedoeld in artikel 2.2.2, onderdeel b, komen tevens in aanmerking voor subsidie de kosten apparatuur en materiaal, die rechtstreeks uit het project voortvloeien.   
-3.  De kosten, bedoeld in het eerste lid, kunnen bestaan uit loonkosten en kosten voor eigen arbeid.  
+3.  De kosten, bedoeld in het eerste lid, kunnen bestaan uit loonkosten en kosten voor eigen arbeid.   
+4.  De kosten, bedoeld in het eerste en tweede lid, komen slechts voor subsidie in aanmerking voor zover deze kosten vallen binnen de kostensoorten, genoemd in de artikelen 28 en 29 van de algemene groepsvrijstellingsverordening en artikel 14 van de groepsvrijstellingsverordening landbouw. 
 
 ### Artikel  2.2.6  
 
@@ -233,7 +271,7 @@ e. de mate van vernieuwing ten opzichte van de gangbare praktijk en techniek gro
 
 ####Staatssteun
 
-De subsidie, bedoeld in artikel 2.2.2 bevat staatssteun en wordt gerechtvaardigd door Verordening (EU) nr. 702/2014 van 25 juni 2014 waarbij bepaalde categorieën steun in de landbouw- en de bosbouwsector en in plattelandsgebieden op grond van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie met de interne markt verenigbaar worden verklaard (PbEU 2014, 193) en Verordening (EU) nr. 651/2014 van de Commissie van 17 juni 2014 waarbij bepaalde categorieën steun op grond van de artikelen 107 en 108 van het Verdrag met de interne markt verenigbaar worden verklaard (PbEU 2014, L187). 
+De subsidie, bedoeld in artikel 2.2.2 bevat staatssteun en wordt gerechtvaardigd door de artikelen 28 en 29 van de algemene groepsvrijstellingsverordening en artikel 14 van de groepsvrijstellingsverordening landbouw. 
 
 ### Artikel  2.2.12  
 
@@ -261,77 +299,82 @@ a. een tweede energiescherm;
 
 b. verticale ventilatoren;  
 
-c. een hogedruk vernevelingssysteem ten behoeve van kaskoeling;  
+c. meerinvesteringen diffuus glas met antireflectiecoating;  
 
-d. een luchtbehandelingssysteem met ventilatoren en luchtdistributie(slurven), waarmee buitenlucht via warmtewisseling (voor)verwarmd, al dan niet gemengd met aangezogen kaslucht, door frequentiegeregelde ventilatoren in de kas gebracht wordt om de kaslucht op een energiezuinige manier te ontvochtigen bij gebruik van energieschermen;  
+d. de aansluiting op een warmtenetwerk of -cluster;  
 
-e. diffuus glas met antireflectiecoating;  
+e. de aansluiting op een biogas- of kooldioxide-netwerk of -cluster;  
 
-f. de aansluiting op een warmtenetwerk of -cluster;  
-
-g. de aansluiting op een biogas- of kooldioxide-netwerk of -cluster;  
-
-h. een warmtepomp;  
-
-i. een ketel of kachel gestookt op biomassa als bedoeld in nummer 251105 van bijlage 1 bij de Uitvoeringsregeling energie-investeringsaftrek 2001.     
+f. een ketel of kachel gestookt op biomassa als bedoeld in nummer 251105 van bijlage 1 bij de Uitvoeringsregeling energie-investeringsaftrek 2001.     
 2.  Geen subsidie wordt verstrekt voor: 
 
 a. gevelschermen, (teeltkundig vereiste) verduisteringsschermen of wettelijk verplichte lichtafschermingsschermen;  
 
 b. een tweede energiescherm, indien het totale energieverbruik van de onderneming meer dan 20 kubieke meter aardgasequivalenten per vierkante meter kasoppervlak bedraagt;  
 
-c. diffuus glas met antireflectiecoating, indien de lichtdoorlatendheid van het glas lager is dan 80% ten opzichte van diffuus licht, of waarbij het PAR-licht lager is dan 90%, of de hazefactor lager is dan 25%.    
+c. diffuus glas met antireflectiecoating, indien de lichtdoorlatendheid van het glas lager is dan 80% hemisferische PAR transmissie of waarbij de loodrechte PAR transmissie lager is dan 90% of de hazefactor lager is dan 25%;  
+
+d. vervangingsinvesteringen;  
+
+e. investeringen in installaties die vooral tot doel hebben elektriciteit op te wekken uit biomassa;  
+
+f. investeringen met het oog op de productie, op het landbouwbedrijf, van biobrandstoffen in de zin van Richtlijn 2009/28/EG van het Europees Parlement en de Raad van 23 april 2009 ter bevordering van het gebruik van energie uit hernieuwbare bronnen en houdende wijziging en intrekking van Richtlijn 2001/77/EG en Richtlijn 2003/30/EG (PbEU 2009, L 140);  
+
+g. investeringen in installaties voor de productie van hernieuwbare energie met het oog op de productie, op het glastuinbouwbedrijf, van thermische energie of elektriciteit uit hernieuwbare bronnen, indien: 
+
+1°. het niet de bedoeling is in de eigen energiebehoeften te voorzien;  
+
+2°. de productiecapaciteit van die installaties groter is dan de capaciteit die overeenstemt met het gecombineerde gemiddelde jaarlijkse energieverbruik van thermische energie en elektriciteit van het glastuinbouwbedrijf, met inbegrip van het glastuinbouwhuishouden, of  
+
+3°. verkoop van elektriciteit aan het net plaatsvindt die buiten de jaarlijkse limiet van het eigen verbruik, bedoeld onder 2°, valt;    
+
+h. investeringen die niet in overeenstemming zijn met de wetgeving van de Europese Unie en met de nationale milieubeschermingswetgeving;  
+
+i. investeringen die in strijd zouden zijn met de beperkingen als bedoeld in punt 151 van het landbouwsteunkader;  
+
+j. de investeringen met betrekking tot irrigatie op nieuwe en bestaande geïrrigeerde arealen die niet voldoen aan de voorwaarden van punt 149 en 150 van het landbouwsteunkader.    
+3.  Indien meer dan één glastuinbouwbedrijf de investering met het oog op de productie, op het glastuinbouwbedrijf, van energie uit hernieuwbare bronnen om in de eigen energiebehoeften te voorzien, wordt onder het gemiddelde, bedoeld in het tweede lid, onderdeel g, mede verstaan het gemiddelde jaarlijkse verbruik van elk van die bedrijven opgeteld tot de hoeveelheid die overeenstemt met het gemiddelde jaarlijkse verbruik van alle begunstigden van de subsidie, bedoeld in het eerste lid. 
 
 ### Artikel  2.3.3  
 
 ####Subsidievoorwaarden
 
-1.  De minister verstrekt subsidie voor een investering als bedoeld in artikel 2.3.2 voor zover die investering leidt tot: 
+1.  De minister verstrekt subsidie voor een investering als bedoeld in artikel 2.3.2, indien de investering ten minste gericht is op één van de doelstellingen, genoemd in punt 143, onder a en b, van het landbouwsteunkader.   
+2.  Subsidie voor apparatuur, installaties of machines als bedoeld in artikel 2.3.2, eerste lid, onderdeel f, wordt uitsluitend verstrekt indien: 
 
-a. verlaging van de productiekosten en het energieverbruik;  
+a. de energie die wordt opgewekt door de apparatuur, installaties of machines uitsluitend wordt gebruikt door de glastuinbouwonderneming die de subsidie heeft aangevraagd ten behoeve van tuinbouwdoeleinden van die onderneming en  
 
-b. de verbetering en omschakeling van de productie;  
+b. de apparatuur, installaties of machines niet meer energie genereren dan vermeld staat op de laatste jaarafrekening van het energieverbruik van de glastuinbouwonderneming.     
+3.  De termijn, bedoeld in artikel 23, eerste lid, onderdeel c, van het besluit, is twee jaar en zes maanden.  
 
-c. de instandhouding en verbetering van het natuurlijk milieu, de hygiënische omstandigheden, voedselveiligheid of duurzaam gebruik van energiebronnen;  
+### Artikel  2.3.3a  
 
-d. herstructurering en ontwikkeling;  
+####Eén aanvraag per glastuinbouwonderneming
 
-e. verhoging van de kwaliteit en toegevoegde waarde van producten;  
-
-f. verbetering van de arbeidsomstandigheden in de onderneming;  
-
-g. verhoging van de doelmatigheid bij inzet en gebruik van middelen, machines en menskracht, of  
-
-h. het tot waarde brengen van bij-, rest- en afvalproducten;  
-
-i. verbetering van de leefkwaliteit op het platteland.     
-2.  Een glastuinbouwonderneming komt voor de subsidie in aanmerking indien: 
-
-a. door de investering de algehele prestatie van de glastuinbouwonderneming wordt verbeterd, en  
-
-b. de investering voldoet aan de daarvoor geldende EU-maatregelen en nationale voorschriften.     
-3.  Aan een glastuinbouwonderneming wordt geen subsidie verstrekt indien de subsidie betrekking heeft op vervangingsinvesteringen.   
-4.  Subsidie voor apparatuur, installaties of machines als bedoeld in artikel 2.3.2, eerste lid, onderdeel h, wordt uitsluitend verstrekt indien: 
-
-a. de energie die wordt opgewekt door de apparatuur, installaties of machines uitsluitend wordt gebruikt door de landbouwonderneming die de subsidie heeft aangevraagd ten behoeve van landbouwdoeleinden van die onderneming en  
-
-b. de apparatuur, installaties of machines niet meer energie genereren dan vermeld staat op de laatste jaarafrekening van het energieverbruik van de landbouwonderneming.     
-5.  De termijn, bedoeld in artikel 23, eerste lid, onderdeel c, van het besluit, is twee jaar en zes maanden.  
+Per glastuinbouwonderneming kan één aanvraag worden ingediend voor een investering, als bedoeld in artikel 2.3.2, eerste lid. 
 
 ### Artikel  2.3.4  
 
 ####Informatieverplichtingen
 
-1.  De aanvraag tot subsidieverlening gaat vergezeld van: 
+1.  Een aanvraag voor subsidie als bedoeld in artikel 2.3.2 bevat ten minste de gegevens, bedoeld in punt 71 van het landbouwsteunkader.   
+2.  Onverminderd het eerste lid bevat een aanvraag voor subsidie ten minste: 
 
-a. een op naam van de aanvrager gestelde offerte van de bouwer of de leverancier, waarop is aangeven welke apparatuur, installatie of machine als bedoeld in artikel 2.3.2, eerste lid, het betreft. Deze offerte bevat ook de maximale en werkelijke capaciteit van de installatie als bedoeld in artikel 2.3.2, eerste lid, onderdeel h;  
+a. gegevens over de aanvrager, waaronder het nummer waaronder de onderneming geregistreerd is bij de Kamer van Koophandel, het post- en bezoekadres en het rekeningnummer;  
 
-b. een kopie van de laatste jaarafrekening waarop het energieverbruik van de landbouwonderneming staat voor de installatie als bedoeld in artikel 2.3.2, eerste lid, onderdeel h;  
+b. gegevens over de contactpersoon bij de aanvrager, waaronder de naam, het telefoonnummer en het e-mailadres;  
 
-c. een bedrijfskaart met daarop ingetekend de totale oppervlakte opstanden van de onderneming en met daarop gearceerd ingetekend de oppervlakte waarop de investering betrekking heeft voor investeringen als bedoeld in artikel 2.3.2, eerste lid, onderdelen a tot en met e;  
+c. indien van toepassing de topsector waarbinnen het project wordt uitgevoerd;  
 
-d. een kaart met daarop ingetekend de totale oppervlakte van de betrokken opstand en met daarop gearceerd ingetekend de oppervlakte waarop de investering betrekking heeft inclusief opgave van lengte van de voorziening in meters en de afstand tussen de onderneming en het netwerk in meters voor investeringen als bedoeld in artikel 2.3.2, eerste lid, onderdelen f en g.     
-2.  De aanvraag tot subsidievaststelling gaat in afwijking van artikel 50 van het besluit vergezeld van: 
+d. een begroting waarin de totale kosten van het project en de omvang van de gevraagde subsidie zijn opgenomen.    
+3.  De aanvraag tot subsidieverlening gaat vergezeld van: 
+
+a. een op naam van de aanvrager gestelde offerte van de bouwer of de leverancier, waarop is aangeven welke apparatuur, installatie of machine als bedoeld in artikel 2.3.2, eerste lid, het betreft. Deze offerte bevat ook de maximale en werkelijke capaciteit van de installatie als bedoeld in artikel 2.3.2, eerste lid, onderdeel f;  
+
+b. een kopie van de laatste jaarafrekening waarop het energieverbruik van de landbouwonderneming staat voor de installatie als bedoeld in artikel 2.3.2, eerste lid, onderdelen a en f;  
+
+c. een kaart met daarop ingetekend de totale oppervlakte van de betrokken opstand en met daarop gearceerd ingetekend de oppervlakte waarop de investering betrekking heeft inclusief opgave van lengte van de voorziening in meters en de afstand tussen de onderneming en het netwerk in meters voor investeringen als bedoeld in artikel 2.3.2, eerste lid, onderdelen d en e.     
+4.  De aanvraag tot subsidievaststelling gaat in afwijking van artikel 50 van het besluit vergezeld van: 
 
 a. facturen waarop prijzen inclusief en exclusief BTW worden opgevoerd en waarbij, voor zover van toepassing, het onderscheid tussen de kostenonderdelen is aangegeven;  
 
@@ -349,45 +392,37 @@ De minister verdeelt het subsidieplafond door middel van loting.
 
 ####Subsidiabele kosten
 
-1.  De volgende kosten komen in aanmerking voor de subsidie: 
-
-a. kosten voor de bouw, verwerving, inrichting of verbetering van onroerende zaken;  
-
-b. kosten voor de aanschaf van nieuwe machines en apparatuur, waarvan de aanvrager eerste gebruiker is;  
-
-c. kosten voor de aanschaf van plantmateriaal en de kosten van derden voor het planten van blijvende teelten, bedoeld in artikel 2, onderdeel b, van verordening (EU) nr. 1120/2009 van de Commissie van 29 oktober 2009 houdende bepalingen voor de uitvoering van de bedrijfstoeslagregeling waarin is voorzien bij titel III van Verordening (EG) nr.73/2009 van de Raad tot vaststelling van gemeenschappelijke voorschriften inzake rechtstreekse steunverlening in het kader van het gemeenschappelijk landbouwbeleid en tot vaststelling van bepaalde steunregelingen voor landbouwers (PbEU 2009, L316);  
-
-d. kosten voor de door de leverancier aan de aanvrager in rekening gebrachte, noodzakelijke installatiekosten voor het bouwen en monteren van de apparatuur, machine of installatie, met uitzondering van transportkosten en invoerrechten.     
+1.  De kosten, genoemd onder punt 144, onder a en b, van het Landbouwsteunkader, komen in aanmerking voor de subsidie.   
 2.  Bij de kosten voor de verwerving van onroerende zaken zijn inbegrepen de daaraan verbonden kosten van overdrachtsbelasting, notariële kosten en de kosten van inschrijving bij het kadaster.   
 3.  Voor de subsidie komen niet in aanmerking kosten voor de verwerving van onroerende zaken met uitzondering van grond, ten behoeve waarvan subsidie door een bestuursorgaan is verleend in de periode van tien jaar voorafgaand aan de ontvangstdatum van de aanvraag tot subsidieverlening.   
-4.  De maximale subsidiabele kosten per vierkante meter geïnstalleerd kasoppervlak bedragen voor: 
+4.  Voor de subsidie komen niet in aanmerking de kosten, genoemd onder punt 145 van het Landbouwsteunkader.  
+5.  De maximale subsidiabele kosten per vierkante meter geïnstalleerd kasoppervlak bedragen voor: 
 
 a. een tweede energiescherm € 5,20;  
 
 b. verticale ventilatoren € 3;  
 
-c. een hogedruk vernevelingssysteem € 5;  
-
-d. een luchtbehandelingssysteem met ventilatoren en luchtdistributie(slurven) € 15;  
-
-e. diffuus glas met antireflectiecoating € 10.    
+c. meerinvesteringen diffuus glas met antireflectiecoating € 10.    
 
 ### Artikel  2.3.7  
 
 ####Hoogte subsidie
 
-1.  De subsidie bedraagt ten hoogste: 
+1.  De subsidie bedraagt 25% van de subsidiabele kosten.   
+2.  De subsidie bedraagt ten minste € 5.000 en ten hoogste € 50.000.   
+3.  In afwijking van het tweede lid bedraagt een subsidie voor de in artikel 2.3.2, eerste lid, opgesomde apparatuur, installaties of machines ten hoogste: 
 
-a. 50% van de subsidiabele kosten voor de investeringen door landbouwers in de door Nederland ter uitvoering van artikel 50, tweede en derde lid, van verordening (EG) nr. 1698/2005 van de Raad van 20 september 2005 inzake steun voor plattelandsontwikkeling uit het Europees Landbouwfonds voor Plattelandsontwikkeling (ELFPO) (PbEU 2005, L271) aangewezen gebieden;  
+a. € 125.000 voor onderdeel c;  
 
-b. 40% van de subsidiabele kosten voor de investeringen door landbouwers in andere gebieden dan de gebieden, bedoeld in onderdeel a.     
-2.  De subsidie voor apparatuur, installaties of machines als bedoeld in artikel 2.3.2, eerste lid, onderdeel h, bedraagt ten hoogste € 225.000.  
+b. € 150.000 voor onderdeel d;  
+
+c. € 250.000 voor onderdeel f.    
 
 ### Artikel  2.3.8  
 
 ####Staatssteun
 
-De subsidie, bedoeld in artikel 2.3.2 bevat staatssteun en wordt gerechtvaardigd door Steunmaatregel SA.34005 (2012/N). 
+De subsidie, bedoeld in artikel 2.3.2 bevat staatssteun en wordt gerechtvaardigd door Steunmaatregel SA.34005 (2012/N) en paragraaf 1.1.1.1. van het landbouwsteunkader. 
 
 ### Artikel  2.3.9  
 
@@ -915,7 +950,7 @@ Voor de toepassing van dit hoofdstuk bedraagt het uurtarief, bedoeld in artikel 
 
 ####Begripsomschrijvingen
 
-In deze titel wordt verstaan onder: 
+1. In deze titel wordt verstaan onder: 
 
 *geldmiddelen:* chartaal geld, giraal geld of elektronisch geld;  
 
@@ -923,7 +958,7 @@ In deze titel wordt verstaan onder:
 
 a. netwerkactiviteiten, bestaande uit masterclasses, workshops, conferenties of het delen of uitwisselen van informatie via een website om kennisdeling en netwerking tussen MKB-ondernemers te bevorderen, of  
 
-b. innovatieadviesdiensten, bestaande uit managementconsulting gericht op innovatie van producten, processen of diensten, het verlenen van technologische bijstand of diensten inzake technologieoverdracht als bedoeld in artikel 5.6 van de O&O&I-kaderregeling, verstrekt aan een MKB-ondernemer door een innovatiemakelaar;    
+b. innovatieadviesdiensten, uitgezonderd opleiding, verstrekt aan een MKB-ondernemer door een innovatiemakelaar;    
 
 *inzet in natura:* op geld waardeerbare inbreng in een samenwerkingsproject die 
 
@@ -939,9 +974,11 @@ b. een openbaar lichaam, anders dan een productschap als bedoeld in artikel 66, 
 
 *samenwerkingsproject:* project dat: 
 
-a. door minimaal twee deelnemers waaronder een onderzoeksorganisatie en een ondernemer wordt uitgevoerd voor gezamenlijke rekening en risico, en  
+a. in daadwerkelijke samenwerking plaatsvindt; 
 
-b. bestaat uit fundamenteel onderzoek, industrieel onderzoek, experimentele ontwikkeling of een combinatie daarvan.    
+b. door minimaal twee deelnemers waaronder een onderzoeksorganisatie en een ondernemer wordt uitgevoerd voor gezamenlijke rekening en risico, en  
+
+c. bestaat uit fundamenteel onderzoek, industrieel onderzoek, experimentele ontwikkeling of een combinatie daarvan.    
 
 *TKI:* Topconsortium voor Kennis en Innovatie, zijnde een rechtspersoon die als zodanig is genoemd in de wet houdende vaststelling van de begrotingsstaten van het Ministerie van Economische Zaken van het jaar waarop de aanvraag, bedoeld in artikel 3.2.2, betrekking heeft;  
 
@@ -953,7 +990,8 @@ a. die wordt uitgevoerd door een onderzoeksorganisatie,
 
 b. die bestaat uit fundamenteel onderzoek, industrieel onderzoek, experimentele ontwikkeling of een combinatie daarvan, en  
 
-c. die kennis oplevert voor de onderzoeksorganisatie die toepasbaar is in binnen het TKI-programma mogelijke samenwerkingsprojecten;     
+c. die kennis oplevert voor de onderzoeksorganisatie die toepasbaar is in binnen het TKI-programma mogelijke samenwerkingsprojecten;      
+2.  In deze titel wordt onder onderzoeksorganisatie verstaan, een onderzoeksorganisatie zonder winstoogmerk. 
 
 ### Artikel  3.2.2  
 
@@ -973,20 +1011,13 @@ b. uitvoering van een bepaald samenwerkingsproject (projecttoeslag).
 
 a. de private bijdragen voor de samenwerkingsprojecten van het TKI-programma, en  
 
-b. de private bijdragen aan TKI-relevante onderzoeksopdrachten,   die in dat jaar blijkens onderbouwing in de aanvraag aan onderzoeksorganisaties verschuldigd zullen worden;   
-2.  Over de eerste € 20.000 van de som van de private bijdragen van een bepaalde deelnemer aan samenwerkingsprojecten van het TKI-programma in dat jaar bedraagt de hoogte van de programmatoeslag, in afwijking van het eerste lid, 40%.   
-3.  De private bijdragen, bedoeld in het eerste lid, onderdeel b, worden in aanmerking genomen tot ten hoogste 40% van de totale programmatoeslag per aanvraag.   
+b. de private bijdragen aan TKI-relevante onderzoeksopdrachten,   die in het kalenderjaar, voorafgaand aan het kalenderjaar waarin de aanvraag is ingediend, blijkens onderbouwing in de aanvraag aan onderzoeksorganisaties verschuldigd zijn geworden;   
+2.  Over de eerste € 20.000 van de som van de private bijdragen van een bepaalde deelnemer aan samenwerkingsprojecten van het TKI-programma per jaar bedraagt de hoogte van de programmatoeslag, in afwijking van het eerste lid, 40%.   
+3.  De private bijdragen aan TKI-relevante onderzoeksopdrachten, die zijn gerealiseerd in het kalenderjaar voorafgaand aan het kalenderjaar waarin de aanvraag is ingediend, worden in aanmerking genomen tot ten hoogste 40% van de totale gerealiseerde private bijdragen in het kalenderjaar voorafgaand aan het kalenderjaar waarin de aanvraag is ingediend.   
 4.  Het eerste lid, onderdeel b, is niet van toepassing voor zover de uit een TKI-relevante onderzoeksopdracht voortvloeiende kennis van de onderzoeksorganisatie redelijkerwijs slechts ten goede kan of zal komen aan de onderneming, de onderzoeksinstelling, of beide partijen bij de TKI-relevante onderzoeksopdracht.   
 5.  Een TKI bevordert dat kennis die voortvloeit uit TKI-relevante onderzoeksopdrachten waarvoor hij op grond van het eerste lid, onderdeel b, TKI-toeslag heeft ontvangen, daadwerkelijk wordt toegepast binnen een samenwerkingsproject van het TKI-programma.   
 6.  Voor toepassing van het tweede lid kan de waarde van inzet in natura tot ten hoogste € 20.000 als private bijdrage in aanmerking worden genomen.   
 7.  Voor de toepassing van dit artikel worden private bijdragen aan een onderzoeks- of experimenteel ontwikkelingsproject dat op het moment van aanvraag al anders dan als samenwerkingsproject van een TKI-programma wordt uitgevoerd slechts in aanmerking genomen indien bestaande publieke of private bijdragen aan dat project niet bij gelegenheid van opneming in het TKI-programma worden verlaagd.  
-
-### Artikel  3.2.4  
-
-####Opgave gerealiseerde private bijdragen
-
-1.  De ontvanger van programmatoeslag doet binnen twee kalendermaanden na afloop van het jaar waarvoor de toeslag is verstrekt opgave van de private bijdragen en inzet in natura, bedoeld in artikel 3.2.3, eerste lid, die in het voorafgaande jaar daadwerkelijk verschuldigd zijn geworden.   
-2.  De toeslag wordt met inachtneming van artikel 4:48 van de Algemene wet bestuursrecht ten nadele van de ontvanger van programmatoeslag gewijzigd indien de opgave daartoe aanleiding geeft.  
 
 ### Artikel  3.2.5  
 
@@ -1002,17 +1033,14 @@ b. de private bijdragen aan TKI-relevante onderzoeksopdrachten,   die in dat jaa
 
 ####Algemeen nut beogende instellingen
 
-In afwijking van de artikelen 3.2.3, eerste lid, en 3.2.5, eerste lid, worden private bijdragen afkomstig van instellingen als bedoeld in artikel 5b, eerste lid, van de Algemene wet inzake rijksbelastingen, die deelnemen aan samenwerkingsprojecten die passen binnen een programma als bedoeld in artikel 3.3.2, eerste lid, tot ten hoogste € 8.000.000 per programma, per jaar in aanmerking genomen. Indien de in een bepaalde openstellingsperiode ingediende aanvragen dit bedrag voor een bepaald programma overschrijden, worden de in de desbetreffende aanvragen opgenomen bedragen op volgorde van binnenkomst in aanmerking genomen. 
+1.  In afwijking van de artikelen 3.2.3, eerste lid, en 3.2.5, eerste lid, worden private bijdragen aan onderzoeksorganisaties voor onderzoek dat past binnen een programma als bedoeld in artikel 3.2.2 eerste lid, afkomstig van instellingen als bedoeld in artikel 5b, eerste lid, van de Algemene wet inzake rijksbelastingen, in aanmerking genomen tot ten hoogste € 75.000.000 per jaar.   
+2.  Indien de in een bepaalde openstellingsperiode ingediende aanvragen het bedrag, bedoeld in het eerste lid, overschrijden, worden de in de desbetreffende aanvragen opgenomen bedragen op volgorde van binnenkomst in aanmerking genomen.  
 
 ### Artikel  3.2.7  
 
 ####Toewijzingsgronden TKI-toeslag
 
-1.  De minister verstrekt uitsluitend TKI-toeslag indien ten aanzien van de inzet van TKI-toeslag voor een samenwerkingsproject overeenkomstig artikel 3.2.2 van de O&O&I-kaderregeling wordt verzekerd dat: 
-
-1°. de resultaten van een samenwerkingsproject waaraan geen intellectuele-eigendomsrechten kunnen worden ontleend, ruim mogen worden verspreid en eventuele intellectuele eigendomsrechten die uit de activiteiten van de onderzoeksorganisatie voortvloeien, volledig aan de onderzoeksorganisatie worden toegekend; of  
-
-2°. de onderzoeksorganisatie van de deelnemende ondernemers een vergoeding ontvangt die overeenstemt met de marktprijs voor de intellectuele eigendomsrechten die voortvloeien uit het samenwerkingsproject en die worden overgedragen aan de deelnemende ondernemingen. Eventuele bijdragen van de deelnemende ondernemingen in de kosten van de onderzoeksorganisatie worden in mindering op de compensatie gebracht.     
+1.  De minister verstrekt uitsluitend TKI-toeslag indien ten aanzien van de inzet van TKI-toeslag voor een samenwerkingsproject wordt voldaan aan de voorwaarden in paragraaf 2.2.2, nummer 28, onderdeel b of d in samenhang met nummer 29, van de O&O&I-kaderregeling.   
 2.  De minister verstrekt voorts uitsluitend TKI-toeslag voor zover: 
 
 a. verzekerd is dat op het terrein van het programma werkzame ondernemers en onderzoeksorganisaties onder transparante en redelijke voorwaarden in aanmerking komen voor deelname aan samenwerkingsprojecten die passen in het programma;  
@@ -1029,13 +1057,13 @@ e. een bepaald samenwerkingsproject of een bepaalde innovatie-activiteit niet is
 
 ####Aanwenden TKI-toeslag
 
-1.  De ontvanger van TKI-toeslag wendt de TKI-toeslag zodanig aan dat het totale bedrag aan steun dat voor een samenwerkingsproject beschikbaar is niet meer bedraagt dan: 
+1.  De ontvanger van TKI-toeslag wendt de TKI-toeslag zodanig aan dat het totale bedrag aan steun dat voor een begunstigde in een samenwerkingsproject beschikbaar is, in afwijking van artikel 1.3, niet meer bedraagt dan: 
 
-a. 85 procent van de subsidiabele kosten voor zover deze betrekking hebben op fundamenteel onderzoek,  
+a. 100 procent van de subsidiabele kosten voor zover deze betrekking hebben op fundamenteel onderzoek,  
 
 b. 50 procent van de subsidiabele kosten voor zover deze betrekking hebben op industrieel onderzoek, en  
 
-c. 25 procent van de subsidiabele kosten voor zover deze betrekking hebben op experimentele ontwikkeling.     
+c. 25 procent van de subsidiabele kosten voor zover deze betrekking hebben op experimentele ontwikkeling.   De subsidiabele kosten zijn kosten als bedoeld in artikel 25, derde lid, van de algemene groepsvrijstellingsverordening.  
 2.  Het TKI wendt de TKI-toeslag voor innovatie-activiteiten zodanig aan dat: 
 
 a. bij netwerkactiviteiten: 
@@ -1052,18 +1080,11 @@ b. bij innovatieadviesdiensten:
 
 1°. de in te zetten innovatiemakelaars op basis van transparante en redelijke criteria geselecteerd worden,  
 
-2°. het totale bedrag aan TKI-toeslag niet meer bedraagt dan 50% van de kosten met een maximum van € 10.000 per MKB-ondernemer over een periode van één jaar.  
+2°. het totale bedrag aan TKI-toeslag niet meer bedraagt dan 50% van de subsidiabele kosten verbonden aan een innovatieadviesdienst, uitgezonderd opleiding, als bedoeld in artikel in artikel 28, tweede lid, onderdeel c, van de algemene groepsvrijstellingsverordening met een maximum van € 10.000 per MKB-ondernemer over een periode van één jaar.  
 
 3°. aan een MKB-ondernemer gedurende maximaal drie jaar innovatieadviesdiensten worden geleverd.       
 3.  De ontvanger van TKI-toeslag neemt bij de aanwending van de TKI-toeslag, indien van toepassing, de gemeenschappelijke ordening van de landbouwproducten in acht, bedoeld in artikel 40, eerste lid, van het Verdrag betreffende de werking van de Europese Unie.   
 4.  De ontvanger van projecttoeslag wendt de projecttoeslag aan voor het desbetreffende project.  
-
-### Artikel  3.2.9  
-
-####Financieringsverhouding
-
-1.  De ontvanger van TKI-toeslag wendt de TKI-toeslag zodanig aan voor samenwerkingsprojecten dat voor fundamenteel onderzoek, industrieel onderzoek en experimentele ontwikkeling in totaal een private bijdrage van respectievelijk minimaal 15%, 50% en 75% van de financiering van het desbetreffende onderzoek gerealiseerd wordt.   
-2.  Voor toepassing van het eerste lid kan de waarde van inzet in natura als private bijdrage worden meegeteld.  
 
 ### Artikel  3.2.10  
 
@@ -1081,7 +1102,7 @@ a. waaruit op eenvoudige en duidelijke wijze kan worden afgeleid hoe de TKI-toes
 
 b. waarin de wijze wordt vastgelegd waarop participanten van samenwerkingsprojecten omgaan met intellectueel eigendom dat voorkomt uit deze projecten;  
 
-c. waaruit op eenvoudige wijze kennis genomen kan worden van de samenwerkingsovereenkomsten voor de projecten waarvoor een private bijdrage als bedoeld in artikel 3.2.4 is opgegeven.     
+c. waaruit op eenvoudige wijze kennis genomen kan worden van de samenwerkingsovereenkomsten voor de projecten waarvoor een private bijdrage als bedoeld in artikel 3.2.3, eerste lid, verschuldigd is geworden.     
 2.  De TKI-toeslag kan op nihil worden vastgesteld indien de administratie, bedoeld in het eerste lid, geheel of gedeeltelijk ontbreekt.  
 
 ### Artikel  3.2.12  
@@ -1104,26 +1125,32 @@ d. een overzicht van de mate waarin de uit TKI-relevante onderzoeksopdrachten, w
 
 ####Informatieverplichtingen
 
-1.  De aanvraag voor subsidie als bedoeld in artikel 3.2.2 bevat in ieder geval: 
+1.  Een aanvraag voor subsidie als bedoeld in artikel 3.2.2 bevat ten minste de gegevens, bedoeld in artikel 6, tweede lid, van de algemene groepsvrijstellingsverordening. 
+2.  Onverminderd het eerste lid bevat een aanvraag voor subsidie als bedoeld in artikel 3.2.2 ten minste: 
 
 a. gegevens over de aanvrager, waaronder de naam van de organisatie, het KvK-nummer, het post- en bezoekadres en het rekeningnummer;  
 
 b. gegevens over de contactpersoon bij de aanvrager, waaronder de naam, het telefoonnummer en het e-mailadres;  
 
-c. gegevens over de grondslag, waaronder de topsector waarop de aanvraag ziet, het type TKI-toeslag, het jaar waarover TKI-toeslag wordt aangevraagd, de omvang van de private bijdrage voor samenwerkingsprojecten, de omvang van de private bijdrage voor onderzoeksopdrachten, de hoeveelheid TKI-toeslag die wordt aangevraagd alsmede de projectgegevens van eventuele project-toeslag die wordt aangevraagd;  
+c. gegevens over de grondslag, waaronder de topsector waarop de aanvraag ziet, het type TKI-toeslag, het jaar waarover TKI-toeslag wordt aangevraagd, de omvang van de private bijdrage voor samenwerkingsprojecten, de omvang van de private bijdrage voor TKI-relevante onderzoeksopdrachten, de hoeveelheid TKI-toeslag die wordt aangevraagd alsmede de projectgegevens van eventuele project-toeslag die wordt aangevraagd;  
 
-d. een overzicht van de begrote grondslag TKI-toeslag;  
+d. in geval van programmatoeslag, een overzicht van de gerealiseerde private bijdragen in het kalenderjaar, voorafgaand aan het kalenderjaar waarop de aanvraag betrekking heeft;  
 
-e. een overzicht van de begrote inzet TKI-toeslag;  
+e. Het overzicht, bedoeld in onderdeel d, bevat voor iedere private bijdrage ten minste: 
 
-f. in geval van projecttoeslag, een afschrift van de door alle partijen getekende samenwerkingsovereenkomst met daarin de verschuldigde private bijdragen.     
-2.  De opgave van private bijdragen als bedoeld in artikel 3.2.4, eerste lid, bevat in ieder geval: 
+i. de naam van het samenwerkingsproject of de TKI-relevante onderzoeksopdracht zoals dat in de samenwerkingsovereenkomst staat;  
 
-a. gegevens over de aanvrager, waaronder de naam van de aanvrager en het door de minister verstrekte referentienummer;  
+ii. de naam van de deelnemer van wie de private bijdrage afkomstig is;  
 
-b. gegevens over de grondslag, waaronder de topsector waarop de opgave ziet, het jaar waarop de realisatie van de TKI-toeslag betrekking heeft, de totale gerealiseerde private bijdrage voor samenwerkingsprojecten, de totale gerealiseerde private bijdrage voor onderzoeksopdrachten en de omvang van de TKI-toeslag die wordt aangevraagd;  
+iii. de naam van de onderzoeksorganisatie waaraan de private bijdrage verschuldigd is of is geworden;  
 
-c. een overzicht van de gerealiseerde grondslag voor TKI-toeslag.     
+iv. het KvK-nummer van de deelnemer en onderzoeksorganisatie of, voor zover zij hier niet over beschikken, een ander uniek identificeren nummer;  
+
+v. de hoogte van de private bijdrage in euro;   
+
+f. een overzicht van de begrote inzet TKI-toeslag;  
+
+g. in geval van projecttoeslag, een afschrift van de door alle partijen getekende samenwerkingsovereenkomst met daarin de verschuldigde private bijdragen, en een projectplan.     
 3.  De aanvraag voor de vaststelling van een subsidie als bedoeld in artikel 3.2.2 bevat in ieder geval: 
 
 a. gegevens over de aanvrager, waaronder de naam van de aanvrager en het door de minister verstrekte referentienummer;  
@@ -1134,7 +1161,7 @@ b. gegevens over de grondslag, waaronder de topsector waarop de vaststelling zie
 
 ####Staatssteun
 
-De subsidie, bedoeld in artikel 3.2.2, bevat staatssteun en wordt gerechtvaardigd door Steunmaatregel SA.35254 (2012/N). 
+De subsidie, bedoeld in artikel 3.2.2, bevat staatssteun en wordt gerechtvaardigd door de artikelen 25 en 28 van de algemene groepsvrijstellingsverordening. 
 
 ### Artikel  3.2.15  
 
@@ -1155,8 +1182,6 @@ Deze titel vervalt met ingang van 1 november 2017, met dien verstande dat deze 
 ####Begripsomschrijvingen
 
 In deze titel wordt verstaan onder: 
-
-*innovatieadviesdiensten:* managementconsulting gericht op innovatie van producten, processen of diensten, het verlenen van technologische bijstand of diensten inzake technologieoverdracht als bedoeld in 5.6, eerste gedachtestreepje, van de O&O&I-kaderregeling;  
 
 *innovatiemakelaar:* een verstrekker van innovatieadviesdiensten;  
 
@@ -1205,7 +1230,7 @@ Subsidie wordt verstrekt aan een TKI voor het door derden laten uitvoeren van ne
 
 ####Subsidiedoel
 
-Subsidie wordt verstrekt aan een TKI voor het door innovatiemakelaars laten leveren van innovatieadviesdiensten aan MKB-ondernemers. 
+Subsidie wordt verstrekt aan een TKI voor het door innovatiemakelaars laten leveren van innovatieadviesdiensten, uitgezonderd opleiding, aan MKB-ondernemers. 
 
 ### Artikel  3.3.7  
 
@@ -1218,9 +1243,10 @@ Subsidie wordt verstrekt aan een TKI voor het door innovatiemakelaars laten leve
 
 ####Steunintensiteit
 
-1.  In afwijking van artikel 1.3 bedraagt de subsidie voor innovatieadviesdiensten 50 procent van de subsidiabele kosten.   
-2.  Het maximale subsidiebedrag bedraagt € 10.000 per MKB-onderneming waaraan de innovatieadviesdiensten zijn geleverd over een periode van maximaal één jaar.   
-3.  Aan een MKB-ondernemer worden gedurende maximaal drie jaar innovatieadviesdiensten geleverd.  
+1.  De subsidiabele kosten zijn de kosten verbonden aan een innovatieadviesdienst, uitgezonderd opleiding, als bedoeld in artikel 28, tweede lid, onderdeel c, van de algemene groepsvrijstellingsverordening.  
+2.  In afwijking van artikel 1.3 bedraagt de subsidie voor innovatieadviesdiensten 50 procent van de subsidiabele kosten.   
+3.  Het maximale subsidiebedrag bedraagt € 10.000 per MKB-onderneming waaraan de innovatieadviesdiensten zijn geleverd over een periode van maximaal één jaar.   
+4.  Aan een MKB-ondernemer worden gedurende maximaal drie jaar innovatieadviesdiensten geleverd.  
 
 ### §  3.3.4  
 
@@ -1237,7 +1263,8 @@ Subsidie wordt verstrekt aan een TKI voor het door innovatiemakelaars laten leve
 
 ####Informatieverplichtingen
 
-1.  De aanvraag voor subsidie als bedoeld in artikel 3.2.2 bevat in ieder geval: 
+1.  Een aanvraag voor subsidie als bedoeld in artikel 3.3.2 bevat ten minste de gegevens, bedoeld in artikel 6, tweede lid, van de algemene groepsvrijstellingsverordening.  
+2.  Onverminderd het eerste lid bevat een aanvraag voor subsidie als bedoeld in artikel 3.3.2 ten minste: 
 
 a. gegevens over de aanvrager, waaronder de naam van de organisatie, het KvK-nummer, het post- en bezoekadres en het rekeningnummer;  
 
@@ -1248,7 +1275,7 @@ c. de gegevens over het plan, waaronder de activiteit waarvoor subsidie wordt aa
 d. een projectplan;  
 
 e. een begroting.     
-2.  De aanvraag voor de vaststelling van een subsidie die krachtens deze titel is verleend bevat in ieder geval: 
+3.  De aanvraag voor de vaststelling van een subsidie die krachtens deze titel is verleend bevat in ieder geval: 
 
 a. gegevens over de aanvrager, waaronder de naam van de aanvrager en het door de minister verstrekte referentienummer;  
 
@@ -1260,8 +1287,8 @@ c. de kerngegevens voor de onderbouwing van de subsidievaststelling.
 
 ####Staatssteun
 
-1.  De subsidie, bedoeld in de artikelen 3.3.2 en 3.3.6, bevat staatssteun en wordt gerechtvaardigd door Steunmaatregel SA.35254 (2012/N).   
-2.  De subsidie, bedoeld in artikel 3.3.4, bevat geen staatssteun.  
+1.  De subsidie, bedoeld in artikel 3.3.4, bevat geen staatssteun.  
+2.  De subsidie, bedoeld in artikel 3.3.6, bevat staatssteun en wordt gerechtvaardigd door artikel 28 van de algemene groepsvrijstellingsverordening.  
 
 ### Artikel  3.3.12  
 
@@ -1283,9 +1310,9 @@ Deze titel vervalt met ingang van 1 november 2017, met dien verstande dat deze 
 
 1.  In deze titel wordt verstaan onder: 
 
-*detachering:* tijdelijke indienstneming van personeel door een begunstigde MKB-onderneming gedurende een bepaalde periode, waarna het personeel recht heeft naar zijn vorige werkgever terug te keren, als bedoeld in 2.2, onderdeel l, van de O&O&I-kaderregeling;  
+*detachering:* detachering als bedoeld in artikel 2, onderdeel 98, van de algemene groepsvrijstellingsverordening;  
 
-*hooggekwalificeerd personeel:* universitair geschoolde onderzoekers, ingenieurs, ontwerpers en marketingmanagers met een tertiaire opleiding en ten minste vijf jaar relevante beroepservaring, waarbij doctoraatsopleidingen meetellen als relevante beroepservaring als bedoeld in 2.2, onderdeel k van de O&O&I-kaderregeling;  
+*hooggekwalificeerd personeel:* hooggekwalificeerd personeel als bedoeld in artikel 2, onderdeel 93, van de algemene groepsvrijstellingsverordening;  
 
 *kennisinstelling:*
 
@@ -1309,13 +1336,11 @@ d. rechtspersoon ten aanzien waarvan een instelling als bedoeld onder a, b of c 
 
 e. onderzoeksorganisatie zonder winstoogmerk met eigen medewerkers in loondienst, die tot doel heeft via het structureel doen van eigen onderzoek en het ontwikkelen en testen van technische toepassingen door haar medewerkers, de technologische kennis op een specifiek terrein te bevorderen, die geen instelling is als bedoeld onder a tot en met d;    
 
-*MIT-haalbaarheidsstudie:* samenstel van activiteiten, dat leidt tot een schriftelijk rapport met een inschatting van de technische en economische mogelijkheden van door een MKB-ondernemer voorgenomen industrieel onderzoek of experimentele ontwikkeling;  
-
 *MIT-kennisoverdrachtsproject:* een door een kennisinstelling verrichte activiteit bestaande uit het, al dan niet op basis van te verrichten nader onderzoek, beantwoorden van een toepassingsgerichte kennisvraag van een ondernemer, uitgaande van voor de ondernemer nieuwe kennis met betrekking tot de vernieuwing van producten, productieprocessen of diensten;  
 
 *MIT-kennisvoucher:* een op grond van artikel 3.4.8 door de minister aan een MKB-ondernemer afgegeven document, dat deze ondernemer kan inleveren bij een kennisinstelling ten behoeve van de uitvoering van een MIT-kennisoverdrachtsproject;  
 
-*MIT-R&D-samenwerkingsproject:* project, bestaande uit industrieel onderzoek of experimentele ontwikkeling of een combinatie hiervan, voor gezamenlijke rekening en risico uitgevoerd door een MIT-R&D-samenwerkingsverband;  
+*MIT-R&D-samenwerkingsproject:* project, bestaande uit industrieel onderzoek of experimentele ontwikkeling of een combinatie hiervan, in daadwerkelijke samenwerking en voor gezamenlijke rekening en risico uitgevoerd door een MIT-R&D-samenwerkingsverband;  
 
 *MIT-R&D-samenwerkingsverband:* verband dat geen rechtspersoonlijkheid bezit, bestaande uit twee of meer niet in een groep verbonden MKB-ondernemers, welk verband is opgericht ten behoeve van de uitvoering van een MIT-R&D-samenwerkingsproject.     
 2.  Onder een MIT-kennisoverdrachtsproject als bedoeld in het eerste lid wordt niet verstaan een project waarbij de beantwoording van een toepassingsgerichte kennisvraag plaatsvindt door het leveren van goederen, het geven van cursussen of het verrichten van activiteiten op het gebied van verkoop van producten of diensten, zoals het ontwikkelen en vervaardigen van marketinginstrumenten en verkoopondersteunend promotiemateriaal.  
@@ -1335,27 +1360,28 @@ Een aanvraag van een MKB-ondernemer wordt afgewezen indien aan hem in hetzelfde 
 
 ### §  3.4.2  
 
-####MIT-haalbaarheidsstudies
+####Haalbaarheidsstudies in het kader van de MIT
 
 ### Artikel  3.4.4  
 
 ####Doelgroep
 
-Subsidie voor een MIT-haalbaarheidsstudie wordt verleend aan een MKB-ondernemer. 
+Subsidie voor een haalbaarheidsstudie wordt verleend aan een MKB-ondernemer. 
 
 ### Artikel  3.4.5  
 
 ####Steunintensiteit
 
-1.  In afwijking van artikel 1.3 bedraagt de subsidie voor een MIT-haalbaarheidsstudie 40 procent van de subsidiabele kosten.   
-2.  Het maximum subsidiebedrag bedraagt € 50.000 per MIT-haalbaarheidsstudie.  
+1.  De subsidiabele kosten zijn de kosten, bedoeld in artikel 25, vierde lid, van de algemene groepsvrijstellingsverordening.  
+2.  In afwijking van artikel 1.3 bedraagt de subsidie voor een haalbaarheidsstudie 40 procent van de subsidiabele kosten.   
+3.  Het maximum subsidiebedrag bedraagt € 50.000 per haalbaarheidsstudie.  
 
 ### Artikel  3.4.6  
 
 ####Start- en realisatietermijn
 
-1.  Met de uitvoering van de MIT-haalbaarheidsstudie wordt gestart binnen zes maanden na indiening van de subsidieaanvraag.   
-2.  De MIT-haalbaarheidsstudie wordt uitgevoerd binnen twaalf maanden na de start van de MIT-haalbaarheidsstudie.  
+1.  Met de uitvoering van de haalbaarheidsstudie wordt gestart binnen zes maanden na indiening van de subsidieaanvraag.   
+2.  De haalbaarheidsstudie wordt uitgevoerd binnen twaalf maanden na de start van de haalbaarheidsstudie.  
 
 ### Artikel  3.4.7  
 
@@ -1363,9 +1389,9 @@ Subsidie voor een MIT-haalbaarheidsstudie wordt verleend aan een MKB-ondernemer.
 
 De minister beslist afwijzend op een aanvraag indien: 
 
-a. de voorgenomen activiteiten waarop de MIT-haalbaarheidsstudie betrekking heeft in technische of financiële zin onvoldoende risicovol zijn om de MIT-haalbaarheidsstudie te rechtvaardigen;  
+a. de voorgenomen activiteiten waarop de haalbaarheidsstudie betrekking heeft in technische of financiële zin onvoldoende risicovol zijn om de haalbaarheidsstudie te rechtvaardigen;  
 
-b. de MIT-haalbaarheidsstudie onvoldoende inzicht geeft in het economisch perspectief en de uitvoerbaarheid van de voorgenomen activiteiten waarop de MIT-haalbaarheidsstudie betrekking heeft.   
+b. de haalbaarheidsstudie onvoldoende inzicht geeft in het economisch perspectief en de uitvoerbaarheid van de voorgenomen activiteiten waarop de haalbaarheidsstudie betrekking heeft.   
 
 ### §  3.4.3  
 
@@ -1447,15 +1473,14 @@ Subsidie wordt verleend aan een MKB-ondernemer bij wie een onderzoeksorganisatie
 
 ####Subsidiabele kosten
 
-De subsidiabele kosten bestaan uit het bedrag dat in verband met de detachering aan de onderzoeksorganisatie of grote onderneming die de werknemer detacheert verschuldigd is. 
+De subsidiabele kosten zijn de kosten, bedoeld in artikel 28, tweede lid, onderdeel b, van de algemene groepsvrijstellingsverordening. 
 
 ### Artikel  3.4.18  
 
 ####Subsidievoorwaarden
 
-1.  De gedetacheerde werknemers vervangen geen andere werknemers. Zij werken in een nieuw gecreëerde functie bij de begunstigde MKB-ondernemer. De functie is gericht op onderzoek, ontwikkeling en innovatie als bedoeld in de O&O&I-kaderregeling.   
-2.  De gedetacheerde werknemers zijn ten minste twee jaar in dienst bij de onderzoeksorganisatie of de grote onderneming die de werknemers detacheert.   
-3.  De datum waarop de detachering van start gaat ligt maximaal zes maanden na indiening van de subsidieaanvraag.  
+1.  De gedetacheerde werknemers zijn ten minste twee jaar in dienst bij de onderzoeksorganisatie of de grote onderneming die de werknemers detacheert.   
+2.  De datum waarop de detachering van start gaat ligt maximaal zes maanden na indiening van de subsidieaanvraag.  
 
 ### Artikel  3.4.19  
 
@@ -1485,10 +1510,11 @@ De penvoerder is een onderneming die deelneemt aan het MIT-R&D-samenwerkingsverb
 
 ####Steunintensiteit
 
-1.  In afwijking van artikel 1.3 bedraagt de subsidie voor een MIT-R&D-samenwerkingsproject 30 procent van de subsidiabele kosten.   
-2.  Elke individuele deelnemer aan het MIT-R&D-samenwerkingsverband neemt niet meer dan 70 procent van de voor subsidie in aanmerking komende kosten van het MIT-R&D-samenwerkingsproject voor zijn rekening.   
-3.  Het maximum subsidiebedrag bedraagt € 200.000 per MIT-R&D-samenwerkingsproject.   
-4.  Het maximum subsidiebedrag bedraagt € 100.000 per deelnemer aan het MIT-R&D-samenwerkingsverband.  
+1.  De subsidiabele kosten zijn de kosten, bedoeld in artikel 25, derde lid, van de algemene groepsvrijstellingsverordening.  
+2.  In afwijking van artikel 1.3 bedraagt de subsidie voor een MIT-R&D-samenwerkingsproject 30 procent van de subsidiabele kosten.   
+3.  Elke individuele deelnemer aan het MIT-R&D-samenwerkingsverband neemt niet meer dan 70 procent van de voor subsidie in aanmerking komende kosten van het MIT-R&D-samenwerkingsproject voor zijn rekening.   
+4.  Het maximum subsidiebedrag bedraagt € 200.000 per MIT-R&D-samenwerkingsproject.   
+5.  Het maximum subsidiebedrag bedraagt € 100.000 per deelnemer aan het MIT-R&D-samenwerkingsverband.  
 
 ### Artikel  3.4.23  
 
@@ -1557,7 +1583,8 @@ d. er meer sprake is van sectoroverstijgende combinaties en van combinaties van 
 
 ####Informatieverplichtingen
 
-1.  Een aanvraag voor subsidie als bedoeld in deze titel bevat in ieder geval: 
+1.  Een aanvraag voor subsidie als bedoeld in deze titel bevat ten minste de gegevens, bedoeld in artikel 6, tweede lid, van de algemene groepsvrijstellingsverordening.  
+2.  Onverminderd het eerste lid bevat een aanvraag voor subsidie als bedoeld in deze titel ten minste: 
 
 a. gegevens over de aanvrager, waaronder de naam van de organisatie, het KvK-nummer, het post- en bezoekadres en het rekeningnummer;  
 
@@ -1572,7 +1599,7 @@ e. een projectbegroting, behoudens wanneer de aanvraag ziet op een kennisvoucher
 f. een aanmelding en machtiging per deelnemer bij een haalbaarheidsstudie of R&D-samenwerkingsproject;  
 
 g. een verklaring de-minimissteun indien de aanvraag ziet op een kennisvoucher.     
-2.  De aanvraag voor de vaststelling van een subsidie die krachtens deze titel is verleend bevat in ieder geval: 
+3.  De aanvraag voor de vaststelling van een subsidie die krachtens deze titel is verleend bevat in ieder geval: 
 
 a. gegevens over de aanvrager, waaronder de naam van de aanvrager en het door de minister verstrekte referentienummer;  
 
@@ -1584,8 +1611,8 @@ c. de kerngegevens voor de onderbouwing van de subsidievaststelling.
 
 ####Staatssteun
 
-1.  Subsidie die krachtens deze titel wordt verleend bevat staatssteun en wordt, behoudens titel 3, gerechtvaardigd door Steunmaatregel SA.35254 (2012/N).   
-2.  Subsidie die krachtens paragraaf 3.4.3 wordt verleend bevat staatssteun en wordt gerechtvaardigd door Verordening (EG) nr. 1998/2006 van de Commissie van 15 december 2006 betreffende de toepassing van de artikelen 87 en 88 van het Verdrag op de-minimissteun (PbEU 2006, L379).  
+1.  Subsidie die krachtens deze titel wordt verleend bevat staatssteun en wordt, behoudens paragraaf 3.4.3, gerechtvaardigd door de artikelen 25 en 28 van de algemene groepsvrijstellingsverordening.   
+2.  Subsidie die krachtens paragraaf 3.4.3 wordt verleend bevat staatssteun en wordt gerechtvaardigd door de de-minimis verordening.  
 
 ### Artikel  3.4.30  
 
@@ -1617,11 +1644,13 @@ In deze titel wordt verstaan onder:
 
 *IPC-penvoerder:* rechtspersoon die: 
 
-a. de mogelijkheden onderzoekt om tot een IPC-verband te komen als bedoeld in paragraaf 2 van deze titel,  
+a. de mogelijkheden onderzoekt om tot een IPC-verband te komen als bedoeld in paragraaf 3.5.2,  
 
-b. de mogelijkheden onderzoekt om in samenwerking met ten minste één soortgelijke organisatie uit een ander land te komen tot collectief onderzoek en dit onderzoek laat uitvoeren, als bedoeld in paragraaf 3 van deze titel of  
+b. de mogelijkheden onderzoekt om in samenwerking met ten minste één soortgelijke organisatie uit een ander land te komen tot collectief onderzoek en dit onderzoek laat uitvoeren, als bedoeld in paragraaf 3.5.3, of  
 
-c. namens de IPC-deelnemers optreedt als projectleider van een IPC-verband en het overkoepelende plan uitvoert als bedoeld in paragraaf 4 van deze titel;    
+c. namens de IPC-deelnemers optreedt als projectleider van een IPC-verband en het overkoepelende plan uitvoert als bedoeld in paragraaf 3.5.4, en  
+
+d. niet werkzaam is in een van de sectoren die ingevolge artikel 1 van de de-minimis verordening is uitgesloten van de toepassing van die verordening;   
 
 *IPC-project:* project bestaande uit activiteiten die de IPC-penvoerder en de IPC-deelnemers binnen een periode van twee jaar verrichten ter uitvoering van het overkoepelende plan en de daarmee samenhangende innovatieplannen;  
 
@@ -1814,18 +1843,15 @@ De subsidie bedraagt:
 
 a. voor activiteiten bedoeld in artikel 3.5.17, eerste lid, aanhef en onderdeel a, € 3.000 per IPC-deelnemer;  
 
-b. voor activiteiten bedoeld in artikel 3.5.17, eerste lid, aanhef en onderdeel b, 40 procent van de subsidiabele kosten van de IPC-deelnemer tot een maximum van € 25.000.   
+b. voor activiteiten bedoeld in artikel 3.5.17, eerste lid, aanhef en onderdeel b, 35 procent van de subsidiabele kosten van de IPC-deelnemer tot een maximum van € 25.000.   
 
 ### Artikel  3.5.19  
 
 ####Subsidiabele kosten
 
-1.  In afwijking van artikel 11 van het besluit komen, voor activiteiten bedoeld in artikel 3.5.17, eerste lid, onderdeel b, uitsluitend de volgende kosten voor subsidie in aanmerking: 
-
-a. het aantal uren gemaakt door personeel van de IPC-deelnemer of personeel van ondernemingen waarmee de IPC-deelnemer in een groep verbonden is, vermenigvuldigd met een vast uurtarief van € 60;  
-
-b. de specifiek ten behoeve van de uitvoering van het innovatieplan gemaakte overige kosten.     
-2.  In afwijking van het eerste lid komen de volgende kosten niet voor subsidie in aanmerking: de kosten van het maken van een innovatieplan; de kosten van implementatie van de innovatie, waaronder begrepen marketing- en salesactiviteiten, herhalingstesten en het inrichten van de productie; de kosten van het opzetten van kwaliteitssystemen; de kosten van opleidingen; de kosten van deelname aan tentoonstellingen en symposia; de reiskosten en kosten die verband houden met penvoerdersactiviteiten.  
+1.  In afwijking van artikel 11 van het besluit worden de kosten voor activiteiten als bedoeld in artikel 3.5.17, eerste lid, onderdeel b, berekend overeenkomstig artikel 14 van het besluit.   
+2.  De subsidiabele kosten voor activiteiten als bedoeld in artikel 3.5.17, eerste lid, onderdeel b, zijn de kosten, bedoeld in artikel 25, derde lid, van de algemene groepsvrijstellingsverordening.  
+3.  In afwijking van het eerste lid komen de volgende kosten niet voor subsidie in aanmerking: de kosten van het maken van een innovatieplan; de kosten van implementatie van de innovatie, waaronder begrepen marketing- en salesactiviteiten, herhalingstesten en het inrichten van de productie; de kosten van het opzetten van kwaliteitssystemen; de kosten van opleidingen; de kosten van deelname aan tentoonstellingen en symposia; de reiskosten en kosten die verband houden met penvoerdersactiviteiten.  
 
 ### Artikel  3.5.20  
 
@@ -1885,7 +1911,8 @@ b. de kwaliteit van de samenwerking hoger is.
 
 ####Informatieverplichtingen
 
-1.  Een aanvraag voor subsidie als bedoeld in artikel 3.5.3, 3.5.10 en 3.5.17 bevat in ieder geval: 
+1.  Een aanvraag voor subsidie als bedoeld in deze titel bevat ten minste de gegevens, bedoeld in artikel 6, tweede lid, van de algemene groepsvrijstellingsverordening.  
+2.  Onverminderd het eerste lid bevat een aanvraag voor subsidie als bedoeld in deze titel ten minste: 
 
 a. gegevens over de aanvrager, waaronder de naam van de organisatie, het KvK-nummer, het post- en bezoekadres en het rekeningnummer;  
 
@@ -1896,7 +1923,7 @@ c. de gegevens over het plan, waaronder de activiteit waarvoor subsidie wordt aa
 d. een projectplan, inclusief planning en begroting;  
 
 e. een verklaring de-minimissteun.     
-2.  De aanvraag voor de vaststelling van een subsidie als bedoeld in artikel 3.5.3, 3.5.10 en 3.5.17 bevat in ieder geval: 
+3.  De aanvraag voor de vaststelling van een subsidie als bedoeld in artikel 3.5.3, 3.5.10 en 3.5.17 bevat in ieder geval: 
 
 a. gegevens over de aanvrager, waaronder de naam van de aanvrager en het door de minister verstrekte referentienummer;  
 
@@ -1906,8 +1933,8 @@ b. de omvang van de vast te stellen subsidie.
 
 ####Staatssteun
 
-1.  De subsidies, bedoeld in de artikelen 3.5.3 en 3.5.17 bevatten staatssteun en worden gerechtvaardigd door Steunmaatregel SA.35254 (2012/N).   
-2.  De subsidie, bedoeld in artikel 3.5.10 bevat staatssteun en wordt gerechtvaardigd door Verordening (EG) nr. 1998/2006 van de Commissie van 15 december 2006 betreffende de toepassing van de artikelen 87 en 88 van het Verdrag op de-minimissteun (PbEU 2006, L379).  
+1.  De subsidies, bedoeld in de artikelen 3.5.3, 3.5.10 en 3.5.17, eerste lid, onderdeel a, bevatten staatssteun en worden gerechtvaardigd door de de-minimis verordening.   
+2.  De subsidie, bedoeld in artikel 3.5.17, eerste lid, onderdeel b, bevat staatssteun en wordt gerechtvaardigd door artikel 25 van de algemene groepsvrijstellingsverordening.  
 
 ### Artikel  3.5.27  
 
@@ -1919,280 +1946,7 @@ Deze titel vervalt met ingang van 1 juli 2017, met dien verstande dat deze van 
 
 ####Regionale investeringsprojecten
 
-### Artikel  3.6.1  
-
-####Begripsomschrijvingen
-
-In deze titel wordt verstaan onder: 
-
-*concern:* economische eenheid waarin organisatorisch zijn verbonden: 
-
-a. een natuurlijke persoon of privaatrechtelijke rechtspersoon die direct of indirect: 
-
-1°. de helft of meer van het geplaatste kapitaal verschaft aan,  
-
-2°. volledig aansprakelijk vennoot is van, of  
-
-3°. overwegende zeggenschap heeft over,   een of meer rechtspersonen of vennootschappen, en  
-
-b. laatstbedoelde rechtspersonen of vennootschappen;    
-
-*fundamenteel wijzigingsproject:* project met betrekking tot een fundamentele wijziging in het productieproces van een industrieel bedrijf;  
-
-*hoofdkantoor:* kantoor van een concern waarin de centrale leiding of een zelfstandig onderdeel daarvan is gehuisvest;  
-
-*laboratorium:* bedrijf of bedrijfsonderdeel op het gebied van technisch of fysisch onderzoek, dat een belangrijke functie vervult voor de ontwikkeling van voor het bedrijf nieuwe producten;  
-
-*project:* technisch, functioneel en in de tijd samenhangend geheel van investeringen in duurzame bedrijfsuitrusting al dan niet in combinatie met grond of bedrijfsgebouwen;  
-
-*regio:*
-
-a. het gebied van de provincies Groningen, Friesland en Drenthe tezamen,  
-
-b. het gebied van de provincie Limburg;    
-
-*S.B.I.-bedrijfsgroep:* bedrijfsgroep op vier-cijferniveau van de Standaardbedrijfsindeling 2008 van het Centraal Bureau voor de Statistiek;  
-
-*strategisch uitbreidingsproject:* uitbreidingsproject waarbij sprake is van concurrentie binnen de Europese Unie ten aanzien van de plaats waar het project wordt gerealiseerd;  
-
-*stuwend dienstverlenend bedrijf:* dienstverlenend bedrijf, niet zijnde een toeristisch bedrijf of een bedrijf waarvan de activiteiten grotendeels bestaan uit het bieden van accommodatie aan congresgangers, dat naar zijn aard niet aan enige plaats gebonden is, dat de economische ontwikkeling van de regio van vestiging stimuleert en waarvan de afnemers in overwegende mate gevestigd zijn buiten de regio waarin het is of zal worden gevestigd;  
-
-*stuwend toeristisch bedrijf:* bedrijf op het gebied van de toeristische dagrecreatie, dat de economische ontwikkeling in de regio van vestiging stimuleert en dat in overwegende mate bezoekers trekt van buiten de regio waarin het is of zal worden gevestigd;  
-
-*uitbreidingsproject:* project inhoudende de uitbreiding van de capaciteit van een industrieel bedrijf, stuwend dienstverlenend bedrijf, stuwend toeristisch bedrijf, hoofdkantoor of laboratorium in dezelfde gemeente als waarin reeds een bedrijf van de ondernemer of een bedrijf van een tot hetzelfde concern behorende ondernemer is gevestigd;  
-
-*vestigingsproject:* project, niet zijnde een uitbreidingsproject, inhoudende het stichten van: 
-
-a. een industrieel bedrijf,  
-
-b. een stuwend dienstverlenend bedrijf, hoofdkantoor of laboratorium,  
-
-c. een stuwend toeristisch bedrijf.     
-
-### Artikel  3.6.2  
-
-####Subsidieaanvraag
-
-1.  De minister verstrekt op aanvraag subsidie aan een ondernemer die in een in bijlage 3.6.1 genoemde gemeente of deel van een gemeente een van de volgende soorten projecten tot stand brengt: 
-
-a. een vestigingsproject;  
-
-b. een fundamenteel wijzigingsproject waarvan de subsidiabele kosten € 45 000 000 of meer bedragen;  
-
-c. een strategisch uitbreidingsproject waarvan de subsidiabele kosten € 13 500 000 of meer bedragen.     
-2.  De minister verstrekt voorts op aanvraag subsidie aan de ondernemer die in een in bijlage 3.6.2 genoemde gemeente of deel van een gemeente een van de volgende projecten tot stand brengt: 
-
-a. een vestigingsproject waarvan de subsidiabele kosten € 13 500 000 of meer bedragen;  
-
-b. een strategisch uitbreidingsproject waarvan de subsidiabele kosten € 13 500 000 of meer bedragen.     
-3.  Ondernemingen die van de toepassing van dit hoofdstuk zijn uitgesloten zijn ondernemingen die behoren tot: 
-
-a. sectoren van de productie van landbouwproducten als bedoeld in bijlage 1 van het EU-verdrag;  
-
-b. sectoren van de productie en het in de handel brengen van producten bedoeld om melk en zuivelproducten te imiteren en te vervangen als bedoeld in artikel 3, tweede lid, van Verordening (EU) nr. 1898/87;  
-
-c. de visserij;  
-
-d. de scheepsbouwsector;  
-
-e. de kolenindustrie;  
-
-f. de ijzer- en staalindustrie;  
-
-g. de synthetische-vezelindustrie.    
-
-### Artikel  3.6.3  
-
-####Subsidieomvang
-
-1.  De subsidie bedraagt: 
-
-a. voor een project dat tot stand wordt gebracht in een gemeente of deel van een gemeente waar de in bijlage 3.6.1 aangegeven maximale steunintensiteit 15 procent bedraagt, het in bijlage 3.6.3 in tabel 2 aangegeven percentage van de subsidiabele kosten dat correspondeert met de puntenscore die resulteert uit de scorelijst van tabel 1;  
-
-b. voor een project, niet zijnde een project als bedoeld in het eerste lid, onder a, het in bijlage 3.6.3 in tabel 3 aangegeven percentage van de subsidiabele kosten dat correspondeert met de puntenscore die resulteert uit de scorelijst van tabel 1.     
-2.  Voor zover subsidie wordt verstrekt aan een MKB-ondernemer, niet zijnde een ondernemer die een onderneming in stand houdt die behoort tot de vervoersector, bedraagt de subsidie, in afwijking van het eerste lid, onder b, het percentage van de subsidiabele kosten bedoeld in het eerste lid, onder a, tenzij de subsidiabele kosten van het project meer dan € 50 000 000 bedragen.   
-3.  Bij de toepassing van artikel 6 van het besluit blijven subsidies uit hoofde van 
-
-a. het Besluit stimulering duurzame energieproductie en  
-
-b. de paragrafen 2.3, 3.4 en 3.5 van de Subsidieregeling energie en innovatie buiten beschouwing, voor zover het totale bedrag aan subsidies niet meer bedraagt dan het bedrag dat ingevolge de door de Europese Commissie bij beschikking van 27 juni 2007 goedgekeurde regionale steunkaart voor Nederland voor de periode 2007-2013 (PbEU 2007 C176) kan worden verstrekt.    
-
-### Artikel  3.6.4  
-
-####Subsidiemaximum
-
-Het in artikel 5, tweede lid, van het besluit bedoelde bedrag is € 11.250.000 voor projecten als bedoeld in artikel 3.7.3, eerste lid, onder a, en € 7 500 000 voor projecten als bedoeld in artikel 3.7.3, eerste lid, onder b. 
-
-### Artikel  3.6.5  
-
-####Subsidiabele kosten
-
-1.  In afwijking van artikel 11, eerste lid, van het besluit komen voor subsidie in aanmerking de door de subsidieontvanger gemaakte en betaalde kosten van verkrijging van grond, nieuwe bedrijfsgebouwen en nieuwe duurzame bedrijfsuitrusting, met uitzondering van: 
-
-a. grond, bedrijfsgebouwen of duurzame bedrijfsuitrusting die de subsidieontvanger heeft verkregen van een natuurlijke persoon of rechtspersoon die tot hetzelfde concern behoort;  
-
-b. niet permanent in het bedrijf aanwezige duurzame bedrijfsuitrusting;  
-
-c. immateriële vaste activa zoals omschreven in artikel 365 van Boek 2 van het Burgerlijk Wetboek, daaronder niet begrepen legeskosten van bouw- en milieuvergunningen.     
-2.  Voor zover subsidie wordt verstrekt aan een MKB-ondernemer worden, in afwijking van het eerste lid, tevens in aanmerking genomen de kosten van verkrijging van gebruikte bedrijfsgebouwen en gebruikte duurzame bedrijfsuitrusting.   
-3.  In geval van overname van een bedrijfsvestiging die langer dan één jaar vóór het indienen van de aanvraag is gesloten worden, in afwijking van het eerste lid, tevens in aanmerking genomen de kosten van verkrijging van gebruikte bedrijfsgebouwen en gebruikte duurzame bedrijfsuitrusting.   
-4.  Het vereiste dat de kosten moeten zijn betaald is niet van toepassing op kosten als bedoeld in artikel 3.6.6, eerste lid, onder a, 2°, onder b, 3° en onder c, 3°, en in artikel 3.6.6, tweede lid, onder c.  
-
-### Artikel  3.6.6  
-
-####Subsidiabele kosten
-
-1.  In afwijking van artikel 11, eerste lid, van het besluit komen voor subsidie in aanmerking de volgende kosten, voor zover zij geactiveerd zijn op de fiscale balans, de taxatiewaarde niet te boven gaan en, tenzij het betreft duurzame bedrijfsuitrusting die door de Minister van Infrastructuur en Milieu met toepassing van artikel 3.31, tweede lid, van de Wet inkomstenbelasting 2001 is aangewezen, niet binnen twee jaar worden afgeschreven: 
-
-a. wat betreft grond: 
-
-1°. de koopsom en overdrachtskosten exclusief de overdrachtsbelasting, of  
-
-2°. de gekapitaliseerde erfpachtcanon inclusief de kosten van vestiging van de erfpacht, indien de grond van een gemeente of enig ander van overheidswege opgericht lichaam in erfpacht is verkregen;    
-
-b. wat betreft bedrijfsgebouwen en de daartoe te rekenen centrale voorzieningen: 
-
-1°. de koopsom en de overdrachtskosten of de aan derden verschuldigde bouwkosten, exclusief de financieringskosten en de overdrachtsbelasting;  
-
-2°. de voortbrengingskosten;  
-
-3°. in geval van huurkoop of financial lease de aanschafwaarde dan wel, indien deze niet kan worden bepaald, de contante waarde van de in totaal verschuldigde leasetermijnen inclusief kosten, verdisconteerd op jaarbasis tegen het door de Europese Commissie vastgestelde percentage dat geldt op het moment van subsidieverlening;    
-
-c. wat betreft duurzame bedrijfsuitrusting: 
-
-1°. de koopsom;  
-
-2°. de voortbrengingskosten;  
-
-3°. in geval van huurkoop of financial lease de aanschafwaarde dan wel, indien deze niet kan worden bepaald, de contante waarde van de in totaal verschuldigde leasetermijnen inclusief kosten, verdisconteerd op jaarbasis tegen het door de Europese Commissie vastgestelde percentage dat geldt op het moment van subsidieverlening.       
-2.  Onder voortbrengingskosten als bedoeld in het eerste lid, onder b, 2°, en c, 2°, worden de volgende kosten verstaan: 
-
-a. loonkosten, met dien verstande dat wordt uitgegaan van een uurloon berekend op basis van het bruto jaarloon bij een volledige dienstbetrekking volgens de kolommen 3, 4 en 13 van de loonstaat van het betrokken directe personeel, exclusief volledig winstafhankelijke uitkeringen, verhoogd met de wettelijke dan wel de op grond van een individuele of collectieve arbeidsovereenkomst verschuldigde opslagen voor sociale lasten, en van 1.650 productieve uren per jaar;  
-
-b. kosten van verbruikte materialen en hulpmiddelen, gebaseerd op historische aanschafprijzen en  
-
-c. een opslag voor algemene kosten, groot 20 procent van de onder a bedoelde loonkosten.     
-3.  Artikel 10, derde en zevende lid, van het besluit is niet van toepassing.  
-
-### Artikel  3.6.7  
-
-####Vermindering
-
-1.  De in de artikelen 3.6.5 en 3.6.6 bedoelde subsidiabele kosten worden verminderd overeenkomstig de volgende leden van dit artikel.   
-2.  Een vermindering wordt toegepast indien: 
-
-a. de door realisering van het project verworven grond, verworven of tot stand gebrachte bedrijfsgebouwen of duurzame bedrijfsuitrusting op het tijdstip waarop het project is uitgevoerd zijn afgestoten of buiten gebruik gesteld;  
-
-b. de realisering van het project geschiedt in een bedrijfsgebouw of door aanschaf van vaste installaties in de open lucht, waarin of waarmee grotendeels activiteiten worden verricht welke behoren tot dezelfde S.B.I.-bedrijfsgroep als minder dan één jaar voor de indiening van de aanvraag reeds geschiedde;  
-
-c. de realisering van het project geschiedt door de verzelfstandiging van een in Nederland gevestigd bedrijf en de daarin verrichte activiteiten blijven behoren tot dezelfde S.B.I.-bedrijfsgroep.     
-3.  Een vermindering wordt voorts toegepast indien binnen een periode van één jaar vóór het indienen van de aanvraag tot en met de datum waarop het project is uitgevoerd aan de subsidieontvanger of tot hetzelfde concern als de subsidieontvanger behorende grond, bedrijfsgebouwen of duurzame bedrijfsuitrusting, welke zich in een in de provincies Groningen, Friesland of Drenthe gelegen gemeente of een in bijlage 3.6.2 genoemde gemeente of deel van een gemeente bevinden en waarin of waarmee activiteiten werden verricht welke behoren tot dezelfde S.B.I.-bedrijfsgroep als de activiteiten welke in of met de tot het project behorende bedrijfsgebouwen en duurzame bedrijfsuitrusting worden verricht, worden afgestoten of buiten gebruik gesteld. Deze vermindering geldt niet voor afstoot of buitengebruikstelling als onderdeel van een fundamenteel wijzigingproject.   
-4.  De in het tweede lid, onder a, bedoelde vermindering bedraagt het gedeelte van de kosten dat kan worden toegerekend aan de grond, de bedrijfsgebouwen of duurzame bedrijfsuitrusting die zijn afgestoten of buiten gebruik gesteld.   
-5.  De in het tweede lid, onder b, bedoelde vermindering bedraagt het gedeelte van de kosten dat kan worden toegerekend aan het desbetreffende bedrijfsgebouw of de vaste installaties.   
-6.  De in het tweede lid, onder c, bedoelde vermindering bedraagt het gedeelte van de kosten dat kan worden toegerekend aan de verkrijging van het desbetreffende bedrijf.   
-7.  De in het derde lid bedoelde vermindering bedraagt: 
-
-a. het gedeelte van de kosten van verkrijging van grond, dat overeenkomt met het gedeelte dat de oppervlakte die wordt afgestoten of buiten gebruik gesteld uitmaakt van de totale oppervlakte van de door het project verworven grond;  
-
-b. het gedeelte van de kosten van verkrijging van bedrijfsgebouwen, dat overeenkomt met het gedeelte dat de inhoud die wordt afgestoten of buiten gebruik gesteld uitmaakt van de totale inhoud van de door het project verworven of tot stand gebrachte bedrijfsgebouwen;  
-
-c. het gedeelte van de kosten van verkrijging van duurzame bedrijfsuitrusting, dat overeenkomt met het gedeelte dat de capaciteit die wordt afgestoten of buiten gebruik gesteld uitmaakt van de totale capaciteit van de door het project verworven of tot stand gebrachte duurzame bedrijfsuitrusting.   Onder capaciteit wordt verstaan het door de duurzame bedrijfsuitrusting bepaalde, technisch maximale vermogen tot produceren per tijdseenheid. Indien de capaciteit vanwege het onderscheid tussen de producten niet vergelijkbaar is, wordt de vermindering berekend aan de hand van de verhouding tussen de kosten van verkrijging van duurzame bedrijfsuitrusting en de ten hoogste twee jaar voor de aanvraag om subsidie bepaalde taxatiewaarde welke ten grondslag ligt aan de verzekerde waarde van de op het tijdstip van het indienen van de aanvraag bij het bedrijf of het hoofdkantoor in gebruik zijnde duurzame bedrijfsuitrusting.  
-
-### Artikel  3.6.8  
-
-####Verdeling van het subsidieplafond
-
-De minister verdeelt het subsidieplafond op volgorde van binnenkomst van de aanvragen. 
-
-### Artikel  3.6.9  
-
-####Realisatietermijn
-
-De in artikel 23, eerste lid, onder c, van het besluit bedoelde termijn bedraagt drie jaar. 
-
-### Artikel  3.6.10  
-
-####Afwijzingsgronden
-
-De minister beslist afwijzend op een aanvraag: 
-
-a. indien de subsidiabele kosten van het project minder dan € 4 500 000 bedragen;  
-
-b. in geval van een project als bedoeld in artikel 3.6.2, eerste lid, onder b of c, of tweede lid, a of b, indien de subsidiabele kosten minder dan € 13 500 000, € 45 000 000 onderscheidenlijk € 13 500 000 bedragen;  
-
-c. indien ter zake van het project waarop de aanvraag betrekking heeft reeds subsidie is verstrekt vanwege een provincie met gebruikmaking van een door het Rijk verstrekte uitkering in het kader van het regionaal beleid, bestemd voor stimulering van investeringen door ondernemers;  
-
-d. indien de aanvrager niet heeft aangetoond dat de gevraagde subsidie een stimulerend effect heeft in de zin van artikel 8 van de algemene groepsvrijstellingsverordening;  
-
-e. indien de subsidiabele kosten voor minder dan 25 procent met eigen middelen worden gefinancierd;  
-
-f. indien de verhouding tussen eigen en vreemd vermogen, gezien de rentabiliteit en de aard van het bedrijf, naar verwachting niet aanvaardbaar zal zijn nadat na uitvoering van het project de bedrijfsactiviteiten een aanvang hebben genomen;  
-
-g. indien de gewenste structuur van de betrokken sector van het bedrijfsleven zich tegen het project verzet;  
-
-h. indien het project het vestigen van een elektriciteitsproductie-installatie met een vermogen van meer dan 100 MW (input thermisch) behelst;  
-
-i. in geval van een project als bedoeld in artikel 3.6.2, eerste lid, onder c, of tweede lid, onder b, indien de aanvrager niet heeft aangetoond dat hij met betrekking tot de uitvoering van het project binnen concernverband een bestaande of op te richten zusteronderneming heeft die met betrekking tot de uitvoering van een soortgelijk project op het grondgebied van een andere lidstaat van de Europese Unie een beroep kan doen op een gepubliceerde regionale steunmaatregel van de desbetreffende overheid en dat de besluitvorming ten aanzien van het project is voorbehouden aan de leiding van het concern.   Onder regionale steunmaatregel wordt verstaan een regionale steunmaatregel die voldoet aan de voorwaarden van artikel 13 van de algemene groepsvrijstellingsverordening of die is gebaseerd op een door Europese Commissie goedgekeurde regionale steunkaart en die blijkens een besluit van de Commissie als verenigbaar met de interne markt wordt beschouwd. 
-
-### Artikel  3.6.11  
-
-####Subsidievoorwaarde
-
-De subsidieontvanger verwerft de tot het project behorende bedrijfsgebouwen en de duurzame bedrijfsuitrusting en stelt deze in bedrijf binnen de in de beschikking tot subsidieverlening vermelde termijn. 
-
-### Artikel  3.6.12  
-
-####Subsidieverplichtingen
-
-1.  De subsidieontvanger houdt het project in bedrijf in de gemeente of in het deel van de gemeente waar het tot stand is gebracht.   
-2.  De subsidieontvanger stelt de minister onverwijld in kennis van elk voornemen om van het project deel uitmakende grond, bedrijfsgebouwen of duurzame bedrijfsuitrusting af te stoten of buiten gebruik te stellen.   
-3.  De verplichtingen, bedoeld in het eerste en tweede lid, gelden tot vijf jaar na het tijdstip waarop het project is voltooid.  
-
-### Artikel  3.6.13  
-
-####Informatieverplichtingen
-
-1.  Een aanvraag voor subsidie als bedoeld in artikel 3.6.2 bevat in ieder geval: 
-
-a. gegevens over de aanvrager, waaronder de naam van de organisatie, het KvK-nummer, het post- en bezoekadres en het rekeningnummer;  
-
-b. gegevens over de contactpersoon bij de aanvrager, waaronder de naam, het telefoonnummer en het e-mailadres;  
-
-c. de gegevens over het plan, waaronder de activiteit waarvoor subsidie wordt aangevraagd, de start- en einddatum, de totale kosten en de omvang van de gevraagde subsidie;  
-
-d. een projectplan, inclusief planning, begroting en financiële onderbouwing;     
-2.  De aanvraag tot subsidieverlening gaat vergezeld van: 
-
-a. een kopie van de notarieel verleden statuten dan wel akte van oprichting;  
-
-b. de namen en vestigingsplaatsen van andere tot het concern behorende bedrijven;  
-
-c. een specificatie van afstoot of buiten gebruikstelling van grond, bedrijfsruimte of duurzame bedrijfsuitrusting binnen concernverband en de gemeente waarin dit plaatsvindt;  
-
-d. kopie van de aanvraag om een bouwvergunning of van een beslissing op deze aanvraag;  
-
-e. kopie van de aanvraag om een milieuvergunning of van een beslissing op deze aanvraag;  
-
-f. in geval van aankoop van een bestaand bedrijfsgebouw een kopie van een recent taxatierapport;  
-
-g. jaarverslagen van de laatste twee boekjaren.     
-3.  De aanvraag voor de vaststelling van een subsidie als bedoeld in artikel 3.6.2 bevat in ieder geval: 
-
-a. gegevens over de aanvrager, waaronder de naam van de aanvrager en het door de minister verstrekte referentienummer;  
-
-b. een onderbouwing voor de omvang van de vast te stellen subsidie.    
-
-### Artikel  3.6.14  
-
-####Staatssteun
-
-De subsidies, bedoeld in artikelen 3.6.2, bevat staatssteun en wordt gerechtvaardigd door de algemene groepsvrijstellingsverordening. 
-
-### Artikel  3.6.15  
-
-####Vervaltermijn
-
-Deze titel en de bijlagen 3.6.1, 3.6.2 en 3.6.3 vervallen met ingang van 1 juli 2017, met dien verstande dat deze van toepassing blijven op subsidies die voor die datum zijn verleend. 
+Vervallen per 01-01-2015 
 
 ### Titel  3.7  
 
@@ -2369,6 +2123,12 @@ c. 25 procent van de subsidiabele kosten van een innovatieproject voor zover dez
 4.  Indien het totale subsidiebedrag voor de deelnemers van een internationaal innovatiesamenwerkingsverband dat een EUREKA-innovatieproject of een geïndustrialiseerde landen innovatieproject uitvoert meer bedraagt dan € 750.000, wordt het meerdere naar rato in mindering gebracht op de aan de betrokken aanvragers te verstrekken subsidie.   
 5.  Indien het totale subsidiebedrag voor de deelnemers in een internationaal samenwerkingsverband dat een CATRENE-innovatieproject of een ITEA3-innovatieproject uitvoert, meer bedraagt dan € 4.000.000, wordt het meerdere naar rato in mindering gebracht op de aan de betrokken aanvragers te verstrekken subsidie.  
 
+### Artikel  3.8.4a  
+
+####In aanmerking komende kosten
+
+Voor subsidie komen uitsluitend de kosten in aanmerking, bedoeld in artikel 25, derde lid, van de algemene groepsvrijstellingsverordening. 
+
 ### Artikel  3.8.5  
 
 ####Afwijzingsgrond
@@ -2437,14 +2197,15 @@ Met uitzondering van CATRENE- en ITEA3-innovatieprojecten, brengen de subsidieon
 
 ####Informatieverplichtingen
 
-1.  Een aanvraag voor subsidie als bedoeld in artikel 3.8.2 bevat in ieder geval: 
+1.  Een aanvraag voor subsidie als bedoeld in artikel 3.8.2 bevat ten minste de gegevens, bedoeld in artikel 6, tweede lid, van de algemene groepsvrijstellingsverordening.  
+2.  Onverminderd het eerste lid bevat een aanvraag voor subsidie als bedoeld in artikel 3.8.2 ten minste: 
 
 a. gegevens over de aanvrager, waaronder de naam van de organisatie, het KvK-nummer, het post- en bezoekadres en het rekeningnummer;  
 
 b. gegevens over de contactpersoon bij de aanvrager, waaronder de naam, het telefoonnummer en het e-mailadres;  
 
 c. de gegevens over het plan, waaronder de activiteit waarvoor subsidie wordt aangevraagd, de start- en einddatum, de totale kosten en de omvang van de gevraagde subsidie.     
-2.  De aanvraag voor de vaststelling van een subsidie als bedoeld in artikel 3.7.2 bevat in ieder geval: 
+3.  De aanvraag voor de vaststelling van een subsidie als bedoeld in artikel 3.7.2 bevat in ieder geval: 
 
 a. gegevens over de aanvrager, waaronder de naam van de aanvrager en het door de minister verstrekte referentienummer;  
 
@@ -2454,7 +2215,7 @@ b. de omvang van de vast te stellen subsidie.
 
 ####Staatssteun
 
-De subsidie, bedoeld in artikel 3.8.2, bevat staatssteun en wordt gerechtvaardigd door Steunmaatregel SA.35254 (2012/N). 
+De subsidie, bedoeld in artikel 3.8.2, bevat staatssteun en wordt gerechtvaardigd door artikel 25 van de algemene groepsvrijstellingsverordening. 
 
 ### Artikel  3.8.15  
 
@@ -2503,14 +2264,20 @@ b. welke producten, processen of diensten door het goede commerciële perspectie
 
 ####Steunintensiteit
 
-In afwijking van artikel 1.3 bedraagt de subsidie in de vorm van krediet aan een kleine onderneming die deel uitmaakt van een samenwerking als bedoeld in paragraaf 5.1.3, onderdeel b, van de *Communautaire kaderregeling (EU) nr. C 323/1 van de Commissie van 30 december 2006 inzake staatssteun voor onderzoek, ontwikkeling en innovatie (PbEU 2006, C323)*, 50 procent van de subsidiabele kosten. 
+In afwijking van artikel 1.3 bedraagt de subsidie in de vorm van krediet aan een kleine onderneming die deel uitmaakt van een samenwerking als bedoeld in artikel 25 van de algemene groepsvrijstellingsverordening, 50 procent van de subsidiabele kosten. 
 
 ### Artikel  3.9.4  
 
 ####Subsidiemaximum
 
-1.  Het maximum subsidiebedrag bedraagt € 5.000.000 per subsidieontvanger.   
+1.  Het maximum subsidiebedrag bedraagt € 10.000.000 per subsidieontvanger.   
 2.  Indien door een ondernemer, dan wel door ondernemers die behoren tot eenzelfde groep, meer dan één ontwikkelingsproject wordt uitgevoerd en daarvoor subsidieaanvragen in het kader van deze titel zijn ingediend, wordt in een kalenderjaar aan die ondernemer, dan wel aan die ondernemers die tot eenzelfde groep behoren gezamenlijk, ten hoogste het in het eerste lid genoemde bedrag aan subsidie verleend.  
+
+### Artikel  3.9.4a  
+
+####In aanmerking komende kosten
+
+Voor subsidie komen uitsluitend de kosten in aanmerking, bedoeld in artikel 25, derde lid, van de algemene groepsvrijstellingsverordening. 
 
 ### Artikel  3.9.5  
 
@@ -2591,7 +2358,8 @@ b. de resultaten van het project geheel of gedeeltelijk worden vervreemd.
 
 ####Informatieverplichtingen
 
-1.  Een aanvraag voor subsidie als bedoeld in artikel 3.9.2 bevat in ieder geval: 
+1.  Een aanvraag voor subsidie als bedoeld in artikel 3.9.2 bevat ten minste de gegevens, bedoeld in artikel 6, tweede lid, van de algemene groepsvrijstellingsverordening.  
+2.  Onverminderd het eerste lid bevat een aanvraag voor subsidie als bedoeld in artikel 3.9.2 ten minste: 
 
 a. gegevens over de aanvrager, waaronder de naam van de organisatie, het KvK-nummer, het post- en bezoekadres en het rekeningnummer;  
 
@@ -2602,7 +2370,7 @@ c. de gegevens over het plan, waaronder de activiteit waarvoor subsidie wordt aa
 d. een businessplan, een projectplan en een financieel plan;  
 
 e. de meest recente jaarrekening en openingsbalans.     
-2.  De aanvraag voor de vaststelling van een subsidie als bedoeld in artikel 3.9.2 bevat in ieder geval: 
+3.  De aanvraag voor de vaststelling van een subsidie als bedoeld in artikel 3.9.2 bevat in ieder geval: 
 
 a. gegevens over de aanvrager, waaronder de naam van de aanvrager en het door de minister verstrekte referentienummer;  
 
@@ -2612,7 +2380,7 @@ b. de omvang van de vast te stellen subsidie.
 
 ####Staatssteun
 
-De subsidie, bedoeld in artikel 3.9.2 bevat staatssteun en wordt gerechtvaardigd door Steunmaatregel SA.35254 (2012/N). 
+De subsidie, bedoeld in artikel 3.9.2 bevat staatssteun en wordt gerechtvaardigd door artikel 25 van de algemene groepsvrijstellingsverordening. 
 
 ### Artikel  3.9.15  
 
@@ -2821,7 +2589,8 @@ Het model voor een overeenkomst is opgenomen in bijlage 3.10.1.
 
 ####Informatieverplichtingen
 
-Een aanvraag voor subsidie als bedoeld in artikel 3.10.2, eerste en tweede lid, bevat in ieder geval: 
+1.  Een aanvraag voor subsidie als bedoeld in artikel 3.10.2, eerste en tweede lid, bevat ten minste de gegevens, bedoeld in artikel 6, tweede lid, van de algemene groepsvrijstellingsverordening. 
+2. Onverminderd het eerste lid bevat een aanvraag voor subsidie als bedoeld in artikel 3.10.2, eerste en tweede lid, ten minste: 
 
 a. gegevens over de aanvrager, waaronder de naam van de organisatie, het KvK-nummer, het post- en bezoekadres en het rekeningnummer;  
 
@@ -2835,9 +2604,7 @@ e. de meest recente jaarrekening en openingsbalans.
 
 ### Artikel  3.10.13  
 
-####Staatssteun
-
-De subsidie, bedoeld in artikel 3.10.2, bevat staatssteun en wordt gerechtvaardigd door de algemene groepsvrijstellingsverordening. 
+De subsidie, bedoeld in artikel 3.12.2, bevat staatssteun en wordt gerechtvaardigd door artikel 21 van de algemene groepsvrijstellingsverordening. 
 
 ### Artikel  3.10.13a  
 
@@ -2864,7 +2631,12 @@ Deze titel en bijlage 3.10.1 vervallen met ingang van 1 juli 2017, met dien ver
 ####Begripsomschrijvingen
 
 1.  Voor de toepassing van deze titel wordt als financier aangewezen een bank en een door de minister aangewezen kredietverstrekker.   
-2.  Voor de toepassing van artikel 3.11.2, derde lid, wordt als financier aangewezen een kredietinstelling in de zin van de Wet financiële markten BES die op grond van die wet bevoegd is in Bonaire, Sint Eustatius of Saba het bedrijf van kredietinstelling uit te oefenen en een door de minister aangewezen, op Bonaire, Sint Eustatius of Saba gevestigde, kredietverstrekker.  
+2.  Voor de toepassing van artikel 3.11.2, derde lid, wordt als financier aangewezen een kredietinstelling in de zin van de Wet financiële markten BES die op grond van die wet bevoegd is in Bonaire, Sint Eustatius of Saba het bedrijf van kredietinstelling uit te oefenen en een door de minister aangewezen, op Bonaire, Sint Eustatius of Saba gevestigde, kredietverstrekker.   
+3.  In deze titel wordt verstaan onder: 
+
+*afzet van landbouwproducten:* afzet van landbouwproducten als bedoeld in artikel 2, eerste lid, onderdeel c, van de de-minimis verordening;  
+
+*verwerking van landbouwproducten:* verwerking van landbouwproducten als bedoeld in artikel 2, eerste lid, onderdeel b, van de de-minimis verordening.   
 
 ### Artikel  3.11.2  
 
@@ -2886,17 +2658,45 @@ b. een door de minister aangewezen kredietverstrekker als bedoeld in artikel 3.1
 
 ####Afwijzingsgronden
 
-Voor subsidie komt niet in aanmerking een financier die een kredietovereenkomst sluit met een MKB-ondernemer die: 
+1. Voor subsidie komt niet in aanmerking een financier die een kredietovereenkomst sluit met een MKB-ondernemer die: 
 
 a. een onderneming in stand houdt waarvan de laatste jaaromzet voor 50 procent of meer is verkregen, of, indien de onderneming nog geen heel jaar is gedreven, waarvan de omzet naar verwachting voor 50 procent of meer zal worden verkregen, uit: 
 
-1°. de beoefening van de land- of de tuinbouw, de vee- of visteelt, de visserij of de teelt van vee- of visvoer,  
+1°. de uitoefening van het bank, verzekerings- of beleggingsbedrijf, of het financieren van een of meer andere ondernemingen of  
 
-2°. de uitoefening van het bank, verzekerings- of beleggingsbedrijf, of het financieren van een of meer andere ondernemingen of  
+2°. het verwerven, vervreemden, beheren of exploiteren van onroerende zaken of het ontwikkelen van onroerende zaakprojecten;    
 
-3°. het verwerven, vervreemden, beheren of exploiteren van onroerende zaken of het ontwikkelen van onroerende zaakprojecten;    
+b. een aanbieder is als in artikel 1, onderdeel c, van de Wet marktordening gezondheidszorg dan wel het beroep van dierenarts, notaris, advocaat of gerechtsdeurwaarder;  
 
-b. een aanbieder is als in artikel 1, onderdeel c, van de Wet marktordening gezondheidszorg dan wel het beroep van dierenarts, notaris, advocaat of gerechtsdeurwaarder.   
+c. een onderneming in stand houdt die actief is in: 
+
+1°. de sector visserij en aquacultuur;  
+
+2°. de primaire productie van landbouwproducten, of  
+
+3°. de sector verwerking en afzet van landbouwproducten in de gevallen, bedoeld in artikel 1, eerste lid, onder c, van de de-minimis verordening;    
+
+d. een onderneming in stand houdt: 
+
+1°. waartegen een collectieve insolventieprocedure loopt, of  
+
+2°. die voldoet aan de criteria om op verzoek van zijn schuldeisers aan een collectieve insolventieprocedure te worden onderworpen.     
+2.  In afwijking van het eerste lid kan een financier die een kredietovereenkomst sluit met een MKB-ondernemer die actief is in een van het toepassingsgebied van de de-minimis verordening uitgesloten sector, bedoeld in het eerste lid, onder c, wel voor subsidie in aanmerking komen, indien: 
+
+a. de MKB-ondernemer ook actief is in één of meer van de sectoren of andere activiteiten verricht die onder de de-minimis verordening vallen, en  
+
+b. de financier aan de MKB-ondernemer door middel van de kredietovereenkomst de verplichting oplegt dat: 
+
+1°. de MKB-ondernemer de verleende subsidie uitsluitend zal gebruiken voor de financiering van activiteiten die zullen plaatsvinden binnen de sectoren die binnen het toepassingsgebied van de de-minimis verordening vallen;  
+
+2°. de inrichting van de administratie van de MKB-ondernemer zodanig zal zijn dat voor zover de MKB-ondernemer activiteiten verricht die buiten het toepassingsgebied van de de-minimis verordening vallen, deze activiteiten zowel financieel als administratief gescheiden worden uitgevoerd van de activiteiten dat met deze subsidie wordt ondersteund.       
+3.  Geen subsidie wordt verleend voor activiteiten die direct verband houden met: 
+
+1°. de omvang van de uitvoer naar andere lidstaten van de Europese Unie of derde landen;  
+
+2°. het oprichten en exploiteren van een distributienet ten behoeve van de uitvoer, of  
+
+3°. andere lopende uitgaven direct verband houdend met activiteiten op het gebied van uitvoer.   
 
 ### Artikel  3.11.4  
 
@@ -2974,7 +2774,7 @@ Op aanvragen om subsidie die voor 1 januari 2015 zijn ingediend en op subsidies
 
 ####Staatssteun
 
-De subsidie, bedoeld in artikel 3.13.2, bevat staatssteun en wordt gerechtvaardigd door Verordening (EG) nr. 1998/2006 van de Commissie van 15 december 2006 betreffende de toepassing van de artikelen 87 en 88 van het Verdrag op de-minimissteun (PbEU 2006, L379). 
+De subsidie, bedoeld in artikel 3.11.2, eerste lid, bevat staatssteun en wordt gerechtvaardigd door de de-minimis verordening. 
 
 ### Artikel  3.11.12  
 
@@ -3203,7 +3003,7 @@ d. de gezondheidszorg, voor zover de onderneming een aanbieder is als bedoeld in
 
 a. het nog niet afgeloste deel van een of meer leningen of  
 
-b. een of meer bankgarantiefaciliteiten als bedoeld in artikel 3.14.2 die door een financier met toepassing van dit hoofdstuk aan de ondernemer onderscheidenlijk de groep is of zijn verstrekt of gelijktijdig wordt of worden verstrekt niet meer bedraagt dan € 150.000.000.    
+b. een of meer bankgarantiefaciliteiten als bedoeld in artikel 3.14.2 die door een financier met toepassing van dit hoofdstuk aan de ondernemer onderscheidenlijk de groep is of zijn verstrekt of gelijktijdig wordt of worden verstrekt niet meer bedraagt dan € 50.000.000.    
 
 ### Artikel  3.13.6  
 
@@ -3338,7 +3138,7 @@ d. de gezondheidszorg, voor zover de onderneming een aanbieder is als bedoeld in
 
 a. een of meer bankgarantiefaciliteiten of  
 
-b. het nog niet afgeloste deel van een of meer leningen als bedoeld in artikel 3.13.2   die door een financier met toepassing van dit hoofdstuk aan de ondernemer onderscheidenlijk de groep is of zijn verstrekt of gelijktijdig wordt of worden verstrekt niet meer bedraagt dan € 150.000.000.  
+b. het nog niet afgeloste deel van een of meer leningen als bedoeld in artikel 3.13.2   die door een financier met toepassing van dit hoofdstuk aan de ondernemer onderscheidenlijk de groep is of zijn verstrekt of gelijktijdig wordt of worden verstrekt niet meer bedraagt dan € 50.000.000.  
 
 ### Artikel  3.14.6  
 
@@ -3578,6 +3378,8 @@ In deze titel wordt verstaan onder:
 
 *academische innovatieve starter:* innovatieve starter van wie de economische activiteiten rechtstreeks en onmiddellijk voortkomen uit onderzoek van een universiteit, een academisch ziekenhuis als bedoeld in onderdeel j van de Bijlage behorende bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek, een onderzoeksorganisatie als bedoeld in artikel 4.1 van het Reglement NWO 2002, een onderzoeksinstituut van de Koninklijke Nederlandse Akademie van Wetenschappen, het Nederlands Kanker Instituut, het Max Planck Instituut voor Psycholinguïstiek te Nijmegen, onderzoekers van de Dubble-bundellijn bij de European Synchrotron Radiation Facility te Grenoble, Frankrijk, het Naturalis Biodiversity Center, of het Advanced Research Centre for NanoLithography, hetgeen blijkt uit een overeenkomst gesloten tussen de innovatieve starter en de desbetreffende universiteit, het desbetreffende academisch ziekenhuis, de desbetreffende onderzoeksorganisatie of het desbetreffende onderzoeksinstituut;  
 
+*innovatieve starter:* innovatieve onderneming als bedoeld in artikel 2, onderdeel 80, van de algemene groepsvrijstellingsverordening, die tevens starter is, als bedoeld in artikel 22, tweede lid, van die verordening; 
+
 *toekomstige investeerder:* persoon die in het kader van een vernieuwingsfasetraject of een vroegefasetraject van plan is na uitvoering van het vernieuwingsfaseplan of het vroegefaseplan aan de aanvrager van de subsidie financiering te verstrekken voor een bedrag dat ten minste gelijk is aan het bedrag van de maximale hoofdsom, bedoeld in de artikelen 3.16.3, 3.16.8 en 3.16.13, voor de fase na de vernieuwingsfase of de vroegefase;  
 
 *vernieuwingsfaseplan:* document waarin wordt uiteengezet op welke wijze en op welke termijn de MKB-ondernemer door experimentele ontwikkeling komt tot de ontwikkeling of de verdere ontwikkeling van een product, proces of dienst op basis waarvan de toekomstige investeerder definitief kan besluiten tot financiering van het vervolgtraject;  
@@ -3600,7 +3402,7 @@ b. indien het gaat om een uiteenzetting van een academische innovatieve starter,
 
 ####Subsidieaanvraag
 
-1.  De minister verstrekt op aanvraag een subsidie in de vorm van een geldlening aan een MKB-ondernemer ten behoeve van de financiering van een vernieuwingsfasetraject.   
+1.  De minister verstrekt op aanvraag een subsidie in de vorm van een geldlening aan een MKB-ondernemer, niet zijnde een MKB-ondernemer die werkzaam is in de visserij- en aquacultuursector, ten behoeve van de financiering van een vernieuwingsfasetraject.   
 2.  Bij zijn aanvraag legt de MKB-ondernemer een verklaring van een toekomstige investeerder over die is opgesteld overeenkomstig het model dat in bijlage 3.16.1 is opgenomen.   
 3.  De termijn, bedoeld in artikel 23, eerste lid, onder c, van het Kaderbesluit nationale EZ-subsidies bedraagt 24 maanden.   
 4.  Geen subsidie wordt verstrekt: 
@@ -3797,13 +3599,14 @@ d. de kwaliteit van het vroegefasetraject hoger is.
 
 ####Informatieverplichtingen
 
-Een aanvraag om subsidie op grond van deze titel, bevat in ieder geval: 
+1.  Een aanvraag voor subsidie op grond van deze titel bevat ten minste de gegevens, bedoeld in artikel 6, tweede lid, van de algemene groepsvrijstellingsverordening. 
+2.  Onverminderd het eerste lid bevat een aanvraag voor subsidie op grond van deze titel ten minste: 
 
 a. gegevens over de aanvrager, waaronder de naam van de organisatie, het KvK-nummer, het post- en bezoekadres en het rekeningnummer;  
 
 b. gegevens over de contactpersoon bij de aanvrager, waaronder de naam, het telefoonnummer en het e-mailadres;  
 
-c. de kerngegevens en onderbouwing van het vroegefaseplan of vernieuwingsfaseplan.   
+c. de kerngegevens en onderbouwing van het vroegefaseplan of vernieuwingsfaseplan.  
 
 ### Artikel  3.16.20  
 
@@ -3816,7 +3619,7 @@ c. de kerngegevens en onderbouwing van het vroegefaseplan of vernieuwingsfasepla
 
 ####Staatssteun
 
-De subsidie, bedoeld in de artikelen 3.16.2, 3.16.7, en 3.16.12 bevat staatssteun en wordt gerechtvaardigd door het O&O&I-steunkader. 
+De subsidie, bedoeld in de artikelen 3.16.2, 3.16.7, en 3.16.12 bevat staatssteun en wordt gerechtvaardigd door de artikelen 22 en 25 van de algemene groepsvrijstellingsverordening. 
 
 ### Artikel  3.16.22  
 
@@ -3838,7 +3641,7 @@ Deze titel en de bijlagen 3.16.1, 3.16.2 en 3.16.3 vervallen met ingang van 1 j
 
 In dit hoofdstuk wordt verstaan onder: 
 
-*demonstratieproject:* op bescherming van het milieu gericht samenhangend geheel van activiteiten die een technisch en economisch risico inhouden, waarbij die activiteiten bestaan uit het door de aanvrager treffen van energiebesparende maatregelen of maatregelen die het gebruik van hernieuwbare energiebronnen bevorderen met behulp van: 
+*demonstratieproject:* op bescherming van het milieu gericht samenhangend geheel van activiteiten die een technisch en economisch risico inhouden, waarbij die activiteiten bestaan uit het door de aanvrager treffen van energie-efficiëntie maatregelen of maatregelen ter bevordering van energie uit hernieuwbare energiebronnen met behulp van: 
 
 a. voor Nederland nieuwe apparaten, systemen of technieken, of  
 
@@ -3846,7 +3649,9 @@ b. een voor Nederland nieuwe toepassing van apparaten, systemen of technieken;
 
 *duurzame energiehuishouding:* energiehuishouding die economisch efficiënt is, het milieu minder zwaar belast of voorziet in beschikbaarheid van energie in voldoende mate en van voldoende kwaliteit;  
 
-*haalbaarheidsstudie:* samenstel van activiteiten dat leidt tot een schriftelijk rapport met een inschatting van de technische en economische mogelijkheden van fundamenteel, industrieel onderzoek of experimentele ontwikkeling, of een combinatie van fundamenteel en industrieel onderzoek en experimentele ontwikkeling;  
+*energie uit hernieuwbare energiebronnen:* energie uit hernieuwbare energiebronnen als bedoeld in artikel 2, onderdeel 109, van de algemene groepsvrijstellingsverordening en paragraaf 1.3, onderdeel 19, onder 11, van de Richtsnoeren staatssteun ten behoeve van milieubescherming en energie 2014–2020 (PbEU 2014, C200); 
+
+*energie-efficiëntie:* energie-efficiëntie als bedoeld in artikel 2, onderdeel 103, van de algemene groepsvrijstellingsverordening en paragraaf 1.3, onderdeel 19, onder 2, van de Richtsnoeren staatssteun ten behoeve van milieubescherming en energie 2014–2020 (PbEU 2014, C200);  
 
 *kennisinstelling:*
 
@@ -3858,6 +3663,8 @@ c. geheel of gedeeltelijk door een andere staat gefinancierde openbare instellin
 
 d. geheel of gedeeltelijk door een andere staat gefinancierde onderzoeksinstelling die activiteiten verricht met als doel de algemene wetenschappelijke en technische kennis uit te breiden;    
 
+*milieubescherming:* milieubescherming als bedoeld in paragraaf 1.3, onderdeel 19, onder 1, van de Richtsnoeren staatssteun ten behoeve van milieubescherming en energie 2014–2020 (PbEU 2014, C200); 
+
 *ondernemer in de landbouwsector:* ondernemer die activiteiten verricht op het gebied van de productie, verwerking en afzet van landbouwproducten als bedoeld in bijlage 1 bij het Verdrag tot oprichting van de Europese Gemeenschap, met uitzondering van ondernemers in de visserij- en aquacultuursector en in de bosbouwsector;  
 
 *referentiekosten:* kosten voor een investering ten behoeve van een in Nederland gangbaar systeem, apparaat of techniek die in technisch opzicht vergelijkbaar is met een in Nederland uit te voeren project maar waarmee niet hetzelfde niveau van milieubescherming kan worden bereikt als met het uit te voeren project, terwijl, in geval van een uit te voeren project voor hernieuwbare energie, de capaciteit voor de opwekking van energie van dat project ten minste overeenkomt met die van de eerstbedoelde investering.   
@@ -3866,31 +3673,7 @@ d. geheel of gedeeltelijk door een andere staat gefinancierde onderzoeksinstelli
 
 ####Berekening van de kosten
 
-1.  Voor de toepassing van dit hoofdstuk wordt onder de kostensoorten, bedoeld in artikel 14a, tweede lid, onderdeel a tot en met d, van het besluit verstaan: 
-
-a. wat bedrijfsterreinen betreft: de koopsom en overdrachtskosten met uitzondering van overdrachtsbelasting of de gekapitaliseerde erfpachtcanon exclusief de kosten van vestiging van de erfpacht, indien de grond van een gemeente of enig ander van overheidswege opgericht lichaam in erfpacht is verkregen;  
-
-b. wat bedrijfsgebouwen betreft en daartoe te rekenen centrale voorzieningen: de koopsom en de overdrachtskosten of de aan derden verschuldigde bouwkosten met uitzondering van de financieringskosten en de overdrachtsbelasting;  
-
-c. wat machines en apparatuur betreft voor zover deze na afloop van het project voor dezelfde doeleinden worden ingezet als beoogd met het project en blijven bijdragen aan een duurzame energiehuishouding: kosten voor de aanschaf ervan;  
-
-d. wat machines en apparatuur betreft voor zover deze na afloop van het project voor andere doeleinden worden ingezet dan beoogd met het project of niet meer bijdragen aan een duurzame energiehuishouding: kosten voor de aanschaf ervan, met dien verstande dat wordt uitgegaan van de aan het project toe te rekenen afschrijvingskosten, berekend op basis van de historische aanschafprijzen en de door de belastingdienst geaccepteerde afschrijvingstermijnen, met uitzondering van mogelijkheden tot vervroegde afschrijving, of leasetermijnen, met uitzondering van financieringskosten, en gebaseerd op de bedrijfseconomische levensduur;  
-
-e. wat materialen en hulpmiddelen betreft: het verbruik ervan, gebaseerd op historische aanschafprijzen.     
-2.  Onder de kostensoorten, bedoeld in artikel 14a, tweede lid, onderdeel e en f, van het besluit wordt verstaan: 
-
-a. wat betreft onderhoud en inspectie alsmede beheer en administratie met inbegrip van de rapportages, bedoeld in artikel 39 van het besluit, en het eindverslag, bedoeld in artikel 50, tweede lid, onderdeel a, van het besluit: kosten die rechtstreeks zijn toe te rekenen aan het vijfde lid, onderdeel a tot en met e;  
-
-b. wat betreft verzekeringen: kosten die rechtstreeks zijn toe te rekenen aan het vijfde lid, onderdeel a tot en met d;  
-
-c. wat betreft onvoorziene reparaties: kosten die rechtstreeks zijn toe te rekenen aan het vijfde lid, onderdeel b tot en met d;  
-
-d. wat betreft monitoring: kosten die rechtstreeks zijn toe te rekenen aan voortgangscontrole op een project;  
-
-e. wat betreft ontmanteling: kosten ervan voor zover gehele of gedeeltelijke verwijdering van een project in verband met milieubescherming verplicht is, te berekenen over een periode van ten hoogste 20 jaar;  
-
-f. wat betreft het geleidelijk opstarten en in gebruik nemen van een project: kosten ervan die rechtstreeks zijn toe te rekenen aan capaciteitsverlies en gederfde inkomsten.     
-3.  Van de som van de per kostensoort berekende investeringskosten van het project verminderd met de referentiekosten maken de aan derden verschuldigde kosten, bedoeld in artikel 14a, tweede lid, onderdeel h, van het besluit ten hoogste 50 procent deel uit.  
+Voor de berekening van de subsidiabele kosten geldt dat van de som van de per kostensoort berekende investeringskosten van het project verminderd met de referentiekosten, de aan derden verschuldigde kosten ten hoogste 50 procent deel uitmaken. 
 
 ### Artikel  4.1.3  
 
@@ -3917,6 +3700,12 @@ a. subsidies op grond van het Besluit stimulering duurzame energieproductie;
 b. bijdragen van de Europese Commissie op grond van Besluit nr. 1982/2006/EG van het Europees Parlement en de Raad van 18 december 2006 betreffende het zevende kaderprogramma voor activiteiten op het gebied van onderzoek, technologische ontwikkeling en demonstratie (PbEU 2006, L412) en Verordening (EU) nr. 1291/2013 van het Europees Parlement en de Raad van 11 december 2013 tot vaststelling van Horizon 2020 – het kaderprogramma voor onderzoek en innovatie (2014–2020) en tot intrekking van Besluit nr. 1982/2006/EG (PbEU 2013, L347).     
 2.  Bijdragen van gemeenten, provincies, waterschappen en openbare lichamen als bedoeld in artikel 8, eerste lid, van de Wet gemeenschappelijke regelingen, worden aangemerkt als publieke cofinanciering, en blijven bij de toepassing van artikel 6, eerste lid, van het besluit buiten beschouwing voor zover het de berekening betreft van het maximum bedrag dat krachtens deze titel per project kan worden verstrekt.  
 
+### Artikel  4.2.1a  
+
+####Afwijzingsgrond
+
+De minister beslist afwijzend op een aanvraag om subsidie als bedoeld in de artikelen 4.2.16, 4.2.30, 4.2.44, 4.2.51, 4.2.58, 4.2.65, 4.2.72, 4.2.93, 4.2.100 of 4.2.113 indien deze betrekking heeft op het voldoen aan reeds vastgestelde Unienormen als bedoeld in artikel 38, tweede lid, van de algemene groepsvrijstellingsverordening. 
+
 ### Artikel  4.2.2  
 
 ####Starttermijn, evaluatie en transparantie
@@ -3930,14 +3719,15 @@ b. bijdragen van de Europese Commissie op grond van Besluit nr. 1982/2006/EG van
 
 ####Informatieverplichtingen
 
-1.  Een aanvraag om subsidie op grond van deze titel, bevat in ieder geval: 
+1.  Een aanvraag om subsidie op grond van deze titel bevat ten minste de gegevens, bedoeld in artikel 6, tweede lid, van de algemene groepsvrijstellingsverordening.  
+2.  Onverminderd het eerste lid bevat een aanvraag om subsidie op grond van deze titel ten minste: 
 
 a. gegevens over de aanvrager, waaronder de naam van de organisatie, het KvK-nummer, het post- en bezoekadres en het rekeningnummer;  
 
 b. gegevens over de contactpersoon bij de aanvrager, waaronder de naam, het telefoonnummer en het e-mailadres;  
 
 c. kerngegevens over het project.     
-2.  De aanvraag voor de vaststelling van een subsidie die krachtens deze titel is verleend bevat in ieder geval: 
+3.  De aanvraag voor de vaststelling van een subsidie die krachtens deze titel is verleend bevat in ieder geval: 
 
 a. gegevens over de aanvrager, waaronder de naam van de aanvrager en het door de minister verstrekte referentienummer;  
 
@@ -3957,12 +3747,6 @@ Voor zover de subsidiabele projectkosten betrekking hebben op een demonstratiepr
 
 1.  Indien het totale subsidiebedrag voor de deelnemers van een samenwerkingsverband meer bedraagt dan het in de relevante paragraaf van deze titel genoemde maximum subsidiebedrag per project, wordt het meerdere naar rato in mindering gebracht op de aan de betrokken aanvragers te verstrekken subsidie.   
 2.  Een samenwerkingsverband voert een project uit voor gezamenlijke rekening en risico.  
-
-### Artikel  4.2.6  
-
-####Staatssteun
-
-De subsidies, bedoeld in de artikelen 4.2.9, 4.2.16, 4.2.23, 4.2.30, 4.2.37, 4.2.44, 4.2.51, 4.2.58, 4.2.65, 4.2.72, 4.2.79, 4.2.86, 4.2.93, 4.2.100, 4.2.107, 4.2.113 en 4.2.120 bevatten staatssteun en zijn gerechtvaardigd door de algemene groepsvrijstellingsverordening. 
 
 ### Artikel  4.2.7  
 
@@ -4046,6 +3830,12 @@ d. de kwaliteit van het project beter is, blijkend uit de uitwerking van aanpak 
 3.  De minister rangschikt de aanvragen waarop niet afwijzend is beslist hoger naarmate in totaal meer punten aan het project zijn toegekend.   
 4.  Geen subsidie wordt verleend voor een project dat lager is gerangschikt dan een soortgelijk project.  
 
+### Artikel  4.2.14a  
+
+####Staatssteun
+
+De subsidie, bedoeld in artikel 4.2.9. bevat staatssteun en wordt gerechtvaardigd door artikel 25 van de algemene groepsvrijstellingsverordening. 
+
 ### §  4.2.3  
 
 ####Biobased Economy: Kostprijsreductie elektriciteit- en warmteproductie
@@ -4076,12 +3866,12 @@ b. 25% van de subsidiabele kosten voor zover deze betrekking hebben op experimen
 
 c. voor een demonstratieproject: 
 
-1°. 40% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat energiebesparende maatregelen betreft en waarbij de exploitatiebaten en exploitatiekosten verrekend worden;  
+1°. 30% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat energie-efficiëntie maatregelen betreft;  
 
-2°. 20% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat energiebesparende maatregelen betreft en waarbij de exploitatiebaten en exploitatiekosten niet verrekend worden;  
+2°. 45% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat maatregelen betreft ter bevordering van energie uit hernieuwbare energiebronnen en waarbij de subsidiabele kosten worden berekend in overeenstemming met artikel 41, zesde lid, onderdeel a of b, van de algemene groepsvrijstellingsverordening;  
 
-3°. 40% van de subsidiabele kosten voor zover deze betrekking hebben op een project dat maatregelen betreft die het gebruik van hernieuwbare energiebronnen bevorderen.       
-2.  De subsidiabele kosten van een demonstratieproject worden berekend in overeenstemming met artikel 21 en 23 van de algemene groepsvrijstellingsverordening en met inachtneming van artikel 14a, tweede lid, van het besluit.   
+3°. 30% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat maatregelen betreft ter bevordering van energie uit hernieuwbare energiebronnen en waarbij de subsidiabele kosten worden berekend in overeenstemming met artikel 41, zesde lid, onderdeel c, van de algemene groepsvrijstellingsverordening.       
+2.  De subsidiabele kosten van een demonstratieproject worden berekend in overeenstemming met de artikelen 38 en 41 van de algemene groepsvrijstellingsverordening.   
 3.  De in het eerste lid genoemde percentages worden met 10 procentpunten verhoogd, voor zover de aanvrager een MKB-ondernemer is en de subsidiabele kosten worden gemaakt en betaald door de MKB-ondernemer.   
 4.  Onverminderd het derde lid, wordt het in het eerste lid, onderdeel b, bedoelde percentage voor ondernemingen met 5 procentpunten verhoogd indien: 
 
@@ -4132,6 +3922,12 @@ d. de kwaliteit van het project beter is, blijkend uit de uitwerking van aanpak 
 2.  De minister kent per onderdeel van het eerste lid ten minste één en ten hoogste vijf punten toe.   
 3.  De minister rangschikt de aanvragen waarop niet afwijzend is beslist hoger naarmate in totaal meer punten aan het project zijn toegekend.   
 4.  Geen subsidie wordt verleend voor een project dat lager is gerangschikt dan een soortgelijk project.  
+
+### Artikel  4.2.21a  
+
+####Staatssteun
+
+De subsidie, bedoeld in artikel 4.2.16 bevat staatssteun en wordt gerechtvaardigd door de artikelen 25, 38 en 41 van de algemene groepsvrijstellingsverordening. 
 
 ### §  4.2.4  
 
@@ -4207,6 +4003,12 @@ d. de kwaliteit van het project beter is, blijkend uit de uitwerking van aanpak 
 3.  De minister rangschikt de aanvragen waarop niet afwijzend is beslist hoger naarmate in totaal meer punten aan het project zijn toegekend.   
 4.  Geen subsidie wordt verleend voor een project dat lager is gerangschikt dan een soortgelijk project.  
 
+### Artikel  4.2.28a  
+
+####Staatssteun
+
+De subsidie, bedoeld in artikel 4.2.23 bevat staatssteun en wordt gerechtvaardigd door artikel 25 van de algemene groepsvrijstellingsverordening. 
+
 ### §  4.2.5  
 
 ####Groen Gas
@@ -4236,12 +4038,12 @@ b. 25% van de subsidiabele kosten voor zover deze betrekking hebben op experimen
 
 c. voor een demonstratieproject: 
 
-1°. 40% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat energiebesparende maatregelen betreft en waarbij de exploitatiebaten en exploitatiekosten verrekend worden;  
+1°. 30% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat energie-efficiëntie maatregelen betreft;  
 
-2°. 20% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat energiebesparende maatregelen betreft en waarbij de exploitatiebaten en exploitatiekosten niet verrekend worden;  
+2°. 45% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat maatregelen betreft ter bevordering van energie uit hernieuwbare energiebronnen en waarbij de subsidiabele kosten worden berekend in overeenstemming met artikel 41, zesde lid, onderdeel a of b, van de algemene groepsvrijstellingsverordening;  
 
-3°. 40% van de subsidiabele kosten voor zover deze betrekking hebben op een project dat maatregelen betreft die het gebruik van hernieuwbare energiebronnen bevorderen.       
-2.  De subsidiabele kosten van een demonstratieproject worden berekend in overeenstemming met artikel 21 en 23 van de algemene groepsvrijstellingsverordening en met inachtneming van artikel 14a, tweede lid, van het besluit.   
+3°. 30% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat maatregelen betreft ter bevordering van energie uit hernieuwbare energiebronnen en waarbij de subsidiabele kosten worden berekend in overeenstemming met artikel 41, zesde lid, onderdeel c, van de algemene groepsvrijstellingsverordening.       
+2.  De subsidiabele kosten van een demonstratieproject worden berekend in overeenstemming met de artikelen 38 en 41 van de algemene groepsvrijstellingsverordening.   
 3.  De in het eerste lid bedoelde percentages worden met 10 procentpunten verhoogd, voor zover de aanvrager een MKB-ondernemer is en de subsidiabele kosten worden gemaakt en betaald door de MKB-ondernemer.   
 4.  Onverminderd het derde lid, wordt het in het eerste lid, onderdeel b, bedoelde percentage voor ondernemingen met 5 procentpunten verhoogd indien: 
 
@@ -4291,6 +4093,12 @@ e. het project meer bijdraagt aan de kostprijsverlaging van een duurzame energie
 2.  De minister kent per onderdeel van het eerste lid ten minste één en ten hoogste vijf punten toe.   
 3.  De minister rangschikt de aanvragen waarop niet afwijzend is beslist hoger naarmate in totaal meer punten aan het project zijn toegekend.   
 4.  Geen subsidie wordt verleend voor een project dat lager is gerangschikt dan een soortgelijk project.  
+
+### Artikel  4.2.35a  
+
+####Staatssteun
+
+De subsidie, bedoeld in artikel 4.2.30 bevat staatssteun en wordt gerechtvaardigd door de artikelen 25, 38 en 41 van de algemene groepsvrijstellingsverordening. 
 
 ### §  4.2.6  
 
@@ -4360,6 +4168,12 @@ d. de kwaliteit van het project beter is, blijkend uit de uitwerking van aanpak 
 3.  De minister rangschikt de aanvragen waarop niet afwijzend is beslist hoger naarmate in totaal meer punten aan het project zijn toegekend.   
 4.  Geen subsidie wordt verleend voor een project dat lager is gerangschikt dan een soortgelijk project.  
 
+### Artikel  4.2.42a  
+
+####Staatssteun
+
+De subsidie, bedoeld in artikel 4.2.37 bevat staatssteun en wordt gerechtvaardigd door artikel 25 van de algemene groepsvrijstellingsverordening. 
+
 ### §  4.2.7  
 
 ####LNG
@@ -4391,10 +4205,12 @@ c. 25% van de subsidiabele kosten voor zover deze betrekking hebben op experimen
 
 d. voor een demonstratieproject: 
 
-1°. 20% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat energiebesparende maatregelen betreft en waarbij de exploitatiebaten en exploitatiekosten niet verrekend worden;  
+1°. 30% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat energie-efficiëntie maatregelen betreft;  
 
-2°. 40% van de subsidiabele kosten voor zover deze betrekking hebben op een project dat maatregelen betreft die het gebruik van hernieuwbare energiebronnen bevorderen.       
-2.  De subsidiabele kosten van een demonstratieproject worden berekend volgens artikel 21 en 23 van de algemene groepsvrijstellingsverordening, met inachtneming van artikel 14a, tweede lid, van het besluit.   
+2°. 45% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat maatregelen betreft ter bevordering van energie uit hernieuwbare energiebronnen en waarbij de subsidiabele kosten worden berekend in overeenstemming met artikel 41, zesde lid, onderdeel a of b, van de algemene groepsvrijstellingsverordening;  
+
+3°. 30% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat maatregelen betreft ter bevordering van energie uit hernieuwbare energiebronnen en waarbij de subsidiabele kosten worden berekend in overeenstemming met artikel 41, zesde lid, onderdeel c, van de algemene groepsvrijstellingsverordening.       
+2.  De subsidiabele kosten van een demonstratieproject worden berekend volgens de artikelen 38 en 41 van de algemene groepsvrijstellingsverordening, met inachtneming van artikel 14a, tweede lid, van het besluit.   
 3.  De subsidie bedraagt maximaal € 500.000 per LNG-project.  
 
 ### Artikel  4.2.46  
@@ -4436,6 +4252,12 @@ d. de kwaliteit van het project beter is, blijkend uit de uitwerking van aanpak 
 3.  De minister rangschikt de aanvragen waarop niet afwijzend is beslist hoger naarmate in totaal meer punten aan het project zijn toegekend.   
 4.  Geen subsidie wordt verleend voor een project dat lager is gerangschikt dan een soortgelijk project.  
 
+### Artikel  4.2.49a  
+
+####Staatssteun
+
+De subsidie, bedoeld in artikel 4.2.44 bevat staatssteun en wordt gerechtvaardigd door de artikelen 25, 38 en 41 van de algemene groepsvrijstellingsverordening. 
+
 ### §  4.2.8  
 
 ####ZEGO
@@ -4467,12 +4289,12 @@ c. 40% van de subsidiabele kosten voor zover deze betrekking hebben op experimen
 
 d. voor een demonstratieproject: 
 
-1°. 40% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat energiebesparende maatregelen betreft en waarbij de exploitatiebaten en exploitatiekosten verrekend worden;  
+1°. 30% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat energie-efficiëntie maatregelen betreft;  
 
-2°. 20% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat energiebesparende maatregelen betreft en waarbij de exploitatiebaten en exploitatiekosten niet verrekend worden;  
+2°. 45% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat maatregelen betreft ter bevordering van energie uit hernieuwbare energiebronnen en waarbij de subsidiabele kosten worden berekend in overeenstemming met artikel 41, zesde lid, onderdeel a of b, van de algemene groepsvrijstellingsverordening;  
 
-3°. 40% van de subsidiabele kosten voor zover deze betrekking hebben op een project dat maatregelen betreft die het gebruik van hernieuwbare energiebronnen bevorderen.       
-2.  De subsidiabele kosten van een demonstratieproject worden berekend in overeenstemming met artikel 21 en 23 van de algemene groepsvrijstellingsverordening en met inachtneming van artikel 14a, tweede lid, van het besluit.   
+3°. 30% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat maatregelen betreft ter bevordering van energie uit hernieuwbare energiebronnen en waarbij de subsidiabele kosten worden berekend in overeenstemming met artikel 41, zesde lid, onderdeel c, van de algemene groepsvrijstellingsverordening.       
+2.  De subsidiabele kosten van een demonstratieproject worden berekend in overeenstemming met de artikelen 38 en 41 van de algemene groepsvrijstellingsverordening.   
 3.  De onderzoeksorganisatie of onderzoeksorganisaties draagt respectievelijk dragen bij fundamenteel onderzoek, industrieel onderzoek en experimentele ontwikkeling gezamenlijk minstens 10% van de subsidiabele projectkosten en heeft respectievelijk hebben het recht de resultaten van het project te publiceren voor zover deze afkomstig zijn van het door die organisatie respectievelijk organisaties uitgevoerde onderzoek.   
 4.  De subsidie bedraagt maximaal € 1.000.000 per ZEGO-project.  
 
@@ -4520,6 +4342,12 @@ d. de kwaliteit van het project beter is, blijkend uit de uitwerking van aanpak 
 4.  De minister rangschikt de aanvragen waarop niet afwijzend is beslist hoger naarmate in totaal meer punten aan het project zijn toegekend.   
 5.  Geen subsidie wordt verleend voor een project dat lager is gerangschikt dan een soortgelijk project.  
 
+### Artikel  4.2.56a  
+
+####Staatssteun
+
+De subsidie, bedoeld in artikel 4.2.51 bevat staatssteun en wordt gerechtvaardigd door de artikelen 25, 38 en 41 van de algemene groepsvrijstellingsverordening. 
+
 ### §  4.2.9  
 
 ####EnerGo
@@ -4553,12 +4381,12 @@ d. 100% van de subsidiabele kosten voor zover deze betrekking hebben op niet-eco
 
 e. voor een demonstratieproject: 
 
-1°. 40% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat energiebesparende maatregelen betreft en waarbij de exploitatiebaten en exploitatiekosten verrekend worden;  
+1°. 30% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat energie-efficiëntie maatregelen betreft;  
 
-2°. 20% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat energiebesparende maatregelen betreft en waarbij de exploitatiebaten en exploitatiekosten niet verrekend worden;  
+2°. 45% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat maatregelen betreft ter bevordering van energie uit hernieuwbare energiebronnen en waarbij de subsidiabele kosten worden berekend in overeenstemming met artikel 41, zesde lid, onderdeel a of b, van de algemene groepsvrijstellingsverordening;  
 
-3°. 40% van de subsidiabele kosten voor zover deze betrekking hebben op een project dat maatregelen betreft die het gebruik van hernieuwbare energiebronnen bevorderen.       
-2.  De subsidiabele kosten van een demonstratieproject worden berekend in overeenstemming met artikel 21 en 23 van de algemene groepsvrijstellingsverordening en met inachtneming van artikel 14a, tweede lid, van het besluit.   
+3°. 30% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat maatregelen betreft ter bevordering van energie uit hernieuwbare energiebronnen en waarbij de subsidiabele kosten worden berekend in overeenstemming met artikel 41, zesde lid, onderdeel c, van de algemene groepsvrijstellingsverordening.       
+2.  De subsidiabele kosten van een demonstratieproject worden berekend in overeenstemming met de artikelen 38 en 41 van de algemene groepsvrijstellingsverordening.   
 3.  De onderzoeksorganisatie draagt bij fundamenteel onderzoek, industrieel onderzoek en experimentele ontwikkeling minstens 10% van subsidiabele projectkosten en heeft het recht de resultaten van het project te publiceren voor zover deze afkomstig zijn van het door die organisatie uitgevoerde onderzoek.   
 4.  De subsidie bedraagt maximaal € 1.000.000 per EnerGO-project.  
 
@@ -4604,6 +4432,12 @@ d. de kwaliteit van het project beter is, blijkend uit de uitwerking van aanpak 
 4.  De minister rangschikt de aanvragen waarop niet afwijzend is beslist hoger naarmate in totaal meer punten aan het project zijn toegekend.   
 5.  Geen subsidie wordt verleend voor een project dat lager is gerangschikt dan een soortgelijk project.  
 
+### Artikel  4.2.63a  
+
+####Staatssteun
+
+De subsidie, bedoeld in artikel 4.2.58. bevat staatssteun en wordt gerechtvaardigd door de artikelen 25, 38 en 41 van de algemene groepsvrijstellingsverordening. 
+
 ### §  4.2.10  
 
 ####Demonstratie energie-innovatie (DEI)
@@ -4642,7 +4476,7 @@ a. voor een demonstratieproject:
 b. 50% van de subsidiabele kosten voor zover deze betrekking hebben op industrieel onderzoek;  
 
 c. 25% van de subsidiabele kosten voor zover deze betrekking hebben op experimentele ontwikkeling.     
-2.  De subsidiabele kosten van een demonstratieproject worden berekend in overeenstemming met de artikelen 38 en 41 van de algemene groepsvrijstellingsverordening en met inachtneming van artikel 14a, tweede lid, van het besluit.   
+2.  De subsidiabele kosten van een demonstratieproject worden berekend in overeenstemming met de artikelen 38 en 41 van de algemene groepsvrijstellingsverordening.   
 3.  De in het eerste lid genoemde percentages worden met 20 procentpunten verhoogd, indien de aanvrager een kleine onderneming is en de subsidiabele kosten worden gemaakt en betaald door de kleine ondernemer.   
 4.  De in het eerste lid genoemde percentages worden met 10 procentpunten verhoogd, indien de aanvrager een middelgrote onderneming is en de subsidiabele kosten worden gemaakt en betaald door de middelgrote ondernemer.   
 5.  De subsidie bedraagt minimaal € 125.000 en maximaal € 4.000.000 per DEI-project.  
@@ -4690,6 +4524,12 @@ d. de kwaliteit van het project beter is, blijkend uit de uitwerking van aanpak 
 3.  Voor de rangschikking wordt het aantal punten gegeven voor het eerste lid, onderdeel a, vermenigvuldigd met 50, het eerste lid, onderdeel b, vermenigvuldigd met 15, het eerste lid, onderdeel c, vermenigvuldigd met 15 en het eerste lid, onderdeel d, vermenigvuldigd met 20 en vervolgens opgeteld.   
 4.  De minister rangschikt de aanvragen waarop niet afwijzend is beslist hoger naarmate in totaal meer punten aan het project zijn toegekend.  
 
+### Artikel  4.2.70a  
+
+####Staatssteun
+
+De subsidie, bedoeld in artikel 4.2.65 bevat staatssteun en wordt gerechtvaardigd door de artikelen 25, 38 en 41 van de algemene groepsvrijstellingsverordening. 
+
 ### §  4.2.11  
 
 ####Systeemintegratie
@@ -4726,7 +4566,7 @@ d. voor een demonstratieproject:
 2°. 45% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat maatregelen betreft die het gebruik van hernieuwbare energiebronnen bevorderen en waarbij de subsidiabele kosten worden berekend in overeenstemming met artikel 41, zesde lid, onderdeel a of b, van de algemene groepsvrijstellingsverordening;  
 
 3°. 30% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat maatregelen betreft die het gebruik van hernieuwbare energiebronnen bevorderen en waarbij de subsidiabele kosten worden berekend in overeenstemming met artikel 41, zesde lid, onderdeel c, van de algemene groepsvrijstellingsverordening.       
-2.  De subsidiabele kosten van een demonstratieproject worden berekend in overeenstemming met de artikelen 38 en 41 van de algemene groepsvrijstellingsverordening en met inachtneming van artikel 14a, tweede lid, van het besluit.   
+2.  De subsidiabele kosten van een demonstratieproject worden berekend in overeenstemming met de artikelen 38 en 41 van de algemene groepsvrijstellingsverordening.   
 3.  De in het eerste lid, onderdelen b, c en d, genoemde percentages worden met 20 procentpunten verhoogd, indien de aanvrager een kleine onderneming is en de subsidiabele kosten worden gemaakt en betaald door de kleine onderneming.   
 4.  De in het eerste lid, onderdelen b, c en d, genoemde percentages worden met 10 procentpunten verhoogd indien de aanvrager een middelgrote onderneming is en de subsidiabele kosten worden gemaakt en betaald door de middelgrote ondernemer.   
 5.  Onverminderd het derde en vierde lid, wordt het in het eerste lid, onderdeel c, bedoelde percentage voor MKB-ondernemingen met 10 procentpunten verhoogd indien: 
@@ -4782,6 +4622,12 @@ d. de kwaliteit van het project beter is, blijkend uit de uitwerking van aanpak 
 2.  De minister kent per onderdeel van het eerste lid ten minste één en ten hoogste vijf punten toe.   
 3.  Voor de rangschikking wordt het aantal punten gegeven voor het eerste lid, onderdeel a, vermenigvuldigd met 2.   
 4.  De minister rangschikt de aanvragen waarop niet afwijzend is beslist hoger naarmate in totaal meer punten aan het project zijn toegekend.  
+
+### Artikel  4.2.77a  
+
+####Staatssteun
+
+De subsidie, bedoeld in artikel 4.2.72 bevat staatssteun en wordt gerechtvaardigd door de artikelen 25, 38 en 41 van de algemene groepsvrijstellingsverordening. 
 
 ### §  4.2.12  
 
@@ -4859,6 +4705,12 @@ c. het project vernieuwender is ten opzichte van de internationale stand van ond
 d. de kwaliteit van het project beter is, blijkend uit de uitwerking van aanpak en methodiek, de omgang met risico’s, de uitvoerbaarheid, de deelnemende partijen en het plan voor de kennisverspreiding.     
 2.  De minister kent per onderdeel van het eerste lid ten minste één en ten hoogste vijf punten toe.   
 3.  De minister rangschikt de aanvragen waarop niet afwijzend is beslist hoger naarmate in totaal meer punten aan het project zijn toegekend.  
+
+### Artikel  4.2.84a  
+
+####Staatssteun
+
+De subsidie, bedoeld in artikel 4.2.79 bevat staatssteun en wordt gerechtvaardigd door artikel 25 van de algemene groepsvrijstellingsverordening. 
 
 ### §  4.2.13  
 
@@ -4943,6 +4795,12 @@ d. de projectopzet kosteneffectiever is en het aandeel van de financiering door 
 3.  De minister kent per project 0,5 extra punten toe indien het valt in de programmalijnen 1 (Ondersteuningsconstructies) of 5 (Beheer en onderhoud) en één extra punt indien het valt in programmalijn 4 (Transport, installatie en logistiek).   
 4.  De minister rangschikt de aanvragen waarop niet afwijzend is beslist hoger naarmate in totaal meer punten aan het project zijn toegekend.  
 
+### Artikel  4.2.91a  
+
+####Staatssteun
+
+De subsidie, bedoeld in artikel 4.2.86 bevat staatssteun en wordt gerechtvaardigd door artikel 25 van de algemene groepsvrijstellingsverordening. 
+
 ### §  4.2.14  
 
 ####EnerGO: compacte conversie en opslag
@@ -4982,7 +4840,7 @@ e. voor een demonstratieproject:
 
 3°. 30% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat maatregelen betreft die het gebruik van hernieuwbare energiebronnen bevorderen en waarbij de subsidiabele kosten worden berekend in overeenstemming met artikel 41, zesde lid, onderdeel c, van de algemene groepsvrijstellingsverordening.       
 2.  De in het eerste lid, onderdelen b, c en e, genoemde percentages worden met 10 procentpunten verhoogd, indien de aanvrager een MKB-onderneming is en de subsidiabele kosten worden gemaakt en betaald door de MKB-onderneming.   
-3.  De subsidiabele kosten van een demonstratieproject worden berekend in overeenstemming met de artikelen 38 en 41 van de algemene groepsvrijstellingsverordening en met inachtneming van artikel 14a, tweede lid, van het besluit.   
+3.  De subsidiabele kosten van een demonstratieproject worden berekend in overeenstemming met de artikelen 38 en 41 van de algemene groepsvrijstellingsverordening.   
 4.  De onderzoeksorganisatie of onderzoeksorganisaties draagt respectievelijk dragen bij fundamenteel onderzoek, industrieel onderzoek en experimentele ontwikkeling gezamenlijk minstens 10% van de subsidiabele projectkosten en heeft respectievelijk hebben het recht de resultaten van het project te publiceren voor zover deze afkomstig zijn van het door die organisatie respectievelijk organisaties uitgevoerde onderzoek.   
 5.  De subsidie bedraagt maximaal € 3.100.000 per EnerGO CCO-project.  
 
@@ -5030,6 +4888,12 @@ e. het project meer kenmerken bevat van de programmatische aanpak zoals beschrev
 2.  De minister kent per onderdeel van het eerste lid ten minste één en ten hoogste vijf punten toe.   
 3.  De minister rangschikt de aanvragen waarop niet afwijzend is beslist hoger naarmate in totaal meer punten aan het project zijn toegekend.  
 
+### Artikel  4.2.98a  
+
+####Staatssteun
+
+De subsidie, bedoeld in artikel 4.2.93 bevat staatssteun en wordt gerechtvaardigd door de artikelen 25, 38 en 41 van de algemene groepsvrijstellingsverordening. 
+
 ### §  4.2.15  
 
 ####Smart grids
@@ -5066,7 +4930,7 @@ d. voor een demonstratieproject:
 2°. 45% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat maatregelen betreft die het gebruik van hernieuwbare energiebronnen bevorderen en waarbij de subsidiabele kosten worden berekend in overeenstemming met artikel 41, zesde lid, onderdeel a of b, van de algemene groepsvrijstellingsverordening;  
 
 3°. 30% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat maatregelen betreft die het gebruik van hernieuwbare energiebronnen bevorderen en waarbij de subsidiabele kosten worden berekend in overeenstemming met artikel 41, zesde lid, onderdeel c, van de algemene groepsvrijstellingsverordening;       
-2.  De subsidiabele kosten van een demonstratieproject worden berekend in overeenstemming met de artikelen 38 en 41 van de algemene groepsvrijstellingsverordening en met inachtneming van artikel 14a, tweede lid, van het besluit.   
+2.  De subsidiabele kosten van een demonstratieproject worden berekend in overeenstemming met de artikelen 38 en 41 van de algemene groepsvrijstellingsverordening.   
 3.  De in het eerste lid, onderdelen b tot en met d, genoemde percentages, worden verhoogd met 10 procentpunten, indien de aanvrager een MKB-ondernemer is en de subsidiabele kosten worden gemaakt en betaald door de MKB-ondernemer.   
 4.  De subsidie bedraagt maximaal € 1.000.000 per smart-grids-project.  
 
@@ -5114,6 +4978,12 @@ e. de aanvrager verhoudingsgewijs minder subsidie vraagt dan op basis van de reg
 2.  De minister kent per onderdeel van het eerste lid ten minste één en ten hoogste 10 punten toe.   
 3.  Voor de rangschikking wordt het aantal punten gegeven voor het eerste lid, onderdelen a en b, elk vermenigvuldigd met 2,5, het eerste lid, onderdelen c en d, elk vermenigvuldigd met twee en vervolgens opgeteld.   
 4.  De minister rangschikt de aanvragen waarop niet afwijzend is beslist hoger naarmate in totaal meer punten aan het project zijn toegekend.  
+
+### Artikel  4.2.105a  
+
+####Staatssteun
+
+De subsidie, bedoeld in artikel 4.2.100 bevat staatssteun en wordt gerechtvaardigd door de artikelen 25, 38 en 41 van de algemene groepsvrijstellingsverordening. 
 
 ### §  4.2.16  
 
@@ -5174,6 +5044,12 @@ e. in onvoldoende mate is voorzien in een kwalitatief goede kennisverspreiding;
 
 f. eerder op grond van deze titel een subsidie is verstrekt voor een soortgelijk project.   
 
+### Artikel  4.2.111a  
+
+####Staatssteun
+
+De subsidie, bedoeld in artikel 4.2.107 bevat staatssteun en wordt gerechtvaardigd door artikel 25 van de algemene groepsvrijstellingsverordening. 
+
 ### §  4.2.17  
 
 ####Energiebesparing industrie: pilotprojecten
@@ -5199,12 +5075,8 @@ In deze paragraaf wordt verstaan onder pilotproject energiebesparing industrie: 
 
 a. 25% van de subsidiabele kosten voor zover deze betrekking hebben op experimentele ontwikkeling;  
 
-b. voor demonstratieactiviteiten: 
-
-– 40% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat energiebesparende maatregelen betreft en waarbij de exploitatiebaten en exploitatiekosten verrekend worden;  
-
-– 20% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat energiebesparende maatregelen betreft en waarbij de exploitatiebaten en exploitatiekosten niet verrekend worden.       
-2.  De subsidiabele kosten van demonstratieactiviteiten worden berekend in overeenstemming met artikel 21 van de algemene groepsvrijstellingsverordening en met inachtneming van artikel 14a, tweede lid, van het besluit.   
+b. 30% van de subsidiabele kosten voor zover deze betrekking hebben op demonstratieactiviteiten.     
+2.  De subsidiabele kosten van demonstratieactiviteiten worden berekend in overeenstemming met artikel 38 van de algemene groepsvrijstellingsverordening.   
 3.  De in het eerste lid genoemde percentages worden met 20 procentpunten verhoogd indien de aanvrager een kleine onderneming is en de subsidiabele kosten worden gemaakt en betaald door de kleine ondernemer.   
 4.  De in het eerste lid genoemde percentages worden met 10 procentpunten verhoogd indien de aanvrager een middelgrote onderneming is en de subsidiabele kosten worden gemaakt en betaald door de middelgrote ondernemer.   
 5.  Onverminderd het derde en vierde lid, wordt het in het eerste lid, onderdeel a, bedoelde percentage voor ondernemingen met 10 procentpunten verhoogd indien: 
@@ -5256,6 +5128,12 @@ d. de kwaliteit van het project beter is, blijkend uit de uitwerking van aanpak 
 2.  De minister kent per onderdeel van het eerste lid ten minste één en ten hoogste vijf punten toe.   
 3.  De minister rangschikt de aanvragen waarop niet afwijzend is beslist hoger naarmate in totaal meer punten aan het project zijn toegekend.  
 
+### Artikel  4.2.118a  
+
+####Staatssteun
+
+De subsidie, bedoeld in artikel 4.2.113 bevat staatssteun en wordt gerechtvaardigd door de artikelen 25 en 38 van de algemene groepsvrijstellingsverordening. 
+
 ### §  4.2.18  
 
 ####PV-technologie
@@ -5285,10 +5163,14 @@ b. 60% van de subsidiabele kosten voor zover deze betrekking hebben op industrie
 
 c. 40% van de subsidiabele kosten voor zover deze betrekking hebben op experimentele ontwikkeling;  
 
-d. 40% van de subsidiabele kosten voor zover deze betrekking hebben op een demonstratieproject dat maatregelen betreft die het gebruik van hernieuwbare energiebronnen bevorderen;  
+d. voor een demonstratieproject: 
+
+1°. 45% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat maatregelen betreft ter bevordering van energie uit hernieuwbare energiebronnen en waarbij de subsidiabele kosten worden berekend in overeenstemming met artikel 41, zesde lid, onderdeel a of b, van de algemene groepsvrijstellingsverordening;  
+
+2°. 30% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat maatregelen betreft ter bevordering van energie uit hernieuwbare energiebronnen en waarbij de subsidiabele kosten worden berekend in overeenstemming met artikel 41, zesde lid, onderdeel c, van de algemene groepsvrijstellingsverordening;    
 
 e. 100% van de subsidiabele kosten voor zover deze betrekking hebben op niet-economische activiteiten van onderzoeksorganisaties.     
-2.  De subsidiabele kosten van een demonstratieproject worden berekend in overeenstemming met artikel 23 van de algemene groepsvrijstellingsverordening en met inachtneming van artikel 14a, tweede lid, van het besluit.   
+2.  De subsidiabele kosten van een demonstratieproject worden berekend in overeenstemming met artikel 41 van de algemene groepsvrijstellingsverordening.   
 3.  De onderzoeksorganisatie of onderzoeksorganisaties draagt respectievelijk dragen bij fundamenteel onderzoek, industrieel onderzoek en experimentele ontwikkeling gezamenlijk minstens 10% van de subsidiabele projectkosten en heeft respectievelijk hebben het recht de resultaten van het project te publiceren voor zover deze afkomstig zijn van het door die organisatie respectievelijk organisaties uitgevoerde onderzoek.   
 4.  De subsidie bedraagt maximaal € 750.000 per PV-project.  
 
@@ -5334,6 +5216,12 @@ d. de kwaliteit van het project beter is, blijkend uit de uitwerking van aanpak 
 2.  De minister kent per onderdeel van het eerste lid ten minste één en ten hoogste 10 punten toe.   
 3.  Voor de rangschikking wordt het aantal punten gegeven voor eerste lid, onderdeel a, vermenigvuldigd met 15, het eerste lid, onderdeel b, vermenigvuldigd met 30, het eerste lid, onderdeel c, vermenigvuldigd met 30 en het eerste lid, onderdeel d, vermenigvuldigd met 25 en vervolgens opgeteld.   
 4.  De minister rangschikt de aanvragen waarop niet afwijzend is beslist hoger naarmate in totaal meer punten aan het project zijn toegekend.  
+
+### Artikel  4.2.125a  
+
+####Staatssteun
+
+De subsidie, bedoeld in artikel 4.2.120 bevat staatssteun en wordt gerechtvaardigd door de artikelen 25 en 41 van de algemene groepsvrijstellingsverordening. 
 
 ### Titel  4.3  
 
@@ -5663,14 +5551,15 @@ De artikelen 45 tot en met 47 van het besluit zijn niet van toepassing.
 
 ####Informatieverplichtingen
 
-1.  Een aanvraag om subsidie op grond van artikel 4.3.2, bevat in ieder geval: 
+1.  Een aanvraag om subsidie op grond van artikel 4.2.3 bevat ten minste de gegevens, bedoeld in artikel 6, tweede lid, van de algemene groepsvrijstellingsverordening.  
+2.  Onverminderd het eerste lid bevat een aanvraag om subsidie op grond van artikel 4.2.3 ten minste: 
 
 a. gegevens over de aanvrager, waaronder de naam van de organisatie, het KvK-nummer, het post- en bezoekadres en het rekeningnummer;  
 
 b. gegevens over de contactpersoon bij de aanvrager, waaronder de naam, het telefoonnummer en het e-mailadres;  
 
 c. kerngegevens over het project.     
-2.  De aanvraag voor de vaststelling van een subsidie die krachtens deze titel is verleend bevat in ieder geval: 
+3.  De aanvraag voor de vaststelling van een subsidie die krachtens deze titel is verleend bevat in ieder geval: 
 
 a. gegevens over de aanvrager, waaronder de naam van de aanvrager en het door de minister verstrekte referentienummer;  
 
@@ -5680,7 +5569,7 @@ c. de kerngegevens voor de onderbouwing van de subsidievaststelling.
 
 ### Artikel  4.3.17  
 
-De subsidie, bedoeld in artikel 4.3.2, bevat staatssteun en wordt gerechtvaardigd door de Algemene Groepsvrijstellingsverordening (Verordening (EU) Nr. 651/2014). 
+De subsidie, bedoeld in artikel 4.3.2, bevat staatssteun en wordt gerechtvaardigd door artikel 41 van de algemene groepsvrijstellingsverordening. 
 
 ### Artikel  4.3.18  
 
@@ -5866,7 +5755,7 @@ b. 50 procent van de subsidiabele kosten voor zover deze betrekking hebben op in
 c. 25 procent van de subsidiabele kosten voor zover deze betrekking hebben op experimentele ontwikkeling.     
 3.  Indien de subsidiabele kosten betrekking hebben op een combinatie van fundamenteel onderzoek, industrieel onderzoek en experimentele ontwikkeling, bedraagt de subsidie het gewogen gemiddelde van de in het tweede lid genoemde percentages van de desbetreffende subsidiabele kosten.   
 4.  De in het eerste en tweede lid genoemde percentages worden, met uitzondering van het percentage genoemd in het tweede lid, onder a, met 10 procentpunten verhoogd, voor zover de aanvrager een MKB-ondernemer is en de subsidiabele kosten worden gemaakt en betaald door de MKB-ondernemer.   
-5.  De subsidiabele kosten van een demonstratieproject worden berekend in overeenstemming met artikel 23 van de algemene groepsvrijstellingsverordening en met inachtneming van artikel 14a, tweede lid, van het besluit.  
+5.  De subsidiabele kosten van een demonstratieproject worden berekend in overeenstemming met artikel 41 van de algemene groepsvrijstellingsverordening en met inachtneming van artikel 14a, tweede lid, van het besluit.  
 
 ### Artikel  4.5.4  
 
@@ -5942,14 +5831,15 @@ d. de projectopzet kosteneffectiever is en voor het project minder subsidie word
 
 ####Informatieverplichtingen
 
-1.  Een aanvraag om subsidie op grond van artikel 4.5.2, bevat in ieder geval: 
+1.  Een aanvraag om subsidie op grond van artikel 4.5.2 bevat ten minste de gegevens, bedoeld in artikel 6, tweede lid, van de algemene groepsvrijstellingsverordening.  
+2.  Onverminderd het eerste lid bevat een aanvraag om subsidie op grond van artikel 4.5.2 ten minste: 
 
 a. gegevens over de aanvrager, waaronder de naam van de organisatie, het KvK-nummer, het post- en bezoekadres en het rekeningnummer;  
 
 b. gegevens over de contactpersoon bij de aanvrager, waaronder de naam, het telefoonnummer en het e-mailadres;  
 
 c. kerngegevens over het project.     
-2.  De aanvraag voor de vaststelling van een subsidie die krachtens deze titel is verleend bevat in ieder geval: 
+3.  De aanvraag voor de vaststelling van een subsidie die krachtens deze titel is verleend bevat in ieder geval: 
 
 a. gegevens over de aanvrager, waaronder de naam van de aanvrager en het door de minister verstrekte referentienummer;  
 
@@ -5961,7 +5851,7 @@ c. de kerngegevens voor de onderbouwing van de subsidievaststelling.
 
 ####Staatssteun
 
-De subsidie, bedoeld in artikel 4.5.2, bevat staatssteun en wordt gerechtvaardigd door de algemene groepsvrijstellingverordening. 
+De subsidie, bedoeld in artikel 4.5.2, bevat staatssteun en wordt gerechtvaardigd door de artikelen 25 en 41 van de algemene groepsvrijstellingsverordening. 
 
 ### Artikel  4.5.14  
 
@@ -6033,14 +5923,15 @@ b. het projectplan voor de wind op zee-haalbaarheidsstudie onvoldoende inzicht g
 
 ####Informatieverplichtingen
 
-1.  Een aanvraag om subsidie op grond van artikel 4.6.2, bevat in ieder geval: 
+1.  Een aanvraag om subsidie op grond van artikel 4.6.2 bevat ten minste de gegevens, bedoeld in artikel 6, tweede lid, van de algemene groepsvrijstellingsverordening.  
+2.  Onverminderd het eerste lid bevat een aanvraag om subsidie op grond van artikel 4.6.2 ten minste: 
 
 a. gegevens over de aanvrager, waaronder de naam van de organisatie, het KvK-nummer, het post- en bezoekadres en het rekeningnummer;  
 
 b. gegevens over de contactpersoon bij de aanvrager, waaronder de naam, het telefoonnummer en het e-mailadres;  
 
 c. kerngegevens over het project.     
-2.  De aanvraag voor de vaststelling van een subsidie die krachtens deze titel is verleend bevat in ieder geval: 
+3.  De aanvraag voor de vaststelling van een subsidie die krachtens deze titel is verleend bevat in ieder geval: 
 
 a. gegevens over de aanvrager, waaronder de naam van de aanvrager en het door de minister verstrekte referentienummer;  
 
@@ -6052,11 +5943,7 @@ c. de kerngegevens voor de onderbouwing van de subsidievaststelling.
 
 ####Staatssteun
 
-De subsidie, bedoeld in artikel 4.6.2, bevat staatssteun en wordt gerechtvaardigd door: 
-
-a. de algemene groepsvrijstellingverordening;  
-
-b. Steunmaatregel N222/2004, gewijzigd onder nummer N246/2005 en N861/2006.   
+De subsidie, bedoeld in artikel 4.6.2, bevat staatssteun en wordt gerechtvaardigd door artikel 25 van de algemene groepsvrijstellingsverordening. 
 
 ### Artikel  4.6.11  
 
@@ -6083,7 +5970,8 @@ Wijzigt de Regeling LNV-subsidies.
 
 ### Artikel  5.3  
 
-Op aanvragen om subsidie die vóór de inwerkingtreding van deze regeling zijn ingediend, op subsidies die vóór de inwerkingtreding van deze regeling zijn verleend en op subsidies die vóór de inwerkingtreding van deze regeling zijn vastgesteld blijft het recht van toepassing zoals dat luidde onmiddellijk vóór dat tijdstip. 
+1. Op aanvragen om subsidie die vóór de inwerkingtreding van deze regeling zijn ingediend, op subsidies die vóór de inwerkingtreding van deze regeling zijn verleend en op subsidies die vóór de inwerkingtreding van deze regeling zijn vastgesteld blijft het recht van toepassing zoals dat luidde onmiddellijk vóór dat tijdstip.  
+2.  Op subsidies die vóór 1 januari 2015 zijn verleend en op subsidies die vóór 1 januari 2015 zijn vastgesteld blijft het recht van toepassing zoals dat luidde vóór dat tijdstip. 
 
 ### Artikel  5.4  
 
@@ -6164,52 +6052,50 @@ Het rapport van feitelijke bevindingen wordt opgesteld overeenkomstig de Nadere 
 
 ####, behorende bij artikel 1.3  van de Regeling nationale EZ-subsidies
 
-####Steunintensiteit
+Steunintensiteit 
 
-|--- |--- | Kleine onderneming  | Middelgrote onderneming  | Grote onderneming en onderzoeksorganisaties voor zover het betreft economische activiteiten  |
+| Steuncategorie  | Subcategorie  |--- |--- |--- |
 |:---|:---|:---|:---|:---|
-|  *Onderzoek & Ontwikkeling*   |
-| Fundamenteel onderzoek  | --- | 75  | 75  | 75  |
-| Industrieel onderzoek  | Basis  | 70 (80)<sup>1</sup>   | 60 (70)  | 50 (60)  |
-| --- | – samenwerking tussen ondernemingen voor grote ondernemingen: samenwerking grensoverschrijdend of met ten minste één kleine of middelgrote onderneming  of  – samenwerking van een onderneming met een onderzoeksorganisatie  of  – verspreiding van resultaten  | 80 (80)  | 75 (80)  | 65 (75)  |
-| Experimentele ontwikkeling  | Basis  | 45 (60)  | 35 (50)  | 25 (40)  |
-| --- | – samenwerking tussen ondernemingen voor grote ondernemingen: samenwerking grensoverschrijdend of met ten minste één kleine of middelgrote onderneming  of  – samenwerking van een onderneming met een onderzoeksorganisatie  | 60 (75)  | 50 (65)  | 40 (55)  |
-| Technische haalbaarheidstudie  | voor technische haalbaarheidstudies ter voorbereiding van activiteiten op het gebied van industrieel onderzoek  | 75  | 75  | 65  |
-| --- | --- | Voor studies ter voorbereiding van activiteiten op het gebied van experimentele ontwikkeling  | 50  | 50  |
-|  *Innovatie*   |
-| Innovatieve starters die minder dan 6 jaar bestaan op tijdstip van subsidieverlening.   *NB mag cumuleren*   | Max. 1 miljoen euro  | –  | –  |
-| proces- en organisatie-innovatie op het gebied van diensten  | Basis  | 35  | 25  | –  |
-| --- | --- | Bij samenwerking met kleine of middelgrote ondernemingen en een minimum van 30% van de kosten ten laste omen van de kleine of middelgrote ondernemingen  | –  | –  |
-| Opzetten, uitbreiden en aansturen van Innovatieclusters t.b.v. de rechtspersoon die het cluster exploiteert  | Investeringssteun:  – opleidingsfaciliteiten en onderzoekcentra;  – open access-onderzoeksinfrastructuur: laboratoria, testfaciliteiten;  – breedbandnetwerk-infrastructuur.  | 35  | 25  | 15  |
-| --- | Exploitatiesteun:  – Aansturen clusters  | Over 5 jaar:  – 50; of  – lineair aflopend van 100 naar 0.  |
-|  *MKB*   |
-| Steun voor investeringen in materiële en immateriële activa.  | 20  | 10  | –  |
-| Advies- en andere diensten en werkzaamheden:  – diensten van externe adviseurs (niet regulier)  – Deelneming vakbeurzen en tentoonstellingen  | 50  | 50  | –  |
-| Verkrijging en validering industriële eigendomsrechten  | Hetzelfde steunpeil als zou gelden ten aanzien van O&O-steun voor de onderzoeksactiviteiten die in de eerste plaats in de betrokken industriële eigendomsrechten hebben geresulteerd.  | –  |
-| innovatieadviesdiensten en voor diensten inzake innovatieondersteuning  | Basis  | 75 met een maximum van 200.000,– per subsidie-ontvanger over een periode van 3 jaar.  | –  |
-| Uitlenen hooggekwalificeerd personeel  | 50  | 50  | –  |
-|  *Opleiding*   |
-| Algemene opleiding  | 70 [80]<sup>2</sup>   | 70 [80]  | 50 [60]  |
-| Specifieke opleiding  | 35 [45]  | 35 [45]  | 25 [35]  |
-|  *Scheepsbouwsteun*   |
-| Steun voor scheepsbouwinnovatie  | 20  | 20  | 20  |
-
-<sup>1</sup>De tussen haken opgenomen getallen zijn van toepassing bij krediet met rente en opslag.<sup>2</sup>De tussen haken opgenomen getallen zijn van toepassing op een opleiding voor kwetsbare of gehandicapte werknemers als bedoeld in deel 9 van de algemene groepsvrijstellingsverordening. 
-
-| Investeringssteun als onderdeel van de in aanmerking komende subsidiabele kosten (artikel 14a van het Kaderbesluit EZ-subsidies)  |--- | Kleine onderneming  | Middelgrote onderneming  | Grote onderneming  |
-|:---|:---|:---|:---|:---|
-| Steun voor ondernemingen die verder gaan dan communautaire normen of die, bij ontstentenis van communautaire normen, de milieubescherming doen toenemen  | 70%  80% in het geval van eco-innovatie  100% in het geval van een inschrijvingsprocedure  | 60%  70% in het geval van eco-innovatie  100% in het geval van een inschrijvingsprocedure  | 50%  60% in het geval van eco-innovatie  100% in het geval van een inschrijvingsprocedure  |
-| Steun voor milieustudies  | 70%  | 60%  | 50%  |
-| Steun voor vroege aanpassing aan toekomstige communautaire normen  | --- | --- | --- |
-| – meer dan 3 jaar  | 25%  | 20%  | 15%  |
-| – tussen 1 en 3 jaar  | 20%  | 15%  | 10%  |
-| voor de inwerkingtreding  | --- | --- | --- |
-| Steun voor afvalbeheer  | 70%  | 60%  | 50%  |
-| Steun voor hernieuwbare energiebronnen  | 80%  100% in het geval van een inschrijvingsprocedure  | 70%  100% in het geval van een inschrijvingsprocedure  | 60%  100% in het geval van een inschrijvingsprocedure  |
-| Steun voor energiebesparing  Steun voor warmtekrachtkoppeling-installaties  | 80%  100% in het geval van een inschrijvingsprocedure  | 70%  100% in het geval van een inschrijvingsprocedure  | 60%  100% in het geval van een inschrijvingsprocedure  |
-| Steun voor stadsverwarming met conventionele energiebronnen  | 70%  100% in het geval van een inschrijvingsprocedure  | 60%  100% in het geval van een inschrijvingsprocedure  | 50%  100% in het geval van een inschrijvingsprocedure  |
-| Steun voor de sanering van verontreinigde locaties  | 100%  | 100%  | 100%  |
-| Steun voor verhuizing van ondernemingen  | 70%  | 60%  | 50%  |
+|  *1. Onderzoek & Ontwikkeling*   | --- |  *Kleine onderneming*   |  *Middelgrote onderneming*   |  *Grote onderneming en onderzoeksorganisaties voor zover het betreft economische activiteiten*   |
+| --- | --- | --- | --- | --- |
+| Fundamenteel onderzoek als bedoeld in artikel 25 van de algemene groepsvrijstellingsverordening (AGVV)  | --- | 75%  | 75%  | 75%  |
+| Industrieel onderzoek als bedoeld in artikel 25 van de AGVV  | Basis  | 70%  | 60%  | 50%  |
+| – indien het project daadwerkelijke samenwerking behelst als bedoeld in artikel 25, zesde lid, onderdeel b), onder i), van de AGVV of  – indien de projectresultaten ruim worden verspreid via conferenties, publicaties, open access-repositories, of gratis of opensource-software als bedoeld in artikel 25, zesde lid, onderdeel b), onder ii), van de AGVV  | 80%  | 75%  | 65%  |
+| Experimentele ontwikkeling als bedoeld in artikel 25 van de AGVV  | Basis  | 45%  | 35%  | 25%  |
+| – indien het project daadwerkelijke samenwerking behelst als bedoeld in artikel 25, zesde lid, onderdeel b), onder i), van de AGVV of  – indien de projectresultaten ruim worden verspreid via conferenties, publicaties, open access-repositories, of gratis of opensource-software als bedoeld in artikel 25, zesde lid, onderdeel b), onder ii), van de AGVV  | 60%  | 50%  | 40%  |
+| Haalbaarheidsstudies als bedoeld in artikel 25 AGVV  | --- | 70%  | 60%  | 50%  |
+| --- | --- | --- | --- | --- |
+|  *2. Innovatie*   | --- |  *Kleine onderneming*   |  *Middelgrote onderneming*   |  *Grote onderneming*   |
+| --- | --- | --- | --- | --- |
+| Steun voor proces- en organisatie-innovatie als bedoeld in artikel 29 van de AGVV  | Basis  | 50%  | 50%  | 0%  |
+| Indien er sprake is van samenwerking van een grote onderneming met kleine of middelgrote ondernemingen en een minimum van 30% van de kosten ten laste komen van de kleine of middelgrote onderneming  | 50%  | 50%  | 15%  |
+| Inovatieclusters als bedoeld in artikel 26 van de AGVV  | --- | 50%  | 50%  | 50%  |
+| --- | --- | --- | --- | --- |
+|  *3. MKB*   | --- |  *Kleine onderneming*   |  *Middelgrote onderneming*   | --- |
+| --- | --- | --- | --- | --- |
+| Investeringssteun als bedoeld in artikel 17 van de AGVV  | --- | 20%  | 10%  | --- |
+| Consultancysteun als bedoeld in artikel 18 van de AGVV  | --- | 50%  | 50%  | --- |
+| Steun ten behoeve van deelneming aan beurzen als bedoeld in artikel 19 van de AGVV  | --- | 50%  | 50%  | --- |
+| Innovatiesteun als bedoeld in artikel 28 van de AGVV  | Basis  | 50%  | 50%  | --- |
+| Indien het totale bedrag van de steun voor innovatieadviesdiensten en diensten inzake innovatieondersteuning ten hoogste 200.000 EUR bedraagt per onderneming over een periode van drie jaar.  | 100%  | 100%  | --- |
+| --- | --- | --- | --- | --- |
+|  *4. Opleidingssteun als bedoeld in artikel 31 AGVV*   | --- |  *Kleine onderneming*   |  *Middelgrote onderneming*   |  *Grote onderneming*   |
+| --- | --- | --- | --- | --- |
+| --- | Basis  | 70%  | 60%  | 50%  |
+| --- | Indien er sprake is van een opleiding voor werknemers met een handicap of voor kwetsbare werknemers  | 70%  | 70%  | 60%  |
+| --- | --- | --- | --- | --- |
+|  *5. Milieu en energie*   | --- |  *Kleine onderneming*   |  *Middelgrote onderneming*   |  *Grote onderneming*   |
+| --- | --- | --- | --- | --- |
+| Investeringssteun om ondernemingen in staat te stellen verder te gaan dan Unienormen inzake milieubescherming of om, bij ontstentenis van Unienormen, het niveau van milieubescherming te verhogen als bedoeld in artikel 36 van de AGVV  | --- | 60%  | 50%  | 40%  |
+| Steun ten behoeve van milieustudies als bedoeld in artikel 49 van de AGVV  | --- | 70%  | 60%  | 50%  |
+| Investeringssteun ten behoeve van vroege aanpassing aan toekomstige Unienormen als bedoeld in artikel 37 van de AGVV  | – indien de investering meer dan 3 jaar vóór de datum van inwerkingtreding van de nieuwe Unienorm ten uitvoer wordt gelegd en is voltooid  | 20%  | 15%  | 10%  |
+| – indien de investering tussen 1 en 3 jaar vóór de datum van inwerkingtreding van de nieuwe Unienorm ten uitvoer wordt gelegd en is voltooid  | 15%  | 10%  | 5%  |
+| Investeringssteun ten behoeve van recycling en hergebruik van afval als bedoeld in artikel 47 van de AGVV  | --- | 55%  | 45%  | 35%  |
+| Investeringssteun ter bevordering van energie uit hernieuwbare energiebronnen als bedoeld in artikel 41 van de AGVV  | indien de kosten van investeringen in de productie van energie uit hernieuwbare energiebronnen binnen de totale investeringskosten als een afzonderlijke investering wordt vastgesteld als bedoeld in artikel 41, zesde lid, onder a, van de AGVV  | 65%  | 55%  | 45%  |
+| Indien de kosten worden berekend op grond van het verschil tussen de kosten van investeringen in de productie van energie uit hernieuwbare energiebronnen ten opzichte van een vergelijkbare, minder milieuvriendelijke investering die zonder de steun op geloofwaardige wijze zou zijn verricht als bedoeld in artikel 41, zesde lid, onder b, van de AGVV  | 65%  | 55%  | 45%  |
+| Indien de totale investeringskosten die nodig zijn om een hoger niveau aan milieubescherming te bereiken, de in aanmerking komende kosten zijn als bedoeld in artikel 41, zesde lid, onder c, van de AGVV  | 50%  | 40%  | 30%  |
+| Investeringssteun ten behoeve van hoogrenderende warmtekrachtkoppeling als bedoeld in artikel 40 van de AGVV  | --- | 65%  | 55%  | 45%  |
+| Investeringssteun voor de sanering van verontreinigde terreinen als bedoeld in artikel 45 van de AGVV  | --- | 100%  | 100%  | 100%  |
 
 ### Bijlage 1.3 
 
@@ -6691,149 +6577,6 @@ Deze overeenkomst treedt in werking door de ondertekening daarvan door de partij
 
 2. ...   Deze overeenkomst is getekend op xx december 2014 te Den Haag 
 
-### Bijlage 3.6.1 
-
-####, behorende bij de artikelen 3.6.2, eerste lid , en 3.6.3, eerste lid, onderdeel a , van de Regeling nationale EZ-subsidies
-
-####Gemeenten en delen van gemeenten en steunintensiteiten volgens de regionale steunkaart
-
-Provincie Groningen 
-
-| --- | --- |
-|:---|:---|
-| Oost-Groningen  |  *15%*   |
-|  *Menterwolde* (Zuidbroek, Uiterburen, Heiligelaan, Westeind, W.A. Schottenweg, Verspreide huizen Zuidbroek, Muntendam met Oude Verlaat, Tussenklappen, Tripscompagnie, Borgercompagnie (gedeeltelijk), Verspreide huizen Muntendam)  |
-|  *Scheemda* (Eexta-Zuid, Heiligerlee, Scheemdermeer)  |
-|  *Stadskanaal* (Industriegebied, Dideldom)  |
-| Veendam  |
-|  *Vlagtwedde* (Ter Apelkanaal, Verspreide huizen Ter Apel en Ter Apelkanaal, Jipsingboermussel en Zandberg)  |
-|  *Winschoten*   |
-| Delfzijl en omgeving  |  *10%*   |
-|  *Appingedam*   |
-|  *Delfzijl* (Delfzijl-Centrum, Farmsum, Delfzijl-Noord, Delfzijl-West, Fivelzigt, Tuikwerd, Meedhuizen, Uitwierde, Verspreide huizen Eemskanaal (ten zuiden), Industrieterrein, Verspreide huizen in het Noorden)  |
-| Overig Groningen  |  *10%*   |
-|  *Eemsmond* (Eemshavengebied)  |
-|  *Groningen*   |
-|  *Hoogezand-Sappemeer*   |
-|  *Leek* (Diepswal, Centrum Leek en omgeving, Rodenburg en omgeving, Nienoordsrand, Buitengebied ten oosten van Leek, Buitengebied ten zuiden van Leek, Bebouwde kom Tolbert, Sintmaheerdt, Buitengebied Tolbert, Bebouwde kom Midwolde, Pasop, Buitengebied Midwolde)  |
-|  *Slochteren* (Rengerslaan, Verspreide huizen ten zuiden van Kolham, Borgweg gedeeltelijk))  |
-
-Provincie Friesland 
-
-| --- | --- |
-|:---|:---|
-| Noord-Friesland  |  *10%*   |
-|  *Franekeradeel* (Franeker Binnenstad, Professorenbuurt, Oostelijk en zuidelijk industrieterrein, Vliet, Tuinen westelijke industrieweg, Kaatsersbuurt en Sexbierumerplan, C. van Saarloosstraat en omgeving, Noordelijk Burg. J. Dijkstraweg, Plan Arkens, Watertoren, Bloementerp en Zevenhuizen, Verspreide huizen Franeker)  |
-|  *Harlingen*   |
-|  *Leeuwarden*   |
-| Zuidwest-Friesland  |  *15%*   |
-|  *Sneek*   |
-| Zuidoost-Friesland  |  *15%*   |
-|  *Heerenveen* (Kanaal, Leeuwarderstraatweg, Businesspark Friesland, Nijehaske, Noord, Mobilisatieweg, Centrum, Het Meer, de Greiden, Midden, de Heide, de Akkers, ten Woude, Nieuweschoot, Zuid)  |
-|  *Opsterland* (Gorredijk, Ureterp, Verspreide huizen Ureterp)  |
-|  *Skarsterlân* (Jonkersland, Blaauwhof, Centrum, Westermeer, Zuiderveld, Skipsleat, Wylderhoarne, Sewei/De Ekers, Woudfennen, Nijehaske)  |
-|  *Smallingerland* (Centrum, De Wiken, De Singels, De Drait, De Wiken-Oost, De Venen, De Folgeren, De Swetten, De Bouwen, Noordoost, De Haven, Buitengebied Drachten, Fennepark, Bedrijvenpark, Vrijburg, Burmaniapark, Opeinde, Drachtstercompagnie)  |
-
-Provincie Drenthe 
-
-| --- | --- |
-|:---|:---|
-| Noord-Drenthe  |  *15%*   |
-|  *Assen*   |
-|  *Noordenveld* (Roden, Roden West, Industrieterrein Roden)  |
-|  *Midden-Drenthe* (Wijster, Verspreide huizen Wijster)  |
-|  *Tynaarlo* (Eelderwolde, Verspreide huizen Eelderwolde, Oosterbroek en vliegveld)  |
-| Zuidoost-Drenthe  |  *15%*   |
-|  *Coevorden* (Coevorden-Centrum, Lootuinen, Poppenhare, Binnenvree Buitenvree Pikveld, De Heege, Klooster, Ballast, De Loo, Verspreide huizen Coevorden, Holwert, Hare, Leeuwerikenveld, De Heege en De Mars, Klinkenvlier, Ossehaar)  |
-|  *Emmen* (Noordbarge, Zuidbarge, Weerdinge, Westenesch, Emmerschans, Barger-Oosterveld, Verspreide huizen overig dorpsgebied Emmen, Emmen Centrum, Emmermeer, Emmen-Oude Roswinkelerstraat, Emmen over het spoor, Angelslo, Emmenhout, Bargeres, Bargermeer industrieterrein, Rietlanden, Delftlanden, Nieuw-Dordrecht, Verspreide huizen Nieuw-Dordrecht, Oranjedorp, Vastenow, Klazienaveen-Noord, Klazienaveen-Zuid, Schoonebeek, Verspreide huizen Schoonebeek, Oosterse Bos. en Middendorp, Westerse Bos, Zandpol, Industrieterrein De Vierslagen)  |
-| Zuidwest-Drenthe  |  *15%*   |
-|  *Hoogeveen* (Centrum, Noord, Bentinckspark, Krakeel, Wolfsbos, Zuid, Venesluis, West, Oost, Steenbergerweiden, Kinholt, Grittenhof, Schoonvelde-West, Schoonvelde-Oost, Schutlanden-Oost, Schutlanden-West, Kattouw, Trasselt, Erflanden, Industriegebied Toldijk, Industriegebied Noord A, Industriegebied Noord B, Industriegebied Buitenvaart)  |
-|  *Meppel* (Centrum, Watertoren, Haveltermade, Koedijkslanden, Ezinge, Oosterboer, Industrieterrein Oevers en omgeving, Industrieterrein-Noord, Bedrijvenpark. Blankenstein, Verspreide huizen Meppel, Berggierslanden)  |
-
-### Bijlage 3.6.2 
-
-####, behorende bij artikel 3.6.2, tweede lid , van de Regeling nationale EZ-subsidies
-
-####Gemeenten en delen van gemeenten en steunintensiteiten volgens de regionale steunkaart
-
-Provincie Limburg 
-
-| --- | --- |
-|:---|:---|
-| Zuid-Limburg  |  *10%*   |
-|  *Maastricht* (excl. Borgharen, Itteren, Meerssenhoven, Heer)  |
-|  *Beek*   |
-|  *Heerlen*   |
-|  *Nuth*   |
-|  *Sittard-Geleen*   |
-
-### Bijlage 3.6.3 
-
-####, behorende bij artikel 3.6.3, eerste lid, onder a en b , van de Regeling nationale EZ-subsidies
-
-Tabel 1 Scorelijst 
-
-| criterium  | puntenscore  |
-|:---|:---|
-|  *Werkgelegenheid*   |
-| aantal gecreëerde arbeidsplaatsen  | --- | --- |
-| » 20  | 10  | --- |
-| scholingsgraad van de nieuwe arbeidsplaatsen  | --- | --- |
-| 10-33% HBO of WO  | 10  | --- |
-| » 33% HBO of WO  | 20  | --- |
-|  *maximale score*   | --- | 30  |
-|  *economische structuur*   | --- | --- |
-| verankering bedrijf  | 10  | --- |
-| multiplier â‰¥ 2  | 10  | --- |
-| investering voegt schakel aan keten toe of creëert nieuwe keten  | 10  | --- |
-| daadwerkelijke concurrentie in locatiekeuzeproces  | 10  | --- |
-|  *maximale score*   | --- | 40  |
-|  *innovatiegerichtheid*   |
-| aantal kenniswerkers als aandeel van het totaal aantal bij het bedrijf werkzame personen na projectrealisatie â‰¥ 10%  | 10  | --- |
-| beschikbaarheid onderzoeksfaciliteit  | 10  | --- |
-| bedrijf is kenniscentrum binnen het concern  | 10  | --- |
-| patent-, octrooi-, contractonderzoek  | 10  | --- |
-| project sluit aan bij beleidsprioriteiten EZ  | 10  | --- |
-| bedrijf neemt deel aan diverse R&D trajecten, ook op Europees niveau  | 10  | --- |
-| R&D als% van de bedrijfsomzet â‰¥ 3  | 10  | --- |
-|  *maximale score*   | --- | 70  |
-
-Tabel 2 Scores en daarbij behorende percentages 
-
-| projectscore  | percentage van de subsidiabele kosten tot € 50 000 000  | percentage van de subsidiabele kosten tussen € 50 000 000 en € 100 000 000  | percentage van de subsidiabele kosten boven € 100 000 000  |
-|:---|:---|:---|:---|
-| 140  | 15,00  | 7,50  | 5,10  |
-| 130  | 14,25  | 7,13  | 4,85  |
-| 120  | 13,50  | 6,75  | 4,59  |
-| 110  | 12,75  | 6,38  | 4,34  |
-| 100  | 12,00  | 6,00  | 4,08  |
-| 90  | 11,25  | 5,63  | 3,83  |
-| 80  | 10,50  | 5,25  | 3,57  |
-| 70  | 9,75  | 4,88  | 3,32  |
-| 60  | 9,00  | 4,50  | 3,06  |
-| 50  | 8,25  | 4,13  | 2,81  |
-| 40  | 7,50  | 3,75  | 2,55  |
-| 30  | 6,75  | 3,38  | 2,30  |
-| 20  | 6,00  | 3,00  | 2,04  |
-
-Tabel 3 Scores en daarbij behorende percentages 
-
-| projectscore  | percentage van de subsidiabele kosten tot € 50 000 000  | percentage van de subsidiabele kosten tussen € 50 000 000 en € 100 000 000  | percentage van de subsidiabele kosten boven € 100 000 000  |
-|:---|:---|:---|:---|
-| 140  | 10,0  | 5,00  | 3,40  |
-| 130  | 9,5  | 4,75  | 3,23  |
-| 120  | 9,0  | 4,50  | 3,06  |
-| 110  | 8,5  | 4,25  | 2,89  |
-| 100  | 8,0  | 4,00  | 2,72  |
-| 90  | 7,5  | 3,75  | 2,55  |
-| 80  | 7,0  | 3,50  | 2,38  |
-| 70  | 6,5  | 3,25  | 2,21  |
-| 60  | 6,0  | 3,00  | 2,04  |
-| 50  | 5,5  | 2,75  | 1,87  |
-| 40  | 5,0  | 2,50  | 1,70  |
-| 30  | 4,5  | 2,25  | 1,53  |
-| 20  | 4,0  | 2,00  | 1,36  |
-
 ### Bijlage 3.10.1 
 
 ####, behorende bij artikel 3.10.11  van de Regeling nationale EZ-subsidies
@@ -7233,19 +6976,17 @@ b.  *bank-gelieerde:* een rechtspersoon waaraan de Bank direct of indirect meer 
 
 c.  *bedrijfsborgstellingskrediet:* krediet of een deel van een krediet dat overeenkomstig artikel 6 is gemeld;  
 
-d.  *de-minimissteun:* steun van de overheid die voldoet aan de voorwaarden, vastgesteld in verordening (EG) nr. 1998/2006 van de Commissie van Europese Gemeenschappen van 15 december 2006 betreffende de toepassing van de artikelen 87 en 88 van het Verdrag op de-minimissteun (PbEU L379), verordening (EG) nr. 1535/2007 van de Commissie van de Europese Gemeenschappen van 20 december 2007 betreffende de toepassing van de artikelen 87 en 88 van het Verdrag op de-minimissteun in de landbouwproductiesector (PbEU L 337) of verordening (EG) nr. 875/2007 van de Commissie van de Europese Gemeenschappen van 24 juli 2007 betreffende de toepassing van de artikelen 87 en 88 van het Verdrag op de-minimissteun in de landbouwsector en de visserijsector (PbEU L 193);  
+d. de-minimissteun: steun van de overheid die voldoet aan de voorwaarden, vastgesteld in de de-minimis verordening;  
 
-e.  *groep:* een economische eenheid, waarin organisatorisch zijn verbonden: 
+e. één onderneming: één onderneming of alle ondernemingen die ten minste één van de volgende banden met elkaar onderhouden, waarbij ondernemingen die via één of meer andere ondernemingen één van de onder 1° tot en met 4° bedoelde banden onderhouden, ook als één onderneming worden beschouwd: 
 
-1°. een natuurlijke persoon of een privaatrechtelijke rechtspersoon, die direct of indirect: 
+1°. één onderneming heeft de meerderheid van de stemrechten van de aandeelhouders of vennoten van een andere onderneming;  
 
-– meer dan de helft van het geplaatste kapitaal verschaft aan,  
+2°. één onderneming heeft het recht de meerderheid van de leden van het bestuurs-, leidinggevend of toezichthoudend orgaan van een andere onderneming te benoemen of te ontslaan;  
 
-– volledig aansprakelijk vennoot is van, of  
+3°. één onderneming heeft het recht een overheersende invloed op een andere onderneming uit te oefenen op grond van een met die onderneming gesloten overeenkomst of een bepaling in de statuten van laatstgenoemde onderneming;  
 
-– overwegende zeggenschap heeft over een of meer rechtspersonen of vennootschappen, en    
-
-2°. laatstbedoelde rechtspersonen of vennootschappen;    
+4°. één onderneming die aandeelhouder of vennoot is van een andere onderneming, heeft op grond van een met andere aandeelhouders of vennoten van die andere onderneming gesloten overeenkomst als enige zeggenschap over de meerderheid van de stemrechten van de aandeelhouders of vennoten van laatstgenoemde onderneming;    
 
 f.  *innovatieve MKB-ondernemer:* een MKB-ondernemer ten aanzien waarvan de Bank beschikt over een gewaarmerkte kopie van een verklaring als bedoeld in artikel 23, eerste lid, of artikel 27, eerste lid, van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen en waarvan het origineel ten hoogste zestien maanden voor de datum waarop de kredietovereenkomst is gesloten is afgegeven, of een MKB-ondernemer ten aanzien waarvan de Bank beschikt over een advies van de minister waaruit blijkt dat de MKB-ondernemer is aan te merken als een innovatieve MKB-ondernemer;  
 
@@ -7301,7 +7042,13 @@ c. indien en voor zover door de melding, bedoeld onder a, de som van de in een k
 
 d. indien de natuurlijke persoon die direct of indirect meer dan de helft van het geplaatste kapitaal verschaft aan de MKB-ondernemer, niet zijnde een natuurlijke persoon, zich borg heeft gesteld voor de nakoming door de MKB-ondernemer van de verplichtingen voortvloeiende uit de kredietovereenkomst uit hoofde waarvan het bedrijfsborgstellingskrediet wordt verstrekt, tot aan een bedrag ter grootte van ten minste 25 procent van het bedrijfsborgstellingskrediet met een minimum van € 5.000;  
 
-e. indien het bedrijfsborgstellingskrediet niet is bestemd en niet wordt gebruikt voor buitenlandse investeringen in distributiekanalen in verband met werkzaamheden op het gebied van uitvoer;  
+e. indien het bedrijfsborgstellingskrediet niet is bestemd en niet wordt gebruikt voor activiteiten die direct verband houden met: 
+
+1°. de omvang van de uitvoer naar andere lidstaten van de Europese Unie of derde landen;  
+
+2°. het oprichten en exploiteren van een distributienet ten behoeve van de uitvoer, of  
+
+3°. andere lopende uitgaven direct verband houdend met activiteiten op het gebied van uitvoer;    
 
 f. indien het bedrijfsborgstellingskrediet niet meer bedraagt dan het tekort aan zekerheden dat bij de Bank ten tijde van het sluiten van de kredietovereenkomst bestaat;  
 
@@ -7319,11 +7066,9 @@ j. indien door de Bank gelijktijdig met het sluiten van de kredietovereenkomst, 
 
 k. indien de bankfaciliteit, bedoeld in het eerste lid, onderdeel j, ten minste 100 procent bedraagt van het bedrijfsborgstellingskrediet, of, 
 
-1°. ten minste 33,3 procent bedraagt van het bedrijfsborgstellingskrediet, indien het bedrijfsborgstellingskrediet wordt verstrekt aan een MKB-ondernemer die ten tijde van de verstrekking starter was;  
+1°. ten minste 33,3 procent bedraagt van het bedrijfsborgstellingskrediet, indien het bedrijfsborgstellingskrediet wordt verstrekt aan een MKB-ondernemer die ten tijde van de verstrekking starter was, of  
 
-2°. ten minste 50 procent bedraagt van het bedrijfsborgstellingskrediet indien het bedrijfsborgstellingskrediet wordt verstrekt aan een MKB-ondernemer die ten tijde van de verstrekking innovatieve MKB-ondernemer was, of  
-
-3°. ten minste 33,3 procent bedraagt van het bedrijfsborgstellingskrediet, indien sprake is van een bedrijfsborgstellingskrediet, dat per kalenderjaar het bedrag van € 200.000 niet overschrijdt, indien de Bank bij de melding, bedoeld in artikel 6, heeft aangegeven hiervan gebruik te willen maken;    
+2°. ten minste 50 procent bedraagt van het bedrijfsborgstellingskrediet indien het bedrijfsborgstellingskrediet wordt verstrekt aan een MKB-ondernemer die ten tijde van de verstrekking innovatieve MKB-ondernemer was;    
 
 l. indien de looptijd van de onder k bedoelde bankfaciliteit ten minste even lang is als de looptijd van het bedrijfsborgstellingskrediet.    
 
@@ -7345,21 +7090,43 @@ a. de MKB-ondernemer:
 
 4°. houdt geen onderneming in stand waarvan de laatste jaaromzet voor 50 procent of meer is verkregen, of, indien de onderneming nog geen heel jaar is gedreven, waarvan de omzet naar verwachting voor 50 procent of meer zal worden verkregen, uit: 
 
-– de beoefening van de land- of de tuinbouw, de vee- of visteelt, de visserij of de teelt van vee- of visvoer,  
-
 – de uitoefening van het bank-, verzekerings- of beleggingsbedrijf, of het financieren van een of meer andere ondernemingen, of  
 
 – het verwerven, vervreemden, beheren of exploiteren van onroerende zaken of het ontwikkelen van onroerende zaakprojecten;    
 
-5°. beschikt naast het bedrijfsborgstellingskrediet niet over een lening waarvoor de Staat uit hoofde van de Regeling LNV-subsidies of door overname van de verplichtingen van de Stichting Borgstellingsfonds voor de landbouw borg of garant staat;  
+5°. houdt geen onderneming in stand die actief is in: 
 
-6°. beschikt niet over een door een andere bank of kredietverstrekker verstrekte kredietfaciliteit, waarvoor de Staat op grond van het Kaderbesluit EZ-subsidies, het Kaderbesluit nationale EZ-subsidies, het Besluit borgstelling MKB-kredieten 1997 of het Besluit borgstelling MKB-kredieten borg staat.    
+– de sector visserij en aquacultuur;  
+
+– de primaire productie van landbouwproducten;  
+
+– de sector verwerking en afzet van landbouwproducten in de gevallen, bedoeld in artikel 1, eerste lid, onder c, van de de-minimis verordening;    
+
+6°. houdt geen onderneming in stand: 
+
+– waartegen een collectieve insolventieprocedure loopt of  
+
+– die voldoet aan de criteria om op verzoek van zijn schuldeisers, aan een collectieve insolventieprocedure te worden onderworpen;   
+
+7°. beschikt naast het bedrijfsborgstellingskrediet niet over een lening waarvoor de Staat uit hoofde van de Regeling LNV-subsidies of door overname van de verplichtingen van de Stichting Borgstellingsfonds voor de landbouw borg of garant staat;  
+
+8°. beschikt niet over een door een andere bank of kredietverstrekker verstrekte kredietfaciliteit, waarvoor de Staat op grond van het Kaderbesluit EZ-subsidies, het Kaderbesluit nationale EZ-subsidies, het Besluit borgstelling MKB-kredieten 1997 of het Besluit borgstelling MKB-kredieten borg staat.    
 
 b. er is een tekort aan zekerheden bij de MKB-ondernemer, waardoor de Bank naar normaal bankgebruik het krediet niet geheel voor eigen rekening en risico kan verstrekken;  
 
 c. de rentabiliteits- en continuïteitsperspectieven van de onderneming zijn bevredigend.    
 
-2. Het eerste lid, onderdeel a, onder 4, eerste gedachtenstreepje, is niet van toepassing op een MKB-ondernemer die gevestigd is in het openbaar lichaam Bonaire, Sint Eustatius of Saba.   
+2.In afwijking van het eerste lid voldoet een MKB-ondernemer die actief is in een van het toepassingsgebied van de de-minimis verordening uitgesloten sector, bedoeld in het eerste lid, onderdeel a, onder 5°, wel aan de criteria van de de-minimis verordening, indien: 
+
+a. de MKB-ondernemer ook actief is in één of meer van de sectoren of andere activiteiten verricht die onder de de-minimis verordening vallen, en  
+
+b. de financier aan de MKB-ondernemer door middel van de kredietovereenkomst de verplichting oplegt dat: 
+
+1°. de MKB-ondernemer het verleende krediet uitsluitend zal gebruiken voor de financiering van de activiteiten die zullen plaatsvinden binnen de sectoren die binnen het toepassingsgebied van de de-minimis verordening vallen, en  
+
+2°. de inrichting van de administratie van de MKB-ondernemer zodanig zal zijn dat voor zover de MKB-ondernemer activiteiten verricht die buiten het toepassingsgebied van de de-minimis verordening vallen, deze activiteiten zowel financieel als administratief gescheiden worden uitgevoerd van de activiteiten dat met deze subsidie wordt ondersteund.    
+
+3. Het eerste lid, onderdeel a, onder 5°, is niet van toepassing op een MKB-ondernemer die gevestigd is in het openbaar lichaam Bonaire, Sint Eustatius of Saba.   
 
 ### Artikel  5  
 
@@ -7367,15 +7134,15 @@ c. de rentabiliteits- en continuïteitsperspectieven van de onderneming zijn bev
 
 1. Ten tijde van het sluiten van een kredietovereenkomst uit hoofde waarvan een bedrijfsborgstellingskrediet aan een MKB-ondernemer wordt verstrekt, moet voorts aan de volgende criteria zijn voldaan: 
 
-a. de verlening van de borgstelling leidt er niet toe dat de MKB-ondernemer een bedrag van meer dan € 200.000 aan de-minimissteun ontvangt over de periode van het lopende en de twee voorafgaande fiscale jaren. Indien de onderneming actief is in het wegvervoer, geldt een maximum voor dit totaal van € 100.000. Een bedrijfsborgstellingskrediet wordt aangemerkt als de-minimissteun voor 13% van het staatsgegarandeerde deel van het krediet. Bij de bepaling of de verlening van de borgstelling niet leidt tot overschrijding van het desbetreffende maximum wordt rekening gehouden met de-minimissteun die is verleend aan ondernemingen die deel uitmaken van dezelfde groep;  
+a. de verlening van de borgstelling leidt er niet toe dat de MKB-ondernemer een bedrag van meer dan € 200.000 aan de-minimissteun ontvangt over de periode van het lopende en de twee voorafgaande fiscale jaren. Indien de onderneming actief is in het goederenvervoer over de weg, geldt een maximum voor dit totaal van € 100.000. Een bedrijfsborgstellingskrediet wordt aangemerkt als de-minimissteun voor 13% van het staatsgegarandeerde deel van het krediet. Bij de bepaling of de verlening van de borgstelling niet leidt tot overschrijding van het desbetreffende maximum wordt rekening gehouden met de-minimissteun die is verleend aan ondernemingen die deel uitmaken van één onderneming;  
 
 b. De Bank heeft er voor zorg gedragen dat: 
 
 – zij de MKB-ondernemer in kennis heeft gesteld dat hij ingevolge de verstrekking van het bedrijfsborgstellingskrediet steun van de overheid ontvangt ter waarde van 13% van het staatsgegarandeerde deel van het krediet, en dat deze steun wordt aangemerkt als de-minimissteun;  
 
-– de MKB-ondernemer een schriftelijke verklaring heeft afgelegd over de de-minimissteun die hij of, indien hij deel uitmaakt van een groep, deze groep heeft ontvangen in het lopende en de twee voorafgaande fiscale jaren en schriftelijk heeft verklaard dat het totaal van deze de-minimissteun en de de-minimissteun ingevolge de verstrekking van het bedrijfsborgstellingskrediet niet meer bedraagt dan € 200.000 of, indien de onderneming actief is in het wegvervoer, niet meer bedraagt dan € 100.000;  
+– de MKB-ondernemer een schriftelijke verklaring heeft afgelegd over de de-minimissteun die hij of, indien hij deel uitmaakt van een groep, deze groep heeft ontvangen in het lopende en de twee voorafgaande fiscale jaren en schriftelijk heeft verklaard dat het totaal van deze de-minimissteun en de de-minimissteun ingevolge de verstrekking van het bedrijfsborgstellingskrediet niet meer bedraagt dan € 200.000 of, indien de onderneming actief is in het goederenvervoer over de weg, niet meer bedraagt dan € 100.000;  
 
-– de MKB-ondernemer schriftelijk heeft verklaard dat, voor zover het ontvangen van de-minimissteun ingevolge de verstrekking van het bedrijfsborgstellingskrediet samen gaat met het ontvangen van staatssteun voor dezelfde in aanmerking komende kosten, dit niet leidt tot een overschrijding van het maximale percentage van staatssteun dat in dit geval geldt ingevolge de desbetreffende groepsvrijstellingsverordening of het desbetreffende besluit van de Commissie.      
+– de MKB-ondernemer schriftelijk heeft verklaard dat, voor zover het ontvangen van de-minimissteun ingevolge de verstrekking van het bedrijfsborgstellingskrediet samen gaat met het ontvangen van staatssteun voor dezelfde in aanmerking komende kosten, of samen gaat met staatssteun ten behoeve van dezelfde risicofinancieringsmaatregel, dit niet leidt tot een overschrijding van de hoogste toepasselijke steunintensiteit of het hoogste toepasselijke steunbedrag dat in dit geval geldt ingevolge de desbetreffende groepsvrijstellingsverordening of een besluit dat de Commissie heeft vastgesteld.      
 
 2. Dit artikel is niet van toepassing op een kredietovereenkomst die wordt gesloten met een MKB-ondernemer die gevestigd is in het openbaar lichaam Bonaire, Sint-Eustatius of Saba.   
 
@@ -7411,9 +7178,9 @@ e. 4,5 procent indien de overeenkomst van borgtocht een bedrijfsborgstellingskre
 
 ####Maximale omvang van de borgstelling
 
-1. Voor de berekening van de omvang van de borgstelling wordt een bedrijfsborgstellingskrediet slechts in aanmerking genomen voor zover door de verstrekking van het bedrijfsborgstellingskrediet het totaal van de bedrijfsborgstellingskredieten, berekend per MKB-ondernemer of, indien de MKB-ondernemer deel uitmaakt van een groep, per groep een bedrag van € 1.500.000 niet overschrijdt.  
+1. Voor de berekening van de omvang van de borgstelling wordt een bedrijfsborgstellingskrediet slechts in aanmerking genomen voor zover door de verstrekking van het bedrijfsborgstellingskrediet het totaal van de bedrijfsborgstellingskredieten, berekend per MKB-ondernemer een bedrag van € 1.000.000 niet overschrijdt.  
 
-2. Voor de berekening van de omvang van de borgstelling wordt een starters-borgstellingskrediet slechts in aanmerking genomen voor zover door de verstrekking van dit krediet het totaal van de starters-borgstellingskredieten, berekend per MKB-ondernemer of, indien de MKB-ondernemer deel uitmaakt van een groep, per groep een bedrag van € 200.000 niet overschrijdt.  
+2. Voor de berekening van de omvang van de borgstelling wordt een starters-borgstellingskrediet slechts in aanmerking genomen voor zover door de verstrekking van dit krediet het totaal van de starters-borgstellingskredieten, berekend per MKB-ondernemer een bedrag van € 200.000 niet overschrijdt.  
 
 3. Voor de toepassing van het eerste lid wordt een bedrijfsborgstellingskrediet dat is verstrekt aan een andere MKB-ondernemer ten behoeve van een onderneming voor het drijven waarvan de MKB-ondernemer volledig aansprakelijk is, geacht aan de MKB-ondernemer te zijn verstrekt.  
 
@@ -7423,9 +7190,7 @@ e. 4,5 procent indien de overeenkomst van borgtocht een bedrijfsborgstellingskre
 
 a. bedrijfsborgstellingskredieten die op een eerder tijdstip overeenkomstig artikel 6 zijn gemeld, slechts voor het met overeenkomstige toepassing van de artikelen 9 en 10 berekende gedeelte van die bedrijfsborgstellingskredieten in aanmerking genomen;  
 
-b. kredieten, voor zover de Staat daarvoor op grond van het Kaderbesluit EZ-subsidies, het Kaderbesluit nationale EZ-subsidies, het Besluit borgstelling MKB-kredieten, of het Besluit borgstelling MKB-kredieten 1997 nog borg staat, als bedrijfsborgstellingskredieten in aanmerking genomen.    
-
-6. In afwijking van het eerste lid, overschrijdt het totaal van de bedrijfsborgstellingskredieten per kalenderjaar een bedrag van € 200.000 niet, indien de Bank heeft aangegeven van de mogelijkheid, bedoeld in artikel 3, eerste lid, onderdeel k, subonderdeel 3°, gebruik te maken.   
+b. kredieten, voor zover de Staat daarvoor op grond van het Kaderbesluit EZ-subsidies, het Kaderbesluit nationale EZ-subsidies, het Besluit borgstelling MKB-kredieten, of het Besluit borgstelling MKB-kredieten 1997 nog borg staat, als bedrijfsborgstellingskredieten in aanmerking genomen.     
 
 ### Artikel  9  
 
@@ -7507,9 +7272,7 @@ b. indien het bedrijfsborgstellingskrediet is verstrekt aan een MKB-ondernemer d
 
 a. de bedragen die een Bank-gelieerde uit hoofde van een overeenkomst aan de MKB-ondernemer ter leen verstrekt of zal verstrekken, en  
 
-b. de verplichtingen die een Bank-gelieerde tegenover een derde, niet zijnde een andere Bank-gelieerde of een rechtspersoon waarmee de Bank in een groep verbonden is, onherroepelijk is aangegaan om ten laste van de MKB-ondernemer aan de derde een of meer betalingen te doen als bedoeld in artikel 1, tweede lid, onderdeel g, 3°, indien de zekerheden van de Bank-gelieerde ter zake van de hiervoor onder a en b bedoelde bedragen en verplichtingen mede strekken tot zekerheid van de Bank.    
-
-4. In afwijking van het eerste lid, aanhef en onderdeel b, bedraagt de omvang van de borgstelling ten hoogste drie maal de som van de ten tijde van de opzegging van de kredietovereenkomst bestaande en verstrekte bankfaciliteiten van de Bank voor de MKB-ondernemer indien sprake is van een bedrijfsborgstellingskrediet, als bedoeld in artikel 3, eerste lid, onderdeel k, subonderdeel 3°.   
+b. de verplichtingen die een Bank-gelieerde tegenover een derde, niet zijnde een andere Bank-gelieerde of een rechtspersoon waarmee de Bank in een groep verbonden is, onherroepelijk is aangegaan om ten laste van de MKB-ondernemer aan de derde een of meer betalingen te doen als bedoeld in artikel 1, tweede lid, onderdeel g, 3°, indien de zekerheden van de Bank-gelieerde ter zake van de hiervoor onder a en b bedoelde bedragen en verplichtingen mede strekken tot zekerheid van de Bank.     
 
 ### Artikel  13  
 
@@ -7713,19 +7476,17 @@ b.  *bank-gelieerde:* een rechtspersoon waaraan een van de Banken voor zich, dan
 
 c.  *bedrijfsborgstellingskrediet:* krediet of een deel van een krediet dat overeenkomstig artikel 6 is gemeld;  
 
-d.  *de-minimissteun:* steun van de overheid die voldoet aan de voorwaarden, vastgesteld in verordening (EG) nr. 1998/2006 van de Commissie van Europese Gemeenschappen van 15 december 2006 betreffende de toepassing van de artikelen 87 en 88 van het Verdrag op de-minimissteun (PbEU L379), verordening (EG) nr. 1535/2007 van de Commissie van de Europese Gemeenschappen van 20 december 2007 betreffende de toepassing van de artikelen 87 en 88 van het Verdrag op de-minimissteun in de landbouwproductiesector (PbEU L 337) of verordening (EG) nr. 875/2007 van de Commissie van de Europese Gemeenschappen van 24 juli 2007 betreffende de toepassing van de artikelen 87 en 88 van het Verdrag op de-minimissteun in de landbouwsector en de visserijsector (PbEU L 193);  
+d. *de-minimissteun:* steun van de overheid die voldoet aan de voorwaarden, vastgesteld in de de-minimis verordening;  
 
-e.  *groep:* een economische eenheid, waarin organisatorisch zijn verbonden: 
+e. *één onderneming:* één onderneming of alle ondernemingen die ten minste één van de volgende banden met elkaar onderhouden, waarbij ondernemingen die via één of meer andere ondernemingen één van de onder 1° tot en met 4° bedoelde banden onderhouden, ook als één onderneming worden beschouwd: 
 
-1°. een natuurlijke persoon of een privaatrechtelijke rechtspersoon, die direct of indirect: 
+1°. één onderneming heeft de meerderheid van de stemrechten van de aandeelhouders of vennoten van een andere onderneming;  
 
-– meer dan de helft van het geplaatste kapitaal verschaft aan,  
+2°. één onderneming heeft het recht de meerderheid van de leden van het bestuurs-, leidinggevend of toezichthoudend orgaan van een andere onderneming te benoemen of te ontslaan;  
 
-– volledig aansprakelijk vennoot is van, of  
+3°. één onderneming heeft het recht een overheersende invloed op een andere onderneming uit te oefenen op grond van een met die onderneming gesloten overeenkomst of een bepaling in de statuten van laatstgenoemde onderneming;  
 
-– overwegende zeggenschap heeft over een of meer rechtspersonen of vennootschappen, en    
-
-2°. laatstbedoelde rechtspersonen of vennootschappen;    
+4°. één onderneming die aandeelhouder of vennoot is van een andere onderneming, heeft op grond van een met andere aandeelhouders of vennoten van die andere onderneming gesloten overeenkomst als enige zeggenschap over de meerderheid van de stemrechten van de aandeelhouders of vennoten van laatstgenoemde onderneming;    
 
 f.  *innovatieve MKB-ondernemer:* een MKB-ondernemer ten aanzien waarvan de Bank beschikt over een gewaarmerkte kopie van een verklaring als bedoeld in artikel 23, eerste lid, of artikel 27, eerste lid, van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen en waarvan het origineel ten hoogste zestien maanden voor de datum waarop de kredietovereenkomst is gesloten is afgegeven, of een MKB-ondernemer ten aanzien waarvan de Bank beschikt over een advies van de minister waaruit blijkt dat de MKB-ondernemer is aan te merken als een innovatieve MKB-ondernemer;  
 
@@ -7781,7 +7542,13 @@ c. indien en voor zover door de melding, bedoeld onder a, de som van de in een k
 
 d. indien de natuurlijke persoon die direct of indirect meer dan de helft van het geplaatste kapitaal verschaft aan de MKB-ondernemer, niet zijnde een natuurlijke persoon, zich borg heeft gesteld voor de nakoming door de MKB-ondernemer van de verplichtingen voortvloeiende uit de kredietovereenkomst uit hoofde waarvan het bedrijfsborgstellingskrediet wordt verstrekt, tot aan een bedrag ter grootte van ten minste 25 procent van het bedrijfsborgstellingskrediet met een minimum van € 5.000;  
 
-e. indien het bedrijfsborgstellingskrediet niet is bestemd en niet wordt gebruikt voor buitenlandse investeringen in distributiekanalen in verband met werkzaamheden op het gebied van uitvoer;  
+e. indien het bedrijfsborgstellingskrediet niet is bestemd en niet wordt gebruikt voor activiteiten die direct verband houden met: 
+
+1°. de omvang van de uitvoer naar andere lidstaten van de Europese Unie of derde landen;  
+
+2°. het oprichten en exploiteren van een distributienet ten behoeve van de uitvoer, of  
+
+3°. andere lopende uitgaven direct verband houdend met activiteiten op het gebied van uitvoer;    
 
 f. indien het bedrijfsborgstellingskrediet niet meer bedraagt dan het tekort aan zekerheden dat bij de Bank ten tijde van het sluiten van de kredietovereenkomst bestaat;  
 
@@ -7799,11 +7566,9 @@ j. indien door de Bank gelijktijdig met het sluiten van de kredietovereenkomst, 
 
 k. indien de bankfaciliteit, bedoeld in het eerste lid, onderdeel j, ten minste 100 procent bedraagt van het bedrijfsborgstellingskrediet, of, 
 
-1°. ten minste 33,3 procent bedraagt van het bedrijfsborgstellingskrediet, indien het bedrijfsborgstellingskrediet wordt verstrekt aan een MKB-ondernemer die ten tijde van de verstrekking starter was;  
+1°. ten minste 33,3 procent bedraagt van het bedrijfsborgstellingskrediet, indien het bedrijfsborgstellingskrediet wordt verstrekt aan een MKB-ondernemer die ten tijde van de verstrekking starter was, of  
 
-2°. ten minste 50 procent bedraagt van het bedrijfsborgstellingskrediet indien het bedrijfsborgstellingskrediet wordt verstrekt aan een MKB-ondernemer die ten tijde van de verstrekking innovatieve MKB-ondernemer was, of  
-
-3°. ten minste 33,3 procent bedraagt van het bedrijfsborgstellingskrediet, indien sprake is van een bedrijfsborgstellingskrediet, dat per kalenderjaar het bedrag van € 200.000 niet overschrijdt, indien de Bank bij de melding, bedoeld in artikel 6, heeft aangegeven hiervan gebruik te willen maken;    
+2°. ten minste 50 procent bedraagt van het bedrijfsborgstellingskrediet indien het bedrijfsborgstellingskrediet wordt verstrekt aan een MKB-ondernemer die ten tijde van de verstrekking innovatieve MKB-ondernemer was;    
 
 l. indien de looptijd van de onder k bedoelde bankfaciliteit ten minste even lang is als de looptijd van het bedrijfsborgstellingskrediet.    
 
@@ -7825,21 +7590,43 @@ a. de MKB-ondernemer:
 
 4°. houdt geen onderneming in stand waarvan de laatste jaaromzet voor 50 procent of meer is verkregen, of, indien de onderneming nog geen heel jaar is gedreven, waarvan de omzet naar verwachting voor 50 procent of meer zal worden verkregen, uit: 
 
-– de beoefening van de land- of de tuinbouw, de vee- of visteelt, de visserij of de teelt van vee- of visvoer,  
-
 – de uitoefening van het bank-, verzekerings- of beleggingsbedrijf, of het financieren van een of meer andere ondernemingen, of  
 
 – het verwerven, vervreemden, beheren of exploiteren van onroerende zaken of het ontwikkelen van onroerende zaakprojecten;    
 
-5°. beschikt naast het bedrijfsborgstellingskrediet niet over een lening waarvoor de Staat uit hoofde van de Regeling LNV-subsidies of door overname van de verplichtingen van de Stichting Borgstellingsfonds voor de landbouw borg of garant staat;  
+5°. houdt geen onderneming in stand die actief is in: 
 
-6°. beschikt niet over een door een andere bank of kredietverstrekker verstrekte kredietfaciliteit, waarvoor de Staat op grond van het Kaderbesluit EZ-subsidies, het Kaderbesluit nationale EZ-subsides, het Besluit borgstelling MKB-kredieten 1997 of het Besluit borgstelling MKB-kredieten borg staat.    
+– de sector visserij en aquacultuur;  
+
+– de primaire productie van landbouwproducten;  
+
+– de sector verwerking en afzet van landbouwproducten in de gevallen, bedoeld in artikel 1, eerste lid, onder c, van de de-minimis verordening;    
+
+6°. houdt geen onderneming in stand: 
+
+– waartegen een collectieve insolventieprocedure loopt of  
+
+– die voldoet aan de criteria om op verzoek van zijn schuldeisers, aan een collectieve insolventieprocedure te worden onderworpen;   
+
+7°. beschikt naast het bedrijfsborgstellingskrediet niet over een lening waarvoor de Staat uit hoofde van de Regeling LNV-subsidies of door overname van de verplichtingen van de Stichting Borgstellingsfonds voor de landbouw borg of garant staat;  
+
+8°. beschikt niet over een door een andere bank of kredietverstrekker verstrekte kredietfaciliteit, waarvoor de Staat op grond van het Kaderbesluit EZ-subsidies, het Kaderbesluit nationale EZ-subsides, het Besluit borgstelling MKB-kredieten 1997 of het Besluit borgstelling MKB-kredieten borg staat.    
 
 b. er is een tekort aan zekerheden bij de MKB-ondernemer, waardoor de Bank naar normaal bankgebruik het krediet niet geheel voor eigen rekening en risico kan verstrekken;  
 
 c. de rentabiliteits- en continuïteitsperspectieven van de onderneming zijn bevredigend.    
 
-2. Het eerste lid, onderdeel a, onder 4, eerste gedachtenstreepje, is niet van toepassing op een MKB-ondernemer die gevestigd is in het openbaar lichaam Bonaire, Sint Eustatius of Saba.   
+2.In afwijking van het eerste lid voldoet een MKB-ondernemer die actief is in een van het toepassingsgebied van de de-minimis verordening uitgesloten sector, bedoeld in het eerste lid, onderdeel a, onder 5°, wel aan de criteria van de de-minimis verordening, indien: 
+
+a. de MKB-ondernemer ook actief is in één of meer van de sectoren of andere activiteiten verricht die onder de de-minimis verordening vallen, en  
+
+b. de financier aan de MKB-ondernemer door middel van de kredietovereenkomst de verplichting oplegt dat: 
+
+1°. de MKB-ondernemer het verleende krediet uitsluitend zal gebruiken voor de financiering van de activiteiten die zullen plaatsvinden binnen de sectoren die binnen het toepassingsgebied van de de-minimis verordening vallen, en  
+
+2°. de inrichting van de administratie van de MKB-ondernemer zodanig zal zijn dat voor zover de MKB-ondernemer activiteiten verricht die buiten het toepassingsgebied van de de-minimis verordening vallen, deze activiteiten zowel financieel als administratief gescheiden worden uitgevoerd van de activiteiten dat met deze subsidie wordt ondersteund.    
+
+3. Het eerste lid, onderdeel a, onder 5°, is niet van toepassing op een MKB-ondernemer die gevestigd is in het openbaar lichaam Bonaire, Sint Eustatius of Saba.   
 
 ### Artikel  5  
 
@@ -7847,15 +7634,15 @@ c. de rentabiliteits- en continuïteitsperspectieven van de onderneming zijn bev
 
 1. Ten tijde van het sluiten van een kredietovereenkomst uit hoofde waarvan een bedrijfsborgstellingskrediet aan een MKB-ondernemer wordt verstrekt, moet voorts aan de volgende criteria zijn voldaan: 
 
-a. de verlening van de borgstelling leidt er niet toe dat de MKB-ondernemer een bedrag van meer dan € 200.000 aan de-minimissteun ontvangt over de periode van het lopende en de twee voorafgaande fiscale jaren. Indien de onderneming actief is in het wegvervoer, geldt een maximum voor dit totaal van € 100.000. Een bedrijfsborgstellingskrediet wordt aangemerkt als de-minimissteun voor 13% van het staatsgegarandeerde deel van het krediet. Bij de bepaling of de verlening van de borgstelling niet leidt tot overschrijding van het desbetreffende maximum wordt rekening gehouden met de-minimissteun die is verleend aan ondernemingen die deel uitmaken van dezelfde groep;  
+a. de verlening van de borgstelling leidt er niet toe dat de MKB-ondernemer een bedrag van meer dan € 200.000 aan de-minimissteun ontvangt over de periode van het lopende en de twee voorafgaande fiscale jaren. Indien de onderneming actief is in het goederenvervoer over de weg, geldt een maximum voor dit totaal van € 100.000. Een bedrijfsborgstellingskrediet wordt aangemerkt als de-minimissteun voor 13% van het staatsgegarandeerde deel van het krediet. Bij de bepaling of de verlening van de borgstelling niet leidt tot overschrijding van het desbetreffende maximum wordt rekening gehouden met de-minimissteun die is verleend aan ondernemingen die deel uitmaken van één onderneming;  
 
 b. De Bank heeft er voor zorg gedragen dat: 
 
 – zij de MKB-ondernemer in kennis heeft gesteld dat hij ingevolge de verstrekking van het bedrijfsborgstellingskrediet steun van de overheid ontvangt ter waarde van 13% van het staatsgegarandeerde deel van het krediet, en dat deze steun wordt aangemerkt als de-minimissteun;  
 
-– de MKB-ondernemer een schriftelijke verklaring heeft afgelegd over de de-minimissteun die hij of, indien hij deel uitmaakt van een groep, deze groep heeft ontvangen in het lopende en de twee voorafgaande fiscale jaren en schriftelijk heeft verklaard dat het totaal van deze de-minimissteun en de de-minimissteun ingevolge de verstrekking van het bedrijfsborgstellingskrediet niet meer bedraagt dan € 200.000 of, indien de onderneming actief is in het wegvervoer, niet meer bedraagt dan € 100.000;  
+– de MKB-ondernemer een schriftelijke verklaring heeft afgelegd over de de-minimissteun die hij of, indien hij deel uitmaakt van een groep, deze groep heeft ontvangen in het lopende en de twee voorafgaande fiscale jaren en schriftelijk heeft verklaard dat het totaal van deze de-minimissteun en de de-minimissteun ingevolge de verstrekking van het bedrijfsborgstellingskrediet niet meer bedraagt dan € 200.000 of, indien de onderneming actief is in het goederenvervoer over de weg, niet meer bedraagt dan € 100.000;  
 
-– de MKB-ondernemer schriftelijk heeft verklaard dat, voor zover het ontvangen van de-minimissteun ingevolge de verstrekking van het bedrijfsborgstellingskrediet samen gaat met het ontvangen van staatssteun voor dezelfde in aanmerking komende kosten, dit niet leidt tot een overschrijding van het maximale percentage van staatssteun dat in dit geval geldt ingevolge de desbetreffende groepsvrijstellingsverordening of het desbetreffende besluit van de Commissie.      
+– de MKB-ondernemer schriftelijk heeft verklaard dat, voor zover het ontvangen van de-minimissteun ingevolge de verstrekking van het bedrijfsborgstellingskrediet samen gaat met het ontvangen van staatssteun voor dezelfde in aanmerking komende kosten, of samen gaat met staatssteun ten behoeve van dezelfde risicofinancieringsmaatregel, dit niet leidt tot een overschrijding van de hoogste toepasselijke steunintensiteit of het hoogste toepasselijke steunbedrag dat in dit geval geldt ingevolge de desbetreffende groepsvrijstellingsverordening of een besluit dat de Commissie heeft vastgesteld.      
 
 2. Dit artikel is niet van toepassing op een kredietovereenkomst die wordt gesloten met een MKB-ondernemer die gevestigd is in het openbaar lichaam Bonaire, Sint-Eustatius of Saba.   
 
@@ -7891,9 +7678,9 @@ e. 4,5 procent indien de overeenkomst van borgtocht een bedrijfsborgstellingskre
 
 ####Maximale omvang van de borgstelling
 
-1. Voor de berekening van de omvang van de borgstelling wordt een bedrijfsborgstellingskrediet slechts in aanmerking genomen voor zover door de verstrekking van het bedrijfsborgstellingskrediet het totaal van de bedrijfsborgstellingskredieten, berekend per MKB-ondernemer of, indien de MKB-ondernemer deel uitmaakt van een groep, per groep een bedrag van € 1.500.000 niet overschrijdt.  
+1. Voor de berekening van de omvang van de borgstelling wordt een bedrijfsborgstellingskrediet slechts in aanmerking genomen voor zover door de verstrekking van het bedrijfsborgstellingskrediet het totaal van de bedrijfsborgstellingskredieten, berekend per MKB-ondernemer een bedrag van € 1.000.000 niet overschrijdt.  
 
-2. Voor de berekening van de omvang van de borgstelling wordt een starters-borgstellingskrediet slechts in aanmerking genomen voor zover door de verstrekking van dit krediet het totaal van de starters-borgstellingskredieten, berekend per MKB-ondernemer of, indien de MKB-ondernemer deel uitmaakt van een groep, per groep een bedrag van € 200.000 niet overschrijdt.  
+2. Voor de berekening van de omvang van de borgstelling wordt een starters-borgstellingskrediet slechts in aanmerking genomen voor zover door de verstrekking van dit krediet het totaal van de starters-borgstellingskredieten, berekend per MKB-ondernemer een bedrag van € 200.000 niet overschrijdt.  
 
 3. Voor de toepassing van het eerste lid wordt een bedrijfsborgstellingskrediet dat is verstrekt aan een andere MKB-ondernemer ten behoeve van een onderneming voor het drijven waarvan de MKB-ondernemer volledig aansprakelijk is, geacht aan de MKB-ondernemer te zijn verstrekt.  
 
@@ -7903,9 +7690,7 @@ e. 4,5 procent indien de overeenkomst van borgtocht een bedrijfsborgstellingskre
 
 a. bedrijfsborgstellingskredieten die op een eerder tijdstip overeenkomstig artikel 6 zijn gemeld, slechts voor het met overeenkomstige toepassing van de artikelen 9 en 10 berekende gedeelte van die bedrijfsborgstellingskredieten in aanmerking genomen;  
 
-b. kredieten, voor zover de Staat daarvoor op grond van het Kaderbesluit EZ-subsidies, het Kaderbesluit nationale EZ-subsidies, het Besluit borgstelling MKB-kredieten, of het Besluit borgstelling MKB-kredieten 1997 nog borg staat, als bedrijfsborgstellingskredieten in aanmerking genomen.    
-
-6. In afwijking van het eerste lid, overschrijdt het totaal van de bedrijfsborgstellingskredieten per kalenderjaar een bedrag van € 200.000 niet, indien de Bank heeft aangegeven van de mogelijkheid, bedoeld in artikel 3, eerste lid, onderdeel k, subonderdeel 3°, gebruik te maken.   
+b. kredieten, voor zover de Staat daarvoor op grond van het Kaderbesluit EZ-subsidies, het Kaderbesluit nationale EZ-subsidies, het Besluit borgstelling MKB-kredieten, of het Besluit borgstelling MKB-kredieten 1997 nog borg staat, als bedrijfsborgstellingskredieten in aanmerking genomen.     
 
 ### Artikel  9  
 
@@ -7987,9 +7772,7 @@ b. indien het bedrijfsborgstellingskrediet is verstrekt aan een MKB-ondernemer d
 
 a. de bedragen die een Bank-gelieerde uit hoofde van een overeenkomst aan de MKB-ondernemer ter leen verstrekt of zal verstrekken, en  
 
-b. de verplichtingen die een Bank-gelieerde tegenover een derde, niet zijnde een andere Bank-gelieerde of een rechtspersoon waarmee de Bank in een groep verbonden is, onherroepelijk is aangegaan om ten laste van de MKB-ondernemer aan de derde een of meer betalingen te doen als bedoeld in artikel 1, tweede lid, onderdeel g, 3°, indien de zekerheden van de Bank-gelieerde ter zake van de hiervoor onder a en b bedoelde bedragen en verplichtingen mede strekken tot zekerheid van de Bank.    
-
-4. In afwijking van het eerste lid, aanhef en onderdeel b, bedraagt de omvang van de borgstelling ten hoogste drie maal de som van de ten tijde van de opzegging van de kredietovereenkomst bestaande en verstrekte bankfaciliteiten van de Bank voor de MKB-ondernemer indien sprake is van een bedrijfsborgstellingskrediet, als bedoeld in artikel 3, eerste lid, onderdeel k, subonderdeel 3°.   
+b. de verplichtingen die een Bank-gelieerde tegenover een derde, niet zijnde een andere Bank-gelieerde of een rechtspersoon waarmee de Bank in een groep verbonden is, onherroepelijk is aangegaan om ten laste van de MKB-ondernemer aan de derde een of meer betalingen te doen als bedoeld in artikel 1, tweede lid, onderdeel g, 3°, indien de zekerheden van de Bank-gelieerde ter zake van de hiervoor onder a en b bedoelde bedragen en verplichtingen mede strekken tot zekerheid van de Bank.     
 
 ### Artikel  13  
 
@@ -8195,19 +7978,17 @@ b.  *kredietverstrekker-gelieerde:* een rechtspersoon waaraan de kredietverstrek
 
 c.  *bedrijfsborgstellingskrediet:* krediet of een deel van een krediet dat overeenkomstig artikel 6 is getoetst en gemeld;  
 
-d.  *de-minimissteun:* steun van de overheid die voldoet aan de voorwaarden, vastgesteld in verordening (EG) nr. 1998/2006 van de Commissie van Europese Gemeenschappen van 15 december 2006 betreffende de toepassing van de artikelen 87 en 88 van het Verdrag op de-minimissteun (PbEU L379), verordening (EG) nr. 1535/2007 van de Commissie van de Europese Gemeenschappen van 20 december 2007 betreffende de toepassing van de artikelen 87 en 88 van het Verdrag op de-minimissteun in de landbouwproductiesector (PbEU L 337) of verordening (EG) nr. 875/2007 van de Commissie van de Europese Gemeenschappen van 24 juli 2007 betreffende de toepassing van de artikelen 87 en 88 van het Verdrag op de-minimissteun in de landbouwsector en de visserijsector (PbEU L 193);  
+d. de-minimissteun: steun van de overheid die voldoet aan de voorwaarden, vastgesteld in de de-minimis verordening;  
 
-e.  *groep:* een economische eenheid, waarin organisatorisch zijn verbonden: 
+e. één onderneming: één onderneming of alle ondernemingen die ten minste één van de volgende banden met elkaar onderhouden, waarbij ondernemingen die via één of meer andere ondernemingen één van de onder 1° tot en met 4° bedoelde banden onderhouden, ook als één onderneming worden beschouwd: 
 
-1°. een natuurlijke persoon of een privaatrechtelijke rechtspersoon, die direct of indirect: 
+1°. één onderneming heeft de meerderheid van de stemrechten van de aandeelhouders of vennoten van een andere onderneming;  
 
-– meer dan de helft van het geplaatste kapitaal verschaft aan,  
+2°. één onderneming heeft het recht de meerderheid van de leden van het bestuurs-, leidinggevend of toezichthoudend orgaan van een andere onderneming te benoemen of te ontslaan;  
 
-– volledig aansprakelijk vennoot is van, of  
+3°. één onderneming heeft het recht een overheersende invloed op een andere onderneming uit te oefenen op grond van een met die onderneming gesloten overeenkomst of een bepaling in de statuten van laatstgenoemde onderneming;  
 
-– overwegende zeggenschap heeft over een of meer rechtspersonen of vennootschappen, en    
-
-2°. laatstbedoelde rechtspersonen of vennootschappen;    
+4°. één onderneming die aandeelhouder of vennoot is van een andere onderneming, heeft op grond van een met andere aandeelhouders of vennoten van die andere onderneming gesloten overeenkomst als enige zeggenschap over de meerderheid van de stemrechten van de aandeelhouders of vennoten van laatstgenoemde onderneming;    
 
 f.  *innovatieve MKB-ondernemer:* een MKB-ondernemer ten aanzien waarvan de kredietverstrekker beschikt over een gewaarmerkte kopie van een verklaring als bedoeld in artikel 23, eerste lid, of artikel 27, eerste lid, van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen en waarvan het origineel ten hoogste zestien maanden voor de datum waarop de kredietovereenkomst is gesloten is afgegeven, of een MKB-ondernemer ten aanzien waarvan de kredietverstrekker beschikt over een advies van de minister waaruit blijkt dat de MKB-ondernemer is aan te merken als een innovatieve MKB-ondernemer;  
 
@@ -8261,7 +8042,13 @@ c. indien en voor zover door de melding, bedoeld onder a, de som van de in een k
 
 d. indien de natuurlijke persoon die direct of indirect meer dan de helft van het geplaatste kapitaal verschaft aan de MKB-ondernemer, niet zijnde een natuurlijke persoon, zich borg heeft gesteld voor de nakoming door de MKB-ondernemer van de verplichtingen voortvloeiende uit de kredietovereenkomst uit hoofde waarvan het bedrijfsborgstellingskrediet wordt verstrekt, tot aan een bedrag ter grootte van ten minste 25 procent van het bedrijfsborgstellingskrediet met een minimum van € 5.000;  
 
-e. indien het bedrijfsborgstellingskrediet niet is bestemd en niet wordt gebruikt voor buitenlandse investeringen in distributiekanalen in verband met werkzaamheden op het gebied van uitvoer;  
+e. indien het bedrijfsborgstellingskrediet niet is bestemd en niet wordt gebruikt voor activiteiten die direct verband houden met: 
+
+1°. de omvang van de uitvoer naar andere lidstaten van de Europese Unie of derde landen;  
+
+2°. het oprichten en exploiteren van een distributienet ten behoeve van de uitvoer, of  
+
+3°. andere lopende uitgaven direct verband houdend met activiteiten op het gebied van uitvoer;    
 
 f. indien het bedrijfsborgstellingskrediet niet meer bedraagt dan het tekort aan zekerheden dat bij de kredietverstrekker ten tijde van het sluiten van de kredietovereenkomst bestaat;  
 
@@ -8279,11 +8066,9 @@ j. indien door de kredietverstrekker gelijktijdig met het sluiten van de krediet
 
 k. indien de financieringsfaciliteit, bedoeld in het eerste lid, onderdeel j, ten minste 100 procent bedraagt van het bedrijfsborgstellingskrediet, of, 
 
-1°. ten minste 33,3 procent bedraagt van het bedrijfsborgstellingskrediet, indien het bedrijfsborgstellingskrediet wordt verstrekt aan een MKB-ondernemer die ten tijde van de verstrekking starter was;  
+1°. ten minste 33,3 procent bedraagt van het bedrijfsborgstellingskrediet, indien het bedrijfsborgstellingskrediet wordt verstrekt aan een MKB-ondernemer die ten tijde van de verstrekking starter was, of  
 
-2°. ten minste 50 procent bedraagt van het bedrijfsborgstellingskrediet indien het bedrijfsborgstellingskrediet wordt verstrekt aan een MKB-ondernemer die ten tijde van de verstrekking innovatieve MKB-ondernemer was, of  
-
-3°. ten minste 33,3 procent bedraagt van het bedrijfsborgstellingskrediet, indien sprake is van een bedrijfsborgstellingskrediet, dat per kalenderjaar het bedrag van € 200.000 niet overschrijdt, indien de kredietverstrekker bij de melding, bedoeld in artikel 6, heeft aangegeven hiervan gebruik te willen maken;    
+2°. ten minste 50 procent bedraagt van het bedrijfsborgstellingskrediet indien het bedrijfsborgstellingskrediet wordt verstrekt aan een MKB-ondernemer die ten tijde van de verstrekking innovatieve MKB-ondernemer was;    
 
 l. indien de looptijd van de onder k bedoelde financieringsfaciliteit ten minste even lang is als de looptijd van het bedrijfsborgstellingskrediet.    
 
@@ -8305,21 +8090,43 @@ a. de MKB-ondernemer:
 
 4°. houdt geen onderneming in stand waarvan de laatste jaaromzet voor 50 procent of meer is verkregen, of, indien de onderneming nog geen heel jaar is gedreven, waarvan de omzet naar verwachting voor 50 procent of meer zal worden verkregen, uit: 
 
-– de beoefening van de land- of de tuinbouw, de vee- of visteelt, de visserij of de teelt van vee- of visvoer,  
-
 – de uitoefening van het bank-, verzekerings- of beleggingsbedrijf, of het financieren van een of meer andere ondernemingen, of  
 
 – het verwerven, vervreemden, beheren of exploiteren van onroerende zaken of het ontwikkelen van onroerende zaakprojecten;    
 
-5°. beschikt naast het bedrijfsborgstellingskrediet niet over een lening waarvoor de Staat uit hoofde van de Regeling LNV-subsidies of door overname van de verplichtingen van de Stichting Borgstellingsfonds voor de landbouw borg of garant staat;  
+5°. houdt geen onderneming in stand die actief is in: 
 
-6°. beschikt niet over een door een andere kredietverstrekker of bank verstrekte kredietfaciliteit, waarvoor de Staat op grond van het Kaderbesluit EZ-subsidies, het Kaderbesluit nationale EZ-subsidies, het Besluit borgstelling MKB-kredieten 1997 of het Besluit borgstelling MKB-kredieten borg staat.    
+– de sector visserij en aquacultuur;  
+
+– de primaire productie van landbouwproducten;  
+
+– de sector verwerking en afzet van landbouwproducten in de gevallen, bedoeld in artikel 1, eerste lid, onder c, van de de-minimis verordening;    
+
+6°. houdt geen onderneming in stand: 
+
+– waartegen een collectieve insolventieprocedure loopt of  
+
+– die voldoet aan de criteria om op verzoek van zijn schuldeisers, aan een collectieve insolventieprocedure te worden onderworpen;   
+
+7°. beschikt naast het bedrijfsborgstellingskrediet niet over een lening waarvoor de Staat uit hoofde van de Regeling LNV-subsidies of door overname van de verplichtingen van de Stichting Borgstellingsfonds voor de landbouw borg of garant staat;  
+
+8°. beschikt niet over een door een andere kredietverstrekker of bank verstrekte kredietfaciliteit, waarvoor de Staat op grond van het Kaderbesluit EZ-subsidies, het Kaderbesluit nationale EZ-subsidies, het Besluit borgstelling MKB-kredieten 1997 of het Besluit borgstelling MKB-kredieten borg staat.    
 
 b. er is een tekort aan zekerheden bij de MKB-ondernemer, waardoor de kredietverstrekker, oordelend zoals een redelijk handelend en bekwaam financier in het kader van een actief en winstgericht beleid zou hebben gedaan zonder borgstelling, het krediet niet geheel voor eigen rekening en risico kan verstrekken;  
 
 c. de rentabiliteits- en continuïteitsperspectieven van de onderneming zijn bevredigend.    
 
-2. Het eerste lid, onderdeel a, onder 4, eerste gedachtenstreepje, is niet van toepassing op een MKB-ondernemer die gevestigd is in het openbaar lichaam Bonaire, Sint Eustatius of Saba.   
+2.In afwijking van het eerste lid voldoet een MKB-ondernemer die actief is in een van het toepassingsgebied van de de-minimis verordening uitgesloten sector, bedoeld in het eerste lid, onderdeel a, onder 5°, wel aan de criteria van de de-minimis verordening, indien: 
+
+a. de MKB-ondernemer ook actief is in één of meer van de sectoren of andere activiteiten verricht die onder de de-minimis verordening vallen, en  
+
+b. de financier aan de MKB-ondernemer door middel van de kredietovereenkomst de verplichting oplegt dat: 
+
+1°. de MKB-ondernemer het verleende krediet uitsluitend zal gebruiken voor de financiering van de activiteiten die zullen plaatsvinden binnen de sectoren die binnen het toepassingsgebied van de de-minimis verordening vallen, en  
+
+2°. de inrichting van de administratie van de MKB-ondernemer zodanig zal zijn dat voor zover de MKB-ondernemer activiteiten verricht die buiten het toepassingsgebied van de de-minimis verordening vallen, deze activiteiten zowel financieel als administratief gescheiden worden uitgevoerd van de activiteiten dat met deze subsidie wordt ondersteund.    
+
+3. Het eerste lid, onderdeel a, onder 5°, is niet van toepassing op een MKB-ondernemer die gevestigd is in het openbaar lichaam Bonaire, Sint Eustatius of Saba.   
 
 ### Artikel  5  
 
@@ -8327,15 +8134,15 @@ c. de rentabiliteits- en continuïteitsperspectieven van de onderneming zijn bev
 
 1. Ten tijde van het sluiten van een kredietovereenkomst uit hoofde waarvan een bedrijfsborgstellingskrediet aan een MKB-ondernemer wordt verstrekt, moet voorts aan de volgende criteria zijn voldaan: 
 
-a. de verlening van de borgstelling leidt er niet toe dat de MKB-ondernemer een bedrag van meer dan € 200.000 aan de-minimissteun ontvangt over de periode van het lopende en de twee voorafgaande fiscale jaren. Indien de onderneming actief is in het wegvervoer, geldt een maximum voor dit totaal van € 100.000. Een bedrijfsborgstellingskrediet wordt aangemerkt als de-minimissteun voor 13% van het staatsgegarandeerde deel van het krediet. Bij de bepaling of de verlening van de borgstelling niet leidt tot overschrijding van het desbetreffende maximum wordt rekening gehouden met de-minimissteun die is verleend aan ondernemingen die deel uitmaken van dezelfde groep;  
+a. de verlening van de borgstelling leidt er niet toe dat de MKB-ondernemer een bedrag van meer dan € 200.000 aan de-minimissteun ontvangt over de periode van het lopende en de twee voorafgaande fiscale jaren. Indien de onderneming actief is in het goederenvervoer over de weg, geldt een maximum voor dit totaal van € 100.000. Een bedrijfsborgstellingskrediet wordt aangemerkt als de-minimissteun voor 13% van het staatsgegarandeerde deel van het krediet. Bij de bepaling of de verlening van de borgstelling niet leidt tot overschrijding van het desbetreffende maximum wordt rekening gehouden met de-minimissteun die is verleend aan ondernemingen die deel uitmaken van één onderneming;  
 
 b. De kredietverstrekker heeft er voor zorg gedragen dat: 
 
 – zij de MKB-ondernemer in kennis heeft gesteld dat hij ingevolge de verstrekking van het bedrijfsborgstellingskrediet steun van de overheid ontvangt ter waarde van 13% van het staatsgegarandeerde deel van het krediet, en dat deze steun wordt aangemerkt als de-minimissteun;  
 
-– de MKB-ondernemer een schriftelijke verklaring heeft afgelegd over de de-minimissteun die hij of, indien hij deel uitmaakt van een groep, deze groep heeft ontvangen in het lopende en de twee voorafgaande fiscale jaren en schriftelijk heeft verklaard dat het totaal van deze de-minimissteun en de de-minimissteun ingevolge de verstrekking van het bedrijfsborgstellingskrediet niet meer bedraagt dan € 200.000 of, indien de onderneming actief is in het wegvervoer, niet meer bedraagt dan € 100.000;  
+– de MKB-ondernemer een schriftelijke verklaring heeft afgelegd over de de-minimissteun die hij of, indien hij deel uitmaakt van een groep, deze groep heeft ontvangen in het lopende en de twee voorafgaande fiscale jaren en schriftelijk heeft verklaard dat het totaal van deze de-minimissteun en de de-minimissteun ingevolge de verstrekking van het bedrijfsborgstellingskrediet niet meer bedraagt dan € 200.000 of, indien de onderneming actief is in het goederenvervoer over de weg, niet meer bedraagt dan € 100.000;  
 
-– de MKB-ondernemer schriftelijk heeft verklaard dat, voor zover het ontvangen van de-minimissteun ingevolge de verstrekking van het bedrijfsborgstellingskrediet samen gaat met het ontvangen van staatssteun voor dezelfde in aanmerking komende kosten, dit niet leidt tot een overschrijding van het maximale percentage van staatssteun dat in dit geval geldt ingevolge de desbetreffende groepsvrijstellingsverordening of het desbetreffende besluit van de Commissie.      
+– de MKB-ondernemer schriftelijk heeft verklaard dat, voor zover het ontvangen van de-minimissteun ingevolge de verstrekking van het bedrijfsborgstellingskrediet samen gaat met het ontvangen van staatssteun voor dezelfde in aanmerking komende kosten, of samen gaat met staatssteun ten behoeve van dezelfde risicofinancieringsmaatregel, dit niet leidt tot een overschrijding van de hoogste toepasselijke steunintensiteit of het hoogste toepasselijke steunbedrag dat in dit geval geldt ingevolge de desbetreffende groepsvrijstellingsverordening of een besluit dat de Commissie heeft vastgesteld.      
 
 2. Dit artikel is niet van toepassing op een kredietovereenkomst die wordt gesloten met een MKB-ondernemer die gevestigd is in het openbaar lichaam Bonaire, Sint-Eustatius of Saba.   
 
@@ -8377,9 +8184,9 @@ e. 4,5 procent indien de overeenkomst van borgtocht een bedrijfsborgstellingskre
 
 ####Maximale omvang van de borgstelling
 
-1. Voor de berekening van de omvang van de borgstelling wordt een bedrijfsborgstellingskrediet slechts in aanmerking genomen voor zover door de verstrekking van het bedrijfsborgstellingskrediet het totaal van de bedrijfsborgstellingskredieten, berekend per MKB-ondernemer of, indien de MKB-ondernemer deel uitmaakt van een groep, per groep een bedrag van € 1.500.000 niet overschrijdt.  
+1. Voor de berekening van de omvang van de borgstelling wordt een bedrijfsborgstellingskrediet slechts in aanmerking genomen voor zover door de verstrekking van het bedrijfsborgstellingskrediet het totaal van de bedrijfsborgstellingskredieten, berekend per MKB-ondernemer een bedrag van € 1.000.000 niet overschrijdt.  
 
-2. Voor de berekening van de omvang van de borgstelling wordt een starters-borgstellingskrediet slechts in aanmerking genomen voor zover door de verstrekking van dit krediet het totaal van de starters-borgstellingskredieten, berekend per MKB-ondernemer of, indien de MKB-ondernemer deel uitmaakt van een groep, per groep een bedrag van € 200.000 niet overschrijdt.  
+2. Voor de berekening van de omvang van de borgstelling wordt een starters-borgstellingskrediet slechts in aanmerking genomen voor zover door de verstrekking van dit krediet het totaal van de starters-borgstellingskredieten, berekend per MKB-ondernemer een bedrag van € 200.000 niet overschrijdt.  
 
 3. Voor de toepassing van het eerste lid wordt een bedrijfsborgstellingskrediet dat is verstrekt aan een andere MKB-ondernemer ten behoeve van een onderneming voor het drijven waarvan de MKB-ondernemer volledig aansprakelijk is, geacht aan de MKB-ondernemer te zijn verstrekt.  
 
@@ -8389,9 +8196,7 @@ e. 4,5 procent indien de overeenkomst van borgtocht een bedrijfsborgstellingskre
 
 a. bedrijfsborgstellingskredieten die op een eerder tijdstip overeenkomstig artikel 6 zijn gemeld, slechts voor het met overeenkomstige toepassing van de artikelen 9 en 10 berekende gedeelte van die bedrijfsborgstellingskredieten in aanmerking genomen;  
 
-b. kredieten, voor zover de Staat daarvoor op grond van het Kaderbesluit EZ-subsidies, het Kaderbesluit nationale EZ-subsidies, het Besluit borgstelling MKB-kredieten, of het Besluit borgstelling MKB-kredieten 1997 nog borg staat, als bedrijfsborgstellingskredieten in aanmerking genomen.    
-
-6. In afwijking van het eerste lid, overschrijdt het totaal van de bedrijfsborgstellingskredieten per kalenderjaar een bedrag van € 200.000 niet, indien de kredietverstrekker heeft aangegeven van de mogelijkheid, bedoeld in artikel 3, eerste lid, onderdeel k, subonderdeel 3°, gebruik te maken.   
+b. kredieten, voor zover de Staat daarvoor op grond van het Kaderbesluit EZ-subsidies, het Kaderbesluit nationale EZ-subsidies, het Besluit borgstelling MKB-kredieten, of het Besluit borgstelling MKB-kredieten 1997 nog borg staat, als bedrijfsborgstellingskredieten in aanmerking genomen.     
 
 ### Artikel  9  
 
@@ -8473,9 +8278,7 @@ b. indien het bedrijfsborgstellingskrediet is verstrekt aan een MKB-ondernemer d
 
 a. de bedragen die een kredietverstrekker-gelieerde uit hoofde van een overeenkomst aan de MKB-ondernemer ter leen verstrekt of zal verstrekken, en  
 
-b. de verplichtingen die een kredietverstrekker-gelieerde tegenover een derde, niet zijnde een andere kredietverstrekker-gelieerde of een rechtspersoon waarmee de kredietverstrekker in een groep verbonden is, onherroepelijk is aangegaan om ten laste van de MKB-ondernemer aan de derde een of meer betalingen te doen als bedoeld in artikel 1, tweede lid, onderdeel g, 3°, indien de zekerheden van de kredietverstrekker-gelieerde ter zake van de hiervoor onder a en b bedoelde bedragen en verplichtingen mede strekken tot zekerheid van de kredietverstrekker.    
-
-4. In afwijking van het eerste lid, aanhef en onderdeel b, bedraagt de omvang van de borgstelling ten hoogste drie maal de som van de ten tijde van de opzegging van de kredietovereenkomst bestaande en verstrekte financieringsfaciliteiten van de kredietverstrekker voor de MKB-ondernemer indien sprake is van een bedrijfsborgstellingskrediet, als bedoeld in artikel 3, eerste lid, onderdeel k, subonderdeel 3°.   
+b. de verplichtingen die een kredietverstrekker-gelieerde tegenover een derde, niet zijnde een andere kredietverstrekker-gelieerde of een rechtspersoon waarmee de kredietverstrekker in een groep verbonden is, onherroepelijk is aangegaan om ten laste van de MKB-ondernemer aan de derde een of meer betalingen te doen als bedoeld in artikel 1, tweede lid, onderdeel g, 3°, indien de zekerheden van de kredietverstrekker-gelieerde ter zake van de hiervoor onder a en b bedoelde bedragen en verplichtingen mede strekken tot zekerheid van de kredietverstrekker.     
 
 ### Artikel  13  
 
@@ -9501,7 +9304,7 @@ g. de ondernemer verplicht zich aan een door de minister als toezichthouder in d
 
 3°. anderszins binnen de door hem gestelde termijn alle door hem gewenste medewerking te verlenen;    
 
-h. de waarde van de lening die aan de ondernemer of, indien de ondernemer deel uitmaakt van een groep, aan de groep wordt verstrekt tezamen met het nog niet afgeloste deel van een of meer leningen die door een financier met toepassing van dit hoofdstuk aan de ondernemer onderscheidenlijk de groep is of zijn verstrekt of gelijktijdig wordt of worden verstrekt, bedraagt niet meer dan € 150.000.000;  
+h. de waarde van de lening die aan de ondernemer of, indien de ondernemer deel uitmaakt van een groep, aan de groep wordt verstrekt tezamen met het nog niet afgeloste deel van een of meer leningen die door een financier met toepassing van dit hoofdstuk aan de ondernemer onderscheidenlijk de groep is of zijn verstrekt of gelijktijdig wordt of worden verstrekt, bedraagt niet meer dan € 50.000.000;  
 
 i. de lening dient niet ter vervanging van een bestaande lening die is opgezegd om de reden dat een ondernemer niet meer aan de financiële ratio’s uit de leningovereenkomst kan voldoen, behoudens indien de bestaande lening wordt overgenomen door een andere financier die geen deel uitmaakt van de groep van de bestaande financier;  
 
@@ -9845,7 +9648,7 @@ f. een garantstelling heeft uitsluitend betrekking op een bankgarantie waarbij d
 
 – een of meer bankgarantiefaciliteiten of  
 
-– het nog niet afgeloste deel van een of meer leningen als bedoeld in artikel 3.13.2 van de Regeling nationale EZ-subsidies die door een financier met toepassing van titel 3.13 van die regeling aan de ondernemer onderscheidenlijk de groep is of zijn verstrekt of gelijktijdig wordt of worden verstrekt niet meer bedraagt dan € 150.000.000.    
+– het nog niet afgeloste deel van een of meer leningen als bedoeld in artikel 3.13.2 van de Regeling nationale EZ-subsidies die door een financier met toepassing van titel 3.13 van die regeling aan de ondernemer onderscheidenlijk de groep is of zijn verstrekt of gelijktijdig wordt of worden verstrekt niet meer bedraagt dan € 50.000.000.    
 
 g. de bankgarantiefaciliteit draagt zelfstandig bij aan het realiseren van een actief en winstgericht beleid van de financier;  
 
@@ -10387,19 +10190,19 @@ C. Leningnemer heeft in het kader van zijn subsidieaanvraag op basis waarvan de 
 
 1. In deze overeenkomst wordt verstaan onder: 
 
-– *kosten vernieuwingsfasetraject zijnde kosten voor experimentele ontwikkeling zoals bedoeld in het O&O&I-steunkader:*
+– *kosten vernieuwingsfasetraject zijnde kosten voor experimentele ontwikkeling zoals bedoeld in de algemene groepsvrijstellingsverordening:*
 
-(a) personeelskosten (onderzoekers, technici en ander ondersteunend personeel voor zover zij zich met het vernieuwingsfasetraject bezighouden);  
+a. personeelskosten: onderzoekers, technici en ander ondersteunend personeel voor zover zij zich met het vernieuwingsfasetraject bezighouden;  
 
-(b) kosten van apparatuur en uitrusting voor zover en voor zolang zij voor het vernieuwingsfasetraject worden gebruikt;  
+b. kosten van apparatuur en uitrusting voor zover en zolang zij worden gebruikt voor het vernieuwingsfasetraject. Wanneer deze apparatuur en uitrusting niet tijdens hun volledige levensduur voor het vernieuwingsfasetraject worden gebruikt, worden alleen de afschrijvingskosten overeenstemmend met de looptijd van het vernieuwingsfasetraject, berekend volgens algemeen erkende boekhoudkundige beginselen, als in aanmerking komende kosten beschouwd;  
 
-(c) kosten van huisvesting voor zover en voor zolang huisvesting voor het vernieuwingsfasetraject wordt gebruikt;  
+c. kosten van gebouwen en gronden voor zover en zolang zij worden gebruikt voor het vernieuwingsfasetraject. Wat gebouwen betreft, worden alleen de afschrijvingskosten overeenstemmend met de looptijd van het vernieuwingsfasetraject, berekend volgens algemeen erkende boekhoudkundige beginselen, als in aanmerking komende kosten beschouwd. Wat gronden betreft, komen de kosten voor de commerciële overdracht of de daadwerkelijk gemaakte kapitaalkosten in aanmerking;  
 
-(d) kosten van contractonderzoek, technische kennis en octrooien die tegen marktprijzen worden verworven bij of waarvoor een licentie wordt verleend door externe bronnen, mits de transactie conform het arm’s length-beginsel plaatsvindt en kosten voor consultancy en gelijkwaardige diensten die uitsluitend voor het vernieuwingsfasetraject worden gebruikt;  
+d. kosten van contractonderzoek, kennis en octrooien die op arm's length-voorwaarden worden gekocht bij of waarvoor een licentie wordt verleend door externe bronnen, alsmede kosten voor consultancy en gelijkwaardige diensten die uitsluitend voor het vernieuwingsfasetraject worden gebruikt;  
 
-(e) extra algemene vaste kosten die rechtstreeks uit het vernieuwingsfasetraject voortvloeien;  
+e. bijkomende algemene kosten en andere operationele uitgaven, waaronder die voor materiaal, leveranties en dergelijke producten, die rechtstreeks uit het vernieuwingsfasetraject voortvloeien;      
 
-(f) andere exploitatiekosten, waaronder die voor materiaal, leveranties en dergelijke producten, die rechtstreeks uit het voorfastrajectvoortvloeien;    
+– *arm’s length-voorwaarden:* voorwaarden van de transactie tussen de contractpartijen wijken niet af van die welke zouden zijn overeengekomen tussen onafhankelijke ondernemingen, en behelzen geen enkele vorm van heimelijke verstandhouding. Iedere transactie die voortvloeit uit een open, transparante en niet-discriminerende procedure wordt geacht te voldoen aan het arm's length-beginsel;
 
 –  *EU-referentierente:* de referentievoet , bedoeld in de Mededeling van de Commissie van 19 januari 2008 over de herziening van de methode waarmee de referentie- en disconteringspercentages worden vastgesteld (PbEU 2008, C 14), zoals laatstelijk vastgesteld voor Nederland;  
 

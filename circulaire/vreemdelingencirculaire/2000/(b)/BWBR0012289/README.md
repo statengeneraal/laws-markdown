@@ -188,15 +188,15 @@ De referent moet bij de indiening van de aanvraag alle daarvoor benodigde gegeve
 
 ####Afgifte mvv en inreis in Nederland
 
-De vreemdeling moet binnen drie maanden: 
+De vreemdeling moet binnen: 
 
-a. na de kennisgeving op de mvv-aanvraag in persoon verschijnen bij de Nederlandse diplomatieke of consulaire vertegenwoordiging in zijn land van herkomst of bestendig verblijf voor de vaststelling van zijn identiteit en afgifte van de mvv; en  
+a. drie maanden na de kennisgeving op de mvv-aanvraag in persoon verschijnen bij de Nederlandse diplomatieke of consulaire vertegenwoordiging in zijn land van herkomst of bestendig verblijf voor de vaststelling van zijn identiteit en afgifte van de mvv; en  
 
-b. na de datum van de afgifte van de mvv Nederland inreizen.   De vreemdeling of diens referent moet een nieuwe mvv-aanvraag indienen als: 
+b. 90 dagen na de datum van de afgifte van de mvv Nederland inreizen.   De vreemdeling of diens referent moet een nieuwe mvv-aanvraag indienen als: 
 
 * de vreemdeling later dan drie maanden na de dagtekening van de kennisgeving aan de referent in persoon verschijnt bij de Nederlandse diplomatieke of consulaire vertegenwoordiging om zijn mvv af te halen;  
 
-* de vreemdeling later dan drie maanden na datum van afgifte van de mvv Nederland inreist (niet binnen de geldigheidsduur van de afgegeven mvv); of  
+* de vreemdeling later dan 90 dagen na datum van afgifte van de mvv Nederland inreist (niet binnen de geldigheidsduur van de afgegeven mvv); of  
 
 * de vreemdeling na indiening van de mvv-aanvraag maar voor afgifte van de verblijfsvergunning zijn verblijfsdoel wil wijzigen.  
 ### 3.3.5  
@@ -660,7 +660,7 @@ Op grond van artikel 16, eerste lid, aanhef en onder i, Vw en artikel 3.77, zeve
 
 ####Illegaal verblijf
 
-Met inachtneming van artikel 17a Vw en artikel 3.77, achtste en negende lid, Vb wijst de IND de aanvraag voor een verblijfsvergunning regulier voor bepaalde tijd op grond van artikel 16, eerste lid, onder j, Vw af als de vreemdeling sinds de laatste uitzetting of het laatste gecontroleerde vertrek geen ononderbroken periode van ten minste vijf jaren buiten Nederland heeft verbleven. De IND wijst de aanvraag voor een verblijfsvergunning niet af op grond van artikel 16, eerste lid, onder j, Vw als een aan de vreemdeling opgelegd inreisverbod is opgeheven.   
+Met inachtneming van artikel 17a Vw en artikel 3.77, achtste en negende lid, Vb wijst de IND de aanvraag voor een verblijfsvergunning regulier voor bepaalde tijd op grond van artikel 16, eerste lid, onder j, Vw af als de vreemdeling sinds de laatste uitzetting of het laatste gecontroleerde vertrek geen ononderbroken periode van ten minste vijf jaren buiten Nederland heeft verbleven. De IND wijst de aanvraag voor een verblijfsvergunning niet af op grond van artikel 16, eerste lid, onder j, Vw als door de IND is vastgesteld dat de vreemdeling voor verlening van de gevraagde verblijfsvergunning in aanmerking komt die verband houdt met een beperking als opgesomd in artikel 6.6 VV.   
 ### 5  
 
 ####De verblijfsvergunning regulier voor bepaalde tijd
@@ -1035,9 +1035,9 @@ De IND beschouwt officiële documenten, afgegeven door de autoriteiten van het l
 
 ####Bewijsmiddelen afwijzingsgronden verblijfsvergunning regulier bepaalde tijd
 
-### Middelenvereiste 
+###Middelenvereiste
 
-### Inkomsten uit arbeid in loondienst 
+###Inkomsten uit arbeid in loondienst
 
 De IND beschouwt als bewijsmiddel, waaruit moet blijken dat de vreemdeling zelfstandig en duurzaam beschikt over voldoende middelen van bestaan uit arbeid in loondienst: 
 
@@ -1051,8 +1051,8 @@ De IND beschouwt als bewijsmiddel, waaruit moet blijken dat de vreemdeling zelfs
 
 * kopieën van jaaropgaven over de drie jaren voorafgaand aan de datum van indiening van de aanvraag; en  
 
-* (voor zover van toepassing) uitkeringsbeschikkingen en specificaties over de drie jaren voorafgaand aan de datum van indiening van de aanvraag.   
-### Inkomsten uit arbeid als zelfstandige 
+* (voor zover van toepassing) uitkeringsbeschikkingen en specificaties over de drie jaren voorafgaand aan de datum van indiening van de aanvraag.  
+###Inkomsten uit arbeid als zelfstandige
 
 De IND beschouwt als bewijsmiddel, waaruit moet blijken dat de vreemdeling zelfstandig en duurzaam beschikt over voldoende middelen van bestaan uit arbeid als zelfstandige: 
 
@@ -1073,7 +1073,7 @@ De IND beschouwt als bewijsmiddel, waaruit moet blijken dat de vreemdeling zelfs
 * jaarrekeningen; en  
 
 * maandelijkse opgaven van de bedrijfsresultaten over de anderhalf jaar voorafgaand aan de datum van indiening van de aanvraag.   
-### Inkomsten uit inkomensvervangende uitkering
+###Inkomsten uit inkomensvervangende uitkering
 
 De IND beschouwt als bewijsmiddel, waaruit moet blijken dat de vreemdeling zelfstandig en duurzaam beschikt over voldoende middelen van bestaan uit (een) inkomensvervangende uitkering(en): 
 
@@ -1091,20 +1091,20 @@ De IND beschouwt als bewijsmiddel, waaruit moet blijken dat de vreemdeling zelfs
 * de meest recente opgave van het inkomen aan de Belastingdienst; en  
 
 * bescheiden waaruit het eigen vermogen blijkt op het moment van de indiening van de aanvraag.   
-### Inkomsten uit overige bronnen 
+###Inkomsten uit overige bronnen
 
 De IND beschouwt als bewijsmiddel, waaruit moet blijken dat de vreemdeling zelfstandig en duurzaam beschikt over voldoende middelen van bestaan uit overige bronnen: 
 
 * bescheiden waaruit blijkt dat sprake is van inkomsten uit overige bronnen; en  
 
 * bescheiden waaruit blijkt dat over deze inkomsten de wettelijke belastingen zijn afgedragen.   
-### Geldig document voor grensoverschrijding
+###Geldig document voor grensoverschrijding
 
-De IND beschouwt een geldig – door Nederland erkend- paspoort als bewijsmiddel dat de vreemdeling beschikt over een geldig document voor grensoverschrijding waaruit zijn identiteit en nationaliteit blijkt. De IND beschouwt als bewijsmiddel dat niet over een geldig document voor grensoverschrijding kan worden beschikt door de vreemdeling, een schriftelijke verklaring van de autoriteiten van het land waarvan de vreemdeling onderdaan is waarin wordt gemotiveerd waarom de vreemdeling niet (meer) in het bezit wordt gesteld van een geldig document voor grensoverschrijding. Als de vreemdeling niet in het bezit is van een geldig paspoort en heeft aangetoond dat hij niet (meer) in het bezit kan worden gesteld van een geldig paspoort, beschouwt de IND aanvullende gegevens en bescheiden als bewijsmiddel waaruit zijn identiteit en nationaliteit moet blijken. 
-### Tbc-onderzoek
+De IND beschouwt een geldig – door Nederland erkend – paspoort als bewijsmiddel dat de vreemdeling beschikt over een geldig document voor grensoverschrijding waaruit zijn identiteit en nationaliteit blijkt. De IND beschouwt als bewijsmiddel dat niet over een geldig document voor grensoverschrijding kan worden beschikt door de vreemdeling, een schriftelijke verklaring van de autoriteiten van het land waarvan de vreemdeling onderdaan is waarin wordt gemotiveerd waarom de vreemdeling niet (meer) in het bezit wordt gesteld van een geldig document voor grensoverschrijding. Als de vreemdeling niet in het bezit is van een geldig paspoort en heeft aangetoond dat hij niet (meer) in het bezit kan worden gesteld van een geldig paspoort, beschouwt de IND aanvullende gegevens en bescheiden als bewijsmiddel waaruit zijn identiteit en nationaliteit moet blijken. 
+###Tbc-onderzoek
 
 De IND beschouwt een ingevulde en ondertekende ‘intentieverklaring tbc-onderzoek’ als bewijsmiddel, waaruit moet blijken dat de vreemdeling zich bereid verklaart een medisch onderzoek en eventuele behandeling van tbc te ondergaan. 
-### Openbare orde
+###Openbare orde
 
 De IND beschouwt als bewijsmiddel, waaruit moet blijken of de vreemdeling van 12 jaar of ouder strafbare feiten heeft begaan: 
 
@@ -1119,7 +1119,7 @@ De IND beschouwt als bewijsmiddel, waaruit moet blijken of de vreemdeling van 12
 * betaling van het opgelegde bedrag.   De IND beschouwt een door de vreemdeling overgelegd gewaarmerkt afschrift van het buitenlandse strafvonnis als bewijsmiddel voor de toepassing van de glijdende schaal. 
 ### Basisexamen inburgering buitenland
 
-De IND beschouwt een op naam van de vreemdeling gestelde resultatenbrief met resultaat ‘geslaagd’ als bewijsmiddel dat het basisexamen inburgering met goed gevolg is afgelegd. De IND beschouwt conform het Besluit inburgering en de Wet inburgering als bewijsmiddel, waaruit moet blijken dat de vreemdeling is vrijgesteld van het afleggen van het basisexamen inburgering: 
+De IND beschouwt een op naam van de vreemdeling gestelde resultatenbrief van het Ministerie van Buitenlandse Zaken met resultaat ‘geslaagd’ als bewijsmiddel dat het basisexamen inburgering met goed gevolg is afgelegd. Het basisexamen moet dan vóór 1 november 2014 zijn afgelegd. Als het basisexamen na 1 november 2014 is afgelegd dan ontvangt de vreemdeling de resultaten van Dienst Uitvoering Onderwijs (DUO); dit examen is een jaar geldig nadat het laatste examenonderdeel is behaald. De IND beschouwt conform het Besluit inburgering en de Wet inburgering als bewijsmiddel, waaruit moet blijken dat de vreemdeling is vrijgesteld van het afleggen van het basisexamen inburgering: 
 
 * een diploma of getuigschrift van een opleiding van wetenschappelijk onderwijs, hoger onderwijs, algemeen voortgezet onderwijs, beroepsonderwijs of leerlingwezen als de aanvrager onderwijs heeft gevolgd in de Nederlandse taal en in het bezit is van een op wettelijke basis uitgereikt diploma of getuigschrift van een hiergenoemde opleiding;  
 
@@ -1155,9 +1155,9 @@ b. dat de vreemdeling niet door eigen hulpmiddelen alsnog voldoende gezichts- of
 
 c. dat de vreemdeling anderszins door een geestelijke of lichamelijke belemmering blijvend niet is staat is het basisexamen inburgering af te leggen.     De IND beschouwt als bewijsmiddel ter onderbouwing van het beroep op de hardheidsclausule: 
 
-* bescheiden waaruit blijkt dat de vreemdeling die inspanningen heeft geleverd die in redelijkheid kunnen worden gevergd om het basisexamen inburgering met goed gevolg af te leggen. Dit kan onder meer blijken uit het één of meermalen afleggen van het basisexamen inburgering, waarbij bijvoorbeeld wel een positief resultaat is behaald voor de Toets Gesproken Nederlands en de toets Kennis van de Nederlandse Samenleving, maar geen positief resultaat is behaald voor de toets Geletterdheid en Begrijpend Lezen. Deze resultaten blijken uit de op naam van de vreemdeling gestelde resultatenbrief. Deze resultatenbrief ontvangt de vreemdeling van de Nederlandse diplomatieke of consulaire vertegenwoordiging in het buitenland na het afleggen van het basisexamen inburgering en voegt de vreemdeling bij de mvv-aanvraag. In het geval van een herbeoordeling is de brief rechtstreeks afkomstig van SZW; en  
+* bescheiden waaruit blijkt dat de vreemdeling die inspanningen heeft geleverd die in redelijkheid kunnen worden gevergd om het basisexamen inburgering met goed gevolg af te leggen. Dit kan onder meer blijken uit het één of meermalen afleggen van het basisexamen inburgering, waarbij bijvoorbeeld wel een positief resultaat is behaald voor de Toets Gesproken Nederlands / onderdeel Spreekvaardigheid en de toets Kennis van de Nederlandse Samenleving, maar geen positief resultaat is behaald voor de toets Geletterdheid en Begrijpend Lezen / onderdeel Leesvaardigheid. Deze resultaten afkomstig van het Ministerie van Buitenlandse Zaken of DUO voegt de vreemdeling bij de mvv-aanvraag; en  
 
-* bescheiden waaruit blijkt dat sprake is van een combinatie van zeer bijzondere individuele omstandigheden aan de hand waarvan de Minister van Sociale Zaken en Werkgelegenheid oordeelt of de vreemdeling niet in staat is om het basisexamen inburgering met goed gevolg af te leggen.    
+* bescheiden waaruit blijkt dat sprake is van een combinatie van zeer bijzondere individuele omstandigheden aan de hand waarvan de Minister van Sociale Zaken en Werkgelegenheid oordeelt of de vreemdeling niet in staat is om het basisexamen inburgering met goed gevolg af te leggen    
 ### 8.3.5  
 
 ####Bewijsmiddelen aanvraag verlenging verblijfsvergunning
@@ -1910,7 +1910,9 @@ In dit hoofdstuk zijn de beleidsregels opgenomen die gelden voor vreemdelingen d
 
 * artikel 1d, 1h en 1i Buwav;  
 
-* artikel 3.20a VV.    
+* artikel 3.20a VV;  
+
+* artikel 3.20b VV.    
 ### 2  
 
 ####Beleidsregels
@@ -2166,7 +2168,7 @@ Op grond van artikel 3.58, derde lid, aanhef en onder b, Vb en in aanvulling op 
 
 ####Arbeid als zelfstandige
 
-Op grond van artikel 3.58, vijfde lid, Vb verleent de IND de verblijfsvergunning voor de duur van maximaal twee jaar.  
+Op grond van artikel 3.58, vijfde lid, Vb verleent de IND de verblijfsvergunning regulier voor bepaalde tijd voor de duur van maximaal twee jaar. Op grond van artikel 3.58, zesde lid, Vb verleent de IND de verblijfsvergunning regulier voor bepaalde tijd voor de duur van maximaal een jaar.  
 ### 3.3.5  
 
 ####Houder van een Europese Blauwe Kaart
@@ -2249,11 +2251,60 @@ De IND beschouwt een bewijs van inschrijving in het BIG-register als bewijsmidde
 De IND beschouwt een gastovereenkomst als bedoeld in paragraaf B6/2.4 Vc als bewijsmiddel waaruit moet blijken dat de vreemdeling voldoet aan de voorwaarde als bedoeld in artikel 3.33, eerste lid, Vb.  
 ### 4.5  
 
-####Arbeid als zelfstandige
+####Startende ondernemer als bedoeld in artikel 3.30, zesde lid, Vb
+
+De IND beschouwt als bewijsmiddel waaruit blijkt dat de vreemdeling duurzaam beschikt over voldoende middelen van bestaan in de zin van artikel 3.20b, VV, uitsluitend een van de volgende bewijsmiddelen: 
+
+a. De vreemdeling zelf bekostigt de financiering: 
+
+* een afschrift van een bankrekening die mede of uitsluitend op naam van de vreemdeling is gesteld, waarop het saldo staat vermeld dat beschikbaar is; of  
+
+* een verklaring van de buitenlandse bank waar de vreemdeling een rekening heeft waaruit blijkt welk bedrag (maandelijks) ten gunste van de vreemdeling wordt overgemaakt op diens bankrekening in Nederland, die mede of uitsluitend op naam van de vreemdeling staat;    
+
+b. De begeleider bekostigt de financiering: 
+
+* De overeenkomst tussen de vreemdeling en de begeleider dat aan de vreemdeling financiële middelen worden toegekend;    
+
+c. Een derde persoon of rechtspersoon bekostigt de financiering: 
+
+* een verklaring van de bank waaruit blijkt welk bedrag maandelijks ten gunste van de vreemdeling wordt overgemaakt op diens bankrekening in Nederland gedurende het verblijf in Nederland; of  
+
+* een verklaring van de derde persoon of rechtspersoon welk bedrag maandelijks ten gunste van de vreemdeling wordt overgemaakt op diens de bankrekening in Nederland gedurende diens verblijf in Nederland; en  
+
+* een recent(e) bankafschrift of rekeningspecificatie waar het rekeningsaldo van de derde persoon of rechtspersoon op staat; en  
+
+* een kopie van het paspoort van de derde persoon.     De IND beschouwt als bewijsmiddel ten behoeve van de adviesaanvraag bij het Ministerie van EZ voor de beoordeling van de deskundigheid en betrouwbaarheid van de begeleider: 
+
+* een bewijs van inschrijving van de start-up van de vreemdeling in het Handelsregister van de Kamer van Koophandel;  
+
+* bewijsstukken waaruit blijkt dat de begeleider minimaal 2 jaar ervaring heeft in het begeleiden van startende ondernemers, zoals een eigen ondernemingsplan, voorbeelden van begeleide start-ups, referenties en/of het curriculum vitae (cv) van medewerkers waaruit ervaring blijkt;  
+
+* bewijsstukken waaruit blijkt dat de begeleider financieel gezond is, zoals recente jaarrekeningen, overeenkomsten met financiers, garantstellingen door financiers, accountantsverklaringen, bankafschriften en/of onderbouwde financiële prognoses.   De IND beschouwt als bewijsmiddel ten behoeve van de adviesaanvraag bij het Ministerie van EZ voor de vreemdeling (start-up): 
+
+* een bewijs van inschrijving van de start-up in het Handelsregister van de Kamer van Koophandel;  
+
+* een stappenplan van de vreemdeling dat informatie bevat over: 
+
+* de rol van de vreemdeling in de start-up (de organisatie);  
+
+* het idee voor het product of de dienst van de start-up;  
+
+* de innovatie van het product of de dienst;  
+
+* de activiteiten (stappen) die de startende ondernemer neemt in het eerste jaar om van idee tot onderneming te komen.    
+
+* een door beide partijen ondertekende overeenkomst tussen de vreemdeling en de begeleider dat informatie bevat over: 
+
+* de aard van de begeleiding (bijvoorbeeld de aangeboden faciliteiten, bijvoorbeeld over toegang tot coaching, technologie, onderzoek, bescherming intellectueel eigendom, marktonderzoek, financiering etc);  
+
+* de voorwaarden waaronder de begeleiding wordt aangeboden;  
+
+* het (mogelijk) belang van de begeleider in de onderneming.     De IND beschouwt als bewijsmiddel dat er geen familierechtelijk relatie is tussen de vreemdeling en de begeleider een verklaring waarin de vreemdeling bevestigd dat er geen familierechtelijke relatie (tot en met de derde graad) bestaat tussen de vreemdeling en de begeleider. 
+###Arbeid als zelfstandige
 
 De IND beschouwt als bewijsmiddel waaruit moet blijken dat de vreemdeling bevoegd is een beroep of onderneming uit te oefenen: 
 
-* een uittreksel van de inschrijving bij de Kamer van Koophandel; en  
+* een uittreksel uit het Handelsregister van de Kamer van Koophandel; en  
 
 * een document afgegeven door de bevoegde Nederlandse autoriteit dat de vreemdeling in het bezit is van de noodzakelijke vergunningen om een beroep of onderneming uit te oefenen.   De IND beschouwt een uittreksel uit het handelsregister met een omschrijving van het beroep of de bedrijfsactiviteiten die in de onderneming worden uitgeoefend als bewijsmiddel dat de onderneming is ingeschreven in het handelsregister. De IND beschouwt een volledig ingevulde en ondertekende ‘Bijlage verklaring inkomen zelfstandig ondernemer’ als bewijsmiddel (bijlage 13 VV) waaruit moet blijken dat de vreemdeling zelfstandig en duurzaam over voldoende middelen van bestaan beschikt. Financiële bewijsmiddelen ter staving van de aanvraag moeten zijn gecontroleerd door een daartoe bevoegde externe deskundige. De IND beschouwt als bewijsmiddel ten behoeve van de adviesaanvraag bij het Ministerie van EZ, het Ministerie van VWS of het Ministerie van OC&W: 
 
@@ -2293,8 +2344,8 @@ De IND beschouwt als bewijsmiddel waaruit moet blijken dat de vreemdeling bevoeg
 
 * gegevens met betrekking tot de voorgenomen investeringen (dit geldt facultatief voor Turkse vreemdelingen);  
 
-* als de vreemdeling een freelancer is: overeenkomst(en) van (de) opdracht(en) waaruit blijkt dat de vreemdeling in opdracht werkzaamheden als freelancer gaat uitvoeren.   
-### * * *Vriendschapsverdragen* * * 
+* als de vreemdeling een freelancer is: overeenkomst(en) van (de) opdracht(en) waaruit blijkt dat de vreemdeling in opdracht werkzaamheden als freelancer gaat uitvoeren.  
+###Vriendschapsverdragen
 
 De IND beschouwt als bewijsmiddel waaruit moet blijken dat de vreemdeling een aanzienlijk kapitaal heeft geïnvesteerd: 
 
@@ -2302,7 +2353,7 @@ De IND beschouwt als bewijsmiddel waaruit moet blijken dat de vreemdeling een aa
 
 * bij een Vennootschap onder firma: een oprichtingsakte of contract waarin staat hoe groot de financiële deelname is van iedere vennoot, de (openings)balans en een bankafschrift van de onderneming; of  
 
-* bij een Besloten Vennootschap en een Naamloze Vennootschap: de oprichtingsakte.     
+* bij een Besloten Vennootschap en een Naamloze Vennootschap: de oprichtingsakte.    
 ### 4.6  
 
 ####Houder van een Europese blauwe kaart in de zin van richtlijn 2009/50/EG 
@@ -3008,14 +3059,14 @@ De vreemdeling moet aannemelijk maken dat hij zich niet aan het geweld kan onttr
 
 ####Verlenging en intrekking
 
-### * * *Verlenging* * * 
+###Verlenging
 
-De IND verlengt de geldigheidsduur van de verblijfsvergunning regulier voor bepaalde tijd van het slachtoffer van eergerelateerd of huiselijk geweld niet. Het slachtoffer van eergerelateerd of huiselijk geweld kan na 1 jaar een aanvraag indienen voor een verblijfsvergunning onder de beperking ‘niet-tijdelijke humanitaire gronden’ (zie paragraaf B9/9): 
+De IND verlengt de geldigheidsduur van de verblijfsvergunning regulier voor bepaalde tijd van het slachtoffer van eergerelateerd of huiselijk geweld niet. Het slachtoffer van eergerelateerd of huiselijk geweld kan na 1 jaar een aanvraag indienen voor een verblijfsvergunning onder de beperking ‘niet-tijdelijke humanitaire gronden’ (zie paragraaf B9/11 Vc): 
 
 * bij voortduring van de dreiging in verband waarmee de verblijfsvergunning regulier voor bepaalde tijd is verleend; of  
 
-* of als sprake is van klemmende redenen van humanitaire aard.   
-### * * *Intrekking* * * 
+* of als sprake is van klemmende redenen van humanitaire aard.  
+###Intrekking
 
 De IND trekt de verblijfsvergunning in als naar het oordeel van het LEC EGG geen sprake meer is van een reële en langdurige dreiging van eergerelateerd geweld in Nederland en in het land van herkomst.  
 ### 2.3  
@@ -3891,17 +3942,19 @@ Op grond van artikel 3.51, eerste lid aanhef en onder k, Vb verleent de IND een 
 
 * de vreemdeling het hoofdverblijf niet buiten Nederland heeft verplaatst; en  
 
-* de aanvraag is ontvangen binnen twee jaar na verlies van het Nederlanderschap.    
+* de aanvraag is ontvangen binnen twee jaar na verlies van het Nederlanderschap op grond van artikel 15, eerste lid, aanhef en onder b, d of f, RWN. Het moet hierbij gaan om het afleggen van een verklaring van afstand in de zin van artikel 15, eerste lid, aanhef en onder b, nadat het Nederlanderschap is verleend en voordat het Nederlanderschap met toepassing van artikel 15, eerste lid, aanhef en onder d of f, RWN zou worden ingetrokken.    
 ### 2.3.2  
 
 ####Bijzondere voorwaarden oud-Nederlanders door intrekking (artikel 15, eerste lid, onder d en f, RWN)
 
-De IND verleent een verblijfsvergunning regulier voor bepaalde tijd als de vreemdeling in aanvulling op de in B9/2.2.1 genoemde voorwaarden ook voldoet aan de voorwaarde dat hij het Nederlanderschap heeft verloren op grond van artikel 15, eerste lid, aanhef en onder d of f, RWN.  
+Vervallen per 01-01-2015 
+
 ### 2.3.3  
 
 ####Bijzondere voorwaarden oud-Nederlanders door het afleggen van een verklaring van afstand (artikel 15, eerste lid, onder b, RWN)
 
-De IND verleent een verblijfsvergunning regulier voor bepaalde tijd als de vreemdeling in aanvulling op de in B9/2.2.1 genoemde voorwaarden ook voldoet aan de voorwaarde dat hij het Nederlanderschap heeft verloren door het afleggen van een verklaring van afstand, nadat het Nederlanderschap is verleend en voordat het Nederlanderschap met toepassing van artikel 15, eerste lid, aanhef en onder d of f, RWN zou worden ingetrokken.   
+Vervallen per 01-01-2015 
+
 ### 3  
 
 ####Vreemdelingen die buiten hun schuld niet uit Nederland kunnen vertrekken
@@ -4479,10 +4532,17 @@ In deze paragraaf zijn de beleidsregels opgenomen die gelden voor vreemdelingen 
 
 ####Beleidsregels
 
-### Nederlanders en het EU-recht
+Een familielid van een burger van de Unie verliest niet de rechten, die al aan het EU-recht werden ontleend als de burger van de Unie naturaliseert tot Nederlander (al dan niet met verlies van de oorspronkelijke nationaliteit).
+###Verblijfsrecht familielid bij terugkeer Nederlander na gebruik van recht op vrij verkeer
 
-In aanvulling op artikel 8.7 Vb geldt dat richtlijn 2004/38/EG niet van toepassing is op Nederlanders die ook de nationaliteit van een andere lidstaat hebben, die het recht van vrij verkeer nooit hebben uitgeoefend en die altijd hier te lande hebben verbleven. Een familielid van een burger van de Unie verliest niet de rechten, die al aan het EU-recht werden ontleend als de burger van de Unie naturaliseert tot Nederlander (al dan niet met verlies van de oorspronkelijke nationaliteit). 
-### Verblijf van verzorgende ouder bij Nederlands minderjarig kind
+Voor het uit een derde land afkomstige familielid van een Nederlander ontstaat een afgeleid verblijfsrecht op basis van artikel 21, eerste lid, VWEU als de Nederlander en het familielid: 
+
+* daadwerkelijk hebben verbleven in een andere lidstaat van de EU;  
+
+* gedurende de gehele periode van daadwerkelijk verblijf in de andere lidstaat hebben voldaan aan de voorwaarden genoemd in lid 1 of lid 2 van artikel 7 of in artikel 16 van richtlijn 2004/38/EG; en  
+
+* tijdens het daadwerkelijke verblijf in de andere lidstaat een gezinsleven hebben opgebouwd of bestendigd.   De IND neemt alleen aan dat het gezinsleven is opgebouwd of bestendigd bij een daadwerkelijk, aaneengesloten verblijf in de andere lidstaat van ten minste zes maanden. De IND verstrekt een document EU/EER (bijlage 7e, VV) aan het uit een derde land afkomstige familielid van een Nederlander als aan voornoemde vereisten is voldaan. De IND past gedurende het rechtmatige verblijf van het familielid van een Nederlander hoofdstuk 8, afdeling 2, paragraaf 2, van het Vb naar analogie toe.
+###Verblijf van verzorgende ouder bij Nederlands minderjarig kind
 
 Een vreemdeling heeft rechtmatig verblijf op grond van artikel 8 onder e, Vw als aan alle volgende voorwaarden wordt voldaan: 
 
@@ -4490,7 +4550,7 @@ Een vreemdeling heeft rechtmatig verblijf op grond van artikel 8 onder e, Vw als
 
 * dit kind komt ten laste van de vreemdeling, en woont in bij deze vreemdeling; en  
 
-* dit kind moet, bij het onthouden van verblijfsrecht aan de vreemdeling, de vreemdeling volgen en het grondgebied van de EU verlaten.   De IND neemt in ieder geval aan dat het kind de vreemdeling niet moet volgen en het grondgebied van de Unie niet moet verlaten als er een andere ouder is die rechtmatig verblijf heeft op grond van artikel 8, aanhef en onder a t/m e, dan wel l, Vw of de Nederlandse nationaliteit heeft, tenzij deze ouder feitelijk niet voor het kind kan zorgen. De IND neemt in ieder geval aan dat de andere ouder feitelijk voor het kind kan zorgen als: 
+* dit kind moet, bij het onthouden van verblijfsrecht aan de vreemdeling, de vreemdeling volgen en het grondgebied van de EU verlaten.   De IND neemt in ieder geval niet aan dat het kind de vreemdeling moet volgen en het grondgebied van de Europese Unie moet verlaten als er een andere ouder is die rechtmatig verblijf heeft op grond van artikel 8, aanhef en onder a t/m e, dan wel l, Vw of de Nederlandse nationaliteit heeft, en deze ouder feitelijk voor het kind kan zorgen. De IND neemt in ieder geval aan dat de andere ouder feitelijk voor het kind kan zorgen als: 
 
 * de andere ouder het gezag heeft over het kind, dan wel alsnog het gezag over het kind kan krijgen; en  
 
@@ -4498,33 +4558,31 @@ Een vreemdeling heeft rechtmatig verblijf op grond van artikel 8 onder e, Vw als
 
 * zich in detentie bevindt; of  
 
-* aantoont dat het gezag niet aan hem kan worden toegekend.   
-### Rechtstreekse bloedverwanten in neergaande lijn
+* aantoont dat het gezag niet aan hem kan worden toegekend.  
+###Rechtstreekse bloedverwanten in neergaande lijn
 
-In aanvulling op artikel 8.7, tweede lid, Vb stelt de IND adoptiefkinderen gelijk met rechtstreekse bloedverwanten in neergaande lijn. 
-### Ten laste zijn van
+In aanvulling op artikel 8.7, tweede lid, Vb stelt de IND adoptiefkinderen gelijk met rechtstreekse bloedverwanten in neergaande lijn.
+###Ten laste zijn van
 
-Als een familielid als bedoeld in artikel 8.7, tweede lid, aanhef en onder c en d, Vb en artikel 8.7, derde lid, Vb stelt ten laste te zijn van een burger van de Unie, dan beoordeelt de IND of dit familielid, op het moment dat dit familielid verzocht om hereniging met de burger van de Unie, in het land van herkomst of het land vanwaar het familielid kwam (d.w.z. niet in Nederland) gezien zijn financiële en sociale toestand materiële steun nodig had om in zijn basisbehoeften te kunnen voorzien. 
-### Duurzame relatie
+Als een familielid als bedoeld in artikel 8.7, tweede lid, aanhef en onder c en d, Vb en artikel 8.7, derde lid, Vb stelt ten laste te zijn van een burger van de Unie, dan beoordeelt de IND of dit familielid, op het moment dat dit familielid verzoekt om hereniging met de burger van de Unie, in het land van herkomst of het land vanwaar het familielid kwam (dat wil zeggen niet in Nederland) materieel wordt ondersteund door de burger van de Unie. Deze materiële ondersteuning moet noodzakelijk en reëel zijn. De IND neemt aan dat de materiële ondersteuning noodzakelijk is als het familielid vanwege zijn economische en sociale toestand niet (volledig) in zijn basisbehoeften voorziet. Waarom het familielid een beroep doet op materiële ondersteuning is niet van belang. De IND neemt aan dat de materiële ondersteuning reëel is als de burger van de Unie aan het familielid ten minste één jaar ononderbroken regelmatig een som geld heeft betaald welke voor het familielid noodzakelijk is om in zijn basisbehoeften te voorzien in zijn land van herkomst.
+###Duurzame relatie
 
 In aanvulling op artikel 8.7, vierde lid, Vb neemt de IND aan dat een duurzame relatie bestaat als de burger van de Unie en de ongehuwde partner: 
 
 * voorafgaand aan het moment van de aanvraag voor toetsing aan het EU-recht of het moment van beslissen gedurende een termijn van zes maanden een gezamenlijke huishouding voerden en gedurende die termijn feitelijk samenwoonden; of  
 
-* gezamenlijk een kind hebben.  
-
-* In alle gevallen moet het gaan om een bestaande duurzame relatie.   
-### Reële en daadwerkelijke arbeid
+* gezamenlijk een kind hebben.   In alle gevallen moet het gaan om een bestaande duurzame relatie.
+###Reële en daadwerkelijke arbeid
 
 In aanvulling op artikel 8.12, eerste lid, aanhef en onder a, Vb beschouwt de IND een burger van de Unie als werknemer of zelfstandige als deze reële en daadwerkelijke arbeid verricht. Van reële en daadwerkelijke arbeid is in ieder geval sprake als: 
 
 * de inkomsten uit arbeid meer bedragen dan 50% van de toepasselijke bijstandsnorm; of  
 
 * de burger van de Unie ten minste 40% van de gebruikelijke volledige arbeidstijd werkt.   
-### EU-grensarbeid
+###EU-grensarbeid
 
-Familieleden van een burger van de Unie die op grond van het EU-recht verblijven in een aan Nederland grenzende lidstaat, mogen in Nederland alleen arbeid verrichten als de werkgever beschikt over een geldige TWV, tenzij de Wav anders bepaalt. 
-### Beroepsopleiding
+Familieleden van een burger van de Unie die op grond van het EU-recht verblijven in een aan Nederland grenzende lidstaat, mogen in Nederland alleen arbeid verrichten als de werkgever beschikt over een geldige TWV, tenzij de Wav anders bepaalt.
+###Beroepsopleiding
 
 In aanvulling op artikel 8.12, eerste lid, aanhef en onder c, Vb verstaat de IND onder ‘beroepsopleiding’ iedere onderwijsvorm (inclusief stage) die opleidt voor een: 
 
@@ -4534,8 +4592,8 @@ In aanvulling op artikel 8.12, eerste lid, aanhef en onder c, Vb verstaat de IND
 
 * betrekking; of  
 
-* bijzondere bekwaamheid om een beroep uit te oefenen.   
-### Onvrijwillige werkloosheid
+* bijzondere bekwaamheid om een beroep uit te oefenen.  
+###Onvrijwillige werkloosheid
 
 In aanvulling op artikel 8.12, tweede lid, Vb beschouwt de IND de burger van de Unie in ieder geval niet als onvrijwillig werkloos als de burger van de Unie: 
 
@@ -4547,28 +4605,28 @@ In aanvulling op artikel 8.12, tweede lid, Vb beschouwt de IND de burger van de 
 
 * zich niet bij UWV WERKbedrijf als werkzoekende heeft ingeschreven; of  
 
-* meer dan een keer heeft geweigerd passende arbeid te aanvaarden.   
-### Voldoende middelen van bestaan voor vreemdeling als bedoeld in artikel 8.7, eerste lid, Vb en familieleden
+* meer dan een keer heeft geweigerd passende arbeid te aanvaarden.  
+###Voldoende middelen van bestaan voor de vreemdeling als bedoeld in artikel 8.7, eerste lid, Vb en familieleden
 
-De IND wijst de aanvraag voor toetsing aan het EU-recht van een familielid af als blijkt dat de vreemdeling als bedoeld in artikel 8.7, eerste lid, Vb op het moment van het indienen van de aanvraag geen reële en daadwerkelijke arbeid meer verricht of voor zichzelf en zijn familieleden niet (meer) beschikt over voldoende middelen van bestaan. 
-### Bewijs van rechtmatig verblijf
+De IND willigt de aanvraag voor toetsing aan het EU-recht van een familielid in als blijkt dat de vreemdeling als bedoeld in artikel 8.7, eerste lid, Vb op het moment dat op die aanvraag wordt beslist reële en daadwerkelijke arbeid verricht of voor zichzelf en zijn familieleden beschikt over voldoende middelen van bestaan.
+###Bewijs van rechtmatig verblijf
 
-In aanvulling op artikel 8.13, vierde lid, Vb verstrekt de IND aan een familielid dat wil verblijven bij een burger van de Unie onmiddellijk na indiening van de aanvraag voor toetsing aan het EU-recht de sticker ‘Verblijfsaantekening algemeen’ (VV bijlage 7g) met de aantekening dat het familielid mag werken. De IND verstrekt deze sticker niet als: 
+In aanvulling op artikel 8.13, vierde lid, Vb verstrekt de IND aan een familielid dat wil verblijven bij een burger van de Unie onmiddellijk na indiening van de aanvraag voor toetsing aan het EU-recht de sticker ‘Verblijfsaantekeningen Gemeenschapsonderdanen (bijlage 7h, VV) met de aantekening dat het familielid mag werken. In de volgende gevallen wordt geen sticker ‘Verblijfsaantekeningen gemeenschapsonderdanen’ (bijlage 7h, VV) afgegeven, maar een sticker ‘verblijfsaantekeningen algemeen’ (bijlage 7g, VV) waaruit blijkt dat arbeid niet is toegestaan: 
 
-* de familierechtelijke relatie met de burger van de Unie niet is aangetoond;  
+* de familierechtelijke relatie met de burger van de Unie is niet aangetoond;  
 
-* indicaties aanwezig zijn van een schijnrelatie of schijnhuwelijk; of  
+* er zijn indicaties aanwezig van een schijnrelatie of schijnhuwelijk; of  
 
-* niet deugdelijk is bewezen dat sprake is van een duurzame relatie.   
-### Volledige toegang van Roemenen, Bulgaren en Kroaten tot de Nederlandse arbeidsmarkt
+* er is niet deugdelijk bewezen dat sprake is van een duurzame relatie.  
+###Arbeidsmarktpositie van burgers van de Unie voor wie het vrije verkeer van werknemers nog niet geldt
 
-De IND stelt een Roemeen, Bulgaar of Kroaat in het bezit van een verblijfsdocument met de arbeidsmarktaantekening: ‘arbeid vrij toegestaan, TWV niet vereist’ als: 
+De IND stelt een burger van de Unie voor wie het vrije verkeer van werknemers nog niet geldt als gevolg van een overgangsmaatregel in het bezit van een verblijfsdocument met de arbeidsmarktaantekening: ‘arbeid vrij toegestaan, TWV niet vereist’ als: 
 
-* de Roemeen, Bulgaar of Kroaat ten minste twaalf maanden onafgebroken heeft beschikt over een verblijfsdocument met de arbeidsmarktaantekening: ‘arbeid vrij toegestaan, TWV niet vereist’;  
+* de burger van de Unie ten minste twaalf maanden onafgebroken heeft beschikt over een verblijfsdocument met de arbeidsmarktaantekening: ‘arbeid vrij toegestaan, TWV niet vereist’;  
 
-* aan de werkgever van de Roemeen, Bulgaar of Kroaat een TWV is verleend met een onafgebroken geldigheidsduur van ten minste twaalf maanden en gedurende de geldigheidsduur van de TWV ten minste twaalf maanden onafgebroken reële en daadwerkelijke arbeid is verricht bij die werkgever; of  
+* aan de werkgever van de burger van de Unie een TWV is verleend met een onafgebroken geldigheidsduur van ten minste twaalf maanden en gedurende de geldigheidsduur van de TWV ten minste twaalf maanden onafgebroken reële en daadwerkelijke arbeid is verricht bij die werkgever; of  
 
-* de Roemeen, Bulgaar of Kroaat ten minste twaalf maanden onafgebroken heeft beschikt over een verblijfsvergunning onder de beperking ‘arbeid als kennismigrant’.   In alle overige gevallen wordt de Roemeen, Bulgaar of Kroaat door de IND in het bezit gesteld van een verblijfsdocument met de arbeidsmarktaantekening: ‘Arbeid in loondienst alleen toegestaan met TWV' of in geval dat werkzaamheden worden verricht in het kader van grensoverschrijdende dienstverlening: 'TWV niet vereist voor specifieke arbeid, andere arbeid toegestaan mits TWV is verleend’. De IND telt bij de beoordeling of de Roemeen, Bulgaar of Kroaat volledige toegang heeft tot de arbeidsmarkt de geldigheidsduur van TWV’s die zijn verleend voor de duur van minder dan twaalf maanden bij elkaar op, op voorwaarde dat sprake is van een aaneengesloten periode. In aanvulling op artikel 8.13, vierde lid, Vb verstrekt de IND aan een familielid dat wil verblijven bij een Roemeen, Bulgaar of Kroaat onmiddellijk na indiening van de aanvraag voor toetsing aan het EU-recht de sticker ‘Verblijfsaantekening algemeen’ (VV bijlage 7g) met dezelfde aantekening als de Roemeen, Bulgaar of Kroaat.  
+* de burger van de Unie ten minste twaalf maanden onafgebroken heeft beschikt over een verblijfsvergunning onder de beperking ‘arbeid als kennismigrant’.   In alle overige gevallen wordt de burger van de Unie voor wie het vrije verkeer van werknemers nog niet geldt door de IND in het bezit gesteld van een verblijfsdocument met de arbeidsmarktaantekening: ‘Arbeid in loondienst alleen toegestaan met TWV' of in geval dat werkzaamheden worden verricht in het kader van grensoverschrijdende dienstverlening: 'TWV niet vereist voor specifieke arbeid, andere arbeid toegestaan mits TWV is verleend’. De IND telt bij de beoordeling of de burger van de Unie voor wie het vrije verkeer van werknemers nog niet geldt inmiddels volledige toegang heeft tot de arbeidsmarkt de geldigheidsduur van TWV’s die zijn verleend voor de duur van minder dan twaalf maanden bij elkaar op, op voorwaarde dat sprake is van een aaneengesloten periode. In aanvulling op artikel 8.13, vierde lid, Vb verstrekt de IND aan een familielid dat wil verblijven bij een burger van de Unie voor wie het vrije verkeer van werknemers nog niet geldt onmiddellijk na indiening van de aanvraag voor toetsing aan het EU-recht de sticker ‘Verblijfsaantekeningen algemeen’ (bijlage 7g, VV) met dezelfde aantekening als de verblijfgever.  
 ### 2.3  
 
 ####Ontzegging of beëindiging rechtmatig verblijf
@@ -4594,11 +4652,11 @@ Tenzij persoonlijke omstandigheden zich hiertegen verzetten, beëindigt de IND i
 
 * in de eerste twee jaar van dat verblijf een – al dan niet aanvullend – beroep doet op een uitkering in het kader van de Wwb of de eerste twee jaar van dat verblijf gedurende ten minste 8 nachten in totaal een beroep doet op maatschappelijke opvang (in de vorm van nachtverblijf);  
 
-* in het derde jaar van dat verblijf twee maanden of langer een eerste, meer dan aanvullend beroep doet op de Wwb of gedurende drie maanden of meer een aanvullend beroep doet op de Wwb of in het derde jaar van dat verblijf gedurende ten minste 16 nachten een beroep doet op maatschappelijke opvang (in de vorm van nachtverblijf); Een combinatie van beroep op bovengenoemde uitkering en beroep op maatschappelijke opvang die tezamen in financiële zin vergelijkbaar is met een beroep op bovengenoemde uitkering of een beroep op 16 of meer nachten in de maatschappelijke opvang wordt evenens als regel een onredelijke last geacht;  
+* in het derde jaar van dat verblijf twee maanden of langer een eerste, meer dan aanvullend beroep doet op de Wwb of gedurende drie maanden of meer een aanvullend beroep doet op de Wwb of in het derde jaar van dat verblijf gedurende ten minste 16 nachten een beroep doet op maatschappelijke opvang (in de vorm van nachtverblijf); Een combinatie van beroep op bovengenoemde uitkering en beroep op maatschappelijke opvang die tezamen in financiële zin vergelijkbaar is met een beroep op bovengenoemde uitkering of een beroep op 16 of meer nachten in de maatschappelijke opvang wordt eveneens als regel een onredelijke last geacht;  
 
-* in het vierde jaar van dat verblijf vier maanden of langer een eerste, meer dan aanvullend beroep doet op de Wwb of gedurende zes maanden of meer een aanvullend beroep doet op de Wwb of in het vierde jaar van dat verblijf gedurende ten minste 32 nachten een beroep doet op maatschappelijke opvang (in de vorm van nachtverblijf). Een combinatie van beroep op bovengenoemde uitkering en beroep op maatschappelijke opvang die tezamen in financiële zin vergelijkbaar is met een beroep op bovengenoemde uitkering of een beroep op 32 of meer nachten in de maatschappelijke opvang wordt evenens als regel een onredelijke last geacht;  
+* in het vierde jaar van dat verblijf vier maanden of langer een eerste, meer dan aanvullend beroep doet op de Wwb of gedurende zes maanden of meer een aanvullend beroep doet op de Wwb of in het vierde jaar van dat verblijf gedurende ten minste 32 nachten een beroep doet op maatschappelijke opvang (in de vorm van nachtverblijf). Een combinatie van beroep op bovengenoemde uitkering en beroep op maatschappelijke opvang die tezamen in financiële zin vergelijkbaar is met een beroep op bovengenoemde uitkering of een beroep op 32 of meer nachten in de maatschappelijke opvang wordt eveneens als regel een onredelijke last geacht;  
 
-* in het vijfde jaar van dat verblijf zes maanden of langer een eerste, meer dan aanvullend beroep doet op de Wwb of gedurende negen maanden of meer een aanvullend beroep doet op de Wwb of in het vijfde jaar van dat verblijf gedurende ten minste 64 nachten een beroep doet op maatschappelijke opvang (in de vorm van nachtverblijf). Een combinatie van beroep op bovengenoemde uitkering en beroep op maatschappelijke opvang die tezamen in financiële zin vergelijkbaar is met een beroep op bovengenoemde uitkering of een beroep op 64 of meer nachten in de maatschappelijke opvang wordt evenens als regel een onredelijke last geacht;  
+* in het vijfde jaar van dat verblijf zes maanden of langer een eerste, meer dan aanvullend beroep doet op de Wwb of gedurende negen maanden of meer een aanvullend beroep doet op de Wwb of in het vijfde jaar van dat verblijf gedurende ten minste 64 nachten een beroep doet op maatschappelijke opvang (in de vorm van nachtverblijf). Een combinatie van beroep op bovengenoemde uitkering en beroep op maatschappelijke opvang die tezamen in financiële zin vergelijkbaar is met een beroep op bovengenoemde uitkering of een beroep op 64 of meer nachten in de maatschappelijke opvang wordt eveneens als regel een onredelijke last geacht;  
 
 * in achtereenvolgende jaren van verblijf of binnen een jaar meermalen een beroep doet op een uitkering in het kader van de Wwb of in achtereenvolgende jaren van verblijf meermalen gedurende ten minste 8 nachten een beroep doet op maatschappelijke opvang (in de vorm van nachtverblijf) of een combinatie van beroep op bovengenoemde uitkering en beroep op maatschappelijke opvang doet; of  
 
@@ -4622,13 +4680,13 @@ Tenzij persoonlijke omstandigheden zich hiertegen verzetten, beëindigt de IND i
 
 * nabije toekomstverwachting of burger van de Unie nog bijstand nodig zal hebben.   Het is aan de betrokken burger van de Unie om relevante gegevens en bescheiden ter zake te verstrekken. Een (aanvullend) beroep op een uitkering in het kader van de Wwb heeft in ieder geval géén gevolgen voor het verblijfsrecht als de burger van de Unie of diens familielid: 
 
-* slachtoffer is van huiselijk geweld en dit op dezelfde wijze heeft aangetoond als bij de aanvraag voor een verblijfsvergunning regulier voor voortgezet verblijf na huiselijk geweld op grond van artikel 3.51, eerste lid, onder h; of  
+* slachtoffer is van huiselijk geweld en dit op dezelfde wijze heeft aangetoond als bij de aanvraag voor een verblijfsvergunning regulier onder een beperking verband houdend met niet-tijdelijke humanitaire gronden na huiselijk geweld op grond van artikel 3.51, eerste lid, onder k; of  
 
 * slachtoffer is van mensenhandel en voldoet aan de voorwaarden die worden gesteld aan verblijf als slachtoffer-aangever of getuige-aangever mensenhandel (zie paragraaf B8/3).   De IND beëindigt het verblijfsrecht van een burger van de Unie niet wegens een (aanvullend) beroep op een uitkering in het kader van de Wwb als: 
 
 * de burger van de Unie de verzorgende ouder is van een minderjarig kind dat is toegelaten tot het algemene onderwijs, het leerlingstelsel of de beroepsopleiding en gebruik maakt van het recht op onderwijs; en  
 
-* de burger van de Unie hier te lande als werknemer arbeid verricht of heeft verricht.   Het verblijfsrecht van de burger van de Unie die de verzorgende ouder is van een minderjarig kind, eindigt bij de meerderjarigheid van het kind, tenzij de aanwezigheid van de verzorgende ouder nodig is om de opleiding te kunnen voortzetten en voltooien. De IND verstaat onder een aanvullend beroep op een uitkering in het kader van de Wwb een beroep van maximaal 50% van de toepasselijke bijstandsnorm. Als de burger van de Unie of diens familielid een uitkering Wwb krijgt van meer dan 50% van de toepasselijke bijstandsnorm, dan beschouwt de IND dit als een meer dan aanvullend beroep.
+* de burger van de Unie hier te lande als werknemer arbeid verricht of heeft verricht.   Het verblijfsrecht van de burger van de Unie die de verzorgende ouder is van een minderjarig kind, eindigt bij de meerderjarigheid van het kind, tenzij de aanwezigheid van de verzorgende ouder nodig is om de opleiding te kunnen voortzetten en voltooien. De IND verstaat onder een aanvullend beroep op een uitkering in het kader van de Wwb een beroep van maximaal 50% van de toepasselijke bijstandsnorm. Als de burger van de Unie of diens familielid een uitkering Wwb krijgt van meer dan 50% van de toepasselijke bijstandsnorm, dan beschouwt de IND dit als een *meer* dan aanvullend beroep.
 ###Niet langer voldoen aan de voorwaarden en beëindiging EU-recht
 
 In aanvulling op artikel 8.16 Vb geldt dat de IND: 
@@ -4657,11 +4715,8 @@ Na een beslissing van de IND tot ontzegging of beëindiging van het rechtmatig v
 
 ### Hoofdregel bewijs 
 
-Tenzij anders is bepaald in Vb, VV, of Vc, geldt binnen het EU-recht de vrije bewijsleer. Vrije bewijsleer wil zeggen dat de IND de bewijsmiddelen niet beperkt. 
-### Nederlanders en EU recht 
-
-De IND beschouwt een EU-verblijfsdocument, afgegeven door de autoriteiten van de andere lidstaat, in beginsel als bewijsmiddel van verblijf in een andere lidstaat op grond van het EU-recht. 
-### Duurzame relatie 
+Tenzij anders is bepaald in Vb, VV, of Vc, geldt binnen het EU-recht de vrije bewijsleer. Vrije bewijsleer wil zeggen dat de IND de bewijsmiddelen niet beperkt.
+###Duurzame relatie
 
 In aanvulling op artikel 8.13, derde lid, Vb beschouwt de IND als bewijsmiddel: 
 
@@ -4669,10 +4724,10 @@ In aanvulling op artikel 8.13, derde lid, Vb beschouwt de IND als bewijsmiddel:
 
 * een bewijs van inschrijving als ingezetene in de BRP als de partners in Nederland samenwonen of recentelijk hebben samengewoond; of  
 
-* de geboorteakte van een kind dat uit de relatie is geboren.   
-### Voldoende middelen van bestaan burger van de Unie en familieleden 
+* de geboorteakte van een kind dat uit de relatie is geboren.  
+###Voldoende middelen van bestaan burger van de Unie en familieleden
 
-Bij de beoordeling van een aanvraag voor toetsing aan het EU-recht van een familielid beoordeelt de IND de inkomenspositie van de vreemdeling als bedoeld in artikel 8.7, eerste lid, Vb aan de hand van de bewijsmiddelen zoals genoemd in paragraaf B1/ 8.3.4 Vc.   
+Bij de beoordeling van een aanvraag voor toetsing aan het EU-recht van een familielid beoordeelt de IND de inkomenspositie van de burger van de Unie als bedoeld in artikel 8.7, eerste lid, Vb aan de hand van de bewijsmiddelen zoals genoemd in paragraaf B1/ 8.3.4 Vc.   
 ### 3  
 
 ####Internationale Verdragen
@@ -5151,7 +5206,7 @@ De IND verleent een verblijfsvergunning regulier voor onbepaalde tijd als wordt 
 
 * heeft het hoofdverblijf niet buiten Nederland verplaatst; en  
 
-* dient de aanvraag in binnen twee jaar na verlies van het Nederlanderschap op grond van artikel 15, eerste lid, aanhef en onder b, d en f, RWN.   De IND wijst deze aanvraag niet af als de vreemdeling: 
+* dient de aanvraag in binnen twee jaar na verlies van het Nederlanderschap op grond van artikel 15, eerste lid, aanhef en onder b, d of f, RWN. Het moet hierbij gaan om het afleggen van een verklaring van afstand in de zin van artikel 15, eerste lid, aanhef en onder b, nadat het Nederlanderschap is verleend en voordat het Nederlanderschap met toepassing van artikel 15, eerste lid, aanhef en onder d of f, RWN zou worden ingetrokken.   De IND wijst deze aanvraag niet af als de vreemdeling: 
 
 * op het moment waarop de aanvraag is ontvangen niet gedurende een periode van vijf jaren aaneengesloten rechtmatig verblijf in Nederland heeft gehad op grond van artikel 8, aanhef en onder a, c, e of l, Vw; of  
 
@@ -5160,12 +5215,14 @@ De IND verleent een verblijfsvergunning regulier voor onbepaalde tijd als wordt 
 
 ####Specifieke beleidsregels oud-Nederlanders door intrekking
 
-De IND verleent een verblijfsvergunning regulier voor onbepaalde tijd als de vreemdeling naast de in paragraaf B12/2.7.1.1 Vc genoemde voorwaarden ook voldoet aan de voorwaarde dat hij het Nederlanderschap heeft verloren op grond van artikel 15, eerste lid, aanhef en onder d of f, RWN. 
+Vervallen per 01-01-2015 
+
 ### 2.7.1.3  
 
 ####Specifieke beleidsregels oud-Nederlanders door het afleggen van een verklaring van afstand
 
-De IND verleent een verblijfsvergunning regulier voor onbepaalde tijd als de vreemdeling naast de in paragraaf B12/2.7.1.1 Vc genoemde voorwaarden ook voldoet aan de voorwaarde dat hij het Nederlanderschap heeft verloren door het afleggen van een verklaring van afstand, nadat het Nederlanderschap is verleend en voordat het Nederlanderschap met toepassing van artikel 15, eerste lid, aanhef en onder d of f, RWN wordt ingetrokken. 
+Vervallen per 01-01-2015 
+
 ### 2.7.2  
 
 ####Terugkeeroptie

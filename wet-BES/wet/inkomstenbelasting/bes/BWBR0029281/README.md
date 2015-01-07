@@ -4,7 +4,7 @@
 
 ### Artikel  A  
 
-De [hoofdstukken I](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) en [VIII van de Belastingwet BES](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) zijn van overeenkomstige toepassing op deze wet en de daarop berustende bepalingen. 
+De hoofdstukken I en VIII van de Belastingwet BES zijn van overeenkomstige toepassing op deze wet en de daarop berustende bepalingen. 
 
 ### Hoofdstuk  I  
 
@@ -13,7 +13,7 @@ De [hoofdstukken I](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.m
 ### Artikel  1  
 
 1.  Onder de naam van «inkomstenbelasting» wordt een belasting geheven, waaraan onderworpen zijn, zij, die op de BES eilanden wonen (binnenlandse belastingplichtigen).   
-2.  In afwijking in zoverre van [artikel 1.5 van de Belastingwet BES](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) geldt dat: 
+2.  In afwijking in zoverre van artikel 1.5 van de Belastingwet BES geldt dat: 
 
 a. zij, die de BES eilanden tijdelijk verlaten, geacht worden nog op de BES eilanden te wonen, indien hun afwezigheid korter dan één jaar duurt;  
 
@@ -98,9 +98,9 @@ f. stortingen van de werkgever ten name van de werknemer in een spaar- of voorzi
 
 g. de uitkeringen ontvangen bij uittreding uit een pensioenfonds of bij afkoop of beëindiging van pensioenaanspraken, voor zover de aanspraken worden ontleend aan onder het zesde lid van artikel 9 of onder het eerste lid van artikel 16, letter e, vallende bijdragen of premiën;  
 
-h. de uitkeringen van ongevallengelden en ziekengelden ingevolge de [Wet ongevallenverzekering BES](../../../../../wet-BES/wet/ongevallenverzekering/bes/BWBR0028497/README.md) en de [Wet ziekteverzekering BES](../../../../../wet-BES/wet/ziekteverzekering/bes/BWBR0028728/README.md).     
+h. de uitkeringen van ongevallengelden en ziekengelden ingevolge de Wet ongevallenverzekering BES en de Wet ziekteverzekering BES.     
 3.  De in het vorige lid onder b, c, d en e bedoelde voordelen worden gesteld op het verschil tussen de verkoopwaarde of, indien deze niet is te bepalen, de geldswaarde van de overgaande bestanddelen en de laatste fiscale boekwaarde daarvan.   
-4.  Onder «loon» en «dienstbetrekking» wordt in deze wet verstaan hetgeen daaronder wordt verstaan in [artikel 6](../../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md) onderscheidenlijk [artikel 3 van de Wet loonbelasting BES](../../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md).   
+4.  Onder «loon» en «dienstbetrekking» wordt in deze wet verstaan hetgeen daaronder wordt verstaan in artikel 6 onderscheidenlijk artikel 3 van de Wet loonbelasting BES.   
 5.  Bij het bepalen van de winst uit onderneming worden de aan het houden van een personenauto verbonden kosten geacht tot een bedrag van ten minste 15% van de nieuwwaarde, met inbegrip van de algemene bestedingsbelasting en de invoerrechten, van die auto niet te zijn gemaakt ten behoeve van de onderneming, tenzij de ondernemer aantoont dat die auto niet voor privé doeleinden, waaronder woon-werkverkeer, wordt gebruikt.   
 6.  Ingeval aan een belastingplichtige in verband met het verrichten van arbeid een personenauto ter beschikking is gesteld, wordt tot de inkomsten uit arbeid gerekend ten minste het bedrag waarmee 15% van de nieuwwaarde, met inbegrip van de algemene bestedingsbelasting en de invoerrechten, van die auto de vergoeding welke de belastingplichtige ter zake van het gebruik, anders dan ten behoeve van het verrichten van arbeid, verschuldigd is, te boven gaat, tenzij de belastingplichtige aantoont dat die auto niet voor privé doeleinden, waaronder woon-werkverkeer, wordt gebruikt.   
 7.  Als personenauto in de zin van dit artikel wordt mede beschouwd een automobiel bestemd voor zowel personen- als goederenvervoer.   
@@ -129,9 +129,9 @@ f. hetgeen bij inbreng van de activa en passiva van een bedrijf in een naamloze 
 
 g. het voordeel bedoeld in artikel 6 tweede lid onder e, mits de nieuwe verkrijger zich verplicht de verkregen activa en passiva met inbegrip van de goodwill in de openingsbalans te boek te stellen voor dezelfde waarden als waarvoor deze zijn opgenomen in de laatste fiscale winstbepalende balans van de overledene en de nieuwe verkrijger zich tevens tegenover de Inspecteur verplicht van het stelsel van waarderen, dat door de overledene werd toegepast, alleen af te wijken in de gevallen waarin goed koopmansgebruik ook aan de overledene zulks zou toestaan;  
 
-h. de premies door de werkgever betaald ingevolge de [Wet ongevallenverzekering BES](../../../../../wet-BES/wet/ongevallenverzekering/bes/BWBR0028497/README.md) en de [Wet ziekteverzekering BES](../../../../../wet-BES/wet/ziekteverzekering/bes/BWBR0028728/README.md);  
+h. de premies door de werkgever betaald ingevolge de Wet ongevallenverzekering BES en de Wet ziekteverzekering BES;  
 
-i. de toeslagen van de werkgever op het loon van de werknemer, ter compensering van de door de werknemer verschuldigde premies ingevolge de [Wet algemene ouderdomsverzekering BES](../../../../../wet-BES/wet/algemene/ouderdomsverzekering/bes/BWBR0028459/README.md) en de [Wet algemene weduwen- en wezenverzekering BES](../../../../../wet-BES/wet/algemene/weduwen-/en/wezenverzekering/bes/BWBR0028387/README.md);  
+i. de toeslagen van de werkgever op het loon van de werknemer, ter compensering van de door de werknemer verschuldigde premies ingevolge de Wet algemene ouderdomsverzekering BES en de Wet algemene weduwen- en wezenverzekering BES;  
 
 j. de verplichte bijdragen van de werkgever voor pensioenen en pensioenfondsen;  
 
@@ -330,7 +330,7 @@ g. het anders dan door overlijden ophouden op de BES eilanden te wonen, hieronde
 a. reguliere voordelen: op het tijdstip bepaald overeenkomstig artikel 16B;  
 
 b. vervreemdingsvoordelen: op het tijdstip van de vervreemding, met dien verstande dat in geval van het ophouden van de binnenlandse belastingplicht als tijdstip van genieten wordt aangemerkt het tijdstip dat onmiddellijk voorafgaat aan het ophouden van de binnenlandse belastingplicht.     
-10.  Het tweede lid is niet van toepassing op afkoop van pensioen, behoudens voor zover het betreft een overgang als bedoeld in [artikel 6B, tweede lid, tweede volzin, van de Wet loonbelasting BES](../../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md).   
+10.  Het tweede lid is niet van toepassing op afkoop van pensioen, behoudens voor zover het betreft een overgang als bedoeld in artikel 6B, tweede lid, tweede volzin, van de Wet loonbelasting BES.   
 11.  Het tweede lid is voorts niet van toepassing op afkoop van een recht op lijfrente als bedoeld in artikel 16, eerste lid, onderdeel e, behoudens voor zover het recht wordt omgezet in een ander recht op een soortgelijke lijfrente.  
 
 ### Artikel  12  
@@ -425,7 +425,7 @@ c. de in het eerste lid, onderdeel c, bedoelde uitgaven: ten hoogste USD 1.397 p
 
 a. ter zake van studiekosten: andere kosten dan school- of collegegeld, kosten van boeken en ander verplicht lesmateriaal niet zijnde voorwerpen als omschreven in artikel 9C, tweede lid, onderdeel a, alsmede kosten van interinsulair of internationaal vervoer, met dien verstande dat in geval van het eerste lid, onderdeel e, ten hoogste aftrekbaar is de met één reis per jaar per kind gemoeide kosten van vervoer;  
 
-b. de premie die verschuldigd is ingevolge de [Wet algemene verzekering bijzondere ziektekosten BES](../../../../../wet-BES/wet/algemene/verzekering/bijzondere/ziektekosten/bes/BWBR0028294/README.md).     
+b. de premie die verschuldigd is ingevolge de Wet algemene verzekering bijzondere ziektekosten BES.     
 4.  De in het eerste lid, onderdelen a, c en d, bedoelde uitgaven worden in aanmerking genomen voor zover zij gezamenlijk meer bedragen dan 5% van het inkomen, doch ten minste USD 838.   
 5.  Ten aanzien van de belastingplichtige aan wie de in artikel 20, tweede en derde lid, bedoelde bestanddelen van het inkomen van zijn echtgenoot worden toegerekend: 
 
@@ -505,7 +505,7 @@ b. zuivere opbrengst van arbeid;
 
 c. zuivere opbrengst van rechten op periodieke uitkeringen: 
 
-1°. ingevolge de [Wet algemene ouderdomsverzekering BES](../../../../../wet-BES/wet/algemene/ouderdomsverzekering/bes/BWBR0028459/README.md) en de [Wet algemene weduwen- en wezenverzekering BES](../../../../../wet-BES/wet/algemene/weduwen-/en/wezenverzekering/bes/BWBR0028387/README.md);  
+1°. ingevolge de Wet algemene ouderdomsverzekering BES en de Wet algemene weduwen- en wezenverzekering BES;  
 
 2°. genoten ter zake van studie;  
 
@@ -570,12 +570,12 @@ a. ten aanzien van binnenlandse belastingplichtigen: het belastbare inkomen verm
 
 3°. de kindertoeslag indien tot het huishouden van de belastingplichtige een kind behoort dat bij de aanvang van het kalenderjaar de leeftijd van 18 jaar niet heeft bereikt, en  
 
-4°. de ouderentoeslag indien de belastingplichtige bij de aanvang van het kalenderjaar de leeftijd heeft bereikt op grond waarvan hij ingevolge de [Wet algemene ouderdomsverzekering BES](../../../../../wet-BES/wet/algemene/ouderdomsverzekering/bes/BWBR0028459/README.md) in aanmerking zou komen voor een uitkering;    
+4°. de ouderentoeslag indien de belastingplichtige bij de aanvang van het kalenderjaar de leeftijd heeft bereikt op grond waarvan hij ingevolge de Wet algemene ouderdomsverzekering BES in aanmerking zou komen voor een uitkering;    
 
 b. ten aanzien van buitenlandse belastingplichtigen: het belastbare inkomen voor zover dit is verkregen uit de opbrengsten, bedoeld in artikel 17, eerste lid, aanhef en onderdelen a, b, c, d, g en h.     
-2.  De belastingvrije som bedraagt USD 11.661.   
-3.  De kindertoeslag bedraagt USD 1.496 per kind, doch niet meer dan USD 2.992.   
-4.  De ouderentoeslag bedraagt USD 1.318.   
+2.  De belastingvrije som bedraagt USD 11.860.   
+3.  De kindertoeslag bedraagt USD 1.522 per kind, doch niet meer dan USD 3.044.   
+4.  De ouderentoeslag bedraagt USD 1.341.   
 5.  In afwijking van het derde lid wordt de kindertoeslag op nihil gesteld indien: 
 
 a. het persoonlijk inkomen van de belastingplichtige lager is dan het persoonlijk inkomen van zijn echtgenoot;  
@@ -590,15 +590,15 @@ b. het persoonlijk inkomen van de belastingplichtige gelijk is aan het persoonli
 
 | Bij een belastbare som van meer dan  | doch niet meer dan  | bedraagt de belasting het in kolom III vermelde bedrag, vermeerderd met het bedrag berekend door het in kolom IV vermelde percentage te nemen van het gedeelte van de belastbare som dat het in kolom I vermelde bedrag te boven gaat  | I  | II  | III  | IV  |
 |:---|:---|:---|:---|:---|:---|:---|
-| –  | 269.568  | –  | 30,4%  |
-| 269.568  | –  | 81.949  | 35,4%  |
+| –  | 274.150  | –  | 30,4%  |
+| 274.150  | –  | 83.341  | 35,4%  |
 
-2.  Voor een belastingplichtige die premieplichtig is in de zin van de [Wet algemene ouderdomsverzekering BES](../../../../../wet-BES/wet/algemene/ouderdomsverzekering/bes/BWBR0028459/README.md), de [Wet algemene weduwen- en wezenverzekering BES](../../../../../wet-BES/wet/algemene/weduwen-/en/wezenverzekering/bes/BWBR0028387/README.md) of ingevolge de bij of krachtens de in [artikel 18.4.1 van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../wet-BES/invoeringswet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028063/README.md) bedoelde algemene maatregel van bestuur inzake de Zorgverzekering BES gestelde regels, wordt het op basis van het eerste lid berekende bedrag verminderd met het bedrag van de heffingskorting.   
+2.  Voor een belastingplichtige die premieplichtig is in de zin van de Wet algemene ouderdomsverzekering BES, de Wet algemene weduwen- en wezenverzekering BES of ingevolge de bij of krachtens de in artikel 18.4.1 van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba bedoelde algemene maatregel van bestuur inzake de Zorgverzekering BES gestelde regels, wordt het op basis van het eerste lid berekende bedrag verminderd met het bedrag van de heffingskorting.   
 3.  De heffingskorting bestaat uit de ouderdomsverzekeringskorting, de weduwen- en wezenverzekeringskorting en de zorgverzekeringskorting.   
-4.  De ouderdomsverzekeringskorting geldt voor de belastingplichtige die premieplichtig is in de zin van de [Wet algemene ouderdomsverzekering BES](../../../../../wet-BES/wet/algemene/ouderdomsverzekering/bes/BWBR0028459/README.md) en bedraagt het door Onze Minister van Sociale Zaken en Werkgelegenheid, in overeenstemming met Onze Minister, op basis van [artikel 27 van de Wet algemene ouderdomsverzekering BES](../../../../../wet-BES/wet/algemene/ouderdomsverzekering/bes/BWBR0028459/README.md) bij ministeriële regeling vastgestelde percentage vermenigvuldigd met de premiegrondslag waarover de belastingplichtige op grond van die wet premie verschuldigd is.   
-5.  De weduwen- en wezenverzekeringskorting geldt voor de belastingplichtige die premieplichtig is in de zin van de [Wet algemene weduwen en wezenverzekering BES](../../../../../wet-BES/wet/algemene/weduwen-/en/wezenverzekering/bes/BWBR0028387/README.md) en bedraagt het door Onze Minister van Sociale Zaken en Werkgelegenheid, in overeenstemming met Onze Minister, op basis van [artikel 30 van de Wet algemene weduwen- en wezenverzekering BES](../../../../../wet-BES/wet/algemene/weduwen-/en/wezenverzekering/bes/BWBR0028387/README.md) bij ministeriële regeling vastgestelde percentage vermenigvuldigd met de premiegrondslag waarover de belastingplichtige op grond van die wet premie verschuldigd is.   
-6.  De zorgverzekeringskorting geldt voor de belastingplichtige die premieplichtig is ingevolge de bij of krachtens de in [artikel 18.4.1 van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../wet-BES/invoeringswet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028063/README.md) bedoelde algemene maatregel van bestuur inzake de Zorgverzekering BES gestelde regels en bedraagt het door Onze Minister van Volksgezondheid, Welzijn en Sport, in overeenstemming met Onze Minister, op basis van die algemene maatregel van bestuur bij ministeriële regeling vastgestelde percentage vermenigvuldigd met de premiegrondslag waarover de belastingplichtige op grond van die algemene maatregel van bestuur premie verschuldigd is.   
-7.  Voor de toepassing van het vierde, vijfde en zesde lid wordt als premiegrondslag ten hoogste een bedrag van USD 30.140 in aanmerking genomen.   
+4.  De ouderdomsverzekeringskorting geldt voor de belastingplichtige die premieplichtig is in de zin van de Wet algemene ouderdomsverzekering BES en bedraagt het door Onze Minister van Sociale Zaken en Werkgelegenheid, in overeenstemming met Onze Minister, op basis van artikel 27 van de Wet algemene ouderdomsverzekering BES bij ministeriële regeling vastgestelde percentage vermenigvuldigd met de premiegrondslag waarover de belastingplichtige op grond van die wet premie verschuldigd is.   
+5.  De weduwen- en wezenverzekeringskorting geldt voor de belastingplichtige die premieplichtig is in de zin van de Wet algemene weduwen en wezenverzekering BES en bedraagt het door Onze Minister van Sociale Zaken en Werkgelegenheid, in overeenstemming met Onze Minister, op basis van artikel 30 van de Wet algemene weduwen- en wezenverzekering BES bij ministeriële regeling vastgestelde percentage vermenigvuldigd met de premiegrondslag waarover de belastingplichtige op grond van die wet premie verschuldigd is.   
+6.  De zorgverzekeringskorting geldt voor de belastingplichtige die premieplichtig is ingevolge de bij of krachtens de in artikel 18.4.1 van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba bedoelde algemene maatregel van bestuur inzake de Zorgverzekering BES gestelde regels en bedraagt het door Onze Minister van Volksgezondheid, Welzijn en Sport, in overeenstemming met Onze Minister, op basis van die algemene maatregel van bestuur bij ministeriële regeling vastgestelde percentage vermenigvuldigd met de premiegrondslag waarover de belastingplichtige op grond van die algemene maatregel van bestuur premie verschuldigd is.   
+7.  Voor de toepassing van het vierde, vijfde en zesde lid wordt als premiegrondslag ten hoogste een bedrag van USD 30.652 in aanmerking genomen.   
 8.  Indien in het belastbare inkomen persoonlijke lasten met betrekking tot een eigen woning als bedoeld in artikel 16, eerste lid, onderdeel h, onder 1°, zijn begrepen en de belastbare som: 
 
 a. meer bedraagt dan het in de eerste kolom van de tabel in het eerste lid, vermelde bedrag, of  
@@ -613,7 +613,7 @@ Het zuivere bedrag van de voordelen, bedoeld in artikel 11, eerste lid, onder 3�
 
 ### Artikel  24c  
 
-Indien de belastingplichtige ook premieplichtig is voor de algemene ouderdomsverzekering BES of de algemene weduwen- en wezenverzekering BES of inkomensafhankelijke premie verschuldigd is ingevolge [artikel 11 van het Besluit zorgverzekering BES](../../../../../AMvB-BES/besluit/zorgverzekering/bes/BWBR0029404/README.md), geschiedt de heffing van de belasting en premie door middel van één belastingaanslag en voor zover de heffing plaatsvindt bij wege van conserverende aanslag, door middel van één conserverende belastingaanslag. Hierbij zijn de regels die gelden voor de heffing en de invordering van de inkomstenbelasting van overeenkomstige toepassing. In dat geval wordt, indien [artikel 8.22 van de Belastingwet BES](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) toepassing vindt, die bepaling eenmaal toegepast. 
+Indien de belastingplichtige ook premieplichtig is voor de algemene ouderdomsverzekering BES of de algemene weduwen- en wezenverzekering BES of inkomensafhankelijke premie verschuldigd is ingevolge artikel 11 van het Besluit zorgverzekering BES, geschiedt de heffing van de belasting en premie door middel van één belastingaanslag en voor zover de heffing plaatsvindt bij wege van conserverende aanslag, door middel van één conserverende belastingaanslag. Hierbij zijn de regels die gelden voor de heffing en de invordering van de inkomstenbelasting van overeenkomstige toepassing. In dat geval wordt, indien artikel 8.22 van de Belastingwet BES toepassing vindt, die bepaling eenmaal toegepast. 
 
 ### Artikel  25  
 
@@ -706,9 +706,9 @@ De belasting wordt geheven bij wege van aanslag.
 
 Als voorheffing op de inkomstenbelasting wordt aangemerkt de geheven belasting, daaronder niet begrepen de bij naheffing toegepaste verhoging, ingevolge de: 
 
-a. [Wet loonbelasting BES](../../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md);  
+a. Wet loonbelasting BES;  
 
-b. Opbrengstbelasting als bedoeld in de [Belastingwet BES](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md);  
+b. Opbrengstbelasting als bedoeld in de Belastingwet BES;  
 
 c. bronheffing die ten aanzien van op de BES eilanden wonende belastingplichtigen wordt ingehouden door een land waarmee het Koninkrijk der Nederlanden ten behoeve van het voormalige land de Nederlandse Antillen een overeenkomst heeft gesloten betreffende automatische gegevensuitwisseling inzake inkomsten uit spaargelden in de vorm van rentebetaling.   
 
@@ -718,7 +718,7 @@ c. bronheffing die ten aanzien van op de BES eilanden wonende belastingplichtige
 
 a. de verschuldigde belasting de totale voorheffingen met meer dan USD 168 te boven gaat;  
 
-b. op grond van [artikel 8, vierde lid, van de Wet loonbelasting BES](../../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md) vermindering van loonbelasting is verleend;  
+b. op grond van artikel 8, vierde lid, van de Wet loonbelasting BES vermindering van loonbelasting is verleend;  
 
 c. de belastingplichtige binnen 18 maanden na afloop van het belastingjaar aangifte heeft gedaan.     
 2.  In het geval, bedoeld in het eerste lid, onderdeel c, wordt de aanslag vastgesteld op nihil en blijft verrekening van voorheffingen achterwege indien het totaal van die voorheffingen de verschuldigde belasting met niet meer dan USD 84 te boven gaat.   

@@ -41,7 +41,7 @@ f. die in het aan het kalenderjaar voorafgaande kalenderjaar reeds partner van d
 
 a. een bloedverwant in de eerste graad van de belastingplichtige, tenzij beiden bij de aanvang van het kalenderjaar de leeftijd van 27 jaar hebben bereikt;  
 
-b. een persoon die geen inwoner is van Nederland en niet kiest voor behandeling als binnenlandse belastingplichtige.     
+b. een persoon die geen inwoner is van Nederland en geen kwalificerende buitenlandse belastingplichtige als bedoeld in artikel 7.8 is.     
 5.  Personen die partners waren op grond van het eerste lid, blijven als partners aangemerkt nadat de in dat onderdeel bedoelde inschrijving op hetzelfde woonadres niet langer mogelijk is als gevolg van opname in een verpleeghuis of verzorgingshuis vanwege medische redenen of ouderdom van een van hen, zolang na het einde van die inschrijving op hetzelfde woonadres ten aanzien van geen van beiden een derde persoon als partner wordt aangemerkt. De eerste volzin vindt geen toepassing meer indien één van beiden door middel van een schriftelijke kennisgeving aan de inspecteur laat weten dat zij niet langer als partners willen worden aangemerkt. Bij ministeriële regeling kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit lid.   
 6.  Voor de toepassing van deze wet en de daarop berustende bepalingen worden twee ongehuwde personen die met toepassing van de vorige leden en artikel 5a van de Algemene wet inzake rijksbelastingen als elkaars partners worden aangemerkt, voor de bepaling van aanverwantschap gelijkgesteld met gehuwden. 
 
@@ -82,7 +82,7 @@ b.een aanspraak op het tegoed van een *lijfrentespaarrekening* of op de waarde v
 
 a. een pensioenregeling overeenkomstig de wettelijke bepalingen van de loonbelasting;  
 
-b. een pensioenregeling waaraan deelneming verplicht is op grond van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000, de Wet op het notarisambt of de Wet verplichte beroepspensioenregeling;  
+b. een pensioenregeling waaraan wordt deelgenomen op grond van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000, de Wet op het notarisambt of de Wet verplichte beroepspensioenregeling, zowel voor het deel waarvoor deelneming verplicht is (basispensioenregeling) als voor de vrijwillige aanvulling daarop.  
 
 c. een regeling van een andere mogendheid, die volgens de belastingwetten van dat land, welke naar aard en strekking overeenkomen met de Nederlandse loonbelasting of de inkomstenbelasting, als een pensioenregeling wordt beschouwd;  
 
@@ -90,7 +90,9 @@ d. een pensioenregeling van een internationale organisatie;
 
 e. een pensioenregeling als bedoeld in artikel 6A van de Wet loonbelasting BES.    
 3.  Aanspraken op periodieke uitkeringen waarvan de uitkeringen zijn ingegaan en waarvan de hoogte van de uitkeringen niet voor de gehele uitkeringsperiode in geldeenheden is vastgesteld, worden gelijkgesteld met aanspraken op vaste en gelijkmatige periodieke uitkeringen indien de aanspraken en uitkeringen voldoen aan bij ministeriële regeling te stellen regels.   
-4.  Een aanspraak op het tegoed van een lijfrentespaarrekening of op de waarde van een lijfrentebeleggingsrecht als bedoeld in het eerste lid, onderdeel b, is, voor zover de ter zake ingelegde bedragen in aanmerking konden worden genomen voor de bepaling van het belastbare inkomen uit werk en woning, niet vatbaar voor beslag. 
+4.  Een aanspraak op het tegoed van een lijfrentespaarrekening of op de waarde van een lijfrentebeleggingsrecht als bedoeld in het eerste lid, onderdeel b, is, voor zover de ter zake ingelegde bedragen in aanmerking konden worden genomen voor de bepaling van het belastbare inkomen uit werk en woning, niet vatbaar voor beslag.  
+5.  Onder een pensioenregeling als bedoeld in het tweede lid, onderdeel b, wordt mede begrepen hetgeen wordt verkregen als gevolg van de voldoening van een te hoge premie die niet is gecorrigeerd binnen zes maanden na afloop van het kalenderjaar, bedoeld in artikel 36, onderdeel c, van de Wet verplichte beroepspensioenregeling of artikel 26, onderdeel c, van de Pensioenwet.   
+6.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld op grond waarvan een regeling als bedoeld in het tweede lid, onderdeel b, die vrijwillig wordt voortgezet nadat de arbeidsverhouding op grond waarvan deelneming aan die pensioenregeling was verplicht is geëindigd, tevens als pensioenregeling wordt aangemerkt. 
 
 ### Artikel  1.8  
 
@@ -156,35 +158,25 @@ b.belastbare inkomen uit aanmerkelijk belang en
 
 c.belastbare inkomen uit sparen en beleggen.
 
-###Artikel 2.4 
+### Artikel  2.4  
 
 ####Bepalingen heffingsgrondslagen
 
-1. Het belastbare inkomen uit werk en woning wordt bepaald:
+1.  Het belastbare inkomen uit werk en woning wordt bepaald: 
 
-a.voor binnenlandse belastingplichtigen: volgens de regels van hoofdstuk 3;
+a. voor binnenlandse belastingplichtigen: volgens de regels van hoofdstuk 3;  
 
-b.voor buitenlandse belastingplichtigen: volgens de regels van afdeling 7.2.
-2. Het belastbare inkomen uit aanmerkelijk belang wordt bepaald:
+b. voor buitenlandse belastingplichtigen: volgens de regels van de afdelingen 7.2 en 7.5.     
+2.  Het belastbare inkomen uit aanmerkelijk belang wordt bepaald: 
 
-a.voor binnenlandse belastingplichtigen: volgens de regels van hoofdstuk 4;
+a. voor binnenlandse belastingplichtigen: volgens de regels van hoofdstuk 4;  
 
-b.voor buitenlandse belastingplichtigen: volgens de regels van afdeling 7.3.
-3. Het belastbare inkomen uit sparen en beleggen wordt bepaald:
+b. voor buitenlandse belastingplichtigen: volgens de regels van de afdelingen 7.3 en 7.5.     
+3.  Het belastbare inkomen uit sparen en beleggen wordt bepaald: 
 
-a.voor binnenlandse belastingplichtigen: volgens de regels van hoofdstuk 5;
+a. voor binnenlandse belastingplichtigen: volgens de regels van hoofdstuk 5;  
 
-b.voor buitenlandse belastingplichtigen: volgens de regels van afdeling 7.4.
-
-### Artikel  2.5  
-
-####Keuzerecht voor buitenlandse belastingplichtigen
-
-1.  De binnenlandse belastingplichtige die niet gedurende het gehele kalenderjaar in Nederland woont, en de buitenlandse belastingplichtige die als inwoner van een andere lidstaat van de Europese Unie, de BES eilanden of van een bij ministeriële regeling aangewezen andere mogendheid waarmee Nederland een regeling ter voorkoming van dubbele belasting is overeengekomen die voorziet in de uitwisseling van inlichtingen, in de belastingheffing van die lidstaat, de BES eilanden of die mogendheid wordt betrokken, kunnen kiezen voor toepassing van de regels van deze wet voor binnenlandse belastingplichtigen. Voor de toepassing van deze bepaling kunnen bij ministeriële regeling bewijsmiddelen worden voorgeschreven. Een persoon die niet belastingplichtig is kan kiezen voor toepassing van de regels van deze wet voor binnenlandse belastingplichtigen indien hij daardoor wordt aangemerkt als *partner* van een belastingplichtige. De persoonsgebonden aftrek (hoofdstuk 6) en de negatieve inkomsten uit gemeenschappelijke inkomensbestanddelen als bedoeld in artikel 2.17 blijven buiten aanmerking voorzover deze bij de partner bij de belastingheffing in de woonstaat of op de BES eilanden in aanmerking kunnen worden genomen.   
-2.  De keuze geldt niet voor toepassing van de artikelen 3.60, 3.83, 3.136, 4.16, eerste lid, onderdeel h, 4.17, 4.17a, 4.17b, 4.17c, 4.18, 4.25 en 9.2. De artikelen 7.2, achtste tot en met twaalfde lid, en 7.5, zevende lid, blijven van toepassing. Bij de toepassing van de artikelen 2.7, eerste en tweede lid, en 8.1, onderdeel b, blijft de zinsnede «na toepassing van regelingen ter voorkoming van dubbele belasting» buiten aanmerking. Artikel 8.9, derde lid, vindt geen toepassing.   
-3.  Indien de belastingplichtige niet langer kiest voor de toepassing van de regels van deze wet voor binnenlandse belastingplichtigen, wordt in het laatste jaar dat voorafgaat aan het eerste jaar waarin de binnenlandse belastingplichtige die niet gedurende het gehele kalenderjaar in Nederland woont, of de buitenlandse belastingplichtige niet heeft gekozen voor de regels die gelden voor binnenlandse belastingplichtigen, het inkomen vermeerderd met een bedrag dat gelijk is aan de in de laatste acht jaar ten laste van het inkomen gekomen negatieve bedragen die niet behoren tot het Nederlandse inkomen volgens artikel 7.1 en die negatieve bedragen die daartoe wel behoren maar waarover het heffingsrecht op grond van het belastingverdrag niet aan Nederland is toegewezen. De vorige volzin is niet van toepassing met betrekking tot negatieve bedragen uit kalenderjaren van binnenlandse belastingplicht en de persoonsgebonden aftrek als bedoeld in hoofdstuk 6.   
-4.   In gevallen als bedoeld in het derde lid, wordt de aanslag over het in dat lid bedoelde jaar verhoogd met het bedrag van de belastingkorting voor verlies uit aanmerkelijk belang dat in de laatste acht jaar in mindering is gebracht op de belasting op het belastbare inkomen uit werk en woning of de volgens artikel 10 van de Wet financiering sociale verzekeringen berekende premie voor de volksverzekeringen.   
-5.  Bij algemene maatregel van bestuur kunnen regels worden gesteld voor de vermindering van belasting en de verrekening van dividendbelasting voor dat deel van het belastbare inkomen dat niet behoort tot het Nederlandse inkomen volgens artikel 7.1, en dat deel dat wel daartoe behoort maar waarover het heffingsrecht op grond van het belastingverdrag niet aan Nederland is toegewezen.  
+b. voor buitenlandse belastingplichtigen: volgens de regels van de afdelingen 7.4 en 7.5.    
 
 ### Artikel  2.6  
 
@@ -206,7 +198,7 @@ a. het belastbare inkomen uit werk en woning;
 
 b. het belastbare inkomen uit aanmerkelijk belang en  
 
-c. het belastbare inkomen uit sparen en beleggen. Voor belastingplichtigen die gedurende het gehele kalenderjaar, dan wel gedurende het kalenderjaar vanaf hun geboorte of tot aan hun overlijden, onder de regels van deze wet voor binnenlandse belastingplichtigen vallen, wordt het op grond van de eerste volzin berekende gezamenlijke bedrag, na toepassing van regelingen ter voorkoming van dubbele belasting, verminderd met het bedrag van de heffingskorting voor de inkomstenbelasting (artikel 8.3).     
+c. het belastbare inkomen uit sparen en beleggen. Voor belastingplichtigen die gedurende het gehele kalenderjaar of een gedeelte daarvan binnenlandse belastingplichtige of kwalificerende buitenlandse belastingplichtige als bedoeld in artikel 7.8 zijn, wordt het op grond van de eerste volzin berekende gezamenlijke bedrag, na toepassing van regelingen ter voorkoming van dubbele belasting, verminderd met het bedrag van de heffingskorting voor de inkomstenbelasting (artikel 8.3).     
 2.  Indien de belastingplichtige ook premieplichtig is voor de volksverzekeringen en de volgens artikel 12, eerste lid, van de Wet financiering sociale verzekeringen berekende heffingskorting voor de volksverzekeringen niet volledig kan worden verrekend met de volgens artikel 10 van de Wet financiering sociale verzekeringen berekende premie voor de volksverzekeringen, wordt het bedrag van de verschuldigde inkomstenbelasting, na toepassing van regelingen ter voorkoming van dubbele belasting, ook met dat niet verrekende deel verminderd.  
 
 ### Artikel  2.8  
@@ -234,14 +226,14 @@ c. het belastbare inkomen uit sparen en beleggen. Voor belastingplichtigen die g
 
 1. De belasting op het belastbare inkomen uit werk en woning (afdeling 3.1 respectievelijk afdeling 7.2) wordt bepaald aan de hand van de volgende tabel.   
 
-| Bij een belastbaar inkomen uit werk en woning van meer dan | maar niet meer dan  | bedraagt de belasting het in kolom III vermelde bedrag, vermeerderd met het bedrag dat wordt berekend door het in kolom IV vermelde percentage te nemen van het gedeelte van de het belastbare loon dat het in kolom I vermelde bedrag te boven gaat | I  | II  | III  | IV  |
+| Bij een belastbaar inkomen uit werk en woning van meer dan  | maar niet meer dan  | bedraagt de belasting het in kolom III vermelde bedrag, vermeerderd met het bedrag dat wordt berekend door het in kolom IV vermelde percentage te nemen van het gedeelte van het belastbare inkomen uit werk en woning dat het in kolom I vermelde bedrag te boven gaat  | I  | II  | III  | IV  |
 |:---|:---|:---|:---|:---|:---|:---|
-| –  | € 19.645  | –  | 5,10%  |
-| € 19.645  | € 33.363  | € 1.001  | 10,85%  |
-| € 33.363  | € 56.531  | € 2.489  | 42%  |
-| € 56.531  | –  | € 12.219  | 52%  |
+| –  | € 19.822  | –  | 8,35%  |
+| € 19.822  | € 33.589  | € 1.655  | 13,85%  |
+| € 33.589  | € 57.585  | € 3.561  | 42,00%  |
+| € 57.585  | –  | € 13.639  | 52,00%  |
 
-2.  Indien bij het bepalen van het belastbare inkomen uit werk en woning aftrekbare kosten met betrekking tot een eigen woning als bedoeld in artikel 3.120 in aftrek zijn gebracht, bedraagt de belasting op het belastbare inkomen uit werk en woning het op basis van het eerste lid bepaalde bedrag vermeerderd met 0,5% van het bedrag waarmee de som van het belastbare inkomen uit werk en woning en de in aftrek gebrachte kosten met betrekking tot een eigen woning, het in de eerste kolom van de in het eerste lid opgenomen tabel laatstvermelde bedrag te boven gaat, doch ten hoogste met 0,5% van de in aftrek gebrachte kosten met betrekking tot een eigen woning. 
+2.  Indien bij het bepalen van het belastbare inkomen uit werk en woning aftrekbare kosten met betrekking tot een eigen woning als bedoeld in artikel 3.120 in aftrek zijn gebracht, bedraagt de belasting op het belastbare inkomen uit werk en woning het op basis van het eerste lid bepaalde bedrag vermeerderd met 1% van het bedrag waarmee de som van het belastbare inkomen uit werk en woning en de in aftrek gebrachte kosten met betrekking tot een eigen woning, het in de eerste kolom van de in het eerste lid opgenomen tabel laatstvermelde bedrag te boven gaat, doch ten hoogste met 1% van de in aftrek gebrachte kosten met betrekking tot een eigen woning. 
 
 ### Artikel  2.10a  
 
@@ -249,14 +241,14 @@ c. het belastbare inkomen uit sparen en beleggen. Voor belastingplichtigen die g
 
 1. In afwijking van artikel 2.10 wordt voor de belastingplichtige die geboren is vóór 1 januari 1946 de belasting op het belastbare inkomen uit werk en woning (afdeling 3.1 respectievelijk afdeling 7.2) bepaald aan de hand van de volgende tabel.  
 
-| Bij een belastbaar inkomen uit werk en woning van meer dan | maar niet meer dan  | bedraagt de belasting het in kolom III vermelde bedrag, vermeerderd met het bedrag dat wordt berekend door het in kolom IV vermelde percentage te nemen van het gedeelte van de het belastbare loon dat het in kolom I vermelde bedrag te boven gaat | I  | II  | III  | IV  |
+| Bij een belastbaar inkomen uit werk en woning van meer dan  | maar niet meer dan  | bedraagt de belasting het in kolom III vermelde bedrag, vermeerderd met het bedrag dat wordt berekend door het in kolom IV vermelde percentage te nemen van het gedeelte van het belastbare inkomen uit werk en woning dat het in kolom I vermelde bedrag te boven gaat  | I  | II  | III  | IV  |
 |:---|:---|:---|:---|:---|:---|:---|
-| –  | € 19.645  | –  | 5,10%  |
-| € 19.645  | € 33.555  | € 1.001  | 10,85%  |
-| € 33.555  | € 56.531  | € 2.510  | 42%  |
-| € 56.531  | –  | € 12.159  | 52%  |
+| –  | € 19.822  | –  | 8,35%  |
+| € 19.822  | € 33.857  | € 1.655  | 13,85%  |
+| € 33.857  | € 57.585  | € 3.598  | 42,00%  |
+| € 57.585  | –  | € 13.563  | 52,00%  |
 
-2.  Indien bij het bepalen van het belastbare inkomen uit werk en woning aftrekbare kosten met betrekking tot een eigen woning als bedoeld in artikel 3.120 in aftrek zijn gebracht, bedraagt de belasting op het belastbare inkomen uit werk en woning het op basis van het eerste lid bepaalde bedrag vermeerderd met 0,5% van het bedrag waarmee de som van het belastbare inkomen uit werk en woning en de in aftrek gebrachte kosten met betrekking tot een eigen woning, het in de eerste kolom van de in het eerste lid opgenomen tabel laatstvermelde bedrag te boven gaat, doch ten hoogste met 0,5% van de in aftrek gebrachte kosten met betrekking tot een eigen woning. 
+2.  Indien bij het bepalen van het belastbare inkomen uit werk en woning aftrekbare kosten met betrekking tot een eigen woning als bedoeld in artikel 3.120 in aftrek zijn gebracht, bedraagt de belasting op het belastbare inkomen uit werk en woning het op basis van het eerste lid bepaalde bedrag vermeerderd met 1% van het bedrag waarmee de som van het belastbare inkomen uit werk en woning en de in aftrek gebrachte kosten met betrekking tot een eigen woning, het in de eerste kolom van de in het eerste lid opgenomen tabel laatstvermelde bedrag te boven gaat, doch ten hoogste met 1% van de in aftrek gebrachte kosten met betrekking tot een eigen woning. 
 
 ###Artikel 2.11 
 
@@ -279,7 +271,7 @@ Voor de belastingplichtige die geen premie voor de algemene ouderdomsverzekering
 
 ####Tarief belastbaar inkomen uit aanmerkelijk belang
 
-De belasting op het belastbare inkomen uit aanmerkelijk belang (afdeling 4.1 respectievelijk afdeling 7.3) bedraagt 22%, met dien verstande dat de belasting 25% bedraagt op het gedeelte van dit inkomen dat € 250.000 te boven gaat.  
+De belasting op het belastbare inkomen uit aanmerkelijk belang (afdeling 4.1 respectievelijk afdeling 7.3) bedraagt 25%.  
 
 ### Artikel  2.13  
 
@@ -339,7 +331,7 @@ b. het rechtens dan wel in feite, direct of indirect, vervreemden van vermogensb
 
 1.  Voor de toepassing van deze wet, behoudens voorzover het de toepassing van artikel 2.16 betreft, wordt geen rekening gehouden met het wettelijk vruchtgenot van het vermogen van een minderjarig *kind*.   
 2.  Het belastbare resultaat uit overige werkzaamheden als bedoeld in de artikelen 3.91, eerste lid, onderdelen a en b, en derde lid, en 3.92, de belastbare inkomsten uit eigen woning, het belastbare inkomen uit aanmerkelijk belang, de rendementsgrondslag voor het belastbare inkomen uit sparen en beleggen en de op grond van artikel 9.2 ter zake als voorheffing in aanmerking te nemen geheven dividendbelasting, van een minderjarig kind worden toegerekend aan de ouder die het gezag over het kind uitoefent.   
-3.  Met de ouder die het gezag over het kind uitoefent, wordt, indien niet tevens een andere ouder het gezag uitoefent, gelijkgesteld de ouder die van het ouderlijk gezag is ontheven volgens artikel 266 van Boek 1 van het Burgerlijk Wetboek.   
+3.  Met de ouder die het gezag over het kind uitoefent, wordt, indien niet tevens een andere ouder het gezag uitoefent, gelijkgesteld de ouder van wie het gezag is beëindigd op grond van artikel 266 van Boek 1 van het Burgerlijk Wetboek.   
 4.  Indien het gezag over het kind aan meer dan één ouder toekomt, worden de in het tweede lid bedoelde inkomensbestanddelen, rendementsgrondslag en geheven dividendbelasting in gelijke delen aan ieder van hen toegerekend.   
 
 ###Artikel 2.16 
@@ -367,7 +359,7 @@ b. het inkomen uit aanmerkelijk belang vóór vermindering met de persoonsgebond
 
 c. de persoonsgebonden aftrek.     
 6.  Indien een persoonsgebonden aftrek van een belastingplichtige in aanmerking is genomen bij zijn partner wordt een met die aftrek verband houdende negatieve persoonsgebonden aftrek eveneens in aanmerking genomen bij die partner, zo die persoon nog steeds kan kwalificeren als partner van de belastingplichtige.   
-7.  Indien de belastingplichtige gedurende een deel van het kalenderjaar een partner heeft wordt hij voor de toepassing van dit artikel geacht het gehele kalenderjaar die partner te hebben gehad indien hij daarvoor samen met die partner kiest. De keuze wordt gemaakt bij verzoeken in verband met voorlopige teruggaaf of bij aangifte. De eerste volzin is niet van toepassing ingeval de belastingplichtige of zijn partner als gevolg van emigratie of immigratie niet het gehele kalenderjaar binnenlands belastingplichtig is en niet kiest voor toepassing van artikel 2.5.   
+7.  Indien de belastingplichtige gedurende een deel van het kalenderjaar een partner heeft wordt hij voor de toepassing van dit artikel geacht het gehele kalenderjaar die partner te hebben gehad indien hij daarvoor samen met die partner kiest. De keuze wordt gemaakt bij verzoeken in verband met voorlopige teruggaaf of bij aangifte. De eerste volzin is niet van toepassing ingeval de belastingplichtige of zijn partner als gevolg van emigratie of immigratie niet het gehele kalenderjaar binnenlands belastingplichtig is en geen kwalificerende buitenlandse belastingplichtige is als bedoeld in artikel 7.8.   
 8.  In afwijking van het vijfde lid en artikel 5.2, tweede lid, zijn het tweede tot en met het vierde lid ook van toepassing op de belastingplichtige en zijn partner, bedoeld in het zevende lid, derde volzin, over de periode waarin zij beiden binnenlands belastingplichtige zijn, mits de periode van binnenlandse belastingplicht gelijktijdig aanvangt en eindigt. Voor de toepassing van hoofdstuk 5 worden de belastingplichtige en zijn partner, bedoeld in de eerste volzin, geacht het gehele kalenderjaar dezelfde partner te hebben gehad.  
 9. Indien een keuze tot wijziging van de in het vierde lid bedoelde onderlinge verhouding zou moeten leiden tot een vermindering van een reeds onherroepelijk vaststaande aanslag, beslist de inspecteur binnen zes weken na ontvangst van de mededeling van die keuze bij een voor bezwaar vatbare beschikking. Rechtsmiddelen tegen de beschikking kunnen uitsluitend betrekking hebben op de toepassing van het vierde lid. Een beschikking als bedoeld in de eerste volzin biedt geen grond voor het opnieuw toepassen van het vierde lid.
 
@@ -556,7 +548,7 @@ h.voordelen die op de voet van artikel 32ab, eerste lid, van de Wet op de loonbe
 
 i. voordelen die worden genoten op grond van door Onze Minister in overeenstemming met Onze Minister van Infrastructuur en Milieu bij ministeriële regeling aan te wijzen mobiliteitsprojecten die worden gehouden in het kader van het project Anders betalen voor mobiliteit of die worden gehouden in het kader van het programma Beter Benutten, en 
 
-j. voordelen die worden genoten op grond van artikel 23 van de Wet op de jeugdzorg.    
+j. voordelen die worden genoten op grond van artikel 5.3 van de Jeugdwet.    
 2.  Op de voordelen bedoeld in het eerste lid, onderdeel d, en de voordelen op grond van een buitenlandse regeling die naar aard en strekking overeenkomt met een regeling als bedoeld in dat onderdeel, is artikel 2.14, eerste lid, niet van toepassing.  
 
 ### Artikel  3.14  
@@ -569,7 +561,7 @@ a. het voeren van een zekere staat;
 
 b. vaartuigen die worden gebruikt voor representatieve doeleinden;  
 
-c. geldboeten opgelegd door een Nederlandse strafrechter en geldsommen betaald aan de Staat ter voorkoming van strafvervolging in Nederland of ter voldoening aan een voorwaarde verbonden aan een besluit tot gratieverlening, bestuurlijke boeten, geldboeten opgelegd op basis van bij wet geregeld tuchtrecht, geldboeten opgelegd door een instelling van de Europese Unie, alsmede kosten als bedoeld in artikel 234, vijfde lid, en artikel 235, derde lid, van de Gemeentewet;  
+c. geldboeten opgelegd door een strafrechter en geldsommen betaald aan een staat of een onderdeel daarvan ter voorkoming van strafvervolging of ter voldoening aan een voorwaarde verbonden aan een besluit tot gratieverlening, bestuurlijke boeten en daarmee vergelijkbare buitenlandse boeten, geldboeten opgelegd op basis van bij wet geregeld tuchtrecht, geldboeten opgelegd door een instelling van de Europese Unie, alsmede kosten als bedoeld in artikel 234, vijfde lid, en artikel 235, derde lid, van de Gemeentewet; 
 
 d. misdrijven ter zake waarvan de belastingplichtige door een Nederlandse strafrechter bij onherroepelijke uitspraak is veroordeeld, daaronder begrepen de misdrijven die zijn betrokken bij de bepaling van de hoogte van de opgelegde straf en ter zake waarvan het Openbaar Ministerie heeft verklaard te zullen afzien van vervolging;  
 
@@ -579,17 +571,16 @@ f. wapens en munitie, tenzij ter zake een erkenning, consent, vergunning, verlof
 
 g. dieren die krachtens een onherroepelijke bestuursrechtelijke of strafrechtelijke maatregel in verband met agressie niet mogen worden gehouden, en  
 
-h.giften, beloften of diensten indien blijkt dat sprake is van een strafbaar feit als bedoeld in artikel 126, eerste lid, 177, 177a, 178, 178a, 328ter, tweede lid, of 328quater, tweede lid, van het Wetboek van Strafrecht.   
+h.giften, beloften of diensten indien blijkt dat sprake is van een strafbaar feit als bedoeld in artikel 126, eerste lid, 177, 178, 178a, 328ter, tweede lid, of 328quater, tweede lid, van het Wetboek van Strafrecht.   
 2.  Het eerste lid, onderdeel b, is niet van toepassing voorzover de onderneming direct is gericht op het vervaardigen of het verhandelen van vaartuigen die worden gebruikt voor representatieve doeleinden, dan wel op het verrichten van diensten in verband met die vaartuigen en die vaartuigen respectievelijk diensten deel uitmaken van de omzet.   
-3.  Onder bestuurlijke boete als bedoeld in het eerste lid, onderdeel c, wordt verstaan: een door een Nederlands bestuursorgaan bij beschikking opgelegde onvoorwaardelijke verplichting tot betaling van een geldsom, die is gericht op bestraffing van degene die een gedraging in strijd met het bepaalde bij of krachtens enig wettelijk voorschrift pleegt of medepleegt.   
-4.  Tot de in het eerste lid, onderdelen d en e, bedoelde kosten en lasten behoren niet: 
+3.  Tot de in het eerste lid, onderdelen d en e, bedoelde kosten en lasten behoren niet: 
 
 a. voldoening aan de Staat van een geldbedrag of overdracht van in beslag genomen voorwerpen, ter gehele of gedeeltelijke ontneming van wederrechtelijk verkregen voordelen en  
 
 b. vergoeding van door het misdrijf veroorzaakte schade.     
-5.  Voorzover kosten en lasten die verband houden met een misdrijf bij het bepalen van de winst in aanmerking zijn genomen in een of meer van de vijf jaren voorafgaande aan het jaar waarin de veroordeling, bedoeld in het eerste lid, onderdeel d, onherroepelijk is geworden, of waarin aan de gestelde voorwaarden, bedoeld in het eerste lid, onderdeel e, is voldaan, wordt het bedrag ter grootte van de som van deze kosten en lasten gerekend tot de positieve voordelen van de winst uit onderneming van het laatstbedoelde jaar.   
-6.  Voor de toepassing van het eerste lid, onderdelen d en e, wordt met de belastingplichtige gelijkgesteld degene die ten behoeve van de belastingplichtige opdracht heeft gegeven tot het misdrijf dan wel aan het misdrijf feitelijk leiding heeft gegeven.   
-7.  Bij het bepalen van de winst komen mede niet in aftrek: 
+4.  Voorzover kosten en lasten die verband houden met een misdrijf bij het bepalen van de winst in aanmerking zijn genomen in een of meer van de vijf jaren voorafgaande aan het jaar waarin de veroordeling, bedoeld in het eerste lid, onderdeel d, onherroepelijk is geworden, of waarin aan de gestelde voorwaarden, bedoeld in het eerste lid, onderdeel e, is voldaan, wordt het bedrag ter grootte van de som van deze kosten en lasten gerekend tot de positieve voordelen van de winst uit onderneming van het laatstbedoelde jaar.   
+5.  Voor de toepassing van het eerste lid, onderdelen d en e, wordt met de belastingplichtige gelijkgesteld degene die ten behoeve van de belastingplichtige opdracht heeft gegeven tot het misdrijf dan wel aan het misdrijf feitelijk leiding heeft gegeven.   
+6.  Bij het bepalen van de winst komen mede niet in aftrek: 
 
 a. geheven dividendbelasting en kansspelbelasting;  
 
@@ -599,7 +590,7 @@ b. belastingen die buiten Nederland in enige vorm naar de winst of bestanddelen 
 
 ####In aftrek beperkte algemene kosten
 
-1.  Bij het bepalen van de winst komen, onverminderd artikel 3.14, tot een bedrag van  € 4400 niet in aftrek kosten en lasten die verband houden met de volgende posten: 
+1.  Bij het bepalen van de winst komen, onverminderd artikel 3.14, tot een bedrag van  € 4.500 niet in aftrek kosten en lasten die verband houden met de volgende posten: 
 
 a. voedsel, drank en genotmiddelen;  
 
@@ -652,7 +643,7 @@ a. geheven loonbelasting en premie voor de volksverzekeringen;
 b. premies voor buitenlandse verzekeringen die naar aard en strekking overeenkomen met de volksverzekeringen, tenzij de belastingplichtige premieplichtig is voor de volksverzekeringen.     
 10.  Bij het bepalen van de winst komen voorts mede niet in aftrek, renten van schulden, kosten van geldleningen daaronder begrepen, die corresponderen met geldvorderingen als bedoeld in artikel 5.4, eerste lid.   
 11.  Voor de toepassing van dit artikel worden met de belastingplichtige gelijkgesteld personen die behoren tot zijn huishouden.   
-12.  Voor de toepassing van dit artikel wordt onder woning mede verstaan: een duurzaam aan een plaats gebonden schip of woonwagen als bedoeld in artikel 1, eerste lid, onder f, van de Huisvestingswet, alsmede de aanhorigheden van een schip of woonwagen. 
+12.  Voor de toepassing van dit artikel wordt onder woning mede verstaan: een duurzaam aan een plaats gebonden schip of woonwagen als bedoeld in artikel 1, onder l, van de Wet op de huurtoeslag, alsmede de aanhorigheden van een schip of woonwagen. 
 
 ### Artikel  3.17  
 
@@ -677,6 +668,38 @@ c. tot het privé-vermogen van de belastingplichtige behorende of door hem in pr
 3.  Indien een belastingplichtige uit meer dan een onderneming of werkzaamheid als bedoeld in afdeling 3.4 winst respectievelijk resultaat behaalt, worden de kosten en lasten van de posten, bedoeld in het eerste lid, onderdeel a, gezamenlijk bij één onderneming of werkzaamheid in aanmerking genomen.   
 4.  Voor de toepassing van dit artikel, behoudens het eerste lid, onderdeel c, worden met de belastingplichtige gelijkgesteld personen die behoren tot zijn huishouden.  
 
+### Artikel  3.18  
+
+####Premies voor beroeps- of bedrijfstakpensioenregeling
+
+1.  Bij het bepalen van de winst komen premies voor een *pensioenregeling* als bedoeld in artikel 1.7, tweede lid, onderdeel b, van de belastingplichtige uitsluitend in aftrek indien die regeling voldoet aan de in de artikelen 18, eerste lid en tweede lid, onderdeel b, 18a, tweede tot en met twaalfde lid, 18b, tweede tot en met achtste lid, 18c, tweede tot en met zevende lid, 18d, 18f en 18ga van de Wet op de loonbelasting 1964 en de bij of krachtens het vijfde lid gestelde normeringen en beperkingen. Bij de toepassing van de eerste volzin zijn de artikelen 19a, eerste lid, onderdelen a, b, c en f, en vierde lid, 19c en 19d van de Wet op de loonbelasting 1964 van overeenkomstige toepassing.   
+2.  Bij het bepalen van de winst komen niet in aftrek premies als bedoeld in het eerste lid, voor zover deze zijn gebaseerd op een hoger inkomen dan het voor de belastingplichtige geldende pensioengevend inkomen.   
+3.  Bij het bepalen van de winst komen mede niet in aftrek premies voor vrijwillige aanvulling als bedoeld in artikel 1.7, tweede lid, onderdeel b, voor zover deze per jaar meer bedragen dan een derde van de over dat jaar verschuldigde premies voor de basispensioenregeling.   
+4.  Voor de beoordeling of is voldaan aan de normeringen en beperkingen, bedoeld in het eerste lid, wordt verstaan onder: 
+
+a.  *werknemer:* deelnemer aan een pensioenregeling als bedoeld in artikel 1.7, tweede lid, onderdeel b;  
+
+b.  *gevallen voorzien bij of krachtens de Pensioenwet:* gevallen voorzien bij of krachtens de Pensioenwet, de Wet op het notarisambt of de Wet verplichte beroepspensioenregeling;  
+
+c.  *dienstjaar:* jaar waarin wordt deelgenomen in een pensioenregeling op grond van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000, de Wet op het notarisambt of de Wet verplichte beroepspensioenregeling;  
+
+d.  *pensioengevend loon:* pensioengevend inkomen, bestaande uit de winst uit onderneming vóór toevoeging aan en afneming van de oudedagsreserve en vóór de ondernemersaftrek en vermeerderd met de ten laste van de winst gebrachte premies uit hoofde van een pensioenregeling als bedoeld in artikel 1.7, tweede lid, onderdeel b, van de belastingplichtige, in het derde kalenderjaar voorafgaande aan het dienstjaar, bedoeld in onderdeel c, waarbij het pensioengevend inkomen ten minste wordt gesteld op nihil;  
+
+e.  *dienstbetrekking:* arbeidsverhouding als gevolg waarvan deelneming aan een pensioenregeling als bedoeld in artikel 1.7, tweede lid, onderdeel b, verplicht is op grond van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000, de Wet op het notarisambt of de Wet verplichte beroepspensioenregeling.     
+5.  Voor de toepassing van dit artikel kunnen bij of krachtens algemene maatregel van bestuur regels worden gesteld met betrekking tot: 
+
+a. de overeenkomstige toepassing van artikel 18a, vierde lid, vijfde lid, zevende lid, achtste lid, onderdeel a, tweede volzin, en negende lid, van de Wet op de loonbelasting 1964;  
+
+b. perioden die mede in aanmerking kunnen worden genomen als dienstjaren, alsmede de gedurende deze perioden met pensioengevend inkomen gelijk te stellen bedragen;  
+
+c. de met pensioengevend inkomen gelijk te stellen bedragen gedurende ten hoogste de eerste drie jaar van deelneming in een pensioenregeling op grond van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000, de Wet op het notarisambt of de Wet verplichte beroepspensioenregeling;  
+
+d. de situatie waarin het pensioengevend inkomen is verlaagd in verband met ziekte of arbeidsongeschiktheid van de deelnemer;  
+
+e. het met het bereikbaar pensioengevend loon, bedoeld in de artikelen 18b en 18c van de Wet op de loonbelasting 1964, gelijk te stellen bereikbaar pensioengevend inkomen;  
+
+f. de overeenkomstige toepassing van artikel 19a, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964.    
+
 ### Artikel  3.19  
 
 ####Bijtelling privé-gebruik woning
@@ -686,18 +709,18 @@ c. tot het privé-vermogen van de belastingplichtige behorende of door hem in pr
 
 | meer dan  | maar niet meer dan  | op jaarbasis  |
 |:---|:---|:---|
-| –  | € 12.500  | 0,95% van deze waarde  |
-| € 12.500  | € 25.000  | 1,20% van deze waarde  |
-| € 25.000  | € 50.000  | 1,35% van deze waarde  |
-| € 50.000  | € 75.000  | 1,50% van deze waarde  |
-| € 75.000  | € 1.040.000  | 1,70% van deze waarde  |
-| € 1.040.000  | –  | € 17.850 vermeerderd met 2,05% van de woningwaarde voor zover deze uitgaat boven € 1.040.000  |
+| –  | € 12.500  | 1,05% van deze waarde  |
+| € 12.500  | € 25.000  | 1,35% van deze waarde  |
+| € 25.000  | € 50.000  | 1,50% van deze waarde  |
+| € 50.000  | € 75.000  | 1,65% van deze waarde  |
+| € 75.000  | € 1.050.000  | 1,80% van deze waarde  |
+| € 1.050.000  | –  | € 18 900 vermeerderd met 2,20% van de woningwaarde voor zover deze uitgaat boven € 1 050 000  |
 
 3.  De woningwaarde is de volgens hoofdstuk IV van de Wet waardering onroerende zaken voor die woning vastgestelde waarde of waarden voor het kalenderjaar van de onttrekking. Indien een woning deel uitmaakt van een onroerende zaak als bedoeld in artikel 16 van de Wet waardering onroerende zaken, wordt de woningwaarde gesteld op het gedeelte van de waarde van de onroerende zaak dat kan worden toegerekend aan die woning.   
 4.  Indien met betrekking tot een woning het derde lid geen toepassing kan vinden door het ontbreken van een op grond van hoofdstuk IV van de Wet waardering onroerende zaken vastgestelde waarde, is de woningwaarde de waarde van de woning die wordt bepaald met overeenkomstige toepassing van het bepaalde bij of krachtens de artikelen 16 tot en met 18 en 20, tweede lid, van die wet en van het derde lid, tweede volzin.   
 5.  Voor de toepassing van dit artikel: 
 
-a. wordt onder woning mede verstaan: een duurzaam aan een plaats gebonden schip of woonwagen als bedoeld in artikel 1, eerste lid, onder f, van de Huisvestingswet;
+a. wordt onder woning mede verstaan: een duurzaam aan een plaats gebonden schip of woonwagen als bedoeld in artikel 1, onder l, van de Wet op de huurtoeslag;
 
 b.blijft onder woning begrepen een werkruimte waarvan de kosten en lasten, indien die werkruimte niet tot het ondernemingsvermogen zou behoren, ingevolge artikel 3.16, eerste lid, niet in aftrek zouden komen.   
 
@@ -710,42 +733,37 @@ b.blijft onder woning begrepen een werkruimte waarvan de kosten en lasten, indie
 a. 25% van de waarde van de auto als onttrekking in aanmerking genomen indien de auto niet meer dan 15 jaar geleden voor het eerst in gebruik is genomen;  
 
 b. 35% van de waarde van de auto als onttrekking in aanmerking genomen indien de auto meer dan 15 jaar geleden voor het eerst in gebruik is genomen.  De auto wordt in ieder geval geacht ook voor privé-doeleinden ter beschikking te staan tenzij blijkt dat de auto op jaarbasis voor niet meer dan 500 kilometer voor privé-doeleinden wordt gebruikt.  
-2.  Indien de auto wordt aangedreven door een motor met compressieontsteking, wordt de onttrekking, bedoeld in het eerste lid, eerste volzin, op jaarbasis verlaagd met: 
+2.  De onttrekking, bedoeld in het eerste lid, eerste volzin, wordt op jaarbasis verlaagd met: 
 
-a. 11% van de waarde van de auto indien de CO<sub>2</sub>-uitstoot niet hoger is dan 85 gram per kilometer, en  
+a. 11% van de waarde van de auto indien de CO<sub>2</sub>-uitstoot niet hoger is dan 82 gram per kilometer;  
 
-b. 5% van de waarde van de auto indien de CO<sub>2</sub>-uitstoot hoger is dan 85 gram per kilometer, maar niet hoger is dan 111 gram per kilometer.   In afwijking van de eerste volzin wordt de onttrekking, bedoeld in het eerste lid, eerste volzin, tot 1 januari 2016 op jaarbasis verlaagd met 21% van de waarde van de auto indien de CO<sub>2</sub>-uitstoot 0 gram per kilometer is en met 18% van de waarde van de auto indien de CO<sub>2</sub>-uitstoot hoger is dan 0 gram per kilometer, maar niet hoger is dan 50 gram per kilometer.  
-3.  Indien de auto niet wordt aangedreven door een motor met compressieontsteking, wordt de onttrekking, bedoeld in het eerste lid, eerste volzin, op jaarbasis verlaagd met: 
+b. 5% van de waarde van de auto indien de CO<sub>2</sub>-uitstoot hoger is dan 82 gram per kilometer, maar niet hoger dan 110 gram per kilometer.   In afwijking van de eerste volzin wordt de onttrekking, bedoeld in het eerste lid, eerste volzin, tot 1 januari 2016 op jaarbasis verlaagd met 21% van de waarde van de auto indien de CO<sub>2</sub>-uitstoot 0 gram per kilometer is en met 18% van de waarde van de auto indien de CO<sub>2</sub>-uitstoot hoger is dan 0 gram per kilometer, maar niet hoger is dan 50 gram per kilometer.   
+3.  Indien uit een rittenregistratie of anderszins blijkt dat de auto op jaarbasis voor niet meer dan 500 kilometer voor privé-doeleinden wordt gebruikt, wordt de onttrekking gesteld op nihil.   
+4.  Voor de toepassing van dit artikel en de daarop berustende bepalingen wordt onder auto verstaan een personenauto of bestelauto als bedoeld in artikel 3 van de Wet op de belasting van personenauto's en motorrijwielen 1992, met uitzondering van de bestelauto die door aard of inrichting uitsluitend of nagenoeg uitsluitend geschikt blijkt te zijn voor vervoer van goederen.   
+5. Voor de toepassing van dit artikel is de CO<sub>2</sub>-uitstoot van een auto, de CO<sub>2</sub>-uitstoot gemeten overeenkomstig bijlage XII bij Verordening (EG) nr. 692/2008 van de Commissie van 18 juli 2008 tot uitvoering en wijziging van Verordening (EG) nr. 715/2007 van het Europees Parlement en de Raad betreffende de type goedkeuring van motorvoertuigen met betrekking tot emissies van lichte personen- en bedrijfsvoertuigen (Euro 5 en Euro 6) en de toegang tot reparatie- en onderhoudsinformatie (PbEU 2008, L 199). Indien de meting mede met LPG of aardgas als brandstof is uitgevoerd, wordt de CO<sub>2</sub>-uitstoot van de auto met LPG of aardgas als brandstofsoort gehanteerd. 
+6.  Bij ministeriële regeling kunnen regels worden gesteld waaraan een rittenregistratie moet voldoen. Tevens kunnen regels worden gesteld over het anderszins laten blijken dat de auto op jaarbasis voor niet meer dan 500 kilometer voor privé-doeleinden wordt gebruikt.  
+7. Voor de toepassing van dit artikel wordt de waarde van de auto gesteld op de catalogusprijs in de zin van artikel 9 van de Wet op de belasting van personenauto’s en motorrijwielen 1992 vermeerderd met de belasting van personenauto’s en motorrijwielen ingevolge de artikelen 9 tot en met 9c van genoemde wet. In afwijking in zoverre van de eerste volzin wordt de waarde van een auto die meer dan vijftien jaar geleden voor het eerst in gebruik is genomen, gesteld op de waarde in het economische verkeer.  
+8.  De onttrekking wordt in aanmerking genomen voorzover zij uitgaat boven de bedragen die de belastingplichtige ter zake van de kosten en lasten van de auto voor eigen rekening heeft genomen.   
+9.  Voor de toepassing van dit artikel wordt woon-werkverkeer geacht niet voor privé-doeleinden plaats te vinden.  
+10.  Indien een bestelauto als bedoeld in artikel 3, derde lid, van de Wet op de belasting van personenauto’s en motorrijwielen 1992 uitsluitend zakelijk wordt gebruikt, kan de belastingplichtige met betrekking tot deze auto aan de inspecteur een verklaring uitsluitend zakelijk gebruik afgeven (verklaring uitsluitend zakelijk gebruik bestelauto). De ontvangst van die verklaring wordt door de inspecteur bevestigd.  
+11.  De belastingplichtige kan de verklaring uitsluitend zakelijk gebruik bestelauto intrekken. De mededeling van de intrekking wordt door de inspecteur bevestigd.   
+12.  In geval van een verklaring uitsluitend zakelijk gebruik bestelauto kan de inspecteur, bij het vermoeden van een rit voor privédoeleinden, de belastingplichtige verzoeken te doen blijken dat de betreffende rit zakelijk was. Slaagt de belastingplichtige niet in dit bewijs, dan wordt de bestelauto geacht op jaarbasis voor meer dan 500 kilometer voor privédoeleinden te worden gebruikt.   
+13.  Indien de belastingplichtige de verklaring uitsluitend zakelijk gebruik bestelauto heeft ingetrokken voordat hij de bestelauto ook voor privédoeleinden gaat gebruiken, wordt de bestelauto tot het moment van de intrekking geacht wel voor privédoeleinden ter beschikking te staan, maar niet voor privédoeleinden te zijn gebruikt.   
+14.  Bij algemene maatregel van bestuur wordt bepaald op welke wijze de verklaring uitsluitend zakelijk gebruik bestelauto wordt afgegeven en ingetrokken en in welke gevallen de belastingplichtige de verklaring in ieder geval moet intrekken.   
+15.  Na een vervanging van de CO<sub>2</sub>-uitstootgrenzen in het tweede lid, blijft met betrekking tot een auto: 
 
-a. 11% van de waarde van de auto indien de CO<sub>2</sub>-uitstoot niet hoger is dan 88 gram per kilometer, en  
+a. die na 30 juni 2012 voor het eerst te naam is gesteld in het kentekenregister: voor een periode van 60 maanden te rekenen vanaf de eerste dag van de maand volgend op die waarin de auto voor het eerst te naam is gesteld in het kentekenregister, de verlaging van toepassing ingevolge de begrenzingen die golden op de datum van de eerste tenaamstelling in het kentekenregister, en voor direct daaropvolgende periodes van telkens 60 maanden, de verlaging ingevolge de begrenzingen zoals die gelden op de laatste dag van de direct daaraan voorafgaande periode van 60 maanden;  
 
-b. 5% van de waarde van de auto indien de CO<sub>2</sub>-uitstoot hoger is dan 88 gram per kilometer, maar niet hoger is dan 117 gram per kilometer.   In afwijking van de eerste volzin wordt de onttrekking, bedoeld in het eerste lid, eerste volzin, tot 1 januari 2016 op jaarbasis verlaagd met 21% van de waarde van de auto indien de CO<sub>2</sub>-uitstoot 0 gram per kilometer is en met 18% van de waarde van de auto indien de CO<sub>2</sub>-uitstoot hoger is dan 0 gram per kilometer, maar niet hoger is dan 50 gram per kilometer. 
-4.  Indien uit een rittenregistratie of anderszins blijkt dat de auto op jaarbasis voor niet meer dan 500 kilometer voor privé-doeleinden wordt gebruikt, wordt de onttrekking gesteld op nihil.   
-5.  Voor de toepassing van dit artikel en de daarop berustende bepalingen wordt onder auto verstaan een personenauto of bestelauto als bedoeld in artikel 3 van de Wet op de belasting van personenauto's en motorrijwielen 1992, met uitzondering van de bestelauto die door aard of inrichting uitsluitend of nagenoeg uitsluitend geschikt blijkt te zijn voor vervoer van goederen.   
-6. Voor de toepassing van dit artikel is de CO<sub>2</sub>-uitstoot van een auto, de CO<sub>2</sub>-uitstoot gemeten overeenkomstig bijlage XII bij Verordening (EG) nr. 692/2008 van de Commissie van 18 juli 2008 tot uitvoering en wijziging van Verordening (EG) nr. 715/2007 van het Europees Parlement en de Raad betreffende de type goedkeuring van motorvoertuigen met betrekking tot emissies van lichte personen- en bedrijfsvoertuigen (Euro 5 en Euro 6) en de toegang tot reparatie- en onderhoudsinformatie (PbEU 2008, L 199). Indien de meting mede met LPG of aardgas als brandstof is uitgevoerd, wordt de CO<sub>2</sub>-uitstoot van de auto met LPG of aardgas als brandstofsoort gehanteerd. 
-7.  Bij ministeriële regeling kunnen regels worden gesteld waaraan een rittenregistratie moet voldoen. Tevens kunnen regels worden gesteld over het anderszins laten blijken dat de auto op jaarbasis voor niet meer dan 500 kilometer voor privé-doeleinden wordt gebruikt.  
-8. Voor de toepassing van dit artikel wordt de waarde van de auto gesteld op de catalogusprijs in de zin van artikel 9 van de Wet op de belasting van personenauto’s en motorrijwielen 1992 vermeerderd met de belasting van personenauto’s en motorrijwielen ingevolge de artikelen 9 tot en met 9c van genoemde wet. In afwijking in zoverre van de eerste volzin wordt de waarde van een auto die meer dan vijftien jaar geleden voor het eerst in gebruik is genomen, gesteld op de waarde in het economische verkeer.  
-9.  De onttrekking wordt in aanmerking genomen voorzover zij uitgaat boven de bedragen die de belastingplichtige ter zake van de kosten en lasten van de auto voor eigen rekening heeft genomen.   
-10.  Voor de toepassing van dit artikel wordt woon-werkverkeer geacht niet voor privé-doeleinden plaats te vinden.  
-11.  Indien een bestelauto als bedoeld in artikel 3, derde lid, van de Wet op de belasting van personenauto’s en motorrijwielen 1992 uitsluitend zakelijk wordt gebruikt, kan de belastingplichtige met betrekking tot deze auto aan de inspecteur een verklaring uitsluitend zakelijk gebruik afgeven (verklaring uitsluitend zakelijk gebruik bestelauto). De ontvangst van die verklaring wordt door de inspecteur bevestigd.  
-12.  De belastingplichtige kan de verklaring uitsluitend zakelijk gebruik bestelauto intrekken. De mededeling van de intrekking wordt door de inspecteur bevestigd.   
-13.  In geval van een verklaring uitsluitend zakelijk gebruik bestelauto kan de inspecteur, bij het vermoeden van een rit voor privédoeleinden, de belastingplichtige verzoeken te doen blijken dat de betreffende rit zakelijk was. Slaagt de belastingplichtige niet in dit bewijs, dan wordt de bestelauto geacht op jaarbasis voor meer dan 500 kilometer voor privédoeleinden te worden gebruikt.   
-14.  Indien de belastingplichtige de verklaring uitsluitend zakelijk gebruik bestelauto heeft ingetrokken voordat hij de bestelauto ook voor privédoeleinden gaat gebruiken, wordt de bestelauto tot het moment van de intrekking geacht wel voor privédoeleinden ter beschikking te staan, maar niet voor privédoeleinden te zijn gebruikt.   
-15.  Bij algemene maatregel van bestuur wordt bepaald op welke wijze de verklaring uitsluitend zakelijk gebruik bestelauto wordt afgegeven en ingetrokken en in welke gevallen de belastingplichtige de verklaring in ieder geval moet intrekken.   
-16.  Na een vervanging van de CO<sub>2</sub>-uitstootgrenzen in het tweede of derde lid, blijft met betrekking tot een auto: 
+b. waarvan het kenteken voor het eerst op naam is gesteld vóór 1 juli 2012 en die de belastingplichtige al vóór en vanaf 1 juli 2012 onafgebroken ter beschikking staat: de op 30 juni 2012 geldende verlaging ingevolge de op die datum geldende begrenzingen van toepassing;  
 
-a. waarvan het kenteken na 30 juni 2012 voor het eerst op naam is gesteld: voor een periode van 60 maanden te rekenen vanaf de eerste dag van de maand volgend op die waarin het kenteken van de auto voor het eerst op naam is gesteld, de verlaging van toepassing ingevolge de begrenzingen die golden op de datum van de eerste tenaamstelling, en voor direct daaropvolgende periodes van telkens 60 maanden, de verlaging ingevolge de begrenzingen zoals die gelden op de laatste dag van de direct daaraan voorafgaande periode van 60 maanden;  
+c. waarvan het kenteken op naam van de eigenaar is gesteld vóór 1 juli 2012 en die de belastingplichtige op of na 1 juli 2012 voor het eerst ter beschikking staat: de op 30 juni 2012 geldende verlaging ingevolge de op die datum geldende begrenzingen van toepassing;  
 
-b. waarvan het kenteken voor het eerst op naam is gesteld vóór 1 juli 2012 en die de belastingplichtige al vóór en vanaf 1 juli 2012 onafgebroken ter beschikking staat: de op 30 juni 2012 geldende verlaging ingevolge de op die datum geldende begrenzingen van toepassing;  
-
-c. waarvan het kenteken op naam van de eigenaar is gesteld vóór 1 juli 2012 en die de belastingplichtige op of na 1 juli 2012 voor het eerst ter beschikking staat: de op 30 juni 2012 geldende verlaging ingevolge de op die datum geldende begrenzingen van toepassing;  
-
-d. waarvan het kenteken voor het eerst op naam is gesteld vóór 1 juli 2012 en die op naam van de eigenaar is gesteld op of na 1 juli 2012: voor een periode van 60 maanden te rekenen vanaf 1 juli 2012, de verlaging van toepassing ingevolge de begrenzingen zoals die golden op 30 juni 2012, en voor direct daaropvolgende periodes van telkens 60 maanden, de verlaging ingevolge de begrenzingen zoals die gelden op de laatste dag van de direct daaraan voorafgaande periode van 60 maanden.     
-17.  In afwijking van het zestiende lid, onderdeel d, heeft de eigendomsoverdracht van een auto die aan een belastingplichtige ter beschikking staat geen gevolgen voor de verlaging, zolang die auto aan de betreffende belastingplichtige ter beschikking staat.   
-18.  In afwijking van het zestiende lid blijft na vervanging van de CO<sub>2</sub>-uitstootgrenzen in het tweede of derde lid, met betrekking tot een auto waarvan het kenteken voor het eerst op naam is gesteld op of na 1 januari 2012 en die een CO<sub>2</sub>-uitstoot heeft van niet hoger dan 50 gram per kilometer voor een periode van 60 maanden te rekenen vanaf de eerste dag van de maand volgend op die waarin het kenteken van de auto voor het eerst op naam is gesteld, de verlaging van toepassing ingevolge de begrenzingen die golden op de datum van de eerste tenaamstelling, en voor direct daaropvolgende periodes van telkens 60 maanden, de verlaging ingevolge de begrenzingen zoals die gelden op de laatste dag van de direct daaraan voorafgaande periode van 60 maanden.   
-19.  In afwijking van het zestiende lid wordt de onttrekking, bedoeld in het eerste lid, eerste volzin, met betrekking tot een auto waarvan het kenteken vóór 1 januari 2012 voor het eerst op naam is gesteld en die een CO<sub>2</sub>-uitstoot heeft van 0 gram per kilometer, tot 1 januari 2017 verlaagd met 25% van de waarde van de auto en daarna met het hoogste percentage aan verlaging dat op dat tijdstip in het tweede of derde lid van dit artikel wordt genoemd.   
-20.  In afwijking van het zestiende lid wordt de onttrekking, bedoeld in het eerste lid, eerste volzin, met betrekking tot een auto waarvan het kenteken vóór 1 januari 2012 voor het eerst op naam is gesteld en die een CO<sub>2</sub>-uitstoot heeft van hoger dan 0 gram per kilometer, maar niet hoger dan 50 gram per kilometer, van 1 januari 2012 tot 1 januari 2017 verlaagd met 25% van de waarde van de auto, en geldt voor direct daaropvolgende periodes van telkens 60 maanden een verlaging ingevolge de begrenzingen van het tweede of derde lid van dit artikel zoals die gelden op de laatste dag van de direct daaraan voorafgaande periode van 60 maanden.   
-21.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot een auto waarvan de datum van de eerste tenaamstelling van het kenteken niet overeenkomt met de datum van eerste toelating op de weg van die auto. 
+d. waarvan het kenteken voor het eerst op naam is gesteld vóór 1 juli 2012 en die op naam van de eigenaar is gesteld op of na 1 juli 2012: voor een periode van 60 maanden te rekenen vanaf 1 juli 2012, de verlaging van toepassing ingevolge de begrenzingen zoals die golden op 30 juni 2012, en voor direct daaropvolgende periodes van telkens 60 maanden, de verlaging ingevolge de begrenzingen zoals die gelden op de laatste dag van de direct daaraan voorafgaande periode van 60 maanden.     
+16.  In afwijking van het vijftiende lid, onderdeel d, heeft de eigendomsoverdracht van een auto die aan een belastingplichtige ter beschikking staat geen gevolgen voor de verlaging, zolang die auto aan de betreffende belastingplichtige ter beschikking staat.   
+17.  In afwijking van het vijftiende lid blijft na vervanging van de CO<sub>2</sub>-uitstootgrenzen in het tweede lid, met betrekking tot een auto die voor het eerst te naam is gesteld in het kentekenregister op of na 1 januari 2012 en die een CO<sub>2</sub>-uitstoot heeft van niet hoger dan 50 gram per kilometer voor een periode van 60 maanden te rekenen vanaf de eerste dag van de maand volgend op die waarin de auto voor het eerst te naam is gesteld in het kentekenregister, de verlaging van toepassing ingevolge de begrenzingen die golden op de datum van de eerste tenaamstelling in het kentekenregister, en voor direct daaropvolgende periodes van telkens 60 maanden, de verlaging ingevolge de begrenzingen zoals die gelden op de laatste dag van de direct daaraan voorafgaande periode van 60 maanden.   
+18.  In afwijking van het vijftiende lid wordt de onttrekking, bedoeld in het eerste lid, eerste volzin, met betrekking tot een auto waarvan het kenteken vóór 1 januari 2012 voor het eerst op naam is gesteld en die een CO<sub>2</sub>-uitstoot heeft van 0 gram per kilometer, tot 1 januari 2017 verlaagd met 25% van de waarde van de auto en daarna met het hoogste percentage aan verlaging dat op dat tijdstip in het tweede lid van dit artikel wordt genoemd.   
+19.  In afwijking van het vijftiende lid wordt de onttrekking, bedoeld in het eerste lid, eerste volzin, met betrekking tot een auto waarvan het kenteken vóór 1 januari 2012 voor het eerst op naam is gesteld en die een CO<sub>2</sub>-uitstoot heeft van hoger dan 0 gram per kilometer, maar niet hoger dan 50 gram per kilometer, van 1 januari 2012 tot 1 januari 2017 verlaagd met 25% van de waarde van de auto, en geldt voor direct daaropvolgende periodes van telkens 60 maanden een verlaging ingevolge de begrenzingen van het tweede lid van dit artikel zoals die gelden op de laatste dag van de direct daaraan voorafgaande periode van 60 maanden.   
+20.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot een auto waarvan de datum van de eerste tenaamstelling in het kentekenregister niet overeenkomt met de datum van eerste toelating op de weg van die auto.  
 
 ### Artikel  3.21  
 
@@ -1026,11 +1044,11 @@ Indien wordt geïnvesteerd in bedrijfsmiddelen kan door de belastingplichtigenaa
 
 | meer dan  | maar niet meer dan  | bedraagt de  kleinschaligheidsinvesteringsaftrek  |
 |:---|:---|:---|
-| –  | €  2 300  | 0  |
-| €  2 300  | €  55 248  | 28% van het investeringsbedrag  |
-| €  55 248  | €  102 311  | € 15 470  |
-| €  102 311  | €  306 931  | € 15 470 verminderd met 7,56%  van het gedeelte van het  investeringsbedrag dat de € 102 311 te boven gaat  |
-| €  306 931  | –  | 0  |
+| –  | € 2.300  | € 0  |
+| € 2.300  | € 55.745  | 28% van het investeringsbedrag  |
+| € 55.745  | € 103.231  | € 15.609  |
+| € 103.231  | € 309.693  | € 15.609 verminderd met 7,56% van het gedeelte van het investeringsbedrag dat de € 103.231 te boven gaat  |
+| € 309.693  | –  | € 0  |
 
 3.  Indien de onderneming van de belastingplichtige deel uitmaakt van een samenwerkingsverband met een of meer andere belastingplichtigen die daarbij winst uit onderneming genieten of belastingplichtigen voor de vennootschapsbelasting, worden voor de toepassing van het tweede lid hun investeringen voor het samenwerkingsverband samengeteld.  
 
@@ -1043,9 +1061,9 @@ Indien wordt geïnvesteerd in bedrijfsmiddelen kan door de belastingplichtigenaa
 3.  De energie-investeringsaftrek bedraagt 41,5 percent.   
 4.  Als bedrag aan energie-investeringen wordt ten hoogste in aanmerking genomen:  
 
-a. indien de onderneming die de ondernemer voor eigen rekening drijft geen deel uitmaakt van een samenwerkingsverband met een of meer andere ondernemers die daarbij voor eigen rekening een onderneming drijven of belastingplichtigen voor de vennootschapsbelasting: € 118 000 000;  
+a. indien de onderneming die de ondernemer voor eigen rekening drijft geen deel uitmaakt van een samenwerkingsverband met een of meer andere ondernemers die daarbij voor eigen rekening een onderneming drijven of belastingplichtigen voor de vennootschapsbelasting: € 119.000.000;  
 
-b. indien de onderneming die de ondernemer voor eigen rekening drijft wel deel uitmaakt van een zodanig samenwerkingsverband: € 118 000 000 vermenigvuldigd met het bedrag aan energie-investeringen van de ondernemer en gedeeld door het gezamenlijke bedrag aan energie-investeringen van de ondernemer en de bedoelde andere deelnemers aan het samenwerkingsverband.     
+b. indien de onderneming die de ondernemer voor eigen rekening drijft wel deel uitmaakt van een zodanig samenwerkingsverband: € 119.000.000 vermenigvuldigd met het bedrag aan energie-investeringen van de ondernemer en gedeeld door het gezamenlijke bedrag aan energie-investeringen van de ondernemer en de bedoelde andere deelnemers aan het samenwerkingsverband.     
 5.  Onder de aanschaffings- of voortbrengingskosten ter zake van een energie-investering als bedoeld in het eerste lid, worden, indien de ondernemer daarvoor bij de aangifte kiest, tevens begrepen de kosten van een advies ter zake van energiebesparende maatregelen in gebouwen of bij processen dat op die investering of mede op die investering betrekking heeft en voldoet aan bij ministeriële regeling te stellen eisen.   
 6.  De energie-investeringsaftrek is van toepassing indien de energie-investering is aangemeld bij Onze Minister van Economische Zaken.   
 7.  Bij ministeriële regeling kunnen: 
@@ -1428,10 +1446,10 @@ e. de vervreemding van de aandelen in de opgerichte vennootschap.
 
 ####Toevoegingen
 
-1.  De toevoeging aan de reserve over een kalenderjaar bedraagt 10,9% van de winst die de belastingplichtige als *ondernemer* uit een onderneming geniet, maar niet meer dan € 9542. De op grond van de eerste volzin bepaalde toevoeging wordt verminderd met de ten laste van die winst gekomen premies en andere bijdragen uit hoofde van *pensioenregelingen*.   
+1.  De toevoeging aan de reserve over een kalenderjaar bedraagt 9,8% van de winst die de belastingplichtige als *ondernemer* uit een onderneming geniet, maar niet meer dan € 8.640. De op grond van de eerste volzin bepaalde toevoeging wordt verminderd met de ten laste van die winst gekomen premies en andere bijdragen uit hoofde van *pensioenregelingen*.   
 2.  De op grond van het eerste lid berekende toevoeging bedraagt ten hoogste het bedrag waarmee het ondernemingsvermogen bij het einde van het kalenderjaar de oudedagsreserve bij het begin van het kalenderjaar te boven gaat.   
 3.  Voor de toepassing van dit artikel wordt onder winst verstaan: de winst voor toevoeging aan en afneming van de oudedagsreserve en vermeerderd met de premies en andere bijdragen als bedoeld in het eerste lid, maar met uitzondering van de winst waarop een regeling ter voorkoming van dubbele belasting van toepassing is.   
-4.  Het in het eerste lid genoemde percentage wordt jaarlijks bij algemene maatregel van bestuur gewijzigd. De wijziging vindt voor het eerst plaats per 1 januari 2015. Bij deze wijziging wordt het in het eerste lid genoemde percentage verlaagd met 0,4%-punt maal het aantal jaren waarmee ingevolge artikel 18a, elfde lid, van de Wet op de loonbelasting 1964 de in artikel 18a, zesde lid, van die wet genoemde pensioenrichtleeftijd wordt gewijzigd. Een wijziging ingevolge de eerste volzin van het in het eerste lid genoemde percentage wordt bekendgemaakt ten minste een jaar voordat deze toepassing vindt. 
+4.  Het in het eerste lid genoemde percentage wordt jaarlijks bij algemene maatregel van bestuur gewijzigd. De wijziging vindt voor het eerst plaats per 1 januari 2015. Bij deze wijziging wordt het in het eerste lid genoemde percentage verlaagd met 0,36%-punt maal het aantal jaren waarmee ingevolge artikel 18a, elfde lid, van de Wet op de loonbelasting 1964 de in artikel 18a, zesde lid, van die wet genoemde pensioenrichtleeftijd wordt gewijzigd. Een wijziging ingevolge de eerste volzin van het in het eerste lid genoemde percentage wordt bekendgemaakt ten minste een jaar voordat deze toepassing vindt. 
 
 ### Artikel  3.69  
 
@@ -1548,10 +1566,10 @@ Voor de toepassing van deze paragraaf en de daarop rustende bepalingen wordt ond
 
 ####Aftrek speur- en ontwikkelingswerk
 
-1.  De aftrek voor speur- en ontwikkelingswerk geldt voor de *ondernemer *die aan het *urencriterium* voldoet en in het kalenderjaar ten minste 500 uur besteedt aan werk dat bij een S&O-verklaring als bedoeld in artikel 27, eerste lid, van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen is aangemerkt als speur- en ontwikkelingswerk. De aftrek voor speur- en ontwikkelingswerk bedraagt € 12 310.   
-2.  Indien de ondernemer in een of meer van de vijf voorafgaande kalenderjaren geen ondernemer was en aan hem voor die periode met betrekking tot ten hoogste twee kalenderjaren een S&O-verklaring is afgegeven, wordt de aftrek voor speur- en ontwikkelingswerk verhoogd met € 6157. Een S&O-verklaring die is afgegeven voor een deel van een kalenderjaar wordt aangemerkt als een S&O-verklaring afgegeven met betrekking tot een heel kalenderjaar. De eerste volzin is niet van toepassing voor de ondernemer die met toepassing van artikel 14c van de Wet op de vennootschapsbelasting 1969 een onderneming voortzet of mede voortzet waarbij dit voortzetten een aanvang heeft genomen in het kalenderjaar of in een van de vijf daaraan voorafgaande kalenderjaren.   
+1.  De aftrek voor speur- en ontwikkelingswerk geldt voor de *ondernemer *die aan het *urencriterium* voldoet en in het kalenderjaar ten minste 500 uur besteedt aan werk dat bij een S&O-verklaring als bedoeld in artikel 27, eerste lid, van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen is aangemerkt als speur- en ontwikkelingswerk. De aftrek voor speur- en ontwikkelingswerk bedraagt € 12.421.   
+2.  Indien de ondernemer in een of meer van de vijf voorafgaande kalenderjaren geen ondernemer was en aan hem voor die periode met betrekking tot ten hoogste twee kalenderjaren een S&O-verklaring is afgegeven, wordt de aftrek voor speur- en ontwikkelingswerk verhoogd met € 6.213. Een S&O-verklaring die is afgegeven voor een deel van een kalenderjaar wordt aangemerkt als een S&O-verklaring afgegeven met betrekking tot een heel kalenderjaar. De eerste volzin is niet van toepassing voor de ondernemer die met toepassing van artikel 14c van de Wet op de vennootschapsbelasting 1969 een onderneming voortzet of mede voortzet waarbij dit voortzetten een aanvang heeft genomen in het kalenderjaar of in een van de vijf daaraan voorafgaande kalenderjaren.   
 3.   Artikel 3.6, vijfde lid, is van overeenkomstige toepassing.   
-4. Indien op grond van artikel 29 van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen de in artikel 23, derde en zevende lid, van die wet, vermelde percentages worden verhoogd, verlaagd of op nihil worden gesteld, kan bij ministeriële regeling van Onze Minister van Economische Zaken het in het eerste lid vermelde bedrag in dezelfde mate worden verhoogd tot maximaal € 14 622, worden verlaagd of op nihil worden gesteld. Het nieuwe bedrag geldt met betrekking tot de S&O-verklaringen die betrekking hebben op een kalenderjaar dat aanvangt op of na de dag waarop de wijziging in werking treedt.
+4. Indien op grond van artikel 29 van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen de in artikel 23, derde en zevende lid, van die wet, vermelde percentages worden verhoogd, verlaagd of op nihil worden gesteld, kan bij ministeriële regeling van Onze Minister van Economische Zaken het in het eerste lid vermelde bedrag in dezelfde mate worden verhoogd tot maximaal € 14.754, worden verlaagd of op nihil worden gesteld. Het nieuwe bedrag geldt met betrekking tot de S&O-verklaringen die betrekking hebben op een kalenderjaar dat aanvangt op of na de dag waarop de wijziging in werking treedt.
 
 ### Artikel  3.78  
 
@@ -1579,7 +1597,7 @@ c. winst als gevolg van de overbrenging van vermogensbestanddelen naar het buite
 
 ####Startersaftrek bij arbeidsongeschiktheid
 
-1. De startersaftrek bij arbeidsongeschiktheid geldt voor de ondernemer die in een of meer van de vijf voorafgaande kalenderjaren geen ondernemer was, in het kalenderjaar recht heeft op een arbeidsongeschiktheidsuitkering als bedoeld in het tweede lid, of in het kalenderjaar recht heeft op arbeidsondersteuning op grond van de Wet werk en arbeidsondersteuning jonggehandicapten, niet voldoet aan het urencriterium maar wel aan het verlaagde-urencriterium, bedoeld in het derde lid, en bij het begin van het kalenderjaar de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, nog niet heeft bereikt. De eerste volzin is niet van toepassing voor de ondernemer die met toepassing van artikel 14c van de Wet op de vennootschapsbelasting 1969 een onderneming voortzet of mede voortzet waarbij dit voortzetten een aanvang heeft genomen in het kalenderjaar of in een van de vijf daaraan voorafgaande kalenderjaren. 
+1. De startersaftrek bij arbeidsongeschiktheid geldt voor de ondernemer die in een of meer van de vijf voorafgaande kalenderjaren geen ondernemer was, in het kalenderjaar recht heeft op een arbeidsongeschiktheidsuitkering als bedoeld in het tweede lid, of in het kalenderjaar recht heeft op arbeidsondersteuning op grond van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, niet voldoet aan het urencriterium maar wel aan het verlaagde-urencriterium, bedoeld in het derde lid, en bij het begin van het kalenderjaar de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, nog niet heeft bereikt. De eerste volzin is niet van toepassing voor de ondernemer die met toepassing van artikel 14c van de Wet op de vennootschapsbelasting 1969 een onderneming voortzet of mede voortzet waarbij dit voortzetten een aanvang heeft genomen in het kalenderjaar of in een van de vijf daaraan voorafgaande kalenderjaren. 
 2. Onder een arbeidsongeschiktheidsuitkering wordt verstaan een uitkering op grond van:
 
 a.de Wet werk en inkomen naar arbeidsvermogen;
@@ -1588,7 +1606,7 @@ b.de Wet op de arbeidsongeschiktheidsverzekering;
 
 c.de Wet arbeidsongeschiktheidsverzekering zelfstandigen;
 
-d.de Wet werk en arbeidsondersteuning jonggehandicapten;
+d.de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten;
 
 e.een buitenlandse wettelijke regeling die naar aard en strekking overeenkomt met een regeling genoemd in de onderdelen a, b, c en d;
 
@@ -1699,25 +1717,25 @@ c.uitkeringen op grond van een pensioenregeling van een internationale organisat
 3.  De op basis van de volgende leden bepaalde reisaftrek wordt verminderd met de voor de per openbaar vervoer afgelegde reisafstand ontvangen reiskostenvergoedingen.   
 4.  Indien de belastingplichtige op ten minste vier dagen per week naar dezelfde plaats van werkzaamheden pleegt te reizen, bedraagt de reisaftrek:   
 
-| bij een reisafstand per openbaar vervoer  |--- | van meer dan  | maar niet meer dan  | op jaarbasis  |
-|:---|:---|:---|:---|:---|
+| bij een reisafstand per openbaar vervoer  | van meer dan  | maar niet meer dan  | op jaarbasis  |
+|:---|:---|:---|:---|
 | –  | 10 km  | –  |
-| 10 km  | 15 km  | € 436  |
-| 15 km  | 20 km  | € 582  |
-| 20 km  | 30 km  | € 974  |
-| 30 km  | 40 km  | € 1207  |
-| 40 km  | 50 km  | € 1574  |
-| 50 km  | 60 km  | € 1751  |
-| 60 km  | 70 km  | € 1943  |
-| 70 km  | 80 km  | € 2008  |
-| 80 km  | –  | € 2036  |
+| 10 km  | 15 km  | € 440  |
+| 15 km  | 20 km  | € 588  |
+| 20 km  | 30 km  | € 983  |
+| 30 km  | 40 km  | € 1.218  |
+| 40 km  | 50 km  | € 1.589  |
+| 50 km  | 60 km  | € 1.767  |
+| 60 km  | 70 km  | € 1.961  |
+| 70 km  | 80 km  | € 2.027  |
+| 80 km  | –  | € 2.055  |
 
 5.  Indien de belastingplichtige op drie dagen, twee dagen of één dag per week naar dezelfde plaats van werkzaamheden pleegt te reizen, bedraagt de reisaftrek: 
 
 a. indien de reisafstand niet meer beloopt dan 90 kilometer: driekwart, de helft respectievelijk een kwart van het in de tabel aangegeven bedrag;  
 
-b. indien de reisafstand meer beloopt dan 90 kilometer: € 0,23 per kilometer van die reisafstand vermenigvuldigd met het aantal dagen waarop wordt gereisd, maar niet meer dan € 2036 per jaar.     
-6.  Indien de belastingplichtige naar verschillende plaatsen van werkzaamheden pleegt te reizen, vinden het vierde en vijfde lid afzonderlijk toepassing met betrekking tot het reizen naar elk van die plaatsen, waarbij de som van de volgens deze leden bepaalde reisaftrek niet meer bedraagt dan € 2036 per jaar.   
+b. indien de reisafstand meer beloopt dan 90 kilometer: € 0,23 per kilometer van die reisafstand vermenigvuldigd met het aantal dagen waarop wordt gereisd, maar niet meer dan € 2.055 per jaar.     
+6.  Indien de belastingplichtige naar verschillende plaatsen van werkzaamheden pleegt te reizen, vinden het vierde en vijfde lid afzonderlijk toepassing met betrekking tot het reizen naar elk van die plaatsen, waarbij de som van de volgens deze leden bepaalde reisaftrek niet meer bedraagt dan € 2.055 per jaar.   
 7.  Indien de belastingplichtige op dezelfde dag naar verschillende plaatsen van werkzaamheden pleegt te reizen, zijn de vorige leden uitsluitend van toepassing op het reizen naar de meest bereisde plaats van werkzaamheden. Indien de plaatsen van werkzaamheden even vaak plegen te worden bereisd, geldt de grootste reisafstand.   
 8.  Voor de toepassing van het eerste lid pleegt de belastingplichtige in ieder geval ten minste eenmaal per week te reizen indien hij in het kalenderjaar op 40 dagen of meer van zijn woning of verblijfplaats naar de plaats of plaatsen van werkzaamheden heeft gereisd.   
 9.  De per openbaar vervoer afgelegde reisafstand blijkt slechts uit een op een tijdvak van 12 maanden betrekking hebbende verklaring die is afgegeven door de desbetreffende openbaar-vervoersonderneming (de openbaar-vervoerverklaring) of, in die gevallen dat door de gebruikte kaartsoort de openbaar-vervoerverklaring niet kan worden verstrekt, een aan een openbaar-vervoerverklaring gelijk te stellen andere tot de persoon van de belastingplichtige herleidbare verklaring omtrent het gereisd hebben met openbaar vervoer (de reisverklaring).   
@@ -1856,7 +1874,7 @@ a. geldt een persoon niet als aanverwant indien het huwelijk waardoor de verwant
 
 b.wordt niet als het rendabel maken van vermogensbestanddelen aangemerkt het ter beschikking stellen van een werkruimte, de inrichting daaronder begrepen, in een woning die de belastingplichtige ter beschikking staat, indien de persoon aan wie of het lichaam waaraan ter beschikking wordt gesteld ter zake van die terbeschikkingstelling niet een vergoeding ten laste van de winst of het resultaat uit overige werkzaamheden kan brengen.    
 2.  Werkzaamheden van dezelfde aard worden aangemerkt als een werkzaamheid.   
-3.  Voor de toepassing van dit artikel wordt onder woning mede verstaan: een duurzaam aan een plaats gebonden schip of woonwagen als bedoeld in artikel 1, eerste lid, onder f, van de Huisvestingswet, alsmede de aanhorigheden van een woning, schip of woonwagen. 
+3.  Voor de toepassing van dit artikel wordt onder woning mede verstaan: een duurzaam aan een plaats gebonden schip of woonwagen als bedoeld in artikel 1, onder l, van de Wet op de huurtoeslag, alsmede de aanhorigheden van een woning, schip of woonwagen. 
 
 ### Paragraaf  3.4.2  
 
@@ -1872,7 +1890,7 @@ Resultaat uit een werkzaamheid (resultaat) is het bedrag van de gezamenlijke voo
 
 ####Bepaling van het resultaat
 
-1. Bij de bepaling van het resultaat zijn de artikelen 3.10, 3.13 tot en met 3.21, 3.25 tot en met 3.30a, 3.55 tot en met 3.58, 3.59, eerste en tweede lid, en 3.60 tot en met 3.62 van overeenkomstige toepassing, alsof de werkzaamheid een onderneming vormt. 
+1. Bij de bepaling van het resultaat zijn de artikelen 3.10, 3.13 tot en met 3.21, 3.25 tot en met 3.30a, 3.55 tot en met 3.58, 3.59, eerste en tweede lid, en 3.60 tot en met 3.62 van overeenkomstige toepassing, alsof de werkzaamheid een onderneming vormt. Voor de overeenkomstige toepassing van artikel 3.18, vierde lid, onderdeel d, wordt verstaan onder de winst uit onderneming vóór toevoeging aan en afneming van de oudedagsreserve en vóór de ondernemersaftrek en vermeerderd met de ten laste van de winst gebrachte premies uit hoofde van een pensioenregeling als bedoeld in artikel 1.7, tweede lid, onderdeel b: het belastbare resultaat uit overige werkzaamheden vermeerderd met de ten laste van dat resultaat gekomen premies uit hoofde van een pensioenregeling als bedoeld in artikel 1.7, tweede lid, onderdeel b. 
 2.  Bij de bepaling van het resultaat met betrekking tot een werkzaamheid als bedoeld in de artikelen 3.91 en 3.92, met uitzondering van artikel 3.91, eerste lid, onderdeel c, zijn de artikelen 3.53, eerste lid, onderdelen a en b, en tweede lid, 3.54 en 3.64 ook van overeenkomstige toepassing, alsof de werkzaamheid een onderneming vormt.  
 
 ###Artikel 3.95a 
@@ -1910,7 +1928,7 @@ c.voordelen die door de belastingplichtige als vrijwilliger, bedoeld in artikel 
 1.  Indien de belastingplichtige bij de aangifte daarvoor kiest, worden de door hem uit het houden van kostgangers verkregen opbrengsten voor een deel als voordelen uit *eigen woning* dan wel uit een huurrecht aangemerkt. Dit keuzerecht geldt voor het deel van de opbrengsten dat betrekking heeft op het, anders dan voor korte duur, ter beschikking stellen aan derden van al dan niet gestoffeerde of gemeubileerde woonruimte die niet een zelfstandige woning vormt en deel uitmaakt van de woning die de belastingplichtige tot hoofdverblijf dient.   
 2.  Het eerste lid is alleen van toepassing indien: 
 
-a. het deel van de opbrengsten dat betrekking heeft op het ter beschikking stellen van de woonruimte niet meer bedraagt dan € 4.748 per jaar, en  
+a. het deel van de opbrengsten dat betrekking heeft op het ter beschikking stellen van de woonruimte niet meer bedraagt dan € 4.954 per jaar, en  
 
 b. zowel de belastingplichtige als degenen aan wie ter beschikking is gesteld gedurende de periode van de terbeschikkingstelling als ingezetenen op het woonadres ter zake van de woning zijn ingeschreven in de basisregistratie personen.    
 
@@ -2005,8 +2023,9 @@ b. termijnen van *lijfrenten* als bedoeld in artikel 3.124, eerste lid, onderdee
 
 c. uitkeringen en verstrekkingen op grond van een buitenlandse voorziening waarvan de strekking overeenkomt met een inkomensvoorziening als bedoeld in afdeling 3.7, behoudens voorzover aannemelijk is dat met de voor die voorziening betaalde premies geen rekening is gehouden bij een heffing naar het inkomen;  
 
-d. uitkeringen op grond van verplicht gestelde deelnemingen aan pensioenregelingen als bedoeld in artikel 1.7, tweede lid, onderdeel b;   verminderd met de daarop drukkende aftrekbare kosten, bedoeld in artikel 3.108.  
-2.  In afwijking in zoverre van artikel 2.14 wordt de belastbaarheid van uitkeringen op grond van buitenlandse regelingen die naar aard en strekking overeenkomen met uitkeringen op grond van de Algemene Kinderbijslagwet beheerst door deze afdeling.  
+d. uitkeringen en verstrekkingen op grond van een pensioenregeling als bedoeld in artikel 1.7, tweede lid, onderdeel b, alsmede uitkeringen en afkoopsommen als bedoeld in artikel 3.135, zesde lid;   verminderd met de daarop drukkende aftrekbare kosten, bedoeld in artikel 3.108.  
+2.  In afwijking in zoverre van artikel 2.14 wordt de belastbaarheid van uitkeringen op grond van buitenlandse regelingen die naar aard en strekking overeenkomen met uitkeringen op grond van de Algemene Kinderbijslagwet beheerst door deze afdeling.   
+3.  In afwijking in zoverre van het eerste lid worden niet tot de belastbare periodieke uitkeringen en verstrekkingen gerekend termijnen van nettolijfrenten als bedoeld in afdeling 5.3A. 
 
 ###Artikel 3.101 
 
@@ -2059,7 +2078,7 @@ e. uitkeringen op grond van buitenlandse regelingen die naar aard en strekking o
 
 Tot de aangewezen periodieke uitkeringen en verstrekkingen behoren niet: 
 
-a. uitkeringen en verstrekkingen op grond van de Algemene Wet Bijzondere Ziektekosten;  
+a. uitkeringen en verstrekkingen op grond van de Wet langdurige zorg;  
 
 b. uitkeringen op grond van de Algemene Kinderbijslagwet en het kindgebonden budget op grond van de Wet op het kindgebonden budget;  
 
@@ -2067,9 +2086,9 @@ c. uitkeringen ingevolge artikel 4.3 van de Wet tegemoetkoming onderwijsbijdrage
 
 d. uitkeringen in de vorm van een gift of een voorwaardelijke gift ingevolge de Wet studiefinanciering 2000;  
 
-e. uitkeringen als bedoeld in de artikelen 7.51 tot en met 7.51k, tenzij het een voorziening voor aanvullende ondersteuning betreft als bedoeld in artikel 7.51g, en 17.10 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek;   
+e. uitkeringen als bedoeld in de artikelen 7.51 tot en met 7.51f, 7.51h, 7.51j, 7.51k, eerste en tweede lid, en 17.10 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek;   
 
-f. uitkeringen en verstrekkingen op grond van de Wet werk en bijstand die zijn bedoeld ter dekking van bepaalde noodzakelijke kosten, waaronder begrepen uitkeringen als bedoeld in artikel 36 van die wet;  
+f. uitkeringen en verstrekkingen op grond van de Participatiewet die zijn bedoeld ter dekking van bepaalde noodzakelijke kosten, waaronder begrepen uitkeringen als bedoeld in artikel 36 van die wet;  
 
 g.kinderopvangtoeslag op grond van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen;
 
@@ -2091,7 +2110,7 @@ j.uitkeringen krachtens artikel 44, eerste lid, onderdeel b, van de Algemene Wet
 
 k.de zorgtoeslag op grond van de Wet op de zorgtoeslag;
 
-l.uitkeringen en verstrekkingen op grond van de Wet maatschappelijke ondersteuning;
+l.uitkeringen en verstrekkingen op grond van de Wet maatschappelijke ondersteuning 2015;
 
 m. bij ministeriële regeling aan te wijzen uitkeringen die naar aard en strekking overeenkomen met uitkeringen als bedoeld in de onderdelen a tot en met l;  
 
@@ -2155,7 +2174,7 @@ Aftrekbare kosten van uitkeringen en verstrekkingen zijn de daarop drukkende kos
 
 ####Van aftrek uitgesloten kosten
 
-Tot de aftrekbare kosten van uitkeringen en verstrekkingen behoren niet renten van schulden, kosten van geldleningen daaronder begrepen. Artikel 3.14, zevende lid, en 3.16, negende lid, zijn van overeenkomstige toepassing. 
+Tot de aftrekbare kosten van uitkeringen en verstrekkingen behoren niet renten van schulden, kosten van geldleningen daaronder begrepen. Artikel 3.14, zesde lid, en artikel 3.16, negende lid, zijn van overeenkomstige toepassing. 
 
 ### Afdeling  3.5a  
 
@@ -2180,7 +2199,7 @@ Belastbare inkomsten uit eigen woning zijn de voordelen uit eigen woning vermind
 
 ####Eigen woning 
 
-1.  In deze afdeling en de daarop berustende bepalingen wordt verstaan onder *eigen woning*: een gebouw, een duurzaam aan een plaats gebonden schip of woonwagen als bedoeld in artikel 1, eerste lid, onder f, van de Huisvestingswet, of een gedeelte van een gebouw, een schip of een woonwagen, met de daartoe behorende aanhorigheden, voorzover dat de belastingplichtige of personen die behoren tot zijn huishouden anders dan tijdelijk als hoofdverblijf ter beschikking staat op grond van: 
+1.  In deze afdeling en de daarop berustende bepalingen wordt verstaan onder *eigen woning*: een gebouw, een duurzaam aan een plaats gebonden schip of woonwagen als bedoeld in artikel 1, onder l, van de Wet op de huurtoeslag, of een gedeelte van een gebouw, een schip of een woonwagen, met de daartoe behorende aanhorigheden, voorzover dat de belastingplichtige of personen die behoren tot zijn huishouden anders dan tijdelijk als hoofdverblijf ter beschikking staat op grond van: 
 
 a. eigendom, waaronder begrepen economische eigendom, of een recht van lidmaatschap van een coöperatie, indien met betrekking tot die woning de belastingplichtige of zijn *partner* de voordelen geniet, de kosten en lasten op de belastingplichtige of zijn partner drukken en de waardeverandering de belastingplichtige of zijn partner grotendeels aangaat;  
 
@@ -2218,16 +2237,16 @@ b. geen keuze hebben gemaakt, wordt geen van de woningen als hoofdverblijf aange
 | meer dan  | maar niet meer dan  | op jaarbasis  |
 |:---|:---|:---|
 | –  | € 12.500  | nihil  |
-| € 12.500  | € 25.000  | 0,25% van deze waarde  |
-| € 25.000  | € 50.000  | 0,40% van deze waarde  |
-| € 50.000  | € 75.000  | 0,55% van deze waarde  |
-| € 75.000  | € 1.040.000  | 0,70% van deze waarde  |
-| € 1.040.000  | –  | € 7350 vermeerderd met 1,80% van de eigenwoningwaarde voor zover deze uitgaat boven € 1 040 000  |
+| € 12.500  | € 25.000  | 0,30% van deze waarde  |
+| € 25.000  | € 50.000  | 0,45% van deze waarde  |
+| € 50.000  | € 75.000  | 0,60% van deze waarde  |
+| € 75.000  | € 1.050.000  | 0,75% van deze waarde  |
+| € 1.050.000  | –  | € 7.875 vermeerderd met 2,05% van de eigenwoningwaarde voor zover deze uitgaat boven € 1.050.000  |
 
 2.  De eigenwoningwaarde is de volgens hoofdstuk IV van de Wet waardering onroerende zaken voor die woning vastgestelde waarde of waarden voor het kalenderjaar. Indien een eigen woning deel uitmaakt van een onroerende zaak als bedoeld in artikel 16 van de Wet waardering onroerende zaken, wordt de eigenwoningwaarde gesteld op het gedeelte van de waarde van de onroerende zaak dat kan worden toegekend aan de woning.   
 3.  Met betrekking tot de eigen woning ter zake waarvan het tweede lid geen toepassing kan vinden door het ontbreken van een op grond van hoofdstuk IV van de Wet waardering onroerende zaken vastgestelde waarde, is de eigenwoningwaarde de waarde van de woning die wordt bepaald met overeenkomstige toepassing van het bepaalde bij of krachtens de artikelen 16 tot en met 18 en 20, tweede lid, van die wet en van het tweede lid, tweede volzin.   
 4.  De voordelen uit een eigen woning als bedoeld in artikel 3.111, tweede en derde lid, worden gesteld op nihil.    
-5.  De voordelen uit een eigen woning als bedoeld in artikel 3.111, zesde lid, worden gesteld op 1,15% van de eigenwoningwaarde. In afwijking van de eerste volzin, worden bij een eigenwoningwaarde van meer dan € 1 040 000 de voordelen gesteld op € 12.075 vermeerderd met 1,95% van de eigenwoningwaarde voor zover deze uitgaat boven € 1 040 000.   
+5.  De voordelen uit een eigen woning als bedoeld in artikel 3.111, zesde lid, worden gesteld op 1,25% van de eigenwoningwaarde. In afwijking van de eerste volzin, worden bij een eigenwoningwaarde van meer dan € 1.050.000 de voordelen gesteld op € 13.125 vermeerderd met 2,15% van de eigenwoningwaarde voor zover deze uitgaat boven € 1.050.000.   
 6.  Met betrekking tot een eigen woning als bedoeld in artikel 3.111, eerste lid, wordt de aanvangsdatum, onderscheidenlijk de einddatum van de periode waarover de voordelen uit die eigen woning in aanmerking worden genomen gesteld op de aanvangsdatum, onderscheidenlijk de einddatum waarop het adres van de desbetreffende eigen woning als woonadres van de belastingplichtige is opgenomen in de basisregistratie personen. De eerste volzin is niet van toepassing indien registratie van de belastingplichtige op het adres van de eigen woning in de basisregistratie personen niet mogelijk is of indien artikel 3.111, achtste lid, toepassing vindt. 
 
 ### Artikel  3.113  
@@ -2240,7 +2259,7 @@ Met betrekking tot de *eigen woning* die tijdelijk ter beschikking is gesteld aa
 
 ####Kamerverhuurvrijstelling
 
-1.  Indien de opbrengsten uit het anders dan voor korte duur ter beschikking stellen van al dan niet gestoffeerde of gemeubileerde woonruimte die geen zelfstandige woning vormt en deel uitmaakt van de woning die de belastingplichtige anders dan tijdelijk als hoofdverblijf ter beschikking staat, niet meer bedragen dan € 4.748 per jaar, wordt die woonruimte aangemerkt als onderdeel van de *eigen woning *en worden de voordelen, andere dan bedoeld in artikel 3.112, eerste lid, niet in aanmerking genomen.   
+1.  Indien de opbrengsten uit het anders dan voor korte duur ter beschikking stellen van al dan niet gestoffeerde of gemeubileerde woonruimte die geen zelfstandige woning vormt en deel uitmaakt van de woning die de belastingplichtige anders dan tijdelijk als hoofdverblijf ter beschikking staat, niet meer bedragen dan € 4.954 per jaar, wordt die woonruimte aangemerkt als onderdeel van de *eigen woning *en worden de voordelen, andere dan bedoeld in artikel 3.112, eerste lid, niet in aanmerking genomen.   
 2.  Voor toepassing van dit artikel dient zowel de belastingplichtige als degene aan wie ter beschikking is gesteld gedurende de tijd van de terbeschikkingstelling als ingezetene op het woonadres ter zake van de woning te zijn ingeschreven in de basisregistratie personen.  
 
 ###Artikel 3.115 
@@ -2273,7 +2292,7 @@ c. ter betaling van de kosten ter verkrijging van de schulden, bedoeld in de ond
 
 a. het positieve bedrag van de eigenwoningreserve, bedoeld in artikel 3.119aa, direct voorafgaand aan het moment waarop de woning ten aanzien van de belastingplichtige als een eigen woning wordt aangemerkt, onderscheidenlijk direct voorafgaand aan de verbetering, het onderhoud of de afkoop;  
 
-b. hetgeen met toepassing van de artikelen 33, onderdelen 5° en 6° en 33a, eerste lid, van de Successiewet 1956 ter zake van die verwerving, verbetering, dat onderhoud of die afkoop aan vrijstelling is genoten.     
+b. hetgeen met toepassing van de artikel 33, onderdelen 5° en 6°, van de Successiewet 1956 en artikel 33a, eerste lid, van de Successiewet 1956, zoals dat op 31 december 2014 luidde, ter zake van die verwerving, verbetering, dat onderhoud of die afkoop aan vrijstelling is genoten.     
 4.  Indien de belastingplichtige een eigen woning verwerft die bestemd is om hem en zijn partner anders dan tijdelijk als hoofdverblijf ter beschikking te staan, wordt, indien hun voordien reeds tezamen een woning anders dan tijdelijk als hoofdverblijf ter beschikking heeft gestaan en de partner ten aanzien van die eerdere woning een vervreemdingssaldo eigen woning heeft behaald, de op grond van het eerste lid berekende eigenwoningschuld van de belastingplichtige verlaagd, doch niet verder dan tot nihil, met de eigenwoningreserve, bedoeld in artikel 3.119aa, van de partner waarbij, indien de partner de woning mede heeft verworven, wordt uitgegaan van de eigenwoningreserve na toepassing van artikel 3.119aa met betrekking tot de partner. De in de eerste volzin bedoelde verlaging van de eigenwoningschuld wordt toegepast tot het moment waarop de woning hun niet meer gezamenlijk anders dan tijdelijk als hoofdverblijf ter beschikking staat.   
 5.  Op een schuld aan een aannemer of projectontwikkelaar die is ontstaan door het sluiten van een koop- of aannemingsovereenkomst, zijn de voorwaarden van het eerste lid, onderdelen b, c en d, niet van toepassing tot het moment van aflossen van die schuld dan wel, indien dat eerder is, het moment van levering van de onroerende zaak. Artikel 3.119c, derde lid, vindt geen toepassing voor zover de in dat lid bedoelde schuld die laatstelijk heeft bestaan een schuld als bedoeld in de eerste volzin betrof.  
 6.  Tot de eigenwoningschuld behoren niet: 
@@ -2293,7 +2312,7 @@ e. schulden waarvan de maximale looptijd van 360 maanden is verstreken.
 
 ####Eigenwoningreserve
 
-1.  Bij de vervreemding van een eigen woning wordt het vervreemdingssaldo eigen woning toegevoegd aan de eigenwoningreserve. Onder vervreemdingssaldo eigen woning wordt verstaan de waarde van de tegenprestatie bij de vervreemding van een eigen woning, verminderd met de kosten ter zake van die vervreemding en verminderd met de eigenwoningschuld voor de woning. Voor de toepassing van de eerste en tweede volzin wordt tot de eigenwoningschuld mede gerekend het bedrag van de verlaging, bedoeld in artikel 3.119a, vierde lid, en het bedrag dat op grond van artikel 3.119a, vijfde lid, onderdeel b, niet tot de eigenwoningschuld behoort.   
+1.  Bij de vervreemding van een eigen woning wordt het vervreemdingssaldo eigen woning toegevoegd aan de eigenwoningreserve. Onder vervreemdingssaldo eigen woning wordt verstaan de waarde van de tegenprestatie bij de vervreemding van een eigen woning, verminderd met de kosten ter zake van die vervreemding en verminderd met de eigenwoningschuld voor de woning. Voor de toepassing van de eerste en tweede volzin wordt tot de eigenwoningschuld mede gerekend het bedrag van de verlaging, bedoeld in artikel 3.119a, vierde lid, en het bedrag dat op grond van artikel 3.119a, zesde lid, onderdeel b, niet tot de eigenwoningschuld behoort.   
 2.  De eigenwoningreserve neemt af, doch niet verder dan tot nihil, met: 
 
 a. een bedrag gelijk aan de kosten ter verwerving van een eigen woning verminderd met het bedrag dat ingevolge artikel 3.119a, eerste lid, als eigenwoningschuld voor die woning in aanmerking wordt genomen;  
@@ -2356,8 +2375,9 @@ b. het moment van vervreemding van de eigen woning;
 c. het moment van wijziging van de maandelijkse rentevoet, bedoeld in het tweede lid;  
 
 d. het laatste moment waarop de voorgaande schuld bestond, bedoeld in het derde lid.     
-8.  Voor zover krachtens boedelmenging door voltrekking van een huwelijk, krachtens wijziging van huwelijkse voorwaarden of krachtens erfrecht een tot de eigenwoningschuld behorende schuld van een van de partners overgaat op de andere partner gaat ook het aflossingsschema over op die andere partner.   
-9.  Bij ministeriële regeling kunnen nadere regels worden gesteld voor de toepassing van dit artikel.  
+8.  Voor de toepassing van dit artikel wordt onder het aangaan van een nieuwe schuld als bedoeld in artikel 3.119a, eerste lid, mede verstaan het gaan kwalificeren van een bestaande schuld als eigenwoningschuld.  
+9.  Voor zover krachtens boedelmenging door voltrekking van een huwelijk, krachtens wijziging van huwelijkse voorwaarden of krachtens erfrecht een tot de eigenwoningschuld behorende schuld van een van de partners overgaat op de andere partner gaat ook het aflossingsschema over op die andere partner.   
+10.  Bij ministeriële regeling kunnen nadere regels worden gesteld voor de toepassing van dit artikel.  
 
 ### Artikel  3.119d  
 
@@ -2429,7 +2449,7 @@ b. voor zover zij betrekking hebben op tijdvakken of delen daarvan die vallen na
 
 ####Aftrekbare kosten restschuld vervreemde eigen woning
 
-1.  Als aftrekbare kosten met betrekking tot een eigen woning als bedoeld in artikel 3.120 worden voor een periode van tien jaar na het tijdstip van vervreemding van een eigen woning mede aangemerkt de renten en kosten van geldleningen voor een restschuld van die vervreemde eigen woning.   
+1.  Als aftrekbare kosten met betrekking tot een eigen woning als bedoeld in artikel 3.120 worden voor een periode van vijftien jaar na het tijdstip van vervreemding van een eigen woning mede aangemerkt de renten en kosten van geldleningen voor een restschuld van die vervreemde eigen woning.   
 2.  Voor de toepassing van dit artikel wordt onder een restschuld van een vervreemde eigen woning verstaan de schuld die de belastingplichtige had op het moment direct voorafgaand aan een vervreemding in de periode van 29 oktober 2012 tot en met 31 december 2017 van een eigen woning, voor zover deze schuld heeft geleid tot een negatief vervreemdingssaldo eigen woning.   
 3.  Voor zover de schuld, bedoeld in het tweede lid, wordt omgezet in een andere schuld, wordt de tweede schuld voor de toepassing van dit artikel beschouwd als een voortzetting van de eerste.   
 4.  Artikel 3.120, vijfde lid, is van overeenkomstige toepassing.  
@@ -2491,7 +2511,7 @@ a. lijfrenten als bedoeld in artikel 1.7, eerste lid, onderdeel a, waarvan de te
 
 b. lijfrenten als bedoeld in artikel 1.7, eerste lid, onderdeel a, waarvan de termijnen toekomen aan een natuurlijk persoon en ingaan bij het overlijden van de belastingplichtige, van zijn *partner* of zijn gewezen partner, waarbij indien de termijnen toekomen aan een van hun bloed- of aanverwanten, niet zijnde de partner of gewezen partner, in de rechte lijn of in de tweede of derde graad van de zijlijn, deze uitsluitend eindigen hetzij bij het overlijden van de gerechtigde hetzij uiterlijk op het tijdstip waarop deze de leeftijd van 30 jaar bereikt;  
 
-c. lijfrenten als bedoeld in artikel 1.7, eerste lid, onderdeel a, waarvan de termijnen toekomen aan de belastingplichtige, een looptijd hebben van ten minste vijf jaar, niet eerder ingaan dan in het jaar waarin hij de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, bereikt en uiterlijk ingaan in het jaar waarin hij de leeftijd bereikt die vijf jaar hoger is dan de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, voor zover het gezamenlijke bedrag aan termijnen van die lijfrenten – beoordeeld naar het tijdstip van premiebetaling – niet meer beloopt dan € 20 953 per jaar.     
+c. lijfrenten als bedoeld in artikel 1.7, eerste lid, onderdeel a, waarvan de termijnen toekomen aan de belastingplichtige, een looptijd hebben van ten minste vijf jaar, niet eerder ingaan dan in het jaar waarin hij de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, bereikt en uiterlijk ingaan in het jaar waarin hij de leeftijd bereikt die vijf jaar hoger is dan de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, voor zover het gezamenlijke bedrag aan termijnen van die lijfrenten – beoordeeld naar het tijdstip van premiebetaling – niet meer beloopt dan € 21.142 per jaar.     
 2.  In afwijking van artikel 1.7, eerste lid, kan voor rechten als bedoeld in het eerste lid, onderdelen a en c zijn overeengekomen dat het bedrag van de uitkeringen als gevolg van het overlijden van de partner of gewezen partner afneemt tot ten hoogste 70% van het bedrag dat gold vóór het overlijden.   
 3.  In afwijking van artikel 1.7, eerste lid, is voor rechten als bedoeld in het eerste lid, onderdeel b, waarvan de termijnen eindigen uiterlijk op het tijdstip waarop de gerechtigde de leeftijd van 30 jaar bereikt de grootte van de kans op overlijden van de gerechtigde niet van belang.  
 
@@ -2548,7 +2568,7 @@ a.bij in leven zijn van de verzekeringnemer:
 
 2°.dat, ingeval de eerste termijn wordt uitgekeerd vóór het kalenderjaar waarin hij de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, bereikt, de periode tussen de eerste termijn en de laatste termijn ten minste 20 jaar bedraagt, vermeerderd met het aantal jaren tussen het tijdstip van het uitkeren van de eerste termijn en de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, van de verzekeringnemer;
 
-3°.dat, ingeval de eerste termijn wordt uitgekeerd na het kalenderjaar waarin hij de leeftijd heeft bereikt die een jaar lager is dan de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, de periode tussen de eerste termijn en de laatste termijn ten minste 5 jaar bedraagt indien het gezamenlijke bedrag aan termijnen in een kalenderjaar niet meer beloopt dan € 20 953, en ten minste 20 jaar bedraagt indien het gezamenlijke bedrag aan termijnen in een kalenderjaar meer beloopt dan dat bedrag;
+3°.dat, ingeval de eerste termijn wordt uitgekeerd na het kalenderjaar waarin hij de leeftijd heeft bereikt die een jaar lager is dan de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, de periode tussen de eerste termijn en de laatste termijn ten minste 5 jaar bedraagt indien het gezamenlijke bedrag aan termijnen in een kalenderjaar niet meer beloopt dan € 21.142, en ten minste 20 jaar bedraagt indien het gezamenlijke bedrag aan termijnen in een kalenderjaar meer beloopt dan dat bedrag;
 
 4°.dat, ingeval de uitkering van de eerste termijn plaatsvindt binnen zes maanden na het overlijden van de partner of gewezen partner van de verzekeringnemer, in afwijking van het onder 2° en 3° bepaalde, de periode tussen de eerste termijn en de laatste termijn ten minste 5 jaar bedraagt;
 
@@ -2561,7 +2581,7 @@ b.bij overlijden van de verzekeringnemer terwijl ingevolge onderdeel a nog geen 
 3°.dat, ingeval de termijnen toekomen aan een bloed- of aanverwant, niet zijnde de partner of gewezen partner, in de rechte lijn of in de tweede of derde graad van de zijlijn die jonger is dan 30 jaar, de periode tussen de eerste termijn en de laatste termijn hetzij ten minste 5 jaar bedraagt doch nimmer meer dan het aantal jaren dat deze bloed- of aanverwant jonger is dan 30 jaar ten tijde van het uitkeren van de eerste termijn, hetzij ten minste 20 jaar bedraagt;
 
 4°.dat, ingeval de termijnen toekomen aan een ander persoon dan bedoeld onder 2° en 3°, de periode tussen de eerste termijn en de laatste termijn ten minste 5 jaar bedraagt. 
-5.  In afwijking van het eerste lid mag het tegoed van een lijfrentespaarrekening, onderscheidenlijk de waarde van een lijfrentebeleggingsrecht, waarvan de termijnen nog niet zijn ingegaan, in één termijn worden uitgekeerd, mits de waarde in het economische verkeer van dat tegoed, onderscheidenlijk van dat recht, op het onmiddellijk aan het tijdstip van uitkering voorafgaande tijdstip niet meer bedraagt dan € 4242. Voor de toepassing van de eerste volzin worden lijfrentespaarrekeningen en lijfrentebeleggingsrechten die de belastingplichtige aanhoudt bij eenzelfde bank of beheerder van een beleggingsinstelling of instelling voor collectieve belegging in effecten, geacht tezamen één rekening onderscheidenlijk één beleggingsrecht te vormen.  
+5.  In afwijking van het eerste lid mag het tegoed van een lijfrentespaarrekening, onderscheidenlijk de waarde van een lijfrentebeleggingsrecht, waarvan de termijnen nog niet zijn ingegaan, in één termijn worden uitgekeerd, mits de waarde in het economische verkeer van dat tegoed, onderscheidenlijk van dat recht, op het onmiddellijk aan het tijdstip van uitkering voorafgaande tijdstip niet meer bedraagt dan € 4.281. Voor de toepassing van de eerste volzin worden lijfrentespaarrekeningen en lijfrentebeleggingsrechten die de belastingplichtige aanhoudt bij eenzelfde bank of beheerder van een beleggingsinstelling of instelling voor collectieve belegging in effecten, geacht tezamen één rekening onderscheidenlijk één beleggingsrecht te vormen.  
 6. Indien ingevolge het vierde lid, onderdeel a of b, termijnen zijn ingegaan en de genieter van de termijnen voor uitkering van de laatste termijn overlijdt, gaat het recht op de nog niet uitgekeerde termijnen over op zijn erfgenamen. 
 7. Artikel 1.7, derde lid, is van overeenkomstige toepassing met betrekking tot de termijnen, bedoeld in het vierde lid en zesde lid. 
 8. Voor de toepassing van deze wet en de daarop berustende bepalingen en van de Wet op de loonbelasting 1964 en de daarop berustende bepalingen worden de termijnen, bedoeld in het vierde lid, vijfde lid en zesde lid, gelijkgesteld met periodieke uitkeringen en verstrekkingen. 
@@ -2572,17 +2592,25 @@ b.bij overlijden van de verzekeringnemer terwijl ingevolge onderdeel a nog geen 
 
 ####In aanmerking te nemen premies voor lijfrenten
 
-1.  Indien de belastingplichtige bij de aanvang van het kalenderjaar nog niet de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, heeft bereikt kan hij, vanwege een pensioentekort in het voorafgaande kalenderjaar, premies voor lijfrenten als bedoeld in artikel 3.124, eerste lid, onderdeel a, in aanmerking nemen tot een gezamenlijk bedrag van ten hoogste 15,5% van de premiegrondslag, waarbij op de uitkomst van deze berekening nog in aftrek komt de volgens het vierde lid bepaalde verminderingen in verband met de opbouw van pensioenaanspraken en dotaties aan de oudedagsreserve.   
-2.  Indien de belastingplichtige in de aan het kalenderjaar voorafgaande periode van zeven jaar minder premies voor lijfrenten in aanmerking heeft genomen dan mogelijk was op grond van het eerste lid kan hij, op bij zijn aangifte gedaan verzoek, het niet aangewende bedrag, voorzover dit niet in een eerder jaar op grond van dit lid in aanmerking is genomen, te beginnen met het in het oudste jaar niet aangewende bedrag, in het kalenderjaar alsnog in aanmerking nemen. Het alsnog in aanmerking te nemen bedrag bedraagt ten hoogste 17% van de premiegrondslag, met een maximum van € 6989. Voor de belastingplichtige die bij het begin van het kalenderjaar een leeftijd heeft bereikt die ten hoogste tien jaar lager is dan de in dat kalenderjaar geldende pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, wordt het in de vorige volzin genoemde bedrag van € 6989 verhoogd tot € 13 802.   
-3.  De premiegrondslag bestaat uit het gezamenlijke bedrag in het voorafgaande kalenderjaar van de winst uit onderneming vóór toevoeging aan en afneming van de oudedagsreserve en vóór de ondernemersaftrek, het belastbare loon, het belastbare resultaat uit overige werkzaamheden en de belastbare periodieke uitkeringen en verstrekkingen van de belastingplichtige, verminderd met een bedrag van € 11 829. Als premiegrondslag wordt ten hoogste een bedrag van € 162 457 in aanmerking genomen. Bij algemene maatregel van bestuur kan worden bepaald dat uitkeringen volgens een pensioenregeling, termijnen van een lijfrente, of vergelijkbare inkomensbestanddelen niet behoren tot de premiegrondslag.   
+1.  Indien de belastingplichtige bij de aanvang van het kalenderjaar nog niet de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, heeft bereikt kan hij, vanwege een pensioentekort in het voorafgaande kalenderjaar, premies voor lijfrenten als bedoeld in artikel 3.124, eerste lid, onderdeel a, in aanmerking nemen tot een gezamenlijk bedrag van ten hoogste 13,8% van de premiegrondslag, waarbij op de uitkomst van deze berekening nog in aftrek komt de volgens het vierde lid bepaalde verminderingen in verband met de opbouw van pensioenaanspraken en dotaties aan de oudedagsreserve.   
+2.  Indien de belastingplichtige in de aan het kalenderjaar voorafgaande periode van zeven jaar minder premies voor lijfrenten in aanmerking heeft genomen dan mogelijk was op grond van het eerste lid kan hij, op bij zijn aangifte gedaan verzoek, het niet aangewende bedrag, voorzover dit niet in een eerder jaar op grond van dit lid in aanmerking is genomen, te beginnen met het in het oudste jaar niet aangewende bedrag, in het kalenderjaar alsnog in aanmerking nemen. Het alsnog in aanmerking te nemen bedrag bedraagt ten hoogste 17% van de premiegrondslag, met een maximum van € 7.052. Voor de belastingplichtige die bij het begin van het kalenderjaar een leeftijd heeft bereikt die ten hoogste tien jaar lager is dan de in dat kalenderjaar geldende pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, wordt het in de vorige volzin genoemde bedrag van € 7.052 verhoogd tot € 13.927.   
+3.  De premiegrondslag bestaat uit het gezamenlijke bedrag in het voorafgaande kalenderjaar van: 
+
+a. de winst uit onderneming vóór toevoeging aan en afneming van de oudedagsreserve en vóór de ondernemersaftrek;  
+
+b. het belastbare loon;  
+
+c. het belastbare resultaat uit overige werkzaamheden;  
+
+d. de belastbare periodieke uitkeringen en verstrekkingen;   van de belastingplichtige waarvan ten hoogste € 100.000 in aanmerking wordt genomen, verminderd met een bedrag van € 11.936.   
 4.  Voor de toepassing van het eerste lid wordt: 
 
-a. de vermindering in verband met de opbouw van pensioenaanspraken gesteld op: 7,2 keer de aan het voorafgaande kalenderjaar toe te rekenen aangroei van het bedrag van de jaarlijkse uitkeringen van de aan de belastingplichtige toekomende aanspraken volgens een pensioenregeling voorzover deze aangroei het gevolg is van de toeneming van de diensttijd in dat kalenderjaar;  
+a. de vermindering in verband met de opbouw van pensioenaanspraken gesteld op: 6,5 keer de aan het voorafgaande kalenderjaar toe te rekenen aangroei van het bedrag van de jaarlijkse uitkeringen van de aan de belastingplichtige toekomende aanspraken volgens een pensioenregeling voorzover deze aangroei het gevolg is van de toeneming van de diensttijd in dat kalenderjaar;  
 
 b. de vermindering in verband met dotaties aan de oudedagsreserve gesteld op het bedrag waarmee de toevoeging aan de oudedagsreserve in het voorafgaande kalenderjaar overtreft de afneming van die reserve bij het einde van dat kalenderjaar volgens artikel 3.70, eerste lid, onderdeel b.     
 5.  Indien de belastingplichtige in het kalenderjaar een onderneming – of een gedeelte daarvan – waaruit hij als ondernemer winst geniet staakt, wordt op zijn verzoek in afwijking van de voorgaande leden voor de berekening van hetgeen in het kalenderjaar aan lijfrentepremies in aanmerking kan worden genomen, niet uitgegaan van de voor die berekening relevante gegevens van het voorafgaande kalenderjaar, maar van die van het kalenderjaar zelf. Alsdan wordt voor de toepassing van het eerste en tweede lid in het volgende kalenderjaar de premiegrondslag verminderd met de daarin begrepen stakingswinst.   
-6.  Het in het eerste lid genoemde percentage wordt jaarlijks bij algemene maatregel van bestuur gewijzigd. De wijziging vindt voor het eerst plaats per 1 januari 2015. Bij deze wijziging wordt het in het eerste lid genoemde percentage verlaagd met 0,6%-punt maal het aantal jaren waarmee ingevolge artikel 18a, elfde lid, van de Wet op de loonbelasting 1964 de in artikel 18a, zesde lid, van die wet genoemde pensioenrichtleeftijd wordt gewijzigd. Een wijziging ingevolge de eerste volzin van het in het eerste lid genoemde percentage wordt bekendgemaakt ten minste een jaar voordat deze toepassing vindt.   
-7.  De in het vierde lid, onderdeel a, genoemde vermenigvuldigingsfactor wordt jaarlijks bij algemene maatregel van bestuur gewijzigd. De wijziging vindt voor het eerst plaats per 1 januari 2015. Bij deze wijziging wordt de in het vierde lid, onderdeel a, genoemde vermenigvuldigingsfactor verlaagd met 0,3 maal het aantal jaren waarmee ingevolge artikel 18a, elfde lid, van de Wet op de loonbelasting 1964 de in artikel 18a, zesde lid, van die wet genoemde pensioenrichtleeftijd wordt gewijzigd. Een wijziging ingevolge de eerste volzin van de in het vierde lid, onderdeel a, genoemde vermenigvuldigingsfactor wordt bekendgemaakt ten minste een jaar voordat deze toepassing vindt.  
+6.  Het in het eerste lid genoemde percentage wordt jaarlijks bij algemene maatregel van bestuur gewijzigd. De wijziging vindt voor het eerst plaats per 1 januari 2015. Bij deze wijziging wordt het in het eerste lid genoemde percentage verlaagd met 0,5%-punt maal het aantal jaren waarmee ingevolge artikel 18a, elfde lid, van de Wet op de loonbelasting 1964 de in artikel 18a, zesde lid, van die wet genoemde pensioenrichtleeftijd wordt gewijzigd. Een wijziging ingevolge de eerste volzin van het in het eerste lid genoemde percentage wordt bekendgemaakt ten minste een jaar voordat deze toepassing vindt.   
+7.  De in het vierde lid, onderdeel a, genoemde vermenigvuldigingsfactor wordt jaarlijks bij algemene maatregel van bestuur gewijzigd. De wijziging vindt voor het eerst plaats per 1 januari 2015. Bij deze wijziging wordt de in het vierde lid, onderdeel a, genoemde vermenigvuldigingsfactor verlaagd met 0,23 maal het aantal jaren waarmee ingevolge artikel 18a, elfde lid, van de Wet op de loonbelasting 1964 de in artikel 18a, zesde lid, van die wet genoemde pensioenrichtleeftijd wordt gewijzigd. Een wijziging ingevolge de eerste volzin van de in het vierde lid, onderdeel a, genoemde vermenigvuldigingsfactor wordt bekendgemaakt ten minste een jaar voordat deze toepassing vindt.  
 8.  Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot de bepaling van de in het vierde lid, onderdeel a, bedoelde waardeaangroei van pensioenaanspraken en de verstrekking van informatie daaromtrent.  
 
 ### Artikel  3.128  
@@ -2598,7 +2626,7 @@ Een belastingplichtige met een oudedagsreserve kan, vanwege de omzetting van die
 1.  Een *ondernemer* die in het kalenderjaar een onderneming – of een gedeelte daarvan – waaruit hij als ondernemer winst geniet staakt kan, vanwege de omzetting van de stakingswinst in een *lijfrente*, premies voor lijfrenten als bedoeld in artikel 3.124, eerste lid, onderdeel a, in aanmerking nemen tot een gezamenlijk bedrag van ten hoogste het bedrag van de winst behaald met of bij die staking, maar tot niet meer dan het in het tweede lid aangegeven maximum verminderd met het in het derde lid bedoelde bedrag aan reeds opgebouwde voorzieningen.   
 2.  Het maximum bedraagt: 
 
-a. € 443 059 in de gevallen waarin: 
+a.  € 447.047 in de gevallen waarin: 
 
 1°. de ondernemer ten tijde van het staken een leeftijd heeft bereikt die ten hoogste vijf jaar lager is dan de ten tijde van het staken geldende pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet;  
 
@@ -2606,13 +2634,13 @@ a. € 443 059 in de gevallen waarin:
 
 3°. de onderneming wordt gestaakt door het overlijden van de ondernemer;    
 
-b. € 221 537 in de gevallen – andere dan die van onderdeel a – waarin: 
+b. € 223.531 in de gevallen – andere dan die van onderdeel a – waarin: 
 
 1°. de ondernemer ten tijde van het staken een leeftijd heeft bereikt die ten hoogste vijftien jaar lager is dan de ten tijde van het staken geldende pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, of  
 
 2°. de aan de ondernemer toekomende termijnen van lijfrenten dadelijk ingaan;    
 
-c. € 110 774 in de overige gevallen.     
+c. € 111.771 in de overige gevallen.     
 3.  Het bedrag aan reeds opgebouwde voorzieningen is de som van: 
 
 a. de waarde in het economische verkeer ten tijde van het staken van de in artikel 3.13, eerste lid, onderdelen b en c, bedoelde aanspraken;  
@@ -2676,7 +2704,7 @@ b. het een aanspraak als bedoeld in artikel 3.125 betreft en de aanspraak – be
 
 c. het een aanspraak als bedoeld in artikel 3.125 betreft en de aanspraak zodanig wordt gewijzigd dat indien de gewijzigde aanspraak van begin af aan zou zijn bedongen het op grond van de artikelen 3.127 en 3.129 in totaal aanmerking te nemen bedrag aan premies voor lijfrenten lager zou zijn geweest dan het in aftrek gebrachte bedrag;  
 
-d. de aanspraak wordt afgekocht of vervreemd, behoudens ingeval een aanspraak op *lijfrente* of periodieke uitkeringen waarvan nog geen termijnen zijn vervallen, in één bedrag wordt uitgekeerd en de waarde in het economische verkeer van die aanspraak op het onmiddellijk aan het tijdstip van afkoop voorafgaande tijdstip niet meer bedraagt dan € 4242; deze uitkering in één bedrag wordt als een termijn van lijfrente aangemerkt. Artikel 3.126a, vijfde lid, tweede volzin, is van overeenkomstige toepassing;  
+d. de aanspraak wordt afgekocht of vervreemd, behoudens ingeval een aanspraak op *lijfrente* of periodieke uitkeringen waarvan nog geen termijnen zijn vervallen, in één bedrag wordt uitgekeerd en de waarde in het economische verkeer van die aanspraak op het onmiddellijk aan het tijdstip van afkoop voorafgaande tijdstip niet meer bedraagt dan € 4.281; deze uitkering in één bedrag wordt als een termijn van lijfrente aangemerkt. Artikel 3.126a, vijfde lid, tweede volzin, is van overeenkomstige toepassing;  
 
 e. de aanspraak formeel of feitelijk voorwerp van zekerheid wordt, anders dan ten behoeve van uitstel van betaling op grond van artikel 25, vijfde lid, van de Invorderingswet 1990;  
 
@@ -2696,7 +2724,14 @@ k. een pensioentekort waarvoor premies voor lijfrenten in aanmerking zijn genome
 5.  Het tweede lid, aanhef en onderdeel i, heeft mede betrekking op verplichtingen die betrekking hebben op aanspraken op periodieke uitkeringen en verstrekkingen ter zake van invaliditeit, ziekte of ongeval.   
 6.  Voorzover voor de belasting die betrekking heeft op de premies voor een aanspraak, en het daarover behaalde rendement, die volgens het eerste lid in samenhang met het tweede lid, onderdelen h en j, als negatieve uitgaven voor inkomensvoorzieningen in aanmerking zijn genomen, uitstel van betaling is verleend volgens artikel 25, vijfde lid, van de Invorderingswet 1990, wordt het eerste lid voor het overige geacht geen toepassing te hebben gevonden op die premies en het behaalde rendement.   
 7.  Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot het bepaalde in het tweede lid, aanhef en onderdeel k.   
-8. Met betrekking tot een inkomensvoorziening via een lijfrentespaarrekening of lijfrentebeleggingsrecht worden onder de in het tweede lid genoemde omstandigheden mede begrepen omstandigheden die overeenkomen met de in het tweede lid omschreven omstandigheden.
+8. Met betrekking tot een inkomensvoorziening via een lijfrentespaarrekening of lijfrentebeleggingsrecht worden onder de in het tweede lid genoemde omstandigheden mede begrepen omstandigheden die overeenkomen met de in het tweede lid omschreven omstandigheden. 
+9.  Bij een gehele of gedeeltelijke afkoop van een aanspraak op lijfrente als bedoeld in artikel 3.125 of artikel 3.126a vindt het eerste lid geen toepassing indien: 
+
+a. de verzekeringnemer dan wel, indien deze is overleden, de gerechtigde tot de aanspraak langdurig arbeidsongeschikt is en voldoet aan bij ministeriële regeling te stellen voorwaarden ter zake van deze arbeidsongeschiktheid;  
+
+b. de verzekeringnemer dan wel, indien deze is overleden, de gerechtigde tot de aanspraak op het moment van afkoop nog niet de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, heeft bereikt; en  
+
+c. het gezamenlijke bedrag van hetgeen ter zake van dergelijke afkopen in het kalenderjaar wordt ontvangen niet meer bedraagt dan € 40 000, dan wel, indien dat hoger is, niet meer dan het gemiddelde van de premiegrondslag, bedoeld in artikel 3.127, derde lid, vermeerderd met het in dat lid als laatste vermelde bedrag, van het kalenderjaar en het voorafgaande kalenderjaar.   Hetgeen wordt ontvangen ter zake van een afkoop als bedoeld in de eerste volzin, wordt als een termijn van lijfrente aangemerkt. 
 
 ### Artikel  3.134  
 
@@ -2729,11 +2764,15 @@ c. de aanspraak wordt afgekocht of vervreemd;
 
 d. de aanspraak formeel of feitelijk voorwerp van zekerheid wordt, anders dan ten behoeve van uitstel van betaling op grond van artikel 25, vijfde lid, van de Invorderingswet 1990, of  
 
-e. de verplichting inzake de aanspraak geheel of gedeeltelijk overgaat op een andere instelling dan de instelling waarbij de aanspraak op grond van de in artikel 1.7, tweede lid, onderdeel b, genoemde wettelijke regelingen is ondergebracht.     
+e. de verplichting inzake de aanspraak geheel of gedeeltelijk overgaat op een andere instelling dan de instelling waarbij de aanspraak op grond van de in artikel 1.7, tweede lid, onderdeel b, genoemde wettelijke regelingen is ondergebracht;  
+
+f. de zekerheidstelling wordt beëindigd door de belastingplichtige die zich op grond van artikel 3.18, vijfde lid, onderdeel f, heeft verplicht deze zekerheid te stellen.    
 2.  Voor de toepassing van dit artikel alsmede van de artikelen 3.136 en 3.137 wordt degene die verplicht is de premies voor de aanspraak te betalen, aangemerkt als de verzekeringnemer.   
 3.  Voorzover een in het eerste lid bedoelde aanspraak wordt omgezet in een andere zodanige aanspraak, wordt de tweede aanspraak beschouwd als een voortzetting van de eerste.   
 4.  Het eerste lid, onderdelen a en c, is niet van toepassing indien de belastingplichtige in het kader van scheiding van tafel en bed of echtscheiding de aanspraak geheel of gedeeltelijk vervreemdt aan zijn binnenlands belastingplichtige echtgenoot of gewezen echtgenoot dan wel omzet in een zodanige aanspraak met als gerechtigde die echtgenoot of gewezen echtgenoot. Voor de toepassing van deze wet wordt de verkregen of omgezette aanspraak geacht de voortzetting te zijn van de eerste aanspraak.   
-5.  Onze Minister kan onder door hem te stellen voorwaarden bepalen dat het eerste lid, onderdeel e, niet van toepassing is.  
+5.  Onze Minister kan onder door hem te stellen voorwaarden bepalen dat het eerste lid, onderdeel e, niet van toepassing is.   
+6.  Het eerste lid is niet van toepassing voor zover een in het eerste lid, onderdeel c, bedoelde uitkering of afkoopsom wordt uitgekeerd met toepassing van artikel 66, 67 of 68 van de Pensioenwet of artikel 78, 79 of 80 van de Wet verplichte beroepspensioenregeling.   
+7.  Het eerste lid is niet van toepassing bij een vervreemding als bedoeld in artikel 57, vijfde lid, van de Pensioenwet of artikel 68, vijfde lid, van de Wet verplichte beroepspensioenregeling of bij een vermindering als bedoeld in artikel 134, eerste lid, van de Pensioenwet of artikel 129, eerste lid, van de Wet verplichte beroepspensioenregeling. 
 
 ### Artikel  3.136  
 
@@ -2870,7 +2909,7 @@ Voor de toepassing van deze afdeling worden inkomen uit werk en woning en verlie
 3.  De in het eerste lid genoemde termijn van drie jaar wordt voor een belastingplichtige aan wie wegens gemoedsbezwaren tegen één of meer volksverzekeringen ontheffing is verleend als bedoeld in artikel 64, eerste lid, aanhef en onderdeel a, van de Wet financiering sociale verzekeringen, en hij daarvoor bij de aangifte kiest, voor de in het vierde lid bedoelde ondernemingsverliezen verlengd tot acht jaar.   
 4.  Het derde lid is van toepassing op ondernemingsverliezen die zijn toe te rekenen aan kosten en lasten van schade als gevolg van risico's die andere belastingplichtigen die wat betreft aard en omvang van de bedrijfsactiviteiten in een vergelijkbare positie verkeren als de belastingplichtige, plegen te verzekeren.   
 5.  De verrekening vindt plaats in de volgorde waarin de verliezen zijn ontstaan en de inkomens zijn genoten.   
-6.  Het verlies uit werk en woning voorzover dit is voortgevloeid uit de toerekening van gemeenschappelijke inkomensbestanddelen aan de belastingplichtige en niet kan worden verrekend met inkomens uit werk en woning van de jaren waarin de belastingplichtige een partner heeft, wordt ingeval het partnerschap door het overlijden van de belastingplichtige eindigt aangemerkt als verlies uit werk en woning van de partner mits zowel de belastingplichtige als zijn partner op het tijdstip van beëindiging binnenlands belastingplichtige was.   
+6.  Het verlies uit werk en woning voorzover dit is voortgevloeid uit de toerekening van gemeenschappelijke inkomensbestanddelen aan de belastingplichtige en niet kan worden verrekend met inkomens uit werk en woning van de jaren waarin de belastingplichtige een partner heeft, wordt ingeval het partnerschap door het overlijden van de belastingplichtige eindigt aangemerkt als verlies uit werk en woning van de partner mits zowel de belastingplichtige als zijn partner op het tijdstip van beëindiging binnenlandse belastingplichtige of kwalificerende buitenlandse belastingplichtige als bedoeld in artikel 7.8 was.   
 7.  Het ondernemingsverlies dat met toepassing van artikel 14c, derde lid, van de Wet op de vennootschapsbelasting 1969 geacht wordt te zijn geleden door de aandeelhouder die de onderneming voortzet, wordt uitsluitend verrekend met de winst uit de voortgezette onderneming.  
 
 ### Artikel  3.151  
@@ -2912,7 +2951,7 @@ Voor de toepassing van deze afdeling worden inkomen uit werk en woning en verlie
 
 ####Middeling
 
-1.  Op verzoek wordt aan degene die gedurende een tijdvak van drie aaneengesloten gehele kalenderjaren (middelingstijdvak) binnenlandse belastingplichtige is geweest een teruggaaf van belasting op het belastbare inkomen uit werk en woning (middelingsteruggaaf) verleend. Voor de toepassing van dit artikel wordt mede als binnenlandse belastingplichtige beschouwd de buitenlandse belastingplichtige van wie het inkomen, na toepassing van regelingen ter voorkoming van dubbele belasting, geheel of nagenoeg geheel in Nederland is onderworpen aan de loonbelasting of inkomstenbelasting.   
+1.  Op verzoek wordt aan degene die gedurende een tijdvak van drie aaneengesloten gehele kalenderjaren (middelingstijdvak) binnenlandse belastingplichtige of kwalificerende buitenlandse belastingplichtige als bedoeld in artikel 7.8 is geweest een teruggaaf van belasting op het belastbare inkomen uit werk en woning (middelingsteruggaaf) verleend.   
 2.  Een kalenderjaar dat tot een middelingstijdvak behoort, wordt niet in een ander middelingstijdvak betrokken.   
 3.  De middelingsteruggaaf wordt berekend op het verschil van de belasting op het belastbare inkomen uit werk en woning die over de jaren van het middelingstijdvak is geheven en de belasting op het belastbare inkomen uit werk en woning die verschuldigd zou zijn indien het belastbare inkomen uit werk en woning in elk van die jaren een derde gedeelte zou bedragen van het totaal van de – ten minste op nihil te stellen – belastbare inkomens uit werk en woning in die jaren (herrekende belasting), voorzover dit verschil meer bedraagt dan € 545.   
 4.  Als over de jaren van het middelingstijdvak geheven belasting op het belastbare inkomen uit werk en woning wordt aangemerkt de belasting die is geheven vóór toepassing van artikel 2.10, tweede lid, artikel 2.10a, tweede lid, en de heffingskorting. Indien met toepassing van artikel 9.4 over een jaar geen aanslag is vastgesteld, wordt voor dat jaar als geheven belasting op het belastbare inkomen uit werk en woning aangemerkt het gezamenlijke bedrag van de voorheffingen, bedoeld in artikel 9.2, voorzover die betrekking hebben op het belastbare inkomen uit werk en woning, vermeerderd met de daarbij in aanmerking genomen heffingskorting.   
@@ -3619,7 +3658,7 @@ Voor de toepassing van deze afdeling worden inkomen uit aanmerkelijk belang en v
 1.  Het verlies uit aanmerkelijk belang wordt verrekend met de inkomens uit aanmerkelijk belang van het voorafgaande kalenderjaar en de negen volgende kalenderjaren.   
 2.  Voor de toepassing van het eerste lid wordt onder verlies uit aanmerkelijk belang mede verstaan verlies uit aanmerkelijk belang in een in Nederland gevestigde vennootschap zoals bedoeld in artikel 7.5, tweede lid.   
 3.  De verrekening vindt plaats in de volgorde waarin de verliezen zijn ontstaan en de inkomens zijn genoten.   
-4.  Het verlies uit aanmerkelijk belang voorzover dit is voortgevloeid uit de toerekening van gemeenschappelijke inkomensbestanddelen aan de belastingplichtige en niet kan worden verrekend met inkomens uit aanmerkelijk belang van de jaren waarin de belastingplichtige een partner heeft, wordt ingeval het partnerschap door het overlijden van de belastingplichtige eindigt aangemerkt als verlies uit aanmerkelijk belang van de partner mits zowel de belastingplichtige als zijn partner op het tijdstip van beëindiging binnenlands belastingplichtig was.  
+4.  Het verlies uit aanmerkelijk belang voorzover dit is voortgevloeid uit de toerekening van gemeenschappelijke inkomensbestanddelen aan de belastingplichtige en niet kan worden verrekend met inkomens uit aanmerkelijk belang van de jaren waarin de belastingplichtige een partner heeft, wordt ingeval het partnerschap door het overlijden van de belastingplichtige eindigt aangemerkt als verlies uit aanmerkelijk belang van de partner mits zowel de belastingplichtige als zijn partner op het tijdstip van beëindiging binnenlandse belastingplichtige of kwalificerende buitenlandse belastingplichtige als bedoeld in artikel 7.8 was.  
 
 ### Artikel  4.50  
 
@@ -3660,7 +3699,7 @@ Voor de toepassing van deze afdeling worden inkomen uit aanmerkelijk belang en v
 2.  De belastingkorting bedraagt 25% van het nog niet verrekende verlies.   
 3.  De inspecteur stelt het bedrag van de belastingkorting vast bij voor bezwaar vatbare beschikking. Artikel 4.50, vierde, vijfde en zesde lid, is van overeenkomstige toepassing.   
 4.  De belastingkorting voor verlies uit aanmerkelijk belang vermindert de belasting op het belastbare inkomen uit werk en woning van het in het eerste lid, eerste volzin, eerstbedoelde kalenderjaar en de zeven daarop volgende jaren, maar uiterlijk van het negende jaar volgend op het jaar waarin het verlies is geleden. Indien het eerste lid, tweede volzin, toepassing vindt, vermindert de belastingkorting voor verlies uit aanmerkelijk belang de belasting op het belastbare inkomen uit werk en woning van het kalenderjaar van overlijden.   
-5.  De belastingkorting voor verlies uit aanmerkelijk belang voorzover deze is voortgevloeid uit de toerekening van gemeenschappelijke inkomensbestanddelen aan de belastingplichtige en niet kan worden verrekend met de belasting op het belastbare inkomen uit werk en woning van de jaren waarin de belastingplichtige een partner heeft, wordt ingeval het partnerschap door het overlijden van de belastingplichtige eindigt, aangemerkt als belastingkorting voor verlies uit aanmerkelijk belang van de partner mits zowel de belastingplichtige als zijn partner op het tijdstip van het eindigen van het partnerschap binnenlands belastingplichtig was.  
+5.  De belastingkorting voor verlies uit aanmerkelijk belang voorzover deze is voortgevloeid uit de toerekening van gemeenschappelijke inkomensbestanddelen aan de belastingplichtige en niet kan worden verrekend met de belasting op het belastbare inkomen uit werk en woning van de jaren waarin de belastingplichtige een partner heeft, wordt ingeval het partnerschap door het overlijden van de belastingplichtige eindigt, aangemerkt als belastingkorting voor verlies uit aanmerkelijk belang van de partner mits zowel de belastingplichtige als zijn partner op het tijdstip van het eindigen van het partnerschap binnenlandse belastingplichtige of kwalificerende buitenlandse belastingplichtige als bedoeld in artikel 7.8 was.  
 
 ### Hoofdstuk  5  
 
@@ -3712,7 +3751,7 @@ c. in afwijking van onderdeel b verplichtingen die voortvloeien uit de erfbelast
 
 d. onderdeel c van overeenkomstige toepassing is op verplichtingen die voortvloeien uit een met de erfbelasting overeenkomende buitenlandse erfbelasting alsmede de daarmee verband houdende verplichtingen voortvloeiende uit een met de regeling voor de belastingrente, bedoeld in hoofdstuk VA van de Algemene wet inzake rijksbelastingen, of de regeling voor de invorderingsrente, bedoeld in hoofdstuk V van de Invorderingswet 1990, overeenkomende renteregeling; 
 
-e. verplichtingen, niet zijnde verplichtingen als bedoeld in de onderdelen a en b, en het vierde lid, alleen in aanmerking worden genomen voorzover de gezamenlijke waarde daarvan meer bedraagt dan € 2900. Indien de belastingplichtige het gehele kalenderjaar dezelfde *partner* heeft of voor de toepassing van artikel 2.17 geacht wordt te hebben gehad, wordt het in de eerste volzin, onderdeel e, genoemde bedrag voor de belastingplichtige en zijn *partner* gezamenlijk op € 5800 gesteld.     
+e. verplichtingen, niet zijnde verplichtingen als bedoeld in de onderdelen a en b, en het vierde lid, alleen in aanmerking worden genomen voorzover de gezamenlijke waarde daarvan meer bedraagt dan € 3.000. Indien de belastingplichtige het gehele kalenderjaar dezelfde *partner* heeft of voor de toepassing van artikel 2.17 geacht wordt te hebben gehad, wordt het in de eerste volzin, onderdeel e, genoemde bedrag voor de belastingplichtige en zijn *partner* gezamenlijk op € 6.000 gesteld.     
 4.  In afwijking van het derde lid, aanhef en onderdeel c, wordt niet in aanmerking genomen de verplichting die voortvloeit uit de Successiewet 1956 met betrekking tot de toepassing van artikel 7 van de Natuurschoonwet 1928 voor zover er geen sprake is van terstond invorderbare belasting als bedoeld in artikel 7, vijfde lid, van de Natuurschoonwet 1928. 
 
 ### Artikel  5.4  
@@ -3749,7 +3788,7 @@ b.een reeds bestaande geldvordering als bedoeld in het eerste lid dan wel een go
 
 ####Heffingvrij vermogen
 
-Het heffingvrije vermogen bedraagt € 21 139. 
+Het heffingvrije vermogen bedraagt € 21.330. 
 
 ### Artikel  5.6  
 
@@ -3759,15 +3798,15 @@ Het heffingvrije vermogen bedraagt € 21 139.
 
 a. de belastingplichtige bij het einde van het kalenderjaar, of, indien de belastingplicht in de loop van het jaar is geëindigd, bij het einde van de belastingplicht, de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, heeft bereikt, en  
 
-b. de grondslag sparen en beleggen, vóór vermindering met de ouderentoeslag, niet meer bedraagt dan € 279 708.   Bij een inkomen uit werk en woning vóór inachtneming van de persoonsgebonden aftrek van:   
+b. de grondslag sparen en beleggen, vóór vermindering met de ouderentoeslag, niet meer bedraagt dan € 282.226.   Bij een inkomen uit werk en woning vóór inachtneming van de persoonsgebonden aftrek van:   
 
 | meer dan  | maar niet meer dan  | bedraagt de ouderentoeslag  |
 |:---|:---|:---|
-| –  | € 14 302  | € 27 984  |
-| € 14 302  | € 19 895  | € 13 992  |
-| € 19 895  | –  | nihil  |
+| –  | € 14.431  | € 28.236  |
+| € 14.431  | € 20.075  | € 14.118  |
+| € 20.075  | –  | nihil  |
 
-2.  Indien de belastingplichtige het gehele kalenderjaar dezelfde partner heeft of voor de toepassing van artikel 2.17 geacht wordt te hebben gehad, wordt voor de toepassing van het eerste lid in aanmerking genomen de gezamenlijke grondslag sparen en beleggen, vóór vermindering met de ouderentoeslag, en wordt het in het eerste lid genoemde bedrag van € 279 708 verhoogd tot € 559 416.  
+2.  Indien de belastingplichtige het gehele kalenderjaar dezelfde partner heeft of voor de toepassing van artikel 2.17 geacht wordt te hebben gehad, wordt voor de toepassing van het eerste lid in aanmerking genomen de gezamenlijke grondslag sparen en beleggen, vóór vermindering met de ouderentoeslag, en wordt het in het eerste lid genoemde bedrag van € 282.226 verhoogd tot € 564.451.  
 
 ### Afdeling  5.2  
 
@@ -3808,18 +3847,18 @@ Tot de bezittingen behoren niet de rechten op roerende zaken die krachtens erfre
 
 a. rechten op kapitaalsuitkeringen of prestaties uit *levensverzekering*, uitsluitend bestaande uit een kapitaalsuitkering bij overlijden van de belastingplichtige, zijn *partner* of een bloed- of aanverwant, dan wel op prestaties in natura ter zake van de verzorging van een uitvaart, mits: 
 
-1°. de som van het verzekerde kapitaal uit dergelijke levensverzekeringen per verzekerde niet meer bedraagt dan € 6859; dan wel indien de som van het verzekerde kapitaal meer bedraagt dan  € 6859:  
+1°. de som van het verzekerde kapitaal uit dergelijke levensverzekeringen per verzekerde niet meer bedraagt dan € 6.921; dan wel indien de som van het verzekerde kapitaal meer bedraagt dan  € 6.921:  
 
-2°. de som van de waarde van die rechten per persoon niet meer bedraagt dan € 6859;    
+2°. de som van de waarde van die rechten per persoon niet meer bedraagt dan € 6.921;    
 
-b. het tegoed van een bij een bank, zijnde een financiële onderneming die ingevolge de Wet op het financieel toezicht in Nederland het bedrijf van bank mag uitoefenen, aangehouden geblokkeerde rekening, waarbij het tegoed uitsluitend wordt gedeblokkeerd bij overlijden van de bij opening van die geblokkeerde rekening vast te stellen persoon, zijnde de rekeninghouder, zijn partner of een bloed- of aanverwant, mits het tegoed van de in die zin aan het overlijden van de desbetreffende persoon gekoppelde rekeningen in totaal niet meer bedraagt dan € 6859; 
+b. het tegoed van een bij een bank, zijnde een financiële onderneming die ingevolge de Wet op het financieel toezicht in Nederland het bedrijf van bank mag uitoefenen, aangehouden geblokkeerde rekening, waarbij het tegoed uitsluitend wordt gedeblokkeerd bij overlijden van de bij opening van die geblokkeerde rekening vast te stellen persoon, zijnde de rekeninghouder, zijn partner of een bloed- of aanverwant, mits het tegoed van de in die zin aan het overlijden van de desbetreffende persoon gekoppelde rekeningen in totaal niet meer bedraagt dan € 6.921; 
 
 c. rechten op kapitaalsuitkeringen die uitsluitend kunnen plaatsvinden bij invaliditeit, ziekte of ongeval;  
 
 d. rechten op termijnen van een in artikel 4.28 bedoelde overdrachtsprijs van een aanmerkelijk belang;  
 
-e. geld, elektronisch geld in de vorm van een chipkaart, alsmede vermogensrechten die zijn bestemd voor het doen van consumentenaankopen zoals cadeaubonnen, voor een bedrag van in totaal € 512 met dien verstande dat indien de belastingplichtige gedurende het gehele kalenderjaar dezelfde *partner* heeft of voor de toepassing van artikel 2.17 geacht wordt te hebben gehad, het genoemde bedrag voor de belastingplichtige en zijn *partner* gezamenlijk op € 1024 wordt gesteld.   
-2.  Het eerste lid, onderdelen a en b, is niet van toepassing indien de som van de waarde van aan het overlijden van een persoon gekoppelde rechten, bedoeld in het eerste lid, onderdeel a, en het tegoed van de aan het overlijden van die persoon gekoppelde rekeningen, bedoeld in het eerste lid, onderdeel b, in totaal meer bedraagt dan € 6859. 
+e. geld, elektronisch geld in de vorm van een chipkaart, alsmede vermogensrechten die zijn bestemd voor het doen van consumentenaankopen zoals cadeaubonnen, voor een bedrag van in totaal € 517 met dien verstande dat indien de belastingplichtige gedurende het gehele kalenderjaar dezelfde *partner* heeft of voor de toepassing van artikel 2.17 geacht wordt te hebben gehad, het genoemde bedrag voor de belastingplichtige en zijn *partner* gezamenlijk op € 1.034 wordt gesteld.   
+2.  Het eerste lid, onderdelen a en b, is niet van toepassing indien de som van de waarde van aan het overlijden van een persoon gekoppelde rechten, bedoeld in het eerste lid, onderdeel a, en het tegoed van de aan het overlijden van die persoon gekoppelde rekeningen, bedoeld in het eerste lid, onderdeel b, in totaal meer bedraagt dan € 6.921. 
 
 ### Artikel  5.12  
 
@@ -3835,7 +3874,7 @@ Tot de bezittingen en schulden behoren niet lopende termijnen van inkomsten en v
 
 ####Vrijstelling groene beleggingen
 
-Tot de bezittingen behoren niet groene beleggingen voor een bedrag van in totaal € 56 420. Indien de belastingplichtige het gehele kalenderjaar dezelfde *partner* heeft of voor de toepassing van artikel 2.17 geacht wordt te hebben gehad, wordt het in de eerste volzin genoemde bedrag voor de belastingplichtige en zijn partner gezamenlijk op € 112 840 gesteld.
+Tot de bezittingen behoren niet groene beleggingen voor een bedrag van in totaal € 56.928. Indien de belastingplichtige het gehele kalenderjaar dezelfde *partner* heeft of voor de toepassing van artikel 2.17 geacht wordt te hebben gehad, wordt het in de eerste volzin genoemde bedrag voor de belastingplichtige en zijn partner gezamenlijk op € 113.856 gesteld.
 
 ### Artikel  5.14  
 
@@ -3860,47 +3899,101 @@ b. in ontwikkelingslanden en daarmee gelijk te stellen gebieden gelegen projecte
 
 ### Afdeling  5.3A  
 
-####Beleggingen in durfkapitaal
+####Vrijstelling nettolijfrenten
 
-Vervallen per 01-01-2013 
+### Artikel  5.16  
 
-### Artikel  5.18b  
+####Vrijstelling nettolijfrenten
 
-####Vrijstelling MKB-beleggingen
+1.  Tot de bezittingen behoren niet nettolijfrenten.   
+2.   In deze wet en de daarop berustende bepalingen wordt onder een nettolijfrente verstaan: 
 
-Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2012/321. 
-1.  MKB-beleggingen zijn in het kalenderjaar of in een van de vijf voorafgaande kalenderjaren door een MKB-onderneming geëmitteerde aandelen, alsmede aandelen in een MKB-fonds. Een MKB-onderneming is een vennootschap: 
+a. een lijfrente als bedoeld in artikel 3.125, met dien verstande dat het bedrag, genoemd in artikel 3.125, eerste lid, onderdeel c, wordt vermenigvuldigd met de nettofactor, bedoeld in het vierde lid;  
 
-a. waarvan het kapitaal geheel of ten dele in aandelen is verdeeld;  
+b. een lijfrentespaarrekening of lijfrentebeleggingsrecht als bedoeld in artikel 3.126a, met dien verstande dat het bedrag, genoemd artikel 3.126a, vierde lid, onderdeel a, onder 3°, wordt vermenigvuldigd met de nettofactor, bedoeld in het vierde lid, en artikel 3.126a, vijfde lid, niet van toepassing is;   indien de ter zake daarvan verschuldigde premie voldoet aan de in het derde lid genoemde voorwaarden, het opbouwen van de nettolijfrente voor de belastingplichtige vrijwillig is en in de overeenkomst met de aanbieder, bedoeld in artikel 5.16a, is opgenomen dat het een nettolijfrente betreft.   
+3.  Een lijfrente, een lijfrentespaarrekening of een lijfrentebeleggingsrecht als bedoeld in het tweede lid wordt uitsluitend als nettolijfrente aangemerkt, indien de ter zake daarvan verschuldigde premie: 
 
-b. waarvan doel en feitelijke werkzaamheden bestaan in andere activiteiten dan het beleggen van vermogen;  
+a. op de belastingplichtige heeft gedrukt;  
 
-c. die ten tijde van de emissie van de in de eerste volzin bedoelde aandelen, geconsolideerd beschouwd: 
+b. niet geheel of gedeeltelijk in aanmerking is genomen als uitgave voor inkomensvoorzieningen;  
 
-1°. minder dan 250 werknemers heeft;  
+c. blijft binnen de in deze afdeling gestelde begrenzingen;  
 
-2°. in enig jaar nog niet een omzet heeft behaald van meer dan € 50 000 000;  
+d. niet geheel of gedeeltelijk is voldaan na het einde van het kalenderjaar waarin de belastingplichtige de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, heeft bereikt.     
+4.  De nettofactor bedraagt (100% – T), waarbij T gelijk is aan het in de laatste kolom van de in artikel 2.10, eerste lid, opgenomen tabel als vierde vermelde percentage.   
+5.  Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de toepassing van dit artikel.  
 
-3°. in enig jaar nog niet een balanstotaal heeft gehad van meer dan € 43 000 000; en    
+### Artikel  5.16a  
 
-d. die is gevestigd in een gebied dat steun ontvangt van het Europees Fonds voor Regionale Ontwikkeling.   Een MKB-fonds is een op grond van het derde lid aangewezen beleggingsinstelling als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, waarvan het doel en de feitelijke werkzaamheden uitsluitend of nagenoeg uitsluitend bestaan in het beleggen van vermogen in door MKB-ondernemingen in het kalenderjaar of in een van de vijf voorafgaande kalenderjaren geëmitteerde aandelen.   
-2.  De in het eerste lid, onderdeel d, opgenomen voorwaarde geldt niet ingeval – beoordeeld overeenkomstig het eerste lid, onderdeel c – de desbetreffende vennootschap minder dan 50 werknemers heeft en de omzet en het balanstotaal niet meer bedragen dan € 10 000 000.   
-3.  Aanwijzing als MKB-fonds geschiedt op verzoek van een beleggingsinstelling bij voor bezwaar vatbare beschikking. Bij ministeriële regeling worden regels gesteld met betrekking tot de aanwijzing en de intrekking van de aanwijzing.   
-4.  Aanwijzing als bedoeld in het derde lid is ook reeds mogelijk in een aanloopperiode van drie maanden waarin een beleggingsinstelling nog niet voldoet aan de in het eerste lid opgenomen voorwaarde dat het doel en de feitelijke werkzaamheden uitsluitend of nagenoeg uitsluitend bestaan in het beleggen van vermogen in door MKB-ondernemingen in het kalenderjaar of in een van de vijf voorafgaande kalenderjaren geëmitteerde aandelen.   
-5.  Op verzoek van een beleggingsinstelling wordt de in het vierde lid bedoelde aanloopperiode van drie maanden vervangen door een ingroeiperiode van maximaal twee jaar, indien de beleggingsinstelling voldoet aan bij ministeriële regeling te stellen voorwaarden.   
-6.  Bij ministeriële regeling kunnen voor de toepassing van dit artikel nadere regels worden gesteld.  
+####Toegelaten aanbieders
+
+1.  Als aanbieder van een nettolijfrente kan optreden: 
+
+a. een verzekeraar als bedoeld in artikel 3.126, eerste lid, onderdelen a, onder 1°, b, c en d;  
+
+b. een bank of beheerder van een beleggingsinstelling als bedoeld in artikel 3.126a, tweede lid.     
+2.  Een aanbieder als bedoeld in het eerste lid die naast een nettolijfrente tevens een lijfrente als bedoeld in afdeling 3.7 uitvoert of tevens optreedt als verzekeraar van een pensioenregeling in de zin van de hoofdstukken IIB en VIII van de Wet op de loonbelasting 1964 of artikel 1.7, tweede lid, onderdeel b, voldoet aan bij ministeriële regeling te stellen voorwaarden ter voorkoming van vermenging met vermogen ten behoeve van een nettolijfrente.  
+
+### Artikel  5.16b  
+
+####Begrenzing premie nettolijfrente
+
+1.  De jaarlijkse premie ter zake van alle nettolijfrenten van de belastingplichtige gezamenlijk bedraagt ten hoogste een bij of krachtens algemene maatregel van bestuur te bepalen percentage van het gezamenlijke bedrag in het voorafgaande kalenderjaar van de inkomensbestanddelen, bedoeld in artikel 3.127, derde lid, onderdelen a tot en met d, voor zover dit bedrag het in artikel 3.127, derde lid, eerst vermelde bedrag overtreft. Daarbij kunnen mede regels worden gesteld met betrekking tot de vermindering van de uitkomst van de berekening, bedoeld in de eerste volzin, bij samenloop van een nettolijfrente met een nettopensioen als bedoeld in afdeling 5.3B.   
+2.  Artikel 3.127, tweede lid, is van overeenkomstige toepassing, met dien verstande dat het percentage, genoemd in artikel 3.127, tweede lid, tweede volzin, en de bedragen, genoemd in artikel 3.127, tweede lid, tweede en derde volzin, worden vermenigvuldigd met de nettofactor, bedoeld in artikel 5.16, vierde lid.   
+3.  Artikel 3.127, vijfde lid, is van overeenkomstige toepassing.   
+4.  Het percentage, bedoeld in het eerste lid, wordt zodanig vastgesteld dat op de pensioenrichtleeftijd, bedoeld in artikel 18a, zesde lid, van de Wet op de loonbelasting 1964, de jaarlijkse uitkeringen na een tijdsevenredige opbouw van 40 jaar en met inachtneming van de uitgangspunten, bedoeld in artikel 18a, derde lid, van de Wet op de loonbelasting 1964, niet meer bedragen dan 75 percent van het gemiddelde bedrag waarover ingevolge het eerste lid tot dat moment de premie wordt berekend, vermenigvuldigd met de nettofactor, bedoeld in artikel 5.16, vierde lid.   
+5.  Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de toepassing van dit artikel.  
+
+### Artikel  5.16c  
+
+####Onregelmatige handelingen met nettolijfrenten
+
+1.  Ingeval op enig tijdstip: 
+
+a. een aanspraak op een nettolijfrente niet langer als zodanig is aan te merken;  
+
+b. een aanspraak op een nettolijfrente geheel of gedeeltelijk wordt afgekocht of vervreemd dan wel formeel of feitelijk voorwerp van zekerheid wordt;  
+
+c. de verplichtingen met betrekking tot een aanspraak op een nettolijfrente overgaan op een andere aanbieder dan bedoeld in artikel 5.16a;  
+
+d. de belastingplichtige een bijdrage van een inhoudingsplichtige in de zin van de Wet op de loonbelasting 1964 heeft ontvangen ten behoeve van de nettolijfrente, terwijl deze inhoudingsplichtige niet in dezelfde mate aan zijn overige werknemers die voor het overige in dezelfde omstandigheden verkeren een bijdrage heeft verstrekt;   vervalt op dat tijdstip voor de volledige aanspraak de toepassing van de vrijstelling, bedoeld in artikel 5.16, eerste lid.   
+2.  Na toepassing van het eerste lid in het voorafgaande kalenderjaar wordt tot de bezittingen gerekend een bedrag dat gelijk is aan de helft van de waarde van de aanspraak, bedoeld in het eerste lid, aan het begin van het voorafgaande kalenderjaar, vermenigvuldigd met tien.   
+3.  Ingeval de belastingplichtige aannemelijk maakt dat het bedrag van de belasting die is verschuldigd over het in het tweede lid genoemde bedrag, hoger is dan het totale bedrag van de belasting en de belastingrente, bedoeld in hoofdstuk VA van de Algemene wet inzake rijksbelastingen, die zouden zijn verschuldigd indien de mogelijkheid zou bestaan de in de voorafgaande jaren ingevolge artikel 5.16 genoten vrijstelling door middel van navorderingsaanslagen ongedaan te maken, wordt in afwijking van het tweede lid een bedrag tot de bezittingen gerekend ter grootte van dit totale bedrag, vermenigvuldigd met 100/1,2. Voor de toepassing van dit lid wordt voor de berekening van de verschuldigde belasting geen rekening gehouden met het heffingvrije vermogen, bedoeld in artikel 5.5, en de verhoging daarvan, bedoeld in artikel 5.6.   
+4.  Het eerste lid is niet van toepassing op een afkoop van een nettolijfrente ingeval voldaan wordt aan de voorwaarden van artikel 3.133, negende lid, onderdelen a en b, en het gezamenlijke bedrag van hetgeen ter zake van dergelijke afkopen in het kalenderjaar wordt ontvangen niet meer bedraagt dan een bedrag gelijk aan het gemiddelde van het gezamenlijke bedrag van de inkomensbestanddelen, bedoeld in artikel 3.127, derde lid, onderdelen a, b, c en d, van het voorafgaande kalenderjaar en het daaraan voorafgaande kalenderjaar voor zover dat gezamenlijke bedrag het in het betreffende jaar in artikel 3.127, derde lid, eerstvermelde bedrag overschrijdt, vermenigvuldigd met de nettofactor, bedoeld in artikel 5.16, vierde lid.  
+5.  Na toepassing van het eerste lid worden aan het tijdstip, bedoeld in het eerste lid, voorafgaande jaren niet meer in aanmerking genomen voor de toepassing van deze afdeling, behoudens voor de toepassing van het tweede en derde lid.   
+6.  Voor zover een aanspraak op een nettolijfrente wordt omgezet in een andere zodanige aanspraak, wordt de tweede aanspraak beschouwd als een voortzetting van de eerste.   
+7.  Voor de toepassing van deze afdeling en de daarop berustende bepalingen wordt niet onder afkoop verstaan het vrijvallen van een aanspraak op het tijdstip waarop de belastingplichtige ophoudt binnenlandse belastingplichtige te zijn.   
+8.  Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de toepassing van dit artikel.  
 
 ### Afdeling  5.3B  
 
 #### *Vrijstelling nettopensioen* 
 
-Treedt in werking per 01-01-2015 
+### Artikel  5.17  
+
+####Vrijstelling nettopensioen
+
+1.  Tot de bezittingen behoren niet aanspraken ingevolge een nettopensioenregeling.   
+2.  In deze wet en de daarop berustende bepalingen wordt onder een nettopensioenregeling verstaan een regeling: 
+
+a. die ten doel heeft het treffen van een voorziening als bedoeld in artikel 18, eerste lid, onderdeel a, onder 1°, 2° of 3°, van de Wet op de loonbelasting 1964, dan wel een daarmee naar aard en strekking overeenkomende voorziening ingevolge een regeling als bedoeld in artikel 1.7, tweede lid, onderdelen b en c;  
+
+b. die voldoet aan de in artikel 18, eerste lid, onderdeel b, van de Wet op de loonbelasting 1964 gestelde voorwaarden;  
+
+c. waarvan als verzekeraar optreedt een lichaam als bedoeld in artikel 19a, eerste lid, onderdelen a, b, c en f, van de Wet op de loonbelasting 1964;  
+
+d. die blijft binnen de in of krachtens deze afdeling vastgestelde begrenzingen.     
+3.  Een nettopensioenregeling kan voorzien in: 
+
+a. netto-ouderdomspensioen (artikel 5.17a);  
+
+b. nettopartnerpensioen (artikel 5.17b);  
+
+c. nettowezenpensioen (artikel 5.17c).    
 
 ### Artikel  5.17a  
 
 ####Netto-ouderdomspensioen
-
-Treedt in werking per 01-01-2015 
 
 1.  Een netto-ouderdomspensioen wordt tijdsevenredig opgebouwd op basis van een beschikbarepremieregeling en is gericht op een pensioen dat na 40 jaren opbouw niet meer bedraagt dan 75% van het gemiddelde bedrag dat ingevolge artikel 18ga van de Wet op de loonbelasting 1964 niet tot het pensioengevend loon behoort, vermenigvuldigd met de nettofactor, bedoeld in artikel 5.16, vierde lid. De beschikbare premie wordt ten hoogste bepaald met inachtneming van de uitgangspunten, bedoeld in artikel 18a, derde lid, onderdelen a, b en c, van de Wet op de loonbelasting 1964.   
 2.  Artikel 18a, vierde, vijfde en zesde lid, van de Wet op de loonbelasting 1964 is van overeenkomstige toepassing  
@@ -3909,16 +4002,12 @@ Treedt in werking per 01-01-2015
 
 ####Nettopartnerpensioen
 
-Treedt in werking per 01-01-2015 
-
 1.  Een nettopartnerpensioen wordt tijdsevenredig opgebouwd op basis van een beschikbarepremieregeling en is gericht op een pensioen dat na 40 jaren opbouw niet meer bedraagt dan 52,5% van het gemiddelde bedrag dat ingevolge artikel 18ga van de Wet op de loonbelasting 1964 niet tot het pensioengevend loon of bereikbaar pensioengevend loon behoort, vermenigvuldigd met de nettofactor, bedoeld in artikel 5.16, vierde lid. De beschikbare premie wordt ten hoogste bepaald met inachtneming van de uitgangspunten, bedoeld in artikel 18a, derde lid, onderdelen a, b en c, van de Wet op de loonbelasting 1964.   
 2.  Artikel 18b, vierde, vijfde en zesde lid, van de Wet op de loonbelasting 1964 is van overeenkomstige toepassing.  
 
 ### Artikel  5.17c  
 
 ####Nettowezenpensioen
-
-Treedt in werking per 01-01-2015 
 
 1.  Een nettowezenpensioen wordt tijdsevenredig opgebouwd op basis van een beschikbarepremieregeling en is gericht op een pensioen dat na 40 jaren opbouw niet meer bedraagt dan 10,5% van het gemiddelde bedrag dat ingevolge artikel 18ga van de Wet op de loonbelasting 1964 niet tot het pensioengevend loon of bereikbaar pensioengevend loon behoort, vermenigvuldigd met de nettofactor, bedoeld in artikel 5.16, vierde lid. De beschikbare premie wordt ten hoogste bepaald met inachtneming van de uitgangspunten, bedoeld in artikel 18a, derde lid, onderdelen a, b en c, van de Wet op de loonbelasting 1964.   
 2.  De artikelen 18b, vijfde lid, en 18c, vierde en zesde lid, van de Wet op de loonbelasting 1964 zijn van overeenkomstige toepassing.  
@@ -3927,15 +4016,11 @@ Treedt in werking per 01-01-2015
 
 ####Overschrijding maxima nettopensioen
 
-Treedt in werking per 01-01-2015 
-
 In afwijking in zoverre van de artikelen 5.17a tot en met 5.17c kunnen een netto-ouderdomspensioen, een nettopartnerpensioen en een nettowezenpensioen meer bedragen dan de aldaar opgenomen maxima voor zover zulks het gevolg is van de overeenkomstige toepassing van artikel 18d van de Wet op de loonbelasting 1964. 
 
 ### Artikel  5.17e  
 
 ####Onregelmatige handelingen met nettopensioen
-
-Treedt in werking per 01-01-2015 
 
 1.  Ingeval op enig tijdstip: 
 
@@ -3958,8 +4043,6 @@ b. is artikel 19b, tweede tot en met zevende lid, van de Wet op de loonbelasting
 ### Artikel  5.17f  
 
 ####Delegatiebevoegdheid
-
-Treedt in werking per 01-01-2015 
 
 1.  Bij ministeriële regeling kunnen, overeenkomstig het bepaalde in artikel 3.18 en in artikel 18g van de Wet op de loonbelasting 1964, regels worden gesteld met betrekking tot de perioden die voor de toepassing van deze afdeling en de daarop berustende bepalingen in aanmerking komen als dienstjaren alsmede met betrekking tot het pensioengevend loon.   
 2.  Bij de toepassing van deze afdeling is artikel 19d van de Wet op de loonbelasting 1964 van overeenkomstige toepassing.   
@@ -4031,7 +4114,7 @@ a. uitgaven voor onderhoudsverplichtingen (afdeling 6.2);
 
 b. vervallen;  
 
-c. uitgaven voor levensonderhoud van *kinderen* (afdeling 6.4);  
+c. vervallen; 
 
 d. uitgaven voor specifieke zorgkosten (afdeling 6.5);  
 
@@ -4042,7 +4125,7 @@ f. scholingsuitgaven (afdeling 6.7);
 g. uitgaven voor monumentenpanden (afdeling 6.8);  
 
 h. aftrekbare giften (afdeling 6.9).     
-3.  Uitgaven als bedoeld in het tweede lid, onderdelen c, d en e, worden in aanmerking genomen voorzover de belastingplichtige zich redelijkerwijs gedrongen heeft kunnen voelen tot het doen van die uitgaven.  
+3.  Uitgaven als bedoeld in het tweede lid, onderdeel d, worden in aanmerking genomen voorzover de belastingplichtige zich redelijkerwijs gedrongen heeft kunnen voelen tot het doen van die uitgaven.  
 4. Bij algemene maatregel van bestuur kunnen aanspraken op vergoedingen of tegemoetkomingen alsmede genoten of te genieten vergoedingen of tegemoetkomingen worden aangewezen die buiten beschouwing blijven bij de bepaling van de omvang van hetgeen op de belastingplichtige aan uitgaven drukt.
 
 ### Artikel  6.2  
@@ -4080,7 +4163,7 @@ a. periodieke uitkeringen en verstrekkingen op grond van een rechtstreeks uit he
 
 b. afkoopsommen van dergelijke uitkeringen of verstrekkingen die worden gedaan aan de gewezen echtgenoot;  
 
-c. op grond van paragraaf 6.5 van de Wet werk en bijstand verhaalde kosten van bijstand tot voorziening in het levensonderhoud van de duurzaam van de belastingplichtige gescheiden levende echtgenoot of gewezen echtgenoot;  
+c. op grond van paragraaf 6.5 van de Participatiewet verhaalde kosten van bijstand tot voorziening in het levensonderhoud van de duurzaam van de belastingplichtige gescheiden levende echtgenoot of gewezen echtgenoot;  
 
 d. bedragen die in het kader van echtscheiding of scheiding van tafel en bed worden voldaan ter zake van de verplichting tot verrekening van pensioenrechten en van *lijfrenten* en andere inkomensvoorzieningen waarvan de betaalde premies als uitgave voor inkomensvoorziening in aanmerking zijn genomen;  
 
@@ -4148,31 +4231,7 @@ Vervallen per 01-01-2011
 
 ####Uitgaven voor levensonderhoud van kinderen 
 
-### Artikel  6.13  
-
-####Definitie
-
-1.  Uitgaven voor levensonderhoud van *kinderen* zijn uitgaven voor levensonderhoud van kinderen jonger dan 21 jaar die ten minste in belangrijke mate door de belastingplichtige worden onderhouden. Voor de beoordeling in welke mate een kind door de belastingplichtige wordt onderhouden, worden, indien de belastingplichtige een *partner* heeft, de uitgaven van de belastingplichtige en zijn partner voor het levensonderhoud van het kind samengevoegd.   
-2.  Als uitgaven als bedoeld in het eerste lid worden niet aangemerkt uitgaven die op de voet van afdeling 6.5 in aanmerking worden genomen.  
-
-### Artikel  6.14  
-
-####Beperkingen
-
-1.  Uitgaven voor levensonderhoud van een *kind* worden niet in aanmerking genomen indien: 
-
-a. de belastingplichtige of een persoon die tot zijn huishouden behoort, voor het kind recht heeft op kinderbijslag volgens de Algemene Kinderbijslagwet of op een tegemoetkoming volgens een naar aard en strekking met die wet overeenkomende buitenlandse regeling;  
-
-b. voor het kind het recht op kinderbijslag volgens artikel 7b van de Algemene Kinderbijslagwet is uitgesloten;  
-
-c. het kind recht heeft op een gift, een voorwaardelijke gift of een prestatiebeurs volgens de Wet studiefinanciering 2000 die niet uitsluitend bestaat uit een reisvoorziening in de zin van die wet, op financiële ondersteuning als bedoeld in de artikelen 7.51 tot en met 7.51k, en 17.10 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek, op tegemoetkoming volgens hoofdstuk 4 van de Wet tegemoetkoming onderwijsbijdrage en schoolkosten of op een tegemoetkoming volgens een naar aard en strekking van genoemde regelingen overeenkomende buitenlandse regeling.     
-2.  Bij ministeriële regeling wordt bepaald in welke gevallen het eerste lid, onderdeel a, niet van toepassing is.  
-
-###Artikel 6.15 
-
-####Omvang in aanmerking te nemen uitgaven
-
-Uitgaven voor levensonderhoud van een *kind* worden in aanmerking genomen tot een bedrag bepaald volgens bij ministeriële regeling te stellen regels.
+Vervallen per 01-01-2015 
 
 ### Afdeling  6.5  
 
@@ -4218,10 +4277,10 @@ h. reizen in verband met het regelmatig bezoeken van wegens ziekte of invalidite
 
 | meer dan  | maar niet meer dan  | wordt gezinshulp geacht extra te zijn voor zover de uitgaven voor gezinshulp meer bedragen dan het in deze kolom vermelde percentage van het verzamelinkomen vóór toepassing van de persoonsgebonden aftrek  |
 |:---|:---|:---|
-| –  | € 30 593  | 0%   |
-| € 30 593  | € 45 890  | 1%  |
-| € 45 890  | € 61 181  | 2%  |
-| € 61 181  | –  | 3%  |
+| –  | € 30.869  | 0%  |
+| € 30.869  | € 46.304  | 1%  |
+| € 46.304  | € 61.732  | 2%  |
+| € 61.732  | –  | 3%  |
 
 4.  Indien de belastingplichtige gedurende het gehele jaar een partner heeft, worden de uitgaven voor gezinshulp samengevoegd en geldt voor de toepassing van het derde lid het gezamenlijke bedrag van de verzamelinkomens van de belastingplichtige en zijn partner vóór toepassing van de persoonsgebonden aftrek. De eerste volzin is ook van toepassing indien de belastingplichtige op grond van artikel 2.17, zevende lid, eerste volzin, geacht wordt het gehele kalenderjaar een partner te hebben gehad.   
 5.  Uitgaven voor extra gezinshulp worden slechts in aanmerking genomen voor zover zij blijken uit gedagtekende facturen waarin op duidelijke en overzichtelijke wijze de naam en het adres van de gezinshulp zijn vermeld.   
@@ -4250,9 +4309,9 @@ a. premies en premievervangende belasting voor volksverzekeringen en uitgaven vo
 
 b. premies en bijdragen voor een ziektekostenregeling alsmede premievervangende en bijdragevervangende belastingen en uitgaven voor naar aard en strekking daarmee overeenkomende buitenlandse regelingen;  
 
-c. de krachtens de Algemene Wet Bijzondere Ziektekosten verschuldigde bijdragen;  
+c. de krachtens de Wet langdurige zorg verschuldigde bijdragen;  
 
-d. de krachtens de Wet maatschappelijke ondersteuning verschuldigde bijdragen;  
+d. de krachtens de Wet maatschappelijke ondersteuning 2015 verschuldigde bijdragen;  
 
 e. de krachtens de Zorgverzekeringswet verschuldigde bijdragen; 
 
@@ -4262,7 +4321,7 @@ g. uitgaven voor zorg die vallen onder het door de belastingplichtige ingevolge 
 
 h. bij ministeriële regeling aangewezen uitgaven die vanwege wijziging van het bepaalde bij of krachtens de Zorgverzekeringswet niet langer zijn aan te merken als uitgaven als bedoeld in onderdeel g; 
 
-i. uitgaven als bedoeld in de Algemene Wet Bijzondere Ziektekosten of de Wet maatschappelijke ondersteuning voor zover een bijdrage is verschuldigd ter verkrijging van een subsidie of tegemoetkoming als bedoeld in de Algemene Wet Bijzondere Ziektekosten of de Wet maatschappelijke ondersteuning ter bekostiging van die uitgaven; 
+i. uitgaven als bedoeld in de Wet langdurige zorg of de Wet maatschappelijke ondersteuning 2015 voor zover een bijdrage is verschuldigd ter verkrijging van een subsidie of tegemoetkoming als bedoeld in de Wet langdurige zorg of de Wet maatschappelijke ondersteuning 2015 ter bekostiging van die uitgaven; 
 
 j. uitgaven die op de voet van afdeling 6.6 in aanmerking worden genomen.    
 2.  Het eerste lid, onderdelen g en h, is van overeenkomstige toepassing voor uitgaven die door de belastingplichtige zijn gedaan voor de in artikel 6.16 bedoelde personen.  
@@ -4285,12 +4344,12 @@ b. 40%, indien de belastingplichtige bij het begin van het kalenderjaar de pensi
 
 1.  Uitgaven voor specifieke zorgkosten worden in aanmerking genomen voor zover zij samen, na toepassing van de verhoging ingevolge artikel 6.19, meer bedragen dan: 
 
-a. indien het verzamelinkomen vóór toepassing van de persoonsgebonden aftrek € 7457 niet te boven gaat: € 125;  
+a. indien het verzamelinkomen vóór toepassing van de persoonsgebonden aftrek € 7.525 niet te boven gaat: € 127;  
 
-b. indien het verzamelinkomen vóór toepassing van de persoonsgebonden aftrek € 7457 te boven gaat, maar € 39 618 niet te boven gaat: 1,65% van het verzamelinkomen vóór toepassing van de persoonsgebonden aftrek;  
+b. indien het verzamelinkomen vóór toepassing van de persoonsgebonden aftrek € 7.525 te boven gaat, maar € 39.975 niet te boven gaat: 1,65% van het verzamelinkomen vóór toepassing van de persoonsgebonden aftrek;  
 
-c. indien het verzamelinkomen vóór toepassing van de persoonsgebonden aftrek € 39 618 te boven gaat: de som van 1,65% van € 39 618 en 5,75% van het gedeelte van het verzamelinkomen vóór toepassing van de persoonsgebonden aftrek dat € 39 618 te boven gaat.     
-2.  Indien de belastingplichtige gedurende het gehele jaar een partner heeft, worden de uitgaven voor specifieke zorgkosten samengevoegd en geldt voor de toepassing van het eerste lid het gezamenlijke bedrag van de verzamelinkomens van de belastingplichtige en zijn partner vóór toepassing van de persoonsgebonden aftrek en wordt in het eerste lid, onderdeel a en onderdeel b, het bedrag van € 7457 vervangen door € 14 914 en wordt in het eerste lid, onderdeel a, het bedrag van € 125 vervangen door € 250. De eerste volzin is ook van toepassing indien de belastingplichtige op grond van artikel 2.17, zevende lid, eerste volzin, geacht wordt het gehele kalenderjaar een partner te hebben gehad.  
+c. indien het verzamelinkomen vóór toepassing van de persoonsgebonden aftrek € 39.975 te boven gaat: de som van 1,65% van € 39.975 en 5,75% van het gedeelte van het verzamelinkomen vóór toepassing van de persoonsgebonden aftrek dat € 39.975 te boven gaat.     
+2.  Indien de belastingplichtige gedurende het gehele jaar een partner heeft, worden de uitgaven voor specifieke zorgkosten samengevoegd en geldt voor de toepassing van het eerste lid het gezamenlijke bedrag van de verzamelinkomens van de belastingplichtige en zijn partner vóór toepassing van de persoonsgebonden aftrek en wordt in het eerste lid, onderdeel a en onderdeel b, het bedrag van € 7.525 vervangen door € 15.050 en wordt in het eerste lid, onderdeel a, het bedrag van € 127 vervangen door € 254. De eerste volzin is ook van toepassing indien de belastingplichtige op grond van artikel 2.17, zevende lid, eerste volzin, geacht wordt het gehele kalenderjaar een partner te hebben gehad.  
 
 ###Afdeling 6.6 
 
@@ -4300,9 +4359,15 @@ c. indien het verzamelinkomen vóór toepassing van de persoonsgebonden aftrek �
 
 ####Definities
 
-1. Weekenduitgaven voor gehandicapten zijn de extra uitgaven die door een belastingplichtige worden gedaan om zijn ernstig gehandicapte kind, broer, zus of onder zijn mentorschap gestelde persoon te verzorgen, mits dit kind, deze broer, zus of persoon 21 jaar of ouder is en doorgaans in een inrichting verblijft. 
-2. Onder mentorschap wordt verstaan mentorschap als bedoeld in boek 1, titel 20, van het Burgerlijk Wetboek. 
-3. Bij algemene maatregel van bestuur wordt bepaald wanneer een kind, broer, zus of onder mentorschap van de belastingplichtige gestelde persoon voor de toepassing van dit artikel als ernstig gehandicapt wordt beschouwd.
+1. Weekenduitgaven voor gehandicapten zijn de extra uitgaven die door een belastingplichtige worden gedaan om zijn ernstig gehandicapte kind, broer of zus, een onder zijn mentorschap gestelde ernstig gehandicapte persoon of een onder curatele gestelde ernstig gehandicapte persoon voor zover hij als curator de persoonlijke belangen behartigt, te verzorgen, mits dit kind, deze broer, zus of persoon 21 jaar of ouder is en doorgaans in een inrichting verblijft. 
+2.  Voor de toepassing van dit artikel wordt verstaan onder: 
+
+a.  *mentorschap:* mentorschap als bedoeld in titel 20 van Boek 1 van het Burgerlijk Wetboek;  
+
+b.  *curatele:* curatele als bedoeld in titel 16 van Boek 1 van het Burgerlijk Wetboek;  
+
+c.  *persoonlijke belangen:* aangelegenheden als bedoeld in artikel 381, vierde lid, van Boek 1 van het Burgerlijk Wetboek.    
+3. Bij algemene maatregel van bestuur wordt bepaald wanneer een kind, broer, zus of onder mentorschap of curatele van de belastingplichtige gestelde persoon voor de toepassing van dit artikel als ernstig gehandicapt wordt beschouwd.
 
 ###Artikel 6.26 
 
@@ -4340,7 +4405,7 @@ c.  *promotiekosten:* de kosten van publicatie van het proefschrift alsmede de k
 1.  Scholingsuitgaven komen niet voor aftrek in aanmerking voor zover voor een opleiding of studie aan de belastingplichtige vrijgestelde uitkeringen en verstrekkingen als bedoeld in artikel 3.104, onderdelen d, e, h, onder 3°, m en q, worden verstrekt.   
 2.  Scholingsuitgaven komen niet voor aftrek in aanmerking voor zover voor de desbetreffende opleiding of studie aan de belastingplichtige een prestatiebeurs als bedoeld in de artikelen 4.7, eerste en tweede lid, of 5.2, eerste lid, van de Wet studiefinanciering 2000 is toegekend.   
 3.  Indien de prestatiebeurs, bedoeld in het tweede lid, op grond van de bepalingen in hoofdstuk 4, onderscheidenlijk hoofdstuk 5, van de Wet studiefinanciering 2000 definitief niet wordt omgezet in een gift, komen de scholingsuitgaven die op grond van het tweede lid niet voor aftrek in aanmerking zijn gekomen, alsnog voor aftrek in aanmerking in het jaar waarin die prestatiebeurs definitief niet wordt omgezet in een gift.   
-4.  De ingevolge het derde lid in aanmerking te nemen scholingsuitgaven worden gesteld op een bedrag van € 2421 per studiejaar voor het hoger onderwijs en op een bedrag van € 1677 per studiejaar voor het beroepsonderwijs waarop de prestatiebeurs, bedoeld in het tweede lid, die definitief niet wordt omgezet in een gift betrekking heeft dan wel, indien dit lager is, op het bedrag van die prestatiebeurs. Indien de omzetting van de prestatiebeurs niet het gehele studiejaar betreft worden de in de eerste volzin opgenomen bedragen naar tijdsgelang herrekend. 
+4.  De ingevolge het derde lid in aanmerking te nemen scholingsuitgaven worden gesteld op een bedrag van € 2.443 per studiejaar voor het hoger onderwijs en op een bedrag van € 1.693 per studiejaar voor het beroepsonderwijs waarop de prestatiebeurs, bedoeld in het tweede lid, die definitief niet wordt omgezet in een gift betrekking heeft dan wel, indien dit lager is, op het bedrag van die prestatiebeurs. Indien de omzetting van de prestatiebeurs niet het gehele studiejaar betreft worden de in de eerste volzin opgenomen bedragen naar tijdsgelang herrekend. 
 
 ### Artikel  6.30  
 
@@ -4601,13 +4666,9 @@ c. rechten op aandelen in de winst van een onderneming waarvan de leiding in Ned
 
 ####Kwalificerende buitenlandse belastingplichtigen
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  7.8  
 
 ####Kwalificerende buitenlandse belastingplichtigen
-
-Treedt in werking per 01-01-2015 
 
 1.  Voor een kwalificerende buitenlandse belastingplichtige is het inkomen uit werk en woning in Nederland het gezamenlijke bedrag van het inkomen uit werk en woning in Nederland, bedoeld in artikel 7.2, en de niet reeds in het inkomen uit werk en woning in Nederland begrepen belastbare inkomsten uit eigen woning, berekend overeenkomstig de regels van hoofdstuk 3, indien deze negatief zijn, verminderd met: 
 
@@ -4650,9 +4711,9 @@ a.  *belastingtarief eerste schijf*: het in de eerste regel van de vierde kolom 
 
 b.  *gecombineerde inkomensheffing*: het gezamenlijke bedrag, na toepassing van regelingen ter voorkoming van dubbele belasting, van de belasting op het belastbare inkomen uit werk en woning, de belasting op het belastbare inkomen uit aanmerkelijk belang, de belasting op het belastbare inkomen uit sparen en beleggen en de volgens artikel 10 van de Wet financiering sociale verzekeringen berekende premie voor de volksverzekeringen;  
 
-c. *gecombineerd heffingspercentage*: de som van het belastingtarief eerste schijf en de op grond van artikel 11 van de Wet financiering sociale verzekeringen vastgestelde premiepercentages voor de algemene ouderdomsverzekering, de nabestaandenverzekering en de algemene verzekering bijzondere ziektekosten;  
+c. *gecombineerd heffingspercentage*: de som van het belastingtarief eerste schijf en de op grond van artikel 11 van de Wet financiering sociale verzekeringen vastgestelde premiepercentages voor de algemene ouderdomsverzekering, de nabestaandenverzekering en de verzekering langdurige zorg;  
 
-d.  *gecombineerde heffingskorting*: het gezamenlijke bedrag van de heffingskorting voor de inkomstenbelasting, de heffingskorting voor de algemene ouderdomsverzekering, de heffingskorting voor de nabestaandenverzekering en de heffingskorting voor de algemene verzekering bijzondere ziektekosten;  
+d.  *gecombineerde heffingskorting*: het gezamenlijke bedrag van de heffingskorting voor de inkomstenbelasting, de heffingskorting voor de algemene ouderdomsverzekering, de heffingskorting voor de nabestaandenverzekering en de heffingskorting voor de verzekering langdurige zorg;  
 
 e.  *arbeidsinkomen:* het gezamenlijke bedrag van hetgeen door de belastingplichtige met tegenwoordige arbeid is genoten als winst uit een of meer ondernemingen, loon en resultaat uit een of meer werkzaamheden.   
 2.  Tot het *arbeidsinkomen* wordt tevens gerekend: 
@@ -4681,9 +4742,9 @@ d. vervallen;
 
 e.de inkomensafhankelijke combinatiekorting (artikel 8.14a); 
 
-f.de ouderschapsverlofkorting (artikel 8.14b);
+f.vervallen;
 
-g. de alleenstaande-ouderkorting (artikel 8.15);  
+g. vervallen;  
 
 h. vervallen;  
 
@@ -4713,11 +4774,11 @@ De heffingskorting voor de algemene ouderdomsverzekering is het deel van de stan
 
 De heffingskorting voor de nabestaandenverzekering is het deel van de standaardheffingskorting dat tot de standaardheffingskorting in dezelfde verhouding staat als het volgens artikel 11, tweede lid, van de Wet financiering sociale verzekeringen vastgestelde premiepercentage voor de nabestaandenverzekering staat tot het *gecombineerde heffingspercentage*.
 
-###Artikel 8.6 
+### Artikel  8.6  
 
-####Berekening heffingskorting voor de algemene verzekering bijzondere ziektekosten
+####Berekening heffingskorting voor de verzekering langdurige zorg
 
-De heffingskorting voor de algemene verzekering bijzondere ziektekosten is het deel van de standaardheffingskorting dat tot de standaardheffingskorting in dezelfde verhouding staat als het volgens artikel 11, derde lid, van de Wet financiering sociale verzekeringen vastgestelde premiepercentage voor de algemene verzekering bijzondere ziektekosten staat tot het *gecombineerde heffingspercentage*.
+De heffingskorting voor de verzekering langdurige zorg is het deel van de standaardheffingskorting dat tot de standaardheffingskorting in dezelfde verhouding staat als het volgens artikel 11, derde lid, van de Wet financiering sociale verzekeringen vastgestelde premiepercentage voor de verzekering langdurige zorg staat tot het *gecombineerde heffingspercentage*. 
 
 ### Artikel  8.7  
 
@@ -4735,7 +4796,7 @@ De *gecombineerde heffingskorting* bedraagt maximaal het bedrag van de *gecombin
 
 ####Verhoging maximum gecombineerde heffingskorting bij minstverdienende partner
 
-1. Indien de gecombineerde heffingskorting door artikel 8.8 wordt beperkt tot een bedrag beneden het niveau van 60% van de algemene heffingskorting vermeerderd met de voor de belastingplichtige geldende arbeidskorting, inkomensafhankelijke combinatiekorting en ouderschapsverlofkorting (toetsniveau) wordt, indien de belastingplichtige in het kalenderjaar gedurende meer dan zes maanden dezelfde partner heeft, de gecombineerde heffingskorting daarna verhoogd tot het toetsniveau. De verhoging bedraagt echter maximaal het bedrag van de door de partner verschuldigde gecombineerde inkomensheffing verminderd met zijn gecombineerde heffingskorting. 
+1. Indien de gecombineerde heffingskorting door artikel 8.8 wordt beperkt tot een bedrag beneden het niveau van 53 1/3% van de algemene heffingskorting vermeerderd met de voor de belastingplichtige geldende arbeidskorting en inkomensafhankelijke combinatiekorting (toetsniveau) wordt, indien de belastingplichtige in het kalenderjaar gedurende meer dan zes maanden dezelfde partner heeft, de gecombineerde heffingskorting daarna verhoogd tot het toetsniveau. De verhoging bedraagt echter maximaal het bedrag van de door de partner verschuldigde gecombineerde inkomensheffing verminderd met zijn gecombineerde heffingskorting. 
 2.  Ten aanzien van de belastingplichtige die geboren is vóór 1 januari 1963 wordt voor de bepaling van het toetsniveau de algemene heffingskorting voor 100% in aanmerking genomen.  
 3.  De verhoging van de gecombineerde heffingskorting wordt verlaagd met het bedrag van de belastingvermindering volgens regelingen ter voorkoming van dubbele belasting.   
 4.  Dit artikel is niet van toepassing indien de belastingplichtige bij de aanvang van het kalenderjaar de leeftijd van 21 jaar niet heeft bereikt en in het kalenderjaar gedurende meer dan zes maanden in belangrijke mate door zijn ouders is onderhouden.   
@@ -4758,7 +4819,7 @@ De *gecombineerde heffingskorting* bedraagt maximaal het bedrag van de *gecombin
 ####Algemene heffingskorting
 
 1.  De algemene heffingskorting geldt voor iedere belastingplichtige.   
-2.  De algemene heffingskorting bedraagt € 2.103, verminderd met 2% van het gedeelte van het belastbare inkomen uit werk en woning dat meer bedraagt dan € 19.645, met dien verstande dat de vermindering ten hoogste € 737 bedraagt.  
+2.  De algemene heffingskorting bedraagt € 2.203, verminderd met 2,32% van het gedeelte van het belastbare inkomen uit werk en woning dat meer bedraagt dan € 19.822, met dien verstande dat de vermindering ten hoogste € 861 bedraagt.  
 
 ### Artikel  8.11  
 
@@ -4767,17 +4828,17 @@ De *gecombineerde heffingskorting* bedraagt maximaal het bedrag van de *gecombin
 1.  De arbeidskorting geldt voor de belastingplichtige die *arbeidsinkomen* geniet.   
 2.   De arbeidskorting bedraagt: 
 
-a.1,807% van het *arbeidsinkomen* met een maximum van € 161, vermeerderd met:
+a.1,810% van het *arbeidsinkomen* met een maximum van € 163, vermeerderd met:
 
-b.18,724% van het *arbeidsinkomen* voor zover dat meer bedraagt dan € 8.913, waarbij de som van de bedragen berekend op de voet van de onderdelen a en b niet meer bedraagt dan € 2.097, en verminderd, doch niet verder dan tot € 367, met:
+b.19,679% van het *arbeidsinkomen* voor zover dat meer bedraagt dan € 9.010, waarbij de som van de bedragen berekend op de voet van de onderdelen a en b niet meer bedraagt dan € 2.220, en verminderd, doch niet verder dan tot € 184, met:
 
-c.4 % van het *arbeidsinkomen* voor zover dat meer bedraagt dan € 40.721.Ingeval het *arbeidsinkomen* niet meer bedraagt dan € 40.721, bedraagt de arbeidskorting ten minste de volgens artikel 22a van de Wet op de loonbelasting 1964 toegekende arbeidskorting, maar maximaal het in de eerste volzin, onderdeel b, als tweede vermelde bedrag. 
+c.4 % van het *arbeidsinkomen* voor zover dat meer bedraagt dan € 49.770.Ingeval het *arbeidsinkomen* niet meer bedraagt dan € 49.770, bedraagt de arbeidskorting ten minste de volgens artikel 22a van de Wet op de loonbelasting 1964 toegekende arbeidskorting, maar maximaal het in de eerste volzin, onderdeel b, als tweede vermelde bedrag. 
 
 ### Artikel  8.12  
 
 #### *Werkbonus* 
 
-1.  De werkbonus geldt voor de belastingplichtige die arbeidsinkomen geniet en die bij het begin van het kalenderjaar de leeftijd van 60 jaar heeft bereikt maar nog niet de leeftijd van 64 jaar.   
+1.  De werkbonus geldt voor de belastingplichtige die arbeidsinkomen geniet en die bij het begin van het kalenderjaar de leeftijd van 61 jaar heeft bereikt maar nog niet de leeftijd van 64 jaar.   
 2.  De werkbonus bedraagt: 
 
 a. 58,100% van het arbeidsinkomen voor zover dat meer bedraagt dan € 17.327, met een maximum van € 1119, verminderd, doch niet verder dan tot nihil, met:  
@@ -4790,58 +4851,35 @@ b. 10,567% van het arbeidsinkomen voor zover dat meer bedraagt dan € 23.104.
 
 1.  De inkomensafhankelijke combinatiekorting geldt voor de belastingplichtige indien: 
 
-a. hij een *arbeidsinkomen* heeft dat meer bedraagt dan € 4814, dan wel hij in aanmerking komt voor de zelfstandigenaftrek;  
+a. hij een *arbeidsinkomen* heeft dat meer bedraagt dan € 4.857, dan wel hij in aanmerking komt voor de zelfstandigenaftrek;  
 
 b. in het kalenderjaar gedurende ten minste zes maanden een kind dat bij de aanvang van het kalenderjaar de leeftijd van 12 jaar niet heeft bereikt op hetzelfde woonadres als de belastingplichtige staat ingeschreven in de basisregistratie personen, en  
 
 c. hij in het kalenderjaar geen partner heeft, dan wel indien hij wel een partner heeft, hij in het kalenderjaar een lager *arbeidsinkomen* heeft dan zijn partner.   Bij ministeriële regeling wordt bepaald in welke gevallen een *kind* dat niet op hetzelfde woonadres als de belastingplichtige staat ingeschreven in de basisregistratie personen, voor de toepassing van onderdeel b beschouwd wordt ook op hetzelfde woonadres als de belastingplichtige te staan ingeschreven in de basisregistratie personen.   
-2. De inkomensafhankelijke combinatiekorting bedraagt € 1024, vermeerderd met 4% van het *arbeidsinkomen*, voor zover dat bij de belastingplichtige meer beloopt dan € 4814, doch niet meer dan € 2133.  
+2. De inkomensafhankelijke combinatiekorting bedraagt € 1.033, vermeerderd met 4% van het *arbeidsinkomen*, voor zover dat bij de belastingplichtige meer beloopt dan € 4.857, doch niet meer dan € 2.152.  
 3.  Indien het*arbeidsinkomen* van de belastingplichtige in het kalenderjaar gelijk is aan dat van zijn partner, geldt de inkomensafhankelijke combinatiekorting alleen voor de oudste belastingplichtige.   
 4.  Indien uitsluitend als gevolg van het overlijden in het kalenderjaar van de belastingplichtige dan wel van een in het eerste lid, onderdeel b, bedoeld kind niet voldaan wordt aan de in dat lid bedoelde termijn van zes maanden, wordt voor de toepassing van dit artikel met betrekking tot dat jaar wel geacht te zijn voldaan aan die termijn. 
-
-###Artikel 8.14b 
-
-####Ouderschapsverlofkorting
-
-1.  De ouderschapsverlofkorting geldt voor de belastingplichtige die in het kalenderjaar gebruik maakt van zijn recht op ouderschapsverlof als bedoeld in hoofdstuk 6 van de Wet arbeid en zorg.  
-2. De ouderschapsverlofkorting bedraagt 50% van het wettelijk minimumloon per werkdag, zoals bepaald bij of krachtens artikel 8 van de Wet minimumloon en minimumvakantiebijslag, per werkdag opgenomen ouderschapsverlof in het kalenderjaar, met dien verstande dat de ouderschapsverlofkorting niet meer bedraagt dan het in het voorafgaande kalenderjaar genoten belastbare loon verminderd met het in het kalenderjaar genoten belastbare loon. 
-3. Bij ministeriële regeling kunnen nadere regels worden gesteld voor de toepassing van dit artikel.
-
-### Artikel  8.15  
-
-####Alleenstaande-ouderkorting
-
-1.  De alleenstaande-ouderkorting geldt voor de belastingplichtige die in het kalenderjaar gedurende meer dan zes maanden: 
-
-a. geen *partner* heeft;  
-
-b. een huishouding voert met een *kind* dat in belangrijke mate door hem wordt onderhouden en op hetzelfde woonadres als de belastingplichtige staat ingeschreven in de basisregistratie personen, en 
-
-c. deze huishouding voert met geen ander dan kinderen waarvan de jongste bij de aanvang van het kalenderjaar de leeftijd van 18 jaar niet heeft bereikt.    
-2.  Voor de toepassing van het eerste lid, onderdeel b, en het derde lid, wordt een kind dat bij de aanvang van het kalenderjaar de leeftijd van 16 jaar niet heeft bereikt, geacht tot het huishouden van de belastingplichtige te behoren en door hem in belangrijke mate te worden onderhouden.  
-3.  De alleenstaande-ouderkorting bedraagt € 947. Dit bedrag wordt vermeerderd met 4,3% van het *arbeidsinkomen*, maar maximaal met € 1319 indien een in het eerste lid bedoeld kind bij de aanvang van het kalenderjaar de leeftijd van 16 jaar niet heeft bereikt.  
-4.  Indien uitsluitend als gevolg van het overlijden in het kalenderjaar van de belastingplichtige dan wel van een in het eerste lid, onderdeel b, bedoeld kind niet voldaan wordt aan de in het eerste lid bedoelde termijn van zes maanden, wordt voor de toepassing van dit artikel met betrekking tot dat jaar wel geacht te zijn voldaan aan die termijn.  
 
 ### Artikel  8.16a  
 
 ####Jonggehandicaptenkorting
 
-1.  De jonggehandicaptenkorting geldt voor de belastingplichtige die in het kalenderjaar op grond van de Wet werk en arbeidsondersteuning jonggehandicapten recht heeft op toekenning van een uitkering of op arbeidsondersteuning, tenzij voor hem de ouderenkorting geldt.   
-2.  De jonggehandicaptenkorting bedraagt  € 708.  
+1.  De jonggehandicaptenkorting geldt voor de belastingplichtige die in het kalenderjaar op grond van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten recht heeft op toekenning van een uitkering of op arbeidsondersteuning, tenzij voor hem de ouderenkorting geldt.   
+2.  De jonggehandicaptenkorting bedraagt  € 715.  
 
 ### Artikel  8.17  
 
 ####Ouderenkorting
 
 1.  De ouderenkorting geldt voor de belastingplichtige die bij het einde van het kalenderjaar, of indien de belastingplicht in de loop van het jaar is geëindigd, bij het einde van de belastingplicht, de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, heeft bereikt.   
-2.  De ouderenkorting bedraagt € 1032 indien de belastingplichtige een verzamelinkomen heeft van niet meer dan € 35 450. Indien de belastingplichtige een verzamelinkomen heeft van meer dan € 35 450 bedraagt de ouderenkorting € 150. 
+2.  De ouderenkorting bedraagt € 1.042 indien de belastingplichtige een verzamelinkomen heeft van niet meer dan € 35.770. Indien de belastingplichtige een verzamelinkomen heeft van meer dan € 35.770 bedraagt de ouderenkorting € 152. 
 
 ### Artikel  8.18  
 
 ####Alleenstaande ouderenkorting
 
-1. De alleenstaande ouderenkorting geldt voor de belastingplichtige indien hij in het kalenderjaar in aanmerking komt voor een uitkering als bedoeld in artikel 9, eerste lid, onderdeel a of onderdeel c, van de Algemene Ouderdomswet, of daarvoor in aanmerking zou komen indien hij zou voldoen aan de voorwaarde van artikel 7, onderdeel b, van de Algemene Ouderdomswet. 
-2. De alleenstaande ouderenkorting bedraagt € 429. 
+1. De alleenstaande ouderenkorting geldt voor de belastingplichtige indien hij in het kalenderjaar in aanmerking komt voor een uitkering als bedoeld in artikel 9, eerste lid, onderdeel a, van de Algemene Ouderdomswet, of daarvoor in aanmerking zou komen indien hij zou voldoen aan de voorwaarde van artikel 7, onderdeel b, van de Algemene Ouderdomswet. 
+2. De alleenstaande ouderenkorting bedraagt € 433. 
 
 ### Artikel  8.19  
 
@@ -4903,7 +4941,7 @@ b.wordt met een samenstel van transacties gelijkgesteld een transactie die betre
 5.  Ten aanzien van een belastingplichtige die deel uitmaakt van een buitenlands gezelschap als bedoeld in artikel 5b van de Wet op de loonbelasting 1964, wordt ook als voorheffing aangemerkt een evenredig deel van de loonbelasting die is geheven over de door het gezelschap ontvangen gage, bedoeld in artikel 35g van die wet, welk evenredig deel is gerelateerd aan het aan hem toegerekende deel van de door het gezelschap ontvangen gage.   
 6.  Indien artikel 9.1, derde lid, toepassing vindt, wordt ook als voorheffing aangemerkt de bij wijze van inhouding geheven premie voor de volksverzekeringen met uitzondering van de bij wijze van eindheffing geheven premie voor de volksverzekeringen.   
 7.  De ingevolge dit artikel in aanmerking te nemen voorheffingen gelden niet als voorheffing voor de bij wege van conserverende aanslag te heffen belasting.   
-8.  Voor buitenlandse belastingplichtigen wordt, in afwijking van het eerste lid, aanhef en onderdeel b, als voorheffing aangewezen de geheven dividendbelasting die betrekking heeft op bestanddelen van het verzamelinkomen. De eerste volzin is van overeenkomstige toepassing met betrekking tot bronbelasting als bedoeld in het eerste lid, onderdeel d, en bronbelasting als bedoeld in het negende lid.   
+8.  Voor buitenlandse belastingplichtigen wordt, in afwijking van het eerste lid, aanhef en onderdeel b, als voorheffing aangewezen de geheven dividendbelasting die betrekking heeft op bestanddelen van het verzamelinkomen. De eerste volzin is van overeenkomstige toepassing met betrekking tot bronbelasting als bedoeld in het eerste lid, onderdeel d, en bronbelasting als bedoeld in het tiende lid.   
 9.  Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de berekening van de in België verschuldigde belasting en bijdragen en premies sociale zekerheid die ingevolge artikel 27 van het op 5 juni 2001 te Luxemburg tot stand gekomen Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belastingen inzake belastingen naar het inkomen en naar het vermogen, met Protocol I en II, (Trb. 2001, 136), worden aangemerkt als ingehouden Nederlandse loonbelasting.   
 10.  Bij algemene maatregel van bestuur kan als voorheffing worden aangewezen een door een andere mogendheid dan genoemd in het eerste lid, onderdeel d, geheven bronbelasting over een uit die mogendheid als uiteindelijk gerechtigde in de zin van de in dat onderdeel bedoelde richtlijn ontvangen rentebetaling, mits de bronbelasting vergelijkbaar is met die in artikel 11 van de richtlijn en de rentebetaling valt onder de begripsomschrijving van artikel 6 van de richtlijn. Voor de toepassing van de eerste volzin worden de afhankelijke en geassocieerde gebieden, bedoeld in artikel 17, tweede lid, onderdeel ii, van de in die volzin bedoelde richtlijn, aangemerkt als afzonderlijke mogendheden. 
 
@@ -4962,7 +5000,7 @@ b. indien de belastingplichtige een niet in Nederland wonende artiest of beroeps
 
 ####Inflatiecorrectie
 
-1. Bij het begin van het kalenderjaar worden de in de artikelen 2.10, 2.10a, 3.15, eerste lid, 3.41, 3.42, 3.47, 3.68, 3.77, 3.87, 3.125, 3.126a, 3.127, 3.129, 3.133, 5.3, 5.5, 5.6, 5.10, 5.13, 6.17, derde lid, 6.20, 6.28, 8.10, 8.11, tweede lid, eerste volzin, onderdeel a, 8.14a,  8.15, 8.16a, 8.17, 8.18, 9.4 en 10.7 vermelde bedragen en het in artikel 8.11, tweede lid, eerste volzin, onderdeel b, als tweede vermelde bedrag bij ministeriële regeling vervangen door andere. Deze bedragen worden berekend door de te vervangen bedragen te vermenigvuldigen met de tabelcorrectiefactor en vervolgens de nodig geachte afronding aan te brengen. Indien in het voorafgaande jaar een dergelijke afronding is toegepast, kan bij vervanging worden uitgegaan van het niet-afgeronde bedrag.  
+1. Bij het begin van het kalenderjaar worden de in de artikelen 2.10, 2.10a, 3.15, eerste lid, 3.41, 3.42, 3.47, 3.77, 3.87, 3.125, 3.126a, 3.127, tweede lid, 3.129, 3.133, 5.3, 5.5, 5.6, 5.10, 5.13, 6.17, derde lid, 6.20, 6.28, 8.10, 8.11, tweede lid, eerste volzin, onderdeel a, 8.14a, 8.16a, 8.17, 8.18, 9.4 en 10.7 vermelde bedragen, het in artikel 3.127, derde lid, laatst vermelde bedrag en het in artikel 8.11, tweede lid, eerste volzin, onderdeel b, als tweede vermelde bedrag bij ministeriële regeling vervangen door andere. Deze bedragen worden berekend door de te vervangen bedragen te vermenigvuldigen met de tabelcorrectiefactor en vervolgens de nodig geachte afronding aan te brengen. Indien in het voorafgaande jaar een dergelijke afronding is toegepast, kan bij vervanging worden uitgegaan van het niet-afgeronde bedrag.  
 2.  In afwijking in zoverre van het eerste lid, tweede volzin, wordt het bedrag dat is vermeld in de tweede regel van de tweede kolom en in de derde regel van de eerste kolom van de tabel in artikel 2.10, eerste lid, berekend door het te vervangen bedrag te vermenigvuldigen met de uitkomst van de formule: 1 + (75% x (tabelcorrectiefactor – 1)). 
 
 ###Artikel 10.2 
@@ -4987,8 +5025,6 @@ Treedt in werking per 01-01-2016
 
 ####Jaarlijkse aanpassing correctie tarief aftrekbare kosten eigen woning
 
-Treedt in werking per 01-01-2015 
-
 1.  Bij het begin van het kalenderjaar wordt het in artikel 2.10, tweede lid, en artikel 2.10a, tweede lid, vermelde percentage bij ministeriële regeling vervangen door een ander percentage. Dit percentage wordt berekend door het te vervangen percentage te verhogen met 0,5%-punt en vervolgens te verminderen of te vermeerderen met eenzelfde aantal procentpunten als het aantal procentpunten waarmee het in de laatste kolom van de in artikel 2.10, eerste lid, opgenomen tabel als vierde vermelde percentage bij het begin van het kalenderjaar is verlaagd, onderscheidenlijk verhoogd.   
 2.  In afwijking in zoverre van het eerste lid wordt het in artikel 2.10, tweede lid, en artikel 2.10a, tweede lid, vermelde percentage ten hoogste gesteld op het verschil tussen de in de laatste kolom van de in artikel 2.10, eerste lid, opgenomen tabel als vierde en derde vermelde percentages. Het in artikel 2.10, tweede lid, en artikel 2.10a, tweede lid, vermelde percentage wordt niet op een negatief percentage gesteld.  
 
@@ -5003,7 +5039,7 @@ Treedt in werking per 01-01-2015
 5. Onder de factor iw wordt verstaan: de verhouding van het gemiddelde van de eigenwoningwaarden die betrekking hebben op het voorafgaande kalenderjaar en het gemiddelde van die waarden die betrekking hebben op het kalenderjaar. 
 6. De in artikel 3.112, eerste lid, derde kolom, eerstvermelde drie percentages worden achtereenvolgens berekend door het volgens het derde lid berekende, als vierde vermelde percentage in artikel 3.112, eerste lid, derde kolom, te vermenigvuldigen met 0,4, 0,6 en 0,8. 
 7. Het in artikel 3.112, vijfde lid, eerste volzin, vermelde percentage wordt berekend door het volgens het derde lid berekende, als vierde vermelde percentage in artikel 3.112, eerste lid, derde kolom, te vermenigvuldigen met 10/6. 
-8. De in de derde kolom in artikel 3.19, tweede lid, eerstvermelde vier percentages worden achtereenvolgens berekend door respectievelijk nihil en de volgens het zesde lid berekende drie percentages van artikel 3.112, eerste lid, derde kolom, na toepassing van het tiende lid te vermeerderen met 0,95%-punt. 
+8. De in de derde kolom in artikel 3.19, tweede lid, eerstvermelde vier percentages worden achtereenvolgens berekend door respectievelijk nihil en de volgens het zesde lid berekende drie percentages van artikel 3.112, eerste lid, derde kolom, na toepassing van het tiende lid te vermeerderen met 1,05%-punt. 
 9. Het in de derde kolom van artikel 3.19, tweede lid, eerstvermelde bedrag wordt berekend door het volgens het tweede lid berekende laatstvermelde bedrag in de eerste kolom van artikel 3.19, tweede lid, te vermenigvuldigen met het volgens het derde lid berekende, als vijfde vermelde percentage in de derde kolom van artikel 3.19, tweede lid. Het in de derde kolom van artikel 3.112, eerste lid, eerstvermelde bedrag wordt berekend door het volgens het tweede lid berekende laatstvermelde bedrag in de eerste kolom van artikel 3.112, eerste lid, te vermenigvuldigen met het volgens het derde lid berekende, als vierde vermelde percentage in de derde kolom van artikel 3.112, eerste lid. Het in artikel 3.112, vijfde lid, tweede volzin, als tweede vermelde bedrag wordt berekend door het volgens het tweede lid berekende eerstvermelde bedrag van artikel 3.112, vijfde lid, tweede volzin, te vermenigvuldigen met het volgens het zevende lid berekende percentage van artikel 3.112, vijfde lid, eerste volzin. 
 10.  Het in het achtste lid laatstgenoemde percentage wordt bij het begin van het kalenderjaar bij ministeriële regeling vervangen door een ander percentage. Dit percentage wordt berekend door het te vervangen percentage te vermenigvuldigen met het product van de factor ih en de factor iw, bedoeld in het vierde en vijfde lid. 
 
@@ -5054,33 +5090,8 @@ a.108% van het twaalfvoud van het in artikel 8, eerste lid, onderdeel a, van de 
 
 b.het volgens het vierde lid berekende bedrag.  
 4. Het in artikel 8.11, tweede lid, eerste volzin, onderdeel b, eerstvermelde bedrag wordt gesteld op 50% van het twaalfvoud van het in artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag bedoelde bedrag. 
-5. Het vermelde bedrag in artikel 8.11, tweede lid, eerste volzin, onderdeel c, en het bedrag in artikel 8.11, tweede lid, tweede volzin, worden gesteld op 108% van 225% van het twaalfvoud van het in artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag bedoelde bedrag verminderd met € 2600.  
+5. Het vermelde bedrag in artikel 8.11, tweede lid, eerste volzin, onderdeel c, en het bedrag in artikel 8.11, tweede lid, tweede volzin, worden gesteld op 108% van 225% van het twaalfvoud van het in artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag bedoelde bedrag vermeerderd met € 5.977.  
 6.  De volgens het tweede en derde lid berekende percentages worden rekenkundig afgerond op drie decimalen. 
-
-### Artikel  10.7a  
-
-#### *Indexering maximumbedrag, inkomensgrenzen en percentages werkbonus* 
-
-1.  Bij het begin van het kalenderjaar worden de in artikel 8.12, tweede lid, vermelde bedragen en percentages bij ministeriële regeling vervangen door andere bedragen en andere percentages.   
-2.  Het percentage in artikel 8.12, tweede lid, onderdeel a, wordt berekend door het in artikel 8.12, tweede lid, onderdeel a, laatstvermelde bedrag na toepassing van het zesde lid te delen door het verschil van: 
-
-a. 108% van het twaalfvoud van het in artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag bedoelde bedrag, en  
-
-b. het volgens het vierde lid berekende bedrag.     
-3.  Het percentage in artikel 8.12, tweede lid, onderdeel b, wordt berekend door het in artikel 8.12, tweede lid, onderdeel a, laatstvermelde bedrag na toepassing van het zesde lid te delen door het verschil van: 
-
-a. 175% van 108% van het twaalfvoud van het in artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag bedoelde bedrag, en  
-
-b. het volgens het vijfde lid berekende bedrag.     
-4.  Het in artikel 8.12, tweede lid, onderdeel a, eerstvermelde bedrag wordt gesteld op 90% van 108% van het twaalfvoud van het in artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag bedoelde bedrag.   
-5.  Het in artikel 8.12, tweede lid, onderdeel b, vermelde bedrag wordt gesteld op 120% van 108% van het twaalfvoud van het in artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag bedoelde bedrag.   
-6.  Het in artikel 8.12, tweede lid, onderdeel a, laatstvermelde bedrag wordt berekend door het te vervangen bedrag te vermenigvuldigen met het quotiënt van: 
-
-a. de op 1 januari van het kalenderjaar geldende uitkering voor de ongehuwde pensioengerechtigde als omschreven in artikel 9, eerste lid, onderdeel a, en vijfde lid, van de Algemene Ouderdomswet, en  
-
-b. de op 1 januari van het voorafgaande kalenderjaar geldende uitkering, bedoeld in onderdeel a.     
-7.  Bij het begin van het kalenderjaar 2015 wordt vóór toepassing van het zesde lid het in artikel 8.12, tweede lid, onderdeel a, laatstvermelde bedrag vermenigvuldigd met een factor 3.   
-8.  De volgens het tweede en derde lid berekende percentages worden rekenkundig afgerond op drie decimalen.  
 
 ### Afdeling  10.2  
 
@@ -5236,9 +5247,8 @@ a. bij een uitkering bij leven: premies voor bij dezelfde overeenkomst verzekerd
 
 b. bij een uitkering bij overlijden: premies voor bij dezelfde overeenkomst verzekerde uitkeringen bij leven, uitkeringen of vrijstelling van premiebetaling bij invaliditeit of uitkeringen bij overlijden ten gevolge van een ongeval, voor zover die uitkeringen gezamenlijk niet meer bedragen dan driemaal het verzekerde kapitaal bij overlijden.     
 8.  Indien een kapitaalverzekering eigen woning is voortgekomen uit een levensverzekering die na 14 september 1999 tot stand gekomen is en die geen kapitaalverzekering eigen woning was, wordt op het moment dat wordt voldaan aan de voorwaarden voor een kapitaalverzekering eigen woning, indien dat uiterlijk op 31 maart 2013 het geval is, mede als premie ter zake van de kapitaalverzekering eigen woning aangemerkt de waarde in het economische verkeer van de oude polis verminderd met de daarop gestorte premies (overschot). Voor de beoordeling van de voorwaarde of de hoogste en de laagste premie blijft binnen de in het tweede lid, onderdeel b, bedoelde bandbreedte, blijft het overschot buiten aanmerking.   
-9.  De keuze, bedoeld in artikel 2.5, geldt niet voor de toepassing van het vierde lid.   
-10.  Als te conserveren inkomen als bedoeld in artikel 2.8, worden mede aangemerkt de positieve inkomensbestanddelen die in aanmerking zijn genomen op grond van het vierde lid.   
-11.  In afwijking van het bepaalde in artikel 3.146, wordt de in het derde en vierde lid bedoelde waarde in het economische verkeer van de kapitaalverzekering eigen woning geacht te zijn genoten op het tijdstip van de fictieve uitkering.  
+9.  Als te conserveren inkomen als bedoeld in artikel 2.8, worden mede aangemerkt de positieve inkomensbestanddelen die in aanmerking zijn genomen op grond van het vierde lid.   
+10.  In afwijking van het bepaalde in artikel 3.146, wordt de in het derde en vierde lid bedoelde waarde in het economische verkeer van de kapitaalverzekering eigen woning geacht te zijn genoten op het tijdstip van de fictieve uitkering.  
 
 ### Artikel  10bis.5  
 
@@ -5298,13 +5308,13 @@ c. tot uitkering te zijn gekomen: te zijn gedeblokkeerd.
 
 ####Vrijstelling kapitaalverzekering eigen woning
 
-1.  Tot het voordeel uit kapitaalverzekering eigen woning behoort niet de rente begrepen in de uitkering uit een kapitaalverzekering eigen woning voor zover de uitkering niet meer bedraagt dan € 160.000 indien: 
+1.  Tot het voordeel uit kapitaalverzekering eigen woning behoort niet de rente begrepen in de uitkering uit een kapitaalverzekering eigen woning voor zover de uitkering niet meer bedraagt dan € 161.500 indien: 
 
 a. de uitkering heeft gediend als aflossing van de eigenwoningschuld;  
 
 b. ter zake van de verzekering ten minste 20 jaar, of, indien de verzekering tot uitkering komt door eerder overlijden, tot het overlijden, jaarlijks premies zijn voldaan en  
 
-c. de hoogste premie niet meer heeft bedragen dan het tienvoud van de laagste.   In afwijking in zoverre van de eerste volzin, aanhef en onderdeel b, wordt de rente die is begrepen in de uitkering uit een kapitaalverzekering eigen woning, voor zover deze uitkering niet meer bedraagt dan € 36.300, niet als voordeel uit kapitaalverzekering aangemerkt indien ter zake van de verzekering ten minste 15 jaar jaarlijks premies zijn voldaan.   
+c. de hoogste premie niet meer heeft bedragen dan het tienvoud van de laagste.   In afwijking in zoverre van de eerste volzin, aanhef en onderdeel b, wordt de rente die is begrepen in de uitkering uit een kapitaalverzekering eigen woning, voor zover deze uitkering niet meer bedraagt dan € 36.600, niet als voordeel uit kapitaalverzekering aangemerkt indien ter zake van de verzekering ten minste 15 jaar jaarlijks premies zijn voldaan.   
 2.  De in het eerste lid, onderdelen a en b, genoemde voorwaarden gelden niet indien: 
 
 a. de verzekeringnemer of zijn partner geen eigen woning meer ter beschikking staat en ter zake daarvan de verzekering tot uitkering is gekomen of wordt geacht tot uitkering te zijn gekomen of  
@@ -5444,12 +5454,6 @@ b. tot het afgezonderd particulier vermogen geen aandelen of winstbewijzen behor
 5.  Voor de berekening van het inkomen uit aanmerkelijk belang in de zin van deze wet wordt de verkrijgingsprijs van aandelen en winstbewijzen die voor de toepassing van de Wet op de inkomstenbelasting 1964, zoals die luidde op 31 december 2000, behoorden tot een aanmerkelijk belang, dan wel voor de toepassing van deze wet behoren tot een aanmerkelijk belang, en die tot de bezittingen van een bestaand afgezonderd particulier vermogen behoren en ingevolge artikel 2.14a worden toegerekend aan degene die dit vermogen heeft afgezonderd of aan zijn erfgenamen, per 1 januari 2010 gesteld op de verkrijgingsprijs zoals die gold voor degene die deze aandelen en winstbewijzen rechtens dan wel in feite, direct of indirect, heeft afgezonderd.   
 6.  Voor de toepassing van dit artikel zijn de artikelen 4.3, 4.4, 4.5 en 4.5a van overeenkomstige toepassing.  
 
-### Artikel  10a.8  
-
-####Overgangsbepaling in verband met wijziging regime voor vergoedingen en verstrekkingen in de Wet op de loonbelasting 1964
-
-Ingeval de belastingplichtige daarvoor kiest blijft artikel 3.84, tweede lid, buiten beschouwing, en blijven artikel 10, eerste lid, artikel 11, eerste lid, onderdelen a, b, i, m, q, s en t, artikel 13, artikel 13a en hoofdstuk IIA van de Wet op de loonbelasting 1964, zoals deze op 31 december 2010 luidden, alsmede de daarop gebaseerde bepalingen, met inachtneming van artikel 39c, eerste lid, tweede volzin, tweede lid en derde lid, van die wet, van overeenkomstige toepassing.
-
 ### Artikel  10a.9  
 
 ####Overgangsbepaling verliezen op beleggingen in durfkapitaal in verband met het vervallen van afdeling 6.3  per 1 januari 2011
@@ -5496,15 +5500,11 @@ Met betrekking tot op 31 december 2013 bestaande stamrechtspaarrekeningen en st
 
 ####Overgangsbepaling in verband met de wijziging van de Wegenverkeerswet 1994 met ingang van 1 januari 2014
 
-Treedt in werking per 01-01-2015 
-
 Met betrekking tot auto’s waarvan het kenteken vóór 1 januari 2014 op naam is gesteld, dient, waar in artikel 3.20 zestiende lid, onderdeel a, achttiende lid of eenentwintigste lid, wordt gesproken over de eerste tenaamstelling van de auto in het kentekenregister, te worden uitgegaan van de eerste tenaamstelling van het kenteken van de auto in het kentekenregister. 
 
 ### Artikel  10a.15  
 
 ####Overgangsbepaling nettolijfrente en nettopensioen
-
-Treedt in werking per 01-01-2015 
 
 Indien het aantal kalenderjaren tussen 1 januari 2015 en het moment waarop artikel 5.16c, eerste lid, of artikel 5.17e, eerste lid, toepassing vindt lager is dan tien, wordt voor de toepassing van artikel 5.16c, tweede lid, onderscheidenlijk artikel 5.17e, tweede lid, de helft van de waarde van de aanspraak, bedoeld in artikel 5.16c, eerste lid, onderscheidenlijk artikel 5.17e, eerste lid, aan het begin van het voorafgaande kalenderjaar niet vermenigvuldigd met tien, maar met het aantal kalenderjaren tussen 1 januari 2015 en het moment waarop artikel 5.16c, eerste lid, onderscheidenlijk artikel 5.17e, eerste lid, toepassing vindt. 
 

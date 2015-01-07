@@ -1618,7 +1618,7 @@ b. indien, mede gelet op hetgeen is komen vast te staan omtrent de gemeenschappe
 c. indien de persoon bedoeld in lid 1 vanuit financieel oogpunt onvoldoende waarborg biedt voor een behoorlijke nakoming van de huur.     
 4.  Voor de verplichtingen uit de huur zijn de persoon die de huur heeft aangegaan en ieder van de personen die op grond van dit artikel medehuurder of huurder is, hoofdelijk jegens de verhuurder aansprakelijk, met dien verstande dat een medehuurder niet aansprakelijk is voor verplichtingen die reeds opeisbaar waren voordat hij medehuurder werd.   
 5.  De bepalingen omtrent het eindigen van de huur zijn op de personen bedoeld in lid 4 afzonderlijk van toepassing met dien verstande dat een persoon de hoedanigheid van medehuurder in ieder geval verliest, indien hij zijn hoofdverblijf niet langer in de woonruimte heeft. Indien de huur ten aanzien van de huurder eindigt, wordt de medehuurder huurder.   
-6.  Is ten aanzien van de woonruimte hoofdstuk II van de Huisvestingswet van toepassing, dan zet de medehuurder in afwijking van lid 5 de huur slechts voort, indien de rechter dit heeft bepaald op een daartoe door die persoon binnen acht weken na het tijdstip waarop hij huurder is geworden, ingestelde vordering en in elk geval zolang op deze vordering nog niet onherroepelijk is beslist. De rechter wijst de vordering slechts af, indien de eiser niet een voor hem geldende huisvestingsvergunning als bedoeld in artikel 7 lid 1 van die wet overlegt.   
+6.  Is ten aanzien van de woonruimte hoofdstuk 2 van de Huisvestingswet 2014 van toepassing, dan zet de medehuurder in afwijking van lid 5 de huur slechts voort, indien de rechter dit heeft bepaald op een daartoe door die persoon binnen acht weken na het tijdstip waarop hij huurder is geworden, ingestelde vordering en in elk geval zolang op deze vordering nog niet onherroepelijk is beslist. De rechter wijst de vordering slechts af, indien de eiser niet een voor hem geldende huisvestingsvergunning als bedoeld in artikel 8 van die wet overlegt.   
 7.  Ieder van de personen bedoeld in lid 4 kan vorderen dat de rechter zal bepalen dat een of meer van deze personen de huur met ingang van een in het vonnis te bepalen tijdstip niet langer zullen voortzetten. De rechter wijst de vordering slechts toe, indien dit naar billijkheid, met inachtneming van de omstandigheden van het geval, geboden is, met dien verstande dat hij de vordering in ieder geval toewijst, indien de eiser aantoont dat de persoon waarop de vordering betrekking heeft, zijn positie van medehuurder heeft verkregen op grond van een niet mede door de eiser aan de verhuurder gedaan verzoek of van een door hem ingestelde vordering bedoeld in lid 1.  
 
 ### Artikel  268  
@@ -1631,7 +1631,7 @@ a. indien de eiser niet aannemelijk heeft gemaakt dat hij aan de vereisten van l
 
 b. indien de eiser vanuit financieel oogpunt onvoldoende waarborg biedt voor een behoorlijke nakoming van de huur;  
 
-c. indien het woonruimte betreft waarop hoofdstuk II van de Huisvestingswet van toepassing is, indien de eiser niet een huisvestingsvergunning als bedoeld in artikel 7 lid 1 van die wet overlegt.     
+c. indien het woonruimte betreft waarop hoofdstuk 2 van de Huisvestingswet 2014 van toepassing is, indien de eiser niet een huisvestingsvergunning als bedoeld in artikel 8 van die wet overlegt.     
 4.   Lid 4, de eerste zin van lid 5 en lid 7 van artikel 267 zijn van overeenkomstige toepassing   
 5.  Komt vast te staan, dat een persoon ten onrechte een beroep op voortzetting van de huur krachtens dit artikel heeft gedaan, dan blijft hij over de tijd gedurende welke hij het genot van de woonruimte heeft gehad jegens de verhuurder aansprakelijk voor de nakoming van de huur die voor hem zou hebben bestaan als hij huurder was geweest. Heeft meer dan één persoon ten onrechte een beroep op voortzetting van de huur gedaan, dan is ieder van hen jegens de verhuurder hoofdelijk aansprakelijk.   
 6.  Zijn er geen personen die krachtens dit artikel de huur voortzetten, dan eindigt deze aan het eind van de tweede maand na het overlijden van de huurder. De erfgenamen zijn bevoegd de huur tegen het eind van de eerste maand na het overlijden van de huurder te doen eindigen. Wanneer de nalatenschap van de huurder ingevolge artikel 13 van Boek 4 wordt verdeeld, komt de bevoegdheid van de erfgenamen, bedoeld in de vorige zin, toe aan zijn echtgenoot of geregistreerde partner.   
@@ -1649,12 +1649,12 @@ b. de onderhuur is aangegaan met de kennelijke strekking de onderhuurder de posi
 
 c. in de gegeven omstandigheden naar maatstaven van redelijkheid en billijkheid, mede gelet op de inhoud van de huurovereenkomsten die betrekking hebben op soortgelijke woonruimte alsmede op de inhoud van de geëindigde huur tussen hem en de huurder en de inhoud van de voortgezette huurovereenkomst, niet van hem kan worden gevergd dat hij de huur met de wederpartij voortzet;  
 
-d. de wederpartij indien het woonruimte betreft waarop hoofdstuk II van de Huisvestingswet van toepassing is, niet een huisvestingsvergunning als bedoeld in artikel 7 lid 1 van die wet overlegt.     
+d. de wederpartij indien het woonruimte betreft waarop hoofdstuk 2 van de Huisvestingswet 2014 van toepassing is, niet een huisvestingsvergunning als bedoeld in artikel 8 van die wet overlegt.     
 3.  Ingeval van onderverhuur welke al dan niet een zelfstandige woning vormt, zet degene die op grond van de artikelen 266, 267 en 268 huurder is geworden of de huur heeft voortgezet, als onderverhuurder de huur met de onderhuurder voort.  
 
 ### Artikel  270  
 
-1.  De huurder die een ruil van woonruimte wenst te bewerkstelligen, kan vorderen dat de rechter hem zal machtigen om een ander in zijn plaats als huurder te stellen. Indien op de woonruimte hoofdstuk II van de Huisvestingswet van toepassing is, moet de eiser een ten behoeve van de voorgestelde huurder afgegeven huisvestingsvergunning als bedoeld in artikel 7 lid 1 van die wet met betrekking tot woonruimte overleggen.   
+1.  De huurder die een ruil van woonruimte wenst te bewerkstelligen, kan vorderen dat de rechter hem zal machtigen om een ander in zijn plaats als huurder te stellen. Indien op de woonruimte hoofdstuk 2 van de Huisvestingswet 2014 van toepassing is, moet de eiser een ten behoeve van de voorgestelde huurder afgegeven huisvestingsvergunning als bedoeld in artikel 8 van die wet met betrekking tot woonruimte overleggen.   
 2.  De rechter beslist met inachtneming van de omstandigheden van het geval, met dien verstande dat hij de vordering slechts kan toewijzen, indien de huurder een zwaarwichtig belang bij de ruil van woonruimte heeft en dat hij deze afwijst, indien de voorgestelde huurder vanuit financieel oogpunt niet voldoende waarborg biedt voor een behoorlijke nakoming van de huur. De rechter kan aan de machtiging voorwaarden verbinden of daarbij een last opleggen.   
 3.  Van deze bepaling kan niet ten nadele van de huurder worden afgeweken.  
 
@@ -1734,7 +1734,7 @@ c. het verstrekken aan een oudere van een zelfstandige woning welke onderdeel ui
 3°.in de huurovereenkomst met de huurder tegen wie de in lid 1 bedoelde vordering is ingesteld, is bepaald dat die woonruimte na beëindiging van de huurovereenkomst opnieuw aan een student als bedoeld in dit lid zal worden verhuurd. Onder student wordt in dit lid verstaan een deelnemer die is ingeschreven aan een instelling als bedoeld in artikel 1.1.1, onderdeel b, van de Wet educatie en beroepsonderwijs of een student die is ingeschreven aan een universiteit of hogeschool als bedoeld in artikel 1.2, onderdelen a en b, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek. 
 5.  Een vordering, gegrond op eigen gebruik in de zin van lid 1 onder c is niet toewijsbaar  
 
-a. ten aanzien van woonruimte waarop hoofdstuk II van de Huisvestingswet van toepassing is, zolang de verhuurder geen huisvestingsvergunning als bedoeld in artikel 7 lid 1 van die wet overlegt behoudens het geval dat het eigen gebruik in iets anders bestaat dan bewoning;  
+a. ten aanzien van woonruimte waarop hoofdstuk 2 van de Huisvestingswet 2014 van toepassing is, zolang de verhuurder geen huisvestingsvergunning als bedoeld in artikel 8 van die wet overlegt behoudens het geval dat het eigen gebruik in iets anders bestaat dan bewoning;  
 
 b. indien de verhuurder de rechtsopvolger van de vorige verhuurder is en de opzegging is geschied binnen drie jaar nadat de rechtsopvolging schriftelijk ter kennis van de huurder is gebracht.     
 6.  In de gevallen bedoeld in lid 1 onder a en d kan de rechter, voordat hij de vordering toewijst, aan de huurder een termijn van ten hoogste een maand toestaan om alsnog aan zijn verplichtingen te voldoen of het aanbod te aanvaarden.   
@@ -3736,13 +3736,15 @@ Geen loon is verschuldigd voor de tijd gedurende welke de werknemer de bedongen 
 
 ### Artikel  628  
 
-1.  De werknemer behoudt het recht op het naar tijdruimte vastgestelde loon indien hij de overeengekomen arbeid niet heeft verricht door een oorzaak die in redelijkheid voor rekening van de werkgever behoort te komen.   
-2.  Indien hem krachtens enige wettelijk voorgeschreven verzekering of krachtens enige verzekering of uit enig fonds waarin de deelneming is overeengekomen bij of voortvloeit uit de arbeidsovereenkomst, een geldelijke uitkering toekomt, wordt het loon verminderd met het bedrag van die uitkering.   
+1.  De werknemer behoudt het recht op het naar tijdruimte vastgestelde loon indien hij de overeengekomen arbeid niet heeft verricht door een oorzaak die in redelijkheid voor rekening van de werkgever behoort te komen.    
+2.  Indien de werknemer krachtens enige wettelijk voorgeschreven verzekering of krachtens enige verzekering of uit enig fonds waarin de deelneming is overeengekomen bij of voortvloeit uit de arbeidsovereenkomst, een geldelijke uitkering toekomt, wordt het loon verminderd met het bedrag van die uitkering.   
 3.  Indien het loon in geld op andere wijze dan naar tijdruimte is vastgesteld, zijn de bepalingen van dit artikel van toepassing, met dien verstande dat als loon wordt beschouwd het gemiddelde loon dat de werknemer, wanneer hij niet verhinderd was geweest, gedurende die tijd had kunnen verdienen.   
 4.  Het loon wordt echter verminderd met het bedrag van de onkosten die de werknemer zich door het niet-verrichten van de arbeid heeft bespaard.    
-5.  Van de leden 1 tot en met 4 kan voor de eerste zes maanden van de arbeidsovereenkomst slechts bij schriftelijke overeenkomst worden afgeweken ten nadele van de werknemer.    
-6.  In geval van elkaar opvolgende arbeidsovereenkomsten in de zin van artikel 668a kan een afwijking als bedoeld in lid 5 in totaal voor ten hoogste zes maanden worden overeengekomen.    
-7.  Na het verstrijken van de termijn, bedoeld in lid 5, kan van dit artikel slechts bij collectieve arbeidsovereenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan worden afgeweken ten nadele van de werknemer.   
+5.  Van lid 1 kan voor de eerste zes maanden van de arbeidsovereenkomst bij schriftelijke overeenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan ten nadele van de werknemer worden afgeweken.   
+6.  In geval van elkaar opvolgende arbeidsovereenkomsten als bedoeld in artikel 668a kan een afwijking als bedoeld in lid 5 voor ten hoogste in totaal zes maanden worden overeengekomen.   
+7.  Bij collectieve arbeidsovereenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan kan de periode, bedoeld in lid 5, voor bij die overeenkomst of regeling te bepalen functies worden verlengd, mits de aan die functies verbonden werkzaamheden incidenteel van aard zijn en geen vaste omvang hebben.   
+8.  Bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid kan op verzoek van de Stichting van de Arbeid worden bepaald dat op bepaalde bedrijfstakken, of onderdelen daarvan, lid 5, 6 of 7 niet van toepassing is.   
+9.  Elk beding dat ten nadele van de werknemer afwijkt van dit artikel is nietig. 
 
 ### Artikel  628a  
 
@@ -4006,21 +4008,43 @@ c.  indirect onderscheid: indien een ogenschijnlijk neutrale bepaling, maatstaf 
 1.  Indien partijen een proeftijd overeenkomen, is deze voor beide partijen gelijk.    
 2.  De proeftijd wordt schriftelijk overeengekomen.   
 3.  Bij het aangaan van een arbeidsovereenkomst voor onbepaalde tijd kan een proeftijd worden overeengekomen van ten hoogste twee maanden.    
-4.  Bij het aangaan van een arbeidsovereenkomst voor bepaalde tijd kan een proeftijd worden overeengekomen van ten hoogste:  
+4.  Er kan geen proeftijd worden overeengekomen indien de arbeidsovereenkomst is aangegaan voor ten hoogste zes maanden.  
+5.  Bij het aangaan van een arbeidsovereenkomst voor bepaalde tijd van langer dan zes maanden kan een proeftijd worden overeengekomen van ten hoogste:  
 
 a. een maand, indien de overeenkomst is aangegaan voor korter dan twee jaren;   
 
 b. twee maanden, indien de overeenkomst is aangegaan voor twee jaren of langer.      
-5.  Indien het einde van een arbeidsovereenkomst voor bepaalde tijd niet op een kalenderdatum is gesteld, kan een proeftijd worden overeengekomen van ten hoogste een maand.    
-6.  Van de leden 4, onder a, en 5, kan slechts bij collectieve arbeidsovereenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan worden afgeweken ten nadele van de werknemer.    
-7.  Elk beding waarbij de proeftijd niet voor beide partijen gelijk is dan wel op langer dan twee maanden wordt gesteld, alsmede elk beding waarbij door het aangaan van een nieuwe proeftijd de gezamenlijke proeftijden langer dan twee maanden worden, is nietig.   
+6.  Indien het einde van een arbeidsovereenkomst voor bepaalde tijd niet op een kalenderdatum is gesteld, kan een proeftijd worden overeengekomen van ten hoogste een maand.    
+7.  Van de leden 5, onderdeel a, en 6, kan slechts bij collectieve arbeidsovereenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan worden afgeweken ten nadele van de werknemer.    
+8.  Elk beding waarbij een proeftijd is overeengekomen is nietig, indien: 
+
+a. de proeftijd niet voor beide partijen gelijk is;  
+
+b. de proeftijd, anders dan bij collectieve arbeidsovereenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan, op langer dan een maand wordt gesteld in het geval, bedoeld in lid 5, onderdeel a;  
+
+c. de proeftijd op langer dan twee maanden wordt gesteld;  
+
+d. het beding is opgenomen in een opvolgende arbeidsovereenkomst tussen een werknemer en dezelfde werkgever, tenzij die overeenkomst duidelijk andere vaardigheden of verantwoordelijkheden van de werknemer eist dan de vorige arbeidsovereenkomst;  
+
+e. het beding is opgenomen in een opvolgende arbeidsovereenkomst tussen een werknemer en een andere werkgever die ten aanzien van de verrichte arbeid redelijkerwijze geacht moet worden de opvolger van de vorige werkgever te zijn; of  
+
+f. het beding is opgenomen in een arbeidsovereenkomst die is aangegaan voor ten hoogste zes maanden.    
 
 ### Artikel  653  
 
-1.  Een beding tussen de werkgever en de werknemer waarbij deze laatste wordt beperkt in zijn bevoegdheid om na het einde van de overeenkomst op zekere wijze werkzaam te zijn, is slechts geldig, indien de werkgever dit schriftelijk is overeengekomen met een meerderjarige werknemer.   
-2.  De rechter kan zulk een beding geheel of gedeeltelijk vernietigen op grond dat, in verhouding tot het te beschermen belang van de werkgever, de werknemer door dat beding onbillijk wordt benadeeld.   
-3.  Aan een beding als bedoeld in lid 1 kan de werkgever geen rechten ontlenen, indien hij wegens de wijze waarop de overeenkomst is geëindigd, schadeplichtig is.   
-4.  Indien een beding als bedoeld in lid 1 de werknemer in belangrijke mate belemmert om anders dan in dienst van de werkgever werkzaam te zijn, kan de rechter steeds bepalen dat de werkgever voor de duur van de beperking aan de werknemer een vergoeding moet betalen. De rechter stelt de hoogte van deze vergoeding met het oog op de omstandigheden van het geval naar billijkheid vast; hij kan toestaan dat de vergoeding op de door hem te bepalen wijze in termijnen wordt betaald. De vergoeding is niet verschuldigd, indien de werknemer wegens de wijze waarop de overeenkomst is geëindigd, schadeplichtig is.   
+1.  Een beding tussen de werkgever en de werknemer waarbij deze laatste wordt beperkt in zijn bevoegdheid om na het einde van de overeenkomst op zekere wijze werkzaam te zijn, is slechts geldig indien: 
+
+a. de arbeidsovereenkomst voor onbepaalde tijd is aangegaan; en  
+
+b. de werkgever dit beding schriftelijk is overeengekomen met een meerderjarige werknemer.     
+2.  In afwijking van lid 1, aanhef, en onderdeel a, kan een beding als bedoeld in lid 1 worden opgenomen in een arbeidsovereenkomst voor bepaalde tijd, indien uit de bij dat beding opgenomen schriftelijke motivering van de werkgever blijkt dat het beding noodzakelijk is vanwege zwaarwegende bedrijfs- of dienstbelangen.   
+3.  De rechter kan een beding als bedoeld in lid 1 en lid 2: 
+
+a. geheel vernietigen indien het beding, bedoeld in lid 2, niet noodzakelijk is vanwege zwaarwegende bedrijfs- of dienstbelangen; of  
+
+b. geheel of gedeeltelijk vernietigen indien in verhouding tot het te beschermen belang van de werkgever, de werknemer door dat beding onbillijk wordt benadeeld.     
+4.  Aan een beding als bedoeld in lid 1 of lid 2 kan de werkgever geen rechten ontlenen, indien hij wegens de wijze waarop de overeenkomst is geëindigd, schadeplichtig is.   
+5.  Indien een beding als bedoeld in lid 1 of lid 2 de werknemer in belangrijke mate belemmert om anders dan in dienst van de werkgever werkzaam te zijn, kan de rechter steeds bepalen dat de werkgever voor de duur van de beperking aan de werknemer een vergoeding moet betalen. De rechter stelt de hoogte van deze vergoeding met het oog op de omstandigheden van het geval naar billijkheid vast; hij kan toestaan dat de vergoeding op de door hem te bepalen wijze in termijnen wordt betaald. De vergoeding is niet verschuldigd, indien de werknemer wegens de wijze waarop de overeenkomst is geëindigd, schadeplichtig is.   
 
 ### Afdeling  6  
 
@@ -4222,8 +4246,24 @@ b. indien volgens de wet of het gebruik opzegging behoort plaats te vinden en da
 
 ### Artikel  668  
 
-1.  Indien de arbeidsovereenkomst na het verstrijken van de tijd, bedoeld in artikel 667 lid 1, door partijen zonder tegenspraak wordt voortgezet, wordt zij geacht voor dezelfde tijd, doch telkens ten hoogste voor een jaar, op de vroegere voorwaarden wederom te zijn aangegaan.   
-2.  Hetzelfde geldt, wanneer in de gevallen waarin opzegging nodig is, tijdige opzegging achterwege blijft en de gevolgen van de voortzetting der arbeidsovereenkomst niet opzettelijk zijn geregeld.  
+1.  De werkgever informeert de werknemer schriftelijk uiterlijk een maand voordat een arbeidsovereenkomst voor bepaalde tijd van rechtswege eindigt: 
+
+a. over het al dan niet voortzetten van de arbeidsovereenkomst; en  
+
+b. bij voortzetting, over de voorwaarden waaronder hij de arbeidsovereenkomst wil voortzetten.     
+2.  Lid 1 is niet van toepassing, indien: 
+
+a. bij het aangaan van de arbeidsovereenkomst schriftelijk is overeengekomen dat deze eindigt op een tijdstip dat niet op een kalenderdatum is gesteld; of  
+
+b. de arbeidsovereenkomst is aangegaan voor een periode korter dan zes maanden.     
+3.  Indien de werkgever de verplichting, bedoeld in lid 1, aanhef en onderdeel a, in het geheel niet is nagekomen, is hij aan de werknemer een vergoeding verschuldigd gelijk aan het bedrag van het loon voor één maand. Indien de werkgever die verplichting niet tijdig is nagekomen, is hij aan de werknemer een vergoeding naar rato verschuldigd. De vergoeding is niet langer verschuldigd, indien de werkgever in staat van faillissement is verklaard, aan hem surseance van betaling is verleend of op hem de schuldsaneringsregeling natuurlijke personen van toepassing is.   
+4.  De arbeidsovereenkomst wordt geacht voor dezelfde tijd, maar ten hoogste voor een jaar, op de vroegere voorwaarden te zijn voortgezet, indien: 
+
+a. de arbeidsovereenkomst, bedoeld in lid 1, na het verstrijken van de tijd, bedoeld in artikel 667, lid 1, wordt voortgezet en de werkgever de verplichting, bedoeld in lid 1, onderdeel a of b, niet is nagekomen; of  
+
+b. de arbeidsovereenkomst, bedoeld in lid 2, na het verstrijken van de tijd, bedoeld in artikel 667, lid 1, door partijen zonder tegenspraak wordt voortgezet.     
+5.  Lid 4, onderdeel b, geldt tevens wanneer in de gevallen waarin opzegging nodig is, tijdige opzegging achterwege blijft en de gevolgen van de voortzetting van de arbeidsovereenkomst niet uitdrukkelijk zijn geregeld.   
+6.  Bij of krachtens algemene maatregel van bestuur wordt bepaald wat voor de toepassing van lid 3 wordt verstaan onder loon. 
 
 ### Artikel  668a  
 
@@ -4248,7 +4288,7 @@ Degene die de arbeidsovereenkomst opzegt, geeft de andere partij op diens verzoe
 a. ten minste twee jaren heeft geduurd, of   
 
 b. een aanvang heeft genomen nadat een verzoek om toestemming als bedoeld in artikel 6 van het Buitengewoon Besluit Arbeidsverhoudingen 1945 door het Uitvoeringsinstituut werknemersverzekeringen, genoemd in hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen is ontvangen.     Voor de berekening van de termijn, bedoeld in onderdeel a, worden perioden van ongeschiktheid tot het verrichten van arbeid tengevolge van zwangerschap voorafgaand aan het zwangerschapsverlof en perioden van ongeschiktheid tijdens het zwangerschaps- of bevallingsverlof, bedoeld in artikel 3:1, tweede en derde lid, van de Wet arbeid en zorg, niet in aanmerking genomen. Voorts worden perioden van ongeschiktheid tot het verrichten van arbeid, anders dan bedoeld in de vorige zin, samengeteld, indien zij elkaar met een onderbreking van minder dan vier weken opvolgen, of indien zij direct voorafgaan aan en aansluiten op een periode waarin zwangerschaps- of bevallingsverlof wordt genoten overeenkomstig artikel 3:1, tweede en derde lid, van de Wet arbeid en zorg, tenzij de ongeschiktheid redelijkerwijs niet geacht kan worden voort te vloeien uit dezelfde oorzaak.  
-2.  De werkgever kan de arbeidsovereenkomst met een werkneemster niet opzeggen gedurende de zwangerschap. De werkgever kan ter staving van de zwangerschap een verklaring van een arts of van een verloskundige verlangen. Voorts kan de werkgever de arbeidsovereenkomst van de werkneemster niet opzeggen gedurende de periode waarin zij bevallingsverlof als bedoeld in artikel 3:1, derde lid, van de Wet arbeid en zorg geniet en na werkhervatting, gedurende het tijdvak van zes weken aansluitend op dat bevallingsverlof, dan wel aansluitend op een periode van ongeschiktheid tot het verrichten van arbeid die haar oorzaak vindt in de bevalling of de daaraan voorafgaande zwangerschap en die aansluit op dat bevallingsverlof.   
+2.  De werkgever kan de arbeidsovereenkomst met een werkneemster niet opzeggen gedurende de zwangerschap. De werkgever kan ter staving van de zwangerschap een verklaring van een arts of van een verloskundige verlangen. Voorts kan de werkgever de arbeidsovereenkomst van de werkneemster niet opzeggen gedurende de periode waarin zij bevallingsverlof als bedoeld in artikel 3:1, derde lid, van de Wet arbeid en zorg geniet en na werkhervatting, gedurende het tijdvak van zes weken aansluitend op dat bevallingsverlof, dan wel aansluitend op een periode van ongeschiktheid tot het verrichten van arbeid die haar oorzaak vindt in de bevalling of de daaraan voorafgaande zwangerschap en die aansluit op dat bevallingsverlof. De werkgever kan de arbeidsovereenkomst met de werknemer voorts niet opzeggen gedurende de periode dat hij verlof geniet als bedoeld in artikel 3:1a, eerste of vierde lid, van de Wet arbeid en zorg.   
 3.  De werkgever kan niet opzeggen gedurende de tijd dat de werknemer verhinderd is de bedongen arbeid te verrichten, omdat hij als dienstplichtige is opgeroepen ter vervulling van zijn militaire dienst of vervangende dienst.    
 4.  De werkgever kan de arbeidsovereenkomst niet opzeggen met de werknemer die lid is van:
 
@@ -4261,7 +4301,7 @@ b. een aanvang heeft genomen nadat een verzoek om toestemming als bedoeld in art
 4°.een bijzondere onderhandelingsgroep, of een SCE-ondernemingsraad of als werknemersvertegenwoordiger lid is van het toezichthoudend of het bestuursorgaan van de SCE als bedoeld in hoofdstuk 2 van de Wet rol werknemers bij Europese rechtspersonen dan wel die krachtens hoofdstuk 2 van die wet optreedt als vertegenwoordiger bij een andere wijze van informatieverstrekking en raadpleging van werknemers. Indien de werkgever aan de ondernemingsraad of de personeelsvertegenwoordiging een secretaris heeft toegevoegd, is de eerste volzin op die secretaris van overeenkomstige toepassing. Indien de werkgever aan de ondernemingsraad een secretaris heeft toegevoegd, is de eerste volzin van dit lid van overeenkomstige toepassing op die secretaris.   
 5.  De werkgever kan de arbeidsovereenkomst niet opzeggen wegens het lidmaatschap van de werknemer van een vereniging van werknemers die krachtens haar statuten ten doel heeft de belangen van de leden als werknemer te behartigen dan wel wegens het verrichten van of deelnemen aan activiteiten ten behoeve van die vereniging, tenzij die activiteiten in de arbeidstijd van de werknemer worden verricht zonder toestemming van de werkgever.    
 6.  De werkgever kan de arbeidsovereenkomst met de werknemer die daarvoor verlof heeft, niet opzeggen wegens het bijwonen van vergaderingen als bedoeld in artikel 643. Hetzelfde geldt indien tussen partijen geen overeenstemming over het verlof bestaat zolang de rechter omtrent het verlof niet heeft beschikt.   
-7. De werkgever kan de arbeidsovereenkomst niet opzeggen wegens de omstandigheid dat de werknemer zijn recht op adoptieverlof of verlof voor het opnemen van een pleegkind als bedoeld in artikel 3:2 van de Wet arbeid en zorg, op kort- en langdurend zorgverlof als bedoeld in hoofdstuk 5 van de Wet arbeid en zorg, dan wel zijn recht op ouderschapsverlof als bedoeld in hoofdstuk 6 van de Wet arbeid en zorg geldend maakt.  
+7. De werkgever kan de arbeidsovereenkomst niet opzeggen wegens de omstandigheid dat de werknemer zijn recht op verlof als bedoeld in artikel 3:1a, eerste of vierde lid, van de Wet arbeid en zorg, zijn recht op adoptieverlof of verlof voor het opnemen van een pleegkind als bedoeld in artikel 3:2 van de Wet arbeid en zorg, op kort- en langdurend zorgverlof als bedoeld in hoofdstuk 5 van de Wet arbeid en zorg, dan wel zijn recht op ouderschapsverlof als bedoeld in hoofdstuk 6 van de Wet arbeid en zorg geldend maakt.  
 8.  De werkgever kan de arbeidsovereenkomst met de in zijn onderneming werkzame werknemer niet opzeggen wegens de in artikel 662, lid 2, onderdeel a, bedoelde overgang van die onderneming.   
 9.  De werkgever kan de arbeidsovereenkomst niet opzeggen wegens de omstandigheid dat de werknemer geen instemming verleent aan het werken op zondag als bedoeld in artikel 5:6, tweede lid, tweede zin of vierde lid, tweede zin, van de Arbeidstijdenwet.   
 10.  De termijn van twee jaren, bedoeld in lid 1, onderdeel a, wordt verlengd: 
@@ -4599,7 +4639,6 @@ c. in welke volgorde de werknemers in de gelegenheid worden gesteld hun vroegere
 De bepalingen van deze afdeling sluiten voor geen van beide partijen de mogelijkheid uit van ontbinding wegens een tekortkoming in de nakoming van de overeenkomst en van schadevergoeding. De ontbinding kan slechts door de rechter worden uitgesproken.  
 
 ### Artikel  686a  
-Treedt in werking per 01-01-2015 
 
 1.  Dit lid is nog niet in werking getreden.   
 2.  Dit lid is nog niet in werking getreden.   
@@ -4644,12 +4683,17 @@ De uitzendovereenkomst is de arbeidsovereenkomst waarbij de werknemer door de we
 ### Artikel  691  
 
 1.  Op de uitzendovereenkomst is artikel 668a eerst van toepassing zodra de werknemer in meer dan 26 weken arbeid heeft verricht.    
-2.  In de uitzendovereenkomst kan schriftelijk worden bedongen dat die overeenkomst van rechtswege eindigt doordat de terbeschikkingstelling van de werknemer door de werkgever aan de derde als bedoeld in artikel 690 op verzoek van die derde ten einde komt. Indien een beding als bedoeld in de vorige volzin in de uitzendovereenkomst is opgenomen, kan de werknemer die overeenkomst onverwijld opzeggen.    
+2.  In de uitzendovereenkomst kan schriftelijk worden bedongen dat die overeenkomst van rechtswege eindigt doordat de terbeschikkingstelling van de werknemer door de werkgever aan de derde als bedoeld in artikel 690 op verzoek van die derde ten einde komt. Indien een beding als bedoeld in de vorige volzin in de uitzendovereenkomst is opgenomen, kan de werknemer die overeenkomst onverwijld opzeggen en is op de werkgever artikel 668, leden 1, 2, 3 en 4, onderdeel a, niet van toepassing.    
 3.  Een beding als bedoeld in lid 2 verliest zijn kracht indien de werknemer in meer dan 26 weken arbeid voor de werkgever heeft verricht. Na het verstrijken van deze termijn vervalt de bevoegdheid van de werknemer tot opzegging als bedoeld in lid 2.    
-4.  Voor de berekening van de termijnen, bedoeld in de leden 1 en 3, worden perioden waarin arbeid wordt verricht die elkaar opvolgen met tussenpozen van minder dan een jaar mede in aanmerking genomen.    
-5.  Voor de berekening van de termijnen, bedoeld in de leden 1 en 3, worden perioden waarin voor verschillende werkgevers arbeid wordt verricht die ten aanzien van de verrichte arbeid redelijkerwijze geacht moeten worden elkanders opvolger te zijn mede in aanmerking genomen.    
+4.  Voor de berekening van de termijnen, bedoeld in de leden 1 en 3, worden perioden waarin arbeid wordt verricht die elkaar opvolgen met tussenpozen van ten hoogste zes maanden mede in aanmerking genomen.    
+5.  Voor de berekening van de termijnen, bedoeld in de leden 1 en 3, worden perioden waarin voor verschillende werkgevers arbeid wordt verricht die ten aanzien van de verrichte arbeid redelijkerwijze geacht moeten worden elkaars opvolger te zijn mede in aanmerking genomen.    
 6.  Dit artikel is niet van toepassing op de uitzendovereenkomst waarbij de werkgever en de derde in een groep zijn verbonden als bedoeld in artikel 24b van Boek 2 dan wel de één een dochtermaatschappij is van de ander als bedoeld in artikel 24a van Boek 2.    
-7.  Van de termijnen bedoeld in de leden 1, 3 en 4 en van lid 5 kan slechts bij collectieve arbeidsovereenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan worden afgeweken ten nadele van de werknemer.   
+7.  Bij schriftelijke overeenkomst kan ten nadele van de werknemer worden afgeweken van artikel 628, lid 1, tot ten hoogste de eerste 26 weken waarin de werknemer arbeid verricht. Artikel 628, leden 5, 6 en 7, is niet van toepassing.   
+8.  Bij collectieve arbeidsovereenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan: 
+
+a. kunnen de termijnen, bedoeld in de leden 1, 3 en 7, worden verlengd tot ten hoogste 78 weken; en  
+
+b. kan van lid 5 worden afgeweken ten nadele van de werknemer.   
 
 ### Artikel  692  
 
@@ -4953,7 +4997,7 @@ g. de accommodatie, de voeding of het drinkwater aan boord niet voldoet aan het 
 
 h. het zeeschip het recht verliest de vlag van het Koninkrijk te voeren;  
 
-j. de zee-arbeidsovereenkomst is aangegaan voor een of meer bepaalde reizen en het zeeschip andere reizen maakt.   
+i. de zee-arbeidsovereenkomst is aangegaan voor een of meer bepaalde reizen en het zeeschip andere reizen maakt.   
 
 ### Artikel  728  
 
@@ -4995,7 +5039,7 @@ a. de zeevarende die verzekeringsplichtige is op grond van de Zorgverzekeringswe
 
 b. de zeevarende die verblijft in het land waar hij zijn woonplaats of gewone verblijfplaats heeft.     
 3.  Het recht eindigt, indien de zeevarende is teruggekeerd of heeft kunnen terugkeren naar het land waar hij zijn woonplaats of gewone verblijfplaats heeft.   
-4.  Op de aanspraken, die de zeevarende heeft ingevolge dit artikel, komen de aanspraken ingevolge de Algemene Wet Bijzondere Ziektekosten in mindering.  
+4.  Op de aanspraken, die de zeevarende heeft ingevolge dit artikel, komen de aanspraken ingevolge de Wet langdurige zorg in mindering.  
 
 ### Artikel  734b  
 

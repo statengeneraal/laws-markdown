@@ -3,12 +3,12 @@
 ##Uitvoeringsregeling loonbelasting BES
 
 De Staatssecretaris van Financiën,  
-Gelet op de [artikelen 8](../../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md) en [12A van de Wet loonbelasting BES](../../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md) en [artikel 58 van de Wet inkomstenbelasting BES](../../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md);
+Gelet op de artikelen 8 en 12A van de Wet loonbelasting BES en artikel 58 van de Wet inkomstenbelasting BES;
 Besluit:    
 
 ### Artikel  1  
 
-Deze regeling geeft uitvoering aan de [artikelen 8](../../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md) en [12A van de Wet loonbelasting BES](../../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md) en [artikel 58 van de Wet inkomstenbelasting BES](../../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md). 
+Deze regeling geeft uitvoering aan de artikelen 8 en 12A van de Wet loonbelasting BES en artikel 58 van de Wet inkomstenbelasting BES. 
 
 ### Artikel  2  
 
@@ -30,7 +30,7 @@ g. de tabel bijzondere beloningen, opgenomen in bijlage G.
 
 ### Artikel  3  
 
-De loonbelasting- en premietabellen, genoemd in artikel 2, zijn van toepassing op de in [artikel 2 van de Wet loonbelasting BES](../../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md) genoemde werknemers. 
+De loonbelasting- en premietabellen, genoemd in artikel 2, zijn van toepassing op de in artikel 2 van de Wet loonbelasting BES genoemde werknemers. 
 
 ### Artikel  4  
 

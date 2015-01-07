@@ -130,17 +130,17 @@ b. de alleenstaande gewezen zelfstandige.
 
 1°. de gewezen zelfstandige heeft gedurende drie jaar, onmiddellijk voorafgaand aan de aanvraag, onafgebroken rechtmatig een bedrijf of beroep in Nederland uitgeoefend en gedurende de zeven jaar daarvoor eveneens rechtmatig een bedrijf of beroep in Nederland uitgeoefend dan wel arbeid in dienstbetrekking verricht;   
 
-2°. het inkomen uit arbeid of overig inkomen van de gewezen zelfstandige bedroeg de laatste drie boekjaren gemiddeld minder dan ƒ 36 800 per 1 januari 2014: € 21.861,00 per jaar;  
+2°. het inkomen uit arbeid of overig inkomen van de gewezen zelfstandige bedroeg de laatste drie boekjaren gemiddeld minder dan ƒ 36 800 per 1 januari 2015: € 22.511,00 per jaar;  
 
-3°. het inkomen uit arbeid of overig inkomen van de gewezen zelfstandige zou bij voortzetting van het bedrijf of beroep naar verwachting duurzaam minder dan ƒ 36 800 per 1 juli 2014: € 23.292,00 per jaar bedragen; en  
+3°. het inkomen uit arbeid of overig inkomen van de gewezen zelfstandige zou bij voortzetting van het bedrijf of beroep naar verwachting duurzaam minder dan ƒ 36 800 per 1 januari 2015: € 23.087,00 per jaar bedragen; en  
 
 4°. de aanvraag is ingediend voor het beëindigen van het bedrijf of beroep en de beëindiging heeft plaatsgevonden binnen een periode van anderhalf jaar, volgend op het tijdstip van aanvraag.      
 3.   Het recht op uitkering komt de gewezen zelfstandige en de echtgenoot gezamenlijk toe. De uitkering wordt aan de gewezen zelfstandige en de echtgenoot ieder voor de helft uitbetaald, dan wel op hun gezamenlijk verzoek aan een van hen voor het geheel.    
 4.   De grondslag bedoeld in het eerste lid, wordt door Onze Minister zodanig vastgesteld dat voor:  
 
-a. de gewezen zelfstandige en de echtgenoot de helft van de grondslag netto gelijk is aan € 661,77 per 1 juli 2014: € 679,75;  
+a. de gewezen zelfstandige en de echtgenoot de helft van de grondslag netto gelijk is aan € 661,77 per 1 januari 2015: € 686,31;  
 
-b. voor de alleenstaande gewezen zelfstandige netto gelijk is aan € 926,47 per 1 juli 2014: € 951,64.      
+b. voor de alleenstaande gewezen zelfstandige netto gelijk is aan € 926,47 per 1 januari 2015: € 960,83.      
 5.   Onze Minister herziet de bedragen, genoemd in het tweede lid, 2° en 3°, met ingang van een door hem te bepalen dag zodanig, dat deze netto gelijk zijn aan het netto minimumloon.    
 6.  De in het vierde lid genoemde bedragen worden herzien met ingang van de dag waarop het netto minimumloon wordt herzien met het percentage van deze herziening.   
 7.  Bij de bepaling van het inkomen, bedoeld in het eerste lid, wordt een koopkrachttegemoetkoming op grond van artikel 36a van de Participatiewet niet in aanmerking genomen.  
@@ -187,14 +187,14 @@ Indien het recht op uitkering als gevolg van werkaanvaarding van de gewezen zelf
 a. voor de gewezen zelfstandige en de echtgenoot: de som van het inkomen uit arbeid of overig inkomen van hemzelf en zijn echtgenoot;  
 
 b. voor de alleenstaande gewezen zelfstandige: zijn inkomen uit arbeid of overig inkomen.     
-2.   Als inkomen wordt voorts aangemerkt het inkomen uit het vermogen waarover de gewezen zelfstandige en zijn echtgenoot na de beëindiging van het bedrijf of beroep beschikken, met dien verstande dat daarbij een vermogen van ƒ 202 000 per 1 januari 2014: € 128.547,00 buiten beschouwing blijft. Het inkomen uit vermogen wordt bepaald op 5% Bij Stcrt. 1996/247 is dit percentage m.i.v. 1 januari 1997 vastgesteld op 4%. per jaar van het vermogen.    
-3.  In afwijking van het eerste lid wordt niet als inkomen uit arbeid beschouwd het inkomen uit arbeid gedurende zes aangesloten maanden tot 25 procent van dit inkomen, met een maximum van € 291,04per 1 juli 2014: € 306,56 per maand, voor zover een uitkering wordt ontvangen en dit naar het oordeel van burgemeester en wethouders bijdraagt aan de arbeidsinschakeling.   
+2.   Als inkomen wordt voorts aangemerkt het inkomen uit het vermogen waarover de gewezen zelfstandige en zijn echtgenoot na de beëindiging van het bedrijf of beroep beschikken, met dien verstande dat daarbij een vermogen van € 129.511,00 buiten beschouwing blijft. Het inkomen uit vermogen wordt bepaald op 5% per 1 januari 2015: 3% per jaar van het vermogen.    
+3.  In afwijking van het eerste lid wordt niet als inkomen uit arbeid beschouwd het inkomen uit arbeid gedurende zes aangesloten maanden tot 25 procent van dit inkomen, met een maximum van € 309,36 per maand, voor zover een uitkering wordt ontvangen en dit naar het oordeel van burgemeester en wethouders bijdraagt aan de arbeidsinschakeling.   
 4.  Bij algemene maatregel van bestuur wordt bepaald wat wordt verstaan onder inkomen uit arbeid of overig inkomen als bedoeld in het eerste lid en in artikel 5, tweede lid. Daarbij kan tevens worden bepaald dat nader te bepalen inkomen dat gedeeltelijk, niet, of niet langer wordt genoten als gevolg van gewijzigde omstandigheden of enig handelen of nalaten van betrokkene in aanmerking wordt genomen alsof het wel volledig wordt genoten.   
 5.  Het bedrag, genoemd in het tweede lid, wordt gewijzigd met ingang van 1 januari van elk kalenderjaar, met het percentage waarmee het prijsindexcijfer van de gezinsconsumptie over de maand oktober daaraan voorafgaand afwijkt van het prijsindexcijfer waarop de laatste vaststelling van het bedrag is gebaseerd.   
 6.   Onze Minister herziet het percentage, bedoeld in het tweede lid, zodra de rente-ontwikkeling daartoe aanleiding geeft.    
 7.   Onze Minister stelt regels met betrekking tot de waardering van het vermogen, bedoeld in het tweede lid.    
 8.  Het bedrag, genoemd in het derde lid, wordt gewijzigd met ingang van de dag waarop het in artikel 31, tweede lid, onderdeel n, van de Participatiewet genoemde bedrag wordt gewijzigd.  
-9.  In afwijking van het eerste lid wordt niet als inkomen uit arbeid beschouwd het inkomen uit arbeid van een alleenstaande ouder tot 12,5 procent van dit inkomen, met een maximum van € 187,28 per 1 juli 2014: € 202,57 per maand, gedurende een aaneengesloten periode van maximaal 30 maanden, voor zover hij een uitkering ontvangt, ingeval: 
+9.  In afwijking van het eerste lid wordt niet als inkomen uit arbeid beschouwd het inkomen uit arbeid van een alleenstaande ouder tot 12,5 procent van dit inkomen, met een maximum van € 199,81 per maand, gedurende een aaneengesloten periode van maximaal 30 maanden, voor zover hij een uitkering ontvangt, ingeval: 
 
 a. hij de volledige zorg heeft voor zijn kind tot 12 jaar,  
 

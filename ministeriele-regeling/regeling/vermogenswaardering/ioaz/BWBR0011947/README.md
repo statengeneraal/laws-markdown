@@ -3,22 +3,22 @@
 ##Regeling vermogenswaardering Ioaz
 
 De Minister van Sociale Zaken en Werkgelegenheid;  
-Gelet op [artikel 8, zesde lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md),
+Gelet op artikel 8, zesde lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen,
 Besluit:     
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder:   a. *de wet:*   de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md);    b. *lijfrente:*   een aanspraak volgens een overeenkomst van levensverzekering op vaste en gelijkmatige periodieke uitkeringen die eindigen uiterlijk bij overlijden, welke aanspraak niet kan worden afgekocht, vervreemd, prijsgegeven, of formeel of feitelijk tot voorwerp van zekerheid kan dienen, anders dan ten behoeve van uitstel van betaling op grond van [artikel 25, vierde lid, van de Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md). Onder een lijfrente wordt mede verstaan de aanspraak op winstuitkeringen voorzover die uitkeringen verband houden met een lijfrente;    c. *pensioenregeling:*  
+In deze regeling wordt verstaan onder:   a. *de wet:*   de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen;    b. *lijfrente:*   een aanspraak volgens een overeenkomst van levensverzekering op vaste en gelijkmatige periodieke uitkeringen die eindigen uiterlijk bij overlijden, welke aanspraak niet kan worden afgekocht, vervreemd, prijsgegeven, of formeel of feitelijk tot voorwerp van zekerheid kan dienen, anders dan ten behoeve van uitstel van betaling op grond van artikel 25, vierde lid, van de Invorderingswet 1990. Onder een lijfrente wordt mede verstaan de aanspraak op winstuitkeringen voorzover die uitkeringen verband houden met een lijfrente;    c. *pensioenregeling:*  
 
 1.  een pensioenregeling overeenkomstig de wettelijke bepalingen van de loonbelasting;  
 
-2.  een pensioenregeling waaraan deelneming verplicht is op grond van de [Wet betreffende verplichte deelneming in een bedrijfstakpensioenfonds 2000](../../../../../wet/wet/verplichte/deelneming/in/een/bedrijfstakpensioenfonds/2000/BWBR0012092/README.md), de [Wet op het notarisambt](../../../../../wet/notariswet/BWBR0010388/README.md) of de [Wet verplichte beroepspensioenregeling](../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md);  
+2.  een pensioenregeling waaraan deelneming verplicht is op grond van de Wet betreffende verplichte deelneming in een bedrijfstakpensioenfonds 2000, de Wet op het notarisambt of de Wet verplichte beroepspensioenregeling;  
 
-3.  een regeling van een andere mogendheid, die volgens de belastingwetten van dat land, welke naar aard en strekking overeenkomen met de Nederlandse loonbelasting of de inkomstenbelasting, als een pensioenregeling wordt beschouwd.      d. *levensverzekering:*   een overeenkomst van levensverzekering als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).    
+3.  een regeling van een andere mogendheid, die volgens de belastingwetten van dat land, welke naar aard en strekking overeenkomen met de Nederlandse loonbelasting of de inkomstenbelasting, als een pensioenregeling wordt beschouwd.      d. *levensverzekering:*   een overeenkomst van levensverzekering als bedoeld in artikel 1:1 van de Wet op het financieel toezicht.    
 
 ### Artikel  2  
 
-De waarde van het vermogen bedoeld in [artikel 8, tweede lid, van de wet](../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md), wordt vastgesteld onmiddellijk nadat het bedrijf of beroep is beëindigd.  
+De waarde van het vermogen bedoeld in artikel 8, tweede lid, van de wet, wordt vastgesteld onmiddellijk nadat het bedrijf of beroep is beëindigd.  
 
 ### Artikel  3  
 
@@ -52,7 +52,7 @@ a.  rechten die berusten op een pensioenregeling;
 
 b.  rechten op uitkeringen en verstrekkingen ter zake van invaliditeit, ziekte of ongeval toekomende aan de gewezen zelfstandige of zijn echtgenoot;  
 
-c.  bossen, natuurterreinen en onroerende zaken die deel uitmaken van een ingevolge de [Natuurschoonwet 1928](../../../../../wet/natuurschoonwet/1928/BWBR0001939/README.md) aangewezen landgoed, met uitzondering van de op deze landgoederen voorkomende gebouwde eigendommen.     
+c.  bossen, natuurterreinen en onroerende zaken die deel uitmaken van een ingevolge de Natuurschoonwet 1928 aangewezen landgoed, met uitzondering van de op deze landgoederen voorkomende gebouwde eigendommen.     
 
 ### Artikel  5  
 
@@ -64,7 +64,7 @@ b.  rechten op ingegane lijfrenten, verkregen krachtens overeenkomst onder bezwa
 
 c.  polissen van levensverzekering, mits ter zake van de verzekering geen koopsom is voldaan en deze polissen niet dienen als basis voor de financiering van de eigen woning;  
 
-d.  een bedrag van € 117.058,00 ten behoeve van aanvullende pensioenvoorzieningen. Rechten op lijfrenten, bedoeld in de onderdelen a of b, alsmede polissen van levensverzekering, bedoeld in onderdeel c, worden op dit bedrag, tot ten hoogste een bedrag van € 117.058,00 in mindering gebracht.     
+d.  een bedrag van € 118.771,00 ten behoeve van aanvullende pensioenvoorzieningen. Rechten op lijfrenten, bedoeld in de onderdelen a of b, alsmede polissen van levensverzekering, bedoeld in onderdeel c, worden op dit bedrag, tot ten hoogste een bedrag van € 118.771,00 in mindering gebracht.     
 2.  Tot de schulden behoren niet premies en bijdragen ter zake van rechten welke ingevolge artikel 4, eerste lid, onderdeel a en b en artikel 5, eerste lid, onderdeel a, b en c niet tot de bezittingen behoren.   
 3.  De Minister van Sociale Zaken en Werkgelegenheid herziet, met ingang van de dag waarop het netto minimumloon zonder de daarin begrepen aanspraak op vakantietoeslag wijzigt, met het percentage van deze wijziging, het bedrag genoemd in het eerste lid, onderdeel d.  
 
@@ -77,14 +77,14 @@ d.  een bedrag van € 117.058,00 ten behoeve van aanvullende pensioenvoorzieni
 
 1.  Tot de schulden wordt mede gerekend de inkomstenbelasting die de gewezen zelfstandige na het begin van het kalenderjaar verschuldigd kan worden ter zake van: 
 
-a.  termijnen van in het vermogen begrepen, niet tot het vermogen van een onderneming behorende rechten die ingevolge de [Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) belastbare periodieke uitkeringen en verstrekkingen opleveren (stamrechten);  
+a.  termijnen van in het vermogen begrepen, niet tot het vermogen van een onderneming behorende rechten die ingevolge de Wet inkomstenbelasting 2001 belastbare periodieke uitkeringen en verstrekkingen opleveren (stamrechten);  
 
-b.  in het vermogen begrepen aandelen, winstbewijzen, bewijzen van deelgerechtigheid en koopopties als bedoeld in [artikel 4.4 van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), die ingevolge die wet tot een aanmerkelijk belang behoren.     
+b.  in het vermogen begrepen aandelen, winstbewijzen, bewijzen van deelgerechtigheid en koopopties als bedoeld in artikel 4.4 van de Wet inkomstenbelasting 2001, die ingevolge die wet tot een aanmerkelijk belang behoren.     
 2.  De in het eerste lid bedoelde belasting wordt gesteld op: 
 
 a.  30% van de waarde van de stamrechten;  
 
-b.  6,25% van de waarde van de aandelen, winstbewijzen, bewijzen van deelgerechtigheid en koopopties voorzover deze de verkrijgingsprijs daarvan in de zin van de [Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) overtreft.     
+b.  6,25% van de waarde van de aandelen, winstbewijzen, bewijzen van deelgerechtigheid en koopopties voorzover deze de verkrijgingsprijs daarvan in de zin van de Wet inkomstenbelasting 2001 overtreft.     
 
 ### Artikel  8  
 

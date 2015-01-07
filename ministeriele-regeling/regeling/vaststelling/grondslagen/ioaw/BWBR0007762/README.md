@@ -8,23 +8,17 @@ Besluit:
 
 ### Artikel  1  
 
-A. De grondslag voor de werkloze werknemer en de echtgenoot die beiden 21 jaar of ouder zijn wordt vastgesteld op: € 1.579,90;  
+A. De grondslag voor de werkloze werknemer en de echtgenoot die beiden 21 jaar of ouder zijn wordt vastgesteld op: € 1.580,34;  
 
-B. De grondslag voor de alleenstaande werkloze werknemer van 21 jaar of ouder met een of meer kinderen wordt vastgesteld op: € 1.519,07;  
+B. De grondslag voor de alleenstaande werkloze werknemer van 23 jaar of ouder wordt vastgesteld op: € 1.222,54;  
 
-C. De grondslag voor de alleenstaande werkloze werknemer van 23 jaar of ouder zonder kinderen wordt vastgesteld op: € 1.216,81;  
+C. De grondslag voor de alleenstaande werkloze werknemer van 22 jaar wordt vastgesteld op: € 962,36;  
 
-D. De grondslag voor de alleenstaande werkloze werknemer van 22 jaar zonder kinderen wordt vastgesteld op: € 959,59;  
+D. De grondslag voor de alleenstaande werkloze werknemer van 21 jaar wordt vastgesteld op: € 808,99;  
 
-E. De grondslag voor de alleenstaande werkloze werknemer van 21 jaar zonder kinderen wordt vastgesteld op: € 808,63;  
+E. De grondslag voor de alleenstaande werkloze werknemer van 18, 19 of 20 jaar wordt vastgesteld op: € 751,94;  
 
-F. De grondslag voor de alleenstaande werkloze werknemer van 18, 19 of 20 jaar met een of meer kinderen wordt vastgesteld op: € 1.449,95;  
-
-G. De grondslag voor de thuisinwonende werkloze werknemer van 18, 19 of 20 jaar met een of meer kinderen wordt vastgesteld op: € 985,75;  
-
-H. De grondslag voor de alleenstaande werkloze werknemer van 18, 19 of 20 jaar zonder kinderen wordt vastgesteld op: € 751,13;  
-
-I. De grondslag voor de thuisinwonende werkloze werknemer zonder kinderen zonder kinderen wordt vastgesteld op: € 359,91.   
+F. De grondslag voor de thuisinwonende werkloze werknemer wordt vastgesteld op: € 363,79.   
 
 ### Artikel  2  
 

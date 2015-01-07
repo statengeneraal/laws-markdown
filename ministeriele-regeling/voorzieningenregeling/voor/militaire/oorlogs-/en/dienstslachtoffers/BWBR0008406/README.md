@@ -211,7 +211,7 @@ b. de financiële tegemoetkoming in de kosten van:
 
 2. de herinrichting van de woning;  
 
-3. de eigen bijdrage voor een woonvoorziening krachtens de Wet maatschappelijke ondersteuning.      
+3. de bijdrage voor een woningaanpassing krachtens de Wet maatschappelijke ondersteuning 2015.     
 
 ### Artikel  9  
 
@@ -293,19 +293,17 @@ Onder voorzieningen ter zake van de kosten van geneeskundige verzorging worden v
 
 a. de financiële vergoeding van de kosten van: 
 
-1. de eigen bijdrage voor de aanschaf van orthopedische schoenen indien sprake is van een eerste verstrekking dan wel van extra slijtage alsmede de ten gevolge van de orthopedische schoenen noodzakelijke steunzolen;  
+1.de eigen bijdrage voor de aanschaf van orthopedische schoenen indien sprake is van een eerste verstrekking dan wel van extra slijtage alsmede de ten gevolge van de orthopedische schoenen noodzakelijke steunzolen;  
 
-2. de eigen bijdrage, bedoeld in 
+2.de eigen bijdrage, bedoeld in de artikelen 3.3.2.1 en 3.3.2.2 van het Besluit langdurige zorg;
 
-artikel 2 van het Bijdragebesluit zorg indien het verblijf in een instelling of verzorgingshuis vanwege het ontbreken van passende woonruimte noodzakelijk is; 
+3.de eigen bijdrage voor de aanschaf van een ringleiding; 
 
-3. de eigen bijdrage voor de aanschaf van een ringleiding; 
+4.de eigen bijdrage voor de aanschaf van een geruismaskeerder; 
 
-4. de eigen bijdrage voor de aanschaf van een geruismaskeerder; 
+5.de eigen bijdrage voor de aanschaf van een koptelefoon; 
 
-5. de eigen bijdrage voor de aanschaf van een koptelefoon; 
-
-6. de eigen bijdrage voor de aanschaf van elastische kousen;  
+6.de eigen bijdrage voor de aanschaf van elastische kousen;  
 
 7. de aanpassing aan een specifiek hulpmiddel dan wel aan een algemeen gebruiksmiddel.   
 

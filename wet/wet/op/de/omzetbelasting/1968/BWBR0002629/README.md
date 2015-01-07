@@ -260,7 +260,13 @@ b. deskundigenonderzoeken en werkzaamheden met betrekking tot roerende lichameli
 
 ### Artikel  6h  
 
-1.  De plaats van elektronische diensten, die worden verricht voor een andere dan ondernemer die in een lidstaat gevestigd is of daar zijn woonplaats of gebruikelijke verblijfplaats heeft, door een ondernemer die de zetel van zijn bedrijfsuitoefening buiten de Unie heeft gevestigd of daar over een vaste inrichting beschikt van waaruit de dienst wordt verricht, of, bij gebreke van een dergelijke zetel of vaste inrichting, zijn woonplaats of gebruikelijke verblijfplaats buiten de Unie heeft, is de plaats waar de andere dan ondernemer gevestigd is of zijn woonplaats of gebruikelijke verblijfplaats heeft.   
+1.  De plaats van dienst van de volgende diensten, die worden verricht voor een andere dan ondernemer, is de plaats waar deze persoon gevestigd is of zijn woonplaats of gebruikelijke verblijfplaats heeft: 
+
+a. telecommunicatiediensten;  
+
+b. radio- en televisieomroepdiensten;  
+
+c. elektronische diensten.     
 2.  Het feit dat de dienstverrichter en de afnemer langs elektronische weg berichten uitwisselen, betekent op zich niet dat de verrichte dienst een elektronische dienst is.  
 
 ### Artikel  6i  
@@ -281,13 +287,7 @@ f. het beschikbaar stellen van personeel;
 
 g. de verhuur van roerende lichamelijke zaken, met uitzondering van alle vervoermiddelen;  
 
-h. het bieden van toegang tot een op het grondgebied van de Unie gesitueerd aardgassysteem of een op een dergelijk systeem aangesloten net, tot warmte- of koudenetten of tot het elektriciteitssysteem, alsmede het verrichten van transmissie- of distributiediensten via deze systemen of netten en het verrichten van andere daarmee rechtstreeks verbonden diensten;  
-
-i. telecommunicatiediensten;  
-
-j. radio- en televisieomroepdiensten;  
-
-k. elektronische diensten.     
+h. het bieden van toegang tot een op het grondgebied van de Unie gesitueerd aardgassysteem of een op een dergelijk systeem aangesloten net, tot warmte- of koudenetten of tot het elektriciteitssysteem, alsmede het verrichten van transmissie- of distributiediensten via deze systemen of netten en het verrichten van andere daarmee rechtstreeks verbonden diensten.     
 2.  Het feit dat de dienstverrichter en de afnemer langs elektronische weg berichten uitwisselen, betekent op zich niet dat de verrichte dienst een elektronische dienst is.  
 
 ### Paragraaf  3  
@@ -300,9 +300,7 @@ De hierna genoemde diensten die worden verricht door ondernemers die buiten de U
 
 a. diensten, bestaande in de verhuur van vervoermiddelen, die worden verricht voor andere dan ondernemers die in Nederland wonen of zijn gevestigd dan wel aldaar een vaste inrichting hebben waarvoor de diensten worden verricht;  
 
-b. diensten als bedoeld in artikel 6i, eerste lid, onderdelen a tot en met g, die worden verricht voor in Nederland gevestigde lichamen in de zin van de Algemene wet inzake rijksbelastingen, andere dan ondernemers;  
-
-c. diensten als bedoeld in artikel 6i, eerste lid, onderdelen i en j, die worden verricht voor andere dan ondernemers die in Nederland gevestigd zijn of er hun woonplaats of gebruikelijke verblijfplaats hebben.   
+b. diensten als bedoeld in artikel 6i, eerste lid, onderdelen a tot en met g, die worden verricht voor in Nederland gevestigde lichamen in de zin van de Algemene wet inzake rijksbelastingen, andere dan ondernemers.   
 
 ###Afdeling 1c 
 
@@ -412,13 +410,15 @@ a. de diensten op het vlak van de gezondheidskundige verzorging van de mens door
 
 b. diensten die door tandtechnici als zodanig worden verricht; de leveringen van tandprothesen door tandartsen en tandtechnici; het vervoer van zieken of gewonden met ambulance-automobielen;    
 
-2°. de diensten, bedoeld in artikel 2, eerste lid, onderdelen a tot en met e, van het Besluit zorgaanspraken AWBZ, verleend aan personen ten behoeve van wie in een indicatiebesluit op grond van de Algemene Wet Bijzondere Ziektekosten is vastgelegd dat ze op de in die onderdelen bedoelde zorg zijn aangewezen, alsmede huishoudelijke verzorging, bedoeld in de Wet maatschappelijke ondersteuning, verleend aan personen ten behoeve van wie ingevolge die wet vaststaat dat ze op die verzorging zijn aangewezen. Tot de in de vorige volzin bedoelde diensten behoren niet de bij ministeriële regeling in verband met het voorkomen van een ernstige verstoring van concurrentieverhoudingen aan te wijzen diensten;  
+2°. de verblijfszorg, bedoeld in artikel 3.1.1, eerste lid, onder a, en de zorg, bedoeld in artikel 3.1.1, eerste lid, onder b en c, van de Wet langdurige zorg, alsmede huishoudelijke hulp, voor zover die zorg niet gepaard gaat met verblijf in een instelling en plaatsvindt aan personen ten behoeve van wie in een indicatiebesluit op grond van de Wet langdurige zorg is vastgesteld dat ze op de in die onderdelen bedoelde zorg zijn aangewezen, met dien verstande dat tot de bedoelde diensten niet behoren de bij ministeriële regeling in verband met het voorkomen van een ernstige verstoring van concurrentieverhoudingen aan te wijzen diensten;  
 
-3°. de diensten door ondernemers bestaande in het verlenen van dagbesteding, arbeidstraining of dagopvang aan: 
+3°. de bij algemene maatregel van bestuur aan te wijzen diensten die deel uitmaken van een voorziening ter ondersteuning van de zelfredzaamheid en participatie van personen met een beperking of met chronische psychische of psychosociale problemen als bedoeld in de Wet maatschappelijke ondersteuning 2015, verleend aan personen van wie vaststaat dat zij ingevolge die wet op die diensten zijn aangewezen; 
 
-a. personen voor wie zij daartoe een schriftelijke overeenkomst hebben gesloten met een instelling als bedoeld in artikel 1, eerste lid, onderdeel e, van de Algemene Wet Bijzondere Ziektekosten of met een instelling die werkzaam is op het terrein van sociaal en maatschappelijk werk;  
+4°. de diensten door ondernemers bestaande in het verlenen van dagbesteding, arbeidstraining of dagopvang aan: 
 
-b. personen met wie zij daartoe een schriftelijke overeenkomst hebben gesloten en die beschikken over een persoonsgebonden budget met het oog op het geldend maken van hun aanspraken ingevolge de onder a genoemde wet;      
+a. personen voor wie zij daartoe een schriftelijke overeenkomst hebben gesloten met een instelling als bedoeld in artikel 1.1.1 van de Wet langdurige zorg of met een aanbieder als bedoeld in artikel 1.1.1 van de Wet maatschappelijke ondersteuning 2015;  
+
+b. personen met wie zij daartoe een schriftelijke overeenkomst hebben gesloten en die beschikken over een persoonsgebonden budget met het oog op het geldend maken van hun aanspraken ingevolge de onder a genoemde wetten;      
 
 h. de diensten door lijkbezorgers;  
 
@@ -539,11 +539,9 @@ c. de belasting welke in het tijdvak van aangifte is verschuldigd geworden:
 
 2°. op grond van artikel 12, tweede tot en met vijfde lid, ter zake van aan de ondernemer verrichte leveringen en verleende diensten;  
 
-3°.ter zake van het door de ondernemer bestemmen van goederen voor bedrijfsdoeleinden; 
+3°.ter zake van verrichtingen als bedoeld in artikel 4, derde lid;
 
-4°.ter zake van verrichtingen als bedoeld in artikel 4, derde lid;
-
-5°.ter zake van handelingen en situaties als bedoeld in artikel 17a, derde en vierde lid;   
+4°.ter zake van handelingen en situaties als bedoeld in artikel 17a, derde en vierde lid;   
 
 d. de belasting die is begrepen in de aankoopprijs van een nieuw vervoermiddel dat met toepassing van onderdeel *a*, post 6, van de bij deze wet behorende tabel II, wordt geleverd door:  
 
@@ -615,7 +613,7 @@ b. de afnemer heeft voldaan aan het bepaalde in artikel 37a.
 1.  De belasting wordt berekend over de vergoeding.   
 2.   Met betrekking tot intracommunautaire verwervingen waarbij de ondernemer die de goederen levert verplicht is ter zake van die levering een factuur uit te reiken is artikel 8, tweede, vijfde en zesde lid, van overeenkomstige toepassing.   
 3. Met betrekking tot hetgeen op de voet van artikel 17a, derde en vierde lid, wordt gelijkgesteld met een intracommunautaire verwerving van goederen onder bezwarende titel als bedoeld in artikel 1, onderdeel b, is artikel 8, derde en zesde lid, van overeenkomstige toepassing. 
-4.   In afwijking van het eerste lid wordt met betrekking tot de intracommunautaire verwervingen van accijnsgoederen, andere dan tabaksprodukten, waarbij de voor die goederen in Nederland verschuldigde of voldane accijns niet in de vergoeding is begrepen, de belasting berekend over de vergoeding vermeerderd met die voor de goederen verschuldigde of voldane accijns.   
+4.   In afwijking van het eerste lid wordt met betrekking tot de intracommunautaire verwervingen van accijnsgoederen waarbij de voor die goederen in Nederland verschuldigde of voldane accijns niet in de vergoeding is begrepen, de belasting berekend over de vergoeding vermeerderd met die voor de goederen verschuldigde of voldane accijns.   
 5.   Het vierde lid is van overeenkomstige toepassing met betrekking tot de intracommunautaire verwervingen van alcoholvrije dranken als bedoeld in artikel 6 van de Wet op de verbruiksbelasting van alcoholvrije dranken, waarbij de voor die goederen in Nederland op de voet van die wet verschuldigde of voldane belasting niet in de vergoeding is begrepen.  
 
 ### Artikel  17d  
@@ -1004,7 +1002,7 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld inzake de toepass
 
 ### Afdeling  7  
 
-####Regeling voor niet in de Unie gevestigde ondernemers die elektronische diensten verrichten aan andere dan ondernemers
+####Regeling voor niet in de Unie gevestigde ondernemers die telecommunicatie diensten, omroepdiensten of elektronische diensten verrichten voor andere dan ondernemers
 
 ### Artikel  28q  
 
@@ -1014,14 +1012,14 @@ a. niet in de Unie gevestigde ondernemers: ondernemers die niet in de Unie wonen
 
 b. lidstaat van identificatie: de lidstaat waar de niet in de Unie gevestigde ondernemer zich identificeert teneinde een nummer van registratie te verkrijgen vanwege het begin van zijn activiteit als ondernemer op het grondgebied van de Unie overeenkomstig deze afdeling; 
 
-c. lidstaat van verbruik: de lidstaat waar overeenkomstig artikel 6h elektronische diensten worden verricht; 
+c. lidstaat van verbruik: de lidstaat waar overeenkomstig artikel 6h telecommunicatiediensten, omroepdiensten of elektronische diensten worden verricht; 
 
-d. melding elektronische diensten: het elektronische bericht waarin alle gegevens staan die nodig zijn om het bedrag te bepalen van de in elke lidstaat van verbruik verschuldigde belasting ter zake van elektronische diensten welke zijn verricht aan anderen dan ondernemers die in de Unie wonen of zijn gevestigd.  
+d. melding telecommunicatiediensten, omroepdiensten of elektronische diensten: het elektronische bericht waarin alle gegevens staan die nodig zijn om het bedrag te bepalen van de in elke lidstaat van verbruik verschuldigde belasting ter zake van telecommunicatiediensten, omroepdiensten of elektronische diensten die zijn verricht aan andere dan ondernemers die in de Unie wonen of zijn gevestigd alsmede het bedrag van die belasting.  
 
 ### Artikel  28r  
 
-1.   Een niet in de Unie gevestigde ondernemer die elektronische diensten verricht aan anderen dan ondernemers die in de Unie wonen of zijn gevestigd, kan ten aanzien van de heffing van belasting kiezen voor Nederland als lidstaat van identificatie.   
-2.  Ingeval de niet in de Unie gevestigde ondernemer kiest voor Nederland als lidstaat van identificatie, dient hij onverwijld opgave te doen van het begin of de beëindiging van het verrichten van elektronische diensten, alsook van wijziging van deze activiteit in die zin dat de in deze afdeling opgenomen regeling niet langer van toepassing is.   
+1.   Een niet in de Unie gevestigde ondernemer die telecommunicatiediensten, omroepdiensten of elektronische diensten verricht aan anderen dan ondernemers die in de Unie wonen of zijn gevestigd, kan ten aanzien van de heffing van belasting kiezen voor Nederland als lidstaat van identificatie.   
+2.  Ingeval de niet in de Unie gevestigde ondernemer kiest voor Nederland als lidstaat van identificatie, dient hij onverwijld opgave te doen van het begin of de beëindiging van het verrichten van telecommunicatiediensten, omroepdiensten of elektronische diensten, alsook van wijziging van deze activiteit in die zin dat de in deze afdeling opgenomen regeling niet langer van toepassing is.   
 3.  De in het tweede lid bedoelde opgave vindt langs elektronische weg bij de inspecteur plaats en bevat de volgende gegevens: 
 
 a.naam, postadres en elektronische adressen, met inbegrip van websites, van de ondernemer;
@@ -1033,37 +1031,77 @@ c.een verklaring dat de ondernemer niet reeds in de Unie is geïdentificeerd voo
 
 ### Artikel  28s  
 
-1.  In afwijking van artikel 14 is de niet in de Unie gevestigde ondernemer die met toepassing van artikel 28r voor Nederland heeft gekozen als lidstaat van identificatie, gehouden met betrekking tot de in een tijdvak verschuldigd geworden belasting een melding elektronische diensten bij de inspecteur in te dienen, onder vermelding van het hem toegekende nummer van registratie en onder gelijktijdige betaling in euro van de verschuldigde belasting aan de ontvanger, overeenkomstig de bepalingen van dit artikel.   
-2.  Het in het eerste lid bedoelde tijdvak is een kalenderkwartaal. De melding elektronische diensten dient ook te worden ingediend indien in een tijdvak geen elektronische diensten zijn verricht.   
-3.  De in het eerste lid bedoelde melding elektronische diensten vindt plaats langs elektronische weg en bevat ten aanzien van elke lidstaat van verbruik waar belasting is verschuldigd, het totale bedrag dat ter zake van de elektronische diensten in rekening is gebracht, de omzetbelasting niet daaronder begrepen, alsmede het totale bedrag van de daarover verschuldigde belasting. Voorts worden de in de desbetreffende lidstaten geldende belastingtarieven en het totale verschuldigde bedrag aan belasting vermeld.   
-4.  De in het eerste lid bedoelde melding elektronische diensten wordt gedaan uiterlijk 20 dagen na het einde van het tijdvak waarop die melding betrekking heeft.   
-5.  Indien de belasting die verschuldigd is over in Nederland verrichte elektronische diensten, ongeacht de keuze van lidstaat van identificatie, geheel of gedeeltelijk niet is betaald, kan de inspecteur met overeenkomstige toepassing van artikel 20 van de Algemene wet inzake rijksbelastingen de te weinig geheven belasting naheffen. De artikelen 30h, 30ha, 67c en 67f van de Algemene wet inzake rijksbelastingen zijn van overeenkomstige toepassing.   
-6.  In afwijking van artikel 2 vindt geen aftrek van belasting plaats, maar wordt teruggaaf van belasting verleend overeenkomstig de Dertiende Richtlijn 86/560/EEG van de Raad van 17 november 1986 betreffende de harmonisatie van de wetgevingen der Lid-Staten inzake omzetbelasting – Regeling voor de teruggaaf van de belasting over de toegevoegde waarde aan niet op het grondgebied van de Gemeenschap gevestigde belastingplichtigen (PbEG 1986, L 326). Artikel 2, tweede en derde lid, en artikel 4, tweede lid, van deze Richtlijn zijn niet van toepassing op een verzoek om teruggaaf van belasting dat verband houdt met elektronische diensten waarop de in deze afdeling opgenomen regeling van toepassing is.   
-7.  De bedragen in de melding elektronische diensten worden uitgedrukt in eurobedragen. Indien de vergoeding voor elektronische diensten is uitgedrukt in een andere munteenheid dan de euro wordt, in afwijking van artikel 8, zesde lid, voor de bepaling van de in het derde lid genoemde bedragen de wisselkoers gehanteerd die gold op de laatste dag van de periode waarop de melding elektronische diensten betrekking heeft. De omrekening vindt plaats volgens de wisselkoersen die de Europese Centrale Bank voor de desbetreffende dag bekend heeft gemaakt of, als er op de desbetreffende dag geen bekendmaking heeft plaatsgevonden, volgens de wisselkoersen op de eerstvolgende dag van bekendmaking.   
+1.  In afwijking van artikel 14 is de niet in de Unie gevestigde ondernemer die met toepassing van artikel 28r voor Nederland heeft gekozen als lidstaat van identificatie, gehouden met betrekking tot de in een tijdvak verschuldigd geworden belasting een melding telecommunicatiediensten, omroepdiensten of elektronische diensten bij de inspecteur in te dienen, onder vermelding van het hem toegekende nummer van registratie.   
+2.  Het in het eerste lid bedoelde tijdvak is een kalenderkwartaal. De melding telecommunicatiediensten, omroepdiensten of elektronische diensten dient ook te worden ingediend indien in een tijdvak geen telecommunicatiediensten, omroepdiensten of elektronische diensten zijn verricht.   
+3.  De in het eerste lid bedoelde melding telecommunicatiediensten, omroepdiensten of elektronische diensten vindt plaats langs elektronische weg en bevat ten aanzien van elke lidstaat van verbruik waar belasting is verschuldigd, het totale bedrag dat ter zake van de telecommunicatiediensten, omroepdiensten of elektronische diensten in rekening is gebracht, de omzetbelasting niet daaronder begrepen, alsmede het totale bedrag van de daarover verschuldigde belasting. Voorts worden de in de desbetreffende lidstaten geldende belastingtarieven en het totale verschuldigde bedrag aan belasting vermeld.   
+4.  De in het eerste lid bedoelde melding telecommunicatiediensten, omroepdiensten of elektronische diensten wordt gedaan uiterlijk 20 dagen na het einde van het tijdvak waarop die melding betrekking heeft. De ingevolge de melding verschuldigde belasting wordt uiterlijk 20 dagen na het einde van het tijdvak waarop de melding betrekking heeft in euro betaald aan de ontvanger.   
+5.  Indien de belasting die verschuldigd is over in Nederland verrichte telecommunicatiediensten, omroepdiensten of elektronische diensten, ongeacht de keuze van lidstaat van identificatie, geheel of gedeeltelijk niet is betaald, kan de inspecteur met overeenkomstige toepassing van artikel 20 van de Algemene wet inzake rijksbelastingen de te weinig geheven belasting naheffen. De artikelen 30h, 30ha, 67c en 67f van de Algemene wet inzake rijksbelastingen zijn van overeenkomstige toepassing.   
+6.  In afwijking van artikel 2 vindt geen aftrek van belasting plaats, maar wordt teruggaaf van belasting verleend overeenkomstig de Dertiende Richtlijn 86/560/EEG van de Raad van 17 november 1986 betreffende de harmonisatie van de wetgevingen der Lid-Staten inzake omzetbelasting – Regeling voor de teruggaaf van de belasting over de toegevoegde waarde aan niet op het grondgebied van de Gemeenschap gevestigde belastingplichtigen (PbEG 1986, L 326). Artikel 2, tweede en derde lid, en artikel 4, tweede lid, van deze Richtlijn zijn niet van toepassing op een verzoek om teruggaaf van belasting dat verband houdt met telecommunicatiediensten, omroepdiensten of elektronische diensten waarop de in deze afdeling opgenomen regeling van toepassing is.   
+7.  De bedragen in de melding telecommunicatiediensten, omroepdiensten of elektronische diensten worden uitgedrukt in eurobedragen. Indien de vergoeding voor telecommunicatiediensten, omroepdiensten of elektronische diensten is uitgedrukt in een andere munteenheid dan de euro wordt, in afwijking van artikel 8, zesde lid, voor de bepaling van de in het derde lid genoemde bedragen de wisselkoers gehanteerd die gold op de laatste dag van de periode waarop de melding betrekking heeft. De omrekening vindt plaats volgens de wisselkoersen die de Europese Centrale Bank voor de desbetreffende dag bekend heeft gemaakt of, als er op de desbetreffende dag geen bekendmaking heeft plaatsgevonden, volgens de wisselkoersen op de eerstvolgende dag van bekendmaking.   
 8.  Hoofdstuk V van de Algemene wet inzake rijksbelastingen is van overeenkomstige toepassing als ware de betaalde belasting op aangifte voldaan.  
 
 ### Artikel  28t  
 
-1.  In afwijking van artikel 52 van de Algemene wet inzake rijksbelastingen is een niet in de Unie gevestigde ondernemer die elektronische diensten verricht aan anderen dan ondernemers die in de Unie wonen of zijn gevestigd, gehouden aantekening te houden van alle handelingen die betrekking hebben op elektronische diensten en waarvan de raadpleging van belang kan zijn voor de vaststelling van feiten welke van invloed kunnen zijn op de heffing van belasting in Nederland en in andere lidstaten van verbruik.   
-2.  De in het eerste lid bedoelde ondernemer is verplicht boeken, bescheiden en andere gegevensdragers of de inhoud daarvan – zulks ter keuze van de inspecteur – betreffende elektronische diensten te bewaren gedurende tien jaren na afloop van het jaar waarin de dienst is verricht.   
+1.  In afwijking van artikel 52 van de Algemene wet inzake rijksbelastingen is een niet in de Unie gevestigde ondernemer die telecommunicatiediensten, omroepdiensten of elektronische diensten verricht aan anderen dan ondernemers die in de Unie wonen of zijn gevestigd, gehouden aantekening te houden van alle handelingen die betrekking hebben op elektronische diensten en waarvan de raadpleging van belang kan zijn voor de vaststelling van feiten welke van invloed kunnen zijn op de heffing van belasting in Nederland en in andere lidstaten van verbruik.   
+2.  De in het eerste lid bedoelde ondernemer is verplicht boeken, bescheiden en andere gegevensdragers of de inhoud daarvan – zulks ter keuze van de inspecteur – betreffende telecommunicatiediensten, omroepdiensten of elektronische diensten te bewaren gedurende tien jaren na afloop van het jaar waarin de dienst is verricht.   
 3.  Desgevraagd dienen de boeken, bescheiden en andere gegevensdragers of de inhoud daarvan langs elektronische weg ter beschikking te worden gesteld aan de inspecteur, aan de ontvanger, of aan de belastingautoriteit van een andere lidstaat van verbruik.  
 
 ###Afdeling  8  
 
-####Regeling voor vis
+####Regeling voor niet in de lidstaat van verbruik gevestigde ondernemers die telecommunicatie diensten, omroepdiensten of elektronische diensten verrichten voor andere dan ondernemers
 
-###Artikel  28u 
+### Artikel  28u  
 
-De belasting, verschuldigd ter zake van de invoer en de levering aan veilingen van vis, schaal-, schelp- en weekdieren die worden aangebracht per schip dat terugkeert van de visvangst, of per ventjager, bedraagt nihil.
+1.  In deze afdeling en de daarop berustende bepalingen wordt verstaan onder: 
+
+a. lidstaat van verbruik: de lidstaat waar overeenkomstig artikel 6h telecommunicatiediensten, omroepdiensten of elektronische diensten worden verricht;  
+
+b. niet in de lidstaat van verbruik gevestigde ondernemers: ondernemers die de zetel van hun bedrijfsuitoefening of een vaste inrichting op het grondgebied van de Unie hebben gevestigd, maar in de lidstaat van verbruik noch de zetel van hun bedrijfsuitoefening, noch een vaste inrichting hebben;  
+
+c. lidstaat van identificatie: de lidstaat waar de ondernemer de zetel van zijn bedrijfsuitoefening heeft gevestigd, of, indien hij de zetel van zijn bedrijfsuitoefening niet in de Unie heeft gevestigd, de lidstaat waar hij een vaste inrichting heeft;  
+
+d. btw-melding telecommunicatiediensten, omroepdiensten of elektronische diensten: het elektronische bericht waarin alle gegevens staan die nodig zijn om het bedrag te bepalen van de in elke lidstaat van verbruik verschuldigde belasting ter zake van telecommunicatiediensten, omroepdiensten of elektronische diensten die door niet in de lidstaat van verbruik gevestigde ondernemers zijn verricht aan andere dan ondernemers die in de Unie wonen of zijn gevestigd.     
+2.  Indien de ondernemer niet in de Unie is gevestigd, maar daarin meer dan één vaste inrichting heeft, dan is de lidstaat van identificatie de lidstaat waar zich een vaste inrichting bevindt, waarin die ondernemer meldt dat hij van deze regeling gebruik maakt. De ondernemer is gedurende het betreffende kalenderjaar en de twee daaropvolgende kalenderjaren aan deze keuze gebonden.  
+
+### Artikel  28v  
+
+1.  Een niet in de lidstaat van verbruik maar in Nederland gevestigde ondernemer die telecommunicatiediensten, omroepdiensten of elektronische diensten verricht aan andere dan ondernemers die in een lidstaat gevestigd zijn of er hun woonplaats of gebruikelijke verblijfplaats hebben, kan gebruik maken van deze regeling. Deze regeling is van toepassing op alle aldus in de Unie verrichte diensten.   
+2.  Ingeval de niet in de lidstaat van verbruik maar in Nederland gevestigde ondernemer kiest voor deze regeling, dient hij onverwijld opgave te doen van het begin of de beëindiging van het verrichten van telecommunicatiediensten, omroepdiensten of elektronische diensten, alsook van wijziging ervan in die mate dat hij niet langer aan de voorwaarden voldoet om van deze regeling gebruik te mogen maken.   
+3.  De in het tweede lid bedoelde opgave vindt langs elektronische weg bij de inspecteur plaats.   
+4.  De niet in de lidstaat van verbruik maar in Nederland gevestigde ondernemer wordt van deze regeling uitgesloten in elk van de volgende gevallen: 
+
+a. hij meldt dat hij niet langer telecommunicatiediensten, omroepdiensten of elektronische diensten verricht;  
+
+b. anderszins kan worden aangenomen dat zijn aan deze regeling onderworpen belastbare activiteiten beëindigd zijn;  
+
+c. hij vervult niet langer de voorwaarden om van de regeling gebruik te mogen maken;  
+
+d. hij voldoet bij voortduring niet aan de voorschriften van de bijzondere regeling.     
+5.  De in het vierde lid bedoelde uitsluiting van deze regeling geschiedt bij voor bezwaar vatbare beschikking.  
+
+### Artikel  28w  
+
+1.  In afwijking van artikel 14 is de niet in de lidstaat van verbruik maar in Nederland gevestigde ondernemer, die met toepassing van artikel 28v heeft gekozen voor deze regeling, gehouden een btw-melding telecommunicatiediensten, omroepdiensten of elektronische diensten bij de inspecteur in te dienen, onder vermelding van het hem toegekende btw-identificatienummer.   
+2.  Het in het eerste lid bedoelde tijdvak is een kalenderkwartaal. De btw-melding telecommunicatiediensten, omroepdiensten of elektronische diensten dient ook te worden ingediend indien in een tijdvak geen telecommunicatiediensten, omroepdiensten of elektronische diensten zijn verricht.   
+3.  De in het eerste lid bedoelde btw-melding telecommunicatiediensten, omroepdiensten of elektronische diensten vindt plaats langs elektronische weg en bevat ten aanzien van elke lidstaat van verbruik waar belasting is verschuldigd, het totale bedrag dat ter zake van telecommunicatiediensten, omroepdiensten of elektronische diensten in rekening is gebracht, de omzetbelasting niet daaronder begrepen, alsmede het totale bedrag van de daarover verschuldigde belasting. Voorts worden de in de desbetreffende lidstaten geldende belastingtarieven en het totale verschuldigde bedrag aan belasting vermeld.   
+4.  Indien de niet in de lidstaat van verbruik maar in Nederland gevestigde ondernemer behalve in Nederland in een andere lidstaat een of meer vaste inrichtingen heeft van waaruit de diensten worden verricht, bevat de btw-melding telecommunicatiediensten, omroepdiensten of elektronische diensten, per lidstaat waar hij een vaste inrichting heeft gevestigd en uitgesplitst naar lidstaat van verbruik, naast de in het derde lid bedoelde gegevens, tevens het totale bedrag van de gedurende het belastingtijdvak verrichte telecommunicatiediensten, omroepdiensten of elektronische diensten die onder deze regeling vallen, alsmede het hem toegekende btw-identificatienummer of het fiscaal registratienummer van de vaste inrichting.   
+5.  De in het eerste lid bedoelde btw-melding telecommunicatiediensten, omroepdiensten of elektronische diensten wordt gedaan uiterlijk 20 dagen na het einde van het tijdvak waarop die melding betrekking heeft. De ingevolge de btw-melding verschuldigde belasting wordt uiterlijk 20 dagen na het einde van het tijdvak waarop de melding betrekking heeft in euro betaald aan de ontvanger.   
+6.  Indien de belasting die verschuldigd is over in Nederland verrichte telecommunicatiediensten, omroepdiensten of elektronische diensten, ongeacht de keuze van lidstaat van identificatie, geheel of gedeeltelijk niet is betaald, kan de inspecteur met overeenkomstige toepassing van artikel 20 van de Algemene wet inzake rijksbelastingen de te weinig geheven belasting naheffen. De artikelen 30h, 30ha, 67c en 67f van de Algemene wet inzake rijksbelastingen zijn van overeenkomstige toepassing.   
+7.  De niet in de lidstaat van verbruik maar in Nederland gevestigde ondernemer die van deze regeling gebruik maakt, past met betrekking tot de voorbelasting die verband houdt met aan deze regeling onderworpen activiteiten geen aftrek van belasting uit hoofde van artikel 2 toe. Niettegenstaande artikel 2, lid 1, en artikel 3 van Richtlijn 2008/9/EG van de Raad van 12 februari 2008 tot vaststelling van nadere voorschriften voor de in Richtlijn 2006/112/EG vastgestelde teruggaaf van de belasting over de toegevoegde waarde aan belastingplichtigen die niet in de lidstaat van teruggaaf maar in een andere lidstaat gevestigd zijn (PbEU 2008, L 44) kan deze ondernemer daarvoor teruggaaf worden verleend overeenkomstig die richtlijn. Indien de niet in de lidstaat van verbruik gevestigde ondernemer die van deze bijzondere regeling gebruik maakt, in de lidstaat van verbruik ook niet aan deze regeling onderworpen activiteiten verricht waarvoor hij voor btw-doeleinden geïdentificeerd moet zijn, kan hij de voorbelasting die verband houdt met de aan deze bijzondere regeling onderworpen activiteiten bij de indiening van de in artikel 14 bedoelde aangifte in aftrek brengen.   
+8.  De bedragen in de btw-melding telecommunicatiediensten, omroepdiensten of elektronische diensten worden uitgedrukt in eurobedragen. Indien de vergoeding voor telecommunicatiediensten, omroepdiensten of elektronische diensten is uitgedrukt in een andere munteenheid dan de euro wordt, in afwijking van artikel 8, zesde lid, voor de bepaling van de in het derde lid en vierde lid genoemde bedragen de wisselkoers gehanteerd die gold op de laatste dag van de periode waarop de btw-melding telecommunicatiediensten, omroepdiensten of elektronische diensten betrekking heeft. De omrekening vindt plaats volgens de wisselkoersen die de Europese Centrale Bank voor de desbetreffende dag bekend heeft gemaakt of, als er op de desbetreffende dag geen bekendmaking heeft plaatsgevonden, volgens de wisselkoersen op de eerstvolgende dag van bekendmaking.   
+9.  Hoofdstuk V van de Algemene wet inzake rijksbelastingen is van overeenkomstige toepassing als ware de betaalde belasting op aangifte voldaan.  
+
+### Artikel  28x  
+
+1.  Een niet in de lidstaat van verbruik gevestigde ondernemer die telecommunicatiediensten, omroepdiensten of elektronische diensten verricht aan anderen dan ondernemers die in de Unie wonen of zijn gevestigd, is gehouden aantekening te houden van alle handelingen die betrekking hebben op telecommunicatiediensten, omroepdiensten of elektronische diensten en waarvan de raadpleging van belang kan zijn voor de vaststelling van feiten die van invloed kunnen zijn op de heffing van belasting in Nederland en in andere lidstaten van verbruik.   
+2.  De in het eerste lid bedoelde ondernemer is verplicht boeken, bescheiden en andere gegevensdragers of de inhoud daarvan – zulks ter keuze van de inspecteur – betreffende telecommunicatiediensten, omroepdiensten of elektronische diensten te bewaren gedurende tien jaren na afloop van het jaar waarin de dienst is verricht.   
+3.  Desgevraagd dienen de boeken, bescheiden en andere gegevensdragers of de inhoud daarvan langs elektronische weg ter beschikking te worden gesteld aan de inspecteur, aan de ontvanger, of aan de belastingautoriteit van een andere lidstaat van verbruik.  
 
 ### Afdeling  9  
 
 ####Regeling voor vis
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  28y  
-Treedt in werking per 01-01-2015 
 
 De belasting, verschuldigd ter zake van de invoer en de levering aan veilingen van vis, schaal-, schelp- en weekdieren die worden aangebracht per schip dat terugkeert van de visvangst, of per ventjager, bedraagt nihil. 
 
@@ -1226,8 +1264,8 @@ b. handelingen, waarvan de afnemer overeenkomstig artikel 12, tweede tot en met 
 ### Artikel  32f  
 
 1.  Een niet in Nederland gevestigde ondernemer die in Nederland teruggaaf van de belasting wenst te verkrijgen, richt langs elektronische weg een teruggaafverzoek tot Nederland, dat hij indient bij zijn lidstaat van vestiging, via de door deze lidstaat ingestelde portaalsite.   
-2.  Het verzoek bevat alle informatie die daartoe bij ministeriële regeling is voorgeschreven overeenkomstig het bepaalde in de artikelen 8 en 9, lid 1, van Richtlijn 2008/9/EG.   
-3.  Bij ministeriële regeling kan worden bepaald dat de aanvrager langs elektronische weg aanvullende gegevens verstrekt met betrekking tot iedere in artikel 9, lid 1, van Richtlijn 2008/9/EG vermelde code, voor zover die gegevens noodzakelijk zijn wegens in Nederland geldende beperkingen van het recht op aftrek of voor de toepassing van een krachtens artikel 395 of 396 van BTW-richtlijn 2006 aan Nederland verleende, voor dit geval relevante afwijking.   
+2.  Het verzoek bevat alle informatie die daartoe bij ministeriële regeling is voorgeschreven overeenkomstig het bepaalde in de artikelen 8 en 9, lid 1, van Richtlijn 2008/9/EG van de Raad van 12 februari 2008 tot vaststelling van nadere voorschriften voor de in Richtlijn 2006/112/EG vastgestelde teruggaaf van de belasting over de toegevoegde waarde aan belastingplichtigen die niet in de lidstaat van teruggaaf maar in een andere lidstaat gevestigd zijn (PbEU 2008, L 44).   
+3.  Bij ministeriële regeling kan worden bepaald dat de aanvrager langs elektronische weg aanvullende gegevens verstrekt met betrekking tot iedere in artikel 9, lid 1, van Richtlijn 2008/9/EG, genoemd in het tweede lid, vermelde code, voor zover die gegevens noodzakelijk zijn wegens in Nederland geldende beperkingen van het recht op aftrek of voor de toepassing van een krachtens artikel 395 of 396 van BTW-richtlijn 2006 aan Nederland verleende, voor dit geval relevante afwijking.   
 4.  Artikel 57 van de Algemene wet inzake rijksbelastingen is niet van toepassing met betrekking tot ondernemers die een verzoek doen als bedoeld in het eerste lid.  
 
 ### Artikel  32g  
@@ -1645,7 +1683,7 @@ b. andere in het kader van de wet passende nadere regels worden gesteld ter aanv
 
 ### Artikel  40  
 
-1.  Indien de ondernemer de in artikel 28s, eerste lid, bedoelde melding elektronische diensten of de in artikel 37a bedoelde lijst niet of niet tijdig heeft ingediend, dan wel een onvolledige of een onjuiste lijst of melding elektronische diensten heeft ingediend, vormt dat een verzuim ter zake waarvan de inspecteur hem een bestuurlijke boete van ten hoogste € 4920 kan opleggen.   
+1.  Indien de ondernemer de in artikel 28s, eerste lid, bedoelde melding elektronische diensten of de in artikel 37a bedoelde lijst niet of niet tijdig heeft ingediend, dan wel een onvolledige of een onjuiste lijst of melding elektronische diensten heeft ingediend, vormt dat een verzuim ter zake waarvan de inspecteur hem een bestuurlijke boete van ten hoogste € 5.278 kan opleggen.   
 2.  De bevoegdheid tot het opleggen van de in het eerste lid bedoelde boete vervalt, in afwijking van artikel 5:45, tweede lid, van de Algemene wet bestuursrecht, door het verloop van vijf jaren na het einde van het kalenderjaar waarin de in artikel 28s, eerste lid, of artikel 37a, eerste lid, genoemde verplichting is ontstaan.   
 3.  Artikel 67cb van de Algemene wet inzake rijksbelastingen is van overeenkomstige toepassing op het bedrag van de boete, genoemd in het eerste lid. 
 

@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de bestaande rijksmuseale diensten te verzelfstandigen in de vorm van een stichting en een machtiging tot oprichting daarvan als bedoeld in [artikel 29 van de Comptabiliteitswet](../../../../../../wet/comptabiliteitswet/BWBR0003075/README.md) te verstrekken;
+Alzo Wij in overweging genomen hebben, dat het wenselijk is de bestaande rijksmuseale diensten te verzelfstandigen in de vorm van een stichting en een machtiging tot oprichting daarvan als bedoeld in artikel 29 van de Comptabiliteitswet te verstrekken;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  1  
@@ -49,7 +49,7 @@ Onze Minister is belast met het privaatrechtelijk beheer van de museale verzamel
 
 ### Artikel  6  
 
-1.  Met ingang van de overgangsdatum verkrijgt een personeelslid met wie een arbeidsovereenkomst als bedoeld in artikel 5, eerste lid, is gesloten, ter zake van de ouderdoms- en nabestaandenpensioenvoorziening aanspraken jegens een door de stichting aan te wijzen instelling als bedoeld in [artikel 1, eerste lid, van de Pensioen- en spaarfondsenwet](../../../../../../wet/pensioen-/en/spaarfondsenwet/BWBR0002089/README.md) (*Stb*. 1952, 275) die gelijkwaardig zijn aan die welke het personeelslid op de laatste dag van de kalendermaand voorafgaande aan de overgangsdatum heeft jegens het Algemeen burgerlijk pensioenfonds krachtens de Algemene burgerlijke pensioenwet (*Stb*. 1986, 540) en neemt de aangewezen instelling de daarmee verband houdende verplichtingen op zich.   
+1.  Met ingang van de overgangsdatum verkrijgt een personeelslid met wie een arbeidsovereenkomst als bedoeld in artikel 5, eerste lid, is gesloten, ter zake van de ouderdoms- en nabestaandenpensioenvoorziening aanspraken jegens een door de stichting aan te wijzen instelling als bedoeld in artikel 1, eerste lid, van de Pensioen- en spaarfondsenwet (*Stb*. 1952, 275) die gelijkwaardig zijn aan die welke het personeelslid op de laatste dag van de kalendermaand voorafgaande aan de overgangsdatum heeft jegens het Algemeen burgerlijk pensioenfonds krachtens de Algemene burgerlijke pensioenwet (*Stb*. 1986, 540) en neemt de aangewezen instelling de daarmee verband houdende verplichtingen op zich.   
 2.   De in het eerste lid bedoelde instelling wordt door de stichting op de overgangsdatum aangewezen. Door alle stichtingen wordt dezelfde instelling aangewezen. Door de directeuren van de diensten, vermeld in de bij deze wet behorende bijlage, wordt in een met meerderheid van stemmen genomen besluit bepaald welke instelling door de stichtingen wordt aangewezen.   
 3.   De aanspraken die een personeelslid als bedoeld in het eerste lid toekomen krachtens de Algemene burgerlijke pensioenwet en de daaruit voortvloeiende verplichtingen van het Algemeen burgerlijk pensioenfonds jegens dit personeelslid vervallen op de overgangsdatum.   
 4.   Het derde lid is niet van toepassing op aanspraken:  

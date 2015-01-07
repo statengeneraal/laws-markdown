@@ -25,7 +25,7 @@ b.*werkelijke dienst:* de tijd gedurende welke de militair ambtenaar
 
 2.is aangesteld bij het reservepersoneel van de krijgsmacht en hij als zodanig feitelijk onder de wapenen is,
 
-c.*buitengewone omstandigheden:* een uitzonderingstoestand als bedoeld in [artikel 1 van de Coördinatiewet uitzonderingstoestanden](../../../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md) dan wel andere omstandigheden die naar het oordeel van Onze Minister toepassing van buitengewone bevoegdheden op grond van deze wet noodzakelijk maken,
+c.*buitengewone omstandigheden:* een uitzonderingstoestand als bedoeld in artikel 1 van de Coördinatiewet uitzonderingstoestanden dan wel andere omstandigheden die naar het oordeel van Onze Minister toepassing van buitengewone bevoegdheden op grond van deze wet noodzakelijk maken,
 
 d.*Onze Minister:* Onze Minister van Defensie,
 
@@ -64,14 +64,14 @@ Voor zover dit met het oog op de goede uitvoering van de operationele taken van 
 
 ### Artikel  3  
 
-1.  In afwijking van [artikel 6:7 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bedraagt de termijn voor het indienen van een bezwaar- of beroepschrift dertien weken, indien de belanghebbende zich om redenen van dienst buiten Nederland bevindt.   
-2.   In afwijking van [artikel 8:55, eerste lid, derde volzin, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bedraagt de termijn voor het indienen van een verzetschrift dertien weken, indien de belanghebbende zich om redenen van dienst buiten Nederland bevindt.   
-3.   In afwijking van [artikel 7:10, eerste lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bedraagt de beslistermijn zes maanden, indien een of meer belanghebbenden, getuigen of deskundigen zich om redenen van dienst buiten Nederland bevinden.   
+1.  In afwijking van artikel 6:7 van de Algemene wet bestuursrecht bedraagt de termijn voor het indienen van een bezwaar- of beroepschrift dertien weken, indien de belanghebbende zich om redenen van dienst buiten Nederland bevindt.   
+2.   In afwijking van artikel 8:55, eerste lid, derde volzin, van de Algemene wet bestuursrecht bedraagt de termijn voor het indienen van een verzetschrift dertien weken, indien de belanghebbende zich om redenen van dienst buiten Nederland bevindt.   
+3.   In afwijking van artikel 7:10, eerste lid, van de Algemene wet bestuursrecht bedraagt de beslistermijn zes maanden, indien een of meer belanghebbenden, getuigen of deskundigen zich om redenen van dienst buiten Nederland bevinden.   
 4.   Indien dringende redenen van operationele aard verhinderen dat binnen de in het derde lid bedoelde termijn wordt beslist, kan deze termijn ten hoogste twee keer met drie maanden worden verlengd.  
 
 ### Artikel  5  
 
-1.  De [eerste volzin van artikel 54, derde lid, van de Wet op de rechterlijke organisatie](../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md) is van overeenkomstige toepassing indien beroep is ingesteld door nagelaten betrekkingen of rechtverkrijgenden.  
+1.  De eerste volzin van artikel 54, derde lid, van de Wet op de rechterlijke organisatie is van overeenkomstige toepassing indien beroep is ingesteld door nagelaten betrekkingen of rechtverkrijgenden.  
 2. Tot militair lid zijn alleen benoembaar zij die Nederlander en militair ambtenaar of eervol ontslagen militair ambtenaar zijn.  
 3.   Zij mogen niet:  
 
@@ -80,7 +80,7 @@ a. sedert meer dan zes jaar uit de militaire dienst zijn ontslagen;
 b. deel uitmaken van het bestuur of in dienst zijn van een vereniging van militairen. Onder vereniging van militairen is voor de toepassing van deze bepaling een verband van verenigingen en een onderdeel van een vereniging begrepen.     
 4.   Een militair lid wordt door Onze Minister benoemd voor de tijd van vier jaren. Het lid is bij zijn aftreden eenmaal herbenoembaar. Op zijn verzoek wordt het lid door Onze Minister ontslag verleend.   
 5.   In geval van gelijktijdige benoeming geldt als oudstbenoemde het lid wiens naam in het benoemingsbesluit het eerst is vermeld en zo vervolgens. Heeft de benoeming plaats gehad bij verschillende besluiten van gelijke datum, dan wordt het laagst genummerde besluit geacht het eerst te zijn genomen en zo vervolgens.   
-6.   Ten aanzien van een militair lid zijn de [artikelen 46c](../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46d](../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46e](../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46f](../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46g](../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46i, met uitzondering van het eerste lid, onderdeel c](../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46j](../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46l](../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46m](../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46o](../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) en [46p van de Wet rechtspositie rechterlijke ambtenaren](../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) van overeenkomstige toepassing, met dien verstande dat voor de overeenkomstige toepassing van [artikel 46j](../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) onderscheidenlijk [artikel 46o, tweede lid](../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), onder functionele autoriteit wordt verstaan: bestuur onderscheidenlijk president van het gerecht, met dien verstande dat mede ontslag wordt verleend:  
+6.   Ten aanzien van een militair lid zijn de artikelen 46c, 46d, 46e, 46f, 46g, 46i, met uitzondering van het eerste lid, onderdeel c, 46j, 46l, 46m, 46o en 46p van de Wet rechtspositie rechterlijke ambtenaren van overeenkomstige toepassing, met dien verstande dat voor de overeenkomstige toepassing van artikel 46j onderscheidenlijk artikel 46o, tweede lid, onder functionele autoriteit wordt verstaan: bestuur onderscheidenlijk president van het gerecht, met dien verstande dat mede ontslag wordt verleend:  
 
 a. bij ontslag, anders dan eervol, uit de militaire dienst, of  
 
@@ -88,7 +88,7 @@ b. bij ontslag uit de militaire dienst ter zake van onbekwaamheid of ongeschikth
 
 ### Artikel  5a  
 
-[Artikel 66, vijfde lid, van de Wet op de rechterlijke organisatie](../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md) is van overeenkomstige toepassing ten aanzien van een militair lid. 
+Artikel 66, vijfde lid, van de Wet op de rechterlijke organisatie is van overeenkomstige toepassing ten aanzien van een militair lid. 
 
 ### Artikel  5b  
 
@@ -96,26 +96,26 @@ Aan de militaire leden wordt een vergoeding toegekend met overeenkomstige toepas
 
 ### Artikel  6  
 
-In afwijking van [artikel 8:12 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan de rechtbank ook aan de commandant van de bodem waarop of het korps of de inrichting waarbij de betrokken militaire ambtenaar dient of heeft gediend, opdragen het vooronderzoek of een gedeelte daarvan te verrichten. 
+In afwijking van artikel 8:12 van de Algemene wet bestuursrecht kan de rechtbank ook aan de commandant van de bodem waarop of het korps of de inrichting waarbij de betrokken militaire ambtenaar dient of heeft gediend, opdragen het vooronderzoek of een gedeelte daarvan te verrichten. 
 
 ### Artikel  7  
 
-Indien tijdens de behandeling van een beroep blijkt, dat een samenhangend strafrechtelijk onderzoek of een tuchtproces ingevolge de [Wet militair tuchtrecht](../../../../../rijkswet/wet/militair/tuchtrecht/BWBR0004788/README.md) aanhangig is, wordt de behandeling, tenzij het beroep tegen een voorloopige voorziening is gericht, tot na afloop van dat onderzoek of dat tuchtproces geschorst. 
+Indien tijdens de behandeling van een beroep blijkt, dat een samenhangend strafrechtelijk onderzoek of een tuchtproces ingevolge de Wet militair tuchtrecht aanhangig is, wordt de behandeling, tenzij het beroep tegen een voorloopige voorziening is gericht, tot na afloop van dat onderzoek of dat tuchtproces geschorst. 
 
 ### Artikel  8  
 
-Een uitspraak van den strafrechter, in kracht van gewijsde gegaan, of ingevolge de [Wet militair tuchtrecht](../../../../../rijkswet/wet/militair/tuchtrecht/BWBR0004788/README.md) in beroep gewezen, waarbij de militaire ambtenaar aan eenig feit is schuldig verklaard, geldt in een militaire ambtenarenzaak als bewijs van dat feit. 
+Een uitspraak van den strafrechter, in kracht van gewijsde gegaan, of ingevolge de Wet militair tuchtrecht in beroep gewezen, waarbij de militaire ambtenaar aan eenig feit is schuldig verklaard, geldt in een militaire ambtenarenzaak als bewijs van dat feit. 
 
 ### Artikel  9  
 
-1.  De militaire ambtenaar die zich bezwaard voelt over een van een militaire meerdere als bedoeld in [artikel 67 van het Wetboek van Militair Strafrecht](../../../../../rijkswet/wetboek/van/militair/strafrecht/BWBR0001869/README.md) ontvangen bevel, dan wel meent van een zodanige meerdere een krenkende of onbillijke behandeling te hebben ondervonden, kan daarover in afwijking van [artikel 9:8, eerste lid, onder b, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) binnen zes weken schriftelijk een met redenen omklede klacht indienen bij de tot straffen bevoegde militaire meerdere, bedoeld in [artikel 49 van de Wet militair tuchtrecht](../../../../../rijkswet/wet/militair/tuchtrecht/BWBR0004788/README.md) onder wiens rechtstreeks bevel degene, tegen wie de klacht is gericht, is gesteld dan wel bij een door Onze Minister aangewezen functionaris.   
+1.  De militaire ambtenaar die zich bezwaard voelt over een van een militaire meerdere als bedoeld in artikel 67 van het Wetboek van Militair Strafrecht ontvangen bevel, dan wel meent van een zodanige meerdere een krenkende of onbillijke behandeling te hebben ondervonden, kan daarover in afwijking van artikel 9:8, eerste lid, onder b, van de Algemene wet bestuursrecht binnen zes weken schriftelijk een met redenen omklede klacht indienen bij de tot straffen bevoegde militaire meerdere, bedoeld in artikel 49 van de Wet militair tuchtrecht onder wiens rechtstreeks bevel degene, tegen wie de klacht is gericht, is gesteld dan wel bij een door Onze Minister aangewezen functionaris.   
 2.  Geen klacht kan worden ingediend over besluiten of handelingen ter uitvoering van de Wet militair tuchtrecht.   
-3.  Op de behandeling van de klacht zijn de [afdelingen 9.1.2](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [9.1.3 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van overeenkomstige toepassing, met dien verstande dat in afwijking van [artikel 9:11, eerste lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) de klacht binnen twaalf weken wordt afgehandeld indien de klager dan wel de militaire meerdere tegen wie het klaagschrift is gericht dan wel getuigen zich om redenen van dienst buiten Nederland bevinden.   
+3.  Op de behandeling van de klacht zijn de afdelingen 9.1.2 en 9.1.3 van de Algemene wet bestuursrecht van overeenkomstige toepassing, met dien verstande dat in afwijking van artikel 9:11, eerste lid, van de Algemene wet bestuursrecht de klacht binnen twaalf weken wordt afgehandeld indien de klager dan wel de militaire meerdere tegen wie het klaagschrift is gericht dan wel getuigen zich om redenen van dienst buiten Nederland bevinden.   
 4.  Bij algemene maatregel van bestuur worden nadere regels gesteld ter uitvoering van dit artikel.  
 
 ### Artikel  10  
 
-[Titel II van de Ambtenarenwet 1929](../../../../../wet/ambtenarenwet/BWBR0001947/README.md) vindt op de militaire ambtenaren overeenkomstige toepassing. 
+Titel II van de Ambtenarenwet 1929 vindt op de militaire ambtenaren overeenkomstige toepassing. 
 
 ### Titel  III  
 
@@ -123,7 +123,7 @@ Een uitspraak van den strafrechter, in kracht van gewijsde gegaan, of ingevolge 
 
 ### Artikel  11  
 
-[Artikel 4:8 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing op beschikkingen inzake functietoewijzing, bevordering en aanwijzing voor het volgen van een opleiding. 
+Artikel 4:8 van de Algemene wet bestuursrecht is niet van toepassing op beschikkingen inzake functietoewijzing, bevordering en aanwijzing voor het volgen van een opleiding. 
 
 ### Titel  IV  
 
@@ -165,7 +165,7 @@ o. overige rechten en verplichtingen;
 
 p. de wijze, waarop met de daarvoor in aanmerking komende vakorganisaties van overheidspersoneel overleg wordt gepleegd over aangelegenheden van algemeen belang voor de rechtstoestand van militaire ambtenaren, alsmede de gevallen waarin overeenstemming in dat overleg dient te worden bereikt;  
 
-q. de gevallen waarin berichten inzake de rechtspositie van de ambtenaar in afwijking van [artikel 2:14, eerste lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) uitsluitend elektronisch verzonden behoeven te worden en de voorwaarden die daarbij in acht worden genomen.  
+q. de gevallen waarin berichten inzake de rechtspositie van de ambtenaar in afwijking van artikel 2:14, eerste lid, van de Algemene wet bestuursrecht uitsluitend elektronisch verzonden behoeven te worden en de voorwaarden die daarbij in acht worden genomen.  
 
 ###Artikel 12bis 
 
@@ -212,9 +212,9 @@ d.het verlenen van ontslag aan militaire ambtenaren wegens het bereiken of overs
 1.  De militaire ambtenaar dient zich te onthouden van het openbaren van gedachten of gevoelens dan wel de uitoefening van het recht tot vereniging, tot vergadering en tot betoging, indien door de uitoefening van deze rechten de goede vervulling van zijn functie of de goede functionering van de openbare dienst, voor zover deze in verband staat met zijn functievervulling, niet in redelijkheid zou zijn verzekerd.   
 2.   Het eerste lid is, voor wat betreft het recht van vereniging, niet van toepassing op het lidmaatschap van:  
 
-a. een politieke groepering waarvan de naam of aanduiding is ingeschreven overeenkomstig de [artikelen G1](../../../../../wet/kieswet/BWBR0004627/README.md) of [G2 van de Kieswet](../../../../../wet/kieswet/BWBR0004627/README.md);  
+a. een politieke groepering waarvan de naam of aanduiding is ingeschreven overeenkomstig de artikelen G1 of G2 van de Kieswet;  
 
-b. een politieke groepering waarvan de naam of aanduiding is ingeschreven overeenkomstig [artikel G3 van de Kieswet](../../../../../wet/kieswet/BWBR0004627/README.md), en die, indien na de inschrijving verkiezingen zijn gehouden voor de gemeenteraden, aan de laatst gehouden verkiezingen heeft deelgenomen; of  
+b. een politieke groepering waarvan de naam of aanduiding is ingeschreven overeenkomstig artikel G3 van de Kieswet, en die, indien na de inschrijving verkiezingen zijn gehouden voor de gemeenteraden, aan de laatst gehouden verkiezingen heeft deelgenomen; of  
 
 c. een vakvereniging.     
 3.   De militaire ambtenaar is verplicht tot geheimhouding van enig gegeven, de dienst betreffende, tegenover een ieder die tot kennisneming daarvan niet bevoegd is, voor zover die verplichting uit de aard der zaak volgt.  
@@ -235,7 +235,7 @@ De militaire ambtenaar is niet gehouden tot dienstverrichting op voor hem op gro
 2. De militair ambtenaar is verplicht, indien dit noodzakelijk is in het belang van de veiligheid of van een goede vervulling van de taak van de krijgsmacht, zich te onderwerpen aan een onderzoek van zijn urine of adem. 
 3. Het in het tweede lid bedoelde onderzoek dient uitsluitend ter vaststelling van:
 
-a.de aanwezigheid van gedragsbeïnvloedende middelen als bedoeld in de bij de [Opiumwet](../../../../../wet/opiumwet/BWBR0001941/README.md) behorende lijsten I en II
+a.de aanwezigheid van gedragsbeïnvloedende middelen als bedoeld in de bij de Opiumwet behorende lijsten I en II
 
 b.voor de militair die dienst doet of behoort te doen: een alcoholgehalte van zijn adem van meer dan 220 microgram alcohol per liter uitgeademde lucht. 
 4.   Het bevoegd gezag, op wiens last het in het eerste en tweede lid bedoelde onderzoek plaats heeft, neemt de nodige maatregelen ten einde daarbij een onredelijke of onbehoorlijke bejegening te voorkomen.   
@@ -262,7 +262,7 @@ Een gewezen militair ambtenaar, die op het tijdstip van ingang van zijn eervol o
 ### Artikel  12g  
 
 1.  Voor de aanstelling als militair ambtenaar komt, tenzij bij of krachtens algemene maatregel van bestuur anders wordt bepaald, slechts in aanmerking degene die Nederlander is.   
-2.  Aan de militaire ambtenaar kan eervol ontslag worden verleend, indien hij op grond van het bepaalde in [artikel 5, derde lid](../../../../../wet/wet/veiligheidsonderzoeken/BWBR0008277/README.md), of [artikel 10, tweede lid, van de Wet veiligheidsonderzoeken](../../../../../wet/wet/veiligheidsonderzoeken/BWBR0008277/README.md) uit een vertrouwensfunctie moet worden ontheven.   
+2.  Aan de militaire ambtenaar kan eervol ontslag worden verleend, indien hij op grond van het bepaalde in artikel 5, derde lid, of artikel 10, tweede lid, van de Wet veiligheidsonderzoeken uit een vertrouwensfunctie moet worden ontheven.   
 3.   Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld ter zake van het bepaalde in dit artikel.  
 
 ###Artikel 12h 
@@ -291,7 +291,7 @@ b.blijvend ongeschikt is voor de vervulling van de militaire dienst. Het in de e
 
 1. Het is de militair ambtenaar in werkelijke dienst niet toegestaan om deel te nemen aan een staking. 
 2. Het is de militair ambtenaar in werkelijke dienst toegestaan om deel te nemen aan andere vormen van collectieve actie tenzij deelname aan die collectieve actie de operationele inzet van de krijgsmacht kan verstoren of belemmeren. 
-3. Het is de ambtenaar in de zin van [artikel 1 van de Ambtenarenwet](../../../../../wet/ambtenarenwet/BWBR0001947/README.md) die is aangesteld bij het ministerie van Defensie toegestaan deel te nemen aan een staking of andere vormen van collectieve actie, tenzij de deelname aan die staking of collectieve actie de operationele inzet van de krijgsmacht kan verstoren of belemmeren.
+3. Het is de ambtenaar in de zin van artikel 1 van de Ambtenarenwet die is aangesteld bij het ministerie van Defensie toegestaan deel te nemen aan een staking of andere vormen van collectieve actie, tenzij de deelname aan die staking of collectieve actie de operationele inzet van de krijgsmacht kan verstoren of belemmeren.
 
 ### Artikel 12j 
 
@@ -337,9 +337,8 @@ d.Indien onze Minister overweegt de militair ambtenaar te ontslaan om een reden 
 e.in buitengewone omstandigheden.
 
 ### Artikel  12n  
-Treedt in werking per 28-06-2014 
 
-Een ontslag van een militair die is ingezet als bedoeld in [artikel 1, onder d, van de Veteranenwet](../../../../../wet/veteranenwet/BWBR0031401/README.md) gaat niet eerder in dan nadat ten minste drie maanden zijn verstreken na de dag waarop de militair is teruggekeerd van de inzet, tenzij de militair uitdrukkelijk anders verzoekt. 
+Een ontslag van een militair die is ingezet als bedoeld in artikel 1, onder d, van de Veteranenwet gaat niet eerder in dan nadat ten minste drie maanden zijn verstreken na de dag waarop de militair is teruggekeerd van de inzet, tenzij de militair uitdrukkelijk anders verzoekt. 
 
 ### Titel  V  
 

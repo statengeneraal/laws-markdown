@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is bij de wet uitvoering te geven aan de Overeenkomst inzake de middelen om de onrechtmatige invoer, uitvoer of eigendomsoverdracht van culturele goederen te verbieden en te verhinderen (Parijs, 14 november 1970, Trb.  1972, nr. 50 en 1983, nr. 66) en in verband daarmee onder meer wijzigingen aan te brengen in het [Wetboek van Burgerlijke Rechtsvordering](../../../../../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), het [Burgerlijk Wetboek](../../../../../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) en de [Wet tot behoud van cultuurbezit](../../../../../../../../../../../wet/wet/tot/behoud/van/cultuurbezit/BWBR0003659/README.md);
+Alzo Wij in overweging genomen hebben, dat het wenselijk is bij de wet uitvoering te geven aan de Overeenkomst inzake de middelen om de onrechtmatige invoer, uitvoer of eigendomsoverdracht van culturele goederen te verbieden en te verhinderen (Parijs, 14 november 1970, Trb.  1972, nr. 50 en 1983, nr. 66) en in verband daarmee onder meer wijzigingen aan te brengen in het Wetboek van Burgerlijke Rechtsvordering, het Burgerlijk Wetboek en de Wet tot behoud van cultuurbezit;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:     
 ### Hoofdstuk  1  
 
@@ -28,9 +28,9 @@ d.  *cultuurgoederen:* goederen die om godsdienstige of wereldlijke redenen door
 
 Als cultuurgoederen voor Nederland worden aangewezen: 
 
-a. de beschermde voorwerpen bedoeld in [artikel 1 onder a van de Wet tot behoud van cultuurbezit](../../../../../../../../../../../wet/wet/tot/behoud/van/cultuurbezit/BWBR0003659/README.md);  
+a. de beschermde voorwerpen bedoeld in artikel 1 onder a van de Wet tot behoud van cultuurbezit;  
 
-b. de roerende zaken bedoeld in [artikel 14a van de Wet tot behoud van cultuurbezit](../../../../../../../../../../../wet/wet/tot/behoud/van/cultuurbezit/BWBR0003659/README.md).   
+b. de roerende zaken bedoeld in artikel 14a van de Wet tot behoud van cultuurbezit.   
 
 ### Artikel  3  
 
@@ -42,11 +42,11 @@ b. in een verdragsstaat zijn ontvreemd.
 
 ### Artikel  4  
 
-Van cultuurgoederen die in strijd met het verbod, bedoeld in artikel 3, binnen Nederland zijn gebracht, kan met inachtneming van de [artikelen 1011a tot en met 1011d van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) teruggave worden gevorderd door de verdragsstaat waaruit die goederen afkomstig zijn of door de rechthebbende op die goederen. 
+Van cultuurgoederen die in strijd met het verbod, bedoeld in artikel 3, binnen Nederland zijn gebracht, kan met inachtneming van de artikelen 1011a tot en met 1011d van het Wetboek van Burgerlijke Rechtsvordering teruggave worden gevorderd door de verdragsstaat waaruit die goederen afkomstig zijn of door de rechthebbende op die goederen. 
 
 ### Hoofdstuk  2  
 
-####Wijziging van het [Wetboek van Burgerlijke Rechtsvordering](../../../../../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md)
+####Wijziging van het Wetboek van Burgerlijke Rechtsvordering
 
 ### Artikel  5  
 
@@ -54,7 +54,7 @@ Wijzigt het Wetboek van Burgerlijke Rechtsvordering.
 
 ### Hoofdstuk  3  
 
-####Wijziging van het [Burgerlijk Wetboek](../../../../../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md)
+####Wijziging van het Burgerlijk Wetboek
 
 ### Artikel  6  
 
@@ -70,7 +70,7 @@ Onze Minister verricht hetgeen in aanmerking komt ter uitvoering van de artikele
 
 ### Artikel  8  
 
-Met het toezicht op de naleving van het bij deze wet bepaalde en met het daartoe nodige onderzoek zijn belast de inspecteur, bedoeld in [artikel 1, onder f, van de Wet tot behoud van cultuurbezit](../../../../../../../../../../../wet/wet/tot/behoud/van/cultuurbezit/BWBR0003659/README.md), en de ambtenaren, bedoeld in [artikel 15, eerste lid, van die wet](../../../../../../../../../../../wet/wet/tot/behoud/van/cultuurbezit/BWBR0003659/README.md). 
+Met het toezicht op de naleving van het bij deze wet bepaalde en met het daartoe nodige onderzoek zijn belast de inspecteur, bedoeld in artikel 1, onder f, van de Wet tot behoud van cultuurbezit, en de ambtenaren, bedoeld in artikel 15, eerste lid, van die wet. 
 
 ### Artikel  9  
 
@@ -80,9 +80,9 @@ a. met medeneming van de nodige apparatuur, een woning binnen te treden zonder t
 
 b. te vorderen dat de bewoner hun de cultuurgoederen die in de woning aanwezig zijn, toont;  
 
-c. ruimten en voorwerpen te verzegelen, voor zover dat voor de uitoefening van de in [artikel 5:17 van de Algemene wet bestuursrecht](../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bedoelde bevoegdheid redelijkerwijs noodzakelijk is;  
+c. ruimten en voorwerpen te verzegelen, voor zover dat voor de uitoefening van de in artikel 5:17 van de Algemene wet bestuursrecht bedoelde bevoegdheid redelijkerwijs noodzakelijk is;  
 
-d. zonodig met behulp van de sterke arm de bevoegdheid, bedoeld in [artikel 5:17 van de Algemene wet bestuursrecht](../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) uit te oefenen.   
+d. zonodig met behulp van de sterke arm de bevoegdheid, bedoeld in artikel 5:17 van de Algemene wet bestuursrecht uit te oefenen.   
 
 ### Artikel  10  
 

@@ -121,7 +121,7 @@ c. een uitkering op grond van de Wet werk en inkomen naar arbeidsvermogen;
 
 d. een uitkering op grond van de Wet arbeidsongeschiktheidsverzekering zelfstandigen;  
 
-e. een uitkering of inkomensvoorziening op grond van de Wet werk en arbeidsondersteuning jonggehandicapten;  
+e. een uitkering of inkomensvoorziening op grond van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten;  
 
 f. een uitkering op grond van de Wet arbeidsongeschiktheidsvoorziening militairen;  
 
@@ -148,7 +148,7 @@ p. een uitkering als bedoeld in onderdeel o, waarop recht bestaat, maar die niet
 q. loon dat uit een vroegere dienstbetrekking wordt genoten.     
 2.  In afwijking van het eerste lid wordt niet als overig inkomen beschouwd: 
 
-a. het bedrag waarmee de uitkering of inkomensvoorziening op grond van de Wet op de arbeidsongeschiktheidsverzekering, de Wet werk en inkomen naar arbeidsvermogen, de Wet arbeidsongeschiktheidsverzekering zelfstandigen of de Wet werk en arbeidsondersteuning jonggehandicapten is verhoogd wegens hulpbehoevendheid op grond van artikel 22 van de Wet op de arbeidsongeschiktheidsverzekering, de artikelen 53 of 63 van de Wet werk en inkomen naar arbeidsvermogen, artikel 10 van de Wet arbeidsongeschiktheidsverzekering zelfstandigen, de artikelen 2:51 of 3:9 van de Wet werk en arbeidsondersteuning jonggehandicapten of een combinatie van deze artikelen;  
+a. het bedrag waarmee de uitkering of inkomensvoorziening op grond van de Wet op de arbeidsongeschiktheidsverzekering, de Wet werk en inkomen naar arbeidsvermogen, de Wet arbeidsongeschiktheidsverzekering zelfstandigen of de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten is verhoogd wegens hulpbehoevendheid op grond van artikel 22 van de Wet op de arbeidsongeschiktheidsverzekering, de artikelen 53 of 63 van de Wet werk en inkomen naar arbeidsvermogen, artikel 10 van de Wet arbeidsongeschiktheidsverzekering zelfstandigen, de artikelen 2:51 of 3:9 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten of een combinatie van deze artikelen;  
 
 b. een eenmalige uitkering die na beëindiging van de dienstbetrekking aan een werknemer in verband met die beëindiging wordt betaald; en  
 
@@ -222,10 +222,10 @@ d. In afwijking van artikel 2:2, eerste lid, onderdeel a, een bijdrage ingevolge
 
 a. een uitkering als bedoeld in artikel 2:4, eerste lid, onderdeel l, en een uitkering die naar aard en strekking overeenkomt met een uitkering als bedoeld in artikel 2:4, eerste lid, onderdeel l;  
 
-b. een eenmalige premie die door burgemeester en wethouders kan worden toegekend in het kader van een voorziening gericht op arbeidsinschakeling van ten hoogste € 2.312,00 per kalenderjaar; en  
+b. een eenmalige premie die door burgemeester en wethouders kan worden toegekend in het kader van een voorziening gericht op arbeidsinschakeling van ten hoogste € 2.339,00 per kalenderjaar; en  
 
-c. een kostenvergoeding voor het verrichten van vrijwilligerswerk van ten hoogste € 95,– per maand met een maximum van € 764,– per jaar, dan wel een kostenvergoeding voor het verrichten van vrijwilligerswerk in het kader van een voorziening gericht op arbeidsinschakeling als bedoeld in artikel 7, eerste lid, onderdeel a, van de Wet werk en bijstand van ten hoogste € 150,– per maand met een maximum van € 1.500,– per jaar.     
-2.  Onze Minister wijzigt de bedragen, bedoeld in het eerste lid, onderdelen b en c, met ingang van een door hem te bepalen dag, voor zover de ontwikkeling van de in artikel 31, tweede lid, onderdelen j en k, van de Wet werk en bijstand genoemde bedragen daartoe aanleiding geeft.   
+c. een kostenvergoeding voor het verrichten van vrijwilligerswerk van ten hoogste € 95,– per maand met een maximum van € 764,– per jaar, dan wel een kostenvergoeding voor het verrichten van vrijwilligerswerk in het kader van een voorziening gericht op arbeidsinschakeling als bedoeld in artikel 7, eerste lid, onderdeel a, van de Participatiewet van ten hoogste € 150,– per maand met een maximum van € 1.500,– per jaar.     
+2.  Onze Minister wijzigt de bedragen, bedoeld in het eerste lid, onderdelen b en c, met ingang van een door hem te bepalen dag, voor zover de ontwikkeling van de in artikel 31, tweede lid, onderdelen j en k, van de Participatiewet genoemde bedragen daartoe aanleiding geeft.   
 3.  Voor het bepalen van inkomen als bedoeld in de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers is artikel 2:5 niet van toepassing.  
 
 ### Artikel  2:9  
@@ -273,7 +273,7 @@ b. een uitkering of toeslag die naar aard en strekking overeenkomt met een uitke
 
 ### Hoofdstuk  3  
 
-####Werknemersverzekeringen en Wet werk en arbeidsondersteuning jonggehandicapten 
+####Werknemersverzekeringen en Wet arbeidsongeschiktheidsvoorziening jonggehandicapten 
 
 ### Paragraaf  1  
 
@@ -283,7 +283,7 @@ b. een uitkering of toeslag die naar aard en strekking overeenkomt met een uitke
 
 ####Toepassing hoofdstuk 3
 
-Dit hoofdstuk is van toepassing op het bepalen van inkomen als bedoeld in de Werkloosheidswet, hoofdstuk 2 van de Wet werk en arbeidsondersteuning jonggehandicapten, de Wet werk en inkomen naar arbeidsvermogen en de Ziektewet. 
+Dit hoofdstuk is van toepassing op het bepalen van inkomen als bedoeld in de Werkloosheidswet, hoofdstuk 2 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, de Wet werk en inkomen naar arbeidsvermogen en de Ziektewet. 
 
 ### Artikel  3:2  
 
@@ -451,9 +451,9 @@ d. artikel 3:3, eerste lid, onderdeel d, onder 2°, uitsluitend van toepassing i
 
 ### Artikel  3:6  
 
-####Uitzonderingen voor de Wet werk en arbeidsondersteuning jonggehandicapten
+####Uitzonderingen voor de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten
 
-Voor het bepalen van het inkomen als bedoeld in hoofdstuk 2 van de Wet werk en arbeidsondersteuning jonggehandicapten geldt dat: 
+Voor het bepalen van het inkomen als bedoeld in hoofdstuk 2 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten geldt dat: 
 
 a. de artikelen 2:2, derde lid, 2:4, derde lid, 2:5 en 3:3, achtste en negende lid, van overeenkomstige toepassing zijn;  
 
@@ -475,7 +475,7 @@ c. tevens onder inkomen wordt verstaan een uit een dienstbetrekking voortvloeien
 
 ####Vaststelling inkomen
 
-1.  Het inkomen, met uitzondering van het inkomen voor de toepassing van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen, de Werkloosheidswet, de Toeslagenwet, de Ziektewet en artikel 2:6 van de Wet werk en arbeidsondersteuning jonggehandicapten, wordt herleid tot een bedrag per kalendermaand.   
+1.  Het inkomen, met uitzondering van het inkomen voor de toepassing van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen, de Werkloosheidswet, de Toeslagenwet, de Ziektewet en artikel 2:6 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, wordt herleid tot een bedrag per kalendermaand.   
 2.  Voor de toepassing van het eerste lid wordt de kalendermaand gesteld op 21,75 dagen. De kalenderweek wordt gesteld op vijf dagen. Het boek- of kalenderjaar wordt gesteld op 261 dagen.   
 3.  Bij de toepassing van het eerste lid wordt het loon door de uitkeringsgerechtigde geacht te zijn genoten in het aangiftetijdvak waarover de werkgever of de inhoudingsplichtige van dat loon opgave heeft gedaan.   
 4.  Bij de toepassing van het eerste lid worden betalingen van het overig inkomen toegerekend aan de perioden waarin hierop recht bestaat.   
@@ -525,7 +525,7 @@ a. de Toeslagenwet;
 
 b. de Ziektewet; en  
 
-c. artikel 2:6 van de Wet werk en arbeidsondersteuning jonggehandicapten.     
+c. artikel 2:6 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten.     
 2.  In afwijking van artikel 4:1, eerste lid, geldt dat het inkomen herleid wordt tot een bedrag per kalenderweek voor toepassing van de Werkloosheidswet, met uitzondering van artikel 35aa, eerste lid, onderdeel a, van de Werkloosheidswet.  
 
 ### Artikel  4:3  
@@ -559,9 +559,7 @@ a. recht bestaat op een uitkering op grond van artikel 29, tweede lid, van de Zi
 
 b. het recht op uitkering op grond van de Wet werk en inkomen naar arbeidsvermogen en het recht, bedoeld onder a, zijn ontstaan voor de inwerkingtreding van het besluit van 22 februari 2012 tot wijziging van het Inkomensbesluit volksverzekeringen en sociale voorzieningen in verband met toepassing op de Toeslagenwet, Wet inkomensvoorziening oudere werklozen, Wet werk en arbeidsondersteuning jonggehandicapten en werknemersverzekeringen (Stb. 79);   voor de duur van het recht, bedoeld in onderdeel a, artikel 3:3, vijfde lid, niet van toepassing is en tevens onder inkomen wordt verstaan het inkomen, bedoeld in artikel 3:2, eerste lid, dat werd genoten in het aangiftetijdvak voor het aangiftetijdvak waarin recht bestond op die uitkering.   
 4.  In geval van een uitkeringsgerechtigde waarvan het recht op een uitkering op grond van de Wet werk en inkomen naar arbeidsvermogen en het ontvangen van ziekengeld op grond van artikel 29, tweede lid, van de Ziektewet zijn ontstaan voor inwerkingtreding van het besluit van 22 februari 2012 tot wijziging van het Inkomensbesluit volksverzekeringen en sociale voorzieningen in verband met toepassing op de Toeslagenwet, Wet inkomensvoorziening oudere werklozen, Wet werk en arbeidsondersteuning jonggehandicapten en werknemersverzekeringen (Stb. 79) is, voor de duur van dat recht op grond van artikel 29, tweede lid, van de Ziektewet, artikel 3:4, tweede lid, onderdelen a en d, niet van toepassing.   
-5.  Ingeval van een uitkeringsgerechtigde die recht heeft op een uitkering op grond van de Wet werk en arbeidsondersteuning jonggehandicapten en recht heeft op een uitkering op grond van een vrijwillige verzekering op grond van de Werkloosheidswet, Ziektewet, Wet werk en inkomen naar arbeidsvermogen of Wet op de arbeidsongeschiktheidsverzekering op de dag voor inwerkingtreding van het besluit van 22 februari 2012 tot wijziging van het Inkomensbesluit volksverzekeringen en sociale voorzieningen in verband met toepassing op de Toeslagenwet, Wet inkomensvoorziening oudere werklozen, Wet werk en arbeidsondersteuning jonggehandicapten en werknemersverzekeringen (Stb. 79) is artikel 3:6, onderdeel b, onder 3, voor zover het de uitkering op grond van een vrijwillige verzekering betreft, niet van toepassing gedurende de duur van die uitkering doch ten hoogste gedurende twee jaar.   
-6.  Ingeval ter zake van het belastbare loon artikel 39c van de Wet op de loonbelasting 1964 wordt toegepast wordt voor toepassing van de artikelen 2:2, eerste lid, onderdeel b, onder 3°, en 3:2, eerste lid, onderdeel b, onder 3°, onder eindheffingsbestanddelen als bedoeld in artikel 31, eerste lid, onderdelen b tot en met h, van de Wet op de loonbelasting 1964 verstaan eindheffingsbestanddelen als bedoeld in artikel 31, eerste lid, onderdelen b tot en met h, van die wet, zoals dat artikel luidde op 31 december 2010.   
-7.  Het zesde lid en dit lid vervallen met ingang van de dag waarop artikel 39c van de Wet op de loonbelasting 1964 vervalt.  
+5.  Ingeval van een uitkeringsgerechtigde die recht heeft op een uitkering op grond Wet arbeidsongeschiktheidsvoorziening jonggehandicapten en recht heeft op een uitkering op grond van een vrijwillige verzekering op grond van de Werkloosheidswet, Ziektewet, Wet werk en inkomen naar arbeidsvermogen of Wet op de arbeidsongeschiktheidsverzekering op de dag voor inwerkingtreding van het besluit van 22 februari 2012 tot wijziging van het Inkomensbesluit volksverzekeringen en sociale voorzieningen in verband met toepassing op de Toeslagenwet, Wet inkomensvoorziening oudere werklozen, Wet werk en arbeidsondersteuning jonggehandicapten en werknemersverzekeringen (Stb. 79) is artikel 3:6, onderdeel b, onder 3, voor zover het de uitkering op grond van een vrijwillige verzekering betreft, niet van toepassing gedurende de duur van die uitkering doch ten hoogste gedurende twee jaar.  
 
 ### Artikel  5:2  
 
@@ -576,7 +574,7 @@ b.  Inkomensbesluit IOAW;
 c.  Inkomensbesluit IOAZ; en  
 
 d.  Inkomensbesluit AOW 1996.     
-2.  Ingeval ter zake van het belastbare loon artikel 39c van de Wet op de loonbelasting 1964 wordt toegepast wordt voor toepassing van artikel 2:2, eerste lid, onderdeel b, onder 3°, onder eindheffingsbestanddelen als bedoeld in artikel 31, eerste lid, onderdelen b tot en met h, van de Wet op de loonbelasting 1964 verstaan eindheffingsbestanddelen als bedoeld in artikel 31, eerste lid, onderdelen b tot en met h, van die wet, zoals dat artikel luidde op 31 december 2010.   
+2.  Vervallen.   
 3.  Het tweede lid vervalt met ingang van de dag waarop artikel 39c van de Wet op de loonbelasting 1964 vervalt.  
 
 ### Artikel  5:3  
@@ -589,7 +587,7 @@ In afwijking van artikel 5:7 blijft artikel 9b van het Inkomensbesluit IOAW van 
 
 ####Grondslag besluit
 
-Dit besluit berust mede op de artikelen 6, tweede lid, van de Toeslagenwet, 10, zesde lid, van de Wet inkomensvoorziening oudere werklozen, 34, tweede lid, en 35aa, tweede lid, van de Werkloosheidswet, 2:6 van de Wet werk en arbeidsondersteuning jonggehandicapten, 52, vierde lid, 60, vijfde lid, en 61, achtste lid, van de Wet werk en inkomen naar arbeidsvermogen en 31, derde lid, van de Ziektewet. 
+Dit besluit berust mede op de artikelen 6, tweede lid, van de Toeslagenwet, 10, zesde lid, van de Wet inkomensvoorziening oudere werklozen, 34, tweede lid, en 35aa, tweede lid, van de Werkloosheidswet, 2:6 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, 52, vierde lid, 60, vijfde lid, en 61, achtste lid, van de Wet werk en inkomen naar arbeidsvermogen en 31, derde lid, van de Ziektewet. 
 
 ### Artikel  5:5  
 

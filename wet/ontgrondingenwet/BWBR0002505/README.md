@@ -18,7 +18,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 a.Onze Minister: Onze Minister van Verkeer en Waterstaat;
 
-b.planologisch medewerking verlenen: het nemen van een of meer besluiten krachtens de [Wet ruimtelijke ordening](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) door de raad onderscheidenlijk het college van burgemeester en wethouders van een gemeente of het bestuur van een provincie waarin die gemeente is gelegen, waardoor een ontgronding kan plaatsvinden zonder strijd met het bepaalde bij of krachtens [die wet](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md);
+b.planologisch medewerking verlenen: het nemen van een of meer besluiten krachtens de Wet ruimtelijke ordening door de raad onderscheidenlijk het college van burgemeester en wethouders van een gemeente of het bestuur van een provincie waarin die gemeente is gelegen, waardoor een ontgronding kan plaatsvinden zonder strijd met het bepaalde bij of krachtens die wet;
 
 c.zomerbed:
 
@@ -54,12 +54,12 @@ f. dat financiële zekerheid moet worden gesteld voor het nakomen van krachtens 
 
 g. dat moet worden voldaan aan door een bij het voorschrift aangewezen bestuursorgaan gestelde nadere eisen;  
 
-h. dat de vergunninghouder verplicht is technische maatregelen te treffen waardoor monumenten als bedoeld in [artikel 1, onderdeel b, van de Monumentenwet 1988](../../../wet/monumentenwet/1988/BWBR0004471/README.md) in de bodem kunnen worden behouden;  
+h. dat de vergunninghouder verplicht is technische maatregelen te treffen waardoor monumenten als bedoeld in artikel 1, onderdeel b, van de Monumentenwet 1988 in de bodem kunnen worden behouden;  
 
-i. dat de vergunninghouder verplicht is opgravingen te doen als bedoeld in [artikel 1, onderdeel h, van de Monumentenwet 1988](../../../wet/monumentenwet/1988/BWBR0004471/README.md);  
+i. dat de vergunninghouder verplicht is opgravingen te doen als bedoeld in artikel 1, onderdeel h, van de Monumentenwet 1988;  
 
 j. dat de vergunninghouder verplicht is de ontgronding te laten begeleiden door een deskundige op het terrein van de archeologische monumentenzorg die voldoet aan door het vergunningverlenende bestuursorgaan te stellen kwalificaties.    
-4.  Een financiële zekerheid als bedoeld in het derde lid, onder f, kan niet worden gevorderd van publiekrechtelijke lichamen. Op de toestemming, bedoeld in het derde lid, onder a, zijn de [artikelen 10:28 tot en met 10:31 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van overeenkomstige toepassing.    
+4.  Een financiële zekerheid als bedoeld in het derde lid, onder f, kan niet worden gevorderd van publiekrechtelijke lichamen. Op de toestemming, bedoeld in het derde lid, onder a, zijn de artikelen 10:28 tot en met 10:31 van de Algemene wet bestuursrecht van overeenkomstige toepassing.    
 5.  Aan de vergunning kunnen ook voorschriften worden verbonden, inhoudende dat op een daarbij omschreven wijze moet worden aangegeven of aan andere vergunningvoorschriften wordt voldaan en dat de daarbij verkregen gegevens ter beschikking moeten worden gesteld van het bevoegd gezag.   
 6.   Weigering, intrekking of wijziging van een vergunning kan geschieden op grond van strijd met de in het tweede lid bedoelde belangen.   
 
@@ -73,23 +73,23 @@ Deze wet is niet van toepassing op:
 
 a. het – in geval van watersnood of dringend of dreigend gevaar voor doorbraak van dijken of voor overstroming – nemen van specie van gronden, welke ogenblikkelijk in bezit zijn genomen;  
 
-b. de uitvoering van een inrichtingsplan als bedoeld in [artikel 17, eerste lid, van de Wet inrichting landelijk gebied](../../../wet/wet/inrichting/landelijk/gebied/BWBR0020748/README.md), met uitzondering van de ontgrondingen, welke geschieden ter verkrijging van het voor de werken nodige bodemmateriaal;  
+b. de uitvoering van een inrichtingsplan als bedoeld in artikel 17, eerste lid, van de Wet inrichting landelijk gebied, met uitzondering van de ontgrondingen, welke geschieden ter verkrijging van het voor de werken nodige bodemmateriaal;  
 
-c. de toepassing van [artikel 30](../../../wet/wet/bodembescherming/BWBR0003994/README.md) of [31 van de Wet bodembescherming](../../../wet/wet/bodembescherming/BWBR0003994/README.md);  
+c. de toepassing van artikel 30 of 31 van de Wet bodembescherming;  
 
-d. de toepassing van [artikel 13 van de Wet bodembescherming](../../../wet/wet/bodembescherming/BWBR0003994/README.md), de uitvoering van een saneringsplan als bedoeld in [artikel 39 van Wet bodembescherming](../../../wet/wet/bodembescherming/BWBR0003994/README.md) of een sanering als bedoeld in artikel 39b van die wet, mits de ontgronding niet verder gaat dan noodzakelijk is voor de technische realisering van een werk ter plaatse van de ontgronding; 
+d. de toepassing van artikel 13 van de Wet bodembescherming, de uitvoering van een saneringsplan als bedoeld in artikel 39 van Wet bodembescherming of een sanering als bedoeld in artikel 39b van die wet, mits de ontgronding niet verder gaat dan noodzakelijk is voor de technische realisering van een werk ter plaatse van de ontgronding; 
 
-e. de uitvoering van een beheerplan als bedoeld in [artikel 4.6 van de Waterwet](../../../wet/waterwet/BWBR0025458/README.md), voor zover daarin maatregelen of voorzieningen zijn opgenomen in verband met een verontreiniging of aantasting van de bodem of oever van een oppervlaktewaterlichaam die een belemmering vormt voor het bereiken van de gewenste gebiedskwaliteit, met uitzondering van ontgrondingen, welke geschieden ter verkrijging van het voor die maatregelen of voorzieningen nodige bodemmateriaal;  
+e. de uitvoering van een beheerplan als bedoeld in artikel 4.6 van de Waterwet, voor zover daarin maatregelen of voorzieningen zijn opgenomen in verband met een verontreiniging of aantasting van de bodem of oever van een oppervlaktewaterlichaam die een belemmering vormt voor het bereiken van de gewenste gebiedskwaliteit, met uitzondering van ontgrondingen, welke geschieden ter verkrijging van het voor die maatregelen of voorzieningen nodige bodemmateriaal;  
 
-f. de uitvoering van maatregelen als bedoeld in [artikel 5.15, eerste lid, van de Waterwet](../../../wet/waterwet/BWBR0025458/README.md), met uitzondering van ontgrondingen, welke geschieden ter verkrijging van het voor die maatregelen nodige bodemmateriaal.  
+f. de uitvoering van maatregelen als bedoeld in artikel 5.15, eerste lid, van de Waterwet, met uitzondering van ontgrondingen, welke geschieden ter verkrijging van het voor die maatregelen nodige bodemmateriaal.  
 
 ### Artikel  4a  
 
-Deze wet is mede van toepassing op ontgrondingen op het continentaal plat, bedoeld in [artikel 1 van de Mijnbouwwet](../../../wet/mijnbouwwet/BWBR0014168/README.md). 
+Deze wet is mede van toepassing op ontgrondingen op het continentaal plat, bedoeld in artikel 1 van de Mijnbouwwet. 
 
 ### Artikel  4b  
 
-De Staat is eigenaar van de op of onmiddellijk onder de oppervlakte van het continentaal plat aanwezige vaste stoffen, met inbegrip van de delfstoffen, bedoeld in [artikel 1 van de Mijnbouwwet](../../../wet/mijnbouwwet/BWBR0014168/README.md), voorzover die delfstoffen op een diepte van minder dan 100 meter beneden de oppervlakte van het continentaal plat aanwezig zijn. 
+De Staat is eigenaar van de op of onmiddellijk onder de oppervlakte van het continentaal plat aanwezige vaste stoffen, met inbegrip van de delfstoffen, bedoeld in artikel 1 van de Mijnbouwwet, voorzover die delfstoffen op een diepte van minder dan 100 meter beneden de oppervlakte van het continentaal plat aanwezig zijn. 
 
 ### Artikel  5  
 
@@ -114,13 +114,13 @@ Bij de maatregel, bedoeld in artikel 5, eerste lid, kan worden bepaald dat overe
 
 1. Onze Minister is bevoegd een vergunning als bedoeld in artikel 3 te verlenen, te wijzigen of in te trekken, indien zij een ontgronding betreft in bij ministeriële regeling aan te wijzen rijkswateren.  
 2.  Ten aanzien van andere dan de in het eerste lid bedoelde ontgrondingen berust de bevoegdheid tot verlening, wijziging of intrekking van een vergunning bij gedeputeerde staten van de provincie waarin de betrokken onroerende zaak is gelegen.  
-3. Ten aanzien van ontgrondingen in een tot de rijkswateren behorende rivier heeft de in het eerste lid bedoelde bevoegdheid betrekking op het zomerbed van de rivier. Voor het niet tot het zomerbed behorende gedeelte van de rivier tot aan de begrenzing van de rivier ingevolge [artikel 3.1, tweede lid, van de Waterwet](../../../wet/waterwet/BWBR0025458/README.md) oefenen gedeputeerde staten hun in het tweede lid bedoelde bevoegdheid uit in overeenstemming met Onze Minister. 
+3. Ten aanzien van ontgrondingen in een tot de rijkswateren behorende rivier heeft de in het eerste lid bedoelde bevoegdheid betrekking op het zomerbed van de rivier. Voor het niet tot het zomerbed behorende gedeelte van de rivier tot aan de begrenzing van de rivier ingevolge artikel 3.1, tweede lid, van de Waterwet oefenen gedeputeerde staten hun in het tweede lid bedoelde bevoegdheid uit in overeenstemming met Onze Minister. 
 
 ### Artikel  10  
 
-1. Op de voorbereiding van een beschikking als bedoeld in artikel 8 zijn [afdeling 3.4 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [afdeling 13.2 van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md) van toepassing.  
-2.  Het college van burgemeester en wethouders van ieder van de gemeenten op het gebied waarvan de aanvrage om vergunning betrekking heeft, deelt aan het ingevolge artikel 8 bevoegde gezag binnen acht weken nadat het verzoek daartoe is ingekomen, mee of de beoogde ontgronding in overeenstemming is met het bestemmingsplan, een ter inzage gelegd ontwerp hiervoor, een voorbereidingsbesluit ter zake of een beheersverordening als bedoeld in [artikel 3.38 van de Wet ruimtelijke ordening](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), en deelt, zo zulks niet het geval is, mee of de raad onderscheidenlijk het college van burgemeester en wethouders bereid is aan de ontgronding planologische medewerking te verlenen.   
-3.  Indien Onze Minister het ingevolge artikel 8 bevoegde gezag is, delen gedeputeerde staten van de provincie op het gebied waarvan de aanvrage om vergunning betrekking heeft, binnen zes weken nadat het verzoek daartoe is ingekomen, mee of de beoogde ontgronding in overeenstemming is met een inpassingsplan, als bedoeld in [artikel 3.26 van de Wet ruimtelijke ordening](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), een ter inzage gelegd ontwerp hiervoor of de regels, gesteld bij of krachtens een verordening als bedoeld in [artikel 4.1 van die wet](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), alsmede, zo zulks niet het geval is, of provinciale staten of gedeputeerde staten bereid zijn aan de ontgronding planologische medewerking te verlenen.   
+1. Op de voorbereiding van een beschikking als bedoeld in artikel 8 zijn afdeling 3.4 van de Algemene wet bestuursrecht en afdeling 13.2 van de Wet milieubeheer van toepassing.  
+2.  Het college van burgemeester en wethouders van ieder van de gemeenten op het gebied waarvan de aanvrage om vergunning betrekking heeft, deelt aan het ingevolge artikel 8 bevoegde gezag binnen acht weken nadat het verzoek daartoe is ingekomen, mee of de beoogde ontgronding in overeenstemming is met het bestemmingsplan, een ter inzage gelegd ontwerp hiervoor, een voorbereidingsbesluit ter zake of een beheersverordening als bedoeld in artikel 3.38 van de Wet ruimtelijke ordening, en deelt, zo zulks niet het geval is, mee of de raad onderscheidenlijk het college van burgemeester en wethouders bereid is aan de ontgronding planologische medewerking te verlenen.   
+3.  Indien Onze Minister het ingevolge artikel 8 bevoegde gezag is, delen gedeputeerde staten van de provincie op het gebied waarvan de aanvrage om vergunning betrekking heeft, binnen zes weken nadat het verzoek daartoe is ingekomen, mee of de beoogde ontgronding in overeenstemming is met een inpassingsplan, als bedoeld in artikel 3.26 van de Wet ruimtelijke ordening, een ter inzage gelegd ontwerp hiervoor of de regels, gesteld bij of krachtens een verordening als bedoeld in artikel 4.1 van die wet, alsmede, zo zulks niet het geval is, of provinciale staten of gedeputeerde staten bereid zijn aan de ontgronding planologische medewerking te verlenen.   
 4.   Met betrekking tot ontgrondingen van eenvoudige aard, waarbij andere belangen niet of nauwelijks zijn betrokken, kan bij de regelingen, bedoeld in artikel 5, voor daarbij aan te wijzen gevallen worden afgeweken van het bepaalde bij de voorgaande leden.    
 5.  Beschikkingen als bedoeld in het eerste lid worden genomen na afweging van de in artikel 3, tweede lid, bedoelde belangen.  
 6. Een vergunning wordt niet verleend of gewijzigd indien de beoogde ontgronding in strijd is met een ruimtelijk besluit, tenzij die strijd naar verwachting zal worden opgeheven. 
@@ -128,7 +128,7 @@ Bij de maatregel, bedoeld in artikel 5, eerste lid, kan worden bepaald dat overe
 ###Artikel 10a 
 
 1. Het ingevolge artikel 8 bevoegde bestuursorgaan bevordert een gecoördineerde voorbereiding van de voor de ontgronding benodigde besluiten wanneer de aanvrager daarom verzoekt.
-2. Indien een plaats die is bestemd voor de winning van vaste stoffen door middel van ontgronding is vastgesteld in een inpassings- of bestemmingsplan als bedoeld in [artikel 3.26](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) of [3.1 van de Wet ruimtelijke ordening](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) of in een beheersverordening als bedoeld in [artikel 3.38 van die wet](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), heeft de coördinatie betrekking op alle verder voor de ontgronding benodigde besluiten. In de andere gevallen heeft de coördinatie geen betrekking op de in artikel 3 bedoelde vergunning, tenzij de aanvrager daarom verzoekt.
+2. Indien een plaats die is bestemd voor de winning van vaste stoffen door middel van ontgronding is vastgesteld in een inpassings- of bestemmingsplan als bedoeld in artikel 3.26 of 3.1 van de Wet ruimtelijke ordening of in een beheersverordening als bedoeld in artikel 3.38 van die wet, heeft de coördinatie betrekking op alle verder voor de ontgronding benodigde besluiten. In de andere gevallen heeft de coördinatie geen betrekking op de in artikel 3 bedoelde vergunning, tenzij de aanvrager daarom verzoekt.
 
 ### Artikel 10b 
 
@@ -137,15 +137,15 @@ Bij de maatregel, bedoeld in artikel 5, eerste lid, kan worden bepaald dat overe
 
 ### Artikel 10c 
 
-Op de voorbereiding van de in artikel 10a, eerste lid, bedoelde besluiten is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing, met dien verstande dat:
+Op de voorbereiding van de in artikel 10a, eerste lid, bedoelde besluiten is afdeling 3.4 van de Algemene wet bestuursrecht van toepassing, met dien verstande dat:
 
-a.de ontwerpen van de besluiten binnen een door het ingevolge artikel 8 bevoegde bestuursorgaan te bepalen termijn worden toegezonden aan het bestuursorgaan, dat zorg draagt voor de in [artikel 3:13, eerste lid, van die wet](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bedoelde toezending;
+a.de ontwerpen van de besluiten binnen een door het ingevolge artikel 8 bevoegde bestuursorgaan te bepalen termijn worden toegezonden aan het bestuursorgaan, dat zorg draagt voor de in artikel 3:13, eerste lid, van die wet bedoelde toezending;
 
-b.het ingevolge artikel 8 bevoegde bestuursorgaan ten aanzien van de ontwerpen van de besluiten gezamenlijk toepassing kan geven aan de [artikelen 3:11, eerste lid](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), en [3:12 van die wet](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);
+b.het ingevolge artikel 8 bevoegde bestuursorgaan ten aanzien van de ontwerpen van de besluiten gezamenlijk toepassing kan geven aan de artikelen 3:11, eerste lid, en 3:12 van die wet;
 
 c.zienswijzen naar voren kunnen worden gebracht door een ieder;
 
-d.in afwijking van [artikel 3:18, eerste lid, van die wet](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) de besluiten worden genomen binnen een door het ingevolge artikel 8 bevoegde bestuursorgaan te bepalen termijn;
+d.in afwijking van artikel 3:18, eerste lid, van die wet de besluiten worden genomen binnen een door het ingevolge artikel 8 bevoegde bestuursorgaan te bepalen termijn;
 
 e.de besluiten onverwijld worden gezonden aan het ingevolge artikel 8 bevoegde bestuursorgaan.
 
@@ -166,12 +166,12 @@ De in artikel 10a, eerste lid, bedoelde besluiten worden, voor zover ten aanzien
 
 ###Artikel 12 
 
-1. Indien naar het oordeel van het ingevolge artikel 8, bevoegde gezag met de uitvoering van een ontgronding niet kan worden gewacht, kan dat gezag machtiging verlenen om, zolang op de aanvrage niet onherroepelijk is beslist, de uitvoering aan te vangen. Deze machtiging wordt niet verleend, zolang de in [artikel 3:16, eerste lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bedoelde termijn niet is verstreken. 
+1. Indien naar het oordeel van het ingevolge artikel 8, bevoegde gezag met de uitvoering van een ontgronding niet kan worden gewacht, kan dat gezag machtiging verlenen om, zolang op de aanvrage niet onherroepelijk is beslist, de uitvoering aan te vangen. Deze machtiging wordt niet verleend, zolang de in artikel 3:16, eerste lid, van de Algemene wet bestuursrecht bedoelde termijn niet is verstreken. 
 2.  Deze machtiging wordt verleend onder de voorwaarde, dat zekerheid wordt gesteld voor de betaling van de kosten om de betrokken onroerende zaak in een zodanige toestand te brengen als bij deze machtiging wordt bepaald, indien de vergunning wordt geweigerd of van een verleende vergunning geen gebruik wordt gemaakt. 
 
 ### Artikel  16  
 
-Een beschikking op grond van Hoofdstuk II van deze wet tot verlening, wijziging of intrekking van een vergunning treedt in werking met ingang van de dag na de dag waarop de termijn afloopt voor het indienen van een bezwaarschrift dan wel, indien ingevolge [artikel 7:1, eerste lid, onder d of e, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) geen bezwaar kan worden gemaakt, van een beroepschrift. Indien gedurende de termijn bij de voorzitter van de Afdeling bestuursrechtspraak van de Raad van State een verzoek om voorlopige voorziening is gedaan, treedt de beschikking niet in werking voordat op dat verzoek is beslist.
+Een beschikking op grond van Hoofdstuk II van deze wet tot verlening, wijziging of intrekking van een vergunning treedt in werking met ingang van de dag na de dag waarop de termijn afloopt voor het indienen van een bezwaarschrift dan wel, indien ingevolge artikel 7:1, eerste lid, onder d of e, van de Algemene wet bestuursrecht geen bezwaar kan worden gemaakt, van een beroepschrift. Indien gedurende de termijn bij de voorzitter van de Afdeling bestuursrechtspraak van de Raad van State een verzoek om voorlopige voorziening is gedaan, treedt de beschikking niet in werking voordat op dat verzoek is beslist.
 
 ### Hoofdstuk  III  
 
@@ -224,7 +224,7 @@ b. hoeveelheden ten aanzien waarvan de heffing eerder is geheven.
 
 ### Artikel  22  
 
-Met betrekking tot de handhaving van het bij of krachtens deze wet bepaalde zijn de [artikelen 5.10](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [5.13 tot en met 5.16](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) en [5.18 tot en met 5.23 van de Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van toepassing. 
+Met betrekking tot de handhaving van het bij of krachtens deze wet bepaalde zijn de artikelen 5.10, 5.13 tot en met 5.16 en 5.18 tot en met 5.23 van de Wet algemene bepalingen omgevingsrecht van toepassing. 
 
 ### Hoofdstuk  V  
 
@@ -232,7 +232,7 @@ Met betrekking tot de handhaving van het bij of krachtens deze wet bepaalde zijn
 
 ### Artikel  26  
 
-1.  Voorzover blijkt dat de aanvrager, de houder van de vergunning of degene die overeenkomstig [afdeling 3.4](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) of [afdeling 4.1.2 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn zienswijze naar voren heeft gebracht, ten gevolge van een beschikking ter zake van een ontgronding als bedoeld in artikel 8 schade lijdt of zal lijden, welke redelijkerwijze niet of niet geheel te zijnen laste behoort te blijven en waarvan de vergoeding niet of niet voldoende op andere wijze is verzekerd, wordt hem een naar billijkheid te bepalen schadevergoeding toegekend, en wel door Onze Minister ten laste van ’s Rijks kas, indien het betreft een ontgronding als bedoeld in artikel 8, eerste lid, en door gedeputeerde staten ten laste van de provinciale kas, indien het betreft een ontgronding als bedoeld in artikel 8, tweede lid.   
+1.  Voorzover blijkt dat de aanvrager, de houder van de vergunning of degene die overeenkomstig afdeling 3.4 of afdeling 4.1.2 van de Algemene wet bestuursrecht zijn zienswijze naar voren heeft gebracht, ten gevolge van een beschikking ter zake van een ontgronding als bedoeld in artikel 8 schade lijdt of zal lijden, welke redelijkerwijze niet of niet geheel te zijnen laste behoort te blijven en waarvan de vergoeding niet of niet voldoende op andere wijze is verzekerd, wordt hem een naar billijkheid te bepalen schadevergoeding toegekend, en wel door Onze Minister ten laste van ’s Rijks kas, indien het betreft een ontgronding als bedoeld in artikel 8, eerste lid, en door gedeputeerde staten ten laste van de provinciale kas, indien het betreft een ontgronding als bedoeld in artikel 8, tweede lid.   
 2.   De vergoeding kan worden toegekend, hetzij bij de beschikking inzake de vergunning, hetzij bij afzonderlijke beschikking.   
 
 ### Artikel  27  

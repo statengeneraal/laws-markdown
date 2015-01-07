@@ -3,7 +3,7 @@
 ##Regeling van de Staatssecretaris van Veiligheid en Justitie van 21 september 2012, nr. 336447, houdende regels inzake de aanwijzing en de subsidiëring van een rechtspersoon als Halt-bureau (Regeling Halt 2013)
 
 De Staatssecretaris van Veiligheid en Justitie,  
-Gelet op [artikel 3, tweede lid](../../../../../wet/wet/justitie-subsidies/BWBR0008121/README.md), [48g, tweede lid](../../../../../wet/wet/justitie-subsidies/BWBR0008121/README.md), [48i, tweede lid](../../../../../wet/wet/justitie-subsidies/BWBR0008121/README.md), [48j, derde lid](../../../../../wet/wet/justitie-subsidies/BWBR0008121/README.md), en [48l, tweede lid van de Wet Justitie-subsidies](../../../../../wet/wet/justitie-subsidies/BWBR0008121/README.md);
+Gelet op artikel 3, tweede lid, 48g, tweede lid, 48i, tweede lid, 48j, derde lid, en 48l, tweede lid van de Wet Justitie-subsidies;
 Besluit:    
 
 ### Artikel  1  
@@ -14,9 +14,9 @@ In deze regeling wordt verstaan onder:
 
 a.  *Onze Minister:* Onze Minister van Veiligheid en Justitie;  
 
-b.  *Halt-bureau:* de rechtspersoon die bij besluit van Onze Minister als Halt-bureau in de zin van [artikel 48f, onder c, Wet Justitie-subsidies](../../../../../wet/wet/justitie-subsidies/BWBR0008121/README.md), wordt aangewezen;  
+b.  *Halt-bureau:* de rechtspersoon die bij besluit van Onze Minister als Halt-bureau in de zin van artikel 48f, onder c, Wet Justitie-subsidies, wordt aangewezen;  
 
-c.  *Halt-afdoening:* een afdoening als bedoeld in [artikel 77e, eerste lid, van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md);  
+c.  *Halt-afdoening:* een afdoening als bedoeld in artikel 77e, eerste lid, van het Wetboek van Strafrecht;  
 
 d.  *Halt-module:* een module, zoals bedoeld in artikel 7, tweede lid;  
 
@@ -24,7 +24,7 @@ e.  *Halt-verwijzing:* een voorstel van een opsporingsambtenaar tot Halt-afdoeni
 
 f.  *jeugdige:* een verdachte in de leeftijd vanaf twaalf tot en met zeventien jaar;  
 
-g.  [Aanwijzing Halt-Afdoening](../../../../../beleidsregel/aanwijzing/halt-afdoening/BWBR0026847/README.md)*:* de algemene aanwijzing van het Openbaar Ministerie omtrent Halt-afdoeningen op grond van [artikel 77e, derde lid, van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md);  
+g.  Aanwijzing Halt-Afdoening*:* de algemene aanwijzing van het Openbaar Ministerie omtrent Halt-afdoeningen op grond van artikel 77e, derde lid, van het Wetboek van Strafrecht;  
 
 h.  *AuraH:* geautomatiseerd bedrijfsprocessen- en managementondersteunend systeem waarin het Halt-bureau achtergrondgegevens, contacten en afspraken met jeugdigen en eventuele wettelijke vertegenwoordigers vastlegt.   
 
@@ -99,15 +99,15 @@ g. werkopdracht;
 h. eindgesprek;  
 
 i. afronding en evaluatie.     
-3.  Het Halt-bureau bepaalt de samenstelling van iedere Halt-afdoening en de verdere invulling daarvan op basis van het type delict, de strafmaat die conform de [Aanwijzing Halt-Afdoening](../../../../../beleidsregel/aanwijzing/halt-afdoening/BWBR0026847/README.md) aan het type delict is gekoppeld en de omstandigheden waaronder het delict is gepleegd.  
+3.  Het Halt-bureau bepaalt de samenstelling van iedere Halt-afdoening en de verdere invulling daarvan op basis van het type delict, de strafmaat die conform de Aanwijzing Halt-Afdoening aan het type delict is gekoppeld en de omstandigheden waaronder het delict is gepleegd.  
 
 ### Artikel  8  
 
 ####Beslissing tot behandeling van een Halt-verwijzing
 
-1.  Een Halt-verwijzing dient te voldoen aan de voorwaarden die hieromtrent zijn gesteld in de [Aanwijzing Halt-Afdoening](../../../../../beleidsregel/aanwijzing/halt-afdoening/BWBR0026847/README.md).   
-2.  Als het Halt-bureau constateert dat een Halt-verwijzing niet voldoet aan de voorwaarden genoemd in de [Aanwijzing Halt-Afdoening](../../../../../beleidsregel/aanwijzing/halt-afdoening/BWBR0026847/README.md), dan zal het Halt-bureau de Halt-verwijzing niet in behandeling nemen.   
-3.  Als daartoe aanleiding bestaat, kan het Halt-bureau, zelfs indien de Halt-verwijzing wel voldoet aan de voorwaarden genoemd in de [Aanwijzing Halt-Afdoening](../../../../../beleidsregel/aanwijzing/halt-afdoening/BWBR0026847/README.md), besluiten om de Halt-verwijzing niet in behandeling te nemen.   
+1.  Een Halt-verwijzing dient te voldoen aan de voorwaarden die hieromtrent zijn gesteld in de Aanwijzing Halt-Afdoening.   
+2.  Als het Halt-bureau constateert dat een Halt-verwijzing niet voldoet aan de voorwaarden genoemd in de Aanwijzing Halt-Afdoening, dan zal het Halt-bureau de Halt-verwijzing niet in behandeling nemen.   
+3.  Als daartoe aanleiding bestaat, kan het Halt-bureau, zelfs indien de Halt-verwijzing wel voldoet aan de voorwaarden genoemd in de Aanwijzing Halt-Afdoening, besluiten om de Halt-verwijzing niet in behandeling te nemen.   
 4.  Het Halt-bureau zal altijd negatief terugmelden aan de betrokken opsporingsambtenaar, als het Halt-bureau besluit om een Halt-verwijzing conform het derde lid niet in behandeling te nemen.   
 5.  Een niet in behandeling genomen Halt-verwijzing komt niet voor subsidie in aanmerking.  
 
@@ -174,7 +174,7 @@ b. een resultaatsverantwoording;
 
 c. een opgave van de kwantitatieve productie.     
 6.  De opgave van de kwantitatieve productie dient te zijn voorzien van een accountantsverklaring.   
-7.  Indien geen goedkeurende accountantsverklaring wordt afgegeven en dit te wijten is aan het Halt-bureau, dan kan Onze Minister het Halt-bureau, voor zover de [Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) dit toelaat, een sanctie opleggen.  
+7.  Indien geen goedkeurende accountantsverklaring wordt afgegeven en dit te wijten is aan het Halt-bureau, dan kan Onze Minister het Halt-bureau, voor zover de Algemene wet bestuursrecht dit toelaat, een sanctie opleggen.  
 
 ### Artikel  13  
 
@@ -313,15 +313,15 @@ e. correctie van het bedrag genoemd in onderdeel d, zal jaarlijks plaatsvinden o
 
 1.  Het Halt-bureau stelt voor zijn medewerkers een meldcode vast waarin stapsgewijs wordt aangegeven hoe met signalen van huiselijk geweld of kindermishandeling wordt omgegaan en die er redelijkerwijs aan bijdraagt dat zo snel en adequaat mogelijk hulp kan worden geboden.   
 2.  Voorafgaand aan de vaststelling van de meldcode zal het Halt-bureau deze eerst ter goedkeuring voorleggen aan Onze Minister.   
-3.  Onder huiselijk geweld wordt verstaan: huiselijk geweld, zoals bedoeld in [artikel 1, eerste lid, onderdeel j, van de Wet maatschappelijke ondersteuning](../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md).   
-4.  Onder kindermishandeling wordt verstaan: kindermishandeling, zoals bedoeld in [artikel 1 van de Wet op de Jeugdzorg](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).   
+3.  Onder huiselijk geweld wordt verstaan: huiselijk geweld, zoals bedoeld in artikel 1.1.1, eerste lid, van de Wet maatschappelijke ondersteuning 2015.   
+4.  Onder kindermishandeling wordt verstaan: kindermishandeling, zoals bedoeld in artikel 1.1.1, eerste lid, van de Wet maatschappelijke ondersteuning 2015.   
 5.  Het Halt-bureau bevordert de kennis en het gebruik van de meldcode onder zijn medewerkers.  
 
 ### Artikel  25  
 
 ####Intrekking regelingen
 
-De Regeling Halt van 17 november 2009 en de [Aanwijzingsregeling Halt-bureaus](../../../../../ministeriele-regeling/aanwijzingsregeling/halt-bureaus/BWBR0022248/README.md) van 6 juli 2007 worden ingetrokken. 
+De Regeling Halt van 17 november 2009 en de Aanwijzingsregeling Halt-bureaus van 6 juli 2007 worden ingetrokken. 
 
 ### Artikel  26  
 

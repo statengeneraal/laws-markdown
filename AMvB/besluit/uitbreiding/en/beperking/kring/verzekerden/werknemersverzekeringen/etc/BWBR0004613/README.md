@@ -23,7 +23,9 @@ a.  *werknemersverzekeringen:* de Wet op de arbeidsongeschiktheidsverzekering, d
 
 b.  *in Nederland arbeid verrichten, dan wel werkzaam zijn:* in Nederland of op het continentaal plat arbeid verrichten;  
 
-c.  *buiten Nederland arbeid verrichten, dan wel werkzaam zijn:* buiten Nederland en het continentaal plat arbeid verrichten.   
+c.  *buiten Nederland arbeid verrichten, dan wel werkzaam zijn:* buiten Nederland en het continentaal plat arbeid verrichten;  
+
+d. *Nederlandse socialeverzekeringsuitkering:* een uitkering op grond van de Werkloosheidswet, de Ziektewet, hoofdstuk 3, afdeling 2, van de Wet arbeid en zorg, de Wet op de arbeidsongeschiktheidsverzekering, de Wet werk en inkomen naar arbeidsvermogen, de Wet arbeidsongeschiktheidsverzekering zelfstandigen, de Wet inkomensvoorziening oudere werklozen, de Wet werk en arbeidsondersteuning jonggehandicapten, de Algemene Ouderdomswet en de Algemene nabestaandenwet en de Algemene Kinderbijslagwet.  
 
 ####Uitbreiding van de kring van verzekerden 
 
@@ -38,8 +40,6 @@ Als werknemer in de zin van de werknemersverzekeringen wordt beschouwd degene di
 ### Artikel  3a  
 
 ####Buiten Nederland en Europa werkzaam
-
-Treedt in werking per 01-01-2015 
 
 1.  Onverminderd de artikelen 4a en 4b wordt als werknemer in de zin van de werknemersverzekeringen beschouwd degene die: 
 
@@ -156,7 +156,16 @@ d. een Nederlandse socialeverzekeringsuitkering ontvangt.
 a. in Nederland arbeid in dienstbetrekking verricht anders dan uit hoofde van de vorenbedoelde dienstbetrekking; of  
 
 b. een Nederlandse socialeverzekeringsuitkering ontvangt.     
-2.  De volkenrechtelijke organisaties, bedoeld in het eerste lid, worden door Onze Minister en Onze Minister van Volksgezondheid, Welzijn en Sport in overeenstemming met Onze Minister van Buitenlandse Zaken, aangewezen.  
+2.  De volkenrechtelijke organisaties, bedoeld in het eerste lid, worden door Onze Minister en Onze Minister van Volksgezondheid, Welzijn en Sport in overeenstemming met Onze Minister van Buitenlandse Zaken, aangewezen.   
+3.  Als werknemer in de zin van de werknemersverzekeringen wordt niet beschouwd de particuliere bediende van de persoon, bedoeld in het eerste lid, die werkzaam is voor een volkenrechtelijke organisatie, indien hij korter dan tien jaar in Nederland is en op hem het stelsel van sociale verzekering van een andere mogendheid van toepassing is, tenzij hij: 
+
+a. Nederlander is;  
+
+b. ten tijde van de aanwerving in Nederland woonde;  
+
+c. in Nederland arbeid verricht anders dan uit hoofde van vorenbedoelde dienstbetrekking; of  
+
+d. een Nederlandse socialeverzekeringsuitkering ontvangt.   
 
 ### Artikel  8  
 
@@ -183,7 +192,7 @@ Als werknemer in de zin van de werknemersverzekeringen wordt niet beschouwd dege
 
 ### Artikel  12  
 
-Als werknemer in de zin van de werknemersverzekeringen wordt niet beschouwd degene die in dienst is van een buiten Nederland wonende of gevestigde werkgever, deel uitmaakt van de bemanning van een zee- of binnenvaartuig en tijdelijk in Nederland werkzaam is.  
+Als werknemer in de zin van de werknemersverzekeringen wordt niet beschouwd degene die in dienst is van een buiten Nederland wonende of gevestigde werkgever, deel uitmaakt van de bemanning van een zee- of binnenvaartuig en niet langer dan zes maanden in Nederland werkzaam is.  
 
 ### Artikel  13  
 
@@ -211,7 +220,6 @@ c. verzekerd is krachtens het stelsel van sociale verzekering van een andere mog
 Als werknemer in de zin van de werknemersverzekeringen wordt niet beschouwd de vreemdeling die rechtmatig in Nederland verblijf houdt in de zin van artikel 8, onder a tot en met e, of l, van de Vreemdelingenwet 2000, indien hij in Nederland, met uitzondering van het continentaal plat, arbeid in dienstbetrekking verricht zonder dat aan de Wet arbeid vreemdelingen is voldaan.  
 
 ### Artikel  16b  
-Treedt in werking per 01-01-2015 
 
 Artikel 7, derde lid, is niet van toepassing ten aanzien van de particulier bediende, bedoeld in dat lid, indien deze persoon op de dag van inwerkingtreding van het besluit van 11 december 2014 tot wijziging van het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999, het Besluit uitbreiding en beperking kring verzekerden werknemersverzekeringen 1990 en het Besluit uitbreiding en beperking kring ingezetenen Wet Wajong (Stb. 514) werknemer was in de zin van de werknemersverzekeringen. 
 

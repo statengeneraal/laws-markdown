@@ -56,11 +56,11 @@ b. in geval de donor anders dan in dienstbetrekking, als zelfstandige of als ber
 
 c. de kosten voor zorg, andere diensten of huishoudelijke verzorging aan de donor, waar van toepassing op indicatie, verleend in het kader van de voorbereiding van, de uitvoering van en het herstel na de donatie, bestaande uit: 
 
-1°. de eigen bijdrage en het eigen risico van de donor voor zorg of andere diensten verleend uit hoofde van de Zorgverzekeringswet of de Algemene Wet Bijzondere Ziektekosten;  
+1°. de eigen bijdrage en het eigen risico van de donor voor zorg of andere diensten verleend uit hoofde van de Zorgverzekeringswet of de Wet langdurige zorg;  
 
-2°. de eigen bijdrage van de donor voor huishoudelijke verzorging verleend uit hoofde van de Wet maatschappelijke ondersteuning;  
+2°. de bijdrage van de donor voor een maatwerkvoorziening of persoonsgebonden budget ten behoeve van de zelfredzaamheid verleend krachtens de Wet maatschappelijke ondersteuning 2015;  
 
-3°. de kosten van de donor voor medisch noodzakelijke zorg die aan de donor op schriftelijke medische indicatie is verleend en die niet valt onder de Zorgverzekeringswet of de Algemene Wet Bijzondere Ziektekosten;    
+3°. de kosten van de donor voor medisch noodzakelijke zorg die aan de donor op schriftelijke medische indicatie is verleend en die niet valt onder de Zorgverzekeringswet of de Wet langdurige zorg;    
 
 d. de kosten van reizen, met inbegrip van reizen naar en van Nederland, die de donor en één andere door de donor aangewezen persoon maken in het kader van de voorbereiding van, de uitvoering van en het herstel na een donatie: 
 

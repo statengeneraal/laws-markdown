@@ -34,9 +34,9 @@ Vervallen per 01-01-2012
 
 ### Artikel 4  
 
-1.   Voor de toepassing van artikel 14, tweede lid, van de wet wordt een gedeelte van een maand als een hele maand aangemerkt bij aanvang van de verbruiksperiode vóór de zestiende dag van de kalendermaand en bij einde van de verbruiksperiode na de vijftiende dag van de kalendermaand.  
-2.   Toepassing van het eerste lid kan achterwege blijven indien een gedeelte van een maand in aanmerking wordt genomen naar evenredigheid van het aantal dagen.  
-3.   De verklaring, bedoeld in artikel 14, derde lid, van de wet, wordt ondertekend en bevat ten minste: 
+1.  Voor de toepassing van artikel 14, tweede lid, van de wet wordt een gedeelte van een maand als een hele maand aangemerkt bij aanvang van de verbruiksperiode vóór de zestiende dag van de kalendermaand en bij einde van de verbruiksperiode na de vijftiende dag van de kalendermaand.  
+2.  Toepassing van het eerste lid kan achterwege blijven indien een gedeelte van een maand in aanmerking wordt genomen naar evenredigheid van het aantal dagen.  
+3.  De verklaring, bedoeld in artikel 14, derde lid, van de wet, wordt ondertekend en bevat ten minste:
 
 a. de dagtekening;  
 

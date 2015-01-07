@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het op basis van de uitkomsten van een evaluatie van de [Wet tot behoud van cultuurbezit](../../../../../../../../wet/wet/tot/behoud/van/cultuurbezit/BWBR0003659/README.md) wenselijk is om in [die wet](../../../../../../../../wet/wet/tot/behoud/van/cultuurbezit/BWBR0003659/README.md) zelf de criteria op te nemen aan de hand waarvan wordt bepaald of een voorwerp onder het regime van [die wet](../../../../../../../../wet/wet/tot/behoud/van/cultuurbezit/BWBR0003659/README.md) kan worden gebracht, alsmede om de termijnen van de procedure voor het aankopen van beschermde voorwerpen te bekorten en die procedure te vereenvoudigen en dat het voorts wenselijk is om in [die wet](../../../../../../../../wet/wet/tot/behoud/van/cultuurbezit/BWBR0003659/README.md) een aantal wijzigingen van technische en redactionele aard aan te brengen;
+Alzo Wij in overweging genomen hebben, dat het op basis van de uitkomsten van een evaluatie van de Wet tot behoud van cultuurbezit wenselijk is om in die wet zelf de criteria op te nemen aan de hand waarvan wordt bepaald of een voorwerp onder het regime van die wet kan worden gebracht, alsmede om de termijnen van de procedure voor het aankopen van beschermde voorwerpen te bekorten en die procedure te vereenvoudigen en dat het voorts wenselijk is om in die wet een aantal wijzigingen van technische en redactionele aard aan te brengen;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  
@@ -19,7 +19,7 @@ Wijzigt de Reparatiewet I.
 
 ### Artikel  III  
 
-De artikelen [7 tot en met 14 van de Wet tot behoud van cultuurbezit](../../../../../../../../wet/wet/tot/behoud/van/cultuurbezit/BWBR0003659/README.md), zoals die op de dag voor de inwerkingtreding van deze wet luidden, zijn van toepassing op voorafgaand aan de inwerkingtreding van deze wet: 
+De artikelen 7 tot en met 14 van de Wet tot behoud van cultuurbezit, zoals die op de dag voor de inwerkingtreding van deze wet luidden, zijn van toepassing op voorafgaand aan de inwerkingtreding van deze wet: 
 
 a. aan de inspecteur gemelde ontwerpovereenkomsten, en  
 

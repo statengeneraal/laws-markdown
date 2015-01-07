@@ -5,7 +5,7 @@
 De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,  
 Handelende in overeenstemming met de Minister van Landbouw, Natuurbeheer en Voedselkwaliteit,
 
-Gelet op [artikel 85a, eerste lid, van de Wet op het voortgezet onderwijs](../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [artikel 2.2.3, derde lid, van de Wet educatie en beroepsonderwijs](../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md)
+Gelet op artikel 85a, eerste lid, van de Wet op het voortgezet onderwijs en artikel 2.2.3, derde lid, van de Wet educatie en beroepsonderwijs
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -19,27 +19,27 @@ In deze regeling wordt verstaan onder:
 
 a.  *de minister:* de Minister van Onderwijs, Cultuur en Wetenschap en, voor zover het betreft het onderwijs op het gebied van de landbouw en de natuurlijke omgeving, de Minister van Economische Zaken, Landbouw en Innovatie;  
 
-b.  *school:* een school of scholengemeenschap voor voortgezet onderwijs, bedoeld in [artikel 1 van de Wet op het voortgezet onderwijs](../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), waaronder begrepen het voorbereidend beroepsonderwijs in een agrarisch opleidingscentrum bedoeld in [artikel 1.3.3, van de Wet educatie en beroepsonderwijs](../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+b.  *school:* een school of scholengemeenschap voor voortgezet onderwijs, bedoeld in artikel 1 van de Wet op het voortgezet onderwijs, waaronder begrepen het voorbereidend beroepsonderwijs in een agrarisch opleidingscentrum bedoeld in artikel 1.3.3, van de Wet educatie en beroepsonderwijs;  
 
 c.  *vestiging:* een onderdeel van een school dat conform beschikking van de minister als zodanig mag worden aangeduid en waarvoor toestemming bestaat om voor de bekostiging leerlingen op te tellen.  
 
 d.  *BRP:* basisregistratie personen;  
 
-e.  *basisregister onderwijs:* het basisregister onderwijs, bedoeld in artikel [24b van de Wet op het onderwijstoezicht](../../../../../../../../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md);  
+e.  *basisregister onderwijs:* het basisregister onderwijs, bedoeld in artikel 24b van de Wet op het onderwijstoezicht;  
 
-f.  *persoonsgebonden nummer:* het persoonsgebonden nummer, bedoeld in [artikel 1 van de Wet op het voortgezet onderwijs](../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [artikel 1.1.1, onderdeel y, van de Wet educatie en beroepsonderwijs](../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+f.  *persoonsgebonden nummer:* het persoonsgebonden nummer, bedoeld in artikel 1 van de Wet op het voortgezet onderwijs en artikel 1.1.1, onderdeel y, van de Wet educatie en beroepsonderwijs;  
 
 g.  *teldatum:* 1 oktober van enig kalenderjaar;  
 
-h.  *armoedeprobleemcumulatiegebied:* een cumulatiegebied zoals gehanteerd in de Armoedemonitor 2005 van het Sociaal en Cultureel Planbureau en het Centraal Bureau voor de Statistiek, en vervolgens tweejaarlijks op basis van het Regionaal Inkomensonderzoek geactualiseerd;  
+h.  *armoedeprobleemcumulatiegebied:* een cumulatiegebied zoals gehanteerd in de Armoedemonitor 2005 van het Sociaal en Cultureel Planbureau en het Centraal Bureau voor de Statistiek, en wordt gebaseerd op de postcodetabel van 2009 van het Regionaal Inkomensonderzoek;  
 
-i.  *apc-leerling:* de leerling, die op grond van [artikel 7 van het Bekostigingsbesluit W.V.O](../../../../../../../../../../../AMvB/bekostigingsbesluit/wvo/BWBR0005672/README.md). of op grond van [artikel 2.3.2 Uitvoeringsbesluit WEB](../../../../../../../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md) voor bekostiging wordt meegeteld en die woonachtig is in een postcodegebied dat valt in een armoedeprobleemcumulatiegebied;  
+i.  *apc-leerling:* de leerling, die op grond van artikel 7 van het Bekostigingsbesluit W.V.O. of op grond van artikel 2.3.2 Uitvoeringsbesluit WEB voor bekostiging wordt meegeteld en die woonachtig is in een postcodegebied dat valt in een armoedeprobleemcumulatiegebied;  
 
 j.  *L+A-leerling:* apc-leerling op een vestiging die voor bekostiging in aanmerking komt op grond van artikel 4 van deze regeling;  
 
-k.  *Nieuwkomer VO:* de leerling, die op grond van [artikel 7 van het Bekostigingsbesluit W.V.O.](../../../../../../../../../../../AMvB/bekostigingsbesluit/wvo/BWBR0005672/README.md) of op grond van [artikel 2.3.2 Uitvoeringsbesluit WEB](../../../../../../../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md) voor bekostiging wordt meegeteld en die vreemdeling is als bedoeld in [artikel 1, onderdeel m, van de Vreemdelingenwet 2000](../../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en op de teldatum korter dan één jaar dan wel één tot twee jaar in Nederland verblijft;  
+k.  *Nieuwkomer VO:* de leerling, die op grond van artikel 7 van het Bekostigingsbesluit W.V.O. of op grond van artikel 2.3.2 Uitvoeringsbesluit WEB voor bekostiging wordt meegeteld en die vreemdeling is als bedoeld in artikel 1, onderdeel m, van de Vreemdelingenwet 2000 en op de teldatum korter dan één jaar dan wel één tot twee jaar in Nederland verblijft;  
 
-l.  *schoolplan:* het schoolplan, bedoeld in [artikel 24 van de Wet op het voortgezet onderwijs](../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+l.  *schoolplan:* het schoolplan, bedoeld in artikel 24 van de Wet op het voortgezet onderwijs;  
 
 m.  *Vreemdeling:* Leerling die 
 
@@ -77,9 +77,9 @@ n.  *peildatum:* 1 april of 1 oktober van enig kalenderjaar.
 
 1.  De verstrekking van aanvullende personele bekostiging, bedoeld in artikel 2, eerste lid, vindt plaats voor één kalenderjaar.   
 2.  De aanvullende personele bekostiging wordt bepaald op grond van het aantal L+A-leerlingen dat op de teldatum van enig kalenderjaar bij de school als werkelijk schoolgaand staat ingeschreven.   
-3.  Verstrekking van de aanvullende personele bekostiging vindt uiterlijk in de maand mei plaats na de teldatum waarop voor de tweede maal de drempel, bedoeld in artikel 4, eerste lid, is gehaald. Als teldata gelden 1 oktober 2011 en 1 oktober 2012.   
+3.  Verstrekking van de aanvullende personele bekostiging vindt uiterlijk in de maand mei plaats na de teldatum waarop voor de tweede maal de drempel, bedoeld in artikel 4, eerste lid, is gehaald. Als teldata gelden 1 oktober 2013 en 1 oktober 2014.   
 4.  De betaling van de aanvullende personele bekostiging vindt plaats volgens het betaalritme van de reguliere personele bekostiging.   
-5.  De minister kan de hoogte van de aanvullende personele bekostiging wijzigen indien de verklaring van de accountant, bedoeld in de [artikelen 14a, tweede lid, onder c](../../../../../../../../../../../AMvB/bekostigingsbesluit/wvo/BWBR0005672/README.md), en [15b, zesde lid, onder c, van het Bekostigingsbesluit W.V.O.](../../../../../../../../../../../AMvB/bekostigingsbesluit/wvo/BWBR0005672/README.md), daartoe aanleiding geeft.   
+5.  De minister kan de hoogte van de aanvullende personele bekostiging wijzigen indien de verklaring van de accountant, bedoeld in de artikelen 14a, tweede lid, onder c, en 15b, zesde lid, onder c, van het Bekostigingsbesluit W.V.O., daartoe aanleiding geeft.   
 6.  Vaststelling van de aanvullende personele bekostiging vindt plaats na de verstrekking van de aanvullende personele bekostiging, bedoeld in het derde lid, en binnen zes maanden na ontvangst van de verklaring van de accountant, bedoeld in het vijfde lid.  
 
 ### Artikel  4  
@@ -137,17 +137,17 @@ Indien in de periode tussen de eerste teldatum en de daarop volgende teldatum, b
 
 1.  De verstrekking van de aanvullende personele bekostiging, bedoeld in artikel 2, tweede lid, is gebaseerd op het aantal Nieuwkomers VO dat op de teldatum van enig kalenderjaar bij de school als werkelijk schoolgaand staat ingeschreven.   
 2.  De verstrekking van de aanvullende personele bekostiging vindt plaats op basis van de per teldatum door het bevoegd gezag van de school aangeleverde gegevens en wordt toegekend voor één kalenderjaar.   
-3.  De aanvullende personele bekostiging wordt bepaald door de som van het aantal formatieplaatsen vastgesteld op grond van artikel 9, vierde lid, te vermenigvuldigen met de voor de school geldende gemiddelde personeelslast voor leerkrachten ingevolge [artikel 85 van de Wet op het voortgezet onderwijs](../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en wordt rekenkundig afgerond op twee decimalen.   
+3.  De aanvullende personele bekostiging wordt bepaald door de som van het aantal formatieplaatsen vastgesteld op grond van artikel 9, vierde lid, te vermenigvuldigen met de voor de school geldende gemiddelde personeelslast voor leerkrachten ingevolge artikel 85 van de Wet op het voortgezet onderwijs en wordt rekenkundig afgerond op twee decimalen.   
 4.  Verstrekking van de aanvullende personele bekostiging vindt plaats uiterlijk in de maand maart na de teldatum.   
 5.  De betaling van de aanvullende personele bekostiging Nieuwkomers VO vindt plaats volgens het betaalritme van de reguliere personele bekostiging.   
-6.  De minister kan de hoogte van de aanvullende personele bekostiging wijzigen, indien de verklaring van de accountant, bedoeld in de [artikelen 14a, tweede lid, onder c](../../../../../../../../../../../AMvB/bekostigingsbesluit/wvo/BWBR0005672/README.md), en [15b, zesde lid, onder c, van het Bekostigingsbesluit W.V.O.](../../../../../../../../../../../AMvB/bekostigingsbesluit/wvo/BWBR0005672/README.md), daartoe aanleiding geeft.   
+6.  De minister kan de hoogte van de aanvullende personele bekostiging wijzigen, indien de verklaring van de accountant, bedoeld in de artikelen 14a, tweede lid, onder c, en 15b, zesde lid, onder c, van het Bekostigingsbesluit W.V.O., daartoe aanleiding geeft.   
 7.  Vaststelling van de aanvullende personele bekostiging vindt plaats na de verstrekking van de aanvullende personele bekostiging, bedoeld in het vierde lid, en binnen zes maanden na ontvangst van de verklaring van de accountant, bedoeld in het zesde lid.  
 
 ### Artikel  8  
 
 ####Uitzondering op aanvullende personele bekostiging
 
-De minister kent geen aanvullende personele bekostiging Nieuwkomers VO toe aan het bevoegd gezag van een school in het geval de Nieuwkomers VO een cursus Engels-Nederlandstalig onderwijs of een cursus voor het Internationaal Baccalaureaat volgen. 
+De minister kent geen aanvullende personele bekostiging Nieuwkomers VO toe aan het bevoegd gezag van een school in het geval de Nieuwkomers VO internationaal georiënteerd voortgezet onderwijs of Europees Secundair Onderwijs volgen. 
 
 ### Artikel  9  
 
@@ -161,7 +161,7 @@ a. in geval van Nieuwkomers VO op de teldatum korter dan één jaar in Nederland
 b. in geval van Nieuwkomers VO op de teldatum van één tot twee jaar in Nederland: 1/25.     
 3.  De Nieuwkomer VO kan ten hoogste één keer in aanmerking komen voor dezelfde ratio, bedoeld in het tweede lid.   
 4.  Het aantal formatieplaatsen dat de uitkomst is van de berekening op grond van het eerste lid, wordt rekenkundig afgerond op drie decimalen.   
-5.  De Minister van Landbouw, Natuurbeheer en Voedselkwaliteit kent op grond van [artikel 2.3.2, tweede lid, van het Uitvoeringsbesluit WEB](../../../../../../../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md), voor de nieuwkomers VO voor het voorbereidend beroepsonderwijs in een agrarisch opleidingscentrum een bedrag toe dat gelijk is aan de uitkomst van de berekening in het vierde lid, vermenigvuldigd met de voor de bedoelde school geldende gemiddelde personeelslast voor leerkrachten, bedoeld in artikel 7, derde lid.  
+5.  De Minister van Landbouw, Natuurbeheer en Voedselkwaliteit kent op grond van artikel 2.3.2, tweede lid, van het Uitvoeringsbesluit WEB, voor de nieuwkomers VO voor het voorbereidend beroepsonderwijs in een agrarisch opleidingscentrum een bedrag toe dat gelijk is aan de uitkomst van de berekening in het vierde lid, vermenigvuldigd met de voor de bedoelde school geldende gemiddelde personeelslast voor leerkrachten, bedoeld in artikel 7, derde lid.  
 
 ### Artikel  10  
 
@@ -220,7 +220,7 @@ b. 1 april: voor de periode januari direct voorafgaand aan deze peildatum tot en
 ####Gegevenslevering
 
 1.  Voor het aantonen van de juistheid van de door het bevoegd gezag te verstrekken gegevens over Vreemdelingen per peildatum 1 oktober is artikel 10 van overeenkomstige toepassing.   
-2.  Voor het aantonen van juistheid van de te verstrekken gegevens over Vreemdelingen per peildatum 1 april draagt het bevoegd gezag er zorg voor dat de door de minister verstrekte gegevens, bedoeld in [artikel 103c, eerste lid, tweede volzin, van de Wet op het voortgezet onderwijs](../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), in de administratie van de school zijn opgenomen. Indien deze gegevens over nationaliteit en verblijfsduur ontbreken in de administratie van de school, draagt het bevoegd gezag er zorg voor dat een kopie van een of meer van de documenten genoemd in bijlage 1, aanwezig is in de administratie van de school.  
+2.  Voor het aantonen van juistheid van de te verstrekken gegevens over Vreemdelingen per peildatum 1 april draagt het bevoegd gezag er zorg voor dat de door de minister verstrekte gegevens, bedoeld in artikel 103c, eerste lid, tweede volzin, van de Wet op het voortgezet onderwijs, in de administratie van de school zijn opgenomen. Indien deze gegevens over nationaliteit en verblijfsduur ontbreken in de administratie van de school, draagt het bevoegd gezag er zorg voor dat een kopie van een of meer van de documenten genoemd in bijlage 1, aanwezig is in de administratie van de school.  
 
 ### Hoofdstuk  3  
 
@@ -262,9 +262,9 @@ A: de aanvullende personele bekostiging die een school voor kalenderjaar 2007 he
 
 B: de aanvullende personele bekostiging die een school ontvangt voor kalenderjaar 2009 op grond van hoofdstuk 2, paragraaf 2, van deze regeling;  
 
-C: 2,5% van de totale personele lumpsumbekostiging van de betreffende school op grond van [artikel 8 van het Formatiebesluit W.V.O.](../../../../../../../../../../../AMvB/formatiebesluit/wvo/BWBR0005446/README.md), berekend met de op 1 januari 2009 voor de school geldende personeelslasten.     
+C: 2,5% van de totale personele lumpsumbekostiging van de betreffende school op grond van artikel 8 van het Formatiebesluit W.V.O., berekend met de op 1 januari 2009 voor de school geldende personeelslasten.     
 3.  Verstrekking en betaling van het compensatiebudget vindt in zijn geheel plaats uiterlijk in de maand maart van het kalenderjaar 2009.   
-4.  De minister kan de hoogte van het compensatiebudget wijzigen, indien de verklaring van de accountant, bedoeld in de [artikelen 14a, tweede lid, onder c](../../../../../../../../../../../AMvB/bekostigingsbesluit/wvo/BWBR0005672/README.md), en [15b, zesde lid, onder c, van het Bekostigingsbesluit W.V.O.](../../../../../../../../../../../AMvB/bekostigingsbesluit/wvo/BWBR0005672/README.md), daartoe aanleiding geeft.   
+4.  De minister kan de hoogte van het compensatiebudget wijzigen, indien de verklaring van de accountant, bedoeld in de artikelen 14a, tweede lid, onder c, en 15b, zesde lid, onder c, van het Bekostigingsbesluit W.V.O., daartoe aanleiding geeft.   
 5.  Vaststelling van het compensatiebudget vindt plaats na de vaststelling van de aanvullende personele bekostiging, bedoeld in het derde lid, en binnen zes maanden na ontvangst van de verklaring van de accountant, bedoeld in het vierde lid.  
 
 ### Hoofdstuk  6  
@@ -275,18 +275,18 @@ C: 2,5% van de totale personele lumpsumbekostiging van de betreffende school op 
 
 ####Intrekking
 
-1.  De [Regeling Leerplusarrangement VO en Nieuwkomers VO](../../../../../../../../../../../ministeriele-regeling/regeling/leerplusarrangement/vo/en/nieuwkomers/vo/BWBR0019753/README.md) wordt ingetrokken.   
-2.  De [Regeling schaduwdraaien en wijziging Regeling Leerplusarrangement](../../../../../../../../../../../ministeriele-regeling/regeling/schaduwdraaien/en/wijziging/regeling/leerplusarrangement/BWBR0022316/README.md) wordt ingetrokken.  
+1.  De Regeling Leerplusarrangement VO en Nieuwkomers VO wordt ingetrokken.   
+2.  De Regeling schaduwdraaien en wijziging Regeling Leerplusarrangement wordt ingetrokken.  
 
 ### Artikel  19a  
 
 ####Overgangsrecht voor de periode 1 augustus 2006 tot en met 31 december 2006
 
-De bepaling in [artikel 2, eerste lid, van de Regeling aanvullende personele bekostiging culturele minderheidsgroepen en anderstalige leerlingen WVO 2002](../../../../../../../../../../../ministeriele-regeling/regeling/aanvullende/personele/bekostiging/culturele/minderheidsgroepen/en/etc/BWBR0013591/README.md) ter zake van de bekostiging blijft van kracht voor de periode van 1 augustus 2006 tot en met 31 december 2006. 
+De bepaling in artikel 2, eerste lid, van de Regeling aanvullende personele bekostiging culturele minderheidsgroepen en anderstalige leerlingen WVO 2002 ter zake van de bekostiging blijft van kracht voor de periode van 1 augustus 2006 tot en met 31 december 2006. 
 
 ### Artikel  20  
 
-####Overgangsrecht elektronisch bestand van 1 oktober 2007 van scholen voor praktijkonderwijs als bedoeld in [artikel 9 van het Besluit RVC’s, regionaal zorgbudget en praktijkscholen met declaratiebekostiging](../../../../../../../../../../../AMvB/besluit/rvc's/en/regionaal/zorgbudget/BWBR0015137/README.md), zoals dat luidde op 31 juli 2006
+####Overgangsrecht elektronisch bestand van 1 oktober 2007 van scholen voor praktijkonderwijs als bedoeld in artikel 9 van het Besluit RVC’s, regionaal zorgbudget en praktijkscholen met declaratiebekostiging, zoals dat luidde op 31 juli 2006
 
 Bij een afwijking van het elektronisch bestand van 1 oktober 2007 van meer dan 1% van de integrale leerlingtelling van 1 oktober 2007 vindt voor het bevoegd gezag van de school met betrekking tot de teldatum 1 oktober 2007 geen toepassing plaats van artikel 4, eerste lid. 
 
@@ -294,7 +294,7 @@ Bij een afwijking van het elektronisch bestand van 1 oktober 2007 van meer dan 
 
 ####Overgangsrecht leerlingentelling bij omzetten dislocatie in vestiging
 
-1.  In afwijking van artikel 6a worden de leerlingen van een dislocatie die op grond van [artikel III, negende lid, van de Wet van 11 juli 2008 tot wijziging van onder meer de Wet op het voortgezet onderwijs ter modernisering, vereenvoudiging en beperking van de wettelijke regels over de voorzieningenplanning bij scholen](../../../../../../../../../../../wet/wijzigingswet/wet/op/het/voortgezet/onderwijs/enz./(modernisering/etc/BWBR0024243/README.md) (Stb. 2008, 296), wordt omgezet in een nevenvestiging of tijdelijke nevenvestiging, voor de toepassing van artikel 4, eerste lid, eenmalig toegerekend aan de vestiging waar de dislocatie deel van uitmaakte, indien: 
+1.  In afwijking van artikel 6a worden de leerlingen van een dislocatie die op grond van artikel III, negende lid, van de Wet van 11 juli 2008 tot wijziging van onder meer de Wet op het voortgezet onderwijs ter modernisering, vereenvoudiging en beperking van de wettelijke regels over de voorzieningenplanning bij scholen (Stb. 2008, 296), wordt omgezet in een nevenvestiging of tijdelijke nevenvestiging, voor de toepassing van artikel 4, eerste lid, eenmalig toegerekend aan de vestiging waar de dislocatie deel van uitmaakte, indien: 
 
 a. de dislocatie tussen de twee teldata van een cyclus wordt omgezet, en  
 
@@ -330,7 +330,7 @@ A. Nationaliteit
 
 * Pasje (kopie voor- en achterkant): W-document en/of verblijfsvergunning voor bepaalde tijd asiel (VVA-bep) of verblijfsvergunning voor bepaalde tijd regulier (VVR-bep)  
 
-* Beschikking minister van Justitie op grond van [artikel 9 van de Vreemdelingenwet](../../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md)  
+* Beschikking minister van Justitie op grond van artikel 9 van de Vreemdelingenwet  
 
 * Rapportage IND  
 
@@ -340,7 +340,7 @@ B. Verblijfsduur
 
 * Datumstempel in paspoort bij binnenkomst in Nederland  
 
-* Beschikking minister van Justitie op grond van [artikel 9 van de Vreemdelingenwet](../../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md)  
+* Beschikking minister van Justitie op grond van artikel 9 van de Vreemdelingenwet  
 
 * Rapportage IND  
 
@@ -355,22 +355,20 @@ B. Verblijfsduur
 
 ### Bijlage  3  
 
-####bij artikel 4 
-
-Per elementcode wordt hieronder aangegeven tot welke groep deze gerekend wordt  
+####, behorende bij artikel 4, tweede lid , van de Regeling Leerplusarrangement VO, Nieuwkomers VO en eerste opvang Vreemdelingen 2009
 
 | GROEP  | DREMPEL  |
 |:---|:---|
 | GROEP 1 VMBO  | 30%  |
 | GROEP 2 PRO  | 30%  |
 | GROEP 3 HAVO  | 50%  |
-| GROEP 4 VWO  | 60%  |
+| GROEP 4 VWO  | 65%  |
 | GROEP 5 GEMENGD MET VMBO  | 30%  |
 | GROEP 6 GEMENGD MET AVO  | 50%  |
 
-Elementcodetabel VO schooljaar 2010–2011 
+Elementcodetabel VO schooljaar 2014–2015 
 
-| ELEMENTCODE  | OMSCHRIJVING  | GROEP  |
+| ELMENTCODE  | KORTE OMSCHRIJVING  | GROEP  |
 |:---|:---|:---|
 | 0011  | Ljvb op HAVO/VMBO-Th/Gm Lw  | 5  |
 | 0012  | Ljvb op VMBO-Gm Lw  | 1  |
@@ -421,12 +419,15 @@ Elementcodetabel VO schooljaar 2010–2011
 | 0374  | HAVO Prf Nat/Tech & Nat/Gezond  | 3  |
 | 0375  | HAVO Prf Nat/Tech & Ec/Maat  | 3  |
 | 0376  | HAVO Prf Nat/Tech & Cul/Maat  | 3  |
-| 0377  | HAVO Prf Nat/Gezond &Cul/Maat  | 3  |
+| 0377  | HAVO Prf Nat/Gezond & Cul/Maat  | 3  |
 | 0378  | HAVO Prf Nat/Gezond & Ec/Maat  | 3  |
 | 0379  | HAVO Prf Ec/Maat & Cul/Maat  | 3  |
 | 0400  | MAVO/Theor Lw-VMBO  | 1  |
-| 0700  | Internation. Baccalaureate middle years programme  | 3  |
-| 0800  | Internation. Baccalaureate diplom programme  | 4  |
+| 0700  | International Baccalaureate middle years programme  | 3  |
+| 0800  | International Baccalaureate diplom programme  | 4  |
+| 0801  | International Baccalaureate diplom programme Dutch Residents  | 4  |
+| 0802  | European Secondary School ESS 1-5  | 4  |
+| 0803  | European Secondary School ESS 6-7  | 4  |
 | 1393  | LWOO KRBvrt Algemeen Leerjaar  | 1  |
 | 1397  | LWOO Hvs Algemeen Leerjaar  | 1  |
 | 1908  | VBO Hvs Algemeen Leerjaar  | 1  |
@@ -437,11 +438,11 @@ Elementcodetabel VO schooljaar 2010–2011
 | 2313  | LWOO Gemengde Lw Tech Elektro  | 1  |
 | 2314  | LWOO Gemengde Lw Tech Vrtgn  | 1  |
 | 2315  | LWOO Gemengde Lw Tech Instal  | 1  |
-| 2316  | LWOO Gemengde Lw Tech Grafimedia  | 1  |
+| 2316  | LWOO Gemengde Lw Grafimedia  | 1  |
 | 2317  | LWOO Gemengde Lw Tech T & L  | 1  |
-| 2318  | LWOO Gemengde Lw Tech KRBvrt (24.5)  | 1  |
-| 2319  | LWOO Gemengde Lw Tech Hvs (24.5)  | 1  |
-| 2320  | LWOO Gemengde Lw Tech M & T (24.5)  | 1  |
+| 2318  | LWOO Gemengde Lw Tech KRBvrt  | 1  |
+| 2319  | LWOO Gemengde Lw Tech Hvs  | 1  |
+| 2320  | LWOO Gemengde Lw Tech M & T  | 1  |
 | 2321  | LWOO Gemengde Lw Tech ME-ISP  | 1  |
 | 2322  | LWOO Gemengde Lw Tech IE-ISP  | 1  |
 | 2323  | LWOO Gemengde Lw Tech BB-ISP  | 1  |
@@ -461,11 +462,11 @@ Elementcodetabel VO schooljaar 2010–2011
 | 2413  | LWOO Kaderbg Lw Tech Elektro  | 1  |
 | 2414  | LWOO Kaderbg Lw Tech Vrtgn  | 1  |
 | 2415  | LWOO Kaderbg Lw Tech Instal  | 1  |
-| 2416  | LWOO Kaderbg Lw Tech Grafimedia  | 1  |
+| 2416  | LWOO Kaderbg Lw Grafimedia  | 1  |
 | 2417  | LWOO Kaderbg Lw Tech T & L  | 1  |
-| 2418  | LWOO Kaderbg Lw Tech KRBvrt (24.5)  | 1  |
-| 2419  | LWOO Kaderbg Lw Tech Hvs (24.5)  | 1  |
-| 2420  | LWOO Kaderbg Lw Tech M & T (24.5)  | 1  |
+| 2418  | LWOO Kaderbg Lw Tech KRBvrt  | 1  |
+| 2419  | LWOO Kaderbg Lw Tech Hvs  | 1  |
+| 2420  | LWOO Kaderbg Lw Tech M & T  | 1  |
 | 2421  | LWOO Kaderbg Lw Tech ME-ISP  | 1  |
 | 2422  | LWOO Kaderbg Lw Tech IE-ISP  | 1  |
 | 2423  | LWOO Kaderbg Lw Tech BB-ISP  | 1  |
@@ -485,11 +486,11 @@ Elementcodetabel VO schooljaar 2010–2011
 | 2513  | LWOO Basisbg Lw Tech Elektro  | 1  |
 | 2514  | LWOO Basisbg Lw Tech Vrtgn  | 1  |
 | 2515  | LWOO Basisbg Lw Tech Instal  | 1  |
-| 2516  | LWOO Basisbg Lw Tech Grafimedia  | 1  |
+| 2516  | LWOO Basisbg Lw Grafimedia  | 1  |
 | 2517  | LWOO Basisbg Lw Tech T & L  | 1  |
-| 2518  | LWOO Basisbg Lw Tech KRBvrt (24.5)  | 1  |
-| 2519  | LWOO Basisbg Lw Tech Hvs (24.5)  | 1  |
-| 2520  | LWOO Basisbg Lw Tech M & T (24.5)  | 1  |
+| 2518  | LWOO Basisbg Lw Tech KRBvrt  | 1  |
+| 2519  | LWOO Basisbg Lw Tech Hvs  | 1  |
+| 2520  | LWOO Basisbg Lw Tech M & T  | 1  |
 | 2521  | LWOO Basisbg Lw Tech ME-ISP  | 1  |
 | 2522  | LWOO Basisbg Lw Tech IE-ISP  | 1  |
 | 2523  | LWOO Basisbg Lw Tech BB-ISP  | 1  |
@@ -509,11 +510,11 @@ Elementcodetabel VO schooljaar 2010–2011
 | 2613  | LWOO Basisbg Lw LWT Tech Elektro  | 1  |
 | 2614  | LWOO Basisbg Lw LWT Tech Vrtgn  | 1  |
 | 2615  | LWOO Basisbg Lw LWT Tech Instal  | 1  |
-| 2616  | LWOO Basisbg Lw LWT Tech Grafimedia  | 1  |
+| 2616  | LWOO Basisbg Lw LWT Grafimedia  | 1  |
 | 2617  | LWOO Basisbg Lw LWT Tech T & L  | 1  |
-| 2618  | LWOO Basisbg Lw LWT Tech KRBvrt (24.5)  | 1  |
-| 2619  | LWOO Basisbg Lw LWT Tech Hvs (24.5)  | 1  |
-| 2620  | LWOO Basisbg Lw LWT Tech M & T (24.5)  | 1  |
+| 2618  | LWOO Basisbg Lw LWT Tech KRBvrt  | 1  |
+| 2619  | LWOO Basisbg Lw LWT Tech Hvs  | 1  |
+| 2620  | LWOO Basisbg Lw LWT Tech M & T  | 1  |
 | 2621  | LWOO Basisbg Lw LWT Tech ME-ISP  | 1  |
 | 2622  | LWOO Basisbg Lw LWT Tech IE-ISP  | 1  |
 | 2623  | LWOO Basisbg Lw LWT Tech BB-ISP  | 1  |
@@ -533,11 +534,11 @@ Elementcodetabel VO schooljaar 2010–2011
 | 2713  | VMBO Gemengde Lw Tech Elektro  | 1  |
 | 2714  | VMBO Gemengde Lw Tech Vrtgn  | 1  |
 | 2715  | VMBO Gemengde Lw Tech Instal  | 1  |
-| 2716  | VMBO Gemengde Lw Tech Grafimedia  | 1  |
+| 2716  | VMBO Gemengde Lw Grafimedia  | 1  |
 | 2717  | VMBO Gemengde Lw Tech T & L  | 1  |
-| 2718  | VMBO Gemengde Lw Tech KRBvrt (24.5)  | 1  |
-| 2719  | VMBO Gemengde Lw Tech Hvs (24.5)  | 1  |
-| 2720  | VMBO Gemengde Lw Tech M & T (24.5)  | 1  |
+| 2718  | VMBO Gemengde Lw Tech KRBvrt  | 1  |
+| 2719  | VMBO Gemengde Lw Tech Hvs  | 1  |
+| 2720  | VMBO Gemengde Lw Tech M & T  | 1  |
 | 2721  | VMBO Gemengde Lw Tech ME-ISP  | 1  |
 | 2722  | VMBO Gemengde Lw Tech IE-ISP  | 1  |
 | 2723  | VMBO Gemengde Lw Tech BB-ISP  | 1  |
@@ -557,11 +558,11 @@ Elementcodetabel VO schooljaar 2010–2011
 | 2813  | VMBO Kaderbg Lw Tech Elektro  | 1  |
 | 2814  | VMBO Kaderbg Lw Tech Vrtgn  | 1  |
 | 2815  | VMBO Kaderbg Lw Tech Instal  | 1  |
-| 2816  | VMBO Kaderbg Lw Tech Grafimedia  | 1  |
+| 2816  | VMBO Kaderbg Lw Grafimedia  | 1  |
 | 2817  | VMBO Kaderbg Lw Tech T & L  | 1  |
-| 2818  | VMBO Kaderbg Lw Tech KRBvrt (24.5)  | 1  |
-| 2819  | VMBO Kaderbg Lw Tech Hvs (24.5)  | 1  |
-| 2820  | VMBO Kaderbg Lw Tech M & T (24.5)  | 1  |
+| 2818  | VMBO Kaderbg Lw Tech KRBvrt  | 1  |
+| 2819  | VMBO Kaderbg Lw Tech Hvs  | 1  |
+| 2820  | VMBO Kaderbg Lw Tech M & T  | 1  |
 | 2821  | VMBO Kaderbg Lw Tech ME-ISP  | 1  |
 | 2822  | VMBO Kaderbg Lw Tech IE-ISP  | 1  |
 | 2823  | VMBO Kaderbg Lw Tech BB-ISP  | 1  |
@@ -581,11 +582,11 @@ Elementcodetabel VO schooljaar 2010–2011
 | 2913  | VMBO Basisbg Lw Tech Elektro  | 1  |
 | 2914  | VMBO Basisbg Lw Tech Vrtgn  | 1  |
 | 2915  | VMBO Basisbg Lw Tech Instal  | 1  |
-| 2916  | VMBO Basisbg Lw Tech Grafimedia  | 1  |
+| 2916  | VMBO Basisbg Lw Grafimedia  | 1  |
 | 2917  | VMBO Basisbg Lw Tech T & L  | 1  |
-| 2918  | VMBO Basisbg Lw Tech KRBvrt (24.5)  | 1  |
-| 2919  | VMBO Basisbg Lw Tech Hvs (24.5)  | 1  |
-| 2920  | VMBO Basisbg Lw Tech M & T (24.5)  | 1  |
+| 2918  | VMBO Basisbg Lw Tech KRBvrt  | 1  |
+| 2919  | VMBO Basisbg Lw Tech Hvs  | 1  |
+| 2920  | VMBO Basisbg Lw Tech M & T  | 1  |
 | 2921  | VMBO Basisbg Lw Tech ME-ISP  | 1  |
 | 2922  | VMBO Basisbg Lw Tech IE-ISP  | 1  |
 | 2923  | VMBO Basisbg Lw Tech BB-ISP  | 1  |
@@ -605,11 +606,11 @@ Elementcodetabel VO schooljaar 2010–2011
 | 3013  | VMBO Basisbg Lw LWT Tech Elektro  | 1  |
 | 3014  | VMBO Basisbg Lw LWT Tech Vrtgn  | 1  |
 | 3015  | VMBO Basisbg Lw LWT Tech Instal  | 1  |
-| 3016  | VMBO Basisbg Lw LWT Tech Grafimedia  | 1  |
+| 3016  | VMBO Basisbg Lw LWT Grafimedia  | 1  |
 | 3017  | VMBO Basisbg Lw LWT Tech T & L  | 1  |
-| 3018  | VMBO Basisbg Lw LWT Tech KRBvrt (24.5)  | 1  |
-| 3019  | VMBO Basisbg Lw LWT Tech Hvs (24.5)  | 1  |
-| 3020  | VMBO Basisbg Lw LWT Tech M & T (24.5)  | 1  |
+| 3018  | VMBO Basisbg Lw LWT Tech KRBvrt  | 1  |
+| 3019  | VMBO Basisbg Lw LWT Tech Hvs  | 1  |
+| 3020  | VMBO Basisbg Lw LWT Tech M & T  | 1  |
 | 3021  | VMBO Basisbg Lw LWT Tech ME-ISP  | 1  |
 | 3022  | VMBO Basisbg Lw LWT Tech IE-ISP  | 1  |
 | 3023  | VMBO Basisbg Lw LWT Tech BB-ISP  | 1  |
@@ -629,11 +630,11 @@ Elementcodetabel VO schooljaar 2010–2011
 | 3113  | LWOO Basisbg Lw A O Tech Elektro  | 1  |
 | 3114  | LWOO Basisbg Lw A O Tech Vrtgn  | 1  |
 | 3115  | LWOO Basisbg Lw A O Tech Instal  | 1  |
-| 3116  | LWOO Basisbg Lw A O Tech Grafimedia  | 1  |
+| 3116  | LWOO Basisbg Lw A O Grafimedia  | 1  |
 | 3117  | LWOO Basisbg Lw A O Tech T & L  | 1  |
-| 3118  | LWOO Basisbg Lw A O Tech KRBvrt (24.5)  | 1  |
-| 3119  | LWOO Basisbg Lw A O Tech Hvs (24.5)  | 1  |
-| 3120  | LWOO Basisbg Lw A O Tech M & T (24.5)  | 1  |
+| 3118  | LWOO Basisbg Lw A O Tech KRBvrt  | 1  |
+| 3119  | LWOO Basisbg Lw A O Tech Hvs  | 1  |
+| 3120  | LWOO Basisbg Lw A O Tech M & T  | 1  |
 | 3121  | LWOO Basisbg Lw A O Tech ME-ISP  | 1  |
 | 3122  | LWOO Basisbg Lw A O Tech IE-ISP  | 1  |
 | 3123  | LWOO Basisbg Lw A O Tech BB-ISP  | 1  |
@@ -653,11 +654,11 @@ Elementcodetabel VO schooljaar 2010–2011
 | 3213  | VMBO Basisbg Lw A O Tech Elektro  | 1  |
 | 3214  | VMBO Basisbg Lw A O Tech Vrtgn  | 1  |
 | 3215  | VMBO Basisbg Lw A O Tech Instal  | 1  |
-| 3216  | VMBO Basisbg Lw A O Tech Grafimedia  | 1  |
+| 3216  | VMBO Basisbg Lw A O Grafimedia  | 1  |
 | 3217  | VMBO Basisbg Lw A O Tech T & L  | 1  |
-| 3218  | VMBO Basisbg Lw A O Tech KRBvrt (24.5)  | 1  |
-| 3219  | VMBO Basisbg Lw A O Tech Hvs (24.5)  | 1  |
-| 3220  | VMBO Basisbg Lw A O Tech M & T (24.5)  | 1  |
+| 3218  | VMBO Basisbg Lw A O Tech KRBvrt  | 1  |
+| 3219  | VMBO Basisbg Lw A O Tech Hvs  | 1  |
+| 3220  | VMBO Basisbg Lw A O Tech M & T  | 1  |
 | 3221  | VMBO Basisbg Lw A O Tech ME-ISP  | 1  |
 | 3222  | VMBO Basisbg Lw A O Tech IE-ISP  | 1  |
 | 3223  | VMBO Basisbg Lw A O Tech BB-ISP  | 1  |
@@ -670,20 +671,20 @@ Elementcodetabel VO schooljaar 2010–2011
 | 3254  | VMBO Basisbg Lw A O Ec Cons  | 1  |
 | 3261  | VMBO Basisbg Lw A O Ec CB-ISP  | 1  |
 | 3262  | VMBO Basisbg Lw A O Ec HA-ISP  | 1  |
-| 3271  | VMBO Basisbg Lw A O Landb LNO  | 1  |
+| 3271  | VMBO Basisbg Lw A.O.Landb LNO  | 1  |
 | 3281  | VMBO Basisbg Lw A O Landb LB-ISP  | 1  |
 | 3311  | LWOO Basisbg Lw TB-ISP  | 1  |
 | 3312  | LWOO Kaderbg Lw TB-ISP  | 1  |
 | 3313  | LWOO Gemengde Lw TB-ISP  | 1  |
 | 3314  | LWOO Basisbg Lw LWT TB-ISP  | 1  |
 | 3321  | LWOO Basisbg Lw ICT-route  | 1  |
-| 3322  | LWOO Kaderbg Lw ICT-route  | 1  |
+| 3322  | LWOO Kaderbg Lw ICT-toute  | 1  |
 | 3323  | LWOO Gemengde Lw ICT-route  | 1  |
 | 3324  | LWOO Basisbg Lw LWT ICT-route  | 1  |
 | 3331  | LWOO Basisbg Lw SDV  | 1  |
 | 3332  | LWOO Kaderbg Lw SDV  | 1  |
 | 3334  | LWOO Basisbg Lw LWT SDV  | 1  |
-| 3341  | LWOO Gemengde Lw Technologie(orientatie)  | 1  |
+| 3341  | LWOO Gemengde Lw Technologie (orientatie)  | 1  |
 | 3342  | LWOO Gemengde Lw Techn. Technologie  | 1  |
 | 3343  | LWOO Gemengde Lw Ec. Technologie  | 1  |
 | 3344  | LWOO Gemengde Lw ZrgWlz Technologie  | 1  |
@@ -710,7 +711,7 @@ Elementcodetabel VO schooljaar 2010–2011
 | 3431  | VMBO Basisbg Lw SDV  | 1  |
 | 3432  | VMBO Kaderbg Lw SDV  | 1  |
 | 3434  | VMBO Basisbg Lw LWT SDV  | 1  |
-| 3441  | VMBO Gemengde Lw Technologie(orientatie)  | 1  |
+| 3441  | VMBO Gemengde Lw Technologie (orientatie)  | 1  |
 | 3442  | VMBO Gemengde Lw Techn Technologie  | 1  |
 | 3443  | VMBO Gemengde Lw Ec. Technologie  | 1  |
 | 3444  | VMBO Gemengde Lw ZrgWlz Technologie  | 1  |
@@ -735,39 +736,126 @@ Elementcodetabel VO schooljaar 2010–2011
 | 4040  | VMBO-TL naar VAVO  | 1  |
 | 4045  | VMBO-TL naar VAVO teruggekeerd gezakt  | 1  |
 | 4050  | LWOO VMBO-TL naar VAVO  | 1  |
-| 4055  | LWOO VMBO-TL naar VAVO teruggekeerd gez.  | 1  |
-| 4111  | Exp. VMBO Basisbg. Lw. Tech.- MBO2  | 1  |
-| 4131  | Exp. VMBO Basisbg. Lw. ZrgWlz.- MBO2  | 1  |
-| 4151  | Exp. VMBO Basisbg. Lw. Ec.- MBO2  | 1  |
-| 4171  | Exp. VMBO Basisbg. Lw. Landb LNO.- MBO2  | 1  |
-| 4191  | Exp. VMBO Basisbg. Lw. Intersect.progr.- MBO2  | 1  |
-| 4211  | Borging exp. VM2 LWOO Basisbg. LW Techniek  | 1  |
-| 4231  | Borging exp. VM2 LWOO Basisbg. LW ZrgWlz  | 1  |
+| 4055  | LWOO VMBO-TL naar VAVO teruggekeerd gezakt  | 1  |
+| 4211  | Borging exp. VM2 LWOO Basisbg. LW Intersect. Techn.  | 1  |
+| 4231  | Borging exp. VM2 LWOO Basisbg. LW ZrgWlz.  | 1  |
 | 4251  | Borging exp. VM2 LWOO Basisbg. LW Ec.  | 1  |
-| 4271  | Borging exp. VM2 LWOO Basisbg. LW Landb LNO  | 1  |
+| 4271  | Borging exp. VM2 LWOO Basisbg. LW Land LNO.  | 1  |
 | 4291  | Borging exp. VM2 LWOO Basisbg. LW Intersect. Prog.  | 1  |
-| 4311  | Borging exp. VM2 VMBO Basisbg. LW Techniek  | 1  |
-| 4331  | Borging exp. VM2 VMBO Basisbg. LW ZrgWlz  | 1  |
+| 4311  | Borging exp. VM2 VMBO Basisbg. LW Techn.  | 1  |
+| 4331  | Borging exp. VM2 VMBO Basisbg. LW ZrgWlz.  | 1  |
 | 4351  | Borging exp. VM2 VMBO Basisbg. LW Ec.  | 1  |
-| 4371  | Borging exp. VM2 VMBO Basisbg. LW Landb LNO  | 1  |
+| 4371  | Borging exp. VM2 VMBO Basisbg. LW Land LNO.  | 1  |
 | 4391  | Borging exp. VM2 VMBO Basisbg. LW Intersect. Prog.  | 1  |
+| 4411  | LWO0 BBG Vakmanschapsroute Techniek  | 1  |
+| 4412  | LWOO KBG Vakmanschapsroute Techniek  | 1  |
+| 4431  | LWOO BBG Vakmanschapsroute Zorg en Welzijn  | 1  |
+| 4432  | LWOO KBG Vakmanschapsroute Zorg en Welzijn  | 1  |
+| 4451  | LWOO BBG Vakmanschapsroute Economie  | 1  |
+| 4452  | LWOO KBG Vakmanschapsroute Economie  | 1  |
+| 4471  | LWOO BBG Vakmanschapsroute Landbouw  | 1  |
+| 4472  | LWOO KBG Vakmanschapsroute Landbouw  | 1  |
+| 4491  | LWOO BBG Vakmanschapsroute Intersectoraal  | 1  |
+| 4492  | LWOO KBG Vakmanschapsroute Intersectoraal  | 1  |
+| 4511  | VMBO BBG Vakmanschapsroute Techniek  | 1  |
+| 4512  | VMBO KBG Vakmanschapsroute Techniek  | 1  |
+| 4531  | VMBO BBG Vakmanschapsroute Zorg en Welzijn  | 1  |
+| 4532  | VMBO KBG Vakmanschapsroute Zorg en Welzijn  | 1  |
+| 4551  | VMBO BBG Vakmanschapsroute Economie  | 1  |
+| 4552  | VMBO KBG Vakmanschapsroute Economie  | 1  |
+| 4571  | VMBO BBG Vakmanschapsroute Landbouw  | 1  |
+| 4572  | VMBO KBG Vakmanschapsroute Landbouw  | 1  |
+| 4591  | VMBO BBG Vakmanschapsroute Intersectoraal  | 1  |
+| 4592  | VMBO KBG Vakmanschapsroute Intersectoraal  | 1  |
+| 4611  | LWOO GLG Technologieroute Techniek  | 1  |
+| 4612  | LWOO TLG Technologieroute Techniek  | 1  |
+| 4671  | LWOO GLG Technologieroute Landbouw  | 1  |
+| 4672  | LWOO TLG Technologieroute Landbouw  | 1  |
+| 4691  | LWOO GLG Technologieroute Intersectoraal  | 1  |
+| 4692  | LWOO TLG Technologieroute Intersectoraal  | 1  |
+| 4711  | VMBO GLG Technologieroute Techniek  | 1  |
+| 4712  | VMBO TLG Technologieroute Techniek  | 1  |
+| 4771  | VMBO GLG Technologieroute Landbouw  | 1  |
+| 4772  | VMBO TLG Technologieroute Landbouw  | 1  |
+| 4791  | VMBO GLG Technologieroute Intersectoraal  | 1  |
+| 4792  | VMBO TLG Technologieroute Intersectoraal  | 1  |
+| 6011  | VMBO BB Bouwen, wonen en interieur  | 1  |
+| 6021  | VMBO KB Bouwen, wonen en interieur  | 1  |
+| 6031  | VMBO GL Bouwen, wonen en interieur  | 1  |
+| 6055  | LWOO BB Bouwen, wonen en interieur  | 1  |
+| 6065  | LWOO KB Bouwen, wonen en interieur  | 1  |
+| 6075  | LWOO GL Bouwen, wonen en interieur  | 1  |
+| 6111  | VMBO BB Produceren, installeren en energie  | 1  |
+| 6121  | VMBO KB Produceren, installeren en energie  | 1  |
+| 6131  | VMBO GL Produceren, installeren en energie  | 1  |
+| 6155  | LWOO BB Produceren, installeren en energie  | 1  |
+| 6165  | LWOO KB Produceren, installeren en energie  | 1  |
+| 6175  | LWOO GL Produceren, installeren en energie  | 1  |
+| 6211  | VMBO BB Mobiliteit en transport  | 1  |
+| 6221  | VMBO KB Mobiliteit en transport  | 1  |
+| 6231  | VMBO GL Mobiliteit en transport  | 1  |
+| 6255  | LWOO BB Mobiliteit en transport  | 1  |
+| 6265  | LWOO KB Mobiliteit en transport  | 1  |
+| 6275  | LWOO GL Mobiliteit en transport  | 1  |
+| 6311  | VMBO BB Media, vormgeving en ict  | 1  |
+| 6321  | VMBO KB Media, vormgeving en ict  | 1  |
+| 6331  | VMBO GL Media, vormgeving en ict  | 1  |
+| 6355  | LWOO BB Media, vormgeving en ict  | 1  |
+| 6365  | LWOO KB Media, vormgeving en ict  | 1  |
+| 6375  | LWOO KB Media, vormgeving en ict  | 1  |
+| 6411  | VMBO BB Economie en ondernemen  | 1  |
+| 6421  | VMBO KB Economie en ondernemen  | 1  |
+| 6431  | VMBO GL Economie en ondernemen  | 1  |
+| 6455  | LWOO BB Economie en ondernemen  | 1  |
+| 6465  | LWOO KB Economie en ondernemen  | 1  |
+| 6475  | LWOO GL Economie en ondernemen  | 1  |
+| 6511  | VMBO BB Horeca, Bakkerij en recreatie  | 1  |
+| 6521  | VMBO KB Horeca, Bakkerij en recreatie  | 1  |
+| 6531  | VMBO GL Horeca, Bakkerij en recreatie  | 1  |
+| 6555  | LWOO BB Horeca, Bakkerij en recreatie  | 1  |
+| 6565  | LWOO KB Horeca, Bakkerij en recreatie  | 1  |
+| 6575  | LWOO GL Horeca, Bakkerij en recreatie  | 1  |
+| 6611  | VMBO BB Zorg en Welzijn  | 1  |
+| 6621  | VMBO KB Zorg en Welzijn  | 1  |
+| 6631  | VMBO GL Zorg en Welzijn  | 1  |
+| 6655  | LWOO BB Zorg en Welzijn  | 1  |
+| 6665  | LWOO KB Zorg en Welzijn  | 1  |
+| 6675  | LWOO GL Zorg en Welzijn  | 1  |
+| 6711  | VMBO BB Groen  | 1  |
+| 6721  | VMBO KB Groen  | 1  |
+| 6731  | VMBO GL Groen  | 1  |
+| 6755  | LWOO BB Groen  | 1  |
+| 6765  | LWOO KB Groen  | 1  |
+| 6775  | LWOO GL Groen  | 1  |
+| 6811  | VMBO BB Maritiem en techniek  | 1  |
+| 6821  | VMBO KB Maritiem en techniek  | 1  |
+| 6831  | VMBO GL Maritiem en techniek  | 1  |
+| 6855  | LWOO BB Maritiem en techniek  | 1  |
+| 6865  | LWOO KB Maritiem en techniek  | 1  |
+| 6875  | LWOO GL Maritiem en techniek  | 1  |
+| 6911  | VMBO BB Dienstverlening en producten  | 1  |
+| 6921  | VMBO KB Dienstverlening en producten  | 1  |
+| 6931  | VMBO GL Dienstverlening en producten  | 1  |
+| 6955  | LWOO BB Dienstverlening en producten  | 1  |
+| 6965  | LWOO KB Dienstverlening en producten  | 1  |
+| 6975  | LWOO GL Dienstverlening en producten  | 1  |
 
 ### Bijlage 4 
 
 ####, behorende bij artikel 5, derde lid , van de Regeling Leerplusarrangement VO, Nieuwkomers VO en eerste opvang Vreemdelingen 2009
 
-Het totaal beschikbare budget en het bedrag per L+A leerling is:
+Het totaal beschikbare budget en het bedrag per L+A leerling is: 
 
-|--- | 2014  |
+|--- | 2015  |
 |:---|:---|
-| Totaal beschikbare budget per jaar voor L+A  |  € 50.728.000,–  |
-| Bedrag per L+A leerling  |  € 750  |
+| Totaal beschikbare budget per jaar voor L+A  | € 46.700.000,–  |
+| Bedrag per L+A leerling  | € 750,–  |
 
 ### Bijlage  5  
 
 ####, behorende bij artikel 5, vijfde lid , van de Regeling Leerplusarrangement VO, Nieuwkomers VO en eerste opvang Vreemdelingen 2009
 
-Lijst met postcodes van de armoedeprobleemcumulatiegebieden L+A 2014
+Lijst met postcodes van de armoedeprobleemcumulatiegebieden L+A 2015 
 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|

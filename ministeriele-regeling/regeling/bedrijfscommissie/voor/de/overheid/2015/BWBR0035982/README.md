@@ -15,7 +15,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-*bedrijfscommissie overheid:* de bedrijfscommissie voor de overheid, bedoeld in artikel 1;  
+*bedrijfscommissie overheid:* de bedrijfscommissie voor de overheid, bedoeld in artikel 2;  
 
 *ondernemingsraad:* een ondernemingsraad, een centrale ondernemingsraad, een groepsondernemingsraad, een personeelsvertegenwoordiging of een vergadering als bedoeld in artikel 35b van de Wet op de ondernemingsraden;  
 
@@ -85,7 +85,7 @@ c. het verzoek is voldoende omschreven, gemotiveerd en gedocumenteerd.
 ####Bevoegdheid bedrijfscommissie overheid
 
 1.  Na ontvangst van een verzoek om bemiddeling als bedoeld in artikel 4, gaat de bedrijfscommissie overheid na of zij bevoegd is het verzoek te behandelen.   
-2.  Als een andere bedrijfscommissie overheid bevoegd is het verzoek te behandelen, wordt het verzoek direct doorgezonden naar die commissie. Van de doorzending wordt gelijktijdig met de doorzending de verzoeker op de hoogte gesteld.   
+2.  Als een andere bedrijfscommissie bevoegd is het verzoek te behandelen, wordt het verzoek direct doorgezonden naar die commissie. Van de doorzending wordt gelijktijdig met de doorzending de verzoeker op de hoogte gesteld.   
 3.  Verklaart de bedrijfscommissie overheid zich onbevoegd op een andere grond dan genoemd in het tweede lid, dan stelt zij de verzoeker hiervan direct op de hoogte. De kennisgeving gebeurt schriftelijk en gemotiveerd.  
 
 ### Artikel  7  
@@ -93,7 +93,7 @@ c. het verzoek is voldoende omschreven, gemotiveerd en gedocumenteerd.
 ####Ontvankelijkheid verzoek
 
 1.  Een verzoek om bemiddeling is ontvankelijk als het voldoet aan het gestelde in artikel 4, eerste tot en met vijfde lid.   
-2.  Na ontvangst van een verzoek om bemiddeling gaat de bedrijfscommissie overheid na of het verzoek voldoet aan het gesteld in artikel 4, eerste tot en met vijfde lid.   
+2.  Na ontvangst van een verzoek om bemiddeling gaat de bedrijfscommissie overheid na of het verzoek voldoet aan het gestelde in artikel 4, eerste tot en met vijfde lid.   
 3.  Als de bedrijfscommissie overheid een verzoek niet-ontvankelijk verklaart, wordt de verzoeker hiervan direct op de hoogte gesteld. De kennisgeving gebeurt schriftelijk en gemotiveerd.   
 4.  Als de bedrijfscommissie overheid een verzoek onvoldoende omschreven, gemotiveerd en gedocumenteerd vindt, dan vraagt zij de verzoeker om aanvulling. Daarbij wordt aangegeven welke punten moeten worden aangevuld en welke documenten moeten worden aangeleverd. Zij stelt daarbij aan de verzoeker een termijn. Een verzoek is in ieder geval onvoldoende gemotiveerd, wanneer de verzoeker daarin niet zijn reactie geeft op het standpunt van de wederpartij in het geschil, zoals dit standpunt uit de meegestuurde documenten blijkt.  
 
@@ -224,7 +224,7 @@ e. één lid en één plaatsvervangend lid namens het Interprovinciaal Overleg.
 ####Voorzitterschap en plaatsvervangend voorzitterschap
 
 1.  Twee leden van de bedrijfscommissie overheid worden door de andere bedrijfscommissieleden aangewezen om bij toerbeurt op te treden als voorzitter en plaatsvervangend voorzitter. De toerbeurten worden vastgelegd in een rooster.   
-2.  Een van de twee leden, bedoeld in het eerste lid, is benoemd door een werkgever of een vereniging van werkgevers als bedoeld in artikel 17, derde lid.   
+2.  Een van de twee leden, bedoeld in het eerste lid, is benoemd door een werkgever of een vereniging van werkgevers als bedoeld in artikel 18, derde lid.   
 3.  Een van de twee leden, bedoeld in het eerste lid, is benoemd door een centrale van overheidspersoneel.   
 4.  In afwijking van bovenstaande kan de bedrijfscommissie overheid een voorzitter aanwijzen die geen lid is en aan deze wel of geen stemrecht verlenen.  
 

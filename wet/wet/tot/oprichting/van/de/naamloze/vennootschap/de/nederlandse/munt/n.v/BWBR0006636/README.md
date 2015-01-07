@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is dat de Staat der Nederlanden overgaat tot oprichting van De Nederlandse Munt N.V. waarin de vermogensbestanddelen van de Staat die kunnen worden toegerekend aan 's Rijks Munt worden ingebracht en van de Stichting Nederlands Muntmuseum die het beheer zal voeren over de niet in de op te richten vennootschap onder te brengen collectie van het Muntmuseum van 's Rijks Munt en dat ingevolge [artikel 29 van de Comptabiliteitswet](../../../../../../../../../../../../../wet/comptabiliteitswet/BWBR0003075/README.md) voor de oprichting van deze beide rechtspersonen machtiging bij wet vereist is, en voorts dat het wenselijk is in verband met oprichting van De Nederlandse Munt N.V. en de beleidswijziging inzake de uitgifte van zilveren dukaten de Muntwet 1987 te wijzigen;
+Alzo Wij in overweging genomen hebben, dat het wenselijk is dat de Staat der Nederlanden overgaat tot oprichting van De Nederlandse Munt N.V. waarin de vermogensbestanddelen van de Staat die kunnen worden toegerekend aan 's Rijks Munt worden ingebracht en van de Stichting Nederlands Muntmuseum die het beheer zal voeren over de niet in de op te richten vennootschap onder te brengen collectie van het Muntmuseum van 's Rijks Munt en dat ingevolge artikel 29 van de Comptabiliteitswet voor de oprichting van deze beide rechtspersonen machtiging bij wet vereist is, en voorts dat het wenselijk is in verband met oprichting van De Nederlandse Munt N.V. en de beleidswijziging inzake de uitgifte van zilveren dukaten de Muntwet 1987 te wijzigen;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:     
 ### Hoofdstuk  1  
 
@@ -35,7 +35,7 @@ f. personeelslid: degene die op de dag voorafgaand aan de overgangsdatum in dien
 ### Artikel  2  
 
 1.  Onze Minister wordt gemachtigd om namens de Staat der Nederlanden op te richten de naamloze vennootschap De Nederlandse Munt N.V., op welke vennootschap de artikelen 158 tot en met 164 van Boek 2 van het Burgerlijk Wetboek van toepassing zijn en welke vennootschap ten doel heeft het vervaardigen en verkopen van munten, penningen, eretekenen en soortgelijke produkten, zomede al hetgeen met het bovenstaande verband houdt of daartoe bevorderlijk kan zijn.   
-2.   De vennootschap kan ingevolge het eerste lid worden opgericht zonder dat op de datum van oprichting een ondernemingsraad is ingesteld. Tot het tijdstip waarop De Nederlandse Munt N.V. een ondernemingsraad heeft ingesteld, waarop de bepalingen van de [Wet op de ondernemingsraden](../../../../../../../../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md) van toepassing zijn, worden de commissarissen benoemd, geschorst en ontslagen door de algemene vergadering van aandeelhouders.   
+2.   De vennootschap kan ingevolge het eerste lid worden opgericht zonder dat op de datum van oprichting een ondernemingsraad is ingesteld. Tot het tijdstip waarop De Nederlandse Munt N.V. een ondernemingsraad heeft ingesteld, waarop de bepalingen van de Wet op de ondernemingsraden van toepassing zijn, worden de commissarissen benoemd, geschorst en ontslagen door de algemene vergadering van aandeelhouders.   
 3.   Onze Minister wordt gemachtigd om namens de Staat der Nederlanden deel te nemen in het bij oprichting van De Nederlandse Munt N.V. door hem vast te stellen kapitaal.   
 4.   Onze Minister wordt gemachtigd om namens de Staat der Nederlanden op te richten de Stichting Het Nederlands Muntmuseum, welke stichting ten doel heeft het oprichten, het beheren of doen beheren en het exploiteren van een museum dat betrekking heeft op het muntbedrijf en het muntwezen in het algemeen en het namens de Staat der Nederlanden verwerven en doen verwerven van objecten en documenten die betrekking hebben op de bedrijfsuitoefening van de Nederlandse Munt N.V., op de door De Nederlandse Munt N.V. voortgebrachte produkten en op het muntbedrijf in het algemeen, alsmede op de historie van het muntwezen in Nederland.  
 
@@ -43,7 +43,7 @@ f. personeelslid: degene die op de dag voorafgaand aan de overgangsdatum in dien
 
 1.  Alle vermogensbestanddelen van de Staat die aan 's Rijks Munt kunnen worden toegerekend, gaan op de overgangsdatum onder algemene titel over op De Nederlands Munt N.V. tegen de waarde te bepalen met inachtneming van het bepaalde in artikel 94*a*, boek 2 van het Burgerlijk Wetboek en zonder dat daarvoor een nadere akte of betekening wordt gevorderd.   
 2.   Van de in het eerste lid bedoelde overgang zijn uitgezonderd de voor overdracht vatbare auteursrechten op de beeldenaars van munten, de stempels en de ontwerpen van stempels voor de munten, de museale verzamelingen en voorwerpen die deel uitmaken van de collecties van het in artikel 2, vierde lid, bedoelde muntmuseum. Onze Minister kan andere vermogensbestanddelen van de in het eerste lid bedoelde overgang uitzonderen.   
-3.   [Artikel 4 van de Wet verzelfstandiging rijksmuseale diensten](../../../../../../../../../../../../../wet/wet/verzelfstandiging/rijksmuseale/diensten/BWBR0006030/README.md) is ten aanzien van de in het tweede lid genoemde museale verzamelingen en voorwerpen niet van toepassing.  
+3.   Artikel 4 van de Wet verzelfstandiging rijksmuseale diensten is ten aanzien van de in het tweede lid genoemde museale verzamelingen en voorwerpen niet van toepassing.  
 
 ### Artikel  4  
 
@@ -73,7 +73,7 @@ Met betrekking tot de in artikel 3, eerste lid, bedoelde vermogensbestanddelen d
 
 ### Artikel  7  
 
-1.  Met ingang van de datum waarop het personeel overgaat krijgt een personeelslid met wie een arbeidsovereenkomst als bedoeld in artikel 6, eerste lid, is gesloten, ter zake van de ouderdoms- en nabestaandenpensioenvoorziening aanspraken jegens een door De Nederlandse Munt N.V. aan te wijzen instelling als bedoeld in artikel 1, eerste lid, onder *b* , dan wel onder *c*, van de [Pensioen- en spaarfondsenwet](../../../../../../../../../../../../../wet/pensioen-/en/spaarfondsenwet/BWBR0002089/README.md), die in totaliteit gelijkwaardig zijn aan die welke het personeelslid op de laatste dag van de kalendermaand voorafgaand aan de overgangsdatum heeft jegens het Algemeen burgerlijk pensioenfonds krachtens de Algemene burgerlijke pensioenwet en neemt de aangewezen instelling daarmee verband houdende verplichtingen op zich.   
+1.  Met ingang van de datum waarop het personeel overgaat krijgt een personeelslid met wie een arbeidsovereenkomst als bedoeld in artikel 6, eerste lid, is gesloten, ter zake van de ouderdoms- en nabestaandenpensioenvoorziening aanspraken jegens een door De Nederlandse Munt N.V. aan te wijzen instelling als bedoeld in artikel 1, eerste lid, onder *b* , dan wel onder *c*, van de Pensioen- en spaarfondsenwet, die in totaliteit gelijkwaardig zijn aan die welke het personeelslid op de laatste dag van de kalendermaand voorafgaand aan de overgangsdatum heeft jegens het Algemeen burgerlijk pensioenfonds krachtens de Algemene burgerlijke pensioenwet en neemt de aangewezen instelling daarmee verband houdende verplichtingen op zich.   
 2.   De in het eerste lid bedoelde instelling wordt door De Nederlandse Munt N.V. op de overgangsdatum aangewezen.   
 3.   De aanspraken die een personeelslid als bedoeld in het eerste lid toekomen krachtens de Algemene burgerlijke pensioenwet en de daaruit voortvloeiende verplichtingen van het Algemeen burgerlijk pensioenfonds jegens dit personeelslid vervallen op de overgangsdatum.   
 4.   Het derde lid is niet van toepassing op aanspraken  
@@ -95,7 +95,7 @@ b. die betrekking hebben op het recht op invaliditeitspensioen en het recht op d
 
 1.   Bevat wijzigingen in andere regelgeving.    
 2.   Voor de heffing van vennootschapsbelasting wordt op de openingsbalans van De Nederlandse Munt N.V. geen goodwill opgevoerd met betrekking tot de in artikel 3 bedoelde vermogensbestanddelen.   
-3.   Met betrekking tot de overgang van de in artikel 3 bedoelde vermogensbestanddelen van de Staat op de Nederlandse Munt N.V. vinden, in afwijking van [artikel 8, eerste lid, van de Wet op de vennootschapsbelasting 1969](../../../../../../../../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), artikel 10, derde lid, en artikel 11 van de Wet op de inkomstenbelasting 1964 geen toepassing.  
+3.   Met betrekking tot de overgang van de in artikel 3 bedoelde vermogensbestanddelen van de Staat op de Nederlandse Munt N.V. vinden, in afwijking van artikel 8, eerste lid, van de Wet op de vennootschapsbelasting 1969, artikel 10, derde lid, en artikel 11 van de Wet op de inkomstenbelasting 1964 geen toepassing.  
 
 ### Artikel  9  
 
@@ -108,7 +108,7 @@ Ter zake van de verkrijging ingevolge artikel 3 door De Nederlandse Munt N.V. va
 ### Artikel  10  
 
 1.  De onder 's Rijks Munt berustende archiefbescheiden worden ter beschikking gesteld aan De Nederlandse Munt N.V. Daarvan wordt een verklaring opgemaakt, die ten minste inhoudt een specificatie van de archiefbescheiden. Onze Minister, De Nederlandse Munt N.V. en de algemene rijksarchivaris bewaren ieder een exemplaar van deze verklaring.   
-2.   De [Archiefwet 1995](../../../../../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) (*Stb.* 276) is op de in het eerste lid bedoelde archiefbescheiden van toepassing, met dien verstande, dat de archiefbescheiden die ouder zijn dan twintig jaar, binnen een tijdvak van vijf jaar door De Nederlandse Munt N.V., door tussenkomst van Onze Minister, worden overgebracht naar de algemene Rijksarchiefbewaarplaats.  
+2.   De Archiefwet 1995 (*Stb.* 276) is op de in het eerste lid bedoelde archiefbescheiden van toepassing, met dien verstande, dat de archiefbescheiden die ouder zijn dan twintig jaar, binnen een tijdvak van vijf jaar door De Nederlandse Munt N.V., door tussenkomst van Onze Minister, worden overgebracht naar de algemene Rijksarchiefbewaarplaats.  
 
 ### Hoofdstuk  6  
 

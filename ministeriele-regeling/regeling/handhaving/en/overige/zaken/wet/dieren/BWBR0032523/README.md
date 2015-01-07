@@ -451,6 +451,9 @@ H.G.J. Kamp.
 | Artikel 2.76q  | 2  |
 | Artikel 2.76r  | 2  |
 | Artikel 2.76u  | 2  |
+|Artikel 2.76v |2 |
+|Artikel 2.76w |2 |
+|Artikel 2.76x |2 |
 | Artikel 2.76v  | 2  |
 | Artikel 2.76w  | 2  |
 | Artikel 3.1  | 2  |

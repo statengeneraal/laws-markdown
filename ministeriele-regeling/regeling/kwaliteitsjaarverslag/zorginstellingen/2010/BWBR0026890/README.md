@@ -3,13 +3,13 @@
 ##Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 11 december 2009, nr. MC-U-2899285, houdende nieuwe regels inzake het kwaliteitsjaarverslag van zorginstellingen (Regeling kwaliteitsjaarverslag zorginstellingen 2010)
 
 De Minister van Volksgezondheid, Welzijn en Sport,  
-Gelet op [artikel 5, derde lid, van de Kwaliteitswet zorginstellingen](../../../../../../wet/kwaliteitswet/zorginstellingen/BWBR0007850/README.md);
+Gelet op artikel 5, derde lid, van de Kwaliteitswet zorginstellingen;
 Besluit:    
 
 ### Artikel  1  
 
-1.  De zorgaanbieders voor wie [artikel 15 van de Wet toelating zorginstellingen](../../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md) geldt, stellen het kwaliteitsjaarverslag over hun instelling, bedoeld in [artikel 5 van de Kwaliteitswet zorginstellingen](../../../../../../wet/kwaliteitswet/zorginstellingen/BWBR0007850/README.md), op met gebruikmaking van het modelkwaliteitsjaarverslag dat onderdeel uitmaakt van het jaardocument, bedoeld in de [Regeling verslaggeving WTZi](../../../../../../ministeriele-regeling/regeling/verslaggeving/wtzi/BWBR0019252/README.md), dat te verkrijgen is op de website www.jaarverslagenzorg.nl.   
-2.  De overige zorgaanbieders, voor zover zij behoren tot een categorie als bedoeld in de bijlage bij deze regeling, stellen het kwaliteitsjaarverslag over hun instelling, bedoeld in [artikel 5 van de Kwaliteitswet zorginstellingen](../../../../../../wet/kwaliteitswet/zorginstellingen/BWBR0007850/README.md), op met gebruikmaking van het modelkwaliteitsjaarverslag dat te verkrijgen is op de website www.zichtbarezorg.nl.  
+1.  De zorgaanbieders voor wie artikel 15 van de Wet toelating zorginstellingen geldt, stellen het kwaliteitsjaarverslag over hun instelling, bedoeld in artikel 5 van de Kwaliteitswet zorginstellingen, op met gebruikmaking van het modelkwaliteitsjaarverslag dat onderdeel uitmaakt van het jaardocument, bedoeld in de Regeling verslaggeving WTZi, dat te verkrijgen is op de website www.jaarverslagenzorg.nl.   
+2.  De overige zorgaanbieders, voor zover zij behoren tot een categorie als bedoeld in de bijlage bij deze regeling, stellen het kwaliteitsjaarverslag over hun instelling, bedoeld in artikel 5 van de Kwaliteitswet zorginstellingen, op met gebruikmaking van het modelkwaliteitsjaarverslag dat te verkrijgen is op de website www.zichtbarezorg.nl.  
 
 ### Artikel  2  
 
@@ -21,7 +21,7 @@ De kosten van het opstellen en indienen van het kwaliteitsjaarverslag komen ten 
 
 ### Artikel 4  
 
-De [Regeling kwaliteitsjaarverslag zorginstellingen](../../../../../../ministeriele-regeling/regeling/kwaliteitsjaarverslag/zorginstellingen/BWBR0025001/README.md) vervalt. 
+De Regeling kwaliteitsjaarverslag zorginstellingen vervalt. 
 
 ### Artikel  5  
 
@@ -54,7 +54,7 @@ Instellingen die verpleeghuiszorg,verzorgingshuiszorg en thuiszorg bieden voor d
 
 – Behandeling  
 
-– Huishoudelijke verzorging, anders dan in het kader van de [Wet maatschappelijke ondersteuning](../../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md)  
+– Huishoudelijke verzorging  
 
 – Persoonlijke verzorging  
 
@@ -91,10 +91,4 @@ Instellingen die zorg leveren die gericht is op het voorspoedige herstel van d
 ####Gehandicaptenzorg
 
 Instellingen die zorg en ondersteuning bieden aan mensen met een lichamelijke, zintuiglijke of verstandelijke beperking 
-
-### 6  
-
-####Maatschappelijke ondersteuning
-
-Instellingen die huishoudelijke verzorging leveren in het kader van de [Wet maatschappelijke ondersteuning](../../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md) 
 

@@ -425,9 +425,11 @@ Als de landen, bedoeld in de artikelen 3.21, 3.23, vierde lid, onder c, 3.24a, e
 
 a. de staten die partij zijn bij het Verdrag betreffende de werking van de Europese Unie;  
 
-b. de staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte, en  
+b. de staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte;  
 
-c. Australië, Canada, Israël, Japan, Monaco, Nieuw Zeeland, Suriname, de Verenigde Staten van Amerika en Zwitserland.  
+c. Australië, Canada, Israël, Japan, Monaco, Nieuw Zeeland, Suriname, de Verenigde Staten van Amerika en Zwitserland, en  
+
+d. de overige staten die op de landenlijst van het KNCV Tuberculosefonds zijn uitgezonderd van de binnenkomstscreening op tuberculose. 
 
 ### Artikel  3.19  
 
@@ -452,6 +454,15 @@ b. 100 procent in het geval dat de derde het verblijf van een gezin financiert.
 2.  Met de arbeid als zelfstandige is een wezenlijk Nederlands belang gediend, indien aan de vreemdeling met toepassing van het puntenstelsel, bedoeld in het eerste lid, ten minste 30 punten worden toegekend voor elk van de drie navolgende criteria: diens persoonlijke ervaring, diens ondernemingsplan als voor diens toegevoegde waarde voor de Nederlandse economie.   
 3.  In afwijking van het tweede lid geldt dat met de arbeid als zelfstandige tevens een wezenlijk Nederlands belang is gediend, indien aan de vreemdeling met toepassing van het puntenstel, bedoeld in het eerste lid, minder dan 30 punten worden toegekend voor diens toegevoegde waarde voor de Nederlandse economie en ten minste 45 punten worden toegekend voor diens persoonlijke ervaring en ten minste 45 punten voor diens ondernemingsplan.   
 4.  Het puntenstelsel is niet van toepassing op vreemdelingen met de nationaliteit van de Republiek Turkije die zelfstandig een beroep of bedrijf uitoefenen.  
+
+### Artikel  3.20b  
+
+1.  Verblijf in het kader van arbeid als zelfstandige als bedoeld in artikel 3.30, zesde lid, van het Besluit, is mogelijk indien de vreemdeling naar het oordeel van Onze Minister beschikt over een betrouwbare deskundige begeleider en voldoet aan artikel 3.30, zesde lid, van het Besluit. De beoordeling geschiedt aan de hand van bijlage 8b bij deze regeling.   
+2.  Het verblijf kan door de vreemdeling of een persoon of rechtspersoon gezamenlijk worden bekostigd.   
+3.  Indien het verblijf middels periodieke betalingen wordt bekostigd, zijn middelen van bestaan slechts duurzaam, indien naar het oordeel van Onze Minister voldoende zekerheid is verschaft over het ongestoorde verloop van de periodieke geldstroom.   
+4.  Middelen van bestaan zijn duurzaam, indien deze op het tijdstip waarop de aanvraag is ontvangen of de beschikking wordt gegeven, voor een jaar of zoveel korter als het voorgenomen verblijf in Nederland zal duren, beschikbaar zijn.   
+5.  Middelen van bestaan zijn eveneens duurzaam, indien op een ten name van de vreemdeling gestelde bankrekening in Nederland, dan wel op de bankrekening van de begeleider, een bedrag beschikbaar is, gelijk aan het maandelijkse normbedrag, bedoeld in artikel 3.19, eerste lid, vermenigvuldigd met twaalf, of zoveel minder als het voorgenomen verblijf in Nederland zal duren.   
+6.  De verblijfsvergunning kan worden afgewezen indien de vreemdeling en de begeleider van elkaar bloedverwant zijn tot en met de derde graad.  
 
 ### Artikel  3.21  
 
@@ -542,7 +553,7 @@ Ter zake van de afdoening van een aanvraag tot het verlenen of wijzigen ondersch
 |:---|:---|:---|
 | a. ‘verblijf als familie- of gezinslid’  | € 230  | € 230  |
 | b. ‘verblijf als economisch niet-actieve langdurig ingezetene of vermogende vreemdeling’  | € 154, of als vermogende vreemdeling: € 2.046  | € 154, of als vermogende vreemdeling: € 1.023  |
-| c. ‘arbeid als zelfstandige’  | € 1.279  | € 384  |
+| c. ‘arbeid als zelfstandige’  | In het kader van ‘arbeid als zelfstandige’ als bedoeld in artikel 3.30, zesde lid, van het Besluit € 307, overige € 1.279  | € 384  |
 | d. ‘arbeid als kennismigrant’  | € 870  | € 384  |
 | e. ‘verblijf als houder van de Europese blauwe kaart’  | € 870  | € 384  |
 | f. ‘seizoenarbeid’  | € 768  | niet van toepassing  |
@@ -1546,14 +1557,20 @@ De hoogte van de kosten van uitzetting worden vastgesteld aan de hand van de kos
 
 ### Artikel  6.4  
 
-1.  De kennisgeving, bedoeld in artikel 62a, eerste lid van de Wet, wordt gegeven door de ambtenaar van de Immigratie- en Naturalisatiedienst die daartoe bevoegd is, of door de ambtenaar, bedoeld in artikel 47, eerste lid, onder a of b, van de Wet.   
+1.  De kennisgeving, bedoeld in artikel 62a, eerste lid, van de Wet, wordt gegeven door de daartoe bevoegde ambtenaar van de Immigratie- en Naturalisatiedienst, de daartoe bevoegde ambtenaar van de Dienst Terugkeer en Vertrek of de ambtenaar, bedoeld in artikel 2, onder b, van de Politiewet 2012, die is aangewezen als buitengewoon opsporingsambtenaar en belast is met de uitvoering van wettelijke voorschriften gesteld bij of krachtens de Vreemdelingenwet 2000, dan wel door de ambtenaar, bedoeld in artikel 47, eerste lid, onder a of b, van de Wet.   
 2.  Indien de kennisgeving, bedoeld in artikel 62a, eerste lid, van de Wet, wordt gegeven, wordt de vreemdeling in een taal die de vreemdeling begrijpt of redelijkerwijze geacht mag worden te begrijpen mondeling of schriftelijk op de inhoud en de rechtsgevolgen daarvan gewezen, en wordt de vreemdeling gewezen op de mogelijkheid daartegen rechtsmiddelen aan te wenden.  
 
 ### Artikel  6.5  
 
-1.  Het inreisverbod, bedoeld in artikel 66a van de Wet, wordt uitgevaardigd, gewijzigd of opgeheven door de ambtenaar van de Immigratie- en Naturalisatiedienst die daartoe bevoegd is, of door de ambtenaar, bedoeld in artikel 47, eerste lid, onder a en b, van de Wet, die tevens hulpofficier van justitie is.   
+1.  Het inreisverbod, bedoeld in artikel 66a van de Wet, wordt uitgevaardigd, gewijzigd of opgeheven door de daartoe bevoegde ambtenaar van de Immigratie- en Naturalisatiedienst, de daartoe bevoegde ambtenaar van de Dienst Terugkeer en Vertrek of de ambtenaar, bedoeld in artikel 47, eerste lid, onder a en b, van de Wet, die tevens hulpofficier van justitie is.   
 2.  Het inreisverbod wordt uitgevaardigd, gewijzigd of opgeheven door de ambtenaar van de Immigratie- en Naturalisatiedienst die daartoe bevoegd is, indien daaraan de rechtgevolgen, bedoeld in artikel 66a, zevende lid, van de Wet, zijn verbonden.   
 3.  Indien het inreisverbod wordt uitgevaardigd, wordt in een taal die de vreemdeling begrijpt of redelijkerwijze geacht mag worden te begrijpen mondeling of schriftelijk op de inhoud en de rechtsgevolgen daarvan gewezen, en wordt de vreemdeling gewezen op de mogelijkheid daartegen rechtsmiddelen aan te wenden.  
+
+### Artikel  6.6  
+
+1.  Het inreisverbod wordt ambtshalve opgeheven indien door of namens de vreemdeling tegen wie het inreisverbod is uitgevaardigd een verblijfsvergunning als bedoeld in artikel 14 van de Wet is aangevraagd en door de Immigratie- en Naturalisatiedienst is vastgesteld dat de vreemdeling voor verlening van de gevraagde verblijfsvergunning in aanmerking komt, indien het betreft een vergunning die verband houdt met een beperking als bedoeld in artikel 3.4, eerste lid, onder a tot en met e, i, l, m, p en r, van het Besluit.   
+2.  Het eerste lid is niet van toepassing op de vreemdeling tegen wie een inreisverbod is uitgevaardigd waaraan de rechtgevolgen, bedoeld in artikel 66a, zevende lid, van de Wet, zijn verbonden.   
+3.  Het inreisverbod wordt ambtshalve opgeheven indien uit een door Nederland aangegane verdragsrechtelijke verplichting volgt dat aan de vreemdeling een verblijfsvergunning dient te worden verleend.  
 
 ### Hoofdstuk 7  
 
@@ -1689,7 +1706,7 @@ Als wettelijke voorschriften, bedoeld in artikel 107, tweede lid, onder b, van d
 
 – de Wet justitiële en strafvorderlijke gegevens;  
 
-– de Wet maatschappelijke ondersteuning;  
+– de Wet maatschappelijke ondersteuning 2015;  
 
 – de Wet op de arbeidsongeschiktheidsverzekering;  
 
@@ -2239,6 +2256,23 @@ model 1997![42728](http://wetten.overheid.nl/Illustration/42728)
 | --- | € 100.000 –< 500.000  | 30  | --- | --- |
 | --- | ≥ € 500.000  | 40  | --- | --- |
 | Hoogopgeleide met gedegen ondernemingsplan  | Indien de aanvrager op de onderdelen A en B reeds het minimum aantal punten van 90 heeft gehaald (voor A. minimaal 45 en voor B. minimaal 45), maar op onderdeel C de minimaal benodigde 30 punten niet haalt wordt onderdeel C op 30 punten gesteld. Aanvrager krijgt daarmee een positief advies.  | --- | --- | --- |
+
+### Bijlage 8b 
+
+####, behorende bij artikel 3.20b, eerste lid, onder b , van het Voorschrift Vreemdelingen 2000
+
+| 1. Beoordeling van de deskundige begeleider  | Onderwerp  | Toetsingscriterium  | Toelichting  |
+|:---|:---|:---|:---|
+|  *Voortoets*   | De begeleider krijgt opnieuw een positief advies als deze niet langer dan een jaar voor indiening van de aanvraag van de startende ondernemer een positief advies voor zijn begeleiding heeft gekregen.  | Een eerder positief advies van de Rijksdienst voor Ondernemend Nederland (RVO) dat niet ouder is dan een jaar leidt zonder verdere toetsing wederom tot een positief advies. De betrouwbaarheid en de deskundigheid van de begeleider worden door de RVO in dat geval aangenomen.  Een eerder afgegeven positief advies ouder dan een jaar (of nog geen eerdere toets) leidt tot een (nieuwe) toets.  |
+|  *1.1 Inschrijving Kamer van Koophandel*   | De begeleider staat ingeschreven in het Handelsregister bij de Kamer van Koophandel.  | Een uittreksel is niet vereist. De inschrijving wordt door de RVO in het Handelsregister gecontroleerd. Geen inschrijving betekent een negatief advies.  |
+|  *1.2 Deskundigheid*   | a) De begeleider biedt een pakket ‘op maat’ van faciliteiten aan de startende ondernemer.  b) De begeleider heeft ervaring.  | a) Een pakket ‘op maat’ betekent dat de begeleider in staat is om de startende ondernemer van idee tot onderneming te begeleiden. Niet iedere ondernemer heeft dezelfde begeleiding nodig. Het pakket aan faciliteiten verschilt daarom per startende ondernemer. Faciliteiten bestaan bijvoorbeeld doch niet uitputtend uit: (toegang tot) coaching, technologie, onderzoek, bescherming intellectueel eigendom, marktonderzoek en financiering.  b) Ervaring betekent minimaal twee jaar ervaring met het begeleiden van innovatieve startende ondernemers bij minimaal twee personen. Aan te tonen via bijvoorbeeld een eigen ondernemingsplan, voorbeelden van begeleide startende ondernemers, referenties en CV’s. Indien de begeleiding door verschillende personen wordt gedaan, is informatie over alle personen die begeleiden nodig.  |
+|  *1.3 Betrouwbaarheid*   | De begeleider is financieel gezond.  | De begeleider verkeert niet in surseance of faillissement en heeft een gezonde solvabiliteit en liquiditeit. Aan te tonen via bijvoorbeeld (niet uitputtend) recente jaarrekeningen en/of overeenkomsten met / garantstellingen door financiers en/of accountantsverklaringen en/of bankafschriften en/of onderbouwde financiële prognoses.  |
+
+| 2. Beoordeling van de startende ondernemer  | Onderwerp  | Toetsingscriterium  | Toelichting  |
+|:---|:---|:---|:---|
+|  *2.1 Inschrijving Kamer van Koophandel*   | De startende ondernemer staat ingeschreven bij de Kamer van Koophandel.  | Een uittreksel is niet vereist. De inschrijving wordt door de RVO in het Handelsregister gecontroleerd. De startende ondernemer moet zeggenschap in de startende onderneming hebben. Dit is van belang omdat hij beslissingen over de toekomstige onderneming moet kunnen nemen. Geen inschrijving betekent een negatief advies.  |
+|  *2.2 Stappenplan*   | a) In het stappenplan staat beschreven wat de taak en rol is van de startende ondernemer in de startende onderneming.  b) In het stappenplan staat beschreven waarom het product of dienst innovatief is.  c) In het stappenplan staat beschreven welke activiteiten (stappen) de startende ondernemer verricht in het eerste jaar om van idee tot onderneming te komen.  | a) De startende ondernemer moet een actieve rol hebben. Dit betekent dat de aanvrager niet alleen aandeelhouder of financier is.  b) Er is sprake van innovativiteit bij aanwezigheid van minstens één van onderstaande drie aspecten:  1) Het product of de dienst is nieuw voor Nederland.  2) Er is sprake van nieuwe technologie bij productie, distributie, marketing.  3) Er is sprake van een innovatieve organisatorische opzet en werkwijze.  Hierbij kan worden gedacht aan bijvoorbeeld (niet uitputtend opgesomd):  – Activiteiten die in het kader van het Topsectorenbeleid worden gestimuleerd.  – Zelf ontwikkelde nieuwe producten of diensten.  – Originele aanpak energiebesparing.  – Originele aanpak duurzaamheidsproblematiek.  – Slimme en creatieve aanpassingen of combinaties ten behoeve van sector overschrijdende toepassingen.  – Nieuwe product-marktcombinaties.  – Creatieve of vernieuwende marktbenadering.  – Sociale innovatie.  – Introductie maatschappelijk verantwoord ondernemen.  |
+|  *2.3 Overeenkomst met begeleider*   | a) In de overeenkomst is de aard van de begeleiding beschreven.  b) De voorwaarden van de overeenkomst mogen niet nadelig of belemmerend zijn voor een gezonde ontwikkeling van de startende ondernemer.  c) De begeleider mag geen meerderheidsbelang hebben in de startende onderneming.  d) De overeenkomst is door beide partijen (begeleider en startende ondernemer) ondertekend.  | a) De begeleiding moet op maat zijn (zie 1.2. onder a).  b) Er mag geen sprake zijn van ‘wurgcontracten’.  c) Uit de overeenkomst wordt duidelijk welk belang de begeleider heeft in de startende onderneming.  d) De begeleider moet bevoegd zijn om de overeenkomst te ondertekenen.  |
 
 ### Bijlage 10 
 
