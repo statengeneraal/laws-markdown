@@ -156,7 +156,7 @@ b.zodanige waarden noodzakelijk zijn als gevolg van een vaststelling van het pla
 
 ### Artikel  49  
 
-Bij de beslissing op een aanvraag om een omgevingsvergunning waarbij met toepassing van artikel 2.12, eerste lid, onder a, onder 3°, van de Wet algemene bepalingen omgevingsrecht van het bestemmingsplan wordt afgeweken, die geheel of gedeeltelijk betrekking heeft op gronden die behoren tot een zone, worden ter zake van de geluidsbelasting, vanwege het industrieterrein, van de gevel van woningen, van andere geluidsgevoelige gebouwen en aan de grens van geluidsgevoelige terreinen binnen de zone de waarden in acht genomen, die bij of krachtens de artikelen 44 tot en met 47, de Experimentenwet Stad en Milieu alsmede de Interimwet stad-en-milieubenadering als de ten hoogste toelaatbare worden aangemerkt. 
+Bij de beslissing op een aanvraag om een omgevingsvergunning waarbij met toepassing van artikel 2.12, eerste lid, onder a, onder 2° of 3°, van de Wet algemene bepalingen omgevingsrecht, voor zover het betreft een afwijking voor een termijn langer dan tien jaar van het bestemmingsplan wordt afgeweken, die geheel of gedeeltelijk betrekking heeft op gronden die behoren tot een zone, worden ter zake van de geluidsbelasting, vanwege het industrieterrein, van de gevel van woningen, van andere geluidsgevoelige gebouwen en aan de grens van geluidsgevoelige terreinen binnen de zone de waarden in acht genomen, die bij of krachtens de artikelen 44 tot en met 47, de Experimentenwet Stad en Milieu alsmede de Interimwet stad-en-milieubenadering als de ten hoogste toelaatbare worden aangemerkt. 
 
 ### §  3  
 
@@ -240,7 +240,7 @@ b.zodanige waarden noodzakelijk zijn als gevolg van een vaststelling van het pla
 
 ### Artikel 58 
 
-Bij de beslissing op een aanvraag om een omgevingsvergunning waarbij met toepassing van artikel 2.12, eerste lid, onder a, onder 3°, van de Wet algemene bepalingen omgevingsrecht van het bestemmingsplan wordt afgeweken, die geheel of gedeeltelijk betrekking heeft op gronden die behoren tot een bestaande zone, worden ter zake van de geluidsbelasting, vanwege het industrieterrein, van de gevel van woningen, van andere geluidsgevoelige gebouwen en aan de grens van geluidsgevoelige terreinen binnen de zone, de waarden in acht genomen, die op het tijdstip van de vaststelling van de bestaande zone als de ten hoogste toelaatbare werden aangemerkt.
+Bij de beslissing op een aanvraag om een omgevingsvergunning waarbij met toepassing van artikel 2.12, eerste lid, onder a, onder 2° of 3°, van de Wet algemene bepalingen omgevingsrecht, voor zover het betreft een afwijking voor een termijn langer dan tien jaar van het bestemmingsplan wordt afgeweken, die geheel of gedeeltelijk betrekking heeft op gronden die behoren tot een bestaande zone, worden ter zake van de geluidsbelasting, vanwege het industrieterrein, van de gevel van woningen, van andere geluidsgevoelige gebouwen en aan de grens van geluidsgevoelige terreinen binnen de zone, de waarden in acht genomen, die op het tijdstip van de vaststelling van de bestaande zone als de ten hoogste toelaatbare werden aangemerkt.
 
 ### §  4  
 
@@ -385,7 +385,7 @@ b. zodanige waarden noodzakelijk zijn als gevolg van een vaststelling van het pl
 
 ### Artikel  76a  
 
-Bij de beslissing op een aanvraag om een omgevingsvergunning waarbij met toepassing van artikel 2.12, eerste lid, onder a, onder 3°, van de Wet algemene bepalingen omgevingsrecht van het bestemmingsplan wordt afgeweken, die geheel of gedeeltelijk betrekking heeft op gronden, behorende tot een zone als bedoeld in artikel 74, worden ter zake van de geluidsbelasting, vanwege de weg waarlangs die zone ligt, van de gevel van woningen, van andere geluidsgevoelige gebouwen of aan de grens van geluidsgevoelige terreinen binnen die zone de waarden in acht genomen, die ingevolge de artikelen 82, 83, 85, 100 en 100a  als de ten hoogste toelaatbare worden aangemerkt. 
+Bij de beslissing op een aanvraag om een omgevingsvergunning waarbij met toepassing van artikel 2.12, eerste lid, onder a, onder 2° of 3°, van de Wet algemene bepalingen omgevingsrecht, voor zover het betreft een afwijking voor een termijn langer dan tien jaar van het bestemmingsplan wordt afgeweken, die geheel of gedeeltelijk betrekking heeft op gronden, behorende tot een zone als bedoeld in artikel 74, worden ter zake van de geluidsbelasting, vanwege de weg waarlangs die zone ligt, van de gevel van woningen, van andere geluidsgevoelige gebouwen of aan de grens van geluidsgevoelige terreinen binnen die zone de waarden in acht genomen, die ingevolge de artikelen 82, 83, 85, 100 en 100a  als de ten hoogste toelaatbare worden aangemerkt. 
 
 ### Artikel  77  
 
@@ -494,7 +494,7 @@ Vervallen per 01-07-2012
 
 ###Artikel 98 
 
-1. Ten behoeve van een reconstructie van een weg met betrekking waartoe ingevolge artikel 88, zoals dat luidde voor 1 januari 2007 aan Onze Minister uiterlijk twee jaar na 1 januari 2007 melding is gedaan of is gedaan, is deze afdeling niet van toepassing en geeft Onze Minister toepassing aan artikel 90, tweede tot en met vijfde lid. 
+1. Ten behoeve van een reconstructie van een weg met betrekking waartoe ingevolge artikel 88, zoals dat luidde voor 1 januari 2007 aan Onze Minister uiterlijk twee jaar na 1 januari 2007 melding is gedaan, is deze afdeling niet van toepassing en geeft Onze Minister toepassing aan artikel 90, tweede tot en met vijfde lid. 
 2.  In afwijking van het eerste lid, indien toepassing wordt gegeven aan artikel 104a, eerste lid: 
 
 a. zijn de artikelen 89 en 90, eerste lid, niet van toepassing, en  
@@ -687,7 +687,7 @@ Bij intrekking of wijziging van een algemene maatregel van bestuur als bedoeld i
 ### Artikel 110c 
 
 1. Op de voorbereiding van een besluit als bedoeld in artikel 110a is de in afdeling 3.4 van de Algemene wet bestuursrecht geregelde procedure van toepassing, met dien verstande dat indien burgemeester en wethouders bevoegd zijn de hogere waarde vast te stellen en het besluit ten behoeve van de vaststelling of herziening van een bestemmingsplan wordt genomen, het ontwerp van het besluit tegelijkertijd met het ontwerp van het bestemmingsplan ter inzage wordt gelegd. 
-2. Vervallen. 
+2.  Het eerste lid is niet van toepassing, indien het besluit, bedoeld in artikel 110a, wordt genomen ten behoeve van de verlening van een omgevingsvergunning waarbij met toepassing van artikel 2.12, eerste lid, onder a, onder 2°, van de Wet algemene bepalingen omgevingsrecht van het bestemmingsplan wordt afgeweken.  
 3. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent:
 
 a.de bij een verzoek als bedoeld in artikel 110a over te leggen gegevens;
@@ -851,17 +851,10 @@ c. voor zover het maatregelen betreft ten behoeve van woningen binnen de zone in
 ### Artikel  126  
 
 1.  Voor zover in de kosten van maatregelen die met het oog op de beperking van de geluidsbelasting van woningen binnen zones langs wegen als bedoeld in artikel 74 krachtens Afdeling 3 van hoofdstuk VI zijn vastgesteld, niet op andere wijze wordt voorzien, komen deze kosten in gevallen waarin op 1 maart 1986 de woningen aanwezig of in aanbouw waren, terwijl de weg aanwezig was: ten laste van het Rijk.   
-2.  Het eerste lid is niet van toepassing met betrekking tot maatregelen met het oog op de beperking van de geluidsbelasting van woningen: 
-
-a. die op 1 maart 1986 een geluidsbelasting vanwege een weg ondervonden van ten minste 65 dB(A), dan wel ten minste 60 dB(A) indien zij deel uitmaken van een verzameling van woningen waarvan ten minste één woning een geluidsbelasting vanwege een weg ondervond van ten minste 65 dB(A),   
-
-b. die door het gemeentebestuur voor 1 januari 1998 op grond van artikel 88, eerste lid, aan Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer zijn gemeld, en  
-
-c. ten aanzien waarvan het gemeentebestuur bij die gelegenheid heeft verklaard dat het treffen van geluidwerende maatregelen de enige oplossing is die in aanmerking komt.     
-3.   Indien door een reconstructie de geluidsbelasting, vanwege de gereconstrueerde weg, van de gevel van woningen binnen een zone met meer dan 5 dB is toegenomen en voor die woningen nog niet eerder toepassing is gegeven aan artikel 90, vierde lid, komen de kosten, bedoeld in het eerste lid, ten laste van de wegbeheerder.   
-4.   Met betrekking tot andere geluidsgevoelige gebouwen en geluidsgevoelige terreinen zijn het eerste en derde lid van overeenkomstige toepassing.   
-5. In afwijking van het eerste lid komen de kosten van maatregelen in gevallen waarin op 1 maart 1986 de woningen aanwezig of in aanbouw waren, terwijl de weg aanwezig was, maar de woningen niet tijdig overeenkomstig artikel 88 zijn gemeld, ten laste van de gemeente waarin de woningen zijn gelegen. 
-6. Indien toepassing wordt gegeven aan artikel 98 komt het gedeelte van de kosten van de maatregelen dat verband houdt met de reconstructie van de weg voor rekening van de wegaanlegger.
+2.   Indien door een reconstructie de geluidsbelasting, vanwege de gereconstrueerde weg, van de gevel van woningen binnen een zone met meer dan 5 dB is toegenomen en voor die woningen nog niet eerder toepassing is gegeven aan artikel 90, vierde lid, komen de kosten, bedoeld in het eerste lid, ten laste van de wegbeheerder.   
+3.   Met betrekking tot andere geluidsgevoelige gebouwen en geluidsgevoelige terreinen zijn het eerste en het tweede lid van overeenkomstige toepassing.   
+4. In afwijking van het eerste lid komen de kosten van maatregelen in gevallen waarin op 1 maart 1986 de woningen aanwezig of in aanbouw waren, terwijl de weg aanwezig was, maar de woningen niet tijdig overeenkomstig artikel 88 zijn gemeld, ten laste van de gemeente waarin de woningen zijn gelegen. 
+5. Indien toepassing wordt gegeven aan artikel 98 komt het gedeelte van de kosten van de maatregelen dat verband houdt met de reconstructie van de weg voor rekening van de wegaanlegger.
 
 ### Artikel  126a  
 
@@ -873,8 +866,7 @@ In geval van reconstructie van een weg komen de kosten van de maatregelen, vastg
 
 ### Artikel  128  
 
-1.  Indien een wegaanlegger, onderscheidenlijk wegbeheerder, of een gemeente zich ten gevolge van de toepassing van artikel 126 of 127 voor kosten ziet gesteld, die redelijkerwijs niet of niet geheel te zijnen laste behoren te blijven, kan Onze Minister hem, voor zover op andere wijze in een redelijke vergoeding niet is of kan worden voorzien, op diens verzoek een naar billijkheid te bepalen vergoeding toekennen.   
-2.  Het eerste lid is niet van toepassing indien het betreft kosten met betrekking tot maatregelen als bedoeld in artikel 126, tweede lid.  
+Indien een wegaanlegger, onderscheidenlijk wegbeheerder, of een gemeente zich ten gevolge van de toepassing van artikel 126 of 127 voor kosten ziet gesteld, die redelijkerwijs niet of niet geheel te zijnen laste behoren te blijven, kan Onze Minister hem, voor zover op andere wijze in een redelijke vergoeding niet is of kan worden voorzien, op diens verzoek een naar billijkheid te bepalen vergoeding toekennen.
 
 ### §  3  
 

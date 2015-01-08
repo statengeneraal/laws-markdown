@@ -47,9 +47,7 @@ n.  *het openbaar ministerie:* gegevens en inlichtingen ten behoeve van de in ar
 
 o.  *de rijksbelastingdienst:* gegevens en inlichtingen ten behoeve van het uitvoeren van de belastingwet, genoemd in artikel 2, eerste lid, onderdeel a, van de Algemene wet inzake rijksbelastingen;  
 
-p.  *de Sociaal-Economische Raad:* gegevens en inlichtingen ten behoeve van de in artikel 126, zevende lid, van de Wet op de bedrijfsorganisatie opgedragen taak;  
-
-q.  *de Stichting Autoriteit Financiële Markten:* gegevens en inlichtingen ten behoeve van de in artikel 3.1 van de Wet handhaving consumentenbescherming en artikel 1:25 van de Wet op het financieel toezicht opgedragen taak.     
+p.  *de Stichting Autoriteit Financiële Markten:* gegevens en inlichtingen ten behoeve van de in artikel 3.1 van de Wet handhaving consumentenbescherming en artikel 1:25 van de Wet op het financieel toezicht opgedragen taak.     
 2.  De Autoriteit Consument en Markt is bevoegd om aan personen of colleges, werkzaam onder de verantwoordelijkheid van de Minister van Economische Zaken of de Minister van Infrastructuur en Milieu, gegevens en inlichtingen te verstrekken voor zover dat noodzakelijk is voor de goede uitoefening van de aan hen bij wettelijk voorschrift toegedeelde bevoegdheid tot het nemen van besluiten of tot het verrichten van andere handelingen dan besluiten.  
 
 ### §  2  

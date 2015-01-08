@@ -3,7 +3,7 @@
 ##Uitkeringsreglement WW 2009
 
 Het Uitvoeringsinstituut werknemersverzekeringen,  
-Gelet op [artikel 101 van de Werkloosheidswet](../../../../../wet/werkloosheidswet/BWBR0004045/README.md);
+Gelet op artikel 101 van de Werkloosheidswet;
 Besluit:    
 ### §  1  
 
@@ -15,19 +15,19 @@ Besluit:
 
 In dit reglement wordt verstaan onder: 
 
-a.  *werknemer:* werknemer in de zin van de [Werkloosheidswet](../../../../../wet/werkloosheidswet/BWBR0004045/README.md);  
+a.  *werknemer:* werknemer in de zin van de Werkloosheidswet;  
 
-b.  *werkgever:* werkgever in de zin van de [Werkloosheidswet](../../../../../wet/werkloosheidswet/BWBR0004045/README.md);  
+b.  *werkgever:* werkgever in de zin van de Werkloosheidswet;  
 
-c.  *UWV:* Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
+c.  *UWV:* Uitvoeringsinstituut werknemersverzekeringen, genoemd in hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen;  
 
-d.  *uitkering:* uitkering in de zin van [hoofdstuk II van de Werkloosheidswet](../../../../../wet/werkloosheidswet/BWBR0004045/README.md);  
+d.  *uitkering:* uitkering in de zin van hoofdstuk II van de Werkloosheidswet;  
 
 e.  *wijzigingsformulier:* een door het UWV aan de werknemer ter beschikking gesteld formulier, waarop deze wijziging van de voor de beoordeling van het recht op uitkering noodzakelijke gegevens vermeldt;  
 
 f.  * inkomstenformulier:* een door het UWV aan de werknemer periodiek ter beschikking gesteld formulier, waarop deze de voor de beoordeling van het recht op uitkering noodzakelijke gegevens vermeldt. Dit formulier kan ook worden verstrekt onder de benaming werkbriefje;  
 
-g.  *DigiD:* de voorziening bedoeld in [artikel 1, onder c, van het Tijdelijk besluit nummergebruik overheidstoegangsvoorziening](../../../../../AMvB/tijdelijk/besluit/nummergebruik/overheidstoegangsvoorziening/BWBR0017449/README.md).  
+g.  *DigiD:* de voorziening bedoeld in artikel 1, onder c, van het Tijdelijk besluit nummergebruik overheidstoegangsvoorziening.  
 
 ### §  2  
 
@@ -67,7 +67,7 @@ e. geeft van een wijziging in zijn woon- of verblijfplaats onverwijld kennis aan
 
 f. verleent op verzoek van het UWV inzage en verstrekt tegen kostprijs informatie voor zover deze betekenis kan hebben voor het recht op uitkering, de hoogte of de duur van de uitkering of het bedrag van de uitkering dat aan de werknemer wordt betaald.  
 2. De werknemer bewaart de in het eerste lid onderdeel f bedoelde informatie tot het einde van het kalenderjaar volgend op het kalenderjaar waarop de informatie betrekking heeft.
-3. De werknemer is verplicht ten behoeve van de uitvoering van de [Werkloosheidswet](../../../../../wet/werkloosheidswet/BWBR0004045/README.md) het bepaalde in het eerste lid, onderdelen a en f en het bepaalde in het tweede lid ook na te komen als het recht op uitkering (geheel of gedeeltelijk) is beëindigd.
+3. De werknemer is verplicht ten behoeve van de uitvoering van de Werkloosheidswet het bepaalde in het eerste lid, onderdelen a en f en het bepaalde in het tweede lid ook na te komen als het recht op uitkering (geheel of gedeeltelijk) is beëindigd.
 
 ### §  3  
 
@@ -92,7 +92,7 @@ Als de werknemer
 
 a. werkloos is geworden uitsluitend als gevolg van vorst, sneeuwval, hoog water of andere buitengewone natuurlijke omstandigheden, of  
 
-b.  werkloos is geworden als gevolg van een werktijdverkorting, waarvoor ingevolge [artikel 8, derde lid, van het Buitengewoon Besluit Arbeidsverhoudingen 1945](../../../../../KB/buitengewoon/besluit/arbeidsverhoudingen/1945/BWBR0002014/README.md) vergunning is verleend,   en de dienstbetrekking tijdens die werkloosheid blijft voortbestaan, kan het UWV toestaan dat de aangifte en de aanvraag, bedoeld in artikel 2, namens de werknemer door de werkgever wordt gedaan en dat de betaling van de uitkering door tussenkomst van de werkgever plaatsvindt.
+b.  werkloos is geworden als gevolg van een werktijdverkorting, waarvoor ingevolge artikel 8, derde lid, van het Buitengewoon Besluit Arbeidsverhoudingen 1945 vergunning is verleend,   en de dienstbetrekking tijdens die werkloosheid blijft voortbestaan, kan het UWV toestaan dat de aangifte en de aanvraag, bedoeld in artikel 2, namens de werknemer door de werkgever wordt gedaan en dat de betaling van de uitkering door tussenkomst van de werkgever plaatsvindt.
 
 ### Artikel  7  
 
@@ -100,7 +100,7 @@ b.  werkloos is geworden als gevolg van een werktijdverkorting, waarvoor ingevol
 
 1.  De werkgever, aan wie is toegestaan aangifte te doen van werkloosheid als bedoeld in artikel 6, houdt een administratie bij van de dagen waarop en de uren gedurende welke de werknemer of werknemers, namens wie hij genoemde aangifte heeft gedaan, uitsluitend als gevolg van de in het eerste lid genoemde omstandigheden niet hebben gewerkt. Deze administratie voldoet aan de door het UWV daaraan gestelde eisen.
 2.  Het bepaalde in artikel 2 is op de aangifte en de aanvraag als bedoeld in artikel 6 van overeenkomstige toepassing.
-3.  In afwijking van het bepaalde in [artikel 26, eerste lid, onder a, van de Werkloosheidswet](../../../../../wet/werkloosheidswet/BWBR0004045/README.md), wordt de aangifte bij werkloosheid als bedoeld in artikel 6, onder a, gedaan op de eerste dag van werkloosheid.
+3.  In afwijking van het bepaalde in artikel 26, eerste lid, onder a, van de Werkloosheidswet, wordt de aangifte bij werkloosheid als bedoeld in artikel 6, onder a, gedaan op de eerste dag van werkloosheid.
 4.  Als het UWV daarom verzoekt zendt de werkgever aan wie de in artikel 6 bedoelde toestemming is verleend, de inkomstenformulieren van ieder van de werknemers, namens wie hij aangifte van werkloosheid heeft gedaan, overeenkomstig het bepaalde in artikel 4 tegen een door het UWV aan te geven tijdstip aan het UWV.
 
 ### Artikel  8  
@@ -117,11 +117,11 @@ Als de werkgever aan wie de in artikel 7, eerste lid bedoelde toestemming is ver
 
 ####Voorwaarden bij betaling van voorschotten
 
-1.  De werknemer op wie het bepaalde in [artikel 31 van de Werkloosheidswet](../../../../../wet/werkloosheidswet/BWBR0004045/README.md) van toepassing is, maakt op verzoek van het UWV zijn eventuele aanspraak naar burgerlijk recht geldend.
-2.  De in het eerste lid bedoelde werknemer dient, op verzoek van het Uitvoeringsinstituut werknemersverzekeringen, zo spoedig mogelijk bij de bevoegde gemeente een aanvraag om bijstand ingevolge de [Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) in.
+1.  De werknemer op wie het bepaalde in artikel 31 van de Werkloosheidswet van toepassing is, maakt op verzoek van het UWV zijn eventuele aanspraak naar burgerlijk recht geldend.
+2.  De in het eerste lid bedoelde werknemer dient, op verzoek van het Uitvoeringsinstituut werknemersverzekeringen, zo spoedig mogelijk bij de bevoegde gemeente een aanvraag om bijstand ingevolge de Wet werk en bijstand in.
 3.  De in het eerste lid bedoelde werknemer machtigt het UWV desgevraagd tot het in ontvangst nemen van de gelden die hij, over de periode waarover voorschotten zijn verleend, ontvangt van degene jegens wie hij zijn aanspraak naar burgerlijk recht tracht geldend te maken tot ten hoogste het bedrag van de verleende voorschotten.
-4.  De in het eerste lid bedoelde werknemer machtigt het UWV desgevraagd tot het in ontvangst nemen van de bijstand ingevolge de [Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) die hij van de in het tweede lid bedoelde gemeente ontvangt, indien en voor zover deze bijstand betrekking heeft op de periode waarover voorschotten zijn verleend tot ten hoogste het bedrag van de verleende voorschotten.
-5.  Het UWV kan aan de betaling van voorschotten als bedoeld in [artikel 31 van de Werkloosheidswet](../../../../../wet/werkloosheidswet/BWBR0004045/README.md) andere voorschriften verbinden.
+4.  De in het eerste lid bedoelde werknemer machtigt het UWV desgevraagd tot het in ontvangst nemen van de bijstand ingevolge de Wet werk en bijstand die hij van de in het tweede lid bedoelde gemeente ontvangt, indien en voor zover deze bijstand betrekking heeft op de periode waarover voorschotten zijn verleend tot ten hoogste het bedrag van de verleende voorschotten.
+5.  Het UWV kan aan de betaling van voorschotten als bedoeld in artikel 31 van de Werkloosheidswet andere voorschriften verbinden.
 
 ### §  5  
 
@@ -131,8 +131,8 @@ Als de werkgever aan wie de in artikel 7, eerste lid bedoelde toestemming is ver
 
 ####Aftrek loon zonder werken
 
-1.  Onverminderd hetgeen elders bij of krachtens de [Werkloosheidswet](../../../../../wet/werkloosheidswet/BWBR0004045/README.md) is bepaald omtrent loondoorbetaling, wordt op de uitkering geheel in mindering gebracht, loon uit dienstbetrekking dat de werknemer geniet zonder hiervoor te werken.
-2.  Het tweede en zesde lid van [artikel 34 van de Werkloosheidswet](../../../../../wet/werkloosheidswet/BWBR0004045/README.md) zijn van overeenkomstige toepassing.
+1.  Onverminderd hetgeen elders bij of krachtens de Werkloosheidswet is bepaald omtrent loondoorbetaling, wordt op de uitkering geheel in mindering gebracht, loon uit dienstbetrekking dat de werknemer geniet zonder hiervoor te werken.
+2.  Het tweede en zesde lid van artikel 34 van de Werkloosheidswet zijn van overeenkomstige toepassing.
 
 ### §  6  
 
@@ -142,7 +142,7 @@ Als de werkgever aan wie de in artikel 7, eerste lid bedoelde toestemming is ver
 
 ####Intrekking vorig reglement
 
-Het [Uitkeringsreglement WW 2002](../../../../../zbo/uitkeringsreglement/ww/2002/BWBR0013940/README.md) wordt ingetrokken.
+Het Uitkeringsreglement WW 2002 wordt ingetrokken.
 
 ### Artikel  12  
 

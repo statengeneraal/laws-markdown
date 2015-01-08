@@ -1138,7 +1138,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 a. bij de eerste gelegenheid aan de Conferentie van de partijen verslag uit te brengen van de ingevoerde maatregelen of strategieën, met inbegrip van een kwantificering van de bereikte reducties;  
 
-b. maatregelen of strategieën in te voeren om het gebruik van kwik te verminderen in producten die in Deel I van Bijlage A zijn vermeld waarvoor nog geen „de-minimis”-waarde is behaald;  
+b. maatregelen of strategieën toe te passen om het gebruik van kwik te verminderen in producten die in Deel I van Bijlage A zijn vermeld waarvoor nog geen „de-minimis”-waarde is behaald;  
 
 c. aanvullende maatregelen te overwegen om verdere reducties te bewerkstelligen; en  
 
@@ -1147,7 +1147,7 @@ d. geen beroep te kunnen doen op vrijstellingen ingevolge artikel 6 voor een pro
 4.  Het Secretariaat verzamelt en houdt op basis van door de partijen verstrekte informatie, informatie bij over kwikhoudende producten en hun alternatieven en stelt deze informatie algemeen beschikbaar. Het Secretariaat stelt ook andere relevante informatie die door de partijen is ingediend algemeen beschikbaar.   
 5.  Elke partij neemt maatregelen om te voorkomen dat kwikhoudende producten waarvan de productie, import en export ingevolge dit artikel niet zijn toegestaan, worden opgenomen in samengestelde producten.   
 6.  Elke partij ontmoedigt de productie en commerciële distributie van kwikhoudende producten die niet vallen onder het gebruik van kwikhoudende producten zoals dat tot op de datum van inwerkingtreding van het Verdrag voor die partij bekend was, tenzij een beoordeling van de risico’s en voordelen van het product aantoont dat het product voordelen voor het milieu en de menselijke gezondheid oplevert. De partijen voorzien het Secretariaat, in voorkomend geval, van informatie over een dergelijk product, met inbegrip van informatie over de risico’s en voordelen voor het milieu en de menselijke gezondheid van dit product. Het Secretariaat stelt deze informatie algemeen beschikbaar.   
-7.  Elke partij kan bij het Secretariaat een voorstel indienen voor het opnemen in Bijlage A van een kwikhoudend product, met inbegrip van informatie over de beschikbaarheid, technische en economische haalbaarheid en risico’s en voordelen voor het milieu en de gezondheid van de kwikvrije alternatieven voor het product, rekening houdend met informatie ingevolge het vierde lid.   
+7.  Elke partij kan bij het Secretariaat een voorstel indienen voor het vermelden in Bijlage A van een kwikhoudend product, met inbegrip van informatie over de beschikbaarheid, technische en economische haalbaarheid en risico’s en voordelen voor het milieu en de gezondheid van de kwikvrije alternatieven voor het product, rekening houdend met informatie ingevolge het vierde lid.   
 8.  Uiterlijk vijf jaar na de datum van inwerkingtreding van het Verdrag toetst de Conferentie van de partijen Bijlage A en kan zij wijzigingen van die Bijlage in overweging nemen in overeenstemming met artikel 27.   
 9.  Bij de toetsing van Bijlage A overeenkomstig het achtste lid houdt de Conferentie van de partijen ten minste rekening met: 
 
@@ -1176,7 +1176,7 @@ b. neemt in haar ingevolge artikel 21 ingediende verslagen informatie op over de
 c. streeft ernaar faciliteiten op haar grondgebied te identificeren die kwik of kwikverbindingen gebruiken voor in Bijlage B vermelde processen en dient uiterlijk drie jaar nadat het Verdrag voor haar in werking treedt bij het Secretariaat informatie in over het aantal en type faciliteiten en de geraamde jaarlijkse hoeveelheid kwik of kwikverbindingen die in deze faciliteiten worden gebruikt.   Het Secretariaat stelt deze informatie algemeen beschikbaar.  
 6.  Geen van de partijen staat toe dat een faciliteit die niet bestond voor de datum waarop het Verdrag voor haar in werking trad kwik of kwikverbindingen gebruikt bij de in Bijlage B vermelde productieprocessen. Voor deze faciliteiten gelden geen vrijstellingen.   
 7.  Elke partij ontmoedigt de ontwikkeling van faciliteiten die een ander productieproces gebruiken waarbij bewust kwik of kwikverbindingen worden gebruikt dat niet bestond voor de datum van inwerkingtreding van het Verdrag, tenzij de partij ten genoegen van de Conferentie van de partijen kan aantonen dat het productieproces aanzienlijke voordelen voor milieu en gezondheid biedt en dat er geen technisch en economisch haalbare kwikvrije alternatieven beschikbaar zijn die dezelfde voordelen bieden.   
-8.  De partijen worden aangemoedigd informatie uit te wisselen over relevante nieuwe technologische ontwikkelingen, economisch en technisch haalbare kwikvrije alternatieven en mogelijke maatregelen en technieken voor het verminderen en waar mogelijk uitbannen van het gebruik van kwik en kwikverbindingen in, en emissies en lozingen van kwik en kwikverbindingen bij, de in Bijlage B opgenomen productieprocessen.   
+8.  De partijen worden aangemoedigd informatie uit te wisselen over relevante nieuwe technologische ontwikkelingen, economisch en technisch haalbare kwikvrije alternatieven en mogelijke maatregelen en technieken voor het verminderen en waar mogelijk beëindigen van het gebruik van kwik en kwikverbindingen in, en emissies en lozingen van kwik en kwikverbindingen bij, de in Bijlage B vermelde productieprocessen.   
 9.  Elke partij kan een voorstel tot wijziging van Bijlage B indienen voor vermelding van een productieproces waarbij kwik of kwikverbindingen worden gebruikt. Het voorstel omvat informatie over de beschikbaarheid, technische en economische haalbaarheid en risico’s en voordelen voor milieu en gezondheid van de kwikvrije alternatieven voor het proces.   
 10.  Uiterlijk vijf jaar na de datum van inwerkingtreding van het Verdrag toetst de Conferentie van de partijen Bijlage B en kan zij wijzigingen van die Bijlage in overweging nemen in overeenstemming met artikel 27.   
 11.  Bij toetsing van Bijlage B ingevolge het tiende lid, houdt de Conferentie van de partijen ten minste rekening met: 
@@ -1207,7 +1207,7 @@ a. een lijst van de partijen met een of meer vrijstellingen;
 b. de voor elke partij geregistreerde vrijstelling of vrijstellingen; en  
 
 c. de datum waarop elke vrijstelling verstrijkt.     
-5.  Tenzij een partij in het register een kortere termijn heeft aangegeven, verstrijken alle vrijstellingen ingevolge het eerste lid vijf jaar na de betreffende datum van uitfasering opgenomen in Bijlage A of B.   
+5.  Tenzij een partij in het register een kortere termijn heeft aangegeven, verstrijken alle vrijstellingen ingevolge het eerste lid vijf jaar na de betreffende datum van uitfasering vermeld in Bijlage A of B.   
 6.  De Conferentie van de partijen kan, op verzoek van een partij, beslissen een vrijstelling met vijf jaar te verlengen, tenzij de partij om een kortere termijn verzoekt. Bij haar beslissing houdt de Conferentie van de partijen terdege rekening met het volgende: 
 
 a. een verslag van de partij waarin de noodzaak van verlenging van de vrijstelling wordt onderbouwd en een overzicht wordt gegeven van de ondernomen en geplande activiteiten om de noodzaak voor de vrijstelling zo snel mogelijk weg te nemen;  
@@ -1226,7 +1226,7 @@ c. geplande of reeds in gang gezette activiteiten voor milieuverantwoorde opslag
 Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De maatregelen in dit artikel en in Bijlage C zijn van toepassing op ambachtelijke en kleinschalige goudwinning en -verwerking waarbij goud uit erts onttrokken wordt door het met kwik te amalgameren.   
-2.  Elke partij op het grondgebied waarvan ambachtelijke en kleinschalige goudwinning en -verwerking plaatsvinden waarop dit artikel van toepassing is, neemt maatregelen om het gebruik van kwik en kwikverbindingen en emissies en lozingen in het milieu als gevolg van deze winning en verwerking te verminderen, en waar mogelijk, uit te bannen.   
+2.  Elke partij op het grondgebied waarvan ambachtelijke en kleinschalige goudwinning en -verwerking plaatsvinden waarop dit artikel van toepassing is, neemt maatregelen om het gebruik van kwik en kwikverbindingen en emissies en lozingen in het milieu als gevolg van deze winning en verwerking te verminderen, en waar mogelijk, te beëindigen.   
 3.  Indien een partij op enig moment vaststelt dat de ambachtelijke en kleinschalige goudwinning en -verwerking op haar grondgebied niet onbetekenend zijn, stelt zij het Secretariaat hiervan in kennis. In dat geval: 
 
 a. ontwikkelt en voert de partij een nationaal actieplan uit in overeenstemming met Bijlage C;  
@@ -1254,7 +1254,7 @@ f. het gebruik van bestaande mechanismen voor informatie-uitwisseling ter bevord
 
 Treedt in werking op een nader te bepalen tijdstip 
 
-1.  Dit artikel heeft betrekking op het beheersen en, waar mogelijk, verminderen van de emissies van kwik en kwikverbindingen, vaak uitgedrukt als de „totaal kwik”, in de atmosfeer door maatregelen om de emissies van puntbronnen die vallen onder de in Bijlage D vermelde broncategorieën te beheersen.   
+1.  Dit artikel heeft betrekking op het beheersen en, waar mogelijk, verminderen van de emissies van kwik en kwikverbindingen, vaak uitgedrukt als „totaal kwik”, in de atmosfeer door maatregelen om de emissies van puntbronnen die vallen onder de in Bijlage D vermelde broncategorieën te beheersen.   
 2.  Voor de toepassing van dit artikel wordt verstaan onder: 
 
 a. „emissies”: emissies van kwik of kwikverbindingen in de atmosfeer;  
@@ -1306,7 +1306,7 @@ b. de methode voor het inventariseren van emissies.
 
 Treedt in werking op een nader te bepalen tijdstip 
 
-1.  Dit artikel heeft betrekking op het beheersen en, waar mogelijk, verminderen van lozingen van kwik en kwikverbindingen, vaak aangeduid als „totaal kwik”, in de bodem en het water door relevante puntbronnen die niet in andere bepalingen van dit Verdrag aan de orde komen.   
+1.  Dit artikel heeft betrekking op het beheersen en, waar mogelijk, verminderen van lozingen van kwik en kwikverbindingen, vaak uitgedrukt als „totaal kwik”, in de bodem en het water door relevante puntbronnen die niet in andere bepalingen van dit Verdrag aan de orde komen.   
 2.  Voor de toepassing van dit artikel wordt verstaan onder: 
 
 a. „lozingen”: lozingen van kwik of kwikverbindingen in de bodem of het water;  
@@ -1444,7 +1444,7 @@ c. problemen identificeren die partijen, met name partijen die ontwikkelingsland
 
 Treedt in werking op een nader te bepalen tijdstip 
 
-1.  Hierbij wordt een mechanisme, met inbegrip van een comité als hulporgaan van de Conferentie van de partijen, ingesteld ter bevordering van de uitvoering van alle bepalingen van dit Verdrag en de toetsing van de naleving ervan. Het mechanisme, met inbegrip van het comité, is faciliterend van aard en is met name gericht op de respectieve nationale capaciteiten en de omstandigheden van de partijen.   
+1.  Hierbij wordt een mechanisme, met inbegrip van een comité als hulporgaan van de Conferentie van de partijen, ingesteld ter bevordering van de uitvoering van alle bepalingen van dit Verdrag en de toetsing van de naleving ervan. Het mechanisme, met inbegrip van het comité, is faciliterend van aard en heeft bijzondere aandacht voor de respectieve nationale capaciteiten en de omstandigheden van de partijen.   
 2.  Het comité bevordert de uitvoering van alle bepalingen van dit Verdrag en toetst de naleving ervan. Het comité onderzoekt zowel individuele als systemische kwesties omtrent uitvoering en naleving en doet, in voorkomend geval, aanbevelingen aan de Conferentie van de partijen.   
 3.  Het comité bestaat uit 15 leden, voorgedragen door de partijen en gekozen door de Conferentie van de partijen, waarbij een billijke geografische spreiding op basis van de vijf regio’s van de Verenigde Naties naar behoren in acht wordt genomen; de eerste leden worden gekozen tijdens de eerste vergadering van de Conferentie van de partijen en daarna in overeenstemming met het reglement van orde dat ingevolge het vijfde lid door de Conferentie van de partijen wordt goedgekeurd; de leden van het comité beschikken over competenties op voor dit Verdrag relevante gebieden met een goede balans tussen de verschillende terreinen van deskundigheid.   
 4.  Het comité kan zich buigen over kwesties op basis van: 
@@ -1488,7 +1488,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 a. wetenschappelijke, technische, economische en juridische informatie over kwik en kwikverbindingen, met inbegrip van toxicologische, ecotoxicologische en veiligheidsinformatie;  
 
-b. informatie over de vermindering of uitbanning van de productie, het gebruik, emissies en lozingen van kwik en kwikverbindingen en de handel daarin;  
+b. informatie over de vermindering of beëindiging van de productie, het gebruik, emissies en lozingen van kwik en kwikverbindingen en de handel daarin;  
 
 c. informatie over technisch en economisch haalbare alternatieven voor: 
 
@@ -1543,9 +1543,9 @@ c. beoordelingen van de gevolgen van kwik en kwikverbindingen voor de menselijke
 
 d. geharmoniseerde methodologieën voor de activiteiten ondernomen ingevolge de onderdelen a, b en c;  
 
-e. informatie over de milieucyclus, verspreiding (met inbegrip van verspreiding over lange afstand en neerslag), transformatie en de uiteindelijke bestemming van kwik en kwikverbindingen in een scala van ecosystemen, daarbij voldoende rekening houdend met het onderscheid tussen enerzijds antropogene emissies en lozingen en anderzijds natuurlijke emissies en lozingen van kwik en met het opnieuw vrijkomen van kwik uit historische depositie;  
+e. informatie over de milieucyclus, verspreiding (met inbegrip van verspreiding over lange afstand en depositie), transformatie en de uiteindelijke bestemming van kwik en kwikverbindingen in een scala van ecosystemen, daarbij voldoende rekening houdend met het onderscheid tussen enerzijds antropogene emissies en lozingen en anderzijds natuurlijke emissies en lozingen van kwik en met het opnieuw vrijkomen van kwik uit historische depositie;  
 
-f. informatie over de handel in en afzet van kwik en kwikverbindingen en producten waaraan kwik is toegevoegd; en  
+f. informatie over de handel in en afzet van kwik en kwikverbindingen en kwikhoudende producten; en  
 
 g. informatie over en onderzoek naar de technische en economische beschikbaarheid van kwikvrije producten en processen en de beste beschikbare technieken en de beste milieupraktijken om emissies en lozingen van kwik en kwikverbindingen te verminderen en te monitoren.     
 2.  De partijen dienen, waar nodig, voort te bouwen op bestaande monitoringsnetwerken en onderzoeksprogramma’s bij het uitvoeren van de in het eerste lid genoemde activiteiten.  
@@ -1578,7 +1578,7 @@ Treedt in werking op een nader te bepalen tijdstip
 Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De Conferentie van de partijen evalueert de doeltreffendheid van dit Verdrag uiterlijk zes jaar na de datum van inwerkingtreding van het Verdrag en daarna periodiek met een door de Conferentie van de partijen te bepalen regelmaat.   
-2.  Teneinde de evaluatie te vergemakkelijken initieert de Conferentie van de partijen tijdens haar eerste vergadering het treffen van regelingen teneinde er zelf voor te zorgen dat zij kan beschikken over vergelijkbare monitoringgegevens met betrekking tot de aanwezigheid en de verplaatsing van kwik en kwikverbindingen in het milieu alsmede trends in de concentraties aan kwik en kwikverbindingen die worden aangetroffen in biota en kwetsbare bevolkingsgroepen.   
+2.  Teneinde de evaluatie te vergemakkelijken initieert de Conferentie van de partijen tijdens haar eerste vergadering het treffen van regelingen teneinde er voor te zorgen dat zij kan beschikken over vergelijkbare monitoringgegevens met betrekking tot de aanwezigheid en de verplaatsing van kwik en kwikverbindingen in het milieu alsmede trends in de concentraties aan kwik en kwikverbindingen die worden aangetroffen in biota en kwetsbare bevolkingsgroepen.   
 3.  De evaluatie wordt uitgevoerd op basis van beschikbare wetenschappelijke, technische, financiële, economische en milieu-informatie, met inbegrip van: 
 
 a. verslagen en andere monitoringgegevens die ingevolge het tweede lid aan de Conferentie van de partijen worden verstrekt;  
@@ -1637,7 +1637,7 @@ f. onder de algemene leiding van de Conferentie van de partijen, de administrati
 
 g. de andere in dit Verdrag omschreven of nog door de Conferentie van de partijen vast te stellen secretariaatstaken en andere taken te verrichten.     
 3.  De secretariaatstaken voor dit Verdrag worden uitgevoerd door de Uitvoerend Directeur van het Milieuprogramma van de Verenigde Naties, tenzij de Conferentie van de partijen met een meerderheid van drie vierden van de aanwezige partijen die hun stem uitbrengen beslist de secretariaatstaken toe te vertrouwen aan één of meer andere internationale organisaties.   
-4.  De Conferentie van de partijen kan in overleg met relevante internationale instellingen voorzien in intensievere samenwerking en coördinatie tussen het Secretariaat en de secretariaten van andere verdragen inzake chemicaliën en afval. De Conferentie van de partijen kan hierover in overleg met geschikte relevante internationale instellingen nadere richtlijnen verstrekken.  
+4.  De Conferentie van de partijen kan in overleg met relevante internationale instellingen voorzien in intensievere samenwerking en coördinatie tussen het Secretariaat en de secretariaten van andere verdragen inzake chemicaliën en afval. De Conferentie van de partijen kan hierover in overleg met relevante internationale instellingen nadere richtlijnen verstrekken.  
 
 ### Artikel  25  
 
@@ -1652,7 +1652,7 @@ a. arbitrage in overeenstemming met de procedure omschreven in Deel I van Bijlag
 
 b. voorlegging van het geschil aan het Internationaal Gerechtshof.     
 3.  Een partij die een regionale organisatie voor economische integratie is, kan in overeenstemming met het tweede lid een verklaring van gelijke strekking afleggen met betrekking tot arbitrage.   
-4.  Een uit hoofde van het tweede of derde lid afgelegde verklaring blijft van kracht totdat zij overeenkomstig de daarin vermelde voorwaarden haar geldigheid verliest, of tot drie maanden na indiening van de schriftelijke kennisgeving van herroeping bij de depositaris.   
+4.  Een uit hoofde van het tweede of derde lid afgelegde verklaring blijft van kracht totdat zij overeenkomstig de daarin vermelde voorwaarden haar geldigheid verliest, of tot drie maanden na nederlegging van de schriftelijke kennisgeving van herroeping bij de depositaris.   
 5.  Het vervallen van de geldigheid van een verklaring, een kennisgeving van herroeping of een nieuwe verklaring heeft generlei gevolgen voor geschillen die reeds bij een scheidsgerecht of bij het Internationaal Gerechtshof aanhangig zijn gemaakt, tenzij de partijen bij het geschil anders overeenkomen.   
 6.  Indien de partijen bij een geschil niet hetzelfde middel van geschillenbeslechting als bedoeld in het tweede of derde lid hebben aanvaard, en indien zij er binnen twaalf maanden na de kennisgeving van de ene partij aan de andere dat tussen hen een geschil bestaat, niet in geslaagd zijn hun geschil te regelen door middel van het in het eerste lid genoemde middel, wordt het geschil op verzoek van één van de bij het geschil betrokken partijen aan een conciliatiecommissie voorgelegd. De in Deel II van Bijlage E beschreven procedure heeft betrekking op conciliatie ingevolge dit artikel.  
 
@@ -1711,7 +1711,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 1.  Dit Verdrag dient te worden bekrachtigd, aanvaard of goedgekeurd door staten en regionale organisaties voor economische integratie. Het staat open voor toetreding door staten en regionale organisaties voor economische integratie vanaf de dag na de datum waarop het Verdrag voor ondertekening gesloten is. De akten van bekrachtiging, aanvaarding, goedkeuring of toetreding worden nedergelegd bij de depositaris.   
 2.  Een regionale organisatie voor economische integratie die partij wordt bij dit Verdrag zonder dat één van haar lidstaten partij is, is gebonden aan alle verplichtingen krachtens het Verdrag. Wanneer één of meer lidstaten van een dergelijke organisatie partij zijn bij dit Verdrag, beslissen de organisatie en haar lidstaten over hun respectieve verantwoordelijkheden met betrekking tot de nakoming van hun verplichtingen ingevolge het Verdrag. In dergelijke gevallen zijn de organisatie en de lidstaten niet gerechtigd de uit het Verdrag voortvloeiende rechten tegelijkertijd uit te oefenen.   
-3.  In hun akten van bekrachtiging, aanvaarding, goedkeuring of toetreding vermelden regionale organisaties voor economische integratie de omvang van hun bevoegdheid ter zake van door het Verdrag geregelde aangelegenheden. Deze organisaties stellen de depositaris ook in kennis van elke relevante wijziging betreffende de omvang van hun bevoegdheid, en de depositaris stelt op haar beurt de partijen daarvan in kennis.   
+3.  In hun akten van bekrachtiging, aanvaarding, goedkeuring of toetreding vermelden regionale organisaties voor economische integratie de omvang van hun bevoegdheid ter zake van door het Verdrag geregelde aangelegenheden. Deze organisaties stellen de depositaris ook in kennis van elke relevante wijziging betreffende de omvang van hun bevoegdheid, en de depositaris stelt op zijn beurt de partijen daarvan in kennis.   
 4.  Elke staat of regionale organisatie voor economische integratie wordt aangemoedigd op het tijdstip van zijn of haar bekrachtiging, aanvaarding, goedkeuring van of toetreding tot het Verdrag het Secretariaat informatie te doen toekomen over zijn of haar maatregelen voor de uitvoering van het Verdrag.   
 5.  In haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding kan een partij verklaren dat een wijziging van een bijlage voor haar eerst in werking treedt na nederlegging van haar akte van bekrachtiging, aanvaarding, goedkeuring van of toetreding tot een dergelijke wijziging.  
 
@@ -1786,7 +1786,7 @@ e. vaccins die thiomersal als conserveringsmiddel bevatten.    *Deel I: Producte
 | Lineaire fluorescentielampen (LFL-lampen) voor algemene verlichtingsdoeleinden:  a. Triband-fosfor < 60 W met een kwikgehalte van meer dan 5 mg per lamp;  b. Halofosfaat-fosfor ≤ 40 W met een kwikgehalte van meer dan 10 mg per lamp  | 2020  |
 | Hogedruk-kwikdamplampen (HPMV-lampen) voor algemene verlichtingsdoeleinden  | 2020  |
 | Kwik in fluorescentielampen met koude kathode (CCFL) en fluorescentielampen met externe elektrode (EEFL) voor elektronische beeldschermen:  a. kort (lengte ≤ 500 mm) met een kwikgehalte van meer dan 3,5 mg per lamp  b. gemiddeld (lengte > 500 mm en ≤ 1.500 mm) met een kwikgehalte van meer dan 5 mg per lamp  c. lang (lengte > 1.500 mm) met een kwikgehalte van meer dan 13 mg per lamp  | 2020  |
-| Cosmetica (met een kwikgehalte van meer dan 1ppm), waaronder zeep en crème voor het bleken van de huid, maar exclusief cosmetica voor de oogcontouren waarin kwik als conserveringsmiddel wordt gebruikt waarvoor geen effectieve en veilige vervangende conserveringsmiddelen beschikbaar zijn<sup>1)</sup>   | 2020  |
+| Cosmetica (met een kwikgehalte van meer dan 1 ppm), waaronder zeep en crème voor het bleken van de huid, maar exclusief cosmetica voor de oogcontouren waarin kwik als conserveringsmiddel wordt gebruikt waarvoor geen effectieve en veilige vervangende conserveringsmiddelen beschikbaar zijn<sup>1)</sup>   | 2020  |
 | Pesticiden, biociden en topische antiseptica  | 2020  |
 | De volgende niet-elektronische meetinstrumenten, uitgezonderd niet-elektronische meetinstrumenten die geïnstalleerd zijn in omvangrijke apparatuur of instrumenten die worden gebruikt voor zeer nauwkeurige metingen wanneer er geen geschikte kwikvrije alternatieven beschikbaar zijn:  a. barometers;  b. hygrometers;  c. manometers;  d. thermometers;  e. bloeddrukmeters  | 2020  |
 
@@ -1829,7 +1829,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 a. nationale doelstellingen en reductiedoelstellingen;  
 
-b. maatregelen om het volgende uit te bannen: 
+b. maatregelen om het volgende te beëindigen: 
 
 i. amalgamatie van ruwe erts;  
 
@@ -1843,7 +1843,7 @@ c. stappen om het formaliseren of reguleren van de ambachtelijke en kleinschalig
 
 d. referentiemetingen van de hoeveelheden kwik die gebruikt worden en de toegepaste praktijken in de ambachtelijke en kleinschalige goudwinning en -verwerking op haar grondgebied;  
 
-e. strategieën ter bevordering van het verminderen van emissies en lozingen van, en blootstelling aan, kwik in de ambachtelijke en kleinschalige goudwinning en -verwerking, met inbegrip van methoden waarbij geen kwik wordt gebruikt.  
+e. strategieën ter bevordering van het verminderen van emissies en lozingen van, en blootstelling aan, kwik in de ambachtelijke en kleinschalige goudwinning en -verwerking, met inbegrip van methoden waarbij geen kwik wordt gebruikt;  
 
 f. strategieën voor het beheren van de handel en het voorkomen van de verspreiding van kwik en kwikverbindingen afkomstig uit zowel buitenlandse als binnenlandse bronnen voor gebruik in de ambachtelijke en kleinschalige goudwinning en -verwerking;  
 
@@ -2018,7 +2018,7 @@ Treedt in werking op een nader te bepalen tijdstip
 ### Artikel  7  
 Treedt in werking op een nader te bepalen tijdstip 
 
-De partijen bij het geschil verlenen de conciliatiecommissie medewerking. Zij spannen zich met name in om te voldoen aan verzoeken van het comité om schriftelijk materiaal in te dienen, bewijzen te overleggen en bijeenkomsten bij te wonen. De partijen en de leden van de conciliatiecommissie zijn verplicht de vertrouwelijkheid te beschermen van alle informatie of documenten die zij gedurende de procedure van de commissie in vertrouwelijkheid ontvangen. 
+De partijen bij het geschil verlenen de conciliatiecommissie medewerking. Zij spannen zich met name in om te voldoen aan verzoeken van de commissie om schriftelijk materiaal in te dienen, bewijzen te overleggen en bijeenkomsten bij te wonen. De partijen en de leden van de conciliatiecommissie zijn verplicht de vertrouwelijkheid te beschermen van alle informatie of documenten die zij gedurende de procedure van de commissie in vertrouwelijkheid ontvangen. 
 
 ### Artikel  8  
 Treedt in werking op een nader te bepalen tijdstip 

@@ -5607,18 +5607,20 @@ A line-throwing appliance complying with the requirements of section 7.1 of the 
 
 2.1.Every crew member with assigned emergency duties shall be familiar with these duties before the voyage begins.
 
-2.2.On a ship engaged on a voyage where passengers are scheduled to be on board for more than 24 h, musters of the passengers shall take place within 24 h after their embarkation. Passengers shall be instructed in the use of the lifejackets and the action to take in an emergency.
+2.2 On a ship engaged on a voyage where passengers are scheduled to be on board for more than 24 h, musters of newly-embarked passengers shall take place prior to or immediately upon departure. Passengers shall be instructed in the use of the lifejackets and the action to take in an emergency.  
 
-2.3.Whenever new passengers embark, a passenger safety briefing shall be given immediately before sailing, or immediately after sailing. The briefing shall include the instructions required by regulations 8.2 and 8.4, and shall be made by means of an announcement, in one or more languages likely to be understood by the passengers. The announcement shall be made on the ship's public address system, or by other equivalent means likely to be heard at least by the passengers who have not yet heard it during the voyage. The briefing may be included in the muster required by paragraph 2.2 if the muster is held immediately upon departure. Information cards or posters or video programmes displayed on ships video displays may be used to supplement the briefing, but may not be used to replace the announcement.
+2.3 Whenever new passengers embark, a passenger safety briefing shall be given immediately before departure, or immediately after departure. The briefing shall include the instructions required by regulations 8.2 and 8.4, and shall be made by means of an announcement, in one or more languages likely to be understood by the passengers. The announcement shall be made on the ship’s public address system, or by other equivalent means likely to be heard at least by the passengers who have not yet heard it during the voyage. The briefing may be included in the muster required by paragraph 2.2. Information cards or posters or video programmes displayed on ships video displays may be used to supplement the briefing, but may not be used to replace the announcement. 
 3.  Drills
 
 3.1.Drills shall, as far as practicable, be conducted as if there were an actual emergency. 
 
 3.2.Every crew member shall participate in at least one abandon ship drill and one fire drill every month. The drills of the crew shall take place within 24 h of the ship leaving a port if more than 25% of the crew have not participated in abandon ship and fire drills on board that particular ship in the previous month. When a ship enters service for the first time, after modification of a major character or when a new crew is engaged, these drills shall be held before sailing. The Administration may accept other arrangements that are at least equivalent for those classes of ships for which this is impracticable.
 
-3.3.Abandon ship drill
+3.3. Crew members with enclosed space entry or rescue responsibilities shall participate in an enclosed space entry and rescue drill to be held on board the ship at least once every two months. 
 
-3.3.1.Each abandon ship drill shall include:
+3.4.Abandon ship drill
+
+3.4.1.Each abandon ship drill shall include:
 
 .1summoning of passengers and crew to muster stations with the alarm required by regulation 6.4.2 followed by drill announcement on the public address or other communication system and ensuring that they are made aware of the order to abandon ship;
 
@@ -5638,27 +5640,27 @@ A line-throwing appliance complying with the requirements of section 7.1 of the 
 
 .9instruction in the use of radio life-saving appliances.
 
-3.3.2.Different lifeboats shall, as far as practicable, be lowered in compliance with the requirements of paragraph 3.3.1.5 at successive drills.
+3.4.2.Different lifeboats shall, as far as practicable, be lowered in compliance with the requirements of paragraph 3.4.1.5 at successive drills.
 
-3.3.3.Except as provided in paragraphs 3.3.4 and 3.3.5, each lifeboat shall be launched, and manoeuvred in the water by its assigned operating crew, at least once every three months during an abandon ship drill.
+3.4.3.Except as provided in paragraphs 3.4.4 and 3.4.5, each lifeboat shall be launched, and manoeuvred in the water by its assigned operating crew, at least once every three months during an abandon ship drill.
 
-3.3.4.In the case of a lifeboat arranged for free-fall launching, at least once every three months during an abandon ship drill the crew shall board the lifeboat, properly secure themselves in their seats and commence launch procedures up to but not including the actual release of the lifeboat (i.e., the release hook shall not be released). The lifeboat shall then either be free-fall launched with only the required operating crew on board, or lowered into the water by means of the secondary means of launching with or without the operating crew on board. In both cases the lifeboat shall thereafter be manoeuvred in the water by the operating crew. At intervals of not more than six months, the lifeboat shall either be launched by free-fall with only the operating crew on board, or simulated launching shall be carried out in accordance with the guidelines developed by the Organization .
+3.4.4.In the case of a lifeboat arranged for free-fall launching, at least once every three months during an abandon ship drill the crew shall board the lifeboat, properly secure themselves in their seats and commence launch procedures up to but not including the actual release of the lifeboat (i.e., the release hook shall not be released). The lifeboat shall then either be free-fall launched with only the required operating crew on board, or lowered into the water by means of the secondary means of launching with or without the operating crew on board. In both cases the lifeboat shall thereafter be manoeuvred in the water by the operating crew. At intervals of not more than six months, the lifeboat shall either be launched by free-fall with only the operating crew on board, or simulated launching shall be carried out in accordance with the guidelines developed by the Organization .
 
-3.3.5.The Administration may allow ships operating on short international voyages not to launch the lifeboats on one side if their berthing arrangements in port and their trading patterns do not permit launching of lifeboats on that side. However, all such lifeboats shall be lowered at least once every 3 months and launched at least annually. 
+3.4.5.The Administration may allow ships operating on short international voyages not to launch the lifeboats on one side if their berthing arrangements in port and their trading patterns do not permit launching of lifeboats on that side. However, all such lifeboats shall be lowered at least once every 3 months and launched at least annually. 
 
-3.3.6.As far as is reasonable and practicable, rescue boats other than lifeboats which are also rescue boats, shall be launched each month with their assigned crew aboard and manoeuvred in the water. In all cases this requirement shall be complied with at least once every 3 months.
+3.4.6.As far as is reasonable and practicable, rescue boats other than lifeboats which are also rescue boats, shall be launched each month with their assigned crew aboard and manoeuvred in the water. In all cases this requirement shall be complied with at least once every 3 months.
 
-3.3.7.If lifeboat and rescue boat launching drills are carried out with the ship making headway, such drills shall, because of the dangers involved, be practised in sheltered waters only and under the supervision of an officer experienced in such drills.
+3.4.7.If lifeboat and rescue boat launching drills are carried out with the ship making headway, such drills shall, because of the dangers involved, be practised in sheltered waters only and under the supervision of an officer experienced in such drills.
 
-3.3.8.If a ship is fitted with marine evacuation systems, drills shall include exercising of the procedures required for the deployment of such a system up to the point immediately preceding actual deployment of the system. This aspect of drills should be augmented by regular instruction using the on-board training aids required by regulation 35.4. Additionally every system party member shall, as far as practicable, be further trained by participation in a full deployment of a similar system into water, either on board a ship or ashore, at intervals of not longer than 2 years, but in no case longer than 3 years. This training can be associated with the deployments required by regulation 20.8.2.
+3.4.8.If a ship is fitted with marine evacuation systems, drills shall include exercising of the procedures required for the deployment of such a system up to the point immediately preceding actual deployment of the system. This aspect of drills should be augmented by regular instruction using the on-board training aids required by regulation 35.4. Additionally every system party member shall, as far as practicable, be further trained by participation in a full deployment of a similar system into water, either on board a ship or ashore, at intervals of not longer than 2 years, but in no case longer than 3 years. This training can be associated with the deployments required by regulation 20.8.2.
 
-3.3.9.Emergency lighting for mustering and abandonment shall be tested at each abandon ship drill. 
+3.4.9.Emergency lighting for mustering and abandonment shall be tested at each abandon ship drill. 
 
-3.4.Fire drills
+3.5.Fire drills
 
-3.4.1.Fire drills should be planned in such a way that due consideration is given to regular practice in the various emergencies that may occur depending on the type of ships and the cargo.
+3.5.1.Fire drills should be planned in such a way that due consideration is given to regular practice in the various emergencies that may occur depending on the type of ships and the cargo.
 
-3.4.2.Each fire drill shall include: 
+3.5.2.Each fire drill shall include: 
 
 .1reporting to stations and preparing for the duties described in the muster list required by regulation 8; 
 
@@ -5672,7 +5674,23 @@ A line-throwing appliance complying with the requirements of section 7.1 of the 
 
 .6checking the necessary arrangements for subsequent abandoning of the ship.  
 
-3.4.3.The equipment used during drills shall immediately be brought back to its fully operational condition and any faults and defects discovered during the drills shall be remedied as soon as possible.
+3.5.3.The equipment used during drills shall immediately be brought back to its fully operational condition and any faults and defects discovered during the drills shall be remedied as soon as possible.
+
+3.6. Enclosed space entry and rescue drills 
+
+3.6.1 Enclosed space entry and rescue drills should be planned and conducted in a safe manner, taking into account, as appropriate, the guidance provided in the recommendations developed by the Organization.  
+
+3.6.2 Each enclosed space entry and rescue drill shall include: 
+
+.1 checking and use of personal protective equipment required for entry;  
+
+.2 checking and use of communication equipment and procedures;  
+
+.3 checking and use of instruments for measuring the atmosphere in enclosed spaces;  
+
+.4 checking and use of rescue equipment and procedures; and  
+
+.5 instructions in first aid and resuscitation techniques.     
 4.  On-board training and instructions
 
 4.1.On-board training in the use of the ship's life-saving appliances, including survival craft equipment, and in the use of the ship's fire-extinguishing appliances shall be given as soon as possible but not later than 2 weeks after a crew member joins the ship. However, if the crew member is on a regularly scheduled rotating assignment to the ship, such training shall be given not later than 2 weeks after the time of first joining the ship. Instructions in the use of the ship's fire-extinguishing appliances, life-saving appliances, and in survival at sea shall be given at the same interval as the drills. Individual instruction may cover different parts of the ship's life-saving and fire-extinguishing appliances, but all the ship's life-saving and fire-extinguishing appliances shall be covered within any period of 2 months.
@@ -5683,12 +5701,14 @@ A line-throwing appliance complying with the requirements of section 7.1 of the 
 
 .2problems of hypothermia, first-aid treatment for hypothermia and other appropriate first-aid procedures; 
 
-.3special instructions necessary for use of the ship's life-saving appliances in severe weather and severe sea conditions; and
+.3special instructions necessary for use of the ship's life-saving appliances in severe weather and severe sea conditions;
 
-.4operation and use of fire-extinguishing appliances. 
+.4operation and use of fire-extinguishing appliances; and 
+
+.5 risks associated with enclosed spaces and onboard procedures for safe entry into such spaces which should take into account, as appropriate, the guidance provided in recommendations developed by the Organization. 
 
 4.3.On-board training in the use of davit-launched liferafts shall take place at intervals of not more than 4 months on every ship fitted with such appliances. Whenever practicable this shall include the inflation and lowering of a liferaft. This liferaft may be a special liferaft intended for training purposes only, which is not part of the ship's life-saving equipment: such a special liferaft shall be conspicuously marked.
-5.  RecordsThe date when musters are held, details of abandon ship drills and fire drills, drills of other life-saving appliances and on board training shall be recorded in such log-book as may be prescribed by the Administration. If a full muster, drill or training session is not held at the appointed time, an entry shall be made in the log-book stating the circumstances and the extent of the muster, drill or training session held. 
+5.  RecordsThe date when musters are held, details of abandon ship drills and fire drills, enclosed space entry and rescue drills, drills of other life-saving appliances and on board training shall be recorded in such log-book as may be prescribed by the Administration. If a full muster, drill or training session is not held at the appointed time, an entry shall be made in the log-book stating the circumstances and the extent of the muster, drill or training session held. 
 
 ### Regulation  20  
 
@@ -6912,15 +6932,27 @@ All decisions which are made for the purpose of applying the requirements of Reg
 
 1. Application and requirements Subject to the provisions of regulation 1.4: 
 
-1.1 Ships constructed on or after 1 July 2002 shall be fitted with navigational systems and equipment which will fulfil the requirements prescribed in paragraphs 2.1 to 2.9.
+1.1Ships constructed on or after 1 July 2002 shall be fitted with navigational systems and equipment which will fulfil the requirements prescribed in paragraphs 2.1 to 2.9.
 
-1.2 Ships constructed before 1 July 2002 shall:
+1.2Ships constructed before 1 July 2002 shall:
 
-.1 subject to the provisions of paragraphs 1.2.2 and 1.2.3, unless they comply fully with this regulation, continue to be fitted with equipment which fulfils the requirements prescribed in regulations V/11, V/12 and V/20 of the International Convention for the Safety of Life at Sea, 1974 in force prior to 1 July 2002;  
+.1subject to the provisions of paragraphs 1.2.2, 1.2.3 and 1.2.4, unless they comply fully with this regulation, continue to be fitted with equipment which fulfils the requirements prescribed in regulations V/11, V/12 and V/20 of the International Convention for the Safety of Life at Sea, 1974 in force prior to 1 July 2002;  
 
-.2 be fitted with the equipment or systems required in paragraph 2.1.6 not later than the first survey after 1 July 2002 at which time the radio direction-finding apparatus referred to in V/12 (p) of the International Convention for the Safety of Life at Sea, 1974 in force prior to 1 July 2002 shall no longer be required; and  
+.2be fitted with the equipment or systems required in paragraph 2.1.6 not later than the first survey after 1 July 2002 at which time the radio direction-finding apparatus referred to in V/12 (p) of the International Convention for the Safety of Life at Sea, 1974 in force prior to 1 July 2002 shall no longer be required;   
 
-.3 be fitted with the system required in paragraph 2.4 not later than the dates specified in paragraphs 2.4.2 and 2.4.3.   
+.3be fitted with the system required in paragraph 2.4 not later than the dates specified in paragraphs 2.4.2 and 2.4.3; and  
+
+.4 be fitted with the system required in paragraph 2.2.3, as follows: 
+
+.1 passenger ships irrespective of size, not later than the first survey after 1 January 2016;  
+
+.2 cargo ships of 3,000 gross tonnage and upwards, not later than the first survey after 1 January 2016;  
+
+.3 cargo ships of 500 gross tonnage and upwards but less than 3,000 gross tonnage, not later than the first survey after 1 January 2017; and  
+
+.4 cargo ships of 150 gross tonnage and upwards but less than 500 gross tonnage, not later than the first survey after 1 January 2018.   The bridge navigational watch alarm system shall be in operation whenever the ship is underway at sea. The provisions of paragraph 2.2.4 shall also apply to ships constructed before 1 July 2002. 
+
+1.3 Administrations may exempt ships from the application of the requirement of paragraph 1.2.4 when such ships will be taken permanently out of service within two years after the implementation date specified in subparagraphs 1.2.4.1 to 1.2.4.4.  
 2. Shipborne navigational equipment and systems 
 
 2.1 All ships irrespective of size shall have: 
@@ -8077,7 +8109,13 @@ excluding craft the hull of which is supported completely clear above the water 
 
 ####Authorization of recognized organizations
 
-Organizations referred to in regulation I/6 shall comply with the Guidelines adopted by the Organization by resolution A.739(18), as may be amended by the Organization and the Specifications adopted by the Organization by resolution A.789(19), as may be amended by the Organization, provided that such amendments are adopted, brought into force and take effect in accordance with the provisions of article VIII of the present Convention concerning the amendment procedures applicable to the Annex other than chapter I. 
+The Administration shall authorize organizations, referred to in regulation I/6, including classification societies, in accordance with the provisions of the present Convention and with the Code for Recognized Organizations (RO-Code), consisting of part 1 and part 2 (the provisions of which shall be treated as mandatory) and part 3 (the provisions of which shall be treated as recommendatory), as adopted by the Organization by resolution MSC.349(92), as may be amended by the Organization, provided that: 
+
+.1 amendments to part 1 and part 2 of the RO Code are adopted, brought into force and take effect in accordance with the provisions of article VIII of the present Convention;  
+
+.2 amendments to part 3 of the RO Code are adopted by the Maritime Safety Committee in accordance with its Rules of Procedure; and  
+
+.3 any amendments adopted by the Maritime Safety Committee and the Marine Environment Protection Committee are identical and come into force or take effect at the same time, as appropriate.   
 
 ### Regulation  2  
 
@@ -10622,7 +10660,7 @@ In aanvulling op de elders in de huidige voorschriften vervatte vereisten moeten
 
 .2 moeten de noodsleepvoorzieningen op het voorschip en op het achterschip voldoende sterk zijn voor de omvang en het draagvermogen van het schip en de verwachte krachten bij slechte weersomstandigheden. Het ontwerp en de constructie alsmede de beproeving van het prototype van de noodsleepvoorziening moeten door de Administratie overeenkomstig de door de Organisatie opgestelde richtlijnen worden goedgekeurd.    
 
-1.3 Ten aanzien van tankschepen gebouwd vóór 1 juli 2002 moeten het ontwerp en de constructie alsmede de beproeving van het prototype van de noodsleepvoorziening door de Administratie overeenkomstig de door de Organisatie opgestelde richtlijnen<sup> 2) [Red: De Chinese, de Franse, de Russische en de Spaanse tekst zijn niet afgedrukt. Het voor eensluidend gewaarmerkt afschrift is nog niet ontvangen. In de tekst kunnen derhalve onjuistheden voorkomen, die in een volgend Tractatenblad zullen worden gecorrigeerd.] </sup> worden goedgekeurd.     
+1.3 Ten aanzien van tankschepen gebouwd vóór 1 juli 2002 moeten het ontwerp en de constructie alsmede de beproeving van het prototype van de noodsleepvoorziening door de Administratie overeenkomstig de door de Organisatie opgestelde richtlijnen worden goedgekeurd.     
 2.  Noodsleepprocedures aan boord van schepen 
 
 2.1. Deze paragraaf is van toepassing op: 
@@ -15883,9 +15921,9 @@ Een lijnwerptoestel dat voldoet aan de vereisten van deel 7.1 van de Code moet a
 
 2.1Ieder bemanningslid aan wie taken in noodsituaties zijn opgedragen moet vertrouwd zijn met deze taken voordat de reis begint.
 
-2.2Aan boord van een schip dat een reis maakt waarbij de passagiers volgens planning meer dan 24 uur aan boord blijven, moet de verlaatrol voor de passagiers binnen 24 uur na inscheping plaatsvinden. De passagiers moeten worden voorgelicht over het gebruik van reddingsgordels en de te verrichten handelingen in geval van nood.
+2.2 Aan boord van een schip dat een reis maakt waarbij de passagiers volgens planning meer dan 24 uur aan boord blijven, moet de verlaatrol van pas ingescheepte passagiers vóór of direct na de afvaart plaatsvinden. De passagiers moeten worden voorgelicht over het gebruik van reddinggordels en de te verrichten handelingen in geval van nood.  
 
-2.3Steeds wanneer nieuwe passagiers inschepen, moeten de passagiers direct vóór of na vertrek veiligheidsinstructies krijgen. De uitleg moet de instructies omvatten die worden vereist door de voorschriften 8.2 en 8.4 en plaatsvinden door middel van een oproep in één of meer talen waarvan het waarschijnlijk is dat zij worden verstaan door de passagiers. De oproep moet worden gedaan via het scheepsomroepsysteem of een vergelijkbaar middel dat waarschijnlijk wordt gehoord door ten minste de passagiers die de oproep nog niet eerder hebben gehoord tijdens de reis. De uitleg kan worden opgenomen in de verlaatrol vereist door paragraaf 2.2, indien de verlaatrol direct na vertrek plaatsvindt. Instructiekaarten of -platen of videoprogramma's die worden vertoond op de videoschermen van het schip kunnen worden gebruikt ter aanvulling op de uitleg, maar zij mogen niet worden gebruikt als vervanging van de oproep. 
+2.3 Steeds wanneer nieuwe passagiers inschepen, moeten de passagiers direct vóór of na de afvaart veiligheidsinstructies krijgen. Deze moet de instructies omvatten die worden vereist door de voorschriften 8.2 en 8.4 en plaatsvinden door middel van een mededeling in één of meer talen waarvan het waarschijnlijk is dat zij worden begrepen door de passagiers. De mededeling moet worden gedaan via het scheepsomroepsysteem of een vergelijkbaar middel dat waarschijnlijk wordt gehoord door ten minste de passagiers die de mededeling nog niet eerder hebben gehoord tijdens de reis. De veiligheidsinstructies mogen worden opgenomen in de verlaatrol vereist door paragraaf 2.2. Informatiekaarten of -posters of videoprogramma’s die worden vertoond op de videoschermen van het schip mogen worden gebruikt ter aanvulling op de veiligheidsinstructies, maar zij mogen niet worden gebruikt als vervanging van de mededeling.  
 
 3Oefeningen 
 
@@ -15893,9 +15931,11 @@ Een lijnwerptoestel dat voldoet aan de vereisten van deel 7.1 van de Code moet a
 
 3.2Ieder bemanningslid moet aan ten minste één verlaatrol en één brandrol in de maand deelnemen. De oefeningen voor de bemanning moeten plaatsvinden binnen 24 uur nadat het schip een haven heeft verlaten wanneer meer dan 25% van de bemanning in de voorafgaande maand niet heeft deelgenomen aan verlaat- en brandrollen aan boord van het desbetreffende schip. Wanneer een schip voor het eerst in de vaart wordt genomen, een grote wijziging heeft ondergaan of nadat een nieuwe bemanning is aangesteld, moeten deze oefeningen vóór vertrek plaatsvinden. De Administratie kan andere regelingen die ten minste gelijkwaardig zijn, aanvaarden voor die soorten schepen waarvoor deze onuitvoerbaar zijn. 
 
-3.3Oefening schip-verlaten
+3.3 Bemanningsleden met verantwoordelijkheid voor het betreden van of redden uit besloten ruimten moeten deelnemen aan een oefening voor het betreden van en redden uit besloten ruimten, die ten minste eenmaal per twee maanden aan boord moet worden gehouden. 
 
-3.3.1Iedere oefening schip-verlaten moet omvatten: 
+3.4Oefening schip-verlaten
+
+3.4.1Iedere oefening schip-verlaten moet omvatten: 
 
 .1het oproepen van passagiers en bemanning naar hun verzamelplaatsen door middel van het alarmsysteem vereist in voorschrift 6.4.2, gevolgd door een aankondiging van de oefening via het scheepsomroepsysteem of een ander communicatiesysteem en het zich ervan verzekeren dat zij op de hoogte zijn gebracht van de gang van zaken bij het schip-verlaten, zoals vermeld in de verlaatrol;
 
@@ -15915,27 +15955,27 @@ Een lijnwerptoestel dat voldoet aan de vereisten van deel 7.1 van de Code moet a
 
 .9instructies voor het gebruik van radiomiddelen voor redding.
 
-3.3.2Voor zover uitvoerbaar moeten bij achtereenvolgende oefeningen verschillende reddingsboten worden afgevierd overeenkomstig het bepaalde in paragraaf 3.3.1.5.
+3.4.2Voor zover uitvoerbaar moeten bij achtereenvolgende oefeningen verschillende reddingsboten worden afgevierd overeenkomstig het bepaalde in paragraaf 3.4.1.5.
 
-3.3.3 Behalve in situaties omschreven in de paragrafen 3.3.4 en 3.3.5, moet iedere reddingsboot ten minste eenmaal in de drie maanden tijdens een verlaatrol door de voor de bediening aangewezen bemanning aan boord te water worden gelaten en moet er mee worden gemanoeuvreerd. 
+3.4.3 Behalve in situaties omschreven in de paragrafen 3.4.4 en 3.4.5, moet iedere reddingsboot ten minste eenmaal in de drie maanden tijdens een verlaatrol door de voor de bediening aangewezen bemanning aan boord te water worden gelaten en moet er mee worden gemanoeuvreerd. 
 
-3.3.4In het geval van een reddingsboot die bedoeld is voor tewaterlating door middel van vrije val, gaat de bemanning, tenminste eenmaal per kwartaal tijdens een ontruimingsoefening aan boord van de reddingsboot, bevestigt zich naar behoren op de zitplaats en vangt aan met de procedure voor tewaterlating tot aan, niet tot en met, de feitelijke loskoppeling van de reddingsboot (de ontkoppelingshaak mag niet worden losgemaakt). De reddingsboot wordt vervolgens hetzij door middel van vrije val te water gelaten met uitsluitend de voor de bediening benodigde bemanning aan boord, of door middel van een secundaire voorziening voor tewaterlating in het water geplaatst met of zonder de bemanning voor de bediening aan boord. In beide gevallen moet vervolgens met de reddingsboot door de bemanning voor de bediening in het water worden gemanoeuvreerd. Met tussenpozen van ten hoogste zes maanden moet de reddingsboot hetzij door middel van vrije val te water worden gelaten met uitsluitend de bemanning voor de bediening aan boord, of moet een gesimuleerde tewaterlating plaatsvinden in overeenstemming met de door de Organisatie opgestelde richtsnoeren.
+3.4.4In het geval van een reddingsboot die bedoeld is voor tewaterlating door middel van vrije val, gaat de bemanning, tenminste eenmaal per kwartaal tijdens een ontruimingsoefening aan boord van de reddingsboot, bevestigt zich naar behoren op de zitplaats en vangt aan met de procedure voor tewaterlating tot aan, niet tot en met, de feitelijke loskoppeling van de reddingsboot (de ontkoppelingshaak mag niet worden losgemaakt). De reddingsboot wordt vervolgens hetzij door middel van vrije val te water gelaten met uitsluitend de voor de bediening benodigde bemanning aan boord, of door middel van een secundaire voorziening voor tewaterlating in het water geplaatst met of zonder de bemanning voor de bediening aan boord. In beide gevallen moet vervolgens met de reddingsboot door de bemanning voor de bediening in het water worden gemanoeuvreerd. Met tussenpozen van ten hoogste zes maanden moet de reddingsboot hetzij door middel van vrije val te water worden gelaten met uitsluitend de bemanning voor de bediening aan boord, of moet een gesimuleerde tewaterlating plaatsvinden in overeenstemming met de door de Organisatie opgestelde richtsnoeren.
 
-3.3.5Voor schepen die korte internationale reizen maken kan de Administratie toestaan om de reddingsboten aan één zijde niet te water te laten wanneer de ligplaatsvoorzieningen in de haven en het vaarpatroon het te water laten aan die zijde niet mogelijk maken. Al deze reddingsboten moeten echter ten minste eenmaal per drie maanden afgevierd en jaarlijks te water gelaten worden.
+3.4.5Voor schepen die korte internationale reizen maken kan de Administratie toestaan om de reddingsboten aan één zijde niet te water te laten wanneer de ligplaatsvoorzieningen in de haven en het vaarpatroon het te water laten aan die zijde niet mogelijk maken. Al deze reddingsboten moeten echter ten minste eenmaal per drie maanden afgevierd en jaarlijks te water gelaten worden.
 
-3.3.6Voor zover dat redelijk en uitvoerbaar is moeten hulpverleningsboten, anders dan reddingsboten die tevens hulpverleningsboten zijn, iedere maand met hun aangewezen bemanning te water worden gelaten en moet er mee worden gemanoeuvreerd in het water. In ieder geval moet ten minste eenmaal in de drie maanden aan deze eis worden voldaan.
+3.4.6Voor zover dat redelijk en uitvoerbaar is moeten hulpverleningsboten, anders dan reddingsboten die tevens hulpverleningsboten zijn, iedere maand met hun aangewezen bemanning te water worden gelaten en moet er mee worden gemanoeuvreerd in het water. In ieder geval moet ten minste eenmaal in de drie maanden aan deze eis worden voldaan.
 
-3.3.7Indien oefeningen met het te water laten van de reddingsboot en hulpverleningsboot worden gehouden met een vaartlopend schip, dan moeten deze oefeningen in verband met de gevaren die daaraan verbonden zijn uitsluitend worden uitgevoerd in beschut water en onder toezicht staan van een officier met ervaring in dergelijke oefeningen.
+3.4.7Indien oefeningen met het te water laten van de reddingsboot en hulpverleningsboot worden gehouden met een vaartlopend schip, dan moeten deze oefeningen in verband met de gevaren die daaraan verbonden zijn uitsluitend worden uitgevoerd in beschut water en onder toezicht staan van een officier met ervaring in dergelijke oefeningen.
 
-3.3.8Indien een schip is uitgerust met mariene evacuatiesystemen, moeten de oefeningen de uitvoering van de procedures omvatten voor het gebruik van een dergelijk systeem tot aan het moment dat direct voorafgaat aan het daadwerkelijk gebruik van het systeem. Dit aspect van oefeningen moet worden aangevuld met regelmatige instructies met behulp van de hulpmiddelen voor oefeningen aan boord vereist in voorschrift 35.4. Bovendien moet elk lid van de bemanning van het systeem, voor zover uitvoerbaar, verder worden getraind door middel van deelname in een oefening waarbij een vergelijkbaar systeem volledig wordt gebruikt in het water, hetzij aan boord van een schip hetzij op de wal, met tussenpozen van niet langer dan twee jaar, maar in geen geval langer dan drie jaar. Deze training kan worden gecombineerd met de oefeningen vereist in voorschrift 20.8.2.
+3.4.8Indien een schip is uitgerust met mariene evacuatiesystemen, moeten de oefeningen de uitvoering van de procedures omvatten voor het gebruik van een dergelijk systeem tot aan het moment dat direct voorafgaat aan het daadwerkelijk gebruik van het systeem. Dit aspect van oefeningen moet worden aangevuld met regelmatige instructies met behulp van de hulpmiddelen voor oefeningen aan boord vereist in voorschrift 35.4. Bovendien moet elk lid van de bemanning van het systeem, voor zover uitvoerbaar, verder worden getraind door middel van deelname in een oefening waarbij een vergelijkbaar systeem volledig wordt gebruikt in het water, hetzij aan boord van een schip hetzij op de wal, met tussenpozen van niet langer dan twee jaar, maar in geen geval langer dan drie jaar. Deze training kan worden gecombineerd met de oefeningen vereist in voorschrift 20.8.2.
 
-3.3.9De noodverlichting ten behoeve van het verzamelen en het schip-verlaten moet bij iedere verlaatrol worden beproefd.
+3.4.9De noodverlichting ten behoeve van het verzamelen en het schip-verlaten moet bij iedere verlaatrol worden beproefd.
 
-3.4Brandrol
+3.5Brandrol
 
-3.4.1Oefeningen in het blussen van brand moeten op zodanige wijze worden gepland dat voldoende rekening wordt gehouden met de gebruikelijke praktijk in de verschillende noodsituaties die zich kunnen voordoen afhankelijk van het type schip en de lading.
+3.5.1Oefeningen in het blussen van brand moeten op zodanige wijze worden gepland dat voldoende rekening wordt gehouden met de gebruikelijke praktijk in de verschillende noodsituaties die zich kunnen voordoen afhankelijk van het type schip en de lading.
 
-3.4.2Iedere brandrol moet omvatten: 
+3.5.2Iedere brandrol moet omvatten: 
 
 .1het melden bij de verzamelplaatsen en het voorbereiden op de taken genoemd in de verlaatrol vereist in voorschrift 8;  
 
@@ -15949,7 +15989,23 @@ Een lijnwerptoestel dat voldoet aan de vereisten van deel 7.1 van de Code moet a
 
 .6het controleren van de nodige voorzieningen voor het vervolgens verlaten van het schip.  
 
-3.4.3De uitrusting die gedurende oefeningen wordt gebruikt moet onmiddellijk weer in volledig gebruiksklare staat worden gebracht, en mankementen en storingen die tijdens de oefeningen worden geconstateerd, moeten zo snel mogelijk worden verholpen.  
+3.5.3De uitrusting die gedurende oefeningen wordt gebruikt moet onmiddellijk weer in volledig gebruiksklare staat worden gebracht, en mankementen en storingen die tijdens de oefeningen worden geconstateerd, moeten zo snel mogelijk worden verholpen. 
+
+3.6. Oefeningen voor het betreden van en redden uit besloten ruimten 
+
+3.6.1 Oefeningen voor het betreden van en redden uit besloten ruimten moeten op veilige wijze worden gepland en uitgevoerd, rekening houdend met, naargelang van toepassing, de richtsnoeren in de door de Organisatie opgestelde aanbevelingen.  
+
+3.6.2 Iedere oefening voor het betreden van en redden uit besloten ruimten moet omvatten: 
+
+.1 controle en gebruik van persoonlijke beschermende uitrusting die nodig is voor het betreden;  
+
+.2 controle en gebruik van communicatieapparatuur en -procedures;  
+
+.3 controle en gebruik van instrumenten voor het meten van de atmosfeer in besloten ruimten;  
+
+.4 controle en gebruik van reddingsuitrusting en -procedures; en  
+
+.5 instructies in eerstehulp- en reanimatietechnieken.      
 
 4Oefening en instructie aan boord 
 
@@ -15961,13 +16017,15 @@ Een lijnwerptoestel dat voldoet aan de vereisten van deel 7.1 van de Code moet a
 
 .2problemen in verband met hypothermie, eerste hulp bij hypothermie en andere toepasselijke handelingen van eerste hulp;  
 
-.3bijzondere instructies die nodig zijn voor het gebruik van de reddingsmiddelen van het schip bij zwaar weer en hoge zeeën; en  
+.3bijzondere instructies die nodig zijn voor het gebruik van de reddingsmiddelen van het schip bij zwaar weer en hoge zeeën;   
 
-.4bediening en gebruik van brandblusmiddelen.   
+.4bediening en gebruik van brandblusmiddelen; en  
+
+.5 risico’s die verband houden met besloten ruimten en procedures aan boord voor het veilig betreden van deze ruimten, waarbij rekening moet worden gehouden, naargelang van toepassing, met de richtsnoeren in de door de Organisatie opgestelde aanbevelingen.  
 
 4.3Oefeningen aan boord in het gebruik van strijkbare reddingsvlotten op schepen die met dergelijke middelen zijn uitgerust, moeten met tussenpozen van niet meer dan 4 maanden plaatsvinden. Wanneer uitvoerbaar moeten deze het opblazen en het afvieren van een reddingsvlot omvatten. Het reddingsvlot kan een speciaal reddingsvlot zijn dat uitsluitend bestemd wordt voor oefeningen en dat geen deel uitmaakt van de reddingsmiddelen van het schip; een dergelijk speciaal reddingsvlot moet duidelijk als zodanig gemerkt zijn. 
 
-5Aantekening De data waarop oefeningen worden gehouden, bijzonderheden van de verlaat- en brandrol, oefeningen met andere reddingsmiddelen en opleiding aan boord moeten in het daarvoor door de Administratie voorgeschreven logboek, worden opgetekend. Wanneer een volledige verlaatrol, oefening of instructie niet op de vastgestelde tijd plaatsvindt, dan moet dat worden opgetekend in het logboek, waarbij moet worden vermeld onder welke omstandigheden en in welke mate de rol, oefening of instructie wel is gehouden. 
+5Aantekening De data waarop oefeningen worden gehouden, bijzonderheden van de verlaat- en brandrol, oefeningen voor het betreden van en redden uit besloten ruimten oefeningen met andere reddingsmiddelen en opleiding aan boord moeten in het daarvoor door de Administratie voorgeschreven logboek, worden opgetekend. Wanneer een volledige verlaatrol, oefening of instructie niet op de vastgestelde tijd plaatsvindt, dan moet dat worden opgetekend in het logboek, waarbij moet worden vermeld onder welke omstandigheden en in welke mate de rol, oefening of instructie wel is gehouden. 
 
 ### Voorschrift  20  
 
@@ -17263,7 +17321,7 @@ Bij alle besluiten die worden genomen voor de toepassing van de vereisten van de
 
 ### Voorschrift  19  
 
-####Vereisten inzake de aanwezigheid van navigatiesystemen en -apparatuur aan boord van schepen
+####Vereisten ten aanzien van navigatiesystemen en -apparatuur aan boord van schepen
 
 1Toepassing en vereisten Onverminderd de bepalingen van voorschrift 1.4:
 
@@ -17271,11 +17329,23 @@ Bij alle besluiten die worden genomen voor de toepassing van de vereisten van de
 
 1.2Schepen gebouwd vóór 1 juli 2002 moeten: 
 
-.1 onverminderd de bepalingen van paragraaf 1.2.2 en 1.2.3, tenzij zij volledig aan dit voorschrift voldoen, zijn uitgerust met apparatuur die voldoet aan de vereisten vervat in de voorschriften V/11, V/12 en V/20 van het Internationaal Verdrag inzake de beveiliging van mensenlevens op zee, 1974, die vóór 1 juli 2002 van kracht waren;  
+.1onverminderd de bepalingen van paragraaf 1.2.2, 1.2.3 en 1.2.4, tenzij zij volledig aan dit voorschrift voldoen, zijn uitgerust met apparatuur die voldoet aan de vereisten vervat in de voorschriften V/11, V/12 en V/20 van het Internationaal Verdrag inzake de beveiliging van mensenlevens op zee, 1974, die vóór 1 juli 2002 van kracht waren;  
 
-.2 uiterlijk bij de eerste inspectie na 1 juli 2002 zijn uitgerust met de in paragraaf 2.1.6 vereiste apparatuur of systemen, wanneer de radiorichtingzoeker bedoeld in V/12 (p) van het Internationaal Verdrag inzake de beveiliging van mensenlevens op zee, 1974, als van kracht vóór 1 juli 2002, niet langer vereist is; en  
+.2uiterlijk bij de eerste inspectie na 1 juli 2002 zijn uitgerust met de in paragraaf 2.1.6 vereiste apparatuur of systemen, wanneer de radiorichtingzoeker bedoeld in V/12 (p) van het Internationaal Verdrag inzake de beveiliging van mensenlevens op zee, 1974, als van kracht vóór 1 juli 2002, niet langer vereist is;   
 
-.3 uiterlijk op de in paragraaf 2.4.2 en 2.4.3 genoemde data zijn uitgerust met het in paragraaf 2.4 vereiste systeem.  
+.3uiterlijk op de in paragraaf 2.4.2 en 2.4.3 genoemde data zijn uitgerust met het in paragraaf 2.4 vereiste systeem; en  
+
+.4 op de volgende wijze worden uitgerust met het in paragraaf 2.2.3 vereiste systeem: 
+
+.1 passagiersschepen, ongeacht hun omvang, uiterlijk op de datum van het eerste onderzoek na 1 januari 2016;  
+
+.2 vrachtschepen met een brutotonnage van 3000 ton of meer, uiterlijk op de datum van het eerste onderzoek na 1 januari 2016;  
+
+.3 vrachtschepen met een brutotonnage van 500 ton of meer maar minder dan 3000 ton, uiterlijk op de datum van het eerste onderzoek na 1 januari 2017; en  
+
+.4 vrachtschepen met een brutotonnage van 150 ton of meer maar minder dan 500 ton, uiterlijk op de datum van het eerste onderzoek na 1 januari 2018. Het brugwachtalarmsysteem moet te allen tijde in bedrijf zijn terwijl het schip onderweg is op zee. De bepalingen van paragraaf 2.2.4 zijn ook van toepassing op schepen die vóór 1 juli 2002 zijn gebouwd.   
+
+1.3 Administraties mogen schepen van de toepassing van de in paragraaf 1.2.4 vervatte eis vrijstellen, wanneer deze schepen binnen twee jaar na de in de subparagrafen 1.2.4.1 tot en met 1.2.4.4 bedoelde uitvoeringsdatum voorgoed uit de vaart zullen worden genomen. 
 
 2Navigatiesystemen en -apparatuur aan boord
 
@@ -17309,13 +17379,13 @@ Bij alle besluiten die worden genomen voor de toepassing van de vereisten van de
 
 .1. vrachtschepen met een brutotonnage van 150 ton of meer en passagiersschepen, ongeacht hun omvang, gebouwd op of na 1 juli 2011;  
 
-.2. passagiersschepen, ongeacht hun omvang, gebouwd voor 1 juli 2011, uiterlijk op de datum van het eerste onderzoekna 1 juli 2012;  
+.2. passagiersschepen, ongeacht hun omvang, gebouwd voor 1 juli 2011, uiterlijk op de datum van het eerste onderzoek<sup> 1) Zie de Eenduidige Interpretatie van de term „eerste onderzoek” waarnaar verwezen wordt in de SOLAS-voorschriften (MSC.1/Circ.1290). </sup>na 1 juli 2012;  
 
-.3. vrachtschepen met een brutotonnage van 3000 ton of meer, gebouwd voor 1 juli 2011, uiterlijk op de datum van het eerste onderzoek na 1 juli 2012;  
+.3. vrachtschepen met een brutotonnage van 3000 ton of meer, gebouwd voor 1 juli 2011, uiterlijk op de datum van het eerste onderzoek<sup> 1) Zie de Eenduidige Interpretatie van de term „eerste onderzoek” waarnaar verwezen wordt in de SOLAS-voorschriften (MSC.1/Circ.1290). </sup> na 1 juli 2012;  
 
-.4. vrachtschepen met een brutotonnage van 500 ton of meer maar minder dan 3000 ton, gebouwd voor 1 juli 2011, uiterlijk op de datum van het eerste onderzoek na 1 juli 2013; en  
+.4. vrachtschepen met een brutotonnage van 500 ton of meer maar minder dan 3000 ton, gebouwd voor 1 juli 2011, uiterlijk op de datum van het eerste onderzoek<sup> 1) Zie de Eenduidige Interpretatie van de term „eerste onderzoek” waarnaar verwezen wordt in de SOLAS-voorschriften (MSC.1/Circ.1290). </sup> na 1 juli 2013; en  
 
-.5. vrachtschepen met een brutotonnage van 150 ton of meer maar minder dan 500 ton, gebouwd voor 1 juli 2011, uiterlijk op de datum van het eerste onderzoek na 1 juli 2014.   Het brugwachtalarmsysteem moet te allen tijde in bedrijf zijn als het schip op zee vaart. 
+.5. vrachtschepen met een brutotonnage van 150 ton of meer maar minder dan 500 ton, gebouwd voor 1 juli 2011, uiterlijk op de datum van het eerste onderzoek<sup> 1) Zie de Eenduidige Interpretatie van de term „eerste onderzoek” waarnaar verwezen wordt in de SOLAS-voorschriften (MSC.1/Circ.1290). </sup> na 1 juli 2014.   Het brugwachtalarmsysteem moet te allen tijde in bedrijf zijn als het schip op zee vaart. 
 
 .4. een brugwachtalarmsysteem (BNWAS) dat voor 1 juli 2011 is geïnstalleerd kan daarna worden uitgezonderd van volledige overeenstemming met de standaarden die door de Organisatie zijn aangenomen, zulks ter beoordeling door de Administratie. 
 
@@ -17405,15 +17475,15 @@ Bij alle besluiten die worden genomen voor de toepassing van de vereisten van de
 
 .4. vrachtschepen, anders dan tankschepen, met een brutotonnage van 3000 ton of meer maar minder dan 10.000 ton, gebouwd op of na 1 juli 2014;  
 
-.5. passagiersschepen met een brutotonnage van 500 ton of meer, gebouwd voor 1 juli 2012, uiterlijk op de datum van het eerste onderzoek op of na 1 juli 2014;  
+.5. passagiersschepen met een brutotonnage van 500 ton of meer, gebouwd voor 1 juli 2012, uiterlijk op de datum van het eerste onderzoek<sup> 1) Zie de Eenduidige Interpretatie van de term „eerste onderzoek” waarnaar verwezen wordt in de SOLAS-voorschriften (MSC.1/Circ.1290). </sup> op of na 1 juli 2014;  
 
-.6. tankschepen met een brutotonnage van 3000 ton of meer, gebouwd voor 1 juli 2012, uiterlijk op de datum van het eerste onderzoek op of na 1 juli 2015;  
+.6. tankschepen met een brutotonnage van 3000 ton of meer, gebouwd voor 1 juli 2012, uiterlijk op de datum van het eerste onderzoek<sup> 1) Zie de Eenduidige Interpretatie van de term „eerste onderzoek” waarnaar verwezen wordt in de SOLAS-voorschriften (MSC.1/Circ.1290). </sup> op of na 1 juli 2015;  
 
-.7. vrachtschepen, anders dan tankschepen, met een brutotonnage van 50.000 ton of meer, gebouwd voor 1 juli 2013, uiterlijk op de datum van het eerste onderzoek op of na 1 juli 2016;  
+.7. vrachtschepen, anders dan tankschepen, met een brutotonnage van 50.000 ton of meer, gebouwd voor 1 juli 2013, uiterlijk op de datum van het eerste onderzoek<sup> 1) Zie de Eenduidige Interpretatie van de term „eerste onderzoek” waarnaar verwezen wordt in de SOLAS-voorschriften (MSC.1/Circ.1290). </sup> op of na 1 juli 2016;  
 
-.8. vrachtschepen, anders dan tankschepen, met een brutotonnage van 20.000 ton of meer, maar minder dan 50.000 ton, gebouwd voor 1 juli 2013, uiterlijk op de datum van het eerste onderzoek op of na 1 juli 2017; en  
+.8. vrachtschepen, anders dan tankschepen, met een brutotonnage van 20.000 ton of meer, maar minder dan 50.000 ton, gebouwd voor 1 juli 2013, uiterlijk op de datum van het eerste onderzoek<sup> 1) Zie de Eenduidige Interpretatie van de term „eerste onderzoek” waarnaar verwezen wordt in de SOLAS-voorschriften (MSC.1/Circ.1290). </sup> op of na 1 juli 2017; en  
 
-.9. vrachtschepen, anders dan tankschepen, met een brutotonnage van 10.000 ton of meer, maar minder dan 20.000 ton, gebouwd voor 1 juli 2013, uiterlijk op de datum van het eerste onderzoek op of na 1 juli 2018.    
+.9. vrachtschepen, anders dan tankschepen, met een brutotonnage van 10.000 ton of meer, maar minder dan 20.000 ton, gebouwd voor 1 juli 2013, uiterlijk op de datum van het eerste onderzoek<sup> 1) Zie de Eenduidige Interpretatie van de term „eerste onderzoek” waarnaar verwezen wordt in de SOLAS-voorschriften (MSC.1/Circ.1290). </sup> op of na 1 juli 2018.    
 
 2.11. Administraties kunnen schepen van de toepassing van de in paragraaf 2.10 vervatte eisen vrijstellen, wanneer deze schepen binnen twee jaar na de in de subparagrafen .5 tot en met .9 van paragraaf 2.10 bedoelde uitvoeringsdatum voorgoed uit de vaart zullen worden genomen. 
 
@@ -18478,9 +18548,15 @@ met uitsluiting van vaartuigen waarvan de romp in stilliggende toestand volledig
 
 ### Voorschrift  1  
 
-####Bevoegdverklaring van de erkende organisaties
+####Bevoegdverklaring van erkende organisaties
 
-De in voorschrift I/6 bedoelde organisaties moeten de richtlijnen naleven die de Organisatie heeft aangenomen door resolutie A.739(18) eventueel als gewijzigd door de Organisatie, en de door de Organisatie door resolutie A.789(19) aangenomen specificaties, eventueel als gewijzigd door de Organisatie, op voorwaarde dat deze wijzigingen worden aangenomen, in werking worden gesteld en van kracht worden overeenkomstig het bepaalde in artikel VIII van dit Verdrag betreffende de procedure voor wijziging die van toepassing is op de Bijlage, met uitzondering van Hoofdstuk I. 
+De Administratie verklaart organisaties bedoeld in voorschrift I/6, met inbegrip van classificatiebureaus, bevoegd in overeenstemming met de bepalingen van dit Verdrag en met de Code voor Erkende Organisaties (RO-Code), die bestaat uit een deel 1 en deel 2 (waarvan de bepalingen als verplicht worden aangemerkt) en een deel 3 (waarvan de bepalingen als aanbeveling worden aangemerkt), zoals aangenomen door de Organisatie bij resolutie MSC.349(92), eventueel als gewijzigd door de Organisatie, mits: 
+
+.1 wijzigingen van deel 1 en deel 2 van de RO-Code worden aangenomen, in werking worden gesteld en van kracht worden in overeenstemming met de bepalingen van artikel VIII van dit Verdrag;  
+
+.2 wijzigingen van deel 3 van de RO-Code worden aangenomen door de Maritieme Veiligheidscommissie in overeenstemming met haar reglement van orde; en  
+
+.3 eventuele wijzigingen die worden aangenomen door de Maritieme Veiligheidscommissie en de Commissie voor de Bescherming van het Mariene Milieu identiek zijn en tegelijkertijd in werking treden of van kracht worden, al naargelang van toepassing.  
 
 ### Voorschrift  2  
 

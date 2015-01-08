@@ -599,7 +599,7 @@ c. een inpassingsplan als bedoeld in artikel 3.26 of 3.28 van de Wet ruimtelijk
 
 1.  Onteigening van zaken en rechten als bedoeld in artikel 4 kan in het belang van de winning van oppervlaktedelfstoffen plaatshebben ten name van het Rijk of van de provincie: 
 
-a. overeenkomstig een onherroepelijk geworden besluit tot vaststelling van een winplaats in een streekplan;  
+a. overeenkomstig een onherroepelijk geworden besluit tot vaststelling van een winplaats in een inpassingsplan;  
 
 b. indien ter zake een vergunning tot ontgronding krachtens de Ontgrondingenwet is verleend en onherroepelijk is geworden.    
 2.  De onteigening heeft plaats uit kracht van een door Ons, de Raad van State gehoord, genomen besluit.    
@@ -717,7 +717,7 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 6°. ten behoeve van de uitvoering van een besluit als bedoeld in artikel 3.30, 3.33 of 3.35 van de Wet ruimtelijke ordening, alsmede met voorzieningen die met de uitvoering van zodanig besluit rechtstreeks verband houden;  
 
-7°. van een gebouw als bedoeld in artikel 14 van de Woningwet ten behoeve van de handhaving van de openbare orde rond dat gebouw of van de artikelen 2 en 3 van de Opiumwet in zodanig gebouw, indien de uitoefening van de bevoegdheden, bedoeld in artikel 14, eerste lid, van de Woningwet, geen uitzicht heeft geboden op een duurzaam herstel van de openbare orde rond dat gebouw welke is verstoord door gedragingen in het gebouw, onderscheidenlijk het duurzaam achterwege blijven van een overtreding van artikel 2 of 3 van de Opiumwet in dat gebouw;  
+7°. van een gebouw als bedoeld in artikel 13b, tweede lid, van de Woningwet ten behoeve van de handhaving van de openbare orde rond dat gebouw of van de artikelen 2 en 3 van de Opiumwet in zodanig gebouw, indien de uitoefening van de bevoegdheden, bedoeld in artikel 13b, tweede lid, van de Woningwet, geen uitzicht heeft geboden op een duurzaam herstel van de openbare orde rond dat gebouw welke is verstoord door gedragingen in het gebouw, onderscheidenlijk het duurzaam achterwege blijven van een overtreding van artikel 2 of 3 van de Opiumwet in dat gebouw;  
 
 8°. van een gebouw, een open erf of een terrein als bedoeld in artikel 17 van de Woningwet ten behoeve van het opheffen van een overtreding als bedoeld in dat artikel, indien de toepassing van de bevoegdheden, bedoeld in artikel 14, eerste lid, van de Woningwet, geen uitzicht heeft geboden op het duurzaam achterwege blijven van een zodanige overtreding.     
 2.  In dit artikel wordt verstaan onder: 

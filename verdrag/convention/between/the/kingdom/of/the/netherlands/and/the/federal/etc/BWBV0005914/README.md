@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Overeenkomst tussen het Koninkrijk der Nederlanden en de Federale Democratische Republiek Ethiopië tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen
+##Verdrag tussen het Koninkrijk der Nederlanden en de Federale Democratische Republiek Ethiopië tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen
 
 ####Convention between the Kingdom of the Netherlands and the Federal Democratic Republic of Ethiopia for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income
 

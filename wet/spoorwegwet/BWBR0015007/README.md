@@ -1001,7 +1001,7 @@ b. voor de dienst of voorziening een afzonderlijke boekhouding voert en deze ter
 
 ### Artikel  69  
 
-1.  Behoudens artikel 70, tweede lid, aanhef en onder a, zijn met het toezicht op de naleving van het bepaalde bij of krachtens deze wet belast de bij besluit van Onze Minister daartoe aangewezen personen.   
+1.  Behoudens artikel 70, tweede lid, zijn met het toezicht op de naleving van het bepaalde bij of krachtens deze wet belast de bij besluit van Onze Minister daartoe aangewezen personen.   
 2.  Een besluit als bedoeld in het eerste lid bevat een aanduiding van de voorschriften op naleving waarvan toezicht wordt gehouden.   
 3.  Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.  
 

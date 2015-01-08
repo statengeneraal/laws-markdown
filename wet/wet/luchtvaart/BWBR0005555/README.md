@@ -1691,7 +1691,7 @@ b. het luchthavenbesluit dat op deze luchthaven betrekking heeft,   en op die pl
 
 *gebruiker:* een luchtvaartmaatschappij, alsmede een persoon of rechtspersoon die vluchten uitvoert, niet zijnde een luchtvaartmaatschappij; 
 
-*inspecteur-generaal:* de inspecteur-generaal van de Inspectie Verkeer en Waterstaat;  
+*inspecteur-generaal:* de inspecteur-generaal van de Inspectie Leefomgeving en Transport;  
 
 *luchthavenexploitatievergunning:* de vergunning, bedoeld in artikel 8.25; 
 
@@ -2211,11 +2211,11 @@ b. regels voor zover deze noodzakelijk zijn met het oog op de vliegveiligheid.
 
 a. spoedeisende hulpverlening;  
 
-b. de uitoefening van politietaken als bedoeld in artikel 2 van de Politiewet 1993.    
+b. de uitoefening van politietaken als bedoeld in artikel 3 van de Politiewet 2012.    
 3.  Een luchthavenbesluit kan tevens regels of grenswaarden bevatten die noodzakelijk zijn met het oog op het externe-veiligheidsrisico of de lokale luchtverontreiniging.   
 4.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent de in luchthavenbesluiten op te nemen grenswaarden en regels. Deze maatregel stelt in ieder geval regels omtrent het opnemen van grenswaarden voor de geluidbelasting. Bij deze maatregel kan een onderscheid worden gemaakt tussen categorieën luchthavens en tussen vormen van luchtvaart die gebruik maken van luchthavens.   
 5.  De artikelen 8.19 tot en met 8.21 zijn van overeenkomstige toepassing.   
-6.  De voordracht voor een krachtens het derde lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.   
+6.  De voordracht voor een krachtens het vierde lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.   
 7.  Bij de vaststelling van het luchthavenbesluit kan in ieder geval gebruik worden gemaakt van gegevens en onderzoeken die niet ouder zijn dan twee jaar. 
 
 ### Artikel  8.45  
@@ -3744,7 +3744,7 @@ b. een maatregel als bedoeld in de artikelen 8.45 of 8.64, zesde lid, juncto art
 
 ### Artikel  11.24  
 
-Ingeval van overtreding van de artikelen 8.25d, eerste tot en met dertiende lid, de krachtens het veertiende lid gestelde regels, 8.25da, vijfde en zesde lid, 8.25e, eerste, tweede, derde of vierde lid, de krachtens het vijfde lid gestelde regels, 8.25ea, tweede, derde lid of vierde lid, laatste volzin, 8.25f, eerste, tweede, vierde, achtste of negende lid, de krachtens het tiende lid gestelde regels, 8.25ga of artikel 8.25h, eerste of tweede lid, is hoofdstuk 7, met uitzondering van artikel 58a, van de Mededingingswet van overeenkomstige toepassing.
+Ingeval van overtreding van de artikelen 8.25d, eerste tot en met dertiende lid, de krachtens het veertiende lid gestelde regels, 8.25da, vijfde en zesde lid, 8.25e, eerste, tweede, derde of vierde lid, de krachtens het vijfde lid gestelde regels, 8.25ea, tweede, derde lid of vierde lid, laatste volzin, 8.25f, eerste, tweede, vierde, achtste of negende lid, de krachtens het tiende lid gestelde regels, 8.25ga of 8.25h, eerste of tweede lid, is hoofdstuk 7, met uitzondering van artikel 58a, van de Mededingingswet van overeenkomstige toepassing.
 
 ###Titel 11.3 
 

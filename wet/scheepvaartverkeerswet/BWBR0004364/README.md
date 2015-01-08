@@ -62,9 +62,11 @@ r.tactische verkeersinformatie: informatie waarop onmiddellijke navigatiebesliss
 
 s. verdrag inzake het gemeenschappelijk nautisch beheer: het op 21 december 2005 te Middelburg totstandgekomen verdrag tussen het Koninkrijk der Nederlanden en het Vlaams Gewest inzake het gemeenschappelijk nautisch beheer in het Scheldegebied (Trb. 2005, 312); 
 
-t.  *vaarbewijs:* document ten bewijze van de bevoegdheid om op de Nederlandse binnenwateren een schip te voeren, waaronder begrepen een daarmee vergelijkbaar document dat is afgegeven door een buitenlandse autoriteit;  
+t. vaarbewijs: document ten bewijze van de bevoegdheid om op de Nederlandse binnenwateren een schip te voeren, waaronder begrepen een daarmee vergelijkbaar document dat is afgegeven door een buitenlandse autoriteit;  
 
-u.  *snelle motorboot:* schip dat een lengte heeft van minder dan 20 meter en dat bij gebruikmaking van zijn mechanische middelen tot voortbeweging, sneller dan 20 km per uur ten opzichte van het water kan varen.    
+u. snelle motorboot: schip dat een lengte heeft van minder dan 20 meter en dat bij gebruikmaking van zijn mechanische middelen tot voortbeweging, sneller dan 20 km per uur ten opzichte van het water kan varen; 
+
+v. de Autoriteit Consument en Markt: de Autoriteit Consument en Markt, genoemd in artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt.    
 2.   In de artikelen 10 tot en met 13, 15 tot en met 16a, 27 tot en met 29 en 35 van deze wet en in de op deze wet berustende bepalingen wordt, tenzij daarin anders is bepaald, verstaan onder:  
 
 a. kapitein: degene die is belast met het gezag over een zeeschip;   

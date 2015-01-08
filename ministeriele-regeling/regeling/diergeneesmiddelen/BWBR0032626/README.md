@@ -2865,7 +2865,7 @@ b. een houder die dieren, anders dan de dieren, bedoeld in onderdeel a, houdt, v
 
 1. Er is een schriftelijke overeenkomst tussen de houder en een dierenarts, met dien verstande dat de houder per diersoort één overeenkomst met een dierenarts kan sluiten.  
 
-2. In de overeenkomst zijn ten minste de verplichtingen, bedoeld in de onderdelen 4, 5, eerste en tweede lid en 6, eerste lid, opgenomen.  
+2. In de overeenkomst zijn ten minste de verplichtingen, bedoeld in de onderdelen 4 en 5, eerste en tweede lid, artikel 1.28, tweede lid, van het Besluit houders van dieren en artikel 5.9, tweede lid, van het Besluit diergeneeskundigen, opgenomen.  
 
 3. De houder en dierenarts handelen overeenkomstig het bepaalde in de overeenkomst.   
 
@@ -2917,25 +2917,15 @@ c. voor vleeskalveren of melkveerunderen eenmaal per drie maanden.
 
 ### 6  
 
-####Bedrijfsdossier
+####Bedrijfsgezondheidsplan en bedrijfsbehandelplan
 
-1. De houder en de dierenarts handelen met betrekking tot alle diergeneeskundige zorg overeenkomstig een bedrijfsdossier, met uitzondering van die gevallen waarin een diergeneeskundige noodzaak vereist dat hiervan wordt afgeweken.  
+1. Het bedrijfsgezondheidsplan, bedoeld in artikel 1.28, eerste lid, van het Besluit houders van dieren, bevat, in aanvulling op het bepaalde in artikel 5.14, van de Regeling diergeneeskundigen: 
 
-2. De dierenarts stelt het bedrijfsdossier op, in overleg met de houder.  
+a. een reductiedoelstelling voor het gebruik van antimicrobiële middelen die gekoppeld is aan de maatregelen, bedoeld in artikel 5.14, eerste lid, onderdeel g, van de Regeling diergeneeskundigen;  
 
-3. De houder bewaart het bedrijfsdossier gedurende vijf jaar op zijn bedrijf.  
+b. een beschrijving van de voorziening voor noodzakelijke vervanging van de dierenarts.    
 
-4. Het bedrijfsdossier bestaat ten minste uit: 
-
-a. een analyse van de diergezondheidssituatie en de toepassing van diergeneesmiddelen op het bedrijf gedurende het voorgaande jaar;  
-
-b. een overzicht van de te nemen maatregelen ter verbetering van de diergezondheidssituatie op het bedrijf, waaronder in ieder geval maatregelen gericht op het verminderen van de toepassing van antimicrobiële middelen op het bedrijf, waaraan een reductiedoelstelling en een uitvoeringstermijn worden verbonden;  
-
-c. een bedrijfsspecifiek overzicht van aandoeningen en ziektes bij door de houder gehouden dieren waar de overeenkomst betrekking op heeft, waarbij is weergegeven op welke wijze de aandoeningen en ziektes worden behandeld;  
-
-d. een beschrijving van de voorziening voor noodzakelijke vervanging van de dierenarts.    
-
-5. In het bedrijfsdossier is met betrekking tot antimicrobiële middelen in ieder geval opgenomen dat: 
+2. In het bedrijfsbehandelplan, bedoeld in artikel 1.28, eerste lid, van het Besluit houders van dieren, is, in aanvulling op het bepaalde in artikel 5.17, van de Regeling diergeneeskundigen, met betrekking tot antimicrobiële middelen in ieder geval opgenomen dat: 
 
 a. de dierenarts uitsluitend op basis van een klinische inspectie van de te behandelen dieren en de op grond daarvan gestelde diagnose antimicrobiële middelen aflevert waarmee deze dieren overeenkomstig een voorschrift als bedoeld in artikel 2.19, derde lid, onderdeel a, van de wet, één maal behandeld kunnen worden;  
 
@@ -2943,7 +2933,7 @@ b. de dierenarts antimicrobiële middelen aflevert en de houder en de dierenarts
 
 c. de houder en de dierenarts afspraken maken over het volgen van de te behandelen dieren tijdens de behandeling.    
 
-6. In afwijking van het vijfde lid, onderdeel a, kan in het bedrijfsdossier worden opgenomen dat de dierenarts ter behandeling van in het bedrijfsdossier genoemde aandoeningen of ziekten antimicrobiële middelen af kan leveren en dat de houder bij deze aandoeningen of ziekten zelf kan overgaan tot individuele behandeling van de dieren met deze middelen. Dit betreft slechts antimicrobiële middelen die ingevolge de goede veterinaire praktijken, waaronder gidsen voor goede praktijken als bedoeld in artikel 8.44 van de wet, 
+3. In afwijking van het tweede lid, onderdeel a, kan in het bedrijfsbehandelplan worden opgenomen dat de dierenarts ter behandeling van in het bedrijfsbehandelplan genoemde aandoeningen of ziekten antimicrobiële middelen af kan leveren en dat de houder bij deze aandoeningen of ziekten zelf kan overgaan tot individuele behandeling van de dieren met deze middelen. Dit betreft slechts antimicrobiële middelen die ingevolge de goede veterinaire praktijken, waaronder gidsen voor goede praktijken als bedoeld in artikel 8.44 van de wet, 
 
 a. als middel van eerste keuze zijn aangemerkt;  
 
@@ -2957,39 +2947,37 @@ c. als middel van tweede keuze zijn aangemerkt en dienen ter behandeling van dia
 
 3°. de dierenarts een schriftelijke instructie inzake het gebruik van het middel achterlaat, waarin in ieder geval de mogelijk te behandelende dieren ondubbelzinnig geïdentificeerd worden, dan wel het moederdier indien het een ongeboren dier betreft;  
 
-4°. in het bedrijfsdossier maatregelen zijn opgenomen om de uitbraak te bestrijden en herhaling te voorkomen;    
+4°. in het bedrijfsbehandelplan maatregelen zijn opgenomen om de uitbraak te bestrijden en herhaling te voorkomen;    
 
 d. als middel van tweede keuze zijn aangemerkt en dienen ter behandeling van luchtwegaandoeningen, enteritis of artritis bij vleeskalveren mits voldaan wordt aan de voorwaarden, opgenomen in onderdeel c, onder 2°, 3° en 4°;  
 
 e. als middel van tweede keuze zijn aangemerkt en dienen ter behandeling van neonatale diarree door E. coli, speendiarree door E. coli en meningo-encephalitis door Streptococcus suis bij varkens mits voldaan wordt aan de voorwaarden, opgenomen in onderdeel c, onder 2°, 3° en 4°.    
 
-7. Op het bedrijf van de houder mogen niet meer antimicrobiële middelen aanwezig zijn dan de hoeveelheid: 
+4. Op het bedrijf van de houder mogen niet meer antimicrobiële middelen aanwezig zijn dan de hoeveelheid: 
 
-a. afgeleverd overeenkomstig het vijfde lid, onderdeel a, ten behoeve van het voltooien van een behandeling, tenzij de kleinste primaire verpakking die is toegelaten conform artikel 2.19 van de wet de hoeveelheid noodzakelijk om de dieren te behandelen, overschrijdt en het niet mogelijk is dat het middel overeenkomstig artikel 4.11 wordt verdeeld in een kleinere verpakking;  
+a. afgeleverd overeenkomstig het tweede lid, onderdeel a, ten behoeve van het voltooien van een behandeling, tenzij de kleinste primaire verpakking die is toegelaten conform artikel 2.19 van de wet de hoeveelheid noodzakelijk om de dieren te behandelen, overschrijdt en het niet mogelijk is dat het middel overeenkomstig artikel 4.11 wordt verdeeld in een kleinere verpakking;  
 
-b. afgeleverd overeenkomstig het zesde lid, onderdeel a of b, waarmee 15% van de op het bedrijf aanwezige en voor de aandoening of ziekte vatbare dieren waar de overeenkomst betrekking op heeft overeenkomstig een voorschrift als bedoeld in artikel 2.19, derde lid, onderdeel a, van de wet, één maal behandeld kunnen worden, tenzij de kleinste primaire verpakking die is toegelaten conform artikel 2.19 van de wet de hoeveelheid noodzakelijk om de dieren te behandelen, overschrijdt en het niet mogelijk is dat het middel overeenkomstig artikel 4.11 wordt verdeeld in een kleinere verpakking;  
+b. afgeleverd overeenkomstig het derde lid, onderdeel a of b, waarmee 15% van de op het bedrijf aanwezige en voor de aandoening of ziekte vatbare dieren waar de overeenkomst betrekking op heeft overeenkomstig een voorschrift als bedoeld in artikel 2.19, derde lid, onderdeel a, van de wet, één maal behandeld kunnen worden, tenzij de kleinste primaire verpakking die is toegelaten conform artikel 2.19 van de wet de hoeveelheid noodzakelijk om de dieren te behandelen, overschrijdt en het niet mogelijk is dat het middel overeenkomstig artikel 4.11 wordt verdeeld in een kleinere verpakking;  
 
-c. afgeleverd overeenkomstig het zesde lid, onderdeel c of e, waarmee het aantal door de dierenarts als mogelijk te behandelen geïdentificeerde, op het bedrijf aanwezige en voor de aandoening of ziekte vatbare dieren waar de overeenkomst betrekking op heeft overeenkomstig een voorschrift als bedoeld in artikel 2.19, derde lid, onderdeel a, van de wet, één maal behandeld kunnen worden, tenzij de kleinste primaire verpakking die is toegelaten conform artikel 2.19 van de wet de hoeveelheid noodzakelijk om de dieren te behandelen, overschrijdt en het niet mogelijk is dat het middel overeenkomstig artikel 4.11 wordt verdeeld in een kleinere verpakking;  
+c. afgeleverd overeenkomstig het derde lid, onderdeel c of e, waarmee het aantal door de dierenarts als mogelijk te behandelen geïdentificeerde, op het bedrijf aanwezige en voor de aandoening of ziekte vatbare dieren waar de overeenkomst betrekking op heeft overeenkomstig een voorschrift als bedoeld in artikel 2.19, derde lid, onderdeel a, van de wet, één maal behandeld kunnen worden, tenzij de kleinste primaire verpakking die is toegelaten conform artikel 2.19 van de wet de hoeveelheid noodzakelijk om de dieren te behandelen, overschrijdt en het niet mogelijk is dat het middel overeenkomstig artikel 4.11 wordt verdeeld in een kleinere verpakking;  
 
-d. afgeleverd overeenkomstig het zesde lid, onderdeel d, waarmee 5% van de in een stal aanwezige en voor de aandoening of ziekte vatbare dieren waar de overeenkomst betrekking op heeft overeenkomstig een voorschrift als bedoeld in artikel 2.19, derde lid, onderdeel a, van de wet, één maal behandeld kunnen worden, tenzij de kleinste primaire verpakking die is toegelaten conform artikel 2.19 van de wet de hoeveelheid noodzakelijk om de dieren te behandelen, overschrijdt en het niet mogelijk is dat het middel overeenkomstig artikel 4.11 wordt verdeeld in een kleinere verpakking.    
+d. afgeleverd overeenkomstig het derde lid, onderdeel d, waarmee 5% van de in een stal aanwezige en voor de aandoening of ziekte vatbare dieren waar de overeenkomst betrekking op heeft overeenkomstig een voorschrift als bedoeld in artikel 2.19, derde lid, onderdeel a, van de wet, één maal behandeld kunnen worden, tenzij de kleinste primaire verpakking die is toegelaten conform artikel 2.19 van de wet de hoeveelheid noodzakelijk om de dieren te behandelen, overschrijdt en het niet mogelijk is dat het middel overeenkomstig artikel 4.11 wordt verdeeld in een kleinere verpakking.    
 
-8. Antimicrobiële middelen, afgeleverd, overeenkomstig het zesde lid, onderdeel c, d of e, mogen niet langer op het bedrijf van de houder aanwezig zijn dan een periode van 14 dagen nadat de dierenarts het bedrijf heeft bezocht en heeft geconstateerd dat behandeling van de dieren noodzakelijk is.  
+5. Antimicrobiële middelen, afgeleverd, overeenkomstig het derde lid, onderdeel c, d of e, mogen niet langer op het bedrijf van de houder aanwezig zijn dan een periode van 14 dagen nadat de dierenarts het bedrijf heeft bezocht en heeft geconstateerd dat behandeling van de dieren noodzakelijk is.  
 
-9. De dierenarts evalueert, in overleg met de houder het bedrijfsdossier ten minste jaarlijks en stelt dit, indien nodig, bij. Een verslag van de evaluatie wordt door de houder en de dierenarts ondertekend. Het verslag vormt een onderdeel van het bedrijfsdossier.  
+6. Op houders die minder dan 25 varkens, minder dan 25 vleeskalveren of minder dan 25 melkveerunderen houden is het derde lid van toepassing met dien verstande dat: 
 
-10. Op houders die minder dan 25 varkens, minder dan 25 vleeskalveren of minder dan 25 melkveerunderen houden is het zesde lid van toepassing met dien verstande dat: 
+a. de verplichting in het eerste lid niet van toepassing is;  
 
-a. de verplichting in het vierde lid, aanhef en onderdeel c niet van toepassing is;  
-
-b. van de mogelijkheid van het zesde lid gebruik gemaakt kan worden zonder opname daarvan in een bedrijfsdossier en zonder dat er sprake is van behandeling van de in een bedrijfsdossier genoemde aandoeningen of ziekten;   voor zover geen van de door de houder gehouden dieren waarop de overeenkomst betrekking heeft afkomstige producten in de handel worden gebracht en, al dan niet na verwerking, voor humane consumptie worden gebruikt.   
+b. van de mogelijkheid van het derde lid gebruik gemaakt kan worden zonder opname daarvan in het bedrijfsgezondheidsplan en zonder dat er sprake is van behandeling van de in het bedrijfsgezondheidsplan genoemde aandoeningen of ziekten;   voor zover geen van de door de houder gehouden dieren waarop de overeenkomst betrekking heeft afkomstige producten in de handel worden gebracht en, al dan niet na verwerking, voor humane consumptie worden gebruikt.   
 
 ### 7  
 
 ####Beëindiging van de overeenkomst
 
-1. Indien de overeenkomst eindigt stelt de houder de verslagen van het regelmatig bezoek, bedoeld in onderdeel 5, tweede lid, onderdeel b, en vijfde lid, en het bedrijfsdossier, bedoeld in onderdeel 6, ter hand aan de dierenarts met wie de houder een nieuwe overeenkomst sluit.  
+1. Indien de overeenkomst eindigt stelt de houder de verslagen van het regelmatig bezoek, bedoeld in onderdeel 5, tweede lid, onderdeel b, en vijfde lid, en het bedrijfsgezondheidsplan, bedoeld in onderdeel 6, ter hand aan de dierenarts met wie de houder een nieuwe overeenkomst sluit.  
 
-2. De reden van het opzeggen van de overeenkomst wordt door de dierenarts waarmee de overeenkomst eindigt, in het bedrijfsdossier vermeld.   
+2. De reden van het opzeggen van de overeenkomst wordt door de dierenarts waarmee de overeenkomst eindigt, in het bedrijfsgezondheidsplan vermeld.   
 
 ### 8  
 
@@ -3007,9 +2995,9 @@ b. de naam van de dierenarts en het nummer waaronder hij is opgenomen in het reg
 
 Met ingang van 1 maart 2016 wordt deze bijlage als volgt gewijzigd: 
 
-1. onder vervanging van de puntkomma aan het eind van onderdeel 6, zesde lid, onderdeel b, door een punt, vervallen de onderdelen c, d en e;  
+1. onder vervanging van de puntkomma aan het eind van onderdeel 6, derde lid, onderdeel b, door een punt, vervallen de onderdelen c, d en e;  
 
-2. onder vervanging van de puntkomma aan het eind van onderdeel 6, zevende lid, onderdeel b, door een punt, vervallen de onderdelen c en d;  
+2. onder vervanging van de puntkomma aan het eind van onderdeel 6, vierde lid, onderdeel b, door een punt, vervallen de onderdelen c en d;  
 
-3. het achtste lid van onderdeel 6 vervalt.   
+3. het vijfde lid van onderdeel 6 vervalt.   
 

@@ -48,8 +48,8 @@ Gelet op:
 – beschikking nr. 2003/100/EG van de Commissie van de Europese Gemeenschappen van 13 februari 2003 tot vaststelling van minimumeisen voor fokprogramma’s ter verkrijging van resistentie tegen overdraagbare spongiforme encefalopathieën bij schapen (PbEG L 041);
 
 Gelet op de artikelen 10, eerste en tweede lid, onderdelen b en c, 11, eerste lid, 15, 17, 18, 23, 25, tweede lid, 26, 30, 31, 77, 81, 94, 100 en 107, 108 en 108a van de Gezondheids- en welzijnswet voor dieren, artikel 10a van de Veewet, artikel 19 van de Landbouwwet, artikel 7, tweede en derde lid van de wet op de uitoefening van de diergeneeskunde 1990, de artikelen 3 en 5 van het Besluit verdachte dieren, de artikelen 3 en 3a van het Besluit bescherming tegen bepaalde zoönosen en besmettelijke dierziekten, de artikelen 2 en 3 van het Besluit gebruik sera en entstoffen;
-Besluit:  
-###Titel 1 
+Besluit:   
+### Titel  1  
 
 ####Algemeen
 
@@ -277,7 +277,11 @@ cl.  loopvogels: dieren van de orde Struthioniformes;
 
 cm.  dierenarts: dierenarts als bedoeld in artikel 1.1, eerste lid, van de Wet dieren;  
 
-cn.  dierenartsassistent paraveterinair: dierenartsassistent paraveterinair als bedoeld in artikel 3.1, eerste lid, van het Besluit diergeneeskundigen.    
+cn.  dierenartsassistent paraveterinair: dierenartsassistent paraveterinair als bedoeld in artikel 3.1, eerste lid, van het Besluit diergeneeskundigen; 
+
+co.grootouderdier: vermeerderingsdier dat wordt gehouden voor de productie van andere vermeerderingsdieren;
+
+cp.richtlijn 92/119/EEG: richtlijn nr. 92/119/EEG van de Raad van de Europese Gemeenschappen van 17 december 1992 tot vaststelling van algemene communautaire maatregelen voor de bestrijding van bepaalde dierziekten en van specifieke maatregelen ten aanzien van de vesculaire varkensziekte (PbEG 1993, L 62).   
 2.  Voor de toepassing van artikel 13 wordt onder abortus verstaan: het spontaan meer dan 21 dagen eerder dan de gemiddelde draagtijd van het desbetreffende runderras ter wereld brengen van een vrucht of vruchten door een rund, ingeval de dracht meer dan 100 dagen heeft geduurd.   
 3.  Voor de toepassing van titel 2, hoofdstuk 1, paragraaf 7, wordt verstaan onder werkzaamheden: controle als bedoeld in artikel 18, tweede lid, van de wet.  
 
@@ -351,13 +355,17 @@ ab. enzoötische hemorraghische ziekte bij herten;
 
 ac. Q-koorts.  
 
-###Artikel 3 
+### Artikel  3  
 
-Als besmettelijke dierziekten als bedoeld in artikel 15 van de wet bij pluimvee worden aangewezen:
+Als besmettelijke dierziekten als bedoeld in artikel 15 van de wet bij pluimvee worden aangewezen: 
 
-a.vogelpest (Aviaire Influenza);
+a. vogelpest (Aviaire Influenza);  
 
-b.pseudo-vogelpest (Newcastle Disease).
+b. pseudo-vogelpest (Newcastle Disease);  
+
+c. Mycoplasma gallisepticum, Mycoplasma meleagridis en Mycoplasma synoviae;  
+
+d. Salmonella arizonae, Salmonella Gallinarum en Salmonella Pullorum.  
 
 ###Artikel 4 
 
@@ -441,7 +449,7 @@ c. OsHV-1 µvar als bedoeld in verordening (EG) nr. 175/2010.
 
 Als andere besmettelijke dierziekten als bedoeld in artikel 100 van de wet worden aangewezen: 
 
-a. salmonellose;  
+a. vervallen;  
 
 b. campylobacteriose;  
 
@@ -530,6 +538,86 @@ De termijn, bedoeld in artikel 3, onderdeel hh, van het Besluit verdachte dieren
 ### Artikel  15  
 
 De termijn, bedoeld in artikel 5, eerste lid, onderdeel ff, van het Besluit verdachte dieren is bij TSE’s bij schapen en geiten 2 jaar. 
+
+### Hoofdstuk  3  
+
+####Aanwijzing databanken
+
+### Artikel  15a  
+
+In deze paragraaf wordt verstaan onder: 
+
+a.*databank:* geautomatiseerde gegevensbank;
+
+b.*persoonsgegevens, verwerking van persoonsgegevens, verantwoordelijke, betrokkene onderscheidenlijk bewerker:* hetgeen daaronder wordt verstaan in artikel 1 van de Wet bescherming persoonsgegevens. 
+
+### Artikel  15b  
+
+1.  De minister kan databanken aanwijzen waarin de registratie van gegevens, bedoeld in artikel 98h, eerste lid, plaatsvindt.   
+2.  De gegevens worden verwerkt met als doel het ten behoeve van de bescherming van de dier- en volksgezondheid verkrijgen van inzicht in de gezondheidsstatus van dieren waarop de registratieverplichting van toepassing is en een effectief systeem van toezicht op en handhaving van de op deze dieren en de houders daarvan van toepassing zijnde regelgeving door de minister te bevorderen.   
+3.  De minister is verantwoordelijk voor de verwerking van persoonsgegevens in de databank.   
+4.  Een beheerder van een databank is bewerker van de persoonsgegevens.   
+5.  De minister en de beheerder van een databank verstrekken elkaar over en weer alle benodigde informatie teneinde een goede naleving van de Wet bescherming persoonsgegevens en andere privacywetgeving mogelijk te maken. Op verzoek van de minister toont de beheerder aan dat de noodzakelijke maatregelen zijn genomen.   
+6.  De beheerder van de databank stelt de minister te allen tijde kosteloos in de gelegenheid alle benodigde controles, gericht op de uitvoering van dit hoofdstuk en de naleving van privacywetgeving zoals de Wet bescherming persoonsgegevens, uit te voeren of uit te doen voeren.  
+
+### Artikel  15c  
+
+Een aanwijzing als bedoeld in artikel 15b, eerste lid, vindt plaats, indien: 
+
+a. de beheerder van de databank een onderneming heeft als bedoeld in artikel 5 van de Handelsregisterwet 2007 of een rechtspersoon is in de zin van artikel 54 van het Verdrag betreffende de Werking van de Europese Unie, die in een lidstaat van de Europese Unie of van de Europese Economische Ruimte is gevestigd;  
+
+b. de databank schriftelijk of elektronisch voldoende bereikbaar is voor houders;  
+
+c. de beheerder van de databank de geregistreerde gegevens elektronisch en tijdig kan uitwisselen met de minister;  
+
+d. de beheerder van de databank passende technische en organisatorische maatregelen neemt om de geregistreerde gegevens afdoende te beveiligen teneinde verlies en onrechtmatige of onnodige verwerking hiervan te voorkomen;  
+
+e. de beheerder van de databank de geregistreerde gegevens overeenkomstig dit hoofdstuk verwerkt, en slechts voor andere doelen gebruikt dan verwerking overeenkomstig deze paragraaf nadat toestemming is verkregen van de betrokkene;  
+
+f. de beheerder van de databank zorg draagt voor de kwaliteit van de gegevens.   
+
+### Artikel  15d  
+
+1.  Een aanvraag tot aanwijzing als bedoeld in artikel 15b, eerste lid, wordt ingediend bij de minister.   
+2.  Een aanvraag tot aanwijzing lid gaat vergezeld van: 
+
+a. bewijsstukken dat voldaan wordt aan de artikelen 15c en 15e, en  
+
+b. een verklaring dat een bewerkersovereenkomst en een gegevensleveringsovereenkomst met de minister worden gesloten, indien de databank wordt aangewezen.     
+3.  Met toepassing van artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet is paragraaf 4.1.3.3 van de Algemene wet bestuursrecht niet van toepassing op een aanvraag als bedoeld in artikel 15b, eerste lid.   
+4.  Op een aanvraag tot aanwijzing wordt binnen zes weken na de datum van ontvangst van de aanvraag beslist.   
+5.  De minister kan de termijn, bedoeld in het vierde lid, eenmaal met zes weken verlengen.  
+
+### Artikel  15e  
+
+1.  De beheerder van een aangewezen databank: 
+
+a. verwerkt de gegevens, bedoeld in artikel 98h, eerste en tweede lid;  
+
+b. verstrekt de houder, bedoeld in dat artikel, digitaal of schriftelijk bewijs van de registratie of de wijziging daarvan, en  
+
+c. verstrekt de minister dagelijks een overzicht van de gegevens, bedoeld in artikel 98h, eerste, tweede en derde lid, die in de databank zijn geregistreerd.     
+2.  De beheerder bewaart de gegevens, bedoeld in het eerste lid, onderdeel a, drie jaar, te rekenen vanaf de dag na de datum waarop de gegevens zijn geregistreerd.   
+3.  Op verzoek van de houder verstrekt de beheerder informatie aan de houder om hem zijn rechten te kunnen laten uitoefenen en de plichten na te leven als bedoeld in hoofdstuk 5 en 6 van de Wet bescherming persoonsgegevens, waaronder in elk geval wordt verstaan dat hij de houder inzage geeft in de gegevens die met betrekking tot die houder en door hem gehouden dieren geregistreerd zijn.   
+4.  Indien de beheerder meent dat de gegevens van een houder correct zijn vastgelegd, maar de houder van een dier dit standpunt bestrijdt, registreert de beheerder dat de houder zijn gegevens als niet correct beschouwt.   
+5.  De beheerder van een databank die vanwege een onvoorziene situatie niet kan voldoen aan dit artikel of artikel 15c stelt de minister daarvan onverwijld op de hoogte.  
+
+### Artikel  15f  
+
+1.  De minister kan de aanwijzing, bedoeld in artikel 15b intrekken, indien deze niet voldoet aan de voorwaarden, bedoeld in de artikelen 15b, vijfde en zesde lid, 15c of 15e.   
+2.  Indien de aanwijzing van een databank wordt ingetrokken of beëindigd: 
+
+a. verstrekt de beheerder van de databank de geregistreerde gegevens aan de minister of geeft de minister de opdracht aan de beheerder van een databank de gegevens te vernietigen, en  
+
+b. verleent de beheerder van de databank alle medewerking aan de minister of de beheerder van een andere op grond van artikel 15b, eerste lid, aangewezen databank ter zake van de overdracht van de werkzaamheden inzake de verwerking van de gegevens.    
+
+### Artikel  15g  
+
+1.  Tarieven voor een vergoeding die de beheerder van een databank in rekening brengt voor het verwerken van een regsitratie als bedoeld in artikel 15b behoeven de goedkeuring van de minister.   
+2.  De goedkeuring, bedoeld in het eerste lid, wordt onthouden indien de tarieven hoger zijn dan noodzakelijk, uitgaande van een redelijke toerekening van de totale kosten en opbrengsten, waarbij de vergoeding van de werkzaamheden, bedoeld in het eerste lid, niet meer bedraagt dan de kosten die de beheerder maakt bij de uitvoering van die werkzaamheden.   
+3.  De tarieven worden per kalenderjaar goedgekeurd.   
+4.  Ten behoeve van de goedkeuring verschaft de beheerder van een register alle noodzakelijke informatie, welke informatie vergezeld gaat van een controleverklaring, opgesteld door een accountant als bedoeld in artikel 393, eerste lid van Boek 2 van het Burgerlijk Wetboek.   
+5.  Van een besluit tot goedkeuring van tarieven wordt mededeling gedaan in de Staatscourant.  
 
 ### Titel  2  
 
@@ -692,6 +780,123 @@ b. het kenteken van het desbetreffende vervoermiddel en bij gebreke daarvan de n
 1.  Indien een reinigings- en ontsmettingsplaats niet of niet meer aan de eisen, bedoeld in artikel 26, eerste lid, voldoet, of niet aan de verplichtingen opgenomen in artikel 28 voldoet, kan de minister de erkenning met onmiddellijke ingang schorsen of intrekken.   
 2.  De minister kan een schorsing beëindigen indien ten genoegen van de minister is aangetoond dat de reinigings- en ontsmettingsplaats volledig aan alle eisen voldoet. 
 
+### §  2.3  
+
+####Aanwijzing van varkenshouderijbedrijven
+
+### Artikel  29a  
+
+####Definities
+
+In deze paragraaf en paragraaf 4.3.1 wordt verstaan onder: 
+
+a.*varkenshouderijbedrijf:* locatie van een landbouwbedrijf, niet zijnde een erkend varkensspermawincentrum als bedoeld in artikel 3 van het Besluit eisen dierlijk sperma en spermawincentrum, waar slechts één varkenshouder actief is en waar, anders dan voor educatieve doeleinden, vijf of meer varkens worden gehouden dan wel een locatie die daarvoor bestemd is;
+
+b.*cluster:* combinatie van ten hoogste drie C-bedrijven als bedoeld in artikel 29d, die uitsluitend van één en hetzelfde A-bedrijf als bedoeld in artikel 29b of E-bedrijf als bedoeld in artikel 29e varkens ontvangt;
+
+c.*toevoegstal:* stal, die is afgescheiden van de rest van het varkenshouderijbedrijf en waarvan inrichting en gebruik voldoen aan de in bijlage I opgenomen voorschriften;
+
+d.*big:* pasgeboren varken, niet zijnde speenbig;
+
+e.*speenbig:* varken van ten minste drie en ten hoogste twaalf weken oud dat niet meer wordt gezoogd door zijn moeder. 
+
+### Artikel  29b  
+
+####Aanwijzing A-bedrijf
+
+1.  De minister wijst op aanvraag een varkenshouderijbedrijf aan als een A-bedrijf, indien het bedrijf ten genoegen van de minister aantoont te voldoen aan de in het tweede lid gestelde voorwaarden.   
+2.  Een A-bedrijf voldoet aan de volgende voorwaarden: 
+
+a. vrouwelijke varkens worden gehouden voor het produceren van biggen;  
+
+b. indien het bedrijf beschikt over een toevoegstal, voldoen inrichting en gebruik aan de in bijlage 24 opgenomen eisen;  
+
+c. een dierenarts neemt eenmaal per maand monsters van de aanwezige varkens overeenkomstig de procedure van bijlage 25 ten behoeve van serologisch onderzoek door een erkend laboratorium als bedoeld in artikel 3 van de Regeling erkenning en aanwijzing veterinaire laboratoria als het gaat om de ziekte van Aujeszky en door het Centraal veterinair Instituut als het gaat om klassieke varkenspest;  
+
+d. op het bedrijf is een douche aanwezig, die is gelegen in de onmiddellijke nabijheid van de ingang van het varkenshouderijbedrijf, waarvan bezoekers van het varkenshouderijbedrijf voorafgaand aan het betreden van de stallen gebruik maken;  
+
+e. het bedrijf is voorzien van een erfafscheiding waardoor het betreden van het varkenshouderijbedrijf zonder de medewerking van de varkenshouder niet mogelijk is;  
+
+f. op het bedrijf is een voorziening voor reiniging en ontsmetting van vervoermiddelen aanwezig.     
+3.  De varkenshouder stelt de uitslag van het serologisch onderzoek beschikbaar aan de minister waaruit moet blijken dat geen varkens zijn aangetroffen waarvan het bloed antilichamen tegen klassieke varkenspest of gB-antilichamen tegen de ziekte van Aujeszky bevat.   
+4.  Indien sprake is van een cluster wordt dit bij de aanvraag aan de minister gemeld met gebruikmaking van een middel dat daartoe door de minister beschikbaar is gesteld, waarbij wordt opgegeven de samenstelling van het cluster en de verdeling van het aantal afvoeradressen onder de C-bedrijven.   
+5.  De samenstelling van een cluster en de verdeling van het aantal afvoeradressen kunnen in een periode van twaalf maanden eenmaal worden gewijzigd. Een wijziging van de samenstelling van het cluster en de verdeling van het aantal afvoeradressen wordt voorafgaand aan de toepassing van de wijziging aan de minister gemeld.   
+6.  Indien sprake is van een vaste relatie met een E-bedrijf wordt dit aan de minister gemeld met gebruikmaking van een middel dat daartoe door de minister beschikbaar is gesteld.   
+7.  Een vaste relatie tussen een A-bedrijf en een E-bedrijf kan eenmaal per twaalf maanden wijzigen. Een wijziging wordt voorafgaand aan de toepassing van de wijziging aan de minister gemeld.  
+
+### Artikel  29c  
+
+####Aanwijzing B-bedrijf
+
+1.  De minister wijst op aanvraag een varkenshouderijbedrijf aan als een B-bedrijf, indien op het varkenshouderijbedrijf vrouwelijke varkens worden gehouden voor het produceren van biggen.   
+2.  Indien sprake is van een vaste relatie met een F-bedrijf wordt dit aan de minister gemeld met gebruikmaking van een middel dat daartoe door de minister beschikbaar is gesteld.   
+3.  Een vaste relatie tussen een B-bedrijf en een F-bedrijf kan eenmaal per twaalf maanden wijzigen. Een wijziging wordt voorafgaand aan de toepassing van de wijziging aan de minister gemeld.  
+
+### Artikel  29d  
+
+####Aanwijzing C-bedrijf
+
+De minister wijst op aanvraag een varkenshouderijbedrijf aan als een C-bedrijf, indien het bedrijf biggen opfokt tot geslachtsrijpe varkens en ten genoegen van de minister aantoont te voldoen aan de in artikel 29b, tweede lid, onderdelen c tot en met f en derde lid, gestelde voorwaarden. 
+
+### Artikel  29e  
+
+####Aanwijzing E-bedrijf
+
+1.  De minister wijst op aanvraag een varkenshouderijbedrijf aan als een E-bedrijf, indien het bedrijf speenbiggen houdt, uitsluitend afkomstig van één A-bedrijf waarmee een vaste relatie is aangegaan en het bedrijf ten genoegen aantoont te voldoen aan de in artikel 29b, tweede lid, onderdelen c tot en met f en derde lid, gestelde voorwaarden.   
+2.  Indien sprake is van een cluster wordt dit bij de aanvraag aan de minister gemeld met gebruikmaking van een middel dat daartoe door de minister beschikbaar is gesteld, waarbij wordt opgegeven de samenstelling van het cluster en de verdeling van het aantal afvoeradressen onder de C-bedrijven.   
+3.  De samenstelling van een cluster en de verdeling van het aantal afvoeradressen kunnen in een periode van twaalf maanden eenmaal worden gewijzigd. Een wijziging van de samenstelling van het cluster en de verdeling van het aantal afvoeradressen wordt voorafgaand aan de toepassing van de wijziging aan de minister gemeld.  
+
+### Artikel  29f  
+
+####Aanwijzing F-bedrijf
+
+De minister wijst op aanvraag een varkenshouderijbedrijf aan als een F-bedrijf, indien het bedrijf speenbiggen houdt, uitsluitend afkomstig van één B-bedrijf waarmee een vaste relatie is aangegaan. 
+
+### Artikel  29g  
+
+####Aanwijzing RE-bedrijf
+
+De minister wijst op aanvraag een locatie waar varkens worden gehouden aan als een RE-bedrijf, indien op die locatie minder dan 5 varkens met hun biggen worden gehouden. 
+
+### Artikel  29h  
+
+####Bedrijven met een D-status
+
+Een varkenshouderijbedrijf of een locatie waar minder dan 5 varkens worden gehouden waarvoor geen aanvraag voor een status bij de minister is ingediend, heeft de status D-bedrijf. 
+
+### Artikel  29i  
+
+####Schorsen van een aanwijzing varkenshouderijbedrijf
+
+1.  De minister kan de aanwijzing als A-bedrijf, B-bedrijf, C-bedrijf, E-bedrijf of F-bedrijf met onmiddellijke ingang schorsen voor een termijn van ten hoogste 12 weken, indien het varkenshouderijbedrijf: 
+
+a. niet voldoet aan de voorwaarden voor de aanwijzing, bedoeld in de artikelen 29b, 29c, 29d, 29e, onderscheidenlijk 29f, of  
+
+b. in een periode van twaalf maanden meer dan eenmaal varkens heeft vervoerd of ontvangen in strijd met de onderscheiden artikelen 40b tot en met 40g, 40i en 40j.     
+2.  In geval van schorsing van de aanwijzing, bedoeld in het eerste lid, mogen geen varkens meer worden aangevoerd of afgevoerd anders dan naar een slachthuis of naar een varkensbedrijf buiten Nederland, hetzij rechtstreeks, hetzij via een verzamelcentrum.  
+
+### Artikel  29j  
+
+####Intrekken van een aanwijzing varkenshouderijbedrijf
+
+De minister kan de aanwijzing als A-bedrijf, B-bedrijf, C-bedrijf, E-bedrijf of F-bedrijf intrekken, indien het varkenshouderijbedrijf: 
+
+a. niet voldoet aan de voorwaarden voor de aanwijzing, bedoeld in de artikelen 29b, 29c, 29d, 29e, onderscheidenlijk 29f, nadat de varkenshouder in de gelegenheid is gesteld binnen een termijn van ten hoogste zes weken alsnog aan de voorwaarden te voldoen en deze termijn inmiddels is verstreken,  
+
+b. na afloop van de schorsing, bedoeld in artikel 29i, aanhef en onderdeel a, nog steeds niet voldoet aan de gestelde eisen, of  
+
+c. in een periode van twaalf maanden na de schorsing, bedoeld in artikel 29i, aanhef en onderdeel b, opnieuw varkens van het varkenshouderijbedrijf afvoert of op het bedrijf ontvangt in strijd met de onderscheiden artikelen 40c tot en met 40h, 40j en 40k.  
+
+d. ligt in een vaccinatiegebied dat is ingesteld na een uitbraak van de ziekte van Aujeszky. De minister kan voorwaarden stellen voor de aan- en afvoer van varkens.   
+
+### Artikel  29k  
+
+####Intrekken van een aanwijzing RE-bedrijf
+
+a. De minister kan de aanwijzing als RE-bedrijf intrekken, indien de varkenshouder van de betreffende locatie niet voldoet aan de voorwaarden voor de aanwijzing, bedoeld in artikel 29g, nadat de varkenshouder in de gelegenheid is gesteld binnen een termijn van ten hoogste zes weken alsnog aan de voorwaarden te voldoen en deze termijn inmiddels is verstreken.  
+
+b. De intrekking als bedoeld in het eerste lid heeft een minimale duur van twaalf maanden.   
+
 ### Hoofdstuk 3 
 
 ####Voorschriften voor het vervoeren van evenhoevigen
@@ -800,12 +1005,170 @@ e. een tentoonstelling of een keuring.
 
 ### § 4.3 
 
-####Bijeenbrengen van evenhoevigen op een bedrijf of plaats
+####Bijeenbrengen van evenhoevigen, niet zijnde varkens, op een bedrijf of plaats
 
 ### Artikel  40  
 
 1.  Indien evenhoevigen, met uitzondering van varkens, bijeen worden gebracht op een bedrijf of plaats, als bedoeld in artikel 37, eerste lid, onderdeel c, verblijven die evenhoevigen ten minste 21 dagen op het bedrijf of de plaats alvorens zij worden afgevoerd.   
 2.  Het eerste lid is niet van toepassing op evenhoevigen die na afloop van een tentoonstelling of keuring worden aangevoerd op een bedrijf of plaats en weer van dat bedrijf of die plaats worden afgevoerd ten behoeve van een tentoonstelling of keuring.  
+
+### §  4.3.1  
+
+####Bijeenbrengen van varkens op een varkenshouderijbedrijf
+
+### Artikel  40a  
+
+####Verbod op aan- en afvoer
+
+Aan- of afvoer van één of meer varkens vanaf of naar een varkenshouderijbedrijf is verboden. 
+
+### Artikel  40b  
+
+Het verbod, bedoeld in artikel 40a, is niet van toepassing op het vervoer van: 
+
+a. één of meer varkens van of naar een A-bedrijf, B-bedrijf, C-bedrijf, E-bedrijf of F-bedrijf of naar een D-bedrijf met een toestemming als bedoeld in artikel 40l;  
+
+b. één of meer varkens van een varkenshouderijbedrijf naar een slachthuis, hetzij rechtstreeks, hetzij via een verzamelcentrum en uit het vervoersdocument, bedoeld in artikel 30, eerste lid, van de Regeling identificatie en registratie van dieren blijkt dat sprake is van vervoer van slachtvarkens;  
+
+c. één of meer mannelijke varkens van een varkenshouderijbedrijf naar een quarantaineruimte in een varkensspermawincentrum;  
+
+d. één of meer varkens van een varkenshouderijbedrijf naar een onderzoeksinstituut dat in het bezit is van een vergunning op basis van artikel 2 van de Wet op de dierproeven;  
+
+e. ten hoogste vier varkens per levering van een varkenshouderijbedrijf naar een RE-bedrijf;  
+
+f. één of meer varkens van een varkenshouderijbedrijf naar een varkenshouderijbedrijf buiten Nederland, hetzij rechtstreeks, hetzij via een verzamelcentrum met een toestemming als bedoeld in artikel 40l;  
+
+g. één of meer varkens afkomstig van een varkenshouderijbedrijf of verzamelcentrum buiten Nederland die op een varkenshouderijbedrijf worden ontvangen.   
+
+### Artikel  40c  
+
+####Aanvoer naar A-bedrijf
+
+1.  In afwijking van artikel 40a is het vervoer naar een A-bedrijf toegestaan van vrouwelijke varkens afkomstig van ten hoogste één ander A-bedrijf, C-bedrijf, E-bedrijf, of één varkenshouderijbedrijf buiten Nederland en van mannelijke varkens afkomstig van ten hoogste één ander A-bedrijf, C-bedrijf, E-bedrijf, varkensspermawincentrum of één varkenshouderijbedrijf buiten Nederland en van biggen afkomstig van het E-bedrijf waaraan het betreffende A-bedrijf heeft geleverd, voor zover: 
+
+a. ten minste vijf weken voorafgaand aan de week van aanvoer geen varkens op het betreffende A-bedrijf zijn aangevoerd;  
+
+b. varkens na aanvoer in een toevoegstal van het betreffende A-bedrijf zijn gehouden totdat uit het serologisch onderzoek van monsters, die overeenkomstig de procedure van bijlage II door een dierenarts zijn genomen, blijkt dat in het bloed van de aangevoerde varkens geen antilichamen tegen klassieke varkenspest en gB-antilichamen tegen de ziekte van Aujeszky zijn aangetroffen, of  
+
+c. binnen zes weken na aanvoer geen varkens worden afgevoerd anders dan rechtstreeks naar een slachthuis dan wel via een verzamelcentrum indien er geen toevoegstal op het betreffende A-bedrijf aanwezig is of als geen gebruik is gemaakt van de toevoegstal van het betreffende A-bedrijf     
+2.  Een A-bedrijf kan eenmaal per twaalf maanden wijzigen van bedrijf als leverancier voor zowel zijn vrouwelijke als mannelijke varkens als bedoeld in het eerste lid. Een wijziging wordt voorafgaand aan de toepassing van de wijziging aan de minister gemeld met gebruikmaking van een middel dat daartoe door de minister beschikbaar is gesteld.  
+
+### Artikel  40d  
+
+####Afvoer vanaf A-bedrijf
+
+In afwijking van artikel 40a is het vervoer van één of meer varkens vanaf een A-bedrijf toegestaan naar: 
+
+a. één of meer A-bedrijven, B-bedrijven of D-bedrijven;  
+
+b. één C-bedrijf of cluster of  
+
+c. één E-bedrijf, waarbij het A-bedrijf niet meer naar een bedrijf als bedoeld in onderdeel a of b mag afvoeren.   
+
+### Artikel  40e  
+
+####Aanvoer B-bedrijf
+
+1.  In afwijking van artikel 40a is het vervoer naar een B-bedrijf toegestaan van vrouwelijke varkens afkomstig van ten hoogste één A-bedrijf, C-bedrijf, E-bedrijf of één varkenshouderijbedrijf buiten Nederland en van mannelijke varkens afkomstig van ten hoogste één A-bedrijf, C-bedrijf, E-bedrijf, varkensspermawincentrum of één varkenshouderijbedrijf buiten Nederland en van biggen afkomstig van het F-bedrijf waaraan het betreffende B-bedrijf heeft geleverd, voor zover ten minste vijf weken voorafgaand aan de week van aanvoer geen varkens op het betreffende B-bedrijf zijn aangevoerd.   
+2.  Een B-bedrijf kan eenmaal per twaalf maanden wijzigen van bedrijf als leverancier voor zowel zijn vrouwelijke als mannelijke varkens als bedoeld in het eerste lid. Een wijziging wordt voorafgaand aan de toepassing van de wijziging aan de minister gemeld met gebruikmaking van een middel dat daartoe door de minister beschikbaar is gesteld.  
+
+### Artikel  40f  
+
+####Afvoer B-bedrijf
+
+In afwijking van artikel 40a is het vervoer van één of meer varkens vanaf een B-bedrijf toegestaan naar: 
+
+a. een D-bedrijf, voor zover in een periode van zes weken slechts varkens worden afgevoerd naar ten hoogste zes D-bedrijven en in een periode van zestien weken slechts varkens worden afgevoerd naar ten hoogste twaalf D-bedrijven;  
+
+b. één F-bedrijf, waarbij niet meer naar een ander varkenshouderijbedrijf binnen Nederland kan worden afgevoerd.   
+
+### Artikel  40g  
+
+####Aanvoer C-bedrijf
+
+In afwijking van artikel 40a is het vervoer van één of meer varkens naar een C-bedrijf toegestaan, voor zover afkomstig van ten hoogste één A-bedrijf, E-bedrijf of varkenshouderijbedrijf buiten Nederland. 
+
+### Artikel  40h  
+
+####Afvoer C-bedrijf
+
+In afwijking van artikel 40a is het vervoer van één of meer varkens vanaf een C-bedrijf toegestaan, voor zover: 
+
+a. varkens worden afgevoerd naar één of meerdere A-bedrijven;  
+
+b. in een periode van twaalf maanden slechts varkens worden afgevoerd naar ten hoogste 40 B-bedrijven en D-bedrijven gezamenlijk;  
+
+c. indien het C-bedrijf deel uitmaakt van een cluster van twee of drie C-bedrijven, in een periode van twaalf maanden door het cluster slechts varkens worden afgevoerd naar ten hoogste 30 B-bedrijven en D-bedrijven.   
+
+### Artikel  40i  
+
+####Aanvoer D-bedrijf
+
+1.  In afwijking van artikel 40a is het vervoer van één of meer varkens naar een D-bedrijf toegestaan, voor zover in een periode van zestien weken slechts varkens worden aangevoerd, afkomstig van ten hoogste zes A-bedrijven, B-bedrijven, C-bedrijven, E-bedrijven of F-bedrijven of varkenshouderijbedrijven buiten Nederland, al dan niet via een verzamelcentrum.   
+2.  In afwijking van het eerste lid is het toegestaan één of meer varkens aan te voeren van ten hoogste twaalf A-bedrijven, B-bedrijven, C-bedrijven, E-bedrijven of F-bedrijven of varkenshouderijbedrijven buiten Nederland, al dan niet via een verzamelcentrum indien op het D-bedrijf: 
+
+a. in een periode van drie weken voorafgaand aan de dag van aanvoer geen varkens aanwezig waren en de stallen zijn gereinigd en ontsmet.  
+
+b. in een periode van twee maanden voorafgaand aan de dag van aanvoer geen varkens op het D-bedrijf zijn aangevoerd.    
+
+### Artikel  40j  
+
+####Afvoer E-bedrijf
+
+In afwijking van artikel 40a is het vervoer van één of meer varkens vanaf een E-bedrijf toegestaan naar de in artikel 40d, onder a en b, bedoelde bedrijven. 
+
+### Artikel  40k  
+
+####Afvoer F-bedrijf
+
+In afwijking van artikel 40a is het vervoer van één of meer varkens vanaf een F-bedrijf toegestaan naar de in artikel 40f, onder a bedoelde bedrijven. 
+
+### Artikel  40l  
+
+####Melding en toestemming aan- en afvoer
+
+1.  De minister kan op aanvraag van een varkenshouder toestemming verlenen voor het afvoeren van varkens van zijn varkenshouderijbedrijf.   
+2.  De toestemming wordt uiterlijk vijf werkdagen voor de week van het voorgenomen transport aangevraagd en is alleen geldig in de week van het voorgenomen transport.   
+3.  De toestemming wordt door de varkenshouder die de aanvraag heeft gedaan, bewaard tot twee jaren na de datum waarop de varkens van het varkenshouderijbedrijf zijn afgevoerd. De toestemming wordt door de ontvanger van de varkens op het varkenshouderijbedrijf bewaard tot twee jaren na de datum waarop de varkens op het varkenshouderijbedrijf zijn ontvangen.   
+4.  In geval van een uitbraak van een in artikel 2 van deze regeling aangewezen besmettelijke ziekte kan de minister overgaan tot intrekken van de op dat moment reeds uitgegeven toestemmingen.  
+
+### Artikel  40m  
+
+####Weigeren aanvoer
+
+1.  Een varkenshouder weigert de ontvangst van varkens op zijn varkenshouderijbedrijf indien bij de aanvoer de toestemming met betrekking tot deze aanvoer ontbreekt.   
+2.  Een exploitant van een verzamelcentrum weigert de ontvangst van varkens indien de toestemming met betrekking tot deze aanvoer ontbreekt, tenzij uit het vervoersdocument, bedoeld in artikel 30, eerste lid, van de Regeling identificatie en registratie dieren blijkt dat sprake is van vervoer van slachtvarkens.  
+
+### Artikel  40n  
+
+####Bijladen van varkens
+
+1.  Het bijladen van varkens op één vervoermiddel is verboden.   
+2.  Het in het eerste lid bedoelde verbod geldt niet ingeval het betrekking heeft op het bijladen op één vervoermiddel van varkens voor het vervoer naar een slachthuis, rechtstreeks of via een blokperiode voor slachtvarkens op een verzamelcentrum.  
+3. Voor het bijladen geldt dat: 
+
+a. het vervoermiddel waarop de varkens worden bijgeladen, niet op het bedrijf wordt gebracht waarop de bij te laden varkens zich bevinden;  
+
+b. in het betrokken vervoermiddel door middel van een toegankelijk overzicht vanaf het moment van bijladen wordt bijgehouden van welke bedrijven de varkens afkomstig zijn, welk overzicht gedurende zes maanden na de dag waarop het bijladen heeft plaatsgevonden, op het bedrijf of de onderneming van de vervoerder wordt bewaard.  
+4. Op een vervoermiddel bevinden zich per rit naar een slachthuis, onderscheidenlijk verzamelcentrum varkens van ten hoogste twee verschillende bedrijven, niet zijnde verzamelcentra.
+5. Op een vervoermiddel bevinden zich per rit naar een slachthuis, onderscheidenlijk verzamelcentrum zeugen van ten hoogste drie verschillende bedrijven, niet zijnde verzamelcentra. 
+
+### Artikel  40o  
+
+####Retributies
+
+Voor iedere toestemming die wordt aangevraagd, is de varkenshouder van het varkenshouderijbedrijf een retributie verschuldigd aan de minister van: 
+
+a. € 1,90 indien het voorgenomen transport is gemeld door middel van voice-response, I&RVL-online of EDI;  
+
+b. € 3,45 indien het voorgenomen transport is gemeld door middel van een faxbericht.   
+
+### Artikel  40p  
+
+####Overgangsbepalingen
+
+1.  Een aanwijzing, schorsing of intrekking van een aanwijzing, verleend door de voorzitter van het Productschap voor Vee en Vlees wordt geacht te zijn verleend door de minister en blijft van toepassing, totdat de minister een ander besluit neemt.   
+2.  Een door het meldingsbureau van het Productschap voor Vee en Vlees afgegeven transportdocument wordt geacht een toestemming van de minister te zijn.  
 
 ### § 4.4 
 
@@ -1072,6 +1435,10 @@ e. op welke wijze er wordt voldaan aan de voorschriften van Verordening (EG) nr.
 
 ####Monitoring en maatregelen ziekten bij varkens
 
+### §  1  
+
+####Monitoring en maatregelen ziekten bij varkens
+
 ### Artikel  82  
 
 1.  Het is verboden: 
@@ -1086,6 +1453,61 @@ c. een of meer varkens die zich op een varkenshouderijbedrijf bevinden, af te vo
 a. de eigenaar of exploitant van het bedrijf, dan wel diens vertegenwoordiger, dan wel degene die op dat bedrijf een of meer varkens houdt, varkens die verschijnselen van een besmettelijke dierziekte vertonen, behandelt of laat behandelen en binnen 24 uur nadat die behandeling is ingesteld, bloed is afgenomen en is ingestuurd ten behoeve van onderzoek op de aanwezigheid van een besmettelijke dierziekte;  
 
 b. de eigenaar of exploitant van het bedrijf, dan wel diens vertegenwoordiger, dan wel degene die op dat bedrijf een of meer varkens houdt, voor zover op dat bedrijf varkens mogelijk ten gevolge van een besmettelijke dierziekte zijn gestorven, een representatief aantal van die dieren ter sectie heeft ingestuurd ten behoeve van onderzoek op de aanwezigheid van klassieke varkenspest.    
+
+### §  2  
+
+####Monitoring ziekte van Aujeszky
+
+### Artikel  82a  
+
+1.  Een houder van varkens laat iedere viermaandelijkse periode die loopt van januari tot en met april, van mei tot en met augustus en van september tot en met december, ten minste 8 milliliter bloed afnemen bij drie varkens die: 
+
+a. ten minste 25 kg zwaar zijn, of  
+
+b. de zwaarste dieren zijn.     
+2.  Het is toegestaan om het bloed, bedoeld in het eerste lid, af te laten nemen nadat de dieren zijn gedood.   
+3.  Het eerste lid is niet van toepassing, indien het aantal gehouden varkens, uitgezonderd zogende biggen, gedurende de periode, bedoeld in het eerste lid, minder dan 31 bedraagt.  
+
+### Artikel  82b  
+
+1.  De houder van varkens laat het bloed, bedoeld in artikel 82a, eerste lid, in een laboratorium als bedoeld in artikel 2 van de Regeling erkenning en aanwijzing veterinaire laboratoria onderzoeken op de aanwezigheid van antistoffen tegen het Aujeszky-virus of het Aujeszky-vaccin.   
+2.  De monsters worden uiterlijk op de werkdag na de dag dat ze zijn genomen aangeleverd bij het laboratorium, bedoeld in het eerste lid.   
+3.  Bij aanlevering van de monsters worden in ieder geval de volgende gegevens aangegeven: 
+
+a. gegevens ter identificatie van de houder van de dieren, van degene die het monster heeft genomen en van de dieren die zijn bemonsterd;  
+
+b. gegevens omtrent de monsters;  
+
+c. de dagtekening;  
+
+d. de handtekening van de inzender van de monsters.    
+
+### Artikel  82c  
+
+1.  De houder bewaart de uitslag van het onderzoek, bedoeld in artikel 82b, eerste lid, en de gegevens, bedoeld in het derde lid van dat artikel, gedurende twee jaar.   
+2.  De houder registreert de uitslag, bedoeld in het eerste lid, bij de minister.  
+
+### §  4  
+
+####Endemische leukose bij runderen
+
+### Artikel  94*  
+
+In deze paragraaf wordt verstaan onder: 
+
+*rund:* een rund ouder dan 24 maanden. 
+
+### Artikel  94a*  
+
+1.  De eigenaar of exploitant van een slachthuis laat steekproefsgewijs aan de slachtlijn bloedmonsters nemen en staat deze af ten behoeve van de monitoring van endemische leukose bij runderen.   
+2.  Bloedmonsters worden van individuele runderen, ouder dan twee jaar, van niet-melk leverende bedrijven, genomen.   
+3.  Er worden geen monsters samengevoegd van verschillende runderen of bedrijven.   
+4.  Bloedmonsters worden onderzocht in een laboratorium dat daartoe is aangewezen in artikel 20, tweede lid van de Regeling erkenning en aanwijzing veterinaire laboratoria.   
+5.  De eigenaar of exploitant van een slachthuis houdt een administratie bij van de bemonstering.  
+
+### Artikel  94b*  
+
+De houder van runderen staat toe dat steekproefsgewijs een monster van de tankmelk door een daartoe aangewezen laboratorium wordt onderzocht ten behoeve van de monitoring van endemische leukose bij runderen. 
 
 ### Hoofdstuk  2  
 
@@ -1396,77 +1818,412 @@ Van een koppel vleeskuikens of vleeskalkoenen dat wordt verplaatst na 70 dagen n
 2.  Een houder die vermeerderingdieren, leghennen of dieren die worden opgefokt tot vermeerderingsdier of leghen houdt, en deze dieren aan een andere houder overdraagt, doet deze houder een kopie van de vaccinatieverklaringen, bedoeld in artikel 94b, derde lid, en resultaten van het onderzoek, bedoeld in artikel 94e, eerste lid, toekomen.   
 3.  Een houder bewaart het plan van aanpak, bedoeld in artikel 94l, tweede lid, en het herziene plan van aanpak, bedoeld in artikel 94l, vierde lid, gedurende de periode dat er op grond van deze paragraaf verplichtingen tot vaccinatie gelden met betrekking tot de dieren waarop het plan van aanpak, dan wel het herziene plan van aanpak van toepassing is.  
 
+### §  4  
+
+####Monitoring mycoplasmose
+
+### Artikel  94s  
+
+Deze paragraaf is van toepassing op bedrijfsmatig gehouden kippen en kalkoenen. 
+
+### §  4.1  
+
+####Onderzoek
+
+### Artikel  94t  
+
+1.  De houder van kippen of kalkoenen laat door een dierenarts of een dierenartsassistent paraveterinair bij die dieren ten minste 1 milliliter bloed afnemen overeenkomstig artikel 94u.   
+2.  In het geval van tegen Mycoplasma synoviae gevaccineerde kippen en kalkoenen of kippen en kalkoenen afkomstig van een bedrijf waar tegen Mycoplasma synoviae is gevaccineerd, laat de houder van kippen of kalkoenen in aanvulling op het eerste lid door een dierenarts of een dierenartsassistent paraveterinair per stal 24 tracheaswabmonsters nemen.   
+3.  De houder laat, in een laboratorium als bedoeld in artikel 2 van de Regeling erkenning en aanwijzing veterinaire laboratoria, de op grond van het eerste en tweede lid afgenomen monsters: 
+
+a. van kippen of kalkoenen onderzoeken op de aanwezigheid van antistoffen tegen Mycoplasma gallisepticum en Mycoplasma synoviae en de tracheaswabmonsters, bedoeld in het tweede lid, op de aanwezigheid van Mycoplasma synoviae;  
+
+b. van kalkoenen die worden gehouden als vermeerderingsdier, uitgezonderd de bloedmonsters, bedoeld in artikel 94u, vierde lid, onderzoeken op de aanwezigheid van antistoffen tegen Mycoplasma meleagridis.     
+4.  Een op grond van het eerste of tweede lid afgenomen monster wordt uiterlijk op de werkdag na de dag dat het monster is genomen aangeleverd bij het laboratorium, bedoeld in het derde lid.   
+5.  Bij aanlevering van een monster worden in ieder geval de volgende gegevens aangeleverd: 
+
+a. gegevens ter identificatie van de houder van de dieren, de dierenarts of een dierenartsassistent paraveterinair die het monster heeft genomen en de dieren waarbij het monster is genomen;  
+
+b. gegevens omtrent de monsters;  
+
+c. de dagtekening;  
+
+d. de naam en handtekening van de inzender van de monsters.    
+
+### Artikel  94u  
+
+1.  De monsters, bedoeld in artikel 94t, eerste en tweede lid, worden afgenomen bij kippen of kalkoenen die zich verspreid over de stal of de stallen bevinden, waarbij ook kippen of kalkoenen worden meegenomen die vanwege ziekte zijn afgezonderd.   
+2.  De houder van kippen of kalkoenen die worden gehouden als vermeerderingsdier of die daartoe worden opgefokt laat per stal waarin die dieren worden gehouden monsters afnemen bij 1% van het aantal dieren, maar bij ten minste 30 dieren en ten hoogste 60 dieren: 
+
+a. kippen: op een leeftijd van 15 of 16 weken, 20 tot en met 22 weken, 30 weken en vervolgens iedere 12 weken;  
+
+b. kalkoenen: op een leeftijd van 10 weken, 18 weken, 26 weken en vervolgens iedere 12 weken.     
+3.  In afwijking van het tweede lid, onderdeel a, wordt bij kippen die worden gehouden als grootouderdier of die daartoe worden opgefokt monsters afgenomen op een leeftijd van 15 of 16 weken, 20 weken en vervolgens iedere 8 weken.   
+4.  Onverminderd het tweede lid laat de houder van kippen of kalkoenen die worden gehouden als vermeerderingsdier of die daartoe worden opgefokt, met uitzondering van eendagskuikens, monsters afnemen overeenkomstig de aanhef van het tweede lid in de twee weken voorafgaand aan het vervoer naar een ander bedrijf waar kippen of kalkoenen aanwezig zijn.   
+5.  De houder die kippen opfokt die bestemd zijn om te worden gehouden als legkip laat in de drie weken voorafgaand aan de verplaatsing van een koppel kippen naar een ander legkippenbedrijf per stal bij ten minste 24 van die dieren monsters afnemen.   
+6.  De houder van een koppel legkippen laat in de 9 weken voorafgaand aan het moment waarop de dieren worden geslacht per stal bij ten minste tien van die dieren bloed afnemen en bij tegen Mycoplasma gallisepticum gevaccineerde dieren ook ten minste twaalf tracheaswabmonsters.   
+7.  De houder van kalkoenen, laat in de drie weken voorafgaand aan het moment waarop de dieren worden geslacht bij ten minste 24 van die dieren monsters afnemen.  
+
+### §  4.2  
+
+####Maatregelen
+
+### Artikel  94v  
+
+Het is verboden legkippen of dieren die daartoe worden opgefokt, die niet tegen Mycoplasma gallisepticum zijn gevaccineerd, af te voeren van een bedrijf en aan te voeren op een bedrijf, indien er op dat bedrijf nog legkippen aanwezig zijn die gelijktijdig zijn gehouden met al geslachte legkippen waarbij de aanwezigheid van antistoffen tegen Mycoplasma gallisepticum was vastgesteld. 
+
+### §  4.3  
+
+####Administratie
+
+### Artikel  94w  
+
+De houder bewaart de resultaten van het onderzoek, bedoeld in artikel 94t, tweede lid, gedurende een periode van twee jaar. 
+
+### §  5  
+
+####Monitoring niet-zoönotische salmonellose
+
+### Artikel  94x  
+
+Deze paragraaf is van toepassing op bedrijfsmatig gehouden kippen, kalkoenen, parelhoenders, kwartels, fazanten, patrijzen en eenden, die worden gehouden als vermeerderingsdier. 
+
+### §  5.1  
+
+####Onderzoek
+
+### Artikel  94y  
+
+1.  De houder van dieren die behoren tot diersoorten als bedoeld in artikel 94x laat door een dierenarts of een dierenartsassistent paraveterinair bij die dieren ten minste 1 milliliter bloed afnemen overeenkomstig artikel 94z.   
+2.  De houder laat, in een laboratorium als bedoeld in artikel 2 van de Regeling erkenning en aanwijzing veterinaire laboratoria, de bloedmonsters: 
+
+a. van kalkoenen onderzoeken op de aanwezigheid van Salmonella arizonae;  
+
+b. van kippen, kalkoenen, parelhoenders, kwartels, fazanten, patrijzen en eenden onderzoeken op de aanwezigheid van antistoffen tegen Salmonella Gallinarum en Salmonella Pullorum.     
+3.  Het bloed wordt uiterlijk op de werkdag na de dag dat het bloed is afgenomen aangeleverd bij het laboratorium, bedoeld in het tweede lid.   
+4.  Bij aanlevering van het bloed worden in ieder geval de volgende gegevens aangeleverd: 
+
+a. gegevens ter identificatie van de houder van de dieren, de dierenarts of een dierenartsassistent paraveterinair die het bloed heeft afgenomen en de dieren waarbij het bloed is afgenomen;  
+
+b. gegevens omtrent de bloedmonsters;  
+
+c. de dagtekening;  
+
+d. de naam en handtekening van de inzender van de bloedmonsters.    
+
+### Artikel  94z  
+
+1.  Het bloed, bedoeld in artikel 94y, eerste lid, wordt afgenomen bij dieren die zich verspreid over de stal bevinden, waarbij ook dieren worden meegenomen die vanwege ziekte zijn afgezonderd.   
+2.  De houder, bedoeld in artikel 94y, eerste lid, laat per stal aan het begin van de productieperiode, voordat broedeieren worden afgeleverd, bloed afnemen bij 1% van het aantal dieren, maar bij ten minste 30 dieren en ten hoogste 60 dieren.  
+
+### §  5.2  
+
+####Maatregelen
+
+### Artikel  94aa  
+
+Het is verboden kalkoenen af te voeren van een bedrijf en aan te voeren op een bedrijf waar de aanwezigheid van Salmonella arizonae is vastgesteld indien er nog kalkoenen aanwezig zijn die op het moment dat deze besmetting is vastgesteld op dat bedrijf aanwezig waren. 
+
+### §  5.3  
+
+####Administratie
+
+### Artikel  94ab  
+
+De houder bewaart de resultaten van het onderzoek, bedoeld in artikel 94y, tweede lid, gedurende een periode van twee jaar. 
+
 ### Titel  4  
 
-####Zoönosen, TSE’s en ziekte van Aujeszky
+####Zoönosen en TSE’s
 
-###Hoofdstuk 1 
+### Hoofdstuk  1  
 
-####Zoönosen
+####Salmonellose
 
-###§ 1 
+### §  1  
 
-####Monitoring, preventie en bestrijding van zoönosen en zoönoseverwekkers bij dieren
+####Algemeen
 
 ### Artikel  95  
 
-1.  Ter uitvoering van artikel 3a van het Besluit bescherming tegen bepaalde zoönosen en bestrijding besmettelijke dierziekten wordt medewerking gevorderd van het Productschap Pluimvee en Eieren, het Productschap Vee en Vlees, het Productschap Diervoeder en het Productschap Zuivel.   
-2.  De in het eerste lid gevorderde medewerking bestaat uit het stellen van regels ten behoeve van onderzoek naar de aanwezigheid van zoönosen, zoönoseverwekkers, antimicrobiële resistentie bij zoönoseverwekkers en bij andere verwekkers, wanneer deze een gevaar opleveren voor de volksgezondheid, overeenkomstig richtlijn nr. 2003/99/EG;   
-3.  Het Productschap Pluimvee en Eieren, het Productschap Vee en Vlees, het Productschap Diervoeder en het Productschap Zuivel verstrekken de minister de gegevens die zij hebben verzameld in het kader van het tweede lid.   
-4.  Het Productschap Pluimvee en Eieren, het Productschap Vee en Vlees, het Productschap Diervoeder en het Productschap Zuivel kunnen voor de onderzoeken of verrichtingen die de productschappen uitvoeren in het kader van het eerste en tweede lid een vergoeding van kosten heffen.   
-5.  Het Productschap Diervoeder kan in de artikelen 2 en 3 van de Verordening PDV monitoring zoönosen en zoönosenverwekkers diervoedersector 2005 bepalen dat bij overtreding van deze artikelen tuchtrechtelijke maatregelen worden gesteld.   
-6.  Het Productschap Diervoeder kan personen aanwijzen die zijn belast met het toezicht op de naleving van de regels, waarvoor overeenkomstig het vijfde lid, tuchtrechtelijke maatregelen worden gesteld.  
+1.  In dit hoofdstuk wordt verstaan onder: 
+
+a.*Verordening (EG) nr. 1190/2012:* verordening (EU) nr. 1190/2012 van de Commissie van 12 december 2012 tot vaststelling van een doelstelling van de Unie voor het terugdringen van Salmonella enteritidis en Salmonella typhimurium bij koppels kalkoenen, als vastgesteld in Verordening (EG) nr. 2160/2003 van het Europees Parlement en de Raad (PbEU 2012, L 340);
+
+b.*Verordening (EG) nr. 200/2012:* verordening (EU) nr. 200/2012 van de Commissie van 8 maart 2012 tot vaststelling van een doelstelling van de Unie voor het terugdringen van Salmonella enteritidis en Salmonella typhimurium bij koppels slachtkuikens, als vastgesteld in Verordening (EG) nr. 2160/2003 van het Europees Parlement en de Raad (PbEU 2012, L 71);
+
+c.*Verordening (EG) nr. 517/2011:* verordening (EU) nr. 517/2011 van de Commissie van 25 mei 2011 ter uitvoering van Verordening (EG) nr. 2160/2003 van het Europees Parlement en de Raad wat betreft een doelstelling van de Unie voor het verminderen van de prevalentie van bepaalde serotypes van salmonella bij legkippen van Gallus gallus en tot wijziging van Verordening (EG) nr. 2160/2003 en Verordening (EU) nr. 200/2010 van de Commissie (PbEU 2011, L 138);
+
+d.*Verordening (EG) nr. 200/2010:* verordening (EU) nr. 200/2010 van de Commissie van 10 maart 2010 ter uitvoering van Verordening (EG) nr. 2160/2003 van het Europees Parlement en de Raad wat betreft een doelstelling van de Unie voor het verminderen van de prevalentie van serotypen salmonella bij volwassen vermeerderingskoppels van Gallus gallus (PbEU 2010, L 61);
+
+e.*Verordening (EG) nr. 1177/2006:* verordening (EG) nr. 1177/2006 van de Commissie van 1 augustus 2006 ter uitvoering van Verordening (EG) nr. 2160/2003 van het Europees Parlement en de Raad wat betreft voorschriften voor het gebruik van specifieke bestrijdingsmethoden in het kader van de nationale programma’s voor de bestrijding van salmonella bij pluimvee (PbEU 2006, L 212).   
+2.  In dit hoofdstuk wordt onder Salmonella typhimurium mede verstaan: monofasische Salmonella typhimurium met de antigene formule 1, 4, [5], 12:i:-.  
 
 ### Artikel  96  
 
-1.  Ter uitvoering van artikel 3a van het Besluit bescherming tegen bepaalde zoönosen en bestrijding besmettelijke dierziekten wordt medewerking gevorderd van het Productschap Pluimvee en Eieren.   
-2.  De in het eerste lid gevorderde medewerking bestaat uit: 
+De minister is de bevoegde autoriteit, bedoeld in artikel 3, eerste lid, van verordening (EG) nr. 2160/2003. 
 
-a. het stellen van regels met betrekking tot het verrichten van onderzoek ten behoeve van de monitoring van zoönosen, zoönoseverwekkers, antimicrobiële resistentie bij zoönoseverwekkers en bij andere verwekkers, wanneer deze een gevaar opleveren voor de volksgezondheid, ter uitvoering van de door de Commissie van de Europese Gemeenschappen vastgestelde voorschriften ter uitvoering van artikel 4 verordening (EG) nr. 2160/2003;  
+### Artikel  97  
 
-b. het stellen van regels met betrekking tot de uitvoering van het nationale bestrijdingsprogramma zoönosen en zoönoseverwekkers, bedoeld in artikel 5 van verordening (EG) nr. 2160/2003, voorzover het gaat om: 
+Het is verboden te handelen in strijd met: 
 
-1°. hygiënemaatregelen en vervoersbeperkingen op pluimveebedrijven en bedrijven die producten van pluimvee verwerken ter voorkoming van een besmetting met, naar aanleiding van een verdenking van een besmetting met en naar aanleiding van een besmetting met een zoönose of een zoönoseverwekker;  
+a. de artikelen 7, vijfde lid, 9, eerste lid, 10, vierde lid, en 12, en bijlage II, onderdelen B, C en D, van verordening (EG) nr. 2160/2003;  
 
-2°. het doen van onderzoek ten behoeve van de controle op een besmetting met een zoönose of een zoönoseverwekker;  
+b. artikel 2 van verordening (EG) nr. 1177/2006;  
 
-3°. het traceren van de dieren en dierlijke producten die aanwezig zijn of zijn geweest op een pluimveebedrijf en worden verdacht van of zijn besmet met een zoönose of een zoönoseverwekker;  
+c. de bijlage bij verordening (EG) nr. 1190/2012;  
 
-4°. het afvoeren, vernietigen en behandelen van de dieren en dierlijke producten die aanwezig zijn op een pluimveebedrijf en worden verdacht van of zijn besmet met een zoönose of een zoönoseverwekker;  
+d. de bijlage bij verordening (EG) nr. 200/2012;  
 
-5°. het vergoeden van de kosten van het afvoeren, vernietigen en behandelen van de dieren en dierlijke producten, bedoeld onder 4°;  
+e. de bijlage bij verordening (EG) nr. 517/2011;  
 
-6°.het vergoeden van de kosten voor de aankoop van vaccins; 
+f. de bijlage bij verordening (EG) nr. 200/2010.   
 
-7°.het vergoeden van de kosten voor bacteriologische tests;
+### §  2  
 
-8°.het erkennen van laboratoria als bedoeld in artikel 12 van verordening (EG) nr. 2160/2003.  
+####Primaire bedrijven
 
-c. het stellen van regels met betrekking tot de uitvoering van de speciale bestrijdingsmethoden die de Commissie van de Europese Gemeenschappen op basis van artikel 8 van verordening (EG) nr. 2160/2003 voorschrijft;  
+### §  2.1  
 
-d. het verrichten van de noodzakelijke werkzaamheden ter uitvoering en controle van de regels die op grond van de onderdelen a, b en c worden gesteld;  
-
-e.het verrichten of doen verrichten van de bemonstering als bedoeld in artikel 4 van verordening (EG) nr. 2160/2003.   
-3.  Het Productschap Pluimvee en Eieren verstrekt de minister de gegevens die het productschap verzamelt in het kader van het tweede lid.  
-4. Het Productschap Pluimvee en Eieren kan op grond van artikel 23 van de Verordening hygiënemaatregelen en bestrijding zoönosen in pluimveebedrijven en kuikenbroederijen (PPE) 2011, artikel 19 van de Verordening hygiënemaatregelen en bestrijding zoönosen in de kalkoensector (PPE) 2011 en artikel 10 van de Verordening hygiënemaatregelen pluimveeverwerkende industrie (PPE) 2007 bepalen dat tuchtrechtelijke maatregelen worden gesteld bij overtreding van respectievelijk:
-
-(i)de artikelen 2, 3, 4, 5, zesde, achtste, negende en tiende lid, 6, 7, 9, 10, 11, zesde, achtste, negende, tiende en elfde lid, 12, 13, 14, derde, vierde en zesde lid, 15, tweede lid, 17, 18, 19, 21, eerste en tweede lid en 22, tweede lid, van de Verordening hygiënemaatregelen en bestrijding zoönosen in pluimveebedrijven en kuikenbroederijen (PPE) 2011,
-
-(ii)de artikelen 2, 3, 4, 5, zesde, achtste en negende lid, 6, 7, 9, 10, 11, derde, vierde en vijfde lid, 12, tweede lid, 14, 15, 16, 17, eerste en tweede lid, en 18, tweede lid van de Verordening hygiënemaatregelen en bestrijding zoönosen in de kalkoensector (PPE) 2011,
-
-(iii)de artikelen 2, 3, 4, 5, 6, 8, 11 en 12 van de Verordening hygiënemaatregelen en bestrijding zoönosen pluimveeslachterijen en -uitsnijderijen (PPE) 2011. 
-5.  Het Productschap Pluimvee en Eieren kan personen aanwijzen die zijn belast met het toezicht op de naleving van de regels waarvoor, overeenkomstig het vierde lid, tuchtrechtelijke maatregelen worden gesteld.   
-6.  Het Productschap Pluimvee en Eieren kan voor de onderzoeken of verrichtingen die het productschap uitvoert in het kader van het eerste en tweede lid een vergoeding van kosten heffen.  
-
-###Artikel 97 
-
-De termijn, bedoeld in artikel 2, eerste lid, onderdeel b, van het Besluit bescherming tegen bepaalde zoönosen en bestrijding besmettelijke dierziekten bedraagt twee jaar.
+####EU-monitoring
 
 ### Artikel  98  
 
-1.  Artikel 95 en artikel 96 zijn van toepassing vanaf het moment dat de Commissie van de Europese Gemeenschappen overeenkomstig artikel 5 van verordening (EG) nr. 2160/2003 het nationale bestrijdingsprogramma zoönosen en zoönoseverwekkers heeft goedgekeurd.   
-2.  Van de goedkeuring, bedoeld in het eerste lid, doet de minister mededeling in de Staatscourant.   
-3.  Overeenkomstig artikel 15 van richtlijn nr. 2003/99/EG zijn tot het moment van goedkeuring, bedoeld in het eerste lid, de maatregelen van toepassing die zijn vastgesteld en uitgevoerd overeenkomstig richtlijn nr. 92/117/EEG van de Raad van de Europese Gemeenschappen van 17 december 1992 inzake maatregelen voor de bescherming tegen bepaalde zoönoses en bepaalde zoönoseverwekkers bij dieren en in producten van dierlijke oorsprong teneinde door voedsel overgedragen infecties en vergiftigingen te voorkomen (PbEG 1993 L 62).  
+De bemonstering, bedoeld in: 
+
+a. punt 2.1, onderdeel a, onder ii, tweede gedachtestreepje, van de bijlage bij verordening (EU) nr. 1190/2012, vindt plaats op het bedrijf, bedoeld in dat gedachtestreepje;  
+
+b. punt 2.1.1 van de bijlage bij verordening (EU) nr. 200/2010, vindt ten minste driewekelijks plaats op het bedrijf, bedoeld in onderdeel b van dat punt.   
+
+### §  2.2  
+
+####Aanvullende monitoringsvoorschriften
+
+### Artikel  98a  
+
+Deze paragraaf is niet van toepassing, indien de minister op het moment van bemonstering, bedoeld in deze paragraaf, monsters heeft laten nemen en onderzoeken op de aanwezigheid van de relevante serotypen salmonella. 
+
+### Artikel  98b  
+
+1.  De houder van kippen die worden opgefokt tot vermeerderingsdier laat die dieren overeenkomstig artikel 98e bemonsteren: 
+
+a. in de eerste 3 levensdagen;  
+
+b. op een leeftijd van 4 weken, en  
+
+c. 2 weken voor de overgang naar de legfase of verplaatsing naar een bedrijf waar ze als vermeerderingsdier worden gehouden.     
+2.  De houder laat de monsters, bedoeld in het eerste lid, onderzoeken op de aanwezigheid van: 
+
+a. Salmonella enteritidis;  
+
+b. Salmonella typhimurium;  
+
+c. Salmonella hadar;  
+
+d. Salmonella infantis, en  
+
+e. Salmonella virchow.     
+3.  Onverminderd het tweede lid laat de houder de monsters, bedoeld in het eerste lid, van kippen die worden opgefokt tot vermeerderingsdier voor de productie van vleeskuikens onderzoeken op de aanwezigheid van Salmonella java.  
+
+### Artikel  98c  
+
+1.  De houder van kippen die worden opgefokt tot leghen laat die dieren overeenkomstig artikel 98e bemonsteren: 
+
+a. in de eerste 3 levensdagen, en  
+
+b. 2 weken voor de overgang naar de legfase of verplaatsing naar een bedrijf waar ze als leghen worden gehouden.     
+2.  De houder, bedoeld in het eerste lid, laat de monsters onderzoeken op de aanwezigheid van Salmonella enteritidis of Salmonella typhimurium.  
+
+### Artikel  98d  
+
+1.  Onverminderd punt 2.1, onderdeel a, van de bijlage bij verordening (EU) nr. 200/2012 laat de exploitant van een levensmiddelenbedrijf, bedoeld in die verordening, eendagskuikens overeenkomstig artikel 98e bemonsteren bij de plaatsing van die dieren op het bedrijf en onderzoeken overeenkomstig de bijlage bij verordening (EU) nr. 200/2012.   
+2.  Onverminderd punt 2.1 van de bijlage bij verordening (EU) nr. 517/2011 laat de exploitant van een levensmiddelenbedrijf leghennen in de 3 weken voorafgaand aan het moment waarop die dieren worden geslacht overeenkomstig die bijlage bemonsteren en onderzoeken.  
+
+### Artikel  98e  
+
+1.  Bij de aanvoer van eendagskuikens als bedoeld in de artikelen 98b, eerste lid, onderdeel a, 98c, eerste lid, onderdeel a, en 98d, eerste lid, worden per vrachtwagen of aanhanger 40 mestmonsters genomen, waarbij de monsters verspreid over die vrachtwagen of aanhanger worden genomen uit de onderste kratten, containers of dozen.   
+2.  De houder voegt de monsters, bedoeld in het eerste lid, samen tot een verzamelmonster.   
+3.  De houder van kippen als bedoeld in de artikelen 98b, eerste lid, onderdelen b en c, neemt per koppel verspreid over de stal: 
+
+a. 150 monsters van blindedarmmest, dan wel, voor zover dat niet of onvoldoende aanwezig is, mest van de cloaca, en voegt steeds 25 van die monsters samen tot een verzamelmonster, of  
+
+b. 5 monsters overeenkomstig punt 2.2.2.1, onderdeel b, eerste drie alinea’s en onder i, van de bijlage bij verordening (EU) nr. 200/2010.     
+4.  De houder van kippen als bedoeld in artikel 98c, eerste lid, onderdeel b, neemt per koppel verspreid over de stal 2 monsters overeenkomstig punt 2.2.1 van de bijlage bij verordening (EU) nr. 517/2011 en laat die monsters door een laboratorium als bedoeld in artikel 98f, eerste lid, samenvoegen tot een verzamelmonster.  
+
+### Artikel  98f  
+
+1.  De houder, bedoeld in deze paragraaf, laat de monsters onderzoeken in een laboratorium als bedoeld in artikel 2 van de Regeling erkenning en aanwijzing veterinaire laboratoria.   
+2.  De monsters worden uiterlijk op de werkdag na de dag dat ze zijn genomen verzonden aan het laboratorium, bedoeld in het eerste lid.   
+3.  Bij aanlevering van de monsters worden in ieder geval de volgende gegevens aangeleverd: 
+
+a. gegevens ter identificatie van de houder van de dieren, als naam, adres, en UBN, dan wel een door de minister toegekend registratienummer als bedoeld in artikel 3 van de Regeling identificatie en registratie van dieren;  
+
+b. gegevens ter identificatie van degene die het monster heeft genomen en ter identificatie van de dieren die zijn bemonsterd;  
+
+b. gegevens omtrent de monsters;  
+
+c. de dagtekening;  
+
+d. de naam en handtekening van de inzender van de monsters.    
+
+### Artikel  98g  
+
+1.  De exploitant van een levensmiddelenbedrijf, bedoeld in: 
+
+a. de bijlage, punt 2.1, onder a, bij verordening (EU) nr. 200/2012, laat de bemonstering, bedoeld in punt 2 van die bijlage uitvoeren door een dierenarts of een dierenartsassistent paraveterinair;  
+
+b. artikel 98d, tweede lid, laat de bemonstering, bedoeld in dat artikellid, uitvoeren door een dierenarts of een dierenartsassistent paraveterinair.     
+2.  De exploitant van een levensmiddelenbedrijf als bedoeld in het eerste lid, onder a., laat de monsters, bedoeld in het eerste lid, onder a., onderzoeken op de aanwezigheid van: 
+
+a. Salmonella enteritidis;  
+
+b. Salmonella typhimurium;  
+
+c. Salmonella hadar;  
+
+d. Salmonella infantis;  
+
+e. Salmonella virchow, en  
+
+f. Salmonella java.    
+
+### Artikel  98h  
+
+1.  De houder bewaart de uitslag van het onderzoek dat krachtens verordening (EG) nr. 2160/2003 of op grond van deze paragraaf namens de houder is uitgevoerd gedurende twee jaar en registreert die uitslag: 
+
+a. in een databank die op grond van artikel 15b, eerste lid, door de minister is aangewezen als databank voor de registratie van die gegevens, of  
+
+b. bij de minister, voor zover voor de registratie van die gegevens geen aanwijzing als bedoeld in artikel 15b, eerste lid, heeft plaatsgevonden.     
+2.  De houder verstrekt bij de registratie, bedoeld in het eerste lid, in ieder geval de volgende gegevens: 
+
+a. naam, adres en UBN dan wel een door de minister toegekend registratienummer als bedoeld in artikel 3 van de Regeling identificatie en registratie van dieren;  
+
+b. laboratoriumcode, datum, tijdstip en aanduiding van de uitslag;  
+
+c. bedrijfstype, soort monster, datum monstername, gegevens ter identificatie van de monsternemer, stalnummer waar het monster is genomen, geboortedatum en nummer van het betreffende koppel;  
+
+d. datum ontvangst bij het laboratorium van het genomen monster, aanvangsdatum laboratoriumonderzoek, soort onderzoek en uitslag van het onderzoek;  
+
+e. indien van toepassing: serotype en gegevens over afwijking in het monster.     
+3.  Indien blijkt dat gegevens als bedoeld in het eerste en tweede lid, niet juist of volledig zijn verstrekt de houder de gecorrigeerde gegevens.   
+4.  Geconstateerde aanwezigheid van de serotypes enteritidis, typhimurium, hadar, infantis, virchow en java wordt onverwijld door de houder aan de betrokken afnemer doorgegeven.  
+
+### §  2.2*  
+
+####Maatregelen
+
+### Artikel  98i  
+
+Het is de exploitant van een levensmiddelenbedrijf, bedoeld in de bijlage, punt 2.1, bij verordening (EU) nr. 517/2011, verboden om leghennen aan te voeren op een bedrijf waar de aanwezigheid van Salmonella enteritidis is vastgesteld, tenzij die dieren zijn gevaccineerd tegen Salmonella enteritidis. 
+
+### §  3  
+
+####Diervoeders
+
+### §  3.1  
+
+####Monitoring
+
+### Artikel  98j  
+
+In deze paragraaf wordt verstaan onder: basismonster:basismonster als bedoeld in bijlage I, onderdeel 2, bij verordening (EG) nr. 152/2009;eindmonster:eindmonster als bedoeld in bijlage I, onderdeel 2, bij verordening (EG) nr. 152/2009;verzamelmonster:verzamelmonster als bedoeld in bijlage I, onderdeel 2, bij verordening (EG) nr. 152/2009. 
+
+### Artikel  98k  
+
+1. De producent van mengvoeders voor pluimvee bemonstert voedermiddelen bij de aanvoer per productielocatie, indien de jaarproductie van die locatie: 
+
+a. ten hoogste 4.000 ton bedraagt: ten minste eenmaal per kwartaal;  
+
+b. ten hoogste 8.000 ton bedraagt: ten minste tweemaal per kwartaal;  
+
+c. ten hoogste 10.000 ton bedraagt: ten minste driemaal per kwartaal;  
+
+d. ten hoogste 20.000 ton bedraagt: ten minste vijfmaal per kwartaal;  
+
+e. ten hoogste 30.000 ton bedraagt: ten minste achtmaal per kwartaal;  
+
+f. ten hoogste 40.000 ton bedraagt: ten minste tienmaal per kwartaal;  
+
+g. meer dan 40.000 ton bedraagt: ten minste 13 maal per kwartaal.  
+2. Een monster als bedoeld in het eerste lid weegt ten minste 60 gram. 
+
+### Artikel  98l  
+
+1.  De producent van mengvoeders voor pluimvee bemonstert van de af te leveren partijen mengvoer van 24 ton die bestemd zijn voor: 
+
+a. vermeerderingsdieren die worden gehouden als grootouderdier of overgrootouderdier: ten minste 50%;  
+
+b. kippen of kalkoenen die worden opgefokt tot andere vermeerderingsdieren dan bedoeld in onderdeel a: ten minste 20%;  
+
+c. kippen of kalkoenen die worden gehouden als vermeerderingsdier: ten minste 10%;  
+
+d. vleeskuikens, leghennen en dieren die worden opgefokt tot leghen: ten minste 5%;  
+
+e. vleeskalkoenen: ten minste 1 op de 30.     
+2.  De leverancier van voedermiddelen die aan pluimveehouderijen worden geleverd, bemonstert van de af te leveren partijen voedermiddelen van 24 ton ten minste 1 op de 30 partijen.   
+3.  De monsters, bedoeld in het eerste en tweede lid, worden genomen uit de productstroom.   
+4.  Onverminderd het eerste en tweede lid bemonstert de producent van mengvoeders en de leverancier van voedermiddelen voor pluimvee ten minste elke zes maanden op kritische punten in het productieproces of het logistieke proces, bedoeld in artikel 6 van verordening (EG) nr. 183/2005 van het Europees Parlement en de Raad van 12 januari 2005 tot vaststelling van voorschriften voor diervoederhygiëne (PbEU 2005, L 35).   
+5.  Een monster als bedoeld in het eerste tot en met vierde lid weegt ten minste 60 gram.  
+
+### Artikel  98m  
+
+1.  De producent van mengvoeders die bestemd zijn voor ander vee dan pluimvee neemt uit de productstroom per productielocatie waarvan de jaarproductie: 
+
+a. ten hoogste 4.000 ton bedraagt: ten minste twee monsters per kwartaal;  
+
+b. ten hoogste 6.000 ton bedraagt: ten minste drie monsters per kwartaal;  
+
+c. ten hoogste 8.000 ton bedraagt: ten minste vier monsters per kwartaal;  
+
+d. ten hoogste 10.000 ton bedraagt: ten minste vijf monsters per kwartaal;  
+
+e. ten hoogste 20.000 ton bedraagt: ten minste tien monsters per kwartaal;  
+
+f. ten hoogste 30.000 ton bedraagt: ten minste 15 monsters per kwartaal;  
+
+g. ten hoogste 40.000 ton bedraagt: ten minste 20 monsters per kwartaal;  
+
+h. meer dan 40.000 ton bedraagt: ten minste 25 monsters per kwartaal.     
+2.  Ten minste 50% van de monsters, bedoeld in het eerste lid, worden genomen van mengvoeders.   
+3.  Een monster, bedoeld in het eerste lid, weegt ten minste 60 gram.  
+
+### Artikel  98n  
+
+1.  De producent en de leverancier van voedermiddelen die bestemd zijn voor ander vee dan pluimvee nemen per product per toeleverancier een monster van ten minste 60 gram per kwartaal.   
+2.  De producent en de leverancier kunnen ten aanzien van een partij voedermiddelen schriftelijk overeenkomen dat de bemonstering, bedoeld in het eerste lid, door de producent of de leverancier plaatsvindt.   
+3.  Bij seizoensgebonden of incidentele producten start de bemonstering, bedoeld in het eerste lid, bij de eerste lading.   
+4.  Het eerste lid is niet van toepassing, indien: 
+
+a. de zuurtegraad van de voedermiddelen ten hoogste 4,5 pH bedraagt bij spontane melkzuurfermentatie;  
+
+b. de zuurtegraad van de voedermiddelen ten hoogste 4 pH bedraagt, indien organische zuren zijn toegevoegd;  
+
+c. de zuurtegraad van de voedermiddelen ten hoogste 3,5 pH bedraagt, indien anorganische zuren zijn toegevoegd, of  
+
+d. de producent of de leverancier aantoont dat de zuurtegraad voldoende is om salmonella in de voedermiddelen te inactiveren.    
+
+### Artikel  98o  
+
+1.  De producent en de leverancier, bedoeld in deze paragraaf, laten de monsters onderzoeken in een laboratorium.   
+2.  De producent en de leverancier laten monsters waarbij, na onderzoek als bedoeld in het eerste lid, de aanwezigheid van Salmonella is geconstateerd nader onderzoeken op de volgende serotypes: 
+
+a. Salmonella enteritidis;  
+
+b. Salmonella typhimurium;  
+
+c. Salmonella hadar;  
+
+d. Salmonella infantis;  
+
+e. Salmonella virchow, en  
+
+f. Salmonella java.     
+3.  De serotypering van de monsters, bedoeld in het tweede lid, vindt plaats in een laboratorium als bedoeld in artikel 2 van de Regeling erkenning en aanwijzing veterinaire laboratoria.  
+
+### Artikel  98p  
+
+1.  De producent en de leverancier bewaren de uitslag van het onderzoek, bedoeld in artikel 98o, gedurende een periode van twee jaar.   
+2.  Geconstateerde aanwezigheid van de serotypes als bedoeld in artikel 98o, tweede lid, wordt onverwijld door de producent of de leverancier aan de NVWA en de betrokken pluimveehouder doorgegeven.  
 
 ### Hoofdstuk  2  
 
@@ -1478,21 +2235,55 @@ De termijn, bedoeld in artikel 2, eerste lid, onderdeel b, van het Besluit besch
 
 ### Artikel  99  
 
-1. Ter uitvoering van artikel 6 bis en bijlage VII, hoofdstuk C, van verordening (EG) nr. 999/2001 wordt medewerking gevorderd van het Productschap Vee en Vlees.
-2. De in het eerste lid gevorderde medewerking bestaat uit: 
+1.  Als fokprogramma als bedoeld in artikel 6 bis van verordening (EG) nr. 999/2001 worden aangewezen de erkende fokprogramma’s van: 
 
-a.het bij verordening stellen van regels ten aanzien van het fokken van schapen ter voorkoming van overdraagbare spongiforme encefalopathieën, waaronder in elk geval wordt begrepen:
+a. een ingevolge artikel 3, eerste lid, van het Fokkerijbesluit erkende instelling, of  
 
-1°. het stellen van regels ten aanzien van de erkenning van een fokprogramma om te selecteren op resistentie tegen overdraagbare spongiforme encefalopathieën in de schapenpopulatie;  
+b. een groep houders van schapen, verenigd in een organisatie met rechtspersoonlijkheid, die zich in ieder geval ten doel stelt het fokken gericht op het terugdringen van de TSE-gevoeligheid bij schapen en die niet is aangesloten bij een instelling als bedoeld in onderdeel a.     
+2.  De minister verleent op aanvraag een erkenning als bedoeld in de aanhef van het eerste lid, indien het fokprogramma voldoet aan bijlage VII, hoofdstuk C, delen 1 en 2, van verordening (EG) nr. 999/2001 en aan artikel 99a.   
+3.  Een aanvraag als bedoeld in het tweede lid wordt voor 1 juni van het betreffende jaar ingediend, waarbij in ieder geval de volgende gegevens worden vermeld: 
 
-2°.het stellen van regels ten aanzien van de erkenning van de TSE-resistente status van schapen, bedoeld in bijlage VII, hoofdstuk C, deel 4, onder 1, van verordening (EG) nr. 999/2001; 
+a. de naam van de instelling of de organisatie, bedoeld in artikel 99, eerste lid;  
 
-b.het stellen van regels ten aanzien een tegemoetkoming in de kosten van genotypering als bedoeld in bijlage VII, hoofdstuk C, deel 1, onder 5, van verordening (EG) nr. 999/2001;
+b. het aantal schapen dat bij het stamboek is geregistreerd of bij de organisatie is ingeschreven, onderscheiden naar geslacht en ras;  
 
-c.het verrichten van de noodzakelijke werkzaamheden ter uitvoering van de regels die op grond van de onderdelen a en b worden gesteld. 
-3. Het Productschap Vee en Vlees verstrekt de minister de gegevens die het productschap verzamelt in het kader van het tweede lid.
-4. De Minister kan beleidsregels stellen met betrekking tot de in het eerste lid gevorderde medewerking.  
-5.  Het Productschap Vee en Vlees kan voor de verrichtingen die het productschap uitvoert in het kader van het eerste en tweede lid, een vergoeding van kosten heffen. 
+c. het betreffende fokprogramma.    
+
+### Artikel  99a  
+
+Het certificatiesysteem, bedoeld in bijlage VII, hoofdstuk C, deel 1, punt 3, bij verordening (EG) nr. 999/2001, bevat naast de gegevens, bedoeld in hoofdstuk C, deel 1, punt 2, van die bijlage: 
+
+a. de datum van certificering als bedoeld in hoofdstuk C, deel 1, punt 3, van die bijlage;  
+
+b. het laboratorium dat de genotypering, bedoeld in hoofdstuk C, deel 1, punt 5, van die bijlage heeft verricht, indien van toepassing.   
+
+### Artikel  99b  
+
+1.  Aan houders van schapen die deelnemen aan een fokprogramma als bedoeld in artikel 6 bis van verordening (EG) nr. 999/2001 verleent de minister op aanvraag een erkenning als bedoeld in bijlage VII, hoofdstuk C, deel 4, punt 1, onderdeel a of b, bij die verordening, indien is voldaan aan de criteria van dat fokprogramma.   
+2.  Bij een aanvraag als bedoeld in het eerste lid worden in ieder geval gegevens vermeld waaruit blijkt dat: 
+
+a. alle schapen in de kudde het ARR/ARR genotype hebben, indien een erkenning als bedoeld in hoofdstuk C, deel 4, punt 1, onderdeel a, van de bijlage, bedoeld in het eerste lid, wordt aangevraagd;  
+
+b. alle nakomelingen in het jaar voorafgaande aan de aanvraag zijn verwekt door vaderdieren met het ARR/ARR genotype, indien een erkenning als bedoeld in hoofdstuk C, deel 4, punt 1, onderdeel b, van de bijlage, bedoeld in het eerste lid, wordt aangevraagd.    
+
+### Artikel  99c  
+
+Indien niet langer wordt voldaan aan de voorwaarden, bedoeld in artikel 99, tweede lid respectievelijk artikel 99b, eerste lid, trekt de minister een erkenning als bedoeld in die artikelen in. 
+
+### Artikel  99d  
+
+Een instelling en een groep houders van schapen als bedoeld in artikel 99, eerste lid, rapporteren jaarlijks voor 1 februari aan de minister over: 
+
+a. de resultaten van de genotyperingen, waarbij onderscheid wordt gemaakt tussen rammen en ooien, en tussen dieren die de leeftijd van 1 jaar nog niet hebben bereikt en dieren die 1 jaar of ouder zijn;  
+
+b. de resultaten van de steekproeven, bedoeld in bijlage VII, hoofdstuk C, deel 4, punt 2, van verordening (EG) nr. 999/2001;  
+
+c. het aantal houders dat aan het fokprogramma deelneemt.   
+
+### Artikel  99e  
+
+1.  Erkenningen die zijn verleend op grond van de Verordening fokken op terugdringing TSE gevoeligheid bij schapen (PVV) 2008 worden beschouwd als erkenningen als bedoeld in artikel 99, tweede lid, en artikel 99b, eerste lid, van deze regeling.   
+2.  De op het tijdstip van inwerkingtreding van dit artikel aanhangige aanvragen worden vanaf dat tijdstip overeenkomstig deze regeling behandeld door de minister, met inachtneming van de termijn die op dat tijdstip is verstreken sinds het tijdstip van indiening van de aanvraag.  
 
 ### §  2  
 
@@ -1506,39 +2297,7 @@ Het is verboden in strijd te handelen met artikel 9, eerste lid, tweede lid, van
 
 ####Ziekte van Aujeszky
 
-### Artikel  101a  
-
-1.  Ter uitvoering van de artikelen 17, 21, 22, 24, 29, 30, 31b, 106 en 107 van de wet wordt medewerking gevorderd van het Productschap Vee en Vlees.   
-2.  De in het eerste lid bedoelde medewerking bestaat uit het stellen van regels met betrekking tot de preventie, monitoring en bestrijding van de ziekte van Aujeszky, welke regels onder meer kunnen betreffen: 
-
-a. het houden van varkens die besmet zijn met de ziekte van Aujeszky, hiervan verdacht zijn of gevaccineerd zijn tegen de ziekte van Aujeszky;  
-
-b. het monitoren en uitvoeren van onderzoeken op het bedrijf of de locatie waar varkens gehouden worden naar de aanwezigheid van een besmetting met de ziekte van Aujeszky, waaronder klinische inspecties ter plaatse en het nemen van bloedmonsters of keelswabs van varkens en de aanlevering daarvan aan laboratoria ten behoeve van onderzoek op de aanwezigheid van de ziekte van Aujeszky;  
-
-c. de ten aanzien van de in onderdeel b bedoelde bloedmonsters en keelswabs te verrichten onderzoeken ten behoeve van de constatering van een besmetting met de ziekte van Aujeszky;  
-
-d. vaccinatie van varkens tegen de ziekte van Aujeszky;  
-
-e. de aanvoer naar, onderscheidenlijk de afvoer van varkens van bedrijven en de bestemming na afvoer van die dieren, ingeval van een besmetting met de ziekte van Aujeszky in Nederland of een buurland of een redelijke verdenking daarvan bestaat;  
-
-f. de adequate preventie en bestrijding van de ziekte van Aujeszky, waaronder in ieder geval: 
-
-(i) het vervoer van al dan niet gevaccineerde varkens en de producten daarvan, ingeval van een besmetting met de ziekte van Aujeszky in Nederland of een buurland of een redelijke verdenking daarvan bestaat;  
-
-(ii) de opslag van mest van de varkens, ingeval in Nederland of een buurland een besmetting met de ziekte van Aujeszky is geconstateerd of een redelijke verdenking daarvan bestaat;  
-
-(iii) de reiniging en ontsmetting van stallen, terreinen en transportmiddelen bestemd voor varkens en de producten daarvan, ingeval in Nederland een besmetting met de ziekte van Aujeszky is geconstateerd of een redelijke verdenking daarvan bestaat;    
-
-g. het verlenen van vrijstellingen en ontheffingen.     
-3.  De in het eerste lid bedoelde medewerking bestaat voorts uit het doen toepassen van bestuursdwang of het doen opleggen van een last onder dwangsom ter handhaving van de in het tweede lid bedoelde regels.  
-
-### Artikel  101b  
-
-1.  Het Productschap Vee en Vlees verstrekt de minister de gegevens die het productschap verzamelt in het kader van het tweede lid van artikel 101a.   
-2.  Het Productschap Vee en Vlees kan bepalen dat bij overtreding van het bij of krachtens artikel 3 van de Verordening bestrijding ziekte van Aujeszky bij varkens (PVV) 2008 tuchtrechtelijke maatregelen worden toegepast.   
-3.  Het Productschap Vee en Vlees kan personen aanwijzen die zijn belast met het toezicht op de naleving van de regels waarvoor, overeenkomstig het tweede lid, tuchtrechtelijke maatregelen worden gesteld.   
-4.  Het Productschap Vee en Vlees kan voor de onderzoeken of verrichtingen die het productschap uitvoert in het kader van artikel 101a, tweede lid, een vergoeding van kosten heffen.   
-5.  Indien het Productschap Vee en Vlees bij verordening regels stelt als bedoeld in artikel 101a, tweede lid, kan bij die verordening de bevoegdheid tot het stellen van dergelijke regels worden overgedragen aan een ander orgaan van het Productschap Vee en Vlees.  
+Vervallen per 01-01-2015 
 
 ###Titel 5 
 
@@ -1614,7 +2373,7 @@ b. ontsmettingsmiddelen die voor dat doel zijn toegelaten op grond van de Wet ge
 
 c. andere door de minister vast te stellen ontsmettingsmiddelen.   
 
-###§ 4 
+### §  4  
 
 ####Overige bepalingen
 
@@ -1627,6 +2386,26 @@ De minister beslist in elk bijzonder geval op welke wijze het onschadelijk maken
 1. Na afloop van de reiniging vindt controle plaats door de ambtenaar, bedoeld in artikel 114, tweede lid, van de wet.
 2. Het onschadelijk maken, het vernietigen en de ontsmetting geschieden onder leiding en toezicht van de in eerste lid bedoelde persoon.
 3. De reiniging en ontsmetting wordt door de ambtenaar geregistreerd.
+
+### Artikel  110a  
+
+1.  Zodra een gebouw of terrein door het plaatsen van een kenteken, ingevolge artikel 22, eerste lid, van de wet, besmet of van besmetting verdacht is verklaard met klassieke varkenspest, mond- en klauwzeer, aviaire influenza, ziekte van Newcastle, Afrikaanse paardepest, of de in bijlage I van richtlijn nr. 92/119/EEG genoemde dierziekten, legt de houder van de zieke of verdachte dieren per voor de ziekte vatbare diersoort schriftelijk vast: 
+
+a. het aantal dieren;  
+
+b. het aantal gestorven dieren, en  
+
+c. het aantal dieren dat verschijnselen van een besmettelijke dierziekte vertoont.     
+2.  De gegevens van de telling dienen, totdat het kenteken is verwijderd, na een mutatie in de gegevens, bedoeld in het eerste lid, zo spoedig mogelijk te worden bijgewerkt.  
+
+### Artikel  110b  
+
+1.  Indien de houder van een dier vermoedt dat het dier door aviaire influenza, de ziekte van Newcastle, Afrikaanse paardepest, of de in bijlage I van richtlijn nr. 92/119/EEG genoemde dierziekten is aangetast: 
+
+a. treft hij, tot de minister de nodig geachte maatregelen neemt, dienstige maatregelen als bedoeld in artikel 22, eerste lid, onderdelen a, b en i van de wet;  
+
+b. draagt hij ervoor zorg dat het dier zijn verblijfplaats niet verlaat;     
+2.  Op de houder, bedoeld in het eerste lid, zijn de artikelen 25, eerste lid, en 26, eerste lid, van de wet en artikel 110a van overeenkomstige toepassing.  
 
 ###Artikel 111 
 
@@ -1770,26 +2549,6 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 De 
 Minister van Landbouw, Natuur en Voedselkwaliteit, 
 C.P.Veerman 
-
-###Bijlage 1 
-
-####Verschijnselen van de ziekte van Aujeszky als bedoeld in artikel 12, eerste lid, onderdeel a , en de waarden, bedoeld in artikel 12, eerste lid, onderdeel b 
-
-Van verschijnselen van de ziekte van Aujeszky, bedoeld in artikel 12, eerste lid, onderdeel a, is sprake indien:
-
-a.zeugen koortsig zijn, geen voer opnemen en abortus vertonen;
-
-b.zuigende biggen koortsig zijn, speekselen en fietsbewegingen maken ten gevolge van de aantasting van het centrale zenuwstelsel, waarna meerdere biggen sterven;
-
-c.vleesvarkens koortsig zijn, geen voer opnemen en hoesten, of
-
-d.een of meer dieren, anders dan varkens, sterven na hoge koorts en hevige jeuk.De waarden, bedoeld in artikel 12, eerste lid, onderdeel b:
-
-a.3% van het aantal gemiddeld in de bedoelde periode aanwezige zeugen of beren;
-
-b.20% van het aantal levend geboren biggen in de zoogperiode, of
-
-c.5% van het aantal overige varkens.
 
 ### Bijlage 6 
 
@@ -1938,4 +2697,47 @@ f. bij de in- en uitgangen van gebouwen, lokalen of plaatsen waar de voor de zie
 4. Het ontsmetten van kweekvijvers geschiedt, nadat water, vis, eieren en gameten zijn verwijderd, overeenkomstig de aanwijzingen van de ambtenaar, bedoeld in artikel 114, tweede lid, van de wet.  
 
 5. Voor het overige vindt de reiniging en ontsmetting, ter beoordeling van de ambtenaar, bedoeld in artikel 114, tweede lid, van de wet plaats conform het draaiboek ter bestrijding van de betreffende dierziekte. Het draaiboek ligt ter inzage bij het Ministerie van Economische Zaken en bij de NVWA.   
+
+### Bijlage 24 
+
+####Eisen aan een toevoegstal als bedoeld in artikel 29b, tweede lid, onderdeel b 
+
+A)*inrichtingseisen:*
+
+* de toevoegstal staat vrij of is inpandig;  
+
+* de toevoegstal ligt aan de rand van het bedrijf;  
+
+* de inpandige toevoegstal heeft dichte muren en plafonds, met uitzondering van ventilatiekanalen en een deur naar buiten en heeft geen inpandige doorgang naar andere delen van het pand;  
+
+* de toevoegstal heeft kelders die niet in verbinding staan met de overige kelders van het bedrijf en een afzonderlijk (mechanisch) ventilatiesysteem voorzien van filterdoek voor het wegvangen van grove stofdelen in uitgaande lucht;  
+
+* het materiaal en gereedschap dat in de toevoegstal wordt gebruikt, wordt niet elders in het bedrijf gebruikt;  
+
+* de toevoegstal heeft een eigen omkleedruimte, die ruimtelijk gescheiden is van de centrale gang en afdelingen met varkens;  
+
+* de omkleedruimte is voorzien van een wasbak, laarzensets en overalls.  
+
+B)*managementeisen:* 
+
+* de behandelingen, de gegevens betreffende identificatie en registratie, de gegevens betreffende het vervoer en de gegevens van het serologisch onderzoek van in de toevoegstal gehuisveste varkens worden geregistreerd in een van de overige bedrijfsgegevens te onderscheiden administratie (logboek);  
+
+* iedere verplaatsing van één of meer varkens uit of naar de toevoegstal wordt afzonderlijk geregistreerd, waarbij wordt vastgelegd op welk tijdstip welk varken wordt verplaatst;  
+
+* in de toevoegstal wordt strikt volgens het all-in all out principe gewerkt, d.w.z. na elke ronde wordt de stal gereinigd en ontsmet;  
+
+* een ieder die de toevoegstal betreedt, trekt vooraf in de omkleedruimte een daar aanwezige schone overall aan;  
+
+* indien een varken gedurende het verblijf in de toevoegstal overlijdt, biedt de varkenshouder het varken overeenkomstig verordening (EG) nr. 854/2004 van het Europees Parlement en de Raad van 29 april 2004 houdende vaststelling van specifieke voorschriften voor de organisatie van officiële controles van voor menselijke consumptie bestemde producten van dierlijke oorsprong (PbEU L 139 en L 226) aan voor sectie om te worden onderzocht op aangewezen besmettelijke dierziekten.  
+
+### Bijlage 25 
+
+####Monsterprocedure varkens als bedoeld in artikel 29b, vierde lid 
+
+| Aantal varkens in de toevoegstal onderscheidenlijk aantal op het A-bedrijf of C-bedrijf aanwezige varkens van ten minste 25 kg, of de zwaarste dieren die aanwezig zijn op een E-bedrijf:  | Aantal daarvan te onderzoeken varkens  |
+|:---|:---|
+| 31 of meer  | 12  |
+| 11 tot en met 30  | 9  |
+| 7 tot en met 10  | 7  |
+| 1 tot en met 6  | alle  |
 

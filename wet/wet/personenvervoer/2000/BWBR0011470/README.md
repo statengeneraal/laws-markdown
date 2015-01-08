@@ -794,7 +794,7 @@ b. voldoet aan de in onderdeel 5 van de bijlage bij verordening (EG) 1370/2007 g
 
 a. die op grond van de artikelen 3 of 19, tweede lid, openbaar vervoer verricht op een andere grondslag dan op grond van een concessie;  
 
-b. die vervoerder verricht waarop bij algemene maatregel van bestuur als bedoeld in artikel 2, tweede of vierde lid, dit artikel of leden daarvan, van toepassing is verklaard, zonder dat voor het in de onderdelen a of b bedoelde vervoer een aanbesteding is gehouden en waarbij voor dat vervoer een subsidie als bedoeld in artikel 22, eerste lid, is verstrekt.    
+b. die vervoer verricht waarop bij algemene maatregel van bestuur als bedoeld in artikel 2, tweede of vierde lid, dit artikel of leden daarvan, van toepassing is verklaard, zonder dat voor het in onderdeel a bedoelde vervoer een aanbesteding is gehouden en waarbij voor dat vervoer een subsidie als bedoeld in artikel 22, eerste lid, is verstrekt.    
 
 ### §  5  
 
@@ -833,7 +833,7 @@ c. een schatting van de kosten die met de concessieverlening zijn gemoeid en van
 
 d. een beschrijving van de te volgen procedure van concessieverlening; en  
 
-e. of Onze Minister voornemens is artikel 69b, tweede lid, toe te passen.     
+e. of Onze Minister voornemens is artikel 65, derde lid, toe te passen.     
 3.  Voordat Onze Minister het beleidsvoornemen vaststelt, legt hij dit voornemen ter advisering voor aan de in artikel 27 bedoelde consumentenorganisaties. Artikel 27 is van overeenkomstige toepassing.   
 4.  Onze Minister legt het vastgestelde beleidsvoornemen voor aan de Tweede Kamer der Staten-Generaal. Indien binnen 30 dagen na deze voorlegging ten minste 30 leden te kennen geven nadere inlichtingen te willen ontvangen over de voorgenomen concessieverlening, zal de aanvang van procedure tot concessieverlening niet eerder plaatsvinden dan dat veertien dagen zijn verstreken na het verstrekken van die inlichtingen.   
 5.  Indien binnen 30 dagen na de voorlegging of binnen 14 dagen na de verstrekking van de inlichtingen, bedoeld in het vierde lid, de Kamer als haar oordeel uitspreekt dat de concessieverlening machtiging bij wet behoeft, wordt de concessie eerst verleend nadat die machtiging is verleend.  
@@ -846,8 +846,8 @@ e. of Onze Minister voornemens is artikel 69b, tweede lid, toe te passen.
 ### Artikel  67  
 
 1.  Dit artikel is van toepassing op de verlening van de eerste concessie voor het hoofdrailnet na de inwerkingtreding van de Concessiewet personenvervoer per trein.   
-2.  Onze Minister verleent de in het eerste lid bedoelde concessie aan de N.V. Nederlandse Spoorwegen of aan een bij koninklijk besluit te bepalen onderdeel van de N.V. Nederlandse Spoorwegen zonder dat daartoe de procedure van de paragrafen 1 tot en met 3 van dit hoofdstuk of artikel 69c wordt toegepast. Deze concessie vangt aan op een bij koninklijk besluit te bepalen datum en eindigt op 1 januari 2015.   
-3.  Onze Minister kan van het tweede lid afwijken; alsdan wordt artikel 69c toegepast.  
+2.  Onze Minister verleent de in het eerste lid bedoelde concessie aan de N.V. Nederlandse Spoorwegen of aan een bij koninklijk besluit te bepalen onderdeel van de N.V. Nederlandse Spoorwegen zonder dat daartoe de procedure van de paragrafen 1 tot en met 3 van dit hoofdstuk of artikel 66 wordt toegepast. Deze concessie vangt aan op een bij koninklijk besluit te bepalen datum en eindigt op 1 januari 2015.   
+3.  Onze Minister kan van het tweede lid afwijken; alsdan wordt artikel 66 toegepast.  
 
 ###§ 6 
 
@@ -1151,9 +1151,9 @@ c. de bij besluit van het college van burgemeester en wethouders van de desbetre
 2.  Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet, van verordening 1071/2009/EG en van verordening 1073/2009/EG zijn voorts belast de in artikel 141 van het Wetboek van Strafvordering bedoelde ambtenaren en de met betrekking tot deze wet krachtens artikel 17, eerste lid, onder 2°, van de Wet op de economische delicten aangewezen ambtenaren.   
 3.  Onverminderd het bepaalde in het eerste en tweede lid zijn met het toezicht op de naleving van het bij of krachtens de artikelen 70 tot en met 74 bepaalde mede belast personen die daartoe door de vervoerder zijn aangewezen.   
 4.  Met het toezicht op de naleving van het bepaalde bij verordening 1371/2007/EG zijn de bij besluit van Onze Minister aangewezen personen belast.  
-5.  Met het toezicht op de naleving van het bepaalde bij of krachtens artikel 63c, vierde, zesde tot en met tiende lid en elfde lid, onderdeel b, voor zover artikel 87, vierde lid, op dat vervoer bij algemene maatregel van bestuur als bedoeld in artikel 2, tweede of vierde lid, van toepassing is verklaard is de Autoriteit Consument en Markt belast.   
+5.  Met het toezicht op de naleving van het bepaalde bij of krachtens artikel 63c, vierde, zesde tot en met tiende lid en elfde lid, onderdeel b, voor zover artikel 87, vijfde lid, op dat vervoer bij algemene maatregel van bestuur als bedoeld in artikel 2, tweede of vierde lid, van toepassing is verklaard is de Autoriteit Consument en Markt belast.   
 6.  Met het toezicht op de naleving van verordening (EU) nr. 181/2011 zijn belast de bij besluit van Onze Minister aangewezen personen.  
-7.  Van een besluit als bedoeld in het eerste, vierde, vijfde of zesde lid, wordt mededeling gedaan in de Staatscourant.  
+7.  Van een besluit als bedoeld in het eerste, vierde of zesde lid, wordt mededeling gedaan in de Staatscourant.  
 
 ### Artikel  88  
 
@@ -1185,12 +1185,11 @@ De reiziger die de leeftijd van veertien jaar nog niet heeft bereikt, is verplic
 ### Artikel  93  
 
 1.  Onze Minister is de handhavende instantie, bedoeld in de artikelen 30 van verordening 1371/2007/EG en 28, eerste lid, van verordening (EU) nr. 181/2011.   
-2.  Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van verordening 1371/2007/EG, verordening 1071/2009/EG, verordening 1073/2009/EG, verordening (EU) nr. 181/2011 en van de bij of krachtens deze wet gestelde verplichtingen.   
-3.  De Autoriteit Consument en Markt is bevoegd tot het opleggen van een last onder dwangsom ter handhaving van artikel 19a, vierde lid. 
+2.  Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van verordening 1371/2007/EG, verordening 1071/2009/EG, verordening 1073/2009/EG, verordening (EU) nr. 181/2011 en van de bij of krachtens deze wet gestelde verplichtingen.  
 
 ### Artikel  93a  
 
-Het dagelijks bestuur van een openbaar lichaam als bedoeld in artikel 20, derde en vierde lid, is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de verplichtingen gesteld bij of krachtens de artikelen 19, eerste en tweede lid, 29, 32, 34, 39, 46 en 63c, eerste, tweede en derde lid, met uitzondering van openbaar vervoer per trein waarvoor op grond van deze wet Onze Minister het bevoegde bestuursorgaan is, en elfde lid, voor zover de bevoegdheid tot handhaving niet op grond van artikel 94, eerste lid, aan de Autoriteit Consument en Markt is toegekend. 
+Het dagelijks bestuur van een openbaar lichaam als bedoeld in artikel 20, derde en vierde lid, is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de verplichtingen gesteld bij of krachtens de artikelen 19, eerste en tweede lid, 29, 32, 34, 39, 46 en 63c, eerste, tweede en derde lid, met uitzondering van openbaar vervoer per trein waarvoor op grond van deze wet Onze Minister het bevoegde bestuursorgaan is, en elfde lid, voor zover de bevoegdheid tot handhaving niet op grond van artikel 94 aan de Autoriteit Consument en Markt is toegekend. 
 
 ### Artikel  94  
 

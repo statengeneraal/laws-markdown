@@ -719,30 +719,30 @@ b. zendt het in bij algemene maatregel van bestuur aangewezen categorieën geval
 
 ### §  3.5  
 
-####Coördinatie met de voorbereiding van beschikkingen krachtens artikel 6.2 van de Waterwet
+####Coördinatie met de voorbereiding van watervergunningen
 
 ### Artikel  3.16  
 
-In gevallen waarin een omgevingsvergunning of een wijziging van voorschriften van een omgevingsvergunning wordt aangevraagd op de voorbereiding waarvan afdeling 3.4 van de Algemene wet bestuursrecht van toepassing is en die betrekking heeft op een activiteit als bedoeld in artikel 2.1, eerste lid, onder e, met betrekking tot een inrichting waartoe een IPPC-installatie behoort, waarbij sprake is van het lozen van stoffen als bedoeld in artikel 6.1 van de Waterwet, worden, indien daarvoor krachtens artikel 6.2 van die wet een vergunning vereist is op de voorbereiding waarvan afdeling 3.4 van de Algemene wet bestuursrecht van toepassing is, bij de toepassing van deze wet de bepalingen van deze paragraaf in acht genomen.
+In gevallen waarin een omgevingsvergunning of een wijziging van voorschriften van een omgevingsvergunning wordt aangevraagd op de voorbereiding waarvan afdeling 3.4 van de Algemene wet bestuursrecht van toepassing is en die betrekking heeft op een activiteit als bedoeld in artikel 2.1, eerste lid, onder e, met betrekking tot een inrichting waartoe een IPPC-installatie behoort, waarbij sprake is van een handeling waarvoor een watervergunning als bedoeld in artikel 6.27, eerste lid, van de Waterwet vereist is, worden, indien op de voorbereiding van die watervergunning afdeling 3.4 van de Algemene wet bestuursrecht van toepassing is, bij de toepassing van deze wet de bepalingen van deze paragraaf in acht genomen.
 
 ### Artikel  3.17  
 
-Indien in de vergunning krachtens de Waterwet een bepaling wordt opgenomen als bedoeld in artikel 2.23 over de termijn waarvoor zij geldt, kan een gelijke bepaling worden opgenomen in de omgevingsvergunning. 
+Indien in de watervergunning een bepaling wordt opgenomen als bedoeld in artikel 2.23 over de termijn waarvoor zij geldt, kan een gelijke bepaling worden opgenomen in de omgevingsvergunning. 
 
 ### Artikel  3.18  
 
-1.  De aanvraag om een omgevingsvergunning of wijziging van voorschriften van een omgevingsvergunning overeenkomstig artikel 2.31 wordt tegelijk ingediend met de aanvraag om verlening of wijziging van de vergunning krachtens artikel 6.2 van de Waterwet.   
-2.  Indien de aanvraag om verlening of wijziging van de vergunning krachtens artikel 6.2 van de Waterwet niet is ingediend binnen zes weken na het tijdstip waarop de aanvraag om de omgevingsvergunning of wijziging van voorschriften van de omgevingsvergunning is ingediend, wordt de aanvraag om de omgevingsvergunning buiten behandeling gelaten.   
-3.  Indien de aanvraag om verlening of wijziging van de vergunning krachtens artikel 6.2 van de Waterwet buiten behandeling wordt gelaten, wordt de aanvraag om de omgevingsvergunning eveneens buiten behandeling gelaten.  
+1.  De aanvraag om een omgevingsvergunning of wijziging van voorschriften van een omgevingsvergunning overeenkomstig artikel 2.31 wordt tegelijk ingediend met de aanvraag om verlening of wijziging van de watervergunning.   
+2.  Indien de aanvraag om verlening of wijziging van de watervergunning niet is ingediend binnen zes weken na het tijdstip waarop de aanvraag om de omgevingsvergunning of wijziging van voorschriften van de omgevingsvergunning is ingediend, wordt de aanvraag om de omgevingsvergunning buiten behandeling gelaten.   
+3.  Indien de aanvraag om verlening of wijziging van de watervergunning buiten behandeling wordt gelaten, wordt de aanvraag om de omgevingsvergunning eveneens buiten behandeling gelaten.  
 
 ### Artikel  3.19  
 
-1.  Het bestuursorgaan dat tot verlening van de vergunning krachtens artikel 6.2 van de Waterwet bevoegd is, brengt een advies uit met het oog op de samenhang tussen de beschikkingen op de onderscheidene aanvragen. Het advies wordt uitgebracht binnen acht weken na ontvangst van de aanvraag om de omgevingsvergunning of wijziging van voorschriften van de omgevingsvergunning. Artikel 3.11, derde lid, tweede en derde volzin is van overeenkomstige toepassing.   
-2.  Het orgaan dat tot verlening van de vergunning krachtens artikel 6.2 van de Waterwet bevoegd is, wordt voorts in de gelegenheid gesteld advies uit te brengen over het ontwerp van de beschikking op de aanvraag om de omgevingsvergunning of wijziging van voorschriften van de omgevingsvergunning.  
+1.  Het bestuursorgaan dat tot verlening van de watervergunning bevoegd is, brengt een advies uit met het oog op de samenhang tussen de beschikkingen op de onderscheidene aanvragen. Het advies wordt uitgebracht binnen acht weken na ontvangst van de aanvraag om de omgevingsvergunning of wijziging van voorschriften van de omgevingsvergunning. Artikel 3.11, derde lid, tweede en derde volzin is van overeenkomstige toepassing.   
+2.  Het orgaan dat tot verlening van de watervergunning bevoegd is, wordt voorts in de gelegenheid gesteld advies uit te brengen over het ontwerp van de beschikking op de aanvraag om de omgevingsvergunning of wijziging van voorschriften van de omgevingsvergunning.  
 
 ### Artikel  3.20  
 
-1.  Indien burgemeester en wethouders bevoegd zijn de beschikking op de aanvraag om de omgevingsvergunning of wijziging van voorschriften van de omgevingsvergunning te verlenen, kunnen gedeputeerde staten, indien dat met het oog op de samenhang tussen de beschikkingen op de onderscheidene aanvragen in het belang van de bescherming van het milieu geboden is, en zo nodig in afwijking van regels, gesteld krachtens artikel 1.3c van de Wet milieubeheer, op een daartoe strekkend verzoek van het orgaan dat bevoegd is de vergunning krachtens artikel 6.2 van de Waterwet te verlenen, aan burgemeester en wethouders een aanwijzing geven ter zake van de inhoud van die beschikking.   
+1.  Indien burgemeester en wethouders bevoegd zijn de beschikking op de aanvraag om de omgevingsvergunning of wijziging van voorschriften van de omgevingsvergunning te verlenen, kunnen gedeputeerde staten, indien dat met het oog op de samenhang tussen de beschikkingen op de onderscheidene aanvragen in het belang van de bescherming van het milieu geboden is, en zo nodig in afwijking van regels, gesteld krachtens artikel 1.3c van de Wet milieubeheer, op een daartoe strekkend verzoek van het orgaan dat bevoegd is de watervergunning te verlenen, aan burgemeester en wethouders een aanwijzing geven ter zake van de inhoud van die beschikking.   
 2.  Een aanwijzing wordt gegeven binnen acht weken na de dag waarop het ontwerp van de beschikking op de aanvraag overeenkomstig artikel 3:11, eerste lid, van de Algemene wet bestuursrecht ter inzage is gelegd. Zij wordt niet gegeven dan na overleg met het bevoegd gezag.   
 3.  De aanwijzing wordt vermeld in de beschikking van het bevoegd gezag, ter zake waarvan zij is gegeven. Een exemplaar ervan wordt gevoegd bij ieder exemplaar van die beschikking.  
 
@@ -756,7 +756,7 @@ Ten aanzien van een wijziging van voorschriften van een omgevingsvergunning ande
 
 ### Artikel  3.23  
 
-Het bevoegd gezag kan een omgevingsvergunning geheel of gedeeltelijk intrekken, indien de krachtens artikel 6.2 van de Waterwet verleende vergunning geheel of gedeeltelijk wordt ingetrokken. 
+Het bevoegd gezag kan een omgevingsvergunning geheel of gedeeltelijk intrekken, indien de watervergunning geheel of gedeeltelijk wordt ingetrokken. 
 
 ### Hoofdstuk  4  
 
@@ -1102,7 +1102,7 @@ c. het bouwen de uitvoering van de sanering niet belemmert, mits degene die het 
 
 ### Artikel  6.4  
 
-Indien in een geval als bedoeld in artikel 3.16 beroep is ingesteld tegen een beschikking op de aanvraag om een vergunning als bedoeld in artikel 6.2 van de Waterwet en krachtens artikel 2.1 of 2.2 een daarmee samenhangende beschikking is gegeven met betrekking tot een omgevingsvergunning, heeft het beroep, voor zover het die samenhang betreft, ook betrekking op de laatstbedoelde beschikking. 
+Indien in een geval als bedoeld in artikel 3.16 beroep is ingesteld tegen een beschikking op de aanvraag om een watervergunning en krachtens artikel 2.1 of 2.2 een daarmee samenhangende beschikking is gegeven met betrekking tot een omgevingsvergunning, heeft het beroep, voor zover het die samenhang betreft, ook betrekking op de laatstbedoelde beschikking. 
 
 ### Artikel  6.5  
 

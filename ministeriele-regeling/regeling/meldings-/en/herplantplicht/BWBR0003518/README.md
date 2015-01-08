@@ -3,20 +3,20 @@
 ##Regeling meldings- en herplantplicht
 
 De Minister van Landbouw en Visserij,  
-Gelet op [artikel 6, eerste lid, van de Boswet](../../../../../../wet/boswet/BWBR0002357/README.md) (Stb. 1961, 256);
+Gelet op artikel 6, eerste lid, van de Boswet (Stb. 1961, 256);
 
 Gehoord het Bosschap, de Boshouwvoorlichtingstaad en de Vereniging van Nederlandse Gemeenten,
 Besluit:    
 
 ### Artikel  1  
 
-Deze regeling verstaat onder: ‘wet’: [Boswet](../../../../../../wet/boswet/BWBR0002357/README.md) (Stb. 1961, 256);‘minister’: Minister van Landbouw, Natuurbeheer en Visserij 
+Deze regeling verstaat onder: ‘wet’: Boswet (Stb. 1961, 256);‘minister’: Minister van Landbouw, Natuurbeheer en Visserij 
 
 ### Artikel  2  
 
-Voor bos dat na inwerkingtreding van deze regeling is aangelegd, wordt vrijstelling van het bepaalde bij of krachtens de [artikelen 2](../../../../../../wet/boswet/BWBR0002357/README.md) en [3 van de wet](../../../../../../wet/boswet/BWBR0002357/README.md) verleend indien 
+Voor bos dat na inwerkingtreding van deze regeling is aangelegd, wordt vrijstelling van het bepaalde bij of krachtens de artikelen 2 en 3 van de wet verleend indien 
 
-het bos met ter voldoening aan de verplichting tot herbeplanting als bedoeld in [artikel 3 van de wet](../../../../../../wet/boswet/BWBR0002357/README.md) is aangelegd;  
+het bos met ter voldoening aan de verplichting tot herbeplanting als bedoeld in artikel 3 van de wet is aangelegd;  
 
 voldaan is aan het bepaalde in de artikelen 3, eerste lid, en 4 van deze regeling.   
 
@@ -32,11 +32,11 @@ Het bos dient binnen een periode van 40 jaar na het op het formulier vermelde ti
 
 ### Artikel  5  
 
-De minister bericht het Bosschap en de gemeente, waarin de te bebossen grond gelegen is, omtrent de vrijstelling. 
+De minister bericht de gemeente, waarin de te bebossen grond gelegen is, omtrent de vrijstelling. 
 
 ### Artikel  6  
 
-Bos dat valt onder de vrijstelling als omschreven in deze regeling wordt met betrokken bij de bepaling of een gevelde houtopstand deel uitmaakt van een boskern als bedoeld in artikel 2, tweede lid, onder d, van het besluit, houdende regelen ten aanzien van de verplichting tot herbeplanting, bedoeld in [artikel 3 van de Boswet](../../../../../../wet/boswet/BWBR0002357/README.md) (Stb. 1962, 220). 
+Bos dat valt onder de vrijstelling als omschreven in deze regeling wordt met betrokken bij de bepaling of een gevelde houtopstand deel uitmaakt van een boskern als bedoeld in artikel 2, tweede lid, onder d, van het besluit, houdende regelen ten aanzien van de verplichting tot herbeplanting, bedoeld in artikel 3 van de Boswet (Stb. 1962, 220). 
 
 ### Artikel  7  
 

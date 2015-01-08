@@ -54,7 +54,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 *Onze Minister:* Onze Minister van Infrastructuur en Milieu;  
 
-*Onze Ministers:* Onze Minister van Infrastructuur en Milieu tezamen met Onze Minister van Economische Zaken, Landbouw en Innovatie, ieder voor zover het aangelegenheden betreft die mede tot zijn verantwoordelijkheid behoren;  
+*Onze Ministers:* Onze Minister van Infrastructuur en Milieu tezamen met Onze Minister van Economische Zaken, ieder voor zover het aangelegenheden betreft die mede tot zijn verantwoordelijkheid behoren;  
 
 *openbaar vuilwaterriool:* voorziening voor de inzameling en het transport van stedelijk afvalwater, in beheer bij een gemeente of een rechtspersoon die door een gemeente met het beheer is belast;  
 
@@ -219,7 +219,7 @@ Onverminderd artikel 2.12 kunnen bij of krachtens algemene maatregel van bestuur
 
 ### Artikel  3.2  
 
-1.  Bij provinciale verordening worden voor de regionale wateren overheidslichamen aangewezen geheel of gedeeltelijk zijn belast met het beheer, met inachtneming van artikel 2, tweede lid, van de Waterschapswet.   
+1.  Bij provinciale verordening worden voor de regionale wateren overheidslichamen aangewezen die geheel of gedeeltelijk zijn belast met het beheer, met inachtneming van artikel 2, tweede lid, van de Waterschapswet.   
 2.  Voor zover bij provinciale verordening andere lichamen dan waterschappen worden belast met beheer, zijn de artikelen 4.6, 5.1, 7.2, 8.1 en 8.3 van deze wet niet van toepassing voor de betrokken beheerders en, indien het provincies en gemeenten betreft, evenmin artikel 5.29, behoudens voor zover dat artikel bij of krachtens die verordening van toepassing wordt verklaard voor daarbij aan te wijzen waterstaatswerken, in verband met de bijzondere betekenis van die waterstaatswerken.   
 3.  Artikel 3.1, derde lid, is van overeenkomstige toepassing. 
 
@@ -521,19 +521,19 @@ De beheerder neemt, met inachtneming van de bij of krachtens hoofdstuk 2 gesteld
 
 ### Artikel  5.5  
 
-Deze paragraaf is van toepassing op projectplannen tot aanleg of wijziging van primaire waterkeringen en, in de gevallen bij of krachtens provinciale verordening bepaald, op projectplannen van besturen van waterschappen voor de aanleg of wijziging van andere waterkeringen dan primaire waterkeringen en op andere waterstaatswerken van bovenlokale betekenis die met spoed en op gecoördineerde wijze tot stand moeten worden gebracht. 
+Deze paragraaf is van toepassing op projectplannen tot aanleg, verlegging of versterking van primaire waterkeringen en, in de gevallen bij of krachtens provinciale verordening bepaald, op projectplannen van besturen van waterschappen voor de aanleg of wijziging van andere waterkeringen dan primaire waterkeringen en op andere waterstaatswerken van bovenlokale betekenis die met spoed en op gecoördineerde wijze tot stand moeten worden gebracht. 
 
 ### Artikel  5.6  
 
 1.  Op de voorbereiding van het projectplan is afdeling 3.4 van de Algemene wet bestuursrecht van toepassing.   
 2.  De terinzagelegging, bedoeld in artikel 3:11 van de Algemene wet bestuursrecht, geschiedt tevens ten kantore van de betrokken bestuursorganen. Zienswijzen kunnen naar voren worden gebracht door een ieder.   
-3.  De beheerder stelt een projectplan tot aanleg of wijziging van een primaire waterkering vast binnen twaalf weken nadat de termijn voor het naar voren brengen van zienswijzen is verstreken. Na vaststelling zendt hij het plan onverwijld aan gedeputeerde staten.  
+3.  De beheerder stelt een projectplan tot aanleg, verlegging of versterking van een primaire waterkering vast binnen twaalf weken nadat de termijn voor het naar voren brengen van zienswijzen is verstreken. Na vaststelling zendt hij het plan onverwijld aan gedeputeerde staten.  
 
 ### Artikel  5.7  
 
 1.  Het projectplan behoeft de goedkeuring van gedeputeerde staten van de provincie op wier grondgebied het wordt uitgevoerd. De goedkeuring kan slechts worden onthouden wegens strijd met het recht of het algemeen belang.   
 2.  Indien het een waterstaatswerk betreft dat in meer dan één provincie is gelegen, kunnen gedeputeerde staten van de desbetreffende provincies bij overeenstemmende besluiten bepalen dat gedeputeerde staten van de provincie waarin het waterstaatswerk in hoofdzaak is gelegen, belast zijn met de goedkeuring van het projectplan.   
-3.  In afwijking van artikel 10:31, tweede en derde lid, van de Algemene wet bestuursrecht kan het nemen van een besluit omtrent de goedkeuring van een projectplan tot aanleg of wijziging van een primaire waterkering niet worden verdaagd.  
+3.  In afwijking van artikel 10:31, tweede en derde lid, van de Algemene wet bestuursrecht kan het nemen van een besluit omtrent de goedkeuring van een projectplan tot aanleg, verlegging of versterking van een primaire waterkering niet worden verdaagd.  
 
 ### Artikel  5.8  
 
@@ -574,7 +574,7 @@ De in artikel 5.8, eerste lid, bedoelde besluiten worden, voor zover zij gecoör
 
 ### Artikel  5.13  
 
-2.  Tegen een besluit als bedoeld in artikel 5.7, eerste lid, kan geen beroep bij de bestuursrechter worden ingesteld door een belanghebbende aan wie redelijkerwijze kan worden verweten dat hij geen zienswijzen als bedoeld in artikel 3:15 van de Algemene wet bestuursrecht naar voren heeft gebracht tegen het ontwerp van het projectplan waarop de goedkeuring betrekking heeft. 
+1.  Tegen een besluit als bedoeld in artikel 5.7, eerste lid, kan geen beroep bij de bestuursrechter worden ingesteld door een belanghebbende aan wie redelijkerwijze kan worden verweten dat hij geen zienswijzen als bedoeld in artikel 3:15 van de Algemene wet bestuursrecht naar voren heeft gebracht tegen het ontwerp van het projectplan waarop de goedkeuring betrekking heeft. 
 2.  In afwijking van artikel 6:8 van de Algemene wet bestuursrecht vangt de termijn voor het indienen van een beroepschrift tegen de besluiten, bedoeld in artikel 5.8, eerste lid, aan met ingang van de dag na die waarop de in artikel 5.12 bedoelde bekendmaking is geschied.
 
 ### Artikel  5.14  
@@ -623,7 +623,8 @@ Bij of krachtens algemene maatregel van bestuur kan worden bepaald in welke geva
 ### Artikel  5.20  
 
 1.  De met de inspectie van watersystemen of onderdelen daarvan belaste personen, werkzaam onder verantwoordelijkheid van de beheerder, zijn bevoegd, met medeneming van de benodigde apparatuur, elke plaats te betreden met uitzondering van woningen zonder toestemming van de bewoner.   
-2.  De artikelen 5:13, 5:15, tweede en derde lid, 5:16 en 5:20 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing.  
+2.  Onze Minister of het bestuur van een waterschap is bevoegd tot het geven van een machtiging als bedoeld in artikel 3, tweede lid, van de Algemene wet op het binnentreden, tot het zonder toestemming van de bewoner binnentreden in een woning door een of meer daartoe bij besluit van Onze Minister of dat bestuur aangewezen personen, voor zover die woning deel uitmaakt van een waterstaatswerk of daarmee rechtstreeks in verbinding staat.  
+3.  De artikelen 5:13, 5:15, tweede en derde lid, 5:16 en 5:20 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing.  
 
 ### Artikel  5.21  
 
@@ -918,7 +919,11 @@ c. 2.25, eerste lid, 2.30, 2.31, eerste lid, aanhef en onder b, 2.33, eerste lid
 
 ### Artikel  6.27  
 
-1.  Een aanvraag tot verlening of wijziging van een vergunning voor het lozen vanuit een inrichting waartoe een IPPC-installatie als bedoeld in artikel 1.1, eerste lid, van de Wet algemene bepalingen omgevingsrecht behoort, of vanuit een inrichting als bedoeld in artikel 15, onder b, van de Kernenergiewet, wordt gelijktijdig ingediend met een aanvraag tot verlening of wijziging van een omgevingsvergunning voor een activiteit als bedoeld in artikel 2.1, eerste lid, onder e, van de Wet algemene bepalingen omgevingsrecht of een vergunning krachtens de Kernenergiewet.   
+1.  Een aanvraag tot verlening of wijziging van een watervergunning, met uitzondering van een krachtens artikel 6.5, aanhef en onder c, of op grond van een verordening als bedoeld in artikel 6.13 vereiste vergunning voor het gebruik van een waterstaatswerk of een bijbehorende beschermingszone, die betrekking heeft op: 
+
+a. een inrichting waartoe een IPPC-installatie als bedoeld in artikel 1.1, eerste lid, van de Wet algemene bepalingen omgevingsrecht behoort, of  
+
+b. een inrichting als bedoeld in artikel 15, onder b, van de Kernenergiewet, wordt gelijktijdig ingediend met een aanvraag tot verlening of wijziging van een omgevingsvergunning voor een activiteit als bedoeld in artikel 2.1, eerste lid, onder e, van de Wet algemene bepalingen omgevingsrecht of een vergunning krachtens de Kernenergiewet.     
 2.  De beslissing op een in het eerste lid bedoelde aanvraag om een watervergunning wordt overeenkomstig hoofdstuk 14 van de Wet milieubeheer gecoördineerd voorbereid met de beslissing op de betrokken aanvraag krachtens de Wet algemene bepalingen omgevingsrecht of de Kernenergiewet. Daarbij worden in ieder geval de in artikel 14.3, tweede lid, van de Wet milieubeheer genoemde handelingen gelijktijdig verricht.   
 3.  De in het eerste lid bedoelde aanvraag om een watervergunning wordt in ieder geval buiten behandeling gelaten, indien niet binnen zes weken na het tijdstip van indiening ervan tevens een aanvraag krachtens de Wet algemene bepalingen omgevingsrecht of de Kernenergiewet is ingediend, dan wel de aanvraag krachtens die wetten buiten behandeling wordt gelaten.   
 4.  Het orgaan dat krachtens de betrokken wet bevoegd is op de aanvraag om vergunning te beslissen, brengt binnen acht weken na ontvangst van de in het eerste lid eerstbedoelde aanvraag advies uit met het oog op de samenhang tussen de beschikkingen op de onderscheidene aanvragen. Dat orgaan wordt voorts in de gelegenheid gesteld advies uit te brengen over het ontwerp van de beschikking op de aanvraag. In een geval als bedoeld in artikel 3:18, tweede lid, van de Algemene wet bestuursrecht kan het bevoegd gezag besluiten de in de eerste volzin bedoelde termijn met een bij zijn besluit te bepalen redelijke termijn te verlengen. Indien artikel 30, vierde lid, van de Dienstenwet op de aanvraag van toepassing is, wordt de verlengingstermijn afgestemd op de duur waarmee ingevolge dat artikellid de termijn voor het geven van de beschikking op de aanvraag kan worden verlengd.   
@@ -926,7 +931,7 @@ c. 2.25, eerste lid, 2.30, 2.31, eerste lid, aanhef en onder b, 2.33, eerste lid
 6.  Wordt een betrokken vergunning krachtens de Wet algemene bepalingen omgevingsrecht of de Kernenergiewet ingetrokken, dan kan de watervergunning eveneens worden ingetrokken.   
 7.  Het tweede, vierde en vijfde lid en de artikelen 6.28 en 6.29 zijn van overeenkomstige toepassing op een ambtshalve wijziging van een in het eerste lid bedoelde vergunning. Voorts dragen gedeputeerde staten er ten minste zorg voor dat de betrokken beschikkingen gezamenlijk worden bekendgemaakt en daarvan gezamenlijk mededeling wordt gedaan.   
 8.  Wordt in een geval als bedoeld in artikel 3.16 van de Wet algemene bepalingen omgevingsrecht, dan wel in de Kernenergiewet juncto dat artikel, beroep ingesteld tegen een beschikking inzake een vergunning krachtens een van die wetten, dan kan de uitspraak in beroep ook betrekking hebben op een daarmee samenhangende, inzake een watervergunning gegeven beschikking.   
-9.  Dit artikel is niet van toepassing indien op de voorbereiding van de vergunning voor het lozen van stoffen, de omgevingsvergunning voor een activiteit als bedoeld in artikel 2.1, eerste lid, onder e, van de Wet algemene bepalingen omgevingsrecht of de vergunning krachtens de Kernenergiewet afdeling 3.4 van de Algemene wet bestuursrecht niet van toepassing is. 
+9.  Dit artikel is niet van toepassing indien op de voorbereiding van de in het eerste lid bedoelde watervergunning, de omgevingsvergunning voor een activiteit als bedoeld in artikel 2.1, eerste lid, onder e, van de Wet algemene bepalingen omgevingsrecht of de vergunning krachtens de Kernenergiewet afdeling 3.4 van de Algemene wet bestuursrecht niet van toepassing is. 
 
 ### Artikel  6.28  
 

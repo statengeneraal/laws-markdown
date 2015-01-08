@@ -68,7 +68,7 @@ d. stichting ten aanzien waarvan bij besluit van Onze Minister is vastgesteld da
 
 *noodwater:* water, uitsluitend bestemd voor sanitaire doeleinden, dat bij een verstoring door middel van een distributienet wordt geleverd aan consumenten of andere afnemers;  
 
-*Onze Minister:* Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;  
+*Onze Minister:* Onze Minister van Infrastructuur en Milieu;  
 
 *openbare drinkwatervoorziening:* productie en distributie van drinkwater door drinkwaterbedrijven;  
 
@@ -606,7 +606,7 @@ Ten behoeve van het verslag, bedoeld in artikel 45, verstrekken de eigenaren van
 1.  Met het toezicht op de naleving van deze wet en de daarop berustende bepalingen zijn belast de door Onze Minister als zodanig aangewezen inspecteur en de overige daartoe aangewezen ambtenaren.   
 2.  In afwijking van het eerste lid zijn met het toezicht op de naleving van deze wet en de daarop berustende bepalingen belast de door Onze Minister van Economische Zaken daartoe aangewezen ambtenaren, voor zover het betreft voorzieningen voor de winning, behandeling of distributie van water op een binnen het Nederlandse territoir of het Nederlandse deel van het continentale plat gelegen mijnbouwinstallatie als bedoeld in artikel 1, onderdeel o, van de Mijnbouwwet, welk water als drinkwater aan consumenten binnen die mijnbouwinstallatie ter beschikking wordt gesteld.   
 3.  Van een besluit als bedoeld in het eerste of tweede lid wordt mededeling gedaan door plaatsing in de Staatscourant.   
-4.  In afwijking van het eerste en tweede lid is de Autoriteit Consument en Markt, genoemd in artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt, belast met het toezicht op de naleving van artikel 7, vierde lid. Hoofdstuk 6 van de Mededingingswet is van overeenkomstige toepassing.  
+4.  In afwijking van het eerste en tweede lid is de Autoriteit Consument en Markt, genoemd in artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt, belast met het toezicht op de naleving van artikel 7, vierde lid.  
 
 ### Artikel  49  
 
@@ -615,7 +615,8 @@ De eigenaar van een drinkwaterbedrijf, respectievelijk collectieve watervoorzien
 ### Artikel  50  
 
 1.  Onze Minister is bevoegd tot toepassing van bestuursdwang ter handhaving van deze wet en de daarop berustende bepalingen.   
-2.  In afwijking van het eerste lid is Onze Minister van Economische Zaken bevoegd tot toepassing van bestuursdwang ter handhaving van deze wet en de daarop berustende bepalingen voor zover het betreft voorzieningen voor de winning, behandeling of distributie van water op een binnen het Nederlandse territoir of het Nederlandse deel van het continentale plat gelegen mijnbouwinstallatie als bedoeld in artikel 1, onderdeel o, van de Mijnbouwwet, welk water als drinkwater aan consumenten binnen die mijnbouwinstallatie ter beschikking wordt gesteld.  
+2.  In afwijking van het eerste lid is Onze Minister van Economische Zaken bevoegd tot toepassing van bestuursdwang ter handhaving van deze wet en de daarop berustende bepalingen voor zover het betreft voorzieningen voor de winning, behandeling of distributie van water op een binnen het Nederlandse territoir of het Nederlandse deel van het continentale plat gelegen mijnbouwinstallatie als bedoeld in artikel 1, onderdeel o, van de Mijnbouwwet, welk water als drinkwater aan consumenten binnen die mijnbouwinstallatie ter beschikking wordt gesteld.   
+3.  In afwijking van het eerste lid is, ingeval van overtreding van artikel 7, vierde lid, eerste of tweede volzin, artikel 70a van de Mededingingswet van overeenkomstige toepassing en is artikel 82 van die wet van toepassing. 
 
 ### Hoofdstuk  VIII  
 

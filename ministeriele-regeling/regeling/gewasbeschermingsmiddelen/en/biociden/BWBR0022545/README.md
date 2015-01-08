@@ -589,6 +589,29 @@ a. indien advies aan het College voor de toelating van gewasbeschermingsmiddelen
 
 b. indien geen advies aan het College voor de toelating van gewasbeschermingsmiddelen en biociden behoeft te worden gevraagd: € 1.300,–, indien het een nieuwe aanvraag betreft, of € 520,– indien het een vervolgaanvraag betreft.    
 
+### §  5  
+
+####Reiniging
+
+### Artikel  8.13  
+
+####Reiniging van verpakkingen
+
+1.  Het is een gebruiker verboden een lege verpakking van een gewasbeschermingsmiddel voorhanden te hebben die meer dan 0,01% van het gewicht bevat van het oorspronkelijk in de ongeopende verpakking aanwezige gewasbeschermingsmiddel.   
+2.  Onverwijld na lediging van de verpakking van een gewasbeschermingsmiddel reinigt een gebruiker deze verpakking met hiervoor geschikte reinigingsapparatuur.   
+3.  In het geval een gewasbeschermingsmiddel wordt toegepast door middel van spuitapparatuur en de gebruiker beschikt niet over hiervoor geschikte reinigingsapparatuur, dient de verpakking onverwijld na de lediging ervan enkele malen te worden omgespoeld met schoon leidingwater, waarna het spoelwater vervolgens in de vloeistoftank van de spuitapparatuur wordt gedeponeerd.  
+
+### §  6  
+
+####Keuring
+
+### Artikel  8.14  
+
+####Keuring van gewasbeschermingsapparatuur
+
+1.  Een keuringsbewijs als bedoeld in artikel 32b van het Besluit gewasbeschermingsmiddelen en biociden heeft een geldigheid van drie jaren na de datum van afgifte.   
+2.  In afwijking van het eerste lid heeft een keuringsbewijs voor laagvolume spuitapparatuur een geldigheid van zes jaren na de datum van afgifte.  
+
 ### Hoofdstuk  9  
 
 ####Toezicht en handhaving

@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het in verband met de [Herzieningswet adviesstelsel](../../../../../../../wet/herzieningswet/adviesstelsel/BWBR0008158/README.md) wenselijk is de Raad voor verkeer en waterstaat opnieuw in te stellen met handhaving van de bestaande regeling van het overleg met betrekking tot het terrein van verkeer en waterstaat;
+Alzo Wij in overweging genomen hebben, dat het in verband met de Herzieningswet adviesstelsel wenselijk is de Raad voor verkeer en waterstaat opnieuw in te stellen met handhaving van de bestaande regeling van het overleg met betrekking tot het terrein van verkeer en waterstaat;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  1  
@@ -15,15 +15,15 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 *Onze Minister:* Onze Minister van Infrastructuur en Milieu;  
 
-*overlegorgaan:* Overlegorgaan verkeer en waterstaat, bedoeld in artikel 4.   
+*overlegorgaan:* Overlegorgaan infrastructuur en milieu, bedoeld in artikel 4.   
 
 ### Artikel  4  
 
-Er is een Overlegorgaan verkeer en waterstaat voor het voeren van overleg over het beleid inzake verkeer en waterstaat. 
+Er is een Overlegorgaan infrastructuur en milieu voor het voeren van overleg over het beleid inzake infrastructuur en milieu. 
 
 ### Artikel  5  
 
-Door of namens Onze Minister en, waar daartoe aanleiding bestaat door of namens Onze Ministers wie het mede aangaat, worden in het overlegorgaan beleidsvoornemens aan de orde gesteld met betrekking tot onderdelen van het beleid inzake verkeer en waterstaat.
+Door of namens Onze Minister en, waar daartoe aanleiding bestaat door of namens Onze Ministers wie het mede aangaat, worden in het overlegorgaan beleidsvoornemens aan de orde gesteld met betrekking tot onderdelen van het beleid inzake infrastructuur en milieu.
 
 ### Artikel  6  
 
@@ -65,7 +65,7 @@ Deze wet treedt in werking met ingang van 1 januari 1997.
 
 ### Artikel  19  
 
-Deze wet wordt aangehaald als: Wet overleg verkeer en waterstaat. 
+Deze wet wordt aangehaald als: Wet overleg infrastructuur en milieu. 
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

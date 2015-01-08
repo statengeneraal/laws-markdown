@@ -90,7 +90,9 @@ v.alcoholslot: het geheel van ademalcoholtester, startonderbreker en registratie
 
 w.alcoholslotprogramma: het samenstel van de verplichting tot inbouw van een alcoholslot en de daarbij behorende registratie-eenheid in een door betrokkene gebruikt motorrijtuig, het periodiek laten uitlezen van de registratie-eenheid en het volgen van een begeleidingsprogramma;
 
-x.alcoholslotregister: het register als bedoeld in artikel 129a.   
+x.alcoholslotregister: het register als bedoeld in artikel 129a;
+
+y.  *bewegwijzering:* verkeerstekens die worden geplaatst of verwijderd teneinde weggebruikers in staat te stellen hun afstand tot of route naar een bestemming te bepalen.    
 2.   Indien de eigenaar van een motorrijtuig of een aanhangwagen niet tevens bezitter is, treedt de bezitter voor de toepassing van het bepaalde bij of krachtens deze wet voor de eigenaar in de plaats.    
 3.   Degene aan wie een kenteken is opgegeven voor een motorrijtuig of een aanhangwagen wordt, tenzij anders blijkt, voor de toepassing van het bepaalde bij of krachtens deze wet beschouwd als eigenaar of houder van dat motorrijtuig of die aanhangwagen.    
 4.   Voor de toepassing van de hoofdstukken III tot en met V van deze wet worden vennootschappen zonder rechtspersoonlijkheid mede als rechtspersoon aangemerkt.   
@@ -204,7 +206,7 @@ c. het opgeven van kentekens voor motorrijtuigen en aanhangwagens, het ter zake 
 
 d. het afgeven van keuringsrapporten voor motorrijtuigen en aanhangwagens,  
 
-e. het behandelen van bezwaren tegen afgegeven keuringsrapporten,  
+e. vervallen,  
 
 f. het in het kader van de toelating tot het verkeer op de weg verlenen van goedkeuringen voor motorrijtuigen en aanhangwagens waarvan de constructie is gewijzigd dan wel waarvan het kentekenbewijs is ingevorderd,  
 
@@ -218,9 +220,9 @@ i. het overeenkomstig de bij of krachtens deze wet vastgestelde bepalingen verst
 
 i1. het overeenkomstig het bij of krachtens deze wet bepaalde doen van informatieverzoeken aan de daartoe bevoegde autoriteiten van een andere lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, of Zwitserland, ten behoeve van de beoordeling door de Dienst Wegverkeer of een andere rijbewijsafgevende autoriteit in Nederland van aanvragen tot afgifte van een rijbewijs; 
 
-j. het verlenen van erkenningen als bedoeld in de artikelen 62, 70a, 83, 92, eerste lid, 101, 132f, eerste lid, en 132k, eerste lid, en het verlenen van de bevoegdheid voertuigen aan een keuring te onderwerpen als bedoeld in artikel 85a alsmede het schorsen, wijzigen en intrekken van erkenningen en van de bevoegdheid voertuigen aan een keuring te onderwerpen,  
+j. het verlenen van erkenningen als bedoeld in de artikelen 61a, 62, 66a, 70a, 83, 92, eerste lid, 101, 132f, eerste lid, en 132k, eerste lid, en het verlenen van de bevoegdheid voertuigen aan een keuring te onderwerpen als bedoeld in artikel 85a alsmede het schorsen, wijzigen en intrekken van erkenningen en van de bevoegdheid voertuigen aan een keuring te onderwerpen,  
 
-j1:de bevoegdheid tot het aanwijzen van een technische dienst voor het uitvoeren van bepaalde tests ten behoeve van het verlenen van typegoedkeuringen of individuele goedkeuringen of voor het uitvoeren van bepaalde toezichtstaken,
+j1:het aanwijzen van een technische dienst voor het uitvoeren van bepaalde tests ten behoeve van het verlenen van typegoedkeuringen of individuele goedkeuringen, dan wel voor het uitvoeren van een periodieke herkwalificatie of voor het uitvoeren van bepaalde toezichtstaken,
 
 k. het houden van toezicht op de naleving van de verplichtingen die voortvloeien uit de in onderdeel j bedoelde erkenningen en van de bevoegdheid voertuigen aan een keuring te onderwerpen alsmede op de verplichtingen die voortvloeien uit de in onderdeel j1 bedoelde aanwijzing als technische dienst,  
 
@@ -230,11 +232,11 @@ m. het opsporen van bij of krachtens deze wet strafbaar gestelde feiten, voor zo
 
 n. het met inachtneming van het bepaalde in artikel 4q vaststellen van de tarieven, bedoeld in het eerste lid, onderdelen q en r, en het derde lid en in de artikelen 22, eerste lid, 22a, eerste lid, 22b, tweede lid, 23, tweede lid, 23a, tweede lid, 25a, eerste lid, 25b, tweede lid 26, eerste lid, 26a, tweede lid, 37, vierde lid, 43, zesde en zevende lid, 45a, derde lid, 48, eerste lid, 52c, tweede lid, 55, eerste en derde lid, 61a, eerste lid, 63, eerste lid, 64, tweede lid, 66b, eerste lid, 67, eerste lid, 70d, eerste lid, 70e, tweede lid, 70k, vierde en vijfde lid, 70l, vierde lid, 75, eerste lid, 80, eerste lid, 84, eerste lid, 86, vijfde lid, 90, vierde lid, 91, vierde lid, 93, eerste lid, 94, tweede lid, 99, eerste lid, 101, eerste lid, 102, tweede lid, 106, eerste lid, 106a, derde lid, jo. 101, eerste lid, respectievelijk jo. 102, eerste lid, 111, vijfde lid, 127, derde en vierde lid, 128, eerste lid, 132e, eerste en tweede lid, 132g, eerste lid, 132h, derde lid, 132l, eerste lid, en tweede lid, onderdeel f, 132m, vierde lid, 144, eerste lid, en 149a, vierde lid, 186, vierde lid, het vaststellen van het tarief voor de in onderdeel g1 bedoelde verklaring, alsmede het vaststellen van de wijze van betaling van deze tarieven, 
 
-o.het sluiten van overeenkomsten met betrekking tot de productie van rijbewijzen, de aflevering ervan en het beheer van de daartoe benodigde voorzieningen;
+o. het zorg dragen voor de productie van rijbewijzen, het transport en de aflevering ervan en het beheer van de daartoe benodigde voorzieningen; 
 
 p.het attenderen van houders van een rijbewijs op het verloop van de geldigheidsduur,
 
-q. het heffen en vaststellen van een tarief, met inachtneming van artikel 4q, voor overige verstrekkingen of dienstverleningen die voortvloeien uit de vervulling van de aan de Dienst Wegverkeer opgedragen wettelijke taken,  
+q. het vaststellen en heffen van een tarief, met inachtneming van artikel 4q, voor overige verstrekkingen of dienstverleningen die voortvloeien uit de vervulling van de aan de Dienst Wegverkeer opgedragen wettelijke taken,  
 
 r. het voldoen aan de verplichting tot het opstellen van een gids betreffende het brandstofverbruik en de CO<sub>2</sub>-uitstoot van personenauto’s op grond van richtlijn 1999/94/EG van het Europees Parlement en de Raad van 13 december 1999 betreffende de beschikbaarheid van consumenteninformatie over het brandstofverbruik en de CO<sub>2</sub>-uitstoot bij de verbranding van nieuwe personenauto’s (PbEG 1999, L12/16) en de verplichting tot het verzamelen van gegevens over nieuwe personenauto’s en het vaststellen van informatie voor de controle van de CO<sub>2</sub>-emissies en mededeling doen van die gegevens aan de Commissie op grond van Verordening (EG) nr. 443/2009van het Europees Parlement en de Raad van 23 april 2009 tot vaststelling van emissienormen voor nieuwe personenauto’s, in het kader van de communautaire geïntegreerde benadering om de CO<sub>2</sub>-emissies van lichte voertuigen te beperken (PbEU 2009, L140/1).    
 2.   Voorts is de Dienst Wegverkeer belast met: 
@@ -526,7 +528,11 @@ o. het verwerken van gegevens, waaronder mede begrepen gegevens betreffende iema
 
 p. het met inachtneming van artikel 4am vaststellen van de tarieven, alsmede het vaststellen van de wijze van betaling van deze tarieven, voor het verrichten van taken waarvoor het CBR bij of krachtens deze wet bevoegd is, alsmede voor de bij of krachtens andere wetten opgedragen taken;  
 
-q. het verstrekken van gegevens voor zover dit noodzakelijk is voor de uitvoering van de taken waarmee het CBR dan wel andere organisaties bij of krachtens deze wet zijn belast.     
+q. het verstrekken van gegevens voor zover dit noodzakelijk is voor de uitvoering van de taken waarmee het CBR dan wel andere organisaties bij of krachtens deze wet zijn belast;  
+
+r. het in stand houden en beheren van een systeem waarin rijscholen kunnen worden ingeschreven, franchiserelaties tussen rijscholen en overdrachten van rijscholen kunnen worden geregistreerd en waarmee rijscholen examens bij het CBR kunnen reserveren;  
+
+s. het informeren van rijscholen over relevante ontwikkelingen voor hun taakuitvoering.    
 2.  Bij de toepassing van de taken, bedoeld in het eerste lid, onderdeel a, neemt het CBR de bij ministeriële regeling aangewezen richtlijn of de aangewezen onderdelen daarvan, in acht.  
 3.  Voor de toepassing van het eerste lid, onderdelen c tot en met g, wordt onder rijbewijzen mede verstaan rijbewijzen, afgegeven door het daartoe bevoegde gezag buiten Nederland, waarvan de houder in Nederland woonachtig is.   
 4.  Voorts is het CBR belast met: 
@@ -805,13 +811,14 @@ Bij algemene maatregel van bestuur worden regels vastgesteld omtrent het toepass
 1. De plaatsing of verwijdering van de bij algemene maatregel van bestuur aangewezen verkeerstekens, en onderborden voor zover daardoor een gebod of verbod ontstaat of wordt gewijzigd, geschiedt krachtens een verkeersbesluit. 
 2.  Maatregelen op of aan de weg tot wijziging van de inrichting van de weg of tot het aanbrengen of verwijderen van voorzieningen ter regeling van het verkeer geschieden krachtens een verkeersbesluit, indien de maatregelen leiden tot een beperking of uitbreiding van het aantal categorieën weggebruikers dat van een weg of weggedeelte gebruik kan maken. 
 
-###Artikel 16 
+### Artikel  16  
 
-1. De in artikel 15 bedoelde verkeerstekens en onderborden worden geplaatst of verwijderd, en de daar bedoelde maatregelen worden getroffen, door de zorg van het gezag dat het verkeersbesluit heeft genomen. 
-2.  Verkeerstekens en onderborden, die niet worden geplaatst of verwijderd krachtens een verkeersbesluit, worden geplaatst of verwijderd door de zorg van het openbaar lichaam dat het beheer heeft over de weg of, indien geen openbaar lichaam het beheer heeft, door de zorg van de eigenaar van de weg. 
+1.  De in artikel 15 bedoelde verkeerstekens en onderborden worden geplaatst of verwijderd, en de daar bedoelde maatregelen worden getroffen, door de zorg van het gezag dat het verkeersbesluit heeft genomen.    
+2.   Verkeerstekens en onderborden, die niet worden geplaatst of verwijderd krachtens een verkeersbesluit, worden geplaatst of verwijderd door de zorg van het openbaar lichaam dat het beheer heeft over de weg of, indien geen openbaar lichaam het beheer heeft, door de zorg van de eigenaar van de weg.    
+3.  Bij algemene maatregel van bestuur worden de verkeerstekens aangewezen die onderdeel uitmaken van de categorie bewegwijzering.   
+4.  Plaatsing of verwijdering van de bewegwijzering vindt uitsluitend plaats in overeenstemming met een vastgesteld ontwerp als bedoeld in artikel 16a, eerste lid. 
 
 ### Artikel  16a  
-Treedt in werking per 01-01-2015 
 
 1.  Onze Minister stelt, na overleg met de betrokken openbare lichamen en eigenaren van wegen, ontwerpen vast voor de bewegwijzering.   
 2.  Een ontwerp bevat: 
@@ -828,7 +835,6 @@ e. de consequenties van het ontwerp voor de bewegwijzering op andere wegen.
 3.  Bij ministeriële regeling kunnen nadere regels worden gesteld inzake de inhoud van een ontwerp en de uitvoering van het eerste lid.  
 
 ### Artikel  16b  
-Treedt in werking per 01-01-2015 
 
 1.  Onze Minister houdt een register bij waarin gegevens worden verwerkt inzake ontwerpen voor bewegwijzering, alsmede de uitvoering daarvan.   
 2.  Het openbaar lichaam dat het beheer heeft over de weg waarop het ontwerp betrekking heeft of waarvoor het ontwerp mogelijk gevolgen heeft, of, indien geen openbaar lichaam het beheer heeft, de eigenaar van die weg, verstrekt aan Onze Minister de gegevens: 
@@ -919,21 +925,22 @@ b. er voor dit motorrijtuig niet een typegoedkeuring overeenkomstig in het kader
 ### Artikel  22  
 
 1.  Een typegoedkeuring wordt op aanvraag en tegen betaling, op de door de Dienst Wegverkeer vastgestelde wijze, van het daarvoor door deze dienst vastgestelde tarief door deze dienst verleend indien het voertuig, het systeem, het onderdeel, de technische eenheid, het uitrustingstuk of de voorziening ter bescherming van weggebruikers en passagiers waarvoor de goedkeuring wordt gevraagd, bij een door de dienst verrichte keuring heeft voldaan aan de bij ministeriële regeling vastgestelde eisen. Deze eisen kunnen betrekking hebben op de technische staat, de specificaties, de prestaties of de uitrusting van het voertuig, het systeem, het onderdeel, de technische eenheid, het uitrustingstuk of de voorziening ter bescherming van weggebruikers en passagiers.   
-2.  Met een typegoedkeuring wordt gelijkgesteld een typegoedkeuring: 
+2.  De Dienst Wegverkeer kan de typegoedkeuring weigeren als hij van oordeel is dat het voertuig, het systeem, het onderdeel, de technische eenheid, het uitrustingstuk of de voorziening ter bescherming van weggebruikers en passagiers een ernstig gevaar vormt voor de verkeersveiligheid, de volksgezondheid of het milieu.  
+3.  Met een typegoedkeuring wordt gelijkgesteld een typegoedkeuring: 
 
 a. die is verleend door het daartoe bevoegde gezag in een andere lidstaat van de Europese Unie of in een andere Staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte en die is verleend overeenkomstig de op het betrokken voertuig, systeem, onderdeel, technische eenheid, uitrustingsstuk of voorziening ter bescherming van weggebruikers en passagiers betrekking hebbende, in het kader van de Europese Unie tot stand gekomen voorschriften, of die is verleend door het daartoe bevoegde gezag in Zwitserland indien dit voorvloeit uit de op 21 juni 1999 te Luxemburg tot stand gekomen Overeenkomst tussen de Europese Gemeenschap en de Zwitserse Bondsstaat inzake de wederzijdse erkenning van de overeenstemmingsbeoordeling (PbEG L 114);  
 
 b. die is verleend door het daartoe bevoegde gezag in een Staat die partij is bij de Overeenkomst betreffende het aannemen van eenvormige technische voorschriften die van toepassing zijn op voertuigen op wielen, uitrustingsstukken en onderdelen die in een voertuig op wielen kunnen worden gemonteerd of gebruikt en is verleend overeenkomstig de voorwaarden voor wederzijdse erkenning van overeenkomstig deze voorschriften verleende goedkeuringen;  
 
 c. als bedoeld in artikel 22a, eerste lid.     
-3.  Bij ministeriële regeling kunnen regels worden vastgesteld betreffende de organisatie van de aanvrager, het proces volgens hetwelk de aanvrager zijn werkzaamheden verricht, het door de aanvrager voor de keuring ter beschikking stellen van voertuigen, systemen, onderdelen, technische eenheden, uitrustingstukken en voorzieningen ter bescherming van weggebruikers en passagiers, het door de aanvrager overleggen van bescheiden en verstrekken van inlichtingen ter zake van de keuring alsmede betreffende de wijze waarop de keuring wordt verricht.    
-4.  Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot in het kader van een typegoedkeuringsprocedure op basis van in het kader van de Europese Unie tot stand gekomen voorschriften op de Dienst Wegverkeer of de fabrikant van een voertuig, systeem, onderdeel, technische eenheid, uitrustingstuk of voorziening ter bescherming van weggebruikers en passagiers rustende verplichtingen.   
-5.  Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot op voertuigen, systemen, onderdelen, technische eenheden, uitrustingstukken en voorzieningen ter bescherming van weggebruikers en passagiers, behorende tot een goedgekeurd type, aan te brengen keurmerken, aanduidingen of gegevens.  
+4.  Bij ministeriële regeling kunnen regels worden vastgesteld betreffende de organisatie van de aanvrager, het proces volgens hetwelk de aanvrager zijn werkzaamheden verricht, het door de aanvrager voor de keuring ter beschikking stellen van voertuigen, systemen, onderdelen, technische eenheden, uitrustingstukken en voorzieningen ter bescherming van weggebruikers en passagiers, het door de aanvrager overleggen van bescheiden en verstrekken van inlichtingen ter zake van de keuring alsmede betreffende de wijze waarop de keuring wordt verricht.    
+5.  Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot in het kader van een typegoedkeuringsprocedure op basis van in het kader van de Europese Unie tot stand gekomen voorschriften op de Dienst Wegverkeer of de fabrikant van een voertuig, systeem, onderdeel, technische eenheid, uitrustingstuk of voorziening ter bescherming van weggebruikers en passagiers rustende verplichtingen.   
+6.  Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot op voertuigen, systemen, onderdelen, technische eenheden, uitrustingstukken en voorzieningen ter bescherming van weggebruikers en passagiers, behorende tot een goedgekeurd type, aan te brengen keurmerken, aanduidingen of gegevens.  
 
 ###Artikel 22a 
 
 1. Ter uitvoering van verdragen of van besluiten van volkenrechtelijke organisaties of van één of meer instellingen van de Europese Unie, al dan niet gezamenlijk, verleent de Dienst Wegverkeer op aanvraag en tegen betaling, op de door de Dienst Wegverkeer vastgestelde wijze, van het daarvoor door deze dienst vastgestelde tarief, een typegoedkeuring indien het voertuig, het systeem, het onderdeel, de technische eenheid, het uitrustingstuk of de voorziening ter bescherming van weggebruikers en passagiers, waarvoor de goedkeuring wordt gevraagd, bij een door de dienst verrichte keuring heeft voldaan aan de eisen van het bij ministeriële regeling bekendgemaakte besluit. 
-2. De artikelen 22, derde lid, 23, 24 en 25 zijn van overeenkomstige toepassing.
+2. De artikelen 22, vierde lid, 23, 24 en 25 zijn van overeenkomstige toepassing.
 
 ### Artikel  22b  
 
@@ -1035,7 +1042,7 @@ d.blijkt dat de goedkeuring ten onrechte is verleend.
 ### Artikel  26  
 
 1.   Een goedkeuring voor een individueel voertuig wordt op aanvraag en tegen betaling, op de door de Dienst Wegverkeer vastgestelde wijze, van het daarvoor door deze dienst vastgestelde tarief door deze dienst verleend indien het voertuig bij een door de dienst verrichte keuring heeft voldaan aan de bij ministeriële regeling vastgestelde eisen met betrekking tot de toelating tot het verkeer op de weg, welke eisen voor verschillende groepen van voertuigen verschillend kunnen worden gesteld.   
-2.   Artikel 22, derde en vierde lid, is van overeenkomstige toepassing.   
+2.  Artikel 22, tweede, derde en vierde lid, is van overeenkomstige toepassing.  
 
 ### Artikel  26a  
 
@@ -1168,7 +1175,7 @@ c. motorrijtuigen en aanhangwagens, mits wordt voldaan aan nadere bij ministeri�
 
 a. in bepaalde uitzonderingsgevallen tijdelijk wordt of kan worden afgeweken van het in artikel 36, derde lid, onderdeel b of c, bepaalde;   
 
-b. een motorrijtuig of een aanhangwagen op de weg mag staan, indien de tenaamstelling vervallen is verklaard ingevolge artikel 51a, derde lid, onderdeel b, c, d of f, dan wel indien door de bij algemene maatregel van bestuur aangewezen persoon is aangezegd dat met het voertuig geen gebruik mag worden gemaakt van de weg.    
+b. een motorrijtuig of een aanhangwagen op de weg mag staan, indien de tenaamstelling vervallen is verklaard ingevolge artikel 51a, derde lid, onderdeel b, c, d of f.    
 6.   Bij algemene maatregel van bestuur worden nadere regels vastgesteld omtrent de omschrijving van de in het eerste lid, onderdeel a, bedoelde categorieën voertuigen alsmede de voor die categorieën vastgestelde maximumsnelheid.    
 7.   Bij ministeriële regeling worden nadere regels vastgesteld ter uitvoering van het derde lid en kunnen nadere regels worden vastgesteld ter uitvoering van het vijfde lid.   
 
@@ -1232,7 +1239,7 @@ c.authentiek gegeven: in een basisregistratie opgenomen gegeven dat bij of krach
 
 1. Er is een kentekenregister. Dit register is een basisregistratie. 
 2. De Dienst Wegverkeer is de beheerder van het kentekenregister en verantwoordelijke als bedoeld in de Wet bescherming persoonsgegevens. 
-3. In het kentekenregister verwerkt de Dienst Wegverkeer gegevens omtrent motorrijtuigen en aanhangwagens waarvoor een kenteken is opgegeven en de tenaamstelling van die kentekens, alsmede omtrent andere motorrijtuigen en aanhangwagens. 
+3. In het kentekenregister verwerkt de Dienst Wegverkeer gegevens omtrent motorrijtuigen en aanhangwagens waarvoor een kenteken is opgegeven en de tenaamstelling van die motorrijtuigen en aanhangwagens, alsmede omtrent andere motorrijtuigen en aanhangwagens. 
 4. Het verzamelen van de gegevens, bedoeld in het derde lid, geschiedt voor de volgende doeleinden:
 
 a.voor een goede uitvoering van het bepaalde bij of krachtens deze wet en voor de handhaving van de bij of krachtens deze wet gestelde voorschriften,
@@ -1348,7 +1355,7 @@ c. die de eigendom, het bezit of het houderschap van een motorrijtuig of een aan
 
 ### Artikel  47  
 
-Motorrijtuigen en aanhangwagens waarvoor een kenteken zijn opgegeven dienen overeenkomstig bij algemene maatregel van bestuur vastgestelde regels te zijn ingeschreven in het kentekenregister en tenaamgesteld. 
+Motorrijtuigen en aanhangwagens op de weg waarvoor een kenteken is opgegeven dienen overeenkomstig bij algemene maatregel van bestuur vastgestelde regels te zijn ingeschreven in het kentekenregister en tenaamgesteld. 
 
 ### Artikel  48  
 
@@ -1360,7 +1367,7 @@ b. in Nederland woonachtige natuurlijke personen die de leeftijd van zestien jar
 
 c. in Nederland gevestigde rechtspersonen.     
 2.  Inschrijving in het kentekenregister vindt slechts plaats indien het motorrijtuig of de aanhangwagen waarvoor de inschrijving wordt verlangd, overeenkomstig artikel 22 of 26 is goedgekeurd voor toelating tot het verkeer op de weg en, indien na die toelating wijziging is aangebracht in de bouw of inrichting van dat voertuig, die wijziging, behoudens in het geval dat geen goedkeuring is vereist, overeenkomstig artikel 99, eerste lid, of 100, eerste lid, is goedgekeurd voor toelating van het gewijzigde voertuig tot het verkeer op de weg.   
-3.  In bepaalde uitzonderingsgevallen kan door de Dienst Wegverkeer een motorrijtuig of aanhangwagen worden ingeschreven, indien ten aanzien van het motorrijtuig of de aanhangwagen, waarvoor de inschrijving wordt verlangd, niet is voldaan aan het eerste lid.   
+3.  In bepaalde uitzonderingsgevallen kan door de Dienst Wegverkeer een motorrijtuig of aanhangwagen worden ingeschreven, indien ten aanzien van het motorrijtuig of de aanhangwagen, waarvoor de inschrijving wordt verlangd, niet is voldaan aan het eerste en tweede lid.   
 4.  Bij algemene maatregel van bestuur kan worden bepaald dat de ingevolge het eerste lid gestelde eisen aan de aanvrager van een inschrijving niet gelden ten aanzien van de aanvrager van een inschrijving ter zake van een kenteken als bedoeld in artikel 38.   
 5.  Ingeval de aanvrager van een inschrijving en tenaamstelling van een bromfiets de leeftijd heeft van zestien of zeventien jaar, wordt diens wettelijke vertegenwoordiger verondersteld te hebben toegestemd in de aanvraag.   
 6.  In afwijking van artikel 47 kan in bij of krachtens algemene maatregel van bestuur bepaalde gevallen een voertuig in het kentekenregister worden ingeschreven zonder tenaamstelling. Door de Dienst Wegverkeer kan worden bepaald dat deze wijze van inschrijven gevolgen heeft voor het tijdstip van de verschuldigdheid van een deel van de in het eerste lid bedoelde tarieven.   
@@ -1387,7 +1394,11 @@ b. uit het kentekenregister of een buitenlands register blijkt dat de eigenaar o
 
 ### Artikel  50  
 
-1.  De aanvrager van een tenaamstelling verschijnt persoonlijk bij een erkende instantie als bedoeld in de artikelen 61a, eerste lid, of 62, eerste lid, of een daartoe door de Dienst Wegverkeer aangewezen vestiging van deze dienst.   
+1.  De aanvrager van een tenaamstelling verschijnt persoonlijk bij een erkende instantie als bedoeld in de artikelen 61a, eerste lid, of 62, eerste lid, of een daartoe door de Dienst Wegverkeer aangewezen vestiging van deze dienst, tenzij: 
+
+a. de aanvraag namens hem wordt ingediend door degene aan wie door de Dienst Wegverkeer een erkenning als bedoeld in artikel 62 is verleend dan wel, indien dit een rechtspersoon is, door diens gemachtigde, en deze voldoende zekerheid heeft verkregen over de identiteit van de aanvrager. Daartoe legt de aanvrager een document als bedoeld in artikel 2, eerste lid, van de Paspoortwet, een geldig rijbewijs als bedoeld in artikel 107 dan wel een rijbewijs als bedoeld in artikel 108, eerste lid, onderdeel h, over. Degene die namens de aanvrager de aanvraag indient, legt bij de erkende instantie, bedoeld in artikel 61a, eerste lid, het document, bedoeld in de tweede volzin, over, alsmede de volmacht en het bewijs dat aan hem een erkenning als bedoeld in artikel 62 is verleend, of  
+
+b. volgens bij algemene maatregel van bestuur vast te stellen regels op andere wijze voldoende zekerheid kan worden verkregen over de identiteit van de aanvrager.     
 2.  Indien bij de aanvraag, bedoeld in het eerste lid, onderdeel a, gebruik wordt gemaakt van een document als bedoeld in artikel 2 van de Paspoortwet, wordt bij de aanvraag tevens een de aanvrager betreffend gewaarmerkt afschrift van de benodigde gegevens uit de basisregistratie personen overgelegd dat niet langer dan drie maanden voor het tijdstip van de aanvraag is verstrekt. Onze Minister kan de bevoegdheid van de krachtens artikel 62 erkende persoon om de aanvraag namens de aanvrager in te dienen beperken tot één of meer specifiek voor die persoon met name te noemen instanties. Bij algemene maatregel van bestuur worden regels vastgesteld ter zake van de voorwaarden waaraan degene aan wie ingevolge artikel 62 een erkenning is verleend, voldoet om als gemachtigde, bedoeld in het eerste lid, onderdeel a, op te treden.   
 3.  Bij algemene maatregel van bestuur kan worden bepaald dat de verplichting om persoonlijk te verschijnen niet geldt ten aanzien van de inschrijving en tenaamstelling ter zake van de opgave van een kenteken als bedoeld in artikel 38.   
 4.  Indien de aanvraag geschiedt door een in Nederland gevestigde rechtspersoon die dient te zijn ingeschreven in een daartoe bij de wet aangewezen register of waarvan de onderneming dient te zijn ingeschreven in het handelsregister, geldt de verplichting om persoonlijk te verschijnen voor degene die krachtens de statuten bevoegd is de rechtspersoon te vertegenwoordigen. Indien er meerdere personen bevoegd zijn de rechtspersoon te vertegenwoordigen, geldt de verplichting voor een van hen. Een persoon die bevoegd is de rechtspersoon te vertegenwoordigen, kan bij gemachtigde verschijnen.   
@@ -1484,7 +1495,7 @@ b.kentekenbewijzen in geval van vermissing van de bijbehorende kentekenplaten.
 
 ### Artikel  60  
 
-1.  De houder van een kentekenbewijs is vanaf een bij algemene maatregel van bestuur vastgesteld tijdstip op eerste vordering van bij algemene maatregel van bestuur aangewezen personen verplicht tot overgifte van bij algemene maatregel van bestuur te bepalen delen van dat bewijs, indien naar oordeel van die personen: 
+1.  De houder van een kentekenbewijs is vanaf een bij algemene maatregel van bestuur vastgesteld tijdstip op eerste vordering van bij algemene maatregel van bestuur aangewezen personen verplicht tot overgifte van bij algemene maatregel van bestuur te bepalen delen van dat bewijs, indien naar het oordeel van die personen: 
 
 a. ter zake van het voertuig, waarvoor het kentekenbewijs is afgegeven, de verschuldigde belastingen en rechten niet zijn voldaan;   
 
@@ -1513,7 +1524,7 @@ c. ten opzichte van een motorrijtuig of een aanhangwagen opzettelijk gebruik te 
 
 1.  De Dienst Wegverkeer kan aan een rechtspersoon een erkenning verlenen waardoor deze gerechtigd is, tegen betaling namens de aanvrager van een door deze dienst vast te stellen tarief, motorrijtuigen en aanhangwagens te naam te stellen in het kentekenregister.   
 2.  De erkenning houdt tevens de bevoegdheid in om namens de aanvrager de geldigheid van een kenteken te schorsen of een schorsing op te heffen conform paragraaf 6.   
-3.  Bij ministeriële regeling kunnen voorschriften worden gesteld die aan een erkenning worden verbonden en kunnen met betrekking tot die voorschriften regels worden gesteld. Deze regels betreffen tevens de hoogte van het in het eerste lid genoemde tarief dat het erkende bedrijf voor het uitvoeren van een tenaamstelling aan de Dienst Wegverkeer verschuldigd is en de wijze van betaling.   
+3.  Bij ministeriële regeling kunnen voorschriften worden gesteld die aan een erkenning worden verbonden en kunnen met betrekking tot die voorschriften regels worden gesteld.   
 4.  Bij besluit van de Dienst Wegverkeer wordt de maximale hoogte vastgesteld van de prijs die een erkend bedrijf aan de aanvrager in rekening mag brengen voor zijn dienstverlening.  
 
 ### Artikel  61b  
@@ -1539,7 +1550,7 @@ b. de verplichtingen, vervat in artikel 5:20, eerste lid, van de Algemene wet be
 
 c. handelt in strijd met een of meer andere uit de erkenning voortvloeiende verplichtingen.     
 4.  De Dienst Wegverkeer kan in de gevallen, bedoeld in het derde lid, een erkenning schorsen voor een door hem daarbij vast te stellen termijn die ten hoogste twaalf weken bedraagt.   
-5.  De Dienst Wegverkeer kan in de gevallen, bedoeld in het derde lid, bepalen dat een wachttijd geldt voor het aanvragen van een erkenning van maximaal 30 maanden.   
+5.  De Dienst Wegverkeer kan in de gevallen, bedoeld in het eerste en derde lid, bepalen dat een wachttijd geldt voor het aanvragen van een erkenning van maximaal 30 maanden.   
 6.  Bij ministeriële regeling kunnen nadere regels worden vastgesteld met betrekking tot het intrekken, wijzigen en schorsen van de erkenning.  
 
 ### Artikel  61e  
@@ -1556,7 +1567,7 @@ Het is een ieder aan wie niet een erkenning als bedoeld in artikel 61a is verlee
 2.   Aan de erkenning kunnen bij algemene maatregel van bestuur aangewezen bevoegdheden worden verbonden; een zodanige bevoegdheid maakt deel uit van de erkenning. Het in de artikelen 62 tot en met 66 ten aanzien van erkenningen bepaalde is van overeenkomstige toepassing op bedoelde bevoegdheden.    
 3.   De erkenning geldt voor de in de erkenning aangewezen groep of groepen van voertuigen en kan gelden voor bepaalde of voor onbepaalde tijd.    
 4.  Bij ministeriële regeling kunnen voorschriften worden vastgesteld die aan een erkenning worden verbonden en kunnen met betrekking tot die voorschriften regels worden vastgesteld.    
-5.   De in artikel 50, eerste lid, aanhef bedoelde verplichting om bij de aanvraag tot inschrijving in het kentekenregister en tenaamstelling persoonlijk te verschijnen bij een bij ministeriële regeling aangewezen instantie, geldt niet voor natuurlijke personen of rechtspersonen aan wie een erkenning als bedoeld in het eerste lid is verleend.   
+5.   De in artikel 50, eerste lid, aanhef bedoelde verplichting om bij de aanvraag tot inschrijving in het kentekenregister en tenaamstelling persoonlijk te verschijnen bij een erkende instantie als bedoeld in artikel 61a, eerste lid, of in het eerste lid, geldt niet voor natuurlijke personen of rechtspersonen aan wie een erkenning als bedoeld in het eerste lid is verleend.   
 
 ### Artikel  63  
 
@@ -1581,7 +1592,7 @@ b. de verplichtingen, vervat in artikel 5:20, eerste lid, van de Algemene wet be
 
 c. handelt in strijd met een of meer andere uit de erkenning voortvloeiende verplichtingen.      
 3.   De Dienst Wegverkeer kan in de gevallen, bedoeld in het tweede lid, een erkenning schorsen voor een door hem daarbij vast te stellen termijn die ten hoogste twaalf weken bedraagt.    
-4.  De Dienst Wegverkeer kan in de gevallen, bedoeld in het tweede lid, bepalen dat een wachttijd geldt voor het aanvragen van een erkenning van maximaal 30 maanden. 
+4.  De Dienst Wegverkeer kan in de gevallen, bedoeld in het eerste en tweede lid, bepalen dat een wachttijd geldt voor het aanvragen van een erkenning van maximaal 30 maanden. 
 
 ### Artikel  65a  
 
@@ -1640,8 +1651,7 @@ Het is een ieder aan wie niet een erkenning als bedoeld in artikel 66a is verlee
 2.   De hoogte van het in het eerste lid bedoelde tarief kan voor verschillende groepen voertuigen dan wel eigenaren of houders van voertuigen verschillend worden vastgesteld. Voor aanvragen die worden ingediend binnen een jaar na de aanvraag van een schorsing welke ingevolge artikel 68, eerste lid, onderdelen a en d, is geëindigd, kan het tarief hoger worden vastgesteld dan het tarief voor laatstgenoemde aanvraag.    
 3.   De aanvraag van een schorsing dient te geschieden overeenkomstig bij algemene maatregel van bestuur vastgestelde regels.    
 4.   Bij ministeriële regeling worden nadere regels vastgesteld omtrent het krachtens het derde lid bepaalde.    
-5.   De Dienst Wegverkeer plaatst bij het verlenen van de schorsing overeenkomstig bij algemene maatregel van bestuur vastgestelde regels in het kentekenregister een aantekening waaruit blijkt dat schorsing is verleend.    
-6.   Bij ministeriële regeling worden nadere regels vastgesteld omtrent de aantekening van schorsing, bedoeld in het vijfde lid.   
+5.   De Dienst Wegverkeer plaatst bij het verlenen van de schorsing overeenkomstig bij algemene maatregel van bestuur vastgestelde regels in het kentekenregister een aantekening waaruit blijkt dat schorsing is verleend.   
 
 ### Artikel  68  
 
@@ -1730,20 +1740,24 @@ Het is een ieder aan wie niet een erkenning als bedoeld in artikel 70a is verlee
 
 Bij de verkrijging van een kentekenplaat worden de bij ministeriële regeling aangewezen identiteitsdocumenten en overige documenten overgelegd. 
 
-###Artikel 70i 
+### Artikel  70i  
 
-1. In geval van overdracht van een motorrijtuig of aanhangwagen aan een erkend bedrijf als bedoeld in artikel 62, ten behoeve van uitvoer naar het buitenland of voorgoed buiten gebruikstelling, is de eigenaar of houder verplicht tot inlevering van de betrokken kentekenplaten bij dat bedrijf tegelijk met de overdracht.
-2. In geval van uitvoer naar het buitenland anders dan door een erkend bedrijf als bedoeld in artikel 62, is de eigenaar of houder van het motorrijtuig of de aanhangwagen verplicht tot inlevering van de betrokken kentekenplaten bij de Dienst Wegverkeer tegelijk met de uitvoer.
-3. Indien het kentekenbewijs zijn geldigheid heeft verloren, anders dan in geval van het eerste of het tweede lid, kan de Dienst Wegverkeer verlangen dat de betrokken kentekenplaten binnen een bepaalde termijn bij deze dienst worden ingeleverd.
+1.  De eigenaar of houder van een motorrijtuig of aanhangwagen is verplicht in geval van: 
 
-###Artikel 70j 
+a. overdracht van dat motorrijtuig of die aanhangwagen aan een erkend bedrijf als bedoeld in artikel 62 ten behoeve van uitvoer naar het buitenland of voorgoed buitengebruikstelling, tot inlevering van de betrokken kentekenplaten bij dat bedrijf tegelijk met de overdracht;  
 
-1. Indien de betrokken kentekenplaten overeenkomstig artikel 70i worden ingeleverd bij de Dienst Wegverkeer onderscheidenlijk een erkend bedrijf als bedoeld in artikel 62 is deze dienst, onderscheidenlijk dit bedrijf verplicht tot het vastleggen van gegevens omtrent van:
+b. beëindiging van de tenaamstelling van dat motorrijtuig of die aanhangwagen door een erkend bedrijf als bedoeld in artikel 66a ten behoeve van uitvoer naar het buitenland, tot inlevering van de betrokken kentekenplaten bij dat bedrijf tegelijk met de beëindiging van de tenaamstelling.     
+2.  In geval van uitvoer naar het buitenland anders dan door een erkend bedrijf als bedoeld in artikel 62 of artikel 66a, is de eigenaar of houder van het motorrijtuig of de aanhangwagen verplicht tot inlevering van de betrokken kentekenplaten bij de Dienst Wegverkeer tegelijk met de uitvoer.   
+3.  Indien het kentekenbewijs zijn geldigheid heeft verloren, anders dan in geval van het eerste of het tweede lid, kan de Dienst Wegverkeer verlangen dat de betrokken kentekenplaten binnen een bepaalde termijn bij deze dienst worden ingeleverd.  
 
-a.het betrokken kenteken, en
+### Artikel  70j  
 
-b.het aantal ingeleverde kentekenplaten.De artikelen 70b, vierde tot en met zesde lid, en 70c zijn van overeenkomstige toepassing
-2. De Dienst Wegverkeer, onderscheidenlijk het erkende bedrijf, is voorts, overeenkomstig bij ministeriële regeling vast te stellen regels, verplicht tot vernietiging van de ingeleverde kentekenplaten en tot registratie van de vernietiging.
+1.  Indien de betrokken kentekenplaten overeenkomstig artikel 70i worden ingeleverd bij de Dienst Wegverkeer onderscheidenlijk een erkend bedrijf als bedoeld in artikel 62 of artikel 66a is deze dienst, onderscheidenlijk dit bedrijf verplicht tot het vastleggen van gegevens omtrent van:  
+
+a. het betrokken kenteken, en  
+
+b. het aantal ingeleverde kentekenplaten.   De artikelen 70b, vierde tot en met zesde lid, en 70c zijn van overeenkomstige toepassing   
+2.  De Dienst Wegverkeer, onderscheidenlijk het erkende bedrijf, is voorts, overeenkomstig bij ministeriële regeling vast te stellen regels, verplicht tot vernietiging van de ingeleverde kentekenplaten en tot registratie van de vernietiging.  
 
 ###Hoofdstuk IVA 
 
@@ -1889,8 +1903,8 @@ Degene die ingevolge artikel 78 met de afgifte van keuringsbewijzen is belast, d
 
 ### Artikel  80  
 
-1.   De Dienst Wegverkeer geeft voor keuringsbewijzen die versleten of geheel of ten dele onleesbaar zijn, dan wel verloren zijn geraakt of teniet zijn gegaan, op aanvraag en tegen betaling, op de door deze dienst vastgestelde wijze, van het daarvoor door deze dienst vastgestelde tarief vervangende keuringsbewijzen af.   
-2.   Een vervangend keuringsbewijs wordt niet afgegeven dan nadat het versleten of geheel of ten dele onleesbaar geworden bewijs is ingeleverd bij de Dienst Wegverkeer.   
+1.   De Dienst Wegverkeer of de erkenninghouder geeft voor keuringsbewijzen die versleten of geheel of ten dele onleesbaar zijn, dan wel verloren zijn geraakt of teniet zijn gegaan, op aanvraag en tegen betaling, op de door deze dienst vastgestelde wijze, van het daarvoor door deze dienst vastgestelde tarief vervangende keuringsbewijzen af.   
+2.   Een vervangend keuringsbewijs wordt niet afgegeven dan nadat het versleten of geheel of ten dele onleesbaar geworden bewijs is ingeleverd bij de Dienst Wegverkeer of de erkenninghouder.  
 
 ### §  4  
 
@@ -1936,7 +1950,7 @@ De erkende natuurlijke personen of rechtspersonen zijn verplicht het door de aan
 3.  De bevoegdheid voertuigen aan een keuring te onderwerpen wordt verleend indien de natuurlijke persoon beschikt over een examencertificaat van een door Onze Minister aangewezen exameninstantie en overigens voldoet aan bij ministeriële regeling vastgestelde eisen. Daarbij kan aan de Dienst Wegverkeer de bevoegdheid worden verleend voorwaarden vast te stellen ten aanzien van het voldoen aan deze eisen.   
 4.  Bij ministeriële regeling worden regels vastgesteld met betrekking tot de aanvraag tot het verlenen van de bevoegdheid voertuigen aan een keuring te onderwerpen en met betrekking tot de bevoegdheidspas.   
 5.  Bij ministeriële regeling kunnen voorschriften worden vastgesteld die aan de bevoegdheid voertuigen aan een keuring te onderwerpen worden verbonden en kunnen met betrekking tot die voorschriften regels worden vastgesteld.   
-6. Het tarief voor het examen dat de natuurlijke persoon dient af te leggen om het in het derde lid bedoelde certificaat te verkrijgen, behoeft de goedkeuring van Onze Minister.
+6.  Artikel 17, eerste lid, van de Kaderwet zelfstandige bestuursorganen is van overeenkomstige toepassing op het vaststellen van het tarief voor het examen dat de natuurlijke persoon dient af te leggen om het in het derde lid bedoelde certificaat te verkrijgen. 
 
 ### Artikel  86  
 
@@ -1974,7 +1988,7 @@ e. weigert een keuringsbewijs af te geven voor een motorrijtuig of een aanhangwa
 
 f. handelt in strijd met een of meer andere uit de erkenning voortvloeiende verplichtingen.      
 3.   De Dienst Wegverkeer kan in de gevallen, bedoeld in het tweede lid, onderdelen *a, d* en *f*, een erkenning schorsen voor een door hem daarbij vast te stellen termijn die ten hoogste twaalf weken bedraagt.    
-4.  De Dienst Wegverkeer kan in de gevallen, bedoeld in het tweede lid, bepalen dat een wachttijd geldt voor het aanvragen van een erkenning van maximaal 30 maanden. 
+4.  De Dienst Wegverkeer kan in de gevallen, bedoeld in het eerste en tweede lid, bepalen dat een wachttijd geldt voor het aanvragen van een erkenning van maximaal 30 maanden. 
 
 ### Artikel  87a  
 
@@ -1985,7 +1999,8 @@ a. niet meer voldoet aan de voor de bevoegdheid voertuigen aan een keuring te on
 
 b. in strijd met de regels, bedoeld in artikel 76, derde lid, een voertuig aan een onderzoek onderwerpt,  
 
-c. handelt in strijd met een of meer andere uit de bevoegdheid voertuigen aan een keuring te onderwerpen voortvloeiende verplichtingen.    
+c. handelt in strijd met een of meer andere uit de bevoegdheid voertuigen aan een keuring te onderwerpen voortvloeiende verplichtingen.     
+3.  De Dienst Wegverkeer kan in de gevallen, bedoeld in het tweede lid, onderdelen a en c, de bevoegdheid voertuigen aan een keuring te onderwerpen schorsen voor een door deze dienst daarbij vast te stellen termijn die ten hoogste twaalf weken bedraagt. 
 
 ### Artikel  88  
 
@@ -2281,7 +2296,7 @@ Het is verboden voor het verkrijgen van een rijbewijs opzettelijk onjuiste opgav
 
 ### Artikel  115  
 
-1.  Degene die is belast met de afgifte van rijbewijzen, en die in het kader van de aanvraag of de uitreiking van een nieuw rijbewijs of een vervangend rijbewijs de beschikking krijgt over een rijbewijs waarvan ingevolge een der artikelen 130, tweede lid, of 164 de overgifte is gevorderd, waarvan ingevolge de Wet administratiefrechtelijke handhaving verkeersvoorschriften de inlevering is gevorderd of ten aanzien waarvan ingevolge een der artikelen 120, derde lid, 123b, vierde lid, 124, vierde lid, 131, tweede lid, onderdeel b, 132, vijfde lid, 132b, tweede lid, 134, vierde lid, of 180, vierde lid, van deze wet een verplichting tot inlevering bestaat, is bevoegd dat rijbewijs in te nemen en het door te begeleiden naar het betrokken parket van het openbaar ministerie dan wel naar degene bij wie de houder dat rijbewijs had dienen in te leveren.    
+1.  Degene die is belast met de afgifte van rijbewijzen, en die in het kader van de aanvraag of de uitreiking van een nieuw rijbewijs of een vervangend rijbewijs de beschikking krijgt over een rijbewijs waarvan ingevolge een der artikelen 130, tweede lid, of 164 de overgifte is gevorderd, waarvan ingevolge de Wet administratiefrechtelijke handhaving verkeersvoorschriften de inlevering is gevorderd of ten aanzien waarvan ingevolge een der artikelen 119, vierde lid, 120, derde lid, 123b, vierde lid, 124, vierde lid, 131, tweede lid, onderdeel b, 132, vijfde lid, 132b, tweede lid, 134, vierde lid, of 180, vierde lid, van deze wet een verplichting tot inlevering bestaat, is bevoegd dat rijbewijs in te nemen en het door te begeleiden naar het betrokken parket van het openbaar ministerie dan wel naar degene bij wie de houder dat rijbewijs had dienen in te leveren.    
 2.   Degene die is belast met de afgifte van rijbewijzen, en die in het kader van de aanvraag of de uitreiking van een nieuw rijbewijs of een vervangend rijbewijs de beschikking krijgt over een rijbewijs dat zijn geldigheid heeft verloren ingevolge artikel 123, eerste lid, aanhef en onderdeel d, of artikel 123b is bevoegd dat rijbewijs in te nemen en door te geleiden naar degene bij wie de houder dat rijbewijs had dienen in te leveren.    
 3.  Voor de toepassing van het eerste en het tweede lid wordt onder een rijbewijs mede verstaan een rijbewijs, afgegeven door het daartoe bevoegde gezag in een andere Lid-Staat van de Europese Gemeenschappen of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland, waarvan de houder in Nederland woonachtig is.   
 4.   Bij ministeriële regeling kunnen regels worden vastgesteld ter uitvoering van het eerste en het tweede lid.   
@@ -2694,7 +2709,7 @@ b. het huren dan wel kopen, het inbouwen, het uitlezen, het testen, het kalibrer
 
 ### Artikel  132e  
 
-1.  In het kader van het alcoholslotprogramma wordt uitsluitend gebruik gemaakt van een alcoholslot dat is voorzien van een typegoedkeuring, verleend door de Dienst Wegverkeer, of een daaraan bij ministeriële regeling gelijkgesteld alcoholslot. De typegoedkeuring van het alcoholslot en de daarbij behorende uitleesapplicatie wordt op aanvraag en tegen betaling, op de door de Dienst Wegverkeer vastgestelde wijze, van het daarvoor door deze dienst vastgestelde tarief door deze dienst verleend, indien door de dienst is vastgesteld dat het alcoholslot aan de bij ministeriële regeling gestelde eisen voldoet en indien het productieproces van de alcoholsloten van het desbetreffende type is goedgekeurd. De artikelen 22, derde en vierde lid, 22b, 23, 23a en 25a tot en met 25e zijn van overeenkomstige toepassing.   
+1.  In het kader van het alcoholslotprogramma wordt uitsluitend gebruik gemaakt van een alcoholslot dat is voorzien van een typegoedkeuring, verleend door de Dienst Wegverkeer, of een daaraan bij ministeriële regeling gelijkgesteld alcoholslot. De typegoedkeuring van het alcoholslot en de daarbij behorende uitleesapplicatie wordt op aanvraag en tegen betaling, op de door de Dienst Wegverkeer vastgestelde wijze, van het daarvoor door deze dienst vastgestelde tarief door deze dienst verleend, indien door de dienst is vastgesteld dat het alcoholslot aan de bij ministeriële regeling gestelde eisen voldoet en indien het productieproces van de alcoholsloten van het desbetreffende type is goedgekeurd. De artikelen 22, vierde en vijfde lid, 22b, 23, 23a en 25a tot en met 25e zijn van overeenkomstige toepassing.   
 2.  Na verwijdering van het alcoholslot vindt controle van het uitgebouwde alcoholslot plaats door degene die overeenkomstig het goedgekeurde productieproces als bedoeld in het eerste lid produceert.   
 3.  Bij ministeriële regeling worden regels gesteld betreffende de aanvraag tot goedkeuring van een type alcoholslot, de eisen waaraan de alcoholsloten dienen te voldoen, de onderzoeken waaraan zij dienen te zijn onderworpen, het door de aanvrager ter beschikking stellen van alcoholsloten, de wijze waarop de overdracht van de gegevens uit het alcoholslot naar het alcoholslotregister plaatsvindt, het door de aanvrager overleggen van bescheiden en het verstrekken van inlichtingen ter zake van de keuring, het testrapport, de intrekking van een dergelijke goedkeuring, de controle van een alcoholslot als bedoeld in het tweede lid, en de onderzoeken waaraan het alcoholslot in dat kader wordt onderworpen.   
 4.  De Dienst Wegverkeer, dan wel de door hem aangewezen technische dienst als bedoeld in het eerste lid, onderwerpt voorafgaand aan een eerste inbouw een bij ministeriële regeling vastgesteld aantal typegoedgekeurde alcoholsloten aan een steekproefsgewijze keuring. Hetzelfde geldt voor typegoedgekeurde alcoholsloten, ten aanzien waarvan een controle heeft plaatsgevonden als bedoeld in het tweede lid. Degene die overeenkomstig het goedgekeurde productieproces, bedoeld in het eerste lid, produceert, is verplicht zijn medewerking te verlenen aan deze steekproefsgewijze keuringen. Bij ministeriële regeling worden regels gesteld ten aanzien van de wijze waarop de in dit lid bedoelde keuringen worden uitgevoerd, het door de aanvrager ter beschikking stellen van alcoholsloten, het door de aanvrager overleggen van bescheiden en het verstrekken van inlichtingen ter zake van de keuring en de maatregelen die de Dienst Wegverkeer kan treffen. Intensivering van de steekproefsgewijze controle of het stellen van een termijn om de gebreken te herstellen, kunnen daarvan deel uitmaken.   
@@ -2778,7 +2793,7 @@ h. de maatregelen die zullen worden getroffen voor het geval de erkenning geheel
 5.  Degene van wie de erkenning wordt ingetrokken stelt onverwijld de vereiste informatie en instrumenten benodigd voor het uitlezen, het testen, het kalibreren, het onderhouden en het verwijderen van de in artikel 132f, eerste lid, bedoelde alcoholsloten ter beschikking van de Dienst Wegverkeer, alsmede de daartoe door de Dienst Wegverkeer aangewezen instantie of instanties.   
 6.  De Dienst Wegverkeer stelt onverwijld het CBR in kennis van een opgelegde schorsing of een ingetrokken erkenning.   
 7.  De Dienst Wegverkeer kan in de door de dienst vastgestelde gevallen de keuringsinstelling, bedoeld in artikel 132e, eerste lid, in kennis stellen van een opgelegde schorsing of een ingetrokken erkenning.   
-8.  De Dienst Wegverkeer kan in de gevallen, bedoeld in het tweede lid, bepalen dat een wachttijd geldt voor het aanvragen van een erkenning van maximaal 30 maanden.   
+8.  De Dienst Wegverkeer kan in de gevallen, bedoeld in het eerste en tweede lid, bepalen dat een wachttijd geldt voor het aanvragen van een erkenning van maximaal 30 maanden.   
 9.  Bij ministeriële regeling kunnen nadere regels worden vastgesteld ter uitvoering van dit artikel.  
 
 ### Artikel  132j  
@@ -2837,7 +2852,7 @@ b. indien de erkenning, bedoeld in artikel 132f, eerste lid, wordt ingetrokken.
 4.  Bij de schorsing of de intrekking van de erkenning in de gevallen, bedoeld in het eerste lid, onderdeel a, en het tweede lid, worden de lopende verplichtingen van de erkenninghouder betreffende het uitlezen, het testen, het kalibreren, het onderhouden en het verwijderen van het alcoholslot, alsmede de daarmee samenhangende informatieverplichtingen, voortvloeiend uit het bij of krachtens deze wet bepaalde, verricht door een door erkenninghouder als bedoeld in artikel 132f, eerste lid, te bepalen natuurlijke persoon of rechtspersoon of instantie die beschikt over de in artikel 132k, eerste lid, bedoelde erkenning.   
 5.  Bij intrekking van de erkenning, bedoeld in artikel 132f, eerste lid, worden de lopende verplichtingen van de erkenninghouder betreffende het uitlezen, het testen, het kalibreren, het onderhouden, het vervangen en het verwijderen van het alcoholslot, alsmede de daarmee samenhangende informatieverplichtingen, voortvloeiend uit het bij of krachtens deze wet bepaalde verricht door een daartoe door de Dienst Wegverkeer aangewezen instantie of instanties. Artikel 132i, vijfde lid, is van overeenkomstige toepassing.   
 6.  De Dienst Wegverkeer kan in de door de dienst vastgestelde gevallen de in artikel 132e bedoelde keuringsinstelling in kennis stellen van een opgelegde schorsing of een ingetrokken erkenning.   
-7.  De Dienst Wegverkeer kan in de gevallen, bedoeld in het tweede lid, bepalen dat een wachttijd geldt voor het aanvragen van een erkenning van maximaal 30 maanden.   
+7.  De Dienst Wegverkeer kan in de gevallen, bedoeld in het eerste en tweede lid, bepalen dat een wachttijd geldt voor het aanvragen van een erkenning van maximaal 30 maanden.   
 8.  Bij ministeriële regeling kunnen nadere regels worden vastgesteld ter uitvoering van dit artikel.  
 
 ### Artikel  132o  
@@ -3012,7 +3027,6 @@ d. voor andere wegen door burgemeester en wethouders of krachtens besluit van he
 7. De wegbeheerder ontvangt voor het verstrekken van gegevens en informatie, bedoeld in het eerste lid, en voor het verlenen van toestemming, bedoeld in het tweede lid, van de Dienst Wegverkeer een bij ministeriële regeling vastgestelde vergoeding, die is gebaseerd op het aantal en de aard van de verleende ontheffingen voor wegen die onder zijn beheer staan.
 
 ### Artikel  149c  
-Treedt in werking per 01-01-2015 
 
 In afwijking van artikel 149, eerste lid, kan uitsluitend door Onze Minister ontheffing worden verleend of geweigerd van het bepaalde krachtens artikel 16, vierde lid, overeenkomstig bij of krachtens algemene maatregel van bestuur vastgestelde regels. 
 
@@ -3173,7 +3187,6 @@ Een wijziging van de richtlijn vakbekwaamheid bestuurders gaat voor de toepassin
 Verkeerstekens die niet worden geplaatst of verwijderd krachtens een verkeersbesluit, worden geplaatst en verwijderd op kosten van het openbaar lichaam dat het beheer heeft over de weg of, indien geen openbaar lichaam het beheer heeft, de eigenaar van de weg.  
 
 ### Artikel  153a  
-Treedt in werking per 01-01-2015 
 
 1.  De kosten voor het door Onze Minister: 
 
@@ -3211,7 +3224,7 @@ Bij algemene maatregel van bestuur kan worden bepaald in welke gevallen en op we
 ### Artikel  158  
 
 1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet, met uitzondering van de hoofdstukken IA, IB en IC, zijn belast de in artikel 159 bedoelde personen en de bij besluit van Onze Minister aangewezen personen, voor zover bij dat besluit is bepaald. Zij beschikken daartoe over de in artikel 160, vierde lid, genoemde bevoegdheid met betrekking tot het vervoeren van personen en over de bevoegdheid, genoemd in artikel 160, vijfde lid.  
-2.  Met het toezicht op de naleving van het bepaalde bij of krachtens de artikelen 34 en 35 zijn voorts belast de bij besluit van Onze Minister in overeenstemming met Onze Minister van Economische Zaken, Landbouw en Innovatie aangewezen ambtenaren.    
+2.  Met het toezicht op de naleving van het bepaalde bij of krachtens de artikelen 34 en 35 zijn voorts belast de bij besluit van Onze Minister in overeenstemming met Onze Minister van Economische Zaken aangewezen ambtenaren.    
 3.  Van een besluit als bedoeld in het eerste of tweede lid wordt mededeling gedaan door plaatsing in de *Staatscourant*.   
 
 ### Artikel  159  
@@ -3432,7 +3445,7 @@ b.  gevangenisstraf van ten hoogste drie jaren of geldboete van de vierde catego
 
 1.  Overtreding van:  
 
-a. de artikelen 5, 9, achtste lid, 10, eerste lid, 12, eerste lid, 33, 36, eerste tot en met vijfde lid, 40, eerste lid, 48, zevende lid, 60, eerste en tweede lid, 70a, tweede lid, 70i, eerste en tweede lid, 72, eerste en tweede lid, 107, eerste en tweede lid, 110, 110b, 119, vierde lid, 120, derde lid, 123b, vierde lid, 124, vierde lid, 124a, derde lid, 130, tweede lid, 132, vijfde lid, 132b, tweede lid, 134, vierde lid, 150, tweede lid, 151c, eerste lid, 160, 164, eerste lid, 165, eerste lid, 166, eerste lid,   
+a. de artikelen 5, 9, achtste lid, 10, eerste lid, 12, eerste lid, 33, 36, eerste tot en met vijfde lid, 40, eerste lid, 47, 48, zevende lid, 60, eerste en tweede lid, 70a, tweede lid, 70i, eerste en tweede lid, 72, eerste en tweede lid, 107, eerste en tweede lid, 110, 110b, 119, vierde lid, 120, derde lid, 123b, vierde lid, 124, vierde lid, 124a, derde lid, 130, tweede lid, 132, vijfde lid, 132b, tweede lid, en 134, vierde lid, 132b, tweede lid, 134, vierde lid, 150, tweede lid, 151c, eerste lid, 160, 164, eerste lid, 165, eerste lid, 166, eerste lid,   
 
 b. het bepaalde ingevolge de artikelen 52c, derde lid, 70i, derde lid en artikel 131, tweede lid, onderdeel b,   
 

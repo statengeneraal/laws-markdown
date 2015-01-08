@@ -51,7 +51,7 @@ q.  schaap: dier dat behoort tot de familie der Bovidae en het geslacht Ovis;
 
 r.  geit: dier dat behoort tot de familie der Bovidae en het geslacht Capra;  
 
-s.  dieren: runderen, varkens, slachtvarkens, schapen en geiten;  
+s.  dieren: runderen, varkens, slachtvarkens, schapen, geiten en gevogelte;  
 
 t.  vervallen;  
 
@@ -109,11 +109,24 @@ qq.  *wet:* Gezondheids- en welzijnswet voor dieren;
 
 rr.  *I&R-systeem:* door de bevoegde autoriteit bijgehouden, gecentraliseerd en gecomputeriseerd gegevensbestand als bedoeld in artikel 5 van verordening 1760/2000 of artikel 5 van verordening 21/2004; 
 
-ss:  *Verordening (EG) nr. 504/2008:* Verordening (EG) nr. 504/2008 van de Commissie van 6 juni 2008 ter uitvoering van de Richtlijnen 90/426/EEG en 90/427/EEG van de Raad wat betreft methoden voor de identificatie van paardachtigen (PbEU 2008, L 149).  
+ss:  *Verordening (EG) nr. 504/2008:* Verordening (EG) nr. 504/2008 van de Commissie van 6 juni 2008 ter uitvoering van de Richtlijnen 90/426/EEG en 90/427/EEG van de Raad wat betreft methoden voor de identificatie van paardachtigen (PbEU 2008, L 149); 
+
+tt.*verordening 1069/2009:* Verordening (EG) nr. 1069/2009 van het Europees Parlement en de Raad van 21 oktober 2009 tot vaststelling van gezondheidsvoorschriften inzake niet voor menselijke consumptie bestemde dierlijke bijproducten en afgeleide producten en tot intrekking van Verordening (EG) nr. 1774/2002 (verordening dierlijke bijproducten) (PbEU 2009, L 300);
+
+uu.*verordening 617/2008:* Verordening (EG) nr. 617/2008 van de Commissie van 27 juni 2008 houdende bepalingen ter uitvoering van Verordening (EG) nr. 1234/2007 van de Raad, wat betreft de handelsnormen voor broedeieren en kuikens van pluimvee (PbEU 2008, L 168);
+
+vv.*verordening (EG) nr. 1234/2007:* verordening (EG) nr. 1234/2007 van de Raad van 22 oktober 2007 houdende een gemeenschappelijke ordening van de landbouwmarkten en specifieke bepalingen voor een aantal landbouwproducten (‘Integrale-GMO-verordening’) (PbEG 2007, L 299);
+
+ww.*inrichting:* een perceelsgebonden ruimte of verzameling van ruimtes die worden gebruikt voor dezelfde houderijvorm. 
 
 ### § 2 
 
 ####Registratie van houders van dieren 
+
+### Artikel  1a  
+
+1.  In deze paragraaf wordt onder gevogelte verstaan: kippen, kalkoenen, parelhoenders, eenden, ganzen, kwartels, duiven, fazanten, patrijzen en loopvogels.   
+2.  Deze paragraaf is niet van toepassing op degene die minder dan 250 stuks gevogelte houdt, met uitzondering van degene die een bedrijf als bedoeld in Bijlage XIV, onderdeel C, onder I, subonderdeel 2, van verordening (EG) nr. 1234/2007 heeft.  
 
 ### Artikel  2  
 
@@ -135,21 +148,41 @@ f. voor zover de houder varkens houdt, de gegevens, bedoeld in artikel 1, tweede
 4. Na de aanmelding, bedoeld in het eerste lid, worden de gegevens die de houder op grond van het derde lid heeft gemeld geregistreerd in een gecomputeriseerd gegevensbestand.
 5. Voor zover op een bedrijf één of meer varkens worden gehouden, zijn van het bedrijf in het gecomputeriseerde gegevensbestand, bedoeld in het vierde lid, tevens de gegevens, bedoeld in artikel 1, eerste lid, onderdeel e, van beschikking 2000/678/EG en gegevens over de oormerkafgifte opgenomen.  
 6.  Voor zover op een bedrijf één of meer schapen of geiten worden gehouden, zijn van het bedrijf in het gecomputeriseerde gegevensbestand, bedoeld in het vierde lid, tevens de gegevens, bedoeld in deel D, onderdeel 1, punten b tot en met e en g, van de bijlage bij verordening 21/2004 opgenomen. 
-7. De ingevolge het derde lid verstrekte gegevens kunnen mede worden gebruikt voor de kwaliteitsbeoordeling van een PRTR-verslag, bedoeld in artikel 9, tweede lid, van de EG-verordening PRTR.
+7. Een houder van gevogelte verstrekt ten behoeve van opname in het gecomputeriseerde gegevensbestand, bedoeld in het vierde lid, in aanvulling op de gegevens, bedoeld in het derde lid, de volgende gegevens: 
+
+a. het soort gevogelte dat wordt gehouden;  
+
+b. de categorie gevogelte die wordt gehouden;  
+
+c. het doel waarvoor het gevogelte wordt gehouden;  
+
+d. het type inrichting waarin het gevogelte wordt gehouden;  
+
+e. indien van toepassing de maximale capaciteit, oppervlakte en de houderijvorm per stal;  
+
+f. het nummer of de aanduiding per stal.  
+8. De ingevolge het derde lid verstrekte gegevens kunnen mede worden gebruikt voor de kwaliteitsbeoordeling van een PRTR-verslag, bedoeld in artikel 9, tweede lid, van de EG-verordening PRTR.
 
 ### Artikel  3  
 
-De minister stelt de gegevens, bedoeld in artikel 2, onder vermelding van het ter identificatie van het bedrijf toegekende UBN en de gegevens die de houder op grond van artikel 2, derde lid, heeft gemeld, op verzoek aan de houder beschikbaar. 
+1.  Nadat de melding, bedoeld in artikel 2, heeft plaatsgevonden, kent de minister een UBN toe ter identificatie van het bedrijf.   
+2.  Indien het een houder van gevogelte betreft, kent de minister een registratienummer toe ter identificatie van iedere inrichting waar gevogelte worden gehouden.   
+3.  De minister stelt de gegevens die ten aanzien van een houder zijn opgenomen in het gecomputeriseerde gegevensbestand, bedoeld in artikel 2, vierde lid, onder vermelding van het UBN en, indien van toepassing, het registratienummer, op verzoek aan de houder beschikbaar.  
 
 ### Artikel  4  
 
 1. Van iedere wijziging van de gegevens, bedoeld in artikel 2, derde lid, doet de houder binnen 30 dagen nadat deze wijziging zich heeft voorgedaan opgave onder vermelding van het UBN van het betrokken bedrijf. 
-2. Van iedere wijziging van de gegevens, bedoeld in deel D, onderdeel 1, punten b tot en met e en g, van de bijlage bij verordening 21/2004 die ingevolge artikel 2, zesde lid, in het gecomputeriseerde gegevensbestand zijn opgenomen, doet de houder van schapen en geiten binnen 30 dagen nadat deze wijziging zich heeft voorgedaan opgave onder vermelding van het UBN van het betrokken bedrijf. 
-3.  Bij wijziging van de locatie van het bedrijf wordt een nieuwe aanmelding als bedoeld in artikel 2 gedaan.  
+2. Van iedere wijziging van de gegevens, bedoeld in deel D, onderdeel 1, punten b tot en met e en g, van de bijlage bij verordening 21/2004 die ingevolge artikel 2, zesde lid, in het gecomputeriseerde gegevensbestand zijn opgenomen, doet de houder van schapen en geiten binnen 30 dagen nadat deze wijziging zich heeft voorgedaan opgave onder vermelding van het UBN van het betrokken bedrijf.
+3. Van iedere wijziging van de gegevens, bedoeld in artikel 2, zevende lid, doet de houder binnen 30 dagen nadat deze wijziging zich heeft voorgedaan opgave onder vermelding van het registratienummer van de betrokken inrichting. 
+4.  Bij wijziging van de locatie van het bedrijf wordt een nieuwe aanmelding als bedoeld in artikel 2 gedaan.  
 
 ### Artikel  5  
 
 De gegevens, bedoeld in artikel 2, derde lid, worden in het gecomputeriseerde gegevensbestand bewaard tot drie jaar nadat de houder ingevolge artikel 4 opgave heeft gedaan dat hij de betrokken diersoort niet meer houdt.  
+
+### Artikel  5a  
+
+De artikelen 2, eerste tot en met vierde en zevende lid, 3, 4, eerste, derde en vierde lid, en 5, zijn van overeenkomstige toepassing op degene die eieren, afkomstig van gevogelte, die bestemd zijn om te worden bebroed, onder zich houdt en verhandelt en indien Verordening 617/2008 van toepassing is, daartoe een capaciteit heeft voor 1.000 of meer eieren. 
 
 ### § 3 
 
@@ -974,6 +1007,139 @@ d. de naam van de instantie, bedoeld in artikel 38v, derde of vierde lid, dat he
 2.  Indien bij de in het eerste lid bedoelde controle blijkt dat paarden niet volledig zijn geïdentificeerd en geregistreerd of op grond van de identificatie en registratie niet geslacht mogen worden voor menselijke consumptie, doet de houder hiervan terstond melding aan de NVWA.   
 3.  De paarden, bedoeld in het tweede lid, worden terstond afgezonderd van de overige paarden in het slachthuis. De ambtenaar van de NVWA kan ter zake aanwijzingen geven.  
 
+### §  7c  
+
+####Registratie van gevogelte
+
+### Artikel  38cc  
+
+1.  In deze paragraaf wordt onder gevogelte verstaan: kippen, kalkoenen, parelhoenders en eenden.   
+2.  In deze paragraaf wordt voorts verstaan onder: 
+
+a. ouderdieren: gevogelte bestemd voor de productie van broedeieren ter verkrijging van leghennen of vleespluimvee;  
+
+b. productieperiode: aaneengesloten periode waarin een groep pluimvee van dezelfde soort en categorie en met dezelfde geboortedatum, die in één stal is gehuisvest in een stal op het pluimveebedrijf aanwezig is.     
+3.  Deze paragraaf is niet van toepassing op een houder van gevogelte die minder dan 250 stuks gevogelte houdt.  
+
+### Artikel  38dd  
+
+1.  Een houder van gevogelte registreert iedere verplaatsing van gevogelte van of naar een inrichting waar hij gevogelte houdt.   
+2.  De houder verstrekt bij de registratie, bedoeld in het eerste lid, in ieder geval de volgende gegevens: 
+
+a. het aan de houder toegekende UBN, bedoeld in artikel 3, eerste lid,  
+
+b. het registratienummer, bedoeld in artikel 3, tweede lid, van de inrichting van herkomst en bestemming;  
+
+c. het nummer of de aanduiding van de stal van herkomst en bestemming, voor zover het een locatie betreft die in Nederland is gelegen;  
+
+d. het land van herkomst of bestemming, voor zover dit buiten Nederland is gelegen;  
+
+e. het type verplaatsing;  
+
+f. de datum van verplaatsing;  
+
+g. het registratienummer, bedoeld in artikel 3, tweede lid, van de locatie waar de ouderdieren van het gevogelte zijn gehouden;  
+
+h. het aantal verplaatste dieren per geslacht;  
+
+i. de geboortedatum van de verplaatste dieren;  
+
+j. de soort gevogelte;  
+
+k. de categorie gevogelte die wordt gehouden;  
+
+l. het doel waarvoor het gevogelte wordt gehouden;  
+
+m. het ras;  
+
+n. het houderijsysteem;  
+
+o. de datum van het begin van de nieuwe productieperiode, voor zover het gevogelte meer dan één productieperiode wordt ingezet.     
+3.  Indien blijkt dat gegevens als bedoeld in het tweede lid, niet juist of volledig zijn, verstrekt de houder de gecorrigeerde gegevens.  
+
+### Artikel  38ee  
+
+1.  De houder registreert de gegevens, bedoeld in artikel 38dd, tweede lid, in een databank die op grond van artikel 38hh, eerste lid, door de minister is aangewezen als databank voor de registratie van de gegevens, bedoeld in artikel 38dd, tweede lid.   
+2.  Indien de minister meerdere databanken aanwijst, volstaat registratie bij een van de databanken.   
+3.  Indien de minister geen databank heeft aangewezen, registreert de houder de gegevens, bedoeld in artikel 38dd, tweede lid, bij de minister met gebruikmaking van een middel dat daartoe door de minister beschikbaar is gesteld.  
+
+### Artikel  38ff  
+
+1.  De houder registreert de gegevens, bedoeld in artikel 38dd, tweede lid, binnen vijf werkdagen, te rekenen vanaf de dag na de dag van de verplaatsing.   
+2.  De houder registreert de gecorrigeerde gegevens, bedoeld in artikel 38dd, derde lid, binnen vijf werkdagen, te rekenen vanaf de dag na de dag dat de houder op de hoogte is gesteld van de onjuistheid of onvolledigheid van de gegevens of de onjuistheid of onvolledigheid heeft vastgesteld in het geval hij hiervan niet op de hoogte is gesteld.  
+
+### §  7d  
+
+####Aanwijzing databanken
+
+### Artikel  38gg  
+
+In deze paragraaf wordt verstaan onder: 
+
+a.*databank:* geautomatiseerde gegevensbank;
+
+b.*persoonsgegevens, verwerking van persoonsgegevens, verantwoordelijke, betrokkene onderscheidenlijk bewerker:* hetgeen daaronder wordt verstaan in artikel 1 van de Wet bescherming persoonsgegevens. 
+
+### Artikel  38hh  
+
+1.  De minister kan databanken aanwijzen waarin de registratie, bedoeld in artikel 38dd, eerste in samenhang met het tweede en derde lid, plaatsvindt.   
+2.  De gegevens worden verwerkt met als doel het ten behoeve van de bescherming van de dier- en volksgezondheid, het dierenwelzijn en het milieu verkrijgen van inzicht in de verplaatsingen van dieren waarop de verplichting tot registratie van toepassing is en een effectief systeem van toezicht op en handhaving van de op deze dieren en de houders daarvan van toepassing zijnde regelgeving door de minister te bevorderen.   
+3.  De minister is verantwoordelijke voor de verwerking van persoonsgegevens in de databank.   
+4.  Een beheerder van een databank is bewerker van de persoonsgegevens.   
+5.  De minister en de beheerder van een databank verstrekken elkaar over en weer alle benodigde informatie teneinde een goede naleving van de Wet bescherming persoonsgegevens en andere privacywetgeving mogelijk te maken. Op verzoek van de minister toont de beheerder aan dat de noodzakelijke maatregelen zijn genomen.   
+6.  De beheerder van de databank stelt de minister te allen tijde kosteloos in de gelegenheid alle benodigde controles, gericht op de uitvoering van deze paragraaf en de naleving van privacywetgeving zoals de Wet bescherming persoonsgegevens, uit te voeren of uit te doen voeren.  
+
+### Artikel  38ii  
+
+Een aanwijzing als bedoeld in artikel 38hh, eerste lid, vindt plaats, indien: 
+
+a. de beheerder van de databank een onderneming heeft als bedoeld in artikel 5 van de Handelsregisterwet 2007 of een rechtspersoon is in de zin van artikel 54 van het Verdrag betreffende de Werking van de Europese Unie, die in een lidstaat van de Europese Unie of van de Europese Economische Ruimte is gevestigd;  
+
+b. de databank schriftelijk of elektronisch voldoende bereikbaar is voor houders;  
+
+c. de beheerder van de databank de geregistreerde gegevens elektronisch en tijdig kan uitwisselen met de minister;  
+
+d. de beheerder van de databank passende technische en organisatorische maatregelen neemt om de geregistreerde gegevens afdoende te beveiligen teneinde verlies en onrechtmatige of onnodige verwerking hiervan te voorkomen;  
+
+e. de beheerder van de databank de geregistreerde gegevens overeenkomstig deze paragraaf verwerkt en slechts voor andere doelen gebruikt dan verwerking overeenkomstig deze paragraaf, nadat toestemming is verkregen van de betrokkene;  
+
+f. de beheerder zorg draagt voor de kwaliteit van de gegevens.   
+
+### Artikel  38jj  
+
+1.  Een aanvraag tot aanwijzing als bedoeld in artikel 38hh, eerste lid, wordt ingediend bij de minister.   
+2.  Een aanvraag tot aanwijzing gaat vergezeld van: 
+
+a. bewijsstukken dat voldaan wordt aan artikel 38ii en 38kk, en  
+
+b. een verklaring dat een bewerkersovereenkomst en een gegevensleveringsovereenkomst met de minister worden gesloten, indien de databank wordt aangewezen.     
+3.  Met toepassing van artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet is paragraaf 4.1.3.3 van de Algemene wet bestuursrecht niet van toepassing op een aanwijzing als bedoeld in artikel 38gg, eerste lid.   
+4.  Op een aanvraag tot aanwijzing wordt binnen zes weken na de datum van ontvangst van de aanvraag beslist.   
+5.  De minister kan de termijn, bedoeld in het vierde lid, eenmaal met zes weken verlengen.  
+
+### Artikel  38kk  
+
+1.  De beheerder van een aangewezen databank: 
+
+a. verwerkt de gegevens, bedoeld in artikel 38dd, eerste in samenhang met het tweede en derde lid;  
+
+b. verstrekt de houder, bedoeld in dat artikel, digitaal of schriftelijk bewijs van de registratie of de wijziging daarvan, en  
+
+c. verstrekt de minister op zijn verzoek een overzicht van de gegevens, bedoeld in artikel 38dd, eerste in samenhang met het tweede en derde lid die in de databank zijn geregistreerd.     
+2.  De beheerder van de databank bewaart de gegevens, bedoeld in het eerste lid, onderdeel a, drie jaar, te rekenen vanaf de dag na de datum waarop het gevogelte is afgevoerd van de inrichting.   
+3.  Op verzoek van de houder, bedoeld in artikel 38dd, eerste lid, verstrekt de beheerder van een databank informatie aan de houder om hem zijn rechten te kunnen laten uitoefenen en de plichten na te leven als bedoeld in hoofdstuk 5 en 6 van de Wet bescherming persoonsgegevens, waaronder in elk geval wordt verstaan dat hij de houder inzage geeft in de gegevens die de met betrekking tot die houder en door hem gehouden dieren geregistreerd zijn.   
+4.  Indien de beheerder van een databank meent dat de gegevens van een houder correct zijn vastgelegd, maar de houder dit standpunt bestrijdt, registreert de beheerder dat de houder zijn gegevens als niet correct beschouwt.   
+5.  De beheerder van een databank die vanwege een onvoorziene situatie niet kan voldoen aan dit artikel of artikel 38ii, stelt de minister daarvan onverwijld op de hoogte.  
+
+### Artikel  38ll  
+
+1.  De minister kan de aanwijzing, bedoeld in artikel 38hh intrekken, indien deze niet voldoet aan de voorwaarden, bedoeld in artikel 38ii, of aan de artikelen 38hh, vijfde of zesde lid, of 38kk.   
+2.  Indien de aanwijzing van een databank wordt ingetrokken of beëindigd: 
+
+a. verstrekt de beheerder van de databank de geregistreerde gegevens aan de minister of geeft de minister de opdracht aan de beheerder van een databank de gegevens te vernietigen, en  
+
+b. verleent de beheerder van de databank alle medewerking aan de minister of de beheerder van een andere op grond van artikel 38hh, eerste lid, aangewezen databank ter zake van de overdracht van de werkzaamheden inzake de verwerking van de gegevens.    
+
 ### § 8 
 
 ####Overige bepalingen over de identificatie en registratie
@@ -1136,6 +1302,18 @@ b. een bedrag afhankelijk van de aantallen schapen of geiten die op het bedrijf 
 
 Voor het op aanvraag afgeven van een identificatiedocument als bedoeld in artikel 5, eerste lid, van Verordening (EG) nr. 504/2008, een duplicaat identificatiedocument als bedoeld in artikel 16, eerste lid, van Verordening (EG) nr. 504/2008 of een vervangend identificatiedocument als bedoeld in artikel 17 van Verordening (EG) nr. 504/2008, is de aanvrager een vergoeding verschuldigd van ten hoogste de werkelijke kosten verbonden aan de uitgifte van het document. 
 
+### §  8a.3c  
+
+####Aangewezen databanken
+
+### Artikel  43jc  
+
+1.  Tarieven voor een vergoeding die de beheerder van een databank in rekening brengt voor het verwerken van een registratie als bedoeld in artikel 38hh, behoeven de goedkeuring van de minister.   
+2.  De goedkeuring, bedoeld in het eerste lid, wordt onthouden indien de tarieven hoger zijn dan noodzakelijk, uitgaande van een redelijke toerekening van de totale kosten en opbrengsten, waarbij de vergoeding van de werkzaamheden, bedoeld in het eerste lid, niet meer bedraagt dan de kosten die de beheerder maakt bij de uitvoering van die werkzaamheden.   
+3.  De tarieven worden per kalenderjaar goedgekeurd.   
+4.  Te behoeve van de goedkeuring verschaft de beheerder van een register alle noodzakelijke informatie, welke informatie vergezeld gaat van een controleverklaring, opgesteld door een accountant als bedoeld in artikel 393, eerste lid van Boek 2 van het Burgerlijk Wetboek.   
+5.  Van een besluit tot goedkeuring van tarieven wordt mededeling gedaan in de Staatscourant.  
+
 ### §  8a.4  
 
 ####Overige bepalingen tarieven
@@ -1208,6 +1386,11 @@ Vervallen per 01-01-2014
 1.  Besluiten, niet inhoudende een algemeen verbindend voorschrift, genomen bij of krachtens de Verordening identificatie en registratie van paardachtigen (PVV) 2009, die golden onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van dit artikel, worden met ingang van 1 januari 2014 geacht te zijn genomen op grond van deze regeling, onder dezelfde voorschriften, beperkingen en voorwaarden.   
 2.  Meldingen, gedaan ter voldoening aan verplichtingen bij of krachtens de Verordening identificatie en registratie van paardachtigen (PVV) 2009, worden geacht te zijn gedaan op grond van deze regeling.   
 3.  De op het tijdstip van inwerkingtreding van dit artikel aanhangige aanvragen, worden met ingang van 1 januari 2014 overeenkomstig deze regeling behandeld door de daartoe bevoegde autoriteit met inachtneming van de termijn die op dat tijdstip is verstreken sinds het tijdstip van indiening van de aanvraag.  
+
+### Artikel  44cb  
+
+1.  Besluiten, niet inhoudende een algemeen verbindend voorschrift, genomen bij of krachtens de Verordening identificatie en registratie van pluimveebedrijven en levend pluimvee (PPE) 2012, die golden onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van dit artikel, worden met ingang van 1 januari 2015 geacht te zijn genomen op grond van deze regeling, onder dezelfde voorschriften, beperkingen en voorwaarden.   
+2.  Registraties en meldingen, gedaan ter voldoening aan verplichtingen bij of krachtens de Verordening identificatie en registratie van pluimveebedrijven en levend pluimvee (PPE) 2012, worden met ingang van 1 januari 2015 geacht te zijn gedaan op grond van deze regeling.  
 
 ### Artikel  44d  
 

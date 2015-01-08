@@ -24,11 +24,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 2°. vervoer van goederen, uitsluitend bestemd voor of afkomstig van de eigen onderneming; of  
 
-3°. slepen en duwen van schepen met sleep-, duw- en sleepduwboten;   bemanningslid: ieder die zich als schipper, stuurman, machinist, volmatroos, matroos-motordrijver, matroos, lichtmatroos of deksman aan boord van een schip bevindt; bevoegde autoriteit: door Onze Minister aangewezen autoriteit; binnenschip: 
+3°. slepen en duwen van schepen met sleep-, duw- en sleepduwboten;   bemanningslid: ieder die zich als schipper, stuurman, machinist, volmatroos, matroos-motordrijver, matroos, lichtmatroos, lid van het veiligheidspersoneel of deksman aan boord van een schip bevindt; bevoegde autoriteit: door Onze Minister aangewezen autoriteit; binnenschip: 
 
 1°. vaartuig dat is bestemd voor de vaart op de binnenwateren of op dienovereenkomstige buitenlandse wateren;  
 
-2°. drijvend werktuig;   binnenwateren: wateren die in Nederland zijn gelegen binnen een langs de Nederlandse kust gaande, bij ministeriële regeling aan te wijzen lijn; dekbemanning: de bemanning met uitzondering van de machinisten; diepgang: verticale afstand van het laagste punt van de scheepsromp aan de onderkant van de bodembeplating of van de kiel tot het vlak van de grootste inzinking van de scheepsromp in meters; drijvend werktuig: drijvend bouwsel waarop zich werkinstallaties bevinden, zoals grind- of zandzuigers, baggermolens, hei-installaties, kranen en elevatoren; gezagvoerder: degene die het gezag voert over een schip; Herziene Rijnvaartakte: op 17 oktober 1868 te Mannheim tot stand gekomen Herziene Rijnvaartakte (Trb. 1955, 161); onderneming: rechtspersoon, vennootschap zonder rechtspersoonlijkheid, maatschap dan wel natuurlijke persoon, die zich bezig houdt met bedrijfsmatig vervoer; Onze Minister: Onze Minister van Verkeer en Waterstaat; schip: zeeschip of binnenschip; verwerken van persoonsgegevens: hetgeen daaronder wordt verstaan in de [Wet bescherming persoonsgegevens](../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md); werkgever: 
+2°. drijvend werktuig;   binnenwateren: wateren die in Nederland zijn gelegen binnen een langs de Nederlandse kust gaande, bij ministeriële regeling aan te wijzen lijn; dekbemanning: de bemanning met uitzondering van de machinisten; diepgang: verticale afstand van het laagste punt van de scheepsromp aan de onderkant van de bodembeplating of van de kiel tot het vlak van de grootste inzinking van de scheepsromp in meters; drijvend werktuig: drijvend bouwsel waarop zich werkinstallaties bevinden, zoals grind- of zandzuigers, baggermolens, hei-installaties, kranen en elevatoren; gezagvoerder: degene die het gezag voert over een schip; Herziene Rijnvaartakte: op 17 oktober 1868 te Mannheim tot stand gekomen Herziene Rijnvaartakte (Trb. 1955, 161); onderneming: rechtspersoon, vennootschap zonder rechtspersoonlijkheid, maatschap dan wel natuurlijke persoon, die zich bezig houdt met bedrijfsmatig vervoer; Onze Minister: Onze Minister van Verkeer en Waterstaat; schip: zeeschip of binnenschip; verwerken van persoonsgegevens: hetgeen daaronder wordt verstaan in de Wet bescherming persoonsgegevens; werkgever: 
 
 1°. degene jegens wie de gezagvoerder krachtens arbeidsovereenkomst of publiekrechtelijke aanstelling gehouden is tot het verrichten van arbeid, behalve indien die gezagvoerder aan een derde ter beschikking wordt gesteld voor het verrichten van arbeid welke die derde gewoonlijk doet verrichten;  
 
@@ -44,7 +44,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 3°. in- en ontschepen van personen; of  
 
 4°. opslaan van goederen in schepen.     
-3.  In deze wet en de daarop berustende bepalingen wordt onder vervoer niet verstaan het door een schip vervoeren van met behulp van dit schip zelf gevangen vis als bedoeld in de [Visserijwet 1963](../../../wet/visserijwet/1963/BWBR0002416/README.md).  
+3.  In deze wet en de daarop berustende bepalingen wordt onder vervoer niet verstaan het door een schip vervoeren van met behulp van dit schip zelf gevangen vis als bedoeld in de Visserijwet 1963.  
 
 ### §  2  
 
@@ -82,7 +82,7 @@ b. behorende tot een buitenlandse krijgsmacht.
 ### Artikel  6  
 
 1.  Het is een onderneming of degene die een onderneming drijft verboden bedrijfsmatig goederen te vervoeren, anders dan bestemd voor of afkomstig van de eigen onderneming, zonder dat aan deze onderneming een persoon verbonden is aan wie een bewijs van vakbekwaamheid is afgegeven voor het bedrijfsmatig vervoer van goederen en die daadwerkelijk en bij voortduring leiding geeft aan de vervoersactiviteit van de onderneming.   
-2.  Onze Minister kan vrijstelling verlenen van de verplichting, bedoeld in het eerste lid. Aan een vrijstelling kunnen voorschriften of beperkingen worden verbonden. [Paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing.   
+2.  Onze Minister kan vrijstelling verlenen van de verplichting, bedoeld in het eerste lid. Aan een vrijstelling kunnen voorschriften of beperkingen worden verbonden. Paragraaf 4.1.3.3. van de Algemene wet bestuursrecht is van toepassing.   
 3.  Bij ministeriële regeling worden regels gesteld met betrekking tot het aantonen van de vakbekwaamheid, waaronder in ieder geval zijn begrepen de vereiste kennisgebieden en de vereiste scholing of praktijkervaring.   
 4.  Documenten die ten bewijze van de vakbekwaamheid zijn afgegeven door een andere lidstaat van de Europese Unie krachtens bindende besluiten van instellingen van de Europese Gemeenschappen, door een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of door Zwitserland, worden gelijkgesteld aan het bewijs van vakbekwaamheid, bedoeld in het eerste lid.   
 5.  Bij ministeriële regeling kan worden bepaald in welke gevallen en voor welke termijnen Onze Minister ontheffing kan verlenen van het eerste lid. Onze Minister kan aan de ontheffing voorschriften of beperkingen verbinden.   
@@ -130,7 +130,7 @@ c. overgang van de eigendom.
 
 ### Artikel  12  
 
-Het is verboden een binnenschip te gebruiken waarvan de toestand, het gebruik en de uitrusting niet in overeenstemming zijn met hetgeen is vastgelegd in het certificaat van onderzoek. 
+Het is verboden een schip te gebruiken waarvan de toestand, het gebruik en de uitrusting niet in overeenstemming zijn met hetgeen is vastgelegd in het vereiste geldige certificaat. 
 
 ### Artikel  13  
 
@@ -167,7 +167,7 @@ c. niet wordt voldaan aan de vordering tot medewerking aan het onderzoek.
 1.  Onze Minister kan het gebruik van een schip op de binnenwateren onderbreken, indien de staat waarin het zich bevindt zodanig is dat de veiligheid ervan of van zijn omgeving onmiddellijk gevaar loopt.   
 2.  In geval van toepassing van het eerste lid draagt de gezagvoerder er zorg voor, dat het schip onverwijld en met inachtneming van de aanwijzingen van Onze Minister naar een door hem aangewezen plaats wordt gebracht.   
 3.  De eigenaar dan wel de gezagvoerder laat het schip op de aangewezen plaats liggen, totdat naar het oordeel van Onze Minister de redenen voor het onderbreken van het gebruik zijn weggenomen.   
-4.  [Titel 5.3 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing op de in het eerste lid bedoelde bevoegdheid.   
+4.  Titel 5.3 van de Algemene wet bestuursrecht is niet van toepassing op de in het eerste lid bedoelde bevoegdheid.   
 5.  Het is verboden een schip te gebruiken zolang het gebruik met toepassing van dit artikel is onderbroken, tenzij met inachtneming van de ingevolge het tweede lid gegeven aanwijzingen.  
 
 ### Artikel  18  
@@ -191,7 +191,7 @@ b. indien ingevolge artikel 17, eerste lid, het gebruik van een schip is onderbr
 
 Deze paragraaf is van toepassing op: 
 
-a. een binnenschip dat ingevolge [artikel 785, eerste lid, met inachtneming van het tweede lid, onderdeel a, van Boek 8 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) te boek is gesteld;  
+a. een binnenschip dat ingevolge artikel 785, eerste lid, met inachtneming van het tweede lid, onderdeel a, van Boek 8 van het Burgerlijk Wetboek te boek is gesteld;  
 
 b. een zeeschip waarmee, op grond van een certificaat van onderzoek, op de binnenwateren met een grotere diepgang mag worden gevaren dan op zee of in de kustwateren.   
 
@@ -199,7 +199,7 @@ b. een zeeschip waarmee, op grond van een certificaat van onderzoek, op de binne
 
 1.  Het is verboden een schip te gebruiken zonder geldige meetbrief, afgegeven op grond van de op 15 februari 1966 te Genève tot stand gekomen Overeenkomst nopens de meting van binnenvaartuigen (Trb.1967, 43).   
 2.  Bij ministeriële regeling worden regels gesteld met betrekking tot de meting en de meetbrieven.   
-3.  [Paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing op de afgifte van meetbrieven krachtens het tweede lid, voor zover het gaat om de afgifte van een gewaarmerkt afschrift van eerder afgegeven meetbrieven die verloren zijn geraakt of door slijtage ongeldig zijn geworden. 
+3.  Paragraaf 4.1.3.3. van de Algemene wet bestuursrecht is van toepassing op de afgifte van meetbrieven krachtens het tweede lid, voor zover het gaat om de afgifte van een gewaarmerkt afschrift van eerder afgegeven meetbrieven die verloren zijn geraakt of door slijtage ongeldig zijn geworden. 
 
 ### §  3  
 
@@ -237,7 +237,7 @@ b. de tot hem gerichte krachtens het vierde of vijfde lid, aan een vrijstelling 
 
 ### Artikel  23  
 
-1.  Het is een gezagvoerder of een werkgever verboden een binnenschip te gebruiken met een bemanningslid dat niet over een geldige geneeskundige verklaring beschikt.   
+1.  Het is een gezagvoerder of een werkgever verboden een schip te gebruiken met een bemanningslid dat niet over een geldige geneeskundige verklaring beschikt.   
 2.  Bij of krachtens algemene maatregel van bestuur worden voorschriften gesteld met betrekking tot de geneeskundige verklaring.   
 3.  De artikelen 28 en 31 zijn van overeenkomstige toepassing.  
 
@@ -257,13 +257,13 @@ b. de tot hem gerichte krachtens het vierde of vijfde lid, aan een vrijstelling 
 2.  Bij of krachtens algemene maatregel van bestuur worden de verschillende soorten vaarbewijzen en de geldigheidsduur vastgesteld.   
 3.  Dit artikel is niet van toepassing op de gezagvoerder aan wie een bij of krachtens algemene maatregel van bestuur aan te wijzen gelijkwaardig document is afgegeven.   
 4.  Het is verboden een schip te gebruiken zonder dat aan de gezagvoerder het daarvoor vereiste geldige vaarbewijs is afgegeven.   
-5.  Het voeren of als gezagvoerder doen voeren van een binnenschip is verboden aan degene: 
+5.  Het voeren of als gezagvoerder doen voeren van een schip is verboden aan degene: 
 
 a. die weet of redelijkerwijs moet weten dat een op zijn naam gesteld vaarbewijs voor een gedeelte of het geheel van de geldigheidsduur ongeldig is verklaard, gedurende dat gedeelte of het geheel van de geldigheidsduur,  
 
-b. aan wie ingevolge [artikel 35b van de Scheepvaartverkeerswet](../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md) de bevoegdheid tot het voeren van schepen is ontzegd, gedurende de termijn van ontzegging, of  
+b. aan wie ingevolge artikel 35b van de Scheepvaartverkeerswet de bevoegdheid tot het voeren van schepen is ontzegd, gedurende de termijn van ontzegging, of  
 
-c. van wie het vaarbewijs of het bewijs van vrijstelling of ontheffing, bedoeld in artikel 31, met toepassing van de [artikelen 35a](../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md) of [35c van de Scheepvaartverkeerswet](../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md) is ingenomen en niet is teruggegeven.    
+c. van wie het vaarbewijs of het bewijs van vrijstelling of ontheffing, bedoeld in artikel 31, met toepassing van de artikelen 35a of 35c van de Scheepvaartverkeerswet is ingenomen en niet is teruggegeven.    
 
 ### Artikel  26  
 
@@ -284,9 +284,9 @@ a. die de leeftijd van 18 jaar nog niet heeft bereikt;
 
 b. van wie het bewijs ongeldig is verklaard, gedurende de termijn van ongeldigheid;  
 
-c. aan wie ingevolge [artikel 35b van de Scheepvaartverkeerswet](../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md) de bevoegdheid tot het voeren van schepen is ontzegd, gedurende de termijn van ontzegging; of  
+c. aan wie ingevolge artikel 35b van de Scheepvaartverkeerswet de bevoegdheid tot het voeren van schepen is ontzegd, gedurende de termijn van ontzegging; of  
 
-d. van wie het bewijs met toepassing van de [artikelen 35a](../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md) of [35c van de Scheepvaartverkeerswet](../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md) is ingenomen en niet is teruggegeven.     
+d. van wie het bewijs met toepassing van de artikelen 35a of 35c van de Scheepvaartverkeerswet is ingenomen en niet is teruggegeven.     
 2.  Voor de toepassing van het eerste lid, onderdeel b, wordt onder vaarbewijs mede verstaan een vaarbewijs, afgegeven door het daartoe bevoegde gezag buiten Nederland, waarvan de houder in Nederland woont.  
 
 ### Artikel  28  
@@ -374,11 +374,11 @@ c. de modellen voor de vaarbewijzen.
 
 1.  Onze Minister houdt een register bij van: 
 
-a. ontzeggingen van de vaarbevoegdheid als bedoeld in [artikel 35b van de Scheepvaartverkeerswet](../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md);  
+a. ontzeggingen van de vaarbevoegdheid als bedoeld in artikel 35b van de Scheepvaartverkeerswet;  
 
 b. vaarbewijzen of bewijzen van vrijstelling of ontheffing als bedoeld in artikel 31, die: 
 
-1°. zijn ingeleverd of ingevorderd ingevolge de [artikelen 35a](../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md), [35b](../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md) of [35c van de Scheepvaartverkeerswet](../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md), of  
+1°. zijn ingeleverd of ingevorderd ingevolge de artikelen 35a, 35b of 35c van de Scheepvaartverkeerswet, of  
 
 2°. ongeldig zijn verklaard.       
 2.  Het verzamelen van gegevens als bedoeld in het eerste lid, geschiedt voor de volgende doeleinden: 
@@ -420,7 +420,7 @@ f. de voorgenomen doorgiften van gegevens naar landen buiten de Europese Unie.
 
 ### Artikel  36  
 
-1.  Onze Minister kent aan een binnenschip dat in Nederland op grond van [artikel 785, eerste lid, van Boek 8 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) te boek is gesteld en aan een binnenschip waarvoor een certificaat van onderzoek is afgegeven een scheepsnummer toe, waaronder mede wordt begrepen het aanmerken als scheepsnummer van een overeenkomstige aanduiding die bij of krachtens andere wet is toegekend.   
+1.  Onze Minister kent aan een binnenschip dat in Nederland op grond van artikel 785, eerste lid, van Boek 8 van het Burgerlijk Wetboek te boek is gesteld en aan een binnenschip waarvoor een certificaat van onderzoek is afgegeven een scheepsnummer toe, waaronder mede wordt begrepen het aanmerken als scheepsnummer van een overeenkomstige aanduiding die bij of krachtens andere wet is toegekend.   
 2.  De eigenaar van het binnenschip waaraan een scheepsnummer is toegekend is verplicht: 
 
 a. dit nummer binnen twee weken na de toekenning en kennisgeving ervan op zijn binnenschip aan te brengen;  
@@ -444,7 +444,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met
 
 ### Artikel  39  
 
-1.  Persoonsgegevens betreffende de gezondheid of strafrechtelijke persoonsgegevens als bedoeld in [artikel 16 van de Wet bescherming persoonsgegevens](../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), worden verwerkt ter uitvoering van: 
+1.  Persoonsgegevens betreffende de gezondheid of strafrechtelijke persoonsgegevens als bedoeld in artikel 16 van de Wet bescherming persoonsgegevens, worden verwerkt ter uitvoering van: 
 
 a. artikel 6, mede betreffende de wettelijke onbekwaamheid, met het oogmerk te beoordelen of aan dit artikel toepassing kan worden gegeven dan wel of ontheffing onderscheidenlijk vrijstelling kan worden verleend;  
 
@@ -475,7 +475,7 @@ a. verdrag: het op 9 september 1996 te Straatsburg tot stand gekomen verdrag in
 
 b. afvalbeheerbijdrage: de in artikel 6, eerste lid, van het verdrag bedoelde verwijderingsbijdrage;  
 
-c. betrekken van gasolie: het betrekken van gasolie in gevallen waarin de levering van die gasolie gepaard gaat met een uitslag of een invoer ter zake waarvan [artikel 66, eerste lid, onder a, van de Wet op de accijns](../../../wet/wet/op/de/accijns/BWBR0005251/README.md) van toepassing is, dan wel ter zake van de levering van die gasolie [artikel 70, eerste lid, onder b, van die wet](../../../wet/wet/op/de/accijns/BWBR0005251/README.md) van toepassing is;  
+c. betrekken van gasolie: het betrekken van gasolie in gevallen waarin de levering van die gasolie gepaard gaat met een uitslag of een invoer ter zake waarvan artikel 66, eerste lid, onder a, van de Wet op de accijns van toepassing is, dan wel ter zake van de levering van die gasolie artikel 70, eerste lid, onder b, van die wet van toepassing is;  
 
 d. leverancier: leverancier van de gasolie;  
 
@@ -492,13 +492,13 @@ e. nationaal instituut: Nederlandse nationaal instituut, bedoeld in artikel 9 va
 
 ### Artikel  39c  
 
-1.  Ter zake van het betrekken van gasolie ten behoeve van een schip wordt een afvalbeheerbijdrage geheven van de eigenaar van het schip.   
+1.  Ter zake van het betrekken van gasolie ten behoeve van een binnenschip wordt een afvalbeheerbijdrage geheven van de eigenaar van het binnenschip.   
 2.  De afvalbeheerbijdrage is verschuldigd op het tijdstip van het betrekken, bedoeld in het eerste lid.   
-3.  De betaling van de afvalbeheerbijdrage geschiedt namens de eigenaar van het schip door de gezagvoerder en door tussenkomst van de leverancier, volgens de bij algemene maatregel van bestuur vastgestelde voorschriften voor de eigenaar van het schip en de gezagvoerder ten aanzien van het betrekken en voor de leverancier ten aanzien van het leveren van gasolie.  
+3.  De betaling van de afvalbeheerbijdrage geschiedt namens de eigenaar van het binnenschip door de gezagvoerder en door tussenkomst van de leverancier, volgens de bij algemene maatregel van bestuur vastgestelde voorschriften voor de eigenaar van het binnenschip en de gezagvoerder ten aanzien van het betrekken en voor de leverancier ten aanzien van het leveren van gasolie.  
 
 ### Artikel  39d  
 
-1.  De afvalbeheerbijdrage wordt berekend over het aantal liters gasolie dat ten behoeve van het schip is betrokken.   
+1.  De afvalbeheerbijdrage wordt berekend over het aantal liters gasolie dat ten behoeve van het binnenschip is betrokken.   
 2.  Het in een kalenderjaar geldende tarief van de afvalbeheerbijdrage is het tarief dat krachtens artikel 14, derde lid, onder b, van het verdrag voor het desbetreffende kalenderjaar is vastgesteld bij besluit van de Conferentie der Verdragsluitende Partijen.   
 3.  Het tarief van de afvalbeheerbijdrage wordt door Onze Minister telkens zo spoedig mogelijk na de in het tweede lid bedoelde vaststelling in de Staatscourant bekendgemaakt.  
 
@@ -508,7 +508,7 @@ Bij algemene maatregel van bestuur worden de administratieve verplichtingen van 
 
 ### Artikel  39f  
 
-Bij constatering van het feit dat voor een schip niet volledig is voldaan aan de ingevolge artikel 39c, derde lid, geldende voorschriften, geeft Onze Minister met betrekking tot het bedrag aan afvalbeheerbijdrage dat door de eigenaar van het schip is verschuldigd toepassing aan [artikel 4:86 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). 
+Bij constatering van het feit dat voor een binnenschip niet volledig is voldaan aan de ingevolge artikel 39c, derde lid, geldende voorschriften, geeft Onze Minister met betrekking tot het bedrag aan afvalbeheerbijdrage dat door de eigenaar van het binnenschip is verschuldigd toepassing aan artikel 4:86 van de Algemene wet bestuursrecht. 
 
 ### §  3  
 
@@ -533,7 +533,7 @@ b. de Nederlandse vertegenwoordiging in het Internationaal Verevenings- en Coör
 a. ten aanzien van de kosten van de personele en materiële voorzieningen die nodig zijn voor de uitvoering van de ingevolge artikel 39g aan het nationaal instituut toegekende taken en  
 
 b. ten aanzien van de internationale financiële verevening, bedoeld in artikel 10, eerste lid, van het verdrag.     
-2.  De [Kaderwet subsidies Verkeer en Waterstaat](../../../wet/kaderwet/subsidies/verkeer/en/waterstaat/BWBR0009196/README.md) en [afdeling 4.2.8 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van toepassing op de subsidieverstrekking.  
+2.  De Kaderwet subsidies Verkeer en Waterstaat en afdeling 4.2.8 van de Algemene wet bestuursrecht zijn van toepassing op de subsidieverstrekking.  
 
 ### §  4  
 
@@ -555,7 +555,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gest
 
 1.  Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet en de Herziene Rijnvaartakte zijn belast: 
 
-a. de bij of krachtens [artikel 141 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) aangewezen ambtenaren;  
+a. de bij of krachtens artikel 141 van het Wetboek van Strafvordering aangewezen ambtenaren;  
 
 b. de door Onze Minister aangewezen ambtenaren van de Inspectie Verkeer en Waterstaat.     
 2.  Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn voorts belast andere dan in het eerste lid, onderdeel b, bedoelde door Onze Minister aangewezen ambtenaren. Indien Onze Minister ambtenaren van provincies, gemeenten of waterschappen aanwijst, doet hij dit in overeenstemming met de desbetreffende besturen.   
@@ -565,7 +565,7 @@ b. de door Onze Minister aangewezen ambtenaren van de Inspectie Verkeer en Water
 ### Artikel  41  
 
 1.  Een ambtenaar als bedoeld in artikel 40 is bevoegd afgifte te vorderen van bij of krachtens deze wet vereiste documenten die ongeldig zijn verklaard of zijn ingetrokken.   
-2.  Een ambtenaar als bedoeld in artikel 40 beschikt niet over de bevoegdheid, genoemd in [artikel 5:18 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).  
+2.  Een ambtenaar als bedoeld in artikel 40 beschikt niet over de bevoegdheid, genoemd in artikel 5:18 van de Algemene wet bestuursrecht.  
 
 ### Artikel  42  
 
@@ -589,8 +589,8 @@ Onze Minister is bevoegd tot toepassing van bestuursdwang ter handhaving van de 
 
 ### Artikel  45  
 
-1.  Met de opsporing van de bij of krachtens deze wet en de Herziene Rijnvaartakte strafbaar gestelde feiten zijn belast de bij of krachtens [artikel 141 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) aangewezen ambtenaren, alsmede de in artikel 40 bedoelde ambtenaren.   
-2.  De in het eerste lid bedoelde ambtenaren zijn tevens belast met de opsporing van de feiten, strafbaar gesteld in de [artikelen 179 tot en met 182](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [184 van het Wetboek van Strafrecht](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.  
+1.  Met de opsporing van de bij of krachtens deze wet en de Herziene Rijnvaartakte strafbaar gestelde feiten zijn belast de bij of krachtens artikel 141 van het Wetboek van Strafvordering aangewezen ambtenaren, alsmede de in artikel 40 bedoelde ambtenaren.   
+2.  De in het eerste lid bedoelde ambtenaren zijn tevens belast met de opsporing van de feiten, strafbaar gesteld in de artikelen 179 tot en met 182 en 184 van het Wetboek van Strafrecht, voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.  
 
 ### Artikel  46  
 
@@ -599,7 +599,7 @@ Onze Minister is bevoegd tot toepassing van bestuursdwang ter handhaving van de 
 
 ### Artikel  47  
 
-1.  De [artikelen 5:13](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:15 tot en met 5:20 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing ten aanzien van de ambtenaren, bedoeld in artikel 45.   
+1.  De artikelen 5:13 en 5:15 tot en met 5:20 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing ten aanzien van de ambtenaren, bedoeld in artikel 45.   
 2.  De ambtenaren, bedoeld in artikel 45, zijn zonder toestemming van de bewoner bevoegd, met medeneming van de benodigde apparatuur, een woning te betreden.   
 3.  De ambtenaren, bedoeld in artikel 45, zijn bevoegd afgifte te vorderen van bij of krachtens deze wet vereiste documenten die ongeldig zijn verklaard of zijn ingetrokken.  
 
@@ -610,7 +610,7 @@ Onze Minister is bevoegd tot toepassing van bestuursdwang ter handhaving van de 
 ### Artikel  48  
 
 1.  Onze Minister kan aan degene die handelt in strijd met de artikelen 5, eerste lid, 6, eerste lid en zesde lid, 7, eerste lid, 8, derde lid, 10, tweede lid, 11, 12, 13, vierde lid, 21, eerste lid, 22, negende lid, 23, eerste lid, 25, vierde lid en vijfde lid, 28, zevende lid, 31, vierde lid, 33, tweede lid, 36, vierde lid, 37, tweede lid, 39c, derde lid, 39e, 43, tweede lid, en 46, tweede lid, een bestuurlijke boete opleggen.   
-2.  De bestuurlijke boete die ten hoogste kan worden opgelegd komt overeen met de boete van de vierde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).   
+2.  De bestuurlijke boete die ten hoogste kan worden opgelegd komt overeen met de boete van de vierde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht.   
 3.  De op te leggen bestuurlijke boete kan met maximaal 50% worden verhoogd, indien binnen een periode van 48 maanden tweemaal voor een zelfde feit, elk afzonderlijk in een periode van maximaal 24 maanden voorafgaand aan dat feit, een boete is opgelegd en onherroepelijk is geworden. In afwijking van het tweede lid geldt deze verhoging ook voor de ten hoogste op te leggen boete.   
 4.  Bij ministeriële regeling worden de boetebedragen voor de beboetbare feiten vastgesteld.   
 5.  Geen bestuurlijke boete wordt opgelegd inzake overtredingen als bedoeld in de artikelen 25, vierde lid en vijfde lid, 28, zevende lid, 31, vierde lid, en 33, tweede lid, voor zover het betreft bij ministeriële regeling aangewezen categorieën vaarbewijzen. 
@@ -654,7 +654,7 @@ c. wordt bepaald aan wie de vergoedingen, bedoeld in het eerste lid, verschuldig
 
 ### Artikel  52  
 
-1.  Onverminderd de [artikelen 7, eerste lid](../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md) kan, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, artikel 53 in werking worden gesteld.   
+1.  Onverminderd de artikelen 7, eerste lid, en 8, eerste lid, van de Coördinatiewet uitzonderingstoestanden kan, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, artikel 53 in werking worden gesteld.   
 2.  Wanneer het in het eerste lid bedoelde besluit is genomen, wordt onverwijld een voorstel van wet aan de Tweede Kamer gezonden omtrent het voortduren van de werking van de bij dat besluit in werking gestelde bepaling.   
 3.  Wordt het voorstel van wet door de Staten-Generaal verworpen, dan wordt bij koninklijk besluit, op voordracht van Onze Minister-President, de bepaling die ingevolge het eerste lid in werking is gesteld, onverwijld buiten werking gesteld.   
 4.  Bij koninklijk besluit, op voordracht van Onze Minister-President, wordt de bepaling die ingevolge het eerste lid in werking is gesteld, buiten werking gesteld, zodra de omstandigheden dit naar Ons oordeel toelaten.   

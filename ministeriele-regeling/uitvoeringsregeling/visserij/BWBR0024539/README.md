@@ -223,11 +223,13 @@ Alle bewijsstukken of bescheiden waarin de gegevens, bedoeld in artikel 8, zijn 
 
 ### Artikel  10  
 
-De verplichting om een administratie bij te houden als bedoeld in artikel 7, eerste lid, geldt niet voor: 
+De verplichting om een administratie bij te houden als bedoeld in artikel 7, eerste lid, is niet van toepassing op: 
 
-a. een inrichting waarvoor een vergunning ingevolge artikel 3 van de Drank- en Horecawet is vereist;  
+a. inrichtingen waarvoor een vergunning ingevolge artikel 3 van de Drank- en Horecawet is vereist,  
 
-b. een inrichting waarvan de ondernemer op grond van artikel 3 van de Registratieverordening Bedrijfschap Horeca en Catering 2008 of artikel 8 van de Registratieverordening HBD 2005 verplicht is tot registratie bij het Bedrijfschap Horeca en Catering respectievelijk het Hoofdbedrijfschap Detailhandel.   
+b. ondernemingen waarin de detailhandel wordt uitgeoefend voor zover het de uitoefening van detailhandel betreft,  
+
+c. ondernemingen waarin het hotel-, het pension-, het restaurant-, het café-, het cafetaria-, het lunchroom- of het partycateringbedrijf wordt uitgeoefend dan wel anderszins verstrekking van logies, gepaard gaande met dienstverlening of de verstrekking van maaltijden, spijzen of dranken voor verbruik ter plaatse, als bedrijf plaats heeft.  
 
 ### Artikel  10a  
 
@@ -2154,6 +2156,8 @@ Voordelta Coördinaten in NB en OL, nummering vanaf linksboven kloksgewijs
 
 – de Amer;  
 
+– het Amsterdam-Rijnkanaal vanaf het IJ tot en met de spoorbrug bij Weesp; 
+
 – de Beneden-Merwede;  
 
 – het Bijlands kanaal;  
@@ -2165,6 +2169,14 @@ Voordelta Coördinaten in NB en OL, nummering vanaf linksboven kloksgewijs
 – de Boven-Rijn stroomafwaarts vanaf de grensovergang bij Spijk;  
 
 – de Dordtsche Kil;  
+
+– het gebied in het IJsselmeer dat wordt begrensd door de Zuidermeerdijk, de IJsselmeerdijk, de Ketelbrug en de lijn lopend over de punten met de coördinaten: 
+
+○ 52°37.448΄NB en 005°38.650΄ OL  
+
+○ 52°36.800΄NB en 005°37.466΄ OL  
+
+○ 52°36.339΄NB en 005°37.783΄ OL   
 
 – het Haringvliet;  
 
@@ -2181,6 +2193,10 @@ Voordelta Coördinaten in NB en OL, nummering vanaf linksboven kloksgewijs
 – de IJssel;  
 
 – het Julianakanaal;  
+
+– het kanaal Gent-Terneuzen; 
+
+– het kanaal Wessem-Nederweert; 
 
 – het Ketelmeer met uitzondering van het Ramsdiep, met als scheiding met het Vossemeer een lijn haaks op het einde van de zuidelijke dam van het Keteldiep ter hoogte van de provinciale grens, met als oostelijke grens de Ramspolbrug en met als westelijke grens de Ketelbrug (rijksweg A6);  
 
@@ -2211,6 +2227,8 @@ Voordelta Coördinaten in NB en OL, nummering vanaf linksboven kloksgewijs
 – de Roer;  
 
 – het Spui;  
+
+– het Vossemeer; 
 
 – de Waal;  
 

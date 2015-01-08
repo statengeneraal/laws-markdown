@@ -2206,7 +2206,7 @@ b. bij of krachtens algemene maatregel van bestuur.
 ### Artikel  9.7.4.4  
 
 1.  De in te boeken vloeibare hernieuwbare brandstof voldoet aan bij of krachtens algemene maatregel van bestuur gestelde eisen.   
-2.  De inboeker die een hoeveelheid vloeibare hernieuwbare brandstof inboekt, beschikt over een verklaring van een verificateur dat die brandstof voldoet aan de voorwaarden, bedoeld in dat lid.   
+2.  De inboeker die een hoeveelheid vloeibare hernieuwbare brandstof inboekt, beschikt over een verklaring van een verificateur dat die brandstof voldoet aan de eisen, bedoeld in het eerste lid.   
 3.  De verificateur geeft geen verklaring af indien niet is voldaan aan de eisen, bedoeld in het eerste lid.   
 4.  De verificateur bewaart alle gegevens en documentatie met betrekking tot de verificatie gedurende ten minste vijf jaar na afloop van het kalenderjaar waarop de verificatie betrekking heeft.   
 5.  Bij of krachtens algemene maatregel van bestuur kunnen nadere eisen worden gesteld aan de verificateur en de verificatie.  
@@ -3727,7 +3727,8 @@ a.de wijze waarop de aanvraag voor een erkenning moet geschieden en de gegevens 
 b.de gronden waarop en de voorwaarden waaronder Onze Minister, in overeenstemming met Onze betrokken Minister, of een bij de maatregel aangewezen instantie, een erkenning kan verlenen, wijzigen, weigeren, schorsen of intrekken, en
 
 c.de termijn waarvoor een erkenning kan worden verleend of geschorst. 
-6. Onze Minister kan, in overeenstemming met Onze betrokken Minister, voor daarbij aangegeven categorieën van werkzaamheden of categorieën van natuurlijke personen, rechtspersonen of instellingen die werkzaamheden verrichten, vrijstelling verlenen van krachtens het derde tot en met vijfde lid gestelde regels, voor zover het belang van de bescherming van het milieu zich daartegen niet verzet.
+6.  Indien op grond van het vijfde lid, onderdeel b, bij de maatregel is bepaald dat Onze Minister, in overeenstemming met Onze betrokken Minister of een bij de maatregel aangewezen instantie, een erkenning kan weigeren dan wel intrekken in het geval en onder de voorwaarden, bedoeld in artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur, kan bij die maatregel worden bepaald dat voorafgaand aan de weigering of intrekking het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in artikel 8 van die wet om een advies als bedoeld in artikel 9 van die wet kan worden gevraagd.  
+7. Onze Minister kan, in overeenstemming met Onze betrokken Minister, voor daarbij aangegeven categorieën van werkzaamheden of categorieën van natuurlijke personen, rechtspersonen of instellingen die werkzaamheden verrichten, vrijstelling verlenen van krachtens het derde tot en met vijfde lid gestelde regels, voor zover het belang van de bescherming van het milieu zich daartegen niet verzet.
 
 ### Artikel 11a.3 
 

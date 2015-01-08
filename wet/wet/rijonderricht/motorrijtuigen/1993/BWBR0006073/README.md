@@ -24,23 +24,23 @@ c.  *stage:* na het examen te volgen rijonderricht gericht op het verkrijgen van
 
 d.  *bijscholing:* rijonderricht na de eerste afgifte van een certificaat als bedoeld in artikel 13, onderdeel b, gericht op het hernieuwd verkrijgen van een certificaat als in dat onderdeel bedoeld;  
 
-e.  *motorrijtuigen:* hetgeen daaronder wordt verstaan in de [Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
+e.  *motorrijtuigen:* hetgeen daaronder wordt verstaan in de Wegenverkeerswet 1994;  
 
-f.  *rijbewijs:* hetgeen daaronder wordt verstaan in de [Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
+f.  *rijbewijs:* hetgeen daaronder wordt verstaan in de Wegenverkeerswet 1994;  
 
-g.  *scholing educatieve maatregel:* onderricht, gericht op de bevordering van de rijvaardigheid of geschiktheid van rijbewijshouders in het kader van een door het CBR krachtens de [Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) aan betrokkenen opgelegde verplichting zich te onderwerpen aan educatieve maatregelen;  
+g.  *scholing educatieve maatregel:* onderricht, gericht op de bevordering van de rijvaardigheid of geschiktheid van rijbewijshouders in het kader van een door het CBR krachtens de Wegenverkeerswet 1994 aan betrokkenen opgelegde verplichting zich te onderwerpen aan educatieve maatregelen;  
 
 h.  *instituut:* instituut, bedoeld in artikel 2;  
 
 i.  *toets:* proef ter beoordeling van de vakbekwaamheid van rijinstructeurs;  
 
-j.  *bromfiets:* hetgeen daaronder wordt verstaan in de [Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), niet zijnde een brommobiel;  
+j.  *bromfiets:* hetgeen daaronder wordt verstaan in de Wegenverkeerswet 1994, niet zijnde een brommobiel;  
 
 k.  *brommobiel:* bromfiets op meer dan twee wielen, die is voorzien van een carrosserie;  
 
 l.  *richtlijn rijbewijzen:* de bij ministeriële regeling aangewezen richtlijn;  
 
-m.  *scholing alcoholslotprogramma:* individueel of groepsgewijs onderricht gericht op de bevordering van de geschiktheid in het kader van het alcoholslotprogramma, bedoeld in [artikel 132b van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md).  
+m.  *scholing alcoholslotprogramma:* individueel of groepsgewijs onderricht gericht op de bevordering van de geschiktheid in het kader van het alcoholslotprogramma, bedoeld in artikel 132b van de Wegenverkeerswet 1994.  
 
 ### Hoofdstuk  II  
 
@@ -75,27 +75,13 @@ k. het bijhouden van het register, bedoeld in artikel 4,
 l. de ongeldigverklaring van certificaten, bedoeld in artikel 15, eerste lid,  
 
 m. de vaststelling van de tarieven voor de activiteiten, bedoeld in de onderdelen a tot en met d, en f tot en met j.     
-2.  Op het instituut is de [Kaderwet zelfstandige bestuursorganen](../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) van toepassing.  
+2.  Op het instituut is de Kaderwet zelfstandige bestuursorganen van toepassing.  
 3.  Het instituut voert de taken, genoemd in het eerste lid, onderdelen a tot en met d, en f tot en met j, uit overeenkomstig het daarvoor geldende reglement. Het instituut stelt dit reglement vast met inachtneming van de regels, bedoeld in het derde lid.   
 4.  Onze Minister stelt, het instituut gehoord, regels met betrekking tot de uitvoering door het instituut van de taken, genoemd in het eerste lid, onderdelen a tot en met d, en f tot en met j.   
 5.  Onze Minister kan rijksgecommitteerden aanwijzen die zijn belast met het toezicht op de uitvoering door het instituut van de taken, genoemd in het eerste lid, onderdelen a tot en met d, en h tot en met j. Onze Minister kan een rijksgecommitteerde schorsen of ontslaan wegens ongeschiktheid of onbekwaamheid voor de vervulde functie, dan wel wegens andere zwaarwegende redenen. Onze Minister stelt regels voor het door de rijksgecommitteerden uitgeoefende toezicht.   
 6.   Het examen militair rijinstructeur afgenomen door of vanwege Onze Minister van Defensie, alsmede het examen politierijinstructeur afgenomen door of vanwege hetzij Onze Minister van Justitie, hetzij Onze Minister van Binnenlandse Zaken, dienen te worden afgenomen overeenkomstig een door Onze Minister goedgekeurd examenreglement waarin tevens het namens Onze Minister te houden toezicht op de examens is geregeld.    
 7.   Het instituut onthoudt zich van actieve deelname aan opleidingen gericht op het afleggen van de examens, bedoeld in het eerste lid, onderdelen a tot en met d, en h tot en met j.    
 8.  Het voor het uitvoeren door het instituut van de taken, genoemd in het eerste lid, onderdelen a tot en met d, en h tot en met j te betalen tarief bestaat mede uit een vergoeding van de kosten van de in het vijfde lid bedoelde rijksgecommitteerden. Het instituut draagt het in de eerste volzin bedoelde, vast te stellen deel van het tarief dat de vergoeding van de kosten van de rijksgecommitteerden betreft aan hen af overeenkomstig bij regeling van Onze Minister vast te stellen regels.  
-
-### Artikel  3  
-
-1.  Tegen een besluit van het instituut kan een belanghebbende administratief beroep instellen bij de in het tweede lid bedoelde commissie.    
-2.   De commissie bestaat uit drie leden, waaronder de voorzitter, en drie plaatsvervangende leden. De leden en plaatsvervangende leden worden door Onze Minister benoemd en ontslagen. Zij zijn niet werkzaam bij of ten behoeve van het instituut. Onze Minister stelt hun beloning vast.   
-3.  In afwijking van [artikel 7:28 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is voor de behandeling van het beroep een bedrag verschuldigd, indien het beroep is gericht tegen een besluit ter zake van: 
-
-a. de toelating tot het examen rijinstructeur of het examen docent educatieve maatregel of het aanvullend examen docent scholing alcoholslotprogramma, of  
-
-b. de uitslag van het examen rijinstructeur of het examen docent educatieve maatregel of het aanvullend examen docent scholing alcoholslotprogramma.     
-4.   De hoogte van het bedrag en de wijze van betaling worden vastgesteld bij ministeriële regeling.    
-5.   Indien de commissie het beroep gegrond acht, wordt het bedrag aan de indiener van het beroepschrift terugbetaald.    
-6.   Onze Minister stelt een reglement van orde vast met betrekking tot de door de commissie te volgen procedure.    
-7.   Het instituut verstrekt aan de commissie de gegevens die zij voor de uitvoering van haar taak nodig oordeelt.   
 
 ### Artikel  4  
 
@@ -108,7 +94,7 @@ b. de uitslag van het examen rijinstructeur of het examen docent educatieve maat
 
 a. de daartoe door Onze Minister aangewezen ambtenaren, die zijn belast met de uitvoering van deze wet, en   
 
-b. de in [artikel 141 van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) bedoelde ambtenaren,    de gegevens verstrekt die zij voor de uitvoering van hun taak behoeven.    
+b. de in artikel 141 van het Wetboek van Strafvordering bedoelde ambtenaren,    de gegevens verstrekt die zij voor de uitvoering van hun taak behoeven.    
 2.   Aan andere personen dan de in het eerste lid bedoelde ambtenaren en degenen omtrent wie gegevens in het register zijn opgenomen, kunnen op aanvraag en tegen betaling van het door het instituut voor de behandeling van de aanvraag vastgestelde tarief, uit het register gegevens worden verstrekt. Verstrekt worden slechts gegevens omtrent de afgifte en de geldigheid van certificaten.    
 3.   De in het eerste lid bedoelde ambtenaren zijn gehouden om in bij algemene maatregel van bestuur bepaalde gevallen mededeling te doen van feiten die van belang zijn voor het bijhouden van het register.   
 
@@ -126,12 +112,12 @@ Indien het instituut is of wordt ontbonden dan wel indien zich andere omstandigh
 
 ### Artikel  7  
 
-1.  Degene die bedrijfsmatig rijonderricht geeft in het besturen van enige motorrijtuigcategorie is in het bezit van een door het instituut afgegeven certificaat voor de motorrijtuigcategorie B als bedoeld in de richtlijn rijbewijzen. Daarnaast is degene die bedrijfsmatig rijonderricht geeft voor de in de richtlijn rijbewijzen genoemde motorrijtuigcategorieën in het bezit van een door het instituut afgegeven certificaat voor de desbetreffende motorrijtuigcategorie.   
+1.  Degene die rijonderricht geeft in het besturen van enige motorrijtuigcategorie is in het bezit van een door het instituut afgegeven certificaat voor de motorrijtuigcategorie B als bedoeld in de richtlijn rijbewijzen. Daarnaast is degene die rijonderricht geeft voor de in de richtlijn rijbewijzen genoemde motorrijtuigcategorieën in het bezit van een door het instituut afgegeven certificaat voor de desbetreffende motorrijtuigcategorie.   
 2.  In afwijking van het eerste lid is geen certificaat vereist voor: 
 
 a. de voertuigintroductie in een voor de bestuurder nieuw motorrijtuig voor C, C1, CE, C1E, D, D1, DE of D1E als bedoeld in de richtlijn rijbewijzen;  
 
-b. het theoretische rijonderricht, anders dan het vak verkeer, voor het rijbewijs in de motorrijtuigcategorieën C, C1, D of D1, en de theoretische scholing en theoretische bijscholing in het kader van de vakbekwaamheid van bestuurders van die motorrijtuigcategorieën, voor zover de betrokken docent voldoet aan de bekwaamheidseisen bedoeld in [artikel 4.2.1., tweede lid, onderdeel b, van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), en  
+b. het theoretische rijonderricht, anders dan het vak verkeer, voor het rijbewijs in de motorrijtuigcategorieën C, C1, D of D1, en de theoretische scholing en theoretische bijscholing in het kader van de vakbekwaamheid van bestuurders van die motorrijtuigcategorieën, voor zover de betrokken docent voldoet aan de bekwaamheidseisen bedoeld in artikel 4.2.1., tweede lid, onderdeel b, van de Wet educatie en beroepsonderwijs, en  
 
 c. het rijonderricht in het kader van een door het CBR opgelegde verplichting zich te onderwerpen aan een scholing educatieve maatregel.     
 3.  Het certificaat dient: 
@@ -141,7 +127,7 @@ a. geldig te zijn voor het rijonderricht dat wordt gegeven,
 b. te voldoen aan de bij regeling van Onze Minister vastgestelde eisen inzake inrichting en uitvoering, en  
 
 c. behoorlijk leesbaar te zijn.     
-4.  In afwijking van het eerste lid, tweede volzin, is degene die bedrijfsmatig rijonderricht geeft voor het besturen van een bromfiets in het bezit van een door het instituut afgegeven certificaat voor de motorrijtuigcategorieën A1, A2 en A als bedoeld in de richtlijn rijbewijzen en is degene die bedrijfsmatig rijonderricht geeft voor het besturen van een brommobiel in het bezit van een door het instituut afgegeven certificaat voor de motorrijtuigcategorie B als bedoeld in de richtlijn rijbewijzen.   
+4.  In afwijking van het eerste lid, tweede volzin, is degene die rijonderricht geeft voor het besturen van een bromfiets in het bezit van een door het instituut afgegeven certificaat voor de motorrijtuigcategorieën A1, A2 en A als bedoeld in de richtlijn rijbewijzen en is degene die rijonderricht geeft voor het besturen van een brommobiel in het bezit van een door het instituut afgegeven certificaat voor de motorrijtuigcategorie B als bedoeld in de richtlijn rijbewijzen.   
 5.  In afwijking van het derde lid, onderdeel a, is een certificaat als bedoeld in artikel 13, onderdeel a, alleen geldig voor het rijonderricht dat wordt gegeven onder directe begeleiding van de stagebegeleider.  
 
 ### Artikel  8  
@@ -151,7 +137,7 @@ c. behoorlijk leesbaar te zijn.
 
 ### Artikel  8a  
 
-1.  Onverminderd de [artikelen 7, eerste lid](../../../../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](../../../../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md) kan, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, artikel 8*b*  in werking worden gesteld.   
+1.  Onverminderd de artikelen 7, eerste lid, en 8, eerste lid, van de Coördinatiewet uitzonderingstoestanden kan, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, artikel 8*b*  in werking worden gesteld.   
 2.  Wanneer het in het eerste lid bedoelde besluit is genomen, wordt onverwijld een voorstel van wet aan de Tweede Kamer gezonden omtrent het voortduren van de werking van de bij dat besluit in werking gestelde bepaling.   
 3.  Wordt het voorstel van wet door de Staten-Generaal verworpen, dan wordt bij koninklijk besluit, op voordracht van Onze Minister-President, de bepaling die ingevolge het eerste lid in werking is gesteld, onverwijld buiten werking gesteld.   
 4.  Bij koninklijk besluit, op voordracht van Onze Minister-President, wordt de bepaling die ingevolge het eerste lid in werking is gesteld, buiten werking gesteld, zodra de omstandigheden dit naar Ons oordeel toelaten.   
@@ -181,7 +167,7 @@ d. aan degene aan wie op grond van de krachtens de artikelen 12a, derde lid, ond
 
 e. aan degene die in het bezit is van een niet langer dan zes maanden voor de afgifte afgegeven militair of politieinstructeursbewijs dat nog geldig is,  
 
-f. aan de migrerende beroepsbeoefenaar, bedoeld in [artikel 1 van de Algemene wet erkenning EG-beroepskwalificaties](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), die voldoet aan de vereisten voor de erkenning van beroepskwalificaties, bedoeld in [artikel 5 van die wet](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md).     
+f. aan de migrerende beroepsbeoefenaar, bedoeld in artikel 1 van de Algemene wet erkenning EG-beroepskwalificaties, die voldoet aan de vereisten voor de erkenning van beroepskwalificaties, bedoeld in artikel 5 van die wet.     
 2.  De in het eerste lid, onderdelen a tot en met d, bedoelde eisen van vakbekwaamheid kunnen verschillen naar gelang het betreft de verschillende categorieën van motorrijtuigen.   
 3.  Een certificaat, afgegeven in het in het eerste lid, onderdeel e, bedoelde geval, kan alleen bevoegdheden verlenen die overeenkomen met die welke voortvloeien uit het desbetreffende instructeursbewijs.   
 4.  Bij de in het eerste lid, onderdeel a, bedoelde algemene maatregel van bestuur wordt bepaald dat voor het deelnemen aan het examen rijinstructeur een in die maatregel aangegeven niveau van vooropleiding is vereist. Personen die niet voldoen aan dit niveau van vooropleiding kunnen bij het instituut een geschiktheidstest afleggen. Bij een positief resultaat van die geschiktsheidstest kan worden deelgenomen aan het examen rijinstructeur.   
@@ -346,7 +332,7 @@ Een certificaat voor het geven van scholing educatieve maatregel alsmede een cer
 
 ### Artikel  21  
 
-1.  Indien bij de in [artikel 141 van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) bedoelde ambtenaren een ernstig vermoeden bestaat dat de houder van een certificaat voor het geven van rijonderricht niet langer voldoet aan de bij algemene maatregel van bestuur vastgestelde eisen van bekwaamheid doen zij daarvan zo spoedig mogelijk schriftelijk mededeling aan het instituut onder vermelding van de feiten en omstandigheden die aan het vermoeden ten grondslag liggen.    
+1.  Indien bij de in artikel 141 van het Wetboek van Strafvordering bedoelde ambtenaren een ernstig vermoeden bestaat dat de houder van een certificaat voor het geven van rijonderricht niet langer voldoet aan de bij algemene maatregel van bestuur vastgestelde eisen van bekwaamheid doen zij daarvan zo spoedig mogelijk schriftelijk mededeling aan het instituut onder vermelding van de feiten en omstandigheden die aan het vermoeden ten grondslag liggen.    
 2.   Het instituut besluit zo spoedig mogelijk, doch uiterlijk binnen twee weken na ontvangst van de in het eerste lid bedoelde schriftelijke mededeling, of betrokkene zich al dan niet dient te onderwerpen aan een onderzoek dat erop is gericht na te gaan of hij voldoet aan de bij algemene maatregel van bestuur vastgestelde eisen van bekwaamheid.    
 3.   Indien naar het oordeel van het instituut geen onderzoek vereist is, kan hij betrokkene overeenkomstig bij algemene maatregel van bestuur vastgestelde regels de verplichting opleggen tot het afleggen van een toets bij het instituut binnen een door hem vastgestelde termijn. De aan het afleggen van een toets verbonden kosten komen ten laste van betrokkene.    
 4.   Voor zover het besluit, bedoeld in het tweede lid, inhoudt dat betrokkene zich dient te onderwerpen aan een onderzoek wordt daarbij bepaald door welke deskundige of door welke deskundigen het onderzoek zal worden verricht.    
@@ -356,7 +342,7 @@ Een certificaat voor het geven van scholing educatieve maatregel alsmede een cer
 
 1.  Degene die zich ingevolge het in artikel 21, tweede lid, bedoelde besluit dient te onderwerpen aan een onderzoek is, behoudens bij of krachtens algemene maatregel van bestuur vastgestelde uitzonderingen, verplicht de daartoe vereiste medewerking te verlenen. Gelijke verplichting bestaat voor degene die ingevolge artikel 21, derde lid, een toets dient af te leggen.    
 2.   Bij gebreke van de in het eerste lid bedoelde medewerking alsmede bij gebreke van een positief toetsresultaat binnen de krachtens artikel 21, derde lid, vastgestelde termijn besluit het instituut onverwijld tot ongeldigverklaring van het certificaat van de houder. Het instituut bepaalt daarbij op welk deel van de geldigheidsduur alsmede op welke in het certificaat aangeduide categorie of categorieën van motorrijtuigen de ongeldigverklaring betrekking heeft.    
-3.  Het instituut deelt het besluit mede aan de in [artikel 141 van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) bedoelde ambtenaren.   
+3.  Het instituut deelt het besluit mede aan de in artikel 141 van het Wetboek van Strafvordering bedoelde ambtenaren.   
 4.   De ongeldigverklaring is van kracht met ingang van de zevende dag na de dag waarop de beschikking tot ongeldigverklaring is bekendgemaakt.    
 5.   De houder van het ongeldig verklaarde certificaat dient dat certificaat in te leveren bij het instituut zodra de ongeldigverklaring van kracht is geworden.   
 
@@ -374,8 +360,8 @@ Een certificaat voor het geven van scholing educatieve maatregel alsmede een cer
 
 ### Artikel  24  
 
-1.  Degene die rijonderricht dan wel scholing educatieve maatregel geeft is verplicht het hem afgegeven certificaat op eerste vordering van de in [artikel 141 van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) bedoelde ambtenaren aan die ambtenaren behoorlijk ter inzage af te geven.    
-2.   Indien rijonderricht dan wel scholing educatieve maatregel wordt gegeven in een motorrijtuig is de rijinstructeur onderscheidenlijk de docent educatieve maatregel verplicht dit motorrijtuig op eerste vordering van de in [artikel 141 van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) bedoelde ambtenaren te doen stilhouden en het hem afgegeven certificaat aan die ambtenaren behoorlijk ter inzage af te geven.   
+1.  Degene die rijonderricht dan wel scholing educatieve maatregel geeft is verplicht het hem afgegeven certificaat op eerste vordering van de in artikel 141 van het Wetboek van Strafvordering bedoelde ambtenaren aan die ambtenaren behoorlijk ter inzage af te geven.    
+2.   Indien rijonderricht dan wel scholing educatieve maatregel wordt gegeven in een motorrijtuig is de rijinstructeur onderscheidenlijk de docent educatieve maatregel verplicht dit motorrijtuig op eerste vordering van de in artikel 141 van het Wetboek van Strafvordering bedoelde ambtenaren te doen stilhouden en het hem afgegeven certificaat aan die ambtenaren behoorlijk ter inzage af te geven.   
 
 ### Hoofdstuk  VIA  
 
@@ -399,9 +385,9 @@ Bij veroordeling wegens overtreding van artikel 7 of van artikel 16 kan de recht
 
 ### Artikel  27  
 
-1.  Degene die rijonderricht geeft is verplicht het hem afgegeven instructeursbewijs dan wel bewijs van ontheffing op eerste vordering van de in [artikel 141 van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) bedoelde ambtenaren behoorlijk ter inzage af te geven.    
-2.   Indien rijonderricht wordt gegeven in een motorrijtuig, is de rijinstructeur verplicht dit motorrijtuig op eerste vordering van de in [artikel 141 van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) bedoelde ambtenaren te doen stilhouden en het hem afgegeven instructeursbewijs dan wel bewijs van ontheffing aan die ambtenaren behoorlijk ter inzage af te geven.    
-3.   Indien bij de in [artikel 141 van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) bedoelde ambtenaren een ernstig vermoeden bestaat dat de houder van een instructeursbewijs als bedoeld in artikel 27 kennelijk niet voldoet aan de bij algemene maatregel van bestuur vastgestelde eisen van bekwaamheid, doen zij daarvan zo spoedig mogelijk schriftelijk mededeling aan Onze Minister onder vermelding van de feiten en omstandigheden die aan het vermoeden ten grondslag liggen. De artikelen 21, tweede tot en met vijfde lid, 22 en 23 zijn van overeenkomstige toepassing.   
+1.  Degene die rijonderricht geeft is verplicht het hem afgegeven instructeursbewijs dan wel bewijs van ontheffing op eerste vordering van de in artikel 141 van het Wetboek van Strafvordering bedoelde ambtenaren behoorlijk ter inzage af te geven.    
+2.   Indien rijonderricht wordt gegeven in een motorrijtuig, is de rijinstructeur verplicht dit motorrijtuig op eerste vordering van de in artikel 141 van het Wetboek van Strafvordering bedoelde ambtenaren te doen stilhouden en het hem afgegeven instructeursbewijs dan wel bewijs van ontheffing aan die ambtenaren behoorlijk ter inzage af te geven.    
+3.   Indien bij de in artikel 141 van het Wetboek van Strafvordering bedoelde ambtenaren een ernstig vermoeden bestaat dat de houder van een instructeursbewijs als bedoeld in artikel 27 kennelijk niet voldoet aan de bij algemene maatregel van bestuur vastgestelde eisen van bekwaamheid, doen zij daarvan zo spoedig mogelijk schriftelijk mededeling aan Onze Minister onder vermelding van de feiten en omstandigheden die aan het vermoeden ten grondslag liggen. De artikelen 21, tweede tot en met vijfde lid, 22 en 23 zijn van overeenkomstige toepassing.   
 
 ### Artikel  28  
 Vervallen per 01-06-2009 

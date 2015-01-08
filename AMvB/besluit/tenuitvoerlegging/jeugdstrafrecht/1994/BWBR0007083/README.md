@@ -32,7 +32,7 @@ e. raad voor de kinderbescherming: de raad, bedoeld in artikel 238, eerste lid, 
 
 f.inrichting: een inrichting als bedoeld in artikel 1, onder b, van de Beginselenwet justitiële jeugdinrichtingen;
 
-g.jeugdreclassering: een stichting als bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg, bij de uitvoering van de taken, bedoeld in artikel 10, eerste lid, onder c en d, van die wet;
+g. jeugdreclassering: gecertificeerde instelling als bedoeld in artikel 1.1 van de Jeugdwet, bij de uitvoering van jeugdreclassering;
 
 h.reclassering: de stichting alsmede een reclasseringsinstelling als bedoeld in artikel 1, onder b, onderscheidenlijk onder c, van de Reclasseringsregeling 1995;
 
@@ -206,8 +206,22 @@ De voorwaardelijke invrijheidstelling en haar herroeping worden aangetekend op h
 
 ####De uitvoering van de voorwaardelijke veroordeling
 
+### Artikel  22  
+
+1.  Dit lid is nog niet in werking getreden.   
+2.  Het openbaar ministerie kan de jeugdreclassering en de reclassering, voor zover zij zijn belast met het toezicht, aanwijzingen geven omtrent het toezicht op de naleving van de voorwaarden.  
+
+### Artikel  23  
+
+1.  De jeugdreclassering of de reclassering die is belast met het toezicht, draagt er zorg voor dat de aard en de intensiteit van het toezicht en de verplichtingen waaraan de jeugdige zich in het kader van het toezicht heeft te houden, worden vastgelegd.   
+2.  De jeugdreclassering of de reclassering die is belast met het toezicht, draagt er zorg voor dat het toezicht aanvangt binnen een termijn van vijf dagen na het ingaan van de proeftijd, dan wel binnen een termijn van zeven dagen na het ingaan van de proeftijd, indien de rechter een bevel als bedoeld in artikel 77za van het Wetboek van Strafrecht heeft gegeven.  
+
+### Artikel  24  
+
+1.  De jeugdige volgt de aanwijzingen en opdrachten op die door de jeugdreclassering of de reclassering worden gegeven in het kader van het toezicht.   
+2.  De jeugdige geeft veranderingen in de woon- of werksituatie onmiddellijk door aan de jeugdreclassering of de reclassering.  
+
 ### Artikel  25  
-Treedt in werking op een nader te bepalen tijdstip 
 
 Zo spoedig mogelijk na de melding van niet naleving van voorwaarden brengt de jeugdreclassering of de reclassering advies uit aan het openbaar ministerie of de melding naar haar oordeel aanleiding zou kunnen geven tot een van de volgende maatregelen: 
 
@@ -244,7 +258,7 @@ Met het oog op het beëindigen van het toezicht, stuurt de jeugdreclassering of 
 8°. een verbod op het gebruik van verdovende middelen of alcohol en de verplichting ten behoeve van de naleving van dit verbod mee te werken aan bloedonderzoek of urineonderzoek;  
 
 9°. andere bijzondere voorwaarden, het gedrag van de jeugdige betreffende.     
-2.  Een behandeling als bedoeld in het eerste lid, onder 1°, of de voorwaarde, bedoeld in het eerste lid, onder 9°, kunnen geheel of ten dele bestaan uit een vorm van zorg als bedoeld in artikel 5, tweede lid, onderdelen a en b, van de Wet op de jeugdzorg, indien de stichting, bedoeld in artikel 1, eerste lid, van die wet ten aanzien van de jeugdige een besluit heeft genomen waaruit blijkt dat deze op deze vorm van zorg is aangewezen.   
+2.  Een behandeling als bedoeld in het eerste lid, onder 1°, of de voorwaarde, bedoeld in het eerste lid, onder 9°, kunnen geheel of ten dele bestaan uit een vorm van jeugdhulp als bedoeld in artikel 1.1 van de Jeugdwet, indien het college van burgemeester en wethouders een besluit tot het treffen van een voorziening op het gebied van jeugdhulp als bedoeld in artikel 2.3, eerste lid, van de Jeugdwet, heeft genomen.   
 3.  De rechter kan de werking van de bijzondere voorwaarden, genoemd in het eerste lid, beperken tot een bij de beslissing tot schorsing van het bevel tot voorlopige hechtenis te bepalen tijdsduur, met dien verstande dat een behandeling als bedoeld in het eerste lid, onder 1°, de begeleiding als bedoeld in het eerste lid, onder 2°, en een voorwaarde als bedoeld in het eerste lid, onder 9°, ten hoogste zes maanden kunnen duren. Aan een bijzondere voorwaarde kan elektronisch toezicht worden verbonden.   
 4.  Dit lid is nog niet in werking getreden.   
 5.  De in artikel 493, zesde lid, van het Wetboek van Strafvordering bedoelde instemming moet blijken uit een door de jeugdige ondertekende verklaring, waarin de aard en inhoud van de bijzondere voorwaarden zijn omschreven. De instemming van de jeugdige kan eveneens blijken uit het proces-verbaal ter terechtzitting.  

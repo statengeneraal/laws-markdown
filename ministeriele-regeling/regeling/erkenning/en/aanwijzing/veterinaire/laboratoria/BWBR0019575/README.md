@@ -172,7 +172,7 @@ d. maandelijks aan de minister te rapporteren over de in die maand uitgevoerde o
 
 ### Artikel  16a  
 
-Een laboratorium dat erkend is voor een testmethode als bedoeld in de bijlage, onderdelen 12 en 14 tot en met 24, zendt van 10% van alle voor het onderzoek naar de daar genoemde ziekten verzamelde stoffen een monster naar het Centraal Veterinair Instituut te Lelystad. 
+Een laboratorium dat erkend is voor een testmethode als bedoeld in de bijlage, onderdelen 12 en 14 tot en met 27, zendt van 10% van alle voor het onderzoek naar de daar genoemde ziekten verzamelde stoffen een monster naar het Centraal Veterinair Instituut te Lelystad. 
 
 ### Paragraaf  5  
 
@@ -210,8 +210,8 @@ d. het laboratorium niet voldoet aan één of meer voorwaarden en verplichtingen
 
 ### Artikel  20  
 
-1. Het Centraal Veterinair Instituut, te Lelystad is aangewezen om de onderzoeken, bedoeld in de bijlage, onder 1 tot en met 10 en 12 tot en met 25, uit te voeren.  
-2.  De Gezondheidsdienst voor dieren wordt aangewezen om het onderzoek, bedoeld in de bijlage, onder 26 en 27, uit te voeren. 
+1. Het Centraal Veterinair Instituut, te Lelystad is aangewezen om de onderzoeken, bedoeld in de bijlage, onder 1 tot en met 10 en 12 tot en met 25, uit te voeren. 
+2. De Gezondheidsdienst voor dieren wordt aangewezen om de onderzoeken, bedoeld in de bijlage onder 3, 26, 27, 28 en 29 uit te voeren.
 
 ### Artikel  20a  
 
@@ -262,6 +262,10 @@ Het Centraal Veterinair Instituut, te Lelystad, en het Rijksinstituut voor Volks
 1.  Erkenningen die zijn verleend op grond van de Regeling erkenning laboratoria snelle BSE-testen worden geacht te zijn verleend op grond van artikel 3 van deze regeling.   
 2.  De Gezondheidsdienst voor Dieren b.v. die op grond van artikel 7 van de Regeling rundersperma en op grond van artikel 12, tweede lid, van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s is aangewezen, blijft tot vier maanden na inwerkingtreding van deze regeling aangewezen voor de uitvoering van de onderzoeken, bedoeld in de bijlage, onder 2 tot en met 8.  
 
+### Artikel  22a  
+
+Besluiten tot erkenning van laboratoria genomen door de voorzitter van het Productschap Pluimvee en Eieren op grond van het Besluit erkenningsvoorwaarden en werkwijzen laboratoria (PPE) 2011 die golden onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van dit artikel, worden met ingang van 1 januari 2015 voor de duur van 1 jaar geacht te zijn genomen op grond van deze regeling, onder dezelfde voorschriften, beperkingen en voorwaarden. 
+
 ### Artikel  23  
 
 Wijzigt de Regeling rundersperma. 
@@ -303,8 +307,8 @@ C.P. Veerman
 | 5  | BVD/MD als bedoeld in:  – bijlage B, hoofdstuk I en II, van richtlijn 88/407/EEG  – export derde landen  | Een BVDV-antigeen ELISA en BVDV-antilichaam ELISA  |
 | 6  | Campylobacter fetus ssp. Venerealis als bedoeld in:  – bijlage B, hoofdstuk I en II, van richtlijn 88/407/EEG  – export derde landen  | Een bacteriologisch onderzoek door middel van kweek van praeputiaal of vaginaal spoelsels  |
 | 7  | Trichomonas foetus als bedoeld in:  – bijlage B, hoofdstuk I en II van richtlijn 88/407/EEG  – export derde landen  | Een cultureel onderzoek door middel van kweek van praeputiaal of vaginaal spoelsels  |
-| 8  | Aujeszky als bedoeld in:  – beschikking 2001/618/EG  – artikel 12 Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s  – verordening bestrijding ziekte van Aujeszky 2002<sup>1</sup>   export derde landen  | Een gE ELISA of een Auj-gB ELISA  |
-| 9  | Genotypering van schapen:  – verordening fokken van TSE-ongevoelige schapen (PVV) 2004<sup>2</sup>   | Elke methode ter bepaling van de aminozuren op codons 136, 154, en 171 van het PrP gen van beide allelen die door het Centraal Veterinair Instituut, te Lelystad als voldoende betrouwbaar wordt beoordeeld.  |
+| 8  | Aujeszky als bedoeld in Beschikking 2008/185  | Een gE ELISA of een Auj-gB ELISA  |
+| 9  | Genotypering van schapen:  – Artikel 99a van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s   | Elke methode ter bepaling van de aminozuren op codons 136, 154, en 171 van het PrP gen van beide allelen die door het Centraal Veterinair Instituut, te Lelystad als voldoende betrouwbaar wordt beoordeeld.  |
 |10. |Doelmatigheid van antirabiësvaccins serologische tests als bedoel in artikel 3, eerste lid van beschikking 2000/258/EG | --- |
 |11. | Onderzoek naar trichinella als bedoeld in artikel 2, eerste lid, tweede alinea, en derde lid, derde alinea, van verordening (EG) nr. 2075/2005 |De referentiemethode als bedoeld in bijlage I, van verordening (EG) nr. 2075/2005, met eventueel daarbij één of meer gelijkwaardige methoden als bedoeld in hoofdstuk II van bijlage I van de verordening |
 |12. |Afrikaanse paardenpest (APP) of  African horse sickness  |ELISA: competitieELISA/indirecte ELISA  Complementbindingsreactie |
@@ -323,5 +327,16 @@ C.P. Veerman
 |25. |Brucella melitensis |De Bengaals-rood test (RBT) als genoemd in bijlage C van de Richtlijn 91/96/EEG |
 |26. |Onderzoek naar de werking van vaccinatie tegen Newcastle disease als bedoeld in artikel 93c van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s | De methode, bedoeld in bijlage III, hoofdstuk 6 van Richtlijn 92/66/EEG  |
 |27. | Onderzoek naar de aanwezigheid van antistoffen tegen aviaire influenza als bedoeld in artikel 86 van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s  | De Agargelprecipitatietest, voor zover het monsters afkomstig van vleeskuikens betreft of een Elisa-test, voor zover het andere dieren dan vleeskuikens betreft  |
+|28 | Mycoplasma gallisepticum  | Serum plate agglutination-(SPA) test, haemagglutinatie-test, ELISA of PCR  |
+| --- | Mycoplasma synoviae  | Serum plate agglutination-(SPA) test, haemagglutinatie-test, ELISA of PCR  |
+| --- | Mycoplasma meleagridis  | Serum plate agglutination-(SPA) test, haemagglutinatie-test, ELISA of PCR  |
+|29 | Salmonella arizonae  | Kweek  |
+| --- | Salmonella Gallinarum  | Kweek en Serum plate agglutination-(SPA) test  |
+| --- | Salmonella-Pullorum  | Kweek en Serum plate agglutination-(SPA) test  |
+|30 | Salmonella enteritidis  | Detectie aan de hand van de MSRV methode zoals beschreven in ISO 6579 annex D of serotypering met het Kaufmann-White-LeMinor schema volgens de ISO 6579-3 methode.  |
+| --- | Salmonella typhimurium  | Detectie aan de hand van de MSRV methode zoals beschreven in ISO 6579 annex D of serotypering met het Kaufmann-White-LeMinor schema volgens de ISO 6579-3 methode.  |
+| --- | Salmonella hadar  | Detectie aan de hand van de MSRV methode zoals beschreven in ISO 6579 annex D of serotypering met het Kaufmann-White-LeMinor schema volgens de ISO 6579-3 methode.  |
+| --- | Salmonella infantis  | Detectie aan de hand van de MSRV methode zoals beschreven in ISO 6579 annex D of serotypering met het Kaufmann-White-LeMinor schema volgens de ISO 6579-3 methode.  |
+| --- | Salmonella java  | Detectie aan de hand van de MSRV methode zoals beschreven in ISO 6579 annex D of serotypering met het Kaufmann-White-LeMinor schema volgens de ISO 6579-3 methode.  |
+| --- | Salmonella virchow  | Detectie aan de hand van de MSRV methode zoals beschreven in ISO 6579 annex D of serotypering met het Kaufmann-White-LeMinor schema volgens de ISO 6579-3 methode.  |
 
-<sup>1</sup> Verordening van 10 juli 2002 (Vbbo 74), laatstelijk gewijzigd bij verordening van 11 december 2002 (Vbbo 2003, 26). <sup>2</sup> Verordening van 8 september 2004 (Vbbo 65).

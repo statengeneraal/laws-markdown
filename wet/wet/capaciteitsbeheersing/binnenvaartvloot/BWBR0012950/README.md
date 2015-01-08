@@ -15,11 +15,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 a. Raadsverordening: Verordening nr. 718/1999 van de Raad van de Europese Unie van 29 maart 1999 betreffende het beleid ten aanzien van de capaciteit van de communautaire binnenvaartvloot met het oog op de bevordering van het vervoer over de binnenwateren (PbEG L 90);  
 
-b. Onze Minister: Onze Minister van Verkeer en Waterstaat;  
+b. Onze Minister: Onze Minister van Infrastructuur en Milieu;  
 
 c. lidstaten: de betrokken lidstaten, bedoeld in artikel 3, eerste lid, van de Raadsverordening;  
 
-d. fonds voor de binnenvaart: artikel 05.34 van de begroting van Verkeer en Waterstaat.   
+d. fonds voor de binnenvaart: artikel 05.34 van de begroting van Infrastructuur en Milieu.   
 
 ### Artikel  2  
 
@@ -34,7 +34,7 @@ b. bijdragen van lidstaten en van Zwitserland als bedoeld in artikel 3, zesde li
 
 ### Artikel  3  
 
-De organisaties, bedoeld in artikel 3, tweede lid, van de Raadsverordening zijn de organisaties op het terrein van de binnenvaart, vertegenwoordigd in het Overlegorgaan verkeer en waterstaat, bedoeld in [artikel 4 van de Wet advies en overleg verkeer en waterstaat](../../../../../wet/wet/overleg/verkeer/en/waterstaat/BWBR0008410/README.md). 
+De organisaties, bedoeld in artikel 3, tweede lid, van de Raadsverordening zijn de organisaties op het terrein van de binnenvaart, vertegenwoordigd in het Overlegorgaan infrastructuur en milieu, bedoeld in artikel 4 van de Wet overleg infrastructuur en milieu. 
 
 ### Artikel  4  
 
@@ -52,9 +52,9 @@ Het is de eigenaar verboden zijn binnenschip in de vaart te brengen in afwijking
 
 Met het toezicht op de naleving van het bij of krachtens deze wet en de Raadsverordening bepaalde zijn belast: 
 
-a. de bij of krachtens [artikel 141 van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) aangewezen ambtenaren,  
+a. de bij of krachtens artikel 141 van het Wetboek van Strafvordering aangewezen ambtenaren,  
 
-b. de door Onze Minister aangewezen ambtenaren van het Ministerie van Verkeer en Waterstaat.   
+b. de door Onze Minister aangewezen ambtenaren van het Ministerie van Infrastructuur en Milieu.   
 
 ### Artikel  8  
 

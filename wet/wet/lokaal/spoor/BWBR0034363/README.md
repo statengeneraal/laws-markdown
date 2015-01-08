@@ -22,7 +22,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 *Locaalspoor- en Tramwegwet:* Wet van 9 juli 1900, houdende nadere regeling van den dienst en het gebruik van spoorwegen, waarop uitsluitend met beperkte snelheid wordt vervoerd (Stb. 1900, 118);  
 
-*lokaal spoorwegverkeerssysteem:* verkeerssysteem van de krachtens artikel 2, tweede lid, als zodanig aangewezen lokale spoorweg;  
+*lokaal spoorwegverkeerssysteem:* verkeerssysteem van de krachtens artikel 2, eerste lid, als zodanig aangewezen lokale spoorweg;  
 
 *lokale spoorweg:* spoorweg die krachtens artikel 2, eerste lid, als zodanig is aangewezen;  
 
@@ -217,7 +217,7 @@ Treedt in werking per 01-12-2015
 
 a. in te grijpen in de bediening of de werking van installaties van de lokale spoorweginfrastructuur;  
 
-b. de lokale spoorweginfrastructuur te verwijderen, beschadigen of te wijzigen;  
+b. de lokale spoorweginfrastructuur te verwijderen, te beschadigen of te wijzigen;  
 
 c. zich te bevinden op of langs een voor personen afgesloten lokale spoorweg of een gedeelte daarvan dan wel daarop of daarlangs dieren te drijven of te laten lopen;  
 
@@ -228,8 +228,9 @@ d. zich zodanig te gedragen, dat het beheer van of het verkeer over de lokale sp
 Treedt in werking per 01-12-2015 
 
 1.  Gedeputeerde staten onderscheidenlijk het dagelijks bestuur kunnen onderzoek verrichten naar de oorzaken van ongevallen en incidenten op lokale spoorwegen en naar andere onregelmatigheden in de afwikkeling van het spoorverkeer waardoor de veiligheid van het spoorverkeer of van daarbij betrokken personen in gevaar is gebracht of in gevaar gebracht had kunnen worden, indien zij dat onderzoek nodig achten ter evaluatie van het beleid op het terrein van de veiligheid van het spoorverkeer.   
-2.  Ten behoeve van het onderzoek hebben de door gedeputeerde staten onderscheidenlijk het dagelijks bestuur aangewezen ambtenaren jegens vervoerders en beheerders de bevoegdheden, bedoeld in de artikelen 5:15 tot en met 5:19 van de Algemene wet bestuursrecht. De artikelen 5:12, 5:13 en 5:20 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing.   
-3.  Gedeputeerde staten onderscheidenlijk het dagelijks bestuur onthouden zich van het onderzoek naar de oorzaken van ongevallen en incidenten op lokale spoorwegen voor zover de Onderzoeksraad voor veiligheid daarnaar een onderzoek instelt.  
+2.  Gedeputeerde staten onderscheidenlijk het dagelijks bestuur kunnen een ander machtigen tot het verrichten van het onderzoek, bedoeld in het eerste lid.   
+3.  Ten behoeve van het onderzoek hebben gedeputeerde staten, het dagelijks bestuur of de gemachtigde jegens vervoerders en beheerders de bevoegdheden, bedoeld in de artikelen 5:15 tot en met 5:19 van de Algemene wet bestuursrecht. De artikelen 5:12, 5:13 en 5:20 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing.  
+4.  Gedeputeerde staten onderscheidenlijk het dagelijks bestuur onthouden zich van het onderzoek naar de oorzaken van ongevallen en incidenten op lokale spoorwegen voor zover de Onderzoeksraad voor veiligheid daarnaar een onderzoek instelt.  
 
 ### Hoofdstuk  3  
 
@@ -290,7 +291,7 @@ e. het veiligheidsniveau van de bedrijfsvoering voortdurend verbetert met het oo
 
 f. ervoor zorg draagt dat werknemers met een veiligheidsfunctie met het oog op het behouden van hun geschiktheid, kennis en bekwaamheid, voor de desbetreffende functie de noodzakelijke oefening hebben en de noodzakelijke nadere of aanvullende scholing, opleiding en studie volgen; en  
 
-g. zijn veiligheidszorgsysteem heeft afgestemd op het veiligheidszorgsysteem van de vervoerder. Indien de beheerder tevens vervoerder is kan worden volstaan met een integraal veiligheidszorgsysteem voor zowel het beheer als het vervoer.     
+g. zijn veiligheidsbeheersysteem heeft afgestemd op het veiligheidsbeheersysteem van de vervoerder. Indien de beheerder tevens vervoerder is kan worden volstaan met een integraal veiligheidsbeheersysteem voor zowel het beheer als het vervoer.     
 3.  Bij ministeriële regeling worden nadere regels gesteld over het veiligheidsbeheersysteem.  
 
 ### Artikel  20  
@@ -302,7 +303,7 @@ Treedt in werking per 01-12-2015
 
 a. de beheerder van een daaraan grenzende lokale spoorweg;  
 
-b. de beheerder van een daaraan grenzende hoofdspoorweg of bijzondere spoorweg als bedoeld in artikel 2, tweede of derde lid, van de Spoorwegwet; of  
+b. de beheerder van een daaraan grenzende hoofdspoorweg of bijzondere spoorweg als bedoeld in artikel 2, eerste lid, van de Spoorwegwet; of  
 
 c. de wegbeheerder van een daaraan grenzende weg.     
 4.  Gedeputeerde staten onderscheidenlijk het dagelijks bestuur kunnen de beheerder bindende aanwijzingen geven met betrekking tot het beheer.  
@@ -324,7 +325,7 @@ a. het verkeer over de lokale spoorweg;
 
 b. de weggebruikers van de aan de lokale spoorweg grenzende openbare weg;  
 
-c. het verkeer over een aan de lokale spoorweg grenzende hoofdspoorweg of bijzondere spoorweg als bedoeld in artikel 2, tweede of derde lid, van de Spoorwegwet;  
+c. het verkeer over een aan de lokale spoorweg grenzende hoofdspoorweg of bijzondere spoorweg als bedoeld in artikel 2, eerste lid, van de Spoorwegwet;  
 
 d. de omwonenden; en  
 
@@ -781,7 +782,7 @@ Treedt in werking per 01-12-2015
 ### Artikel  65  
 Treedt in werking per 01-12-2015 
 
-Ten aanzien van degene die op het tijdstip van inwerkingtreding van artikel 37, eerste lid, onderdeel c, een functie uitoefent binnen het lokale spoorwegverkeersysteem die van aanmerkelijke invloed op de veiligheid van het spoorverkeer over de lokale spoorweg, geldt het bepaalde in artikel 37, eerste lid, onderdeel c, met ingang van de datum na een jaar van inwerkingtreding van artikel 37, eerste lid, onderdeel c. 
+Ten aanzien van degene die op het tijdstip van inwerkingtreding van artikel 37, eerste lid, onderdeel c, een functie uitoefent binnen het lokale spoorwegverkeersysteem die van aanmerkelijke invloed is op de veiligheid van het spoorverkeer over de lokale spoorweg, geldt het bepaalde in artikel 37, eerste lid, onderdeel c, met ingang van de datum na een jaar van inwerkingtreding van artikel 37, eerste lid, onderdeel c. 
 
 ### Artikel  66  
 Treedt in werking per 01-12-2015 

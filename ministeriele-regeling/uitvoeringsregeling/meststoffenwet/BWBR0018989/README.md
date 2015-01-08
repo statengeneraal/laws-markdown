@@ -1194,8 +1194,8 @@ c. de door de minister ter identificatie van de partijen bij de overeenkomst ver
 
 ### Artikel  73  
 
-1. Als forfaitaire productienormen als bedoeld in artikel 66, eerste lid, van het besluit worden voor de onderscheiden diersoorten en diercategorieën de normen vastgesteld, die zijn vermeld in bijlage D, tabel I, kolommen B en C.  
-2.  Artikel 1, onderdelen b, c, f en j, van de Zuivelverordening 2005, Grondslag uitbetaling boerderijmelk, zijn van overeenkomstige toepassing in deze paragraaf. 
+1. Als forfaitaire productienormen als bedoeld in artikel 66, eerste lid, van het besluit worden voor de onderscheiden diersoorten en diercategorieën de normen vastgesteld, die zijn vermeld in bijlage D, tabel I, kolommen B en C. 
+2. De begripsbepalingen van boerderijmelk, ontvanger van boerderijmelk en leverantie van boerderijmelk, bedoeld in artikel 1.1 van het Besluit dierlijke producten en de begripsbepaling van melkcontrolestation, bedoeld in artikel 2.10 van de Regeling dierlijke producten, zijn van overeenkomstige toepassing in deze paragraaf.
 
 ### Artikel  74  
 
@@ -1215,7 +1215,7 @@ De artikelen 44, eerste, derde en vierde lid, en 45, eerste en vijfde lid, van h
 
 ### Artikel  75a  
 
-1.  Een ontvanger van boerderijmelk draagt er zorg voor dat een melkcontrolestation het ureumgehalte vaststelt van een representatief monster als bedoeld in artikel 4, eerste lid, van de Zuivelverordening 2005, Grondslag uitbetaling boerderijmelk.   
+1.  Een ontvanger van boerderijmelk draagt er zorg voor dat een melkcontrolestation het ureumgehalte vaststelt van een representatief monster als bedoeld in artikel 2.39, eerste lid, van de Regeling dierlijke producten.   
 2.  Een melkcontrolestation stelt het ureumgehalte vast volgens de methode NEN-ISO 14637:2004.  
 
 ### Artikel  75b  

@@ -308,7 +308,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 ####Respijtperiode
 
-De in artikel 42 bedoelde verboden gelden niet in de respijtperiode bedoeld in artikel 52 van verordening (EU) Nr. 528/2012.
+De in artikel 43 bedoelde verboden gelden niet in de respijtperiode bedoeld in artikel 52 van verordening (EU) Nr. 528/2012.
 
 ### Artikel  45  
 
@@ -324,7 +324,7 @@ b. de etikettering van biociden, bedoeld in artikel 69, derde lid, onder b, van 
 
 ####Afwijkingen van de eisen
 
-1.  Onze Minister kan ter uitvoering van artikel 55 van verordening (EU) Nr. 528/2012 ambtshalve of op aanvraag vrijstelling verlenen van het verbod, bedoeld in artikel 42, eerste lid, om te handelen in strijd met artikel 17, eerste lid, van verordening (EU) Nr. 528/2012 en van de voorwaarden van artikel 19 van verordening (EU) Nr. 528/2012 inzake het verlenen van een toelating voor een biocide.   
+1.  Onze Minister kan ter uitvoering van artikel 55 van verordening (EU) Nr. 528/2012 ambtshalve of op aanvraag vrijstelling verlenen van het verbod, bedoeld in artikel 43, eerste lid, om te handelen in strijd met artikel 17, eerste lid, van verordening (EU) Nr. 528/2012 en van de voorwaarden van artikel 19 van verordening (EU) Nr. 528/2012 inzake het verlenen van een toelating voor een biocide.   
 2.  Indien een onverwijlde voorziening noodzakelijk is, kan Onze Minister bepalen dat de vrijstelling onmiddellijk in werking treedt. In dat geval wordt het vrijstellingsbesluit, in afwijking van artikel 3:42, tweede lid, van de Algemene wet bestuursrecht op elektronische wijze bekendgemaakt.   
 3.  Bij regeling van Onze Minister kan worden bepaald dat een aanvraag eerst in behandeling wordt genomen nadat een bij die regeling vastgesteld bedrag is voldaan op een daarbij te bepalen wijze. Bij regeling van Onze Minister kunnen tevens regels worden gesteld omtrent de te volgen procedure en de minimumvoorwaarden voor vrijstelling. 
 
@@ -404,7 +404,7 @@ c de geldende veiligheidsinstructies voor het gewasbeschermingsmiddel.
 
 ####Invoer, vervoer en uitvoer van niet-toegelaten middelen
 
-1.  Het binnen Nederland brengen, de productie, de opslag en het vervoer van niet-toegelaten biociden zijn in afwijking van artikel 42 toegestaan, indien aangetoond kan worden dat de biociden zijn bestemd voor gebruik in een andere lidstaat van de Europese Unie waar de biociden wel zijn toegelaten, of voor gebruik in een derde land en aldaar niet verboden zijn, en is voldaan aan bij regeling van Onze Minister gestelde voorschriften.   
+1.  Het binnen Nederland brengen, de productie, de opslag en het vervoer van niet-toegelaten biociden zijn in afwijking van artikel 43 toegestaan, indien aangetoond kan worden dat de biociden zijn bestemd voor gebruik in een andere lidstaat van de Europese Unie waar de biociden wel zijn toegelaten, of voor gebruik in een derde land en aldaar niet verboden zijn, en is voldaan aan bij regeling van Onze Minister gestelde voorschriften.   
 2.  De productie, de opslag en het vervoer van niet-toegelaten gewasbeschermingsmiddelen zijn in afwijking van artikel 20 toegestaan, indien aangetoond kan worden dat de gewasbeschermingsmiddelen zijn bestemd voor gebruik in een andere lidstaat van de Europese Unie en het bewuste gewasbeschermingsmiddel daar is toegelaten, of voor gebruik in een derde land, en is voldaan aan bij regeling van Onze Minister gestelde voorschriften in verband met het kunnen controleren dat het bewuste middel niet op het Nederlandse grondgebied wordt gebruikt dan wel daadwerkelijk wordt uitgevoerd.   
 3.  De voorschriften bedoeld in het eerste en het tweede lid hebben betrekking op: 
 
@@ -778,7 +778,7 @@ b. het middel toelaat op grond van artikel 35 of 55.
 1.  De Wet gewasbeschermingsmiddelen en biociden en de daarop berustende bepalingen, zoals deze luidden voor de inwerkingtreding van de Wet van 24 maart 2011 houdende wijziging van de Wet gewasbeschermingsmiddelen en biociden in verband met de implementatie van Europese regelgeving op het gebied van het op de markt brengen en het duurzame gebruik van gewasbeschermingsmiddelen (Stb. 235) blijft voor zover nodig van toepassing in de in artikel 80, eerste lid, van verordening (EG) 1107/2009 bedoelde gevallen.   
 2.  Op de voet van artikel 8o, tweede lid, van verordening (EG) 1107/2009 blijft het bepaalde bij of krachtens de artikelen 25 en 27 van toepassing zoals deze bepalingen luidden voor de inwerkingtreding van de Wet van 24 maart 2011 houdende wijziging van de Wet gewasbeschermingsmiddelen en biociden in verband met de implementatie van Europese regelgeving op het gebied van het op de markt brengen en het duurzame gebruik van gewasbeschermingsmiddelen (Stb. 235).   
 3.  De Wet gewasbeschermingsmiddelen en biociden en de daarop berustende bepalingen, zoals deze luidden voor de inwerkingtreding van de Wet van 24 maart 2011 houdende wijziging van de Wet gewasbeschermingsmiddelen en biociden in verband met de implementatie van Europese regelgeving op het gebied van het op de markt brengen en het duurzame gebruik van gewasbeschermingsmiddelen (Stb. 235), blijft van toepassing op aanvragen tot toelating, in de in artikel 80, vijfde lid, van verordening (EG) 1107/2009 bedoelde gevallen, totdat op die aanvragen is beslist.   
-4.  De Wet gewasbeschermingsmiddelen en biociden en de daarop berustende bepalingen, zoals deze luidden voor de inwerkingtreding van de Wet van 6 november 2013 houdende wijziging van de Wet gewasbeschermingsmiddelen en biociden ter uitvoering van Verordening (EU) Nr. 528/2012 van het Europees Parlement en de Raad van de Europese Unie van 22 mei 2012 betreffende het op de markt aanbieden en het gebruik van biociden (PbEU, L 167) (Stb. 459) blijven voor zover nodig van toepassing in de in artikel 89, tweede lid, van verordening (EG) Nr. 528/2012 bedoelde gevallen. 
+4.  De Wet gewasbeschermingsmiddelen en biociden en de daarop berustende bepalingen, zoals deze luidden voor de inwerkingtreding van de Wet van 6 november 2013 houdende wijziging van de Wet gewasbeschermingsmiddelen en biociden ter uitvoering van Verordening (EU) Nr. 528/2012 van het Europees Parlement en de Raad van de Europese Unie van 22 mei 2012 betreffende het op de markt aanbieden en het gebruik van biociden (PbEU, L 167) (Stb. 459) blijven voor zover nodig van toepassing in de in artikelen 89, tweede lid, en 93 van verordening (EG) Nr. 528/2012 bedoelde gevallen. 
 
 ### §  2  
 

@@ -143,11 +143,45 @@ c. onmiddellijk na de beslissing met betrekking tot het vlees, bedoeld in artike
 
 In hoofdstuk 2, paragraaf 2, wordt verstaan onder: 
 
+–*aangewezen instelling:* instantie als bedoeld in artikel 12, eerste lid, van de Metrologiewet;
+
+–*erkende keurder:* natuurlijke persoon of rechtspersoon waaraan een erkenning als bedoeld in artikel 11, eerste lid, van de Metrologiewet is verleend;
+
+–*essentiële wijziging in de vloeistofmeetinstallatie: *wijziging die de meetfunctie kan beïnvloeden, waaronder wijziging van:
+
+a. de melkpomp, indien dit een verandering in de opzuigcapaciteit tot gevolg heeft;  
+
+b. de luchtafscheider, indien het een wijziging van het binnenwerk dan wel een vervanging van de gehele luchtafscheider betreft;  
+
+c. de melkinhoud, indien dit een wijziging van de basishoeveelheid tot gevolg heeft, of  
+
+d. de melkmeter, indien het een verandering in de meter dan wel een vervanging van de meter betreft;  
+
+–  *geslachte kippen:* geslachte kippen, met inbegrip van delen daarvan en eetbare bijproducten, alsmede producten op basis van geslachte kippen;  
+
+–*gewijzigde rijdende melkontvangst:* rijdende melkontvangst waarbij een essentiële wijziging in de vloeistofmeetinstallatie is aangebracht;
+
+–*handboek:* door Stichting COKZ goedgekeurde gids voor goede praktijken;
+
+–*herkeuring:* overeenstemmingsbeoordeling als bedoeld in artikel 7 van de Metrologiewet van een afgekeurde rijdende melkontvangst;
+
+–*in onderzoek nemen:* registreren van de ontvangst door een melkcontrolestation;
+
+–*keuring:* overeenstemmingsbeoordeling van in gebruik genomen meetinstrumenten als bedoeld in artikel 7 van de Metrologiewet;
+
+–  *kippen:* pluimvee behorend tot de soort Gallus domesticus waarbij de punt van het borstbeen nog buigzaam is; 
+
 –  *koemelk:* het door het melken van een of meer koeien verkregen product, zonder dat daaraan stoffen zijn toegevoegd of onttrokken;  
 
 –  *legkip:* legrijp dier van de soort Gallus gallus dat wordt gehouden voor de productie van andere eieren dan broedeieren;  
 
+–*melkcontrolestation: *laboratorium dat onderzoek naar de kwaliteit of de samenstelling van boerderijmelk uitvoert;
+
+–  *richtlijn 2000/13/EG:* richtlijn 2000/13/EG van het Europees Parlement en de Raad van maart 2000 betreffende de onderlinge aanpassing van de wetgeving der lidstaten inzake de etikettering en presentatie van levensmiddelen alsmede inzake de daarvoor gemaakte reclame (PbEU 2000 L 109); 
+
 –  *richtlijn 92/52/EEG:* richtlijn 92/52/EEG van de Raad van de Europese Gemeenschappen van 18 juni 1992 inzake volledige zuigelingenvoeding en opvolgzuigelingenvoeding die voor de uitvoer naar derde landen is bestemd (PbEG 1992 L 179);  
+
+–*rijdende melkontvangst:* mobiele installatie met vloeistofmeetinstallatie voor melk die wordt gebruikt voor het ophalen van boerderijmelk;
 
 –  *traaggroeiend pluimveeras:* pluimveeras waarvan de daartoe behorende dieren gemiddeld met ten hoogste 40 gram per dag groeien;  
 
@@ -155,19 +189,27 @@ In hoofdstuk 2, paragraaf 2, wordt verstaan onder:
 
 –  *verordening (EU) nr. 1151/2012*: verordening (EU) nr. 1151/2012 van het Europees Parlement en de Raad van 21 november 2012 inzake kwaliteitsregelingen voor landbouwproducten en levensmiddelen (PbEU 2012, L 343);  
 
-–  *verordening (EG) nr. 1234/2007:* verordening (EG) nr. 1234/2007 van de Raad van 22 oktober 2007 houdende een gemeenschappelijke ordening van de landbouwmarkten en specifieke bepalingen voor een aantal landbouwproducten (PbEU 2007 L 299);  
-
 –  *verordening (EG) nr. 543/2008:* verordening (EG) nr. 543/2008 van de Commissie van 16 juni 2008 houdende uitvoeringsbepalingen voor Verordening (EG) nr. 1234/2007 van de Raad wat betreft de handelsnormen voor vlees van pluimvee (PbEU 2008 L 157);  
+
+–  *verordening (EG) nr. 543/2008:* verordening (EG) nr. 543/2008 van de Commissie van 16 juni 2008 houdende uitvoeringsbepalingen voor Verordening (EG) nr. 1234/2007 van de Raad wat betreft de handelsnormen voor vlees van pluimvee (Pb EU 2008, L 157). 
 
 –  *verordening (EG) nr. 566/2008:* verordening (EG) nr. 566/2008 van de Commissie van 18 juni 2008 tot vaststelling van de uitvoeringsbesluiten voor Verordening (EG) nr. 1234/2007 van de Raad wat betreft de afzet van vlees van runderen die niet ouder zijn dan twaalf maanden (PbEU 2008 L 160);  
 
 –  *verordening (EG) nr. 589/2008:* verordening (EG) nr. 589/2008 van de Commissie van 23 juni 2008 tot vaststelling van bepalingen ter uitvoering van Verordening (EG) nr. 1234/2007 van de Raad, wat betreft de handelsnormen voor eieren (PbEU 2008 L 163);  
 
+–*verordening (EG) nr. 617/2008:* verordening (EG) nr. 617/2008 van de Commissie van 27 juni 2008 houdende bepalingen ter uitvoering van Verordening (EG) nr. 1234/2007 van de Raad, wat betreft de handelsnormen voor broedeieren en kuikens van pluimvee (PbEU 2008, L 168);
+
 –  *verordening (EG) nr. 889/2008:* verordening (EG) nr. 889/2008 van de Commissie van 5 september 2008 tot vaststelling van bepalingen ter uitvoering van Verordening (EG) 834/2007 van de Raad inzake de biologische productie en de etikettering van biologische producten, wat de biologische productie, de etikettering en de controle betreft (PbEU 2008 L 250);  
 
 –  *verordening (EG) nr. 1235/2008:* verordening (EG) nr. 1235/2008 van de Commissie van 8 december 2008 houdende bepalingen ter uitvoering van Verordening (EG) nr. 834/2007 van de Raad wat de regeling voor de invoer van biologische producten uit derde landen betreft (PbEU 2008 L 334);  
 
-–  *vleeskuiken:* dier van de soort Gallus gallus dat wordt gehouden voor de productie van vlees.   
+–*verordening (EU) nr. 1308/2013:* verordening (EU) nr. 1308/2013 van het Europees Parlement en de Raad van 17 december 2013 tot vaststelling van een gemeenschappelijke ordening van de markten voor landbouwproducten en tot intrekking van de Verordeningen (EEG) nr. 922/72, (EEG) nr. 234/79, (EG) nr. 1037/2001 en (EG) nr. 1234/2007 van de Raad (PbEU 2013, L 347);
+
+–  *vleeskuiken:* dier van de soort Gallus gallus dat wordt gehouden voor de productie van vlees;  
+
+–*vloeistofmeetinstallatie voor melk: *meetinstallatie als bedoeld in bijlage MI-005 bij richtlijn 2004/22/EG van het Europees Parlement en de Raad van 31 maart 2004 betreffende meetinstrumenten (PbEU 2004 L 135) bedoeld voor de meting van de bij melkveehouders in te nemen hoeveelheid melk;
+
+–*weegcontrole:* vaststelling van het gewicht van ingenomen melk met een weegbrug of weegtank na beëindiging van de melkrit. 
 
 ### Artikel  2.11  
 
@@ -175,7 +217,7 @@ In hoofdstuk 2, paragraaf 2, wordt verstaan onder:
 
 De onderwerpen, bedoeld in artikel 2.10 van het besluit, zijn: 
 
-a. voor Stichting COKZ: de bescherming van kwaliteitsaanduidingen van landbouwproducten en levensmiddelen van dierlijke oorsprong, handelsnormen voor eieren en vlees van pluimvee, zuigelingenvoeding bestemd voor derde landen en nationale kwaliteitsvoorschriften voor kaas;  
+a. voor Stichting COKZ: de bescherming van kwaliteitsaanduidingen van landbouwproducten en levensmiddelen van dierlijke oorsprong, handelsnormen voor eieren en vlees van pluimvee, zuigelingenvoeding bestemd voor derde landen, boerderijmelk, nationale kwaliteitsvoorschriften voor kaas en nationale voorschriften over de aanduiding van bijzondere slachtpluimveehouderijsystemen;  
 
 b. voor Stichting Skal: de biologische productiemethode.   
 
@@ -220,7 +262,7 @@ Het is verboden bij het in de handel brengen of etiketteren van of reclame maken
 
 ####Veebezetting
 
-De maximale omvang van de mestproductie per hectare landbouwgrond, bedoeld in artikel 15 van verordening (EG) nr. 889/2008, bedraagt de hoeveelheid stikstof zoals opgenomen in de bijlage bij deze regeling, of, indien de betreffende diercategorie daarin ontbreekt, in bijlage D van de Uitvoeringsregeling Meststoffenwet. 
+De maximale omvang van de mestproductie per hectare landbouwgrond, bedoeld in artikel 15 van verordening (EG) nr. 889/2008, bedraagt de hoeveelheid stikstof zoals opgenomen in bijlage 1 bij deze regeling, of, indien de betreffende diercategorie daarin ontbreekt, in bijlage D van de Uitvoeringsregeling Meststoffenwet. 
 
 ### Artikel  2.18  
 
@@ -285,30 +327,40 @@ De Stichting COKZ is bevoegd de besluiten te nemen waartoe voorschriften van ver
 
 ### Artikel  2.24  
 
-####Verbodsbepalingen
-
 1.  Voorschriften als bedoeld in artikel 6.2, eerste lid, van de wet, zijn: 
 
-a. artikel 113 ter en bijlage XI bis, punten II, III, IV, VI en VIII van verordening (EG) nr. 1234/2007 en de artikelen 3, 4 en 5 van verordening (EG) nr. 566/2008;  
+a. artikel 78, eerste lid, onderdeel a, en tweede lid, van verordening (EU) nr. 1308/2013, in samenhang met bijlage VII, deel I, onderdelen II, III, IV en V, bij die verordening, en de artikelen 3, 4 en 5 van verordening (EG) nr. 566/2008;  
 
-b. artikel 116 van verordening (EG) nr. 1234/2007 en: 
+b. artikel 78, eerste lid, onderdeel d, en tweede lid, van verordening (EU) nr. 1308/2013, in samenhang met bijlage VII, deel V, onderdeel III, bij die verordening, en de artikelen 3 tot en met 20 van verordening (EG) nr. 543/2008;  
 
-1°. bijlage XIV, onderdeel A, punten II, III en IV, van die verordening en de artikelen 2, 4 5 tot en met 23 en 29 van verordening (EG) nr. 589/2008;  
+c. artikel 78, eerste lid, onderdeel e, en tweede lid, van verordening (EU) nr. 1308/2013, in samenhang met bijlage VII, deel VI, onderdelen II en III, bij die verordening, en de artikelen 2, 4, 5 tot en met 23 en 29 van verordening (EG) nr. 589/2008;  
 
-2°. bijlage XIV, onderdeel B, punt III, van die verordening en de artikelen 3 tot en met 20 van verordening (EG) nr. 543/2008;    
+d. de artikelen 3, eerste en tweede lid, vierde lid en zesde tot en met achtste lid, 5, 6, onderdelen a en c, 7 en 8, eerste lid, van verordening (EG) nr. 617/2008;  
 
-c. artikel 11, aanhef en tweede streepje, van verordening (EG) nr. 1760/2000.     
-2.  Het is verboden vlees van runderen die niet ouder zijn dan twaalf maanden in niet-voorverpakte vorm in de detailhandel aan te bieden aan de eindverbruiker, tenzij is voldaan aan bijlage IX bis, punt IV, eerste lid, onderdelen a en b, van verordening (EG) nr. 1234/2007.  
+e. artikel 11, aanhef en tweede streepje, van verordening (EG) nr. 1760/2000.     
+2.  Het is verboden vlees van runderen die niet ouder zijn dan twaalf maanden in niet-voorverpakte vorm in de detailhandel aan te bieden aan de eindverbruiker, tenzij is voldaan aan bijlage VII, deel I, onderdeel IV, eerste lid, bij verordening (EU) nr. 1308/2013.  
 
 ### Artikel  2.25  
 
 ####Temperatuur vers pluimveevlees
 
-Indien nodig voor het snijden en behandelen van vers vlees van pluimvee mag, in afwijking van de in bijlage XIV, onderdeel B, punt II, onder 2, van verordening (EG) nr. 1234/2007 vastgestelde temperatuurvoorschriften, de temperatuur van dat vlees gedurende een periode van ten hoogste 24 uur omlaag worden gebracht tot een temperatuur die niet lager is dan -8°C in de kern, in: 
+Indien nodig voor het snijden en behandelen van vers vlees van pluimvee mag, in afwijking van de in bijlage VII, deel V, onderdeel II, subonderdeel 2, bij verordening (EU) nr. 1308/2013 vastgestelde temperatuurvoorschriften, de temperatuur van dat vlees gedurende een periode van ten hoogste 24 uur omlaag worden gebracht tot een temperatuur die niet lager is dan -8°C in de kern, in: 
 
 a. detailhandelszaken of in aan verkooppunten grenzende lokalen, waar het vlees uitsluitend wordt versneden en behandeld om het ter plaatse rechtsreeks aan de consument te kunnen leveren, en  
 
 b. de fabriek tijdens de productie van bereidingen op basis van vers vlees van pluimvee.   
+
+### Artikel  2.25a  
+
+####Gegevens broederijen
+
+1.  Een broederij registreert het aantal ingelegde broedeieren, bedoeld in artikel 8, eerste lid, van verordening (EG) nr. 617/2008, binnen vijf werkdagen na afloop van de betreffende kalendermaand: 
+
+a. in een databank die op grond van artikel 38hh van de Regeling identificatie en registratie van dieren door de minister is aangewezen als databank voor de registratie van die gegevens, of  
+
+b. bij de minister, voor zover voor de registratie van die gegevens geen aanwijzing als bedoeld in onderdeel a heeft plaatsgevonden.     
+2.  Een broederij als bedoeld in artikel 1, derde lid, onderdeel c, van verordening (EG) nr. 617/2008 meldt jaarlijks voor 1 oktober de capaciteit, bedoeld in het vierde lid van dat artikel, en de benutting daarvan, voor legpluimvee, vleeskuikens of gemengde productievormen overeenkomstig het eerste lid, onderdelen a en b.   
+3.  Het tweede lid is niet van toepassing, indien de gegevens, bedoeld in dat lid, ten opzichte van de vorige melding niet zijn gewijzigd.  
 
 ### §  2.5  
 
@@ -441,13 +493,9 @@ b. een vochtgehalte van:
 
 ####Nationale voorschriften over de aanduiding van bijzondere slachtpluimveehouderijsystemen
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  2.31  
 
 ####Vermeldingen van houderijsystemen
-
-Treedt in werking per 01-01-2015 
 
 1.  Onverminderd verordening (EG) nr. 543/2008 worden ter aanduiding van het houderijsysteem bij de etikettering als bedoeld in artikel 1, derde lid, onderdeel a, van richtlijn 2000/13/EG van geslachte kippen de vermeldingen: 
 
@@ -464,8 +512,6 @@ d. ‘Boerenscharrel .... met vrije uitloop’ of ‘Hoeve ... met vrije uitloop
 
 ####Stallen
 
-Treedt in werking per 01-01-2015 
-
 De kippen worden gehouden in stallen: 
 
 a. waarin op het grondoppervlak dat de kippen ter beschikking staat ten hoogste twaalf dieren per vierkante meter worden gehouden, met dien verstande dat gedurende de eerste drie levensweken van de kippen ten hoogste vijftien dieren per vierkante meter grondoppervlak worden gehouden;  
@@ -478,8 +524,6 @@ c. waarin de voor de kippen bestemde ruimte zodanig is ingericht dat bij een bui
 
 ####Verzorging
 
-Treedt in werking per 01-01-2015 
-
 1.  Met ingang van de derde levensweek wordt minimaal twee gram graan per kip per dag toegediend door het dagelijks strooien op het voor de kippen beschikbare grondoppervlak.   
 2.  Met ingang van de tweede levensweek wordt per mestperiode minimaal één stro-, hooi, of luzernebaal verstrekt per duizend kippen, waarbij de balen gelijkmatig over de ruimte worden verdeeld.  
 
@@ -487,15 +531,11 @@ Treedt in werking per 01-01-2015
 
 ####Voeder
 
-Treedt in werking per 01-01-2015 
-
 Gedurende de mestperiode wordt voeder verstrekt waarin het minimumgehalte aan graan en graanbijproducten 70% bedraagt en waaraan geen dierlijke producten, met uitzondering van melkproducten, zijn toegevoegd. 
 
 ### Artikel  2.35  
 
 ####Uitloop
-
-Treedt in werking per 01-01-2015 
 
 1.  Bij gebruik van de vermeldingen, genoemd in artikel 2.31, onderdelen b, c en d: 
 
@@ -510,8 +550,6 @@ c. hebben de kippen toegang tot de uitloop vanaf uiterlijk de 28e levensdag.
 
 ####Verkoop aan particulieren
 
-Treedt in werking per 01-01-2015 
-
 Bij verkoop van geslachte kippen aan particulieren: 
 
 a. worden onverpakte geslachte kippen gescheiden aangeboden, en  
@@ -523,6 +561,241 @@ b. houdt de verkoper een administratie bij waarin tenminste is opgenomen:
 2°. het aantal stuks en het nettogewicht van de verkochte geslachte kippen;  
 
 3°. het aantal delen, het soort delen en het nettogewicht van de verkochte delen van geslachte kippen.     
+
+### §  2.8  
+
+####Boerderijmelk
+
+### Artikel  2.37  
+
+####Registratie
+
+Een ontvanger van boerderijmelk meldt zich ter registratie aan bij Stichting COKZ onder vermelding van naam, adres, vestigingsplaats, contactpersoon, telefoonnummer, e-mailadres en de hoeveelheid op jaarbasis ontvangen boerderijmelk naar soort boerderijmelk in het afgelopen kalenderjaar. 
+
+### Artikel  2.38  
+
+####Melkkoeltanks
+
+Een ontvanger van boerderijmelk ontvangt uitsluitend boerderijmelk die is bewaard in een deugdelijke melkkoeltank die is voorzien van een intermitterend roerwerk dat telkens, met een onderbreking van ten hoogste een half uur, de inhoud van de tank tenminste twee minuten roert en waarvan het op adequate wijze functioneren wordt geborgd door middel van een tankwacht voorzien van een visueel waarneembare alarmfunctie. 
+
+### Artikel  2.39  
+
+####Monstername
+
+1.  Een ontvanger van boerderijmelk zorgt ervoor dat van elke leverantie boerderijmelk een representatief monster wordt genomen door een ter zake kundig persoon die beschikt over een verklaring van deskundigheid van Stichting COKZ.   
+2.  Een melkveehouder verleent op verzoek van de ontvanger van boerderijmelk medewerking aan de bemonstering van de boerderijmelk.   
+3.  Een ontvanger van boerderijmelk neemt ten aanzien van het nemen, transporteren en bewaren van monsters boerderijmelk de volgende bepalingen in acht: 
+
+a. de monsterneming heeft plaats uit de melkkoeltank waarin de boerderijmelk wordt bewaard. Voor het te nemen monstervolume worden de aanwijzingen van het melkcontrolestation opgevolgd;  
+
+b. de monsters zijn duidelijk gekenmerkt;  
+
+c. de naam van de monsternemer, de herkomst van het monster en de datum en het tijdstip van de bemonstering worden ordelijk geregistreerd;  
+
+d. voorafgaand aan de monsterneming verifieert de monsternemer de tankwacht op het adequaat functioneren van het roerwerk; wanneer het roerwerk niet aantoonbaar goed heeft gefunctioneerd, wordt de melk voorafgaand aan de monsterneming twee minuten geroerd;  
+
+e. er worden uitsluitend monsterflessen gebruikt die door het melkcontrolestation ter beschikking worden gesteld;  
+
+f. een monsterfles en de sluiting daarvan, die gebruikt wordt voor de monsterneming uit de melkkoeltank is schoon, droog en inwendig nagenoeg vrij van kweekbare kiemen; na spoelen van de monsterfles met 5 ml gesteriliseerde melk is het kiemgetal van die melk ten hoogste 10 kiemen per ml;  
+
+g. de lege monsterflessen worden na ontvangst door de ontvanger van boerderijmelk ordelijk bewaard in een speciaal daarvoor bestemde, niet voor onbevoegden toegankelijke, koele, droge en schone ruimte;  
+
+h. de monsters boerderijmelk worden nadat ze zijn genomen direct gekoeld en bereiken uiterlijk na één uur een temperatuur van ten minste 0,0 °C en ten hoogste 4,0 °C;  
+
+i. de monsters worden zo snel mogelijk nadat zij zijn genomen geplaatst in een speciaal daarvoor bestemde, niet voor onbevoegden toegankelijke, schone en gekoelde ruimte;  
+
+j. de monsters boerderijmelk worden bewaard bij een temperatuur van ten minste 0,0 °C en ten hoogste 4,0 °C totdat de monsters in onderzoek worden genomen.    
+
+### Artikel  2.40  
+
+####Hoeveelheidsbepaling
+
+Een ontvanger van boerderijmelk stelt van iedere leverantie van boerderijmelk de hoeveelheid boerderijmelk vast met een vloeistofmeetinstallatie voor melk. 
+
+### Artikel  2.41  
+
+####Bepaling vet- en eiwitgehalte
+
+1.  Indien een ontvanger van boerderijmelk een melkveehouder uitbetaalt op basis van het vetgehalte of het eiwitgehalte, wordt dit gehalte per leverantie bepaald.   
+2.  Monsters boerderijmelk die bestemd zijn voor de bepaling van vetgehalte of eiwitgehalte worden, in afwijking van artikel 2.39, onderdelen h en j, bewaard bij ten minste 0,0 °C en ten hoogste 8,0 °C en worden binnen 96 uur na de monsterneming in onderzoek genomen.   
+3.  De bepaling van het vetgehalte geschiedt overeenkomstig referentiemethode NEN-EN-ISO 1211:2010 of een andere gevalideerde methode waarmee geen wezenlijke afwijkingen worden verkregen van de uitslagen overeenkomstig die referentiemethode.   
+4.  De bepaling van het eiwitgehalte geschiedt overeenkomstig referentiemethode NEN-EN-ISO 8968-1:2014 of een andere gevalideerde methode waarmee geen wezenlijke afwijkingen worden verkregen van de uitslagen overeenkomstig die referentiemethode.   
+5.  Per kalendermaand neemt Stichting COKZ ten minste twee series monsters voor de uitvoering van heronderzoek naar het vetgehalte en het eiwitgehalte. Per serie worden zes willekeurig gekozen monsters onderzocht.   
+6.  Het gemiddelde verschil en de standaardafwijking bedragen per serie als bedoeld in het vijfde lid voor het door de ontvanger van boerderijmelk bepaalde vetgehalte elk ten hoogste 0,04 procentpunt ten opzichte van de resultaten van door Stichting COKZ uitgevoerd heronderzoek.   
+7.  Het gemiddelde verschil en de standaardafwijking bedragen per serie als bedoeld in het vijfde lid voor het door de ontvanger van boerderijmelk bepaalde eiwitgehalte elk ten hoogste 0,045 procentpunt ten opzichte van de resultaten van door Stichting COKZ uitgevoerd heronderzoek.   
+8.  Het door de ontvanger van boerderijmelk bepaalde vetgehalte of eiwitgehalte verschilt over een periode van een jaar gemiddeld ten hoogste 0,01 procentpunt van de resultaten van door Stichting COKZ uitgevoerd heronderzoek.  
+
+### Artikel  2.42  
+
+####Aantonen van de aanwezigheid van melkvreemde bacteriegroeiremmende stoffen
+
+1.  Een ontvanger van boerderijmelk onderzoekt iedere leverantie van boerderijmelk op de aanwezigheid van melkvreemde bacteriegroeiremmende stoffen.   
+2.  Monsters boerderijmelk die bestemd zijn voor onderzoek op melkvreemde bacteriegroeiremmende stoffen worden, in afwijking van artikel 2.39, onderdelen h en j, bewaard bij een temperatuur van ten hoogste 8,0 °C en worden binnen 96 uur na de monsterneming in onderzoek genomen. Gedurende een periode van ten hoogste 24 uur kan de temperatuur ten hoogste 20 °C bedragen.   
+3.  Het onderzoek op melkvreemde bacteriegroeiremmende stoffen geschiedt volgens een onderzoekschema dat bestaat uit een screeningsmethode, een bevestigingsmethode en een test ter nadere kwalificering van de groeiremming. Met de screeningsmethode worden monsters rauwe melk opgespoord die aantoonbaar bacteriegroeiremmende stoffen kunnen bevatten. Met de bevestigingsproef wordt nagegaan of na verhitting van de met de screeningsmethode opgespoorde monsters de bacteriegroeiremming in deze monsters wordt bevestigd.   
+4.  De gebruikte screeningsmethode en bevestigingsmethode kunnen tenminste de in bijlage 2 genoemde concentraties van bacteriegroeiremmende stoffen aantonen.   
+5.  Indien ook in de bevestigingsproef sprake is van groeiremming, wordt een test uitgevoerd ter nadere kwalificering van de aard en mate van de groeiremming.   
+6.  Indien bij de test ter nadere kwalificering een groeiremming wordt vastgesteld die groter is dan die voor de meelopende grensstandaard van 0,0037 IE per ml penicilline en een test op ß-lactam antibiotica positief is, wordt het resultaat als positief gekwalificeerd en met een P aangeduid.   
+7.  Indien bij koemelk bij de test ter nadere kwalificering een groeiremming wordt vastgesteld die groter is dan die voor de meelopende grensstandaard van 0,0037 IE per ml penicilline en een test op ß-lactam antibiotica negatief is, wordt het resultaat als positief gekwalificeerd en met een O aangeduid.   
+8.  In geval van een positief resultaat wordt ten minste 2 ml van het betreffende monsterrestant tot ten minste drie maanden na de datum van monsterneming bij –20 °C of lager bewaard. Dit monsterrestant wordt voorzien van een adequate identificatie.  
+
+### Artikel  2.43  
+
+####Bepaling van het kiemgetal
+
+1.  De bepaling van het kiemgetal van een leverantie boerderijmelk door de ontvanger van boerderijmelk geschiedt overeenkomstig referentiemethode NEN-EN-ISO 4833-1:2013.   
+2.  Een andere gevalideerde methode waarmee geen wezenlijke afwijkingen worden verkregen van de uitslagen overeenkomstig de referentiemethode, genoemd in het eerste lid, kan worden gebruikt indien: 
+
+a. de verkregen resultaten worden omgerekend naar een plaatkiemgetal;  
+
+b. de daartoe benodigde conversievergelijking wordt vastgesteld en onderhouden overeenkomstig NEN-EN-ISO 21187:2005.     
+3.  Het kiemgetal wordt uitgedrukt in kolonievormende eenheden per ml. Voor kiemgetallen boven 999.000 per ml wordt 999.000 per ml vermeld als uitslag.   
+4.  Monsters boerderijmelk die bestemd zijn voor de bepaling van het kiemgetal worden binnen 36 uur na de monsterneming in onderzoek genomen.  
+
+### Artikel  2.44  
+
+####Bepaling van het celgetal van koemelk
+
+1.  De bepaling van het celgetal van een leverantie koemelk door de ontvanger van boerderijmelk geschiedt overeenkomstig referentiemethode NEN-EN-ISO 13366-1:2008.   
+2.  Een andere gevalideerde methode waarmee geen wezenlijke afwijkingen worden verkregen van de uitslagen overeenkomstig de referentiemethode, genoemd in het eerste lid, kan worden gebruikt indien: 
+
+a. de herhaalbaarheid van de meting bij 400.000 cellen per ml kleiner is dan 40.000 cellen per ml;  
+
+b. de standaardafwijking van de verschillen ten opzichte van resultaten met de referentiemethode bij 400.000 cellen per ml kleiner is dan 40.000 cellen per ml.     
+3.  Het celgetal wordt uitgedrukt in cellen per ml. Voor celgetallen boven 9.999.000 per ml wordt 9.999.000 per ml vermeld als uitslag.  
+
+### Artikel  2.45  
+
+####Bepaling van het celgetal van geitenmelk
+
+1.  De bepaling van het celgetal van een leverantie geitenmelk door de ontvanger van boerderijmelk geschiedt overeenkomstig referentiemethode NEN-EN-ISO 13366-1:2008.   
+2.  Een andere gevalideerde methode waarmee geen wezenlijke afwijkingen worden verkregen van de uitslagen overeenkomstig de referentiemethode, genoemd in het eerste lid, kan worden gebruikt indien de herhaalbaarheid van de meting bij 1.000.000 cellen per ml kleiner is dan 80.000 cellen per ml.   
+3.  Het celgetal wordt uitgedrukt in cellen per ml. Voor celgetallen boven 9.999.000 per ml wordt 9.999.000 per ml vermeld als uitslag.  
+
+### Artikel  2.46  
+
+####Bepaling van de verontreinigingsgraad
+
+1.  De bepaling van de verontreinigingsgraad van een leverantie boerderijmelk door een ontvanger van boerderijmelk geschiedt met een methode die berust op het filtreren van ten minste 22 en ten hoogste 28 ml melk met een temperatuur van ten minste 35 °C en ten hoogste 39 °C bij een drukverschil van ten minste 25 kPa en ten hoogste 30 kPa.   
+2.  De verontreinigingsgraad wordt vastgesteld na droging van het filter, waarbij een gradatiecijfer wordt toegekend op grond van vergelijking met een periodiek door Stichting COKZ verstrekte grensstandaard. Indien de door een monster veroorzaakte verontreinigingsgraad van het filter groter is dan die van de grensstandaard wordt een gradatiecijfer II toegekend. In andere gevallen wordt een gradatiecijfer I toegekend.  
+
+### Artikel  2.47  
+
+####Bepaling van het vriespunt
+
+1.  De bepaling van het vriespunt van een leverantie boerderijmelk door de ontvanger van boerderijmelk geschiedt overeenkomstig referentiemethode NEN-EN-ISO 5764:2009.   
+2.  Een andere gevalideerde methode waarmee geen wezenlijke afwijkingen worden verkregen van de uitslagen overeenkomstig de referentiemethode, genoemd in het eerste lid, kan worden gebruikt indien: 
+
+a. de herhaalbaarheid van de meting kleiner is dan 0,004 °C;  
+
+b. de standaardafwijking van de verschillen ten opzichte van de resultaten met de referentiemethode kleiner is dan 0,004 °C.     
+3.  Het vriespunt wordt uitgedrukt in °C.  
+
+### Artikel  2.48  
+
+####Bepaling van de aanwezigheid van sporen van boterzuurbacteriën
+
+1.  Het onderzoek van een leverantie boerderijmelk op de aanwezigheid van sporen van boterzuurbacteriën door de ontvanger van boerderijmelk geschiedt overeenkomstig een methode die berust op het doseren van 0,1 ml van de te onderzoeken melk in een testbuis met paraffine en het toevoegen van een medium met gesteriliseerde melk, glucose en melkzuur met een pH van ten minste 5,42 en ten hoogste 5,48. Vervolgens wordt nagegaan of na bebroeding gedurende ten minste 92 en ten hoogste 100 uur zonder luchttoetreding gasvorming is opgetreden in de testbuis.   
+2.  Gasvorming in de testbuis wordt aangeduid met een +, indien geen sprake is van gasvorming wordt dit aangeduid met een –.  
+
+### Artikel  2.49  
+
+####Bepaling van de zuurtegraad van het vet
+
+1.  De bepaling van de zuurtegraad van het vet van een leverantie boerderijmelk door de ontvanger van boerderijmelk geschiedt overeenkomstig een referentiemethode die berust op het doseren van ten minste 29 ml en ten hoogste 33 ml van de te onderzoeken melk in een vetafscheidingsbuis en het mengen met een oplossing die natriumpolyfosfaat en een oppervlakteactieve stof bevat. Het mengsel wordt verwarmd in een kokendwaterbad om het vet vrij te maken. Een afgemeten hoeveelheid van het vet wordt opgelost in een organisch oplosmiddel en vervolgens getitreerd.   
+2.  Een andere gevalideerde methode waarmee geen wezenlijke afwijkingen worden verkregen van de uitslagen overeenkomstig de referentiemethode, genoemd in het eerste lid, kan worden gebruikt indien: 
+
+a. de herhaalbaarheid van de meting bij een zuurtegraad van ten hoogste 1,5 mmol per 100 g vet kleiner is dan 0,15 mmol per 100 g vet;  
+
+b. de beoordeling plaatsvindt op basis van het rekenkundig gemiddelde van ten minste n meetresultaten, waarbij n > (de herhaalbaarheid van de meting/0,07)<sup>2</sup>.     
+3.  De zuurtegraad van het vet wordt uitgedrukt in mmol per 100 g vet.  
+
+### Artikel  2.50  
+
+####Bepaling van het chloroformgehalte
+
+1.  De bepaling van het chloroformgehalte van een leverantie boerderijmelk door de ontvanger van boerderijmelk geschiedt met een methode die berust op het verwarmen van een hoeveelheid monster in een afgesloten flesje met een septum. Aansluitend wordt een deel van de bovenstaande gasfase in een gaschromatograaf geïnjecteerd. Na scheiding van de gehalogeneerde koolwaterstoffen vindt detectie plaats middels een EC-detector en wordt het chloroformgehalte met behulp van een kalibratiecurve gekwantificeerd. Het gemeten gehalte wordt vervolgens gecombineerd met het overeenkomstig artikel 2.35 vastgestelde vetgehalte van het monster.   
+2.  Het chloroformgehalte wordt uitgedrukt in milligram chloroform per kilogram vet.   
+3.  Bij een vetgehalte van 4,5% en een chloroformgehalte van 0,2 mg per kg vet is de herhaalbaarheid van de meting kleiner dan 0,02 mg per kg vet.  
+
+### Artikel  2.51  
+
+####Bewaartemperatuur
+
+Monsters boerderijmelk bestemd voor de onderzoeken, bedoeld in de artikelen 2.44 tot en met 2.50, worden in afwijking van het bepaalde in artikel 2.39, onderdelen h en j: 
+
+a. bewaard bij ten minste 0,0 °C en ten hoogste 8,0 °C en binnen 36 uur na monsterneming in onderzoek genomen of  
+
+b. bewaard bij ten minste 0,0 °C en ten hoogste 4,0 °C en binnen 96 uur na monsterneming in onderzoek genomen.   
+
+### Artikel  2.52  
+
+####Melkcontrolestation
+
+1.  Een ontvanger van boerderijmelk draagt er zorg voor dat de onderzoeken, bedoeld in de artikelen 2.41 tot en met 2.50, worden verricht door een melkcontrolestation dat beschikt over een ter zake deskundige leiding en over een voor het te verrichten onderzoek voldoende outillage en dat voor alle in dit kader relevante onderzoekmethoden geaccrediteerd is volgens NEN-EN-ISO/IEC 17025:2005.   
+2.  Een melkcontrolestation beschikt over een gedocumenteerd en adequaat functionerend systeem waarmee de kwaliteit van de werkzaamheden wordt geborgd en over een gedetailleerde en actuele beschrijving van de methoden die worden toegepast voor het onderzoek van de samenstelling en kwaliteit van boerderijmelk.   
+3.  De uitslagen van het onderzoek naar samenstelling en kwaliteit worden door het melkcontrolestation vastgelegd op een toegankelijke en overzichtelijke wijze en gedurende ten minste een jaar bewaard.  
+
+### Artikel  2.53  
+
+####Kwaliteitsborging
+
+1.  De ontvanger van boerderijmelk beschikt over een door Stichting COKZ goedgekeurd handboek waarin wordt beschreven op welke wijze het gestelde in de artikelen 2.39 en 2.40 wordt gerealiseerd, beheerst en geborgd.   
+2.  De ontvanger van boerderijmelk legt het systeem van de uitvoering en beoordeling van de resultaten van de onderzoeken, bedoeld in de artikelen 2.41 tot en met 2.50, vast. Dit systeem wordt aan de betrokken melkveehouders bekendgemaakt.  
+
+### Artikel  2.54  
+
+####Administratie
+
+1.  De ontvanger van boerderijmelk beschikt over een administratie waarin per melkveehouder wordt vastgelegd: 
+
+a. de hoeveelheid ontvangen boerderijmelk;  
+
+b. de samenstelling en de kwaliteit van de ontvangen boerderijmelk.     
+2.  De in het eerste lid bedoelde gegevens worden op overzichtelijke wijze geadministreerd en worden gedurende ten minste één jaar bewaard.  
+
+### Artikel  2.55  
+
+####Gebruik van rijdende melkontvangsten
+
+1.  De ontvanger van boerderijmelk die bij de bepaling van de geleverde hoeveelheid boerderijmelk, bedoeld in artikel 2.40, gebruik maakt van een rijdende melkontvangst neemt het bepaalde in de artikelen 2.56 tot en met 2.59 in acht.   
+2.  De ontvanger van boerderijmelk, bedoeld in het eerste lid, beschikt over een handboek waarin wordt beschreven op welke wijze het gestelde in de artikelen 2.56 tot en met 2.59 wordt gerealiseerd, beheerst en geborgd.  
+
+### Artikel  2.56  
+
+####Eisen aan rijdende melkontvangsten
+
+1.  Rijdende melkontvangsten: 
+
+a. zijn voorzien van een ruimte waarin de monsters diepgekoelde boerderijmelk kunnen worden gekoeld en bewaard op een temperatuur van ten minste 0,0 °C en ten hoogste 4,0 °C en  
+
+b. hebben een ontvangstcapaciteit van ten minste 900 liter.     
+2.  Essentiële wijzigingen in de vloeistofmeetinstallatie voor melk van een rijdende melkontvangst worden geadministreerd.  
+
+### Artikel  2.57  
+
+####Keuring van rijdende melkontvangsten
+
+1.  Een ontvanger van boerderijmelk laat de vloeistofmeetinstallatie voor melk van een rijdende melkontvangst ten minste één keer per jaar keuren door een aangewezen instelling of een erkende keurder.   
+2.  Indien bij een keuring wordt geconstateerd dat de vloeistofmeetinstallatie voor melk niet voldoet aan het bepaalde bij of krachtens de Metrologiewet, wordt de rijdende melkontvangst binnen acht weken aan een herkeuring onderworpen.   
+3.  Indien de vloeistofmeetinstallatie voor melk bij herkeuring blijkt te voldoen aan het bepaalde bij of krachtens de Metrologiewet wordt de rijdende melkontvangst binnen een periode van zes maanden opnieuw voor keuring aangeboden. Indien de vloeistofmeetinstallatie voor melk bij de herkeuring niet blijkt te voldoen aan het bepaalde bij of krachtens de Metrologiewet, wordt de rijdende melkontvangst pas weer gebruikt voor het vaststellen van de geleverde hoeveelheid boerderijmelk nadat door een aangewezen instelling of een erkende keurder is vastgesteld dat de vloeistofmeetinstallatie voor melk voldoet aan die eisen. De ontvanger van boerderijmelk meldt de afkeuring bij herkeuring onverwijld aan Stichting COKZ.   
+4.  De resultaten van het keuren, bedoeld in het eerste lid, en de herkeuring, bedoeld in het tweede en derde lid, en de genomen maatregelen om de rijdende melkontvangst na afkeuring in overeenstemming te brengen met het bepaalde bij of krachtens de Metrologiewet, worden door de ontvanger van boerderijmelk geregistreerd en gedurende een jaar bewaard.  
+
+### Artikel  2.58  
+
+####Hoeveelheidsbepaling
+
+1. De vaststelling en de notering van het volume van elke melkleverantie vinden plaats in liters.
+2. In de data-apparatuur op een rijdende melkontvangst kan het volume van de geleverde boerderijmelk worden omgerekend van liters naar kilogrammen melk, mits op de plaats van inname van de melk het geregistreerde aantal liters en de omrekeningsfactor inzichtelijk zijn.
+3. Indien het volume van de geleverde boerderijmelk wordt omgerekend van liters naar kilogrammen melk geschiedt dit door het aantal liters overeenkomstig een door de ontvanger van boerderijmelk overeenkomstig bijlage 3 vast te stellen omrekeningsfactor om te rekenen in kilogrammen, waarbij hoeveelheden tot een halve kg worden afgerond naar beneden en hoeveelheden van een halve tot één kg worden afgerond naar boven. De omrekeningsfactor wordt éénmaal per kalendermaand bepaald en is van toepassing op de daaropvolgende kalendermaand. De ontvanger van boerderijmelk legt vast op welke wijze de objectieve vaststelling van de omrekeningsfactor wordt geborgd.
+4. De gegevens waaruit de omrekeningsfactor wordt afgeleid, worden gedurende ten minste één jaar op het bedrijf van een ontvanger van boerderijmelk bewaard onder vermelding van de datum van bepaling van de omrekeningsfactor en de gemiddelde temperatuur van de melk bij aankomst op de zuivelfabriek. In geval van een uniforme omrekeningsfactor als bedoeld in bijlage 3, onderdeel B, omvatten deze gegevens de datum, het aantal liters en kilogrammen en de gevonden omrekeningsfactor voor iedere in gebruik zijnde rijdende melkontvangst.
+5. Indien de omrekeningsfactor voor een rijdende melkontvangst kleiner is dan 1,028 of groter is dan 1,035, wordt binnen één week na vaststelling van deze omrekeningsfactor opnieuw de omrekeningsfactor van deze rijdende melkontvangst vastgesteld. Indien de omrekeningsfactor wederom kleiner is dan 1,028 of groter is dan 1,035, wordt de rijdende melkontvangst binnen 10 werkdagen na de tweede weegcontrole voor een keuring bij de erkende keurder aangeboden en wordt hiervan binnen één week na aanbieding melding gemaakt aan Stichting COKZ.
+6. Een gewijzigde rijdende melkontvangst wordt door de ontvanger van boerderijmelk direct aan een weegcontrole onderworpen. Deze weegcontrole wordt uitgevoerd overeenkomstig de in bijlage 3, onderdeel A, beschreven werkwijze. Het derde, vierde en vijfde lid zijn van overeenkomstige toepassing. 
+
+### Artikel  2.59  
+
+####Deskundigheid
+
+Degene die door de ontvanger van boerderijmelk wordt belast met het ontvangen en vervoeren van boerderijmelk door middel van een rijdende melkontvangst, is terzake kundig en voert de te verrichten handelingen uit overeenkomstig een door de ontvanger van boerderijmelk opgestelde en door Stichting COKZ goedgekeurde instructie. 
 
 ### Hoofdstuk  3  
 
@@ -853,9 +1126,14 @@ De op het tijdstip van inwerkingtreding van dit artikel bij het Hoofdproductscha
 
 ####Overgangsrecht aanduiding bijzondere slachtpluimveehouderijsystemen
 
-Treedt in werking per 01-01-2015 
-
 Vrijstellingen en ontheffingen verleend door het Productschap Pluimvee en Eieren die golden onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van dit artikel, worden met ingang van de inwerkingtreding van dit artikel geacht te zijn verleend door de minister op grond van artikel 10.1 van de wet, onder dezelfde voorschriften, beperkingen en voorwaarden. 
+
+### Artikel  4.2c  
+
+####Overgangsrecht boerderijmelk
+
+1.  Besluiten genomen door Stichting COKZ bij of krachtens de Zuivelverordening 2003, Eisen methoden van onderzoek, de Zuivelverordening 2005, Grondslag uitbetaling boerderijmelk, de Zuivelverordening 2008, Gewichtsbepaling bij gebruik van rijdende melkontvangsten met vloeistofmeetinstallatie of de Zuivelverordening 2011, Nemen, transporteren en bewaren van monsters boerderijmelk die gelden op het tijdstip van inwerkingtreding van deze regeling, worden geacht te zijn genomen op grond van deze regeling, voor zover Stichting COKZ daartoe op grond van deze regeling bevoegd is.   
+2.  Meldingen, gedaan ter voldoening aan verplichtingen bij of krachtens de in het eerste lid genoemde verordeningen worden geacht te zijn gedaan op grond van deze regeling.  
 
 ### Artikel  4.3  
 
@@ -883,9 +1161,9 @@ De
 Minister van Economische Zaken, 
 H.G.J. Kamp.    
 
-###   Bijlage  
+### Bijlage  1  
 
-#### als bedoeld in artikel 2.17  van de Regeling dierlijke producten
+####behorende bij artikel 2.17 
 
 In deze bijlage wordt verstaan onder: 
 
@@ -976,4 +1254,53 @@ In deze bijlage wordt verstaan onder:
 | --- | Opfokkonijnen vanaf ca. 80 dagen oud tot de eerste dekking  | 1,01  |
 | --- | Vleeskonijnen vanaf het spenen tot ca. 80 dagen oud en opfokkonijnen tot 80 dagen oud  | 0,4  |
 |  *Parelhoenders*   |  Vleesparelhoenders   |  0,437   |
+
+###Bijlage 2 
+
+####, behorende bij artikel 2.42, vierde lid , concentraties van bacteriegroeiremmende stoffen
+
+| Stof  | Aantoonbare concentraties  |
+|:---|:---|
+| *Beta-lactam antibiotica*  | --- |
+| benzylpenicilline  | 0,003 IE/ml  |
+| ampicilline  | 0,002 µg/ml  |
+| cloxacilline  | 0,02 µg/ml  |
+| cefalexine  | 0,1 µg/ml  |
+| ceftiofur  | 0,05 µg/ml  |
+| --- | --- |
+| *Overige antibiotica*  | --- |
+| sulfamethazine  | 0,2 µg/ml  |
+| oxytetracycline  | 0,2 µg/ml  |
+| neomycine  | 0,5 µg/ml  |
+| tylosine  | 0,05 µg/ml  |
+
+###Bijlage 3 
+
+####, behorende bij artikel 2.58, derde lid , berekening van de omrekeningsfactor
+
+### A 
+
+####Gebruik van één rijdende melkontvangst
+
+1. Indien de ontvanger van boerderijmelk gebruik maakt van één rijdende melkontvangst wordt na beëindiging van een melkrit met de desbetreffende rijdende melkontvangst het gewicht van de ontvangen melk door middel van een weegbrug of weegtank in kilogrammen voldoende nauwkeurig vastgesteld. Dat gewicht wordt gedeeld door het totale aantal gedurende die rit ontvangen liters melk, zoals dat met behulp van de vloeistofmeetinstallatie op de desbetreffende rijdende melkontvangst werd vastgesteld.  
+
+2. Bij gebruikmaking van een weegbrug wordt voor de bepaling van de omrekeningsfactor: 
+
+1°. na beëindiging van een melkrit eerst het gewicht van de geladen rijdende melkontvangst vastgesteld, alvorens het gewicht van de lege rijdende melkontvangst te bepalen, of  
+
+2°. voor aanvang van een melkrit het gewicht van de lege rijdende melkontvangst vastgesteld en na beëindiging van de melkrit het gewicht van de geladen rijdende melkontvangst bepaald en wordt bij de vaststelling van de omrekeningsfactor rekening gehouden met het verbruik van dieselolie door de rijdende melkontvangst. Hierbij wordt uitgegaan van een verbruik van 1 kg op 3 kilometer.    
+
+3. Het gevonden getal wordt afgerond op de derde decimaal. De omrekeningsfactor voor de rijdende melkontvangst wordt vastgesteld op het getal dat resulteert uit deze afronding. Indien dat getal kleiner is dan 1,028 wordt een omrekeningsfactor van 1,028 gehanteerd.   
+
+### B 
+
+####Gebruik van meerdere rijdende melkontvangsten
+
+1. Indien de ontvanger van boerderijmelk gebruik maakt van twee of meer rijdende melkontvangsten wordt een uniforme omrekeningsfactor gebruikt per fabriek of per groep van fabrieken of per groep van ontvangers van boerderijmelk.  
+
+2. Deze uniforme omrekeningsfactor wordt vastgesteld door de omrekeningsfactor van iedere in gebruik zijnde rijdende melkontvangst te bepalen op de wijze omschreven in onderdeel A. Het, op de in onderdeel A omschreven wijze, vastgestelde gewicht in kilogrammen van de melk ontvangen door rijdende melkontvangsten, waarvan de omrekeningsfactoren niet kleiner zijn dan 1,028 en niet groter dan 1,035, wordt gedeeld door de totale hoeveelheid door deze rijdende melkontvangsten ontvangen melk in liters.  
+
+3. De op deze wijze vastgestelde uniforme omrekeningsfactor geldt voor alle in gebruik zijnde rijdende melkontvangsten, inclusief die rijdende melkontvangsten waarvan de omrekeningsfactoren kleiner zijn dan 1,028 of groter dan 1,035. De ontvanger van boerderijmelk draagt er zorg voor dat voor de weging van de rijdende melkontvangst ten behoeve van de vaststelling van de omrekeningsfactor een voor de desbetreffende ontvanger van boerderijmelk representatief aantal leveranties boerderijmelk wordt gehanteerd.  
+
+4. De uniforme omrekeningsfactor wordt éénmaal per uitbetalingsperiode bepaald. Van elke in gebruik zijnde rijdende melkontvangst wordt de datum en het tijdstip waarop de vaststelling van de omrekeningsfactor plaatsvindt vastgelegd.   
 

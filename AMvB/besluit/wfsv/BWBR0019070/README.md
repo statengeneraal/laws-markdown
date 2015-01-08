@@ -335,6 +335,21 @@ Indien een werkgever, zonder dat er sprake is van een overgang van een ondernemi
 1.  Voor een werkgever die, zonder dat er sprake is van een overgang van een onderneming als bedoeld in artikel 2.15, eerste lid, in het kalenderjaar waarvoor de premie wordt vastgesteld, of in het eerste of tweede kalenderjaar onmiddellijk voorafgaande aan het kalenderjaar waarvoor de premie wordt vastgesteld de hoedanigheid van werkgever heeft verkregen, is het percentage van de gedifferentieerde premie, bedoeld in artikel 2.6, vierde lid, gelijk aan de som van de rekenpercentages voor de WGA-lasten vaste dienstbetrekkingen, de WGA-lasten flexibele dienstbetrekkingen en de ZW-lasten, bedoeld in artikel 2.9.   
 2.  Van de startende werkgever, bedoeld in artikel 40, negende lid, van de Wfsv wordt in afwachting van de beslissing op aanvraag van het eigenrisicodragen, bedoeld in artikel 40, eerste lid, onderdeel a of onderdeel b, van de Wfsv met ingang van het tijdstip waarop hij aanvangt werkgever te zijn, het rekenpercentage voor de ZW-lasten respectievelijk het rekenpercentage voor de WGA-lasten vaste dienstbetrekkingen op nul gesteld.  
 
+### Artikel  2.17a  
+
+####Premiepercentage terugkerende werkgever
+
+1.  Indien voor een grote of een middelgrote werkgever het eigenrisicodragen, bedoeld in artikel 40, eerste lid, onderdeel a, van de Wfsv, eindigt of wordt beëindigd, wordt in afwijking van artikel 2.6, vierde lid, onderscheidenlijk 2.6, vijfde lid, in verbinding met artikel 2.6, vierde lid, het individuele percentage van de premiecomponent van de ZW-lasten in het kalenderjaar van het einde van het eigenrisicodragen vastgesteld op de helft van het sectorale premiepercentage, bedoeld in artikel 2.10, tweede lid.   
+2.  Indien het individuele percentage van de premiecomponent van de ZW-lasten, bedoeld in artikel 2.6, vierde lid, of in artikel 2.6, vijfde lid, in verbinding met artikel 2.6, vierde lid, hoger is dan de uitkomst van het eerste lid, wordt in het kalenderjaar van het einde van het eigenrisicodragen de gedifferentieerde premie voor de ZW-lasten, in afwijking van het eerste lid, vastgesteld op grond van artikel 2.6, vierde lid, of artikel 2.6, vijfde lid.   
+3.  De gedifferentieerde premie voor de ZW-lasten in het kalenderjaar volgend op het kalenderjaar van het einde van het eigenrisicodragen wordt voor de werkgever, bedoeld in het eerste lid, vastgesteld met overeenkomstige toepassing van het eerste en tweede lid.  
+
+### Artikel  2.17b  
+
+####Premiepercentage terugkerende werkgever vóór 1 januari 2015
+
+1.  Indien voor een grote of middelgrote werkgever het eigenrisicodragen, bedoeld in artikel 40, eerste lid, onderdeel a, van de Wfsv, op verzoek van de werkgever wordt beëindigd met ingang van 1 juli 2014 of later en dit verzoek is ingediend na 20 maart 2014, of na laatstgenoemde datum het eigenrisicodragen van rechtswege is geëindigd of door de inspecteur is beëindigd zonder aanvraag van de werkgever, is artikel 2.17a van toepassing.   
+2.  Dit artikel vervalt met ingang van 1 januari 2016.  
+
 ### Artikel  2.18  
 
 ####Opslag en korting bij te veel betaalde uitkering en regres
@@ -453,7 +468,7 @@ Indien een verzekerde als bedoeld in artikel 38 van de AOW binnen drie maanden n
 
 ### Hoofdstuk  4  
 
-####Uitvoeringskosten AWBZ en bijdragen, bedoeld in artikel 90, tweede lid, onderdeel g, van de Wfsv
+####Beheerskosten en enige zorgkosten uit het Fonds langdurige zorg
 
 ### Artikel  4.1  
 
@@ -461,97 +476,86 @@ Indien een verzekerde als bedoeld in artikel 38 van de AOW binnen drie maanden n
 
 In dit hoofdstuk wordt verstaan onder: 
 
-a. Onze Minister: Onze Minister van Volksgezondheid, Welzijn en Sport;  
+a.  *Onze Minister:* de Minister van Volksgezondheid, Welzijn en Sport;  
 
-b. AFBZ: het Algemeen Fonds Bijzondere Ziektekosten, genoemd in artikel 89 van de Wfsv;  
+b.  *Flz:* het Fonds langdurige zorg, genoemd in artikel 89 van de Wfsv;  
 
-c. AWBZ: de Algemene Wet Bijzondere Ziektekosten;  
+c.  *Wlz:* de Wet langdurige zorg;  
 
-d. kosten van verstrekkingen en vergoedingen: kosten van verstrekkingen en vergoedingen ter zake van verleende zorg als bedoeld in artikel 6 AWBZ, niet zijnde forensische zorg als bedoeld in artikel 2 van het Interimbesluit forensische zorg;  
+d.  *kosten van zorg:* kosten van verleende zorg en overige diensten als bedoeld in paragraaf 3.1 van de Wlz, met uitzondering van de kosten van forensische zorg als bedoeld in artikel 2 van het Interimbesluit forensische zorg;  
 
-e. beheerskosten: de beheerskosten van de in de AWBZ geregelde verzekering, waaronder begrepen de kosten van controle in het kader van die verzekering en waaronder niet begrepen de beheerskosten voor forensische zorg als bedoeld in artikel 2 van het Interimbesluit forensische zorg;  
+e.  *beheerskosten:* de beheerskosten van de in de Wlz geregelde verzekering, waaronder begrepen de kosten van controle in het kader van die verzekering en waaronder niet begrepen de beheerskosten voor forensische zorg als bedoeld in artikel 2 van het Interimbesluit forensische zorg;  
 
-f. vervallen;  
+f.  *Wlz-uitvoerder:* een Wlz-uitvoerder als bedoeld in artikel 1.1.1 van de Wlz;  
 
-g. zorgverzekeraar: een zorgverzekeraar als bedoeld in artikel 1, eerste lid, onderdeel b, van de AWBZ;  
+g.  *onverantwoorde uitgaven:* uitgaven waarvan de Nederlandse zorgautoriteit heeft vastgesteld dat ze niet noodzakelijk zijn voor de uitvoering van de verzekering ingevolge de Wlz;  
 
-h. verbindingskantoor: een verbindingskantoor als bedoeld in het Administratiebesluit Bijzondere Ziektekostenverzekering;  
+h.  *beheerskostenbudget:* de ten laste van het Flz voor de Wlz-uitvoerders beschikbare middelen ter dekking van de voor de uitvoering van de Wlz te maken beheerskosten;  
 
-i. onverantwoorde uitgaven: uitgaven waarvan de Nederlandse zorgautoriteit heeft vastgesteld dat ze niet noodzakelijk zijn voor de uitvoering van de verzekering ingevolge de AWBZ;  
+i.  *CAK:* het CAK, genoemd in artikel 6.1.1 van de Wlz;  
 
-j. beheerskostenbudget: de ten laste van het AFBZ voor de zorgverzekeraars en de verbindingskantoren beschikbare middelen ter dekking van de voor de uitvoering van de AWBZ te maken beheerskosten die zij in hun hoedanigheid maken;  
-
-k. zorgautoriteit: de Nederlandse Zorgautoriteit, bedoeld in de Wet marktordening gezondheidszorg;  
-
-l.  Zorginstituut: het Zorginstituut Nederland, genoemd in artikel 58, eerste lid, van de Zorgverzekeringswet.   
+j.  *zorgaanbieder:* een instelling als bedoeld in artikel 1.1.1 van de Wlz dan wel een solistisch werkende zorgverlener als bedoeld in dat artikel.   
 
 ### Artikel  4.2  
 
-####Vergoeding verstrekkingen op basis van werkelijke kosten
+####Vergoeding kosten van zorg die niet door CAK worden uitbetaald
 
-Het Zorginstituut vergoedt uit het AFBZ jaarlijks aan de zorgverzekeraars de kosten van verstrekkingen en vergoedingen naar werkelijke kosten. Daarbij blijven onverantwoorde uitgaven buiten beschouwing, tenzij de zorgautoriteit anders besluit. 
+1.  Het Zorginstituut vergoedt uit het Flz jaarlijks aan de Wlz-uitvoerders de kosten van de zorg die niet door het CAK aan de zorgaanbieders worden uitbetaald.   
+2.  De vergoeding, bedoeld in het eerste lid, geschiedt naar de werkelijke kosten van de desbetreffende zorg.   
+3.  Bij de vergoeding, bedoeld in het eerste lid, blijven onverantwoorde uitgaven buiten beschouwing, tenzij de zorgautoriteit anders besluit.  
 
 ### Artikel  4.3  
 
-####Macrobudget beheerskosten AWBZ
+####Macrobudget beheerskosten Wlz
 
-Onze Minister geeft het Zorginstituut jaarlijks een aanwijzing terzake van het voor alle zorgverzekeraars en verbindingskantoren tezamen voor dat kalenderjaar ten laste van het AFBZ komende beheerskostenbudget. 
+1.  Onze Minister geeft het Zorginstituut jaarlijks een aanwijzing terzake van het voor alle Wlz-uitvoerders tezamen voor dat kalenderjaar ten laste van het Flz komende beheerskostenbudget.   
+2.  Bij de aanwijzing, bedoeld in het eerste lid, maakt Onze Minister een onderscheid tussen de beheerskosten die op grond van artikel 4.2.4, tweede lid, Wlz aangewezen Wlz-uitvoerders ontvangen voor de in dat artikellid genoemde taken en de beheerskosten die zij ontvangen voor hun overige bij of krachtens de Wlz geregelde taken.  
 
 ### Artikel  4.4  
 
-####Uitkering zorgverzekeraar
+####Beheerskostenbudget Wlz-uitvoerder
 
-1.  Het Zorginstituut stelt jaarlijks, in het kader van de verdeling van de voor het kalenderjaar krachtens artikel 4.3 beschikbaar gestelde middelen, voor iedere zorgverzekeraar afzonderlijk ten laste van het AFBZ het beheerskostenbudget vast ter dekking van de beheerskosten die zij maken anders dan in de hoedanigheid van verbindingskantoor.   
-2.  De vaststelling van het beheerskostenbudget, bedoeld in het eerste lid, geschiedt aan de hand van de door het Zorginstituut vast te stellen beleidsregels.   
-3.  De beleidsregels, bedoeld in het tweede lid, behoeven de goedkeuring van Onze Minister.   
-4.  In geval van onthouding van goedkeuring aan een beleidsregel stelt het Zorginstituut, met inachtneming van door Onze Minister te geven instructies, een nieuwe beleidsregel vast.   
-5.  Indien Onze Minister aan de beleidsregel, bedoeld in het vierde lid, eveneens goedkeuring onthoudt, stelt hij terzake zelf de beleidsregel vast.   
-6.  Het Zorginstituut keert jaarlijks uit het AFBZ aan een zorgverzekeraar het voor die zorgverzekeraar op grond van het eerste lid vastgestelde beheerskostenbudget uit.   
-7.  Indien een zorgverzekeraar op een naar het oordeel van de zorgautoriteit onverantwoorde wijze op zijn beheerskosten bespaart, wordt de uitkering, bedoeld in het zesde lid, voor het desbetreffende kalenderjaar door het Zorginstituut verlaagd met het bedrag van die besparing.  
+1.  Het Zorginstituut verdeelt de middelen, bedoeld in artikel 4.3, jaarlijks over de Wlz-uitvoerders, leidende tot een beheerskostenbudget per Wlz-uitvoerder.   
+2.  Bij de verdeling van het beheerskostenbudget maakt het Zorginstituut voor een Wlz-uitvoerder die taken als bedoeld in artikel 4.2.4, tweede lid, Wlz uitvoert, inzichtelijk welk deel bestemd is voor het uitvoeren van die taken en welk deel voor het uitvoeren van zijn overige taken.   
+3.  De verdeling van het beheerskostenbudget geschiedt aan de hand van door het Zorginstituut vast te stellen beleidsregels.   
+4.  De beleidsregels, bedoeld in het derde lid, behoeven de goedkeuring van Onze Minister.   
+5.  In geval van onthouding van goedkeuring aan een beleidsregel stelt het Zorginstituut, met inachtneming van door Onze Minister te geven instructies, een nieuwe beleidsregel vast.   
+6.  Indien Onze Minister aan de beleidsregel, bedoeld in het vijfde lid, eveneens goedkeuring onthoudt, stelt hij terzake zelf de beleidsregel vast.   
+7.  Het Zorginstituut keert jaarlijks uit het Flz aan een Wlz-uitvoerder het voor die Wlz-uitvoerder op grond van het eerste lid vastgestelde beheerskostenbudget uit.   
+8.  Na het kalenderjaar waarvoor het beheerskostenbudget is verleend, stelt het Zorginstituut het beheerskostenbudget vast.   
+9.  Indien een Wlz-uitvoerder op een naar het oordeel van de zorgautoriteit onverantwoorde wijze op zijn beheerskosten bespaart, wordt de uitkering, bedoeld in het zevende lid, voor het desbetreffende kalenderjaar door het Zorginstituut verlaagd met het bedrag van die besparing.  
 
 ### Artikel  4.5  
 
-####Uitkering verbindingskantoren
+####Beheerskosten bij uitbesteding van werkzaamheden
 
-1.  Het Zorginstituut stelt jaarlijks, in het kader van de verdeling van de voor het kalenderjaar krachtens artikel 4.3 beschikbaar gestelde middelen, afzonderlijk voor ieder verbindingskantoor het beheerskostenbudget vast.   
-2.  De vaststelling van het beheerskostenbudget, bedoeld in het eerste lid, geschiedt aan de hand van door het Zorginstituut vast te stellen beleidsregels. Ten aanzien van die beleidsregels is artikel 4.4, derde lid, van overeenkomstige toepassing.   
-3.  Het Zorginstituut keert jaarlijks uit het AFBZ aan de verbindingskantoren het voor hen ingevolge het eerste lid vastgestelde beheerskostenbudget uit.   
-4.  Indien een verbindingskantoor op een naar het oordeel van de zorgautoriteit onverantwoorde wijze op zijn beheerskosten bespaart, wordt de uitkering, bedoeld in het eerste lid, voor het desbetreffende kalenderjaar door het Zorginstituut verlaagd met het bedrag van die besparing.   
-5.  Een verbindingskantoor houdt een reserve uitvoering AWBZ aan.   
-6.  Het saldo van baten en lasten over enig boekjaar van een verbindingskantoor voor de beheerskosten die het in of in verband met die hoedanigheid maakt, wordt toegevoegd aan, onderscheidenlijk ten laste gebracht van de reserve, bedoeld in het vijfde lid. Daarbij blijven onverantwoorde uitgaven buiten beschouwing, tenzij de zorgautoriteit anders besluit.   
-7.  Bij het eindigen van de aanwijzing, bedoeld in artikel 40 van de AWBZ, zonder dat aansluitend een nieuwe aanwijzing plaatsvindt, stort het verbindingskantoor een bedrag ter hoogte van de reserve, bedoeld in het vijfde lid, binnen vier weken in het AFBZ.  
+1.  Indien een Wlz-uitvoerder zijn overige taken, bedoeld in artikel 4.4, tweede lid, geheel of gedeeltelijk uitbesteedt, betaalt hij degene waaraan hij deze taken uitbesteedt per verzekerde een bedrag aan beheerskosten dat is berekend op basis van door het Zorginstituut vast te stellen beleidsregels.   
+2.  Artikel 4.4, vierde tot en met zesde lid, is van overeenkomstige toepassing.  
 
 ### Artikel  4.6  
 
-####Reserve uitvoering AWBZ
+####Reserve uitvoering Wlz
 
-De reserve uitvoering AWBZ, bedoeld in artikel 4.5, vijfde lid, ultimo enig jaar, bedraagt voor verbindingskantoren maximaal 20% van het beheerskostenbudget voor dat jaar. Indien het Zorginstituut vaststelt dat de reserve het gestelde maximum te boven gaat, stort het verbindingskantoor het door het Zorginstituut vastgestelde bedrag van de overschrijding binnen vier weken in het AFBZ. 
+1.  Een Wlz-uitvoerder houdt een reserve uitvoering Wlz aan.   
+2.  Het saldo van baten en lasten over enig boekjaar van een Wlz-uitvoerder van de beheerskosten die hij in of in verband met die hoedanigheid maakt, wordt toegevoegd aan, onderscheidenlijk ten laste gebracht van de reserve, bedoeld in het eerste lid. Daarbij blijven onverantwoorde uitgaven buiten beschouwing, tenzij de zorgautoriteit anders besluit.   
+3.  Het Zorginstituut bepaalt welk percentage rente de Wlz-uitvoerder over de reserve geacht wordt te maken.   
+4.  De reserve uitvoering Wlz bedraagt ultimo enig jaar maximaal 20% van het beheerskostenbudget voor dat jaar.   
+5.  Indien het Zorginstituut vaststelt dat de reserve het gestelde maximum te boven gaat, stort de Wlz-uitvoerder het door het Zorginstituut vastgestelde bedrag waarmee het maximum overschreden wordt binnen vier weken in het Flz.   
+6.  Binnen vier weken nadat hij de uitvoering van de Wlz heeft beëindigd, stort de Wlz-uitvoerder een bedrag ter hoogte van de reserve, bedoeld in het eerste lid, in het Flz.   
+7.  Binnen twee jaar na het eindigen of wijzigen van een aanwijzing als bedoeld in artikel 4.2.4, tweede lid, van de Wlz, bepaalt het Zorginstituut of de Wlz-uitvoerder een deel van zijn reserve in het Flz dient te storten en zo ja, hoe groot dat deel is. De Wlz-uitvoerder stort een op grond van de vorige zin bepaald deel binnen vier weken in het Flz.  
 
 ### Artikel  4.7  
 
 ####Toezicht op opgaven
 
-De zorgautoriteit is bevoegd opgaven en gegevens van een zorgverzekeraar of verbindingskantoor, die van invloed zijn op de omvang van de ten laste van het AFBZ beschikbare middelen en op de hoogte van de verstrekkingen en vergoedingen ingevolge dit hoofdstuk, op hun juistheid te beoordelen en te verbeteren. 
+De zorgautoriteit is bevoegd opgaven en gegevens van een Wlz-uitvoerder die van invloed zijn op de omvang van de ten laste van het Flz beschikbare middelen en op de hoogte van de kosten van zorg, op hun juistheid te beoordelen en te verbeteren. 
 
 ### Artikel  4.8  
 
 ####Betaalbaarstelling
 
-Het Zorginstituut bepaalt met inachtneming van het Administratiebesluit Bijzondere Ziektekostenverzekering de wijze van betaalbaarstelling van de uitkeringen op grond van dit hoofdstuk. 
-
-### Artikel  4.9  
-
-####Overgangsbepaling
-
-Besluiten van Onze Minister en het Zorginstituut op grond van het Besluit financiering uitvoeringsorganisatie bijzondere ziektekostenverzekering AWBZ in het jaar 2005 terzake van de onderwerpen geregeld in de artikelen 4.3 tot en met 4.6 van dit hoofdstuk worden aangemerkt als besluiten op grond van de desbetreffende artikelen van dit hoofdstuk. 
-
-### Artikel  4.10  
-
-####Bijdragen, bedoeld in artikel 90, tweede lid, onderdeel g, van de Wfsv
-
-1.  De bijdragen, bedoeld in artikel 90, tweede lid, onderdeel g, van de Wfsv, betreffen de op grond van artikel 4.1, vierde lid, van het Besluit maatschappelijke ondersteuning toegepaste kortingen.   
-2.  Het Zorginstituut keert periodiek voorschotten uit aan het CAK, aan de hand van door het CAK verstrekte gegevens.   
-3.  Het Zorginstituut stelt de aan het CAK over een kalenderjaar te betalen geldsom voor de bijdragen, bedoeld in artikel 90, tweede lid, onderdeel g, van de Wfsv, vast binnen een jaar na het einde van dat kalenderjaar.  
+1.  Het Zorginstituut bepaalt de wijze van betaalbaarstelling van de uitkeringen op grond van dit hoofdstuk en bepaalt welk percentage rente door de Wlz-uitvoerder dan wel het Zorginstituut verschuldigd is over verschillen tussen uitgekeerde bedragen en bedragen waarop de Wlz-uitvoerder na afloop van het kalenderjaar daadwerkelijk recht blijkt te hebben.   
+2.  Het Zorginstituut is bevoegd een verschil als bedoeld in het tweede lid, te verrekenen met een over een later kalenderjaar te verlenen beheerskostenbudget.  
 
 ### Hoofdstuk  5  
 

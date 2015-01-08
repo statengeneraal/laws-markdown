@@ -37,8 +37,8 @@ Van de aanvrager kunnen, volgens bij algemene maatregel van bestuur te stellen r
 
 ### Artikel  5  
 
-1.  Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de bij besluit van Onze Minister van Verkeer en Waterstaat aangewezen ambtenaren. De toezichthouder beschikt niet over de bevoegdheden, genoemd in de [artikelen 5:18](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:19 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
-2.  Met de opsporing van de bij artikel 11 strafbaar gestelde feiten zijn, onverminderd [artikel 141 van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), belast de ambtenaren, aangewezen bij besluit van Onze Ministers van Verkeer en Waterstaat en van Justitie. Deze ambtenaren zijn tevens belast met de opsporing van de feiten, strafbaar gesteld in de [artikelen 179](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) tot en met [182](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [184 van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.   
+1.  Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de bij besluit van Onze Minister van Verkeer en Waterstaat aangewezen ambtenaren. De toezichthouder beschikt niet over de bevoegdheden, genoemd in de artikelen 5:18 en 5:19 van de Algemene wet bestuursrecht.   
+2.  Met de opsporing van de bij artikel 11 strafbaar gestelde feiten zijn, onverminderd artikel 141 van het Wetboek van Strafvordering, belast de ambtenaren, aangewezen bij besluit van Onze Ministers van Verkeer en Waterstaat en van Justitie. Deze ambtenaren zijn tevens belast met de opsporing van de feiten, strafbaar gesteld in de artikelen 179 tot en met 182 en 184 van het Wetboek van Strafrecht, voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.   
 3.  Van een besluit als bedoeld in het eerste of tweede lid wordt mededeling gedaan door plaatsing in de *Staatscourant*.  
 
 ### Artikel  6  
@@ -79,22 +79,24 @@ In dit hoofdstuk wordt verstaan onder:
 
 *verkeersveiligheidsinspectie:* een gewone periodieke beoordeling van de kenmerken en gebreken van wegen, waarvoor onderhoudswerkzaamheden nodig zijn met het oog op de verkeersveiligheid;  
 
-*infrastructuurproject:* een project voor de bouw van nieuwe weginfrastructuur of voor de grondige wijziging van het bestaande wegennet met gevolgen voor de hoeveelheid verkeersstroom.   
+*infrastructuurproject:* een project voor de bouw van nieuwe weginfrastructuur of voor de grondige wijziging van het bestaande wegennet met gevolgen voor de hoeveelheid verkeersstroom;  
+
+*wegbeheerder:* beheerder van een weg als bedoeld in artikel 11b, eerste lid. 
 
 ### Artikel  11b  
 
-1.  Dit hoofdstuk is van toepassing op wegen in beheer bij het Rijk die deel uitmaken van het wegennet beschreven in deel 2 van bijlage I bij Beschikking nr. 1692/96/EG.   
+1.  Dit hoofdstuk is van toepassing op wegen die deel uitmaken van het bij ministeriële regeling aan te wijzen wegennet als bedoeld in richtlijn nr. 2008/96/EG van het Europees Parlement en de Raad van de Europese Unie van 19 november 2008 betreffende het beheer van de verkeersveiligheid van weginfrastructuur (PbEU L 319) en die in beheer zijn bij het Rijk of die, in afwijking van artikel 1, in beheer zijn bij een ander dan het Rijk.   
 2.  In afwijking van het eerste lid is dit hoofdstuk niet van toepassing op: 
 
 a. tunnels als bedoeld in richtlijn nr. 2004/54/EG van het Europees parlement en de Raad van de Europese Unie van 29 april 2004 inzake de minimumveiligheidseisen voor tunnels in het trans-Europese wegennet (PbEG L 167/39);  
 
-b. projecten als bedoeld in [artikel 2 van de Spoedwet wegverbreding](../../../../../wet/spoedwet/wegverbreding/BWBR0015158/README.md) en de [bijlage bij de Tracéwet](../../../../../wet/tracéwet/BWBR0006147/README.md), en  
+b. projecten als bedoeld in artikel 2 van de Spoedwet wegverbreding en de bijlage bij de Tracéwet, en  
 
-c. projecten waarvoor op 19 december 2010 een aanvangsbeslissing als bedoeld in [artikel 2 van de Tracéwet](../../../../../wet/tracéwet/BWBR0006147/README.md) is vastgesteld.    
+c. projecten waarvoor uiterlijk op 19 december 2010 een aanvangsbeslissing als bedoeld in artikel 2 van de Tracéwet is vastgesteld.    
 
 ### Artikel  11c  
 
-1.  Onze Minister van Verkeer en Waterstaat voert in een bij ministeriële regeling aan te wijzen fase van de voorbereiding van een infrastructuurproject: 
+1.  De wegbeheerder voert in een bij ministeriële regeling aan te wijzen fase van de voorbereiding van een infrastructuurproject: 
 
 a. een verkeersveiligheidseffectbeoordeling uit, en  
 
@@ -109,7 +111,7 @@ c. vakbekwaamheid van personen die een verkeersveiligheidsaudit uitvoeren, erken
 
 ### Artikel  11d  
 
-1.  Onze Minister van Verkeer en Waterstaat beoordeelt ten minste om de drie jaar de classificatie van weggedeelten met een hoog aantal ongevallen en van de verkeersveiligheid van het wegennet in het kader van de beoordelingen van de exploitatie van het wegennet.   
+1.  De wegbeheerder beoordeelt ten minste om de drie jaar de classificatie van weggedeelten met een hoog aantal ongevallen en van de verkeersveiligheid van het wegennet in het kader van de beoordelingen van de exploitatie van het wegennet.   
 2.  Bij ministeriële regeling worden nadere regels gesteld, waartoe in elk geval kunnen behoren: 
 
 a. criteria waarvan wordt gestreefd die te beoordelen;  
@@ -120,7 +122,7 @@ c. wijze van afweging ten aanzien van verbetermaatregelen.
 
 ### Artikel  11e  
 
-Onze Minister van Verkeer en Waterstaat voert op bij ministeriële regeling aangegeven wijze verkeersveiligheidsinspecties uit van in gebruik zijnde wegen teneinde de veiligheidskenmerken van de wegen te identificeren en ongevallen te voorkomen. 
+De wegbeheerder voert op bij ministeriële regeling aangegeven wijze verkeersveiligheidsinspecties uit van in gebruik zijnde wegen teneinde de veiligheidskenmerken van de wegen te identificeren en ongevallen te voorkomen. 
 
 ### Artikel  12  
 

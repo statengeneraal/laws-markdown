@@ -293,7 +293,7 @@ b. indien het kwark betreft, de factor 3 gehanteerd.
 
 ### Artikel  21d  
 
-De koper stelt de in artikel 25a bedoelde hoeveelheden melk en vet vast overeenkomstig het bij of krachtens de Zuivelverordening 2005, Grondslag uitbetaling boerderijmelk, of op grond van een andere methodiek die naar het oordeel van de minister voldoende waarborgen biedt voor een nauwkeurige vaststelling. 
+De koper stelt de in artikel 21a bedoelde hoeveelheden melk en het in artikel 21a bedoelde vetgehalte vast overeenkomstig hoofdstuk 2, paragraaf 2.8, van de Regeling dierlijke producten, of op grond van een andere methodiek die naar het oordeel van de minister voldoende waarborgen biedt voor een nauwkeurige vaststelling.
 
 ### Artikel  21e  
 

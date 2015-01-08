@@ -24,25 +24,25 @@ b.  Onze Minister: Onze Minister van Infrastructuur en Milieu;
 
 c. bevoegd college van burgemeester en wethouders: het college van burgemeester en wethouders van de gemeente waarin een tunnel geheel of in hoofdzaak is of zal zijn gelegen;  
 
-d. hulpverleningsdiensten: de politie, de brandweer en de GHOR, bedoeld in [artikel 1 van de Wet veiligheidsregio’s](../../../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md);  
+d. hulpverleningsdiensten: de politie, de brandweer en de GHOR, bedoeld in artikel 1 van de Wet veiligheidsregio’s;  
 
-e. bouwen: hetgeen onder bouwen wordt verstaan in [artikel 1, eerste lid, onderdeel a, van de Woningwet](../../../../../../../wet/woningwet/BWBR0005181/README.md);  
+e. bouwen: hetgeen onder bouwen wordt verstaan in artikel 1, eerste lid, onderdeel a, van de Woningwet;  
 
-f. bestemmingsplan: een bestemmingsplan als bedoeld in de Wet ruimtelijke ordening, met inbegrip van een rijksinpassingsplan en een provinciaal inpassingsplan als bedoeld in die wet, alsmede een omgevingsvergunning waarbij met toepassing van [artikel 2.12, eerste lid, onderdeel a, onder 3, van de Wet algemene bepalingen omgevingsrecht](../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van het bestemmingsplan wordt afgeweken;  
+f. bestemmingsplan: een bestemmingsplan als bedoeld in de Wet ruimtelijke ordening, met inbegrip van een rijksinpassingsplan en een provinciaal inpassingsplan als bedoeld in die wet, alsmede een omgevingsvergunning waarbij met toepassing van artikel 2.12, eerste lid, onderdeel a, onder 3, van de Wet algemene bepalingen omgevingsrecht van het bestemmingsplan wordt afgeweken;  
 
-g. tunnel: tunnel of tunnelvormig bouwwerk, uitsluitend dan wel mede bestemd voor motorrijtuigen als bedoeld in [artikel 1, eerste lid, onderdeel c, van de Wegenverkeerswet 1994](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), met uitzondering van bromfietsen als bedoeld in artikel 1, eerste lid, onderdeel e, van die wet;  
+g. tunnel: tunnel of tunnelvormig bouwwerk, uitsluitend dan wel mede bestemd voor motorrijtuigen als bedoeld in artikel 1, eerste lid, onderdeel c, van de Wegenverkeerswet 1994, met uitzondering van bromfietsen als bedoeld in artikel 1, eerste lid, onderdeel e, van die wet;  
 
-h. trans-Europees wegennet: het wegennet als omschreven in afdeling 2 van bijlage I van Beschikking nr. 1692/96/EG en geïllustreerd met kaarten of beschreven in bijlage II van die beschikking.   
+h. Trans-Europees wegennet: bij ministeriële regeling aan te wijzen wegennet als bedoeld in richtlijn nr. 2004/54/EG van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 inzake minimumveiligheidseisen voor tunnels in het trans-Europese wegennet (PbEU L 167, gerectificeerd bij PbEU L 201).   
 
 ### Artikel  2  
 
 1.  Deze wet is van toepassing op tunnels, langer dan 250 meter. De lengte van de tunnel wordt bepaald door het langst omsloten gedeelte.   
-2.  Bij besluit van Onze Minister kan het bepaalde bij of krachtens deze wet of het bepaalde ten aanzien van de veiligheid van tunnels bij of krachtens de [Woningwet](../../../../../../../wet/woningwet/BWBR0005181/README.md) uit het oogpunt van veiligheid geheel of gedeeltelijk van toepassing worden verklaard op met een tunnel vergelijkbare bouwwerken boven of bij een weg die uitsluitend dan wel mede bestemd is voor motorrijtuigen als bedoeld in [artikel 1, eerste lid, onder c, van de Wegenverkeerswet 1994](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md).  
+2.  Bij besluit van Onze Minister kan het bepaalde bij of krachtens deze wet of het bepaalde ten aanzien van de veiligheid van tunnels bij of krachtens de Woningwet uit het oogpunt van veiligheid geheel of gedeeltelijk van toepassing worden verklaard op met een tunnel vergelijkbare bouwwerken boven of bij een weg die uitsluitend dan wel mede bestemd is voor motorrijtuigen als bedoeld in artikel 1, eerste lid, onder c, van de Wegenverkeerswet 1994.  
 
 ### Artikel  4  
 
-1.  Indien een tunnel op het grondgebied van meer dan één gemeente ligt of zal liggen, oefent het bevoegd college van burgemeester en wethouders zijn bevoegdheden, gegeven bij of krachtens deze wet of de [Woningwet](../../../../../../../wet/woningwet/BWBR0005181/README.md), uit in overeenstemming met het college van burgemeester en wethouders van die andere gemeente, dan wel met de colleges van burgemeester en wethouders van die andere gemeenten.   
-2.  Indien een tunnel de landsgrens overschrijdt of zal overschrijden, oefent het bevoegd college van burgemeester en wethouders zijn bevoegdheden, gegeven bij of krachtens deze wet of de [Woningwet](../../../../../../../wet/woningwet/BWBR0005181/README.md), ten aanzien van het deel van de tunnel dat in Nederland is gelegen uit in overeenstemming met het bestuursorgaan dat bevoegd is ten aanzien van het niet in Nederland gelegen deel van de tunnel.  
+1.  Indien een tunnel op het grondgebied van meer dan één gemeente ligt of zal liggen, oefent het bevoegd college van burgemeester en wethouders zijn bevoegdheden, gegeven bij of krachtens deze wet of de Woningwet, uit in overeenstemming met het college van burgemeester en wethouders van die andere gemeente, dan wel met de colleges van burgemeester en wethouders van die andere gemeenten.   
+2.  Indien een tunnel de landsgrens overschrijdt of zal overschrijden, oefent het bevoegd college van burgemeester en wethouders zijn bevoegdheden, gegeven bij of krachtens deze wet of de Woningwet, ten aanzien van het deel van de tunnel dat in Nederland is gelegen uit in overeenstemming met het bestuursorgaan dat bevoegd is ten aanzien van het niet in Nederland gelegen deel van de tunnel.  
 
 ### Artikel  5  
 
@@ -57,7 +57,7 @@ h. trans-Europees wegennet: het wegennet als omschreven in afdeling 2 van bijlag
 1.  De kans op slachtoffers in de tunnel is blijkens een risicoanalyse niet groter dan 0,1/N<sup>2</sup> per kilometer tunnelbuis per jaar. Waarbij «N» het aantal dodelijke slachtoffers onder de weggebruikers per incident is en waarbij dat aantal 10 of meer bedraagt.   
 2.  De uitvoerder van de risicoanalyse, bedoeld in het eerste lid, is in functioneel opzicht onafhankelijk van de tunnelbeheerder.   
 3.  De risicoanalyse, bedoeld in het eerste lid, geschiedt volgens een bij ministeriële regeling vastgestelde methode.   
-4.  De tunnelbeheerder vraagt advies aan de veiligheidsbeambte over het bouwplan voor een bouwactiviteit als bedoeld in [artikel 2.1, eerste lid, onder a, van de Wet algemene bepalingen omgevingsrecht](../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md).  
+4.  De tunnelbeheerder vraagt advies aan de veiligheidsbeambte over het bouwplan voor een bouwactiviteit als bedoeld in artikel 2.1, eerste lid, onder a, van de Wet algemene bepalingen omgevingsrecht.  
 
 ### Artikel  6a  
 
@@ -66,7 +66,7 @@ h. trans-Europees wegennet: het wegennet als omschreven in afdeling 2 van bijlag
 
 a. indien uit een risicoanalyse, bedoeld in artikel 6, derde lid, blijkt dat bij toepassing van de gestandaardiseerde uitrusting in een tunnel met de fysieke kenmerken van de opengestelde of in aanbouw zijnde tunnels, aan de in artikel 6, eerste lid, genoemde norm wordt voldaan, en  
 
-b. nadat het Veiligheidsberaad, bedoeld in [artikel 1 van de Wet veiligheidsregio’s](../../../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md), in de gelegenheid is gesteld daarover advies uit te brengen.     
+b. nadat het Veiligheidsberaad, bedoeld in artikel 1 van de Wet veiligheidsregio’s, in de gelegenheid is gesteld daarover advies uit te brengen.     
 3.  Onze Minister evalueert de gestandaardiseerde uitrustingen binnen vijf jaar na de inwerkingtreding van de wet van ... tot wijziging van de Wet aanvullende regels veiligheid wegtunnels in verband met het vaststellen van een veiligheidsnorm en het stellen van regels omtrent het gebruik van gestandaardiseerde uitrustingen en in verband met wijzigingen in het totstandkomingsproces van wegtunnels (Stb. ...), en vervolgens telkens na vijf jaar. Indien de evaluatie daar aanleiding toe geeft, past Onze Minister de gestandaardiseerde uitrustingen aan en stelt hij de Tweede Kamer der Staten-Generaal van deze aanpassing in kennis.  
 
 ### Artikel  6b  
@@ -84,20 +84,20 @@ c. daarmee ten minste de zelfde mate van veiligheid wordt geboden als is beoogd 
 d. toepassing wordt gegeven aan artikel 3, tweede lid, of artikel 14 van Richtlijn 2004/54 van het Europees Parlement en de Raad van 29 april 2004 inzake minimumveiligheidseisen voor tunnels in het trans-Europese wegennet.     
 4.  De tunnelbeheerder kiest de toe te passen gestandaardiseerde uitrusting, als bedoeld in het eerste lid, voorafgaand: 
 
-a. aan de vaststelling van het tracébesluit als bedoeld in [artikel 9 van de Tracéwet](../../../../../../../wet/tracéwet/BWBR0006147/README.md), of  
+a. aan de vaststelling van het tracébesluit als bedoeld in artikel 9 van de Tracéwet, of  
 
-b. aan de vaststelling van een bestemmingsplan of een wijziging daarvan als bedoeld in de [Wet ruimtelijke ordening](../../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md).     
+b. aan de vaststelling van een bestemmingsplan of een wijziging daarvan als bedoeld in de Wet ruimtelijke ordening.     
 5.  Indien de tunnelbeheerder op grond van het derde lid afwijkt van de gestandaardiseerde uitrusting, maakt de tunnelbeheerder de keuze over de toe te passen uitrusting voorafgaand: 
 
-a. aan de vaststelling van het tracébesluit, bedoeld in [artikel 9 van de Tracéwet](../../../../../../../wet/tracéwet/BWBR0006147/README.md), of  
+a. aan de vaststelling van het tracébesluit, bedoeld in artikel 9 van de Tracéwet, of  
 
-b. aan de vaststelling van een bestemmingsplan of een wijziging daarvan als bedoeld in de [Wet ruimtelijke ordening](../../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md).     
+b. aan de vaststelling van een bestemmingsplan of een wijziging daarvan als bedoeld in de Wet ruimtelijke ordening.     
 6.  De keuze voor de toe te passen uitrusting, bedoeld in het vierde lid, onderdeel a, of de keuze voor de toe te passen uitrusting, bedoeld in het vijfde lid, onderdeel a, wordt gemaakt in overeenstemming met het bevoegd college van burgemeester en wethouders.  
 
 ### Artikel  6c  
 
 1.  De tunnelbeheerder stelt, na overleg met de veiligheidsbeambte, een tunnelveiligheidsplan op waarin alle veiligheidsaspecten die een rol spelen bij de keuze van de locatie, het ontwerp en het beoogde gebruik, worden afgewogen. De risicoanalyse bedoeld in artikel 6, derde lid, maakt daarvan onderdeel uit.   
-2.  Het tunnelveiligheidsplan wordt vastgesteld voorafgaand aan de vaststelling van het tracébesluit, bedoeld in [artikel 9 van de Tracéwet](../../../../../../../wet/tracéwet/BWBR0006147/README.md), of voorafgaand aan de vaststelling van een bestemmingsplan of van een wijziging daarvan als bedoeld in de [Wet ruimtelijke ordening](../../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md).   
+2.  Het tunnelveiligheidsplan wordt vastgesteld voorafgaand aan de vaststelling van het tracébesluit, bedoeld in artikel 9 van de Tracéwet, of voorafgaand aan de vaststelling van een bestemmingsplan of van een wijziging daarvan als bedoeld in de Wet ruimtelijke ordening.   
 3.  Bij ministeriële regeling worden nadere regels gesteld ten aanzien van de vorm en de inhoud van het tunnelveiligheidsplan.  
 
 ### Artikel  6d  
@@ -108,7 +108,7 @@ b. aan de vaststelling van een bestemmingsplan of een wijziging daarvan als bedo
 
 ### Artikel  7  
 
-1. Voor de openstelling van een tunnel stelt de tunnelbeheerder na overleg met de veiligheidsbeambte en de burgemeester van de gemeente of van elk van de gemeenten waarin de tunnel is gelegen een veiligheidsbeheerplan op. Het plan omvat ten minste de organisatie van het tunnelbeheer, de afstemming van dit beheer met de hulpverleningsdiensten, de verkeersbegeleiding, de instandhoudingsactiviteiten en de bestrijding van rampen of andere gebeurtenissen in of bij een tunnel die een mensenleven, het milieu of de tunnel in gevaar kunnen brengen. Het plan omvat tevens een analyse van scenario’s van ongevallen. Bij ministeriële regeling worden nadere regels gesteld met betrekking tot de inhoud van het veiligheidsbeheerplan en wordt de methode voor het uitvoeren van de analyse van scenario’s van ongevallen vastgesteld. De in de eerste volzin bedoelde analyse kan, met redenen omkleed, achterwege blijven.  
+1. Voor de openstelling van een tunnel stelt de tunnelbeheerder na overleg met de veiligheidsbeambte en de burgemeester van de gemeente of van elk van de gemeenten waarin de tunnel is gelegen een veiligheidsbeheerplan op. Het plan omvat ten minste de organisatie van het tunnelbeheer, de afstemming van dit beheer met de hulpverleningsdiensten, de verkeersbegeleiding, de instandhoudingsactiviteiten en de bestrijding van rampen of andere gebeurtenissen in of bij een tunnel die een mensenleven, het milieu of de tunnel in gevaar kunnen brengen. Het plan omvat tevens een analyse van scenario’s van ongevallen. Bij ministeriële regeling worden nadere regels gesteld met betrekking tot de inhoud van het veiligheidsbeheerplan en wordt de methode voor het uitvoeren van de analyse van scenario’s van ongevallen vastgesteld. De in de derde volzin bedoelde analyse kan, met redenen omkleed, achterwege blijven.  
 2.  Voor de openstelling van een tunnel na een wezenlijke wijziging van de constructie, de voorzieningen dan wel het gebruik van de tunnel, past de tunnelbeheerder, na overleg met de veiligheidsbeambte en de burgemeester van de gemeente of van elk van de gemeenten waarin de tunnel is gelegen, het in het eerste lid bedoelde veiligheidsbeheerplan, voor zover noodzakelijk, aan die veranderde situatie aan. 
 
 ### Artikel  8  
@@ -124,7 +124,7 @@ a. de uitrusting van de tunnel niet is uitgevoerd overeenkomstig de krachtens ar
 b. de tunnel niet voldoet aan het overige bepaalde bij of krachtens deze wet, of  
 
 c. de tunnel niet voldoet aan het bepaalde ten aanzien van de veiligheid van tunnels bij of krachtens de Woningwet.     
-6.  De [artikelen 20](../../../../../../../wet/tracéwet/BWBR0006147/README.md), [25](../../../../../../../wet/tracéwet/BWBR0006147/README.md), [26, derde lid](../../../../../../../wet/tracéwet/BWBR0006147/README.md), en [27 van de Tracéwet](../../../../../../../wet/tracéwet/BWBR0006147/README.md) zijn van toepassing op een vergunning als bedoeld in het eerste lid voor een tunnel die onderdeel uitmaakt van een tracébesluit, bedoeld in [artikel 9 van de Tracéwet](../../../../../../../wet/tracéwet/BWBR0006147/README.md). 
+6.  De artikelen 20, 25, 26, derde lid, en 27 van de Tracéwet zijn van toepassing op een vergunning als bedoeld in het eerste lid voor een tunnel die onderdeel uitmaakt van een tracébesluit, bedoeld in artikel 9 van de Tracéwet. 
 
 ### Artikel  8a  
 
@@ -147,7 +147,7 @@ De tunnelbeheerder draagt zorg voor een actueel tunnelveiligheidsdossier. Bij mi
 
 1.  Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de bij besluit van het bevoegd college van burgemeester en wethouders aangewezen ambtenaren.   
 2.  Het bevoegd college van burgemeester en wethouders draagt er zorg voor dat elke tunnel ten minste eenmaal in de zes jaar wordt onderzocht ten einde vast te stellen of voldaan wordt aan de van toepassing zijnde bepalingen. Het college zendt de resultaten van dit onderzoek onverwijld naar de tunnelbeheerder, de veiligheidsbeambte, Onze Minister en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en geeft daarbij aan welke maatregelen naar zijn oordeel genomen moeten worden om de gebleken tekortkomingen weg te nemen.   
-3.  In geval van overtreding van het bepaalde bij of krachtens deze wet of het bepaalde ten aanzien van de veiligheid van tunnels bij of krachtens de [Woningwet](../../../../../../../wet/woningwet/BWBR0005181/README.md): 
+3.  In geval van overtreding van het bepaalde bij of krachtens deze wet of het bepaalde ten aanzien van de veiligheid van tunnels bij of krachtens de Woningwet: 
 
 a. doet het bevoegd college van burgemeester en wethouders daarvan onverwijld mededeling aan de tunnelbeheerder, de veiligheidsbeambte, Onze Minister en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;  
 
@@ -155,7 +155,7 @@ b. kan het bevoegd college van burgemeester en wethouders de vergunning, bedoeld
 
 ### Artikel  12  
 
-Bij of krachtens algemene maatregel van bestuur worden in het belang van de veiligheid nadere regels gegeven met betrekking tot het voornemen een tunnel te bouwen, het bouwen en het in gebruik nemen en hebben van tunnels, voor zover deze regels niet zijn gegeven bij of krachtens de [Woningwet](../../../../../../../wet/woningwet/BWBR0005181/README.md). 
+Bij of krachtens algemene maatregel van bestuur worden in het belang van de veiligheid nadere regels gegeven met betrekking tot het voornemen een tunnel te bouwen, het bouwen en het in gebruik nemen en hebben van tunnels, voor zover deze regels niet zijn gegeven bij of krachtens de Woningwet. 
 
 ### Hoofdstuk  2  
 
@@ -179,11 +179,11 @@ Wijzigt de Tracéwet.
 
 ### Artikel  16  
 
-Indien voor 2 mei 2006 een aanvraag om bouwvergunning met betrekking tot een tunnel is ingediend en de desbetreffende vergunning nog niet is verleend, wordt deze aanvraag beoordeeld overeenkomstig het bepaalde bij of krachtens deze wet en het bepaalde bij of krachtens de [Woningwet](../../../../../../../wet/woningwet/BWBR0005181/README.md). 
+Indien voor 2 mei 2006 een aanvraag om bouwvergunning met betrekking tot een tunnel is ingediend en de desbetreffende vergunning nog niet is verleend, wordt deze aanvraag beoordeeld overeenkomstig het bepaalde bij of krachtens deze wet en het bepaalde bij of krachtens de Woningwet. 
 
 ### Artikel  17  
 
-Ten aanzien van tunnels ten behoeve waarvan de bouwvergunning voor 2 mei 2006 is verleend maar die op 1 mei 2006 nog niet voor het openbaar verkeer opengesteld zijn, beoordeelt het bevoegd college van burgemeester en wethouders of voldaan wordt aan het bepaalde bij of krachtens deze wet, of het bepaalde bij of krachtens de [Woningwet](../../../../../../../wet/woningwet/BWBR0005181/README.md) met betrekking tot tunnels. Indien het bevoegd college van burgemeester en wethouders van oordeel is dat hieraan niet wordt voldaan, stelt hij de tunnelbeheerder en de veiligheidsbeambte in kennis van de te nemen maatregelen. 
+Ten aanzien van tunnels ten behoeve waarvan de bouwvergunning voor 2 mei 2006 is verleend maar die op 1 mei 2006 nog niet voor het openbaar verkeer opengesteld zijn, beoordeelt het bevoegd college van burgemeester en wethouders of voldaan wordt aan het bepaalde bij of krachtens deze wet, of het bepaalde bij of krachtens de Woningwet met betrekking tot tunnels. Indien het bevoegd college van burgemeester en wethouders van oordeel is dat hieraan niet wordt voldaan, stelt hij de tunnelbeheerder en de veiligheidsbeambte in kennis van de te nemen maatregelen. 
 
 ### Artikel  18  
 
@@ -192,16 +192,16 @@ Ten aanzien van tunnels ten behoeve waarvan de bouwvergunning voor 2 mei 2006 is
 a. voor tunnels in het Nederlands deel van het trans-Europees wegennet met een lengte van meer dan 500 meter: voor 1 mei 2014;  
 
 b. voor andere dan de in onderdeel a bedoelde tunnels: voor 1 mei 2019.     
-2.  Maatregelen ten aanzien van tunnels, die voor de inwerkingtreding van deze wet voor het openbare verkeer opengesteld zijn of opengesteld geweest zijn, die nodig zijn om te voldoen aan het bepaalde bij of krachtens deze wet, of die nodig zijn om te voldoen aan de norm, genoemd in artikel 6, eerste lid, worden genomen: 
+2.  Maatregelen ten aanzien van tunnels, die voor 1 juli 2013 voor het openbare verkeer opengesteld zijn of opengesteld geweest zijn, die nodig zijn om te voldoen aan het bepaalde bij of krachtens deze wet, of die nodig zijn om te voldoen aan de norm, genoemd in artikel 6, eerste lid, worden genomen: 
 
 a. voor tunnels in het Nederlands deel van het trans-Europees wegennet met een lengte van meer dan 500 meter: voor 1 mei 2014;  
 
 b. voor andere dan de in onderdeel a bedoelde tunnels: voor 1 mei 2019.     
 3.  De artikelen 6b en 8, vijfde lid, onderdeel a, zijn niet van toepassing op: 
 
-a. tunnels waarvoor op het moment van inwerkingtreding van deze wet reeds een tracébesluit als bedoeld in [artikel 9 van de Tracéwet](../../../../../../../wet/tracéwet/BWBR0006147/README.md) is genomen of waarvoor een bestemmingsplan of een wijziging van een bestemmingsplan is vastgesteld;  
+a. tunnels waarvoor op 1 juli 2013 reeds een tracébesluit als bedoeld in artikel 9 van de Tracéwet is genomen of waarvoor een bestemmingsplan of een wijziging van een bestemmingsplan is vastgesteld;  
 
-b. tunnels die op het moment van inwerkingtreding van deze wet zijn opengesteld of opengesteld zijn geweest, of  
+b. tunnels die op 1 juli 2013 zijn opengesteld of opengesteld zijn geweest, of  
 
 c. tunnels die niet in beheer zijn bij het Rijk.    
 

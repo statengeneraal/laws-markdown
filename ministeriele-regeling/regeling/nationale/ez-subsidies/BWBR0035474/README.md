@@ -970,7 +970,7 @@ b. wordt berekend op basis van een voor de deelnemers aan een samenwerkingsproje
 
 a. een onderzoeksorganisatie met inbegrip van de Nederlandse organisatie voor wetenschappelijk onderzoek en de Koninklijke Nederlandse Akademie van Wetenschappen,  
 
-b. een openbaar lichaam, anders dan een productschap als bedoeld in artikel 66, eerste lid, van de Wet op de bedrijfsorganisatie;    
+b. een openbaar lichaam;    
 
 *samenwerkingsproject:* project dat: 
 

@@ -23,7 +23,11 @@ In deze regeling wordt verstaan onder:
 
 –  *richtlijn 2007/43/EG: * richtlijn 2007/43/EG van de Raad van 28 juni 2007 tot vaststelling van minimumvoorschriften voor de bescherming van vleeskuikens (PbEU 2007, L 182);  
 
-–  *verordening (EG) nr. 1/2005:* verordening (EG) nr. 1/2005: verordening (EG) nr. 1/2005 van de Raad van de Europese Unie van 22 december 2004 inzake de bescherming van dieren tijdens het vervoer en daarmee samenhangende activiteiten en tot wijziging van de Richtlijnen 64/432/EEG en 93/119/EG en Verordening (EG) nr. 1255/97 (PbEU 2005, L 3).   
+–  *verordening (EG) nr. 1/2005:* verordening (EG) nr. 1/2005: verordening (EG) nr. 1/2005 van de Raad van de Europese Unie van 22 december 2004 inzake de bescherming van dieren tijdens het vervoer en daarmee samenhangende activiteiten en tot wijziging van de Richtlijnen 64/432/EEG en 93/119/EG en Verordening (EG) nr. 1255/97 (PbEU 2005, L 3); 
+
+–*verordening (EU) nr. 1308/2013:* verordening (EU) nr. 1308/2013 van het Europees Parlement en de Raad van 17 december 2013 tot vaststelling van een gemeenschappelijke ordening van de markten voor landbouwproducten en tot intrekking van de Verordeningen (EEG) nr. 922/72, (EEG) nr. 234/79, (EG) nr. 1037/2001 en (EG) nr. 1234/2007 van de Raad (PbEU 2013, L 347);
+
+–*verordening (EG) nr. 617/2008:* verordening (EG) nr. 617/2008 van de Commissie van 27 juni 2008 houdende bepalingen ter uitvoering van Verordening (EG) nr. 1234/2007 van de Raad, wat betreft de handelsnormen voor broedeieren en kuikens van pluimvee (PbEU 2008, L 168).  
 
 ### Hoofdstuk  2  
 
@@ -33,6 +37,10 @@ gereserveerd
 ### Hoofdstuk  3  
 
 ####Administratie van diergeneesmiddelen door de houder van dieren
+
+### §  1  
+
+####Administratie diergeneesmiddelen
 
 ### Artikel  3.1  
 
@@ -62,6 +70,100 @@ c. de datum waarop het diervoeder met medicinale werking werd voorgeschreven;
 
 d. de in acht te nemen wachttermijn.     
 4.  De administratie, bedoeld in het eerste, tweede en derde lid, en de bescheiden die verband houden met de aantekeningen in de administratie, worden gedurende vijf jaar bewaard, gerekend vanaf de dagtekening van de stukken.  
+
+### §  2  
+
+####Melding en gebruik aangewezen diergeneesmiddelen
+
+### Artikel  3.2  
+
+####Begripsbepalingen
+
+In deze paragraaf wordt verstaan onder: 
+
+–*kalf:* rund dat bestemd is voor de productie van vlees en dat ouder is dan veertien dagen en niet ouder is dan twaalf maanden;
+
+–*koppel:* groep dieren met dezelfde gezondheidsstatus die in dezelfde stal of binnen dezelfde ruimte worden geplaatst of gehouden en die een epidemiologische eenheid vormen;
+
+–*rund:* rund dat bestemd is voor de productie van melk of vlees, niet zijnde een kalf. 
+
+### §  2.1  
+
+####Registratie aangewezen diergeneesmiddelen
+
+### Artikel  3.3  
+
+####Gevallen waarin melding wordt gedaan
+
+De melding, bedoeld in artikel 1.27, eerste lid van het besluit wordt gedaan van de ontvangst van antimicrobiële diergeneesmiddelen ten behoeve van toepassing bij: 
+
+a. kippen of kalkoenen indien de houder van deze dieren 250 of meer kippen of kalkoenen houdt ten behoeve van de productie van vlees, consumptie-eieren of broedeieren;  
+
+b. runderen, indien de houder van deze dieren 5 of meer runderen houdt ten behoeve van de productie van melk of vlees;  
+
+c. kalveren, indien de houder van deze dieren 5 of meer kalveren houdt ten behoeve van de productie van vlees;  
+
+d. varkens, indien de houder van deze dieren 5 of meer varkens houdt ten behoeve van de productie van vlees.   
+
+### Artikel  3.4  
+
+####Bij de melding te verstrekken gegevens
+
+1.  Bij de melding, bedoeld in artikel 1.27, eerste lid, van het besluit, worden de volgende gegevens verstrekt: 
+
+a. de naam, het adres en de woonplaats van de houder;  
+
+b. het UBN, bedoeld in artikel 3, eerste lid, van de Regeling identificatie en registratie van dieren, van de houder;  
+
+c. de diersoort, diercategorie, subcategorie en leeftijdscategorie van de gehouden dieren;  
+
+d. het gemiddeld aantal dieren per diersoort, diercategorie, subcategorie en leeftijdscategorie dat per dag werd gehouden.     
+2.  Het gemiddeld aantal dieren, bedoeld in het eerste lid, onderdeel d, wordt: 
+
+a. indien het een houder van kippen, kalkoenen of kalveren, en de houder van kalveren een systeem toepast waarbij de kalveren tegelijk worden aangevoerd, opgefokt en afgevoerd, betreft, berekend over de periode vanaf het moment van aanvoer van een koppel dieren tot het moment van afvoer daarvan;  
+
+b. indien het een houder van runderen, varkens of kalveren, en de houder van kalveren een systeem toepast waarbij kalveren van verschillende leeftijden worden gehouden die niet op hetzelfde moment worden afgevoerd, betreft, berekend over de periode van twaalf maanden voorafgaand aan het moment waarop de melding wordt gedaan.     
+3.  Indien de melding wordt gedaan ten aanzien van een diergeneesmiddel dat bij kippen of kalkoenen wordt toegepast, worden tevens de volgende gegevens verstrekt: 
+
+a. het registratienummer, bedoeld in artikel 3, tweede lid, van de Regeling identificatie en registratie van dieren;  
+
+b. de geboortedatum van het koppel waarbij het diergeneesmiddel is toegepast;  
+
+c. het nummer van de stal waarin het koppel wordt gehouden;  
+
+d. het aantal kuikens dat is opgezet in de stal waarin het koppel wordt gehouden.    
+
+### Artikel  3.5  
+
+####Moment van de melding
+
+1.  De houder, bedoeld in artikel 3.4, tweede lid, onderdeel a, doet de melding, bedoeld in artikel 1.27, eerste lid, van het besluit na afvoer van ieder koppel dieren.   
+2.  De houder, bedoeld in artikel 3.4, tweede lid, onderdeel b, doet de melding, bedoeld in artikel 1.27, eerste lid, van het besluit jaarlijks.  
+
+### §  2.2  
+
+####Bedrijfsgezondheidsplan en bedrijfsbehandelplan
+
+### Artikel  3.6  
+
+####Gevallen waarin een bedrijfsgezondheidsplan en een bedrijfsbehandelplan vereist zijn
+
+1.  Een bedrijfsgezondheidsplan en een bedrijfsbehandelplan als bedoeld in artikel 1.28, eerste lid, van het besluit, worden opgesteld wanneer een houder van dieren: 
+
+a. 250 of meer kippen of kalkoenen houdt ten behoeve van de productie van vlees, consumptie-eieren of broedeieren;  
+
+b. 5 of meer runderen houdt ten behoeve van de productie van melk of vlees;  
+
+c. 5 of meer kalveren houdt ten behoeve van de productie van vlees;  
+
+d. 5 of meer varkens houdt ten behoeve van de productie van vlees.     
+2.  Een houder van dieren als bedoeld in het eerste lid, laat per diersoort één bedrijfsgezondheidsplan en één bedrijfsbehandelplan opstellen.  
+
+### Artikel  3.7  
+
+####Administratie bedrijfsgezondheidsplan en bedrijfsbehandelplan
+
+De houder, bedoeld in artikel 1.28, eerste lid, van het besluit, bewaart het bedrijfsgezondheidsplan en het bedrijfsbehandelplan, samen met het verslag, bedoeld in artikel 5.22, tweede lid, van de Regeling diergeneeskundigen, vijf jaar op zijn bedrijf. 
 
 ### Hoofdstuk  4  
 
@@ -211,7 +313,7 @@ Voor de toepassing van dit hoofdstuk wordt verstaan onder bruto oppervlakte van 
 2.  Voor de kennisgeving, bedoeld in het eerste lid, wordt gebruikt gemaakt van een door de minister ter beschikking gesteld middel.   
 3.  De kennisgeving gaat per stal vergezeld van de volgende gegevens: 
 
-a. het KIP-nummer, zijnde het nummer dat wordt verstrekt op grond van artikel 2, tweede lid, van de Verordening identificatie en registratie van pluimveebedrijven en levend pluimvee (PPE) 2012 van het Productschap Pluimvee en Eieren;  
+a.het registratienummer, bedoeld in artikel 3, tweede lid, van de Regeling identificatie en registratie van dieren; 
 
 b. het relatienummer van de houder;  
 
@@ -222,7 +324,7 @@ d. de adresgegevens van de stal;
 e. de bruto oppervlakte van de stal in vierkante meters;  
 
 f. het bouwjaar van de stal en, indien van toepassing, het jaar waarin een grondige verbouwing met directe gevolgen voor het dierenwelzijn heeft plaatsgevonden.     
-4.  De houder kan verstrekking van gegevens als bedoeld in het derde lid achterwege laten, voor zover deze gegevens zijn opgenomen in het KIP registratiesysteem, bedoeld in de in het derde lid, onderdeel a, genoemde verordening.  
+4.  De houder kan verstrekking van gegevens als bedoeld in het derde lid achterwege laten, voor zover deze gegevens zijn opgenomen in een databank die ingevolge artikel 38hh, eerste lid, van de Regeling identificatie en registratie van dieren is aangewezen als databank waarin de registratie, bedoeld in artikel 38dd, eerste in samenhang met het tweede en derde lid, van de Regeling identificatie en registratie van dieren plaatsvindt.  
 
 ### Artikel  6.3  
 
@@ -349,12 +451,41 @@ b. maatregelen die in het kader van de bedrijfsvoering kunnen worden genomen om 
 
 ### Artikel  7.1  
 
-####Registratie legkippen
+####Registratie houders van legkippen
 
-1.  Ter uitvoering van artikel 2.69 van het besluit wordt medewerking gevorderd van het Productschap Pluimvee en Eieren.   
-2.  De in het eerste lid bedoelde medewerking bestaat uit het vaststellen van een registratie systeem voor pluimveehouders, het toekennen van een identificatienummer en de daarbij behorende administratieve verplichtingen.   
-3.  Het Productschap Pluimvee en Eieren kan voor het toekennen van een identificatienummer en voor de onderzoeken of verrichtingen die het productschap uitvoert in het kader van het eerste en tweede lid, een heffing vaststellen.   
-4.  Het eerste en tweede lid zijn niet van toepassing voor zover het Productschap Pluimvee en Eieren reeds uitvoering geeft aan artikel 2.69 van het besluit op grond van artikel 93 van de Wet op de bedrijfsorganisatie.  
+Ter verkrijging van een registratie als bedoeld in artikel 2.69, eerste lid, van het besluit doet een houder als bedoeld in artikel 2.69, eerste lid, van het besluit de melding, bedoeld in artikel 2 van de Regeling identificatie en registratie van dieren, met dien verstande dat hij daarbij de gegevens, bedoeld in onderdeel 1 van de bijlage bij Richtlijn 2002/4/EG, verstrekt ten behoeve van opname in het gecomputeriseerde gegevensbestand, bedoeld in artikel 2, vierde lid, van de Regeling identificatie en registratie van dieren. 
+
+### Hoofdstuk  7a  
+
+####Handelsnormen pluimveekuikens
+
+### Artikel  7a.1  
+
+####Registratie kuikens
+
+1.  Een broederij registreert het aantal uitgekomen kuikens dat daadwerkelijk bestemd is om te worden gebruikt, bedoeld in artikel 8, eerste lid, van verordening (EG) nr. 617/2008: 
+
+a. in een databank die op grond van artikel 38hh van de Regeling identificatie en registratie van dieren door de minister is aangewezen als databank voor de registratie van die gegevens, of  
+
+b. bij de minister, voor zover voor de registratie van die gegevens geen aanwijzing als bedoeld in onderdeel a heeft plaatsgevonden.     
+2.  De verzender van een partij kuikens registreert de gegevens die het begeleidende document, bedoeld in artikel 5, eerste lid, van verordening (EG) nr. 617/2008, bevat overeenkomstig het eerste lid, onderdelen a en b.   
+3.  In afwijking van het tweede lid wordt de registratie, bedoeld in dat lid, bij ontvangst op een vermeerderingsbedrijf van kippen die worden gebruikt als moederdier, gedaan door de ontvanger van die kuikens.  
+
+### Artikel  7a.2  
+
+####Verbodsbepaling handelsnormen pluimveekuikens
+
+Als voorschriften als bedoeld in artikel 6.2, eerste lid, van de wet worden de artikelen 4, 5, 6, onderdeel b, en 8, eerste lid, van verordening (EG) nr. 617/2008 aangewezen. 
+
+### Hoofdstuk  7b  
+
+####Houden van konijnen voor productie
+
+### Artikel  7b.1  
+
+####Retributie registratie houden van konijnen
+
+Voor de registratie, bedoeld in artikel 2.76l, eerste lid, van het Besluit houders van dieren is jaarlijks een bedrag verschuldigd van € 19,00. 
 
 ### Hoofdstuk  8  
 

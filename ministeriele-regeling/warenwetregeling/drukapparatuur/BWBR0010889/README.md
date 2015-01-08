@@ -5,20 +5,20 @@
 De Staatssecretaris van Sociale Zaken en Werkgelegenheid, J.F. Hoogervorst;  
 Handelende in overeenstemming met de Minister van Economische Zaken;
 
-Gelet op de [artikelen 4, vijfde en zesde lid](../../../../wet/wet/op/de/gevaarlijke/werktuigen/BWBR0002087/README.md), [5 derde lid](../../../../wet/wet/op/de/gevaarlijke/werktuigen/BWBR0002087/README.md), [11 eerste lid](../../../../wet/wet/op/de/gevaarlijke/werktuigen/BWBR0002087/README.md), [12 eerste lid, eerste zin](../../../../wet/wet/op/de/gevaarlijke/werktuigen/BWBR0002087/README.md), en [19 van de Wet op de gevaarlijke werktuigen](../../../../wet/wet/op/de/gevaarlijke/werktuigen/BWBR0002087/README.md) en [artikel 26, derde lid, van het Besluit drukapparatuur](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md),
+Gelet op de artikelen 4, vijfde en zesde lid, 5 derde lid, 11 eerste lid, 12 eerste lid, eerste zin, en 19 van de Wet op de gevaarlijke werktuigen en artikel 26, derde lid, van het Besluit drukapparatuur,
 Besluit:    
 
 ###Artikel 1 
 
 ####Definities
 
-In deze regeling wordt verstaan onder:  a. het besluit:   het [Warenwetbesluit drukapparatuur](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md);   b.  drukapparatuur, samenstellen, druksysteem, drukvat, installatieleidingen, aangewezen keuringsinstelling, aangewezen aangemelde keuringsinstelling, aangewezen keuringsdienst van gebruikers, aangewezen aangemelde keuringsdienst van gebruikers, maximaal toelaatbare druk, nominale maat, volume, richtlijn en wet:   hetgeen [het besluit](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md) daaronder verstaat;   c. butaan en propaan:   hetgeen PGS-richtlijn 19, versie: 1.16 210508, getiteld: Opslag van propaan daaronder verstaat, alsmede gestabiliseerde mengsels van methylacetyleen en propadieen met koolwaterstoffen;   d. wetenschappelijk onderzoek:  onderzoek dat uitsluitend is gericht op het verwerven van kennis over drukapparatuur, samenstellen of druksystemen of is gericht op stoffen of processen die hierbij zijn betrokken;   e.parallel werkende drukapparatuur:drukapparatuur die als kenmerk heeft dat ze van dezelfde constructie is, uit dezelfde soort materialen is vervaardigd, onder vergelijkbare bedrijfsomstandigheden wordt bedreven en op dezelfde toe- en afvoerleidingen is aangesloten; f.termijn:de toegestane tijdsduur tussen de eerste keuring voor ingebruikneming onderscheidenlijk intredekeuring en de eerste herkeuring of de toegestane tijdsduur tussen twee opeenvolgende herkeuringen; g.flessen voor ademhalingstoestellen: flessen voor ademhalingstoestellen die onder de werkingssfeer van de richtlijn vallen; h.huurketel: brandstof of anderszins verwarmde drukapparatuur waarbij gevaar voor oververhitting bestaat, bestemd voor de productie van stoom of oververhit water met een temperatuur hoger dan 110 °C met een volume van meer dan 2 liter, die regelmatig van plaats van opstelling wisselt en geen eigendom is van de gebruiker; i.BRZO:[Besluit risico’s zware ongevallen](../../../../AMvB/besluit/risico's/zware/ongevallen/1999/BWBR0010475/README.md); j.kelderbierinstallatie: een bierinstallatie geplaatst bij de eindgebruiker, bestaande uit een of meerdere tanks, zijnde drukvaten, met een koelmantel en bijbehorende geïsoleerde installatieleidingen en onder druk staande appendages of waarbij alle onderdelen van de bierinstallatie geplaatst zijn in een geconditioneerde ruimte, waarbij de drukvaten per stuk een maximaal volume (V) hebben van 1500 liter en voorzien zijn van een kunststof of rubberen binnenmantel en gebruikmaken van lucht als drijfgas. 
+In deze regeling wordt verstaan onder:  a. het besluit:   het Warenwetbesluit drukapparatuur;   b.  drukapparatuur, samenstellen, druksysteem, drukvat, installatieleidingen, aangewezen keuringsinstelling, aangewezen aangemelde keuringsinstelling, aangewezen keuringsdienst van gebruikers, aangewezen aangemelde keuringsdienst van gebruikers, maximaal toelaatbare druk, nominale maat, volume, richtlijn en wet:   hetgeen het besluit daaronder verstaat;   c. butaan en propaan:   hetgeen PGS-richtlijn 19, versie: 1.16 210508, getiteld: Opslag van propaan daaronder verstaat, alsmede gestabiliseerde mengsels van methylacetyleen en propadieen met koolwaterstoffen;   d. wetenschappelijk onderzoek:  onderzoek dat uitsluitend is gericht op het verwerven van kennis over drukapparatuur, samenstellen of druksystemen of is gericht op stoffen of processen die hierbij zijn betrokken;   e.parallel werkende drukapparatuur:drukapparatuur die als kenmerk heeft dat ze van dezelfde constructie is, uit dezelfde soort materialen is vervaardigd, onder vergelijkbare bedrijfsomstandigheden wordt bedreven en op dezelfde toe- en afvoerleidingen is aangesloten; f.termijn:de toegestane tijdsduur tussen de eerste keuring voor ingebruikneming onderscheidenlijk intredekeuring en de eerste herkeuring of de toegestane tijdsduur tussen twee opeenvolgende herkeuringen; g.flessen voor ademhalingstoestellen: flessen voor ademhalingstoestellen die onder de werkingssfeer van de richtlijn vallen; h.huurketel: brandstof of anderszins verwarmde drukapparatuur waarbij gevaar voor oververhitting bestaat, bestemd voor de productie van stoom of oververhit water met een temperatuur hoger dan 110 °C met een volume van meer dan 2 liter, die regelmatig van plaats van opstelling wisselt en geen eigendom is van de gebruiker; i.BRZO:Besluit risico’s zware ongevallen; j.kelderbierinstallatie: een bierinstallatie geplaatst bij de eindgebruiker, bestaande uit een of meerdere tanks, zijnde drukvaten, met een koelmantel en bijbehorende geïsoleerde installatieleidingen en onder druk staande appendages of waarbij alle onderdelen van de bierinstallatie geplaatst zijn in een geconditioneerde ruimte, waarbij de drukvaten per stuk een maximaal volume (V) hebben van 1.500 liter, de werkdrukmaximaal drie bar is en de drukvaten voorzien zijn van een kunststof of rubberen binnenmantel en gebruikmaken van lucht als drijfgas;k.mobiele kelderbierinstallatie:een bierinstallatie die op locatie wordt gebruikt waarvan alleen de bierleidingen nog dienen te worden aangesloten aan het tappunt of afleverpunt en alle onderdelen van de bierinstallatie geplaatst zijn in een geconditioneerde en afgesloten ruimte die alleen voor bevoegden toegankelijk is. De bierinstallatie bestaat uit een of meerdere tanks, zijnde drukvaten, met een koelmantel en bijbehorende geïsoleerde installatieleidingen en onder druk staande appendages, waarbij de drukvaten per stuk een maximaal volume (V) hebben van 1.500 liter, de werkdruk maximaal drie bar is en voorzien zijn van een kunststof of rubberen binnenmantel en gebruikmaken van lucht als drijfgas. 
 
 ###Artikel 2 
 
 ####Grenzen en uitvoering van de keuring voor ingebruikneming
 
-1.  Drukvaten en installatieleidingen, alsmede de bijbehorende veiligheidsappendages waardoor zij beveiligd worden en bijbehorende onder druk staande appendages, worden aan een keuring voor ingebruikneming als bedoeld in [artikel 12b, eerste lid, van het besluit](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md), onderworpen voorzover het betreft: 
+1.  Drukvaten en installatieleidingen, alsmede de bijbehorende veiligheidsappendages waardoor zij beveiligd worden en bijbehorende onder druk staande appendages, worden aan een keuring voor ingebruikneming als bedoeld in artikel 12b, eerste lid, van het besluit, onderworpen voorzover het betreft: 
 
 a. de in artikel 3, punt 1.1. onder a) van de richtlijn bedoelde drukvaten, voorzover ingedeeld in categorie I, II, III of IV volgens tabel 1 van bijlage II bij de richtlijn, voor stoffen in groep 1 voorzover die zeer vergiftig of ontplofbaar zijn;  
 
@@ -26,7 +26,7 @@ b. de in artikel 3, punt 1.1. onder a) van de richtlijn bedoelde drukvaten, voor
 
 c. de in artikel 3, punt 1.1. onder a) van de richtlijn bedoelde drukvaten, voorzover ingedeeld in categorie II, III of IV volgens tabel 2 van bijlage II bij de richtlijn, voor stoffen in groep 2 als bedoeld in het BRZO, bijlage I, deel 2, kolom 1 onder 9 en 10;  
 
-d. de in artikel 3, punt 1.1. onder a) van de richtlijn bedoelde drukvaten, met uitzondering van drukvaten behorende tot een kelderbierinstallatie, voor zover ingedeeld in categorie III of IV volgens tabel 2 van bijlage II bij de richtlijn, voor stoffen in groep 2 voor zover niet bedoeld in onderdeel c, waarbij voor drukvaten met lucht het volume groter is dan 2500 liter of de maximaal toelaatbare druk PS hoger is dan 30 bar, en voor stikstof-, argon-, helium- en koolzuur-opslagreservoirs het volume groter is dan 40000 liter; 
+d. de in artikel 3, punt 1.1. onder a) van de richtlijn bedoelde drukvaten, met uitzondering van drukvaten behorende tot een kelderbierinstallatie of mobiele kelderbierinstallatie beide, voor zover ingedeeld in categorie III of IV volgens tabel 2 van bijlage II bij de richtlijn, voor stoffen in groep 2 voor zover niet bedoeld in onderdeel c, waarbij voor drukvaten met lucht het volume groter is dan 2500 liter of de maximaal toelaatbare druk PS hoger is dan 30 bar, en voor stikstof-, argon-, helium- en koolzuur-opslagreservoirs het volume groter is dan 40000 liter; 
 
 e. de in artikel 3, punt 1.1. onder b) van de richtlijn bedoelde drukvaten met een volume groter dan 1 liter, voorzover ingedeeld in categorie I, II of III volgens tabel 3 van bijlage II bij de richtlijn, voor stoffen in groep 1 die zeer vergiftig of ontplofbaar zijn;  
 
@@ -44,7 +44,7 @@ k. de in artikel 3, punt 1.3. onder a) van de richtlijn bedoelde installatieleid
 
 l. de in artikel 3, punt 1.3. onder a) van de richtlijn bedoelde installatieleidingen, voorzover ingedeeld in categorie II of III volgens tabel 7 van bijlage II bij de richtlijn, voor stoffen in groep 2 als bedoeld in het BRZO, bijlage I, deel 2, kolom 1 onder 9 en 10;  
 
-m.  de in artikel 3, punt 1.3. onder a) van de richtlijn bedoelde installatieleidingen, met uitzondering van installatieleidingen behorende tot een kelderbierinstallatie voorzover ingedeeld in categorie III volgens tabel 7 van bijlage II bij de richtlijn, voor stoffen in groep 2 voorzover niet bedoeld in onderdeel l;  
+m.  de in artikel 3, punt 1.3. onder a) van de richtlijn bedoelde installatieleidingen, met uitzondering van installatieleidingen behorende tot een kelderbierinstallatie of mobiele kelderbierinstallatie beide voorzover ingedeeld in categorie III volgens tabel 7 van bijlage II bij de richtlijn, voor stoffen in groep 2 voorzover niet bedoeld in onderdeel l;  
 
 n. de in artikel 3, punt 1.3. onder b) van de richtlijn bedoelde installatieleidingen, voorzover ingedeeld in categorie I, II of III volgens tabel 8 van bijlage II bij de richtlijn, voor stoffen in groep 1 die zeer vergiftig of ontplofbaar zijn;  
 
@@ -54,26 +54,26 @@ p. de in artikel 3, punt 1.3. onder b) van de richtlijn bedoelde installatieleid
 
 q. de in artikel 3, punt 1.3. onder b) van de richtlijn bedoelde installatieleidingen, voorzover ingedeeld in categorie II volgens tabel 9 van bijlage II bij de richtlijn, voor stoffen in groep 2 voorzover niet bedoeld in onderdeel p.     
 2.  In afwijking van het eerste lid worden flessen voor ademhalingstoestellen niet onderworpen aan een keuring voor ingebruikneming.   
-3.  De keuring voor ingebruikneming op basis van [artikel 12b, zesde lid, van het besluit](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md), wordt uitgevoerd overeenkomstig het Werkveldspecifiek certificatieschema voor beoordeling van drukapparatuur (producten): document: SBP-DA 2012, versie 1, opgenomen in bijlage 1 bij de regeling.  
+3.  De keuring voor ingebruikneming op basis van artikel 12b, zesde lid, van het besluit, wordt uitgevoerd overeenkomstig het Werkveldspecifiek certificatieschema voor beoordeling van drukapparatuur (producten): document: SBP-DA 2012, versie 1, opgenomen in bijlage 1 bij de regeling.  
 
 ### Artikel 3  
 
 ####Grenzen en uitvoering van de herkeuring
 
-1.  Drukvaten en installatieleidingen, alsmede de daarbij behorende veiligheidsappendages waardoor ze worden beveiligd en de bijbehorende onder druk staande appendages, worden aan een herkeuring als bedoeld in [artikel 12c, eerste lid, van het besluit](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md), onderworpen voorzover het betreft: 
+1.  Drukvaten en installatieleidingen, alsmede de daarbij behorende veiligheidsappendages waardoor ze worden beveiligd en de bijbehorende onder druk staande appendages, worden aan een herkeuring als bedoeld in artikel 12c, eerste lid, van het besluit, onderworpen voorzover het betreft: 
 
 a. de drukvaten en installatieleidingen, genoemd in artikel 2, eerste lid, waarbij voor de in artikel 2, eerste lid, onderdeel b, genoemde propaan- en butaanopslagreservoirs en zuurstof- en distikstofoxyde-opslagreservoirs en voor de in artikel 2, eerste lid, onderdeel d, genoemde stikstof-, argon-, helium- en koolzuur-opslagreservoirs, de vermelde grenzen niet van toepassing zijn;  
 
 b. flessen voor ademhalingstoestellen.     
-2.  De onderzoeken, bedoeld in [artikel 12c, zesde lid, van het besluit](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md), worden uitgevoerd overeenkomstig het Werkveldspecifiek certificatieschema voor beoordeling van drukapparatuur (producten): document: SBP-DA 2012, versie 1, opgenomen in bijlage 1 bij de regeling.  
+2.  De onderzoeken, bedoeld in artikel 12c, zesde lid, van het besluit, worden uitgevoerd overeenkomstig het Werkveldspecifiek certificatieschema voor beoordeling van drukapparatuur (producten): document: SBP-DA 2012, versie 1, opgenomen in bijlage 1 bij de regeling.  
 
 ###Artikel 4 
 
 ####Verklaringen
 
-1.  In de verklaring van overeenstemming, bedoeld in [artikel 12a, eerste lid, van het besluit](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md) worden de volgende gegevens opgenomen:
+1.  In de verklaring van overeenstemming, bedoeld in artikel 12a, eerste lid, van het besluit worden de volgende gegevens opgenomen:
 
-a. een verwijzing naar [artikel 12a, eerste lid, van het besluit](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md);
+a. een verwijzing naar artikel 12a, eerste lid, van het besluit;
 
 b. de naam en het adres van de gebruiker van het druksysteem;
 
@@ -92,9 +92,9 @@ h. in voorkomend geval, de technische specificaties die zijn gebruikt;
 i. de identiteit van de ondertekenaar die gemachtigd is de verklaring namens de gebruiker te ondertekenen;
 
 j. de ondertekening en de datum.
-2.  In de verklaring of voorlopige verklaring van ingebruikneming, bedoeld in [artikel 12b, tweede, onderscheidenlijk twaalfde lid, van het besluit](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md) worden de volgende gegevens opgenomen:
+2.  In de verklaring of voorlopige verklaring van ingebruikneming, bedoeld in artikel 12b, tweede, onderscheidenlijk twaalfde lid, van het besluit worden de volgende gegevens opgenomen:
 
-a. een verwijzing naar [artikel 12b, tweede of twaalfde lid, van het besluit](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md);
+a. een verwijzing naar artikel 12b, tweede of twaalfde lid, van het besluit;
 
 b.het kenmerk of registratienummer van de drukapparatuur;
 
@@ -102,7 +102,7 @@ c. de naam en het adres van de gebruiker van de drukapparatuur, het samenstel of
 
 d. het adres en de plaats waar de drukapparatuur, het samenstel of het druksysteem is opgesteld;
 
-e. een verwijzing naar de EG-verklaring van overeenstemming, bedoeld in de [artikelen 11, eerste lid](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md), en [12, eerste lid, van het besluit](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md) onderscheidenlijk de verklaring van overeenstemming, bedoeld in [artikel 12a, tweede lid, van het besluit](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md);
+e. een verwijzing naar de EG-verklaring van overeenstemming, bedoeld in de artikelen 11, eerste lid, en 12, eerste lid, van het besluit onderscheidenlijk de verklaring van overeenstemming, bedoeld in artikel 12a, tweede lid, van het besluit;
 
 f. de gegevens die nodig zijn met betrekking tot de omstandigheden waaronder en de wijze waarop de apparatuur mag worden gebruikt;
 
@@ -117,11 +117,11 @@ j. de naam en het adres van de aangewezen keuringsinstelling of keuringsdienst v
 k. de identiteit van de ondertekenaar die gemachtigd is de verklaring namens de aangewezen keuringsinstelling of keuringsdienst van gebruikers te ondertekenen;
 
 l. de ondertekening en de datum.
-3.  Aan de verklaring van ingebruikneming wordt een rapport met bevindingen van de uitgevoerde keuring als bedoeld in [artikel 12b, tiende lid, van het besluit](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md) toegevoegd.
-4. Indien bij verplaatsing van een huurketel op een nieuwe plaats van opstelling geen bezwaar bestaat tegen de ingebruikneming van de ketel, wordt hiervan aantekening gemaakt op het aantekenblad, bedoeld in [artikel 12e van het besluit](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md).
-5.  In de verklaring van herkeuring, bedoeld in [artikel 12c, tweede onderscheidenlijk negende lid, van het besluit](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md), worden de volgende gegevens opgenomen:
+3.  Aan de verklaring van ingebruikneming wordt een rapport met bevindingen van de uitgevoerde keuring als bedoeld in artikel 12b, tiende lid, van het besluit toegevoegd.
+4. Indien bij verplaatsing van een huurketel op een nieuwe plaats van opstelling geen bezwaar bestaat tegen de ingebruikneming van de ketel, wordt hiervan aantekening gemaakt op het aantekenblad, bedoeld in artikel 12e van het besluit.
+5.  In de verklaring van herkeuring, bedoeld in artikel 12c, tweede onderscheidenlijk negende lid, van het besluit, worden de volgende gegevens opgenomen:
 
-a.een verwijzing naar [artikel 12c, tweede en negende lid, van het besluit](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md);
+a.een verwijzing naar artikel 12c, tweede en negende lid, van het besluit;
 
 b.het kenmerk of registratienummer van het drukapparaat;
 
@@ -129,7 +129,7 @@ c.de naam en het adres van de gebruiker van de drukapparatuur;
 
 d.het adres en plaats waar de drukapparatuur is opgesteld;
 
-e.in voorkomend geval, een verwijzing naar de verklaring van ingebruikneming, bedoeld in [artikel 12b, tweede lid, van het besluit](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md), of de verklaring van intredekeuring en ingebruikneming, bedoeld in [artikel 12d, tweede lid, van het besluit](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md);
+e.in voorkomend geval, een verwijzing naar de verklaring van ingebruikneming, bedoeld in artikel 12b, tweede lid, van het besluit, of de verklaring van intredekeuring en ingebruikneming, bedoeld in artikel 12d, tweede lid, van het besluit;
 
 f.de gegevens die nodig zijn met betrekking tot de omstandigheden waaronder en de wijze waarop de apparatuur mag worden gebruikt;
 
@@ -143,9 +143,9 @@ j.de identiteit van de ondertekenaar die gemachtigd is de verklaring voor de aan
 
 k.de ondertekening en de datum.
 6. In geval van toekenning van een termijnverlenging of termijnflexibilisering wordt het herkeurjaar door de aangewezen keuringsinstelling vermeld op de verklaring van herkeuring.
-7.  In de verklaring van intredekeuring en ingebruikneming, bedoeld in [artikel 12d, tweede onderscheidenlijk negende lid van het besluit](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md), worden de volgende gegevens opgenomen:
+7.  In de verklaring van intredekeuring en ingebruikneming, bedoeld in artikel 12d, tweede onderscheidenlijk negende lid van het besluit, worden de volgende gegevens opgenomen:
 
-a.een verwijzing naar [artikel 12d, tweede en negende lid, van het besluit](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md);
+a.een verwijzing naar artikel 12d, tweede en negende lid, van het besluit;
 
 b.het kenmerk of het registratienummer van de drukapparatuur;
 
@@ -171,7 +171,7 @@ k.de ondertekening en de datum.
 
 ####Jaarverslag
 
-In het jaarverslag, bedoeld in [artikel 7c, tweede lid, van de wet](../../../../wet/warenwet/BWBR0001969/README.md), worden door de instellingen of de diensten, bedoeld in artikel 1, onderdeel b, ten minste de volgende onderwerpen behandeld: 
+In het jaarverslag, bedoeld in artikel 7c, tweede lid, van de wet, worden door de instellingen of de diensten, bedoeld in artikel 1, onderdeel b, ten minste de volgende onderwerpen behandeld: 
 
 a. de door de instelling of de dienst afgegeven, ingetrokken dan wel geweigerde certificaten;  
 
@@ -227,7 +227,7 @@ f. 5 jaar voor flessen voor ademhalingstoestellen.
 
 3. Een verklaring van ingebruikneming, afgegeven door een fabrikant verenigd in de branchevereniging ‘Vereniging van fabrikanten van industriële gassen’ met betrekking tot de in artikel 2, eerste lid, onderdeel b, bedoelde zuurstof- en distikstofoxide-opslagreservoirs met een volume kleiner of gelijk aan 25.000 liter en de in artikel 2, eerste lid, onderdeel d, bedoelde opslagreservoirs voor stikstof, argon, helium en koolzuur met een volume kleiner of gelijk aan 40.000 liter, wordt voor de bepaling van de herkeurdatum gelijkgesteld met de verklaringen, bedoeld in het eerste lid.  
 
-4. Indien een verklaring als bedoeld in het eerste lid niet is vereist, wordt voor de bepaling van het tijdstip waarop de eerste herkeuring moet plaatsvinden de datum van afgifte van de EG-verklaring van overeenstemming, bedoeld in de [artikelen 11, eerste lid](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md), en [12, eerste lid, van het besluit](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md), onderscheidenlijk de verklaring van overeenstemming, bedoeld in [artikel 12a, eerste lid, van het besluit](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md), als uitgangsdatum genomen.   
+4. Indien een verklaring als bedoeld in het eerste lid niet is vereist, wordt voor de bepaling van het tijdstip waarop de eerste herkeuring moet plaatsvinden de datum van afgifte van de EG-verklaring van overeenstemming, bedoeld in de artikelen 11, eerste lid, en 12, eerste lid, van het besluit, onderscheidenlijk de verklaring van overeenstemming, bedoeld in artikel 12a, eerste lid, van het besluit, als uitgangsdatum genomen.   
 
 ### Artikel 8  
 
@@ -245,11 +245,11 @@ b. er aanvullend passend onderzoek wordt uitgevoerd;
 
 c. reparaties, wijzigingen of geconstateerde afwijkingen geen beletselen vormen voor de verlenging.     
 6.  De termijnverlenging kan door een aangewezen keuringsinstelling worden verleend onder de voorwaarde dat de gebruiker een keuringsdienst van gebruikers of een inspectieafdeling van de gebruiker heeft.   
-7.  De aanvraag voor een termijnverlenging wordt gedaan door de gebruiker en omvat de documentatie, bedoeld in [artikel 12c, vierde lid, van het besluit](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md), en een verklaring van de gebruiker dat de aangevraagde termijnverlenging verantwoord is.   
+7.  De aanvraag voor een termijnverlenging wordt gedaan door de gebruiker en omvat de documentatie, bedoeld in artikel 12c, vierde lid, van het besluit, en een verklaring van de gebruiker dat de aangevraagde termijnverlenging verantwoord is.   
 8.  Het uitwendig onderzoek wordt uitgevoerd door een keuringsdienst van gebruikers of een inspectieafdeling van de gebruiker, die daartoe rapport uitbrengt aan de gebruiker. Dit rapport vormt een onderdeel van de aan de aangewezen keuringsinstelling gerichte aanvraag voor termijnverlenging.   
-9.  Een toegekende termijnverlenging wordt door de instelling, bedoeld in het zesde lid, vastgelegd in een verklaring van herkeuring, waarbij als geldigheidstermijn als bedoeld in [artikel 12c, negende lid, onderdeel a, van het besluit](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md), het kalenderjaar van herkeuring wordt vermeld gebaseerd op de verlengde termijn.   
+9.  Een toegekende termijnverlenging wordt door de instelling, bedoeld in het zesde lid, vastgelegd in een verklaring van herkeuring, waarbij als geldigheidstermijn als bedoeld in artikel 12c, negende lid, onderdeel a, van het besluit, het kalenderjaar van herkeuring wordt vermeld gebaseerd op de verlengde termijn.   
 10.  De instelling, bedoeld in het zesde lid, houdt toezicht op de uitvoering van de overeengekomen inspecties tijdens de verlengde termijn.   
-11.  De instelling, bedoeld in het zesde lid, vermeldt de bevindingen van de beoordeling van de termijnverlenging op het aantekenblad, bedoeld in [artikel 12e van het besluit](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md).  
+11.  De instelling, bedoeld in het zesde lid, vermeldt de bevindingen van de beoordeling van de termijnverlenging op het aantekenblad, bedoeld in artikel 12e van het besluit.  
 
 ### Artikel 9  
 
@@ -258,7 +258,7 @@ c. reparaties, wijzigingen of geconstateerde afwijkingen geen beletselen vormen 
 1.   Termijnflexibilisering kan worden verleend voor de drukapparatuur, genoemd in artikel 8, eerste lid.   
 2.  De termijnflexibilisering kan maximaal een verviervoudiging zijn van de vaste termijnen, genoemd in artikel 6, met een maximum van 18 jaar, waarbij voor veiligheidsappendages met een vaste termijn van 2 jaar een maximum geldt van 4 jaar.   
 3.  De termijnflexibilisering kan voor het eerst worden verleend na afloop van de tweede vaste termijn van het betreffende drukapparaat, met uitzondering van drukapparatuur met een vaste termijn van 2 jaar waarvoor termijnflexibilisering na afloop van de derde vaste termijn kan worden verleend.   
-4.  Termijnflexibilisering wordt uitsluitend verleend voor het onderzoek, bedoeld in [artikel 12c, zesde lid, onderdeel a, van het besluit](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md).   
+4.  Termijnflexibilisering wordt uitsluitend verleend voor het onderzoek, bedoeld in artikel 12c, zesde lid, onderdeel a, van het besluit.   
 5.  De termijnflexibilisering kan door een aangewezen keuringsinstelling worden verleend onder de voorwaarden dat de gebruiker: 
 
 a. een gecertificeerd kwaliteitsmanagementsysteem hanteert voor de overige afdelingen van de gebruiker, die invloed hebben op de kwaliteit van de werkzaamheden in het kader van termijnflexibilisering;  
@@ -272,10 +272,10 @@ d. alle factoren registreert die bepalend zijn voor de integriteit van de instal
 e. beschikt over een overzicht van de installatie, de eventueel uitgevoerde wijzigingen en reparaties, de eventueel plaatsgevonden incidenten en de resultaten van uitgevoerde inspecties;  
 
 f. een keuringsdienst van gebruikers of een inspectieafdeling van de gebruiker heeft.    
-6.  De aanvraag voor de termijnflexibilisering wordt gedaan door de gebruiker en omvat de documentatie, bedoeld in [artikel 12c, vierde lid, van het besluit](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md), en een verklaring van de gebruiker dat de aangevraagde termijnflexibilisering verantwoord is.   
-7.  Een toegekende termijnflexibilisering wordt door de instelling, bedoeld in het vijfde lid, vastgelegd in een verklaring van herkeuring, waarbij als geldigheidstermijn als bedoeld in [artikel 12c, negende lid, onderdeel a, van het besluit](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md), het kalenderjaar van herkeuring wordt vermeld op basis van de geflexibiliseerde termijn.   
+6.  De aanvraag voor de termijnflexibilisering wordt gedaan door de gebruiker en omvat de documentatie, bedoeld in artikel 12c, vierde lid, van het besluit, en een verklaring van de gebruiker dat de aangevraagde termijnflexibilisering verantwoord is.   
+7.  Een toegekende termijnflexibilisering wordt door de instelling, bedoeld in het vijfde lid, vastgelegd in een verklaring van herkeuring, waarbij als geldigheidstermijn als bedoeld in artikel 12c, negende lid, onderdeel a, van het besluit, het kalenderjaar van herkeuring wordt vermeld op basis van de geflexibiliseerde termijn.   
 8.  De instelling, bedoeld in het vijfde lid, houdt toezicht op de uitvoering van de in het jaarprogramma, bedoeld in het vijfde lid, onderdeel c, overeengekomen inspecties tijdens de geflexibiliseerde periode.   
-9.  De instelling, bedoeld in het vijfde lid, vermeldt de bevindingen van de beoordeling van de termijnflexibilisering op het aantekenblad, bedoeld in [artikel 12e van het besluit](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md).   
+9.  De instelling, bedoeld in het vijfde lid, vermeldt de bevindingen van de beoordeling van de termijnflexibilisering op het aantekenblad, bedoeld in artikel 12e van het besluit.   
 10.  In afwijking van het eerste lid kan voor afblazende, mechanische veiligheidsappendages termijnflexibilisering worden verleend met een maximum termijn van 10 jaar. 
 
 ###Artikel 10 
@@ -308,13 +308,13 @@ Op flessen voor ademhalingstoestellen worden de datum van herkeuring en het iden
 
 ####Intredekeuring
 
-De aangewezen keuringsinstelling of de aangewezen keuringsdienst van gebruikers hanteert bij de beoordelingen en onderzoeken, bedoeld in [artikel 12d, zesde en achtste lid, van het besluit](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md), als basis de actuele versie van de oorspronkelijk toegepaste normen.
+De aangewezen keuringsinstelling of de aangewezen keuringsdienst van gebruikers hanteert bij de beoordelingen en onderzoeken, bedoeld in artikel 12d, zesde en achtste lid, van het besluit, als basis de actuele versie van de oorspronkelijk toegepaste normen.
 
 ###Artikel 14 
 
 ####Wijzigingen en reparaties
 
-1. Bij de uitvoering van wijzigingen of reparaties aan drukapparatuur, bedoeld in [artikel 14a, eerste lid, van het besluit](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md), beoordeelt de aangewezen keuringsinstelling of de aangewezen keuringsdienst van gebruikers het ontwerp en houdt toezicht op de fabricage en eindcontrole van de wijziging of reparatie.
+1. Bij de uitvoering van wijzigingen of reparaties aan drukapparatuur, bedoeld in artikel 14a, eerste lid, van het besluit, beoordeelt de aangewezen keuringsinstelling of de aangewezen keuringsdienst van gebruikers het ontwerp en houdt toezicht op de fabricage en eindcontrole van de wijziging of reparatie.
 2. Indien de drukapparatuur, bedoeld in het eerste lid, overeenkomstig bijlage II bij de richtlijn naar categorie wordt ingedeeld, wordt bij de toepassing van de essentiële veiligheidseisen, bedoeld in bijlage I bij de richtlijn, de vastgestelde categorie gehanteerd. Indien de drukapparatuur, bedoeld in het eerste lid, niet overeenkomstig bijlage II bij de richtlijn wordt ingedeeld, wordt bij de toepassing van de essentiële veiligheidseisen categorie IV gehanteerd.
 
 ###Artikel 15 
@@ -323,27 +323,27 @@ De aangewezen keuringsinstelling of de aangewezen keuringsdienst van gebruikers 
 
 1.  Een aanwijzing als aangewezen keuringsinstelling, aangewezen aangemelde keuringsinstelling of aangewezen aangemelde onafhankelijke instelling kan geschieden indien: 
 
-a. in geval van een beoordeling, keuring of herkeuring van drukapparatuur en samenstellen als bedoeld in [artikel 1, onderdelen e en j, van het besluit](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md), de aanvragende instelling of dienst voldoet aan de eisen vastgelegd in het Schema voor Aanwijzing en Toezicht op de certificerings- en keuringsinstellingen voor Drukapparatuur, documentcode: WDA&T-DA: 2012, versie 01, opgenomen in bijlage 2 bij de regeling;  
+a. in geval van een beoordeling, keuring of herkeuring van drukapparatuur en samenstellen als bedoeld in artikel 1, onderdelen e en j, van het besluit, de aanvragende instelling of dienst voldoet aan de eisen vastgelegd in het Schema voor Aanwijzing en Toezicht op de certificerings- en keuringsinstellingen voor Drukapparatuur, documentcode: WDA&T-DA, opgenomen in bijlage 2 bij de regeling;  
 
-b. in geval van een beoordeling, keuring of herkeuring van druksystemen als bedoeld in [artikel 1, onderdeel k, van het besluit](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md), de aanvragende instelling of dienst voldoet aan de eisen zoals neergelegd in het Schema voor Aanwijzing en Toezicht op de certificerings- en keuringsinstellingen voor Drukapparatuur, documentcode: WDA&T-DA: 2012, versie 01, opgenomen in bijlage 2 bij de regeling.     
+b. in geval van een beoordeling, keuring of herkeuring van druksystemen als bedoeld in artikel 1, onderdeel k, van het besluit, de aanvragende instelling of dienst voldoet aan de eisen zoals neergelegd in het Schema voor Aanwijzing en Toezicht op de certificerings- en keuringsinstellingen voor Drukapparatuur, documentcode: WDA&T-DA, opgenomen in bijlage 2 bij de regeling.     
 2.  In geval van een aanwijzing als aangewezen keuringsinstelling voldoet de aanvragende instelling of dienst tevens aan de vastgelegd in het Werkveldspecifiek certificatieschema voor de beoordeling van systemen t.b.v. de productie en het gebruik van drukapparatuur: document SPB-DA 2012, versie 01, opgenomen in bijlage 3 bij de regeling.  
 
 ### Artikel  15a  
 
 ####Inspectieafdeling van de gebruiker
 
-1.  De inspectieafdeling van de gebruiker beschikt over een overeenkomst met een aangewezen keuringsinstelling voor de beoordeling van het gecertificeerde kwaliteitsmanagementsysteem en de uitoefening van het toezicht door deze instelling, bedoeld in het vierde en vijfde lid, van artikel 22e van[ het besluit](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md).   
+1.  De inspectieafdeling van de gebruiker beschikt over een overeenkomst met een aangewezen keuringsinstelling voor de beoordeling van het gecertificeerde kwaliteitsmanagementsysteem en de uitoefening van het toezicht door deze instelling, bedoeld in het vierde en vijfde lid, van artikel 22e van het besluit.   
 2.  De inspectieafdeling van de gebruiker beschikt over voldoende vaste personeelsleden, met voldoende vakbekwaamheid voor het uitoefenen van haar taken.  
 
 ###Artikel 16 
 
 ####Drukapparatuur voor wetenschappelijk onderzoek
 
-1.  In afwijking van de [artikelen 11](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md), [12](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md) en [12a van het besluit](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md) is voor de beoordeling van overeenstemming van drukapparatuur als bedoeld in [artikel 7 van het besluit](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md) en samenstellen en druksystemen als bedoeld in [artikel 8 van het besluit](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md) die uitsluitend zijn bestemd voor wetenschappelijk onderzoek, module A, genoemd in bijlage III bij de richtlijn, en ten aanzien van apparatuur ingedeeld in categorie III of IV volgens bijlage II bij de richtlijn tevens module B1, genoemd in bijlage III bij de richtlijn, van overeenkomstige toepassing. Voor het in module B1 vermelde begrip `EG-ontwerponderzoek' wordt gelezen: ontwerponderzoek, en voor `verklaring van EG-ontwerponderzoek ` wordt gelezen: verklaring van ontwerponderzoek.
+1.  In afwijking van de artikelen 11, 12 en 12a van het besluit is voor de beoordeling van overeenstemming van drukapparatuur als bedoeld in artikel 7 van het besluit en samenstellen en druksystemen als bedoeld in artikel 8 van het besluit die uitsluitend zijn bestemd voor wetenschappelijk onderzoek, module A, genoemd in bijlage III bij de richtlijn, en ten aanzien van apparatuur ingedeeld in categorie III of IV volgens bijlage II bij de richtlijn tevens module B1, genoemd in bijlage III bij de richtlijn, van overeenkomstige toepassing. Voor het in module B1 vermelde begrip `EG-ontwerponderzoek' wordt gelezen: ontwerponderzoek, en voor `verklaring van EG-ontwerponderzoek ` wordt gelezen: verklaring van ontwerponderzoek.
 2.  Ten aanzien van de apparatuur, bedoeld in het eerste lid, wordt door degene die verantwoordelijk is voor de vervaardiging hiervan, een verklaring van overeenstemming opgesteld. Op deze verklaring is bijlage VII bij de richtlijn van overeenkomstige toepassing, waarbij wordt verwezen naar het eerste lid.
-3. [Artikel 11, zesde lid, van het besluit](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md) is van toepassing.
-4.  Op de apparatuur, bedoeld in het eerste lid, wordt de CE-markering, bedoeld in [artikel 16 van het besluit](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md), niet aangebracht.
-5.  Een aangewezen keuringsinstelling of aangewezen aangemelde keuringsinstelling als bedoeld in [artikel 20 van het besluit](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md) is, indien hiervoor aangewezen, belast met de beoordeling van overeenstemming, bedoeld in het eerste lid.
+3. Artikel 11, zesde lid, van het besluit is van toepassing.
+4.  Op de apparatuur, bedoeld in het eerste lid, wordt de CE-markering, bedoeld in artikel 16 van het besluit, niet aangebracht.
+5.  Een aangewezen keuringsinstelling of aangewezen aangemelde keuringsinstelling als bedoeld in artikel 20 van het besluit is, indien hiervoor aangewezen, belast met de beoordeling van overeenstemming, bedoeld in het eerste lid.
 6. In afwijking van artikel 2, eerste lid, wordt drukapparatuur voor wetenschappelijk onderzoek niet onderworpen aan een keuring voor ingebruikneming.
 7. In afwijking van artikel 3, eerste lid, wordt drukapparatuur voor wetenschappelijk onderzoek niet onderworpen aan een herkeuring indien het gebruik plaatsvindt onder deskundig toezicht en van dat gebruik aantekening wordt gehouden.
 8. De gebruiker houdt aantekening van wijzigingen en reparaties aan drukapparatuur voor wetenschappelijk onderzoek en bij wijzigingen aan deze drukapparatuur, ingedeeld in categorie III of IV volgens bijlage II bij de richtlijn, wordt door een aangewezen keuringsinstelling het ontwerp daarvan beoordeeld en een aanvulling op de verklaring van ontwerponderzoek afgegeven.
@@ -462,7 +462,7 @@ Dit werkveldspecifieke certificatieschema voor producten is door Stichting CCvD-
 
 ####NIEUWBOUWFASE
 
-Bij nieuwbouw van drukapparatuur, samenstellen en druksystemen van de risicocategorie II, II en IV moeten modules van bijlage III van de Richtlijn en [artikel 11](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md), [12](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md) en [12a van het Warenwetbesluit drukapparatuur](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md) worden toegepast. In onderstaande tabel zijn de modules voor de borging van de veiligheid alsmede de gehanteerde aanduiding voor deze modules gegeven.  
+Bij nieuwbouw van drukapparatuur, samenstellen en druksystemen van de risicocategorie II, II en IV moeten modules van bijlage III van de Richtlijn en artikel 11, 12 en 12a van het Warenwetbesluit drukapparatuur worden toegepast. In onderstaande tabel zijn de modules voor de borging van de veiligheid alsmede de gehanteerde aanduiding voor deze modules gegeven.  
 
 |  Omschrijving module   |  Aanduiding module   |
 |:---|:---|
@@ -474,7 +474,7 @@ Bij nieuwbouw van drukapparatuur, samenstellen en druksystemen van de risicocate
 | EG-eenheidskeuring  |  *G*   |
 | Het onderdeel controle van het ontwerp en bijzonder toezicht op de eindcontrole  |  *H1*   |
 
-Naast de modules inzake de overeenstemmingsbeoordelingen gelden voor samenstellen artikel 10 lid 2 van de PED en voor druksystemen [artikel 12a van het Warenwetbesluit drukapparatuur](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md). Tevens wordt in het kort het doel en toepassingsgebied van de modules beschreven. 
+Naast de modules inzake de overeenstemmingsbeoordelingen gelden voor samenstellen artikel 10 lid 2 van de PED en voor druksystemen artikel 12a van het Warenwetbesluit drukapparatuur. Tevens wordt in het kort het doel en toepassingsgebied van de modules beschreven. 
 ### *Module A1:* 
 
 Het doel van deze module is het vaststellen, door middel van een gedefinieerd toezicht en een of meerdere controle(s) van een monster, of de eindcontrole door de fabrikant van drukapparatuur voldoet aan de desbetreffende eisen van de Richtlijn (PED bijlage I, punt 3.2). 
@@ -549,10 +549,10 @@ Het doel van de beoordeling is het vaststellen of de reparatie van een drukappar
 | AAKI  | :  | Aangemelde Aangewezen Keuringinstelling is een door de overheid aangewezen en bij de EC aangemelde CKI met toezichthoudende taken bij het ontwerp, de fabricage, en de eindcontrole van drukapparatuur.  |
 | AKI  | :  | Aangewezen Keuringinstelling is een door de overheid aangewezen CKI met toezichthoudende taken bij de samenbouw, de ingebruikneming en het gebruik van drukapparatuur.  |
 | AKVG  | :  | Aangemelde Aangewezen Keuringsdienst van de Gebruiker Instelling is een door de overheid aangewezen en bij de EC aangemelde CKI met toezichthoudende taken bij het ontwerp, de fabricage, en de eindcontrole van drukapparatuur ten behoeve van de eigen organisatie.  |
-| Besluit  | :  | [Warenwetbesluit drukapparatuur](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md)  |
+| Besluit  | :  | Warenwetbesluit drukapparatuur  |
 | Centraal College van Deskundigen Drukapparatuur (CCvD-DA)  | :  | Het college, onderdeel van en gefaciliteerd door de Stichting CCvD-DA, dat belanghebbende partijen in een bepaalde sector of branche de mogelijkheid biedt tot deelname bij het opstellen en onderhouden van werkveldspecifieke documenten op zodanige wijze dat sprake is van een evenwichtige en representatieve vertegenwoordiging van deze partijen.  |
-| Certificerings en Keurings-instelling (CKI)  | :  | Kalibratie- of conformiteitsbeoordelingsinstellingen zoals certificatie-instellingen, keuringsdiensten van gebruikers, laboratoria, inspectie-instellingen en testinstituten. Conform het [Warenwetbesluit Drukapparatuur](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md) worden de volgende CKI’s onderscheiden: AAKI; AKI; AKVG; KVG; erkende onafhankelijke instelling.  |
-| EG-Verklaring van overeenstemming (VvO)  | :   | De EG-verklaring van typeonderzoek of EG-verklaring van overeenstemming als bedoeld in de Richtlijn drukapparatuur dan wel een verklaring van typeonderzoek of verklaring van overeenstemming als bedoeld in het [Warenwetbesluit drukapparatuur](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md).  |
+| Certificerings en Keurings-instelling (CKI)  | :  | Kalibratie- of conformiteitsbeoordelingsinstellingen zoals certificatie-instellingen, keuringsdiensten van gebruikers, laboratoria, inspectie-instellingen en testinstituten. Conform het Warenwetbesluit Drukapparatuur worden de volgende CKI’s onderscheiden: AAKI; AKI; AKVG; KVG; erkende onafhankelijke instelling.  |
+| EG-Verklaring van overeenstemming (VvO)  | :   | De EG-verklaring van typeonderzoek of EG-verklaring van overeenstemming als bedoeld in de Richtlijn drukapparatuur dan wel een verklaring van typeonderzoek of verklaring van overeenstemming als bedoeld in het Warenwetbesluit drukapparatuur.  |
 | EER-landen  | :  | Landen die behoren bij de Europese Economische Ruimte  |
 | Inspectie  | :  | Een inspectie is een controle van de documenten en de fysieke conditie van een apparaat, teneinde te kunnen beoordelen of voldaan wordt aan de van toepassing zijnde normen.  |
 | IVG  | :  | Inspectiedienst van de Gebruiker  |
@@ -633,7 +633,7 @@ In het kader van het proces van het beoordelen van drukapparatuur komen verschil
 
 ####INDELINGSPROCEDURES
 
-De volgende procedures waarover een CKI dient te beschikken, zijn gebaseerd op de laatst geldende versie van het [Warenwetbesluit drukapparatuur](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md) en de Warenwetregeling drukapparatuur. De indelingsprocedure is in principe geschikt voor toepassing op twee manieren, t.w.: 
+De volgende procedures waarover een CKI dient te beschikken, zijn gebaseerd op de laatst geldende versie van het Warenwetbesluit drukapparatuur en de Warenwetregeling drukapparatuur. De indelingsprocedure is in principe geschikt voor toepassing op twee manieren, t.w.: 
 
 * ter verificatie of een -door de aanvrager- gewenste behandelingsprocedure voldoet aan de desbetreffende eisen volgens het Besluit;  
 
@@ -681,7 +681,7 @@ De CKI dient te beschikken over een schriftelijke procedure voor het vaststellen
 
 * de vaststelling van de indeling van de desbetreffende drukapparatuur, op basis van artikel 2 van de regeling;  
 
-* de vaststelling of een keuring vóór ingebruikneming voor de drukapparatuur is vereist.   De indelingsprocedure is ook van toepassing op drukapparatuur na montage op een nieuwe plaats van opstelling ([besluit art. 12b, lid 2](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md) en [art. 39a, lid 1](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md)) en kan ook van toepassing zijn na een wijziging. 
+* de vaststelling of een keuring vóór ingebruikneming voor de drukapparatuur is vereist.   De indelingsprocedure is ook van toepassing op drukapparatuur na montage op een nieuwe plaats van opstelling (besluit art. 12b, lid 2 en art. 39a, lid 1) en kan ook van toepassing zijn na een wijziging. 
 
 ### 4.4.4  
 
@@ -695,25 +695,25 @@ De CKI dient te beschikken over een schriftelijke procedure voor het vaststellen
 
 * de vaststelling van de indeling van de desbetreffende drukapparatuur, op basis van artikel 3 van de regeling;  
 
-* de vaststelling of een herkeuring voor drukapparatuur is vereist.   De indelingsprocedure kan ook worden toegepast op in gebruik zijnde apparatuur die volgens het oude herkeuringsregime aan een herkeuring zouden moeten worden onderworpen ([besluit art. 39b, lid 1](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md)). De indelingsprocedure is niet van toepassing op in gebruik zijnde apparatuur waarvoor volgens het oude herkeuringsregime geen herkeuring is vereist ([besluit art. 39b, lid 2](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md)) tenzij bij regeling nadere regels zijn gesteld.  Voor zover van toepassing dient een CKI tevens over een procedure te beschikken voor het uitoefenen van het toezicht op de inspectieafdeling van de gebruiker, die de herkeuringen uitvoert van de in artikel 3, eerste lid, van de regeling aangeduide drukapparatuur, alsmede de onderzoeken in het kader van termijnverlenging en termijnflexibilisering. 
+* de vaststelling of een herkeuring voor drukapparatuur is vereist.   De indelingsprocedure kan ook worden toegepast op in gebruik zijnde apparatuur die volgens het oude herkeuringsregime aan een herkeuring zouden moeten worden onderworpen (besluit art. 39b, lid 1). De indelingsprocedure is niet van toepassing op in gebruik zijnde apparatuur waarvoor volgens het oude herkeuringsregime geen herkeuring is vereist (besluit art. 39b, lid 2) tenzij bij regeling nadere regels zijn gesteld.  Voor zover van toepassing dient een CKI tevens over een procedure te beschikken voor het uitoefenen van het toezicht op de inspectieafdeling van de gebruiker, die de herkeuringen uitvoert van de in artikel 3, eerste lid, van de regeling aangeduide drukapparatuur, alsmede de onderzoeken in het kader van termijnverlenging en termijnflexibilisering. 
 
 ### 4.4.5  
 
 ####Intredekeuring
 
-De CKI dient te beschikken over een schriftelijke procedure voor het vaststellen of de aangeboden drukapparatuur in aanmerking komt voor een intredekeuring ([besluit art. 12d](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md)). Door middel van deze procedure dienen de volgende punten te worden vastgesteld:  
+De CKI dient te beschikken over een schriftelijke procedure voor het vaststellen of de aangeboden drukapparatuur in aanmerking komt voor een intredekeuring (besluit art. 12d). Door middel van deze procedure dienen de volgende punten te worden vastgesteld:  
 
 * de drukapparatuur is vervaardigd voor 29 mei 2002;  
 
 * de drukapparatuur is vervaardigd volgens wettelijke voorschriften van één der EER-landen, niet zijnde Nederland;  
 
-* de drukapparatuur behoort tot de groep apparatuur bedoeld in [art. 12c, eerste lid van het besluit](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md).   
+* de drukapparatuur behoort tot de groep apparatuur bedoeld in art. 12c, eerste lid van het besluit.   
 
 ### 4.4.6  
 
 ####Beoordeling van wijzigingen
 
-De CKI dient te beschikken over een schriftelijke procedure om vast te stellen of een beoordeling van een voorgenomen wijziging aan drukapparatuur in de gebruiksfase door de CKI vereist is. Daartoe dient de procedure te leiden tot het vaststellen van de juiste indeling voor de aangeboden drukapparatuur ten aanzien van de meldingsplicht ([besluit art. 14a](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md)). De onderstaande parameters met betrekking tot de vaststelling van de indeling voor de desbetreffende drukapparatuur dienen op basis van deze indelingsprocedure te worden vastgesteld, t.w.: 
+De CKI dient te beschikken over een schriftelijke procedure om vast te stellen of een beoordeling van een voorgenomen wijziging aan drukapparatuur in de gebruiksfase door de CKI vereist is. Daartoe dient de procedure te leiden tot het vaststellen van de juiste indeling voor de aangeboden drukapparatuur ten aanzien van de meldingsplicht (besluit art. 14a). De onderstaande parameters met betrekking tot de vaststelling van de indeling voor de desbetreffende drukapparatuur dienen op basis van deze indelingsprocedure te worden vastgesteld, t.w.: 
 
 * PS en TS (rekening houdend met de waarde hiervan in installatieverband); V of DN;   
 
@@ -721,7 +721,7 @@ De CKI dient te beschikken over een schriftelijke procedure om vast te stellen o
 
 * de vaststelling van de indeling van de desbetreffende apparatuur op basis van artikel 3 van de regeling;  
 
-* de vaststelling of een EG-verklaring van overeenstemming of verklaring van overeenstemming nog geldig is (hierbij rekening te houden met het overgangsrecht, [artikel 39 a van het Warenwetbesluit Drukapparatuur](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md));  
+* de vaststelling of een EG-verklaring van overeenstemming of verklaring van overeenstemming nog geldig is (hierbij rekening te houden met het overgangsrecht, artikel 39 a van het Warenwetbesluit Drukapparatuur);  
 
 * de vaststelling of een keuring vóór ingebruikneming was vereist of vereist wordt na realisatie van de wijziging.   
 
@@ -729,7 +729,7 @@ De CKI dient te beschikken over een schriftelijke procedure om vast te stellen o
 
 ####Beoordeling van reparaties
 
-De CKI dient te beschikken over een schriftelijke procedure om vast te stellen of een beoordeling van een voorgenomen reparatie aan drukapparatuur in de gebruiksfase door de CKI vereist is. Daartoe dient de procedure te leiden tot het vaststellen van de juiste indeling voor de aangeboden drukapparatuur ten aanzien van de meldingsplicht. ([besluit art. 14a](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md)). De onderstaande parameters met betrekking tot de vaststelling van de indeling voor de desbetreffende drukapparatuur dienen op basis van deze indelingsprocedure te worden vastgesteld, t.w.: 
+De CKI dient te beschikken over een schriftelijke procedure om vast te stellen of een beoordeling van een voorgenomen reparatie aan drukapparatuur in de gebruiksfase door de CKI vereist is. Daartoe dient de procedure te leiden tot het vaststellen van de juiste indeling voor de aangeboden drukapparatuur ten aanzien van de meldingsplicht. (besluit art. 14a). De onderstaande parameters met betrekking tot de vaststelling van de indeling voor de desbetreffende drukapparatuur dienen op basis van deze indelingsprocedure te worden vastgesteld, t.w.: 
 
 * PS en TS (rekening houdend met de waarde hiervan in installatieverband); V of DN;   
 
@@ -737,7 +737,7 @@ De CKI dient te beschikken over een schriftelijke procedure om vast te stellen o
 
 * de vaststelling van de indeling van de desbetreffende apparatuur op basis van artikel 3 van de regeling;  
 
-* de vaststelling of een EG-verklaring van overeenstemming of verklaring van overeenstemming nog geldig (hierbij rekening te houden met het overgangsrecht, [artikel 39 a van het Warenwetbesluit Drukapparatuur](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md));   
+* de vaststelling of een EG-verklaring van overeenstemming of verklaring van overeenstemming nog geldig (hierbij rekening te houden met het overgangsrecht, artikel 39 a van het Warenwetbesluit Drukapparatuur);   
 
 ### 4.5  
 
@@ -1628,7 +1628,7 @@ De CKI dient voor de beoordeling te beschikken over een schriftelijke aanvraag v
 
 ####Procedures
 
-De CKI dient voor de behandeling van een beoordeling van de samenbouw van een druksysteem ([besluit art. 12a, lid 1](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md)) over een schriftelijke procedure te beschikken. Met betrekking tot de vereisten voor de respectievelijke procedures op basis van de vastgestelde behandelingsprocedure (module) voor de uitvoering van de overeenstemmingsbeoordeling wordt verwezen naar de paragrafen 4.5 t/m 4.11.  In het bijzonder wordt met betrekking tot de procedure voor het door een CKI verstrekken van een ‘verklaring van type-/ontwerponderzoek’ voor een druksysteem verwezen naar paragraaf 4.6 (module B) / paragraaf 4.7 (module B1) Opmerking: De behandelingsprocedures voor samenstellen volgens de Richtlijn (zie paragraaf 4.12) en die van het nationale regime voor druksystemen zijn aan elkaar gelijk. Er is een verschil in de te verstrekken documenten (zie hoofdstuk 9) en het niet aanbrengen van de CE-markering. Voor de samenbouw van druksystemen is de gebruiker de fabrikant. 
+De CKI dient voor de behandeling van een beoordeling van de samenbouw van een druksysteem (besluit art. 12a, lid 1) over een schriftelijke procedure te beschikken. Met betrekking tot de vereisten voor de respectievelijke procedures op basis van de vastgestelde behandelingsprocedure (module) voor de uitvoering van de overeenstemmingsbeoordeling wordt verwezen naar de paragrafen 4.5 t/m 4.11.  In het bijzonder wordt met betrekking tot de procedure voor het door een CKI verstrekken van een ‘verklaring van type-/ontwerponderzoek’ voor een druksysteem verwezen naar paragraaf 4.6 (module B) / paragraaf 4.7 (module B1) Opmerking: De behandelingsprocedures voor samenstellen volgens de Richtlijn (zie paragraaf 4.12) en die van het nationale regime voor druksystemen zijn aan elkaar gelijk. Er is een verschil in de te verstrekken documenten (zie hoofdstuk 9) en het niet aanbrengen van de CE-markering. Voor de samenbouw van druksystemen is de gebruiker de fabrikant. 
 
 ### 4.13.3  
 
@@ -1703,13 +1703,13 @@ De CKI dient voor de uitvoering van het onderzoek te beschikken over een schrift
 
 ####Procedures
 
-De CKI dient voor de behandeling van een aanvraag voor een keuring vóór ingebruikneming ([besluit, art. 12b, lid 3](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md)) over een schriftelijke procedure te beschikken. De procedure keuring vóór ingebruikneming is aansluitend op de procedures van de paragrafen 4.4 – 4.13, met betrekking tot de vervaardiging van drukapparatuur en samenstellen en samenbouw van een druksysteem.  
+De CKI dient voor de behandeling van een aanvraag voor een keuring vóór ingebruikneming (besluit, art. 12b, lid 3) over een schriftelijke procedure te beschikken. De procedure keuring vóór ingebruikneming is aansluitend op de procedures van de paragrafen 4.4 – 4.13, met betrekking tot de vervaardiging van drukapparatuur en samenstellen en samenbouw van een druksysteem.  
 
 ### 4.14.3  
 
 ####Uit te voeren onderzoek
 
-De CKI zal, voor zover van toepassing, het volgende onderzoek uitvoeren, waarbij rekening gehouden wordt met de beoordelingen van overeenstemming die ingevolge de [artikelen 11](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md), [12](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md), [12a](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md) of [14a van het besluit](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md) in het kader van de vervaardiging van de bedoelde apparatuur reeds hebben plaatsgevonden (zie [besluit art. 12b, lid 7](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md)): 
+De CKI zal, voor zover van toepassing, het volgende onderzoek uitvoeren, waarbij rekening gehouden wordt met de beoordelingen van overeenstemming die ingevolge de artikelen 11, 12, 12a of 14a van het besluit in het kader van de vervaardiging van de bedoelde apparatuur reeds hebben plaatsgevonden (zie besluit art. 12b, lid 7): 
 
 a) de verificatie van de drukapparatuur aan de hand van de gebruiksaanwijzing en markeringen;  
 
@@ -1828,7 +1828,7 @@ In aanvulling op de basisinformatie:
 
 ####Procedure vaste termijnen
 
-De CKI dient voor de behandeling van een aanvraag voor herkeuring ([besluit, art.12c, lid 3](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md)) over een schriftelijke procedure te beschikken. De volgende aspecten moeten in de procedure voor herkeuring (vaste termijnen) zijn opgenomen: 
+De CKI dient voor de behandeling van een aanvraag voor herkeuring (besluit, art.12c, lid 3) over een schriftelijke procedure te beschikken. De volgende aspecten moeten in de procedure voor herkeuring (vaste termijnen) zijn opgenomen: 
 
 – het beoordelen van de aanvraag. (m.n. de historie van het drukapparaat en het te volgen herbeoordelingsplan);  
 
@@ -1970,7 +1970,7 @@ De aanvraag, een afschrift van de ‘verklaring van herkeuring’, een weigering
 
 ####Verklaring van herkeuring
 
-De door de CKI getekende 'verklaring van herkeuring' wordt met het bijbehorende rapport verstrekt aan de aanvrager. De verklaring moet tenminste de informatie volgens bijlage 9 bevatten. Op verzoek van de gebruiker kan, op basis van het [besluit art. 12c, lid 9](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md) worden volstaan met één verklaring van herkeuring voor meerdere drukapparaten. Op basis van de MR kan ook voor een groep installatieleidingen worden volstaan met één verklaring. 
+De door de CKI getekende 'verklaring van herkeuring' wordt met het bijbehorende rapport verstrekt aan de aanvrager. De verklaring moet tenminste de informatie volgens bijlage 9 bevatten. Op verzoek van de gebruiker kan, op basis van het besluit art. 12c, lid 9 worden volstaan met één verklaring van herkeuring voor meerdere drukapparaten. Op basis van de MR kan ook voor een groep installatieleidingen worden volstaan met één verklaring. 
 
 ### 4.15.8  
 
@@ -2040,7 +2040,7 @@ De CKI dient voor de uitvoering van de intredekeuring te beschikken over een sch
 
 ####Procedure
 
-De CKI dient voor de behandeling van een aanvraag voor een intredekeuring ([besluit, art. 12d, lid 3](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md)) over een schriftelijke procedure te beschikken. De toetsing van het ontwerp/constructie gebeurt tegen de actuele versie van de oorspronkelijk toegepaste normen, of ontwerp- / constructieregels. Indien deze niet meer beschikbaar zijn mag op andere wijze aangetoond worden dat aan de betreffende essentiële veiligheidseisen van de PED wordt voldaan. De procedure moet o.a voorzien in een beoordeling van de verschillen tussen de te hanteren normen, of ontwerp- / constructieregels en de beschikbare documentatie van de drukapparatuur in relatie tot het beoogd gebruiksdoel. 
+De CKI dient voor de behandeling van een aanvraag voor een intredekeuring (besluit, art. 12d, lid 3) over een schriftelijke procedure te beschikken. De toetsing van het ontwerp/constructie gebeurt tegen de actuele versie van de oorspronkelijk toegepaste normen, of ontwerp- / constructieregels. Indien deze niet meer beschikbaar zijn mag op andere wijze aangetoond worden dat aan de betreffende essentiële veiligheidseisen van de PED wordt voldaan. De procedure moet o.a voorzien in een beoordeling van de verschillen tussen de te hanteren normen, of ontwerp- / constructieregels en de beschikbare documentatie van de drukapparatuur in relatie tot het beoogd gebruiksdoel. 
 
 ### 4.16.3  
 
@@ -2123,7 +2123,7 @@ De CKI dient voor de uitvoering van een beoordeling van een wijziging te beschik
 
 * de verklaring van herkeuring afgegeven na een voorgaande herkeuring, met inbegrip van het bijbehorende rapport;  
 
-* de benodigde technische documentatie voor de uitvoering van de overeenstemmingsbeoordeling van de wijziging;    Opmerking: Hierbij wordt verwezen naar de toelichting op [artikel 13 van het Besluit](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md). 
+* de benodigde technische documentatie voor de uitvoering van de overeenstemmingsbeoordeling van de wijziging;    Opmerking: Hierbij wordt verwezen naar de toelichting op artikel 13 van het Besluit. 
 
 * een productieschema (planning);  
 
@@ -2136,7 +2136,7 @@ De CKI dient voor de uitvoering van een beoordeling van een wijziging te beschik
 Afhankelijk van de organisatievorm van de gebruiker moet één van de volgende taakverdelingen toegepast worden. Hierbij wordt onderscheid gemaakt tussen: 
 ### *I. Wijzigingen begeleid door de AKI of KVG* 
 
-Dit betreft wijzigingen aan drukapparatuur welke zijn aangewezen volgens [art. 14a van het besluit](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md). Dit kunnen constructieve wijzigingen zijn en wijzigingen die betrekking hebben op de gebruiksomstandigheden of de kenmerkende waarden van de drukapparatuur, zoals PS, TS, het volume voor drukvaten of de nominale maat DN voor installatieleidingen.  
+Dit betreft wijzigingen aan drukapparatuur welke zijn aangewezen volgens art. 14a van het besluit. Dit kunnen constructieve wijzigingen zijn en wijzigingen die betrekking hebben op de gebruiksomstandigheden of de kenmerkende waarden van de drukapparatuur, zoals PS, TS, het volume voor drukvaten of de nominale maat DN voor installatieleidingen.  
 ### *II. Wijzigingen onder toezicht* 
 
 Dit betreft alleen constructieve wijzigingen die door een IVG onder toezicht van de AKI kunnen worden uitgevoerd.  Het is de verantwoordelijkheid van de IVG om in overleg met de AKI te bepalen of de complexiteit van de constructieve wijziging alsnog aanleiding is om de beoordeling en inspecties door de AKI te laten uitvoeren.  
@@ -2154,7 +2154,7 @@ Dit betreft alleen constructieve wijzigingen die door een IVG onder toezicht van
 
 ####Procedure
 
-De CKI dient voor de uitvoering van een beoordeling van wijzigingen aan drukapparatuur in de gebruiksfase over een schriftelijke procedure te beschikken. Daarin moet zijn opgenomen een beoordeling van de constructieve aspecten en de uitvoering van het toezicht tijdens de uitvoering van de wijziging.  De CKI dient over een schriftelijke procedure te beschikken voor de uitvoering van de beoordeling van de integratie en de beveiliging van drukapparatuur.  De gewijzigde apparatuur wordt zo nodig vervolgens onderworpen aan een keuring als bedoeld in [besluit artikel 12b](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md), waarbij rekening wordt gehouden met eerder uitgevoerd onderzoek. ([besluit art. 14a, lid 6](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md)) Indien drukapparatuur vanwege de wijziging is komen te vallen onder de apparatuur die is aangewezen op grond van artikel 12c, eerste lid dan voert de CKI, voor zover van toepassing, een herkeuring uit als bedoeld in [art. 12c van het besluit](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md). 
+De CKI dient voor de uitvoering van een beoordeling van wijzigingen aan drukapparatuur in de gebruiksfase over een schriftelijke procedure te beschikken. Daarin moet zijn opgenomen een beoordeling van de constructieve aspecten en de uitvoering van het toezicht tijdens de uitvoering van de wijziging.  De CKI dient over een schriftelijke procedure te beschikken voor de uitvoering van de beoordeling van de integratie en de beveiliging van drukapparatuur.  De gewijzigde apparatuur wordt zo nodig vervolgens onderworpen aan een keuring als bedoeld in besluit artikel 12b, waarbij rekening wordt gehouden met eerder uitgevoerd onderzoek. (besluit art. 14a, lid 6) Indien drukapparatuur vanwege de wijziging is komen te vallen onder de apparatuur die is aangewezen op grond van artikel 12c, eerste lid dan voert de CKI, voor zover van toepassing, een herkeuring uit als bedoeld in art. 12c van het besluit. 
 
 ### 4.17.3.1  
 
@@ -2176,7 +2176,7 @@ d. toezicht op de door de IVG uit te voeren beoordeling en inspectie van constru
 
 ####Uit te voeren onderzoek
 
-Dit betreft een nadere uitwerking van de in het [besluit art. 14a, lid 4](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md) bedoelde onderzoeken. 
+Dit betreft een nadere uitwerking van de in het besluit art. 14a, lid 4 bedoelde onderzoeken. 
 
 ### 4.17.4.1  
 
@@ -2205,7 +2205,7 @@ De gevestigde methoden voor de beheersing van de fabricage en eindcontrole zijn:
 
 ### *a. Controle technische documentatie* 
 
-De technische documentatie dient, voor zover dat voor de beoordeling van de wijziging nodig is, inzicht te verschaffen in constructieve aspecten aangaande de wijziging, het fabricageproces en eindcontrole, alsmede aspecten aangaande de integratie, beveiliging en werking teneinde aan te tonen dat overeenstemming bestaat met de desbetreffende eisen van het [Besluit](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md) en de actuele versie van de oorspronkelijk toegepaste norm(en) of ontwerp- / constructieregels, tenzij dit redelijkerwijs niet mogelijk is. De CKI controleert de technische documentatie op volledigheid aan de hand van bijlage 6. 
+De technische documentatie dient, voor zover dat voor de beoordeling van de wijziging nodig is, inzicht te verschaffen in constructieve aspecten aangaande de wijziging, het fabricageproces en eindcontrole, alsmede aspecten aangaande de integratie, beveiliging en werking teneinde aan te tonen dat overeenstemming bestaat met de desbetreffende eisen van het Besluit en de actuele versie van de oorspronkelijk toegepaste norm(en) of ontwerp- / constructieregels, tenzij dit redelijkerwijs niet mogelijk is. De CKI controleert de technische documentatie op volledigheid aan de hand van bijlage 6. 
 ### *b. Overeenstemmingsbeoordeling van de constructieve aspecten (Besluit art.14a, lid 4)* 
 
 De CKI bestudeert de technische documentatie van de wijziging en identificeert de afzonderlijke onderdelen voor het uitvoeren van een beoordeling. Voor de vaststelling van de aard en omvang van de beoordeling van het ontwerp in relatie tot de desbetreffende wijziging worden twee verschillende uitgangspunten onderscheiden, t.w.: 
@@ -2355,7 +2355,7 @@ De CKI dient voor de uitvoering van een beoordeling van een reparatie te beschik
 – technische documentatie over de reparatie;    
 ### *Opmerking: * 
 
-Hierbij wordt verwezen naar de toelichting op [artikel 13 van het Besluit](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md), waarin de gebruiker erop geattendeerd wordt de benodigde tekeningen en overige technische documentatie op te vragen bij de fabrikant, indien hij verwacht dat de drukapparatuur gedurende de gebruiksfase gerepareerd of gewijzigd zal worden.  
+Hierbij wordt verwezen naar de toelichting op artikel 13 van het Besluit, waarin de gebruiker erop geattendeerd wordt de benodigde tekeningen en overige technische documentatie op te vragen bij de fabrikant, indien hij verwacht dat de drukapparatuur gedurende de gebruiksfase gerepareerd of gewijzigd zal worden.  
 
 – een productieschema (planning);  
 
@@ -2385,7 +2385,7 @@ Afhankelijk van de organisatievorm van de gebruiker moet één van de volgende t
 
 ####Procedure
 
-De CKI dient voor de uitvoering van een beoordeling van reparaties aan drukapparatuur in de gebruiksfase over een schriftelijke procedure te beschikken. Daarin moet zijn opgenomen een beoordeling van de constructieve aspecten en de uitvoering van het toezicht tijdens de reparatie ([besluit art. 14a, lid 2 en 4](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md)).  
+De CKI dient voor de uitvoering van een beoordeling van reparaties aan drukapparatuur in de gebruiksfase over een schriftelijke procedure te beschikken. Daarin moet zijn opgenomen een beoordeling van de constructieve aspecten en de uitvoering van het toezicht tijdens de reparatie (besluit art. 14a, lid 2 en 4).  
 
 ### 4.18.4.1  
 
@@ -2419,7 +2419,7 @@ De CKI dient voor de aanvang van de reparatie van de desbetreffende drukapparatu
 
 * het beoordelen, vaststellen en vastleggen van een voorstel betreffende de aard en omvang van de beoordelings-, onderzoek- of beproevingsactiviteiten door de CKI;  
 
-* de beheersing van de relevante registraties om te voldoen aan de desbetreffende eisen van het [Besluit](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md);   Opmerking: Hieronder is ondermeer te verstaan de materiaalattesten, onderzoeksrapporten, persverklaringen, aangepaste tekening (of reparatietekening), T&IP enz.  
+* de beheersing van de relevante registraties om te voldoen aan de desbetreffende eisen van het Besluit;   Opmerking: Hieronder is ondermeer te verstaan de materiaalattesten, onderzoeksrapporten, persverklaringen, aangepaste tekening (of reparatietekening), T&IP enz.  
 
 * de kennisgeving aan de gebruiker (resp. fabrikant) van de resultaten van de beoordelings-, onderzoek- of beproevingsactiviteiten die door de CKI worden uitgevoerd c.q. bijgewoond.   
 ### *Opmerking:* 
@@ -2436,7 +2436,7 @@ De gevestigde methoden voor de beheersing van de fabricage en eindcontrole zijn:
 
 ### *a. Controle technische documentatie* 
 
-De technische documentatie dient, voor zover dat voor de beoordeling van de reparatie nodig is, inzicht te verschaffen in constructieve aspecten aangaande de reparatie, het fabricageproces en de eindcontrole, teneinde aan te tonen dat overeenstemming bestaat met de desbetreffende eisen van het [Besluit](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md) en de actuele versie van de oorspronkelijk toegepaste norm(en) of ontwerp- / constructieregels, tenzij dit redelijkerwijs niet mogelijk is. De CKI controleert de technische documentatie op volledigheid (relevant voor de reparatie) aan de hand van bijlage 6. 
+De technische documentatie dient, voor zover dat voor de beoordeling van de reparatie nodig is, inzicht te verschaffen in constructieve aspecten aangaande de reparatie, het fabricageproces en de eindcontrole, teneinde aan te tonen dat overeenstemming bestaat met de desbetreffende eisen van het Besluit en de actuele versie van de oorspronkelijk toegepaste norm(en) of ontwerp- / constructieregels, tenzij dit redelijkerwijs niet mogelijk is. De CKI controleert de technische documentatie op volledigheid (relevant voor de reparatie) aan de hand van bijlage 6. 
 ### *b. Beoordeling van de constructieve aspecten van de reparatie (art.14a, lid 4)* 
 
 De CKI bestudeert de technische documentatie van de reparatie en identificeert de afzonderlijke onderdelen voor het uitvoeren van een beoordeling. Voor de vaststelling van de aard en omvang van de beoordeling van het ontwerp in relatie tot de desbetreffende reparatie worden twee verschillende uitgangspunten onderscheiden, t.w.: 
@@ -2676,7 +2676,7 @@ Het CCvD-DA dient te zorgen voor een eenduidige norminterpretatie. Toch kan het 
 
 a) De Richtlijn, Guidelines van de Commission’s Working Group ‘Pressure’ en Working Party Guidelines (WPG’s);  
 
-b) Het [Besluit](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md) en de Regeling;  
+b) Het Besluit en de Regeling;  
 
 c) Geharmoniseerde Europese normen;  
 
@@ -2744,7 +2744,7 @@ De beoordeling van drukapparatuur is veelal een op zich staande activiteit waarb
 | EG-eenheidskeuring  | G  | Nee  | --  |
 | Volledige kwaliteitsborging met controle van het ontwerp en bijzonder toezicht op de eindcontrole  | H1  | Ja  | Paragraaf 5.3.3  |
 
-Naast de modules inzake de overeenstemmingsbeoordelingen zijn er geen (onaangekondigde) bezoeken noodzakelijk voor samenstellen volgens artikel 10 lid 2 van de PED en voor druksystemen [artikel 12a van het Warenwetbesluit drukapparatuur](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md).  Ingebruiknemingsfase 
+Naast de modules inzake de overeenstemmingsbeoordelingen zijn er geen (onaangekondigde) bezoeken noodzakelijk voor samenstellen volgens artikel 10 lid 2 van de PED en voor druksystemen artikel 12a van het Warenwetbesluit drukapparatuur.  Ingebruiknemingsfase 
 
 |  Aanwijzingskavel   |  Aanduiding module   |  Nacontroles    Ja / Nee   |  Zie voor nadere omschrijving   |
 |:---|:---|:---|:---|
@@ -2773,7 +2773,7 @@ Indien voor het houden van toezicht noodzakelijk is dat de CKI, de nationale acc
 
 ####DE FREQUENTIE EN WIJZE VAN UITVOERING VAN HET TOEZICHT
 
-Vaststelling van de frequentie van het toezicht wordt niet door het CCvD-DA vastgesteld, maar is voor nieuwbouw vastgelegd in modules van de Richtlijn drukapparatuur en voor de ingebruikneming en periodieke herkeuring in het [Warenwetbesluit drukapparatuur](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md). 
+Vaststelling van de frequentie van het toezicht wordt niet door het CCvD-DA vastgesteld, maar is voor nieuwbouw vastgelegd in modules van de Richtlijn drukapparatuur en voor de ingebruikneming en periodieke herkeuring in het Warenwetbesluit drukapparatuur. 
 
 ### 5.3.1  
 
@@ -2994,11 +2994,11 @@ In de nieuwbouwfase dienen producten te voldoen aan essentiële veiligheidseisen
 
 Ten aanzien van de ingebruikname gelden: 
 
-– Het [Warenwetbesluit Drukapparatuur](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md);  
+– Het Warenwetbesluit Drukapparatuur;  
 
 – De Warenwetregeling Drukapparatuur;  
 
-– PRD 2.2: Keuring voor ingebruikneming.   Indien de gebruiker van drukapparatuur gebruik maakt van PRD 2.2, dan mag hij ervan uitgaan dat voldaan wordt aan het [Besluit Drukapparatuur](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md) en de Warenwetregeling Drukapparatuur. 
+– PRD 2.2: Keuring voor ingebruikneming.   Indien de gebruiker van drukapparatuur gebruik maakt van PRD 2.2, dan mag hij ervan uitgaan dat voldaan wordt aan het Besluit Drukapparatuur en de Warenwetregeling Drukapparatuur. 
 
 ### 7.1.3  
 
@@ -3006,17 +3006,17 @@ Ten aanzien van de ingebruikname gelden:
 
 Drukapparatuur wordt onderworpen aan periodieke inspecties indien te verwachten is dat deze producten tijdens gebruik onderhevig zijn aan slijtage of anderszins wat veiligheid betreft achteruit gaan. Ten aanzien van deze periodieke inspecties zijn van toepassing: 
 
-– Het [Warenwetbesluit Drukapparatuur](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md);  
+– Het Warenwetbesluit Drukapparatuur;  
 
 – De Warenwetregeling Drukapparatuur;  
 
-– De PRD’s.   Indien de gebruiker van drukapparatuur gebruik maakt van de PRD’s, dan mag hij er-van uitgaan dat voldaan wordt aan het [Besluit Drukapparatuur](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md) en de Warenwetregeling Drukapparatuur. 
+– De PRD’s.   Indien de gebruiker van drukapparatuur gebruik maakt van de PRD’s, dan mag hij er-van uitgaan dat voldaan wordt aan het Besluit Drukapparatuur en de Warenwetregeling Drukapparatuur. 
 
 ### 8  
 
 ####TOETSMETHODIEK
 
-Voor toetspunten voor nieuwbouw wordt verwezen naar bijlage 1 ‘Essentiële veiligheidseisen’ van de Richtlijn drukapparatuur (97/23/EG). Voor de ingebruikneming en gebruiksfase wordt voor de toetspunten verwezen naar de [Warenwetbesluit](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md) en Warenwetregeling Drukapparatuur en de Praktijkregels Drukapparatuur (PRD’s), zie ook hoofdstuk 7 van dit schema. 
+Voor toetspunten voor nieuwbouw wordt verwezen naar bijlage 1 ‘Essentiële veiligheidseisen’ van de Richtlijn drukapparatuur (97/23/EG). Voor de ingebruikneming en gebruiksfase wordt voor de toetspunten verwezen naar de Warenwetbesluit en Warenwetregeling Drukapparatuur en de Praktijkregels Drukapparatuur (PRD’s), zie ook hoofdstuk 7 van dit schema. 
 
 ### 9  
 
@@ -3447,7 +3447,7 @@ De toetsingselementen in het kader van de uitvoering van de ontwerpbeoordeling v
 
 De ‘verklaring van ingebruikneming’ of de ‘voorlopige verklaring van ingebruikneming’ voor drukapparatuur, samenstellen en druksystemen moet ten minste de volgende informatie bevatten: 
 
-a. Verwijzing naar [artikel 12b, tweede of tiende lid van het besluit](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md).  
+a. Verwijzing naar artikel 12b, tweede of tiende lid van het besluit.  
 
 b. Kenmerk of registratienummer van de drukapparatuur.   
 
@@ -3487,7 +3487,7 @@ l. Ondertekening en datum.
 
 De ‘verklaring van herkeuring’ voor drukapparatuur moet ten minste de volgende informatie bevatten: 
 
-a. Verwijzing naar [artikel 12c, tweede lid van het besluit](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md).  
+a. Verwijzing naar artikel 12c, tweede lid van het besluit.  
 
 b. Kenmerk of registratienummer van het drukapparaat.  
 
@@ -3533,7 +3533,7 @@ m. De basis waarop het eindoordeel wordt gegeven, te onderscheiden naar door de 
 
 De ‘verklaring van intredekeuring en ingebruikneming’ voor apparatuur, moet ten minste (voor zover van toepassing) de volgende informatie bevatten: 
 
-– Een verwijzing naar [artikel 12d, tweede en negende lid van het Besluit](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md);  
+– Een verwijzing naar artikel 12d, tweede en negende lid van het Besluit;  
 
 – Naam en adres van de gebruiker;  
 
@@ -3621,7 +3621,7 @@ Afhankelijk van de organisatievorm van de gebruiker moeten de volgende taakverde
 
 ####Schema voor Aanwijzing en Toezicht op de certificerings- en keuringsinstellingen voor Drukapparatuur
 
-Document: WDA&T-DA: 2012, versie 01 Onder beheer van: CCvD-DA Secretariaat CCvD-DA Vrieseweg 145 3311 NV Dordrecht 
+Document: WDA&T-DA Onder beheer van: CCvD-DA Secretariaat CCvD-DA Vrieseweg 145 3311 NV Dordrecht 
 
 ####INHOUDSOPGAVE
 
@@ -3659,13 +3659,13 @@ Document: WDA&T-DA: 2012, versie 01 Onder beheer van: CCvD-DA Secretariaat CCvD-
 
 ####Toelichting
 
-Drukapparatuur is een risicovol product. Om het maatschappelijke belang – veiligheid en gezondheid van werknemers en omwonenden en het milieu – te waarborgen, is door de overheid gekozen voor een wettelijk verplichte ‘certificatieregeling’ van het ontwerp, de fabricage, de samenbouw, de eindcontrole en het gebruik van drukapparatuur. Het ‘certificaat’ wordt onder deze regeling verstrekt door Certificerings- en keuringsinstellingen (CKI’s). Om ‘certificaten’ te mogen verstrekken dient een CKI hiertoe te worden aangewezen door de minister. Dit gebeurt door een toetsing aan dit document. In dit document is aangegeven aan welke regels en procedures de betreffende CKI’s zich dienen te houden. Waar in dit schema geen nadere uitwerking is gegeven dient de betreffende accreditatienorm te worden aangehouden. Dit document betreft de aanwijzing van instellingen en diensten voor nieuwbouw van drukapparatuur alsmede voor de samenbouw, de ingebruikneming en het gebruik van drukapparatuur. De aanwijzing voor nieuwbouw vloeit voort uit de implementatie van de Pressure Equipment Directive<sup> 1  Richtlijn 97/23/EG van het Europese Parlement en de Raad van 29 mei 1997 inzake de onderlinge aanpassing van de wetgeving der lidstaten betreffende drukapparatuur. EG-Publicatieblad L 181 d.d. 09 juli 1997/ISSN 0378-7087. </sup> (PED) in het [Warenwetbesluit drukapparatuur](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md).  Voor nieuwbouw van drukapparatuur wordt op grond van de te volgen module vastgesteld of er aan de essentiële eisen wordt voldaan. Dit ter borging van de veiligheid van de drukapparatuur. In paragraaf 1.2 worden de zogenaamde ‘modules’ kort beschreven. Ook de werkzaamheden bij ingebruikneming is aan te merken als deelgebied, welke in paragraaf 1.3 wordt beschreven. In de paragraaf 1.4 worden de werkzaamheden van de deelgebieden die tijdens de gebruiksfase kunnen voorkomen, beschreven. Een CKI behoeft niet voor het gehele werkveld aangewezen te worden, maar kan ook voor een deel, zogenaamde aanwijzingskavels, van het werkveld aangewezen worden. In paragraaf 1.5 worden de afzonderlijke aanwijzingskavels beschreven.  
+Drukapparatuur is een risicovol product. Om het maatschappelijke belang – veiligheid en gezondheid van werknemers en omwonenden en het milieu – te waarborgen, is door de overheid gekozen voor een wettelijk verplichte ‘certificatieregeling’ van het ontwerp, de fabricage, de samenbouw, de eindcontrole en het gebruik van drukapparatuur. Het ‘certificaat’ wordt onder deze regeling verstrekt door Certificerings- en keuringsinstellingen (CKI’s). Om ‘certificaten’ te mogen verstrekken dient een CKI hiertoe te worden aangewezen door de minister. Dit gebeurt door een toetsing aan dit document. In dit document is aangegeven aan welke regels en procedures de betreffende CKI’s zich dienen te houden. Waar in dit schema geen nadere uitwerking is gegeven dient de betreffende accreditatienorm te worden aangehouden. Dit document betreft de aanwijzing van instellingen en diensten voor nieuwbouw van drukapparatuur alsmede voor de samenbouw, de ingebruikneming en het gebruik van drukapparatuur. De aanwijzing voor nieuwbouw vloeit voort uit de implementatie van de Pressure Equipment Directive<sup> 1  Richtlijn 97/23/EG van het Europese Parlement en de Raad van 29 mei 1997 inzake de onderlinge aanpassing van de wetgeving der lidstaten betreffende drukapparatuur. EG-Publicatieblad L 181 d.d. 09 juli 1997/ISSN 0378-7087. </sup> (PED) in het Warenwetbesluit drukapparatuur.  Voor nieuwbouw van drukapparatuur wordt op grond van de te volgen module vastgesteld of er aan de essentiële eisen wordt voldaan. Dit ter borging van de veiligheid van de drukapparatuur. In paragraaf 1.2 worden de zogenaamde ‘modules’ kort beschreven. Ook de werkzaamheden bij ingebruikneming is aan te merken als deelgebied, welke in paragraaf 1.3 wordt beschreven. In de paragraaf 1.4 worden de werkzaamheden van de deelgebieden die tijdens de gebruiksfase kunnen voorkomen, beschreven. Een CKI behoeft niet voor het gehele werkveld aangewezen te worden, maar kan ook voor een deel, zogenaamde aanwijzingskavels, van het werkveld aangewezen worden. In paragraaf 1.5 worden de afzonderlijke aanwijzingskavels beschreven.  
 
 ### 1.2  
 
 ####Nieuwbouwfase
 
-Bij nieuwbouw van drukapparatuur, samenstellen en druksystemen van de risicocategorie II, III en IV zoals vermeld in de Richtlijn, moeten modules respectievelijk van bijlage III van de Richtlijn en [artikel 11](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md), [12](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md) of [12a van het Warenwetbesluit drukapparatuur](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md) worden toegepast. In onderstaande tabel zijn de modules voor de borging van de veiligheid alsmede de gehanteerde aanduiding voor deze modules gegeven.   
+Bij nieuwbouw van drukapparatuur, samenstellen en druksystemen van de risicocategorie II, III en IV zoals vermeld in de Richtlijn, moeten modules respectievelijk van bijlage III van de Richtlijn en artikel 11, 12 of 12a van het Warenwetbesluit drukapparatuur worden toegepast. In onderstaande tabel zijn de modules voor de borging van de veiligheid alsmede de gehanteerde aanduiding voor deze modules gegeven.   
 
 | Omschrijving module  | Aanduiding module  |
 |:---|:---|
@@ -3682,13 +3682,13 @@ Bij nieuwbouw van drukapparatuur, samenstellen en druksystemen van de risicocate
 | Volledige kwaliteitsborging  | H  |
 | Volledige kwaliteitsborging met controle van het ontwerp en bijzonder toezicht op de eindcontrole  | H1  |
 
-Naast de modules inzake de overeenstemmingsbeoordelingen gelden voor samenstellen artikel 10 lid 2 van de PED en voor druksystemen [artikel 12a van het Warenwetbesluit drukapparatuur](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md). Tevens wordt in het kort het doel en toepassingsgebied van de modules beschreven. In de schema’s voor producten en systemen worden de relevante procedures voor de modules nader omschreven. Module A1: Het doel van deze module is het vaststellen, door middel van een gedefinieerd toezicht en een of meerdere controle(s) van een monster, of de eindcontrole door de fabrikant van drukapparatuur voldoet aan de desbetreffende eisen van de Richtlijn (PED bijlage I, punt 3.2). Module B: Het doel van deze module is het vaststellen door middel van een onderzoek of een voor de productie representatief exemplaar (= ‘type’) van drukapparatuur voldoet aan de desbetreffende eisen van de Richtlijn. En het afgeven van een verklaring van EG-typeonderzoek door de instelling. Module B1: Het doel van deze module is het vaststellen door middel van een onderzoek of het ontwerp van een drukapparaat voldoet aan de desbetreffende eisen van de richtlijn drukapparatuur. En het afgeven van een verklaring van EG-ontwerponderzoek door de instelling. Module C1: Het doel van deze module is het vaststellen, door middel van een gedefinieerd toezicht en een of meerdere controle(s) van een monster, of de eindcontrole door de fabrikant van drukapparatuur (d.w.z. is in overeenstemming met een verklaring van EG-typeonderzoek) voldoet aan het type en de desbetreffende eisen van de Richtlijn (PED bijlage I, punt 3.2.). Module D: Het doel van deze module is beoordelen of het kwaliteitssysteem van de fabrikant voldoet aan de desbetreffende eisen van de Richtlijn (bijlage III module D par. 3) en het toezicht houden op het blijvend voldoen door de fabrikant aan de verplichtingen voortvloeiend uit dat kwaliteitseissysteem. Dit kwaliteitssysteem betreft de fabricage en de eindcontrole (eindinspectie en beproeving). Uitgangspunt is een kwaliteitssysteem conform NEN-EN-ISO/IEC 9001: 2008.  Module D1: Het doel van deze module is beoordelen of het kwaliteitssysteem van de fabrikant voldoet aan de desbetreffende eisen van de Richtlijn, bijlage III, module D1, par. 4.1 en het toezicht houden op het blijvend voldoen door de fabrikant aan de verplichtingen voortvloeiend uit dat kwaliteitseissysteem. Dit kwaliteitssysteem betreft de fabricage en de eindcontrole (eindinspectie en beproeving). Uitgangspunt is een kwaliteitssysteem conform NEN-EN-ISO/IEC 9001: 2008.  Module E: Het doel van deze module is beoordelen of het kwaliteitssysteem van de fabrikant voldoet aan de desbetreffende eisen van de Richtlijn, bijlage III, module E, par. 3 en het toezicht houden op het blijvend voldoen door de fabrikant aan de verplichtingen voortvloeiend uit dat kwaliteitseissysteem. Dit kwaliteitssysteem betreft de eindcontrole (eindinspectie en beproeving). Uitgangspunt is een kwaliteitssysteem conform NEN-EN-ISO/IEC 9001: 2008. Module E1: Het doel van deze module is beoordelen of het kwaliteitssysteem van de fabrikant voldoet aan de desbetreffende eisen van de Richtlijn, bijlage III, module E1, par. 4 en het toezicht houden op het blijvend voldoen door de fabrikant aan de verplichtingen voortvloeiend uit dat kwaliteitseissysteem. Dit kwaliteitssysteem betreft de fabricage en de eindcontrole (eindinspectie en beproeving). Uitgangspunt is een kwaliteitssysteem conform NEN-EN-ISO/IEC 9001: 2008. Module F: Het doel van deze module is het vaststellen, door middel van een productkeuring (‘product verification’) of de fabricage van drukapparatuur (in overeenstemming met een verklaring van EG-typeonderzoek of EG-ontwerponderzoek) voldoet aan het type of het ontwerp en de desbetreffende eisen van de Richtlijn. En het afgeven van een EG-verklaring van overeenstemming (‘certificate of conformity’) door een instelling over de verrichte proeven (= beoordelings-, onderzoek of beproevingsactiviteiten). Module G: Het doel van deze module is het vaststellen, door middel van een EG-eenheidskeuring (‘EC-unit verification’), of het ontwerp en de fabricage van drukapparatuur voldoet aan de desbetreffende eisen van de richtlijn drukapparatuur. En het afgeven van een verklaring van overeenstemming (‘certificate of conformity’) door een instelling over de verrichte proeven (= beoordelings-, onderzoek of beproevingsactiviteiten). Module H: Het doel van deze module is beoordelen of het kwaliteitssysteem van de fabrikant voldoet aan de desbetreffende eisen van de Richtlijn, bijlage III, module H, par. 3.2 en het toezicht houden op het blijvend voldoen door de fabrikant aan de verplichtingen voortvloeiend uit dat kwaliteitseissysteem. Dit kwaliteitssysteem betreft het ontwerp, de fabricage en de eindcontrole (eindinspectie en beproeving). Uitgangspunt is een gecertificeerd kwaliteitssysteem conform NEN-EN-ISO/IEC 9001: 2008. Module H1: Het doel van deze module is beoordelen of het kwaliteitssysteem van de fabrikant voldoet aan de desbetreffende eisen van de Richtlijn, bijlage III, module H1, punt. 1 en het toezicht houden op het blijvend voldoen door de fabrikant aan de verplichtingen voortvloeiend uit dat kwaliteitseissysteem. Dit kwaliteitssysteem betreft het ontwerp, de fabricage en de eindcontrole (eindinspectie en beproeving). Uitgangspunt is een gecertificeerd kwaliteitssysteem conform NEN-EN-ISO/IEC 9001: 2008. Daarnaast valt onder deze module onderzoek van het ontwerp en toezicht op de eindcontrole. 
+Naast de modules inzake de overeenstemmingsbeoordelingen gelden voor samenstellen artikel 10 lid 2 van de PED en voor druksystemen artikel 12a van het Warenwetbesluit drukapparatuur. Tevens wordt in het kort het doel en toepassingsgebied van de modules beschreven. In de schema’s voor producten en systemen worden de relevante procedures voor de modules nader omschreven. Module A1: Het doel van deze module is het vaststellen, door middel van een gedefinieerd toezicht en een of meerdere controle(s) van een monster, of de eindcontrole door de fabrikant van drukapparatuur voldoet aan de desbetreffende eisen van de Richtlijn (PED bijlage I, punt 3.2). Module B: Het doel van deze module is het vaststellen door middel van een onderzoek of een voor de productie representatief exemplaar (= ‘type’) van drukapparatuur voldoet aan de desbetreffende eisen van de Richtlijn. En het afgeven van een verklaring van EG-typeonderzoek door de instelling. Module B1: Het doel van deze module is het vaststellen door middel van een onderzoek of het ontwerp van een drukapparaat voldoet aan de desbetreffende eisen van de richtlijn drukapparatuur. En het afgeven van een verklaring van EG-ontwerponderzoek door de instelling. Module C1: Het doel van deze module is het vaststellen, door middel van een gedefinieerd toezicht en een of meerdere controle(s) van een monster, of de eindcontrole door de fabrikant van drukapparatuur (d.w.z. is in overeenstemming met een verklaring van EG-typeonderzoek) voldoet aan het type en de desbetreffende eisen van de Richtlijn (PED bijlage I, punt 3.2.). Module D: Het doel van deze module is beoordelen of het kwaliteitssysteem van de fabrikant voldoet aan de desbetreffende eisen van de Richtlijn (bijlage III module D par. 3) en het toezicht houden op het blijvend voldoen door de fabrikant aan de verplichtingen voortvloeiend uit dat kwaliteitseissysteem. Dit kwaliteitssysteem betreft de fabricage en de eindcontrole (eindinspectie en beproeving). Uitgangspunt is een kwaliteitssysteem conform NEN-EN-ISO/IEC 9001: 2008.  Module D1: Het doel van deze module is beoordelen of het kwaliteitssysteem van de fabrikant voldoet aan de desbetreffende eisen van de Richtlijn, bijlage III, module D1, par. 4.1 en het toezicht houden op het blijvend voldoen door de fabrikant aan de verplichtingen voortvloeiend uit dat kwaliteitseissysteem. Dit kwaliteitssysteem betreft de fabricage en de eindcontrole (eindinspectie en beproeving). Uitgangspunt is een kwaliteitssysteem conform NEN-EN-ISO/IEC 9001: 2008.  Module E: Het doel van deze module is beoordelen of het kwaliteitssysteem van de fabrikant voldoet aan de desbetreffende eisen van de Richtlijn, bijlage III, module E, par. 3 en het toezicht houden op het blijvend voldoen door de fabrikant aan de verplichtingen voortvloeiend uit dat kwaliteitseissysteem. Dit kwaliteitssysteem betreft de eindcontrole (eindinspectie en beproeving). Uitgangspunt is een kwaliteitssysteem conform NEN-EN-ISO/IEC 9001: 2008. Module E1: Het doel van deze module is beoordelen of het kwaliteitssysteem van de fabrikant voldoet aan de desbetreffende eisen van de Richtlijn, bijlage III, module E1, par. 4 en het toezicht houden op het blijvend voldoen door de fabrikant aan de verplichtingen voortvloeiend uit dat kwaliteitseissysteem. Dit kwaliteitssysteem betreft de fabricage en de eindcontrole (eindinspectie en beproeving). Uitgangspunt is een kwaliteitssysteem conform NEN-EN-ISO/IEC 9001: 2008. Module F: Het doel van deze module is het vaststellen, door middel van een productkeuring (‘product verification’) of de fabricage van drukapparatuur (in overeenstemming met een verklaring van EG-typeonderzoek of EG-ontwerponderzoek) voldoet aan het type of het ontwerp en de desbetreffende eisen van de Richtlijn. En het afgeven van een EG-verklaring van overeenstemming (‘certificate of conformity’) door een instelling over de verrichte proeven (= beoordelings-, onderzoek of beproevingsactiviteiten). Module G: Het doel van deze module is het vaststellen, door middel van een EG-eenheidskeuring (‘EC-unit verification’), of het ontwerp en de fabricage van drukapparatuur voldoet aan de desbetreffende eisen van de richtlijn drukapparatuur. En het afgeven van een verklaring van overeenstemming (‘certificate of conformity’) door een instelling over de verrichte proeven (= beoordelings-, onderzoek of beproevingsactiviteiten). Module H: Het doel van deze module is beoordelen of het kwaliteitssysteem van de fabrikant voldoet aan de desbetreffende eisen van de Richtlijn, bijlage III, module H, par. 3.2 en het toezicht houden op het blijvend voldoen door de fabrikant aan de verplichtingen voortvloeiend uit dat kwaliteitseissysteem. Dit kwaliteitssysteem betreft het ontwerp, de fabricage en de eindcontrole (eindinspectie en beproeving). Uitgangspunt is een gecertificeerd kwaliteitssysteem conform NEN-EN-ISO/IEC 9001: 2008. Module H1: Het doel van deze module is beoordelen of het kwaliteitssysteem van de fabrikant voldoet aan de desbetreffende eisen van de Richtlijn, bijlage III, module H1, punt. 1 en het toezicht houden op het blijvend voldoen door de fabrikant aan de verplichtingen voortvloeiend uit dat kwaliteitseissysteem. Dit kwaliteitssysteem betreft het ontwerp, de fabricage en de eindcontrole (eindinspectie en beproeving). Uitgangspunt is een gecertificeerd kwaliteitssysteem conform NEN-EN-ISO/IEC 9001: 2008. Daarnaast valt onder deze module onderzoek van het ontwerp en toezicht op de eindcontrole. 
 
 ### 1.3  
 
 ####Ingebruiknemingsfase
 
-Het doel van de beoordelingsprocedure is het vaststellen of de drukapparatuur na installatie, of na installatie op een nieuwe plaats van opstelling of na een wijziging voldoet aan de daarop betrekking hebbende bepalingen van het [Besluit](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md) en de Regeling. Hierop volgt het door de CKI afgeven van een ‘(voorlopige) verklaring van ingebruikneming’ voor de drukapparatuur. Doordat er meerdere drukapparaten op één Verklaring van ingebruikneming vermeld mogen worden, kan deze Verklaring betrekking hebben op een samenstel of een druksysteem, dat als zodanig aangeduid is in de nieuwbouwfase. 
+Het doel van de beoordelingsprocedure is het vaststellen of de drukapparatuur na installatie, of na installatie op een nieuwe plaats van opstelling of na een wijziging voldoet aan de daarop betrekking hebbende bepalingen van het Besluit en de Regeling. Hierop volgt het door de CKI afgeven van een ‘(voorlopige) verklaring van ingebruikneming’ voor de drukapparatuur. Doordat er meerdere drukapparaten op één Verklaring van ingebruikneming vermeld mogen worden, kan deze Verklaring betrekking hebben op een samenstel of een druksysteem, dat als zodanig aangeduid is in de nieuwbouwfase. 
 
 ### 1.4  
 
@@ -3697,22 +3697,22 @@ Het doel van de beoordelingsprocedure is het vaststellen of de drukapparatuur na
 Voor de gebruiksfase zijn de volgende keuringen en/of beoordelingen te onderscheiden: 
 ### *Herkeuring met vaste termijnen* 
 
-Het doel van de beoordeling is het vaststellen of de drukapparatuur nog voldoet aan de daarop betrekking hebbende bepalingen van het [Besluit](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md) en de Regeling. En het door de CKI afgeven van een ‘verklaring van herkeuring’, met bijbehorend rapport van herkeuring voor de drukapparatuur. 
+Het doel van de beoordeling is het vaststellen of de drukapparatuur nog voldoet aan de daarop betrekking hebbende bepalingen van het Besluit en de Regeling. En het door de CKI afgeven van een ‘verklaring van herkeuring’, met bijbehorend rapport van herkeuring voor de drukapparatuur. 
 ### *Beoordelen van termijnverlenging* 
 
-Het doel van de beoordeling is of een termijnverlenging verantwoord is en vaststellen of de drukapparatuur nog voldoet aan de daarop betrekking hebbende bepalingen van het [Besluit](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md) en de Regeling. En het door de CKI afgeven van een ‘verklaring van herkeuring’, met bijbehorend rapport van herkeuring voor de drukapparatuur. 
+Het doel van de beoordeling is of een termijnverlenging verantwoord is en vaststellen of de drukapparatuur nog voldoet aan de daarop betrekking hebbende bepalingen van het Besluit en de Regeling. En het door de CKI afgeven van een ‘verklaring van herkeuring’, met bijbehorend rapport van herkeuring voor de drukapparatuur. 
 ### *Beoordelen van termijnflexibilisering* 
 
-Het doel van de beoordeling is of een termijnflexibilisering verantwoord is en vaststellen of de drukapparatuur nog voldoet aan de daarop betrekking hebbende bepalingen van het [Besluit](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md) en de Regeling. En het door de CKI afgeven van een ‘verklaring van herkeuring’, met bijbehorend rapport van herkeuring voor de drukapparatuur. 
+Het doel van de beoordeling is of een termijnflexibilisering verantwoord is en vaststellen of de drukapparatuur nog voldoet aan de daarop betrekking hebbende bepalingen van het Besluit en de Regeling. En het door de CKI afgeven van een ‘verklaring van herkeuring’, met bijbehorend rapport van herkeuring voor de drukapparatuur. 
 ### *Intredekeuring* 
 
-Het doel van de beoordeling is het vaststellen of de drukapparatuur voldoet aan het veiligheidsniveau als bedoeld in het [Besluit](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md) ten aanzien van het beoogde gebruiksdoel. En het door de CKI afgeven van een ‘verklaring van intredekeuring en ingebruikneming’ voor de drukapparatuur met bijbehorend aantekeningblad. 
+Het doel van de beoordeling is het vaststellen of de drukapparatuur voldoet aan het veiligheidsniveau als bedoeld in het Besluit ten aanzien van het beoogde gebruiksdoel. En het door de CKI afgeven van een ‘verklaring van intredekeuring en ingebruikneming’ voor de drukapparatuur met bijbehorend aantekeningblad. 
 ### *Beoordelen van wijzigingen* 
 
-Het doel van de beoordeling is het vaststellen of in geval van wijziging van een drukapparaat in de gebruiksfase het ontwerp en/of de fabricage van de wijziging voldoet aan de desbetreffende eisen van het [Besluit](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md) en de actuele versie van de oorspronkelijk toegepaste norm(en) of ontwerp-/ constructieregels. Toepassing van andere normen of codes dient gemotiveerd te worden onderbouwd. Hierop volgt het door de CKI opstellen en afgeven aan de gebruiker van de rapportage betreffende de wijziging. Vervolgens zal de CKI de wijziging op het aantekenblad vermelden, met waar van toepassing een verwijzing naar de onderliggende rapportage en indien van toepassing het afgeven van een Verklaring van Ingebruikneming. 
+Het doel van de beoordeling is het vaststellen of in geval van wijziging van een drukapparaat in de gebruiksfase het ontwerp en/of de fabricage van de wijziging voldoet aan de desbetreffende eisen van het Besluit en de actuele versie van de oorspronkelijk toegepaste norm(en) of ontwerp-/ constructieregels. Toepassing van andere normen of codes dient gemotiveerd te worden onderbouwd. Hierop volgt het door de CKI opstellen en afgeven aan de gebruiker van de rapportage betreffende de wijziging. Vervolgens zal de CKI de wijziging op het aantekenblad vermelden, met waar van toepassing een verwijzing naar de onderliggende rapportage en indien van toepassing het afgeven van een Verklaring van Ingebruikneming. 
 ### *Beoordelen van reparaties* 
 
-Het doel van de beoordeling is het vaststellen of de reparatie van een drukapparaat in de gebruiksfase voldoet aan de desbetreffende eisen (zie toelichting op art. 14a eerste lid) van het [Besluit](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md) en de actuele versie van de oorspronkelijk toegepaste norm(en) of ontwerp-/ constructieregels. Toepassing van andere normen of codes dient gemotiveerd te worden onderbouwd. Hierop volgt het door de CKI opstellen en afgeven aan de gebruiker van rapportage betreffende de reparatie. Hierna zal de CKI de reparatie op het aantekenblad vermelden, met waar van toepassing een verwijzing naar onderliggende rapportage. 
+Het doel van de beoordeling is het vaststellen of de reparatie van een drukapparaat in de gebruiksfase voldoet aan de desbetreffende eisen (zie toelichting op art. 14a eerste lid) van het Besluit en de actuele versie van de oorspronkelijk toegepaste norm(en) of ontwerp-/ constructieregels. Toepassing van andere normen of codes dient gemotiveerd te worden onderbouwd. Hierop volgt het door de CKI opstellen en afgeven aan de gebruiker van rapportage betreffende de reparatie. Hierna zal de CKI de reparatie op het aantekenblad vermelden, met waar van toepassing een verwijzing naar onderliggende rapportage. 
 ### *Certificeren van en toezicht op de IVG (Inspectieafdeling van de Gebruiker)* 
 
 Het doel van het toezicht is het beoordelen van de werkwijze van de IVG door certificatie van het kwaliteitssysteem en het bijwonen van uitvoerende werkzaamheden van de IVG 
@@ -3727,7 +3727,7 @@ Voor de nieuwbouw, ingebruikneming en de gebruiksfase zijn de volgende aanwijzin
 
 ####Aanwijzingskavels (A)AKI
 
-a. Het aan drukapparatuur, samenstellen en druksystemen van drukapparatuur van de risicocategorie II, III of IV uitvoeren van procedures, die zijn vermeld in de modules A1, B, B1, C1, D, D1, E, E1, F, G, H, of H1 van bijlage III van de richtlijn ([art. 11](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md), [12](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md) of [12a Warenwetbesluit drukapparatuur](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md));  
+a. Het aan drukapparatuur, samenstellen en druksystemen van drukapparatuur van de risicocategorie II, III of IV uitvoeren van procedures, die zijn vermeld in de modules A1, B, B1, C1, D, D1, E, E1, F, G, H, of H1 van bijlage III van de richtlijn (art. 11, 12 of 12a Warenwetbesluit drukapparatuur);  
 
 b. Het uitvoeren van Europese materiaalgoedkeuringen in overeenstemming met artikel 11 van de richtlijn;  
 
@@ -3735,21 +3735,21 @@ c. Het overeenkomstig punt 3.1.2. van bijlage I van de richtlijn goedkeuren van 
 
 d. Het overeenkomstig punt 3.1.2. van bijlage I van de richtlijn goedkeuren van de vakbekwaamheid van personen, die permanente verbindingen maken als onderdeel van drukapparatuur van de risicocategorie II, III of IV;  
 
-e. Het uitvoeren van keuringen voor ingebruikneming aan drukapparatuur, samenstellen of druksystemen ([art.12b Warenwetbesluit drukapparatuur](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md));  
+e. Het uitvoeren van keuringen voor ingebruikneming aan drukapparatuur, samenstellen of druksystemen (art.12b Warenwetbesluit drukapparatuur);  
 
-f. Het uitvoeren van herkeuringen van drukapparatuur met vaste termijnen ([art.12c Warenwetbesluit drukapparatuur](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md));  
+f. Het uitvoeren van herkeuringen van drukapparatuur met vaste termijnen (art.12c Warenwetbesluit drukapparatuur);  
 
-g. Het beoordelen van termijnverlenging ([art. 12c Warenwetbesluit drukapparatuur](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md));  
+g. Het beoordelen van termijnverlenging (art. 12c Warenwetbesluit drukapparatuur);  
 
-h. Het beoordelen van termijnflexibilisering ([art. 12c Warenwetbesluit drukapparatuur](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md));  
+h. Het beoordelen van termijnflexibilisering (art. 12c Warenwetbesluit drukapparatuur);  
 
-i. Het uitvoeren van intredekeuringen van drukapparatuur ([art. 12d Warenwetbesluit drukapparatuur](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md));  
+i. Het uitvoeren van intredekeuringen van drukapparatuur (art. 12d Warenwetbesluit drukapparatuur);  
 
-j. Het beoordelen van reparaties in de gebruiksfase ([art. 14a Warenwetbesluit drukapparatuur](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md));  
+j. Het beoordelen van reparaties in de gebruiksfase (art. 14a Warenwetbesluit drukapparatuur);  
 
-k. Het beoordelen van wijzigingen in de gebruiksfase ([art. 14a Warenwetbesluit drukapparatuur](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md));  
+k. Het beoordelen van wijzigingen in de gebruiksfase (art. 14a Warenwetbesluit drukapparatuur);  
 
-l. Het houden van toezicht op een inspectieafdeling van de gebruiker ([art. 12c, lid 7 Warenwetbesluit drukapparatuur](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md), onderscheidenlijk [art. 14a lid 5](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md)).   
+l. Het houden van toezicht op een inspectieafdeling van de gebruiker (art. 12c, lid 7 Warenwetbesluit drukapparatuur, onderscheidenlijk art. 14a lid 5).   
 
 ### 1.5.1b  
 
@@ -3761,17 +3761,17 @@ De door de CKI gewenste uit te voeren aanwijzingskavels of combinaties daarvan w
 
 ####Aanwijzingskavels (A)KVG
 
-a. Het aan drukapparatuur, samenstellen en druksystemen van drukapparatuur van de risicocategorie II, III of IV uitvoeren van procedures, die zijn vermeld in de modules A1, C1, F of G van bijlage III van de richtlijn ([art. 11](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md), [12 of](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md) [12a Warenwetbesluit drukapparatuur](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md));  
+a. Het aan drukapparatuur, samenstellen en druksystemen van drukapparatuur van de risicocategorie II, III of IV uitvoeren van procedures, die zijn vermeld in de modules A1, C1, F of G van bijlage III van de richtlijn (art. 11, 12 of 12a Warenwetbesluit drukapparatuur);  
 
 b. Het uitvoeren van keuringen voor ingebruikneming aan drukapparatuur, samenstellen of druksystemen (art.12b Warenwetbesluit drukapparatuur);  
 
-c. Het uitvoeren van herkeuringen van drukapparatuur met vaste termijnen ([art.12c Warenwetbesluit drukapparatuur](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md));  
+c. Het uitvoeren van herkeuringen van drukapparatuur met vaste termijnen (art.12c Warenwetbesluit drukapparatuur);  
 
-d. Het uitvoeren van intredekeuringen van drukapparatuur ([art. 12d Warenwetbesluit drukapparatuur](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md));  
+d. Het uitvoeren van intredekeuringen van drukapparatuur (art. 12d Warenwetbesluit drukapparatuur);  
 
-e. Het beoordelen van reparaties in de gebruiksfase ([art. 14a Warenwetbesluit drukapparatuur](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md));  
+e. Het beoordelen van reparaties in de gebruiksfase (art. 14a Warenwetbesluit drukapparatuur);  
 
-f. Het beoordelen van wijzigingen in de gebruiksfase ([art. 14a Warenwetbesluit drukapparatuur](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md)).   
+f. Het beoordelen van wijzigingen in de gebruiksfase (art. 14a Warenwetbesluit drukapparatuur).   
 
 ### 1.5.3  
 
@@ -3793,16 +3793,16 @@ c. Het overeenkomstig punt 3.1.3. van bijlage I van de richtlijn goedkeuren van 
 | Aanmelding  | :  | Aanmelding bij de EC van een CKI bij of krachtens wettelijk voorschrift door de minister van SZW.  |
 | Aanwijzing  | :  | Aanwijzing van een instelling of dienst bij of krachtens wettelijk voorschrift door de minister van SZW.  |
 | AAKI  | :  | Aangemelde Aangewezen Keurings-Instelling is een door de overheid aangewezen en bij de Europese Commissie (EC) aangemelde CKI met toezichthoudende taken bij het ontwerp, de fabricage, en de eindcontrole van drukapparatuur en beoordeling van kwaliteitssystemen.  |
-| I-SZW  | :  | Inspectie-SZW: toezichthouder/handhaver voor het [Warenwetbesluit drukapparatuur](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md).  |
+| I-SZW  | :  | Inspectie-SZW: toezichthouder/handhaver voor het Warenwetbesluit drukapparatuur.  |
 | AKI  | :  | Aangewezen Keurings-Instelling is een door de overheid aangewezen CKI met toezichthoudende taken bij de samenbouw, de ingebruikneming en het gebruik van drukapparatuur en beoordeling van kwaliteitssystemen.  |
 | AKVG  | :  | Aangemelde Aangewezen Keuringsdienst van de Gebruiker Instelling is een door de overheid aangewezen en bij de EC aangemelde CKI met toezichthoudende taken bij het ontwerp, de fabricage, en de eindcontrole van drukapparatuur ten behoeve van de eigen organisatie.  |
 | Beoordeling CKI  | :  | Beoordeling (initiële, of her-) door de RvA van instellingen en diensten op basis van het door de minister van SZW vastgestelde WDA&T, op grond waarvan de RvA schriftelijk rapporteert of de instelling of dienst competent is om wettelijk verplichte certificaten af te geven.  |
-| Besluit  | :  | [Warenwetbesluit drukapparatuur](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md).  |
+| Besluit  | :  | Warenwetbesluit drukapparatuur.  |
 | Centraal College van Deskundigen (CCvD-DA)  | :  | Het college, onderdeel van en/gefaciliteerd door de Stichting CCvD-DA, dat belanghebbende partijen in een bepaalde sector of branche de mogelijkheid biedt tot deelname bij het opstellen en onderhouden van dit document op zodanige wijze dat sprake is van een evenwichtige en representatieve vertegenwoordiging van deze partijen.  |
 | Certificaat  | :  | Een certificaat in de zin van artikel 20 Arbowet en artikel 27 Warenwet. Daarnaast moet een certificaat beschouwd worden als een verklaring van overeenstemming (conformiteitsverklaring) zoals bedoeld in relevante ISO en EN normen.  |
-| Certificering en Keurings-Instelling (CKI)  | :  | Kalibratie- of conformiteitsbeoordelingsinstellingen zoals certificatie-instellingen, keuringsdiensten van gebruikers, laboratoria, inspectie-instellingen en testinstituten. Conform het [Warenwetbesluit Drukapparatuur](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md) worden de volgende CKI’s onderscheiden: AAKI; AKI; AKVG; KVG; erkende onafhankelijke instelling.  |
+| Certificering en Keurings-Instelling (CKI)  | :  | Kalibratie- of conformiteitsbeoordelingsinstellingen zoals certificatie-instellingen, keuringsdiensten van gebruikers, laboratoria, inspectie-instellingen en testinstituten. Conform het Warenwetbesluit Drukapparatuur worden de volgende CKI’s onderscheiden: AAKI; AKI; AKVG; KVG; erkende onafhankelijke instelling.  |
 | Competentie  | :  | Een competentie is handelen dat bijdraagt aan het succesvol kunnen uitvoeren van een functie en dat past in de gewenste organisatiecultuur.   |
-| EG-Verklaring van overeenstemming (VvO)  | :   | De EG-verklaring van typeonderzoek of EG-verklaring van overeenstemming als bedoeld in de Richtlijn drukapparatuur danwel een verklaring van typeonderzoek of verklaring van overeenstemming als bedoeld in het [Warenwetbesluit Drukapparatuur](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md).  |
+| EG-Verklaring van overeenstemming (VvO)  | :   | De EG-verklaring van typeonderzoek of EG-verklaring van overeenstemming als bedoeld in de Richtlijn drukapparatuur danwel een verklaring van typeonderzoek of verklaring van overeenstemming als bedoeld in het Warenwetbesluit Drukapparatuur.  |
 | EWT  | :  | European Welding Technologist.  |
 | Inspectie  | :  | Een inspectie is een controle van de documenten en de fysieke conditie van een apparaat, teneinde te kunnen beoordelen of voldaan wordt aan de van toepassing zijnde normen.  |
 | IVG  | :  | Inspectiedienst van de Gebruiker.  |
@@ -3846,7 +3846,7 @@ Binnen het kader van dit document voor aanwijzing en toezicht zijn bij de opstel
 
 ####Risicoanalyse
 
-De Nederlandse overheid maakt in de publieke sector gebruik van het private systeem van certificatie. Het doel van certificatie is in het algemeen het garanderen dat een product, systeem of dienst aan bepaalde eisen voldoet en indien wenselijk ook blijft voldoen. De waarde van certificatie in de publiekrechtelijke sfeer in het bijzonder is de mate van algemeen vertrouwen en zekerheid die wordt bereikt met een onderzoek gebaseerd op dit certificatieschema. De resultaten van dit onderzoek vormen de basis voor SZW om tot aanwijzing van instellingen en diensten te besluiten. De instellingen en diensten zijn werkzaam in het werkveld drukapparatuur. In dit werkveld gaat het om risico’s die verband houden met de overdruk die heerst in drukapparatuur. Het mogelijk vrijkomen van de inhoud is een risico dat aan dit soort apparatuur verbonden is. Afhankelijk van de brandbaarheid, fysische explosiviteit en giftigheid kan dit risico’s voor de veiligheid en gezondheid van medewerkers en omwonenden en risico’s voor het milieu met zich meebrengen. Gelet op de rol van de instellingen en diensten bestaan er, vaak als gevolg van externe factoren, risico’s die het beoogde functioneren, het vertrouwen in en de zekerheid van deze instellingen of diensten kunnen schaden en het beoogde doel van certificatie ondermijnen. De instelling of dienst dient in alle gevallen haar werkzaamheden op integere, onpartijdige en onafhankelijke wijze uit te voeren en zal daarbij rekening houden met de mogelijke risico’s in de volgende gebieden: de autonomie in onderzoek (inspecteren, keuren, auditeren), rapportage en certificatie (zie o.a. hoofdstuk 4 uit de ISO/IEC 17020: 2004 en paragrafen 5.1. en 5.2 van de NEN-EN-ISO/IEC 17021: 2011 voor voorzieningen die dit risico moeten beperken); het niveau van deskundigheid en vakbekwaamheid (zie o.a. hoofdstuk 8 uit de NEN-EN-ISO/IEC 17020: 2004 voor voorzieningen die dit risico moeten beperken); het hanteren van vertrouwelijke informatie (zie o.a. paragraaf 8.5 van de NEN-EN-ISO/IEC 17021: 2011 voor voorzieningen die dit risico moeten beperken); de mate van transparantie van de werkprocessen; het verwerken van ontvangen klachten en bezwaren (zie o.a. hoofdstuk 15 uit de NEN-EN-ISO/IEC 17020: 2004 en paragrafen 9.8 van de NEN-EN-ISO/IEC 17021: 2011 voor voorzieningen die dit risico moeten beperken); het nemen van verantwoordelijkheid voor uitgevoerde taken (zie o.a. paragraaf 7.5 uit de NEN-EN-ISO/IEC 17020: 2004 voor voorzieningen die dit risico moeten beperken). Enkele voor de hand liggende risico’s voor instellingen en diensten zijn: onterecht een verklaring of certificaat afgeven; onterecht een verklaring of certificaat niet afgeven, schorsen of intrekken; inbreuken op de vertrouwelijkheid; inbreuken op de onpartijdigheid; inbreuken op het omgaan met ontoelaatbare (financiële) druk; inbreuken op de vereiste competenties en de gevolgen daarvan. Een instelling, die toezicht houdt op een inspectiedienst van de gebruiker, heeft te maken met het risico dat de instelling voor het geven van het eindoordeel grotendeels moet afgaan op gegevens die niet onder zijn verantwoordelijkheid tot stand zijn gekomen. 
+De Nederlandse overheid maakt in de publieke sector gebruik van het private systeem van certificatie. Het doel van certificatie is in het algemeen het garanderen dat een product, systeem of dienst aan bepaalde eisen voldoet en indien wenselijk ook blijft voldoen. De waarde van certificatie in de publiekrechtelijke sfeer in het bijzonder is de mate van algemeen vertrouwen en zekerheid die wordt bereikt met een onderzoek gebaseerd op dit certificatieschema. De resultaten van dit onderzoek vormen de basis voor SZW om tot aanwijzing van instellingen en diensten te besluiten. De instellingen en diensten zijn werkzaam in het werkveld drukapparatuur. In dit werkveld gaat het om risico’s die verband houden met de overdruk die heerst in drukapparatuur. Het mogelijk vrijkomen van de inhoud is een risico dat aan dit soort apparatuur verbonden is. Afhankelijk van de brandbaarheid, fysische explosiviteit en giftigheid kan dit risico’s voor de veiligheid en gezondheid van medewerkers en omwonenden en risico’s voor het milieu met zich meebrengen. Gelet op de rol van de instellingen en diensten bestaan er, vaak als gevolg van externe factoren, risico’s die het beoogde functioneren, het vertrouwen in en de zekerheid van deze instellingen of diensten kunnen schaden en het beoogde doel van certificatie ondermijnen. De instelling of dienst dient in alle gevallen haar werkzaamheden op integere, onpartijdige en onafhankelijke wijze uit te voeren en zal daarbij rekening houden met de mogelijke risico’s in de volgende gebieden: de autonomie in onderzoek (inspecteren, keuren, auditeren), rapportage en certificatie (zie o.a. paragraaf 4.1 uit de NEN-EN-ISO/IEC 17020:2012 en paragrafen 5.1. en 5.2 van de NEN-EN-ISO/IEC 17021: 2011 voor voorzieningen die dit risico moeten beperken); het niveau van deskundigheid en vakbekwaamheid (zie o.a. paragraaf 6.1 uit de NEN-EN-ISO/IEC 17020: 2012 voor voorzieningen die dit risico moeten beperken); het hanteren van vertrouwelijke informatie (zie o.a. paragraaf 8.5 van de NEN-EN-ISO/IEC 17021: 2011 voor voorzieningen die dit risico moeten beperken); de mate van transparantie van de werkprocessen; het verwerken van ontvangen klachten en bezwaren (zie o.a. paragraaf 7.5 uit de NEN-EN-ISO/IEC 17020: 2012 en paragrafen 9.8 van de NEN-EN-ISO/IEC 17021: 2011 voor voorzieningen die dit risico moeten beperken); het nemen van verantwoordelijkheid voor uitgevoerde taken (zie o.a. paragraaf 5.1.4 uit de NEN-EN-ISO/IEC 17020: 2012 voor voorzieningen die dit risico moeten beperken). Enkele voor de hand liggende risico’s voor instellingen en diensten zijn: onterecht een verklaring of certificaat afgeven; onterecht een verklaring of certificaat niet afgeven, schorsen of intrekken; inbreuken op de vertrouwelijkheid; inbreuken op de onpartijdigheid; inbreuken op het omgaan met ontoelaatbare (financiële) druk; inbreuken op de vereiste competenties en de gevolgen daarvan. Een instelling, die toezicht houdt op een inspectiedienst van de gebruiker, heeft te maken met het risico dat de instelling voor het geven van het eindoordeel grotendeels moet afgaan op gegevens die niet onder zijn verantwoordelijkheid tot stand zijn gekomen. 
 
 ### 4  
 
@@ -3888,7 +3888,7 @@ c. Goedkeuren van Niet Destructief Onderzoek personeel.
 
 ####Beoordeling producten (drukapparatuur)
 
-a. NEN-EN-ISO/IEC 17020:2004 (Type A)  
+a. NEN-EN-ISO/IEC 17020:2012 (Type A)  
 
 b. Dit document  
 
@@ -3908,7 +3908,7 @@ c. Bijlage IV van de Richtlijn drukapparatuur
 
 ####Eisen aan de (A)KVG
 
-a. NEN-EN-ISO/IEC 17020:2004 (Type B)  
+a. NEN-EN-ISO/IEC 17020:2012 (Type B)  
 
 b. Dit document  
 
@@ -3922,7 +3922,7 @@ c. Bijlage V van de Richtlijn drukapparatuur
 
 ####Voor goedkeuren van permanente verbindingen
 
-a. NEN-EN-ISO/IEC 17020:2004 (Type A)  
+a. NEN-EN-ISO/IEC 17020:2012 (Type A)  
 
 b. Dit document  
 
@@ -3932,7 +3932,7 @@ c. Bijlage IV van de Richtlijn drukapparatuur
 
 ####Voor het goedkeuren van personeel voor NDO/permanente verbindingen
 
-a. NEN-EN-ISO/IEC 17024:2003 (Type A)  
+a. NEN-EN-ISO/IEC 17024:2012  
 
 b. Dit document  
 
@@ -3942,23 +3942,23 @@ c. Bijlage IV van de Richtlijn drukapparatuur   Naast de hiervoor opgesomde eise
 
 ####Specifieke invulling beoordeling producten (drukapparatuur)
 
-Ten aanzien van de beoordeling van producten (drukapparatuur) conform NEN-EN-ISO/IEC 17020:2004 gelden de volgende criteria ten aanzien van de paragrafen 4.2, 6, 7, 8, 9, 10 en 13 uit deze norm als nadere invulling. Eisen die in het hiernavolgende gesteld worden aan personeel gelden voor zowel eigen personeel als voor ingehuurd extern personeel. 
-### *Paragraaf 4.2 van NEN-EN-ISO/IEC 17020:2004: Onafhankelijkheid* 
+Ten aanzien van de beoordeling van producten (drukapparatuur) conform NEN-EN-ISO/IEC 17020:2012 gelden de volgende criteria ten aanzien van de paragrafen 4.1, 5.2, 6.1, 6.2, 7.1, 7.4 en 8 uit deze norm als nadere invulling. Eisen die in het hiernavolgende gesteld worden aan personeel gelden voor zowel eigen personeel als voor ingehuurd extern personeel. 
+### *Paragraaf 4.1 van NEN-EN-ISO/IEC 17020:2012: Onafhankelijkheid* 
 
 De CKI moet onafhankelijk zijn in de mate die vereist is met het oog op de voorwaarden waaronder ze haar diensten verstrekt. Afhankelijk van deze voorwaarde dient ze te voldoen aan de minimumcriteria bepaald in een van de normatieve typen: Type A of B. CKI van type A (AAKI, AKI): De CKI die als ‘derde partij’ diensten verstrekt, moet voldoen aan de volgende criteria (normatief): A.1 De CKI moet onafhankelijk zijn ten opzichte van de betrokken partijen. De CKI, en haar personeel dat verantwoordelijk is voor de keuring, mogen niet de ontwerper, vervaardiger, leverancier, installateur, inkoper, eigenaar, gebruiker of onderhoudsuitvoerder zijn van de objecten die ze keuren, noch de gemachtigde vertegenwoordiger van een of meer van deze partijen. A.2 De CKI en haar personeel mogen zich niet inlaten met activiteiten die tegenstrijdig kunnen zijn met de onafhankelijkheid van hun oordeel en hun integriteit met betrekking tot hun keuringsactiviteiten. In het bijzonder mogen ze niet rechtstreeks betrokken zijn bij het ontwerp, de vervaardiging, levering, installatie, het gebruik of onderhoud van de gekeurde objecten, of van gelijksoortige objecten die ermee concurreren. A.3 Alle geïnteresseerde partijen moeten gebruik kunnen maken van de diensten van de CKI. Er mogen geen buitensporige financiële of andere voorwaarden worden gesteld. De procedures volgens welke de CKI werkt, moeten op een niet-discriminerende wijze worden toegepast. 
 ### *4.2.2 CKI van type B (AKVG, KVG)* 
 
 De CKI die een afzonderlijk en identificeerbaar deel vormt van een organisatie die betrokken is bij het ontwerp, de fabricage, de levering, de installatie, het gebruik of het onderhoud van de objecten die door de CKI worden gekeurd, en die is opgericht om keuringsdiensten te verstrekken aan haar moederorganisatie, moet voldoen aan de volgende criteria (normatief): B.1  Er moet een duidelijke scheiding tot stand worden gebracht tussen de verantwoordelijkheden van het keuringspersoneel en die van het personeel dat in andere functies is te werkgesteld, door identificatie van de CKI binnen de organisatie en doorvastlegging van de wijzen waarop zij verslag uitbrengt binnen de moederorganisatie. B.2  De CKI en haar personeel mogen zich niet inlaten met activiteiten die in conflict kunnen zijn met de onafhankelijkheid van hun oordeel en hun integriteit met betrekking tot hun keuringsactiviteiten. In het bijzonder mogen ze niet rechtstreeks betrokken zijn bij het ontwerp, de vervaardiging, levering, installatie, het gebruik of onderhoud van de gekeurde objecten, of van gelijksoortige objecten die ermee concurreren. B.3  Keuringsdiensten mogen uitsluitend worden verstrekt aan de organisatie waarvan de CKI deel uitmaakt. 
-### *Paragrafen 6, 7 en 8 van NEN-EN-ISO/IEC 17020: 2004: Organisatie en Personeel* 
+### *Paragrafen 5.2, 6.1 en 8 van NEN-EN-ISO/IEC 17020: 2012: Organisatie en Personeel* 
 
-Binnen de CKI zijn functies onderscheiden waaraan specifieke vakbekwaamheidseisen worden gesteld. De CKI moet zijn personeel voor die te onderscheiden functies aantoonbaar kwalificeren. Uit de beschrijving van de organisatie moet blijken dat de betrokken medewerkers bij de uitoefening van hun taken beschermd worden tegen het optreden van strijdige belangen. In aanvulling op NEN-EN-ISO/IEC 17020:2004, par. 6 met betrekking tot organisatie en management en par. 8 met betrekking tot personeel, is van toepassing hetgeen bij de desbetreffende functieomschrijvingen is aangegeven in de bijlagen 1 en 2 van dit schema. Organisatieschema: In of bij het organisatieschema dienen de namen van de beschreven functionarissen en de namen van hun plaatsvervangers te worden aangegeven. Het staat de CKI vrij aan deze functionarissen andere functiebenamingen toe te kennen mits eenduidig een relatie wordt gegeven met de beschreven functiebenamingen. Taken, verantwoordelijkheden en bevoegdheden: In de vastgelegde procedures die de CKI hanteert moeten de verantwoordelijkheden en bevoegdheden worden aangegeven voor de in de procedures beschreven taken. Interne audits: In de vastgelegde procedures moet voorzien zijn in een systeem van jaarlijkse interne audits, welke er in resulteren dat in een periode van 3 jaar het volledige systeem is geaudit, waarbij het managementreview en de klachtenafhandeling jaarlijks worden beoordeeld.  Personeel: In vastgelegde procedures wordt de competentie van de persoon (in de praktijk geconstateerde kennis) vastgesteld. 
-### *Paragraaf 9 van NEN-EN-ISO/IEC 17020: 2004: Faciliteiten voor metingen en beproevingen* 
+Binnen de CKI zijn functies onderscheiden waaraan specifieke vakbekwaamheidseisen worden gesteld. De CKI moet zijn personeel voor die te onderscheiden functies aantoonbaar kwalificeren. Uit de beschrijving van de organisatie moet blijken dat de betrokken medewerkers bij de uitoefening van hun taken beschermd worden tegen het optreden van strijdige belangen. In aanvulling op NEN-EN-ISO/IEC 17020:2012, par. 5.2 met betrekking tot organisatie en management en par. 6.1 met betrekking tot personeel, is van toepassing hetgeen bij de desbetreffende functieomschrijvingen is aangegeven in de bijlagen 1 en 2 van dit schema. Organisatieschema: In of bij het organisatieschema dienen de namen van de beschreven functionarissen en de namen van hun plaatsvervangers te worden aangegeven. Het staat de CKI vrij aan deze functionarissen andere functiebenamingen toe te kennen mits eenduidig een relatie wordt gegeven met de beschreven functiebenamingen. Taken, verantwoordelijkheden en bevoegdheden: In de vastgelegde procedures die de CKI hanteert moeten de verantwoordelijkheden en bevoegdheden worden aangegeven voor de in de procedures beschreven taken. Interne audits: In de vastgelegde procedures moet voorzien zijn in een systeem van jaarlijkse interne audits, welke er in resulteren dat in een periode van 3 jaar het volledige systeem is geaudit, waarbij het managementreview en de klachtenafhandeling jaarlijks worden beoordeeld.  Personeel: In vastgelegde procedures wordt de competentie van de persoon (in de praktijk geconstateerde kennis) vastgesteld. 
+### *Paragraaf 6.2 van NEN-EN-ISO/IEC 17020: 2012: Faciliteiten voor metingen en beproevingen* 
 
-Voor de uitvoering van onderzoeken en beproevingen in het kader van het werkveld moet de CKI beschikken over adequate faciliteiten. NEN-EN-ISO/IEC 17020:2004, par. 9 is van toepassing op de voorzieningen en uitrusting. De faciliteiten die beschikbaar moeten zijn, volgen uit de proefnemingen en metingen die voor de te onderzoeken drukapparatuur zijn voorgeschreven, of gebruikelijk zijn. In de regel geven de in paragraaf 4.24 van het schema voor beoordeling van drukapparatuur de bedoelde normen en technische maatstaven daarover de benodigde informatie. De uitrusting voor de beproevingen dient in beginsel te voldoen aan NEN-EN-ISO/IEC 17025: 2005. Indien de CKI gebruik maakt van voorzieningen en uitrusting van derden, dan dient de CKI een gedocumenteerde werkwijze te hanteren welke borgt dat de gebruikte voorzieningen en uitrustingen geschikt en toereikend zijn, waaronder een geldige kalibratie. 
-### *Paragraaf 10 van NEN-EN-ISO/IEC 17020: 2004: Keuringsmethoden en -rocedures* 
+Voor de uitvoering van onderzoeken en beproevingen in het kader van het werkveld moet de CKI beschikken over adequate faciliteiten. NEN-EN-ISO/IEC 17020:2012, par. 6.2 is van toepassing op de voorzieningen en uitrusting. De faciliteiten die beschikbaar moeten zijn, volgen uit de proefnemingen en metingen die voor de te onderzoeken drukapparatuur zijn voorgeschreven, of gebruikelijk zijn. In de regel geven de in paragraaf 4.24 van het schema voor beoordeling van drukapparatuur de bedoelde normen en technische maatstaven daarover de benodigde informatie. De uitrusting voor de beproevingen dient in beginsel te voldoen aan NEN-EN-ISO/IEC 17025: 2005. Indien de CKI gebruik maakt van voorzieningen en uitrusting van derden, dan dient de CKI een gedocumenteerde werkwijze te hanteren welke borgt dat de gebruikte voorzieningen en uitrustingen geschikt en toereikend zijn, waaronder een geldige kalibratie. 
+### *Paragraaf 7.1 van NEN-EN-ISO/IEC 17020: 2012: Keuringsmethoden en -procedures* 
 
-De CKI moet gebruik maken van de relevante keuringsmethoden en -procedures zoals beschreven in hoofdstuk 4 van het schema voor beoordeling van drukapparatuur.  
-### *Paragraaf 13 van NEN-EN-ISO/IEC 17020: 2004: Inspectierapportages en verklaringen* 
+De CKI moet gebruik maken van de relevante Keuringsmethoden en -procedures zoals beschreven in hoofdstuk 4 van het schema voor beoordeling van drukapparatuur.  
+### *Paragraaf 7.4 van NEN-EN-ISO/IEC 17020: 2012: Inspectierapportages en verklaringen* 
 
 De CKI moet inspectierapportages en verklaringen opstellen. In de hoofdstukken 4 en 9 van het schema voor beoordeling van drukapparatuur wordt dit nader uitgewerkt.  
 
@@ -4084,13 +4084,13 @@ Toelichting op de tabel V = Verplicht aanwezig binnen de organisatie van de (A)A
 |  *Wijzigingen in de gebruiksfase*   |
 | Senior Ontwerpbeoordelaar  | V  | V  | P  | – Beoordeelt ontwerpen;  – Stelt het eindoordeel over een gewijzigd ontwerp vast.  |
 | Ontwerpbeoordelaar  | O  | O  | P  | Beoordeelt gewijzigde ontwerpen onder verantwoordelijkheid van de Senior Ontwerp-beoordelaar.  |
-| Senior Inspecteur  | V  | V  | P  | – Stelt eindoordeel vast over wijzigingen bedoeld in het [besluit art. 14a, lid 2, 3, 5 en 6](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md);  – Ondertekent indien van toepassing de ‘verklaring voor ingebruikneming’ en de ‘verklaring van herkeuring’.   |
+| Senior Inspecteur  | V  | V  | P  | – Stelt eindoordeel vast over wijzigingen bedoeld in het besluit art. 14a, lid 2, 3, 5 en 6;  – Ondertekent indien van toepassing de ‘verklaring voor ingebruikneming’ en de ‘verklaring van herkeuring’.   |
 | Inspecteur  | O  | O  | P  | Voert inspecties uit onder verantwoordelijkheid van de Senior Inspecteur. Neemt waar nodig in verband met de procesgang zelfstandig beslissingen over deelaspecten.  |
 | Specialist Materiaalkunde  | E  | E  | P  | --- |
 | Specialist NDO  | E  | E  | P  | --- |
 | Verbindingsdeskundige  | E  | E  | P  | --- |
 |  *Reparaties in de gebruiksfase*   |
-| Senior Inspecteur  | V  | V  | P  | – Voert inspecties uit;  – Stelt eindoordeel vast over de reparaties bedoeld in het [besluit art. 14a, lid 2, 3, 5 en 6](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md).   |
+| Senior Inspecteur  | V  | V  | P  | – Voert inspecties uit;  – Stelt eindoordeel vast over de reparaties bedoeld in het besluit art. 14a, lid 2, 3, 5 en 6.   |
 | Inspecteur  | O  | O  | P  | Voert inspecties uit onder verantwoordelijkheid van de Senior Inspecteur. Neemt waar nodig in verband met de procesgang zelfstandig beslissingen over deelaspecten.  |
 | Specialist Materiaalkunde  | E  | E  | P  | --- |
 | Specialist NDO  | E  | E  | P  | --- |
@@ -4119,7 +4119,7 @@ Het voldoen aan de vakbekwaamheidseisen dient door de CKI per geval gemotiveerd 
 
 | Algemene eisen  | Functies  | Omschrijving  |
 |:---|:---|:---|
-| Technisch Manager  (zoals bedoeld in NEN-EN-ISO/IEC 17020:2004 par. 6.3)  | Technische HBO-opleiding en tenminste tien jaar praktijkervaring met projecten / werkzaamheden in het kader van het werkveld van dit schema.  |
+| Technisch Manager  (zoals bedoeld in NEN-EN-ISO/IEC 17020:2012 par. 5.2.5)  | Technische HBO-opleiding en tenminste tien jaar praktijkervaring met projecten / werkzaamheden in het kader van het werkveld van dit schema.  |
 | Senior Ontwerpbeoordelaar  | Technische HBO-opleiding en vijf jaar actuele ervaring in ontwerpbeoordeling van drukapparatuur, of aantoonbaar gelijkwaardig.  |
 | Ontwerpbeoordelaar  | Technische HBO-opleiding en twee jaar actuele ervaring in ontwerpbeoordeling van drukapparatuur, gespecificeerd naar deelaspecten.  |
 | Senior Inspecteur  | (naar keuze a+b of a+ c)  a. Technische HBO-opleiding en vijf jaar actuele ervaring in engineering en/of onderhoud en/of inspectie van drukapparatuur;   b. Certificaat I&K niveau III met actuele ervaring op het gebied van drukapparatuur;  c. Certificaat LPI met 5 jaar actuele ervaring en kennis op het gebied van inspectie van drukapparatuur.  |
@@ -4133,9 +4133,9 @@ Specifieke (aanvullende) eisen: Voor alle functies geldt dat men voldoende kenni
 | Specifieke (aanvullende) eisen  | Functies  | Omschrijving  |
 |:---|:---|:---|
 |  *Overeenstemmingsbeoordeling*   |
-| Lead-auditor en auditor  | NEN-EN-ISO/IEC 19011: 2002 met basiskennis op het gebied van drukapparatuurtechnologie.  |
-| Vakdeskundige in auditteam  | (a en b en indien van toepassing c)  a. Technische HBO-opleiding en vijf jaar actuele ervaring in engineering en/of onderhoud en/of inspectie van drukapparatuur;  b. Opleiding als auditor (NEN-EN-ISO/IEC 9001: 2000);  c. Voor module H en H1 tevens: Technische HBO-opleiding en twee jaar actuele ervaring in ontwerpbeoordeling van drukapparatuur, gespecificeerd naar deelaspecten.  |
-| Certificatiebeslisser  | Gekwalificeerd lead auditor (NEN-EN-ISO/IEC 19011: 2002) met basiskennis op het gebied van drukapparatuurtechnologie.  |
+| Lead-auditor en auditor  | NEN-EN-ISO/IEC 19011:2012 met basiskennis op het gebied van drukapparatuurtechnologie.  |
+| Vakdeskundige in auditteam  | (a en b en indien van toepassing c)  a. Technische HBO-opleiding en vijf jaar actuele ervaring in engineering en/of onderhoud en/of inspectie van drukapparatuur;  b. Opleiding als auditor (NEN-EN-ISO/IEC 9001:2008);  c. Voor module H en H1 tevens: Technische HBO-opleiding en twee jaar actuele ervaring in ontwerpbeoordeling van drukapparatuur, gespecificeerd naar deelaspecten.  |
+| Certificatiebeslisser  | Gekwalificeerd lead auditor (NEN-EN-ISO/IEC 19011:2012) met basiskennis op het gebied van drukapparatuurtechnologie.  |
 |  *Herkeuring ‘vaste termijnen’ en ‘overschrijden jaargrens’*   |
 | Senior Inspecteur  | Kennisgebieden:   – degradatiemechanismen;  – effectiviteit van inspectie- en NDO-activiteiten;  – evaluatie van inspectieresultaten en incidenten;  – beoordelen van grenswaarden voor het gebruik.  |
 | Inspecteur  | Kennisgebied:   degradatiemechanismen.  |
@@ -4146,11 +4146,11 @@ Specifieke (aanvullende) eisen: Voor alle functies geldt dat men voldoende kenni
 | Senior Inspecteur  | Kennisgebieden:   – effectiviteit van inspectie- en NDO-activiteiten;  – evaluatie van inspectieresultaten en incidenten;  – beoordelen van grenswaarden voor factoren, die de integriteit van de drukapparatuur bepalen;  – risicomethodieken, m.n. van degradatiemechanismen;  – beheersmaatregelen op het gebied van onderhoud, inspectie en procesvoering rekening houdend met het ontwerp en fabricage;  – beheersbaarheid van de gebruiksomstandigheden, die de integriteit van de drukapparatuur bepalen;  – RBI methodieken.  |
 | Inspecteur  | Kennisgebieden:  – degradatiemechanismen;  – RBI methodieken.  |
 |  *Toezicht op door IVG uitgevoerde taken*   |
-| Lead-auditor en auditor  | NEN-EN-ISO/IEC 19011: 2002 met basiskennis op het gebied van drukapparatuurtechnologie.  |
-| Vakdeskundige in auditteam   herkeuring   termijnverlenging   termijnflexibilisering   wijzigingen   reparaties  | ( a en b)  a. Opleiding als auditor (NEN-EN-ISO/IEC 9001: 2000);  b. Voldoet aan de eisen voor senior inspecteur en senior ontwerpbeoordelaar.  Kennisgebied:  – Voldoet aan de in deze tabel beschreven kennisgebieden van een senior inspecteur, in relatie met de te auditten taken van de IVG.  |
-| Certificatiebeslisser  | Gekwalificeerd lead auditor (NEN-EN-ISO/IEC 19011: 2002) met basiskennis op het gebied van drukapparatuurtechnologie.  |
-| Senior Inspecteur  | Basiskennis op het gebied van (NEN-EN-ISO/IEC 9001: 2000).  |
-| Senior Ontwerpbeoordelaar  | Basiskennis op het gebied van (NEN-EN-ISO/IEC 9001: 2000).   |
+| Lead-auditor en auditor  | NEN-EN-ISO/IEC 19011:2012 met basiskennis op het gebied van drukapparatuurtechnologie.  |
+| Vakdeskundige in auditteam   herkeuring   termijnverlenging   termijnflexibilisering   wijzigingen   reparaties  | ( a en b)  a. Opleiding als auditor (NEN-EN-ISO/IEC 9001:2008);  b. Voldoet aan de eisen voor senior inspecteur en senior ontwerpbeoordelaar.  Kennisgebied:  – Voldoet aan de in deze tabel beschreven kennisgebieden van een senior inspecteur, in relatie met de te auditten taken van de IVG.  |
+| Certificatiebeslisser  | Gekwalificeerd lead auditor (NEN-EN-ISO/IEC 19011:2012) met basiskennis op het gebied van drukapparatuurtechnologie.  |
+| Senior Inspecteur  | Basiskennis op het gebied van (NEN-EN-ISO/IEC 9001:2008).  |
+| Senior Ontwerpbeoordelaar  | Basiskennis op het gebied van (NEN-EN-ISO/IEC 9001:2008).   |
 
 ### Bijlage 3 
 
@@ -4271,13 +4271,13 @@ De gebruiksfase kent één aanwijzingskavel waarbij een systeembeoordeling van t
 | AAKI  | :  | Aangemelde Aangewezen Keurings Instelling is een door de overheid aangewezen en bij de EC aangemelde CKI met toezichthoudende taken bij het ontwerp, de fabricage, en de eindcontrole van drukapparatuur.  |
 | AKI  | :  | Aangewezen Keurings Instelling is een door de overheid aangewezen CKI met toezichthoudende taken bij de samenbouw, de ingebruikneming en het gebruik van drukapparatuur.  |
 | AKVG  | :  | Aangemelde Aangewezen Keuringsdienst van de Gebruiker Instelling is een door de overheid aangewezen en bij de EC aangemelde CKI met toezichthoudende taken bij het ontwerp, de fabricage, en de eindcontrole van drukapparatuur ten behoeve van de eigen organisatie.  |
-| Besluit  | :  | [Warenwetbesluit drukapparatuur](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md)  |
+| Besluit  | :  | Warenwetbesluit drukapparatuur  |
 | Centraal College van Deskundigen (CCvD)  | :  | Het college, onderdeel van en gefaciliteerd door de Stichting CCvD-DA, dat belanghebbende partijen in een bepaalde sector of branche de mogelijkheid biedt tot deelname bij het opstellen en onderhouden van werkveldspecifieke documenten op zodanige wijze dat sprake is van een evenwichtige en representatieve vertegenwoordiging van deze partijen.  |
 | Certificaat  | :  | Een certificaat in de zin van artikel 7 Warenwet. Daarnaast moet een certificaat beschouwd worden als een verklaring van overeenstemming (conformiteitsverklaring) zoals bedoeld in relevante ISO en EN normen.  |
 | Certificaathouder  | :  | (rechts) Persoon die in het bezit is van een geldig wettelijk verplicht certificaat.  |
 | Certificatiesysteem  | :  | Set van procedures en middelen benodigd om het certificatieproces uit te voeren per certificatieschema, dat leidt tot de uitgifte van een certificaat van vakbekwaamheid, inclusief onderhoud.  |
-| Certificerings en Keurings-instelling (CKI)  | :  | Kalibratie- of conformiteitsbeoordelingsinstellingen zoals certificatie-instellingen, keuringsdiensten van gebruikers, laboratoria, inspectie-instellingen en testinstituten. Conform het [Warenwetbesluit Drukapparatuur](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md) worden de volgende CKI’s onderscheiden: AAKI; AKI; AKVG; KVG; erkende onafhankelijke instelling.  |
-| EG-verklaring van overeenstemming (VvO)  | :   | De EG-verklaring van typeonderzoek of EG-verklaring van overeenstemming als bedoeld in de Richtlijn drukapparatuur danwel een verklaring van typeonderzoek of verklaring van overeenstemming als bedoeld in het [Warenwetbesluit drukapparatuur](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md).  |
+| Certificerings en Keurings-instelling (CKI)  | :  | Kalibratie- of conformiteitsbeoordelingsinstellingen zoals certificatie-instellingen, keuringsdiensten van gebruikers, laboratoria, inspectie-instellingen en testinstituten. Conform het Warenwetbesluit Drukapparatuur worden de volgende CKI’s onderscheiden: AAKI; AKI; AKVG; KVG; erkende onafhankelijke instelling.  |
+| EG-verklaring van overeenstemming (VvO)  | :   | De EG-verklaring van typeonderzoek of EG-verklaring van overeenstemming als bedoeld in de Richtlijn drukapparatuur danwel een verklaring van typeonderzoek of verklaring van overeenstemming als bedoeld in het Warenwetbesluit drukapparatuur.  |
 | NEN-EN 10204: 1995  | :  | Vervallen norm: Producten van Metaal – Soorten keuringsdocumenten  |
 | NEN-EN 10204: 2004  | :  | Actuele norm: Producten van Metaal – Soorten keuringsdocumenten  |
 | Inspectie  | :  | Een inspectie is een controle van de documenten en de fysieke conditie van een apparaat, teneinde te kunnen beoordelen of voldaan wordt aan de van toepassing zijnde normen.  |
@@ -4348,9 +4348,9 @@ De opdrachtgever dient bij een CKI, in overeen¬stemming met de certificatieproc
 
 ####INDELINGSPROCEDURE VAN DRUKAPPARATUUR
 
-De volgende procedures waarover een CKI dient te beschikken, zijn gebaseerd op de laatst geldende versie van het [Warenwetbesluit drukapparatuur](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md) en de Warenwetregeling drukapparatuur. De indelingsprocedure is in principe geschikt voor toepassing op twee manieren, t.w.: 
+De volgende procedures waarover een CKI dient te beschikken, zijn gebaseerd op de laatst geldende versie van het Warenwetbesluit drukapparatuur en de Warenwetregeling drukapparatuur. De indelingsprocedure is in principe geschikt voor toepassing op twee manieren, t.w.: 
 
-* ter verificatie of een -door de aanvrager- gewenste behandelingsprocedure vol-doet aan de desbetreffende eisen volgens het [Besluit](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md);  
+* ter verificatie of een -door de aanvrager- gewenste behandelingsprocedure vol-doet aan de desbetreffende eisen volgens het Besluit;  
 
 * in overleg met de aanvrager vaststellen van de juiste behandelingsprocedure(s) in het geval dat geen gespecificeerde behandelingsprocedure(s) is(zijn) vermeld in de aanvraag.     De indelingsprocedure dient op een toetsbare wijze te resulteren in de vaststelling van de respectievelijke behandelingsgrondslag c.q. procedure(s). De CKI dient te beschikken over een procedure voor het vaststellen van de juiste indeling resp. overeenstemmingsbeoordelingsprocedure(s) c.q. module(s) voor de aangeboden drukapparatuur. De onderstaande parameters met betrekking tot de vaststelling van de indeling en de passende overeenstemmingsbeoordelingsprocedure(s) voor de desbetreffende drukapparatuur dienen op basis van deze indelingsprocedure te worden vastgesteld, t.w.: 
 
@@ -5143,7 +5143,7 @@ Mocht het gebeuren dat certificaathouders, aanvragers van diensten en CKI’s ui
 
 a) De Richtlijn, Guidelines van de Commission’s Working Group ‘Pressure’ en Wor-king Party Guidelines (WPG’s);  
 
-b) Het [Besluit](../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md) en de Regeling;  
+b) Het Besluit en de Regeling;  
 
 c) Geharmoniseerde Europese normen;  
 

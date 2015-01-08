@@ -17,13 +17,13 @@ Hebben goedgevonden en verstaan:
 
 ####Definities
 
-In dit besluit wordt verstaan onder:  *IOW:* Wet inkomensvoorziening oudere werklozen; *IOW-uitkering:* een uitkering op grond van de IOW; *mantelzorg*: noodzakelijke zorg voor een zieke of gehandicapte;  *uitkeringsgerechtigde*: de verzekerde, bedoeld in de Wet WIA, die zijn resterende verdiencapaciteit als bedoeld in paragraaf 7.2 van die wet niet volledig benut of de werknemer, bedoeld in hoofdstuk 1, paragraaf 2, van de WW, die recht heeft op een WGA-uitkering respectievelijk een WW-uitkering, of de jonggehandicapte die recht heeft op arbeidsondersteuning, bedoeld in artikel 2:15 en 2:17 van de Wet Wajong, de verzekerde die ziekengeld ontvangt of de persoon die recht heeft op een IOW-uitkering;  *vrijwilligerswerk*: onbetaalde en onverplichte activiteiten binnen een organisatie die een ideële doelstelling heeft of een maatschappelijk nut nastreeft, welke activiteiten doorgaans een aanvullend karakter hebben op bestaande maatschappelijke voorzieningen;  *Wet Wajong:* Wet werk en arbeidsondersteuning jonggehandicapten; *Wet WIA*: Wet werk en inkomen naar arbeidsvermogen;  *WGA-uitkering*: een werkhervattingsuitkering gedeeltelijk arbeidsgeschikten als bedoeld in hoofdstuk 7 van de Wet WIA;  *WW*: Werkloosheidswet;  *WW-uitkering*: een uitkering op grond van de WW;  *Ziekengeld:* ziekengeld op grond van de ZW; *ZW:* Ziektewet.
+In dit besluit wordt verstaan onder:  *IOW:* Wet inkomensvoorziening oudere werklozen; *IOW-uitkering:* een uitkering op grond van de IOW; *mantelzorg*: noodzakelijke zorg voor een zieke of gehandicapte;  *uitkeringsgerechtigde*: de verzekerde, bedoeld in de Wet WIA, die zijn resterende verdiencapaciteit als bedoeld in paragraaf 7.2 van die wet niet volledig benut of de werknemer, bedoeld in hoofdstuk 1, paragraaf 2, van de WW, die recht heeft op een WGA-uitkering respectievelijk een WW-uitkering, of de jonggehandicapte die recht heeft op arbeidsondersteuning, bedoeld in artikel 2:15 en 2:17 van de Wajong, de verzekerde die ziekengeld ontvangt of de persoon die recht heeft op een IOW-uitkering;  *vrijwilligerswerk*: onbetaalde en onverplichte activiteiten binnen een organisatie die een ideële doelstelling heeft of een maatschappelijk nut nastreeft, welke activiteiten doorgaans een aanvullend karakter hebben op bestaande maatschappelijke voorzieningen;  *Wajong:* Wet arbeidsongeschiktheidsvoorziening jonggehandicapten; *Wet WIA*: Wet werk en inkomen naar arbeidsvermogen;  *WGA-uitkering*: een werkhervattingsuitkering gedeeltelijk arbeidsgeschikten als bedoeld in hoofdstuk 7 van de Wet WIA;  *WW*: Werkloosheidswet;  *WW-uitkering*: een uitkering op grond van de WW;  *Ziekengeld:* ziekengeld op grond van de ZW; *ZW:* Ziektewet.
 
 ### Artikel  2  
 
 ####Ontheffing in verband met vrijwilligerswerk
 
-1.   Het UWV kan aan een uitkeringsgerechtigde al dan niet op diens aanvraag voor een periode van maximaal zes maanden ontheffing verlenen van de verplichting, bedoeld in artikel 30, eerste lid, onderdeel b, van de Wet WIA, artikel 2:39, derde lid, onderdeel f, van de Wet Wajong, artikel 30, eerste lid, onderdeel b, van de ZW, artikel 24, eerste lid, onderdeel b, onder 1°, van de WW, of in artikel 15, onderdeel b, van de IOW, indien:
+1.   Het UWV kan aan een uitkeringsgerechtigde al dan niet op diens aanvraag voor een periode van maximaal zes maanden ontheffing verlenen van de verplichting, bedoeld in artikel 30, eerste lid, onderdeel b, van de Wet WIA, artikel 2:39, derde lid, onderdeel f, van de Wajong, artikel 30, eerste lid, onderdeel b, van de ZW, artikel 24, eerste lid, onderdeel b, onder 1°, van de WW, of in artikel 15, onderdeel b, van de IOW, indien:
 
 a. de uitkeringsgerechtigde een gebleken grote afstand heeft tot de arbeidsmarkt;  
 
@@ -41,7 +41,7 @@ b. de afstand van de uitkeringsgerechtigde tot de arbeidsmarkt is verkleind als 
 
 ####Ontheffing in verband met mantelzorg
 
-1.   Het UWV kan aan een uitkeringsgerechtigde op diens aanvraag voor een periode van maximaal zes maanden ontheffing verlenen van de verplichtingen, bedoeld in artikel 30, eerste lid, onderdelen a en b, van de Wet WIA, artikel 2:39, derde lid, onderdelen e en f, van de Wet Wajong, artikel 30, eerste lid, onderdelen a en b, van de ZW, artikel 24, eerste lid, onderdeel b, onder 1° en 2°, van de WW, of in artikel 15, onderdelen b, c en e, van de IOW, indien:
+1.   Het UWV kan aan een uitkeringsgerechtigde op diens aanvraag voor een periode van maximaal zes maanden ontheffing verlenen van de verplichtingen, bedoeld in artikel 30, eerste lid, onderdelen a en b, van de Wet WIA, artikel 2:39, derde lid, onderdelen e en f, van de Wajong, artikel 30, eerste lid, onderdelen a en b, van de ZW, artikel 24, eerste lid, onderdeel b, onder 1° en 2°, van de WW, of in artikel 15, onderdelen b, c en e, van de IOW, indien:
 
 a. de uitkeringsgerechtigde mantelzorg verricht; en  
 
@@ -57,13 +57,13 @@ b. de verwachting is dat hij op korte termijn niet meer aan die voorwaarden zal 
 
 ####Ontheffing in verband met calamiteiten
 
-Het UWV kan aan een uitkeringsgerechtigde al dan niet op diens aanvraag voor een periode van maximaal vier weken ontheffing verlenen van de verplichtingen, bedoeld in artikel 30, eerste lid, van de Wet WIA, de artikelen 2:31, eerste lid, en 2:39, derde lid, onderdelen e, f en g, van de Wet Wajong, artikel 30, eerste lid, van de ZW, de artikelen 24, eerste lid, onderdeel b, onder 1°, 2° en 4°, en 26, eerste lid, onderdelen d, f en g, van de WW of in de artikelen 12, tweede lid, onderdeel c, 14, tweede lid, onderdeel b, en 15, onderdelen a tot en met e, van de IOW, indien van die uitkeringsgerechtigde tijdelijk redelijkerwijs niet kan worden verlangd dat hij aan die verplichtingen voldoet in verband met een plotselinge, ernstige crisissituatie in de privé-sfeer.
+Het UWV kan aan een uitkeringsgerechtigde al dan niet op diens aanvraag voor een periode van maximaal vier weken ontheffing verlenen van de verplichtingen, bedoeld in artikel 30, eerste lid, van de Wet WIA, de artikelen 2:31, eerste lid, en 2:39, derde lid, onderdelen e, f en g, van de Wajong, artikel 30, eerste lid, van de ZW, de artikelen 24, eerste lid, onderdeel b, onder 1°, 2° en 4°, en 26, eerste lid, onderdelen d, f en g, van de WW of in de artikelen 12, tweede lid, onderdeel c, 14, tweede lid, onderdeel b, en 15, onderdelen a tot en met e, van de IOW, indien van die uitkeringsgerechtigde tijdelijk redelijkerwijs niet kan worden verlangd dat hij aan die verplichtingen voldoet in verband met een plotselinge, ernstige crisissituatie in de privé-sfeer.
 
 ### Artikel  5  
 
 ####Eenmalige ontheffing
 
-1.  Een ontheffing als bedoeld in artikel 2 kan aan een uitkeringsgerechtigde gedurende de duur van zijn WW-uitkering, recht op arbeidsondersteuning, bedoeld in artikel 2:15 van de Wet Wajong, ziekengeld, WGA-uitkering of IOW-uitkering slechts eenmalig worden verleend.   
+1.  Een ontheffing als bedoeld in artikel 2 kan aan een uitkeringsgerechtigde gedurende de duur van zijn WW-uitkering, recht op arbeidsondersteuning, bedoeld in artikel 2:15 van de Wajong, ziekengeld, WGA-uitkering of IOW-uitkering slechts eenmalig worden verleend.   
 2.  Een ontheffing als bedoeld in artikel 3 of een ontheffing als bedoeld in artikel 4 kan eenmalig worden verleend per toestand of gebeurtenis.  
 
 ### Artikel  6  

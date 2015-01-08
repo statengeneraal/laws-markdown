@@ -1484,15 +1484,13 @@ a. een volledig ingevulde, ondertekende en gedagtekende aanvraag voor een erkenn
 
 b. uit een door de keuringsdierenarts ingesteld onderzoek is gebleken dat: 
 
-1)  de inrichting voldoet aan de voorschriften, gesteld in de bijlage van de Verordening productie van en handel in broedeieren en levend pluimvee 2003 van het Produktschap voor Pluimvee en Eieren alsmede aan eventuele daarop betrekking hebbende uitvoeringsbesluiten welke krachtens artikel 9 van voornoemde verordening zijn vastgesteld;
+1) de inrichting voldoet aan bijlage II, onderdeel 1, onder a en e, van richtlijn nr. 2009/158/EG;  
 
-2)  de ondernemer die de inrichting drijft op grond van artikel 3, tweede lid, van de in onderdeel a, bedoelde verordening, bij het Produktschap voor Pluimvee en Eieren is geregistreerd op grond van artikel 2 van de Verordening identificatie en registratie van pluimveebedrijven, broedeieren en levend pluimvee (PPE) 2005;
+2) de ondernemer die de inrichting drijft voldoet aan de paragrafen 4 en 5 van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s; 
 
 3)  de ondernemer die de inrichting drijft een administratie voert waaruit de gegevens kunnen worden afgeleid die nodig zijn om de bevoegde dierenarts en de keuringsdierenarts in staat te stellen de gezondheidssituatie in de inrichting permanent te volgen;
 
-4)  in de inrichting alleen pluimvee aanwezig is;
-
-5)  gewaarborgd is, dat de keuringsdierenarts en de bevoegde dierenarts in verband met de door hen in het kader van richtlijn nr. 2009/158/EG uit te oefenen taken, toegang tot de inrichting hebben en aan hen alle medewerking zal worden verleend en alle inlichtingen zullen worden verstrekt, die zij ter uitoefening van deze taken nodig achten.    
+4)  gewaarborgd is, dat de keuringsdierenarts en de bevoegde dierenarts in verband met de door hen in het kader van richtlijn nr. 2009/158/EG uit te oefenen taken, toegang tot de inrichting hebben en aan hen alle medewerking zal worden verleend en alle inlichtingen zullen worden verstrekt, die zij ter uitoefening van deze taken nodig achten.    
 2.  Een erkenning als bedoeld in het eerste lid wordt door de minister voor bepaalde tijd ingetrokken in de gevallen, bedoeld in bijlage II, hoofdstuk IV, punt I, van richtlijn nr. 2009/158/EG.   
 3.  Een erkenning als bedoeld in het eerste lid wordt door de minister ingetrokken in de gevallen, bedoeld in bijlage II, hoofdstuk IV, punt 2, van richtlijn nr. 2009/158/EG.   
 4.  Een erkenning kan, nadat zij door de minister is ingetrokken, opnieuw worden verleend, onder de voorwaarden, bedoeld in bijlage II, hoofdstuk IV, punt 3, van richtlijn nr. 2009/158/EG.   
@@ -2671,13 +2669,6 @@ d. totdat het onderzoek is afgerond, worden bijensperma en eicellen van bijen sl
 ###Hoofdstuk 12 
 
 ####Medebewind
-
-### Artikel  12.1  
-
-1.  Ter uitvoering van de artikelen 10, 11, 81, tweede tot en met vierde lid, van de wet en artikel 5 van het Besluit inzake het in de handel brengen van dieren en producten en de toepassing van maatregelen met betrekking tot in Nederland gebrachte dieren en producten wordt medewerking gevorderd van het bestuur van het Productschap voor Pluimvee en Eieren.   
-2.  De gevorderde medewerking bestaat in het bij verordening stellen van nadere regelen ter zake van het verlenen van een officiële erkenning van inrichtingen als bedoeld in artikel 6.3, onderdeel e, van deze regeling.   
-3.  Het Productschap Pluimvee en Eieren kan in de Verordening identificatie en registratie van pluimveebedrijven, broedeieren en levend pluimvee (PPE) 2005 bepalen dat bij overtreding van artikel 2 van die verordening tuchtrechtelijke maatregelen worden gesteld.   
-4.  Het Productschap Pluimvee en Eieren kan in de Verordening productie van en handel in broedeieren en levend pluimvee 2003 bepalen dat bij overtreding van artikel 3, tweede lid, van die verordening tuchtrechtelijke maatregelen worden gesteld.  
 
 ###Hoofdstuk 13 
 
