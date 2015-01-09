@@ -10,38 +10,38 @@ Het Uitvoeringsinstituut werknemersverzekeringen,  Besluit:
 
 In dit besluit wordt verstaan onder: 
 
-a. Wet WIA: [Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md);  
+a. Wet WIA: Wet werk en inkomen naar arbeidsvermogen;  
 
-b. verzekerde: de persoon bedoeld in de [artikelen 7](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), [10](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) en [16 van de Wet WIA](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md);  
+b. verzekerde: de persoon bedoeld in de artikelen 7, 10 en 16 van de Wet WIA;  
 
-c. WGA-uitkering: werkhervattingsuitkering gedeeltelijk arbeidsgeschikten, bedoeld in [hoofdstuk 7 van de Wet WIA](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md);  
+c. WGA-uitkering: werkhervattingsuitkering gedeeltelijk arbeidsgeschikten, bedoeld in hoofdstuk 7 van de Wet WIA;  
 
 d. UWV: Uitvoeringsinstituut werknemersverzekeringen;  
 
 e. CWI: Centrale organisatie werk en inkomen;  
 
-f. reïntegratievisie: de reïntegratievisie, bedoeld in [artikel 30a, eerste lid, van de Wet SUWI](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
+f. reïntegratievisie: de reïntegratievisie, bedoeld in artikel 30a, eerste lid, van de Wet SUWI;  
 
-g. reïntegratieplan: het reïntegratieplan, bedoeld in [artikel 30a, derde lid, van de Wet SUWI](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
+g. reïntegratieplan: het reïntegratieplan, bedoeld in artikel 30a, derde lid, van de Wet SUWI;  
 
-h. functionele mogelijkheden: krachten en bekwaamheden als bedoeld in [artikel 6, derde lid, van de Wet WIA](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md);  
+h. functionele mogelijkheden: krachten en bekwaamheden als bedoeld in artikel 6, derde lid, van de Wet WIA;  
 
 i. werkdag: een dag die geen zaterdag, zondag of algemeen erkende feestdag is;  
 
-j. maatregel: gehele of gedeeltelijke weigering van de uitkering als bedoeld in [artikel 88 van de Wet WIA](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md).   
+j. maatregel: gehele of gedeeltelijke weigering van de uitkering als bedoeld in artikel 88 van de Wet WIA.   
 
 ### Artikel  2  
 
 ####Passende arbeid behouden
 
-1.  Indien de verzekerde die recht heeft op een loongerelateerde uitkering als bedoeld in [artikel 59 van de Wet WIA](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) een dienstbetrekking met een werkgever heeft, wordt in de reïntegratievisie vermeld welke activiteiten hij moet verrichten om: 
+1.  Indien de verzekerde die recht heeft op een loongerelateerde uitkering als bedoeld in artikel 59 van de Wet WIA een dienstbetrekking met een werkgever heeft, wordt in de reïntegratievisie vermeld welke activiteiten hij moet verrichten om: 
 
 a. beëindiging van die dienstbetrekking te voorkomen;  
 
 b. passende arbeid in het bedrijf van zijn werkgever te verkrijgen of te behouden;  
 
 c. aanspraken op loondoorbetaling geldend te maken.     
-2.  De verzekerde handelt in strijd met [artikel 30, derde lid, van de Wet WIA](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) indien hij zonder deugdelijke grond de in het eerste lid bedoelde verplichtingen niet nakomt.  
+2.  De verzekerde handelt in strijd met artikel 30, derde lid, van de Wet WIA indien hij zonder deugdelijke grond de in het eerste lid bedoelde verplichtingen niet nakomt.  
 
 ### Artikel  3  
 
@@ -58,7 +58,7 @@ c. aanspraken op loondoorbetaling geldend te maken.
 
 1.  Aan de verzekerde die beschikt over arbeidsmogelijkheden die op de arbeidsmarkt direct benutbaar zijn, of die gebruik kan maken van gerichte dienstverlening van de CWI, wordt opgedragen zich als werkzoekende bij de CWI te laten registreren.   
 2.  Aan andere verzekerden wordt de opdracht tot registratie bij de CWI slechts gegeven voor zover die registratie bevorderlijk kan zijn voor hun inschakeling in de arbeid.   
-3.  De opdracht tot registratie bij de CWI wordt niet gegeven aan de verzekerde die zijn resterende verdiencapaciteit, bedoeld in [artikel 60 van de Wet WIA](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), volledig benut.   
+3.  De opdracht tot registratie bij de CWI wordt niet gegeven aan de verzekerde die zijn resterende verdiencapaciteit, bedoeld in artikel 60 van de Wet WIA, volledig benut.   
 4.  De verplichting tot registratie bij de CWI houdt tevens in dat de verzekerde: 
 
 a. die registratie steeds tijdig moet doen verlengen;  
@@ -106,7 +106,7 @@ c. gevolg moet geven aan elke verwijzing van de CWI naar een werkgever die passe
 
 ####Vrijstelling in verband met vrijwilligerswerk en mantelzorg
 
-1.  De verzekerde die voldoet aan de voorwaarden genoemd in [artikel 4, tweede lid, van de Regeling vrijstelling verplichtingen WW en Wet WIA](../../../../../../ministeriele-regeling/regeling/vrijstelling/verplichtingen/ww/en/wet/wia/BWBR0019305/README.md) wordt geheel vrijgesteld van zijn verplichtingen met betrekking tot arbeidsinschakeling zo lang hij het in [dat artikel](../../../../../../ministeriele-regeling/regeling/vrijstelling/verplichtingen/ww/en/wet/wia/BWBR0019305/README.md) bedoelde vrijwilligerswerk verricht, respectievelijk tot een maand na de dag waarop hij de in [dat artikel](../../../../../../ministeriele-regeling/regeling/vrijstelling/verplichtingen/ww/en/wet/wia/BWBR0019305/README.md) bedoelde mantelzorg niet langer verricht.   
+1.  De verzekerde die voldoet aan de voorwaarden genoemd in artikel 4, tweede lid, van de Regeling vrijstelling verplichtingen WW en Wet WIA wordt geheel vrijgesteld van zijn verplichtingen met betrekking tot arbeidsinschakeling zo lang hij het in dat artikel bedoelde vrijwilligerswerk verricht, respectievelijk tot een maand na de dag waarop hij de in dat artikel bedoelde mantelzorg niet langer verricht.   
 2.  Indien vrijstelling als bedoeld in het eerste lid wordt aangevraagd door een verzekerde ten behoeve van wie het UWV werkzaamheden laat verrichten ter bevordering van diens arbeidsinschakeling, wordt het belang van die vrijstelling afgewogen tegen het belang van die werkzaamheden.  
 
 ### Artikel  10  
@@ -115,7 +115,7 @@ c. gevolg moet geven aan elke verwijzing van de CWI naar een werkgever die passe
 
 1.  De verzekerde die een naar het oordeel van het UWV noodzakelijke opleiding of scholing volgt, of die meewerkt aan andere activiteiten of werkzaamheden die het UWV wenselijk acht voor het verkrijgen van mogelijkheden tot het verrichten van arbeid, wordt vrijgesteld van zijn verplichtingen met betrekking tot arbeidsinschakeling, voor zover nakoming van die verplichtingen belemmerend zou kunnen werken op die opleiding, scholing, activiteiten of werkzaamheden.   
 2.  Een vrijstelling als bedoeld in het eerste lid eindigt twee maanden voor het tijdstip waarop de opleiding, scholing, activiteiten of werkzaamheden naar verwachting zullen eindigen, of zo veel later als het UWV wenselijk acht.   
-3.  Toestemming voor een proefplaatsing als bedoeld in [artikel 37 van de Wet WIA](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) wordt verleend indien wordt voldaan aan de voorwaarden genoemd in het [tweede lid van dat artikel](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), en het uitzicht op een aansluitende dienstbetrekking, mede gelet op de aard en de omvang van die dienstbetrekking, rechtvaardigt dat de verzekerde voor de duur van de proefplaatsing wordt vrijgesteld van zijn verplichtingen met betrekking tot arbeidsinschakeling.  
+3.  Toestemming voor een proefplaatsing als bedoeld in artikel 37 van de Wet WIA wordt verleend indien wordt voldaan aan de voorwaarden genoemd in het tweede lid van dat artikel, en het uitzicht op een aansluitende dienstbetrekking, mede gelet op de aard en de omvang van die dienstbetrekking, rechtvaardigt dat de verzekerde voor de duur van de proefplaatsing wordt vrijgesteld van zijn verplichtingen met betrekking tot arbeidsinschakeling.  
 
 ### Artikel  11  
 
@@ -157,7 +157,7 @@ c. gevolg moet geven aan elke verwijzing van de CWI naar een werkgever die passe
 
 1.  Alvorens te besluiten over het opleggen van een maatregel wegens het niet nakomen van een verplichting, vermeld in de reïntegratievisie of in het reïntegratieplan, onderzoekt het UWV of een bijstelling van de reïntegratievisie noodzakelijk is.   
 2.  Het UWV legt een maatregel op indien de verzekerde zonder deugdelijke grond een verplichting, vermeld in de reïntegratievisie of in het reïntegratieplan, niet is nagekomen en deze gedraging moet worden aangemerkt als niet-nakoming van een wettelijke verplichting, tenzij elke verwijtbaarheid voor de gedraging ontbreekt, of met een waarschuwing kan worden volstaan.   
-3.  Hoogte en duur van de op te leggen maatregel worden bepaald aan de hand van het [Maatregelenbesluit UWV](../../../../../../zbo/maatregelenbesluit/uwv/BWBR0017084/README.md).   
+3.  Hoogte en duur van de op te leggen maatregel worden bepaald aan de hand van het Maatregelenbesluit UWV.   
 4.  Artikel 14, vierde lid, is van overeenkomstige toepassing op het besluit over de maatregel.  
 
 ### Artikel  16  

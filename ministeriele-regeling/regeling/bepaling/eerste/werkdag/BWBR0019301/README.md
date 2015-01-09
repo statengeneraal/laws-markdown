@@ -3,20 +3,20 @@
 ##Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 16 december 2005, Directie Sociale Verzekeringen, nr. SV/AL/05/102785, houdende regels tot bepaling van de eerste werkdag (Regeling bepaling eerste werkdag)
 
 De Minister van Sociale Zaken en Werkgelegenheid,  
-Gelet op de [artikelen 23, tweede lid, van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), [19, eerste lid, van de Wet op de arbeidsongeschiktheidsverzekering](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), [7, eerste lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md) en [29, derde lid, van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md);
+Gelet op de artikelen 23, tweede lid, van de Wet werk en inkomen naar arbeidsvermogen, 19, eerste lid, van de Wet op de arbeidsongeschiktheidsverzekering, 7, eerste lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen en 29, derde lid, van de Ziektewet;
 Besluit:    
 
 ### Artikel  1  
 
 ####Definities
 
-Voor de toepassing van deze regeling wordt verstaan onder:  *Wet WIA*: [Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md);  *WAO*: [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md);  *WAZ*: [Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md);  *ZW*: [Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md). 
+Voor de toepassing van deze regeling wordt verstaan onder:  *Wet WIA*: Wet werk en inkomen naar arbeidsvermogen;  *WAO*: Wet op de arbeidsongeschiktheidsverzekering;  *WAZ*: Wet arbeidsongeschiktheidsverzekering zelfstandigen;  *ZW*: Ziektewet. 
 
 ### Artikel  2  
 
 ####Eerste werkdag
 
-Voor de toepassing van de [artikelen 23, tweede lid, van de Wet WIA](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), [artikel 19, eerste lid, van de WAO](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), [artikel 7, eerste lid, van de WAZ](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md) en [artikel 29, derde lid, van de ZW](../../../../../../wet/ziektewet/BWBR0001888/README.md) wordt als werkdag aangemerkt: een dag waarop door de verzekerde gewoonlijk wordt gewerkt. 
+Voor de toepassing van de artikelen 23, tweede lid, van de Wet WIA, artikel 19, eerste lid, van de WAO, artikel 7, eerste lid, van de WAZ en artikel 29, derde lid, van de ZW wordt als werkdag aangemerkt: een dag waarop door de verzekerde gewoonlijk wordt gewerkt. 
 
 ### Artikel  3  
 
@@ -31,9 +31,9 @@ Voor de toepassing van de [artikelen 23, tweede lid, van de Wet WIA](../../../..
 
 1.  Ten aanzien van: 
 
-a. de verzekerde die op grond van de [artikelen 7 van de ZW](../../../../../../wet/ziektewet/BWBR0001888/README.md) en [7 van de WAO](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) als werknemer wordt aangemerkt;  
+a. de verzekerde die op grond van de artikelen 7 van de ZW en 7 van de WAO als werknemer wordt aangemerkt;  
 
-b. degene wiens aanspraak op uitkering berust op [artikel 10 van de Wet WIA](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), [artikel 17 van de WAO](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) of [artikel 46 van de ZW](../../../../../../wet/ziektewet/BWBR0001888/README.md);   wordt als eerste werkdag aangemerkt de dag waarop de verzekerde ongeschikt tot werken is geworden.   
+b. degene wiens aanspraak op uitkering berust op artikel 10 van de Wet WIA, artikel 17 van de WAO of artikel 46 van de ZW;   wordt als eerste werkdag aangemerkt de dag waarop de verzekerde ongeschikt tot werken is geworden.   
 2.  Bij de toepassing van het eerste lid, onderdeel a, blijft de zaterdag en zondag buiten beschouwing.  
 
 ### Artikel  5  
@@ -59,7 +59,7 @@ d. bijzonder verlof;
 e. weersinvloeden; of  
 
 f. vrijheidsontneming;   wordt aangemerkt als werkdag.   
-2.  Een dag die op grond van een overeenkomst als bedoeld in [artikel 637 van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) wordt aangemerkt als vakantiedag, wordt aangemerkt als werkdag.  
+2.  Een dag die op grond van een overeenkomst als bedoeld in artikel 637 van Boek 7 van het Burgerlijk Wetboek wordt aangemerkt als vakantiedag, wordt aangemerkt als werkdag.  
 
 ### Artikel  7  
 

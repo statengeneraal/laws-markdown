@@ -24,17 +24,17 @@ b. werkgever:
 
 2°. de natuurlijke persoon die een ander huishoudelijke of persoonlijke diensten laat verrichten;    
 
-c. vreemdeling: hetgeen daaronder wordt verstaan in de [Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md);  
+c. vreemdeling: hetgeen daaronder wordt verstaan in de Vreemdelingenwet 2000;  
 
 d. niet eerder toegelaten vreemdeling: een vreemdeling die niet eerder over een voor het verrichten van arbeid geldige vergunning tot verblijf heeft beschikt, dan wel een vreemdeling die, na over een zodanige vergunning te hebben beschikt, zijn hoofdverblijf weer buiten Nederland heeft gevestigd dan wel buiten Nederland heeft voortgezet;  
 
-e. tewerkstellingsvergunning: vergunning voor een werkgever die wordt verleend door Onze Minister op grond van artikel 5, eerste lid, ten behoeve van een vreemdeling die rechtmatig verblijf heeft of heeft aangevraagd, anders dan op grond van een verblijfsvergunning regulier voor bepaalde tijd als bedoeld in [artikel 14 van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) die is verleend onder de beperking «arbeid in loondienst» of «lerend werken»;  
+e. tewerkstellingsvergunning: vergunning voor een werkgever die wordt verleend door Onze Minister op grond van artikel 5, eerste lid, ten behoeve van een vreemdeling die rechtmatig verblijf heeft of heeft aangevraagd, anders dan op grond van een verblijfsvergunning regulier voor bepaalde tijd als bedoeld in artikel 14 van de Vreemdelingenwet 2000 die is verleend onder de beperking «arbeid in loondienst» of «lerend werken»;  
 
-f. Uitvoeringsinstituut werknemersverzekeringen: het Uitvoeringsinstituut werknemersverzekeringen, bedoeld in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
+f. Uitvoeringsinstituut werknemersverzekeringen: het Uitvoeringsinstituut werknemersverzekeringen, bedoeld in hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen;  
 
 g. prioriteitgenietend aanbod: aanbod van de zijde van Nederlanders en vreemdelingen als bedoeld in de artikelen 3, eerste lid, onder a, en 4, eerste lid;  
 
-h. gecombineerde vergunning: verblijfsvergunning regulier voor bepaalde tijd als bedoeld in [artikel 14 van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), verleend door Onze Minister van Veiligheid en Justitie onder de beperking «arbeid in loondienst» of «lerend werken», tevens zijnde vergunning voor het verrichten van werkzaamheden bij een specifieke werkgever, met het aanvullend document;  
+h. gecombineerde vergunning: verblijfsvergunning regulier voor bepaalde tijd als bedoeld in artikel 14 van de Vreemdelingenwet 2000, verleend door Onze Minister van Veiligheid en Justitie onder de beperking «arbeid in loondienst» of «lerend werken», tevens zijnde vergunning voor het verrichten van werkzaamheden bij een specifieke werkgever, met het aanvullend document;  
 
 i. aanvullend document: document waarin de aanvullende informatie is opgenomen, bedoeld in artikel 6, eerste lid, tweede alinea, van de Richtlijn 2011/98/EU van het Europees Parlement en de Raad van 13 december 2011 betreffende één enkele aanvraagprocedure voor een gecombineerde vergunning voor onderdanen van derde landen om te verblijven en te werken op het grondgebied van een lidstaat, alsmede inzake een gemeenschappelijk pakket rechten voor werknemers uit derde landen die legaal in een lidstaat verblijven (PbEU 2011, L343).  
 
@@ -59,19 +59,19 @@ i. aanvullend document: document waarin de aanvullende informatie is opgenomen, 
 
 a. een vreemdeling ten aanzien van wie ingevolge bepalingen, vastgesteld bij overeenkomst met andere mogendheden dan wel bij een voor Nederland verbindend besluit van een volkenrechtelijke organisatie, een tewerkstellingsvergunning of een gecombineerde vergunning niet mag worden verlangd;  
 
-b. een vreemdeling die beschikt over een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 14 van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) voor het verrichten van arbeid als zelfstandige, voor zover deze vreemdeling arbeid verricht als zelfstandige;  
+b. een vreemdeling die beschikt over een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 14 van de Vreemdelingenwet 2000 voor het verrichten van arbeid als zelfstandige, voor zover deze vreemdeling arbeid verricht als zelfstandige;  
 
 c. een vreemdeling die behoort tot een bij of krachtens algemene maatregel van bestuur aangewezen categorie, dan wel bij of krachtens algemene maatregel van bestuur aangewezen categorie van werkzaamheden verricht.     
 2.   Van de bepalingen, bedoeld in het eerste lid, onder *a*, wordt door Onze Minister mededeling gedaan in de Staatscourant.  
 
 ### Artikel  4  
 
-1.  Het verbod, bedoeld in artikel 2, eerste lid, is evenmin van toepassing met betrekking tot een vreemdeling die beschikt over een krachtens de [Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) afgegeven verblijfsvergunning, welke is voorzien van een aantekening van Onze Minister van Veiligheid en Justitie waaruit blijkt dat aan die vergunning geen beperkingen zijn verbonden voor het verrichten van arbeid.   
+1.  Het verbod, bedoeld in artikel 2, eerste lid, is evenmin van toepassing met betrekking tot een vreemdeling die beschikt over een krachtens de Vreemdelingenwet 2000 afgegeven verblijfsvergunning, welke is voorzien van een aantekening van Onze Minister van Veiligheid en Justitie waaruit blijkt dat aan die vergunning geen beperkingen zijn verbonden voor het verrichten van arbeid.   
 2.  Een zodanige aantekening wordt afgegeven aan een vreemdeling: 
 
-a. die rechtmatig in Nederland verblijf houdt in de zin van [artikel 8, onder b of d, van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md);   
+a. die rechtmatig in Nederland verblijf houdt in de zin van artikel 8, onder b of d, van de Vreemdelingenwet 2000;   
 
-b. die gedurende een ononderbroken tijdvak van vijf jaar heeft beschikt over een voor het verrichten van arbeid geldige verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 14 van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en die nadien zijn hoofdverblijf niet buiten Nederland heeft gevestigd; of   
+b. die gedurende een ononderbroken tijdvak van vijf jaar heeft beschikt over een voor het verrichten van arbeid geldige verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 14 van de Vreemdelingenwet 2000 en die nadien zijn hoofdverblijf niet buiten Nederland heeft gevestigd; of   
 
 c. die behoort tot een bij algemene maatregel van bestuur aangewezen categorie.   
 
@@ -116,7 +116,7 @@ e. indien het een vreemdeling betreft:
 
 2°. aan wie een verblijfsvergunning is geweigerd of wiens verblijfsvergunning is ingetrokken;    
 
-f. indien het een vreemdeling betreft, die met de desbetreffende arbeid over een periode van een maand niet ten minste een bedrag verdient gelijk aan het minimumloon, bedoeld in [artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](../../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md);  
+f. indien het een vreemdeling betreft, die met de desbetreffende arbeid over een periode van een maand niet ten minste een bedrag verdient gelijk aan het minimumloon, bedoeld in artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag;  
 
 g. indien het een arbeidsplaats betreft die behoort tot een bij algemene maatregel van bestuur aangewezen categorie van werkzaamheden, waarvan het niet in het Nederlands belang is deze door vreemdelingen te laten verrichten; of  
 
@@ -149,29 +149,29 @@ e.indien de werving niet heeft plaatsgevonden op een wijze die voor de desbetref
 
 f. indien door de werkgever anderszins belemmeringen zijn opgeworpen waardoor de arbeidsplaats niet overeenkomstig het bij of krachtens deze wet bepaalde door aanbod op de arbeidsmarkt vervuld kon worden;  
 
-g. indien de werkgever geen erkende referent is als bedoeld in [artikel 1, onderdeel t, van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) omdat zijn erkenning is ingetrokken of geschorst of omdat zijn aanvraag tot erkenning is afgewezen;  
+g. indien de werkgever geen erkende referent is als bedoeld in artikel 1, onderdeel t, van de Vreemdelingenwet 2000 omdat zijn erkenning is ingetrokken of geschorst of omdat zijn aanvraag tot erkenning is afgewezen;  
 
-h. indien de werkgever een referent is als bedoeld in [artikel 1, onderdeel s, van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) of een erkende referent als bedoeld in artikel 1, onderdeel t, van die wet en hem op grond van [artikel 55a van die wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) binnen een periode van vijf jaar direct voorafgaande aan de aanvraag voor een tewerkstellingsvergunning of gecombineerde vergunning een bestuurlijke boete is opgelegd of indien hij in die periode is gestraft op grond van [artikel 108 van die wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md); 
+h. indien de werkgever een referent is als bedoeld in artikel 1, onderdeel s, van de Vreemdelingenwet 2000 of een erkende referent als bedoeld in artikel 1, onderdeel t, van die wet en hem op grond van artikel 55a van die wet binnen een periode van vijf jaar direct voorafgaande aan de aanvraag voor een tewerkstellingsvergunning of gecombineerde vergunning een bestuurlijke boete is opgelegd of indien hij in die periode is gestraft op grond van artikel 108 van die wet; 
 
 i. indien de werkgever binnen een periode van vijf jaar direct voorafgaande aan de aanvraag voor een tewerkstellingsvergunning of gecombineerde vergunning een bestuurlijke boete is opgelegd op grond van: 
 
-1°. [artikel 10:1 van de Arbeidstijdenwet](../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md);  
+1°. artikel 10:1 van de Arbeidstijdenwet;  
 
-2°. [artikel 33 van de Arbeidsomstandighedenwe](../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md)t;  
+2°. artikel 33 van de Arbeidsomstandighedenwet;  
 
-3°. [artikel 18b van de Wet minimumloon en minimumvakantiebijslag](../../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md);  
+3°. artikel 18b van de Wet minimumloon en minimumvakantiebijslag;  
 
 4°. artikel 18 van de Wet arbeid vreemdelingen; of  
 
-5°. [artikel 16 van de Wet allocatie arbeidskrachten door intermediairs](../../../../../wet/wet/allocatie/arbeidskrachten/door/intermediairs/BWBR0009616/README.md);   
+5°. artikel 16 van de Wet allocatie arbeidskrachten door intermediairs;   
 
 j. indien de werkgever binnen een periode van vijf jaar direct voorafgaande aan de aanvraag voor een tewerkstellingsvergunning of gecombineerde vergunning is gestraft op grond van: 
 
-1°. [artikel 273f, van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md);  
+1°. artikel 273f, van het Wetboek van Strafrecht;  
 
-2°. [artikel 11:3 van de Arbeidstijdenwet](../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md); of  
+2°. artikel 11:3 van de Arbeidstijdenwet; of  
 
-3°. [artikel 32 van de Arbeidsomstandighedenwet](../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md).     
+3°. artikel 32 van de Arbeidsomstandighedenwet.     
 2.  In de ministeriële regeling, bedoeld in het eerste lid, onderdeel e, wordt met betrekking tot de eisen waaraan de convenanten moeten voldoen, in ieder geval opgenomen dat het Uitvoeringsinstituut werknemersverzekeringen: 
 
 a.partij is bij het convenant;
@@ -195,7 +195,7 @@ d. dat de werkgever geheel of gedeeltelijk door opleiding of scholing voorziet i
 ### Artikel  11  
 
 1.  Een tewerkstellingsvergunning wordt voor ten hoogste een jaar verleend.   
-2.  Ten behoeve van tijdelijk werk wordt een tewerkstellingsvergunning voor ten hoogste vier en twintig weken verleend, indien de desbetreffende arbeid wordt verricht door een niet eerder toegelaten vreemdeling. Deze vreemdeling mag gedurende een periode van veertien weken direct voorafgaande aan de tewerkstellingsvergunning niet over een voor het verrichten van arbeid geldige verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 14 van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) hebben beschikt.   
+2.  Ten behoeve van tijdelijk werk wordt een tewerkstellingsvergunning voor ten hoogste vier en twintig weken verleend, indien de desbetreffende arbeid wordt verricht door een niet eerder toegelaten vreemdeling. Deze vreemdeling mag gedurende een periode van veertien weken direct voorafgaande aan de tewerkstellingsvergunning niet over een voor het verrichten van arbeid geldige verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 14 van de Vreemdelingenwet 2000 hebben beschikt.   
 3.  In afwijking van het eerste lid wordt een tewerkstellingsvergunning die is verleend met toepassing van artikel 8, derde lid, onder b en c, voor ten hoogste drie jaar verleend. 
 
 ### Artikel  12  
@@ -207,17 +207,17 @@ a. indien de voor verkrijging verstrekte gegevens zodanig onjuist of onvolledig 
 b. indien gebleken is dat aan de vreemdeling verblijf in Nederland is geweigerd;  
 
 c. indien van de tewerkstellingsvergunning geen gebruik wordt gemaakt.     
-2.  Onze Minister kan, na overleg met Onze Minister van Justitie, ten aanzien van een vreemdeling als bedoeld in [artikel 8, onder h, van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) afwijken van het eerste lid onder b.  
+2.  Onze Minister kan, na overleg met Onze Minister van Justitie, ten aanzien van een vreemdeling als bedoeld in artikel 8, onder h, van de Vreemdelingenwet 2000 afwijken van het eerste lid onder b.  
 
 ### Artikel  12a  
 
 Onze Minister kan een tewerkstellingsvergunning intrekken of Onze Minister van Veiligheid en Justitie kan een gecombineerde vergunning intrekken indien: 
 
-a. indien de werkgever geen erkende referent is als bedoeld in [artikel 1, onderdeel t, van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) omdat zijn erkenning is ingetrokken of geschorst of omdat zijn aanvraag tot erkenning is afgewezen, of  
+a. indien de werkgever geen erkende referent is als bedoeld in artikel 1, onderdeel t, van de Vreemdelingenwet 2000 omdat zijn erkenning is ingetrokken of geschorst of omdat zijn aanvraag tot erkenning is afgewezen, of  
 
-b. indien de werkgever een referent is als bedoeld in [artikel 1, onderdeel s, van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) of een erkende referent als bedoeld in artikel 1, onderdeel t, van die wet en hem op grond van [artikel 55a van die wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) binnen een periode van vijf jaar direct voorafgaande aan de aanvraag voor een tewerkstellingsvergunning of gecombineerde vergunning een bestuurlijke boete is opgelegd of indien hij in die periode is gestraft op grond van [artikel 108 van die wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md);  
+b. indien de werkgever een referent is als bedoeld in artikel 1, onderdeel s, van de Vreemdelingenwet 2000 of een erkende referent als bedoeld in artikel 1, onderdeel t, van die wet en hem op grond van artikel 55a van die wet binnen een periode van vijf jaar direct voorafgaande aan de aanvraag voor een tewerkstellingsvergunning of gecombineerde vergunning een bestuurlijke boete is opgelegd of indien hij in die periode is gestraft op grond van artikel 108 van die wet;  
 
-c. het een gecombineerde vergunning betreft, eveneens met toepassing van de in [artikel 19 van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) bedoelde intrekkingsgronden voor een verblijfsvergunning regulier voor bepaalde tijd als bedoeld in [artikel 14 van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).  
+c. het een gecombineerde vergunning betreft, eveneens met toepassing van de in artikel 19 van de Vreemdelingenwet 2000 bedoelde intrekkingsgronden voor een verblijfsvergunning regulier voor bepaalde tijd als bedoeld in artikel 14 van de Vreemdelingenwet 2000.  
 
 ### Artikel  12b  
 
@@ -225,27 +225,27 @@ Onze Minister kan voorts een tewerkstellingsvergunning intrekken of Onze Ministe
 
 a. een bestuurlijke boete is opgelegd op grond van: 
 
-1°. [artikel 10:1 van de Arbeidstijdenwet](../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md);  
+1°. artikel 10:1 van de Arbeidstijdenwet;  
 
-2°. [artikel 33 van de Arbeidsomstandighedenwet](../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md);  
+2°. artikel 33 van de Arbeidsomstandighedenwet;  
 
-3°. [artikel 18b van de Wet minimumloon en minimumvakantiebijslag](../../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md);  
+3°. artikel 18b van de Wet minimumloon en minimumvakantiebijslag;  
 
 4°. artikel 18 van de Wet arbeid vreemdelingen; of  
 
-5°. [artikel 16 van de Wet allocatie arbeidskrachten door intermediairs](../../../../../wet/wet/allocatie/arbeidskrachten/door/intermediairs/BWBR0009616/README.md);    
+5°. artikel 16 van de Wet allocatie arbeidskrachten door intermediairs;    
 
 b. gestraft is op grond van: 
 
-1°. [artikel 273f van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md);  
+1°. artikel 273f van het Wetboek van Strafrecht;  
 
-2°. [artikel 11:3 van de Arbeidstijdenwet](../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md); of  
+2°. artikel 11:3 van de Arbeidstijdenwet; of  
 
-3°. [artikel 32 van de Arbeidsomstandighedenwet](../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md).     
+3°. artikel 32 van de Arbeidsomstandighedenwet.     
 
 ### Artikel  13  
 
-Onverminderd de artikelen 12, eerste lid, 12a en 12b, en onverminderd [artikel 19 van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) kan Onze Minister een tewerkstellingsvergunning slechts intrekken of kan Onze Minister van Veiligheid en Justitie een gecombineerde vergunning slechts intrekken ingevolge: 
+Onverminderd de artikelen 12, eerste lid, 12a en 12b, en onverminderd artikel 19 van de Vreemdelingenwet 2000 kan Onze Minister een tewerkstellingsvergunning slechts intrekken of kan Onze Minister van Veiligheid en Justitie een gecombineerde vergunning slechts intrekken ingevolge: 
 
 a. het niet in acht nemen van een beperking waaronder de tewerkstellingsvergunning is verleend, of  
 
@@ -262,11 +262,11 @@ b. het niet naleven van een aan de tewerkstellingsvergunning verbonden voorschri
 
 ### Artikel  15  
 
-1.  Indien de werkgever door een vreemdeling arbeid laat verrichten waarbij die arbeid feitelijk worden verricht bij een andere werkgever, draagt de eerstgenoemde werkgever er bij aanvang van de arbeid door de vreemdeling onverwijld zorg voor dat de andere werkgever een afschrift van het document, bedoeld in [artikel 1, eerste lid, onder 1° tot en met 3°, van de Wet op de identificatieplicht](../../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md), van de vreemdeling ontvangt.   
+1.  Indien de werkgever door een vreemdeling arbeid laat verrichten waarbij die arbeid feitelijk worden verricht bij een andere werkgever, draagt de eerstgenoemde werkgever er bij aanvang van de arbeid door de vreemdeling onverwijld zorg voor dat de andere werkgever een afschrift van het document, bedoeld in artikel 1, eerste lid, onder 1° tot en met 3°, van de Wet op de identificatieplicht, van de vreemdeling ontvangt.   
 2.  De werkgever die het afschrift van het document, bedoeld in het eerste lid, ontvangt, stelt de identiteit van de vreemdeling vast aan de hand van het genoemde document en neemt het afschrift op in de administratie.   
 3.  De verplichting, bedoeld in het eerste lid, om een afschrift van het document te verstrekken, aan de andere werkgever is niet van toepassing, indien de vreemdeling die onderdaan is van een lidstaat van de Europese Unie, dan wel de Europese Economische Ruimte dan wel van Zwitserland, tenzij ten aanzien van de vreemdeling de artikelen 1 tot en met 5 van Verordening (EU) Nr. 492/2011 van het Europees Parlement en de Raad van 5 april 2011 betreffende het vrije verkeer van werknemers binnen de Unie (PbEU 2011, L 141) niet van toepassing zijn.  
 4.  De werkgever, bedoeld in het tweede lid, bewaart het afschrift tot tenminste vijf jaren na het einde van het kalenderjaar waarin de arbeid door de vreemdeling is beëindigd.   
-5.  De vreemdeling verstrekt een op hem betrekking hebbend document als bedoeld in [artikel 1, eerste lid, onder 1° tot en met 3°, van de Wet op de identificatieplicht](../../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md) aan de werkgever, die het afschrift van het document, bedoeld in het eerste lid, ontvangt, en stelt die werkgever in de gelegenheid een afschrift van dit document te maken.  
+5.  De vreemdeling verstrekt een op hem betrekking hebbend document als bedoeld in artikel 1, eerste lid, onder 1° tot en met 3°, van de Wet op de identificatieplicht aan de werkgever, die het afschrift van het document, bedoeld in het eerste lid, ontvangt, en stelt die werkgever in de gelegenheid een afschrift van dit document te maken.  
 
 ### Artikel  16  
 
@@ -290,7 +290,7 @@ De toezichthouder is te allen tijde bevoegd tot inbeslagneming van daarvoor vatb
 1.  Een daartoe door Onze Minister aangewezen, onder hem ressorterende ambtenaar kan, nadat een overtreding van een voorschrift of verbod bij of krachtens deze wet is geconstateerd die bestuurlijk beboetbaar is gesteld, aan de werkgever een schriftelijke waarschuwing geven dat bij herhaling van de overtreding of bij een latere overtreding van eenzelfde in de waarschuwing aangegeven wettelijke verplichting of verbod of bij of krachtens algemene maatregel van bestuur aan te wijzen soortgelijke verplichtingen of verboden, door hem een bevel kan worden opgelegd dat door hem aangewezen werkzaamheden voor ten hoogste drie maanden worden gestaakt dan wel niet mogen worden aangevangen.   
 2.  Indien een waarschuwing als bedoeld in het eerste lid is gegeven en herhaling van de overtreding of een latere overtreding als bedoeld in het eerste lid is geconstateerd, kan door de ambtenaar, bedoeld in het eerste lid, aan de werkgever bij beschikking een bevel als bedoeld in het eerste lid worden opgelegd dat wordt opgevolgd met ingang van het in de beschikking aangeven tijdstip. Deze beschikking wordt niet gegeven zolang wegens de eerste overtreding, bedoeld in het eerste lid, nog niet een bestuurlijke boete is opgelegd.   
 3.  De constatering van de overtreding, bedoeld in het eerste of tweede lid, wordt vastgelegd in een boeterapport.   
-4.  De waarschuwing, bedoeld in het eerste lid, vervalt indien na de dagtekening van de waarschuwing vijf jaren zijn verstreken. [Artikel 5:34, tweede lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing.   
+4.  De waarschuwing, bedoeld in het eerste lid, vervalt indien na de dagtekening van de waarschuwing vijf jaren zijn verstreken. Artikel 5:34, tweede lid, van de Algemene wet bestuursrecht is van overeenkomstige toepassing.   
 5.  De ambtenaar, bedoeld in het eerste lid, is bevoegd met betrekking tot het bevel, bedoeld in het tweede lid, met inbegrip van de oplegging van een last onder bestuursdwang, de nodige maatregelen te treffen, de nodige aanwijzingen te geven en de hulp van de sterke arm in te roepen.   
 6.  Ieder wie zulks aangaat is verplicht zich te gedragen overeenkomstig een bevel als bedoeld in het tweede lid en een maatregel of aanwijzing als bedoeld in het vijfde lid.   
 7.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot het eerste en tweede lid.  
@@ -306,11 +306,11 @@ Een beschikking op grond van deze wet van een ambtenaar als bedoeld in artikel 
 ###Artikel 18 
 
 1. Als overtreding wordt aangemerkt het niet naleven van de artikelen 2, eerste lid, en 15 en het bepaalde bij of krachtens artikel 2a.
-2. Als overtreding wordt tevens aangemerkt het door de werkgever niet naleven van [artikel 5:20 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) voor zover het betreft het door de toezichthouder uitoefenen van bevoegdheden ter vaststelling van de identiteit van degene die voor de werkgever arbeid verricht of heeft verricht.
+2. Als overtreding wordt tevens aangemerkt het door de werkgever niet naleven van artikel 5:20 van de Algemene wet bestuursrecht voor zover het betreft het door de toezichthouder uitoefenen van bevoegdheden ter vaststelling van de identiteit van degene die voor de werkgever arbeid verricht of heeft verricht.
 
 ### Artikel  18b  
 
-1.  Onverminderd [artikel 5:48, tweede lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) vermeldt het rapport in ieder geval: 
+1.  Onverminderd artikel 5:48, tweede lid, van de Algemene wet bestuursrecht vermeldt het rapport in ieder geval: 
 
 a. de bij de overtreding betrokken persoon of personen;  
 
@@ -324,13 +324,13 @@ b. het officiële nummer waaronder het betreffende vervoermiddel is geregistreer
 
 ###Artikel 19d 
 
-1.  De bestuurlijke boete die voor een overtreding kan worden opgelegd bedraagt ten hoogste het bedrag van de vijfde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).   
+1.  De bestuurlijke boete die voor een overtreding kan worden opgelegd bedraagt ten hoogste het bedrag van de vijfde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht.   
 2.  Onverminderd het eerste lid verhoogt de op grond van artikel 19a, eerste lid, aangewezen ambtenaar de op te leggen bestuurlijke boete met 100 procent van het boetebedrag, vastgesteld op grond van het zesde lid, indien binnen een tijdvak van vijf jaar voorafgaand aan de dag van constatering van de overtreding een eerdere overtreding, bestaande uit het niet naleven van eenzelfde wettelijke verplichting of verbod of het niet naleven van bij of krachtens algemene maatregel van bestuur aan te wijzen soortgelijke verplichtingen en verboden, is geconstateerd en de bestuurlijke boete wegens de eerdere overtreding onherroepelijk is geworden.  
 3.  De verhoging van de bestuurlijke boete, bedoeld in het tweede lid, bedraagt 200 procent indien zowel de overtreding als de eerdere overtreding, bedoeld in dat lid, bij of krachtens algemene maatregel van bestuur zijn aangewezen als ernstige overtredingen.   
 4.  Onverminderd het eerste lid verhoogt de op grond van artikel 19a, eerste lid, aangewezen ambtenaar de op te leggen bestuurlijke boete met 200 procent van het boetebedrag, vastgesteld op grond van het zesde lid, indien binnen een tijdvak van vijf jaar voorafgaand aan de dag van constatering van de overtreding twee maal een eerdere overtreding, bestaande uit het niet naleven van eenzelfde wettelijke verplichting of verbod of het niet naleven van bij of krachtens algemene maatregel van bestuur aan te wijzen soortgelijke verplichtingen en verboden, is geconstateerd en de bestuurlijke boeten wegens de eerdere overtredingen onherroepelijk zijn geworden.   
 5.  In afwijking van het tweede en vierde lid is het tijdvak van vijf jaar in die leden tien jaar indien de onherroepelijke boetes, bedoeld in die leden, zijn opgelegd wegens bij of krachtens algemene maatregel van bestuur aangewezen ernstige overtredingen. 
-6. Onze Minister stelt beleidsregels vast waarin de boetebedragen voor de overtredingen worden vastgesteld. [Artikel 5:53 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing indien een artikel gesteld bij of krachtens deze wet op grond waarvan een bestuurlijke boete kan worden opgelegd, niet is nageleefd. 
-7. In afwijking van [artikel 8:69 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan de rechter in beroep of hoger beroep de hoogte van de bestuurlijke boete ook ten nadele van de belanghebbende wijzigen.
+6. Onze Minister stelt beleidsregels vast waarin de boetebedragen voor de overtredingen worden vastgesteld. Artikel 5:53 van de Algemene wet bestuursrecht is van toepassing indien een artikel gesteld bij of krachtens deze wet op grond waarvan een bestuurlijke boete kan worden opgelegd, niet is nageleefd. 
+7. In afwijking van artikel 8:69 van de Algemene wet bestuursrecht kan de rechter in beroep of hoger beroep de hoogte van de bestuurlijke boete ook ten nadele van de belanghebbende wijzigen.
 
 ### Artikel  19f  
 

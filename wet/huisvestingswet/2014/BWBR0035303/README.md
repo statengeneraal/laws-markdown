@@ -231,7 +231,6 @@ c. van zelfstandige in onzelfstandige woonruimte om te zetten;
 d. te verbouwen tot twee of meer woonruimten.  
 
 ### Artikel  22  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Het is verboden om een recht op een gebouw dat behoort tot een door de gemeenteraad in de huisvestingsverordening daartoe aangewezen categorie gebouwen zonder vergunning van burgemeester en wethouders te splitsen in appartementsrechten als bedoeld in artikel 106, eerste en vierde lid, van Boek 5 van het Burgerlijk Wetboek indien een of meer appartementsrechten de bevoegdheid omvatten tot het gebruik van een of meer gedeelten van het gebouw als woonruimte.   
 2.  Op het verlenen van deelnemings- of lidmaatschapsrechten of het aangaan van een verbintenis daartoe door een rechtspersoon is het eerste lid van overeenkomstige toepassing.  

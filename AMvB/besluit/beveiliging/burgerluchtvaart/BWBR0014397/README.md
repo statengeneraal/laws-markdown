@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Justitie van 28 juni 2001, nr. 5105759/01/6;
 
-Gelet op de [artikelen 37ac, eerste lid](../../../../../wet/luchtvaartwet/BWBR0002267/README.md), en [37e, tweede lid, onder d, van de Luchtvaartwet](../../../../../wet/luchtvaartwet/BWBR0002267/README.md);
+Gelet op de artikelen 37ac, eerste lid, en 37e, tweede lid, onder d, van de Luchtvaartwet;
 
 De Raad van State gehoord (advies van 3 augustus 2001, No. W03.01.0298/I);
 
@@ -20,11 +20,11 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder: 
 
-a. beveiligingsmedewerker: een lid van het beveiligingspersoneel als bedoeld in [artikel 37a, eerste lid, onderdeel b, onder 1° van de Luchtvaartwet](../../../../../wet/luchtvaartwet/BWBR0002267/README.md);  
+a. beveiligingsmedewerker: een lid van het beveiligingspersoneel als bedoeld in artikel 37a, eerste lid, onderdeel b, onder 1° van de Luchtvaartwet;  
 
-b. fouillering: onderzoek aan kleding als bedoeld in [artikel 37b, zesde lid](../../../../../wet/luchtvaartwet/BWBR0002267/README.md), en [artikel 37h van de Luchtvaartwet](../../../../../wet/luchtvaartwet/BWBR0002267/README.md);  
+b. fouillering: onderzoek aan kleding als bedoeld in artikel 37b, zesde lid, en artikel 37h van de Luchtvaartwet;  
 
-c.air marshals: ambtenaren van de Koninklijke marechaussee die in het kader van de uitoefening van de taak ten behoeve van de beveiliging van de burgerluchtvaart, bedoeld in [artikel 4, eerste lid, onder c, van de Politiewet 2012](../../../../../wet/politiewet/2012/BWBR0031788/README.md), aan boord van een luchtvaartuig worden ingezet;
+c.air marshals: ambtenaren van de Koninklijke marechaussee die in het kader van de uitoefening van de taak ten behoeve van de beveiliging van de burgerluchtvaart, bedoeld in artikel 4, eerste lid, onder c, van de Politiewet 2012, aan boord van een luchtvaartuig worden ingezet;
 
 d.Onze Minister: Onze Minister van Veiligheid en Justitie. 
 
@@ -34,7 +34,7 @@ De exploitant van een luchtvaartterrein zorgt dat de beveiligingsmedewerker zijn
 
 ### Artikel  3  
 
-Het plan met betrekking tot de beveiliging, bedoeld in [artikel 37e van de Luchtvaartwet](../../../../../wet/luchtvaartwet/BWBR0002267/README.md), bevat een opgave van de wijze waarop de exploitant van een luchtvaartterrein uitvoering geeft aan artikel 2. De opgave bevat daartoe in ieder geval: 
+Het plan met betrekking tot de beveiliging, bedoeld in artikel 37e van de Luchtvaartwet, bevat een opgave van de wijze waarop de exploitant van een luchtvaartterrein uitvoering geeft aan artikel 2. De opgave bevat daartoe in ieder geval: 
 
 a. de wijze waarop de exploitant voorziet in controle op de taakuitoefening door de beveiligingsmedewerkers,  
 
@@ -44,7 +44,7 @@ c. een weergave van de contractuele bepalingen die ter uitvoering van artikel 2 
 
 ### Artikel  4  
 
-Het plan met betrekking tot de beveiliging, bedoeld in [artikel 37e van de Luchtvaartwet](../../../../../wet/luchtvaartwet/BWBR0002267/README.md), bevat: 
+Het plan met betrekking tot de beveiliging, bedoeld in artikel 37e van de Luchtvaartwet, bevat: 
 
 a. een opgave van het vereiste opleidingsniveau van de beveiligingsmedewerkers en van de wijze waarop voorzien wordt in behoud van kennis en vaardigheden en  
 
@@ -92,13 +92,13 @@ b. de veiligheid van personen of goederen wordt bedreigd,
 
 c. verstoring van de openbare orde dreigt,  
 
-d. middelen als bedoeld in [artikel 2](../../../../../wet/opiumwet/BWBR0001941/README.md) of [3 van de Opiumwet](../../../../../wet/opiumwet/BWBR0001941/README.md) worden aangetroffen of  
+d. middelen als bedoeld in artikel 2 of 3 van de Opiumwet worden aangetroffen of  
 
 e. er aanwijzingen zijn dat door een te controleren of gecontroleerde passagier een strafbaar feit is, wordt of zal worden gepleegd.    
 
 ### Artikel  10  
 
-1.  Indien de controle een bevraging als bedoeld in [artikel 37h, eerste lid, onder d](../../../../../wet/luchtvaartwet/BWBR0002267/README.md) omvat, bevraagt de beveiligingsmedewerker passagiers met inachtneming van de in het maatschappelijk verkeer algemeen aanvaarde omgangsvormen.   
+1.  Indien de controle een bevraging als bedoeld in artikel 37h, eerste lid, onder d omvat, bevraagt de beveiligingsmedewerker passagiers met inachtneming van de in het maatschappelijk verkeer algemeen aanvaarde omgangsvormen.   
 2.  De beveiligingsmedewerker beperkt de bevraging tot onderwerpen die kunnen dienen tot het opleveren van aanwijzingen met betrekking tot de betrouwbaarheid van de passagier.  
 
 ### §  3  
@@ -109,11 +109,20 @@ e. er aanwijzingen zijn dat door een te controleren of gecontroleerde passagier 
 
 Paragraaf 2 is van overeenkomstige toepassing op: 
 
-a. controle van personen en voorwerpen als bedoeld in [artikel 37b, zesde lid, van de Luchtvaartwet](../../../../../wet/luchtvaartwet/BWBR0002267/README.md);  
+a. controle van personen en voorwerpen als bedoeld in artikel 37b, zesde lid, van de Luchtvaartwet;  
 
-b. verdergaande controle als bedoeld in [artikel 37hd van de Luchtvaartwet](../../../../../wet/luchtvaartwet/BWBR0002267/README.md);   
+b. verdergaande controle als bedoeld in artikel 37hd van de Luchtvaartwet;   
 
-c. controle van de identiteit van personen en de rechtmatigheid van hun aanwezigheid op het luchtvaartterrein als bedoeld in [artikel 37f, tweede lid, onder b](../../../../../wet/luchtvaartwet/BWBR0002267/README.md), en [37h, derde lid, van de Luchtvaartwet](../../../../../wet/luchtvaartwet/BWBR0002267/README.md).   
+c. controle van de identiteit van personen en de rechtmatigheid van hun aanwezigheid op het luchtvaartterrein als bedoeld in artikel 37f, tweede lid, onder b, en 37h, derde lid, van de Luchtvaartwet.   
+
+### Artikel  11a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Personen die werkzaam zijn op een luchtvaartterrein en die toegang hebben tot de om beveiligingsredenen beperkt toegankelijke zones van de in artikel 37b, eerste lid, onder b en c, van de Luchtvaartwet bedoelde delen van dat luchtvaartterrein, beschikken over een door een exploitant van een luchtvaartterrein verstrekt of erkend toegangsbewijs.   
+2.  Alvorens het toegangsbewijs als bedoeld in het eerste lid, wordt verstrekt, wordt een achtergrondonderzoek ingesteld. Ten aanzien van de personen bedoeld in het eerste lid, betreft dit onderzoek de afgifte van een verklaring omtrent het gedrag als bedoeld in artikel 28 van de Wet justitiële en strafvorderlijke gegevens, die is gekoppeld aan continue controle op nieuwe gegevens in de justitiële documentatie van de houder van de verklaring. Ten aanzien van personen die een functie vervullen of willen vervullen die is aangewezen als vertrouwensfunctie, betreft dit onderzoek de afgifte van een verklaring als bedoeld in artikel 1, onder b, van de Wet veiligheidsonderzoeken.   
+3.  De exploitant van een luchtvaartterrein registreert de voor- en achternaam van de persoon aan wie een toegangsbewijs als bedoeld in het eerste lid, wordt verstrekt, alsmede andere identificerende gegevens die noodzakelijk zijn voor de uitvoering van de continue controle, bedoeld in het tweede lid. Met het oog op de toepassing van het vierde lid verstrekt de exploitant deze gegevens periodiek aan Onze Minister van Veiligheid en Justitie.   
+4.  Indien de exploitant van een luchtvaartterrein vermoedt dat degene die bij de aanvraag van het toegangsbewijs een verklaring omtrent het gedrag, als bedoeld in het tweede lid, heeft overgelegd, niet meer voldoet aan de eisen voor de afgifte daarvan, verlangt de exploitant dat die persoon binnen een door de exploitant vast te stellen termijn opnieuw verzoekt om afgifte van een verklaring omtrent het gedrag. Het toegangsbewijs van de desbetreffende persoon wordt door de exploitant onmiddellijk geblokkeerd.   
+5.  Het toegangsbewijs van de persoon bedoeld in het vierde lid die niet binnen een redelijke termijn een verklaring omtrent het gedrag overlegt, wordt ingenomen.  
 
 ### §  4  
 
@@ -126,7 +135,7 @@ c. controle van de identiteit van personen en de rechtmatigheid van hun aanwezig
 
 ### Artikel  13  
 
-1.  Voorafgaand aan het nader onderzoek naar de inhoud van ruimbagage, bedoeld in [artikel 37h, tweede lid, onder b, van de Luchtvaartwet](../../../../../wet/luchtvaartwet/BWBR0002267/README.md) vraagt de beveiligingsmedewerker de passagier te bevestigen dat de desbetreffende ruimbagage hem toebehoort en verzoekt hem deze zelf te openen.   
+1.  Voorafgaand aan het nader onderzoek naar de inhoud van ruimbagage, bedoeld in artikel 37h, tweede lid, onder b, van de Luchtvaartwet vraagt de beveiligingsmedewerker de passagier te bevestigen dat de desbetreffende ruimbagage hem toebehoort en verzoekt hem deze zelf te openen.   
 2.  Het eerste lid is niet van toepassing indien de passagier zich voor zover redelijkerwijs valt na te gaan kennelijk niet op het luchtvaartterrein bevindt.  
 
 ### §  5  
@@ -135,11 +144,11 @@ c. controle van de identiteit van personen en de rechtmatigheid van hun aanwezig
 
 ### Artikel  14  
 
-1.  De luchtvaartmaatschappij of de geregistreerde, bedoeld in [artikel 37p van de Luchtvaartwet](../../../../../wet/luchtvaartwet/BWBR0002267/README.md), doet onverwijld mededeling aan de Koninklijke marechaussee van een onregelmatigheid bij de uitvoering van de controle van vracht.   
+1.  De luchtvaartmaatschappij of de geregistreerde, bedoeld in artikel 37p van de Luchtvaartwet, doet onverwijld mededeling aan de Koninklijke marechaussee van een onregelmatigheid bij de uitvoering van de controle van vracht.   
 2.  Indien de vracht zich bij controle niet bevindt op een terrein waar de Koninklijke marechaussee is belast met de uitvoering van de politietaak, wordt in afwijking van het eerste lid van een onregelmatigheid onverwijld mededeling gedaan aan de politie.   
 3.  Van een onregelmatigheid is slechts sprake indien: 
 
-a. gevaarlijke goederen in of bij de vracht worden aangetroffen die niet als zodanig zijn aangeboden in overeenstemming met [artikel 37k, vierde lid, van de Luchtvaartwet](../../../../../wet/luchtvaartwet/BWBR0002267/README.md), of een krachtens dat artikel vastgestelde regeling of aanwijzing; of  
+a. gevaarlijke goederen in of bij de vracht worden aangetroffen die niet als zodanig zijn aangeboden in overeenstemming met artikel 37k, vierde lid, van de Luchtvaartwet, of een krachtens dat artikel vastgestelde regeling of aanwijzing; of  
 
 b. blijkt dat de vracht de veiligheid van de burgerluchtvaart kan bedreigen als deze wordt vervoerd zoals kennelijk wordt beoogd.    
 
@@ -149,14 +158,14 @@ b. blijkt dat de vracht de veiligheid van de burgerluchtvaart kan bedreigen als 
 
 ###Artikel 14a 
 
-1. De aanwijzing, bedoeld in [artikel 37ada, eerste lid, van de Luchtvaartwet](../../../../../wet/luchtvaartwet/BWBR0002267/README.md) omvat het vluchtnummer, de bestemming en het tijdstip van vertrek.
+1. De aanwijzing, bedoeld in artikel 37ada, eerste lid, van de Luchtvaartwet omvat het vluchtnummer, de bestemming en het tijdstip van vertrek.
 2. Naast de gegevens, bedoeld in het eerste lid, kan de aanwijzing een aanduiding omvatten van de stoelen in het luchtvaartuig die bestemd zijn voor de air marshals.
 3. De luchtvaartmaatschappij wordt binnen een redelijke termijn schriftelijk in kennis gesteld van de aanwijzing.
 4. Onze Minister kan de aanwijzing te allen tijde intrekken.
 
 ###Artikel 14b 
 
-1. De luchtvaartmaatschappij die in het kader van de toepassing van [artikel 37ada van de Luchtvaartwet](../../../../../wet/luchtvaartwet/BWBR0002267/README.md) de beschikking krijgt over gegevens of inlichtingen waarvan zij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden, draagt ervoor zorg dat die gegevens en inlichtingen zijn beveiligd tegen kennisneming door onbevoegden.
+1. De luchtvaartmaatschappij die in het kader van de toepassing van artikel 37ada van de Luchtvaartwet de beschikking krijgt over gegevens of inlichtingen waarvan zij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden, draagt ervoor zorg dat die gegevens en inlichtingen zijn beveiligd tegen kennisneming door onbevoegden.
 2. Onze Minister kan nadere regels stellen ten aanzien van het eerste lid.
 
 ###Artikel 14c 
@@ -165,7 +174,7 @@ Voor aanvang van de vlucht informeert de Koninklijke marechaussee de luchtvaartm
 
 ###Artikel 14d 
 
-1. Ten aanzien van het vervoer van air marshals ingevolge [artikel 37ada van de Luchtvaartwet](../../../../../wet/luchtvaartwet/BWBR0002267/README.md) gelden tussen Onze Minister en de luchtvaartmaatschappij de voor het vervoer rechtens geldende dan wel gebruikelijke tarieven en voorwaarden. Bij gebreke van zowel rechtens geldende als gebruikelijke tarieven en voorwaarden, gelden de door Onze Minister vastgestelde tarieven en voorwaarden.
+1. Ten aanzien van het vervoer van air marshals ingevolge artikel 37ada van de Luchtvaartwet gelden tussen Onze Minister en de luchtvaartmaatschappij de voor het vervoer rechtens geldende dan wel gebruikelijke tarieven en voorwaarden. Bij gebreke van zowel rechtens geldende als gebruikelijke tarieven en voorwaarden, gelden de door Onze Minister vastgestelde tarieven en voorwaarden.
 2. Onze Minister kan regels stellen ter aanvulling van de rechtens geldende of gebruikelijke tarieven en voorwaarden.
 
 ### §  6  

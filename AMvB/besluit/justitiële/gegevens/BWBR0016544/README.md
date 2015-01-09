@@ -89,7 +89,33 @@ q. de overtredingen van de Drank- en Horecawet;
 
 r. de overtredingen van de Flora- en faunawet;  
 
-s. de overtredingen, bedoeld in artikel 35b, eerste lid, van de Scheepvaartverkeerswet.    
+s. de overtredingen, bedoeld in artikel 35b, eerste lid, van de Scheepvaartverkeerswet; 
+
+t. de overtredingen van het Reglement verkeersregels en verkeerstekens, voor zover het betreft: 
+
+1° de overtreding van artikel 11, tweede lid;  
+
+2° de overtredingen van artikel 42;  
+
+3° de overtredingen van artikel 43, eerste en tweede lid;  
+
+4° de overtredingen van artikel 43, derde lid, voor zover de overtreding betreft het rijden over de vluchtstrook of de luchthaven;  
+
+5° de overtredingen van artikel 49, eerste en tweede lid;  
+
+6° de overtreding van artikel 62 juncto artikel 72, sub b;  
+
+7° de overtreding van artikel 82, eerste lid;  
+
+8° de overtredingen van artikel 82a juncto artikel 41a, lid 1, onder a, sub 1 en 4, en  
+
+9° de overtredingen van artikel 83;    
+
+u. de overtredingen van de Wegenverkeerswet 1990, voor zover het betreft: 
+
+1° de overtreding van artikel 12, en  
+
+2° de overtredingen van artikel 160, eerste lid, voor zover het betrekking heeft op het niet stilhouden van een motorrijtuig op eerste vordering.      
 3.  Het eerste lid is van overeenkomstige toepassing op zaken die door de procureur-generaal bij de Hoge Raad in behandeling zijn genomen en waarvan de Hoge Raad ingevolge artikel 76 in eerste instantie en tevens in hoogste ressort kennis neemt.  
 
 ### Artikel  5  
@@ -279,8 +305,13 @@ c. de maatregel bedoeld in artikel 77s van het Wetboek van Strafrecht, indien de
 4.  De burgemeester vernietigt de op grond van het eerste lid verstrekte justitiële gegevens uiterlijk negen maanden na de datum van de verstrekking, indien niet tot het treffen van maatregelen is besloten. Indien tot het treffen van maatregelen is besloten, verwijdert de burgemeester de op grond van het eerste lid verstrekte justitiële gegevens uiterlijk negen maanden na de datum van de verstrekking. De verwijderde gegevens worden gedurende een termijn van vijf jaar bewaard ten behoeve van het afleggen van verantwoording, waarna de gegevens worden vernietigd.   
 5.  Het eerste lid, onder a en b, is niet van toepassing op personen op wie Titel VIIIA van het Eerste Boek van het Wetboek van Strafrecht is toegepast.  
 
+### Artikel  11b  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Ten behoeve van de naleving van de artikelen 3, tweede lid, 4, eerste en tweede lid, en 9, vierde lid, van de Wet politiegegevens worden justitiële gegevens, bedoeld in de artikelen 6 en 7, eerste lid, onder b, g, h, onderdeel 4°, i, j, onderdeel 3°, en k, verstrekt aan de verantwoordelijke, bedoeld in artikel 1, onderdeel f, van de Wet politiegegevens en in artikel 1, onderdeel c, van het Besluit politiegegevens bijzondere opsporingsdiensten.   
+2.  De verantwoordelijke vernietigt de ontvangen justitiële gegevens terstond na het bereiken van het doel van de verstrekking.  
+
 ### Artikel  11aa  
-Treedt in werking per 01-01-2015 
 
 1.  Ten behoeve van de verantwoordelijkheid, bedoeld in de artikelen 2.1 en 2.4, tweede lid, van de Jeugdwet, kan Onze Minister aan een door het college van burgemeester en wethouders aangewezen ambtenaar of aan een door het college aangewezen en onder zijn verantwoordelijkheid werkzame functionaris justitiële gegevens als bedoeld in artikel 6, eerste lid, onderdeel f, en artikel 7, eerste lid, onder j, onderdelen 5 en 6, verstrekken van personen ten aanzien van wie in het kader van een strafrechtelijke beslissing is bepaald dat zij in aanmerking komen voor een vorm van jeugdhulp of jeugdreclassering, als bedoeld in artikel 1.1 van de Jeugdwet.   
 2.  Het college van burgemeester en wethouders treft maatregelen opdat de op grond van het eerste lid verstrekte justitiële gegevens uiterlijk twaalf maanden na de beëindiging van de tenuitvoerlegging van de in het eerste lid bedoelde strafrechtelijke beslissing worden vernietigd.  
@@ -340,7 +371,7 @@ d. de Wet inkomensvoorziening oudere werklozen;
 
 e. de Wet op de arbeidsongeschiktheidsverzekering;  
 
-f. de Wet werk en arbeidsondersteuning jonggehandicapten;  
+f. de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten;  
 
 g. de Wet werk en inkomen naar arbeidsvermogen;  
 
@@ -356,7 +387,7 @@ l. de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze
 
 m. de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen;  
 
-n. de Wet werk en bijstand.     
+n. de Participatiewet.     
 3.  Het bestuursorgaan, dat op grond van het eerste lid justitiële gegevens ontvangt, kan deze gegevens verder verstrekken aan andere bestuursorganen die belast zijn met het nemen van een besluit als bedoeld in het eerste lid.  
 
 ### Afdeling  2  
@@ -402,9 +433,11 @@ a. de directeur van de stichting en de reclasseringsinstelling, bedoeld in artik
 
 b. de reclasseringswerkers, bedoeld in artikel 6, eerste lid, van de Reclasseringsregeling 1995;  
 
-c. de directeur of ressortsdirecteur van de raad voor de kinderbescherming;  
+c. de medewerkers van de gecertificeerde instelling, bedoeld in artikel 1.1 van de Jeugdwet, die zijn belast met de uitvoering van de jeugdreclassering; 
 
-d. de gedragsdeskundigen die zijn belast met de opstelling van rapporten of adviezen als bedoeld in de artikelen 37, tweede en derde lid en 37a, derde lid, van het Wetboek van Strafrecht.     
+d. de directeur of ressortsdirecteur van de raad voor de kinderbescherming;  
+
+e. de gedragsdeskundigen die zijn belast met de opstelling van rapporten of adviezen als bedoeld in de artikelen 37, tweede en derde lid en 37a, derde lid, van het Wetboek van Strafrecht.     
 2.  De in het eerste lid bedoelde personen kunnen tevens kennis nemen van de justitiële gegevens betreffende misdrijven tegen de zeden, bedoeld in artikel 4 van de wet.   
 3.  Justitiële gegevens worden voor zover dit nodig is voor de uitvoering van het Interimbesluit forensische zorg verstrekt aan zorgaanbieders die forensische zorg verlenen. 
 
@@ -415,6 +448,11 @@ Justitiële gegevens worden desgevraagd verstrekt aan de directeuren van de inri
 a. voor de selectie en bejegening van personen ten aanzien van wie de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel plaatsvindt;  
 
 b. voor het nemen van beslissingen over het verlaten van de inrichting bij wijze van verlof.   
+
+### Artikel  18a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Justitiële gegevens worden desgevraagd verstrekt aan de Raad voor strafrechtstoepassing en jeugdbescherming, voor zover hij deze behoeft voor het nemen van beslissingen op beroep of schorsingsverzoeken. 
 
 ### Artikel  19  
 
@@ -473,6 +511,11 @@ Justitiële gegevens van degene die in het bezit is van een chauffeurskaart als 
 ### Artikel  22b  
 
 Justitiële gegevens van degenen, bedoeld in de artikelen 1.50, 1.56, 1.56b en 2.6 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen, worden ambtshalve verstrekt aan Onze Minister. Onze Minister verstrekt de justitiële gegevens als bedoeld in artikel 6, eerste lid, en artikel 7, eerste lid, onder f, ter zake van de strafbare feiten die van belang zijn voor de beoordeling van een met het oog op het werkzaam zijn in de kinderopvang of in het peuterspeelzaalwerk aangevraagde verklaring omtrent het gedrag, verder aan Onze Minister van Sociale Zaken en Werkgelegenheid en het college van burgemeester en wethouders met het oog op het toezicht op de naleving van de kwaliteitseisen die de artikelen 1.50, 1.56, 1.56b en 2.6 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen stellen aan de exploitatie van kinderopvangvoorzieningen of peuterspeelzalen. 
+
+### Artikel  22c  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Justitiële gegevens van degene die in het bezit is van een toegangsbewijs als bedoeld in artikel 11a, eerste lid, van het Besluit beveiliging burgerluchtvaart, worden ambtshalve verstrekt aan Onze Minister. Onze Minister verstrekt de justitiële gegevens, bedoeld in de artikelen 6, eerste lid, en 7, eerste lid, onder f, terzake van de strafbare feiten die van belang zijn voor de beoordeling van een aanvraag om afgifte van een verklaring omtrent het gedrag met het oog op het uitoefenen van de werkzaamheden op een luchtvaartterrein, verder aan de exploitant van het desbetreffende luchtvaartterrein met het oog op toepassing van artikel 11a, vierde lid, van het Besluit beveiliging burgerluchtvaart. 
 
 ### Paragraaf  2  
 
@@ -759,7 +802,7 @@ a. een reclasseringsinstelling als bedoeld in artikel 4 van de Reclasseringsrege
 
 b. de raad voor de kinderbescherming;  
 
-c. een stichting als bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg bij de uitoefening van de taken, bedoeld in artikel 10, eerste lid, onder c en d, van de Wet op de jeugdzorg;  
+c. een gecertificeerde instelling als bedoeld in artikel 1.1 van de Jeugdwet bij de uitvoering van reclassering;  
 
 d. een penitentiaire inrichting als bedoeld in artikel 1, onder b, van de Penitentiaire beginselenwet;  
 
@@ -775,7 +818,7 @@ g. Onze Minister.
 
 Afschriften van rapporten uit een persoonsdossier worden verstrekt aan: 
 
-a. de directeur van een stichting als bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg ten behoeve van het verlenen van hulp en steun aan jeugdigen die worden verdacht van of zijn veroordeeld wegens een strafbaar feit of ten aanzien van wie op grond van bepalingen in het Wetboek van Strafrecht en het Wetboek van Strafvordering voorwaarden zijn gesteld;  
+a. de directeur van een gecertificeerde instelling als bedoeld in artikel 1.1 van de Jeugdwet ten behoeve van het verlenen van hulp en steun aan jeugdigen die worden verdacht van of zijn veroordeeld wegens een strafbaar feit of ten aanzien van wie op grond van bepalingen in het Wetboek van Strafrecht en het Wetboek van Strafvordering voorwaarden zijn gesteld;  
 
 b. Onze Minister ten behoeve van het voorbereiden van enig rapport met het oog op een juiste toepassing van het strafrecht.   
 

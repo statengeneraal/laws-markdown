@@ -11,7 +11,7 @@ Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der State
 
 ### Artikel  1  
 
-Deze wet is van toepassing op de bij de [Spoorwegwet](../../../../wet/spoorwegwet/BWBR0001848/README.md) of bij een der [artikelen 1, 6 of 8 der Locaalspoor- en Tramwegwet](../../../../wet/locaalspoor-/en/tramwegwet/BWBR0001866/README.md) bedoelde spoor- en tramwegen, op welke vervoer plaats heeft door middel van als gelijkstroom opgewekte electriciteit en met terugleiding van den stroom door de spoorstaven. 
+Deze wet is van toepassing op de bij de Spoorwegwet of bij een der artikelen 1, 6 of 8 der Locaalspoor- en Tramwegwet bedoelde spoor- en tramwegen, op welke vervoer plaats heeft door middel van als gelijkstroom opgewekte electriciteit en met terugleiding van den stroom door de spoorstaven. 
 
 ### Artikel  2  
 
@@ -32,11 +32,11 @@ Deze wet is van toepassing op de bij de [Spoorwegwet](../../../../wet/spoorwegwe
 
 ### Artikel  5  
 
-1.  Met de opsporing van overtredingen van de in artikel 2 bedoelde algemene maatregel van bestuur zijn, onverminderd [artikel 141 van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), belast de daartoe door Onze Minister van Verkeer en Waterstaat aangewezen buitengewone opsporingsambtenaren. Deze ambtenaren zijn tevens belast met de opsporing van de feiten, strafbaar gesteld in de [artikelen 179](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) tot en met [182](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [184 van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.    
+1.  Met de opsporing van overtredingen van de in artikel 2 bedoelde algemene maatregel van bestuur zijn, onverminderd artikel 141 van het Wetboek van Strafvordering, belast de daartoe door Onze Minister van Verkeer en Waterstaat aangewezen buitengewone opsporingsambtenaren. Deze ambtenaren zijn tevens belast met de opsporing van de feiten, strafbaar gesteld in de artikelen 179 tot en met 182 en 184 van het Wetboek van Strafrecht, voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.    
 2.  Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.    
-3.  De [artikelen 5:13](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:15](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:16](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:17](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:20 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing ten aanzien van de in het eerste lid bedoelde ambtenaren.    
+3.  De artikelen 5:13, 5:15, 5:16, 5:17 en 5:20 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing ten aanzien van de in het eerste lid bedoelde ambtenaren.    
 4.  Onze Minister van Verkeer en Waterstaat is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de in artikel 2 bedoelde algemene maatregel van bestuur.    
-5.  Onze Minister van Verkeer en Waterstaat is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van [artikel 5:20 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), voor zover het betreft de verplichting tot het verlenen van medewerking aan een krachtens het eerste lid aangewezen ambtenaar.   
+5.  Onze Minister van Verkeer en Waterstaat is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van artikel 5:20 van de Algemene wet bestuursrecht, voor zover het betreft de verplichting tot het verlenen van medewerking aan een krachtens het eerste lid aangewezen ambtenaar.   
 
 ### Artikel  6  
 

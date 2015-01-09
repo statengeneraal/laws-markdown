@@ -22,12 +22,12 @@ c.*concessionaris* hij, die voorzien is van eene concessie, als bedoeld bij lett
 ### Artikel  1a  
 Treedt in werking per 01-12-2015 
 
-Deze wet is niet van toepassing op lokale spoorwegen, aangewezen krachtens [artikel 2, tweede lid, van de Wet lokaal spoor](../../../../../../../wet/wet/lokaal/spoor/BWBR0034363/README.md). 
+Deze wet is niet van toepassing op lokale spoorwegen, aangewezen van de krachtens artikel 2, eerste lid, van de Wet lokaal spoor. 
 
 ### Artikel  2  
 
 1.  Gedeputeerde Staten beschikken op verzoeken om vergunning tot aanleg en instandhouding of tot instandhouding van een spoorweg op wegen in hunne provincie.   
-2.  Op de voorbereiding van de beschikking is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.   
+2.  Op de voorbereiding van de beschikking is afdeling 3.4 van de Algemene wet bestuursrecht van toepassing.   
 3.   De kosten, voor de provincie uit toepassing van dit artikel voortvloeiende, worden haar door den concessionaris vergoed.  
 
 ### Artikel  5  
@@ -56,7 +56,7 @@ Vordert de uitvoering van de vergunning eenige bemoeiing van gedeputeerde staten
 
 ### Artikel  9  
 
-Met de opsporing van de bij deze wet strafbaar gestelde feiten zijn, onverminderd [artikel 141 van het Wetboek van Strafvordering](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), belast de hoofdingenieurs, ingenieurs, adjunct-ingenieurs, hoofdopzichters en opzichters van de provinciale waterstaat. Deze ambtenaren zijn tevens belast met de opsporing van de feiten, strafbaar gesteld in de [artikelen 179](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) tot en met [182](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [184 van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.  
+Met de opsporing van de bij deze wet strafbaar gestelde feiten zijn, onverminderd artikel 141 van het Wetboek van Strafvordering, belast de hoofdingenieurs, ingenieurs, adjunct-ingenieurs, hoofdopzichters en opzichters van de provinciale waterstaat. Deze ambtenaren zijn tevens belast met de opsporing van de feiten, strafbaar gesteld in de artikelen 179 tot en met 182 en 184 van het Wetboek van Strafrecht, voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.  
 
 ### Artikel  10  
 

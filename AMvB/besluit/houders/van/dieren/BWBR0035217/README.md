@@ -1703,15 +1703,21 @@ b. bedraagt de lichtintensiteit op dierhoogte ten minste 20 Lux gedurende ten mi
 
 In deze paragraaf wordt verstaan onder: 
 
+*compartiment:* ruimte waarin de dieren vrij kunnen bewegen en waarin geen scheidingswanden zijn aangebracht; 
+
 *fokdier:* dier dat gepaard heeft of een jaar of ouder is;  
 
 *nerts:* dier van de soort Mustela vison;  
+
+*nestbox:* slaapplaats voor nertsen; 
 
 *opgroeiende nerts:* gespeende nerts die nog niet gepaard heeft en jonger is dan één jaar;  
 
 *pup:* nog niet gespeende nerts;  
 
-*stereotiep gedrag:* langdurig en herhaaldelijk vertoon van dezelfde gedragingen, met uitzondering van gedrag dat normaliter wordt vertoond tijdens het uur voorafgaand aan het moment waarop de dieren worden gevoerd.   
+*stereotiep gedrag:* langdurig en herhaaldelijk vertoon van dezelfde gedragingen, met uitzondering van gedrag dat normaliter wordt vertoond tijdens het uur voorafgaand aan het moment waarop de dieren worden gevoerd;  
+
+*verrijkingsobject:* object dat door nertsen kan worden aangeraakt en dat bedoeld is om de nertsen afleiding te geven.  
 
 ### Artikel  2.76t  
 
@@ -1738,11 +1744,50 @@ e. de handelingen die zijn verricht om stereotiep gedrag of kale staartpunten te
 
 ### Artikel  2.76v  
 
+####Huisvesting
+
+1.  Nertsen worden gehouden in een leefruimte die voldoet aan de eisen in dit artikel.   
+2.  Een leefruimte bestaat uit één of meer compartimenten, waaraan in ieder geval een nestbox is gekoppeld.   
+3.  De leefruimte bestaat ten minste uit één compartiment met een afmeting van ten minste 85 cm lengte, 30 cm breedte en 45 cm hoogte, waarbij de hoogte wordt berekend als afstand tussen de onder- en bovenkant van het compartiment en waarbij eventueel aangebrachte plateaus niet worden meegerekend.   
+4.  Elk fokdier beschikt over een nestbox.   
+5.  De nestbox heeft een afmeting van ten minste 20 cm lengte, 20 cm breedte en 15 cm hoogte.   
+6.  De nestbox is permanent voorzien van voldoende strooisel, dat droog is en bestaat uit stro, houtkrullen, zaagsel of ander materiaal met vergelijkbare eigenschappen.   
+7.  Indien de leefruimte bestaat uit meerdere compartimenten zijn de compartimenten horizontaal, verticaal of horizontaal en verticaal gecombineerd met elkaar geschakeld.   
+8.  In het geval, bedoeld in het zevende lid, heeft elk compartiment ten minste een vloeroppervlakte van 1.700 cm<sup>2</sup> en ten minste een hoogte van 40 cm.   
+9.  Indien een leefruimte bestaat uit meerdere compartimenten wordt het vloeroppervlak van de leefruimte bepaald door de som van de vloeroppervlakten van de onderscheidenlijke compartimenten, ongeacht of de compartimenten horizontaal of verticaal zijn geschakeld.  
+
+### Artikel  2.76w  
+
+####Bezetting per leefruimte en nestbox
+
+1.  In een leefruimte worden maximaal twee fokdieren zonder pups of twee opgroeiende nertsen gehouden.   
+2.  In afwijking van het eerste lid: 
+
+a. is per extra nerts tenminste 850 cm<sup>2</sup> extra vloeroppervlak beschikbaar, indien in een leefruimte meer dan twee fokdieren of meer dan twee opgroeiende nertsen worden gehouden;  
+
+b. is tot 1 augustus van enig jaar ten minste een vloeroppervlakte van 2.550 cm<sup>2</sup> beschikbaar, indien in een leefruimte één fokdier met maximaal drie pups worden gehouden;  
+
+c. is tot 1 juli van enig jaar ten minste een vloeroppervlakte van 2.550 cm<sup>2</sup> beschikbaar en tussen 1 juli en 1 augustus van enig jaar ten minste twee compartimenten, indien in een leefruimte één fokdier met meer dan drie pups wordt gehouden, of  
+
+d. is vanaf 1 augustus van enig jaar een vloeroppervlakte van 2.550 cm<sup>2</sup> voor twee dieren en 850 cm<sup>2</sup> extra voor elke nerts beschikbaar, indien in een leefruimte één fokdier met één of meer pups wordt gehouden.     
+3.  Vanaf 1 augustus van enig jaar is per viertal nertsen of een gedeelte daarvan een vloeroppervlakte van de nestbox van 400 cm<sup>2</sup> beschikbaar. Voor elk dier extra in de leefruimte is 100 cm<sup>2</sup> extra vloeroppervlakte van de nestbox beschikbaar.  
+
+### Artikel  2.76x  
+
+####Verrijking van de leefomgeving
+
+1.  In iedere leefruimte is tenminste één verrijkingsobject aanwezig.   
+2.  Van 1 augustus tot 1 maart van het daaropvolgende jaar is per drie of minder nertsen ten minste één verrijkingsobject aanwezig.   
+3.  Indien als verrijkingsobject een plateau is aangebracht in de leefruimte, is de afstand tussen het plateau en de bovenzijde van het compartiment ten minste 12,5 cm, de afstand tussen het plateau en de bodem ten minste 25 cm en is de oppervlakte ten minste 450 cm<sup>2</sup>.   
+4.  Indien als verrijkingsobject een cilinder is aangebracht in de leefruimte, heeft die een lengte van ten minste 15 cm en een diameter van ten minste 12 cm.  
+
+### Artikel  2.76y  
+
 ####Controles
 
 De houder van nertsen controleert dagelijks de kwaliteit van het strooisel. 
 
-### Artikel  2.76w  
+### Artikel  2.76z  
 
 ####Actieplan
 

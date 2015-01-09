@@ -3,12 +3,12 @@
 ##Regeling betreffende de formulieren bestemd voor het opmaken van de in verband met de aangifte van de geboorte over te leggen verklaring van een arts of een verloskundige en de daarbij behorende enveloppe
 
 De Staatssecretaris van Justitie,  
-Gelet op [artikel 27, derde lid, van het Besluit burgerlijke stand 1994](../../../../../../../../../../AMvB/besluit/burgerlijke/stand/1994/BWBR0006493/README.md);
+Gelet op artikel 27, derde lid, van het Besluit burgerlijke stand 1994;
 Besluit:    
 
 ### Artikel  1  
 
-De verklaring van een arts of een verloskundige, bedoeld in [artikel 19e, achtste lid, van Boek 1 van het Burgerlijk Wetboek](../../../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), wordt opgemaakt door invulling van een formulier ingericht overeenkomstig het als bijlage 1 aangehechte model (formaat A4, 297 × 210 mm). Het formulier wordt vervaardigd als doordrukformulier met twee kopieën, waarvan de ene door de arts of de verloskundige kan worden gehouden en de andere aan de moeder of de aangever kan worden uitgereikt. 
+De verklaring van een arts of een verloskundige, bedoeld in artikel 19e, achtste lid, van Boek 1 van het Burgerlijk Wetboek, wordt opgemaakt door invulling van een formulier ingericht overeenkomstig het als bijlage 1 aangehechte model (formaat A4, 297 × 210 mm). Het formulier wordt vervaardigd als doordrukformulier met twee kopieën, waarvan de ene door de arts of de verloskundige kan worden gehouden en de andere aan de moeder of de aangever kan worden uitgereikt. 
 
 ### Artikel  2  
 
@@ -27,7 +27,7 @@ E. M. A.  Schmitz
 
 ### Bijlage 1  
 
-####Verklaring van geboorte ex [artikel 19e, achtste lid, Boek 1 van het Burgerlijk Wetboek](../../../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), op te maken door een arts of een verloskundige
+####Verklaring van geboorte ex artikel 19e, achtste lid, Boek 1 van het Burgerlijk Wetboek, op te maken door een arts of een verloskundige
 
 ###1  
 
@@ -87,7 +87,7 @@ De verklaring strekt ertoe met een redelijke graad van zekerheid vast te stellen
 
 ### Bijlage 2  
 
-####Model van de enveloppe, bedoeld in [artikel 27, tweede lid, van het Besluit burgerlijke stand 1994](../../../../../../../../../../AMvB/besluit/burgerlijke/stand/1994/BWBR0006493/README.md)
+####Model van de enveloppe, bedoeld in artikel 27, tweede lid, van het Besluit burgerlijke stand 1994
 
 | --- | --- |
 |---|---|

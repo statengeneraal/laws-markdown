@@ -173,6 +173,14 @@ b. welk deel van de examenstof centraal zal worden geëxamineerd en over welke e
 3.  Het bevoegd gezag beslist, welke in artikel 7, derde lid, bedoelde differentiaties worden aangeboden.   
 4.   Het eerste lid is van overeenkomstige toepassing op kandidaten die deeleindexamen afleggen.  
 
+### Artikel  8a  
+
+####Minimumeis overeenstemming eindexamenvakken met schoolsoort van inschrijving
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+Indien het eindexamen één of meer vakken omvat van een andere schoolsoort dan die waarvoor de kandidaat is ingeschreven, behoort ten minste één vak tot de voorgeschreven eindexamenvakken van de schoolsoort van inschrijving. 
+
 ### Artikel  9  
 
 ####Vrijstellingen vavo

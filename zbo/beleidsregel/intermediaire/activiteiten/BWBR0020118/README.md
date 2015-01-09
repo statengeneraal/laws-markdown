@@ -3,7 +3,7 @@
 ##Beleidsregel intermediaire activiteiten
 
 Het Uitvoeringsinstituut werknemersverzekeringen,  
-Gelet op de [artikelen 34](../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) en [35 van de Wet werk en inkomen naar arbeidsvermogen](../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), [artikel 52d van de Ziektewet](../../../../../wet/ziektewet/BWBR0001888/README.md), [artikel 65e van de Wet op de arbeidsongeschiktheidsverzekering](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), [artikel 67c van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), [artikel 59b van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), [artikel 2.17 van de Wet invoering en financiering Wet werk en inkomen naar arbeidsvermogen](../../../../../wet/wet/invoering/en/financiering/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019058/README.md) en de [artikelen 7](../../../../../AMvB/reïntegratiebesluit/BWBR0019152/README.md), [14](../../../../../AMvB/reïntegratiebesluit/BWBR0019152/README.md) en [19 van het Reïntegratiebesluit](../../../../../AMvB/reïntegratiebesluit/BWBR0019152/README.md);
+Gelet op de artikelen 34 en 35 van de Wet werk en inkomen naar arbeidsvermogen, artikel 52d van de Ziektewet, artikel 65e van de Wet op de arbeidsongeschiktheidsverzekering, artikel 67c van de Wet arbeidsongeschiktheidsverzekering zelfstandigen, artikel 59b van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, artikel 2.17 van de Wet invoering en financiering Wet werk en inkomen naar arbeidsvermogen en de artikelen 7, 14 en 19 van het Reïntegratiebesluit;
 Besluit:    
 
 ### Artikel  1  
@@ -38,13 +38,13 @@ Indien de persoon die de diensten verricht, werkzaam is in dezelfde bedrijfsvest
 
 ####Verlenging na einde uitkering
 
-Indien het recht op een voorziening voor intermediaire activiteiten eindigt om de in [artikel 14, derde lid, van het Reïntegratiebesluit](../../../../../AMvB/reïntegratiebesluit/BWBR0019152/README.md) genoemde reden, wordt die voorziening, voor zover nog wordt voldaan aan de overige voorwaarden, gedurende twee maanden verlengd. 
+Indien het recht op een voorziening voor intermediaire activiteiten eindigt om de in artikel 14, derde lid, van het Reïntegratiebesluit genoemde reden, wordt die voorziening, voor zover nog wordt voldaan aan de overige voorwaarden, gedurende twee maanden verlengd. 
 
 ### Artikel  5  
 
 ####Onderwijsvoorzieningen
 
-Kosten voor de diensten van een doventolk als bedoeld in [artikel 2.17, tweede lid, van de Wet invoering en financiering Wet werk en inkomen naar arbeidsvermogen](../../../../../wet/wet/invoering/en/financiering/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019058/README.md) en [artikel 19, eerste lid, onder b, van het Reïntegratiebesluit](../../../../../AMvB/reïntegratiebesluit/BWBR0019152/README.md), worden niet vergoed voor zover zij betrekking hebben op het volgen van incidenteel of aanvullend onderwijs bij een instelling voor regulier onderwijs door een leerling die staat ingeschreven bij een instelling voor speciaal onderwijs. 
+Kosten voor de diensten van een doventolk als bedoeld in artikel 2.17, tweede lid, van de Wet invoering en financiering Wet werk en inkomen naar arbeidsvermogen en artikel 19, eerste lid, onder b, van het Reïntegratiebesluit, worden niet vergoed voor zover zij betrekking hebben op het volgen van incidenteel of aanvullend onderwijs bij een instelling voor regulier onderwijs door een leerling die staat ingeschreven bij een instelling voor speciaal onderwijs. 
 
 ### Artikel  6  
 

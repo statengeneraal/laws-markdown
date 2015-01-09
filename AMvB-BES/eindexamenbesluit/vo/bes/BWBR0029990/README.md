@@ -166,6 +166,14 @@ b. welk deel van de examenstof centraal zal worden geëxamineerd en over welke e
 3.  Het bevoegd gezag beslist, welke in artikel 6, derde lid, bedoelde differentiaties worden aangeboden.   
 4.  Het eerste lid is van overeenkomstige toepassing op kandidaten die deeleindexamen afleggen.  
 
+### Artikel  7a  
+
+####Minimumeis overeenstemming eindexamenvakken met schoolsoort van inschrijving
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+Indien het eindexamen één of meer vakken omvat van een andere schoolsoort dan die waarvoor de kandidaat is ingeschreven, behoort ten minste één vak tot de voorgeschreven eindexamenvakken van de schoolsoort van inschrijving. 
+
 ### Artikel  8  
 
 ####Vrijstellingen vavo
@@ -805,6 +813,14 @@ Ten behoeve van experimenten met een andere inrichting van het eindexamen kan On
 3.  Artikel 38, eerste tot en met vierde lid, is ten aanzien van de kandidaat van toepassing in het eerste en in het tweede schooljaar van het gespreid centraal examen, met dien verstande dat het in dat artikel bedoelde recht in het eerste schooljaar ontstaat nadat de eindcijfers van de vakken waarvoor in het eerste schooljaar het centraal examen is afgesloten, voor de eerste maal zijn vastgesteld.   
 4.  Zo spoedig mogelijk na de vaststelling van de eindcijfers, behaald tot en met het eerste schooljaar van het gespreid centraal examen, zendt het bevoegd gezag aan Onze Minister een opgave waarop voor die kandidaat zijn vermeld de gegevens, genoemd in artikel 44, onderdelen a tot en met e.   
 5.  De directeur en de secretaris stellen op verzoek van de kandidaat de uitslag van het eindexamen reeds vast aan het einde van het eerste schooljaar van het gespreid centraal examen of het gespreid schoolexamen, met overeenkomstige toepassing van artikel 37 of artikel 37a.  
+
+### Artikel  47a  
+
+####Hardheidsclausule
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+Onze Minister kan bij of krachtens dit besluit vastgestelde voorschriften buiten toepassing laten of daarvan afwijken voor zover onverkorte toepassing zal leiden tot onbillijkheden van overwegende aard. 
 
 ### Hoofdstuk  VII  
 

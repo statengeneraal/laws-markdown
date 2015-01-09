@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de voorschriften inzake rijbewijzen nader af te stemmen op richtlijn 91/439/EEG van de Raad van de Europese Gemeenschappen van 29 juli 1991 betreffende het rijbewijs (PbEG L 237), de voorschriften op het terrein van de rijvaardigheid en rijbevoegdheid aan te passen aan recente ontwikkelingen in de praktijk, alsmede een aantal technische onvolkomenheden in de [Wegenverkeerswet 1994](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) weg te nemen;
+Alzo Wij in overweging genomen hebben, dat het wenselijk is de voorschriften inzake rijbewijzen nader af te stemmen op richtlijn 91/439/EEG van de Raad van de Europese Gemeenschappen van 29 juli 1991 betreffende het rijbewijs (PbEG L 237), de voorschriften op het terrein van de rijvaardigheid en rijbevoegdheid aan te passen aan recente ontwikkelingen in de praktijk, alsmede een aantal technische onvolkomenheden in de Wegenverkeerswet 1994 weg te nemen;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  

@@ -248,7 +248,7 @@ g. reclasseringswerkers als bedoeld in artikel 6 van de Reclasseringsregeling 19
 
 h. de Dienst Wegverkeer, ten behoeve van het uitvoeren van de taken van de dienst op grond van artikel 2 van de Regeling taken Dienst Wegverkeer;  
 
-i. de stichting, bedoeld in artikel 1, van de Wet op de jeugdzorg, ten behoeve van de uitvoering van één van de taken als bedoeld in artikel 5, eerste lid, en artikel 10, eerste lid, onderdelen a tot en met e, van die wet of een door Onze Minister van Veiligheid en Justitie aanvaarde rechtspersoon, bedoeld in de artikelen 254, tweede lid, en 302, tweede lid, van Boek 1 van het Burgerlijk Wetboek, ten behoeve van de uitvoering van één van de taken als bedoeld in artikel 10, eerste lid, onderdelen a en b, van de Wet op de jeugdzorg;  
+i. het college van burgemeesters en wethouders, ten behoeve van de uitvoering van de taken, bedoeld in de artikelen 2.3, eerste en zesde lid, en 2.4, eerste lid, van de Jeugdwet, de gecertificeerde instelling, bedoeld in artikel 1.1 van de Jeugdwet, ten behoeve van de uitvoering van een kinderbeschermingsmaatregel of jeugdreclassering en het AMHK, bedoeld in artikel 1.1.1. van de Wet maatschappelijke ondersteuning 2015, ten behoeve van de uitvoering van de taken, bedoeld in artikel 4.1.1, tweede lid, van die wet; 
 
 j. de raad voor de kinderbescherming, ten behoeve van de uitvoering van één van de bij wet aan de raad opgedragen taken;  
 

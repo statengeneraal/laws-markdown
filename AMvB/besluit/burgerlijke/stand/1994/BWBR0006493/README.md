@@ -71,6 +71,12 @@ Van de overbrenging maakt de beheerder van de centrale bewaarplaats een verklari
 
 Onze Minister van Justitie geeft voorschriften betreffende het voor de akten en de dubbelen of de afschriften te gebruiken papier, de voor het opmaken van deze stukken te hanteren middelen alsmede betreffende de voor de dubbelen te gebruiken gegevensdrager als bedoeld in artikel 6, derde lid.  
 
+### Artikel  10a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  De registers van de burgerlijke stand kunnen ook elektronisch zijn.   
+2.  Op de elektronische registers zijn de artikelen 6 tot en met 10 van overeenkomstige toepassing, voor zover de aard van het elektronische register zich daartegen niet verzet.  
+
 ### Derde  afdeling  
 
 ####De klappers op de akten 
@@ -773,6 +779,18 @@ De voorlopige akte van overlijden, bedoeld in artikel 19 g, derde lid, van Boek 
 ### Artikel  67  
 
 Het uittreksel van de akte van overlijden vermeldt de in artikel 61, eerste lid, onderscheidenlijk artikel 62, eerste lid, genoemde gegevens, met inachtneming van gegevens blijkend uit latere vermeldingen. Indien een akte van inschrijving is opgemaakt ingevolge artikel 417, onderscheidenlijk artikel 426 van Boek 1 van het Burgerlijk Wetboek, wordt dit in het hoofd van het uittreksel vermeld.  
+
+###Elfde afdeling 
+
+####De elektronische kennisgeving van een huwelijk en geregistreerd partnerschap en de elektronische aangifte van overlijden
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+### Artikel  67a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Indien de kennisgeving van een huwelijk of geregistreerd partnerschap als bedoeld in artikel 44 respectievelijk artikel 80a, derde lid, van Boek 1 van het Burgerlijk Wetboek langs elektronische weg wordt gedaan, verstrekken de aanstaande echtgenoten respectievelijk aanstaande partners aan de ambtenaar van de burgerlijke stand tevens hun burgerservicenummer.   
+2.  Indien de aangifte van overlijden langs elektronische weg wordt gedaan, verstrekt de persoon die de aangifte doet aan de ambtenaar van de burgerlijke stand tevens het burgerservicenummer van de overledene alsmede een verklaring van de arts die het overlijden heeft vastgesteld.  
 
 ### Hoofdstuk  3  
 

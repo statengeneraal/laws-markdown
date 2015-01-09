@@ -24,7 +24,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 –  *militair eindgebruik:* militair eindgebruik als bedoeld in artikel 4, tweede lid, van verordening 428/2009;  
 
-–  *militaire goederen:* de krachtens [artikel 3:1 van de Algemene douanewet aangewezen](../../../../../wet/algemene/douanewet/BWBR0023746/README.md) militaire goederen;  
+–  *militaire goederen:* de krachtens artikel 3:1 van de Algemene douanewet aangewezen militaire goederen;  
 
 –  *militaire programmatuur:* programmatuur als bedoeld in de door de Raad van de Europese Unie vastgestelde Gemeenschappelijke EU-lijst van militaire goederen (PbEU 2010, C 69);  
 
@@ -137,7 +137,7 @@ b. een goed voor tweeërlei gebruik uit te voeren naar een in een ministeriële 
 
 Het is verboden zonder vergunning van Onze Minister militaire programmatuur of militaire technologie met betrekking tot militaire goederen door middel van elektronische media over te dragen of beschikbaar te stellen indien: 
 
-a. het militaire programmatuur of militaire technologie betreft waarvan de uitvoer als militair goed krachtens [artikel 3:1 van de Algemene douanewet](../../../../../wet/algemene/douanewet/BWBR0023746/README.md) zonder vergunning verboden is;  
+a. het militaire programmatuur of militaire technologie betreft waarvan de uitvoer als militair goed krachtens artikel 3:1 van de Algemene douanewet zonder vergunning verboden is;  
 
 b. het mondelinge overdracht van militaire technologie betreft die via de telefoon wordt beschreven.   
 
@@ -204,9 +204,9 @@ a. de wijze waarop en door wie een vergunning wordt aangevraagd;
 b. de aard van de vergunning;  
 
 c. de voorschriften en voorwaarden die aan de vergunning verbonden kunnen worden.     
-3.  [Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing.   
-4.  De vergunning kan ook worden geweigerd, dan wel ingetrokken in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md).   
-5.  Voordat toepassing wordt gegeven aan het vierde lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), om een advies als bedoeld in [artikel 9 van die wet](../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) worden gevraagd. 
+3.  Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht is niet van toepassing.   
+4.  De vergunning kan ook worden geweigerd, dan wel ingetrokken in het geval en onder de voorwaarden, bedoeld in artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur.   
+5.  Voordat toepassing wordt gegeven aan het vierde lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur, om een advies als bedoeld in artikel 9 van die wet worden gevraagd. 
 
 ### §  7  
 
@@ -214,7 +214,7 @@ c. de voorschriften en voorwaarden die aan de vergunning verbonden kunnen worden
 
 ### Artikel  15  
 
-De [artikelen 10, eerste, derde en vierde lid](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), en [24 van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) zijn van overeenkomstige toepassing op diegene die activiteiten verricht die op grond van verordening 1236/2005, verordening 428/2009 of bij of krachtens deze wet verboden zijn of zonder vergunning verboden zijn. 
+De artikelen 10, eerste, derde en vierde lid, en 24 van Boek 2 van het Burgerlijk Wetboek zijn van overeenkomstige toepassing op diegene die activiteiten verricht die op grond van verordening 1236/2005, verordening 428/2009 of bij of krachtens deze wet verboden zijn of zonder vergunning verboden zijn. 
 
 ### §  8  
 
@@ -222,10 +222,10 @@ De [artikelen 10, eerste, derde en vierde lid](../../../../../wet/burgerlijk/wet
 
 ### Artikel  16  
 
-1.  Voor de toepassing van de bepalingen gesteld bij of krachtens deze wet blijft [artikel 5:15, eerste lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) buiten toepassing.   
+1.  Voor de toepassing van de bepalingen gesteld bij of krachtens deze wet blijft artikel 5:15, eerste lid, van de Algemene wet bestuursrecht buiten toepassing.   
 2.  De toezichthouder is bevoegd met medeneming van de benodigde apparatuur elke plaats te betreden.   
 3.  Het betreden van een woning zonder toestemming van de bewoner mag slechts door ambtenaren die deze bevoegdheid door de toezichthouder hebben gekregen.   
-4.  De toezichthouder is bevoegd tot het geven van een machtiging als bedoeld in [artikel 2 van de Algemene wet op het binnentreden](../../../../../wet/algemene/wet/op/het/binnentreden/BWBR0006763/README.md).  
+4.  De toezichthouder is bevoegd tot het geven van een machtiging als bedoeld in artikel 2 van de Algemene wet op het binnentreden.  
 
 ### Artikel  17  
 
@@ -237,9 +237,9 @@ Met het toezicht op de naleving van het bij of krachtens dit hoofdstuk bepaalde 
 
 ### Artikel  18  
 
-1.  [Artikel 8:13 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing.   
-2.  [Hoofdstuk V van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), met uitzondering van de [artikelen 22j](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [24a, tweede lid](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [25, derde lid](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [25a](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [25b](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [26, tweede lid](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [26a](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [26b, tweede lid](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [26c](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [27a](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [27e, onderdeel a](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), en [27f](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), is van overeenkomstige toepassing op een beschikking als bedoeld in het derde lid, met dien verstande dat voor de overeenkomstige toepassing van artikel 27e, onderdeel b, geldt dat het de situatie betreft waarin niet volledig is voldaan aan de verplichting ingevolge artikel 15.   
-3.  Voor de overeenkomstige toepassing van [hoofdstuk V van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) is een beschikking voor bezwaar vatbaar indien het een beschikking betreft die is genomen bij of krachtens deze wet.  
+1.  Artikel 8:13 van de Algemene wet bestuursrecht is niet van toepassing.   
+2.  Hoofdstuk V van de Algemene wet inzake rijksbelastingen, met uitzondering van de artikelen 22j, 24a, tweede lid, 25, derde lid, 25a, 25b, 26, tweede lid, 26a, 26b, tweede lid, 26c, 27a, 27e, onderdeel a, en 27f, is van overeenkomstige toepassing op een beschikking als bedoeld in het derde lid, met dien verstande dat voor de overeenkomstige toepassing van artikel 27e, onderdeel b, geldt dat het de situatie betreft waarin niet volledig is voldaan aan de verplichting ingevolge artikel 15.   
+3.  Voor de overeenkomstige toepassing van hoofdstuk V van de Algemene wet inzake rijksbelastingen is een beschikking voor bezwaar vatbaar indien het een beschikking betreft die is genomen bij of krachtens deze wet.  
 
 ### Hoofdstuk  2  
 
@@ -257,7 +257,7 @@ Met het toezicht op de naleving van het bij of krachtens dit hoofdstuk bepaalde 
 
 –  *militair eindgebruik:* militair eindgebruik als bedoeld in artikel 4, tweede lid, van verordening 428/2009;  
 
-–  *militaire goederen:* de krachtens [artikel 2.26, eerste lid, van de Douane- en Accijnswet BES](../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) aangewezen goederen;  
+–  *militaire goederen:* de krachtens artikel 2.26, eerste lid, van de Douane- en Accijnswet BES aangewezen goederen;  
 
 –  *militaire programmatuur:* programmatuur als bedoeld in de door de Raad van de Europese Unie vastgestelde Gemeenschappelijke EU-lijst van militaire goederen (PbEU 2010, C 69);  
 
@@ -337,7 +337,7 @@ b. een goed voor tweeërlei gebruik uit te voeren naar een in een ministeriële 
 
 ### Artikel  24  
 
-1.  Artikel 8 is van toepassing in Bonaire, Sint Eustatius en Saba met dien verstande dat in onderdeel a het militaire programmatuur of technologie betreft waarvan de uitvoer als militair goed krachtens [artikel 2.26 van de Douane- en Accijnswet BES](../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) zonder vergunning verboden is.   
+1.  Artikel 8 is van toepassing in Bonaire, Sint Eustatius en Saba met dien verstande dat in onderdeel a het militaire programmatuur of technologie betreft waarvan de uitvoer als militair goed krachtens artikel 2.26 van de Douane- en Accijnswet BES zonder vergunning verboden is.   
 2.  Artikel 9 is van toepassing in Bonaire, Sint Eustatius en Saba.   
 3.  Het is verboden zonder een vergunning van Onze Minister tussenhandeldiensten militaire goederen Bonaire, Sint Eustatius en Saba te verlenen.   
 4.  Artikel 10, tweede en derde lid, is van toepassing in Bonaire, Sint Eustatius en Saba.  
@@ -372,7 +372,7 @@ De boeken, bescheiden en andere gegevensdragers van een ontbonden rechtspersoon 
 
 ### Artikel  28  
 
-[Titel 5.2 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en de artikelen 16 en 17 zijn van overeenkomstige toepassing in Bonaire, Sint Eustatius en Saba. 
+Titel 5.2 van de Algemene wet bestuursrecht en de artikelen 16 en 17 zijn van overeenkomstige toepassing in Bonaire, Sint Eustatius en Saba. 
 
 ### Artikel  29  
 
@@ -390,7 +390,7 @@ Met het toezicht op de naleving van het bij of krachtens dit hoofdstuk bepaalde 
 4.  Voor zover de in het eerste lid strafbaar gestelde feiten overtredingen zijn wordt een overtreding gestraft met een gevangenisstraf van ten hoogste een jaar of een geldboete van de vierde categorie.   
 5.  Met de opsporing van de strafbare feiten, bedoeld in het eerste lid, zijn belast: 
 
-a. de bij of krachtens [artikel 184 Wetboek van Strafvordering BES](../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md) aangewezen ambtenaren;  
+a. de bij of krachtens artikel 184 Wetboek van Strafvordering BES aangewezen ambtenaren;  
 
 b. de door Onze Minister, in overeenstemming met Onze Minister wie het mede aangaat, aangewezen ambtenaren;  
 
@@ -427,7 +427,7 @@ Degene die tussenhandeldiensten als bedoeld in artikel 7, eerste lid, of tussenh
 
 ### Artikel  36  
 
-Het [Besluit financieel verkeer strategische goederen 1996](../../../../../AMvB/besluit/financieel/verkeer/strategische/goederen/1996/BWBR0008298/README.md) wordt ingetrokken. 
+Het Besluit financieel verkeer strategische goederen 1996 wordt ingetrokken. 
 
 ### Artikel  37  
 

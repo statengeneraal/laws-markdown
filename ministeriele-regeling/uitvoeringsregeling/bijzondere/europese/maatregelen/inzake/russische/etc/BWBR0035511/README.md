@@ -30,7 +30,14 @@ In deze regeling wordt verstaan onder:
 
 ### Artikel  2  
 
-De minister verstrekt op aanvraag bijstand voor uitgaven van producentenorganisaties en producenten voor het uit de markt nemen, groen oogsten of niet oogsten van de producten, bedoeld in artikel 1, tweede lid, van verordening 932/2014. 
+1.  De minister verstrekt op aanvraag bijstand voor: 
+
+a. de uitgaven voor verrichtingen van producentenorganisaties en producenten in de periode van 18 augustus 2014 tot en met 3 september 2014 voor het uit de markt nemen, groen oogsten of niet oogsten van de producten, bedoeld in artikel 1, tweede lid, van verordening 932/2014,  
+
+b. de uitgaven voor verrichtingen van producentenorganisaties en producenten vanaf 30 september 2014 tot en met 31 december 2014 voor het uit de markt nemen, groen oogsten of niet oogsten van de producten, bedoeld in artikel 1, tweede lid, van verordening 1031/2014, en  
+
+c. de uitgaven voor verrichtingen van producentenorganisaties en producenten vanaf 1 januari 2015 tot en met 30 juni 2015 voor het uit de markt nemen, groen oogsten of niet oogsten van de producten, bedoeld in artikel 1, tweede lid, van verordening 1031/2014.    
+2.  Meldingen voor verrichtingen als bedoeld in het eerste lid worden afgedaan op volgorde van binnenkomst.  
 
 ### Artikel  3  
 
@@ -83,18 +90,19 @@ De minister stelt de voor groen oogsten en niet oogsten te betalen bijstand per 
 
 ### Artikel  7a  
 
-1.  Wanneer het plafond genoemd in artikel 2, eerste lid, van verordening 1031/2014 bereikt is, beëindigt de minister de mogelijkheid om voorafgaande meldingen, als bedoeld in artikelen 78, eerste lid, en 85, tweede lid, van verordening 543/2011, voor verrichtingen, bedoeld in artikel 2, eerste lid, onderdeel b, in te dienen met ingang van het moment waarop het plafond is bereikt.   
-2.  Na de beëindiging, bedoeld in het eerste lid, gedane meldingen komen niet meer in aanmerking voor de verstrekking van de bijstand, bedoeld in artikel 2, eerste lid, onderdeel b.  
+1.  Wanneer het plafond genoemd in artikel 2, eerste lid, onderdeel a, respectievelijk onderdeel b, van verordening 1031/2014 bereikt is, beëindigt de minister de mogelijkheid om voorafgaande meldingen, als bedoeld in artikelen 78, eerste lid, en 85, tweede lid, van verordening 543/2011, voor verrichtingen, bedoeld in artikel 2, eerste lid, onderdeel b, respectievelijk onderdeel c, in te dienen met ingang van het moment waarop het plafond is bereikt.   
+2.  Na de beëindiging, bedoeld in het eerste lid, gedane meldingen komen niet meer in aanmerking voor de verstrekking van de bijstand, bedoeld in artikel 2, eerste lid, onderdeel b, respectievelijk onderdeel c.  
 
 ### Artikel  7b  
 
-1.  Aanvragen tot uitbetaling van de bijstand, bedoeld in artikel 2, eerste lid, onderdeel a, worden ingediend van 6 oktober 2014 tot en met 15 oktober 2014 met gebruikmaking van een door de minister beschikbaar gesteld formulier.   
-2.  Aanvragen tot uitbetaling van de bijstand, bedoeld in artikel 2, eerste lid, onderdeel b, worden ingediend van 7 november 2014 tot en met de datum genoemd in artikel 9, eerste lid, van verordening 1031/2014 met gebruikmaking van een door de minister beschikbaar gesteld formulier.   
-3.  Voor iedere afzonderlijke melding voor het uit de markt nemen, groen oogsten of niet oogsten op grond van deze regeling wordt een afzonderlijke aanvraag als bedoeld in het eerste of tweede lid ingediend.  
+1.  Aanvragen tot uitbetaling van de bijstand, bedoeld in artikel 2, eerste lid, onderdeel a, worden ingediend van 6 oktober 2014 tot en met 15 oktober 2014 met gebruikmaking van een door de minister beschikbaar gesteld middel.   
+2.  Aanvragen tot uitbetaling van de bijstand, bedoeld in artikel 2, eerste lid, onderdeel b, worden ingediend van 7 november 2014 tot en met 31 januari 2015 met gebruikmaking van een door de minister beschikbaar gesteld middel.   
+3.  Aanvragen tot uitbetaling van de bijstand, bedoeld in artikel 2, eerste lid, onderdeel c, worden ingediend van 1 maart 2015 tot en met 31 juli 2015 met gebruikmaking van een door de minister beschikbaar gesteld middel.  
+4.  Voor iedere afzonderlijke melding voor het uit de markt nemen, groen oogsten of niet oogsten op grond van deze regeling wordt een afzonderlijke aanvraag als bedoeld in het eerste of tweede lid ingediend.  
 
 ### Artikel  7c  
 
-1.  Als bewijsstukken bij de aanvraag, bedoeld in artikel 7b, eerste en tweede lid, worden de vrachtbrief en de weegbonnen overgelegd aan minister.   
+1.  Als bewijsstukken bij de aanvraag, bedoeld in artikel 7b, eerste tot en met derde lid, worden de vrachtbrief en de weegbonnen overgelegd aan minister.   
 2.  In afwijking van het eerste lid wordt wanneer bij het indienen van een aanvraag als bedoeld in artikel 7b, eerste lid, de verrichting nog niet is afgerond een incomplete vrachtbrief overgelegd.   
 3.  In de gevallen, bedoeld in het tweede lid, worden de complete vrachtbieven uiterlijk op 15 december 2014 overgelegd aan de minister.  
 

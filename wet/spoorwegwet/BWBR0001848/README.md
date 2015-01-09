@@ -14,7 +14,7 @@ Zoo is het, dat Wij, den Raad van State gehoord en met gemeen overleg der Staten
 
 ### Artikel  1  
 
-Onder voorbehoud van [afdeling 5 van titel 2 van Boek 8 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) zijn de ondernemers eener Spoorwegdienst verantwoordelijk voor de schade, door personen of goederen bij de uitoefening der dienst geleden, ten ware de schade buiten hunne schuld of die hunner beambten of bedienden zij ontstaan.  
+Onder voorbehoud van afdeling 5 van titel 2 van Boek 8 van het Burgerlijk Wetboek zijn de ondernemers eener Spoorwegdienst verantwoordelijk voor de schade, door personen of goederen bij de uitoefening der dienst geleden, ten ware de schade buiten hunne schuld of die hunner beambten of bedienden zij ontstaan.  
 
 ### Artikel  3  
 
@@ -41,7 +41,7 @@ Ondernemers van spoorwegdiensten zijn niet bevoegd hunne verantwoordelijkheid vo
 1.  De bestuurders eener spoorwegdienst stellen een reglement voor hunne dienst vast, en onderwerpen dat aan de instemming van den Minister van Verkeer en Waterstaat.    
 2.  Voordat met dit reglement is ingestemd, wordt de dienst niet geopend.    
 3.  Geene veranderingen worden zonder instemming van den Minister van Verkeer en Waterstaat in het reglement gebragt, die noodige veranderingen, ook nadat ermee ingestemd is, de ondernemers gehoord, bevelen kan.    
-4.  De [artikelen 10:28 tot en met 10:31 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing.   
+4.  De artikelen 10:28 tot en met 10:31 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing.   
 
 ### Artikel  7  
 
@@ -55,7 +55,7 @@ Ondernemers van spoorwegdiensten zijn niet bevoegd hunne verantwoordelijkheid vo
 
 ### Artikel  9a  
 
-De [artikelen 75, eerste lid](../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), en [186, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) gelden niet voor ondernemers van een spoorwegdienst ten aanzien van door hen uitgegeven documenten voor het goederenvervoer. 
+De artikelen 75, eerste lid, en 186, eerste lid, van Boek 2 van het Burgerlijk Wetboek gelden niet voor ondernemers van een spoorwegdienst ten aanzien van door hen uitgegeven documenten voor het goederenvervoer. 
 
 ### Hoofdstuk  II  
 
@@ -64,13 +64,13 @@ De [artikelen 75, eerste lid](../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045
 ### Artikel  10  
 
 1.  Vanwege de Minister van Verkeer en Waterstaat wordt inspectie op de spoorwegen uitgeoefend door een onder eenhoofdige leiding te stellen dienst. Bij algemene maatregel van bestuur worden terzake regels gesteld.    
-2.  De [artikelen 5:13](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:15](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:16](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:17](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:20 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing ten aanzien van de in het eerste lid bedoelde ambtenaren, met dien verstande dat zij niet bevoegd zijn:  
+2.  De artikelen 5:13, 5:15, 5:16, 5:17 en 5:20 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing ten aanzien van de in het eerste lid bedoelde ambtenaren, met dien verstande dat zij niet bevoegd zijn:  
 
 a. rijtuigen van treinen voor autoriteiten of bestuurders van de spoorwegdienst aangewezen of door bijzondere personen gehuurd te betreden; en   
 
 b. inlichtingen te vragen dan wel inzage te vorderen van zakelijke gegevens en bescheiden met betrekking tot het geldelijk beheer van de spoorwegdienst.      
 3.  De in het eerste lid bedoelde ambtenaren zijn tevens belast met het toezicht op de naleving van het bepaalde bij of krachtens deze wet.    
-4.  De toezichthouder beschikt niet over de bevoegdheden, genoemd in de [artikelen 5:18](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:19 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).    
+4.  De toezichthouder beschikt niet over de bevoegdheden, genoemd in de artikelen 5:18 en 5:19 van de Algemene wet bestuursrecht.    
 5.  De toezichthouder is niet bevoegd:  
 
 a. rijtuigen van treinen voor autoriteiten of bestuurders van de spoorwegdienst aangewezen of door bijzondere personen gehuurd te betreden; en   
@@ -104,7 +104,7 @@ De Minister van Verkeer en Waterstaat is bevoegd tot oplegging van een last onde
 
 ### Artikel  17  
 
-1.  Onverminderd de [artikelen 7, eerste lid](../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md) kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, de artikelen 17*a* , 18, 19, 23, 24 en 50, tweede alinea, in werking worden gesteld.    
+1.  Onverminderd de artikelen 7, eerste lid, en 8, eerste lid, van de Coördinatiewet uitzonderingstoestanden kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, de artikelen 17*a* , 18, 19, 23, 24 en 50, tweede alinea, in werking worden gesteld.    
 2.  Wanneer het in de eerste alinea bedoelde besluit is genomen, wordt onverwijld een voorstel van wet aan de Tweede Kamer gezonden omtrent het voortduren van de werking van de bij dat besluit in werking gestelde bepalingen.   
 3.  Wordt het voorstel van wet door de Staten-Generaal verworpen, dan worden bij koninklijk besluit, op voordracht van Onze Minister-President, de bepalingen die ingevolge de eerste alinea in werking zijn gesteld, onverwijld buiten werking gesteld.   
 4.  Bij koninklijk besluit, op voordracht van Onze Minister-President, worden bepalingen die ingevolge de eerste alinea in werking zijn gesteld, buiten werking gesteld, zodra de omstandigheden dit naar Ons oordeel toelaten.   
@@ -242,7 +242,7 @@ Vervallen per 01-01-2005
 ### Artikel  34  
 
 1.  Zij, wier landen of erven door den spoorweg van den gemeenen weg of de gemeene vaart worden gescheiden, hebben over den spoorweg een regt van uitweg.    
-2.  Met betrekking tot zoodanige uitwegen geldt [artikel 57 van Boek 5 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/5/BWBR0005288/README.md), met uitzondering der verpligting tot schadevergoeding.    
+2.  Met betrekking tot zoodanige uitwegen geldt artikel 57 van Boek 5 van het Burgerlijk Wetboek, met uitzondering der verpligting tot schadevergoeding.    
 3.  Uitweg over den spoorweg kan ook in andere gevallen, voor zoover met de veiligheid van het verkeer bestaanbaar is, bij overeenkomst, onder goedkeuring van Onzen Minister van Verkeer en Waterstaat, worden toegestaan.   
 
 ### Artikel  35  
@@ -345,18 +345,18 @@ De bestuurders eener spoorwegdienst worden gestraft:  zoo zij de voorwaarden, wa
 
 1.  Overtreding van de bepalingen van een algemeenen maatregel van bestuur in een der artikelen 27, 27*c*  of 27*d*  bedoeld, door anderen dan de in artikel 53 en 56 genoemden, wordt gestraft met geldboete van de eerste categorie.    
 2.  De beambten en bedienden van den spoorweg kunnen hen, die zich aan die overtreding schuldig maken, uit de rijtuigen weren of verwijderen.    
-3.  Ten aanzien van beschadiging van waterstaatswerken, in beheer of onderhoud bij ondernemers van spoorwegdiensten, voor welke schippers, reders, eigenaars of gebruikers van vaartuigen of vlotten volgens de wet aansprakelijk zijn, vindt[ § 6*a* der Waterstaatswet 1900](../../../wet/waterstaatswet/1900/BWBR0001867/README.md) overeenkomstige toepassing.   
+3.  Ten aanzien van beschadiging van waterstaatswerken, in beheer of onderhoud bij ondernemers van spoorwegdiensten, voor welke schippers, reders, eigenaars of gebruikers van vaartuigen of vlotten volgens de wet aansprakelijk zijn, vindt § 6*a* der Waterstaatswet 1900 overeenkomstige toepassing.   
 
 ####Slotbepalingen 
 
 ###Artikel 69 
 
 1. Deze wet is van toepassing op de dienst en het gebruik der Staatsspoorwegen, zonder evenwel verandering te brengen in de bepalingen der wet van 3 Julij 1863 (*Staatsblad* n°. 100) en in die van de concessie, bij de wetten van 3 Junij 1863 (*Staatsblad* n°. 101) en van 7 Augustus 1865 (*Staatsblad* n°. 99) bekrachtigd. 
-2. Deze wet is niet van toepassing op hoofdspoorwegen, aangewezen krachtens [artikel 2, eerste lid, van de Spoorwegwet](../../../wet/spoorwegwet/BWBR0015007/README.md).
+2. Deze wet is niet van toepassing op hoofdspoorwegen, aangewezen krachtens artikel 2, eerste lid, van de Spoorwegwet.
 
 ### Artikel  69a  
 
-Deze wet is niet van toepassing voor zover de [Wet personenvervoer 2000](../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) van toepassing is.  
+Deze wet is niet van toepassing voor zover de Wet personenvervoer 2000 van toepassing is.  
 
 ### Artikel  70  
 
@@ -367,12 +367,12 @@ Deze wet is niet van toepassing voor zover de [Wet personenvervoer 2000](../../.
 
 ### Artikel  71  
 
-1.  De [artikelen 5:13](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:15](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:20 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing ten aanzien van de in artikel 72 bedoelde ambtenaren en politieambtenaren, met dien verstande dat zij alleen bevoegd zijn de spoorweg en de daarbij behorende gronden en gebouwen, die voor het gebruik van reizigers zijn bestemd, te betreden.    
-2.  De [artikelen 5:13](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:15](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:20 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing op bij besluit van Onze Minister van Verkeer en Waterstaat aangewezen Rijksbeambten en leden en beambten van openbare besturen.   
+1.  De artikelen 5:13, 5:15 en 5:20 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing ten aanzien van de in artikel 72 bedoelde ambtenaren en politieambtenaren, met dien verstande dat zij alleen bevoegd zijn de spoorweg en de daarbij behorende gronden en gebouwen, die voor het gebruik van reizigers zijn bestemd, te betreden.    
+2.  De artikelen 5:13, 5:15 en 5:20 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing op bij besluit van Onze Minister van Verkeer en Waterstaat aangewezen Rijksbeambten en leden en beambten van openbare besturen.   
 
 ### Artikel  72  
 
-1.  Tot het opsporen der overtredingen van deze wet, van een krachtens art. 27 uitgevaardigden algemeenen maatregel van bestuur, van het in art. 5 bedoeld reglement en van de aldaar zijn, behalve de bij [art. 141 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) aangewezen ambtenaren, de in artikel 10 bedoelde ambtenaren bevoegd.    
+1.  Tot het opsporen der overtredingen van deze wet, van een krachtens art. 27 uitgevaardigden algemeenen maatregel van bestuur, van het in art. 5 bedoeld reglement en van de aldaar zijn, behalve de bij art. 141 van het Wetboek van Strafvordering aangewezen ambtenaren, de in artikel 10 bedoelde ambtenaren bevoegd.    
 2.  Ook zijn daartoe bevoegd de beëedigde beambten en bedienden van den spoorwegen over de geheele uitgestrektheid van den weg, waarop zij dienst doen, en binnen den kring van honderd meter aan beide zijden van dien weg.   
 
 ### Artikel  73  

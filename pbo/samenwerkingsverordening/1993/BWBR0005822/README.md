@@ -5,7 +5,7 @@
 Het College van Afgevaardigden van de Nederlandse Orde van Advocaten,
 Overwegende, dat het gewenst is regels te stellen voor samenwerking van advocaten onderling en met beoefenaren van andere vrije beroepen;
 
-Gelet op [artikel 28 van de Advocatenwet](../../../../wet/advocatenwet/BWBR0002093/README.md);
+Gelet op artikel 28 van de Advocatenwet;
 
 Gelet op het ontwerp van de Algemene Raad niet bijbehorende toelichting;
 
@@ -16,7 +16,7 @@ Stelt de navolgende verordening vast:
 
 In deze verordening wordt verstaan onder 
 
-a. Advocaat: de in Nederland ingeschreven advocaat, alsmede de advocaat bedoeld in [artikel 16h van de Advocatenwet](../../../../wet/advocatenwet/BWBR0002093/README.md), voor zover de artikelen van deze verordening niet anders bepalen.  
+a. Advocaat: de in Nederland ingeschreven advocaat, alsmede de advocaat bedoeld in artikel 16h van de Advocatenwet, voor zover de artikelen van deze verordening niet anders bepalen.  
 
 b. samenwerkingsverband: iedere samenwerking waarin de deelnemers voor gezamenlijke rekening en risico praktijk uitoefenen of te dien aanzien de zeggenschap danwel de eindverantwoordelijkheid met elkaar delen,  
 
@@ -73,18 +73,18 @@ d.het aangaan van een samenwerkingsverband met leden van die andere beroepsgroep
 1. De advocaat vermijdt in zijn optreden naar buiten dat een onjuiste, misleidende of onvolledige voorstelling van zaken wordt gegeven ten aanzien van enige vorm van samenwerking waarbij hij is betrokken, een samenwerkingsverband daaronder begrepen.
 2. Het is de advocaat die geen samenwerkingsverband onderhoudt verboden de praktijk te voeren onder een gemeenschappelijke naam of een zodanige benaming dat daardoor een samenwerkingsverband wordt gesuggereerd. In geval de gemeenschappelijke naam voorheen werd gevoerd door een inmiddels niet meer bestaand samenwerkingsverband kan de Raad van Toezicht van dit verbod ontheffing verlenen onder door deze te stellen voorwaarden, ter voorkoming van misleiding van het publiek.
 
-###Artikel 8 
+### Artikel  8  
 
-1. Een samenwerkingsverband is verplicht in zijn optreden naar buiten een gemeenschappelijke naam te voeren.
-2. Een gemeenschappelijke naam mag niet misleidend zijn. Zo mag een gemeenschappelijke naam:
+1.  Een samenwerkingsverband is verplicht in zijn optreden naar buiten een gemeenschappelijke naam te voeren.   
+2.  Een gemeenschappelijke naam mag niet misleidend zijn. Zo mag een gemeenschappelijke naam: 
 
-a.niet de naam of namen vermelden van een of meer natuurlijke personen, tenzij zij aan het samenwerkingsverband deelnemen of bij de totstandkoming daarvan hieraan deelnamen. Tot dit laatste wordt mede gerekend het gebruik van namen van natuurlijke personen waaronder reeds bestaande samenwerkingsverbanden naar buiten optreden voordat zij in een nieuw samenwerkingsverband opgingen;
+a. niet de naam of namen vermelden van een of meer natuurlijke personen, tenzij zij aan het samenwerkingsverband deelnemen of bij de totstandkoming daarvan hieraan deelnamen. Tot dit laatste wordt mede gerekend het gebruik van namen van natuurlijke personen waaronder reeds bestaande samenwerkingsverbanden naar buiten optreden voordat zij in een nieuw samenwerkingsverband opgingen;  
 
-b.niet naast een aanduiding van het karakter van het samenwerkingsverband uitsluitend de plaats van vestiging van het samenwerkingsverband vermelden, tenzij de naam in zijn geheel voldoende onderscheidende betekenis heeft. Onder plaats van vestiging is in dit verband mede te verstaan de straat, de wijk of een ander gedeelte van de plaats waar het kantoor van het samenwerkingsverband is gevestigd;
+b. niet naast een aanduiding van het karakter van het samenwerkingsverband uitsluitend de plaats van vestiging van het samenwerkingsverband vermelden, tenzij de naam in zijn geheel voldoende onderscheidende betekenis heeft. Onder plaats van vestiging is in dit verband mede te verstaan de straat, de wijk of een ander gedeelte van de plaats waar het kantoor van het samenwerkingsverband is gevestigd;  
 
-c.niet anderszins, zulks ter beoordeling van de Raad van Toezicht, in strijd zijn met de bepalingen van deze verordening.
-3. De advocaat die deelneemt aan een samenwerkingsverband is verplicht desgevraagd een lijst beschikbaar te stellen van de deelnemers aan het samenverkingsverband, hun beroep en hun plaats van vestiging.
-4. Uit elk schriftelijk stuk dat vanwege een samenwerkingsverband wordt verzonden dienen te blijken de naam. de hoedanigheid en de plaats van vestiging van degene die dit heeft ondertekend.
+c. niet anderszins, zulks ter beoordeling van de Raad van Toezicht, in strijd zijn met de bepalingen van deze verordening.     
+3.  De advocaat die deelneemt aan een samenwerkingsverband is verplicht desgevraagd een lijst beschikbaar te stellen van de deelnemers aan het samenwerkingsverband, hun beroep en hun plaats van vestiging.   
+4.  Uit elk schriftelijk stuk dat vanwege een samenwerkingsverband wordt verzonden dienen te blijken de naam. de hoedanigheid en de plaats van vestiging van degene die dit heeft ondertekend.  
 
 ###Artikel 9 
 

@@ -4352,8 +4352,8 @@ b. de vertrouwelijke behandeling van overgelegde gegevens;
 
 c. redelijke termijnen voor reacties van werkgever en werknemer; en  
 
-d. een redelijke beslissingstermijn.     
-3.  De collectieve arbeidsovereenkomst, bedoeld in lid 2, is afgesloten met een of meer verenigingen van werknemers die in de onderneming of bedrijfstak werkzame personen onder hun leden tellen, die krachtens hun statuten ten doel hebben de belangen van hun leden als werknemers te behartigen, die als zodanig in de betrokken onderneming of bedrijfstak werkzaam zijn en ten minste twee jaar in het bezit van volledige rechtsbevoegdheid. Ten aanzien van een vereniging van werknemers die krachtens haar statuten geacht kan worden een voortzetting te zijn van een of meer andere verenigingen van werknemers met volledige rechtsbevoegdheid, wordt de duur van de volledige rechtsbevoegdheid van die vereniging of verenigingen voor de vaststelling van de tijdsduur van twee jaar mede in aanmerking genomen.   
+d. een redelijke beslistermijn.     
+3.  De collectieve arbeidsovereenkomst, bedoeld in lid 2, is afgesloten met een of meer verenigingen van werknemers die in de onderneming of bedrijfstak werkzame personen onder hun leden tellen, die krachtens hun statuten ten doel hebben de belangen van hun leden als werknemers te behartigen, die als zodanig in de betrokken onderneming of bedrijfstak werkzaam zijn en ten minste twee jaar in het bezit zijn van volledige rechtsbevoegdheid. Ten aanzien van een vereniging van werknemers die krachtens haar statuten geacht kan worden een voortzetting te zijn van een of meer andere verenigingen van werknemers met volledige rechtsbevoegdheid, wordt de duur van de volledige rechtsbevoegdheid van die vereniging of verenigingen voor de vaststelling van de tijdsduur van twee jaar mede in aanmerking genomen.   
 4.  De beslissing op het verzoek, bedoeld in lid 1 of lid 2, wordt gelijktijdig schriftelijk uitgebracht aan de werkgever en de werknemer onder vermelding van de datum waarop het volledige verzoek, bedoeld in lid 1 of lid 2, is ontvangen.   
 5.  De toestemming om een arbeidsovereenkomst voor onbepaalde tijd op te zeggen op grond van artikel 669, lid 3, onderdeel a, wordt slechts verleend, indien de werkgever: 
 
@@ -4363,9 +4363,10 @@ b. de arbeidsrelatie met personen die op grond van een arbeidsovereenkomst als b
 
 c. de overeenkomsten met betrekking tot ingeleende personen die op de arbeidsplaatsen die vervallen werkzaam zijn, heeft beëindigd.     
 6.  De toestemming voor opzegging is geldig gedurende vier weken na de dagtekening van de beslissing op het verzoek, bedoeld in lid 1 of lid 2. De werkgever zegt schriftelijk op onder vermelding van de reden voor de opzegging.   
-7.  Bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid kunnen arbeidsrelaties of overeenkomsten met betrekking tot ingeleend personeel worden aangewezen waarop lid 5 niet van toepassing is.   
+7.  Bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid kunnen arbeidsrelaties of overeenkomsten met betrekking tot ingeleend personeel worden aangewezen waarop lid 5 niet van toepassing is en kan worden bepaald wat mede onder de werkgever, bedoeld in lid 5, wordt verstaan.   
 8.  Bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid worden regels gesteld met betrekking tot de procedure betreffende het verlenen van toestemming, bedoeld in lid 1.   
-9.  Elk beding waarbij de verplichting tot het vragen van toestemming, bedoeld in lid 1 of lid 2, wordt uitgesloten of beperkt, is nietig evenals elk beding dat de termijn, bedoeld in lid 6, verruimt.  
+9.  Elk beding waarbij de verplichting tot het vragen van toestemming, bedoeld in lid 1 of lid 2, wordt uitgesloten of beperkt, is nietig evenals elk beding dat de termijn, bedoeld in lid 6, verruimt.   
+10.  Bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid kunnen regels worden gesteld met betrekking tot de commissie, bedoeld in lid 2, en de procedure betreffende het verlenen van toestemming door die commissie. 
 
 ### Artikel  671b  
 Treedt in werking per 01-07-2015 
@@ -4374,17 +4375,17 @@ Treedt in werking per 01-07-2015
 
 a. op grond van artikel 669, lid 3, onderdelen c tot en met h;  
 
-b. indien de toestemming, bedoeld in artikel 671a, is geweigerd; of  
+b. op grond van artikel 669, lid 3, onderdelen a en b, indien de toestemming, bedoeld in artikel 671a, is geweigerd; of  
 
 c. op grond van artikel 669, lid 3, onderdelen a en b, indien er sprake is van een arbeidsovereenkomst voor bepaalde tijd die niet tussentijds kan worden opgezegd.     
 2.  De kantonrechter kan het verzoek, bedoeld in lid 1, slechts inwilligen indien aan de voorwaarden voor opzegging van de arbeidsovereenkomst, bedoeld in artikel 669, is voldaan en er geen opzegverboden als bedoeld in artikel 670 of met deze opzegverboden naar aard en strekking vergelijkbare opzegverboden in een ander wettelijk voorschrift gelden.   
 3.  Indien het verzoek om ontbinding is gegrond op artikel 669, lid 3, onderdeel a, is artikel 671a, leden 5 en 7, van overeenkomstige toepassing.   
 4.  Indien het verzoek om ontbinding is gegrond op artikel 669, lid 3, onderdeel c, wijst de kantonrechter het verzoek af, indien de werkgever niet beschikt over een verklaring ter zake van een deskundige als bedoeld in artikel 629a.   
-5.  Indien het verzoek om ontbinding is gegrond op artikel 669, lid 3, onderdeel e, in verband met het door de werknemer niet nakomen van de verplichtingen, bedoeld in artikel 660a, wijst de kantonrechter het verzoek af, indien de werkgever: 
+5.  Indien het verzoek om ontbinding is gegrond op artikel 669, lid 3, onderdeel e, in verband met het, zonder deugdelijke grond door de werknemer niet nakomen van de verplichtingen, bedoeld in artikel 660a, wijst de kantonrechter het verzoek af, indien de werkgever: 
 
-a. de werknemer niet eerst schriftelijk heeft gemaand tot nakoming van die verplichtingen of om die reden de betaling van het loon heeft gestaakt; of  
+a. de werknemer niet eerst schriftelijk heeft gemaand tot nakoming van die verplichtingen of om die reden, met inachtneming van het bepaalde in artikel 629, lid 7, de betaling van het loon heeft gestaakt; of  
 
-b. niet beschikt over een verklaring ter zake van een deskundige als bedoeld in artikel 629a.     
+b. niet beschikt over een verklaring ter zake van een deskundige als bedoeld in artikel 629a, tenzij het overleggen van deze verklaring in redelijkheid niet van de werkgever kan worden gevergd.     
 6.  Indien de werkgever de ontbinding verzoekt op grond van artikel 669, lid 3, onderdelen b tot en met h, en een opzegverbod als bedoeld in artikel 670, leden 1 tot en met 4 en 10, of een met deze opzegverboden naar aard en strekking vergelijkbaar opzegverbod in een ander wettelijk voorschrift geldt, kan de kantonrechter, in afwijking van lid 2, het verzoek om ontbinding inwilligen, indien: 
 
 a. het verzoek geen verband houdt met omstandigheden waarop die opzegverboden betrekking hebben; of  
@@ -4393,7 +4394,7 @@ b. er sprake is van omstandigheden die van dien aard zijn dat de arbeidsovereenk
 7.  Het opzegverbod, bedoeld in artikel 670, lid 1, geldt niet indien de ziekte een aanvang heeft genomen nadat het verzoek om ontbinding door de kantonrechter is ontvangen.   
 8.  Indien het verzoek om ontbinding een arbeidsovereenkomst voor onbepaalde tijd of een arbeidsovereenkomst voor bepaalde tijd betreft die tussentijds kan worden opgezegd, en de kantonrechter het verzoek inwilligt: 
 
-a. bepaalt hij het einde van de arbeidsovereenkomst op het tijdstip waarop de arbeidsovereenkomst bij opzegging zou zijn geëindigd, waarbij, indien de ontbinding van de arbeidsovereenkomst niet het gevolg is van ernstig verwijtbaar handelen of nalaten van de werkgever, de duur van de periode gelegen tussen de ontvangst van het verzoek om ontbinding en de dagtekening van de ontbindingsbeschikking in mindering wordt gebracht, met dien verstande dat een termijn van ten minste een maand resteert;  
+a. bepaalt hij het einde van de arbeidsovereenkomst op het tijdstip waarop de arbeidsovereenkomst bij regelmatige opzegging zou zijn geëindigd, waarbij, indien de ontbinding van de arbeidsovereenkomst niet het gevolg is van ernstig verwijtbaar handelen of nalaten van de werkgever, de duur van de periode die aanvangt op de datum van ontvangst van het verzoek om ontbinding en eindigt op de datum van dagtekening van de ontbindingsbeslissing in mindering wordt gebracht, met dien verstande dat een termijn van ten minste een maand resteert;  
 
 b. kan hij, in afwijking van onderdeel a, het einde van de arbeidsovereenkomst bepalen op een eerder tijdstip, indien de ontbinding van de arbeidsovereenkomst het gevolg is van ernstig verwijtbaar handelen of nalaten van de werknemer;  
 
@@ -4402,9 +4403,10 @@ c. kan hij aan de werknemer een billijke vergoeding toekennen indien de ontbindi
 
 a. kan hij de werknemer een vergoeding toekennen tot ten hoogste het bedrag gelijk aan het in geld vastgestelde loon over de termijn dat de arbeidsovereenkomst geduurd zou hebben indien deze van rechtswege zou zijn geëindigd;  
 
-b. kan hij de werknemer een hogere vergoeding dan de vergoeding, bedoeld in onderdeel a, toekennen indien de ontbinding het gevolg is van ernstig verwijtbaar handelen of nalaten van de werkgever; of  
+b. kan hij de werknemer naast de vergoeding, bedoeld in onderdeel a, een billijke vergoeding toekennen indien de ontbinding het gevolg is van ernstig verwijtbaar handelen of nalaten van de werkgever; of  
 
-c. kan hij, indien de ontbinding van de arbeidsovereenkomst het gevolg is van ernstig verwijtbaar handelen of nalaten van de werknemer, de werkgever een vergoeding toekennen tot ten hoogste het bedrag gelijk aan het in geld vastgestelde loon over de termijn dat de arbeidsovereenkomst geduurd zou hebben indien deze van rechtswege zou zijn geëindigd.    
+c. kan hij, indien de ontbinding van de arbeidsovereenkomst het gevolg is van ernstig verwijtbaar handelen of nalaten van de werknemer, de werkgever een vergoeding toekennen tot ten hoogste het bedrag gelijk aan het in geld vastgestelde loon over de termijn dat de arbeidsovereenkomst geduurd zou hebben indien deze van rechtswege zou zijn geëindigd.     
+10.  Elk beding waarbij de mogelijkheid voor de werkgever om de kantonrechter te verzoeken de arbeidsovereenkomst te ontbinden, bedoeld in lid 1, wordt uitgesloten of beperkt, is nietig. 
 
 ### Artikel  671c  
 Treedt in werking per 01-07-2015 
@@ -4419,10 +4421,11 @@ b. kan hij aan de werknemer een billijke vergoeding toekennen indien de ontbindi
 
 a. kan hij, indien hem dat met het oog op de omstandigheden billijk voorkomt, de werknemer een vergoeding toekennen tot ten hoogste het bedrag gelijk aan het in geld vastgestelde loon over de termijn dat de arbeidsovereenkomst geduurd zou hebben indien deze van rechtswege zou zijn geëindigd;  
 
-b. kan hij de werknemer een hogere vergoeding, dan de vergoeding, bedoeld in onderdeel a, toekennen indien de ontbinding het gevolg is van ernstig verwijtbaar handelen of nalaten van de werkgever; of  
+b. kan hij de werknemer naast de vergoeding, bedoeld in onderdeel a, een billijke vergoeding toekennen indien de ontbinding het gevolg is van ernstig verwijtbaar handelen of nalaten van de werkgever; of  
 
 c. kan hij, indien hem dat met het oog op de omstandigheden billijk voorkomt of de ontbinding het gevolg is van ernstig verwijtbaar handelen of nalaten van de werknemer, de werkgever een vergoeding toekennen tot ten hoogste het bedrag gelijk aan het in geld vastgestelde loon over de termijn dat de arbeidsovereenkomst geduurd zou hebben indien deze van rechtswege zou zijn geëindigd.     
-4.  Elk beding waarbij de mogelijkheid voor de werknemer om de kantonrechter te verzoeken de arbeidsovereenkomst te ontbinden, bedoeld in lid 1, wordt uitgesloten of beperkt, is nietig.  
+4.  Bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid kan worden bepaald dat de kantonrechter de vergoeding, bedoeld in lid 3, onderdeel c, op een hoger bedrag kan stellen, indien de werknemer een in die regeling aan te wijzen functie in een bedrijfstak uitoefende. Uitsluitend functies in een bedrijfstak die zijn aangewezen in de ministeriële regeling, bedoeld in artikel 668a, lid 8, kunnen worden aangewezen als een functie als bedoeld in de eerste zin.  
+5.  Elk beding waarbij de mogelijkheid voor de werknemer om de kantonrechter te verzoeken de arbeidsovereenkomst te ontbinden, bedoeld in lid 1, wordt uitgesloten of beperkt, is nietig.  
 
 ### Artikel  672  
 
@@ -4447,16 +4450,16 @@ d. vijftien jaar of langer heeft geduurd: vier maanden.
 ### Artikel  673a  
 Treedt in werking per 01-07-2015 
 
-1.  Indien de werknemer bij het eindigen of niet voortzetten van de arbeidsovereenkomst 50 jaar of ouder is en de arbeidsovereenkomst ten minste 120 maanden heeft geduurd, is, in afwijking van artikel 673, lid 2, eerste zin, de transitievergoeding over elke periode van zes maanden dat de werknemer na het bereiken van de leeftijd van 50 jaar bij de werkgever in dienst is geweest, gelijk aan de helft van het in geld vastgestelde loon per maand.   
+1.  Indien de werknemer bij het eindigen of niet voortzetten van de arbeidsovereenkomst 50 jaar of ouder is en de arbeidsovereenkomst ten minste 120 maanden heeft geduurd, is, in afwijking van artikel 673, lid 2, eerste zin, de transitievergoeding over elke periode van zes maanden dat de werknemer na het bereiken van de leeftijd van 50 jaar bij de werkgever in dienst is geweest, gelijk aan de helft van het loon per maand, bedoeld in artikel 673, lid 2.   
 2.  Lid 1 is niet van toepassing op de werkgever die in de tweede helft van het kalenderjaar voorafgaand aan het kalenderjaar waarin de arbeidsovereenkomst eindigt of niet wordt voortgezet gemiddeld minder dan 25 werknemers in dienst had.   
-3.  Lid 2 is niet van toepassing op bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid aan te wijzen werkgevers.   
+3.  Lid 2 is niet van toepassing op bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid aan te wijzen categorieën van werkgevers.   
 4.  Dit artikel vervalt met ingang van 1 januari 2020.  
 
 ### Artikel  673b  
 Treedt in werking per 01-07-2015 
 
-1.  De artikelen 673 en 673a zijn niet van toepassing, indien in een collectieve arbeidsovereenkomst of regeling door of namens een daartoe bevoegd bestuursorgaan voor werknemers als bedoeld in artikel 673, lid 1, en artikel 673a een gelijkwaardige voorziening is opgenomen, gericht op het voorkomen van werkloosheid of het bekorten van de periode van werkloosheid.   
-2.  De collectieve arbeidsovereenkomst, bedoeld in lid 1, is afgesloten met een of meer verenigingen van werknemers die in de onderneming of bedrijfstak werkzame personen onder hun leden tellen, die krachtens hun statuten ten doel hebben de belangen van hun leden als werknemers te behartigen, die als zodanig in de betrokken onderneming of bedrijfstak werkzaam zijn en ten minste twee jaar in het bezit van volledige rechtsbevoegdheid. Ten aanzien van een vereniging van werknemers die krachtens haar statuten geacht kan worden een voortzetting te zijn van een of meer andere verenigingen van werknemers met volledige rechtsbevoegdheid, wordt de duur van de volledige rechtsbevoegdheid van die vereniging of verenigingen voor de vaststelling van de tijdsduur van twee jaar mede in aanmerking genomen.  
+1.  De artikelen 673 en 673a zijn niet van toepassing, indien in een collectieve arbeidsovereenkomst of regeling door of namens een daartoe bevoegd bestuursorgaan voor werknemers als bedoeld in artikel 673, lid 1, en artikel 673a een gelijkwaardige voorziening is opgenomen.   
+2.  De collectieve arbeidsovereenkomst, bedoeld in lid 1, is afgesloten met een of meer verenigingen van werknemers die in de onderneming of bedrijfstak werkzame personen onder hun leden tellen, die krachtens hun statuten ten doel hebben de belangen van hun leden als werknemers te behartigen, die als zodanig in de betrokken onderneming of bedrijfstak werkzaam zijn en ten minste twee jaar in het bezit zijn van volledige rechtsbevoegdheid. Ten aanzien van een vereniging van werknemers die krachtens haar statuten geacht kan worden een voortzetting te zijn van een of meer andere verenigingen van werknemers met volledige rechtsbevoegdheid, wordt de duur van de volledige rechtsbevoegdheid van die vereniging of verenigingen voor de vaststelling van de tijdsduur van twee jaar mede in aanmerking genomen.  
 
 ### Artikel  673c  
 Treedt in werking per 01-07-2015 
@@ -4467,7 +4470,7 @@ Treedt in werking per 01-07-2015
 ### Artikel  673d  
 Treedt in werking per 01-07-2015 
 
-1.  In afwijking van artikel 673, tweede lid, kunnen onder bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid te bepalen voorwaarden voor de berekening van de duur van de arbeidsovereenkomst maanden die gelegen zijn voor 1 mei 2013 buiten beschouwing worden gelaten, indien: 
+1.  In afwijking van artikel 673, lid 2, kunnen onder bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid te bepalen voorwaarden voor de berekening van de duur van de arbeidsovereenkomst maanden die gelegen zijn voor 1 mei 2013 buiten beschouwing worden gelaten, indien: 
 
 a. de werknemer in dienst was bij een werkgever, die in de tweede helft van het kalenderjaar voorafgaand aan het kalenderjaar waarin de arbeidsovereenkomst eindigt gemiddeld minder dan 25 werknemers in dienst had; en  
 
@@ -4602,13 +4605,13 @@ b. wanneer de gevolgen van de opzegging voor de werkgever te ernstig zijn in ver
 ### Artikel  682a  
 Treedt in werking per 01-07-2015 
 
-Bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid kunnen nadere regels worden gesteld met betrekking tot de artikelen 681, lid 1, onderdelen c en d, en 682, leden 4 en 5, waarin kan worden bepaald: 
+Bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid kunnen regels worden gesteld met betrekking tot de artikelen 681, lid 1, onderdelen c en d, en 682, leden 4 en 5, waarin kan worden bepaald: 
 
 a. wat mede onder de werkgever, bedoeld in die artikelen, wordt verstaan;  
 
 b. in welke gevallen en onder welke voorwaarden die bepalingen niet van toepassing zijn; en  
 
-c. in welke volgorde de werknemers in de gelegenheid worden gesteld hun vroegere werkzaamheden te hervatten dan wel als kandidaat voor de terbeschikkingstelling te worden voorgedragen.   
+c. in welke volgorde de voormalige werknemers in de gelegenheid worden gesteld hun vroegere werkzaamheden te hervatten dan wel als kandidaat voor de terbeschikkingstelling te worden voorgedragen.   
 
 ### Artikel  683  
 

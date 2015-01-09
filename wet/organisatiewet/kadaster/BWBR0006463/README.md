@@ -29,13 +29,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 ### Artikel  2  
 
 1.  Er is een Dienst voor het kadaster en de openbare registers. Hij bezit rechtspersoonlijkheid en is gevestigd te Apeldoorn.    
-2.   De Dienst is belast met de hem bij of krachtens de [Kadasterwet](../../../../wet/kadasterwet/BWBR0004541/README.md) of andere wetten opgedragen taken.    
+2.   De Dienst is belast met de hem bij of krachtens de Kadasterwet of andere wetten opgedragen taken.    
 3.   De Dienst kan andere werkzaamheden verrichten dan die, voortvloeiend uit de in het tweede lid bedoelde taken, indien die werkzaamheden bijdragen aan de doelmatigheid van de uitoefening van de in het tweede lid bedoelde taken of een betere benutting van de ten behoeve van die uitoefening bij de Dienst aanwezige bedrijfsmiddelen.    
 4.  Het bestuur kan in het kader van internationale samenwerking of op verzoek van een of meer van Onze ministers of een ander bestuursorgaan de bij de Dienst in het kader van de uitoefening van zijn taken als bedoeld in het tweede lid aanwezige specifieke deskundigheid in beperkte mate en voor een beperkte tijdsduur ter beschikking stellen aan een internationale organisatie of instelling, een regering of instelling van een andere staat of aan een bestuursorgaan. Het bestuur kan aan die terbeschikkingstelling voorwaarden verbinden. 
 
 ### Artikel  2a  
 
-De [Kaderwet zelfstandige bestuursorganen](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) is van toepassing op de Dienst, met uitzondering van [artikel 15 van die wet](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md). 
+De Kaderwet zelfstandige bestuursorganen is van toepassing op de Dienst, met uitzondering van artikel 15 van die wet. 
 
 ### Hoofdstuk  2  
 
@@ -92,7 +92,7 @@ Het bestuur stelt een bestuursreglement vast.
 
 ### Artikel  13  
 
-1.  Onze Minister kan bepalen dat het bestuur de voorafgaande instemming behoeft van de raad van toezicht voor een beslissing als bedoeld in [artikel 32 van de Kaderwet zelfstandige bestuursorganen](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) of dat het bestuur, ingeval hij een beslissing als bedoeld in dat artikel aan zijn voorafgaande instemming heeft onderworpen, die beslissing pas aan hem kan voorleggen nadat de raad van toezicht heeft verklaard tegen die beslissing geen bedenkingen te hebben.   
+1.  Onze Minister kan bepalen dat het bestuur de voorafgaande instemming behoeft van de raad van toezicht voor een beslissing als bedoeld in artikel 32 van de Kaderwet zelfstandige bestuursorganen of dat het bestuur, ingeval hij een beslissing als bedoeld in dat artikel aan zijn voorafgaande instemming heeft onderworpen, die beslissing pas aan hem kan voorleggen nadat de raad van toezicht heeft verklaard tegen die beslissing geen bedenkingen te hebben.   
 2.  Het bestuur heeft in ieder geval de voorafgaande instemming nodig van de raad van toezicht met betrekking tot: 
 
 a. de reglementen, bedoeld in de artikelen 16 en 17;  
@@ -134,9 +134,9 @@ e.gemeenten;
 
 f.waterschappen;
 
-g.grondroerders als bedoeld in [artikel 1, onderdeel g, van de Wet informatie-uitwisseling ondergrondse netten](../../../../wet/wet/informatie-uitwisseling/ondergrondse/netten/BWBR0023775/README.md);
+g.grondroerders als bedoeld in artikel 1, onderdeel g, van de Wet informatie-uitwisseling ondergrondse netten;
 
-h.beheerders als bedoeld in [artikel 1, onderdeel h, van de Wet informatie-uitwisseling ondergrondse netten](../../../../wet/wet/informatie-uitwisseling/ondergrondse/netten/BWBR0023775/README.md), en
+h.beheerders als bedoeld in artikel 1, onderdeel h, van de Wet informatie-uitwisseling ondergrondse netten, en
 
 i. eigenaren van registergoederen.   
 5.  Het bestuur stelt aan de gebruikersraad een secretaris ter beschikking. De secretaris is wat betreft de werkzaamheden ten behoeve van de gebruikersraad uitsluitend verantwoording verschuldigd aan de voorzitter van de gebruikersraad.  
@@ -173,12 +173,12 @@ Het bestuur stelt bij reglement de hoofdlijnen vast van de inrichting van de org
 
 ### Artikel  18  
 
-1.  Het personeel van de Dienst, de leden van het bestuur daaronder begrepen, is ambtenaar in de zin van de [Ambtenarenwet](../../../../wet/ambtenarenwet/BWBR0001947/README.md), behoudens degenen met wie een arbeidsovereenkomst is gesloten naar burgerlijk recht.    
-2.  Het bestuur stelt voor de door de Dienst aangestelde ambtenaren voorschriften vast betreffende de onderwerpen, genoemd in de [artikelen 125](../../../../wet/ambtenarenwet/BWBR0001947/README.md) en [125quinquies van de Ambtenarenwet](../../../../wet/ambtenarenwet/BWBR0001947/README.md), voor zover die onderwerpen niet reeds bij of krachtens de wet zijn geregeld.  
+1.  Het personeel van de Dienst, de leden van het bestuur daaronder begrepen, is ambtenaar in de zin van de Ambtenarenwet, behoudens degenen met wie een arbeidsovereenkomst is gesloten naar burgerlijk recht.    
+2.  Het bestuur stelt voor de door de Dienst aangestelde ambtenaren voorschriften vast betreffende de onderwerpen, genoemd in de artikelen 125 en 125quinquies van de Ambtenarenwet, voor zover die onderwerpen niet reeds bij of krachtens de wet zijn geregeld.  
 
 ### Artikel  18a  
 
-Het bestuur voert overeenkomstig [artikel 125quater van de Ambtenarenwet](../../../../wet/ambtenarenwet/BWBR0001947/README.md) een integriteitsbeleid dat is gericht op het bevorderen van goed ambtelijk handelen en draagt zorg voor de totstandkoming van een gedragscode voor goed ambtelijk handelen.
+Het bestuur voert overeenkomstig artikel 125quater van de Ambtenarenwet een integriteitsbeleid dat is gericht op het bevorderen van goed ambtelijk handelen en draagt zorg voor de totstandkoming van een gedragscode voor goed ambtelijk handelen.
 
 ### Hoofdstuk  5  
 
@@ -192,7 +192,7 @@ Het bestuur voert overeenkomstig [artikel 125quater van de Ambtenarenwet](../..
 
 ### Artikel  20  
 
-[Artikel 29 van de Kaderwet zelfstandige bestuursorganen](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) is van toepassing op het meerjarenbeleidsplan. 
+Artikel 29 van de Kaderwet zelfstandige bestuursorganen is van toepassing op het meerjarenbeleidsplan. 
 
 ### Artikel  21  
 
@@ -218,7 +218,7 @@ Vervallen per 01-01-2013
 
 ### Hoofdstuk  8  
 
-####Wijziging van de [Kadasterwet](../../../../wet/kadasterwet/BWBR0004541/README.md) en van de [Invoeringswet Kadasterwet](../../../../wet/invoeringswet/kadasterwet/BWBR0005107/README.md) 
+####Wijziging van de Kadasterwet en van de Invoeringswet Kadasterwet 
 
 ### Artikel  33  
 
@@ -298,7 +298,7 @@ Bevat wijzigingen in andere regelgeving.
 
 ### Artikel  54  
 
-Het bepaalde in de [artikelen 11, zevende lid, tweede zin](../../../../wet/kadasterwet/BWBR0004541/README.md), [84, vierde lid](../../../../wet/kadasterwet/BWBR0004541/README.md), en [117 van de Kadasterwet](../../../../wet/kadasterwet/BWBR0004541/README.md) en [30, eerste en tweede lid, van Boek 3 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), zoals die artikelen luidden vóór het tijdstip van het in werking treden van deze wet, blijft van toepassing met betrekking tot aansprakelijkheid en schadevergoeding ter zake van in die artikelen bedoelde feiten die zich hebben voorgedaan vóór dat tijdstip.  
+Het bepaalde in de artikelen 11, zevende lid, tweede zin, 84, vierde lid, en 117 van de Kadasterwet en 30, eerste en tweede lid, van Boek 3 van het Burgerlijk Wetboek, zoals die artikelen luidden vóór het tijdstip van het in werking treden van deze wet, blijft van toepassing met betrekking tot aansprakelijkheid en schadevergoeding ter zake van in die artikelen bedoelde feiten die zich hebben voorgedaan vóór dat tijdstip.  
 
 ### Artikel  57  
 

@@ -7,7 +7,7 @@ Overwegende;
 
 dat het gewenst is gebleken nieuwe regels te stellen met betrekking tot de praktijkuitoefening in het verband van een rechtspersoon;
 
-Gelet op [artikel 28 van de Advocatenwet](../../../../../../wet/advocatenwet/BWBR0002093/README.md);
+Gelet op artikel 28 van de Advocatenwet;
 
 Gelet op het ontwerp van de Algemene Raad met bijbehorende toelichting;
 Stelt de navolgende verordening vast:    
@@ -16,9 +16,9 @@ Stelt de navolgende verordening vast:
 
 In deze verordening wordt verstaan onder: 
 
-a. advocaat: de in Nederland ingeschreven advocaat, alsmede de advocaat bedoeld in [artikel 16h van de Advocatenwet](../../../../../../wet/advocatenwet/BWBR0002093/README.md);  
+a. advocaat: de in Nederland ingeschreven advocaat, alsmede de advocaat bedoeld in artikel 16h van de Advocatenwet;  
 
-b. beoefenaar van een toegelaten vrij beroep: de beoefenaar van een vrij beroep met wie het de advocaat ingevolge de [Samenwerkingsverordening 1993](../../../../../../pbo/samenwerkingsverordening/1993/BWBR0005822/README.md) is toegestaan een samenwerkingsverband aan te gaan;  
+b. beoefenaar van een toegelaten vrij beroep: de beoefenaar van een vrij beroep met wie het de advocaat ingevolge de Samenwerkingsverordening 1993 is toegestaan een samenwerkingsverband aan te gaan;  
 
 c. praktijkrechtspersoon: een praktijkvennootschap, praktijkstichting of praktijkcoöperatie;  
 
@@ -26,9 +26,9 @@ d. praktijkvennootschap: een naamloze vennootschap of besloten vennootschap met 
 
 e. houdstervennootschap: een naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid of een vennootschap die is opgericht naar het recht van een ander land dan Nederland en die met een met de naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid vergelijkbare rechtsvorm heeft, waarvan de activiteiten statutair en feitelijk beperkt zijn tot het direct of indirect een of meer aandelen houden in het kapitaal van een praktijkvennootschap of van een houdstervennootschap en daarmee verband houdende beheersactiviteiten;  
 
-f. praktijkstichting: de rechtspersoon bedoeld in [titel 6 van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), die uitsluitend de rechtspraktijk uitoefent of doet uitoefenen door advocaten of beoefenaren van een toegelaten vrij beroep;  
+f. praktijkstichting: de rechtspersoon bedoeld in titel 6 van Boek 2 van het Burgerlijk Wetboek, die uitsluitend de rechtspraktijk uitoefent of doet uitoefenen door advocaten of beoefenaren van een toegelaten vrij beroep;  
 
-g. praktijkcoöperatie: de rechtspersoon bedoeld in [titel 3 van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), die uitsluitend de rechtspraktijk uitoefent of doet uitoefenen door advocaten of beoefenaren van een toegelaten vrij beroep;  
+g. praktijkcoöperatie: de rechtspersoon bedoeld in titel 3 van Boek 2 van het Burgerlijk Wetboek, die uitsluitend de rechtspraktijk uitoefent of doet uitoefenen door advocaten of beoefenaren van een toegelaten vrij beroep;  
 
 h. Raad van Toezicht: de Raad van Toezicht van het arrondissement waar de advocaat kantoor houdt, dan wel, in het geval van bestuurdersbenoeming zoals bedoeld in Artikel 10, de Raad van Toezicht van het arrondissement waar de praktijkrechtspersoon statutair gevestigd is. Indien de bestuurder, zoals bedoeld in het tweede lid van Artikel 10, wordt benoemd in een praktijkvennootschap die statutair is gevestigd buiten Nederland, is de Raad van Toezicht in het arrondissement Amsterdam bij uitsluiting bevoegd.   
 
@@ -108,7 +108,7 @@ De statuten van een praktijkrechtspersoon mogen voorzien in de instelling van ee
 4.  Het bepaalde in het tweede en derde lid is van overeenkomstige toepassing op de stichting-administratiekantoor, zoals bedoeld in artikel 3 derde lid.   
 5.  De in het tweede en derde lid bedoelde verstrekking vindt plaats: 
 
-– voorzover het de in het tweede lid bedoelde stukken betreft: binnen gelijke termijn als de overlegging van afschriften van deze stukken aan het handelsregister is voorgeschreven ingevolge de Handelsregisterwet, respectievelijk het in [artikel 289, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) bedoelde register;  
+– voorzover het de in het tweede lid bedoelde stukken betreft: binnen gelijke termijn als de overlegging van afschriften van deze stukken aan het handelsregister is voorgeschreven ingevolge de Handelsregisterwet, respectievelijk het in artikel 289, eerste lid, van Boek 2 van het Burgerlijk Wetboek bedoelde register;  
 
 – voorzover het de in het derde lid bedoelde opgaven betreft: telkens wanneer de Raad van Toezicht of de namens de Raad van Toezicht optredende secretaris van de Algemene Raad zulks verlangt, binnen een week nadat dit verlangen is geuit.    
 
@@ -117,20 +117,20 @@ De statuten van een praktijkrechtspersoon mogen voorzien in de instelling van ee
 1.  De uitoefening van de rechtspraktijk binnen de praktijkrechtspersoon dient zodanig te zijn ingericht, dat door toetreding van bestuurders die geen advocaat of beoefenaar van een toegelaten vrij beroep zijn, de onafhankelijkheid en vertrouwelijkheid binnen de praktijkuitoefening niet in gevaar wordt of kan worden gebracht.   
 2.  De bestuurder van de praktijkrechtspersoon, niet zijnde advocaat of beoefenaar van een toegelaten vrij beroep, dient voorafgaand aan zijn benoeming aan de Raad van Toezicht over te leggen: 
 
-a. een verklaring omtrent het gedrag, afgegeven volgens de [Wet justitiële en strafvorderlijke gegevens](../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md);  
+a. een verklaring omtrent het gedrag, afgegeven volgens de Wet justitiële en strafvorderlijke gegevens;  
 
 b. de statuten van de praktijkrechtspersoon als ook een beknopte schriftelijke toelichting op de achtergrond van de te benoemen bestuurder en zijn beoogde rol binnen het bestuur;  
 
 c. een verklaring dat de te benoemen bestuurder niet in staat van faillissement heeft verkeerd en ten aanzien van hem de schuldsanering natuurlijke personen niet van toepassing is geweest. Deze verklaring dient, in het geval van een te benoemen bestuurder die eerder advocaat is geweest, te worden afgegeven door de raad van toezicht van het arrondissement waar hij het laatst kantoor heeft gehouden. In andere gevallen wordt de verklaring door de betrokkene zelf afgegeven.     
-3.  Indien de in het vorige lid bedoelde te benoemen bestuurder eerder als advocaat ingeschreven is geweest dient tevens een document te worden overgelegd dat is afgegeven door de raad van toezicht van het arrondissement waarin hij het laatst kantoor heeft gehouden, waaruit blijktof hij al dan niet tuchtrechtelijk is veroordeeld, en of hem daarbij een schorsing is opgelegd of een voorziening is getroffen wegens onbehoorlijke praktijkuitoefening als bedoeld in [Artikel 60b van de Advocatenwet](../../../../../../wet/advocatenwet/BWBR0002093/README.md).   
+3.  Indien de in het vorige lid bedoelde te benoemen bestuurder eerder als advocaat ingeschreven is geweest dient tevens een document te worden overgelegd dat is afgegeven door de raad van toezicht van het arrondissement waarin hij het laatst kantoor heeft gehouden, waaruit blijktof hij al dan niet tuchtrechtelijk is veroordeeld, en of hem daarbij een schorsing is opgelegd of een voorziening is getroffen wegens onbehoorlijke praktijkuitoefening als bedoeld in Artikel 60b van de Advocatenwet.   
 4.  Benoeming van een bestuurder als bedoeld in het tweede en derde lid van dit Artikel is niet toegestaan indien de te benoemen bestuurder de in dit Artikel genoemde toepasselijke documenten niet over kan leggen.   
-5.  Benoeming is niet toegestaan van de bestuurder als bedoeld in het derde lid van dit Artikel aan wie in het verleden de tuchtrechtelijke maatregel van een voorwaardelijke of onvoorwaardelijke schorsing in de uitoefening van de praktijk of van schrapping van het tableau is opgelegd, dan wel wanneer hem een schorsing is opgelegd of een voorziening is getroffen wegens onbehoorlijke praktijkuitoefening als bedoeld in [Artikel 60b van de Advocatenwet](../../../../../../wet/advocatenwet/BWBR0002093/README.md).   
+5.  Benoeming is niet toegestaan van de bestuurder als bedoeld in het derde lid van dit Artikel aan wie in het verleden de tuchtrechtelijke maatregel van een voorwaardelijke of onvoorwaardelijke schorsing in de uitoefening van de praktijk of van schrapping van het tableau is opgelegd, dan wel wanneer hem een schorsing is opgelegd of een voorziening is getroffen wegens onbehoorlijke praktijkuitoefening als bedoeld in Artikel 60b van de Advocatenwet.   
 6.  De Raad van Toezicht bedoeld in Artikel 1, onder h, toetst of op grond van het in het derde lid van dit Artikel genoemde document bezwaar bestaat tegen voorgenomen benoeming. Bestaat er uit hoofde van die toetsing bezwaar dan is benoeming niet toegestaan.   
 7.  Benoeming is voorts niet toegestaan steeds indien de Raad van Toezicht als bedoeld in Artikel 1, onder h, daartegen bezwaar heeft op de voet van het eerste lid van dit Artikel.  
 
 ###Artikel 11 
 
-1.  Tegen een beschikking van de Raad van Toezicht ingevolge artikel 4 vierde lid staat voor belanghebbenden administratief beroep open bij de Algemene Raad. De [hoofdstukken 6](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [7 van de Algemene Wet Bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van toepassing.   
+1.  Tegen een beschikking van de Raad van Toezicht ingevolge artikel 4 vierde lid staat voor belanghebbenden administratief beroep open bij de Algemene Raad. De hoofdstukken 6 en 7 van de Algemene Wet Bestuursrecht zijn van toepassing.   
 2.  De secretaris van de Raad van Toezicht maakt de beschikking onverwijld bekend aan de betrokkenen en aan de secretaris van de Algemene Raad.   
 3.  Het beroep wordt ingesteld binnen zes weken na de bekendmaking van de in het eerste lid bedoelde beschikking.  
 

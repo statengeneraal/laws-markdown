@@ -5,7 +5,7 @@
 De Nederlandsche Bank N.V.,  
 Na raadpleging van de betrokken representatieve organisaties;
 
-Gelet op de [artikelen 131, eerste lid](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md), [133, eerste lid](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md), en [artikel 135, tweede en vijfde lid, van het Besluit prudentiële regels Wft](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md);
+Gelet op de artikelen 131, eerste lid, 133, eerste lid, en artikel 135, tweede en vijfde lid, van het Besluit prudentiële regels Wft;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -15,13 +15,13 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. Besluit: [Besluit prudentiële regels Wft](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md);  
+a. Besluit: Besluit prudentiële regels Wft;  
 
 b. DNB: de Nederlandsche Bank N.V.;  
 
 c. financiële onderneming: een ieder waarvoor op grond van artikel 2:1 eerste lid van deze Regeling de modellen van de staten worden vastgesteld;  
 
-d. wet: [Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+d. wet: Wet op het financieel toezicht;  
 
 e.AIFM-richtlijn: Richtlijn 2011/61/EU van het Europees Parlement en de Raad van 8 juni 2011 inzake beheerders van alternatieve beleggingsinstellingen en tot wijziging van de Richtlijnen 2003/41/EG en 2009/65/EG en van de Verordeningen (EG) nr. 1060/2009 en (EU) nr. 1095/2010 (PbEU 2011, L 174);
 
@@ -33,9 +33,11 @@ h.  EBA: de Europese Bankenautoriteit (European Banking Authority);
 
 i.  technische reguleringsnormen of technische uitvoeringsnormen van de EBA: door de EBA ontwikkelde ontwerpen van technische reguleringsnormen (draft regulatory technical standards) of ontwerpen van technische uitvoeringsnormen (draft implementing technical standards), die door de Europese Commissie zijn bevestigd;  
 
-j.  geconsolideerd: de geconsolideerde situatie als bedoeld in [artikel 3:274 Wft](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+j.  geconsolideerd: de geconsolideerde situatie als bedoeld in artikel 3:274 Wft;  
 
-k.  gesubconsolideerd: de gesubconsolideerde situatie als bedoeld in artikel 22 van de CRR.  
+k.  gesubconsolideerd: de gesubconsolideerde situatie als bedoeld in artikel 22 van de CRR; 
+
+l.  richtlijn Solvabiliteit II: richtlijn nr. 2009/138/EG van het Europees Parlement en de Raad van 25 november 2009 betreffende de toegang tot en uitoefening van het verzekerings- en het herverzekeringsbedrijf (Solvabiliteit II) (herschikking) (PbEU 2009, L 335).  
 
 ### Hoofdstuk  2  
 
@@ -43,33 +45,33 @@ k.  gesubconsolideerd: de gesubconsolideerde situatie als bedoeld in artikel 22 
 
 ### Artikel   2:1  
 
-1.  De modellen van de staten, bedoeld in [artikel 131, eerste lid, onderdeel a, van het Besluit](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md), worden vastgesteld voor: 
+1.  De modellen van de staten, bedoeld in artikel 131, eerste lid, onderdeel a, van het Besluit, worden vastgesteld voor: 
 
-a. een verzekeraar of een bijkantoor als bedoeld in [artikel 130, tweede lid, aanhef, van het Besluit](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md), zoals opgenomen in de bijlagen 1 en 2 bij deze regeling;  
+a. een verzekeraar of een bijkantoor als bedoeld in artikel 130, tweede lid, aanhef, van het Besluit, zoals opgenomen in de bijlagen 1 en 2 bij deze regeling;  
 
-b. een bank of clearinginstelling als bedoeld in [artikel 130, eerste lid](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md), en een bijkantoor als bedoeld in artikel 130, vierde lid, van het Besluit, zoals opgenomen in bijlage 3 bij deze regeling;  
+b. een bank of clearinginstelling als bedoeld in artikel 130, eerste lid, en een bijkantoor als bedoeld in artikel 130, vierde lid, van het Besluit, zoals opgenomen in bijlage 3 bij deze regeling;  
 
-c. een beleggingsonderneming als bedoeld in [artikel 130, eerste lid, aanhef, van het Besluit](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md), zoals opgenomen in bijlage 4 bij deze regeling;  
+c. een beleggingsonderneming als bedoeld in artikel 130, eerste lid, aanhef, van het Besluit, zoals opgenomen in bijlage 4 bij deze regeling;  
 
-d.een elektronische geldinstelling of betaalinstelling als bedoeld in [artikel 130, derde lid, aanhef, van het Besluit](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md), zoals opgenomen in bijlage 5 bij deze regeling; 
+d.een elektronische geldinstelling of betaalinstelling als bedoeld in artikel 130, derde lid, aanhef, van het Besluit, zoals opgenomen in bijlage 5 bij deze regeling; 
 
-e. een premiepensioeninstelling als bedoeld in [artikel 130, vijfde lid, aanhef, van het Besluit](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md), zoals opgenomen in bijlage 12 bij deze regeling;  
+e. een premiepensioeninstelling als bedoeld in artikel 130, vijfde lid, aanhef, van het Besluit, zoals opgenomen in bijlage 12 bij deze regeling;  
 
-f. een beheerder als bedoeld in [artikel 130, zesde lid, aanhef, van het Besluit](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md), zoals opgenomen in bijlage 13 bij deze regeling; 
+f. een beheerder als bedoeld in artikel 130, zesde lid, aanhef, van het Besluit, zoals opgenomen in bijlage 13 bij deze regeling; 
 
-g.een afwikkelonderneming als bedoeld in [artikel 130, zevende lid, aanhef, van het Besluit](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md), zoals opgenomen in bijlage 14 bij deze regeling.   
+g.een afwikkelonderneming als bedoeld in artikel 130, zevende lid, aanhef, van het Besluit, zoals opgenomen in bijlage 14 bij deze regeling.   
 2.  In afwijking van het eerste lid, onderdeel b, worden de modellen van de staten voor een clearinginstelling die tevens een beleggingsonderneming is vastgesteld zoals opgenomen in bijlage 4.   
-3.  De regels met betrekking tot de staten, bedoeld in [artikel 131, eerste lid, onderdelen b, c, d, e, f, g, en h, van het Besluit](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md), zijn opgenomen in de modellen van de staten, bedoeld in het eerste lid, en de bijbehorende toelichting op de staten.  
+3.  De regels met betrekking tot de staten, bedoeld in artikel 131, eerste lid, onderdelen b, c, d, e, f, g, en h, van het Besluit, zijn opgenomen in de modellen van de staten, bedoeld in het eerste lid, en de bijbehorende toelichting op de staten.  
 
 ### Artikel  2:2  
 
-1.  Een clearinginstelling, beleggingsonderneming, of bank als bedoeld in [artikel 130, eerste lid, van het Besluit](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md), een elektronische geldinstelling of betaalinstelling als bedoeld in artikel 130, derde lid van het Besluit, een bijkantoor als bedoeld in artikel 130, vierde lid, van het Besluit, een premiepensioeninstelling als bedoeld in artikel 130, vijfde lid, van het Besluit en een beheerder als bedoeld in artikel 130, zesde lid, van het Besluit verstrekken de staten, bedoeld in artikel 130, eerste, derde, vierde, vijfde en zesde lid, van het Besluit aan DNB met de frequenties en binnen de termijnen, zoals vermeld in de bijlage 6 bij deze regeling.  
-2.  Een verzekeraar als bedoeld in [artikel 130, tweede lid, aanhef, van het Besluit](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md), verstrekt de staten zoals opgenomen in bijlage 1 bij deze regeling, met uitzondering van de staat Eigen Risicobeoordeling, jaarlijks binnen vijf maanden na afloop van ieder boekjaar met betrekking tot dat boekjaar aan DNB.   
+1.  Een clearinginstelling, beleggingsonderneming, of bank als bedoeld in artikel 130, eerste lid, van het Besluit, een elektronische geldinstelling of betaalinstelling als bedoeld in artikel 130, derde lid van het Besluit, een bijkantoor als bedoeld in artikel 130, vierde lid, van het Besluit, een premiepensioeninstelling als bedoeld in artikel 130, vijfde lid, van het Besluit en een beheerder als bedoeld in artikel 130, zesde lid, van het Besluit verstrekken de staten, bedoeld in artikel 130, eerste, derde, vierde, vijfde en zesde lid, van het Besluit aan DNB met de frequenties en binnen de termijnen, zoals vermeld in de bijlage 6 bij deze regeling.  
+2.  Een verzekeraar als bedoeld in artikel 130, tweede lid, aanhef, van het Besluit, verstrekt de staten zoals opgenomen in bijlage 1 bij deze regeling, met uitzondering van de staat Eigen Risicobeoordeling, jaarlijks binnen vijf maanden na afloop van ieder boekjaar met betrekking tot dat boekjaar aan DNB.   
 3.  In aanvulling op het tweede lid verstrekt de verzekeraar, op verzoek van DNB, de staten zoals opgenomen in bijlage 2 bij deze regeling aan DNB per halfjaar of kwartaal, binnen dertig werkdagen na afloop van dat halfjaar onderscheidenlijk kwartaal, indien: 
 
 a. de vergunning, gerekend vanaf het begin van elk boekjaar, minder dan drie jaar geleden aan de verzekeraar verleend is;  
 
-b. aan de verzekeraar een aanwijzing is gegeven als bedoeld in [artikel 1:75, eerste of tweede lid, van de Wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), wegens het niet voldoen aan bij of krachtens de Wet gestelde regels met betrekking tot het garantiefonds, de solvabiliteitsmarge of de technische voorzieningen van de verzekeraar, onderscheidenlijk wegens tekenen van een ontwikkeling die het garantiefonds of de solvabiliteitsmarge van de verzekeraar in gevaar kan brengen; of  
+b. aan de verzekeraar een aanwijzing is gegeven als bedoeld in artikel 1:75, eerste of tweede lid, van de Wet, wegens het niet voldoen aan bij of krachtens de Wet gestelde regels met betrekking tot het garantiefonds, de solvabiliteitsmarge of de technische voorzieningen van de verzekeraar, onderscheidenlijk wegens tekenen van een ontwikkeling die het garantiefonds of de solvabiliteitsmarge van de verzekeraar in gevaar kan brengen; of  
 
 c. zich uitzonderlijke omstandigheden voordoen op grond waarvan te verwachten is dat de financiële positie van de verzekeraar zodanig verslechtert, dat deze niet langer zal kunnen voldoen aan de bij of krachtens de Wet gestelde regels met betrekking tot het garantiefonds, de solvabiliteitsmarge of de technische voorzieningen van de verzekeraar.     
 4.  De verzekeraar verstrekt de aanvullende staten, bedoeld in het derde lid, voor het eerst over het halfjaar dan wel kwartaal volgend op het moment dat: 
@@ -86,11 +88,13 @@ a. de termijn van drie jaar volgend op het moment dat de vergunning is verstrekt
 b. de termijn binnen welke de in de aanwijzingsbeschikking bepaalde gedragslijn wordt gevolgd, vermeerderd met ten hoogste drie jaar;  
 
 c. de termijn dat de uitzonderlijke omstandigheden zich voordoen.     
-6.   Een verzekeraar waarop [artikel 24a, tweede lid, van het Besluit](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md) van toepassing is, verstrekt de staat Eigen Risicobeoordeling, zoals opgenomen in bijlage 1, onderdeel Verzekeraars – Jaarset Leven Natura Schade BW IFRS, bij deze regeling, ten minste eenmaal per kalenderjaar binnen twee weken nadat de Eigen Risicobeoordeling door de verzekeraar is goedgekeurd, en uiterlijk op 31 december van ieder kalenderjaar. 
-7. Een beheerder op welke het ingevolge de wet bepaalde, met uitzondering van de [artikelen 3:74c](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:37l tot en met 4:37m](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md),[ 5:19a](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [5:25c van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), niet van toepassing is op grond van [artikel 1:13b van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), verstrekt de staten als bedoeld in bijlage 6 die op hem van toepassing zouden zijn indien de beheerder zou beschikken over een vergunning als bedoeld in [artikel 2:65 van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), met uitzondering van de staten genoemd in onderdeel B van tabel 6.5 van die bijlage. 
-8.  Een bank of beleggingsonderneming in de zin van artikel 4 van de CRR, verstrekt tevens de staten met de frequenties en indieningstermijnen zoals bepaald door de technische uitvoeringsnorm inzake rapportages van de EBA;   
-9.  Een beheerder op welke het ingevolge de [wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) bepaalde, met uitzondering van de [artikelen 3:74c](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:37l tot en met 4:37m](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [5:19a](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [5:25c van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), niet van toepassing is op grond van [artikel 1:13b van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), verstrekt de staten als bedoeld in bijlage 6 die op hem van toepassing zouden zijn indien de beheerder zou beschikken over een vergunning als bedoeld in [artikel 2:65 van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md). 
-10. Een afwikkelonderneming als bedoeld in [artikel 130, zevende lid, van het Besluit](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md) verstrekt de staten zoals opgenomen in bijlage 14 aan DNB met de frequenties en binnen de termijnen, zoals vermeld in de bijlage 6 bij deze regeling.
+6.   Een verzekeraar waarop artikel 24a, tweede lid, van het Besluit van toepassing is, verstrekt de staat Eigen Risicobeoordeling, zoals opgenomen in bijlage 1, onderdeel Verzekeraars – Jaarset Leven Natura Schade BW IFRS, bij deze regeling, ten minste eenmaal per kalenderjaar binnen twee weken nadat de Eigen Risicobeoordeling door de verzekeraar is goedgekeurd, en uiterlijk op 31 december van ieder kalenderjaar.  
+7.  Een verzekeraar waarop artikel 131, vijfde lid, van het Besluit van toepassing is, verstrekt binnen 22 weken na afloop van het boekjaar dat eindigt op 31 december 2014 de modeljaarstaten ter voorbereiding op de richtlijn Solvabiliteit II, zoals opgenomen in bijlage 1, onderdeel Verzekeraars – Overgangsregime 2015.   
+8.  Een verzekeraar waarop artikel 131, vijfde lid, van het Besluit van toepassing is, verstrekt binnen 8 weken na afloop van de kwartalen die eindigen op 30 juni 2015 onderscheidenlijk op 30 september 2015 de modelkwartaalstaten ter voorbereiding op de richtlijn Solvabiliteit II, zoals opgenomen in bijlage 1, onderdeel Verzekeraars – Overgangsregime 2015. 
+9. Een beheerder op welke het ingevolge de wet bepaalde, met uitzondering van de artikelen 3:74c, 4:37l tot en met 4:37m, 5:19a en 5:25c van de wet, niet van toepassing is op grond van artikel 1:13b van de wet, verstrekt de staten als bedoeld in bijlage 6 die op hem van toepassing zouden zijn indien de beheerder zou beschikken over een vergunning als bedoeld in artikel 2:65 van de wet, met uitzondering van de staten genoemd in onderdeel B van tabel 6.5 van die bijlage. 
+10.  Een bank of beleggingsonderneming in de zin van artikel 4 van de CRR, verstrekt tevens de staten met de frequenties en indieningstermijnen zoals bepaald door de technische uitvoeringsnorm inzake rapportages van de EBA;   
+11.  Een beheerder op welke het ingevolge de wet bepaalde, met uitzondering van de artikelen 3:74c, 4:37l tot en met 4:37m, 5:19a en 5:25c van de wet, niet van toepassing is op grond van artikel 1:13b van de wet, verstrekt de staten als bedoeld in bijlage 6 die op hem van toepassing zouden zijn indien de beheerder zou beschikken over een vergunning als bedoeld in artikel 2:65 van de wet. 
+12. Een afwikkelonderneming als bedoeld in artikel 130, zevende lid, van het Besluit verstrekt de staten zoals opgenomen in bijlage 14 aan DNB met de frequenties en binnen de termijnen, zoals vermeld in de bijlage 6 bij deze regeling.
 
 ### Artikel  2:3  
 
@@ -101,13 +105,13 @@ c. de termijn dat de uitzonderlijke omstandigheden zich voordoen.
 
 ####- Geconsolideerde staten
 
-1.  Een daartoe verplichte financiële onderneming dient geconsolideerde, waaronder gesubconsolideerde, staten in, in die gevallen waar dit uit de [Wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), de CRR of hetgeen bij of krachtens de Wet of de CRR is vastgesteld, voortvloeit.   
-2.  Een financiële onderneming waardeert ten behoeve van de geconsolideerde, waaronder gesubconsolideerde, staten de actiefposten en de posten buiten de balansstelling overeenkomstig het toepasselijke kader voor financiële verslaggeving, tenzij uit de [Wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), de CRR of hetgeen bij of krachtens de Wet of de CRR is vastgesteld, anders voortvloeit.   
-3.  Een financiële onderneming betrekt ten behoeve van geconsolideerde (waaronder gesubconsolideerde) staten uitsluitend die gerelateerde entiteiten die op grond van de [Wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), de CRR of hetgeen bij of krachtens de Wet of de CRR is vastgesteld, in de reikwijdte van consolidatie opgenomen moeten worden.  
+1.  Een daartoe verplichte financiële onderneming dient geconsolideerde, waaronder gesubconsolideerde, staten in, in die gevallen waar dit uit de Wet, de CRR of hetgeen bij of krachtens de Wet of de CRR is vastgesteld, voortvloeit.   
+2.  Een financiële onderneming waardeert ten behoeve van de geconsolideerde, waaronder gesubconsolideerde, staten de actiefposten en de posten buiten de balansstelling overeenkomstig het toepasselijke kader voor financiële verslaggeving, tenzij uit de Wet, de CRR of hetgeen bij of krachtens de Wet of de CRR is vastgesteld, anders voortvloeit.   
+3.  Een financiële onderneming betrekt ten behoeve van geconsolideerde (waaronder gesubconsolideerde) staten uitsluitend die gerelateerde entiteiten die op grond van de Wet, de CRR of hetgeen bij of krachtens de Wet of de CRR is vastgesteld, in de reikwijdte van consolidatie opgenomen moeten worden.  
 
 ### Artikel  2:5  
 
-Een accountant betrekt bij zijn onderzoek, bedoeld in [artikel 133, eerste lid, van het Besluit](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md), de staten die zijn opgenomen in bijlage 7 bij deze regeling. 
+Een accountant betrekt bij zijn onderzoek, bedoeld in artikel 133, eerste lid, van het Besluit, de staten die zijn opgenomen in bijlage 7 bij deze regeling. 
 
 ###2:6 
 
@@ -119,31 +123,31 @@ DNB kan bij besluit bepalen dat een bank voorts de staten zoals opgenomen in bij
 
 ### Artikel  3:1  
 
-Het model van de opgave, bedoeld in [artikel 135, eerste lid, van het Besluit](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md), in te dienen door een levensverzekeraar met zetel in Nederland met betrekking tot de vanuit Nederland of vanuit een bijkantoor in een andere lidstaat gesloten overeenkomsten van verzekering, wordt vastgesteld zoals het is opgenomen in het onderdeel bijkantoren en vrije dienstverrichting levensverzekeraars van bijlage 1 bij deze regeling. 
+Het model van de opgave, bedoeld in artikel 135, eerste lid, van het Besluit, in te dienen door een levensverzekeraar met zetel in Nederland met betrekking tot de vanuit Nederland of vanuit een bijkantoor in een andere lidstaat gesloten overeenkomsten van verzekering, wordt vastgesteld zoals het is opgenomen in het onderdeel bijkantoren en vrije dienstverrichting levensverzekeraars van bijlage 1 bij deze regeling. 
 
 ### Artikel  3:2  
 
-Het model van de opgave, bedoeld in [artikel 135, eerste lid, van het Besluit](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md), in te dienen door een levensverzekeraar met zetel in een andere lidstaat, met betrekking tot de vanuit een bijkantoor in een staat die geen lidstaat is uit hoofde van het verrichten van diensten naar Nederland gesloten overeenkomsten van verzekering, wordt vastgesteld zoals het is opgenomen in bijlage 8 bij deze regeling. 
+Het model van de opgave, bedoeld in artikel 135, eerste lid, van het Besluit, in te dienen door een levensverzekeraar met zetel in een andere lidstaat, met betrekking tot de vanuit een bijkantoor in een staat die geen lidstaat is uit hoofde van het verrichten van diensten naar Nederland gesloten overeenkomsten van verzekering, wordt vastgesteld zoals het is opgenomen in bijlage 8 bij deze regeling. 
 
 ### Artikel  3:3  
 
-Het model van de opgave, bedoeld in [artikel 135, eerste lid, van het Besluit](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md), in te dienen door een levensverzekeraar met zetel in een staat die geen lidstaat is, met betrekking tot de vanuit een bijkantoor in Nederland uit hoofde van het verrichten van diensten naar een andere lidstaat gesloten overeenkomsten van verzekering, wordt vastgesteld zoals het is opgenomen in het onderdeel bijkantoren en vrije dienstverrichting levensverzekeraars van bijlage 1 bij deze regeling. 
+Het model van de opgave, bedoeld in artikel 135, eerste lid, van het Besluit, in te dienen door een levensverzekeraar met zetel in een staat die geen lidstaat is, met betrekking tot de vanuit een bijkantoor in Nederland uit hoofde van het verrichten van diensten naar een andere lidstaat gesloten overeenkomsten van verzekering, wordt vastgesteld zoals het is opgenomen in het onderdeel bijkantoren en vrije dienstverrichting levensverzekeraars van bijlage 1 bij deze regeling. 
 
 ### Artikel  3:4  
 
-De branchegroepen en het model van de opgave, bedoeld in [artikel 135, tweede lid, van het Besluit](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md), in te dienen door een schadeverzekeraar met zetel in Nederland, met betrekking tot de vanuit Nederland of vanuit een bijkantoor in een andere lidstaat gesloten overeenkomsten van verzekering, worden vastgesteld zoals zij zijn opgenomen in het onderdeel bijkantoren en vrije dienstverrichting schadeverzekeraars van bijlage 1 bij deze regeling. 
+De branchegroepen en het model van de opgave, bedoeld in artikel 135, tweede lid, van het Besluit, in te dienen door een schadeverzekeraar met zetel in Nederland, met betrekking tot de vanuit Nederland of vanuit een bijkantoor in een andere lidstaat gesloten overeenkomsten van verzekering, worden vastgesteld zoals zij zijn opgenomen in het onderdeel bijkantoren en vrije dienstverrichting schadeverzekeraars van bijlage 1 bij deze regeling. 
 
 ### Artikel  3:5  
 
-De branchegroepen en het model van de opgave, bedoeld in [artikel 135, tweede lid, van het Besluit](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md), in te dienen door een schadeverzekeraar met zetel in een andere lidstaat, met betrekking tot de vanuit een bijkantoor in een staat die geen lidstaat is uit hoofde van het verrichten van diensten naar Nederland gesloten overeenkomsten van verzekering, worden vastgesteld zoals zij zijn opgenomen in bijlage 9 bij deze regeling. 
+De branchegroepen en het model van de opgave, bedoeld in artikel 135, tweede lid, van het Besluit, in te dienen door een schadeverzekeraar met zetel in een andere lidstaat, met betrekking tot de vanuit een bijkantoor in een staat die geen lidstaat is uit hoofde van het verrichten van diensten naar Nederland gesloten overeenkomsten van verzekering, worden vastgesteld zoals zij zijn opgenomen in bijlage 9 bij deze regeling. 
 
 ### Artikel  3:6  
 
-De branchegroepen en het model van de opgave, bedoeld in [artikel 135, tweede lid, van het Besluit](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md), in te dienen door een schadeverzekeraar met zetel in een staat die geen lidstaat is, met betrekking tot de vanuit een bijkantoor in Nederland uit hoofde van het verrichten van diensten naar een andere lidstaat gesloten overeenkomsten van verzekering, worden vastgesteld zoals zij zijn opgenomen in het onderdeel bijkantoren en vrije dienstverrichting schadeverzekeraars van bijlage 1 bij deze regeling. 
+De branchegroepen en het model van de opgave, bedoeld in artikel 135, tweede lid, van het Besluit, in te dienen door een schadeverzekeraar met zetel in een staat die geen lidstaat is, met betrekking tot de vanuit een bijkantoor in Nederland uit hoofde van het verrichten van diensten naar een andere lidstaat gesloten overeenkomsten van verzekering, worden vastgesteld zoals zij zijn opgenomen in het onderdeel bijkantoren en vrije dienstverrichting schadeverzekeraars van bijlage 1 bij deze regeling. 
 
 ### Artikel  3:7  
 
-Het model van de opgave, bedoeld in [artikel 135, derde lid, van het Besluit](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md), in te dienen door een natura-uitvaartverzekeraar als bedoeld in [artikel 3:87, eerste lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), wordt vastgesteld zoals het is opgenomen in bijlage 10 bij deze regeling. 
+Het model van de opgave, bedoeld in artikel 135, derde lid, van het Besluit, in te dienen door een natura-uitvaartverzekeraar als bedoeld in artikel 3:87, eerste lid, van de wet, wordt vastgesteld zoals het is opgenomen in bijlage 10 bij deze regeling. 
 
 ### Hoofdstuk  4  
 
@@ -151,7 +155,7 @@ Het model van de opgave, bedoeld in [artikel 135, derde lid, van het Besluit](..
 
 ### Artikel  4:3  
 
-Deze regeling treedt in werking op het tijdstip waarop het [Besluit](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md) in werking treedt. 
+Deze regeling treedt in werking op het tijdstip waarop het Besluit in werking treedt. 
 
 ### Artikel  4:4  
 
@@ -192,7 +196,7 @@ Ligt ter inzage bij de Nederlandsche Bank N.V.
 
 ####Banken en clearinginstellingen in Nederland
 
-|--- | Een bank, een opt-in bank en clearinginstelling als bedoeld in [artikel 3:4](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [artikel 3:72, eerste lid van de Wft](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).  | Bijkantoren  | Formulieren (set)  | Frequentie  | Indieningstermijn  | Geconsolideerd  | Gesubconsolideerd  | Solo  | Bijkantoor als bedoeld in [art. 3:75](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of [3:77 Wft](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  | Bijkantoor als bedoeld in [art. 3:82 Wft](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  |
+|--- | Een bank, een opt-in bank en clearinginstelling als bedoeld in artikel 3:4, artikel 3:72, eerste lid van de Wft.  | Bijkantoren  | Formulieren (set)  | Frequentie  | Indieningstermijn  | Geconsolideerd  | Gesubconsolideerd  | Solo  | Bijkantoor als bedoeld in art. 3:75 of 3:77 Wft  | Bijkantoor als bedoeld in art. 3:82 Wft  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 | Uitvraag financiële informatie als bedoeld in artikel 99 CRR en nader uitgewerkt in Annex IV van de technische uitvoeringsnorm inzake rapportages van EBA o.g.v. art. 99 vijfde lid CRR  | Kwartaal  | Als bedoeld in de technische uitvoeringsnormen inzake prudentiële rapportages van EBA (1)  | Ja  | Nee  | Nee  | Nee, m.u.v. de staten van Part 1, F01.01 t/m 02.00.  | Nee, m.u.v. de staten van Part 1, F01.01 t/m 02.00.  |
 | 8017  | Incidenteel  | n/a  | Ja  | Nee  | Nee  | Nee  | Nee  |
@@ -208,7 +212,7 @@ Ligt ter inzage bij de Nederlandsche Bank N.V.
 
 | Staat  | Frequentie  | Indieningstermijn  | Rapportage geldt voor:  |
 |:---|:---|:---|:---|
-| --- | --- | --- | een betaal- of elektronische geldinstelling als bedoeld in [artikel 3:72, eerste lid van de Wft](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), onder solo toezicht:  |
+| --- | --- | --- | een betaal- of elektronische geldinstelling als bedoeld in artikel 3:72, eerste lid van de Wft, onder solo toezicht:  |
 | Balans  | Per halfjaar  | 30 werkdagen na de verslagperiode  | Ja  |
 | Winst- en verliesrekening  | idem  | idem  | Ja  |
 | Buitenbalans en overig  | idem  | idem  | Ja  |
@@ -249,7 +253,7 @@ Ligt ter inzage bij de Nederlandsche Bank N.V.
 | FIXED OVERHEAD REQUIREMENTS  | Per kalenderkwartaal  | Idem  | JA  | NEE  |
 | STATEMENT  | Per kalenderkwartaal  | Idem  | JA  | NEE  |
 
-###Beleggingsondernemingen in de zin van artikel 4 lid 1 onderdeel 2 sub c CRR met een vergunning voor beleggingsdienst a en/of d zoals gedefinieerd in [artikel 1:1 van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) met eigen vermogenseisen op grond van artikel 31 CRD IV zoals geïmplementeerd in [artikel 48 van het Besluit](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md)
+###Beleggingsondernemingen in de zin van artikel 4 lid 1 onderdeel 2 sub c CRR met een vergunning voor beleggingsdienst a en/of d zoals gedefinieerd in artikel 1:1 van de wet met eigen vermogenseisen op grond van artikel 31 CRD IV zoals geïmplementeerd in artikel 48 van het Besluit
 
 | Staat  | Frequentie  | Indieningstermijn  | Solo  | Geconsolideerd  |
 |:---|:---|:---|:---|:---|
@@ -386,9 +390,9 @@ C. Nederlandse beheerder van een beleggingsinstelling als bedoeld in artikel 2:6
 
 ###A 
 
-####Banken en clearinginstellingen als bedoeld in [artikel 3:72, eerste lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en bijkantoren als bedoeld in [artikel 3:75](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:77](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of [3:82 van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)
+####Banken en clearinginstellingen als bedoeld in artikel 3:72, eerste lid, van de wet en bijkantoren als bedoeld in artikel 3:75, 3:77 of 3:82 van de wet
 
-| Formulieren(set)  | Een bank, een opt-in bank en clearinginstelling als bedoeld in [artikel 3:4](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [artikel 3:72, eerste lid van de Wft](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  | Bijkantoor als bedoeld in [art. 3:75](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of [3:77 Wft](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  | Bijkantoor als bedoeld in [art. 3:82 Wft](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  |--- | Certificering  | Certificering  |
+| Formulieren(set)  | Een bank, een opt-in bank en clearinginstelling als bedoeld in artikel 3:4, artikel 3:72, eerste lid van de Wft  | Bijkantoor als bedoeld in art. 3:75 of 3:77 Wft  | Bijkantoor als bedoeld in art. 3:82 Wft  |--- | Certificering  | Certificering  |
 |:---|:---|:---|:---|:---|:---|:---|
 | --- | --- | --- |
 |  *Eigen vermogensvereiste als bedoeld in artikel 99 CRR en uitgewerkt in Annex 1 van de technische uitvoeringsnorm inzake rapportages van EBA o.g.v. art. 99 vijfde lid CRR*   | Ja  | nvt  |
@@ -419,7 +423,7 @@ C. Nederlandse beheerder van een beleggingsinstelling als bedoeld in artikel 2:6
 
 ####Verzekeraars
 
-| Categorie  | IFRS  | [BW 2.9](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md)  |
+| Categorie  | IFRS  | BW 2.9  |
 |:---|:---|:---|
 | --- | --- | --- |
 | Leven  | --- | --- |
@@ -431,7 +435,7 @@ C. Nederlandse beheerder van een beleggingsinstelling als bedoeld in artikel 2:6
 | actuarieel verslag  | ja  | ja  |
 | Actuarieel verslag  | nee  | nee  |
 | --- | --- | --- |
-| Categorie IFRS [BW 2.9](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md)  | --- | --- |
+| Categorie IFRS BW 2.9  | --- | --- |
 | --- | --- | --- |
 | Andere financiële gegevens  | --- | --- |
 | Solvabiliteit  | ja  | ja  |
@@ -465,7 +469,7 @@ C. Nederlandse beheerder van een beleggingsinstelling als bedoeld in artikel 2:6
 | actuarieel verslag  | ja  | ja  |
 | Actuarieel verslag  | nee  | nee  |
 | --- | --- | --- |
-| Categorie  | IFRS  | [BW2.9](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md)  |
+| Categorie  | IFRS  | BW2.9  |
 | --- | --- | --- |
 | Andere financiële gegevens  | --- | --- |
 | Solvabiliteit  | ja  | ja  |
@@ -478,7 +482,7 @@ C. Nederlandse beheerder van een beleggingsinstelling als bedoeld in artikel 2:6
 
 #### *Bijlage bij artikel 3:2 van de Regeling staten financiële ondernemingen Wft * 
 
-Het model van de opgave, bedoeld in [artikel 135, eerste lid, van het Besluit](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md), in te dienen door een levensverzekeraar met zetel in een andere lidstaat, met betrekking tot de vanuit een bijkantoor in een staat die geen lidstaat is uit hoofde van het verrichten van diensten naar Nederland gesloten overeenkomsten van verzekering.  
+Het model van de opgave, bedoeld in artikel 135, eerste lid, van het Besluit, in te dienen door een levensverzekeraar met zetel in een andere lidstaat, met betrekking tot de vanuit een bijkantoor in een staat die geen lidstaat is uit hoofde van het verrichten van diensten naar Nederland gesloten overeenkomsten van verzekering.  
 
 | --- | --- |
 |:---|:---|
@@ -506,7 +510,7 @@ Het model van de opgave, bedoeld in [artikel 135, eerste lid, van het Besluit](.
 
 #### *Bijlage bij artikel 3:5 van de Regeling staten financiële ondernemingen Wft* 
 
-De branchegroepen en het model van de opgave, bedoeld in [artikel 135, tweede lid, van het Besluit](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md), in te dienen door een schadeverzekeraar met zetel in een andere lidstaat, met betrekking tot de vanuit een bijkantoor in een staat die geen lidstaat is uit hoofde van het verrichten van diensten naar Nederland gesloten overeenkomsten van verzekering.  
+De branchegroepen en het model van de opgave, bedoeld in artikel 135, tweede lid, van het Besluit, in te dienen door een schadeverzekeraar met zetel in een andere lidstaat, met betrekking tot de vanuit een bijkantoor in een staat die geen lidstaat is uit hoofde van het verrichten van diensten naar Nederland gesloten overeenkomsten van verzekering.  
 
 | --- | --- |
 |:---|:---|
@@ -540,7 +544,7 @@ De branchegroepen en het model van de opgave, bedoeld in [artikel 135, tweede li
 
 #### *Bijlage bij artikel 3:7 van de Regeling staten financiële ondernemingen Wft* 
 
-Het model van de opgave, bedoeld in [artikel 135, derde lid, van het Besluit](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md), in te dienen door een natura-uitvaartverzekeraar als bedoeld in [artikel 3:87, eerste lid, van de wet](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).  
+Het model van de opgave, bedoeld in artikel 135, derde lid, van het Besluit, in te dienen door een natura-uitvaartverzekeraar als bedoeld in artikel 3:87, eerste lid, van de wet.  
 
 | Naam natura-uitvaartverzekeraar: .....  | Boekjaar: ......  |
 |:---|:---|

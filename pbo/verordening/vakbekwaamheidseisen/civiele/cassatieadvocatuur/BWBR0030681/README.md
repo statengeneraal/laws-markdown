@@ -5,7 +5,7 @@
 Het College van Afgevaardigden;  
 Overwegende dat vakbekwaamheidseisen dienen te worden gesteld aan de advocaat bij de Hoge Raad, in eerste instantie aan de advocaat bij de Hoge Raad in civiele zaken;
 
-Gelet op de [artikelen 9j](../../../../../../wet/advocatenwet/BWBR0002093/README.md) en [28 van de Advocatenwet](../../../../../../wet/advocatenwet/BWBR0002093/README.md);
+Gelet op de artikelen 9j en 28 van de Advocatenwet;
 
 Gelet op het voorstel met toelichting van de Algemene Raad;
 
@@ -16,15 +16,15 @@ Stelt de navolgende verordening vast:
 
 In deze verordening wordt verstaan onder: 
 
-a.  *de advocaat:* de in Nederland ingeschreven advocaat die in het bezit is van een stageverklaring als bedoeld in [artikel 10 van de Stageverordening 2005](../../../../../../pbo/stageverordening/1998/BWBR0013310/README.md), alsmede de advocaat als bedoeld in [artikel 16h van de Advocatenwet](../../../../../../wet/advocatenwet/BWBR0002093/README.md);  
+a.  *de advocaat:* de in Nederland ingeschreven advocaat die in het bezit is van een stageverklaring als bedoeld in artikel 10 van de Stageverordening 2005, alsmede de advocaat als bedoeld in artikel 16h van de Advocatenwet;  
 
-b.  *de advocaat bij de Hoge Raad:* de advocaat als bedoeld in [artikel 9j, eerste lid, van de Advocatenwet](../../../../../../wet/advocatenwet/BWBR0002093/README.md) die civiele cassatiezaken behandelt;  
+b.  *de advocaat bij de Hoge Raad:* de advocaat als bedoeld in artikel 9j, eerste lid, van de Advocatenwet die civiele cassatiezaken behandelt;  
 
-c.  *de Algemene Raad:* de Algemene Raad als bedoeld in [artikel 18, eerste lid, van de Advocatenwet](../../../../../../wet/advocatenwet/BWBR0002093/README.md);  
+c.  *de Algemene Raad:* de Algemene Raad als bedoeld in artikel 18, eerste lid, van de Advocatenwet;  
 
-d.  *de secretaris:* de secretaris als bedoeld in [artikel 34 van de Advocatenwet](../../../../../../wet/advocatenwet/BWBR0002093/README.md);  
+d.  *de secretaris:* de secretaris als bedoeld in artikel 34 van de Advocatenwet;  
 
-e.  *het tableau:* het tableau als bedoeld in [artikel 1, eerste lid, van de Advocatenwet](../../../../../../wet/advocatenwet/BWBR0002093/README.md);  
+e.  *het tableau:* het tableau als bedoeld in artikel 1, eerste lid, van de Advocatenwet;  
 
 f.  *de Commissie vakbekwaamheidseisen civiele cassatieadvocatuur:* de Commissie als bedoeld in artikel 9 van deze verordening;  
 
@@ -43,7 +43,7 @@ g.  *de Commissie van toezicht en advies civiele cassatieadvocatuur:* de Commiss
 
 ### Artikel  3  
 
-Onverminderd het bepaalde in artikel 2 gaat de secretaris pas tot voorlopige inschrijving, inschrijving of verlenging van de inschrijving over nadat de advocaat eveneens een verklaring van de Commissie vakbekwaamheidseisen civiele cassatieadvocatuur heeft overgelegd, waaruit blijkt dat hij een op voorstel van die Commissie door de Algemene Raad vast te stellen aantal punten per jaar als bedoeld in [artikel 3, tweede lid, van de Verordening op de vakbekwaamheid](../../../../../../pbo/verordening/op/de/vakbekwaamheid/BWBR0026967/README.md) heeft behaald door het volgen of geven van door die Commissie aangewezen opleidingen of cursussen dan wel door het publiceren van artikelen in voor de (cassatie)rechtspraktijk of rechtswetenschap relevante boeken of tijdschriften. 
+Onverminderd het bepaalde in artikel 2 gaat de secretaris pas tot voorlopige inschrijving, inschrijving of verlenging van de inschrijving over nadat de advocaat eveneens een verklaring van de Commissie vakbekwaamheidseisen civiele cassatieadvocatuur heeft overgelegd, waaruit blijkt dat hij een op voorstel van die Commissie door de Algemene Raad vast te stellen aantal punten per jaar als bedoeld in artikel 3, tweede lid, van de Verordening op de vakbekwaamheid heeft behaald door het volgen of geven van door die Commissie aangewezen opleidingen of cursussen dan wel door het publiceren van artikelen in voor de (cassatie)rechtspraktijk of rechtswetenschap relevante boeken of tijdschriften. 
 
 ### Artikel  4  
 
@@ -57,7 +57,7 @@ Onverminderd het bepaalde in artikel 2 gaat de secretaris pas tot voorlopige ins
 
 ### Artikel  6  
 
-1.  De advocaat die inschrijving of verlenging van de inschrijving als advocaat bij de Hoge Raad verzoekt, dient gedurende de aan het verzoek voorafgaande periode van drie jaar zelfstandig ten minste twaalf civiele cassatiezaken te hebben behandeld, waarvan ten minste zes zaken tot een beoordeling door de Hoge Raad hebben geleid. Hierbij worden niet meegerekend zaken waarin het cassatieberoep op grond van [artikel 80a van de Wet op de rechterlijke organisatie](../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md) niet-ontvankelijk is verklaard.   
+1.  De advocaat die inschrijving of verlenging van de inschrijving als advocaat bij de Hoge Raad verzoekt, dient gedurende de aan het verzoek voorafgaande periode van drie jaar zelfstandig ten minste twaalf civiele cassatiezaken te hebben behandeld, waarvan ten minste zes zaken tot een beoordeling door de Hoge Raad hebben geleid. Hierbij worden niet meegerekend zaken waarin het cassatieberoep op grond van artikel 80a van de Wet op de rechterlijke organisatie niet-ontvankelijk is verklaard.   
 2.  De Commissie vakbekwaamheidseisen civiele cassatieadvocatuur beoordeelt of aan de in het vorige lid gestelde eis is voldaan en geeft in het bevestigend geval de advocaat daarvan een verklaring af.   
 3.  De Algemene Raad kan, gehoord de Commissie vakbekwaamheidseisen civiele cassatieadvocatuur en de Commissie van toezicht en advies civiele cassatieadvocatuur, in bijzondere gevallen gehele of gedeeltelijke vrijstelling verlenen van het in het eerste lid vereiste aantal van twaalf respectievelijk zes cassatiezaken.  
 
@@ -69,7 +69,7 @@ a. op verzoek van de advocaat;
 
 b. indien de geldigheidsduur van de voorlopige inschrijving, inschrijving, of de verlenging van de inschrijving is verstreken;  
 
-c. ter uitvoering van de onherroepelijk geworden beslissing als bedoeld in [artikel 9k, eerste lid, van de Advocatenwet](../../../../../../wet/advocatenwet/BWBR0002093/README.md) van de raad van discipline respectievelijk het hof van discipline tot doorhaling van de inschrijving als advocaat bij de Hoge Raad.   
+c. ter uitvoering van de onherroepelijk geworden beslissing als bedoeld in artikel 9k, eerste lid, van de Advocatenwet van de raad van discipline respectievelijk het hof van discipline tot doorhaling van de inschrijving als advocaat bij de Hoge Raad.   
 
 ### Artikel  8  
 
@@ -150,5 +150,5 @@ c. de opportuniteit van het cassatieberoep dan wel het cassatieverweer gelet op 
 ### Artikel  14  
 
 1.  Deze verordening kan worden aangehaald als: Verordening vakbekwaamheidseisen civiele cassatieadvocatuur.   
-2.  Deze verordening treedt in werking op de dag van inwerkingtreding van [artikel I van het wetsvoorstel 32 576 Wijziging van de Advocatenwet, de Wet op de rechterlijke organisatie en enige andere wetten ter versterking van de cassatierechtspraak (Wet versterking cassatierechtspraak](../../../../../../wet/wijzigingswet/advocatenwet/enz./(versterking/cassatierechtspraak)/BWBR0031378/README.md)).   
+2.  Deze verordening treedt in werking op de dag van inwerkingtreding van artikel I van het wetsvoorstel 32 576 Wijziging van de Advocatenwet, de Wet op de rechterlijke organisatie en enige andere wetten ter versterking van de cassatierechtspraak (Wet versterking cassatierechtspraak).   
 3.  Evaluatie van de werking van deze verordening, mede met het oog op regels voor het optreden bij de Hoge Raad in strafzaken en belastingzaken, vindt plaats uiterlijk drie jaar na de inwerkingtreding.  

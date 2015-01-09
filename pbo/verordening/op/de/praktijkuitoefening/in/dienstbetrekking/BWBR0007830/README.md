@@ -5,7 +5,7 @@
 Het College van Afgevaardigden van de Nederlandse Orde van Advocaten,
 Overwegende dat het gewenst is gebleken nieuwe regels te stellen met betrekking tot de praktijkuitoefening door advocaten in dienstbetrekking;
 
-Gelet op [artikel 28 van de Advocatenwet](../../../../../../../../wet/advocatenwet/BWBR0002093/README.md);
+Gelet op artikel 28 van de Advocatenwet;
 
 Gelet op het ontwerp van de Algemene Raad met bijbehorende toelichting;
 Stelt de navolgende verordening vast:
@@ -17,11 +17,11 @@ Stelt de navolgende verordening vast:
 
 In deze Verordening wordt verstaan onder: 
 
-a. Advocaat: de in Nederland ingeschreven advocaat, alsmede de advocaat bedoeld in [artikel 16h van de Advocatenwet](../../../../../../../../wet/advocatenwet/BWBR0002093/README.md).  
+a. Advocaat: de in Nederland ingeschreven advocaat, alsmede de advocaat bedoeld in artikel 16h van de Advocatenwet.  
 
 b. Werkgever: degene tot wie de advocaat in privaatrechtelijke of publiekrechtelijke dienstbetrekking staat. Indien de werkgever deel uitmaakt van een groep rechtspersonen en vennootschappen worden alle overige groepsmaatschappijen van die groep mede aangemerkt als werkgever. Het in de vorige volzin bepaalde is van overeenkomstige toepassing ten aanzien van overheidslichamen en daarmee verbonden vennootschappen en rechtspersonen. 
 
-c. beoefenaar van een toegelaten vrij beroep: de beoefenaar van een vrij beroep met wie het de advocaat ingevolge de [Samenwerkingsverordening 1993](../../../../../../../../pbo/samenwerkingsverordening/1993/BWBR0005822/README.md) is toegestaan een samenwerkingsverband aan te gaan;  
+c. beoefenaar van een toegelaten vrij beroep: de beoefenaar van een vrij beroep met wie het de advocaat ingevolge de Samenwerkingsverordening 1993 is toegestaan een samenwerkingsverband aan te gaan;  
 
 d. praktijkrechtspersoon: een praktijkvennootschap, praktijkstichting of praktijkcoöperatie die uitsluitend de rechtspraktijk doet uitoefenen door advocaten of beoefenaren van een toegelaten vrij beroep;  
 
@@ -35,15 +35,15 @@ Het is de advocaat niet toegestaan de praktijk uit te oefenen in dienstbetrekkin
 
 1.  Het is de advocaat, onverminderd het bepaalde in artikel 2 en de navolgende leden, slechts toegestaan de praktijk in dienstbetrekking uit te oefenen indien hij in dienst is bij een werkgever die de hoedanigheid heeft van:  
 
-a. in Nederland geschreven advocaat of advocaat die in zijn land van vestiging lid is van een door de Algemene Raad op de voet van [art. 5 van de Samenwerkingsverordening 1993](../../../../../../../../pbo/samenwerkingsverordening/1993/BWBR0005822/README.md) erkende organisatie;  
+a. in Nederland geschreven advocaat of advocaat die in zijn land van vestiging lid is van een door de Algemene Raad op de voet van art. 5 van de Samenwerkingsverordening 1993 erkende organisatie;  
 
 b. beoefenaar van een toegelaten vrij beroep;  
 
-c. samenwerkingsverband in de zin van de [Samenwerkingsverordening 1993](../../../../../../../../pbo/samenwerkingsverordening/1993/BWBR0005822/README.md) waarvan de deelnemers allen zijn advocaat of de beoefenaar van een toegelaten vrij beroep;  
+c. samenwerkingsverband in de zin van de Samenwerkingsverordening 1993 waarvan de deelnemers allen zijn advocaat of de beoefenaar van een toegelaten vrij beroep;  
 
 d. praktijkrechtspersoon;  
 
-e. verzekeraar die uitsluitend de branche rechtsbijstandsverzekering uitoefent en als zodanig voldoet aan de in de [Wet op het financieel toezicht](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) gestelde voorwaarden of een juridisch zelfstandig schaderegelingskantoor in de zin van genoemde wet, of een daarmee vergelijkbare instelling, zolang is voldaan aan het in het vierde lid bepaalde;  
+e. verzekeraar die uitsluitend de branche rechtsbijstandsverzekering uitoefent en als zodanig voldoet aan de in de Wet op het financieel toezicht gestelde voorwaarden of een juridisch zelfstandig schaderegelingskantoor in de zin van genoemde wet, of een daarmee vergelijkbare instelling, zolang is voldaan aan het in het vierde lid bepaalde;  
 
 f. organisatie met een ideële doelstelling, zolang deze voldoet aan het in artikel 6 bepaalde;    
 2.  Het is de advocaat toegestaan de praktijk in dienstbetrekking uit te oefenen bij een andere werkgever dan de in het eerste lid bedoelde zolang hij binnen die dienstbetrekking uitsluitend optreedt voor die werkgever en de werkzaamheden in hoofdzaak zijn gericht op de uitoefening van de rechtspraktijk.   
@@ -136,4 +136,4 @@ g.dat artikel 3, derde lid van de Verordening op de praktijkuitoefening in diens
 
 ####Model Vergewisverklaring
 
-Geachte heer/mevrouw, Op grond van [artikel 60, aanhef, onder a van de Wet toezicht verzekeringsbedrijf 1993](../../../../../../../../wet/wet/toezicht/verzekeringsbedrijf/1993/BWBR0006509/README.md)<sup>1 Artikel 60, aanhef, sub a WTV luidt als volgt: Een verzekeraar die overeenkomstig artikel 58, eerste, tweede of vierde lid, de branche Rechtsbijstand uitoefent, draagt er zorg voor dat uitdrukkelijk in de overeenkomst van verzekering wordt bepaald dat het verzekerde in ieder geval vrij staat een advocaat of andere rechtens bevoegde deskundige te kiezen indien: a. een advocaat of andere rechtens bevoegde deskundige wordt verzocht de belangen van de verzekerde in een gerechtelijke of administratieve procedure te verdedigen, te vertegenwoordigen of te behartigen.</sup> en krachtens de polisvoorwaarden van de door u met verzekeraar X afgesloten rechtsbijstandverzekering hebt u op het moment dat er een gerechtelijke of administratieve procedure gevoerd gaat worden, het recht om een advocaat van uw keuze aan te wijzen. Dat moment heeft zich recent in uw zaak voorgedaan. Ik ben advocaat in dienstbetrekking bij uw rechtsbijstandverzekeraar X. Of:Ik ben advocaat in dienstbetrekking bij het zelfstandige schaderegelingskantoor Y dat in opdracht van uw rechtsbijstandverzekeraar X de feitelijke rechtsbijstand verleent.Ik heb u op …………..(datum) telefonisch/ schriftelijk (doorstrepen wat niet van toepassing is) gewezen op uw recht om een advocaat van uw keuze aan te wijzen. Daarvan gebruikmakende, hebt u mij verzocht in deze zaak als uw advocaat op te treden c.q. mijn werkzaamheden in deze zaak voort te zetten. Deze brief dient er dan ook toe uw advocaatkeuze te bevestigen. Hoogachtend, Mr. Z Advocaat
+Geachte heer/mevrouw, Op grond van artikel 60, aanhef, onder a van de Wet toezicht verzekeringsbedrijf 1993<sup>1 Artikel 60, aanhef, sub a WTV luidt als volgt: Een verzekeraar die overeenkomstig artikel 58, eerste, tweede of vierde lid, de branche Rechtsbijstand uitoefent, draagt er zorg voor dat uitdrukkelijk in de overeenkomst van verzekering wordt bepaald dat het verzekerde in ieder geval vrij staat een advocaat of andere rechtens bevoegde deskundige te kiezen indien: a. een advocaat of andere rechtens bevoegde deskundige wordt verzocht de belangen van de verzekerde in een gerechtelijke of administratieve procedure te verdedigen, te vertegenwoordigen of te behartigen.</sup> en krachtens de polisvoorwaarden van de door u met verzekeraar X afgesloten rechtsbijstandverzekering hebt u op het moment dat er een gerechtelijke of administratieve procedure gevoerd gaat worden, het recht om een advocaat van uw keuze aan te wijzen. Dat moment heeft zich recent in uw zaak voorgedaan. Ik ben advocaat in dienstbetrekking bij uw rechtsbijstandverzekeraar X. Of:Ik ben advocaat in dienstbetrekking bij het zelfstandige schaderegelingskantoor Y dat in opdracht van uw rechtsbijstandverzekeraar X de feitelijke rechtsbijstand verleent.Ik heb u op …………..(datum) telefonisch/ schriftelijk (doorstrepen wat niet van toepassing is) gewezen op uw recht om een advocaat van uw keuze aan te wijzen. Daarvan gebruikmakende, hebt u mij verzocht in deze zaak als uw advocaat op te treden c.q. mijn werkzaamheden in deze zaak voort te zetten. Deze brief dient er dan ook toe uw advocaatkeuze te bevestigen. Hoogachtend, Mr. Z Advocaat

@@ -134,8 +134,6 @@ Wijzigt deze wet.
 
 ####Wetboek van Burgerlijke Rechtsvordering
 
-Treedt in werking per 01-07-2015 
-
 Wijzigt het Wetboek van Burgerlijke Rechtsvordering. 
 
 ### Hoofdstuk  4a  

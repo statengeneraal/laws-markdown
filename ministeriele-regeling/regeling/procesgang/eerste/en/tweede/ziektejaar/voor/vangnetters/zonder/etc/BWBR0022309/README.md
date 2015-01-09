@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 13 juli 2007, nr. SV/WV/07/24387, houdende regels omtrent de verdere activering van zieke werknemers zonder werkgever door middel van het vastleggen van een procesgang met betrekking tot de inschakeling in het arbeidsproces in het eerste en tweede ziektejaar (Regeling procesgang eerste en tweede ziektejaar voor vangnetters zonder werkgever)
 
 De Minister van Sociale Zaken en Werkgelegenheid,  
-Gelet op [artikel 26, vierde lid, van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md);
+Gelet op artikel 26, vierde lid, van de Wet werk en inkomen naar arbeidsvermogen;
 Besluit:    
 
 ### Artikel  1  
@@ -12,9 +12,9 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. de vangnetter: de persoon die op grond van [artikel 29, tweede lid, onderdeel a, b, c of d, van de Ziektewet](../../../../../../../../../../../../wet/ziektewet/BWBR0001888/README.md) recht heeft op ziekengeld;  
+a. de vangnetter: de persoon die op grond van artikel 29, tweede lid, onderdeel a, b, c of d, van de Ziektewet recht heeft op ziekengeld;  
 
-b. plan van aanpak: het plan van aanpak, bedoeld in [26, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md).   
+b. plan van aanpak: het plan van aanpak, bedoeld in 26, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen.   
 
 ### Artikel  2  
 
@@ -22,13 +22,13 @@ b. plan van aanpak: het plan van aanpak, bedoeld in [26, eerste lid, van de Wet 
 
 1.  Het UWV vormt zich, indien er naar verwachting sprake is van dreigend langdurig ziekteverzuim van een vangnetter, binnen zes weken na de eerste dag van ongeschiktheid tot het verrichten van arbeid een oordeel over het desbetreffende ziektegeval.   
 2.  Het UWV vormt zich onverwijld een oordeel over het desbetreffende ziektegeval indien eerst na zes weken blijkt dat het ziekteverzuim van de vangnetter naar verwachting langdurig dreigt te zijn.   
-3.   In afwijking van het eerste en tweede lid vormt het UWV zich onverwijld een oordeel over het desbetreffende ziektegeval, indien er naar verwachting sprake is van dreigend langdurig ziekteverzuim en de aangifte, bedoeld in [artikel 38, tweede lid, van de Ziektewet](../../../../../../../../../../../../wet/ziektewet/BWBR0001888/README.md), of de melding, bedoeld in [artikel 38ab, eerste lid van de Ziektewet](../../../../../../../../../../../../wet/ziektewet/BWBR0001888/README.md), later wordt gedaan dan binnen zes weken na de eerste dag van ongeschiktheid tot het verrichten van arbeid. 
+3.   In afwijking van het eerste en tweede lid vormt het UWV zich onverwijld een oordeel over het desbetreffende ziektegeval, indien er naar verwachting sprake is van dreigend langdurig ziekteverzuim en de aangifte, bedoeld in artikel 38, tweede lid, van de Ziektewet, of de melding, bedoeld in artikel 38ab, eerste lid van de Ziektewet, later wordt gedaan dan binnen zes weken na de eerste dag van ongeschiktheid tot het verrichten van arbeid. 
 
 ### Artikel  3  
 
 ####Houden van aantekening
 
-1.  Het UWV houdt vanaf het moment waarop naar verwachting sprake is van dreigend langdurig ziekteverzuim aantekening als bedoeld in [artikel 25, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md).   
+1.  Het UWV houdt vanaf het moment waarop naar verwachting sprake is van dreigend langdurig ziekteverzuim aantekening als bedoeld in artikel 25, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen.   
 2.  Het UWV legt bij het houden van aantekening, bedoeld in het eerste lid, in ieder geval alle gegevens, documenten en correspondentie vast die betrekking hebben op het verloop van het ziekteverzuim, het aantal feitelijk gewerkte uren, en de op grond van deze regeling ondernomen activiteiten.  
 
 ### Artikel  4  
@@ -44,19 +44,19 @@ b. afspraken omtrent de momenten waarop de in het plan van aanpak vastgelegde ac
 
 c. aanwijzing van een persoon die de vastgelegde activiteiten begeleidt en het contact verzorgt tussen de vangnetter en het UWV.     
 3.  Het plan van aanpak wordt schriftelijk vastgelegd. Het UWV verstrekt hiervan onverwijld een afschrift aan de vangnetter en de in het tweede lid, onderdeel c, bedoelde persoon.   
-4.  Het plan van aanpak wordt bijgesteld indien de evaluatie van dat plan van aanpak of het geneeskundige onderzoek, bedoeld in [artikel 28 van de Ziektewet](../../../../../../../../../../../../wet/ziektewet/BWBR0001888/README.md), daartoe aanleiding geeft. Het eerste tot en met derde lid zijn van overeenkomstige toepassing.  
+4.  Het plan van aanpak wordt bijgesteld indien de evaluatie van dat plan van aanpak of het geneeskundige onderzoek, bedoeld in artikel 28 van de Ziektewet, daartoe aanleiding geeft. Het eerste tot en met derde lid zijn van overeenkomstige toepassing.  
 
 ### Artikel  4a  
 
 ####Afspraken over werkhervatting bij oude werkgever
 
-Het UWV verwijst de vangnetter voor werkhervatting naar de werkgever waar hij laatstelijk op grond van een uitzendovereenkomst met een uitzendbeding als bedoeld in [artikel 7:691, lid 2, van het Burgerlijk Wetboek](../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) in dienst was, indien: 
+Het UWV verwijst de vangnetter voor werkhervatting naar de werkgever waar hij laatstelijk op grond van een uitzendovereenkomst met een uitzendbeding als bedoeld in artikel 7:691, lid 2, van het Burgerlijk Wetboek in dienst was, indien: 
 
-a. de werkgever op grond van [artikel 5.2 van de Regeling Wfsv](../../../../../../../../../../../../ministeriele-regeling/regeling/wfsv/BWBR0019150/README.md) is aangesloten bij sector 52;  
+a. de werkgever op grond van artikel 5.2 van de Regeling Wfsv is aangesloten bij sector 52;  
 
 b. sprake is van dreigend langdurig ziekteverzuim van de vangnetter; en  
 
-c. de vangnetter in staat is passende arbeid als bedoeld in [artikel 30, eerste lid, van de Ziektewet](../../../../../../../../../../../../wet/ziektewet/BWBR0001888/README.md) te verrichten.   
+c. de vangnetter in staat is passende arbeid als bedoeld in artikel 30, eerste lid, van de Ziektewet te verrichten.   
 
 ### Artikel  5  
 
@@ -75,7 +75,7 @@ Van de termijnen, bedoeld in de artikelen 2, 4 en 5, kan door het UWV, na overle
 
 ####Inhoud van het re-integratieverslag
 
-Het re-integratieverslag, bedoeld in [artikel 25, derde lid, van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) bevat met betrekking tot de vangnetter in ieder geval: 
+Het re-integratieverslag, bedoeld in artikel 25, derde lid, van de Wet werk en inkomen naar arbeidsvermogen bevat met betrekking tot de vangnetter in ieder geval: 
 
 a. de noodzakelijke administratieve gegevens van de vangnetter en het UWV;  
 
