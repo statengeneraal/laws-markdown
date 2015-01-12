@@ -157,7 +157,7 @@ g. het toezicht door de inspectie.
 
 1.  Onze Minister kan op aanvraag van het bevoegd gezag een opleiding educatie erkennen.   
 2.  Erkenning houdt in dat de met goed gevolg afgelegde examens of onderdelen van examens van die opleiding een diploma of certificaat als bedoeld in artikel 7.4.8 is verbonden.   
-3.  Voorwaarde voor erkenning is dat de instelling voor die opleiding in acht neemt hetgeen bij of krachtens deze wet is bepaald ten aanzien van: 
+3.  Voorwaarde voor erkenning is dat de instelling voor die opleiding in acht neemt artikel 8.1.1, achtste lid, artikel 8.1.2a en hetgeen bij of krachtens deze wet is bepaald ten aanzien van: 
 
 a. de kwaliteitszorg, bedoeld in artikel 1.3.2,  
 
@@ -1343,8 +1343,6 @@ De toelating tot opleidingen educatie staat uitsluitend open voor volwassenen.
 ### Artikel  8.1.2a  
 
 ####Samenwerking met onbekostigde VO-scholen
-
-Treedt in werking per 01-01-2015 
 
 1.  Het bevoegd gezag van een instelling die een opleiding voortgezet algemeen volwassenenonderwijs als bedoeld in artikel 7.3.1, eerste lid, onder a, verzorgt die is erkend op grond van artikel 1.4.2, kan, ten aanzien van genoemde opleiding, in afwijking van artikel 8.1.1, achtste lid, in gevallen als geregeld in en met inachtneming van de voorschriften gegeven bij of krachtens artikel 114a van de Wet voortgezet onderwijs BES tot onderwijs- en examenvoorzieningen van de instelling toelaten zij die niet als deelnemer of examendeelnemer aan de instelling worden ingeschreven maar zijn ingeschreven als leerling aan een ingevolge artikel 112 van de Wet voorgezet onderwijs BES aangewezen school.   
 2.  Indien het bevoegd gezag van een ingevolge artikel 112 van de Wet voorgezet onderwijs BES aangewezen school ter uitvoering van artikel 114a, eerste en tweede lid, van de Wet voortgezet onderwijs BES leerlingen in het kader van het onderwijs waarvoor zij aan die school zijn ingeschreven, onderwijs wil kunnen laten volgen dat een instelling van datzelfde bevoegd gezag verzorgt, regelt het bevoegd gezag op overeenkomstige wijze de onderwerpen, bedoeld in artikel 114a, derde lid, aanhef en onder a tot en met d, van de Wet voortgezet onderwijs BES.  

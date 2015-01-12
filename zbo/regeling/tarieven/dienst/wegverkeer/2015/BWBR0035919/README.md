@@ -9,13 +9,9 @@ Besluit:
 
 ####Algemeen
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  1  
 
 ####Begrippen regeling
-
-Treedt in werking per 01-01-2015 
 
 Voor de toepassing van deze regeling gelden de begripsbepalingen van de Wegenverkeerswet 1994, het Besluit voertuigen, het Kentekenreglement en de Regeling voertuigen. Voorts wordt verstaan onder: 
 
@@ -79,8 +75,6 @@ o.  *voertuig zwaar:* voertuigen met een toegestane maximum massa van meer dan 3
 
 ####Opbouw tarieven, munteenheid en wijze van betaling
 
-Treedt in werking per 01-01-2015 
-
 1.  De tarieven zijn exclusief leges voor de inschrijving in het kentekenregister en tenaamstelling en afgifte van kentekenbewijzen, en indien van toepassing exclusief BTW en eveneens exclusief lokale bronbelastingen.   
 2.  De tarieven zijn weergegeven in euro.   
 3.  Bij betaling in contant geld aan de balie van de RDW, wordt het totaalbedrag afgerond op een veelvoud van € 0,05.  
@@ -88,8 +82,6 @@ Treedt in werking per 01-01-2015
 ### Artikel  3  
 
 ####Uurtarieven
-
-Treedt in werking per 01-01-2015 
 
 Door de RDW worden, in het kader van de in deze regeling genoemde activiteiten, de volgende uurtarieven gehanteerd, tenzij anders vermeld: 
 
@@ -107,15 +99,11 @@ e. uurtarief consultancy / projectmanagement: € 138,00.
 
 ####Kosten van derden
 
-Treedt in werking per 01-01-2015 
-
 Indien sprake is van kosten van derden, voor zover niet in onderstaande tarieven opgenomen, worden deze, in aanvulling op de in deze regeling genoemde tarieven, in rekening gebracht. 
 
 ### Artikel  5  
 
 ####Werkzaamheden buiten de RDW-keuringslocaties
-
-Treedt in werking per 01-01-2015 
 
 1.  Voor het uitvoeren van werkzaamheden buiten de RDW-keuringslocaties worden reis- en zo nodig verblijfkosten in rekening gebracht.   
 2.  Voor keuringen buiten een RDW-locatie door medewerkers van een RDW-keuringslocatie, worden voorrijkosten in rekening gebracht.   
@@ -126,8 +114,6 @@ Treedt in werking per 01-01-2015
 
 ####Bepaling van tijdstip van meting en restitutie
 
-Treedt in werking per 01-01-2015 
-
 1.  Degene, aan wie een erkenning, bevoegdheid of handelaarskenteken als bedoeld in de Wet, de Wet Personenvervoer 2000 dan wel Arbeidstijdenwet is verleend, dan wel gebruik maakt van een beveiligde aansluiting en wiens erkenning, bevoegdheid of beveiligingsmaatregel niet is ingetrokken of op eigen verzoek is beëindigd op 1 januari 2015, is voor de instandhouding van een erkenning, bevoegdheid of handelaarskenteken het geldende toezicht tarief verschuldigd.   
 2.  Indien een erkenning, bevoegdheid of handelaarskenteken wordt geschorst, tijdelijk of voor onbepaalde tijd wordt ingetrokken, dan wel wordt beëindigd op eigen verzoek, vindt geen restitutie plaats voor het nog resterende kalenderjaar.   
 3.  Indien een abonnement als bedoeld in deze regeling geschorst, tijdelijk of definitief wordt ingetrokken, dan wel wordt beëindigd op eigen verzoek, vindt geen restitutie plaats voor het nog resterende aantal maanden van het abonnement.   
@@ -137,15 +123,11 @@ Treedt in werking per 01-01-2015
 
 ####Wijziging in producten
 
-Treedt in werking per 01-01-2015 
-
 Indien gedurende het van kracht zijn van deze regeling nieuwe dan wel gewijzigde producten ontstaan, die niet in deze regeling zijn opgenomen, is het bepaalde in artikel 3 tot en met 5 van toepassing. 
 
 ### Artikel  8  
 
 ####Tarief bij niet verschijnen
-
-Treedt in werking per 01-01-2015 
 
 1.  Indien de aanvrager van een keuring niet verschijnt op de met de RDW afgesproken tijd en plaats, of indien een niet geheel keuringsgeschikt voertuig ter keuring wordt aangeboden waardoor niet tot keuring wordt overgegaan, dan wordt het voor de aangevraagde keuring vastgestelde tarief in rekening gebracht.   
 2.  Het eerste lid is niet van toepassing indien: 
@@ -158,21 +140,15 @@ b. door de RDW ten aanzien van de werkzaamheden in Bijlage IV uiterlijk vier wek
 
 ####Tarief centrale servicenummer RDW
 
-Treedt in werking per 01-01-2015 
-
 Degene, die gebruik maakt van het centrale servicenummer 0900-0739 is hiervoor € 0,10 per minuut verschuldigd. 
 
 ### §  2  
 
 ####Bijlagen
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  10  
 
 ####Tarieven Bijlage I , erkenningen, bevoegdheden handelaarskentekens en toezicht
-
-Treedt in werking per 01-01-2015 
 
 De tarieven met betrekking tot de aanvraag van en het toezicht op erkenningen en bevoegdheden, de diensten en producten ten behoeve van het gebruik en het toezicht op erkenningen en bevoegdheden als bedoeld in artikel 1 van deze regeling alsmede de handelaarskentekens, zijn vermeld in Bijlage I. 
 
@@ -180,15 +156,11 @@ De tarieven met betrekking tot de aanvraag van en het toezicht op erkenningen en
 
 ####Tarieven Bijlage II , individuele keuringen en onderzoeken
 
-Treedt in werking per 01-01-2015 
-
 De tarieven met betrekking tot de individuele keuringen, kentekenonderzoeken, periodieke keuringen en ADR-keuringen zijn vermeld in Bijlage II. 
 
 ### Artikel  12  
 
 ####Tarieven Bijlage III  en IV , type- en individuele goedkeuringen en Testcentrum Lelystad
-
-Treedt in werking per 01-01-2015 
 
 1.  De tarieven met betrekking tot de typegoedkeuringen en individuele goedkeuringen zijn vermeld in Bijlage III.   
 2.  De tarieven met betrekking tot het gebruik van het Testcentrum Lelystad zijn vermeld in Bijlage IV.   
@@ -198,15 +170,11 @@ Treedt in werking per 01-01-2015
 
 ####Tarieven Bijlage V , Ontheffingen
 
-Treedt in werking per 01-01-2015 
-
 De tarieven met betrekking tot de ontheffingen en daarvoor benodigde documenten zijn, vermeld in Bijlage V. 
 
 ### Artikel  14  
 
 ####Tarieven Bijlage VI , Inschrijving, tenaamstelling en schorsing, kenteken-, rij- en registratiebewijzen
-
-Treedt in werking per 01-01-2015 
 
 De tarieven met betrekking tot aanvragen inschrijving in het kentekenregister en tenaamstelling, kentekenbewijzen, rijbewijzen, registratiebewijzen en schorsing tenaamstelling in het kentekenregister alsmede verval tenaamstelling in het kentekenregister, zijn vermeld in bijlage VI. 
 
@@ -214,15 +182,11 @@ De tarieven met betrekking tot aanvragen inschrijving in het kentekenregister en
 
 ####Tarieven Bijlage VII , Gegevensverstrekking
 
-Treedt in werking per 01-01-2015 
-
 De tarieven voor de gegevensverstrekking uit de RDW registers zijn opgenomen in Bijlage VII. 
 
 ### Artikel  16  
 
 ####Tarieven Bijlage VIII , Kennisnemingen
-
-Treedt in werking per 01-01-2015 
 
 De tarieven voor kennisneming uit het rijbewijs- en kentekenregister zijn opgenomen in Bijlage VIII. 
 
@@ -230,13 +194,9 @@ De tarieven voor kennisneming uit het rijbewijs- en kentekenregister zijn opgeno
 
 ####Bijzondere bepalingen Typegoedkeuring en individuele goedkeuring
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  17  
 
 ####Testwerkzaamheden typegoedkeuring en individuele goedkeuring
-
-Treedt in werking per 01-01-2015 
 
 Het tarief van een test is opgebouwd uit drie componenten: 
 
@@ -249,8 +209,6 @@ Het tarief van een test is opgebouwd uit drie componenten:
 ### Artikel  18  
 
 ####Reis- en verblijfkosten
-
-Treedt in werking per 01-01-2015 
 
 De reis- en verblijfkosten als bedoeld in artikel 5, eerste en derde lid zijn als volgt opgebouwd: 
 
@@ -270,15 +228,11 @@ d. indien van toepassing 50% van het uurtarief technisch inspecteur als bedoeld 
 
 ####Werkzaamheden na 18.00 uur
 
-Treedt in werking per 01-01-2015 
-
 Indien de werkzaamheden op verzoek van de aanvrager worden verricht tussen 18.00 uur en 07.00 uur, wordt een toeslag van 100% op basis van het uurtarief als bedoeld in artikel 3, onder c, berekend. Dit geldt tevens voor de werkzaamheden die worden verricht in het weekend en op feestdagen. 
 
 ### Artikel  20  
 
 ####Meer/minder testen
-
-Treedt in werking per 01-01-2015 
 
 1.  De tarieven vermeld in Bijlage III zijn van toepassing op de desbetreffende producten waarbij elk onderdeel van de test eenmalig wordt uitgevoerd.   
 2.  Extra (deel-)testen worden aan de hand van het uurtarief aan de rekening toegevoegd.   
@@ -287,8 +241,6 @@ Treedt in werking per 01-01-2015
 ### Artikel  21  
 
 ####Reductie typegoedkeuring
-
-Treedt in werking per 01-01-2015 
 
 1.  Bij aanvullingen van typegoedkeuringen en certificaten die gelijktijdig worden uitgegeven op basis van één testresultaat, wordt een reductie op het tarief van de typegoedkeuring c.q. certificaat gegeven (W1 en W>1); hierbij geldt dat meerdere testen als één testresultaat worden beschouwd, mits de testen gelijktijdig worden uitgevoerd en het totaalresultaat van toepassing is op alle te wijzigen (type-)goedkeuringen c.q. certificaten.   
 2.  Indien een aanvrager op jaarbasis meer dan 200 soortgelijke aanvullingen van typegoedkeuringen en certificaten heeft aangevraagd wordt een generieke kortingsregeling naar kostendekkend niveau toegepast onder de volgende condities: 
@@ -301,15 +253,11 @@ b. de korting wordt eens per jaar achteraf door middel van een staffelkorting va
 
 ####Negatief resultaat
 
-Treedt in werking per 01-01-2015 
-
 Voor een test met een negatief resultaat en eventueel een geweigerde goedkeuring worden de desbetreffende tarieven in rekening gebracht. 
 
 ### Artikel  23  
 
 ####Berekening extra tijd
-
-Treedt in werking per 01-01-2015 
 
 De vermelde tarieven zijn van toepassing onder de voorwaarde dat de RDW medewerker in de gelegenheid wordt gesteld efficiënt te werken. Indien de werkzaamheden aanzienlijk langer duren dan de door de RDW vastgestelde norm tijd wordt extra tijd aan de hand van het uurtarief apart in rekening gebracht. 
 
@@ -317,13 +265,9 @@ De vermelde tarieven zijn van toepassing onder de voorwaarde dat de RDW medewerk
 
 ####Overgangs- en slotbepalingen
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  24  
 
 ####Overgangsbepaling
-
-Treedt in werking per 01-01-2015 
 
 Voor aanvragen waarvoor de tarieven en bedragen zijn vastgesteld in deze regeling en die zijn ingediend vóór de datum van inwerkingtreding van deze regeling, is het tarief zoals geldend op datum aanvraag van toepassing. 
 
@@ -331,23 +275,17 @@ Voor aanvragen waarvoor de tarieven en bedragen zijn vastgesteld in deze regelin
 
 ####Intrekking regeling
 
-Treedt in werking per 01-01-2015 
-
 De Regeling tarieven Dienst Wegverkeer 2014 wordt ingetrokken met ingang van 1 januari 2015. 
 
 ### Artikel  26  
 
 ####Inwerkingtreding
 
-Treedt in werking per 01-01-2015 
-
 Deze regeling treedt in werking met ingang van 1 januari 2015. 
 
 ### Artikel  27  
 
 ####Citeertitel
-
-Treedt in werking per 01-01-2015 
 
 Deze regeling wordt aangehaald als: Regeling tarieven Dienst Wegverkeer 2015. 
 Deze regeling wordt met Bijlagen, Legenda en toelichting in de Staatscourant geplaatst.   
@@ -362,8 +300,6 @@ Algemeen Directeur.
 ### Bijlage  I  
 
 ####Aanvraag en toezicht erkenningen, bevoegdheden en handelaarskentekens
-
-Treedt in werking per 01-01-2015 
 
 | Omschrijving  | Eenheid  | Tarief 2015 in (euro, €)  |
 |:---|:---|:---|
@@ -450,8 +386,6 @@ Treedt in werking per 01-01-2015
 
 ####Keuringen en onderzoeken individuele voertuigen
 
-Treedt in werking per 01-01-2015 
-
 | Omschrijving  | Eenheid  | Tarief 2015 in (€)  |
 |:---|:---|:---|
 |  *Algemeen*   | --- | --- |
@@ -512,8 +446,6 @@ Treedt in werking per 01-01-2015
 ### Bijlage  III  
 
 ####Typegoedkeuringen en individuele goedkeuringen inclusief toezicht
-
-Treedt in werking per 01-01-2015 
 
 | Algemeen  | Eenheid  | Tarief 2015 in (euro, €)  |
 |:---|:---|:---|
@@ -576,8 +508,6 @@ Treedt in werking per 01-01-2015
 
 ####Gebruik testcentrum lelystad
 
-Treedt in werking per 01-01-2015 
-
 | Omschrijving  | Eenheid  | Tarief 2015 in (euro, €)  |
 |:---|:---|:---|
 |  *Testcentrum Lelystad*   | --- | --- |
@@ -634,8 +564,6 @@ Treedt in werking per 01-01-2015
 
 ####Ontheffingen
 
-Treedt in werking per 01-01-2015 
-
 | Omschrijving  | Eenheid  | Tarief 2015 in (euro, €)  |
 |:---|:---|:---|
 |  *Algemeen*   | --- | --- |
@@ -664,8 +592,6 @@ Treedt in werking per 01-01-2015
 ### Bijlage  VI  
 
 ####Inschrijving, tenaamstelling en schorsing, kenteken-, rij- en registratiebewijzen
-
-Treedt in werking per 01-01-2015 
 
 | Omschrijving  | Eenheid  | Tarief 2015 in (euro, (€)  |
 |:---|:---|:---|
@@ -709,8 +635,6 @@ Treedt in werking per 01-01-2015
 ### Bijlage  VII  
 
 ####Gegevensverstrekking
-
-Treedt in werking per 01-01-2015 
 
 | Omschrijving  | Eenheid  | Tarief 2015 in (euro, €)  |
 |:---|:---|:---|
@@ -760,8 +684,6 @@ Treedt in werking per 01-01-2015
 ### Bijlage  VIII  
 
 ####Kennisnemingen rdw registers
-
-Treedt in werking per 01-01-2015 
 
 | Omschrijving  | Eenheid  | Tarief 2015 in (euro, €)  |
 |:---|:---|:---|

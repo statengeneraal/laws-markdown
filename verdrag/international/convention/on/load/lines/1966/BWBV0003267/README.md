@@ -450,7 +450,13 @@ b) Ships constructed on or after 1 July 2010 shall, as a minimum, comply with th
 
 ####Authorization of recognized organizations
 
-Organizations, including classification societies, referred to in article 13 of the Convention and regulation 1(2) shall comply with the guidelines adopted by the Organization by resolution A.739(18), as may be amended by the Organization, and the specifications adopted by the Organization by resolution A.789(19), as may be amended by the Organization, provided that such amendments are adopted, brought into force and take effect in accordance with the provisions of article VI of the present Protocol. 
+The Administration shall authorize organizations, including classification societies, referred to in article 13 of the Convention and regulation 1(2) in accordance with the provisions of the present Convention and with the Code for Recognized Organizations (RO Code), consisting of part 1 and part 2 (the provisions of which shall be treated as mandatory) and part 3 (the provisions of which shall be treated as recommendatory), as adopted by the Organization by resolution MSC.349(92), as may be amended by the Organization, provided that: 
+
+(a) amendments to part 1 and part 2 of the RO Code are adopted, brought into force and take effect in accordance with the provisions of article VI of the present Protocol;  
+
+(b) amendments to part 3 of the RO Code are adopted by the Maritime Safety Committee in accordance with its Rules of Procedure; and  
+
+(c) any amendments adopted by the Maritime Safety Committee and the Marine Environment Protection Committee are identical and come into force or take effect at the same time, as appropriate. 
 
 ### Regulation  3  
 
@@ -2516,7 +2522,13 @@ b. Schepen gebouwd op of na 1 juli 2010 moeten ten minste voldoen aan de vereist
 
 ####Bevoegdverklaring van erkende organisaties
 
-De in artikel 13 van het Verdrag en in voorschrift 1, lid 2, bedoelde organisaties, met inbegrip van classificatiebureaus, dienen de richtsnoeren na te leven die de Organisatie heeft aangenomen bij resolutie A.739(18) eventueel als gewijzigd door de Organisatie, en de door de Organisatie bij resolutie A.789(19) aangenomen specificaties, eventueel als gewijzigd door de Organisatie, op voorwaarde dat deze wijzigingen worden aangenomen, in werking worden gesteld en van kracht worden overeenkomstig het bepaalde in artikel VI van dit Protocol. 
+De Administratie verklaart organisaties, met inbegrip van classificatiebureaus, bedoeld in artikel 13 van het Verdrag en in voorschrift 1(2) bevoegd in overeenstemming met de bepalingen van dit Verdrag en met de Code voor Erkende Organisaties (RO-code), die bestaat uit een deel 1 en deel 2 (waarvan de bepalingen als verplicht worden aangemerkt) en een deel 3 (waarvan de bepalingen als aanbeveling worden aangemerkt), zoals aangenomen door de Organisatie bij resolutie MSC.349(92), eventueel als gewijzigd door de Organisatie, mits: 
+
+a. wijzigingen van deel 1 en deel 2 van de RO-code worden aangenomen, in werking worden gesteld en van kracht worden in overeenstemming met de bepalingen van artikel VI van dit Protocol;  
+
+b. wijzigingen van deel 3 van de RO-code worden aangenomen door de Maritieme Veiligheidscommissie in overeenstemming met haar reglement van orde; en  
+
+c. eventuele wijzigingen die worden aangenomen door de Maritieme Veiligheidscommissie en de Commissie voor de Bescherming van het Mariene Milieu identiek zijn en tegelijkertijd in werking treden of van kracht worden, al naargelang van toepassing. 
 
 ### Voorschrift  3  
 

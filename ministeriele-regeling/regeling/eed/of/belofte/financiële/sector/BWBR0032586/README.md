@@ -3,12 +3,12 @@
 ##Regeling van de Minister van Financiën van 17 december 2012, kenmerk: FM/2012/1923 M, houdende regels met betrekking tot de door personen als bedoeld in de artikelen 3:8, eerste lid, en 4:9, eerste lid, van de Wet op het financieel toezicht (Regeling eed of belofte financiële sector)
 
 De Minister van Financiën,  
-Gelet op de [artikelen 3:8, tweede lid](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:9, zesde lid, van de Wet op het financieel toezicht](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);
+Gelet op de artikelen 3:8, tweede lid, en 4:9, zesde lid, van de Wet op het financieel toezicht;
 Besluit:    
 
 ### Artikel  1  
 
-1.  Personen als bedoeld in de [artikelen 3:8, eerste lid](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:9, eerste lid, van de wet](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), leggen binnen drie maanden na aanvang van hun werkzaamheden voor de onderneming een eed of belofte af, indien mogelijk ten overstaan van een persoon in een hogere functie en in tegenwoordigheid van een andere vertegenwoordiger van de onderneming.   
+1.  Personen als bedoeld in de artikelen 3:8, eerste lid, en 4:9, eerste lid, van de wet, leggen binnen drie maanden na aanvang van hun werkzaamheden voor de onderneming een eed of belofte af, indien mogelijk ten overstaan van een persoon in een hogere functie en in tegenwoordigheid van een andere vertegenwoordiger van de onderneming.   
 2.  Onder persoon in een hogere functie als bedoeld in het eerste lid wordt verstaan: 
 
 a. een beleidsbepaler in een hogere functie, indien de persoon die de eed of belofte aflegt de functie van beleidsbepaler uitoefent;  

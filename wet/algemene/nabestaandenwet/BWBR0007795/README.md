@@ -894,7 +894,7 @@ b)op 19 december 2005 dit recht op nabestaandenuitkering dan wel wezenuitkering
 
 ### Artikel  68a  
 
-1.  Hoofdstuk 3, afdeling I, paragraaf 9, is niet van toepassing op de persoon op wie die paragraaf als gevolg van de opzegging van een verdrag, beëindiging van de voorlopige toepassing van een verdrag dan wel de beëindiging van een daarmee gelijk te stellen situatie van toepassing zou worden, zolang deze persoon blijft wonen in hetzelfde land als het land waar hij op de dag voor buitenwerkingtreding als gevolg van die opzegging respectievelijk op de dag voor de beëindiging woonde en blijft voldoen aan de overige voorwaarden voor het recht op nabestaandenuitkering, halfwezenuitkering dan wel wezenuitkering.   
+1.  Hoofdstuk 3, afdeling I, paragraaf 9, is niet van toepassing op de persoon op wie die paragraaf als gevolg van de opzegging van een verdrag, beëindiging van de voorlopige toepassing van een verdrag dan wel de beëindiging van een daarmee gelijk te stellen situatie van toepassing zou worden, zolang deze persoon blijft wonen in hetzelfde land als het land waar hij op de dag voor buitenwerkingtreding als gevolg van die opzegging respectievelijk op de dag voor de beëindiging woonde en blijft voldoen aan de overige voorwaarden voor het recht op nabestaandenuitkering dan wel wezenuitkering.   
 2.  Onze Minister deelt mede ten aanzien van welk land, met inbegrip van de dag waarop, een verdrag als bedoeld in het eerste lid buitenwerking is getreden dan wel de voorlopige toepassing van een verdrag of een daarmee gelijk te stellen situatie als bedoeld in het eerste lid is beëindigd.  
 
 ### Artikel  71  

@@ -105,7 +105,7 @@ Op deze regeling is de Algemene regeling SZW-subsidies van toepassing voor zover
 
 ####Subsidieplafond
 
-1.  De minister stelt 590 miljoen EUR beschikbaar voor de cofinanciering van sectorplannen, welk bedrag wordt onderverdeeld in door de minister vast te stellen aanvraagtijdvakken met voor de tijdvakken afzonderlijk vast te stellen subsidieplafonds.   
+1.  De minister stelt 440 miljoen EUR beschikbaar voor de cofinanciering van sectorplannen, welk bedrag wordt onderverdeeld in door de minister vast te stellen aanvraagtijdvakken met voor de tijdvakken afzonderlijk vast te stellen subsidieplafonds.   
 2.  De mogelijkheid tot het indienen van aanvragen om subsidie bestaat slechts gedurende door de minister vastgestelde aanvraagtijdvakken. Indien deze mogelijkheid wordt geopend, wordt hiervan vooraf door de minister in de Staatscourant mededeling gedaan met vermelding van het subsidieplafond voor dat aanvraagtijdvak.  
 
 ### Artikel  1.5  
@@ -372,9 +372,10 @@ c. binnen 6 maanden na het verlenen van de subsidiebeschikking, geen aanvang is 
 
 ####Rapportageverplichting
 
-1.  Voor zover de uitvoering van het sectorplan een periode beslaat die langer is dan twaalf maanden, overlegt de hoofdaanvrager, onder gebruikmaking van het daartoe door de minister elektronisch beschikbaar gestelde formulier, twaalf maanden na aanvang van de uitvoering van het sectorplan een tussentijds voortgangsverslag met de tot dan toe behaalde resultaten en gemaakte kosten waarbij ten minste wordt aangegeven de aantallen, de aard en de kosten van de maatregelen en de prestaties.   
-2.  De hoofdaanvrager verstrekt bij het tussentijds voortgangsverslag, onder gebruikmaking van het daartoe door de minister elektronisch beschikbaar gestelde formulier, aan de minister het burgerservicenummer van de deelnemers per maatregel in het sectorplan waarvoor cofinanciering is verstrekt.   
-3.  Indien de hoofdaanvrager voorschotten ontvangt als bedoeld in artikel 5.3 kan de minister in de beschikking tot subsidieverlening de verplichting opleggen dat het tussentijdse voortgangsverslag is voorzien van een verklaring van een accountant als bedoeld in artikel 393, eerste lid, van boek 2 van het Burgerlijk Wetboek, volgens een door de minister voor te schrijven model.  
+1.  Voor zover de uitvoering van het sectorplan een periode beslaat van twaalf maanden of langer, overlegt de hoofdaanvrager, onder gebruikmaking van het daartoe door de minister elektronisch beschikbaar gestelde formulier, uiterlijk acht weken na afloop van die twaalf maanden een tussentijds voortgangsverslag. Het tussentijds voortgangsverslag bevat ten minste de gerealiseerde aantallen, de aard en de kosten van de maatregelen en de resultaten.   
+2.  Voor zover de uitvoering van het sectorplan door toepassing van artikel 4.3, derde lid, een periode beslaat van meer dan 24 maanden, overlegt de hoofdaanvrager, onder gebruikmaking van het daartoe door de minister elektronisch beschikbaar gestelde formulier, uiterlijk acht weken na afloop van die 24 maanden een tussentijds voortgangsverslag. Het tussentijds voortgangsverslag bevat ten minste de gerealiseerde aantallen, de aard en de kosten van de maatregelen en de resultaten.  
+3.  De hoofdaanvrager verstrekt bij het tussentijds voortgangsverslag, onder gebruikmaking van het daartoe door de minister elektronisch beschikbaar gestelde formulier, aan de minister het burgerservicenummer van de deelnemers per maatregel in het sectorplan waarvoor cofinanciering is verstrekt.   
+4.  Indien de hoofdaanvrager voorschotten ontvangt als bedoeld in artikel 5.3 kan de minister in de beschikking tot subsidieverlening de verplichting opleggen dat het tussentijdse voortgangsverslag is voorzien van een verklaring van een accountant als bedoeld in artikel 393, eerste lid, van boek 2 van het Burgerlijk Wetboek, volgens een door de minister voor te schrijven model.  
 
 ### Artikel  5.5  
 
@@ -388,16 +389,16 @@ c. binnen 6 maanden na het verlenen van de subsidiebeschikking, geen aanvang is 
 
 ####Overhead
 
-1.  Kosten voor overhead en aan overhead gerelateerde exploitatiekosten van de hoofdaanvrager komen voor 50% cofinanciering in aanmerking.   
-2.  Onder kosten voor overhead en aan overhead gerelateerde exploitatiekosten worden verstaan alle niet directe kosten waaronder inbegrepen de kosten van administratie en beheer en de kosten van de accountantsverklaring, bedoeld in artikel 5.4, derde lid, en de Algemene regeling SZW-subsidies.   
+1.  Kosten voor overhead en aan overhead gerelateerde exploitatiekosten van de hoofdaanvrager komen voor 50% van een forfaitair bedrag als bedoeld in het vierde lid, voor cofinanciering in aanmerking.   
+2.  Onder kosten voor overhead en aan overhead gerelateerde exploitatiekosten worden verstaan alle niet directe kosten waaronder inbegrepen de kosten van administratie en beheer en de kosten van de accountantsverklaring, bedoeld in artikel 5.4, vierde lid, en de Algemene regeling SZW-subsidies.   
 3.  De kosten voor overhead worden niet in de begroting bij de aanvraag tot cofinanciering opgenomen doch door de minister vastgesteld op een percentage van het in de subsidievaststelling bepaalde bedrag aan subsidiabele kosten exclusief de overheadkosten.   
 4.  Het percentage, bedoeld in het derde lid, bedraagt de som van: 
 
-a. 15% van het in de subsidievaststelling bepaalde bedrag aan subsidiabele kosten exclusief de overheadkosten tot 500.000 EUR;  
+a. 15% van het in de subsidievaststelling bepaalde bedrag aan subsidiabele kosten exclusief de overheadkosten tot 1.000.000 EUR;  
 
-b. 7% van het in de subsidievaststelling bepaalde bedrag aan subsidiabele kosten exclusief de overheadkosten tussen 500.000 EUR en 1.000.000 EUR;  
+b. 7% van het in de subsidievaststelling bepaalde bedrag aan subsidiabele kosten exclusief de overheadkosten tussen 1.000.000 EUR en 10.000.000 EUR;  
 
-c. 1% van het in de subsidievaststelling bepaalde bedrag aan subsidiabele kosten exclusief de overheadkosten boven 1.000.000 EUR.    
+c. 1% van het in de subsidievaststelling bepaalde bedrag aan subsidiabele kosten exclusief de overheadkosten boven 10.000.000 EUR.    
 
 ### Artikel  5.7  
 
@@ -433,7 +434,8 @@ Deze regeling wordt aangehaald als: Regeling cofinanciering sectorplannen
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de dag na datum van uitgifte van de Staatscourant waarin zij wordt geplaatst. 
+1. Deze regeling treedt in werking met ingang van de dag na datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.  
+2.  Deze regeling vervalt met ingang van 1 januari 2020. In afwijking van de eerste zin blijft deze regeling, zoals die luidde op 31 december 2019, van toepassing op de afwikkeling van verleende subsidies op grond van deze regeling. 
 Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst.   
 
 Den Haag 

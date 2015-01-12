@@ -13,19 +13,13 @@ Stelt de volgende verordening vast:
 
 ####Definities
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Afdeling  1.1  
 
 ####Definities
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  1.1  
 
 ####Definities
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 In deze verordening en de daarop berustende bepalingen wordt verstaan onder: 
 
@@ -89,25 +83,17 @@ b. reiskosten van de advocaat, kosten van getuigen en tolken, deurwaarderskosten
 
 ####Organisatie van de Nederlandse Orde van Advocaten
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Afdeling  2.1  
 
 ####Raden en commissies
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 ### Paragraaf  2.1.1  
 
 ####Raad van advies
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  2.1  
 
 ####Leden raad van advies
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De leden van de raad van advies hebben daarin zitting op persoonlijke titel en oefenen hun functie zonder last of ruggespraak uit.   
 2.  Benoeming vindt plaats op grond van deskundigheid en ervaring die nodig is voor een goede vervulling van de taak van de raad van advies.  
@@ -116,16 +102,12 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Taakomschrijving raad van advies
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  Onverminderd het bepaalde in artikel 32a, tweede lid, van de Advocatenwet heeft de raad van advies tot taak de algemene raad te adviseren over de maatschappelijke positionering van de Nederlandse orde van advocaten en over hoofdpunten van beleid die de algemene raad daartoe aan de raad van advies voorlegt.   
 2.  Onverminderd het bepaalde in artikel 32a, derde lid, van de Advocatenwet voorziet de algemene raad in openbaarmaking van de adviesaanvraag, bedoeld in het eerste lid, en het aan het advies gegeven gevolg.  
 
 ### Artikel  2.3  
 
 ####Benoeming leden raad van advies
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Op voordracht van de algemene raad benoemt het college van afgevaardigden de leden van de raad van advies voor een periode van vier jaar.   
 2.  Een lid kan eenmaal worden herbenoemd.  
@@ -134,8 +116,6 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Werkwijze raad van advies
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  De algemene raad wijst uit de leden een voorzitter aan.   
 2.  De raad van advies stelt zijn eigen werkwijze vast.  
 
@@ -143,13 +123,9 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Dekenberaad
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  2.5  
 
 ####Leden dekenberaad
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Er is een dekenberaad dat uit de dekens van de orden in de arrondissementen bestaat.   
 2.  De deken en secretaris van de algemene raad nemen deel aan het overleg van het dekenberaad, tenzij het dekenberaad anders beslist.  
@@ -157,8 +133,6 @@ Treedt in werking op een nader te bepalen tijdstip
 ### Artikel  2.6  
 
 ####Werkzaamheden dekenberaad
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 De werkzaamheden van het dekenberaad zijn: 
 
@@ -174,8 +148,6 @@ d. het uitwisselen van informatie en kennis ter bevordering van een uniforme uit
 
 ####Werkwijze dekenberaad
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  Het dekenberaad kiest uit zijn leden een voorzitter.   
 2.  Het dekenberaad stelt zijn eigen werkwijze vast.  
 
@@ -183,13 +155,9 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Commissie civiele cassatie
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  2.8  
 
 ####Leden commissie civiele cassatie
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Er is een commissie civiele cassatie die uit ten minste vijf op het terrein van de civiele cassatie deskundige leden bestaat.   
 2.  Een lid van de commissie civiele cassatie is geen lid van of niet werkzaam bij: 
@@ -206,15 +174,11 @@ d. de adviescommissie civiele cassatie.
 
 ####Taakomschrijving commissie civiele cassatie
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 De commissie civiele cassatie heeft tot taak namens de algemene raad de vakbekwaamheid te toetsen van advocaten die de aantekening ‘advocaat bij de Hoge Raad’ wensen te verkrijgen op grond van artikel 4.12, eerste lid, en de vakbekwaamheid te beoordelen van advocaten bij de Hoge Raad, op grond van artikel 4.14, eerste lid. 
 
 ### Artikel  2.10  
 
 ####Benoeming leden commissie civiele cassatie
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De algemene raad benoemt de leden van de commissie civiele cassatie voor een periode van vier jaar.   
 2.  Een lid kan eenmaal worden herbenoemd.  
@@ -223,8 +187,6 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Werkwijze commissie civiele cassatie
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  De algemene raad wijst uit de leden een voorzitter aan.   
 2.  De commissie civiele cassatie stelt haar werkwijze vast in overleg met de algemene raad.  
 
@@ -232,13 +194,9 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Adviescommissie civiele cassatie
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  2.12  
 
 ####Leden adviescommissie civiele cassatie
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Er is een adviescommissie civiele cassatie die uit drie tot vijf leden bestaat, van wie de meerderheid bij de civiele cassatiepraktijk betrokken is of was.   
 2.  Een lid van adviescommissie civiele cassatie kan geen lid zijn van of werkzaam zijn bij: 
@@ -255,8 +213,6 @@ d. de commissie civiele cassatie.
 
 ####Taakomschrijving adviescommissie civiele cassatie
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 De adviescommissie civiele cassatie heeft tot taak: 
 
 a. het functioneren van de commissie civiele cassatie te beoordelen en de algemene raad daarover te rapporteren en, zo nodig, te adviseren; en  
@@ -267,16 +223,12 @@ b. te adviseren over bezwaren die zijn ingediend tegen beschikkingen genomen op 
 
 ####Benoeming leden adviescommissie civiele cassatie
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  De algemene raad benoemt de leden van de adviescommissie civiele cassatie voor een periode van vier jaar.   
 2.  Een lid kan eenmaal worden herbenoemd.  
 
 ### Artikel  2.15  
 
 ####Werkwijze adviescommissie civiele cassatie
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De algemene raad wijst uit de leden een voorzitter aan.   
 2.  De adviescommissie civiele cassatie stelt haar werkwijze vast in overleg met de algemene raad.  
@@ -285,13 +237,9 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Adviescommissie regelgeving
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  2.16  
 
 ####Leden adviescommissie regelgeving
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Er is een adviescommissie regelgeving die uit vier tot acht advocaten bestaat.   
 2.  Een lid van de adviescommissie regelgeving is geen lid van het college van afgevaardigden, de algemene raad, een raad van discipline of het hof van discipline.  
@@ -299,8 +247,6 @@ Treedt in werking op een nader te bepalen tijdstip
 ### Artikel  2.17  
 
 ####Taakomschrijving adviescommissie regelgeving
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De adviescommissie regelgeving heeft tot taak de algemene raad gevraagd en ongevraagd te adviseren over voorstellen van regelgeving van de Nederlandse orde van advocaten ten aanzien van de juridische kwaliteit en de gevolgen van de regelgeving voor de beroepsuitoefening en de praktijkvoering van advocaten.   
 2.  Voor zover het regelgeving van de Nederlandse orde van advocaten betreft bericht de algemene raad de commissie tot welk gevolg het advies heeft geleid en zendt hij het advies mee met conceptregelgeving aan het college van afgevaardigden.   
@@ -310,16 +256,12 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Benoeming leden adviescommissie regelgeving
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  De algemene raad benoemt de leden van de adviescommissie regelgeving voor een periode van vier jaar.   
 2.  Een lid kan eenmaal worden herbenoemd.  
 
 ### Artikel  2.19  
 
 ####Werkwijze adviescommissie regelgeving
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De algemene raad wijst uit de leden een voorzitter aan.   
 2.  De adviescommissie regelgeving stelt haar werkwijze vast in overleg met de algemene raad.  
@@ -328,13 +270,9 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Overige adviescommissies
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  2.20  
 
 ####Leden overige adviescommissies
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 De algemene raad kan voor een rechtsgebied of beleidsterrein een adviescommissie instellen die uit ten minste drie leden bestaat. 
 
@@ -342,15 +280,11 @@ De algemene raad kan voor een rechtsgebied of beleidsterrein een adviescommissie
 
 ####Taakomschrijving overige adviescommissies
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 Een adviescommissie heeft tot taak de algemene raad gevraagd of ongevraagd te adviseren over voorstellen voor wet- en regelgeving en beleidsvraagstukken die van belang zijn voor de advocatuur en de rechtzoekende in het algemeen. 
 
 ### Artikel  2.22  
 
 ####Benoeming leden overige adviescommissies
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De algemene raad benoemt de leden voor een periode van vier jaar.   
 2.  Een lid kan tweemaal worden herbenoemd.  
@@ -359,8 +293,6 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Werkwijze overige adviescommissies
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  De adviescommissie kiest uit de leden een voorzitter.   
 2.  De adviescommissie stelt haar werkwijze vast in overleg met de algemene raad.  
 
@@ -368,13 +300,9 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Jaarverslag en ondersteuning
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  2.24  
 
 ####Jaarverslag
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De raad van advies en de commissie civiele cassatie brengen jaarlijks verslag uit van hun werkzaamheden aan de algemene raad, die dit ter kennis brengt van het college van afgevaardigden.   
 2.  Het dekenberaad brengt jaarlijks verslag uit van zijn werkzaamheden aan het college van afgevaardigden en het college van toezicht.   
@@ -383,8 +311,6 @@ Treedt in werking op een nader te bepalen tijdstip
 ### Artikel  2.25  
 
 ####Secretariaat commissies
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De algemene raad voorziet in het secretariaat van: 
 
@@ -401,27 +327,19 @@ d. de adviescommissie regelgeving.
 
 ####Inkomsten en uitgaven
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Paragraaf  2.2.1  
 
 ####Bijdragen aan de Nederlandse orde van advocaten
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  2.26  
 
 ####Verschuldigdheid financiële bijdrage
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 De advocaat die op 1 januari van enig jaar op het tableau staat ingeschreven, is voor dat jaar de financiële bijdrage ten volle verschuldigd ter dekking van de door de Nederlandse orde van advocaten te maken kosten, bedoeld in artikel 32, tweede lid, van de Advocatenwet. 
 
 ### Artikel  2.27  
 
 ####Voorstel hoogte financiële bijdrage
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De algemene raad doet het college van afgevaardigden jaarlijks een voorstel voor de hoogte van de financiële bijdrage, die kan verschillen naar gelang van: 
 
@@ -434,13 +352,9 @@ b. de duur van de inschrijving als advocaat op 1 januari van dat jaar.
 
 ####Cursus- en examengelden
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  2.28  
 
 ####Cursus- en examengeld beroepsopleiding advocaten
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De Nederlandse orde van advocaten brengt aan de stagiaire die deelneemt aan de beroepsopleiding advocaten, respectievelijk aan het in artikel 3.19, eerste lid, genoemde examen, cursus- en examengeld in rekening. De factuur voor de bijdrage kan op naam worden gesteld van het kantoor van de stagiaire.   
 2.  De hoogte van het cursus- en examengeld wordt vastgesteld door de algemene raad.   
@@ -451,29 +365,21 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Kosten examen en proeve van bekwaamheid civiele cassatie
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 De advocaat is voor het afleggen van het examen, bedoeld in artikel 4.12, en de proeve van bekwaamheid, bedoeld in artikel 4.14, een door de algemene raad vast te stellen vergoeding verschuldigd. 
 
 ### Paragraaf  2.2.3  
 
 ####Vacatiegelden en kostenvergoedingen
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  2.30  
 
 ####Vergoeding algemene raad
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 Het college van afgevaardigden stelt de vergoeding vast voor de werkzaamheden van de deken en de overige leden van de algemene raad. 
 
 ### Artikel  2.31  
 
 ####Rechthebbenden vacatiegeld en reiskostenvergoeding
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De algemene raad kent vacatiegeld en een reiskostenvergoeding toe aan: 
 
@@ -492,8 +398,6 @@ e. de leden van de Stichting beroepsopleiding advocaten.
 
 ####Rechthebbenden reiskostenvergoeding
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 De algemene raad vergoedt de reiskosten van: 
 
 a. de deken en de overige leden van de algemene raad;  
@@ -510,23 +414,17 @@ e. de leden van een door het college van afgevaardigden ingestelde voorbereiding
 
 ####Verblijfskostenvergoeding
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 De algemene raad kan verblijfskosten vergoeden indien dat naar zijn oordeel doelmatig is. 
 
 ### Artikel  2.34  
 
 ####Andere rechthebbenden
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 De algemene raad kan in bijzondere gevallen aan anderen dan de in artikel 2.31 en artikel 2.32 genoemden een kostenvergoeding toekennen. 
 
 ### Artikel  2.35  
 
 ####Hoogte vacatiegeld en reiskostenvergoeding
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De algemene raad stelt de hoogte van het vacatiegeld vast, die kan verschillen naar rechthebbende en tijdsduur.   
 2.  De algemene raad stelt de hoogte van de reiskostenvergoeding vast, die kan verschillen naar transportmiddel.  
@@ -535,8 +433,6 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Nadere regels wijze declaratie
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  De algemene raad stelt regels vast over de wijze waarop de vergoedingen, bedoeld in deze paragraaf worden gedeclareerd.   
 2.  De algemene raad kan bij de aanvraag voor vacatiegeld of andere vergoeding van de aanvrager nadere bewijsmiddelen verlangen.  
 
@@ -544,13 +440,9 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Arbeidsvoorwaarden medewerkers college van toezicht
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  2.37  
 
 ####Arbeidsvoorwaarden medewerkers college van toezicht
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 De arbeidsvoorwaarden van de medewerkers van het bureau van de Nederlandse orde van advocaten zijn van overeenkomstige toepassing op de secretaris en andere medewerkers van het college van toezicht. 
 
@@ -558,33 +450,23 @@ De arbeidsvoorwaarden van de medewerkers van het bureau van de Nederlandse orde 
 
 ####Stage
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Afdeling  3.1  
 
 ####Stage
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 ### Paragraaf  3.1.1  
 
 ####Algemeen
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  3.1  
 
 ####Aanvang stage
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 De stage vangt aan op het moment dat de stagiaire is beëdigd, de stage en de patroon zijn goedgekeurd en de uitoefening van de praktijk is aangevangen. 
 
 ### Artikel  3.2  
 
 ####Voltooide stage
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De stage is voltooid op het moment waarop de termijn, bedoeld in artikel 9b, eerste onderscheidenlijk tweede lid, van de Advocatenwet, is verstreken en: 
 
@@ -599,8 +481,6 @@ c. de raad van de orde, gehoord de patroon en de stagiaire, oordeelt dat de stag
 
 ####Deeltijd
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  De stagiaire die in deeltijd werkzaam is, oefent de praktijk uit voor ten minste 24 uur per week.   
 2.  In afwijking van het eerste lid oefent de stagiaire-ondernemer die in deeltijd werkzaam is, de praktijk uit voor ten minste 32 uur per week.   
 3.  De stagiaire die in deeltijd wenst te werken, informeert de raad van de orde over het voorgenomen aantal uren dat per week gewerkt zal worden, voorafgaand aan de uitoefening van de praktijk en voorafgaand aan iedere wijziging in het aantal uren dat per week gewerkt zal worden.  
@@ -608,8 +488,6 @@ Treedt in werking op een nader te bepalen tijdstip
 ### Artikel  3.4  
 
 ####Stage geëindigd of opgeschort
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De stage eindigt zonder stageverklaring: 
 
@@ -637,13 +515,9 @@ d. zodra de patroon en de stagiaire niet langer in hetzelfde arrondissement zijn
 
 ####Goedkeuring stage en patroon
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  3.5  
 
 ####Goedkeuring stage en patroon
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De raad van de orde is belast met de goedkeuring van de stage en de beoogd patroon.   
 2.  De stagiaire dient het verzoek om goedkeuring van de stage en de beoogd patroon in, door middel van een door de algemene raad vastgesteld formulier met daarbij over te leggen stukken.  
@@ -651,8 +525,6 @@ Treedt in werking op een nader te bepalen tijdstip
 ### Artikel  3.6  
 
 ####Beoordeling aanvraag goedkeuring
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De raad van de orde kan de goedkeuring, bedoeld in artikel 3.5, onthouden indien: 
 
@@ -683,21 +555,15 @@ b. in geval van een buitenstagiaire of stagiaire-ondernemer, indien de beoogd pa
 
 ####Bemiddeling bij zoeken patroon
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 Indien de patroon in de uitoefening van de praktijk is geschorst, de praktijk niet meer uitoefent of de stagiaire niet meer kan begeleiden, kan de raad van de orde bemiddelen bij het zoeken van een andere patroon. 
 
 ### Paragraaf  3.1.3  
 
 ####Verplichtingen stagiaire
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  3.8  
 
 ####Verplichtingen stagiaire
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De stagiaire verschaft de patroon de informatie die deze nodig heeft om te voldoen aan de verplichtingen, genoemd in artikel 3.13.   
 2.  De stagiaire informeert de raad van de orde indien de stage tussentijds is geëindigd of van rechtswege is opgeschort, met uitzondering van de situaties, bedoeld in artikel 3.4, eerste lid, onderdeel c, en artikel 3.13, zesde lid.  
@@ -705,8 +571,6 @@ Treedt in werking op een nader te bepalen tijdstip
 ### Artikel  3.9  
 
 ####Praktijkervaring stagiaire
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De stagiaire is aan het eind van de stage in staat zelfstandig en naar behoren de praktijk uit te oefenen en heeft ten minste de volgende praktijkervaring opgedaan: 
 
@@ -721,8 +585,6 @@ c. hij heeft op twee van de drie van de in artikel 3.15, eerste lid, onderdeel b
 
 ####Activiteiten in arrondissement
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  Aan het eind van de stage heeft de stagiaire tien opleidingspunten behaald voor activiteiten die de raad van de orde voor stagiaires aanbiedt of laat aanbieden en een voldoende behaald voor de pleitoefening.   
 2.  De raad van de orde draagt er zorg voor dat de in het eerste lid bedoelde activiteiten en de pleitoefening bijdragen aan de professionele vorming en de ontwikkeling van de vaardigheden van de stagiaire.   
 3.  De raad van de orde kent een punt per uur toe aan de activiteiten, bedoeld in het eerste lid, niet zijnde de pleitoefening.   
@@ -731,8 +593,6 @@ Treedt in werking op een nader te bepalen tijdstip
 ### Artikel  3.11  
 
 ####Buitenstagiaire of stagiaire-ondernemer
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 Een buitenstagiaire of stagiaire-ondernemer: 
 
@@ -744,8 +604,6 @@ b. neemt alleen zaken aan die hij gelet op zijn kantoororganisatie adequaat kan 
 
 ####Liquiditeit en boekhouding stagiaire-ondernemer
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  De stagiaire-ondernemer beschikt steeds over een passende kredietfaciliteit of over voldoende vermogen ter dekking van de kosten van het bruto minimumloon voor een jaar en de overige kosten van de praktijkvoering.   
 2.  De stagiaire-ondernemer zendt aan de raad van de orde ten minste tweemaal per jaar de balans en de winst- en verliesrekening die door de patroon voor gezien ondertekend zijn. De stagiaire-ondernemer verstrekt de raad van de orde desgevraagd een toelichting of nadere inlichtingen.  
 
@@ -753,13 +611,9 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Verplichtingen patroon
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  3.13  
 
 ####Verplichtingen patroon
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De patroon geeft de stagiaire leiding, voorlichting en raad met betrekking tot de praktijkuitoefening in de ruimste zin van het woord. Hij schenkt daarbij bijzondere aandacht aan de introductie van de stagiaire bij en diens optreden jegens de rechterlijke macht, beroepsgenoten en cliënten. Hij bewaakt de ontwikkeling van de stagiaire op een systematische en structurele wijze.   
 2.  De patroon draagt er zorg voor dat de stagiaire de voor hem geldende verplichtingen nakomt, waaronder de verplichtingen, bedoeld in artikel 3.8 tot en met artikel 3.12, artikel 3.17 tot en met artikel 3.19 en artikel 2.28, en de maatregelen die door de algemene raad zijn vastgesteld, opleidingsmaatregelen daaronder begrepen.   
@@ -778,13 +632,9 @@ b. stagiaire-ondernemer of buitenstagiaire is, brengt ten minste eenmaal per zes
 
 ####Beroepsopleiding advocaten
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  3.14  
 
 ####Opleidings- en examenreglement
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De algemene raad stelt een opleidingsreglement vast, waarin de inhoud van de beroepsopleiding advocaten, de cursusonderdelen, de omvang ervan en de opleidingsmaatregelen zijn opgenomen. De eindtermen, de exameneisen en het curriculum van de beroepsopleiding advocaten zijn daaronder begrepen. In het opleidingsreglement kunnen de taken van een uitvoeringsorganisatie als bedoeld in artikel 3.23, worden opgenomen en bevoegdheden betreffende het onderwijs worden gedelegeerd.   
 2.  De algemene raad stelt een examenreglement vast met regels over de inrichting en de organisatie van het examen, de wijze en tijdstippen waarop daaraan kan worden deelgenomen, de wijze waarop het examen wordt afgenomen en de instelling, samenstelling en taken van de examencommissie en de delegatie van bevoegdheden betreffende het examen aan de examencommissie.  
@@ -792,8 +642,6 @@ Treedt in werking op een nader te bepalen tijdstip
 ### Artikel  3.15  
 
 ####Indeling vakken
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De beroepsopleiding advocaten omvat de volgende onderdelen: 
 
@@ -807,8 +655,6 @@ c. overige cognitieve vakken.
 ### Artikel  3.16  
 
 ####Toelating tot beroepsopleiding advocaten
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Een stagiaire schrijft zich bij of voor aanvang van de stage bij de algemene raad in voor de beroepsopleiding advocaten.   
 2.  Een stagiaire wordt toegelaten tot de beroepsopleiding advocaten en wordt in staat gesteld het onderwijs te volgen indien en voor zo lang: 
@@ -824,8 +670,6 @@ b. de stage voortduurt.
 
 ####Deelname onderwijs
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  De stagiaire neemt deel aan het onderwijs in alle onderdelen van de beroepsopleiding advocaten en bereidt zich op de in het opleidingsreglement voorgeschreven wijze voor.   
 2.  De stagiaire neemt deel aan het onderwijs van de eerste cyclus van de beroepsopleiding advocaten die na aanvang van de stage wordt aangeboden.   
 3.  De stagiaire die niet direct na aanvang van de stage het onderwijs in de onderscheiden onderdelen van de beroepsopleiding advocaten volgt, wordt geacht de voor dat onderdeel afgenomen toetsen niet te hebben behaald.   
@@ -836,8 +680,6 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Vrijstelling deelname onderwijs
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  De algemene raad kan op schriftelijk verzoek van de stagiaire geheel of gedeeltelijk vrijstelling verlenen van de verplichting tot het deelnemen aan het onderwijs, bedoeld in artikel 3.17, eerste en tweede lid. Deze vrijstelling houdt geen vrijstelling in van de verplichting in alle onderdelen van het examen een toets af te leggen.   
 2.  Vrijstelling wordt slechts verleend indien de stagiaire genoegzaam aantoont op grond van opleiding en praktijkervaring op elk van de rechtsgebieden waarvoor vrijstelling wordt verzocht een gelijkwaardige theoretische en praktische bekwaamheid te hebben verworven.   
 3.  De algemene raad wint advies in van de examencommissie, indien de aard van het verzoek daartoe aanleiding geeft.   
@@ -846,8 +688,6 @@ Treedt in werking op een nader te bepalen tijdstip
 ### Artikel  3.19  
 
 ####Examinering
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Aan de beroepsopleiding advocaten is een examen verbonden dat bestaat uit een aantal per onderdeel af te nemen toetsen.   
 2.  Een stagiaire legt in alle onderdelen van het examen een toets af.   
@@ -863,8 +703,6 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Vrijstelling van het examen
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  De algemene raad kan uitsluitend gehele of gedeeltelijke vrijstelling verlenen van de verplichting om in alle onderdelen van het examen een toets af te leggen indien die verplichting zou leiden tot een onbillijkheid van overwegende aard.   
 2.  Aan de vrijstelling, bedoeld in het eerste lid, kan de algemene raad voorwaarden verbinden.  
 
@@ -872,16 +710,12 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Certificaat
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  De stagiaire die het examen met gunstig gevolg heeft afgelegd, ontvangt van de algemene raad het certificaat beroepsopleiding advocaten.   
 2.  In het examenreglement, bedoeld in artikel 3.14, tweede lid, kan de algemene raad de verstrekking van de certificaten, bedoeld in het eerste lid, delegeren aan de examencommissie.  
 
 ### Artikel  3.22  
 
 ####Terme de grâce
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De algemene raad kan een stagiaire die is geschrapt op grond van artikel 8c, tweede lid, van de Advocatenwet, desgevraagd, binnen twee jaar na de schrapping, nog ten hoogste twee maal toelaten tot een toets in de nog niet behaalde examenonderdelen, tenzij daardoor het aantal toetskansen, bedoeld in artikel 3.19, zesde lid, wordt overschreden.   
 2.  Het verzoek, bedoeld in het eerste lid, wordt slechts ingewilligd indien: 
@@ -894,21 +728,15 @@ b. de afwijzing naar het oordeel van de algemene raad zou leiden tot een onbilli
 
 ####Organisatie beroepsopleiding advocaten
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  3.23  
 
 ####Uitvoeringsorganisatie beroepsopleiding advocaten
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 De algemene raad sluit een overeenkomst met een uitvoeringsorganisatie over de uitvoering van de beroepsopleiding advocaten, met inbegrip van de bevoegdheid om examens af te nemen en met inachtneming van het in de Advocatenwet en bij of krachtens deze verordening bepaalde. 
 
 ### Artikel  3.24  
 
 ####Beoordeling kwaliteit en advisering
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 De algemene raad wijst een organisatie aan die tot taak heeft: 
 
@@ -920,13 +748,9 @@ b. de Nederlandse orde van advocaten gevraagd en ongevraagd te adviseren over de
 
 ####Accreditatie beroepsopleiding advocaten
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  3.25  
 
 ####Accreditatie beroepsopleiding advocaten
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Een opleidingsinstelling die de in artikel 3.15, eerste lid, onderdelen b en c, genoemde onderdelen van de beroepsopleiding advocaten aan wil bieden, doet een aanvraag om de opleiding te accrediteren bij de algemene raad.   
 2.  De aanvraag wordt in ieder geval vergezeld van: 
@@ -949,25 +773,17 @@ c. de continuïteit van het onderwijs is gewaarborgd.
 
 ####Vakbekwaamheid van de advocaat
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Afdeling  4.1  
 
 ####Vakbekwaamheid
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 ### Paragraaf  4.1.1  
 
 ####Algemeen
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  4.1  
 
 ####Deskundigheid
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Een advocaat is bij de uitoefening van zijn beroep vakbekwaam, waaronder wordt begrepen dat de advocaat de professionele kennis en kunde bezit die nodig is voor het uitoefenen van de praktijk.   
 2.  Een advocaat neemt alleen zaken aan waarvoor hij de deskundigheid bezit dan wel waarvoor hij gebruik maakt van de deskundigheid van een ander.  
@@ -976,13 +792,9 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Professionele kennis en kunde
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  4.2  
 
 ####Reikwijdte
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Deze paragraaf is van toepassing op de advocaat die al dan niet onderbroken drie jaar of langer op het tableau is ingeschreven.   
 2.  Deze paragraaf is van toepassing op de advocaat die is ingeschreven op grond van artikel 16h van de Advocatenwet.  
@@ -991,15 +803,11 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Professionele kennis en kunde
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 De advocaat onderhoudt en ontwikkelt jaarlijks aantoonbaar zijn professionele kennis en kunde op voor zijn praktijk relevante rechtsgebieden. 
 
 ### Artikel  4.4  
 
 ####Opleidingspunten
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Een advocaat behaalt elk kalenderjaar ten minste twintig opleidingspunten, waarvan ten minste de helft betrekking heeft op juridische activiteiten op een voor zijn praktijk relevant rechtsgebied.   
 2.  Indien dit hoofdstuk in een kalenderjaar korter dan elf maanden van toepassing is op een advocaat, wordt het aantal opleidingspunten, bedoeld in het eerste lid, naar rato verminderd.   
@@ -1031,8 +839,6 @@ b. over erkenning van opleidingsinstellingen waardoor deze op voorhand kunnen aa
 
 ####Inhaalverplichting
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  Indien een advocaat niet voldoet aan het bepaalde in artikel 4.4, eerste tot en met derde lid, haalt hij uiterlijk binnen twaalf maanden na afloop van het desbetreffende kalenderjaar het tekort aan opleidingspunten in.   
 2.  De op grond van het eerste lid ingehaalde opleidingspunten gelden niet als opleidingspunten als bedoeld in artikel 4.4, eerste lid, of als overschot als bedoeld in het artikel 4.4, derde lid.   
 3.  Dit artikel laat onverlet dat de deken een dekenbezwaar kan indienen op grond van artikel 46f van de Advocatenwet.  
@@ -1041,8 +847,6 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Herintredersregeling
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  Een advocaat die meer dan een jaar niet ingeschreven heeft gestaan, behaalt in de twaalf maanden na zijn beëdiging twintig opleidingspunten met juridische activiteiten op een voor zijn praktijk relevant rechtsgebied, in aanvulling op het bepaalde in artikel 4.4, eerste en tweede lid.   
 2.  Een advocaat kan bij de raad van de orde binnen vier weken na beëdiging gehele of gedeeltelijke vrijstelling verzoeken van het eerste lid, waarbij hij aantoont dat hij voldoende actuele kennis heeft van de voor zijn praktijk relevante rechtsgebieden.   
 3.  De raad van de orde kan voorwaarden verbinden aan de vrijstelling, bedoeld in het tweede lid.  
@@ -1050,8 +854,6 @@ Treedt in werking op een nader te bepalen tijdstip
 ### Artikel  4.7  
 
 ####Langdurige ziekte
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Indien een advocaat de praktijk meer dan zes maanden niet heeft uitgeoefend in verband met ziekte kan hij een beroep doen op toepassing van het tweede tot en met vierde lid.   
 2.  Artikel 4.4, eerste lid, is niet van toepassing zo lang de advocaat de praktijk niet uitoefent. Artikel 4.5 is niet van toepassing op een tekort aan opleidingspunten ontstaan voordat het onderhavige derde en vierde lid van toepassing werden.   
@@ -1072,19 +874,13 @@ b. behaalt de advocaat binnen twaalf maanden op een voor zijn praktijk relevant 
 
 ####Vakbekwaamheidseisen civiele cassatie
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Paragraaf  4.2.1  
 
 ####Advocaat bij de Hoge Raad
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  4.8  
 
 ####Opleidingseisen
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Een advocaat bij de Hoge Raad behaalt de helft van het aantal opleidingspunten dat hij jaarlijks op grond van artikel 4.4 dient te behalen op terreinen die leiden tot verdieping van zijn kennis van het burgerlijk recht, het burgerlijk procesrecht en de beheersing van de cassatietechniek.   
 2.  De algemene raad kan nadere regels stellen over de terreinen waarop de opleidingspunten, bedoeld in het eerste lid, kunnen worden behaald.  
@@ -1092,8 +888,6 @@ Treedt in werking op een nader te bepalen tijdstip
 ### Artikel  4.9  
 
 ####Praktijkeisen
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Een advocaat bij de Hoge Raad behandelt iedere drie jaar na het verkrijgen van de aantekening ‘advocaat bij de Hoge Raad’ ten minste twaalf cassatiezaken waarvan er ten minste zes hebben geleid tot een beoordeling door de Hoge Raad. Hierbij worden niet meegerekend zaken waarin het cassatieberoep op grond van artikel 80a van de Wet op de rechterlijke organisatie niet-ontvankelijk is verklaard.   
 2.  De algemene raad kan geheel of gedeeltelijk vrijstelling verlenen van de verplichting, bedoeld in het eerste lid, in geval van bijzondere omstandigheden waaronder omstandigheden betreffende het rechtsgebied waarin de cassatiepraktijk wordt uitgeoefend. De algemene raad kan voorwaarden verbinden aan de vrijstelling.   
@@ -1104,13 +898,9 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Verklaring voor aantekening civiele cassatie
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  4.10  
 
 ####Verlenen verklaring door algemene raad
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De algemene raad geeft de verklaring af, bedoeld in artikel 9j, tweede lid, van de Advocatenwet, indien de advocaat voldoet aan de eisen van artikel 4.11, eerste lid, of artikel 4.13.   
 2.  De algemene raad kan nadere regels stellen over de wijze waarop de advocaat aantoont te voldoen aan de gestelde eisen.  
@@ -1118,8 +908,6 @@ Treedt in werking op een nader te bepalen tijdstip
 ### Artikel  4.11  
 
 ####Verkrijgen verklaring voorwaardelijke aantekening
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Een advocaat verkrijgt op zijn verzoek een verklaring van de algemene raad waarmee hij de voorwaardelijke aantekening ‘advocaat bij de Hoge Raad’ in burgerlijke zaken kan aanvragen, indien hij: 
 
@@ -1133,16 +921,12 @@ b. met goed gevolg een mondeling examen aflegt, waardoor blijkt dat hij voldoend
 
 ####Afnemen examen
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  Het examen ter verkrijging van de verklaring, bedoeld in artikel 4.11, eerste lid, wordt namens de algemene raad afgenomen door ten minste twee leden van de commissie civiele cassatie.   
 2.  De algemene raad kan nadere regels stellen over de inhoud en de stof van het examen en de wijze waarop het examen wordt aangevraagd en afgenomen.  
 
 ### Artikel  4.13  
 
 ####Verkrijgen verklaring onvoorwaardelijke aantekening
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 Een advocaat met de voorwaardelijke aantekening verkrijgt op zijn verzoek een verklaring van de algemene raad waarmee hij de onvoorwaardelijke aantekening "advocaat bij de Hoge Raad" in burgerlijke zaken kan aanvragen, indien hij: 
 
@@ -1156,8 +940,6 @@ c. met goed gevolg een proeve van bekwaamheid aflegt, waardoor blijkt dat hij be
 
 ####Afnemen proeve van bekwaamheid
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  De proeve van bekwaamheid wordt namens de algemene raad afgenomen door ten minste twee leden van de commissie civiele cassatie en omvat de bespreking van twee door de advocaat overgelegde cassatiedossiers.   
 2.  De algemene raad kan nadere regels stellen over de inhoud van de proeve van bekwaamheid, de wijze waarop deze wordt aangevraagd en afgenomen en de over te leggen cassatiedossiers.  
 
@@ -1165,19 +947,13 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Praktijkstructuren
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Afdeling  5.1  
 
 ####Algemeen
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  5.1  
 
 ####In gevaar brengen vrijheid en onafhankelijkheid
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Het is de advocaat niet toegestaan rechtsverhoudingen aan te gaan of te laten voortbestaan waardoor de vrijheid en onafhankelijkheid in de uitoefening van zijn beroep, met inbegrip van de behartiging van het partijbelang en de daarmee samenhangende vertrouwensrelatie tussen de advocaat en zijn cliënt, in gevaar kunnen worden gebracht.   
 2.  Het is de advocaat niet toegestaan de praktijk uit te oefenen, al dan niet in dienst, in een vorm waardoor de vrijheid en onafhankelijkheid in de uitoefening van zijn beroep, met inbegrip van de behartiging van het partijbelang en de daarmee samenhangende vertrouwensrelatie tussen de advocaat en zijn cliënt, in gevaar kunnen worden gebracht.  
@@ -1185,8 +961,6 @@ Treedt in werking op een nader te bepalen tijdstip
 ### Artikel  5.2  
 
 ####Wijzen van uitoefening van de praktijk
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 De advocaat oefent de praktijk uit op een of meer van de volgende wijzen: 
 
@@ -1200,13 +974,9 @@ c. in dienst van een werkgever als bedoeld in artikel 5.9.
 
 ####Samenwerking
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  5.3  
 
 ####Samenwerkingsverband
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 Van een samenwerkingsverband is uitsluitend sprake indien een advocaat met een andere natuurlijk persoon, een samenwerkingsverband of een rechtspersoon: 
 
@@ -1217,8 +987,6 @@ b. de zeggenschap of eindverantwoordelijkheid over de praktijkuitoefening deelt.
 ### Artikel  5.4  
 
 ####Toegestane samenwerkingsverbanden
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Een advocaat kan uitsluitend een samenwerkingsverband aangaan met: 
 
@@ -1233,21 +1001,15 @@ c. leden van de Koninklijke Notariële Beroepsorganisatie, de Nederlandse Orde v
 
 ####Naamgeving
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 Het is de advocaat niet toegestaan om met andere dan de in artikel 5.4, eerste lid, genoemde beroepsbeoefenaren, samenwerkingsverbanden en praktijkrechtspersonen onder een gemeenschappelijke naam naar buiten op te treden. 
 
 ### Afdeling  5.3  
 
 ####Bestuurders
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  5.6  
 
 ####Bestuurders van samenwerkingsverbanden en rechtspersonen
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Indien het samenwerkingsverband of de praktijkrechtspersoon een bestuur heeft is de meerderheid van het bestuur en de voorzitter ervan advocaat of beoefenaar van een toegelaten vrij beroep.   
 2.  Een bestuurder, die niet een advocaat of beoefenaar van een toegelaten vrij beroep is: 
@@ -1271,13 +1033,9 @@ c. kan een verklaring omtrent het gedrag overleggen als bedoeld in artikel 28 va
 
 ####Rechtspersonen
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  5.7  
 
 ####Oprichten van praktijkrechtspersoon
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De statuten van een praktijkrechtspersoon voldoen aan de volgende eisen: 
 
@@ -1301,8 +1059,6 @@ b. de statuten bepalen dat alle bestuurders en voor zover van toepassing alle di
 
 ####Aandeelhouderschap en stemrecht
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  Alle aandelen van een praktijkrechtspersoon en een houdster-rechtspersoon met een in aandelen verdeeld kapitaal en de daarmee verbonden stemrechten of certificaten ervan zijn in handen van: 
 
 a. advocaten of van beoefenaren van een toegelaten vrij beroep die de praktijk binnen de praktijkrechtspersoon uitoefenen of binnen een praktijkrechtspersoon waarvan de aandelen direct of indirect worden gehouden; of  
@@ -1315,13 +1071,9 @@ b. houdster-rechtspersonen, waarvan het bestuur uitsluitend bestaat uit advocate
 
 ####Praktijkuitoefening in dienst
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  5.9  
 
 ####Toegestane dienstverbanden
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 Een advocaat kan uitsluitend de praktijk uitoefenen in dienst van: 
 
@@ -1343,8 +1095,6 @@ g. een andere werkgever, zolang de advocaat binnen dat dienstverband uitsluitend
 
 ####Toegestane organisaties met ideële doelstelling
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  Een organisatie met een ideële doelstelling als bedoeld in artikel 5.9, onderdeel f: 
 
 a. beperkt haar activiteiten feitelijk en statutair tot het zonder winstoogmerk nastreven van een ideëel doel dat maatschappelijk van wezenlijke betekenis is en dat naar zijn aard parallel loopt met het gezamenlijke belang van haar leden of op vergelijkbare wijze bij de organisatie aangeslotenen;  
@@ -1362,16 +1112,12 @@ b. de behandeling van zaken waarvan naar hun aard aannemelijk is dat de wederpar
 
 ####Verzekerde rechtsbijstand
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  De advocaat in dienst van een werkgever als bedoeld in artikel 5.9, onderdeel e, kan uitsluitend optreden in die hoedanigheid ten behoeve van de werkgever of bij die werkgever verzekerden.   
 2.  Indien de advocaat, bedoeld in het eerste lid, wordt verzocht de belangen van de verzekerde in een gerechtelijke of administratieve procedure te verdedigen, te vertegenwoordigen of te behartigen biedt hij de verzekerde de keuze de behartiging van zijn belangen toe te vertrouwen aan een advocaat of een andere rechtens bevoegde deskundige van zijn keuze.  
 
 ### Artikel  5.12  
 
 ####Professioneel statuut
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Een advocaat kan de praktijk uitsluitend in dienst uitoefenen van een werkgever als bedoeld in artikel 5.9, onderdelen e, f en g, indien hij een door hem en zijn werkgever ondertekend professioneel statuut heeft, gelijk aan het model, bedoeld in het derde lid.   
 2.  Het eerste lid is van overeenkomstige toepassing op een advocaat in dienst bij een werkgever als bedoeld in artikel 5.9, onderdelen c en d, in geval de zeggenschap over de praktijkrechtspersoon of het samenwerkingsverband in meerderheid bij niet-advocaten is belegd.   
@@ -1381,8 +1127,6 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Voorkomen tegenstrijdige belangen
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  Het is de advocaat die de praktijk in dienst uitoefent niet toegestaan in enige zaak voor een of meer cliënten op te treden, wanneer hij daarbij uit hoofde van het dienstverband belangen in acht zou moeten nemen die strijden met het belang van die cliënt of cliënten of wanneer een daarop uitlopende ontwikkeling aannemelijk is.   
 2.  De praktijkuitoefening van een *advocaat in dienst* van een werkgever is te verenigen met een door hem buiten dat dienstverband uitgeoefende rechtspraktijk, mits de advocaat in afdoende mate ervoor zorgdraagt dat geen belangenverstrengeling kan ontstaan, dat verwarring omtrent de hoedanigheid waarin hij optreedt is uitgesloten en hij van deze rechtspraktijk bij de deken melding maakt.  
 
@@ -1390,15 +1134,11 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Kenbare hoedanigheid
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 De advocaat in dienst van een werkgever behoudt bij alle binnen het dienstverband voorkomende werkzaamheden de hoedanigheid van advocaat en maakt die hoedanigheid tegenover derden steeds duidelijk kenbaar. 
 
 ### Artikel  5.15  
 
 ####Informeren deken bij praktijkuitoefening in dienst
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De advocaat, bedoeld in artikel 5.12, eerste lid, verstrekt de deken een kopie van het door hem en zijn werkgever ondertekende professioneel statuut voorafgaand aan zijn praktijkuitoefening in dienst.   
 2.  De advocaat, bedoeld in artikel 5.12, tweede lid, verstrekt de deken een kopie van het door hem en zijn werkgever ondertekende professioneel statuut binnen een week nadat de in dat lid bedoelde situatie zich voordoet.  
@@ -1407,27 +1147,19 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Kantoororganisatie
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Afdeling  6.1  
 
 ####Interne organisatie en beschrijving werkwijze
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  6.1  
 
 ####Reikwijdte
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 Deze afdeling is niet van toepassing op advocaat-stagiaires, uitgezonderd stagiaire-ondernemers en buitenstagiaires. 
 
 ### Artikel  6.2  
 
 ####Inrichten organisatie en dienstverlening
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De advocaat richt de organisatie van zijn kantoor, alsmede de dienstverlening aan de cliënt adequaat in.   
 2.  De algemene raad kan, gehoord het college van afgevaardigden, over het bepaalde in het eerste lid nadere regels stellen.  
@@ -1436,15 +1168,11 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Aannemen zaken
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 Een advocaat neemt alleen zaken aan die hij gelet op zijn kantoororganisatie adequaat kan behandelen. 
 
 ### Artikel  6.4  
 
 ####Beschrijving werkwijze
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De advocaat beschrijft de wijze waarop hij voldoet aan de voor hem geldende regels betreffende: 
 
@@ -1473,13 +1201,9 @@ j. belangenverstrengeling.
 
 ####Administratie
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  6.5  
 
 ####Administratieplicht
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Voor zover niet reeds bepaald in de artikelen 2:10 respectievelijk 3:15i van het Burgerlijk Wetboek: 
 
@@ -1492,19 +1216,13 @@ b. stelt een advocaat de balans en de staat van baten en lasten op schrift binne
 
 ####Geheimhoudernummers
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Paragraaf  6.3.1  
 
 ####Doel registreren geheimhoudernummers
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  6.6  
 
 ####Doel registratie
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 De secretaris van de algemene raad registreert geheimhoudernummers met het oog op de verstrekking ervan aan derden ter waarborging van de vertrouwelijkheid van de communicatie tussen advocaat en cliënt. 
 
@@ -1512,13 +1230,9 @@ De secretaris van de algemene raad registreert geheimhoudernummers met het oog o
 
 ####Verstrekking geheimhoudernummers
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  6.7  
 
 ####Verstrekking aan centrale opsporingsinstanties
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De secretaris van de algemene raad kan aan bij opsporing betrokken partijen geheimhoudernummers verstrekken voor het in artikel 6.6 genoemde doel.   
 2.  De Nederlandse orde van advocaten sluit daartoe, gehoord het college van afgevaardigden, met de bij opsporing betrokken partijen een overeenkomst.  
@@ -1527,8 +1241,6 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Verstrekken aan derden
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  De secretaris van de algemene raad kan op verzoek van een advocaat zijn geheimhoudernummers aan anderen dan bij opsporing betrokken partijen verstrekken voor het in artikel 6.6 genoemde doel.   
 2.  De Nederlandse orde van advocaten sluit daartoe, gehoord het college van afgevaardigden, met deze anderen een overeenkomst.  
 
@@ -1536,21 +1248,15 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Verwerking kennisgevingen geheimhoudernummers
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 De secretaris van de algemene raad verwerkt kennisgevingen ten aanzien van geheimhoudernummers zo snel mogelijk in het register van geheimhoudernummers. 
 
 ### Paragraaf  6.3.3  
 
 ####Opgave geheimhoudernummers
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  6.10  
 
 ####Opgave geheimhoudernummers
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De advocaat doet aan de secretaris van de algemene raad opgave van zijn geheimhoudernummers en van die van personen met een van hem afgeleid verschoningsrecht.   
 2.  De algemene raad stelt nadere regels over de nummers die de advocaat opgeeft afhankelijk van soort praktijk, soorten geheimhouders of samenwerkingsvormen.   
@@ -1559,8 +1265,6 @@ Treedt in werking op een nader te bepalen tijdstip
 ### Artikel  6.11  
 
 ####Zorgplicht geheimhoudernummers
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Een advocaat maakt gebruik van een ingevolge artikel 6.10 opgegeven geheimhoudernummer voor de vertrouwelijke communicatie, tenzij zwaarwegende omstandigheden zich daartegen verzetten.   
 2.  De advocaat draagt er zorg voor dat een persoon met een van hem afgeleid verschoningsrecht gebruik maakt van een ingevolge artikel 6.10 opgegeven geheimhoudernummer voor diens vertrouwelijke communicatie.   
@@ -1571,8 +1275,6 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Misbruik of verlies opgegeven geheimhoudernummers
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  De advocaat die zijn telefoon of faxapparaat met geheimhoudernummer laat gebruiken of heeft laten gebruiken onder dwang meldt dat zo spoedig mogelijk aan de secretaris van de algemene raad.   
 2.  Bij verlies of diefstal van een mobiele telefoon met geheimhoudernummer laat de advocaat het nummer zo spoedig mogelijk blokkeren en meldt hij dit zo snel mogelijk aan de secretaris van de algemene raad.   
 3.  De advocaat draagt er zorg voor dat een persoon met een van hem afgeleid verschoningsrecht die zijn telefoon of faxapparaat met geheimhoudernummer laat gebruiken of heeft laten gebruiken onder dwang of doordat het toestel niet meer in zijn macht is door verlies of diefstal, dat zo spoedig mogelijk aan hem meldt. Het eerste en tweede lid zijn van overeenkomstige toepassing.  
@@ -1581,13 +1283,9 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Advocatenpas en authenticatiemiddel
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  6.13  
 
 ####Advocatenpas
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Een advocaat beschikt over een advocatenpas, uitgegeven door een leverancier die door de algemene raad is geselecteerd op grond van artikel 6.16.   
 2.  De advocatenpas is tevens het authenticatiemiddel voor de beveiligde internetomgeving van de Nederlandse orde van advocaten en de orden van advocaten in de arrondissementen.  
@@ -1596,8 +1294,6 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Gemachtigden
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  Een advocaat kan een authenticatiemiddel aanvragen voor door hem gemachtigde personen.   
 2.  Een advocaat kan uitsluitend personen machtigen die onder zijn verantwoordelijkheid werkzaam zijn en advocaten die binnen hetzelfde kantoor of op hetzelfde adres werkzaam zijn.   
 3.  De advocaat draagt er zorg voor dat de gemachtigde het authenticatiemiddel gebruikt conform zijn opdracht en met inachtneming van het bepaalde bij of krachtens deze afdeling.  
@@ -1605,8 +1301,6 @@ Treedt in werking op een nader te bepalen tijdstip
 ### Artikel  6.15  
 
 ####Informeren bij vermissing of schade
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 De advocaat informeert de leverancier van het authenticatiemiddel onverwijld: 
 
@@ -1618,8 +1312,6 @@ b. indien de machtiging voor een gemachtigde is ingetrokken.
 
 ####Selectie leveranciers en nadere regels
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  De algemene raad selecteert de leveranciers van de advocatenpas en het authenticatiemiddel.   
 2.  De algemene raad kan nadere regels stellen over de advocatenpas en het authenticatiemiddel, onder meer met betrekking tot de aanvraag, uitgifte en de geldigheid ervan.  
 
@@ -1627,35 +1319,25 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Informatie door secretaris van de algemene raad
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 De secretaris van de algemene raad informeert de leverancier van de advocatenpas en het authenticatiemiddel onverwijld over opschorting van de stage dan wel schrapping of doorhaling van het tableau of schorsing in de uitoefening van de praktijk van een advocaat. 
 
 ### Afdeling  6.5  
 
 ####Derdengelden
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Paragraaf  6.5.1  
 
 ####Derdengelden
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  6.18  
 
 ####Reikwijdte derdengelden
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 Afdeling 6.5 is niet van toepassing op de advocaat die optreedt in een hoedanigheid die het gevolg is van een rechterlijke benoeming, indien en voor zover daarbij voorzien is in een regeling voor het beheer van derdengelden. 
 
 ### Artikel  6.19  
 
 ####Derdengelden
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Een advocaat draagt er zorg voor dat derdengelden worden overgemaakt hetzij rechtstreeks naar de rechthebbende, hetzij naar de bankrekening van de stichting derdengelden die hem ter beschikking staat.   
 2.  De advocaat die derdengelden onder zich heeft, maakt de gelden zodra de gelegenheid zich voordoet over naar de bankrekening van de stichting derdengelden of van de rechthebbende, en administreert het bedrag, de datum en wijze van ontvangst, de datum van overmaking, de begunstigde en de naam van de behandelend advocaat.   
@@ -1667,8 +1349,6 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Waardepapieren en kostbaarheden
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  Artikel 6.19 is, zo mogelijk, van overeenkomstige toepassing op waardepapieren en kostbaarheden die de advocaat bij wijze van derdengelden ontvangt.   
 2.  De advocaat mag slechts gelden, geldswaardige papieren, kostbaarheden of andere zaken aannemen of bewaren, indien hij zich ervan heeft vergewist welke gelden, geldswaardige papieren, kostbaarheden of andere zaken het betreft en zich ervan heeft overtuigd dat dit in het kader van een door hem behandelde zaak een redelijk doel dient.  
 
@@ -1676,21 +1356,15 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Stichting derdengelden
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  6.21  
 
 ####Beschikbaarheid stichting derdengelden
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 Een advocaat heeft een stichting derdengelden ter beschikking, die voldoet aan de eisen opgenomen in artikel 6.22. 
 
 ### Artikel  6.22  
 
 ####Eisen stichting derdengelden
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De stichting derdengelden heeft statuten overeenkomstig het model, bedoeld in het tiende lid; de naam van de stichting bevat ten minste de woorden 'stichting', 'beheer' en 'derdengelden'.   
 2.  De stichting derdengelden strekt tot een goede uitvoering van artikel 6.19.   
@@ -1717,8 +1391,6 @@ b. degene die in dienst is bij het kantoor van een bestuurder van de stichting.
 
 ####Bestuurder stichting derdengelden
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  Een advocaat die bestuurder is van een stichting derdengelden is gehouden de bepalingen van deze afdeling na te leven.   
 2.  Een advocaat die bestuurder is van een stichting derdengelden verleent geen medewerking aan handelingen die strijdig zijn met de bepalingen van deze afdeling.   
 3.  Een advocaat die bestuurder is van een stichting derdengelden maakt derdengelden onmiddellijk over aan de rechthebbende, zodra daartoe door of namens de behandelend advocaat opdracht is gegeven, met inachtneming van artikel 6.22, achtste lid.  
@@ -1727,13 +1399,9 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Beroepsaansprakelijkheid
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  6.24  
 
 ####Beroepsaansprakelijkheidsverzekering
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De advocaat is adequaat verzekerd ter zake van het risico van zijn beroepsaansprakelijkheid.   
 2.  Het eerste lid is niet van toepassing op het risico dat een advocaat die de praktijk in dienst uitoefent schade toebrengt aan zijn werkgever, voor zover de werkgever hem voor deze schade op voorhand schriftelijk vrijwaart. In dat geval blijft voor de advocaat die de praktijk in dienst uitoefent de verplichting bestaan een aansprakelijkheidsverzekering te sluiten voor schade, als advocaat toegebracht aan derden.   
@@ -1744,8 +1412,6 @@ Treedt in werking op een nader te bepalen tijdstip
 ### Artikel  6.25  
 
 ####Dekking van verzekering
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 De in artikel 6.24, eerste lid, bedoelde verzekering: 
 
@@ -1765,8 +1431,6 @@ f. omvat voor een samenwerkingsverband van meer dan twee advocaten geen eigen ri
 
 ####Beperking aansprakelijkheid
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 Een advocaat kan schriftelijk met de cliënt overeenkomen dat de beroepsaansprakelijkheid, buiten het bedrag van het eigen risico, wordt beperkt tot het bedrag waarop de verzekering aanspraak op uitkering geeft, indien: 
 
 a. de advocaat voldoet aan artikel 6.24;  
@@ -1777,13 +1441,9 @@ b. de verzekering voldoet aan artikel 6.25.
 
 ####Betalingen aan en door advocaat
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  6.27  
 
 ####Betalingen aan en door advocaat
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De advocaat verricht of aanvaardt in het kader van zijn praktijkuitoefening betalingen slechts giraal behoudens het bepaalde in het tweede en derde lid.   
 2.  De advocaat kan betalingen in het kader van zijn praktijkuitoefening alleen dan in contanten verrichten of aanvaarden, indien er feiten of omstandigheden zijn die dat rechtvaardigen en met inachtneming van het bepaalde in het derde lid.   
@@ -1793,13 +1453,9 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Klachten en geschillen
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  6.28  
 
 ####Kantoorklachtenregeling
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De advocaat beschikt over een kantoorklachtenregeling die voldoet aan het bepaalde in het tweede lid. De advocaat draagt er zorg voor dat klachten conform de kantoorklachtenregeling worden behandeld.   
 2.  De in het eerste lid bedoelde kantoorklachtenregeling regelt in ieder geval: 
@@ -1825,15 +1481,11 @@ h. bij welke onafhankelijke partij een klacht die na behandeling niet is opgelos
 
 ####Geschilbeslechting
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 Indien de advocaat, de praktijkrechtspersoon of het samenwerkingsverband in de overeenkomst van opdracht opneemt dat geschillen over de totstandkoming en de uitvoering van deze overeenkomst, de kwaliteit van de dienstverlening of de hoogte van de declaratie ter beslechting worden voorgelegd aan een ander dan de bevoegde rechter, dan vindt deze geschilbeslechting in ieder geval plaats door middel van een overeenkomst tot arbitrage, bedoeld in artikel 1020 van het Wetboek van Burgerlijke Rechtsvordering of door middel van een vaststellingsovereenkomst, bedoeld in artikel 900 van Boek 7 van het Burgerlijk Wetboek. 
 
 ### Artikel  6.30  
 
 ####Klachtregistratie
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 De klachtenfunctionaris houdt een overzicht bij van alle binnengekomen klachten met daarbij het onderwerp van de klacht. 
 
@@ -1841,19 +1493,13 @@ De klachtenfunctionaris houdt een overzicht bij van alle binnengekomen klachten 
 
 ####Relatie advocaat – cliënt
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Afdeling  7.1  
 
 ####Controle door advocaat
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  7.1  
 
 ####Controle identiteit cliënt en wettigheid opdracht
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Bij aanvaarding van de opdracht vergewist de advocaat zich van de identiteit van de cliënt en in voorkomend geval tevens van de identiteit van de tussenpersoon die de opdracht namens de cliënt verstrekt, tenzij de aard of de omstandigheden van de zaak dit onmogelijk maken.   
 2.  Bij de aanvaarding van de opdracht gaat de advocaat na of in redelijkheid aanwijzingen bestaan dat de opdracht strekt tot voorbereiding, ondersteuning of afscherming van onwettige activiteiten.  
@@ -1862,8 +1508,6 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Twijfel identiteit cliënt
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  De advocaat mag afgaan op de juistheid van de hem door de cliënt verstrekte gegevens zolang in redelijkheid aanwijzingen van het tegendeel ontbreken.   
 2.  Indien de advocaat gerede twijfel heeft, dan wel indien er omstandigheden zijn die gerede twijfel rechtvaardigen, over de juistheid van de door of namens de cliënt verschafte gegevens of de identiteit van de cliënt of de tussenpersoon, stelt de advocaat een onderzoek in naar de juistheid van de verschafte gegevens, de achtergrond van de cliënt, de tussenpersoon onderscheidenlijk het doel van de opdracht, tenzij de aard of omstandigheden van de zaak dit onmogelijk maken.  
 
@@ -1871,21 +1515,15 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Weigeren dienstverlening
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 De advocaat onthoudt zich van de verlening van diensten of legt een opdracht neer, indien hij in redelijkheid niet in voldoende mate de gegevens, bedoeld in artikel 7.1 en artikel 7.2 heeft verkregen, of indien in redelijkheid aanwijzingen bestaan dat de opgedragen diensten strekken tot de voorbereiding, ondersteuning of afscherming van onwettige activiteiten. 
 
 ### Afdeling  7.2  
 
 ####Communicatie algemeen
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  7.4  
 
 ####Informatieverstrekking
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De advocaat vermijdt in zijn optreden naar buiten dat een onjuiste, misleidende of onvolledige voorstelling van zaken wordt gegeven omtrent de wijze van praktijkuitoefening en omtrent enige vorm van samenwerking.   
 2.  De advocaat, die optreedt voor een of meer cliënten niet zijnde zijn werkgever, maakt in aanvulling op de artikelen 6:230b tot en met 6:230e van het Burgerlijk Wetboek, openbaar en publiekelijk toegankelijk bekend: 
@@ -1904,8 +1542,6 @@ e. de kantoorklachtenregeling, bedoeld in artikel 6.28, eerste lid.
 
 ####Opdrachtbevestiging
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  De advocaat informeert zijn cliënt over de persoon, het samenwerkingsverband of de rechtspersoon met wie de cliënt de overeenkomst van opdracht sluit.   
 2.  De advocaat informeert de cliënt wie betrokken is bij de uitvoering van de opdracht.  
 
@@ -1913,13 +1549,9 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Cassatieadvies civiel
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  7.6  
 
 ####Adviseren cliënt inzake civiele cassatie
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 De advocaat bij de Hoge Raad adviseert de cliënt of, indien van toepassing, de advocaat die opdrachtgever is, tijdig en schriftelijk over: 
 
@@ -1933,19 +1565,13 @@ c. de opportuniteit van het cassatieberoep dan wel -verweer, gelet op de te verw
 
 ####Resultaatgerelateerd honorarium
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Paragraaf  7.4.1  
 
 ####Verbod op resultaatgerelateerd honorarium
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  7.7  
 
 ####Verbod op resultaatgerelateerd honorarium
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Het staat de advocaat niet vrij overeen te komen, dat: 
 
@@ -1958,13 +1584,9 @@ b. het honorarium een evenredig deel zal bedragen van de waarde van het door zij
 
 ####Incassotarief
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  7.8  
 
 ####Uitzondering incassotarief
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 Een advocaat kan gebruik maken van een binnen de advocatuur gebruikelijk en aanvaard incassotarief. 
 
@@ -1972,13 +1594,9 @@ Een advocaat kan gebruik maken van een binnen de advocatuur gebruikelijk en aanv
 
 ####Experiment letsel- en overlijdensschadezaken
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  7.9  
 
 ####Voorwaarden letsel- en overlijdensschadezaken
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 Een advocaat kan de bepalingen van deze paragraaf toepassen bij letsel- en overlijdensschadezaken, indien: 
 
@@ -1990,8 +1608,6 @@ b. de cliënt niet in aanmerking komt voor door de overheid gefinancierde rechts
 
 ####Vergoeding advocaat
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 De advocaat kan met zijn cliënt overeenkomen dat hij geen honorarium in rekening brengt indien het financiële resultaat voor de cliënt minder is dan of gelijk is aan nihil, en 
 
 a. indien de specifieke kosten voor rekening van de cliënt blijven, dat hij zijn gebruikelijke uurtarief vermenigvuldigt met ten hoogste factor 2, en dat hij een honorarium in rekening brengt, inclusief algemene kantoorkosten en BTW, van ten hoogste 25 procent van het financiële resultaat; of  
@@ -2001,8 +1617,6 @@ b. indien de betrokken advocaat alle specifieke kosten voldoet en deze kosten sl
 ### Artikel  7.11  
 
 ####Bijzondere normen advocaat
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De advocaat informeert de cliënt schriftelijk voorafgaand aan het sluiten van de overeenkomst ten minste over: 
 
@@ -2019,8 +1633,6 @@ c. de redelijkerwijs te verwachten specifieke kosten in deze zaak en de mogelijk
 ### Artikel  7.12  
 
 ####Inhoud overeenkomst
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 Een overeenkomst die afspraken aangaande het honorarium bevat wordt door beide partijen ondertekend en bevat in ieder geval: 
 
@@ -2056,8 +1668,6 @@ h. een bepaling waarin is vastgelegd dat de cliënt na het tekenen van de overee
 
 ####Informeren deken over resultaatgerelateerd honorarium
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  De advocaat die voornemens is voor de eerste maal een overeenkomst te sluiten als bedoeld in artikel 7.10, stelt vooraf daaraan de deken op de hoogte van dit voornemen.   
 2.  De advocaat die in een of meer zaken toepassing geeft aan de bepalingen van paragraaf 7.4.3 verstrekt de deken uit eigen beweging binnen twee maanden na afloop van elk kalenderjaar door middel van een door de algemene raad vastgesteld formulier de volgende gegevens: 
 
@@ -2086,13 +1696,9 @@ j. of sprake is van tussentijdse beëindiging van de door de advocaat verleende 
 
 ####Besluitvorming en rechtsbescherming
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  8.1  
 
 ####Beschikkingen onder voorwaarden
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 De raad van de orde kan voorwaarden verbinden aan: 
 
@@ -2103,8 +1709,6 @@ b. goedkeuringen, bedoeld in artikel 3.5 en artikel 3.6.
 ### Artikel  8.2  
 
 ####Uitsluiten toepassing lex silencio positivo
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 Met toepassing van artikel 28, eerste lid, laatste zinsnede van de Dienstenwet is paragraaf 4.1.3.3 van de Algemene wet bestuursrecht niet van toepassing op de volgende beschikkingen: 
 
@@ -2123,8 +1727,6 @@ f. de vrijstelling van de opleidingspunten bij civiele cassatie, bedoeld in arti
 ### Artikel  8.3  
 
 ####Administratief beroep
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Onverminderd het bepaalde in artikel 9b, vijfde lid, van de Advocatenwet kan een belanghebbende administratief beroep instellen bij de algemene raad tegen de volgende beschikkingen van de raad van de orde of de daaraan verbonden voorwaarden: 
 
@@ -2147,27 +1749,19 @@ g. de weigering van de goedkeuring van een patronaat, bedoeld in artikel 3.6, ee
 
 ####Adviescommissie civiele cassatie bij bezwaar
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 Bij bezwaren tegen beschikkingen genomen op grond van afdeling 4.2 vraagt de algemene raad de adviescommissie civiele cassatie om advies. 
 
 ### Hoofdstuk  9  
 
 ####Overgangsrecht
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Afdeling  9.1  
 
 ####Stage
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  9.1  
 
 ####Overgangsrecht Stageverordening
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Voor stagiaires die beschikken over een op grond van de Stageverordening 2005 afgegeven bewijs dat het in artikel 9c van de Advocatenwet bedoelde examen met gunstig gevolg is afgelegd en voor stagiaires die beëdigd zijn voor 1 maart 2013, ingeschreven zijn voor de beroepsopleiding en vanaf inwerkingtreding van dit artikel zonder onderbreking op het tableau staan ingeschreven, blijven de Stageverordening 2005 en de daarop berustende bepalingen van toepassing totdat de stagiaire aan de daaruit voortvloeiende verplichtingen heeft voldaan.   
 2.  Indien de in het eerste lid bedoelde stagiaire op 1 september 2014 niet in het bezit is van het in het eerste lid genoemde bewijs kan de algemene raad, in afwijking van het eerste lid, aan de stagiaire alternatieve maatregelen opleggen ter afronding van de beroepsopleiding.   
@@ -2187,21 +1781,15 @@ d. geen certificaat als bedoeld in artikel 8c, tweede lid, van de Advocatenwet h
 
 ####Omhangbepaling Stageverordening 2012
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 Besluiten genomen op grond van Stageverordening 2012 worden aangemerkt als besluiten op grond van deze verordening. 
 
 ### Afdeling  9.2  
 
 ####Vakbekwaamheid
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  9.3  
 
 ####Overgangsrecht opleidingspunten
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Het bepaalde in het tweede en derde lid geldt naast de in artikel 4.4, derde lid, genoemde mogelijkheid om een tekort aan opleidingspunten te compenseren.   
 2.  Een advocaat kan een overschot aan opleidingspunten verkregen in 2013 gebruiken om een tekort aan opleidingspunten in het jaar 2015 te compenseren met een maximum van tien opleidingspunten indien hij: 
@@ -2223,13 +1811,9 @@ c. in 2013 en 2014 geen afspraken met de deken had om opleidingspunten in te hal
 
 ####Samenwerking
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  9.4  
 
 ####Overgangsrecht bestuurders en statuten
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Op een samenwerkingsverband dat of praktijkrechtspersoon die voor het moment van inwerkingtreding van artikel 5.6 een bestuurder heeft die niet voldoet aan artikel 5.6, tweede lid, aanhef en onderdeel b, is artikel 5.6, tweede lid, van toepassing een jaar na inwerkingtreding van dat artikel.   
 2.  Artikel 5.7 is van toepassing op statuten van praktijk- en houdster-rechtspersonen die bestaan op het moment van inwerkingtreding van dat artikel indien deze na dat moment worden aangepast of nadat vijf jaar zijn verstreken na inwerkingtreding van dat artikel.  
@@ -2238,13 +1822,9 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Slotbepalingen
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  10.1  
 
 ####Intrekken van bestaande verordeningen
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 De volgende verordeningen worden ingetrokken: 
 
@@ -2276,8 +1856,6 @@ l. de Samenwerkingsverordening 1993.
 
 ####Intrekken van bestaande regelingen
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 De volgende regelingen worden ingetrokken: 
 
 a. de Regeling vacatiegelden en kostenvergoedingen 2012;  
@@ -2302,15 +1880,11 @@ i. het Reglement vakbekwaamheidseisen civiele cassatieadvocatuur.
 
 ####Einde experiment resultaatgerelateerd honorarium
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 Wijzigt dit besluit. 
 
 ### Artikel  10.4  
 
 ####Evaluatiebepaling cassatieadvocatuur
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 De algemene raad doet voor 1 juli 2015 verslag aan het college van afgevaardigden over de effectiviteit en doelmatigheid van de regels met betrekking tot de vakbekwaamheidseisen bedoeld in paragraaf 2.1.3 (Commissie civiele cassatie), paragraaf 2.1.4 (Adviescommissie civiele cassatie) en paragraaf 4.2.2 (Verklaring voor aantekening civiele cassatie). 
 
@@ -2318,14 +1892,10 @@ De algemene raad doet voor 1 juli 2015 verslag aan het college van afgevaardigd
 
 ####Inwerkingtreding
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 De artikelen in deze verordening treden in werking op een door de algemene raad te bepalen tijdstip, dat voor de verschillende artikelen en onderdelen daarvan verschillend kan worden vastgesteld. 
 
 ### Artikel  10.6  
 
 ####Citeertitel
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 Deze verordening wordt aangehaald als: Verordening op de advocatuur. 

@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 2 november 2006, nr. SV/V&G/06/89123;
 
-Gelet op [artikel 29a, zevende lid, van de Algemene nabestaandenwet](../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md) en [artikel 7, eerste lid, van de Remigratiewet](../../../../../wet/remigratiewet/BWBR0010424/README.md) en [artikel 33b, vierde lid, van de Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md);
+Gelet op artikel 29a, zevende lid, van de Algemene nabestaandenwet en artikel 7, eerste lid, van de Remigratiewet en artikel 33b, vierde lid, van de Algemene Ouderdomswet;
 
 De Raad van State gehoord (advies van 9 november 2006, nr. W12.06.0473/IV);
 
@@ -17,14 +17,14 @@ Hebben goedgevonden en verstaan:
 
 ####Begripsomschrijving
 
-Voor de toepassing van dit besluit wordt verstaan onder tegemoetkoming: de tegemoetkoming, bedoeld in [artikel 29a van de Algemene nabestaandenwet](../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md). 
+Voor de toepassing van dit besluit wordt verstaan onder tegemoetkoming: de tegemoetkoming, bedoeld in artikel 29a van de Algemene nabestaandenwet. 
 
 ### Artikel  2  
 
 ####Hoogte tegemoetkoming
 
-1.  De tegemoetkoming bedraagt € 15,61 per 1 januari 2014: € 16,50 per maand.   
-2.  Dit bedrag wordt jaarlijks aangepast overeenkomstig de tabelcorrectiefactor, bedoeld in [artikel 10.2 van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).   
+1.  De tegemoetkoming bedraagt € 15,61 per 1 januari 2015: € 16,65 per maand.   
+2.  Dit bedrag wordt jaarlijks aangepast overeenkomstig de tabelcorrectiefactor, bedoeld in artikel 10.2 van de Wet inkomstenbelasting 2001.   
 3.  Van het aangepaste bedrag en de dag waarop deze aanpassing plaatsvindt, wordt door Onze Minister van Sociale Zaken en Werkgelegenheid mededeling gedaan in de Staatscourant.  
 
 ### Artikel  3  
@@ -35,13 +35,13 @@ De betaling van de tegemoetkoming geschiedt maandelijks tezamen met de betaling 
 
 ### Artikel  4  
 
-####Wijziging van het [Besluit voorzieningen Remigratiewet](../../../../../AMvB/besluit/voorzieningen/remigratiewet/BWBR0010773/README.md)
+####Wijziging van het Besluit voorzieningen Remigratiewet
 
 Wijzigt het Besluit voorzieningen Remigratiewet. 
 
 ### Artikel  5  
 
-####Wijziging van het [Besluit tegemoetkoming AOW-ers](../../../../../AMvB/besluit/tegemoetkoming/aow-ers/BWBR0019386/README.md)
+####Wijziging van het Besluit tegemoetkoming AOW-ers
 
 Wijzigt het Besluit tegemoetkoming AOW-ers. 
 
@@ -49,13 +49,13 @@ Wijzigt het Besluit tegemoetkoming AOW-ers.
 
 ####Overgangsbepaling
 
-De artikelen 2, eerste lid, en 5, onderdeel 1, vinden eerst toepassing nadat artikel 2, tweede lid, en [artikel 2, tweede lid, van het Besluit tegemoetkoming AOW-ers](../../../../../AMvB/besluit/tegemoetkoming/aow-ers/BWBR0019386/README.md) bij het begin van het kalenderjaar 2007 zijn toegepast. 
+De artikelen 2, eerste lid, en 5, onderdeel 1, vinden eerst toepassing nadat artikel 2, tweede lid, en artikel 2, tweede lid, van het Besluit tegemoetkoming AOW-ers bij het begin van het kalenderjaar 2007 zijn toegepast. 
 
 ### Artikel  7  
 
 ####Inwerkingtreding
 
-1.  Indien het bij koninklijke boodschap van 21 augustus 2006 ingediende voorstel van wet houdende wijziging van de Algemene nabestaandenwet en enige andere wetten in verband met de verlening van een tegemoetkoming aan personen die een uitkering ontvangen op grond van de [Algemene nabestaandenwet](../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md) nadat het tot wet is verheven, in werking treedt, treedt dit besluit, met uitzondering van artikel 5, in werking op hetzelfde tijdstip; indien het Staatsblad waarin die wet wordt geplaatst, wordt uitgegeven na 31 december 2006, treedt het in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, en werkt het terug tot en met 1 januari 2007.   
+1.  Indien het bij koninklijke boodschap van 21 augustus 2006 ingediende voorstel van wet houdende wijziging van de Algemene nabestaandenwet en enige andere wetten in verband met de verlening van een tegemoetkoming aan personen die een uitkering ontvangen op grond van de Algemene nabestaandenwet nadat het tot wet is verheven, in werking treedt, treedt dit besluit, met uitzondering van artikel 5, in werking op hetzelfde tijdstip; indien het Staatsblad waarin die wet wordt geplaatst, wordt uitgegeven na 31 december 2006, treedt het in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, en werkt het terug tot en met 1 januari 2007.   
 2.  Artikel 5 treedt in werking met ingang van 1 januari 2007.  
 
 ### Artikel  8  

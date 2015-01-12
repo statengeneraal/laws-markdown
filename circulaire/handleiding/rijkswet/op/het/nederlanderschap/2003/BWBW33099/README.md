@@ -3685,13 +3685,16 @@ Naast rechtmatig verblijf op grond van artikel 8, aanhef en onder a tot en met e
 
 #### Algemeen
 
-Let op! Voor deze bepaling geldt overgangsrecht. Zie de toelichting bij artikel 7 RWN, onder ‘Overgangsrecht’. Het begrip inburgering is tweeledig: enerzijds moet de verzoeker beschikken over kennis van de Nederlandse taal en anderzijds moet hij zich hebben doen opnemen in de Nederlandse samenleving.
-###Historie
+Let op! Voor deze bepaling geldt overgangsrecht. Zie de toelichting bij artikel 7 RWN, onder ‘Overgangsrecht’. Het begrip inburgering is tweeledig: enerzijds moet de verzoeker beschikken over kennis van de Nederlandse taal en anderzijds moet hij zich hebben doen opnemen in de Nederlandse samenleving. 
+### *Historie* 
 
-Sinds 1 april 2003 geldt dat er een diploma moet worden overgelegd als bewijs dat de verzoeker als ingeburgerd kan worden beschouwd. Per die datum is de naturalisatietoets geïntroduceerd (zie de toen geldende handleiding voor een nadere uitleg van die bepaling). Sinds 1 april 2007 is geregeld dat de naturalisatietoets het inburgeringsexamen is. Verzoekers die op of na 1 april 2007 een verzoek om naturalisatie hebben ingediend, moeten het in 2007 ingevoerde inburgeringsexamen hebben afgelegd. In sommige gevallen kan verzoeker in aanmerking komen voor een (gedeeltelijke) vrijstelling of ontheffing van het inburgeringsexamen. Op basis van een advies van de burgemeester stelt Onze Minister vast of verzoeker (gedeeltelijk) vrijgesteld is en beoordeelt hij of de verzoeker in aanmerking komt voor ontheffing. Vanaf 1 april 2007 geldt een nieuwe procedure aangaande medische ontheffing en een verzwaarde eis aangaande de vrijsteling op basis van het WIN-certificaat. Ook zijn de vereisten voor een beroep op ontheffing op grond van het ondanks geleverde inspanningen redelijkerwijs niet kunnen behalen van het inburgeringsexamen verzwaard (door invoering van de toets gesproken Nederlands).
-###Situatie na 1 januari 2013
+Sinds 1 april 2003 geldt dat er een diploma moet worden overgelegd als bewijs dat de verzoeker als ingeburgerd kan worden beschouwd. Per die datum is de naturalisatietoets geïntroduceerd (zie de toen geldende handleiding voor een nadere uitleg van die bepaling). Sinds 1 april 2007 is geregeld dat de naturalisatietoets het inburgeringsexamen is. Verzoekers die op of na 1 april 2007 een verzoek om naturalisatie hebben ingediend, moeten het in 2007 ingevoerde inburgeringsexamen hebben afgelegd. In sommige gevallen kan verzoeker in aanmerking komen voor een (gedeeltelijke) vrijstelling of ontheffing van het inburgeringsexamen. Op basis van een advies van de burgemeester stelt Onze Minister vast of verzoeker (gedeeltelijk) vrijgesteld is en beoordeelt hij of de verzoeker in aanmerking komt voor ontheffing. 
+### *Situatie na 1 januari 2013* 
 
-Op 1 januari 2013 is de Wet inburgering gewijzigd. Kort komt het erop neer dat het Elektronisch Praktijkexamen (EPE) en het decentraal praktijkexamen komen te vervallen. Er is nog wel een overgangstermijn tot 1 januari 2015 waarin kandidaten gebruik kunnen maken van deze examens. In plaats van deze twee examens zijn drie nieuwe examenonderdelen erbij gekomen. De vaardigheden lezen, luisteren en schrijven in de Nederlandse taal op niveau A2 van het Gemeenschappelijk Europees Referentiekader voor Moderne Vreemde Talen van de verzoeker worden getoetst. De onderdelen Toets Gesproken Nederlands (TGN) en Kennis Nederlandse Samenleving (KNS) blijven bestaan. Verzoekers die op 1 januari 2013 al bezig zijn met het inburgeringsexamen zoals dit luidde tot 1 januari 2013, krijgen 2 jaar de tijd om het inburgeringsexamen oude stijl af te maken. Deze verzoekers kunnen er ook voor kiezen om het inburgeringsexamen oude stijl niet af te maken, maar het inburgeringsexamen nieuwe stijl af te leggen. Verzoekers die na 1 januari 2013 beginnen met het afleggen van het inburgeringsexamen, zullen dus zowel het inburgeringsexamen oude stijl als nieuwe stijl kunnen doen. Dit betekent dat in ieder geval vanaf 1 januari 2013 twee verschillende inburgeringsdiploma’s overgelegd kunnen worden. De taken met betrekking tot de uitvoering van de Wet inburgering gaan op 1 januari 2013 over van de gemeente naar de minister voor Immigratie, Integratie en Asiel. De Dienst Uitvoering Onderwijs van het ministerie van Onderwijs, Cultuur en Wetenschap (DUO) voert deze taken in mandaat namens de minister voor Immigratie, Integratie en Asiel uit. Het gaat hier om handhaving van de inburgeringsplicht van inburgeringsplichtige vreemdelingen die op of na 1 januari 2013 rechtmatig verblijf krijgen in Nederland. De gemeente blijft de handhaving verzorgen van vreemdelingen die voor 1 januari 2013 al rechtmatig verblijf hadden in Nederland.
+Op 1 januari 2013 is de Wet inburgering gewijzigd. Kort komt het erop neer dat het Elektronisch Praktijkexamen (EPE) en het decentraal praktijkexamen zijn vervallen. Tot 1 januari 2015 was er een overgangstermijn waarin kandidaten gebruik konden maken van de oude examens. In plaats van deze twee examens zijn er drie nieuwe examenonderdelen bij gekomen. De vaardigheden lezen, luisteren en schrijven in de Nederlandse taal op niveau A2 van het Gemeenschappelijk Europees Referentiekader voor Moderne Vreemde Talen van de verzoeker worden getoetst. De onderdelen Toets Gesproken Nederlands (TGN) en Kennis Nederlandse Samenleving (KNS) blijven bestaan. Verzoekers die op 1 januari 2013 al bezig waren met het inburgeringsexamen zoals dit luidde tot 1 januari 2013, krijgen 2 jaar de tijd om het inburgeringsexamen oude stijl af te maken. Deze verzoekers konden er ook voor kiezen om het inburgeringsexamen oude stijl niet af te maken, maar het inburgeringsexamen nieuwe stijl af te leggen. Zie voor uitgebreidere informatie over het examen zoals dat tussen april 2007 en tot 1 januari 2015 werd afgenomen in oudere teksten van de Handleiding. Verzoekers die na 1 januari 2013 zijn begonnen met het afleggen van het inburgeringsexamen, zullen dus zowel het inburgeringsexamen oude stijl als nieuwe stijl kunnen doen. Dit betekent dat in ieder geval vanaf 1 januari 2013 twee verschillende inburgeringsdiploma’s overgelegd kunnen worden. De taken met betrekking tot de uitvoering van de Wet inburgering zijn op 1 januari 2013 overgegaan van de gemeente naar de minister voor Immigratie, Integratie en Asiel. De Dienst Uitvoering Onderwijs van het ministerie van Onderwijs, Cultuur en Wetenschap (DUO) voert deze taken in mandaat namens de minister voor Immigratie, Integratie en Asiel uit. Het gaat hier om handhaving van de inburgeringsplicht van inburgeringsplichtige vreemdelingen die op of na 1 januari 2013 rechtmatig verblijf krijgen in Nederland. De gemeente blijft de handhaving verzorgen van vreemdelingen die voor 1 januari 2013 al rechtmatig verblijf hadden in Nederland.
+### *Situatie vanaf 1 januari 2015* 
+
+Aan het inburgeringsexamen is aan het onderdeel kennis van de Nederlandse samenleving vanaf 1 januari 2015 het onderdeel oriëntatie op de Nederlandse arbeidsmarkt toegevoegd. Voor meer toelichting op het nieuwe examenonderdeel, zie de nota van Toelichting bij het Besluit van 16 oktober 2014 tot wijziging van het Besluit inburgering en het Vreemdelingenbesluit 2000 in verband met de toevoeging van een praktijkexamen ten behoeve van de oriëntatie op de Nederlandse arbeidsmarkt aan het onderdeel kennis van de Nederlandse samenleving en enkele andere wijzigingen (Stb 2014, 404). In het kader van de naturalisatietoets zijn twee categorieën vreemdelingen vrijgesteld van het afleggen van onderdeel oriëntatie op de Nederlandse arbeidsmarkt. Zie hiervoor paragraaf 2.2.1 Gedeeltelijke vrijstelling.
 ###paragraaf 2 
 
 ####Procedure
@@ -3700,29 +3703,43 @@ Op 1 januari 2013 is de Wet inburgering gewijzigd. Kort komt het erop neer dat h
 
 ####De voorlichtingsfase
 
-Aan de indiening van het verzoek om naturalisatie gaat een voorlichtingsfase vooraf, waarin de burgemeester de aspirant-verzoeker zal infomeren over het inburgeringsvereiste. In dit stadium behoeft deze laatste nog geen verzoek om naturalisatie in te dienen en dus ook geen naturalisatiegelden te voldoen. De burgemeester legt dan ook geen dossier aan, totdat door de verzoeker een verzoek om naturalisatie daadwerkelijk wordt ingediend. In de regel gebeurt dit pas nadat betrokkene het inburgeringsexamen heeft afgelegd en het bijbehorende inburgeringsdiploma kan overleggen. De burgemeester verstrekt tijdens de voorlichtingsfase een brochure en informatie over het inburgeringsexamen en verwijst betrokkene naar de exameninstellingen als het gaat om het praktijkexamen oude stijl. Als betrokkene het inburgeringsexamen nieuwe stijl doet, dan verwijst de burgemeester betrokkene naar DUO. De exameninstellingen en meer informatie over het examen zijn terug te vinden op de site www.inburgeren.nl of www.kce.nl. De burgemeester wijst erop dat voor naturalisatie alle onderdelen van het examen moeten zijn behaald op niveau A2 van het Europese Raamwerk voor Moderne Vreemde talen.
-###Naturalisatietoets (het inburgeringsexamen) tot 1 januari 2013:
-
-Dit is het inburgeringsexamen oude stijl. Let op! Op grond van de overgangsperiode kan dit examen oude stijl tot 2015 worden gedaan. Het examen bestaat uit twee onderdelen: een praktijkdeel en een centraal deel.
-###Praktijk deel
-
-Het praktijkdeel van het examen bestaat uit een onderzoek naar de vijf taalvaardigheden: spreken, luisteren, lezen, schrijven en gespreksvaardigheid. Deze vaardigheden zijn verbonden aan veel voorkomende praktijksituaties die van groot belang zijn om voldoende te kunnen deelnemen in de Nederlandse samenleving. Het praktijkdeel bestaat uit een portfolio of assessment of een combinatie van beide. Dit praktijkdeel wordt afgenomen door exameninstellingen die door de Minister voor Immigratie, Integratie en Asiel daartoe zijn aangewezen (assessment, portfolio of combinatie van beiden) en door DUO (alleen portfolio).
-###Centraal deel
-
-Het centraal deel van het examen bestaat uit drie examens die met behulp van een computer worden afgenomen: kennis van de Nederlandse samenleving (KNS), het elektronisch praktijkexamen (EPE) en toets gesproken Nederlands (TGN). Als de verzoeker verzoekt om ontheffing van het inburgeringsvereiste wordt hij verwezen naar een door het college van burgemeester en wethouders van zijn woonplaats aangewezen onafhankelijke arts of het Regionaal Opleidingen Centrum (ROC) van Amsterdam (zie hieronder paragraaf 2.3).
-###Naturalisatietoets (het inburgeringsexamen) vanaf 1 januari 2013
+Aan de indiening van het verzoek om naturalisatie gaat een voorlichtingsfase vooraf, waarin de burgemeester de aspirant-verzoeker zal infomeren over het inburgeringsvereiste. In dit stadium behoeft deze laatste nog geen verzoek om naturalisatie in te dienen en dus ook geen naturalisatiegelden te voldoen. De burgemeester legt dan ook geen dossier aan, totdat door de verzoeker een verzoek om naturalisatie daadwerkelijk wordt ingediend. In de regel gebeurt dit pas nadat betrokkene het inburgeringsexamen heeft afgelegd en het bijbehorende inburgeringsdiploma kan overleggen. De burgemeester verstrekt tijdens de voorlichtingsfase een brochure en informatie over het inburgeringsexamen en verwijst betrokkene naar DUO. De burgemeester wijst erop dat voor naturalisatie alle onderdelen van het examen moeten zijn behaald op niveau A2 van het Europese Raamwerk voor Moderne Vreemde talen. 
+### *Naturalisatietoets (het inburgeringsexamen) periode 1 januari 2013 – 1 januari 2015:* 
 
 Dit is het inburgeringsexamen nieuwe stijl. Het examen op niveau A2 van het Gemeenschappelijk Europees Referentiekader bestaat uit de volgende onderdelen: 
 
-1. leesvaardigheid;  
+1. Mondelinge en schriftelijke vaardigheden in de Nederlandse taal: 
 
-2. luistervaardigheid;  
+a. leesvaardigheid;  
 
-3. schrijfvaardigheid;  
+b. luistervaardigheid;  
 
-4. spreekvaardigheid (Toets Gesproken Nederlands (TGN)); en  
+c. schrijfvaardigheid;  
 
-5. Kennis van de Nederlandse samenleving (KNS).   Behalve het onderdeel schrijfvaardigheid worden alle andere onderdelen met de computer afgenomen. Het examen wordt afgenomen door DUO namens de minister voor Immigratie, Integratie en Asiel. DUO verstrekt informatie over de inhoud van het examen. De tarieven voor de onderdelen van het examen zijn vastgesteld in artikel 3.1 van de Regeling inburgering. Deze staan ook op www.inburgeren.nl en www.ind.nl.
+d. spreekvaardigheid (Toets Gesproken Nederlands (TGN)); en    
+
+2. Kennis van de Nederlandse samenleving (KNS): 
+
+a. kennis van de Nederlandse maatschappij.     Behalve het onderdeel schrijfvaardigheid worden alle andere onderdelen met de computer afgenomen. Het examen wordt afgenomen door DUO namens de minister voor Immigratie, Integratie en Asiel. DUO verstrekt informatie over de inhoud van het examen. De tarieven voor de onderdelen van het examen zijn vastgesteld in artikel 3.1 van de Regeling inburgering. Deze staan ook op www.inburgeren.nl en www.ind.nl. 
+### *Naturalisatietoets (het inburgeringexamen) vanaf 1 januari 2015* 
+
+Het inburgeringsexamen bestaat vanaf 1 januari 2015 uit de volgende onderdelen 
+
+1. Mondelinge en schriftelijke vaardigheden in de Nederlandse taal: 
+
+a. leesvaardigheid;  
+
+b. luistervaardigheid;  
+
+c. schrijfvaardigheid;  
+
+d. spreekvaardigheid (Toets Gesproken Nederlands (TGN)); en    
+
+2. Kennis van de Nederlandse samenleving (KNS): 
+
+a. kennis van de Nederlandse maatschappij;  
+
+b. oriëntatie op de Nederlandse arbeidsmarkt.    
 ###Paragraaf 2.1.2 
 
 ####Aanvraagfase
@@ -3781,8 +3798,8 @@ b. Het onderdeel Maatschappij Oriëntatie Naast ten minste niveau 2 voor elk van
 
 ####Gedeeltelijke vrijstelling
 
-De verzoeker kan een beroep doen op de gedeeltelijke vrijstellingsgronden als genoemd in artikel 4 van de Regeling naturalisatietoets Nederland. Als de verzoeker voor gedeeltelijke vrijstelling van het inburgeringsexamen in aanmerking wil komen moet hij het volgende overleggen:
-###1. Certificaat Oudkomers *(vrijstelling van vier taalvaardigheden)*
+De verzoeker kan een beroep doen op de gedeeltelijke vrijstellingsgronden als genoemd in artikel 4 van de Regeling naturalisatietoets Nederland. Als de verzoeker voor gedeeltelijke vrijstelling van het inburgeringsexamen in aanmerking wil komen moet hij het volgende overleggen: 
+### *1. Certificaat Oudkomers (vrijstelling van vier taalvaardigheden)* 
 
 De verzoeker die een certificaat oudkomers overlegt met alle taalonderdelen ten minste op niveau 2 en de bijbehorende verklaring onderwijsinstelling, is vrijgesteld van: 
 
@@ -3794,8 +3811,8 @@ De verzoeker die een certificaat oudkomers overlegt met alle taalonderdelen ten 
 
 * bijbehorende verklaring onderwijsinstelling; en  
 
-* resultatenbrief ‘geslaagd’ voor onderdeel KNS.  
-###2. Certificaat Naturalisatietoets (deel I), zoals die luidde tot 1 april 2007)
+* resultatenbrief ‘geslaagd’ voor onderdeel KNS.   
+### *2. Certificaat Naturalisatietoets (deel I), zoals die luidde tot 1 april 2007)* 
 
 De verzoeker is vrijgesteld van het onderdeel Kennis Nederlandse Samenleving (KNS) als hij de volgende documenten overlegt: 
 
@@ -3805,8 +3822,8 @@ De verzoeker is vrijgesteld van het onderdeel Kennis Nederlandse Samenleving (KN
 
 * resultaatbrief ‘geslaagd’ voor onderdelen leesvaardigheid, luistervaardigheid, schrijfvaardigheid en spreekvaardigheid (TGN) van het inburgeringsexamen nieuwe stijl; of  
 
-* de resultaatbrief “geslaagd” voor de onderdelen EPE, TGN en het praktijkexamen van het inburgeringsexamen oude stijl.  
-###3. Certificaat Inburgering Nieuwkomers (WIN-certificaat), maatschappij oriëntatie
+* de resultaatbrief ‘geslaagd’ voor de onderdelen EPE, TGN en het praktijkexamen van het inburgeringsexamen oude stijl.   
+### *3. Certificaat Inburgering Nieuwkomers (WIN-certificaat), maatschappij oriëntatie* 
 
 De verzoeker is vrijgesteld van het onderdeel Kennis Nederlandse Samenleving (KNS) als hij de volgende documenten overlegt: 
 
@@ -3816,8 +3833,8 @@ De verzoeker is vrijgesteld van het onderdeel Kennis Nederlandse Samenleving (KN
 
 * resultaatbrief ‘geslaagd’ voor onderdelen leesvaardigheid, luistervaardigheid, schrijfvaardigheid en spreekvaardigheid (TGN) van het inburgeringsexamen nieuwe stijl; of  
 
-* de resultaatbrief ‘geslaagd’ voor de onderdelen EPE, TGN en het praktijkexamen van het inburgeringsexamen oude stijl.  
-###4. Certificaat Inburgering Nieuwkomers (WIN-certificaat), taalonderdelen
+* de resultaatbrief ‘geslaagd’ voor de onderdelen EPE, TGN en het praktijkexamen van het inburgeringsexamen oude stijl.   
+### *4. Certificaat Inburgering Nieuwkomers (WIN-certificaat), taalonderdelen* 
 
 De verzoeker die een WIN-certificaat overlegt met alle taalonderdelen ten minste op niveau 2 en de bijbehorende verklaring van de onderwijsinstelling, is vrijgesteld van: 
 
@@ -3829,14 +3846,14 @@ De verzoeker die een WIN-certificaat overlegt met alle taalonderdelen ten minste
 
 * bijbehorende verklaring onderwijsinstelling; en  
 
-* resultaatbrief ‘geslaagd’ voor onderdeel KNS.  
-###5. Verklaring Educatie van het ROC, taalonderdelen
+* resultaatbrief ‘geslaagd’ voor onderdeel KNS.   
+### *5. Verklaring Educatie van het ROC, taalonderdelen* 
 
 De verzoeker die een Verklaring Educatie ROC met alle taalonderdelen ten minste op niveau 2 overlegt, is vrijgesteld van: 
 
 * de onderdelen leesvaardigheid, luistervaardigheid, schrijfvaardigheid en spreekvaardigheid (TGN) van het inburgeringsexamen nieuwe stijl; of  
 
-* de onderdelen EPE, TGN en het praktijkexamen van het inburgeringsexamen oude stijl.   In het kader van de naturalisatieprocedure moet de verzoeker nog wel het onderdeel Kennis van de Nederlandse Samenleving (KNS) met goed gevolg afleggen. Dit toont hij aan door het overleggen van de resultaatbrief “geslaagd” voor het examenonderdeel KNS. Bij de indiening van het verzoek om naturalisatie overlegt de verzoeker het volgende: 
+* de onderdelen EPE, TGN en het praktijkexamen van het inburgeringsexamen oude stijl.   In het kader van de naturalisatieprocedure moet de verzoeker nog wel het onderdeel Kennis van de Nederlandse Samenleving (KNS) met goed gevolg afleggen. Dit toont hij aan door het overleggen van de resultaatbrief ‘geslaagd’ voor het examenonderdeel KNS. Bij de indiening van het verzoek om naturalisatie overlegt de verzoeker het volgende: 
 
 * verklaring educatie ROC (alle taalonderdelen ten minste op niveau 2); en  
 
@@ -3852,17 +3869,8 @@ d. de naam en geboortedatum van de deelnemer aan het NT2-taaltraject die overeen
 
 e. de behaalde taalniveaus uitgesplitst naar de vier taalvaardigheden Lezen, Luisteren, Schrijven en Spreken;  
 
-f. de datum waarop de toetsresultaten zijn behaald.  
-###Ad a.
-
-De meeste ROC’s noemen de Verklaring educatie een ‘schoolverklaring’, ‘certificaat’ of ‘diploma’. Daarnaast komen benamingen voor als ‘niveauoverzicht NT2’ of ‘scorelijst NT2’, ‘(toets)rapport’, ‘verklaring leerresultaten’, of ‘verklaring Trajecttoets/NIVOR-toets’.
-###Ad c.
-
-Met echtheidskenmerken wordt een logo of een stempel van het ROC bedoeld. De naam en de handtekening van de verantwoordelijke van het ROC zijn relevant om de herkomst van het document te kunnen achterhalen en om bij twijfel over de echtheid van het document de toner te kunnen verwijzen naar het opleidingencentrum dat verantwoordelijk is geweest voor afgifte van het document. De verantwoordelijke kan de directeur of een mentor van een ROC zijn.
-###Ad f.
-
-Alleen als alle toetsonderdelen voor 1 januari 2007 zijn behaald kan er vrijstelling worden verleend. Let op! Deze verklaring educatie kan nimmer vrijstelling verlenen voor het onderdeel KNS van het inburgeringsexamen.
-###6. Certificaat Nederlands als Vreemde Taal (CnaVT)
+f. de datum waarop de toetsresultaten zijn behaald.    *Ad a.*  De meeste ROC’s noemen de Verklaring educatie een ‘schoolverklaring’, ‘certificaat’ of ‘diploma’. Daarnaast komen benamingen voor als ‘niveauoverzicht NT2’ of ‘scorelijst NT2’, ‘(toets)rapport’, ‘verklaring leerresultaten’, of ‘verklaring Trajecttoets/NIVOR-toets’.  *Ad c.*  Met echtheidskenmerken wordt een logo of een stempel van het ROC bedoeld. De naam en de handtekening van de verantwoordelijke van het ROC zijn relevant om de herkomst van het document te kunnen achterhalen en om bij twijfel over de echtheid van het document de toner te kunnen verwijzen naar het opleidingencentrum dat verantwoordelijk is geweest voor afgifte van het document. De verantwoordelijke kan de directeur of een mentor van een ROC zijn.  *Ad f.*  Alleen als alle toetsonderdelen voor 1 januari 2007 zijn behaald kan er vrijstelling worden verleend. Let op! Deze verklaring educatie kan nimmer vrijstelling verlenen voor het onderdeel KNS van het inburgeringsexamen. 
+### *6. Certificaat Nederlands als Vreemde Taal (CnaVT)* 
 
 De verzoeker is vrijgesteld van het afleggen van de onderdelen leesvaardigheid, luistervaardigheid, schrijfvaardigheid en spreekvaardigheid (TGN) van het inburgeringsexamen nieuwe stijl of de onderdelen EPE, TGN en het praktijkexamen van het inburgeringsexamen oude stijl, als hij één van de volgende documenten overlegt: 
 
@@ -3876,11 +3884,22 @@ De verzoeker is vrijgesteld van het afleggen van de onderdelen leesvaardigheid, 
 
 5. Certificaat Profiel Taalvaardigheid Hoger Onderwijs (ERK-niveau B2);  
 
-6. Certificaat Profiel Academische Taalvaardigheid (ERK-niveau C1).   In het kader van de naturalisatieprocedure moet de verzoeker nog wel het onderdeel Kennis van de Nederlandse Samenleving (KNS) met goed gevolg afleggen. Dit toont hij aan door het overleggen van de resultatenbrief “geslaagd” voor het examenonderdeel KNS. Bij de indiening van het verzoek om naturalisatie overlegt de verzoeker het volgende: 
+6. Certificaat Profiel Academische Taalvaardigheid (ERK-niveau C1).   In het kader van de naturalisatieprocedure moet de verzoeker nog wel het onderdeel Kennis van de Nederlandse Samenleving (KNS) met goed gevolg afleggen. Dit toont hij aan door het overleggen van de resultatenbrief ‘geslaagd’ voor het examenonderdeel KNS. Bij de indiening van het verzoek om naturalisatie overlegt de verzoeker het volgende: 
 
 * één van hiervoor genoemde certificaten Nederlands als Vreemde taal; en  
 
-* resultaatbrief ‘geslaagd’ voor onderdeel KNS.    
+* resultaatbrief ‘geslaagd’ voor onderdeel KNS.   
+### *7. Onderdeel oriëntatie op de Nederlandse arbeidsmarkt (artikel 4, lid 8, Regeling naturalisatietoets Nederland)* 
+
+Van het afleggen van het onderdeel van het inburgeringsexamen oriëntatie op de Nederlandse arbeidsmarkt zijn vrijgesteld: 
+
+a. de verzoeker die de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet heeft bereikt;  
+
+b. de verzoeker die zich voor 1 januari 2015 bij DUO heeft aangemeld voor de naturalisatietoets of een onderdeel van die toets en van wie DUO voor 1 februari 2015 het verschuldigde examengeld heeft ontvangen.    *Ad a:*  De leeftijd van de naturalisatieverzoeker op de datum van de beslissing op het naturalisatieverzoek is bepalend voor het zijn vrijgesteld of niet. Op het moment van indiening van het naturalisatieverzoek hoeft de verzoeker dus nog niet pensioengerechtigd te zijn.  *Ad b:*  Om in aanmerking te komen hiervoor moet de verzoeker: 
+
+1. zich voor 1 januari 2015 hebben aangemeld voor het hele examen of een onderdeel daarvan; en  
+
+2. moet DUO voor 1 februari 2015 het verschuldigde examengeld hebben ontvangen.   Voorbeeld van 2: De Japanse Sonia woont sinds 2004 in Nederland en heeft sindsdien een reguliere verblijfsvergunning met de beperking ‘arbeid als zelfstandige’. Zij is niet inburgeringsplichtig en valt dus niet onder de Wet inburgering. Om te naturaliseren moet zij het inburgeringsexamen/naturalisatietoets halen. In 2008 heeft zij de toenmalige Toets Gesproken Nederlands gedaan. Die heeft zij toen niet gehaald. Als zij zich in 2015 weer aanmeldt voor het inburgeringsexamen, heeft zij niet de verplichting om het onderdeel ‘oriëntatie op de Nederlandse arbeidsmarkt’ af te leggen. Haar aanmelding in 2015 wordt gezien als voortzetting van het examen waaraan zij in 2008 is begonnen. De verwachting bij 2 is dat het hier voornamelijk zal gaan om vreemdelingen die voor 1 januari 2015 al bezig zijn met (onderdelen van) het examen. Dit sluit natuurlijk niet uit dat ook vreemdelingen zich nog voor 1 januari 2015 voor het eerst zullen aanmelden voor het examen en tijdig een bedrag overmaken zodat zij het nieuwe examenonderdeel niet hoeven te doen. Dit betekent ook dat vreemdelingen die voor 1 januari 2015 al in het bezit zijn van een inburgeringsdiploma met alle onderdelen op niveau A2, maar pas na 1 januari 2015 een verzoek om naturalisatie indienen, niet alsnog het examenonderdeel oriëntatie op de Nederlandse arbeidsmarkt hoeven te doen. Zij kunnen met hun ‘oude’ inburgeringsdiploma een naturalisatieverzoek indienen. Ter informatie: vreemdelingen die vanaf 1 januari 2015 inburgeringsplichtig worden, zijn niet vrijgesteld van dit examenonderdeel.  
 ### Paragraaf 2.2.2  
 
 ####Procedure (gedeeltelijke) vrijstelling
@@ -4743,7 +4762,7 @@ De betrokkene wordt door de burgemeester in de voorlichtingsfase gewezen op de v
 ####Overzicht afstandsbepalingen in de nationaliteitswetgevingen van de staten der Verenigde Naties
 
 Hierna volgt een lijst van landen met vermelding van behoud of verlies van de nationaliteit bij de verkrijging of verlening van het Nederlanderschap. Bij deze lijst wordt het volgende aangetekend: het betreft hier een momentopname voor zover bij het Ministerie van Veiligheid en Justitie bekend ten tijde van het verschijnen van deze gewijzigde landenlijst. Gebruikers van deze lijst die stuiten op wijzigingen of onjuistheden, wordt verzocht dit schriftelijk aan de Immigratie- en Naturalisatiedienst (IND) van het Ministerie van Veiligheid en Justitie te melden onder vermelding van het onderwerp: Afstandsverplichting bij de verkrijging of verlening van het Nederlanderschap. De schrijfwijze van de namen van staten is conform de ‘lijst van landnamen’, de officiële schrijfwijze voor het Nederlandse taalgebied, van de Werkgroep Buitenlandse Aardrijkskundige namen, 1994. A = automatisch verlies B = geen automatisch verlies maar het doen van afstand is mogelijk. Als volgens de vreemde nationaliteitswetgeving het doen van afstand mogelijk is, betekent dit niet dat dit altijd daadwerkelijk door de Nederlandse autoriteiten wordt verlangd. Van de verplichting om de oorspronkelijke nationaliteit te verliezen, bestaan vrijstellingen. Zie daarvoor artikel 9 lid 3 RWN en artikel 6 Regeling verkrijging en verlies Nederlanderschap (Stcrt. 2003, 54). C = geen automatisch verlies; het doen van afstand is niet mogelijk D = partij bij het Verdrag van Straatsburg E = partij geweest bij het Tweede Protocol van het Verdrag van Straatsburg Onbekend = geen automatisch verlies, tot het tegendeel bewezen is Als betrokkene verplicht is afstand te doen, dan moet hij een bereidheidsverklaring tekenen. Als betrokkene is vrijgesteld van de plicht om afstand te doen, dan hoeft hij geen bereidheidsverklaring te tekenen.
-###Landenlijst oktober 2014
+###Landenlijst januari 2015
 
 *Let op!* Deze lijst geldt zowel bij optie als naturalisatie. De afstandsverplichting bij optie op grond van artikel 6, eerste lid en onder e, RWN is op 1 oktober 2010 ingevoerd. De afstandsverplichting geldt niet voor de overige optiecategorieën. Voor 1 oktober 2010 gold dus bij optie niet de verplichting een bereidheidsverklaring te ondertekenen. Met bevoegde autoriteit wordt bedoeld de bevoegde instantie die de optieverklaring of het naturalisatieverzoek in ontvangst neemt: 
 
@@ -4761,7 +4780,7 @@ Hierna volgt een lijst van landen met vermelding van behoud of verlies van de na
 | Albanië  | B  |
 | Algerije  | C  |
 | Andorra  | A  |
-| Angola  | B  |
+| Angola  | C (m.i.v. 1 januari 2015)  De rechtspraktijk maakt het onmogelijk afstand te doen van de Angolese nationaliteit.  Bij een naturalisatieverzoek en bij een optieverklaring (ex artikel 6, eerste lid onder e, RWN) ingediend/afgelegd op of na 1 januari 2015, hoeft geen bereidheidsverklaring tot het doen van afstand meer te worden ondertekend.  |
 | Antigua en Barbuda  | B  |
 | Argentinië  | C, echter in sommige gevallen A.  Tot Argentijn genaturaliseerden verliezen de Argentijnse nationaliteit wel automatisch.  |
 | Armenië  | B  |
@@ -4782,7 +4801,7 @@ Hierna volgt een lijst van landen met vermelding van behoud of verlies van de na
 | Brazilië  | B  |
 | Brunei  | A  |
 | Bulgarije  | B  |
-| Burkina Faso  | B  Het doen van afstand wordt bij naturalisatie alleen gevraagd bij een naturalisatieverzoek dat is ingediend op of na 05.03.2009 en bij optie (ex artikel 6, eerste lid onder e, RWN) als de verklaring is afgelegd op of na 01.10.2010.  |
+| Burkina Faso  | C (m.i.v. 1 januari 2015)  De rechtspraktijk maakt het onmogelijk afstand te doen van de Burkinese nationaliteit.  Bij een naturalisatieverzoek en bij een optieverklaring (ex artikel 6, eerste lid onder e, RWN) ingediend/afgelegd op of na 1 januari 2015, hoeft geen bereidheidsverklaring tot het doen van afstand meer te worden ondertekend.  Van 5 maart 2009 tot 1 januari 2015: B  |
 | Burundi  | B  Het doen van afstand wordt bij naturalisatie alleen gevraagd bij een naturalisatieverzoek dat is ingediend op of na 01.03.2002 en bij optie (ex artikel 6, eerste lid onder e, RWN) als de verklaring is afgelegd op of na 01.10.2010.  |
 | Cambodja  | B  |
 | Canada  | B  |
@@ -4802,10 +4821,10 @@ Hierna volgt een lijst van landen met vermelding van behoud of verlies van de na
 | Dominicaanse Republiek  | C  |
 | Duitsland  | B  Het doen van afstand wordt bij naturalisatie alleen gevraagd bij een naturalisatieverzoek dat is ingediend op of na 28.08.2007 en bij optie (ex artikel 6, eerste lid onder e, RWN) als de verklaring is afgelegd op of na 01.10.2010.  Geen partij meer bij het verdrag van Straatsburg m.i.v. 22.12.2002.  Tot 28.08.2007 ging de Duitse nationaliteit automatisch verloren, tenzij de Duitse autoriteiten, met instemming van de Nederlandse autoriteiten, behoud van de Duitse nationaliteit hadden goedgekeurd.  |
 | Ecuador  | C  |
-| Egypte  Met het oog op de actualiteit van de basisregistratie personen voegt de IND aan de bekendmaking aan de bevoegde autoriteit dat betrokkene het Nederlanderschap is verleend, een kopie van de toestemmingsverklaring van de Egyptische autoriteiten toe. Let op! De Egyptische nationaliteit is verloren gegaan met het verlenen van het Nederlanderschap, mits genaturaliseerd is ná verkregen toestemming *en* nadat het verlies van de Egyptische nationaliteit is gepubliceerd in de Egyptische Staatscourant. Zodra betrokkene een kopie van de publicatie in de Egyptische Staatscourant heeft overgelegd, zal de IND de bevoegde autoriteit hiervan op de hoogte stellen en verzoeken de (gemeentelijke) basisadministratie aan te passen.  | B  Betrokkene moet zich tot het Egyptische Ministerie van Binnenlandse Zaken wenden om toestemming te krijgen voor het verkrijgen van een andere nationaliteit. Betrokkene moet vóór het moment van verkrijging of verlening van het Nederlanderschap de beoogde toestemming van het Egyptische Ministerie van Binnenlandse Zaken hebben verkregen. Bedoelde toestemming blijkt uit een (gelegaliseerde) verklaring van de Egyptische ambassade.  De verklaring van de Egyptische ambassade legt betrokkene over bij het afleggen van de optieverklaring of bij het indienen van het naturalisatieverzoek. De optieverklaring of het verzoek om naturalisatie kan eventueel ook worden afgelegd dan wel ingediend zonder de toestemmingsverklaring, maar dan moet betrokkene na ontvangst van bedoelde verklaring deze inleveren/opsturen bij/naar de bevoegde autoriteit waar de optieverklaring is afgelegd of het IND-kantoor waar zijn naturalisatieverzoek in behandeling is.  Op de optieverklaring of het verzoek om naturalisatie wordt pas beslist als de verklaring van de ambassade is ontvangen. In dit kader kan bij naturalisatie gebruik worden gemaakt van de bevoegdheid tot aanhouding uit artikel 9, vierde lid, RWN. Bij optie kan gebruik worden gemaakt van de bevoegdheid om de beslistermijn met dertien weken te verlengen (artikel 6, vijfde lid, RWN).  De optieverklaring of het verzoek om naturalisatie wordt na de verlengingstermijn/ laatste aanhoudingstermijn bevestigd of ingewilligd als nog geen toestemmingsverklaring is ontvangen, *mits* de betrokkene aan de hand van correspondentie aantoont meermaals bij de Egyptische autoriteiten navraag te hebben gedaan inzake zijn verzoek om een vreemde nationaliteit aan te nemen.  Nadat het Nederlanderschap is verleend of verkregen moet betrokkene, totdat daadwerkelijk afstand is gedaan van de Egyptische nationaliteit, nog de volgende handelingen verrichten:  – Inleveren van het Egyptische paspoort en/of ID-kaart bij de bevoegde autoriteit;  – Verzoek indienen bij het Egyptische Ministerie van Binnenlandse Zaken om de Egyptische nationaliteit officieel te laten schrappen. Het opgeven van de Egyptische nationaliteit wordt gepubliceerd in de Egyptische Staatscourant;  – Betrokkene moet een bewijs publicatie verlies Egyptische nationaliteit overleggen aan de IND.  Genoemde stukken moeten zijn voorzien van een vertaling, gemaakt door een beëdigd vertaler.  Een afstandsplichtige betrokkene (die niet onder één van de vrijstellingscategorieën voor de verplichting tot het doen van afstand van de oorspronkelijke nationaliteit valt) wordt ook gevraagd een verklaring (model 1.14-1b  bij optie en model 2.5/2.5a  bij naturalisatie) dat de Egyptische autoriteiten niet is gevraagd noch zal worden gevraagd om behoud van de Egyptische nationaliteit. Uit artikel 10 van de Egyptische nationaliteitswetgeving blijkt namelijk dat de mogelijkheid bestaat om na de verkregen toestemming om een andere nationaliteit aan te nemen en het hieropvolgende verlies van de Egyptische nationaliteit binnen één jaar na verkrijging van de andere nationaliteit om behoud kan worden gevraagd van de Egyptische nationaliteit. Om de betrokkene duidelijk te maken dat dit niet de bedoeling is, moet model 1.14-1b (bij optie) en model 2.5/2.5a (bij naturalisatie) getekend te worden.  |
+| Egypte  Met het oog op de actualiteit van de basisregistratie personen voegt de IND aan de bekendmaking aan de bevoegde autoriteit dat betrokkene het Nederlanderschap is verleend, een kopie van de toestemmingsverklaring van de Egyptische autoriteiten toe. Let op! De Egyptische nationaliteit is verloren gegaan met het verlenen van het Nederlanderschap, mits genaturaliseerd is ná verkregen toestemming *en* nadat het verlies van de Egyptische nationaliteit is gepubliceerd in de Egyptische Staatscourant. Zodra betrokkene een kopie van de publicatie in de Egyptische Staatscourant heeft overgelegd, zal de IND de bevoegde autoriteit hiervan op de hoogte stellen en verzoeken de (gemeentelijke) basisadministratie aan te passen.  | B  Betrokkene moet zich tot het Egyptische Ministerie van Binnenlandse Zaken wenden om toestemming te krijgen voor het verkrijgen van een andere nationaliteit. Betrokkene moet vóór het moment van verkrijging of verlening van het Nederlanderschap de beoogde toestemming van het Egyptische Ministerie van Binnenlandse Zaken hebben verkregen. Bedoelde toestemming blijkt uit een (gelegaliseerde) verklaring van de Egyptische ambassade.  De verklaring van de Egyptische ambassade legt betrokkene over bij het afleggen van de optieverklaring of bij het indienen van het naturalisatieverzoek. De optieverklaring of het verzoek om naturalisatie kan eventueel ook worden afgelegd dan wel ingediend zonder de toestemmingsverklaring, maar dan moet betrokkene na ontvangst van bedoelde verklaring deze inleveren/opsturen bij/naar de bevoegde autoriteit waar de optieverklaring is afgelegd of het IND-kantoor waar zijn naturalisatieverzoek in behandeling is.  Op de optieverklaring of het verzoek om naturalisatie wordt pas beslist als de verklaring van de ambassade is ontvangen. In dit kader kan bij naturalisatie gebruik worden gemaakt van de bevoegdheid tot aanhouding uit artikel 9, vierde lid, RWN. Bij optie kan gebruik worden gemaakt van de bevoegdheid om de beslistermijn met dertien weken te verlengen (artikel 6, vijfde lid, RWN).  De optieverklaring of het verzoek om naturalisatie wordt na de verlengingstermijn/ laatste aanhoudingstermijn bevestigd of ingewilligd als nog geen toestemmingsverklaring is ontvangen, *mits* de betrokkene aan de hand van correspondentie aantoont meermaals bij de Egyptische autoriteiten navraag te hebben gedaan inzake zijn verzoek om een vreemde nationaliteit aan te nemen.  Nadat het Nederlanderschap is verleend of verkregen moet betrokkene, totdat daadwerkelijk afstand is gedaan van de Egyptische nationaliteit, nog de volgende handelingen verrichten:  - Inleveren van het Egyptische paspoort en/of ID-kaart bij de bevoegde autoriteit;  - Verzoek indienen bij het Egyptische Ministerie van Binnenlandse Zaken om de Egyptische nationaliteit officieel te laten schrappen. Het opgeven van de Egyptische nationaliteit wordt gepubliceerd in de Egyptische Staatscourant;  - Betrokkene moet een bewijs publicatie verlies Egyptische nationaliteit overleggen aan de IND.  Genoemde stukken moeten zijn voorzien van een vertaling, gemaakt door een beëdigd vertaler.  Een afstandsplichtige betrokkene (die niet onder één van de vrijstellingscategorieën voor de verplichting tot het doen van afstand van de oorspronkelijke nationaliteit valt) wordt ook gevraagd een verklaring (model 1.14-1b  bij optie en model 2.5/2.5a  bij naturalisatie) dat de Egyptische autoriteiten niet is gevraagd noch zal worden gevraagd om behoud van de Egyptische nationaliteit. Uit artikel 10 van de Egyptische nationaliteitswetgeving blijkt namelijk dat de mogelijkheid bestaat om na de verkregen toestemming om een andere nationaliteit aan te nemen en het hieropvolgende verlies van de Egyptische nationaliteit binnen één jaar na verkrijging van de andere nationaliteit om behoud kan worden gevraagd van de Egyptische nationaliteit. Om de betrokkene duidelijk te maken dat dit niet de bedoeling is, moet model 1.14-1b (bij optie) en model 2.5/2.5a (bij naturalisatie) getekend te worden.  |
 | El Salvador  | B, echter in sommige gevallen A.  B: voor Salvadoranen door geboorte.  A: tot Salvadoraan genaturaliseerden verliezen de Salvadoraanse nationaliteit automatisch als zij vijf jaren zonder onderbreking buiten El Salvador verblijven.  |
 | Equatoriaal-Guinee  | A  |
-| Eritrea  | B  Het doen van afstand van de Eritrese nationaliteit is mogelijk op grond van de Eritrese nationaliteitsverordening nr. 21/1992 d.d. 6 april 1992.  Het formulier dat gebruikt moet worden voor een afstandsverzoek, kan alleen worden verkregen bij het ‘Department of Immigration and Nationality executive secretary’. Een kopie van het ingevulde verzoek tot afstand van de Eritrese nationaliteit moet bij naturalisatie en optie naar de IND worden gestuurd.  Nadat individueel onderzoek is verricht door de Eritrese autoriteiten wordt afstand al dan niet toegestaan.  Het doen van afstand wordt bij naturalisatie gevraagd bij een naturalisatieverzoek dat is ingediend op of na 01.07.2010 en bij optie (ex artikel 6, eerste lid onder e, RWN) als de verklaring is afgelegd op of na 01.10.2010.  |
+| Eritrea  | B  Het doen van afstand van de Eritrese nationaliteit is mogelijk op grond van de Eritrese nationaliteitsverordening nr. 21/1992 d.d. 6 april 1992.  Het formulier dat gebruikt moet worden voor een afstandsverzoek, kan alleen worden verkregen bij het “Department of Immigration and Nationality executive secretary”. Een kopie van het ingevulde verzoek tot afstand van de Eritrese nationaliteit moet bij naturalisatie en optie naar de IND worden gestuurd.  Nadat individueel onderzoek is verricht door de Eritrese autoriteiten wordt afstand al dan niet toegestaan.  Het doen van afstand wordt bij naturalisatie gevraagd bij een naturalisatieverzoek dat is ingediend op of na 01.07.2010 en bij optie (ex artikel 6, eerste lid onder e, RWN) als de verklaring is afgelegd op of na 01.10.2010.  |
 | Estland  | A  |
 | Ethiopië  | A  |
 | Fiji  | B  Het doen van afstand van de Fijische nationaliteit is sinds 10.04.2009 mogelijk (Staatsburgerschapverordening 2009).  Het doen van afstand wordt gevraagd bij een optieverklaring of naturalisatieverzoek, afgelegd/ingediend op of na 01.04.2012.  A: tot 10.04.2009.  |
@@ -4835,7 +4854,7 @@ Hierna volgt een lijst van landen met vermelding van behoud of verlies van de na
 | Italië  | B  Met ingang van 4 juni 2010 is Italië geen partij meer bij Hoofdstuk 1 van het Verdrag van Straatsburg en daarmee ook niet meer bij het Tweede Protocol.  Het doen van afstand wordt bij naturalisatie gevraagd bij een naturalisatieverzoek dat is ingediend op of na 01.07.2010 en bij optie (ex artikel 6, eerste lid onder e, RWN) als de verklaring is afgelegd op of na 01.10.2010.  A, D, E: tot 01.07.2010  |
 | Ivoorkust  | A  |
 | Jamaica  | B  |
-| Japan  | B  Het doen van afstand wordt gevraagd bij een naturalisatieverzoek dat is ingediend op of na 1-10-2014 en bij optie (o.g.v. artikel 6, eerste lid, aanhef en onder e, RWN) als de verklaring is afgelegd op of na 1-10-2014.  |
+| Japan  | B  Het doen van afstand wordt gevraagd bij een naturalisatieverzoek dat is ingediend op of na 1-10-2014 en bij optie (o.g.v. artikel 6, eerste lid, aanhef en onder e, RWN) als de verklaring is afgelegd op of na 1-10-2014.  Na het aannemen van een andere nationaliteit kan een Japanner bij de ambassade of bij de gemeente in Japan aangifte doen. Als deze aangifte is ontvangen wordt deze naar het Japanse Family Register van betrokkene gestuurd, in Japan. In het Family Register wordt melding gemaakt van het verkrijgen van de andere nationaliteit. Vervolgens wordt de naam van betrokkene uit het Japanse Family Register geschrapt. Vanaf dat moment is sprake van verlies van de Japanse nationaliteit.  |
 | Jemen  | C  |
 | Jordanië  | B  |
 | Kaapverdië  | B  |
@@ -4861,11 +4880,11 @@ Hierna volgt een lijst van landen met vermelding van behoud of verlies van de na
 | Malawi  | A  |
 | Maldiven  | B  |
 | Maleisië  | B  |
-| Mali  | B  |
+| Mali  | C (m.i.v. 1 januari 2015)  De rechtspraktijk maakt het onmogelijk afstand te doen van de Malinese nationaliteit.  Bij een naturalisatieverzoek en bij een optieverklaring (ex artikel 6, eerste lid onder e, RWN) ingediend/afgelegd op of na 1 januari 2015, hoeft geen bereidheidsverklaring tot het doen van afstand meer te worden ondertekend.  |
 | Malta  | B  |
 | Marokko  | C  De rechtspraktijk maakt het onmogelijk afstand te doen van de Marokkaanse nationaliteit.  |
 | Marshalleilanden  | B  |
-| Mauritanië  | A  |
+| Mauritanië  | A  Een verzoeker om naturalisatie of optant (ex artikel 6, eerste lid onder e, RWN) wordt met ingang van 1 januari 2015 gevraagd een verklaring te ondertekenen dat de Mauritaanse autoriteiten niet is gevraagd noch zal worden gevraagd om behoud van de Mauritaanse nationaliteit (model 2.5/2.5a bij naturalisatie en model 1.14-1b bij optie).  |
 | Mauritius  | B  |
 | Mexico  | C, echter in sommige gevallen B.  Tot Mexicaan genaturaliseerden kunnen afstand doen van de Mexicaanse nationaliteit.  |
 | Micronesia  | B  Het doen van afstand wordt bij naturalisatie alleen gevraagd bij een naturalisatieverzoek dat is ingediend op of na 22.11.2006 en bij optie (ex artikel 6, eerste lid onder e, RWN) als de verklaring is afgelegd op of na 01.10.2010.  |
@@ -4915,10 +4934,10 @@ Hierna volgt een lijst van landen met vermelding van behoud of verlies van de na
 | Sierra Leone  | B  Het doen van afstand wordt bij naturalisatie alleen gevraagd bij een naturalisatieverzoek dat is ingediend op of na 05.03.2009 en bij optie (ex artikel 6, eerste lid onder e, RWN) als de verklaring is afgelegd op of na 01.10.2010.  |
 | Singapore  | B  |
 | Slovenië  | B  |
-| Slowakije  | A, in sommige gevallen B  M.i.v. 01.01.2013 is de wetswijziging van 17 juli 2010 in de landenlijst verwerkt. De nieuwe wet geldt alleen voor Slowaken die op of na 17.07.2010 een andere nationaliteit hebben verkregen.  A: met de onderstaande uitzonderingen waarbij behoud van de Slowaakse nationaliteit aan de orde is:  – de met een Nederlander getrouwde Slowaak, die de Nederlandse nationaliteit verkrijgt na 17.07.2010 behoudt de Slowaakse nationaliteit (Nederland vraagt ook geen afstand te doen van de Slowaakse nationaliteit wegens artikel 9 lid 3 RWN).  De Slowaakse nationaliteit wordt tevens niet verloren in het geval de andere nationaliteit van rechtswege wordt verkregen door geboorte.  Tot 17.07.2010: B  |
+| Slowakije  | A, in sommige gevallen B  M.i.v. 01.01.2013 is de wetswijziging van  17 juli 2010 in de landenlijst verwerkt. De nieuwe wet geldt alleen voor Slowaken die op of na 17.07.2010 een andere nationaliteit hebben verkregen.  A: met de onderstaande uitzonderingen waarbij behoud van de Slowaakse nationaliteit aan de orde is:  - de met een Nederlander getrouwde Slowaak, die de Nederlandse nationaliteit verkrijgt na 17.07.2010 behoudt de Slowaakse nationaliteit (Nederland vraagt ook geen afstand te doen van de Slowaakse nationaliteit wegens artikel 9 lid 3 RWN).  De Slowaakse nationaliteit wordt tevens niet verloren in het geval de andere nationaliteit van rechtswege wordt verkregen door geboorte.  Tot 17.07.2010: B  |
 | Soedan (Sudan)  | B  Sudanezen die de Zuid-Sudanese nationaliteit verkrijgen, verliezen automatisch hun Sudanese nationaliteit.  |
 | Solomoneilanden  | A  |
-| Somalië  | A  |
+| Somalië  | C  |
 | Spanje  | B  Het doen van afstand wordt alleen gevraagd in geval van een naturalisatieverzoek dat is ingediend op of na 01.10.2003 en bij optie (ex artikel 6, eerste lid onder e, RWN) als de verklaring is afgelegd op of na 01.10.2010.  Voor de categorieën die zijn vrijgesteld van de afstandsverplichting geldt: A (drie jaar na de naturalisatie indien betrokkene niet de verklaring aflegt tot behoud van de Spaanse nationaliteit). Een Spanjaard die vóór 09.01.2003 is genaturaliseerd tot Nederlander, en die woonachtig is buiten Spanje, verliest na drie jaar automatisch de Spaanse nationaliteit. Artikel 24 van de Spaanse nationaliteitswet is per 9 januari 2003 gewijzigd. Aan Spanjaarden die op of na 9 januari 2003 tevens Nederlander zijn geworden, staat Spanje het behoud van de Spaanse nationaliteit toe. De regel van automatisch verlies na drie jaar is nog wel in de wet opgenomen, maar het verlies kan worden voorkomen door tijdig bij de Spaanse autoriteiten een verklaring tot behoud van de Spaanse nationaliteit af te leggen.  Met het oog op vermijding van dubbele nationaliteit wordt Spanjaarden die niet in aanmerking komen voor vrijstelling van de afstandsverplichting gevraagd om direct na hun naturalisatie tot Nederlander op grond van artikel 24, tweede lid van de Spaanse nationaliteitwet afstand te doen van de Spaanse nationaliteit.  |
 | Sri Lanka  | A  |
 | Suriname  | A  |
@@ -4927,7 +4946,7 @@ Hierna volgt een lijst van landen met vermelding van behoud of verlies van de na
 | Tadzjikistan  | B  |
 | Taiwan  | B  Het doen van afstand wordt echter niet gevraagd. Taiwan wordt niet erkend door Nederland.  |
 | Tanzania  | A  |
-| Thailand  | A en soms B  Het (automatisch) verlies van de Thaise nationaliteit wordt effectief na publicatie hiervan in de Thaise staatscourant.  Blijkens artikel 13 van de Thaise Nationality Act verliest een Thaise vrouw die is getrouwd met een persoon van niet Thaise nationaliteit niet automatisch de Thaise nationaliteit na haar naturalisatie tot de nationaliteit van haar echtgenoot. Zij kan wel afstand doen van de Thaise nationaliteit. Dit wordt in Nederland niet van haar gevraagd aangezien zij valt onder één van de uitzonderingscategorieën (artikel 9 lid 3 RWN).  Voor Thaise vrouwen die getrouwd zijn met een niet Nederlandse partner geldt dat zij hun Thaise nationaliteit automatisch verliezen wanneer zij de Nederlandse nationaliteit verkrijgen. Dit geldt dus ook voor de Thaise die getrouwd is met een Thaise partner.  |
+| Thailand  | A en soms B  Het (automatisch) verlies van de Thaise nationaliteit wordt effectief na publicatie hiervan in de Thaise staatscourant.  Op grond van artikel 13 van de Thaise Nationality Act verliest een persoon met de Thaise nationaliteit die is getrouwd met een persoon van niet Thaise nationaliteit niet automatisch de Thaise nationaliteit na naturalisatie tot de nationaliteit van de huwelijkspartner. Hij of zij kan wel afstand doen van de Thaise nationaliteit. Dit wordt in Nederland niet gevraagd aangezien deze persoon valt onder één van de uitzonderingscategorieën (artikel 9 lid 3 RWN).  Voor Thaise personen die getrouwd zijn met een niet Nederlandse partner geldt dat zij hun Thaise nationaliteit automatisch verliezen wanneer zij de Nederlandse nationaliteit verkrijgen. Dit geldt dus ook voor een Thaise persoon die getrouwd is met een Thaise partner.  |
 | Togo  | B  |
 | Tonga  | C  |
 | Trinidad en Tobago  | B  |
@@ -5595,18 +5614,18 @@ Geen.
 
 ####Toelichting ad artikel 13, eerste lid
 
-*Bij algemene maatregel van rijksbestuur worden regelen gesteld betreffende het recht dat verschuldigd is voor het afleggen en de behandeling van de verklaring van optie en van het verzoek tot verlening van het Nederlanderschap, de gevallen en de mate waarin daarvan ontheffing kan worden verleend en de wijze waarop het moet worden voldaan.*  De te betalen bedragen voor het afleggen van een optieverklaring en voor het indienen van een verzoek om naturalisatie zijn vastgelegd in het Besluit optie- en naturalisatiegelden 2002. Met het oog op de jaarlijkse indexering van de optie- en naturalisatiegelden (zie artikel 9, eerste lid, BON) wordt verwezen naar de in onderstaande tabel vermelde tariefgroepen en de daarbij behorende tariefcodes en bedragen.  
+*Bij algemene maatregel van rijksbestuur worden regelen gesteld betreffende het recht dat verschuldigd is voor het afleggen en de behandeling van de verklaring van optie en van het verzoek tot verlening van het Nederlanderschap, de gevallen en de mate waarin daarvan ontheffing kan worden verleend en de wijze waarop het moet worden voldaan.* De te betalen bedragen voor het afleggen van een optieverklaring en voor het indienen van een verzoek om naturalisatie zijn vastgelegd in het Besluit optie- en naturalisatiegelden 2002. Met het oog op de jaarlijkse indexering van de optie- en naturalisatiegelden (zie artikel 9, eerste lid, BON) wordt verwezen naar de in onderstaande tabel vermelde tariefgroepen en de daarbij behorende tariefcodes en bedragen.  
 
 | Tariefgroep  | Tarief(code)  | Bedrag  |
 |:---|:---|:---|
-| optie; enkelvoudig  | A  | € 175  |
-| optie; gemeenschappelijk  | B  | € 298  |
-| optie; medeopterende minderjarige  | C  | € 21  |
-| naturalisatie; enkelvoudig; standaard  | D  | € 821  |
-| naturalisatie; gemeenschappelijk; standaard  | E  | € 1.048  |
-| naturalisatie; enkelvoudig; verlaagd  | F  | € 611  |
-| naturalisatie; gemeenschappelijk; verlaagd  | G  | € 839  |
-| naturalisatie; meenaturaliserende minderjarige  | H  | € 121  |
+| optie; enkelvoudig  | A  | € 177  |
+| optie; gemeenschappelijk  | B  | € 301  |
+| optie; medeopterende minderjarige  | C  | € 21  |
+| naturalisatie; enkelvoudig; standaard  | D  | € 829  |
+| naturalisatie; gemeenschappelijk; standaard  | E  | € 1.058  |
+| naturalisatie; enkelvoudig; verlaagd  | F  | € 617  |
+| naturalisatie; gemeenschappelijk; verlaagd  | G  | € 847  |
+| naturalisatie; meenaturaliserende minderjarige  | H  | € 122  |
 
 ###paragraaf 1 
 
@@ -5723,20 +5742,20 @@ Uitgangspunt is dat de leges worden betaald op het moment van het afleggen van d
 
 ####Afdracht naturalisatiegelden
 
-De in het kader van het afleggen van een optieverklaring ontvangen gelden, behoeven niet te worden afgedragen. De behandeling van en de beslissing op de optieverklaring liggen immers geheel in handen van de ontvangende instantie. Artikel 8 BON bepaalt dat een gedeelte van de ontvangen naturalisatiegelden moet worden afgedragen aan de rijksoverheid. Gemeenten in Europees Nederland dragen rechtstreeks af aan Onze Minister. Tevens regelt artikel 8 BON de hoogte van het bedrag dat de gemeente behoudt en op welke wijze de afdracht aan de IND geschiedt. Bij de afdracht stuurt de gemeente aan de IND tevens een lijst met de namen van personen die een verzoek om naturalisatie hebben ingediend. Over de wijze van afdracht van de ontvangen naturalisatiegelden door de gemeente aan de IND, worden gemeenten nader geïnformeerd met een brief van de Directie Middelen en Control van de IND. De afdracht van naturalisatiegelden alsmede het indienen van verzoeken tot vergoeding van leges waarvoor ontheffing is verleend door het hoofd van de Nederlandse diplomatieke en consulaire post in het buitenland geschiedt via de Minister van Buitenlandse Zaken aan Onze Minister. De gemeente/het hoofd van de Nederlandse diplomatieke en consulaire post behoudt per enkelvoudig verzoek om naturalisatie € 175, ongeacht of betrokkene het standaard of het verlaagde tarief betaalt. Het resterende bedrag dat aan leges is ontvangen, wordt afgedragen aan Onze Minister (€ 646 bij standaard tarief en € 436 bij verlaagd tarief). Bij een gemeenschappelijk verzoek of een gelijktijdig verzoek om naturalisatie van meerdere kinderen binnen één gezin behoudt de gemeente € 298 eveneens ongeacht of het standaard of het verlaagde tarief is betaald. Het resterende bedrag dat aan leges is ontvangen wordt afgedragen aan Onze Minister (€ 750 bij het standaard tarief en € 541 bij het verlaagd tarief). In het geval van een verzoek tot medeverlening als bedoeld in artikel 11, eerste lid, RWN behoudt de gemeente/het hoofd van de Nederlandse diplomatieke en consulaire post € 21 per kind. Het resterende bedrag dat aan leges is ontvangen (€ 100) wordt afgedragen aan Onze Minister. Als de verzoeker tijdens de naturalisatieprocedure verhuist, behoudt de gemeente/het hoofd van de Nederlandse diplomatieke en consulaire post die de leges geïnd heeft het gemeentelijk/consulair deel van de leges en draagt zorg voor de afdracht van het resterende bedrag. Vanaf 1 januari 2014 gelden de volgende afdrachtcodes:  
+De in het kader van het afleggen van een optieverklaring ontvangen gelden, behoeven niet te worden afgedragen. De behandeling van en de beslissing op de optieverklaring liggen immers geheel in handen van de ontvangende instantie. Artikel 8 BON bepaalt dat een gedeelte van de ontvangen naturalisatiegelden moet worden afgedragen aan de rijksoverheid. Gemeenten in Europees Nederland dragen rechtstreeks af aan Onze Minister. Tevens regelt artikel 8 BON de hoogte van het bedrag dat de gemeente behoudt en op welke wijze de afdracht aan de IND geschiedt. Bij de afdracht stuurt de gemeente aan de IND tevens een lijst met de namen van personen die een verzoek om naturalisatie hebben ingediend. Over de wijze van afdracht van de ontvangen naturalisatiegelden door de gemeente aan de IND, worden gemeenten nader geïnformeerd met een brief van de Directie Middelen en Control van de IND. De afdracht van naturalisatiegelden alsmede het indienen van verzoeken tot vergoeding van leges waarvoor ontheffing is verleend door het hoofd van de Nederlandse diplomatieke en consulaire post in het buitenland geschiedt via de Minister van Buitenlandse Zaken aan Onze Minister.De gemeente/het hoofd van de Nederlandse diplomatieke en consulaire post behoudt per enkelvoudig verzoek om naturalisatie € 177, ongeacht of betrokkene het standaard of het verlaagde tarief betaalt. Het resterende bedrag dat aan leges is ontvangen, wordt afgedragen aan Onze Minister (€ 652 bij standaard tarief en € 440 bij verlaagd tarief). Bij een gemeenschappelijk verzoek of een gelijktijdig verzoek om naturalisatie van meerdere kinderen binnen één gezin behoudt de gemeente € 301 eveneens ongeacht of het standaard of het verlaagde tarief is betaald. Het resterende bedrag dat aan leges is ontvangen wordt afgedragen aan Onze Minister (€ 757 bij het standaard tarief en € 546 bij het verlaagd tarief). In het geval van een verzoek tot medeverlening als bedoeld in artikel 11, eerste lid, RWN behoudt de gemeente/het hoofd van de Nederlandse diplomatieke en consulaire post € 21 per kind. Het resterende bedrag dat aan leges is ontvangen (€ 101) wordt afgedragen aan Onze Minister. Als de verzoeker tijdens de naturalisatieprocedure verhuist, behoudt de gemeente/het hoofd van de Nederlandse diplomatieke en consulaire post die de leges geïnd heeft het gemeentelijk/consulair deel van de leges en draagt zorg voor de afdracht van het resterende bedrag. Vanaf 1 januari 2015 gelden de volgende afdrachtcodes: 
 
 | Tariefgroep  | af te dragen bedrag  | afdrachtcode  |
 |:---|:---|:---|
 | optie; enkelvoudig  | nvt  | nvt  |
 | optie; gemeenschappelijk  | nvt  | nvt  |
 | optie; medeopterende minderjarige  | nvt  | nvt  |
-| naturalisatie; enkelvoudig; standaard  | € 646  | 140  |
-| naturalisatie; enkelvoudig; verlaagd  | € 436  | 141  |
-| naturalisatie; gemeenschappelijk; standaard  | € 750  | 143  |
-| naturalisatie; gemeenschappelijk; verlaagd  | € 541  | 144  |
-| naturalisatie; meenaturaliserende minderjarige  | € 100  | 145  |
+| naturalisatie; enkelvoudig; standaard  | € 652  | 150  |
+| naturalisatie; enkelvoudig; verlaagd  | € 440  | 151  |
+| naturalisatie; gemeenschappelijk; standaard  | € 757  | 153  |
+| naturalisatie; gemeenschappelijk; verlaagd  | € 546  | 154  |
+| naturalisatie; meenaturaliserende minderjarige  | € 101  | 155  |
 
-In geval van ontheffing van betaling van de naturalisatiegelden kan de gemeente verzoeken om een vergoeding (artikel 8, tweede lid, BON). Een dergelijk schriftelijk verzoek moet worden gericht aan het Hoofd Financiële administratie van de Directie Middelen & Control van de IND, Postbus 1821, 2280 DV te Rijswijk. Als het verzoek van de gemeente door de IND wordt gehonoreerd, ontvangt de gemeente een bedrag van € 175 voor een enkelvoudig verzoek en € 298 voor een gemeenschappelijk verzoek. Het hoofd van de Nederlandse diplomatieke en consulaire post moet een verzoek om vergoeding indienen door tussenkomst van de Minister van Buitenlandse Zaken.  
+In geval van ontheffing van betaling van de naturalisatiegelden kan de gemeente verzoeken om een vergoeding (artikel 8, tweede lid, BON). Een dergelijk schriftelijk verzoek moet worden gericht aan het Hoofd Financiële administratie van de Directie Middelen & Control van de IND, Postbus 1821, 2280 DV te Rijswijk. Als het verzoek van de gemeente door de IND wordt gehonoreerd, ontvangt de gemeente een bedrag van € 177 voor een enkelvoudig verzoek en € 301 voor een gemeenschappelijk verzoek. Het hoofd van de Nederlandse diplomatieke en consulaire post moet een verzoek om vergoeding indienen door tussenkomst van de Minister van Buitenlandse Zaken.  
 ### 13-2 
 
 ####Toelichting ad artikel 13, tweede lid
@@ -7469,19 +7488,15 @@ Vervallen.
 
 ![243320](http://wetten.overheid.nl/Illustration/243320)
 
-###Model 1.25: Verklaring ‘Ingelicht over betaling van optiegelden’ tevens inverzuimstelling;
+###Model 1.25 HRWN: Verklaring ‘Ingelicht over betaling van optiegelden’ tevens inverzuimstelling;
 
-###alsook: Verklaring vrijgesteld van optiegelden
+![254155](http://wetten.overheid.nl/Illustration/254155)
+Verklaring vrijgesteld van optiegelden![254156](http://wetten.overheid.nl/Illustration/254156)
 
-![252238](http://wetten.overheid.nl/Illustration/252238)
-![252239](http://wetten.overheid.nl/Illustration/252239)
+###Model 1.25a HRWN: Verklaring ‘Ingelicht over betaling van optiegelden’ tevens inverzuimstelling;
 
-###Model 1.25a: Verklaring ‘Ingelicht over betaling van optiegelden’ tevens inverzuimstelling;
-
-###alsook: Verklaring vrijgesteld van optiegelden
-
-![252240](http://wetten.overheid.nl/Illustration/252240)
-![252241](http://wetten.overheid.nl/Illustration/252241)
+![254157](http://wetten.overheid.nl/Illustration/254157)
+Verklaring vrijgesteld van optiegelden![254158](http://wetten.overheid.nl/Illustration/254158)
 
 ###Model 1.26 HRWN: Buitenbehandelingstelling optieverklaring wegens niet-betaling van optiegelden
 
@@ -7669,17 +7684,13 @@ Vervallen.
 
 ###Model 2.8 HRWN: Verklaring ‘Ingelicht over betaling van naturalisatiegelden’ tevens inverzuimstelling;
 
-###alsook: Verklaring vrijgesteld van naturalisatiegelden
-
-![252249](http://wetten.overheid.nl/Illustration/252249)
-![252250](http://wetten.overheid.nl/Illustration/252250)
+![254159](http://wetten.overheid.nl/Illustration/254159)
+Verklaring vrijgesteld van naturalisatiegelden![254160](http://wetten.overheid.nl/Illustration/254160)
 
 ###Model 2.8a HRWN: Verklaring ‘Ingelicht over betaling van naturalisatiegelden’ tevens inverzuimstelling;
 
-###alsook: Verklaring vrijgesteld van naturalisatiegelden
-
-![252251](http://wetten.overheid.nl/Illustration/252251)
-![252252](http://wetten.overheid.nl/Illustration/252252)
+![254161](http://wetten.overheid.nl/Illustration/254161)
+Verklaring vrijgesteld van naturalisatiegelden![254163](http://wetten.overheid.nl/Illustration/254163)
 
 ###2.9: Brief zienswijze (mede)verlening Nederlanderschap (minderjarigen van 12 jaar t/m 15 jaar) (indien minderjarige niet persoonlijk verschijnt)
 
