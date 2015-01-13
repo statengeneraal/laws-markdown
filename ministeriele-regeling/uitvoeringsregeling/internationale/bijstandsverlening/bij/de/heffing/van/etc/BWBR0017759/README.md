@@ -3,24 +3,24 @@
 ##Uitvoeringsregeling internationale bijstandsverlening bij de heffing van belastingen
 
 De Staatssecretaris van Financiën,
-Gelet op [artikel 7a, derde lid](../../../../../../../../../../wet/wet/op/de/internationale/bijstandsverlening/bij/de/heffing/van/belastingen/BWBR0003954/README.md), en [artikel 8a, derde lid, van de Wet op de internationale bijstandsverlening bij de heffing van belastingen](../../../../../../../../../../wet/wet/op/de/internationale/bijstandsverlening/bij/de/heffing/van/belastingen/BWBR0003954/README.md);
+Gelet op artikel 7a, derde lid, en artikel 8a, derde lid, van de Wet op de internationale bijstandsverlening bij de heffing van belastingen;
 Besluit:
 
 ### Artikel  1  
 
-Deze regeling berust op de [artikelen 4a, derde lid](../../../../../../../../../../wet/wet/op/de/internationale/bijstandsverlening/bij/de/heffing/van/belastingen/BWBR0003954/README.md), en [22 van de Wet op de internationale bijstandsverlening bij de heffing van belastingen](../../../../../../../../../../wet/wet/op/de/internationale/bijstandsverlening/bij/de/heffing/van/belastingen/BWBR0003954/README.md). 
+Deze regeling berust op de artikelen 4a, derde lid, en 22 van de Wet op de internationale bijstandsverlening bij de heffing van belastingen. 
 
 ###Hoofdstuk 1 
 
 ####Definitiebepaling
 
-###Artikel 2 
+### Artikel  2  
 
-Deze regeling verstaat onder wet: [Wet op de internationale bijstandsverlening bij de heffing van belastingen](../../../../../../../../../../wet/wet/op/de/internationale/bijstandsverlening/bij/de/heffing/van/belastingen/BWBR0003954/README.md).
+Deze regeling verstaat onder wet: Wet op de internationale bijstandsverlening bij de heffing van belastingen. 
 
 ###Artikel 2a 
 
-1. Voor de toepassing van [afdeling 2 van Hoofdstuk IA van de wet](../../../../../../../../../../wet/wet/op/de/internationale/bijstandsverlening/bij/de/heffing/van/belastingen/BWBR0003954/README.md) worden met een lidstaat gelijkgesteld: 
+1. Voor de toepassing van afdeling 2 van Hoofdstuk IA van de wet worden met een lidstaat gelijkgesteld: 
 
 a. Aruba;  
 
@@ -43,7 +43,7 @@ i. Guernsey;
 j. Jersey;  
 
 k. Montserrat.   
-2.  Voor de toepassing van [artikel 4b, tweede lid, onderdeel b, van de wet](../../../../../../../../../../wet/wet/op/de/internationale/bijstandsverlening/bij/de/heffing/van/belastingen/BWBR0003954/README.md) wordt voorts met een lidstaat gelijkgesteld: 
+2.  Voor de toepassing van artikel 4b, tweede lid, onderdeel b, van de wet wordt voorts met een lidstaat gelijkgesteld: 
 
 a. de Turks- en Caicoseilanden;  
 
@@ -64,13 +64,13 @@ c. Anguilla.
 
 ####Slotbepalingen
 
-###Artikel 5 
+### Artikel  5  
 
-Deze regeling treedt in werking op 31 december 2004.
+Deze regeling treedt in werking op 31 december 2004. 
 
-###Artikel 6 
+### Artikel  6  
 
-Deze regeling wordt aangehaald als: Uitvoeringsregeling internationalebijstandsverlening bij de heffing van belastingen.
+Deze regeling wordt aangehaald als: Uitvoeringsregeling internationale bijstandsverlening bij de heffing van belastingen. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 De 

@@ -424,7 +424,7 @@ Elke partij draagt er in overeenstemming met artikel VIII van de GATT 1994 en de
 
 ### AFDELING  3  
 
-####AFSCHAFFING VAN DOUANERECHTEN, VERGOEDINGEN EN ANDERE HEFFINGEN
+####NIET-TARIFAIRE MAATREGELEN
 
 Treedt in werking op een nader te bepalen tijdstip 
 

@@ -12,7 +12,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ####Algemene bepalingen
 
-####Algemene begrippen
+####De begrippen werkgever en werknemer
 
 ### Artikel  1:1  
 
@@ -20,23 +20,7 @@ Tenzij anders is bepaald, wordt voor de toepassing van deze wet verstaan onder:
 
 a. werkgever: degene die een ander krachtens arbeidsovereenkomst naar burgerlijk recht of publiekrechtelijke aanstelling arbeid laat verrichten;  
 
-b. werknemer: de ander, bedoeld in onderdeel a;  
-
-c.winst uit onderneming: de belastbare winst uit onderneming, bedoeld in paragraaf 3.2.1 van de Wet inkomstenbelasting 2001, vermeerderd met de ondernemersaftrek, bedoeld in paragraaf 3.2.4 van die wet, en de MKB-winstvrijstelling, bedoeld in paragraaf 3.2.5, van die wet;
-
-d.dienstbetrekking: een dienstbetrekking in de zin van de Ziektewet;
-
-e.aanmerkelijk belang: aanmerkelijk belang, als bedoeld in hoofdstuk 4, van de Wet inkomstenbelasting 2001;
-
-f.inkomsten uit tegenwoordige arbeid: het gezamenlijke bedrag van:
-
-1°.het belastbaar loon uit tegenwoordige arbeid, bedoeld in afdeling 3.3, van de Wet inkomstenbelasting 2001;
-
-2°.het belastbaar loon ter zake van het in Nederland verrichten van arbeid, bedoeld in afdeling 7.2, van de Wet inkomstenbelasting 2001;
-
-3°.het belastbaar resultaat uit overige werkzaamheden, bedoeld in afdeling 3.4 van de Wet inkomstenbelasting 2001, behoudens voor zover het een werkzaamheid betreft als bedoeld in de artikelen 3.91, eerste lid, onderdelen a en b, en 3.92 van de Wet inkomstenbelasting 2001; en
-
-4°.het belastbaar resultaat uit overige werkzaamheden in Nederland, bedoeld in afdeling 7.2, van de Wet inkomstenbelasting 2001, behoudens voor zover het een werkzaamheid betreft als bedoeld in de artikelen 3.91, eerste lid, onderdelen a en b, en 3.92 van de Wet inkomstenbelasting 2001. 
+b. werknemer: de ander, bedoeld in onderdeel a.   
 
 ####Het begrip loon
 
@@ -61,7 +45,8 @@ d. militaire ambtenaar: de militaire ambtenaar, bedoeld in artikel 1, eerste en 
 
 e. Onze Minister: Onze Minister van Sociale Zaken en Werkgelegenheid.     
 2.  Voor de toepassing van deze wet is sprake van ongehuwd samenwonen als twee ongehuwde personen een gezamenlijke huishouding voeren. Van een gezamenlijke huishouding als bedoeld in de eerste volzin is sprake indien de betrokkenen hun hoofdverblijf hebben in dezelfde woning en blijk geven zorg te dragen voor elkaar door middel van het leveren van een bijdrage in de kosten van de huishouding danwel op andere wijze in elkaars verzorging voorzien.  
-3. Voor de toepassing van deze wet wordt verstaan onder levensbedreigend ziek: de gezondheidssituatie die zo ernstig is dat volgens objectieve medische maatstaven het leven van de persoon op korte termijn ernstig gevaar loopt.
+3. Voor de toepassing van deze wet wordt verstaan onder levensbedreigend ziek: de gezondheidssituatie die zo ernstig is dat volgens objectieve medische maatstaven het leven van de persoon op korte termijn ernstig gevaar loopt. 
+4.  Voor de toepassing van deze wet wordt verstaan onder hulpbehoevend: de toestand van een persoon waardoor deze ten behoeve van zelfredzaamheid, participatie, beschermd wonen of opvang hulp nodig heeft die niet in het kader van een hulpverlenend beroep wordt geboden en die de gebruikelijke hulp overstijgt. 
 
 ####Gelijkstelling met een collectieve arbeidsovereenkomst
 
@@ -100,13 +85,16 @@ Voor de toepassing van de artikelen 4:7 en 5:16 geldt een afwijkende regeling do
 1.  De vrouwelijke werknemer heeft in verband met haar bevalling recht op zwangerschaps- en bevallingsverlof.   
 2.  Het recht op zwangerschapsverlof bestaat vanaf zes weken voor de dag na de vermoedelijke datum van bevalling, zoals aangegeven in een aan de werkgever overgelegde schriftelijke verklaring van een arts of verloskundige, tot en met de dag van de bevalling. Het zwangerschapsverlof gaat in uiterlijk vier weken voor de dag na de vermoedelijke datum van bevalling.   
 3.  Het bevallingsverlof gaat in op de dag na de bevalling en bedraagt tien aaneengesloten weken vermeerderd met het aantal dagen dat het zwangerschapsverlof tot en met de vermoedelijke datum van bevalling, dan wel, indien eerder gelegen, tot en met de werkelijke datum van bevalling, minder dan zes weken heeft bedragen.   
-4.  Voor de toepassing van het derde lid worden dagen waarover de vrouwelijke werknemer op grond van artikel 29a, tweede lid, van de Ziektewet ziekengeld heeft genoten in de periode dat zij recht heeft op zwangerschapsverlof, maar dat verlof nog niet is ingegaan, aangemerkt als dagen waarover zij zwangerschapsverlof heeft genoten.  
+4.  Voor de toepassing van het derde lid worden dagen waarover de vrouwelijke werknemer op grond van artikel 29a, tweede lid, van de Ziektewet ziekengeld heeft genoten in de periode dat zij recht heeft op zwangerschapsverlof, maar dat verlof nog niet is ingegaan, aangemerkt als dagen waarover zij zwangerschapsverlof heeft genoten.   
+5.  Als een kind tijdens het bevallingsverlof vanwege zijn medische toestand in een ziekenhuis is opgenomen, wordt het bevallingsverlof verlengd met het aantal opnamedagen, te rekenen vanaf de achtste dag van opname tot en met de laatste dag van het bevallingsverlof tot een maximum van tien weken. De in de eerste zin bedoelde verlenging van het bevallingsverlof is uitsluitend van toepassing voor zover de ziekenhuisopname langer duurt dan het aantal dagen waarmee het bevallingsverlof als gevolg van de werkelijke datum van bevalling op grond van het derde lid wordt verlengd.   
+6.  In afwijking van het derde lid kan de vrouwelijke werknemer de werkgever verzoeken het bevallingsverlof op te delen na 6 weken waarop het recht op dat verlof is ingegaan. De vrouwelijke werknemer kan dit deel van het verlof opnemen gedurende het tijdvak van 30 weken, welk tijdvak aanvangt de dag nadat het bevallingsverlof is opgedeeld. Het verzoek wordt gedaan uiterlijk drie weken nadat het verlof is ingegaan.   
+7.  De omvang van het bevallingsverlof dat is opgedeeld en dat later wordt opgenomen is gelijk aan de arbeidsduur per week ten tijde van het bevallingsverlof dat volgt na de werkelijke datum van de bevalling.   
+8.  De werkgever stemt uiterlijk twee weken nadat het verzoek, bedoeld in het zesde lid, is gedaan in met het verzoek, tenzij een zwaarwegend bedrijfs- of dienstbelang zich hiertegen verzet.   
+9.  Ingeval van toepassing van het vijfde lid, ziet het verzoek, bedoeld in het zesde lid, op de periode na afloop van de verlenging, bedoeld in het vijfde lid. 
 
 ### Artikel  3:1a  
 
 ####Overgang bevallingsverlof
-
-Treedt in werking per 01-01-2015 
 
 1.  Indien tijdens het bevallingsverlof de vrouwelijke werknemer overlijdt en een akte van geboorte van haar kind is opgemaakt heeft haar partner, indien deze werknemer is als bedoeld in artikel 3:6, recht op het resterende bevallingsverlof met behoud van loon.   
 2.  Voor de toepassing van dit hoofdstuk wordt als partner aangemerkt degene die: 
@@ -125,9 +113,10 @@ b. het kind heeft erkend.
 ### Artikel  3:2  
 
 1.  De werknemer heeft in verband met de adoptie van een kind recht op verlof zonder behoud van loon.   
-2.  Het recht op verlof in verband met adoptie bestaat gedurende een tijdvak van achttien weken en bedraagt ten hoogste vier aaneengesloten weken. Het recht bestaat vanaf twee weken vóór de eerste dag dat de feitelijke opneming ter adoptie een aanvang heeft genomen of zal nemen, zoals die dag is aangeduid in een door de werknemer aan de werkgever overgelegd document waaruit blijkt dat een kind ter adoptie is of zal worden opgenomen.   
+2.  Het recht op verlof in verband met adoptie bestaat gedurende een tijdvak van zesentwintig weken en bedraagt ten hoogste vier aaneengesloten weken. Het recht bestaat vanaf vier weken vóór de eerste dag dat de feitelijke opneming ter adoptie een aanvang heeft genomen of zal nemen, zoals die dag is aangeduid in een door de werknemer aan de werkgever overgelegd document waaruit blijkt dat een kind ter adoptie is of zal worden opgenomen.   
 3.  Indien als gevolg van een adoptieverzoek tegelijkertijd twee of meer kinderen feitelijk ter adoptie worden opgenomen, bestaat het recht op verlof slechts ten aanzien van één van die kinderen.   
-4.  Het eerste, tweede en derde lid en de artikelen 3:3, tweede lid, 3:4 en 3:5 zijn van overeenkomstige toepassing op de werknemer die een pleegkind opneemt als bedoeld in artikel 5:1, tweede lid, onder d.  
+4.  In afwijking van het tweede lid, eerste zin, kan de werknemer de werkgever verzoeken om het verlof te spreiden gedurende een tijdvak van zesentwintig weken. De werkgever kan dit verzoek afwijzen, indien zwaarwegende bedrijfs- of dienstbelangen zich hiertegen verzetten.   
+5.  Het eerste, tweede, derde en vierde lid en de artikelen 3:3, derde lid, 3:4 en 3:5 zijn van overeenkomstige toepassing op de werknemer die een pleegkind opneemt als bedoeld in artikel 5:1, tweede lid, onder d.  
 
 ### §  2  
 
@@ -142,7 +131,8 @@ b. het kind heeft erkend.
 a. de dag met ingang waarvan zij het zwangerschapsverlof opneemt uiterlijk drie weken voor die dag;  
 
 b. haar bevalling uiterlijk op de tweede dag volgend op die van de bevalling.     
-2.  De werknemer meldt aan de werkgever het opnemen van het verlof in verband met adoptie zo mogelijk uiterlijk drie weken voor de dag van ingang van het verlof onder opgave van de omvang van het verlof. Bij de melding worden documenten gevoegd waaruit blijkt dat een kind ter adoptie is of zal worden opgenomen.  
+2.  De werknemer die op grond van artikel 3:1 of 3:1a verlof geniet meldt de werkgever de dag waarop het kind vanwege zijn medische toestand tijdens het voornoemde verlof in het ziekenhuis is opgenomen alsmede wanneer de opname is beëindigd. Uiterlijk op de laatste dag van het in de eerste zin bedoelde verlof geeft het ziekenhuis op verzoek van de werknemer een verklaring af, waarin de gehele duur van de opname van het kind in het ziekenhuis tijdens het verlof staat vermeld. De werknemer verstrekt deze verklaring onverwijld aan de werkgever.  
+3.  De werknemer meldt aan de werkgever het opnemen van het verlof in verband met adoptie zo mogelijk uiterlijk drie weken voor de dag van ingang van het verlof onder opgave van de omvang van het verlof. Bij de melding worden documenten gevoegd waaruit blijkt dat een kind ter adoptie is of zal worden opgenomen.  
 
 ### §  3  
 
@@ -152,7 +142,7 @@ b. haar bevalling uiterlijk op de tweede dag volgend op die van de bevalling.
 
 ### Artikel  3:4  
 
-Dagen of gedeelten van dagen waarop de werknemer zijn arbeid niet verricht wegens het verlof, bedoeld in de artikelen 3:1en 3:2, kunnen niet worden aangemerkt als vakantie. 
+Dagen of gedeelten van dagen waarop de werknemer zijn arbeid niet verricht wegens het verlof, bedoeld in de artikelen 3:1, 3:1a en 3:2, kunnen niet worden aangemerkt als vakantie. 
 
 ### §  4  
 
@@ -161,7 +151,7 @@ Dagen of gedeelten van dagen waarop de werknemer zijn arbeid niet verricht wegen
 ### Artikel  3:5  
 
 1.  Behoudens het tweede lid kan van deze afdeling niet ten nadele van de werknemer worden afgeweken.   
-2.  In geval van buitengewone omstandigheden als bedoeld in de Coördinatiewet uitzonderingstoestanden kan Onze Minister van Defensie voor de militaire ambtenaar afwijken of doen afwijken van de artikelen 3:1 en 3:2.  
+2.  In geval van buitengewone omstandigheden als bedoeld in de Coördinatiewet uitzonderingstoestanden kan Onze Minister van Defensie voor de militaire ambtenaar afwijken of doen afwijken van de artikelen 3:1, 3:1a en 3:2.  
 
 ### Afdeling  2  
 
@@ -196,8 +186,8 @@ b. gelijkgestelde: degene die geen werknemer is als bedoeld in onderdeel a doch 
 
 ### Artikel  3:7  
 
-1.  De vrouwelijke werknemer heeft gedurende de periode dat het zwangerschaps- en bevallingsverlof wordt genoten overeenkomstig artikel 3:1, tweede en derde lid, recht op uitkering.   
-2.  De werknemer heeft gedurende de periode dat het verlof in verband met adoptie of de opname van een pleegkind wordt genoten overeenkomstig artikel 3:2, tweede lid of vierde lid, recht op uitkering.  
+1.  De vrouwelijke werknemer heeft gedurende de periode dat het zwangerschaps- en bevallingsverlof wordt genoten overeenkomstig artikel 3:1, tweede, derde en vijfde lid, recht op uitkering.   
+2.  De werknemer heeft gedurende de periode dat het verlof in verband met adoptie of de opname van een pleegkind wordt genoten overeenkomstig artikel 3:2, tweede lid of vijfde lid, recht op uitkering.  
 
 ####Recht op uitkering in verband met zwangerschap en bevalling voor de vrouwelijke gelijkgestelde
 
@@ -206,14 +196,15 @@ b. gelijkgestelde: degene die geen werknemer is als bedoeld in onderdeel a doch 
 1.  De vrouwelijke gelijkgestelde heeft in verband met haar zwangerschap en bevalling recht op uitkering gedurende ten minste zestien weken, overeenkomstig het tweede en derde lid.   
 2.  Het recht op uitkering in verband met zwangerschap vangt aan zes weken voor de dag na de vermoedelijke datum van bevalling, zoals aangegeven in een schriftelijke verklaring van een arts of verloskundige, tot en met de dag van de bevalling. Indien de vrouwelijke gelijkgestelde dat wenst vangt het recht op uitkering in verband met zwangerschap aan op een later tijdstip, doch uiterlijk vier weken voor de dag na de vermoedelijke datum van bevalling.   
 3.  Het recht op uitkering in verband met bevalling vangt aan op de dag na de bevalling en bedraagt tien aaneengesloten weken vermeerderd met het aantal dagen dat de uitkering in verband met zwangerschap tot en met de vermoedelijke datum van bevalling, dan wel, indien eerder gelegen, tot en met de werkelijke datum van bevalling, minder dan zes weken heeft bedragen.   
-4.  Voor de toepassing van het derde lid worden dagen waarover de vrouwelijke gelijkgestelde ziekengeld heeft genoten in de periode dat zij recht heeft op uitkering in verband met zwangerschap maar die uitkering nog niet is ingegaan, aangemerkt als dagen waarover zij uitkering in verband met zwangerschap heeft genoten.  
+4.  Voor de toepassing van het derde lid worden dagen waarover de vrouwelijke gelijkgestelde ziekengeld heeft genoten in de periode dat zij recht heeft op uitkering in verband met zwangerschap maar die uitkering nog niet is ingegaan, aangemerkt als dagen waarover zij uitkering in verband met zwangerschap heeft genoten.   
+5.  Als een kind tijdens de periode waarop een recht op uitkering in verband met bevalling bestaat vanwege zijn medische toestand in het ziekenhuis is opgenomen, wordt het recht op uitkering in verband met bevalling verlengd met de tijd dat het kind in het ziekenhuis heeft doorgebracht vanaf de achtste dag van opname tot en met de laatste dag waarop het recht op uitkering bestaat tot een maximum van tien weken. De in de eerste zin bedoelde verlenging van het recht op uitkering in verband met de bevalling is uitsluitend van toepassing voor zover de aldaar bedoelde ziekenhuisopname langer duurt dan het aantal dagen waarmee de uitkering in verband met de bevalling als gevolg van de werkelijke datum van bevalling op grond van het derde lid wordt verlengd. Artikel 3:3, tweede lid, is van overeenkomstige toepassing. 
 
 ####Recht op uitkering in verband met adoptie of pleegzorg voor de gelijkgestelde
 
 ### Artikel  3:9  
 
 1.  De gelijkgestelde heeft in verband met de adoptie van een kind recht op uitkering.   
-2.  Het recht op uitkering in verband met adoptie bedraagt ten hoogste vier aaneengesloten weken gedurende een tijdvak van achttien weken. Het tijdvak van achttien weken gaat in twee weken vóór de eerste dag dat de feitelijke opneming ter adoptie een aanvang heeft genomen of zal nemen, zoals die dag is aangeduid in een door de werknemer aan de werkgever overgelegd document waaruit blijkt dat een kind ter adoptie is of zal worden opgenomen.   
+2.  Het recht op uitkering in verband met adoptie bedraagt ten hoogste vier aaneengesloten weken gedurende een tijdvak van zesentwintig weken. Het tijdvak van zesentwintig weken gaat in vier weken vóór de eerste dag dat de feitelijke opneming ter adoptie een aanvang heeft genomen of zal nemen, zoals die dag is aangeduid in een door de werknemer aan de werkgever overgelegd document waaruit blijkt dat een kind ter adoptie is of zal worden opgenomen.   
 3.  Indien als gevolg van een adoptieverzoek tegelijkertijd twee of meer kinderen feitelijk ter adoptie worden opgenomen, bestaat het recht op uitkering slechts ten aanzien van één van die kinderen.   
 4.  Het eerste, tweede en derde lid zijn van overeenkomstige toepassing op de werknemer die een pleegkind opneemt als bedoeld in artikel 5:1, tweede lid, onder d.  
 
@@ -221,7 +212,7 @@ b. gelijkgestelde: degene die geen werknemer is als bedoeld in onderdeel a doch 
 
 ### Artikel  3:10  
 
-1.  Een recht op uitkering als bedoeld in de artikelen 3:7, eerste lid, en 3:8, eerste lid, komt mede toe aan de vrouw wier bevalling waarschijnlijk is onderscheidenlijk plaatsvindt, binnen een periode van tien weken na het tijdstip dat zij niet langer werknemer of gelijkgestelde is als bedoeld in artikel 3:6, eerste lid.   
+1.  Een recht op uitkering als bedoeld in de artikelen 3:7, eerste lid, en 3:8, eerste en vijfde lid, komt mede toe aan de vrouw wier bevalling waarschijnlijk is onderscheidenlijk plaatsvindt, binnen een periode van tien weken na het tijdstip dat zij niet langer werknemer of gelijkgestelde is als bedoeld in artikel 3:6, eerste lid.   
 2.  Een recht op uitkering als bedoeld in de artikelen 3:7, tweede lid, en 3:9, eerste lid, komt mede toe aan de persoon die, op de eerste dag dat een kind feitelijk ter adoptie is opgenomen, korter dan tien weken geen werknemer of gelijkgestelde meer is als bedoeld in artikel 3:6, eerste lid.   
 3.  Het tweede lid is van overeenkomstige toepassing op de persoon die een pleegkind opneemt als bedoeld in artikel 5:1, tweede lid, onder d.  
 
@@ -233,7 +224,7 @@ b. gelijkgestelde: degene die geen werknemer is als bedoeld in onderdeel a doch 
 
 a. de vermoedelijke datum van bevalling;  
 
-b. de datum waarop het zwangerschapsverlof ingaat dan wel de datum waarop de gelijkgestelde het recht op uitkering wil laten ingaan.     
+b. de datum waarop het zwangerschapsverlof ingaat dan wel de datum waarop de gelijkgestelde het recht op uitkering wil laten ingaan.   Indien het bevallingsverlof van de vrouwelijke werknemer of het recht op uitkering van de vrouwelijke werknemer of gelijkgestelde wordt verlengd op grond van artikel 3:1, vijfde lid, onderscheidenlijk 3:8, vijfde lid, brengt de werkgever het Uitvoeringsinstituut werknemersverzekeringen daarvan op de hoogte. De werkgever verstrekt aan het Uitvoeringsinstituut werknemersverzekeringen de op verzoek van de vrouwelijke werknemer of gelijkgestelde door het ziekenhuis af te geven verklaring, bedoeld in artikel 3:3, tweede lid.  
 2.  Het Uitvoeringsinstituut werknemersverzekeringen kan de werkgever, uiterlijk binnen een jaar na het tijdstip waarop de uitkering geëindigd is, een verklaring vragen van een arts of verloskundige over de vermoedelijke datum van bevalling, welke is opgemaakt uiterlijk twee weken voor de datum van ingang van het zwangerschapsverlof onderscheidenlijk twee weken voor de datum waarop de vrouwelijke werknemer het recht op uitkering wil laten ingaan.  
 3.  De werknemer of gelijkgestelde, die in aanmerking wenst te komen voor toekenning van een uitkering in verband met adoptie of pleegzorg, doet de aanvraag daartoe door tussenkomst van de werkgever bij het Uitvoeringsinstituut werknemersverzekeringen uiterlijk twee weken voor de datum van ingang van het verlof in verband met adoptie of pleegzorg onderscheidenlijk de datum waarop hij het recht op uitkering wil laten ingaan. Bij de aanvraag worden documenten gevoegd waaruit blijkt dat een kind ter adoptie of pleegzorg is of zal worden opgenomen en wanneer die opneming ter adoptie of pleegzorg heeft plaatsgevonden of zal plaatsvinden. Bij die aanvraag wordt de datum waarop het verlof in verband met adoptie of pleegzorg ingaat gemeld dan wel de datum waarop hij het recht op uitkering wil laten ingaan.   
 4.  Indien de aanvraag niet tijdig wordt gedaan, wordt de uitkering uitsluitend toegekend voor zover het tijdvak waarin sprake was van recht op uitkering in verband met zwangerschap en bevalling, adoptie of pleegzorg, valt in het jaar voorafgaand aan de datum van aanvraag. Het Uitvoeringsinstituut werknemersverzekeringen kan in bijzondere gevallen ten gunste van de werknemer of gelijkgestelde afwijken van de eerste zin.  
@@ -242,7 +233,7 @@ b. de datum waarop het zwangerschapsverlof ingaat dan wel de datum waarop de gel
 
 ### Artikel  3:12  
 
-1.  Indien de vrouwelijke gelijkgestelde, die in aanmerking wenst te komen voor toekenning van een uitkering in verband met zwangerschap en bevalling, geen werkgever heeft, doet zij de aanvraag daartoe bij het Uitvoeringsinstituut werknemersverzekeringen uiterlijk twee weken voor de datum waarop zij het recht op uitkering wil laten ingaan. Artikel 3:11, eerste lid, tweede volzin, en tweede lid, zijn van overeenkomstige toepassing   
+1.  Indien de vrouwelijke gelijkgestelde, die in aanmerking wenst te komen voor toekenning van een uitkering in verband met zwangerschap en bevalling, geen werkgever heeft, doet zij de aanvraag daartoe bij het Uitvoeringsinstituut werknemersverzekeringen uiterlijk twee weken voor de datum waarop zij het recht op uitkering wil laten ingaan. Artikel 3:11, eerste lid, tweede volzin, is van toepassing. Indien het recht op uitkering van de vrouwelijke gelijkgestelde, bedoeld in de eerste volzin, wordt verlengd op grond van artikel 3:8, vijfde lid, brengt zij het Uitvoeringsinstituut werknemersverzekeringen daarvan op de hoogte. Artikel 3:3, tweede lid, tweede volzin, is van overeenkomstige toepassing. De vrouwelijke gelijkgestelde verstrekt aan het Uitvoeringsinstituut werknemersverzekeringen de op haar verzoek door het ziekenhuis af te geven verklaring, bedoeld in artikel 3:3, tweede lid.   
 2.  Indien de gelijkgestelde, die in aanmerking wenst te komen voor toekenning van uitkering in verband met adoptie of pleegzorg, geen werkgever heeft, doet hij de aanvraag daartoe bij het Uitvoeringsinstituut werknemersverzekeringen uiterlijk twee weken voor ingang van de datum waarop hij het recht op uitkering wil laten ingaan. Artikel 3:11, derde lid, tweede en derde volzin, is van toepassing.   
 3.  Indien de aanvraag niet tijdig wordt gedaan, wordt de uitkering uitsluitend toegekend voor zover het tijdvak waarin sprake was van recht op uitkering in verband met zwangerschap en bevalling, adoptie of pleegzorg, valt in het jaar voorafgaand aan de datum van aanvraag. Het Uitvoeringsinstituut werknemersverzekeringen kan in bijzondere gevallen ten gunste van de gelijkgestelde afwijken van de eerste zin.   
 4.  Voor de toepassing van dit artikel wordt onder gelijkgestelde mede verstaan degene die recht op uitkering heeft op grond van artikel 3:10.  
@@ -252,7 +243,7 @@ b. de datum waarop het zwangerschapsverlof ingaat dan wel de datum waarop de gel
 ### Artikel  3:13  
 
 1.  De uitkering, bedoeld in deze paragraaf, bedraagt per dag het dagloon.   
-2.  Het dagloon wordt voor de werknemer en de gelijkgestelde, bedoeld in artikel 3:6, eerste lid, en de betrokkene, bedoeld in artikel 3:10, eerste en tweede lid, vastgesteld en herzien overeenkomstig de vaststelling en herziening op grond van de artikelen 15 en van de Ziektewet en de daarop berustende bepalingen waarbij de periode van één jaar, bedoeld in artikel 15 van die wet, voor de toepassing van deze wet eindigt op de laatste dag van het tweede aangiftetijdvak voorafgaande aan het aangiftetijdvak waarin de uitkering op grond deze wet ingaat.   
+2.  Het dagloon wordt voor de werknemer en de gelijkgestelde, bedoeld in artikel 3:6, eerste lid, en de betrokkene, bedoeld in artikel 3:10, eerste en tweede lid, vastgesteld en herzien overeenkomstig de vaststelling en herziening op grond van de artikelen 15 en 16 van de Ziektewet en de daarop berustende bepalingen waarbij de periode van één jaar, bedoeld in artikel 15 van die wet, voor de toepassing van deze wet eindigt op de laatste dag van het tweede aangiftetijdvak voorafgaande aan het aangiftetijdvak waarin de uitkering op grond deze wet ingaat.   
 3.  Voor de gelijkgestelde, bedoeld in artikel 3:6 eerste lid, onderdeel b, onder 1°, die op grond van artikel 8, onder a, van de Ziektewet voorafgaand aan een uitkering op grond van deze wet ziekengeld ontving, is het dagloon gelijk aan het reeds ten behoeve daarvan vastgestelde en herziene dagloon.   
 4.  Indien voor de gelijkgestelde, bedoeld in het derde lid, artikel 31 van de Ziektewet werd toegepast vanwege ander inkomen dan uit de dienstbetrekking, op grond waarvan het recht op ziekengeld is ontstaan, wordt het dagloon voor de toepassing van deze wet, in afwijking van het tweede lid, vastgesteld op 100/A van het ziekengeld per dag over de vier kalenderweken voorafgaande aan de uitkering op grond van deze wet, waarbij A staat voor het uitkeringspercentage van uitkering op grond van de Ziektewet.   
 5.  Voor de gelijkgestelde, bedoeld in artikel 3:6, eerste lid, onderdeel b, onder 2°, is het dagloon, in afwijking van het tweede lid, gelijk aan het op grond van artikel 13 van de Wet werk en inkomen naar arbeidsvermogen en de daarop berustende bepalingen reeds vastgestelde en herziene dagloon. Indien voor de gelijkgestelde, bedoeld in de eerste zin, bij het vaststellen van de hoogte van de loongerelateerde uitkering van de werkhervattingsuitkering gedeeltelijk arbeidsgeschikten op grond van artikel 61 van de Wet werk en inkomen naar arbeidsvermogen rekening werd gehouden met inkomen, wordt het dagloon voor de toepassing van deze wet, in afwijking van het tweede lid, vastgesteld op 100/70 van het bedrag van die uitkering per dag over de vier kalenderweken voorafgaande aan de uitkering op grond van deze wet.  
@@ -270,16 +261,12 @@ b. de datum waarop het zwangerschapsverlof ingaat dan wel de datum waarop de gel
 
 ####Opschorting betaling bij vertrek naar onbekende bestemming
 
-1.  Is van de aanvrager of ontvanger van een uitkering in verband met zwangerschap en bevalling bij het Uitvoeringsinstituut werknemersverzekeringen een adres in Nederland bekend, terwijl in de basisregistratie personen ambtshalve is opgenomen dat hij is vertrokken naar een onbekend land van verblijf, dan verzoekt het Uitvoeringsinstituut werknemersverzekeringen hem de afwijkende registratie in de basisregistratie personen binnen een redelijke termijn ongedaan te laten maken.   
+1.  Is van de aanvrager of ontvanger van een uitkering in verband met zwangerschap en bevalling bij het Uitvoeringsinstituut werknemersverzekeringen een adres in Nederland bekend, terwijl in de basisregistratie personen ambtshalve is opgenomen dat hij is vertrokken naar een onbekend land van verblijf, dan verzoekt het Uitvoeringsinstituut werknemersverzekeringen hem de afwijkende registratie in de basisregistratie personen binnen een redelijke termijn ongedaan te laten maken.   
 2.  Wanneer na afloop van deze termijn, de afwijkende registratie niet is beëindigd of als uit de basisregistratie personen niet blijkt dat het college van burgemeester en wethouders van de desbetreffende gemeente de gegevens over het adres in onderzoek heeft genomen, schort het Uitvoeringsinstituut werknemersverzekeringen de betaling van de uitkering aan de persoon, die recht heeft op de uitkering, op.   
 3.  De opschorting wordt beëindigd zodra is vastgesteld dat de persoon, bedoeld in het tweede lid, in het buitenland woont of verblijft of dat een adres in Nederland in de basisregistratie personen is opgenomen.   
-4.  Indien het onderzoek van het college van burgemeester en wethouders is afgerond en de persoon, bedoeld in het tweede lid, in de basisregistratie personen ambtshalve opgenomen blijft met gegevens over het vertrek uit Nederland, schort het Uitvoeringsinstituut werknemersverzekeringen de betaling van de toeslag op tot verblijf in het buitenland kan worden vastgesteld of een adres in Nederland in de basisregistratie personen is opgenomen.  
+4.  Indien het onderzoek van het college van burgemeester en wethouders is afgerond en de persoon, bedoeld in het tweede lid, in de basisregistratie personen ambtshalve opgenomen blijft met gegevens over het vertrek uit Nederland, schort het Uitvoeringsinstituut werknemersverzekeringen de betaling van de uitkering op tot verblijf in het buitenland kan worden vastgesteld of een adres in Nederland in de basisregistratie personen is opgenomen.  
 
 ####Financiering
-
-###Artikel 3:15 
-
-De op grond van deze paragraaf te betalen uitkeringen en de uitvoeringskosten met betrekking tot die uitkeringen komen ten laste van het Algemeen Werkloosheidsfonds met uitzondering van hetgeen op grond van artikel 108, eerste lid, onderdelen c en d, van de Wet financiering sociale verzekeringen ten laste komt van het Uitvoeringsfonds voor de overheid, bedoeld in artikel 106 van die wet.
 
 ####Van overeenkomstige toepassing zijnde artikelen
 
@@ -297,7 +284,7 @@ d. ter zake van oproeping en ondervraging: artikel 37;
 
 e. ter zake van ontheffing in verband met gemoedsbezwaren: artikel 43;  
 
-f. ter zake van maatregelen: artikel 45, eerste lid, onderdelen e, h, i en j, en tweede tot en met zesde lid;  
+f. ter zake van maatregelen: artikel 45, eerste lid, onderdelen e, h, i, j en r, en tweede tot en met zesde lid;  
 
 g. ter zake van de inlichtingenverplichting: artikel 49;  
 
@@ -346,15 +333,31 @@ b.zelfstandige: de persoon die de pensioengerechtigde leeftijd, bedoeld in artik
 
 5°.directeur-grootaandeelhouder is en het werk tot stand brengt uitsluitend voor rekening en risico van de onderneming van de rechtspersoon waarvan hij directeur-grootaandeelhouder is;
 
-6°.anders dan in dienstbetrekking of als zelfstandige als bedoeld in de onderdelen 1° tot en met 5° meewerkt in de onderneming van een echtgenoot of geregistreerde partner.
+6°.anders dan in dienstbetrekking of als zelfstandige als bedoeld in de onderdelen 1° tot en met 5° meewerkt in de onderneming van een echtgenoot of geregistreerde partner;
+
+c. winst uit onderneming: de belastbare winst uit onderneming, bedoeld in paragraaf 3.2.1 van de Wet inkomstenbelasting 2001, vermeerderd met de ondernemersaftrek, bedoeld in paragraaf 3.2.4 van die wet, en de MKB-winstvrijstelling, bedoeld in paragraaf 3.2.5, van die wet;  
+
+d. dienstbetrekking: een dienstbetrekking in de zin van de Ziektewet;  
+
+e. aanmerkelijk belang: aanmerkelijk belang als bedoeld in hoofdstuk 4 van de Wet inkomstenbelasting 2001;  
+
+f. inkomsten uit tegenwoordige arbeid: het gezamenlijke bedrag van: 
+
+1°. het belastbaar loon uit tegenwoordige arbeid, bedoeld in afdeling 3.3 van de Wet inkomstenbelasting 2001;  
+
+2°. het belastbaar loon ter zake van het in Nederland verrichten van arbeid, bedoeld in afdeling 7.2 van de Wet inkomstenbelasting 2001;  
+
+3°. het belastbaar resultaat uit overige werkzaamheden, bedoeld in afdeling 3.4 van de Wet inkomstenbelasting 2001, behoudens voor zover het een werkzaamheid betreft als bedoeld in de artikelen 3.91, eerste lid, onderdelen a en b, en 3.92 van de Wet inkomstenbelasting 2001; en  
+
+4°. het belastbaar resultaat uit overige werkzaamheden in Nederland, bedoeld in afdeling 7.2, van de Wet inkomstenbelasting 2001, behoudens voor zover het een werkzaamheid betreft als bedoeld in de artikelen 3.91, eerste lid, onderdelen a en b, en 3.92 van de Wet inkomstenbelasting 2001.  
 2. Door Onze Minister worden, in overeenstemming met Onze Minister van Financiën, regels gesteld omtrent hetgeen onder directeur-grootaandeelhouder als bedoeld in het eerste lid onderdeel 5°, wordt verstaan. 
 
-####Recht op uitkering voor de zelfstandige en de beroepsbeoefenaar op arbeidsovereenkomst
+####Recht op uitkering voor de zelfstandige, de beroepsbeoefenaar op arbeidsovereenkomst en de partner, bedoeld in artikel 3:1a, tweede lid 
 
 ### Artikel  3:18  
 
-1. De vrouwelijke beroepsbeoefenaar op arbeidsovereenkomst heeft gedurende de periode dat het zwangerschaps- en bevallingsverlof wordt genoten overeenkomstig artikel 3:1, tweede en derde lid, recht op uitkering. 
-2. De vrouwelijke zelfstandige heeft in verband met haar zwangerschap en bevalling recht op uitkering gedurende tenminste zestien weken.
+1. De vrouwelijke beroepsbeoefenaar op arbeidsovereenkomst heeft gedurende de periode dat het zwangerschaps- en bevallingsverlof wordt genoten overeenkomstig artikel 3:1, tweede en derde lid, recht op uitkering. Artikel 3:1, vijfde lid, en artikel 3:3, tweede lid, tweede volzin, zijn van overeenkomstige toepassing. 
+2. De vrouwelijke zelfstandige heeft in verband met haar zwangerschap en bevalling recht op uitkering gedurende tenminste zestien weken. Artikel 3:1, vijfde lid, en artikel 3:3, tweede lid, tweede volzin, zijn van overeenkomstige toepassing.
 3. Het recht op uitkering in verband met zwangerschap vangt aan zes weken voor de dag na de vermoedelijke datum van bevalling, zoals aangegeven in een schriftelijke verklaring van een arts of verloskundige, tot en met de dag van de bevalling. Indien de vrouwelijke zelfstandige dat wenst, vangt het recht op uitkering in verband met zwangerschap aan op een later tijdstip, doch uiterlijk vier weken voor de dag na de vermoedelijke datum van bevalling.
 4. Het recht op uitkering in verband met bevalling vangt aan op de dag na de bevalling en bedraagt tien aaneengesloten weken vermeerderd met het aantal dagen dat de uitkering in verband met zwangerschap tot en met de vermoedelijke datum van bevalling, dan wel, indien eerder gelegen, tot en met de werkelijke datum van bevalling, minder dan zes weken heeft bedragen.
 5. Voor de toepassing van het vierde lid worden dagen waarover de vrouwelijke zelfstandige ziekengeld heeft genoten in de periode dat zij recht heeft op uitkering in verband met zwangerschap maar die uitkering nog niet is ingegaan, aangemerkt als dagen waarover zij uitkering in verband met zwangerschap heeft genoten.
@@ -365,7 +368,9 @@ a.vreemdelingen die rechtmatig in Nederland arbeid verrichten, dan wel hebben ve
 
 b.vreemdelingen die, na rechtmatig verblijf te hebben gehouden in de zin van artikel 8, onder a tot en met e en l, van de Vreemdelingenwet 2000 rechtmatig in Nederland verblijf hebben als bedoeld in artikel 8, onder g of h, van de Vreemdelingenwet 2000.
 8. Zo nodig in afwijking van het zesde en het zevende lid en de daarop berustende bepalingen, bestaat recht op een uitkering voor de persoon voor wie dit recht voortvloeit uit de toepassing van bepalingen van een verdrag of van een besluit van een volkenrechtelijke organisatie en bestaat geen recht op een uitkering voor de persoon op wie op grond van een verdrag of een besluit van een volkenrechtelijke organisatie de wetgeving van een andere mogendheid van toepassing is.
-9. Bij of krachtens algemene maatregel van bestuur kan, in afwijking van het zesde lid en van artikel 3:17, eerste lid, uitbreiding dan wel beperking worden gegeven aan de kring van verzekerden.
+9. Bij of krachtens algemene maatregel van bestuur kan, in afwijking van het zesde lid en van artikel 3:17, eerste lid, uitbreiding dan wel beperking worden gegeven aan de kring van verzekerden. 
+10.  De zelfstandige, de beroepsbeoefenaar op arbeidsovereenkomst, of de persoon wiens arbeidsverhouding gelijkgesteld is met een dienstbetrekking als bedoeld in artikel 4 of 5 van de Ziektewet, en die partner is als bedoeld in artikel 3:1a, tweede lid, heeft, indien de moeder overlijdt tijdens de periode, waarin recht op uitkering bestaat op grond van artikel 3:7, 3:8 of 3:18, recht op uitkering gedurende het resterende aantal weken waarover voor de moeder nog recht op uitkering zou bestaan, met dien verstande dat artikel 3:1, vijfde lid, van overeenkomstige toepassing is.   
+11.  De zelfstandige, de beroepsbeoefenaar op arbeidsovereenkomst of de persoon wiens arbeidsverhouding gelijkgesteld is met een dienstbetrekking als bedoeld in artikel 4 of 5 van de Ziektewet, en die partner is als bedoeld in artikel 3:1a, tweede lid, heeft recht op uitkering, indien de moeder, die geen recht had op bevallingsverlof of een uitkering als bedoeld in afdeling 2 van hoofdstuk 3, overlijdt voordat tien weken na de dag van de geboorte van het kind zijn verstreken. Het recht bestaat vanaf de dag van overlijden en eindigt tien weken na de dag van de geboorte van het kind, met dien verstande dat artikel 3:1, vijfde lid, van overeenkomstige toepassing is. 
 
 ####Uitkering terzake van vervanging
 
@@ -389,7 +394,10 @@ a.de vermoedelijke datum van bevalling, onder overlegging van de verklaring van 
 b.de datum waarop het zwangerschapsverlof, respectievelijk het recht op uitkering, bedoeld in artikel 3:18, tweede lid, ingaat;
 
 c.of zij de uitkering wil genieten in de vorm van een uitkering ter zake van vervanging.   
-2.  Indien de aanvraag niet tijdig wordt gedaan, wordt de uitkering uitsluitend toegekend voor zover het tijdvak waarin sprake was van recht op uitkering in verband met zwangerschap en bevalling, valt in het jaar voorafgaand aan de aanvraag. Het Uitvoeringsinstituut werknemersverzekeringen kan in bijzondere gevallen ten gunste van de vrouwelijke zelfstandige of de vrouwelijke beroepsbeoefenaar op arbeidsovereenkomst afwijken van de eerste zin.  
+2.  Indien de aanvraag niet tijdig wordt gedaan, wordt de uitkering uitsluitend toegekend voor zover het tijdvak waarin sprake was van recht op uitkering in verband met zwangerschap en bevalling, valt in het jaar voorafgaand aan de aanvraag. Het Uitvoeringsinstituut werknemersverzekeringen kan in bijzondere gevallen ten gunste van de vrouwelijke zelfstandige of de vrouwelijke beroepsbeoefenaar op arbeidsovereenkomst afwijken van de eerste zin.   
+3.  De aanvraag voor de uitkering, bedoeld in artikel 3:18, tiende of elfde lid, doet de partner, bedoeld in artikel 3:1a, tweede lid, uiterlijk twee weken na de datum van het overlijden bij het Uitvoeringsinstituut werknemersverzekeringen. Bij de aanvraag wordt een afschrift van de akte van overlijden van de moeder en van de akte van geboorte van het kind gevoegd.   
+4.  Het Uitvoeringsinstituut werknemersverzekeringen kan in bijzondere gevallen ten gunste van de partner, bedoeld in artikel 3:1a, tweede lid, afwijken van de termijn bedoeld in het derde lid.   
+5.  De vrouwelijke zelfstandige, de vrouwelijke beroepsbeoefenaar op arbeidsovereenkomst of de partner, bedoeld in artikel 3:1a, tweede lid, die zelfstandige of beroepsbeoefenaar op arbeidsovereenkomst is of de persoon wiens arbeidsverhouding gelijk is gesteld met een dienstbetrekking als bedoeld in artikel 4 of 5 van de Ziektewet verstrekt in voorkomend geval aan het Uitvoeringsinstituut werknemersverzekeringen de verklaring, bedoeld in artikel 3:3, tweede lid. 
 
 ####De hoogte van de uitkering
 
@@ -397,7 +405,8 @@ c.of zij de uitkering wil genieten in de vorm van een uitkering ter zake van ver
 
 1.  De uitkering in verband met zwangerschap en bevalling wordt overeenkomstig artikel 8 van de Wet arbeidsongeschiktheidsverzekering zelfstandigen berekend naar de grondslag met dien verstande dat bij de overeenkomstige toepassing van het derde lid van dat artikel voor «intreden van zijn arbeidsongeschiktheid als beroepsbeoefenaar» wordt gelezen: de ingangsdatum van het recht op uitkering.   
 2.  De uitkering, bedoeld in het eerste lid, bedraagt per dag 100% van de grondslag.  
-3. Zo nodig in afwijking van het tweede lid en van artikel 3:29, derde lid, onder b, bedraagt de uitkering in verband met zwangerschap en bevalling 100% van het minimumloon, bedoeld in artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag, indien de vrouwelijke zelfstandige in het kalenderjaar voorafgaand aan het jaar waarin het recht op uitkering ontstaat als zelfstandige, aan werkzaamheden voor één of meer ondernemingen tenminste het aantal uren heeft besteed dat is vermeld in artikel 3.6, eerste lid, van de Wet inkomstenbelasting 2001.
+3. Zo nodig in afwijking van het tweede lid en van artikel 3:29, derde lid, onder b, bedraagt de uitkering in verband met zwangerschap en bevalling 100% van het minimumloon, bedoeld in artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag, indien de vrouwelijke zelfstandige in het kalenderjaar voorafgaand aan het jaar waarin het recht op uitkering ontstaat als zelfstandige, aan werkzaamheden voor één of meer ondernemingen tenminste het aantal uren heeft besteed dat is vermeld in artikel 3.6, eerste lid, van de Wet inkomstenbelasting 2001. 
+4.  De uitkering in verband met het overlijden van de moeder bedraagt voor de partner, bedoeld in artikel 3:18, tiende of elfde lid, 100% van het minimumloon, bedoeld in artikel 8, eerste lid, aanhef en onderdeel a, van de Wet minimumloon en minimumvakantiebijslag. 
 
 ####De hoogte van de uitkering terzake van vervanging
 
@@ -434,7 +443,7 @@ c. ter zake van de vakantie-uitkering: de artikelen 25 tot en met 27, 40 en 60;
 
 d. ter zake van oproeping en ondervraging: de artikelen 41, eerste lid, en 42;  
 
-e. ter zake van maatregelen: de artikelen 45, 46, onderdeel d, en 47;  
+e. ter zake van maatregelen: de artikelen 45, artikel 46, eerste lid, onderdelen d en k, en 47;  
 
 f. ter zake van de inlichtingenverplichting: artikel 70;  
 
@@ -506,10 +515,7 @@ c. indien het recht op eerstgenoemde uitkering ontstaat in het tijdvak van 52 we
 
 ####Overgangsrecht in verband met zwangerschap- en bevallingsverlof en de uitkering van anderen dan de vrouwelijke werknemer
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  3:31  
-Treedt in werking per 01-01-2015 
 
 1.  Indien de vrouwelijke werknemer op het tijdstip waarop de Wet van 17 december 2014 houdende modernisering regelingen voor verlof en arbeidstijden (Stb. 565) in werking treedt reeds met zwangerschaps- of bevallingsverlof is, blijven op dat verlof afdeling 1 en afdeling 2, paragraaf 1, van dit hoofdstuk van toepassing zoals die luidden op de dag voorafgaande aan het tijdstip van inwerkingtreding van genoemde wet.   
 2.  Indien de vrouwelijke gelijkgestelde, de vrouwelijke zelfstandige en de vrouwelijke beroepsbeoefenaar op arbeidsovereenkomst op het tijdstip waarop de in het eerste lid bedoelde wet in werking treedt een uitkering heeft in verband met haar zwangerschap of bevalling blijft op die uitkering afdeling 2, paragrafen 2 en 3, van dit hoofdstuk van toepassing zoals die luidde op de dag voorafgaande aan het tijdstip van inwerkingtreding van de in het eerste lid genoemde wet.   
@@ -529,16 +535,22 @@ Treedt in werking per 01-01-2015
 
 1.  De werknemer heeft recht op verlof met behoud van loon voor een korte, naar billijkheid te berekenen tijd, wanneer hij zijn arbeid niet kan verrichten wegens: 
 
-a. zeer bijzondere persoonlijke omstandigheden;  
+a. onvoorziene omstandigheden die een onmiddellijke onderbreking van de arbeid vergen; 
 
-b. een door wet of overheid, zonder geldelijke vergoeding, opgelegde verplichting, waarvan de vervulling niet in zijn vrije tijd kon plaatsvinden;  
+b. zeer bijzondere persoonlijke omstandigheden;  
 
-c. de uitoefening van het actief kiesrecht.     
+c. een door wet of overheid, zonder geldelijke vergoeding, opgelegde verplichting, waarvan de vervulling niet in zijn vrije tijd kon plaatsvinden;  
+
+d. de uitoefening van het actief kiesrecht.     
 2.  Onder zeer bijzondere persoonlijke omstandigheden worden in ieder geval begrepen:  
 
 a. de bevalling van de echtgenote, de geregistreerde partner of de persoon met wie de werknemer ongehuwd samenwoont;  
 
-b. het overlijden en de lijkbezorging van een van zijn huisgenoten of een van zijn bloed- en aanverwanten in de rechte lijn en in de tweede graad van de zijlijn.    
+b. het overlijden en de lijkbezorging van een van zijn huisgenoten of een van zijn bloed- en aanverwanten in de rechte lijn en in de tweede graad van de zijlijn;  
+
+c. spoedeisend, onvoorzien of redelijkerwijze niet buiten werktijd om te plannen arts- of ziekenhuisbezoek door de werknemer of de noodzakelijke begeleiding daarbij van de personen, bedoeld in artikel 5:1; 
+
+d. noodzakelijke verzorging op de eerste ziektedag van de personen, bedoeld in artikel 5:1.   
 
 ####Kraamverlof
 
@@ -618,7 +630,7 @@ b. een inwonend kind tot wie de werknemer als ouder in een familierechtelijke be
 
 c. een inwonend kind van de echtgenoot, de geregistreerde partner of de persoon met wie de werknemer ongehuwd samenwoont;  
 
-d. een pleegkind dat blijkens de basisregistratie personen op hetzelfde adres woont als de werknemer en door hem in diens gezin duurzaam wordt verzorgd en opgevoed op basis van een pleegcontract als bedoeld in artikel 28b, eerste lid, van de Wet op de jeugdzorg;  
+d. een pleegkind dat blijkens de basisregistratie personen op hetzelfde adres woont als de werknemer en dat hij als pleegouder als bedoeld in artikel 1.1 van de Jeugdwet verzorgt;  
 
 e. een bloedverwant in de eerste graad, niet zijnde een kind.     
 
@@ -700,18 +712,11 @@ b.een kind tot wie de werknemer of de persoon bedoeld in onderdeel a als ouder i
 
 c.een bloedverwant in de eerste graad van de werknemer.
 
-####Omvang, duur en invulling verlof
+####Omvang verlof
 
 ###Artikel 5:10 
 
-1. Het verlof bedraagt in elke periode van twaalf achtereenvolgende maanden ten hoogste zes maal de arbeidsduur per week. De periode van 12 maanden gaat in op de eerste dag waarop het verlof wordt genoten.
-2. Het verlof wordt per week opgenomen gedurende een aaneengesloten periode van ten hoogste twaalf weken.
-3. Het aantal uren verlof per week bedraagt ten hoogste de helft van de arbeidsduur per week.
-4. In afwijking van het tweede en derde lid kan de werknemer de werkgever verzoeken om:
-
-a.verlof voor een langere periode dan twaalf weken tot ten hoogste achttien weken, of
-
-b.meer uren verlof per week dan de helft van de arbeidsduur per week.
+Het verlof bedraagt in elke periode van twaalf achtereenvolgende maanden ten hoogste zesmaal de arbeidsduur per week. De periode van twaalf maanden gaat in op de eerste dag waarop het verlof wordt genoten.
 
 ###§ 2 
 
@@ -793,24 +798,9 @@ De werkgever mag de werknemer niet benadelen wegens de omstandigheid dat de werk
 ### Artikel  6:2  
 
 1.  Het aantal uren verlof waarop de werknemer ten hoogste recht heeft bedraagt zesentwintig maal de arbeidsduur per week.   
-2.  Het verlof wordt per week opgenomen gedurende een aaneengesloten periode van ten hoogste twaalf maanden.   
-3.  Het aantal uren verlof per week bedraagt ten hoogste de helft van de arbeidsduur per week.   
-4.  In afwijking van het tweede en derde lid kan de werknemer de werkgever verzoeken om: 
-
-a. verlof voor een langere periode dan twaalf maanden, of  
-
-b. het verlof op te delen in ten hoogste zes perioden, waarbij iedere periode ten minste een maand bedraagt, of  
-
-c. meer uren verlof per week dan de helft van de arbeidsduur per week.     
-5.  De werkgever kan het verzoek van de werknemer, bedoeld in het vierde lid, afwijzen indien een zwaarwegend bedrijfs- of dienstbelang zich hiertegen verzet.   
-6.  Indien het verlof op grond van het vierde lid, onderdeel b, is opgedeeld en de arbeidsverhouding wordt beëindigd voordat het verlof volledig is genoten, heeft de werknemer, indien hij een nieuwe arbeidsovereenkomst aangaat, tegenover de nieuwe werkgever aanspraak op het resterende deel van het verlof met inachtneming van het bepaalde in dit hoofdstuk.  
+2.  Indien de arbeidsverhouding wordt beëindigd voordat het verlof volledig is genoten, heeft de werknemer, indien hij een nieuwe arbeidsverhouding aangaat, tegenover de nieuwe werkgever aanspraak op het resterende deel van het verlof met inachtneming van dit hoofdstuk. De werkgever is in dat geval verplicht aan de werknemer, op diens verzoek, een verklaring uit te reiken waaruit blijkt op hoeveel verlof de werknemer nog aanspraak heeft.  
 
 ####Diensttijd
-
-### Artikel  6:3  
-
-1.  Het recht op verlof, bedoeld in artikel 6:1, bestaat indien de arbeidsverhouding ten minste een jaar heeft geduurd.   
-2.  Voor de berekening van de termijn van een jaar worden perioden waarin arbeid wordt verricht, die elkaar opvolgen met een onderbreking van niet meer dan drie maanden samengeteld. De vorige volzin is van overeenkomstige toepassing op perioden waarin voor verschillende werkgevers arbeid wordt verricht die ten aanzien van de verrichte arbeid redelijkerwijs geacht moeten worden elkanders opvolger te zijn.  
 
 ####Leeftijd kind
 
@@ -828,16 +818,15 @@ Geen recht op verlof als bedoeld in artikel 6:1 bestaat na de datum waarop het k
 
 1.  De werknemer meldt het voornemen om verlof op te nemen ten minste twee maanden voor het tijdstip van ingang van het verlof schriftelijk aan de werkgever onder opgave van de periode, het aantal uren verlof per week of als de arbeidsduur over een ander tijdvak is overeengekomen over dat tijdvak en de spreiding daarvan over de week of het anderszins overeengekomen tijdvak.   
 2.  De tijdstippen van ingang en einde van het verlof kunnen afhankelijk worden gesteld van de datum van de bevalling, van het einde van het bevallingsverlof of van de aanvang van de verzorging.   
-3.  De werkgever kan, na overleg met de werknemer, de spreiding van de uren over de week op grond van een zwaarwegend bedrijfs- of dienstbelang wijzigen, tot vier weken voor het tijdstip van ingang van het verlof.   
-4.  Indien op grond van artikel 6:2, vierde lid, onderdeel b, het verlof is opgedeeld, zijn het eerste tot en met derde lid op iedere periode van toepassing.  
+3.  De werkgever kan, na overleg met de werknemer, de door deze gewenste wijze van invulling van het verlof op grond van een zwaarwegend bedrijfs- of dienstbelang wijzigen, tot vier weken voor het tijdstip van ingang van het verlof.   
+4.  Het derde lid is niet van toepassing op de werknemer die na het verlof, bedoeld in artikel 4:2, gedurende een tijdvak van vier weken voor drie dagen waarop hij arbeid pleegt te verrichten gebruik maakt van zijn recht op verlof als bedoeld in artikel 6:1. De laatste zin van artikel 4:2 en artikel 4:3, tweede lid zijn van toepassing.  
 
 ####Intrekking of wijziging melding
 
 ### Artikel  6:6  
 
-1.  De werkgever stemt in met een verzoek van de werknemer om het verlof niet op te nemen of niet voort te zetten als gevolg van het opnemen van zwangerschaps-, bevallings- of adoptieverlof als bedoeld in de artikelen 3:1, eerste lid, onderscheidenlijk 3:2, eerste lid. Een verzoek om het verlof niet op te nemen of niet voort te zetten op grond van onvoorziene omstandigheden kan de werkgever afwijzen indien een zwaarwegend bedrijfs- of dienstbelang zich hiertegen verzet.   
-2.  De werkgever hoeft aan het verzoek niet met ingang van een vroeger tijdstip gevolg te geven dan vier weken na het verzoek. In het geval dat het verlof met toepassing van het eerste lid, eerste volzin, na het tijdstip van ingang daarvan niet wordt voortgezet, wordt het recht op het overige deel van het verlof opgeschort. In het geval dat het verlof met toepassing van het eerste lid, tweede volzin, na het tijdstip van ingang daarvan niet wordt voortgezet, vervalt het recht op het overige deel van het verlof.   
-3.  Indien op grond van artikel 6:2, vierde lid, onderdeel b, het verlof is opgedeeld, zijn het eerste en tweede lid op iedere periode van toepassing.  
+1.  De werkgever stemt in met een verzoek van de werknemer om het verlof niet op te nemen of niet voort te zetten als gevolg van het opnemen van het zwangerschaps- of bevallingsverlof, bedoeld in artikel 3:1, eerste lid, het verlof, bedoeld in artikel 3:1a, eerste lid of vierde lid, of het adoptieverlof, bedoeld in artikel 3:2, eerste lid. De werkgever hoeft aan het verzoek niet met ingang van een vroeger tijdstip gevolg te geven dan vier weken na het verzoek.   
+2.  De werkgever stemt in met een verzoek van de werknemer om het verlof niet op te nemen of niet voort te zetten als gevolg van onvoorziene omstandigheden, tenzij een zwaarwegende bedrijfs- of dienstbelang zich hiertegen verzet. Indien de werkgever instemt met het verzoek wordt het recht op verlof opgeschort. De derde zin van het eerste lid is van toepassing.  
 
 ### §  3  
 
@@ -857,7 +846,7 @@ Dagen of gedeelten van dagen waarop de werknemer zijn arbeid niet verricht wegen
 
 ### Artikel  6:8  
 
-Van de artikelen 6:1, derde lid, 6:2, vierde lid, onderdeel b, 6:3, eerste lid, 6:4, 6:5, eerste lid, ten aanzien van het tijdstip van melding, en tweede lid, en 6:6, eerste lid, tweede volzin, en tweede lid, derde volzin kan uitsluitend ten nadele van de werknemer worden afgeweken bij collectieve arbeidsovereenkomst. 
+Van de artikelen 6:1, derde lid, 6:4, 6:5, eerste lid, ten aanzien van het tijdstip van de melding, en tweede lid, en 6:6, tweede lid, kan uitsluitend ten nadele van de werknemer worden afgeweken bij collectieve arbeidsovereenkomst. 
 
 ####Dwingend recht
 
@@ -869,13 +858,9 @@ Behoudens artikel 6:8 kan van dit hoofdstuk niet ten nadele van de werknemer wor
 
 ####Overgangsrecht
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  6:10  
 
 ####Overgangsrecht in verband met ouderschapsverlof
-
-Treedt in werking per 01-01-2015 
 
 Indien de werknemer op het tijdstip waarop de Wet van 17 december 2014 houdende wijziging van de Wet arbeid en zorg en de Wet aanpassing arbeidsduur in verband met vergroting van de gebruiksmogelijkheden van deze wetten, alsmede technische aanpassing van de Arbeidstijdenwet en actualisering van het overgangsrecht met betrekking tot de Wet arbeid en zorg (Stb. 565) in werking treedt, zijn voornemen tot het opnemen van het ouderschapsverlof, bedoeld in artikel 6:1, heeft gemeld aan zijn werkgever en die heeft ingestemd met de invulling daarvan, blijven op dat verlof de artikelen van hoofdstuk 6 van toepassing zoals die luidden op de dag voorafgaande aan het tijdstip inwerkingtreding van die wet.  
 

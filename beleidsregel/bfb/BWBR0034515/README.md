@@ -7,11 +7,11 @@
 
 ####Inleiding
 
-In dit besluit heb ik mijn beleid dat ziet op het fiscale bestuursrecht neergelegd. Ook wordt aandacht besteed aan enkele civielrechtelijke aspecten. Dit besluit bevat enkele goedkeuringen met toepassing van de zogenoemde hardheidsclausule (zie [artikel 63 van de Algemene wet inzake rijksbelastingen](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md)). Naast redactionele wijzigingen is het volgende toegevoegd of aangepast ten opzichte van het [besluit van 13 juli 2011](../../../beleidsregel/besluit/fiscaal/bestuursrecht/BWBR0030253/README.md), nr. BLKB2011/1087M: 
+In dit besluit heb ik mijn beleid dat ziet op het fiscale bestuursrecht neergelegd. Ook wordt aandacht besteed aan enkele civielrechtelijke aspecten. Dit besluit bevat enkele goedkeuringen met toepassing van de zogenoemde hardheidsclausule (zie artikel 63 van de Algemene wet inzake rijksbelastingen). Naast redactionele wijzigingen is het volgende toegevoegd of aangepast ten opzichte van het besluit van 13 juli 2011, nr. BLKB2011/1087M: 
 
 * Onderdeel 4 over fiscale grensverkenning is aangepast.  
 
-* Onderdeel 8 over het beleid inzake horen op initiatief van de Belastingdienst is verduidelijkt en aangepast aan de wijziging van [artikel 7:3 Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).  
+* Onderdeel 8 over het beleid inzake horen op initiatief van de Belastingdienst is verduidelijkt en aangepast aan de wijziging van artikel 7:3 Algemene wet bestuursrecht.  
 
 * Onderdeel 9, derde lid, over uitstel van de beslissing op bezwaar is nieuw.  
 
@@ -23,7 +23,7 @@ In dit besluit heb ik mijn beleid dat ziet op het fiscale bestuursrecht neergele
 
 * Onderdeel 15 vervangt het besluit inzake de informatieverstrekking door de notaris.  
 
-* Onderdeel 17 vervangt het besluit inzake ambtshalve verminderen en teruggeven. Onderdeel 17, derde lid, is verduidelijkt door het toevoegen van de tweede volzin. Onderdeel 17, zesde lid, over de omkering van de bewijslast bij ambtshalve verminderen of teruggeven is aangepast aan de wijzigingen in de [Algemene wet inzake rijksbelastingen](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) met ingang van 1 juli 2011. Onderdeel 17, achtste lid, over het beleid inzake ambtshalve verminderen of teruggeven naar aanleiding van correctieberichten is verduidelijkt. Onderdeel 17, vijftiende lid, bevat een nieuw voorbeeld. Onderdeel 17, achttiende lid, bevat een uitbreiding van de beperking van ambtshalve teruggaaf van accijns -na het herhaaldelijk ongebruikt laten verstrijken van de wettelijke verzoekstermijn- met de verbruiksbelasting voor alcoholvrije dranken.  
+* Onderdeel 17 vervangt het besluit inzake ambtshalve verminderen en teruggeven. Onderdeel 17, derde lid, is verduidelijkt door het toevoegen van de tweede volzin. Onderdeel 17, zesde lid, over de omkering van de bewijslast bij ambtshalve verminderen of teruggeven is aangepast aan de wijzigingen in de Algemene wet inzake rijksbelastingen met ingang van 1 juli 2011. Onderdeel 17, achtste lid, over het beleid inzake ambtshalve verminderen of teruggeven naar aanleiding van correctieberichten is verduidelijkt. Onderdeel 17, vijftiende lid, bevat een nieuw voorbeeld. Onderdeel 17, achttiende lid, bevat een uitbreiding van de beperking van ambtshalve teruggaaf van accijns -na het herhaaldelijk ongebruikt laten verstrijken van de wettelijke verzoekstermijn- met de verbruiksbelasting voor alcoholvrije dranken.  
 
 * In onderdeel 18 is het lid over het APA/ATR-team vervallen vanwege het voorlichtende karakter ervan. Onderdeel 18, twaalfde lid, over afspraken inzake termijnoverschrijding is nieuw. Onderdeel 18, zestiende lid, over de inhoud van een vaststellingsovereenkomst is aangepast.  
 
@@ -36,22 +36,22 @@ In dit besluit heb ik mijn beleid dat ziet op het fiscale bestuursrecht neergele
 
 ####Gebruikte afkortingen
 
-*Adw* [Algemene douanewet](../../../wet/algemene/douanewet/BWBR0023746/README.md)  
+*Adw* Algemene douanewet  
 
-*Awb* [Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md)  
+*Awb* Algemene wet bestuursrecht  
 
-*AWR* [Algemene wet inzake rijksbelastingen](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md)  
+*AWR* Algemene wet inzake rijksbelastingen  
 
-*IW 1990* [Invorderingswet 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md)  
+*IW 1990* Invorderingswet 1990  
 
-*Wna* [Wet op het notarisambt](../../../wet/notariswet/BWBR0010388/README.md)  
+*Wna* Wet op het notarisambt  
 
-*Vpb* [Wet op de vennootschapsbelasting 1969](../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md)       
+*Vpb* Wet op de vennootschapsbelasting 1969       
 ### 2  
 
-####Beleidsregels ([artikel 1:3, lid 4, Awb](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md))
+####Beleidsregels (artikel 1:3, lid 4, Awb)
 
-1. Het fiscale uitvoeringsbeleid is de uitleg van het recht die door of namens de staatssecretaris is vastgelegd in beleidsregels volgens [artikel 1:3, vierde lid, van de Awb](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). Deze beleidsregels hebben generieke werking. Ze gelden voor alle belanghebbenden in gelijke omstandigheden. In het gangbare spraakgebruik is de publicatie van deze fiscale beleidsregels een ‘beleidsbesluit’. De publicatie van de beleidsbesluiten vindt plaats met het oog op de rechtszekerheid. Een beleidsbesluit wordt gelijktijdig binnen en buiten de Belastingdienst kenbaar. De Belastingdienst past deze besluiten in verband met de rechtsgelijkheid landelijk uniform toe.  
+1. Het fiscale uitvoeringsbeleid is de uitleg van het recht die door of namens de staatssecretaris is vastgelegd in beleidsregels volgens artikel 1:3, vierde lid, van de Awb. Deze beleidsregels hebben generieke werking. Ze gelden voor alle belanghebbenden in gelijke omstandigheden. In het gangbare spraakgebruik is de publicatie van deze fiscale beleidsregels een ‘beleidsbesluit’. De publicatie van de beleidsbesluiten vindt plaats met het oog op de rechtszekerheid. Een beleidsbesluit wordt gelijktijdig binnen en buiten de Belastingdienst kenbaar. De Belastingdienst past deze besluiten in verband met de rechtsgelijkheid landelijk uniform toe.  
 
 2. Het uitgangspunt is dat de uitleg van het recht naar aanleiding van een rechtsvraag wordt vastgelegd in een beleidsbesluit met generieke werking. Een beleidsregel in een beleidsbesluit is het gevolg van een rechtsvraag. Een rechtsvraag is een individuele vraag die: 
 
@@ -94,45 +94,45 @@ c. doel en strekking van de wet of een verdrag zouden worden miskend als de door
 5. Zo nodig voegt de inspecteur hieraan toe dat hij dit standpunt te gelegener tijd zal formaliseren, bijvoorbeeld bij het vaststellen van een belastingaanslag. De belanghebbende kan daarna gebruik maken van de gebruikelijke rechtsmiddelen.      
 ### 5  
 
-####Weigeren gemachtigde ([artikel 2:2 Awb](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md))
+####Weigeren gemachtigde (artikel 2:2 Awb)
 
-1. De [Awb](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) geeft in [artikel 2:2](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) aan het bestuursorgaan de mogelijkheid een gemachtigde te weigeren. De Belastingdienst maakt van die bevoegdheid slechts in uitzonderingsgevallen gebruik. Te denken is aan gevallen van evidente en ernstige ondeskundigheid. Ook kan het gaan om gemachtigden die herhaaldelijk de normale gang van zaken verstoren, eventueel door met geweld te dreigen of tegen wie vermoedens bestaan van het begaan van strafbare feiten.  
+1. De Awb geeft in artikel 2:2 aan het bestuursorgaan de mogelijkheid een gemachtigde te weigeren. De Belastingdienst maakt van die bevoegdheid slechts in uitzonderingsgevallen gebruik. Te denken is aan gevallen van evidente en ernstige ondeskundigheid. Ook kan het gaan om gemachtigden die herhaaldelijk de normale gang van zaken verstoren, eventueel door met geweld te dreigen of tegen wie vermoedens bestaan van het begaan van strafbare feiten.  
 
 2. De bevoegdheid om een gemachtigde te weigeren wordt uitsluitend uitgeoefend door de directeuren en hun plaatsvervangers bij de Belastingdienst.  
 
-3. Tegen de beschikking tot weigering is op grond van de [Awb](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bezwaar mogelijk bij een landelijk directeur, waarna beroep mogelijk is bij de Rechtbank, sector bestuursrecht.      
+3. Tegen de beschikking tot weigering is op grond van de Awb bezwaar mogelijk bij een landelijk directeur, waarna beroep mogelijk is bij de Rechtbank, sector bestuursrecht.      
 ### 6  
 
-####Horen bij het vaststellen van de aanslag ([artikel 4:12 Awb](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md))
+####Horen bij het vaststellen van de aanslag (artikel 4:12 Awb)
 
-De inspecteur kan afzien van het horen voorafgaand aan het vaststellen van een belastingaanslag (zie [artikel 4:12 van de Awb](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md)). De inspecteur neemt evenwel bij correcties van aangiften zo veel mogelijk vooraf contact op met de belanghebbende.    
+De inspecteur kan afzien van het horen voorafgaand aan het vaststellen van een belastingaanslag (zie artikel 4:12 van de Awb). De inspecteur neemt evenwel bij correcties van aangiften zo veel mogelijk vooraf contact op met de belanghebbende.    
 ### 7  
 
-####Niet-ontvankelijk bezwaar ([artikel 6:6 Awb](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md))
+####Niet-ontvankelijk bezwaar (artikel 6:6 Awb)
 
-1. Als een bezwaarschrift niet voldoet aan één van de vormvereisten als bedoeld in [artikel 6:6 van de Awb](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), dan geeft de inspecteur de indiener vier weken de gelegenheid dat verzuim te herstellen.  
+1. Als een bezwaarschrift niet voldoet aan één van de vormvereisten als bedoeld in artikel 6:6 van de Awb, dan geeft de inspecteur de indiener vier weken de gelegenheid dat verzuim te herstellen.  
 
-2. Mocht het verzuim niet binnen die vier weken hersteld zijn, dan krijgt de indiener van de inspecteur nog een termijn van twee weken. Daarbij deelt de inspecteur mee dat hij het bezwaarschrift op grond van [artikel 6:6 van de Awb](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet-ontvankelijk zal verklaren als het verzuim niet binnen de termijn wordt aangevuld.  
+2. Mocht het verzuim niet binnen die vier weken hersteld zijn, dan krijgt de indiener van de inspecteur nog een termijn van twee weken. Daarbij deelt de inspecteur mee dat hij het bezwaarschrift op grond van artikel 6:6 van de Awb niet-ontvankelijk zal verklaren als het verzuim niet binnen de termijn wordt aangevuld.  
 
 3. In alle gevallen waarin het bezwaar niet-ontvankelijk is verklaard, wordt het voor zover mogelijk ambtshalve in behandeling genomen (zie onderdeel 17).      
 ### 8  
 
-####Horen in bezwaar ([artikel 7:2 Awb](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md))
+####Horen in bezwaar (artikel 7:2 Awb)
 
-1. Het initiatief voor het horen van een belanghebbende ligt bij de inspecteur (conform [artikel 7:2 van de Awb](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en in afwijking van [artikel 25, eerste lid, van de AWR](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md)). Dit geldt niet bij zogenoemde impliciete bezwaren, bijvoorbeeld in de vorm van een alsnog ingediende aangifte of bezwaren die hun grondslag vinden in [artikel 24a, tweede lid, van de AWR](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md). In die gevallen hoeft de inspecteur de belanghebbende dus niet op eigen initiatief uit te nodigen voor een hoorgesprek.  
+1. Het initiatief voor het horen van een belanghebbende ligt bij de inspecteur (conform artikel 7:2 van de Awb en in afwijking van artikel 25, eerste lid, van de AWR). Dit geldt niet bij zogenoemde impliciete bezwaren, bijvoorbeeld in de vorm van een alsnog ingediende aangifte of bezwaren die hun grondslag vinden in artikel 24a, tweede lid, van de AWR. In die gevallen hoeft de inspecteur de belanghebbende dus niet op eigen initiatief uit te nodigen voor een hoorgesprek.  
 
-2. Als de belanghebbende niet binnen een door de inspecteur gestelde redelijke termijn verklaart dat hij gebruik wil maken van het recht om gehoord te worden, kan de inspecteur afzien van het horen (zie [artikel 7:3, letter d, van de Awb](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md)). De inspecteur maakt hiervan melding in de uitspraak op bezwaar. Zo nodig verifieert de inspecteur of de belanghebbende de uitnodiging om gehoord te worden ontvangen heeft.  
+2. Als de belanghebbende niet binnen een door de inspecteur gestelde redelijke termijn verklaart dat hij gebruik wil maken van het recht om gehoord te worden, kan de inspecteur afzien van het horen (zie artikel 7:3, letter d, van de Awb). De inspecteur maakt hiervan melding in de uitspraak op bezwaar. Zo nodig verifieert de inspecteur of de belanghebbende de uitnodiging om gehoord te worden ontvangen heeft.  
 
 3. Een hoorgesprek wordt niet telefonisch gevoerd. Wel kan het zo zijn dat belanghebbende na telefonisch contact met de inspecteur van mening is dat hij zijn zaak (telefonisch) voldoende heeft toegelicht en afziet van een hoorgesprek.  
 
 4. Het horen strekt er mede toe om (ambtshalve) een zo gefundeerd mogelijke beslissing te kunnen nemen. De inspecteur hoort de belanghebbende als er redelijkerwijs twijfel mogelijk is of het bezwaarschrift kennelijk niet-ontvankelijk of kennelijk ongegrond is.  
 
-5. De inspecteur maakt een verslag van het hoorgesprek (zie [artikel 7:7 van de Awb](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md)). Hij stelt belanghebbende of zijn gemachtigde in de gelegenheid zich over dat verslag uit te laten.      
+5. De inspecteur maakt een verslag van het hoorgesprek (zie artikel 7:7 van de Awb). Hij stelt belanghebbende of zijn gemachtigde in de gelegenheid zich over dat verslag uit te laten.      
 ### 9  
 
-####Uitstel beslissing op bezwaar ([artikel 7:10 Awb](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md))
+####Uitstel beslissing op bezwaar (artikel 7:10 Awb)
 
-1. Als een bezwaarschrift wordt ingediend over een geschilpunt waarover in een andere zaak al wordt geprocedeerd, kan de inspecteur met inachtneming van [artikel 7:10, vierde lid, van de Awb](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), met de belanghebbende afspreken dat hij pas uitspraak op het bezwaarschrift doet als het oordeel van de belastingrechter in die andere zaak onherroepelijk is.  
+1. Als een bezwaarschrift wordt ingediend over een geschilpunt waarover in een andere zaak al wordt geprocedeerd, kan de inspecteur met inachtneming van artikel 7:10, vierde lid, van de Awb, met de belanghebbende afspreken dat hij pas uitspraak op het bezwaarschrift doet als het oordeel van de belastingrechter in die andere zaak onherroepelijk is.  
 
 2. Het moet gaan om een rechtsvraag waarin de individuele omstandigheden van belanghebbenden geen rol spelen.  
 
@@ -143,44 +143,44 @@ De inspecteur kan afzien van het horen voorafgaand aan het vaststellen van een b
 5. Als de in geschil zijnde fiscale kwestie zich bij één belanghebbende met betrekking tot meer dan één heffingstijdvak of heffingstijdstip onveranderd voordoet kan de inspecteur ter voorkoming van de indiening van een reeks van bezwaarschriften met de belanghebbende afspreken dat deze kan volstaan met het indienen van een bezwaarschrift tegen de oudste aanslag die nog niet onherroepelijk vaststaat. De inspecteur zegt in dat geval toe dat hij als daartoe aanleiding bestaat latere belastingaanslagen die ten tijde van het maken van de afspraak nog niet onherroepelijk waren ambtshalve zal herzien nadat de belastingrechter in de procedure zoals bedoeld in onderdeel 9.1, in hoogste instantie heeft beslist. Buiten de hier beschreven situatie is het beleid inzake ambtshalve verminderen en teruggeven (zie onderdeel 17 onder 12) onverkort van toepassing.      
 ### 10  
 
-####Klachten ([titel 9.1. Awb](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md))
+####Klachten (titel 9.1. Awb)
 
-[Titel 9.1 van de Awb](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) regelt de klachtafhandeling door bestuursorganen. De directeur die is aangewezen als inspecteur of ontvanger behandelt klachten die gaan over gedragingen van zijn medewerkers. Klachten over gedragingen van medewerker van andere organisatieonderdelen van de Belastingdienst worden door deze organisatieonderdelen zelf behandeld. Als daartoe aanleiding is, stemt het organisatieonderdeel de behandeling af met de inspecteur onder wie de belanghebbende ressorteert.    
+Titel 9.1 van de Awb regelt de klachtafhandeling door bestuursorganen. De directeur die is aangewezen als inspecteur of ontvanger behandelt klachten die gaan over gedragingen van zijn medewerkers. Klachten over gedragingen van medewerker van andere organisatieonderdelen van de Belastingdienst worden door deze organisatieonderdelen zelf behandeld. Als daartoe aanleiding is, stemt het organisatieonderdeel de behandeling af met de inspecteur onder wie de belanghebbende ressorteert.    
 ### 11  
 
-####Aangifteplicht vennootschapsbelasting ([Vpb](../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md)) voor curatoren ([artikel 8 AWR](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md))
+####Aangifteplicht vennootschapsbelasting (Vpb) voor curatoren (artikel 8 AWR)
 
-1. Om onnodige administratieve lasten en kosten te voorkomen, kan een curator van een failliet lichaam voor dat lichaam de aangifte [Vpb](../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) doen volgens de volgende praktische werkwijze onder de daarbij vermelde voorwaarden.  
+1. Om onnodige administratieve lasten en kosten te voorkomen, kan een curator van een failliet lichaam voor dat lichaam de aangifte Vpb doen volgens de volgende praktische werkwijze onder de daarbij vermelde voorwaarden.  
 
-2. De curator kan aangifte [Vpb](../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) doen met behulp van (een print van) de aangiftebrief (zie [artikel 4a van de Uitvoeringsregeling AWR](../../../ministeriele-regeling/uitvoeringsregeling/algemene/wet/inzake/rijksbelastingen/1994/BWBR0006736/README.md)). Hiertoe zendt hij de aangiftebrief gedagtekend en ondertekend terug naar de inspecteur waaronder het failliete lichaam ressorteert. Op de aangiftebrief vermeldt hij ‘GEEN BELASTBARE FEITEN’ of ‘LEGE BOEDEL’. 
+2. De curator kan aangifte Vpb doen met behulp van (een print van) de aangiftebrief (zie artikel 4a van de Uitvoeringsregeling AWR). Hiertoe zendt hij de aangiftebrief gedagtekend en ondertekend terug naar de inspecteur waaronder het failliete lichaam ressorteert. Op de aangiftebrief vermeldt hij ‘GEEN BELASTBARE FEITEN’ of ‘LEGE BOEDEL’. 
 
 – De curator vermeldt ‘GEEN BELASTBARE FEITEN’ als er naar zijn oordeel geen sprake is van belastbare feiten gedurende dat aangiftetijdvak.  
 
 – De curator vermeldt ‘LEGE BOEDEL’ als de boedel volgens hem geen of onvoldoende middelen bevat om de aanslagen te betalen of andere kosten voor de boedel te maken (waaronder het doen van aangifte).    
 
-3. Als een curator van deze praktische werkwijze gebruik maakt is hij verplicht om onverwijld zelf om een uitnodiging tot het doen van aangifte [Vpb](../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) te verzoeken als er sprake is van gewijzigde omstandigheden die voor de belastingheffing relevant zijn. Om misbruik met lege vennootschappen te voorkomen is hij daarbij ook verplicht om na beëindiging van het faillissement er voor te zorgen dat het lichaam zo spoedig mogelijk wordt ontbonden.  
+3. Als een curator van deze praktische werkwijze gebruik maakt is hij verplicht om onverwijld zelf om een uitnodiging tot het doen van aangifte Vpb te verzoeken als er sprake is van gewijzigde omstandigheden die voor de belastingheffing relevant zijn. Om misbruik met lege vennootschappen te voorkomen is hij daarbij ook verplicht om na beëindiging van het faillissement er voor te zorgen dat het lichaam zo spoedig mogelijk wordt ontbonden.  
 
 4. Na ontvangst van de aangiftebrief met de vermelding van de curator ‘GEEN BELASTBARE FEITEN’ of ‘LEGE BOEDEL’ kan de inspecteur beoordelen of hij het met de curator eens is. 
 
-– Is de inspecteur het niet met de curator eens dan kan hij de curator opnieuw uitnodigen tot het doen van aangifte [Vpb](../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) ten name van de failliete rechtspersoon. Dit geldt ook voor de latere tijdvakken.  
+– Is de inspecteur het niet met de curator eens dan kan hij de curator opnieuw uitnodigen tot het doen van aangifte Vpb ten name van de failliete rechtspersoon. Dit geldt ook voor de latere tijdvakken.  
 
-– Is de inspecteur het wel met de curator eens dan nodigt hij de curator de volgende vijf aangiftetijdvakken niet meer uit om aangifte [Vpb](../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) te doen, behoudens een wijziging van omstandigheden.        
+– Is de inspecteur het wel met de curator eens dan nodigt hij de curator de volgende vijf aangiftetijdvakken niet meer uit om aangifte Vpb te doen, behoudens een wijziging van omstandigheden.        
 ### 12  
 
-####Geen voorlopige teruggaaf als de vereiste aangifte over een voorafgaand jaar ten onrechte niet is gedaan ([artikel 13 AWR](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md))
+####Geen voorlopige teruggaaf als de vereiste aangifte over een voorafgaand jaar ten onrechte niet is gedaan (artikel 13 AWR)
 
 1. De inspecteur stelt geen voorlopige teruggaaf of voorlopige aanslag tot een negatief bedrag over een belastingjaar vast zolang voor het voorafgaande of het daaraan voorafgaande jaar de aangifte ten onrechte niet is gedaan. In zo’n geval is er immers een onaanvaardbaar risico dat de inspecteur over onvoldoende gegevens beschikt door nalatigheid van de belastingplichtige. Zodra alsnog een aangifte is ingediend die, afgezien van de tijdigheid, aan de in de wet gestelde vereisten voldoet, is het mogelijk een (nieuw) verzoek te doen om een voorlopige teruggaaf of voorlopige aanslag tot een negatief bedrag over het desbetreffende jaar.  
 
 2. De inspecteur stelt een voorlopige aanslag vast tot een minimaal even hoog maar dan positief bedrag (een zogenoemde spiegelaanslag) als over dat jaar een voorlopige teruggaaf of voorlopige aanslag tot een negatief bedrag is vastgesteld, zodra hij vaststelt dat over het voorafgaande of het daaraan voorafgaande jaar de aangifte ten onrechte niet is gedaan. In zo’n geval is er immers een onaanvaardbaar risico dat de inspecteur over onvoldoende gegevens beschikt door nalatigheid van de belastingplichtige. Zodra alsnog een aangifte wordt ingediend die, afgezien van de tijdigheid, aan de in de wet gestelde vereisten voldoet beoordeelt de inspecteur deze spiegelaanslag op verzoek opnieuw.      
 ### 13  
 
-####Heffingsrente ([artikel 30f e.v. AWR](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), tekst t/m 2012, vóór invoering belastingrenteregeling)
+####Heffingsrente (artikel 30f e.v. AWR, tekst t/m 2012, vóór invoering belastingrenteregeling)
 
 1. Heffingsrente bij aanslagbelastingen  
 
-1a.  Wijzigen boekjaar [Vpb](../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) tot en met 2009<sup> 2 Inclusief boekjaren die beginnen vóór 1 januari 2010 en daarna eindigen. </sup>  De periode waarover de heffingsrente met betrekking tot de vennootschapsbelasting wordt berekend begint op de dag na het midden van het tijdvak waarover de belasting wordt geheven en eindigt op de dag van de dagtekening van het aanslagbiljet (zie [artikel 30f, derde lid, onderdeel a, van de AWR](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md)). De uitbreiding (sinds belastingjaar 2005) van het tijdvak heeft bij de wijziging van een boekjaar tot gevolg dat de belastingplichtige heffingsrente verschuldigd kan worden over een periode gedurende welke de fiscus geen rentenadeel heeft geleden. Daarom keur ik het volgende goed.  *Goedkeuring*  Ik keur goed dat het in rekening brengen van heffingsrente op verzoek wordt beperkt tot het daadwerkelijk door de fiscus geleden liquiditeitsnadeel.  
+1a.  Wijzigen boekjaar Vpb tot en met 2009<sup> 2 Inclusief boekjaren die beginnen vóór 1 januari 2010 en daarna eindigen. </sup>  De periode waarover de heffingsrente met betrekking tot de vennootschapsbelasting wordt berekend begint op de dag na het midden van het tijdvak waarover de belasting wordt geheven en eindigt op de dag van de dagtekening van het aanslagbiljet (zie artikel 30f, derde lid, onderdeel a, van de AWR). De uitbreiding (sinds belastingjaar 2005) van het tijdvak heeft bij de wijziging van een boekjaar tot gevolg dat de belastingplichtige heffingsrente verschuldigd kan worden over een periode gedurende welke de fiscus geen rentenadeel heeft geleden. Daarom keur ik het volgende goed.  *Goedkeuring*  Ik keur goed dat het in rekening brengen van heffingsrente op verzoek wordt beperkt tot het daadwerkelijk door de fiscus geleden liquiditeitsnadeel.  
 
-1b.  Te hoge of onterechte verliesverrekening Navordering De inspecteur vergoedt geen heffingsrente over een teruggaaf als gevolg van de verrekening van een verlies van een volgend jaar (zie [artikel 30g, vierde lid, van de AWR](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md)). Als navordering van (een deel van) die teruggaaf plaatsvindt, brengt de inspecteur wel heffingsrente in rekening over het bedrag van de navordering.  *Goedkeuring*  Ik keur goed dat de inspecteur bij navordering van een verrekend verlies slechts heffingsrente in rekening brengt over het tijdvak dat begint op de dag na de dagtekening van de verliesverrekeningsbeschikking en eindigt op de dag van de dagtekening van de navorderingsaanslag. Voorlopige verliesverrekeningsbeschikking Ook over een negatieve voorlopige aanslag als gevolg van een voorlopige verliesverrekeningsbeschikking vergoedt de inspecteur geen heffingsrente (zie [artikel 30g, vierde lid, van de AWR](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md)). Als de voorlopige verliesbeschikking bij de definitieve aanslag wordt verrekend, brengt de inspecteur heffingsrente in rekening over de ten onrechte verleende voorlopige verliesverrekening.  *Goedkeuring*  Ik keur goed dat de inspecteur bij de verrekening van een ten onrechte verleende voorlopige verliesbeschikking slechts heffingsrente in rekening brengt over het tijdvak dat begint op de dag na de dagtekening van de voorlopige verliesverrekeningsbeschikking en eindigt op de dag van de dagtekening van de aanslag.  
+1b.  Te hoge of onterechte verliesverrekening Navordering De inspecteur vergoedt geen heffingsrente over een teruggaaf als gevolg van de verrekening van een verlies van een volgend jaar (zie artikel 30g, vierde lid, van de AWR). Als navordering van (een deel van) die teruggaaf plaatsvindt, brengt de inspecteur wel heffingsrente in rekening over het bedrag van de navordering.  *Goedkeuring*  Ik keur goed dat de inspecteur bij navordering van een verrekend verlies slechts heffingsrente in rekening brengt over het tijdvak dat begint op de dag na de dagtekening van de verliesverrekeningsbeschikking en eindigt op de dag van de dagtekening van de navorderingsaanslag. Voorlopige verliesverrekeningsbeschikking Ook over een negatieve voorlopige aanslag als gevolg van een voorlopige verliesverrekeningsbeschikking vergoedt de inspecteur geen heffingsrente (zie artikel 30g, vierde lid, van de AWR). Als de voorlopige verliesbeschikking bij de definitieve aanslag wordt verrekend, brengt de inspecteur heffingsrente in rekening over de ten onrechte verleende voorlopige verliesverrekening.  *Goedkeuring*  Ik keur goed dat de inspecteur bij de verrekening van een ten onrechte verleende voorlopige verliesbeschikking slechts heffingsrente in rekening brengt over het tijdvak dat begint op de dag na de dagtekening van de voorlopige verliesverrekeningsbeschikking en eindigt op de dag van de dagtekening van de aanslag.  
 
 1c.  Beperken van heffingsrente bij aanslagbelastingen Om te voorkomen dat de inspecteur heffingsrente in rekening brengt als gevolg van de enkele omstandigheid dat de inspecteur niet binnen een redelijke termijn na het indienen van de aangifte een belastingaanslag vaststelt, streeft de Belastingdienst er naar om binnen drie maanden nadat een aangifte is ingediend een definitieve of voorlopige aanslag vast te stellen. Als de inspecteur niet binnen drie maanden na het tijdig indienen van de aangifte een definitieve of (nadere) voorlopige aanslag vaststelt, beperkt hij het in rekening brengen van heffingsrente over de conform de aangifte verschuldigde belasting tot drie maanden. Het bovenstaande is eveneens van toepassing op een schatting in een verzoek om uitstel voor het indienen van de aangifte.  
 
@@ -192,16 +192,16 @@ De inspecteur kan afzien van het horen voorafgaand aan het vaststellen van een b
 
 * van de inspecteur nog geen uitnodiging tot het doen van aangifte heeft ontvangen en  
 
-* die binnen drie maanden na afloop van het kalenderjaar waarin hij belastingplichtig of inhoudingsplichtig is geworden, de inspecteur verzoekt hem een naheffingsaanslag op te leggen.   Dit kan bijvoorbeeld gelden voor een startende ondernemer of een onderneming die een andere rechtsvorm heeft gekregen. Hiermee wordt aangesloten bij de regel dat de inspecteur geen heffingsrente in rekening brengt als de naheffingsaanslag het gevolg is van een vrijwillige verbetering van de aangifte binnen drie maanden na het einde van het kalenderjaar of het boekjaar waarop de nageheven belasting betrekking heeft (zie [artikel 30f, tweede lid, letter a, van de AWR](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md)).  
+* die binnen drie maanden na afloop van het kalenderjaar waarin hij belastingplichtig of inhoudingsplichtig is geworden, de inspecteur verzoekt hem een naheffingsaanslag op te leggen.   Dit kan bijvoorbeeld gelden voor een startende ondernemer of een onderneming die een andere rechtsvorm heeft gekregen. Hiermee wordt aangesloten bij de regel dat de inspecteur geen heffingsrente in rekening brengt als de naheffingsaanslag het gevolg is van een vrijwillige verbetering van de aangifte binnen drie maanden na het einde van het kalenderjaar of het boekjaar waarop de nageheven belasting betrekking heeft (zie artikel 30f, tweede lid, letter a, van de AWR).  
 
-2c.  Ambtshalve verlenen van teruggaven De inspecteur vergoedt geen heffingsrente over teruggaven die worden verleend op grond van een in de wet voorgeschreven aangifte, aanvraag of verzoek. De situatie kan zich voordoen dat belastingplichtige verzoekt om correctie van een eerdere teruggaaf of betaling op aangifte. Als de inspecteur aan dit verzoek tegemoetkomt, dan bestaat bij letterlijke wetstoepassing geen ruimte voor vergoeding van heffingsrente. Dit acht ik ongewenst omdat de fiscus geen liquiditeitsnadeel heeft geleden. Daarom keur ik het volgende goed.  *Goedkeuring*  Ik keur goed dat de inspecteur heffingsrente vergoedt over de periode zoals bedoeld in [artikel 30f, derde lid, onderdelen b en c van de AWR](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (vanaf het tijdvak dat aanvangt drie maanden na afloop van het kalenderjaar waarop de teruggaaf betrekking heeft). De inspecteur vergoedt geen heffingsrente over zaken die geen herstel van een onjuistheid zijn. Een teruggaaf als gevolg van een negatieve (reguliere) aangifte, een in de wet- of regelgeving genoemde aanvraag of verzoek of een afzonderlijke aangifte is geen herstel van een onjuistheid. Als de belastingplichtige niet binnen de (wettelijke) termijn een negatieve aangifte of een afzonderlijke aangifte indient maar op een later moment een teruggaaf verzoekt, is sprake van een verzoek om ambtshalve teruggaaf. Als de inspecteur heffingsrente vergoedt over de periode waarover op grond van [artikel 32r van de Wet op de omzetbelasting 1968](../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) rente moet worden vergoed, wordt de heffingsrente geacht op grond van artikel 32r van de Wet op de omzetbelasting 1968 te worden vergoed.  
+2c.  Ambtshalve verlenen van teruggaven De inspecteur vergoedt geen heffingsrente over teruggaven die worden verleend op grond van een in de wet voorgeschreven aangifte, aanvraag of verzoek. De situatie kan zich voordoen dat belastingplichtige verzoekt om correctie van een eerdere teruggaaf of betaling op aangifte. Als de inspecteur aan dit verzoek tegemoetkomt, dan bestaat bij letterlijke wetstoepassing geen ruimte voor vergoeding van heffingsrente. Dit acht ik ongewenst omdat de fiscus geen liquiditeitsnadeel heeft geleden. Daarom keur ik het volgende goed.  *Goedkeuring*  Ik keur goed dat de inspecteur heffingsrente vergoedt over de periode zoals bedoeld in artikel 30f, derde lid, onderdelen b en c van de AWR (vanaf het tijdvak dat aanvangt drie maanden na afloop van het kalenderjaar waarop de teruggaaf betrekking heeft). De inspecteur vergoedt geen heffingsrente over zaken die geen herstel van een onjuistheid zijn. Een teruggaaf als gevolg van een negatieve (reguliere) aangifte, een in de wet- of regelgeving genoemde aanvraag of verzoek of een afzonderlijke aangifte is geen herstel van een onjuistheid. Als de belastingplichtige niet binnen de (wettelijke) termijn een negatieve aangifte of een afzonderlijke aangifte indient maar op een later moment een teruggaaf verzoekt, is sprake van een verzoek om ambtshalve teruggaaf. Als de inspecteur heffingsrente vergoedt over de periode waarover op grond van artikel 32r van de Wet op de omzetbelasting 1968 rente moet worden vergoed, wordt de heffingsrente geacht op grond van artikel 32r van de Wet op de omzetbelasting 1968 te worden vergoed.  
 
-2d.  In rekening brengen van heffingsrente bij kleineondernemersregeling en forfaitaire berekeningsmethoden De zogenoemde kleineondernemersregeling kan door middel van voorlopige verminderingen worden toegepast. Na afloop van het jaar vindt er verrekening plaats van de voorlopige verminderingen (zie [artikel 24 van de Uitvoeringsbeschikking omzetbelasting](../../../ministeriele-regeling/uitvoeringsbeschikking/omzetbelasting/1968/BWBR0002634/README.md)). Als deze verrekening leidt tot een hoger bedrag dan over het jaar aan belasting is betaald, dan moet het verschil worden voldaan op de aangifte over het eerste belastingtijdvak van het volgende jaar. Bij de forfaitaire berekeningsmethoden (zie [artikel 16 van het Uitvoeringsbesluit omzetbelasting](../../../AMvB/uitvoeringsbesluit/omzetbelasting/1968/BWBR0002633/README.md)) vindt na afloop van het boekjaar een herrekening van de verschuldigde belasting plaats. Als deze herrekening leidt tot een hoger bedrag dan over het boekjaar aan belasting is afgedragen, dan moet het verschil worden voldaan op de aangifte over het eerste belastingtijdvak van het volgende boekjaar. In deze situaties is sprake van een in de [Wet op de omzetbelasting 1968](../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) voorziene correctie. Om een versoepeling van de uitvoeringspraktijk mogelijk te maken, keur ik het volgende goed.  *Goedkeuring*  Ik keur goed dat de inspecteur bij deze correcties geen heffingsrente in rekening brengt als zij plaatsvinden bij de aangifte over enig tijdvak van de in de voorgaande alinea’s genoemde (volgende) jaren.      
+2d.  In rekening brengen van heffingsrente bij kleineondernemersregeling en forfaitaire berekeningsmethoden De zogenoemde kleineondernemersregeling kan door middel van voorlopige verminderingen worden toegepast. Na afloop van het jaar vindt er verrekening plaats van de voorlopige verminderingen (zie artikel 24 van de Uitvoeringsbeschikking omzetbelasting). Als deze verrekening leidt tot een hoger bedrag dan over het jaar aan belasting is betaald, dan moet het verschil worden voldaan op de aangifte over het eerste belastingtijdvak van het volgende jaar. Bij de forfaitaire berekeningsmethoden (zie artikel 16 van het Uitvoeringsbesluit omzetbelasting) vindt na afloop van het boekjaar een herrekening van de verschuldigde belasting plaats. Als deze herrekening leidt tot een hoger bedrag dan over het boekjaar aan belasting is afgedragen, dan moet het verschil worden voldaan op de aangifte over het eerste belastingtijdvak van het volgende boekjaar. In deze situaties is sprake van een in de Wet op de omzetbelasting 1968 voorziene correctie. Om een versoepeling van de uitvoeringspraktijk mogelijk te maken, keur ik het volgende goed.  *Goedkeuring*  Ik keur goed dat de inspecteur bij deze correcties geen heffingsrente in rekening brengt als zij plaatsvinden bij de aangifte over enig tijdvak van de in de voorgaande alinea’s genoemde (volgende) jaren.      
 ### 14  
 
-####Bewaarplicht ([artikel 52 AWR](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md))
+####Bewaarplicht (artikel 52 AWR)
 
-1. Elke administratieplichtige is verplicht de boeken, bescheiden en andere gegevensdragers die fiscaal relevant kunnen zijn, gedurende zeven jaren te bewaren (zie [artikel 52, vierde lid, van de AWR](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md)). De bewaarplicht ontstaat zodra de gegevens niet langer op grond van artikel 52, eerste lid, van de AWR tot de (jaar)administratie behoren.  
+1. Elke administratieplichtige is verplicht de boeken, bescheiden en andere gegevensdragers die fiscaal relevant kunnen zijn, gedurende zeven jaren te bewaren (zie artikel 52, vierde lid, van de AWR). De bewaarplicht ontstaat zodra de gegevens niet langer op grond van artikel 52, eerste lid, van de AWR tot de (jaar)administratie behoren.  
 
 2. De Belastingdienst maakt voor de invulling van de fiscale bewaarplicht een onderscheid tussen basisgegevens en overige gegevens. In een administratie zijn de volgende onderdelen als basisgegevens aan te wijzen: 
 
@@ -219,7 +219,7 @@ f. de verkoopadministratie;
 
 g. de loonadministratie.    
 
-3. Behalve deze algemene basisgegevens zijn er meer specifieke basisgegevens die vooral van belang zijn voor de belastingheffing van derden (zie [art. 53 van de AWR](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md)). In dat kader kan bijvoorbeeld worden gedacht aan: 
+3. Behalve deze algemene basisgegevens zijn er meer specifieke basisgegevens die vooral van belang zijn voor de belastingheffing van derden (zie art. 53 van de AWR). In dat kader kan bijvoorbeeld worden gedacht aan: 
 
 a. de kredietdossiers bij banken;  
 
@@ -241,26 +241,26 @@ c. na een belastingcontrole.
 
 8. De afspraken kunnen van geval tot geval verschillend zijn. Dit zal onder meer afhangen van de aard en de omvang van de activiteiten van een administratieplichtige.  
 
-9. De afspraken hebben alleen betrekking op de fiscale bewaarplicht van [artikel 52 van de AWR](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en laten andere bewaarverplichtingen (zoals de civielrechtelijke bewaartermijn van [artikel 2:10, lid 3 BW](../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md)) onverlet. In de vastlegging van de afspraken dient dit uitdrukkelijk opgenomen te worden. De bewaartermijn in de [AWR](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) laat onverlet dat in bijzondere fiscale wetgeving een langere termijn kan worden voorgeschreven, bijvoorbeeld voor de heffing van omzetbelasting ter zake van onroerende zaken (negen jaar volgend op het jaar waarin de ondernemer het goed is gaan gebruiken).      
+9. De afspraken hebben alleen betrekking op de fiscale bewaarplicht van artikel 52 van de AWR en laten andere bewaarverplichtingen (zoals de civielrechtelijke bewaartermijn van artikel 2:10, lid 3 BW) onverlet. In de vastlegging van de afspraken dient dit uitdrukkelijk opgenomen te worden. De bewaartermijn in de AWR laat onverlet dat in bijzondere fiscale wetgeving een langere termijn kan worden voorgeschreven, bijvoorbeeld voor de heffing van omzetbelasting ter zake van onroerende zaken (negen jaar volgend op het jaar waarin de ondernemer het goed is gaan gebruiken).      
 ### 15  
 
-####Informatieverstrekking door notarissen ([artikel 53a AWR](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md))
+####Informatieverstrekking door notarissen (artikel 53a AWR)
 
-1. In dit onderdeel zijn procedurele regels gegeven met betrekking tot informatieverzoeken aan de notaris. Een notaris heeft een geheimhoudingsplicht en tegenover de Belastingdienst een verschoningsrecht ten behoeve van de belastingheffing van derden (zie [artikel 22 van de Wna](../../../wet/notariswet/BWBR0010388/README.md)) en [artikel 53a, derde lid, van de AWR](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md)). Dit kan de Belastingdienst belemmeren bij een correcte heffing en effectieve inning van belastingen en vervolging van strafbare feiten. Hierom is met ingang van 1 januari 2012 voor de notaris een (beperkte) informatieplicht ingevoerd (zie [artikel 25, achtste en negende lid, van de Wna](../../../wet/notariswet/BWBR0010388/README.md)) van bepaalde gegevens van de zogenoemde derdengeldenrekening. De informatieplicht van de notaris bestaat uit twee verschillende onderdelen. De notaris is verplicht, op schriftelijk verzoek, aan de inspecteur van de Belastingdienst een beperkt aantal wettelijk omschreven gegevens te overleggen. Dit betreft specifieke transacties, handelingen of betalingen die hebben plaatsgevonden via zijn derdengeldenrekening. De wettelijke bepaling vereist voor een dergelijk verzoek een machtiging door de Minister van Financiën. Daarnaast moet de notaris deze gegevens verschaffen voor zover gevorderd op grond van het [Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md). Naar verwachting zal het merendeel van de verzoeken in het kader van fiscale controle worden gedaan. 
+1. In dit onderdeel zijn procedurele regels gegeven met betrekking tot informatieverzoeken aan de notaris. Een notaris heeft een geheimhoudingsplicht en tegenover de Belastingdienst een verschoningsrecht ten behoeve van de belastingheffing van derden (zie artikel 22 van de Wna) en artikel 53a, derde lid, van de AWR). Dit kan de Belastingdienst belemmeren bij een correcte heffing en effectieve inning van belastingen en vervolging van strafbare feiten. Hierom is met ingang van 1 januari 2012 voor de notaris een (beperkte) informatieplicht ingevoerd (zie artikel 25, achtste en negende lid, van de Wna) van bepaalde gegevens van de zogenoemde derdengeldenrekening. De informatieplicht van de notaris bestaat uit twee verschillende onderdelen. De notaris is verplicht, op schriftelijk verzoek, aan de inspecteur van de Belastingdienst een beperkt aantal wettelijk omschreven gegevens te overleggen. Dit betreft specifieke transacties, handelingen of betalingen die hebben plaatsgevonden via zijn derdengeldenrekening. De wettelijke bepaling vereist voor een dergelijk verzoek een machtiging door de Minister van Financiën. Daarnaast moet de notaris deze gegevens verschaffen voor zover gevorderd op grond van het Wetboek van Strafvordering. Naar verwachting zal het merendeel van de verzoeken in het kader van fiscale controle worden gedaan. 
 
 1. Dit onderdeel verstaat onder: 
 
-* Informatie: de gegevens en inlichtingen van boeken, bescheiden en andere gegevensdragers die de Belastingdienst mag vragen op grond van de bevoegdheden in [artikel 53 van de AWR](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [artikel 62 van IW 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md), de overeenkomstige bepalingen in de [Adw](../../../wet/algemene/douanewet/BWBR0023746/README.md), de inlichtingenbepalingen in de Europeesrechtelijke, internationale, interregionale en supranationale regelingen met betrekking tot de heffing of de invordering van belastingen waarbij Nederland partij is, en het [Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md).  
+* Informatie: de gegevens en inlichtingen van boeken, bescheiden en andere gegevensdragers die de Belastingdienst mag vragen op grond van de bevoegdheden in artikel 53 van de AWR, artikel 62 van IW 1990, de overeenkomstige bepalingen in de Adw, de inlichtingenbepalingen in de Europeesrechtelijke, internationale, interregionale en supranationale regelingen met betrekking tot de heffing of de invordering van belastingen waarbij Nederland partij is, en het Wetboek van Strafvordering.  
 
-* Informatieverzoek: een verzoek om informatie als bedoeld in de hiervoor genoemde wettelijke bepalingen en [artikel 25 van de Wna](../../../wet/notariswet/BWBR0010388/README.md).  
+* Informatieverzoek: een verzoek om informatie als bedoeld in de hiervoor genoemde wettelijke bepalingen en artikel 25 van de Wna.  
 
-* Derdengeldenrekening: de bijzondere rekening, bedoeld in [artikel 25 van de Wna](../../../wet/notariswet/BWBR0010388/README.md) (ook bekend als de derdenrekening of kwaliteitsrekening).    
+* Derdengeldenrekening: de bijzondere rekening, bedoeld in artikel 25 van de Wna (ook bekend als de derdenrekening of kwaliteitsrekening).    
 
-2. De Belastingdienst gaat terughoudend om met het doen van informatieverzoeken aan een notaris. De inspecteur maakt, voordat hij een verzoek om informatie doet, tegenover de belastingplichtige gebruik van de bevoegdheden om informatie te vragen zoals bedoeld in de [AWR](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), de [Adw](../../../wet/algemene/douanewet/BWBR0023746/README.md) of de [IW 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md). Als het belang van de heffing, invordering of opsporing dit in redelijkheid noodzakelijk maakt kan hier van worden afgeweken. Daarbij gelden de volgende procedurele regels en voorwaarden: 
+2. De Belastingdienst gaat terughoudend om met het doen van informatieverzoeken aan een notaris. De inspecteur maakt, voordat hij een verzoek om informatie doet, tegenover de belastingplichtige gebruik van de bevoegdheden om informatie te vragen zoals bedoeld in de AWR, de Adw of de IW 1990. Als het belang van de heffing, invordering of opsporing dit in redelijkheid noodzakelijk maakt kan hier van worden afgeweken. Daarbij gelden de volgende procedurele regels en voorwaarden: 
 
 2.1.  Formele vereisten 
 
-a. Het informatieverzoek richt zich tot de notaris uit hoofde van de [artikelen 47](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [49](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) jo. [artikel 53, eerste lid, onderdeel a, van de AWR](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), de [artikelen 58](../../../wet/invorderingswet/1990/BWBR0004770/README.md), [59](../../../wet/invorderingswet/1990/BWBR0004770/README.md), [60](../../../wet/invorderingswet/1990/BWBR0004770/README.md) jo. [artikel 62 van de IW 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md) of de overeenkomstige artikelen in de [Adw](../../../wet/algemene/douanewet/BWBR0023746/README.md).  
+a. Het informatieverzoek richt zich tot de notaris uit hoofde van de artikelen 47, 49 jo. artikel 53, eerste lid, onderdeel a, van de AWR, de artikelen 58, 59, 60 jo. artikel 62 van de IW 1990 of de overeenkomstige artikelen in de Adw.  
 
 b. Een informatieverzoek wordt alleen gedaan als daartoe een ‘gerede aanleiding’ bestaat.  
 
@@ -288,25 +288,25 @@ d. De notaris moet gegevens verstrekken over de (rechts)personen die zijn betrok
 
 e. De inspecteur kan verzoeken om gegevens over de transactie of handeling die ten grondslag ligt aan de betalingen, om die betalingen te kunnen duiden.  
 
-f. Bij het verstrekken van de gegevens geeft de notaris hun onderlinge verband aan (zie [artikel 25, achtste lid, laatste volzin, van de Wna](../../../wet/notariswet/BWBR0010388/README.md)).  
+f. Bij het verstrekken van de gegevens geeft de notaris hun onderlinge verband aan (zie artikel 25, achtste lid, laatste volzin, van de Wna).  
 
 g. De notaris kan aan de informatieverstrekking niet de voorwaarde verbinden dat de betrokken derde daarmee instemt.      
 
 4. De bepalingen van dit onderdeel hebben mede betrekking op verzoeken om informatie inzake een individuele derde of groepen van derden in verband met het door Nederland verlenen van bijstand ten behoeve van de heffing van belastingen en de invordering van belastingschulden van andere staten.        
 ### 16  
 
-####Instemming doelmatige formalisering belastingschuld ([artikel 64 AWR](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md))
+####Instemming doelmatige formalisering belastingschuld (artikel 64 AWR)
 
-De instemming om een belastingaanslag te formaliseren met toepassing van [artikel 64 van de AWR](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) laat onverlet de mogelijkheid om: 
+De instemming om een belastingaanslag te formaliseren met toepassing van artikel 64 van de AWR laat onverlet de mogelijkheid om: 
 
 a. de rechtsgeldige totstandkoming van deze instemming in bezwaar en vervolgens in beroep bij de belastingrechter te betwisten;  
 
 b. de hoogte van de uit de belastingwet voortvloeiende schuld of van de op grond van een belastingwet op te leggen bestuurlijke boete in bezwaar en vervolgens in beroep bij de belastingrechter te betwisten. Dit is slechts anders indien over deze hoogte in een vaststellingsovereenkomst bindende afspraken zijn gemaakt (zie onderdeel 18, zeventiende lid, onder h).      
 ### 17  
 
-####Ambtshalve verminderen of teruggeven ([artikel 65 AWR](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md))
+####Ambtshalve verminderen of teruggeven (artikel 65 AWR)
 
-1. In [artikel 65 van de AWR](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) zijn de bevoegdheden van de inspecteur neergelegd om ambtshalve: 
+1. In artikel 65 van de AWR zijn de bevoegdheden van de inspecteur neergelegd om ambtshalve: 
 
 a. een onjuiste belastingaanslag te verminderen;  
 
@@ -320,9 +320,9 @@ e. een in de wet voorziene teruggaaf te verlenen.   Deze bevoegdheden worden in 
 
 2. Dit onderdeel bevat een uitputtende regeling van de gevallen, waarin de inspecteur van deze bevoegdheden gebruik maakt.  
 
-3. Dit onderdeel is ook van toepassing op regelingen die onder het bereik van [artikel 65 van de AWR](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) zijn gebracht, zoals bijvoorbeeld de werknemersverzekeringen. Dit onderdeel is niet van toepassing als in de wet of in een op de wet gebaseerde ministeriële regeling regels voor ambtshalve verminderen of teruggeven zijn gesteld, zoals bijvoorbeeld in [artikel 45aa van de Uitvoeringsregeling inkomstenbelasting 2001](../../../ministeriele-regeling/uitvoeringsregeling/inkomstenbelasting/2001/BWBR0012031/README.md).  
+3. Dit onderdeel is ook van toepassing op regelingen die onder het bereik van artikel 65 van de AWR zijn gebracht, zoals bijvoorbeeld de werknemersverzekeringen. Dit onderdeel is niet van toepassing als in de wet of in een op de wet gebaseerde ministeriële regeling regels voor ambtshalve verminderen of teruggeven zijn gesteld, zoals bijvoorbeeld in artikel 45aa van de Uitvoeringsregeling inkomstenbelasting 2001.  
 
-4. Dit onderdeel verstaat onder de belanghebbende: de belastingplichtige, de inhoudingsplichtige of degene die de belasting als hoofdelijk medeaansprakelijke heeft betaald. Als zowel de belastingplichtige als de inhoudingsplichtige in beginsel in aanmerking komen voor een vermindering of teruggaaf van belasting, heeft uitsluitend de belastingplichtige aanspraak op die vermindering of die teruggaaf van belasting. Dit behoudens die gevallen waarin een wettelijke regeling een ander dan de belastingplichtige aanwijst, zoals bijvoorbeeld [artikel 59, zesde lid, van de Wet financiering sociale verzekeringen](../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md). In genoemd voorbeeld wordt de ambtshalve teruggaaf uitsluitend aan de werkgever verleend.  
+4. Dit onderdeel verstaat onder de belanghebbende: de belastingplichtige, de inhoudingsplichtige of degene die de belasting als hoofdelijk medeaansprakelijke heeft betaald. Als zowel de belastingplichtige als de inhoudingsplichtige in beginsel in aanmerking komen voor een vermindering of teruggaaf van belasting, heeft uitsluitend de belastingplichtige aanspraak op die vermindering of die teruggaaf van belasting. Dit behoudens die gevallen waarin een wettelijke regeling een ander dan de belastingplichtige aanwijst, zoals bijvoorbeeld artikel 59, zesde lid, van de Wet financiering sociale verzekeringen. In genoemd voorbeeld wordt de ambtshalve teruggaaf uitsluitend aan de werkgever verleend.  
 
 5. Dit onderdeel is van overeenkomstige toepassing voor de vaststelling en herziening van verliesbeschikkingen. Ondanks dat de ambtshalve vastgestelde en herziene beschikkingen niet voor bezwaar vatbaar zijn, staan de wettelijke bepalingen niet aan verliesverrekening in de weg. Een aldus vastgesteld verlies kan ook worden verrekend met inkomens of belastbare winsten welke gelegen zijn buiten de vijfjaarstermijn, zoals bedoeld in het negende lid van dit onderdeel.  
 
@@ -330,7 +330,7 @@ e. een in de wet voorziene teruggaaf te verlenen.   Deze bevoegdheden worden in 
 
 a. de vereiste aangifte niet is gedaan; of  
 
-b. niet volledig is voldaan aan de verplichtingen ingevolge de [artikelen 41](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [47](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [47a](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [49](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [52, van de AWR](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), alsmede aan de verplichtingen ingevolge [artikel 53, eerste, tweede en derde lid, van de AWR](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), voorzover het verplichtingen van administratieplichtigen betreft ten behoeve van de heffing van de belasting waarvan de inhouding aan hen is opgedragen, tenzij is gebleken dat en in hoeverre de belastingaanslag of de beschikking onjuist is.    
+b. niet volledig is voldaan aan de verplichtingen ingevolge de artikelen 41, 47, 47a, 49, 52, van de AWR, alsmede aan de verplichtingen ingevolge artikel 53, eerste, tweede en derde lid, van de AWR, voorzover het verplichtingen van administratieplichtigen betreft ten behoeve van de heffing van de belasting waarvan de inhouding aan hen is opgedragen, tenzij is gebleken dat en in hoeverre de belastingaanslag of de beschikking onjuist is.    
 
 7. Vermindering of teruggaaf van belasting kan worden verleend: 
 
@@ -348,7 +348,7 @@ b. Als er sprake is van nieuwe jurisprudentie of nieuw beleid (zie onder 12, 13 
 
 c. In gevallen waarin de belanghebbende bij de aangifte of op een ander wettelijk voorgeschreven moment een verzoek had moeten doen of een keuze had moeten maken voor toepassing van een fiscale faciliteit. Een dergelijk verzoek kan niet meer succesvol worden gedaan en een dergelijke keuze kan niet meer succesvol worden gemaakt nadat de aanslag onherroepelijk vast is komen te staan, dan wel de bezwaar- of beroepstermijn is verstreken. Voor de toepassing van deze bepaling wordt een verzoek om teruggaaf of vermindering in de zin van de belastingwet, niet aangemerkt als verzoek om een fiscale faciliteit.  
 
-d. Als een correctiebericht in de zin van [artikel 28a Wet op de loonbelasting 1964](../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) moet of kan worden ingediend, tenzij het verzoek wordt gedaan in de vorm van een correctiebericht.    
+d. Als een correctiebericht in de zin van artikel 28a Wet op de loonbelasting 1964 moet of kan worden ingediend, tenzij het verzoek wordt gedaan in de vorm van een correctiebericht.    
 
 9. De termijn waarbinnen de belanghebbende aanspraak kan maken op het ambtshalve verlenen van vermindering of teruggaaf van belasting vervalt: 
 
@@ -379,13 +379,13 @@ b. Als ik in een beleidsbesluit een bijzondere regeling heb getroffen.
 18. Wanneer de belanghebbende de wettelijke termijn voor het indienen van een verzoek om teruggaaf van accijns of verbruiksbelasting van alcoholvrije dranken ongebruikt heeft laten verstrijken, verleent de inspecteur geen teruggaaf als in de voorafgaande drie jaren reeds tweemaal eerder een verzoekschrift te laat is ingediend en betrokkene er daarbij op is gewezen dat bij een derde en volgend te laat ingediend verzoekschrift niet nogmaals ambtshalve teruggaaf zal worden verleend.      
 ### 18  
 
-####Vaststellingsovereenkomst ([artikel 7:900 Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md))
+####Vaststellingsovereenkomst (artikel 7:900 Burgerlijk Wetboek)
 
-1. Bij een vaststellingsovereenkomst binden partijen, ter beëindiging of ter voorkoming van onzekerheid of geschil omtrent hetgeen tussen hen rechtens geldt, zich jegens elkaar aan een vaststelling daarvan, bestemd om ook te gelden voor zover zij van de tevoren bestaande rechtstoestand mocht afwijken ([artikel 7:900, eerste lid, van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md)).  
+1. Bij een vaststellingsovereenkomst binden partijen, ter beëindiging of ter voorkoming van onzekerheid of geschil omtrent hetgeen tussen hen rechtens geldt, zich jegens elkaar aan een vaststelling daarvan, bestemd om ook te gelden voor zover zij van de tevoren bestaande rechtstoestand mocht afwijken (artikel 7:900, eerste lid, van het Burgerlijk Wetboek).  
 
 2. De inspecteur sluit slechts vaststellingsovereenkomsten met belanghebbenden van wie de identiteit vaststaat. Bij het voorafgaande overleg dient tussen partijen duidelijkheid te bestaan over de onderwerpen die in het overleg aan de orde (zullen) komen en over hetgeen met het overleg wordt beoogd. Het verdient in dit verband de voorkeur om belanghebbende te verzoeken de kwestie schriftelijk aan de orde te stellen.  
 
-3. Bij een overleg dat plaatsvindt in de heffingssfeer, maar dat ook betrekking heeft of kan hebben op de invordering, neemt de ontvanger ook deel. Bij een overleg dat plaatsvindt in de invorderingssfeer, maar mede betrekking heeft of kan hebben op de heffing, neemt ook de inspecteur deel. De inspecteur voert het overleg en sluit de vaststellingsovereenkomst. Bij onderwerpen die betrekking hebben op belanghebbenden die tot meer dan één entiteit behoren en die onder meer dan één functionaris als bedoeld in [hoofdstuk 3 van de Uitvoeringsregeling Belastingdienst 2003](../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md) ressorteren (contactposten), geven de betrokken inspecteurs/ontvangers vooraf hun akkoord dat de coördinerende inspecteur/ontvanger namens hen optreedt bij het voeren van onderhandelingen en sluiten van een vaststellingsovereenkomst.  
+3. Bij een overleg dat plaatsvindt in de heffingssfeer, maar dat ook betrekking heeft of kan hebben op de invordering, neemt de ontvanger ook deel. Bij een overleg dat plaatsvindt in de invorderingssfeer, maar mede betrekking heeft of kan hebben op de heffing, neemt ook de inspecteur deel. De inspecteur voert het overleg en sluit de vaststellingsovereenkomst. Bij onderwerpen die betrekking hebben op belanghebbenden die tot meer dan één entiteit behoren en die onder meer dan één functionaris als bedoeld in hoofdstuk 3 van de Uitvoeringsregeling Belastingdienst 2003 ressorteren (contactposten), geven de betrokken inspecteurs/ontvangers vooraf hun akkoord dat de coördinerende inspecteur/ontvanger namens hen optreedt bij het voeren van onderhandelingen en sluiten van een vaststellingsovereenkomst.  
 
 4. Van ieder overleg maakt de inspecteur een intern schriftelijk verslag met eventuele ambtelijke adviezen of strategische informatie. De verslaglegging bevat de namen van belanghebbende en diens vertegenwoordiger/gemachtigde, alsmede die van de inspecteur, de datum waarop het overleg heeft plaatsgevonden, de onderwerpen waarover overleg werd gevoerd, de inhoud van het overleg en de eventuele resultaten die het overleg heeft opgeleverd. Het interne verslag wordt in het klantdossier bewaard.  
 
@@ -443,16 +443,16 @@ i. de duur van de bedenktermijn die aan de aan de belanghebbende of diens verteg
 
 j. de overige bijzondere omstandigheden van het geval;  
 
-k. het eventuele bedrag waarmee belanghebbende wordt tegemoetgekomen in de kosten voor juridische bijstand, indien de vaststellingsovereenkomst werd gesloten in de bezwaar- of beroepsfase. Voor de vergoeding van de kosten voor juridische bijstand wordt gehandeld overeenkomstig het (forfaitair) bepaalde in het [Besluit proceskosten bestuursrecht](../../../AMvB/besluit/proceskosten/bestuursrecht/BWBR0006358/README.md).        
+k. het eventuele bedrag waarmee belanghebbende wordt tegemoetgekomen in de kosten voor juridische bijstand, indien de vaststellingsovereenkomst werd gesloten in de bezwaar- of beroepsfase. Voor de vergoeding van de kosten voor juridische bijstand wordt gehandeld overeenkomstig het (forfaitair) bepaalde in het Besluit proceskosten bestuursrecht.        
 ### 19  
 
 ####Kosten- en schadevergoeding
 
-1. De bevoegdheid van de Belastingdienst inzake de zelfstandige afhandeling van verzoeken om kosten- en schadevergoeding, anders dan voor kosten bedoeld in het [Besluit proceskosten bestuursrecht](../../../AMvB/besluit/proceskosten/bestuursrecht/BWBR0006358/README.md), wordt als volgt vastgesteld. Indien het verzoek per geval het bedrag van € 10.000 niet te boven gaat, zijn de volgende in de [Uitvoeringsregeling Belastingdienst 2003](../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md) genoemde functionarissen bevoegd om zelfstandig te beslissen op dergelijke verzoeken: 
+1. De bevoegdheid van de Belastingdienst inzake de zelfstandige afhandeling van verzoeken om kosten- en schadevergoeding, anders dan voor kosten bedoeld in het Besluit proceskosten bestuursrecht, wordt als volgt vastgesteld. Indien het verzoek per geval het bedrag van € 10.000 niet te boven gaat, zijn de volgende in de Uitvoeringsregeling Belastingdienst 2003 genoemde functionarissen bevoegd om zelfstandig te beslissen op dergelijke verzoeken: 
 
-* De (landelijk) directeuren van de in [artikel 3, eerste lid, onderdeel a en onderdeel c1](../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md) genoemde organisatieonderdelen.  
+* De (landelijk) directeuren van de in artikel 3, eerste lid, onderdeel a en onderdeel c1 genoemde organisatieonderdelen.  
 
-* De algemeen directeur van de in [artikel 3, onderdelen b1, b2 en e](../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md), genoemde organisatieonderdelen.   Waar het fiscale beleid nog verwijst naar functionarissen in de [Uitvoeringsregeling Belastingdienst 2003](../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md) van voor de [wijziging van 13 maart 2013](../../../ministeriele-regeling/uitvoeringsregeling/verklaring/rijksbelastingdienst/over/huishoudinkomen/etc/BWBR0033007/README.md), nr. DB2013/99M, gaan alle rechten en plichten van deze functionarissen over naar de functionele opvolgers in de huidige [Uitvoeringsregeling Belastingdienst 2003](../../../ministeriele-regeling/uitvoeringsregeling/belastingdienst/2003/BWBR0014506/README.md). Vorenstaande bevoegdheid geldt tevens indien het verzoek het bedrag van € 10.000 te boven gaat, voor zover de inspecteur van oordeel is dat het verzoek slechts tot een bedrag van maximaal € 10.000 dient te worden toegewezen.  
+* De algemeen directeur van de in artikel 3, onderdelen b1, b2 en e, genoemde organisatieonderdelen.   Waar het fiscale beleid nog verwijst naar functionarissen in de Uitvoeringsregeling Belastingdienst 2003 van voor de wijziging van 13 maart 2013, nr. DB2013/99M, gaan alle rechten en plichten van deze functionarissen over naar de functionele opvolgers in de huidige Uitvoeringsregeling Belastingdienst 2003. Vorenstaande bevoegdheid geldt tevens indien het verzoek het bedrag van € 10.000 te boven gaat, voor zover de inspecteur van oordeel is dat het verzoek slechts tot een bedrag van maximaal € 10.000 dient te worden toegewezen.  
 
 2. Een verzoek om heroverweging van de beslissingen van de inspecteur op verzoeken om kosten- en schadevergoeding kan worden voorgelegd aan het cluster Bedrijf van het Directoraat-generaal Belastingdienst van het Ministerie van Financiën indien het verzoek het bedrag van € 5.000 te boven gaat. Bij heroverweging zal het verzoek om kosten- of schadevergoeding in volle omvang worden getoetst, waarbij niet is uitgesloten dat dit leidt tot een voor verzoeker nadeliger beslissing.  
 
@@ -460,17 +460,17 @@ k. het eventuele bedrag waarmee belanghebbende wordt tegemoetgekomen in de koste
 
 * verzoeken om vergoeding van de kosten van rechtsbijstand tegen een besluit dat is genomen op of na 12 maart 2002. In dat geval is de wettelijke, forfaitaire vergoedingsregeling van toepassing die is geregeld bij en krachtens: 
 
-o de [artikelen 8:75](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [8:75a](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), juncto [artikel 7:15 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) voor bezwaar;  
+o de artikelen 8:75 en 8:75a, juncto artikel 7:15 van de Algemene wet bestuursrecht voor bezwaar;  
 
-o de [artikelen 8:75](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [8:75a van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) voor beroep;  
+o de artikelen 8:75 en 8:75a van de Algemene wet bestuursrecht voor beroep;  
 
-o de [artikelen 8:75](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [8:75 a](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), juncto [artikel 7:28 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) voor administratief beroep;  
+o de artikelen 8:75 en 8:75 a, juncto artikel 7:28 van de Algemene wet bestuursrecht voor administratief beroep;  
 
-o het [Besluit proceskosten bestuursrecht](../../../AMvB/besluit/proceskosten/bestuursrecht/BWBR0006358/README.md) van 22 december 1993, (Stb. 1993, 763).    
+o het Besluit proceskosten bestuursrecht van 22 december 1993, (Stb. 1993, 763).    
 
 * verzoeken om betaling van coulancerente (zie onderdeel 20);  
 
-* verzoeken die zijn gebaseerd op [artikel 8:73 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) (verzoeken om een zuiver schadebesluit).        
+* verzoeken die zijn gebaseerd op artikel 8:73 van de Algemene wet bestuursrecht (verzoeken om een zuiver schadebesluit).        
 ### 20  
 
 ####Coulancerentevergoeding
@@ -481,7 +481,7 @@ o het [Besluit proceskosten bestuursrecht](../../../AMvB/besluit/proceskosten/be
 
 3. Het beleid ten aanzien van het verlenen van rentevergoedingen is gebaseerd op coulance en vloeit voort uit het streven naar een klantgerichte behandeling van belastingplichtigen.  
 
-4. Bij verstrekking van een coulancerentevergoeding geldt als rentepercentage: het percentage van de ingevolge [artikel 120, eerste lid, van Boek 6 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) bij algemene maatregel van bestuur vastgestelde wettelijke rente, bedoeld in [artikel 119 van Boek 6 van dat wetboek](../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md), over de periode van de aan de inspecteur verwijtbare vertraging.  
+4. Bij verstrekking van een coulancerentevergoeding geldt als rentepercentage: het percentage van de ingevolge artikel 120, eerste lid, van Boek 6 van het Burgerlijk Wetboek bij algemene maatregel van bestuur vastgestelde wettelijke rente, bedoeld in artikel 119 van Boek 6 van dat wetboek, over de periode van de aan de inspecteur verwijtbare vertraging.  
 
 5. Verzoeken tot vergoeding van coulancerente worden door de inspecteur dan wel ontvanger afgehandeld.  
 
@@ -506,21 +506,21 @@ Er is een Landelijk coördinator civiele heffingsprocedures (hierna: de coördin
 
 De volgende besluiten zijn ingetrokken met ingang van de inwerkingtreding van dit besluit: 
 
-* het [besluit van 27 februari 2012](../../../beleidsregel/besluit/informatieverstrekking/notaris/BWBR0031333/README.md), nr. BLKB2012/52M, Stcrt. 2012, Nr. 4387, over informatieverstrekking door notarissen;  
+* het besluit van 27 februari 2012, nr. BLKB2012/52M, Stcrt. 2012, Nr. 4387, over informatieverstrekking door notarissen;  
 
-* het [besluit van 13 juli 2011](../../../beleidsregel/besluit/fiscaal/bestuursrecht/BWBR0030253/README.md), nr. BLKB2011/1087M, Stcrt. 13 juli 2011, nr. 12570 over het fiscale bestuursrecht;  
+* het besluit van 13 juli 2011, nr. BLKB2011/1087M, Stcrt. 13 juli 2011, nr. 12570 over het fiscale bestuursrecht;  
 
-* het [besluit van 27 mei 2011](../../../beleidsregel/burgerlijk/wetboek;/algemene/wet/bestuursrecht;/besluit/kostenvergoeding/etc/BWBR0030055/README.md), nr. BLKB2011/555M, Stcrt. 2011, nr. 9818, over de kostenvergoeding en schadevergoeding;  
+* het besluit van 27 mei 2011, nr. BLKB2011/555M, Stcrt. 2011, nr. 9818, over de kostenvergoeding en schadevergoeding;  
 
-* het [besluit van 11 augustus 2004](../../../beleidsregel/zekerheid/vooraf;/goede/trouw/jegens/de/verdragspartner/BWBR0017095/README.md), nr. DGB2004/1337M, Stcrt. 2004/177, inzake zekerheid vooraf en goede trouw;  
+* het besluit van 11 augustus 2004, nr. DGB2004/1337M, Stcrt. 2004/177, inzake zekerheid vooraf en goede trouw;  
 
-* het [besluit van 16 december 2010](../../../beleidsregel/besluit/ambtshalve/verminderen/of/teruggeven/BWBR0029287/README.md), nr. DGB2010/6799M, Stcrt. 2010, nr. 20999 inzake het ambtshalve verminderen of teruggeven;  
+* het besluit van 16 december 2010, nr. DGB2010/6799M, Stcrt. 2010, nr. 20999 inzake het ambtshalve verminderen of teruggeven;  
 
-* het [besluit van 14 december 2010](../../../beleidsregel/besluit/heffingsrente/BWBR0029288/README.md), nr. DGB2010/6832M, Stcrt. 2010, nr. 20507 inzake heffingsrente;  
+* het besluit van 14 december 2010, nr. DGB2010/6832M, Stcrt. 2010, nr. 20507 inzake heffingsrente;  
 
-* het [besluit van 7 december 2006](../../../beleidsregel/algemene/wet/inzake/rijksbelastingeninvorderingswet/beperking/etc/BWBR0020947/README.md), nr. CPP 2006/2883M, Stcrt. nr.3 inzake de beperking van de administratieve lasten voor curatoren met betrekking tot aangifteplicht Vpb;  
+* het besluit van 7 december 2006, nr. CPP 2006/2883M, Stcrt. nr.3 inzake de beperking van de administratieve lasten voor curatoren met betrekking tot aangifteplicht Vpb;  
 
-* het [besluit van 12 december 1990](../../../beleidsregel/verzoeken/om/rentevergoeding/BWBR0028094/README.md), nr. AFZ90/8697M, zoals laatstelijk gewijzigd bij besluit van 12 augustus 1994, nr. AFZ94/3896M over verzoeken om rentevergoeding.      
+* het besluit van 12 december 1990, nr. AFZ90/8697M, zoals laatstelijk gewijzigd bij besluit van 12 augustus 1994, nr. AFZ94/3896M over verzoeken om rentevergoeding.      
 ### 24  
 
 ####Inwerkingtreding

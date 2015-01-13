@@ -15,20 +15,18 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-1.  Dit besluit geeft uitvoering aan artikel 8, vierde en vijfde lid, en 11, tweede lid, van de Wet op de internationale bijstandsverlening bij de heffing van belastingen.   
-2.  Dit besluit verstaat onder wet: de Wet op de internationale bijstandsverlening bij de heffing van belastingen.  
+1.  Dit besluit geeft uitvoering aan de artikelen 8, vierde en vijfde lid, en 11, tweede lid, van de Wet op de internationale bijstandsverlening bij de heffing van belastingen.   
+2.  Dit besluit verstaat onder: 
+
+a.  *wet:* de Wet op de internationale bijstandsverlening bij de heffing van belastingen;  
+
+b.  *FATCA-verdrag:* het op 18 december 2013 te ’s-Gravenhage tot stand gekomen Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika tot verbetering van de internationale naleving van de belastingplicht en tenuitvoerlegging van de FATCA (Trb. 2014, 22).    
 
 ### Artikel  2  
 
-1.  Als administratieplichtigen als bedoeld in artikel 8, vierde lid, van de wet worden aangewezen: banken, beheerders, beleggingsinstellingen, beleggingsondernemingen, betaaldienstverleners, elektronischgeldinstellingen, financiële instellingen, levensverzekeraars en schadeverzekeraars in de zin van de Wet op het financieel toezicht.   
+1.  Als administratieplichtigen als bedoeld in artikel 8, vierde lid, van de wet worden voor de verstrekking van de gegevens en inlichtingen, bedoeld in het tweede lid, aangewezen: banken, beheerders, beleggingsinstellingen, beleggingsondernemingen, betaaldienstverleners, elektronischgeldinstellingen, financiële instellingen, levensverzekeraars en schadeverzekeraars in de zin van de Wet op het financieel toezicht.   
 2.  Als gegevens en inlichtingen als bedoeld in artikel 8, vierde lid, van de wet worden aangewezen de gegevens en inlichtingen, bedoeld in artikel 22, tweede lid, van het Uitvoeringsbesluit inkomstenbelasting 2001. Artikel 22, derde lid, van het Uitvoeringsbesluit inkomstenbelasting 2001 is hierbij van overeenkomstige toepassing.   
-3.  Een administratieplichtige is gehouden de gegevens en inlichtingen te verstrekken op de door Onze Minister voorgeschreven wijze en met een door Onze Minister voorgeschreven frequentie. De gegevens en inlichtingen dienen uiterlijk te worden verstrekt: 
-
-a. indien Onze Minister maandelijkse aanlevering voorschrijft: de laatste dag van de kalendermaand volgend op de kalendermaand waarop de gegevens en inlichtingen betrekking hebben;  
-
-b. indien Onze Minister jaarlijkse aanlevering gedurende het kalenderjaar waarop de gegevens en inlichtingen betrekking hebben voorschrijft: 30 april van dat kalenderjaar;  
-
-c. indien Onze Minister jaarlijkse aanlevering na afloop van het kalenderjaar waarop de gegevens en inlichtingen betrekking hebben voorschrijft: 31 januari volgend op dat kalenderjaar.     
+3.  De administratieplichtigen, bedoeld in het eerste lid, zijn gehouden bij de gegevens en inlichtingen, bedoeld in het tweede lid, de naam, het adres en, indien dat bekend is, het door de fiscale woonstaat toegekende fiscaal identificatienummer van degene op wie de gegevens en inlichtingen betrekking hebben, te verstrekken. Indien het fiscaal identificatienummer niet bekend is, worden de naam en het adres van degene op wie de gegevens en inlichtingen betrekking hebben, aangevuld met de vermelding van diens geboorteplaats en geboortedatum, zoals vermeld in het paspoort of op een officiële identiteitskaart.   
 4.  Een administratieplichtige kan de verstrekking van gegevens en inlichtingen achterwege laten indien: 
 
 a. naar het oordeel van Onze Minister het belang van ontvangst van de gegevens en inlichtingen niet opweegt tegen de inspanning tot verstrekking daarvan door de administratieplichtige;  
@@ -40,7 +38,6 @@ c. de gegevens of inlichtingen door Onze Minister zijn aangewezen als van verstr
 d. zulks overigens naar het oordeel van Onze Minister niet nodig is.    
 
 ### Artikel  2a  
-Treedt in werking per 01-01-2015 
 
 1.  Als administratieplichtigen als bedoeld in artikel 8, vierde lid, van de wet worden voor de verstrekking van de gegevens en inlichtingen, bedoeld in het tweede lid, aangewezen: Nederlandse financiële instellingen als bedoeld in artikel 1, eerste lid, onderdeel l, van het FATCA-verdrag, met uitzondering van de niet-rapporterende Nederlandse financiële instellingen, bedoeld in artikel 1, eerste lid, onderdeel q, van het FATCA-verdrag.   
 2.  Als gegevens en inlichtingen als bedoeld in artikel 8, vierde lid, van de wet worden aangewezen: de gegevens en inlichtingen, bedoeld in artikel 2, tweede lid, onderdeel a, onder (1) tot en met (7), van het FATCA-verdrag, ter zake van Amerikaanse te rapporteren rekeningen als bedoeld in artikel 1, eerste lid, onderdeel cc, van het FATCA-verdrag, te bepalen met inachtneming van artikel 3, eerste, tweede en vierde lid, van het FATCA-verdrag en de bepalingen in de bijlagen I en II van het FATCA-verdrag.   
@@ -60,14 +57,19 @@ d. de rekeningen, bedoeld in bijlage I, sectie V, onderdeel A, van het FATCA-ver
 8.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de toepassing van dit artikel.  
 
 ### Artikel  2b  
-Treedt in werking per 01-01-2015 
 
 1.  Als gegevens en inlichtingen als bedoeld in artikel 8, vierde lid, van de wet worden voor administratieplichtigen als bedoeld in artikel 2a, eerste lid, mede aangewezen: de naam van elke niet-participerende financiële instelling als bedoeld in artikel 1, eerste lid, onderdeel r, van het FATCA-verdrag, waaraan de administratieplichtige een of meer betalingen heeft verricht en het totaalbedrag van deze betalingen, te bepalen met inachtneming van artikel 3, tweede lid, van het FATCA-verdrag en de bepalingen in de bijlagen I en II van het FATCA-verdrag.   
 2.  Artikel 2a, derde, vierde, vijfde, zevende en achtste lid, is voor de toepassing van het eerste lid van overeenkomstige toepassing.  
 
 ### Artikel  3  
 
-De administratieplichtigen, bedoeld in artikel 2, eerste lid, zijn gehouden bij de gegevens en inlichtingen, bedoeld in artikel 2, tweede lid, de naam, het adres en, indien dat bekend is, het door de fiscale woonstaat toegekende fiscaal identificatienummer van degene op wie de gegevens en inlichtingen betrekking hebben, te verstrekken. Indien het fiscaal identificatienummer niet bekend is, worden de naam en het adres van degene op wie de gegevens en inlichtingen betrekking hebben, aangevuld met de vermelding van diens geboorteplaats en geboortedatum, zoals vermeld in het paspoort of op een officiële identiteitskaart. 
+De administratieplichtigen, bedoeld in de artikelen 2 en 2a, zijn gehouden de gegevens en inlichtingen te verstrekken op de door Onze Minister voorgeschreven wijze en met een door Onze Minister voorgeschreven frequentie. De gegevens en inlichtingen dienen uiterlijk te worden verstrekt: 
+
+a. indien Onze Minister maandelijkse aanlevering voorschrijft: de laatste dag van de kalendermaand volgend op de kalendermaand waarop de gegevens en inlichtingen betrekking hebben;  
+
+b. indien Onze Minister jaarlijkse aanlevering gedurende het kalenderjaar waarop de gegevens en inlichtingen betrekking hebben voorschrijft: 30 april van dat kalenderjaar;  
+
+c. indien Onze Minister jaarlijkse aanlevering na afloop van het kalenderjaar waarop de gegevens en inlichtingen betrekking hebben voorschrijft: 31 januari volgend op dat kalenderjaar.   
 
 ### Artikel  3a  
 

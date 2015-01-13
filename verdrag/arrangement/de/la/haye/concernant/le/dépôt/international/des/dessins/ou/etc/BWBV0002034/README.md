@@ -140,7 +140,7 @@ a)La durée de la protection accordée par un Etat contractant aux dessins ou mo
 b) Toutefois si, en vertu des dispositions de la législation nationale d'un Etat contractant qui procède à un examen de nouveauté, la protection commence à une date postérieure à celle du dépôt international, les durées minimum prévues à la lettre *a)* sont calculées à compter du point de départ de la protection dans ledit Etat. Le fait que le dépôt international n'est pas renouvelé ou n'est renouvelé qu'une seule fois n'affecte en rien la durée minimum de protection ainsi définie.  
 2. Si la législation d'un Etat contractant prévoit, pour les dessins ou modèles ayant fait l'objet d'un dépôt national, une protection dont la durée, avec ou sans renouvellement, est supérieure à dix ans, une protection d'une égale durée est accordée dans cet Etat sur la base du dépôt international et de ses renouvellements aux dessins ou modèles ayant fait l'objet d'un dépôt international.
 3. Tout Etat contractant peut, dans sa législation nationale, limiter la durée de la protection des dessins ou modèles ayant fait l'objet d'un dépôt international aux durées prévues à l'alinéa 1.
-4. Sous réserve des dispositions de l'alinéa 1, lettre*b)* la protection prend fin dans les Etats contractants à la date d'expiration du dépôt international, à moins que la législation nationale de ces Etats ne dispose que la protection continue après la date d'expiration du dépôt international. 
+4. Sous réserve des dispositions de l'alinéa 1, lettre *b)* la protection prend fin dans les Etats contractants à la date d'expiration du dépôt international, à moins que la législation nationale de ces Etats ne dispose que la protection continue après la date d'expiration du dépôt international. 
 
 ### Article  12  
 
@@ -315,7 +315,7 @@ EN FOI DE QUOI, les Plénipotentiaires soussignés, dûment autorisés à cet ef
 
 a) le nom et prénom ou le nom commercial, ainsi que l'adresse du déposant; s'il y a un mandataire, le nom et l'adresse de celui-ci; s'il est fait mention de plus d'une adresse, celle à laquelle le Bureau international doit envoyer toute communication;  
 
-b) l'indication de l'Etat contractant où le déposant a un étalissement industriel ou commercial effectif et sérieux ou, s'il a de tels établissements dans plusieurs Etats contractants, l'indication de l'Etat contractant que le déposant désigne comme Etat d'origine du dépôt international; s'il n'a pas un tel établissement dans un Etat contractant, l'indication de l'Etat contractant où il a son domicile; s'il n'a pas son domicile dans un Etat contractant, l'indication de l'Etat contractant dont il est le ressortissant;  
+b) l'indication de l'Etat contractant où le déposant a un établissement industriel ou commercial effectif et sérieux ou, s'il a de tels établissements dans plusieurs Etats contractants, l'indication de l'Etat contractant que le déposant désigne comme Etat d'origine du dépôt international; s'il n'a pas un tel établissement dans un Etat contractant, l'indication de l'Etat contractant où il a son domicile; s'il n'a pas son domicile dans un Etat contractant, l'indication de l'Etat contractant dont il est le ressortissant;  
 
 c) la désignation de l'objet ou des objets auxquels le dessin ou modèle est destiné à être incorporé;  
 
@@ -529,7 +529,7 @@ b)Gedurende de hierboven onder *a* bedoelde tijdsduur kan de deposant te allen t
 
 c)Indien de deposant niet binnen de voorgeschreven termijnen de voor het verstrijken van de hierboven onder *a* bedoelde tijdsduur opeisbare taksen betaalt, haalt het Internationaal Bureau het depot door en gaat niet over tot de in lid 3 onder *a* bedoelde openbaarmaking.
 
-d)Tot aan het verstrijken van de hierboven onder *a* bedoelde tijdsuur houdt het Internationaal Bureau de inschrijving van een depot, waarvoor een verzoek om opschorting van openbaarmaking is gedaan, geheim en kan het publiek van geen enkel geschrift of voorwerp betreffende dit depot kennis nemen.Deze bepalingen zijn van toepassing voor onbeperkte tijdsduur, indien de deposant zijn depot heeft ingetrokken vóór het verstrijken van de voornoemde tijdsduur.
+d)Tot aan het verstrijken van de hierboven onder *a* bedoelde tijdsduur houdt het Internationaal Bureau de inschrijving van een depot, waarvoor een verzoek om opschorting van openbaarmaking is gedaan, geheim en kan het publiek van geen enkel geschrift of voorwerp betreffende dit depot kennis nemen.Deze bepalingen zijn van toepassing voor onbeperkte tijdsduur, indien de deposant zijn depot heeft ingetrokken vóór het verstrijken van de voornoemde tijdsduur.
 5. Met uitzondering van de in lid 4 bedoelde gevallen, kan het publiek kennis nemen van het register, alsmede van alle geschriften en voorwerpen die bij het Internationaal Bureau zijn gedeponeerd.
 
 ### Artikel  7  

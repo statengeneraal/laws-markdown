@@ -10,7 +10,6 @@ Alzo Wij in overweging genomen hebben, dat uit evaluatie van de Experimentenwet 
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  1  
-Treedt in werking per 01-01-2015 
 
 1.  De gemeenteraad kan onder de naam BIZ-bijdrage een belasting instellen ter zake van binnen een bepaald gebied in de gemeente (bedrijveninvesteringszone) gelegen onroerende zaken die niet in hoofdzaak tot woning dienen.   
 2.  De BIZ-bijdrage is een bestemmingsheffing die strekt ter bestrijding van de kosten die verbonden zijn aan activiteiten in de openbare ruimte en op het internet, die zijn gericht op het bevorderen van de leefbaarheid of de veiligheid in de bedrijveninvesteringszone of de ruimtelijke kwaliteit of de economische ontwikkeling van de bedrijveninvesteringszone.   
@@ -25,7 +24,6 @@ c. eigenaren en gebruikers.
 5.  De artikelen 220a, 220b, 220d, 220e en 220h van de Gemeentewet zijn van overeenkomstige toepassing.  
 
 ### Artikel  2  
-Treedt in werking per 01-01-2015 
 
 1.  De heffingsmaatstaf van de BIZ-bijdrage is de op de voet van hoofdstuk IV van de Wet waardering onroerende zaken voor de onroerende zaak vastgestelde waarde. De verordening kan bepalen dat de in het eerste jaar vastgestelde waarde ook voor één of meer jaren daarna van toepassing is.   
 2.  De onroerende zaken ter zake waarvan de BIZ-bijdrage wordt geheven kunnen in waardeklassen worden ingedeeld.   
@@ -36,13 +34,11 @@ Treedt in werking per 01-01-2015
 7.  De artikelen 230 tot en met 233a en 236 tot en met 257 van de Gemeentewet en krachtens deze artikelen vastgestelde voorschriften zijn van overeenkomstige toepassing op de heffing en invordering van de BIZ-bijdrage.  
 
 ### Artikel  3  
-Treedt in werking per 01-01-2015 
 
 1.  Een BIZ-bijdrage wordt ingesteld voor een periode van ten hoogste vijf jaren.   
 2.  Met overeenkomstige toepassing van artikel 4 en 5 kan de periode telkens met ten hoogste vijf jaren worden verlengd.  
 
 ### Artikel  4  
-Treedt in werking per 01-01-2015 
 
 1.  De verordening waarbij de BIZ-bijdrage wordt ingesteld treedt niet in werking dan nadat gebleken is van voldoende steun onder de bijdrageplichtigen.   
 2.  Het college van burgemeester en wethouders stelt iedere bij de gemeente bekende bijdrageplichtige na vaststelling van de verordening in de gelegenheid zich schriftelijk voor of tegen inwerkingtreding uit te spreken. In afwijking van het peilmoment, bedoeld in artikel 1, derde en vierde lid, wordt degene die blijkens de bij de gemeente op dat moment bekende gegevens een onroerende zaak in de beoogde bedrijveninvesteringszone gebruikt of daarvan het genot heeft aangemerkt als bijdrageplichtige.   
@@ -50,7 +46,6 @@ Treedt in werking per 01-01-2015
 4.  Het college zorgt er voor dat de vertrouwelijkheid van de strekking van de schriftelijke verklaring van de bijdrageplichtige gewaarborgd is.  
 
 ### Artikel  5  
-Treedt in werking per 01-01-2015 
 
 1.  Van voldoende steun is sprake indien na toepassing van artikel 4 blijkt dat: 
 
@@ -67,7 +62,6 @@ a. ten minste de helft van de gebruikers en ten minste de helft van de eigenaren
 b. ten minste de helft van de gebruikers en ten minste de helft van de eigenaren zich vóór inwerkingtreding heeft uitgesproken.    
 
 ### Artikel  6  
-Treedt in werking per 01-01-2015 
 
 1.  De gemeenteraad besluit zo spoedig mogelijk over intrekking van de verordening indien hiervoor voldoende steun is bij bijdrageplichtigen.   
 2.  Op verzoek van ten minste twintig procent van de bijdrageplichtigen stelt het college van burgemeester en wethouders iedere bij de gemeente bekende bijdrageplichtige in de gelegenheid zich schriftelijk voor of tegen intrekking van de verordening uit te spreken.   
@@ -83,7 +77,6 @@ a. dat de bijdrageplichtigen in de gelegenheid worden gesteld zich uit te spreke
 b. dat in afwijking van artikel 5, eerste lid, onder b, reeds sprake is van voldoende steun voor intrekking indien ten minste de helft zich voor intrekking heeft uitgesproken.    
 
 ### Artikel  7  
-Treedt in werking per 01-01-2015 
 
 1.  De opbrengst van de BIZ-bijdrage wordt als subsidie verstrekt aan de bij de verordening aangewezen vereniging of stichting. De perceptiekosten kunnen hierop in mindering worden gebracht indien dit in de verordening is bepaald.   
 2.  De verordening wijst uitsluitend als vereniging of stichting aan: 
@@ -106,7 +99,6 @@ b. een stichting:
 5.  De gemeenteraad en de bij de verordening aangewezen vereniging of stichting maken schriftelijke afspraken over het minimale niveau van dienstverlening van de gemeente voor de periode waarvoor de BIZ-bijdrage wordt ingesteld of verlengd.  
 
 ### Artikel  8  
-Treedt in werking per 01-01-2015 
 
 1.  De aangewezen vereniging of stichting zorgt er voor dat: 
 
@@ -116,18 +108,15 @@ b. na het eerste jaar jaarlijks aan de algemene ledenvergadering of in het bestu
 2.  De aangewezen vereniging of stichting zorgt er voor dat alle bijdrageplichtigen kosteloos kennis kunnen nemen van de begroting, de rekening en de verantwoording. De aangewezen vereniging of stichting verschaft iedere bijdrageplichtige op zijn verzoek kosteloos inzage in specifieke uitgaven.  
 
 ### Artikel  9  
-Treedt in werking per 01-01-2015 
 
 1.  De Experimentenwet BI-zones wordt ingetrokken.   
 2.  Het eerste lid laat de gelding van bij inwerkingtreding van deze wet bestaande verordeningen waarbij een BIZ-bijdrage is ingesteld onverlet.  
 
 ### Artikel  10  
-Treedt in werking per 01-01-2015 
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 ### Artikel  11  
-Treedt in werking per 01-01-2015 
 
 Deze wet wordt aangehaald als: Wet op de bedrijveninvesteringszones. 
 

@@ -78,7 +78,7 @@ II.wanneer hij door het bevoegd gezag aan het openbaar verkeer is onttrokken.
 ###Artikel 11 
 
 1. Ieder belanghebbende bij een weg, niet behoorende tot de in artikel 8 bedoelde, heeft het recht aan den raad der gemeente, waarin de weg is gelegen ten opzichte van dien weg toepassing van artikel 9 te verzoeken.
-2. Op de voorbereiding van de beslissing op het verzoek is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.
+2. Op de voorbereiding van de beslissing op het verzoek is afdeling 3.4 van de Algemene wet bestuursrecht van toepassing.
 3.  Weigert de raad aan het verzoek te voldoen, dan staat aan den verzoeker beroep op Gedeputeerde Staten open.
 
 ###Artikel 12 
@@ -106,7 +106,7 @@ II. de uitvoering van alle werken vereischt voor aansluiting van wegen en uitweg
 
 III. het aanwezig zijn, plaatsen en onderhouden van voorwerpen, boven, op en in den weg, of den daartoe behoorenden berm of de daartoe behoorende bermsloot ten behoeve van het verkeer over den weg, van de onder I en II omschreven werken en van de uitvoering daarvan.     
 4.   De rechthebbende op en de onderhoudplichtige van een tot den weg behoorenden berm of een tot den weg behoorende bermsloot hebben ter zake, in het voorgaande lid omschreven, recht op schadevergoeding doch, voor zooveel schade wordt geleden door hetgeen strekt tot onderhoud of verbetering van den weg, alleen dan, wanneer het recht op den berm of de bermsloot meer is beperkt, of de onderhoudslast daarvan meer is verzwaard, dan gebruikelijk was ten opzichte van dien berm of die bermsloot.   
-5.  Het eerste en tweede lid laten onverlet de heffing van de mobiliteitstarieven, bedoeld in de [Wet bereikbaarheid en mobiliteit](../../../wet/wet/bereikbaarheid/en/mobiliteit/BWBR0013854/README.md).  
+5.  Het eerste en tweede lid laten onverlet de heffing van de mobiliteitstarieven, bedoeld in de Wet bereikbaarheid en mobiliteit.  
 
 ### Hoofdstuk  IV  
 
@@ -184,7 +184,7 @@ Het in artikel 19, tweede, vierde en vijfde lid en het in artikel 20, derde en v
 
 1. Het verschuldigde uit hoofde van eene op een grondstuk rustende verplichting om een weg of een deel daarvan te onderhouden of om tot het onderhoud daarvan bij te dragen kan alleen worden verhaald op de gronden, waarop de verplichting rust, en op de rechten van erfpacht, vruchtgebruik en beklemming waaraan deze onderworpen zijn.
 2.  Indien een grondstuk als in het eerste lid bedoeld, in eigendom overgaat of aan een recht van erfpacht, vruchtgebruik of beklemming wordt onderworpen, blijft het verbonden voor al hetgeen over de laatste twee onderhoudsjaren en het loopende onderhoudsjaar uit hoofde van eene verplichting, als in het eerste lid bedoeld, is verschuldigd.
-3.  Het verschuldigde, als in het eerste en tweede lid bedoeld, is bevoorrecht op de gronden, waarop de verplichting rust, en op de rechten van erfpacht, vruchtgebruik en beklemming waaraan deze zijn onderworpen. Dit voorrecht gaat boven hypotheek en wordt gerangschikt onmiddellijk na het voorrecht der besturen van waterschappen, omschreven in [artikel 68, vierde lid, van de Waterschapswet](../../../wet/waterschapswet/BWBR0005108/README.md). Het strekt zich uit tot het verschuldigde over de laatste twee onderhoudsjaren en het loopende onderhoudsjaar.
+3.  Het verschuldigde, als in het eerste en tweede lid bedoeld, is bevoorrecht op de gronden, waarop de verplichting rust, en op de rechten van erfpacht, vruchtgebruik en beklemming waaraan deze zijn onderworpen. Dit voorrecht gaat boven hypotheek en wordt gerangschikt onmiddellijk na het voorrecht der besturen van waterschappen, omschreven in artikel 68, vierde lid, van de Waterschapswet. Het strekt zich uit tot het verschuldigde over de laatste twee onderhoudsjaren en het loopende onderhoudsjaar.
 
 ### Artikel  26  
 
@@ -203,7 +203,7 @@ Het in artikel 19, tweede, vierde en vijfde lid en het in artikel 20, derde en v
 
 ###Artikel 27 
 
-1. In iedere gemeente wordt van de buiten de bebouwde kom, of kommen gelegen wegen alsmede van de toegangswegen naar stations als bedoeld in [artikel 26, tweede lid, van de Spoorwegwet](../../../wet/spoorwegwet/BWBR0015007/README.md), ook al zijn deze binnen een bebouwde kom gelegen, een legger opgemaakt.
+1. In iedere gemeente wordt van de buiten de bebouwde kom, of kommen gelegen wegen alsmede van de toegangswegen naar stations als bedoeld in artikel 26, tweede lid, van de Spoorwegwet, ook al zijn deze binnen een bebouwde kom gelegen, een legger opgemaakt.
 2.  Gedeputeerde Staten stellen vast, welke voor de toepassing van deze wet de grenzen van de bebouwde kom of kommen der gemeente zijn.
 
 ###Artikel 28 
@@ -260,12 +260,12 @@ De legger wordt overigens ingericht volgens bij algemeenen maatregel van bestuur
 ###Artikel 34 
 
 1. Het ontwerp van den legger wordt door Burgemeester en Wethouders opgemaakt.
-2. Op de voorbereiding van het ontwerp is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing. Het opgemaakte ontwerp wordt, vergezeld van de naar voren gebrachte zienswijzen en van het oordeel van burgemeester en wethouders daaromtrent, toegezonden aan gedeputeerde staten.
+2. Op de voorbereiding van het ontwerp is afdeling 3.4 van de Algemene wet bestuursrecht van toepassing. Het opgemaakte ontwerp wordt, vergezeld van de naar voren gebrachte zienswijzen en van het oordeel van burgemeester en wethouders daaromtrent, toegezonden aan gedeputeerde staten.
 
 ###Artikel 35 
 
 1. Gedeputeerde Staten stellen den legger vast al dan niet met afwijking van het door Burgemeester en Wethouders opgemaakte ontwerp.
-2.  Indien gedeputeerde staten voornemens zijn af te wijken van het in artikel 34, tweede lid, bedoelde ontwerp, dan is op de vaststelling van de legger [afdeling 3.4 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.
+2.  Indien gedeputeerde staten voornemens zijn af te wijken van het in artikel 34, tweede lid, bedoelde ontwerp, dan is op de vaststelling van de legger afdeling 3.4 van de Algemene wet bestuursrecht van toepassing.
 
 ###Artikel 38 
 
@@ -283,7 +283,7 @@ I. het onttrokken worden van een weg aan het openbaar verkeer krachtens een besl
 
 II. afkoop en kwijtschelding van de verplichting om bij te dragen tot onderhoud van den weg;  
 
-III. het krachtens eene wet, een besluit, als bedoeld bij de artikelen 19 of 20 dezer wet of bij [artikel 2 der Waterstaatswet 1900](../../../wet/waterstaatswet/1900/BWBR0001867/README.md), of een bij een besluit als bedoeld in de artikelen 18*a*  of 26 dezer wet goedgekeurde of toegezonden overeenkomst overgaan van de verplichting om een weg te onderhouden;  
+III. het krachtens eene wet, een besluit, als bedoeld bij de artikelen 19 of 20 dezer wet of bij artikel 2 der Waterstaatswet 1900, of een bij een besluit als bedoeld in de artikelen 18*a*  of 26 dezer wet goedgekeurde of toegezonden overeenkomst overgaan van de verplichting om een weg te onderhouden;  
 
 IV. het in gewijsde gaan van een vonnis, als bedoeld in paragraaf 4 van dit hoofdstuk;  
 

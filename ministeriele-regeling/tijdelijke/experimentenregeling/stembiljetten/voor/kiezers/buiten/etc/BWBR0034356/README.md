@@ -3,24 +3,24 @@
 ##Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 11 december 2013 houdende tijdelijke regels voor experimenten met stembiljetten voor kiezers buiten Nederland (Tijdelijke experimentenregeling stembiljetten voor kiezers buiten Nederland)
 
 De Minister van Binnenlandse Zaken en Koninkrijksrelaties,  
-Gelet op de [artikelen 2, derde lid](../../../../../../../../../wet/tijdelijke/experimentenwet/stembiljetten/en/centrale/stemopneming/BWBR0033598/README.md), [3, tweede lid](../../../../../../../../../wet/tijdelijke/experimentenwet/stembiljetten/en/centrale/stemopneming/BWBR0033598/README.md), en [4, achtste lid, van de Tijdelijke Experimentenwet stembiljetten en centrale stemopneming](../../../../../../../../../wet/tijdelijke/experimentenwet/stembiljetten/en/centrale/stemopneming/BWBR0033598/README.md) en de [artikelen 12, eerste lid](../../../../../../../../../ministeriele-regeling/tijdelijk/experimentenbesluit/stembiljetten/en/centrale/stemopneming/BWBR0033989/README.md), en [18, tweede lid, van het Tijdelijk Experimentenbesluit stembiljetten en centrale stemopneming](../../../../../../../../../ministeriele-regeling/tijdelijk/experimentenbesluit/stembiljetten/en/centrale/stemopneming/BWBR0033989/README.md);
+Gelet op de artikelen 2, derde lid, 3, tweede lid, en 4, achtste lid, van de Tijdelijke Experimentenwet stembiljetten en centrale stemopneming en de artikelen 12, eerste lid, en 18, tweede lid, van het Tijdelijk Experimentenbesluit stembiljetten en centrale stemopneming;
 Besluit:    
 
 ### Artikel  1  
 
 In deze regeling wordt verstaan onder: 
 
-–  *Experimentenwet:* [Tijdelijke experimentenwet stembiljetten en centrale stemopneming](../../../../../../../../../wet/tijdelijke/experimentenwet/stembiljetten/en/centrale/stemopneming/BWBR0033598/README.md);  
+–  *Experimentenwet:* Tijdelijke experimentenwet stembiljetten en centrale stemopneming;  
 
-–  *Experimentenbesluit:* [Tijdelijk experimentenbesluit stembiljetten en centrale stemopneming](../../../../../../../../../ministeriele-regeling/tijdelijk/experimentenbesluit/stembiljetten/en/centrale/stemopneming/BWBR0033989/README.md).   
+–  *Experimentenbesluit:* Tijdelijk experimentenbesluit stembiljetten en centrale stemopneming.   
 
 ### Artikel  2  
 
-Deze regeling is van toepassing op een experiment met een nieuw stembiljet voor kiezers buiten Nederland als bedoeld in [artikel 2, eerste lid, onderdeel a, van de Experimentenwet](../../../../../../../../../wet/tijdelijke/experimentenwet/stembiljetten/en/centrale/stemopneming/BWBR0033598/README.md). 
+Deze regeling is van toepassing op een experiment met een nieuw stembiljet voor kiezers buiten Nederland als bedoeld in artikel 2, eerste lid, onderdeel a, van de Experimentenwet. 
 
 ### Artikel  3  
 
-1.  Bij de registratie van een logo, bedoeld in [artikel 4, derde lid, van de Experimentenwet](../../../../../../../../../wet/tijdelijke/experimentenwet/stembiljetten/en/centrale/stemopneming/BWBR0033598/README.md), verstrekt een politieke groepering aan het centraal stembureau tevens digitaal het logo met als extensie ‘Joint Photographic Experts Group’ (jpeg) en een resolutie van 300 ‘Dots per inch’ (dpi). Het logo wordt in drie formaten aangeleverd, te weten met: 
+1.  Bij de registratie van een logo, bedoeld in artikel 4, derde lid, van de Experimentenwet, verstrekt een politieke groepering aan het centraal stembureau tevens digitaal het logo met als extensie ‘Joint Photographic Experts Group’ (jpeg) en een resolutie van 300 ‘Dots per inch’ (dpi). Het logo wordt in drie formaten aangeleverd, te weten met: 
 
 – een maximale breedte van 37,5 millimeter en een maximale hoogte van 9,3 millimeter;  
 
@@ -31,22 +31,22 @@ Deze regeling is van toepassing op een experiment met een nieuw stembiljet voor 
 
 ### Artikel  4  
 
-1.  Het register, bedoeld in [artikel 8, eerste lid, van het Experimentenbesluit](../../../../../../../../../ministeriele-regeling/tijdelijk/experimentenbesluit/stembiljetten/en/centrale/stemopneming/BWBR0033989/README.md), bevat de nummers van de ongeldige briefstembewijzen.   
-2.  Het uittreksel van ongeldige briefstembewijzen, bedoeld in [artikel 9 van het Experimentenbesluit](../../../../../../../../../ministeriele-regeling/tijdelijk/experimentenbesluit/stembiljetten/en/centrale/stemopneming/BWBR0033989/README.md), bevat de gegevens, bedoeld in het eerste lid.  
+1.  Het register, bedoeld in artikel 8, eerste lid, van het Experimentenbesluit, bevat de nummers van de ongeldige briefstembewijzen.   
+2.  Het uittreksel van ongeldige briefstembewijzen, bedoeld in artikel 9 van het Experimentenbesluit, bevat de gegevens, bedoeld in het eerste lid.  
 
 ### Artikel  5  
 
-Het briefstembureau stelt bij de stemopneming vast de redenen waarom stemmen als ongeldig worden aangemerkt en verstrekt deze gegevens aan Onze Minister ten behoeve van de evaluatie van het experiment, bedoeld in [artikel 17 van het Experimentenbesluit](../../../../../../../../../ministeriele-regeling/tijdelijk/experimentenbesluit/stembiljetten/en/centrale/stemopneming/BWBR0033989/README.md). 
+Het briefstembureau stelt bij de stemopneming vast de redenen waarom stemmen als ongeldig worden aangemerkt en verstrekt deze gegevens aan Onze Minister ten behoeve van de evaluatie van het experiment, bedoeld in artikel 17 van het Experimentenbesluit. 
 
 ### Artikel  6  
 
-1.  In afwijking van de [bijlage bij de Kiesregeling](../../../../../../../../../ministeriele-regeling/kiesregeling/BWBR0034180/README.md) wordt voor kiezers buiten Nederland als model voor het stembiljet het model vastgesteld dat in de bijlage bij deze regeling is opgenomen.   
+1.  In afwijking van de bijlage bij de Kiesregeling wordt voor kiezers buiten Nederland als model voor het stembiljet het model vastgesteld dat in de bijlage bij deze regeling is opgenomen.   
 2.  Als model voor de registratie van een logo wordt het model vastgesteld dat in de bijlage bij deze regeling is opgenomen.   
 3.  Als modellen voor het verzoek om een vervangend briefstembewijs worden de modellen vastgesteld die in de bijlage bij deze regeling zijn opgenomen.  
 
 ### Artikel  7  
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van de dag dat de [Experimentenwet](../../../../../../../../../wet/tijdelijke/experimentenwet/stembiljetten/en/centrale/stemopneming/BWBR0033598/README.md) vervalt. 
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van de dag dat de Experimentenwet vervalt. 
 
 ### Artikel  8  
 

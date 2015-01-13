@@ -11,7 +11,7 @@ Besluit:
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder:aanbiedingsprogramma: algemeen bekend gemaakt voornemen tot het doorlopend of periodiek uitgeven van gedekte obligaties van een bepaalde soort; aanvraag: verzoek om registratie als bedoeld in artikel 124b, eerste lid, van het Besluit prudentiële regels Wft; economische looptijd: periode waarna een hypothecair krediet overeenkomstig de bij het aangaan van de overeenkomst inzake krediet vastgestelde hoogte van de termijnbedragen en lengte en aantal van de betalingstermijnen geheel afgelost zal zijn; exploitatiesaldo: verschil tussen de aan het eind van een jaar gerealiseerde baten en lasten van de toezichthouder; gedekte obligaties: gedekte obligaties als bedoeld in artikel 1 van het Besluit prudentiële regels Wft; hypothecair krediet: krediet als bedoeld in artikel 1 van het Besluit Gedragstoezicht financiële ondernemingen Wft; juridisch adviseur: een juridische deskundige die onafhankelijk is van de uitgevende bank; kredietvergoedingspercentage per betalingstermijn: kredietvergoeding die over een betalingstermijn op grond van een overeenkomst inzake krediet in rekening wordt gebracht, uitgedrukt in een percentage van het uitstaand saldo aan het begin van die betalingstermijn; wet: Wet op het financieel toezicht. 
+In deze regeling wordt verstaan onder: economische looptijd: periode waarna een hypothecair krediet overeenkomstig de bij het aangaan van de overeenkomst inzake krediet vastgestelde hoogte van de termijnbedragen en lengte en aantal van de betalingstermijnen geheel afgelost zal zijn; exploitatiesaldo: verschil tussen de aan het eind van een jaar gerealiseerde baten en lasten van de toezichthouder; hypothecair krediet: krediet als bedoeld in artikel 1 van het Besluit Gedragstoezicht financiële ondernemingen Wft; kredietvergoedingspercentage per betalingstermijn: kredietvergoeding die over een betalingstermijn op grond van een overeenkomst inzake krediet in rekening wordt gebracht, uitgedrukt in een percentage van het uitstaand saldo aan het begin van die betalingstermijn; wet: Wet op het financieel toezicht. 
 
 ### Hoofdstuk  2  
 
@@ -109,7 +109,7 @@ Bepalingen ter uitvoering van artikel 3:150, tweede en derde lid, van de wet
 
 ### Artikel  11  
 
-1.  De leden van de vertrouwenscommissie, bedoeld in artikel 3:150, eerste lid, van de wet, worden voor ten hoogste vijf jaren op gezamenlijke voordracht van de Nederlandsche Bank en de vertegenwoordigende organisaties van levensverzekeraars benoemd. De Nederlandsche Bank en de vertegenwoordigende organisaties dragen voor iedere vacature in de vertrouwenscommissie ten minste twee kandidaten voor. Herbenoeming van een lid is eenmaal mogelijk.   
+1.  De leden van de vertrouwenscommissie, bedoeld in artikel 3:150, eerste lid, van de wet, worden voor ten hoogste vijf jaren op gezamenlijke voordracht van de Nederlandsche Bank en de vertegenwoordigende organisaties van levensverzekeraars benoemd. De Nederlandsche Bank en de vertegenwoordigende organisaties dragen voor iedere vacature in de vertrouwenscommissie ten minste een kandidaat voor. Herbenoeming van een lid is mogelijk.   
 2.  De Minister van Financiën benoemt op gezamenlijke voordracht van de Nederlandsche Bank en de vertegenwoordigende organisaties van levensverzekeraars een van de leden als voorzitter.   
 3.  Indien geen overeenstemming wordt bereikt over een gezamenlijke voordracht doet de directie van de Nederlandsche Bank hiervan mededeling aan de Minister van Financiën. Deze neemt in dat geval zonder voordracht een besluit omtrent benoeming of aanwijzing.  
 
@@ -196,48 +196,50 @@ De termijn van twaalf maanden, bedoeld in de eerste volzin van artikel 31, tweed
 
 ### Hoofdstuk  9a  
 
-####Bepalingen ter uitvoering van artikel 124b, eerste lid, van het Besluit prudentiële regels Wft
+####Geregistreerde gedekte obligaties
+
+Bepalingen ter uitvoering van artikel 40j van het Besluit prudentiële regels Wft 
 
 ### Artikel  20a  
 
-1. Een bank die een aanvraag doet, toont aan de Nederlandsche Bank aan dat de uit te geven obligaties zijn aan te merken als gedekte obligaties door middel van het overleggen van:
+Een bank die een verzoek doet als bedoeld in artikel 3:33a, eerste lid, van de wet, overlegt aan de Nederlandsche Bank ten aanzien van de uitgegeven of uit te geven obligaties per categorie: 
 
-a. een juridische opinie van een juridisch adviseur waaruit de Nederlandsche Bank kan concluderen dat ten aanzien van de obligaties wordt voldaan aan onderdeel c van de definitie van gedekte obligatie in het Besluit prudentiële regels Wft;  
+a. een juridische opinie van een juridische deskundige die onafhankelijk is van de verzoekende bank, waaruit de Nederlandsche Bank kan concluderen dat ten aanzien van de obligaties wordt voldaan aan artikel 40d, eerste lid, van het Besluit prudentiële regels Wft;  
 
-b. de schriftelijke bescheiden met betrekking tot de uitgifte van de obligaties waarop de juridische opinie, bedoeld in onderdeel a, is gebaseerd;  
+b. de gegevens en bescheiden waarop de juridische opinie, bedoeld in onderdeel a, is gebaseerd;  
 
-c. overige relevante bescheiden met betrekking tot de uitgifte; en  
+c. een plan voor adequaat beheer van de dekkingsactiva voor de situatie waarin de bank in de toestand komt te verkeren dat zij het beheer van de dekkingsactiva niet langer zelf kan voeren;  
 
-d. een schriftelijke verklaring van de natuurlijke personen die het beleid van de bank bepalen, inhoudende dat de obligaties voldoen aan de definitie van gedekte obligaties in artikel 1 van het Besluit prudentiële regels Wft en dat de uitgevende bank voldoet aan het bepaalde in artikel 124c van het Besluit prudentiële regels Wft.  
-2. Uit de in het eerste lid bedoelde gegevens en bescheiden blijkt dat:
+d. de overeenkomst of overeenkomsten van de rechtspersoon die rechthebbende is van de dekkingsactiva met zijn bestuurder;  
 
-a. de obligaties op het tijdstip van de aanvraag een kredietbeoordeling hebben als bedoeld in artikel 135, eerste lid, van de verordening kapitaalvereisten, welke kredietbeoordeling is ondergebracht in de kredietbeoordelingscategorie 1 van de kwaliteitsbeoordelingsschaal in artikel 120, eerste lid, van de verordening kapitaalvereisten, onder de toepassing van artikel 139, eerste en tweede lid, van de verordening, en dat de kredietbeoordeling en de door het kredietbeoordelingsbureau aan de kredietbeoordeling verbonden voorwaarden met betrekking tot de activa en de uitgevende bank naar het oordeel van de Nederlandsche Bank adequaat zijn;  
+e. de overeenkomst met een externe accountant voor de controle van de dekkingsactiva, bedoeld in artikel 20f, eerste lid;  
 
-b. de totale nominale waarde van de uitgegeven of de nog uit te geven gedekte obligaties in een gezonde verhouding staat tot de voor dekking van deze obligaties in aanmerking komende activa. De Nederlandsche Bank stelt na overleg met de uitgevende bank vast of de verhouding tussen de totale nominale waarde van deze obligaties ten opzichte van het geconsolideerde balanstotaal van de uitgevende bank als gezonde verhouding kan worden beschouwd;  
+f. een schriftelijke verklaring van een bestuurder van de bank die het verzoek doet, inhoudende dat de obligaties voldoen aan de artikelen 40d tot en met 40h van het Besluit prudentiële regels Wft; en  
 
-c. de uitgevende bank heeft voorzien in solide, doeltreffende strategieën en procedures aan de hand waarvan zij gedurende de looptijd van de obligaties voortdurend nagaat of, en er zorg voor draagt dat, er voldoende activa zijn overgegaan naar de rechtspersoon, bedoeld in onderdeel c, onder 1°, van de definitie van gedekte obligaties in artikel 1 van het Besluit prudentiële regels Wft, rekening houdend met de aard en samenstelling van de activa, de overwaarden, in aanmerking te nemen risico’s en stresstesten.  
+g. alle overige gegevens en bescheiden die de Nederlandsche Bank nodig acht in het belang van de beoordeling van het verzoek.  
 
-### Artikel 20b  
+### Artikel  20b  
 
-1. Een uitgevende bank gaat slechts over tot verdere uitgifte in het kader van een aanbiedingsprogramma van gedekte obligaties die zijn geregistreerd overeenkomstig artikel 124b van het Besluit prudentiële regels Wft als zij heeft geconstateerd dat wordt voldaan aan de voor registratie gestelde voorschriften.
-2. Indien de totale nominale waarde van de gedekte obligaties uitstijgt boven de verhouding, bedoeld in artikel 20a, tweede lid, onder b, ten opzichte van het geconsolideerde balanstotaal van de uitgevende bank, toont de uitgevende bank voordat verdere uitgifte plaatsvindt aan de Nederlandsche Bank aan dat sprake blijft van een gezonde verhouding als bedoeld in dat onderdeel.
+1.  Een bank die een geregistreerde gedekte obligatie uitgeeft, draagt er zorg voor dat de bestuurder van de rechtspersoon die rechthebbende is van de dekkingsactiva: 
 
-### Artikel 20c  
+a. een trustkantoor is dat over een vergunning beschikt op grond van de Wet toezicht trustkantoren; of  
 
-1. Een bank die gedekte obligaties heeft uitgegeven die overeenkomstig artikel 124b, eerste lid, van het Besluit prudentiële regels Wft zijn geregistreerd:
+b. een rechtspersoon of natuurlijke persoon naar buitenlands recht is aan wie het op grond van het op die rechtspersoon van toepassing zijnde recht is toegestaan om vergelijkbare werkzaamheden te verrichten als een trustkantoor als bedoeld in onderdeel a en waarop toezicht- en reguleringsvereisten worden toegepast die ten minste gelijkwaardig zijn aan die welke in Nederland worden toegepast.     
+2.  Een bank die een geregistreerde gedekte obligatie uitgeeft, draagt er zorg voor dat de rechtspersoon die rechthebbende is van de dekkingsactiva geen rechtshandelingen verricht waardoor op die rechtspersoon verplichtingen komen te rusten die gelijk of hoger gerangschikt zijn ten opzichte van de verplichting tot het voldoen van de hoofdsom en rente aan de houders van de geregistreerde gedekte obligaties, tenzij deze dienen voor of verband houden met het beheer, de risicobeheersing, de betaling en de administratie van de geregistreerde gedekte obligaties of de dekkingsactiva.   
+3.  Een bank die een geregistreerde gedekte obligatie uitgeeft, draagt er zorg voor dat de rechtspersoon die rechthebbende is van de dekkingsactiva, alleen derivatencontracten of andere contracten ten behoeve van risicomitigatie aangaat: 
 
-a. toont ten minste een maal per kwartaal aan de Nederlandsche Bank aan dat de gedekte obligaties voldoen aan de voor registratie gestelde voorwaarden, door aan de Nederlandsche Bank rapportages over de activa te verstrekken en toe te lichten, en  
+a. voor zover dit dienstig is met het oog op risicobeheersing ten behoeve van de houders van de geregistreerde gedekte obligaties;  
 
-b. toont ten minste jaarlijks aan de Nederlandsche Bank aan dat de bank voldoet aan het bepaalde in artikel 20a, tweede lid, onderdeel c.  
-2. De uitgevende bank verstrekt aan de Nederlandsche Bank binnen zes maanden na afloop van het boekjaar de jaarrekening en het jaarverslag van de rechtspersoon waarnaar de activa overeenkomstig het Besluit prudentiële regels Wft zijn overgegaan. De documenten zijn opgemaakt in overeenstemming met Titel 2 van Boek 9 van het Burgerlijk Wetboek, de internationale jaarrekeningstandaarden, dan wel volgens het recht van de staat waar de rechtspersoon haar zetel heeft. Indien de rechtspersoon haar zetel in Nederland heeft, vermeldt zij daarbij of de jaarrekening al dan niet is vastgesteld en goedgekeurd in overeenstemming met haar statuten of oprichtingsakte.
-3. De uitgevende bank doet onverwijld mededeling aan de Nederlandsche Bank indien gedurende de looptijd van de gedekte obligaties:
+b. die de wederpartij geen bevoegdheid geven om die derivatencontracten of andere contracten ten behoeve van risicomitigatie, op te zeggen, te ontbinden, of de uitvoering daarvan anderszins te beperken of op te schorten vanwege verlies van kredietwaardigheid van de bank; en  
 
-a. wijzigingen optreden ten opzichte van de gegevens en bescheiden waarop de juridische opinie bedoeld in artikel 20a, eerste lid, was gebaseerd of ten opzichte van de schriftelijke bescheiden, bedoeld in artikel 20a, eerste lid, die tot gevolg hebben dat de uitstaande gedekte obligaties niet meer voldoen of zullen voldoen aan de voor registratie gestelde voorschriften, of  
+c. die in geval van verlies van voldoende kredietwaardigheid van de wederpartij, de wederpartij verplichten om gepaste zekerheid te verschaffen of zich als wederpartij te doen vervangen.   
 
-b. significante wijzigingen worden aangebracht in een aanbiedingsprogramma of in de voorwaarden met betrekking tot de gedekte obligaties.  
+### Artikel  20c  
+
+1.  Een bank die een geregistreerde gedekte obligatie uitgeeft, draagt er zorg voor dat de debiteur van de dekkingsactiva zijn woonplaats heeft, respectievelijk is gevestigd of zijn zetel heeft, binnen de grenzen van de lidstaten van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of derde landen die door Europese Commissie op grond van artikel 107, vierde lid, van de verordening kapitaalvereisten zijn aangemerkt als landen die toezicht- en reguleringsvereisten toepassen die tenminste gelijkwaardig zijn aan die welke in de Europese Unie worden toegepast.   
+2.  Een bank die een geregistreerde gedekte obligatie uitgeeft, draagt er zorg voor dat, indien van toepassing, het onderpand behorend bij de dekkingsactiva is gelegen binnen de grenzen van de leden van de lidstaten van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of één van de derde landen, bedoeld in het eerste lid. 
 
 ### Artikel  20d  
-Treedt in werking per 01-01-2015 
 
 1.  Bij de toepassing van artikel 40f, eerste en tweede lid, van het Besluit prudentiële regels Wft, is de waarde van de dekkingsactiva die behoren tot de soorten die een bank die geregistreerde gedekte obligaties uitgeeft, heeft opgegeven als primair gehanteerde dekkingsactiva, overeenkomstig artikel 40e, eerste lid, onderdeel b, van het Besluit prudentiële regels Wft, het nominale bedrag.   
 2.  Op de waarde van de dekkingsactiva, bedoeld in artikel 40f van het Besluit prudentiële regels Wft, eerste en tweede lid, worden in mindering gebracht: 
@@ -252,7 +254,6 @@ c. blootstellingen als bedoeld in artikel 129, eerste lid, onderdeel c en derde 
 5.  Het onderpand van dekkingsactiva die bestaan uit leningen of woonkredieten als bedoeld in artikel 129, eerste lid, onderdelen d, onder i, e, en f, van de verordening kapitaalvereisten, wordt ten minste jaarlijks geherwaardeerd. De Nederlandsche Bank kan vereisen dat de herwaardering bedoeld in de vorige volzin vaker plaatsvindt.  
 
 ### Artikel  20e  
-Treedt in werking per 01-01-2015 
 
 1.  Als liquide activa als bedoeld in artikel 40g van het Besluit prudentiële regels Wft worden aangemerkt: 
 
@@ -266,7 +267,6 @@ d. blootstellingen ten aanzien waarvan de Nederlandsche Bank ontheffing heeft ve
 2.  In aanvulling op artikel 40g, eerste lid, onderdelen a en b, van het Besluit prudentiële regels Wft, draagt een bank die geregistreerde gedekte obligaties uitgeeft, er zorg voor dat de rechtspersoon die rechthebbende is van de dekkingsactiva, voldoende liquide activa aanhoudt of door middel van dekkingsactiva genereert, om te kunnen voldoen aan betalingsverplichtingen voor de volgende zes maanden jegens derden die, indien die bank in de toestand komt te verkeren dat zij het beheer van de dekkingsactiva niet langer zelf kan voeren, ten opzichte van de verplichting tot het voldoen van hoofdsom en rente aan de houders van de geregistreerde gedekte obligaties, gelijke of hoger gerangschikte vorderingen hebben jegens de rechtspersoon die rechthebbende is van de dekkingsactiva.  
 
 ### Artikel  20f  
-Treedt in werking per 01-01-2015 
 
 1.  Een bank die een geregistreerde gedekte obligatie uitgeeft, draagt er zorg voor dat voorafgaand aan de eerste uitgifte onder een categorie geregistreerde gedekte obligaties een overeenkomst wordt aangegaan met een externe accountant voor controle van de dekkingsactiva.   
 2.  De externe accountant voor controle van de dekkingsactiva, bedoeld in het eerste lid, heeft ten minste de volgende contractuele verplichtingen: 
@@ -278,7 +278,6 @@ b. ten minste jaarlijks controleren of de bank, bedoeld in het eerste lid, op co
 4.  Een bank die een geregistreerde gedekte obligatie uitgeeft, draagt er zorg voor dat, zolang die bank niet in de toestand komt te verkeren dat zij het beheer van de dekkingsactiva niet langer zelf kan voeren, een externe accountant ten minste jaarlijks steekproefsgewijs de dossiers die betrekking hebben op de dekkingsactiva controleert.  
 
 ### Artikel  20g  
-Treedt in werking per 01-01-2015 
 
 1.  Een bank die een geregistreerde gedekte obligatie uitgeeft, voert regelmatig stresstesten uit om vast te stellen of in situaties van financiële stress sprake blijft van een gezonde verhouding tussen de totale uitstaande geregistreerde gedekte obligaties van die bank en de totale geconsolideerde balans van die bank, bedoeld in artikel 40i, eerste en tweede lid, van het Besluit prudentiële regels Wft.   
 2.  De in het eerste lid genoemde stresstesten hebben minimaal betrekking op: 
@@ -295,7 +294,6 @@ e. andere risico’s die de Nederlandsche Bank relevant acht.
 3.  Bij het uitvoeren van de in het eerste lid genoemde stresstesten wordt rekening gehouden met relevante risico-mitigerende factoren, zoals derivatencontracten en andere contracten ten behoeve van risicomitigatie.  
 
 ### Artikel  20h  
-Treedt in werking per 01-01-2015 
 
 1.  Een bank die een geregistreerde gedekte obligatie uitgeeft: 
 
@@ -309,7 +307,6 @@ c. verstrekt ten minste jaarlijks aan de Nederlandsche Bank de informatie die de
 4.  Een bank die een geregistreerde gedekte obligatie uitgeeft, verstrekt aan de Nederlandsche Bank alle relevante gegevens en bescheiden met betrekking tot de geregistreerde gedekte obligatie die de Nederlandsche Bank nodig acht in het belang van het uitoefenen van toezicht daarop, zo vaak als de Nederlandsche Bank dit nodig acht.  
 
 ### Artikel  20i  
-Treedt in werking per 01-01-2015 
 
 1.  Een bank die een geregistreerde gedekte obligatie uitgeeft, verschaft per categorie minimaal elk kwartaal ten minste de volgende gegevens aan de houders van die geregistreerde gedekte obligaties: 
 

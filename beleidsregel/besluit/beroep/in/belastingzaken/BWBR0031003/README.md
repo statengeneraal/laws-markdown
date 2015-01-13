@@ -2,7 +2,7 @@
 
 ##Besluit Beroep in Belastingzaken
 
-De staatssecretaris van Financiën heeft het volgende besloten.     Dit besluit betreft een aanpassing van het [Besluit Beroep in Belastingzaken 2005](../../../../../../beleidsregel/besluit/beroep/in/belastingzaken/2005/BWBR0018379/README.md) (Besluit van 1 juni 2005, nr. CPP2005/1077M). Op een aantal punten is sprake van wijziging van het beleid: de bepaling inzake de toepassing van [artikel 8:29 van de Awb](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is als gevolg van ontwikkelingen in de jurisprudentie komen te vervallen. Eerder werd uitgegaan van een beperkte uitleg van het begrip ‘op de zaak betrekking hebbende stukken’. Inmiddels is komen vast te staan dat aan dit begrip geen andere betekenis toekomt dan in het algemene bestuursrecht. Voorts zijn de bepalingen inzake het vragen van uitstel en de collegiale bijstand en toetsing aangescherpt en zijn voorwaarden gesteld aan de vertegenwoordiging van de inspecteur ter zitting.   In dit kader schrijft dit besluit voor dat in beginsel minimaal twee ambtenaren ter zitting aanwezig moeten zijn, waarvan er ten minste één over een ruime proceservaring beschikt. Toetsing van deze kwalificatie is voorbehouden aan de Belastingdienst.    
+De staatssecretaris van Financiën heeft het volgende besloten.     Dit besluit betreft een aanpassing van het Besluit Beroep in Belastingzaken 2005 (Besluit van 1 juni 2005, nr. CPP2005/1077M). Op een aantal punten is sprake van wijziging van het beleid: de bepaling inzake de toepassing van artikel 8:29 van de Awb is als gevolg van ontwikkelingen in de jurisprudentie komen te vervallen. Eerder werd uitgegaan van een beperkte uitleg van het begrip ‘op de zaak betrekking hebbende stukken’. Inmiddels is komen vast te staan dat aan dit begrip geen andere betekenis toekomt dan in het algemene bestuursrecht. Voorts zijn de bepalingen inzake het vragen van uitstel en de collegiale bijstand en toetsing aangescherpt en zijn voorwaarden gesteld aan de vertegenwoordiging van de inspecteur ter zitting.   In dit kader schrijft dit besluit voor dat in beginsel minimaal twee ambtenaren ter zitting aanwezig moeten zijn, waarvan er ten minste één over een ruime proceservaring beschikt. Toetsing van deze kwalificatie is voorbehouden aan de Belastingdienst.    
 ### 1  
 
 ####Algemeen
@@ -21,9 +21,9 @@ c.  *B/CKC:* Belastingdienst/Centrum voor kennis en communicatie;
 
 d.  *DGBel:* Ministerie van Financiën, Directoraat-Generaal Belastingdienst;  
 
-e.  *Awb:* [Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);  
+e.  *Awb:* Algemene wet bestuursrecht;  
 
-f.  *AWR:* [Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md);  
+f.  *AWR:* Algemene wet inzake rijksbelastingen;  
 
 g.  *Uitspraak:* een schriftelijke of (een proces verbaal van een) mondelinge uitspraak van rechtbank of gerechtshof of een schriftelijke uitspraak (arrest) van de Hoge Raad.  
 
@@ -32,7 +32,7 @@ h.  *regionaal vaktechnisch coördinator:* medewerker van de Belastingdienst die
 
 ####Procesmachtigingen
 
-1. De inspecteur als bedoeld in [artikel 2, derde lid, onderdeel b, van de AWR](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) respectievelijk de ontvanger als bedoeld in [artikel 2, eerste lid, onderdeel i, van de Invorderingswet 1990](../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) verleent aan onder zijn verantwoordelijkheid werkende ambtenaren van de Belastingdienst machtiging om hem te vertegenwoordigen in procedures voor rechtbanken en gerechtshoven.  
+1. De inspecteur als bedoeld in artikel 2, derde lid, onderdeel b, van de AWR respectievelijk de ontvanger als bedoeld in artikel 2, eerste lid, onderdeel i, van de Invorderingswet 1990 verleent aan onder zijn verantwoordelijkheid werkende ambtenaren van de Belastingdienst machtiging om hem te vertegenwoordigen in procedures voor rechtbanken en gerechtshoven.  
 
 2. Van de verleende machtigingen wordt een register bijgehouden. Dit register wordt ten minste éénmaal per jaar geactualiseerd.  
 
@@ -133,7 +133,7 @@ Behoudens in de in § 2.2.3 lid 2, en § 2.2.4 bedoelde gevallen zendt de inspec
 
 ####Eenheid van beleid en uitvoering
 
-Ter bevordering van de kwaliteit en de eenheid van beleid en uitvoering vindt op de inhoud van het verweerschrift een collegiale toetsing plaats door of namens de betrokken regionaal vaktechnisch coördinatoren. Daarbij wordt (nogmaals) beoordeeld of er sprake is van een rechtsvraag als bedoeld in het [Besluit fiscaal bestuursrecht](../../../../../../beleidsregel/besluit/fiscaal/bestuursrecht/BWBR0030253/README.md). Als het geschil een rechtsvraag blijkt te betreffen die ten onrechte nog niet aan de desbetreffende kennisgroep is voorgelegd, dan legt de inspecteur de rechtsvraag alsnog onverwijld voor aan die kennisgroep.    
+Ter bevordering van de kwaliteit en de eenheid van beleid en uitvoering vindt op de inhoud van het verweerschrift een collegiale toetsing plaats door of namens de betrokken regionaal vaktechnisch coördinatoren. Daarbij wordt (nogmaals) beoordeeld of er sprake is van een rechtsvraag als bedoeld in het Besluit fiscaal bestuursrecht. Als het geschil een rechtsvraag blijkt te betreffen die ten onrechte nog niet aan de desbetreffende kennisgroep is voorgelegd, dan legt de inspecteur de rechtsvraag alsnog onverwijld voor aan die kennisgroep.    
 ### 2.2.3  
 
 ####Tegemoet komen aan de grieven van belanghebbende
@@ -144,7 +144,7 @@ Ter bevordering van de kwaliteit en de eenheid van beleid en uitvoering vindt op
 
 3. Indien belanghebbende niet bereid is het beroepschrift onder de in lid 2 vermelde voorwaarde in te trekken deelt de inspecteur de rechtbank in zijn verweerschrift mee dat hij zich geheel met de door belanghebbende opgeworpen bezwaren kan verenigen.  
 
-4. Met betrekking tot de vergoeding van proceskosten in geval van intrekking van het beroepschrift omdat de inspecteur geheel of gedeeltelijk aan de grieven van de indiener is tegemoetgekomen, wordt gehandeld overeenkomstig [artikel 8:75 Awb](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en het [Besluit proceskosten bestuursrecht](../../../../../../AMvB/besluit/proceskosten/bestuursrecht/BWBR0006358/README.md).  
+4. Met betrekking tot de vergoeding van proceskosten in geval van intrekking van het beroepschrift omdat de inspecteur geheel of gedeeltelijk aan de grieven van de indiener is tegemoetgekomen, wordt gehandeld overeenkomstig artikel 8:75 Awb en het Besluit proceskosten bestuursrecht.  
 
 5. In gevallen waarin het beroepschrift wordt ingetrokken zonder dat aan de bezwaren van belanghebbende wordt tegemoetgekomen, kan de inspecteur het griffierecht vergoeden. Het griffierecht wordt in beginsel vergoed, tenzij er sprake is van kennelijk onredelijk gebruik van procesrecht door belanghebbende; hiervan kan onder meer sprake zijn bij (herhaald) lichtvaardig procederen.      
 ### 2.2.4  
@@ -176,7 +176,7 @@ g. de conclusie van de inspecteur.
 
 3. Zo nodig worden subsidiaire verweren en subsidiaire conclusies in het verweerschrift opgenomen.  
 
-4. De overgelegde stukken worden in het verweerschrift vermeld. Tot de in [artikel 8:42 Awb](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bedoelde over te leggen stukken behoren in ieder geval: 
+4. De overgelegde stukken worden in het verweerschrift vermeld. Tot de in artikel 8:42 Awb bedoelde over te leggen stukken behoren in ieder geval: 
 
 a. een gespecificeerde opgaaf van de gegevens van de aangifte indien deze is gedaan (bij procedures betreffende de erf- en schenkbelasting kan, indien de aangifte zeer omvangrijk is, worden volstaan met een uittreksel uit de aangifte betreffende de in geding zijnde onderdelen);  
 
@@ -188,7 +188,7 @@ d. een afschrift van de uitspraak dan wel een afschrift van de kennisgeving waar
 
 e. alle andere stukken die een rol gespeeld hebben in de besluitvorming van de inspecteur met betrekking tot het geschilpunt bij de totstandkoming van het bestreden besluit en de uitspraak op bezwaar.    
 
-5. Naar niet gepubliceerde uitspraken wordt slechts verwezen indien deze als bijlage worden overgelegd. Overlegging geschiedt met inachtneming van [artikel 27g AWR](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md).       
+5. Naar niet gepubliceerde uitspraken wordt slechts verwezen indien deze als bijlage worden overgelegd. Overlegging geschiedt met inachtneming van artikel 27g AWR.       
 ### 2.3  
 
 ####De conclusie van dupliek
@@ -240,12 +240,12 @@ De inspecteur kan indien de rechtbank hem hierom verzoekt toestemming geven voor
 
 ####Beroep tegen het niet tijdig nemen van een besluit
 
-Indien het beroep is gericht tegen het niet tijdig doen van een uitspraak op een bezwaarschrift, blijft de inspecteur verplicht uitspraak te doen op het bezwaar. De rechtbank kan in dat geval bepalen dat [Hoofdstuk VIII, afdeling 2, van de AWR](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) gedurende een door de rechtbank te bepalen termijn van toepassing blijft. Zo nodig verzoekt de inspecteur hierom bij, of zo nodig voorafgaand aan, de indiening van zijn verweerschrift.    
+Indien het beroep is gericht tegen het niet tijdig doen van een uitspraak op een bezwaarschrift, blijft de inspecteur verplicht uitspraak te doen op het bezwaar. De rechtbank kan in dat geval bepalen dat Hoofdstuk VIII, afdeling 2, van de AWR gedurende een door de rechtbank te bepalen termijn van toepassing blijft. Zo nodig verzoekt de inspecteur hierom bij, of zo nodig voorafgaand aan, de indiening van zijn verweerschrift.    
 ### 2.5.2  
 
 ####Voorlopige voorziening
 
-Indien belanghebbende op grond van [artikel 8:81 Awb](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) de rechtbank heeft verzocht om het treffen van een voorlopige voorziening, verstrekt de inspecteur binnen de door de rechtbank gestelde termijn de op de zaak betrekking hebbende stukken.     
+Indien belanghebbende op grond van artikel 8:81 Awb de rechtbank heeft verzocht om het treffen van een voorlopige voorziening, verstrekt de inspecteur binnen de door de rechtbank gestelde termijn de op de zaak betrekking hebbende stukken.     
 ### 2.6  
 
 ####Na de uitspraak
@@ -315,7 +315,7 @@ Bij de beslissing om al dan niet sprongcassatie voor te stellen dan wel met een 
 
 ####Publicatie van de (geanonimiseerde) uitspraak
 
-De inspecteur zendt een afschrift van de uitspraak aan B/CKC. B/CKC draagt zorg voor verdere communicatie binnen de Belastingdienst met inachtneming van [artikel 27g AWR](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md).      
+De inspecteur zendt een afschrift van de uitspraak aan B/CKC. B/CKC draagt zorg voor verdere communicatie binnen de Belastingdienst met inachtneming van artikel 27g AWR.      
 ### 3  
 
 ####Hoger beroep door de inspecteur
@@ -328,7 +328,7 @@ De inspecteur zendt een afschrift van de uitspraak aan B/CKC. B/CKC draagt zorg 
 
 ####Indiening van een beroepschrift
 
-Als de inspecteur besluit hoger beroep in te stellen, dient hij binnen de in [artikel 6:7 Awb](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) daarvoor gestelde termijn van zes weken een beroepschrift overeenkomstig § 3.1.4 van dit besluit bij het gerechtshof in.    
+Als de inspecteur besluit hoger beroep in te stellen, dient hij binnen de in artikel 6:7 Awb daarvoor gestelde termijn van zes weken een beroepschrift overeenkomstig § 3.1.4 van dit besluit bij het gerechtshof in.    
 ### 3.1.2  
 
 ####Het pro forma beroepschrift
@@ -338,7 +338,7 @@ In gevallen waarin het niet mogelijk blijkt een gemotiveerd beroepschrift in te 
 
 ####Eenheid van beleid en uitvoering
 
-Ter bevordering van de kwaliteit en de eenheid van beleid en uitvoering vindt op de inhoud van het beroepschrift een collegiale toetsing door of namens de betrokken regionaal vaktechnisch coördinatoren plaats. Daarbij wordt (nogmaals) beoordeeld of er sprake is van een rechtsvraag als bedoeld in het [Besluit fiscaal bestuursrecht](../../../../../../beleidsregel/besluit/fiscaal/bestuursrecht/BWBR0030253/README.md). Als het geschil een rechtsvraag blijkt te betreffen die ten onrechte nog niet aan de desbetreffende kennisgroep is voorgelegd, dan legt de inspecteur de rechtsvraag alsnog onverwijld voor aan die kennisgroep    
+Ter bevordering van de kwaliteit en de eenheid van beleid en uitvoering vindt op de inhoud van het beroepschrift een collegiale toetsing door of namens de betrokken regionaal vaktechnisch coördinatoren plaats. Daarbij wordt (nogmaals) beoordeeld of er sprake is van een rechtsvraag als bedoeld in het Besluit fiscaal bestuursrecht. Als het geschil een rechtsvraag blijkt te betreffen die ten onrechte nog niet aan de desbetreffende kennisgroep is voorgelegd, dan legt de inspecteur de rechtsvraag alsnog onverwijld voor aan die kennisgroep    
 ### 3.1.4  
 
 ####Inhoud van het beroepschrift en over te leggen stukken
@@ -361,7 +361,7 @@ f. de conclusie van de inspecteur.
 
 3. Zo nodig worden subsidiaire standpunten en conclusies in het beroepschrift opgenomen.  
 
-4. De overgelegde stukken worden in het beroepschrift vermeld. Tot de in [artikel 8:42 Awb](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bedoelde over te leggen stukken behoren in ieder geval de volgende stukken, voor zover deze niet reeds in de procedure voor de rechtbank zijn overgelegd: 
+4. De overgelegde stukken worden in het beroepschrift vermeld. Tot de in artikel 8:42 Awb bedoelde over te leggen stukken behoren in ieder geval de volgende stukken, voor zover deze niet reeds in de procedure voor de rechtbank zijn overgelegd: 
 
 a. een gespecificeerde opgaaf van de gegevens van de aangifte indien deze is gedaan (bij procedures betreffende de erf- en schenkbelasting kan, indien de aangifte zeer omvangrijk is, worden volstaan met een uittreksel uit de aangifte betreffende de in geding zijnde onderdelen);  
 
@@ -375,7 +375,7 @@ e. een afschrift van de uitspraak van de rechtbank;
 
 f. alle andere stukken die een rol gespeeld hebben in de besluitvorming van de inspecteur met betrekking tot het geschilpunt bij de totstandkoming van het bestreden besluit en de uitspraak op bezwaar.   Voorts wordt in een bijlage vermeld welke processtukken reeds tot het dossier behoren.  
 
-5. Naar niet gepubliceerde uitspraken wordt slechts verwezen indien deze als bijlage worden overgelegd. Overlegging geschiedt met inachtneming van [artikel 27g AWR](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md).       
+5. Naar niet gepubliceerde uitspraken wordt slechts verwezen indien deze als bijlage worden overgelegd. Overlegging geschiedt met inachtneming van artikel 27g AWR.       
 ### 3.2  
 
 ####De conclusie van repliek
@@ -412,7 +412,7 @@ Behoudens in de in § 4.1.3, lid 2, en § 4.1.4 bedoelde gevallen zendt de inspe
 
 ####Eenheid van beleid en uitvoering
 
-Ter bevordering van de kwaliteit en de eenheid van beleid en uitvoering vindt op de inhoud van het verweerschrift een collegiale toetsing door of namens de betrokken regionaal vaktechnisch coördinatoren plaats. Daarbij wordt nogmaals beoordeeld of er sprake is van een rechtsvraag als bedoeld in het [Besluit fiscaal bestuursrecht](../../../../../../beleidsregel/besluit/fiscaal/bestuursrecht/BWBR0030253/README.md). Als het geschil een rechtsvraag blijkt te betreffen die ten onrechte nog niet aan de desbetreffende kennisgroep is voorgelegd, dan legt de inspecteur de rechtsvraag alsnog onverwijld voor aan die kennisgroep.    
+Ter bevordering van de kwaliteit en de eenheid van beleid en uitvoering vindt op de inhoud van het verweerschrift een collegiale toetsing door of namens de betrokken regionaal vaktechnisch coördinatoren plaats. Daarbij wordt nogmaals beoordeeld of er sprake is van een rechtsvraag als bedoeld in het Besluit fiscaal bestuursrecht. Als het geschil een rechtsvraag blijkt te betreffen die ten onrechte nog niet aan de desbetreffende kennisgroep is voorgelegd, dan legt de inspecteur de rechtsvraag alsnog onverwijld voor aan die kennisgroep.    
 ### 4.1.3  
 
 ####Tegemoet komen aan de grieven van belanghebbende
@@ -423,7 +423,7 @@ Ter bevordering van de kwaliteit en de eenheid van beleid en uitvoering vindt op
 
 3. Indien belanghebbende niet bereid is het beroepschrift onder de in lid 2 vermelde voorwaarde in te trekken deelt de inspecteur het gerechtshof in zijn verweerschrift mee dat hij zich geheel met de door belanghebbende opgeworpen bezwaren kan verenigen.  
 
-4. Met betrekking tot de vergoeding van proceskosten in geval van intrekking van het beroepschrift omdat de inspecteur geheel of gedeeltelijk aan de grieven van de indiener is tegemoetgekomen, wordt gehandeld overeenkomstig [artikel 8:75 Awb](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en het [Besluit proceskosten bestuursrecht](../../../../../../AMvB/besluit/proceskosten/bestuursrecht/BWBR0006358/README.md).  
+4. Met betrekking tot de vergoeding van proceskosten in geval van intrekking van het beroepschrift omdat de inspecteur geheel of gedeeltelijk aan de grieven van de indiener is tegemoetgekomen, wordt gehandeld overeenkomstig artikel 8:75 Awb en het Besluit proceskosten bestuursrecht.  
 
 5. In gevallen waarin het beroepschrift wordt ingetrokken zonder dat aan de bezwaren van belanghebbende wordt tegemoetgekomen, kan de inspecteur het griffierecht vergoeden. Het griffierecht wordt in beginsel vergoed, tenzij er sprake is van kennelijk onredelijk gebruik van procesrecht door belanghebbende; hiervan kan onder meer sprake zijn bij (herhaald) lichtvaardig procederen.      
 ### 4.1.4  
@@ -455,7 +455,7 @@ g. de conclusie van de inspecteur.
 
 3. Zo nodig worden subsidiaire verweren en subsidiaire conclusies in het verweerschrift opgenomen.  
 
-4. De overgelegde stukken worden in het verweerschrift vermeld. Tot de in [artikel 8:42 Awb](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bedoelde over te leggen stukken behoren in ieder geval de volgende stukken, voor zover deze niet reeds in de procedure voor de rechtbank zijn overgelegd: 
+4. De overgelegde stukken worden in het verweerschrift vermeld. Tot de in artikel 8:42 Awb bedoelde over te leggen stukken behoren in ieder geval de volgende stukken, voor zover deze niet reeds in de procedure voor de rechtbank zijn overgelegd: 
 
 a. een gespecificeerde opgaaf van de gegevens van de aangifte indien deze is gedaan (bij procedures betreffende de erf- en schenkbelasting kan, indien de aangifte zeer omvangrijk is, worden volstaan met een uittreksel uit de aangifte betreffende de in geding zijnde onderdelen);  
 
@@ -469,7 +469,7 @@ e. e. een afschrift van de uitspraak van de rechtbank
 
 f. alle andere stukken die een rol gespeeld hebben in de besluitvorming van de inspecteur met betrekking tot het geschilpunt bij de totstandkoming van het bestreden besluit en de uitspraak op bezwaar.   Voorts wordt in een bijlage vermeld welke processtukken reeds tot het dossier behoren.  
 
-5. Naar niet gepubliceerde uitspraken wordt slechts verwezen indien deze als bijlage worden overgelegd. Overlegging geschiedt met inachtneming van [artikel 27g AWR](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md).       
+5. Naar niet gepubliceerde uitspraken wordt slechts verwezen indien deze als bijlage worden overgelegd. Overlegging geschiedt met inachtneming van artikel 27g AWR.       
 ### 4.2  
 
 ####Het instellen van incidenteel hoger beroep door de inspecteur
@@ -522,7 +522,7 @@ De inspecteur kan indien het gerechtshof hem hierom verzoekt toestemming geven v
 
 ####Voorlopige voorziening
 
-Indien belanghebbende op grond van [artikel 8:81 Awb](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) het gerechtshof heeft verzocht om het treffen van een voorlopige voorziening, verstrekt de inspecteur binnen de door het gerechtshof gestelde termijn de op de zaak betrekking hebbende stukken.    
+Indien belanghebbende op grond van artikel 8:81 Awb het gerechtshof heeft verzocht om het treffen van een voorlopige voorziening, verstrekt de inspecteur binnen de door het gerechtshof gestelde termijn de op de zaak betrekking hebbende stukken.    
 ### 4.6  
 
 ####Na de uitspraak
@@ -561,7 +561,7 @@ Wanneer de inspecteur geheel of gedeeltelijk in het ongelijk is gesteld, beoorde
 
 ####Publicatie van de (geanonimiseerde) uitspraak
 
-De inspecteur zendt een afschrift van de uitspraak aan B/CKC. B/CKC draagt zorg voor verdere communicatie binnen de Belastingdienst met inachtneming van [artikel 27g AWR](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md).      
+De inspecteur zendt een afschrift van de uitspraak aan B/CKC. B/CKC draagt zorg voor verdere communicatie binnen de Belastingdienst met inachtneming van artikel 27g AWR.      
 ### 5  
 
 ####Cassatieberoep bij de Hoge Raad
@@ -737,12 +737,12 @@ l. de bijlagen bij voornoemde geschriften, voor zover hier nog niet genoemd.   D
 
 ####Griffierecht
 
-Indien de inspecteur op grond van [artikel 8:74 Awb](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) door de rechter is veroordeeld het griffierecht aan belanghebbende te vergoeden, stelt de inspecteur de belanghebbende en diens gemachtigde in kennis van de beslissing daartoe. Deze kennisgeving is niet voor bezwaar en beroep vatbaar. Een kopie van de kennisgeving bewaart de inspecteur bij de stukken. Wanneer tegen de veroordeling tot vergoeding van griffierecht hoger beroep of cassatie is ingesteld wacht de inspecteur, alvorens tot bovengenoemde kennisgeving over te gaan, de uitkomst van die procedure af. Ook als de staatssecretaris in cassatie is veroordeeld het griffierecht aan belanghebbende te vergoeden draagt de inspecteur zorg voor uitbetaling daarvan.    
+Indien de inspecteur op grond van artikel 8:74 Awb door de rechter is veroordeeld het griffierecht aan belanghebbende te vergoeden, stelt de inspecteur de belanghebbende en diens gemachtigde in kennis van de beslissing daartoe. Deze kennisgeving is niet voor bezwaar en beroep vatbaar. Een kopie van de kennisgeving bewaart de inspecteur bij de stukken. Wanneer tegen de veroordeling tot vergoeding van griffierecht hoger beroep of cassatie is ingesteld wacht de inspecteur, alvorens tot bovengenoemde kennisgeving over te gaan, de uitkomst van die procedure af. Ook als de staatssecretaris in cassatie is veroordeeld het griffierecht aan belanghebbende te vergoeden draagt de inspecteur zorg voor uitbetaling daarvan.    
 ### 6.2.2  
 
 ####Proceskosten
 
-Indien de inspecteur door de rechtbank of het gerechtshof, op grond van [artikel 8:75 Awb](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), in de proceskosten is veroordeeld zorgt de inspecteur voor vergoeding van de kosten, conform de uitspraak. Indien tegen de veroordeling in de proceskosten door de inspecteur hoger beroep of door de staatssecretaris cassatieberoep is ingesteld wacht de inspecteur, alvorens tot vergoeding over te gaan, de uitkomst van die procedure af. Ook als de staatssecretaris in cassatie in de proceskosten is veroordeeld draagt de inspecteur zorg voor uitbetaling.     
+Indien de inspecteur door de rechtbank of het gerechtshof, op grond van artikel 8:75 Awb, in de proceskosten is veroordeeld zorgt de inspecteur voor vergoeding van de kosten, conform de uitspraak. Indien tegen de veroordeling in de proceskosten door de inspecteur hoger beroep of door de staatssecretaris cassatieberoep is ingesteld wacht de inspecteur, alvorens tot vergoeding over te gaan, de uitkomst van die procedure af. Ook als de staatssecretaris in cassatie in de proceskosten is veroordeeld draagt de inspecteur zorg voor uitbetaling.     
 ### 6.3  
 
 ####Verstrekken van inlichtingen
@@ -751,14 +751,14 @@ Indien de inspecteur door de rechtbank of het gerechtshof, op grond van [artikel
 
 ####Mondelinge beantwoording van een verzoek om inlichtingen
 
-1. Indien de rechtbank of het gerechtshof in het kader van het vooronderzoek op grond van [artikel 8:44 Awb](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) de inspecteur oproept om te worden gehoord, is de inspecteur verplicht aan deze oproep te voldoen.  
+1. Indien de rechtbank of het gerechtshof in het kader van het vooronderzoek op grond van artikel 8:44 Awb de inspecteur oproept om te worden gehoord, is de inspecteur verplicht aan deze oproep te voldoen.  
 
 2. Indien de inspecteur door bijzondere omstandigheden aan de oproep niet kan voldoen, verzoekt hij na toestemming van de betrokken regionaal vaktechnisch coördinator de rechtbank of het gerechtshof schriftelijk onder vermelding van deze omstandigheden om een nieuwe datum vast te stellen.      
 ### 6.3.2  
 
 ####Schriftelijke beantwoording van een verzoek om inlichtingen
 
-1. Indien de rechtbank of het gerechtshof in het kader van het vooronderzoek op grond van [artikel 8:45 Awb](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) de inspecteur verzoekt schriftelijk inlichtingen te geven, is de inspecteur verplicht hierop te antwoorden binnen de door de rechtbank of het gerechtshof daartoe gestelde termijn. Is door de rechtbank of het gerechtshof géén termijn gesteld dan dient het antwoord zo spoedig mogelijk doch in ieder geval binnen vier weken te worden ingezonden.  
+1. Indien de rechtbank of het gerechtshof in het kader van het vooronderzoek op grond van artikel 8:45 Awb de inspecteur verzoekt schriftelijk inlichtingen te geven, is de inspecteur verplicht hierop te antwoorden binnen de door de rechtbank of het gerechtshof daartoe gestelde termijn. Is door de rechtbank of het gerechtshof géén termijn gesteld dan dient het antwoord zo spoedig mogelijk doch in ieder geval binnen vier weken te worden ingezonden.  
 
 2. Heeft de griffier de inspecteur afschriften toegezonden van deskundigenrapporten of van tussen de rechtbank of het gerechtshof enerzijds en belanghebbende of derden anderzijds gevoerde correspondentie, dan dient de inspecteur binnen de door de rechtbank of het gerechtshof daartoe gestelde termijn schriftelijk hierover zijn mening te geven, dan wel mee te delen dat hij van de hem hiertoe geboden gelegenheid geen gebruik wenst te maken.  
 
@@ -779,7 +779,7 @@ Dit besluit kan worden aangehaald als: Besluit Beroep in Belastingzaken. De cite
 
 ####Intrekking besluit
 
-Het [Besluit Beroep in Belastingzaken 2005](../../../../../../beleidsregel/besluit/beroep/in/belastingzaken/2005/BWBR0018379/README.md) (Besluit van 1 juni 2005, nr. CPP 2005/1077M) wordt ingetrokken met ingang van de inwerkingtreding van dit besluit.    
+Het Besluit Beroep in Belastingzaken 2005 (Besluit van 1 juni 2005, nr. CPP 2005/1077M) wordt ingetrokken met ingang van de inwerkingtreding van dit besluit.    
 ### 9  
 
 ####Inwerkingtreding

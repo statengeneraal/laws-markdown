@@ -43,9 +43,7 @@ Wijzigt de Arbeidswet 2000 BES.
 
 ####Buitengewoon besluit arbeidsverhoudingen 1945
 
-Treedt in werking op een nader te bepalen tijdstip 
-
-Wijzigt het Buitengewoon besluit arbeidsverhoudingen 1945. 
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2014/504.Wijzigt het Buitengewoon besluit arbeidsverhoudingen 1945. 
 
 ### Artikel  IVb  
 
