@@ -98,11 +98,12 @@ dd.  *bandbreedte:* een bedrag waarboven en waaronder meer- of minderkosten kunn
 
 ### Artikel  2.1  
 
-1.  De zorg en overige diensten, bedoeld in artikel 11, eerste lid, onderdeel a, van de wet omvatten de vormen van zorg of diensten die naar inhoud en omvang zijn omschreven in de artikelen 2.4 tot en met 2.15.   
+1.  De zorg en overige diensten, bedoeld in artikel 11, eerste lid, onderdeel a, van de wet omvatten de vormen van zorg of diensten die naar inhoud en omvang zijn omschreven in de artikelen 2.4 tot en met 2.15, met uitzondering van vormen van zorg of diensten die voor de verzekerden kunnen worden bekostigd op grond van een wettelijk voorschrift.   
 2.  De inhoud en omvang van de vormen van zorg of diensten worden mede bepaald door de stand van de wetenschap en praktijk en, bij ontbreken van een zodanige maatstaf, door hetgeen in het betrokken vakgebied geldt als verantwoorde en adequate zorg en diensten.   
 3.  Onverminderd hetgeen is bepaald in de artikelen 2.4 tot en met 2.15, heeft de verzekerde op een vorm van zorg of een dienst slechts recht voor zover hij daarop naar inhoud en omvang redelijkerwijs is aangewezen.  
 4. Onder de zorg en overige diensten, bedoeld in het eerste lid, valt niet forensische zorg als bedoeld in artikel 2 van het Interimbesluit forensische zorg. 
-5.  In afwijking van het tweede lid vallen onder de zorg en overige diensten, bedoeld in artikel 2.4 of 2.8, ook de zorg en diensten die bij ministeriële regeling zijn aangewezen onder de daarbij geregelde voorwaarden en gedurende een daarbij aan te geven termijn van maximaal vier jaar, voor zover er sprake is van verantwoorde zorg en diensten. 
+5.  In afwijking van het tweede lid vallen onder de zorg en overige diensten, bedoeld in de artikelen 2.4, 2.8 of 2.9, ook de zorg en diensten die bij ministeriële regeling zijn aangewezen onder de daarbij geregelde voorwaarden en gedurende een daarbij aan te geven termijn van maximaal zeven jaar, voor zover er sprake is van verantwoorde zorg en diensten.  
+6.  De zorg en diensten, bedoeld in het eerste lid, omvatten niet geestelijke gezondheidszorg als bedoeld in artikel 10.2, eerste lid, van de Jeugdwet aan jeugdigen als bedoeld in artikel 1.1 van die wet. 
 
 ### Artikel  2.2  
 
@@ -121,13 +122,13 @@ b. de kosten die hoger zijn dan in de Nederlandse marktomstandigheden in redelij
 
 ### Artikel  2.4  
 
-1.  Geneeskundige zorg omvat zorg zoals huisartsen, medisch-specialisten, klinisch-psychologen en verloskundigen die plegen te bieden, dyslexiezorg als bedoeld in artikel 2.5a, zorg bij stoppen-met-rokenprogramma als bedoeld in artikel 2.5b, geriatrische revalidatie als bedoeld in artikel 2.5c en paramedische zorg als bedoeld in artikel 2.6, met dien verstande dat: 
+1.  Geneeskundige zorg omvat zorg zoals huisartsen, medisch-specialisten, klinisch-psychologen en verloskundigen die plegen te bieden, zintuiglijk gehandicaptenzorg als bedoeld in artikel 2.5a, zorg bij stoppen-met-rokenprogramma als bedoeld in artikel 2.5b, geriatrische revalidatie als bedoeld in artikel 2.5c en paramedische zorg als bedoeld in artikel 2.6, met dien verstande dat: 
 
 a. de zorg niet omvat: 
 
 1°. het vaccineren ten behoeve van grieppreventie; 
 
-2°. prenatale screening naar aangeboren afwijkingen, anders dan via een structureel echoscopisch onderzoek in het tweede trimester van de zwangerschap, indien de verzekerde jonger is dan 36 jaar en hiervoor geen medische indicatie heeft; 
+2°. de combinatietest, de niet-invasieve prenatale test en de invasieve diagnostiek voor zwangere vrouwen die hiervoor geen medische indicatie hebben, met dien verstande dat ingeval van een niet-invasieve prenatale test of invasieve diagnostiek onder een medische indicatie ook wordt verstaan het uit een combinatietest blijken van een aanmerkelijke kans op een foetus met een chromosoomafwijking; 
 
 3°. de vierde of volgende in-vitrofertilisatiepoging per te realiseren zwangerschap, nadat drie pogingen zijn geëindigd tussen het moment dat een follikelpunctie is geslaagd en het moment dat er sprake is van een doorgaande zwangerschap van tien weken te rekenen vanaf het moment van de follikelpunctie en indien de implantatie van gecryopreserveerde embryo’s niet heeft geleid tot een doorgaande zwangerschap van negen weken en drie dagen te rekenen vanaf de implantatie;  
 
@@ -154,7 +155,7 @@ c. transplantaties van weefsels en organen slechts tot de zorg behoren indien de
 
 ### Artikel  2.5  
 
-De geneeskundige zorg, bedoeld in artikel 2.4, eerste lid, onderdeel c, omvat tevens vergoeding van de kosten van: 
+1. De geneeskundige zorg, bedoeld in artikel 2.4, eerste lid, onderdeel c, omvat tevens vergoeding van de kosten van: 
 
 a. specialistisch geneeskundige zorg in verband met de selectie van de donor;  
 
@@ -166,22 +167,12 @@ d. de zorg waarop ingevolge dit hoofdstuk aanspraak bestaat aan de donor, gedure
 
 e. het vervoer van de donor in de laagste klasse van een openbaar middel van vervoer binnen Nederland of, indien medisch noodzakelijk, vervoer per auto binnen Nederland, in verband met de selectie, opneming en ontslag uit het ziekenhuis en met de zorg, bedoeld in onderdeel d;  
 
-f. het vervoer van en naar Nederland, van een in het buitenland woonachtige donor, in verband met transplantatie van een nier, beenmerg of lever bij een verzekerde in Nederland en overige kosten gemoeid met de transplantatie die verband houden met het wonen van de donor in het buitenland, met uitzondering van de verblijfskosten in Nederland en gederfde inkomsten.   
+f. het vervoer van en naar Nederland, van een in het buitenland woonachtige donor, in verband met transplantatie van een nier, beenmerg of lever bij een verzekerde in Nederland en overige kosten gemoeid met de transplantatie die verband houden met het wonen van de donor in het buitenland, met uitzondering van de verblijfskosten in Nederland en gederfde inkomsten.    
+2.  Indien de donor een zorgverzekering heeft afgesloten, komen de kosten van het vervoer, bedoeld in het eerste lid, onderdelen e en f, ten laste van de zorgverzekering van de donor. 
 
 ### Artikel  2.5a  
 
-1. Dyslexiezorg omvat zorg in verband met ernstige dyslexie aan kinderen van zeven jaar of ouder die basisonderwijs volgen.
-2. In afwijking van het eerste lid behoort dyslexiezorg niet tot de te verzekeren prestaties indien deze zorg aanvangt:
-
-a.in 2009: op of na het bereiken van de negenjarige leeftijd;
-
-b.in 2010: op of na het bereiken van de tienjarige leeftijd;
-
-c.in 2011: op of na het bereiken van de elfjarige leeftijd;
-
-d.in 2012: op of na het bereiken van de twaalfjarige leeftijd;
-
-e.in 2013: op of na het bereiken van de dertienjarige leeftijd.
+Zintuiglijk gehandicaptenzorg omvat multidisciplinaire zorg in verband met een visuele beperking, een auditieve beperking, of een communicatieve beperking als gevolg van een taalontwikkelingsstoornis, gericht op het leren omgaan met, het opheffen of het compenseren van de beperking, met als doel de verzekerde zo zelfstandig mogelijk te kunnen laten functioneren.
 
 ### Artikel  2.5b  
 
@@ -193,10 +184,11 @@ e.in 2013: op of na het bereiken van de dertienjarige leeftijd.
 1.  Geriatrische revalidatie omvat integrale en multidisciplinaire revalidatiezorg zoals specialisten ouderengeneeskunde die plegen te bieden in verband met kwetsbaarheid, complexe multimorbiditeit en afgenomen leer- en trainbaarheid, gericht op het dusdanig verminderen van de functionele beperkingen van de verzekerde dat terugkeer naar de thuissituatie mogelijk is.   
 2.  De geriatrische revalidatie valt slechts onder de zorg, bedoeld in het eerste lid, indien: 
 
-a. de zorg aansluit op verblijf als bedoeld in artikel 2.10 in verband met geneeskundige zorg zoals medisch-specialisten die plegen te bieden, waarbij dat verblijf niet vooraf is gegaan aan verblijf als bedoeld in artikel 9 van het Besluit zorgaanspraken AWBZ gepaard gaande met behandeling als bedoeld in artikel 8 van dat besluit in dezelfde instelling, en  
+a. de zorg binnen een week aansluit op verblijf als bedoeld in artikel 2.12 in verband met geneeskundige zorg zoals medisch-specialisten die plegen te bieden, waarbij dat verblijf niet vooraf is gegaan aan verblijf in een instelling als bedoeld in artikel 3.1.1, eerste lid, onderdeel a, van de Wet langdurige zorg gepaard gaande met behandeling als bedoeld in artikel 3.1.1, eerste lid, onderdeel c, van die wet in dezelfde instelling, en  
 
-b. de zorg bij aanvang gepaard gaat met verblijf als bedoeld in artikel 2.10.     
-3.  De duur van de geriatrische revalidatie, bedoeld in het tweede lid, bedraagt maximaal zes maanden. In bijzondere gevallen kan de zorgverzekeraar een langere periode toestaan.  
+b. de zorg bij aanvang gepaard gaat met verblijf als bedoeld in artikel 2.12.     
+3.  Het tweede lid, onderdeel a, is niet van toepassing indien er als gevolg van een acute aandoening sprake is van acute mobiliteitstoornissen of afname van zelfredzaamheid en waar sprake is van voorafgaande medisch-specialistische zorg voor deze aandoening.  
+4.  De duur van de geriatrische revalidatie, bedoeld in het eerste lid, bedraagt maximaal zes maanden. In bijzondere gevallen kan de zorgverzekeraar een langere periode toestaan.  
 
 ### Artikel  2.6  
 
@@ -296,18 +288,28 @@ b. vergoeding van bij die regeling aangewezen kosten in verband met thuisdialyse
 
 ### Artikel  2.10  
 
-1.  Verblijf omvat verblijf gedurende een ononderbroken periode van ten hoogste 365 dagen, dat medisch noodzakelijk is in verband met de geneeskundige zorg, bedoeld in artikel 2.4, of in verband met chirurgische tandheelkundige hulp van specialistische aard als bedoeld in artikel 2.7, al dan niet gepaard gaande met verpleging, verzorging of paramedische zorg.   
-2.  Een onderbreking van ten hoogste dertig dagen wordt niet als onderbreking beschouwd, maar deze dagen tellen niet mee voor de berekening van de 365 dagen.   
-3.  In afwijking van het tweede lid tellen onderbrekingen wegens weekend- en vakantieverlof mee voor de berekening van de 365 dagen.  
+1.  Verpleging en verzorging omvat zorg zoals verpleegkundigen die plegen te bieden, waarbij die zorg: 
+
+a. verband houdt met de behoefte aan de geneeskundige zorg, bedoeld in artikel 2.4, of een hoog risico daarop,  
+
+b. niet gepaard gaat met verblijf als bedoeld in artikel 2.12, en  
+
+c. geen kraamzorg als bedoeld in artikel 2.11 betreft.     
+2.  Onder de zorg, bedoeld in het eerste lid, valt niet verzorging van verzekerden tot achttien jaar, tenzij er sprake is van verzorging vanwege complexe somatische problematiek of vanwege een lichamelijke handicap, waarbij: 
+
+a. sprake is van behoefte aan permanent toezicht, of  
+
+b. vierentwintig uur per dag zorg in de nabijheid beschikbaar moet zijn en die zorg gepaard gaat met een of meer specifieke verpleegkundige handelingen.    
 
 ### Artikel  2.11  
 
-1. Naast de in artikel 2.10 bedoelde verpleging, omvat verpleging tevens zorg zoals verpleegkundigen die plegen te bieden, zonder dat die zorg gepaard gaat met verblijf, en die noodzakelijk is in verband met medisch-specialistische zorg. 
-2. De zorg, bedoeld in het eerste lid, omvat niet verpleging die noodzakelijk is in verband met thuisbeademing of die noodzakelijk is in verband met palliatieve terminale zorg.
+Kraamzorg omvat zorg zoals kraamverzorgenden die plegen te bieden aan moeder en kind in verband met een bevalling, gedurende ten hoogste tien dagen, te rekenen vanaf de dag van bevalling.
 
 ### Artikel  2.12  
 
-Naast de in artikel 2.10 bedoelde verzorging, omdat verzorging tevens zorg zoals kraamverzorgenden die plegen te bieden aan moeder en kind in verband met een bevalling, gedurende ten hoogste tien dagen, te rekenen vanaf de dag van bevalling. 
+1.  Verblijf omvat verblijf gedurende een onafgebroken periode van ten hoogste 1.095 dagen, dat medisch noodzakelijk is in verband met de geneeskundige zorg, bedoeld in artikel 2.4, of in verband met chirurgische tandheelkundige hulp van specialistische aard als bedoeld in artikel 2.7, al dan niet gepaard gaande met verpleging, verzorging of paramedische zorg.   
+2.  Een onderbreking van ten hoogste dertig dagen wordt niet als onderbreking beschouwd, maar deze dagen tellen niet mee voor de berekening van de 1.095 dagen.   
+3.  In afwijking van het tweede lid tellen onderbrekingen wegens weekend- en vakantieverlof mee voor de berekening van de 1.095 dagen.  
 
 ### Artikel  2.13  
 
@@ -315,13 +317,13 @@ Naast de in artikel 2.10 bedoelde verzorging, omdat verzorging tevens zorg zoals
 
 a. naar een persoon bij wie of een instelling waarin hij zorg zal ontvangen waarvan de kosten geheel of gedeeltelijk ten laste van de zorgverzekering komen;  
 
-b. naar een instelling waarin hij geheel of gedeeltelijk ten laste van de bijzondere ziektekostenverzekering als bedoeld in de Algemene Wet Bijzondere Ziektekosten zal gaan verblijven;  
+b. naar een instelling waarin hij geheel of gedeeltelijk ten laste van de verzekering als bedoeld in de Wet langdurige zorg zal gaan verblijven;  
 
 c. vanuit een instelling, bedoeld in onderdeel b, naar: 
 
-1°. een persoon bij wie of een instelling waarin hij geheel of gedeeltelijk ten laste van de bijzondere ziektekostenverzekering een onderzoek of een behandeling zal ondergaan;  
+1°. een persoon bij wie of een instelling waarin hij geheel of gedeeltelijk ten laste van de verzekering als bedoeld in de Wet langdurige zorg een onderzoek of een behandeling zal ondergaan;  
 
-2°. een persoon of instelling voor het aanmeten en passen van een prothese die geheel of gedeeltelijk ten laste van de bijzondere ziektekostenverzekering wordt verstrekt;    
+2°. een persoon of instelling voor het aanmeten en passen van een prothese die geheel of gedeeltelijk ten laste van de verzekering als bedoeld in de Wet langdurige zorg wordt verstrekt;    
 
 d. naar zijn woning of een andere woning, indien hij in zijn woning redelijkerwijs niet de nodige verzorging kan krijgen, indien hij komt van een van de personen of instellingen, bedoeld in de onderdelen a, b of c.     
 2.  Indien de zorgverzekeraar een verzekerde toestemming geeft zich te wenden tot een bepaalde persoon of instelling, geldt de beperking van 200 kilometer niet.  
@@ -371,8 +373,8 @@ c. een bij die regeling te bepalen percentage van de kosten van het hulpmiddel.
 
 ### Artikel  2.16d  
 
-1.  De verzekerde betaalt voor verzorging als bedoeld in artikel 2.12, een eigen bijdrage per uur, indien het betreft verzorging ten huize van de verzekerde.   
-2.  De verzekerde en haar kind betalen ieder voor verzorging als bedoeld in artikel 2.12, die verleend wordt in een instelling zonder dat verblijf in de instelling medisch noodzakelijk is, een eigen bijdrage per dag, vermeerderd met een bij ministeriële regeling te bepalen bedrag waarmee het tarief van de instelling per dag te boven gaat.  
+1.  De verzekerde betaalt voor verzorging als bedoeld in artikel 2.11, een eigen bijdrage per uur, indien het betreft verzorging ten huize van de verzekerde.   
+2.  De verzekerde en haar kind betalen ieder voor verzorging als bedoeld in artikel 2.11, die verleend wordt in een instelling zonder dat verblijf in de instelling medisch noodzakelijk is, een eigen bijdrage per dag, vermeerderd met een bij ministeriële regeling te bepalen bedrag waarmee het tarief van de instelling per dag te boven gaat.  
 
 ### Artikel  2.16e  
 
@@ -395,9 +397,13 @@ a. verloskundige zorg en kraamzorg,
 
 b.zorg zoals huisartsen die plegen te bieden,
 
-c.zorg die wordt bekostigd met toepassing van de op grond van de Wet marktordening gezondheidszorg vastgestelde beleidsregel voor de prestatiebekostiging multidisciplinaire zorgverlening chronische aandoeningen, en
+c. zorg als bedoeld in artikel 2.10, eerste lid, 
 
-d. nacontroles van de donor nadat de periode, bedoeld in artikel 2.5, onderdeel d, is verstreken.   
+d.zorg die wordt bekostigd met toepassing van de op grond van de Wet marktordening gezondheidszorg vastgestelde beleidsregel voor de prestatiebekostiging multidisciplinaire zorgverlening chronische aandoeningen,
+
+e. nacontroles van de donor nadat de periode, bedoeld in artikel 2.5, eerste lid, onderdeel d, is verstreken, en 
+
+f. de kosten van vervoer, bedoeld in artikel 2.5, tweede lid.   
 2.  De zorgverzekeraar kan bepalen dat kosten van het gebruik van zorg en overige diensten als bedoeld in artikel 11 van de wet geheel of gedeeltelijk buiten het verplicht eigen risico vallen, indien: 
 
 a. de verzekerde zich wendt tot een door de zorgverzekeraar aangewezen zorgaanbieder, of  
@@ -542,8 +548,7 @@ Het Zorginstituut merkt voor een bij ministeriële regeling te bepalen gedeelte 
 
 ### Artikel  3.17  
 
-1.  Indien voor een zorgverzekeraar het verschil tussen enerzijds het ingevolge artikel 3.12 herberekende deelbedrag voor het cluster «variabele kosten van medisch-specialistische zorg» en anderzijds de gerealiseerde kosten voor het cluster «variabele kosten van medisch-specialistische zorg», gedeeld door het aantal bij hem ingeschreven verzekerden van achttien jaar en ouder waarop artikel 24 van de wet niet van toepassing is, meer dan € 40,00 afwijkt van het gemiddelde marktresultaat van de zorgverzekeraars voor dit cluster, calculeert het Zorginstituut de buiten de bedoelde bandbreedte liggende meer- of minderkosten voor 90 procent na.   
-2.  Indien voor een zorgverzekeraar het verschil tussen enerzijds het ingevolge artikel 3.12 herberekende deelbedrag voor het cluster «geneeskundige geestelijke gezondheidszorg» en anderzijds de gerealiseerde kosten voor het cluster «geneeskundige geestelijke gezondheidszorg», gedeeld door het aantal bij hem ingeschreven verzekerden van achttien jaar en ouder waarop artikel 24 van de wet niet van toepassing is, meer dan een bij ministeriële regeling te bepalen bedrag afwijkt van het gemiddelde marktresultaat van de zorgverzekeraars voor het cluster «geneeskundige geestelijke gezondheidszorg», calculeert het Zorginstituut de buiten de bedoelde bandbreedte liggende meer- of minderkosten voor een bij die ministeriële regeling te bepalen percentage na.  
+Indien voor een zorgverzekeraar het verschil tussen enerzijds het ingevolge artikel 3.12 herberekende deelbedrag voor het cluster «geneeskundige geestelijke gezondheidszorg» en anderzijds de gerealiseerde kosten voor het cluster «geneeskundige geestelijke gezondheidszorg», gedeeld door het aantal bij hem ingeschreven verzekerden van achttien jaar en ouder waarop artikel 24 van de wet niet van toepassing is, meer dan een bij ministeriële regeling te bepalen bedrag afwijkt van het gemiddelde marktresultaat van de zorgverzekeraars voor het cluster «geneeskundige geestelijke gezondheidszorg», calculeert het Zorginstituut de buiten de bedoelde bandbreedte liggende meer- of minderkosten voor een bij die ministeriële regeling te bepalen percentage na.
 
 ###Artikel 3.18 
 

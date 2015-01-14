@@ -31,4 +31,4 @@ N.A. Vermeulen
 
 ###Bijlage 
 
-Ligt ter inzage bij de vestigingskantoren en het hoofdkantoor van de Sociale verzekeringsbank en is gepubliceerd op www.svb.nl.
+Ligt ter inzage bij het hoofdkantoor en de locaties van de Sociale verzekeringsbank.

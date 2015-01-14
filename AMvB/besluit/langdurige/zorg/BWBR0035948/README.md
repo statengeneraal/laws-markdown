@@ -16,10 +16,7 @@ Hebben goedgevonden en verstaan:
 
 ####Algemene bepalingen
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  1.1.1  
-Treedt in werking per 01-01-2015 
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
@@ -69,27 +66,21 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ####De verzekerden
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  2.1.1  
-Treedt in werking per 01-01-2015 
 
 1.  De aanmelding, bedoeld in artikel 2.2.1, tweede lid, van de wet, geschiedt door inlevering van een volledig ingevuld en door of namens de verzekerde ondertekend formulier.   
 2.  Het Zorginstituut kan een of meer model-aanmeldingsformulieren vaststellen.  
 
 ### Artikel  2.1.2  
-Treedt in werking per 01-01-2015 
 
 1.  Terstond nadat de verzekerde is ingeschreven verstrekt de Wlz-uitvoerder hem een bewijs van inschrijving, dat de verzekerde, desverlangd, bij het tot gelding brengen van zijn recht op zorg kan overleggen.   
 2.  Het Zorginstituut kan een model vaststellen voor het bewijs van inschrijving, bedoeld in het eerste lid. Het Zorginstituut kan technische specificaties vaststellen waaraan een inschrijvingsbewijs moet voldoen als gebruik wordt gemaakt van een magneetstripkaart of een chipkaart.  
 
 ### Artikel  2.1.3  
-Treedt in werking per 01-01-2015 
 
 Indien het Zorginstituut met toepassing van artikel 35, derde lid, van de Zorgverzekeringswet zorgverzekeraars op de hoogte heeft gesteld van zijn constatering dat een verzekerde bij twee of meer zorgverzekeraars verzekerd is, is artikel 2.2.1, eerste lid, van de wet, slechts van toepassing op de oudste inschrijving bij een zorgverzekeraar. 
 
 ### Artikel  2.1.4  
-Treedt in werking per 01-01-2015 
 
 1.  De inschrijving bij een Wlz-uitvoerder, bedoeld in artikel 2.2.1, tweede en vierde lid, van de wet, geldt gedurende één kalenderjaar. Indien een inschrijving later dan per 1 januari van een jaar tot stand is gekomen, geldt de inschrijving tot en met 31 december van het volgende kalenderjaar.   
 2.  De inschrijving, bedoeld in het eerste lid, wordt na afloop van de daar bedoelde termijn, telkens met één kalenderjaar verlengd, tenzij de verzekerde vóór de dag waarop deze termijn is verstreken, schriftelijk aan de Wlz-uitvoerder heeft meegedeeld na afloop van die termijn de inschrijving niet te willen verlengen.   
@@ -100,16 +91,11 @@ Treedt in werking per 01-01-2015
 
 ####De inhoud van de verzekering
 
-Treedt in werking per 01-01-2015 
-
 ### §  1  
 
 ####Het verzekerde pakket en het recht op zorg
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  3.1.1  
-Treedt in werking per 01-01-2015 
 
 1.  De verzekerde die is aangewezen op zorg, heeft recht op samenhangende zorg behorende bij het bij de verzekerde best passende zorgprofiel. Bij ministeriële regeling worden zorgprofielen vastgesteld.   
 2.  De verzekerde heeft recht op meer zorg dan waarop hij op grond van het eerste lid recht heeft, voor zover meer zorg nodig is om te voorzien in zijn behoefte aan zorg.   
@@ -117,7 +103,6 @@ Treedt in werking per 01-01-2015
 4.  Het recht op zorg kan nader worden geregeld bij ministeriële regeling. Aan het recht op zorg, met inbegrip van het recht op meer zorg, bedoeld in het tweede lid, kunnen bij ministeriële regeling voorwaarden worden verbonden en beperkingen worden gesteld. Deze beperkingen kunnen mede betrekking hebben op gebruikelijke zorg en algemeen gebruikelijke voorzieningen.  
 
 ### Artikel  3.1.2  
-Treedt in werking per 01-01-2015 
 
 1.  Het individuele gebruik van mobiliteitshulpmiddelen, bedoeld in artikel 3.1.1, eerste lid, onderdeel e, van de wet, omvat het gebruik van bij ministeriële regeling aangewezen hulpmiddelen voor het zich verplaatsen of laten verplaatsen: 
 
@@ -127,13 +112,11 @@ b. in de lokale omgeving ten behoeve van het aangaan of onderhouden van sociale 
 2.  Bij ministeriële regeling kunnen regels worden gesteld omtrent het gebruik van hulpmiddelen, met inbegrip van regels omtrent het vereist zijn en het verkrijgen van voorafgaande toestemming van de Wlz-uitvoerder.  
 
 ### Artikel  3.1.3  
-Treedt in werking per 01-01-2015 
 
 1.  Logeeropvang als bedoeld in artikel 3.1.1, eerste lid, onderdeel g, van de wet omvat het gedurende maximaal 104 etmalen per kalenderjaar logeren in een gecontracteerde instelling.   
 2.  Indien een indicatiebesluit gedurende een deel van een kalenderjaar geldig is, wordt het maximumaantal etmalen, bedoeld in het eerste lid, berekend door het aantal weken in dat kalenderjaar gedurende welke het indicatiebesluit geldig is, te vermenigvuldigen met twee.  
 
 ### Artikel  3.1.4  
-Treedt in werking per 01-01-2015 
 
 1.  De vergoeding van een woningaanpassing, bedoeld in artikel 3.1.3 van de wet, betreft kosten voor het verrichten van aard- en nagelvaste aanpassingen aan de woning die noodzakelijk zijn in verband met het opheffen van ergonomische belemmeringen bij het verlenen van zorg in en direct rond de woning, met uitzondering van de kosten van achterstallig onderhoud.   
 2.  Als een kleinschalige wooninitiatief als bedoeld in artikel 3.1.3, eerste lid, onderdeel a, van de wet, wordt aangemerkt een woonsituatie waarbij: 
@@ -144,7 +127,6 @@ b. de bewoners verblijven op één woonadres als bedoeld in artikel 1 van de Wet
 3.  Bij ministeriële regeling kan het recht op woningaanpassingen nader worden geregeld en afhankelijk worden gesteld van daarbij te stellen voorwaarden.  
 
 ### Artikel  3.1.5  
-Treedt in werking per 01-01-2015 
 
 De verzekerde heeft geen recht op zorg ingevolge de wet indien hij: 
 
@@ -158,23 +140,18 @@ c. minderjarig is en in verband met een verstandelijke beperking is aangewezen o
 
 ####Bepalingen over indicatiebesluiten
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  3.2.1  
-Treedt in werking per 01-01-2015 
 
 1.  De aanvraag van een indicatiebesluit kan zowel mondeling als schriftelijk worden gedaan.   
 2.  Van een mondeling ingediende aanvraag maakt het CIZ een verslag waarin ten minste de in artikel 4:2 van de Algemene wet bestuursrecht bedoelde ondertekening door de verzekerde en gegevens zijn opgenomen.  
 
 ### Artikel  3.2.2  
-Treedt in werking per 01-01-2015 
 
 1.  De voorbereiding van een indicatiebesluit omvat in ieder geval een onderzoek van de verzekerde in persoon.   
 2.  Bij de beoordeling van de mate waarin een verzekerde is aangewezen op zorg betrekt het CIZ de gebruikelijke zorg en algemeen gebruikelijke voorzieningen.   
 3.  Bij ministeriële regeling kunnen regels worden gesteld over de voorbereiding van een indicatiebesluit en het onderzoek. In deze regels kan ook bepaald worden in welke gevallen het in het eerste lid bedoelde onderzoek niet hoeft plaats te vinden.  
 
 ### Artikel  3.2.3  
-Treedt in werking per 01-01-2015 
 
 Indien de verzekerde is aangewezen op zorg, vermeldt het indicatiebesluit: 
 
@@ -193,13 +170,11 @@ f. de datum met ingang waarvan hij recht heeft op zorg; en
 g. de geldigheidsduur van het indicatiebesluit.   
 
 ### Artikel  3.2.4  
-Treedt in werking per 01-01-2015 
 
 1.  Het CIZ neemt zo snel mogelijk, doch binnen zes weken na ontvangst van de aanvraag een beslissing op de aanvraag.   
 2.  Indien een verzekerde wegens bijzondere omstandigheden reeds zorg ontvangt, wordt een indicatiebesluit uiterlijk binnen twee weken genomen. Indien de verzekerde ingevolge het indicatiebesluit is aangewezen op in de wet geregelde zorg, werkt het indicatiebesluit terug tot en met de dag waarop de zorg is aangevangen.  
 
 ### Artikel  3.2.5  
-Treedt in werking per 01-01-2015 
 
 Een indicatiebesluit geldt voor onbepaalde tijd, tenzij het indicatiebesluit behoort tot een bij ministeriële regeling aangewezen categorie indicatiebesluiten waarvoor de geldigheidsduur wordt vastgesteld door het CIZ binnen de door deze regeling gestelde maximumduur. 
 
@@ -207,16 +182,12 @@ Een indicatiebesluit geldt voor onbepaalde tijd, tenzij het indicatiebesluit beh
 
 ####Eigen bijdrage algemeen
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  3.3.1.1  
-Treedt in werking per 01-01-2015 
 
 1.  De verzekerde van achttien jaar of ouder draagt bij in de kosten van de zorg.   
 2.  De eigen bijdrage is mede afhankelijk van het inkomen en het vermogen van de verzekerde en diens echtgenoot.  
 
 ### Artikel  3.3.1.2  
-Treedt in werking per 01-01-2015 
 
 1.  Het vermogen van een persoon is zijn vermogensgrondslag, bedoeld in het tweede of derde lid, waarvan de volgende vermogensbestanddelen worden afgetrokken: 
 
@@ -232,7 +203,6 @@ b. voor de toepassing van artikel 3.3.2.3, eerste lid, onderdeel c, en artikel 3
 4.  Het deel van het bedrag, bedoeld in het eerste lid, onderdeel a, dat de vermogensgrondslag van de persoon overtreft, wordt voor zijn echtgenoot als vermindering toegepast.  
 
 ### Artikel  3.3.1.3  
-Treedt in werking per 01-01-2015 
 
 1.  De verzekerde is de eigen bijdrage verschuldigd aan het CAK.   
 2.  De verzekerde betaalt de eigen bijdrage binnen dertig dagen nadat het CAK het besluit bekend heeft gemaakt waarbij vastgesteld is of en in welke omvang de verzekerde een eigen bijdrage verschuldigd is, tenzij dat besluit een later tijdstip vermeldt.   
@@ -240,19 +210,16 @@ Treedt in werking per 01-01-2015
 4.  Het CAK maakt voor de vaststelling van de eigen bijdrage gebruik van het inkomensgegeven, bedoeld in artikel 21, onderdeel e, van de Algemene wet inzake rijksbelastingen en van andere door de inspecteur, bedoeld in artikel 2, derde lid, onderdeel b, van de Algemene wet inzake rijksbelastingen, verstrekte gegevens.  
 
 ### Artikel  3.3.1.4  
-Treedt in werking per 01-01-2015 
 
 1.  Een wijziging in de burgerlijke staat van de verzekerde en het bereiken van een voor de toepassing van dit besluit van belang zijnde leeftijd door de verzekerde of zijn echtgenoot wordt in aanmerking genomen met ingang van de datum waarop de bijdrage wordt vastgesteld, met dien verstande dat bij de jaarlijkse herberekening, bedoeld in artikel 3.3.2.8, eerste lid, een verzekerde als pensioengerechtigde wordt beschouwd indien hij uiterlijk op 31 januari van het kalenderjaar waarop de herberekening betrekking heeft, de pensioengerechtigde leeftijd heeft bereikt.   
 2.  De verzekerde meldt aan het CAK wijzigingen als bedoeld in het eerste lid.  
 
 ### Artikel  3.3.1.5  
-Treedt in werking per 01-01-2015 
 
 1.  De eigen bijdrage wordt zo spoedig mogelijk vastgesteld, maar uiterlijk 24 maanden na het tijdstip waarop het CAK ervan in kennis is gesteld dat ten aanzien van de verzekerde zorg als bedoeld bij of krachtens de wet wordt verleend. De ingangsdatum van de periode waarover de eigen bijdrage is verschuldigd, wordt niet gesteld op een datum die is gelegen meer dan 36 maanden voor de dag waarop het besluit waarin de eigen bijdrage is vastgesteld, aan de verzekerde is verzonden.   
 2.  Indien het CAK heeft verzuimd de eigen bijdrage vast te stellen binnen de in het eerste lid bedoelde termijn, kan de eigen bijdrage op een later tijdstip alsnog worden vastgesteld, met dien verstande dat de ingangsdatum van de periode waarover de eigen bijdrage door de verzekerde moet worden betaald, niet wordt gesteld op een datum die is gelegen meer dan 24 maanden voor de dag waarop het besluit waarin de eigen bijdrage is vastgesteld, aan de verzekerde is verzonden.  
 
 ### Artikel  3.3.1.6  
-Treedt in werking per 01-01-2015 
 
 1.  De eigen bijdrage wordt herzien uiterlijk 24 maanden na het tijdstip waarop het CAK in kennis is gesteld van de omstandigheid die aanleiding geeft tot de wijziging. De ingangsdatum van de periode waarover de herziene eigen bijdrage is verschuldigd, wordt niet gesteld op een datum die is gelegen meer dan 36 maanden voor de dag waarop het besluit waarin de eigen bijdrage is herzien, aan de verzekerde is verzonden.   
 2.  De herziene eigen bijdrage wordt voor zover mogelijk verrekend met de eerder vastgestelde bijdrage.   
@@ -260,7 +227,6 @@ Treedt in werking per 01-01-2015
 4.  Voor zover de bevoegdheid tot herziening van de eigen bijdrage over een periode is vervallen op grond van het eerste lid, wordt de over die periode eerder vastgestelde eigen bijdrage van rechtswege definitief.  
 
 ### Artikel  3.3.1.7  
-Treedt in werking per 01-01-2015 
 
 1.  Bij ministeriële regeling worden de bedragen, genoemd in de artikelen 3.3.2.1, tweede lid, 3.3.2.2, derde en vierde lid, 3.3.2.4, tweede en vierde lid, 3.3.3.1, eerste lid en tweede lid, voor zover het betreft de in dat lid genoemde bedragen per bijdrageperiode, en 3.3.3.2, tweede en vierde lid, jaarlijks gewijzigd aan de hand van de prijsindex voor de gezinsconsumptie. De berekende bedragen worden naar beneden afgerond op een veelvoud van € 0,2. Bij de jaarlijkse toepassing van de eerste zin wordt de afronding buiten beschouwing gelaten.   
 2.  Bij ministeriële regeling wordt het bedrag, genoemd in artikel 3.3.1.2, eerste lid, onderdeel b, jaarlijks gewijzigd aan de hand van het indexcijfer waarmee het bedrag, genoemd in artikel 5.5 van de Wet inkomstenbelasting 2001, jaarlijks wordt gewijzigd.   
@@ -270,10 +236,7 @@ Treedt in werking per 01-01-2015
 
 ####Eigen bijdrage voor zorg met verblijf in een instelling, volledig pakket thuis en persoonsgebonden budget
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  3.3.2.1  
-Treedt in werking per 01-01-2015 
 
 1.  De eigen bijdrage bedraagt per maand een twaalfde gedeelte van het bijdrageplichtig inkomen, berekend volgens artikel 3.3.2.3, voor: 
 
@@ -286,7 +249,6 @@ c. de gehuwde verzekerde die in een instelling verblijft en wiens echtgenoot ver
 3.  In het geval, bedoeld in het eerste lid, onderdeel c, zijn de verzekerde en zijn echtgenoot tezamen slechts eenmaal de eigen bijdrage, berekend overeenkomstig het eerste en tweede lid, verschuldigd.  
 
 ### Artikel  3.3.2.2  
-Treedt in werking per 01-01-2015 
 
 1.  In afwijking van artikel 3.3.2.1 geldt een eigen bijdrage per maand van 12,5% van het bijdrageplichtig inkomen, berekend volgens artikel 3.3.2.4 voor: 
 
@@ -327,7 +289,6 @@ c. het verblijf aanvangt binnen zes maanden na beëindiging van een verblijf in 
 7.  Op aanvraag van de verzekerde is de eigen bijdrage niet verschuldigd indien de verzekerde een uitkering als bedoeld in artikel 23, eerste lid, van de Participatiewet ontvangt of indien hij op grond van artikel 13, tweede lid, onderdeel a, van die wet geen uitkering ontvangt.  
 
 ### Artikel  3.3.2.3  
-Treedt in werking per 01-01-2015 
 
 1.  Het bijdrageplichtig inkomen, bedoeld in artikel 3.3.2.1, eerste lid, wordt als volgt berekend: 
 
@@ -348,7 +309,6 @@ c. het met toepassing van onderdeel b berekende bedrag wordt vermeerderd met 8% 
 5.  Inkomen dat buiten Nederland wordt belast, dan wel is vrijgesteld van belasting op grond van bepalingen van internationaal recht, wordt mede in aanmerking genomen als ware dit aan de Nederlandse belastingwetgeving onderworpen. Op aanvraag van de verzekerde wordt daarop de in het buitenland verschuldigde belasting in mindering gebracht.  
 
 ### Artikel  3.3.2.4  
-Treedt in werking per 01-01-2015 
 
 1.  Voor de berekening van de eigen bijdrage, bedoeld in artikel 3.3.2.2, eerste en tweede lid, bestaat het bijdrageplichtig inkomen uit het inkomen over het peiljaar van de ongehuwde verzekerde, onderscheidenlijk van de gehuwde verzekerden tezamen, vermeerderd met 8% van het vermogen van de ongehuwde verzekerde, onderscheidenlijk 8% van de opgetelde vermogens van de gehuwde verzekerden.   
 2.  Op aanvraag van de verzekerde stelt het CAK, in afwijking van het eerste lid, het bijdrageplichtig inkomen voorlopig vast op grond van het inkomen en het vermogen van het lopende jaar, indien redelijkerwijs te verwachten is dat het bijdrageplichtig inkomen in het lopende jaar ten minste € 2.540 lager zal zijn dan het bijdrageplichtig inkomen, bedoeld in het eerste lid, dan wel indien de verzekerde algemene bijstand op grond van de Participatiewet ontvangt.   
@@ -357,32 +317,27 @@ Treedt in werking per 01-01-2015
 5.  Inkomen dat in het buitenland wordt belast, dan wel is vrijgesteld van belasting op grond van bepalingen van internationaal recht, wordt mede in aanmerking genomen als ware dit aan de Nederlandse belastingwetgeving onderworpen. Op aanvraag van de verzekerde wordt daarop de in het buitenland verschuldigde belasting in mindering gebracht.  
 
 ### Artikel  3.3.2.5  
-Treedt in werking per 01-01-2015 
 
 1.  Voor de berekening van het bijdrageplichtig inkomen over het jaar waarin een verzekerde of zijn echtgenoot voor het eerst inkomen geniet wordt, in afwijking van artikel 3.3.2.3, eerste lid, onderdeel a, of artikel 3.3.2.4, eerste lid, uitgegaan van het inkomen dat de verzekerde of zijn echtgenoot over het desbetreffende kalenderjaar naar verwachting zal genieten, alsmede van het te verwachten vermogen van dat kalenderjaar, verminderd met de naar verwachting over dat kalenderjaar verschuldigde of ingehouden belasting.   
 2.  Voor de berekening van het bijdrageplichtig inkomen over het jaar volgende op het jaar waarin een verzekerde of zijn echtgenoot voor het eerst inkomen geniet, wordt, in afwijking van artikel 3.3.2.3, eerste lid, onderdeel a, of artikel 3.3.2.4, eerste lid, uitgegaan van het inkomen dat de verzekerde of zijn echtgenoot over het dan lopende kalenderjaar naar verwachting zal genieten, alsmede van het te verwachten vermogen van dat kalenderjaar, verminderd met de naar verwachting over dat kalenderjaar verschuldigde of ingehouden belasting.   
 3.  Voor de berekening van het bijdrageplichtig inkomen over het tweede jaar volgend op het jaar waarin een verzekerde of zijn echtgenoot voor het eerst inkomen geniet, wordt uitgegaan van de in het tweede lid bedoelde bedragen.  
 
 ### Artikel  3.3.2.6  
-Treedt in werking per 01-01-2015 
 
 1.  Indien artikel 3.3.2.3, tweede lid, of artikel 3.3.2.5, eerste of tweede lid, voor zover het betreft de afwijking van artikel 3.3.2.3, eerste lid, van toepassing is, worden, in afwijking van artikel 3.3.2.3, eerste lid, onderdeel b, subonderdeel 2, twaalf maal het in het lopende kalenderjaar geldende bedrag voor zak- en kleedgeld, de in het lopende kalenderjaar te betalen premies voor een zorgverzekering gecorrigeerd voor de zorgtoeslag en, indien van toepassing, de algemene korting voor wie de pensioensgerechtigde leeftijd nog niet heeft bereikt onderscheidenlijk de algemene korting voor wie de pensioengerechtigde leeftijd heeft bereikt, alsmede extra vrijlatingen als bedoeld in artikel 3.3.2.3, eerste lid, onderdeel b, subonderdeel 2, in mindering gebracht.   
 2.  Indien artikel 3.3.2.5, eerste lid, voor zover het betreft de afwijking van artikel 3.3.2.3, eerste lid, van toepassing is en de werkzaamheden in de loop van het kalenderjaar aanvangen, worden de bedragen, bedoeld in artikel 3.3.2.3, eerste lid, onderdeel b, naar rato van het deel van het kalenderjaar waarover de inkomsten worden verworven, in mindering gebracht.  
 
 ### Artikel  3.3.2.7  
-Treedt in werking per 01-01-2015 
 
 1.  Indien ten aanzien van de ongehuwde of gehuwde verzekerden geen gegevens inzake het inkomen of de grondslag sparen en beleggen beschikbaar zijn, wordt de eigen bijdrage vastgesteld op het minimumbedrag, genoemd in artikel 3.3.2.2, derde lid.   
 2.  Indien na de vaststelling van de eigen bijdrage uit alsnog beschikbaar gekomen gegevens inzake het inkomen of de grondslag sparen en beleggen of uit een wijziging van deze gegevens, blijkt dat de eigen bijdrage op een te hoog of te laag bedrag is vastgesteld, herziet het CAK de eigen bijdrage met inachtneming van de beschikbaar gekomen gegevens dan wel van die wijziging.  
 
 ### Artikel  3.3.2.8  
-Treedt in werking per 01-01-2015 
 
 1.  De hoogte van de eigen bijdrage wordt jaarlijks opnieuw berekend voor de periode van de eerste dag van januari tot en met de eenendertigste dag van de daaropvolgende maand december.   
 2.  In afwijking van artikel 3.3.2.7, eerste lid, geldt, indien het inkomen bij de jaarlijkse herberekening nog moet worden vastgesteld, als eigen bijdrage, de eigen bijdrage die over de laatste maand in het vorige kalenderjaar verschuldigd was.  
 
 ### Artikel  3.3.2.9  
-Treedt in werking per 01-01-2015 
 
 1.  Bij de berekening van de eigen bijdrage wordt afwezigheid uit de instelling, anders dan in verband met beëindiging van de zorgverlening, buiten beschouwing gelaten   
 2.  Over een gedeelte van een maand is de eigen bijdrage gelijk aan het vastgestelde bedrag per maand, vermenigvuldigd met twaalf maal het aantal dagen waarover de bijdrage binnen die maand verschuldigd is en gedeeld door 365.   
@@ -392,10 +347,7 @@ Treedt in werking per 01-01-2015
 
 ####Eigen bijdrage voor modulair pakket thuis
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  3.3.3.1  
-Treedt in werking per 01-01-2015 
 
 1.  De eigen bijdrage bedraagt € 14,20 per uur of, indien de zorg wordt verleend in groepsverband, per dagdeel van maximaal vier uur, voor de verzekerde die een modulair pakket thuis ontvangt. Indien er sprake is van zorgverlening, niet zijnde zorg in groepsverband, gedurende een deel van een uur, wordt de eigen bijdrage naar evenredigheid berekend.   
 2.  De eigen bijdrage, bedoeld in het eerste lid, bedraagt: 
@@ -422,7 +374,6 @@ b. door de verzekerde over de bijdrageperiode waarin hij of zijn echtgenoot twee
 c. inden de zorgverzekeraar, na advies van een instelling voor algemeen maatschappelijk werk, de Raad voor de kinderbescherming of het AMHK, van oordeel is dat de verschuldigdheid van de bijdrage kan leiden tot mishandeling, verwaarlozing of ernstige schade voor de opvoeding of ontwikkeling van een minderjarige door de ouder, bedoeld in artikel 1.1. van de Jeugdwet.    
 
 ### Artikel  3.3.3.2  
-Treedt in werking per 01-01-2015 
 
 1.  Het bijdrageplichtig inkomen, bedoeld in artikel 3.3.3.1, tweede lid, bedraagt het inkomen over het peiljaar van de ongehuwde verzekerde, onderscheidenlijk van de gehuwde verzekerden tezamen, vermeerderd met 8% van het vermogen van de ongehuwde verzekerde, onderscheidenlijk 8% van de opgetelde vermogens van de gehuwde verzekerden.   
 2.  Op aanvraag van de verzekerde stelt het CAK, in afwijking van het eerste lid, het bijdrageplichtig inkomen voorlopig vast op basis van het redelijkerwijs gedurende het lopende kalenderjaar te verwachten inkomen en 8% van het te verwachten vermogen in het lopende jaar, indien het bijdrageplichtig inkomen in het lopende jaar ten minste € 2.540 lager zal zijn dan het bijdrageplichtig inkomen, bedoeld in het eerste lid.   
@@ -431,13 +382,11 @@ Treedt in werking per 01-01-2015
 5.  Inkomen dat in het buitenland wordt belast, dan wel is vrijgesteld van belasting op grond van bepalingen van internationaal recht, wordt mede in aanmerking genomen als ware dit aan de Nederlandse belastingwetgeving onderworpen. Op aanvraag van de verzekerde wordt daarop de in het buitenland verschuldigde belasting in mindering gebracht.  
 
 ### Artikel  3.3.3.3  
-Treedt in werking per 01-01-2015 
 
 1.  Indien ten aanzien van de ongehuwde of gehuwde verzekerden geen gegevens inzake het inkomen of de grondslag sparen en beleggen beschikbaar zijn, wordt de eigen bijdrage vastgesteld op het bedrag per bijdrageperiode, genoemd in artikel 3.3.3.2, tweede lid.   
 2.  Indien na de vaststelling van de eigen bijdrage uit alsnog beschikbaar gekomen gegevens inzake het inkomen of de grondslag sparen en beleggen, of uit een wijziging van deze gegevens, blijkt dat de eigen bijdrage op een te hoog of te laag bedrag is vastgesteld, herziet het CAK de bijdrage met inachtneming van de beschikbaar gekomen gegevens dan wel van die wijziging.  
 
 ### Artikel  3.3.3.4  
-Treedt in werking per 01-01-2015 
 
 1.  De hoogte van de maximale eigen bijdrage per bijdrageperiode welke op grond van artikel 3.3.3.1, tweede lid, verschuldigd is, wordt jaarlijks opnieuw berekend voor de periode van de eerste dag van januari tot en met de eenendertigste dag van de daaropvolgende maand december.   
 2.  In afwijking van artikel 3.3.3.3, eerste lid, geldt, indien het inkomen bij de jaarlijkse herberekening nog moet worden vastgesteld, als eigen bijdrage, de eigen bijdrage die over de laatste maand in het vorige kalenderjaar verschuldigd was.  
@@ -446,21 +395,16 @@ Treedt in werking per 01-01-2015
 
 ####Wachttijd
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  3.4.1  
-Treedt in werking per 01-01-2015 
 
 Degene die, komend van buiten Nederland, in Nederland is gaan wonen en als gevolg daarvan verzekerd is geworden in de zin van de wet, heeft gedurende de eerste twaalf maanden na het tijdstip waarop hij zich in Nederland heeft gevestigd, geen recht op zorg indien hij op dat tijdstip reeds op de desbetreffende zorg is aangewezen, dan wel indien de gezondheidstoestand van betrokkene kennelijk moest doen verwachten, dat hij binnen een half jaar op de desbetreffende zorg zou zijn aangewezen. 
 
 ### Artikel  3.4.2  
-Treedt in werking per 01-01-2015 
 
 1.  In afwijking van artikel 3.4.1 bedraagt voor de daar bedoelde verzekerde die in Nederland is gaan wonen binnen twaalf jaar nadat zijn verzekering ingevolge de wet of de Algemene Wet Bijzondere Ziektekosten laatstelijk is geëindigd of, indien het een minderjarige betreft, de verzekering ingevolge de wet dan wel de Algemene Wet Bijzondere Ziektekosten van zijn wettelijk vertegenwoordiger laatstelijk is geëindigd, de periode gedurende welke hij geen recht op de in artikel 3.4.1 bedoelde zorg heeft, een aantal maanden overeenkomend met het aantal volle jaren liggende tussen het tijdstip van vestiging in Nederland en het einde van het laatste tijdvak van verzekering ingevolge de wet dan wel de Algemene Wet Bijzondere Ziektekosten.   
 2.  Indien de verzekerde, bedoeld in het eerste lid, in die periode van twaalf jaar ten laste van Nederland recht heeft gehad op verstrekkingen met toepassing van een Verordening van de Raad van de Europese gemeenschappen of van een verdrag inzake sociale zekerheid waarbij Nederland partij is, wordt het aantal volle jaren gedurende welke hij dat recht ten laste van Nederland had, in mindering gebracht op de periode, bedoeld in het eerste lid.  
 
 ### Artikel  3.4.3  
-Treedt in werking per 01-01-2015 
 
 De artikelen 3.4.1 en 3.4.2 zijn niet van toepassing op: 
 
@@ -474,20 +418,15 @@ c. personen die tot de dag voorafgaand aan het tijdstip waarop zij verzekerd zij
 
 ####Zorg in natura
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  3.5.1  
-Treedt in werking per 01-01-2015 
 
 In een besluit tot het verlenen van een modulair pakket thuis, drukt de Wlz-uitvoerder het recht op zorg van de verzekerde uit in modules, die bij ministeriële regeling per zorgprofiel worden vastgesteld. 
 
 ### Artikel  3.5.2  
-Treedt in werking per 01-01-2015 
 
 Bij ministeriële regeling kunnen regels worden gesteld over de berekening van de maximumkosten van een modulair pakket thuis, bedoeld in artikel 3.3.2, vierde lid, onderdeel b, van de wet en over de bestanddelen van de kosten die daarbij buiten beschouwing dienen te blijven. 
 
 ### Artikel  3.5.3  
-Treedt in werking per 01-01-2015 
 
 Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de aanvraag, de verlening of de weigering van een modulair pakket thuis of een volledig pakket thuis. 
 
@@ -495,15 +434,11 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking to
 
 ####Persoonsgebonden budget
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  3.6.1  
-Treedt in werking per 01-01-2015 
 
 Een persoonsgebonden budget wordt per kalenderjaar verstrekt. 
 
 ### Artikel  3.6.2  
-Treedt in werking per 01-01-2015 
 
 1.  Het zorgkantoor verleent geen persoonsgebonden budget indien: 
 
@@ -517,7 +452,6 @@ d. de verzekerde, gelet op de door hem verstrekte gegevens of bescheiden, voorne
 2.  Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de verlening of weigering van een persoonsgebonden budget.  
 
 ### Artikel  3.6.3  
-Treedt in werking per 01-01-2015 
 
 Een persoonsgebonden budget bedraagt ten hoogste een bij ministeriële regeling bepalen bedrag. Bij deze regeling kunnen nadere regels worden gesteld omtrent de: 
 
@@ -528,7 +462,6 @@ b. vermeerdering van het bedrag voor verzekerden die wonen in een kleinschalig w
 c. de hoogte van het bedrag indien de verzekerde naast het persoonsgebonden budget ook een modulair pakket thuis ontvangt of wenst te ontvangen.   
 
 ### Artikel  3.6.4  
-Treedt in werking per 01-01-2015 
 
 1.  De verzekerde sluit een schriftelijke overeenkomst met iedere zorgaanbieder of mantelzorger die hij ten laste van zijn persoongebonden budget zorg wenst te laten verlenen. Bij ministeriële regeling kan worden bepaald dat de overeenkomst overeenstemt met een daarvoor door de Sociale verzekeringsbank vast te stellen model.   
 2.  De verzekerde laat de betalingen verrichten door de Sociale verzekeringsbank.   
@@ -536,7 +469,6 @@ Treedt in werking per 01-01-2015
 3.  De overeenkomst, bedoeld in het eerste lid, behoeft de goedkeuring van het zorgkantoor en de Sociale verzekeringsbank. De goedkeuring kan slechts worden onthouden wegens strijd met het recht of het belang van de uitvoerbaarheid van het persoonsgebonden budget en van het budgetbeheer, bedoeld in artikel 3.3.3, zevende lid, van de wet.  
 
 ### Artikel  3.6.5  
-Treedt in werking per 01-01-2015 
 
 1.  Bij ministeriële regeling worden maximumtarieven vastgesteld voor de verlening van zorg die vanuit het persoonsgebonden budget kunnen worden bekostigd.   
 2.  De in het eerste lid bedoelde tarieven worden vastgesteld voor zorg die geleverd wordt door: 
@@ -554,7 +486,6 @@ b. een andere zorgaanbieder dan een zorgaanbieder als bedoeld in onderdeel a of 
 4.  Indien onderdeel a en onderdeel b, van het tweede lid, gelijktijdig van toepassing zijn op een mantelzorger, dan geldt het tarief voor mantelzorgers bedoeld in het tweede lid, onderdeel b.  
 
 ### Artikel  3.6.6  
-Treedt in werking per 01-01-2015 
 
 1.  De Sociale verzekeringsbank verricht ten behoeve van de verzekerde uitsluitend betalingen uit het persoonsgebonden budget en voert het budgetbeheer: 
 
@@ -568,7 +499,6 @@ d. ter verkrijging door de verzekerde van gelden voor het verrichten van betalin
 2.  Bij ministeriële regeling worden regels gesteld omtrent het staken van betaling door de Sociale verzekeringsbank. Deze regels zullen in ieder geval betrekking hebben op betalingen in strijd met wettelijke voorschriften, in strijd met beschikkingen omtrent het persoonsgebonden budget of in strijd met overeenkomsten, bedoeld in het eerste lid.  
 
 ### Artikel  3.6.7  
-Treedt in werking per 01-01-2015 
 
 Bij ministeriële regeling kunnen regels worden gesteld in het belang van een goede uitvoering van het persoonsgebonden budget. Deze regels kunnen mede betrekking hebben op: 
 
@@ -586,10 +516,7 @@ f. de uitvoering door de Sociale verzekeringsbank van het budgetbeheer, de werkg
 
 ####Levering buiten Nederland
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  3.7.1  
-Treedt in werking per 01-01-2015 
 
 1.  Aan een verzekerde wordt een vergoeding verstrekt voor kosten van zorg, indien die zorg buiten Nederland is verleend en anders dan op de in artikel 3.3.1, eerste of tweede lid, van de wet omschreven wijze is verkregen als gevolg van de navolgende omstandigheden: 
 
@@ -610,7 +537,6 @@ f.  *spoedeisende zorg bij tijdelijk verblijf:* een verzekerde die gedurende een
 5.  De verzekerde heeft gedurende het reizen of het tijdelijk verblijven buiten Nederland geen recht op zorg of op een vergoeding van de kosten daarvan, indien de zorg aan de verzekerde wordt verleend door een instelling in de zin van de Wet toelating zorginstellingen.  
 
 ### Artikel  3.7.2  
-Treedt in werking per 01-01-2015 
 
 1.  De verzekerde kan een aan hem verleend persoonsgebonden budget voor ten hoogste dertien weken per kalenderjaar tijdens verblijf buiten Nederland gebruiken voor betaling van zorg, indien die zorg is verkregen als voortzetting van reeds binnen Nederland aangevangen zorg.   
 2.  In afwijking van het eerste lid kan de verzekerde voor ten hoogste een jaar tijdens verblijf buiten Nederland een persoonsgebonden budget gebruiken voor betaling van voortzetting van palliatief terminale zorg.   
@@ -631,16 +557,11 @@ E: het voor het desbetreffende land ministeriële regeling vastgestelde aanvaard
 
 ####De wlz-uitvoerders
 
-Treedt in werking per 01-01-2015 
-
 ### §  1  
 
 ####De aan- en afmelding en de statuten
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  4.1.1  
-Treedt in werking per 01-01-2015 
 
 1.  Ten behoeve van de beoordeling, bedoeld in artikel 4.1.1, vierde lid, van de wet, gaat de zorgautoriteit ten minste na of de rechtspersoon die de wet wenst te gaan uitvoeren voldoet aan de volgende eisen: 
 
@@ -664,7 +585,6 @@ h. gegeven de verwachte beheerskosten die de rechtspersoon als Wlz-uitvoerder za
 4.  De zorgautoriteit is bevoegd nadere regels te stellen omtrent de inhoud van het programma van werkzaamheden.  
 
 ### Artikel  4.1.2  
-Treedt in werking per 01-01-2015 
 
 1.  De zorgautoriteit stelt vast of de Wlz-uitvoerder er zorg voor heeft gedragen dat de geschiktheid en de betrouwbaarheid van personen als bedoeld in artikel 4.1.1, vijfde lid, van de wet buiten twijfel staat, op basis van de voornemens, handelingen en antecedenten van deze personen.   
 2.  De Wlz-uitvoerder neemt voor de beoordeling van de geschiktheid van een persoon als bedoeld in artikel 4.1.1, vijfde lid, van de wet in ieder geval in aanmerking de opleiding, werkervaring en competenties van deze persoon, alsmede zijn kennis van de financiële sector in het algemeen en van de maatschappelijke functies van de Wlz-uitvoerder en de risico’s die daarbij gelopen worden in het bijzonder, aan de hand van ten minste: 
@@ -718,10 +638,7 @@ c. de overige belangen van de Wlz-uitvoerder en de betrokkene.
 
 ####Regels ten behoeve van de aanwijzing, bedoeld in artikel 4.2.4, tweede lid, Wlz
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  4.2.1  
-Treedt in werking per 01-01-2015 
 
 1.  De regio’s, bedoeld in artikel 4.2.4, tweede lid, van de wet zijn: 
 
@@ -791,7 +708,6 @@ Treedt in werking per 01-01-2015
 2.  Bij ministeriële regeling wordt bepaald welke gemeenten tot welke regio behoren.  
 
 ### Artikel  4.2.2  
-Treedt in werking per 01-01-2015 
 
 1.  De administratieve werkzaamheden die een op grond van artikel 4.2.4 van de wet aangewezen Wlz-uitvoerder verricht, betreffen: 
 
@@ -804,10 +720,7 @@ b. het bevorderen van het administratieve contact tussen de zorgaanbieders in di
 
 ####Uitbestedingsverbod
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  4.3.1  
-Treedt in werking per 01-01-2015 
 
 Een Wlz-uitvoerder besteedt de uitvoering van artikel 4.2.1, eerste lid, onderdelen a, en b, onder 2° en 3°, van de wet, middellijk noch onmiddellijk uit aan een zorgaanbieder. 
 
@@ -815,16 +728,11 @@ Een Wlz-uitvoerder besteedt de uitvoering van artikel 4.2.1, eerste lid, onderde
 
 ####Het het zorginstituut en het ciz
 
-Treedt in werking per 01-01-2015 
-
 ### §  1  
 
 ####Zorginstituut
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  5.1.1  
-Treedt in werking per 01-01-2015 
 
 1.  Het Zorginstituut voert ten behoeve van de gezamenlijke zorg voor de instandhouding van het elektronisch gegevensverkeer, bedoeld in artikel 9.1.6 van de wet, de volgende beheertaken uit: 
 
@@ -838,10 +746,7 @@ b. het beheer van de standaarden, bedoeld in onderdeel a.
 
 ####Neventaken CIZ
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  5.2.1  
-Treedt in werking per 01-01-2015 
 
 1.  Het CIZ beoordeelt of een verzekerde op grond van artikel 10.1.4, van de wet, in aanmerking komt voor ADL-assistentie.   
 2.  Het CIZ beoordeelt of een verzekerde in aanmerking komt voor de vormen van zorg, bedoeld in artikel 11.1.5, eerste lid, van de wet.   
@@ -851,7 +756,6 @@ Treedt in werking per 01-01-2015
 6.  Indien daartoe aanleiding bestaat, verzoekt het CIZ de zorgvrager, bedoeld in het vierde lid, zich te behoeve van het onderzoek in persoon te melden. De daaraan verbonden reis- en verblijfskosten zijn voor rekening van de zorgvrager.  
 
 ### Artikel  5.2.2  
-Treedt in werking per 01-01-2015 
 
 1.  Het CIZ wordt, voor zover het betreft opneming en verder verblijf in een verpleeg- of zwakzinnigeninrichting als bedoeld in artikel 1, eerste lid, onder h, van de Wet bijzondere opnemingen in psychiatrische ziekenhuizen, aangewezen als commisssie als bedoeld in artikel 60, derde lid, van die wet.   
 2.  Voordat het CIZ een besluit neemt waaruit blijkt dat opneming en verder verblijf in een instelling als bedoeld in het eerste lid noodzakelijk is, wordt de zorgvrager, tenzij gebleken is dat hij de nodige bereidheid bezit tot zodanige opneming en verder verblijf, schriftelijk en mondeling medegedeeld dat hij bedenkingen kan inbrengen tegen de opneming en het verdere verblijf.   
@@ -864,7 +768,6 @@ b. de omstandigheden die meebrengen dat hij zich ten gevolge van die stoornis ni
 c. de wijze waarop aan hem is meegedeeld dat hij bedenkingen kan inbrengen tegen de opneming en het verdere verblijf en zijn reactie daarop.    
 
 ### Artikel  5.2.3  
-Treedt in werking per 01-01-2015 
 
 Het verbod op mandaatverlening, bedoeld in artikel 7.1.2, vierde lid, van de wet, geldt niet voor door Onze Minister aangewezen organisaties die voor 1 januari 2015 experimenten uitvoerden met regelarme indicatiestelling. 
 
@@ -872,10 +775,7 @@ Het verbod op mandaatverlening, bedoeld in artikel 7.1.2, vierde lid, van de wet
 
 ####Zorgplanbespreking
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  6.1.1  
-Treedt in werking per 01-01-2015 
 
 Bij de bespreking, bedoeld in artikel 8.1.1, eerste lid, van de wet, tussen de zorgaanbieder en de verzekerde die zijn zorg geleverd wenst te krijgen in natura over de wijze waarop de verzekerde zijn leven wenst in te richten en de ondersteuning die de verzekerde daarbij van de zorgaanbieder zal ontvangen, wordt in ieder geval aandacht besteed aan: 
 
@@ -901,10 +801,7 @@ i. ontwikkeling en ontplooiing van de verzekerde waaronder, in geval van deelnam
 
 ####Overige bepalingen
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  7.1.1  
-Treedt in werking per 01-01-2015 
 
 1.  Het Zorginstituut verstrekt aan organisaties subsidies voor het verlenen van ADL-assistentie voor zover die organisaties de ADL-assistentie verlenen aan verzekerden die woonachtig zijn in ADL-woningen.   
 2.  De organisaties, bedoeld in het eerste lid, verlenen ADL-assistentie aan verzekerden volgens een door het CIZ genomen besluit als bedoeld in artikel 5.2.1, eerste lid.   
@@ -923,21 +820,15 @@ d. die voldoende sociaal zelfredzaam zijn om zelfstandig te wonen en om zelfstan
 
 ####Aanpassing van andere algemene maatregelen van bestuur
 
-Treedt in werking per 01-01-2015 
-
 ### §  1  
 
 ####Volksgezondheid, Welzijn en Sport
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  8.1.1  
-Treedt in werking per 01-01-2015 
 
 Wijzigt het Besluit beschikbaarheidbijdrage WMG. 
 
 ### Artikel  8.1.2  
-Treedt in werking per 01-01-2015 
 
 Wijzigt het Besluit uitbreiding en beperking werkingssfeer WMG. 
 
@@ -947,32 +838,26 @@ Treedt in werking op een nader te bepalen tijdstip
 Wijzigt het Uitvoeringsbesluit WTZi. 
 
 ### Artikel  8.1.4  
-Treedt in werking per 01-01-2015 
 
 Wijzigt het Uitvoeringsbesluit artikel 1, tweede lid, Kwaliteitswet zorginstellingen, enz. 
 
 ### Artikel  8.1.5  
-Treedt in werking per 01-01-2015 
 
 Wijzigt het Besluit zorgverzekering. 
 
 ### Artikel  8.1.6  
-Treedt in werking per 01-01-2015 
 
 Wijzigt het Besluit gebruik burgerservicenummer in de zorg. 
 
 ### Artikel  8.1.7  
-Treedt in werking per 01-01-2015 
 
 Wijzigt het Aanpassingsbesluit Zorgverzekeringswet. 
 
 ### Artikel  8.1.8  
-Treedt in werking per 01-01-2015 
 
 Wijzigt het Besluit Jeugdwet. 
 
 ### Artikel  8.1.9  
-Treedt in werking per 01-01-2015 
 
 Wijzigt het Uitvoeringsbesluit Wmo 2015. 
 
@@ -980,10 +865,7 @@ Wijzigt het Uitvoeringsbesluit Wmo 2015.
 
 ####Financiën
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  8.2.2  
-Treedt in werking per 01-01-2015 
 
 Wijzigt het Uitvoeringsbesluit inkomstenbelasting 2001. 
 
@@ -991,35 +873,27 @@ Wijzigt het Uitvoeringsbesluit inkomstenbelasting 2001.
 
 ####Sociale Zaken en Werkgelegenheid
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  8.3.1  
-Treedt in werking per 01-01-2015 
 
 Wijzigt het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999. 
 
 ### Artikel  8.3.2  
-Treedt in werking per 01-01-2015 
 
 Wijzigt het Besluit Wfsv. 
 
 ### Artikel  8.3.3  
-Treedt in werking per 01-01-2015 
 
 Wijzigt het Besluit SUWI. 
 
 ### Artikel  8.3.4  
-Treedt in werking per 01-01-2015 
 
 Wijzigt het Besluit aanwijzing registraties gezamenlijke huishouding 1998. 
 
 ### Artikel  8.3.5  
-Treedt in werking per 01-01-2015 
 
 Wijzigt het Besluit uitvoering sociale werkvoorziening en begeleid werken. 
 
 ### Artikel  8.3.6  
-Treedt in werking per 01-01-2015 
 
 Wijzigt het Schattingsbesluit arbeidsongeschiktheidswetten. 
 
@@ -1027,25 +901,19 @@ Wijzigt het Schattingsbesluit arbeidsongeschiktheidswetten.
 
 ####Veiligheid en Justitie
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  8.4.1  
-Treedt in werking per 01-01-2015 
 
 Wijzigt het Interimbesluit forensische zorg. 
 
 ### Artikel  8.4.2  
-Treedt in werking per 01-01-2015 
 
 Wijzigt het Reglement verpleging ter beschikking gestelden. 
 
 ### Artikel  8.4.3  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Penitentiaire maatregel. 
 
 ### Artikel  8.4.4  
-Treedt in werking per 01-01-2015 
 
 Wijzigt het Vrijstellingsbesluit Wbp. 
 
@@ -1053,10 +921,7 @@ Wijzigt het Vrijstellingsbesluit Wbp.
 
 ####Wonen en Rijksdienst
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  8.5.1  
-Treedt in werking per 01-01-2015 
 
 Wijzigt het Besluit op de huurtoeslag. 
 
@@ -1064,15 +929,11 @@ Wijzigt het Besluit op de huurtoeslag.
 
 ####Defensie
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  8.6.1  
-Treedt in werking per 01-01-2015 
 
 Wijzigt het Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen. 
 
 ### Artikel  8.6.2  
-Treedt in werking per 01-01-2015 
 
 Wijzigt het Besluit bijzondere militaire pensioenen. 
 
@@ -1080,10 +941,7 @@ Wijzigt het Besluit bijzondere militaire pensioenen.
 
 ####Infrastructuur en Milieu
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  8.7.1  
-Treedt in werking per 01-01-2015 
 
 Wijzigt het Besluit administratieve bepalingen inzake het wegverkeer (BABW). 
 
@@ -1091,10 +949,7 @@ Wijzigt het Besluit administratieve bepalingen inzake het wegverkeer (BABW).
 
 ####Binnenlandse Zaken en Koninkrijksrelaties
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  8.8.1  
-Treedt in werking per 01-01-2015 
 
 Wijzigt het Besluit Bibob. 
 
@@ -1102,10 +957,7 @@ Wijzigt het Besluit Bibob.
 
 ####Economische Zaken
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  8.9.1  
-Treedt in werking per 01-01-2015 
 
 Wijzigt het Besluit tijdelijke verruiming toepassingsbereik concentratietoezicht op ondernemingen die zorg verlenen. 
 
@@ -1113,52 +965,40 @@ Wijzigt het Besluit tijdelijke verruiming toepassingsbereik concentratietoezicht
 
 ####Innovatie
 
-Treedt in werking per 01-01-2015 
-
 [GERESERVEERD]    
 ### Hoofdstuk  10  
 
 ####Slotbepalingen
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  10.1  
-Treedt in werking per 01-01-2015 
 
 Het Administratiebesluit Bijzondere Ziektekostenverzekering wordt ingetrokken. 
 
 ### Artikel  10.2  
-Treedt in werking per 01-01-2015 
 
 Het Besluit wachttijd bijzondere ziektekostenverzekering wordt ingetrokken. 
 
 ### Artikel  10.3  
-Treedt in werking per 01-01-2015 
 
 Het Besluit zorgaanspraken AWBZ wordt ingetrokken. 
 
 ### Artikel  10.4  
-Treedt in werking per 01-01-2015 
 
 Het Besluit zorgplanbespreking AWBZ-zorg wordt ingetrokken. 
 
 ### Artikel  10.5  
-Treedt in werking per 01-01-2015 
 
 Het Bijdragebesluit zorg wordt ingetrokken. 
 
 ### Artikel  10.6  
-Treedt in werking per 01-01-2015 
 
 Het Inschrijvingsbesluit bijzondere ziektekostenverzekering 1992 wordt ingetrokken. 
 
 ### Artikel  10.7  
-Treedt in werking per 01-01-2015 
 
 Het Zorgindicatiebesluit wordt ingetrokken. 
 
 ### Artikel  10.8  
-Treedt in werking per 01-01-2015 
 
 Na de inwerkingtreding van de wet berust het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999 mede op artikel 2.1.1, vierde en vijfde lid, van de wet. 
 
@@ -1168,7 +1008,6 @@ Treedt in werking op een nader te bepalen tijdstip
 Tot uiterlijk 1 mei 2015 is het derde lid van artikel 2.10 van het Besluit zorgverzekering niet van toepassing op de verzekerde aan wie onmiddellijk voorafgaand aan de intrekking van de Algemene Wet Bijzondere Ziektekosten een persoonsgebonden budget op grond van die wet was verleend voor persoonlijke verzorging als bedoeld in artikel 4 van het Besluit zorgaanspraken AWBZ of voor verpleging als bedoeld in artikel 5 van dat besluit. 
 
 ### Artikel  10.10  
-Treedt in werking per 01-01-2015 
 
 1.  Hoofdstuk 3, § 3.1 tot en met § 3.3 en de daarop berustende bepalingen zijn van toepassing op verzekerden als bedoeld in artikel 11.1.1, eerste en tweede lid, en 11.1.3 van de wet.   
 2.  Een verzekerde die op grond van artikel 11.1.2, eerste lid, zijn aanspraken of persoonsgebonden budget voortzet waarop hij bij of krachtens de Algemene Wet Bijzondere Ziektekosten recht had, draagt bij in de kosten van de zorg, waarbij geldt dat: 
@@ -1186,18 +1025,15 @@ b. hij een bijdrage verschuldigd is als bedoeld in hoofdstuk III van het Bijdrag
 4.  Dit artikel vervalt met ingang van 1 januari 2016.  
 
 ### Artikel  10.11  
-Treedt in werking per 01-01-2015 
 
 Bij ministeriële regeling kunnen ten behoeve van een goede uitvoering van dit besluit nadere regels worden gesteld met betrekking tot de in dit besluit geregelde onderwerpen. 
 
 ### Artikel  10.12  
-Treedt in werking per 01-01-2015 
 
 1.  Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.   
 2.  Artikel 8.1.3 werkt terug tot en met de datum waarop de wet in werking treedt.  
 
 ### Artikel  10.13  
-Treedt in werking per 01-01-2015 
 
 Dit besluit wordt aangehaald als: Besluit langdurige zorg. 
 

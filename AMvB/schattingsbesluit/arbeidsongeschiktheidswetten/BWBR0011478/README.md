@@ -26,7 +26,7 @@ a. WAO: Wet op de arbeidsongeschiktheidsverzekering;
 
 b. Waz: Wet arbeidsongeschiktheidsverzekering zelfstandigen;  
 
-c.  Wet Wajong: Wet werk en arbeidsondersteuning jonggehandicapten; 
+c. Wajong: Wet arbeidsongeschiktheidsvoorziening jonggehandicapten; 
 
 d. Wet WIA: Wet werk en inkomen naar arbeidsvermogen;  
 
@@ -34,13 +34,13 @@ e.  ZW: Ziektewet;
 
 f. verzekerde: de verzekerde in de zin van de ZW, de Wet WIA of de WAO;  
 
-g. jonggehandicapte: de jonggehandicapte, bedoeld in de artikelen 2:3 en 3:2 van de Wet Wajong;  
+g. jonggehandicapte: de jonggehandicapte, bedoeld in de artikelen 1a:1, 2:3 en 3:2 van de Wajong;  
 
 h.aangiftetijdvak: aangiftetijdvak, bedoeld in artikel 1 van het Dagloonbesluit werknemersverzekeringen;
 
 i.refertejaar: refertejaar, bedoeld in artikel 13 van het Dagloonbesluit werknemersverzekeringen;
 
-j.maatgevende arbeid: uitgeoefende arbeid door gezonde personen met soortgelijke opleiding en ervaring, als bedoeld in artikel 18, eerste lid, van de WAO, de artikelen 2:2, eerste lid, en 3:1, eerste lid, van de Wet Wajong, artikel 19aa, vijfde lid, van de ZW, en in artikel 1, onder maatmaninkomen, van de Wet WIA;
+j.maatgevende arbeid: uitgeoefende arbeid door gezonde personen met soortgelijke opleiding en ervaring, als bedoeld in artikel 18, eerste lid, van de WAO, de artikelen 2:2, eerste lid, en 3:1, eerste lid, van de Wajong, artikel 19aa, vijfde lid, van de ZW, en in artikel 1, onder maatmaninkomen, van de Wet WIA;
 
 k.  loondervingsuitkeringen: 
 
@@ -58,13 +58,13 @@ k.  loondervingsuitkeringen:
 
 7°. uitkeringen op grond van de wetgeving van Aruba, Curaçao, Sint Maarten, of van Nederland ten behoeve van de openbare lichamen Bonaire, Sint Eustatius en Saba, een andere Mogendheid of een volkenrechtelijke organisatie die naar aard en strekking overeenkomen met de uitkeringen, bedoeld onder 1° tot en met 6°;  
 
-8°. uitkeringen en inkomensvoorzieningen op grond van de Wet WIA, de WAO, de Waz en de Wet Wajong en arbeidsongeschiktheidsuitkeringen, die daarmee naar hun strekking overeenkomen.    
+8°. uitkeringen en inkomensvoorzieningen op grond van de Wet WIA, de WAO, de Waz en de Wajong en arbeidsongeschiktheidsuitkeringen, die daarmee naar hun strekking overeenkomen;   
+
+l.  *minimumloon per uur:* het bedrag, dat op grond van artikel 8 van de Wet minimumloon en minimumvakantiebijslag voor de werknemer als minimumloon geldt, verminderd tot een bedrag per uur. Bij de vermindering, bedoeld in de vorige zin, wordt uitgegaan van een normale arbeidsduur als bedoeld in artikel 12, tweede lid, van de Wet minimumloon en minimumvakantiebijslag, van 38 uur per week.  
 
 ### Artikel  1a  
 
 ####Geen mogelijkheden tot arbeidsparticipatie
-
-Treedt in werking per 01-01-2015 
 
 1.  Betrokkene heeft geen mogelijkheden tot arbeidsparticipatie als bedoeld in de artikelen 1a:1, eerste lid, 2:4, eerste lid, en 3:8a, eerste lid, van de Wajong, indien hij: 
 
@@ -82,7 +82,7 @@ d. niet ten minste vier uur per dag belastbaar is, tenzij hij ten minste twee uu
 
 ####De arbeidsongeschiktheidsbeoordeling
 
-1. De arbeidsongeschiktheidsbeoordeling, bedoeld in de WAO, de Waz en de Wet Wajong de beoordeling van het percentage van het maatmaninkomen dat de verzekerde kan verdienen, bedoeld in de ZW en de beoordeling van volledige en duurzame arbeidsongeschiktheid of de mate van gedeeltelijke arbeidsgeschiktheid, bedoeld in de Wet WIA, worden gebaseerd op een verzekeringsgeneeskundig onderzoek en een arbeidsdeskundig onderzoek.  
+1. De arbeidsongeschiktheidsbeoordeling, bedoeld in de WAO, de Waz en de hoofdstukken 2 en 3 van de Wajong, de beoordeling van duurzaam geen mogelijkheden tot arbeidsparticipatie hebben als bedoeld in de hoofdstukken 1a, 2 en 3, van de Wajong, de beoordeling van het percentage van het maatmaninkomen dat de verzekerde kan verdienen, bedoeld in de ZW en de beoordeling van volledige en duurzame arbeidsongeschiktheid of de mate van gedeeltelijke arbeidsgeschiktheid, bedoeld in de Wet WIA, worden gebaseerd op een verzekeringsgeneeskundig onderzoek en een arbeidsdeskundig onderzoek.  
 2.  Van het arbeidsdeskundig onderzoek kan worden afgezien: 
 
 a. gedurende de periode waarin uit het verzekeringsgeneeskundig onderzoek blijkt dat betrokkene geen benutbare mogelijkheden heeft;  
@@ -96,7 +96,7 @@ d. indien uit verzekeringsgeneeskundig onderzoek blijkt dat betrokkene zodanig w
 4.  Het wisselend belastbaar zijn voor arbeid, bedoeld in het tweede lid, onderdeel d, wordt ten minste drie maal in een verzekeringsgeneeskundig onderzoek vastgesteld.   
 5.  Benutbare mogelijkheden als bedoeld in het tweede tot en met het vierde lid zijn alleen dan niet aanwezig indien: 
 
-a. betrokkene is opgenomen in een ziekenhuis of in een instelling als bedoeld in artikel 1, eerste lid, onderdeel f, van de Wet toelating zorginstellingen die zorg verleent waarop aanspraak bestaat ingevolge de Algemene Wet Bijzondere Ziektekosten, met uitzondering van een inrichting waar geestelijk gestoorde delinquenten van overheidswege verpleegd worden;  
+a. betrokkene is opgenomen in een ziekenhuis of in een instelling als bedoeld in artikel 1, eerste lid, onderdeel f, van de Wet toelating zorginstellingen die zorg verleent waarop aanspraak bestaat ingevolge de Wet langdurige zorg, met uitzondering van een inrichting waar geestelijk gestoorde delinquenten van overheidswege verpleegd worden;  
 
 b. betrokkene bedlegerig is;  
 
@@ -109,8 +109,6 @@ d. betrokkene als gevolg van een ernstige psychische stoornis in zijn zelfverzor
 ### Artikel  2a  
 
 ####Eenmalige afwijkende beoordeling op grond van artikel 8:10b van de Wajong
-
-Treedt in werking per 01-01-2015 
 
 1.  In afwijking van artikel 2, eerste lid, kan bij de vaststelling, bedoeld in artikel 8:10b van de Wajong, of een jonggehandicapte met een recht op arbeidsongeschiktheidsuitkering op grond van hoofdstuk 3 van de Wajong met een mate van arbeidsongeschiktheid van 80% of meer, geen mogelijkheden tot arbeidsparticipatie heeft, worden afgezien van verzekeringsgeneeskundig en arbeidsdeskundig onderzoek, indien deze vaststelling op basis van reeds beschikbare gegevens mogelijk is.   
 2.  Van verzekeringsgeneeskundig en arbeidsdeskundig onderzoek wordt in ieder geval afgezien, indien: 
@@ -153,7 +151,8 @@ c. de mogelijkheden tot arbeidsparticipatie kunnen worden beoordeeld aan de hand
 
 1.  Het verzekeringsgeneeskundig onderzoek strekt ertoe vast te stellen of betrokkene ten gevolge van ziekte, gebrek, zwangerschap of bevalling ongeschikt is tot werken.   
 2.  Daarbij onderzoekt de verzekeringsarts of bij betrokkene sprake is van vermindering of verlies van lichamelijke of psychische structuur of functie, die vermindering of verlies van normale gedragingen en activiteiten en van normale sociale rolvervulling tot gevolg heeft.   
-3.  Tevens stelt de verzekeringsarts vast welke beperkingen betrokkene in zijn functioneren in arbeid ondervindt ten gevolge van het verlies of vermindering van vermogens, bedoeld in het tweede lid, alsmede in welke mate betrokkene belastbaar is voor arbeid.   
+3.  Tevens stelt de verzekeringsarts vast welke beperkingen betrokkene in zijn functioneren in arbeid ondervindt ten gevolge van het verlies of vermindering van vermogens, bedoeld in het tweede lid, alsmede in welke mate betrokkene belastbaar is voor arbeid.    
+4.  De verzekeringsarts stelt bij een beoordeling van het duurzaam geen mogelijkheden tot arbeidsparticipatie hebben, bedoeld in de hoofdstukken 1a en 3 van de Wajong, van de volledige en duurzame arbeidsongeschiktheid, bedoeld in hoofdstuk 2 van de Wajong, en van de volledige en duurzame arbeidsongeschiktheid, bedoeld in de Wet WIA, vast of de gevolgen van ziekte, gebrek, zwangerschap of bevalling waardoor de betrokkene ongeschikt is tot werken duurzaam zijn. 
 
 ### Artikel  4  
 
@@ -176,15 +175,18 @@ c. de redeneringen en conclusies van het verzekeringsgeneeskundig onderzoek zijn
 
 ####Doel arbeidsdeskundig onderzoek
 
-Het arbeidsdeskundig onderzoek strekt tot vaststelling van:
+1.  Het arbeidsdeskundig onderzoek strekt tot vaststelling van: 
 
-a.de mate van arbeidsongeschiktheid, bedoeld in artikel 18 van de WAO, zoals dit artikel luidt sinds 1 augustus 1993, artikel 2 van de Waz en artikel 3:1 van de Wet Wajong;
+a. de mate van arbeidsongeschiktheid, bedoeld in artikel 18 van de WAO, zoals dit artikel luidt sinds 1 augustus 1993, artikel 2 van de Waz en artikel 3:1 van de Wajong;  
 
-b. volledige en duurzame arbeidsongeschiktheid als bedoeld in artikel 2:5, eerste lid, van de Wet Wajong; 
+b. volledige en duurzame arbeidsongeschiktheid als bedoeld in artikel 2:5, eerste lid, van de Wajong;  
 
-c.volledige arbeidsongeschiktheid als bedoeld in artikel 4 van de Wet WIA; dan wel
+c. duurzaam geen mogelijkheden tot arbeidsparticipatie hebben als bedoeld in de artikelen 1a:1, 3:8a en 8:10b van de Wajong;  
 
-d.de mate van gedeeltelijke arbeidsgeschiktheid, bedoeld in artikel 5 van de Wet WIA, en de beoordeling van wat iemand met arbeid kan verdienen, bedoeld in artikel 2:5, eerste lid, van de Wet Wajong en artikel 19aa, eerste lid, onderdeel b, van de ZW. Daartoe wordt het maatmaninkomen per uur van betrokkene vergeleken met hetgeen hij met arbeid kan verdienen. 
+d. volledige arbeidsongeschiktheid als bedoeld in artikel 4 van de Wet WIA; of  
+
+e. de mate van gedeeltelijke arbeidsongeschiktheid, bedoeld in artikel 5 van de Wet WIA, en de beoordeling van wat iemand met arbeid kan verdienen, bedoeld in artikel 2:5, eerste lid, van de Wajong, en artikel 19aa, eerste lid, onderdeel b, van de ZW.     
+2.  Bij het onderzoek, bedoeld in het eerste lid, onderdelen a, d en e, wordt het maatmaninkomen per uur van betrokkene vergeleken met hetgeen hij met arbeid kan verdienen. 
 
 ### §  1  
 
@@ -192,23 +194,23 @@ d.de mate van gedeeltelijke arbeidsgeschiktheid, bedoeld in artikel 5 van de Wet
 
 ### Artikel  6  
 
-####Maatmaninkomen WAO, Wet WIA, Waz en Wet Wajong
+####Maatmaninkomen WAO, Wet WIA, Waz en de hoofdstukken 2 en 3 van de Wajong
 
 1.  Het maatmaninkomen WAO is het inkomen per uur dat gezonde personen, bedoeld in artikel 18, eerste lid, van de WAO, met arbeid gewoonlijk verdienen.   
 2.  Het maatmaninkomen Waz is het inkomen per uur dat gezonde personen, bedoeld in artikel 2, eerste lid, van de Waz, met arbeid als verzekerde, bedoeld in artikel 3 van de Waz gewoonlijk verdienen.   
-3.  Het maatmaninkomen Wet Wajong is voor de jonggehandicapte die: 
+3.  Het maatmaninkomen, bedoeld in de hoofdstukken 2 en 3 van de Wajong, is voor de jonggehandicapte die: 
 
-a. geen inkomsten uit arbeid geniet, 108% van het bedrag dat voor een werknemer van dezelfde leeftijd geldt als minimumloon per uur op grond van de Wet minimumloon en minimumvakantiebijslag;  
+a. geen inkomsten uit arbeid geniet, 108% van het bedrag dat voor een werknemer van dezelfde leeftijd geldt als minimumloon per uur;  
 
 b. inkomsten uit arbeid geniet, het inkomen dat een niet-jonggehandicapt persoon van dezelfde leeftijd met de door de jonggehandicapte feitelijk verrichte arbeid gedurende de normale, volledige werkweek, per uur zou verdienen.     
-4.  Het maatmaninkomen van de jonggehandicapte, bedoeld in het derde lid, wordt hoger gesteld, en ten minste op een bedrag gelijk aan anderhalf maal het bedrag dat voor de belanghebbende geldt als minimumloon per uur op grond van de Wet minimumloon en minimumvakantiebijslag, indien de jonggehandicapte: 
+4.  Het maatmaninkomen van de jonggehandicapte, bedoeld in het derde lid, wordt hoger gesteld, en ten minste op een bedrag gelijk aan anderhalf maal het bedrag dat voor de belanghebbende geldt als minimumloon per uur, indien de jonggehandicapte: 
 
 a. arbeidsongeschikt is geworden binnen een jaar onmiddellijk voorafgaande aan het behalen van een diploma, dan wel na het behalen van een diploma, aan een beroepsgerichte opleiding die opleidt voor een beroep waarvan het aanvangssalaris ten minste gelijk is aan anderhalf maal het bedrag dat voor een werknemer van dezelfde leeftijd geldt als minimumloon op grond van de Wet minimumloon en minimumvakantiebijslag;  
 
 b. tijdens de arbeidsongeschiktheid doch uiterlijk op de dag dat hij de leeftijd van 30 jaar bereikt, een diploma behaalt van een beroepsgerichte opleiding die opleidt voor een beroep waarvan het aanvangssalaris ten minste gelijk is aan anderhalf maal het bedrag dat voor een werknemer van dezelfde leeftijd geldt als minimumloon op grond van de Wet minimumloon en minimumvakantiebijslag.     
 5.  Indien de vaststelling van het maatmaninkomen met toepassing van het vierde lid tot een hoger maatmaninkomen leidt dan de vaststelling van het maatmaninkomen met toepassing van het derde lid, wordt uitgegaan van het eerstgenoemde maatmaninkomen.   
-6. In de gevallen waarin artikel 43a van de WAO, artikel 2:3, tweede lid, 2:17 of 3:21 van de Wet Wajong, artikel 48, eerste lid, aanhef en onderdelen b en c, 50, eerste lid, aanhef en onderdeel b, of 55, eerste lid, aanhef en onderdelen b en c, van de Wet WIA toepassing vindt, alsmede in de gevallen waarin dat niet het geval is omdat artikel 29b van de Ziektewet toepassing kan vinden, wordt het maatmaninkomen niet lager vastgesteld dan het maatmaninkomen dat voor de vaststelling van de mate van arbeidsongeschiktheid of mate van gedeeltelijke arbeidsgeschiktheid in aanmerking zou worden genomen indien de uitkering niet zou zijn ingetrokken, dan wel indien aan het einde van de wachttijd, bedoeld in artikel 19 van de WAO, artikel 2:3 of 3:3 van de Wet Wajong of artikel 23 van de Wet WIA, recht zou hebben bestaan op een dergelijke uitkering.
-7. In de gevallen waarin, na eerdere intrekking van een uitkering op grond van de ZW, de WAO, de Wet Wajong of de Wet WIA, dan wel na het eerder niet toekennen van een uitkering aan het einde van de wachttijd, bedoeld in artikel 19 van de WAO, artikel 2:3 of 3:3 van de Wet Wajong of artikel 23 van de Wet WIA, bij de vaststelling van het maatmaninkomen wordt uitgegaan van arbeid op basis waarvan voor de betrokkene reeds eerder een maatmaninkomen is vastgesteld, wordt het maatmaninkomen vastgesteld op het maatmaninkomen dat voor de vaststelling van de mate van arbeidsongeschiktheid of mate van gedeeltelijke arbeidsgeschiktheid in aanmerking zou worden genomen indien de uitkering niet zou zijn ingetrokken, dan wel indien aan het einde van de genoemde wachttijd recht zou hebben bestaan op een dergelijke uitkering.
+6. In de gevallen waarin artikel 43a van de WAO, artikel 2:3, tweede lid, 2:17 of 3:21 van de Wajong, artikel 48, eerste lid, aanhef en onderdelen b en c, 50, eerste lid, aanhef en onderdeel b, of 55, eerste lid, aanhef en onderdelen b en c, van de Wet WIA toepassing vindt, alsmede in de gevallen waarin dat niet het geval is omdat artikel 29b van de Ziektewet toepassing kan vinden, wordt het maatmaninkomen niet lager vastgesteld dan het maatmaninkomen dat voor de vaststelling van de mate van arbeidsongeschiktheid of mate van gedeeltelijke arbeidsgeschiktheid in aanmerking zou worden genomen indien de uitkering niet zou zijn ingetrokken, dan wel indien aan het einde van de wachttijd, bedoeld in artikel 19 van de WAO, artikel 2:3 of 3:3 van de Wet Wajong of artikel 23 van de Wet WIA, recht zou hebben bestaan op een dergelijke uitkering.
+7. In de gevallen waarin, na eerdere intrekking van een uitkering op grond van de ZW, de WAO, de Wet Wajong of de Wet WIA, dan wel na het eerder niet toekennen van een uitkering aan het einde van de wachttijd, bedoeld in artikel 19 van de WAO, artikel 2:3 of 3:3 van de Wajong of artikel 23 van de Wet WIA, bij de vaststelling van het maatmaninkomen wordt uitgegaan van arbeid op basis waarvan voor de betrokkene reeds eerder een maatmaninkomen is vastgesteld, wordt het maatmaninkomen vastgesteld op het maatmaninkomen dat voor de vaststelling van de mate van arbeidsongeschiktheid of mate van gedeeltelijke arbeidsgeschiktheid in aanmerking zou worden genomen indien de uitkering niet zou zijn ingetrokken, dan wel indien aan het einde van de genoemde wachttijd recht zou hebben bestaan op een dergelijke uitkering.
 
 ### Artikel  7  
 
@@ -250,8 +252,8 @@ e. een uitkering die de werknemer heeft genoten op grond van de aanspraak, bedoe
 
 ####Indexering maatmaninkomen en maatmaninkomen bij hernieuwde vaststelling, heropening, herleving of herziening van de mate van arbeidsongeschiktheid
 
-1. Bij de vaststelling van het maatmaninkomen, bedoeld in artikel 6, eerste en derde lid, artikel 19aa, vijfde lid, van de ZW en artikel 1 van de Wet WIA, worden het inkomen, de inkomsten uit arbeid en de verdiensten, bedoeld artikel 7, eerste lid, die bij toepassing van artikel 7a in aanmerking worden genomen, vanaf het begin van het eerste in aanmerking genomen aangiftetijdvak aangepast aan de eerst-gepubliceerde cijfers van de index van de CAO-lonen per uur inclusief bijzondere beloningen, zoals die uiterlijk ten tijde van het arbeidsdeskundige onderzoek, bedoeld in artikel 5, door het Centraal Bureau voor de Statistiek wordt gepubliceerd. 
-2. Nadat een eerste beoordeling in verband met de vaststelling, bedoeld in artikel 5, heeft plaatsgevonden, wordt bij een hernieuwde vaststelling, een heropening, een herleving of een herziening van de uitkering geen rekening gehouden met na die eerste beoordeling opgetreden wijzigingen in het maatmaninkomen, met dien verstande dat bij de hernieuwde vaststelling van de mate van arbeidsongeschiktheid het maatmaninkomen wordt aangepast aan de eerst-gepubliceerde cijfers van de index van de CAO-lonen per uur inclusief bijzondere beloningen, zoals dit uiterlijk ten tijde van het arbeidsdeskundige onderzoek door het Centraal Bureau voor de Statistiek wordt gepubliceerd. 
+1. Bij de vaststelling van het maatmaninkomen, bedoeld in artikel 6, eerste en derde lid, artikel 19aa, vijfde lid, van de ZW en artikel 1 van de Wet WIA, worden het inkomen, de inkomsten uit arbeid en de verdiensten, bedoeld artikel 7, eerste lid, die bij toepassing van artikel 7a in aanmerking worden genomen, vanaf het begin van het eerste in aanmerking genomen aangiftetijdvak aangepast aan de eerst-gepubliceerde cijfers van de index van de CAO-lonen per uur inclusief bijzondere beloningen, zoals die uiterlijk ten tijde van het arbeidsdeskundig onderzoek, bedoeld in artikel 5, door het Centraal Bureau voor de Statistiek wordt gepubliceerd. 
+2. Nadat een eerste beoordeling in verband met de vaststelling, bedoeld in artikel 5, heeft plaatsgevonden, wordt bij een hernieuwde vaststelling, een heropening, een herleving of een herziening van de uitkering geen rekening gehouden met na die eerste beoordeling opgetreden wijzigingen in het maatmaninkomen, met dien verstande dat bij de hernieuwde vaststelling van de mate van arbeidsongeschiktheid het maatmaninkomen wordt aangepast aan de eerst-gepubliceerde cijfers van de index van de CAO-lonen per uur inclusief bijzondere beloningen, zoals dit uiterlijk ten tijde van het arbeidsdeskundig onderzoek door het Centraal Bureau voor de Statistiek wordt gepubliceerd. 
 3. In gevallen waarin het maatmaninkomen voor het laatst is vastgesteld voor 1 januari 2001 vindt bij de eerstvolgende vaststelling van de mate van arbeidsongeschiktheid na deze datum naast de aanpassing, bedoeld in het tweede lid, eenmalig een extra verhoging van het maatmaninkomen plaats overeenkomstig artikel 3 van de Wet brutering overhevelingstoeslag lonen. 
 
 ### §  2  

@@ -41,10 +41,6 @@ Wijzigt de Wet algemene bepalingen omgevingsrecht.
 
 Wijzigt de Huisvestingswet. 
 
-### Artikel  IVAD  
-
-Wijzigt de Huisvestingswet 20.. (kst. 32271) en deze wet. 
-
 ### Artikel  IVB  
 
 Wijzigt de Wet regulering prostitutie en bestrijding misstanden seksbranche (kst. 32211). 

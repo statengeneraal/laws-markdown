@@ -65,7 +65,7 @@ Indien op of in eenig in druk verschenen exemplaar van het werk de maker niet, o
 
 1.  Onder werken van letterkunde, wetenschap of kunst verstaat deze wet:  
 
-1°. boeken, brochures, nieuwsbladen, tijdschriften en alle andere geschriften;  
+1°. boeken, brochures, nieuwsbladen, tijdschriften en andere geschriften;  
 
 2°. tooneelwerken en dramatisch-muzikale werken;  
 
@@ -89,9 +89,7 @@ Indien op of in eenig in druk verschenen exemplaar van het werk de maker niet, o
 
 12°. computerprogramma’s en het voorbereidend materiaal;   en in het algemeen ieder voortbrengsel op het gebied van letterkunde, wetenschap of kunst, op welke wijze of in welken vorm het ook tot uitdrukking zij gebracht.   
 2.  Verveelvoudigingen in gewijzigde vorm van een werk van letterkunde, wetenschap of kunst, zoals vertalingen, muziekschikkingen, verfilmingen en andere bewerkingen, zomede verzamelingen van verschillende werken, worden, onverminderd het auteursrecht op het oorspronkelijke werk, als zelfstandige werken beschermd.   
-3.  Verzamelingen van werken, gegevens of andere zelfstandige elementen, systematisch of methodisch geordend, en afzonderlijk met elektronische middelen of anderszins toegankelijk, worden, onverminderd andere rechten op de verzameling en onverminderd het auteursrecht of andere rechten op de in de verzameling opgenomen werken, gegevens of andere elementen, als zelfstandige werken beschermd.   
-4.  Verzamelingen van werken, gegevens of andere zelfstandige elementen als bedoeld in het derde lid, waarvan de verkrijging, de controle of de presentatie van de inhoud in kwalitatief of kwantitatief opzicht getuigt van een substantiële investering behoren niet tot de in het eerste lid, onder 1°, genoemde geschriften.   
-5.  Computerprogramma's behoren niet tot de in het eerste lid, onder 1°, genoemde geschriften.  
+3.  Verzamelingen van werken, gegevens of andere zelfstandige elementen, systematisch of methodisch geordend, en afzonderlijk met elektronische middelen of anderszins toegankelijk, worden, onverminderd andere rechten op de verzameling en onverminderd het auteursrecht of andere rechten op de in de verzameling opgenomen werken, gegevens of andere elementen, als zelfstandige werken beschermd.  
 
 ### Artikel  11  
 
@@ -156,7 +154,7 @@ Onder het verveelvoudigen van een werk van letterkunde, wetenschap of kunst word
 
 ### Artikel  15  
 
-1.  Als inbreuk op het auteursrecht op een werk van letterkunde, wetenschap of kunst wordt niet beschouwd het overnemen van nieuwsberichten, gemengde berichten, of artikelen over actuele economische, politieke, godsdienstige of levensbeschouwelijke onderwerpen alsmede van werken van dezelfde aard die in een dag-, nieuws- of weekblad, tijdschrift, radio- of televisieprogramma of ander medium dat eenzelfde functie vervult, zijn openbaar gemaakt, indien: 
+1.  Als inbreuk op het auteursrecht op een werk van letterkunde, wetenschap of kunst wordt niet beschouwd het overnemen van berichten of artikelen over actuele economische, politieke, godsdienstige of levensbeschouwelijke onderwerpen alsmede van werken van dezelfde aard die in een dag-, nieuws- of weekblad, tijdschrift, radio- of televisieprogramma of ander medium dat eenzelfde functie vervult, zijn openbaar gemaakt, indien: 
 
 1°.het overnemen geschiedt door een dag-, nieuws- of weekblad of tijdschrift, in een radio- of televisieprogramma of ander medium dat een zelfde functie vervult;
 
@@ -165,8 +163,7 @@ Onder het verveelvoudigen van een werk van letterkunde, wetenschap of kunst word
 3°.de bron, waaronder de naam van de maker, op duidelijke wijze wordt vermeld; en
 
 4°.het auteursrecht niet uitdrukkelijk is voorbehouden.   
-2.  Ten aanzien van nieuwsberichten en gemengde berichten kan een voorbehoud als bedoeld in het eerste lid, onder 4° niet worden gemaakt.   
-3.  Dit artikel is mede van toepassing op het overnemen in een andere taal dan de oorspronkelijke. 
+2.  Dit artikel is mede van toepassing op het overnemen in een andere taal dan de oorspronkelijke. 
 
 ### Artikel  15a  
 
@@ -190,7 +187,7 @@ Als inbreuk op het auteursrecht op een door of vanwege de openbare macht openbaa
 
 1.  Als inbreuk op het auteursrecht op een werk van letterkunde, wetenschap of kunst wordt niet beschouwd het uitlenen als bedoeld in artikel 12, eerste lid, onder 3°, van het geheel of een gedeelte van een exemplaar van het werk of van een verveelvoudiging daarvan die door de rechthebbende of met zijn toestemming in het verkeer is gebracht, mits degene die de uitlening verricht of doet verrichten een billijke vergoeding betaalt. De eerste zin is niet van toepassing op een werk als bedoeld in artikel 10, eerste lid, onder 12° tenzij dat werk onderdeel uitmaakt van een van gegevens voorziene informatiedrager en uitsluitend dient om die gegevens toegankelijk te maken.   
 2.  Instellingen van onderwijs en instellingen van onderzoek en de aan die instellingen verbonden bibliotheken en de Koninklijke Bibliotheek zijn vrijgesteld van de betaling van een vergoeding voor uitlenen als bedoeld in het eerste lid.   
-3.  Bibliotheken, bekostigd door de Stichting fonds voor het bibliotheekwerk voor blinden en slechtzienden, zijn voor het uitlenen ten behoeve van de bij deze bibliotheken ingeschreven blinden en slechtzienden vrijgesteld van betaling van de in het eerste lid bedoelde vergoeding.   
+3.  Publiek toegankelijke bibliotheekvoorzieningen, die in overwegende mate door gemeenten, provincies, het rijk of het openbaar lichaam Bonaire, Sint Eustatius of Saba worden gesubsidieerd of in stand gehouden, zijn voor het uitlenen van op basis van artikel 15i omgezette werken aan bij die voorzieningen ingeschreven personen met een handicap, vrijgesteld van betaling van de vergoeding, bedoeld in het eerste lid.   
 4.  De in het eerste lid bedoelde vergoeding is niet verschuldigd indien de betalingsplichtige kan aantonen dat de maker of diens rechtverkrijgende afstand heeft gedaan van het recht op een billijke vergoeding. De maker of diens rechtverkrijgende dient de afstand schriftelijk mee te delen aan de in de artikelen 15d en 15f bedoelde rechtspersonen.  
 
 ### Artikel  15d  

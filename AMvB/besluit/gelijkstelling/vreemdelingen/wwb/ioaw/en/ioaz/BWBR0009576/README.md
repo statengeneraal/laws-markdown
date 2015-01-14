@@ -15,7 +15,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-1.  Voor de toepassing van de Wet werk en bijstand, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers en de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen wordt met een Nederlander gelijkgesteld de vreemdeling die, na rechtmatig in Nederland verblijf te hebben gehouden in de zin van artikel 8, onder a tot en met e, of l, van de Vreemdelingenwet 2000:  
+1.  Voor de toepassing van de Participatiewet, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers en de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen wordt met een Nederlander gelijkgesteld de vreemdeling die, na rechtmatig in Nederland verblijf te hebben gehouden in de zin van artikel 8, onder a tot en met e, of l, van de Vreemdelingenwet 2000:  
 
 a. voor de beëindiging van dit verblijf een aanvraag heeft ingediend om voortgezette toelating, of   
 
@@ -28,7 +28,7 @@ b. de uitzetting van de vreemdeling is gelast, tenzij die uitzetting ingevolge d
 
 ###Artikel 1a  
 
-Dit besluit berust mede op artikel 11, derde lid, van de Wet werk en bijstand. 
+Dit besluit berust mede op artikel 11, derde lid, van de Participatiewet. 
 
 ###Artikel 2 
 
@@ -36,7 +36,7 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 ### Artikel  3  
 
-Dit besluit wordt aangehaald als: Besluit gelijkstelling vreemdelingen WWB, IOAW en IOAZ. 
+Dit besluit wordt aangehaald als: Besluit gelijkstelling vreemdelingen Participatiewet, IOAW en IOAZ. 
 
 Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.    
 

@@ -12,10 +12,7 @@ Zo is het dat Wij, de Afdeling advisering van de Raad van State gehoord, en met 
 
 ####Wijzigingen in verband met hervorming flexibele arbeid en ontslagrecht
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  I  
-Treedt in werking per 01-01-2015 
 
 Wijzigt het Burgerlijk Wetboek Boek 7. 
 
@@ -156,37 +153,35 @@ Treedt in werking per 01-07-2015
 ### Artikel  XXII  
 Treedt in werking per 01-07-2015 
 
-1.  Het Buitengewoon Besluit Arbeidsverhoudingen 1945 alsmede artikel 665 en afdeling 9 van Boek 7, titel 10 van het Burgerlijk Wetboek, zoals deze luidden de dag voor het tijdstip van inwerkingtreding van de artikelen I, onderdeel O, van deze wet, blijven van toepassing: 
+1.  Het Buitengewoon Besluit Arbeidsverhoudingen 1945 alsmede artikel 665 en afdeling 9 van Boek 7, titel 10 van het Burgerlijk Wetboek, zoals deze luidden de dag voor het tijdstip van inwerkingtreding van artikel I, onderdeel O, van deze wet, blijven van toepassing: 
 
-a. op een verzoek om toestemming voor opzegging van de arbeidsovereenkomst gedaan voor dat tijdstip en een opzegging gedaan na dat tijdstip op grond van een verzoek om toestemming van de arbeidsovereenkomst gedaan voor dat tijdstip en op de gedingen die daarop betrekking hebben;  
+a. op een verzoek om toestemming voor opzegging van de arbeidsovereenkomst gedaan voor dat tijdstip en een opzegging gedaan na dat tijdstip op grond van een verzoek om toestemming voor opzegging van de arbeidsovereenkomst gedaan voor dat tijdstip en op de gedingen die daarop betrekking hebben;  
 
 b. op een opzegging van de arbeidsovereenkomst gedaan voor dat tijdstip en op de gedingen die daarop betrekking hebben; en  
 
 c. op een geding dat is aangevangen voor dat tijdstip.     
-2.  De Wet melding collectief ontslag, zoals deze luidde voor het tijdstip van inwerkingtreding van artikel IV deze wet, blijft van toepassing op verzoeken om toestemming voor opzegging van een arbeidsovereenkomst alsmede op opzeggingen die hebben plaatsgevonden voor dat tijdstip.   
-3.  De artikelen 8 van de Algemene wet gelijke behandeling, 9 van de Wet gelijke behandeling op grond van handicap of chronische ziekte, 11 van de Wet gelijke behandeling op grond van leeftijd bij de arbeid en 1b, vijfde lid, van de Wet gelijke behandeling van mannen en vrouwen, zoals die luidden voor het tijdstip van inwerkingtreding van de artikelen XI, XII, XIII en XIV van deze wet, blijven van toepassing op een beëindiging van een arbeidsverhouding voor dat tijdstip.   
-4.  Artikel 104 van de Pensioenwet en, vanaf het tijdstip van inwerkingtreding van artikel I, onderdeel D, van de Wet versterking bestuur pensioenfondsen, artikel 108 van de Pensioenwet, zoals deze luidden voor het tijdstip van inwerkingtreding van artikel XIX van deze wet, blijven van toepassing indien de toestemming van de kantonrechter is gevraagd voor dat tijdstip.   
-5.  Indien op grond van artikel 6, derde lid, van de Wet sociale werkvoorziening zoals dit luidde voor het tijdstip van inwerkingtreding van artikel IX van deze wet, voor dat tijdstip advies aan het Uitvoeringsinstituut werknemersverzekeringen is gevraagd, blijven het Buitengewoon Besluit Arbeidsverhoudingen 1945 alsmede afdeling 9 van Boek 7, titel 10 van het Burgerlijk Wetboek, zoals deze luidden voor dat tijdstip van inwerkingtreding, van toepassing op het advies en de opzegging en de daarop betrekking hebbende gedingen.   
-6.  Vergoedingen die de werkgever na het tijdstip van inwerkingtreding van deze wet verschuldigd is op grond van tussen de werkgever en de werknemer of verenigingen van werknemers voor het tijdstip van inwerkingtreding van deze wet gemaakte afspraken, kunnen onder bij of krachtens algemene maatregel van bestuur te bepalen voorwaarden tijdelijk in mindering worden gebracht op de op grond van de artikelen 673 en 673a verschuldigde vergoeding.  
+2.  Artikel 8 van het Buitengewoon Besluit Arbeidsverhoudingen 1945, alsmede artikel 30, zesde lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen, zoals deze luidden voor het tijdstip van inwerkingtreding van artikel I, onderdeel Ca, van deze wet, blijven van toepassing op het verzoek van een werkgever om ontheffing op grond van artikel 8, derde lid, van het Buitengewoon Besluit Arbeidsverhoudingen 1945 dat door Onze Minister van Sociale Zaken en Werkgelegenheid is ontvangen voor genoemd tijdstip, de daarop te verlenen ontheffing en maximaal drie verzoeken om aansluitende verlenging en de daarop te verlenen ontheffingen alsmede op de voor genoemd tijdstip verleende ontheffing en de daarop gedane verzoeken om aansluitende verlenging en de daarop te verlenen ontheffingen tot een maximum van drie ontheffingen.  
+3.  De Wet melding collectief ontslag, zoals deze luidde voor het tijdstip van inwerkingtreding van artikel IV van deze wet, blijft van toepassing op verzoeken om toestemming voor opzegging van een arbeidsovereenkomst alsmede op opzeggingen die hebben plaatsgevonden voor dat tijdstip.   
+4.  De artikelen 8 van de Algemene wet gelijke behandeling, 9 van de Wet gelijke behandeling op grond van handicap of chronische ziekte, 11 van de Wet gelijke behandeling op grond van leeftijd bij de arbeid en 1b, vijfde lid, van de Wet gelijke behandeling van mannen en vrouwen, zoals die luidden voor het tijdstip van inwerkingtreding van de artikelen XI, XII, XIII en XIV van deze wet, blijven van toepassing op een beëindiging van een arbeidsverhouding voor dat tijdstip.   
+5.  Artikel 104 van de Pensioenwet en, vanaf het tijdstip van inwerkingtreding van artikel I, onderdeel D, van de Wet versterking bestuur pensioenfondsen, artikel 108 van de Pensioenwet, zoals deze luidden voor het tijdstip van inwerkingtreding van artikel XIX van deze wet, blijven van toepassing indien de toestemming van de kantonrechter is gevraagd voor dat tijdstip.   
+6.  Indien op grond van artikel 6, derde lid, van de Wet sociale werkvoorziening zoals dit luidde voor het tijdstip van inwerkingtreding van artikel IX van deze wet, voor dat tijdstip advies aan het Uitvoeringsinstituut werknemersverzekeringen is gevraagd, blijven het Buitengewoon Besluit Arbeidsverhoudingen 1945 alsmede afdeling 9 van Boek 7, titel 10 van het Burgerlijk Wetboek, zoals deze luidden voor dat tijdstip van inwerkingtreding, van toepassing op het advies en de opzegging en de daarop betrekking hebbende gedingen.   
+7.  In afwijking van de artikelen 673 en 673a van Boek 7 van het Burgerlijk Wetboek kan bij of krachtens algemene maatregel van bestuur worden bepaald dat de transitievergoeding geheel of gedeeltelijk niet verschuldigd is gedurende een bepaalde periode en onder bepaalde voorwaarden, indien de werknemer wegens de beëindiging van de arbeidsovereenkomst recht heeft op een vergoeding of voorziening, op grond van tussen de werkgever of verenigingen van werkgevers en de werknemer of verenigingen van werknemers voor het tijdstip van inwerkingtreding van artikel I, onderdelen V en W, van deze wet gemaakte afspraken.  
 
 ### Artikel  XXIIa  
-Treedt in werking per 01-01-2015 
 
-1.  Artikel 628, leden 5 tot en met 7, van Boek 7 van het Burgerlijk Wetboek, zoals dat artikel luidde op de dag voor het tijdstip van inwerkingtreding van artikel I, onderdeel C, van deze wet blijft van toepassing op arbeidsovereenkomsten die tot stand zijn gekomen voor dat tijdstip.   
-2.  Artikel 628, leden 5 tot en met 7, van Boek 7 van het Burgerlijk Wetboek, zoals dat artikel luidde op de dag voor het tijdstip van inwerkingtreding van artikel I, onderdeel C, van deze wet, blijft van toepassing op een op die dag geldende collectieve arbeidsovereenkomst of regeling door of namens een daartoe bevoegd bestuursorgaan waarin toepassing is gegeven aan artikel 628, lid 7, van Boek 7 van het Burgerlijk Wetboek, zoals dat artikel luidde op de dag voor dat tijdstip, en de arbeidsovereenkomsten waarop deze van toepassing zijn of worden, voor de duur van de looptijd van de collectieve arbeidsovereenkomst of regeling, maar ten hoogste gedurende achttien maanden na die inwerkingtreding.  
+1.  Artikel 628, leden 5 tot en met 7, van Boek 7 van het Burgerlijk Wetboek, zoals dat artikel luidde op de dag voor het tijdstip van inwerkingtreding van artikel I, onderdeel C, van deze wet, blijft van toepassing op een op die dag geldende collectieve arbeidsovereenkomst of regeling door of namens een daartoe bevoegd bestuursorgaan waarin toepassing is gegeven aan artikel 628, lid 7, van Boek 7 van het Burgerlijk Wetboek, zoals dat artikel luidde op de dag voor dat tijdstip, en de arbeidsovereenkomsten waarop deze van toepassing zijn of worden, voor de duur van de looptijd van de collectieve arbeidsovereenkomst of regeling, maar ten hoogste gedurende achttien maanden na die inwerkingtreding.   
+2.  Artikel 628, leden 5 tot en met 7, van Boek 7 van het Burgerlijk Wetboek, zoals dat artikel luidde op de dag voor het tijdstip van inwerkingtreding van artikel I, onderdeel C, van deze wet, blijft van toepassing op collectieve arbeidsovereenkomsten of regelingen door of namens daartoe bevoegde bestuursorganen tot en met de dag voor het tijdstip van inwerkingtreding van artikel I, onderdeel Ca, van deze wet, uitsluitend voor zover daarin vanwege buitengewone natuurlijke omstandigheden als bedoeld in artikel 18 van de Werkloosheidswet toepassing is gegeven aan de in artikel 628, lid 7, van Boek 7 van het Burgerlijk Wetboek, zoals dat luidde voor het tijdstip van inwerkingtreding van artikel I, onderdeel C, van deze wet opgenomen afwijkingsmogelijkheid. 
 
 ### Artikel  XXIIb  
-Treedt in werking per 01-01-2015 
 
-Artikel 652 van Boek 7 van het Burgerlijk Wetboek, zoals dat artikel luidde op de dag voor het tijdstip van inwerkingtreding van artikel I, onderdeel H, van deze wet blijft van toepassing op arbeidsovereenkomsten die tot stand zijn gekomen voor dat tijdstip. 
+1. Artikel 652 van Boek 7 van het Burgerlijk Wetboek, zoals dat artikel luidde op de dag voor het tijdstip van inwerkingtreding van artikel I, onderdeel H, van deze wet blijft van toepassing op arbeidsovereenkomsten die tot stand zijn gekomen voor dat tijdstip.  
+2.  Artikel 652 van Boek 7 van het Burgerlijk Wetboek, zoals dat artikel luidde op de dag voor het tijdstip van inwerkingtreding van artikel I, onderdeel H, van deze wet blijft van toepassing op een op die dag geldende collectieve arbeidsovereenkomst of regeling door of namens een daartoe bevoegd bestuursorgaan waarin toepassing is gegeven aan artikel 652, lid 6, van Boek 7 van het Burgerlijk Wetboek, zoals dat artikel luidde op de dag voor dat tijdstip, en de arbeidsovereenkomsten waarop deze van toepassing zijn of worden, voor de duur van de looptijd van de collectieve arbeidsovereenkomst of regeling, maar ten hoogste gedurende achttien maanden na die inwerkingtreding. 
 
 ### Artikel  XXIIc  
-Treedt in werking per 01-01-2015 
 
-Artikel 653 van Boek 7 van het Burgerlijk Wetboek, zoals dat artikel luidde op de dag voor het tijdstip van inwerkingtreding van artikel I, onderdeel I, van deze wet blijft van toepassing op arbeidsovereenkomsten die tot stand zijn gekomen voor dat tijdstip. 
+Op arbeidsovereenkomsten die tot stand zijn gekomen voor de inwerkingtreding van artikel I, onderdeel I, onder 1 en 2, blijft artikel 653, leden 1 en 2, van Boek 7 van het Burgerlijk Wetboek, zoals dat luidde op de dag voor dat tijdstip van toepassing en is artikel 653, lid 3, van Boek 7 van het Burgerlijk Wetboek, zoals dat komt te luiden na dat tijdstip niet van toepassing. 
 
 ### Artikel  XXIId  
-Treedt in werking per 01-01-2015 
 
 Artikel 668, leden 1, 2, 3 en 4, onderdeel a, van Boek 7 van het Burgerlijk Wetboek, zoals dat artikel komt te luiden na het tijdstip van inwerkingtreding van artikel I, onderdeel M, van deze wet, is niet van toepassing op arbeidsovereenkomsten die eindigen binnen een maand na het tijdstip van inwerkingtreding van dat onderdeel. 
 
@@ -198,7 +193,6 @@ Treedt in werking per 01-07-2015
 3.  In afwijking van artikel 668a, lid 1, zoals dat artikel komt te luiden na het tijdstip van inwerkingtreding van artikel I, onderdeel N, van deze wet worden de arbeidsovereenkomst, bedoeld in het eerste lid, en de daaraan voorafgaande arbeidsovereenkomsten geacht elkaar niet te hebben opgevolgd, indien zij elkaar hebben opgevolgd met tussenpozen van meer dan drie maanden.  
 
 ### Artikel  XXIII  
-Treedt in werking per 01-01-2015 
 
 1.  Artikel 691 van Boek 7 van het Burgerlijk Wetboek, zoals dat artikel luidde op de dag voor het tijdstip van inwerkingtreding van artikel I, onderdeel II, van deze wet blijft van toepassing op arbeidsovereenkomsten die tot stand zijn gekomen voor dat tijdstip.   
 2.  Artikel 691 van Boek 7 van het Burgerlijk Wetboek, zoals dat artikel luidde op de dag voor het tijdstip van inwerkingtreding van artikel I, onderdeel II, van deze wet, blijft van toepassing op een op die dag geldende collectieve arbeidsovereenkomst of regeling door of namens een daartoe bevoegd bestuursorgaan waarin toepassing is gegeven aan artikel 691, lid 7, van Boek 7 van het Burgerlijk Wetboek, zoals dat artikel luidde op de dag voor dat tijdstip, en de arbeidsovereenkomsten waarop deze van toepassing zijn of worden, voor de duur van de looptijd van de collectieve arbeidsovereenkomst of regeling, maar ten hoogste gedurende achttien maanden na die inwerkingtreding.  
@@ -276,7 +270,6 @@ Treedt in werking per 01-01-2016
 Wijzigt de Wet financiering sociale verzekeringen. 
 
 ### Artikel  XXXI  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers. 
 

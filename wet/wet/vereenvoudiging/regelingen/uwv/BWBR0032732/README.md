@@ -13,11 +13,15 @@ Zo is het dat Wij, de Afdeling advisering van de Raad van State gehoord, en met 
 
 ####Wijziging van de Werkloosheidswet
 
+Materieel uitgewerkt per 01-01-2015 
+
 Wijzigt de Werkloosheidswet. 
 
 ### Artikel  II  
 
 ####Wijziging van de Ziektewet
+
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt de Ziektewet. 
 
@@ -25,25 +29,23 @@ Wijzigt de Ziektewet.
 
 ####Wijziging van de Wet werk en inkomen naar arbeidsvermogen
 
+Materieel uitgewerkt per 01-01-2015 
+
 Wijzigt de Wet werk en inkomen naar arbeidsvermogen. 
 
 ### Artikel  IV  
 
 ####Wijziging van de Wet structuur uitvoeringsorganisatie werk en inkomen
 
+Materieel uitgewerkt per 01-01-2015 
+
 Wijzigt de Wet structuur uitvoeringsorganisatie werk en inkomen. 
-
-### Artikel  V  
-
-####Wijziging van het Buitengewoon Besluit Arbeidsverhoudingen 1945
-
-Treedt in werking op een nader te bepalen tijdstip 
-
-Wijzigt de Buitengewoon Besluit Arbeidsverhoudingen 1945. 
 
 ### Artikel  VI  
 
 ####Wijziging van de Toeslagenwet
+
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt de Toeslagenwet. 
 
@@ -51,11 +53,15 @@ Wijzigt de Toeslagenwet.
 
 ####Wijziging van de Wet arbeid en zorg
 
+Materieel uitgewerkt per 01-01-2015 
+
 Wijzigt de Wet arbeid en zorg. 
 
 ### Artikel  VIII  
 
 ####Wijzing van de Ziektewet in verband met de Wet beperking ziekteverzuim en arbeidsongeschiktheid vangnetters
+
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt de Ziektewet. 
 
@@ -63,19 +69,15 @@ Wijzigt de Ziektewet.
 
 ####Wijziging van de Wet werk en inkomen naar arbeidsvermogen in verband met de Wet beperking ziekteverzuim en arbeidsongeschiktheid vangnetters
 
+Materieel uitgewerkt per 01-01-2015 
+
 Wijzigt de Wet werk en inkomen naar arbeidsvermogen. 
-
-### Artikel  VIIIb  
-
-####Wijziging van de Wet financiering sociale verzekeringen
-
-Treedt in werking op een nader te bepalen tijdstip 
-
-Wijzigt de Wet financiering sociale verzekeringen. 
 
 ### Artikel  VIIIc  
 
 ####Wijziging van de Wet tot wijziging van een aantal wetten op het terrein van het ministerie van Sociale Zaken en Werkgelegenheid teneinde deze in overeenstemming te brengen met de motie van het voormalige eerstekamerlid Jurgens c.s. (33 133)
+
+Materieel uitgewerkt per 01-01-2015 
 
 Wijzigt de Wijzigingswet aantal wetten met betrekking tot het ministerie van Sociale Zaken en Werkgelegenheid (motie voormalige eerstekamerlid Jurgens)(Stb. 2012/657). 
 
@@ -83,11 +85,15 @@ Wijzigt de Wijzigingswet aantal wetten met betrekking tot het ministerie van Soc
 
 ####Inwerkingtreding
 
+Materieel uitgewerkt per 01-01-2015 
+
 De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
 ### Artikel  X  
 
 ####Citeertitel
+
+Materieel uitgewerkt per 01-01-2015 
 
 Deze wet wordt aangehaald als: Wet vereenvoudiging regelingen UWV. 
 
