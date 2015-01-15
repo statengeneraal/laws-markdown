@@ -5,7 +5,7 @@
 Het bestuur van het Hoofdproductschap Akkerbouw;  
 Gelet op de Verordening (EG) nr. 479/2008 van de Raad van 29 april 2008 houdende een gemeenschappelijke ordening van de wijnmarkt, tot wijziging van de Verordeningen (EG) nr. 1493/1999, (EG) nr. 1782/2003, (EG) nr.1290/2005, (EG) nr. 3/2008 en tot intrekking van de Verordeningen (EEG) nr. 2392/86 en (EG) nr. 1493/1999;
 
-Gelet op de [artikel 2 van de Regeling medebewind Gemeenschappelijk Landbouwbeleid](../../../../../../ministeriele-regeling/regeling/medebewind/gemeenschappelijk/landbouwbeleid/BWBR0020360/README.md) en de [artikelen 96](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [97](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [98](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [100, derde lid van de Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op [artikel 14 van het Instellingsbesluit akkerbouwproductschappen](../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md);
+Gelet op de artikel 2 van de Regeling medebewind Gemeenschappelijk Landbouwbeleid en de artikelen 96, 97, 98 en 100, derde lid van de Wet op de bedrijfsorganisatie en op artikel 14 van het Instellingsbesluit akkerbouwproductschappen;
 
 Gehoord het Productschap Wijn;
 Besluit:    
@@ -330,7 +330,7 @@ Voor de toepassing van de onderhavige verordening wordt onder handelen mede vers
 
 ###Artikel 38 
 
-De [Verordening HPA wijn 2002](../../../../../../pbo/verordening/hpa/wijn/2002/BWBR0014279/README.md) wordt ingetrokken. 
+De Verordening HPA wijn 2002 wordt ingetrokken. 
 
 ###Artikel 39 
 

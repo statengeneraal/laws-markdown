@@ -388,7 +388,7 @@ c. de rijksbelastingdienst voor de uitvoering van zijn taken;
 
 d. het Uitvoeringsinstituut werknemersverzekeringen of de Sociale verzekeringsbank, bedoeld in de Wet structuur uitvoeringsorganisatie werk en inkomen, of Onze Minister van Sociale Zaken en Werkgelegenheid voor de uitvoering van hun bij of krachtens wet opgedragen taken;  
 
-e. burgemeesters en wethouders voor de uitvoering van de Wet gemeentelijke schulphulpverlening, Wet werk en bijstand, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers en de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen;  
+e. burgemeesters en wethouders voor de uitvoering van de Wet gemeentelijke schulphulpverlening, Participatiewet, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers en de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen;  
 
 f. het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur ten behoeve van het geven van een advies als bedoeld in artikel 9 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur en een bestuursorgaan als bedoeld in artikel 1:1, eerste lid, onderdeel a, van de Algemene wet bestuursrecht of rechtspersoon met een overheidstaak als bedoeld in artikel 1, onder a, van die wet, in het geval waarin hij bevoegd is tot toepassing van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur;  
 
@@ -411,7 +411,6 @@ Vervallen
 ####Gebruik door bestuursorganen
 
 ### Artikel  30  
-Treedt in werking per 01-01-2015 
 
 1.  Een bestuursorgaan als bedoeld in artikel 1:1, eerste lid, onderdeel a, van de Algemene wet bestuursrecht dat bij de vervulling van zijn taak informatie over een onderneming of rechtspersoon nodig heeft die in de vorm van een authentiek gegeven beschikbaar is in het handelsregister, gebruikt voor die informatie dat gegeven.   
 2.  Het eerste lid is niet van toepassing indien: 
@@ -429,7 +428,6 @@ d. een goede vervulling van de taak van het bestuursorgaan door de onverkorte to
 ####Eenmalige gegevensverstrekking
 
 ### Artikel  31  
-Treedt in werking per 01-01-2015 
 
 Een onderneming of rechtspersoon aan wie door een bestuursorgaan als bedoeld in artikel 1:1, eerste lid, onderdeel a, van de Algemene wet bestuursrecht een gegeven wordt gevraagd, waarop artikel 30, eerste lid, van toepassing is, behoeft dat gegeven niet mede te delen, behoudens voor zover het gegeven noodzakelijk wordt geacht voor een deugdelijke vaststelling van de identiteit van de onderneming of rechtspersoon. 
 

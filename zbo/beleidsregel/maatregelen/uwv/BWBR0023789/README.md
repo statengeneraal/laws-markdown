@@ -3,7 +3,7 @@
 ##Beleidsregel maatregelen UWV
 
 Het Uitvoeringsinstituut werknemersverzekeringen,  
-Gelet op de [artikelen 27, zevende lid, van de Werkloosheidswet](../../../../../wet/werkloosheidswet/BWBR0004045/README.md), [45, derde lid, van de Ziektewet](../../../../../wet/ziektewet/BWBR0001888/README.md), [29, tweede lid, van de Wet op de arbeidsongeschiktheidsverzekering](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), [88, vierde lid, van de Wet werk en inkomen naar arbeidsvermogen](../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), [47, tweede lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), [39, tweede lid, van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), en [14, tweede lid, van de Toeslagenwet](../../../../../wet/toeslagenwet/BWBR0004043/README.md), en op het [Maatregelenbesluit socialezekerheidswetten](../../../../../AMvB/maatregelenbesluit/socialezekerheidswetten/BWBR0022445/README.md);
+Gelet op de artikelen 27, zevende lid, van de Werkloosheidswet, 45, derde lid, van de Ziektewet, 29, tweede lid, van de Wet op de arbeidsongeschiktheidsverzekering, 88, vierde lid, van de Wet werk en inkomen naar arbeidsvermogen, 47, tweede lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen, 39, tweede lid, van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, en 14, tweede lid, van de Toeslagenwet, en op het Maatregelenbesluit socialezekerheidswetten;
 Besluit:    
 
 ### Artikel  1  
@@ -14,21 +14,21 @@ In dit besluit wordt verstaan onder:
 
 a. betrokkene: 
 
-1°. de werknemer, bedoeld in de [artikelen 3 tot en met 8](../../../../../wet/werkloosheidswet/BWBR0004045/README.md) en [53 van de Werkloosheidswet](../../../../../wet/werkloosheidswet/BWBR0004045/README.md),  
+1°. de werknemer, bedoeld in de artikelen 3 tot en met 8 en 53 van de Werkloosheidswet,  
 
-2°. de persoon, bedoeld in de [artikelen 3 tot en met 8c](../../../../../wet/ziektewet/BWBR0001888/README.md) en [64 van de Ziektewet](../../../../../wet/ziektewet/BWBR0001888/README.md), [3 tot en met 7b](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) juncto [23, eerste lid](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), en [81 van de Wet op de arbeidsongeschiktheidsverzekering](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), [7](../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), [10](../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) en [18 van de Wet werk en inkomen naar arbeidsvermogen](../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), [3 van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md) en [2:68](../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md) en [3:39 van de Wet werk en arbeidsondersteuning jonggehandicapten](../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md),  
+2°. de persoon, bedoeld in de artikelen 3 tot en met 8c en 64 van de Ziektewet, 3 tot en met 7b juncto 23, eerste lid, en 81 van de Wet op de arbeidsongeschiktheidsverzekering, 7, 10 en 18 van de Wet werk en inkomen naar arbeidsvermogen, 3 van de Wet arbeidsongeschiktheidsverzekering zelfstandigen en 2:68 en 3:39 van de Wet werk en arbeidsondersteuning jonggehandicapten,  
 
-3°. degene die aanspraak maakt op een toeslag op grond van de [Toeslagenwet](../../../../../wet/toeslagenwet/BWBR0004043/README.md), zijn echtgenoot of zijn wettelijk vertegenwoordiger, en  
+3°. degene die aanspraak maakt op een toeslag op grond van de Toeslagenwet, zijn echtgenoot of zijn wettelijk vertegenwoordiger, en  
 
-4°. de werknemer, de gelijkgestelde en de beroepsbeoefenaar op arbeidsovereenkomst, bedoeld in de [artikelen 3:6](../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md) en [3:17 van de Wet arbeid en zorg](../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md);  
+4°. de werknemer, de gelijkgestelde en de beroepsbeoefenaar op arbeidsovereenkomst, bedoeld in de artikelen 3:6 en 3:17 van de Wet arbeid en zorg;  
 
-5°. de aanvrager en de uitkeringsgerechtigde als bedoeld in [artikel 1 van de Wet inkomensvoorziening oudere werklozen](../../../../../wet/wet/inkomensvoorziening/oudere/werklozen/BWBR0024394/README.md).   
+5°. de aanvrager en de uitkeringsgerechtigde als bedoeld in artikel 1 van de Wet inkomensvoorziening oudere werklozen.   
 
-b. niet naleven van een verplichting: het niet, niet tijdig of niet behoorlijk nakomen van een verplichting op grond van een van de wetten, genoemd in [artikel 1 van het Maatregelenbesluit socialezekerheidswetten](../../../../../AMvB/maatregelenbesluit/socialezekerheidswetten/BWBR0022445/README.md);  
+b. niet naleven van een verplichting: het niet, niet tijdig of niet behoorlijk nakomen van een verplichting op grond van een van de wetten, genoemd in artikel 1 van het Maatregelenbesluit socialezekerheidswetten;  
 
 c. termijngebonden verplichting: een verplichting waaraan de betrokkene binnen een bij of krachtens de wet vastgestelde termijn moet hebben voldaan;  
 
-d. eerste, tweede, derde en vierde categorie: de categorieën, genoemd in de [artikelen 3 tot en met 7 van het Maatregelenbesluit socialezekerheidswetten](../../../../../AMvB/maatregelenbesluit/socialezekerheidswetten/BWBR0022445/README.md);  
+d. eerste, tweede, derde en vierde categorie: de categorieën, genoemd in de artikelen 3 tot en met 7 van het Maatregelenbesluit socialezekerheidswetten;  
 
 e. re-integratie: het verkrijgen en vergroten van mogelijkheden tot het verrichten van arbeid en de inschakeling in arbeid;  
 
@@ -67,7 +67,7 @@ c. de betrokkene uit eigen beweging de nadelige gevolgen van het niet naleven va
 d. het niet naleven van de verplichting buitengewoon nadelige gevolgen heeft gehad voor de werkzaamheden van het UWV of voor de re-integratie van de betrokkene; of  
 
 e. het niet naleven van de verplichting, gelet op de omstandigheden waaronder dit heeft plaatsgevonden, moet worden aangemerkt als buitengewoon laakbaar.     
-4.  Indien de betrokkene, nadat toepassing is gegeven aan [artikel 8 van het Maatregelenbesluit socialezekerheidswetten](../../../../../AMvB/maatregelenbesluit/socialezekerheidswetten/BWBR0022445/README.md), blijft volharden in het niet naleven van dezelfde niet termijngebonden verplichting, wordt het percentage van de maatregel verhoogd tot het maximum, genoemd in [artikel 2, eerste lid van dat besluit](../../../../../AMvB/maatregelenbesluit/socialezekerheidswetten/BWBR0022445/README.md).  
+4.  Indien de betrokkene, nadat toepassing is gegeven aan artikel 8 van het Maatregelenbesluit socialezekerheidswetten, blijft volharden in het niet naleven van dezelfde niet termijngebonden verplichting, wordt het percentage van de maatregel verhoogd tot het maximum, genoemd in artikel 2, eerste lid van dat besluit.  
 
 ### Artikel  4  
 
@@ -99,17 +99,17 @@ e. het niet naleven van de verplichting, gelet op de omstandigheden waaronder di
 1.  Bij het niet naleven van een verplichting uit de derde categorie wordt de hoogte van de maatregel vastgesteld op 15 procent indien er sprake is van verminderde ernst of verwijtbaarheid, en op 50 procent indien er sprake is van verhoogde ernst of verwijtbaarheid.   
 2.  Van verminderde ernst of verwijtbaarheid is in elk geval sprake indien het niet naleven van de verplichting bestaat uit het onvoldoende meewerken aan een gunstig resultaat van een scholing, en dit niet heeft geleid tot het voortijdig beëindigen van die scholing.   
 3.  Van verhoogde ernst of verwijtbaarheid is in elk geval sprake indien het niet naleven van de verplichting bestaat uit het niet aanvangen of voortijdig beëindigen van een scholing met baangarantie.   
-4.  In afwijking van het eerste lid wordt bij het niet naleven van de verplichting, bedoeld in [artikel 30, eerste lid, onder a, van de Wet WIA](../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) de uitkering geweigerd voor dat deel dat niet zou zijn uitbetaald indien die verplichting wel zou zijn nageleefd.   
-5.  Indien het vierde lid wordt toegepast op de loongerelateerde uitkering, bedoeld in [artikel 59 van de Wet WIA](../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), wordt de duur van de maatregel vastgesteld op de nog resterende duur van die uitkering.  
+4.  In afwijking van het eerste lid wordt bij het niet naleven van de verplichting, bedoeld in artikel 30, eerste lid, onder a, van de Wet WIA de uitkering geweigerd voor dat deel dat niet zou zijn uitbetaald indien die verplichting wel zou zijn nageleefd.   
+5.  Indien het vierde lid wordt toegepast op de loongerelateerde uitkering, bedoeld in artikel 59 van de Wet WIA, wordt de duur van de maatregel vastgesteld op de nog resterende duur van die uitkering.  
 
 ### Artikel  8  
 
 ####Bijzonderheden vierde categorie
 
 1.  Bij het niet naleven van een verplichting uit de vierde categorie wordt de hoogte van de maatregel vastgesteld op 50 procent indien er sprake is van verminderde verwijtbaarheid.   
-2.  Bij het niet naleven van de verplichting, genoemd in [artikel 88, eerste lid, onder d, van de Wet WIA](../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), wordt de uitkering geweigerd voor de duur van het verlengde tijdvak, bedoeld in [artikel 25, negende lid, van die wet](../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md).   
-3.  Onverminderd [artikel 2, zevende lid, van het Maatregelenbesluit socialezekerheidswetten](../../../../../AMvB/maatregelenbesluit/socialezekerheidswetten/BWBR0022445/README.md), wordt bij het niet naleven van de verplichting, bedoeld in [artikel 30, derde lid, van de Wet WIA](../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) en [artikel 2:32, tweede lid, van de Wet Wajong](../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md) de uitkering geweigerd voor dat deel dat niet zou zijn uitbetaald indien die verplichting wel zou zijn nageleefd, en wordt de duur van de maatregel vastgesteld op de nog resterende duur van de loongerelateerde uitkering, de inkomensondersteuning werkregeling, respectievelijk de voortgezette inkomensondersteuning werkregeling.   
-4.  Geen maatregel wordt opgelegd indien wegens het niet naleven van de verplichting toepassing wordt gegeven aan [artikel 6, vijfde lid, van het Inkomensbesluit Wet WIA](../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md).  
+2.  Bij het niet naleven van de verplichting, genoemd in artikel 88, eerste lid, onder d, van de Wet WIA, wordt de uitkering geweigerd voor de duur van het verlengde tijdvak, bedoeld in artikel 25, negende lid, van die wet.   
+3.  Onverminderd artikel 2, zevende lid, van het Maatregelenbesluit socialezekerheidswetten, wordt bij het niet naleven van de verplichting, bedoeld in artikel 30, derde lid, van de Wet WIA en artikel 2:32, tweede lid, van de Wet Wajong de uitkering geweigerd voor dat deel dat niet zou zijn uitbetaald indien die verplichting wel zou zijn nageleefd, en wordt de duur van de maatregel vastgesteld op de nog resterende duur van de loongerelateerde uitkering, de inkomensondersteuning werkregeling, respectievelijk de voortgezette inkomensondersteuning werkregeling.   
+4.  Geen maatregel wordt opgelegd indien wegens het niet naleven van de verplichting toepassing wordt gegeven aan artikel 6, vijfde lid, van het Inkomensbesluit Wet WIA.  
 
 ### Artikel  9  
 
@@ -122,20 +122,20 @@ a. het niet naleven van de verplichting niet eerder is onderkend als gevolg van 
 
 b. het niet naleven een termijngebonden verplichting betreft, en de termijnoverschrijding (mede) betrekking heeft op een periode waarover wel recht op uitkering bestaat, maar dit recht niet geldend wordt gemaakt wegens verjaring;  
 
-c. het niet naleven de verplichting betreft om mee te werken aan het opstellen van het participatieplan, bedoeld in [artikel 2:8, tweede lid, onderdeel b, van de Wet Wajong](../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md).    
+c. het niet naleven de verplichting betreft om mee te werken aan het opstellen van het participatieplan, bedoeld in artikel 2:8, tweede lid, onderdeel b, van de Wet Wajong.    
 3.  Indien de duur van de maatregel langer is dan de periode tussen de datum waarop de maatregel op grond van het eerste lid zou ingaan en de datum waarop het recht op uitkering zal eindigen wegens het verstrijken van de daarvoor geldende maximumtermijn, gaat de maatregel, in afwijking van het eerste lid, in op een zodanige datum dat de maatregel tegelijk met het uitkeringsrecht zal eindigen, doch niet eerder dan op de datum met ingang waarvan de verplichting niet is nageleefd.  
 
 ### Artikel  10  
 
-####Intrekking [Besluit waarschuwing](../../../../../zbo/besluit/waarschuwing/BWBR0010378/README.md)
+####Intrekking Besluit waarschuwing
 
-Het [Besluit waarschuwing](../../../../../zbo/besluit/waarschuwing/BWBR0010378/README.md) wordt ingetrokken. 
+Het Besluit waarschuwing wordt ingetrokken. 
 
 ### Artikel  11  
 
 ####Overgangsrecht
 
-Dit besluit is niet van toepassing op beslissingen over maatregelen, genomen op grond van het [Maatregelenbesluit UWV](../../../../../zbo/maatregelenbesluit/uwv/BWBR0017084/README.md). 
+Dit besluit is niet van toepassing op beslissingen over maatregelen, genomen op grond van het Maatregelenbesluit UWV. 
 
 ### Artikel  12  
 

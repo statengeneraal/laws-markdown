@@ -5,14 +5,16 @@
 De minister van Binnenlandse Zaken en Koninkrijksrelaties,  
 Handelende in overeenstemming met de staatssecretaris van Financiën;
 
-Gelet op [artikel 9 van de Financiële-verhoudingswet](../../../../../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md);
+Gelet op artikel 9 van de Financiële-verhoudingswet;
 Besluit:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 28-11-2012 
 
-Voor het uitkeringsjaar 2009 worden de bedragen per eenheid, bedoeld in [artikel 9 van de Financiële-verhoudingswet](../../../../../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), vastgesteld overeenkomstig bijlage 1. 
+Voor het uitkeringsjaar 2009 worden de bedragen per eenheid, bedoeld in artikel 9 van de Financiële-verhoudingswet, vastgesteld overeenkomstig bijlage 1. 
 
 ### Artikel  2  
+Materieel uitgewerkt per 28-11-2012 
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
@@ -22,8 +24,9 @@ de waarnemend directeur Openbaar Bestuur en Democratie,
 M.H. Klijnsma    
 
 ### Bijlage  1  
+Materieel uitgewerkt per 28-11-2012 
 
-De bedragen per eenheid, bedoeld in [artikel 9 van de Financiële-verhoudingswet](../../../../../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), over het uitkeringsjaar 2009.  
+De bedragen per eenheid, bedoeld in artikel 9 van de Financiële-verhoudingswet, over het uitkeringsjaar 2009.  
 
 | Nr.  | Maatstaven  | Bedragen €  |
 |:---|:---|:---|

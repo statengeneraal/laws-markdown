@@ -3,10 +3,11 @@
 ##Besluit van de Minister van Financiën van 28 november 2012, kenmerk: FM 2012/1764 M, tot vaststelling van de bijdragen gemoedsbezwaarden 2013 (Vaststelling bedragen gemoedsbezwaarden 2013)
 
 De Minister van Financiën;  
-Gelet op [artikel 20 van de Wet aansprakelijkheidsverzekering motorrijtuigen](../../../../../../../wet/wet/aansprakelijkheidsverzekering/motorrijtuigen/BWBR0002415/README.md);
+Gelet op artikel 20 van de Wet aansprakelijkheidsverzekering motorrijtuigen;
 Besluit:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 01-01-2015 
 
 Het bedrag dat personen die gemoedsbezwaren hebben tegen het sluiten van een verzekering, verschuldigd zijn voor het verkrijgen van een bewijs van vrijstelling van de verplichting van verzekering, beloopt voor het jaar 2013:  
 
@@ -21,6 +22,7 @@ Het bedrag dat personen die gemoedsbezwaren hebben tegen het sluiten van een ver
 | Categorie 8  | € 62,50  | voor rijwielen met hulpmotor.  |
 
 ### Artikel  2  
+Materieel uitgewerkt per 01-01-2015 
 
 Deze regeling treedt in werking met ingang van 1 januari 2013. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  

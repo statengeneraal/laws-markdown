@@ -797,6 +797,13 @@ h. de voor de veiligheidsfunctie van machinist met volledige bevoegdheid en van 
 2.  Een krachtens het eerste lid, erkend opleidingsinstituut geeft op billijke en non-discriminatoire wijze toegang tot de opleidingsactiviteiten, bedoeld in het eerste lid.   
 3.  Bij of krachtens algemene maatregel van bestuur worden met inachtneming van artikel 20 van richtlijn 2007/59/EG regels gegeven voor de erkenning van de opleidingsinstituten, bedoeld in het eerste lid.  
 
+### Artikel  51c  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Bij de beoordelingen, bedoeld in de artikelen 50, eerste lid, onderdeel a, en tweede lid, onderdeel a, en 51a, vierde lid, onderdeel b, maakt Onze Minister gebruik van door Onze Minister erkende examinatoren.   
+2.  Onze Minister houdt een register van erkende examinatoren.   
+3.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de aanvraag, afgifte en geldigheid van de erkenning van examinatoren.  
+
 ### Artikel  52  
 
 Bij of krachtens algemene maatregel van bestuur kunnen, met het oog op de veiligheid, regels worden gesteld over de bedrijfsvoering en de organisatiestructuur van degene onder wiens gezag binnen het hoofdspoorwegverkeerssysteem een veiligheidsfunctie wordt uitgeoefend. 
@@ -825,6 +832,11 @@ c. die niet beschikt over een bevoegdheidsbewijs dat betrekking heeft op de spoo
 ### Artikel  54  
 
 Degene onder wiens gezag een persoon die binnen het hoofdspoorwegverkeerssysteem een functie, niet zijnde een veiligheidsfunctie, uitoefent die van invloed kan zijn op de veiligheid van het verkeer over hoofdspoorwegen, draagt er zorg voor dat die persoon daartoe geschikt is en de nodige kennis en bekwaamheid bezit. 
+
+### Artikel  54a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Onze Minister kan, met inachtneming van artikel 2, derde lid, van richtlijn 2007/59/EG, ontheffing of vrijstelling verlenen van bepalingen van paragraaf 5 van dit hoofdstuk. De ontheffing of vrijstelling kan onder beperkingen worden verleend. Aan de ontheffing of vrijstelling kunnen voorschriften worden verbonden. Bij ministeriële regeling kunnen regels worden gesteld over op welke hoofdspoorwegen en voor welke spoorvoertuigen deze ontheffing of vrijstelling mogelijk is. 
 
 ### §  6  
 
@@ -1025,6 +1037,17 @@ b. voor de dienst of voorziening een afzonderlijke boekhouding voert en deze ter
 ### Artikel  74  
 
 Indien door Onze Minister vast te stellen beleidsregels betrekking hebben op de interpretatie van mededingingsbegrippen stelt Onze Minister die beleidsregels vast in overeenstemming met Onze Minister van Economische Zaken. 
+
+### §  2a  
+
+####Vrijstelling, ontheffing of vergunning
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+### Artikel  74a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Het is verboden te handelen in strijd met de aan een op grond van deze wet verleende vrijstelling, ontheffing of vergunning verbonden voorschriften. 
 
 ### §  3  
 

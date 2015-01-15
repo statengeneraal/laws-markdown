@@ -19,7 +19,7 @@ a. UWV: het Uitvoeringsinstituut werknemersverzekeringen, genoemd in hoofdstuk 5
 
 b. WAO: Wet op de arbeidsongeschiktheidsverzekering;  
 
-c. Wet Wajong: Wet werk en arbeidsondersteuning jonggehandicapten;  
+c. Wajong: Wet arbeidsongeschiktheidsvoorziening jonggehandicapten;  
 
 d. WAZ: Wet arbeidsongeschiktheidsverzekering zelfstandigen;  
 
@@ -36,15 +36,15 @@ b. ongehuwd: de persoon die duurzaam gescheiden leeft van de persoon met wie hij
 
 ####Aanvraagtermijnen loon- en inkomenssuppletie
 
-1.  Een aanvraag voor loonsuppletie als bedoeld in artikel 65c van de WAO, artikel 67a van de WAZ en artikel 2:25 of 3:67 van de Wet Wajong wordt ingediend binnen twee maanden na aanvang van het werk in dienstbetrekking, dan wel bij aanvang van de werkzaamheden voordat een besluit over de mate van arbeidsongeschiktheid is genomen, binnen twee maanden nadat dat besluit is genomen.   
-2.  Een aanvraag voor inkomenssuppletie als bedoeld in artikel 65d van de WAO, artikel 67b van de WAZ en artikel 2:26 of 3:68 van de Wet Wajong wordt ingediend binnen zes maanden na afloop van het boekjaar waarin de uitoefening van het bedrijf of beroep is voortgezet of waarin de persoon, die recht heeft op een uitkering op grond van een van de hiervoor genoemde wetten, werkzaamheden als zelfstandige is gaan verrichten.   
+1.  Een aanvraag voor loonsuppletie als bedoeld in artikel 65c van de WAO, artikel 67a van de WAZ en artikel 2:25 of 3:67 van de Wajong wordt ingediend binnen twee maanden na aanvang van het werk in dienstbetrekking, dan wel bij aanvang van de werkzaamheden voordat een besluit over de mate van arbeidsongeschiktheid is genomen, binnen twee maanden nadat dat besluit is genomen.   
+2.  Een aanvraag voor inkomenssuppletie als bedoeld in artikel 65d van de WAO, artikel 67b van de WAZ en artikel 2:26 of 3:68 van de Wajong wordt ingediend binnen zes maanden na afloop van het boekjaar waarin de uitoefening van het bedrijf of beroep is voortgezet of waarin de persoon, die recht heeft op een uitkering op grond van een van de hiervoor genoemde wetten, werkzaamheden als zelfstandige is gaan verrichten.   
 3.  Bij overschrijding van de termijnen, bedoeld in het eerste of tweede lid, wordt geen loonsuppletie verstrekt over een periode die gelegen is meer dan twee maanden voor de aanvraag, respectievelijk geen inkomenssuppletie verstrekt over het boekjaar of de boekjaren gelegen voor de aanvraag. 
 
 ### Artikel  3  
 
 ####Maximaal bedrag starterskrediet
 
-Het bedrag, bedoeld in artikel 15, eerste lid, van het Reïntegratiebesluit, wordt vastgesteld op € 35.130. 
+Het bedrag, bedoeld in artikel 15, eerste lid, van het Reïntegratiebesluit, wordt vastgesteld op € 35.393,–. 
 
 ### §  2  
 
@@ -76,7 +76,7 @@ Op het inkomen worden in mindering gebracht kosten ter zake van ziekte of arbeid
 
 ####Buiten beschouwing blijvende bedragen bij inkomensvaststelling
 
-Bij het vaststellen van het inkomen blijft buiten beschouwing het bedrag waarmee de uitkering of inkomensvoorziening op grond van de WAO, de Wet WIA, de WAZ of de Wet Wajong, of een combinatie hiervan is verhoogd, op grond van artikel 22 van de WAO, de artikelen 53 of 63 van de Wet WIA, artikel 10 van de WAZ, of artikel 2:51 of 3:9 van de Wet Wajong, of een combinatie van deze artikelen. 
+Bij het vaststellen van het inkomen blijft buiten beschouwing het bedrag waarmee de uitkering of inkomensvoorziening op grond van de WAO, de Wet WIA, de WAZ of de Wajong, of een combinatie hiervan is verhoogd, op grond van artikel 22 van de WAO, de artikelen 53 of 63 van de Wet WIA, artikel 10 van de WAZ, of artikel 2:51 of 3:9 van de Wajong, of een combinatie van deze artikelen. 
 
 ### Artikel  8  
 
@@ -156,28 +156,6 @@ Artikel 6 is van overeenkomstige toepassing op het inkomen, bedoeld in artikel 1
 ### §  3  
 
 ####Fondsbelasting ten behoeve van het Reïntegratiefonds
-
-### Artikel  13  
-
-####Verdeling werkloosheidsfondsen/arbeidsongeschiktheidsfondsen
-
-1.  De middelen ter dekking van de uitgaven ten laste van het Reïntegratiefonds, bedoeld in artikel 2.8, eerste lid, onderdeel a, van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen, worden voor 50 procent verkregen uit de werkloosheidsfondsen en voor 50 procent uit de arbeidsongeschiktheidsfondsen gezamenlijk.   
-2.  Onder arbeidsongeschiktheidsfondsen, bedoeld in het eerste lid, worden verstaan het Arbeidsongeschiktheidsfonds, genoemd in artikel 112 van de Wet financiering sociale verzekeringen, en het Arbeidsondersteuningsfonds jonggehandicapten, genoemd in artikel 5:1 van de Wet WAJONG.   
-3.  Onder de werkloosheidsfondsen, bedoeld in het eerste lid, worden verstaan het Algemeen Werkloosheidsfonds en het Uitvoeringsfonds voor de overheid.  
-
-### Artikel  14  
-
-####Onderlinge verdeling arbeidsongeschiktheidsfondsen
-
-De ten laste van het Arbeidsongeschiktheidsfonds en het Arbeidsondersteuningsfonds jonggehandicapten, komende bijdrage aan het Reïntegratiefonds in een bepaald kalenderjaar, wordt voor elk van deze fondsen bepaald aan de hand van de volgende formule: Bf t = [ Uf t–2 : U t-2] × B t waarbij : 
-
-1. Bf t het bedrag is van de bijdrage uit een arbeidsongeschiktheidsfonds of arbeidsondersteuningsfonds tot dekking van de uitgaven in een bepaald kalenderjaar ten laste van het Reïntegratiefonds;  
-
-2. Uf t–2 het bedrag is van de uitkeringsuitgaven die in het tweede kalenderjaar voorafgaand aan het genoemd bepaald kalenderjaar ten laste zijn gekomen van het desbetreffende arbeidsongeschiktheidsfonds of arbeidsondersteuningsfonds;  
-
-3. U t-2 het totaalbedrag is van de uitkeringsuitgaven die in het tweede kalenderjaar voorafgaand aan genoemd bepaalde kalenderjaar ten laste zijn gekomen van de arbeidsongeschiktheidsfondsen of het arbeidsondersteuningsfonds gezamenlijk;  
-
-4. B t 50 procent is van de benodigde middelen tot dekking van de uitgaven in genoemd bepaald kalenderjaar ten laste van het Reïntegratiefonds.   
 
 ### Artikel  15  
 

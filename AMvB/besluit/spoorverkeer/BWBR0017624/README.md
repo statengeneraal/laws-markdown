@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Verkeer en Waterstaat van 16 september 2003, Hoofddirectie Juridische Zaken, nr. HDJZ/S&W/2003-1877;
 
-Gelet op richtlijn 2001/14/EG en op de [artikelen 23](../../../../wet/spoorwegwet/BWBR0015007/README.md), [64](../../../../wet/spoorwegwet/BWBR0015007/README.md), [65](../../../../wet/spoorwegwet/BWBR0015007/README.md) en [87, eerste lid, van de Spoorwegwet](../../../../wet/spoorwegwet/BWBR0015007/README.md); 
+Gelet op richtlijn 2001/14/EG en op de artikelen 23, 64, 65 en 87, eerste lid, van de Spoorwegwet; 
 
 De Raad van State gehoord (advies van 19 december 2003, nr. W09.03.0393/V);
 
@@ -20,7 +20,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. wet: de [Spoorwegwet](../../../../wet/spoorwegwet/BWBR0015007/README.md);  
+a. wet: de Spoorwegwet;  
 
 b. bestuurder: bestuurder van een trein;  
 
@@ -30,9 +30,9 @@ d. rangeerder: persoon die een trein begeleidt;
 
 e. spoorwegemplacement: als zodanig bij ministeriële regeling aangewezen deel van de hoofdspoorweg;  
 
-f. gevaarlijke stoffen: gevaarlijke stoffen als bedoeld in de [Wet vervoer gevaarlijke stoffen](../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md);  
+f. gevaarlijke stoffen: gevaarlijke stoffen als bedoeld in de Wet vervoer gevaarlijke stoffen;  
 
-g. hoofdspoorweg: hoofdspoorweg als bedoeld in [artikel 2, tweede lid](../../../../wet/spoorwegwet/BWBR0015007/README.md), of [artikel 124, tweede lid, van de wet](../../../../wet/spoorwegwet/BWBR0015007/README.md);  
+g. hoofdspoorweg: hoofdspoorweg als bedoeld in artikel 2, tweede lid, of artikel 124, tweede lid, van de wet;  
 
 h. gebruik van een hoofdspoorweg: met een spoorvoertuig rijden over of stilstaan op een hoofdspoorweg;  
 
@@ -159,7 +159,7 @@ De beheerder verstrekt aan de spoorwegondernemingen informatie omtrent de hoofds
 
 ### Artikel  8a  
 
-Op hoofdspoorwegen als bedoeld in [bijlage 2 bij het Besluit aanwijzing hoofdspoorwegen](../../../../KB/besluit/aanwijzing/hoofdspoorwegen/BWBR0017794/README.md) bedraagt de maximumsnelheid 30 kilometer per uur. 
+Op hoofdspoorwegen als bedoeld in bijlage 2 bij het Besluit aanwijzing hoofdspoorwegen bedraagt de maximumsnelheid 30 kilometer per uur. 
 
 ### Artikel  9  
 
@@ -172,9 +172,9 @@ Op hoofdspoorwegen als bedoeld in [bijlage 2 bij het Besluit aanwijzing hoofdspo
 
 a. hij rijdt op een gedeelte van de hoofdspoorweg waar het verkeer niet wordt geregeld door lichtseinen,  
 
-b. hij op aanwijzing van de beheerder een lichtsein voorzien van een onderbord met het opschrift P als bedoeld in [bijlage 4 van de Regeling spoorverkeer](../../../../ministeriele-regeling/regeling/spoorverkeer/BWBR0017707/README.md) passeert dat een rood licht uitstraalt,  
+b. hij op aanwijzing van de beheerder een lichtsein voorzien van een onderbord met het opschrift P als bedoeld in bijlage 4 van de Regeling spoorverkeer passeert dat een rood licht uitstraalt,  
 
-c. hij rijdt op een gedeelte van de hoofdspoorweg dat buiten dienst is gesteld als bedoeld in [artikel 64 van de wet](../../../../wet/spoorwegwet/BWBR0015007/README.md),  
+c. hij rijdt op een gedeelte van de hoofdspoorweg dat buiten dienst is gesteld als bedoeld in artikel 64 van de wet,  
 
 d. hij via de voorgeschreven communicatiemiddelen een alarmsignaal heeft ontvangen, met dien verstande dat de snelheid ten hoogste 40 km/h mag bedragen.     
 2.  Onverminderd artikel 8a en artikel 9 is het de bestuurder verboden met een hogere snelheid dan 40 km/h te rijden indien de trein uit meerdere voertuigen bestaat en deze niet is uitgerust met een doorgaande en zelfwerkende reminrichting.   
@@ -226,15 +226,15 @@ c.bij het achteruitrijden met een treinstel over korte afstand uitsluitend in ve
 
 ### Artikel  16  
 
-1.  De bestuurder die over hoofdspoorwegen als bedoeld in [bijlage 2 bij het Besluit aanwijzing hoofdspoorwegen](../../../../KB/besluit/aanwijzing/hoofdspoorwegen/BWBR0017794/README.md) rijdt, die gelegen zijn in een kruising of een samenloop met een voor het openbaar verkeer openstaande weg als bedoeld in de [Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en die niet worden aangeduid als een overweg door middel van de borden J12 en J13 van [bijlage 1 bij het Reglement verkeersregels en verkeerstekens 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) is verplicht: 
+1.  De bestuurder die over hoofdspoorwegen als bedoeld in bijlage 2 bij het Besluit aanwijzing hoofdspoorwegen rijdt, die gelegen zijn in een kruising of een samenloop met een voor het openbaar verkeer openstaande weg als bedoeld in de Wegenverkeerswet 1994 en die niet worden aangeduid als een overweg door middel van de borden J12 en J13 van bijlage 1 bij het Reglement verkeersregels en verkeerstekens 1990 is verplicht: 
 
 a. de snelheid te verminderen en zonodig te stoppen als de veiligheid van het verkeer dat verlangt;  
 
 b. de weggebruikers voor te laten gaan;  
 
-c. de aanwijzingen 1 tot en met 7 van [bijlage 2, behorende bij het Reglement verkeersregels en verkeerstekens 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), op te volgen;  
+c. de aanwijzingen 1 tot en met 7 van bijlage 2, behorende bij het Reglement verkeersregels en verkeerstekens 1990, op te volgen;  
 
-d. aan de weggebruikers de voor het rijden van de trein en voor de veiligheid van het verkeer benodigde stoptekens, bedoeld in [artikel 82, vierde lid, van het Reglement verkeersregels en verkeerstekens 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), en andere aanwijzingen te geven.     
+d. aan de weggebruikers de voor het rijden van de trein en voor de veiligheid van het verkeer benodigde stoptekens, bedoeld in artikel 82, vierde lid, van het Reglement verkeersregels en verkeerstekens 1990, en andere aanwijzingen te geven.     
 2.  Wanneer de bestuurder de stoptekens en aanwijzingen in het eerste lid, onder d, niet kan geven, worden deze gegeven door de rangeerder die de trein begeleidt.  
 
 ###Artikel 17 
@@ -244,7 +244,7 @@ d. aan de weggebruikers de voor het rijden van de trein en voor de veiligheid va
 
 a.indien zij deze niet terstond geheel kunnen passeren en deze niet geheel vrij kunnen maken;
 
-b.indien aldaar door een begeleider van een trein een stopteken overeenkomstig model F 10 van [bijlage I van het RVV 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), een rode vlag of een rode lamp wordt getoond.
+b.indien aldaar door een begeleider van een trein een stopteken overeenkomstig model F 10 van bijlage I van het RVV 1990, een rode vlag of een rode lamp wordt getoond.
 
 ###Artikel 18 
 
@@ -277,7 +277,7 @@ Bij ministeriële regeling worden nadere regels gesteld over de aard, uitvoering
 
 De beheerder draagt er zorg voor: 
 
-a. dat gedeelten van de hoofdspoorweg, die buiten dienst zijn gesteld als bedoeld in [artikel 64 van de wet](../../../../wet/spoorwegwet/BWBR0015007/README.md), worden aangeduid met de daartoe door de beheerder aangewezen seinen overeenkomstig het krachtens artikel 20 bepaalde;  
+a. dat gedeelten van de hoofdspoorweg, die buiten dienst zijn gesteld als bedoeld in artikel 64 van de wet, worden aangeduid met de daartoe door de beheerder aangewezen seinen overeenkomstig het krachtens artikel 20 bepaalde;  
 
 b. dat de hoofdspoorweg ter plaatse waar werkzaamheden aan of nabij die hoofdspoorweg worden uitgevoerd, in de bij ministeriële regeling bepaalde gevallen buiten dienst wordt gesteld of doelmatig wordt afgeschermd;  
 
@@ -328,7 +328,7 @@ a.drie brandende witte of gele lichten aan de voorzijde;
 b.twee brandende, al dan niet knipperende, rode lichten aan de achterzijde.
 2. In afwijking van het eerste lid:
 
-a.mag een trein, met uitzondering van een trein op een buiten dienst gesteld spoor als bedoeld in [artikel 64 van de wet](../../../../wet/spoorwegwet/BWBR0015007/README.md), aan de achterzijde zijn voorzien van twee schilden in plaats van twee rode lichten;
+a.mag een trein, met uitzondering van een trein op een buiten dienst gesteld spoor als bedoeld in artikel 64 van de wet, aan de achterzijde zijn voorzien van twee schilden in plaats van twee rode lichten;
 
 b.mag een trein, die niet bestemd is voor het vervoer van personen, aan de achterzijde zijn voorzien van een brandend, al dan niet knipperend, rood licht.
 3. Bij ministeriële regeling worden regels gesteld over het model, de afmetingen, het reflecterend vermogen en de plaatsing van de schilden.
@@ -421,11 +421,11 @@ Het is verboden om tijdens de reis met een trein van het hoge-snelheidsspoorwegs
 
 ###Artikel 39a 
 
-[Artikel 36, eerste lid, van de wet](../../../../wet/spoorwegwet/BWBR0015007/README.md) geldt niet voor een spoorvoertuig:
+Artikel 36, eerste lid, van de wet geldt niet voor een spoorvoertuig:
 
 a.dat in overeenstemming met de op 31 december 2004 geldende voorschriften kon worden gebruikt op een hoofdspoorweg;
 
-b.waarvoor Onze Minister voor 19 juli 2008 een inzetcertificaat heeft verleend als bedoeld in [artikel 36, vierde lid, van de wet](../../../../wet/spoorwegwet/BWBR0015007/README.md), zoals dat op 19 juli 2008 luidde;
+b.waarvoor Onze Minister voor 19 juli 2008 een inzetcertificaat heeft verleend als bedoeld in artikel 36, vierde lid, van de wet, zoals dat op 19 juli 2008 luidde;
 
 c.dat voldoet aan de technische voorschriften van de Overeenkomst inzake het wederzijdse gebruik van personenrijtuigen en bagagewagens in het internationale verkeer (RIC) in haar laatst geldende redactie, in het voertuigregister van een staat is ingeschreven, en waarmee voor 19 juli 2008 van hoofdspoorweginfrastructuur gebruik werd gemaakt, of
 
@@ -436,19 +436,19 @@ d.dat voldoet aan de technische voorschriften van de Overeenkomst inzake het wed
 1.  Bij regeling van Onze Minister worden regels gesteld over het onderzoek naar de overeenstemming van de productie van het spoorvoertuig waarvoor een vergunning voor indienststelling respectievelijk aanvullende vergunning voor indienststelling van het type is verleend, met dat type.   
 2.  Bij regeling van Onze Minister worden met inachtneming van het daaromtrent bij of krachtens richtlijn 2008/57/EG bepaalde, regels gesteld over de verlening en aanvraag van: 
 
-a. de vergunning voor indienststelling, bedoeld in [artikel 36, derde lid, van de wet](../../../../wet/spoorwegwet/BWBR0015007/README.md) en van de vergunning voor indienststelling of van de nieuwe vergunning voor indienststelling, bedoeld in [artikel 37b, derde lid van de wet](../../../../wet/spoorwegwet/BWBR0015007/README.md);  
+a. de vergunning voor indienststelling, bedoeld in artikel 36, derde lid, van de wet en van de vergunning voor indienststelling of van de nieuwe vergunning voor indienststelling, bedoeld in artikel 37b, derde lid van de wet;  
 
-b. de aanvullende vergunning voor indienststelling, bedoeld in [artikel 36, vijfde lid, van de wet](../../../../wet/spoorwegwet/BWBR0015007/README.md) en van de aanvullende vergunning voor indienststelling en van de nieuwe aanvullende vergunning voor indienststelling, bedoeld in [artikel 37b, zesde lid, van de wet](../../../../wet/spoorwegwet/BWBR0015007/README.md)     
-3.  Bij regeling van Onze Minister kunnen met inachtneming van het daaromtrent bij of krachtens richtlijn 2008/57/EG bepaalde, regels worden gesteld over de afgifte, vorm en inhoud van de EG-keuringsverklaring, bedoeld in [artikel 8, vierde lid](../../../../wet/spoorwegwet/BWBR0015007/README.md), onderscheidenlijk [artikel 36, zesde lid, van de wet](../../../../wet/spoorwegwet/BWBR0015007/README.md) en het informatiedossier, bedoeld in [artikel 37b, tweede lid, van de wet](../../../../wet/spoorwegwet/BWBR0015007/README.md).   
+b. de aanvullende vergunning voor indienststelling, bedoeld in artikel 36, vijfde lid, van de wet en van de aanvullende vergunning voor indienststelling en van de nieuwe aanvullende vergunning voor indienststelling, bedoeld in artikel 37b, zesde lid, van de wet     
+3.  Bij regeling van Onze Minister kunnen met inachtneming van het daaromtrent bij of krachtens richtlijn 2008/57/EG bepaalde, regels worden gesteld over de afgifte, vorm en inhoud van de EG-keuringsverklaring, bedoeld in artikel 8, vierde lid, onderscheidenlijk artikel 36, zesde lid, van de wet en het informatiedossier, bedoeld in artikel 37b, tweede lid, van de wet.   
 4.  Bij regeling van Onze Minister kunnen met inachtneming van het daaromtrent bij of krachtens richtlijn 2008/57/EG bepaalde, regels worden gesteld over het registreren of bewaren van gegevens over: 
 
-a. de afgifte van de EG-keuringsverklaring, bedoeld in [artikel 36, zesde lid, van de wet](../../../../wet/spoorwegwet/BWBR0015007/README.md);  
+a. de afgifte van de EG-keuringsverklaring, bedoeld in artikel 36, zesde lid, van de wet;  
 
-b. de afgifte van de verklaring, bedoeld in [artikel 36, zevende lid, van de wet](../../../../wet/spoorwegwet/BWBR0015007/README.md) of van de verklaring, bedoeld in [artikel 37b, negende lid, van de wet](../../../../wet/spoorwegwet/BWBR0015007/README.md);  
+b. de afgifte van de verklaring, bedoeld in artikel 36, zevende lid, van de wet of van de verklaring, bedoeld in artikel 37b, negende lid, van de wet;  
 
-c. de aanvraag en de verlening van de vergunning voor indienststelling, bedoeld in [artikel 36, derde lid, van de wet](../../../../wet/spoorwegwet/BWBR0015007/README.md) of van de vergunning voor indienststelling of nieuwe vergunning voor indienststelling, bedoeld [artikel 37b, derde lid, van de wet](../../../../wet/spoorwegwet/BWBR0015007/README.md) en  
+c. de aanvraag en de verlening van de vergunning voor indienststelling, bedoeld in artikel 36, derde lid, van de wet of van de vergunning voor indienststelling of nieuwe vergunning voor indienststelling, bedoeld artikel 37b, derde lid, van de wet en  
 
-d. de aanvraag en de verlening van de aanvullende vergunning voor indienststelling, bedoeld in [artikel 36, vijfde lid, van de wet](../../../../wet/spoorwegwet/BWBR0015007/README.md) of van de aanvullende vergunning voor indienststelling of nieuwe vergunning voor indienststelling, bedoeld in [artikel 37b, zesde lid, van de wet](../../../../wet/spoorwegwet/BWBR0015007/README.md).     
+d. de aanvraag en de verlening van de aanvullende vergunning voor indienststelling, bedoeld in artikel 36, vijfde lid, van de wet of van de aanvullende vergunning voor indienststelling of nieuwe vergunning voor indienststelling, bedoeld in artikel 37b, zesde lid, van de wet.     
 5.  Bij regeling van Onze Minister kunnen met inachtneming van het daaromtrent bij of krachtens richtlijn 2008/57/EG bepaalde, regels worden gesteld over: 
 
 a. vorm en inhoud van de EG-verklaringen van conformiteit of geschiktheid voor gebruik als bedoeld in artikel 13, eerste lid, van richtlijn 2008/57/EG, alsmede over het registreren of bewaren van gegevens of documenten over de afgifte, en  
@@ -476,11 +476,11 @@ b.in het belang van een veilig en ongestoord gebruik van de hoofdspoorwegen.
 
 ### Artikel  41  
 
-Overtreding van de artikelen 17, 33 en 39 vormt een strafbaar feit in de zin van [artikel 87, eerste lid, van de wet](../../../../wet/spoorwegwet/BWBR0015007/README.md). 
+Overtreding van de artikelen 17, 33 en 39 vormt een strafbaar feit in de zin van artikel 87, eerste lid, van de wet. 
 
 ### Artikel  41a  
 
-Overtreding van de artikelen 2, eerste, derde, vierde en vijfde lid, 3, derde lid, 4, tweede en vierde lid, 5, 6, tweede lid, 7, 8, 8a, 9, eerste lid, 10, eerste en tweede lid, 11, 12, eerste, derde en vierde lid, 13, eerste en derde lid, 14, eerste en derde lid, 15, eerste en derde lid, 16, 18, eerste, derde en vierde lid, 19, 21, 22, 23, eerste, derde en vierde lid, 24, 25, eerste lid, 27, derde lid, 30, 31, 34, 35, 36, 37, eerste en derde lid, en 40, vierde lid, vormt een beboetbaar feit in de zin van [artikel 77, eerste lid, van de wet](../../../../wet/spoorwegwet/BWBR0015007/README.md).  
+Overtreding van de artikelen 2, eerste, derde, vierde en vijfde lid, 3, derde lid, 4, tweede en vierde lid, 5, 6, tweede lid, 7, 8, 8a, 9, eerste lid, 10, eerste en tweede lid, 11, 12, eerste, derde en vierde lid, 13, eerste en derde lid, 14, eerste en derde lid, 15, eerste en derde lid, 16, 18, eerste, derde en vierde lid, 19, 21, 22, 23, eerste, derde en vierde lid, 24, 25, eerste lid, 27, derde lid, 30, 31, 34, 35, 36, 37, eerste en derde lid, en 40, vierde lid, vormt een beboetbaar feit in de zin van artikel 77, eerste lid, van de wet.  
 
 ###§ 13 
 

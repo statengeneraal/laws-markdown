@@ -112,7 +112,7 @@ Indien Wij of Onze Minister dit wenselijk achten wordt, behalve het advies van h
 
 ### Artikel  15  
 
-1.  Onze Minister kan aan een krachtens algemene maatregel van bestuur aangewezen reclasseringsinstelling dan wel aan bijzondere, door hem aangewezen ambtenaren opdracht geven de veroordeelde bij de naleving van de voorwaarden hulp en steun te verlenen. Een dergelijke opdracht kan, indien de veroordeling is uitgesproken met toepassing van de bijzondere strafbepalingen voor jeugdige personen ook worden gegeven aan een stichting als bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg, een door Onze Minister aan te wijzen voorziening of aan een particulier persoon.    
+1.  Onze Minister kan aan een krachtens algemene maatregel van bestuur aangewezen reclasseringsinstelling dan wel aan bijzondere, door hem aangewezen ambtenaren opdracht geven de veroordeelde bij de naleving van de voorwaarden hulp en steun te verlenen. Een dergelijke opdracht kan, indien de veroordeling is uitgesproken met toepassing van de bijzondere strafbepalingen voor jeugdige personen ook worden gegeven aan een gecertificeerde instelling als bedoeld in artikel 1.1 van de Jeugdwet, een door Onze Minister aan te wijzen voorziening of aan een particulier persoon.    
 2.   Indien de veroordeelde buiten Nederland verblijft, kan de opdracht ook gegeven worden aan een andere instelling of persoon die zich tot aanvaarding van die opdracht bereid heeft verklaard.   
 
 ### Artikel  16  

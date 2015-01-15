@@ -560,9 +560,7 @@ Treedt in werking per 01-07-2016
 
 1.  In afwijking van artikel 8, derde lid, wordt voor de persoon, bedoeld in artikel 2, zesde lid, de toeslag zodanig vastgesteld dat deze gelijk is aan het verschil tussen 
 
-a. vervallen.   
-
-b. in 2016 
+a. van 1 juli 2016 tot en met 31 december 2016 
 
 1°. indien hij 23 jaar of ouder is: € 46,83  
 
@@ -570,7 +568,7 @@ b. in 2016
 
 3°. indien hij 21 jaar is: € 31,09     en het inkomen per dag. 
 
-c. in 2017 
+b. in 2017 
 
 1°. indien hij 23 jaar of ouder is: € 42,33  
 
@@ -578,18 +576,17 @@ c. in 2017
 
 3°. indien hij 21 jaar is: € 28,04     en het inkomen per dag. 
 
-d. in 2018 
+c. in 2018 
 
 1°. indien hij 23 jaar of ouder is: € 37,90  
 
 2°. indien hij 22 jaar is: € 30,12  
 
 3°. indien hij 21 jaar is: € 24,98     en het inkomen per dag.   
-2.  Het eerste lid, onderdeel a, vervalt met ingang van 1 januari 2016.   
-3.  Het eerste lid, onderdeel b, vervalt met ingang van 1 januari 2017.   
-4.  Het eerste lid, onderdeel c, vervalt met ingang van 1 januari 2018.   
-5.  In artikel 9 wordt «de artikelen 2, 8 en 44d» met ingang van 1 januari 2019 vervangen door: de artikelen 2 en 8.   
-6.  Dit artikel vervalt met ingang van 1 januari 2019.  
+2.  Het eerste lid, onderdeel a, vervalt met ingang van 1 januari 2017.   
+3.  Het eerste lid, onderdeel b, vervalt met ingang van 1 januari 2018.   
+4.  In artikel 9 wordt «de artikelen 2, 8 en 44d» met ingang van 1 januari 2019 vervangen door: de artikelen 2 en 8.   
+5.  Dit artikel vervalt met ingang van 1 januari 2019.  
 
 ### Artikel  45  
 

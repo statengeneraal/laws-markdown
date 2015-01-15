@@ -9,10 +9,7 @@ BESLUIT:
 
 ####Algemeen
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  1.1  
-Treedt in werking per 01-01-2015 
 
 In deze regeling wordt verstaan onder: 
 
@@ -38,15 +35,11 @@ In deze regeling wordt verstaan onder:
 
 ####uitvoering artikel 9.7.1.1 van de wet
 
-Treedt in werking per 01-01-2015 
-
 De energie-inhoud op basis van de onderste verbrandingswaarde van biobrandstof waarvoor in bijlage III bij de richtlijn hernieuwbare energie geen energie-inhoud wordt vermeld en van hernieuwbare brandstof, wordt door de inboeker aangetoond aan de hand van bestaande gegevens of vastgesteld door een volgens ISO-/IEC 17025 geaccrediteerd laboratorium. 
 
 ### Artikel  1.3  
 
 ####uitvoering artikel 9.7.1.4 van de wet
-
-Treedt in werking per 01-01-2015 
 
 1.  De rijksbelastingdienst verstrekt op verzoek van het bestuur van de emissieautoriteit alle informatie die de emissieautoriteit nodig heeft om te bepalen welke ondernemingen een jaarverplichting hebben. Hiertoe levert zij ten minste in oktober en februari een lijst met namen van de dan bekende ondernemingen met een jaarverplichting over het betreffende respectievelijk voorafgaande kalenderjaar. Deze lijst omvat de houders van een vergunning voor een accijnsgoederenplaats voor minerale oliën, of geregistreerd geadresseerden voor minerale oliën, die meer dan 500.000 liter benzine, diesel, LPG of LNG leveren tot eindverbruik, dan wel importeur zijn.   
 2.  De rijksbelastingdienst verstrekt op verzoek van het bestuur van de emissieautoriteit alle informatie die de emissieautoriteit nodig heeft om te bepalen of in het register de leveringen tot eindverbruik door ondernemingen juist en volledig zijn geregistreerd. Hiertoe voert de rijksbelastingdienst ten minste een gegevensanalyse uit nadat zij daartoe de benodigde gegevens heeft ontvangen van de emissieautoriteit. Ook verstrekt zij aan de emissieautoriteit risicosignalen ten aanzien van ondernemingen bedoeld in het eerste lid.   
@@ -57,13 +50,9 @@ Treedt in werking per 01-01-2015
 
 ####Jaarverplichting hernieuwbare energie vervoer
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  2.1  
 
 ####uitvoering artikel 9.7.2.3 van de wet
-
-Treedt in werking per 01-01-2015 
 
 Bij het invoeren van de hoeveelheid benzine, diesel, vloeibare biobrandstof en vloeibare hernieuwbare brandstof, bedoeld in artikel 9.7.2.3, eerste lid, van de wet, vermeldt de leverancier tot eindverbruik de volgende gegevens: 
 
@@ -81,13 +70,9 @@ e. indien de opgave afwijkt van de accijnsopgave, de reden voor die afwijking.
 
 ####Inboeken hernieuwbare energie vervoer
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  3.1  
 
 ####uitvoering artikel 9.7.4.5, onderdelen a en b, van de wet
-
-Treedt in werking per 01-01-2015 
 
 1.  De hoeveelheid vloeibare biobrandstof die wordt ingeboekt is de hoeveelheid in liters bij een temperatuur van 15 °C die blijkens de massabalans van het gehanteerde duurzaamheidssysteem en de bedrijfsadministratie van de locatie van de inboeker is geleverd aan de Nederlandse markt voor vervoer.   
 2.  Voor een hoeveelheid vloeibare biobrandstof die wordt ingeboekt stelt de inboeker ten behoeve van het bestuur van de emissieautoriteit een bewijs van duurzaamheid op.   
@@ -96,8 +81,6 @@ Treedt in werking per 01-01-2015
 ### Artikel  3.2  
 
 ####uitvoering artikel 9.7.4.5, onderdelen a en b, van de wet
-
-Treedt in werking per 01-01-2015 
 
 1.  De hoeveelheid aan vervoer in Nederland geleverde gasvormige biobrandstof die wordt ingeboekt, is de geleverde hoeveelheid gas in normaal m<sup>3</sup> die blijkt uit de meter van het aan de gasaansluiting van de inboeker gekoppelde bemeterd leverpunt of de aan de gasaansluiting van de inboeker gekoppelde bemeterde leverpunten.   
 2.  Voor een hoeveelheid gasvormige biobrandstof die wordt ingeboekt zijn garanties van oorsprong afgegeven. De op de garanties van oorsprong vermelde hoeveelheid fysiek ingevoede gasvormige biobrandstof heeft ten minste de omvang van de hoeveelheid, bedoeld in het eerste lid.   
@@ -112,8 +95,6 @@ b. hebben op het moment van overboeken op die rekening hun geldigheid niet verlo
 
 ####uitvoering artikel 9.7.4.5, onderdelen a en b, van de wet
 
-Treedt in werking per 01-01-2015 
-
 1.  De hoeveelheid vloeibare hernieuwbare brandstof die wordt ingeboekt is de hoeveelheid in liters bij een temperatuur van 15 °C die blijkens de bedrijfsadministratie van de inboeker is geleverd aan de Nederlandse markt voor vervoer.   
 2.  Voor een hoeveelheid vloeibare hernieuwbare brandstof die wordt ingeboekt is een verificatieverklaring hernieuwbare brandstof afgegeven.   
 3.  Vloeibare hernieuwbare brandstof kan worden ingeboekt door de onderneming die die brandstof geleverd heeft gekregen door de producent.  
@@ -122,15 +103,11 @@ Treedt in werking per 01-01-2015
 
 ####uitvoering artikel 9.7.4.5, onderdelen a en b, van de wet
 
-Treedt in werking per 01-01-2015 
-
 De hoeveelheid aan wegvoertuigen in Nederland geleverde elektriciteit die wordt ingeboekt is de geleverde hoeveelheid in kWh die blijkt uit de meter van het aan de elektriciteitsaansluiting van de inboeker gekoppelde leverpunt of de aan de elektriciteitsaansluiting van de inboeker gekoppelde leverpunten. 
 
 ### Artikel  3.5  
 
 ####uitvoering artikel 9.7.4.5, onderdelen c en d, van de wet
-
-Treedt in werking per 01-01-2015 
 
 1.  Bij het inboeken van een hoeveelheid hernieuwbare energie vervoer vermeldt de inboeker de in bijlage 1 genoemde gegevens.   
 2.  De inboeker beschikt over de bewijsstukken met betrekking tot de gegevens, bedoeld in het eerste lid.   
@@ -140,8 +117,6 @@ Treedt in werking per 01-01-2015
 
 ####uitvoering artikel 9.7.4.6, derde lid, van de wet
 
-Treedt in werking per 01-01-2015 
-
 1.  Het gedeelte, bedoeld in artikel 9.7.4.6, derde lid, van de wet, is het door Eurostat bekend gemaakte gemiddelde aandeel van elektriciteit uit hernieuwbare bronnen in de Europese Unie twee jaar voorafgaand aan het betreffende kalenderjaar.   
 2.  De factor, bedoeld in artikel 9.7.4.6, derde lid, van de wet is tweeënhalf.  
 
@@ -149,15 +124,11 @@ Treedt in werking per 01-01-2015
 
 ####uitvoering artikel 9.7.4.6, vierde lid, van de wet
 
-Treedt in werking per 01-01-2015 
-
 De importeur die een hoeveelheid vloeibare biobrandstof heeft ingeboekt, overlegt aan het bestuur van de emissieautoriteit een bewijs van aangifte accijns voor die hoeveelheid. 
 
 ### Artikel  3.8  
 
 ####uitvoering artikel 3.6, eerste lid, van het besluit
-
-Treedt in werking per 01-01-2015 
 
 Bij de uitgifte van hernieuwbare brandstofeenheden door het bestuur van de emissieautoriteit wordt de energie-inhoud van biobrandstof die is geproduceerd uit de materialen, genoemd in bijlage 2: 
 
@@ -168,8 +139,6 @@ b. tabel 4 en 5 niet vermenigvuldigd met twee.
 ### Artikel  3.9  
 
 ####uitvoering artikel 3.6, eerste lid, van het besluit
-
-Treedt in werking per 01-01-2015 
 
 1.  Op verzoek van de drijver van een inrichting kan de minister besluiten dat, in afwijking van artikel 3.8, onderdeel b, bij de uitgifte van hernieuwbare biobrandstofeenheden door het bestuur van de emissieautoriteit de energie-inhoud van biobrandstof die is geproduceerd uit materialen, genoemd in bijlage 2, tabel 5, onder specifieke locatie- of bedrijfsomstandigheden wordt vermenigvuldigd met twee.   
 2.  Een verzoek als bedoeld in het eerste lid vermeldt in ieder geval de ontstaanswijze van het materiaal, de huidige toepassingen van het materiaal en de marktcondities.   
@@ -208,13 +177,9 @@ b.  *residu:* van landbouw, aquacultuur, visserij of bosbouw afkomstig restprodu
 
 ####Verificatie
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  4.1  
 
 ####uitvoering artikel 4.3 van het besluit
-
-Treedt in werking per 01-01-2015 
 
 1.  De verificateur hernieuwbare brandstof: 
 
@@ -228,8 +193,6 @@ c. ziet erop toe dat te verifiëren hoeveelheden energie en grondstoffen zijn be
 ### Artikel  4.2  
 
 ####uitvoering artikel 4.6 van het besluit
-
-Treedt in werking per 01-01-2015 
 
 1.  De dubbeltellingverificateur: 
 
@@ -248,8 +211,6 @@ e. ziet er op toe dat het toegepaste duurzaamheidssysteem passend is voor de geb
 
 ####uitvoering artikel 4.9 van het besluit
 
-Treedt in werking per 01-01-2015 
-
 1.  De inboekverificatieverklaring dan wel het rapport van bevindingen wordt langs elektronische weg verstrekt aan het bestuur van de emissieautoriteit.   
 2.  De inboekverificateur vermeldt in het register het resultaat van de verificatie.   
 3.  De inboekverificatie voldoet aan de eisen gesteld in bijlage 6.   
@@ -259,13 +220,9 @@ Treedt in werking per 01-01-2015
 
 ####Register hernieuwbare energie vervoer
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  5.1  
 
 ####uitvoering artikel 9.7.5.2, eerste lid, van de wet
-
-Treedt in werking per 01-01-2015 
 
 1.  Het register is toegankelijk via het internet.   
 2.  Het register is toegankelijk op werkdagen van 9.00 tot 17.00 uur.   
@@ -275,8 +232,6 @@ Treedt in werking per 01-01-2015
 
 ####uitvoering artikel 9.7.5.2, eerste lid, van de wet
 
-Treedt in werking per 01-01-2015 
-
 1.  De emissieautoriteit neemt alle maatregelen die redelijkerwijs van haar verwacht kunnen worden om er voor te zorgen dat het register beschikbaar is op werkdagen van 9.00 tot 17.00 uur.   
 2.  De emissieautoriteit draagt tevens zorg voor de nodige voorzieningen van technische en organisatorische aard ter beveiliging van het register tegen verlies of aantasting van gegevens en tegen onbevoegde kennisneming, wijziging of verstrekking daarvan.  
 
@@ -284,15 +239,11 @@ Treedt in werking per 01-01-2015
 
 ####uitvoering artikel 9.7.5.2, eerste lid, van de wet
 
-Treedt in werking per 01-01-2015 
-
 De emissieautoriteit kan de toegang tot het register opschorten indien schade is ontstaan of dreigt te ontstaan aan het register. 
 
 ### Artikel  5.4  
 
 ####uitvoering artikel 9.7.5.3, vijfde lid, van de wet
-
-Treedt in werking per 01-01-2015 
 
 1.  De aanvraag voor een rekening vermeldt de gewenste faciliteiten.   
 2.  Bij de aanvraag voor een rekening verstrekt de onderneming aan het bestuur van de emissieautoriteit langs elektronische weg de volgende gegevens: 
@@ -316,8 +267,6 @@ f. indien de onderneming een vergunning voor een accijnsgoederenplaats heeft of 
 ### Artikel  5.5  
 
 ####uitvoering artikel 9.7.5.3, vijfde lid, van de wet
-
-Treedt in werking per 01-01-2015 
 
 1.  Bij de aanvraag van een rekening met inboekfaciliteit verstrekt de onderneming aan het bestuur van de emissieautoriteit langs elektronische weg voorts de volgende gegevens, indien de onderneming: 
 
@@ -347,8 +296,6 @@ d. elektriciteit wil inboeken:
 
 ####uitvoering artikel 9.7.5.3, vijfde lid, van de wet
 
-Treedt in werking per 01-01-2015 
-
 1.  Het bestuur van de emissieautoriteit controleert of de gegevens en documenten die verstrekt zijn, volledig, actueel, nauwkeurig en waarheidsgetrouw zijn.   
 2.  Indien is voldaan aan de eisen voor het hebben van een rekening maakt de emissieautoriteit uiterlijk tien werkdagen na ontvangst van de gegevens, bedoeld in de artikelen 5.4 of 5.5, in het register een rekening aan voor de aanvrager.   
 3.  Alvorens de rekening te gebruiken accepteert de rekeninghouder de gebruiksvoorwaarden.  
@@ -356,8 +303,6 @@ Treedt in werking per 01-01-2015
 ### Artikel  5.7  
 
 ####uitvoering artikel 9.7.5.3, vijfde lid, van de wet
-
-Treedt in werking per 01-01-2015 
 
 1.  De rekeninghouder meldt wijzigingen van de op hem betrekking hebbende gegevens, bedoeld in de artikel 5.4 of 5.5, binnen tien werkdagen langs elektronische weg aan het bestuur van de emissieautoriteit.   
 2.  De emissieautoriteit wijzigt de gegevens, nadat de juistheid van de melding, bedoeld in het eerste lid, is vastgesteld overeenkomstig die melding binnen tien werkdagen na ontvangst van die melding.   
@@ -367,8 +312,6 @@ Treedt in werking per 01-01-2015
 
 ####uitvoering artikel 9.7.5.3, vijfde lid, van de wet
 
-Treedt in werking per 01-01-2015 
-
 1.  Indien een rekeningbevoegde weet of vermoedt dat een onbevoegde persoon zich toegang tot de rekening kan verschaffen, meldt hij dit onverwijld langs elektronische weg aan het bestuur van de emissieautoriteit.   
 2.  Indien een melding als bedoeld in het eerste lid is ontvangen, schort de emissieautoriteit de toegang tot de betreffende rekening op.   
 3.  Tot het moment waarop de melding, bedoeld in het eerste lid, is ontvangen, wordt elke toegang tot de rekening als bevoegd aangemerkt.  
@@ -376,8 +319,6 @@ Treedt in werking per 01-01-2015
 ### Artikel  5.9  
 
 ####uitvoering artikel 9.7.5.3, vijfde lid, van de wet
-
-Treedt in werking per 01-01-2015 
 
 1.  De rekeninghouder wijst per rekening ten minste twee en ten hoogste tien rekeningbevoegden aan.   
 2.  De rekeninghouder kan per rekening ten minste twee en ten hoogste tien fiatteurs aanwijzen.   
@@ -387,13 +328,9 @@ Treedt in werking per 01-01-2015
 
 ####Rapportage
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  6.1  
 
 ####uitvoering artikel 9.7.4.7, eerste lid, van de wet
-
-Treedt in werking per 01-01-2015 
 
 Het overzicht, bedoeld in artikel 9.7.4.7 van de wet wordt openbaar gemaakt op 1 januari, 1 maart, 10 april, 1 juli en 1 oktober, dan wel op de eerste werkdag na de genoemde datum. 
 
@@ -401,25 +338,19 @@ Het overzicht, bedoeld in artikel 9.7.4.7 van de wet wordt openbaar gemaakt op 1
 
 ####Slotbepalingen
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  7.1  
-Treedt in werking per 01-01-2015 
 
 Wijzigt het Besluit aanwijzing ambtenaren VROM-regelgeving. 
 
 ### Artikel  7.2  
-Treedt in werking per 01-01-2015 
 
 De Regeling hernieuwbare energie vervoer wordt ingetrokken. 
 
 ### Artikel  7.3  
-Treedt in werking per 01-01-2015 
 
 Deze regeling treedt in werking met ingang van 1 januari 2015. 
 
 ### Artikel  7.4  
-Treedt in werking per 01-01-2015 
 
 Deze regeling wordt aangehaald als: Regeling hernieuwbare energie vervoer 2015. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
@@ -431,8 +362,6 @@ W.J. Mansveld
 ### Bijlage 1 
 
 #### bij artikel 3.5 
-
-Treedt in werking per 01-01-2015 
 
 ####Bij inboeking van hernieuwbare energie vervoer te vermelden gegevens
 
@@ -538,8 +467,6 @@ De per elektriciteitsaansluiting volgens het aan die elektriciteitsaansluiting g
 
 #### bij de artikelen 3.8  en 3.9 
 
-Treedt in werking per 01-01-2015 
-
 Tabel 1 – Procesafval of procesresidu 
 
 | Materiaal  | Omschrijving  |
@@ -611,8 +538,6 @@ Tabel 5 – Overige materialen
 
 #### bij artikel 3.9, eerste lid, onderdeel c, onder 2° 
 
-Treedt in werking per 01-01-2015 
-
 ####Criteria
 
 1. De energie-inhoud (calorische onderwaarde) van de geproduceerde biobrandstof, afkomstig uit het cellulose en/of lignocellulosedeel van het materiaal, dient te worden vastgesteld op basis van een massabalans over de hoeveelheid en samenstelling van het uitgangsmateriaal, van het overblijvend materiaal na de conversie en van de geproduceerde biobrandstof. Die energie-inhoud wordt opgesteld aan de hand van monstername, monstervoorbehandeling en analyses die zijn uitgevoerd volgens gangbare (ISO, NEN, DIN, ASTM) normen.  
@@ -632,8 +557,6 @@ Treedt in werking per 01-01-2015
 ### Bijlage 4 
 
 #### bij artikel 4.1, tweede lid 
-
-Treedt in werking per 01-01-2015 
 
 Verificatieverklaringen hernieuwbare brandstof worden afgegeven bij: 
 
@@ -725,8 +648,6 @@ d. vergewist de verificateur hernieuwbare brandstof zich er op basis van transpo
 
 #### bij artikel 4.2, tweede lid 
 
-Treedt in werking per 01-01-2015 
-
 1. Met betrekking tot de totstandkoming van de dubbeltellingsverklaring is de dubbeltellingsverificateur bekend met de administratieve processen en de productie-installatie van de biobrandstof. De dubbeltelllingsverificateur bezoekt daarom de productielocatie ten minste: 
 
 a. eenmaal per jaar tijdens het initieel onderzoek;  
@@ -782,8 +703,6 @@ h. de dubbeltellingverificateur geeft het nummer van de verklaring weer volgens 
 ### Bijlage 6 
 
 #### bij artikel 4.3, derde lid 
-
-Treedt in werking per 01-01-2015 
 
 ####A – Inboekverificatie op een accijnsgoederenplaats (AGP), geregistreerd geadresseerde (GG) of een douane-entrepot in een lidstaat
 

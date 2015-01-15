@@ -145,6 +145,7 @@ L.F. Asscher.
 | Cuba  | D  |
 | Denemarken  | C  |
 | Duitsland  | C  |
+|Ecuador |E |
 | Egypte  | A  |
 | El Salvador  | E  |
 | Eritrea  | D  |
@@ -169,6 +170,7 @@ L.F. Asscher.
 | Kroatië  | B  |
 | Laos  | D  |
 | Libanon  | D  |
+|Liberia |D |
 | Libië  | E  |
 | Macau (SAR)  | F  |
 | Macedonië (FYROM)  | B  |

@@ -28,7 +28,7 @@ f.  *WW:* Werkloosheidswet;
 
 g.  *WAZO:* Wet arbeid en zorg;  
 
-h.  *Wet Wajong:* Wet werk en arbeidsondersteuning jonggehandicapten;  
+h.  *Wajong:* Wet arbeidsongeschiktheidsvoorziening jonggehandicapten;  
 
 i.  *WAZ:* Wet arbeidsongeschiktheidsverzekering zelfstandigen;  
 
@@ -42,11 +42,11 @@ m.  *schuldenaar:* degene aan wie een bestuurlijke boete is opgelegd of van wie 
 
 n.  *werkgever:* de schuldenaar die tevens werkgever of eigenrisicodrager is;  
 
-o.  *bestuurlijke boete:* een bestuurlijke boete als bedoeld in het eerste lid van de artikelen 17a van de AKW, 39 van de Anw, 17c van de AOW, 21 van de IOW, 14a van de TW, 27a van de WW, 3:16 en 3:27 van de WAZO, 2:69 en 3:40 van de Wet Wajong, 48 van de WAZ, 29a van de WAO, 91 van de Wet WIA, en in de artikelen 38, vierde lid, 38a, zevende lid, 45a, eerste lid, en 63c van de ZW;  
+o.  *bestuurlijke boete:* een bestuurlijke boete als bedoeld in het eerste lid van de artikelen 17a van de AKW, 39 van de Anw, 17c van de AOW, 21 van de IOW, 14a van de TW, 27a van de WW, 3:16 en 3:27 van de WAZO, 2:69 en 3:40 van de Wajong, 48 van de WAZ, 29a van de WAO, 91 van de Wet WIA, en in de artikelen 38, vierde lid, 38a, zevende lid, 45a, eerste lid, en 63c van de ZW;  
 
 p. *vordering:*
 
-a. het bedrag dat wordt teruggevorderd op grond van de artikelen 24 van de AKW, 53 van de Anw, 24 van de AOW, 34 van de IOW, 20 van de TW, 36 van de WW, 3:16 en 3:27 van de WAZO, 2:59 of 3:56 van de Wet Wajong, 63 van de WAZ, 57 van de WAO, 77 van de Wet WIA, of 33 van de ZW; ;  
+a. het bedrag dat wordt teruggevorderd op grond van de artikelen 24 van de AKW, 53 van de Anw, 24 van de AOW, 34 van de IOW, 20 van de TW, 36 van de WW, 3:16 en 3:27 van de WAZO, 2:59 of 3:56 van de Wajong, 63 van de WAZ, 57 van de WAO, 77 van de Wet WIA, of 33 van de ZW; ;  
 
 b. het bedrag dat als bestuurlijke boete is opgelegd;  
 
@@ -58,9 +58,9 @@ q.  *aflossingscapaciteit:* het deel van het inkomen van de schuldenaar dat met 
 
 r.  *vermogen:* vermogensrechten, onroerende en roerende zaken, niet zijnde gebruikelijke huisraad, waarvan de dagwaarde per zaak € 1 134 of meer bedraagt;  
 
-s.  *inlichtingenverplichting:* de verplichting, bedoeld in de artikelen 15 van de AKW, 35 van de Anw, 49 van de AOW, 12, eerste lid, van de IOW, 12 van de TW, 25 van de WW, 3:16 en 3:27 van de WAZO, 2:7 en 3:74 van de Wet Wajong, 70 van de WAZ, 80 van de WAO, 27, eerste lid, van de Wet WIA en 31, eerste lid, en 49 van de ZW;  
+s.  *inlichtingenverplichting:* de verplichting, bedoeld in de artikelen 15 van de AKW, 35 van de Anw, 49 van de AOW, 12, eerste lid, van de IOW, 12 van de TW, 25 van de WW, 3:16 en 3:27 van de WAZO, 2:7 en 3:74 van de Wajong, 70 van de WAZ, 80 van de WAO, 27, eerste lid, van de Wet WIA en 31, eerste lid, en 49 van de ZW;  
 
-t.  *bijstandsnorm:* de voor de schuldenaar op grond van hoofdstuk 3, paragraaf 3.2 en paragraaf 3.3, van de Wet werk en bijstand geldende bijstandsnorm;  
+t.  *bijstandsnorm:* de voor de schuldenaar op grond van hoofdstuk 3, paragraaf 3.2 en paragraaf 3.3, van de Participatiewet geldende bijstandsnorm;  
 
 u.  *UWV:* Uitvoeringsinstituut werknemersverzekeringen, genoemd in hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen;  
 
@@ -90,7 +90,7 @@ c. de onverschuldigde betaling het gevolg is van een gedraging waarvan het UWV o
 
 d. de vordering het gevolg is van het niet nakomen van de inlichtingenverplichting.     
 2.  Het UWV en de SVB verlenen uitstel van betaling voor ten hoogste 36 maanden. De geldschuld wordt gedurende die periode in termijnen ter hoogte van de volledige aflossingscapaciteit betaald of verrekend.   
-3.  In afwijking van het tweede lid, tweede zin, wordt op verzoek van de schuldenaar ten minste de halve aflossingscapaciteit toegepast onder de voorwaarde dat de vordering geheel wordt voldaan binnen de in het tweede lid genoemde termijn van 36 maanden. De schuldenaar wordt erop gewezen dat kwijtschelding als bedoeld in de artikelen 24, vijfde lid, van de AKW, 53, vijfde lid, van de Anw, 24, vijfde lid, van de AOW, 35, vierde lid, van de IOW, 20, vijfde lid, van de TW, 36, vijfde lid, van de WW, 3:16 en 3:27 van de WAZO, 2:59, vijfde lid, of 3:56, vijfde lid, van de Wet Wajong, 63, vijfde lid, van de WAZ, 57, vijfde lid, van de WAO, 77, vijfde lid, van de Wet WIA of 33, vijfde lid, van de ZW niet mogelijk is.   
+3.  In afwijking van het tweede lid, tweede zin, wordt op verzoek van de schuldenaar ten minste de halve aflossingscapaciteit toegepast onder de voorwaarde dat de vordering geheel wordt voldaan binnen de in het tweede lid genoemde termijn van 36 maanden. De schuldenaar wordt erop gewezen dat kwijtschelding als bedoeld in de artikelen 24, vijfde lid, van de AKW, 53, vijfde lid, van de Anw, 24, vijfde lid, van de AOW, 35, vierde lid, van de IOW, 20, vijfde lid, van de TW, 36, vijfde lid, van de WW, 3:16 en 3:27 van de WAZO, 2:59, vijfde lid, of 3:56, vijfde lid, van de Wajong, 63, vijfde lid, van de WAZ, 57, vijfde lid, van de WAO, 77, vijfde lid, van de Wet WIA of 33, vijfde lid, van de ZW niet mogelijk is.   
 4.  Indien de schuldenaar hogere periodieke betalingen of verrekeningen voorstelt dan het bedrag, bedoeld in het tweede lid, stelt het UWV of de SVB de termijnen conform dit voorstel vast.   
 5.  De periodieke betaling of verrekening wordt gesteld op de volledige aflossingscapaciteit verminderd met 5% van de bijstandsnorm indien: 
 
@@ -160,7 +160,7 @@ De artikelen 3, 4 en 8 zijn niet van toepassing op de werkgever.
 
 ####Regeling verrekening bestuurlijke boete bij recidive
 
-1.  Indien artikel 14h, vijfde lid, van de TW, 27h, vijfde lid, van de WW, 54a, vijfde lid, van de WAZ, 24a, vijfde lid, van de IOW, 29h, vijfde lid, van de WAO, 3:44, vijfde lid, van de Wet Wajong, 97, vijfde lid, van de Wet WIA, 45h, vijfde lid, van de ZW, 17h, vijfde lid, van de AKW, 45a, vijfde lid, van de Anw of 17j, vijfde lid, van de AOW van toepassing is, wordt bij de verrekening van de bestuurlijke boete, bedoeld in deze artikelen, op aanvraag een deel van de toeslag, de uitkering, de kinderbijslag of het ouderdomspensioen vrijgelaten overeenkomstig dit artikel met ingang van de eerste betaling na de datum van aanvraag.   
+1.  Indien artikel 14h, vijfde lid, van de TW, 27h, vijfde lid, van de WW, 54a, vijfde lid, van de WAZ, 24a, vijfde lid, van de IOW, 29h, vijfde lid, van de WAO, 3:44, vijfde lid, van de Wajong, 97, vijfde lid, van de Wet WIA, 45h, vijfde lid, van de ZW, 17h, vijfde lid, van de AKW, 45a, vijfde lid, van de Anw of 17j, vijfde lid, van de AOW van toepassing is, wordt bij de verrekening van de bestuurlijke boete, bedoeld in deze artikelen, op aanvraag een deel van de toeslag, de uitkering, de kinderbijslag of het ouderdomspensioen vrijgelaten overeenkomstig dit artikel met ingang van de eerste betaling na de datum van aanvraag.   
 2.  Voor zover de hoogte van de toeslag, de uitkering, de kinderbijslag of het ouderdomspensioen daartoe de ruimte biedt, is het vrijgelaten deel, bedoeld in het eerste lid, met inachtneming van het vierde en vijfde lid, gelijk aan de som van een naar een tijdseenheid te herleiden gedeelte voor: 
 
 a. zorgkosten: € 530 per kalenderjaar voor een alleenstaande en € 1031 per kalenderjaar voor een belanghebbende met een echtgenoot of geregistreerd partner met wie hij een gezamenlijke huishouding voert, en  

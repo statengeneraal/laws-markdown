@@ -20,7 +20,7 @@ d.  *minister:* de Minister van Volksgezondheid, Welzijn en Sport.
 
 ### Artikel  2  
 
-De artikelen 1, 8, onderdeel d en e, 9, 22, 25, eerste lid, 29, 30, 32, 39, 61 tot en met 66, 68 en 70 van de Kaderregeling VWS-subsidies zijn van toepassing op het verstrekken van subsidies op grond van deze regeling. 
+De artikelen 1, 8, onderdeel a, onder 2°, d en e, 9, 22, 25, eerste lid, 26a, 29, 30, 32, 39, 41, tweede lid, 49a, 61 tot en met 66, 68 en 70 van de Kaderregeling VWS-subsidies zijn van toepassing op het verstrekken van subsidies op grond van deze regeling. 
 
 ### Artikel  3  
 

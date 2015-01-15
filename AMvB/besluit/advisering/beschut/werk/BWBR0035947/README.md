@@ -17,8 +17,6 @@ Hebben goedgevonden en verstaan:
 
 ####Begripsbepalingen
 
-Treedt in werking per 01-01-2015 
-
 In dit besluit wordt verstaan onder: 
 
 –  *college:* het college van burgemeester en wethouders, bedoeld in artikel 40, eerste lid, van de Participatiewet;  
@@ -31,8 +29,6 @@ In dit besluit wordt verstaan onder:
 
 ####advies
 
-Treedt in werking per 01-01-2015 
-
 1.  Het Uitvoeringsinstituut werknemersverzekeringen verricht op verzoek van het college de werkzaamheden, bedoeld in artikel 10b, tweede lid, van de Participatiewet, en adviseert het college hierover.   
 2.  Het Uitvoeringsinstituut werknemersverzekeringen brengt het advies uit, uiterlijk acht weken nadat het een verzoek van het college hiertoe heeft ontvangen.   
 3.  Het college vergoedt aan het Uitvoeringsinstituut werknemersverzekeringen de kosten voor het verrichten van de werkzaamheden, bedoeld in het eerste lid.  
@@ -40,8 +36,6 @@ Treedt in werking per 01-01-2015
 ### Artikel  3  
 
 ####Beoordeling
-
-Treedt in werking per 01-01-2015 
 
 1.  In het kader van de werkzaamheden, bedoeld in artikel 2, eerste lid, verricht het Uitvoeringsinstituut werknemersverzekeringen onderzoek naar de vraag of de persoon met arbeidsvermogen bij het verrichten van werkzaamheden is aangewezen op: 
 
@@ -54,15 +48,11 @@ b. permanent toezicht of intensieve begeleiding die niet binnen redelijke grenze
 
 ####Citeertitel
 
-Treedt in werking per 01-01-2015 
-
 Dit besluit wordt aangehaald als: Besluit advisering beschut werk. 
 
 ### Artikel  5  
 
 ####Inwerkingtreding
-
-Treedt in werking per 01-01-2015 
 
 Dit besluit treedt in werking met ingang van 1 januari 2015 
 

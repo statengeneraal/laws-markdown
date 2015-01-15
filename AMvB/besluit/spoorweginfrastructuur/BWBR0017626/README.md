@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Verkeer en Waterstaat van 19 december 2003, nr. HDJZ/S&W/2003-1876, Hoofddirectie Juridische Zaken;
 
-Gelet op de [artikelen 6](../../../../wet/spoorwegwet/BWBR0015007/README.md), [8 tot en met 12](../../../../wet/spoorwegwet/BWBR0015007/README.md), [23](../../../../wet/spoorwegwet/BWBR0015007/README.md), en [87 van de Spoorwegwet](../../../../wet/spoorwegwet/BWBR0015007/README.md);
+Gelet op de artikelen 6, 8 tot en met 12, 23, en 87 van de Spoorwegwet;
 
 De Raad van State gehoord (advies van 2 maart 2004, nr. W09.03.0543/V);
 
@@ -20,9 +20,9 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. wet: [Spoorwegwet](../../../../wet/spoorwegwet/BWBR0015007/README.md);  
+a. wet: Spoorwegwet;  
 
-b. hoofdspoorweg: hoofdspoorweg als bedoeld in [artikel 2, tweede lid](../../../../wet/spoorwegwet/BWBR0015007/README.md), of [artikel 124, tweede lid, van de wet](../../../../wet/spoorwegwet/BWBR0015007/README.md);  
+b. hoofdspoorweg: hoofdspoorweg als bedoeld in artikel 2, tweede lid, of artikel 124, tweede lid, van de wet;  
 
 c. gebruik van een hoofdspoorweg: met een spoorvoertuig rijden over of stilstaan op een hoofdspoorweg.   
 
@@ -33,7 +33,7 @@ c. gebruik van een hoofdspoorweg: met een spoorvoertuig rijden over of stilstaan
 ###Artikel 2 
 
 1. Bij ministeriële regeling worden eisen gesteld waaraan hoofdspoorweginfrastructuur moet voldoen.
-2. Deze eisen hebben onder meer betrekking op aspecten als bedoeld in [artikel 6 van de wet](../../../../wet/spoorwegwet/BWBR0015007/README.md).
+2. Deze eisen hebben onder meer betrekking op aspecten als bedoeld in artikel 6 van de wet.
 
 ###Artikel 3 
 
@@ -71,24 +71,24 @@ d.de geldigheidsduur.
 
 ###Artikel 21 
 
-1. Een vergunning als bedoeld in [artikel 19 van de wet](../../../../wet/spoorwegwet/BWBR0015007/README.md), wordt in ieder geval geweigerd indien de in het eerste lid van dat artikel bedoelde verrichtingen:
+1. Een vergunning als bedoeld in artikel 19 van de wet, wordt in ieder geval geweigerd indien de in het eerste lid van dat artikel bedoelde verrichtingen:
 
 a.ernstige hinder of gevaar opleveren of kunnen opleveren voor een veilig en doelmatig gebruik of beheer van de hoofdspoorwegen;
 
 b.ernstige hinder of gevaar opleveren of kunnen opleveren voor reeds aanwezige objecten.
-2. Voorschriften als bedoeld in [artikel 19, tweede lid, van de wet](../../../../wet/spoorwegwet/BWBR0015007/README.md) kunnen onder meer betrekking hebben op:
+2. Voorschriften als bedoeld in artikel 19, tweede lid, van de wet kunnen onder meer betrekking hebben op:
 
 a.de werkwijze, de te nemen maatregelen en de te gebruiken materialen;
 
 b.het tracé, de markering en de gronddekking van kabels en leidingen;
 
-c.de te nemen maatregelen bij het beëindigen van de handelingen, bedoeld in [artikel 19, eerste lid, van de wet](../../../../wet/spoorwegwet/BWBR0015007/README.md);
+c.de te nemen maatregelen bij het beëindigen van de handelingen, bedoeld in artikel 19, eerste lid, van de wet;
 
-d.de duur van de handelingen, bedoeld in [artikel 19, eerste lid, van de wet](../../../../wet/spoorwegwet/BWBR0015007/README.md).
+d.de duur van de handelingen, bedoeld in artikel 19, eerste lid, van de wet.
 
 ###Artikel 22 
 
-1. De aanvrager van een vergunning als bedoeld in [artikel 19 van de wet](../../../../wet/spoorwegwet/BWBR0015007/README.md) legt, onverminderd [artikel 4:2 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), een situatietekening schaal 1:1000 met een exacte plaatsaanduiding en indien het een aanvraag betreft als bedoeld in [artikel 19, eerste lid, onderdeel a, van de wet](../../../../wet/spoorwegwet/BWBR0015007/README.md), een tekening van het dwarsprofiel schaal 1:100 over.
+1. De aanvrager van een vergunning als bedoeld in artikel 19 van de wet legt, onverminderd artikel 4:2 van de Algemene wet bestuursrecht, een situatietekening schaal 1:1000 met een exacte plaatsaanduiding en indien het een aanvraag betreft als bedoeld in artikel 19, eerste lid, onderdeel a, van de wet, een tekening van het dwarsprofiel schaal 1:100 over.
 2. In de tekening van het dwarsprofiel bij een vergunningaanvraag met betrekking tot kabels of leidingen, worden de volgende gegevens vermeld:
 
 a.de diepte van de kabel of leiding, dan wel de diepte van de beschermbuis ten opzichte van de bovenkant van de spoorstaven;
@@ -106,7 +106,7 @@ f.de ontstoppingsputten of het ontvang- en stortbed van een vrijverval rioolleid
 
 ###Artikel 23 
 
-Onze Minister kan een vergunning als bedoeld in [artikel 19 van de wet](../../../../wet/spoorwegwet/BWBR0015007/README.md) wijzigen of intrekken:
+Onze Minister kan een vergunning als bedoeld in artikel 19 van de wet wijzigen of intrekken:
 
 a.indien de door de aanvrager verstrekte gegevens zodanig onjuist of onvolledig blijken te zijn, dat op de aanvraag anders zou zijn beslist indien de juiste gegevens bij de beoordeling van de aanvraag bekend zouden zijn geweest;
 
@@ -122,7 +122,7 @@ f.in verband met de wijziging van bestaande of de aanleg van nieuwe hoofdspoorwe
 
 ###Artikel 24 
 
-De artikelen 21, eerste lid, onderdeel a, 22, eerste en derde lid, en 23 zijn van overeenkomstige toepassing op het verlenen van een ontheffing als bedoeld in [artikel 21, tweede lid, van de wet](../../../../wet/spoorwegwet/BWBR0015007/README.md).
+De artikelen 21, eerste lid, onderdeel a, 22, eerste en derde lid, en 23 zijn van overeenkomstige toepassing op het verlenen van een ontheffing als bedoeld in artikel 21, tweede lid, van de wet.
 
 ###§ 8 
 
@@ -147,9 +147,9 @@ e.ten aanzien van welke bruggen de beheerder door hem goed te keuren voorwaarden
 
 ###Artikel 26 
 
-1. De beheerder draagt er zorg voor, dat bij de bruggen tekens worden getoond overeenkomstig het bepaalde in de [artikelen 6.25](../../../../KB/binnenvaartpolitiereglement/BWBR0003628/README.md) en [6.26, vierde en vijfde lid, van het Binnenvaartpolitiereglement](../../../../KB/binnenvaartpolitiereglement/BWBR0003628/README.md), met dien verstande dat het teken, bedoeld in [artikel 6.26, vierde lid, onderdeel f, van het Binnenvaartpolitiereglement](../../../../KB/binnenvaartpolitiereglement/BWBR0003628/README.md), alleen wordt gebruikt indien Onze Minister zulks bepaalt of goedkeurt.
-2. In het geval van gestoorde lichttekens toont de beheerder een bord als bedoeld in [artikel 6.26, zesde lid, van het Binnenvaartpolitiereglement](../../../../KB/binnenvaartpolitiereglement/BWBR0003628/README.md).
-3. [Artikel 6.26 van het Binnenvaartpolitiereglement](../../../../KB/binnenvaartpolitiereglement/BWBR0003628/README.md) is van overeenkomstige toepassing, voor zover in dit besluit daar niet van wordt afgeweken.
+1. De beheerder draagt er zorg voor, dat bij de bruggen tekens worden getoond overeenkomstig het bepaalde in de artikelen 6.25 en 6.26, vierde en vijfde lid, van het Binnenvaartpolitiereglement, met dien verstande dat het teken, bedoeld in artikel 6.26, vierde lid, onderdeel f, van het Binnenvaartpolitiereglement, alleen wordt gebruikt indien Onze Minister zulks bepaalt of goedkeurt.
+2. In het geval van gestoorde lichttekens toont de beheerder een bord als bedoeld in artikel 6.26, zesde lid, van het Binnenvaartpolitiereglement.
+3. Artikel 6.26 van het Binnenvaartpolitiereglement is van overeenkomstige toepassing, voor zover in dit besluit daar niet van wordt afgeweken.
 
 ###§ 9 
 
@@ -157,12 +157,12 @@ e.ten aanzien van welke bruggen de beheerder door hem goed te keuren voorwaarden
 
 ###Artikel 27 
 
-1. Vergunningen die ingevolge [artikel 15 van het Reglement dienst hoofd- en lokaalspoorwegen](../../../../AMvB/reglement/dienst/hoofd-/en/lokaalspoorwegen/BWBR0003083/README.md) (Stb. 1977, 152) en ontheffingen die ingevolge [artikel 39 van de Spoorwegwet (Stb. 1875, 67)](../../../../wet/spoorwegwet/BWBR0001848/README.md) zijn verleend van de [artikelen 36, eerste lid](../../../../wet/spoorwegwet/BWBR0001848/README.md), [37](../../../../wet/spoorwegwet/BWBR0001848/README.md) en [38 van de Spoorwegwet (Stb. 1875, 67)](../../../../wet/spoorwegwet/BWBR0001848/README.md) en gelden op het tijdstip van inwerkingtreding van dit besluit, worden vanaf de dag waarop dit besluit in werking treedt, aangemerkt als verleend op grond van [artikel 19 van de wet](../../../../wet/spoorwegwet/BWBR0015007/README.md).
-2. Ontheffingen die ingevolge [artikel 39 van de Spoorwegwet (Stb. 1875, 67)](../../../../wet/spoorwegwet/BWBR0001848/README.md) zijn verleend van [artikel 36, tweede lid, van de Spoorwegwet (Stb. 1875, 67)](../../../../wet/spoorwegwet/BWBR0001848/README.md) en gelden op het tijdstip van inwerkingtreding van dit besluit, worden vanaf de dag waarop dit besluit in werking treedt, aangemerkt als verleend op grond van [artikel 21 van de wet](../../../../wet/spoorwegwet/BWBR0015007/README.md).
+1. Vergunningen die ingevolge artikel 15 van het Reglement dienst hoofd- en lokaalspoorwegen (Stb. 1977, 152) en ontheffingen die ingevolge artikel 39 van de Spoorwegwet (Stb. 1875, 67) zijn verleend van de artikelen 36, eerste lid, 37 en 38 van de Spoorwegwet (Stb. 1875, 67) en gelden op het tijdstip van inwerkingtreding van dit besluit, worden vanaf de dag waarop dit besluit in werking treedt, aangemerkt als verleend op grond van artikel 19 van de wet.
+2. Ontheffingen die ingevolge artikel 39 van de Spoorwegwet (Stb. 1875, 67) zijn verleend van artikel 36, tweede lid, van de Spoorwegwet (Stb. 1875, 67) en gelden op het tijdstip van inwerkingtreding van dit besluit, worden vanaf de dag waarop dit besluit in werking treedt, aangemerkt als verleend op grond van artikel 21 van de wet.
 
 ###Artikel 29 
 
-Het [besluit van 5 februari 1925, tot vaststelling van een reglement ter voorkoming van aantasting van metalen voorwerpen in den bodem door zwerfstromen, afkomstig van de spoorstaven van elektrische spoor- en tramwegen](../../../../KB/reglement/zwerfstromen/BWBR0001922/README.md) (Stb. 29) is van overeenkomstige toepassing.
+Het besluit van 5 februari 1925, tot vaststelling van een reglement ter voorkoming van aantasting van metalen voorwerpen in den bodem door zwerfstromen, afkomstig van de spoorstaven van elektrische spoor- en tramwegen (Stb. 29) is van overeenkomstige toepassing.
 
 ###Artikel 30 
 

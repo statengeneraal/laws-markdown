@@ -5,12 +5,12 @@
 De minister van Binnenlandse Zaken en Koninkrijksrelaties,  
 handelende in overeenstemming met de staatssecretaris van Financiën;
 
-Gelet op [artikel 9 van de Financiële verhoudingswet](../../../../../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md);
+Gelet op artikel 9 van de Financiële verhoudingswet;
 Besluit:    
 
 ### Artikel  1  
 
-Voor het uitkeringsjaar 2012 worden de bedragen per eenheid, bedoeld in [artikel 9 van de Financiële verhoudingswet](../../../../../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), vastgesteld overeenkomstig bijlage 1. 
+Voor het uitkeringsjaar 2012 worden de bedragen per eenheid, bedoeld in artikel 9 van de Financiële verhoudingswet, vastgesteld overeenkomstig bijlage 1. 
 
 ### Artikel  2  
 

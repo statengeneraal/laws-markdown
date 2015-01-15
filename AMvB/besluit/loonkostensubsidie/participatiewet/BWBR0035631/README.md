@@ -17,8 +17,6 @@ Hebben goedgevonden en verstaan:
 
 ####Mogelijkheden tot arbeidsparticipatie bij loonkostensubsidie
 
-Treedt in werking per 01-01-2015 
-
 1.  Een persoon heeft mogelijkheden tot arbeidsparticipatie indien die persoon: 
 
 a. een taak kan uitvoeren in een arbeidsorganisatie;  
@@ -36,16 +34,12 @@ d. ten minste vier uur per dag belastbaar is of ten minste twee uur per dag bela
 
 ####Vaststelling loonwaarde
 
-Treedt in werking per 01-01-2015 
-
 1.  Het college stelt de loonwaarde schriftelijk vast op basis van de feitelijke werkzaamheden op de werkplek van een persoon uit de doelgroep loonkostensubsidie bij de werkgever en met inbreng van de werkgever, die voornemens is een dienstbetrekking aan te gaan dan wel een dienstbetrekking is aangegaan met die persoon.   
 2.  Het college stelt de loonwaarde vast op basis van een beschreven objectieve methode en deze vaststelling vindt plaats door of onder verantwoordelijkheid van een deskundige. Het college draagt er zorg voor dat de deskundige over voldoende deskundigheid beschikt.  
 
 ### Artikel  3  
 
 ####Nadere regels vaststelling loonwaarde
-
-Treedt in werking per 01-01-2015 
 
 Bij ministeriële regeling kunnen nadere regels worden gesteld aan de methode ter vaststelling van de loonwaarde. Deze nadere regels betreffen tenminste eisen: 
 
@@ -59,8 +53,6 @@ c. ten aanzien van de wijze waarop de loonwaarde wordt berekend en de bestanddel
 
 ####Beoordeling methode van loonwaardebepaling
 
-Treedt in werking per 01-01-2015 
-
 1.  Indien de colleges in een samenwerkingsverband als bedoeld in artikel 2.3 van het Besluit SUWI voornemens zijn op grond van afspraken over eisen als bedoeld in artikel 2.3, tweede lid, onderdeel i, van het Besluit SUWI, een methode van loonwaardebepaling toe te passen, dan wel voornemens zijn om een methode van loonwaardebepaling te wijzigen, meldt het bestuur van het samenwerkingsverband namens die colleges de desbetreffende methode uiterlijk een maand voorafgaand aan de datum waarop de methode zal worden toegepast, dan wel zal worden gewijzigd, aan Onze Minister.   
 2.  Indien een methode van loonwaardebepaling is gemeld als bedoeld in het eerste lid, stelt Onze Minister vast of die methode voldoet aan artikel 2. Indien die methode voldoet aan artikel 2, zijn de op grond van artikel 3 vastgestelde regels niet langer op die methode van toepassing.   
 3.  Bij ministeriële regeling kunnen nadere regels worden gesteld ten aanzien van het eerste en het tweede lid.  
@@ -69,15 +61,11 @@ Treedt in werking per 01-01-2015
 
 ####Citeertitel
 
-Treedt in werking per 01-01-2015 
-
 Dit besluit wordt aangehaald als: Besluit loonkostensubsidie Participatiewet. 
 
 ### Artikel  6  
 
 ####Inwerkingtreding
-
-Treedt in werking per 01-01-2015 
 
 Dit besluit treedt in werking op het tijdstip waarop artikel I, onderdeel F, van de Invoeringswet Participatiewet in werking treedt. 
 

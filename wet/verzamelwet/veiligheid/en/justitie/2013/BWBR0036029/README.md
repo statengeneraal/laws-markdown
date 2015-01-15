@@ -99,7 +99,6 @@ Wijzigt de Politiewet 2012.
 Wijzigt het Tribunaalbesluit.  
 
 ### Artikel  XXa  
-Treedt in werking per 10-01-2015 
 
 Wijzigt de Uitvoeringswet EG-executieverordening. 
 
@@ -237,10 +236,6 @@ Wijzigt de Wijzigingswet Wetboek van Strafrecht (herziening regels betreffende e
 ### Artikel  XLVId  
 
 Wijzigt de Wet forensische zorg. 
-
-### Artikel  XLVIe  
-
-Wijzigt de Wet op de dierproeven en de Wijzigingswet Wet op de dierproeven, enz. (implementatie richtlijn 2010/63/EU). 
 
 ### Artikel  XLVII  
 

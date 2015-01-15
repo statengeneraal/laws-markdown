@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Financiën van 2 december 2013, kenmerk: FM 2013/2100 M, tot vaststelling van de bijdragen gemoedsbezwaarden 2014 (Regeling vaststelling bijdragen gemoedsbezwaarden 2014)
 
 De Minister van Financiën,  
-Gelet op [artikel 20 van de Wet aansprakelijkheidsverzekering motorrijtuigen](../../../../../../../wet/wet/aansprakelijkheidsverzekering/motorrijtuigen/BWBR0002415/README.md);
+Gelet op artikel 20 van de Wet aansprakelijkheidsverzekering motorrijtuigen;
 Besluit:    
 
 ### Artikel  1  

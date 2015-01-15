@@ -161,6 +161,15 @@ Ingeval vóór het tijdstip van in werking treden van Boek 1 een bewindvoerder o
 1.  Gedingen, waarin de inleidende dagvaarding is betekend dan wel het inleidende verzoekschrift of het eerste, door de president van de rechtbank te behandelen, verzoekschrift is ingediend vóór het tijdstip van in werking treden van Boek 1, worden geheel afgedaan met toepassing van de voorschriften van procesrechtelijke aard, die vóór dat tijdstip golden, zulks behoudens het in het vorige artikel bepaalde.   
 2.   Het in het vorige lid bepaalde geldt ook voor de afdoening van een eis of verzoek, in het geding bij wege van reconventie gedaan.  
 
+### Artikel  28  
+
+1.  Gedingen inzake de voorlopige ondertoezichtstelling of ondertoezichtstelling van een minderjarige, de ontzetting uit en de ontheffing van het gezag of de voogdij, met inbegrip van schorsingen, waarin het inleidende verzoekschrift is ingediend vóór het tijdstip van in werking treden van artikel I van de Wijziging van Boek 1 van het Burgerlijk Wetboek, het Wetboek van Burgerlijke Rechtsvordering, de Wet op de jeugdzorg en de Pleegkinderenwet in verband met herziening van de maatregelen van kinderbescherming, worden geheel afgedaan met toepassing van het recht dat voor dat tijdstip gold.   
+2.  Na de inwerkingtreding van artikel I van de Wijziging van Boek 1 van het Burgerlijk Wetboek, het Wetboek van Burgerlijke Rechtsvordering, de Wet op de jeugdzorg en de Pleegkinderenwet in verband met herziening van de maatregelen van kinderbescherming: 
+
+a. worden beschikkingen waarin de ontzetting uit of de ontheffing van het gezag dan wel voogdij is uitgesproken aangemerkt als beschikkingen waarin het gezag of de voogdij is beëindigd, als bedoeld in artikel 266 respectievelijk artikelen 327 en 328 van Boek 1 van het Burgerlijk Wetboek;  
+
+b. geldt, voor de uithuisplaatsing van een minderjarige die onder toezicht is gesteld, het vereiste van artikel 265a van Boek 1 van het Burgerlijk Wetboek pas vanaf het moment dat de ondertoezichtstelling voor het eerst verlengd wordt.    
+
 ### Titel  2  
 
 ####Overgangsbepalingen in verband met Boek 2
@@ -566,7 +575,6 @@ Indien op het tijdstip van het in werking treden van de wet sinds de overschrijv
 Artikel 1229 van het Burgerlijk Wetboek, zoals dat vóór het tijdstip van het in werking treden van de wet gold, blijft van toepassing op bedongen rente over een vordering tot zekerheid waarvan vóór dat tijdstip hypotheek was gevestigd. 
 
 ### Artikel  114a  
-Treedt in werking per 01-01-2015 
 
 De artikelen 264, 267, 267a en 268, zoals gewijzigd of ingevoerd bij de Wet van 1 oktober 2014 (Stb. 2014, 352), zijn niet van toepassing op de executie van een registergoed, een aandeel daarin of een beperkt recht daarop, waarvan de aanzegging overeenkomstig artikel 544 van het Wetboek van Burgerlijke Rechtsvordering heeft plaatsgevonden voor de inwerkingtreding van deze wet. 
 

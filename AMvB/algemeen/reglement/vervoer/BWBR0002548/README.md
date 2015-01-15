@@ -6,7 +6,7 @@ Wij JULIANA, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Verkeer en Waterstaat van 15 september 1966, no. A-2/038143, Directoraat-Generaal van het Verkeer; 
 
-Gelet op [artikel 27 van de Spoorwegwet](../../../../../wet/spoorwegwet/BWBR0001848/README.md) en op [artikel 4 van de Locaalspoor- en Tramwegwet](../../../../../wet/locaalspoor-/en/tramwegwet/BWBR0001866/README.md); 
+Gelet op artikel 27 van de Spoorwegwet en op artikel 4 van de Locaalspoor- en Tramwegwet; 
 
 De Raad van State gehoord (advies van 9 november 1966, nr. 36); 
 
@@ -164,7 +164,7 @@ b. de spoorweg opdragen de op grond van die bevoegdheden getroffen maatregelen w
 
 ####Bijzondere bepalingen voor locaalspoorwegen 
 
-§ 1.  In geval van staking van de dienst op een locaalspoorweg zijn, in afwijking van [artikel 8, eerste lid, van de Spoorwegwet](../../../../../wet/spoorwegwet/BWBR0001848/README.md), bestuurders niet verplicht te zorgen voor het vervoer van goederen in de richting van de locaalspoorweg.    
+§ 1.  In geval van staking van de dienst op een locaalspoorweg zijn, in afwijking van artikel 8, eerste lid, van de Spoorwegwet, bestuurders niet verplicht te zorgen voor het vervoer van goederen in de richting van de locaalspoorweg.    
 § 2.  De Minister van Verkeer en Waterstaat is bevoegd voor locaalspoorwegen, welke uitsluitend bestemd zijn voor het vervoer van goederen, geheel of gedeeltelijk ontheffing te verlenen van de bepalingen van dit reglement. Aan een ontheffing kunnen voorwaarden worden verbonden.   
 
 ### Artikel  116  

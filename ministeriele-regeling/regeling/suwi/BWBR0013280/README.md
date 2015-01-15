@@ -13,7 +13,51 @@ Besluiten:
 
 ####Begripsbepalingen
 
-In deze regeling wordt verstaan onder: a. *WWB:*   Wet werk en bijstand;  b. *IOAW:*   Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers;  c. *Wfsv:*   Wet financiering sociale verzekeringen;  d.    vervallen;  e. *WW:*   Werkloosheidswet;  f. *Wet SUWI:*   Wet structuur uitvoeringsorganisatie werk en inkomen;  g.    vervallen;  h.  vervallen;i. *UWV:*   het Uitvoeringsinstituut werknemersverzekeringen, genoemd in hoofdstuk 5 van de Wet SUWI;  j. *SVB:*   de Sociale verzekeringsbank, genoemd in hoofdstuk 6 van de Wet SUWI;  k. *IB:*  Het Inlichtingenbureau, bedoeld in artikel 1, onderdeel m, van de Wet SUWI  l.  vervallen;m. *re-integratiebedrijf:*   natuurlijke persoon of rechtspersoon die in het kader van de uitoefening van beroep of bedrijf de inschakeling van personen in het arbeidsproces bevordert;  n. *arbodienst:*   een arbodienst als bedoeld in de Arbeidsomstandighedenwet;  o. *minister:*   de Minister van Sociale Zaken en Werkgelegenheid;  p.   vervallen;  q. *arbeidsmarktinstrumenten:*   het geheel van activiteiten dat in verband met de inschakeling in het arbeidsproces van een werkzoekende kan worden ingezet;  r. *melding:*   de melding, bedoeld in artikel 44, tweede lid, van de WWB, artikel 16a, tweede lid, van de IOAW of artikel 16a, tweede lid, van de IOAZ;  s. *basisgegevens:*   gegevens die in een al dan niet door de minister gedefinieerde vorm beschikbaar zijn bij het UWV en de SVB;  t. *TW:*   Toeslagenwet;  u. *VNG:*   Vereniging van Nederlandse Gemeenten;  v. *IWI:*   de Inspectie Werk en Inkomen, genoemd in hoofdstuk 7 van de Wet SUWI;  w. *Invoeringswet SUWI:*   Invoeringswet Wet structuur uitvoeringsorganisatie werk en inkomen.   
+In deze regeling wordt verstaan onder: 
+
+a.*IOAW:* Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers;
+
+b.*Wfsv:* Wet financiering sociale verzekeringen;
+
+c. vervallen;
+
+d. *WW:* Werkloosheidswet;
+
+e.*Wet SUWI:* Wet structuur uitvoeringsorganisatie werk en inkomen;
+
+f. vervallen;
+
+g. vervallen;
+
+h.*UWV:* het Uitvoeringsinstituut werknemersverzekeringen, genoemd in hoofdstuk 5 van de Wet SUWI;
+
+i. *SVB:* de Sociale verzekeringsbank, genoemd in hoofdstuk 6 van de Wet SUWI;
+
+j.*IB:* Het Inlichtingenbureau, bedoeld in artikel 1, onderdeel m, van de Wet SUWI
+
+k.vervallen;
+
+l.*re-integratiebedrijf:* natuurlijke persoon of rechtspersoon die in het kader van de uitoefening van beroep of bedrijf de inschakeling van personen in het arbeidsproces bevordert;
+
+m.*arbodienst:* een arbodienst als bedoeld in de Arbeidsomstandighedenwet;
+
+n.*minister:* de Minister van Sociale Zaken en Werkgelegenheid;
+
+o.vervallen;
+
+p.*arbeidsmarktinstrumenten:* het geheel van activiteiten dat in verband met de inschakeling in het arbeidsproces van een werkzoekende kan worden ingezet;
+
+q.*melding:* de melding, bedoeld in artikel 44, tweede lid, van de Participatiewet, artikel 16a, tweede lid, van de IOAW of artikel 16a, tweede lid, van de IOAZ;
+
+r.*basisgegevens:* gegevens die in een al dan niet door de minister gedefinieerde vorm beschikbaar zijn bij het UWV en de SVB;
+
+s.*TW:* Toeslagenwet;
+
+t.*VNG:* Vereniging van Nederlandse Gemeenten;
+
+u. *IWI:* de Inspectie Werk en Inkomen, genoemd in hoofdstuk 7 van de Wet SUWI;
+
+v.*Invoeringswet SUWI:* Invoeringswet Wet structuur uitvoeringsorganisatie werk en inkomen. 
 
 ### Artikel  1.2  
 
@@ -142,11 +186,33 @@ c. het UWV de gegevens van deelnemers en gewezen deelnemers naar aanleiding van 
 
 ####Nadere begripsbepalingen
 
-In deze paragraaf wordt verstaan onder: a. arbeidsverhouding:   de rechtsbetrekking tussen een werkgever en een natuurlijk persoon, krachtens welke deze persoon verplicht is, arbeid te verrichten voor die werkgever;  b.  jaaropgave:   de jaaropgave, bedoeld in artikel 8 van het Loonadministratiebesluit;  c.  melding sociale verzekeringen:   de melding sociale verzekeringen, bedoeld in de artikelen 1 en 4 van het Besluit melding sociale verzekeringen;  d.  uitkeringsgerechtigde:   verzekerde die recht heeft op een uitkering of arbeidsondersteuning krachtens de Ziektewet, de WW, de Wet werk en inkomen naar arbeidsvermogen, de Wet op de arbeidsongeschiktheidsverzekering, de Wet arbeidsongeschiktheidsverzekering zelfstandigen, de Wet werk en arbeidsondersteuning jonggehandicapten, de Tijdelijke wet beperking inkomensgevolgen arbeidsongeschiktheidscriteria, TW of de Wet arbeidsongeschiktheidsvoorziening militairen;  e.  uitkeringsverhouding:   de rechtsbetrekking ter zake van een recht op uitkering of arbeidsondersteuning krachtens de Ziektewet, de WW, de Wet werk en inkomen naar arbeidsvermogen, de Wet op de arbeidsongeschiktheidsverzekering, de Wet arbeidsongeschiktheidsverzekering zelfstandigen, de Wet werk en arbeidsondersteuning jonggehandicapten, de Tijdelijke wet beperking inkomensgevolgen arbeidsongeschiktheidscriterium, de TW of de Wet arbeidsongeschiktheidsvoorziening militairen, tussen een uitkeringsgerechtigde en het UWV;  f.  verzekerde:  
+In deze paragraaf wordt verstaan onder: 
+
+a.arbeidsverhouding: de rechtsbetrekking tussen een werkgever en een natuurlijk persoon, krachtens welke deze persoon verplicht is, arbeid te verrichten voor die werkgever;
+
+b. jaaropgave: de jaaropgave, bedoeld in artikel 8 van het Loonadministratiebesluit;
+
+c. melding sociale verzekeringen: de melding sociale verzekeringen, bedoeld in de artikelen 1 en 4 van het Besluit melding sociale verzekeringen;
+
+d. uitkeringsgerechtigde: verzekerde die recht heeft op een uitkering of arbeidsondersteuning krachtens de Ziektewet, de WW, de Wet werk en inkomen naar arbeidsvermogen, de Wet op de arbeidsongeschiktheidsverzekering, de Wet arbeidsongeschiktheidsverzekering zelfstandigen, de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, de Tijdelijke wet beperking inkomensgevolgen arbeidsongeschiktheidscriteria, TW of de Wet arbeidsongeschiktheidsvoorziening militairen;
+
+e. uitkeringsverhouding: de rechtsbetrekking ter zake van een recht op uitkering of arbeidsondersteuning krachtens de Ziektewet, de WW, de Wet werk en inkomen naar arbeidsvermogen, de Wet op de arbeidsongeschiktheidsverzekering, de Wet arbeidsongeschiktheidsverzekering zelfstandigen, de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, de Tijdelijke wet beperking inkomensgevolgen arbeidsongeschiktheidscriterium, de TW of de Wet arbeidsongeschiktheidsvoorziening militairen, tussen een uitkeringsgerechtigde en het UWV;
+
+f.verzekerde:
 
 1°. de werknemer in de zin van de werknemersverzekeringen, of  
 
-2°. degene, die door het UWV als verzekerde wordt beschouwd, dan wel belanghebbende is in de zin van artikel 1 van de Wet arbeidsongeschiktheidsvoorziening militairen.    g.  verzekerdenadministratie:   een systeem, dan wel een geheel van systemen of delen daarvan, door middel waarvan de in deze regeling gedefinieerde gegevens van verzekerden op systematische wijze worden vastgelegd om te kunnen worden geraadpleegd, uitgewisseld en samengevoegd en in onderling verband te kunnen worden gebracht, dat door het UWV wordt beheerd als bedoeld in artikel 33, tweede lid, van de Wet SUWI, zoals die bepaling luidde op de dag voorafgaande aan de datum van inwerkingtreding van artikel 5 van de Invoeringswet Wet financiering sociale verzekeringen;  h.  verzekeringsverhouding:  de rechtsbetrekking ter zake van een wettelijke verzekering als bedoeld in artikel 30 van de Wet SUWI, dan wel op grond van de Wet arbeidsongeschiktheidsvoorziening militairen, tussen een verzekerde en het UWV waarbij hij geregistreerd is als verzekerde;  i.  code SZ:   een aanduiding waarmee de wet, op grond waarvan de verzekerings- of uitkeringsverhouding bestaat, wordt aangegeven;  j.overwerk:arbeid verricht buiten de voor de betrokkene vastgestelde dagelijkse werktijd, voorzover daardoor deze werktijd wordt overschreden;k.feestdag:Nieuwjaarsdag, Eerste en Tweede Paasdag, Hemelvaartsdag, Eerste en Tweede Pinksterdag en Eerste en Tweede Kerstdag. 
+2°. degene, die door het UWV als verzekerde wordt beschouwd, dan wel belanghebbende is in de zin van artikel 1 van de Wet arbeidsongeschiktheidsvoorziening militairen.  
+
+g. verzekerdenadministratie: een systeem, dan wel een geheel van systemen of delen daarvan, door middel waarvan de in deze regeling gedefinieerde gegevens van verzekerden op systematische wijze worden vastgelegd om te kunnen worden geraadpleegd, uitgewisseld en samengevoegd en in onderling verband te kunnen worden gebracht, dat door het UWV wordt beheerd als bedoeld in artikel 33, tweede lid, van de Wet SUWI, zoals die bepaling luidde op de dag voorafgaande aan de datum van inwerkingtreding van artikel 5 van de Invoeringswet Wet financiering sociale verzekeringen;
+
+h. verzekeringsverhouding: de rechtsbetrekking ter zake van een wettelijke verzekering als bedoeld in artikel 30 van de Wet SUWI, dan wel op grond van de Wet arbeidsongeschiktheidsvoorziening militairen, tussen een verzekerde en het UWV waarbij hij geregistreerd is als verzekerde;
+
+i. code SZ: een aanduiding waarmee de wet, op grond waarvan de verzekerings- of uitkeringsverhouding bestaat, wordt aangegeven;
+
+j.overwerk: arbeid verricht buiten de voor de betrokkene vastgestelde dagelijkse werktijd, voorzover daardoor deze werktijd wordt overschreden;
+
+k.feestdag: Nieuwjaarsdag, Eerste en Tweede Paasdag, Hemelvaartsdag, Eerste en Tweede Pinksterdag en Eerste en Tweede Kerstdag. 
 
 ### Artikel  3.5  
 
@@ -861,11 +927,11 @@ De Verantwoordingsrichtlijn (privacy en beveiliging van de GeVS) is een gezamenl
 | • Ingangsdatum Anw  • Brutobedrag Anw  | --- | --- | --- | --- |
 |  *Gegevens over de Algemene ouderdomswet.*   |  *X*   | --- | --- | --- |
 | • Ingangsdatum Aow  • Einddatum Aow  • Indicatie toeslag Aow  • Percentage Aow  • Netto bedrag Aow  • Bruto bedrag Aow  | --- | --- | --- | --- |
-|  *Gegevens betreffende WWB 65+.*   | --- | --- | --- |  *X*   |
+|  *gegevens betreffende aanvullende inkomensvoorziening ouderen als bedoeld in de Participatiewet.*   | --- | --- | --- |  *X*   |
 | • Begindatum uitkering  • Einddatum uitkering.  • Datum aanvang maatregel  • Datum einde maatregel  • Reden maatregel  • Huisvesting.  • Leefvorm.  • Soort normbedrag  • Normbedrag.  • Reden beëindiging bijstand.  • Datum besluit vordering  | --- | --- | --- | --- |
 | • Reden vordering  • Bedrag aanvang vordering  • Bedrag saldo vordering  • Status vordering  • Code aanleiding uitkering.  • Code soort overige inkomsten  • Code beslissing op aanvraag  • Datum aanvraag uitkering  • Datum beslissing op aanvraag  | --- | --- | --- | --- |
 |  *Gemeenten*   | --- | --- | --- | --- |
-|  *Gegevens betreffende WWB.*   |  *X*   | --- | --- | --- |
+|  *gegevens betreffende Participatiewet.*   |  *X*   | --- | --- | --- |
 | • Begindatum uitkering  • Einddatum uitkering  • Datum aanvang maatregel  • Datum einde maatregel  • Reden maatregel  • Huisvesting  • Leefvorm  • Soort normbedrag  • Normbedrag  | --- | --- | --- | --- |
 | • Reden beëindiging bijstand  • Datum betaalbaarstelling bijzondere bijstand  • Soort kosten bijzondere bijstand  • Datum besluit vordering  • Reden vordering  • Bedrag aanvang vordering  • Bedrag saldo vordering  • Status vordering  | --- | --- | --- | --- |
 | • Code aanleiding uitkering.  | --- | --- | --- |  *X*   |

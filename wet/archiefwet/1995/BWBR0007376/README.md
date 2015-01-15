@@ -46,7 +46,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen worden onder 
 
 ### Artikel  2a  
 
-Het verbod persoonsgegevens te verwerken, bedoeld in [artikel 16 van de Wet bescherming persoonsgegevens](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), geldt niet voor verwerkingen die verband houden met: 
+Het verbod persoonsgegevens te verwerken, bedoeld in artikel 16 van de Wet bescherming persoonsgegevens, geldt niet voor verwerkingen die verband houden met: 
 
 a. de vervanging van archiefbescheiden, bedoeld in artikel 7;  
 
@@ -148,9 +148,9 @@ c. het anderszins voorkomen van onevenredige bevoordeling of benadeling van betr
 
 ### Artikel  15a  
 
-1.  Artikel 15, eerste lid, aanhef en onder c, is niet van toepassing voorzover in de archiefbescheiden milieu-informatie als bedoeld in [artikel 19.1a van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) is neergelegd.   
-2.  Voorzover in de in de archiefbewaarplaats berustende archiefbescheiden milieu-informatie als bedoeld in [artikel 19.1a van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) is neergelegd, laat de zorgdrager, in afwijking van artikel 15, derde lid, de ingevolge artikel 15, eerste lid, aanhef en onder c, of tweede lid, aan de openbaarheid gestelde beperkingen ten aanzien van een verzoeker buiten toepassing.   
-3.  In afwijking van artikel 15, eerste lid, onder a, en tweede lid in verbinding met het eerste lid, onder a, worden geen beperkingen aan de openbaarheid gesteld voorzover in de archiefbescheiden neergelegde milieu-informatie als bedoeld in [artikel 19.1a van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) betrekking heeft op emissies in het milieu.   
+1.  Artikel 15, eerste lid, aanhef en onder c, is niet van toepassing voorzover in de archiefbescheiden milieu-informatie als bedoeld in artikel 19.1a van de Wet milieubeheer is neergelegd.   
+2.  Voorzover in de in de archiefbewaarplaats berustende archiefbescheiden milieu-informatie als bedoeld in artikel 19.1a van de Wet milieubeheer is neergelegd, laat de zorgdrager, in afwijking van artikel 15, derde lid, de ingevolge artikel 15, eerste lid, aanhef en onder c, of tweede lid, aan de openbaarheid gestelde beperkingen ten aanzien van een verzoeker buiten toepassing.   
+3.  In afwijking van artikel 15, eerste lid, onder a, en tweede lid in verbinding met het eerste lid, onder a, worden geen beperkingen aan de openbaarheid gesteld voorzover in de archiefbescheiden neergelegde milieu-informatie als bedoeld in artikel 19.1a van de Wet milieubeheer betrekking heeft op emissies in het milieu.   
 4.  Voorzover in de in de archiefbewaarplaats berustende archiefbescheiden milieu-informatie die betrekking heeft op emissies in het milieu is neergelegd, laat de zorgdrager in afwijking van artikel 15, derde lid, ten aanzien van de in de archiefbewaarplaats berustende archiefbescheiden, de ingevolge artikel 15, eerste lid, onder a, of tweede lid in verbinding met het eerste lid, onder a, aan de openbaarheid gestelde beperkingen ten aanzien van een verzoeker buiten toepassing.  
 
 ### Artikel  16  
@@ -198,7 +198,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de
 ### Artikel  23  
 
 1.  De Eerste en de Tweede Kamer der Staten-Generaal, de andere Hoge Colleges van Staat, de directeur van het Kabinet van de Koning en Onze ministers dragen zorg voor hun archiefbescheiden, voor zover deze niet zijn overgebracht naar een rijksarchiefbewaarplaats.    
-2.   Onze commissarissen in de provincie dragen zorg voor de archiefbescheiden die verband houden met de taken, bedoeld in [artikel 182, eerste en tweede lid, van de Provinciewet](../../../../wet/provinciewet/BWBR0005645/README.md), voor zover deze archiefbescheiden niet zijn overgebracht naar een rijksarchiefbewaarplaats.    
+2.   Onze commissarissen in de provincie dragen zorg voor de archiefbescheiden die verband houden met de taken, bedoeld in artikel 182, eerste en tweede lid, van de Provinciewet, voor zover deze archiefbescheiden niet zijn overgebracht naar een rijksarchiefbewaarplaats.    
 3.   Onze minister draagt tevens zorg voor de archiefbescheiden, die in de rijksarchiefbewaarplaatsen berusten.    
 4.   Bij algemene maatregel van bestuur worden regels gesteld omtrent de wijze waarop de in het eerste lid bedoelde zorg wordt uitgeoefend.   
 
@@ -222,8 +222,8 @@ b. het verrichten van bij of krachtens algemene maatregel van bestuur of door On
 
 1.  Met het toezicht op de naleving van het bij of krachtens de wet bepaalde ten aanzien van het beheer van de archiefbescheiden, bedoeld in de artikelen 23, eerste en tweede lid, en 41, eerste lid, zijn belast de bij besluit van Onze minister als hoofdinspecteur en inspecteurs aangewezen ambtenaren.   
 2.  Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan in de *Staatscourant*.    
-3.  De toezichthouder beschikt niet over de bevoegdheid, genoemd in [artikel 5:19 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).    
-4.  Indien een toezichthouder met toepassing van [artikel 5:15 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) een ruimte betreedt waarin de in de artikelen 23, eerste of tweede lid, dan wel artikel 41, eerste lid, bedoelde archiefbescheiden worden bewaard, dan wel met toepassing van [artikel 5:18 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) inzage vordert van die archiefbescheiden, neemt hij de voorschriften ten aanzien van de beveiliging van geheimen in acht.   
+3.  De toezichthouder beschikt niet over de bevoegdheid, genoemd in artikel 5:19 van de Algemene wet bestuursrecht.    
+4.  Indien een toezichthouder met toepassing van artikel 5:15 van de Algemene wet bestuursrecht een ruimte betreedt waarin de in de artikelen 23, eerste of tweede lid, dan wel artikel 41, eerste lid, bedoelde archiefbescheiden worden bewaard, dan wel met toepassing van artikel 5:18 van de Algemene wet bestuursrecht inzage vordert van die archiefbescheiden, neemt hij de voorschriften ten aanzien van de beveiliging van geheimen in acht.   
 
 ### Artikel  25b  
 
@@ -249,7 +249,7 @@ b. het verrichten van bij of krachtens algemene maatregel van bestuur of door On
 1.  Overeenkomstig een door provinciale staten vast te stellen verordening dragen gedeputeerde staten zorg voor de archiefbescheiden van de provinciale organen.    
 2.   De kosten, verbonden aan de uitoefening van de in het eerste lid bedoelde zorg, komen ten laste van de provincie.    
 3.  Onze minister kan in bijzondere gevallen een subsidie verstrekken voor de kosten van het beheer van de in de provinciale archiefbewaarplaats berustende archiefbescheiden, indien de aard of de omvang van de archiefbescheiden naar zijn oordeel daartoe aanleiding geeft.   
-4.  In afwijking van [artikel 4:21, derde lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is [titel 4.2 van die wet](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing op de subsidie, bedoeld in het derde lid. 
+4.  In afwijking van artikel 4:21, derde lid, van de Algemene wet bestuursrecht is titel 4.2 van die wet van toepassing op de subsidie, bedoeld in het derde lid. 
 
 ### Artikel  28  
 
@@ -270,7 +270,7 @@ Voor de bewaring van de op grond van artikel 12, eerste lid, en artikel 13, eers
 1.  Overeenkomstig een door de gemeenteraad vast te stellen verordening, welke aan gedeputeerde staten wordt medegedeeld, dragen burgemeester en wethouders zorg voor de archiefbescheiden van de gemeentelijke organen.    
 2.   De kosten, verbonden aan de uitoefening van de in het eerste lid bedoelde zorg, komen ten laste van de gemeente.    
 3.   Onze minister kan in bijzondere gevallen een subsidie verstrekken voor de kosten van het beheer van de in de gemeentelijke archiefbewaarplaats berustende archiefbescheiden, indien de aard of de omvang van de archiefbescheiden naar zijn oordeel daartoe aanleiding geeft.    
-4.  In afwijking van [artikel 4:21, derde lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is [titel 4.2 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) op de subsidie, bedoeld in het derde lid, van toepassing.   
+4.  In afwijking van artikel 4:21, derde lid, van de Algemene wet bestuursrecht is titel 4.2 van de Algemene wet bestuursrecht op de subsidie, bedoeld in het derde lid, van toepassing.   
 
 ### Artikel  31  
 
@@ -291,7 +291,7 @@ Voor de bewaring van de op grond van artikel 12, eerste lid, en artikel 13, eers
 1.  Overeenkomstig een door het bestuur vast te stellen verordening, welke aan gedeputeerde staten wordt medegedeeld, draagt het dagelijks bestuur zorg voor de archiefbescheiden van de organen van het waterschap.    
 2.   De kosten, verbonden aan de uitoefening van de in het eerste lid bedoelde zorg, komen ten laste van het waterschap.    
 3.   Onze minister kan in bijzondere gevallen een subsidie verstrekken voor de kosten van het beheer van de in de waterschapsarchiefbewaarplaats berustende archiefbescheiden, indien de aard of de omvang van de archiefbescheiden naar zijn oordeel daartoe aanleiding geeft.    
-4.  In afwijking van [artikel 4:21, derde lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is [titel 4.2 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) op de subsidie, bedoeld in het derde lid, van toepassing.   
+4.  In afwijking van artikel 4:21, derde lid, van de Algemene wet bestuursrecht is titel 4.2 van de Algemene wet bestuursrecht op de subsidie, bedoeld in het derde lid, van toepassing.   
 
 ### Artikel  36  
 
@@ -305,7 +305,7 @@ Voor de bewaring van de op grond van artikel 12, eerste lid, en artikel 13, eers
 
 ### Artikel  38  
 
-Met betrekking tot de uitvoering van deze wet door het dagelijks bestuur zijn de [artikelen 124](../../../../wet/gemeentewet/BWBR0005416/README.md), [124a](../../../../wet/gemeentewet/BWBR0005416/README.md), [124c tot en met 124h](../../../../wet/gemeentewet/BWBR0005416/README.md) alsmede [hoofdstuk XVII van de Gemeentewet](../../../../wet/gemeentewet/BWBR0005416/README.md) van overeenkomstige toepassing.
+Met betrekking tot de uitvoering van deze wet door het dagelijks bestuur zijn de artikelen 124, 124a, 124c tot en met 124h alsmede hoofdstuk XVII van de Gemeentewet van overeenkomstige toepassing.
 
 ### Hoofdstuk  VII  
 
@@ -313,7 +313,7 @@ Met betrekking tot de uitvoering van deze wet door het dagelijks bestuur zijn de
 
 ### Artikel  40  
 
-1.  Een regeling als bedoeld in de [Wet gemeenschappelijke regelingen](../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md) (*Stb*. 1989, 571) houdt tevens een voorziening in omtrent de zorg voor de archiefbescheiden van bij die regeling ingestelde openbare lichamen of gemeenschappelijke organen.    
+1.  Een regeling als bedoeld in de Wet gemeenschappelijke regelingen (*Stb*. 1989, 571) houdt tevens een voorziening in omtrent de zorg voor de archiefbescheiden van bij die regeling ingestelde openbare lichamen of gemeenschappelijke organen.    
 2.   Deze voorziening wordt getroffen zoveel mogelijk overeenkomstig de bepalingen van deze wet.    
 3.   Zolang bij een gemeenschappelijke regeling niet is voldaan aan de verplichting tot het treffen van een voorziening als bedoeld in het eerste lid, zijn van overeenkomstige toepassing de bepalingen die terzake gelden voor de gemeente dan wel, indien een provincie aan de regeling deelneemt, voor de provincie, waar het ingestelde lichaam of orgaan is gevestigd.   
 
@@ -364,11 +364,11 @@ Andere dan de in artikel 46 bedoelde inbewaringgevingen blijven in stand tot het
 
 ### Artikel  48  
 
-De ingevolge [artikel 3 van het Archiefbesluit](../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md) (*Stb.* 1968, 200), zoals dit luidde voor de inwerkingtreding van deze wet, vastgestelde lijsten van voor vernietiging in aanmerking komende archiefbescheiden blijven gehandhaafd totdat zij zijn vervangen door op grond van artikel 5 van deze wet vastgestelde selectielijsten.  
+De ingevolge artikel 3 van het Archiefbesluit (*Stb.* 1968, 200), zoals dit luidde voor de inwerkingtreding van deze wet, vastgestelde lijsten van voor vernietiging in aanmerking komende archiefbescheiden blijven gehandhaafd totdat zij zijn vervangen door op grond van artikel 5 van deze wet vastgestelde selectielijsten.  
 
 ### Artikel  49  
 
-De machtigingen, verleend op grond van [artikel 20 van het Archiefbesluit](../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md), zoals dit luidde voor de inwerkingtreding van deze wet, blijven gelden totdat zij zijn vervangen door een machtiging afgegeven overeenkomstig het in artikel 13, derde lid, van deze wet bepaalde.  
+De machtigingen, verleend op grond van artikel 20 van het Archiefbesluit, zoals dit luidde voor de inwerkingtreding van deze wet, blijven gelden totdat zij zijn vervangen door een machtiging afgegeven overeenkomstig het in artikel 13, derde lid, van deze wet bepaalde.  
 
 ### Artikel  50  
 

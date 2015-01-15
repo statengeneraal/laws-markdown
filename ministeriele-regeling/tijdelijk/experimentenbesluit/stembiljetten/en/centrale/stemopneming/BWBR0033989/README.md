@@ -223,7 +223,6 @@ b. de gegevens van de kiezers die zich bij burgemeester en wethouders van ’s-G
 7.  Burgemeester en wethouders wijzen voor het gemeentelijk stembureau één of meer geschikte locaties aan voor de stemopneming en voor de zitting tot vaststelling van de uitslag voor de gemeente.  
 
 ### Artikel  20a  
-Treedt in werking per 01-01-2015 
 
 1.  Bij de gecombineerde stemming voor de verkiezing van de leden van provinciale staten en de leden van een algemeen bestuur, bedoeld in artikel A 1 van de Kieswet, stelt het college van burgemeester en wethouders een gemeentelijk stembureau voor de verkiezing van de leden van provinciale staten en een gemeentelijk stembureau voor de verkiezing van de leden van dat algemeen bestuur in.   
 2.  Indien een gemeente in het gebied van twee of meer waterschappen ligt, stelt het college van burgemeester en wethouders één of meer gemeentelijke stembureaus in die de stemopneming verrichten voor de verkiezing van één of meer waterschappen.  
@@ -256,15 +255,15 @@ c. de stembiljetten met een ongeldige stem.
 
 ### Artikel  24  
 
-1.  De pakken, bedoeld in artikel N 2, van de Kieswet, en artikel 23, eerste lid, worden in de stembus gedaan.   
-2.  De stembus wordt afgesloten en verzegeld.   
-3.  Totdat het stembureau de stembus overdraagt ten behoeve van het vervoer naar een locatie voor de stemopneming, draagt het stembureau er zorg voor dat de zegels op de stembus en de pakken niet worden verbroken.  
+1.  De pakken, bedoeld in artikel N 2, van de Kieswet, en artikel 23, eerste lid, worden in een transportbox gedaan.   
+2.  De transportbox wordt afgesloten en verzegeld.   
+3.  Totdat het stembureau de transportbox overdraagt ten behoeve van het vervoer naar een locatie voor de stemopneming, draagt het stembureau er zorg voor dat de zegels op de transportbox en de pakken niet worden verbroken.  
 
 ### Artikel  25  
 
-1.  Het proces-verbaal van het stembureau wordt overgedragen aan het gemeentelijk stembureau. Burgemeester en wethouders dragen er zorg voor dat de stembus wordt vervoerd naar een locatie voor de stemopneming en wordt overgedragen aan het gemeentelijk stembureau.   
+1.  Het proces-verbaal van het stembureau wordt overgedragen aan het gemeentelijk stembureau. Burgemeester en wethouders dragen er zorg voor dat de transportbox wordt vervoerd naar een locatie voor de stemopneming en wordt overgedragen aan het gemeentelijk stembureau.   
 2.  Indien de stemopneming op meer dan één locatie geschiedt, besluiten burgemeester en wethouders uiterlijk de zevende dag voor de stemming op welke locatie de stemopneming voor ieder stembureau plaatsvindt.   
-3.  Nadat de stembus door het stembureau is overgedragen ten behoeve van het vervoer naar een locatie voor de stemopneming, dragen burgemeester en wethouders er zorg voor dat de zegels op de stembus en de pakken niet worden verbroken totdat het gemeentelijk stembureau aanvangt met zijn werkzaamheden.  
+3.  Nadat de transportbox door het stembureau is overgedragen ten behoeve van het vervoer naar een locatie voor de stemopneming, dragen burgemeester en wethouders er zorg voor dat de zegels op de transportbox en de pakken niet worden verbroken totdat het gemeentelijk stembureau aanvangt met zijn werkzaamheden.  
 
 ### Paragraaf  3.3  
 
@@ -272,7 +271,8 @@ c. de stembiljetten met een ongeldige stem.
 
 ### Artikel  26  
 
-Burgemeester en wethouders besluiten uiterlijk de zevende dag voor de stemming op welk tijdstip het gemeentelijk stembureau in het openbaar de stemopneming verricht, met dien verstande dat de stemopneming uiterlijk de dag na de stemming om negen uur aanvangt. 
+1. Burgemeester en wethouders besluiten uiterlijk de zevende dag voor de stemming op welk moment het gemeentelijk stembureau in het openbaar de stemopneming verricht, met dien verstande dat de stemopneming uiterlijk de dag na de stemming aanvangt.  
+2.  In afwijking van het eerste lid vangt de stemopneming bij de verkiezing van de leden van het algemeen bestuur van een waterschap uiterlijk de tweede dag na de stemming aan. 
 
 ### Artikel  27  
 
@@ -298,7 +298,7 @@ Het gemeentelijk stembureau verricht voor elk stembureau separaat de handelingen
 
 ### Artikel  32  
 
-1.  Het gemeentelijk stembureau opent de verzegelde stembus en de verzegelde pakken met stembiljetten.   
+1.  Het gemeentelijk stembureau opent de verzegelde transportbox en de verzegelde pakken met stembiljetten.   
 2.  Het gemeentelijk stembureau stelt ten aanzien van iedere lijst vast: 
 
 a. het aantal op iedere kandidaat uitgebrachte stemmen;  
@@ -384,6 +384,10 @@ De aanwezige personen kunnen mondeling bezwaren inbrengen. De bezwaren worden in
 1.  Het gemeentelijk stembureau maakt het proces-verbaal onverwijld op een algemeen toegankelijke wijze elektronisch openbaar.   
 2.  Het gemeentelijk stembureau brengt onverwijld een afschrift van zijn proces-verbaal over naar het vertegenwoordigend orgaan en het hoofdstembureau.   
 3.  Het gemeentelijk stembureau draagt het proces-verbaal, bedoeld in artikel N 10, eerste lid, van de Kieswet, of de pakken, bedoeld in artikel N 2 van de Kieswet of de artikelen 34, derde lid, of 36, tweede lid, over aan burgemeester en wethouders.  
+
+### Artikel  42a  
+
+In afwijking van artikel O 1, eerste lid, van de Kieswet kan het hoofdstembureau voor een verkiezing van de leden van een vertegenwoordigend orgaan met twee of meer kieskringen uiterlijk een week voor de stemming besluiten dat zijn zitting op de tweede dag na de stemming betreffende de vaststelling van de verkiezingsuitslag op een later tijdstip dan 10:00 uur plaatsvindt. 
 
 ### Artikel  43  
 

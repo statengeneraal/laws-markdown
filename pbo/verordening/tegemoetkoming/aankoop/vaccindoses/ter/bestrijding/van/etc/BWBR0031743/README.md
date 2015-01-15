@@ -3,13 +3,13 @@
 ##Verordening van het Productschap Pluimvee en Eieren van 16 februari 2012 houdende een tegemoetkoming voor de aankoop van vaccindoses ten behoeve van de bestrijding van Salmonella in de pluimveesector (Verordening tegemoetkoming aankoop vaccindoses ter bestrijding van Salmonella (PPE) 2012)
 
 Het bestuur van het Productschap Pluimvee en Eieren;  
-Gelet op [artikel 96, tweede lid, sub b. onder 6°, en sub d., van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE's](../../../../../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md);
+Gelet op artikel 96, tweede lid, sub b. onder 6°, en sub d., van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE's;
 
-Gelet op de [artikelen 96](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [97](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [98 van de Wet op de bedrijfsorganisatie](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+Gelet op de artikelen 96, 97 en 98 van de Wet op de bedrijfsorganisatie;
 
 Gezien het Uitvoeringsbesluit van 30 november 2011 tot goedkeuring van de door de lidstaten voor 2012 en volgende jaren ingediende jaarlijkse en meerjarenprogramma's en van de financiële bijdrage van de Unie voor de uitroeiing, bestrijding en bewaking van bepaalde dierziekten en zoönosen (2011/807/EU);
 
-Gezien de [Verordening hygiënemaatregelen en bestrijding zoönosen in pluimveebedrijven en kuikenbroederijen (PPE) 2011](../../../../../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md).
+Gezien de Verordening hygiënemaatregelen en bestrijding zoönosen in pluimveebedrijven en kuikenbroederijen (PPE) 2011.
 Besluit:    
 ###1 
 
@@ -20,7 +20,7 @@ Materieel uitgewerkt per 04-08-2013
 ###Artikel 1 
 Materieel uitgewerkt per 04-08-2013 
 
-Deze verordening neemt de terminologie als omschreven in [artikel 1 van de Verordening hygiënemaatregelen en bestrijding zoönosen in pluimveebedrijven en kuikenbroederijen (PPE) 2011](../../../../../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md) (hierna: de Verordening) over, en verstaat voorts onder: 
+Deze verordening neemt de terminologie als omschreven in artikel 1 van de Verordening hygiënemaatregelen en bestrijding zoönosen in pluimveebedrijven en kuikenbroederijen (PPE) 2011 (hierna: de Verordening) over, en verstaat voorts onder: 
 
 | --- | --- | --- |
 |:---|:---|:---|
@@ -46,12 +46,12 @@ Materieel uitgewerkt per 04-08-2013
 ###Artikel 3 
 Materieel uitgewerkt per 04-08-2013 
 
-De ondernemer komt slechts in aanmerking voor de tegemoetkoming indien het bedrijf van de ondernemer en de vermeerderingsdieren van een legras of de leghennen waarop de tegemoetkoming betrekking heeft, zijn geregistreerd overeenkomstig de [Verordening identificatie en registratie van pluimveebedrijven en levend pluimvee (PPE) 2012](../../../../../../../../../../pbo/verordening/identificatie/en/registratie/van/pluimveebedrijven/en/levend/etc/BWBR0031111/README.md). 
+De ondernemer komt slechts in aanmerking voor de tegemoetkoming indien het bedrijf van de ondernemer en de vermeerderingsdieren van een legras of de leghennen waarop de tegemoetkoming betrekking heeft, zijn geregistreerd overeenkomstig de Verordening identificatie en registratie van pluimveebedrijven en levend pluimvee (PPE) 2012. 
 
 ###Artikel 4 
 Materieel uitgewerkt per 04-08-2013 
 
-De ondernemer komt slechts in aanmerking voor de tegemoetkoming indien de voorzitter heeft vastgesteld dat de gevaccineerde vermeerderingsdieren van een legras of gevaccineerde leghennen zijn geplaatst op een overeenkomstig de [Verordening identificatie en registratie van pluimveebedrijven en levend pluimvee (PPE) 2012](../../../../../../../../../../pbo/verordening/identificatie/en/registratie/van/pluimveebedrijven/en/levend/etc/BWBR0031111/README.md) geregistreerd fokbedrijf, vermeerderingsbedrijf of leghennenbedrijf in de periode vanaf 1 januari 2012 tot en met 31 december 2012. 
+De ondernemer komt slechts in aanmerking voor de tegemoetkoming indien de voorzitter heeft vastgesteld dat de gevaccineerde vermeerderingsdieren van een legras of gevaccineerde leghennen zijn geplaatst op een overeenkomstig de Verordening identificatie en registratie van pluimveebedrijven en levend pluimvee (PPE) 2012 geregistreerd fokbedrijf, vermeerderingsbedrijf of leghennenbedrijf in de periode vanaf 1 januari 2012 tot en met 31 december 2012. 
 
 ###3 
 
@@ -122,7 +122,7 @@ Materieel uitgewerkt per 04-08-2013
 Materieel uitgewerkt per 04-08-2013 
 
 1. De tegemoetkoming wordt door de voorzitter ingetrokken of ten nadele van de ondernemer gewijzigd indien de ondernemer niet voldoet aan het bepaalde in artikel 3 en artikel 4 of indien de ondernemer niet voldoet aan het bepaalde bij of krachtens de Verordening of indien de ondernemer onjuiste of onvolledige informatie met betrekking tot het bepaalde in artikel 3 en artikel 4 heeft verstrekt aan de leverancier van de gevaccineerde vermeerderingsdieren van een legras of van de leverancier van de gevaccineerde leghennen.  
-2. Indien de tegemoetkoming door de voorzitter wordt ingetrokken of ten nadele van de ondernemer wordt gewijzigd overeenkomstig [artikel 4:48](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) onderscheidenlijk [4:49 van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), kunnen de verstrekte bedragen overeenkomstig [artikel 4:57 van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) worden teruggevorderd en vermeerderd met de wettelijke rente over de periode vanaf de eerste uitbetaling tot aan het moment van algehele voldoening.  
+2. Indien de tegemoetkoming door de voorzitter wordt ingetrokken of ten nadele van de ondernemer wordt gewijzigd overeenkomstig artikel 4:48 onderscheidenlijk 4:49 van de Algemene wet bestuursrecht, kunnen de verstrekte bedragen overeenkomstig artikel 4:57 van de Algemene wet bestuursrecht worden teruggevorderd en vermeerderd met de wettelijke rente over de periode vanaf de eerste uitbetaling tot aan het moment van algehele voldoening.  
 3. De te betalen rente is de wettelijke rente zoals deze geldt op de laatste dag van de maand waarin de betaling van de tegemoetkoming aan de leverancier van de gevaccineerde vermeerderingsdieren van een legras of gevaccineerde leghennen heeft plaatsgevonden. 
 4. Geen wettelijke rente is verschuldigd indien de oorzaak van het onverschuldigd betalen van de tegemoetkoming bij de voorzitter is gelegen.
 

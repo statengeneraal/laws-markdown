@@ -3,13 +3,13 @@
 ##Verordening van het Productschap Pluimvee en Eieren van 16 februari 2012 houdende een subsidieregeling gericht op het terugdringen van Salmonella in de pluimveesector (Verordening subsidieverlening terugdringing Salmonella (PPE) 2012)
 
 Het bestuur van het Productschap Pluimvee en Eieren;  
-Gelet op [artikel 96, tweede lid, sub b. onder 5°, en sub d., van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE's](../../../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md);
+Gelet op artikel 96, tweede lid, sub b. onder 5°, en sub d., van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE's;
 
-Gelet op de [artikelen 96](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [97](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [98 van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+Gelet op de artikelen 96, 97 en 98 van de Wet op de bedrijfsorganisatie;
 
 Gezien het Uitvoeringsbesluit van 30 november 2011 tot goedkeuring van de door de lidstaten voor 2012 en volgende jaren ingediende jaarlijkse en meerjarenprogramma's en van de financiële bijdrage van de Unie voor de uitroeiing, bestrijding en bewaking van bepaalde dierziekten en zoönosen (2011/807 /EU);
 
-Gezien de [Verordening hygiënemaatregelen en bestrijding zoönosen in pluimveebedrijven en kuikenbroederijen (PPE) 2011](../../../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md).
+Gezien de Verordening hygiënemaatregelen en bestrijding zoönosen in pluimveebedrijven en kuikenbroederijen (PPE) 2011.
 Besluit:    
 ###1 
 
@@ -20,13 +20,13 @@ Materieel uitgewerkt per 04-08-2013
 ###Artikel 1 
 Materieel uitgewerkt per 04-08-2013 
 
-Deze verordening neemt de terminologie als omschreven in [artikel 1 van de Verordening hygiënemaatregelen en bestrijding zoönosen in pluimveebedrijven en kuikenbroederijen (PPE) 2011](../../../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md) (hierna: de Verordening) over, en verstaat voorts onder: 
+Deze verordening neemt de terminologie als omschreven in artikel 1 van de Verordening hygiënemaatregelen en bestrijding zoönosen in pluimveebedrijven en kuikenbroederijen (PPE) 2011 (hierna: de Verordening) over, en verstaat voorts onder: 
 
 | --- | --- | --- |
 |:---|:---|:---|
 |a. Vermeerderingsdieren |: |fokpluimvee of vermeerderingspluimvee; |
-|b. Landbouwregeling |: |regeling, bedoeld in [artikel 27 van de Wet op de omzetbelasting 1968](../../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md); |
-|c. geregistreerd vaccin |: |vaccin dat op grond van de [Diergeneesmiddelenwet](../../../../../../../../wet/diergeneesmiddelenwet/BWBR0003818/README.md) is geregistreerd voor gebruik bij leghennen of opfokleghennen; |
+|b. Landbouwregeling |: |regeling, bedoeld in artikel 27 van de Wet op de omzetbelasting 1968; |
+|c. geregistreerd vaccin |: |vaccin dat op grond van de Diergeneesmiddelenwet is geregistreerd voor gebruik bij leghennen of opfokleghennen; |
 |d. Vaccinatie |: |toediening van een geregistreerd vaccin bij leghennen of opfokleghennen overeenkomstig de voorwaarden die daaraan bij de registratie van het betreffende vaccin zijn verbonden; |
 |e. stalkoppels eendagskuikens |: |stalkoppels bestaande uit pluimvee dat nog geen 72 uur oud is. |
 
@@ -39,7 +39,7 @@ Materieel uitgewerkt per 04-08-2013
 ###Artikel 2 
 Materieel uitgewerkt per 04-08-2013 
 
-Het bedrijf van de ondernemer die subsidie aanvraagt en de vermeerderingsdieren, de leghennen dan wel de opfokleghennen waarop de aanvraag betrekking heeft, zijn geregistreerd overeenkomstig de [Verordening identificatie en registratie van pluimveebedrijven en levend pluimvee (PPE) 2012](../../../../../../../../pbo/verordening/identificatie/en/registratie/van/pluimveebedrijven/en/levend/etc/BWBR0031111/README.md).  
+Het bedrijf van de ondernemer die subsidie aanvraagt en de vermeerderingsdieren, de leghennen dan wel de opfokleghennen waarop de aanvraag betrekking heeft, zijn geregistreerd overeenkomstig de Verordening identificatie en registratie van pluimveebedrijven en levend pluimvee (PPE) 2012.  
 
 ###3 
 
@@ -50,7 +50,7 @@ Materieel uitgewerkt per 04-08-2013
 ###Artikel 3 
 Materieel uitgewerkt per 04-08-2013 
 
-1. De voorzitter verleent op aanvraag van de ondernemer een subsidie aan de ondernemer die overeenkomstig het bepaalde bij of krachtens [artikel 5, derde lid](../../../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md), respectievelijk [artikel 8, tweede lid, van de Verordening](../../../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md) een met Salmonella Enteritidis, Salmonella Typhimurium, Salmonella Hadar, Salmonella Infantis, Salmonella Virchow of Salmonella Java besmet stalstalkoppel vermeerderingsdieren laat ruimen, en de broedeieren van een met Salmonella Enteritidis, Salmonella Typhimurium, Salmonella Hadar, Salmonella Infantis, Salmonella Virchow of Salmonella Java besmet stalkoppel vermeerderingsdieren laat verwerken of vernietigen. 
+1. De voorzitter verleent op aanvraag van de ondernemer een subsidie aan de ondernemer die overeenkomstig het bepaalde bij of krachtens artikel 5, derde lid, respectievelijk artikel 8, tweede lid, van de Verordening een met Salmonella Enteritidis, Salmonella Typhimurium, Salmonella Hadar, Salmonella Infantis, Salmonella Virchow of Salmonella Java besmet stalstalkoppel vermeerderingsdieren laat ruimen, en de broedeieren van een met Salmonella Enteritidis, Salmonella Typhimurium, Salmonella Hadar, Salmonella Infantis, Salmonella Virchow of Salmonella Java besmet stalkoppel vermeerderingsdieren laat verwerken of vernietigen. 
 2. De subsidie bedraagt:
 
 a.voor vermeerderingspluimvee van een legras voor een geruimd dier niet ouder dan 70 weken, het met de leeftijd van het dier corresponderende bedrag, genoemd in bijlage I; 
@@ -64,12 +64,12 @@ d.voor fokpluimvee van een vleesras per geruimd dier niet ouder dan 60 weken, he
 e.per verwerkt of vernietigd broedei van vermeerderingspluimvee: het bedrag dat overeenkomt met de op het moment van vaststelling van de besmetting geldende marktwaarde van het broedei;
 
 f.per verwerkt of vernietigd broedei van fokpluimvee: € 1,05; 
-3. In afwijking van het bepaalde in het eerste lid wordt geen subsidie verleend indien het betreft vermeerderingsdieren dan wel broedeieren waaruit vermeerderingsdieren voortkomen, die zijn geïmporteerd uit een land dat niet lid is van de Europese Unie en waarbij het in [artikel 4, eerste lid, van de Verordening](../../../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md) bedoelde onderzoek van stalkoppels eendagskuikens bij de aankomst op het bedrijf, de aanwezigheid van Salmonella Hadar, Salmonella Infantis, Salmonella Virchow of Salmonella Java heeft aangetoond. 
+3. In afwijking van het bepaalde in het eerste lid wordt geen subsidie verleend indien het betreft vermeerderingsdieren dan wel broedeieren waaruit vermeerderingsdieren voortkomen, die zijn geïmporteerd uit een land dat niet lid is van de Europese Unie en waarbij het in artikel 4, eerste lid, van de Verordening bedoelde onderzoek van stalkoppels eendagskuikens bij de aankomst op het bedrijf, de aanwezigheid van Salmonella Hadar, Salmonella Infantis, Salmonella Virchow of Salmonella Java heeft aangetoond. 
 
 ###Artikel 4 
 Materieel uitgewerkt per 04-08-2013 
 
-1. De voorzitter verleent op aanvraag van de ondernemer een subsidie aan de ondernemer die een stalkoppel leghennen of opfokleghennen laat ruimen, waarbij overeenkomstig het bepaalde bij of krachtens [artikel 11, tweede lid, van de Verordening](../../../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md) een besmetting met Salmonella Enteritidis of Salmonella Typhimurium is vastgesteld. 
+1. De voorzitter verleent op aanvraag van de ondernemer een subsidie aan de ondernemer die een stalkoppel leghennen of opfokleghennen laat ruimen, waarbij overeenkomstig het bepaalde bij of krachtens artikel 11, tweede lid, van de Verordening een besmetting met Salmonella Enteritidis of Salmonella Typhimurium is vastgesteld. 
 2.  De subsidie bedraagt:
 
 a.voor opfokleghennen het met de leeftijd en het huisvestingssysteem van het dier corresponderende bedrag genoemd in Bijlage V, VI en VII, met een maximum van € 4,40 per geruimd dier; 
@@ -79,13 +79,13 @@ b.voor leghennen niet ouder dan 43 weken het met de leeftijd en het huisvestings
 ###Artikel 5 
 Materieel uitgewerkt per 04-08-2013 
 
-1. De subsidie als bedoeld in artikel 3 en artikel 4 wordt slechts verleend ter dekking van de kosten voor ruiming van een besmet stalkoppel en vernietiging of verwerking van broedeieren daarvan, die zijn ontstaan als gevolg van een besmetting die in de periode vanaf 1 januari 2012 tot en met 31 december 2012 is vastgesteld overeenkomstig het bepaalde bij of krachtens de [Verordening](../../../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md), indien aan de volgende voorwaarden is voldaan:
+1. De subsidie als bedoeld in artikel 3 en artikel 4 wordt slechts verleend ter dekking van de kosten voor ruiming van een besmet stalkoppel en vernietiging of verwerking van broedeieren daarvan, die zijn ontstaan als gevolg van een besmetting die in de periode vanaf 1 januari 2012 tot en met 31 december 2012 is vastgesteld overeenkomstig het bepaalde bij of krachtens de Verordening, indien aan de volgende voorwaarden is voldaan:
 
-a.het besmette stalkoppel vermeerderingsdieren wordt geruimd dan wel de broedeieren daarvan worden verwerkt of vernietigd op grond van [artikel 5, derde lid](../../../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md), respectievelijk [artikel 8, tweede lid, van de Verordening](../../../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md);
+a.het besmette stalkoppel vermeerderingsdieren wordt geruimd dan wel de broedeieren daarvan worden verwerkt of vernietigd op grond van artikel 5, derde lid, respectievelijk artikel 8, tweede lid, van de Verordening;
 
-b.het besmette stalkoppel leghennen of opfokleghennen wordt geruimd op grond van [artikel 11, derde lid, van de Verordening](../../../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md);
+b.het besmette stalkoppel leghennen of opfokleghennen wordt geruimd op grond van artikel 11, derde lid, van de Verordening;
 
-c.degene die toezicht houdt op de naleving van het bepaalde bij of krachtens de [Verordening](../../../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md) blijkens schriftelijke rapportage het aantal geruimde dieren en verwerkte of vernietigde broedeieren heeft vastgesteld en op de daadwerkelijke ruiming van de vermeerderingsdieren, leghennen of opfokleghennen dan wel de verwerking of de vernietiging van de broedeieren heeft toegezien;
+c.degene die toezicht houdt op de naleving van het bepaalde bij of krachtens de Verordening blijkens schriftelijke rapportage het aantal geruimde dieren en verwerkte of vernietigde broedeieren heeft vastgesteld en op de daadwerkelijke ruiming van de vermeerderingsdieren, leghennen of opfokleghennen dan wel de verwerking of de vernietiging van de broedeieren heeft toegezien;
 
 d.de ondernemer ten gunste van het productschap afstand doet van de slachtopbrengst van de vermeerderingsdieren, leghennen of opfokleghennen of de opbrengst van de broedeieren;
 
@@ -98,7 +98,7 @@ g.de leeftijd van het besmette stalkoppel leghennen niet hoger is dan 43 weken;
 h.het besmette stalkoppel leghennen is gevaccineerd tegen Salmonella Enteritidis;
 
 i.de ondernemer binnen vijf werkdagen na dagtekening van de melding als bedoeld onder e. de voorzitter schriftelijk heeft verzocht om een besmet stalkoppel leghennen of opfokleghennen te laten ruimen. 
-2. Voor de vaststelling van de leeftijd van het besmette stalkoppel vermeerderingsdieren, leghennen of opfokleghennen geldt als peildatum de datum van de vaststelling van de besmetting nadat het verificatieonderzoek bedoeld in [artikel 4, vierde lid](../../../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md), [artikel 7, vierde lid](../../../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md), en [artikel 10, vierde lid, van de Verordening](../../../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md), is uitgevoerd. 
+2. Voor de vaststelling van de leeftijd van het besmette stalkoppel vermeerderingsdieren, leghennen of opfokleghennen geldt als peildatum de datum van de vaststelling van de besmetting nadat het verificatieonderzoek bedoeld in artikel 4, vierde lid, artikel 7, vierde lid, en artikel 10, vierde lid, van de Verordening, is uitgevoerd. 
 3.  Voor ondernemers die gebruik maken van de Landbouwregeling worden de bedragen, bedoeld in artikel 3, derde lid, en artikel 4, tweede lid, verminderd met 5,1 procent. Voor ondernemers die geen gebruik maken van de Landbouwregeling worden de bedragen, bedoeld in artikel 3, derde lid, en artikel 4, tweede lid, onverkort toegekend. 
 
 ###4 
@@ -167,8 +167,8 @@ Materieel uitgewerkt per 04-08-2013
 ###Artikel 11 
 Materieel uitgewerkt per 04-08-2013 
 
-1. De subsidie wordt door de voorzitter ingetrokken indien de ondernemer niet voldoet aan het bepaalde in artikel 5, artikel 7 en artikel 10 of indien de ondernemer niet voldoet aan het bepaalde bij of krachtens de [Verordening](../../../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md). 
-2. Indien de subsidie door de voorzitter wordt ingetrokken of ten nadele van de ondernemer wordt gewijzigd overeenkomstig [artikel 4:48](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) onderscheidenlijk [4:49 van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), kunnen de verstrekte bedragen overeenkomstig [artikel 4:57 van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) worden teruggevorderd en vermeerderd met de wettelijke rente over de periode vanaf de eerste uitbetaling tot aan het moment van algehele voldoening.
+1. De subsidie wordt door de voorzitter ingetrokken indien de ondernemer niet voldoet aan het bepaalde in artikel 5, artikel 7 en artikel 10 of indien de ondernemer niet voldoet aan het bepaalde bij of krachtens de Verordening. 
+2. Indien de subsidie door de voorzitter wordt ingetrokken of ten nadele van de ondernemer wordt gewijzigd overeenkomstig artikel 4:48 onderscheidenlijk 4:49 van de Algemene wet bestuursrecht, kunnen de verstrekte bedragen overeenkomstig artikel 4:57 van de Algemene wet bestuursrecht worden teruggevorderd en vermeerderd met de wettelijke rente over de periode vanaf de eerste uitbetaling tot aan het moment van algehele voldoening.
 3. De te betalen rente is de wettelijke rente zoals deze geldt op de laatste dag van de maand waarin de betaling van de subsidie heeft plaatsgevonden.
 4. Geen wettelijke rente is verschuldigd indien de oorzaak van het onverschuldigd betalen bij de voorzitter is gelegen.
 

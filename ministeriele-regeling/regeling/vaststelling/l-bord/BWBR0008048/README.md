@@ -3,12 +3,12 @@
 ##Regeling vaststelling L-bord
 
 De Minister van Verkeer en Waterstaat,  
-Gelet op [artikel 108,tweede lid, van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en op de [artikelen 7, onderdeel d](../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md), [8, onderdeel c](../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md), [9, eerste lid, onderdeel c](../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md), [79](../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md), [80, onderdeel c](../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md), en [81, onderdeel c, van het Reglement rijbewijzen](../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md);
+Gelet op artikel 108,tweede lid, van de Wegenverkeerswet 1994 en op de artikelen 7, onderdeel d, 8, onderdeel c, 9, eerste lid, onderdeel c, 79, 80, onderdeel c, en 81, onderdeel c, van het Reglement rijbewijzen;
 Besluit:    
 
 ### Artikel  1  
 
-De aanduiding, bedoeld in de [artikelen 7, onderdeel d](../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md), [8, onderdeel c](../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md), [9, eerste lid, onderdeel c](../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md), [79](../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md), [80, onderdeel c](../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md), en [81, onderdeel c, van het Reglement rijbewijzen](../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md), bestaat uit een witte hoofdletter ’L’ op een lichtblauwe, vierkante achtergrond, die niet retroreflecterend is.  
+De aanduiding, bedoeld in de artikelen 7, onderdeel d, 8, onderdeel c, 9, eerste lid, onderdeel c, 79, 80, onderdeel c, en 81, onderdeel c, van het Reglement rijbewijzen, bestaat uit een witte hoofdletter ’L’ op een lichtblauwe, vierkante achtergrond, die niet retroreflecterend is.  
 
 ### Artikel  2  
 

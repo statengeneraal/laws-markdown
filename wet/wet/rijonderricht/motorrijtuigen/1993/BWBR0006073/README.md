@@ -177,6 +177,17 @@ a. de inrichting en de inhoud van de geschiktheidtest;
 
 b. de beoordeling van de competenties van de betrokkene en de wijze waarop die beoordeling plaatsvindt.    
 
+### Artikel  9a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  In afwijking van artikel 9 voldoet de aanvrager die beschikt over een geldig certificaat als bedoeld in artikel 7, eerste lid, eerste volzin, voor alleen de categorie B, ten behoeve van het verkrijgen van het certificaat voor de categorie T, bedoeld in artikel 13, onderdeel a, subonderdeel 3, aan bij of krachtens algemene maatregel van bestuur vastgestelde eisen.   
+2.  In afwijking van artikel 9 voldoet de aanvrager die beschikt over een geldig certificaat als bedoeld in artikel 7, eerste lid, eerste volzin, voor alleen de categorie B, ten behoeve van het verkrijgen van het certificaat, bedoeld in artikel 13, onderdeel b, voor de categorie T, aan bij of krachtens algemene maatregel van bestuur vastgestelde eisen.  
+
+### Artikel  9b  
+Treedt in werking op een nader te bepalen tijdstip 
+
+In afwijking van artikel 9 voldoet de aanvrager die mede beschikt over een geldig certificaat voor de categorie E bij C als bedoeld in artikel 7, eerste lid, tweede volzin, ten behoeve van het verkrijgen van het certificaat, bedoeld in artikel 13, onderdeel b, voor de categorie T, aan bij of krachtens algemene maatregel van bestuur vastgestelde eisen. 
+
 ### Artikel  10  
 
 1.  Een certificaat voor het geven van rijonderricht vermeldt overeenkomstig bij algemene maatregel van bestuur vastgestelde regels de categorie of categorieën van motorrijtuigen waarvoor het is afgegeven.    

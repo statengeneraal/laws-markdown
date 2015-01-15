@@ -16,15 +16,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1.  In deze wet en de daarop berustende bepalingen wordt verstaan onder:  
 
-a. Onze Minister: Onze Minister voor Wonen, Wijken en Integratie;   
+a. Onze Minister: Onze Minister voor Wonen en Rijksdienst;   
 
 b. woongelegenheid:  
 
 1°. woning;   
 
-2°. standplaats als bedoeld in artikel 1, eerste lid, onder e, van de Huisvestingswet; en  
+2°. standplaats als bedoeld in artikel 1, onder j, van de Wet op de huurtoeslag; en  
 
-3°. woonwagen als bedoeld in artikel 1, eerste lid, onder f, van de Huisvestingswet;   
+3°. woonwagen als bedoeld in artikel 1, eerste lid, onder l, van de Wet op de huurtoeslag;   
 
 c. wooncomplex: een verzameling van ten minste 25 in elkaars nabijheid gelegen woongelegenheden welke financieel, administratief, qua bouwwijze of anderszins een eenheid vormen;   
 

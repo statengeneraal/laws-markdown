@@ -31,7 +31,7 @@ e. Wet WIA: Wet werk en inkomen naar arbeidsvermogen;
 
 f. WAZ: Wet arbeidsongeschiktheidsverzekering zelfstandigen;  
 
-g. Wet Wajong: Wet werk en arbeidsondersteuning jonggehandicapten;  
+g. Wajong: Wet arbeidsongeschiktheidsvoorziening jonggehandicapten;  
 
 h. Wazo: Wet arbeid en zorg;  
 
@@ -63,12 +63,14 @@ a. 5 procent van het uitkeringsbedrag, met een mogelijkheid van afwijking tot te
 
 b. 10 procent van het uitkeringsbedrag, met een mogelijkheid van afwijking tot ten minste 5 procent of ten hoogste 30 procent van het uitkeringsbedrag, gedurende ten minste twee maanden bij verplichtingen uit de tweede categorie, bedoeld in artikel 4;  
 
-c. 25 procent van het uitkeringsbedrag, met een mogelijkheid van afwijking tot ten minste 15 procent of ten hoogste 100 procent van het uitkeringsbedrag, gedurende ten minste vier maanden bij verplichtingen uit de derde categorie, bedoeld in de artikelen 5 en 6; of  
+c. 25 procent van het uitkeringsbedrag, met een mogelijkheid van afwijking tot ten minste 15 procent of ten hoogste 100 procent van het uitkeringsbedrag, gedurende ten minste vier maanden bij verplichtingen uit de derde categorie, bedoeld in de artikelen 5 en 6;  
 
-d. een blijvend gehele weigering van de uitkering bij verplichtingen uit de vierde categorie, bedoeld in artikel 7, tenzij het niet nakomen van de verplichting de belanghebbende niet in overwegende mate kan worden verweten, in welk geval onderdeel c van toepassing is.     
-2.  Onder uitkering als bedoeld in het eerste lid wordt tevens verstaan de inkomensondersteuning, bedoeld in artikel 2:39, eerste lid, van de Wet Wajong de toeslag, bedoeld in artikel 11, tweede lid, van de TW, het ouderdomspensioen en de toeslag, bedoeld in de artikelen 7 en 8 van de AOW, de kinderbijslag, bedoeld in artikel 7 van de AKW, en de remigratievoorzieningen, bedoeld in de RW.   
+d. een blijvend gehele weigering van de uitkering bij verplichtingen uit de vierde categorie, bedoeld in artikel 7, tenzij het niet nakomen van de verplichting de belanghebbende niet in overwegende mate kan worden verweten, in welk geval onderdeel c van toepassing is; of  
+
+e. een gehele of gedeeltelijke weigering van het uitkeringsbedrag gedurende ten hoogste drie maanden bij verplichtingen uit de vijfde categorie, bedoeld in artikel 7a, tenzij het niet nakomen van de verplichting de belanghebbende niet in overwegende mate kan worden verweten, in welk geval er geen maatregel wordt opgelegd.    
+2.  Onder uitkering als bedoeld in het eerste lid wordt tevens verstaan de inkomensondersteuning, bedoeld in artikel 2:39, eerste lid, van de Wajong de toeslag, bedoeld in artikel 11, tweede lid, van de TW, het ouderdomspensioen en de toeslag, bedoeld in de artikelen 7 en 8 van de AOW, de kinderbijslag, bedoeld in artikel 7 van de AKW, en de remigratievoorzieningen, bedoeld in de RW.   
 3.  Voor de toepassing van het eerste lid wordt het bedrag aan kinderbijslag in aanmerking genomen waarop op grond van artikel 12 van de AKW recht bestaat ten behoeve van het kind of de kinderen ten aanzien van wie de overtreding is begaan en wordt de periode van een maand vervangen door een periode van een kwartaal.   
-4.  Indien een verplichting op grond van artikel 30, eerste lid, onderdeel a, of derde lid van de Wet WIA of artikel 2:32, tweede lid, van de Wet Wajong niet is nagekomen legt het UWV, voor de toepassing van het eerste lid, onderdelen c en d, de maatregel op over dat deel van het uitkeringsbedrag dat niet zou zijn uitbetaald indien die verplichting wel zou zijn nagekomen.   
+4.  Indien een verplichting op grond van artikel 30, eerste lid, onderdeel a, of derde lid van de Wet WIA of artikel 2:32, tweede lid, van de Wajong niet is nagekomen legt het UWV, voor de toepassing van het eerste lid, onderdelen c en d, de maatregel op over dat deel van het uitkeringsbedrag dat niet zou zijn uitbetaald indien die verplichting wel zou zijn nagekomen.   
 5.  Voor de toepassing van het eerste lid, onderdeel d, wordt bij overtreding van de verplichting, bedoeld in artikel 24, vijfde lid, van de WW, onder «blijvend gehele» verstaan: 
 
 a. de gehele uitkering voor de duur dat de verzekerde de aanspraak op loon zou hebben kunnen doen gelden, dan wel de dienstbetrekking zou hebben kunnen voortduren; of  
@@ -77,7 +79,7 @@ b. dat deel van de uitkering dat niet tot uitbetaling zou komen, indien de benad
 6.  Voor de toepassing van het eerste lid, onderdeel d, wordt bij overtreding van de verplichting, bedoeld in artikel 45, eerste lid, onderdeel j, van de ZW, onder «blijvend» verstaan: voor de duur dat de verzekerde aanspraak op loon zou kunnen doen gelden.   
 7.  Voor de toepassing van het eerste lid, onderdeel d, wordt bij overtreding van de verplichting, bedoeld in artikel 88, eerste lid, onderdeel d, van de Wet WIA, onder «blijvend» verstaan: voor de duur van het verlengde tijdvak, bedoeld in artikel 25, negende lid, van die wet.  
 8.  Indien het niet nakomen van de verplichting, bedoeld in artikel 30, derde lid, van de Wet WIA, de werknemer niet in overwegende mate kan worden verweten weigert het UWV de uitkering over een periode van ten hoogste 26 weken gedeeltelijk door de uitkering te halveren.   
-9.  Indien het niet nakomen van de verplichtingen, bedoeld in artikel 2:32, tweede lid, van de Wet Wajong, de jonggehandicapte niet in overwegende mate kan worden verweten, weigert het UWV de uitkering over een periode van ten hoogste 26 weken gedeeltelijk door het bedrag aan uitkering te halveren. 
+9.  Indien het niet nakomen van de verplichtingen, bedoeld in artikel 2:32, tweede lid, van de Wajong, de jonggehandicapte niet in overwegende mate kan worden verweten, weigert het UWV de uitkering over een periode van ten hoogste 26 weken gedeeltelijk door het bedrag aan uitkering te halveren. 
 
 ### Artikel  3  
 
@@ -89,9 +91,9 @@ a. het tijdig aanvragen van de uitkering, bedoeld in de artikelen 26, eerste lid
 
 b. het tijdig doen van aangifte van werkloosheid en het tijdig melden van ziekte, bedoeld in de artikelen 38a, eerste lid, en 38ab, eerste lid, van de ZW;  
 
-c. het naleven van vastgestelde controlevoorschriften die noodzakelijk zijn voor een juiste uitvoering van deze wetten, bedoeld in de artikelen 26, eerste lid, onderdeel c, van de WW, 12, tweede lid, onderdeel d, juncto artikel 17, eerste lid, onderdeel a, van de IOW, 45, eerste lid, onderdeel e, van de ZW, 28, onderdeel d, van de WAO, 27, tweede lid, onderdeel d, van de Wet WIA, 46, onderdeel d, van de WAZ, 2:7, tweede lid, onderdeel d, en vierde lid, en 3:38, eerste lid, onderdeel d, van de Wet Wajong, 13 van de TW, 15, tweede lid, van de AOW, 36, tweede lid, van de Anw, 16, tweede lid, van de AKW en 8g, tweede lid, van de RW, behoudens voor zover de controlevoorschriften betrekking hebben op de in artikel 4, onderdeel a of c, genoemde verplichtingen;  
+c. het naleven van vastgestelde controlevoorschriften die noodzakelijk zijn voor een juiste uitvoering van deze wetten, bedoeld in de artikelen 26, eerste lid, onderdeel c, van de WW, 12, tweede lid, onderdeel d, juncto artikel 17, eerste lid, onderdeel a, van de IOW, 45, eerste lid, onderdeel e, van de ZW, 28, onderdeel d, van de WAO, 27, tweede lid, onderdeel d, van de Wet WIA, 46, onderdeel d, van de WAZ, 2:7, tweede lid, onderdeel d, en vierde lid, en 3:38, eerste lid, onderdeel d, van de Wajong, 13, eerste lid, van de TW, 15, tweede lid, van de AOW, 36, tweede lid, van de Anw, 16, tweede lid, van de AKW en 8g, tweede lid, van de RW, behoudens voor zover de controlevoorschriften betrekking hebben op de in artikel 4, onderdeel a of c, genoemde verplichtingen;  
 
-d. het binnen de vastgestelde termijn gevolg geven aan een verzoek om alle feiten en omstandigheden mede te delen waarvan redelijkerwijs duidelijk is dat zij van invloed kunnen zijn op het recht op uitkering, het geldend maken van het recht op uitkering, de hoogte of de duur van de uitkering, of het bedrag dat wordt betaald, bedoeld in de artikelen 25 van de WW, 12, eerste lid, van de IOW, 31, eerste lid, en 49 van de ZW, 27, eerste lid, van de Wet WIA, 80 van de WAO, 70 van de WAZ, 2:7, eerste en vierde lid, en 3:74 van de Wet Wajong, 12 van de TW, 49 van de AOW, 35 van de Anw en 15 van de AKW. Onder uitkering wordt tevens verstaan toeslag als bedoeld in artikel 11, tweede lid, van de TW, ouderdomspensioen en toeslag als bedoeld in de artikelen 7 en 8 van de AOW, alsmede kinderbijslag als bedoeld in artikel 7 van de AKW en onder feiten en omstandigheden wordt onder meer verstaan informatie in het kader van re-integratie;  
+d. het binnen de vastgestelde termijn gevolg geven aan een verzoek om alle feiten en omstandigheden mede te delen waarvan redelijkerwijs duidelijk is dat zij van invloed kunnen zijn op het recht op uitkering, het geldend maken van het recht op uitkering, de hoogte of de duur van de uitkering, of het bedrag dat wordt betaald, bedoeld in de artikelen 25 van de WW, 12, eerste lid, van de IOW, 31, eerste lid, en 49 van de ZW, 27, eerste lid, van de Wet WIA, 80 van de WAO, 70 van de WAZ, 2:7, eerste en vierde lid, en 3:74 van de Wajong, 12 van de TW, 49 van de AOW, 35 van de Anw en 15 van de AKW. Onder uitkering wordt tevens verstaan toeslag als bedoeld in artikel 11, tweede lid, van de TW, ouderdomspensioen en toeslag als bedoeld in de artikelen 7 en 8 van de AOW, alsmede kinderbijslag als bedoeld in artikel 7 van de AKW en onder feiten en omstandigheden wordt onder meer verstaan informatie in het kader van re-integratie;  
 
 e. het onverwijld op verzoek inzage verstrekken in een document als bedoeld in artikel 1 van de Wet op de Identificatieplicht, bedoeld in artikel 55, tweede lid, van de Wet SUWI;  
 
@@ -107,15 +109,15 @@ h. het gevolg geven aan een verzoek om alle feiten en omstandigheden mede te del
 
 De verplichtingen op grond van de in artikel 1, onderdelen b tot en met h, j, k, l en m, genoemde wetten, worden ingedeeld in de tweede categorie voor zover zij betrekking hebben op: 
 
-a. het meewerken aan een onderzoek, al dan niet van geneeskundige aard, bedoeld in de artikelen 26, eerste lid, onderdeel g, van de WW, 45, eerste lid, onderdeel c, van de ZW, 25, eerste lid, onderdeel b, van de WAO, 27, tweede lid, onderdeel c, van de Wet WIA, 45, eerste lid, onderdeel b, van de WAZ, 2:7, tweede lid, onderdeel c, en vierde lid, en 3:37, eerste lid, onderdeel b, van de Wet Wajong, 15 van de AOW, 37 van de Anw, 16 van de AKW en 12, tweede lid, onderdeel c, van de IOW;  
+a. het meewerken aan een onderzoek, al dan niet van geneeskundige aard, bedoeld in de artikelen 26, eerste lid, onderdeel g, van de WW, 45, eerste lid, onderdeel c, van de ZW, 25, eerste lid, onderdeel b, van de WAO, 27, tweede lid, onderdeel c, van de Wet WIA, 45, eerste lid, onderdeel b, van de WAZ, 2:7, tweede lid, onderdeel c, en vierde lid, en 3:37, eerste lid, onderdeel b, van de Wajong, 15, eerste en tweede lid, van de AOW, 36, eerste en tweede lid, van de Anw, 16, eerste en tweede lid, van de AKW en 12, tweede lid, onderdeel c, van de IOW;  
 
-b. het voldoen aan een voorschrift, gegeven door het UWV of de door hem daartoe aangewezen deskundige, om zich ter observatie te doen opnemen of te verblijven in een aangewezen inrichting, bedoeld in de artikelen 25, eerste lid, onderdeel c, van de WAO, 27, vijfde lid, van de Wet WIA, 45, eerste lid, onderdeel c, van de WAZ, en 2:7, zesde lid, en 3:37, eerste lid, onderdeel c, van de Wet Wajong;  
+b. het voldoen aan een voorschrift, gegeven door het UWV of de door hem daartoe aangewezen deskundige, om zich ter observatie te doen opnemen of te verblijven in een aangewezen inrichting, bedoeld in de artikelen 25, eerste lid, onderdeel c, van de WAO, 27, vijfde lid, van de Wet WIA, 45, eerste lid, onderdeel c, van de WAZ, en 2:7, zesde lid, en 3:37, eerste lid, onderdeel c, van de Wajong;  
 
-c. het voldoen aan elke oproep om aanwezig te zijn of het beantwoorden van vragen die door het UWV in verband met het recht op uitkering worden gesteld, bedoeld in de artikelen 45, eerste lid, onderdeel c, van de ZW, 25 van de WAO, 27, tweede lid, onderdelen a en b, van de Wet WIA, 45 van de WAZ, artikel 2:7, tweede lid, onderdelen a en b, vierde lid, en 3:37 van de Wet Wajong, 15 van de AOW, 16 van de AKW en 12, tweede lid, onderdelen a en b, van de IOW;  
+c. het voldoen aan elke oproep om aanwezig te zijn of het beantwoorden van vragen die door de SVB of het UWV in verband met het recht op uitkering worden gesteld, bedoeld in de artikelen 45, eerste lid, onderdeel c, van de ZW, 25 van de WAO, 27, tweede lid, onderdelen a en b, van de Wet WIA, 45 van de WAZ, 2:7, tweede lid, onderdelen a en b, vierde lid, en 3:37 van de Wajong, 15, eerste en tweede lid, van de AOW, 36, eerste en tweede lid, van de Anw, 16, eerste en tweede lid, van de AKW en 12, tweede lid, onderdelen a en b, van de IOW;  
 
-d. het, bij deelname aan een re-integratietraject, onmiddellijk mededelen van de reden van het niet naleven van re-integratieverplichtingen aan het re-integratiebedrijf, bedoeld in de artikelen 26, eerste lid, onderdeel m, van de WW, 28, onderdeel k, van de WAO, 27, vierde lid, van de Wet WIA, 46, onderdeel j, van de WAZ, 2:7, vijfde lid, en 3:38, eerste lid, onderdeel j, van de Wet Wajong en 12, vierde lid, van de IOW;  
+d. het, bij deelname aan een re-integratietraject, onmiddellijk mededelen van de reden van het niet naleven van re-integratieverplichtingen aan het re-integratiebedrijf, bedoeld in de artikelen 26, eerste lid, onderdeel m, van de WW, 28, onderdeel k, van de WAO, 27, vierde lid, van de Wet WIA, 46, onderdeel j, van de WAZ, 2:7, vijfde lid, en 3:38, onderdeel j, van de Wajong en 12, vierde lid, van de IOW;  
 
-e. registratie als werkzoekende en het tijdig verlengen van die registratie, bedoeld in de artikelen 26, eerste lid, onderdeel d, van de WW, 30, derde lid, van de ZW, 28, onderdeel a, van de WAO, 30, tweede lid, van de Wet WIA, 46, onderdeel a, van de WAZ, 2:32, eerste lid, en 3:38, eerste lid, onderdeel a, van de Wet Wajong en 15, onderdeel a, van de IOW; of  
+e. registratie als werkzoekende en het tijdig verlengen van die registratie, bedoeld in de artikelen 26, eerste lid, onderdeel d, van de WW, 30, derde lid, van de ZW, 28, onderdeel a, van de WAO, 30, tweede lid, van de Wet WIA, 46, onderdeel a, van de WAZ, 2:32, eerste lid, en 3:38, onderdeel a, van de Wajong en 15, onderdeel a, van de IOW; of  
 
 f. het vergezeld laten gaan van de aanvraag van de uitkering van een re-integratieverslag, bedoeld in artikel 34a, eerste lid, eerste zin, van de WAO en artikel 65, eerste zin, van de Wet WIA dan wel het voldoen aan het verzoek tot verstrekken van het re-integratieverslag aan het UWV, bedoeld in artikel 38, tweede lid, derde volzin van de ZW.   
 
@@ -125,17 +127,17 @@ f. het vergezeld laten gaan van de aanvraag van de uitkering van een re-integrat
 
 De verplichtingen, op grond van de in artikel 1, onderdelen b tot en met d, f, g en m, genoemde wetten, worden ingedeeld in de derde categorie voor zover zij betrekking hebben op: 
 
-a. het meewerken aan scholing, opleiding of activiteiten, bedoeld in de hoofdstukken VI en XA van de WW, gericht op inschakeling in de arbeid, alsmede het beschikbaar zijn voor de voorzieningen, bedoeld in artikel 7, eerste lid, onderdeel a, van de Wet werk en bijstand en het meewerken aan het verkrijgen van die voorzieningen, bedoeld in de artikelen 26, eerste lid, onderdelen e en f, van de WW, 45, eerste lid, onderdeel l, van de ZW, 28, onderdeel g, van de WAO, 46, onderdeel g, van de WAZ, 3:38, eerste lid, onderdeel g, van de Wet Wajong en 14, tweede lid, onderdeel b, van de IOW;  
+a. het meewerken aan scholing, opleiding of activiteiten, bedoeld in de hoofdstukken VI en XA van de WW, gericht op inschakeling in de arbeid, alsmede het beschikbaar zijn voor de voorzieningen, bedoeld in artikel 7, eerste lid, onderdeel a, van de Participatiewet en het meewerken aan het verkrijgen van die voorzieningen, bedoeld in de artikelen 26, eerste lid, onderdelen e en f, van de WW, 45, eerste lid, onderdeel l, van de ZW, 28, onderdeel g, van de WAO, 46, onderdeel g, van de WAZ, 3:38, onderdeel g, van de Wajong en 14, tweede lid, onderdeel b, van de IOW;  
 
-b. het meewerken aan het opstellen van het plan van aanpak, de re-integratievisie, het re-integratieplan of het participatieplan, bedoeld in de artikelen 26, eerste lid, onderdeel k, van de WW, 45, eerste lid, onderdeel o, van de ZW, 28, onderdeel i, van de WAO, 29, tweede lid, onderdeel d, van de Wet WIA, 46, onderdeel h, van de WAZ, 2:8, tweede lid, onderdeel a, 2:31, tweede lid, onderdeel b, en 3:38, eerste lid, onderdeel h, van de Wet Wajong en 14, tweede lid, onderdeel d, van de IOW zoals dat luidde op 30 juni 2012;  
+b. het meewerken aan het opstellen van het plan van aanpak, de re-integratievisie, het re-integratieplan of het participatieplan, bedoeld in de artikelen 26, eerste lid, onderdeel k, van de WW, 45, eerste lid, onderdeel o, van de ZW, 28, onderdeel i, van de WAO, 29, tweede lid, onderdeel d, van de Wet WIA, 46, onderdeel h, van de WAZ, 2:8, tweede lid, onderdeel a, 2:31, tweede lid, onderdeel b, en 3:38, onderdeel h, van de Wajong en 14, tweede lid, onderdeel d, van de IOW zoals dat luidde op 30 juni 2012;  
 
-c. het nakomen van de plichten die zijn opgenomen in het plan van aanpak, de re-integratievisie of het re-integratieplan, bedoeld in de artikelen 26, eerste lid, onderdeel l, van de WW, 45, eerste lid, onderdeel p, van de ZW, 28, onderdeel j, van de WAO, 29, tweede lid, onderdeel e, van de Wet WIA, 46, onderdeel i, van de WAZ, 2:31, tweede lid, onderdeel c, en 3:38, eerste lid, onderdeel i, van de Wet Wajong en 14, tweede lid, onderdeel e, van de IOW zoals dat luidde op 30 juni 2012;  
+c. het nakomen van de plichten die zijn opgenomen in het plan van aanpak, de re-integratievisie of het re-integratieplan, bedoeld in de artikelen 26, eerste lid, onderdeel l, van de WW, 45, eerste lid, onderdeel p, van de ZW, 28, onderdeel j, van de WAO, 29, tweede lid, onderdeel e, van de Wet WIA, 46, onderdeel i, van de WAZ, 2:31, tweede lid, onderdeel c, en 3:38, onderdeel i, van de Wajong en 14, tweede lid, onderdeel e, van de IOW zoals dat luidde op 30 juni 2012;  
 
-d. het binnen redelijke termijn geneeskundige hulp inroepen en het zich gedurende het gehele verloop van ziekte of arbeidsongeschiktheid onder behandeling blijven stellen of de voorschriften van de behandelend arts op volgen, bedoeld in de artikelen 45, eerste lid, onderdeel a, van de ZW, 28, onderdeel b, van de WAO, 46, onderdeel b, van de WAZ, 2:8, tweede lid, onderdeel b, 2:31, tweede lid, onderdeel a, en 3:38, eerste lid, onderdeel b, van de Wet Wajong en 14, tweede lid, onderdeel a, van de IOW;  
+d. het binnen redelijke termijn geneeskundige hulp inroepen en het zich gedurende het gehele verloop van ziekte of arbeidsongeschiktheid onder behandeling blijven stellen of de voorschriften van de behandelend arts op volgen, bedoeld in de artikelen 45, eerste lid, onderdeel a, van de ZW, 28, onderdeel b, van de WAO, 46, onderdeel b, van de WAZ, 2:8, tweede lid, onderdeel b, 2:31, tweede lid, onderdeel a, en 3:38, onderdeel b, van de Wajong en 14, tweede lid, onderdeel a, van de IOW;  
 
-e. het zich niet schuldig maken aan gedragingen waardoor de genezing wordt belemmerd of het meewerken om aanpassing aan zijn ziekte of gebrek te verkrijgen, bedoeld in de artikelen 45, eerste lid, onderdeel b, van de ZW, artikel 28, onderdeel c, van de WAO, 46, onderdeel c, van de WAZ en 2:31, tweede lid, onderdeel a, en 3:38, eerste lid, onderdeel c, van de Wet Wajong; of  
+e. het zich niet schuldig maken aan gedragingen waardoor de genezing wordt belemmerd of het meewerken om aanpassing aan zijn ziekte of gebrek te verkrijgen, bedoeld in de artikelen 45, eerste lid, onderdeel b, van de ZW, artikel 28, onderdeel c, van de WAO, 46, onderdeel c, van de WAZ en 2:31, tweede lid, onderdeel a, en 3:38, onderdeel c, van de Wajong; of  
 
-f. het opvolgen van door het UWV of de door hem daartoe aangewezen deskundige gegeven voorschriften in het belang van de behandeling of genezing of tot behoud, herstel of bevordering van de mogelijkheid tot het verrichten van arbeid, bedoeld in de artikelen 28, onderdeel a, van de WAO, 46, onderdeel a, van de WAZ en 2:31, tweede lid, onderdeel a, en 3:38, eerste lid, onderdeel a, van de Wet Wajong.   
+f. het opvolgen van door het UWV of de door hem daartoe aangewezen deskundige gegeven voorschriften in het belang van de behandeling of genezing of tot behoud, herstel of bevordering van de mogelijkheid tot het verrichten van arbeid, bedoeld in de artikelen 28, onderdeel a, van de WAO, 46, onderdeel a, van de WAZ en 2:31, tweede lid, onderdeel a, en 3:38, onderdeel a, van de Wajong.   
 
 ### Artikel  6  
 
@@ -165,7 +167,7 @@ a. het voorkomen van het ontstaan en bestaan van een recht op uitkering, bedoeld
 b. het vergroten van de mogelijkheden tot het verrichten van arbeid, bedoeld in artikel 29 van de Wet WIA, artikel 14, tweede lid, onderdeel c, van de IOW en artikel 29g van de ZW; of  
 
 c. inschakeling in de arbeid, bedoeld in artikel 30, eerste lid, van de Wet WIA en artikel 30, eerste lid, onderdelen b en c, van de ZW.     
-5.  Onverminderd artikel 5 wordt ingedeeld in de derde categorie de verplichting om het bestaan van arbeidsongeschiktheid of verminderde arbeidsgeschiktheid te beperken, bedoeld in artikel 2:8, eerste lid, van de Wet Wajong. 
+5.  Onverminderd artikel 5 wordt ingedeeld in de derde categorie de verplichting om het bestaan van arbeidsongeschiktheid of verminderde arbeidsgeschiktheid te beperken, bedoeld in artikel 2:8, eerste lid, van de Wajong. 
 
 ### Artikel  7  
 
@@ -175,9 +177,9 @@ De verplichtingen op grond van de in artikel 1, onderdelen b tot en met h, genoe
 
 a. het zich zodanig gedragen dat de belanghebbende door zijn doen en laten het Algemeen Werkloosheidsfonds, het wachtgeldfonds, het Uitvoeringsfonds voor de overheid of het Toeslagenfonds niet benadeelt of zou kunnen benadelen, bedoeld in de artikelen 24, vijfde lid, van de WW, 45, eerste lid, onderdeel j, van de ZW en 13, eerste lid, van de IOW;  
 
-b. het nalaten de arbeidsongeschiktheid opzettelijk te veroorzaken, bedoeld in de artikelen 45, eerste lid, onderdeel g, van de ZW, 28, onderdeel e, van de WAO, 28, eerste lid, juncto 88, tweede lid, van de Wet WIA, 46, onderdeel e, van de WAZ, 3:38, eerste lid, onderdeel e, van de Wet Wajong;  
+b. het nalaten de arbeidsongeschiktheid opzettelijk te veroorzaken, bedoeld in de artikelen 45, eerste lid, onderdeel g, van de ZW, 28, onderdeel e, van de WAO, 28, eerste lid, juncto 88, tweede lid, van de Wet WIA, 46, onderdeel e, van de WAZ, 3:38, onderdeel e, van de Wajong;  
 
-c. het zich onthouden van verwijtbaar gedrag dat aangemerkt kan worden als een dringende reden in de zin van artikel 678 van boek 7 van het Burgerlijk Wetboek of het op zijn verzoek laten beëindigen van de dienstbetrekking zonder dat aan de voortzetting ervan zodanige bezwaren waren verbonden, dat deze voortzetting redelijkerwijs niet kon worden gevergd, door een verzekerde die recht heeft op de loongerelateerde uitkering van de WGA-uitkering en die arbeid in dienstbetrekking verricht, bedoeld in artikel 30, derde lid, van de Wet WIA , of door een jonggehandicapte die recht heeft op arbeidsondersteuning en arbeid in dienstbetrekking verricht, bedoeld in artikel 2:32, tweede lid, van de Wet Wajong; of  
+c. het zich onthouden van verwijtbaar gedrag dat aangemerkt kan worden als een dringende reden in de zin van artikel 678 van boek 7 van het Burgerlijk Wetboek of het op zijn verzoek laten beëindigen van de dienstbetrekking zonder dat aan de voortzetting ervan zodanige bezwaren waren verbonden, dat deze voortzetting redelijkerwijs niet kon worden gevergd, door een verzekerde die recht heeft op de loongerelateerde uitkering van de WGA-uitkering en die arbeid in dienstbetrekking verricht, bedoeld in artikel 30, derde lid, van de Wet WIA , of door een jonggehandicapte die recht heeft op arbeidsondersteuning en arbeid in dienstbetrekking verricht, bedoeld in artikel 2:32, tweede lid, van de Wajong; of  
 
 d. het, tijdens het tijdvak, bedoeld in artikel 25, negende lid, van de Wet WIA, zonder deugdelijke grond nalaten verweer te voeren tegen of instemmen met een beëindiging van de dienstbetrekking, bedoeld in artikel 88, eerste lid, onderdeel d, van de Wet WIA.  
 
@@ -185,15 +187,14 @@ d. het, tijdens het tijdvak, bedoeld in artikel 25, negende lid, van de Wet WIA,
 
 ####Vijfde categorie
 
-Treedt in werking per 01-01-2015 
-
 De verplichtingen op grond van de in artikel 1, onderdelen b tot en met g en i tot en met m, genoemde wetten, worden ingedeeld in de vijfde categorie voor zover zij betrekking hebben op het zich onthouden van zeer ernstige misdragingen als bedoeld in de artikelen 26, eerste lid, onderdeel a, van de WW, 45, eerste lid, onderdeel r, van de ZW, 28, onderdeel l, van de WAO, 27, tweede lid, onderdeel f, van de Wet WIA, 46, eerste lid, onderdeel k, van de WAZ, 2:7, tweede lid, onderdeel f, en 3:38, eerste lid, onderdeel k, van de Wajong, 13, tweede lid, van de TW, 15, derde lid, van de AOW, 36, derde lid, van de Anw, 16, derde lid, van de AKW, en 15, onderdeel f, van de IOW. 
 
 ### Artikel  8  
 
 ####Recidive
 
-Indien aan de belanghebbende een maatregel is opgelegd en binnen twee jaar na de bekendmaking daarvan opnieuw dezelfde verplichting niet of niet behoorlijk wordt nagekomen worden het percentage van de op te leggen maatregel alsmede het minimumbedrag, genoemd in artikel 2, eerste lid, met 50% verhoogd. 
+1. Indien aan de belanghebbende een maatregel is opgelegd en binnen twee jaar na de bekendmaking daarvan opnieuw dezelfde verplichting niet of niet behoorlijk wordt nagekomen worden het percentage van de op te leggen maatregel alsmede het minimumbedrag, genoemd in artikel 2, eerste lid, met 50% verhoogd.  
+2.  Bij het niet nakomen van verplichtingen van de vijfde categorie, is het eerste lid niet van toepassing. 
 
 ### Artikel  9  
 

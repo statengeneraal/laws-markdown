@@ -5,18 +5,21 @@
 De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties,  
 Handelende in overeenstemming met de Minister van Financiën;
 
-Gelet op [artikel 9 van de Financiele verhoudingswet](../../../../../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md) en [artikel 6 van de Invoeringswet Financiële verhoudingswet](../../../../../../../../../../wet/invoeringswet/financiële-verhoudingswet/BWBR0008291/README.md);
+Gelet op artikel 9 van de Financiele verhoudingswet en artikel 6 van de Invoeringswet Financiële verhoudingswet;
 Besluit:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 04-09-2011 
 
-Voor het uitkeringsjaar 2006 worden de bedragen per eenheid, bedoeld in [artikel 9 van de Financiële-verhoudingswet](../../../../../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), vastgesteld overeenkomstig bijlage 1. 
+Voor het uitkeringsjaar 2006 worden de bedragen per eenheid, bedoeld in artikel 9 van de Financiële-verhoudingswet, vastgesteld overeenkomstig bijlage 1. 
 
 ### Artikel  2  
+Materieel uitgewerkt per 04-09-2011 
 
-Voor het uitkeringsjaar 2006 worden de bedragen, bedoeld in [artikel 6 van de Invoeringswet Financiële-verhoudingswet](../../../../../../../../../../wet/invoeringswet/financiële-verhoudingswet/BWBR0008291/README.md), vastgesteld overeenkomstig bijlage 2. 
+Voor het uitkeringsjaar 2006 worden de bedragen, bedoeld in artikel 6 van de Invoeringswet Financiële-verhoudingswet, vastgesteld overeenkomstig bijlage 2. 
 
 ### Artikel  3  
+Materieel uitgewerkt per 04-09-2011 
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
@@ -26,8 +29,9 @@ directeur Openbaar Bestuur en Democratie,
 G.J. Buitendijk    
 
 ### Bijlage  1  
+Materieel uitgewerkt per 04-09-2011 
 
-De bedragen per eenheid, bedoeld in [artikel 9 van de Financiële-verhoudingswet](../../../../../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), over het uitkeringsjaar 2006.  
+De bedragen per eenheid, bedoeld in artikel 9 van de Financiële-verhoudingswet, over het uitkeringsjaar 2006.  
 
 | Nr.  | Maatstaven  | Bedragen €  |
 |:---|:---|:---|
@@ -99,12 +103,13 @@ De bedragen per eenheid, bedoeld in [artikel 9 van de Financiële-verhoudingswe
 <sup>1</sup> De gemeente Baarle Nassau ontvangt een vast bedrag gelijk aan 2 maal het vast bedrag voor iedere gemeente.
 
 ### Bijlage  2  
+Materieel uitgewerkt per 04-09-2011 
 
-De bedragen per eenheid, bedoeld in [artikel 6, derde lid, van de Invoeringswet Financiële-verhoudingswet](../../../../../../../../../../wet/invoeringswet/financiële-verhoudingswet/BWBR0008291/README.md) over het uitkeringsjaar 2006 (bijlage bij artikel 2)  
+De bedragen per eenheid, bedoeld in artikel 6, derde lid, van de Invoeringswet Financiële-verhoudingswet over het uitkeringsjaar 2006 (bijlage bij artikel 2)  
 
 | Omschrijving  | Bedragen €  |
 |:---|:---|
-| De letter D, opgenomen in de formule in [artikel 3.15.1 van het Besluit verfijningen algemene uitkering 1984](../../../../../../../../../../AMvB/besluit/verfijningen/algemene/uitkering/1984/BWBR0003674/README.md) (indien aansluitingen gemaakt in of na 1983)  | 36,76  |
-| De letter D, opgenomen in de formule in [artikel 3.15.1 van het Besluit verfijningen algemene uitkering 1984](../../../../../../../../../../AMvB/besluit/verfijningen/algemene/uitkering/1984/BWBR0003674/README.md) (indien aansluitingen gemaakt in 1982)  | 15,88  |
-| De letter D, opgenomen in de formule in [artikel 3.15.1 van het Besluit verfijningen algemene uitkering 1984](../../../../../../../../../../AMvB/besluit/verfijningen/algemene/uitkering/1984/BWBR0003674/README.md) (indien aansluitingen gemaakt in of na 1975 en vóór 1982)  | 9,07  |
+| De letter D, opgenomen in de formule in artikel 3.15.1 van het Besluit verfijningen algemene uitkering 1984 (indien aansluitingen gemaakt in of na 1983)  | 36,76  |
+| De letter D, opgenomen in de formule in artikel 3.15.1 van het Besluit verfijningen algemene uitkering 1984 (indien aansluitingen gemaakt in 1982)  | 15,88  |
+| De letter D, opgenomen in de formule in artikel 3.15.1 van het Besluit verfijningen algemene uitkering 1984 (indien aansluitingen gemaakt in of na 1975 en vóór 1982)  | 9,07  |
 

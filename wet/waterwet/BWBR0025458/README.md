@@ -672,7 +672,7 @@ Rechthebbenden ten aanzien van gronden waarin het grondwater invloed ondergaat d
 ### Artikel  5.29  
 
 1.  De beheerder draagt zorg voor het houden van oefeningen in doeltreffend optreden bij gevaar. Tevens stelt hij voor de waterstaatswerken onder zijn beheer een calamiteitenplan vast, dat voldoet aan bij of krachtens algemene maatregel van bestuur te stellen regels.   
-2.  In het calamiteitenplan wordt de afstemming op crisisplannen als bedoeld in artikel 16 van de Wet veiligheidsregio’s en voor het waterbeheer van belang zijnde rampbestrijdingsplannen, vastgesteld voor het gebied waarin de waterstaatswerken zijn gelegen, gewaarborgd.   
+2.  In het calamiteitenplan wordt de afstemming op crisisplannen en voor het waterbeheer van belang zijnde rampbestrijdingsplannen, vastgesteld voor het gebied waarin de waterstaatswerken zijn gelegen, gewaarborgd.   
 3.  Het ontwerp van een calamiteitenplan wordt in elk geval voor commentaar gezonden aan de besturen van de veiligheidsregio’s waarbinnen de waterstaatswerken zijn gelegen.  
 
 ### Artikel  5.30  
