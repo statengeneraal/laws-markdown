@@ -5,18 +5,21 @@
 De staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties,  
 Handelende in overeenstemming met de Minister van Financiën;
 
-Gelet op [artikel 9 van de Financiële-verhoudingswet](../../../../../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md) en [artikel 6 van de invoeringswet Financiële verhoudingswet](../../../../../../../../../../wet/invoeringswet/financiële-verhoudingswet/BWBR0008291/README.md);
+Gelet op artikel 9 van de Financiële-verhoudingswet en artikel 6 van de invoeringswet Financiële verhoudingswet;
 Besluit:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 22-05-2012 
 
-Voor het uitkeringsjaar 2008 worden de bedragen per eenheid, bedoeld in [artikel 9 van de Financiële-verhoudingswet](../../../../../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), vastgesteld overeenkomstig bijlage 1. 
+Voor het uitkeringsjaar 2008 worden de bedragen per eenheid, bedoeld in artikel 9 van de Financiële-verhoudingswet, vastgesteld overeenkomstig bijlage 1. 
 
 ### Artikel  2  
+Materieel uitgewerkt per 22-05-2012 
 
-Voor het uitkeringsjaar 2008 worden de bedragen, bedoeld in [artikel 6 van de Invoeringswet Financiële-verhoudingswet](../../../../../../../../../../wet/invoeringswet/financiële-verhoudingswet/BWBR0008291/README.md), vastgesteld overeenkomstig bijlage 2. 
+Voor het uitkeringsjaar 2008 worden de bedragen, bedoeld in artikel 6 van de Invoeringswet Financiële-verhoudingswet, vastgesteld overeenkomstig bijlage 2. 
 
 ### Artikel  3  
+Materieel uitgewerkt per 22-05-2012 
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
@@ -26,8 +29,9 @@ de directeur Openbaar Bestuur en Democratie,
 G.J. Buitendijk    
 
 ### Bijlage  1  
+Materieel uitgewerkt per 22-05-2012 
 
-De bedragen per eenheid, bedoeld in [artikel 9 van de Financiële-verhoudingswet](../../../../../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), over het uitkeringsjaar 2008.  
+De bedragen per eenheid, bedoeld in artikel 9 van de Financiële-verhoudingswet, over het uitkeringsjaar 2008.  
 
 | Nr.  | Maatstaven  | Bedragen €  |
 |:---|:---|:---|
@@ -96,10 +100,11 @@ De bedragen per eenheid, bedoeld in [artikel 9 van de Financiële-verhoudingswet
 <sup>1</sup>De gemeente Baarle Nassau ontvangt een vast bedrag gelijk aan 2 maal het vast bedrag voor iedere gemeente.
 
 ### Bijlage  2  
+Materieel uitgewerkt per 22-05-2012 
 
-De bedragen per eenheid, bedoeld in [artikel 6, derde lid, van de Invoeringswet Financiële-verhoudingswet](../../../../../../../../../../wet/invoeringswet/financiële-verhoudingswet/BWBR0008291/README.md) over het uitkeringsjaar 2008 (bijlage bij artikel 2)  
+De bedragen per eenheid, bedoeld in artikel 6, derde lid, van de Invoeringswet Financiële-verhoudingswet over het uitkeringsjaar 2008 (bijlage bij artikel 2)  
 
 | Omschrijving  | Bedragen €  |
 |:---|:---|
-| De letter D, opgenomen in de formule in [artikel 3.15.1 van het Besluit verfijningen algemene uitkering 1984](../../../../../../../../../../AMvB/besluit/verfijningen/algemene/uitkering/1984/BWBR0003674/README.md) (indien aansluitingen gemaakt in of na 1983)  | 36,76  |
+| De letter D, opgenomen in de formule in artikel 3.15.1 van het Besluit verfijningen algemene uitkering 1984 (indien aansluitingen gemaakt in of na 1983)  | 36,76  |
 
