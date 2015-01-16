@@ -22,29 +22,9 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder: 
 
-*certificaat staatsexamen NT2 I of II:* certificaat als bedoeld in artikel 16, tweede lid, van het Staatsexamenbesluit Nederlands als tweede taal voor een door de desbetreffende gemeente ingekochte opleiding als bedoeld in artikel 7.3.1, eerste lid, onderdeel c, van de Wet educatie en beroepsonderwijs, behaald door een volwassen inwoner;  
-
-*contactuur:* contactuur als bedoeld in artikel 2.3.4, derde lid, van de Wet educatie en beroepsonderwijs; 
-
-*cursus basisvaardigheden:* opleiding als bedoeld in artikel 7.3.1, eerste lid, onderdeel b, e of f, van de Wet educatie en beroepsonderwijs zoals luidend op 31 december 2012;  
-
 *duale inburgeringsvoorziening:* inburgeringsvoorziening die met het oog op de actieve deelname aan de Nederlandse samenleving mede voorziet in activiteiten die in samenhang en ten minste voor een deel gelijktijdig met het verwerven van mondelinge en schriftelijke vaardigheden in de Nederlandse taal en kennis van de Nederlandse samenleving worden uitgevoerd;  
 
-*inactieve:* persoon, van 27 jaar of ouder, die, in de periode van zes maanden onmiddellijk voorafgaand aan de ondersteuning, bedoeld in artikel 11a, eerste lid, niet dan wel ten hoogste de laatste twee maanden geregistreerd staat als werkzoekende bij het Uitvoeringsinstituut werknemersverzekeringen, in die periode van zes maanden geen diploma heeft behaald op het niveau van startkwalificatie of hoger en in die periode geen inkomen uit arbeid heeft ontvangen of recht heeft gehad op een uitkering of arbeidsondersteuning op grond van de Wet werk en bijstand of de Werkloosheidswet, de Wet arbeidsongeschiktheidsverzekering zelfstandigen, de Wet werk en arbeidsondersteuning jonggehandicapten, de Wet werk en inkomen naar arbeidsvermogen, de Wet op de arbeidsongeschiktheidsverzekering, de Toeslagenwet, de Tijdelijke wet beperking inkomensgevolgen arbeidsongeschiktheidscriteria, de Algemene nabestaandenwet dan wel op grond van een regeling, die met deze wetten naar aard en strekking overeenstemt; 
-
-*overeenkomst uitkering educatie:* overeenkomst als bedoeld in artikel 2.3.4 van de Wet educatie en beroepsonderwijs; 
-
 *participatiebudget:* uitkering aan het college, bedoeld in artikel 2, eerste lid, van de wet;  
-
-*staatsexamen NT2 I of II:* staatsexamen Nederlands als tweede taal I of II als bedoeld in artikel 7.3.1, eerste lid, onderdeel c, van de Wet educatie en beroepsonderwijs;  
-
-*startkwalificatie:* een diploma van een opleiding als bedoeld in artikel 7.2.2, eerste lid, onder b tot en met e, van de Wet educatie en beroepsonderwijs of een diploma hoger algemeen voortgezet onderwijs of voorbereidend wetenschappelijk onderwijs als bedoeld in 7 onderscheidenlijk 8 van de Wet op het voortgezet onderwijs; 
-
-*vavo:* opleiding voortgezet algemeen volwassenenonderwijs als bedoeld in artikel 7.3.1, eerste lid, onderdeel a, van de Wet educatie en beroepsonderwijs;  
-
-*vavo-diploma:* diploma voor een door de desbetreffende gemeente ingekocht traject vavo, behaald door een volwassen inwoner;  
-
-*volwassen inwoner:* persoon van achttien jaar of ouder die als ingezetene is ingeschreven in de basisregistratie personen;  
 
 *wet:* Wet participatiebudget.   
 
@@ -81,48 +61,7 @@ f. TB<sup>W</sup> het bedrag is dat beschikbaar is gesteld door Onze Minister va
 
 ####Verdeelsleutel Minister van Onderwijs, Cultuur en Wetenschap
 
-### Artikel  4  
-
-####Verdeelsleutel Minister van Onderwijs, Cultuur en Wetenschap 2013 en 2014
-
-Het deel van het participatiebudget dat een college ontvangt uit het totale bedrag dat beschikbaar is gesteld door Onze Minister van Onderwijs, Cultuur en Wetenschap voor een participatiebudget voor alle colleges wordt voor de jaren 2013 en 2014 berekend op grond van de formule:  ![251286](http://wetten.overheid.nl/Illustration/251286)
-waarbij: 
-
-a. Og het door het Centraal bureau voor de statistiek op verzoek van Onze Minister van Onderwijs, Cultuur en Wetenschap berekende gemiddelde percentage volwassen inwoners van de gemeente is met een opleiding op ten hoogste het niveau van het diploma middelbaar algemeen voortgezet onderwijs of voorbereidend beroepsonderwijs over het zevende tot en met tweede jaar voorafgaande aan het jaar van de uitkering, vermenigvuldigd met het door het Centraal bureau voor de statistiek op verzoek van Onze Minister van Onderwijs, Cultuur en Wetenschap berekende aantal volwassen inwoners van de gemeente op 1 januari van het jaar voorafgaande aan het jaar waarvoor de uitkering wordt vastgesteld;  
-
-b. On het door het Centraal bureau voor de statistiek op verzoek van Onze Minister van Onderwijs, Cultuur en Wetenschap berekende gemiddelde percentage volwassen inwoners van alle Nederlandse gemeenten is met een opleiding op ten hoogste het niveau van het diploma middelbaar algemeen voortgezet onderwijs of voorbereidend beroepsonderwijs over het zevende tot en met tweede jaar voorafgaande aan het jaar van de uitkering, vermenigvuldigd met het door het Centraal bureau voor de statistiek op verzoek van Onze Minister van Onderwijs, Cultuur en Wetenschap berekende aantal volwassen inwoners in alle Nederlandse gemeenten op 1 januari van het jaar voorafgaande aan het jaar waarvoor de uitkering wordt vastgesteld;  
-
-c. Ag het door het Centraal bureau voor de statistiek op verzoek van Onze Minister van Onderwijs, Cultuur en Wetenschap berekende aantal volwassen inwoners van de gemeente is op 1 januari van het jaar voorafgaande aan het jaar waarvoor de uitkering wordt vastgesteld, waarvoor geldt dat beide ouders of de volwassen inwoner zelf en één ouder geboren zijn in een land dat niet is opgenomen in bijlage 2 bij dit besluit;  
-
-d. An het door het Centraal bureau voor de statistiek op verzoek van Onze Minister van Onderwijs, Cultuur en Wetenschap berekende aantal volwassen inwoners van alle Nederlandse gemeenten is op 1 januari van het jaar voorafgaande aan het jaar waarvoor de uitkering wordt vastgesteld, waarvoor geldt dat beide ouders of de volwassen inwoner zelf en één ouder geboren zijn in een land dat niet is opgenomen in bijlage 2 bij dit besluit;  
-
-e. BVg het aantal door de gemeente ingekochte trajecten basisvaardigheden is in het tweede jaar voorafgaande aan het jaar waarvoor de uitkering wordt vastgesteld;  
-
-f. BVn het totaal aantal door de Nederlandse gemeenten ingekochte trajecten basisvaardigheden is in het tweede jaar voorafgaande aan het jaar waarvoor de uitkering wordt vastgesteld;  
-
-g. Cg het aantal door volwassen inwoners van de gemeente behaalde NT2-certificaten, dat niet meetelt bij de output-verdeelmaatstaven uit de verdeelsleutel van Onze Minister voor Wonen, Wijken en Integratie, is in het tweede jaar voorafgaande aan het jaar waarvoor de uitkering wordt vastgesteld;  
-
-h. Cn het totale aantal door volwassen inwoners van de Nederlandse gemeenten behaalde NT2-certificaten, dat niet meetelt bij de output-verdeelmaatstaven uit de verdeelsleutel van Onze Minister voor Wonen, Wijken en Integratie, is in het tweede jaar voorafgaande aan het jaar waarvoor de uitkering wordt vastgesteld;  
-
-i. ib het bedrag is dat door Onze Minister van Onderwijs, Cultuur en Wetenschap beschikbaar is gesteld voor een participatiebudget voor alle colleges voor het jaar waarvoor de uitkering wordt vastgesteld.   
-
-### Artikel  5  
-
-####Verdeelsleutel Minister van Onderwijs, Cultuur en Wetenschap 2015 en verder
-
-Het deel van het participatiebudget dat een college ontvangt uit het totale bedrag dat beschikbaar is gesteld door Onze Minister van Onderwijs, Cultuur en Wetenschap voor een participatiebudget voor alle colleges wordt voor de jaren 2014 en verder berekend op grond van de formule: (Ug : Un) x ib waarbij: 
-
-a. Ug het aantal contacturen is dat blijkens een overeenkomst uitkering educatie door een gemeente is ingekocht in het tweede jaar voorafgaande aan het jaar waarvoor de uitkering wordt vastgesteld;  
-
-b. Un het totale aantal contacturen is dat blijkens de overeenkomsten uitkering educatie door de Nederlandse gemeenten is ingekocht in het tweede jaar voorafgaande aan het jaar waarvoor de uitkering wordt vastgesteld;  
-
-c. ib het bedrag is dat door Onze Minister van Onderwijs, Cultuur en Wetenschap beschikbaar is gesteld voor een participatiebudget voor alle colleges voor het desbetreffende kalenderjaar.  
-
-### Artikel  6  
-
-####Op nihil stellen onderdelen verdeelsleutel Minister van Onderwijs, Cultuur en Wetenschap
-
-Indien het college de gegevens, bedoeld in de artikelen 4 en 5, niet op de wijze, bedoeld in artikel 17a van de Financiële-verhoudingswet, heeft verstrekt, worden voor de berekening van het deel van het participatiebudget dat een college ontvangt uit het totale bedrag dat beschikbaar is gesteld door Onze Minister van Onderwijs, Cultuur en Wetenschap voor een participatiebudget voor alle colleges de onderdelen Cg, BVg en Ug van de formules, bedoeld in de artikelen 4 en 5, op nihil gesteld. 
+Vervallen per 01-01-2015 
 
 ### Paragraaf  3  
 
@@ -134,11 +73,7 @@ Vervallen per 01-01-2013
 
 ####Gemeenschappelijke regelingen
 
-### Artikel  10a  
-
-####Aanpassing verdeelmaatstaven bij gemeenschappelijke regelingen
-
-Indien artikel 6 van de wet van toepassing is, zijn de artikelen 6 en 10 van overeenkomstige toepassing, met dien verstande dat wordt uitgegaan van de situatie waarin het bestuur van het openbaar lichaam de verantwoordingsinformatie, bedoeld in artikel 6, onderdeel a, van de wet, niet op de wijze, bedoeld in artikel 17a van de Financiële-verhoudingswet, heeft verstrekt. 
+Vervallen per 01-01-2015 
 
 ### Paragraaf  4  
 
@@ -154,38 +89,7 @@ Bij een wijziging van de gemeentelijke indeling of een grenscorrectie als bedoel
 
 ####Bevordering participatie inactieven 2009–2011
 
-### Artikel  11a  
-
-####Participatie inactieven
-
-1.  Per inactieve die na ondersteuning door het college in de periode tussen 1 januari 2009 en 31 december 2011 een dienstbetrekking heeft aanvaard met een overeengekomen omvang van ten minste 20 uur per week en die dienstbetrekking heeft behouden voor een periode van ten minste zes maanden mag het college in het kalenderjaar volgend op het kalenderjaar waarin de periode van zes maanden is voltooid € 12.000 uit het participatiebudget besteden aan andere kosten ten behoeve van de bevordering van participatie dan de kosten, bedoeld in artikel 2, eerste lid, van de wet, alsmede ten behoeve van de in dat lid bedoelde uitvoeringskosten.   
-2.  Vervallen.   
-3.  Met een dienstbetrekking voor een periode van zes maanden, bedoeld in het eerste lid, worden gelijkgesteld twee of meer aaneengesloten dienstbetrekkingen voor een periode van in totaal ten minste zes maanden.   
-4.  Met het behouden van een dienstbetrekking met een overeengekomen omvang van ten minste 20 uur per week voor een periode van ten minste zes maanden wordt gelijkgesteld het ontvangen van loon uit dienstbetrekking over gemiddeld 20 uur per week gedurende ten minste zes aaneengesloten maanden.   
-5.  Het bedrag dat op grond van het eerste lid mag worden besteed bedraagt ten hoogste het deel van de uitkering dat het college ontvangt op basis van de verdeelsleutel, bedoeld in artikel 2, vierde lid, van de wet, voor het bedrag dat door Onze Minister van Sociale Zaken en Werkgelegenheid beschikbaar is gesteld in het desbetreffende kalenderjaar.  
-
-### Artikel  11b  
-
-####Extra bestedingsruimte 2009
-
-1.  Op verzoek van het college kan Onze Minister van Sociale Zaken en Werkgelegenheid toestemming geven om op basis van het aantal in dat verzoek genoemde inactieven een deel van het participatiebudget voor het jaar 2009 in dat kalenderjaar te besteden aan de kosten, bedoeld in artikel 11a, eerste lid.   
-2.  Het bedrag dat op grond van het eerste lid mag worden besteed aan de daarin bedoelde kosten bedraagt € 6.000 per inactieve, met dien verstande dat als het totaal aantal inactieven op basis waarvan door alle colleges toestemming is gevraagd meer bedraagt dan 5.000, het aantal inactieven op basis waarvan het bedrag wordt berekend per college als volgt wordt vastgesteld: 
-
-a. voor het college dat toestemming heeft gevraagd op basis van vijf of minder inactieven op dat aantal inactieven;  
-
-b. voor het college dat toestemming heeft gevraagd op basis van meer dan vijf inactieven op vijf inactieven plus een op grond van het derde lid tot en met vijfde lid vast te stellen aantal inactieven.     
-3.  Het meerdere aantal inactieven, bedoeld in het tweede lid, onderdeel b, wordt berekend door het verschil tussen 5.000 en het totaal aantal inactieven dat is toegedeeld na toepassing van het tweede lid, waarbij voor het college dat toestemming heeft gevraagd op basis van meer dan vijf inactieven dat aantal op vijf wordt gesteld, toe te delen aan de colleges, bedoeld in het tweede lid, onderdeel b, naar rato van het aantal inwoners van de desbetreffende gemeente op het totaal aantal inwoners van de desbetreffende gemeenten. Het aantal inactieven op basis waarvan het bedrag, bedoeld in het tweede lid, wordt berekend bedraagt evenwel niet meer dan het aantal inactieven op basis waarvan het college toestemming heeft gevraagd.   
-4.  Indien het na toepassing van het derde lid toegedeelde aantal inactieven minder bedraagt dan 5.000, wordt het verschil tussen 5.000 en het aantal toegedeelde inactieven, toegedeeld aan de colleges waarvan het aantal toegedeelde inactieven minder bedraagt dan het aantal inactieven op basis waarvan het college toestemming heeft gevraagd, naar rato van het aantal inwoners van de desbetreffende gemeente op het totaal aantal inwoners van de desbetreffende gemeenten. Het derde lid, tweede zin, is van toepassing.   
-5.  Het vierde lid wordt telkens toegepast tot het totaal aantal inactieven op basis waarvan de bedragen, bedoeld in het tweede lid, worden berekend 5.000 bedraagt.   
-6.  Het aantal op grond van het tweede tot en met het vierde lid berekende inactieven wordt afgerond op hele getallen.   
-7.  Het bedrag dat het college op grond van dit artikel in 2009 mag besteden aan de kosten, bedoeld in artikel 11a, eerste lid, wordt in mindering gebracht op het bedrag dat het college op grond van dat artikel in 2010 mag besteden aan de kosten, bedoeld in dat lid.   
-8.  Het verzoek, bedoeld in het eerste lid, wordt door Onze Minister van Sociale Zaken en Werkgelegenheid ontvangen voor 15 april 2009.  
-
-### Artikel  11c  
-
-####Vervaldatum
-
-Dit hoofdstuk alsmede de definities van «inactieve» en van «startkwalificatie» in artikel 1 vervallen met ingang van 1 januari 2015. 
+Vervallen per 01-01-2015 
 
 ### Hoofdstuk  3  
 
@@ -341,12 +245,4 @@ Het budgetaandeel per gemeente wordt als volgt berekend. Eerst wordt het quotië
 | 2009  |  33%  |  67%  |
 | 2010  |  17%  |  83%  |
 | 2011  |   0%  | 100%  |
-
-### Bijlage 2 
-
-####behorende bij de artikelen 4  en 5  van het Besluit participatiebudget
-
-####Lijst ontwikkelde landen bij doelgroepen educatie
-
-Deze lijst bevat de (eventueel voormalige) landen die géén doelgroepland zijn voor de definitie van allochtoon. Alle andere landen zijn doelgroepland. Daaronder vallen ook (eventueel voormalige) overzeese gebiedsdelen als Suriname en Aruba, Curaçao, Sint Maarten en de openbare lichamen Bonaire, Sint Eustatius en Saba en de EU-landen Griekenland, Italië, Portugal en Spanje. Australië België Canada Denemarken Duitsland Faeröer, de Finland Frankrijk Groenland Groot-Brittannië Ierland IJsland Israël Japan Kaiser Wilhelmsland Kanaaleilanden Liechtenstein Luxemburg Man Monaco Nederland (exclusief overzeese gebiedsdelen) Nederlands Indië Nederlands Nieuw Guinea New Foundland Nieuw-Zeeland Noorwegen Norfolk Oostenrijk Oostenrijk-Hongarije Palestina Saarland Verenigde Staten Zweden Zwitserland 
 

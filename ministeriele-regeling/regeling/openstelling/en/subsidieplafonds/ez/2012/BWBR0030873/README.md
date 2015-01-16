@@ -7,6 +7,7 @@ Gelet op artikel 16 van het Kaderbesluit EZ-subsidies en de artikelen 3.9, 5.5 e
 Besluit:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 01-01-2014 
 
 1.  Als perioden in 2012, waarin subsidieaanvragen kunnen worden ingediend krachtens de in kolom 2 genoemde subsidieregelingen en de in kolom 3 genoemde artikelen, in voorkomende gevallen verbijzonderd naar de in kolom 4 omschreven of aangeduide groepen van aanvragers, projecten of aanvragen, worden vastgesteld de daarbij behorende perioden, genoemd in kolom 5; aanvragen moeten zijn ontvangen op de genoemde einddatum vóór 17.00 uur.   
 2.  Als subsidieplafond voor het verstrekken van subsidies als bedoeld in het eerste lid wordt per in kolom 5 genoemde periode vastgesteld: het daarbij behorende in kolom 6 genoemde bedrag.   
@@ -142,6 +143,7 @@ Besluit:
 |7.8 | Subsidieregeling internationaal excelleren (demonstratieprojecten, 2xplore, opkomende markten kennisverwerving)   | 3.1, 4.1 en 5.19  | Projecten, betrekking hebbend op de doellanden  Colombia, Vietnam en Zuid-Afrika (overige sectoren).  | 01-07 t/m 31-12  |  600.000  |
 
 ### Artikel  2  
+Materieel uitgewerkt per 01-01-2014 
 
 1.  Als perioden, waarin subsidieaanvragen kunnen worden ingediend krachtens de in kolom 2 genoemde subsidieregelingen en de in kolom 3 genoemde artikelen, in voorkomende gevallen verbijzonderd naar de in kolom 4 omschreven of aangeduide groepen van aanvragers, projecten of aanvragen, worden vastgesteld de daarbij behorende perioden, genoemd in kolom 5; aanvragen moeten zijn ontvangen op de genoemde einddatum vóór 17.00 uur.   
 2.  Als subsidieplafond voor het verstrekken van subsidies als bedoeld in het eerste lid wordt per in kolom 5 genoemde periode vastgesteld: het daarbij behorende in kolom 6 genoemde bedrag.  
@@ -159,6 +161,7 @@ Besluit:
 | 6  | Subsidieregeling innoveren (innovatieprestatiecontracten)  | 4.18  | --- | 22-11-2011 t/m 17-1-2012  | 17.500.000  |
 
 ### Artikel  3  
+Materieel uitgewerkt per 01-01-2014 
 
 De percentages, bedoeld in artikel 3.9 van de Subsidieregeling innoveren, bedragen voor de in 2012 aangevraagde subsidies voor innovatiekredieten: 
 
@@ -171,10 +174,12 @@ c. de opslag voor klinische ontwikkelingsprojecten: 5 procent per jaar;
 d. de opslag voor het terugbetalingsrisico: 3 procent per jaar.   
 
 ### Artikel  4  
+Materieel uitgewerkt per 01-01-2014 
 
 Deze regeling treedt in werking met ingang van 1 januari 2012. 
 
 ### Artikel  5  
+Materieel uitgewerkt per 01-01-2014 
 
 Deze regeling wordt aangehaald als: Regeling openstelling en subsidieplafonds EZ 2012. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   

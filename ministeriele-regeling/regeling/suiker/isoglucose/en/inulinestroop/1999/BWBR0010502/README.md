@@ -3,7 +3,7 @@
 ##Regeling suiker, isoglucose en inulinestroop 1999 
 
 De Minister van Landbouw, Natuurbeheer en Visserij,  
-gelet op de [artikelen 13](../../../../../../../../wet/landbouwwet/BWBR0002252/README.md), [23](../../../../../../../../wet/landbouwwet/BWBR0002252/README.md) en [32 van de Landbouwwet](../../../../../../../../wet/landbouwwet/BWBR0002252/README.md);
+gelet op de artikelen 13, 23 en 32 van de Landbouwwet;
 Besluit:     
 
 ### Artikel  1  
@@ -108,12 +108,12 @@ Wijzigt de Overdrachtsregeling bevoegdheden Landbouwwet 1966 Algemeen.
 
 ### Artikel  9a  
 
-Deze regeling is mede gebaseerd op [artikel 19 van de Landbouwwet](../../../../../../../../wet/landbouwwet/BWBR0002252/README.md).  
+Deze regeling is mede gebaseerd op artikel 19 van de Landbouwwet.  
 
 ### Artikel  9b  
 
 1.  De op het tijdstip van inwerkingtreding van dit artikel aanhangige meldingen, aanvragen of verzoeken die zijn ingediend op grond van de Verordening HPA suiker en isoglucose 2007 worden met ingang van 1 januari 2014 behandeld door de minister met inachtneming van de termijn die op dat tijdstip is verstreken sinds het tijdstip van indiening van de melding, de aanvraag of het verzoek.   
-2.  Besluiten, niet inhoudende een algemeen verbindend voorschrift, genomen op grond van de [Verordening HPA suiker en isoglucose 2007](../../../../../../../../pbo/verordening/hpa/suiker/en/isoglucose/2007/BWBR0022087/README.md) door het Hoofdproductschap Akkerbouw, die golden onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van dit artikel, worden met ingang van 1 januari 2014 geacht te zijn genomen door de minister op grond van deze regeling.  
+2.  Besluiten, niet inhoudende een algemeen verbindend voorschrift, genomen op grond van de Verordening HPA suiker en isoglucose 2007 door het Hoofdproductschap Akkerbouw, die golden onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van dit artikel, worden met ingang van 1 januari 2014 geacht te zijn genomen door de minister op grond van deze regeling.  
 
 ### Artikel  10  
 

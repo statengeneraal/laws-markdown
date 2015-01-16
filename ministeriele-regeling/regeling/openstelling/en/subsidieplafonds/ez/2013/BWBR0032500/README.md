@@ -7,6 +7,7 @@ Gelet op artikel 16 van het Kaderbesluit EZ-subsidies en de artikelen 3.9, 5.5 e
 Besluit:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 01-01-2015 
 
 1.  Als perioden in 2013, waarin subsidieaanvragen kunnen worden ingediend krachtens de in kolom 2 genoemde subsidieregelingen en de in kolom 3 genoemde artikelen, in voorkomende gevallen verbijzonderd naar de in kolom 4 omschreven of aangeduide groepen van aanvragers, projecten of aanvragen, worden vastgesteld de daarbij behorende perioden, genoemd in kolom 5; aanvragen moeten zijn ontvangen op de genoemde einddatum vóór 17.00 uur.   
 2.  Als subsidieplafond voor het verstrekken van subsidies als bedoeld in het eerste lid wordt per in kolom 5 genoemde periode vastgesteld: het daarbij behorende in kolom 6 genoemde bedrag.   
@@ -130,6 +131,7 @@ Besluit:
 | 5.15  | Subsidieregeling energie en innovatie (smart grids)  | 3.10.2  | --- | --- | --- |
 
 ### Artikel  2  
+Materieel uitgewerkt per 01-01-2015 
 
 1.  Als perioden, waarin subsidieaanvragen kunnen worden ingediend krachtens de in kolom 2 genoemde subsidieregelingen en de in kolom 3 genoemde artikelen, in voorkomende gevallen verbijzonderd naar de in kolom 4 omschreven of aangeduide groepen van aanvragers, projecten of aanvragen, worden vastgesteld de daarbij behorende perioden, genoemd in kolom 5; aanvragen moeten zijn ontvangen op de genoemde einddatum vóór 17.00 uur.   
 2.  Als subsidieplafond voor het verstrekken van subsidies als bedoeld in het eerste lid wordt per in kolom 5 genoemde periode vastgesteld: het daarbij behorende in kolom 6 genoemde bedrag.  
@@ -142,6 +144,7 @@ Besluit:
 | 2  | Subsidieregeling energie en innovatie (fotovoltaïsche zonnepanelen)  | 3.11.2  | --- | 02-07-2012 t/m  28-12-2013  | 50.882.000  |
 
 ### Artikel  3  
+Materieel uitgewerkt per 01-01-2015 
 
 De percentages, bedoeld in artikel 3.9 van de Subsidieregeling innoveren, bedragen voor de in 2013 aangevraagde subsidies voor innovatiekredieten: 
 
@@ -154,6 +157,7 @@ c. de opslag voor klinische ontwikkelingsprojecten: 5 procent per jaar;
 d. de opslag voor het terugbetalingsrisico: 3 procent per jaar.   
 
 ### Artikel  3a  
+Materieel uitgewerkt per 01-01-2015 
 
 1.  Als perioden, waarin subsidieaanvragen kunnen worden ingediend krachtens de Subsidieregeling sterktes in innovatie voor de in kolom 1 genoemde artikelen, worden vastgesteld de daarbij behorende perioden, genoemd in kolom 4; aanvragen moeten zijn ontvangen op de genoemde einddatum vóór 17.00 uur.   
 2.  Activiteiten komen slechts in aanmerking voor subsidie wanneer zij passen binnen de in kolom 3 genoemde thema’s, opgenomen in het programma in de in kolom 2 genoemde bijlage bij de Subsidieregeling sterktes in innovatie.   
@@ -176,6 +180,7 @@ d. de opslag voor het terugbetalingsrisico: 3 procent per jaar.
 | 1c.9 MIT-kennisvouchers  | Bijlage 8 T&U  | 1 t/m 4  | 25-09 t/m 03-10  | 67 vouchers  |
 
 ### Artikel  3b  
+Materieel uitgewerkt per 01-01-2015 
 
 1.  Als perioden waarin subsidieaanvragen kunnen worden ingediend krachtens de Subsidieregeling energie en innovatie voor de in kolom 1 genoemde paragrafen, worden vastgesteld de daarbij behorende perioden, genoemd in kolom 3; aanvragen moeten zijn ontvangen op de genoemde einddatum vóór 17.00 uur.   
 2.  Als subsidieplafond voor het verstrekken van subsidies als bedoeld in het eerste lid wordt per in kolom 3 genoemde periode vastgesteld: het daarbij behorende in kolom 4 genoemde bedrag in euro’s.  
@@ -199,10 +204,12 @@ d. de opslag voor het terugbetalingsrisico: 3 procent per jaar.
 | 3.10  | Smartgrids-project  | t/m 12 september  | 5,35 mln  |
 
 ### Artikel  4  
+Materieel uitgewerkt per 01-01-2015 
 
 Deze regeling treedt in werking met ingang van 1 januari 2013. 
 
 ### Artikel  5  
+Materieel uitgewerkt per 01-01-2015 
 
 Deze regeling wordt aangehaald als: Regeling openstelling en subsidieplafonds EZ 2013. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   

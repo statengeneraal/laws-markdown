@@ -291,10 +291,10 @@ De strafmaat voor een Halt-afdoening bedraagt ten hoogste 20 uur. De inhoud van 
 |  *Alcohol*   | 453. Openbare dronkenschap  | +4  | --- | --- |
 | --- | Drugs- en alcoholgerelateerde feiten in gemeentelijke verordeningen of Drank en Horecawet<sup>1</sup>   | +4  | --- | --- |
 | --- | --- | --- | --- | --- |
-|  *Wpv*   | 72. Verstoren  | +2  | --- | --- |
+|  Wpv   | 72. Verstoren  | +2  | --- | --- |
 | --- | 73. Niet opvolgen  | +2  | --- | --- |
 | --- | --- | --- | --- | --- |
-|  *LpW*   | 2, lid 3 en 4c schoolverzuim: strafmaat voor uren verzuim:  0 tot 10 uur +2  11 tot 20 uur +4  20 tot 30 uur +6  30 tot 40 uur +8  40 tot 50 uur +10  50 tot 60 uur +12  | +2 tot  +12  | --- | --- |
+|  LpW   | 2, lid 3 en 4c schoolverzuim: strafmaat voor uren verzuim:  0 tot 10 uur +2  11 tot 20 uur +4  20 tot 30 uur +6  30 tot 40 uur +8  40 tot 50 uur +10  50 tot 60 uur +12  | +2 tot  +12  | --- | --- |
 | --- | Strafmaat voor aantal keer te laat komen:  0 tot 20 keer +2  20 tot 40 keer +4  40 tot 60 keer +6  | +2 tot  +6  | --- | --- |
 |  *Vuurwerk*   | 1.2.2 Illegaal/ondeugdelijk vuurwerk voorhanden  | +4  | --- | --- |
 | --- | 1.2.4 >10 kg voorhanden tijdens of buiten de verkoopperiode  | +4  | --- | --- |
@@ -392,11 +392,11 @@ STRAFMAAT HALT-PLUSIn zaken die met gebruikmaking van de discretionaire bevoegdh
 | schade < 900 euro  | 20 uur / 100 euro  |
 | schade > 900 euro  | Vanaf 32 uur / 160 euro  |
 | 416  |  *opzetheling*   | Zie 310/311  |
-| 417  bis  |  *schuldheling*   | --- |
+| 417 bis  |  *schuldheling*   | --- |
 | schade < 150 euro  | 16 uur / 80 euro  |
 | schade > 150 euro  | 24 uur / 120 euro  |
 | 417  |  *gewoonte-*    *heling*   | Vanaf 60 uur  |
-| 7 WVW  1994  |  *doorrijden na aanrijding*   | vanaf 24 uur/ 120 euro  |
+| 7 WVW 1994  |  *doorrijden na aanrijding*   | vanaf 24 uur/ 120 euro  |
 | 8 WVW 1994*  |  *rijden onder invloed*    *(verdachte jonger dan 16 jaar)*   Fiets  Vanaf AAG 235 / 0,54‰  | 14 uur/ 70 euro  |
 | Bromfiets  AAG 95-350 / 0,22–0,80‰  | 12 uur/ 60 euro  |
 | AAG 355-435 / 0,81–1,00‰  | 12 uur/ 60 euro + 2 mnd OBM  |
@@ -410,12 +410,12 @@ STRAFMAAT HALT-PLUSIn zaken die met gebruikmaking van de discretionaire bevoegdh
 | Weigering bromfiets  | 40 uur/ 175 euro + 7 mnd OBM  |
 |  **Vanaf 16 jaar wordt verwezen naar de Richtlijn voor strafvordering rijden onder invloed van alcohol en/of drugs en rijden tijdens een rijverbod*   | --- |
 | 11 WVW 1994  |  *joyriding*   | 32 uur/ 160 euro  |
-| 10 OW  |  *Opiumwet*    *Lijst I*   | --- |
+| 10 OW  |  *Opiumwet*    Lijst I   | --- |
 | aanwezig hebben >0-<5g of 1-10 pillen  | 20-40 uur / 100–200 euro  |
 | aanwezig hebben 5<25g of 10-50 pillen  | 60-120 uur  |
 | aanwezig hebben 25g of >50 pillen  | vanaf 100 uur  |
 | dealerindicatie of drugsrunnen  | uitgangspunt onvoorwaardelijke jeugddetentie en voorgeleiden  |
-| 11 OW  |  *Opiumwet*    *Lijst II*   | --- |
+| 11 OW  |  *Opiumwet*    Lijst II   | --- |
 | aanwezig hebben 0 < 5g  | 12 uur / 60 euro  |
 | aanwezig hebben 5-<30g  | 16–30 uur / 80–150 euro  |
 | aanwezig hebben 30g of >  | vanaf 40 uur  |

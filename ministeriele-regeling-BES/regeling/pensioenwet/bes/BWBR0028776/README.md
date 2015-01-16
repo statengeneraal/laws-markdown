@@ -105,17 +105,17 @@ Bepalingen ter uitvoering van artikel 7b, eerste en vijfde lid, van de wet
 
 ### Artikel  7  
 
-####Hoogte bedrag en consumentenprijsindexcijfer
+####Hoogte bedragen
 
 De bedragen, bedoeld in artikel 7b, vierde lid, van de wet, worden vastgesteld op: 
 
-1. USD 1506, indien belanghebbende woonachtig is in het openbaar lichaam Bonaire;  
+1. USD 1529, indien belanghebbende woonachtig is in het openbaar lichaam Bonaire;  
 
-2. USD 1505, indien belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius;  
+2. USD 1556, indien belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius;  
 
-3. USD 1501, indien belanghebbende woonachtig is in het openbaar lichaam Saba, en  
+3. USD 1540, indien belanghebbende woonachtig is in het openbaar lichaam Saba, en  
 
-4. USD 1506, indien belanghebbende woonachtig is buiten de openbare lichamen Bonaire, Sint Eustatius en Saba.  
+4. USD 1529, indien belanghebbende woonachtig is buiten de openbare lichamen Bonaire, Sint Eustatius en Saba.  
 
 ###Artikel 8 
 

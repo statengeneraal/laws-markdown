@@ -10,11 +10,25 @@ Besluit:
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder:   a. WAO:   Wet op de arbeidsongeschiktheidsverzekering;    b. Waz:  Wet arbeidsongeschiktheidsverzekering zelfstandigen;    c. Wet Wajong:    Wet werk en arbeidsondersteuning jonggehandicapten;    d. ZW:  Ziektewet;    e. WW:  Werkloosheidswet;   f.verlof: een tussen de werkgever en de werknemer voor een gedeelte of het geheel van de arbeidstijd overeengekomen periode, waarin de werknemer geen arbeid jegens de werkgever verricht;g.pensioen of prepensioen: een uit een dienstbetrekking voortvloeiende periodieke uitkering bij wijze van oudedagsvoorziening, dan wel een uitkering die voorafgaat aan die uitkering of het bereiken van de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet. 
+In deze regeling wordt verstaan onder: 
+
+a.*WAO:* Wet op de arbeidsongeschiktheidsverzekering;
+
+b.*Waz:*Wet arbeidsongeschiktheidsverzekering zelfstandigen;
+
+c.*Wajong:* Wet arbeidsongeschiktheidsvoorziening jonggehandicapten;
+
+d.*ZW:*Ziektewet;
+
+e.*WW:*Werkloosheidswet;
+
+f.*verlof:* een tussen de werkgever en de werknemer voor een gedeelte of het geheel van de arbeidstijd overeengekomen periode, waarin de werknemer geen arbeid jegens de werkgever verricht;
+
+g.*pensioen of prepensioen:* een uit een dienstbetrekking voortvloeiende periodieke uitkering bij wijze van oudedagsvoorziening, dan wel een uitkering die voorafgaat aan die uitkering of het bereiken van de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet. 
 
 ### Artikel  2  
 
-1. Onder inkomen als bedoeld in artikel 44, eerste lid, van de WAO, artikel 58, eerste lid, van de Waz en artikel 3:48, eerste lid, van de Wet Wajong, worden mede verstaan de volgende uitkeringen, indien deze ter zake van die arbeid worden verleend: 
+1. Onder inkomen als bedoeld in artikel 44, eerste lid, van de WAO, artikel 58, eerste lid, van de Waz en artikel 3:48, eerste lid, van de Wajong, worden mede verstaan de volgende uitkeringen, indien deze ter zake van die arbeid worden verleend: 
 
 a. een uitkering krachtens de ZW, waaronder begrepen een uitkering op grond van artikel 46 van die wet;  
 
@@ -37,21 +51,21 @@ i. een uitkering bij zwangerschap, bevalling, adoptie of pleegzorg krachtens de 
 
 ### Artikel  3  
 
-1.  Indien de uitkering, bedoeld in artikel 2, door toedoen van de betrokkene of in verband met het doormaken van een wachtperiode niet wordt uitbetaald, wordt voor de toepassing van artikel 44, eerste lid, van de WAO, artikel 58, eerste lid, van de Waz en artikel 3:48, eerste lid, van de Wet Wajong gehandeld alsof die uitkering wel is uitbetaald.   
-2.  Indien degene op wie artikel 44 van de WAO, artikel 58 van de Waz of artikel 3:48 van de Wet Wajong van toepassing is recht heeft op een uitkering als bedoeld in artikel 2, eerste lid, onderdeel a, d of h, wordt voor de toepassing van genoemde artikelen 44, 58 en 3:48 gehandeld alsof hij een uitkering krachtens de ZW, onderscheidenlijk de WW, onderscheidenlijk hoofdstuk 3, afdeling 2, van de Wet arbeid en zorg, ontvangt, gelijk aan het inkomen, waarmee laatstelijk vóór de aanvang van de ongeschiktheid tot werken, onderscheidenlijk de werkloosheid, onderscheidenlijk het ontstaan van het recht op uitkering op grond van hoofdstuk 3, afdeling 2, van de Wet arbeid en zorg bij de toepassing van laatstgenoemde artikelen rekening is gehouden.   
+1.  Indien de uitkering, bedoeld in artikel 2, door toedoen van de betrokkene of in verband met het doormaken van een wachtperiode niet wordt uitbetaald, wordt voor de toepassing van artikel 44, eerste lid, van de WAO, artikel 58, eerste lid, van de Waz en artikel 3:48, eerste lid, van de Wajong gehandeld alsof die uitkering wel is uitbetaald.   
+2.  Indien degene op wie artikel 44 van de WAO, artikel 58 van de Waz of artikel 3:48 van de Wajong van toepassing is recht heeft op een uitkering als bedoeld in artikel 2, eerste lid, onderdeel a, d of h, wordt voor de toepassing van genoemde artikelen 44, 58 en 3:48 gehandeld alsof hij een uitkering krachtens de ZW, onderscheidenlijk de WW, onderscheidenlijk hoofdstuk 3, afdeling 2, van de Wet arbeid en zorg, ontvangt, gelijk aan het inkomen, waarmee laatstelijk vóór de aanvang van de ongeschiktheid tot werken, onderscheidenlijk de werkloosheid, onderscheidenlijk het ontstaan van het recht op uitkering op grond van hoofdstuk 3, afdeling 2, van de Wet arbeid en zorg bij de toepassing van laatstgenoemde artikelen rekening is gehouden.   
 3.  Het aan de persoon, bedoeld in het eerste, tweede, vijfde of zesde lid, uit te betalen bedrag aan arbeidsongeschiktheidsuitkering wordt niet verder beperkt dan tot het volle bedrag van de arbeidsongeschiktheidsuitkering, verminderd met het bedrag van de in artikel 2, eerste lid, onderdeel a, d of h, bedoelde uitkering dan wel het op grond van artikel 629 van Boek 7 van het Burgerlijk Wetboek ontvangen loon.   
-4.  Indien degene op wie artikel 44 van de WAO, artikel 58 van de WAZ of artikel 3:48 van de Wet Wajong van toepassing is, met verlof is dan wel pensioen of prepensioen ontvangt wordt voor de toepassing van genoemde artikelen 44, 58 en 3:48 gehandeld alsof hij tijdens dat verlof dan wel tijdens het ontvangen van dat pensioen of prepensioen een inkomen heeft dat gelijk is aan het inkomen waarmee laatstelijk vóór de aanvang van het verlof dan wel het ontvangen van pensioen of prepensioen bij de toepassing van die artikelen rekening is gehouden.   
-5.  Indien geen recht op doorbetaling van loon of bezoldiging bestaat door toepassing van artikel 629, derde of negende lid, van Boek 7 van het Burgerlijk Wetboek of een algemeen verbindend voorschrift als bedoeld in artikel 76b, eerste tot en met derde lid, van de ZW, wordt voor de toepassing van artikel 44, eerste lid, van de WAO, artikel 58, eerste lid, van de Waz en artikel 3:48, eerste lid, van de Wet Wajong het loon of bezoldiging in aanmerking genomen als ware er wel recht op doorbetaling.   
-6.  Indien geen recht bestaat op doorbetaling van loon of bezoldiging die naar aard en strekking overeenkomt met loon als bedoeld in artikel 629 van Boek 7 van het Burgerlijk Wetboek of bezoldiging als bedoeld in artikel 76a van de ZW, op gronden die naar aard en strekking overeenkomen met artikel 629, derde of negende lid, van Boek 7 van het Burgerlijk Wetboek of artikel 76b, eerste tot en met derde lid, van de ZW, wordt voor de toepassing van artikel 44, eerste lid, van de WAO, artikel 58, eerste lid, van de Waz en artikel 3:48, eerste lid, van de Wet Wajong het loon of bezoldiging in aanmerking genomen als ware er wel recht op doorbetaling.   
+4.  Indien degene op wie artikel 44 van de WAO, artikel 58 van de WAZ of artikel 3:48 van de Wajong van toepassing is, met verlof is dan wel pensioen of prepensioen ontvangt wordt voor de toepassing van genoemde artikelen 44, 58 en 3:48 gehandeld alsof hij tijdens dat verlof dan wel tijdens het ontvangen van dat pensioen of prepensioen een inkomen heeft dat gelijk is aan het inkomen waarmee laatstelijk vóór de aanvang van het verlof dan wel het ontvangen van pensioen of prepensioen bij de toepassing van die artikelen rekening is gehouden.   
+5.  Indien geen recht op doorbetaling van loon of bezoldiging bestaat door toepassing van artikel 629, derde of negende lid, van Boek 7 van het Burgerlijk Wetboek of een algemeen verbindend voorschrift als bedoeld in artikel 76b, eerste tot en met derde lid, van de ZW, wordt voor de toepassing van artikel 44, eerste lid, van de WAO, artikel 58, eerste lid, van de Waz en artikel 3:48, eerste lid, van de Wajong het loon of bezoldiging in aanmerking genomen als ware er wel recht op doorbetaling.   
+6.  Indien geen recht bestaat op doorbetaling van loon of bezoldiging die naar aard en strekking overeenkomt met loon als bedoeld in artikel 629 van Boek 7 van het Burgerlijk Wetboek of bezoldiging als bedoeld in artikel 76a van de ZW, op gronden die naar aard en strekking overeenkomen met artikel 629, derde of negende lid, van Boek 7 van het Burgerlijk Wetboek of artikel 76b, eerste tot en met derde lid, van de ZW, wordt voor de toepassing van artikel 44, eerste lid, van de WAO, artikel 58, eerste lid, van de Waz en artikel 3:48, eerste lid, van de Wajong het loon of bezoldiging in aanmerking genomen als ware er wel recht op doorbetaling.   
 7.  Voor de toepassing van artikel 2, tweede lid, het tweede, vierde, vijfde of zesde lid, wordt bij een per aangiftetijdvak wisselend inkomen in afwijking van het tweede, vierde, vijfde of zesde lid als inkomen aangemerkt het gemiddelde van het inkomen in de drie aangiftetijdvakken voor het aangiftetijdvak waarin recht ontstond op loondoorbetaling, bedoeld in artikel 2, tweede lid, het vijfde of zesde lid, recht ontstond op uitkering, bedoeld in het tweede lid dan wel, waarin het pensioen, prepensioen of verlof, bedoeld in het vierde lid, aanving.  
 
 ### Artikel  4  
 
 1.  Ten aanzien van de persoon: 
 
-a. op wie artikel 44, eerste lid, van de WAO, artikel 58, eerste lid, van de Waz of artikel 3:48, eerste lid, van de Wet Wajong van toepassing is;  
+a. op wie artikel 44, eerste lid, van de WAO, artikel 58, eerste lid, van de Waz of artikel 3:48, eerste lid, van de Wajong van toepassing is;  
 
-b. voor wie loondispensatie is verkregen als bedoeld in artikel 7, tweede lid, van de Wet op de (re)integratie arbeidsgehandicapten zoals dat artikellid luidde op de dag voordat het op grond van artikel 2.10 van de Wet invoering en financiering Wet werk en inkomen naar arbeidsvermogen is vervallen of als bedoeld in artikel 3:63 van de Wet werk en arbeidsondersteuning jonggehandicapten; en  
+b. voor wie loondispensatie is verkregen als bedoeld in artikel 7, tweede lid, van de Wet op de (re)integratie arbeidsgehandicapten zoals dat artikellid luidde op de dag voordat het op grond van artikel 2.10 van de Wet invoering en financiering Wet werk en inkomen naar arbeidsvermogen is vervallen of als bedoeld in artikel 3:63 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten; en  
 
 c. die noodzakelijke persoonlijke ondersteuning geniet:  
 
@@ -65,11 +79,11 @@ a. geen begeleiding meer op zijn werkplek heeft als bedoeld in artikel 7, eerste
 
 b. geen noodzakelijke persoonlijke ondersteuning meer geniet als bedoeld in het eerste lid, onderdeel c, maar die wel voldoet aan de voorwaarden van het eerste lid, onderdeel a en b, zolang hij werkzaam blijft in de dienstbetrekking waarvoor die persoonlijke ondersteuning was verkregen.     
 4.  Onder het in het tweede lid bedoelde minimumloon wordt verstaan het minimumloon per maand, bedoeld in artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag, of, indien het een persoon jonger dan 23 jaar betreft, het voor zijn leeftijd geldende minimumloon per maand, bedoeld in artikel 7, derde lid, en artikel 8, derde lid, van genoemde wet, gedeeld door 21,75. Indien werkgever en werknemer een arbeidsduur zijn overeengekomen die korter is dan de normale arbeidsduur dienen het in het tweede lid bedoelde rechtens geldende loon en het minimumloon naar evenredigheid te worden verminderd. 
-5. Aan de in het eerste lid bedoelde persoon wordt geen hoger bedrag aan arbeidsonge-schiktheidsuitkering uitbetaald dan het bedrag aan arbeidsongeschiktheidsuitkering dat tot uitbetaling zou zijn gekomen als artikel 44 van de WAO, artikel 58 van de Waz of artikel 3:48 van de Wet Wajong op die persoon niet van toepassing zouden zijn geweest. 
+5. Aan de in het eerste lid bedoelde persoon wordt geen hoger bedrag aan arbeidsonge-schiktheidsuitkering uitbetaald dan het bedrag aan arbeidsongeschiktheidsuitkering dat tot uitbetaling zou zijn gekomen als artikel 44 van de WAO, artikel 58 van de Waz of artikel 3:48 van de Wajong op die persoon niet van toepassing zouden zijn geweest. 
 
 ### Artikel  5  
 
-Indien artikel 4, eerste of derde lid, van toepassing is, is artikel 44, eerste lid, van de WAO, artikel 58, eerste lid, van de WAZ of artikel 3:48, eerste lid, van de Wet Wajong voor onbeperkte duur van toepassing. 
+Indien artikel 4, eerste of derde lid, van toepassing is, is artikel 44, eerste lid, van de WAO, artikel 58, eerste lid, van de WAZ of artikel 3:48, eerste lid, van de Wajong voor onbeperkte duur van toepassing. 
 
 ### Artikel  6  
 
@@ -85,7 +99,7 @@ b. in de periode van 1 mei 2009 tot 1 juli 2012 de normpensioenleeftijd, bedoeld
 
 ### Artikel  8  
 
-1.  Deze regeling, zoals die luidde op de dag voor inwerkingtreding van de regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 12 december 2011, nr IVV/I/2011/22179, blijft van toepassing op de persoon op wie artikel 44 van de WAO, artikel 58 van de WAZ of artikel 3:48 van de Wet Wajong van toepassing was op die dag tot het moment dat dat artikel niet meer van toepassing is.   
+1.  Deze regeling, zoals die luidde op de dag voor inwerkingtreding van de regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 12 december 2011, nr IVV/I/2011/22179, blijft van toepassing op de persoon op wie artikel 44 van de WAO, artikel 58 van de WAZ of artikel 3:48 van de Wajong van toepassing was op die dag tot het moment dat dat artikel niet meer van toepassing is.   
 2.  Ten aanzien van de persoon, bedoeld in het eerste lid, wordt tot het tijdstip, bedoeld in het eerste lid voor ‘inkomsten uit arbeid’ gelezen: inkomen.  
 
 ### Artikel  9  

@@ -2,7 +2,7 @@
 
 ##Reglement tuchtrechtspraak BKD 2005
 
-Gelet op [artikel 13, derde lid, van de Landbouwkwaliteitswet](../../../../../../wet/landbouwkwaliteitswet/BWBR0002755/README.md) en [artikel 2 van het Tuchtrechtbesluit Landbouwkwaliteitswet](../../../../../../AMvB/tuchtrechtbesluit/landbouwkwaliteitswet/BWBR0003252/README.md) heeft het bestuur van de Stichting Bloembollenkeuringsdienst in haar vergadering van 25 april 2005 het navolgende reglement vastgesteld. Het reglement is goedgekeurd door de Minister van Landbouw, Natuur en Voedselkwaliteit.
+Gelet op artikel 13, derde lid, van de Landbouwkwaliteitswet en artikel 2 van het Tuchtrechtbesluit Landbouwkwaliteitswet heeft het bestuur van de Stichting Bloembollenkeuringsdienst in haar vergadering van 25 april 2005 het navolgende reglement vastgesteld. Het reglement is goedgekeurd door de Minister van Landbouw, Natuur en Voedselkwaliteit.
 
 ### Hoofdstuk  I 
 
@@ -68,7 +68,7 @@ c. Over een voor hen aanhangige zaak of over een zaak, die naar zij weten, zoude
 
 ### Artikel  8  
 
-De [artikelen 13, eerste lid van de Landbouwkwaliteitswet](../../../../../../wet/landbouwkwaliteitswet/BWBR0002755/README.md) en [3 tot en met 6 van de Wet tuchtrechtspraak bedrijfsorganisatie 2004](../../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md) zijn van overeenkomstige toepassing met dien verstande dat onder ‘de voorzitter van het bedrijfslichaam’ en ‘bedrijfslichaam’ telkens moet worden volstaan: de controle-instelling. 
+De artikelen 13, eerste lid van de Landbouwkwaliteitswet en 3 tot en met 6 van de Wet tuchtrechtspraak bedrijfsorganisatie 2004 zijn van overeenkomstige toepassing met dien verstande dat onder ‘de voorzitter van het bedrijfslichaam’ en ‘bedrijfslichaam’ telkens moet worden volstaan: de controle-instelling. 
 
 ### Hoofdstuk IV 
 
@@ -86,7 +86,7 @@ De [artikelen 13, eerste lid van de Landbouwkwaliteitswet](../../../../../../wet
 2.  Door of namens het bestuur kan bij de in het eerste lid bedoelde schriftelijke verklaring een voorstel worden gevoegd omtrent de toe te passen tuchtrechtelijke maatregel.   
 3.  Tezamen met de in het eerste lid bedoelde schriftelijke verklaring dienen alle op de zaak betrekking hebbende stukken aan het tuchtgerecht te worden overgelegd. Tevens worden deze stukken gezonden aan de Officier van Justitie, tenzij deze heeft laten weten dat daarvan kan worden afgezien.   
 4.  Het tuchtgerecht neemt de zaak niet in behandeling indien de Officier van Justitie heeft beslist na overleg in het volgende lid, dat de overtreding strafrechtelijk zal worden afgedaan.   
-5.  Het overleg als bedoeld in [artikel 18, tweede lid, van de Landbouwkwaliteitswet](../../../../../../wet/landbouwkwaliteitswet/BWBR0002755/README.md) inzake het al of niet strafrechtelijk afdoen van een overtreding, door een aangeslotene begaan, wordt door de directeur van de BKD gevoerd.  
+5.  Het overleg als bedoeld in artikel 18, tweede lid, van de Landbouwkwaliteitswet inzake het al of niet strafrechtelijk afdoen van een overtreding, door een aangeslotene begaan, wordt door de directeur van de BKD gevoerd.  
 
 ### Artikel  10  
 
@@ -114,14 +114,14 @@ c. De mededeling, dat de aangeslotene bevoegd is zich ter zitting door een raads
 
 ### Artikel  13  
 
-De [artikelen 21 tot en met 25 van de Wet tuchtrechtspraak bedrijfsorganisatie 2004](../../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md) zijn van overeenkomstige toepassing met dien verstande dat onder ‘de voorzitter van het bedrijfslichaam’ en ‘bedrijfslichaam’ telkens moet worden volstaan: de controle-instelling. 
+De artikelen 21 tot en met 25 van de Wet tuchtrechtspraak bedrijfsorganisatie 2004 zijn van overeenkomstige toepassing met dien verstande dat onder ‘de voorzitter van het bedrijfslichaam’ en ‘bedrijfslichaam’ telkens moet worden volstaan: de controle-instelling. 
 
 ### Artikel  14  
 
 1.  Het tuchtgerecht kan ambtshalve of op verzoek van de betrokken aangeslotene een of meer deskundigen benoemen, zo nodig met opdracht een onderzoek in te stellen en daarvan verslag uit te brengen.   
 2.  Het tuchtgerecht roept deskundigen bij aangetekend schrijven op.   
 3.  Ieder die tot deskundige is benoemd, is verplicht de door het tuchtgerecht gevorderde diensten te bewijzen.   
-4.  Ten aanzien van de deskundigen en hun verhoor vinden de [artikelen 217 tot en met 220 van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) overeenkomstig toepassing.   
+4.  Ten aanzien van de deskundigen en hun verhoor vinden de artikelen 217 tot en met 220 van het Wetboek van Strafvordering overeenkomstig toepassing.   
 5.  De voorzitter van het tuchtgerecht kan een deskundige de eed of de belofte doen afleggen dat hij zijn taak naar geweten zal vervullen.   
 6.  Het tuchtgerecht kan een deskundige geheimhouding opleggen.  
 
@@ -140,7 +140,7 @@ Degene, die als getuige of deskundige is opgeroepen en verschenen, niet-zijnde f
 
 ### Artikel  17  
 
-De [artikelen 31 tot en met 41 van de Wet tuchtrechtspraak bedrijfsorganisatie 2004](../../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md) zijn van overeenkomstige toepassing met dien verstande dat onder ‘de voorzitter van het bedrijfslichaam’ en ‘bedrijfslichaam’ telkens moet worden verstaan: de controle-instelling. 
+De artikelen 31 tot en met 41 van de Wet tuchtrechtspraak bedrijfsorganisatie 2004 zijn van overeenkomstige toepassing met dien verstande dat onder ‘de voorzitter van het bedrijfslichaam’ en ‘bedrijfslichaam’ telkens moet worden verstaan: de controle-instelling. 
 
 ### Hoofdstuk  VI 
 
@@ -148,7 +148,7 @@ De [artikelen 31 tot en met 41 van de Wet tuchtrechtspraak bedrijfsorganisatie 2
 
 ### Artikel  18  
 
-De [artikelen 42](../../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md) en [44 van de Wet tuchtrechtspraak bedrijfsorganisatie 2004](../../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md) zijn van overeenkomstige toepassing met dien verstande dat onder ‘de voorzitter van het bedrijfslichaam’ en ‘bedrijfslichaam’ telkens moet worden verstaan: de controle-instelling. 
+De artikelen 42 en 44 van de Wet tuchtrechtspraak bedrijfsorganisatie 2004 zijn van overeenkomstige toepassing met dien verstande dat onder ‘de voorzitter van het bedrijfslichaam’ en ‘bedrijfslichaam’ telkens moet worden verstaan: de controle-instelling. 
 
 ### Artikel  19  
 
@@ -160,7 +160,7 @@ Een uitspraak wordt niet ten uitvoer gelegd voordat zij onherroepelijk is.
 
 ### Artikel  20  
 
-Het [reglement gepubliceerd in de Staatscourant](../../../../../../zbo/reglement/op/de/tuchtrechtspraak/van/de/stichting/etc/BWBR0003602/README.md) (Stcrt. 1983, 241) wordt ingetrokken. 
+Het reglement gepubliceerd in de Staatscourant (Stcrt. 1983, 241) wordt ingetrokken. 
 
 ### Artikel  21  
 

@@ -3,18 +3,21 @@
 ##Regeling van 29 augustus 2003, nr. FO2003/74822, tot vaststelling van de bedragen per eenheid voor de uitkering uit het gemeentefonds over het uitkeringsjaar 2001
 
 De Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Staatssecretaris van Financiën,
-Gelet op [artikel 9 van de Financiële-verhoudingswet](../../../../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md) en [artikel 6 van de Invoeringswet Financiële-verhoudingswet](../../../../../../../../../wet/invoeringswet/financiële-verhoudingswet/BWBR0008291/README.md);
+Gelet op artikel 9 van de Financiële-verhoudingswet en artikel 6 van de Invoeringswet Financiële-verhoudingswet;
 Besluiten:
 
 ###Artikel 1 
+Materieel uitgewerkt per 24-12-2006 
 
-Voor het uitkeringsjaar 2001 worden de bedragen per eenheid, bedoeld in [artikel 9 van de Financiële-verhoudingswet](../../../../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), vastgesteld overeenkomstig bijlage 1 bij deze regeling.
+Voor het uitkeringsjaar 2001 worden de bedragen per eenheid, bedoeld in artikel 9 van de Financiële-verhoudingswet, vastgesteld overeenkomstig bijlage 1 bij deze regeling.
 
 ###Artikel 2 
+Materieel uitgewerkt per 24-12-2006 
 
-Voor het uitkeringsjaar 2001 worden de bedragen, bedoeld in [artikel 6 van de Invoeringswet Financiële-verhoudingswet](../../../../../../../../../wet/invoeringswet/financiële-verhoudingswet/BWBR0008291/README.md), vastgesteld overeenkomstig bijlage 2 bij deze regeling.
+Voor het uitkeringsjaar 2001 worden de bedragen, bedoeld in artikel 6 van de Invoeringswet Financiële-verhoudingswet, vastgesteld overeenkomstig bijlage 2 bij deze regeling.
 
 ###Artikel 3 
+Materieel uitgewerkt per 24-12-2006 
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
@@ -29,7 +32,9 @@ J.G.Wijn
 
 ###Bijlage 1 
 
-####De bedragen per eenheid, bedoeld in [artikel 9 van de Financiële-verhoudingswet](../../../../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), over het uitkeringsjaar 2001 (bijlage bij artikel 1 )
+####De bedragen per eenheid, bedoeld in artikel 9 van de Financiële-verhoudingswet, over het uitkeringsjaar 2001 (bijlage bij artikel 1 )
+
+Materieel uitgewerkt per 24-12-2006 
 
 |Nr. |Maatstaven |Bedragen (euro’s) |
 |:---|:---|:---|
@@ -88,10 +93,12 @@ J.G.Wijn
 
 ###Bijlage 2 
 
-####De bedragen per eenheid, bedoeld in [artikel 6, derde lid, van de Invoeringswet Financiële-verhoudingswet](../../../../../../../../../wet/invoeringswet/financiële-verhoudingswet/BWBR0008291/README.md) over het uitkeringsjaar 2001 (bijlage bij artikel 2 )
+####De bedragen per eenheid, bedoeld in artikel 6, derde lid, van de Invoeringswet Financiële-verhoudingswet over het uitkeringsjaar 2001 (bijlage bij artikel 2 )
+
+Materieel uitgewerkt per 24-12-2006 
 
 |Omschrijving  | Bedragen (euro’s) |
 |:---|:---|
-|De letter J, opgenomen in de formule in [artikel 2.7.4 van het Besluit verfijningen algemene uitkering 1984](../../../../../../../../../AMvB/besluit/verfijningen/algemene/uitkering/1984/BWBR0003674/README.md) |31.764,62 |
-|De letter D, opgenomen in de formule in [artikel 3.15.1 van het Besluit verfijningen algemene uitkering 1984](../../../../../../../../../AMvB/besluit/verfijningen/algemene/uitkering/1984/BWBR0003674/README.md) |36,76 |
+|De letter J, opgenomen in de formule in artikel 2.7.4 van het Besluit verfijningen algemene uitkering 1984 |31.764,62 |
+|De letter D, opgenomen in de formule in artikel 3.15.1 van het Besluit verfijningen algemene uitkering 1984 |36,76 |
 

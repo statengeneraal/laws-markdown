@@ -14,39 +14,37 @@ In deze regeling wordt verstaan onder:
 
 a.  *minister:* Minister van Sociale Zaken en Werkgelegenheid;  
 
-b.  *WWB:* Wet werk en bijstand;  
+b.  *IOAW:* Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers;  
 
-c.  *IOAW:* Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers;  
+c.  *IOAZ:* Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen;  
 
-d.  *IOAZ:* Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen;  
+d.  *WWIK:* Wet werk en inkomsten kunstenaars, zoals deze luidde op 31 december 2011;  
 
-e.  *WWIK:* Wet werk en inkomsten kunstenaars, zoals deze luidde op 31 december 2011;  
+e.  *WIJ:* Wet investeren in jongeren, zoals deze luidde op de dag voor inwerkingtreding van artikel II van de Wet van 22 december 2011 tot wijziging van de Wet werk en bijstand en samenvoeging van die wet met de Wet investeren in jongeren gericht op bevordering van deelname aan de arbeidsmarkt en vergroting van de eigen verantwoordelijkheid van uitkeringsgerechtigden (Stb. 650);  
 
-f.  *WIJ:* Wet investeren in jongeren, zoals deze luidde op de dag voor inwerkingtreding van artikel II van de Wet van 22 december 2011 tot wijziging van de Wet werk en bijstand en samenvoeging van die wet met de Wet investeren in jongeren gericht op bevordering van deelname aan de arbeidsmarkt en vergroting van de eigen verantwoordelijkheid van uitkeringsgerechtigden (Stb. 650);  
+f.  *uitkering:* bijstand, waaronder bijstand als bedoeld in het Besluit bijstandsverlening zelfstandigen 2004, of langdurigheidstoeslag op grond van de Participatiewet of de uitkering op grond van de IOAW of IOAZ;  
 
-g.  *uitkering:* bijstand, waaronder bijstand als bedoeld in het Besluit bijstandsverlening zelfstandigen 2004, of langdurigheidstoeslag op grond van de WWB of de uitkering op grond van de IOAW of IOAZ;  
+g.  *BBZ:* uitkering aan zelfstandigen op grond van het Besluit bijstandsverlening zelfstandigen 2004  
 
-h.  *BBZ:* uitkering aan zelfstandigen op grond van het Besluit bijstandsverlening zelfstandigen 2004  
-
-i.  *SVB:* de Sociale verzekeringsbank.   
+h.  *SVB:* de Sociale verzekeringsbank.   
 
 ### Artikel  2  
 
 ####Statistiek uitkeringen gemeenten
 
-De minister ontvangt van het college uiterlijk vier weken na afloop van iedere kalendermaand, overeenkomstig het in bijlage 1 bij deze regeling opgenomen model, gegevens over uitkeringen en over de personen aan wie in de desbetreffende maand een uitkering is verleend. 
+De minister ontvangt van het college uiterlijk vier weken na afloop van iedere kalendermaand, overeenkomstig het in bijlage 1 bij deze regeling opgenomen model, gegevens over uitkeringen en over de personen aan wie in de desbetreffende maand een uitkering is verleend, of ten behoeve van wie loonkostensubsidie is verstrekt. 
 
 ### Artikel  3  
 
 ####Statistiek re-integratievoorzieningen gemeenten
 
-De minister ontvangt van het college uiterlijk vier weken na afloop van de eerste helft van een kalenderjaar en na afloop van de tweede helft van een kalenderjaar overeenkomstig het in bijlage 2 bij deze regeling opgenomen model, gegevens over voorzieningen gericht op arbeidsinschakeling als bedoeld in artikel 7, eerste lid, onderdeel a, van de WWB, artikel 34, eerste lid, onderdeel a van de IOAZ en artikel 34, eerste lid, onderdeel a, van de IOAW en over de personen die van die voorziening feitelijk gebruik hebben gemaakt. 
+De minister ontvangt van het college uiterlijk vier weken na afloop van iedere kalendermaand overeenkomstig het in bijlage 2 bij deze regeling opgenomen model, gegevens over voorzieningen gericht op arbeidsinschakeling als bedoeld in artikel 7, eerste lid, onderdeel a, van de Participatiewet, en over de personen die van die voorziening feitelijk gebruik hebben gemaakt. 
 
 ### Artikel  4  
 
 ####Statistiek vorderingen, boeten en sancties gemeenten
 
-De minister ontvangt van het college uiterlijk vier weken na afloop van iedere kalendermaand, overeenkomstig het in bijlage 3 bij deze regeling opgenomen model, gegevens over vorderingen in verband met opgelegde betalings- of aflossingsverplichtingen, over ontvangsten op die vorderingen en gegevens over opgelegde bestuurlijke boeten, sancties en aansprakelijkheidstellingen en gegevens over de personen ten aanzien van wie in het kader van de uitvoering van de WWB, de IOAW, de IOAZ, de WIJ en de WWIK dergelijke verplichtingen, vorderingen, boetes en sancties zijn opgelegd. 
+De minister ontvangt van het college uiterlijk vier weken na afloop van iedere kalendermaand, overeenkomstig het in bijlage 3 bij deze regeling opgenomen model, gegevens over vorderingen in verband met opgelegde betalings- of aflossingsverplichtingen, over ontvangsten op die vorderingen en gegevens over opgelegde bestuurlijke boeten, sancties en aansprakelijkheidstellingen en gegevens over de personen ten aanzien van wie in het kader van de uitvoering van de Participatiewet, de IOAW, de IOAZ, de WIJ en de WWIK dergelijke verplichtingen, vorderingen, boetes en sancties zijn opgelegd. 
 
 ### Artikel  5  
 
@@ -62,7 +60,7 @@ De minister ontvangt van het college uiterlijk vier weken na afloop van iedere k
 
 ####Statistieken door SVB
 
-1.  Ten aanzien van de uitvoering van de taak, bedoeld in artikel 47a, eerste lid, van de WWB ontvangt de minister van de SVB uiterlijk vier weken na afloop van iedere kalendermaand overeenkomstig het in bijlage 1 en 3 bij deze regeling opgenomen model, gegevens als bedoeld in de artikelen 2 en 4.   
+1.  Ten aanzien van de uitvoering van de taak, bedoeld in artikel 47a, eerste lid, van de Participatiewet ontvangt de minister van de SVB uiterlijk vier weken na afloop van iedere kalendermaand overeenkomstig het in bijlage 1 en 3 bij deze regeling opgenomen model, gegevens als bedoeld in de artikelen 2 en 4.   
 2.  De SVB verstrekt de gegevens, bedoeld in het eerste lid, zonder tussenkomst van het Centraal Bureau voor de Statistiek, maar op de door de directeur-generaal van de statistiek te bepalen wijze, bedoeld in artikel 5, eerste lid, of indien een bewerker is aangewezen als bedoeld in artikel 5 op een door de minister te bepalen wijze.  
 
 ### Artikel  7  
@@ -82,7 +80,7 @@ Deze regeling treedt in werking met ingang van 1 januari 2013.
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling statistiek WWB, IOAW en IOAZ 2013. 
+Deze regeling wordt aangehaald als : Regeling statistiek Participatiewet, IOAW en IOAZ 2015 
 Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -94,140 +92,226 @@ P. de Krom
 
 ### Bijlage  1  
 
-####: Overzicht kenmerken statistiek uitkeringen gemeenten
+####Overzicht kenmerken bijstandsuitkeringsstatistiek
 
-Hieronder staan de kenmerken in het aan te leveren bestand (bijstands)uitkeringen gemeenten benoemd. Bij ieder kenmerk wordt het bereik aangegeven waaraan een waarde van het betreffende kenmerk moet voldoen. Let op: Met [jjjj] wordt bedoeld de 4-cijferige aanduiding voor het jaar Met [mm] wordt bedoeld de 2-cijferige aanduiding van de maand Met [ab] wordt bedoeld: een tekstwaarde van 2 posities Met [12] wordt bedoeld: een numerieke waarde van 2 posities Met ab wordt bedoeld: exact de letters ‘ab’ Met 12 wordt bedoeld: exact de waarde ‘12’ Met [a1234] wordt bedoeld: een plus- of minteken op de eerste positie gevolgd door numerieke waarden op de posities 2 t/m 5 Met [max. 4 posities] wordt bedoeld: een vulling van 4 posities met tekst- en/of numerieke waarden, naar rechts uitgelijnd en indien van toepassing links opgevuld met een nul of nullen Met [jjjjmmdd] wordt bedoeld: een datum aanduiding waarbij de eerste 4 posities het jaar aanduiden, de 5<sup>e</sup> en 6<sup>e</sup> positie de maand, en de 7<sup>e</sup> en 8<sup>e</sup>  posities de dag van de maand Een toelichting op de uitvraag en technische specificaties in verband met de bevraging bij de gemeenten en de SVB worden nog door CBS aan gemeenten verstrekt middels de CBS-richtlijnen bij de statistiek.  GEGEVENS LEVERING  
+Hieronder staan de kenmerken in het aan te leveren BUS-bestand beschreven. Bij ieder kenmerk wordt het bereik aangegeven waaraan een waarde van het betreffende kenmerk moet voldoen, indien over het kenmerk informatie is opgenomen in het XML-bestand. Het CBS controleert of de aangeleverde kenmerken binnen het geldige waardenbereik liggen. Daarnaast voert het CBS verschillende controles uit na ontvangst van het BUS-bestand. Een overzicht van een aantal van deze controles is te vinden op de website www.cbs.nl/sz. Deze lijst wordt regelmatig bijgewerkt. Let op: Met [jjjj] wordt bedoeld de 4-cijferige aanduiding voor het jaar Met [mm] wordt bedoeld de 2-cijferige aanduiding van de maand Met [ab] wordt bedoeld: een tekstwaarde van 2 posities Met [12] wordt bedoeld: een numerieke waarde van 2 posities Met (abcde) wordt bedoeld: een tekstwaarde van minimaal 1 en maximaal 5 posities Met ab wordt bedoeld: exact de letters ‘ab’ Met 12 wordt bedoeld: exact de waarde ‘12’ Met [a1234] wordt bedoeld: een plus- of minteken op de eerste positie gevolgd door numerieke waarden op de posities 2 t/m 5 Met [jjjjmmdd] wordt bedoeld: een datumaanduiding waarbij de eerste 4 posities het jaar aanduiden, de 5<sup>e</sup> en 6<sup>e</sup> positie de maand, en de 7<sup>e</sup> en 8<sup>e</sup> positie de dag van de maand Met incl. VT en excl. VT wordt bedoeld: het bedrag op te geven inclusief vakantietoeslag of het bedrag op te geven exclusief vakantietoeslag  
 
-| --- | --- | --- |
-|:---|:---|:---|
-| 1  | STATISTIEKJAAR  | [jjjj]  |
-| 2  | STATISTIEKMAAND   | [mm]  |
-| 3  | BERICHTGEVERCODE  code van de berichtgever  | [1234]  |
-| 4  | GEMEENTECODE  CBS-gemeentecode  | [1234]  |
-| 5  | NAAM SOFTWAREPAKKET  CiVision Werk Inkomen en Zorg (PinkRoccade)  GWS4all (Centric)  Socrates (WiGo4It)  AIO: (Pakket van de Sociale Verzekeringsbank)  Ander pakket  | Wiz  Gws  Soc  Aio  and  |
-| 6  | RELEASE-/VERSIENUMMER SOFTWAREPAKKET  | [abcdefghijkl]  |
-
-GEGEVENS UITKERING  
-
-| --- | --- | --- |
-|:---|:---|:---|
-| 7  | REGISTRATIENUMMER UITKERING  | [abcdefghijklmno]  |
-| 8  | STATISTIEKCODE  WWB algemene bijstand (inclusief bijstand aan personen met AOW)  IOAW  IOAZ  WWB, periodiek bijzondere bijstand  WWB, eenmalig bijzondere bijstand (inclusief langdurigheidstoeslag)  BBZ  | 01  02  03  11  12  14  |
-
-| --- | --- | --- |
-|:---|:---|:---|
-| 9  | NADERE CLASSIFICATIE BBZ  zelfstandige, beginnend  zelfstandige, oudere  zelfstandige, beëindigende  zelfstandige, overig  niet van toepassing  | 1  2  3  5  9  |
-| 10  | NORM / GRONDSLAG {‘leefvorm’}   alleenstaande{‘alleenstaande’}   alleenstaande{‘alleenstaande’} ouder  gehuwden en samenwonenden {‘gehuwden’}   anders  | 1  2  3  4  |
-| 11  | BEDRAG BASISNORM / GRONDSLAG (incl. vt){‘landelijkenorm’}   | [1234]  |
-| 12  | BEDRAG AFWIJKING BASISNORM  DOOR GEMEENTELIJK BELEID (incl. vt)  niet van toepassing  | [a1234]  99999  |
-| 13  | BEDRAG BIJSTANDSNORM (incl. vt)  | [1234]  |
-| --- | BEDRAG VERMINDERING UITKERING N.A.V. AFSTEMMING (incl. vt)  | --- |
-| 14  | niet van toepassing  | [1234]  9999  |
-| 15  | BEDRAG INKOMSTEN UITKERING (incl. vt)  niet van toepassing  | [a1234] 99999  |
-| 16  | BETAALBAAR GESTELD BEDRAG UITKERING (excl. vt)  niet van toepassing  | [123456]   999999  |
-| 17  | Datum invoering administratie  | [jjjjmmdd]  |
-| 18  | CLUSTER BIJZONDERE BIJSTAND  directe levensbehoeften  voorzieningen voor het huishouden  voorzieningen voor wonen  voorzieningen voor opvang  kosten uit maatschappelijke zorg  financiële transacties  uitstroombevordering  medische dienstverlening  overige kostensoorten  kosten wel in statistiek maar geen bijzondere bijstand  | a  b  c  d  e  f  g  h  i  j  |
-| 19  | TOEPASSING CATEGORIALE VERLENING BIJZONDERE BIJSTAND  chronisch zieken/gehandicapten  personen met een AOW-gerechtigde leeftijd  langdurigheidstoeslag  ouders met schoolgaande kinderen  niet van toepassing  | 1  2  3  4  9  |
-
-GEGEVENS PERSONEN (invullen voor alle personen met deze uitkering)  
-
-| --- | --- | --- |
-|:---|:---|:---|
-| 20  | BURGERSERVICENUMMER  | [123456789]  |
-| 21  | GEBOORTEDATUM  | [jjjjmmdd]  |
-| 22  | GESLACHT  man  vrouw  | 1  2  |
-| 23  | HUISVESTING  Huurder  Eigenaar  Inwonend  in inrichting  adresloos  geen vaste woon- of verblijfplaats en niet adresloos  | 1  2  3  4  5  6  |
-| 24  | AANVANGSDATUM UITKERING PERSOON  | [jjjjmmdd]  |
-| 25  | EINDDATUM UITKERING PERSOON  niet beëindigd  | [jjjjmmdd]  00000000  |
-| 26  | ONTHEFFING ARBEIDSVERPLICHTING VAN TOEPASSING  nee  ja, artikel 9, WWB  ja, artikel 9a, WWB  niet van toepassing  | 2  3  4  9  |
-| 27  | EINDDATUM ONTHEFFING  niet beëindigd  niet van toepassing  | [jjjjmmdd]  00000000  99999999  |
-| 28  | REDEN BEËINDIGING ONTHEFFING OF OPSCHORTING (art. 9a WWB)  beëindiging wegens niet nakomen verplichtingen plan van aanpak  beëindiging wegens bereiken maximale termijn ontheffing  opschorting wegens bereiken 5-jarige leeftijd jongste kind  opschorting op verzoek van de ouder  overige reden beëindiging  niet van toepassing  | 1  2  3  4  5  9  |
-| 29  | OPGELEGDE PLICHT TOT TEGENPRESTATIE  ja  nee  niet van toepassing  | 1  2  9  |
-| 30  | REDEN VERMINDERING N.A.V. AFSTEMMING  op het vlak van plicht tot arbeidsinschakeling  op het vlak van de inlichtingenplicht  agressie  niet nakomen tegenprestatie  niet nakomen verplichtingen plan van aanpak  niet (voldoende) zoeken naar werk in zoekperiode van 4 weken  | 01  02  03  05  06  |
-| --- | niet (voldoende) zoeken naar scholing in zoekperiode van 4 weken  oorzaak bij partner  | --- |
-| --- | niet van toepassing  | 07  08  98  99  |
-| 31  | SOORT INKOMSTEN  (deeltijd) arbeid{‘arbeid’} in dienstbetrekking ‘dienstbetrekking’ {‘ziekte’}   Vermogensopbrengsten  Kinderalimentatie  Partneralimentatie  Heffingskortingen  andere inkomsten{‘alimentatie’}   | 11  18  23  24  31  98  |
-| 32  | BEDRAG INKOMSTEN PERSOON, incl. vt  | [a1234]  |
-| 33  | VRIJLATING INKOMSTEN (per inkomstensoort)  ja  nee  | 1  2  |
-| 34  | REDEN BEËINDIGING UITKERING PERSOON  gaan volgen van onderwijs met studiefinanciering  aangaan relatie  bereiken AOW-gerechtigde leeftijd  overlijden  detentie  kunnen volgen van onderwijs maar dit niet doen  overschrijden maximale verblijfsduur buitenland  uit wiens houding en gedragingen duidelijk blijkt dat hij verplichtingen ex. artikel 9 en artikel 55 niet wil nakomen  | 01  02  03  04  05  06  07  08  |
-| --- |  *verkregen inkomsten uit:*   arbeid{‘arbeid’} in dienstbetrekking {‘dienstbetrekking’} /uitkering ziekte {‘ziekte’}   zelfstandig beroep of bedrijf  uitkering werkloosheid {‘werkloosheid’}  uitkering arbeid{‘arbeid’}songeschiktheid  alimentatie{‘alimentatie’}   vermogensopbrengsten  ander inkomen  | 11  13  14  15  17  18  19  |
-| --- |  *administratieve redenen*   geen inlichtingen  verhuizing naar andere gemeente  verhuizing naar buitenland  | 31  32  33  34  |
-| --- | niet verschenen op herhaalde oproep inlichtingenplicht  niet verschenen op herhaalde oproep re-integratiegesprek  | 35  |
-| --- | oorzaak bij partner  andere oorzaak  niet van toepassing  | 97  98  99  |
+| --- | --- | --- | --- |
+|:---|:---|:---|:---|
+|  *GEGEVENS LEVERING*   |
+| --- |
+| 1  | STATISTIEKJAAR  | --- | [jjjj]  |
+| --- | --- | --- | --- |
+| 2  | STATISTIEKMAAND  | --- | [mm]  |
+| --- | --- | --- | --- |
+| 3  | BERICHTGEVERCODE  | --- | [1234]  |
+| --- | --- | --- | --- |
+| 4  | GEMEENTECODE  | --- | --- |
+| --- | CBS-gemeentecode  | --- | [1234]  |
+| --- | --- | --- | --- |
+| 5  | NAAM SOFTWAREPAKKET  | --- | --- |
+| --- | CiVision Samenlevingszaken (PinkRoccade)  | sam  | --- |
+| --- | GWS4all (Centric)  | gws  | --- |
+| --- | Socrates (WiGo4It)  | soc  | --- |
+| --- | AIO (Sociale Verzekeringsbank)  | aio  | --- |
+| --- | EBB-Rapportage (Horlings & Eerbeek)  | ebb  | --- |
+| --- | Central Station (Obec Software Engineering)  | cso  | --- |
+| --- | Ander pakket  | and  | --- |
+| --- | --- | --- | --- |
+| 6  | RELEASE-/VERSIENUMMER SOFTWAREPAKKET  | --- | (abcdefghijkl)  |
+| --- | --- | --- | --- |
+|  *GEGEVENS UITKERING*   |
+| --- | --- | --- | --- |
+| 7  | REGISTRATIENUMMER UITKERING  | --- | (abcdefghijklmno)  |
+| --- | --- | --- | --- |
+| 8  | STATISTIEKCODE  | --- | --- |
+| --- | algemene bijstand  | --- | 01  |
+| --- | IOAW  | --- | 02  |
+| --- | IOAZ  | --- | 03  |
+| --- | periodiek bijzondere bijstand  | --- | 11  |
+| --- | eenmalig bijzondere bijstand  | --- | 12  |
+| --- | BBZ  | --- | 14  |
+| --- | --- | --- | --- |
+| 9  | NADERE CLASSIFICATIE BBZ  | --- | --- |
+| --- | zelfstandige, beginnend  | --- | 1  |
+| --- | zelfstandige, oudere  | --- | 2  |
+| --- | zelfstandige, beëindigende  | --- | 3  |
+| --- | zelfstandige, overig  | --- | 5  |
+| --- | --- | --- | --- |
+| 10  | LEEFVORM  | --- | --- |
+| --- | alleenstaande  | --- | 1  |
+| --- | alleenstaande ouder  | --- | 2  |
+| --- | gehuwden en samenwonenden  | --- | 3  |
+| --- | anders  | --- | 4  |
+| --- | --- | --- | --- |
+| 11  | AANTAL KOSTENDELERS  | --- | [12]  |
+| --- | --- | --- | --- |
+| 12  | BEDRAG BIJSTANDSNORM/GRONDSLAG (incl. vt)  | --- | [1234]  |
+| --- | --- | --- | --- |
+| 13  | BEDRAG VERMINDERING UITKERING N.A.V. AFSTEMMING (incl. vt)  | --- | [a1234]  |
+| --- | --- | --- | --- |
+| 14  | BEDRAG INKOMSTEN UITKERING (incl. vt)  | --- | [a1234]  |
+| --- | --- | --- | --- |
+| 15  | BETAALBAAR GESTELD BEDRAG UITKERING (excl. vt)  | --- | [123456]  |
+| --- | --- | --- | --- |
+| 16  | Datum invoering administratie  | --- | [jjjjmmdd]  |
+| --- | --- | --- | --- |
+| 17  | CLUSTER BIJZONDERE BIJSTAND  | --- | --- |
+| --- | directe levensbehoeften  | --- | a  |
+| --- | voorzieningen voor het huishouden  | --- | b  |
+| --- | voorzieningen voor wonen  | --- | c  |
+| --- | voorzieningen voor opvang  | --- | d  |
+| --- | kosten uit maatschappelijke zorg  | --- | e  |
+| --- | financiële transacties  | --- | f  |
+| --- | uitstroombevordering  | --- | g  |
+| --- | medische dienstverlening  | --- | h  |
+| --- | overige kostensoorten  | --- | i  |
+| --- | kosten wel in statistiek maar geen bijzondere bijstand  | --- | j  |
+| --- | individuele inkomenstoeslag  | --- | k  |
+| --- | individuele studietoeslag  | --- | l  |
+| --- | collectieve aanvullende zorgverzekering  | --- | m  |
+| --- | --- | --- | --- |
+|  *GEGEVENS PERSONEN (invullen voor alle personen met deze uitkering)*   |
+| --- | --- | --- | --- |
+| 18  | BURGERSERVICENUMMER  | --- | [123456789]  |
+| --- | --- | --- | --- |
+| 19  | GEBOORTEDATUM  | --- | [jjjjmmdd]  |
+| --- | --- | --- | --- |
+| 20  | GESLACHT  | --- | --- |
+| --- | man  | --- | 1  |
+| --- | vrouw  | --- | 2  |
+| --- | --- | --- | --- |
+| 21  | HUISVESTING  | --- | --- |
+| --- | huurder  | --- | 1  |
+| --- | eigenaar  | --- | 2  |
+| --- | inwonend  | --- | 3  |
+| --- | in inrichting  | --- | 4  |
+| --- | adresloos  | --- | 5  |
+| --- | geen vaste woon- of verblijfplaats en niet adresloos  | --- | 6  |
+| --- | --- | --- | --- |
+| 22  | AANVANGSDATUM UITKERING PERSOON  | --- | [jjjjmmdd]  |
+| --- | --- | --- | --- |
+| 23  | EINDDATUM UITKERING PERSOON  | --- | [jjjjmmdd]  |
+| --- | --- | --- | --- |
+| 24  | ONTHEFFING ARBEIDSVERPLICHTING VAN TOEPASSING  | --- | --- |
+| --- | nee  | --- | 2  |
+| --- | ja, artikel 9a,  | --- | 4  |
+| --- | Participatiewet  | --- | 4  |
+| --- | ja, artikel 9, lid 1a, Participatiewet  | --- | 5  |
+| --- | --- | --- | --- |
+| --- | ja, artikel 9, lid 5, Participatiewet  | --- | 6  |
+| --- | --- | --- | --- |
+| 25  | EINDDATUM ONTHEFFING  | --- | [jjjjmmdd]  |
+| --- | --- | --- | --- |
+| 26  | REDEN BEËINDIGING ONTHEFFING OF OPSCHORTING  | --- | --- |
+| --- | beëindiging wegens niet nakomen verplichtingen plan van aanpak  | --- | 1  |
+| --- | beëindiging wegens bereiken maximale termijn ontheffing  | --- | 2  |
+| --- | opschorting wegens bereiken 5-jarige leeftijd jongste kind  | --- | 3  |
+| --- | opschorting op verzoek van de ouder  | --- | 4  |
+| --- | overige reden beëindiging  | --- | 5  |
+| --- | --- | --- | --- |
+| 27  | UITVOERING TEGENPRESTATIE  | --- | --- |
+| --- | ja  | --- | 1  |
+| --- | nee  | --- | 1  |
+| --- | --- | --- | --- |
+| 28  | REDEN VERMINDERING N.A.V. AFSTEMMING  | --- | --- |
+| --- | op het vlak van plicht tot arbeidsinschakeling  | --- | 01  |
+| --- | --- | --- | --- |
+| --- | agressie  | --- | 03  |
+| --- | niet nakomen tegenprestatie  | --- | 05  |
+| --- | niet nakomen verplichtingen plan van aanpak  | --- | 06  |
+| --- | niet (voldoende) zoeken naar werk in zoekperiode van 4 weken  | --- | 07  |
+| --- | niet (voldoende) zoeken naar scholing in zoekperiode van 4 weken  | --- | 08  |
+| --- | oorzaak bij partner  | --- | 98  |
+| --- | --- | --- | --- |
+| 29  | AANVANGSDATUM VERMINDERING  | --- | [jjjjmmdd]  |
+| --- | --- | --- | --- |
+| 30  | EINDDATUM VERMINDERING  | --- | [jjjjmmdd]  |
+| --- | --- | --- | --- |
+| 31  | SOORT INKOMSTEN  | --- | --- |
+| --- | (deeltijd) arbeid in dienstbetrekking  | --- | 11  |
+| --- | vermogensopbrengsten  | --- | 18  |
+| --- | kinderalimentatie  | --- | 23  |
+| --- | partneralimentatie  | --- | 24  |
+| --- | heffingskortingen  | --- | 31  |
+| --- | andere inkomsten  | --- | 98  |
+| --- | --- | --- | --- |
+| 32  | BEDRAG INKOMSTEN PERSOON, incl. vt  | --- | [a1234]  |
+| --- | --- | --- | --- |
+| 33  | VRIJLATING INKOMSTEN (per inkomstensoort)  | --- | --- |
+| --- | ja  | --- | 1  |
+| --- | nee  | --- | 2  |
+| --- | --- | --- | --- |
+| 34  | REDEN BEËINDIGING UITKERING PERSOON  | --- | --- |
+| --- | gaan volgen van onderwijs met studiefinanciering  | --- | 01  |
+| --- | aangaan relatie  | --- | 02  |
+| --- | bereiken AOW-gerechtigde leeftijd  | --- | 03  |
+| --- | overlijden  | --- | 04  |
+| --- | detentie  | --- | 05  |
+| --- | kunnen volgen van onderwijs maar dit niet doen  | --- | 06  |
+| --- | overschrijden maximale verblijfsduur buitenland  | --- | 07  |
+| --- | --- | --- | --- |
+| --- |  *verkregen inkomsten uit:*   | --- | --- |
+| --- | arbeid in dienstbetrekking/uitkering ziekte  | --- | 11  |
+| --- | zelfstandig beroep of bedrijf  | --- | 13  |
+| --- | uitkering werkloosheid  | --- | 14  |
+| --- | uitkering arbeidsongeschiktheid  | --- | 15  |
+| --- | alimentatie  | --- | 17  |
+| --- | vermogensopbrengsten  | --- | 18  |
+| --- | ander inkomen  | --- | 19  |
+| --- | --- | --- | --- |
+| --- |  *administratieve redenen:*   | --- | --- |
+| --- | geen inlichtingen  | --- | 31  |
+| --- | verhuizing naar andere gemeente  | --- | 32  |
+| --- | verhuizing naar buitenland  | --- | 33  |
+| --- | niet verschenen op herhaalde oproep inlichtingenplicht  | --- | 34  |
+| --- | niet verschenen op herhaalde oproep re-integratiegesprek  | --- | 35  |
+| --- | oorzaak bij partner  | --- | 97  |
+| --- | andere oorzaak  | --- | 98  |
 
 ### Bijlage  2  
 
-####: Overzicht kenmerken statistiek re-integratievoorzieningen gemeenten
+####Overzicht kenmerken statistiek re-integratievoorzieningen gemeenten
 
-Hieronder staan de kenmerken in het aan te leveren SRG-bestand beschreven. Bij ieder kenmerk wordt het bereik aangegeven waaraan een waarde van het desbetreffende kenmerk moet voldoen. Let op: Met [ab] wordt bedoeld: 2 tekstwaarden Met [12] wordt bedoeld: 2 numerieke waarden Met ab wordt bedoeld: exact de letters ‘ab’ Met 12 wordt bedoeld: exact de waarde ‘12’ Met [jjjj] wordt bedoeld: een jaartalaanduiding Met [p] wordt bedoeld: een numerieke aanduiding voor de verslagperiode: het eerste (1) of tweede (2) halfjaar Met [jjjjmmdd] wordt bedoeld: een datumaanduiding waarbij de eerste 4 posities het jaar aanduiden, de 5<sup>e</sup> en 6<sup>e</sup> positie de maand, en de 7<sup>e</sup> en 8<sup>e</sup> posities de dag van de maand. 
+Hieronder staan de kenmerken in het aan te leveren SRG-bestand beschreven. Bij ieder kenmerk wordt het bereik aangegeven waaraan een waarde van het desbetreffende kenmerk moet voldoen. Met [ab] wordt bedoeld: 2 tekstwaarden Met [12] wordt bedoeld: 2 numerieke waarden Met ab wordt bedoeld: exact de letters ‘ab’ Met 12 wordt bedoeld: exact de waarde ‘12’ Met [jjjj] wordt bedoeld: een jaartalaanduiding Met [mm] wordt bedoeld: de maandaanduiding Met [jjjjmmdd] wordt bedoeld: een volledige datumaanduiding.  
 
 | --- | --- | --- |
 |:---|:---|:---|
-| *GEGEVENS LEVERING*  |
-| --- | --- | --- |
-| 1  | STATISTIEKJAAR  | [jjjj]  |
-| --- | --- | --- |
-| 2  | STATISTIEKPERIODE  | [p]  |
-| --- | --- | --- |
-| 3  | STATISTIEKCODE  | --- |
-| --- | Statistiek Re-integratie door Gemeenten  | 10  |
-| --- | --- | --- |
-| 4  | NAAM SOFTWAREPAKKET  | --- |
-| --- | RMW (WiGo4it)  | rmw  |
-| --- | CiVision Werk (Getronics Pink Roccade)  | cwk  |
-| --- | Compas (Emergo Systems)  | com  |
-| --- | Stratech-CVS (Stratech)  | cvs  |
-| --- | EBB Trajecten (Horlings & Eerbeek)  | ebb  |
-| --- | GWS4All (Centric)  | gws  |
-| --- | Imwin (Solviteers)  | imw  |
-| --- | Iw3 (Solviteers)  | iw3  |
-| --- | SZWnet (Planconsult)  | pla  |
-| --- | Eigen pakket van de gemeente  | eig  |
-| --- | Ander pakket  | and  |
-| --- | --- | --- |
-| 5  | RELEASE/VERSIENUMMER SOFTWAREPAKKET  | [abcdefghijkl]  |
-| --- | --- | --- |
-| 6  | GEMEENTECODE  | --- |
-| --- | CBS-gemeentecode  | [1234]  |
-| --- | --- | --- |
-| *GEGEVENS PERSOON*  |
-| --- | --- | --- |
-| 7  | BURGERSERVICENUMMER  | [123456789]  |
-| --- | --- | --- |
-| 8  | GEBOORTEDATUM  | [jjjjmmdd]  |
-| --- | --- | --- |
-| 9  | GESLACHT  | --- |
-| --- | Man  | 1  |
-| --- | Vrouw  | 2  |
-| --- | --- | --- |
-| 10  | POSITIE OP DE PARTICIPATIELADDER  | --- |
-| --- | Geïsoleerd  | 1  |
-| --- | Sociale contacten buitenshuis  | 2  |
-| --- | Deelname georganiseerde activiteiten  | 3  |
-| --- | Onbetaald werk  | 4  |
-| --- | Betaald werk met ondersteuning  | 5  |
-| --- | Betaald werk zonder ondersteuning  | 6  |
-| --- | --- | --- |
-| 11  | BEGINDATUM POSITIE OP DE PARTICIPATIELADDER  | [jjjjmmdd]  |
-| --- | --- | --- |
-| *GEGEVENS VOORZIENING (invullen voor alle voorzieningen van deze persoon)*  |
-| --- | --- | --- |
-| 12  | REGISTRATIENUMMER VOORZIENING  | [abcdefghijklmno]  |
-| --- | --- | --- |
-| 13  | TYPE VOORZIENING  | --- |
-| --- | Loonkostensubsidie  | 1  |
-| --- | WIW/ID-baan  | 2  |
-| --- | Participatieplaats  | 3  |
-| --- | Overige  | 4  |
-| --- | --- | --- |
-| 14  | BEGINDATUM VOORZIENING  | [jjjjmmdd]  |
-| --- | --- | --- |
-| 15  | EINDDATUM VOORZIENING  | [jjjjmmdd]  |
-| --- | --- | --- |
-| 16  | REDEN EINDE VOORZIENING  | --- |
-| --- | Voorziening is volledig afgerond  | 1  |
-| --- | Voorziening is voortijdig beëindigd  | 2  |
-| --- | Voorziening gestopt door verhuizen, overlijden, instroom in WSW, detentie of zwangerschap  | 3  |
+|  *Administratieve gegevens*   |
+| 1.  | Statistiekjaar  | [jjjj]  |
+| 2.  | Statistiekmaand  | [mm]  |
+| 3.  | Statistiekcode  | 10  |
+| 4.  | Naam softwarepakket  | [abc]  |
+| 5.  | Release/Versienummer softwarepakket  | [abcdefghijkl]  |
+| 6.  | CBS-Gemeentecode  | [1234]  |
+| 7.  | Berichtgevercode  | [1234]  |
+|  *Gegevens persoon*   |
+| 8.  | Burgerservicenummer  | [123456789]  |
+| 9  | Geboortedatum  | [jjjjmmdd]  |
+| 10  | Geslacht  | [1]  |
+| 11.  | Positie op de participatieladder  | [1]  |
+| 12.  | Begindatum positie op de participatieladder  | [jjjjmmdd]  |
+| 13.  | Arbeidsvermogen  | [1]  |
+|  *Gegevens voorziening*   |
+| 14.  | Registratienummer voorziening  | [abcdefghijklmno]  |
+| 15.  | Type voorziening  | --- |
+| --- |  *Tijdelijke loonkostensubsidie*   |  *01*   |
+| --- |  *WIW/ID-baan*   |  *02*   |
+| --- |  *Participatieplaats*   |  *03*   |
+| --- |  *Loonkostensubsidie (Participatiewet)*   |  *04*   |
+| --- |  *Beschut werk*   |  *05*   |
+| --- |  *Begeleiding op werkkring/job-coach*   |  *06*   |
+| --- |  *Vervoersvoorziening (woon-werk)*   |  *07*   |
+| --- |  *Andere voorzieningen voor arbeidsbeperking*   |  *08*   |
+| --- |  *Overige*   |  *99*   |
+| 16.  | Begindatum voorziening  | [jjjjmmdd]  |
+| 17.  | Einddatum voorziening  | [jjjjmmdd]  |
+| 18.  | Reden inde voorziening  |  *Voorziening is volledig afgerond*   |
+| --- |  *Voorziening is voortijdig gestopt*   |  *2*   |
+| --- |  *Voorziening gestopt door verhuizen, overlijden, *   | --- |
+| --- |  * detentie of zwangerschap*   |  *3*   |
+|  *Gegevens loonkostensubsidie*   |
+| 19.  | Loonwaarde  | [123]  |
 
 ### Bijlage  3  
 

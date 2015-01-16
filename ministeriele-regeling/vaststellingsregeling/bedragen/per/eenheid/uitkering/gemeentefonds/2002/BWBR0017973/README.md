@@ -3,18 +3,21 @@
 ##Regeling van 28 januari 2005, nr. FO2005/0000008072, tot vaststelling van de bedragen per eenheid voor de uitkering uit het gemeentefonds over het uitkeringsjaar 2002
 
 De Minister van Binnenlandse Zaken en Koninkrijksrelaties, mede namens de Staatssecretaris van Financiën,
-Gelet op [artikel 9 van de Financiële-verhoudingswet](../../../../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md) en [artikel 6 van de Invoeringswet Financiële-verhoudingswet](../../../../../../../../../wet/invoeringswet/financiële-verhoudingswet/BWBR0008291/README.md);
+Gelet op artikel 9 van de Financiële-verhoudingswet en artikel 6 van de Invoeringswet Financiële-verhoudingswet;
 Besluit:
 
 ###Artikel 1 
+Materieel uitgewerkt per 13-02-2007 
 
-Voor het uitkeringsjaar 2002 worden de bedragen per eenheid, bedoeld in [artikel 9 van de Financiële-verhoudingswet](../../../../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), vastgesteld overeenkomstig bijlage 1 bij deze regeling.
+Voor het uitkeringsjaar 2002 worden de bedragen per eenheid, bedoeld in artikel 9 van de Financiële-verhoudingswet, vastgesteld overeenkomstig bijlage 1 bij deze regeling.
 
 ###Artikel 2 
+Materieel uitgewerkt per 13-02-2007 
 
-Voor het uitkeringsjaar 2002 worden de bedragen, bedoeld in [artikel 6 van de Invoeringswet Financiële-verhoudingswet](../../../../../../../../../wet/invoeringswet/financiële-verhoudingswet/BWBR0008291/README.md), vastgesteld overeenkomstig bijlage 2 bij deze regeling.
+Voor het uitkeringsjaar 2002 worden de bedragen, bedoeld in artikel 6 van de Invoeringswet Financiële-verhoudingswet, vastgesteld overeenkomstig bijlage 2 bij deze regeling.
 
 ###Artikel 3 
+Materieel uitgewerkt per 13-02-2007 
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
@@ -28,7 +31,8 @@ de
 waarnemend directeur Bestuurlijke en Financiële Organisatie,
 C.Riezebos
 
-###Bijlage  1 De bedragen per eenheid voor de uitkering uit het gemeentefonds, bedoeld in [artikel 9 van de Financiële-verhoudingswet](../../../../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), over het uitkeringsjaar 2002 
+###Bijlage  1 De bedragen per eenheid voor de uitkering uit het gemeentefonds, bedoeld in artikel 9 van de Financiële-verhoudingswet, over het uitkeringsjaar 2002 
+Materieel uitgewerkt per 13-02-2007 
 
 |Nr. |Maatstaven |Bedragen (euro’s) |
 |:---|:---|:---|
@@ -86,10 +90,11 @@ C.Riezebos
 |49 |Verfijningsuitkering omvangrijke opgave woningbouw |571,39 |
 |50 |Verfijningsuitkering wijziging gemeentelijke indeling, startbijdrage |5.713,86 |
 
-###Bijlage  2 De bedragen per eenheid voor de uitkering uit het gemeentefonds, bedoeld in [artikel 6, derde lid Financiële-verhoudingswet](../../../../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), over het uitkeringsjaar 2002 
+###Bijlage  2 De bedragen per eenheid voor de uitkering uit het gemeentefonds, bedoeld in artikel 6, derde lid Financiële-verhoudingswet, over het uitkeringsjaar 2002 
+Materieel uitgewerkt per 13-02-2007 
 
 |Omschrijving |Bedragen (euro’s) |
 |:---|:---|
-|De letter J, opgenomen in de formule in [artikel 2.7.4 van het Besluit verfijningen algemene uitkering 1984](../../../../../../../../../AMvB/besluit/verfijningen/algemene/uitkering/1984/BWBR0003674/README.md) |31.764,62 |
-|De letter D, opgenomen in de formule in [artikel 3.15.1 van het Besluit verfijningen algemene uitkering 1984](../../../../../../../../../AMvB/besluit/verfijningen/algemene/uitkering/1984/BWBR0003674/README.md) |36,76 |
+|De letter J, opgenomen in de formule in artikel 2.7.4 van het Besluit verfijningen algemene uitkering 1984 |31.764,62 |
+|De letter D, opgenomen in de formule in artikel 3.15.1 van het Besluit verfijningen algemene uitkering 1984 |36,76 |
 

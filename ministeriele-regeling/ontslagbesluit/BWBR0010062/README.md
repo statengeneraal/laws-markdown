@@ -19,7 +19,13 @@ a. Uitvoeringsinstituut werknemersverzekeringen: het Uitvoeringsinstituut werkne
 
 b. werkgever, werknemer en arbeidsverhouding: hetgeen daaronder wordt verstaan in artikel 1, onderdelen b tot en met d, van het Buitengewoon Besluit Arbeidsverhoudingen 1945;   
 
-c. Ontslagadviescommissie: de vertegenwoordigers van de voor de toepassing van artikel 6, vierde lid, van het Buitengewoon Besluit Arbeidsverhoudingen 1945 in aanmerking komende organisaties van werkgevers en werknemers, die de Stichting van de Arbeid als representatieve organisaties heeft aangewezen.   
+c. Ontslagadviescommissie: de vertegenwoordigers van de voor de toepassing van artikel 6, vierde lid, van het Buitengewoon Besluit Arbeidsverhoudingen 1945 in aanmerking komende organisaties van werkgevers en werknemers, die de Stichting van de Arbeid als representatieve organisaties heeft aangewezen;  
+
+d. payrollwerkgever: de werkgever, die op basis van een overeenkomst met een derde, welke niet tot stand is gekomen in het kader van het samenbrengen van vraag en aanbod op de arbeidsmarkt, een werknemer ter beschikking stelt om in opdracht en onder toezicht en leiding van die derde arbeid te verrichten, waarbij de werkgever, die de werknemer ter beschikking stelt, alleen met toestemming van die derde gerechtigd is de werknemer aan een ander ter beschikking te stellen;  
+
+e. payrollwerknemer: de werknemer, bedoeld in onderdeel d;  
+
+f. opdrachtgever: de derde, bedoeld in onderdeel d.  
 
 ### Artikel  1:3  
 
@@ -90,7 +96,7 @@ Het Uitvoeringsinstituut werknemersverzekeringen beoordeelt of het voorgenomen o
 
 1.  Voor zover het bij de te vervallen arbeidsplaatsen om uitwisselbare functies gaat, worden per leeftijdsgroep binnen een categorie uitwisselbare functies van de bedrijfsvestiging de werknemers met het kortste dienstverband het eerst voor ontslag in aanmerking gebracht, waarbij het aantal werknemers dat per leeftijdsgroep voor ontslag in aanmerking wordt gebracht voor zover mogelijk overeenkomt met de onderlinge verhouding van het aantal werknemers in elk van de leeftijdsgroepen binnen de betreffende categorie uitwisselbare functies. De in de eerste volzin bedoelde leeftijdsgroepen zijn de groepen van 15 tot 25 jaar, van 25 tot 35 jaar, van 35 tot 45 jaar, van 45 tot 55 jaar en van 55 jaar tot de in artikel 7, onderdeel a, van de Algemene Ouderdomswet genoemde leeftijd.   
 2.   Indien in de desbetreffende categorie uitwisselbare functies van de bedrijfsvestiging werknemers werkzaam zijn die de in artikel 7, onderdeel a, van de Algemene Ouderdomswet bedoelde leeftijd hebben bereikt, worden deze werknemers, alvorens het eerste lid wordt toegepast, het eerst voor ontslag in aanmerking gebracht. Van deze werknemers worden vervolgens de werknemers met het kortste dienstverband het eerst voor ontslag in aanmerking gebracht.  
-3.  In afwijking van het eerste en tweede lid is op een verzoek om toestemming tot opzegging van een arbeidsverhouding in de schoonmaaksector, bijlage A, van een uitzendovereenkomst als bedoeld in artikel 690 van Boek 7 van het Burgerlijk Wetboek, bijlage B, en van een arbeidsverhouding in de thuiszorg, de kraamzorg, de jeugdgezondheidszorg, met een verpleeg- of een verzorgingshuis, of in de gehandicaptenzorg of de jeugdzorg, bijlage C, bij deze regeling van toepassing.   
+3.  In afwijking van het eerste en tweede lid is op een verzoek om toestemming tot opzegging van een arbeidsverhouding in de schoonmaaksector, bijlage A, van een uitzendovereenkomst als bedoeld in artikel 690 van Boek 7 van het Burgerlijk Wetboek, bijlage B, en van een arbeidsverhouding in de thuiszorg, de kraamzorg, de jeugdgezondheidszorg, met een verpleeg- of een verzorgingshuis, of in de gehandicaptenzorg of de jeugdhulp, bijlage C, bij deze regeling van toepassing.   
 4.  Indien de werkgever aannemelijk maakt dat de vervanging van een werknemer die uit hoofde van zijn functie bij een derde te werk is gesteld om onder diens toezicht en leiding werkzaam te zijn, in redelijkheid niet kan worden geëffectueerd, kan het Uitvoeringsinstituut werknemersverzekeringen deze werknemer bij de toepassing van het eerste lid buiten beschouwing laten.   
 5.  Indien de werkgever aannemelijk maakt dat een werknemer over zodanige bijzondere kennis of bekwaamheden beschikt, dat zijn ontslag voor het functioneren van de onderneming te bezwaarlijk zou zijn, kan het Uitvoeringsinstituut werknemersverzekeringen deze werknemer bij de toepassing van het eerste en derde lid buiten beschouwing laten.   
 6.  Het Uitvoeringsinstituut werknemersverzekeringen kan toestemming weigeren ten aanzien van een werknemer die overeenkomstig het eerste en derde lid voor ontslag in aanmerking komt, indien deze werknemer een zwakke arbeidsmarktpositie heeft, en dit niet het geval is met de werknemer die alsdan voor ontslag in aanmerking komt.   
@@ -107,7 +113,7 @@ Het Uitvoeringsinstituut werknemersverzekeringen weigert toestemming voor opzegg
 
 a. die voor 29 december 2005 als arbeidsgehandicapte zijn aangemerkt op grond van de Wet op de (re)integratie arbeidsgehandicapten voor zolang aanspraak bestaat op voorzieningen op grond van die wet;  
 
-b. met een uitkering op grond van de Wet op de arbeidsongeschiktheidsverzekering, de Wet werk en inkomen naar arbeidsvermogen of de Wet arbeidsongeschiktheidsverzekering zelfstandigen of een uitkering of recht op arbeidsondersteuning op grond van de Wet werk en arbeidsondersteuning jonggehandicapten;  
+b. met een uitkering op grond van de Wet op de arbeidsongeschiktheidsverzekering, de Wet werk en inkomen naar arbeidsvermogen of de Wet arbeidsongeschiktheidsverzekering zelfstandigen of een uitkering of recht op arbeidsondersteuning op grond van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten;  
 
 c. waarvoor voorzieningen zijn getroffen tot behoud, herstel of ter bevordering van de mogelijkheid tot het verrichten van arbeid; of  
 
@@ -158,22 +164,17 @@ b.  aannemelijk heeft gemaakt dat hij redelijkerwijs niet de mogelijkheid heeft 
 
 ####Ontslag van een payrollwerknemer
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  6a:1  
-Treedt in werking per 01-01-2015 
 
 1.  Indien als gevolg van het beëindigen van een overeenkomst tussen een payrollwerkgever en een opdrachtgever door de payrollwerkgever toestemming voor opzegging van de arbeidsverhouding met een payrollwerknemer wordt gevraagd, wordt aan de hand van de omstandigheden bij de opdrachtgever bepaald of aan de voorwaarden voor het verlenen van toestemming is voldaan.   
 2.  Indien de regels voor het bepalen van de volgorde van opzegging bij het vervallen van arbeidsplaatsen bij de opdrachtgever afwijken van artikel 4:2, wordt bij de toepassing van het eerste lid uitgegaan van die regels.   
 3.  Als het eerste lid van toepassing is, is in afwijking van de artikelen 4.1, derde lid, en artikel 4.2, derde lid, Bijlage B niet van toepassing.  
 
 ### Artikel  6a.2  
-Treedt in werking per 01-01-2015 
 
 Indien het Uitvoeringsinstituut werknemersverzekeringen toestemming voor opzegging van de arbeidsverhouding met een payrollwerknemer verleent wegens redenen van bedrijfseconomische aard bij de opdrachtgever, verbindt hij hieraan de voorwaarde dat de opdrachtgever niet binnen 26 weken na de bekendmaking van die toestemming een werknemer in dienst zal nemen voor het verrichten van werkzaamheden van dezelfde aard, dan nadat hij de payrollwerknemer in de gelegenheid heeft gesteld zijn vroegere werkzaamheden op de bij de opdrachtgever gebruikelijke voorwaarden te hervatten, al dan niet door tussenkomst van de payrollwerkgever. 
 
 ### Artikel  6a.3  
-Treedt in werking per 01-01-2015 
 
 De artikelen 4.1, derde lid, 4.2, 4.5, 6a.1 en 6a.2 zijn niet van toepassing indien de overeenkomst tussen de payrollwerkgever en de opdrachtgever op initiatief van de payrollwerkgever wordt beëindigd, omdat de opdrachtgever de financiële verplichtingen die voortvloeien uit de overeenkomst gedurende een periode van ten minste drie maanden in het geheel niet is nagekomen en de payrollwerkgever in voldoende mate heeft getracht nakoming van de overeenkomst af te dwingen. 
 
@@ -242,7 +243,7 @@ de inleenopdrachten op grond waarvan bij andere inleenbedrijven per inleenbedrij
 
 ####ONTSLAGEN IN DE ZORG
 
-1. Gelet op de bijzondere situatie van de dienstverlening in de zorg wordt voor het bepalen van de ontslagvolgorde van werknemers die een arbeidsverhouding hebben met een werkgever in de thuiszorg, de kraamzorg, de jeugdgezondheidszorg, met een verpleeg- of verzorgingshuis, of in de gehandicaptenzorg of de jeugdzorg, bij de toepassing van artikel 4:2, eerste lid, niet uitgegaan van de bedrijfsvestiging van de werkgever maar van de gemeente waarbinnen werkzaamheden komen te vervallen, tenzij een werkgever: 
+1. Gelet op de bijzondere situatie van de dienstverlening in de zorg wordt voor het bepalen van de ontslagvolgorde van werknemers die een arbeidsverhouding hebben met een werkgever in de thuiszorg, de kraamzorg, de jeugdgezondheidszorg, met een verpleeg- of verzorgingshuis, of in de gehandicaptenzorg of de jeugdhulp, bij de toepassing van artikel 4:2, eerste lid, niet uitgegaan van de bedrijfsvestiging van de werkgever maar van de gemeente waarbinnen werkzaamheden komen te vervallen, tenzij een werkgever: 
 
 a. binnen de betreffende gemeente beschikt over meerdere bedrijfsvestigingen, in welk geval bij de toepassing van artikel 4:2, eerste lid, wordt uitgegaan van die bedrijfsvestigingen; of  
 

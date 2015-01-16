@@ -5,14 +5,16 @@
 De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties,  
 handelende in overeenstemming met de Minister van Financiën;
 
-Gelet op [artikel 9 van de Financiële-verhoudingswet](../../../../../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md);
+Gelet op artikel 9 van de Financiële-verhoudingswet;
 Stelt vast:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 11-09-2010 
 
-Voor het uitkeringsjaar 2007 worden de bedragen per eenheid voor de uitkering uit het provinciefonds, bedoeld in [artikel 9 van de Financiële-verhoudingswet](../../../../../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), vastgesteld overeenkomstig bijlage 1 bij deze regeling. 
+Voor het uitkeringsjaar 2007 worden de bedragen per eenheid voor de uitkering uit het provinciefonds, bedoeld in artikel 9 van de Financiële-verhoudingswet, vastgesteld overeenkomstig bijlage 1 bij deze regeling. 
 
 ### Artikel  2  
+Materieel uitgewerkt per 11-09-2010 
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
@@ -25,6 +27,8 @@ P.P.L. van Kalmthout
 ### Bijlage  1  
 
 ####De bedragen per eenheid voor de uitkering uit het provinciefonds over het uitkeringsjaar 2007
+
+Materieel uitgewerkt per 11-09-2010 
 
 | Nr.  | Verdeelmaatstaf  | Bedragen per eenheid  |
 |:---|:---|:---|

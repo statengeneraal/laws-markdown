@@ -5,7 +5,7 @@
 De Minister van Volksgezondheid, Welzijn en Sport,  
 Handelende in overeenstemming met de Ministers van Landbouw, Natuur en Voedselkwaliteit, en van Financiën;
 
-Gelet op [artikel 25, derde lid](../../../../../../../../wet/warenwet/BWBR0001969/README.md), en [artikel 25a, vierde lid, van de Warenwet](../../../../../../../../wet/warenwet/BWBR0001969/README.md);
+Gelet op artikel 25, derde lid, en artikel 25a, vierde lid, van de Warenwet;
 Besluit:    
 
 ### Artikel  1  
@@ -32,8 +32,8 @@ i.  *gemengde bedrijven*: een combinatie van onder g, h, of i bedoelde bedrijven
 
 ### Artikel  2  
 
-1.  Het toezicht op de naleving van de bij of krachtens de [Warenwet](../../../../../../../../wet/warenwet/BWBR0001969/README.md) gestelde regels inzake eet- en drinkwaren wordt uitgeoefend door controleambtenaren van de NVWA.   
-2.  Onverminderd het eerste lid wordt het toezicht op de naleving van de bij of krachtens de [Warenwet](../../../../../../../../wet/warenwet/BWBR0001969/README.md) gestelde regels inzake eet- en drinkwaren tevens uitgeoefend door: 
+1.  Het toezicht op de naleving van de bij of krachtens de Warenwet gestelde regels inzake eet- en drinkwaren wordt uitgeoefend door controleambtenaren van de NVWA.   
+2.  Onverminderd het eerste lid wordt het toezicht op de naleving van de bij of krachtens de Warenwet gestelde regels inzake eet- en drinkwaren tevens uitgeoefend door: 
 
 a.  controleurs van het COKZ bij uitsluitend zuivelinrichtingen en ei- en eiproducteninrichtingen;  
 

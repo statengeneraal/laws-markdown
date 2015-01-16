@@ -3,18 +3,21 @@
 ##Besluit van 7 juli 2006, nr. 2006- 0000227879, tot vaststelling van de bedragen per eenheid voor de uitkering uit het gemeentefonds over het uitkeringsjaar 2003
 
 De Minister van Binnenlandse Zaken en Koninkrijksrelaties, mede namens de Staatssecretaris van Financiën,  
-Gelet op [artikel 9 van de Financiële-verhoudingswet](../../../../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md) en [artikel 6 van de Invoeringswet Financiële-verhoudingswet](../../../../../../../../../wet/invoeringswet/financiële-verhoudingswet/BWBR0008291/README.md);
+Gelet op artikel 9 van de Financiële-verhoudingswet en artikel 6 van de Invoeringswet Financiële-verhoudingswet;
 Besluit:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 20-07-2008 
 
-Voor het uitkeringsjaar 2003 worden de bedragen per eenheid, bedoeld in [artikel 9 van de Financiële-verhoudingswet](../../../../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), vastgesteld overeenkomstig bijlage 1 bij dit besluit. 
+Voor het uitkeringsjaar 2003 worden de bedragen per eenheid, bedoeld in artikel 9 van de Financiële-verhoudingswet, vastgesteld overeenkomstig bijlage 1 bij dit besluit. 
 
 ### Artikel  2  
+Materieel uitgewerkt per 20-07-2008 
 
-Voor het uitkeringsjaar 2003 worden de bedragen, bedoeld in [artikel 6 van de Invoeringswet Financiële-verhoudingswet](../../../../../../../../../wet/invoeringswet/financiële-verhoudingswet/BWBR0008291/README.md), vastgesteld overeenkomstig bijlage 2 bij dit besluit. 
+Voor het uitkeringsjaar 2003 worden de bedragen, bedoeld in artikel 6 van de Invoeringswet Financiële-verhoudingswet, vastgesteld overeenkomstig bijlage 2 bij dit besluit. 
 
 ### Artikel  3  
+Materieel uitgewerkt per 20-07-2008 
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.  
@@ -25,8 +28,9 @@ Directeur Bestuurlijke en Financiële Organisatie,
 P.P.L. van Kalmthout    
 
 ### Bijlage 1  
+Materieel uitgewerkt per 20-07-2008 
 
-De bedragen per eenheid, bedoeld in [artikel 9 van de Financiële-verhoudingswet](../../../../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), over het uitkeringsjaar 2003 (bijlage bij artikel 1)  
+De bedragen per eenheid, bedoeld in artikel 9 van de Financiële-verhoudingswet, over het uitkeringsjaar 2003 (bijlage bij artikel 1)  
 
 |--- | Maatstaven  | Bedragen (euro’s)  |
 |:---|:---|:---|
@@ -85,10 +89,11 @@ De bedragen per eenheid, bedoeld in [artikel 9 van de Financiële-verhoudingswet
 | 46  | Omvangrijke opgave woningbouw  | 571,39  |
 
 ### Bijlage 2 
+Materieel uitgewerkt per 20-07-2008 
 
-De bedragen per eenheid, bedoeld in [artikel 6, derde lid, van de Invoeringswet Financiële-verhoudingswet](../../../../../../../../../wet/invoeringswet/financiële-verhoudingswet/BWBR0008291/README.md) over het uitkeringsjaar 2003 (bijlage bij artikel 2)  
+De bedragen per eenheid, bedoeld in artikel 6, derde lid, van de Invoeringswet Financiële-verhoudingswet over het uitkeringsjaar 2003 (bijlage bij artikel 2)  
 
 | Omschrijving  | Bedragen (euro’s)  |
 |:---|:---|
-| De letter D, opgenomen in de formule in [artikel 3.15.1 van het Besluit verfijningen algemene uitkering 1984](../../../../../../../../../AMvB/besluit/verfijningen/algemene/uitkering/1984/BWBR0003674/README.md)  | 36,76  |
+| De letter D, opgenomen in de formule in artikel 3.15.1 van het Besluit verfijningen algemene uitkering 1984  | 36,76  |
 

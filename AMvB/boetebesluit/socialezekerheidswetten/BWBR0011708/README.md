@@ -40,25 +40,23 @@ j.  *WAZ:* Wet arbeidsongeschiktheidsverzekering zelfstandigen;
 
 k.  *WW:* Werkloosheidswet;  
 
-l.  *WWB:* Wet werk en bijstand;  
+l.  *ZW:* Ziektewet;  
 
-m.  *ZW:* Ziektewet;  
+m.  *Wajong:* Wet arbeidsongeschiktheidsvoorziening jonggehandicapten;  
 
-n.  *Wet Wajong:* Wet werk en arbeidsondersteuning jonggehandicapten;  
+n.  *Wet WIA:* Wet werk en inkomen naar arbeidsvermogen;  
 
-o.  *Wet WIA:* Wet werk en inkomen naar arbeidsvermogen;  
+o.  *Wet SUWI:* Wet structuur uitvoeringsorganisatie werk en inkomen; 
 
-p.  *Wet SUWI:* Wet structuur uitvoeringsorganisatie werk en inkomen; 
+p.  *benadelingsbedrag:* hetgeen hieronder wordt verstaan in de artikelen, genoemd in onderdeel r;  
 
-q.  *benadelingsbedrag:* hetgeen hieronder wordt verstaan in de artikelen, genoemd in onderdeel r;  
+q.  *bestuurlijke boete:* de bestuurlijke boete, bedoeld in de artikelen 27a van de WW, 21, van de IOW, 45a van de ZW, 29a van de WAO, 48 van de WAZ, 2:69 en 3:40 van de Wajong, 14a van de TW, 17c van de AOW, 39 van de ANW, 17a van de AKW, 3:16 eerste lid, onderdeel o, en 3:27, eerste lid, onderdeel m, van de Wet arbeid en zorg, 91van de Wet WIA, 20a van de IOAW, 20a van de IOAZ, en 18a en 47g van de Participatiewet en 6b van de RW;  
 
-r.  *bestuurlijke boete:* de bestuurlijke boete, bedoeld in de artikelen 27a van de WW, 21, van de IOW, 45a van de ZW, 29a van de WAO, 48 van de WAZ, 2:69 en 3:40 van de Wet Wajong, 14a van de TW, 17c van de AOW, 39 van de ANW, 17a van de AKW, 3:16 eerste lid, onderdeel o, en 3:27, eerste lid, onderdeel m, van de Wet arbeid en zorg, 91van de Wet WIA, 20a van de IOAW, 20a van de IOAZ, en 18a, 47g van de WWB en 6b van de RW;  
+r.  *inlichtingenverplichting:* de verplichting, bedoeld in de artikelen 25 van de WW, 12, eerste lid, van de IOW, 31, eerste lid, en 49 van de ZW, 80 van de WAO, 70 van de WAZ, 2:7, eerste en zevende lid, en 3:74 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, 12 van de TW, 49 van de AOW, 35 van de ANW, 15 van de AKW, 3:16, eerste lid, onderdeel g, en 3:27, eerste lid, onderdeel f, van de Wet arbeid en zorg, 27 van de Wet WIA, 13, eerste lid, van de IOAW, 13, eerste lid, van de IOAZ, 17, eerste lid, van de Participatiewet, 30c, tweede en derde lid, van de Wet SUWI, en 5a van de RW;  
 
-s.  *inlichtingenverplichting:* de verplichting, bedoeld in de artikelen 25 van de WW, 12, eerste lid, van de IOW, 31, eerste lid, en 49 van de ZW, 80 van de WAO, 70 van de WAZ, 2:7, eerste en zevende lid, en 3:74 van de Wet Wajong, 12 van de TW, 49 van de AOW, 35 van de ANW, 15 van de AKW, 3:16, eerste lid, onderdeel g, en 3:27, eerste lid, onderdeel f, van de Wet arbeid en zorg, 27 van de Wet WIA, 13, eerste lid, van de IOAW, 13, eerste lid, van de IOAZ, 17, eerste lid, van de WWB, 30c, tweede en derde lid, van de Wet SUWI, en 5a van de RW;  
+s.  *werkgever:* de werkgever in de zin van de ZW;  
 
-t.  *werkgever:* de werkgever in de zin van de ZW;  
-
-u.  *werkgeversboete ZW/WAO:* de bestuurlijke boete, bedoeld in de artikelen 38, derde lid, 38a, achtste lid, en 63c van de ZW en artikel 71a, derde en vierde lid, van de WAO zoals dit artikel luidde voor 1 april 2002.   
+t.  *werkgeversboete ZW/WAO:* de bestuurlijke boete, bedoeld in de artikelen 38, derde lid, 38a, achtste lid, en 63c van de ZW en artikel 71a, derde en vierde lid, van de WAO zoals dit artikel luidde voor 1 april 2002.   
 
 ### Artikel  2  
 
@@ -146,7 +144,7 @@ De artikelen 2a en 2b, zoals die luidden op de dag voorafgaand aan de inwerkingt
 
 ####Grondslag
 
-Dit besluit is mede gebaseerd op de artikelen 20a, negende lid, van de IOAW, 20a, negende lid, van de IOAZ,18a, negende lid, en 47g, negende lid, van de WWB en 6b, zevende lid, van de RW. 
+Dit besluit is mede gebaseerd op de artikelen 20a, negende lid, van de IOAW, 20a, negende lid, van de IOAZ,18a, negende lid, en 47g, negende lid, van de Participatiewet en 6b, zevende lid, van de RW. 
 
 ### Artikel  7  
 

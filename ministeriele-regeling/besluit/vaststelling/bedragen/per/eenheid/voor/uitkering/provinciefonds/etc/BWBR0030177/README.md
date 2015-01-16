@@ -5,14 +5,16 @@
 De Minister van Binnenlandse Zaken en Koninkrijksrelaties,  
 Handelende in overeenstemming met de Staatssecretaris van Financiën;
 
-Gelet op [artikel 9 van de Financiële-verhoudingswet](../../../../../../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md);
+Gelet op artikel 9 van de Financiële-verhoudingswet;
 Besluit:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 02-07-2013 
 
-Voor het uitkeringsjaar 2010 worden de bedragen per eenheid voor de uitkering uit het provinciefonds, bedoeld in [artikel 9 van de Financiële-verhoudingswet](../../../../../../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), vastgesteld overeenkomstig bijlage 1 bij dit besluit. 
+Voor het uitkeringsjaar 2010 worden de bedragen per eenheid voor de uitkering uit het provinciefonds, bedoeld in artikel 9 van de Financiële-verhoudingswet, vastgesteld overeenkomstig bijlage 1 bij dit besluit. 
 
 ### Artikel  2  
+Materieel uitgewerkt per 02-07-2013 
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
@@ -22,8 +24,9 @@ de waarnemend directeur Openbaar Bestuur en Democratie,
 C.A.M.E. Mattijssen    
 
 ### Bijlage  1  
+Materieel uitgewerkt per 02-07-2013 
 
-De bedragen per eenheid, bedoeld in [artikel 9 van de Financiële-verhoudingswet](../../../../../../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), over het uitkeringsjaar 2010.  
+De bedragen per eenheid, bedoeld in artikel 9 van de Financiële-verhoudingswet, over het uitkeringsjaar 2010.  
 
 | nr  | Verdeelmaatstaf  | bedragen per eenheid  |
 |:---|:---|:---|

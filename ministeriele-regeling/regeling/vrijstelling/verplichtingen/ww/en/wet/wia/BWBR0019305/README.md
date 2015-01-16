@@ -30,7 +30,7 @@ In deze regeling wordt verstaan onder:
 
 *WW*: Werkloosheidswet;
 
-*Wet Wajong:* Wet werk en arbeidsondersteuning jonggehandicapten; 
+*Wajong:* de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten; 
 
 *IOW:* Wet inkomensvoorziening oudere werklozen;  
 
@@ -99,7 +99,7 @@ b. niet verklaard heeft vakantie te genieten, maar daar, gelet op de feitelijke 
 
 ####Vrijstelling Wajongers tijdens studie of scholing
 
-De artikelen 2:31, eerste lid, tweede lid, onderdelen b en c, en derde lid, 2:32 en 2:39, tweede, derde en vierde lid, van de Wet Wajong zijn niet van toepassing op de jonggehandicapte, bedoeld in artikel 2:43, eerste lid, van de Wet Wajong, tot twee maanden voor het beëindigen van de studie of scholing in verband waarmee hij inkomensondersteuning als bedoeld in artikel 2:37 ontvangt. 
+De artikelen 2:31, eerste lid, tweede lid, onderdelen b en c, en derde lid, 2:32 en 2:39, tweede, derde en vierde lid, van de Wajong zijn niet van toepassing op de jonggehandicapte, bedoeld in artikel 2:43, eerste lid, van de Wajong, tot twee maanden voor het beëindigen van de studie of scholing in verband waarmee hij inkomensondersteuning als bedoeld in artikel 2:37 ontvangt. 
 
 ### Artikel  7  
 

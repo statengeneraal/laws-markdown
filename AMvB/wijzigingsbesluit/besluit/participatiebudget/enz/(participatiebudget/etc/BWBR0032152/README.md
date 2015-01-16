@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Onderwijs, Cultuur en Wetenschap, van 11 april 2012, nr. WJZ/394752 (04901), directie Wetgeving en Juridische Zaken;
 
-Gelet op [artikel 2, vierde lid, van de Wet participatiebudget](../../../../../../../../wet/wet/participatiebudget/BWBR0025039/README.md), de [artikelen 2.2.1, eerste lid](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), en [2.3.4, derde lid, van de Wet educatie en beroepsonderwijs](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [artikel 2, tweede lid, onder e, van de Wet referentieniveaus Nederlandse taal en rekenen](../../../../../../../../wet/wet/referentieniveaus/nederlandse/taal/en/rekenen/BWBR0027679/README.md) en [artikel 60, vijfde lid, van de Wet op het voortgezet onderwijs](../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);
+Gelet op artikel 2, vierde lid, van de Wet participatiebudget, de artikelen 2.2.1, eerste lid, en 2.3.4, derde lid, van de Wet educatie en beroepsonderwijs, artikel 2, tweede lid, onder e, van de Wet referentieniveaus Nederlandse taal en rekenen en artikel 60, vijfde lid, van de Wet op het voortgezet onderwijs;
 
 De Afdeling advisering van de Raad van State gehoord (advies van 16 mei 2012, nr. W05.12.0116/I);
 
@@ -15,25 +15,25 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-####Wijziging [Besluit participatiebudget](../../../../../../../../AMvB/besluit/participatiebudget/BWBR0025044/README.md)
+####Wijziging Besluit participatiebudget
 
 Wijzigt het Besluit participatiebudget. 
 
 ### Artikel  II  
 
-####Wijziging [Uitvoeringsbesluit WEB](../../../../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md)
+####Wijziging Uitvoeringsbesluit WEB
 
 Wijzigt het Uitvoeringsbesluit WEB. 
 
 ### Artikel  III  
 
-####Wijziging [Besluit referentieniveaus Nederlandse taal en rekenen](../../../../../../../../AMvB/besluit/referentieniveaus/nederlandse/taal/en/rekenen/BWBR0027879/README.md)
+####Wijziging Besluit referentieniveaus Nederlandse taal en rekenen
 
 Wijzigt het Besluit referentieniveaus Nederlandse taal en rekenen. 
 
 ### Artikel  IV  
 
-####Wijziging [Staatsexamenbesluit Nederlands als tweede taal](../../../../../../../../AMvB/staatsexamenbesluit/nederlands/als/tweede/taal/BWBR0006192/README.md)
+####Wijziging Staatsexamenbesluit Nederlands als tweede taal
 
 Wijzigt het Staatsexamenbesluit Nederlands als tweede taal. 
 
@@ -41,13 +41,13 @@ Wijzigt het Staatsexamenbesluit Nederlands als tweede taal.
 
 ####Overgangsbepaling verdeelsleutel Minister van Onderwijs, Cultuur en Wetenschap 2009 tot en met 2012
 
-De [artikelen 1](../../../../../../../../AMvB/besluit/participatiebudget/BWBR0025044/README.md) en [3 van het Besluit participatiebudget](../../../../../../../../AMvB/besluit/participatiebudget/BWBR0025044/README.md) zoals luidend op 31 december 2012 blijven van toepassing op uitkeringen over de jaren 2009 tot en met 2012 en daarop betrekking hebbende geschillen. 
+De artikelen 1 en 3 van het Besluit participatiebudget zoals luidend op 31 december 2012 blijven van toepassing op uitkeringen over de jaren 2009 tot en met 2012 en daarop betrekking hebbende geschillen. 
 
 ### Artikel  VI  
 
 ####Overgangsbepaling examengeld staatsexamen Nederlands als tweede taal
 
-[Artikel 5, eerste lid, van het Staatsexamenbesluit Nederlands als tweede taal](../../../../../../../../AMvB/staatsexamenbesluit/nederlands/als/tweede/taal/BWBR0006192/README.md) zoals luidend voor de inwerkingtreding van artikel IV van dit besluit blijft van toepassing op examens en delen van examens die worden afgenomen voor 1 januari 2013. 
+Artikel 5, eerste lid, van het Staatsexamenbesluit Nederlands als tweede taal zoals luidend voor de inwerkingtreding van artikel IV van dit besluit blijft van toepassing op examens en delen van examens die worden afgenomen voor 1 januari 2013. 
 
 ### Artikel  VII  
 

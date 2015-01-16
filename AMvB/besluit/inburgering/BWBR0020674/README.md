@@ -102,21 +102,19 @@ c. zijn werkzaamheden als geestelijke bedienaar, bedoeld in artikel 3, eerste li
 
 a. het inburgeringsdiploma;  
 
-b. een op wettelijke basis uitgereikt diploma of getuigschrift van afronding van een opleiding van wetenschappelijk onderwijs, hoger beroepsonderwijs, algemeen voortgezet onderwijs, beroepsonderwijs of leerlingwezen, na onderwijs te hebben gevolgd in de Nederlandse taal;  
+b. een op wettelijke basis uitgereikt diploma of getuigschrift van afronding van een opleiding van wetenschappelijk onderwijs, hoger beroepsonderwijs, algemeen voortgezet onderwijs, of middelbaar beroepsonderwijs vanaf niveau 2, na onderwijs te hebben gevolgd in de Nederlandse taal;  
 
-c. een diploma staatsexamen Nederlands als tweede taal I of II als bedoeld in artikel 7.3.1, eerste lid, onderdeel c, van de Wet educatie en beroepsonderwijs;  
+c. een met een van de in onderdeel b genoemde diploma’s of getuigschriften vergelijkbaar diploma of ander document, behaald in het Nederlandstalig onderwijs in België, mits een voldoende is behaald voor het vak Nederlandse taal;  
 
-d. een met een van de in onderdeel b genoemde diploma’s of getuigschriften vergelijkbaar diploma of ander document, behaald in het Nederlandstalig onderwijs in België, mits een voldoende is behaald voor het vak Nederlandse taal;  
+d. een met een van de in onderdeel b genoemde diploma’s of getuigschriften vergelijkbaar diploma of ander document, behaald in het Nederlandstalig onderwijs in Suriname, mits een voldoende is behaald voor het vak Nederlandse taal;  
 
-e. een met een van de in onderdeel b genoemde diploma’s of getuigschriften vergelijkbaar diploma of ander document, behaald in het Nederlandstalig onderwijs in Suriname, mits een voldoende is behaald voor het vak Nederlandse taal;  
+e. een diploma, certificaat of ander document, behaald in het Nederlandstalig onderwijs in de openbare lichamen Bonaire, Sint Eustatius of Saba, of in Aruba, Curaçao of Sint Maarten, ten bewijze van afronding van een bij regeling van Onze Minister aangewezen opleiding, mits een voldoende behaald is voor het vak Nederlandse taal;  
 
-f. een diploma, certificaat of ander document, behaald in het Nederlandstalig onderwijs in de openbare lichamen Bonaire, Sint Eustatius of Saba, of in Aruba, Curaçao of Sint Maarten, ten bewijze van afronding van een bij regeling van Onze Minister aangewezen opleiding, mits een voldoende behaald is voor het vak Nederlandse taal;  
+f. het diploma van het Europees baccalaureaat van de Europese school, bedoeld in het Statuut van de Europese school (Trb. 1957, 246), voor zover dat baccalaureaat het vak Nederlands als eerste of tweede taal omvat en voor dat vak een voldoende is behaald;  
 
-g. het diploma van het Europees baccalaureaat van de Europese school, bedoeld in het Statuut van de Europese school (Trb. 1957, 246), voor zover dat baccalaureaat het vak Nederlands als eerste of tweede taal omvat en voor dat vak een voldoende is behaald;  
+g. het getuigschrift International Baccalaureate Middle Years Certificate, International General Certificate of Secondary Education of Internationaal Baccalaureaat, indien daartoe een cursus Engels-Nederlandstalig onderwijs of een cursus Internationaal Baccalaureaat met daarin het vak Nederlands is gevolgd en voor dat vak een voldoende is behaald;  
 
-h. het getuigschrift International Baccalaureate Middle Years Certificate, International General Certificate of Secondary Education of Internationaal Baccalaureaat, indien daartoe een cursus Engels-Nederlandstalig onderwijs of een cursus Internationaal Baccalaureaat met daarin het vak Nederlands is gevolgd en voor dat vak een voldoende is behaald;  
-
-i. het certificaat, bedoeld in artikel 13, tweede lid, van de Wet inburgering nieuwkomers alsmede de verklaring van het regionaal opleidingencentrum op grond waarvan dat certificaat is afgegeven, indien uit die verklaring blijkt dat ten minste de volgende niveaus zijn behaald: 
+h. het certificaat, bedoeld in artikel 13, tweede lid, van de Wet inburgering nieuwkomers alsmede de verklaring van het regionaal opleidingencentrum op grond waarvan dat certificaat is afgegeven, indien uit die verklaring blijkt dat ten minste de volgende niveaus zijn behaald: 
 
 1°. niveau 2 voor de onderdelen Luisteren, Spreken, Lezen en Schrijven, en  
 
@@ -126,11 +124,11 @@ i. het certificaat, bedoeld in artikel 13, tweede lid, van de Wet inburgering ni
 
 –een score van de MO-Profieltoets van ten minste: 85%, indien die toets is afgelegd voor 1 september 2001, respectievelijk 80%, indien die toets is afgelegd na 31 augustus 2001;    
 
-j. het certificaat, bedoeld in de Regeling certificaat inburgering oudkomers, indien uit de vermelding daarop blijkt dat ten minste het niveau NT2 2 voor de onderdelen Luisteren, Spreken, Lezen en Schrijven is behaald;  
+i. het certificaat, bedoeld in de Regeling certificaat inburgering oudkomers, indien uit de vermelding daarop blijkt dat ten minste het niveau NT2 2 voor de onderdelen Luisteren, Spreken, Lezen en Schrijven is behaald;  
 
-k. het document, bedoeld in artikel 2.7, tweede lid, zoals dat luidde voor het tijdstip van inwerkingtreding van het besluit van 25 september 2012 tot wijziging van het Besluit inburgering en enkele andere besluiten in verband met de versterking van de eigen verantwoordelijkheid van de inburgeringsplichtige (Stb. 2012, 432);  
+j. het document, bedoeld in artikel 2.7, tweede lid, zoals dat luidde voor het tijdstip van inwerkingtreding van het besluit van 25 september 2012 tot wijziging van het Besluit inburgering en enkele andere besluiten in verband met de versterking van de eigen verantwoordelijkheid van de inburgeringsplichtige (Stb. 2012, 432);  
 
-l. het inburgeringsdiploma, bedoeld in artikel 14, tweede lid, van de Wet inburgering zoals die wet luidde voor de inwerkingtreding van de wet van 13 september 2012 tot wijziging van de Wet inburgering en enkele andere wetten in verband met de versterking van de eigen verantwoordelijkheid van de inburgeringsplichtige (Stb. 2012, 430).     
+k. het inburgeringsdiploma, bedoeld in artikel 14, tweede lid, van de Wet inburgering zoals die wet luidde voor de inwerkingtreding van de wet van 13 september 2012 tot wijziging van de Wet inburgering en enkele andere wetten in verband met de versterking van de eigen verantwoordelijkheid van de inburgeringsplichtige (Stb. 2012, 430).     
 2.  Bij regeling van Onze Minister kan worden voorzien in vrijstelling van de inburgeringsplicht op grond van andere diploma’s, certificaten of documenten dan genoemd in het eerste lid.  
 
 ### Artikel  2.4  
@@ -522,7 +520,9 @@ e. het College voor examens, genoemd in artikel 2, eerste lid, van de Wet Colleg
 
 f. Onze Minister van Onderwijs, Cultuur en Wetenschap; 
 
-g. het Centraal Orgaan opvang asielzoekers.    
+g. het Centraal Orgaan opvang asielzoekers; 
+
+h. de door Onze Minister aangewezen organisaties die belast zijn met de uitvoering van een internationale diplomawaardering of een indicatie van het onderwijsniveau van een betrokkene ter ondersteuning van de in artikel 2.10, eerste lid, onderdeel b, bedoelde oriëntatie op de Nederlandse arbeidsmarkt.    
 2.  Onverminderd de gegevensverstrekking, bedoeld in artikel 47, tweede lid, van de wet aan Onze Minister, Onze Minister van Veiligheid en Justitie en de rijksbelastingdienst worden gegevens die zijn opgenomen in het Informatiesysteem Inburgering slechts ter beschikking gesteld aan: 
 
 a. Onze Minister van Onderwijs, Cultuur en Wetenschap;  
@@ -661,19 +661,19 @@ De inburgeringsplichtigen, bedoeld in het besluit van de Staatssecretaris van Ju
 
 – met de letter K: de bijdragevergoeding ten aanzien van de vaststelling van de gecombineerde inburgeringsvoorziening ten behoeve van inburgeringsplichtigen, bedoeld in artikel 19, tweede lid, onderdeel a, van de wet, zoals die luidde op 31 december 2008;  
 
-– met de letter L: het aantal in de letter B bedoelde inburgeringsplichtigen dat binnen twee jaren na het jaar waarop de prognose betrekking heeft, heeft deelgenomen aan het inburgeringsexamen of het examen, bedoeld in artikel 2.3, eerste lid, onderdeel c;  
+– met de letter L: het aantal in de letter B bedoelde inburgeringsplichtigen dat binnen twee jaren na het jaar waarop de prognose betrekking heeft, heeft deelgenomen aan het inburgeringsexamen of het examen, bedoeld in artikel 2.3, eerste lid, onderdeel c, zoals dit luidde op 31 december 2014;  
 
 – met de letter M: de bijdragevergoeding ten aanzien van de deelname aan een van de examens, bedoeld in letter L;  
 
-– met de letter N: het aantal in de letter D bedoelde inburgeringsplichtigen dat binnen twee jaren na het jaar waarop de prognose betrekking heeft, heeft deelgenomen aan het inburgeringsexamen of het examen, bedoeld in artikel 2.3, eerste lid, onderdeel c;  
+– met de letter N: het aantal in de letter D bedoelde inburgeringsplichtigen dat binnen twee jaren na het jaar waarop de prognose betrekking heeft, heeft deelgenomen aan het inburgeringsexamen of het examen, bedoeld in artikel 2.3, eerste lid, onderdeel c, zoals dit luidde op 31 december 2014;  
 
 – met de letter O: de bijdragevergoeding ten aanzien van de deelname aan een van de examens, bedoeld in letter N;  
 
-– met de letter R: het aantal in de letter H bedoelde inburgeringsplichtigen dat binnen twee jaren na het jaar waarop de prognose betrekking heeft, heeft deelgenomen aan het inburgeringsexamen of het examen, bedoeld in artikel 2.3, eerste lid, onderdeel c;  
+– met de letter R: het aantal in de letter H bedoelde inburgeringsplichtigen dat binnen twee jaren na het jaar waarop de prognose betrekking heeft, heeft deelgenomen aan het inburgeringsexamen of het examen, bedoeld in artikel 2.3, eerste lid, onderdeel c, zoals dit luidde op 31 december 2014;  
 
 – met de letter S: de bijdragevergoeding ten aanzien van de deelname aan een van de examens, bedoeld in letter R;  
 
-– met de letter T: het aantal in de letter J bedoelde inburgeringsplichtigen dat binnen twee jaren na het jaar waarop de prognose betrekking heeft, heeft deelgenomen aan het inburgeringsexamen of het examen, bedoeld in artikel 2.3, eerste lid, onderdeel c;  
+– met de letter T: het aantal in de letter J bedoelde inburgeringsplichtigen dat binnen twee jaren na het jaar waarop de prognose betrekking heeft, heeft deelgenomen aan het inburgeringsexamen of het examen, bedoeld in artikel 2.3, eerste lid, onderdeel c, zoals dit luidde op 31 december 2014;  
 
 – met de letter U: de bijdragevergoeding ten aanzien van de deelname aan een van de examens, bedoeld in letter T;  
 
@@ -722,9 +722,9 @@ De inburgeringsplichtigen, bedoeld in het besluit van de Staatssecretaris van Ju
 
 – met de letter H: de bijdragevergoeding ten aanzien van de vaststelling van een inburgeringsvoorziening voor een geestelijke bedienaar;  
 
-– met de letter I: het aantal geestelijke bedienaren dat in het jaar waarop het vaste en variabele deel van de rijksbijdrage betrekking hebben, heeft deelgenomen aan het inburgeringsexamen of het examen, bedoeld in artikel 2.3, eerste lid, onderdeel c;  
+– met de letter I: het aantal geestelijke bedienaren dat in het jaar waarop het vaste en variabele deel van de rijksbijdrage betrekking hebben, heeft deelgenomen aan het inburgeringsexamen of het examen, bedoeld in artikel 2.3, eerste lid, onderdeel c, zoals dit luidde op 31 december 2014;  
 
-– met de letter J: de bijdragevergoeding ten aanzien van de deelname door een geestelijke bedienaar aan het inburgeringsexamen of het examen, bedoeld in artikel 2.3, eerste lid, onderdeel c;  
+– met de letter J: de bijdragevergoeding ten aanzien van de deelname door een geestelijke bedienaar aan het inburgeringsexamen of het examen, bedoeld in artikel 2.3, eerste lid, onderdeel c, zoals dit luidde op 31 december 2014;  
 
 – met de letter K: het aantal geestelijke bedienaren dat in het jaar waarop het vaste en variabele deel van de rijksbijdrage betrekking hebben, heeft deelgenomen aan het aanvullend praktijkdeel van het inburgeringsexamen, bedoeld in artikel 3.8, eerste lid, zoals dat luidde voor het tijdstip van inwerkingtreding van het besluit van 25 september 2012 tot wijziging van het Besluit inburgering en enkele andere besluiten in verband met de versterking van de eigen verantwoordelijkheid van de inburgeringsplichtige (Stb. 2012, 432);  
 
@@ -795,7 +795,7 @@ De rijksbijdrage voor een gemeente ten behoeve van nieuwe inburgeringsplichtigen
 
 a.het aantal nieuwe inburgeringsplichtigen, ten behoeve van wie het college voor de eerste keer een inburgeringsvoorziening, een duale inburgeringsvoorziening of een taalkennisvoorziening als bedoeld in artikel 19, derde lid, van de wet, zoals die luidde voor de inwerkingtreding van de Wet participatiebudget heeft vastgesteld en aan wie geen lening is verstrekt, hetzij ten behoeve van wie die lening in zijn geheel is terugbetaald;
 
-b.het aantal in onderdeel a bedoelde nieuwe inburgeringsplichtigen dat binnen drie kalenderjaren nadat voor hen de inburgeringsvoorziening is vastgesteld, heeft deelgenomen aan het inburgeringsexamen of het examen, bedoeld in artikel 2.3, eerste lid, onderdeel c.
+b.het aantal in onderdeel a bedoelde nieuwe inburgeringsplichtigen dat binnen drie kalenderjaren nadat voor hen de inburgeringsvoorziening is vastgesteld, heeft deelgenomen aan het inburgeringsexamen of het examen, bedoeld in artikel 2.3, eerste lid, onderdeel c, zoals dit luidde op 31 december 2014.
 
 ###Artikel 7.15 
 
@@ -807,7 +807,7 @@ b.het aantal in onderdeel a bedoelde nieuwe inburgeringsplichtigen dat binnen dr
 
 –met de letter C: de bijdragevergoeding ten aanzien van de vaststelling van de inburgeringsvoorziening ten behoeve van nieuwe inburgeringsplichtigen;
 
-–met de letter D: het aantal in de letter B bedoelde nieuwe inburgeringsplichtigen dat binnen drie kalenderjaren nadat voor hen de inburgeringsvoorziening is vastgesteld, heeft deelgenomen aan het inburgeringsexamen of het examen, bedoeld in artikel 2.3, eerste lid, onderdeel c;
+–met de letter D: het aantal in de letter B bedoelde nieuwe inburgeringsplichtigen dat binnen drie kalenderjaren nadat voor hen de inburgeringsvoorziening is vastgesteld, heeft deelgenomen aan het inburgeringsexamen of het examen, bedoeld in artikel 2.3, eerste lid, onderdeel c, zoals dit luidde op 31 december 2014;
 
 –met de letter E: de bijdragevergoeding ten aanzien van de deelname aan een van de examens, bedoeld in letter D;
 
@@ -842,6 +842,14 @@ Vervallen per 01-01-2013
 ### Afdeling  1  
 
 ####Overgangsbepalingen
+
+### Artikel  9.1  
+
+Vrijgesteld van de inburgeringsplicht is degene die voor 1 januari 2015 inburgeringsplichtig is geworden en 
+
+a. beschikt over een diploma staatsexamen Nederlands als tweede taal I of II als bedoeld in artikel 7.3.1, eerste lid, onderdeel c, van de Wet educatie en beroepsonderwijs, of  
+
+b. in aanmerking zou zijn gekomen voor een vrijstelling van de inburgeringsplicht op grond van artikel 2.3, eerste lid, onderdeel b, zoals dit onderdeel luidde op 31 december 2014.   
 
 ### Artikel  9.3  
 

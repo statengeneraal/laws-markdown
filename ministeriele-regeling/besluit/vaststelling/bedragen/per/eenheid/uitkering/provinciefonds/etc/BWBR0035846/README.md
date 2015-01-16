@@ -9,12 +9,10 @@ Gelet op artikel 9 van de Financiële verhoudingswet;
 Besluit:    
 
 ### Artikel  1  
-Treedt in werking per 05-12-2014 
 
 Voor het uitkeringsjaar 2013 worden de bedragen per eenheid, bedoeld in artikel 9 van de Financiële-verhoudingswet, vastgesteld overeenkomstig bijlage 1. 
 
 ### Artikel  2  
-Treedt in werking per 05-12-2014 
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 
@@ -24,7 +22,6 @@ T. Livius
 Directeur Bestuur, Democratie en Financiën   
 
 ### Bijlage  1  
-Treedt in werking per 05-12-2014 
 
 De bedragen per eenheid, bedoeld in artikel 9 van de Financiële verhoudingswet, over het uitkeringsjaar 2013.  
 

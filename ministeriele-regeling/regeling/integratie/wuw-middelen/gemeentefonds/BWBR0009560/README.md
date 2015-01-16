@@ -3,12 +3,13 @@
 ##Regeling tot vaststelling van de aanpassingen van het bedrag per hectare land en binnenwater in verband met de herziening van het wegenbeheer
 
 De Staatssecretaris van Binnenlandse Zaken, mw. A.G.M. van de Vondervoort, en de Staatssecretaris van Financiën;  
-Gelet op [artikel 2, derde lid, van het Besluit integratie-uitkering WUW-middelen Gemeentefonds](../../../../../../AMvB/besluit/integratie-uitkering/wuw-middelen/gemeentefonds/BWBR0006567/README.md);
+Gelet op artikel 2, derde lid, van het Besluit integratie-uitkering WUW-middelen Gemeentefonds;
 Besluiten:     
 
 ### Artikel 1  
+Materieel uitgewerkt per 14-06-2000 
 
-De in [artikel 2, derde lid, van het Besluit integratie-uitkering WUW-middelen Gemeentefonds](../../../../../../AMvB/besluit/integratie-uitkering/wuw-middelen/gemeentefonds/BWBR0006567/README.md) bedoelde aanpassingen van het bedrag per hectare voor de maatstaf land vermenigvuldigd met de bodemfactor gemeente en het bedrag per hectare voor de maatstaf binnenwater bedragen voor beide maatstaven in de uitkeringsbasis: 
+De in artikel 2, derde lid, van het Besluit integratie-uitkering WUW-middelen Gemeentefonds bedoelde aanpassingen van het bedrag per hectare voor de maatstaf land vermenigvuldigd met de bodemfactor gemeente en het bedrag per hectare voor de maatstaf binnenwater bedragen voor beide maatstaven in de uitkeringsbasis: 
 
 | --- | --- | --- | --- |
 |---|---|---|---|
@@ -23,13 +24,15 @@ De in [artikel 2, derde lid, van het Besluit integratie-uitkering WUW-middelen G
 |2008  |€ 2,29 |2017  |€ 0,20 |
 |2009 |€ 0,69 |2018  |€ 0,41 |
 
-De bedoelde maatstaven zijn opgenomen in het [Besluit financiële verhouding 2001, bijlage 2, nummers 18 en 19](../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md).  
+De bedoelde maatstaven zijn opgenomen in het Besluit financiële verhouding 2001, bijlage 2, nummers 18 en 19.  
 
 ### Artikel 2  
+Materieel uitgewerkt per 14-06-2000 
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt met ingang van het uitkeringsjaar 1997.  
 
 ### Artikel 3  
+Materieel uitgewerkt per 14-06-2000 
 
 Deze regeling wordt aangehaald als: Regeling integratie WUW-middelen gemeentefonds. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
