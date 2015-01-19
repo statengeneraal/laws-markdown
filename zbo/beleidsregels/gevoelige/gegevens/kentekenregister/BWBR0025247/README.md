@@ -3,12 +3,12 @@
 ##Beleidsregels gevoelige gegevens kentekenregister
 
 De directie van de RDW (Dienst Wegverkeer),  
-Gelet op [artikel 42a, vierde lid van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en [artikel 7, tweede lid, van het Kentekenreglement](../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md) en [artikel 4:81 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);
+Gelet op artikel 42a, vierde lid van de Wegenverkeerswet 1994 en artikel 7, tweede lid, van het Kentekenreglement en artikel 4:81 van de Algemene wet bestuursrecht;
 Besluit:    
 
 ### Artikel  1  
 
-Als gevoelige gegevens, als bedoeld in [artikel 42a, eerste lid, onderdeel b, van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en [artikel 7, tweede lid, van het Kentekenreglement](../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md), worden de in de bijlage bij dit besluit genoemde gegevens uit het kentekenregister aangewezen. 
+Als gevoelige gegevens, als bedoeld in artikel 42a, eerste lid, onderdeel b, van de Wegenverkeerswet 1994 en artikel 7, tweede lid, van het Kentekenreglement, worden de in de bijlage bij dit besluit genoemde gegevens uit het kentekenregister aangewezen. 
 
 ### Artikel  2  
 
@@ -30,7 +30,7 @@ J.G. Hakkenberg
 
 ####: Gevoelige- en niet-gevoelige gegevens kentekenregister
 
-Als gevoelige gegevens conform het bepaalde in de [Wegenverkeerswet 1994, artikel 42a, vierde lid](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), en het [Kentekenreglement (KR), artikel 7, tweede lid, onderdeel a](../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md), zijn aangewezen: persoonsgegevens als bedoeld in [artikel 1, onderdeel a, van de Wet bescherming persoonsgegevens](../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) (Wbp); ([Wbp, art.1, a](../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md): Elk gegeven betreffende een geïdentificeerde of identificeerbare natuurlijke persoon)  
+Als gevoelige gegevens conform het bepaalde in de Wegenverkeerswet 1994, artikel 42a, vierde lid, en het Kentekenreglement (KR), artikel 7, tweede lid, onderdeel a, zijn aangewezen: persoonsgegevens als bedoeld in artikel 1, onderdeel a, van de Wet bescherming persoonsgegevens (Wbp); (Wbp, art.1, a: Elk gegeven betreffende een geïdentificeerde of identificeerbare natuurlijke persoon)  
 
 | --- | --- |
 |:---|:---|
@@ -184,7 +184,7 @@ Als gevoelige gegevens conform het bepaalde in de [Wegenverkeerswet 1994, artike
 | --- | LEGITIMATIENUMMER BY STATUS VOERTUIG  |
 | NATIONALITEIT  | NATIONALITEIT NATUURLYKE PERSOON  |
 
-[Kentekenreglement, artikel 7, tweede lid, onderdeel b](../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md): Gegevens waarvan de verstrekking een nadelig effect kan hebben op de concurrentiepositie van een onderneming, waaronder in elk geval worden verstaan voertuigidentificerende gegevens in combinatie met gegevens ten aanzien van rechtspersoon omtrent: 
+Kentekenreglement, artikel 7, tweede lid, onderdeel b: Gegevens waarvan de verstrekking een nadelig effect kan hebben op de concurrentiepositie van een onderneming, waaronder in elk geval worden verstaan voertuigidentificerende gegevens in combinatie met gegevens ten aanzien van rechtspersoon omtrent: 
 
 1°. naam, adres en vestigingsplaats;  
 
@@ -295,7 +295,7 @@ Als gevoelige gegevens conform het bepaalde in de [Wegenverkeerswet 1994, artike
 | --- | BETALINGSFREQUENTIE KENTEKEN HANDLAAR  |
 | --- | STATUS IMPORTEUR  |
 
-[Kentekenreglement, artikel 7, tweede lid, onderdeel c](../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md): gegevens waarvan de verstrekking het risico van handelen in strijd met een wettelijk voorschrift met zich brengt waaronder in elk geval worden verstaan gegevens omtrent: 
+Kentekenreglement, artikel 7, tweede lid, onderdeel c: gegevens waarvan de verstrekking het risico van handelen in strijd met een wettelijk voorschrift met zich brengt waaronder in elk geval worden verstaan gegevens omtrent: 
 
 1°. identificatie en registratie van een voertuig;  
 

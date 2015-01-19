@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 9 december 2007, nr. DJZ2007004723, Directie Juridische Zaken, Afdeling Wetgeving, houdende wijziging van de Regeling tarieven Kadaster (aanpassing bestaande tarieven)
 
 De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,  
-Gelet op de [artikelen 108, eerste lid](../../../../../../../../../wet/kadasterwet/BWBR0004541/README.md), en [109 van de Kadasterwet](../../../../../../../../../wet/kadasterwet/BWBR0004541/README.md);
+Gelet op de artikelen 108, eerste lid, en 109 van de Kadasterwet;
 Besluit:    
 
 ### Artikel  I  

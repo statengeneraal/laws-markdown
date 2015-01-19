@@ -159,9 +159,9 @@ f. tijdens de cursus op andere wijze het groepsproces verstoort.
 
 1.  De ten laste van betrokkene komende kosten verbonden aan het opleggen van de lichte educatieve maatregel alcohol en verkeer worden onderscheiden in: 
 
-a. kosten van het opleggen van de maatregel, die € 318,– bedragen en  
+a. kosten van het opleggen van de maatregel, die € 330,– bedragen en  
 
-b. kosten van de uitvoering van de maatregel, die € 208,– bedragen.     
+b. kosten van de uitvoering van de maatregel, die € 216,– bedragen.     
 2.  Alle in het eerste lid bedoelde kosten worden betaald binnen vijf weken nadat het besluit tot oplegging van de lichte educatieve maatregel alcohol en verkeer aan betrokkene bekend is gemaakt, op de wijze zoals aangegeven bij die bekendmaking.   
 3.  De in het tweede lid bedoelde termijn kan niet worden verlengd.  
 
@@ -210,9 +210,9 @@ h. dat het bij de politie bekend is dat hij regelmatig drogerende stoffen gebrui
 
 1.  De ten laste van betrokkene komende kosten verbonden aan het opleggen van de educatieve maatregel alcohol en verkeer worden onderscheiden in: 
 
-a. kosten met betrekking tot het opleggen van de maatregel, die € 318,– bedragen en  
+a. kosten met betrekking tot het opleggen van de maatregel, die € 330,– bedragen en  
 
-b. kosten met betrekking tot de uitvoering van de maatregel, die € 522,– bedragen.     
+b. kosten met betrekking tot de uitvoering van de maatregel, die € 540,– bedragen.     
 2.  Alle in het eerste lid bedoelde kosten worden betaald binnen tien weken nadat het besluit tot oplegging van de educatieve maatregel aan betrokkene bekend is gemaakt, op de wijze zoals aangegeven bij die bekendmaking.   
 3.  Indien betrokkene zich in een dusdanig financiële situatie bevindt dat betaling binnen de termijn redelijkerwijs niet mogelijk is, kan voor de kosten, bedoeld in het eerste lid, onderdeel b, de in het tweede lid genoemde termijn worden verlengd.  
 
@@ -258,9 +258,9 @@ g. dat het bij de politie bekend is dat hij regelmatig drogerende stoffen gebrui
 
 1.  De ten laste van betrokkene komende kosten verbonden aan het opleggen van de educatieve maatregel gedrag en verkeer worden onderscheiden in: 
 
-a. kosten met betrekking tot het opleggen van de maatregel, die € 318,– bedragen en  
+a. kosten met betrekking tot het opleggen van de maatregel, die € 330,– bedragen en  
 
-b. kosten met betrekking tot de uitvoering van de maatregel, die € 684,– bedragen.     
+b. kosten met betrekking tot de uitvoering van de maatregel, die € 708,– bedragen.     
 2.  Artikel 13, tweede en derde lid, is van overeenkomstige toepassing.  
 
 ### §  6  
@@ -410,11 +410,11 @@ p. indien tijdens het alcoholslotprogramma is gebleken dat voor de tweede keer b
 
 1.  De ten laste van betrokkene komende kosten verbonden aan het opleggen van het alcoholslotprogramma, voor zover niet betrekking hebbend op de kosten van het huren of kopen, de inbouw, het uitlezen, het testen, het kalibreren, het onderhoud en de uitbouw van het typegoedgekeurde alcoholslot worden onderscheiden in: 
 
-a. kosten met betrekking tot het opleggen van het alcoholslotprogramma, die € 318,– bedragen;  
+a. kosten met betrekking tot het opleggen van het alcoholslotprogramma, die € 330,– bedragen;  
 
-b. kosten met betrekking tot de uitvoering van het alcoholslotprogramma voor de in artikel 132c, vierde lid, van de wet bedoelde periode, die € 760,– bedragen;  
+b. kosten met betrekking tot de uitvoering van het alcoholslotprogramma voor de in artikel 132c, vierde lid, van de wet bedoelde periode, die € 790,– bedragen;  
 
-c. kosten met betrekking tot de uitvoering van het alcoholslotprogramma voor de in artikel 132d, tweede of vierde lid, van de wet bedoelde verlenging, die per verlenging € 170,– bedragen;  
+c. kosten met betrekking tot de uitvoering van het alcoholslotprogramma voor de in artikel 132d, tweede of vierde lid, van de wet bedoelde verlenging, die per verlenging € 177,– bedragen;  
 
 d. kosten verbonden aan het in stand houden van het alcoholslotregister, welke kostenbij of krachtens de Wegenverkeerswet 1994zijn vastgesteld.     
 2.  De kosten, bedoeld in het eerste lid, worden betaald in termijnen op de wijze zoals door het CBR aangegeven bij het besluit, bedoeld in artikel 132c, eerste lid, van de wet, dan wel bij het besluit, bedoeld in artikel 132d, tweede of vierde lid, van de wet.   
@@ -485,17 +485,17 @@ a. in de in artikel 23, eerste lid, bedoelde gevallen, en
 b. in de in artikel 23, derde lid, onderdeel a, bedoelde gevallen, voor zover het de gevallen betreft, bedoeld in bijlage 1, onder B, onderdeel III, Andere drogerende stoffen.     
 2.  De in het eerste lid bedoelde kosten worden onderscheiden in: 
 
-a. kosten met betrekking tot het opleggen van het onderzoek, die € 318,– bedragen;  
+a. kosten met betrekking tot het opleggen van het onderzoek, die € 330,– bedragen;  
 
-b. kosten met betrekking tot de uitvoering van die maatregel, die € 702,– bedragen.     
+b. kosten met betrekking tot de uitvoering van die maatregel, die € 726,– bedragen.     
 3.  Artikel 13, tweede en derde lid, is van overeenkomstige toepassing.   
-4.  Indien betrokkene niet of niet binnen de door het CBR gestelde termijn heeft meegewerkt aan het opgelegde onderzoek of de opgelegde onderzoeken zonder dat daarvoor naar het oordeel van het CBR een geldige reden voor de verhindering is opgegeven, bedragen de kosten van uitvoering € 500,–. Het verschil tussen het bedrag, genoemd in het tweede lid, onderdeel b, en het in dit lid bedoelde bedrag wordt door het CBR terugbetaald aan degene die het in het tweede lid, onderdeel b, genoemde bedrag heeft betaald. 
+4.  Indien betrokkene niet of niet binnen de door het CBR gestelde termijn heeft meegewerkt aan het opgelegde onderzoek of de opgelegde onderzoeken zonder dat daarvoor naar het oordeel van het CBR een geldige reden voor de verhindering is opgegeven, bedragen de kosten van uitvoering € 517,–. Het verschil tussen het bedrag, genoemd in het tweede lid, onderdeel b, en het in dit lid bedoelde bedrag wordt door het CBR terugbetaald aan degene die het in het tweede lid, onderdeel b, genoemde bedrag heeft betaald. 
 
 ### Artikel  26  
 
-1.  De kosten van het tweede onderzoek, bedoeld in artikel 134, derde lid, van de wet bedragen € 653,–’.   
+1.  De kosten van het tweede onderzoek, bedoeld in artikel 134, derde lid, van de wet bedragen € 675,–’.   
 2.  De kosten van het tweede onderzoek worden betaald binnen twee weken na de mededeling van het CBR, bedoeld in artikel 134, derde lid, van de wet, op de wijze zoals bij die mededeling is aangegeven. Deze termijn wordt niet verlengd.   
-3.  Indien betrokkene niet of niet binnen de door het CBR gestelde termijn heeft meegewerkt aan het tweede onderzoek zonder dat daarvoor naar het oordeel van het CBR een geldige reden van verhindering is opgegeven, bedragen de kosten van uitvoering € 500,–. Het verschil tussen het bedrag, bedoeld in het eerste lid, en het in dit lid genoemde bedrag wordt door het CBR terugbetaald aan degene die het in het eerste lid genoemde bedrag heeft betaald. 
+3.  Indien betrokkene niet of niet binnen de door het CBR gestelde termijn heeft meegewerkt aan het tweede onderzoek zonder dat daarvoor naar het oordeel van het CBR een geldige reden van verhindering is opgegeven, bedragen de kosten van uitvoering € 517,–. Het verschil tussen het bedrag, bedoeld in het eerste lid, en het in dit lid genoemde bedrag wordt door het CBR terugbetaald aan degene die het in het eerste lid genoemde bedrag heeft betaald. 
 
 ### §  8  
 

@@ -3,13 +3,13 @@
 ##Regeling afdracht vergoeding afgifte rijbewijzen
 
 De Minister van Verkeer en Water-staat,  
-Gelet op [artikel 121, eerste lid, van de Wegenverkeerswet 1994](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);
+Gelet op artikel 121, eerste lid, van de Wegenverkeerswet 1994;
 Besluit:     
 
 ###Artikel  1  
 
-1. De in [artikel 121, eerste lid, van de Wegenverkeerswet 1994](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) bedoelde vergoeding bedraagt € 9,70.   
-2.  De in [artikel 121, eerste lid, van de Wegenverkeerswet 1994](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) bedoelde vergoeding bedraagt voor spoedaanvragen € 43,80. 
+1. De in artikel 121, eerste lid, van de Wegenverkeerswet 1994 bedoelde vergoeding bedraagt € 9,70.   
+2.  De in artikel 121, eerste lid, van de Wegenverkeerswet 1994 bedoelde vergoeding bedraagt voor spoedaanvragen € 43,80. 
 
 ###Artikel  2  
 

@@ -10,15 +10,17 @@ Le Royaume des Pays-Bas d'une part et la Principauté de Monaco d'autre part, ci
 
 ####Définitions générales
 
+Wordt voorlopig toegepast per 01-01-2015 
+
 1.   Aux fins du présent Accord: 
 
 a) le terme «territoire» désigne: pour le Royaume des Pays-Bas le territoire du Royaume situé en Europe et pour la Principauté de Monaco son territoire;  
 
 b) le terme «législation» désigne la législation qui concerne les branches de la sécurité sociale visées à l'article 2;   
 
-c) l'expression «autorité compétente» désigne: en ce qui concerne le Royaume des Pays-Bas, le Ministre des Affaires sociales et de l'Emploi des Pays-Bas; en ce qui concerne la Principauté de Monaco, le Conseiller de Gouvernement pour les Travaux Publics et les Affaires Sociales;  
+c) l'expression «autorité compétente» désigne: en ce qui concerne le Royaume des Pays-Bas, le Ministre des Affaires sociales et de l'Emploi des Pays-Bas; en ce qui concerne la Principauté de Monaco, le Conseiller de Gouvernement pour les Affaires Sociales et la Santé;  
 
-d) l'expression «institution compétente» désigne: en ce qui concerne le Royaume des Pays-Bas: le «Landelijk instituut sociale verzekeringen» (Institut national pour les assurances sociales) pour ce qui est de l'application des branches de sécurité sociale visées à l'article 2 sous a), b) et c) et par délégation le «Gak Nederland bv» ou tout autre organisme autorisé à remplir les fonctions exercées actuellement par ladite institution compétente, et la «Sociale Verzekeringsbank» (Banques des Assurances sociales) pour ce qui est des branches de la sécurité sociale visées à l'article 2 sous d), e) et f) ; en ce qui concerne la Principauté de Monaco: le Département des Travaux Publics et des Affaires Sociales;  
+d) l'expression «institution compétente» désigne: en ce qui concerne le Royaume des Pays-Bas: le «Landelijk instituut sociale verzekeringen» (Institut national pour les assurances sociales) pour ce qui est de l'application des branches de sécurité sociale visées à l'article 2 sous a), b) et c) et par délégation le «Gak Nederland bv» ou tout autre organisme autorisé à remplir les fonctions exercées actuellement par ladite institution compétente, et la «Sociale Verzekeringsbank» (Banques des Assurances sociales) pour ce qui est des branches de la sécurité sociale visées à l’article 2 sous d) et e) ; en ce qui concerne la Principauté de Monaco: le Département des Affaires Sociales et de la Santé;  
 
 e) le terme «organisme de sécurité sociale» désigne: la Caisse de Compensation des Services Sociaux, la Caisse Autonome des Retraites, la Caisse d'Assurance Accident, Maladie et Maternité des Travailleurs Indépendants, la Caisse Autonome des Retraites des Travailleurs Indépendants;  
 
@@ -33,6 +35,8 @@ h) l'expression «membre de la famille» désigne toute personne définie ou adm
 
 ####Champ d'application matériel
 
+Wordt voorlopig toegepast per 01-01-2015 
+
 Le présent Accord s'applique à la législation néerlandaise relative aux branches d'assurances sociales suivantes: 
 
 a) les prestations de maladie et de maternité;  
@@ -43,9 +47,7 @@ c) les prestations d'invalidité pour travailleurs indépendants;
 
 d) les prestations de vieillesse;  
 
-e) les prestations de survivants;  
-
-f) les prestations familiales.   
+e) les prestations de survivants.   
 
 ### Article  3  
 

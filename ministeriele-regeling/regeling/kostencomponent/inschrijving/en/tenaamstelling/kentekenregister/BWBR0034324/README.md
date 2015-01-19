@@ -3,12 +3,12 @@
 ##Regeling van de Minister van Infrastructuur en Milieu, van 21 november 2013 nr. IENM/BSK-2013/267996 tot vaststelling van het bedrag voor de aanvraag van een inschrijving en tenaamstelling in het kentekenregister (Regeling kostencomponent inschrijving en tenaamstelling kentekenregister)
 
 De Minister van Infrastructuur en Milieu,  
-Gelet op [artikel 4q, tweede lid, van de Wegenverkeerswet 1994](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);
+Gelet op artikel 4q, tweede lid, van de Wegenverkeerswet 1994;
 Besluit:    
 
 ### Artikel  1  
 
-1.  Het in [artikel 4q, tweede lid, van de Wegenverkeerswet 1994](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) bedoelde bedrag bedraagt: 
+1.  Het in artikel 4q, tweede lid, van de Wegenverkeerswet 1994 bedoelde bedrag bedraagt: 
 
 a. € 20,72 voor de inschrijving in het kentekenregister;  
 
@@ -17,7 +17,7 @@ b. € 2,63 voor de tenaamstelling in het kentekenregister.
 
 ### Artikel  2  
 
-De [Regeling kostencomponent tarief deel I kentekenbewijs](../../../../../../../../ministeriele-regeling/regeling/kostencomponent/tarief/deel/i/kentekenbewijs/BWBR0008373/README.md) wordt ingetrokken. 
+De Regeling kostencomponent tarief deel I kentekenbewijs wordt ingetrokken. 
 
 ### Artikel  3  
 

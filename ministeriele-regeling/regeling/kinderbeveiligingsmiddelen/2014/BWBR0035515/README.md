@@ -7,7 +7,6 @@ Gelet op Uitvoeringsrichtlijn 2014/37/EU van de Commissie van 27 februari 2014 
 Besluit:    
 
 ### Artikel  1  
-Treedt in werking per 20-09-2014 
 
 In deze regeling wordt verstaan onder: 
 
@@ -20,7 +19,6 @@ In deze regeling wordt verstaan onder:
 –  *Verordening (EG) nr. 661/2009:* verordening (EG) nr. 661/2009 van het Europees Parlement en de Raad van 13 juli 2009 betreffende typegoedkeuringsvoorschriften voor de algemene veiligheid van motorvoertuigen, aanhangwagens daarvan en daarvoor bestemde systemen, onderdelen en technische eenheden.   
 
 ### Artikel  2  
-Treedt in werking per 20-09-2014 
 
 Een kinderbeveiligingssysteem is geschikt als bedoeld in artikel 59, eerste lid, van het RVV 1990, indien het is voorzien van een keurmerk dat overeenkomt met het merk dat in de bijlage als model 1 of 2 is weergegeven en dat daarop is aangebracht nadat het systeem is goedgekeurd overeenkomstig: 
 
@@ -30,26 +28,22 @@ ii) VN-reglement nr.129,
 
 iii)  Richtlijn 77/541/EEG, of 
 
-iiii)dit onderdeel is nog niet in werking getreden.  of een latere aanpassing daarvan. 
+iiii) Verordening (EG) nr. 661/2009  of een latere aanpassing daarvan. 
 
 ### Artikel  3  
-Treedt in werking per 20-09-2014 
 
 1.  Met de in deze regeling vastgestelde technische normen of technische eisen worden gelijkgesteld daaraan gelijkwaardige technische normen of technische eisen, vastgesteld door of vanwege een andere lidstaat van de Europese Unie dan wel door of vanwege een andere staat die partij is bij de Overeenkomst inzake de Europese Economische Ruimte.   
 2.  Met de in deze regeling geëiste keuring of keurmerk worden gelijkgesteld daaraan gelijkwaardige keuringen of keurmerken, geëist door of vanwege een andere lidstaat van de Europese Unie dan wel door of vanwege een andere staat die partij is bij de Overeenkomst inzake de Europese Economische Ruimte.  
 
 ### Artikel  4  
-Treedt in werking per 20-09-2014 
 
 De Regeling kinderbeveiligingsmiddelen wordt ingetrokken. 
 
 ### Artikel  5  
-Treedt in werking per 20-09-2014 
 
 Deze regeling treedt in werking met ingang van 20 september 2014, met uitzondering van artikel 2 onderdeel iiii, dat in werking treedt met ingang van 1 november 2014. 
 
 ### Artikel  6  
-Treedt in werking per 20-09-2014 
 
 Deze regeling wordt aangehaald als: Regeling kinderbeveiligingsmiddelen 2014. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
@@ -59,7 +53,6 @@ Minister van Infrastructuur en Milieu,
 M.H. Schultz van Haegen-Maas Geesteranus    
 
 ### Bijlage  
-Treedt in werking per 20-09-2014 
 
 ### Model  1  
 

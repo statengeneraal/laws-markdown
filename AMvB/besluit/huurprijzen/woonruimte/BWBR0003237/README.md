@@ -138,18 +138,18 @@ J. de Ruiter
 | per verwarmd vertrek  | 2 punten  | --- |
 | per overige ruimte  | 1 punt *  | --- |
 | --- | --- | --- |
-| 4. Energieprestatie overeenkomend met:  | Eengezinswoning  |Meergezinswoning** |
-|label A++ |44 |40 |
-|label A+ |40 |36 |
-|label A |36 |32 |
-|label B |32 |28 |
-|label C |22 |15 |
-|label D |14 |11 |
-|label E | 8 | 5 |
-|label F | 4 | 1 |
-|label G | 0 | 0 |
+| 4. Energieprestatie overeenkomend met de volgende Energie-index (EI):  | Eengezinswoning  |Meergezinswoning** |
+|EI < 0,6  |44 |40 |
+|0,6 < EI ≤ 0,8  |40 |36 |
+|0,8 < EI ≤ 1,2  |36 |32 |
+|1,2 < EI ≤ 1,4  |32 |28 |
+|1,4 < EI ≤ 1,8  |22 |15 |
+|1,8 < EI ≤ 2,1  |14 |11 |
+|2,1 < EI ≤ 2,4  | 8 | 5 |
+|2,4 < EI ≤ 2,7  | 4 | 1 |
+|EI > 2,7  | 0 | 0 |
 | --- | --- | --- |
-|Daar waar het energieprestatiecertificaat ontbreekt wordt de energieprestatie in afwijking van vorenstaande tabel bepaald aan de hand van de volgende tabel: | --- | --- |
+|De energie-index is een cijfer dat het energiegebruik aangeeft op basis van de hoeveelheid energie die nodig wordt geacht voor de verschillende behoeften die verband houden met een gestandaardiseerd gebruik van een gebouw.  De in de tabel opgenomen energie-index wordt vastgesteld volgens de voorschriften, bedoeld in de door het Centraal College van Deskundigen van de Stichting Kwaliteit voor Installaties Nederland vastgestelde Nationale Beoordelingsrichtlijn 9500, delen 00 en 01, zoals vastgesteld op 31 augustus 2011, inclusief het wijzigingsblad, zoals vastgesteld op 5 juni 2014, waarbij wordt uitgegaan van de forfaitaire waarde voor de Energiebesparende maatregel op gebiedsniveau.  De eerste tabel van rubriek 4 zoals deze luidde op 31 december 2014 blijft van toepassing bij de waardering van de energieprestatie van woningen waarvoor op uiterlijk die datum een energielabel is afgegeven op grond van de Regeling energieprestatie gebouwen zoals deze luidde op het tijdstip van afgifte van dat energielabel, en de geldigheidsduur van dat energielabel nog niet is verstreken.  Daar waar geen energie-index volgens bovenstaande methode is bepaald, wordt de waardering van de energieprestatie in afwijking van vorenstaande tabel bepaald aan de hand van de volgende tabel: | --- | --- |
 | --- | --- | --- |
 |Bouwjaarklasse |Eensgezinswoning |Meergezinswoning** |
 |2002 en later |36 punten |32 punten |
@@ -247,7 +247,7 @@ Per verwarmd vertrek wordt, ongeacht de verwarmingswijze, een waardering van twe
 
 ####Energieprestatie
 
-De huurcommissie stelt de energieprestatie in beginsel vast aan de hand van een op grond van artikel 120 van de Woningwet en het Besluit energieprestatie gebouwen voor de woning afgegeven energieprestatiecertificaat. De huurcommissie kan afwijken van de aangegeven puntenwaardering voor de energieprestatie horend bij A+ en A++. Een dergelijke afwijking is uitsluitend mogelijk indien de gemaakte kosten om deze energieprestatie te bereiken, aanmerkelijk afwijken van hetgeen als gangbaar wordt beschouwd, of indien de energieprestatie aanmerkelijk beter is dan hetgeen als gangbaar bij A++ wordt beschouwd. Daar waar een energieprestatiecertificaat ontbreekt, wordt volstaan met de waardering van de energieprestatie die een woning geacht wordt minimaal te realiseren op grond van de in het bouwjaar vigerende bouwnormen. Daardoor leidt het niet aanwezig zijn van een energieprestatiecertificaat tot een lager aantal punten dan wanneer zo’n certificaat wel is verstrekt. Immers, het waarderen van de energieprestatie uitgaande van het bouwjaar van de woning houdt geen rekening met het feit dat de energieprestatie van veel woningen door het treffen van energiebesparende voorzieningen in de loop der tijd verbetert. Die verbeteringen komen in een energieprestatiecertificaat wel tot uitdrukking. 
+De huurcommissie kan afwijken van de aangegeven puntenwaardering voor de energieprestatie horend bij een energie-index ≤ 0,8. Een dergelijke afwijking is uitsluitend mogelijk indien de gemaakte kosten om deze energieprestatie te bereiken, aanmerkelijk afwijken van hetgeen als gangbaar wordt beschouwd, of indien de energieprestatie aanmerkelijk beter is dan hetgeen als gangbaar bij een energie-index ≤ 0,8 wordt beschouwd. Daar waar een energie-index ontbreekt, wordt volstaan met de waardering van de energieprestatie die een woning geacht wordt minimaal te realiseren op grond van de in het bouwjaar vigerende bouwnormen. Daardoor leidt het niet aanwezig zijn van een energie-index tot een lager aantal punten dan wanneer zo’n energie-index wel is verstrekt. Immers, het waarderen van de energieprestatie uitgaande van het bouwjaar van de woning houdt geen rekening met het feit dat de energieprestatie van veel woningen door het treffen van energiebesparende voorzieningen in de loop der tijd verbetert. Die verbeteringen komen in een energie-index wel tot uitdrukking. 
 
 ### 5  
 
@@ -265,7 +265,7 @@ De waardering van het sanitair wordt bepaald op grond van de aanwezigheid van be
 
 #### Voorzieningen als bedoeld in artikel 255, eerste lid, onderdeel a, van Boek 7 van het Burgerlijk Wetboek (woonvoorzieningen voor gehandicapten): 
 
-Per € 226,89 van door de verhuurder aan ingrepen in of aan de woonruimte ten behoeve van een gehandicapte bestede kosten kan, voor zover deze kosten in een redelijke verhouding staan tot de geboden kwaliteit, één punt worden toegekend. Het moet dan wel gaan om ofwel ingrepen als bedoeld in artikel 1, eerste lid, onder g, onderdeel 6°, van de Wet maatschappelijke ondersteuning, ofwel ingrepen als bedoeld in artikel 5, derde lid, van de Wet voorzieningen gehandicapten (inmiddels ingetrokken) ofwel ingevolge een andere wettelijke regeling gesubsidieerde ingrepen die uitsluitend geen woonvoorziening of onderdeel daarvan zijn in de zin van artikel 1, eerste lid, onder c, van de Wet voorzieningen gehandicapten, omdat de kosten het in laatstbedoeld artikel genoemde bedrag te boven gaan. Met deze waardering verkrijgt de verhuurder in een dergelijk geval een redelijke rendementswaarborg voor het door hem geïnvesteerde vermogen (derhalve de kosten van de ingrepen, verminderd met de eigen bijdrage van de huurder en de financiële tegemoetkoming van gemeente of (bij dure woonvoorzieningen) enige instantie die ingevolge een wettelijke regeling die tegemoetkoming verleent). 
+Per € 226,89 van door de verhuurder aan ingrepen in of aan de woonruimte ten behoeve van een gehandicapte bestede kosten kan, voor zover deze kosten in een redelijke verhouding staan tot de geboden kwaliteit, één punt worden toegekend. Het moet dan wel gaan om ofwel maatwerkvoorzieningen als bedoeld in artikel 1.1.1, eerste lid, van de Wet maatschappelijke ondersteuning 2015, ofwel ingrepen als bedoeld in artikel 5, derde lid, van de Wet voorzieningen gehandicapten (inmiddels ingetrokken) ofwel ingevolge een andere wettelijke regeling gesubsidieerde ingrepen die uitsluitend geen woonvoorziening of onderdeel daarvan zijn in de zin van artikel 1, eerste lid, onder c, van de Wet voorzieningen gehandicapten, omdat de kosten het in laatstbedoeld artikel genoemde bedrag te boven gaan. Met deze waardering verkrijgt de verhuurder in een dergelijk geval een redelijke rendementswaarborg voor het door hem geïnvesteerde vermogen (derhalve de kosten van de ingrepen, verminderd met de eigen bijdrage van de huurder en de financiële tegemoetkoming van gemeente of (bij dure woonvoorzieningen) enige instantie die ingevolge een wettelijke regeling die tegemoetkoming verleent). 
 
 ### 8  
 
@@ -459,7 +459,7 @@ Het puntentotaal per woning wordt na eindsaldering (met inbegrip van de bij serv
 | --- | groter dan 10 m<sup>2</sup>   | 9   |
 | --- | van 4 tot 10 m<sup>2</sup>   | 3   |
 | --- |  *c.* Bij aanwezigheid van een buitenruimte voor gemeenschappelijk gebruik:   | --- |
-| --- | groter dan tot m<sup>2</sup>   | 6   |
+| --- | groter dan 10 m<sup>2</sup>   | 6   |
 | --- | van 4 tot 10 m<sup>2</sup>   | 2   |
 | --- |  *d.* Bij aanwezigheid van een fietsenberging, behorende uitsluitend tot de onzelfstandige woonruimte  | 6   |
 | --- |  *e.* Bij aanwezigheid van een gemeenschappelijke fietsenberging  | 3  |

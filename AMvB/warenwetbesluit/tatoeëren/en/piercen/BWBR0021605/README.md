@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 14 november 2006, kenmerk VGP/PSL 2728403, gedaan in overeenstemming met Onze Minister van Economische Zaken en Onze Minister van Justitie;
 
-Gelet op de [artikelen 5, eerste lid, onderdelen a en b](../../../../../../wet/warenwet/BWBR0001969/README.md), [14](../../../../../../wet/warenwet/BWBR0001969/README.md), [24, derde en vierde lid](../../../../../../wet/warenwet/BWBR0001969/README.md), [25, vierde lid](../../../../../../wet/warenwet/BWBR0001969/README.md), [32b, eerste lid](../../../../../../wet/warenwet/BWBR0001969/README.md) en [33, eerste lid, onderdeel b, van de Warenwet](../../../../../../wet/warenwet/BWBR0001969/README.md);
+Gelet op de artikelen 5, eerste lid, onderdelen a en b, 14, 24, derde en vierde lid, 25, vierde lid, 32b, eerste lid en 33, eerste lid, onderdeel b, van de Warenwet;
 
 De Raad van State gehoord (advies van 4 januari 2007, nr. W13.06.0488/III);
 
@@ -33,7 +33,7 @@ e. piercingmateriaal: waren die bestemd zijn of gebruikt worden voor het piercen
 f. veiligheidscode: een richtlijn voor het veilig gebruik van tatoeage- of piercingmateriaal;  
 
 g. ondernemer: een natuurlijk persoon of rechtspersoon die een onderneming in stand houdt waarin tatoeage- of piercingmateriaal wordt gebruikt.     
-2.  Dit besluit is niet van toepassing indien tatoeagemateriaal door een arts wordt gebruikt in een op grond van [artikel 5 van de Wet toelating zorginstellingen](../../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md) toegelaten instelling.  
+2.  Dit besluit is niet van toepassing indien tatoeagemateriaal door een arts wordt gebruikt in een op grond van artikel 5 van de Wet toelating zorginstellingen toegelaten instelling.  
 
 ### §  2  
 
@@ -60,12 +60,12 @@ b. op de ondernemer, die ter gelegenheid van een onderzoek dat plaatsvindt in he
 
 1.  De vergunning, bedoeld in artikel 3, eerste lid, wordt op aanvraag verleend.   
 2.  De aanvrager van de vergunning is voor het in behandeling nemen van de aanvraag een retributie verschuldigd aan Onze Minister.   
-3.  Een besluit tot verlening van een vergunning wordt niet genomen voordat is onderzocht of er een gegronde reden bestaat om aan te nemen dat die ondernemer voor de ruimte waarvoor de vergunning wordt gevraagd, niet zal voldoen aan de voorschriften gesteld bij of krachtens dit besluit, dan wel aan de voorschriften gesteld bij of krachtens [artikel 24 van de Warenwet](../../../../../../wet/warenwet/BWBR0001969/README.md).   
+3.  Een besluit tot verlening van een vergunning wordt niet genomen voordat is onderzocht of er een gegronde reden bestaat om aan te nemen dat die ondernemer voor de ruimte waarvoor de vergunning wordt gevraagd, niet zal voldoen aan de voorschriften gesteld bij of krachtens dit besluit, dan wel aan de voorschriften gesteld bij of krachtens artikel 24 van de Warenwet.   
 4.  Onze Minister weigert de vergunning indien: 
 
 a. de ondernemer zijn medewerking weigert aan het onderzoek, bedoeld in het derde lid, of  
 
-b. er een gegronde reden bestaat om aan te nemen dat de ondernemer voor de ruimte waarvoor de vergunning wordt gevraagd, niet zal voldoen aan de voorschriften gesteld bij of krachtens dit besluit, dan wel aan de voorschriften gesteld bij of krachtens [artikel 24 van de Warenwet](../../../../../../wet/warenwet/BWBR0001969/README.md).     
+b. er een gegronde reden bestaat om aan te nemen dat de ondernemer voor de ruimte waarvoor de vergunning wordt gevraagd, niet zal voldoen aan de voorschriften gesteld bij of krachtens dit besluit, dan wel aan de voorschriften gesteld bij of krachtens artikel 24 van de Warenwet.     
 5.  Onze Minister stelt ter uitvoering van het eerste tot en met derde lid nadere regels. Deze regels hebben in ieder geval betrekking op: 
 
 a. de geldigheidsduur van de vergunning;  
@@ -84,7 +84,7 @@ g. de activiteiten waarvoor de vergunning wordt verleend.
 
 ### Artikel  5  
 
-Onze Minister kan de vergunning, bedoeld in artikel 3, eerste lid, intrekken indien een voorschrift, gesteld bij of krachtens dit besluit, een voorschrift verbonden aan de vergunning, dan wel [artikel 24, eerste lid, van de Warenwet](../../../../../../wet/warenwet/BWBR0001969/README.md) is overtreden. 
+Onze Minister kan de vergunning, bedoeld in artikel 3, eerste lid, intrekken indien een voorschrift, gesteld bij of krachtens dit besluit, een voorschrift verbonden aan de vergunning, dan wel artikel 24, eerste lid, van de Warenwet is overtreden. 
 
 ### §  4  
 
@@ -102,7 +102,7 @@ c. de personen die werkzaam zijn in de ruimte, bedoeld in onderdeel b, een zeer 
 
 d. personen, als bedoeld in onderdeel c, tatoeage- of piercingmateriaal niet gebruiken, indien daarbij ten gevolge van verwondingen of huidziekten gezondheidsrisico’s kunnen ontstaan;  
 
-e. de voorschriften worden nageleefd, die zijn gesteld bij of krachtens [artikel 24, derde lid, onderdeel b en c, van de Warenwet](../../../../../../wet/warenwet/BWBR0001969/README.md).     
+e. de voorschriften worden nageleefd, die zijn gesteld bij of krachtens artikel 24, derde lid, onderdeel b en c, van de Warenwet.     
 2.  Onze Minister kan met betrekking tot het eerste lid nadere regels stellen.  
 
 ### Artikel  7  
@@ -130,11 +130,11 @@ Bij regeling van Onze Minister kunnen regels worden gesteld omtrent:
 
 a. de schriftelijke informatie over de mogelijke gevolgen verbonden aan het aanbrengen van een tatoeage of piercing;  
 
-b. het voorhanden zijn en bijhouden van documenten, die de voorlichting over gevolgen, bedoeld in onderdeel a, en het toezicht op de naleving van de regels gesteld bij of krachtens [artikel 24 van de Warenwet](../../../../../../wet/warenwet/BWBR0001969/README.md), kunnen bevorderen.   
+b. het voorhanden zijn en bijhouden van documenten, die de voorlichting over gevolgen, bedoeld in onderdeel a, en het toezicht op de naleving van de regels gesteld bij of krachtens artikel 24 van de Warenwet, kunnen bevorderen.   
 
 ### Artikel  10  
 
-[Artikel 24, tweede lid, van de Warenwet](../../../../../../wet/warenwet/BWBR0001969/README.md) is niet van toepassing: 
+Artikel 24, tweede lid, van de Warenwet is niet van toepassing: 
 
 a. bij het aanbrengen van een tepelpiercing bij meisjes;  
 

@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 16 januari 2004, nr. MJZ2003124448, tot wijziging van de Regeling tarieven Kadaster (aanpassing tarieven aan loon- en prijsontwikkelingen)
 
 De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,  
-Gelet op [artikel 108, eerste lid, van de Kadasterwet](../../../../../../../../../../wet/kadasterwet/BWBR0004541/README.md);
+Gelet op artikel 108, eerste lid, van de Kadasterwet;
 Besluit:   
 
 ###Artikel I 
@@ -12,7 +12,7 @@ Wijzigt de Regeling tarieven Kadaster.
 
 ###Artikel II 
 
-Ten aanzien van verrichtingen die voor de datum van inwerkingtreding van deze regeling zijn aangevraagd, zijn de tarieven, genoemd in de [Regeling tarieven Kadaster](../../../../../../../../../../ministeriele-regeling/regeling/tarieven/kadaster/BWBR0016017/README.md), zoals die golden voor de datum van inwerkingtreding van deze regeling, van toepassing.
+Ten aanzien van verrichtingen die voor de datum van inwerkingtreding van deze regeling zijn aangevraagd, zijn de tarieven, genoemd in de Regeling tarieven Kadaster, zoals die golden voor de datum van inwerkingtreding van deze regeling, van toepassing.
 
 ###Artikel III 
 

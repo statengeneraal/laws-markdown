@@ -18,7 +18,7 @@ Besluit:
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 | Titel 3.2: TKI-toeslag  | 3.2.2, onderdeel a  | --- | --- | 06-01-2015 t/m 15-09-2015  | --- |
 | Titel 3.2: TKI-toeslag  | 3.2.2, onderdeel b  | --- | --- | 06-01-2015 t/m 15-10-2015  | --- |
-| Titel 3.7: Eurostarsprojecten  | 3.7.2  | --- | --- | 18-12-2014 t/m 05-05-2015  | 9.162.500  |
+| Titel 3.7: Eurostarsprojecten  | 3.7.2  | --- | --- | 18-12-2014 t/m 06-01-2015  | 9.162.500  |
 | Titel 3.8: Internationaal innoveren  | 3.8.2  | ITEA3-innovatieprojecten  | --- | 14-03-2015 t/m 03-04-2015  | 10.000.000  |
 | Titel 3.9: Innovatiekredieten  | 3.9.2  | Klinische ontwikkelingsprojecten  | --- | 01-01-2015 t/m 31-12-2015  | 20.000.000  |
 | Titel 3.9: Innovatiekredieten  | 3.9.2  | Technische ontwikkelingsprojecten  | --- | 01-01-2015 t/m 31-12-2015  | 40.000.000  |

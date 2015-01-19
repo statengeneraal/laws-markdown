@@ -15,7 +15,7 @@ Besluit:
 
 ### Artikel  1.1  
 
-1.  Deze regeling berust mede op de artikelen 51a, derde lid, en 60, tweede lid, van de wet. 
+1.  Deze regeling berust mede op de artikelen 51a, derde lid, en 60, tweede lid, van de wet. De in deze regeling opgenomen regels inzake de inbouw van een LPG- of CNG-installatie berusten daarnaast mede op artikel 23, derde lid, onderdeel c, van de Wet op de motorrijtuigenbelasting 1994. 
 2. In deze regeling wordt verstaan onder: 
 
 *aanhangwagen:* voertuig dat is bestemd om aan een motorvoertuig te worden gekoppeld, met inbegrip van een oplegger; in ieder geval wordt als aanhangwagen aangemerkt een voertuig van de voertuigcategorie O en een voertuig dat geregistreerd is als aanhangwagen; 
@@ -1100,14 +1100,13 @@ Een personenauto moet voldoen aan de in deze afdeling opgenomen eisen en wordt b
 |:---|:---|:---|
 | 1.  | Personenauto’s met een verbrandingsmotor moeten zijn voorzien van een uitlaatsysteem dat over de gehele lengte gasdicht is, met uitzondering van de afwateringsgaatjes.  | Visuele en auditieve controle, terwijl de personenauto zich met draaiende motor boven een inspectieput of op een hefinrichting bevindt.  |
 | 2.  | Het uitlaatsysteem moet deugdelijk zijn bevestigd.  | Visuele controle, terwijl de personenauto zich boven een inspectieput of op een hefinrichting bevindt.  |
-| 3.  | Personenauto’s moeten blijven voldoen aan de voorschriften bij of krachtens verordening (EG) 715/2007.  | Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport.  |
-| 4.  | Personenauto’s mogen in de nabijheid van de uitmonding van het uitlaatsysteem geen hoger geluidsniveau produceren dan de waarde die voor het voertuig is vermeld in het kentekenregister, vermeerderd met 2 dB(A). Hierbij is het bepaalde in bijlage VIII , artikelen 30 tot en met 32, van toepassing.  |Leden 4 en 5: Auditieve controle. Indien toepasbaar wordt met een geluidsmeter klasse 1 vastgesteld of het geluidsniveau niet wordt overschreden. |
-|5. |Personenauto’s met een toegestane maximummassa van niet meer dan 3.500 kg waarvoor geen waarde als bedoeld in het vierde lid is vermeld, mogen in de nabijheid van de uitmonding van het uitlaatsysteem geen hoger geluidsniveau kunnen produceren dan 95 dB(A) bij een toerental van 3.500 min<sup>-1</sup> voor zover het betreft een personenauto met een verbrandingsmotor met elektrische ontsteking en 95 dB(A) bij een toerental van 2.000 min<sup>-1</sup> voor zover het betreft een personenauto met een verbrandingsmotor met compressieontsteking. Personenauto’s met een toegestane maximummassa van meer dan 3.500 kg mogen in de nabijheid van de uitmonding van het uitlaatsysteem geen hoger geluidsniveau kunnen produceren dan 95 dB(A) bij een toerental van 1.500 min<sup>-1</sup>. Hierbij is het bepaalde in bijlage VIII , artikelen 30 tot en met 32, van toepassing.  | --- |
-| 6.  | De uitlaatgassen van personenauto’s met een verbrandingsmotor met elektrische ontsteking mogen bij stationair toerental en op bedrijfstemperatuur zijnde motor niet meer dan het voorgeschreven volumepercentage koolmonoxide bevatten. Hierbij is het bepaalde in bijlage VIII , artikelen 40, 41 en 43, van toepassing.  | –  |
-| 7.  | Bij personenauto’s in gebruik genomen na 31 december 1992, die zijn uitgerust met een emissiebestrijdingssysteem dat bestaat uit een katalysator en een lambdasonde, dient het emissiebestrijdingssysteem, goed te werken. De goede werking ervan wordt beoordeeld aan de hand van het gehalte koolmonoxyde van de uitlaatgassen, alsmede aan de hand van een op grond van de samenstelling van de uitlaatgassen berekende lucht-brandstofverhouding. Hierbij is het bepaalde in bijlage VIII , artikelen 40, 42 en 43, van toepassing.  | –  |
-| 8.  | De uitlaatgassen van personenauto’s met een verbrandingsmotor met compressie-ontsteking die in gebruik zijn genomen na 31 december 1979 mogen niet meer dan de aangegeven hoeveelheid roet bevatten, waarbij de eventueel aangewezen bijzondere meetvoorschriften in acht worden genomen. Hierbij is het bepaalde in bijlage VIII , artikelen 44 en 45, van toepassing.  | –  |
-| 9.  | Personenauto’s met een verbrandingsmotor met elektrische ontsteking die in gebruik zijn genomen na 31 december 1995 moeten zijn voorzien van een goedwerkend emissiebestrijdingssysteem dat bestaat uit een katalysator en een lambdasonde. Hierbij is het bepaalde in bijlage VIII , artikel 40 van toepassing.  | Visuele controle.  |
-|10. |Indien personenauto’s met een toegestane maximummassa van niet meer dan 3.500 kg, die in gebruik zijn genomen na 31 december 2005, met een verbrandingsmotor met elektrische ontsteking welke uitsluitend wordt gevoed door benzine, dan wel met een verbrandingsmotor met compressie-ontsteking, zijn voorzien van een emissiegerelateerd diagnostisch boordsysteem moet dit systeem zijn voorzien van een goed functionerende waarschuwingsinrichting, en mag het systeem geen emissiegerelateerde fouten bevatten. Hierbij is het bepaalde in de artikelen 45a tot en met 45d van bijlage VIII van toepassing. |– |
+| 3.  | Personenauto’s mogen in de nabijheid van de uitmonding van het uitlaatsysteem geen hoger geluidsniveau produceren dan de waarde die voor het voertuig is vermeld in het kentekenregister, vermeerderd met 2 dB(A). Hierbij is het bepaalde in bijlage VIII , artikelen 30 tot en met 32, van toepassing.  |Leden 3 en 4: Auditieve controle. Indien toepasbaar wordt met een geluidsmeter klasse 1 vastgesteld of het geluidsniveau niet wordt overschreden. |
+|4. |Personenauto’s met een toegestane maximummassa van niet meer dan 3.500 kg waarvoor geen waarde als bedoeld in het derde lid is vermeld, mogen in de nabijheid van de uitmonding van het uitlaatsysteem geen hoger geluidsniveau kunnen produceren dan 95 dB(A) bij een toerental van 3.500 min<sup>-1</sup> voor zover het betreft een personenauto met een verbrandingsmotor met elektrische ontsteking en 95 dB(A) bij een toerental van 2.000 min<sup>-1</sup> voor zover het betreft een personenauto met een verbrandingsmotor met compressieontsteking. Personenauto’s met een toegestane maximummassa van meer dan 3.500 kg mogen in de nabijheid van de uitmonding van het uitlaatsysteem geen hoger geluidsniveau kunnen produceren dan 95 dB(A) bij een toerental van 1.500 min<sup>-1</sup>. Hierbij is het bepaalde in bijlage VIII , artikelen 30 tot en met 32, van toepassing.  | --- |
+| 5.  | De uitlaatgassen van personenauto’s met een verbrandingsmotor met elektrische ontsteking mogen bij stationair toerental en op bedrijfstemperatuur zijnde motor niet meer dan het voorgeschreven volumepercentage koolmonoxide bevatten. Hierbij is het bepaalde in bijlage VIII , artikelen 40, 41 en 43, van toepassing.  | –  |
+| 6.  | Bij personenauto’s in gebruik genomen na 31 december 1992, die zijn uitgerust met een emissiebestrijdingssysteem dat bestaat uit een katalysator en een lambdasonde, dient het emissiebestrijdingssysteem, goed te werken. De goede werking ervan wordt beoordeeld aan de hand van het gehalte koolmonoxyde van de uitlaatgassen, alsmede aan de hand van een op grond van de samenstelling van de uitlaatgassen berekende lucht-brandstofverhouding. Hierbij is het bepaalde in bijlage VIII , artikelen 40, 42 en 43, van toepassing.  | –  |
+| 7.  | De uitlaatgassen van personenauto’s met een verbrandingsmotor met compressie-ontsteking die in gebruik zijn genomen na 31 december 1979 mogen niet meer dan de aangegeven hoeveelheid roet bevatten, waarbij de eventueel aangewezen bijzondere meetvoorschriften in acht worden genomen. Hierbij is het bepaalde in bijlage VIII , artikelen 44 en 45, van toepassing.  | –  |
+| 8.  | Personenauto’s met een verbrandingsmotor met elektrische ontsteking die in gebruik zijn genomen na 31 december 1995 moeten zijn voorzien van een goedwerkend emissiebestrijdingssysteem dat bestaat uit een katalysator en een lambdasonde. Hierbij is het bepaalde in bijlage VIII , artikel 40 van toepassing.  | Visuele controle.  |
+|9. |Indien personenauto’s met een toegestane maximummassa van niet meer dan 3.500 kg, die in gebruik zijn genomen na 31 december 2005, met een verbrandingsmotor met elektrische ontsteking welke uitsluitend wordt gevoed door benzine, dan wel met een verbrandingsmotor met compressie-ontsteking, zijn voorzien van een emissiegerelateerd diagnostisch boordsysteem moet dit systeem zijn voorzien van een goed functionerende waarschuwingsinrichting, en mag het systeem geen emissiegerelateerde fouten bevatten. Hierbij is het bepaalde in de artikelen 45a tot en met 45d van bijlage VIII van toepassing. |– |
 
 ### Artikel  5.2.12  
 
@@ -1762,14 +1761,13 @@ Een bedrijfsauto, met uitzondering van een bedrijfsauto waarvoor in het kenteken
 |:---|:---|:---|
 | 1.  | Bedrijfsauto’s met een verbrandingsmotor moeten zijn voorzien van een uitlaatsysteem dat over de gehele lengte gasdicht is, met uitzondering van de afwateringsgaatjes.  | Visuele en auditieve controle, terwijl de bedrijfsauto zich met draaiende motor boven een inspectieput of op een hefinrichting bevindt.  |
 | 2.  | Het uitlaatsysteem moet deugdelijk zijn bevestigd.  | Visuele controle, terwijl de bedrijfsauto zich boven een inspectieput of op een hefinrichting bevindt.  |
-| 3.  | Bedrijfsauto’s moeten blijven voldoen aan de voorschriften bij of krachtens verordening (EG) 595/2009.  | Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport.  |
-|4. |Bedrijfsauto’s mogen in de nabijheid van de uitmonding van het uitlaatsysteem geen hoger geluidsniveau produceren dan de waarde die voor het voertuig is vermeld in het kentekenregister, vermeerderd met 2 dB(A). Hierbij is het bepaalde in bijlage VIII , artikelen 30 tot en met 32, van toepassing.  |Leden 4 en 5: Auditieve controle. Indien toepasbaar wordt met een geluidsmeter klasse 1 vastgesteld of het geluidsniveau niet wordt overschreden. |
-|5. |Bedrijfsauto’s met een toegestane maximummassa van niet meer dan 3.500 kg waarvoor geen waarde als bedoeld in het vierde lid is vermeld, mogen in de nabijheid van de uitmonding van het uitlaatsysteem geen hoger geluidsniveau kunnen produceren dan 95 dB(A) bij een toerental van 3.500 min<sup>-1</sup> voor zover het betreft een bedrijfsauto met een verbrandingsmotor met elektrische ontsteking en 95 dB(A) bij een toerental van 2.000 min<sup>-1</sup> voor zover het betreft een bedrijfsauto met een verbrandingsmotor met compressieontsteking. Bedrijfsauto’s met een toegestane maximummassa van meer dan 3.500 kg mogen in de nabijheid van de uitmonding van het uitlaatsysteem geen hoger geluidsniveau kunnen produceren dan 95 dB(A) bij een toerental van 1.500 min<sup>-1</sup>. Hierbij is het bepaalde in bijlage VIII, artikelen 30 tot en met 32, van toepassing. | --- |
-| 6.  | De uitlaatgassen van bedrijfsauto’s met een verbrandingsmotor met elektrische ontsteking mogen bij stationair toerental en op bedrijfstemperatuur zijnde motor niet meer dan het voorgeschreven volume percentage koolmonoxide bevatten. Hierbij is het bepaalde in bijlage VIII , artikelen 40, 41 en 43, van toepassing.  | –  |
-| 7.  | Bij bedrijfsauto’s in gebruik genomen na 31 december 1994, die zijn uitgerust met een emissiebestrijdingssysteem dat bestaat uit een katalysator en een lambdasonde, dient het emissiebestrijdingssysteem, goed te werken. De goede werking ervan wordt beoordeeld aan de hand van het gehalte koolmonoxide van de uitlaatgassen, alsmede aan de hand van een op grond van de samenstelling van de uitlaatgassen berekende lucht-brandstofverhouding. Hierbij is het bepaalde in bijlage VIII , artikelen 40, 42 en 43, van toepassing.  | –  |
-| 8.  | De uitlaatgassen van bedrijfsauto’s met een verbrandingsmotor met compressie-ontsteking die in gebruik zijn genomen na 31 december 1979 mogen niet meer dan de aangegeven hoeveelheid roet bevatten, waarbij de eventueel aangewezen bijzondere meetvoorschriften in acht worden genomen. Hierbij is het bepaalde in bijlage VIII , artikelen 44 en 45, van toepassing.  | –  |
-| 9.  | Bedrijfsauto's met een toegestane maximummassa van niet meer dan 3.500 kg die zijn voorzien van een verbrandingsmotor met elektrische ontsteking en die in gebruik zijn genomen na 31 december 1997 moeten zijn voorzien van een goedwerkend emissiebestrijdingssysteem dat bestaat uit een katalysator en een lambdasonde. Hierbij is het bepaalde in bijlage VIII , artikel 40 van toepassing.  | Visuele controle.  |
-|10. |Indien bedrijfsauto’s met een toegestane maximum massa van niet meer dan 3.500 kg, die in gebruik zijn genomen na 31 december 2005, met een verbrandingsmotor met elektrische ontsteking welke uitsluitend wordt gevoed door benzine, dan wel met een verbrandingsmotor met compressie-ontsteking, zijn voorzien van een emissiegerelateerd diagnostisch boordsysteem moet dit systeem zijn voorzien van een goed functionerende waarschuwingsinrichting, en mag het systeem geen emissiegerelateerde fouten bevatten. Hierbij is het bepaalde in de artikelen 45a tot en met 45d van bijlage VIII  van toepassing. |– |
+|3. |Bedrijfsauto’s mogen in de nabijheid van de uitmonding van het uitlaatsysteem geen hoger geluidsniveau produceren dan de waarde die voor het voertuig is vermeld in het kentekenregister, vermeerderd met 2 dB(A). Hierbij is het bepaalde in bijlage VIII , artikelen 30 tot en met 32, van toepassing.  |Leden 3 en 4: Auditieve controle. Indien toepasbaar wordt met een geluidsmeter klasse 1 vastgesteld of het geluidsniveau niet wordt overschreden. |
+|4. |Bedrijfsauto’s met een toegestane maximummassa van niet meer dan 3.500 kg waarvoor geen waarde als bedoeld in het derde lid is vermeld, mogen in de nabijheid van de uitmonding van het uitlaatsysteem geen hoger geluidsniveau kunnen produceren dan 95 dB(A) bij een toerental van 3.500 min<sup>-1</sup> voor zover het betreft een bedrijfsauto met een verbrandingsmotor met elektrische ontsteking en 95 dB(A) bij een toerental van 2.000 min<sup>-1</sup> voor zover het betreft een bedrijfsauto met een verbrandingsmotor met compressieontsteking. Bedrijfsauto’s met een toegestane maximummassa van meer dan 3.500 kg mogen in de nabijheid van de uitmonding van het uitlaatsysteem geen hoger geluidsniveau kunnen produceren dan 95 dB(A) bij een toerental van 1.500 min<sup>-1</sup>. Hierbij is het bepaalde in bijlage VIII , artikelen 30 tot en met 32, van toepassing. | --- |
+| 5.  | De uitlaatgassen van bedrijfsauto’s met een verbrandingsmotor met elektrische ontsteking mogen bij stationair toerental en op bedrijfstemperatuur zijnde motor niet meer dan het voorgeschreven volume percentage koolmonoxide bevatten. Hierbij is het bepaalde in bijlage VIII , artikelen 40, 41 en 43, van toepassing.  | –  |
+| 6.  | Bij bedrijfsauto’s in gebruik genomen na 31 december 1994, die zijn uitgerust met een emissiebestrijdingssysteem dat bestaat uit een katalysator en een lambdasonde, dient het emissiebestrijdingssysteem, goed te werken. De goede werking ervan wordt beoordeeld aan de hand van het gehalte koolmonoxide van de uitlaatgassen, alsmede aan de hand van een op grond van de samenstelling van de uitlaatgassen berekende lucht-brandstofverhouding. Hierbij is het bepaalde in bijlage VIII , artikelen 40, 42 en 43, van toepassing.  | –  |
+| 7.  | De uitlaatgassen van bedrijfsauto’s met een verbrandingsmotor met compressie-ontsteking die in gebruik zijn genomen na 31 december 1979 mogen niet meer dan de aangegeven hoeveelheid roet bevatten, waarbij de eventueel aangewezen bijzondere meetvoorschriften in acht worden genomen. Hierbij is het bepaalde in bijlage VIII , artikelen 44 en 45, van toepassing.  | –  |
+| 8.  | Bedrijfsauto's met een toegestane maximummassa van niet meer dan 3.500 kg die zijn voorzien van een verbrandingsmotor met elektrische ontsteking en die in gebruik zijn genomen na 31 december 1997 moeten zijn voorzien van een goedwerkend emissiebestrijdingssysteem dat bestaat uit een katalysator en een lambdasonde. Hierbij is het bepaalde in bijlage VIII , artikel 40 van toepassing.  | Visuele controle.  |
+|9. |Indien bedrijfsauto’s met een toegestane maximum massa van niet meer dan 3.500 kg, die in gebruik zijn genomen na 31 december 2005, met een verbrandingsmotor met elektrische ontsteking welke uitsluitend wordt gevoed door benzine, dan wel met een verbrandingsmotor met compressie-ontsteking, zijn voorzien van een emissiegerelateerd diagnostisch boordsysteem moet dit systeem zijn voorzien van een goed functionerende waarschuwingsinrichting, en mag het systeem geen emissiegerelateerde fouten bevatten. Hierbij is het bepaalde in de artikelen 45a tot en met 45d van bijlage VIII  van toepassing. |– |
 
 ### Artikel  5.3.12  
 
@@ -2515,13 +2513,12 @@ met dien verstande dat het karkas van de band niet zichtbaar mag zijn.  | De wij
 |:---|:---|:---|
 | 1.  | Bussen met een verbrandingsmotor moeten zijn voorzien van een uitlaatsysteem dat over de gehele lengte gasdicht is, met uitzondering van de afwateringsgaatjes.  | Visuele en auditieve controle, terwijl de bus zich met draaiende motor boven een inspectieput of op een hefinrichting bevindt.  |
 | 2.  | Het uitlaatsysteem moet deugdelijk zijn bevestigd.  | Visuele controle, terwijl de bus zich boven een inspectieput of op een hefinrichting bevindt.  |
-| 3.  | Bussen moeten blijven voldoen aan de voorschriften bij of krachtens verordening (EG) 595/2009.  | Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport.  |
-|4. |Bussen mogen in de nabijheid van de uitmonding van het uitlaatsysteem geen hoger geluidsniveau produceren dan de waarde die voor het voertuig is vermeld in het kentekenregister, vermeerderd met 2 dB(A). Hierbij is het bepaalde in bijlage VIII , artikelen 30 tot en met 32, van toepassing.  |Leden 4 en 5: Auditieve controle. Indien toepasbaar wordt met een geluidsmeter klasse 1 vastgesteld of het geluidsniveau niet wordt overschreden. |
-|5. |Bussen met een toegestane maximummassa van niet meer dan 3.500 kg waarvoor geen waarde als bedoeld in het vierde lid is vermeld, mogen in de nabijheid van de uitmonding van het uitlaatsysteem geen hoger geluidsniveau kunnen produceren dan 95 dB(A) bij een toerental van 3.500 min<sup>-1</sup> voor zover het betreft een bus met een verbrandingsmotor met elektrische ontsteking en 95 dB(A) bij een toerental van 2.000 min<sup>-1</sup> voor zover het betreft een bus met een verbrandingsmotor met compressieontsteking. Bussen met een toegestane maximummassa van meer dan 3.500 kg mogen in de nabijheid van de uitmonding van het uitlaatsysteem geen hoger geluidsniveau kunnen produceren dan 95 dB(A) bij een toerental van 1.500 min<sup>-1</sup>. Hierbij is het bepaalde in bijlage VIII, artikelen 30 tot en met 32, van toepassing. | --- |
-| 6.  | De uitlaatgassen van bussen met een verbrandingsmotor met elektrische ontsteking mogen bij stationair toerental en op bedrijfstemperatuur zijnde motor niet meer dan het voorgeschreven volume percentage koolmonoxide bevatten. Hierbij is het bepaalde in bijlage VIII , artikelen 40, 41 en 43, van toepassing.  | –  |
-| 7.  | Bij bussen in gebruik genomen na 31 december 1994, die zijn uitgerust met een emissiebestrijdingssysteem dat bestaat uit een katalysator en een lambdasonde, dient het emissiebestrijdingssysteem, goed te werken. De goede werking ervan wordt beoordeeld aan de hand van het gehalte koolmonoxide van de uitlaatgassen, alsmede aan de hand van een op grond van de samenstelling van de uitlaatgassen berekende lucht-brandstofverhouding.  Hierbij is het bepaalde in bijlage VIII , artikelen 40, 42 en 43, van toepassing.  | –  |
-| 8.  | De uitlaatgassen van bussen met een verbrandingsmotor met compressie-ontsteking die in gebruik zijn genomen na 31 december 1979 mogen niet meer dan de aangegeven hoeveelheid roet bevatten, waarbij de eventueel aangewezen bijzondere meetvoorschriften in acht worden genomen. Hierbij is het bepaalde in bijlage VIII , artikelen 44 en 45, van toepassing.  | –  |
-| 9.  | Bussen met een toegestane maximummassa van niet meer dan 3.500 kg die zijn voorzien van een verbrandingsmotor met elektrische ontsteking en die in gebruik zijn genomen na 31 december 1997 moeten zijn voorzien van een goedwerkend emissiebestrijdingssysteem dat bestaat uit een katalysator en een lambdasonde. Hierbij is het bepaalde in bijlage VIII , artikel 40 van toepassing.  | Visuele controle.  |
+|3. |Bussen mogen in de nabijheid van de uitmonding van het uitlaatsysteem geen hoger geluidsniveau produceren dan de waarde die voor het voertuig is vermeld in het kentekenregister, vermeerderd met 2 dB(A). Hierbij is het bepaalde in bijlage VIII , artikelen 30 tot en met 32, van toepassing.  |Leden 3 en 4: Auditieve controle. Indien toepasbaar wordt met een geluidsmeter klasse 1 vastgesteld of het geluidsniveau niet wordt overschreden. |
+|4. |Bussen met een toegestane maximummassa van niet meer dan 3.500 kg waarvoor geen waarde als bedoeld in het derde lid is vermeld, mogen in de nabijheid van de uitmonding van het uitlaatsysteem geen hoger geluidsniveau kunnen produceren dan 95 dB(A) bij een toerental van 3.500 min<sup>-1</sup> voor zover het betreft een bus met een verbrandingsmotor met elektrische ontsteking en 95 dB(A) bij een toerental van 2.000 min<sup>-1</sup> voor zover het betreft een bus met een verbrandingsmotor met compressieontsteking. Bussen met een toegestane maximummassa van meer dan 3.500 kg mogen in de nabijheid van de uitmonding van het uitlaatsysteem geen hoger geluidsniveau kunnen produceren dan 95 dB(A) bij een toerental van 1.500 min<sup>-1</sup>. Hierbij is het bepaalde in bijlage VIII , artikelen 30 tot en met 32, van toepassing. | --- |
+| 5.  | De uitlaatgassen van bussen met een verbrandingsmotor met elektrische ontsteking mogen bij stationair toerental en op bedrijfstemperatuur zijnde motor niet meer dan het voorgeschreven volume percentage koolmonoxide bevatten. Hierbij is het bepaalde in bijlage VIII , artikelen 40, 41 en 43, van toepassing.  | –  |
+| 6.  | Bij bussen in gebruik genomen na 31 december 1994, die zijn uitgerust met een emissiebestrijdingssysteem dat bestaat uit een katalysator en een lambdasonde, dient het emissiebestrijdingssysteem, goed te werken. De goede werking ervan wordt beoordeeld aan de hand van het gehalte koolmonoxide van de uitlaatgassen, alsmede aan de hand van een op grond van de samenstelling van de uitlaatgassen berekende lucht-brandstofverhouding.  Hierbij is het bepaalde in bijlage VIII , artikelen 40, 42 en 43, van toepassing.  | –  |
+| 7.  | De uitlaatgassen van bussen met een verbrandingsmotor met compressie-ontsteking die in gebruik zijn genomen na 31 december 1979 mogen niet meer dan de aangegeven hoeveelheid roet bevatten, waarbij de eventueel aangewezen bijzondere meetvoorschriften in acht worden genomen. Hierbij is het bepaalde in bijlage VIII , artikelen 44 en 45, van toepassing.  | –  |
+| 8.  | Bussen met een toegestane maximummassa van niet meer dan 3.500 kg die zijn voorzien van een verbrandingsmotor met elektrische ontsteking en die in gebruik zijn genomen na 31 december 1997 moeten zijn voorzien van een goedwerkend emissiebestrijdingssysteem dat bestaat uit een katalysator en een lambdasonde. Hierbij is het bepaalde in bijlage VIII , artikel 40 van toepassing.  | Visuele controle.  |
 
 ### Artikel  5.3a.12  
 
@@ -3210,9 +3207,8 @@ Een motorfiets moet voldoen aan de in deze afdeling opgenomen eisen en wordt beo
 |:---|:---|:---|
 | 1.  | Motorfietsen moeten zijn voorzien van een uitlaatsysteem dat over de gehele lengte gasdicht is, met uitzondering van de afwateringsgaatjes.  | Visuele en auditieve controle bij draaiende motor.  |
 | 2.  | Het uitlaatsysteem moet deugdelijk zijn bevestigd.  | Visuele controle.  |
-| 3.  | Motorfietsen moeten blijven behoren tot een goedgekeurd type als bedoeld in artikel 3 van het Besluit geluidproduktie motorvoertuigen (Stb. 1981, 741).  | –  |
-| 4.  | Motorfietsen mogen in de nabijheid van de uitmonding van het uitlaatsysteem geen hoger geluidsniveau produceren dan de waarde die voor het voertuig is vermeld in het kentekenregister, vermeerderd met 2 dB(A). Hierbij is het bepaalde in bijlage VIII, artikelen 33, 34 en 35, van toepassing.  | –  |
-| 5.  | Motorfietsen waarvoor geen waarde als bedoeld in het vierde lid is vermeld, mogen in de nabijheid van de uitmonding van het uitlaatsysteem geen te hoog geluidsniveau produceren. Hierbij is het bepaalde in bijlage VIII, artikelen 33, 34 en 35, van toepassing.  | –  |
+| 3.  | Motorfietsen mogen in de nabijheid van de uitmonding van het uitlaatsysteem geen hoger geluidsniveau produceren dan de waarde die voor het voertuig is vermeld in het kentekenregister, vermeerderd met 2 dB(A). Hierbij is het bepaalde in bijlage VIII , artikelen 33, 34 en 35, van toepassing.  | –  |
+| 4.  | Motorfietsen waarvoor geen waarde als bedoeld in het derde lid is vermeld, mogen in de nabijheid van de uitmonding van het uitlaatsysteem geen te hoog geluidsniveau produceren. Hierbij is het bepaalde in bijlage VIII , artikelen 33, 34 en 35, van toepassing.  | –  |
 
 ### Artikel  5.4.12  
 
@@ -3686,9 +3682,8 @@ Een driewielig motorrijtuig moet voldoen aan de in deze afdeling opgenomen eisen
 |:---|:---|:---|
 | 1.  | Driewielige motorrijtuigen met een verbrandingsmotor moeten zijn voorzien van een uitlaatsysteem dat over de gehele lengte gasdicht is, met uitzondering van de afwateringsgaatjes.  | Visuele en auditieve controle.  |
 | 2.  | Het uitlaatsysteem moet deugdelijk zijn bevestigd.  | Visuele controle.  |
-|3. |Driewielige motorrijtuigen moeten blijven voldoen aan de voorschriften, bedoeld in richtlijn 97/24/EG van het Europees Parlement en de Raad van 17 juni 1997 betreffende bepaalde onderdelen of eigenschappen van motorvoertuigen op twee of drie wielen (PbEG 1997, L 24).  |Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport.  |
-|4.  |Driewielige motorrijtuigen mogen in de nabijheid van de uitmonding van het uitlaatsysteem geen hoger geluidsniveau produceren dan de waarde die voor het voertuig is vermeld in het kentekenregister, vermeerderd met 2 dB(A). Hierbij is het bepaalde in bijlage VIII , artikelen 33 tot en met 35, van toepassing. |Leden 4 en 5: Auditieve controle. Indien toepasbaar wordt met een geluidsmeter klasse 1 vastgesteld of het geluidsniveau niet wordt overschreden. |
-| 5.  | Het uitlaatsysteem moet behoorlijk geluiddempend zijn.  | Auditieve controle.  |
+|3.  |Driewielige motorrijtuigen mogen in de nabijheid van de uitmonding van het uitlaatsysteem geen hoger geluidsniveau produceren dan de waarde die voor het voertuig is vermeld in het kentekenregister, vermeerderd met 2 dB(A). Hierbij is het bepaalde in bijlage VIII , artikelen 33 tot en met 35, van toepassing. |Leden 3 en 4: Auditieve controle. Indien toepasbaar wordt met een geluidsmeter klasse 1 vastgesteld of het geluidsniveau niet wordt overschreden. |
+| 4.  | Het uitlaatsysteem moet behoorlijk geluiddempend zijn.  | Auditieve controle.  |
 
 ### Artikel  5.5.12  
 
@@ -4246,9 +4241,8 @@ Een bromfiets moet voldoen aan de in deze afdeling opgenomen eisen en wordt beoo
 |:---|:---|:---|
 | 1.  | Bromfietsen met een verbrandingsmotor moeten zijn voorzien van een uitlaatsysteem dat over de gehele lengte gasdicht is, met uitzondering van de afwateringsgaatjes.  | Visuele en auditieve controle.  |
 | 2.  | Het uitlaatsysteem moet deugdelijk zijn bevestigd.  | Visuele controle.  |
-| 3.  | Bromfietsen moeten blijven behoren tot een goedgekeurd type als bedoeld in artikel 2 van het Besluit typekeuring bromfietsen luchtverontreiniging (*Stb.* 1984, 525).   | –  |
-| 4.  | Bromfietsen mogen in de nabijheid van de uitmonding van het uitlaatsysteem geen hoger geluidsniveau kunnen produceren dan de waarde die voor het voertuig is vermeld in het kentekenregister, vermeerderd met 2 dB(A). Hierbij is het bepaalde in bijlage VIII, artikelen 36, 37 en 38 , van toepassing.  | –  |
-| 5.  | Bromfietsen waarvoor geen waarde als bedoeld in het vierde lid is vermeld, mogen in de nabijheid van de uitmonding van het uitlaatsysteem geen hoger geluidsniveau kunnen produceren dan 97 dB(A) voor bromfietsen die blijkens de gegevens in het kentekenregister zijn geconstrueerd voor een maximumsnelheid van meer dan 25 km/h en niet meer dan 90 dB(A) voor andere bromfietsen. Hierbij is het bepaalde in bijlage VIII, artikelen 36, 37 en 38 , van toepassing.  | –  |
+| 3.  | Bromfietsen mogen in de nabijheid van de uitmonding van het uitlaatsysteem geen hoger geluidsniveau kunnen produceren dan de waarde die voor het voertuig is vermeld in het kentekenregister, vermeerderd met 2 dB(A). Hierbij is het bepaalde in bijlage VIII , artikelen 36, 37 en 38, van toepassing.  | –  |
+| 4.  | Bromfietsen waarvoor geen waarde als bedoeld in het derde lid is vermeld, mogen in de nabijheid van de uitmonding van het uitlaatsysteem geen hoger geluidsniveau kunnen produceren dan 97 dB(A) voor bromfietsen die blijkens de gegevens in het kentekenregister zijn geconstrueerd voor een maximumsnelheid van meer dan 25 km/h en niet meer dan 90 dB(A) voor andere bromfietsen. Hierbij is het bepaalde in bijlage VIII , artikelen 36, 37 en 38, van toepassing.  | –  |
 
 ### Artikel  5.6.12  
 
@@ -9549,8 +9543,13 @@ b. de spoorbreedte, indien het een personenauto, bedrijfsauto met een toegestane
 c. de inrichtingsomschrijving, voor zover naar het oordeel van de Dienst Wegverkeer inbreuk is op de sterkte van de dragende constructie, indien het een personenauto, bedrijfsauto of bus betreft met een zelfdragende carrosserie, of  
 
 d. het type carrosserie, voor zover naar het oordeel van de Dienst Wegverkeer inbreuk is op de sterkte van de dragende constructie, indien het een personenauto, bedrijfsauto of bus betreft met een zelfdragende carrosserie.     
-3.  In aanvulling op het eerste lid moet bij wijziging van de brandstofsoort in een al of niet tot vloeistof verdicht gas het voertuig tevens voldoen aan de in bijlage X, hoofdstuk 1, opgenomen eisen.   
-4.  In aanvulling op het eerste lid moet bij wijziging van de brandstofsoort van een al of niet tot vloeistof verdicht gas naar benzine of diesel het voertuig tevens voldoen aan de in bijlage X, hoofdstuk 2, opgenomen eisen.   
+3.  Bij wijziging van de brandstofsoort in een al of niet tot vloeistof verdicht gas door inbouw van een LPG- of CNG-installatie wordt, voor zover: 
+
+a. de eisen die ingevolge het eerste lid, aanhef en onderdeel q, in samenhang met Bijlage IV, van toepassing zijn en onderwerpen betreffen die tevens zijn geregeld in het VN/ECE-reglement 115, bedoeld in Bijlage Va bij deze regeling, en  
+
+b. er voor het voertuig een LPG- of CNG-installatie beschikbaar is die aan het VN/ECE-reglement 115, bedoeld in Bijlage Va bij deze regeling, voldoet, in afwijking van de eisen, bedoeld in onderdeel a, voldaan aan het VN/ECE-reglement 115, bedoeld in Bijlage Va bij deze regeling.     
+3a.  In afwijking van het derde lid en van de eisen die ingevolge het eerste lid, aanhef en onderdeel q, in samenhang met Bijlage IV, van toepassing zijn en onderwerpen betreffen die tevens zijn geregeld in Bijlage X bij deze regeling, mag in een voertuig dat uiterlijk op 31 december 2014 voor het eerst is toegelaten tot het verkeer op de weg, mits voldaan wordt aan de eisen, genoemd in Bijlage X, hoofdstuk 1, worden ingebouwd en gebruikt een LPG- of CNG-installatie waarvoor uiterlijk op 31 december 2014 een goedkeuring is verleend op grond van de eisen, bedoeld in de Bijlage behorend bij artikel 3 van de Regeling keuringsvoorschriften motorrijtuigen luchtverontreiniging.  
+4.  In aanvulling op de eisen die ingevolge het eerste lid, aanhef en onderdeel q, in samenhang met Bijlage IV, van toepassing zijn, voldoen bij wijziging van de brandstofsoort in een al of niet tot vloeistof verdicht gas door uitbouw van een LPG- of CNG-installatie, de uitbouw en het voertuig aan de eisen in Bijlage X, hoofdstuk 2, bij deze regeling.   
 5.  Een personenauto, bedrijfsauto of bus moet bij wijziging in de constructie tevens voldoen aan de in bijlage IX, hoofdstuk 3, artikel 3, onderdeel b, opgenomen eisen ten aanzien van het weggedrag, voor zover dit naar het oordeel van de Dienst Wegverkeer noodzakelijk is met het oog op het veilig gebruik van het voertuig.   
 6.  Een motorfiets moet bij wijziging in de constructie tevens voldoen aan de in bijlage IX, hoofdstuk 5, titel 2, artikel 6, opgenomen eisen ten aanzien van het weggedrag voor zover dit naar het oordeel van de Dienst Wegverkeer noodzakelijk is met het oog op het veilig gebruik van het voertuig.  
 7.  Het zesde lid is van overeenkomstige toepassing op bromfietsen en driewielige motorrijtuigen.   
@@ -11959,7 +11958,7 @@ Indien de vaststelling van het voertuigidentificatienummer geschiedt zonder afzo
 
 ####Vaststelling voertuigidentificatienummer met afzonderlijk onderzoek voertuig
 
-Indien vaststelling van het voertuigidentificatienummer geschiedt in het kader van de aanvraag van een inschrijving, dan wel inschrijving en tenaamstelling, met gebruikmaking van de bevoegdheid bedoeld in artikel 46, tweede lid, onderdeel a, met een afzonderlijk onderzoek van het betrokken voertuig, voor een individuele goedkeuring, dan wel voor een ander onderzoek, wordt het voertuigidentificatienummer vastgesteld overeenkomstig het bepaalde in de artikelen 4 tot en met 8. 
+Indien vaststelling van het voertuigidentificatienummer geschiedt in het kader van de aanvraag van een inschrijving, dan wel inschrijving en tenaamstelling, met gebruikmaking van de bevoegdheid bedoeld in artikel 46, tweede lid, onderdeel a, met een afzonderlijk onderzoek van het betrokken voertuig, voor een individuele goedkeuring, dan wel voor een ander onderzoek, wordt het voertuigidentificatienummer vastgesteld overeenkomstig het bepaalde in de artikelen 4 tot en met 10. 
 
 ### Artikel  4  
 
@@ -12402,6 +12401,8 @@ b. met de voertuigclassificatie M<sub>1</sub>, N<sub>1</sub>, L5e of L7e voldoen
 
 2.In aanvulling op het eerste lid moeten voertuigen van de voertuigcategorie O voldoen aan de eisen opgenomen in annex 1 van deze bijlage.
 
+3. In aanvulling op het eerste lid, met uitzondering van voertuigen die behoren tot een verhuisboedel, voldoet een voertuig met de voertuigclassificatie M1, N1 of N2, met een toegestane maximummassa van niet meer dan 3.500 kilogram en met een datum van eerste toelating van voor 1 januari 1998, indien het is voorzien van een motor die kan worden gevoed door een al dan niet tot vloeistof verdicht gas, aan de emissie-eisen zoals die luidden op de datum van eerste toelating. 
+
 ### Artikel  5  
 
 1. Voertuigen met de voertuigclassificatie M<sub>2</sub> en M<sub>3</sub> met een datum eerste toelating van na 11 februari 2005 doch voor 30 april 2009, moeten voor het verkrijgen van een individuele goedkeuring voor toelating tot het verkeer op de weg voldoen aan de voor het voertuig gestelde: 
@@ -12434,7 +12435,9 @@ a. permanente eisen, en
 
 b. eisen betreffende de inrichting van het voertuig als bedoeld in annex 2 van deze bijlage.    
 
-2. Voertuigen die voldoen aan de eisen als bedoeld in VN/ECE-reglement 52, VN/ECE-reglement 36 of VN/ECE-reglement 107 worden geacht te voldoen aan de eisen bedoeld in het eerste lid, onderdeel b.   
+2. Voertuigen die voldoen aan de eisen als bedoeld in VN/ECE-reglement 52, VN/ECE-reglement 36 of VN/ECE-reglement 107 worden geacht te voldoen aan de eisen bedoeld in het eerste lid, onderdeel b.  
+
+3. In aanvulling op het eerste lid voldoet een voertuig met de voertuigclassificatie M2, met een toegestane maximummassa van niet meer dan 3.500 kilogram en met een datum van eerste toelating van voor 1 januari 1998, indien het is voorzien van een motor die kan worden gevoed door een al dan niet tot vloeistof verdicht gas, aan de emissie-eisen zoals die luidden op de datum van eerste toelating.  
 
 ### Artikel  8  
 
@@ -14190,11 +14193,11 @@ c. hoofdbrandstof, waarbij:
 
 – ‘E/B’, ‘E/D’ of ‘E/G’ staat voor hybride;  
 
-– ‘G’, ‘G2’, of ‘G3’ staat voor LPG;  
+– ‘G’ staat voor LPG, eventueel gecombineerd met benzine;  
 
-– ‘H’ staat voor CNG;  
+– ‘H’ staat voor CNG, eventueel gecombineerd met benzine;  
 
-– ‘W’ staat voor waterstof.   Gecombineerde brandstoffen kunnen worden aangeduid met twee letters, waarbij de eerste letter de hoofdbrandstof is. Indien in het kentekenregister de brandstofcode ‘B’ is vermeld en in het voertuig is een LPG- of CNG-installatie gemonteerd geweest, moeten ten minste de volgende onderdelen van deze installatie zijn verwijderd: 
+– ‘W’ staat voor waterstof.   Gecombineerde brandstoffen kunnen worden aangeduid met twee letters, waarbij de eerste letter de hoofdbrandstof is. Indien in het kentekenregister de brandstofcode ‘G’ of ‘H’ niet aanwezig is mogen de volgende onderdelen van een LPG- of CNG-installatie niet gemonteerd zijn: 
 
 – verdamper/drukregelaar en/of een ander brandstofdoseringssysteem (een uitlaatstift, die bij een luchtgekoelde motor als verdamper fungeert, hoeft niet te worden verwijderd);  
 
@@ -14839,9 +14842,7 @@ b. 0.2% vol. koolmonoxide, indien het voertuig in gebruik is genomen na 30 juni
 
 1°. het een personenauto betreft, die in gebruik is genomen na 31 december 1997;  
 
-2°. het een personenauto betreft, die in gebruik is genomen na 31 december 1992, doch vóór 1 januari 1998, waarvan in het kentekenregister de vermelding ‘G3’ is vermeld;  
-
-3°. het een bedrijfsauto of een bus betreft met een toegestane maximummassa van niet meer dan 3.500 kg, die in gebruik is genomen na 31 december 1997.    
+2°. het een bedrijfsauto of een bus betreft met een toegestane maximummassa van niet meer dan 3.500 kg, die in gebruik is genomen na 31 december 1997.    
 
 5. Het eerste tot en met vierde lid is niet van toepassing op voertuigen die voorkomen in de lijst met voertuigspecifieke gegevens of indien dit door middel van documentatie van de voertuigfabrikant wordt aangetoond. Voor deze voertuigen gelden de in de lijst met voertuigspecifieke gegevens opgenomen eisen, of de in de documentatie van de voertuigfabrikant vermelde eisen. De lijst met voertuigspecifieke gegevens is niet van toepassing op motorvoertuigen voorzien van een LPG installatie.  
 
@@ -17061,7 +17062,7 @@ In deze bijlage wordt verstaan onder:
 
 ### Artikel  1.1  
 
-Bij wijziging van de brandstofsoort in LPG van een motorvoertuig, als bedoeld in artikel 6.3, tweede lid, van deze regeling, moet het brandstofsysteem voldoen aan de in deze afdeling opgenomen eisen en wordt beoordeeld volgens de bijbehorende wijze van keuren of voldoen aan en zijn aangebracht overeenkomstig VN/ECE-reglement 115.  
+Bij wijziging van de brandstofsoort in LPG als bedoeld in artikel 6.3, lid 3a, van deze regeling, voldoen het brandstofsysteem en de plaatsing van het brandstofsysteem aan de in deze afdeling opgenomen eisen en worden het brandstofsysteem en de plaatsing van het brandstofsysteem beoordeeld volgens de bijbehorende wijze van keuren.  
 
 |--- | Eisen  | Wijze van keuren  |
 |:---|:---|:---|
@@ -17309,7 +17310,7 @@ Bij wijziging van de brandstofsoort in LPG van een motorvoertuig, als bedoeld in
 | 3.  | Koperen gasleidingen moeten een buitendiameter van ten hoogste 12 mm en een wanddikte van ten minste 0,8 mm hebben, en stalen en roestvast stalen gasleidingen moeten een buitendiameter van ten hoogste 25 mm en een voor gas geschikte wanddikte hebben.  | Visuele controle, in geval van twijfel te meten met een geschikt meetmiddel.  |
 | 4.  | Niet-metalen gasleidingen zijn toegestaan mits zij aan de eisen van artikel 1.3 voldoen.  | Lid 4 en 5: de wijze van keuren van artikel 1.3 is van toepassing.  |
 | 5.  | In plaats van een gasleiding mag ook een gasslang worden gebruikt mits deze aan de eisen van artikel 1.3 voldoet.  | --- |
-| 6.  | De fabricagedatum van de flexibele slangen die worden toegepast in een gedeelte waar de druk hoger is dan 0,2 bar mag niet verder terug zijn gelegen dan 1 jaar.  | Leden 6 tot en met 9: visuele controle, zo nodig terwijl het motorvoertuig zich boven een inspectieput of op een hefinrichting bevindt.  |
+| 6.  | De fabricagedatum van de flexibele slangen die worden toegepast in een gedeelte waar de druk hoger is dan 0,2 bar mag niet verder terug zijn gelegen dan 2 jaar.  | Leden 6 tot en met 9: visuele controle, zo nodig terwijl het motorvoertuig zich boven een inspectieput of op een hefinrichting bevindt.  |
 | 7.  | Gasleidingen met uitzondering van niet-metalen gasleidingen dienen zodanig te worden bevestigd dat zij niet aan trillingen of spanningen blootstaan.  | --- |
 | 8.  | Gasslangen en niet-metalen gasleidingen dienen zodanig te worden bevestigd dat zij niet aan spanningen blootstaan.  | --- |
 | 9.  | Een gasleiding mag niet door middel van lassen of solderen dan wel met behulp van aluminium bevestigingsmiddelen zijn bevestigd.  | --- |
@@ -17366,9 +17367,7 @@ Bij wijziging van de brandstofsoort in LPG van een motorvoertuig, als bedoeld in
 
 ### Artikel  1.29  
 
-1. Het brandstofsysteem van motorvoertuigen die zijn voorzien van een motor die wordt gevoed door CNG, moet voldoen aan het bepaalde in VN/ECE-reglement 110.  
-
-2. Bij wijziging van de brandstofsoort van een motorvoertuig als bedoeld in artikel 6.3, tweede lid, van deze regeling in CNG, moet het brandstofsysteem, in afwijking van het bepaalde in het eerste lid, ten aanzien van de CNG-onderdelen voldoen aan het gestelde in paragraaf 2.1 en op de in paragraaf 2.2 voorgeschreven wijze zijn aangebracht, of voldoen aan en zijn aangebracht overeenkomstig VN/ECE-reglement 115.   
+Bij wijziging van de brandstofsoort in CNG als bedoeld in artikel 6.3, lid 3a, van deze regeling, voldoen het brandstofsysteem en de plaatsing van het brandstofsysteem aan de in deze afdeling opgenomen eisen en worden het brandstofsysteem en de plaatsing van het brandstofsysteem beoordeeld volgens de bijbehorende wijze van keuren. 
 
 ### §  2.1  
 
@@ -17932,7 +17931,7 @@ De in de gasdichte behuizing aanwezige elektrische verbindingen en voorzieningen
 
 ### Artikel  2.1  
 
-Indien bij een voertuig als bedoeld in artikel 6.3, derde lid, van deze regeling, de wijziging van de motorbrandstof plaats vindt door uitbouw van een LPG-installatie, moeten de volgende onderdelen van deze installatie verwijderd worden: 
+Indien bij een voertuig als bedoeld in artikel 6.3, lid 3a, van deze regeling, de wijziging van de motorbrandstof plaats vindt door uitbouw van een LPG-installatie, moeten de volgende onderdelen van deze installatie verwijderd worden: 
 
 a. de LPG-tank inclusief alle aansluitingen;  
 
@@ -17948,7 +17947,7 @@ f. de vulaansluiting, tenzij deze definitief is afgeplugd.
 
 ### Artikel  2.2  
 
-Indien bij een voertuig als bedoeld in artikel 6.3, derde lid, van deze regeling, de wijziging van de motorbrandstof plaats vindt door uitbouw van een CNG-installatie, moeten de volgende onderdelen van deze installatie verwijderd worden: 
+Indien bij een voertuig als bedoeld in artikel 6.3, lid 3a, van deze regeling, de wijziging van de motorbrandstof plaats vindt door uitbouw van een CNG-installatie, moeten de volgende onderdelen van deze installatie verwijderd worden: 
 
 a. de CNG-tank inclusief alle aansluitingen;  
 

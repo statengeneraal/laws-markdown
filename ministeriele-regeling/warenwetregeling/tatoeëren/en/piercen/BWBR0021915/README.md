@@ -5,18 +5,18 @@
 De Minister van Volksgezondheid, Welzijn en Sport,  
 Handelende in overeenstemming met de Minister van Economische Zaken;
 
-Gelet op de [artikelen 4, vijfde lid](../../../../../../AMvB/warenwetbesluit/tatoeëren/en/piercen/BWBR0021605/README.md), en [9, van het Warenwetbesluit tatoeëren en piercen](../../../../../../AMvB/warenwetbesluit/tatoeëren/en/piercen/BWBR0021605/README.md) en [artikel 25, eerste en vierde lid, van de Warenwet](../../../../../../wet/warenwet/BWBR0001969/README.md);
+Gelet op de artikelen 4, vijfde lid, en 9, van het Warenwetbesluit tatoeëren en piercen en artikel 25, eerste en vierde lid, van de Warenwet;
 Besluit:    
 
 ### Artikel  1  
 
 In deze regeling wordt verstaan onder: 
 
-a. besluit: [Warenwetbesluit tatoeëren en piercen](../../../../../../AMvB/warenwetbesluit/tatoeëren/en/piercen/BWBR0021605/README.md);  
+a. besluit: Warenwetbesluit tatoeëren en piercen;  
 
-b. GGD: gemeentelijke gezondheidsdienst als bedoeld in [artikel 14, eerste lid, van de Wet publieke gezondheid](../../../../../../wet/wet/publieke/gezondheid/BWBR0024705/README.md);  
+b. GGD: gemeentelijke gezondheidsdienst als bedoeld in artikel 14, eerste lid, van de Wet publieke gezondheid;  
 
-c. vergunning: vergunning als bedoeld in [artikel 3 van het besluit](../../../../../../AMvB/warenwetbesluit/tatoeëren/en/piercen/BWBR0021605/README.md).   
+c. vergunning: vergunning als bedoeld in artikel 3 van het besluit.   
 
 ### Artikel  2  
 
@@ -36,9 +36,9 @@ c. voor het gebruik van welke materialen de vergunning wordt gevraagd.
 1.  De vergunning heeft een geldigheidsduur van drie jaar.   
 2.  Indien de aanvrager een vergunning vraagt in verband met de beëindiging van een eerder voor dezelfde ruimte verleende vergunning, behoudt die eerder verleende vergunning na afloop van de duur waarvoor zij is verleend haar geldigheid totdat: 
 
-a. indien toepassing wordt gegeven aan [artikel 4:14, derde lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), op de aanvraag is beslist, dan wel,  
+a. indien toepassing wordt gegeven aan artikel 4:14, derde lid, van de Algemene wet bestuursrecht, op de aanvraag is beslist, dan wel,  
 
-b. indien [artikel 4:20b, eerste lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing is, totdat de van rechtswege verleende vergunning in werking is getreden.     
+b. indien artikel 4:20b, eerste lid, van de Algemene wet bestuursrecht van toepassing is, totdat de van rechtswege verleende vergunning in werking is getreden.     
 3.  Het tweede lid is niet van toepassing indien de aanvraag voor de vergunning niet uiterlijk acht weken en drie dagen voor het beëindigen van de eerdere vergunning is gedaan. 
 
 ### Artikel  4  
@@ -76,10 +76,10 @@ e. € 493,13, indien:
 – die vormen van gebruik betrekking hebben op dezelfde ruimte.       
 2.  De retributie wordt vermeerderd met € 24,66 voor elk kwartier of gedeelte van een kwartier die de toezichthouder besteedt:
 
-a. aan de werkzaamheden die nodig zijn in verband met bij het onderzoek, bedoeld in [artikel 4, derde lid, van het besluit](../../../../../../AMvB/warenwetbesluit/tatoeëren/en/piercen/BWBR0021605/README.md) geconstateerde gebreken die aanleiding geven tot vervolgonderzoek, voordat tot het verlenen van de vergunning kan worden overgegaan; of  
+a. aan de werkzaamheden die nodig zijn in verband met bij het onderzoek, bedoeld in artikel 4, derde lid, van het besluit geconstateerde gebreken die aanleiding geven tot vervolgonderzoek, voordat tot het verlenen van de vergunning kan worden overgegaan; of  
 
-b. om te reizen, teneinde het onderzoek, bedoeld in [artikel 4, derde lid, van het besluit](../../../../../../AMvB/warenwetbesluit/tatoeëren/en/piercen/BWBR0021605/README.md), en indien van toepassing het vervolgonderzoek bedoeld onder a, in te stellen.     
-3.  Indien het onderzoek, bedoeld in [artikel 4, derde lid, van het besluit](../../../../../../AMvB/warenwetbesluit/tatoeëren/en/piercen/BWBR0021605/README.md), in overleg met de aanvrager op een later tijdstip wordt voortgezet, wordt de retributie verhoogd met een bedrag van € 24,66 voor elk kwartier of gedeelte van een kwartier: 
+b. om te reizen, teneinde het onderzoek, bedoeld in artikel 4, derde lid, van het besluit, en indien van toepassing het vervolgonderzoek bedoeld onder a, in te stellen.     
+3.  Indien het onderzoek, bedoeld in artikel 4, derde lid, van het besluit, in overleg met de aanvrager op een later tijdstip wordt voortgezet, wordt de retributie verhoogd met een bedrag van € 24,66 voor elk kwartier of gedeelte van een kwartier: 
 
 a. dat de voortzetting duurt, en  
 
@@ -105,7 +105,7 @@ c. de risico’s van het gebruik van het materiaal bij gezondheidsklachten.
 
 ### Artikel  7  
 
-Als ambtenaren belast met het toezicht op de naleving van [artikel 24](../../../../../../wet/warenwet/BWBR0001969/README.md) en op de naleving van het bepaalde bij of krachtens het [Warenwetbesluit tatoeëren en piercen](../../../../../../AMvB/warenwetbesluit/tatoeëren/en/piercen/BWBR0021605/README.md), worden aangewezen de ambtenaren werkzaam bij de GGD’en. 
+Als ambtenaren belast met het toezicht op de naleving van artikel 24 en op de naleving van het bepaalde bij of krachtens het Warenwetbesluit tatoeëren en piercen, worden aangewezen de ambtenaren werkzaam bij de GGD’en. 
 
 ### Artikel  8  
 

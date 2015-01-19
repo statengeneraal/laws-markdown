@@ -54,7 +54,7 @@ De beperkingen, bedoeld in artikel 2.1, eerste en tweede lid, van het besluit, z
 
 ### Artikel  2.2  
 
-De diploma’s, certificaten en andere documenten, behaald in het Nederlandstalig onderwijs in de openbare lichamen Bonaire, Sint Eustatius of Saba, of in Aruba, Curaçao of Sint Maarten, bedoeld in artikel 2.3, eerste lid, onderdeel f, van het besluit, zijn opgenomen in bijlage 2 bij deze regeling. 
+De diploma’s, certificaten en andere documenten, behaald in het Nederlandstalig onderwijs in de openbare lichamen Bonaire, Sint Eustatius of Saba, of in Aruba, Curaçao of Sint Maarten, bedoeld in artikel 2.3, eerste lid, onderdeel e, van het besluit, zijn opgenomen in bijlage 2 bij deze regeling. 
 
 ### Artikel  2.2a 
 
@@ -93,7 +93,7 @@ f. Certificaat Profiel Academische Taalvaardigheid (ERK-niveau C1).
 
 ### Artikel  2.2d  
 
-Van de verplichting om mondelinge en schriftelijke vaardigheden in de Nederlandse taal te verwerven en het betreffende onderdeel van het inburgeringsexamen, bedoeld in artikel 3.9, eerste lid, onderdelen a, b, c of d, van het besluit te behalen is vrijgesteld de degene die beschikt over een certificaat dat is afgegeven ter afronding van het examenonderdeel lezen, schrijven, luisteren respectievelijk spreken van het staatsexamen Nederlands als tweede taal. 
+Van de verplichting om mondelinge en schriftelijke vaardigheden in de Nederlandse taal te verwerven en het betreffende onderdeel van het inburgeringsexamen, bedoeld in artikel 3.9, eerste lid, onderdelen a, b, c of d, van het besluit te behalen is vrijgesteld de degene die beschikt over een certificaat dat is afgegeven ter afronding van het examenonderdeel lezen, schrijven, luisteren respectievelijk spreken van het staatsexamen Nederlands als tweede taal, alsmede degene die beschikt over een diploma van het examen Nederlands als tweede taal. 
 
 ### §  3  
 
@@ -568,9 +568,25 @@ s. verblijfsrecht op grond van artikel 3.4, derde lid, van het Vreemdelingenbesl
 
 ###Bijlage 2 
 
-####bij artikel 2.2  (Nederlands-Antilliaanse en Arubaanse diploma’s)
+####, behorende bij artikel 2.2, tweede lid 
 
-Ligt ter inzage bij het Ministerie van Justitie.
+Vrijstellingen diploma’s voormalige Nederlandse Antillen:  *Niet* inburgeringsplichtig is degene die beschikt over een diploma van een van de volgende opleidingen, mits een voldoende is behaald voor het eindexamenvak Nederlandse taal: 
+
+####BES eilanden
+
+St. Eustatius: diploma VSBO en HAVO. Bonaire: diploma VSBO, HAVO en VWO. Saba diploma HAVO (onderwijs is in Engels) met voldoende voor eindexamenvak Nederlands. Diploma middelbaar beroepsonderwijs (mbo)niveau 3 en 4 op de drie eilanden. 
+
+####Curaçao
+
+Diploma VSBO, HAVO en VWO. Diploma Secundair Beroepsonderwijs (SBO) niveau 2 tot en met 4 Diploma van Instituto pa Formashon den Enfermeria (IFE) niveau 2 tot en met niveau 5. Diploma University of Curacao mr. Dr. Moises Frumencio da Costa Gomez. 
+
+####Aruba
+
+Diploma VMBO, MAVO, HAVO, VWO en LBO (niveau 1 en 2 doorstroom naar mbo) Diploma middelbaar beroepsonderwijs Diploma Hoger Beroepsonderwijs (leerkracht) Diploma Universiteit van Aruba rechtsgeleerdheid en financieel economische faculteit. 
+
+####Sint Maarten
+
+Diploma VSBO, HAVO en VWO (Milton Peters College). 
 
 ###Bijlage 4 
 

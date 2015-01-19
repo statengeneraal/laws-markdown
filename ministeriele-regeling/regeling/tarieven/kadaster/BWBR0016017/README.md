@@ -47,7 +47,7 @@ f. indien het een projectmanager of senior GIS-specialist betreft: € 36,–.
 ### Artikel  2  
 
 1.  Onverminderd de verschuldigdheid van het tarief overeenkomstig artikel 4, eerste lid, onderdeel b of c, is voor de inschrijving van een stuk, dat aanleiding is tot het vormen van percelen, per onroerende zaak verschuldigd: € 1.200,–.   
-2.  Onverminderd de verschuldigdheid van het tarief overeenkomstig artikel 4, eerste lid, onderdeel a, is voor de inschrijving van een stuk, dat aanleiding is tot het verifiëren van voorlopige grenzen als bedoeld in artikel 16 sub a, per onroerende zaak verschuldigd: € 785,–.   
+2.  Onverminderd de verschuldigdheid van het tarief overeenkomstig artikel 4, eerste lid, onderdeel a, is voor de inschrijving van een stuk, dat aanleiding is tot het verifiëren van voorlopige grenzen als bedoeld in artikel 16, eerste lid, sub a, per onroerende zaak verschuldigd: € 785,–.   
 3.  Het bedrag genoemd in het tweede lid is niet verschuldigd indien die onroerende zaak een oppervlakte heeft van ten hoogste 100 centiare en ten aanzien van die onroerende zaak sprake is van een koopsom van ten hoogste € 5000,–, een tegenprestatie met een waarde van ten hoogste € 5000,– of bij het ontbreken van een koopsom of tegenprestatie een waarde van ten hoogste € 5000,–.   
 4.  Het aantal onroerende zaken waarop een stuk als bedoeld in het eerste en tweede lid betrekking heeft, wordt gelijk gesteld met het aantal in dat stuk genoemde kadastrale perceelnummers waarop het betrokken in te schrijven feit betrekking heeft, tenzij uit het stuk blijkt dat het op een ander aantal onroerende zaken betrekking heeft.  
 
@@ -68,14 +68,8 @@ a. indien het stuk is opgemaakt door middel van een kadasterstylesheet en leidt 
 b. indien het stuk in elektronische vorm ter inschrijving wordt aangeboden en niet is opgemaakt door middel van een kadasterstylesheet: € 74,–;  
 
 c. indien het stuk in papieren vorm ter inschrijving wordt aangeboden: € 98,–.     
-4.  Het derde lid is van overeenkomstige toepassing op de inschrijving in elektronische of papieren vorm van een stuk inhoudende een koopoptie of voorovereenkomst tot koop.   
-5.  Voor de inschrijving van een verklaring van erfrecht als bedoeld in artikel 188 Boek 4 van het Burgerlijk Wetboek is verschuldigd: 
-
-a. indien het stuk is opgemaakt door middel van een kadasterstylesheet en leidt tot bijhouding van een rechtszekerheidsregistratie op geautomatiseerde wijze: € 44,–;  
-
-b. indien het stuk in elektronische vorm ter inschrijving wordt aangeboden en niet is opgemaakt door middel van een kadasterstylesheet: € 74,–;  
-
-c. indien het stuk in papieren vorm ter inschrijving wordt aangeboden: € 98,–.     
+4.  Het derde lid is van overeenkomstige toepassing op de inschrijving in elektronische of papieren vorm van een stuk inhoudende een koopoptie of voorovereenkomst tot koop.  
+5. De inschrijving van een verklaring van erfrecht als bedoeld in artikel 188, Boek 4, van het Burgerlijk Wetboek is kosteloos.  
 6.  Voor de inschrijving van een stuk betreffende de doorhaling van een proces-verbaal van inbeslagneming of een beperkingenbesluit als bedoeld in artikel 1, onderdeel b, van de Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken is verschuldigd: 
 
 a. indien het stuk is opgemaakt door middel van een kadasterstylesheet en leidt tot bijhouding van een rechtszekerheidsregistratie op geautomatiseerde wijze: € 12,60;  
@@ -83,7 +77,7 @@ a. indien het stuk is opgemaakt door middel van een kadasterstylesheet en leidt 
 b. indien het stuk in elektronische vorm ter inschrijving wordt aangeboden en niet is opgemaakt door middel van een kadasterstylesheet: € 21,–;  
 
 c. indien het stuk in papieren vorm ter inschrijving wordt aangeboden: € 45,–.     
-7.  Voor de inschrijving van een stuk genoemd in het eerste, derde en vierde lid waarbij meer dan 50 objecten zijn betrokken of waarin meer dan 5 nieuwe rechthebbenden of rechtsfeiten zijn opgenomen of geen verwijzing naar objecten of eerder ingeschreven stukken is opgenomen, en dat geautomatiseerde bijhouding niet mogelijk maakt met een vooraf in depot gegeven mutatiebestand, worden de daar vermelde tarieven verhoogd met: 
+7.  Voor de inschrijving van een stuk genoemd in het eerste, derde en vierde lid waarbij meer dan 50 objecten zijn betrokken of waarin meer dan 5 nieuwe rechthebbenden of rechtsfeiten zijn opgenomen of geen verwijzing naar objecten of eerder ingeschreven stukken is opgenomen, en dat geautomatiseerde bijhouding niet mogelijk maakt met een vooraf met de Dienst afgesproken mutatieprocedure, worden de daar vermelde tarieven verhoogd met: 
 
 a. indien een verwijzing naar objecten of naar reeds ingeschreven stukken ontbreekt: € 50,–;  
 
@@ -160,7 +154,7 @@ b. voor een abonnement op verstrekking via het openbare internet: € 208,– p
 
 c. voor een abonnement op verstrekking via een elektronische gegevensdrager: € 332,– per jaar per 1.000 objecten.     
 5.  Het tarief voor een abonnement als genoemd in het vierde lid onder b en c is eveneens van toepassing indien het abonnement is ingegaan voor 1 januari 2014 en voor die datum voor hetzelfde gebied de kadastrale kaart niet geleverd werd.   
-6.  Voor het opnieuw verstrekken van eerder verstrekte gegevens in het kader van een abonnement als bedoeld in het derde en vierde lid, is verschuldigd: € 595,–. 
+6.  Voor het opnieuw verstrekken van eerder verstrekte gegevens in het kader van een abonnement als bedoeld in het derde en vierde lid is per verstrekking verschuldigd: € 200,–. Dit tarief is eveneens van toepassing op een tweede mutatie-abonnement en geldt in dat geval per jaar. 
 
 ### Artikel  9  
 
@@ -226,7 +220,7 @@ b. ingeval in het afschrift meer dan 1.000.000 percelen worden betrokken, per pe
 a. indien de gegevens worden verstrekt door middel van het openbare internet: € 150,–, en  
 
 b. indien de gegevens worden verstrekt op een elektronische gegevensdrager: € 234,–.     
-3.  Voor het opnieuw verstrekken van eerder verstrekte gegevens in het kader van een abonnement als bedoeld in het tweede lid, is verschuldigd: € 595,–.  
+3.  Voor het opnieuw verstrekken van eerder verstrekte gegevens in het kader van een abonnement als bedoeld in het tweede lid is per verstrekking verschuldigd: € 200,–. Dit tarief is eveneens van toepassing op een tweede mutatie-abonnement en geldt in dat geval per jaar.  
 
 ### Artikel  15  
 
@@ -235,7 +229,7 @@ b. indien de gegevens worden verstrekt op een elektronische gegevensdrager: €�
 
 ### Artikel  16  
 
-Voor het op verzoek vormen van percelen, anders dan bedoeld in artikel 2, eerste lid, is per nieuw te vormen perceel verschuldigd, indien: 
+1. Voor het op verzoek vormen van percelen, anders dan bedoeld in artikel 2, eerste lid, is per nieuw te vormen perceel verschuldigd, indien: 
 
 a. percelen moeten worden gesplitst met voorlopige grenzen: € 90,–, onverminderd de toepassing van het tarief overeenkomstig onderdeel c dan wel artikel 2, tweede lid;  
 
@@ -244,14 +238,17 @@ b. percelen moeten worden gesplitst anders dan bedoeld in onderdeel a: € 615,
 c. de voorlopige grenzen, bedoeld in onderdeel a, definitief moeten worden ingemeten of geverifieerd: € 615,–;  
 
 d. uitsluitend percelen moeten worden samengevoegd: € 295,–.   
+2. In afwijking van het eerste lid, onderdelen b en c, is per nieuw te vormen perceel € 540,– verschuldigd, indien 50 of meer nieuw te vormen percelen als één samenhangend project kunnen worden ingemeten. Bij projecten van 200 of meer nieuw te vormen percelen wordt dit tarief verminderd met het tarief, bedoeld in artikel 1a, per kwartier minder te besteden tijd door een medewerker van de Dienst.
+3. Het eerste lid, onderdeel d, is niet van toepassing bij correcties van voorlopige grenzen.
 
 ### Artikel  17  
 
 1.  Voor de afgifte van een verklaring inhoudende de complexaanduiding ter zake van appartementsrechten of inhoudende een netwerkaanduiding is verschuldigd: € 233,–. Artikel 18, tweede lid, is van toepassing.   
 2.  Voor de vervaardiging van een netwerktekening op schaal 1:5.000 of op een kleinere schaal, met een strookbreedte van tenminste 500 meter, is verschuldigd: € 198,–, vermeerderd met € 45,– per tekening en € 0,67 per afgebeelde hectare.   
-3.  Voor het actualiseren van een in de afgelopen drie jaren door de Dienst vervaardigde netwerktekening, binnen het op die tekening weergegeven gebied, is verschuldigd: € 198,–, vermeerderd met € 45,– per tekening en € 0,11 per afgebeelde hectare.   
-4.  Voor de controle op inschrijvingsvereisten van een niet door de Dienst vervaardigde netwerktekening is € 198,– verschuldigd, vermeerderd met € 45,– per tekening.   
-5.  Voor het verrichten van een onderzoek naar ingeschreven beslagen en eisen tot vaststelling van de eigendom op grond van artikel 155 van de Overgangswet nieuw Burgerlijk Wetboek is per object verschuldigd: € 45,–.  
+3.  Voor het bijhouden van een in de afgelopen vijf jaren ingeschreven netwerktekening, binnen het op die tekening weergegeven gebied, is verschuldigd: € 198,–, vermeerderd met € 45,– per tekening en € 0,11 per afgebeelde hectare.  
+4. Voor het actualiseren van een nog niet in depot gegeven tekening waarvan het leidingtracé ongewijzigd blijft, is verschuldigd: € 198,–, vermeerderd met € 45,– per tekening. 
+5.  Voor de controle op inschrijvingsvereisten van een niet door de Dienst vervaardigde netwerktekening is € 198,– verschuldigd, vermeerderd met € 45,– per tekening.   
+6.  Voor het verrichten van een onderzoek naar ingeschreven beslagen en eisen tot vaststelling van de eigendom op grond van artikel 155 van de Overgangswet nieuw Burgerlijk Wetboek is per object verschuldigd: € 45,–.  
 
 ### Artikel  18  
 
@@ -307,15 +304,15 @@ d. per stuk, zonder de gegevens van de hypotheekhouder: € 0,75;
 
 4°. het andere gegevens betreft dan bedoeld onder 1° tot en met 3°, per akte: € 2,13;  
 
-5°. de gegevens, bedoeld onder 1° tot en met 4°, beschikbaar worden gesteld aan derden: 
+5°. de gegevens, bedoeld onder 1° tot en met 4°, beschikbaar worden gesteld aan derden:
 
-a. per relatie tussen perceel en rechthebbende: € 1,49;  
+a. per transactie of hypotheekinschrijving: € 1,49;  
 
-b. bij meer dan 50.000 relaties tussen perceel en rechthebbende, per relatie: € 1,12;  
+b. bij meer dan 50.000 transacties of hypotheekinschrijvingen per jaar, per transactie of hypotheekinschrijving: € 1,12;  
 
-c. bij meer dan 100.000 relaties tussen perceel en rechthebbende, per relatie: € 0,75;  
+c. bij meer dan 100.000 transacties of hypotheekinschrijvingen per jaar, per transactie of hypotheekinschrijving: € 0,75;  
 
-d. bij meer dan 200.000 relaties tussen perceel en rechthebbende en bij andere relaties dan de relatie tussen perceel en rechthebbende, bedoeld onder a tot en met c, per relatie: € 0,50;      
+d. bij meer dan 200.000 transacties of hypotheekinschrijvingen per jaar, per transactie of hypotheekinschrijving: € 0,50;      
 
 b. voor een opgave inzake statistische waarden, zijnde gemiddelden, aantallen of totalen van vastgoedtransacties, hypotheken of koopsommen: 
 
@@ -347,7 +344,7 @@ d. voor een woningrapport:
 
 e. voor een opgave inzake de coördinaten van adressen, percelen of centroïden van postcodegebieden, anders dan de gegevens uit de landelijke voorziening, bedoeld in artikel 26 van de Wet basisregistraties adressen en gebouwen, per coördinaat: € 0,01, met dien verstande dat per opgave ten hoogste € 595,– verschuldigd is;  
 
-f. voor een opgave inzake een indicatie of classificatie van de aard of toestand van een object: 
+f. voor een opgave inzake een indicatie of classificatie van de aard of toestand van een object of gebied: 
 
 1°. per indicatie of classificatie: € 0,04;  
 
@@ -379,7 +376,7 @@ c. indien het bestanden inzake vastgoedtransacties agrarische gronden betreft, p
 
 1.  Voor het verstrekken van een opgave van gegevens, die de Dienst heeft verkregen bij de uitvoering van de taken, bedoeld in artikel 3, eerste lid, onderdelen f en g, van de wet, of die de Dienst uit die gegevens heeft samengesteld, is verschuldigd: 
 
-a. voor een standaardopgave inzake gegevens uit de bestanden TOP10NL, TOP25raster, TOP50NL, TOP50raster, TOP100NL, TOP250NL, TOP250raster, TOP500NL, TOP1000NL, BRT-achtergrondkaart, TOP25namen, TOP50namen of TOP250namen: € 0,–;  
+a. voor een standaardopgave inzake gegevens uit de bestanden TOP10NL, TOP25raster, TOP50NL, TOP50raster, TOP100NL, TOP250NL, TOP250raster, TOP500NL, TOP1000NL, TOP25namen, TOP50namen of TOP250namen: € 0,–;  
 
 b. voor een opgave inzake het landelijk bestand TOP25-to-move: € 32,95;  
 
@@ -413,7 +410,9 @@ g. voor analoge topografische kaarten:
 
 8°. per kleurenkopie van een historische kaart, formaat A1: € 35,20;  
 
-9°. indien het lamineren van een kaartblad betreft: per stuk € 4,10;    
+9°. indien het lamineren van een kaartblad betreft: per stuk € 4,10;  
+
+10°.indien kaarten, herdrukken of kopieën per post worden geleverd: per verstrekking € 3,50;  
 
 h. voor analoge luchtfoto’s: 
 
@@ -431,7 +430,7 @@ i. voor een opgave inzake andere gegevens dan de gegevens, bedoeld onder a en d:
 a. per minuut die daaraan is besteed door middel van een computer: € 41,– en  
 
 b. per kwartier dat een medewerker van de Dienst daaraan heeft besteed: een bedrag gelijk aan het tarief, bedoeld in artikel 1a.     
-3.  Voor het gebruik van de digitale raadpleegdienst voor de in het eerste lid, onderdeel a, bedoelde gegevens door middel van een geautomatiseerd proces is verschuldigd: 
+3.  Voor het gebruik van de digitale raadpleegdienst voor de in het eerste lid, onderdeel a, bedoelde gegevens, alsmede de BRT-achtergrondkaart, door middel van een geautomatiseerd proces is verschuldigd: 
 
 a. bij 10.000 of minder maphits per maand: € 0,–;  
 
@@ -441,7 +440,7 @@ c. per maphit boven de 100.000 per maand: € 0,03.
 
 ### Artikel  22a  
 
-Voor het doen van een oriëntatieverzoek of een graafmelding als bedoeld in artikel 7 of 8 van de Wet informatie-uitwisseling ondergrondse netten is verschuldigd: € 21,50. 
+Voor het doen van een oriëntatieverzoek of een graafmelding als bedoeld in artikel 7 of 8 van de Wet informatie-uitwisseling ondergrondse netten is verschuldigd: € 21,50. Dit tarief geldt ook voor een calamiteitenmelding als bedoeld in artikel 7, vierde lid, van het Besluit informatie-uitwisseling ondergrondse netten. 
 
 ### Artikel  22b  
 
@@ -470,9 +469,9 @@ j. BAG Compact, abonnement, maandelijkse verstrekking: € 11,20 per maand.
 ### Artikel  22c  
 
 1.  Indien gegevens als bedoeld in artikel 7, eerste tot en met vijfde lid, artikel 8, tweede en derde lid, en vierde lid, onderdeel a en b, artikel 13, tweede lid, eerste volzin en vijfde lid, of artikel 14, eerste lid en tweede lid, onderdeel a, worden gebruikt door een overheidsorganisatie als genoemd op ‘almanak.overheid.nl’ voor de uitoefening van een openbare taak, worden deze gegevens kosteloos verstrekt.   
-2.  In afwijking van artikel 8, vierde lid, onderdeel c, en artikel 14, tweede lid, onderdeel b, is voor een abonnement op de aldaar bedoelde verstrekking op een elektronische gegevensdrager aan een overheidsorganisatie als bedoeld in het eerste lid, per jaar verschuldigd: € 595,–, ongeacht het aantal objecten of percelen dat in het abonnement is betrokken.   
+2.  In afwijking van artikel 8, vierde lid, onderdeel c, en artikel 14, tweede lid, onderdeel b, is voor een abonnement op de aldaar bedoelde verstrekking op een elektronische gegevensdrager aan een overheidsorganisatie als bedoeld in het eerste lid, per jaar verschuldigd: € 200,–, ongeacht het aantal objecten of percelen dat in het abonnement is betrokken.   
 3.  Indien gegevens als bedoeld in artikel 22, derde lid en artikel 22b worden gebruikt door een overheidsorganisatie als genoemd op ‘almanak.overheid.nl’ voor de uitoefening van een openbare taak, worden deze gegevens kosteloos verstrekt.   
-4.  In afwijking van het eerste en tweede lid is de aldaar bedoelde kosteloze verstrekking van gegevens niet van toepassing op de gemeenten, notarissen en gerechtsdeurwaarders.   
+4.  In afwijking van het eerste en tweede lid is de aldaar bedoelde kosteloze verstrekking van gegevens niet van toepassing op notarissen en gerechtsdeurwaarders.   
 5.  Het eerste tot en met derde lid zijn van overeenkomstige toepassing op politieke partijen die zijn vertegenwoordigd in de Eerste of Tweede Kamer der Staten-Generaal, alsmede op ProRail B.V. te Utrecht.  
 
 ### Hoofdstuk  3  
@@ -483,7 +482,7 @@ j. BAG Compact, abonnement, maandelijkse verstrekking: € 11,20 per maand.
 
 1.  Het aantal, genoemd in artikel 7, vierde lid, wordt naar boven afgerond op 20. De aantallen, genoemd in de artikelen 8, derde en vierde lid, en 14, tweede lid, worden naar boven afgerond op 1.000.   
 2.  Voor de toepassing van de artikelen 8, derde en vierde lid, en 14, tweede lid, wordt uitgegaan van het aantal objecten dan wel percelen waaruit het desbetreffende gebied bestaat op 1 januari van het jaar waarin de gegevensverstrekking plaatsvindt.   
-3.  Voor de verstrekkingen, bedoeld in de artikelen 8, tweede lid en vierde lid, onderdeel a, 14, eerste lid, 21, eerste lid, onderdelen a, b, e, f, g, onder 2°, en 22, eerste lid, onderdeel d, is ten minste een bedrag verschuldigd van € 78,50. Het minimumbedrag is niet van toepassing op een verstrekking door middel van het openbare internet.   
+3.  Voor de verstrekkingen, bedoeld in de artikelen 8, tweede lid en vierde lid, onderdeel a, 14, eerste lid, 21, eerste lid, onderdelen a, b, e, f, g, onder 2°, en 22, eerste lid, onderdeel d, is ten minste een bedrag verschuldigd ter hoogte van driemaal het kwartiertarief als bedoeld in artikel 1a, eerste lid, onderdeel b. Het minimumbedrag is niet van toepassing op een verstrekking door middel van het openbare internet.   
 4.  Het derde lid is van overeenkomstige toepassing indien de opgave, bedoeld in artikel 22, eerste lid, onderdelen a, d en f, een andere vorm of andere inhoud dan de standaardopgave heeft en het tarief, bedoeld in artikel 22, tweede lid verschuldigd is. 
 
 ### Artikel  25  

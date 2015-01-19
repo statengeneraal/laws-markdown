@@ -3,7 +3,7 @@
 ##Regeling specificaties en typegoedkeuring boordcomputer taxi
 
 De Minister van Verkeer en Waterstaat,  
-Gelet op de artikelen [artikel 22, eerste en derde lid](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [23, derde lid](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), en [24 van de Wegenverkeerswet 1994](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);
+Gelet op de artikelen artikel 22, eerste en derde lid, 23, derde lid, en 24 van de Wegenverkeerswet 1994;
 Besluit:     
 ### §  1  
 
@@ -33,23 +33,23 @@ In deze regeling wordt verstaan onder:
 
 *bewegingsopnemer:* instrument, of een deel ervan, gekoppeld aan de boordcomputer dat een signaal in de vorm van een impuls afgeeft over de beweging van de auto op basis waarvan de boordcomputer de afgelegde afstand van de auto kan bepalen;  
 
-*boordcomputer:* apparaat ten behoeve van de registratie van de gegevens, bedoeld in [artikel 79, derde, vierde en vijfde lid, van het Besluit personenvervoer 2000](../../../../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md);  
+*boordcomputer:* apparaat ten behoeve van de registratie van de gegevens, bedoeld in artikel 79, derde, vierde en vijfde lid, van het Besluit personenvervoer 2000;  
 
-*boordcomputerkaart:* een geheugenkaart als bedoeld in [artikel 1, onderdeel h, van het Besluit personenvervoer 2000](../../../../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md);  
+*boordcomputerkaart:* een geheugenkaart als bedoeld in artikel 1, onderdeel h, van het Besluit personenvervoer 2000;  
 
 *CEN:* door het Comité Européen de Normalisation uitgegeven norm;  
 
-*chauffeurskaart:* kaart als bedoeld in [artikel 1, onderdeel i, van het Besluit personenvervoer 2000](../../../../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md);  
+*chauffeurskaart:* kaart als bedoeld in artikel 1, onderdeel i, van het Besluit personenvervoer 2000;  
 
 *constante van de boordcomputer:* getal dat de waarde aangeeft van het ingangssignaal van de bewegingsopnemer dat nodig is ter aanwijzing en registratie van een afgelegde afstand van één kilometer, uitgedrukt in impulsen per kilometer;  
 
 *coördinaten:* een aanduiding om de positie van de auto op de aarde vast te leggen ten opzichte van het World Geodetic System 1984 coördinatenstelsel;  
 
-*elektronische handtekening:* een handtekening die voldoet aan de eisen, bedoeld in [artikel 15a, eerste tot en met vijfde lid, van Boek 3 van het Burgerlijk Wetboek](../../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md);  
+*elektronische handtekening:* een handtekening die voldoet aan de eisen, bedoeld in artikel 15a, eerste tot en met vijfde lid, van Boek 3 van het Burgerlijk Wetboek;  
 
 *ETSI:* door de European Telecommunications Standards Institute uitgegeven norm;  
 
-*fabrikant:* persoon of instantie die verantwoordelijk is voor alle aspecten van de goedkeuringsprocedure, bedoeld in [artikel 22, eerste lid, van de Wegenverkeerswet 1994](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
+*fabrikant:* persoon of instantie die verantwoordelijk is voor alle aspecten van de goedkeuringsprocedure, bedoeld in artikel 22, eerste lid, van de Wegenverkeerswet 1994;  
 
 *FIPS PUB:* een Federal Information Processing Standards Publication;  
 
@@ -71,7 +71,7 @@ In deze regeling wordt verstaan onder:
 
 *kaartsessie:* periode tussen het ingeven van de boordcomputerkaart en het wegschrijven van de afsluitende gegevens op de boordcomputerkaart door de boordcomputer;  
 
-*keuringskaart:* kaart als bedoeld in [artikel 1, onderdeel j, van het Besluit personenvervoer 2000](../../../../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md);  
+*keuringskaart:* kaart als bedoeld in artikel 1, onderdeel j, van het Besluit personenvervoer 2000;  
 
 *kilometerstand:* de door de boordcomputer getotaliseerde afgelegde afstand met de auto, zowel bij vooruitrijden als bij achteruitrijden, overeenkomend met de totale door de auto afgelegde afstand;  
 
@@ -97,7 +97,7 @@ In deze regeling wordt verstaan onder:
 
 *richtlijn 2007/46/EG:* richtlijn nr. 2007/46/EG van het Europees Parlement en de Raad van de Europese Unie van 5 september 2007 tot vaststelling van een kader voor de goedkeuring van motorvoertuigen en aanhangwagens daarvan en van systemen, onderdelen en technische eenheden die voor dergelijke voertuigen zijn bestemd (PbEU L 263);  
 
-*ritadministratie:* gegevens, bedoeld in [artikel 79, derde en vierde lid, van het Besluit personenvervoer 2000](../../../../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md);  
+*ritadministratie:* gegevens, bedoeld in artikel 79, derde en vierde lid, van het Besluit personenvervoer 2000;  
 
 *sensor:* eenheid die onderdeel uitmaakt van de boordcomputer of rechtstreeks gekoppeld is aan de boordcomputer en die informatie automatisch aanlevert aan de boordcomputer;  
 
@@ -109,7 +109,7 @@ In deze regeling wordt verstaan onder:
 
 *verplaatsingsopnemer:* instrument, onderdeel uitmakende van de boordcomputer dat de boordcomputer in staat stelt autonoom een verplaatsing van de auto waar te nemen;  
 
-*vervoerder:* vervoerder als bedoeld in [artikel 1, onderdeel k, van de Wet personenvervoer 2000](../../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) en werkgever als bedoeld in [artikel 1:1, eerste lid, onderdeel a, van de Arbeidstijdenwet](../../../../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md), die taxivervoer verricht.   
+*vervoerder:* vervoerder als bedoeld in artikel 1, onderdeel k, van de Wet personenvervoer 2000 en werkgever als bedoeld in artikel 1:1, eerste lid, onderdeel a, van de Arbeidstijdenwet, die taxivervoer verricht.   
 
 ### §  2  
 
@@ -190,7 +190,7 @@ c. taxivervoer.
 5.  In afwijking van de tabel, bedoeld in het vierde lid, leidt het invoeren van een inspectiekaart tijdens de deactivering, bedoeld in artikel 23, niet tot het automatisch selecteren van de controlemodus.   
 6.  De boordcomputer wisselt na een handmatig verzoek van de bestuurder daartoe tussen de werkingsniveaus van de operationele modus. Het werkingsniveau basis is daarbij altijd ingeschakeld.   
 7.  Indien het werkingsniveau taxivervoer is ingeschakeld, is tevens het werkingsniveau arbeidstijd ingeschakeld.   
-8.  Indien er geen chauffeurskaart aanwezig is stelt de boordcomputer de bestuurder in staat om bij het inschakelen van het werkingsniveau arbeidstijd handmatig het burgerservicenummer, bedoeld in de [Wet algemene bepalingen burgerservicenummer](../../../../../../../../wet/wet/algemene/bepalingen/burgerservicenummer/BWBR0022428/README.md), invoeren.   
+8.  Indien er geen chauffeurskaart aanwezig is stelt de boordcomputer de bestuurder in staat om bij het inschakelen van het werkingsniveau arbeidstijd handmatig het burgerservicenummer, bedoeld in de Wet algemene bepalingen burgerservicenummer, invoeren.   
 9.  De boordcomputer gebruikt de werkingsmodi om de voor die modi geldende toegangsregels voor toegangsrechten tot functies, objecten en gegevens toe te passen.   
 10.  Indien in de operationele modus het werkingsniveau arbeidstijd of taxivoer actief is, leidt het invoeren van de inspectiekaart tot het pauzeren van de operationele modus, inclusief de betreffende kaartsessie. Na het afsluiten van de controlemodus wordt de operationele modus hervat.  
 
@@ -242,7 +242,7 @@ e. het tijdstip van de positiebepaling.
 
 ### Artikel  9  
 
-1.  De boordcomputer registreert in de operationele modus, werkingsniveau arbeidstijd, de arbeids-, rij- en rusttijden, bedoeld in de [artikelen 5:4, tweede en derde lid](../../../../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md), [5:6](../../../../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md), en [5:9, van de Arbeidstijdenwet](../../../../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md) en de [artikelen 2.5:1](../../../../../../../../AMvB/arbeidstijdenbesluit/vervoer/BWBR0009386/README.md), [2.5:2](../../../../../../../../AMvB/arbeidstijdenbesluit/vervoer/BWBR0009386/README.md), [2.5:3](../../../../../../../../AMvB/arbeidstijdenbesluit/vervoer/BWBR0009386/README.md), [2.5:4](../../../../../../../../AMvB/arbeidstijdenbesluit/vervoer/BWBR0009386/README.md), [2.5:5](../../../../../../../../AMvB/arbeidstijdenbesluit/vervoer/BWBR0009386/README.md), [2.5:6, eerste lid](../../../../../../../../AMvB/arbeidstijdenbesluit/vervoer/BWBR0009386/README.md), en [2.5:7, van het Arbeidstijdenbesluit vervoer](../../../../../../../../AMvB/arbeidstijdenbesluit/vervoer/BWBR0009386/README.md) van de bestuurder en maakt daarbij het volgende onderscheid: 
+1.  De boordcomputer registreert in de operationele modus, werkingsniveau arbeidstijd, de arbeids-, rij- en rusttijden, bedoeld in de artikelen 5:4, tweede en derde lid, 5:6, en 5:9, van de Arbeidstijdenwet en de artikelen 2.5:1, 2.5:2, 2.5:3, 2.5:4, 2.5:5, 2.5:6, eerste lid, en 2.5:7, van het Arbeidstijdenbesluit vervoer van de bestuurder en maakt daarbij het volgende onderscheid: 
 
 a. rijtijd;  
 
@@ -275,7 +275,7 @@ c. pauze.
 
 De boordcomputer stelt in de operationele modus, werkingsniveau taxivervoer, ten behoeve van het afdrukken van een ritbewijs ten minste de volgende gegevens, inclusief een korte aanduiding van het gegeven, ter beschikking: 
 
-a. het personenvervoernummer dat staat aangegeven op de vergunning, bedoeld in [artikel 4, derde lid, van de Wet personenvervoer 2000](../../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md);  
+a. het personenvervoernummer dat staat aangegeven op de vergunning, bedoeld in artikel 4, derde lid, van de Wet personenvervoer 2000;  
 
 b. het kenteken van de auto;  
 
@@ -366,7 +366,7 @@ b. het nummer van de ondernemerskaart van de vervoerder zoals vastgelegd in de i
 1.  De boordcomputer beheert de bedrijfsvergrendelingen die een vervoerder aanbrengt in de bedrijfsmodus.   
 2.  De bedrijfsvergrendeling verhindert inzage in de geregistreerde gegevens voor anderen dan de vervoerder voor wie de gegevens zijn geregistreerd, met uitzondering van de houder van een inspectie- of werkplaatskaart.   
 3.  Indien de ondernemerskaart in de kaartlezer wordt ingebracht wordt de bedrijfsvergrendeling automatisch ingeschakeld, waarna de ondernemerskaart kan worden uitgenomen.   
-4.  Een bedrijfsvergrendeling bestaat uit de registratie van het personenvervoernummer dat staat aangegeven op de vergunning, bedoeld in [artikel 4, derde lid, van de Wet personenvervoer 2000](../../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), het aan de vervoerder toegekende unieke nummer, als bedoeld in [artikel 9, onderdeel a, van de Handelsregisterwet 2007](../../../../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md), het nummer van de ondernemerskaart, de datum en het tijdstip van de inschakeling en, voor zover van toepassing, de datum en het tijdstip van de uitschakeling van de bedrijfsvergrendeling.   
+4.  Een bedrijfsvergrendeling bestaat uit de registratie van het personenvervoernummer dat staat aangegeven op de vergunning, bedoeld in artikel 4, derde lid, van de Wet personenvervoer 2000, het aan de vervoerder toegekende unieke nummer, als bedoeld in artikel 9, onderdeel a, van de Handelsregisterwet 2007, het nummer van de ondernemerskaart, de datum en het tijdstip van de inschakeling en, voor zover van toepassing, de datum en het tijdstip van de uitschakeling van de bedrijfsvergrendeling.   
 5.  Een bedrijfsvergrendeling schakelt automatisch uit wanneer een andere vervoerder de vergrendeling inschakelt.   
 6.  Bij de eerste bedrijfsvergrendeling voor de betreffende vervoerder stelt de boordcomputer de ondernemer in staat handmatig de gegevens, bedoeld in artikel 11, onderdelen c en d, in te voeren.   
 7.  De boordcomputer stelt de vervoerder in staat om via de bedrijfsvergrendeling de gegevens, bedoeld in het zesde lid, te wijzigen.  
@@ -661,7 +661,7 @@ Met een boordcomputer als bedoeld in deze regeling wordt gelijkgesteld een boord
 
 ### Artikel  39  
 
-De [Regeling boordcomputer taxi](../../../../../../../../ministeriele-regeling/regeling/boordcomputer/taxi/BWBR0026626/README.md) wordt ingetrokken.
+De Regeling boordcomputer taxi wordt ingetrokken.
 
 ### Artikel  40  
 
@@ -1453,4 +1453,2099 @@ De volgende afhankelijkheden zijn niet vervuld:
 * FCS_CKM.4 (van FCS_COP.1): aangezien hashing geen sleutels gebruikt, hoeven de sleutels ook niet te worden vernietigd;  
 
 * FAU_SAA.1 (van FAU_ARP.1): aangezien iedere gebeurtenis op het leesvenster wordt getoond, is FAU_SAA niet nodig aangezien deze bedoeld is om selecties/combinaties van gebeurtenissen te maken.   
+
+### Bijlage  2  
+
+####Bij de regeling specificaties en typegoedkeuring boordcomputer taxi
+
+### Artikel  1  
+
+####Definities
+
+In deze bijlage wordt verstaan onder: 
+
+a.  *XML:* eXtensible Markup Language;  
+
+b.  *USB:* Universal Serial Bus;  
+
+c.  *ritadministratie.xsd:* XML schema definitie van het resultaatbericht van de gegevenslevering ritadministratie;  
+
+d.  *arbeidstijden.xsd:* XML schema definitie van het resultaatbericht van de gegevenslevering Arbeids-, rij en rusttijden;  
+
+e.  *coordinaten.xsd:* XML schema definitie van het resultaatbericht van de gegevenslevering coördinaten;  
+
+f.  *gebeurtenis.xsd:* XML schema definitie van het resultaatbericht van de gegevenslevering gebeurtenis;  
+
+g.  *onderzoek.xsd:* XML schema definitie van het resultaatbericht van de gegevenslevering onderzoek;  
+
+h.  *chauffeurskaartdata.xsd:* XML schema definitie van het resultaatbericht van de gegevenslevering chauffeurskaartdata.   
+
+### Artikel  2  
+
+####Algemeen
+
+### Artikel  2.1  
+
+####Doel
+
+In dit artikel worden de gemeenschappelijke kenmerken beschreven die gelden voor de gegevensleveringen ‘Ritadministratie’, ‘Arbeids-, rij- en rusttijden’, ‘Coördinaten’, ‘Gebeurtenis’, ’Onderzoek’ en ‘Chauffeurskaartdata’. 
+
+### Artikel  2.2  
+
+####Hardware koppeling
+
+De overbrengingsinterface die gebruikt wordt voor de gegevensoverbrenging naar een externe gegevensdrager is een USB poort. Er geldt: 
+
+a. de USB poort moet aantoonbaar compliant zijn met de specificaties zoals opgesteld door het USB Implementers Forum, Inc.;  
+
+b. de USB poort is een USB type A connector.   De snelheidseis, als beschreven in artikel 2.3, is leidend bij de keuze van USB 1.1 of hoger. Als de snelheidseis van alle gegevensleveringen (*‘Ritadministratie’*, *‘Arbeids-, rij- en rusttijden’, ‘Coördinaten’*, *‘Gebeurtenis’ ’Onderzoek’ en ‘Chauffeurskaartdata’*) beschreven in deze bijlage gehaald kan worden met USB 1.1 (12 Mbit/s) dan is USB 1.1 toegestaan, zo niet dan moet USB 2.0 (480 Mbit/s) of hoger gebruikt worden. 
+
+### Artikel  2.3  
+
+####Snelheidseis gegevenslevering
+
+Na opvragen van een gegevenslevering moet het corresponderende XML bericht binnen de volgende termijnen beschikbaar zijn op het externe gegevensdrager: 
+
+* Bestand tot 3 Mbyte binnen 10 seconden;  
+
+* Voor iedere Mbyte die het bestand groter is kan de termijn met 3 seconden worden vergroot.   
+
+### Artikel  2.4  
+
+####Bestandsformaat
+
+Voor externe opslagmedia moet het bestandssysteem FAT32 ondersteund worden. 
+
+### Artikel  2.5  
+
+####Overbrengingsprotocol
+
+De boordcomputer fungeert als host en neemt het initiatief voor gegevensoverdracht naar de externe gegevensdrager. 
+
+### Artikel  2.6  
+
+####Totstandkoming gegevenslevering
+
+Om een gegevenslevering tot stand te laten komen, stelt de boordcomputer de houder van een boordcomputerkaart in staat om: 
+
+a. zich met de boordcomputerkaart te authenticeren;  
+
+b. de externe gegevensdrager met de overbrengingsinterface van de boordcomputer te verbinden;  
+
+c. op de boordcomputer één of meerdere gegevensleveringen te selecteren. Standaard zijn alle gegevensleveringen waarvoor de gebruiker is geautoriseerd geselecteerd;  
+
+d. op de boordcomputer een periode in te voeren waarover gegevens opgevraagd moeten worden voor de betreffende gegevenslevering(en).  
+
+e. op de boordcomputer de betreffende gegevenslevering(en) over de ingevoerde periode met één gebruikershandeling starten.   Nadat alle geselecteerde gegevensleveringen succesvol zijn afgerond en de berichten met de gegevens beschikbaar zijn op de externe gegevensdrager, toont de boordcomputer een melding dat de gegevens beschikbaar zijn; 
+
+### Artikel  2.6.1  
+
+####Periode gegevenslevering
+
+De periode, als bedoeld in artikel 2.6, onderdeel d, bedraagt per levering maximaal 1 jaar, met uitzondering van de gegevenslevering ‘Onderzoek’ die geen maximum periode kent, en de gegevenslevering ‘Chauffeurskaartdata’ die de periode van de arbeids-, rij- en rusttijdendata van de chauffeurskaart overneemt. De standaardwaarde voor ‘Datumtijd begin periode’ is het tijdstip van opvragen minus 29 kalenderdagen, met uitzondering van de gegevenslevering ‘Onderzoek’, waar ‘Datumtijd begin periode’ standaard leeg is, en de gegevenslevering ‘Chauffeurskaartdata’, waar de standaarwaarde voor ‘Datumtijd begin periode’ overeenkomt met het oudste record op de chauffeurskaart. ‘Datumtijd einde periode’ is standaard leeg. Als bij opvragen van een gegevenslevering ‘Datumtijd begin periode’ leeg, wordt deze gevuld met de datum en het tijdstip van de activering. Is ‘Datumtijd einde periode’ leeg, dan wordt ‘Datumtijd einde periode’ gevuld met de datum en het tijdstip waarop het bericht wordt samengesteld; In de gegevenslevering ‘Coordinaten’, ‘Gebeurtenis’ en ‘Onderzoek’ worden alle gegevens opgenomen die binnen de opgevraagde periode vallen. In de gegevenslevering ‘Ritadministratie’, ‘Arbeidstijd’ en ‘Chauffeurskaartdata’ worden alle gegevensets opgenomen die de gevraagde periode, inclusief grenzen, overlappen. In de onderstaande tabel is de selectie voor deze gegevensleveringen verder uitgewerkt. Alle gegevensets worden opgenomen die voldoen aan één van de onderstaande condities:  
+
+| --- | --- |
+|:---|:---|
+| Conditie 1  |  *Datumtijd begin gegevenset* ligt vóór *Datumtijd begin periode*   en   *Datumtijd einde gegevenset* is gelijk aan *Datumtijd begin periode*   |
+| Conditie 2  |  *Datumtijd begin gegevenset* ligt vóór *Datumtijd begin periode*   en   *Datumtijd einde gegevenset* ligt ná *Datumtijd begin periode*   en   *Datumtijd einde gegevenset* ligt vóór *Datumtijd einde periode*   |
+| Conditie 3  |  *Datumtijd begin gegevenset* ligt vóór *Datumtijd begin periode*   en   *Datumtijd einde gegevenset* ligt ná *Datumtijd einde periode*   |
+| Conditie 4  |  *Datumtijd begin gegevenset* is gelijk aan *Datumtijd begin periode*   en   *Datumtijd einde gegevenset* ligt ná *Datumtijd begin periode*   en   *Datumtijd einde gegevenset* ligt vóór *Datumtijd einde periode*   |
+| Conditie 5  |  *Datumtijd begin gegevenset* is gelijk aan *Datumtijd begin periode*   en   *Datumtijd einde gegevenset* is gelijk aan *Datumtijd einde periode*   |
+| Conditie 6  |  *Datumtijd begin gegevenset* is gelijk aan *Datumtijd begin periode*   en   *Datumtijd einde gegevenset* ligt na *Datumtijd einde periode*   |
+| Conditie 7  |  *Datumtijd begin gegevenset* ligt na *Datumtijd begin periode*   en   *Datumtijd begin gegevenset* ligt voor *Datumtijd einde periode*   en   *Datumtijd einde gegevenset* ligt na *Datumtijd begin periode*   en   *Datumtijd einde gegevenset* ligt voor *Datumtijd einde periode*   |
+| Conditie 8  |  *Datumtijd begin gegevenset* ligt na *Datumtijd begin periode*   en   *Datumtijd begin gegevenset* ligt voor *Datumtijd einde periode*   en   *Datumtijd einde gegevenset* is gelijk aan *Datumtijd einde periode*   |
+| Conditie 9  |  *Datumtijd begin gegevenset* ligt na *Datumtijd begin periode*   en   *Datumtijd begin gegevenset* ligt voor *Datumtijd einde periode*   en   *Datumtijd einde gegevenset* ligt na *Datumtijd einde periode*   |
+| Conditie 10  |  *Datumtijd begin gegevenset* is gelijk aan *Datumtijd einde periode*   en   *Datumtijd einde gegevenset* ligt na *Datumtijd einde periode*   |
+
+De tabel kan als volgt gevisualiseerd worden. Alle gegevenssets behalve gegevensset 11 en 12 worden in het bericht opgenomen. ![247008](http://wetten.overheid.nl/Illustration/247008)
+Figuur 1 
+
+### Artikel  2.6.2  
+
+####Verwerking gegevenslevering
+
+Aanvragen van een gegevenslevering is een synchrone aanvraag die direct verwerkt moet worden. Als de boordcomputer bezig is met de verwerking van een aanvraag voor een gegevenslevering, dan is het niet mogelijk om dezelfde gegevenslevering of een andere gegevenslevering aan te vragen zolang de huidige aanvraag niet is afgerond. Het is wel eenvoudig mogelijk om een aanvraag te onderbreken. Na onderbreken van de huidige aanvraag is een nieuwe aanvraag van een gegevenslevering direct (< 1 seconde wachten) mogelijk. De overige functies van de boordcomputer blijven functioneren als de boordcomputer bezig is met het verwerken van een aanvraag voor een gegevenslevering *‘Ritadministratie’*, *‘Arbeids-, rij- en rusttijden’, ‘Coördinaten’*, *‘Gebeurtenis’*, *‘Onderzoek’ of ‘Chauffeurskaartdata’*. Overschrijven van een bericht op de externe gegevensdrager met dezelfde naam, is alleen toegestaan na een bevestiging van de gebruiker. 
+
+### Artikel  2.7  
+
+####Authenticatie en autorisatie
+
+Aanvragen van de gegevensleveringen *‘Ritadministratie’*, *‘Arbeids-, rij- en rusttijden’, ‘Coördinaten’*, *‘Gebeurtenis’, ’Onderzoek’ en ‘Chauffeurskaartdata’* moet alleen mogelijk zijn voor daartoe geauthenticeerde en geautoriseerde gebruikers. 
+
+### Artikel  2.8  
+
+####Integriteit
+
+De door de boordcomputer geregistreerde gegevens worden voorzien van een elektronische handtekening zodat achteraf de authenticiteit en integriteit van deze gegevens kan worden vastgesteld. Voor het aanmaken van de elektronische handtekeningen worden de boordcomputerkaarten gebruikt. De integriteit van gegevens wordt onderverdeeld in ‘integriteit exportbericht’ en ‘integriteit geregistreerde gegevens’. 
+
+### Artikel  2.8.1  
+
+####Integriteit exportbericht
+
+De boordcomputer kent zes gegevensleveringen, te weten *‘Ritadministratie’*, *‘Arbeids-, rij- en rusttijden’, ‘Coördinaten’*, *‘Gebeurtenis’, ’Onderzoek’ *en *‘Chauffeurskaartdata’*. Deze gegevensleveringen worden allen in een exportbericht vanuit de boordcomputer overgebracht. Dit exportbestand bestaat uit een gegevenlevering zoals gespecificeerd in artikel 3 t/m 8, in combinatie met de bijbehorende elektronische handtekening. Voor het genereren van het exportbericht en de bijbehorende elektronische handtekening wordt gebruik gemaakt van XAdES-BES. De XAdES specificatie (www.w3.org/TR/XAdES) is een door het World Wide Web Consortium (W3C) ontworpen standaard voor de XML syntax van elektronische handtekeningen. Het XML exportbericht bestaat uit een <Envelope>-element met daarin een <Gegevenslevering>-element en een <Signature>-element. Het <Gegevenslevering>-element bevat een resultaatbericht van een gegevenslevering zoals gespecificeerd in artikel 3 t/m 8. Het <Signature>-tag bevat de corresponderende elektronische handtekening en informatie over de totstandkoming van deze handtekening. Het XML exportbericht kent, conform de XAdES-BES specificatie, de volgende opbouw: ![247009](http://wetten.overheid.nl/Illustration/247009)
+Toelichting: 
+
+a. de <Gegevenslevering>-tag bevat het resultaat bericht van een gegevenslevering.  
+
+b. de <DigestValue>-tags bevatten de waarden van digests van de elementen Gegevenslevering en KeyInfo. Hierbij wordt gebruik gemaakt van onderstaande algoritmen.  
+
+c. de <SignatureValue>-tag bevat de elektronische handtekening op basis van de digest value en het onderstaande Signature algoritme.  
+
+d. de <X509Certificate>-tag bevat het certificaat met de publieke sleutel van de boordcomputer.   De volgende algoritmen worden voor het genereren van het exportbericht gebruikt:  
+
+| Onderwerp  | Algoritme  | URI  |
+|:---|:---|:---|
+| Digest  | SHA-1 *of*   SHA-256  | www.w3.org/2000/09/xmldsig#sha1 *of*   www.w3.org/2001/04/xmlenc#sha256  |
+| Encoding  | Base64  | www.w3.org/2000/09/xmldsig#base64  |
+| Signature  | RSA met SHA-1 *of*   RSA met SHA-256  | www.w3.org/2000/09/xmldsig#rsa-sha1 *of*   www.w3.org/2001/04/xmldsig-more#rsa-sha256  |
+| Canonicalization  | Canonical XML  | www.w3.org/TR/2001/REC-xml-c14n-20010315  |
+| Transformation  | Enveloped Signature  | www.w3.org/2000/09/xmldsig#enveloped-signature  |
+
+De keuze van het algoritme voor de Digest en de Signature is afhankelijk van het certificaat op de kaart waarmee de handtekening wordt gezet. Als dit certificaat met ‘RSA met SHA-256’ is ondertekend MOET SHA-256 worden gebruik. In de overige gevallen kan met SHA-1 worden volstaan. 
+
+### Artikel  2.8.2  
+
+####Integriteit geregistreerde gegevens
+
+Een aantal gegevens, die door de boordcomputer taxi worden geregistreerd, dienen vanaf het moment van vastleggen de waarborg van integriteit en authenticiteit te bevatten. In de specificatie van de gegevensleveringen in artikel 3 t/m 8 wordt aangegeven of de betreffende gegevens bij het vastleggen met een elektronische handtekening worden ondertekend. Hierbij wordt aangegeven welke private sleutel hiervoor gebruikt moet worden. Voor een gegeven dat bij vastleggen elektronisch ondertekend wordt, wordt een tekenbericht gegenereerd. Over dit tekenbericht wordt met behulp van XadES-BES een elektronische handtekening geplaatst. Het tekenbericht bestaat uit een <Envelope>-element met daarin een <Data>-element en een <Signature>-element. Het <Data>-element bevat de XML representatie van het te tekenen gegeven zoals gespecificeerd in de xsd’s in artikel 3 t/m 8. Het <Signature>-tag bevat de corresponderende elektronische handtekening en informatie over de totstandkoming van deze handtekening. ![247010](http://wetten.overheid.nl/Illustration/247010)
+Toelichting: 
+
+a. de <Data>-tag bevat de te tekenen data opgemaakt volgens het corresponderende xsd.  
+
+b. de <DigestValue>-tags bevatten de waarden van digests van de elementen Data en KeyInfo. Hierbij wordt gebruik gemaakt van de algoritmen zoals genoemd in artikel 2.8.1.  
+
+c. de <SignatureValue>-tag bevat de elektronische handtekening op basis van de digest value en het Signature algoritme zoals genoemd in artikel 2.8.1.   Na generatie van het tekenbericht wordt de waarde van het element <SignatureValue> als <Integriteit> element opgeslagen bij de gegevens, die gezamenlijk het <Data> element vormen, en waarover de elektronische handtekening is berekend. Het tekenbericht hoeft niet te worden opgeslagen, zolang het <Data> element dat is getekend kan worden gereproduceerd. Het genereren en vastleggen van de elektronische handtekening over het <Data> element vindt plaats bij het vastleggen van de gegevens die het Data element vormen. Bij het samenstellen van een exportbericht worden de gegevens van het <Data> element onveranderd overgenomen uit de administratie op de boordcomputer. Het <Data> element wordt opnieuw geproduceerd, en moet exact gelijk zijn aan het <Data> element waarvoor een elektronische handtekening is berekend bij vastleggen van het gegeven. De geregistreerde elektronische handtekening moet worden overgenomen in het <Integriteit> element, het is niet toegestaan om de elektronische handtekening opnieuw te berekenen. 
+
+### Artikel  2.8.3  
+
+####Processchema
+
+Een mogelijk proces voor het tekenen van gegevens en het exportbericht is weergegeven in figuur 2. ![247011](http://wetten.overheid.nl/Illustration/247011)
+Figuur 2 
+
+### Artikel  2.9  
+
+####Foutafhandeling
+
+Bij het opvragen van de gegevensleveringen kunnen foutsituaties optreden. Hierbij kan onderscheid gemaakt worden tussen functionele fouten, technische fouten en niet volledige gegevens. 
+
+### Artikel  2.9.1  
+
+####Functionele fouten
+
+Bij onderstaande foutsituaties moet de boordcomputer de bijbehorende foutmelding tonen:  
+
+| Foutsituatie  | Afhandeling  |
+|:---|:---|
+| Boordcomputer is niet vergrendeld sinds laatste activering  | Verwerking gegevenslevering(en) stopt en de boordcomputer toont de melding ‘Boordcomputer is niet vergrendeld sinds laatste activering’  |
+| Er is geen externe gegevensdrager verbonden met de overbrengingsinterface van de boordcomputer als de gebruiker een gegevenslevering start  | Verwerking gegevenslevering(en) stopt en de boordcomputer toont de melding ‘Geen externe gegevensdrager beschikbaar’  |
+|  *‘Datumtijd begin periode’* bevat geen geldige waarde als de gebruiker een gegevenslevering start. ‘*Datumtijd begin periode*‘ is verplicht.  | Verwerking gegevenslevering(en) stopt en de boordcomputer toont de melding ‘Datumtijd begin periode bevat geen geldige waarde’  |
+| ‘*Datumtijd einde periode*’ bevat geen geldige waarde als de gebruiker een gegevenslevering start. ‘*Datumtijd einde periode*‘ mag leeg zijn.  | Verwerking gegevenslevering(en) stopt en de boordcomputer toont de melding ‘Datumtijd einde periode bevat geen geldige waarde’  |
+|  *‘Datumtijd einde periode’* ligt voor ‘*Datumtijd begin periode’* als de gebruiker een gegevenslevering start.  | Verwerking gegevenslevering(en) stopt en de boordcomputer toont de melding ‘Datumtijd einde periode ligt voor Datumtijd begin periode’  |
+| Overige functionele foutsituaties  | Verwerking gegevenslevering stopt en de boordcomputer toont een foutmelding.  |
+
+### Artikel  2.9.2  
+
+####Technische fouten
+
+| Foutsituatie  | Afhandeling  |
+|:---|:---|
+| Exporteren van een bericht naar de externe gegevensdrager gaat fout  | Verwerking gegevenslevering(en) stopt en de boordcomputer toont de melding ‘Exporteren van een bericht naar de externe gegevensdrager is niet gelukt’  |
+| Overige technische foutsituaties  | Verwerking gegevenslevering stopt en de boordcomputer toont een foutmelding.  |
+
+### Artikel  2.9.3  
+
+####Onvolledige gegevens
+
+Het niet volledig zijn van gegevens op de boordcomputer mag geen reden zijn om een resultaat bericht niet te exporteren. 
+
+### Artikel  2.10  
+
+####Overige kenmerken
+
+| Kenmerk  | Invulling  |
+|:---|:---|
+| Tekenset bericht  | ISO 8859-1 (Latin 1).  |
+| Encoding bericht  | UTF-8  |
+
+### Artikel  3  
+
+####Ritadministratie
+
+### Artikel  3.1  
+
+####Gegevens
+
+Voor de ritadministratie worden de volgende gegevens onderkend:  
+
+| Entiteit  | Attribuut  |
+|:---|:---|
+| PERIODE  | --- |
+| --- | Datumtijd begin periode  |
+| --- | Datumtijd einde periode  |
+| AUTO  | --- |
+| --- | Kenteken  |
+| --- | --- |
+| VERVOERDER  | --- |
+| --- | KvK-nummer  |
+| --- | P-nummer  |
+| --- | --- |
+| ONDERNEMERSKAART  | --- |
+| --- | Ondernemerskaart volgnummer  |
+| --- | --- |
+| CERTIFICAAT BOORDCOMPUTER  | --- |
+| --- | Publieke sleutel boordcomputer  |
+| --- | --- |
+| BESTUURDER  | --- |
+| --- | BSN  |
+| --- | Chauffeurskaart volgnummer  |
+| --- | --- |
+| RIT  | --- |
+| --- | Rit volgnummer  |
+| --- | Mutatiecode  |
+| --- | Datumtijd registratie  |
+| --- | Type rit  |
+| --- | Coördinaat beginpunt rit  |
+| --- | Datumtijd begin rit  |
+| --- | Km stand begin rit  |
+| --- | Coördinaat eindpunt rit  |
+| --- | Datumtijd einde rit  |
+| --- | Km stand einde rit  |
+| --- | Ritprijs  |
+| --- | --- |
+| INTEGRITEIT  | --- |
+| --- | Elektronische handtekening boordcomputer  |
+| --- | Datumtijd handtekening  |
+
+Toelichting: 
+
+a. de PERIODE is het tijdvak waarover de gebruiker de ritadministratie heeft opgevraagd  
+
+b. RIT wordt per BESTUURDER uniek geïdentificeerd door een volgnummer.  
+
+c. er zijn 2 mogelijke waarden voor ‘Type rit’: ‘Beladen rit’ en Onbeladen rit’.  
+
+d. een RIT moet ondertekend worden met de elektronische handtekening van de boordcomputer om de integriteit van de ritgegevens achteraf te kunnen bepalen. Daartoe bevat INTEGRITEIT het attribuut ‘Elektronische handtekening boordcomputer’.  
+
+e. de Ritprijs is in eurocenten   
+
+### Artikel  3.2  
+
+####Functionele berichtstructuur
+
+De functionele berichtstructuur ziet er als volgt uit:  
+
+| --- | --- | --- | --- | --- | --- | --- |
+|:---|:---|:---|:---|:---|:---|:---|
+| --- | --- |
+| BERICHT  | --- |
+| --- | Datumtijd samenstellen bericht  | V  |
+| --- | PERIODE  | 1..1, V  |
+| --- | Datumtijd begin periode  | V  |
+| --- | Datumtijd einde periode  | V  |
+| --- | AUTO  | 1..1, V  |
+| --- | Kenteken  | V  |
+| --- | CERTIFICAAT BOORDCOMPUTER  | 1..1, V  |
+| --- | Publieke sleutel boordcomputer  | V  |
+| --- | VERVOERDER  | 1..*, V  |
+| --- | KvK-nummer  | V  |
+| --- | P-nummer  | V  |
+| --- | --- | ONDERNEMERSKAART  | 1..*, V  |
+| --- | --- | Ondernemerskaart volgnummer  | V  |
+| --- | --- | --- | RIT  | 0..*, V  |
+| --- | --- | --- | --- | ATA  | 1..1, V  |
+| --- | --- | --- | --- | Rit volgnummer  | V  |
+| --- | --- | --- | --- | Mutatiecode  | V  |
+| --- | --- | --- | --- | Datumtijd registratie  | V  |
+| --- | --- | --- | --- | Type rit  | V  |
+| --- | --- | --- | --- | Coordinaat beginpunt rit  | V  |
+| --- | --- | --- | --- | Datumtijd begin rit  | V  |
+| --- | --- | --- | --- | Km stand begin rit  | V  |
+| --- | --- | --- | --- | Coordinaat eindpunt rit  | O  |
+| --- | --- | --- | --- | Datumtijd einde rit  | O  |
+| --- | --- | --- | --- | Km stand einde rit  | O  |
+| --- | --- | --- | --- | Ritprijs  | O  |
+| --- | --- | --- | --- | --- | BESTUURDER  | 1..1, V  |
+| --- | --- | --- | --- | --- | BSN  | V  |
+| --- | --- | --- | --- | --- | Chauffeurskaart volgnummer  | V  |
+| --- | --- | --- | --- | INTEGRITEIT  | 1..1, O  |
+| --- | --- | --- | --- | Elektronische handtekening boordcomputer  | V  |
+| --- | --- | --- | --- | Datumtijd handtekening  | V  |
+
+Toelichting: 
+
+a. de linkerkolom beschrijft de hiërarchische structuur van het bericht.  
+
+b. de rechterkolom beschrijft voor alle entiteiten de cardinaliteit (1..1, 0..*) en (Verplicht, Optioneel)  
+
+c. voor een RIT wordt de bestuurder opgenomen in het bericht.   Opmerking: 
+
+a. alleen als de chauffeurskaart niet beschikbaar is tijdens registratie van een RIT moet Chauffeurskaart volgnummer van de BESTUURDER gevuld worden met nullen.  
+
+b. de attributen ‘Coordinaat eindpunt rit’, ‘Datumtijd einde rit’, ‘Km stand einde rit’, ‘Ritprijs’ en de entiteit INTEGRITEIT zijn verplicht tenzij de RIT nog niet is beëindigd.  
+
+c. de mutatiecode van een RIT is ‘I’ als het volgnummer van de RIT voor de eerste keer wordt geregistreerd. De I staat voor Insert.  
+
+d. annuleren van de laatste handmatig ingevoerde ‘Aanvang rit’ is mogelijk. Het te annuleren record bevat alleen gegevens van het begin van de rit (‘Rit volgnummer’, ‘Mutatiecode’, ‘Datumtijd registratie’, ‘Type rit’, ‘Coordinaat beginpunt rit’ , ‘Datumtijd begin rit’ en ‘Km stand begin rit’). Annuleren moet op de volgende manier worden aangegeven: 
+
+d1. de gegevens van het te annuleren record worden ongewijzigd ondertekend met de elektronische handtekening van de boordcomputer.  
+
+d2. een nieuwe record wordt geregistreerd met de volgende gegevens: het volgnummer is gelijk aan het volgnummer van het te annuleren record uit d1, mutatiecode is ‘D’, ‘Datumtijd registratie’ is het tijdstip van registreren van dit nieuwe record, en de waarden van de overige attributen zijn gelijk aan de waarden van de overeenkomstige attributen van het te annuleren record. Ook dit record moet ondertekend worden met de elektronische handtekening van de boordcomputer.    
+
+e. annuleren van de laatste handmatig ingevoerde ‘Einde rit’ is mogelijk. Het te annuleren record bevat zowel gegevens van het begin van de rit (‘Volgnummer’, ‘Mutatiecode’, ‘Datumtijd registratie’, ‘Type rit’, ‘Coordinaat beginpunt rit’, ‘Datumtijd begin rit’ en ‘Km stand begin rit’) als einde van de rit (‘Coordinaat einde rit’, ‘Datumtijd einde rit’, ‘Km stand einde rit’, ‘Ritprijs’). Annuleren moet op de volgende manier worden aangegeven: 
+
+e1. de gegevens van het te annuleren record worden ongewijzigd ondertekend met de elektronische handtekening van de boordcomputer als dit nog niet is gebeurd.  
+
+e2. een nieuwe record wordt geregistreerd met de volgende gegevens: het volgnummer is gelijk aan het volgnummer van het te annuleren record uit e1, mutatiecode is ‘D’, ‘Datumtijd registratie’ is het tijdstip van registreren van dit nieuwe record, en de waarden van de overige attributen zijn gelijk aan de waarden van de overeenkomstige attributen van het te annuleren record. Ook dit record moet ondertekend worden met de elektronische handtekening van de boordcomputer.  
+
+e3. een volgend nieuw record wordt geregistreerd met de volgende gegevens: het volgnummer is gelijk aan het volgnummer van het te annuleren record uit e1, mutatiecode is ‘M’, ‘Datumtijd registratie’ is het tijdstip van registreren van dit nieuwe record, de waarden van de attributen ‘Type rit’, ‘Coordinaat begin rit’ , ‘Datumtijd begin rit’ en ‘Km stand begin rit’ zijn gelijk aan de waarden van de overeenkomstige attributen van het te annuleren record, en de attributen ‘Coordinaat einde rit’ , ‘Datumtijd einde rit’, ‘Km stand einde rit’ en ‘Ritprijs’ zijn initieel leeg om gevuld te worden bij het opnieuw uitvoeren van de handmatige actie ‘Einde rit’.     
+
+### Artikel  3.3  
+
+####Technische berichtstructuur
+
+Als gegevensformaat wordt gebruik gemaakt van XML. Mapping functionele berichtstructuur naar technische berichtstructuur:  
+
+| Functionele berichtstructuur  | Technische berichtstructuur  |
+|:---|:---|
+| Datumtijd samenstellen bericht  | DatTdSmBr  |
+| PERIODE  | Periode  |
+| Datumtijd begin periode  | DatTdBegPr  |
+| Datumtijd einde periode  | DatTdEndPr  |
+| AUTO  | Auto  |
+| Kenteken  | Kntkn  |
+| CERTIFICAAT BOORDCOMPUTER  | CertificaatBCT  |
+| Publieke sleutel boordcomputer  | PbSlBc  |
+| VERVOERDER  | Vervoerder  |
+| KvK-nummer  | KvKnr  |
+| P-nummer  | Pnr  |
+| ONDERNEMERSKAART  | Ondernemerskaart  |
+| Ondernemerskaart volgnummer  | OkVgNr  |
+| RIT  | Rit  |
+| DATA  | Data  |
+| Rit volgummer  | RtVgNr  |
+| MutatieCode  | MtCd  |
+| Datumtijd registratie  | DatTdReg  |
+| Type rit  | Type  |
+| Coördinaat beginpunt rit  | LocBeg  |
+| Datumtijd begin rit  | DatTdBeg  |
+| Km stand begin rit  | KmStdBeg  |
+| Coördinaat eindpunt rit  | LocEnd  |
+| Datumtijd einde rit  | DatTdEnd  |
+| Km stand einde rit  | KmStdEnd  |
+| Ritprijs  | Prijs  |
+| BESTUURDER  | Bestuurder  |
+| BSN  | BSN  |
+| Chauffeurskaart volgnummer  | ChVgNr  |
+| INTEGRITEIT  | Integriteit  |
+| Elektronische handtekening boordcomputer  | ElHdBc  |
+| Datumtijd handtekening  | DatTdHd  |
+
+### Artikel  3.4  
+
+####Ritadministratie.xsd
+
+De onderstaande ritadministratie.xsd wordt gebruikt. ![247012](http://wetten.overheid.nl/Illustration/247012)
+![247013](http://wetten.overheid.nl/Illustration/247013)
+![247014](http://wetten.overheid.nl/Illustration/247014)
+![247015](http://wetten.overheid.nl/Illustration/247015)
+
+### Artikel  3.5  
+
+####Volgorde gegevens
+
+De geselecteerde ritten moeten gegroepeerd per vervoerder, en daarbinnen per ondernemerskaart, in oplopende volgorde van volgnummer worden opgenomen in de ritadministratie. 
+
+### Artikel  3.6  
+
+####Integriteit gegevens
+
+Alle ritten worden ondertekend worden met een elektronische handtekening op basis van de private sleutel van de systeemkaart. De ritadministratie bevat een element <Rit> en <Rit> bevat de elementen <Data> en <Integriteit>. Het <Data> element bevat de volgende ritgegevens: 
+
+○ RtVgNr  
+
+○ MtCd  
+
+○ DatTdReg  
+
+○ Type  
+
+○ LocBeg.Lat en LocBeg.Lon  
+
+○ DatTdBeg  
+
+○ KmStdBeg  
+
+○ LocEnd.Lat en LocEnd.Lon  
+
+○ DatTdEnd  
+
+○ KmStdEnd  
+
+○ Prijs  
+
+○ Bestuurder.BSN  
+
+○ Bestuurder.CkVgNr   Het <Integriteit> element bevat de elektronische handtekening van het bijbehorende Data element. Bij het samenstellen van de ritadministratie moeten de gegevens van het <Data> element onveranderd worden overgenomen uit de ritadministratie op de boordcomputer. Het berekenen van de ‘Elektronische handtekening boordcomputer’ van het <Data> element van een <Rit> wordt gedaan bij het beëindigen van de rit. De vastgelegde ‘Elektronische handtekening boordcomputer’ wordt per <Rit> onveranderd overgenomen in het onderliggende <Integriteit> element. 
+
+### Artikel  3.7  
+
+####Overige kenmerken
+
+### Artikel  3.7.1  
+
+####Naamgeving
+
+De naamgeving van de gegevenslevering ‘ritadministratie’ is als volgt: Ritadministratie_Kenteken-DatumtijdSamenstellenBericht_DatumtijdBeginPeriode _DatumtijdEindePeriode.xml. Hierbij worden de cursief gedrukte gegevens gevuld met de corresponderende registratiewaarde. De volgende formaten worden hierbij gebruikt:  
+
+| --- | --- |
+|:---|:---|
+| ○ DatumtijdSamenstellenBericht:  | CCYYMMDDHHMMSS;  |
+| ○ DatumtijdBeginPeriode:  | CCYYMMDDHHMM;  |
+| ○ DatumtijdEindePeriode:  | CCYYMMDDHHMM.  |
+
+### Artikel  3.7.2  
+
+####Berichtgrootte
+
+Bij 100 ritten is het bericht ‘ritadministratie’ maximaal 100 Kbyte groot. 
+
+### Artikel  4  
+
+####Arbeids-, rij- en rusttijden
+
+### Artikel  4.1  
+
+####Gegevens
+
+Voor het bericht *‘Arbeids-, rij- en rusttijden’* worden de volgende gegevens onderkend:  
+
+| Entiteit  | Attribuut  |
+|:---|:---|
+| PERIODE  | --- |
+| --- | Datumtijd begin periode  |
+| --- | Datumtijd einde periode  |
+| --- | --- |
+| AUTO  | --- |
+| --- | Kenteken  |
+| --- | --- |
+| VERVOERDER  | --- |
+| --- | KvK-nummer  |
+| --- | P-nummer  |
+| --- | --- |
+| ONDERNEMERSKAART  | --- |
+| --- | Ondernemerskaart volgnummer  |
+| --- | --- |
+| BESTUURDER  | --- |
+| --- | BSN  |
+| --- | Chauffeurskaart volgnummer  |
+| --- | --- |
+| CERTIFICAAT  | --- |
+| --- | Publieke sleutel chauffeur  |
+| --- | Publieke sleutel boordcomputer  |
+| --- | --- |
+| ARBEIDSTIJD  | --- |
+| --- | Arbeidstijd volgnummer  |
+| --- | Datumtijd registratie  |
+| --- | Datumtijd begin arbeidstijd  |
+| --- | Datumtijd einde arbeidstijd  |
+| --- | --- |
+| RIJTIJD  | --- |
+| --- | Rijtijd volgnummer  |
+| --- | Datumtijd registratie  |
+| --- | Datumtijd begin rijtijd  |
+| --- | Datumtijd begin rijtijd  |
+| --- | --- |
+| PAUZE  | --- |
+| --- | Pauze volgnummer  |
+| --- | Mutatiecode  |
+| --- | Datumtijd registratie  |
+| --- | Datumtijd begin pauze  |
+| --- | Datumtijd begin pauze  |
+| --- | --- |
+| ANDERE WERKZAAMHEDEN  | --- |
+| --- | Andere werkzaamheden volgnummer  |
+| --- | Mutatiecode  |
+| --- | Datumtijd registratie  |
+| --- | Datumtijd begin andere werkzaamheden  |
+| --- | Datumtijd einde andere werkzaamheden  |
+| --- | --- |
+| INTEGRITEIT  | --- |
+| --- | Elektronische handtekening chauffeur  |
+| --- | Elektronische handtekening boordcomputer  |
+| --- | Datumtijd handtekening  |
+
+Toelichting: 
+
+a. de PERIODE is het tijdvak waarover de gebruiker de arbeidstijden heeft opgevraagd  
+
+b. ARBEIDSTIJD wordt per BESTUURDER uniek geïdentificeerd door een volgnummer.  
+
+c. RIJTIJD wordt per BESTUURDER uniek geïdentificeerd door een volgnummer.  
+
+d. PAUZE wordt per BESTUURDER uniek geïdentificeerd door een volgnummer.  
+
+e. ANDERE WERKZAAMHEDEN wordt per BESTUURDER uniek geïdentificeerd door een volgnummer.  
+
+f. ARBEIDSTIJD, inclusief bijbehorende voorkomens van RIJTIJD, PAUZE en ANDERE WERKZAAMHEDEN, moet ondertekend worden met een elektronische handtekening om de integriteit van de gegevens achteraf te kunnen bepalen. Indien de chauffeurskaart aanwezig is wordt getekend met de elektronische handtekening van de chauffeur, indien de chauffeurskaart niet aanwezig is wordt getekend met de elektronische handtekening van de boordcomputer.   Opmerkingen 
+
+a. de mutatiecode van een PAUZE of ANDERE WERKZAAMHEDEN is ‘I’ als het volgnummer van de PAUZE of ANDERE WERKZAAMHEDEN voor de eerste keer wordt geregistreerd. De I staat voor Insert.  
+
+b. annuleren van de laatste handmatige actie is mogelijk. Voor PAUZE en ANDERE WERKZAAMHEDEN moet dit op volgende manier worden aangegeven: 
+
+b1. de bestaande PAUZE of ANDERE WERKZAAMHEDEN wordt niet gewijzigd.  
+
+b2. een nieuwe PAUZE of ANDERE WERKZAAMHEDEN wordt geregistreerd met het volgnummer van de PAUZE of ANDERE WERKZAAMHEDEN die geannuleerd moet worden.  
+
+b3. Datumtijd registratie van de nieuwe PAUZE of ANDERE WERKZAAMHEDEN is het tijdstip van registratie van de nieuwe PAUZE of ANDERE WERKZAAMHEDEN.  
+
+b4. Mutatiecode van de nieuwe PAUZE of ANDERE WERKZAAMHEDEN is ‘D’ om aan te geven dat de PAUZE of ANDERE WERKZAAMHEDEN met dit specifieke volgnummer geannuleerd moet worden.    
+
+c. voor de structuur van het bericht *‘Arbeids-, rij- en rusttijden’* zie de artikelen over ‘Functionele berichtstructuur’ en ‘Technische berichtstructuur’.  
+
+d. voor datatypen zie artikel over ‘Technische berichtstructuur’   
+
+### Artikel  4.2  
+
+####Functionele berichtstructuur
+
+De functionele bericht structuur ziet er als volgt uit:  
+
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|:---|:---|:---|:---|:---|:---|:---|:---|
+| --- | --- |
+| BERICHT  | --- |
+| --- | Datumtijd samenstellen bericht  | V  |
+| --- | PERIODE  | 1..1, V  |
+| --- | Datumtijd begin periode  | V  |
+| --- | Datumtijd einde periode  | V  |
+| --- | AUTO  | 1..1, V  |
+| --- | Kenteken  | V  |
+| --- | VERVOERDER  | 1..*, V  |
+| --- | KvK-nummer  | V  |
+| --- | P-nummer  | V  |
+| --- | --- | ONDERNEMERSKAART  | 1..*, V  |
+| --- | --- | Ondernemerskaart volgnummer  | V  |
+| --- | --- | --- | BESTUURDER  | 0..*, V  |
+| --- | --- | --- | BSN  | V  |
+| --- | --- | --- | Chauffeurskaart volgnummer  | V  |
+| --- | --- | --- | --- | CERTIFICAAT  | 1..1, V  |
+| --- | --- | --- | --- | Publieke sleutel chauffeur  | O  |
+| --- | --- | --- | --- | Publieke sleutel boordcomputer  | O  |
+| --- | --- | --- | --- | ARBEIDSTIJD  | 0..*, V  |
+| --- | --- | --- | --- | --- | DATA  | 1..1, V  |
+| --- | --- | --- | --- | --- | --- | Arbeidstijd volgnummer  | V  |
+| --- | --- | --- | --- | --- | --- | Datumtijd registratie  | V  |
+| --- | --- | --- | --- | --- | --- | Datumtijd begin arbeidstijd  | V  |
+| --- | --- | --- | --- | --- | --- | Datumtijd einde arbeidstijd  | V  |
+| --- | --- | --- | --- | --- | --- | RIJTIJD  | 0..*, V  |
+| --- | --- | --- | --- | --- | --- | Rijtijd volgnummer  | V  |
+| --- | --- | --- | --- | --- | --- | Datumtijd registratie  | V  |
+| --- | --- | --- | --- | --- | --- | Datumtijd begin rijtijd  | V  |
+| --- | --- | --- | --- | --- | --- | Datumtijd einde rijtijd  | V  |
+| --- | --- | --- | --- | --- | --- | PAUZE  | 0..*, V  |
+| --- | --- | --- | --- | --- | --- | Pauze volgnummer  | V  |
+| --- | --- | --- | --- | --- | --- | MutatieCode  | V  |
+| --- | --- | --- | --- | --- | --- | Datumtijd registratie  | V  |
+| --- | --- | --- | --- | --- | --- | Datumtijd begin pauze  | V  |
+| --- | --- | --- | --- | --- | --- | Datumtijd einde pauze  | V  |
+| --- | --- | --- | --- | --- | --- | ANDERE WERKZAAMHEDEN  | 0..*, V  |
+| --- | --- | --- | --- | --- | --- | Andere werkzaamheden volgnummer  | V  |
+| --- | --- | --- | --- | --- | --- | MutatieCode  | V  |
+| --- | --- | --- | --- | --- | --- | Datumtijd registratie  | V  |
+| --- | --- | --- | --- | --- | --- | Datumtijd begin andere werkzaamheden  | V  |
+| --- | --- | --- | --- | --- | --- | Datumtijd einde andere werkzaamheden  | V  |
+| --- | --- | --- | --- | --- | INTEGRITEIT  | 1..1, V  |
+| --- | --- | --- | --- | --- | --- | Elektronische handtekening chauffeur  | C  |
+| --- | --- | --- | --- | --- | --- | Elektronische handtekening boordcomputer  | C  |
+| --- | --- | --- | --- | --- | --- | Datumtijd handtekening  | V  |
+
+Toelichting: 
+
+a. de linkerkolom beschrijft de hiërarchische structuur van het bericht.  
+
+b. de rechterkolom beschrijft voor alle entiteiten de cardinaliteit (1..1, 0..*) en (Verplicht, Optioneel). De rechterkolom beschrijft voor alle attributen (Verplicht, Optioneel).  
+
+c. ook in de taxivervoermodus zonder chauffeurskaart moeten ARBEIDSTIJD, RIJTIJD, PAUZE en ANDERE WERKZAAMHEDEN worden vastgelegd. Alle voorkomens van ARBEIDSTIJD, RIJTIJD, PAUZE en ANDERE WERKZAAMHEDEN die zijn vastgelegd zonder chauffeurskaart worden per VERVOERDER uitgeleverd voor een BESTUURDER met het handmatig ingegeven BSN en het Chauffeurskaart volgnummer gevuld met nullen.  
+
+d. een bericht bevat per BESTUURDER de optionele attributen ‘Publieke sleutel chauffeur’ en ‘Publieke sleutel boordcomputer’ waarvan precies 1 attribuut verplicht gevuld moet worden. Als de BESTUURDER bekend is moet het attribuut ‘Publieke sleutel chauffeur’ gevuld worden, als de bestuurder onbekend is moet het attribuut ‘Publieke sleutel boordcomputer’ gevuld worden.  
+
+e. een bericht bevat per ARBEIDSTIJD de optionele attributen ‘Elektronische handtekening chauffeur’ en ‘Elektronische handtekening boordcomputer’ waarvan precies 1 attribuut verplicht gevuld moet worden. Als de bijbehorende BESTUURDER bekend is moet het attribuut ‘Elektronische handtekening chauffeur’ gevuld worden, als de bestuurder onbekend is moet het attribuut ‘Elektronische handtekening boordcomputer’ gevuld worden.   
+
+### Artikel    
+
+####4.3 Technische berichtstructuur
+
+Als gegevensformaat wordt gebruik gemaakt van XML. Mapping functionele berichtstructuur naar technische berichtstructuur  
+
+| Functionele berichtstructuur  | Technische berichtstructuur  |
+|:---|:---|
+| Datumtijd samenstellen bericht  | DatTdSmBr  |
+| PERIODE  | Periode  |
+| Datumtijd begin periode  | DatTdBegPr  |
+| Datumtijd einde periode  | DatTdEndPr  |
+| AUTO  | Auto  |
+| Kenteken  | Kntkn  |
+| VERVOERDER  | Vervoerder  |
+| KvK-nummer  | KvKnr  |
+| P-nummer  | Pnr  |
+| ONDERNEMERSKAART  | Ondernemerskaart  |
+| Ondernemerskaart volgnummer  | OkVgNr  |
+| BESTUURDER  | Bestuurder  |
+| BSN  | BSN  |
+| Chauffeurskaart volgnummer  | CkVgNr  |
+| CERTIFICAAT  | Certificaat  |
+| Publieke sleutel chauffeur  | PbSlCh  |
+| Publieke sleutel boordcomputer  | PbSlBc  |
+| ARBEIDSTIJD  | Arbeidstijd  |
+| DATA  | Data  |
+| Arbeidstijd volgnummer  | ArVgNr  |
+| Datumtijd registratie  | DatTdReg  |
+| Datumtijd begin arbeidstijd  | DatTdBeg  |
+| Datumtijd einde arbeidstijd  | DatTdEnd  |
+| RIJTIJD  | Rijtijd  |
+| Rijtijd volgnummer  | RtVgNr  |
+| Datumtijd registratie  | DatTdReg  |
+| Datumtijd begin rijtijd  | DatTdBeg  |
+| Datumtijd einde rijtijd  | DatTdEnd  |
+| PAUZE  | Pauze  |
+| Pauze volgnummer  | PzVgNr  |
+| Datumtijd registratie  | DatTdReg  |
+| Datumtijd begin pauze  | DatTdBeg  |
+| Datumtijd einde pauze  | DatTdEnd  |
+| ANDERE WERKZAAMHEDEN  | AndrWrkzmhdn  |
+| Andere werkzaamheden volgnummer  | AwVgNr  |
+| MutatieCode  | MtCd  |
+| Datumtijd registratie  | DatTdReg  |
+| Datumtijd begin andere werkzaamheden  | DatTdBeg  |
+| Datumtijd einde andere werkzaamheden  | DatTdEnd  |
+| INTEGRITEIT  | Integriteit  |
+| Elektronische handtekening chauffeur  | ElHdCh  |
+| Elektronische handtekening boordcomputer  | ElHdBc  |
+| Datumtijd handtekening  | DatTdHd  |
+
+### Artikel    
+
+####4.4 Arbeidstijden.xsd
+
+Het onderstaande Arbeidstijden.xsd wordt gebruikt. ![247016](http://wetten.overheid.nl/Illustration/247016)
+![247017](http://wetten.overheid.nl/Illustration/247017)
+![247018](http://wetten.overheid.nl/Illustration/247018)
+![247019](http://wetten.overheid.nl/Illustration/247019)
+
+### Artikel    
+
+####4.5 Volgorde gegevens
+
+De geselecteerde arbeidstijden moeten gegroepeerd per vervoerder, en daarbinnen per ondernemerskaart, en daarbinnen per bestuurder in oplopende volgorde van volgnummer worden opgenomen. Binnen een arbeidstijd moeten de rijtijd, pauze en andere werkzaamheden in oplopende volgorde van volgnummer worden opgenomen 
+
+### Artikel    
+
+####4.6 Integriteit gegevens
+
+Alle arbeidstijden worden ondertekend met een elektronische handtekening. Voor het plaatsen van de elektronische handtekening wordt gebruik gemaakt van de private sleutel van de chauffeurskaart indien deze aanwezig is, en van de private sleutel van de systeemkaart indien de chauffeurskaart niet aanwezig is. De ‘Arbeids-, rij- en rusttijden’ bevat een element <Arbeidstijd> en <Arbeidstijd> bevat de elementen <Data> en <Integriteit>. Het <Data> element bevat de volgende arbeidstijd gegevens: 
+
+○ ArVgNr  
+
+○ DatTdReg  
+
+○ DatTdBeg  
+
+○ DatTdEnd  
+
+○ Rijtijd  
+
+○ RtVgNr  
+
+○ DatTdReg  
+
+○ DatTdBeg  
+
+○ DatTdEnd  
+
+○ Pauze  
+
+○ PzVgNr  
+
+○ MtCd  
+
+○ DatTdReg  
+
+○ DatTdBeg  
+
+○ DatTdEnd  
+
+○ AndrWrkzmhdn  
+
+○ AwVgNr  
+
+○ MtCd  
+
+○ DatTdReg  
+
+○ DatTdBeg  
+
+○ DatTdEnd   Het <Integriteit> element bevat de elektronische handtekening chauffeur of elektronische handtekening boordcomputer van het bijbehorende <Data> element. Bij het samenstellen van bericht ‘Arbeids-, rij- en rusttijden’ moeten de gegevens van het <Data> element onveranderd worden overgenomen uit de boordcomputer. Het berekenen van de ‘Elektronische handtekening chauffeur’ of ‘Elektronische handtekening boordcomputer’ van het <Data> element moet gebeuren bij het beëindigen van een arbeidstijd. De vastgelegde ‘Elektronische handtekening chauffeur’ of ‘Elektronische handtekening boordcomputer’ moeten per arbeidstijd onveranderd worden overgenomen in het onderliggende <Integriteit> element. 
+
+### Artikel  4.7  
+
+####Overige kenmerken
+
+### Artikel  4.7.1  
+
+####Naamgeving
+
+De naamgeving van de gegevenslevering ‘arbeidstijd’ is als volgt: Arbeidstijd*_Kenteken-DatumtijdSamenstellenBericht_DatumtijdBeginPeriode _DatumtijdEindePeriode*.xml. Hierbij worden de cursief gedrukte gegevens gevuld met de corresponderende registratiewaarde. De volgende formaten worden hierbij gebruikt:  
+
+| --- | --- |
+|:---|:---|
+| ○ DatumtijdSamenstellenBericht:  | CCYYMMDDHHMMSS;  |
+| ○ DatumtijdBeginPeriode:  | CCYYMMDDHHMM;  |
+| ○ DatumtijdEindePeriode:  | CCYYMMDDHHMM.  |
+
+### Artikel  4.7.2  
+
+####Berichtgrootte
+
+Bij 100 arbeidstijden is het bericht ‘arbeidstijd’ maximaal 120 Kbyte groot. 
+
+### Artikel  5  
+
+####Coördinaten
+
+### Artikel  5.1  
+
+####Gegevens
+
+Voor het bericht ‘Coördinaten’ worden de volgende gegevens onderkend:  
+
+| Entiteit  | Attribuut  |
+|:---|:---|
+| PERIODE  | --- |
+| --- | Datumtijd begin periode  |
+| --- | Datumtijd einde periode  |
+| --- | --- |
+| AUTO  | --- |
+| --- | Kenteken  |
+| --- | --- |
+| VERVOERDER  | --- |
+| --- | KvK-nummer  |
+| --- | P-nummer  |
+| --- | --- |
+| ONDERNEMERSKAART  | --- |
+| --- | Ondernemerskaart volgnummer  |
+| --- | --- |
+| COORDINAAT  | --- |
+| --- | Coordinaat volgnummer  |
+| --- | Datumtijd registratie  |
+| --- | Breedtegraad  |
+| --- | Lengtegraad  |
+| --- | Werkingsmodus  |
+| --- | Werkingsniveau  |
+
+Toelichting: 
+
+a. de PERIODE is het tijdvak waarover de gebruiker de coördinaten heeft opgevraagd  
+
+b. COORDINAAT wordt per VERVOERDER uniek geïdentificeerd door een volgnummer.   Opmerkingen: 
+
+a. voor de structuur van het bericht ‘Coördinaten’ zie de artikelen over ‘Functionele berichtstructuur’ en ‘Technische berichtstructuur’.  
+
+b. voor datatypen zie artikel over ‘Technische berichtstructuur’   
+
+### Artikel  5.2  
+
+####Functionele berichtstructuur
+
+De functionele bericht structuur ziet er als volgt uit:  
+
+| --- | --- | --- | --- | --- | --- |
+|:---|:---|:---|:---|:---|:---|
+| --- | --- |
+| BERICHT  | --- |
+| --- | Datumtijd samenstellen bericht  | V  |
+| --- | PERIODE  | --- | --- | --- | 1..1, V  |
+| --- | Datumtijd begin periode  | V  |
+| --- | Datumtijd einde periode  | V  |
+| --- | AUTO  | 1..2, V  |
+| --- | Kenteken  | V  |
+| --- | --- | VERVOERDER  | 1..*, V  |
+| --- | --- | KvK-nummer  | V  |
+| --- | --- | P-nummer  | V  |
+| --- | --- | --- | ONDERNEMERSKAART  | 1..*, V  |
+| --- | --- | --- | Ondernemerskaart volgnummer  | V  |
+| --- | --- | --- | --- | COORDINAAT  | 0..*, V  |
+| --- | --- | --- | --- | Coordinaat volgnummer  | V  |
+| --- | --- | --- | --- | Datumtijd registratie  | V  |
+| --- | --- | --- | --- | Breedtegraad  | V  |
+| --- | --- | --- | --- | Lengtegraad  | V  |
+| --- | --- | --- | --- | Werkingsmodus  | V  |
+| --- | --- | --- | --- | Werkingsniveau  | V  |
+
+Toelichting: 
+
+a. de linkerkolom beschrijft de hiërarchische structuur van het bericht.  
+
+b. de rechterkolom beschrijft voor alle entiteiten de cardinaliteit (1..1, 0..*) en (Verplicht, Optioneel).  
+
+c. de rechterkolom beschrijft voor alle attributen (Verplicht, Optioneel).  
+
+d. in werkingsmodus ‘Operationele modus’ is het attribuut ‘Werkingsniveau’ verplicht.   Opmerkingen: 
+
+a. alle coördinaten met een datumtijd registratie die ligt voor het tijdstip van de laatste activering van de boordcomputer worden gegroepeerd bij dezelfde AUTO - VERVOERDER - ONDERNEMERSKAART combinatie. Het kenteken, KvK-nummer, P-nummer en het volgnummer van de ondernemerskaart worden in deze groepering uitgevuld met nullen.  
+
+b. alle coördinaten die zijn geregistreerd na het tijdstip van de laatste activering worden geleverd met het kenteken van de auto, het KvK-nummer en P-nummer van de vervoerder en het volgnummer van de ondernemerskaart waarvoor de coördinaten zijn geregistreerd.  
+
+c. alleen de werkingsmodus ‘Operationele Modus’ kent meerder werkingsniveaus. Bij de overige modi wordt werkingsniveau ‘Basis’ aangehouden.   
+
+### Artikel  5.3  
+
+####Technische berichtstructuur
+
+Als gegevensformaat wordt gebruik gemaakt van XML. Mapping functionele berichtstructuur naar technische berichtstructuur:  
+
+| Functionele berichtstructuur  | Technische berichtstructuur  |
+|:---|:---|
+| Datumtijd samenstellen bericht  | DatTdSmBr  |
+| PERIODE  | Periode  |
+| Datumtijd begin periode  | DatTdBegPr  |
+| Datumtijd einde periode  | DatTdEndPr  |
+| AUTO  | Auto  |
+| Kenteken  | Kntkn  |
+| VERVOERDER  | Vervoerder  |
+| KvK-nummer  | KvKnr  |
+| P-nummer  | Pnr  |
+| ONDERNEMERSKAART  | Ondernemerskaart  |
+| Ondernemerskaart volgnummer  | OkVgNr  |
+| COORDINAAT  | COORD  |
+| Coordinaat volgnummer  | VgNr  |
+| Datumtijd registratie  | Dt  |
+| Breedtegraad  | Lat  |
+| Lengtegraad  | Lon  |
+| Werkingsmodus  | Md  |
+| Werkingsniveau  | Nv  |
+
+### Artikel  5.4  
+
+####Coordinaten.xsd
+
+Het onderstaande Coordinaten.xsd wordt gebruikt. ![247020](http://wetten.overheid.nl/Illustration/247020)
+![247021](http://wetten.overheid.nl/Illustration/247021)
+![247022](http://wetten.overheid.nl/Illustration/247022)
+
+### Artikel  5.5  
+
+####Volgorde gegevens
+
+De geselecteerde coördinaten moeten gegroepeerd per kenteken, en daarbinnen per vervoerder, en daarbinnen per ondernemerskaart, in oplopende volgorde van volgnummer, in het bericht worden opgenomen. 
+
+### Artikel  5.6  
+
+####Integriteit gegevens
+
+Het bericht ‘Coördinaten’ wordt ondertekend met een elektronische handtekening van de boordcomputer. De afzonderlijke coördinaten worden niet ondertekend. 
+
+### Artikel  5.7  
+
+####Overige kenmerken
+
+### Artikel  5.7.1  
+
+####Naamgeving
+
+De naamgeving van de gegevenslevering ‘coordinaten’ is als volgt: Coordinaten_*Kenteken-DatumtijdSamenstellenBericht_DatumtijdBeginPeriode _DatumtijdEindePeriode*.xml. Hierbij worden de cursief gedrukte gegevens gevuld met de corresponderende registratiewaarde. De volgende formaten worden hierbij gebruikt:  
+
+| --- | --- |
+|:---|:---|
+| ○ DatumtijdSamenstellenBericht:  | CCYYMMDDHHMMSS;  |
+| ○ DatumtijdBeginPeriode:  | CCYYMMDDHHMM;  |
+| ○ DatumtijdEindePeriode:  | CCYYMMDDHHMM.  |
+
+Kenteken is het kenteken van de auto waarin de boordcomputer als laatste is geactiveerd. 
+
+### Artikel  5.7.2  
+
+####Berichtgrootte
+
+Een bericht ‘coordinaten’ bevat maximum 1440 coördinaten per dag, wanneer de auto continue rijdt en 1 coördinaat per minuut wordt vastgelegd. Voor de periode van een dag geeft een bericht van maximaal 236 Kbyte. Per jaar is het bericht ‘coordinaten’ maximaal 84 Mbyte groot. 
+
+### Artikel  6  
+
+####Gebeurtenis
+
+### Artikel  6.1  
+
+####Gegevens
+
+Voor het bericht *‘Gebeurtenis’* worden de volgende gegevens onderkend:  
+
+| Entiteit  | Attribuut  |
+|:---|:---|
+| PERIODE  | --- |
+| --- | Datumtijd begin periode  |
+| --- | Datumtijd einde periode  |
+| --- | --- |
+| AUTO  | --- |
+| --- | Kenteken  |
+| --- | --- |
+| VERVOERDER  | --- |
+| --- | KvK-nummer  |
+| --- | P-nummer  |
+| --- | --- |
+| ONDERNEMERSKAART  | --- |
+| --- | Ondernemerskaart volgnummer  |
+| --- | --- |
+| CERTIFICAAT  BOORDCOMPUTER  | --- |
+| --- | Publieke sleutel boordcomputer  |
+| --- | --- |
+| GEBEURTENIS  | --- |
+| --- | Gebeurtenis volgnummer  |
+| --- | Code  |
+| --- | Datumtijd registratie  |
+| --- | Km stand  |
+| --- | Status rijden auto  |
+| --- | Werkingsmodus  |
+| --- | Werkingsniveau  |
+| --- | Aanvullende relevante informatie  |
+| --- | --- |
+| BESTUURDER  | --- |
+| --- | BSN  |
+| --- | Chauffeurskaart volgnummer  |
+| --- | --- |
+| INTEGRITEIT  | --- |
+| --- | Elektronische handtekening boordcomputer  |
+| --- | --- |
+
+Toelichting: 
+
+a. de PERIODE is het tijdvak waarover de gebruiker de gebeurtenissen heeft opgevraagd  
+
+b. GEBEURTENIS wordt per VERVOERDER uniek geïdentificeerd door een volgnummer.  
+
+c. BESTUURDER is verplicht als tijdens het optreden van de gebeurtenis de werkingsmodus ‘Operationele Modus’ actief is in het werkingsniveau ‘Arbeidstijd’ of ‘Taxivervoer’,.  
+
+d. alleen de werkingsmodus ‘Operationele Modus’ kent meerder werkingsniveaus. Bij de overige modi wordt werkingsniveau ‘Basis’ aangehouden.  
+
+e. een GEBEURTENIS moet ondertekend worden met de elektronische handtekening van de boordcomputer om de integriteit van de gegevens achteraf te kunnen bepalen. Daartoe bevat INTEGRITEIT het attribuut ‘Elektronische handtekening boordcomputer’.  
+
+f. het attribuut ‘Status rijden auto’ wordt ingevuld op basis van gegevens van de verplaatsingsopnemer.   Opmerkingen: 
+
+a. voor de structuur van het bericht *‘Gebeurtenis’* zie de artikelen over ‘Functionele berichtstructuur’ en ‘Technische berichtstructuur’.  
+
+b. voor datatypen zie het artikel over ‘Technische berichtstructuur’   
+
+### Artikel  6.2  
+
+####Functionele berichtstructuur
+
+De functionele bericht structuur ziet er als volgt uit:  
+
+| --- | --- | --- | --- | --- | --- | --- |
+|:---|:---|:---|:---|:---|:---|:---|
+| --- | --- |
+| BERICHT  | --- |
+| --- | Datumtijd samenstellen bericht  | V  |
+| --- | PERIODE  | 1..1, V  |
+| --- | Datumtijd begin periode  | V  |
+| --- | Datumtijd einde periode  | V  |
+| --- | AUTO  | 1..1, V  |
+| --- | Kenteken  | V  |
+| --- | CERTIFICAAT BOORDCOMPUTER  | 1..1, V  |
+| --- | Publieke sleutel boordcomputer  | V  |
+| --- | VERVOERDER  | 1..*, V  |
+| --- | KvK-nummer  | V  |
+| --- | P-nummer  | V  |
+| --- | --- | ONDERNEMERSKAART  | 1..*, V  |
+| --- | --- | Ondernemerskaart volgnummer  | V  |
+| --- | --- | --- | GEBEURTENIS  | 0..*, V  |
+| --- | --- | --- | --- | DATA  | 1..1,V  |
+| --- | --- | --- | --- | Gebeurtenis volgnummer  | V  |
+| --- | --- | --- | --- | Code  | V  |
+| --- | --- | --- | --- | Datumtijd registratie  | V  |
+| --- | --- | --- | --- | Km stand  | V  |
+| --- | --- | --- | --- | Status rijden auto  | V  |
+| --- | --- | --- | --- | Werkingsmodus  | V  |
+| --- | --- | --- | --- | Werkingsniveau  | V  |
+| --- | --- | --- | --- | Aanvullende relevante informatie  | O  |
+| --- | --- | --- | --- | --- | BESTUURDER  | 1..1,V  |
+| --- | --- | --- | --- | --- | BSN  | V  |
+| --- | --- | --- | --- | --- | Chauffeurskaart volgnummer  | V  |
+| --- | --- | --- | --- | INTEGRITEIT  | 1..1,V  |
+| --- | --- | --- | --- | Elektronische handtekening boordcomputer  | V  |
+| --- | --- | --- | --- | Datumtijd handtekening  | V  |
+
+Toelichting: 
+
+a. de linkerkolom beschrijft de hiërarchische structuur van het bericht.  
+
+b. de rechterkolom beschrijft voor alle entiteiten de cardinaliteit (1..1, 0..*) en (Verplicht, Optioneel).De rechterkolom beschrijft voor alle attributen (Verplicht, Optioneel).  
+
+c. door het vullen van het attribuut ‘Aanvullende relevante informatie’ kan waar relevant aanvullende informatie worden toegevoegd voor een bepaalde code.   Opmerkingen: 
+
+a. alleen als de chauffeurskaart niet beschikbaar is tijdens registratie van een GEBEURTENIS moet Chauffeurskaart volgnummer van de BESTUURDER gevuld worden met nullen.   
+
+### Artikel  6.3  
+
+####Technische berichtstructuur
+
+Als gegevensformaat wordt gebruik gemaakt van XML. Mapping functionele berichtstructuur naar technische berichtstructuur:  
+
+| Functionele berichtstructuur  | Technische berichtstructuur  |
+|:---|:---|
+| Datumtijd samenstellen bericht  | DatTdSmBr  |
+| PERIODE  | Periode  |
+| Datumtijd begin periode  | DatTdBegPr  |
+| Datumtijd einde periode  | DatTdEndPr  |
+| AUTO  | Auto  |
+| Kenteken  | Kntkn  |
+| VERVOERDER  | Vervoerder  |
+| KvK-nummer  | KvKnr  |
+| P-nummer  | Pnr  |
+| ONDERNEMERSKAART  | Ondernemerskaart  |
+| Ondernemerskaart volgnummer  | OkVgNr  |
+| GEBEURTENIS  | Gbrtns  |
+| DATA  | Data  |
+| Gebeurtenis volgnummer  | GbVgNr  |
+| Code  | Code  |
+| Datumtijd registratie  | DatTdReg  |
+| Km stand  | KmStd  |
+| Status rijden auto  | StRdnAt  |
+| Werkingsmodus  | WrkngsMds  |
+| Werkingsniveau  | WrkngsNv  |
+| Aanvullende relevante informatie  | AanvInfo  |
+| BESTUURDER  | Bestuurder  |
+| BSN  | BSN  |
+| Chauffeurskaart volgnummer  | CkVgNr  |
+| INTEGRITEIT  | Integriteit  |
+| Elektronische handtekening boordcomputer  | ElHdBc  |
+| Datumtijd handtekening  | DatTdHd  |
+
+### Artikel  6.4  
+
+####Gebeurtenis.xsd
+
+Het onderstaande Gebeurtenis.xsd wordt gebruikt. ![247023](http://wetten.overheid.nl/Illustration/247023)
+![247024](http://wetten.overheid.nl/Illustration/247024)
+![247025](http://wetten.overheid.nl/Illustration/247025)
+![247026](http://wetten.overheid.nl/Illustration/247026)
+
+### Artikel  6.5  
+
+####Volgorde gegevens
+
+De geselecteerde gebeurtenissen moeten gegroepeerd per vervoerder, en daarbinnen per ondernemerskaart, in oplopende volgorde van volgnummer, in het bericht worden opgenomen. 
+
+### Artikel  6.6  
+
+####Integriteit gegevens
+
+Alle gebeurtenissen worden ondertekend op basis van de private sleutel van de boordcomputer. Het bericht Gebeurtenis bevat een element <Gebeurtenis> en het element <Gebeurtenis> bevat de elementen <Data> en <Integriteit>. Het <Data> element bevat de volgende gegevens: 
+
+○ GbVgNr  
+
+○ Code  
+
+○ DatTdReg  
+
+○ KmStd  
+
+○ StRdnAt  
+
+○ WrkngsMds  
+
+○ WrkngsNv  
+
+○ AanvInfo  
+
+○ Bestuurder.BSN  
+
+○ Bestuurder.CkVgNr   Het <Integriteit> element bevat de elektronische handtekening boordcomputer van het bijbehorende <Data> element. Bij het samenstellen van de het bericht ‘gebeurtenis’ moeten de gegevens van het <Data> element onveranderd worden overgenomen uit de administratie op de boordcomputer. Het berekenen van de ‘Elektronische handtekening boordcomputer’ van het Data element van een Rit moet gebeuren bij het optreden van de gebeurtenis. De vastgelegde ‘Elektronische handtekening boordcomputer’ moet per gebeurtenis onveranderd worden overgenomen in het onderliggende <Integriteit> element. 
+
+### Artikel  6.7  
+
+####Codetabel
+
+In de onderstaande tabel staat de in het bericht op te nemen code per gebeurtenis vermeld.  
+
+| Code  | Omschrijving  |
+|:---|:---|
+| S001  | een storing in de werking van de registratiefuntie  |
+| S002  | een storing in de werking van de beveiligingsfuncties  |
+| S003  | een storing in de werking van de sensoren  |
+| S004  | een storing in de overbrenging van gegevens naar een externe interface zoals beschreven in deze bijlage  |
+| S005  | een storing in de werking van de systeemkaart  |
+| S006  | een storing in de werking van de boordcomputerkaart  |
+| F001  | een integriteitsfout in de uitvoercode  |
+| F002  | een integriteistfout in de systeemgegevens  |
+| F003  | een integriteitfout in de opgeslagen gebruikersgegevens  |
+| F004  | een integriteitfout bij de gegevensuitvoer naar de chauffeurskaart  |
+| F005  | een fout in de registratiefunctie  |
+| F006  | een fout die de beveiliging van de boordcomputer in gevaar brengen  |
+| F007  | een fout bij de gegevensuitvoer naar externe inrichtingen  |
+| F008  | een fout bij het gebruik van de systeemkaart  |
+| F009  | een fout bij het gebruik van de boordcomputerkaart  |
+| F010  | een fout in de bewegingsensor  |
+| F011  | een fout in de positiebepalingsensor  |
+| F012  | een fout in de koppeling met de taxameter  |
+| M001  | het aanzetten van de boordcomputer  |
+| M002  | het uitzetten van de boordcomputer  |
+| M003  | het inbrengen van een boordcomputerkaart  |
+| M004  | het uitnemen van een boordcomputerkaart  |
+| M005  | het inbrengen van een ongeldige boordcomputerkaart  |
+| M006  | het inbrengen van een chauffeurskaart waarvan blijkt dat de datum en het tijdstip van de laatste registratie op de chauffeurskaart, op een later tijdstip valt dan de actuele datum en het tijdstip van de boordcomputer  |
+| M007  | het niet op een juiste wijze afsluiten van een kaartsessie  |
+| M008  | het inbrengen van een chauffeurskaart waarvan blijkt dat de laatste kaartsessie niet juist is afgesloten  |
+| M009  | het ontstaan van onvoldoende opslagcapaciteit op het geheugen van de boordcomputer  |
+| M010  | het verdwijnen van onvoldoende opslagcapaciteit op het geheugen van de boordcomputer  |
+| M011  | het ontstaan van onvoldoende opslagcapaciteit op de chauffeurskaart  |
+| M012  | het verdwijnen van onvoldoende opslagcapaciteit op de chauffeurskaart  |
+| M013  | het ontstaan van een onderbreking van ten minste 5 seconden in de stroomvoorziening van de boordcomputer  |
+| M014  | het verdwijnen van een onderbreking van ten minste 5 seconden in de stroomvoorziening van de boordcomputer  |
+| M015  | het begin van een periode waarin de contactgeschakelde voedingsbron is uitgeschakeld in de toestand rijden  |
+| M016  | het einde van een periode waarin de contactgeschakelde voedingsbron is uitgeschakeld in de toestand rijden  |
+| M017  | het optreden van een toestand verplaatsen zonder dat er sprake is van een toestand rijden  |
+| M019  | het begin van het niet kunnen verkrijgen van positiegegevens gedurende 5 minuten  |
+| M020  | het einde van het niet kunnen verkrijgen van positiegegevens gedurende 5 minuten  |
+| M021  | een afwijking van meer dan twee procent tussen de, met behulp van bewegingsgegevens van de bewegingsopnemer en de constante van de boordcomputer, berekende afstand en de werkelijke afstand  |
+| M022  | een afwijking van meer dan drie procent tussen de berekende afstand op basis van gegevens van de bewegingsopnemer en positibepalingsensor  |
+| M023  | het overbrengen van gegevens inclusief de naam van de externe interface  |
+| M024  | gebeurtenissen die kunnen duiden op het in gevaar brengen van de beveiliging van de boordcomputer  |
+| M025  | het activeren van de boordcomputer  |
+| M026  | het keuren van de boordcomputer  |
+| M027  | het deactiveren van de boordcomputer  |
+| M028  | het inschakelen van een bedrijfsvergrendeling van de boordcomputer  |
+| M029  | inschakelen van een werkingsmodus inclusief naam werkingsmodus  |
+| M030  | het uitschakelen van een werkingsmodus inclusief naam werkingsmodus  |
+| M031  | het begin van rijden in de operationele modus werkingsniveau taxivervoer zonder chauffeurskaart  |
+| M032  | het einde van rijden in de operationele modus werkingsniveau taxivervoer zonder chauffeurskaart  |
+| M033  | het detecteren van een niet-succesvolle authenticatiepoging  |
+| M034  | installeren van een programmatuurrevisie  |
+| M035  | starten van audit- en beveiligingsfuncties  |
+| M036  | stoppen van audit- en beveiligingsfuncties  |
+| M037  | het uitblijven of weigeren van een elektronische handtekening  |
+| M038  | niet-geautoriseerde wijziging in de configuratie van de boordcomputer  |
+| M039  | toegang tot het gebeurtenissenlogboek  |
+
+### Artikel  6.8  
+
+####Overige kenmerken
+
+### Artikel  6.8.1  
+
+####Naamgeving
+
+De naamgeving van de gegevenslevering ‘gebeurtenis’ is als volgt: Gebeurtenis_*Kenteken-DatumtijdSamenstellenBericht_DatumtijdBeginPeriode _DatumtijdEindePeriode*.xml. Hierbij worden de cursief gedrukte gegevens gevuld met de corresponderende registratiewaarde. De volgende formaten worden hierbij gebruikt:  
+
+| --- | --- |
+|:---|:---|
+| ○ DatumtijdSamenstellenBericht:  | CCYYMMDDHHMMSS;  |
+| ○ DatumtijdBeginPeriode:  | CCYYMMDDHHMM;  |
+| ○ DatumtijdEindePeriode:  | CCYYMMDDHHMM.  |
+
+### Artikel  6.8.2  
+
+####Berichtgrootte
+
+Bij 100 gebeurtenissen is het bericht ‘gebeurtenis’ maximaal 100 Kbyte groot. 
+
+### Artikel  7  
+
+####Onderzoek
+
+### Artikel  7.1  
+
+####Gegevens
+
+Voor het bericht *‘Onderzoek’* worden de volgende gegevens onderkend:  
+
+| Entiteit  | Attribuut  |
+|:---|:---|
+| PERIODE  | --- |
+| --- | Datumtijd begin periode  |
+| --- | Datumtijd einde periode  |
+| --- | --- |
+| AUTO  | --- |
+| --- | Kenteken  |
+| --- | --- |
+| CERTIFICAAT BOORDCOMPUTER  | --- |
+| --- | Publieke sleutel boordcomputer  |
+| --- | --- |
+| IDENTIFICATIE BOORDCOMPUTER  | --- |
+| --- | Naam fabrikant  |
+| --- | Serienummer  |
+| --- | Versienummer  |
+| --- | Bouwjaar  |
+| --- | Goedkeuringsnummer  |
+| --- | --- |
+| PROGRAMMATUUR  | --- |
+| --- | Versienummer  |
+| --- | Datumtijd installatie  |
+| --- | --- |
+| --- | --- |
+| ACTIVERINGSONDERZOEK  | --- |
+| --- | Volgnummer  |
+| --- | Km stand  |
+| --- | Datumtijd onderzoek  |
+| --- | Constante boordcomputer  |
+| --- | Effectieve omtrek wielband  |
+| --- | Bandenmaat  |
+| --- | Koppeling taxameter  |
+| --- | Resultaat  |
+| --- | Opmerking  |
+| --- | --- |
+| PERIODIEK ONDERZOEK  | --- |
+| --- | Volgnummer  |
+| --- | Km stand  |
+| --- | Datumtijd onderzoek  |
+| --- | Constante boordcomputer  |
+| --- | Effectieve omtrek wielband  |
+| --- | Bandenmaat  |
+| --- | Koppeling taxameter  |
+| --- | Resultaat  |
+| --- | Opmerking  |
+| --- | --- |
+| WERKPLAATS  | --- |
+| --- | Erkenningsnummer  |
+| --- | Keuringskaart volgnummer  |
+| --- | --- |
+| INTEGRITEIT  | --- |
+| --- | Elektronische handtekening boordcomputer  |
+
+Toelichting: 
+
+a. de PERIODE is het tijdvak waarover de gebruiker de onderzoeken heeft opgevraagd  
+
+b. ACTIVERINGSONDERZOEK wordt uniek geïdentificeerd door een volgnummer  
+
+c. PERIODIEK ONDERZOEK wordt uniek geïdentificeerd door een volgnummer  
+
+d. Constante boordcomputer is in impulsen per kilometer  
+
+e. Effectieve omtrek wielband is in millimeters  
+
+f. Bandenmaat is in inches   Opmerkingen: 
+
+a. voor de structuur van het bericht *‘Onderzoek’* zie de artikelen over ‘Functionele berichtstructuur’ en ‘Technische berichtstructuur’.  
+
+b. voor datatypen zie artikel over ‘Technische berichtstructuur’   
+
+### Artikel  7.2  
+
+####Functionele berichtstructuur
+
+| --- | --- | --- | --- | --- |
+|:---|:---|:---|:---|:---|
+| --- | --- |
+| BERICHT  | --- |
+| --- | Datumtijd samenstellen bericht  | V  |
+| --- | PERIODE  | 1..1, V  |
+| --- | Datumtijd begin periode  | V  |
+| --- | Datumtijd einde periode  | V  |
+| --- | AUTO  | 1..1, V  |
+| --- | Kenteken  | V  |
+| --- | CERTIFICAAT BOORDCOMPUTER  | 1..1, V  |
+| --- | Publieke sleutel boordcomputer  | V  |
+| --- | IDENTIFICATIE BOORDCOMPUTER  | 1..1, V  |
+| --- | Naam fabrikant  | V  |
+| --- | Serienummer  | V  |
+| --- | Versienummer  | V  |
+| --- | Bouwjaar  | V  |
+| --- | Goedkeuringsnummer  | V  |
+| --- | --- | PROGRAMMATUUR  | 1..*, V  |
+| --- | --- | Versienummer  | V  |
+| --- | --- | Datumtijd installatie  | V  |
+| --- | ACTIVERINGSONDERZOEK  | 1..1, V  |
+| --- | --- | DATA  | 1..1, V  |
+| --- | --- | Volgnummer  | V  |
+| --- | --- | Km stand  | V  |
+| --- | --- | Datumtijd onderzoek  | V  |
+| --- | --- | Constante boordcomputer  | V  |
+| --- | --- | Effectieve omtrek wielband  | V  |
+| --- | --- | Bandenmaat  | V  |
+| --- | --- | Koppeling taxameter  | V  |
+| --- | --- | Resultaat  | V  |
+| --- | --- | Opmerking  | V  |
+| --- | --- | --- | WERKPLAATS  | 1..1, V  |
+| --- | --- | --- | Erkenningsnummer  | V  |
+| --- | --- | --- | Keuringskaart volgnummer  | V  |
+| --- | --- | INTEGRITEIT  | 1..1, V  |
+| --- | --- | Elektronische handtekening boordcomputer  | V  |
+| --- | --- | Datumtijd handtekening  | V  |
+| --- | PERIODIEK ONDERZOEK  | 0..*, V  |
+| --- | --- | DATA  | 1..1, V  |
+| --- | --- | Volgnummer  | V  |
+| --- | --- | Km stand  | V  |
+| --- | --- | Datumtijd onderzoek  | V  |
+| --- | --- | Constante boordcomputer  | V  |
+| --- | --- | Effectieve omtrek wielband  | V  |
+| --- | --- | Bandenmaat  | V  |
+| --- | --- | Koppeling taxameter  | V  |
+| --- | --- | Resultaat  | V  |
+| --- | --- | Opmerking  | V  |
+| --- | --- | --- | WERKPLAATS  | 1..1, V  |
+| --- | --- | --- | Erkenningsnummer  | V  |
+| --- | --- | --- | Keuringskaart volgnummer  | V  |
+| --- | --- | INTEGRITEIT  | 1..1, V  |
+| --- | --- | Elektronische handtekening boordcomputer  | V  |
+| --- | --- | Datumtijd handtekening  | V  |
+
+### Artikel  7.3  
+
+####Technische berichtstructuur
+
+Als gegevensformaat wordt gebruik gemaakt van XML. Mapping functionele berichtstructuur naar technische berichtstructuur:  
+
+| Functionele berichtstructuur  | Technische berichtstructuur  |
+|:---|:---|
+| Datumtijd samenstellen bericht  | DatTdSmBr  |
+| PERIODE  | Periode  |
+| Datumtijd begin periode  | DatTdBegPr  |
+| Datumtijd einde periode  | DatTdEndPr  |
+| AUTO  | Auto  |
+| Kenteken  | Kntkn  |
+| CERTIFICAAT BOORDCOMPUTER  | CertificaatBCT  |
+| Publieke sleutel boordcomputer  | PbSlBc  |
+| IDENTIFICATIE BOORDCOMPUTER  | IdentificatieBCT  |
+| Naam fabrikant  | Nmfb  |
+| Serienummer  | SrNr  |
+| Versienummer  | VrNr  |
+| Bouwjaar  | BwJr  |
+| Goedkeuringsnummer  | GdKrgsNr  |
+| PROGRAMMATUUR  | Programmatuur  |
+| Versienummer  | VrNr  |
+| Datumtijd installatie  | DatTdIns  |
+| ACTIVERINGSONDERZOEK  | Activeringsonderzoek  |
+| DATA  | Data  |
+| Volgnummer  | VgNr  |
+| Km stand  | KmStd  |
+| Datumtijd onderzoek  | DatTdOndrzk  |
+| Constante boordcomputer  | CnstBCT  |
+| Effectieve omtrek wielband  | EffOmtrkWlbd  |
+| Bandenmaat  | BdMt  |
+| Koppeling taxameter  | KpTxMtr  |
+| Resultaat  | Rslt  |
+| Opmerking  | Opm  |
+| WERKPLAATS  | Werkplaats  |
+| Erkenningsnummer  | ErkNr  |
+| Keuringskaart volgnummer  | KkVgNr  |
+| INTEGRITEIT  | Integriteit  |
+| Elektronische handtekening boordcomputer  | ElHdBc  |
+| Datumtijd handtekening  | DatTdHd  |
+| PERIODIEK ONDERZOEK  | Periodiek onderzoek  |
+| DATA  | Data  |
+| Volgnummer  | VgNr  |
+| Km stand  | KmStd  |
+| Datumtijd registratie  | DatTdOndrzk  |
+| Constante boordcomputer  | CnstBCT  |
+| Effectieve omtrek wielband  | EffOmtrkWlbd  |
+| Bandenmaat  | BdMt  |
+| Koppeling taxameter  | KpTxMtr  |
+| Resultaat  | Rslt  |
+| WERKPLAATS  | Werkplaats  |
+| Erkenningsnummer  | ErkNr  |
+| Keuringskaart volgnummer  | KkVgNr  |
+| INTEGRITEIT  | Integriteit  |
+| Elektronische handtekening boordcomputer  | ElHdBc  |
+
+### Artikel  7.4  
+
+####Onderzoek.xsd
+
+Het onderstaande Onderzoek.xsd dient te worden gebruikt. ![247027](http://wetten.overheid.nl/Illustration/247027)
+![247028](http://wetten.overheid.nl/Illustration/247028)
+![247029](http://wetten.overheid.nl/Illustration/247029)
+![247030](http://wetten.overheid.nl/Illustration/247030)
+
+### Artikel  7.5  
+
+####Volgorde gegevens
+
+Als eerste wordt het geselecteerde activeringsonderzoek in het bericht opgenomen. Daarna worden de geselecteerde periodieke onderzoeken in oplopende volgorde van volgnummer in het bericht opgenomen. 
+
+### Artikel  7.6  
+
+####Integriteit gegevens
+
+Het activeringsonderzoek en de periodiek onderzoeken worden ondertekend op basis van de private sleutel van de boordcomputer. Het bericht ‘Onderzoek’ bevat de elementen <activeringsonderzoek> en <periodiek onderzoek>. De elementen <activeringsonderzoek> en <periodiek onderzoek> bevatten elementen <Data> en <Integriteit>. Het <Data> element bevat voor beide onderzoeken dezelfde gegevens: 
+
+○ VgNr  
+
+○ KmStd  
+
+○ DatTdOndrzk  
+
+○ CnstBCT  
+
+○ EffOmtrkWlbd  
+
+○ BdMt  
+
+○ KpTxMtr  
+
+○ Rslt  
+
+○ Werkplaats.ErkNr  
+
+○ Werkplaats.KkVgNr   Het <Integriteit> element bevat de elektronische handtekening van het bijbehorende Data element. Bij het samenstellen van het bericht ‘Onderzoek’ moeten de gegevens van het <Data> element onveranderd worden overgenomen uit de registratie op de boordcomputer. Het berekenen van de elektronische handtekening van het <Data> element van een ‘Onderzoek’ wordt gedaan bij het afronden van een onderzoek. De vastgelegde elektronische handtekening wordt per onderzoek overgenomen in het onderliggende <Integriteit> element. 
+
+### Artikel  7.7  
+
+####Overige kenmerken
+
+### Artikel  7.7.1  
+
+####Naamgeving
+
+De naamgeving van de gegevenslevering ‘onderzoek’ is als volgt: Onderzoek_*Kenteken-DatumtijdSamenstellenBericht_DatumtijdBeginPeriode _DatumtijdEindePeriode*.xml. Hierbij worden de cursief gedrukte gegevens gevuld met de corresponderende registratiewaarde. De volgende formaten worden hierbij gebruikt:  
+
+| --- | --- |
+|:---|:---|
+| ○ DatumtijdSamenstellenBericht:  | CCYYMMDDHHMMSS;  |
+| ○ DatumtijdBeginPeriode:  | CCYYMMDDHHMM;  |
+| ○ DatumtijdEindePeriode:  | CCYYMMDDHHMM.  |
+
+### Artikel  7.7.2  
+
+####Berichtgrootte
+
+Bij 10 onderzoeken is het bericht ‘onderzoek’ maximaal 10 Kbyte groot. 
+
+### Artikel  8  
+
+####Chauffeurskaartdata
+
+### Artikel  8.1  
+
+####Gegevens
+
+Voor het bericht *‘Chauffeurskaartdata’* worden de volgende gegevens onderkend:  
+
+| Entiteit  | Attribuut  |
+|:---|:---|
+| PERIODE  | --- |
+| --- | Datumtijd begin periode  |
+| --- | Datumtijd einde periode  |
+| --- | --- |
+| BESTUURDER  | --- |
+| --- | BSN  |
+| --- | Chauffeurskaart volgnummer  |
+| --- | --- |
+| CERTIFICAAT  | --- |
+| --- | Publieke sleutel chauffeur  |
+| --- | --- |
+| CHAUFFEURSKAARTDATA  | --- |
+| --- | Data overgenomen van chauffeurskaart  |
+| --- | --- |
+| INTEGRITEIT  | --- |
+| --- | Elektronische handtekening chauffeur  |
+| --- | Datumtijd handtekening  |
+
+Toelichting: 
+
+a. de PERIODE bestrijkt het eerste tot en met het laatste record op de chauffeurskaart  
+
+b. CHAUFFEURSKAARTDATA bevat de BASE64 gecodeerde weergave van de binaire inhoud van het bestand EF.Driver_Activity_Data, overgenomen van de chauffeurskaart   Opmerkingen 
+
+a. voor de structuur van het bericht *‘chauffeurskaartdata’* zie de artikelen over ‘Functionele berichtstructuur’ en ‘Technische berichtstructuur’.  
+
+b. voor datatypen zie artikel over ‘Technische berichtstructuur’   
+
+### Artikel  8.2  
+
+####Functionele berichtstructuur
+
+De functionele bericht structuur ziet er als volgt uit:  
+
+| --- | --- | --- | --- | --- |
+|:---|:---|:---|:---|:---|
+| BERICHT  | --- |
+| --- | Datumtijd samenstellen bericht  | V  |
+| --- | PERIODE  | 1..1, V  |
+| --- | Datumtijd begin periode  | V  |
+| --- | Datumtijd einde periode  | V  |
+| --- | BESTUURDER  | 1..1, V  |
+| --- | BSN  | V  |
+| --- | Chauffeurskaart volgnummer  | V  |
+| --- | --- | CERTIFICAAT  | 1..1, V  |
+| --- | --- | Publieke sleutel chauffeur  | V  |
+| --- | CHAUFFEURSKAARTDATA  | 0..1, V  |
+| --- | --- | Data  | V  |
+| --- | --- | INTEGRITEIT  | 1..1, V  |
+| --- | --- | --- | Elektronische handtekening chauffeur  | V  |
+| --- | --- | --- | Datumtijd handtekening  | V  |
+
+Toelichting: 
+
+a. de linkerkolom beschrijft de hiërarchische structuur van het bericht.  
+
+b. de rechterkolom beschrijft voor alle entiteiten de cardinaliteit (1..1, 0..*) en (Verplicht, Optioneel). De rechterkolom beschrijft voor alle attributen (Verplicht, Optioneel).   
+
+### Artikel  8.3  
+
+####Technische berichtstructuur
+
+Als gegevensformaat wordt gebruik gemaakt van XML. Mapping functionele berichtstructuur naar technische berichtstructuur  
+
+| Functionele berichtstructuur  | Technische berichtstructuur  |
+|:---|:---|
+| Datumtijd samenstellen bericht  | DatTdSmBr  |
+| PERIODE  | Periode  |
+| Datumtijd begin periode  | DatTdBegPr  |
+| Datumtijd einde periode  | DatTdEndPr  |
+| BESTUURDER  | Bestuurder  |
+| BSN  | BSN  |
+| Chauffeurskaart volgnummer  | CkVgNr  |
+| CERTIFICAAT  | Certificaat  |
+| Publieke sleutel chauffeur  | PbSlCh  |
+| CHAUFFEURKAARTDATA  | ChKrtData  |
+| Data  | Data  |
+| INTEGRITEIT  | Integriteit  |
+| Elektronische handtekening chauffeur  | ElHdCh  |
+| Datumtijd handtekening  | DatTdHd  |
+
+### Artikel  8.4  
+
+####Chauffeurskaartdata.xsd
+
+Het onderstaande Chauffeurskaartdata.xsd wordt gebruikt. ![247031](http://wetten.overheid.nl/Illustration/247031)
+![247032](http://wetten.overheid.nl/Illustration/247032)
+
+### Artikel  8.5  
+
+####Volgorde gegevens
+
+De chauffeurskaartdata wordt overgenomen zoals deze wordt aangetroffen op de chauffeurskaart. 
+
+### Artikel  8.6  
+
+####Integriteit gegevens
+
+De chauffeurskaartdata wordt ondertekend met een elektronische handtekening. Voor het plaatsen van de elektronische handtekening wordt gebruik gemaakt van de private sleutel van de chauffeurskaart. De ‘Chauffeurskaartdata’ bevat een element <ChKrtData> en <ChKrtData> bevat de elementen <Data> en <Integriteit>. Het <Data> element bevat de base64 gecodeerde informatie zoals overgenomen uit de chauffeurskaart Het <Integriteit> element bevat de elektronische handtekening chauffeur van het bijbehorende <Data> element. Bij het samenstellen van bericht ‘Chauffeurskaartdata’ moeten de gegevens van het <Data> element onveranderd worden overgenomen uit de chauffeurskaart. Het berekenen van de ‘Elektronische handtekening chauffeur’ moet gebeuren zodra deze data van de chauffeurskaart is overgenomen. De vastgelegde ‘Elektronische handtekening chauffeur’ moet onveranderd worden overgenomen in het onderliggende <Integriteit> element. 
+
+### Artikel  8.7  
+
+####Overige kenmerken
+
+### Artikel  8.7.1  
+
+####Naamgeving
+
+De naamgeving van de gegevenslevering ‘Chauffeurskaartdata’ is als volgt: Chauffeurskaartdata_BSN_Chauffeurskaartvolgnummer-DatumtijdSamenstellenBericht_DatumtijdBeginPeriode _DatumtijdEindePeriode.xml. Hierbij worden de cursief gedrukte gegevens gevuld met de corresponderende registratiewaarde. De volgende formaten worden hierbij gebruikt:  
+
+| --- | --- |
+|:---|:---|
+| ○ DatumtijdSamenstellenBericht:  | CCYYMMDDHHMMSS;  |
+| ○ DatumtijdBeginPeriode:  | CCYYMMDDHHMM;  |
+| ○ DatumtijdEindePeriode:  | CCYYMMDDHHMM.  |
+
+### Artikel  8.7.2  
+
+####Berichtgrootte
+
+Het bericht ‘Chauffeurskaartdata’ is maximaal 200 Kbyte groot. 
+
+### Bijlage  3  
+
+####Bij de regeling specificaties en typegoedkeuring boordcomputer taxi
+
+### Artikel  1  
+
+####Definities
+
+In deze bijlage wordt verstaan onder:  
+
+| --- | --- | --- |
+|:---|:---|:---|
+| a.  | d (achtervoegsel)  | Geeft aan dat een getal in decimale notatie is.  |
+| b.  | ETX  | Teken dat het einde van een bericht aangeeft (03h).  |
+| c.  | h (achtervoegsel)  | Geeft aan dat een getal in hexadecimale notatie is.  |
+| d.  | STX  | Teken dat het begin van een bericht aangeeft (02h).  |
+
+### Artikel  2  
+
+####Eisen en Ontwerp
+
+### Artikel  2.1  
+
+####Interface identificatie en diagrammen
+
+Een overzicht van de complete interface is te zien in Figuur 1 hieronder. ![247033](http://wetten.overheid.nl/Illustration/247033)
+Figuur 1 – Overzicht van de interfaces Hierin zijn twee niveaus te onderscheiden: 
+
+1. Fysieke interface (FI) De fysieke interface bestaat uit een RS-232 verbinding.  
+
+2. Logische interface (LI) Deze interface is een directe communicatie-interface.   
+
+### Artikel  2.2  
+
+####Algemene interface eisen
+
+| --- | --- |
+|:---|:---|
+| EIS-AL-1  | De indeling van de interfaces volgens het OSI model is als in Tabel 1:  |
+
+Tabel 1 – Overzicht fysieke interface 
+
+| OSI laag  | Invulling  |
+|:---|:---|
+| Laag 1: Fysiek  | RS-232 verbinding  |
+| Laag 2: Data  | Serieel, 8N1, 9600 baud  |
+| Laag 3: Netwerk  | Niet aanwezig  |
+| Laag 4: Transport  | STX, lengte, berichtdata, CRC, ETX, byte stuffing  |
+| Laag 5: Sessie  | Niet aanwezig  |
+| Laag 6: Presentatie  | Niet aanwezig  |
+| Laag 7: Applicatie  | berichtdata = [berichttype, data]  |
+
+### Artikel  2.3  
+
+####Fysieke interface (FI)
+
+| --- | --- |
+|:---|:---|
+| EIS-FI-1  | De interface is gebaseerd op een RS-232 interface.  |
+| --- | --- |
+| EIS-FI-2  | De interface is bestand tegen kortsluiting  |
+| --- | --- |
+| EIS-FI-3  | De interface voldoet aan richtlijn 2004/104/EC voor elektromagnetische compatibiliteit.  |
+| --- | --- |
+| EIS-FI-4  | De interface voldoet aan de eisen die zijn neergelegd in NEN-ISO 10605 met betrekking tot elektrostatische ontlading.  |
+| --- | --- |
+| EIS-FI-5  | De interface voldoet aan mechanische omgevingsklasse M3 zoals beschreven in Europese Richtlijn 2004/22/EG.  |
+| --- | --- |
+| EIS-FI-6  | De fysieke interface voldoet aan de eisen die zijn neergelegd in NEN-EN-IEC 60068-2-1 en NEN-EN-IEC 60068-2-2 en functioneert naar behoren binnen een temperatuursbereik van -20° C tot 70° C.  |
+| --- | --- |
+| EIS-FI-7  | De fysieke interface voldoet aan de eisen die zijn neergelegd in NEN-EN-IEC 60068-2-30 en functioneert naar behoren bij een relatieve luchtvochtigheid van minimaal 10% en maximaal 90%.  |
+| --- | --- |
+| EIS-FI-8  | De boordcomputer is voorzien van een door de fabrikant te kiezen connector, waarmee de aansluitwijze van de bekabeling zoals gespecificeerd in Tabel 2 kan worden ondersteund. De connector dient in de markt vrij verkrijgbaar te zijn. Zowel de connector als de kabel voldoet ook aan 0.  |
+| --- | --- |
+| EIS-FI-9  | Voor aansluiting van de Taxameter op de boordcomputer wordt gebruik gemaakt van bekabeling waarmee de elektrische signalen van de fysieke interface worden aangesloten zoals gespecificeerd in Tabel 2, waarbij de standaard pinbezetting van de gekozen connector moet worden gebruikt.  |
+
+Tabel 2 – Aansluitwijze bekabeling 
+
+| Functie aan zijde boordcomputer  | Functie aan zijde taxameter  | Opmerking  |
+|:---|:---|:---|
+| Tx+  | Rx+  | Data van boordcomputer naar Taxameter.  |
+| Tx-  | Rx-  |
+| Rx+  | Tx+  | Data van Taxameter naar boordcomputer  |
+| Rx-  | Tx-  |
+| Signal Ground  | Signal Ground  | --- |
+
+| --- | --- |
+|:---|:---|
+| EIS-FI-10  | Voor het aansluiten van TX+/TX- op RX+/RX- (data van boordcomputer naar Taxameter en omgekeerd) wordt in de bekabeling gebruik gemaakt van Twisted Pair verbindingen.  |
+| --- | --- |
+| EIS-FI-11  | Voor apparaten met zowel de functie boordcomputer als taxameter is het toegestaan intern een afwijkende interface toe te passen, indien de in dit document gespecificeerde interface ook op het apparaat geïmplementeerd is.  |
+
+### Artikel  2.4  
+
+####Logische interface (LI)
+
+### Artikel  2.4.1  
+
+####Algemene eisen
+
+| --- | --- |
+|:---|:---|
+| EIS-LI-1  | Alle berichten over de logische interface zijn in binair formaat. De byte order is zoals in Tabel 3 hieronder aangegeven, waar het getal 32597d (=7F55h) met datatype integer wordt verstuurd. Hierbij geeft de volgorde aan welke byte als eerste wordt verstuurd.  |
+
+Tabel 3 – Byte volgorde 
+
+| Volgorde  | Waarde van het voorbeeld  |
+|:---|:---|
+| 1<sup>e</sup> byte  | 7Fh  |
+| 2<sup>e</sup> byte  | 55h  |
+
+| --- | --- |
+|:---|:---|
+| EIS-LI-2  | De berichtenstroom bestaat uit een vraag- en antwoordproces. Van de zijde van de boordcomputer worden uitsluitend vraagberichten, dus berichttypen 4 t/m 49 gestuurd. Van de zijde van de taxameter worden uitsluitend berichttypen > 50 gestuurd, dus alleen antwoordberichten of foutberichten.  |
+| --- | --- |
+| EIS-LI-3  | Indien er een fout optreedt in het vraag- en antwoordproces wordt in plaats van een antwoordbericht een foutmeldingsbericht gestuurd, waarbij het berichttype de desbetreffende foutmelding beschrijft. Indien dit niet toereikend is kan bericht F_NIET_STANDAARD gebruikt worden. Indien er meerdere foutmeldingen tegelijkertijd optreden dient de meest ernstige fout te worden gekozen. Een bericht bevat altijd één vraag of één antwoord (of foutmelding).  |
+
+### Artikel  2.4.2  
+
+####Eisen met betrekking tot gegevensrepresentatie
+
+| --- | --- |
+|:---|:---|
+| EIS-LI-4  | Alle berichten over deze interface zullen beginnen met startteken 02h (hierna aangeduid met STX) en eindigen met stopteken 03h (hierna aangeduid met ETX). In de rest van het bericht komt teken 02h en 03h niet voor. Om deze tekens toch in data mogelijk te maken is escape teken 1Bh beschikbaar. De escape waarden van de gereserveerde tekens zijn:  |
+
+Tabel 4 – Escape karakters 
+
+| Teken  | Escape waarde  |
+|:---|:---|
+| 02h  | 1B12h  |
+| 03h  | 1B13h  |
+| 1Bh  | 1B1Bh  |
+
+| --- | --- |
+|:---|:---|
+| EIS-LI-5  | Een veld is één van de volgende datatypen:  |
+
+Tabel 5 - Datatypen voor velden 
+
+| Datatype  | Bereik  | Toelichting  |
+|:---|:---|:---|
+| Byte  | [0..255]  | --- |
+| Datum en tijd  | [1 jan 2000 0:00:00 31 dec 2225 23:59:59]  | YY  | Aantal jaar vanaf het jaar 2000, byte. Eerste byte in dit veld  |
+| MM  | Maand, [1..12], byte, na YY  |
+| DD  | Dag, [1..31], byte, na MM  |
+| HH  | Uur, [0..23], byte, na DD  |
+| MM  | Minuut, [0..59], byte, na HH  |
+| SS  | Seconden, [0..59], byte. Laatste byte in dit veld  |
+| Integer  | [–32768 , 32767]  | 2 bytes, hoogste byte eerst.  |
+| Long  | [–2147483648, 2147483647]  | 4 bytes, hoogste byte eerst, gevolgd door de één na hoogste byte etc.  |
+| Single  | Volgens IEEE 754-1985  | 4 bytes, hoogste byte eerst, gevolgd door de één na hoogste byte etc.  |
+| String  | Lengte [0..255], gevolgd door karakters met bereik [32..126]  | Tekenreeks van maximaal 256 karakters. Eerst dient de lengte opgegeven te worden, gevolgd door de karakters. Er is geen 0h eindteken. De karakters zijn 8-bits ASCII, met de restrictie tot karakters 32 t/m 126.  |
+
+### Artikel  2.4.3  
+
+####Eisen aan de berichtstructuur
+
+| --- | --- |
+|:---|:---|
+| EIS-LI-6  | Een bericht heeft het volgende formaat:  |
+
+Tabel 6 – Formaat van een bericht 
+
+| Byte  | Naam  | Waarde  | Toelichting  |
+|:---|:---|:---|:---|
+| 1  | Start of text (STX)  | 02h  | Identificatie van de start van een bericht  |
+| 2,3  | Lengte bericht  | 0..65535  | Aantal bytes van de berichtdata van het bericht, plus het berichttype en de CRC. Hoogste byte eerst.  |
+| 4  | berichttype  | 4..255  | --- |
+| 5+n  | Data  | 0..255  | Data is optioneel voor enkele typen berichten.  |
+| (5,6)+n  | CRC  | 0..65535  | CRC16 van de data en het berichttype. Hoogste byte eerst.  |
+| 7+n  | End of text (ETX)  | 03h  | Identificatie einde bericht  |
+
+| --- | --- |
+|:---|:---|
+| EIS-LI-7  | De berichtlengte is gelijk aan het aantal bytes tussen STX en ETX, waarbij het bericht zonder byte stuffing wordt beoordeeld. Indien een bericht ontvangen is dient eerst byte stuffing verwijderd te worden alvorens de berichtlengte te berekenen.  |
+| --- | --- |
+| EIS-LI-8  | De gebruikte CRC methode is 16 bits CRC-CCITT, met als polynoom *x* <sup>16</sup> + *x* <sup>12</sup> + *x* <sup>5</sup> + 1. De CRC wordt berekend over byte 4 tot byte 5+n, dus over het berichttype en de data. De CRC is berekend voordat byte stuffing toegepast, vergelijkbaar met 0.  |
+| --- | --- |
+| EIS-LI-9  | Een berichttype wordt gekenmerkt door een getal van 4 t/m 255. Een overzicht van berichttypes is hieronder gegeven (decimaal).  |
+
+Tabel 7 – Berichtnummers, de nummers zijn decimaal 
+
+| Berichttype (decimaal)  | Naam  | Toelichting  |
+|:---|:---|:---|
+| Vraagberichten  |
+| 4  | VR_STATUS  | Datum en tijd, Functiestand, Tarief identificatie  |
+| 5  | VR_TARIEFINFO  | Datum en tijd, Tarief informatie  |
+| 6  | VR_RITBEDRAG  | Datum en tijd, Functiestand, Ritbedrag  |
+| 7  | VR_TOTALEN  | Datum en tijd, Totalisatordata  |
+| 8  | VR_TAXAMETER_INFO  | Datum en tijd, Constante afstandssignaalgenerator, Beveiligingsdatum, Identificatie taxi  |
+| Antwoordenberichten  |
+| 54  | A_STATUS  | Datum en tijd, Functiestand, Tarief identificatie  |
+| 55  | A_TARIEFINFO  | Datum en tijd, Tarief informatie  |
+| 56  | A_RITBEDRAG  | Datum en tijd, Functiestand, Ritbedrag  |
+| 57  | A_TOTALEN  | Datum en tijd, Totalisatordata  |
+| 58  | A_TAXAMETER_INFO  | Datum en tijd, Constante afstandssignaalgenerator, Beveiligingsdatum, Identificatie taxi  |
+| Foutberichten  |
+| 100  | F_BERICHT_ONBEKEND  | Fout: berichtnummer onbekend  |
+| 101  | F_CRC_INCORRECT  | Fout: CRC niet correct  |
+| 102  | F_LENGTE_INCORRECT  | Fout: berichtlengte niet correct. Wordt gestuurd indien:  • het veld lengte ontbreekt in een bericht  • de waarde van het veld lengte niet correct is  • de minimale berichtlengte onjuist is  • het bericht uit meer bytes bestaat dan is toegestaan  |
+| 103  | F_GEEN_STX  | Fout: Begin van bericht niet gedetecteerd (2x ETX gedetecteerd zonder STX)  |
+| 104  | F_GEEN_ETX  | Fout: Einde van bericht niet gedetecteerd (2x STX gedetecteerd zonder ETX)  |
+| 105  | F_NIET_STANDAARD  | Fout: Niet gedefinieerde fout, bevat aanvullende informatie  |
+| 106  | F_VELD_ONGELDIG  | Fout: Een opgegeven veld is ongeldig.  |
+
+### Artikel  2.4.3.1  
+
+####Bericht VR_STATUS
+
+Het bericht VR_STATUS wordt gebruikt om de status van de taxameter op te vragen. Voor de situatie waarin de taxameter ingesteld is om niet te functioneren indien de interface niet functioneert is er een extra veld beschikbaar. Dit veld is om aan de taxameter duidelijk te maken of de interface softwarematig inactief dan wel operationeel is. Zo kan er gecontroleerd worden of de fysieke interface in beide richtingen correct functioneert zonder dat de taxameter deze controle hoeft te interpreteren als goed werkende verbinding.  
+
+| --- | --- |
+|:---|:---|
+| --- | --- |
+| EIS-LI-10  | De data in het bericht VR_STATUS heeft het volgende formaat:  |
+
+| --- | --- | --- |
+|:---|:---|:---|
+| Status interface  | Byte  | [10h = interface inactief, 11h = interface operationeel]  |
+
+Totale berichtgrootte: 8 bytes  
+
+| --- | --- |
+|:---|:---|
+| --- | --- |
+| EIS-LI-11  | Het veld ‘status interface’ mag alleen de status ‘operationeel’ bevatten indien:  |
+| --- | • Dit door de boordcomputer gewenst is  |
+| --- | én  |
+| --- | • Er gedurende de laatste 15 seconden ten minste één geldig antwoordbericht van de taxameter is ontvangen.  |
+| --- | --- |
+| EIS-LI-12  | Er zal vanuit de richting van de boordcomputer minimaal eens per 5 seconden een VR_STATUS bericht gestuurd worden over de interface.  |
+| --- | --- |
+
+Toelichting: dit is ten behoeve van de functionaliteit van het automatisch uitschakelen van de taxameter. De taxameter dient uit te vallen indien er 15 seconden geen statusbericht is ontvangen met ‘Status interface’ = ‘interface operationeel’. 
+
+### Artikel  2.4.3.2  
+
+####Bericht A_STATUS
+
+Het antwoord op het bericht VR_STATUS. Hierin geeft de taxameter de functiestand aan en de identificatie van het huidige tarief. Dit TARIEF_ID dient overeen te komen met de tariefgroepen die met bericht VR_TARIEFINFO kunnen worden opgevraagd. De informatie in dit bericht kan door de boordcomputer gebruikt worden om een overgang van de functiestand te detecteren.  
+
+| --- | --- |
+|:---|:---|
+| --- | --- |
+| EIS-LI-13  | De data in het bericht A_STATUS heeft het volgende formaat:  |
+
+| --- | --- | --- |
+|:---|:---|:---|
+| DATUM_EN_TIJD  | Datum  | Huidige datum en tijd in de taxameter  |
+| FUNCTIESTAND  | Byte  | [10h = ‘vrij’, 11h = ‘tarief’, 12h = ‘te betalen’]  |
+| TARIEF_ID  | Byte [0..255]  | Identificatie van het huidige tarief  |
+
+Totale berichtgrootte: 15 bytes 
+
+### Artikel  2.4.3.3  
+
+####Bericht VR_TARIEFINFO
+
+Dit bericht is voor het opvragen van tariefinformatie. Totale berichtgrootte: 7 bytes  
+
+| --- | --- |
+|:---|:---|
+| --- | --- |
+| EIS-LI-14  | Het bericht VR_TARIEFINFO bevat geen ‘data’.  |
+
+### Artikel  2.4.3.4  
+
+####Bericht A_TARIEFINFO
+
+Het bericht A_TARIEFINFO is het antwoord op het bericht VR_TARIEFINFO. Hierin is per tarief een identificatienummer, een omschrijving, een tarief per eenheid en een omschrijving van de eenheid aangegeven. Deze gegevens worden per tarief verstrekt. Ook BTW kan gezien worden als een tarief.  
+
+| --- | --- |
+|:---|:---|
+| --- | --- |
+| EIS-LI-15  | De data in het bericht A_TARIEFINFO heeft het volgende formaat:  |
+
+| --- | --- | --- | --- |
+|:---|:---|:---|:---|
+| DATUM_EN_TIJD  | Datum  | Huidige datum en tijd in de taxameter  |
+| TARIEF_AANTAL  | Byte [0..255]  | Aantal tarieven  |
+| Herhalen per tarief, dus TARIEF_AANTAL keer  |
+| tariefX  | Id  | Byte  | Identificatie tariefX  |
+| tariefX  | omschrijving  | String  | Omschrijving van tariefX, bijvoorbeeld 'kilometerprijs' of 'BTW laag tarief'  |
+| tariefX  | tarief per eenheid  | Single  | Tarief per eenheid  |
+| tariefX  | omschrijving eenheid  | String  | Omschrijving eenheid van tariefX, bijvoorbeeld ‘km’ of ‘Eurocent'  |
+| tariefX  | Percentage  | Byte  | 0 = nee, 1 = ja, zie toelichting  |
+| Einde herhalen per tarief  |
+
+Totale berichtgrootte: variabel, 14 bytes + (5 + tekstlengte) * TARIEF_AANTAL Indien het tarief een percentage betreft dient bij de berekening het tarief per eenheid door 100 gedeeld te worden. 
+
+### Artikel  2.4.3.5  
+
+####Bericht VR_RITBEDRAG
+
+Dit bericht is bedoeld om het ritbedrag op te vragen, bijvoorbeeld nadat er een functiestand overgang van de taxameter is gedetecteerd. Totale berichtgrootte: 7 bytes  
+
+| --- | --- |
+|:---|:---|
+| --- | --- |
+| EIS-LI-16  | Het bericht VR_RITBEDRAG bevat geen ‘data’.  |
+
+### Artikel  2.4.3.6  
+
+####Bericht A_RITBEDRAG
+
+Het bericht A_RITBEDRAG is het antwoord op het bericht VR_RITBEDRAG. Hierin staat de functiestand en het ritbedrag vermeld. De functiestand is hier nogmaals opgenomen zodat er zekerheid is dat op het moment van opvragen de functiestand en het ritbedrag op het zelfde moment zijn uitgelezen.  
+
+| --- | --- |
+|:---|:---|
+| --- | --- |
+| EIS-LI-17  | De data in het bericht A_RITBEDRAG heeft het volgende formaat:  |
+
+| --- | --- | --- |
+|:---|:---|:---|
+| DATUM_EN_TIJD  | Datum  | Huidige datum en tijd in de taxameter  |
+| FUNCTIESTAND  | Byte  | [10h = ‘vrij’, 11h = ‘tarief’, 12h = ‘te betalen’]  |
+| TOTAALBEDRAG  | Single  | Totaal ritbedrag in Eurocenten inclusief toeslagen  |
+| RITBEDRAG  | Single  | Ritbedrag in Eurocenten  |
+| RIT_VERTREKTIJD  | Datum  | Datum en tijd van het vertrek van de rit  |
+| RIT_AANKOMSTTIJD  | Datum  | Datum en tijd van de aankomst van de rit  |
+| AFSTAND_RIT  | Long  | Totale door de taxi afgelegde afstand in honderden meters voor de betreffende rit  |
+| TARIEF_AANTAL  | Byte  | Aantal toegepaste tarieven in ritbedrag  |
+| Herhalen per tarief, dus TARIEF_AANTAL keer  |
+| TARIEF_ID  | byte  | Identificatie tariefX, overeenkomstig de tarieven in A_TARIEFINFO  |
+| TARIEF_EENH  | Single  | Aantal eenheden tariefX  |
+| Einde herhalen per tarief  |
+| TOESLAG_AANTAL  | byte  | Aantal toegepaste toeslagen in ritbedrag  |
+| Herhalen per toeslag, dus TOESLAG_AANTAL keer  |
+| TOESLAG_OMSCHR  | String  | Omschrijving toeslag  |
+| TOESLAG_BEDR  | Single  | Toeslag bedrag in Eurocenten  |
+| Einde herhalen per toeslag  |
+
+Totale berichtgrootte: variabel, minimaal 29 bytes, maximaal 65535 bytes Een korting wordt als negatief TOESLAG_BEDR weergegeven. 
+
+### Artikel  2.4.3.7  
+
+####Bericht VR_TOTALEN
+
+Dit bericht is voor het opvragen van de totalisatordata. Totale berichtgrootte: 7 bytes  
+
+| --- | --- |
+|:---|:---|
+| --- | --- |
+| EIS-LI-18  | Het bericht VR_TOTALEN bevat geen ‘data’.  |
+
+### Artikel  2.4.3.8  
+
+####Bericht A_TOTALEN
+
+Het bericht A_TOTALEN is het antwoord op het bericht VR_TOTALEN. Het bericht bevat de totalisatordata.  
+
+| --- | --- |
+|:---|:---|
+| --- | --- |
+| EIS-LI-19  | De data in het bericht A_TOTALEN heeft het volgende formaat:  |
+
+| --- | --- | --- |
+|:---|:---|:---|
+| DATUM_EN_TIJD  | Datum  | Huidige datum en tijd in de taxameter  |
+| AFSTAND_TOT  | Long  | Totale door de taxi afgelegde afstand in honderden meters  |
+| AFSTAND_TAR  | Long  | Totale door de taxi afgelegde afstand in honderden meters in de stand tarief  |
+| AANT_RIT_BET  | Long  | Totaal aantal betaalde ritten  |
+| BEDR_TOESLAG  | Long  | Totaal geldbedrag in Eurocenten dat in rekening is gebracht als toeslag  |
+| BEDR_RITBEDR  | Long  | Totaal geldbedrag in Eurocenten dat in rekening is gebracht als ritbedrag  |
+
+Totale berichtgrootte: 33 bytes 
+
+### Artikel  2.4.3.9  
+
+####Bericht VR_TAXAMETER_INFO
+
+Dit bericht is voor het opvragen van de constante van de afstandssignaalgenerator, de beveiligingsdatum en de identificatie van de taxi. Totale berichtgrootte: 7 bytes  
+
+| --- | --- |
+|:---|:---|
+| --- | --- |
+| EIS-LI-20  | Het bericht VR_TAXAMETER_INFO bevat geen ‘data’.  |
+
+### Artikel  2.4.3.10  
+
+####Bericht A_TAXAMETER_INFO
+
+Het bericht A_TAXAMETER_INFO is het antwoord op het bericht VR_TAXAMETER_INFO. Het bericht bevat de constante van de afstandssignaalgenerator, de beveiligingsdatum en de identificatie van de taxi. Dit bericht is bedoeld om de taxameter te identificeren.  
+
+| --- | --- |
+|:---|:---|
+| --- | --- |
+| EIS-LI-21  | De data in het bericht A_TAXAMETER_INFO heeft het volgende formaat:  |
+
+| --- | --- | --- |
+|:---|:---|:---|
+| DATUM_EN_TIJD  | Datum  | Huidige datum en tijd in de taxameter  |
+| CONSTANTE_SG  | Integer  | Aantal impulsen per km  |
+| BEVEILIGINGS_D  | Datum  | Datum en tijd waarop de taxameter is beveiligd  |
+| TAXI_ID  | String  | Tekst ter identificatie van de taxi  |
+
+Totale berichtgrootte: variabel, minimaal 22 bytes, maximaal 278 bytes 
+
+### Artikel  2.4.3.11  
+
+####Bericht F_BERICHT_ONBEKEND
+
+Het bericht F_BERICHT_ONBEKEND is een foutmelding die gestuurd wordt bij het ontvangen van een vraagbericht met een onbekend berichttype. Totale berichtgrootte: 7 bytes.  
+
+| --- | --- |
+|:---|:---|
+| --- | --- |
+| EIS-LI-22  | Het bericht F_BERICHT_ONBEKEND bevat geen ‘data’.  |
+
+### Artikel  2.4.3.12  
+
+####Bericht F_CRC_INCORRECT
+
+Het bericht F_CRC_INCORRECT is een foutmelding die gestuurd wordt bij het ontvangen van een vraagbericht met een onjuiste CRC. Totale berichtgrootte: 7 bytes.  
+
+| --- | --- |
+|:---|:---|
+| --- | --- |
+| EIS-LI-23  | Het bericht F_CRC_INCORRECT bevat geen ‘data’.  |
+
+### Artikel  2.4.3.13  
+
+####Bericht F_LENGTE_INCORRECT
+
+Het bericht F_LENGTE_INCORRECT is een foutmelding die gestuurd wordt bij het ontvangen van een vraagbericht met een onjuiste minimale of maximale berichtlengte. Totale berichtgrootte: 7 bytes.  
+
+| --- | --- |
+|:---|:---|
+| --- | --- |
+| EIS-LI-24  | Het bericht F_LENGTE_INCORRECT bevat geen ‘data’.  |
+
+### Artikel  2.4.3.14  
+
+####Bericht F_GEEN_STX
+
+Het bericht F_GEEN_STX is een foutmelding die gestuurd wordt bij het ontvangen tweemaal een ETX teken zonder het tussentijds ontvangen van een STX teken. Totale berichtgrootte: 7 bytes  
+
+| --- | --- |
+|:---|:---|
+| --- | --- |
+| EIS-LI-25  | Het bericht F_GEEN_STX bevat geen ‘data’.  |
+
+### Artikel  2.4.3.15  
+
+####Bericht F_GEEN_ETX
+
+Het bericht F_GEEN_ETX is een foutmelding die gestuurd wordt bij het ontvangen tweemaal een STX teken zonder het tussentijds ontvangen van een ETX teken. Totale berichtgrootte: 7 bytes  
+
+| --- | --- |
+|:---|:---|
+| --- | --- |
+| EIS-LI-26  | Het bericht F_GEEN_ETX bevat geen ‘data’.  |
+
+### Artikel  2.4.3.16  
+
+####Bericht F_NIET_STANDAARD
+
+Het bericht F_NIET_STANDAARD is een foutmelding die gestuurd wordt indien er een fout optreedt die niet gedefinieerd is in een van de overige foutberichten. Er wordt een omschrijving van de fout meegestuurd.  
+
+| --- | --- |
+|:---|:---|
+| --- | --- |
+| EIS-LI-27  | De data in het bericht F_NIET_STANDAARD heef het volgende formaat:  |
+
+| --- | --- | --- |
+|:---|:---|:---|
+| FOUT_OMSCHR  | String  | Tekst met omschrijving van de opgetreden fout.  |
+
+Totale berichtgrootte: variabel, minimaal 8 bytes, maximaal 264 bytes 
+
+### Artikel  2.4.3.17  
+
+####Bericht F_VELD_ONGELDIG
+
+Het bericht F_VELD_ONGELDIG is een foutmelding die gestuurd wordt indien er een ongeldig veld gedetecteerd is in het vraagbericht. Bijvoorbeeld voor een ongeldige waarde in het veld ‘Status interface’ van het bericht VR_STATUS. Totale berichtgrootte: 7 bytes  
+
+| --- | --- |
+|:---|:---|
+| --- | --- |
+| EIS-LI-28  | Het bericht F_VELD_ONGELDIG bevat geen ‘data’.  |
+
+### Artikel  2.4.4  
+
+####Eisen met betrekking tot de performance
+
+| --- | --- |
+|:---|:---|
+| EIS-LI-29  | Na het ontvangen van een vraagbericht dient het begin van een antwoord binnen 0,5 seconden verstuurd te zijn. De maximale verzendduur van een bericht bedraagt het dubbele van de tijd van het verzenden van een bericht op maximale snelheid.  |
+| --- | --- |
+| EIS-LI-30  | Opeenvolgende bytes worden met een tussentijd van maximaal 100ms verstuurd.  |
+| --- | --- |
+| EIS-LI-31  | Indien een vraagbericht is ontvangen wordt binnen de tijd als gespecificeerd in 0 een antwoordbericht (of indien van toepassing een foutbericht) teruggestuurd.  |
+
+### Artikel  2.5  
+
+####Prioriteit en afhankelijkheid van eisen
+
+Prioriteit 1 is de hoogste, 3 de laagste.  Tabel 8 – Prioriteiten van eisen. 
+
+| Prioriteit  | Eisen  |
+|:---|:---|
+| 1  | Alle EIS-AL  |
+| 2  | Alle EIS-FI  |
+| 3  | Alle EIS-LI  |
 
