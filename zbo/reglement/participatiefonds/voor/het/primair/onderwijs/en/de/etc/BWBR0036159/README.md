@@ -3574,7 +3574,7 @@ c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers 
 
 ### Artikel  4:59:5  
 
-####Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend.
+####Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend
 
 Materieel uitgewerkt per 14-01-2015 
 
@@ -3674,7 +3674,7 @@ b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktb
 c. de bedragen die gemoeid gaan met de Regeling prestatiebox primair onderwijs worden voor 65% in de vergelijking van schooljaar 2013–2014 en schooljaar 2014–2015 opgenomen;  
 
 d. het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan het ontslag wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.     
-3.  Tevens overlegt de werkgever een afschrift van de passage van het zorgplan 2013–2014 als bedoeld in artikel 19, tweede lid, onder b van de WPO *en een afschrift van de passage van het ondersteuningsplan 2014–2015 als bedoeld in artikel 18a, achtste lid, onder b van de WPO*, over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.   
+3.  Tevens overlegt de werkgever een afschrift van de passage van het zorgplan 2013–2014 als bedoeld in artikel 19, tweede lid, onder b van de WPO en een afschrift van de passage van het ondersteuningsplan 2014–2015 als bedoeld in artikel 18a, achtste lid, onder b van de WPO, over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.   
 4.  Als de werkgever is aangesloten bij een samenwerkingsverband waarvan de aangesloten werkgevers hebben besloten dat zij zich gedragen als ware het samenwerkingsverband één werkgever voor wat betreft de rijksbekostiging van personeel en financiële bijdragen van derden, dan neemt de werkgever de bedragen rijksbekostiging van personeel en financiële bijdragen van derden op het niveau van het samenwerkingsverband in de vergelijking op.   
 5.  Indien er sprake is van een fusie en/of overdacht van instellingen dan wel besturen, houdt de werkgever hier rekening mee, zodat de verschillende jaren vergelijkbaar blijven. Dit betekent dat als in het schooljaar 2014–2015 een extra instelling onder het bevoegd gezag ressorteert, deze instelling in het schooljaar 2013–2014 (herkenbaar) bij de vergelijking betrokken wordt.  
 
@@ -3811,13 +3811,13 @@ Materieel uitgewerkt per 14-01-2015
 
 ### Artikel  4:62:2  
 
-####Overleg, gericht op overeenstemming conform vigerende regel overlegprotocol.
+####Overleg, gericht op overeenstemming conform vigerende regel overlegprotocol
 
 Materieel uitgewerkt per 14-01-2015 
 
 De werkgever toont aan met ter zake overtuigende documenten dat hij volgens de strekking van het tripartiet convenant over de personele gevolgen overleg heeft gevoerd met het samenwerkingsverband, de betrokken besturen en de vakorganisaties, gericht op overeenstemming conform de vigerende regels van het overlegprotocol. 
 
-### Artikel  4;62:3 
+### Artikel  4:62:3 
 
 ####Daling rijksbekostiging van personeel en financiële bijdragen van derden volgens vergelijking
 

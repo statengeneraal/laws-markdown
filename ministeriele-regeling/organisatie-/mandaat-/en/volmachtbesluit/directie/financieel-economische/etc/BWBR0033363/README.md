@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 22 april 2013, 2013-0000005301, houdende de inrichting van de directie Financieel-Economische Zaken, alsmede doorverlening van vertegenwoordigingsbevoegdheden van de directeur Financieel-Economische Zaken (Organisatie-, mandaat- en volmachtbesluit directie Financieel-Economische Zaken 2013)
 
 De Minister van Sociale Zaken en Werkgelegenheid,  
-Gelet op de [artikelen 3, eerste lid, onderdeel k](../../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/secretaris-generaal/2009/BWBR0024991/README.md), en [11, van het Organisatie-, mandaat- en volmachtbesluit secretaris-generaal SZW 2009](../../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/secretaris-generaal/2009/BWBR0024991/README.md);
+Gelet op de artikelen 3, eerste lid, onderdeel k, en 11, van het Organisatie-, mandaat- en volmachtbesluit secretaris-generaal SZW 2009;
 Besluit:     
 ### §  1  
 
@@ -67,11 +67,19 @@ f. het relatiebeheer met het CBS.
 
 ### Artikel  5  
 
-Het hoofd van de afdeling Voorzieningen en Uitvoering is verantwoordelijk voor het toetsen van beleidsvoorstellen op budgettaire gevolgen en financieel-economische aspecten, het verzorgen van ramingen en het adviseren hierover aan de directies die ressorteren onder de directeur-generaal Participatie en Inkomenswaarborg. 
+1.  Het hoofd van de afdeling Voorzieningen en Uitvoering is verantwoordelijk voor het toetsen van beleidsvoorstellen op budgettaire gevolgen en financieel-economische aspecten, het verzorgen van ramingen en het adviseren hierover ten aanzien van beleidsterreinen waarvoor de directeur-generaal Participatie en Inkomenswaarborg verantwoordelijk is, met uitzondering van de verantwoordelijkheden die volgens artikel 6 zijn belegd bij het hoofd van de afdeling Verzekeringen en Werk.   
+2.  De in het eerste lid genoemde advisering omvat mede advisering aan een bewindspersoon en leden van het Managementteam van het ministerie.  
 
 ### Artikel  6  
 
-Het hoofd van de afdeling Verzekeringen en Werk is verantwoordelijk voor het toetsen van beleidsvoorstellen op budgettaire gevolgen en financieel-economische aspecten, het verzorgen van ramingen en het adviseren hierover aan de directies die ressorteren onder de directeur-generaal Participatie en Inkomenswaarborg en de directeur-generaal Werk. 
+1.  Het hoofd van de afdeling Verzekeringen en Werk is verantwoordelijk voor het toetsen van beleidsvoorstellen op budgettaire gevolgen en financieel-economische aspecten, het verzorgen van ramingen en het adviseren hierover ten aanzien van: 
+
+a. de beleidsterreinen waarvoor de directeur-generaal Werk verantwoordelijk is;  
+
+b. de beleidsterreinen waarvoor de afdeling Naleving, Gegevensuitwisseling en Regeldruk van de directie Uitvoeringsbeleid en Naleving verantwoordelijk is;  
+
+c. de beleidsterreinen waarvoor de directie Inkomensverzekeringen en -voorzieningen verantwoordelijk is, met uitzondering van het beleidsterrein inkomensvoorziening.     
+2.  De in het eerste lid genoemde advisering omvat mede advisering aan een bewindspersoon en leden van het Managementteam van het ministerie.  
 
 ### Artikel  7  
 
@@ -141,7 +149,7 @@ Aan het hoofd van de afdeling Begroting wordt mandaat verleend met betrekking to
 
 a. het ondertekenen van overeenkomsten met het CBS;  
 
-b. het aangaan van overeenkomsten met betrekking tot de beleidsinformatievoorziening met een waarde van ten hoogste € 5.000 per overeenkomst.     
+b. het aangaan van overeenkomsten met betrekking tot de beleidsinformatievoorziening met een waarde van ten hoogte van € 12.500 per overeenkomst.     
 2.  Het hoofd van de afdeling Bedrijfsvoering en Informatie kan de bevoegdheid, bedoeld in het eerste lid, onderdeel b, doorverlenen aan de onder hem ressorterende functionarissen.  
 
 ### Artikel  13  
@@ -168,7 +176,7 @@ Bij afwezigheid of verhindering van de directeur Financieel-Economische Zaken wo
 
 ### Artikel  16  
 
-1.  Het [Organisatie-, mandaat- en volmachtbesluit directie Financieel-Economische Zaken 2009](../../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/directie/financieel-economische/etc/BWBR0025717/README.md) wordt ingetrokken.   
+1.  Het Organisatie-, mandaat- en volmachtbesluit directie Financieel-Economische Zaken 2009 wordt ingetrokken.   
 2.  Deze regeling treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met 1 februari 2013.   
 3.  Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit directie Financieel-Economische Zaken 2013.  
 Deze regeling zal in de Staatscourant worden geplaatst.  

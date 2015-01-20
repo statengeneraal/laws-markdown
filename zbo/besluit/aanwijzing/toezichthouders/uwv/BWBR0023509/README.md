@@ -3,12 +3,12 @@
 ##Besluit aanwijzing toezichthouders UWV
 
 Het Uitvoeringsinstituut werknemersverzekeringen,  
-Gelet op [artikel 55a van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);
+Gelet op artikel 55a van de Wet structuur uitvoeringsorganisatie werk en inkomen;
 Besluit:    
 
 ### Artikel  1  
 
-De inspecteurs van de directie Handhaving van UWV worden aangewezen als toezichthouders, belast met het toezicht op de naleving van in [artikel 30, eerste lid](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) en [artikel 32d van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) bedoelde wet- en regelgeving en het bepaalde in de [artikelen 54](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) en [55 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), voor zover het geen verplichtingen betreft die betrekking hebben op UWV. 
+De inspecteurs en de themaonderzoekers van de directie Handhaving van UWV worden aangewezen als toezichthouders, belast met het toezicht op de naleving van in artikel 30, eerste lid en artikel 32d van de Wet structuur uitvoeringsorganisatie werk en inkomen bedoelde wet- en regelgeving en het bepaalde in de artikelen 54 en 55 van de Wet structuur uitvoeringsorganisatie werk en inkomen, voor zover het geen verplichtingen betreft die betrekking hebben op UWV. 
 
 ### Artikel  2  
 

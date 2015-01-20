@@ -7,27 +7,19 @@ Ingevolge artikel 27, 36, 37 en 38 van de Wet marktordening gezondheidszorg (Wmg
 
 ####Inleiding
 
-Treedt in werking per 21-01-2015 
-
 ### 1.1  
 
 ####Reikwijdte
-
-Treedt in werking per 21-01-2015 
 
 Deze regeling is van toepassing op geneeskundige geestelijke gezondheidszorg (GGZ) als omschreven bij of krachtens de Zorgverzekeringswet (Zvw), niet zijnde generalistische basis GGZ, hierna verder aangeduid als gespecialiseerde GGZ.    
 ### 1.2  
 
 ####Doel van de regeling
 
-Treedt in werking per 21-01-2015 
-
 Het doel van deze regeling is het stellen van voorschriften voor de gespecialiseerde GGZ op het gebied van registratie, declaratie, informatie en validatie die zorgaanbieders in acht moeten nemen bij én voorafgaand aan het declareren van DBC’s, ZZP’s GGZ en OVP’s.    
 ### 1.3  
 
 ####Begripsbepalingen
-
-Treedt in werking per 21-01-2015 
 
 In deze regeling wordt verstaan onder: 
 
@@ -118,8 +110,6 @@ nn.  *ZZP GGZ-zorgproduct (ZZP GGZ):* Een ZZP GGZ is een volledig pakket van int
 
 ####Opbouw regeling
 
-Treedt in werking per 21-01-2015 
-
 Er bestaan drie typen zorgprestaties in de gespecialiseerde GGZ: 
 
 a. DBC-zorgproducten (DBC);  
@@ -131,54 +121,38 @@ c. Overige producten (OVP).   In deze regeling wordt per type zorgprestatie besc
 
 ####Algemene bepalingen
 
-Treedt in werking per 21-01-2015 
-
 ### 2.1  
 
 ####Afbakening
-
-Treedt in werking per 21-01-2015 
 
 Gespecialiseerde GGZ omvat geneeskundige geestelijke gezondheidszorg als omschreven bij of krachtens de Zvw. Dit omvat behandeling al dan niet gepaard met verblijf. De gespecialiseerde GGZ die geleverd wordt en valt binnen de kaders van het basispakket wordt in beginsel bekostigd middels een DBC of ZZP GGZ. In enkele specifieke gevallen, en op het moment dat GGZ wordt geleverd die niet binnen het basispakket valt, kan een OVP voor de geleverde zorg in rekening worden gebracht. Verblijf gericht op behandeling valt onder het basispakket totdat sprake is van totaal 1.095 dagen aaneengesloten verblijf met behandeling. Voor de berekening of sprake is van 1.095 dagen gaat het zowel om verblijf gericht op GGZ (onder de Zorgverzekeringswet)<sup> 1 Voor de telling van de 1.095 dagen telt het aantal dagen verblijf gericht op behandeling die onder andere bekostigingsregimes zijn ontvangen, niet mee. </sup> als om verblijf in het kader van een somatische behandeling. Na deze 1.095 dagen intramurale behandeling met verblijf wordt de zorg niet verder bekostigd onder het regime van de Zvw. Bij de telling van aaneengesloten verblijf wordt een onderbreking van ten hoogste 30 dagen niet als onderbreking beschouwd, maar deze dagen tellen niet mee voor de berekening van de 1.095 dagen. In afwijking van het voorgaande geldt dat onderbrekingen wegens weekend- en vakantieverlof wel mee tellen voor de berekening van de 1.095 dagen. Voor enkele specifieke bepalingen over de telling, in het bijzonder ten aanzien van het registreren en in rekening brengen van deze dagen, wordt verwezen naar paragraaf 4.1 en 4.2 (registratie- en declaratiebepalingen zorgzwaartepakketten) van deze regeling.    
 ### 2.2  
 
 ####Bekostigingsonderscheid DBC versus ZZP GGZ
 
-Treedt in werking per 21-01-2015 
-
 Op het moment dat een patiënt wordt doorverwezen naar de gespecialiseerde GGZ en hier in behandeling wordt genomen, wordt een DBC GGZ-zorgproduct geopend. Op het moment dat er sprake is van 365 aaneengesloten dagen verblijf gericht op behandeling, wordt vanaf de 366e dag tot en met de 1095e dag de langdurige intramurale op behandeling gerichte GGZ bekostigd middels een ZZP GGZ.    
 ### 2.3  
 
 ####Samenloop DBC, ZZP GGZ en OVP
-
-Treedt in werking per 21-01-2015 
 
 Een zorgaanbieder mag niet tegelijkertijd een ZZP GGZ en een DBC GGZ registreren en in rekening brengen voor één en dezelfde patiënt. Na 365 dagen aaneengesloten verblijf met behandeling worden dus alle DBC’s GGZ gesloten. Dit geldt alleen voor de DBC GGZ. Een zorgaanbieder mag wel een DBC in het kader van medisch specialistische zorg gelijktijdig met een DBC GGZ of een ZZP GGZ registreren en in rekening brengen. Een zorgaanbieder mag wel een OVP in combinatie met zowel een DBC GGZ als een ZZP GGZ registreren en in rekening brengen. Uitzondering hierop zijn de OVP’s Beeldvormend onderzoek/klinisch-chemische en microbiologische laboratoriumonderzoeken in opdracht van een GGZ-aanbieder voor patiënten die extramurale gespecialiseerde GGZ ontvangen. Deze OVP’s kunnen alleen in rekening worden gebracht als sprake is van een extramurale behandeling. Dit OVP kan dus nooit in rekening worden gebracht in combinatie met een ZZP GGZ.    
 ### 2.4  
 
 ####Overgang
 
-Treedt in werking per 21-01-2015 
-
 Zorgverzekeraars worden vanaf 2015 op grond van de Zorgverzekeringswet (Zvw) verantwoordelijk voor de eerste 1.095 dagen op behandeling gerichte intramurale GGZ voor volwassenen. Dit geldt niet voor mensen die op 31 december 2014 al een ZZP GGZ B hebben in de Algemene Wet Bijzondere Ziektekosten (AWBZ). Deze patienten gaan op 1 januari 2015 rechtstreeks over naar de Wet langdurige zorg (Wlz).     
 ### 3  
 
 ####DBC-zorgproducten
 
-Treedt in werking per 21-01-2015 
-
 ### 3.1  
 
 ####Registratieproces DBC’s
-
-Treedt in werking per 21-01-2015 
 
 Dit hoofdstuk is gericht op het ‘registreren’ van een DBC. Hierbinnen valt een onderscheid te maken in (1) algemene registratiebepalingen; (2) openen van een DBC; (3) het typeren van een DBC; (4) het registreren van patiëntgebonden activiteiten, verblijfsdagen, dagbesteding en verrichtingen en (5) het sluiten van een DBC. Om goed en volledig te kunnen registreren, moeten de stappen van het registratieproces als volgorde worden aangehouden.   
 ### 3.1.1  
 
 ####Algemene registratiebepalingen
-
-Treedt in werking per 21-01-2015 
 
 1. De registratie van het zorgtraject start op het moment dat een patiënt zich (met een nieuwe zorgvraag) aanmeldt. Bij één zorgaanbieder kunnen maximaal drie zorgtrajecten per patiënt open staan. Het is alleen mogelijk om een vierde zorgtraject te openen, wanneer dit een crisis-DBC is.<sup> 2 Een vrijgevestigde zorgaanbieder mag ook maximaal drie zorgtrajecten openen. Het is voor een vrijgevestigde zorgaanbieder echter niet mogelijk om een vierde zorgtraject te openen, omdat dit alleen mag voor een crisis-DBC. Het openen van een crisis-DBC is alleen toegestaan aan instellingen met een 24-uurs dienst onder bepaalde voorwaarden. Zie voor meer informatie paragraaf 3.1.5 ‘crisis’. </sup>   
 
@@ -190,8 +164,6 @@ Treedt in werking per 21-01-2015
 ### 3.1.2  
 
 ####Openen DBC’s
-
-Treedt in werking per 21-01-2015 
 
 1. Iedereen onder verantwoordelijkheid van de hoofdbehandelaar kan een initiële DBC en een vervolg-DBC openen.<sup> 5 Het openen van een DBC is een administratieve handeling waarvoor de hoofdbehandelaar verantwoordelijk is. </sup>   
 
@@ -241,8 +213,6 @@ c. als een zorgaanbieder de behandeling van een patiënt overneemt van een ander
 ### 3.1.3  
 
 ####Typeren
-
-Treedt in werking per 21-01-2015 
 
 Het typeren van een DBC bestaat uit verschillende onderdelen: het vastleggen van de identificatiegegevens van de patiënt, het vastleggen van het zorgtype en het classificeren van de (primaire) diagnose van de patiënt. 
 
@@ -305,8 +275,6 @@ b. opeenvolgende zorgtrajecten: wanneer er sprake is van meerdere diagnoses waar
 ### 3.1.4  
 
 ####Registreren
-
-Treedt in werking per 21-01-2015 
 
 Zodra een DBC geopend is kunnen activiteiten en verrichtingen op verschillende categorieën geregistreerd worden: diagnostiek en behandeling, dagbesteding, verblijf en verrichtingen. Activiteiten en verrichtingen worden bijgehouden volgens de lijst van ‘activiteiten en verrichtingen.<sup> 11 De activiteiten- en verrichtingenlijst is te vinden in bijlage IV. </sup>  
 
@@ -413,8 +381,6 @@ b. activiteit Farmacotherapie: bij de ambulante verstrekking van Methadon moet d
 
 ####Crisis-DBC
 
-Treedt in werking per 21-01-2015 
-
 Een crisis-DBC heeft een looptijd van maximaal 28 dagen. De 24-uurs-crisiszorg die de crisisdiensten leveren wordt onder andere gekenmerkt door de niet planbaarheid van zorg. Alleen instellingen met een 24-uurs crisisdienst met een regionale functie mogen in het geval van een crisisinterventie een DBC openen waarop crisisactiviteiten geschreven kunnen worden. De geleverde crisiszorg heeft als doel de crisissituatie van de patiënt zo spoedig mogelijk te stabiliseren. Een patiënt kan vervolgens (1) geen zorg meer nodig hebben; (2) een regulier zorgtraject starten of (3) een regulier zorgtraject vervolgen. 
 
 1. Alle behandelaren waarvan het beroep op de openingsdatum van de DBC is opgenomen in de DBC-beroepentabel mogen op de DBC-crisisactiviteiten registreren.   
@@ -468,8 +434,6 @@ b. Crisisactiviteiten tijdens de crisisdienst, waarbij een behandelaar alleen pa
 ### 3.1.6  
 
 ####Sluiten
-
-Treedt in werking per 21-01-2015 
 
 1. De hoofdbehandelaar is verantwoordelijk voor het sluiten van de DBC, waarbij de hoofdbehandelaar (of diegene die onder zijn of haar verantwoordelijkheid valt) de volgende punten controleert: 
 
@@ -534,8 +498,6 @@ g. afsluiten vanwege overgang naar ZZP GGZ prestaties.
 
 ####Bepalingen validatie DBC’s
 
-Treedt in werking per 21-01-2015 
-
 1. De administratieve organisatie is zodanig ingericht dat een audit-trail mogelijk is. De NZa en de zorgverzekeraar moeten te allen tijde de mogelijkheid hebben om DBC-registratie op juistheid te controleren.  
 
 2. De zorgaanbieder neemt ten behoeve van de DBC-registratie en declaratie van DBC's in hun registratie- en declaratiesoftware een validatiemodule op. Het document ‘Validatieregels GGZ’, dat integraal onderdeel uitmaakt van deze regeling, bevat de specificaties waaraan de validatiemodule moet voldoen. Dit document is te downloaden van de website van de NZa (www.nza.nl). De validatiemodule dient zodanig te zijn ingericht dat uitsluitend DBC’s in rekening kunnen worden gebracht die niet strijdig zijn met de inhoud van deze regeling.  
@@ -544,8 +506,6 @@ Treedt in werking per 21-01-2015
 ### 3.3  
 
 ####Declaratiebepalingen DBC’s
-
-Treedt in werking per 21-01-2015 
 
 Deze regeling stelt voorschriften, voorwaarden of beperkingen met betrekking tot het declaratieproces in de gespecialiseerde GGZ. 
 ### *Te declareren DBC-tarief* 
@@ -574,8 +534,6 @@ e. het aantal geleverde minuten direct patiëntgebonden tijd is geregistreerd op
 ### 3.4  
 
 ####Informatiebepalingen DBC’s
-
-Treedt in werking per 21-01-2015 
 
 Elke factuur dient in ieder geval de volgende gegevens te bevatten als onderdeel van de prestatiebeschrijving: 
 
@@ -656,8 +614,6 @@ e. verblijf zonder overnachting (VZO).   Alle deelprestaties worden altijd in co
 
 ####Uitzondering in geval van privacybezwaren
 
-Treedt in werking per 21-01-2015 
-
 1.  * Privacyverklaring*  De artikelen 3.4.3, 3.4.11 en 3.4.13, voor zover betrekking hebbend op tot de diagnose herleidbare gegevens, blijven buiten toepassing indien de patiënt en de zorgaanbieder gezamenlijk een verklaring hebben ondertekend overeenkomstig bijlage 1.  
 
 2.  * Inzenden verklaring*  De verklaring bedoeld in artikel 3.5.1 dient vóór, doch uiterlijk op het moment van indiening van de factuur bij de zorgverzekeraar in het bezit te worden gesteld van de zorgverzekeraar van de patiënt.  
@@ -675,8 +631,6 @@ Treedt in werking per 21-01-2015
 
 ####ZZP GGZ-zorgproducten
 
-Treedt in werking per 21-01-2015 
-
 In dit hoofdstuk worden de registratie-, declaratie- en informatiebepalingen van de prestaties en toeslagen in het kader van de langdurige GGZ met behandeling beschreven. Met prestaties wordt in dit hoofdstuk bedoeld: 
 
 – ZZP GGZ B 3 t/m 7 inclusief dagbesteding;  
@@ -691,8 +645,6 @@ In dit hoofdstuk worden de registratie-, declaratie- en informatiebepalingen van
 ### 4.1  
 
 ####Algemene registratiebepalingen
-
-Treedt in werking per 21-01-2015 
 
 1. De registratie van de prestaties en toeslagen in de administratie van de zorgaanbieder is volledig, juist en actueel.  
 
@@ -710,8 +662,6 @@ Treedt in werking per 21-01-2015
 ### 4.2  
 
 ####Declaratiebepalingen
-
-Treedt in werking per 21-01-2015 
 
 1. De zorgaanbieder declareert de prestatie met het profiel dat overeenkomt met het profiel van de patiënt (zie Bijlage VIII). De declaratie vindt plaats op patiëntniveau.  
 
@@ -736,8 +686,6 @@ Treedt in werking per 21-01-2015
 
 ####Informatiebepalingen
 
-Treedt in werking per 21-01-2015 
-
 Elke factuur bevat in ieder geval de volgende gegevens: 
 
 1.  *Begindatum declaratieperiode*  Het gaat hier om de datum van de eerste dag in de betreffende declaratieperiode.  
@@ -761,8 +709,6 @@ b. Vervoer dagbesteding.   Alle toeslagen worden altijd in combinatie met een ZZ
 
 ####Overige producten (OVP’s)
 
-Treedt in werking per 21-01-2015 
-
 ### *Overige producten* 
 
 De categorie ‘overige producten’ (OVP’s) heeft geen relatie met het DBC- of ZZP GGZ-traject van een patiënt. De registratieprocessen voor de DBC’s en ZZP’s GGZ gelden dus ook niet voor de OVP’s. De integrale tarieven voor de overige producten kunnen daarom afzonderlijk gedeclareerd worden aan de patiënt, zorgverzekeraar of aan de opdrachtgever. Voor meer informatie over overige producten wordt verwezen naar de beleidsregel ‘Prestaties en tarieven gespecialiseerde ggz. Als er aan een patiënt zowel basispakketzorg als niet basispakketzorg wordt geleverd, dan declareert de zorgaanbieder zowel een DBC/ZZP GGZ als een OVP. 
@@ -783,21 +729,15 @@ De categorie ‘overige producten’ (OVP’s) heeft geen relatie met het DBC- o
 
 ####Intrekking oude regels
 
-Treedt in werking per 21-01-2015 
-
 Gelijktijdig met de inwerkingtreding van deze regeling wordt de regeling ‘Gespecialiseerde GGZ’, met kenmerk NR/CU-554 en de nog niet in werking getreden maar al wel gepubliceerde regelingen ‘Gespecialiseerde GGZ’ met kenmerk NR/CU-548 en kenmerk NR/CU-553, ingetrokken.    
 ### 7  
 
 ####Overgangsbepaling
 
-Treedt in werking per 21-01-2015 
-
 De regeling ‘Gespecialiseerde GGZ’, met kenmerk NR/CU-554, blijft van toepassing op gedragingen (handelen en nalaten) van zorgaanbieders die onder de werkingssfeer van die regeling vielen en die zijn aangevangen – en al dan niet beëindigd – in de periode dat die regeling gold. Dit betekent dat voor overlopende DBC’s (DBC’s gestart in 2014 en doorlopend in 2015) de op het moment van opening van het DBC-zorgproduct geldende nadere regel van toepassing is.    
 ### 8  
 
 ####Inwerkingtreding en citeerregel
-
-Treedt in werking per 21-01-2015 
 
 Deze regeling treedt in werking met ingang van 1 januari 2015. Indien de Staatscourant waarin de mededeling als bedoeld in artikel 20, tweede lid, onderdeel b, van de Wet marktordening gezondheidszorg (Wmg) wordt geplaatst, wordt uitgegeven na 31 december 2014, treedt de regeling in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin de mededeling wordt geplaatst en werkt zij terug tot en met 1 januari 2015.      Deze regeling kan worden aangehaald als: ‘Regeling gespecialiseerde GGZ’.  
 
@@ -808,8 +748,6 @@ voorzitter Raad van Bestuur a.i.
 ### Bijlage  I  
 
 ####– privacyverklaring
-
-Treedt in werking per 21-01-2015 
 
 | --- | --- |
 |:---|:---|
@@ -852,8 +790,6 @@ verklaren:
 ### Bijlage  II  
 
 ####– zorgtypen
-
-Treedt in werking per 21-01-2015 
 
 Initiële DBC 
 
@@ -957,8 +893,6 @@ Het gaat hier om een crisisinterventie met een klinische opname en is aan de ord
 
 ####– feitelijke classificatie van DSM-IV-TR
 
-Treedt in werking per 21-01-2015 
-
 AS 1: Klinische stoornissen 
 
 | DSM IV-TR  | Diagnosetabel  |
@@ -1033,8 +967,6 @@ AS 5: GAF-score
 ### Bijlage  IV  
 
 ####– activiteiten- en verrichtingenlijst
-
-Treedt in werking per 21-01-2015 
 
 ####Varianten in behandelactiviteiten
 
@@ -1254,8 +1186,6 @@ Treedt in werking per 21-01-2015
 ### Bijlage  V  
 
 ####– definities activiteiten en verrichtingen
-
-Treedt in werking per 21-01-2015 
 
 In deze bijlage zijn de definities opgenomen van de activiteiten en verrichtingen. In bijlage I is een lijst met activiteiten en verrichtingen opgenomen. 
 
@@ -1491,8 +1421,6 @@ Deze verrichting vergoedt de extra kosten voor de beschikbaarheidfunctie van de 
 
 ####– beroepentabel
 
-Treedt in werking per 21-01-2015 
-
 ####Hoofdbehandelaar en behandelaren
 
 De hoofdbehandelaar is een zorgverlener die, in reactie op de zorgvraag van een patiënt, bij de patiënt de diagnose stelt en door wie of onder wiens verantwoordelijkheid de behandeling plaatsvindt. Dit houdt in dat de hoofdbehandelaar verantwoordelijk is voor alle acties die in het kader van de behandeling van een patiënt gedurende het gehele DBC-traject plaatsvinden. Behandelaren die geen hoofdbehandelaar zijn (en dus geen patiënten typeren) registreren alleen activiteiten en verrichtingen. Een hoofdbehandelaar is vaak ook behandelaar en registreert dus ook activiteiten en verrichtingen. 
@@ -1584,8 +1512,6 @@ De DBC-beroepentabel sluit aan bij een landelijk erkende indeling van beroepen: 
 
 ####– deelprestaties verblijf (met en zonder overnachting)
 
-Treedt in werking per 21-01-2015 
-
 | DEELPRESTATIE VERBLIJF A (LICHTE VERZORGINGSGRAAD)  |
 |:---|
 | Verblijfszorg  | Deze deelprestatie verblijf is bedoeld voor GGZ patiënten met een *lichte* verstoring in het psychiatrisch ziektebeeld (psychisch, sociaal en somatisch functioneren), waardoor er een noodzaak tot opname is om de geneeskundige zorg te leveren. De behoefte aan begeleiding<sup>1</sup> door het VOV personeel<sup>2</sup> is *beperkt*. De nadruk ligt op het zelfoplossend vermogen en zelfregie van de patiënten.  VOV personeel is op afstand oproepbaar.  Voor zover patiënten mobiliteitsproblemen hebben vergen deze geen extra verzorging of toezicht.  Wat betreft de zelfstandigheid in de ADL<sup>3</sup>/BDL<sup>4</sup> is er *geen* begeleiding noodzakelijk. De zelfredzaamheid van de patiënten is groot.  |
@@ -1653,8 +1579,6 @@ Treedt in werking per 21-01-2015
 ### Bijlage  VIII  
 
 ####– profielen zorgzwaartepakketten GGZ
-
-Treedt in werking per 21-01-2015 
 
 | ZZP 3B GGZ   | Voortgezet verblijf met intensieve begeleiding   |
 |:---|:---|

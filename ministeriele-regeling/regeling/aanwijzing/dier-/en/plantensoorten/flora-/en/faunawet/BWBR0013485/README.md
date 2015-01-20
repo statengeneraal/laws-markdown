@@ -13,31 +13,31 @@ Gelet op richtlijn nr. 92/43/EEG van de Raad van de Europese Gemeenschappen van 
 
 Gelet op verordening (EG) nr. 338/97 van de Raad van de Europese Unie van 9 december 1996 inzake de bescherming van in het wild levende dier- en plantensoorten door controle op het desbetreffende handelsverkeer (PbEG 1997, L 61);
 
-Gelet op de [artikelen 3, tweede lid](../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), [4, derde lid](../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), en [5, tweede lid, van de Flora- en faunawet](../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md);
+Gelet op de artikelen 3, tweede lid, 4, derde lid, en 5, tweede lid, van de Flora- en faunawet;
 Besluit:    
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder:   a. wet:   [Flora- en faunawet](../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md);    b.  basisverordening:   verordening (EG) nr. 338/97 van de Raad van de Europese Unie van 9 december 1996 inzake de bescherming van in het wild levende dier- en plantensoorten door controle op het desbetreffende handelsverkeer (PbEG 1997, L 61);    c.  richtlijn 92/43/EEG:   richtlijn nr. 92/43/EEG van de Raad van de Europese Gemeenschappen van 21 mei 1992 inzake de instandhouding van de natuurlijke habitats en de wilde flora en fauna (PbEG L 206);   d. verordening (EG) 1007/2009:verordening (EG) nr. 1007/2009 van het Europees Parlement en de Raad van de Europese Unie van 16 september 2009 betreffende de handel in zeehondenproducten (PbEU L 286).  
+In deze regeling wordt verstaan onder:   a. wet:   Flora- en faunawet;    b.  basisverordening:   verordening (EG) nr. 338/97 van de Raad van de Europese Unie van 9 december 1996 inzake de bescherming van in het wild levende dier- en plantensoorten door controle op het desbetreffende handelsverkeer (PbEG 1997, L 61);    c.  richtlijn 92/43/EEG:   richtlijn nr. 92/43/EEG van de Raad van de Europese Gemeenschappen van 21 mei 1992 inzake de instandhouding van de natuurlijke habitats en de wilde flora en fauna (PbEG L 206);   d. verordening (EG) 1007/2009:verordening (EG) nr. 1007/2009 van het Europees Parlement en de Raad van de Europese Unie van 16 september 2009 betreffende de handel in zeehondenproducten (PbEU L 286).  
 
 ### Artikel  2  
 
-Als beschermde inheemse plantensoort als bedoeld in [artikel 3, tweede lid, van de wet](../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) zijn aangewezen de in bijlage 1 bij deze regeling genoemde plantensoorten, met inbegrip van de bij deze bijlage behorende voetnoot. 
+Als beschermde inheemse plantensoort als bedoeld in artikel 3, tweede lid, van de wet zijn aangewezen de in bijlage 1 bij deze regeling genoemde plantensoorten, met inbegrip van de bij deze bijlage behorende voetnoot. 
 
 ### Artikel  3  
 
-Als beschermde inheemse diersoort als bedoeld in [artikel 4, derde lid, van de wet](../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) zijn aangewezen de in bijlage 2 bij deze regeling genoemde diersoorten. 
+Als beschermde inheemse diersoort als bedoeld in artikel 4, derde lid, van de wet zijn aangewezen de in bijlage 2 bij deze regeling genoemde diersoorten. 
 
 ### Artikel  4  
 
-1.  Als beschermde uitheemse dier- en plantensoort als bedoeld in [artikel 5, tweede lid, van de wet](../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) zijn, voorzover het soorten als bedoeld in [artikel 5, eerste lid, onderdeel a, van de wet](../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) betreft, en met uitzondering van de daarin voorkomende beschermde inheemse dier- en plantensoorten, aangewezen: 
+1.  Als beschermde uitheemse dier- en plantensoort als bedoeld in artikel 5, tweede lid, van de wet zijn, voorzover het soorten als bedoeld in artikel 5, eerste lid, onderdeel a, van de wet betreft, en met uitzondering van de daarin voorkomende beschermde inheemse dier- en plantensoorten, aangewezen: 
 
 a. de soorten genoemd in bijlage A bij de basisverordening, met inachtneming van de tot die bijlage behorende opmerkingen over de interpretatie daarvan;  
 
 b. de soorten genoemd in bijlage IV bij richtlijn 92/43/EEG, voorzover deze soorten niet vallen onder de basisverordening;  
 
 c. de soorten genoemd in bijlage 3 bij deze regeling.     
-2.  Als beschermde uitheemse dier- en plantensoort als bedoeld in [artikel 5, tweede lid, van de wet](../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) zijn, voorzover het soorten als bedoeld in [artikel 5, eerste lid, onderdeel b, van de wet](../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) betreft en voorzover deze soorten niet reeds onder artikel 4, eerste lid, van deze regeling vallen, aangewezen: 
+2.  Als beschermde uitheemse dier- en plantensoort als bedoeld in artikel 5, tweede lid, van de wet zijn, voorzover het soorten als bedoeld in artikel 5, eerste lid, onderdeel b, van de wet betreft en voorzover deze soorten niet reeds onder artikel 4, eerste lid, van deze regeling vallen, aangewezen: 
 
 a. de soorten genoemd in de bijlagen B, C en D bij de basisverordening, met inachtneming van de tot die bijlage behorende opmerkingen over de interpretatie daarvan, en met uitzondering van de daarin voorkomende beschermde inheemse dier- en plantensoorten;  
 
@@ -51,7 +51,7 @@ Een wijziging van bijlage IV bij richtlijn 92/43/EEG geldt voor de toepassing va
 
 ### Artikel  6  
 
-Deze regeling treedt in werking op het tijdstip waarop de [artikelen 3, tweede lid](../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), [4, derde lid](../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), en [5, tweede lid, van de Flora- en faunawet](../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) in werking treden. 
+Deze regeling treedt in werking op het tijdstip waarop de artikelen 3, tweede lid, 4, derde lid, en 5, tweede lid, van de Flora- en faunawet in werking treden. 
 
 ### Artikel  7  
 
@@ -116,7 +116,7 @@ G.H. Faber
 | Witte muggenorchis  | Pseudorchis albida  | d  |
 | Zomerschroeforchis  | Spiranthes aestivalis  | a  |
 
-De letters a tot en met d in de derde kolom corresponderen met de onderdelen a tot en met d van [artikel 3, eerste lid, van de wet](../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) en refereren naar de motieven voor opname in deze lijst van beschermde inheemse plantensoorten die van nature in Nederland voorkomen en die: 
+De letters a tot en met d in de derde kolom corresponderen met de onderdelen a tot en met d van artikel 3, eerste lid, van de wet en refereren naar de motieven voor opname in deze lijst van beschermde inheemse plantensoorten die van nature in Nederland voorkomen en die: 
 
 a.  in hun voortbestaan worden bedreigd of het gevaar lopen in hun voortbestaan te worden bedreigd;  
 
@@ -139,6 +139,7 @@ d.  zodanige gelijkenis vertonen met soorten die zijn aangewezen op grond van he
 |:---|:---|:---|
 | VISSEN  | PISCES S.L.  | --- |
 | Aal  | Anguilla anguilla  | a  |
+| Haringhaai  | Lamna nasus  | a  |
 
 | *Nederlandse naam*  | *wetenschappelijke naam*  | *motief voor opname*  |
 |:---|:---|:---|
@@ -183,7 +184,7 @@ d.  zodanige gelijkenis vertonen met soorten die zijn aangewezen op grond van he
 |  *SLAKKEN*   |  *GASTROPODA*   | --- |
 | Platte schijfhoren  | Anisus vorticulus  | a  |
 
-De letters a tot en met d in de derde kolom corresponderen met de onderdelen a tot en met d van [artikel 4, tweede lid, van de wet](../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) en refereren naar de motieven voor opname in deze lijst van beschermde inheemse diersoorten die van nature in Nederland voorkomen en die: 
+De letters a tot en met d in de derde kolom corresponderen met de onderdelen a tot en met d van artikel 4, tweede lid, van de wet en refereren naar de motieven voor opname in deze lijst van beschermde inheemse diersoorten die van nature in Nederland voorkomen en die: 
 
 a.  in hun voortbestaan worden bedreigd of het gevaar lopen in hun voortbestaan te worden bedreigd;  
 
