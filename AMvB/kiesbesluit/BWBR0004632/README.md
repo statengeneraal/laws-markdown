@@ -14,7 +14,7 @@ Gezien het nader rapport van de Staatssecretaris van Binnenlandse Zaken van 16 o
 Hebben goedgevonden en verstaan:      
 ### Afdeling  II  
 
-####De verkiezing van de leden van de Tweede Kamer der Staten-Generaal, van provinciale staten en van de gemeenteraden 
+####De verkiezing van de leden van de Tweede Kamer der Staten-Generaal, van provinciale staten, van de algemene besturen en van de gemeenteraden 
 
 ### Hoofdstuk  D  
 
@@ -40,7 +40,6 @@ e.de nationaliteit.
 2. Burgemeester en wethouders schrappen de registratie van de kiesgerechtigdheid van de in het eerste lid bedoelde personen indien aan hen omstandigheden bekend worden op grond waarvan de desbetreffende persoon niet als kiezer behoort te zijn geregistreerd. 
 
 ### Artikel  D 1b  
-Treedt in werking per 01-01-2015 
 
 Op verzoek van burgemeester en wethouders verstrekt het dagelijks bestuur informatie over de grenzen van het gebied van het waterschap. 
 
@@ -61,7 +60,7 @@ Indien aan het orgaan waarbij een verzoek tot registratie van de kiesgerechtigdh
 
 ### Artikel  D 6  
 
-De in artikel D 3c, eerste en tweede lid, van de Kieswet bedoelde bestanden bevatten met betrekking tot elke persoon die hierin is opgenomen de naam, de voorletters, het woonadres, de geboortedatum en, indien van toepassing, het correspondentie-adres, zoals verstrekt door de verzoeker, alsmede de datum van opname in het bestand en, indien van toepassing, de datum van het laatste registratieverzoek.  
+De in artikel D 3c, eerste en tweede lid, van de Kieswet bedoelde bestanden bevatten met betrekking tot elke persoon die hierin is opgenomen de naam, de voorletters, het woonadres, de geboortedatum en, indien van toepassing, het correspondentie-adres of e-mailadres, zoals verstrekt door de verzoeker, alsmede de datum van opname in het bestand en, indien van toepassing, de datum van het laatste registratieverzoek.  
 
 ### Hoofdstuk  E  
 
@@ -84,8 +83,8 @@ Het stembureau bestaat uit ten minste drie en ten hoogste zeven leden.
 
 ### Artikel  G 1  
 
-1.  De waarborgsommen, bedoeld in het tweede lid van de artikelen G 1, G 2 en G 3, alsmede de waarborgsom, bedoeld in het derde lid van artikel Q 6 juncto het tweede lid van artikel G 1 van de Kieswet, dienen te worden overgemaakt op de daartoe bestemde rekening van onderscheidenlijk Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, de gemeente waar het centraal stembureau voor de verkiezingen van de leden van provinciale staten is gevestigd, of de gemeente, bij een financiële onderneming die ingevolge de Wet op het financieel toezicht in Nederland het bedrijf van bank mag uitoefenen, onder vermelding van de woorden "waarborgsom registratie".    
-2.   De voorzitter van het centraal stembureau deelt het orgaan waaraan de waarborgsommen zijn betaald, zo spoedig mogelijk na de openbaarmaking van de kandidatenlijsten mee welke waarborgsommen ingevolge het tweede lid van artikel G 1, G 2 of G 3, dan wel ingevolge het derde lid van artikel Q 6 juncto het tweede lid van artikel G 1 van de Kieswet moeten worden terugbetaald. Dit orgaan gaat vervolgens zo spoedig mogelijk over tot terugbetaling van die waarborgsommen. Over de terug te betalen waarborgsommen wordt geen rente vergoed.   
+1.  De waarborgsommen, bedoeld in het tweede lid van de artikelen G 1, G 2, G 2a en G 3, alsmede de waarborgsom, bedoeld in het derde lid van artikel Q 6 juncto het tweede lid van artikel G 1 van de Kieswet, dienen te worden overgemaakt op de daartoe bestemde rekening van onderscheidenlijk Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, de gemeente waar het centraal stembureau voor de verkiezingen van de leden van provinciale staten is gevestigd, het waterschap of de gemeente, bij een financiële onderneming die ingevolge de Wet op het financieel toezicht in Nederland het bedrijf van bank mag uitoefenen, onder vermelding van de woorden "waarborgsom registratie".    
+2.   De voorzitter van het centraal stembureau deelt het orgaan waaraan de waarborgsommen zijn betaald, zo spoedig mogelijk na de openbaarmaking van de kandidatenlijsten mee welke waarborgsommen ingevolge het tweede lid van artikel G 1, G 2, G 2a of G 3, dan wel ingevolge het derde lid van artikel Q 6 juncto het tweede lid van artikel G 1 van de Kieswet moeten worden terugbetaald. Dit orgaan gaat vervolgens zo spoedig mogelijk over tot terugbetaling van die waarborgsommen. Over de terug te betalen waarborgsommen wordt geen rente vergoed.   
 
 ### Hoofdstuk  H  
 
@@ -93,7 +92,7 @@ Het stembureau bestaat uit ten minste drie en ten hoogste zeven leden.
 
 ### Artikel  H 1  
 
-De formulieren voor de kandidatenlijsten, bedoeld in artikel H 1, derde lid, van de Kieswet, en voor de verklaringen, bedoeld in de artikelen H 3, vijfde lid, H 4, zevende lid, en H9, vierde lid, van de Kieswet, zijn gedurende drie weken vóór en op de dag van de kandidaatstelling verkrijgbaar bij elke gemeente. De verklaring, bedoeld in artikel H 9, vierde lid, van de Kieswet is tevens gedurende drie weken vóór en op de dag van kandidaatstelling verkrijgbaar bij het centraal stembureau. 
+De formulieren voor de kandidatenlijsten, bedoeld in artikel H 1, derde lid, van de Kieswet, en voor de verklaringen, bedoeld in de artikelen H 3, vijfde lid, H 4, zevende lid, en H 9, vierde lid, van de Kieswet, zijn gedurende drie weken vóór en op de dag van de kandidaatstelling verkrijgbaar bij elke gemeente. De verklaring, bedoeld in artikel H 9, vierde lid, van de Kieswet is tevens gedurende drie weken vóór en op de dag van kandidaatstelling verkrijgbaar bij het centraal stembureau. 
 
 ### Artikel  H 2  
 
@@ -101,12 +100,12 @@ De formulieren voor de kandidatenlijsten, bedoeld in artikel H 1, derde lid, va
 2.  Nadere aanduidingen van de naam, mits op de gebruikelijke wijze afgekort, mogen aan de naam worden toegevoegd.    
 3.  Een persoon die gehuwd is of gehuwd is geweest, dan wel wiens partnerschap geregistreerd is of geregistreerd is geweest, wordt op de lijst vermeld hetzij met de eigen geslachtsnaam, hetzij, voor zover hij daartoe op grond van artikel 9 van Boek 1 van het Burgerlijk Wetboek dan wel artikel 9 van Boek 1 van het Burgerlijk Wetboek BES bevoegd is, met de geslachtsnaam van de echtgenoot of geregistreerde partner, dan wel met de eigen geslachtsnaam door middel van een liggend streepje gevolgd door of voorafgegaan door de geslachtsnaam van de echtgenoot of geregistreerde partner.    
 4.  Achter de voorletters of, indien vermeld, de roepnaam, mag ter aanduiding van het geslacht van de kandidaat de toevoeging «(m)» of «(v)» worden geplaatst.    
-5.  Indien het betreft de verkiezing van de leden van provinciale staten van Fryslân of van de raden van gemeenten in de provincie Fryslân, mogen aanduidingen op de kandidatenlijst in de Friese taal worden vermeld.   
+5.  Indien het betreft de verkiezing van de leden van provinciale staten van Fryslân, het algemeen bestuur van het Wetterskip Fryslân of van de raden van gemeenten in de provincie Fryslân, mogen aanduidingen op de kandidatenlijst in de Friese taal worden vermeld.   
 
 ### Artikel  H 3  
 
-1.  De waarborgsommen, bedoeld in de artikelen H 12, H 13 en H 14 van de Kieswet, dienen uiterlijk op de veertiende dag voor de kandidaatstelling te zijn ontvangen op de daartoe bestemde rekening van onderscheidenlijk Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, de gemeente waar het centraal stembureau voor de verkiezingen van de leden van provinciale staten is gevestigd of de gemeente, bij een een financiële onderneming die ingevolge de Wet op het financieel toezicht in Nederland het bedrijf van bank mag uitoefenen, onder vermelding van de woorden "waarborgsom kandidaatstelling".    
-2.   De voorzitter van het centraal stembureau deelt het orgaan waaraan de waarborgsommen zijn betaald, zo spoedig mogelijk na de openbaarmaking van de uitslag van de verkiezing mee welke waarborgsommen ingevolge het vierde of vijfde lid van artikel H 12, H 13 of H 14 van de Kieswet moeten worden terugbetaald. Dit orgaan gaat vervolgens zo spoedig mogelijk over tot terugbetaling van die waarborgsommen. Over de terug te geven waarborgsommen wordt geen rente vergoed.   
+1.  De waarborgsommen, bedoeld in de artikelen H 12, H 13, H 13a en H 14 van de Kieswet, dienen uiterlijk op de veertiende dag voor de kandidaatstelling te zijn ontvangen op de daartoe bestemde rekening van onderscheidenlijk Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, de gemeente waar het centraal stembureau voor de verkiezingen van de leden van provinciale staten is gevestigd, het waterschap of de gemeente, bij een financiële onderneming die ingevolge de Wet op het financieel toezicht in Nederland het bedrijf van bank mag uitoefenen, onder vermelding van de woorden "waarborgsom kandidaatstelling".    
+2.   De voorzitter van het centraal stembureau deelt het orgaan waaraan de waarborgsommen zijn betaald, zo spoedig mogelijk na de openbaarmaking van de uitslag van de verkiezing mee welke waarborgsommen ingevolge het vierde of vijfde lid van artikel H 12, H 13, H 13a of H 14 van de Kieswet moeten worden terugbetaald. Dit orgaan gaat vervolgens zo spoedig mogelijk over tot terugbetaling van die waarborgsommen. Over de terug te geven waarborgsommen wordt geen rente vergoed.   
 
 ### Hoofdstuk  I  
 
@@ -137,7 +136,7 @@ Het centraal stembureau brengt het tijdstip en de plaats van de zitting, bedoeld
 
 1.  Het register, bedoeld in artikel J 7a, eerste lid, eerste volzin, van de Kieswet, bevat de volgende gegevens: 
 
-a. gemeentecode en volgnummer van de stempas;  
+a. verkiezingscode, gemeentecode en volgnummer van de stempas;  
 
 b. naam, voorletters, geslacht en geboortedatum van de kiesgerechtigde;  
 
@@ -191,7 +190,7 @@ Nadat de laatste tot de stemming toegelaten kiezer heeft gestemd, wordt de sleuf
 
 ### §  2  
 
-####Het combineren van stemmingen 
+####Het combineren met een door de gemeenteraad uitgeschreven stemming
 
 ### Artikel  J 9  
 
@@ -231,9 +230,17 @@ De leden van het stembureau kunnen ook werkzaamheden voor de andere stemming, on
 
 ### §  3  
 
-####Het stemmen door middel van elektronische stemmachines 
+####Gecombineerde stemmingen voor de verkiezing van de leden van provinciale staten en de leden van het algemeen bestuur
 
-Vervallen per 06-02-2008 
+### Artikel  J 13  
+
+De stembescheiden voor de verschillende stemmingen zijn voldoende van elkaar te onderscheiden. 
+
+### Artikel  J 14  
+
+1.  In het stemlokaal is er zowel voor de stemming voor de verkiezing van de leden van provinciale staten als voor de stemming voor de verkiezing van de leden van de algemene besturen ten minste één afzonderlijke stembus. De verschillende stembussen zijn voldoende van elkaar te onderscheiden.   
+2.  De stembussen in een stemlokaal worden onmiddellijk na elkaar geopend.   
+3.  Na het openen van de stembussen worden de stembiljetten voor de verschillende stemmingen van elkaar gescheiden.  
 
 ### §  4  
 
@@ -465,14 +472,13 @@ b. voldoet aan de eisen, die bij ministeriële regeling aan de programmatuur zij
 
 ### Artikel  P 3  
 
-De bekendmaking, bedoeld in artikel P 20, tweede lid, van de Kieswet, geschiedt, indien het betreft de verkiezing van de leden van de Tweede Kamer, in de *Nederlandse Staatscourant* en, indien het betreft de verkiezing van de leden van provinciale staten of de gemeenteraad, op de in de provincie, onderscheidenlijk de gemeente, gebruikelijke wijze.  
+De bekendmaking, bedoeld in artikel P 20, tweede lid, van de Kieswet, geschiedt, indien het betreft de verkiezing van de leden van de Tweede Kamer, in de *Nederlandse Staatscourant* en, indien het betreft de verkiezing van de leden van provinciale staten, het algemeen bestuur of de gemeenteraad, op de in de provincie, het waterschap onderscheidenlijk de gemeente, gebruikelijke wijze.  
 
 ### Artikel  P 4  
 
 Indien het centraal stembureau ingevolge het bepaalde in artikel P 21, tweede lid, van de Kieswet verzegelde pakken heeft geopend, worden deze pakken na gebruik wederom verzegeld.  
 
 ### Artikel  P 5  
-Treedt in werking per 01-01-2015 
 
 1.  Voor zover, bij gecombineerde stemmingen, het centraal stembureau dan wel vertegenwoordigend orgaan van de ene verkiezing tot een nieuwe stemopneming besluit, geschiedt deze mede in aanwezigheid van het centraal stembureau respectievelijk vertegenwoordigend orgaan van de andere verkiezing.   
 2.  Het centraal stembureau dat mede aanwezig is bij de nieuwe stemopneming doet daarvan verslag aan het vertegenwoordigend orgaan waarvoor het de verkiezingsuitslag vaststelt of heeft vastgesteld.  

@@ -3,7 +3,7 @@
 ##Verordening van het Hoofdbedrijfschap Detailhandel van 31 oktober 2007, houdende vaststelling bestemmingsheffing detailhandel in wonen voor het jaar 2008 (Verordening bestemmingsheffing detailhandel in wonen 2008)
 
 Het bestuur van het Hoofdbedrijfschap Detailhandel;  
-Gelet op de [artikelen 95, tweede lid](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+Gelet op de artikelen 95, tweede lid en 126 van de Wet op de bedrijfsorganisatie;
 
 Gezien het advies van de Commissie voor de detailhandel in wonen;
 Besluit:     
@@ -21,7 +21,7 @@ In deze verordening wordt verstaan onder detailhandel in wonen: de detailhandel 
 ### Artikel  2  
 Materieel uitgewerkt per 05-12-2008 
 
-In deze verordening zijn de begripsbepalingen van de [Heffingsverordening Hoofdbedrijfschap Detailhandel 2008](../../../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/detailhandel/2008/BWBR0023306/README.md) van overeenkomstige toepassing. 
+In deze verordening zijn de begripsbepalingen van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2008 van overeenkomstige toepassing. 
 
 ### Artikel  3  
 Materieel uitgewerkt per 05-12-2008 
@@ -70,7 +70,7 @@ c. de Vereniging van Grootwinkelbedrijven in de Wonenbranche (VGW) en over het j
 
 a. krachtens haar statutaire doelstelling haar werkzaamheid kan uitstrekken tot ten minste een belangrijk gedeelte van het terrein waarop het bedrijfslichaam een taak heeft te vervullen,  
 
-b. voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de [artikelen 3 tot en met 7 van de Verordening representativiteit organisaties](../../../../../../../../pbo/verordening/representativiteit/organisaties/BWBR0011641/README.md),  
+b. voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de artikelen 3 tot en met 7 van de Verordening representativiteit organisaties,  
 
 c. tot de werkingssfeer van het bedrijfslichaam behorende leden heeft, waarvan het gewogen aantal niet onbetekenend is,  
 
@@ -88,7 +88,7 @@ Materieel uitgewerkt per 05-12-2008
 ### Artikel  6  
 Materieel uitgewerkt per 05-12-2008 
 
-De [artikelen 6 tot en met 17 van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2008](../../../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/detailhandel/2008/BWBR0023306/README.md) zijn van overeenkomstige toepassing. 
+De artikelen 6 tot en met 17 van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2008 zijn van overeenkomstige toepassing. 
 
 ### Artikel  7  
 Materieel uitgewerkt per 05-12-2008 

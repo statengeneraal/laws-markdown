@@ -3,9 +3,9 @@
 ##Verordening van het bestuur van het Productschap Vee en Vlees van 31 oktober 2007 houdende de regulering van varkensleveringen (Verordening varkensleveringen (PVV) 2007)
 
 Het bestuur van het Productschap Vee en Vlees;  
-Gelet op de [artikelen 93](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [102](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [104 van de Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en de [artikelen 10](../../../../../../AMvB/instellingsbesluit/productschap/vee/en/vlees/BWBR0016491/README.md) en [11 van het Instellingsbesluit Productschap Vee en Vlees](../../../../../../AMvB/instellingsbesluit/productschap/vee/en/vlees/BWBR0016491/README.md);
+Gelet op de artikelen 93, 95, 102 en 104 van de Wet op de bedrijfsorganisatie en de artikelen 10 en 11 van het Instellingsbesluit Productschap Vee en Vlees;
 
-Gezien de [Wet tuchtrechtspraak bedrijfsorganisatie 2004](../../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md);
+Gezien de Wet tuchtrechtspraak bedrijfsorganisatie 2004;
 Besluit:     
 ### 1  
 
@@ -20,11 +20,11 @@ In deze verordening wordt verstaan onder:
 | a.  | productschap  | :  | Productschap Vee en Vlees;  |
 | b.  | bestuur  | :  | bestuur van het productschap;  |
 | c.  | voorzitter  | :  | voorzitter van het productschap;  |
-| d.  | wet  | :  | [Gezondheids- en welzijnswet voor dieren](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md);  |
+| d.  | wet  | :  | Gezondheids- en welzijnswet voor dieren;  |
 | e.  | ondernemer  | :  | de natuurlijke of rechtspersoon die een varkenshouderijbedrijf exploiteert;  |
 | f.  | varkenshouderijbedrijf  | :  | locatie van een landbouwbedrijf, niet zijnde een spermawincentrum of een quarantaineruimte, waar, anders dan voor educatieve doeleinden, vijf of meer varkens worden gehouden dan wel een locatie die voor het zodanig houden bestemd is;  |
-| g.  | spermawincentrum  | :  | varkenshouderij waar beren worden gehouden voor de winning van sperma en dat erkend is krachtens artikel 5 van richtlijn nr. 90/429/EEG van de Raad van de Europese Gemeenschappen van 26 juni 1990 tot vaststelling van de veterinairrechtelijke voorschriften van toepassing op het intracommunautaire handelsverkeer in sperma van varkens en de invoer daarvan (PbEG L 224) dan wel krachtens [artikel 3, eerste lid, van het Besluit eisen dierlijk sperma en spermawincentra](../../../../../../AMvB/besluit/eisen/dierlijk/sperma/en/spermawincentra/BWBR0010619/README.md);  |
-| h.  | quarantaineruimte  | :  | afzonderingsruimte die is erkend krachtens bijlage B, hoofdstuk 1, artikel 1, onderdeel a, van richtlijn nr. 90/429/EEG van de Raad van de Europese Gemeenschappen van 26 juni 1990 tot vaststelling van de veterinairrechtelijke voorschriften van toepassing op het intracommunautaire handelsverkeer in sperma van varkens en de invoer daarvan (PbEG L 224) dan wel krachtens [artikel 3, eerste lid, van het Besluit eisen dierlijk sperma en spermawincentra](../../../../../../AMvB/besluit/eisen/dierlijk/sperma/en/spermawincentra/BWBR0010619/README.md);  |
+| g.  | spermawincentrum  | :  | varkenshouderij waar beren worden gehouden voor de winning van sperma en dat erkend is krachtens artikel 5 van richtlijn nr. 90/429/EEG van de Raad van de Europese Gemeenschappen van 26 juni 1990 tot vaststelling van de veterinairrechtelijke voorschriften van toepassing op het intracommunautaire handelsverkeer in sperma van varkens en de invoer daarvan (PbEG L 224) dan wel krachtens artikel 3, eerste lid, van het Besluit eisen dierlijk sperma en spermawincentra;  |
+| h.  | quarantaineruimte  | :  | afzonderingsruimte die is erkend krachtens bijlage B, hoofdstuk 1, artikel 1, onderdeel a, van richtlijn nr. 90/429/EEG van de Raad van de Europese Gemeenschappen van 26 juni 1990 tot vaststelling van de veterinairrechtelijke voorschriften van toepassing op het intracommunautaire handelsverkeer in sperma van varkens en de invoer daarvan (PbEG L 224) dan wel krachtens artikel 3, eerste lid, van het Besluit eisen dierlijk sperma en spermawincentra;  |
 | i.  | A-bedrijf  | :  | varkenshouderijbedrijf dat krachtens artikel 2  is aangewezen als A-bedrijf;  |
 | j.  | B-bedrijf  | :  | varkenshouderijbedrijf dat krachtens artikel 3  is aangewezen als B-bedrijf;  |
 | k.  | C-bedrijf  | :  | varkenshouderijbedrijf dat krachtens artikel 4  is aangewezen als C-bedrijf;  |
@@ -35,10 +35,10 @@ In deze verordening wordt verstaan onder:
 | --- | --- | --- | 1. door de Nederlandse Raad voor Accreditatie of een gelijkwaardige buitenlandse instantie is verklaard dat de keuringsinstantie voldoet aan de criteria van NEN-EN-ISO 17020, voor zover deze verklaring betrekking heeft op het opstellen van de in artikel 2, aanhef , artikel 4, onderdeel b , of artikel 19, tweede lid , genoemde rapporten, dan wel;  |
 | --- | --- | --- | 2. door de Nederlandse Raad voor Accreditatie of een gelijkwaardige buitenlandse instantie is verklaard dat de keuringsinstantie voldoet aan de criteria van NEN-EN-ISO 17020, voor zover deze verklaring betrekking heeft op verrichtingen in de veehouderij, en de keuringsinstantie aan de Nederlandse Raad voor Accreditatie of een gelijkwaardige buitenlandse instantie heeft verzocht te verklaren dat de keuringsinstantie aan genoemde criteria voldoet met betrekking tot de in artikel 2, aanhef , artikel 4, onderdeel b , of artikel 19, tweede lid , genoemde rapporten en dit verzoek niet is afgewezen;  |
 | p.  | meldingsbureau  | :  | een door het bestuur bij besluit aangewezen organisatie die namens het productschap alle meldingen met betrekking tot transport van varkens inventariseert en daarvan een bevestiging verstrekt;  |
-| q.  | onderzoeksinstituut  | :  | instituut waaraan een vergunning als bedoeld in [artikel 8 van de Wet op de dierproeven](../../../../../../wet/wet/op/de/dierproeven/BWBR0003081/README.md) is verleend, niet zijnde een A-bedrijf, B-bedrijf, C-bedrijf, D-bedrijf, E-bedrijf of een F-bedrijf;  |
+| q.  | onderzoeksinstituut  | :  | instituut waaraan een vergunning als bedoeld in artikel 8 van de Wet op de dierproeven is verleend, niet zijnde een A-bedrijf, B-bedrijf, C-bedrijf, D-bedrijf, E-bedrijf of een F-bedrijf;  |
 | r.  | verzamelcentrum  | :  | verzamelcentrum voor varkens dat is erkend krachtens artikel 11 van richtlijn nr. 64/432/EEG van de Raad van de Europese Gemeenschappen van 26 juni 1964 inzake veterinairrechtelijke vraagstukken op het gebied van het intracommunautaire handelsverkeer in runderen en varkens (PbEG L 121);  |
 | s.  | cluster  | :  | combinatie van ten hoogste drie C-bedrijven die van één A-bedrijf varkens ontvangen, overeenkomstig de opgave van artikel 14, vierde lid ;  |
-| t.  | transportdocument  | :  | door het meldingsbureau afgegeven ontvangstbevestiging van een overeenkomstig artikel 19, eerste lid , ingediende melding van een voorgenomen levering van varkens. De ontvangstbevestiging wordt overeenkomstig de vereisten opgenomen in [artikel 30, tweede en derde lid, van de Regeling identificatie en registratie van dieren](../../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md) opgemaakt;  |
+| t.  | transportdocument  | :  | door het meldingsbureau afgegeven ontvangstbevestiging van een overeenkomstig artikel 19, eerste lid , ingediende melding van een voorgenomen levering van varkens. De ontvangstbevestiging wordt overeenkomstig de vereisten opgenomen in artikel 30, tweede en derde lid, van de Regeling identificatie en registratie van dieren opgemaakt;  |
 | u.  | varken  | :  | dier behorende tot de familie der Suidae Gray 1821;  |
 | v.  | speenbig  | :  | gespeend varken, met een leeftijd van tenminste drie weken en ten hoogste twaalf weken;  |
 | w.  | big  | :  | varken vanaf zijn geboorte tot aan het spenen;  |
@@ -67,13 +67,13 @@ d. Op het varkenshouderijbedrijf is een voorziening voor reiniging en ontsmettin
 
 e. De ondernemer van het varkenshouderijbedrijf verleent alle medewerking aan de reiniging en ontsmetting van het vervoermiddel waarmee de varkens zijn vervoerd;  
 
-f. De ondernemer voldoet aan alle, de herkomst van de op het varkenshouderijbedrijf aanwezige varkens betreffende, krachtens [artikel 96 van de wet](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) gestelde regels;  
+f. De ondernemer voldoet aan alle, de herkomst van de op het varkenshouderijbedrijf aanwezige varkens betreffende, krachtens artikel 96 van de wet gestelde regels;  
 
 g. Op het varkenshouderijbedrijf is een douche aanwezig, die is gelegen in de onmiddellijke nabijheid van de ingang van het varkenshouderijbedrijf, waarvan bezoekers van het varkenshouderijbedrijf voorafgaand aan het betreden van de stallen gebruik maken;  
 
 h. Het varkenshouderijbedrijf is voorzien van een erfafscheiding waardoor het betreden van het varkenshouderijbedrijf zonder de medewerking van de ondernemer niet mogelijk is;  
 
-i. De ondernemer legt de gegevens met betrekking tot groepsmedicatie in het logboek, bedoeld in [artikel 40, tweede lid, van de Diergeneesmiddelenwet](../../../../../../wet/diergeneesmiddelenwet/BWBR0003818/README.md) vast.     
+i. De ondernemer legt de gegevens met betrekking tot groepsmedicatie in het logboek, bedoeld in artikel 40, tweede lid, van de Diergeneesmiddelenwet vast.     
 2.  De ondernemer laat één maal per jaar een bedrijfsrapport conform bijlage III opmaken door een geaccrediteerde keuringsinstantie, en overlegt deze ter verificatie van de aanwijzing, jaarlijks voor 1 juni, aan de voorzitter.   
 3.  De ondernemer overlegt eenmaal per maand een verklaring van een dierenarts waarin deze verklaart dat het in bijlage II bepaalde aantal op het varkenshouderijbedrijf aanwezige varkens serologisch is onderzocht en dat geen varkens zijn aangetroffen waarvan het bloed antilichamen tegen klassieke varkenspest of gE-antilichamen tegen de Ziekte van Aujeszky bevat, dan wel, in geval van leegstand, een verklaring van een geaccrediteerde keuringsinstantie dat de stallen van het varkenshouderijbedrijf ten tijde van de aanvraag leegstaan.  
 
@@ -141,7 +141,7 @@ Het is de ondernemer verboden een of meer varkens te vervoeren van of naar, af t
 
 Het verbod, bedoeld in artikel 9, is niet van toepassing op het vervoeren, afvoeren of doen afvoeren van: 
 
-a. een of meer varkens van een varkenshouderijbedrijf naar een slachthuis, hetzij rechtstreeks, hetzij via een verzamelcentrum, mits de varkens zijn gemerkt als slachtvarkens en uit het vervoersdocument, bedoeld in [artikel 30, eerste lid, van de Regeling identificatie en registratie van dieren](../../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md) blijkt dat sprake is van vervoer van slachtdieren;  
+a. een of meer varkens van een varkenshouderijbedrijf naar een slachthuis, hetzij rechtstreeks, hetzij via een verzamelcentrum, mits de varkens zijn gemerkt als slachtvarkens en uit het vervoersdocument, bedoeld in artikel 30, eerste lid, van de Regeling identificatie en registratie van dieren blijkt dat sprake is van vervoer van slachtdieren;  
 
 b. een of meer mannelijke varkens van een varkenshouderijbedrijf naar een quarantaineruimte;  
 
@@ -153,7 +153,7 @@ e. een of meer varkens van een varkenshouderijbedrijf naar een varkenshouderijbe
 
 ### Artikel  11  
 
-Indien na aanvang van het transport van varkens naar een lidstaat of een derde land, ingevolge [artikel 59, tweede lid, onderdeel e., van de wet](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) in samenhang met [artikel 5, eerste lid van de Regeling dierenvervoer 2007](../../../../../../ministeriele-regeling/regeling/dierenvervoer/2007/BWBR0020684/README.md) geen certificaat wordt afgegeven, is het de ondernemer in afwijking van artikel 9 toegestaan, deze varkens op de dag dat dit certificaat geweigerd wordt weer op zijn bedrijf te ontvangen of aan te voeren en, na gedeeltelijke lossing, de niet geloste varkens vervolgens wederom van zijn bedrijf te vervoeren, af te voeren of te doen afvoeren. 
+Indien na aanvang van het transport van varkens naar een lidstaat of een derde land, ingevolge artikel 59, tweede lid, onderdeel e., van de wet in samenhang met artikel 5, eerste lid van de Regeling dierenvervoer 2007 geen certificaat wordt afgegeven, is het de ondernemer in afwijking van artikel 9 toegestaan, deze varkens op de dag dat dit certificaat geweigerd wordt weer op zijn bedrijf te ontvangen of aan te voeren en, na gedeeltelijke lossing, de niet geloste varkens vervolgens wederom van zijn bedrijf te vervoeren, af te voeren of te doen afvoeren. 
 
 ### Artikel  12  
 
@@ -275,7 +275,7 @@ d. de ondernemer van het varkenshouderijbedrijf medewerking verleent aan bestemm
 ### Artikel  20  
 
 1.  De ondernemer weigert de ontvangst van varkens indien bij de aanvoer een transportdocument met betrekking tot deze aanvoer ontbreekt.   
-2.  De exploitant van een verzamelcentrum weigert de ontvangst van varkens indien een transportdocument met betrekking tot deze aanvoer ontbreekt, tenzij de varkens zijn gemerkt als slachtvarkens en uit het vervoersdocument, bedoeld in [artikel 30, eerste lid, van de Regeling identificatie en registratie dieren](../../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md) blijkt dat sprake is van vervoer van slachtvarkens.  
+2.  De exploitant van een verzamelcentrum weigert de ontvangst van varkens indien een transportdocument met betrekking tot deze aanvoer ontbreekt, tenzij de varkens zijn gemerkt als slachtvarkens en uit het vervoersdocument, bedoeld in artikel 30, eerste lid, van de Regeling identificatie en registratie dieren blijkt dat sprake is van vervoer van slachtvarkens.  
 3. Het is verboden om voor de afvoer van varkens met bestemming slacht een vervoermiddel op het erf van het varkenshouderijbedrijf toe te laten, waarop varkens aanwezig zijn, afkomstig van meer dan één varkenshouderijbedrijf. 
 4. Het is verboden om voor de afvoer van zeugen met bestemming slacht een vervoermiddel op het erf van het varkenshouderijbedrijf toe te laten, waarop zeugen aanwezig zijn, afkomstig van meer dan twee varkenshouderijbedrijven. 
 5. De be- of verwerker of het verzamelcentrum weigert de ontvangst van varkens, indien op een vervoerseenheid van het vervoermiddel varkens aanwezig zijn van meer dan twee varkenshouderijbedrijven. 
@@ -303,7 +303,7 @@ c. te gedogen dat controleurs van de door het bestuur aangewezen dienst en de do
 
 ### Artikel  22  
 
-Op overtreding van het bepaalde bij of krachtens deze verordening worden tuchtrechtelijke maatregelen gesteld zoals voorzien in de [Wet tuchtrechtspraak bedrijfsorganisatie 2004](../../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md). 
+Op overtreding van het bepaalde bij of krachtens deze verordening worden tuchtrechtelijke maatregelen gesteld zoals voorzien in de Wet tuchtrechtspraak bedrijfsorganisatie 2004. 
 
 ### 7  
 
@@ -332,7 +332,7 @@ Leveringen van varkens door of aan een varkenshouderijbedrijf of aan een verzame
 1.  De door het productschap uit hoofde van deze verordening verkregen gegevens omtrent ondernemingen worden in handen gesteld van de voorzitter; zij worden, behoudens aan personeelsleden van het secretariaat van het productschap, het meldingsbureau, de diensten en personen als bedoeld in artikel 21, eerste lid, alsmede ten behoeve van de handhaving van het bepaalde in deze verordening en de Dienst Regelingen, van het Ministerie van Landbouw, Natuur en Voedselkwaliteit voor zover ten behoeve van het I&R-systeem, niet verder bekend gemaakt.   
 2.  De in het eerste lid bedoelde diensten en personen zijn gehouden de op voet van het eerste lid verkregen gegevens vertrouwelijk te behandelen.   
 3.  De voorzitter kan, in afwijking van het bepaalde in het eerste lid, besluiten tot bekendmaking van getotaliseerde gegevens omtrent groepen van ondernemingen, doch nimmer op zodanige wijze dat daaruit gegevens omtrent een bepaalde onderneming kunnen worden afgeleid.   
-4.  Uit hoofde van deze verordening verkregen gegevens omtrent ondernemingen worden aan anderen dan de in het eerste lid genoemde personen en instanties slechts verstrekt voor zover zulks in overeenstemming is met de [artikelen 8](../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) en [9 van de Wet bescherming persoonsgegevens](../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).  
+4.  Uit hoofde van deze verordening verkregen gegevens omtrent ondernemingen worden aan anderen dan de in het eerste lid genoemde personen en instanties slechts verstrekt voor zover zulks in overeenstemming is met de artikelen 8 en 9 van de Wet bescherming persoonsgegevens.  
 
 ### 9  
 
@@ -340,8 +340,8 @@ Leveringen van varkens door of aan een varkenshouderijbedrijf of aan een verzame
 
 ### Artikel  26  
 
-1.  De [Verordening varkensleveringen (PVV) 2006](../../../../../../pbo/verordening/varkensleveringen/(pvv)/2006/BWBR0020967/README.md) wordt ingetrokken.   
-2.  Verwijzingen naar de [Verordening varkensleveringen (PVV) 2006](../../../../../../pbo/verordening/varkensleveringen/(pvv)/2006/BWBR0020967/README.md) dienen gelezen te worden als verwijzingen naar deze verordening.  
+1.  De Verordening varkensleveringen (PVV) 2006 wordt ingetrokken.   
+2.  Verwijzingen naar de Verordening varkensleveringen (PVV) 2006 dienen gelezen te worden als verwijzingen naar deze verordening.  
 
 ### Artikel  27  
 
@@ -439,17 +439,17 @@ Als verplicht onderdeel van dit rapport is bij de eerste controle een plattegron
 | --- | --- | --- | --- | --- |
 | 4.  | Worden op het bedrijf vrouwelijke varkens gehouden voor het bedrijfsmatig produceren van biggen?  | Ja  | Nee  | N.v.t.  |
 | --- | --- | --- | --- | --- |
-| 5.  | Zijn alle varkens op het bedrijf die langer dan één week zijn gespeend gemerkt overeenkomstig de [Regeling identificatie en registratie van dieren 2003](../../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md)?  | Ja  | Nee  | N.v.t.  |
+| 5.  | Zijn alle varkens op het bedrijf die langer dan één week zijn gespeend gemerkt overeenkomstig de Regeling identificatie en registratie van dieren 2003?  | Ja  | Nee  | N.v.t.  |
 | --- | --- | --- | --- | --- |
-| 6.  | Is er een wasplaats voor transportmiddelen aanwezig op het bedrijf, die voldoet aan [artikel 58](../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md) en [59 van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s](../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md) (zie vraag 36 e.v.)?  | Ja  | Nee  | N.v.t.  |
+| 6.  | Is er een wasplaats voor transportmiddelen aanwezig op het bedrijf, die voldoet aan artikel 58 en 59 van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s (zie vraag 36 e.v.)?  | Ja  | Nee  | N.v.t.  |
 | --- | --- | --- | --- | --- |
 | 7.  | Worden vervoermiddelen waarmee varkens op het bedrijf worden gelost, ter plekke gereinigd en ontsmet?  | Ja  | Nee  | N.v.t.  |
 | --- | --- | --- | --- | --- |
-| 8.  | Wordt op het bedrijf [artikel 79 van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s](../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md) nageleefd (zie vraag 26 e.v.)?  | Ja  | Nee  | N.v.t.  |
+| 8.  | Wordt op het bedrijf artikel 79 van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s nageleefd (zie vraag 26 e.v.)?  | Ja  | Nee  | N.v.t.  |
 | --- | --- | --- | --- | --- |
 | 9.  | Voldoet de administratie aan de voorwaarden gesteld in de Verordening varkensleveringen (PVV) 2007?  | Ja  | Nee  | N.v.t.  |
 | --- | --- | --- | --- | --- |
-| 10.  | Is er een logboek als bedoeld in [artikel 40, tweede lid, van de Diergeneesmiddelenwet](../../../../../../wet/diergeneesmiddelenwet/BWBR0003818/README.md) aanwezig en wordt beroepsmedicatie hierin geregistreerd?  | Ja  | Nee  | N.v.t.  |
+| 10.  | Is er een logboek als bedoeld in artikel 40, tweede lid, van de Diergeneesmiddelenwet aanwezig en wordt beroepsmedicatie hierin geregistreerd?  | Ja  | Nee  | N.v.t.  |
 | --- | --- | --- | --- | --- |
 |  *Betreffende de toevoegstal (van A-bedrijf), vragen 11 t/m 25:*   |
 | 11.  | Ligt de toevoegstal aan de rand van het bedrijf?  | Ja  | Nee  | N.v.t.  |

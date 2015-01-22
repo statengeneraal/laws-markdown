@@ -1113,13 +1113,7 @@ a. voor blijvend onderscheidenlijk voor tijdelijk gebruik bestemde voorzieningen
 
 3°. medegebruik van een ruimte die geschikt is voor het onderwijs;    
 
-b. voorzieningen, bestaande uit: 
-
-1°. aanpassingen met uitzondering van het aanbrengen van een invalidentoilet en het toegankelijk maken van het gebouw voor gehandicapten, en  
-
-2°. vervanging binnenkozijnen en binnendeuren inclusief hang- en sluitwerk, algehele vervanging onderdelen van een klimaatbeheersingssysteem, alsmede onderhoud aan de buitenzijde van het gebouw met uitzondering van het buitenschilderwerk;    
-
-c. herstel van constructiefouten aan het gebouw, alsmede herstel en vervanging in verband met schade aan gebouw, onderwijsleerpakketten en meubilair in geval van bijzondere omstandigheden.     
+b. herstel van constructiefouten aan het gebouw, alsmede herstel en vervanging in verband met schade aan gebouw, onderwijsleerpakketten en meubilair in geval van bijzondere omstandigheden.     
 2.  De kosten van bouwvoorbereiding kunnen tot de kosten van huisvesting worden gerekend.  
 
 ### Artikel  80  
@@ -1293,7 +1287,7 @@ Het bevoegd gezag van een niet door het desbetreffende openbaar lichaam in stand
 
 1.  De bekostiging voor de materiële instandhouding van de scholen heeft betrekking op de volgende componenten: 
 
-a. onderhoud,  
+a. onderhoud van en aanpassingen aan het gebouw en het terrein,  
 
 b. energie- en waterverbruik,  
 

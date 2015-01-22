@@ -3,12 +3,12 @@
 ##Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 20 november 2012, CZ-3137686, houdende aanwijzing van Veiligheidsregio Zuid-Holland Zuid voor de regio Zuid-Holland Zuid als de Regionale Ambulancevoorziening, bedoeld in artikel 4 van de Tijdelijke wet ambulancezorg
 
 De Minister van Volksgezondheid, Welzijn en Sport,  
-Gelet op [artikel 6, eerste lid, van de Tijdelijke wet ambulancezorg](../../../../../../../../../../wet/tijdelijke/wet/ambulancezorg/BWBR0031557/README.md),
+Gelet op artikel 6, eerste lid, van de Tijdelijke wet ambulancezorg,
 Besluit:    
 
 ### Artikel  1  
 
-Veiligheidsregio Zuid-Holland Zuid is voor regio Zuid-Holland Zuid de Regionale Ambulancevoorziening, bedoeld in [artikel 4 van de Tijdelijke wet ambulancezorg](../../../../../../../../../../wet/tijdelijke/wet/ambulancezorg/BWBR0031557/README.md). 
+Dienst Gezondheid & Jeugd Zuid-Holland Zuid is voor regio Zuid-Holland Zuid de Regionale Ambulancevoorziening, bedoeld in artikel 4 van de Tijdelijke wet ambulancezorg. 
 
 ### Artikel  2  
 

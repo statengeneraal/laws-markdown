@@ -5,7 +5,7 @@
 Het bestuur van het Productschap Tuinbouw;  
 op voorstel van de Sectorcommissie Groenten en Fruit;
 
-gelet op de [artikelen 100](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op de artikelen 14, 15 en 19 van de Instellingsverordening Productschap Tuinbouw 1998;
+gelet op de artikelen 100 en 126 van de Wet op de bedrijfsorganisatie en op de artikelen 14, 15 en 19 van de Instellingsverordening Productschap Tuinbouw 1998;
 Besluit:     
 ### §  1  
 
@@ -107,7 +107,7 @@ c. zodra de ondernemer zich metterwoon in het buitenland heeft gevestigd of van 
 
 ### Artikel  10  
 
-Aan de heffingplichtige, die niet of niet geheel binnen de in artikel 9 bedoelde termijn heeft betaald, kunnen de daaruit voortvloeiende extra kosten van maximaal fl. 50,– (22,50 euro) in rekening worden gebracht, alsmede de wettelijke interest over het niet betaalde bedrag, te berekenen vanaf de dag waarop de betaling diende te zijn verricht ingevolge de aanmaning, bedoeld in [artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md). 
+Aan de heffingplichtige, die niet of niet geheel binnen de in artikel 9 bedoelde termijn heeft betaald, kunnen de daaruit voortvloeiende extra kosten van maximaal fl. 50,– (22,50 euro) in rekening worden gebracht, alsmede de wettelijke interest over het niet betaalde bedrag, te berekenen vanaf de dag waarop de betaling diende te zijn verricht ingevolge de aanmaning, bedoeld in artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie. 
 
 ### Artikel  11  
 

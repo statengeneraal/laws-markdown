@@ -3,7 +3,7 @@
 ##Verordening van het Hoofdproductschap Akkerbouw van 8 november 2007 houdende vaststelling bestemmingsheffing ten behoeve van het Fonds aardappelverwerking voor het jaar 2008 (Heffingsverordening HPA fonds aardappelverwerking jaar 2008)
 
 Het bestuur van het Hoofdproductschap Akkerbouw;  
-Gelet op de [artikelen 95](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126, eerste, vierde en zesde lid van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op de [artikelen 3](../../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md) en [19 van het Instellingsbesluit akkerbouwproductschappen](../../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md);
+Gelet op de artikelen 95 en 126, eerste, vierde en zesde lid van de Wet op de bedrijfsorganisatie en op de artikelen 3 en 19 van het Instellingsbesluit akkerbouwproductschappen;
 
 Gehoord de Commissie Teeltaangelegenheden;
 Besluit:     
@@ -58,7 +58,7 @@ Materieel uitgewerkt per 31-08-2008
 
 a. krachtens haar statutaire doelstelling haar werkzaamheid kan uitstrekken tot ten minste een belangrijk gedeelte van het terrein waarop het hoofdproductschap een taak heeft te vervullen;  
 
-b. voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de [artikelen 3 tot en met 7 van de Verordening representativiteit organisaties](../../../../../../../../pbo/verordening/representativiteit/organisaties/BWBR0011641/README.md) van de Sociaal Economische Raad;  
+b. voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de artikelen 3 tot en met 7 van de Verordening representativiteit organisaties van de Sociaal Economische Raad;  
 
 c. tot de werkingssfeer van het hoofdproductschap behorende leden heeft, waarvan het gewogen aantal niet onbetekenend is;  
 
@@ -126,7 +126,7 @@ De secretaris kan, namens het bestuur, besluiten nota’s met een bedrag minder 
 ### Artikel  9  
 Materieel uitgewerkt per 31-08-2008 
 
-Aan de ondernemer die niet of niet geheel binnen de in artikel 6 gestelde termijn heeft betaald, kan door de secretaris, namens het bestuur, de wettelijke interest over het niet-betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md). 
+Aan de ondernemer die niet of niet geheel binnen de in artikel 6 gestelde termijn heeft betaald, kan door de secretaris, namens het bestuur, de wettelijke interest over het niet-betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie. 
 
 ### §  5  
 

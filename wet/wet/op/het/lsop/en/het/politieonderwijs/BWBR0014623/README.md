@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is een Wet op het LSOP en het politieonderwijs vast te stellen ter vervanging van de [LSOP-wet](../../../../../../../../../wet/lsop-wet/BWBR0006942/README.md) in verband met de evaluatie van de [LSOP-wet](../../../../../../../../../wet/lsop-wet/BWBR0006942/README.md), de aanpassing aan de Aanwijzingen voor de regelgeving inzake de zelfstandige bestuursorganen, de concentratie van beheersbevoegdheden op rijksniveau met betrekking tot de regionale politiekorpsen bij Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, de wijziging van de bestuursstructuur en het financieringsstelsel van het LSOP, alsmede de vernieuwing van het politieonderwijs;
+Alzo Wij in overweging genomen hebben, dat het wenselijk is een Wet op het LSOP en het politieonderwijs vast te stellen ter vervanging van de LSOP-wet in verband met de evaluatie van de LSOP-wet, de aanpassing aan de Aanwijzingen voor de regelgeving inzake de zelfstandige bestuursorganen, de concentratie van beheersbevoegdheden op rijksniveau met betrekking tot de regionale politiekorpsen bij Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, de wijziging van de bestuursstructuur en het financieringsstelsel van het LSOP, alsmede de vernieuwing van het politieonderwijs;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:     
 ### Hoofdstuk  I  
 
@@ -98,7 +98,7 @@ d. de wijze waarop de leden van het college van bestuur en van de raad van toezi
 
 1.  Het college van bestuur bestaat uit drie leden, onder wie de voorzitter.   
 2.  De leden worden benoemd, herbenoemd, geschorst en ontslagen bij koninklijk besluit. Een voordracht wordt niet gedaan dan nadat de raad van toezicht in de gelegenheid is gesteld zijn zienswijze hierover kenbaar te maken.   
-3.  Bij de samenstelling van het college van bestuur wordt ervoor zorg gedragen dat ten minste één lid ambtenaar is als bedoeld in [artikel 2, onderdeel a, van de Politiewet 2012](../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md), en dat onderwijskundige expertise wordt gewaarborgd.   
+3.  Bij de samenstelling van het college van bestuur wordt ervoor zorg gedragen dat ten minste één lid ambtenaar is als bedoeld in artikel 2, onderdeel a, van de Politiewet 2012, en dat onderwijskundige expertise wordt gewaarborgd.   
 4.  De leden worden benoemd voor een periode van zes jaar. Zij kunnen eenmaal worden herbenoemd.   
 5.  Zolang in een vacature van het college van bestuur niet is voorzien, vormen de overblijvende leden het college, met de bevoegdheid van het voltallige college, met dien verstande dat rechtsgeldige besluiten slechts kunnen worden genomen door ten minste twee leden.  
 
@@ -147,9 +147,9 @@ c. de bij het LSOP anders dan met het oog op het ontvangen van onderwijs gedetac
 2.  Het personeel van het LSOP, bedoeld in het eerste lid, onderdeel b, wordt benoemd, geschorst en ontslagen door het college van bestuur, voor zover bij of krachtens deze wet niet anders is bepaald.   
 3.  Bij algemene maatregel van bestuur kunnen ambtenaren, bedoeld in het eerste lid, onderdeel b, worden aangewezen, die worden benoemd, geschorst en ontslagen bij koninklijk besluit.   
 4.  Ambtenaren van politie, bedoeld in het eerste lid, onderdeel c, worden door de korpschef op verzoek van het college van bestuur bij het LSOP gedetacheerd.   
-5.  Voor zover bij of krachtens deze wet niet anders is bepaald, zijn de bij of krachtens [artikel 47, eerste lid, van de Politiewet 2012](../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md) gestelde regels van overeenkomstige toepassing op het personeel van het LSOP. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gegeven, indien dit in verband met enige andere bepaling uit deze wet is vereist. De Wet veiligheidsonderzoeken is van overeenkomstige toepassing op het personeel van het LSOP.   
-6. [Artikel 47, derde lid, van de Politiewet 2012](../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md) is van overeenkomstige toepassing op het personeel van het LSOP. 
-7. [Artikel 47, vierde lid, van de Politiewet 2012](../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md) is van overeenkomstige toepassing op het LSOP.
+5.  Voor zover bij of krachtens deze wet niet anders is bepaald, zijn de bij of krachtens artikel 47, eerste lid, van de Politiewet 2012 gestelde regels van overeenkomstige toepassing op het personeel van het LSOP. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gegeven, indien dit in verband met enige andere bepaling uit deze wet is vereist. De Wet veiligheidsonderzoeken is van overeenkomstige toepassing op het personeel van het LSOP.   
+6. Artikel 47, derde lid, van de Politiewet 2012 is van overeenkomstige toepassing op het personeel van het LSOP. 
+7. Artikel 47, vierde lid, van de Politiewet 2012 is van overeenkomstige toepassing op het LSOP.
 
 ### Hoofdstuk  V  
 
@@ -165,8 +165,8 @@ Het politieonderwijs draagt bij aan de ontwikkeling van de studenten met aandach
 
 ### Artikel  13  
 
-1.  Het LSOP biedt in samenwerking met de politie, met de regionale opleidingencentra, bedoeld in [artikel 1.3.1 van de Wet educatie en beroepsonderwijs](../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), en met de instellingen voor hoger onderwijs, bedoeld in [artikel 1.1 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), het onderwijs aan in de vorm van initiële en postinitiële opleidingen.   
-2.  De niveaus waarop de initiële opleidingen, genoemd in de onderdelen a tot en met c van het derde lid, zich richten, komen overeen met de opeenvolgende niveaus van beroepsuitoefening, als bedoeld in [artikel 7.2.2. van de Wet educatie en beroepsonderwijs](../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md). De niveaus waarop de initiële opleidingen, genoemd in de onderdelen d en e van het derde lid, zich richten, komen overeen met de niveaus van de opleidingen die op grond van [artikel 7:21 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) recht geven op het voeren van de titels bachelor respectievelijk master.   
+1.  Het LSOP biedt in samenwerking met de politie, met de regionale opleidingencentra, bedoeld in artikel 1.3.1 van de Wet educatie en beroepsonderwijs, en met de instellingen voor hoger onderwijs, bedoeld in artikel 1.1 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek, het onderwijs aan in de vorm van initiële en postinitiële opleidingen.   
+2.  De niveaus waarop de initiële opleidingen, genoemd in de onderdelen a tot en met c van het derde lid, zich richten, komen overeen met de opeenvolgende niveaus van beroepsuitoefening, als bedoeld in artikel 7.2.2. van de Wet educatie en beroepsonderwijs. De niveaus waarop de initiële opleidingen, genoemd in de onderdelen d en e van het derde lid, zich richten, komen overeen met de niveaus van de opleidingen die op grond van artikel 7:21 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek recht geven op het voeren van de titels bachelor respectievelijk master.   
 3.  De initiële opleidingen richten zich op de volgende niveaus waarop de politietaak kan worden uitgeoefend: 
 
 a. assistent politiemedewerker (niveau 2),  
@@ -240,9 +240,9 @@ Elke opleiding wordt afgesloten met een examen dat door het LSOP wordt afgenomen
 1.  Het college van bestuur stelt ten minste een commissie van beroep voor de examens in.   
 2.  Beslissingen van het college van bestuur ter uitvoering van de artikelen 13, zevende lid juncto negende lid, of 17, of beslissingen van de degenen die het examenonderdeel of het examen hebben samengesteld of afgenomen, kunnen worden onderworpen aan het oordeel van de commissie.   
 3.  De commissie bestaat uit een oneven aantal leden, onder wie de voorzitter. De leden worden benoemd, herbenoemd, geschorst en ontslagen door het college van bestuur. De leden maken geen deel uit van het college van bestuur, en hebben niet het examenonderdeel of het examen samengesteld of afgenomen dat aan het oordeel van de commissie is onderworpen.   
-4.  In afwijking van [artikel 6:7 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bedraagt de termijn voor het indienen van het beroepschrift zes dagen. In afwijking van [artikel 7:24, tweede lid, van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) beslist de commissie binnen vier weken gerekend vanaf de dag na die waarop de termijn voor het indienen van het beroepschrift is verstreken tenzij zij deze termijn heeft verlengd met ten hoogste twee weken.   
+4.  In afwijking van artikel 6:7 van de Algemene wet bestuursrecht bedraagt de termijn voor het indienen van het beroepschrift zes dagen. In afwijking van artikel 7:24, tweede lid, van de Algemene wet bestuursrecht beslist de commissie binnen vier weken gerekend vanaf de dag na die waarop de termijn voor het indienen van het beroepschrift is verstreken tenzij zij deze termijn heeft verlengd met ten hoogste twee weken.   
 5.  De commissie stelt een onderzoek in alvorens te beslissen. Zij stelt bij haar beslissing zo nodig vast op welke wijze de student in de gelegenheid zal worden gesteld het examen of het examenonderdeel alsnog of opnieuw af te leggen. De beslissing van de commissie wordt bekendgemaakt aan de student, de leiding van de desbetreffende instelling van het LSOP alsmede aan de korpschef.   
-6.  Indien de commissie het beroep gegrond acht, vernietigt zij de beslissing geheel of gedeeltelijk. In afwijking van [artikel 7:25 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), is de commissie niet bevoegd in de plaats van het geheel of gedeeltelijk vernietigde besluit een nieuw besluit te nemen. Zij kan bepalen dat opnieuw of, indien de beslissing is geweigerd, alsnog in de zaak wordt beslist, dan wel dat het examenonderdeel of het examen opnieuw wordt afgenomen onder door de commissie te stellen voorwaarden. Het college van bestuur of degene die het examenonderdeel of het examen heeft samengesteld of afgenomen, van wie de beslissing is vernietigd, voorziet voor zover nodig opnieuw in de zaak met inachtneming van de uitspraak van de commissie. De commissie kan daarvoor in haar uitspraak een termijn stellen.   
+6.  Indien de commissie het beroep gegrond acht, vernietigt zij de beslissing geheel of gedeeltelijk. In afwijking van artikel 7:25 van de Algemene wet bestuursrecht, is de commissie niet bevoegd in de plaats van het geheel of gedeeltelijk vernietigde besluit een nieuw besluit te nemen. Zij kan bepalen dat opnieuw of, indien de beslissing is geweigerd, alsnog in de zaak wordt beslist, dan wel dat het examenonderdeel of het examen opnieuw wordt afgenomen onder door de commissie te stellen voorwaarden. Het college van bestuur of degene die het examenonderdeel of het examen heeft samengesteld of afgenomen, van wie de beslissing is vernietigd, voorziet voor zover nodig opnieuw in de zaak met inachtneming van de uitspraak van de commissie. De commissie kan daarvoor in haar uitspraak een termijn stellen.   
 7.  In zaken waarin het belang van de appellant een onverwijlde voorziening bij voorraad vordert, kan deze bij met redenen omkleed verzoekschrift, in afwachting van de uitspraak in de hoofdzaak, aan de voorzitter van de commissie van beroep voor de examens een voorlopige voorziening vragen. De voorzitter beslist op dat verzoek na de desbetreffende examinator te hebben gehoord, althans te hebben opgeroepen.   
 8.  Herziening van een uitspraak van de commissie kan op verzoek van elk van beide partijen plaatsvinden op grond van nader gebleken feiten of omstandigheden die indien deze eerder bekend waren geweest tot een andere uitspraak zouden hebben kunnen leiden.  
 
@@ -277,7 +277,7 @@ h. een onafhankelijk lid dat deskundig is op het terrein van het beroepsonderwij
 1.  De politieonderwijsraad draagt bij aan het ontwikkelen en onderhouden van een landelijke kwalificatiestructuur, gericht op de aansluiting en afstemming tussen het aanbod van politieonderwijs en de behoefte daaraan, mede in het licht van de arbeidsmarktperspectieven voor afgestudeerden, en mede gelet op van belang zijnde ontwikkelingen in internationaal verband.   
 2.  De politieonderwijsraad draagt zorg voor het ontwikkelen van voorstellen welke opleidingen voor bekostiging door het Ministerie van Veiligheid en Justitie in aanmerking komen mede in het licht van een doelmatige en doelgerichte inzet van overheidsmiddelen.   
 3.  De politieonderwijsraad adviseert Onze Minister omtrent de eisen die moeten worden gesteld aan de plaatsen waar het praktische opleidingsdeel wordt uitgevoerd, en omtrent het aantal plaatsen in de regionale en landelijke eenheden van de politie waar het praktische opleidingsdeel wordt uitgevoerd.   
-4.  De politieonderwijsraad heeft tot taak toe te zien op de aansluiting van het politieonderwijs op de kwalificatiestructuur van het beroepsonderwijs zoals neergelegd in de [Wet educatie en beroepsonderwijs](../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).   
+4.  De politieonderwijsraad heeft tot taak toe te zien op de aansluiting van het politieonderwijs op de kwalificatiestructuur van het beroepsonderwijs zoals neergelegd in de Wet educatie en beroepsonderwijs en de Wet op het hoger onderwijs en wetenschappelijk onderzoek.   
 5.  De politieonderwijsraad geeft Onze Minister desgevraagd of uit eigen beweging zijn zienswijze.   
 
 ### Artikel  21  
@@ -291,7 +291,7 @@ Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omt
 ### Artikel  22  
 
 1.  Bij of krachtens algemene maatregel van bestuur worden regels gegeven over het beheer van het LSOP.   
-2.  Onze Minister houdt toezicht op het financiële beheer van het LSOP. De [artikelen 203](../../../../../../../../../wet/gemeentewet/BWBR0005416/README.md), [205 tot en met 211 van de Gemeentewet](../../../../../../../../../wet/gemeentewet/BWBR0005416/README.md) zijn daarbij van overeenkomstige toepassing. Bij de algemene maatregel van bestuur, bedoeld in het eerste lid, worden over deze toepassing nadere regels gegeven.   
+2.  Onze Minister houdt toezicht op het financiële beheer van het LSOP. De artikelen 203, 205 tot en met 211 van de Gemeentewet zijn daarbij van overeenkomstige toepassing. Bij de algemene maatregel van bestuur, bedoeld in het eerste lid, worden over deze toepassing nadere regels gegeven.   
 3.  Het college van bestuur draagt zorg voor de archiefbescheiden van het LSOP, voor zover deze niet zijn overgebracht naar het Algemeen Rijksarchief. Onze Minister kan bij de algemene maatregel van bestuur, bedoeld in het eerste lid, regels geven over de zorg voor en de bewaring van de archiefbescheiden van het LSOP.   
 4.  Het oprichten of mede-oprichten van privaatrechtelijke rechtspersonen door het LSOP is slechts toegestaan met instemming van Onze Minister.  
 
@@ -301,7 +301,7 @@ Bij ministeriële regeling worden criteria vastgesteld aan de hand waarvan het c
 
 ### Artikel  24  
 
-In het beleidsplan, bedoeld in [artikel 18, eerste lid, van de Politiewet 2012](../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md), worden door Onze Minister tevens de hoofdzaken van het beleid op rijksniveau met betrekking tot de werving, selectie en opleiding van ambtenaren van politie en van andere door Onze Minister aan te wijzen categorieën van personen aangegeven. 
+In het beleidsplan, bedoeld in artikel 18, eerste lid, van de Politiewet 2012, worden door Onze Minister tevens de hoofdzaken van het beleid op rijksniveau met betrekking tot de werving, selectie en opleiding van ambtenaren van politie en van andere door Onze Minister aan te wijzen categorieën van personen aangegeven. 
 
 ### Artikel  25  
 
@@ -325,7 +325,7 @@ Onze Minister voert jaarlijks overleg met het college van bestuur over de taken,
 7.  Bij of krachtens algemene maatregel van bestuur op voordracht van Onze Minister in overeenstemming met Onze Minister van Financiën kunnen regels worden gegeven over de wijze waarop dit artikel wordt uitgevoerd.   
 8.  Het sluiten van geldleningen, bedoeld in het tweede lid, kan onder voorwaarden geschieden bij Onze Minister van Financiën ten laste van de begroting van Nationale Schuld.   
 9.  Het LSOP houdt zijn liquide middelen rentedragend aan in 's Rijks schatkist.   
-10.  Het sluiten van huur-, verkoop- en lease-overeenkomsten door het LSOP met een waarde gelijk aan of meer dan het bedrag zoals vastgesteld in de nadere voorschriften gesteld krachtens [artikel 34 van de Comptabiliteitswet](../../../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md), dan wel voor een periode langer dan tien jaar, geschiedt na verkregen instemming van Onze Minister in overeenstemming met Onze Minister van Financiën.  
+10.  Het sluiten van huur-, verkoop- en lease-overeenkomsten door het LSOP met een waarde gelijk aan of meer dan het bedrag zoals vastgesteld in de nadere voorschriften gesteld krachtens artikel 34 van de Comptabiliteitswet, dan wel voor een periode langer dan tien jaar, geschiedt na verkregen instemming van Onze Minister in overeenstemming met Onze Minister van Financiën.  
 
 ### Artikel  28  
 
@@ -336,14 +336,14 @@ Onze Minister stelt jaarlijks, nadat de regioburgemeesters, de korpschef en de h
 1.  Het college van bestuur stelt jaarlijks een jaarverslag vast van de werkzaamheden van het LSOP, het gevoerde beleid in het algemeen en de doelmatigheid en doeltreffendheid van zijn werkwijze in het bijzonder in het afgelopen kalenderjaar, alsmede een jaarrekening. Het college van bestuur stelt de raad van toezicht in de gelegenheid zijn zienswijze over het jaarverslag en de jaarrekening kenbaar te maken.   
 2.  De jaarrekening behoeft de instemming van Onze Minister.   
 3.  De stukken, bedoeld in het eerste lid, worden, vergezeld van een document waaruit de zienswijze van de raad van toezicht over de stukken blijkt, na de vaststelling ervan door het college van bestuur vóór 1 april aan Onze Minister gezonden. De stukken worden algemeen verkrijgbaar gesteld.   
-4.  Onverminderd het eerste lid, zijn de [artikelen 361 tot en met 391](../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en [405 tot en met 414 van Boek 2 van het Burgerlijk Wetboek](../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) van overeenkomstige toepassing, met uitzondering van de bepalingen die betrekking hebben op het in aandelen verdeeld zijn van het kapitaal van een vennootschap.   
+4.  Onverminderd het eerste lid, zijn de artikelen 361 tot en met 391 en 405 tot en met 414 van Boek 2 van het Burgerlijk Wetboek van overeenkomstige toepassing, met uitzondering van de bepalingen die betrekking hebben op het in aandelen verdeeld zijn van het kapitaal van een vennootschap.   
 5.  Bij of krachtens de algemene maatregel van bestuur, bedoeld in artikel 27, zevende lid, kunnen regels worden gegeven over het te voeren financieel beheer en de verantwoording daarover.  
 
 ### Artikel  30  
 
-1.  De jaarrekening gaat vergezeld van een verklaring omtrent de getrouwheid en een beoordeling van de rechtmatigheid, afgegeven door een door de raad van toezicht aangewezen accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).   
+1.  De jaarrekening gaat vergezeld van een verklaring omtrent de getrouwheid en een beoordeling van de rechtmatigheid, afgegeven door een door de raad van toezicht aangewezen accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek.   
 2.  De verklaring, bedoeld in het eerste lid, heeft mede betrekking op de rechtmatige besteding van de middelen van het LSOP. De accountant voegt bij de verklaring tevens een verslag van zijn bevindingen of het beheer en de organisatie van het LSOP voldoen aan eisen van doelmatigheid.   
-3.   [Artikel 393, derde tot en met zevende lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) is op het in te stellen onderzoek van overeenkomstige toepassing.   
+3.   Artikel 393, derde tot en met zevende lid, van Boek 2 van het Burgerlijk Wetboek is op het in te stellen onderzoek van overeenkomstige toepassing.   
 4.  Onze Minister kan de accountantsdienst van zijn ministerie belasten met een onderzoek naar controlewerkzaamheden van de accountant, bedoeld in het eerste lid. Onze Minister kan de departementale accountantsdienst tevens belasten met een onderzoek naar de doelmatigheid van het beheer, de organisatie en het beleid van het LSOP. Aan de departementale accountantsdienst wordt desgevraagd inzage gegeven in de boeken en bescheiden en worden alle inlichtingen verstrekt die hij voor de uitvoering van zijn taak nodig oordeelt.  
 
 ### Hoofdstuk  VII  
@@ -357,11 +357,11 @@ Onze Minister heeft de bevoegdheid tot het toetsen van de wijze waarop het colle
 ### Artikel  32  
 
 1.  Het toezicht op de kwaliteit van de opleidingen en de examinering is opgedragen aan Onze Minister.   
-2.  De Inspectie Openbare Orde en Veiligheid, bedoeld in [artikel 57 van de Wet veiligheidsregio’s](../../../../../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md), is belast met de werkzaamheden die in het kader van het eerste lid worden uitgevoerd. 
+2.  De Inspectie Openbare Orde en Veiligheid, bedoeld in artikel 57 van de Wet veiligheidsregio’s, is belast met de werkzaamheden die in het kader van het eerste lid worden uitgevoerd. 
 
 ### Artikel  33  
 
-1.  De [artikelen 65](../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md), [66](../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md) en [67 van de Politiewet 2012](../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md) zijn van overeenkomstige toepassing.   
+1.  De artikelen 65, 66 en 67 van de Politiewet 2012 zijn van overeenkomstige toepassing.   
 2.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de wijze waarop het college van bestuur zorg draagt voor de kwaliteit van de taakuitvoering, de resultaten en het beheer van het LSOP, alsmede over verstrekking van informatie hierover aan Onze Minister.  
 
 ### Artikel  34  
@@ -382,11 +382,11 @@ Wijzigt de Politiewet 1993.
 
 ### Artikel  37  
 
-Degenen die op het tijdstip voorafgaand aan de inwerkingtreding van deze wet de leden zijn van de bestuursraad en de directie van het LSOP, bedoeld in de [artikelen 5, tweede lid](../../../../../../../../../wet/lsop-wet/BWBR0006942/README.md), en [6, tweede lid, van de LSOP-wet](../../../../../../../../../wet/lsop-wet/BWBR0006942/README.md), zijn voor de resterende duur van hun benoeming als zodanig met ingang van het tijdstip van inwerkingtreding van deze wet de leden van de raad van toezicht onderscheidenlijk het college van bestuur. 
+Degenen die op het tijdstip voorafgaand aan de inwerkingtreding van deze wet de leden zijn van de bestuursraad en de directie van het LSOP, bedoeld in de artikelen 5, tweede lid, en 6, tweede lid, van de LSOP-wet, zijn voor de resterende duur van hun benoeming als zodanig met ingang van het tijdstip van inwerkingtreding van deze wet de leden van de raad van toezicht onderscheidenlijk het college van bestuur. 
 
 ### Artikel  38  
 
-De [LSOP-wet](../../../../../../../../../wet/lsop-wet/BWBR0006942/README.md) wordt ingetrokken. 
+De LSOP-wet wordt ingetrokken. 
 
 ### Artikel  39  
 
