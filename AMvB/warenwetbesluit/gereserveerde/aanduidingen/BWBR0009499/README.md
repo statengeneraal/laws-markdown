@@ -15,7 +15,37 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-1.  In dit besluit wordt verstaan onder *druiven:* vruchten van Vitis Vinifera L.    
+1.  In dit besluit wordt verstaan onder:
+
+a.  *druiven:* vruchten van Vitis Vinifera L;  
+
+b.  *verordening (EG) 110/2008:* verordening (EG) nr. 110/2008 van het Europees Parlement en de Raad van 15 januari 2008 betreffende de definitie, de aanduiding, de presentatie, de etikettering en de bescherming van geografische aanduidingen van gedistilleerde dranken en tot intrekking van verordening (EG) nr. 1576/89 van de Raad (PbEU 2008, L 39);  
+
+c.  *ethylalcohol uit landbouwproducten:* ethylalcohol met de in bijlage I, onder 1, van verordening (EG) 110/2008 genoemde eigenschappen;  
+
+d.  *verordening (EEG) 2658/87:* verordening (EEG) nr. 2658/87 van de Raad van 23 juli 1987 met betrekking tot de tarief- en statistieknomenclatuur en het gemeenschappelijk douanetarief (PbEG 1987, L 256);  
+
+e.  *gedistilleerde drank:* een alcoholhoudende drank: 
+
+1° bestemd voor menselijke consumptie;  
+
+2° met bijzondere organoleptische kenmerken en, uitgezonderd de producten eierlikeur en advocaat, zoals vermeld in categorie 41 van Bijlage II van verordening (EG) 110/2008 met een minimum-alcoholgehalte van 14 procent vol, een minimum-alcoholgehalte van 15 procent vol bevattend;  
+
+3° is geproduceerd: 
+
+– hetzij rechtstreeks conform artikel 2, eerste lid, onderdeel d, onder i van verordening (EG) 110/2008;  
+
+– hetzij door vermenging van een gedistilleerde drank conform artikel 2, eerste lid, onderdeel d, onder ii van verordening (EG) 110/2008;  
+
+– hetzij door vermenging van ethylalcohol uit landbouwproducten met water; en    
+
+4° waarvoor in geval van gebruik of verbruik hier te lande alcoholaccijns verschuldigd is;   met dien verstande dat dranken die vallen onder de GN-codes 2203, 2204, 2205, 2206 en 2207 van verordening (EEG) 2658/87 niet als gedistilleerde dranken worden beschouwd.  
+
+f.  *moutwijn:* granen eau-de-vie of granendistillaat zoals omschreven in verordening (EG) 110/2008, bereid door distillatie met een alcoholpercentage van ten minste 46% vol en ten hoogste 48% vol;  
+
+g.  *verordening (EG) 1334/2008:* verordening (EG) nr. 1334/2008 van het Europees Parlement en de Raad van 16 december 2008 *inzake aroma’s en bepaalde voedselingrediënten met aromatiserende eigenschappen voor gebruik in levensmiddelen en tot wijziging van Verordening (EEG) nr. 1601/91 van de Raad, Verordening (EG) nr. 2232/96, Verordening (EG) nr. 110/2008 en Richtlijn 2000/13/EG (PbEU 2008, L 354);*   
+
+h.  *zwak gedistilleerde drank:* alcoholhoudend product met minder dan 15% vol, met uitzondering van eierlikeur en advocaat, behorend tot GN-code 2208 van verordening (EEG) 2658/87, waarvoor in geval van gebruik of verbruik hier te lande alcoholaccijns verschuldigd is.     
 2.  Dit besluit is niet van toepassing op een eet- of drinkwaar die rechtmatig is vervaardigd of in de handel is gebracht in een andere lidstaat van de Europese Unie of in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een tot een douane-unie strekkend Verdrag, dan wel rechtmatig is vervaardigd in een staat die partij is bij een tot een vrijhandelszone strekkend Verdrag dat Nederland bindt.  
 
 ### Artikel  2  
@@ -67,7 +97,6 @@ waaraan mogen zijn toegevoegd:
 – vruchten- of plantensappen.    
 
 ### Artikel  7b  
-Treedt in werking per 01-01-2015 
 
 De aanduiding *bier* mag uitsluitend worden gebezigd voor een drinkwaar verkregen na alcoholische gisting van wort, hoofdzakelijk bereid uit zetmeel- en suikerhoudende grondstoffen, hop en brouwwater, met dien verstande dat ten minste 60% van het extractgehalte van de wort, voor vergisting, afkomstig is van geste- of tarwemout, en die bestaat uit: 
 
@@ -88,32 +117,26 @@ De aanduiding *bier* mag uitsluitend worden gebezigd voor een drinkwaar verkrege
 – technologische hulpstoffen en additieven die voldoen aan de voorschriften gesteld bij of krachtens Verordening (EG) nr. 1333/2008 van het Europees Parlement en de Raad van 16 december 2008 inzake levensmiddelenadditieven (PbEU 2008, L 354).   
 
 ### Artikel  7c  
-Treedt in werking per 01-01-2015 
 
 De aanduiding *alcoholvrij bier* mag uitsluitend worden gebezigd voor bier dat ten hoogste 0,1 volumeprocent alcohol bevat en een extractgehalte van de stamwort heeft van ten minste 2,2%. 
 
 ### Artikel  7d  
-Treedt in werking per 01-01-2015 
 
 De aanduiding *alcoholarm bier* mag uitsluitend worden gebezigd voor bier dat meer dan 0,1 en ten hoogste 1,2 volumeprocent alcohol bevat en een extractgehalte van de stamwort heeft van ten minste 2,2%. 
 
 ### Artikel  7e  
-Treedt in werking per 01-01-2015 
 
 De aanduiding *oud bruin* of iedere aanduiding waarvan de woorden *oud bruin* een grondbestanddeel vormen, mag uitsluitend worden gebezigd voor gezoete donkergekleurde bieren met een extractgehalte van de stamwort van 7 tot 11%. 
 
 ### Artikel  7f  
-Treedt in werking per 01-01-2015 
 
 De aanduiding *pils* of iedere andere aanduiding waarvan het woord *pils* een grondbestanddeel vormt, mag uitsluitend worden gebezigd voor lichtgekleurde bieren met een extractgehalte van de stamwort van 11 tot 13,5%. 
 
 ### Artikel  7g  
-Treedt in werking per 01-01-2015 
 
 De aanduiding *bok*, *bock* of iedere andere aanduiding waarvan *bok* of *bock* een grondbestanddeel vormt, mag uitsluitend worden gebezigd voor bieren met een extractgehalte van de stamwort boven de 15,5%. 
 
 ### Artikel  7h  
-Treedt in werking per 01-01-2015 
 
 De aanduiding *korenwijn* mag uitsluitend worden gebezigd voor een gedistilleerde drank, die: 
 
@@ -130,7 +153,6 @@ e. kleurloos, lichtgeel of lichtbruin van kleur is;
 f. een alcoholgehalte heeft van ten minste 38% vol.   
 
 ### Artikel  7i  
-Treedt in werking per 01-01-2015 
 
 De aanduiding *advocaat* mag uitsluitend worden gebezigd voor een gedistilleerde drank die voldoet aan punt 41 van bijlage II van Verordening (EG) 110/2008 en die: 
 
@@ -143,7 +165,6 @@ c. uitsluitend is bereid met eigeel en eiwit afkomstig van kippeneieren welke on
 d. als kenmerkende bestanddelen ethylalcohol of brandewijn, en suiker bevat, en waaraan aroma's, kleurstoffen en verdikkingsmiddelen kunnen zijn toegevoegd.   
 
 ### Artikel  7j  
-Treedt in werking per 01-01-2015 
 
 De aanduiding *vieux* mag uitsluitend worden gebezigd voor een gedistilleerde drank, die: 
 
@@ -160,7 +181,6 @@ e. kleurstoffen mag bevatten;
 f. een alcoholgehalte heeft van ten minste 35% vol.   
 
 ### Artikel  7k  
-Treedt in werking per 01-01-2015 
 
 De aanduiding *brandewijn* mag uitsluitend worden gebezigd voor een gedistilleerde drank, die: 
 
@@ -175,7 +195,6 @@ d. een suikergehalte kan hebben van ten hoogste 20 gram per liter;
 e. een alcoholgehalte heeft van ten minste 35% vol.   
 
 ### Artikel  7l  
-Treedt in werking per 01-01-2015 
 
 De aanduiding *vruchtenbrandewijn* mag uitsluitend worden gebezigd voor een gedistilleerde drank, die: 
 
@@ -188,7 +207,6 @@ c. een suikergehalte heeft van ten minste 100 gram per liter;
 d. een alcoholgehalte heeft van ten minste 20% vol.   
 
 ### Artikel  7m  
-Treedt in werking per 01-01-2015 
 
 De aanduiding *likorette* mag uitsluitend worden gebezigd voor een zwak gedistilleerde drank, die: 
 

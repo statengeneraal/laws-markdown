@@ -10,62 +10,50 @@ Alzo Wij in overweging genomen hebben, dat het voor het jaar 2015 en volgende we
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet inkomstenbelasting 2001. 
 
 ### Artikel  II  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet inkomstenbelasting 2001. 
 
 ### Artikel  III  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet inkomstenbelasting 2001. 
 
 ### Artikel  IV  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet op de loonbelasting 1964. 
 
 ### Artikel  V  
-Treedt in werking per 01-01-2015 
 
 [*Vervallen*] 
 
 ### Artikel  VI  
-Treedt in werking per 01-01-2015 
 
 Onze Minister van Financiën zendt binnen vier jaar na de inwerkingtreding van artikel IV, onderdeel K, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten in de praktijk van artikel 31a, tweede lid, onderdeel g, zevende lid en achtste lid, van de Wet op de loonbelasting 1964. 
 
 ### Artikel  VII  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet op de loonbelasting 1964. 
 
 ### Artikel  VIII  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen. 
 
 ### Artikel  IX  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet op de vennootschapsbelasting 1969. 
 
 ### Artikel  IXa  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet op de kansspelbelasting. 
 
 ### Artikel  X  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Successiewet 1956. 
 
 ### Artikel  Xa  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet op belastingen van rechtsverkeer. 
 
@@ -75,147 +63,118 @@ Treedt in werking op een nader te bepalen tijdstip
 Wijzigt de Wet op de omzetbelasting 1968. 
 
 ### Artikel  XII  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992. 
 
 ### Artikel  XIII  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992. 
 
 ### Artikel  XIV  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet op de motorrijtuigenbelasting 1994. 
 
 ### Artikel  XV  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet belastingen op milieugrondslag. 
 
 ### Artikel  XVI  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet belastingen op milieugrondslag. 
 
 ### Artikel  XVII  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet belastingen op milieugrondslag. 
 
 ### Artikel  XVIII  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Algemene wet inzake rijksbelastingen. 
 
 ### Artikel  XIX  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Invorderingswet 1990. 
 
 ### Artikel  XX  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Algemene wet inkomensafhankelijke regelingen. 
 
 ### Artikel  XXI  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000. 
 
 ### Artikel  XXII  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Pensioenwet. 
 
 ### Artikel  XXIII  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet verplichte beroepspensioenregeling. 
 
 ### Artikel  XXIV  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Verzamelwet pensioenen 2014. 
 
 ### Artikel  XXIVa  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet beloningsbeleid financiële ondernemingen. 
 
 ### Artikel  XXIVb  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet beloningsbeleid financiële ondernemingen. 
 
 ### Artikel  XXV  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet op het kindgebonden budget. 
 
 ### Artikel  XXVI  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet op de rechtsbijstand. 
 
 ### Artikel  XXVII  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Mijnbouwwet. 
 
 ### Artikel  XXVIII  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Invoeringswet Wet inkomstenbelasting 2001. 
 
 ### Artikel  XXIX  
-Treedt in werking per 01-01-2015 
 
 Wijzigt het Belastingplan 2010. 
 
 ### Artikel  XXX  
-Treedt in werking per 01-01-2015 
 
 Wijzigt het Belastingplan 2011. 
 
 ### Artikel  XXXa  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet uitwerking autobrief. 
 
 ### Artikel  XXXI  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Fiscale verzamelwet 2013. 
 
 ### Artikel  XXXII  
-Treedt in werking per 01-01-2015 
 
 Wijzigt het Belastingplan 2014. 
 
 ### Artikel  XXXIII  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet maatregelen woningmarkt 2014 II. 
 
 ### Artikel  XXXIV  
-Treedt in werking per 01-01-2015 
 
 Artikel 90 van de Wet belastingen op milieugrondslag vindt bij het begin van het kalenderjaar 2015 geen toepassing op de bedragen, genoemd in de artikelen 18, 28, 59, eerste lid, onderdeel a, tweede en derde aandachtsstreepje, en onderdeel c, tweede en derde aandachtsstreepje, en artikel 60, eerste lid, derde aandachtsstreepje, van die wet. 
 
 ### Artikel  XXXV  
-Treedt in werking per 01-01-2015 
 
 Met betrekking tot beschikkingen als bedoeld in artikel 28c, eerste lid, van de Invorderingswet 1990 met een dagtekening vóór 1 januari 2015 eindigt de termijn, bedoeld in het derde lid van dat artikel, in afwijking van genoemd derde lid, zes weken na de datum van inwerkingtreding van deze wet. 
 
 ### Artikel  XXXVI  
-Treedt in werking per 01-01-2015 
 
 Ingeval de samenloop van wetten die in 2014 in het Staatsblad zijn of worden gepubliceerd en wijzigingen aanbrengen in een of meer belastingwetten, niet of niet juist is geregeld, of indien als gevolg van die samenloop onjuistheden ontstaan in de aanduiding van artikelen, artikelonderdelen, verwijzingen en dergelijke in de desbetreffende wetten, kunnen die wetten op dit punt bij ministeriële regeling worden gewijzigd. 
 
 ### Artikel  XXXVII  
-Treedt in werking per 01-01-2015 
 
 1.  Deze wet treedt in werking met ingang van 1 januari 2015, met dien verstande dat: 
 
@@ -253,7 +212,6 @@ b. artikel IV, onderdelen E en G, eerst toepassing vindt nadat de artikelen 20a,
 8.  In afwijking van het eerste lid treedt artikel XV, onderdeel F, onder 3, en onderdeel Ic, in werking op een bij koninklijk besluit vast te stellen tijdstip.  
 
 ### Artikel  XXXVIII  
-Treedt in werking per 01-01-2015 
 
 Deze wet wordt aangehaald als: Belastingplan 2015. 
 

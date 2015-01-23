@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 17 december 2011, nr. VO/BZO/321682, houdende regels voor de verstrekking van aanvullende bekostiging in verband met de actieplannen Beter Presteren en Leraar 2020 – een krachtig beroep! (Regeling Prestatiebox Voortgezet Onderwijs)
 
 De Minister van Onderwijs, Cultuur en Wetenschap, handelende in overeenstemming met de Minister van Economische Zaken, Landbouw en Innovatie;  
-Gelet op [artikel 85a, eerste lid, van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [artikel 2.2.3, tweede lid, van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);
+Gelet op artikel 85a, eerste lid, van de Wet op het voortgezet onderwijs en artikel 2.2.3, tweede lid, van de Wet educatie en beroepsonderwijs;
 Besluit:    
 
 ### Artikel  1  
@@ -14,13 +14,13 @@ In deze regeling wordt verstaan onder:
 
 a.  *minister:*  Minister van Onderwijs, Cultuur en Wetenschap, of, voor zover het betreft het landbouwonderwijs, de Minister van Economische Zaken, Landbouw en Innovatie;  
 
-b.  *bevoegd gezag:*  Bevoegd gezag van een school, als bedoeld in [artikel 1 van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+b.  *bevoegd gezag:*  Bevoegd gezag van een school, als bedoeld in artikel 1 van de Wet op het voortgezet onderwijs;  
 
-c.  *school:*  Uit ’s Rijks kas bekostigde school voor voortgezet onderwijs als bedoeld in [artikel 1 van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), of uit ’s Rijks kas bekostigd agrarisch opleidingscentrum als bedoeld in [artikel 1.3.3 van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), voor zover daaraan voorbereidend beroepsonderwijs verzorgd wordt;  
+c.  *school:*  Uit ’s Rijks kas bekostigde school voor voortgezet onderwijs als bedoeld in artikel 1 van de Wet op het voortgezet onderwijs, of uit ’s Rijks kas bekostigd agrarisch opleidingscentrum als bedoeld in artikel 1.3.3 van de Wet educatie en beroepsonderwijs, voor zover daaraan voorbereidend beroepsonderwijs verzorgd wordt;  
 
 d.  *Bestuursakkoord:*  Het op 14 december 2011 gesloten Bestuursakkoord VO-raad – OCW tussen de minister, de staatsecretaris en de VO-raad over de in de actieplannen Beter Presteren en Leraar 2020 – een krachtig beroep! geschetste beleidsambities;  
 
-e.  *leerling:*  Leerling als bedoeld in [artikel 7 van het Bekostigingsbesluit W.V.O.](../../../../../../AMvB/bekostigingsbesluit/wvo/BWBR0005672/README.md) of [artikel 2.1.2, onderdeel g, van het Uitvoeringsbesluit WEB ](../../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md)die op 1 oktober voorafgaand aan het kalenderjaar waarvoor de aanvullende bekostiging wordt verstrekt aan een school is ingeschreven.   
+e.  *leerling:*  Leerling als bedoeld in artikel 7 van het Bekostigingsbesluit W.V.O. of artikel 2.1.2, onderdeel g, van het Uitvoeringsbesluit WEB die op 1 oktober voorafgaand aan het kalenderjaar waarvoor de aanvullende bekostiging wordt verstrekt aan een school is ingeschreven.   
 
 ### Artikel  2  
 
@@ -60,7 +60,7 @@ b. het aantal aan die school ingeschreven vwo-leerlingen in het vierde, vijfde e
 
 ####Verantwoording aanvullende bekostiging
 
-De aanvullende bekostiging op grond van deze regeling wordt verantwoord in de jaarrekening en de jaarverslaglegging, zoals bedoeld in de [Regeling jaarverslaggeving onderwijs](../../../../../../ministeriele-regeling/regeling/jaarverslaggeving/onderwijs/BWBR0023132/README.md). De verklaring van de accountant bij de jaarrekening bevat tevens een oordeel over de rechtmatige besteding van de middelen. 
+De aanvullende bekostiging op grond van deze regeling wordt verantwoord in de jaarrekening en de jaarverslaglegging, zoals bedoeld in de Regeling jaarverslaggeving onderwijs. De verklaring van de accountant bij de jaarrekening bevat tevens een oordeel over de rechtmatige besteding van de middelen. 
 
 ### Artikel  7  
 
@@ -74,7 +74,7 @@ De aanvullende bekostiging op grond van deze regeling wordt verantwoord in de ja
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 januari 2016. 
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 januari 2016. Met ingang van 1 januari 2015 kunnen geen financiële aanspraken meer worden gemaakt op grond van deze regeling. 
 
 ### Artikel  9  
 

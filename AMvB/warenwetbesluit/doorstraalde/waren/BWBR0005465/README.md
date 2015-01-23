@@ -180,13 +180,11 @@ b. bij iedere zending moeten de gegevens, bedoeld in artikel 4, eerste lid, zijn
 ### Artikel  10  
 
 1.  Bij de verhandeling van doorstraalde eet- en drinkwaren en grondstoffen die niet zijn bestemd voor de eindverbruiker of een instelling, moet worden gebezigd de vermelding van de naam en het adres van de installatie waar de behandeling met ioniserende stralen is uitgevoerd.   
-2.   De volgende onderdelen van het Warenwetbesluit Etikettering van levensmiddelen zijn van overeenkomstige toepassing op de in het eerste lid bedoelde verhandeling:  
+2.  De volgende onderdelen van het Warenwetbesluit informatie levensmiddelen zijn van overeenkomstige toepassing op de in het eerste lid bedoelde verhandeling: 
 
-a.  artikel 5, eerste lid, onder i, betreffende de aanduiding van de produktiepartij;  
+a. artikel 4, eerste lid, inzake het vermelden van de partij waartoe een levensmiddel behoort; en  
 
-b.  artikel 4, vijfde en zesde lid, betreffende de aanduiding van de behandeling van de waar, indien zij met ioniserende stralen is behandeld; en  
-
-c.  artikel 7, zesde lid, betreffende de aanduiding van bij de bereiding van de waar gebruikte, met ioniserende stralen behandelde ingrediënten.    
+b. artikel 6 inzake het vermelden van de behandeling van een levensmiddel of ingrediënt van een levensmiddel, indien dat levensmiddel onderscheidenlijk ingrediënt met ioniserende stralen is behandeld.   
 
 ### §  7  
 

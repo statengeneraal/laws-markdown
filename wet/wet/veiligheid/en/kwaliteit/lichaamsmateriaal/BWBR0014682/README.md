@@ -163,6 +163,12 @@ Een erkenning kan worden ingetrokken indien niet meer wordt voldaan aan het bepa
 2. Onze Minister verleent slechts een vergunning aan een laboratorium dat aannemelijk heeft gemaakt dat het kan voldoen aan de op grond van de EU-richtlijn weefsels en cellen vastgestelde voorschriften inzake voor donoren vereiste laboratoriumtesten. 
 3. De artikelen 10 en 11 zijn van overeenkomstige toepassing. 
 
+### Artikel  13  
+
+1.  De kosten die samenhangen met de verlening van de erkenning, bedoeld in artikel 9, kunnen ten laste worden gebracht van de aanvrager van het document.   
+2.  Bij de houder van de erkenning, bedoeld in het eerste lid, kan jaarlijks een vergoeding in rekening worden gebracht.   
+3.  De bedragen ter vergoeding van de kosten en de hoogte van de jaarlijkse vergoeding worden bij ministeriële regeling vastgesteld.  
+
 ### Hoofdstuk  IV  
 
 ####Handhaving

@@ -390,7 +390,8 @@ c. Halt-bureau: een bureau dat in elk geval voorziet in de coördinatie en uitvo
 3.  Afdeling 4.2.8. van de Algemene wet bestuursrecht is van toepassing.   
 4.  De artikelen 13 en 15 zijn van overeenkomstige toepassing.   
 5.  Het Halt-bureau dient binnen dertien weken na afloop van het boekjaar een aanvraag tot vaststelling van de subsidie in.   
-6.  Op een Halt-bureau is het bepaalde bij en krachtens de artikelen 25, eerste en tweede lid, en 28, eerste lid, van de Wet op de jeugdzorg voor wat betreft de verantwoordelijkheidstoedeling van overeenkomstige toepassing, met dien verstande dat voor «de zorgaanbieder» wordt gelezen: het Halt-bureau. 
+6.  Op een Halt-bureau is het bepaalde bij en krachtens de artikelen 25, eerste en tweede lid, en 28, eerste lid, van de Wet op de jeugdzorg voor wat betreft de verantwoordelijkheidstoedeling van overeenkomstige toepassing, met dien verstande dat voor «de zorgaanbieder» wordt gelezen: het Halt-bureau.  
+6.  Hetgeen bij en krachtens de artikelen 4.1.1, tweede lid, eerste volzin, juncto 4.1.5, eerste lid, van de Jeugdwet is bepaald ten aanzien van jeugdhulpaanbieders, is voor wat betreft de verantwoordelijkheidstoedeling van overeenkomstige toepassing op Halt-bureaus. 
 
 ### Artikel  48h  
 
@@ -504,10 +505,7 @@ b. overige activiteiten op het gebied van parentale internationale kinderontvoer
 
 ####Ondertoezichtstelling en (voorlopige) voogdij minderjarige vreemdelingen
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  48v  
-Treedt in werking per 01-01-2015 
 
 1.  Onze Minister kan aan een rechtspersoon als bedoeld in artikel 256, en aan een rechtspersoon als bedoeld in artikel 302, tweede lid, van Boek 1 van het Burgerlijk Wetboek, subsidie verstrekken ten behoeve van de kosten van de uitoefening van de in die bepalingen en in artikel 241, zevende lid, van Boek 1 van het Burgerlijk Wetboek bedoelde taken, bijzondere door Onze Minister aan te geven kosten daaronder begrepen.   
 2.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent het *verlenen van deze subsidie.*   

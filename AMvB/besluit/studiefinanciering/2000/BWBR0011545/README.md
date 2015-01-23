@@ -121,7 +121,7 @@ f.Opleiding Restauratoren, onderdeel van het Instituut Collectie Nederland te Am
 
 a. sprake is van een ernstig en structureel conflict tussen ouder en studerende,  
 
-b. de ouder uit het ouderlijk gezag is ontzet of ontheven,  
+b. het gezag van de ouder is beëindigd,  
 
 c. de studerende geen contact met de ouder heeft,  
 
@@ -144,9 +144,9 @@ b.een periode waarover geen aanvullende beurs is aangevraagd.
 
 ### Artikel  8  
 
-####Uit ouderlijk gezag ontzet of ontheven
+####Het gezag van de ouder beëindigd
 
-Als bewijs dat de ouder uit het ouderlijk gezag is ontzet of ontheven, bedoeld in artikel 6, eerste lid, onderdeel b, dient een afschrift van de beschikking van de rechtbank. 
+Als bewijs dat het gezag van de ouder is beëindigd, bedoeld in artikel 6, eerste lid, onderdeel b, dient een afschrift van de beschikking van de rechtbank. 
 
 ### Artikel  9  
 

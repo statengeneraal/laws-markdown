@@ -3,14 +3,14 @@
 ## Besluit aanwijzing ondernemersorganisatie vleesindustrie 2003
 
 Het Bestuur van het Productschap Vee en Vlees heeft,
-gelet op [artikel 126 van de Wet op de Bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md),
+gelet op artikel 126 van de Wet op de Bedrijfsorganisatie,
 
-gelet op [artikel 3, lid 2, van de "Verordening heffingen vleesindustrie (PVV) 2003"](../../../../../../../pbo/verordening/heffingen/vleesindustrie/(pvv)/2003/BWBR0014699/README.md), 
+gelet op artikel 3, lid 2, van de "Verordening heffingen vleesindustrie (PVV) 2003", 
 op 12 februari 2003 vastgesteld het navolgendeBESLUIT
 
 ###Artikel 1 
 
-De in [artikel 3, lid 2, van de "Verordening heffingen vleesindustrie (PVV) 2003"](../../../../../../../pbo/verordening/heffingen/vleesindustrie/(pvv)/2003/BWBR0014699/README.md) bedoelde ondernemersorganisatie is:de Centrale Organisatie voor de Vleessector.
+De in artikel 3, lid 2, van de "Verordening heffingen vleesindustrie (PVV) 2003" bedoelde ondernemersorganisatie is:de Centrale Organisatie voor de Vleessector.
 
 ###Artikel 2 
 

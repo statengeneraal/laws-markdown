@@ -86,8 +86,6 @@ Op verzoek van een werkgever wordt door een bedrijfstakpensioenfonds voor alle w
 
 ####Vrijstelling in geval van nettopensioen
 
-Treedt in werking per 01-01-2015 
-
 Op verzoek van een werkgever wordt door een bedrijfstakpensioenfonds voor alle werknemers of een deel van de werknemers van die werkgever vrijstelling verleend voor zover het nettopensioen betreft. 
 
 ### Artikel  5  
@@ -145,7 +143,7 @@ Voor de performancetoets, bedoeld in artikel 5, eerste lid, onderdeel a, van een
 
 ####Vrijstelling om andere redenen
 
-Op verzoek van een werkgever kan door het bedrijfstakpensioenfonds voor alle werknemers of een deel van de werknemers van die werkgever ook om andere redenen dan genoemd in de artikelen 2, 3, eerste lid, 4 en 5, eerste lid, vrijstelling worden verleend. 
+Op verzoek van een werkgever kan door het bedrijfstakpensioenfonds voor alle werknemers of een deel van de werknemers van die werkgever ook om andere redenen dan genoemd in de artikelen 2, 3, eerste lid, 4, 4a en 5, eerste lid, vrijstelling worden verleend. 
 
 ### Artikel  7  
 
@@ -157,7 +155,14 @@ Op verzoek van een werkgever kan door het bedrijfstakpensioenfonds voor alle wer
 4.  Aan de vrijstelling, bedoeld in de artikelen 3, eerste lid, 4, 5, eerste lid, en 6 kan het bedrijfstakpensioenfonds het voorschrift verbinden dat de werkgever een financiële bijdrage betaalt ter vergoeding van het verzekeringstechnisch nadeel dat het fonds bij de vrijstelling lijdt. De hoogte van deze bijdrage wordt berekend volgens bijlage 2 bij dit besluit, tenzij partijen anders overeenkomen.   
 5.  Aan de vrijstelling, bedoeld in de artikelen 2 en 6 wordt door het bedrijfstakpensioenfonds het voorschrift verbonden dat de pensioenregeling van de werkgever volgens de berekening aan de hand van bijlage 3 bij dit besluit te allen tijde ten minste actuarieel en financieel gelijkwaardig is aan die van het bedrijfstakpensioenfonds. Indien het bedrijfstakpensioenfonds en de werkgever daarmee instemmen kan worden afgezien van de berekening, bedoeld in de vorige zin, en kan in plaats daarvan de gelijkwaardigheid worden aangetoond door middel van een kwalitatieve toets. Ten behoeve van de toets op gelijkwaardigheid verstrekt het bedrijfstakpensioenfonds de werkgever informatie over de pensioenregeling van het bedrijfstakpensioenfonds.   
 6.  Aan de vrijstelling, bedoeld in artikel 5, eerste lid, wordt het voorschrift verbonden dat aan de pensioenregeling van de werkgever ten minste dezelfde aanspraken worden ontleend als aan de pensioenregeling van het bedrijfstakpensioenfonds.  
-7. De vrijstelling, bedoeld in het vierde, vijfde en zesde lid, wordt verleend nadat de werkgever een financiële bijdrage als bedoeld in het vierde lid heeft betaald, dan wel nadat de werkgever heeft aangetoond aan de voorschriften, bedoeld in het vijfde en zesde lid, te voldoen.
+7. De vrijstelling, bedoeld in het vierde, vijfde en zesde lid, wordt verleend nadat de werkgever een financiële bijdrage als bedoeld in het vierde lid heeft betaald, dan wel nadat de werkgever heeft aangetoond aan de voorschriften, bedoeld in het vijfde en zesde lid, te voldoen. 
+8.  Aan de vrijstelling voor het nettopensioen, bedoeld in artikel 4a, wordt door het bedrijfstakpensioenfonds het voorschrift verbonden dat de pensioenregeling van de werkgever te allen tijde ten minste: 
+
+a. een even hoog maximaal in te leggen premie bevat als de maximaal in te leggen premie in de pensioenregeling van het bedrijfstakpensioenfonds;  
+
+b. een even hoge bijdrage van de werkgever in de premie bevat als de bijdrage van de werkgever in de premie in de pensioenregeling van het bedrijfstakpensioenfonds; en  
+
+c. dezelfde vormen van nettopensioen inhoudt als de pensioenregeling van het bedrijfstakpensioenfonds.   
 
 ###Artikel 7a 
 

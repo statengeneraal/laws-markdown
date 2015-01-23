@@ -623,10 +623,10 @@ c.afschriften, uittreksels en grossen uit aan de rechtverkrijgenden onder algeme
 
 De erflater kan bij uiterste wilsbeschikking bepalen dat de in artikel 49, eerste lid, bedoelde afschriften, uittreksels en grossen van zijn uiterste wil niet mogen worden uitgegeven noch inzage in zijn uiterste wil mag worden verleend, voor zijn lijk is begraven of verbrand, met dien verstande dat zodanig uitstel niet meer mag bedragen dan vijf dagen na het overlijden van de erflater. 
 
-###Artikel 49b 
+### Artikel  49b  
 
-1. De notaris geeft van tot zijn protocol behorende verklaringen van erfrecht desverlangd afschriften uit aan degenen die daarbij belang hebben in verband met een rechtsverhouding waarin zij tot de erflater stonden. Eveneens geeft de notaris van tot zijn protocol behorende notariële akten, houdende uiterste wilsbeschikkingen, desverlangd uittreksels uit aan personen als bedoeld in de eerste zin, doch alleen voor wat betreft dat gedeelte van de akte dat betrekking heeft op feiten als bedoeld in artikel 188 van Boek 4 van het Burgerlijk Wetboek.
-2. Artikel 49a is van overeenkomstige toepassing.
+1.  De notaris geeft van tot zijn protocol behorende verklaringen van erfrecht desverlangd afschriften uit aan degenen die daarbij belang hebben in verband met een rechtsverhouding waarin zij tot de erflater stonden. Eveneens geeft de notaris van tot zijn protocol behorende notariële akten, houdende uiterste wilsbeschikkingen, desverlangd uittreksels uit aan personen als bedoeld in de eerste zin, doch alleen voor wat betreft dat gedeelte van de akte dat betrekking heeft op feiten als bedoeld in artikel 188 van Boek 4 van het Burgerlijk Wetboek.   
+2.   Artikel 49a is van overeenkomstige toepassing.  
 
 ### Artikel  49c  
 Treedt in werking per 17-08-2015 

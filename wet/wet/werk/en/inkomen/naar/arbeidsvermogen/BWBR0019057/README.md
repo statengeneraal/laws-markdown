@@ -613,7 +613,7 @@ c.een naar algemeen medische maatstaven adequate behandeling te ondergaan voor z
 
 a. zich geneeskundig te laten behandelen of aanwijzingen van een arts op te volgen indien het UWV of de eigenrisicodrager of het reïntegratiebedrijf in opdracht van het UWV of de eigenrisicodrager, daartoe opdracht geeft en zijn genezing niet te belemmeren;  
 
-b. mee te werken aan activiteiten of werkzaamheden, gericht op zijn inschakeling in de arbeid, die het UWV of de eigenrisicodrager wenselijk acht voor verkrijging van mogelijkheden tot verrichten van passende arbeid ;  
+b. mee te werken aan activiteiten of werkzaamheden, gericht op zijn inschakeling in de arbeid, die het UWV of de eigenrisicodrager wenselijk acht voor verkrijging van mogelijkheden tot verrichten van passende arbeid;  
 
 c. mee te werken aan aanpassing van de arbeidsplaats en aan persoonsgebonden voorzieningen die het UWV of de eigenrisicodrager verstrekt voor verkrijging van mogelijkheden tot verrichten van passende arbeid en zo nodig trachten die aanpassing en die voorzieningen te verkrijgen;  
 

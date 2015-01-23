@@ -181,15 +181,8 @@ Onverminderd de artikelen 1.8 tot en met 1.14 kan een religieuze of levensbescho
 ### Artikel  1.16  
 
 1.  De referent van een vreemdeling die in Nederland verblijft in het kader van uitwisseling, draagt zorg voor de juiste uitvoering van het uitwisselingsprogramma, bedoeld in artikel 3.43, eerste lid, onder a.   
-2.  De referent van een vreemdeling die in Nederland verblijft voor het verrichten van arbeid als geestelijk bedienaar in de zin van artikel 1, eerste lid, onderdeel g, van de Wet inburgering en de daarop berustende bepalingen, bevordert dat die vreemdeling: 
-
-a. zich meldt voor de inburgeringsplicht ten behoeve van de oproep, bedoeld in artikel 5.1, eerste lid, onder b, van het Besluit inburgering;  
-
-b. aan de oproep gehoor geeft en medewerking verleent aan het onderzoek, bedoeld in artikel 25, vierde lid, van de Wet inburgering, en  
-
-c. de aangeboden inburgeringsvoorziening aanvaardt, de inburgeringsvoorziening volgt overeenkomstig artikel 23, eerste lid, van de Wet inburgering, en het inburgeringsexamen, bedoeld in artikel 13, eerste lid, van die wet, aflegt.    
-3.  De referent van een vreemdeling die in Nederland verblijft of wil verblijven in het kader van uitwisseling, voor arbeid als kennismigrant of voor studie, draagt zorg voor een zorgvuldige selectie en werving van de vreemdeling.   
-4.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld over de voorgaande leden.  
+2.  De referent van een vreemdeling die in Nederland verblijft of wil verblijven in het kader van uitwisseling, voor arbeid als kennismigrant of voor studie, draagt zorg voor een zorgvuldige selectie en werving van de vreemdeling.   
+3.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld over de voorgaande leden.  
 
 ### Artikel  1.17  
 
@@ -1022,7 +1015,8 @@ c. in de internationale binnenscheepvaart aan boord van Nederlandse schepen of d
 d. in het internationale wegtransport in dienst van een Nederlandse werkgever, voorzover dat transport vanuit of naar Nederland plaatsvindt.      
 4.  Voor de toepassing van het derde lid worden niet als onderbrekingen aangemerkt tussentijdse perioden van onvrijwillige werkloosheid, voorzover die in Nederland zijn doorgebracht en elk zes maanden of korter duurden, en die perioden in totaal niet langer dan twaalf maanden bedragen.   
 5. De verblijfsvergunning kan aan een langdurig ingezetene worden verleend in afwijking van het eerste lid, onder a. 
-6.  De aanvraag wordt niet afgewezen op grond van artikel 16, eerste lid, onder k, van de Wet. 
+6.  In afwijking van het eerste en tweede lid kan de verblijfsvergunning worden verleend aan de vreemdeling die een innovatieve onderneming opricht waarmee hij arbeid als zelfstandige verricht of gaat verrichten, die duurzaam beschikt over voldoende middelen van bestaan en die aannemelijk maakt dat hij binnen één jaar na verlening van de vergunning zal voldoen aan de voorwaarden, bedoeld in het eerste en tweede lid. Bij regeling van Onze Minister worden nadere voorwaarden gesteld aan de toepassing van de eerste volzin.  
+7.  De aanvraag wordt niet afgewezen op grond van artikel 16, eerste lid, onder k, van de Wet. 
 
 ### Artikel  3.30a  
 
@@ -1335,7 +1329,7 @@ b.  hij drie jaar in Nederland verblijft als houder van een verblijfsvergunning 
 2.  De Europese blauwe kaart wordt verleend met een geldigheidsduur tot drie maanden na afloop van de arbeidsovereenkomst, bedoeld in artikel 3.30b, eerste lid, onder a, maar niet langer dan vier jaar.   
 3.  De verblijfsvergunning onder een beperking verband houdend met arbeid als kennismigrant, arbeid als niet-geprivilegieerd militair of niet-geprivilegieerd burgerpersoneel, dan wel wetenschappelijk onderzoek in de zin van richtlijn 2005/71/EG kan worden verleend voor de duur van de arbeidsovereenkomst, aanstelling, gastovereenkomst of werkzaamheden.   
 4.  De verblijfsvergunning onder een beperking verband houdend met grensoverschrijdende dienstverlening kan worden verleend voor de duur van de werkzaamheden als vermeld in de krachtens artikel 1e, tweede lid, van het Besluit uitvoering Wet arbeid vreemdelingen door de dienstverrichter verstrekte verklaring, met een maximum van twee jaar.   
-5.  De verblijfsvergunning onder een beperking verband houdend met het verrichten van arbeid als zelfstandige kan worden verleend voor ten hoogste twee jaar.   
+5.  De verblijfsvergunning onder een beperking verband houdend met het verrichten van arbeid als zelfstandige kan worden verleend voor ten hoogste twee jaar of voor ten hoogste één jaar indien de verblijfsvergunning is verleend op grond van artikel 3.30, zesde lid.   
 6.  De verblijfsvergunning onder een beperking verband houdend met uitwisseling, al dan niet in het kader van een verdrag, lerend werken, het zoeken en verrichten van arbeid al dan niet in loondienst, het doorbrengen van verlof in Nederland, medische behandeling, het afwachten van een verzoek op grond van artikel 17 van de Rijkswet op het Nederlanderschap, dan wel tijdelijk verblijf op humanitaire gronden, kan worden verleend voor ten hoogste één jaar.   
 7.  De verblijfsvergunning onder een beperking verband houdend met studie kan worden verleend voor de duur van de studie met inbegrip van de voorbereiding daarop en de afronding daarvan.   
 8.  De verblijfsvergunning onder een beperking verband houdend met verblijf als economisch niet-actieve langdurig ingezetene of vermogende vreemdeling of met niet-tijdelijke humanitaire gronden kan worden verleend voor ten hoogste vijf jaar.   
@@ -1356,7 +1350,7 @@ b. voor wie naar het oordeel van Onze Minister, naar plaatselijke maatstaven gem
 ### Artikel  3.59  
 
 1.  De geldigheidsduur van de verblijfsvergunning voor bepaalde tijd, bedoeld in artikel 14 van de Wet, onder een beperking verband houdend met seizoenarbeid, wordt niet verlengd na 24 weken.   
-2.  De geldigheidsduur van de verblijfsvergunning onder een beperking verband houdend met uitwisseling, al dan niet in het kader van een verdrag, lerend werken dan wel het zoeken en verrichten van arbeid al dan niet in loondienst, wordt niet verlengd na een jaar.   
+2.  De geldigheidsduur van de verblijfsvergunning onder een beperking verband houdend met uitwisseling, al dan niet in het kader van een verdrag, lerend werken, arbeid als zelfstandige voor zover de aanvraag om verlenging is gebaseerd op artikel 3.30, zesde lid, dan wel het zoeken en verrichten van arbeid al dan niet in loondienst, wordt niet verlengd na een jaar.   
 3.  De geldigheidsduur van de verblijfsvergunning onder een beperking verband houdend met grensoverschrijdende dienstverlening wordt niet verlengd na twee jaar.   
 4.  De geldigheidsduur van de verblijfsvergunning onder een beperking verband houdend met het doorbrengen van verlof in Nederland, medische behandeling, het afwachten van een verzoek op grond van artikel 17 van de Rijkswet op het Nederlanderschap, dan wel tijdelijk verblijf op humanitaire gronden, kan telkens worden verlengd met ten hoogste één jaar.   
 5.  De geldigheidsduur van de verblijfsvergunning onder een beperking, anders dan genoemd in de voorgaande leden, kan telkens met ten hoogste vijf jaar worden verlengd.  
@@ -1518,7 +1512,7 @@ a.minderjarig is of de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eers
 
 b.ten minste acht jaren tijdens de leerplichtige leeftijd in Nederland heeft verbleven overeenkomstig het bepaalde bij en krachtens artikel 2.6 van het Besluit inburgering;
 
-c. beschikt over een document als bedoeld in artikel 2.3, eerste lid, onder b tot en met l, en tweede lid, van het Besluit inburgering, dan wel voldoet aan het criterium, genoemd in artikel 2.5 van dat besluit; 
+c. beschikt over een document als bedoeld in artikel 2.3, eerste lid, onder b tot en met k, en tweede lid, van het Besluit inburgering, dan wel voldoet aan het criterium, genoemd in artikel 2.5 van dat besluit; 
 
 d. beschikt over een document als bedoeld in artikel 2.3, eerste lid, onder i tot en met l, van het Besluit inburgering zoals dat luidde voor het tijdstip van inwerkingtreding van artikel I van het besluit van 25 september 2012 tot wijziging van het Besluit inburgering en enkele andere besluiten in verband met de versterking van de eigen verantwoordelijkheid van de inburgeringsplichtige (Stb. 2012, 432), dan wel voldoet aan een van de criteria, genoemd in artikel 2.5, onder a en c, van dat besluit; 
 
@@ -1683,7 +1677,7 @@ a. langer dan drie achtereenvolgende maanden werkloos is;
 
 b. tijdens de geldigheidsduur van de Europese blauwe kaart eerder werkloos is geweest, of  
 
-c. een uitkering krachtens de Wet werk en bijstand heeft aangevraagd.     
+c. een uitkering krachtens de Participatiewet heeft aangevraagd.     
 3.  De aanvraag tot het verlengen van de geldigheidsduur van de Europese blauwe kaart wordt niet met toepassing van artikel 18, eerste lid, onder f, van de Wet, afgewezen op grond van werkloosheid als bedoeld in het tweede lid, onder a of b.   
 4.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld omtrent de toepassing van het eerste en tweede lid.  
 
@@ -1800,7 +1794,7 @@ a.minderjarig is of de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eers
 
 b.ten minste acht jaren tijdens de leerplichtige leeftijd in Nederland heeft verbleven overeenkomstig het bepaalde bij en krachtens artikel 2.6 van het Besluit inburgering;
 
-c. beschikt over een document als bedoeld in artikel 2.3, eerste lid, onder b tot en met l, en tweede lid, van het Besluit inburgering, dan wel voldoet aan het criterium, genoemd in artikel 2.5 van dat besluit; 
+c. beschikt over een document als bedoeld in artikel 2.3, eerste lid, onder b tot en met k, en tweede lid, van het Besluit inburgering, dan wel voldoet aan het criterium, genoemd in artikel 2.5 van dat besluit; 
 
 d. beschikt over een document als bedoeld in artikel 2.3, eerste lid, onder i tot en met l, van het Besluit inburgering zoals dat luidde voor het tijdstip van inwerkingtreding van artikel I van het besluit van 25 september 2012 tot wijziging van het Besluit inburgering en enkele andere besluiten in verband met de versterking van de eigen verantwoordelijkheid van de inburgeringsplichtige (Stb. 2012, 432), dan wel voldoet aan een van de criteria, genoemd in artikel 2.5, onder a en c, van dat besluit; 
 
@@ -1869,7 +1863,7 @@ e.in Nederland gangbare omgangsregels.
 
 1. Tot het basisexamen inburgering wordt niet toegelaten de vreemdeling die:
 
-a.niet overeenkomstig door Onze Minister van Sociale Zaken en Werkgelegenheid te stellen regels de aan het basisexamen verbonden kosten heeft voldaan, of
+a. niet overeenkomstig door Onze Minister van Sociale Zaken en Werkgelegenheid te stellen regels de aan het basisexamen verbonden kosten heeft voldaan dan wel via een ander heeft zorg gedragen voor het voldoen van die kosten, of 
 
 b.geen medewerking heeft verleend aan het vastleggen van gegevens met het oog op zijn identificatie. 
 2. De kosten, bedoeld in het eerste lid, onder a, bedragen € 350,00. 
@@ -2136,7 +2130,7 @@ a.minderjarig is of de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eers
 
 b.ten minste acht jaren tijdens de leerplichtige leeftijd in Nederland heeft verbleven overeenkomstig het bepaalde bij en krachtens artikel 2.6 van het Besluit inburgering;
 
-c. beschikt over een document als bedoeld in artikel 2.3, eerste lid, onder b tot en met l, en tweede lid, van het Besluit inburgering, dan wel voldoet aan het criterium, genoemd in artikel 2.5 van dat besluit; 
+c. beschikt over een document als bedoeld in artikel 2.3, eerste lid, onder b tot en met k, en tweede lid, van het Besluit inburgering, dan wel voldoet aan het criterium, genoemd in artikel 2.5 van dat besluit; 
 
 d. beschikt over een document als bedoeld in artikel 2.3, eerste lid, onder i tot en met l, van het Besluit inburgering zoals dat luidde voor het tijdstip van inwerkingtreding van artikel I van het besluit van 25 september 2012 tot wijziging van het Besluit inburgering en enkele andere besluiten in verband met de versterking van de eigen verantwoordelijkheid van de inburgeringsplichtige (Stb. 2012, 432), dan wel voldoet aan een van de criteria, genoemd in artikel 2.5, onder a en c, van dat besluit; 
 
@@ -3372,7 +3366,7 @@ c. de beoordeling of een vreemdeling als gemeenschapsonderdaan rechtmatig verbli
 
 1.  Gegevens en inlichtingen ten behoeve van de vreemdelingenadministratie kunnen in ieder geval worden verstrekt door: 
 
-a. de colleges van burgemeester en wethouders, voor zover deze zijn belast met de uitvoering van de Wet basisregistratie personen, de Wet werk en bijstand en aanverwante inkomensvoorzieningswetten en de Wet inburgering;  
+a. de colleges van burgemeester en wethouders, voor zover deze zijn belast met de uitvoering van de Wet basisregistratie personen, de Participatiewet en aanverwante inkomensvoorzieningswetten en de Wet inburgering;  
 
 b. de Sociale Verzekeringsbank;  
 
@@ -3831,6 +3825,10 @@ e. de verwijdering en vernietiging van de gezichtsopname en vingerafdrukken op v
 ### Hoofdstuk  9  
 
 ####Overgangs- en slotbepalingen
+
+### Artikel  9.1  
+
+Artikel 3.107a, tweede lid, onderdeel c, zoals dat luidde op 31 december 2014, blijft van overeenkomstige toepassing op aanvragen als bedoeld in artikel 3.107a, eerste lid, die zijn gediend voor 1 januari 2015. 
 
 ### Artikel  9.9  
 

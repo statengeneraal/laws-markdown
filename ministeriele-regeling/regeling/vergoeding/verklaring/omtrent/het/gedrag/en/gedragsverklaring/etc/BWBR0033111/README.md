@@ -10,7 +10,13 @@ Besluit:
 
 De kostenvergoeding bedoeld in artikel 48, tweede lid, van het Besluit justitiële en strafvorderlijke gegevens, bedraagt voor een: 
 
-a.  *verklaring omtrent het gedrag natuurlijke personen:*€ 24,55, indien deze rechtstreeks elektronisch bij de Minister van Veiligheid en Justitie wordt aangevraagd, en € 30,05 in alle andere gevallen;  
+a. verklaring omtrent het gedrag natuurlijke personen: 
+
+1°. indien deze rechtstreeks elektronisch bij de Minister van Veiligheid en Justitie wordt aangevraagd: € 24,55;  
+
+2°. indien deze rechtstreeks elektronisch bij de Minister van Veiligheid en Justitie wordt aangevraagd teneinde op vrijwillige basis te werken met minderjarigen of verstandelijk beperkten: € 0,00, voor zover voldaan wordt aan nader te stellen beleidsregels;  
+
+3°. in alle andere gevallen: € 30,05;    
 
 b. verklaring omtrent het gedrag rechtspersonen: € 147,50.   
 
