@@ -80,15 +80,15 @@ There are three sources I have used for populating this repository:
 
 1. The [official API from the Dutch government](https://data.overheid.nl/data/dataset/basis-wetten-bestand), which produces information about laws as they are today.
 2. The [MetaLex document server](http://doc.metalex.eu/), which has been tracking Dutch law and converting it to MetaLex since 2010
-3. A [CouchDB database](https://couchdb.apache.org/) I have set up to mirror information produced by the government database, and keep track of historical information since May 26 2014. I have made this database because the MetaLex document server has some bugs. Source code for the service is [here](https://github.com/statengeneraal/tools-laws-in-couchdb).  
+3. A [CouchDB database](https://couchdb.apache.org/) I have set up to mirror information produced by the government database, and keep track of historical information since May 26 2014. I have made this database because the MetaLex document server has some bugs. Source code for the service is [here](https://github.com/statengeneraal/tools-scripts).  
 
 I have taken the XML files in these databases and converted them to the simple markup language [Markdown](http://daringfireball.net/projects/markdown/). A considerable amount of code determines the order of modifying / deleting documents. If a document is not valid anymore, it is deleted from the repository.
 
 
 Contact
 ------------
-Inquiries go to maartenhoedjes@gmail.com.
+Inquiries go to m.f.a.trompper@uva.nl.
 
-This repository is connected to [Open State](http://openstate.eu/), a Dutch organization that promotes open data and the [Leibniz Center for Law](http://www.leibnizcenter.org/), a research group in the University of Amsterdam which operates at the intersection of artificial intelligence and law.
+This repository is maintained by the [Leibniz Center for Law](http://www.leibnizcenter.org/), a research group of the University of Amsterdam which operates at the intersection of artificial intelligence and law. It is also connected to [Open State](http://openstate.eu/), an organization that promotes open data. 
 
-This project was part of an internship at Leibniz Center for Law. Read the internship report [here](http://leibniz-internship-report.herokuapp.com/).
+This project was part of an internship at Leibniz Center for Law. Read more about my work at Leibniz here [here](http://leibniz-internship-report.herokuapp.com/).
