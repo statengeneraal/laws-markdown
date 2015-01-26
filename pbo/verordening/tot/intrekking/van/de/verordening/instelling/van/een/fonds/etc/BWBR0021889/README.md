@@ -5,19 +5,19 @@
 Het bestuur van het Productschap Vis;  
 Gelet op:
 
-– [artikel 93 van de Wet op de bedrijfsorganisatie](../../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+– artikel 93 van de Wet op de bedrijfsorganisatie;
 
-– [artikel 5 van het Instellingsbesluit Productschap Vis](../../../../../../../../../../../../../AMvB/instellingsbesluit/productschap/vis/BWBR0015163/README.md) (Stb. 2003, 253) en
+– artikel 5 van het Instellingsbesluit Productschap Vis (Stb. 2003, 253) en
 
-– [artikel 6 van de Verordening instelling van een fonds voor de kottersector](../../../../../../../../../../../../../pbo/verordening/instelling/van/een/fonds/voor/de/kottersector/BWBR0014876/README.md); 
+– artikel 6 van de Verordening instelling van een fonds voor de kottersector; 
 Besluit:    
 
 ### Artikel  1  
 
-1.  Het fonds voor de kottersector, bedoeld in [artikel 2, eerste lid, van de Verordening instelling van een fonds voor de kottersector](../../../../../../../../../../../../../pbo/verordening/instelling/van/een/fonds/voor/de/kottersector/BWBR0014876/README.md), wordt opgeheven.   
-2.  Het liquidatiesaldo van € 263.644,– wordt ten bate gebracht van het fonds voor de aanvoersector, bedoeld in [artikel 2, eerste lid, van de Verordening instelling van een fonds voor de aanvoersector](../../../../../../../../../../../../../pbo/verordening/instelling/van/een/fonds/voor/de/aanvoersector/BWBR0014881/README.md) (gepubliceerd in het Verordeningenblad Bedrijfsorganisatie van 4 februari 2005, nummer 5, VIS 1).   
+1.  Het fonds voor de kottersector, bedoeld in artikel 2, eerste lid, van de Verordening instelling van een fonds voor de kottersector, wordt opgeheven.   
+2.  Het liquidatiesaldo van € 263.644,– wordt ten bate gebracht van het fonds voor de aanvoersector, bedoeld in artikel 2, eerste lid, van de Verordening instelling van een fonds voor de aanvoersector (gepubliceerd in het Verordeningenblad Bedrijfsorganisatie van 4 februari 2005, nummer 5, VIS 1).   
 3.  Het liquidatiesaldo van € 263.644,– mag alleen bestemd worden voor uitgaven binnen de doelstellingen van het fonds voor de aanvoersector, bedoeld in het tweede lid, ten behoeve van de vissersvaartuigen waarvan de lengte over alles minder dan 60 meter bedraagt.   
-4.  De [Verordening instelling van een fonds voor de kottersector](../../../../../../../../../../../../../pbo/verordening/instelling/van/een/fonds/voor/de/kottersector/BWBR0014876/README.md) wordt ingetrokken.  
+4.  De Verordening instelling van een fonds voor de kottersector wordt ingetrokken.  
 
 ### Artikel  2  
 

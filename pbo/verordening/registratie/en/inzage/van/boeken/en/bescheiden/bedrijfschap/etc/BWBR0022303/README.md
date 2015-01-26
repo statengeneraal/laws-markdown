@@ -3,7 +3,7 @@
 ##Verordening van het Bedrijfschap Afbouw van 16 mei 2007 houdende regels over de registratie van de onder de werkingssfeer van het bedrijfschap vallende ondernemingen en de verstrekking van gegevens door ondernemers (Verordening registratie en inzage van boeken en bescheiden Bedrijfschap Afbouw 2007).
 
 Het bestuur van het Bedrijfschap Afbouw,  
-gelet op de [artikelen 93](../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [95 van de Wet op de Bedrijfsorganisatie](../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op [artikel 5 van het Instellingsbesluit Bedrijfschap Afbouw](../../../../../../../../../../../../AMvB/instellingsbesluit/bedrijfschap/afbouw/BWBR0020865/README.md) en het bepaalde in de [Wet bescherming persoonsgegevens](../../../../../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md);
+gelet op de artikelen 93 en 95 van de Wet op de Bedrijfsorganisatie en op artikel 5 van het Instellingsbesluit Bedrijfschap Afbouw en het bepaalde in de Wet bescherming persoonsgegevens;
 besluit vast te stellen de navolgende Verordening    
 
 ### Artikel  1  
@@ -19,12 +19,12 @@ In deze verordening wordt verstaan onder:
 
 ### Artikel  2  
 
-Deze Verordening is van toepassing op de ondernemers die een onderneming drijven waarin een in [artikel 2 van het Instellingsbesluit Bedrijfschap Afbouw](../../../../../../../../../../../../AMvB/instellingsbesluit/bedrijfschap/afbouw/BWBR0020865/README.md) bedoeld bedrijf wordt uitgeoefend. 
+Deze Verordening is van toepassing op de ondernemers die een onderneming drijven waarin een in artikel 2 van het Instellingsbesluit Bedrijfschap Afbouw bedoeld bedrijf wordt uitgeoefend. 
 
 ### Artikel  3  
 
 1.  Er is een register van ondernemingen, waarin gegevens worden opgenomen ten behoeve van de vervulling van de taak van het bedrijfschap.   
-2.  Het bestuur is verantwoordelijke in de zin van de [Wet bescherming persoonsgegevens](../../../../../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).   
+2.  Het bestuur is verantwoordelijke in de zin van de Wet bescherming persoonsgegevens.   
 3.  Het register is niet openbaar.  
 
 ### Artikel  4  
@@ -85,7 +85,7 @@ b. voor het verkrijgen van gegevens die de ondernemers in strijd met de in onder
 
 ### Artikel  10  
 
-Het in deze verordening bedoelde register treedt in in de plaats van het register dat op grond van de [Verordening registratie en inzage van boeken en bescheiden Hoofdbedrijfschap Afbouw en Onderhoud](../../../../../../../../../../../../pbo/verordening/registratie/en/inzage/van/boeken/en/bescheiden/etc/BWBR0014995/README.md) is ingesteld. 
+Het in deze verordening bedoelde register treedt in in de plaats van het register dat op grond van de Verordening registratie en inzage van boeken en bescheiden Hoofdbedrijfschap Afbouw en Onderhoud is ingesteld. 
 
 ### Artikel  11  
 
@@ -93,7 +93,7 @@ Deze verordening treedt in werking op de dag na publicatie in het Verordeningenb
 
 ### Artikel  12  
 
-De [Verordening registratie en inzage van boeken en bescheiden Hoofdbedrijfschap Afbouw en Onderhoud](../../../../../../../../../../../../pbo/verordening/registratie/en/inzage/van/boeken/en/bescheiden/etc/BWBR0014995/README.md) wordt hiermee ingetrokken. 
+De Verordening registratie en inzage van boeken en bescheiden Hoofdbedrijfschap Afbouw en Onderhoud wordt hiermee ingetrokken. 
 
 ### Artikel  13  
 

@@ -5,13 +5,13 @@
 Het bestuur van het Productschap Vis;  
 Gelet op:
 
-– [artikel 93, tweede lid onderdeel g, van de Wet op de bedrijfsorganisatie](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+– artikel 93, tweede lid onderdeel g, van de Wet op de bedrijfsorganisatie;
 
-– [artikel 5 van het Instellingsbesluit Productschap Vis ](../../../../../../../../../../../AMvB/instellingsbesluit/productschap/vis/BWBR0015163/README.md)(*Stb.* 2003, 253);
+– artikel 5 van het Instellingsbesluit Productschap Vis (*Stb.* 2003, 253);
 
-– [artikel 6 van de Verordening instelling van een fonds voor mosselpromotie](../../../../../../../../../../../pbo/verordening/instelling/van/een/fonds/voor/mosselpromotie/BWBR0014068/README.md); en
+– artikel 6 van de Verordening instelling van een fonds voor mosselpromotie; en
 
-– [artikel 6 van de Verordening instelling van een fonds voor mosselonderzoek](../../../../../../../../../../../pbo/verordening/instelling/van/een/fonds/voor/mosselonderzoek/BWBR0014063/README.md);
+– artikel 6 van de Verordening instelling van een fonds voor mosselonderzoek;
 Besluit:    
 
 ### Artikel  1 
@@ -20,8 +20,8 @@ In deze verordening wordt verstaan onder:
 
 | --- | --- | --- |
 |:---|:---|:---|
-| a.  | Instellingsbesluit Productschap Vis :  | [Besluit van 3 juni 2003, houdende instelling van een productschap voor ondernemingen op het gebied van de visserij, de be- en verwerking van vis en de handel in vis en visproducten](../../../../../../../../../../../AMvB/instellingsbesluit/productschap/vis/BWBR0015163/README.md) (Staatsblad 2003, 253);  |
-| b.  | productschap :  | het Productschap Vis, als bedoeld in [artikel 3 van het Instellingsbesluit Productschap Vis](../../../../../../../../../../../AMvB/instellingsbesluit/productschap/vis/BWBR0015163/README.md);  |
+| a.  | Instellingsbesluit Productschap Vis :  | Besluit van 3 juni 2003, houdende instelling van een productschap voor ondernemingen op het gebied van de visserij, de be- en verwerking van vis en de handel in vis en visproducten (Staatsblad 2003, 253);  |
+| b.  | productschap :  | het Productschap Vis, als bedoeld in artikel 3 van het Instellingsbesluit Productschap Vis;  |
 | c.  | bestuur :  | het bestuur van het productschap;  |
 | d.  | voorzitter :  | de voorzitter van het productschap;  |
 | e.  | fonds :  | het fonds, genoemd in artikel 2 .  |
@@ -56,7 +56,7 @@ b. uitgaven ten behoeve van onderzoeks- en ontwikkelingsprojecten in het belang 
 1.  Het bestuur beslist over de bestemming van de middelen van het fonds.   
 2.  Het bestuur neemt geen besluit over de bestemming van de middelen van het fonds dan na advies van de mosseladviescommissie.   
 3.  Bij de bestemming van de middelen dient te allen tijde voldaan te worden aan de voorwaarden gesteld in de Europese en nationale regelingen met betrekking tot steun- en subsidieverlening.   
-4.  Bij uitvoering van het bepaalde in het eerste en derde lid, kan de voorzitter beschikkingen of besluiten nemen als bedoeld in [titel 4.2 Subsidies van de Algemene wet bestuursrech](../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md)t  
+4.  Bij uitvoering van het bepaalde in het eerste en derde lid, kan de voorzitter beschikkingen of besluiten nemen als bedoeld in titel 4.2 Subsidies van de Algemene wet bestuursrecht  
 
 ### Artikel  6  
 
@@ -64,15 +64,15 @@ Het fonds kan door het bestuur worden opgeheven, in welk geval de voorzitter nam
 
 ### Artikel  7  
 
-1.  Het fonds voor mosselpromotie, bedoeld in [artikel 2, eerste lid, van de Verordening instelling van een fonds voor mosselpromotie](../../../../../../../../../../../pbo/verordening/instelling/van/een/fonds/voor/mosselpromotie/BWBR0014068/README.md) wordt opgeheven.   
-2.  Het onderzoekfonds mosselen, bedoeld in [artikel 2, eerste lid, van de Verordening instelling van een fonds voor mosselonderzoek wordt opgeheven](../../../../../../../../../../../pbo/verordening/instelling/van/een/fonds/voor/mosselonderzoek/BWBR0014063/README.md).   
+1.  Het fonds voor mosselpromotie, bedoeld in artikel 2, eerste lid, van de Verordening instelling van een fonds voor mosselpromotie wordt opgeheven.   
+2.  Het onderzoekfonds mosselen, bedoeld in artikel 2, eerste lid, van de Verordening instelling van een fonds voor mosselonderzoek wordt opgeheven.   
 3.  Het liquidatiesaldo van het fonds voor mosselpromotie wordt ten bate gebracht van het fonds, bedoeld in artikel 2, eerste lid, en mag alleen bestemd worden voor promotieactiviteiten ten behoeve van de mosselsector.   
 4.  Het liquidatiesaldo van het onderzoekfonds mosselen wordt ten bate gebracht van het fonds, bedoeld in artikel 2, eerste lid, en mag alleen bestemd worden voor onderzoek- en ontwikkelingsprojecten ten behoeve van de mosselsector.  
 
 ### Artikel  8  
 
-1.  De [Verordening instelling van een fonds voor mosselpromotie](../../../../../../../../../../../pbo/verordening/instelling/van/een/fonds/voor/mosselpromotie/BWBR0014068/README.md) wordt ingetrokken.   
-2.  De [Verordening instelling van een fonds voor mosselonderzoek](../../../../../../../../../../../pbo/verordening/instelling/van/een/fonds/voor/mosselonderzoek/BWBR0014063/README.md) wordt ingetrokken.   
+1.  De Verordening instelling van een fonds voor mosselpromotie wordt ingetrokken.   
+2.  De Verordening instelling van een fonds voor mosselonderzoek wordt ingetrokken.   
 3.  Alle reeds en nog verschuldigde baten en lasten van de fondsen, bedoeld in de vorige leden, gaan over naar het fonds, genoemd in artikel 2.  
 
 ### Artikel  9  

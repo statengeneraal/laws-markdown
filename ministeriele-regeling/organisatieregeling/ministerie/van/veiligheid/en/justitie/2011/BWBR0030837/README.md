@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Veiligheid en Justitie van 7 december 2011, kenmerk 5719270, houdende vaststelling van de organisatie van het Ministerie van Veiligheid en Justitie (Organisatieregeling Ministerie van Veiligheid en Justitie 2011)
 
 De Minister van Veiligheid en Justitie,  
-Gelet op [artikel 2, eerste lid, van het Coördinatiebesluit organisatie en formatie rijksdienst 2007](../../../../../../../../../KB/coördinatiebesluit/organisatie/en/formatie/rijksdienst/2007/BWBR0023020/README.md);
+Gelet op artikel 2, eerste lid, van het Coördinatiebesluit organisatie en formatie rijksdienst 2007;
 Besluit:     
 ### Hoofdstuk  I  
 
@@ -223,7 +223,7 @@ h. de Projectendirectie Huisvesting (PDH).
 
 ### Artikel  14  
 
-1.  De directie Financieel-Economische Zaken (DFEZ) is belast met de advisering van de departementsleiding over financiële en macro-economische aspecten van beleid, bedrijfsvoering en uitvoering als bedoeld in [artikel 27, eerste en tweede lid, van de Comptabiliteitswet 2001](../../../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md) en de daaruit voortvloeiende regelgeving.   
+1.  De directie Financieel-Economische Zaken (DFEZ) is belast met de advisering van de departementsleiding over financiële en macro-economische aspecten van beleid, bedrijfsvoering en uitvoering als bedoeld in artikel 27, eerste en tweede lid, van de Comptabiliteitswet 2001 en de daaruit voortvloeiende regelgeving.   
 2.  De directie bestaat uit: 
 
 a. de afdeling Begroting en Kaderstelling;  
@@ -259,9 +259,9 @@ De directie Informatisering en Inkoop (DI&I) adviseert de departementsleiding ov
 
 1.  De Departementale Auditdienst (DAD) is belast met: 
 
-a. het uitvoeren van de wettelijke controletaak, bedoeld in [artikel 66 van de Comptabiliteitswet 2001](../../../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md);  
+a. het uitvoeren van de wettelijke controletaak, bedoeld in artikel 66 van de Comptabiliteitswet 2001;  
 
-b. het verrichten van overig periodiek onderzoek naar de bedrijfs- en de beleidsvoering op basis van de [artikelen 20](../../../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md) en [21 van de Comptabiliteitswet 2001](../../../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md).    
+b. het verrichten van overig periodiek onderzoek naar de bedrijfs- en de beleidsvoering op basis van de artikelen 20 en 21 van de Comptabiliteitswet 2001.    
 
 ### Artikel  18  
 
@@ -416,13 +416,18 @@ b. de afdeling Bedrijfsvoering;
 
 c. de afdeling Juridische en Internationale Zaken.    
 
+### Artikel  27a  
+Treedt in werking per 01-02-2015 
+
+De ketenunit i.o. faciliteert het functioneren van de uitvoeringsketen van strafrechtelijke beslissingen, de jeugdketen en de slachtofferketen en faciliteert het verbeteren van de prestaties van deze ketens. De ketenunit i.o. ondersteunt de directies bedoeld in artikel 23, tweede lid, onder a tot en met c, en de ketenpartners bij strategische en tactische ketenoverleggen. 
+
 ### Artikel  28  
 
 De baten-lastendienst Dienst JUSTIS is belast met het namens de minister nemen van besluiten en verwerken van informatie ter bevordering van een betrouwbare, veilige en rechtvaardige samenleving in sectoren met kwetsbare belangen. 
 
 ### Artikel  29  
 
-De baten-lastendienst Dienst Justitiële inrichtingen (DJI) is belast met het tenuitvoerleggen van vrijheidsstraffen en vrijheidsbenemende maatregelen en met het voorbereiden van de aan de zorg van de minister toevertrouwde personen op hun succesvolle terugkeer naar de maatschappij, binnen of buiten Nederland. Tevens is DJI belast met het behandelen van rechtshulpverzoeken inzake de overdracht en overname van de tenuitvoerlegging van vrijheidsstraffen en vrijheidsbenemende maatregelen op grond van de [Wet overdracht tenuitvoerlegging strafvonnissen](../../../../../../../../../wet/wet/overdracht/tenuitvoerlegging/strafvonnissen/BWBR0004028/README.md) en de [Wet wederzijdse erkenning en tenuitvoerlegging vrijheidsbenemende en voorwaardelijke sancties](../../../../../../../../../wet/wet/wederzijdse/erkenning/en/tenuitvoerlegging/vrijheidsbenemende/en/etc/BWBR0031814/README.md).
+De baten-lastendienst Dienst Justitiële inrichtingen (DJI) is belast met het tenuitvoerleggen van vrijheidsstraffen en vrijheidsbenemende maatregelen en met het voorbereiden van de aan de zorg van de minister toevertrouwde personen op hun succesvolle terugkeer naar de maatschappij, binnen of buiten Nederland. Tevens is DJI belast met het behandelen van rechtshulpverzoeken inzake de overdracht en overname van de tenuitvoerlegging van vrijheidsstraffen en vrijheidsbenemende maatregelen op grond van de Wet overdracht tenuitvoerlegging strafvonnissen en de Wet wederzijdse erkenning en tenuitvoerlegging vrijheidsbenemende en voorwaardelijke sancties.
 
 ### Artikel  29a  
 
@@ -529,15 +534,15 @@ d. het programma Internationale en Caribische Aangelegenheden.
 
 ### Artikel  38  
 
-De baten-lastendienst Korps landelijke politiediensten (KLPD) is belast met de taken, bedoeld in [artikel 38 van de Politiewet 1993](../../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md). 
+De baten-lastendienst Korps landelijke politiediensten (KLPD) is belast met de taken, bedoeld in artikel 38 van de Politiewet 1993. 
 
 ### Artikel  39  
 
-Het korps politie Bonaire, Sint Eustatius en Saba (korps politie BES) is belast met de taken bedoeld in [artikel 5 van de Rijkswet politie van Curacao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](../../../../../../../../../rijkswet/rijkswet/politie/van/curaçao/van/sint/maarten/en/van/bonaire/sint/etc/BWBR0028079/README.md). 
+Het korps politie Bonaire, Sint Eustatius en Saba (korps politie BES) is belast met de taken bedoeld in artikel 5 van de Rijkswet politie van Curacao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba. 
 
 ### Artikel  40  
 
-Het brandweerkorps Bonaire, Sint Eustatius en Saba (brandweerkorps BES) is belast met de taken bedoeld in [artikel 27, tweede lid](../../../../../../../../../wet-BES/veiligheidswet/bes/BWBR0028586/README.md), en [artikel 28, eerste lid, van de Veiligheidswet BES](../../../../../../../../../wet-BES/veiligheidswet/bes/BWBR0028586/README.md). 
+Het brandweerkorps Bonaire, Sint Eustatius en Saba (brandweerkorps BES) is belast met de taken bedoeld in artikel 27, tweede lid, en artikel 28, eerste lid, van de Veiligheidswet BES. 
 
 ### Hoofdstuk  VI  
 
@@ -622,7 +627,7 @@ b. de afdeling Planning, Control en Managementinformatie (PCM).
 1.  De directie Juridische en Operationele Aangelegenheden (DJOA) is belast met de voorbereiding van beslissingen in individuele gevallen op het terrein van rechtspleging en rechtshandhaving met toepassing van bestaande regels en beleidskaders. De beslissingen hebben betrekking op bestuurlijk-juridische zaken, operationele zaken, rechtshulpverzoeken, benoemingen of incidenten. De directie levert op deze terreinen ook bijdragen aan beleidsvoorstellen.   
 2.  De directie voert de regie en coördineert de inzet van alle betrokken dienstonderdelen en taakorganisaties bij de afdoening van incidenten waaraan politiek-bestuurlijke aspecten zijn verbonden. De directie ontwikkelt en onderhoudt daartoe de benodigde expertise en incidentenstrategie en organiseert de voorbereiding van het ministerie van crisisbeheersing in het kader van het nationaal handboek crisisbeheersing.   
 3.  De directie fungeert als het juridisch expertisecentrum van het directoraat-generaal. De directie bewaakt de juridische kwaliteit van de diverse producten van het directoraat-generaal en beperkt de juridische risico’s.   
-4.  De directie is belast met de voorbereiding en uitvoering van beslissingen van de minister aangaande internationale rechtshulp in strafzaken, met uitzondering van beslissingen inzake de overdracht en overname van de tenuitvoerlegging van vrijheidsstraffen en vrijheidsbenemende maatregelen op grond van de [Wet overdracht tenuitvoerlegging strafvonnissen](../../../../../../../../../wet/wet/overdracht/tenuitvoerlegging/strafvonnissen/BWBR0004028/README.md) en de [Wet wederzijdse erkenning en tenuitvoerlegging vrijheidsbenemende en voorwaardelijke sancties](../../../../../../../../../wet/wet/wederzijdse/erkenning/en/tenuitvoerlegging/vrijheidsbenemende/en/etc/BWBR0031814/README.md).   
+4.  De directie is belast met de voorbereiding en uitvoering van beslissingen van de minister aangaande internationale rechtshulp in strafzaken, met uitzondering van beslissingen inzake de overdracht en overname van de tenuitvoerlegging van vrijheidsstraffen en vrijheidsbenemende maatregelen op grond van de Wet overdracht tenuitvoerlegging strafvonnissen en de Wet wederzijdse erkenning en tenuitvoerlegging vrijheidsbenemende en voorwaardelijke sancties.   
 5.  De directie is voorts belast met de beantwoording van brieven van burgers alsmede de coördinatie van de beantwoording van Kamervragen en andere parlementaire zaken.   
 6.  De directie bestaat uit: 
 
@@ -669,7 +674,7 @@ De Justitiële Informatiedienst (JustID) fungeert als centrale voorziening ten b
 
 1.  Het directoraat-generaal Vreemdelingenzaken (DGVZ) is belast met: 
 
-a. het uitvoeren van de vreemdelingenwetgeving en van de [Rijkswet op het Nederlanderschap](../../../../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md);  
+a. het uitvoeren van de vreemdelingenwetgeving en van de Rijkswet op het Nederlanderschap;  
 
 b. een gereglementeerde en beheerste toelating van vreemdelingen tot Nederland, een gereglementeerd en beheerst verblijf in en vertrek uit Nederland en een gereglementeerde en beheerste terugkeer van vreemdelingen;  
 
@@ -734,7 +739,7 @@ d. de directie Operationele Ondersteuning.
 
 ### Artikel  50g  
 
-De Immigratie- en Naturalisatiedienst (IND) is een baten-lastendienst die belast is met de uitvoering van de vreemdelingenwetgeving en van de [Rijkswet op het Nederlanderschap](../../../../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md). 
+De Immigratie- en Naturalisatiedienst (IND) is een baten-lastendienst die belast is met de uitvoering van de vreemdelingenwetgeving en van de Rijkswet op het Nederlanderschap. 
 
 ### Artikel  50h  
 
@@ -842,11 +847,11 @@ b. het Nationaal Cyber Security Centrum.
 
 1.  De directie Bewaking, Beveiliging, Burgerluchtvaart heeft de volgende taken: 
 
-a. het opstellen, onderhouden en uitvoeren van het nationaal stelsel van bewaken en beveiligen, het stelsel van speciale eenheden, het Alerteringssysteem Terrorismebestrijding, de [Regeling bijstand bestrijding luchtvaartterrorisme](../../../../../../../../../ministeriele-regeling/regeling/bijstand/bestrijding/luchtvaartterrorisme/BWBR0018217/README.md) en het uitvoeren van risicoanalyses ten behoeve van de burgerluchtvaart op basis waarvan eventuele aanvullende beveiligingsmaatregelen worden genomen;  
+a. het opstellen, onderhouden en uitvoeren van het nationaal stelsel van bewaken en beveiligen, het stelsel van speciale eenheden, het Alerteringssysteem Terrorismebestrijding, de Regeling bijstand bestrijding luchtvaartterrorisme en het uitvoeren van risicoanalyses ten behoeve van de burgerluchtvaart op basis waarvan eventuele aanvullende beveiligingsmaatregelen worden genomen;  
 
 b. het in nationaal en internationaal verband opstellen van het beleid op het gebied van de beveiliging van de burgerluchtvaart;  
 
-c. het opstellen van regels en het geven van aanwijzingen aan de Koninklijke marechaussee en de luchtvaartsector op basis van de [Luchtvaartwet](../../../../../../../../../wet/luchtvaartwet/BWBR0002267/README.md) en de [Politiewet 1993](../../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md);  
+c. het opstellen van regels en het geven van aanwijzingen aan de Koninklijke marechaussee en de luchtvaartsector op basis van de Luchtvaartwet en de Politiewet 1993;  
 
 d. het aansturen van de Koninklijke marechaussee, voor zover deze onder het gezag van de minister is belast met het toezicht op de uitvoering van de beveiligingsmaatregelen door de luchtvaartsector;  
 
@@ -906,7 +911,7 @@ b. de eenheid Communicatie.
 
 ### Artikel  59  
 
-Het Landelijk Operationeel Coördinatie Centrum (LOCC) maakt deel uit van de nationale crisisbesluitvormingsstructuur en draagt hierbij zorg voor het aanleveren van het multidisciplinair Landelijk Operationeel Beeld en het operationeel advies bij nationale en internationale incidenten, crises, rampen en grootschalige evenementen. Het LOCC coördineert nationale en internationale bijstand, met inbegrip van de bijstand, bedoeld in de [Wet veiligheidsregio’s](../../../../../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md) en de [Politiewet 2012](../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md). Ook draagt het LOCC als de National Training Coördinator zorg voor de coördinatie, opleiding en inzet van de Nederlandse experts in het kader van EU Civil Protection Mechanism.  
+Het Landelijk Operationeel Coördinatie Centrum (LOCC) maakt deel uit van de nationale crisisbesluitvormingsstructuur en draagt hierbij zorg voor het aanleveren van het multidisciplinair Landelijk Operationeel Beeld en het operationeel advies bij nationale en internationale incidenten, crises, rampen en grootschalige evenementen. Het LOCC coördineert nationale en internationale bijstand, met inbegrip van de bijstand, bedoeld in de Wet veiligheidsregio’s en de Politiewet 2012. Ook draagt het LOCC als de National Training Coördinator zorg voor de coördinatie, opleiding en inzet van de Nederlandse experts in het kader van EU Civil Protection Mechanism.  
 
 ### Hoofdstuk  VIII  
 
@@ -985,7 +990,7 @@ Wijzigt de Regeling digitale vervanging personeelsdossiers Ministerie van Justit
 
 ### Artikel  70  
 
-De [Organisatieregeling Ministerie van Veiligheid en Justitie](../../../../../../../../../ministeriele-regeling/organisatieregeling/ministerie/van/veiligheid/en/justitie/BWBR0029453/README.md) wordt ingetrokken. 
+De Organisatieregeling Ministerie van Veiligheid en Justitie wordt ingetrokken. 
 
 ### Artikel  71  
 

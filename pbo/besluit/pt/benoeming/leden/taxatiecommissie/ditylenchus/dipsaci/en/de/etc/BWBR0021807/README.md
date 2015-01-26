@@ -3,9 +3,9 @@
 ##Besluit van het bestuur van het Productschap Tuinbouw van 20 februari 2007 houdende de benoeming van de leden van de taxatiecommissie Ditylenchus dipsaci en de commissie die controleert of de teler heeft voldaan aan zijn zorgverplichtingen bij bloembollen (Besluit PT instelling taxatiecommissie Ditylenchus dipsaci en de commissie controle zorgverplichting bij bloembollen)
 
 Het Bestuur van het Productschap Tuinbouw,  
-Gelet op de [artikelen 93](../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en [106 van de Wet op de bedrijfsorganisatie](../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+Gelet op de artikelen 93, 95, en 106 van de Wet op de bedrijfsorganisatie;
 
-Gelet op [artikel 3, tweede lid van het Besluit PT instelling taxatiecommissie Ditylenchus dipsaci en de commissie controle zorgverplichtingen bij bloembollen, en de richtlijn voor het totstandkomen van een te verstrekken vergoeding door het Productschap Tuinbouw](../../../../../../../../../../../../pbo/besluit/pt/instelling/taxatiecommissie/ditylenchus/dipsaci/en/de/commissie/etc/BWBR0021803/README.md) 
+Gelet op artikel 3, tweede lid van het Besluit PT instelling taxatiecommissie Ditylenchus dipsaci en de commissie controle zorgverplichtingen bij bloembollen, en de richtlijn voor het totstandkomen van een te verstrekken vergoeding door het Productschap Tuinbouw 
 
 Gehoord de Commissie voor bollen, knollen en wortelstokken van bolgewassen, 13 februari 2007;
 Besluit:    

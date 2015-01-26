@@ -3,7 +3,7 @@
 ##Besluit HPA beheersregels archiefbescheiden akkerbouwproductschappen 2001
 
 Het dagelijks bestuur van het Hoofdproductschap Akkerbouw,  
-Gelet op [artikel 14 van het Archiefbesluit 1995](../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md), [artikel 92 van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en artikel 25 van de Instellingsverordening akkerbouwproductschappen 1997;
+Gelet op artikel 14 van het Archiefbesluit 1995, artikel 92 van de Wet op de bedrijfsorganisatie en artikel 25 van de Instellingsverordening akkerbouwproductschappen 1997;
 
 Gehoord de dagelijkse besturen van het Productschap Granen, Zaden en Peulvruchten, van het Productschap Diervoeder en van het Productschap Wijn,
 Heeft op 12 april 2001 het volgende besluit vastgesteld:     
@@ -13,14 +13,14 @@ Heeft op 12 april 2001 het volgende besluit vastgesteld:
 
 ### Artikel  1  
 
-Dit besluit neemt over de terminologie van het [Instellingsbesluit akkerbouwproductschappen](../../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md) en verstaat voorts onder:  
+Dit besluit neemt over de terminologie van het Instellingsbesluit akkerbouwproductschappen en verstaat voorts onder:  
 
 | --- | --- | --- |
 |:---|:---|:---|
 | a.  | dagelijks bestuur:  | het dagelijks bestuur van het hoofdproductschap;  |
 | b.  | voorzitter:  | voorzitter van het hoofdproductschap;  |
 | c.  | directie:  | de directie als bedoeld in artikel 6 van Verordening HPA bevoegdheden 2006;  |
-| d.  | commissie:  | een bij het [Instellingsbesluit akkerbouwproductschappen](../../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md) ingestelde publiekrechtelijke commissie;  |
+| d.  | commissie:  | een bij het Instellingsbesluit akkerbouwproductschappen ingestelde publiekrechtelijke commissie;  |
 | e.  | minister:  | Minister van Onderwijs, Cultuur en Wetenschappen  |
 | f.  | beheer:  | het verrichten of doen verrichten van de feitelijke werkzaamheden die nodig zijn voor een goede bewaring, ordening, selectie, toegankelijkheid, vernietiging en overbrenging naar een archiefbewaarplaats van archiefbescheiden;  |
 | g.  | zorg:  | de algemene bestuurlijke verantwoordelijkheid voor de uitvoering van het beheer van archiefbescheiden en voor die zaken die noodzakelijk zijn om efficiënt en effectief archiefbeheer mogelijk te maken, zoals huisvesting, deskundig personeel en financiële middelen;  |

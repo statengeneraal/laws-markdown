@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Diervoeder van 14 februari 2007, houdende regels ter zake van de aan de onder het Productschap Diervoeder ressorterende ondernemers op te leggen retributie voor het jaar 2007 (Verordening PDV retributies diervoeders 2007)
 
 Het bestuur van het Productschap Diervoeder;  
-Gelet op de [artikelen 95](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [100](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op [artikel 12 van het Instellingsbesluit Akkerbouwproductschappen](../../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md);
+Gelet op de artikelen 95, 100 en 126, tweede lid, van de Wet op de bedrijfsorganisatie en op artikel 12 van het Instellingsbesluit Akkerbouwproductschappen;
 Besluit:     
 ### §  1  
 
@@ -68,7 +68,7 @@ De retributies verschuldigd uïterlijk op de eenentwintigste dag volgend op die 
 
 ### Artikel  7  
 
-Aan de ondernemer die niet of niet geheel binnen de in artikel 9 gestelde termijn heeft betaald, kan door het productschap de wettelijke interest over het niet betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk diende te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md). 
+Aan de ondernemer die niet of niet geheel binnen de in artikel 9 gestelde termijn heeft betaald, kan door het productschap de wettelijke interest over het niet betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk diende te zijn verricht ingevolge de aanmaning bedoeld in artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie. 
 
 ### Artikel  8  
 
@@ -85,7 +85,7 @@ Deze verordening treedt in werking met ingang van 1 januari 2007. Indien het Ver
 
 ### Artikel  10  
 
-1.  De [Verordening PDV retributies diervoeders jaar 2006](../../../../../../../../pbo/verordening/pdv/retributies/diervoeders/jaar/2006/BWBR0019020/README.md) wordt ingetrokken.   
+1.  De Verordening PDV retributies diervoeders jaar 2006 wordt ingetrokken.   
 2.  De in het eerste lid genoemde verordening biijft van kracht voor zover het betreft de op grond van die verordening verschuldigde, maar nog niet in rekening gebrachte dan wel betaalde bedragen.  
 
 ### Artikel  11  

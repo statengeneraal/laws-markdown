@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Akkerbouw van 27 maart 2008 houdende regels over de bestrijding van aardappelmoeheid (Verordening PA aardappelmoeheid 2008)
 
 Het bestuur van het Productschap Akkerbouw;  
-Gelet op de [artikelen 93](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [104, eerste en derde lid](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en [126, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op de [artikelen 8](../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md), [17](../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md) en [18 van het Instellingsbesluit akkerbouwproductschappen](../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md);
+Gelet op de artikelen 93, 95, 104, eerste en derde lid, en 126, tweede lid, van de Wet op de bedrijfsorganisatie en op de artikelen 8, 17 en 18 van het Instellingsbesluit akkerbouwproductschappen;
 
 Gehoord de Commissie Teeltaangelegenheden;
 Besluit:     
@@ -38,7 +38,7 @@ Deze verordening verstaat onder:
 ### Artikel  2  
 
 1.  Het is de ondernemer verboden aardappelen te telen in de volle grond op een perceel, gelegen in een daartoe in bijlage 1 aangewezen gebied.   
-2.  De in het eerste lid bedoelde gebieden betreffen niet de door de Minister van Landbouw, Natuur en Voedselkwaliteit op basis van de [Regeling aanwijzing gebieden, terreinen en planten aardappelmoeheid](../../../../../../ministeriele-regeling/regeling/aanwijzing/gebieden/terreinen/en/planten/aardappelmoeheid/BWBR0006595/README.md) aangewezen gebieden of terreinen, waarbinnen of waarop de aanwezigheid van het aardappelcysteaaltje is aangetoond of wordt vermoed.  
+2.  De in het eerste lid bedoelde gebieden betreffen niet de door de Minister van Landbouw, Natuur en Voedselkwaliteit op basis van de Regeling aanwijzing gebieden, terreinen en planten aardappelmoeheid aangewezen gebieden of terreinen, waarbinnen of waarop de aanwezigheid van het aardappelcysteaaltje is aangetoond of wordt vermoed.  
 
 ### Artikel  3  
 

@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Vis van 12 oktober 2006 tot vaststelling van algemene bepalingen over de verstrekking en verwerking van gegevens alsmede tot intrekking van de Verordening Algemene Bepalingen Productschap Vis 2000 (Verordening Algemene Bepalingen Productschap Vis 2006)
 
 Het bestuur van het Productschap Vis;  
-Gelet op de [artikelen 93](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [102 van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en de [artikelen 5](../../../../../../../../AMvB/instellingsbesluit/productschap/vis/BWBR0015163/README.md) en [6 van het Instellingsbesluit Productschap Vis](../../../../../../../../AMvB/instellingsbesluit/productschap/vis/BWBR0015163/README.md) (Stb. 2003, 253);
+Gelet op de artikelen 93, 95 en 102 van de Wet op de bedrijfsorganisatie en de artikelen 5 en 6 van het Instellingsbesluit Productschap Vis (Stb. 2003, 253);
 Besluit:     
 ### §  1  
 
@@ -15,8 +15,8 @@ In deze verordening wordt verstaan onder:
 
 | --- | --- | --- |
 |:---|:---|:---|
-| a.  | Instellingsbesluit Productschap Vis:  | [Besluit van 3 juni 2003, houdende instelling van een productschap voor ondernemingen op het gebied van de visserij, de be- en verwerking van vis en de handel in vis en visproducten](../../../../../../../../AMvB/instellingsbesluit/productschap/vis/BWBR0015163/README.md) (Stb. 2003, 253);  |
-| b.  | productschap:  | het Productschap Vis, als bedoeld in [artikel 3 van het Instellingsbesluit Productschap Vis](../../../../../../../../AMvB/instellingsbesluit/productschap/vis/BWBR0015163/README.md);  |
+| a.  | Instellingsbesluit Productschap Vis:  | Besluit van 3 juni 2003, houdende instelling van een productschap voor ondernemingen op het gebied van de visserij, de be- en verwerking van vis en de handel in vis en visproducten (Stb. 2003, 253);  |
+| b.  | productschap:  | het Productschap Vis, als bedoeld in artikel 3 van het Instellingsbesluit Productschap Vis;  |
 | c.  | bestuur:  | het bestuur van het productschap;  |
 | d.  | voorzitter:  | de voorzitter van het productschap;  |
 | e.  | secretaris:  | de secretaris van het productschap;  |
@@ -130,7 +130,7 @@ b. De heffingsaanslag moet bevatten:
 
 6° het betalingstijdstip en informatie over de wijze van betaling;  
 
-7° de vermelding van de mogelijkheid van bezwaar met inachtneming van [artikel 3:45 van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).       
+7° de vermelding van de mogelijkheid van bezwaar met inachtneming van artikel 3:45 van de Algemene wet bestuursrecht.       
 3.  
 
 a. De secretaris kan, namens het bestuur, de termijn van inzending van de gegevens als bedoeld in artikel 3 of 4, op verzoek van een ondernemer verlengen met een termijn die de secretaris redelijk acht.  
@@ -142,17 +142,17 @@ b. De secretaris kan, namens het bestuur, besluiten om de administratieheffing, 
 a.De voorzitter is, namens het bestuur, belast met het beslissen op bezwaarschriften tegen besluiten, als bedoeld in het tweede lid met inachtneming van het bepaalde in de Algemene wet bestuursrecht, waarbij de voorzitter, namens het bestuur, uitvoering kan geven aan het bepaalde in het eerste tot en met het vierde lid door primaire besluiten en voorschotten al dan niet ambtshalve te herroepen, in te trekken, opnieuw op te leggen of vrijstellingen te verlenen conform het bepaalde in de verordeningen van het bestuur, welke door de beslissing op bezwaar geraakt worden.
 
 b.De voorzitter of de secretaris kunnen, namens het bestuur, bij toepassing en uitvoering van de artikelen 2 tot en met 10 van deze verordening, bijkomende beschikkingen nemen omtrent verrekening van verschillende verschuldigde heffingen, uitstel van betaling of gehele of gedeeltelijke kwijtschelding.   
-6.  De voorzitter is, namens het bestuur, belast met het beslissen op verzoeken om in te stemmen met rechtstreeks beroep bij de administratieve rechter tegen besluiten, als bedoeld in het tweede lid met inachtneming van het bepaalde in de [Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+6.  De voorzitter is, namens het bestuur, belast met het beslissen op verzoeken om in te stemmen met rechtstreeks beroep bij de administratieve rechter tegen besluiten, als bedoeld in het tweede lid met inachtneming van het bepaalde in de Algemene wet bestuursrecht.   
 7.  De voorzitter kan in afwijking van het vierde lid, namens het bestuur, de heffingsplichtige ondernemer op diens verzoek bij de indiening van zijn bezwaarschrift: 
 
 a. in bijzondere omstandigheden (ter beoordeling van de voorzitter) uitstel van betaling verlenen van de vastgestelde en opgelegde heffing(en), als bedoeld in het tweede lid, totdat de beslissing op het bezwaarschrift door de voorzitter is genomen;  
 
-b. een vergoeding toekennen als bedoeld in [artikel 7:15 Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);  
+b. een vergoeding toekennen als bedoeld in artikel 7:15 Algemene wet bestuursrecht;  
 
 c. ingeval beroep is ingesteld tegen een beslissing op het bezwaarschrift, in bijzondere omstandigheden (ter beoordeling van de voorzitter) uitstel van betaling verlenen van de vastgestelde en opgelegde heffing(en), als bedoeld in het tweede lid, totdat de bevoegde rechter uitspraak heeft gedaan.     
 8.  De secretaris kan in afwijking van het eerste lid, namens het bestuur, de heffingsplichtige ondernemer vrijstellen van heffingen die uit hoofde van een heffingsverordening verschuldigd zijn indien het totaal van de door deze ondernemer verschuldigde huishoudelijke en bestemmingsheffing(en) minder is dan € 10,-.   
 9.  De voorzitter is, namens het bestuur, belast met het kenbaar maken en stellen van nadere eisen aan het gebruik van de elektronische weg bij het verkeer van berichten tussen ondernemers en het productschap met betrekking tot het bepaalde in de onderhavige verordening met inachtneming van het bepaalde in de Algemene wet bestuursrecht.  
-10. De secretaris of de voorzitter kunnen ondermandaat verlenen voor de aan hen gemandateerde bevoegdheden overeenkomstig het bepaalde in de [Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).
+10. De secretaris of de voorzitter kunnen ondermandaat verlenen voor de aan hen gemandateerde bevoegdheden overeenkomstig het bepaalde in de Algemene wet bestuursrecht.
 
 ### §  5  
 
@@ -169,7 +169,7 @@ b. slechts worden verwerkt ter vervulling van een taak van het productschap dan 
 c. niet onder vermelding of aanduiding van de persoon of de onderneming, waarop zij betrekking hebben, worden verwerkt ten behoeve van of aan anderen dan de voorzitter, de secretaris, het personeel van het secretariaat van het productschap, zo mede de door het bestuur met de controle op het financiële beheer van het productschap belaste accountant en zijn personeel, voor zover het kennis nemen van de gegevens voor die controle noodzakelijk is.     
 2.  Verwerking van gegevens, anders als bedoeld in het eerste lid, blijft ook achterwege in gevallen, waarin uit de aard der gegevens of uit één of meer andere omstandigheden zou kunnen blijken, op welke persoon of onderneming de gegevens betrekking hebben.   
 3.  Het geven van voorschriften, als bedoeld in artikel 2, eerste lid onder 1, en het geven van toepassing aan het bepaalde in artikel 2, eerste lid onder 2, geschiedt slechts met betrekking tot een doel, hetwelk verband houdt met de vervulling van de taak van het productschap.   
-4.  Namens het bestuur stelt de voorzitter bij besluit een functionaris voor de gegevensbescherming vanuit het secretariaat van het productschap aan, welke binnen het secretariaat van het productschap toezicht houdt op de verwerking en beveiliging van gegevens en daarmee ook op de toepassing en naleving van de [Wet bescherming persoonsgegevens](../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) en [artikel 93, derde lid, van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md).  
+4.  Namens het bestuur stelt de voorzitter bij besluit een functionaris voor de gegevensbescherming vanuit het secretariaat van het productschap aan, welke binnen het secretariaat van het productschap toezicht houdt op de verwerking en beveiliging van gegevens en daarmee ook op de toepassing en naleving van de Wet bescherming persoonsgegevens en artikel 93, derde lid, van de Wet op de bedrijfsorganisatie.  
 
 ### Artikel  12  
 
@@ -228,12 +228,12 @@ Op overtreding van het bij of krachtens artikel 2 van deze verordening bepaalde 
 
 ### Artikel  16  
 
-Het [Besluit aanwijzing gemandateerde rechtspersonen](../../../../../../../../pbo/besluit/aanwijzing/gemandateerde/rechtspersonen/BWBR0018873/README.md) van 13 oktober 2005, houdende de uitvoering van [artikel 13, vierde lid, van de Heffingsverordening 2006](../../../../../../../../pbo/heffingsverordening/2006/BWBR0018872/README.md) (gepubliceerd in het Verordeningenblad Bedrijfsorganisatie van 16 december 2005, afl. 72, VIS 17) blijft van kracht totdat conform artikel 5, vierde lid, een nieuw besluit is vastgesteld. 
+Het Besluit aanwijzing gemandateerde rechtspersonen van 13 oktober 2005, houdende de uitvoering van artikel 13, vierde lid, van de Heffingsverordening 2006 (gepubliceerd in het Verordeningenblad Bedrijfsorganisatie van 16 december 2005, afl. 72, VIS 17) blijft van kracht totdat conform artikel 5, vierde lid, een nieuw besluit is vastgesteld. 
 
 ### Artikel  17  
 
 1.  Deze verordening kan worden aangehaald als Verordening Algemene Bepalingen Productschap Vis 2006.   
-2.  De [Verordening Algemene Bepalingen Productschap Vis 2000](../../../../../../../../pbo/verordening/algemene/bepalingen/productschap/vis/2000/BWBR0011125/README.md) (gepubliceerd in het Verordeningenblad Bedrijfsorganisatie van 3 mei 2002, afl. 25, VIS 29) wordt ingetrokken.   
+2.  De Verordening Algemene Bepalingen Productschap Vis 2000 (gepubliceerd in het Verordeningenblad Bedrijfsorganisatie van 3 mei 2002, afl. 25, VIS 29) wordt ingetrokken.   
 3.  Deze verordening treedt in werking met ingang van de dag na bekendmaking in het Verordeningenblad Bedrijfsorganisatie. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 31 december 2006, treedt deze verordening in werking met ingang van de dag na de datum van uitgifte van het Verordeningenblad Bedrijfsorganisatie en werkt deze terug tot en met 1 januari 2007.  
 
 Rijswijk 

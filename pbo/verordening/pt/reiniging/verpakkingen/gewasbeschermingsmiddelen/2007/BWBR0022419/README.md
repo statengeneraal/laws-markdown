@@ -3,7 +3,7 @@
 ##Besluit van het bestuur van het Productschap Tuinbouw van d.d. 27 maart 2007, houdende regels omtrent de reiniging van verpakkingen van gewasbeschermingsmiddelen (Verordening PT reiniging verpakkingen gewasbeschermingsmiddelen 2007)
 
 Het bestuur van het Productschap Tuinbouw,  
-gelet op [artikelen 93](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [102](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [104](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [106](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en gelet op de [artikelen 12](../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md) en [13 van de Instellingsbesluit Productschap Tuinbouw 2003](../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md);
+gelet op artikelen 93, 95, 102, 104, 106 en 126, tweede lid, van de Wet op de bedrijfsorganisatie, en gelet op de artikelen 12 en 13 van de Instellingsbesluit Productschap Tuinbouw 2003;
 
 gehoord de Commissie voor bloemkwekerijproducten d.d. 9 november 2005;
 
@@ -24,14 +24,14 @@ Materieel uitgewerkt per 21-12-2008
 ### Artikel  1  
 Materieel uitgewerkt per 21-12-2008 
 
-1.  In deze verordening en de daarop berustende bepalingen worden overgenomen de begripsbepalingen van de [artikelen 1](../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md) en [2 van het Instellingsbesluit Productschap Tuinbouw](../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md).   
-2.  In deze verordening worden overgenomen de begripsbepalingen van [artikel 1:1 van de Verordening PT algemene bepalingen 2006](../../../../../../../../pbo/verordening/pt/algemene/bepalingen/2006/BWBR0020002/README.md).   
+1.  In deze verordening en de daarop berustende bepalingen worden overgenomen de begripsbepalingen van de artikelen 1 en 2 van het Instellingsbesluit Productschap Tuinbouw.   
+2.  In deze verordening worden overgenomen de begripsbepalingen van artikel 1:1 van de Verordening PT algemene bepalingen 2006.   
 3.  In deze verordening en de daarop berustende bepalingen wordt verstaan onder:  
 
 | --- | --- | --- |
 |:---|:---|:---|
 | a.  | ondernemer:  | de natuurlijke of rechtspersoon die een onderneming drijft waarvoor het hoofdproductschap is ingesteld;  |
-| b.  | gewasbeschermings-  middelen  | gewasbeschermingsmiddelen als bedoeld in [artikel 1, eerste lid, onderdeel g van de Bestrijdingsmiddelenwet 1962](../../../../../../../../wet/bestrijdingsmiddelenwet/1962/BWBR0002380/README.md), op de verpakking waarvan de vermelding voorkomt: ‘Deze verpakking is bedrijfsafval, mits deze is schoongespoeld zoals wettelijk is voorgeschreven’.  |
+| b.  | gewasbeschermings-  middelen  | gewasbeschermingsmiddelen als bedoeld in artikel 1, eerste lid, onderdeel g van de Bestrijdingsmiddelenwet 1962, op de verpakking waarvan de vermelding voorkomt: ‘Deze verpakking is bedrijfsafval, mits deze is schoongespoeld zoals wettelijk is voorgeschreven’.  |
 
 ### §  2  
 

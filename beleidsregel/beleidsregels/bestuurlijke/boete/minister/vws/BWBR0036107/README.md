@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 12 december 2012, kenmerk 696876-130455-IGZ, houdende de vaststelling van beleidsregels inzake het opleggen van bestuurlijke boetes (Beleidsregels bestuurlijke boete Minister VWS)
+##Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 12 december 2014, kenmerk 696876-130455-IGZ, houdende de vaststelling van beleidsregels inzake het opleggen van bestuurlijke boetes (Beleidsregels bestuurlijke boete Minister VWS)
 
 De Minister van Volksgezondheid, Welzijn en Sport,  
 Gelet op artikel 4:81, eerste lid, van de Algemene wet bestuursrecht, artikel 9 van de Kwaliteitswet zorginstellingen, artikel 9a van de Opiumwet, artikel 19a van de Wet afbreking zwangerschap, artikel 100 van de Wet op de beroepen in de individuele gezondheidszorg, artikel 70a van de Wet bijzondere opnemingen in psychiatrische ziekenhuizen, artikel 19a van de Wet inzake bloedvoorziening, artikel 3b van de Wet klachtrecht cliënten zorgsector, artikel 14 van de Wet op de medische hulpmiddelen, artikel 101 van de Geneesmiddelenwet en artikel 20a van de Wet veiligheid en kwaliteit lichaamsmateriaal;

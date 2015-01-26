@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Granen, Zaden en Peulvruchten van 2 november 2006, houdende vaststelling bestemmingsheffing ten behoeve van de structuurversterking van de bakkerij voor het jaar 2007 (Verordening GZP structuurversterking bakkerij jaar 2007)
 
 Het bestuur van het Productschap Granen, Zaden en Peulvruchten;  
-Gelet op de [artikelen 93](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126, eerste en vierde lid, van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en de [artikelen 8](../../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md) en [19 van het Instellingsbesluit akkerbouwproductschappen](../../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md);
+Gelet op de artikelen 93, 95 en 126, eerste en vierde lid, van de Wet op de bedrijfsorganisatie en de artikelen 8 en 19 van het Instellingsbesluit akkerbouwproductschappen;
 Besluit:     
 ### §  1  
 
@@ -22,10 +22,10 @@ Deze verordening verstaat onder:
 | b.  | secretaris  | secretaris van het productschap;  |
 | c.  | onderneming  | natuurlijke- of rechtspersoon die een onderneming drijft waarvoor het productschap is ingesteld;  |
 | d.  | meel en/of bloem van granen  | alle producten geheel of gedeeltelijk bereid uit granen ongeacht de naam, welke kunnen worden gebruikt bij het bereiden van bakkerijproducten;  |
-| e.  | brood  | de eetwaar bedoeld in [artikel 1, lid d van het Warenwetbesluit Meel en Brood](../../../../../../../../AMvB/warenwetbesluit/meel/en/brood/BWBR0009669/README.md), al dan niet aangevuld met andere ingrediënten, alsmede deze eetwaar in ongebakken of voorgebakken staat;  |
+| e.  | brood  | de eetwaar bedoeld in artikel 1, lid d van het Warenwetbesluit Meel en Brood, al dan niet aangevuld met andere ingrediënten, alsmede deze eetwaar in ongebakken of voorgebakken staat;  |
 | f.  | banket  | gebak toebereid met slagroom, banketbakkersroom of een dergelijke grondstof dan wel met vers of gesteriliseerd fruit, alsmede ander gebak, koekjes, ragoutwerk, consumptie-ijs chocolade- of suikerwerkartikelen;  |
 | g.  | bakkerijproducten  | geheel of gedeeltelijk gebakken dan wel ongebakken producten gedefinieerd onder brood en banket;  |
-| h.  | commissie  | de in [artikel 10 van het Instellingsbesluit akkerbouwproductschappen](../../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md) bedoelde Commissie Brood en Banket.  |
+| h.  | commissie  | de in artikel 10 van het Instellingsbesluit akkerbouwproductschappen bedoelde Commissie Brood en Banket.  |
 
 ### §  2  
 
@@ -103,7 +103,7 @@ b. dat hij meel en/of bloem van granen heeft afgeleverd aan bedrijven, waarin me
 c. dat hij meel en/of bloem van granen heeft afgeleverd aan bedrijven, welke naar het oordeel van het productschap behoren tot de bloemverwerkende industrie;  
 
 d. dat hij meel en/of bloem van granen in verpakkingen van ten hoogste 2½ kilogram heeft afgeleverd voor huishoudelijk gebruik.     
-5.  Het in het vierde lid bedoelde verzoek moet worden gedaan met een bij het productschap te verkrijgen formulier. Wanneer de secretaris dat nodig acht, dient tevens een door de externe accountant afgegeven verklaring ter zake te worden overgelegd. De [Verordening GZP algemene bepalingen 2003](../../../../../../../../pbo/verordening/gzp/algemene/bepalingen/2003/BWBR0014665/README.md) is hierbij van toepassing.  
+5.  Het in het vierde lid bedoelde verzoek moet worden gedaan met een bij het productschap te verkrijgen formulier. Wanneer de secretaris dat nodig acht, dient tevens een door de externe accountant afgegeven verklaring ter zake te worden overgelegd. De Verordening GZP algemene bepalingen 2003 is hierbij van toepassing.  
 
 ### Artikel  6  
 
@@ -122,7 +122,7 @@ b. dat hij meel en/of bloem van granen heeft verwerkt in bakkerijproducten, welk
 c. dat hij meel en/of bloem van granen in verpakkingen van ten hoogste 2½ kilogram heeft afgeleverd voor huishoudelijk gebruik.     
 4.  Het in het derde lid bedoelde verzoek moet worden gedaan met een bij het productschap te verkrijgen formulier. Wanneer de secretaris dat nodig acht, dient tevens een door een externe accountant afgegeven verklaring te worden overgelegd.   
 5.  Degene die een in het eerste lid bedoelde onderneming drijft, waarin meel en/of bloem van granen wordt verwerkt tot bakkerijproducten niet zijnde brood, kan verzoeken om restitutie van de heffing voor het aandeel van het meel en/of bloem van granen dat is verwerkt tot bakkerijproducten niet zijnde brood, indien aan de voorwaarde is voldaan, dat op jaarbasis bezien ten minste 250 ton meel en/of bloem van granen tot bakkerijproducten niet zijnde brood wordt verwerkt.   
-6.  Het in het vijfde lid bedoelde verzoek moet worden gedaan met een bij het productschap te verkrijgen formulier. Wanneer de secretaris dat nodig acht, dient tevens een door een externe accountant afgegeven verklaring ter zake te worden overgelegd. De [Verordening GZP algemene bepalingen 2003](../../../../../../../../pbo/verordening/gzp/algemene/bepalingen/2003/BWBR0014665/README.md) is hierbij van toepassing.  
+6.  Het in het vijfde lid bedoelde verzoek moet worden gedaan met een bij het productschap te verkrijgen formulier. Wanneer de secretaris dat nodig acht, dient tevens een door een externe accountant afgegeven verklaring ter zake te worden overgelegd. De Verordening GZP algemene bepalingen 2003 is hierbij van toepassing.  
 
 ### §  4  
 
@@ -133,7 +133,7 @@ Materieel uitgewerkt per 06-04-2008
 ### Artikel  7  
 Materieel uitgewerkt per 06-04-2008 
 
-1.  Indien de heffingsplichtige de gegevens, bedoeld in de artikelen 3, 4, 5 of 6, waarbij de [Verordening GZP algemene bepalingen 2003](../../../../../../../../pbo/verordening/gzp/algemene/bepalingen/2003/BWBR0014665/README.md) van toepassing is, niet, niet tijdig of naar het oordeel van de secretaris niet volledig heeft verstrekt, is de secretaris bevoegd namens het bestuur de verschuldigde heffing ambtshalve bij aanslag vast te stellen.   
+1.  Indien de heffingsplichtige de gegevens, bedoeld in de artikelen 3, 4, 5 of 6, waarbij de Verordening GZP algemene bepalingen 2003 van toepassing is, niet, niet tijdig of naar het oordeel van de secretaris niet volledig heeft verstrekt, is de secretaris bevoegd namens het bestuur de verschuldigde heffing ambtshalve bij aanslag vast te stellen.   
 2.  Indien de heffingsplichtige binnen 21 dagen na ontvangst van de heffingsaanslag bedoeld in het eerste lid, alsnog de gevraagde gegevens verstrekt, wordt de aanvankelijk vastgestelde heffing ingetrokken en een nieuwe heffing vastgesteld op basis van de door hem verstrekte gegevens.   
 3.  Indien het productschap, op verzoek van de ondernemer nadat de termijn genoemd in het tweede lid is verstreken, alsnog overgaat tot wijziging van de ambtshalve vastgestelde heffing, kunnen de voor het productschap daaruit voortvloeiende extra kosten in rekening worden gebracht.  
 
@@ -157,7 +157,7 @@ Het productschap kan besluiten nota's van minder dan € 50,– samen te voegen
 ### Artikel  10  
 Materieel uitgewerkt per 06-04-2008 
 
-Aan de ondernemer die niet of niet geheel binnen de in artikel 8 gestelde termijn heeft betaald, kan door het productschap de wettelijke interest over het niet betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md). 
+Aan de ondernemer die niet of niet geheel binnen de in artikel 8 gestelde termijn heeft betaald, kan door het productschap de wettelijke interest over het niet betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie. 
 
 ### Artikel  11 
 Materieel uitgewerkt per 06-04-2008 
@@ -178,7 +178,7 @@ Materieel uitgewerkt per 06-04-2008
 ### Artikel  12  
 Materieel uitgewerkt per 06-04-2008 
 
-Deze verordening treedt in werking met ingang van 1 januari 2007. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 januari 2007, treedt zij in werking met ingang van de tweede dag na de dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt terug tot en met 1 januari 2007, met uitzondering van de toepassing van de [Verordening GZP algemene bepalingen 2003](../../../../../../../../pbo/verordening/gzp/algemene/bepalingen/2003/BWBR0014665/README.md). 
+Deze verordening treedt in werking met ingang van 1 januari 2007. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 januari 2007, treedt zij in werking met ingang van de tweede dag na de dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt terug tot en met 1 januari 2007, met uitzondering van de toepassing van de Verordening GZP algemene bepalingen 2003. 
 
 ### Artikel  13  
 Materieel uitgewerkt per 06-04-2008 

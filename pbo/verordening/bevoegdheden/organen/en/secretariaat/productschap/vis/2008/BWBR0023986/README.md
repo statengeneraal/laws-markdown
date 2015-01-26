@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Vis van 27 maart 2008 tot vaststelling van nadere regels betreffende de werkwijze van de organen en het secretariaat van het Productschap Vis alsmede tot intrekking van de Verordening bevoegdheden organen en secretariaat Productschap Vis 2006 (Verordening bevoegdheden organen en secretariaat Productschap Vis 2008)
 
 Het bestuur van het Productschap Vis;  
-Gelet op [titel 10.1 van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), de [artikelen 92](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [95 van de Wet op de bedrijfsorganisatie](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), de [artikelen 5](../../../../../../../../../../AMvB/instellingsbesluit/productschap/vis/BWBR0015163/README.md) en [6 van het Instellingsbesluit Productschap Vis](../../../../../../../../../../AMvB/instellingsbesluit/productschap/vis/BWBR0015163/README.md) (Stb. 2003, 253) en de Code Goed Bestuur;
+Gelet op titel 10.1 van de Algemene wet bestuursrecht, de artikelen 92 en 95 van de Wet op de bedrijfsorganisatie, de artikelen 5 en 6 van het Instellingsbesluit Productschap Vis (Stb. 2003, 253) en de Code Goed Bestuur;
 Besluit:    
 
 ### Artikel  1  
@@ -12,15 +12,15 @@ Voor de toepassing van het bepaalde bij deze verordening wordt verstaan onder:
 
 | --- | --- | --- | --- |
 |:---|:---|:---|:---|
-|a. |Instellingsbesluit Productschap Vis |: |[Besluit van 3 juni 2003, houdende instelling van Productschap Vis een productschap voor ondernemingen op het gebied van de visserij, de be- en verwerking van vis en de handel in vis en visproducten](../../../../../../../../../../AMvB/instellingsbesluit/productschap/vis/BWBR0015163/README.md) (Stb. 2003, 253); |
-|b. |productschap |: |het Productschap Vis, als bedoeld in [artikel 3 van het Instellingsbesluit Productschap Vis](../../../../../../../../../../AMvB/instellingsbesluit/productschap/vis/BWBR0015163/README.md); |
+|a. |Instellingsbesluit Productschap Vis |: |Besluit van 3 juni 2003, houdende instelling van Productschap Vis een productschap voor ondernemingen op het gebied van de visserij, de be- en verwerking van vis en de handel in vis en visproducten (Stb. 2003, 253); |
+|b. |productschap |: |het Productschap Vis, als bedoeld in artikel 3 van het Instellingsbesluit Productschap Vis; |
 |c. |bestuur |: |het bestuur van het productschap; |
 |d. |dagelijks bestuur |: |het dagelijks bestuur van het productschap; |
 |e. |voorzitter |: |de voorzitter van het productschap; |
 |f. |secretaris |: |de secretaris van het productschap; |
 |g. |secretariaat |: |de hoofdvestiging te Rijswijk en de bijkantoren te Yerseke en bij de visafslagen; |
-|h. |commissie |: |een commissie welke door het bestuur uit zijn midden is samengesteld als; bedoeld in [artikel 88 van de Wet op de bedrijfsorganisatie](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), hetzij een adviescommissie welke door het bestuur niet of niet volledig is samengesteld uit zijn midden, hetzij een werkgroep welke door een commissie niet of niet volledig uit haar midden is samengesteld; |
-|i. |medebewindsorganisatie |: |voorziening van de productschappen als bedoeld in het [Besluit gemeenschappelijke medebewindsorganisatie productschappen 2012](../../../../../../../../../../pbo/besluit/gemeenschappelijke/medebewindsorganisatie/productschappen/2012/BWBR0032109/README.md); |
+|h. |commissie |: |een commissie welke door het bestuur uit zijn midden is samengesteld als; bedoeld in artikel 88 van de Wet op de bedrijfsorganisatie, hetzij een adviescommissie welke door het bestuur niet of niet volledig is samengesteld uit zijn midden, hetzij een werkgroep welke door een commissie niet of niet volledig uit haar midden is samengesteld; |
+|i. |medebewindsorganisatie |: |voorziening van de productschappen als bedoeld in het Besluit gemeenschappelijke medebewindsorganisatie productschappen 2012; |
 |j. |manager medebewind |: |de manager van de medebewindsorganisatie. |
 
 ####Commissies
@@ -57,7 +57,7 @@ j. de mogelijkheid om deskundigen uit te nodigen.
 4.  Adviezen en besluiten strekkende tot instelling van een werkgroep van een commissie, voor zover geen betrekking hebbende op individuele verzoeken of aanvragen, worden voorzien van de handtekeningen van de voorzitter en de secretaris van de commissie. Adviezen betrekking hebbende op individuele verzoeken of aanvragen worden voorzien van de handtekening van de secretaris van de commissie.   
 5.  De secretaris van een commissie doet te allen tijde schriftelijk mededeling aan het bestuur van de uitgebrachte adviezen. Deze mededeling is voorzien van een schriftelijke motivatie over de inhoud van het advies.   
 6.  Ingeval van ontstentenis van de secretaris van een commissie wijst de secretaris een tijdelijke plaatsvervanger aan.   
-7.  De commissies adviseren in ieder geval jaarlijks voorafgaande aan de behandeling van de begroting voor het komende jaar door het dagelijks bestuur over de voor de desbetreffende deelsector gewenste heffingsgrondslagen en hoogten van de heffingen in de verordeningen, als bedoeld in [artikel 126 van de Wet op de bedrijfsorganisatie](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md). Het bestuur is voor de vaststelling van deze verordeningen gehouden bij afwijking van een advies van een commissie gemotiveerd aan te geven wat de reden van afwijking is.  
+7.  De commissies adviseren in ieder geval jaarlijks voorafgaande aan de behandeling van de begroting voor het komende jaar door het dagelijks bestuur over de voor de desbetreffende deelsector gewenste heffingsgrondslagen en hoogten van de heffingen in de verordeningen, als bedoeld in artikel 126 van de Wet op de bedrijfsorganisatie. Het bestuur is voor de vaststelling van deze verordeningen gehouden bij afwijking van een advies van een commissie gemotiveerd aan te geven wat de reden van afwijking is.  
 
 ### Artikel  4  
 
@@ -76,15 +76,15 @@ b. wordt hiervan onverwijld mededeling gedaan aan het bestuur, het dagelijks bes
 
 1.  Het dagelijks bestuur is, namens het bestuur, bevoegd om te beslissen over de bestemming van de middelen, bedoeld in: 
 
-a. [artikel 4 van de Verordening instelling van een fonds voor de aanvoersector 2007](../../../../../../../../../../pbo/verordening/instelling/van/een/fonds/voor/de/aanvoersector/2007/BWBR0023230/README.md);  
+a. artikel 4 van de Verordening instelling van een fonds voor de aanvoersector 2007;  
 
-b. [artikel 4 van de Verordening instelling van een fonds voor promotie 2007](../../../../../../../../../../pbo/verordening/instelling/van/een/fonds/voor/promotie/2007/BWBR0023232/README.md);  
+b. artikel 4 van de Verordening instelling van een fonds voor promotie 2007;  
 
-c. [artikel 4 van de Verordening instelling van een fonds voor de mosselsector 2007](../../../../../../../../../../pbo/verordening/instelling/van/een/fonds/voor/de/mosselsector/2007/BWBR0023229/README.md);  
+c. artikel 4 van de Verordening instelling van een fonds voor de mosselsector 2007;  
 
-d. [artikel 4 van de Verordening instelling van een fonds voor de groothandelssector 2007](../../../../../../../../../../pbo/verordening/instelling/van/een/fonds/voor/de/groothandelssector/2007/BWBR0023228/README.md);  
+d. artikel 4 van de Verordening instelling van een fonds voor de groothandelssector 2007;  
 
-e. [artikel 4 van de Verordening instelling van een fonds voor de detailhandel 2007](../../../../../../../../../../pbo/verordening/instelling/van/een/fonds/voor/de/detailhandel/2007/BWBR0023224/README.md).     
+e. artikel 4 van de Verordening instelling van een fonds voor de detailhandel 2007.     
 2.  Bij de bestemming van de middelen, bedoeld in het vorige lid, dient te allen tijde voldaan te worden aan de voorwaarden gesteld in de Europese en nationale regelingen met betrekking tot steun- en subsidieverlening.   
 3.  In afwijking van artikel 3, vijfde lid, wordt door de secretaris van een commissie de schriftelijke mededeling van adviezen ten aanzien van de besteding van de middelen aan het dagelijks bestuur gedaan. Ook deze mededeling is te allen tijden voorzien van een schriftelijke motivatie.   
 4.  In afwijking van het eerste lid kan het dagelijks bestuur door de secretaris of door de secretaris van de desbetreffende commissie middels een schriftelijke ronde onder de leden gevraagd worden omtrent een specifiek onderwerp te adviseren of in te stemmen binnen de gestelde redelijke termijn. Indien geen reactie wordt gegeven voor het verstrijken van de gestelde termijn, wordt het desbetreffende lid geacht instemming of positief advies te hebben verleend.  
@@ -97,7 +97,7 @@ e. [artikel 4 van de Verordening instelling van een fonds voor de detailhandel 2
 2.  De secretaris heeft tot taak leiding te geven aan de personen in dienst van het productschap en aan de publiekrechtelijke en privaatrechtelijke activiteiten van het secretariaat van het productschap en zijn organen, en is met inachtneming van de met de privaatrechtelijke organisaties gesloten overeenkomsten tot het verrichten van enkele diensten verantwoordelijk voor de personele bezetting en de facilitaire ondersteuning van deze secretariaten.   
 3.  De secretaris ziet toe op een juiste uitvoering van de tussen het productschap en de private organisaties gesloten overeenkomsten tot het verrichten van enkele diensten aangaande de werkzaamheden van deze private organisaties van de ter zake doende wet- en regelgeving.   
 4.  De secretaris ziet toe op de werkzaamheden van de secretarissen van de commissies ter afstemming en om te waarborgen dat een juiste en volledige toepassing van Europese en nationale regelgeving plaatsvindt.   
-5.  De secretaris valt onder het begrip bestuurder, bedoeld in [artikel 1 van de Wet op de ondernemingsraden](../../../../../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md), als degene die de hoogste zeggenschap uitoefent bij de leiding van de arbeid en is uit dien hoofde bevoegd tot het nemen van beslissingen in het kader van arbeidsvoorwaarden, arbeidsomstandigheden, arbeidsplekken, arbeidsaangelegenheden, de fysieke inrichting van werkplekken en hiermee verband houdende benodigde technische verbouwingen, alsmede de verdere invulling en het doen van ter zake van toepassing zijnde uitgaven.   
+5.  De secretaris valt onder het begrip bestuurder, bedoeld in artikel 1 van de Wet op de ondernemingsraden, als degene die de hoogste zeggenschap uitoefent bij de leiding van de arbeid en is uit dien hoofde bevoegd tot het nemen van beslissingen in het kader van arbeidsvoorwaarden, arbeidsomstandigheden, arbeidsplekken, arbeidsaangelegenheden, de fysieke inrichting van werkplekken en hiermee verband houdende benodigde technische verbouwingen, alsmede de verdere invulling en het doen van ter zake van toepassing zijnde uitgaven.   
 6.  De regeling voor studiekosten en studiefaciliteiten, alsmede de vergoeding van reis- en verblijfkosten in geval van dienstreizen en de tegemoetkoming in de kosten van woon-werkverkeer vinden plaats volgens bij besluit van de secretaris vast te stellen regelen na instemming van de ondernemingsraad.   
 
 ### Artikel  7  
@@ -106,7 +106,7 @@ e. [artikel 4 van de Verordening instelling van een fonds voor de detailhandel 2
 
 a. het tijdig kenbaar maken aan de bestuursleden en bedrijfsgenoten van het vergaderschema van vergaderingen en voorgenomen conceptbesluiten van het bestuur en het dagelijks bestuur;  
 
-b. het bekendmaken van ontwerpen van verordeningen, welke voor personen, als bedoeld in [artikel 10 van de Wet op de bedrijfsorganisatie](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), bindende regels inhouden, op de krachtens [die wet](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) omschreven wijze;  
+b. het bekendmaken van ontwerpen van verordeningen, welke voor personen, als bedoeld in artikel 10 van de Wet op de bedrijfsorganisatie, bindende regels inhouden, op de krachtens die wet omschreven wijze;  
 
 c. ontwerpen van verordeningen hetzij ter kennis brengen van het bestuur, hetzij aan het bestuur ter vaststelling aanbieden;  
 
@@ -157,31 +157,31 @@ h. de Bureaucoördinator Mosselkantoor, voor zover het betreft de beleidsmatige 
 
 ### Artikel  10  
 
-1.  De manager medebewind is, namens het bestuur, bevoegd om de benodigde handelingen en beschikkingen of besluiten te nemen als bedoeld in [artikel 1:3 van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) ter uitvoering van het bepaalde bij of krachtens de hieronder genoemde regelingen of daarop gebaseerde verordeningen van het bestuur en bevoegd om de benodigde beschikkingen of besluiten te nemen als bedoeld in artikel 1:3 van de Algemene wet bestuursrecht: 
+1.  De manager medebewind is, namens het bestuur, bevoegd om de benodigde handelingen en beschikkingen of besluiten te nemen als bedoeld in artikel 1:3 van de Algemene wet bestuursrecht ter uitvoering van het bepaalde bij of krachtens de hieronder genoemde regelingen of daarop gebaseerde verordeningen van het bestuur en bevoegd om de benodigde beschikkingen of besluiten te nemen als bedoeld in artikel 1:3 van de Algemene wet bestuursrecht: 
 
-a. de [Regeling medebewind Gemeenschappelijk Landbouwbeleid](../../../../../../../../../../ministeriele-regeling/regeling/medebewind/gemeenschappelijk/landbouwbeleid/BWBR0020360/README.md); 
+a. de Regeling medebewind Gemeenschappelijk Landbouwbeleid; 
 
-b. de [Visserijwet 1963](../../../../../../../../../../wet/visserijwet/1963/BWBR0002416/README.md). 
-2.  De bevoegdheid tot het stellen van nadere regelen bij besluit ter uitvoering van een verordening van het bestuur gebaseerd op [artikel 97 van de Wet op de bedrijfsorganisatie](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) in mandaat namens het bestuur is voorbehouden aan de voorzitter en bij diens ontstentenis een plaatsvervangend voorzitter. 
+b. de Visserijwet 1963. 
+2.  De bevoegdheid tot het stellen van nadere regelen bij besluit ter uitvoering van een verordening van het bestuur gebaseerd op artikel 97 van de Wet op de bedrijfsorganisatie in mandaat namens het bestuur is voorbehouden aan de voorzitter en bij diens ontstentenis een plaatsvervangend voorzitter. 
 3.  De voorzitter is bevoegd om beslissingen op bezwaar tegen besluiten van de manager medebewind te nemen en om namens het bestuur de primaire besluiten van de manager medebewind te wijzigen of in te trekken. 
-4.  De voorzitter is, namens het bestuur, bevoegd om uitvoering aan [artikel 10:6 van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) te geven. 
+4.  De voorzitter is, namens het bestuur, bevoegd om uitvoering aan artikel 10:6 van de Algemene wet bestuursrecht te geven. 
 
 ### Artikel  11  
 
 1.  Ingeval van ontstentenis van de bij Koninklijk Besluit benoemde voorzitter treedt de vice-voorzitter in de bevoegdheden van de voorzitter.   
-2.  Aan het bepaalde in het eerste lid wordt in ieder geval toepassing gegeven indien de voorzitter, namens het bestuur, reeds een besluit als bedoeld in [artikel 1:3 van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) of een beslissing op bezwaar, waarbij een nieuw besluit is genomen, heeft genomen en op grond van [artikel 10:3, derde lid, van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) mandaat voor de beslissing op het bezwaar, namens het bestuur, aan een ander dient te worden gegeven.   
+2.  Aan het bepaalde in het eerste lid wordt in ieder geval toepassing gegeven indien de voorzitter, namens het bestuur, reeds een besluit als bedoeld in artikel 1:3 van de Algemene wet bestuursrecht of een beslissing op bezwaar, waarbij een nieuw besluit is genomen, heeft genomen en op grond van artikel 10:3, derde lid, van de Algemene wet bestuursrecht mandaat voor de beslissing op het bezwaar, namens het bestuur, aan een ander dient te worden gegeven.   
 3.  De voorzitter stelt ten behoeve van de dagelijkse gang van zaken binnen het secretariaat een procuratieregeling op voor de privaatrechtelijke financiële, feitelijke en rechtshandelingen.  
-4. De voorzitter is bevoegd om beschikkingen of besluiten te nemen als bedoeld in [titel 4.2 Subsidies van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).
+4. De voorzitter is bevoegd om beschikkingen of besluiten te nemen als bedoeld in titel 4.2 Subsidies van de Algemene wet bestuursrecht.
 
 ###Artikel  11a 
 
 1.  Voor het bepaalde in de artikelen 6 en 7 is de manager medebewind verantwoordelijk en bevoegd voor zover het de medebewindsorganisatie betreft. De manager medebewind kan de uitvoering van deze taken opdragen aan functionarissen van de medebewindsorganisatie. 
-2.  De manager medebewind kan voor de aan hem in artikel 10 gemandateerde bevoegdheden overeenkomstig het bepaalde in de [Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) ondermandaat of afdoeningsmandaat verlenen aan functionarissen van de medebewindsorganisatie en is bevoegd om per geval of in het algemeen instructies te geven ter zake van de uitoefening van het ondermandaat met inachtneming van instructies die door de voorzitter op grond van artikel 10, vierde lid, zijn gegeven.
+2.  De manager medebewind kan voor de aan hem in artikel 10 gemandateerde bevoegdheden overeenkomstig het bepaalde in de Algemene wet bestuursrecht ondermandaat of afdoeningsmandaat verlenen aan functionarissen van de medebewindsorganisatie en is bevoegd om per geval of in het algemeen instructies te geven ter zake van de uitoefening van het ondermandaat met inachtneming van instructies die door de voorzitter op grond van artikel 10, vierde lid, zijn gegeven.
 
 ### Artikel  12  
 
 1.  Deze verordening kan worden aangehaald als Verordening bevoegdheden organen en secretariaat Productschap Vis 2008.   
-2.  De [Verordening bevoegdheden organen en secretariaat Productschap Vis 2006](../../../../../../../../../../pbo/verordening/bevoegdheden/organen/en/secretariaat/productschap/vis/2006/BWBR0020423/README.md) wordt ingetrokken.   
+2.  De Verordening bevoegdheden organen en secretariaat Productschap Vis 2006 wordt ingetrokken.   
 3.  Deze verordening treedt in werking met ingang van de dag na bekendmaking in het Verordeningenblad Bedrijfsorganisatie.  
 
 Rijswijk 

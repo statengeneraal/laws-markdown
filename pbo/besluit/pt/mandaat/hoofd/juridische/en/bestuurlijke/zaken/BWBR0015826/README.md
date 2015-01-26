@@ -3,9 +3,9 @@
 ##Besluit van de voorzitter van het Productschap Tuinbouw, d.d. 31 oktober 2003, houdende regels met betrekking tot de mandatering van het hoofd van de afdeling juridische en bestuurlijke zaken van het Productschap Tuinbouw (Besluit PT mandaat hoofd juridische en bestuurlijke zaken)
 
 DE VOORZITTER,
-gelet op [artikel 107 van de Wet op de bedrijfsorganisatie](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+gelet op artikel 107 van de Wet op de bedrijfsorganisatie;
 
-gelet op [artikel 10:3 van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) (hierna: Awb);
+gelet op artikel 10:3 van de Algemene wet bestuursrecht (hierna: Awb);
 BESLUIT:
 
 ###Artikel 1 
@@ -14,11 +14,11 @@ Aan het hoofd van de afdeling juridische en bestuurlijke zaken wordt mandaat ver
 
 ###Artikel 2 
 
-Aan het hoofd van de afdeling juridische en bestuurlijke zaken wordt mandaat verleend om namens de voorzitter besluiten op bezwaarschriften te nemen welke zijn gericht tegen een beschikking, in de zin van [artikel 1:3, tweede lid van de Awb](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), van het Productschap Tuinbouw, genomen:
+Aan het hoofd van de afdeling juridische en bestuurlijke zaken wordt mandaat verleend om namens de voorzitter besluiten op bezwaarschriften te nemen welke zijn gericht tegen een beschikking, in de zin van artikel 1:3, tweede lid van de Awb, van het Productschap Tuinbouw, genomen:
 
 a.krachtens enige verordening en/of een besluit van het Productschap Tuinbouw, dan wel
 
-b.in de uitoefening van, op grond van de [Overdrachtsregeling bevoegdheden Landbouwwet 1966 Algemeen](../../../../../../../../../../ministeriele-regeling/overdrachtsregeling/bevoegdheden/landbouwwet/1966/algemeen/BWBR0002543/README.md), medebewindstaken in het kader van Europese regelgeving en/of in verband daarmee aanvullende verordeningen en/of besluiten van het Productschap Tuinbouw.Uitgezonderd zijn de gevallen als bedoeld in [artikel 10:3, tweede lid van de Awb](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).
+b.in de uitoefening van, op grond van de Overdrachtsregeling bevoegdheden Landbouwwet 1966 Algemeen, medebewindstaken in het kader van Europese regelgeving en/of in verband daarmee aanvullende verordeningen en/of besluiten van het Productschap Tuinbouw.Uitgezonderd zijn de gevallen als bedoeld in artikel 10:3, tweede lid van de Awb.
 
 ###Artikel 3 
 

@@ -23,11 +23,11 @@
 
 a. onroerende zaken,  
 
-b. zeeschepen waarvan de bruto-inhoud tenminste twintig kubieke meters of de bruto-tonnage tenminste 6 bedraagt, die te boek staan of die te boek gesteld kunnen worden in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md),  
+b. zeeschepen waarvan de bruto-inhoud tenminste twintig kubieke meters of de bruto-tonnage tenminste 6 bedraagt, die te boek staan of die te boek gesteld kunnen worden in de openbare registers, bedoeld in afdeling 2 van titel 1 van Boek 3,  
 
-c. binnenschepen die te boek staan of die te boek gesteld moeten worden doch niet te boek staan in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md),  
+c. binnenschepen die te boek staan of die te boek gesteld moeten worden doch niet te boek staan in de openbare registers, bedoeld in afdeling 2 van titel 1 van Boek 3,  
 
-d. luchtvaartuigen die te boek staan in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md).     
+d. luchtvaartuigen die te boek staan in de openbare registers, bedoeld in afdeling 2 van titel 1 van Boek 3.     
 5.  Het in deze titel bepaalde vindt overeenkomstige toepassing op vermogensrechten, niet zijnde registergoederen, voor zover dat in overeenstemming is met de aard van het recht.  
 
 ### Artikel  1576a  
@@ -90,7 +90,7 @@ Ter zake van huurkoop kan de koper, indien hij bij het aangaan van de overeenkom
 
 ### Artikel  1576l  
 
-1.  De verkoper is verplicht de verkochte zaak aan de koper te leveren door aan deze de macht over de zaak te verschaffen. Op zijn verdere verplichtingen zijn de bepalingen van de [eerste](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [tweede](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en [derde afdeling van titel 1 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) van toepassing.    
+1.  De verkoper is verplicht de verkochte zaak aan de koper te leveren door aan deze de macht over de zaak te verschaffen. Op zijn verdere verplichtingen zijn de bepalingen van de eerste, tweede en derde afdeling van titel 1 van Boek 7 van toepassing.    
 2.  Vervreemding door den verkooper van de in huurkoop afgeleverde zaak werkt niet ten nadeele van den huurkooper.   
 
 ### Artikel  1576m  
@@ -98,7 +98,7 @@ Ter zake van huurkoop kan de koper, indien hij bij het aangaan van de overeenkom
 1.  De kooper heeft van de zaak, die hij krachtens huurkoop onder zich heeft, het genot, ook voordat hij den eigendom daarvan verkrijgt.    
 2.  Hij mag de zaak gebruiken overeenkomstig hare bestemming.    
 3.  Hare gedaante of inrichting mag hij niet veranderen, noch de zaak verhuren of zijn genot aan anderen afstaan.   
-4.  De zaak is voor risico van de koper van de aflevering af. De [leden 2, 3 en 4 van artikel 10 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) zijn van toepassing.   
+4.  De zaak is voor risico van de koper van de aflevering af. De leden 2, 3 en 4 van artikel 10, alsmede artikel 11 van Boek 7 zijn van toepassing.   
 5.  Van deze bepalingen kan bij overeenkomst worden afgeweken. Van lid 4 kan echter bij een consumentenkoop niet ten nadele van de koper worden afgeweken.   
 
 ### Artikel  1576n  
@@ -226,7 +226,7 @@ Maatschappen zijn of algeheel, of bijzonder.
 
 ### Artikel  1658  
 
-De wet kent slechts de algeheele maatschap van winst. Zij verbiedt alle maatschappen, het zij van alle de goederen, het zij van een bepaald gedeelte van dezelve, onder eenen algemeenen titel; onverminderd de bepalingen, vastgesteld in den [zevenden](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) en [achtsten titel van het eerste boek van dit Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md).  
+De wet kent slechts de algeheele maatschap van winst. Zij verbiedt alle maatschappen, het zij van alle de goederen, het zij van een bepaald gedeelte van dezelve, onder eenen algemeenen titel; onverminderd de bepalingen, vastgesteld in den zevenden en achtsten titel van het eerste boek van dit Wetboek.  
 
 ### Artikel  1659  
 
@@ -340,8 +340,8 @@ Een maatschap wordt ontbonden:
 ### Artikel  1684  
 
 1.  De rechter kan op vordering van ieder der vennoten de maatschap wegens gewichtige redenen ontbinden.    
-2.  Een zodanige ontbinding heeft geen terugwerkende kracht. De rechter kan de vordering toewijzen onder door hem te stellen voorwaarden en een partij die in de naleving van haar verplichtingen is tekortgeschoten, met overeenkomstige toepassing van [artikel 277 van Boek 6](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) tot schadevergoeding veroordelen.    
-3.  De [artikelen 265-279 van Boek 6](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) zijn op een maatschap niet van toepassing.   
+2.  Een zodanige ontbinding heeft geen terugwerkende kracht. De rechter kan de vordering toewijzen onder door hem te stellen voorwaarden en een partij die in de naleving van haar verplichtingen is tekortgeschoten, met overeenkomstige toepassing van artikel 277 van Boek 6 tot schadevergoeding veroordelen.    
+3.  De artikelen 265-279 van Boek 6 zijn op een maatschap niet van toepassing.   
 
 ### Artikel  1686  
 
@@ -401,7 +401,7 @@ De uitleener blijft eigenaar van de geleende zaak.
 
 ### Artikel  1780  
 
-1.  De verbintenissen, welke uit de bruiklening voortspruiten, gaan over op de erfgenamen van degene die ter leen geeft, onderscheidenlijk zijn echtgenoot of geregistreerde partner in het geval zijn nalatenschap overeenkomstig [artikel 13 van Boek 4](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md) wordt verdeeld, en van hem die ter leen ontvangt.   
+1.  De verbintenissen, welke uit de bruiklening voortspruiten, gaan over op de erfgenamen van degene die ter leen geeft, onderscheidenlijk zijn echtgenoot of geregistreerde partner in het geval zijn nalatenschap overeenkomstig artikel 13 van Boek 4 wordt verdeeld, en van hem die ter leen ontvangt.   
 2.  Maar indien men de uitleening gedaan heeft alleen uit aanmerking van dengenen die ter leen ontvangt, en aan deszelfs persoon in het bijzonder, kunnen deszelfs erfgenamen het verder genot van de geleende zaak niet blijven behouden.   
 
 ### Tweede  afdeeling  
@@ -598,6 +598,6 @@ In geen geval, kan hij die het verlorene vrijwillig betaald heeft hetzelve terug
 
 ### Artikel  2031  
 
-1.  De [Algemene termijnenwet](../../../../../../wet/algemene/termijnenwet/BWBR0002448/README.md) is niet van toepassing op de termijnen, gesteld in de [artikelen 280, onder b](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), en [281, tweede lid van Boek 1](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) en [252 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), alsmede in [titel 10 van Boek 7](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md).    
-2.  Onder algemeen erkende feestdagen worden in dit wetboek verstaan de in [artikel 3 van de Algemene termijnenwet](../../../../../../wet/algemene/termijnenwet/BWBR0002448/README.md) als zodanig genoemde en de bij of krachtens dat artikel daarmede gelijkgestelde dagen.   
+1.  De Algemene termijnenwet is niet van toepassing op de termijnen, gesteld in de artikelen 280, onder b, en 281, tweede lid van Boek 1 en 252 van Boek 3, alsmede in titel 10 van Boek 7.    
+2.  Onder algemeen erkende feestdagen worden in dit wetboek verstaan de in artikel 3 van de Algemene termijnenwet als zodanig genoemde en de bij of krachtens dat artikel daarmede gelijkgestelde dagen.   
 

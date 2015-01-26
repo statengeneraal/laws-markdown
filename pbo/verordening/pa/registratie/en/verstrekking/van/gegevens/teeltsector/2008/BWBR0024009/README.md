@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Akkerbouw van 27 maart 2008 houdende regels over de registratie en verstrekking van gegevens van de onder het Productschap Akkerbouw ressorterende ondernemers (Verordening PA registratie en verstrekking van gegevens teeltsector 2008)
 
 Het bestuur van het Productschap Akkerbouw;  
-Gelet op de [artikelen 93](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [104, eerste en derde lid, van de Wet op de bedrijfsorganisatie](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op de [artikelen 8](../../../../../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md), [17](../../../../../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md) en [18 van het Instellingsbesluit akkerbouwproductschappen](../../../../../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md);
+Gelet op de artikelen 93, 95, 104, eerste en derde lid, van de Wet op de bedrijfsorganisatie en op de artikelen 8, 17 en 18 van het Instellingsbesluit akkerbouwproductschappen;
 
 Gehoord de Commissie Teeltaangelegenheden;
 Besluit:     
@@ -29,8 +29,8 @@ Deze verordening verstaat onder:
 | --- | --- | --- | 2  | afgebakken aardappelproducten (producten ex GN-code 2005 20 20)  |
 | --- | --- | --- | 3  | gedroogde aardappelproducten (producten ex GN-code 1105 10 00 onderscheidenlijk 1105 20 00 onderscheidenlijk 0712 90 05 onderscheidenlijk 2004 10 91 onderscheidenlijk 2005 20 10)  |
 | --- | --- | --- | 4  | overige aardappelproducten (producten ex GN-code 2004 10 99 onderscheidenlijk 0710 10 00 onderscheidenlijk 0711 90 80);  |
-| j.  | Standaardopbrengst  | :  | de standaardwaarde van de brutoproductie, zoals deze bij de laatste in de Nederlandse Staatscourant gepubliceerde [Regeling landbouwtelling en gecombineerde opgave](../../../../../../../../../../../ministeriele-regeling/regeling/landbouwtelling/en/gecombineerde/opgave/2011/BWBR0029777/README.md) ingevolge de [artikelen 24](../../../../../../../../../../../wet/landbouwwet/BWBR0002252/README.md) en [25 van de Landbouwwet](../../../../../../../../../../../wet/landbouwwet/BWBR0002252/README.md) wordt toegepast;   |
-| k.  | gecombineerde opgave  | :  | een opgaveset waarmee door de ondernemer opgave wordt gedaan voor landbouwtelling, gebruik gewaspercelen en verzamelaanvraag, bedoeld in [artikel 25 van de Landbouwwet](../../../../../../../../../../../wet/landbouwwet/BWBR0002252/README.md);  |
+| j.  | Standaardopbrengst  | :  | de standaardwaarde van de brutoproductie, zoals deze bij de laatste in de Nederlandse Staatscourant gepubliceerde Regeling landbouwtelling en gecombineerde opgave ingevolge de artikelen 24 en 25 van de Landbouwwet wordt toegepast;   |
+| k.  | gecombineerde opgave  | :  | een opgaveset waarmee door de ondernemer opgave wordt gedaan voor landbouwtelling, gebruik gewaspercelen en verzamelaanvraag, bedoeld in artikel 25 van de Landbouwwet;  |
 | l.  | bedrijfskaart(en)  | :  | een kaart waarop de door de ondernemer gebruikte gewaspercelen staan aangegeven, alsmede de daarop geteelde of te telen gewassen;  |
 | m.  | Dienst Regelingen  | :  | Dienst van het Ministerie van Landbouw, Natuur en Voedselkwaliteit.  |
 
@@ -56,7 +56,7 @@ b. akkerbouw wordt uitgeoefend en waarvan de bedrijfsomvang ten minste gelijk is
 ### Artikel  3  
 
 1.  Dienst Regelingen wordt aangewezen als instantie, aan wie een mededeling als bedoeld in artikel 4, tweede en derde lid, dient te worden verstrekt.   
-2.  Dienst Regelingen is bevoegd de conform het eerste lid verkregen gegevens aan te wenden ten behoeve van het bepaalde in [artikel 24 van de Landbouwwet](../../../../../../../../../../../wet/landbouwwet/BWBR0002252/README.md).  
+2.  Dienst Regelingen is bevoegd de conform het eerste lid verkregen gegevens aan te wenden ten behoeve van het bepaalde in artikel 24 van de Landbouwwet.  
 
 ### Artikel  4  
 
@@ -86,7 +86,7 @@ e. overige aangelegenheden van belang voor een doelmatige registratie.
 
 a. naam, voornamen, geboortedatum en adres, dan wel wanneer de onderneming door een rechtspersoon wordt gedreven: de naam en het adres van de onderneming;  
 
-b. de oppervlakte van de bij de desbetreffende onderneming in gebruik zijnde grond, daaronder begrepen landbouwgrond als omschreven in [artikel 1 van de Meststoffenwet](../../../../../../../../../../../wet/meststoffenwet/BWBR0004054/README.md), één en ander overeenkomstig de bijlage;  
+b. de oppervlakte van de bij de desbetreffende onderneming in gebruik zijnde grond, daaronder begrepen landbouwgrond als omschreven in artikel 1 van de Meststoffenwet, één en ander overeenkomstig de bijlage;  
 
 c. de rechtsvorm van het grondgebruik;  
 

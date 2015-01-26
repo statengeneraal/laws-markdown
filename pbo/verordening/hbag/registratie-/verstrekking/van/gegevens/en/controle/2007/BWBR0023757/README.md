@@ -3,7 +3,7 @@
 ##Verordening van het Hoofdbedrijfschap voor de Agrarische Groothandel van 21 december 2006 houdende regeling van de registratie van ondernemingen waarin het bedrijf wordt uitgeoefend waarvoor het Hoofdbedrijfschap is ingesteld, alsmede verstrekking van gegevens en controle (Verordening HBAG registratie, verstrekking van gegevens en controle 2007)
 
 Het bestuur van het Hoofdbedrijfschap voor de Agrarische Groothandel,  
-gelet op de [artikelen 93](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [100](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [102](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [104 eerste en derde lid](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [106 van de Wet op de Bedrijfsorganisatie](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), de [artikelen 3](../../../../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md) en [11 van het Instellingsbesluit Hoofdbedrijfschap Agrarische Groothandel](../../../../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md) (Stb 2002, nr. 155), en het bepaalde in de [Wet bescherming persoonsgegevens](../../../../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md);
+gelet op de artikelen 93, 95, 100, 102, 104 eerste en derde lid en 106 van de Wet op de Bedrijfsorganisatie, de artikelen 3 en 11 van het Instellingsbesluit Hoofdbedrijfschap Agrarische Groothandel (Stb 2002, nr. 155), en het bepaalde in de Wet bescherming persoonsgegevens;
 
 Gehoord de commissie pootaardappelen, de commissie consumptie-, fabrieks- en voeraardappelen, de commissie bloemkwekerijproducten en de commissie groenten en fruit;
 Besluit:     
@@ -26,7 +26,7 @@ In deze verordening wordt overgenomen de terminologie van het Instellingsbesluit
 1.  Het hoofdbedrijfschap en haar commissies hebben een register waarin gegevens over ondernemingen en ondernemers alsmede van belang zijnde administratieve gegevens worden opgenomen. Het register is niet openbaar.   
 2.  In het geautomatiseerde systeem, waarin het register is opgenomen, kan eventueel ook worden opgenomen de ledenadministraties van rechtspersonen die gerechtigd zijn tot het benoemen van een lid/leden van een commissie.   
 3.  Het doel van het register is het hoofdbedrijfschap respectievelijk haar commissies in staat te stellen haar opgedragen taken naar behoren en efficiënt te kunnen vervullen.   
-4.  Op de verwerking van persoonsgevens in het register als in dit artikel bedoeld is de [Wet bescherming persoonsgegevens](../../../../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) van toepassing.   
+4.  Op de verwerking van persoonsgevens in het register als in dit artikel bedoeld is de Wet bescherming persoonsgegevens van toepassing.   
 5.  De secretaris van het hoofdbedrijfschap en de secretarissen van de commissies zijn verantwoordelijk voor de inhoud van het betreffende register, het gebruik van de gegevens, alsmede de uitvoering van overige beheerstaken ingevolge de Wet bescherming persoonsgegevens en dragen ervoor zorg dat deze wet en deze verordening worden nageleefd.   
 6.  Het beheer van het register berust bij het hoofd en de medewerkers van de afdeling registratie van het hoofdbedrijfschap respectievelijk van de commissies. Zij hebben rechtstreeks toegang tot het betrokken systeem.   
 7.  De ter beschikking van het hoofdbedrijfschap en de commissies staande gegevens, voor zover deze kennelijk van vertrouwelijke aard zijn, mogen voor zover bij of krachtens de wet niet anders is bepaald, zonder toestemming van de betrokken belanghebbende: 
@@ -59,7 +59,7 @@ f) andere door het bestuur van het hoofdbedrijfschap c.q. van een commissie aan 
 
 a) de omzet van aardappelen in geld of naar hoeveelheid en al dan niet naar land van herkomst c.q. bestemming, welke de onderneming, eventueel gesplitst naar diverse functies, in een bepaalde periode of op een bepaald tijdstip heeft behaald;  
 
-b) de onderwerpen bedoeld in [artikel 11 van het Instellingsbesluit Hoofdbedrijfschap Agrarische Groothandel](../../../../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md).     
+b) de onderwerpen bedoeld in artikel 11 van het Instellingsbesluit Hoofdbedrijfschap Agrarische Groothandel.     
 3.  Ten aanzien van de sector van de bloemkwekerijproducten worden onder de door het bestuur van de commissie bloemkwekerijproducten aan te wijzen gegevens die van belang zijn voor de vervulling van de taak van die commissie, een en ander als bedoeld in het eerste lid sub f, in ieder geval de volgende gegevens begrepen: 
 
 a) de handelsactiviteiten van de onderneming, in de volgende rubrieken onderverdeeld: bedrijfstype, afnemerstype, productgroep;  
@@ -199,7 +199,7 @@ g) een combinatie van de hiervoor genoemde bronnen.
 
 ### Artikel  9  
 
-Deze verordening vervangt de [HBAG-Registratie-, enquête- en controleverordening 2003](../../../../../../../../../../../pbo/hbag-registratie-/enquête-/en/controleverordening/2003/BWBR0014580/README.md). 
+Deze verordening vervangt de HBAG-Registratie-, enquête- en controleverordening 2003. 
 
 ### Artikel  10  
 

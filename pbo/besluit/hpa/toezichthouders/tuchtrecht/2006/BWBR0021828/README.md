@@ -3,7 +3,7 @@
 ##Besluit van het bestuur van het Hoofdproductschap Akkerbouw van 9 november 2006 tot aanwijzing van toezichthouders (Besluit HPA toezichthouders tuchtrecht 2006)
 
 Het bestuur van het Hoofdproductschap Akkerbouw;  
-Gelet op [artikel 104, derde lid, Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [afdeling 5.2 Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);
+Gelet op artikel 104, derde lid, Wet op de bedrijfsorganisatie en afdeling 5.2 Algemene wet bestuursrecht;
 Besluit:    
 
 ### Artikel  1  
@@ -16,7 +16,7 @@ Besluit:
 ### Artikel  2  
 
 1.  Dit besluit wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie en treedt in werking de tweede dag na publicatie in het Verordeningenblad Bedrijfsorganisatie.   
-2.  Het [besluit HPA toezichthouders tuchtrecht 2003](../../../../../../../pbo/besluit/hpa/toezichthouders/tuchtrecht/2003/BWBR0015226/README.md) (PBO-blad 29-08-03, nr. HPA 41), het [besluit HPA toezichthouders tuchtrecht 2004](../../../../../../../pbo/besluit/hpa/toezichthouders/tuchtrecht/2004/BWBR0016483/README.md) (PBO-blad 29-04-04, nr. HPA 5), het [besluit HPA aanwijzing IAD als toezichthouder tuchtrecht](../../../../../../../pbo/besluit/hpa/aanwijzing/iad/als/toezichthouder/tuchtrecht/2004/BWBR0017503/README.md) (PBO-blad 03-12-04, nr. HPA 17), het [besluit HPA toezichthouders tuchtrecht 2005](../../../../../../../pbo/besluit/hpa/toezichthouders/tuchtrecht/2005/BWBR0018089/README.md) (PBO-blad 01-07-05, nr. HPA 36) en het [besluit HPA aanwijzing BKD Services als toezichthouder tuchtrecht 2006](../../../../../../../pbo/besluit/hpa/aanwijzing/bkd/services/als/toezichthouder/tuchtrecht/2006/BWBR0019638/README.md) (PBO-blad, 30-06-06, nr. HPA 32) worden alsdan ingetrokken.  
+2.  Het besluit HPA toezichthouders tuchtrecht 2003 (PBO-blad 29-08-03, nr. HPA 41), het besluit HPA toezichthouders tuchtrecht 2004 (PBO-blad 29-04-04, nr. HPA 5), het besluit HPA aanwijzing IAD als toezichthouder tuchtrecht (PBO-blad 03-12-04, nr. HPA 17), het besluit HPA toezichthouders tuchtrecht 2005 (PBO-blad 01-07-05, nr. HPA 36) en het besluit HPA aanwijzing BKD Services als toezichthouder tuchtrecht 2006 (PBO-blad, 30-06-06, nr. HPA 32) worden alsdan ingetrokken.  
 
 Den Haag 
 9 november 2006   
@@ -29,30 +29,30 @@ secretaris   Goedgekeurd door de Minister van Landbouw, Natuur en Voedselkwalite
 
 ### Bijlage  
 
-1. [Verordening HPA algemene bepalingen 2003](../../../../../../../pbo/verordening/hpa/algemene/bepalingen/2003/BWBR0014834/README.md)  
+1. Verordening HPA algemene bepalingen 2003  
 
-2. [Verordening HPA registratie en verstrekking van gegevens 2003](../../../../../../../pbo/verordening/hpa/registratie/en/verstrekking/van/gegevens/2003/BWBR0014846/README.md)  
+2. Verordening HPA registratie en verstrekking van gegevens 2003  
 
 3. Verordening HPA bestrijding knolcyperus 2003  
 
-4. [Verordening HPA reiniging verpakkingen gewasbeschermingsmiddelen 2003](../../../../../../../pbo/verordening/hpa/reiniging/verpakkingen/gewasbeschermingsmiddelen/2003/BWBR0014837/README.md)  
+4. Verordening HPA reiniging verpakkingen gewasbeschermingsmiddelen 2003  
 
-5. [Verordening HPA gebruik verdeelapparatuur bij gewasbeschermingsmiddelen 2003](../../../../../../../pbo/verordening/hpa/gebruik/verdeelapparatuur/van/gewasbeschermingsmiddelen/etc/BWBR0014853/README.md)  
+5. Verordening HPA gebruik verdeelapparatuur bij gewasbeschermingsmiddelen 2003  
 
-6. [Verordening HPA bestrijding vergelingsziekte bij bieten 2003](../../../../../../../pbo/verordening/hpa/bestrijding/vergelingsziekte/bij/bieten/2003/BWBR0014838/README.md)  
+6. Verordening HPA bestrijding vergelingsziekte bij bieten 2003  
 
-7. [Verordening HPA bestrijding wilde haver 2003](../../../../../../../pbo/verordening/hpa/bestrijding/wilde/haver/2003/BWBR0014852/README.md)  
+7. Verordening HPA bestrijding wilde haver 2003  
 
-8. [Verordening HPA aardappelmoeheid 2003](../../../../../../../pbo/verordening/hpa/aardappelmoeheid/2003/BWBR0014842/README.md)  
+8. Verordening HPA aardappelmoeheid 2003  
 
-9. [Verordening HPA aardappelteelt 2003](../../../../../../../pbo/verordening/hpa/aardappelteelt/2003/BWBR0014840/README.md)  
+9. Verordening HPA aardappelteelt 2003  
 
-10. [Verordening HPA bestrijding Phytophthora infestans bij aardappelen 2003](../../../../../../../pbo/verordening/hpa/bestrijding/phytophthora/infestans/bij/aardappelen/2003/BWBR0014851/README.md)  
+10. Verordening HPA bestrijding Phytophthora infestans bij aardappelen 2003  
 
-11. [Verordening HPA wratziekte 2003](../../../../../../../pbo/verordening/hpa/wratziekte/2003/BWBR0014836/README.md)/Verordening HPA wratziekte 2006  
+11. Verordening HPA wratziekte 2003/Verordening HPA wratziekte 2006  
 
-12. [Verordening HPA bestrijding valse meeldauw bij uien 2004](../../../../../../../pbo/verordening/hpa/bestrijding/valse/meeldauw/bij/uien/2004/BWBR0017502/README.md)  
+12. Verordening HPA bestrijding valse meeldauw bij uien 2004  
 
 13. Verordening HPA coëxistentie teelt 2005  
 
-14. [Verordening HPA erosiebestrijding landbouwgronden 2003](../../../../../../../pbo/verordening/hpa/erosiebestrijding/landbouwgronden/2003/BWBR0014850/README.md)   
+14. Verordening HPA erosiebestrijding landbouwgronden 2003   

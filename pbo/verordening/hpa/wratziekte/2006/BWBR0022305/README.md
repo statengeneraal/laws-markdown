@@ -3,7 +3,7 @@
 ## Verordening van het Hoofdproductschap Akkerbouw van 9 november 2006 houdende regels over maatregelen ter voorkoming van wratziekte bij aardappelen (verordening HPA wratziekte 2006)
 
 Het bestuur van het Hoofdproductschap Akkerbouw;  
-Gelet op de [artikelen 93](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [104, eerste en derde lid](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [106](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op de [artikelen 3](../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md), [5](../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md), [17](../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md) en [18 van het Instellingsbesluit akkerbouwproductschappen](../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md);
+Gelet op de artikelen 93, 95, 104, eerste en derde lid, 106 en 126, tweede lid, van de Wet op de bedrijfsorganisatie en op de artikelen 3, 5, 17 en 18 van het Instellingsbesluit akkerbouwproductschappen;
 
 Gehoord de Commissie Aardappelen;
 Besluit:     
@@ -36,11 +36,11 @@ Deze verordening verstaat onder:
 
 ### Artikel  2  
 
-1.  Het is de ondernemer met ingang van 1 januari 2008 verboden op een perceel, in daartoe in bijlage 1 onder A aangewezen gebieden, zetmeelaardappelen, als opgenomen in de [bijlage onder A van de Verordening HPA aardappelteelt 2003](../../../../../../pbo/verordening/hpa/aardappelteelt/2003/BWBR0014840/README.md), te telen, tenzij zij behoren tot een ras, zoals genoemd in bijlage 1 onder B.   
+1.  Het is de ondernemer met ingang van 1 januari 2008 verboden op een perceel, in daartoe in bijlage 1 onder A aangewezen gebieden, zetmeelaardappelen, als opgenomen in de bijlage onder A van de Verordening HPA aardappelteelt 2003, te telen, tenzij zij behoren tot een ras, zoals genoemd in bijlage 1 onder B.   
 2. 
 a. Het is de ondernemer verboden op een perceel, in een daartoe in bijlage 2 onder A aangewezen gebied, aardappelplanten te telen, tenzij zij behoren tot een ras, als genoemd in bijlage 2 onder C1. Voor de teelt van pootaardappelen geldt dat tevens het telen van de in bijlage 2 onder C2 vermelde rassen toegestaan is;  
 
-b. Het is de ondernemer verboden op een perceel, in een daartoe in bijlage 2 onder B aangewezen gebied, zetmeelaardappelen, als opgenomen in de [bijlage onder A van de Verordening HPA aardappelteelt 2003](../../../../../../pbo/verordening/hpa/aardappelteelt/2003/BWBR0014840/README.md), te telen, tenzij zij behoren tot een ras als genoemd in bijlage 2 onder C 1.     
+b. Het is de ondernemer verboden op een perceel, in een daartoe in bijlage 2 onder B aangewezen gebied, zetmeelaardappelen, als opgenomen in de bijlage onder A van de Verordening HPA aardappelteelt 2003, te telen, tenzij zij behoren tot een ras als genoemd in bijlage 2 onder C 1.     
 3.  Het is de ondernemer verboden op een perceel, in een daartoe in bijlage 3 onder A aangewezen gebied, aardappelplanten te telen, tenzij zij behoren tot een ras, zoals genoemd in bijlage 3 onder B.   
 4.  De in het eerste, tweede en derde lid bedoelde gebieden betreffen niet de door de Minister van Landbouw, Natuur en Voedselkwaliteit op basis van het Besluit bestrijding wratziekte aangewezen terreinen, waarbinnen of waarop de aanwezigheid van de wratziekte of de schimmel is aangetoond of de wratziekte dreigt op te treden.  
 
@@ -69,7 +69,7 @@ Overtredingen van het bepaalde bij of krachtens deze verordening worden aangewez
 
 ### Artikel  6  
 
-De [verordening HPA wratziekte 2003](../../../../../../pbo/verordening/hpa/wratziekte/2003/BWBR0014836/README.md) wordt ingetrokken. 
+De verordening HPA wratziekte 2003 wordt ingetrokken. 
 
 ### Artikel  7  
 

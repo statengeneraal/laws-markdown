@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Akkerbouw van 5 juni 2008 houdende regels ter zake van subsidies voor de structuurversterking voor de sector brood en banket (Verordening PA subsidies structuurversterking brood en banket 2008)
 
 Het bestuur van het Productschap Akkerbouw;  
-Gelet op de [artikelen 92](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [106, eerste lid](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en [123 van de Wet op de bedrijfsorganisatie](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), op de [artikelen 8](../../../../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md), [17](../../../../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md) en [18 van het Instellingsbesluit Akkerbouwproductschappen](../../../../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md) en op [artikel 4:23, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);
+Gelet op de artikelen 92, 95, 106, eerste lid, en 123 van de Wet op de bedrijfsorganisatie, op de artikelen 8, 17 en 18 van het Instellingsbesluit Akkerbouwproductschappen en op artikel 4:23, eerste lid, van de Algemene wet bestuursrecht;
 Besluit:     
 ### §  1  
 
@@ -18,7 +18,7 @@ In deze verordening wordt verstaan onder:
 | a.  | productschap  | :  | Productschap Akkerbouw;  |
 | b.  | bestuur  | :  | bestuur van het productschap;  |
 | c.  | dagelijks bestuur  | :  | dagelijks bestuur van het productschap;  |
-| d.  | commissie  | :  | de in [artikel 10 van het Instellingsbesluit akkerbouwproductschappen](../../../../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md) bedoelde Commissie Brood en Banket;  |
+| d.  | commissie  | :  | de in artikel 10 van het Instellingsbesluit akkerbouwproductschappen bedoelde Commissie Brood en Banket;  |
 | e.  | fonds  | :  | een door het productschap gevormd en tot het vermogen van het productschap behorend fonds ten behoeve van de in onderhavige verordening bedoelde subsidiemaatregelen;  |
 | f.  | subsidie  | :  | de aanspraak op financiële middelen, door het productschap verstrekt met het oog op bepaalde activiteiten van de aanvrager, anders dan als betaling voor aan het productschap geleverde goederen of diensten.  |
 

@@ -3,7 +3,7 @@
 ##Verordening van het Hoofdbedrijfschap Agrarische Groothandel van 21 december 2006 houdende regels over het beperken van de schimmelziekte Phytophthora infestans bij aardappelen (Verordening HBAG bestrijding Phytophthora infestans bij aardappelen 2007)
 
 Het bestuur van het Hoofdbedrijfschap Agrarische Groothandel;  
-Gelet op de [artikelen 93](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [102](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [104, eerste en derde lid](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [106 van de Wet op de bedrijfsorganisatie](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op de [artikelen 10](../../../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md), [11](../../../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md) en [12 van het Instellingsbesluit Hoofdbedrijfschap Agrarische Groothandel](../../../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md) (Stb. 2002, nr. 155);
+Gelet op de artikelen 93, 95, 102, 104, eerste en derde lid en 106 van de Wet op de bedrijfsorganisatie en op de artikelen 10, 11 en 12 van het Instellingsbesluit Hoofdbedrijfschap Agrarische Groothandel (Stb. 2002, nr. 155);
 
 Gehoord de commissie pootaardappelen en de commissie consumptie-, fabrieks- en voeraardappelen;
 Besluit:     
@@ -13,7 +13,7 @@ Besluit:
 
 ### Artikel  1  
 
-In deze verordening wordt overgenomen de terminologie van het [Instellingsbesluit Agrarische Groothandel](../../../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md) en wordt verder verstaan onder: aardappelen: planten van de soort Solanum Tuberosum. 
+In deze verordening wordt overgenomen de terminologie van het Instellingsbesluit Agrarische Groothandel en wordt verder verstaan onder: aardappelen: planten van de soort Solanum Tuberosum. 
 
 ### §  2  
 
@@ -56,7 +56,7 @@ Het bepaalde bij of krachtens artikel 2, waarbij aan ondernemers verplichtingen 
 
 ### Artikel  6  
 
-Deze verordening vervangt de [Verordening HBAG bestrijding Phytophthora infestans bij aardappelen 2003](../../../../../../../../../../pbo/verordening/hbag/bestrijding/phytophthora/infestans/bij/aardappelen/2003/BWBR0015895/README.md). 
+Deze verordening vervangt de Verordening HBAG bestrijding Phytophthora infestans bij aardappelen 2003. 
 
 ### Artikel  7  
 
