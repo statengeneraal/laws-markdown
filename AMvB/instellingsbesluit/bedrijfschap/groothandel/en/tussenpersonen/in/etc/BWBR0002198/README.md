@@ -6,7 +6,7 @@ Wij JULIANA, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Ministers voor Publiekrechtelijke Bedrijfsorganisatie, van Economische Zaken, van Landbouw, Visserij en Voedselvoorziening en van Sociale Zaken en Volksgezondheid van 19 September 1955, no. B 3209, Dir. W.J.A.;
 
-Overwegende, dat het wenselijk is overeenkomstig het door de Sociaal-Economische Raad op 22 April 1955 uit eigen beweging daartoe uitgebrachte advies over te gaan tot instelling van een bedrijfschap als bedoeld in de [Wet op de Bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) (*Stb.* 1950, K 22) voor ondernemingen op het gebied van de groothandel en de bedrijven van commissionnair en van tussenpersoon in aardappelen;
+Overwegende, dat het wenselijk is overeenkomstig het door de Sociaal-Economische Raad op 22 April 1955 uit eigen beweging daartoe uitgebrachte advies over te gaan tot instelling van een bedrijfschap als bedoeld in de Wet op de Bedrijfsorganisatie (*Stb.* 1950, K 22) voor ondernemingen op het gebied van de groothandel en de bedrijven van commissionnair en van tussenpersoon in aardappelen;
 
 Gelet op genoemde wet;
 
@@ -27,7 +27,7 @@ Hebben goedgevonden en verstaan:
 
 a. het bedrijf van het kopen van aardappelen met uitzondering van pootaardappelen, en het - al dan niet na stomen - verkopen daarvan aan wederverkopers of - tenzij dit geschiedt in verband met het verkopen van aardappelen aan particulieren - aan instellingen of aan personen, die het gekochte in een door hen gedreven onderneming aanwenden;  
 
-b. het bedrijf van het kopen van pootaardappelen en het verkopen daarvan aan wederverkopers of aan personen, die het gekochte in een door hen gedreven onderneming aanwenden, al dan niet tezamen met het verkopen van pootaardappelen aan particulieren;     *het bedrijf van tussenpersoon in aardappelen:* het bedrijf van het op naam van anderen sluiten van koop- en verkoopovereenkomsten met betrekking tot aardappelen of van het, anders dan door het houden van veilingen, bemiddelen bij het tot stand komen van zodanige koop- en verkoopovereenkomsten;   *aardappelen:* alle aardappelen, al dan niet gestoomd, ongeacht het doel, waarvoor zij zijn bestemd;   *wet:* de [Wet op de Bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) (*Stb.* 1950, K 22).   
+b. het bedrijf van het kopen van pootaardappelen en het verkopen daarvan aan wederverkopers of aan personen, die het gekochte in een door hen gedreven onderneming aanwenden, al dan niet tezamen met het verkopen van pootaardappelen aan particulieren;     *het bedrijf van tussenpersoon in aardappelen:* het bedrijf van het op naam van anderen sluiten van koop- en verkoopovereenkomsten met betrekking tot aardappelen of van het, anders dan door het houden van veilingen, bemiddelen bij het tot stand komen van zodanige koop- en verkoopovereenkomsten;   *aardappelen:* alle aardappelen, al dan niet gestoomd, ongeacht het doel, waarvoor zij zijn bestemd;   *wet:* de Wet op de Bedrijfsorganisatie (*Stb.* 1950, K 22).   
 3.   Dit besluit verstaat onder *groothandel* niet de aanvoer-, transito- en driehoekshandel en onder het *bedrijf van commissionnair of van tussenpersoon* niet het bedrijf van commissionnair of van tussenpersoon op het terrein van laatstbedoelde vormen van handel.  
 
 ### Artikel  3  

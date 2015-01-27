@@ -3,7 +3,7 @@
 ##Verordening van het bestuur van het Productschap Pluimvee en Eieren van 10 juni 2010 tot vaststelling van enkele voorschriften met betrekking tot de hygiëne van eieren (Verordening hygiënevoorschriften eieren (PPE) 2010)
 
 Het bestuur van het Productschap Pluimvee en Eieren;  
-Gelet op de [artikelen 93](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [102](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [104 van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en de [artikelen 6](../../../../../../../AMvB/instellingsbesluit/productschap/pluimvee/en/eieren/BWBR0016490/README.md) en [7 van het Instellingsbesluit Productschap Pluimvee en Eieren](../../../../../../../AMvB/instellingsbesluit/productschap/pluimvee/en/eieren/BWBR0016490/README.md),
+Gelet op de artikelen 93, 95, 102 en 104 van de Wet op de bedrijfsorganisatie, en de artikelen 6 en 7 van het Instellingsbesluit Productschap Pluimvee en Eieren,
 Besluit:    
 
 ###Artikel 1 
@@ -51,16 +51,16 @@ d.te gedogen dat door het bestuur aangewezen toezichthouders monsters nemen uit 
 1. De door het productschap uit hoofde van deze verordening verkregen gegevens omtrent ondernemingen worden in handen gesteld van de voorzitter; zij worden, behoudens aan personeelsleden van het secretariaat van het productschap, de diensten en personen als bedoeld in artikel 3 alsmede ten behoeve van de handhaving van het bepaalde in deze verordening, niet verder bekend gemaakt. 
 2. De in het eerste lid bedoelde diensten en personen zijn gehouden de op voet van het eerste lid verkregen gegevens vertrouwelijk te behandelen.
 3. De voorzitter kan, in afwijking van het bepaalde in het eerste lid, besluiten tot bekendmaking van getotaliseerde gegevens omtrent groepen van ondernemingen, doch nimmer op zodanige wijze dat daaruit gegevens omtrent een bepaalde onderneming kunnen worden afgeleid.
-4. Uit hoofde van deze verordening verkregen gegevens omtrent ondernemingen worden aan andere dan de in het eerste lid genoemde personen en instanties slechts verstrekt voor zover zulks in overeenstemming is met de [artikelen 8](../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) en [9 van de Wet bescherming persoonsgegevens](../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).
+4. Uit hoofde van deze verordening verkregen gegevens omtrent ondernemingen worden aan andere dan de in het eerste lid genoemde personen en instanties slechts verstrekt voor zover zulks in overeenstemming is met de artikelen 8 en 9 van de Wet bescherming persoonsgegevens.
 
 ###Artikel 5 
 
-Op overtreding van het bepaalde bij of krachtens deze verordening worden tuchtrechtelijke maatregelen gesteld zoals voorzien in de [Wet tuchtrechtspraak bedrijfsorganisatie 2004](../../../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md). 
+Op overtreding van het bepaalde bij of krachtens deze verordening worden tuchtrechtelijke maatregelen gesteld zoals voorzien in de Wet tuchtrechtspraak bedrijfsorganisatie 2004. 
 
 ###Artikel 6 
 
-1. De [Verordening hygiënevoorschriften eieren (PPE) 2005](../../../../../../../pbo/verordening/hygiënevoorschriften/eieren/(ppe)/2005/BWBR0018414/README.md) wordt ingetrokken.  
-2. Elke verwijzing naar de [Verordening hygiënevoorschriften eieren (PPE) 2005](../../../../../../../pbo/besluit/merkteken/gewassen/en/gereinigde/eieren/(ppe)/2005/BWBR0018415/README.md) in de regelgeving van het productschap wordt geacht te verwijzen naar de Verordening hygiënevoorschriften eieren (PPE) 2010. 
+1. De Verordening hygiënevoorschriften eieren (PPE) 2005 wordt ingetrokken.  
+2. Elke verwijzing naar de Verordening hygiënevoorschriften eieren (PPE) 2005 in de regelgeving van het productschap wordt geacht te verwijzen naar de Verordening hygiënevoorschriften eieren (PPE) 2010. 
 
 ###Artikel 7 
 

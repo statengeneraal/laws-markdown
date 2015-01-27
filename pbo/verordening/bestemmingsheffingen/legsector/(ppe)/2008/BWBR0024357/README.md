@@ -3,9 +3,9 @@
 ##Verordening van het Productschap Pluimvee en Eieren van 1 november 2007, houdende de vaststelling van een bestemmingsheffing ten behoeve van de legsector voor het jaar 2008 (Verordening bestemmingsheffingen legsector (PPE) 2008)
 
 Het bestuur van het Productschap Pluimvee en Eieren;  
-Gelet op [artikel 126 van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [artikel 8 van het Instellingsbesluit Productschap Pluimvee en Eieren](../../../../../../../AMvB/instellingsbesluit/productschap/pluimvee/en/eieren/BWBR0016490/README.md);
+Gelet op artikel 126 van de Wet op de bedrijfsorganisatie en artikel 8 van het Instellingsbesluit Productschap Pluimvee en Eieren;
 
-Gezien de [Verordening algemene bepalingen heffingen (PPE) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(ppe)/2005/BWBR0017350/README.md);
+Gezien de Verordening algemene bepalingen heffingen (PPE) 2005;
 Besluit:     
 ### 1  
 
@@ -16,15 +16,15 @@ Materieel uitgewerkt per 01-02-2009
 ### Artikel  1  
 Materieel uitgewerkt per 01-02-2009 
 
-Deze verordening neemt over de begripsbepalingen van de [Verordening algemene bepalingen heffingen (PPE) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(ppe)/2005/BWBR0017350/README.md) en verstaat voorts onder:  
+Deze verordening neemt over de begripsbepalingen van de Verordening algemene bepalingen heffingen (PPE) 2005 en verstaat voorts onder:  
 
 | --- | --- | --- | --- |
 |:---|:---|:---|:---|
-| 1.  | o. en o. fonds  | :  | het fonds als bedoeld in [artikel 1 van de Verordening fonds voor onderzoek en ontwikkeling PPE 2003](../../../../../../../pbo/verordening/fonds/voor/onderzoek/en/ontwikkeling/ppe/2003/BWBR0015225/README.md);  |
-| 2.  | afzetbevorderingsfonds  | :  | het fonds als bedoeld in [artikel 1 van de Verordening fonds afzetbevordering PPE 2003](../../../../../../../pbo/verordening/fonds/afzetbevordering/ppe/2003/BWBR0015222/README.md);  |
-| 3.  | kwaliteitsverbeteringsfonds  | :  | het fonds als bedoeld in [artikel 1 van de Verordening fonds voor kwaliteitsverbetering PPE 2003](../../../../../../../pbo/verordening/fonds/voor/kwaliteitsverbetering/ppe/2003/BWBR0015221/README.md);  |
-| 4.  | M.g. fonds  | :  | het fonds als bedoeld in [artikel 2 van de Verordening financieringsfonds ten behoeve van het ruimen van met M.g. besmette ouderdieren leg- en vleesrassen kippen (PPE) 2003](../../../../../../../pbo/verordening/financieringsfonds/ten/behoeve/van/het/ruimen/van/met/m.g./etc/BWBR0016064/README.md);  |
-| 5.  | gezondheidszorgfonds  | :  | het fonds als bedoeld in [artikel 1 van de Verordening fonds gezondheidszorg PPE 2003](../../../../../../../pbo/verordening/fonds/gezondheidszorg/ppe/2003/BWBR0015223/README.md).  |
+| 1.  | o. en o. fonds  | :  | het fonds als bedoeld in artikel 1 van de Verordening fonds voor onderzoek en ontwikkeling PPE 2003;  |
+| 2.  | afzetbevorderingsfonds  | :  | het fonds als bedoeld in artikel 1 van de Verordening fonds afzetbevordering PPE 2003;  |
+| 3.  | kwaliteitsverbeteringsfonds  | :  | het fonds als bedoeld in artikel 1 van de Verordening fonds voor kwaliteitsverbetering PPE 2003;  |
+| 4.  | M.g. fonds  | :  | het fonds als bedoeld in artikel 2 van de Verordening financieringsfonds ten behoeve van het ruimen van met M.g. besmette ouderdieren leg- en vleesrassen kippen (PPE) 2003;  |
+| 5.  | gezondheidszorgfonds  | :  | het fonds als bedoeld in artikel 1 van de Verordening fonds gezondheidszorg PPE 2003.  |
 
 ### 2  
 
@@ -148,7 +148,7 @@ De bestemmingsheffingen, bedoeld in de artikelen 2 tot en met 9, zijn bestemd vo
 ### Artikel  11  
 Materieel uitgewerkt per 01-02-2009 
 
-Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de [Verordening algemene bepalingen heffingen (PPE) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(ppe)/2005/BWBR0017350/README.md). 
+Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de Verordening algemene bepalingen heffingen (PPE) 2005. 
 
 ### 8  
 

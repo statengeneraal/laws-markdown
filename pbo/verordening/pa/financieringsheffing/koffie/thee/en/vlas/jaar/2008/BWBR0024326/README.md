@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Akkerbouw van 5 juni 2008, houdende regels ter zake van de aan de onder het Productschap Akkerbouw ressorterende ondernemers op te leggen heffing voor het jaar 2008 (Verordening PA financieringsheffing koffie, thee en vlas jaar 2008)
 
 Het bestuur van het Productschap Akkerbouw;  
-Gelet op de [artikelen 95](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 eerste lid van de Wet op de bedrijfsorganisatie](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), de [artikelen 8](../../../../../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md), [10](../../../../../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md) en [19 van het Instellingsbesluit akkerbouwproductschappen](../../../../../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md) en artikel 6 van de verordening PA bevoegdheden 2008;
+Gelet op de artikelen 95 en 126 eerste lid van de Wet op de bedrijfsorganisatie, de artikelen 8, 10 en 19 van het Instellingsbesluit akkerbouwproductschappen en artikel 6 van de verordening PA bevoegdheden 2008;
 
 Gehoord de Commissie Vlas;
 Besluit:     
@@ -40,7 +40,7 @@ Deze verordening verstaat onder:
 
 ### Artikel  3  
 
-Koffiebranders, theepakkers en handelaren in koffie en thee zijn verplicht binnen eenentwintig dagen na afloop van een half jaar, door middel van een hiertoe dienend opgavenformulier aan het productschap gegevens te verstrekken ten behoeve van de vaststelling van de in artikel 2 bedoelde heffing. De [Verordening PA algemene bepalingen 2008](../../../../../../../../../../../pbo/verordening/pa/algemene/bepalingen/2008/BWBR0024318/README.md) is hierbij van toepassing. 
+Koffiebranders, theepakkers en handelaren in koffie en thee zijn verplicht binnen eenentwintig dagen na afloop van een half jaar, door middel van een hiertoe dienend opgavenformulier aan het productschap gegevens te verstrekken ten behoeve van de vaststelling van de in artikel 2 bedoelde heffing. De Verordening PA algemene bepalingen 2008 is hierbij van toepassing. 
 
 ### Artikel  4  
 
@@ -49,8 +49,8 @@ Koffiebranders, theepakkers en handelaren in koffie en thee zijn verplicht binne
 
 ### Artikel  5  
 
-1.  De in artikel 4, eerste lid, bedoelde heffing voor de teler van vlas wordt vastgesteld op basis van de door de teler aan het productschap ingevolge de bij of krachtens de [Verordening PA registratie en verstrekking van gegevens teeltsector 2008 verstrekte gegevens](../../../../../../../../../../../pbo/verordening/pa/registratie/en/verstrekking/van/gegevens/teeltsector/2008/BWBR0024009/README.md).   
-2.  Ter vaststelling van de in artikel 4, tweede lid, bedoelde heffing voor de verwerker van vlas is deze verplicht vóór 1 december 2008 aan het productschap opgave te doen van de aangekochte hectaren vlas. De [Verordeningen PA algemene bepalingen 2008](../../../../../../../../../../../pbo/verordening/pa/algemene/bepalingen/2008/BWBR0024318/README.md) is hierbij van toepassing.  
+1.  De in artikel 4, eerste lid, bedoelde heffing voor de teler van vlas wordt vastgesteld op basis van de door de teler aan het productschap ingevolge de bij of krachtens de Verordening PA registratie en verstrekking van gegevens teeltsector 2008 verstrekte gegevens.   
+2.  Ter vaststelling van de in artikel 4, tweede lid, bedoelde heffing voor de verwerker van vlas is deze verplicht vóór 1 december 2008 aan het productschap opgave te doen van de aangekochte hectaren vlas. De Verordeningen PA algemene bepalingen 2008 is hierbij van toepassing.  
 
 ### Artikel  6  
 
@@ -82,7 +82,7 @@ Het productschap kan besluiten nota’s van minder dan € 50,– samen te voeg
 
 ### Artikel  10  
 
-Aan de ondernemer die niet of niet geheel binnen de in artikel 8 gestelde termijn heeft betaald, kan door het productschap de wettelijke interest over het niet betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md). 
+Aan de ondernemer die niet of niet geheel binnen de in artikel 8 gestelde termijn heeft betaald, kan door het productschap de wettelijke interest over het niet betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie. 
 
 ### §  5  
 
@@ -90,7 +90,7 @@ Aan de ondernemer die niet of niet geheel binnen de in artikel 8 gestelde termij
 
 ### Artikel  11  
 
-Deze verordening treedt in werking met ingang van 1 juli 2008. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 juli 2008, treedt zij in werking met ingang van de tweede dag na de dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt terug tot en met 1 juli 2008, met uitzondering van de toepassing van de [Verordening PA algemene bepalingen 2008](../../../../../../../../../../../pbo/verordening/pa/algemene/bepalingen/2008/BWBR0024318/README.md). 
+Deze verordening treedt in werking met ingang van 1 juli 2008. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 juli 2008, treedt zij in werking met ingang van de tweede dag na de dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt terug tot en met 1 juli 2008, met uitzondering van de toepassing van de Verordening PA algemene bepalingen 2008. 
 
 ### Artikel  12  
 

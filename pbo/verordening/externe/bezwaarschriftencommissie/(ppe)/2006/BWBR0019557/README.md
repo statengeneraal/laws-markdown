@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Pluimvee en Eieren van 9 februari 2006, houdende de nadere regeling van de behandeling van bezwaarschriften door een externe bezwaarschriftencommissie (Verordening externe bezwaarschriftencommissie (PPE) 2006).
 
 Het bestuur van het Productschap Pluimvee en Eieren;  
-Gelet op [artikel 92 van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [artikel 18, eerste lid, van de Wet bestuursrechtspraak bedrijfsorganisatie](../../../../../../../wet/wet/bestuursrechtspraak/bedrijfsorganisatie/BWBR0002144/README.md) en de [artikelen 7:1](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [7:13 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);
+Gelet op artikel 92 van de Wet op de bedrijfsorganisatie, artikel 18, eerste lid, van de Wet bestuursrechtspraak bedrijfsorganisatie en de artikelen 7:1 en 7:13 van de Algemene wet bestuursrecht;
 Besluit:     
 ### 1  
 
@@ -16,9 +16,9 @@ In deze verordening wordt verstaan onder:
 | --- | --- | --- |
 |:---|:---|:---|
 | a.  | productschap:  | Productschap Pluimvee en Eieren;  |
-| b.  | bestuursorgaan:  | orgaan van het productschap, als bedoeld in [artikel 72 van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);  |
-| c.  | wet:  | [Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);  |
-| d.  | bezwaarschriftencommissie PPE:  | adviescommissie, als bedoeld in [artikel 7:13, van de wet](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);  |
+| b.  | bestuursorgaan:  | orgaan van het productschap, als bedoeld in artikel 72 van de Wet op de bedrijfsorganisatie;  |
+| c.  | wet:  | Algemene wet bestuursrecht;  |
+| d.  | bezwaarschriftencommissie PPE:  | adviescommissie, als bedoeld in artikel 7:13, van de wet;  |
 | e.  | voorzitter:  | voorzitter van de bezwaarschriftencommissie PPE.  |
 
 ### 2  
@@ -27,7 +27,7 @@ In deze verordening wordt verstaan onder:
 
 ### Artikel  2  
 
-Deze verordening is van toepassing op de bij het productschap ingediende bezwaarschriften die zijn gericht tegen besluiten of handelingen, als bedoeld in [artikel 18, eerste lid, aanhef onder a, onderscheidenlijk b, van de Wet bestuursrechtspraak bedrijfsorganisatie](../../../../../../../wet/wet/bestuursrechtspraak/bedrijfsorganisatie/BWBR0002144/README.md), genomen respectievelijk verricht in het kader van de verordeningen vastgesteld ingevolge [artikel 93](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), met uitzondering van besluiten en handelingen op het gebied van het personeelsbeleid en het beheer van het productschap. 
+Deze verordening is van toepassing op de bij het productschap ingediende bezwaarschriften die zijn gericht tegen besluiten of handelingen, als bedoeld in artikel 18, eerste lid, aanhef onder a, onderscheidenlijk b, van de Wet bestuursrechtspraak bedrijfsorganisatie, genomen respectievelijk verricht in het kader van de verordeningen vastgesteld ingevolge artikel 93 en 126 van de Wet op de bedrijfsorganisatie, met uitzondering van besluiten en handelingen op het gebied van het personeelsbeleid en het beheer van het productschap. 
 
 ### 3  
 
@@ -35,7 +35,7 @@ Deze verordening is van toepassing op de bij het productschap ingediende bezwaar
 
 ### Artikel  3  
 
-De bezwaarschriftencommissie PPE is belast met het horen van belanghebbenden als bedoeld in [artikel 7:2 van de wet](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en het adviseren van het bestuursorgaan ten behoeve van de beslissing op bezwaren tegen besluiten of handelingen als bedoeld in artikel 2. 
+De bezwaarschriftencommissie PPE is belast met het horen van belanghebbenden als bedoeld in artikel 7:2 van de wet en het adviseren van het bestuursorgaan ten behoeve van de beslissing op bezwaren tegen besluiten of handelingen als bedoeld in artikel 2. 
 
 ### Artikel  4  
 
@@ -67,7 +67,7 @@ De bezwaarschriftencommissie PPE is belast met het horen van belanghebbenden als
 
 ### Artikel  7  
 
-De bevoegdheden ingevolge de [artikelen 2:1, tweede lid](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md),[ 6:6](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), voor wat betreft het de indiener stellen van een termijn waarbinnen het verzuim in de zin van niet voldoen aan de vereisten als bedoeld in deze bepaling, kan worden hersteld, [6:17](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), voor zover het betreft de verzending van stukken tijdens de behandeling door de commissie, [7:4, tweede, zesde en achtste lid](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [7:6, vierde lid](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [7:9](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [7:10, derde en vierde lid, van de wet](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) worden voor de toepassing van deze verordening uitgeoefend door de voorzitter. 
+De bevoegdheden ingevolge de artikelen 2:1, tweede lid, 6:6, voor wat betreft het de indiener stellen van een termijn waarbinnen het verzuim in de zin van niet voldoen aan de vereisten als bedoeld in deze bepaling, kan worden hersteld, 6:17, voor zover het betreft de verzending van stukken tijdens de behandeling door de commissie, 7:4, tweede, zesde en achtste lid, 7:6, vierde lid, 7:9, 7:10, derde en vierde lid, van de wet worden voor de toepassing van deze verordening uitgeoefend door de voorzitter. 
 
 ### Artikel  8  
 
@@ -102,7 +102,7 @@ De bevoegdheden ingevolge de [artikelen 2:1, tweede lid](../../../../../../../we
 
 ### Artikel  12  
 
-1.  Het verslag als bedoeld in [artikel 7:13, zesde lid, van de wet](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) vermeldt de namen van de aanwezigen, met daarbij een vermelding van hun hoedanigheid.   
+1.  Het verslag als bedoeld in artikel 7:13, zesde lid, van de wet vermeldt de namen van de aanwezigen, met daarbij een vermelding van hun hoedanigheid.   
 2.  Het verslag houdt een korte vermelding in van hetgeen over en weer is gezegd en overigens ter zitting is voorgevallen.   
 3.  Indien de zitting geheel of gedeeltelijk met gesloten deuren plaatsvond, of indien belanghebbenden, respectievelijk hun gemachtigden niet in elkaars tegenwoordigheid zijn gehoord, maakt het verslag hiervan melding.   
 4.  Het verslag verwijst naar de op de zitting overgelegde bescheiden, die, voor zover ze nog niet ter beschikking van belanghebbende en het bestuursorgaan zijn, aan het verslag worden gehecht.   

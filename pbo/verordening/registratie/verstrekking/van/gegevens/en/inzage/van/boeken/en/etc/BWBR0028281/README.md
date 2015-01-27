@@ -5,14 +5,14 @@
 Het bestuur van het Productschap Dranken;  
 *gelet op:*
 
-[artikelen 93](../../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [102](../../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [104 van de Wet op de bedrijfsorganisatie](../../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md),
+artikelen 93, 95, 102 en 104 van de Wet op de bedrijfsorganisatie,
 
-[artikelen 11](../../../../../../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md), [12](../../../../../../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md) en [13 van het Instellingsbesluit Productschap Dranken](../../../../../../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md);
+artikelen 11, 12 en 13 van het Instellingsbesluit Productschap Dranken;
 
 *gezien:*
 
-het advies van de Commissie ex [artikel 5 lid 1 onder c van het Instellingsbesluit Productschap Dranken](../../../../../../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md);
-*besluit:* vast te stellen een Verordening houdende regels terzake van de aan de onder het Productschap Dranken volgens [artikel 3 lid 2 onder c van het Instellingsbesluit](../../../../../../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md) ressorterende ondernemingen op te leggen regels omtrent registratie, verstrekking van gegevens en inzage van boeken en bescheiden (Verordening registratie, verstrekking van gegevens en inzage van boeken en bescheiden Productschap Dranken / Commissie voor Gedistilleerd 2010).   
+het advies van de Commissie ex artikel 5 lid 1 onder c van het Instellingsbesluit Productschap Dranken;
+*besluit:* vast te stellen een Verordening houdende regels terzake van de aan de onder het Productschap Dranken volgens artikel 3 lid 2 onder c van het Instellingsbesluit ressorterende ondernemingen op te leggen regels omtrent registratie, verstrekking van gegevens en inzage van boeken en bescheiden (Verordening registratie, verstrekking van gegevens en inzage van boeken en bescheiden Productschap Dranken / Commissie voor Gedistilleerd 2010).   
 ###§ 1 
 
 ####Begripsbepalingen
@@ -21,7 +21,7 @@ het advies van de Commissie ex [artikel 5 lid 1 onder c van het Instellingsbeslu
 
 In deze Verordening wordt verstaan onder:
 
-1.Deze Verordening neemt over de terminologie van de [Wet op de bedrijfsorganisatie](../../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en van het [Instellingsbesluit Productschap Dranken](../../../../../../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md) (Besluit van 6 mei 2002, Stb. 264), hierna te noemen “Instellingsbesluit”.
+1.Deze Verordening neemt over de terminologie van de Wet op de bedrijfsorganisatie en van het Instellingsbesluit Productschap Dranken (Besluit van 6 mei 2002, Stb. 264), hierna te noemen “Instellingsbesluit”.
 
 2.In het bij of krachtens deze Verordening bepaalde wordt voorts verstaan onder: 
 
@@ -29,8 +29,8 @@ In deze Verordening wordt verstaan onder:
 |:---|:---|:---|
 |a. |*het Bestuur* |: het bestuur van het Productschap; |
 |b. |*de Voorzitter* |: de voorzitter van het Productschap; |
-|c. |*de Commissie* |: de Commissie voor Gedistilleerd ex [artikel 5 lid 1 sub c van het Instellingsbesluit](../../../../../../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md); |
-|d. |*secretaris* |: de secretaris van de Commissie voor Gedistilleerd in het bijzonder belast met de aangelegenheden van de ondernemingen bedoeld in [artikel 3 lid 2 sub c van het Instellingsbesluit](../../../../../../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md); |
+|c. |*de Commissie* |: de Commissie voor Gedistilleerd ex artikel 5 lid 1 sub c van het Instellingsbesluit; |
+|d. |*secretaris* |: de secretaris van de Commissie voor Gedistilleerd in het bijzonder belast met de aangelegenheden van de ondernemingen bedoeld in artikel 3 lid 2 sub c van het Instellingsbesluit; |
 |e. |*gedistilleerde dranken* |: alcoholhoudend product, zoals omschreven in artikel 2 van de Verordening (EG) nr. 110/2008 van het Europees Parlement en de Raad van 15 januari 2008 betreffende de definitie, de aanduiding, de presentatie, de etikettering en de bescherming van geografische aanduidingen van gedistilleerde dranken en tot intrekking van Verordening (EG) nr. 1576/89 van de Raad; behorend tot GN-code 2208 van de Verordening (EG) nr. 2658/87 van 23 juli 1987, waarvoor in het geval van ge- of verbruik hier te lande alcoholaccijns verschuldigd is; |
 |f. |*zwak gedistilleerde drank* |: alcoholhoudend product met een alcoholgehalte van minder dan 15% vol. behorend tot GN-code 2208 van de Verordening (EG) nr. 2658/87 van 23 juli 1987, waarvoor in geval van ge- of verbruik hier te lande alcoholaccijns verschuldigd is; |
 |g. |*bereiden* |: iedere bewerking- met uitzondering van bottelen- waardoor uit grondstoffen een gedistilleerde en/of zwak gedistilleerde drank vervaardigd wordt of de samenstelling daarvan wijzigt; |
@@ -109,7 +109,7 @@ c.in door het bestuur aan te wijzen gevallen, waarin dit naar zijn oordeel in he
 ###Artikel 7 
 
 1. De Verordening treedt in werking met ingang van de tweede dag na publicatie in het Verordeningenblad Bedrijfsorganisatie. 
-2. De [Verordening registratie, verstrekking van gegevens en inzage van boeken en bescheiden Productschap Dranken / Commissie voor Gedistilleerd 2007](../../../../../../../../../../../../../pbo/verordening/registratie/verstrekking/van/gegevens/en/inzage/van/boeken/en/etc/BWBR0021391/README.md) wordt ingetrokken. 
+2. De Verordening registratie, verstrekking van gegevens en inzage van boeken en bescheiden Productschap Dranken / Commissie voor Gedistilleerd 2007 wordt ingetrokken. 
 
 ###Artikel 8 
 

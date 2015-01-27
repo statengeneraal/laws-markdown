@@ -6,7 +6,7 @@ Wij JULIANA, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Ministers voor Publiekrechtelijke Bedrijfsorganisatie, van Economische Zaken, van Landbouw, Visserij en Voedselvoorziening en van Sociale Zaken en Volksgezondheid van 12 November 1954, no. B. 1946, Directie voor Wetgeving en andere Juridische Aangelegenheden;
 
-Overwegende, dat het wenselijk is overeenkomstig het door de Sociaal-Economische Raad op 9 Juli 1954 uit eigen beweging daartoe uitgebrachte advies over te gaan tot instelling van een bedrijfschap als bedoeld in de [Wet op de Bedrijfsorganisatie](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) (*Stb.* 1950, K 22, sedert gewijzigd) voor ondernemingen op het gebied van de groothandel en het bedrijf van commissionnair of van tussenpersoon in groenten en fruit;
+Overwegende, dat het wenselijk is overeenkomstig het door de Sociaal-Economische Raad op 9 Juli 1954 uit eigen beweging daartoe uitgebrachte advies over te gaan tot instelling van een bedrijfschap als bedoeld in de Wet op de Bedrijfsorganisatie (*Stb.* 1950, K 22, sedert gewijzigd) voor ondernemingen op het gebied van de groothandel en het bedrijf van commissionnair of van tussenpersoon in groenten en fruit;
 
 Gelet op genoemde wet;
 
@@ -27,7 +27,7 @@ Hebben goedgevonden en verstaan:
 a. de groothandel of het bedrijf van commissionnair of van tussenpersoon in binnenslands verduurzaamde groenten, binnenslands verduurzaamd fruit, vijgen of dadels, of  
 
 b. het bedrijf van het sorteren van verse groenten en vers fruit.     
-2.   Dit besluit verstaat onder:   *groothandel:* het bedrijf van het kopen van producten en het verkopen daarvan aan wederverkopers of - tenzij dit geschiedt in verband met het verkopen aan particulieren - aan instellingen of aan personen, die het gekochte in een door hen gedreven onderneming aanwenden;   *het bedrijf van tussenpersoon:* het bedrijf van het op naam van anderen sluiten van koop- en verkoopovereenkomsten, of van het, anders dan door het houden van veilingen, bemiddelen bij het tot stand komen van koop- en verkoopovereenkomsten;   *wet:* de [Wet op de Bedrijfsorganisatie](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) (*Stb.* 1950, K 22, sedert gewijzigd).   
+2.   Dit besluit verstaat onder:   *groothandel:* het bedrijf van het kopen van producten en het verkopen daarvan aan wederverkopers of - tenzij dit geschiedt in verband met het verkopen aan particulieren - aan instellingen of aan personen, die het gekochte in een door hen gedreven onderneming aanwenden;   *het bedrijf van tussenpersoon:* het bedrijf van het op naam van anderen sluiten van koop- en verkoopovereenkomsten, of van het, anders dan door het houden van veilingen, bemiddelen bij het tot stand komen van koop- en verkoopovereenkomsten;   *wet:* de Wet op de Bedrijfsorganisatie (*Stb.* 1950, K 22, sedert gewijzigd).   
 3.   Dit besluit verstaat onder *verse groenten* mede groen geoogste landbouwpeulvruchten, uien en eetbare zwammen.   
 4.   Voor de toepassing van dit besluit worden zuurkool, gezouten bonen en gezouten andijvie niet onder *binnenslands verduurzaamde groenten* doch onder *verse groenten* begrepen.   
 5.   Dit besluit verstaat onder *groothandel* niet de aanvoer-, transito- en driehoekshandel en onder *het bedrijf van commissionnair of van tussenpersoon* niet het bedrijf van commissionnair of van tussenpersoon op het terrein van laatstbedoelde vormen van handel.  

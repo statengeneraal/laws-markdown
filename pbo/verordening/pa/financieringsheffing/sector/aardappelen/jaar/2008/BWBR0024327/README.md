@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Akkerbouw van 5 juni 2008 houdende regels ter zake van de aan de onder het Productschap Akkerbouw ressorterende ondernemers op te leggen heffing voor het jaar 2008 (Verordening PA financieringsheffing sector aardappelen jaar 2008)
 
 Het bestuur van het Productschap Akkerbouw;  
-Gelet op de [artikelen 95](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 eerste en zesde lid van de Wet op de bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op de [artikelen 8](../../../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md) en [19 van het Instellingsbesluit akkerbouwproductschappen](../../../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md);
+Gelet op de artikelen 95 en 126 eerste en zesde lid van de Wet op de bedrijfsorganisatie en op de artikelen 8 en 19 van het Instellingsbesluit akkerbouwproductschappen;
 
 Gehoord de Commissie Teeltaangelegenheden;
 Besluit:     
@@ -50,7 +50,7 @@ Deze verordening verstaat onder:
 ### Artikel  4  
 
 1.  De ondernemer die aardappelen teelt, is verplicht over het jaar 2008 aan het productschap een heffing te betalen van € 0,20 per hectare geteelde aardappelen.   
-2.  De berekening van de in het eerste lid bedoelde heffing vindt plaats op basis van de door de ondernemer aan het productschap ingevolge de bij of krachtens de [Verordening PA registratie en verstrekking van gegevens teeltsector 2008](../../../../../../../../../pbo/verordening/pa/registratie/en/verstrekking/van/gegevens/teeltsector/2008/BWBR0024009/README.md) verstrekte gegevens.  
+2.  De berekening van de in het eerste lid bedoelde heffing vindt plaats op basis van de door de ondernemer aan het productschap ingevolge de bij of krachtens de Verordening PA registratie en verstrekking van gegevens teeltsector 2008 verstrekte gegevens.  
 
 ### Artikel  5  
 
@@ -61,7 +61,7 @@ Deze verordening verstaat onder:
 
 a. krachtens haar statutaire doelstelling haar werkzaamheid kan uitstrekken tot ten minste een belangrijk gedeelte van het terrein waarop het productschap een taak heeft te vervullen;  
 
-b. voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de [artikelen 3 tot en met 7 van de Verordening representativiteit organisaties](../../../../../../../../../pbo/verordening/representativiteit/organisaties/BWBR0011641/README.md) van de Sociaal Economische Raad;  
+b. voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de artikelen 3 tot en met 7 van de Verordening representativiteit organisaties van de Sociaal Economische Raad;  
 
 c. tot de werkingssfeer van het productschap behorende leden heeft, waarvan het gewogen aantal niet onbetekenend is;  
 
@@ -129,7 +129,7 @@ De secretaris kan, namens het bestuur, besluiten nota’s met een bedrag minder 
 
 ### Artikel  13  
 
-Aan de ondernemer die niet of niet geheel binnen de in artikel 10 gestelde termijn heeft betaald, kan door de secretaris, namens het bestuur, de wettelijke interest over het niet-betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md). 
+Aan de ondernemer die niet of niet geheel binnen de in artikel 10 gestelde termijn heeft betaald, kan door de secretaris, namens het bestuur, de wettelijke interest over het niet-betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie. 
 
 ### §  5  
 

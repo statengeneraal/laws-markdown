@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Akkerbouw van 5 juni 2008 houdende vaststelling bestemmingsheffing ten behoeve van het Fonds uien voor het jaar 2008 (Heffingsverordening PA fonds uien jaar 2008)
 
 Het bestuur van het Productschap Akkerbouw;  
-Gelet op de [artikelen 95](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126, eerste en vierde lid van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op de [artikelen 8](../../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md) en [19 van het Instellingsbesluit akkerbouwproductschappen](../../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md);
+Gelet op de artikelen 95 en 126, eerste en vierde lid van de Wet op de bedrijfsorganisatie en op de artikelen 8 en 19 van het Instellingsbesluit akkerbouwproductschappen;
 
 Gehoord de Commissie Teeltaangelegenheden;
 Besluit:     
@@ -41,7 +41,7 @@ Materieel uitgewerkt per 08-02-2009
 Materieel uitgewerkt per 08-02-2009 
 
 1.  De ondernemer, die in het jaar 2008 een onderneming drijft, met als activiteit het telen van uien, is verplicht voor dat jaar aan het productschap een heffing te betalen.   
-2.  De heffing wordt opgelegd naar de grondslag grondgebruik en wordt berekend naar de oppervlakte van de tot de onderneming behorende oppervlakte cultuurgrond, in gebruik voor de teelt van uien in het jaar 2008, op basis van de bij of krachtens de [Verordening PA registratie en verstrekking van gegevens teeltsector 2008](../../../../../../../../pbo/verordening/pa/registratie/en/verstrekking/van/gegevens/teeltsector/2008/BWBR0024009/README.md) verstrekte gegevens.   
+2.  De heffing wordt opgelegd naar de grondslag grondgebruik en wordt berekend naar de oppervlakte van de tot de onderneming behorende oppervlakte cultuurgrond, in gebruik voor de teelt van uien in het jaar 2008, op basis van de bij of krachtens de Verordening PA registratie en verstrekking van gegevens teeltsector 2008 verstrekte gegevens.   
 3.  De heffing bedraagt over het jaar 2008 voor zaai-, plant- en pootuien (inclusief sjalotten) € 10,– en voor zilveruien € 5,– per hectare.   
 4.  De heffing is bestemd voor het Fonds uien.  
 
@@ -105,7 +105,7 @@ De secretaris kan, namens het bestuur, besluiten nota’s met een bedrag van min
 ### Artikel  8  
 Materieel uitgewerkt per 08-02-2009 
 
-Aan de ondernemer die niet of niet geheel binnen de in artikel 5 gestelde termijn heeft betaald, kan door de secretaris, namens het bestuur, de wettelijke interest over het niet-betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md). 
+Aan de ondernemer die niet of niet geheel binnen de in artikel 5 gestelde termijn heeft betaald, kan door de secretaris, namens het bestuur, de wettelijke interest over het niet-betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie. 
 
 ### §  5  
 
@@ -126,7 +126,7 @@ b. niet onder vermelding of aanduiding van de persoon en/of onderneming, waarop 
 ### Artikel  10  
 Materieel uitgewerkt per 08-02-2009 
 
-Deze verordening treedt in werking met ingang van 1 juli 2008. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 juli 2008, treedt zij in werking met ingang van de tweede dag na de dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt terug tot en met 1 juli 2008, met uitzondering van de toepassing van de [Verordening PA algemene bepalingen 2008](../../../../../../../../pbo/verordening/pa/algemene/bepalingen/2008/BWBR0024318/README.md). 
+Deze verordening treedt in werking met ingang van 1 juli 2008. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 juli 2008, treedt zij in werking met ingang van de tweede dag na de dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt terug tot en met 1 juli 2008, met uitzondering van de toepassing van de Verordening PA algemene bepalingen 2008. 
 
 ### Artikel  11  
 Materieel uitgewerkt per 08-02-2009 

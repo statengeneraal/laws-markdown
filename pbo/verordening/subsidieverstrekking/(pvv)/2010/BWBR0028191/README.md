@@ -3,9 +3,9 @@
 ##Verordening van het bestuur van het Productschap Vee en Vlees van 1 juli 2010 tot het verstrekken van subsidies voor activiteiten op terreinen die tot de taak van het productschap worden gerekend (Verordening subsidieverstrekking (PVV) 2010)
 
 Het bestuur van het Productschap Vee en Vlees;  
-Gelet op de [artikelen 93](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [123 van de Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en de [artikelen 3](../../../../../../AMvB/instellingsbesluit/productschap/vee/en/vlees/BWBR0016491/README.md) en [10 van het Instellingsbesluit Productschap Vee en Vlees](../../../../../../AMvB/instellingsbesluit/productschap/vee/en/vlees/BWBR0016491/README.md),
+Gelet op de artikelen 93, 95 en 123 van de Wet op de bedrijfsorganisatie, en de artikelen 3 en 10 van het Instellingsbesluit Productschap Vee en Vlees,
 
-Gelet op [titel 4.2 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md),
+Gelet op titel 4.2 van de Algemene wet bestuursrecht,
 Besluit:    
 ###§ 1 
 
@@ -32,7 +32,7 @@ In de verordening wordt verstaan onder:
 ###Artikel 2 
 
 1. Deze verordening is van toepassing op alle door het productschap te verstrekken subsidies. 
-2. Op per kalenderjaar aan rechtspersonen te verstrekken subsidies is [afdeling 4.2.8 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing met inachtneming van het bepaalde in deze verordening.
+2. Op per kalenderjaar aan rechtspersonen te verstrekken subsidies is afdeling 4.2.8 van de Algemene wet bestuursrecht van toepassing met inachtneming van het bepaalde in deze verordening.
 
 ###Artikel 3 
 

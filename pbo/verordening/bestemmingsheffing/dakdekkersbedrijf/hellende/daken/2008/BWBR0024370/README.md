@@ -3,7 +3,7 @@
 ##Verordening van het Hoofdbedrijfschap Ambachten van 7 november 2007, houdende regels terzake van de aan de ondernemers die het dakdekkersbedrijf hellende daken uitoefenen op te leggen bestemmingsheffing voor het jaar 2008 (Verordening bestemmingsheffing dakdekkersbedrijf hellende daken 2008)
 
 Het bestuur van het Hoofdbedrijfschap Ambachten;  
-Gelet op [artikel 95, tweede lid](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+Gelet op artikel 95, tweede lid en 126 van de Wet op de bedrijfsorganisatie;
 
 Gezien het advies van de Commissie dakdekkers hellende daken;
 Besluit:     
@@ -22,11 +22,11 @@ a. het dakdekkersbedrijf hellende daken: het bedrijf van het aanbrengen, onderho
 
 b. de ondernemer: degene die een onderneming drijft, dan wel degenen die gezamenlijk een onderneming drijven;  
 
-c. werkzame personen: personen als bedoeld in [artikel 9, derde lid, van het Handelsregisterbesluit 1996](../../../../../../../../AMvB/handelsregisterbesluit/1996/BWBR0008920/README.md) die betrokken zijn bij de uitoefening van het dakdekkersbedrijf hellende daken;  
+c. werkzame personen: personen als bedoeld in artikel 9, derde lid, van het Handelsregisterbesluit 1996 die betrokken zijn bij de uitoefening van het dakdekkersbedrijf hellende daken;  
 
 d. de voorzitter: de voorzitter van het Hoofdbedrijfschap Ambachten;  
 
-e. bestemmingsheffing: heffing die is gebaseerd op [artikel 9, tweede lid, van de Instellingsbesluit Hoofdbedrijfschap Ambachten](../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/ambachten/BWBR0015845/README.md).   
+e. bestemmingsheffing: heffing die is gebaseerd op artikel 9, tweede lid, van de Instellingsbesluit Hoofdbedrijfschap Ambachten.   
 
 ### Artikel  2  
 Materieel uitgewerkt per 05-09-2009 
@@ -71,7 +71,7 @@ Materieel uitgewerkt per 05-09-2009
 
 a. krachtens haar statutaire doelstelling haar werkzaamheid kan uitstrekken tot ten minste een belangrijk gedeelte van het terrein waarop het bedrijfslichaam een taak heeft te vervullen,  
 
-b. voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de [artikelen 3 tot en met 7 van de Verordening representativiteit organisaties](../../../../../../../../pbo/verordening/representativiteit/organisaties/BWBR0011641/README.md),  
+b. voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de artikelen 3 tot en met 7 van de Verordening representativiteit organisaties,  
 
 c. tot de werkingssfeer van het bedrijfslichaam behorende leden heeft, waarvan het gewogen aantal niet-onbetekenend is,  
 
@@ -112,7 +112,7 @@ Materieel uitgewerkt per 05-09-2009
 ### Artikel  8  
 Materieel uitgewerkt per 05-09-2009 
 
-De [artikelen 5 tot en met 14 van de heffingsverordening Hoofdbedrijfschap Ambachten 2008](../../../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/ambachten/2008/BWBR0023309/README.md) zijn van overeenkomstige toepassing. 
+De artikelen 5 tot en met 14 van de heffingsverordening Hoofdbedrijfschap Ambachten 2008 zijn van overeenkomstige toepassing. 
 
 ### Artikel  9  
 Materieel uitgewerkt per 05-09-2009 

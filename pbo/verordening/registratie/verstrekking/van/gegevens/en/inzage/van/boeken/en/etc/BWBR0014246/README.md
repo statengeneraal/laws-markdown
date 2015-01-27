@@ -5,11 +5,11 @@
 Het Bestuur van het Productschap Dranken;
 gelet op:
 
-[artikelen 93](../../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [100 lid 3](../../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [102](../../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [104 van de Wet op de bedrijfsorganisatie](../../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [artikelen 11](../../../../../../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md), [12](../../../../../../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md) en [13 van het Instellingsbesluit Productschap Dranken](../../../../../../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md);
+artikelen 93, 95, 100 lid 3, 102 en 104 van de Wet op de bedrijfsorganisatie, artikelen 11, 12 en 13 van het Instellingsbesluit Productschap Dranken;
 
 gezien:
 
-het advies van de Commissie ex [artikel 5 lid 1 onder a van het Instellingsbesluit Productschap Dranken](../../../../../../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md);
+het advies van de Commissie ex artikel 5 lid 1 onder a van het Instellingsbesluit Productschap Dranken;
 besluit:vast te stellen de navolgende verordening.
 ###§ 1 
 
@@ -17,7 +17,7 @@ besluit:vast te stellen de navolgende verordening.
 
 ###Artikel 1 
 
-1. Deze Verordening neemt over de terminologie van de [Wet op de bedrijfsorganisatie](../../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en van het [Instellingsbesluit Produktschap Dranken](../../../../../../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md) (Besluit van 6 mei 2002, Stb. 264), hierna te noemen “Instellingsbesluit".
+1. Deze Verordening neemt over de terminologie van de Wet op de bedrijfsorganisatie en van het Instellingsbesluit Produktschap Dranken (Besluit van 6 mei 2002, Stb. 264), hierna te noemen “Instellingsbesluit".
 2. In het bij of krachtens deze Verordening bepaalde wordt voorts verstaan onder:
 
 | --- | --- | --- |
@@ -25,11 +25,11 @@ besluit:vast te stellen de navolgende verordening.
 |a. het Bestuur  |: |het bestuur van het Productschap; |
 |b. de Voorzitter  |: |de voorzitter van het Productschap; |
 |c. de Verordening  |: |de onderhavige Verordening registratie, verstrekking van gegevens en inzage van boeken en bescheiden Productschap Draken / Frisdranken en Waters 2003;  |
-|d. de Commissie  |: |de Commissie voor frisdranken en waters ex [artikel 5 lid 1 sub a van het Instellingsbesluit](../../../../../../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md); |
-|e. secretaris  |: |de secretaris van het Productschap, in het bijzonder belast met de aangelegenheden van de ondernemingen bedoeld in [artikel 3 lid 2 sub a van het Instellingsbesluit](../../../../../../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md); |
+|d. de Commissie  |: |de Commissie voor frisdranken en waters ex artikel 5 lid 1 sub a van het Instellingsbesluit; |
+|e. secretaris  |: |de secretaris van het Productschap, in het bijzonder belast met de aangelegenheden van de ondernemingen bedoeld in artikel 3 lid 2 sub a van het Instellingsbesluit; |
 |f. verantwoordelijke  |: |het Productschap; |
-|g. bewerker  |: |de secretaris van de desbetreffende commissie ex [artikel 5 lid 1 Instellingsbesluit](../../../../../../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md); |
-|h. onderneming  |: |een bedrijf als bedoeld onder [artikel 3 lid 2 sub a van het Instellingsbesluit](../../../../../../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md); |
+|g. bewerker  |: |de secretaris van de desbetreffende commissie ex artikel 5 lid 1 Instellingsbesluit; |
+|h. onderneming  |: |een bedrijf als bedoeld onder artikel 3 lid 2 sub a van het Instellingsbesluit; |
 |i. ondernemer |: |een natuurlijke of rechtspersoon, die een onderneming drijft; |
 |j. frisdrank |: |de drank als bedoeld onder post 2202 van de Gecombineerde Nomenclatuur als bedoeld in de EEG-verordening nr. 2658/87 van 23 juli 1987 (Pb L256), met uitzondering van vruchtendranken als bedoeld in Richtlijn 2001/112/EG van 20 december 2001 (Pb 2002, L10) en alcoholvrij bier; |
 |k. water  |: |de drank als bedoeld onder sectie 2201 van de Nomenclatuurverordening; |
@@ -41,7 +41,7 @@ besluit:vast te stellen de navolgende verordening.
 
 ###Artikel 2 
 
-De secretaris houdt namens het bestuur een register van de in aanmerking komende ondernemingen. Dit register is niet openbaar voor derden. Het doel van deze registratie is de regeling of nadere regeling van de onderwerpen, genoemd in [artikel 11 van het Instellingsbesluit](../../../../../../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md) voor de ondernemingen genoemd in [artikel 3 lid 2 sub a van dit besluit](../../../../../../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md). Het register heeft geen relaties met andere interne of externe persoonsregistraties.
+De secretaris houdt namens het bestuur een register van de in aanmerking komende ondernemingen. Dit register is niet openbaar voor derden. Het doel van deze registratie is de regeling of nadere regeling van de onderwerpen, genoemd in artikel 11 van het Instellingsbesluit voor de ondernemingen genoemd in artikel 3 lid 2 sub a van dit besluit. Het register heeft geen relaties met andere interne of externe persoonsregistraties.
 
 ###Artikel 3 
 
@@ -99,7 +99,7 @@ b.overige aangelegenheden, van belang voor de vaststelling van de door de ondern
 
 c.in de praktijk voorkomende gebruiken met betrekking tot de verkoop-, leverings- en betalingsvoorwaarden bij de verkoop van frisdranken en/of waters en/of limonadesiropen dan wel met betrekking tot het berekenen aan afnemers van statiegeld voor flessen en ander verpakkingsmateriaal;
 
-d.overige aangelegenheden als bedoeld in [artikel 11 van het Instellingsbesluit](../../../../../../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md).
+d.overige aangelegenheden als bedoeld in artikel 11 van het Instellingsbesluit.
 3. Gegevens, als bedoeld in het voorgaande lid, alsmede gegevens, zoals bedoeld in artikel 3, zullen slechts worden gevraagd, indien uit hoofde van door de secretaris namens het bestuur ingewonnen informaties redelijkerwijze moet worden aangenomen, dat bedoelde gegevens niet reeds elders aanwezig en binnen een voor het Productschap aanvaardbare termijn voor het Productschap beschikbaar zijn.
 
 ###Artikel 7 

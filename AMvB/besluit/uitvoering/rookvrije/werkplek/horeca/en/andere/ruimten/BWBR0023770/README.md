@@ -22,7 +22,7 @@ a. in ruimten waar geen inbreuk mag worden gemaakt op de persoonlijke levenssfee
 b. in afsluitbare, voor het roken van tabaksproducten aangewezen en als zodanig aangeduide ruimten;  
 
 c. in de open lucht.    
-2.  In een ruimte als bedoeld in het eerste lid, onderdeel b, verricht een werknemer geen werkzaamheden tijdens het gebruik van deze ruimte voor het roken van tabaksproducten. 
+2.  In een ruimte als bedoeld in het eerste lid, onderdeel b, worden geen werkzaamheden verricht tijdens het gebruik van deze ruimte voor het roken van tabaksproducten. 
 
 ### Artikel  3  
 

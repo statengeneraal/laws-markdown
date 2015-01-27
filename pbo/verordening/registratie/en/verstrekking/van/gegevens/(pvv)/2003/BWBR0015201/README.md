@@ -3,7 +3,7 @@
 ##Verordening registratie en verstrekking van gegevens (PVV) 2003
 
 Het bestuur van het Productschap Vee en Vlees heeft,
-gelet op de artikelen 10, 12 en 14 van de lnstellingsverordening Productschap Vee en Vlees 1999-I en de [artikelen 93](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [104 van de Wet op de Bedrijfsorganisatie](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+gelet op de artikelen 10, 12 en 14 van de lnstellingsverordening Productschap Vee en Vlees 1999-I en de artikelen 93 en 104 van de Wet op de Bedrijfsorganisatie;
 op 11 juni 2003 vastgesteld de navolgende VERORDENING 
 ###Titel I 
 
@@ -20,7 +20,7 @@ Voor de toepassing van het bij of krachtens deze verordening bepaalde wordt vers
 | c.  | bestuur  |: | het bestuur van het productschap;  |
 | d.  | onderneming  |: | een onderneming waarin;   1° de veehouderij wordt uitgeoefend;  2° vee dan wel vlees, andere delen van vee of daaruit verkregen producten worden be- of verwerkt - tenzij dit be- en verwerken uitsluitend bestaat in het smelten en het verder bewerken en verwerken van vet - tot producten welke, al dan niet na verdere be- of verwerking, tot menselijk voedsel kunnen dienen;  3° uitsluitend ten behoeve van de onder 2° bedoelde ondernemingen diensten worden geleverd op het terrein van be- of verwerking van vlees;  4° darmen van vee worden verwerkt;  5° de handel wordt uitgeoefend in sperma, eicellen en embryo's van eenhoevige dieren, runderen en varkens;  6° de handel wordt uitgeoefend in vee dan wel in vlees, andere delen van vee of daaruit verkregen producten welke, al dan niet na verdere be- of verwerking, tot menselijk voedsel kunnen dienen, met uitzondering van gesmolten vet;  7° de handel wordt uitgeoefend in darmen van vee of kunstdarmen.   |
 |e. |ondernemer |: |een natuurlijke of rechtspersoon, die een onderneming drijft; |
-|f. |Nederlandse grootte eenheid |: |een eenheid berekend op basis van de bruto standaard saldi zoals deze bij de laatste Staatscourant gepubliceerde Regeling Landbouwtelling ingevolge de [artikelen 24](../../../../../../../../../../wet/landbouwwet/BWBR0002252/README.md) en [25 van de Landbouwwet](../../../../../../../../../../wet/landbouwwet/BWBR0002252/README.md) wordt toegepast; |
+|f. |Nederlandse grootte eenheid |: |een eenheid berekend op basis van de bruto standaard saldi zoals deze bij de laatste Staatscourant gepubliceerde Regeling Landbouwtelling ingevolge de artikelen 24 en 25 van de Landbouwwet wordt toegepast; |
 
 ###Titel II 
 
@@ -129,7 +129,7 @@ d.te gedogen dat controleurs van de door het bestuur aangewezen dienst of de doo
 
 ### Artikel  12  
 
-Op overtreding van het bij artikel 2, artikel 3, tweede lid, artikel 4, artikel 6, artikel 7, derde lid, en artikel 10, tweede lid, bepaalde worden tuchtrechtelijke maatregelen gesteld zoals voorzien in de [Wet tuchtrechtspraak bedrijfsorganisatie 2004](../../../../../../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md). 
+Op overtreding van het bij artikel 2, artikel 3, tweede lid, artikel 4, artikel 6, artikel 7, derde lid, en artikel 10, tweede lid, bepaalde worden tuchtrechtelijke maatregelen gesteld zoals voorzien in de Wet tuchtrechtspraak bedrijfsorganisatie 2004. 
 
 ###Titel VII 
 
@@ -143,7 +143,7 @@ Registratie en enquêteverordening Bedrijfschap voor de Handel in Vee 1992
 
 Verordening registratie en Verstrekking van gegevens PVV 1998  
 
-[Verordening registratie en verstrekken van gegevens vleesindustrie (PVV) 2002](../../../../../../../../../../pbo/verordening/registratie/en/verstrekking/van/gegevens/vleesindustrie/(pvv)/etc/BWBR0012817/README.md)     
+Verordening registratie en verstrekken van gegevens vleesindustrie (PVV) 2002     
 2.  Artikel 3 t/m 6 van de Verordening houdende bepalingen betreffende het opleggen van heffingen bij de producenten van vee en vlees en registratie van vleesgrossiers PVV 2003 komen te vervallen.  
 
 ###Artikel 14 

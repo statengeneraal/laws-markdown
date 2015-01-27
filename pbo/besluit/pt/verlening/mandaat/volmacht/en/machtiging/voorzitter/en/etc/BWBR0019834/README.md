@@ -2,9 +2,9 @@
 
 ##Besluit van het bestuur van het Productschap Tuinbouw besluit, d.d. 25 april 2006, tot verlening van mandaat, volmacht en machtiging aan de voorzitter en secretaris van het Productschap Tuinbouw (Besluit PT verlening mandaat, volmacht en machtiging voorzitter en secretaris Productschap Tuinbouw)
 
-Gelet op [artikel 86](../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [92](../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [93](../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md),[104](../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [118](../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md),[127 van de Wet op de bedrijfsorganisatie](../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md)
+Gelet op artikel 86, 92, 93, 95,104, 118,127 van de Wet op de bedrijfsorganisatie
 
-Gelet op [artikel 1:1](../../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [hoofdstuk 10 van de Algemene wet bestuursrecht](../../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md)
+Gelet op artikel 1:1 en hoofdstuk 10 van de Algemene wet bestuursrecht
 BESLUIT:     
 
 ####Inleiding
@@ -14,7 +14,7 @@ Materieel uitgewerkt per 03-05-2009
 ### Artikel  1  
 Materieel uitgewerkt per 03-05-2009 
 
-1.  In dit besluit en de daarop berustende bepalingen worden de begrippen overgenomen van [artikel 1](../../../../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md) en [2 van het Instellingsbesluit Productschap Tuinbouw](../../../../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md) en de [Verordening PT algemene bepalingen 2003](../../../../../../../../../../../../pbo/verordening/pt/algemene/bepalingen/2003/BWBR0016684/README.md).   
+1.  In dit besluit en de daarop berustende bepalingen worden de begrippen overgenomen van artikel 1 en 2 van het Instellingsbesluit Productschap Tuinbouw en de Verordening PT algemene bepalingen 2003.   
 2.  In dit besluit en de daarop berustende bepalingen wordt verstaan onder:  
 
 | --- | --- | --- |

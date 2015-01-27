@@ -3,15 +3,15 @@
 ##Besluit van het bestuur van het Productschap Zuivel van 31 maart 2004 tot aanwijzing van toezichthouders (Besluit PZ aanwijzing toezichthouders 2004)
 
 Het bestuur van het Productschap Zuivel;
-Gelet op [artikel 104, derde lid, van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [afdeling 5.2 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);
+Gelet op artikel 104, derde lid, van de Wet op de bedrijfsorganisatie en afdeling 5.2 van de Algemene wet bestuursrecht;
 Besluit:
 
 ###Artikel 1 
 Materieel uitgewerkt per 30-04-2011 
 
-1. De Interne Accountantsdienst van het Productschap Zuivel wordt ten behoeve van het toezicht op de naleving van [artikel 2, tweede lid van de Zuivelverordening 2003, Administratieve bepalingen](../../../../../../../pbo/zuivelverordening/2003/administratieve/bepalingen/BWBR0014245/README.md) en de [Zuivelverordening 2003, Melk en melk- en zuivelproducten](../../../../../../../pbo/zuivelverordening/2003/melk/en/melk-/en/zuivelproducten/BWBR0014223/README.md) aangewezen.
-2. De NAK AGRO wordt ten behoeve van het toezicht op de naleving van de [Zuivelverordening 2001, Gebruik verdeelapparatuur bij gewasbeschermingsmiddelen](../../../../../../../pbo/zuivelverordening/2001/gebruik/verdeelapparatuur/bij/etc/BWBR0013017/README.md) en de [Zuivelverordening 2003, Reiniging verpakkingen gewasbeschermingsmiddelen](../../../../../../../pbo/zuivelverordening/2003/reiniging/verpakkingen/gewasbeschermingsmiddelen/BWBR0014981/README.md) aangewezen.
-3. De Plantenziektekundige Dienst wordt ten behoeve van het toezicht op de naleving van de [Zuivelverordening 2001, Gebruik verdeelapparatuur bij gewasbeschermingsmiddelen](../../../../../../../pbo/zuivelverordening/2001/gebruik/verdeelapparatuur/bij/etc/BWBR0013017/README.md) en de [Zuivelverordening 2003, Reiniging verpakkingen gewasbeschermingsmiddelen](../../../../../../../pbo/zuivelverordening/2003/reiniging/verpakkingen/gewasbeschermingsmiddelen/BWBR0014981/README.md) aangewezen
+1. De Interne Accountantsdienst van het Productschap Zuivel wordt ten behoeve van het toezicht op de naleving van artikel 2, tweede lid van de Zuivelverordening 2003, Administratieve bepalingen en de Zuivelverordening 2003, Melk en melk- en zuivelproducten aangewezen.
+2. De NAK AGRO wordt ten behoeve van het toezicht op de naleving van de Zuivelverordening 2001, Gebruik verdeelapparatuur bij gewasbeschermingsmiddelen en de Zuivelverordening 2003, Reiniging verpakkingen gewasbeschermingsmiddelen aangewezen.
+3. De Plantenziektekundige Dienst wordt ten behoeve van het toezicht op de naleving van de Zuivelverordening 2001, Gebruik verdeelapparatuur bij gewasbeschermingsmiddelen en de Zuivelverordening 2003, Reiniging verpakkingen gewasbeschermingsmiddelen aangewezen
 
 ###Artikel 2 
 Materieel uitgewerkt per 30-04-2011 

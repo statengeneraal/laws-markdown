@@ -258,7 +258,7 @@ IN WITNESS WHEREOF the undersigned, being duly authorized thereto, have signed t
 
 ### Annexes  
 
-De teksten van de wijzigingen van 27 januari 2012 en 31 augustus 2012 liggen ter inzage bij het Ministerie van Buitenlandse Zaken, afdeling Verdragen. Tevens is de Engelse tekst van de wijzigingen te raadplegen op http://www.unece.org/trans/main/dgdb/adn/adn_rep.html.  
+De teksten van de correcties van 30 december 2012, 28 januari 2014, 28 december 2014 en 31 december 2014 en van de wijzigingen van 1 oktober 2014 liggen ter inzage bij het Ministerie van Buitenlandse Zaken, afdeling Verdragen. Tevens is de Engelse tekst van de correcties en wijzigingen te raadplegen op http://www.unece.org/trans/main/dgdb/adn/adn_rep.html.  
 
 ####Europees Verdrag inzake het internationale vervoer van gevaarlijke goederen over de binnenwateren (ADN)
 
@@ -516,4 +516,4 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, dit Verd
 
 ### Bijlagen  
 
-De teksten van de wijzigingen van 27 januari 2012 en 31 augustus 2012 liggen ter inzage bij het Ministerie van Buitenlandse Zaken, afdeling Verdragen. Tevens is de Engelse tekst van de wijzigingen te raadplegen op http://www.unece.org/trans/main/dgdb/adn/adn_rep.html.  
+De teksten van de correcties van 30 december 2012, 28 januari 2014, 28 december 2014 en 31 december 2014 en van de wijzigingen van 1 oktober 2014 liggen ter inzage bij het Ministerie van Buitenlandse Zaken, afdeling Verdragen. Tevens is de Engelse tekst van de correcties en wijzigingen te raadplegen op http://www.unece.org/trans/main/dgdb/adn/adn_rep.html.  

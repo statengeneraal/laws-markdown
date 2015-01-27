@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Akkerbouw van 5 juni 2008 houdende vaststelling bestemmingsheffing ten behoeve van het Fonds aardappelverwerking voor het jaar 2008 (Heffingsverordening PA fonds aardappelverwerking jaar 2008)
 
 Het bestuur van het Productschap Akkerbouw;  
-Gelet op de [artikelen 95](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126, eerste, vierde en zesde lid van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op de [artikelen 8](../../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md) en [19 van het Instellingsbesluit akkerbouwproductschappen](../../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md);
+Gelet op de artikelen 95 en 126, eerste, vierde en zesde lid van de Wet op de bedrijfsorganisatie en op de artikelen 8 en 19 van het Instellingsbesluit akkerbouwproductschappen;
 Besluit:     
 ### §  1  
 
@@ -44,7 +44,7 @@ Materieel uitgewerkt per 15-03-2009
 
 a. krachtens haar statutaire doelstelling haar werkzaamheid kan uitstrekken tot ten minste een belangrijk gedeelte van het terrein waarop het productschap een taak heeft te vervullen;  
 
-b. voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de [artikelen 3 tot en met 7 van de Verordening representativiteit organisaties](../../../../../../../../pbo/verordening/representativiteit/organisaties/BWBR0011641/README.md) van de Sociaal Economische Raad;  
+b. voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de artikelen 3 tot en met 7 van de Verordening representativiteit organisaties van de Sociaal Economische Raad;  
 
 c. tot de werkingssfeer van het productschap behorende leden heeft, waarvan het gewogen aantal niet onbetekenend is;  
 
@@ -113,7 +113,7 @@ De secretaris kan, namens het bestuur, besluiten nota’s met een bedrag minder 
 ### Artikel  9  
 Materieel uitgewerkt per 15-03-2009 
 
-Aan de ondernemer die niet of niet geheel binnen de in artikel 6 gestelde termijn heeft betaald, kan door de secretaris, namens het bestuur, de wettelijke interest over het niet-betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md). 
+Aan de ondernemer die niet of niet geheel binnen de in artikel 6 gestelde termijn heeft betaald, kan door de secretaris, namens het bestuur, de wettelijke interest over het niet-betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie. 
 
 ### §  5  
 
@@ -134,7 +134,7 @@ b. niet onder vermelding of aanduiding van de persoon en/of onderneming, waarop 
 ### Artikel  11  
 Materieel uitgewerkt per 15-03-2009 
 
-Deze verordening treedt in werking met ingang van 1 juli 2008. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 juli 2008, treedt zij in werking met ingang van de tweede dag na de dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt terug tot en met 1 juli 2008, met uitzondering van de toepassing van de [Verordening PA algemene bepalingen 2008](../../../../../../../../pbo/verordening/pa/algemene/bepalingen/2008/BWBR0024318/README.md). 
+Deze verordening treedt in werking met ingang van 1 juli 2008. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 juli 2008, treedt zij in werking met ingang van de tweede dag na de dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt terug tot en met 1 juli 2008, met uitzondering van de toepassing van de Verordening PA algemene bepalingen 2008. 
 
 ### Artikel  12  
 Materieel uitgewerkt per 15-03-2009 

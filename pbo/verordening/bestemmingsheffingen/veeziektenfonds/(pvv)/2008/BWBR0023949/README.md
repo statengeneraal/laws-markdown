@@ -3,15 +3,15 @@
 ##Verordening van het Productschap Vee en Vlees van 12 maart 2008, houdende vaststelling van bestemmingsheffingen ten behoeve van het Veeziektenfonds PVV voor het jaar 2008 (Verordening bestemmingsheffingen veeziektenfonds (PVV) 2008)
 
 Het bestuur van het Productschap Vee en Vlees;  
-Gelet op de [artikelen 100, derde lid](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [artikelen 10](../../../../../../../AMvB/instellingsbesluit/productschap/vee/en/vlees/BWBR0016491/README.md) en [12 van het Instellingsbesluit Productschap Vee en Vlees](../../../../../../../AMvB/instellingsbesluit/productschap/vee/en/vlees/BWBR0016491/README.md);
+Gelet op de artikelen 100, derde lid, en 126 van de Wet op de bedrijfsorganisatie en artikelen 10 en 12 van het Instellingsbesluit Productschap Vee en Vlees;
 
-Gezien de [Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(pvv)/2005/BWBR0017340/README.md);
+Gezien de Verordening algemene bepalingen heffingen (PVV) 2005;
 Besluit:    
 
 ### Artikel  1  
 Materieel uitgewerkt per 22-02-2009 
 
-Deze verordening neemt de begripsbepalingen over van de [Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(pvv)/2005/BWBR0017340/README.md) maar verstaat in afwijking van respectievelijk [artikel 1, onder 7 en onder 12, van de Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(pvv)/2005/BWBR0017340/README.md), onder:  
+Deze verordening neemt de begripsbepalingen over van de Verordening algemene bepalingen heffingen (PVV) 2005 maar verstaat in afwijking van respectievelijk artikel 1, onder 7 en onder 12, van de Verordening algemene bepalingen heffingen (PVV) 2005, onder:  
 
 | --- | --- | --- | --- |
 |:---|:---|:---|:---|
@@ -21,7 +21,7 @@ Deze verordening neemt de begripsbepalingen over van de [Verordening algemene be
 ### Artikel  2  
 Materieel uitgewerkt per 22-02-2009 
 
-De ondernemer die in het jaar 2008 één of meer dieren slacht of doet slachten, dan wel uitvoert, is aan het productschap een bijzondere heffing ten behoeve van het Veeziektenfonds PVV als bedoeld in [artikel 1 van de Verordening Veeziektenfonds PVV 2007](../../../../../../../pbo/verordening/veeziektenfonds/(pvv)/2007/BWBR0022126/README.md) verschuldigd ten bedrage van: 
+De ondernemer die in het jaar 2008 één of meer dieren slacht of doet slachten, dan wel uitvoert, is aan het productschap een bijzondere heffing ten behoeve van het Veeziektenfonds PVV als bedoeld in artikel 1 van de Verordening Veeziektenfonds PVV 2007 verschuldigd ten bedrage van: 
 
 a. dit onderdeel is nog niet in werking getreden.  
 
@@ -62,7 +62,7 @@ b. de periode tussen het tijdstip van invoer en het tijdstip van uitvoer korter 
 ### Artikel  5  
 Materieel uitgewerkt per 22-02-2009 
 
-Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de [Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(pvv)/2005/BWBR0017340/README.md). 
+Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de Verordening algemene bepalingen heffingen (PVV) 2005. 
 
 ### Artikel  6  
 Materieel uitgewerkt per 22-02-2009 

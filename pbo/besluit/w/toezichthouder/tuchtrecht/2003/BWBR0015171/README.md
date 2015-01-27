@@ -3,7 +3,7 @@
 ##Besluit van het bestuur van het Productschap Wijn van 4 juni 2003 tot aanwijzing van een toezichthouder (Besluit W toezichthouder tuchtrecht 2003)
 
 Het bestuur van het Productschap Wijn;
-Gelet op [artikel 104, derde lid, Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [afdeling 5.2, Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);
+Gelet op artikel 104, derde lid, Wet op de bedrijfsorganisatie en afdeling 5.2, Algemene wet bestuursrecht;
 Besluit:
 
 ###Artikel 1 

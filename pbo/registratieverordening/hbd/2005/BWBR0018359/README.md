@@ -3,11 +3,11 @@
 ## Registratieverordening HBD 2005
 
 Het bestuur van het Hoofdbedrijfschap voor de Detailhandel;
-Gelet op [artikel 93, tweede lid, onderdeel a van de Wet op de bedrijfsorganisatie](../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+Gelet op artikel 93, tweede lid, onderdeel a van de Wet op de bedrijfsorganisatie;
 
-Gelet op [artikel 11 van het Instellingsbesluit Hoofdbedrijfschap Detailhandel](../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/detailhandel/BWBR0017190/README.md);
+Gelet op artikel 11 van het Instellingsbesluit Hoofdbedrijfschap Detailhandel;
 
-Gelet op de [Wet bescherming persoonsgegevens](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md);
+Gelet op de Wet bescherming persoonsgegevens;
 Besluit vast te stellen de navolgende verordening:
 ###Paragraaf I 
 
@@ -37,7 +37,7 @@ Deze verordening is van toepassing op de ondernemers die een onderneming drijven
 
 1. Het hoofdbedrijfschap verwerkt gegevens van ondernemingen en ondernemers.
 2. Het doel van de verwerking is een bijdrage te leveren aan een efficiënte uitvoering van de aan het hoofdbedrijfschap opgedragen taak.
-3. Het bestuur van het hoofdbedrijfschap is verantwoordelijke in de zin van de [Wet bescherming persoonsgegevens](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).
+3. Het bestuur van het hoofdbedrijfschap is verantwoordelijke in de zin van de Wet bescherming persoonsgegevens.
 
 ###Artikel 4 
 
@@ -78,7 +78,7 @@ c.de vaststelling van de aan de ondernemer door het hoofdbedrijfschap op te legg
 
 a.de opgave van de ondernemer;
 
-bhet handelsregister bedoeld in [artikel 2 van de Handelsregisterwet 1996](../../../../../wet/handelsregisterwet/1996/BWBR0007893/README.md);
+bhet handelsregister bedoeld in artikel 2 van de Handelsregisterwet 1996;
 
 c.een zelfstandig door het hoofdbedrijfschap ingesteld onderzoek; of
 
@@ -122,7 +122,7 @@ b.de plaats van vestiging van de onderneming en haar filialen;
 
 c.het bedrijf of de bedrijven die worden uitgeoefend;
 
-d.het aantal in de onderneming werkzame personen als bedoeld in [artikel 9, derde lid, van het Handelsregisterbesluit 1996](../../../../../AMvB/handelsregisterbesluit/1996/BWBR0008920/README.md);
+d.het aantal in de onderneming werkzame personen als bedoeld in artikel 9, derde lid, van het Handelsregisterbesluit 1996;
 
 e.naam en correspondentieadres van de ondernemer.
 2. De opgave moet worden verricht met gebruikmaking van een daartoe bestemd formulier, dat bij het hoofdbedrijfschap verkrijgbaar is. Het formulier wordt vastgesteld door de voorzitter.
@@ -170,14 +170,14 @@ e.aan gemeentelijke diensten voor het marktwezen, indien en voorzover de verstre
 
 ###Artikel 14 
 
-1. De voorzitter verleent degene van wie persoonsgegevens in het bestand zijn opgenomen of zijn gemachtigde, op diens verzoek zo spoedig mogelijk doch uiterlijk binnen vier weken, inzage van de gegevens of verschaft hem een afschrift van de documenten waarin de gegevens zijn opgenomen, tenzij een van de omstandigheden bedoeld in [artikel 43 van de Wet bescherming persoonsgegevens](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) zich voordoet.
-2. De voorzitter neemt een verzoek als bedoeld in [artikel 35](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) of [36 van de Wet bescherming persoonsgegevens](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) slechts in behandeling als de verzoeker het registratienummer van de ondernemer of onderneming aan hem heeft meegedeeld of indien de voorzitter de identiteit van de verzoeker op andere wijze heeft vastgesteld.
+1. De voorzitter verleent degene van wie persoonsgegevens in het bestand zijn opgenomen of zijn gemachtigde, op diens verzoek zo spoedig mogelijk doch uiterlijk binnen vier weken, inzage van de gegevens of verschaft hem een afschrift van de documenten waarin de gegevens zijn opgenomen, tenzij een van de omstandigheden bedoeld in artikel 43 van de Wet bescherming persoonsgegevens zich voordoet.
+2. De voorzitter neemt een verzoek als bedoeld in artikel 35 of 36 van de Wet bescherming persoonsgegevens slechts in behandeling als de verzoeker het registratienummer van de ondernemer of onderneming aan hem heeft meegedeeld of indien de voorzitter de identiteit van de verzoeker op andere wijze heeft vastgesteld.
 3. Aan een gemachtigde van een in het bestand opgenomen ondernemer worden slechts gegevens verstrekt als een schriftelijke machtiging is overlegd. Indien een gemachtigde telefonisch informatie vraagt, stelt de voorzitter, voordat hij de informatie verstrekt, vast dat de betrokkene inderdaad namens de ondernemer handelt.
 4. Indien gegevens onjuist of onvolledig zijn, worden zij niet verwijderd maar wordt hiervan een aantekening gemaakt en worden de juiste of ontbrekende gegevens tevens in het bestand opgenomen.
 
 ###Artikel 15 
 
-Voor een schriftelijke mededeling als bedoeld in [artikel 35 van de Wet bescherming persoonsgegevens](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) wordt de kostprijs in rekening gebracht, met dien verstande dat het verschuldigde bedrag niet meer bedraagt dat het op grond van [artikel 39 van de Wet bescherming persoonsgegevens](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) vastgestelde bedrag.
+Voor een schriftelijke mededeling als bedoeld in artikel 35 van de Wet bescherming persoonsgegevens wordt de kostprijs in rekening gebracht, met dien verstande dat het verschuldigde bedrag niet meer bedraagt dat het op grond van artikel 39 van de Wet bescherming persoonsgegevens vastgestelde bedrag.
 
 ###Artikel 16 
 
@@ -202,7 +202,7 @@ d.de beveiliging van het bestand.
 
 ###Artikel 19 
 
-De voorzitter is verantwoordelijk voor de inhoud en het gebruik van de gegevens en draagt er voor zorg dat de [Wet bescherming persoonsgegevens](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) en de regels als bedoeld in artikel 18 worden nageleefd.
+De voorzitter is verantwoordelijk voor de inhoud en het gebruik van de gegevens en draagt er voor zorg dat de Wet bescherming persoonsgegevens en de regels als bedoeld in artikel 18 worden nageleefd.
 
 ###Paragraaf V 
 
@@ -218,11 +218,11 @@ Een ieder die betrokken is bij de uitvoering van deze verordening en daarbij de 
 
 ###Artikel 21 
 
-Het op grond van de [Registratieverordening HBD 2003](../../../../../pbo/registratieverordening/hbd/2003/BWBR0015009/README.md) gehouden register wordt geacht op grond van deze verordening te zijn ingesteld.
+Het op grond van de Registratieverordening HBD 2003 gehouden register wordt geacht op grond van deze verordening te zijn ingesteld.
 
 ###Artikel 22 
 
-De [Registratieverordening HBD 2003](../../../../../pbo/registratieverordening/hbd/2003/BWBR0015009/README.md) wordt ingetrokken.
+De Registratieverordening HBD 2003 wordt ingetrokken.
 
 ###Artikel 23 
 

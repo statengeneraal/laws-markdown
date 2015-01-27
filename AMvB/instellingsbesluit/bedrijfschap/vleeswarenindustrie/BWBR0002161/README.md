@@ -6,7 +6,7 @@ Wij JULIANA, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Ministers voor Publiekrechtelijke Bedrijfsorganisatie, van Economische Zaken, van Landbouw, Visserij en Voedselvoorziening en van Sociale Zaken en Volksgezondheid van 11 October 1954, no. B 1852, Directie voor Wetgeving en andere Juridische Aangelegenheden;
 
-Overwegende, dat het wenselijk is overeenkomstig het door de Sociaal-Economische Raad op 9 Juli 1954 uit eigen beweging daartoe uitgebrachte advies over te gaan tot instelling van een bedrijfschap als bedoeld in de [Wet op de Bedrijfsorganisatie](../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) (*Stb.* 1950, K 22, sedert gewijzigd) voor ondernemingen op het gebied van de vleeswaren- en vleesconservenindustrie en de baconindustrie;
+Overwegende, dat het wenselijk is overeenkomstig het door de Sociaal-Economische Raad op 9 Juli 1954 uit eigen beweging daartoe uitgebrachte advies over te gaan tot instelling van een bedrijfschap als bedoeld in de Wet op de Bedrijfsorganisatie (*Stb.* 1950, K 22, sedert gewijzigd) voor ondernemingen op het gebied van de vleeswaren- en vleesconservenindustrie en de baconindustrie;
 
 Gelet op genoemde wet;
 
@@ -35,7 +35,7 @@ d.  *vlees:* delen van vee, welke, al dan niet na toebereiding, tot menselijk vo
 
 e.  *vee:* runderen, varkens, schapen, geiten en eenhoevige dieren;  
 
-f.  *wet:* de [Wet op de Bedrijfsorganisatie](../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) (*Stb.* 1950, K 22, sedert gewijzigd).     
+f.  *wet:* de Wet op de Bedrijfsorganisatie (*Stb.* 1950, K 22, sedert gewijzigd).     
 3.   Dit besluit verstaat onder uitoefening van de vleeswaren- en vleesconservenindustrie en van de baconindustrie niet het verrichten van de in het tweede lid, onder *a* en *b*, genoemde handelingen als bijkomende werkzaamheid naast het geschikt maken van vers vlees voor aflevering aan particulieren en het verkopen van aldus in eigen onderneming behandeld vlees aan particulieren.   
 4.   Dit besluit verstaat onder uitoefening van de vleeswaren- en vleesconservenindustrie voorts niet het vervaardigen van droge soepen, aroma's en pharmaceutische producten.  
 

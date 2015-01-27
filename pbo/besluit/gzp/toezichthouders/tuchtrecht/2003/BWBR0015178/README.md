@@ -3,7 +3,7 @@
 ##Besluit van het bestuur van het Productschap Granen, Zaden en Peulvruchten van 5 juni 2003 tot aanwijzing van toezichthouders (Besluit GZP toezichthouders tuchtrecht 2003)
 
 Het bestuur van het Productschap Granen, Zaden en Peulvruchten;
-Gelet op [artikel 104, derde lid, Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [afdeling 5.2, Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);
+Gelet op artikel 104, derde lid, Wet op de bedrijfsorganisatie en afdeling 5.2, Algemene wet bestuursrecht;
 Besluit:
 
 ###Artikel 1 
@@ -29,8 +29,8 @@ secretarisGoedgekeurd door de Minister van Landbouw, Natuur en Voedselkwaliteit 
 ###Bijlage 
 Materieel uitgewerkt per 14-09-2008 
 
-1.[Verordening GZP algemene bepalingen 2003](../../../../../../../pbo/verordening/gzp/algemene/bepalingen/2003/BWBR0014665/README.md)
+1.Verordening GZP algemene bepalingen 2003
 
-2.[Verordening GZP registratie ondernemingen granen, zaden en peulvruchtensector 2003](../../../../../../../pbo/verordening/gzp/registratie/ondernemingen/granen/zaden/en/etc/BWBR0014667/README.md)
+2.Verordening GZP registratie ondernemingen granen, zaden en peulvruchtensector 2003
 
-3.[Verordening GZP landbouwzaaizaden 2003](../../../../../../../pbo/verordening/gzp/landbouwzaaizaden/2003/BWBR0015179/README.md)
+3.Verordening GZP landbouwzaaizaden 2003
