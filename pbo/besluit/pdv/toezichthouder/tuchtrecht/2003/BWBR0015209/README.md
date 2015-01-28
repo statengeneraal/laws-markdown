@@ -3,7 +3,7 @@
 ##Besluit van het bestuur van het Productschap Diervoeder van 11 juni 2003 tot aanwijzing van een toezichthouder (Besluit PDV toezichthouder tuchtrecht 2003)
 
 Het bestuur van het Productschap Diervoeder;
-Gelet op [artikel 104, derde lid, Wet op de Bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [afdeling 5.2, Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);
+Gelet op artikel 104, derde lid, Wet op de Bedrijfsorganisatie en afdeling 5.2, Algemene wet bestuursrecht;
 Besluit:
 
 ###Artikel 1 

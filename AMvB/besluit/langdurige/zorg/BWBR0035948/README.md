@@ -726,7 +726,7 @@ Een Wlz-uitvoerder besteedt de uitvoering van artikel 4.2.1, eerste lid, onderde
 
 ### Hoofdstuk  5  
 
-####Het het zorginstituut en het ciz
+####Het het Zorginstituut en het CIZ
 
 ### §  1  
 

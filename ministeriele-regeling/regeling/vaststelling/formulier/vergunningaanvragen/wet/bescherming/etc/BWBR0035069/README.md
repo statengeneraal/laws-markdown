@@ -3,12 +3,12 @@
 ##Regeling van de Staatssecretaris van Infrastructuur en Milieu en de Staatssecretaris van Economische Zaken, van 15 april 2014, nr. IENM/BSK-2014/80467, houdende vaststelling van het formulier voor het aanvragen van een vergunning op grond van de Wet bescherming Antarctica (Regeling vaststelling formulier vergunningaanvragen Wet bescherming Antarctica)
 
 De Staatssecretaris van Infrastructuur en Milieu en de Staatssecretaris van Economische Zaken,  
-Gelet op [artikel 2, tweede lid, van het Besluit bescherming Antarctica](../../../../../../../../../AMvB/besluit/bescherming/antarctica/BWBR0009867/README.md);
+Gelet op artikel 2, tweede lid, van het Besluit bescherming Antarctica;
 Besluiten:    
 
 ### Artikel  1  
 
-Als formulier, bedoeld in [artikel 2, tweede lid, van het Besluit bescherming Antarctica](../../../../../../../../../AMvB/besluit/bescherming/antarctica/BWBR0009867/README.md), wordt vastgesteld het als bijlage bij deze regeling behorende aanvraagformulier. 
+Als formulier, bedoeld in artikel 2, tweede lid, van het Besluit bescherming Antarctica, wordt vastgesteld het als bijlage bij deze regeling behorende aanvraagformulier. 
 
 ### Artikel  2  
 
@@ -16,7 +16,7 @@ Op aanvragen die zijn ingediend voor de datum van inwerkingtreding van deze rege
 
 ### Artikel  3  
 
-De [Regeling van de Minister van Volkshuisvesting Ruimtelijke Ordening en Milieubeheer en de Minister van Landbouw, Natuurbeheer en Visserij van 2 november 2000, houdende de vaststelling van het formulier voor het aanvragen van een vergunning op grond van de Wet bescherming Antarctica](../../../../../../../../../ministeriele-regeling/vaststelling/formulier/voor/aanvragen/vergunning/op/grond/van/de/wet/etc/BWBR0011752/README.md) (Stcrt. 2000, 237) wordt ingetrokken. 
+De Regeling van de Minister van Volkshuisvesting Ruimtelijke Ordening en Milieubeheer en de Minister van Landbouw, Natuurbeheer en Visserij van 2 november 2000, houdende de vaststelling van het formulier voor het aanvragen van een vergunning op grond van de Wet bescherming Antarctica (Stcrt. 2000, 237) wordt ingetrokken. 
 
 ### Artikel  4  
 
@@ -39,36 +39,35 @@ S.A.M. Dijksma
 
 ####bij artikel 1 
 
-![253639](http://wetten.overheid.nl/Illustration/253639)
-![253640](http://wetten.overheid.nl/Illustration/253640)
-![253641](http://wetten.overheid.nl/Illustration/253641)
-![253642](http://wetten.overheid.nl/Illustration/253642)
-![253643](http://wetten.overheid.nl/Illustration/253643)
-![253644](http://wetten.overheid.nl/Illustration/253644)
-![253645](http://wetten.overheid.nl/Illustration/253645)
-![253646](http://wetten.overheid.nl/Illustration/253646)
-![253647](http://wetten.overheid.nl/Illustration/253647)
-![253648](http://wetten.overheid.nl/Illustration/253648)
-![253649](http://wetten.overheid.nl/Illustration/253649)
-![253650](http://wetten.overheid.nl/Illustration/253650)
-![253651](http://wetten.overheid.nl/Illustration/253651)
-![253652](http://wetten.overheid.nl/Illustration/253652)
-![253653](http://wetten.overheid.nl/Illustration/253653)
-![253654](http://wetten.overheid.nl/Illustration/253654)
-![253655](http://wetten.overheid.nl/Illustration/253655)
-![253656](http://wetten.overheid.nl/Illustration/253656)
-![253657](http://wetten.overheid.nl/Illustration/253657)
-![253658](http://wetten.overheid.nl/Illustration/253658)
-![253659](http://wetten.overheid.nl/Illustration/253659)
-![253660](http://wetten.overheid.nl/Illustration/253660)
-![253661](http://wetten.overheid.nl/Illustration/253661)
-![253662](http://wetten.overheid.nl/Illustration/253662)
-![253663](http://wetten.overheid.nl/Illustration/253663)
-![253664](http://wetten.overheid.nl/Illustration/253664)
-![253665](http://wetten.overheid.nl/Illustration/253665)
-![253666](http://wetten.overheid.nl/Illustration/253666)
-![253667](http://wetten.overheid.nl/Illustration/253667)
-![253668](http://wetten.overheid.nl/Illustration/253668)
-![253669](http://wetten.overheid.nl/Illustration/253669)
-![253670](http://wetten.overheid.nl/Illustration/253670)
+![254961](http://wetten.overheid.nl/Illustration/254961)
+![254963](http://wetten.overheid.nl/Illustration/254963)
+![254964](http://wetten.overheid.nl/Illustration/254964)
+![254965](http://wetten.overheid.nl/Illustration/254965)
+![254966](http://wetten.overheid.nl/Illustration/254966)
+![254967](http://wetten.overheid.nl/Illustration/254967)
+![254968](http://wetten.overheid.nl/Illustration/254968)
+![254969](http://wetten.overheid.nl/Illustration/254969)
+![254970](http://wetten.overheid.nl/Illustration/254970)
+![254971](http://wetten.overheid.nl/Illustration/254971)
+![254972](http://wetten.overheid.nl/Illustration/254972)
+![254973](http://wetten.overheid.nl/Illustration/254973)
+![254974](http://wetten.overheid.nl/Illustration/254974)
+![254975](http://wetten.overheid.nl/Illustration/254975)
+![254976](http://wetten.overheid.nl/Illustration/254976)
+![254977](http://wetten.overheid.nl/Illustration/254977)
+![254978](http://wetten.overheid.nl/Illustration/254978)
+![254979](http://wetten.overheid.nl/Illustration/254979)
+![254980](http://wetten.overheid.nl/Illustration/254980)
+![254981](http://wetten.overheid.nl/Illustration/254981)
+![254982](http://wetten.overheid.nl/Illustration/254982)
+![254983](http://wetten.overheid.nl/Illustration/254983)
+![254984](http://wetten.overheid.nl/Illustration/254984)
+![254985](http://wetten.overheid.nl/Illustration/254985)
+![254986](http://wetten.overheid.nl/Illustration/254986)
+![254987](http://wetten.overheid.nl/Illustration/254987)
+![254988](http://wetten.overheid.nl/Illustration/254988)
+![254989](http://wetten.overheid.nl/Illustration/254989)
+![254990](http://wetten.overheid.nl/Illustration/254990)
+![254991](http://wetten.overheid.nl/Illustration/254991)
+![254992](http://wetten.overheid.nl/Illustration/254992)
 

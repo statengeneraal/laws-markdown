@@ -610,9 +610,9 @@ a. € 109 voor elk vaarbevoegdheidsbewijs of een duplicaat vaarbevoegdheidsbew
 
 13°. radio-operator;    
 
-b. € 74 voor elk vaarbevoegdheidsbewijs of duplicaat van een vaarbevoegdheidsbewijs waarop de in onderdeel a genoemde functies niet voorkomen.  
+b. € 73 voor elk vaarbevoegdheidsbewijs of duplicaat van een vaarbevoegdheidsbewijs waarop de in onderdeel a genoemde functies niet voorkomen.  
 
-c. € 130 voor een vaarbevoegdheidsbewijs van erkenning als bedoeld in artikel 22, tweede lid, van de Wet zeevarenden.    
+c. € 129 voor een vaarbevoegdheidsbewijs van erkenning als bedoeld in artikel 22, tweede lid, van de Wet zeevarenden.    
 2.  Voor de behandeling van een aanvraag om ontheffing van de verplichting om in het bezit te zijn van een geldig vaarbevoegdheidsbewijs, bedoeld in artikel 25 van de Wet zeevarenden, is een tarief verschuldigd van € 234. 
 
 ### Artikel  2.26  
@@ -625,7 +625,7 @@ Voor de behandeling van een aanvraag voor de erkenning van een opleiding als bed
 
 ####Tarief type rating HSC
 
-Voor de afgifte van een certificaat *type rating HSC *als bedoeld in artikel 8.27 van de Regeling zeevarenden is een tarief verschuldigd van € 121. 
+Voor de afgifte van een certificaat *type rating HSC *als bedoeld in artikel 8.27 van de Regeling zeevarenden is een tarief verschuldigd van € 116. 
 
 ### Artikel  2.28  
 

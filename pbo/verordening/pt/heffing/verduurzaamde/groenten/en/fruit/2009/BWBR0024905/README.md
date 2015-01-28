@@ -3,9 +3,9 @@
 ##Besluit van het bestuur van het Productschap Tuinbouw van 1 juli 2008, houdende de vaststelling van een heffing op verduurzaamde producten voor het jaar 2009 (Verordening PT heffing verduurzaamde groenten en fruit 2009)
 
 Het bestuur van het Productschap Tuinbouw,  
-gelet op de [artikelen 95](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en
+gelet op de artikelen 95 en 126 van de Wet op de bedrijfsorganisatie, en
 
-gelet op de [artikelen 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw](../../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md);
+gelet op de artikelen 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw;
 
 gehoord de Commissie voor groenten en fruit, d.d. 17 juni 2008
 Besluit:    
@@ -15,8 +15,8 @@ Besluit:
 
 ### Artikel  1  
 
-1.  In deze verordening en de daarop berustende bepalingen worden overgenomen de begripsbepalingen van de [artikelen 1](../../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md) en [2 van het Instellingsbesluit Productschap Tuinbouw](../../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md).   
-2.  In deze verordening worden overgenomen de begripsbepalingen van [artikel 1:1](../../../../../../../../../../pbo/verordening/pt/algemene/bepalingen/2007/BWBR0022738/README.md) en [artikel 3:1](../../../../../../../../../../pbo/verordening/pt/algemene/bepalingen/2007/BWBR0022738/README.md), en de werkwijze zoals beschreven in [hoofdstuk 3 van de Verordening Algemene Bepalingen 2007](../../../../../../../../../../pbo/verordening/pt/algemene/bepalingen/2007/BWBR0022738/README.md).   
+1.  In deze verordening en de daarop berustende bepalingen worden overgenomen de begripsbepalingen van de artikelen 1 en 2 van het Instellingsbesluit Productschap Tuinbouw.   
+2.  In deze verordening worden overgenomen de begripsbepalingen van artikel 1:1 en artikel 3:1, en de werkwijze zoals beschreven in hoofdstuk 3 van de Verordening Algemene Bepalingen 2007.   
 3.  In deze verordening en de daarop berustende bepalingen wordt verstaan onder: 
 
 a. het verduurzamen: alle handelingen met betrekking tot groenten en fruit waardoor deze producten, al dan niet voorlopig, langer houdbaar worden;  

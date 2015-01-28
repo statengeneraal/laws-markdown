@@ -458,7 +458,7 @@ Het document waaruit de identiteit van de vreemdeling blijkt is bij voorkeur een
 
 ####Visum
 
-De vreemdeling die verzoekt om toegang tot Nederland moet bij binnenkomst in Nederland informatie verstrekken aan de ambtenaar belast met de grensbewaking ter ondersteuning van zijn verzoek om toegang. De informatie die de vreemdeling aan de ambtenaar belast met de grensbewaking verstrekt moet overeenkomen met de informatie die de vreemdeling heeft verstrekt aan de diplomatieke post ter verkrijging van een visum. De vreemdeling moet, in de gevallen waarin dat vereist is, voor een verblijf van langer dan drie maanden beschikken over een mvv.   
+De vreemdeling die verzoekt om toegang tot Nederland moet bij binnenkomst in Nederland informatie verstrekken aan de ambtenaar belast met de grensbewaking ter ondersteuning van zijn verzoek om toegang. De informatie die de vreemdeling aan de ambtenaar belast met de grensbewaking verstrekt moet overeenkomen met de informatie die de vreemdeling heeft verstrekt aan de diplomatieke post ter verkrijging van een visum. De vreemdeling moet, in de gevallen waarin dat vereist is, voor een verblijf van langer dan 90 dagen beschikken over een mvv.   
 ### 4.4  
 
 ####Reisdoel
@@ -476,7 +476,7 @@ De vreemdeling maakt het doel en duur van het voorgenomen verblijf aannemelijk b
 
 ####Middelen van bestaan
 
-De vreemdeling moet voor een verblijf van ten hoogste drie maanden beschikken over voldoende middelen van bestaan. De middelen van bestaan moeten, anders dan bepaald in paragraaf B1/4.3.2 Vc, voor de vreemdeling voldoende zijn om te voorzien in zowel de kosten van het verblijf in Nederland als in de kosten van de reis naar een plaats buiten Nederland waar de toegang gewaarborgd is. De ambtenaar belast met de grensbewaking moet in ieder geval de volgende omstandigheden van de vreemdeling meewegen: 
+De vreemdeling moet voor een verblijf van ten hoogste 90 dagen beschikken over voldoende middelen van bestaan. De middelen van bestaan moeten, anders dan bepaald in paragraaf B1/4.3.2 Vc, voor de vreemdeling voldoende zijn om te voorzien in zowel de kosten van het verblijf in Nederland als in de kosten van de reis naar een plaats buiten Nederland waar de toegang gewaarborgd is. De ambtenaar belast met de grensbewaking moet in ieder geval de volgende omstandigheden van de vreemdeling meewegen: 
 
 * de duur van het voorgenomen verblijf;  
 
@@ -492,7 +492,7 @@ b. de ambtenaar belast met de grensbewaking heeft geen redenen om aan te nemen d
 
 c. de vreemdeling stelt op verzoek van de ambtenaar belast met de grensbewaking zekerheid voor de kosten van de reis naar een plaats buiten Nederland waar zijn toelating gewaarborgd is, door het deponeren van een retourticket of een garantiesom;  
 
-d. de vreemdeling stelt op verzoek van de ambtenaar belast met de grensbewaking zekerheid doordat een in Nederland wonende solvabele derde zich garant stelt door ondertekening van een garantverklaring.   De ambtenaar belast met de grensbewaking is bevoegd de vreemdeling een meldplicht op te leggen met toepassing van artikel 4.24, eerste lid, onder d, Vb. De ambtenaar belast met de grensbewaking informeert de Korpschef over de toegangsverlening onder voorwaarden door middel van model M20. Een vreemdeling heeft van rechtswege verblijf in de vrije termijn als de vreemdeling voldoet aan de in artikel 12 Vw gestelde voorwaarden en aan die voorwaarden blijft voldoen. De vrije termijn bedraagt 90 dagen. De vreemdeling mag in het kader van verblijf in de vrije termijn aantonen dat hij voldoende middelen van bestaan heeft uit inkomsten uit hier te lande te verrichten werkzaamheden of te verlenen diensten. Voor bepaalde werknemers is een tewerkstellingsvergunning vereist, zie hiervoor B5 Vc. De duur van de te verrichten werkzaamheden of diensten mag niet langer zijn dan de duur van de vrije termijn. De ambtenaar belast met het toezicht op vreemdelingen mag aan de vreemdeling vragen om zekerheid te stellen als de ambtenaar belast met de grensbewaking dat bij binnenkomst van de vreemdeling niet heeft gedaan.   
+d. de vreemdeling stelt op verzoek van de ambtenaar belast met de grensbewaking zekerheid doordat een in Nederland wonende solvabele derde zich garant stelt door ondertekening van een garantverklaring.   De ambtenaar belast met de grensbewaking is bevoegd de vreemdeling een meldplicht op te leggen met toepassing van artikel 4.24, eerste lid, onder d, Vb. De ambtenaar belast met de grensbewaking informeert de Korpschef over de toegangsverlening onder voorwaarden door middel van model M20. Een vreemdeling heeft van rechtswege verblijf in de vrije termijn als de vreemdeling voldoet aan de in artikel 12 Vw gestelde voorwaarden en aan die voorwaarden blijft voldoen. De vrije termijn bedraagt 90 dagen. De vreemdeling mag in het kader van verblijf in de vrije termijn aantonen dat hij voldoende middelen van bestaan heeft uit inkomsten uit hier te lande te verrichten werkzaamheden of te verlenen diensten. Voor bepaalde werknemers is een tewerkstellingsvergunning vereist, zie hiervoor B5 Vc. De duur van de te verrichten werkzaamheden of diensten mag niet langer zijn dan de duur van de vrije termijn. De ambtenaar belast met het toezicht op vreemdelingen mag aan de vreemdeling vragen om zekerheid te stellen als de ambtenaar belast met de grensbewaking dat bij binnenkomst van de vreemdeling niet heeft gedaan.  
 ### 4.6  
 
 ####Deponeren retourticket en garantiesom
@@ -617,7 +617,7 @@ Een vreemdeling die Nederland wil binnenkomen voor verblijf met als doel ‘adop
 
 ####Visa
 
-De regels over de procedures en voorwaarden voor de afgifte van visa voor de doorreis over het grondgebied van de lidstaten van de Europese Unie of een voorgenomen verblijf op het grondgebied van die lidstaten van ten hoogste drie maanden binnen een periode van zes maanden, zijn neergelegd in de Visumcode.   
+De regels over de procedures en voorwaarden voor de afgifte van visa voor de doorreis over het grondgebied van de lidstaten van de Europese Unie of een voorgenomen verblijf op het grondgebied van die lidstaten van ten hoogste 90 dagen binnen een periode van 180 dagen, zijn neergelegd in de Visumcode.   
 ### 5.1  
 
 ####Wijzigen van visa
@@ -1973,7 +1973,7 @@ a. klinisch opgenomen is; en
 
 b. een actieve medische behandeling ondergaat die niet buiten de kliniek mogelijk is; en  
 
-c. in dit verband tijdelijk niet in staat is om te reizen.   De IND verleent in deze gevallen uitstel van vertrek voor de duur van de opname tot een maximum van een half jaar. De vreemdeling hoeft zijn medische situatie niet aan te tonen als de DT&V, het COA of de ambtenaar belast met grensbewaking, concrete aanwijzingen heeft dat de vreemdeling medisch gezien niet in staat is om te reizen. De vreemdeling moet onder behandeling staan bij een behandelaar. In dit geval moet de ambtenaar belast met de uitzetting of ontruiming of de ambtenaar van de DT&V ook zonder nadere onderbouwing van het beroep op artikel 64 Vw door de vreemdeling zich ervan vergewissen of de uitzetting achterwege moet blijven en bij de IND een medisch advies (laten) vragen. De IND vraagt het BMA geen informatie over behandelmogelijkheden in het land van herkomst als de vreemdeling zijn identiteit en nationaliteit niet aantoont. In dat geval is niet duidelijk in welk land naar behandelmogelijkheden moet worden gezocht en wordt uitgegaan van het bestaan ervan.  
+c. in dit verband tijdelijk niet in staat is om te reizen.   De IND verleent in deze gevallen uitstel van vertrek voor de duur van de opname tot een maximum van een half jaar. Het verleende uitstel van vertrek op grond van artikel 64 Vw vervalt van rechtswege twee weken na beëindiging van opname. De vreemdeling hoeft zijn medische situatie niet aan te tonen als de DT&V, het COA of de ambtenaar belast met grensbewaking, concrete aanwijzingen heeft dat de vreemdeling medisch gezien niet in staat is om te reizen. De vreemdeling moet onder behandeling staan bij een behandelaar. In dit geval moet de ambtenaar belast met de uitzetting of ontruiming of de ambtenaar van de DT&V ook zonder nadere onderbouwing van het beroep op artikel 64 Vw door de vreemdeling zich ervan vergewissen of de uitzetting achterwege moet blijven en bij de IND een medisch advies (laten) vragen. De IND vraagt het BMA geen informatie over behandelmogelijkheden in het land van herkomst als de vreemdeling zijn identiteit en nationaliteit niet aantoont. In dat geval is niet duidelijk in welk land naar behandelmogelijkheden moet worden gezocht en wordt uitgegaan van het bestaan ervan.  
 ### 7.1.3  
 
 ####Inwilliging
@@ -2152,16 +2152,12 @@ a. de IND een ander land dat partij is bij Verordening (EU) nr. 604/2013 heeft v
 b. de vreemdeling in het bezit is van een verblijfsvergunning, verleend door een andere lidstaat van de EU of van de EER of door Zwitserland;  
 
 c. het uitvaardigen van een inreisverbod aan de vreemdeling een schending van artikel 8 EVRM betekent.  
-### Ad b.
+###Ad b.
 
 Uitsluitend als de andere lidstaat van de EU (met uitzondering van het Verenigd Koninkrijk en Ierland) of van de EER of Zwitserland die de verblijfsvergunning aan de vreemdeling heeft verleend na consultatie via SIRENE instemt de verblijfsvergunning in te trekken, vaardigt de IND of de ambtenaar belast met de grensbewaking of met het toezicht op vreemdelingen aan de vreemdeling een inreisverbod uit.
-### Ad c.
+###Ad c.
 
-Bij het besluit tot het uitvaardigen van een inreisverbod weegt de IND of de ambtenaar belast met de grensbewaking of met het toezicht op vreemdelingen artikel 8 EVRM-aspecten mee. Verwezen wordt naar paragraaf B7/3.8 Vc. In aanvulling op artikel 6.5, lid 2, Vb vaardigt de IND geen inreisverbod uit als: 
-
-* artikel 66a, lid 7, Vw op de vreemdeling niet van toepassing is;  
-
-* de vreemdeling voldoet aan alle voorwaarden voor verlening van een verblijfsvergunning regulier voor bepaalde tijd op grond van gezinsmigratie (B7), humanitair tijdelijk (B8) of humanitair niet-tijdelijk (B9).  
+Bij het besluit tot het uitvaardigen van een inreisverbod weegt de IND of de ambtenaar belast met de grensbewaking of met het toezicht op vreemdelingen artikel 8 EVRM-aspecten mee. Verwezen wordt naar paragraaf B7/3.8 Vc.
 ###Artikel 3 EVRM
 
 Een opgelegd inreisverbod staat niet in de weg aan inhoudelijke beoordeling van de asielaanvraag. Beoordeling van asielgerelateerde aspecten, waaronder artikel 3 EVRM, vindt dan ook niet plaats in het kader van het inreisverbod. Dit uitgangspunt lijdt uitzondering indien de openbare orde aspecten die aan de vreemdeling worden tegengeworpen, zouden leiden tot weigering van de verblijfsvergunning asiel voor bepaalde tijd (zie C2/6.2.7). In dat geval kan inhoudelijke beoordeling van de aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd immers niet leiden tot verlening van een verblijfsvergunning asiel voor bepaalde tijd, zodat het in de rede ligt de aanspraken op vluchtelingschap of artikel 3 EVRM bij de beoordeling van het inreisverbod te betrekken. Toetsing vindt plaats overeenkomstig A4/3.6.   
@@ -2224,13 +2220,8 @@ Het beleid dat geldt voor de tijdelijke opheffing van de ongewenstverklaring is 
 
 ####Ambtshalve opheffing van het inreisverbod
 
-In aanvulling op artikel 6.5, lid 2 en 3, Vb heft de IND een inreisverbod dat aan een vreemdeling is uitgevaardigd ambtshalve op als: 
+Vervallen per 01-01-2015 
 
-* artikel 66a, lid 7, Vw op de vreemdeling niet van toepassing is; en  
-
-* de vreemdeling voldoet aan alle voorwaarden voor een verblijfsvergunning regulier voor bepaalde tijd op grond van gezinsmigratie (B7), humanitair tijdelijk (B8) of humanitair niet-tijdelijk (B9); of  
-
-* de vreemdeling voldoet aan alle voorwaarden voor verlening van de verblijfsvergunning asiel voor bepaalde tijd.     
 ### 2.5.6  
 
 ####Van rechtswege vervallen

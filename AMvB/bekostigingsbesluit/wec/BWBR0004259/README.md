@@ -232,32 +232,6 @@ Vervallen per 10-02-2006
 2.  Indien blijkt dat voor het uitkeringsjaar artikel 128, zesde lid, van de wet van toepassing is, wordt het verschil tussen de vergoeding, bedoeld in het eerste lid, berekend op grond van artikel 128, zesde lid, van de wet en de vergoeding berekend op grond van artikel 128, vierde lid, van de wet, verstrekt in de maanden mei tot en met december van het uitkeringsjaar.   
 3.  Indien artikel 12a, derde lid, van toepassing is, vindt verrekening plaats van de vergoeding voor dat jaar met de vergoeding die wordt verstrekt in de maanden oktober tot en met december van het uitkeringsjaar.  
 
-### Artikel  14  
-
-####Normatieve vaststelling schoolgrootte
-
-1.  Het normatief bepaalde aantal te huisvesten groepen leerlingen, bedoeld in artikel 128, vierde lid, onder a, en vijfde lid, onder a, van de wet, wordt voor het jaar waarvoor de vergoeding voor de materiële voorzieningen ten behoeve van de instandhouding strekt, berekend door het aantal leerlingen van de desbetreffende school en van een of meer daaraan verbonden afdelingen, op 1 oktober van het voorafgaande jaar, dan wel indien artikel 128, zesde lid, van de wet van toepassing is, het aantal leerlingen van de desbetreffende school en afdelingen op 16 januari van dat jaar, te delen door de voor het desbetreffende onderwijs geldende factor N van de onderstaande tabel.   
-
-|--- | Factor N voor het speciaal onderwijs  | Factor N voor het voortgezet speciaal onderwijs   | Aan:   |--- |--- |
-|:---|:---|:---|:---|:---|:---|
-| a. dove kinderen  | 6  | 6   |
-| b. slechthorende kinderen  | 12  | 7   |
-| c. kinderen met ernstige spraakmoeilijkheden die niet tevens behoren tot de onder a of b bedoelde kinderen  | 12  | 7   |
-| f. lichamelijk gehandicapte kinderen  | 12  | 7   |
-| h. 1°. langdurig zieke kinderen met een lichamelijke handicap  | 13  | 7   |
-| 2°. langdurig zieke kinderen anders dan met een lichamelijke handicap  | 12  | 7  |
-| i. 
-vervallen   | --- | --- |
-| j. zeer moeilijk lerende kinderen  | 12  | 7  |
-| k. zeer moeilijk opvoedbare kinderen  | 12  | 7   |
-| l. 
-vervallen   | --- | --- |
-| m. kinderen in scholen verbonden aan pedologische instituten  | 12  | 7   |
-| n. meervoudig gehandicapte kinderen  | 7 <sup> *  Tenzij bij beschikking van Onze Minister anders is vastgesteld.  </sup>   | 7 <sup> *  Tenzij bij beschikking van Onze Minister anders is vastgesteld.  </sup>   |
-
-2.  Het normatief bepaalde aantal te huisvesten groepen leerlingen, bedoeld in het eerste lid, wordt voor het speciaal onderwijs en het voortgezet speciaal onderwijs, onderscheidenlijk het onderwijs aan een afdeling, afzonderlijk berekend en de uitkomst van de afzonderlijke berekeningen wordt naar boven afgerond op een geheel getal.   
-3.  Voor scholen, waaraan bekostiging als bedoeld in artikel 117, zevende lid, van de wet is toegekend, wordt het aantal leerlingen op basis waarvan die bekostiging is toegekend, voor de toepassing van dit artikel aangemerkt als leerlingen.  
-
 ### Artikel  15  
 
 ####Vergoeding door gemeente aan bevoegd gezag instellingen

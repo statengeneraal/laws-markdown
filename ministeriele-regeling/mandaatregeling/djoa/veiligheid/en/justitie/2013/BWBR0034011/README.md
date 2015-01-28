@@ -3,18 +3,18 @@
 ##Regeling van de directeur Juridische en Operationele Aangelegenheden van het directoraat-generaal Rechtspleging en Rechtshandhaving van het Ministerie van Veiligheid en Justitie van 1 oktober 2013, 426364, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan de hoofden van de onder de directie ressorterende afdelingen (Mandaatregeling DJOA Veiligheid en Justitie 2013)
 
 De directeur Juridische en Operationele Aangelegenheden van het directoraat-generaal Rechtspleging en Rechtshandhaving van het Ministerie van Veiligheid en Justitie,  
-Gelet op [artikel 3, tweede lid, van de Mandaatregeling Ministerie van Veiligheid en Justitie 2011](../../../../../../../../ministeriele-regeling/mandaatregeling/ministerie/van/veiligheid/en/justitie/2011/BWBR0030842/README.md);
+Gelet op artikel 3, tweede lid, van de Mandaatregeling Ministerie van Veiligheid en Justitie 2011;
 Besluit:    
 
 ### Artikel  1  
 
-Van het ingevolge [artikel 1, onderdeel d, van de Mandaatregeling DGRR Veiligheid en Justitie 2013](../../../../../../../../ministeriele-regeling/mandaatregeling/dgrr/ministerie/van/veiligheid/en/justitie/2013/BWBR0034037/README.md) aan de directeur Juridische en Operationele Aangelegenheden verleende mandaat wordt ten aanzien van de aangelegenheden die hun afdeling betreffen ondermandaat verleend aan: 
+Van het ingevolge artikel 1, onderdeel d, van de Mandaatregeling DGRR Veiligheid en Justitie 2013 aan de directeur Juridische en Operationele Aangelegenheden verleende mandaat wordt ten aanzien van de aangelegenheden die hun afdeling betreffen ondermandaat verleend aan: 
 
-a. het hoofd van de afdeling Bestuurlijke en Juridische Zaken (BJZ);  
+a. het hoofd van de afdeling Juridische, Bestuurlijke en Operationele Zaken (JBOZ);  
 
-b. het hoofd van de afdeling Operationele Zaken en Incidentenmanagement (OZI);  
+b. het hoofd van de afdeling Internationale Aangelegenheden en Rechtshulp in Strafzaken (AIRS);  
 
-c. het hoofd van de afdeling Internationale Rechtshulp in Strafzaken (IRS).   
+c. het hoofd van de afdeling Administratieve en Juridische Ondersteuning (AJO).   
 
 ### Artikel  2  
 

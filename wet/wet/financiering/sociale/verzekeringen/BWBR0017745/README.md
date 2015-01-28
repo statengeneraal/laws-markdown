@@ -708,7 +708,13 @@ Bij regeling van Onze Minister, in overeenstemming met Onze Minister van Financi
 
 ####Dienstplichtigen
 
-Vervallen per 01-01-2006 
+###Artikel 56 
+
+####Financiering Ziektewet en Wet werk en inkomen naar arbeidsvermogen dienstplichtigen
+
+1. De premies, bedoeld in artikel 34, zijn niet verschuldigd over het loon van personen voorzover zij werknemer zijn op grond van artikel 4, eerste lid, onderdeel i of j, van de Ziektewet.
+2. De uitkeringen op grond van de Ziektewet en de Wet werk en inkomen naar arbeidsvermogen uit hoofde van een dienstbetrekking als bedoeld in artikel 4, eerste lid, onderdelen i en j, van de Ziektewet, de daaraan verbonden uitvoeringskosten alsmede de op grond van enige wet over die uitkeringen verschuldigde premies en de vergoeding, bedoeld in artikel 46 van de Zorgverzekeringswet die niet op die uitkeringen in mindering kunnen worden gebracht, komen ten laste van het Rijk.
+3. Ten laste van het Rijk komen voorts de kosten die rechtstreeks verband houden met de uitvoering van artikel 30a, van de Wet structuur uitvoeringsorganisatie werk en inkomen ten aanzien van een betrokkene, indien deze ten tijde van het aanvangen van de werkzaamheden van het re-integratiebedrijf, bedoeld in het achtste lid van dat artikel, een uitkering als bedoeld in het tweede lid ontvangt ten laste van het Rijk.
 
 ###Hoofdstuk 4 
 

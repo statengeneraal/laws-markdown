@@ -534,49 +534,6 @@ c. de som van de aantallen leerlingen op alle op 1 augustus van een schooljaar 
 
 Voor de berekening van het bedrag per leerling, bedoeld in artikel 125, tweede lid, van de wet, bedraagt de formatie per leerling voor elk schooljaar volgend op het schooljaar van de toelating van de leerling tot de speciale school voor basisonderwijs 0,0646 formatieplaats. Indien de toelating heeft plaatsgevonden in de periode van 2 oktober tot 1 augustus daaropvolgend bedraagt de formatie per leerling in het eerste schooljaar volgend op de toelating in afwijking van de eerste volzin 0,1098 formatieplaats.
 
-### Artikel 34 
-
-####Omvang personele deel leerlinggebonden budget
-
-1. Voor een op de basisschool of de speciale school voor basisonderwijs ingeschreven leerling die toelaatbaar is verklaard tot een van de onderwijssoorten, bedoeld in artikel 2, vierde lid, onderdeel b of c, van de Wet op de expertisecentra dan wel tot het cluster, bedoeld in artikel 2, vierde lid, onderdeel d, van genoemde wet wordt een budget toegekend dat bestaat uit de som van:
-
-a.een basisbedrag, welk bedrag wordt verhoogd met een leeftijdsbedrag dat wordt vermenigvuldigd met de geraamde landelijk gewogen gemiddelde leeftijd van de leraren van basisscholen op 1 oktober van het voorafgaande schooljaar, en
-
-b.een her te besteden basisbedrag, welk bedrag wordt verhoogd met een leeftijdsbedrag dat wordt vermenigvuldigd met de geraamde landelijk gewogen gemiddelde leeftijd van leraren in het speciaal onderwijs en het voortgezet speciaal onderwijs op 1 oktober van het voorafgaande schooljaar. 
-2. Voor de berekening van het basisbedrag, bedoeld in het eerste lid, en het leeftijdsbedrag, bedoeld in het eerste lid, bedraagt de formatie de hoeveelheid die in onderstaande tabel is aangegeven bij de betreffende toelaatbaarheidsverklaring.  Basisscholen 
-
-| Toelaatbaar verklaard tot speciaal onderwijs aan/van:  | Formatie t.b.v. eerste lid, onderdeel a  | Formatie t.b.v. eerste lid, onderdeel b  |
-|:---|:---|:---|
-| a. Dove kinderen  | 0,2179  | 0,1846  |
-| b. Slechthorende kinderen  | 0,1061  | 0,0821  |
-| c. Kinderen met ernstige spraak moeilijkheden  | 0,1061  | 0,0821  |
-| d. Lichamelijk gehandicapte kinderen  | 0,1061  | 0,0709  |
-| e. Langdurig zieke kinderen met lichamelijke handicap  | 0,1061  | 0,0709  |
-| f. Zeer moeilijk lerende kinderen  | 0,1061  | 0,0709  |
-| g. cluster 4  | 0,1061  | 0,0709  |
-| h. meervoudig gehandicapte kinderen met de combinatie:  |
-| Doof en zeer moeilijk lerend  | 0,2179  | 0,0821  |
-| Doof en blind  | 0,2179  | 0,0821  |
-| Slechthorend en zeer moeilijk lerend  | 0,2179  | 0,0821  |
-| Lichamelijk gehandicapt en zeer moeilijk lerend  | 0,2179  | 0,0709  |
-
-Speciale scholen voor basisonderwijs 
-
-| Toelaatbaar verklaard tot speciaal onderwijs aan/van:  | Formatie t.b.v. eerste lid, onderdeel a  | Formatie t.b.v. eerste lid, onderdeel b  |
-|:---|:---|:---|
-| a. Dove kinderen  | 0,1477  | 0,1846  |
-| b. Slechthorende kinderen  | 0,0359  | 0,0821  |
-| c. Kinderen met ernstige spraak moeilijkheden  | 0,0359  | 0,0821  |
-| d. Lichamelijk gehandicapte kinderen  | 0,0359  | 0,0709  |
-| e. Langdurig zieke kinderen met lichamelijke handicap  | 0,0359  | 0,0709  |
-| f. Zeer moeilijk lerende kinderen  | 0,0359  | 0,0709  |
-| g. cluster 4  | 0,0359  | 0,0709  |
-| h. meervoudig gehandicapte kinderen met de combinatie:  |
-| Doof en zeer moeilijk lerend  | 0,1477  | 0,0821  |
-| Doof en blind  | 0,1477  | 0,0821  |
-| Slechthorend en zeer moeilijk lerend  | 0,1477  | 0,0821  |
-| Lichamelijk gehandicapt en zeer moeilijk lerend  | 0,1477  | 0,0709  |
-
 ###Hoofdstuk IIIa 
 
 ####Meting en beoordeling leerresultaten school

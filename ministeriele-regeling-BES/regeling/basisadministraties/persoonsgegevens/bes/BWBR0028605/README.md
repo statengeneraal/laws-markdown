@@ -3,7 +3,7 @@
 ##Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 16 september 2010, nr. 2010-0000605688, houdende regels ter uitvoering van de Wet basisadministraties persoonsgegevens BES en het Besluit basisadministraties persoonsgegevens BES (Regeling basisadministraties persoonsgegevens BES)
 
 De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties,  
-Gelet op de [artikelen 3, tweede lid](../../../../../../wet-BES/wet/basisadministraties/persoonsgegevens/bes/BWBR0028208/README.md), [3a, derde lid](../../../../../../wet-BES/wet/basisadministraties/persoonsgegevens/bes/BWBR0028208/README.md), [4c, tweede en derde lid](../../../../../../wet-BES/wet/basisadministraties/persoonsgegevens/bes/BWBR0028208/README.md), [10, tweede lid](../../../../../../wet-BES/wet/basisadministraties/persoonsgegevens/bes/BWBR0028208/README.md), [11, derde lid](../../../../../../wet-BES/wet/basisadministraties/persoonsgegevens/bes/BWBR0028208/README.md), en [30, tweede lid](../../../../../../wet-BES/wet/basisadministraties/persoonsgegevens/bes/BWBR0028208/README.md), en [37 van de Wet basisadministraties persoonsgegevens BES](../../../../../../wet-BES/wet/basisadministraties/persoonsgegevens/bes/BWBR0028208/README.md) en de [artikelen 30, tweede lid](../../../../../../AMvB-BES/besluit/basisadministraties/persoonsgegevens/bes/BWBR0028622/README.md), en [31, eerste lid, van het Besluit basisadministraties persoonsgegevens BES](../../../../../../AMvB-BES/besluit/basisadministraties/persoonsgegevens/bes/BWBR0028622/README.md);
+Gelet op de artikelen 3, tweede lid, 3a, derde lid, 4c, tweede en derde lid, 10, tweede lid, 11, derde lid, en 30, tweede lid, en 37 van de Wet basisadministraties persoonsgegevens BES en de artikelen 30, tweede lid, en 31, eerste lid, van het Besluit basisadministraties persoonsgegevens BES;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -15,19 +15,19 @@ In deze regeling wordt verstaan onder:
 
 a.  *de minister:* de Minister van Binnenlandse Zaken en Koninkrijksrelaties;  
 
-b.  *de wet:* de [Wet basisadministraties persoonsgegevens BES](../../../../../../wet-BES/wet/basisadministraties/persoonsgegevens/bes/BWBR0028208/README.md);  
+b.  *de wet:* de Wet basisadministraties persoonsgegevens BES;  
 
-c.  *het besluit:* het [Besluit basisadministraties persoonsgegevens BES](../../../../../../AMvB-BES/besluit/basisadministraties/persoonsgegevens/bes/BWBR0028622/README.md);  
+c.  *het besluit:* het Besluit basisadministraties persoonsgegevens BES;  
 
 d.  *de systeembeschrijving basisadministraties BES:* de systeembeschrijving basisadministraties BES, bedoeld in artikel 3, eerste lid;  
 
 e.  *de systeembeschrijving verstrekkingenvoorziening BES:* de systeembeschrijving verstrekkingenvoorziening BES, bedoeld in artikel 6, eerste lid;  
 
-f.  *het geautomatiseerde systeem van het openbaar lichaam:* het geautomatiseerde systeem waarmee het bestuurscollege uitvoering geeft aan de regels, bedoeld in [artikel 3, tweede lid, van de wet](../../../../../../wet-BES/wet/basisadministraties/persoonsgegevens/bes/BWBR0028208/README.md);  
+f.  *het geautomatiseerde systeem van het openbaar lichaam:* het geautomatiseerde systeem waarmee het bestuurscollege uitvoering geeft aan de regels, bedoeld in artikel 3, tweede lid, van de wet;  
 
-g.  *het geautomatiseerde systeem van het overheidsorgaan of de derde:* het geautomatiseerde systeem waarmee het overheidsorgaan of de derde uitvoering geeft aan de regels, bedoeld in [artikel 3a, derde lid, van de wet](../../../../../../wet-BES/wet/basisadministraties/persoonsgegevens/bes/BWBR0028208/README.md);  
+g.  *het geautomatiseerde systeem van het overheidsorgaan of de derde:* het geautomatiseerde systeem waarmee het overheidsorgaan of de derde uitvoering geeft aan de regels, bedoeld in artikel 3a, derde lid, van de wet;  
 
-h.  *autorisatiebesluit:* een besluit als bedoeld in [artikel 20, derde lid, van de wet](../../../../../../wet-BES/wet/basisadministraties/persoonsgegevens/bes/BWBR0028208/README.md).   
+h.  *autorisatiebesluit:* een besluit als bedoeld in artikel 20, derde lid, van de wet.   
 
 ### Hoofdstuk  2  
 
@@ -42,11 +42,11 @@ h.  *autorisatiebesluit:* een besluit als bedoeld in [artikel 20, derde lid, van
 
 1.  Er is een systeembeschrijving basisadministraties BES, waarin zijn opgenomen: 
 
-a. de regels omtrent de technische en administratieve inrichting en werking van de basisadministraties, bedoeld in [artikel 3, tweede lid, van de wet](../../../../../../wet-BES/wet/basisadministraties/persoonsgegevens/bes/BWBR0028208/README.md);  
+a. de regels omtrent de technische en administratieve inrichting en werking van de basisadministraties, bedoeld in artikel 3, tweede lid, van de wet;  
 
-b. de regels met betrekking tot de verwijdering en de vernietiging van algemene gegevens, bijzondere gegevens, verwijsgegevens, administratieve gegevens en administratieve gegevens in verband met de verwijsgegevens, bedoeld in de [artikelen 10, tweede lid](../../../../../../wet-BES/wet/basisadministraties/persoonsgegevens/bes/BWBR0028208/README.md), en [11, derde lid, van de wet](../../../../../../wet-BES/wet/basisadministraties/persoonsgegevens/bes/BWBR0028208/README.md);  
+b. de regels met betrekking tot de verwijdering en de vernietiging van algemene gegevens, bijzondere gegevens, verwijsgegevens, administratieve gegevens en administratieve gegevens in verband met de verwijsgegevens, bedoeld in de artikelen 10, tweede lid, en 11, derde lid, van de wet;  
 
-c. de regels omtrent de verzending en de ontvangst van berichten door de basisadministraties in verband met de uitvoering van [artikel 3a, derde lid, onder b, van de wet](../../../../../../wet-BES/wet/basisadministraties/persoonsgegevens/bes/BWBR0028208/README.md).     
+c. de regels omtrent de verzending en de ontvangst van berichten door de basisadministraties in verband met de uitvoering van artikel 3a, derde lid, onder b, van de wet.     
 2.  De systeembeschrijving basisadministraties BES wordt gevormd door de op de onderwerpen, genoemd in het eerste lid, betrekking hebbende en als zodanig gemarkeerde hoofdstukken en bijlagen, of onderdelen daarvan, van het Logisch Ontwerp BES, versie 1.0, dat als bijlage bij deze regeling is gevoegd.  
 
 ### Artikel  4  
@@ -81,7 +81,7 @@ f. maatregelen bij calamiteiten.
 
 1.  Er is een systeembeschrijving verstrekkingenvoorziening BES, waarin zijn opgenomen: 
 
-a. de regels omtrent de technische en administratieve inrichting en werking van de verstrekkingenvoorziening, bedoeld in [artikel 3a, derde lid, onder a, van de wet](../../../../../../wet-BES/wet/basisadministraties/persoonsgegevens/bes/BWBR0028208/README.md);  
+a. de regels omtrent de technische en administratieve inrichting en werking van de verstrekkingenvoorziening, bedoeld in artikel 3a, derde lid, onder a, van de wet;  
 
 b. de beschrijving van de volgende wijzen van systematisch verstrekken van gegevens aan overheidsorganen en derden op grond van de desbetreffende autorisatiebesluiten: 
 
@@ -89,7 +89,7 @@ b. de beschrijving van de volgende wijzen van systematisch verstrekken van gegev
 
 2°. de verstrekking van de in een autorisatiebesluit vermelde gegevens over personen waarvan de in de basisadministratie vermelde gegevens voldoen aan de in het autorisatiebesluit genoemde voorwaarden (selectieverstrekkingen);    
 
-c. de regels omtrent de verzending en de ontvangst van berichten door de verstrekkingenvoorziening in verband met de uitvoering van [artikel 3a, derde lid, onder b, van de wet](../../../../../../wet-BES/wet/basisadministraties/persoonsgegevens/bes/BWBR0028208/README.md).     
+c. de regels omtrent de verzending en de ontvangst van berichten door de verstrekkingenvoorziening in verband met de uitvoering van artikel 3a, derde lid, onder b, van de wet.     
 2.  De systeembeschrijving verstrekkingenvoorziening BES wordt gevormd door de op de onderwerpen, genoemd in het eerste lid, betrekking hebbende en als zodanig gemarkeerde hoofdstukken en bijlagen, of onderdelen daarvan, van het Logisch Ontwerp BES, versie 1.0, dat als bijlage bij deze regeling is gevoegd.  
 
 ### Artikel  7  
@@ -118,7 +118,7 @@ f. maatregelen bij calamiteiten.
 
 ### Artikel  9  
 
-De systematische wijzen van verstrekking van gegevens, bedoeld in [artikel 31, eerste lid, van het besluit](../../../../../../AMvB-BES/besluit/basisadministraties/persoonsgegevens/bes/BWBR0028622/README.md), zijn de wijzen die overeenkomstig artikel 6, eerste lid, onder b, zijn beschreven in de systeembeschrijving verstrekkingenvoorziening BES. 
+De systematische wijzen van verstrekking van gegevens, bedoeld in artikel 31, eerste lid, van het besluit, zijn de wijzen die overeenkomstig artikel 6, eerste lid, onder b, zijn beschreven in de systeembeschrijving verstrekkingenvoorziening BES. 
 
 ### §  3  
 
@@ -148,17 +148,17 @@ Bij de indiening van een verzoek tot het nemen van een autorisatiebesluit maakt 
 
 In dit hoofdstuk wordt verstaan onder: 
 
-a.  *betrokkene:* de betrokkene, bedoeld in [artikel 4c van de wet](../../../../../../wet-BES/wet/basisadministraties/persoonsgegevens/bes/BWBR0028208/README.md).  
+a.  *betrokkene:* de betrokkene, bedoeld in artikel 4c van de wet.  
 
-b.  *bijdrage:* de bijdrage, bedoeld in [artikel 4c van de wet](../../../../../../wet-BES/wet/basisadministraties/persoonsgegevens/bes/BWBR0028208/README.md).  
+b.  *bijdrage:* de bijdrage, bedoeld in artikel 4c van de wet.  
 
 c.  *jaar:* kalenderjaar;  
 
-d.  *bericht:* een bericht als bedoeld in [artikel 3a, derde lid, onder b, van de wet](../../../../../../wet-BES/wet/basisadministraties/persoonsgegevens/bes/BWBR0028208/README.md).   
+d.  *bericht:* een bericht als bedoeld in artikel 3a, derde lid, onder b, van de wet.   
 
 ### Artikel  14  
 
-De categorieën van kosten, bedoeld in [artikel 4c, tweede lid, van de wet](../../../../../../wet-BES/wet/basisadministraties/persoonsgegevens/bes/BWBR0028208/README.md), zijn: 
+De categorieën van kosten, bedoeld in artikel 4c, tweede lid, van de wet, zijn: 
 
 a. kosten in verband met het beheer en het gebruik van de verstrekkingenvoorziening;  
 
@@ -224,7 +224,7 @@ c. de bedragen die gedurende de desbetreffende maand op grond van artikel 16, vi
 
 ### Artikel  19  
 
-Deze regeling treedt in werking op het tijdstip waarop de [Wet basisadministraties persoonsgegevens BES](../../../../../../wet-BES/wet/basisadministraties/persoonsgegevens/bes/BWBR0028208/README.md) in werking treedt. 
+Deze regeling treedt in werking op het tijdstip waarop de Wet basisadministraties persoonsgegevens BES in werking treedt. 
 
 ### Artikel  20  
 
