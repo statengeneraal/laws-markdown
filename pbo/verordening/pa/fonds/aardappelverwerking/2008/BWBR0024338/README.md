@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Akkerbouw van 5 juni 2008 tot instelling van het fonds aardappelverwerking (Verordening PA fonds aardappelverwerking 2008)
 
 Het bestuur van het Productschap Akkerbouw:  
-Gelet op de [artikelen 93](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [123 van de Wet op de Bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op de [artikelen 8](../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md) en [17 van het Instellingsbesluit akkerbouwproductschappen](../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md);
+Gelet op de artikelen 93 en 123 van de Wet op de Bedrijfsorganisatie en op de artikelen 8 en 17 van het Instellingsbesluit akkerbouwproductschappen;
 Besluit:    
 
 ### Artikel  1  
@@ -12,7 +12,7 @@ Besluit:
 2.  Het dagelijks bestuur van het productschap beheert dit fonds.   
 3.  De baten van het fonds bestaan uit: 
 
-a. de opbrengst van de heffing uit hoofde van de jaarlijks vast te stellen [Heffingsverordening PA fonds aardappelverwerking](../../../../../../../pbo/heffingsverordening/pa/fonds/aardappelverwerking/jaar/2008/BWBR0024510/README.md);  
+a. de opbrengst van de heffing uit hoofde van de jaarlijks vast te stellen Heffingsverordening PA fonds aardappelverwerking;  
 
 b. de van de middelen van het fonds gekweekte rente.    
 

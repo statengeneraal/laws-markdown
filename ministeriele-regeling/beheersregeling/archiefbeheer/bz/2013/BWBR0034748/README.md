@@ -3,7 +3,7 @@
 ##Besluit van de Minister van Buitenlandse Zaken van 16 december 2013, nr. MINBUZA-2013.341554 tot vaststelling van beheersregels voor het archiefbeheer van het Ministerie van Buitenlandse Zaken (Beheersregeling archiefbeheer BZ 2013)
 
 De Minister van Buitenlandse Zaken,  
-Gelet op [artikel 14 van het Archiefbesluit 1995](../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md);
+Gelet op artikel 14 van het Archiefbesluit 1995;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -33,11 +33,11 @@ d. *archiefbescheiden:*
 
 e.  *archiefcommissie:* de archiefcommissie is onafhankelijk adviseur van de minister inzake het archiefbeheer van het ministerie.  
 
-f.  *chef de poste:* hoofd van een vertegenwoordiging van het Koninkrijk in het buitenland als bedoeld in [artikel 7 van het Reglement Dienst Buitenlandse Zaken](../../../../../../AMvB/reglement/dienst/buitenlandse/zaken/BWBR0004052/README.md).  
+f.  *chef de poste:* hoofd van een vertegenwoordiging van het Koninkrijk in het buitenland als bedoeld in artikel 7 van het Reglement Dienst Buitenlandse Zaken.  
 
 g.  *chief information officer:* de functionaris die verantwoordelijk is voor de departementale strategie en het strategisch beleid voor informatievoorziening en ICT en de toepassing van rijksbrede kaders op dit terrein bewaakt.  
 
-h.  *directeur:* persoon bedoeld in [artikel 1 lid f en g van de Regeling mandaat, volmacht en machtiging BZ 2004](../../../../../../ministeriele-regeling/regeling/mandaat/volmacht/en/machtiging/bz/2004/BWBR0016345/README.md).  
+h.  *directeur:* persoon bedoeld in artikel 1 lid f en g van de Regeling mandaat, volmacht en machtiging BZ 2004.  
 
 i.  *directeur Bedrijfsvoering:* de functionaris die belast is met de uitvoering van het archiefbeheer voor het ministerie.  
 
@@ -51,7 +51,7 @@ m.  *overbrenging:* het overbrengen van blijvend te bewaren archiefbescheiden na
 
 n.  *overdracht:* het overdragen van archiefbescheiden aan een ander organisatieonderdeel van het ministerie.  
 
-o.  *selectielijst:* het wettelijk voorgeschreven instrument voor de selectie van te bewaren en te vernietigen archiefbescheiden, bedoeld in [artikel 5 van de Archiefwet 1995](../../../../../../wet/archiefwet/1995/BWBR0007376/README.md).  
+o.  *selectielijst:* het wettelijk voorgeschreven instrument voor de selectie van te bewaren en te vernietigen archiefbescheiden, bedoeld in artikel 5 van de Archiefwet 1995.  
 
 p.  *verklaring:* een door de directeur of chef de poste ondertekende verklaring van overbrenging, vernietiging, vervanging of vervreemding van archiefbescheiden.  
 
@@ -67,7 +67,7 @@ r.  *vervreemding:* het in eigendom overdragen van archiefbescheiden aan een and
 
 ####minister
 
-1.  De minister is zorgdrager in de zin van [artikel 1 lid d van de Archiefwet 1995](../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) voor de archiefbescheiden van het ministerie.   
+1.  De minister is zorgdrager in de zin van artikel 1 lid d van de Archiefwet 1995 voor de archiefbescheiden van het ministerie.   
 2.  Indien een ander rechtspersoon namens de minister openbaar gezag uitoefent, berust de zorg voor de archiefbescheiden die in dit kader worden gevormd bij de minister.   
 3.  Deze regeling is van toepassing op het beheer van alle archiefbescheiden waarvoor de minister zorgdrager is.   
 4.  De zorg van de minister eindigt door overbrenging, vervreemding of vernietiging van de archiefbescheiden.   
@@ -173,7 +173,7 @@ De Archiefcommissie adviseert, gevraagd en ongevraagd, de departementsleiding, d
 
 1.  De directeur Bedrijfsvoering beheert de archiefbescheiden zodanig dat bij het raadplegen van deze archiefbescheiden geen noemenswaardige achteruitgang van de archiefbescheiden is te constateren.   
 2.  Voor zover instabiele, minder goed houdbare materialen zijn gebruikt, conserveert of vervangt de directeur Bedrijfsvoering de betreffende archiefbescheiden.   
-3.  De materialen die het ministerie gebruikt bij het opmaken van archiefbescheiden voldoen aan de eisen gesteld in de [Archiefregeling 2009](../../../../../../ministeriele-regeling/archiefregeling/BWBR0027041/README.md).   
+3.  De materialen die het ministerie gebruikt bij het opmaken van archiefbescheiden voldoen aan de eisen gesteld in de Archiefregeling 2009.   
 4.  Digitale archiefbescheiden worden, uiterlijk op het tijdstip van overbrenging, opgeslagen in een valideerbaar en volledig gedocumenteerd bestandsformaat dat voldoet aan een open standaard, tenzij dit redelijkerwijs niet mogelijk is.  
 
 ### §  2  
@@ -218,7 +218,7 @@ c. de waarde van de archiefbescheiden als bestanddeel van het cultureel erfgoed,
 
 d. het belang van de in de archiefbescheiden voorkomende gegevens voor overheidsorganen, voor recht- of bewijszoekenden en voor historisch onderzoek.     
 2.  Selectielijsten worden opgesteld voor de duur van ten hoogste twintig jaar.   
-3.  De [artikelen 3 tot en met 5 van het Archiefbesluit 1995](../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md) zijn van overeenkomstige toepassing.  
+3.  De artikelen 3 tot en met 5 van het Archiefbesluit 1995 zijn van overeenkomstige toepassing.  
 
 ### §  4  
 
@@ -236,7 +236,7 @@ d. het belang van de in de archiefbescheiden voorkomende gegevens voor overheids
 
 ####Externe beschikbaarstelling
 
-1.  Archiefbescheiden worden door de directeur of chef de poste op verzoek ter beschikking gesteld aan derden met inachtneming van de wet- en regelgeving, in het bijzonder de [Wet openbaarheid van bestuur](../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md).   
+1.  Archiefbescheiden worden door de directeur of chef de poste op verzoek ter beschikking gesteld aan derden met inachtneming van de wet- en regelgeving, in het bijzonder de Wet openbaarheid van bestuur.   
 2.  Verzoeken tot beschikbaarstelling van archiefbescheiden stemt de directeur of chef de poste af met de directeur Juridische Zaken.   
 3.  Indien het verzoek tot beschikbaarstelling wordt ingewilligd worden de betreffende archiefbescheiden digitaal ter beschikking gesteld aan de aanvrager.   
 4.  Indien de aard of mate van beschikbaarstelling of gebruik van de opgevraagde archiefbescheiden een ernstige bedreiging vormt voor hun toestand, is het mogelijk dat in plaats van de originele archiefbescheiden reproducties ter beschikking worden gesteld.   
@@ -256,8 +256,8 @@ a. de archiefbescheiden voorkomen op een vastgestelde selectielijst,
 
 b. noodvernietiging, als bedoeld in artikel 20, moet worden toegepast,  
 
-c. de archiefbescheiden ingevolge artikel 16 zijn vervangen.     
-2.  Voordat vernietiging plaatsvindt, dienen de directeur Bedrijfsvoering en de directeur of chef de poste van het dienstonderdeel dat de archiefbescheiden heeft gevormd schriftelijk toestemming te hebben verleend.   
+c. de archiefbescheiden ingevolge artikel 16 zijn vervangen.    
+2. Voordat vernietiging plaatsvindt, dient de directeur Bedrijfsvoering daartoe schriftelijk toestemming te verlenen.  
 3.  Vernietiging geschiedt zodanig dat het niet mogelijk is op enige wijze nog informatie uit de archiefbescheiden te herleiden.   
 4.  Van de vernietiging wordt een verklaring opgemaakt die een specificatie bevat van de vernietigde archiefbescheiden.  
 
@@ -275,7 +275,7 @@ c. de archiefbescheiden ingevolge artikel 16 zijn vervangen.
 
 1.  De directeur Bedrijfsvoering kan in overleg met directeuren en chefs de poste archiefbescheiden die niet zijn overgebracht naar het Nationaal Archief vervreemden.   
 2.  Voor vervreemding is een machtiging vereist van de Minister van Onderwijs, Cultuur en Wetenschap, tenzij dit geschiedt ter uitvoering van een wettelijke voorschrift.   
-3.  Bij vervreemding als bedoeld in het eerste lid wordt rekening gehouden met de belangen genoemd in [artikel 2, eerste lid van het Archiefbesluit 1995](../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md).   
+3.  Bij vervreemding als bedoeld in het eerste lid wordt rekening gehouden met de belangen genoemd in artikel 2, eerste lid van het Archiefbesluit 1995.   
 4.  Van de vervreemding wordt een verklaring opgemaakt die een specificatie bevat van de vervreemde archiefbescheiden.  
 
 ### Artikel  17  
@@ -314,7 +314,7 @@ c. de archiefbescheiden ingevolge artikel 16 zijn vervangen.
 
 1.  Bij een organisatiewijziging, zoals reorganisatie, opheffing of privatisering, waarbij overheidsorganen worden samengevoegd, gesplitst, ingesteld of opgeheven, dan wel waarbij een of meerdere taken worden overgedragen aan een ander overheidsorgaan, wordt door de directeur Bedrijfsvoering, in overleg met de desbetreffende directeur of chef de poste, een voorziening getroffen voor de desbetreffende archiefbescheiden.   
 2.  Bij een organisatiewijziging wordt het deelarchief van het desbetreffende organisatieonderdeel afgesloten. Het nieuwe organisatieonderdeel of de geprivatiseerde organisatie begint een nieuw archief.   
-3.  Bij de totstandkoming van de voorziening, bedoeld in het eerste lid, houdt de directeur Bedrijfsvoering rekening met het gestelde in de [artikelen 2](../../../../../../KB/besluit/archiefoverdrachten/rijksadministratie/BWBR0004427/README.md), [3](../../../../../../KB/besluit/archiefoverdrachten/rijksadministratie/BWBR0004427/README.md) en [4 van het Besluit archiefoverdrachten rijksadministratie](../../../../../../KB/besluit/archiefoverdrachten/rijksadministratie/BWBR0004427/README.md).   
+3.  Bij de totstandkoming van de voorziening, bedoeld in het eerste lid, houdt de directeur Bedrijfsvoering rekening met het gestelde in de artikelen 2, 3 en 4 van het Besluit archiefoverdrachten rijksadministratie.   
 4.  Bij de instelling van tijdelijke organisatieonderdelen wordt, in overleg met directeur Bedrijfsvoering, een voorziening getroffen voor het archiefbeheer van de archiefbescheiden na opheffing van het organisatieonderdeel.  
 
 ### Artikel  21  
@@ -331,7 +331,7 @@ Een regeling waarbij taken en bevoegdheden namens de minister worden uitgevoerd 
 
 ####Intrekking
 
-De [Archiefbeheersregeling Ministerie van Buitenlandse Zaken 2012](../../../../../../ministeriele-regeling/beheersregeling/archiefbeheer/bz/2012/BWBR0031658/README.md) wordt ingetrokken. 
+De Archiefbeheersregeling Ministerie van Buitenlandse Zaken 2012 wordt ingetrokken. 
 
 ### Artikel  23  
 

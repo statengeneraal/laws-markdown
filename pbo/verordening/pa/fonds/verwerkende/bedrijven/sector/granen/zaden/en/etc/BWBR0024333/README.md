@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Akkerbouw van 5 juni 2008 houdende regels ter zake van het instellen van een fonds (Verordening PA fonds verwerkende bedrijven sector granen, zaden en peulvruchten 2008)
 
 Het bestuur van het Productschap Akkerbouw;  
-Gelet op de [artikelen 93](../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [123 van de Wet op de bedrijfsorganisatie](../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en de [artikelen 8](../../../../../../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md) en [17 van het Instellingsbesluit akkerbouwproductschappen](../../../../../../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md);
+Gelet op de artikelen 93 en 123 van de Wet op de bedrijfsorganisatie en de artikelen 8 en 17 van het Instellingsbesluit akkerbouwproductschappen;
 Besluit:     
 ### §  1  
 

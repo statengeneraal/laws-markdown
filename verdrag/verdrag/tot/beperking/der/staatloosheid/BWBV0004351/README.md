@@ -71,7 +71,7 @@ If the law of a Contracting State provides for loss of its nationality by a pers
 1. 
 (a)If the law of a Contracting State permits renunciation of nationality, such renunciation shall not result in loss of nationality unless the person concerned possesses or acquires another nationality.
 
-(b)The provisions of sub-paragraph (*a*) of this paragraph shall not apply where their application would be inconsistent with the principles stated in [Articles 13](../../../../../../../verdrag/universal/declaration/of/human/rights/BWBV0001008/README.md) and [14 of the Universal Declaration of Human Rights](../../../../../../../verdrag/universal/declaration/of/human/rights/BWBV0001008/README.md) approved on 10 December 1948 by the General Assembly of the United Nations.
+(b)The provisions of sub-paragraph (*a*) of this paragraph shall not apply where their application would be inconsistent with the principles stated in Articles 13 and 14 of the Universal Declaration of Human Rights approved on 10 December 1948 by the General Assembly of the United Nations.
 2. A national of a Contracting State who seeks naturalization in a foreign country shall not lose his nationality unless he acquires or has been accorded assurance of acquiring the nationality of that foreign country.
 3. Subject to the provisions of paragraphs 4 and 5 of this Article, a national of a Contracting State shall not lose his nationality, so as to become stateless, on the ground of departure, residence abroad, failure to register or on any similar ground.
 4. A naturalized person may lose his nationality on account of residence abroad for a period, not less than seven consecutive years, specified by the law of the Contracting State concerned if he fails to declare to the appropriate authority his intention to retain his nationality.
@@ -290,7 +290,7 @@ b)dat de belanghebbende gedurende een door de Verdragsluitende Staat vast te ste
 c)dat de belanghebbende niet schuldig is verklaard aan een delict tegen de nationale veiligheid, noch is veroordeeld tot een gevangenisstraf van ten minste 5 jaar terzake van een ander strafbaar feit;
 
 d)dat de belanghebbende bij zijn geboorte of later geen nationaliteit heeft verkregen.
-3. Ongeacht de bepalingen van het eerste lid sub *b* en van het tweede lid van dit artikel, verkrijgt het wettige kind dat is geboren op het grondgebied van een Verdagsluitende Staat en welks moeder de nationaliteit van die Staat bezit, die nationaliteit bij de geboorte, indien het anders staatloos zou zijn.
+3. Ongeacht de bepalingen van het eerste lid sub *b* en van het tweede lid van dit artikel, verkrijgt het wettige kind dat is geboren op het grondgebied van een Verdragsluitende Staat en welks moeder de nationaliteit van die Staat bezit, die nationaliteit bij de geboorte, indien het anders staatloos zou zijn.
 4. Iedere Verdragsluitende Staat verleent zijn nationaliteit aan degene, die anders staatloos zou zijn en van wie, ten tijde van de geboorte, de vader of de moeder de nationaliteit van genoemde Staat bezat, indien hij, doordat hij boven de leeftijd is gekomen welke is vastgesteld voor de indiening van zijn verzoek, of doordat hij niet voldoet aan de gestelde voorwaarden met betrekking tot het verblijf, de nationaliteit van de Verdragsluitende Staat op welks grondgebied hij is geboren niet heeft kunnen verkrijgen. Indien de ouders niet dezelfde nationaliteit bezaten ten tijde van de geboorte, volgt naar gelang van de wetgeving van de betrokken Verdragsluitende Staat het kind de nationaliteit van de vader dan wel die van de moeder. Indien de nationaliteit moet worden aangevraagd, dient dit verzoek door of namens de belanghebbende bij de bevoegde autoriteit te worden ingediend op de wijze als is voorgeschreven door de wetgeving van de betrokken Staat. Behoudens de bepalingen van het vijfde lid van dit artikel, mag dit verzoek niet worden afgewezen.
 5. De Verdragsluitende Staat kan het verlenen van zijn nationaliteit overeenkomstig het bepaalde in het vierde lid van dit artikel, binden aan een of meer van de volgende voorwaarden:
 
@@ -340,7 +340,7 @@ Indien de wetgeving van een Verdragsluitende Staat bepaalt dat, doordat iemand d
 
 a)Indien de wetgeving van een Verdragsluitende Staat toelaat dat iemand afstand doet van zijn nationaliteit, dan heeft dit alleen dan verlies van die nationaliteit tot gevolg, indien de betrokkene de nationaliteit van een andere Staat bezit of verkrijgt.
 
-b)De bepalingen onder punt *a* van dit lid zijn niet van toepassing wanneer zij onverenigbaar zouden blijken te zijn met de beginselen vermeld in de [artikelen 13](../../../../../../../verdrag/universal/declaration/of/human/rights/BWBV0001008/README.md) en [14 van de Universele Verklaring van de Rechten van de Mens](../../../../../../../verdrag/universal/declaration/of/human/rights/BWBV0001008/README.md), welke op 10 december 1948 door de Algemene Vergadering van de Verenigde Naties is goedgekeurd.
+b)De bepalingen onder punt *a* van dit lid zijn niet van toepassing wanneer zij onverenigbaar zouden blijken te zijn met de beginselen vermeld in de artikelen 13 en 14 van de Universele Verklaring van de Rechten van de Mens, welke op 10 december 1948 door de Algemene Vergadering van de Verenigde Naties is goedgekeurd.
 2. Hij die de nationaliteit van een Verdragsluitende Staat bezit en een verzoek tot naturalisatie in een ander land heeft ingediend, verliest zijn nationaliteit niet, tenzij hij de nationaliteit van dat andere land verkrijgt of de verzekering heeft ontvangen die te zullen verkrijgen.
 3. Behoudens de bepalingen van het vierde en vijfde lid van dit artikel, zal niemand zijn nationaliteit verliezen op grond van het feit dat hij het land waarvan hij de nationaliteit bezit, verlaat, in het buitenland woont, zich niet laat inschrijven of op grond van enig ander soortgelijk feit, dat voor hem staatloosheid met zich zou brengen.
 4. Verlies van de nationaliteit, verkregen door naturalisatie, kan worden gegrond op verblijf in den vreemde gedurende een door de wetgeving van de betrokken Verdragsluitende Staat vast te stellen tijdvak van ten minste zeven opeenvolgende jaren, tenzij de belanghebbende de bevoegde autoriteit ervan in kennis stelt dat hij zijn nationaliteit wenst te behouden.
@@ -368,7 +368,7 @@ b)dat betrokkene hetzij een eed, hetzij een stellige verklaring van trouw aan ee
 
 ### Artikel  9  
 
-Geen Verdragsluitende Staat mag een persoon of een groep personen hun nationaliteit op grond van overwegingen ingegeven door hun ras, ethnologische afkomst, godsdienst of politieke overtuiging ontnemen.
+Geen Verdragsluitende Staat mag een persoon of een groep personen hun nationaliteit op grond van overwegingen ingegeven door hun ras, etnologische afkomst, godsdienst of politieke overtuiging ontnemen.
 
 ### Artikel  10  
 

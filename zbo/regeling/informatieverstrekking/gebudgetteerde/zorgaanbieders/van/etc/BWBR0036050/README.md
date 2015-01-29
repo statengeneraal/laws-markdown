@@ -112,12 +112,12 @@ De zorgaanbieder draagt er zorg voor dat een accountant als bedoeld in artikel 3
 
 ####Intrekking oude regeling
 
-Gelijktijdig met de inwerkingtreding van deze regel wordt de regeling ‘Informatieverstrekking gebudgetteerde zorgaanbieders van gespecialiseerde GGZ’, met kenmerk NR/CU-545, ingetrokken.    
+Gelijktijdig met de inwerkingtreding van deze regel wordt de regeling ‘Informatieverstrekking gebudgetteerde zorgaanbieders van gespecialiseerde GGZ’, met kenmerk NR/CU-535, ingetrokken.    
 ### 7  
 
 ####Overgangsbepaling
 
-De regeling ‘Informatieverstrekking gebudgetteerde zorgaanbieders van gespecialiseerde GGZ’ met kenmerk NR/CU-545, blijft van toepassing op besluiten en aangelegenheden die hun grondslag vinden in die regeling en die betrekking hebben op de periode waarvoor die regeling gold.    
+De regeling ‘Informatieverstrekking gebudgetteerde zorgaanbieders van gespecialiseerde GGZ’ met kenmerk NR/CU-535, blijft van toepassing op besluiten en aangelegenheden die hun grondslag vinden in die regeling en die betrekking hebben op de periode waarvoor die regeling gold.    
 ### 8  
 
 ####Inwerkingtreding en citeerregel

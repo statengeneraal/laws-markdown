@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Pluimvee en Eieren van 10 februari 2011, houdende de instelling van een fonds ten behoeve van onderzoek en ontwikkeling (Verordenlng fonds voor onderzoek en ontwikkeling (PPE) 2011)
 
 Het bestuur van het Productschap Pluimvee en Eieren;  
-Gelet op [artikel 93, tweede lid, onderdeel g., van de Wet op de bedrijfsorganisatie](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [artikel 6 van het Instellingsbesluit Productschap Pluimvee en Eieren](../../../../../../../../../../AMvB/instellingsbesluit/productschap/pluimvee/en/eieren/BWBR0016490/README.md);
+Gelet op artikel 93, tweede lid, onderdeel g., van de Wet op de bedrijfsorganisatie en artikel 6 van het Instellingsbesluit Productschap Pluimvee en Eieren;
 Besluit:    
 
 ###Artikel 1 
@@ -50,7 +50,7 @@ Het fonds kan bij verordening worden opgeheven. in welk geval het bestuur als ve
 
 ###Artikel 6 
 
-De [Verordening fonds voor onderzoek en ontwikkeling PPE 2003](../../../../../../../../../../pbo/verordening/fonds/voor/onderzoek/en/ontwikkeling/ppe/2003/BWBR0015225/README.md) wordt ingetrokken. 
+De Verordening fonds voor onderzoek en ontwikkeling PPE 2003 wordt ingetrokken. 
 
 ###Artikel 7 
 

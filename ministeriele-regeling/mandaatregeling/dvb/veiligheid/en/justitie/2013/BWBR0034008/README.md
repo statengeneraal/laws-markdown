@@ -3,18 +3,20 @@
 ##Regeling van de directeur Veiligheid en Bestuur van het directoraat-generaal Rechtspleging en Rechtshandhaving van het Ministerie van Veiligheid en Justitie van 1 oktober 2013, nr. 429335, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan de hoofden van de onder de directie ressorterende afdelingen (Mandaatregeling DVB Veiligheid en Justitie 2013)
 
 De directeur Veiligheid en Bestuur van het directoraat-generaal Rechtspleging en Rechtshandhaving van het Ministerie van Veiligheid en Justitie,  
-Gelet op [artikel 3, tweede lid, van de Mandaatregeling Ministerie van Veiligheid en Justitie 2011](../../../../../../../../ministeriele-regeling/mandaatregeling/ministerie/van/veiligheid/en/justitie/2011/BWBR0030842/README.md);
+Gelet op artikel 3, tweede lid, van de Mandaatregeling Ministerie van Veiligheid en Justitie 2011;
 Besluit:    
 
 ### Artikel  1  
 
-Van het ingevolge [artikel 1, onderdeel e, van de Mandaatregeling DGRR Veiligheid en Justitie 2013](../../../../../../../../ministeriele-regeling/mandaatregeling/dgrr/ministerie/van/veiligheid/en/justitie/2013/BWBR0034037/README.md) aan de directeur Veiligheid en Bestuur verleende mandaat wordt ten aanzien van de aangelegenheden die hun afdeling betreffen ondermandaat verleend aan: 
+Van het ingevolge artikel 1, onderdeel e, van de Mandaatregeling DGRR Veiligheid en Justitie 2013 aan de directeur Veiligheid en Bestuur verleende mandaat wordt ten aanzien van de aangelegenheden die hun afdeling betreffen ondermandaat verleend aan: 
 
 a. het hoofd van de afdeling Integrale veiligheid (IV);  
 
 b. het hoofd van de afdeling Bestuurlijke aanpak (BA);  
 
-c. het hoofd van de afdeling Keteninformatievoorziening (KIV).   
+c. het hoofd van de afdeling Keteninformatievoorziening (KIV);  
+
+d.het hoofd van het Landelijk Informatie- en Expertisecentrum (LIEC). 
 
 ### Artikel  2  
 

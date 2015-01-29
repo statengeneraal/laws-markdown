@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Zuivel van 4 januari 2011 houdende regels omtrent de vaststelling ven de grondslag voor de uitbetaling van geitenmelk (Zuivelverordening 2010, Grondslag uitbetaling geitenmelk)
 
 Het bestuur van het Productschap Zuivel;  
-Gelet op de [artikelen 93](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [102](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [104 van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) alsmede op de [artikelen 5](../../../../../../../AMvB/instellingsbesluit/productschap/zuivel/BWBR0015162/README.md) en [6 van het Instellingsbesluit Productschap Zuivel](../../../../../../../AMvB/instellingsbesluit/productschap/zuivel/BWBR0015162/README.md);
+Gelet op de artikelen 93, 95, 102 en 104 van de Wet op de bedrijfsorganisatie alsmede op de artikelen 5 en 6 van het Instellingsbesluit Productschap Zuivel;
 Besluit:    
 ###§ 1 
 
@@ -30,7 +30,7 @@ In deze verordening wordt verstaan onder:
 |m. |bestuur: | bestuur van het productschap; |
 |n. |voorzitter: | voorzitter van het productschap; |
 |o. |melkgeitenhouder: | ondernemer die bedrijfsmatig melkgeiten houdt; |
-|p. |wet: | [Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md). |
+|p. |wet: | Wet op de bedrijfsorganisatie. |
 
 ###Artikel 2 
 
@@ -56,7 +56,7 @@ De melkgeitenhouder verleent alle medewerking aan de bemonstering van de boerder
 
 ###Artikel 6 
 
-1. Ten aanzien van het nemen, transporteren en bewaren van monsters boerderijmelk is het bepaalde in [Zuivelverordening 2000, Handmatig nemen, transporteren en bewaren van monsters boerderijmelk](../../../../../../../pbo/zuivelverordening/2000/handmatig/nemen/transporteren/en/bewaren/van/etc/BWBR0010869/README.md) van overeenkomstige toepassing.  
+1. Ten aanzien van het nemen, transporteren en bewaren van monsters boerderijmelk is het bepaalde in Zuivelverordening 2000, Handmatig nemen, transporteren en bewaren van monsters boerderijmelk van overeenkomstige toepassing.  
 2. De ontvanger van boerderijmelk beschikt over een kwaliteitssysteem waarmee hij aantoonbaar het gestelde in lid 1 realiseert, beheerst en borgt. Dit kwaliteitssysteem is door de ontvanger van boerderijmelk op een overzichtelijke wijze beschreven en vastgelegd. 
 3. De voorzitter kan, gehoord het COKZ, ontheffing verlenen van het bepaalde in lid 1. Aan deze ontheffing kunnen voorwaarden worden verbonden. 
 
@@ -66,7 +66,7 @@ De melkgeitenhouder verleent alle medewerking aan de bemonstering van de boerder
 
 ###Artikel 7 
 
-1. De hoeveelheid geleverde boerderijmelk wordt vastgesteld overeenkomstig het bepaalde in [Zuivelverordening 2008, Gewichtsbepaling boerderijmelk bij gebruik van rijdende melkontvangsten met vloeistofmeetinstallatie](../../../../../../../pbo/zuivelverordening/2008/gewichtsbepaling/bij/gebruik/van/rijdende/etc/BWBR0025401/README.md) en [Zuivelverordening 2008, Gewichtsbepaling boerderijmelk bij gebruik van rijdende melkontvangsten met mobiel weegsysteem](../../../../../../../pbo/zuivelverordening/2008/gewichtsbepaling/bij/gebruik/van/rijdende/etc/BWBR0025378/README.md). 
+1. De hoeveelheid geleverde boerderijmelk wordt vastgesteld overeenkomstig het bepaalde in Zuivelverordening 2008, Gewichtsbepaling boerderijmelk bij gebruik van rijdende melkontvangsten met vloeistofmeetinstallatie en Zuivelverordening 2008, Gewichtsbepaling boerderijmelk bij gebruik van rijdende melkontvangsten met mobiel weegsysteem. 
 2. De voorzitter kan, gehoord het COKZ, ontheffing verlenen van het bepaalde in lid 1, mits tot zijn genoegen wordt aangetoond dat de vaststelling van de hoeveelheid op andere wijze nauwkeurig plaatsvindt. Aan de ontheffing kunnen voorwaarden worden verbonden. 
 
 ###Artikel 8 
@@ -134,7 +134,7 @@ De uitslagen van het onderzoek worden vastgelegd op een toegankelijke en overzic
 
 ###Artikel 14 
 
-Het bij of krachtens deze verordening bepaalde is bindend voor de in [artikel 102, lid 1, van de wet](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) bedoelde natuurlijke en rechtspersonen alsmede voor de in artikel 102, lid 2 van de wet bedoelde natuurlijke en rechtspersonen, voor zover deze handelingen verrichten die bedrijfsmatig plegen te worden verricht in de ondernemingen, bedoeld in artikel 102, lid 1, van de wet. 
+Het bij of krachtens deze verordening bepaalde is bindend voor de in artikel 102, lid 1, van de wet bedoelde natuurlijke en rechtspersonen alsmede voor de in artikel 102, lid 2 van de wet bedoelde natuurlijke en rechtspersonen, voor zover deze handelingen verrichten die bedrijfsmatig plegen te worden verricht in de ondernemingen, bedoeld in artikel 102, lid 1, van de wet. 
 
 ###Artikel 15 
 

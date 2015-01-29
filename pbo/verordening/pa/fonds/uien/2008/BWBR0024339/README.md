@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Akkerbouw van 5 juni 2008 houdende regels ter zake van het instellen van een fonds (Verordening PA fonds uien 2008)
 
 Het bestuur van het Productschap Akkerbouw:  
-Gelet op de [artikelen 93](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [123 van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op de [artikelen 8](../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md) en [17 van het Instellingsbesluit akkerbouwproductschappen](../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md), gehoord de Commissie Teeltaangelegenheden;
+Gelet op de artikelen 93 en 123 van de Wet op de bedrijfsorganisatie en op de artikelen 8 en 17 van het Instellingsbesluit akkerbouwproductschappen, gehoord de Commissie Teeltaangelegenheden;
 Besluit:    
 
 ### Artikel  1  
@@ -12,7 +12,7 @@ Besluit:
 2.  Het dagelijks bestuur van het productschap beheert dit fonds.   
 3.  De baten van het fonds bestaan uit: 
 
-a. de opbrengst van de heffing uit hoofde van de [Heffingsverordening PA fonds uien](../../../../../../../pbo/heffingsverordening/pa/fonds/uien/jaar/2008/BWBR0024481/README.md)  
+a. de opbrengst van de heffing uit hoofde van de Heffingsverordening PA fonds uien  
 
 b. de van de middelen van het fonds gekweekt rente.    
 

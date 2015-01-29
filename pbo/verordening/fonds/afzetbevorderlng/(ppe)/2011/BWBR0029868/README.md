@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Pluimvee en Eieren van 10 februari 2011, houdende de instelling van een fonds ten behoeve van afzetbevordering (Verordening fonds voor afzetbevordering (PPE) 2011)
 
 Het bestuur van het Productschap Pluimvee en Eieren;  
-Gelet op [artikel 93, tweede lid, onderdeel g., van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [artikel 6 van het Instellingsbesluit Productschap Pluimvee en Eieren](../../../../../../../AMvB/instellingsbesluit/productschap/pluimvee/en/eieren/BWBR0016490/README.md);
+Gelet op artikel 93, tweede lid, onderdeel g., van de Wet op de bedrijfsorganisatie en artikel 6 van het Instellingsbesluit Productschap Pluimvee en Eieren;
 Besluit:    
 
 ###Artikel 1 
@@ -50,7 +50,7 @@ Het fonds kan bij verordening worden opgeheven, in welk geval het bestuur als ve
 
 ###Artikel 6 
 
-De [Verordening fonds afzetbevordering PPE 2003](../../../../../../../pbo/verordening/fonds/afzetbevordering/ppe/2003/BWBR0015222/README.md) wordt ingetrokken. 
+De Verordening fonds afzetbevordering PPE 2003 wordt ingetrokken. 
 
 ###Artikel 7 
 
