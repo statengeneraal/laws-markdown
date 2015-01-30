@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Akkerbouw van 13 november 2008 houdende vaststelling bestemmingsheffing ten behoeve van het Fonds aardappelverwerking (Heffingsverordening PA fonds aardappelverwerking 2009)
 
 Het bestuur van het Productschap Akkerbouw; 
-Gelet op de [artikelen 95](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126, eerste, vierde en zesde lid van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op de [artikelen 8](../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md) en [19 van het Instellingsbesluit akkerbouwproductschappen](../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md);
+Gelet op de artikelen 95 en 126, eerste, vierde en zesde lid van de Wet op de bedrijfsorganisatie en op de artikelen 8 en 19 van het Instellingsbesluit akkerbouwproductschappen;
 Besluit:    
 ###§ 1 
 
@@ -42,7 +42,7 @@ De heffing bedoeld in artikel 2 is bestemd voor het Fonds aardappelverwerking.
 ###Artikel 4 
 
 1. De ondernemer is verplicht door middel van een opgavenformulier aan het productschap gegevens te verstrekken voor de vaststelling van de heffing, bedoeld in artikel 2 en/of voor statistische doeleinden. 
-2. Het opgavenformulier dient door de ondernemer volledig en naar waarheid te worden ingevuld. De [Verordening PA algemene bepalingen 2008](../../../../../../../pbo/verordening/pa/algemene/bepalingen/2008/BWBR0024318/README.md) is hierbij van toepassing. 
+2. Het opgavenformulier dient door de ondernemer volledig en naar waarheid te worden ingevuld. De Verordening PA algemene bepalingen 2008 is hierbij van toepassing. 
 3. De opgave dient maandelijks te geschieden en wel uiterlijk op de vijftiende dag volgend op de maand waarop de opgave betrekking heeft. 
 4. Indien in een bepaalde maand geen activiteiten als vermeld op het opgavenformulier hebben plaatsgevonden, dient ook dit gegeven te worden opgegeven. 
 5. De ondernemer die ingevolge artikel 2 heffingsplichtig is legt, indien de secretaris, namens het bestuur, daarom verzoekt, een door een accountant afgegeven verklaring over, waaruit blijkt de totale hoeveelheid in het betreffende jaar verwerkte hoeveelheid aardappelen tot aardappelproducten en de totale hoeveelheid ingevoerde aardappelen welke tot aardappelproducten zijn verwerkt. 
@@ -84,7 +84,7 @@ De secretaris kan, namens het bestuur, besluiten nota's met een bedrag minder da
 
 ###Artikel 9 
 
-Aan de ondernemer die niet of niet geheel binnen de in artikel 6 gestelde termijn heeft betaald, kan door de secretaris, namens het bestuur, de wettelijke interest over het nietbetaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md).
+Aan de ondernemer die niet of niet geheel binnen de in artikel 6 gestelde termijn heeft betaald, kan door de secretaris, namens het bestuur, de wettelijke interest over het nietbetaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie.
 
 ###§ 5 
 
@@ -101,7 +101,7 @@ b.niet onder vermelding of aanduiding van de persoon en/of onderneming, waarop z
 
 ###Artikel 11 
 
-Deze verordening treedt in werking met ingang van 1 januari 2009. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 31 december 2008, treedt zij in werking de tweede dag na publicatie in het Verordeningenblad Bedrijfsorganisatie en werkt zij terug tot en met 1 januari 2009, met uitzondering van de toepassing van de [Verordening PA algemene bepalingen 2008](../../../../../../../pbo/verordening/pa/algemene/bepalingen/2008/BWBR0024318/README.md). 
+Deze verordening treedt in werking met ingang van 1 januari 2009. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 31 december 2008, treedt zij in werking de tweede dag na publicatie in het Verordeningenblad Bedrijfsorganisatie en werkt zij terug tot en met 1 januari 2009, met uitzondering van de toepassing van de Verordening PA algemene bepalingen 2008. 
 
 ###Artikel 12 
 

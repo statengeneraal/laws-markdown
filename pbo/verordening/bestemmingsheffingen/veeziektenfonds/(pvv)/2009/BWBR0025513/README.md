@@ -3,15 +3,15 @@
 ##Verordening van het Productschap Vee en Vlees van 29 oktober 2008, houdende vaststelling van bestemmingsheffingen ten behoeve van het Veeziektenfonds PVV voor het jaar 2009 (Verordening bestemmingsheffingen veeziektenfonds (PVV) 2009)
 
 Het bestuur van het Productschap Vee en Vlees;  
-Gelet op [artikel 126 van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [artikelen 10](../../../../../../../AMvB/instellingsbesluit/productschap/vee/en/vlees/BWBR0016491/README.md) en [12 van het Instellingsbesluit Productschap Vee en Vlees](../../../../../../../AMvB/instellingsbesluit/productschap/vee/en/vlees/BWBR0016491/README.md);
+Gelet op artikel 126 van de Wet op de bedrijfsorganisatie en artikelen 10 en 12 van het Instellingsbesluit Productschap Vee en Vlees;
 
-Gezien de [Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(pvv)/2005/BWBR0017340/README.md);
+Gezien de Verordening algemene bepalingen heffingen (PVV) 2005;
 Besluit:    
 
 ###Artikel 1 
 Materieel uitgewerkt per 31-01-2010 
 
-Deze verordening neemt de begripsbepalingen van de [Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(pvv)/2005/BWBR0017340/README.md) over maar verstaat in afwijking van respectievelijk [artikel 1, onder 7 en onder 12, van de Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(pvv)/2005/BWBR0017340/README.md), onder:
+Deze verordening neemt de begripsbepalingen van de Verordening algemene bepalingen heffingen (PVV) 2005 over maar verstaat in afwijking van respectievelijk artikel 1, onder 7 en onder 12, van de Verordening algemene bepalingen heffingen (PVV) 2005, onder:
 
 1.varken : varken, ongeacht geslacht, leeftijd of gewicht;
 
@@ -20,7 +20,7 @@ Deze verordening neemt de begripsbepalingen van de [Verordening algemene bepalin
 ###Artikel 2 
 Materieel uitgewerkt per 31-01-2010 
 
-De ondernemer die in het jaar 2009 één of meer dieren slacht of doet slachten, dan wel uitvoert, is aan het productschap een bijzondere heffing ten behoeve van het Veeziektenfonds PVV als bedoeld in [artikel 1 van de Verordening Veeziektenfonds PVV 2007](../../../../../../../pbo/verordening/veeziektenfonds/(pvv)/2007/BWBR0022126/README.md) verschuldigd ten bedrage van:
+De ondernemer die in het jaar 2009 één of meer dieren slacht of doet slachten, dan wel uitvoert, is aan het productschap een bijzondere heffing ten behoeve van het Veeziektenfonds PVV als bedoeld in artikel 1 van de Verordening Veeziektenfonds PVV 2007 verschuldigd ten bedrage van:
 
 a.€ 0,00 per varken ten behoeve van de rekening-I-varkens;
 
@@ -61,7 +61,7 @@ drie maanden, in het geval het betreft, kalveren en runderen.
 ###Artikel 5 
 Materieel uitgewerkt per 31-01-2010 
 
-Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de [Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(pvv)/2005/BWBR0017340/README.md).
+Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de Verordening algemene bepalingen heffingen (PVV) 2005.
 
 ###Artikel 6 
 Materieel uitgewerkt per 31-01-2010 

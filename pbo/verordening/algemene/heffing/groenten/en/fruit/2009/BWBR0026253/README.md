@@ -3,9 +3,9 @@
 ##Besluit van het bestuur van het Productschap Tuinbouw van 24 maart 2009, houdende de vaststelling van een algemene heffing groenten en fruit 2009 (Verordening PT algemene heffing groenten en fruit 2009)
 
 Het Bestuur van het Productschap Tuinbouw,  
-gelet op de [artikelen 95](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en
+gelet op de artikelen 95 en 126 van de Wet op de bedrijfsorganisatie, en
 
-gelet op de [artikelen 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw](../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md);
+gelet op de artikelen 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw;
 
 gehoord de Commissie voor groenten en fruit, d.d. 24 februari 2009.
 Besluit:    
@@ -33,7 +33,7 @@ Materieel uitgewerkt per 14-03-2010
 |cultuurgrond |: | beteelde grond, braakland, beschikbare oppervlakte van bakken voor de trek van witlof of van elk ander groeimedium met behulp waarvan de in artikel 3  genoemde groenten en fruit kunnen worden geteeld, of in het tijdvak bedoeld in de Regeling Landbouwtelling nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet; |
 |contractteelt |: | de teelt van gewassen of producten ingevolge een overeenkomst waarbij het teeltrisico ligt bij de teler; |
 |gemeten maat |: |de oppervlakte van cultuurgrond, inclusief paden en voren die voor de teelt noodzakelijk zijn; |
-|groenten en fruit |: |de producten vermeld in [artikel 3, vierde lid, onder a en b, van het Instellingsbesluit Productschap Tuinbouw](../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md); |
+|groenten en fruit |: |de producten vermeld in artikel 3, vierde lid, onder a en b, van het Instellingsbesluit Productschap Tuinbouw; |
 |handelen |: |het aankopen van vers of bewerkt fruit (met uitzondering van slaggrondnoten en kopra) en groenten (met uitzondering van zaden van groenten) en het verkopen daarvan aan anderen dan consumenten voor hun persoonlijke behoeften; |
 |noten |: |amandelen, cashewnoten, hazelnoten. paranoten, peacannoten, pistachenoten en walnoten in welke vorm dan ook, gepeld, ongepeld, gedroogd, geblancheerd, gebrand, ongebrand, gezouten, gemengd, gebroken, geschaafd of verduurzaamd; |
 |ondernemer |: | de natuurlijke of rechtspersoon die een onderneming drijft waarvoor het productschap is ingesteld; |
@@ -58,7 +58,7 @@ Materieel uitgewerkt per 14-03-2010
 Materieel uitgewerkt per 14-03-2010 
 
 1. De ondernemer die een onderneming drijft, met als activiteit het handelen in groenten en fruit, het bewerken, het telen of verduurzamen van groenten en fruit, is verplicht aan het productschap jaarlijks een heffing te betalen. Uit de opbrengst van deze heffing worden de bestuurskosten en de huishoudelijke kosten van het productschap gefinancierd. 
-2. De berekening van de heffing vindt plaats op basis van de door de ondernemer aan de Dienst Regelingen van het ministerie van Landbouw, Natuurbeheer en Voedselkwaliteit of op basis van de [Verordening PT algemene bepalingen 2007](../../../../../../../../../pbo/verordening/pt/algemene/bepalingen/2007/BWBR0022738/README.md) aan het productschap verstrekte gegevens. 
+2. De berekening van de heffing vindt plaats op basis van de door de ondernemer aan de Dienst Regelingen van het ministerie van Landbouw, Natuurbeheer en Voedselkwaliteit of op basis van de Verordening PT algemene bepalingen 2007 aan het productschap verstrekte gegevens. 
 
 ###§ 3 
 

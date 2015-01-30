@@ -3,7 +3,7 @@
 ##Verordening van het Hoofdbedrijfschap Agrarische Groothandel van 21 november 2008, houdende vaststelling bestemmingsheffing ten behoeve van het consumptieaardappelfonds voor het jaar 2009 (Verordening HBAG bestemmingsheffing consumptieaardappelfonds 2009)
 
 Het bestuur van het Hoofdbedrijfschap Agrarische Groothandel;  
-Gelet op de [artikelen 95](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126, eerste en vierde lid van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en de [artikelen 3, eerste lid en tweede lid sub a](../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md), [5](../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md), [10](../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md), [11](../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md) en [13 van het Instellingsbesluit Hoofdbedrijfschap Agrarische Groothandel](../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md) (Staatsblad 2002 nr. 155), in werking getreden met ingang van 1 januari 2003 (Staatsblad 2002 nr. 386);
+Gelet op de artikelen 95 en 126, eerste en vierde lid van de Wet op de bedrijfsorganisatie en de artikelen 3, eerste lid en tweede lid sub a, 5, 10, 11 en 13 van het Instellingsbesluit Hoofdbedrijfschap Agrarische Groothandel (Staatsblad 2002 nr. 155), in werking getreden met ingang van 1 januari 2003 (Staatsblad 2002 nr. 386);
 
 Gehoord de commissie consumptie-, fabrieks- en voeraardappelen;
 Besluit:    
@@ -16,7 +16,7 @@ Materieel uitgewerkt per 07-03-2010
 ###Artikel 1 
 Materieel uitgewerkt per 07-03-2010 
 
-In deze verordening wordt overgenomen de terminologie van het [Instellingsbesluit Hoofdbedrijfschap Agrarische Groothandel](../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md) en wordt voorts verstaan onder:
+In deze verordening wordt overgenomen de terminologie van het Instellingsbesluit Hoofdbedrijfschap Agrarische Groothandel en wordt voorts verstaan onder:
 
 fabrieksaardappelen: aardappelen bestemd voor de zetmeelindustrie; 
 
@@ -32,8 +32,8 @@ Materieel uitgewerkt per 07-03-2010
 Materieel uitgewerkt per 07-03-2010 
 
 1. De ondernemer die de groothandel in aardappelen uitoefent, is ten behoeve van het consumptieaardappelfonds, dienende ter financiering van maatregelen en projecten in het belang of de bevordering van de teelt, be- of verwerking en afzet van consumptieaardappelen aan het hoofdbedrijfschap aan heffing verschuldigd een bedrag ad € 0,27 per ton in het jaar 2009 door die ondernemer verkochte hoeveelheid consumptieaardappelen, voor zover die consumptieaardappelen in Nederland zijn geteeld en niet zijn verkocht aan in Nederland gevestigde ondernemingen die de groothandel in aardappelen uitoefenen of aan in Nederland gevestigde aardappel verwerkende industrieën.
-2. Op de door de ondernmer in het kader van deze verordening te verstrekken gegevens is de [Verordening HBAG registratie, verstrekking van gegevens en controle 2007](../../../../../../../pbo/verordening/hbag/registratie-/verstrekking/van/gegevens/en/controle/2007/BWBR0023757/README.md) van toepassing.
-3. Het aan heffing verschuldigde bedrag dient te worden betaald binnen 14 dagen nadat de heffing is opgelegd, bij gebreke waarvan de schuldenaar - na overeenkomstig het bepaalde in [artikel 127, lid 2 van de Wet op de Bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) te zijn aangemaand - tevens aan het hoofdbedrijfschap is verschuldigd de op de invordering daarvan vallende kosten, waaronder mede begrepen de wettelijke rente over het bedrag van de openstaande vordering, gerekend vanaf het verstrijken van de betalingstermijn tot de dag van de algehele voldoening, alsmede een bedrag ad € 45,-- als vergoeding voor extra administratiekosten.
+2. Op de door de ondernmer in het kader van deze verordening te verstrekken gegevens is de Verordening HBAG registratie, verstrekking van gegevens en controle 2007 van toepassing.
+3. Het aan heffing verschuldigde bedrag dient te worden betaald binnen 14 dagen nadat de heffing is opgelegd, bij gebreke waarvan de schuldenaar - na overeenkomstig het bepaalde in artikel 127, lid 2 van de Wet op de Bedrijfsorganisatie te zijn aangemaand - tevens aan het hoofdbedrijfschap is verschuldigd de op de invordering daarvan vallende kosten, waaronder mede begrepen de wettelijke rente over het bedrag van de openstaande vordering, gerekend vanaf het verstrijken van de betalingstermijn tot de dag van de algehele voldoening, alsmede een bedrag ad € 45,-- als vergoeding voor extra administratiekosten.
 
 ###§ 3 
 

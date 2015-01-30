@@ -18,13 +18,17 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 activiteit: een activiteit in de zin van artikel 3 van het Protocol, zijnde een geheel van onderling samenhangende handelingen in het Antarctisch gebied;  
 
-afvalstoffen: afvalstoffen in de zin van [artikel 1.1, eerste lid, van de Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);  
+afvalstoffen: afvalstoffen in de zin van artikel 1.1, eerste lid, van de Wet milieubeheer;  
 
-afvalwater: afvalwater in de zin van de [Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);  
+afvalwater: afvalwater in de zin van de Wet milieubeheer;  
 
 Antarctisch gebied: gebied gelegen ten zuiden van de 60ste zuidelijke breedtegraad;   
 
-gevaarlijke afvalstoffen: gevaarlijke afvalstoffen als aangewezen krachtens [artikel 1.1, eerste lid, van de Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);  
+bestrijdingsacties: redelijke maatregelen die genomen worden na het ontstaan van een milieubedreigende noodsituatie met als doel het voorkomen, tot een minimum beperken of beheersen van de gevolgen van die milieubedreigende noodsituatie, met inbegrip van het vaststellen van de omvang van de noodsituatie en de gevolgen ervan; 
+
+fonds: door het Secretariaat, bedoeld in Maatregel 1(2003), van het Verdrag ingesteld en beheerd fonds, waarin het bedrag, bedoeld in artikel 25c, tweede lid, wordt gestort; 
+
+gevaarlijke afvalstoffen: gevaarlijke afvalstoffen als aangewezen krachtens artikel 1.1, eerste lid, van de Wet milieubeheer;  
 
 historische plaats of historisch monument: plaats die onderscheidenlijk monument dat ingevolge artikel 8, tweede of derde lid, van bijlage V bij het Protocol als zodanig is aangewezen;  
 
@@ -33,6 +37,8 @@ inheems: in het Antarctisch gebied voorkomend;
 levende organismen: levende biologische entiteiten, niet zijnde mensen, met het vermogen tot vermenigvuldiging of tot overbrenging van genetisch materiaal, daaronder mede begrepen virussen, viroïden, en dierlijke en plantencellen in cultuur; 
 
 levende rijkdommen: zoogdieren, vogels en eieren van vogels, op land of in zoet water levende ongewervelde dieren en planten, in elke fase van hun levenscyclus;  
+
+milieubedreigende noodsituatie: elk door een ongeval veroorzaakt voorval dat zich, na inwerkingtreding van bijlage VI bij het Protocol, heeft voorgedaan en dat leidt tot, of onmiddellijk dreigt te leiden tot, aanmerkelijke en schadelijke gevolgen voor het Antarctisch milieu; 
 
 minerale rijkdommen: niet-levende, niet-vernieuwbare natuurlijke rijkdommen, met inbegrip van fossiele brandstoffen en ertshoudende en niet-ertshoudende mineralen;  
 
@@ -45,6 +51,8 @@ openbare lichamen: openbare lichamen Bonaire, Sint-Eustatius en Saba.
 organisator: de natuurlijke of rechtspersoon die vanuit Nederland, daaronder begrepen de openbare lichamen Bonaire, Sint-Eustatius en Saba; een activiteit organiseert;  
 
 Protocol: Protocol betreffende milieubescherming bij het Verdrag (Trb. 1992, 110);  
+
+redelijke: passend, praktisch uitvoerbaar en proportioneel en gebaseerd op de beschikbaarheid van objectieve criteria en informatie; 
 
 schadelijk optreden: schadelijk optreden, als bedoeld in artikel 1, onder h, van Bijlage II bij het Protocol;  
 
@@ -78,10 +86,11 @@ c. voor zover dit verband houdt met het verzekeren van de veiligheid in het luch
 
 1.  Een ieder neemt in het Antarctisch gebied zo veel mogelijk zorg voor het Antarctisch milieu in acht.    
 2.  De zorg, bedoeld in het eerste lid, houdt in dat een ieder die weet of redelijkerwijs kan vermoeden dat door zijn handelen of nalaten nadelige gevolgen voor het Antarctisch milieu kunnen worden veroorzaakt, verplicht is dergelijk handelen achterwege te laten voor zover zulks in redelijkheid kan worden gevergd, dan wel alle maatregelen te nemen die redelijkerwijs van hem kunnen worden gevergd teneinde die gevolgen te voorkomen of, voor zover die gevolgen niet kunnen worden voorkomen, deze zoveel mogelijk te beperken of ongedaan te maken.    
-3.  Het bepaalde in het eerste en tweede lid laat onverlet de uit het burgerlijk recht voortvloeiende aansprakelijkheid en de mogelijkheid van rechtspersonen als bedoeld in [artikel 1, boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), en [artikel 1, boek 2 van het Burgerlijk Wetboek BES](../../../../../wet-BES/burgerlijk/wetboek/bes/boek/2/BWBR0028744/README.md), om uit dien hoofde in rechte op te treden.   
+3.  Onder het voorkomen van nadelige gevolgen voor het Antarctisch milieu als bedoeld in het tweede lid wordt voor wat betreft de organisator in ieder geval verstaan het treffen van redelijke preventieve maatregelen, die gericht zijn op het verminderen van het risico van milieubedreigende noodsituaties en de mogelijke nadelige gevolgen daarvan.   
+4.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de maatregelen, bedoeld in het derde lid.  
+5.  Het bepaalde in het eerste en tweede lid laat onverlet de uit het burgerlijk recht voortvloeiende aansprakelijkheid en de mogelijkheid van rechtspersonen als bedoeld in artikel 1, boek 2 van het Burgerlijk Wetboek, en artikel 1, boek 2 van het Burgerlijk Wetboek BES, om uit dien hoofde in rechte op te treden.   
 
 ### Artikel  3a  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De organisator draagt voorafgaand aan de uitvoering van een activiteit zorg voor het treffen van voldoende maatregelen om de gezondheid en veiligheid van de mens te waarborgen. Onze Ministers kunnen aan de organisator verzoeken daartoe schriftelijke bewijsstukken te overleggen.   
 2.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot het overleggen van de in het eerste lid bedoelde bewijsstukken.   
@@ -170,17 +179,14 @@ i. afvalwater in zee te brengen.
 ### Artikel  7  
 
 1.  Voor activiteiten die meer dan een gering of tijdelijk effect kunnen hebben op het Antarctisch milieu wordt bij de voorbereiding van een beslissing op de aanvraag om een vergunning een milieueffectrapport gemaakt.    
-2.  De [artikelen 7.22](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en [7.23](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), de [paragrafen 7.8](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) onderscheidenlijk [7.9](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en [7.10](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), met uitzondering van de [artikelen 7.36](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en [7.37, derde lid](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), alsmede [paragraaf 7.12 van hoofdstuk 7 van de Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) zijn van overeenkomstige toepassing, met dien verstande dat voor «milieu» gelezen wordt: Antarctisch milieu.   
+2.  De artikelen 7.22 en 7.23, de paragrafen 7.8 onderscheidenlijk 7.9 en 7.10, met uitzondering van de artikelen 7.36 en 7.37, derde lid, alsmede paragraaf 7.12 van hoofdstuk 7 van de Wet milieubeheer zijn van overeenkomstige toepassing, met dien verstande dat voor «milieu» gelezen wordt: Antarctisch milieu.   
 3.  Bij het milieueffectrapport wordt een Engelse vertaling gevoegd.   
 
 ### §  3a  
 
 ####Rampenplannen
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  7a  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De organisator stelt voorafgaand aan elke activiteit een rampenplan op.   
 2.  Bij het opstellen en tenuitvoerleggen van een rampenplan, bedoeld in het eerste lid, werkt de organisator zoveel mogelijk samen met elke partij of andere natuurlijke of rechtspersoon die in het desbetreffende gebied een activiteit organiseert of uitvoert. Voor de uitvoering van het rampenplan, bedoeld in het eerste lid, is de organisator niet afhankelijk van de ondersteuning door partijen of andere organisatoren, tenzij hij aantoont dat deze zich daartoe in een schriftelijke overeenkomst hebben verbonden.   
@@ -213,7 +219,7 @@ c. als bedoeld in artikel 6, tweede lid, onder e, bovendien ten behoeve van de v
 
 ###Artikel 11 
 
-Op de voorbereiding van een beschikking op de aanvraag om een vergunning zijn [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [afdeling 13.2 van de Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) van toepassing.
+Op de voorbereiding van een beschikking op de aanvraag om een vergunning zijn afdeling 3.4 van de Algemene wet bestuursrecht en afdeling 13.2 van de Wet milieubeheer van toepassing.
 
 ### Artikel  12  
 
@@ -227,7 +233,13 @@ c. de nadelige beïnvloeding door de activiteit van andere activiteiten;
 
 d. de beschikbaarheid van technologie, procedures en andere mogelijkheden om de nadelige gevolgen voor het milieu die de activiteit kan veroorzaken, te voorkomen, dan wel zoveel mogelijk te beperken, voor zover zij niet kunnen worden voorkomen;   
 
-e. de deskundigheid van de organisator onderscheidenlijk de in verband met de uitvoering van een activiteit werkzame personen.      
+e. de deskundigheid van de organisator onderscheidenlijk de in verband met de uitvoering van een activiteit werkzame personen;  
+
+f. het rampenplan, bedoeld in artikel 7a, eerste lid;  
+
+g. de maatregelen en verzekering of andere financiële zekerheid, bedoeld in artikel 3a; 
+
+h. de verzekering of andere financiële zekerheid, bedoeld in artikel 25f.    
 2.  Onze Ministers nemen bij de beslissing op de aanvraag in ieder geval in acht:  
 
 a. de voor hen geldende krachtens artikel 5 gestelde regels;   
@@ -242,7 +254,13 @@ b. indien in de vergunning toegang tot of het ondernemen van een activiteit in e
 
 a. de Consultatieve Vergadering, ingesteld op grond van artikel IX, eerste lid, van het verdrag inzake Antarctica, over het betrokken milieu-effectrapport een negatief oordeel heeft gegeven;   
 
-b. onvoldoende zekerheid bestaat dat ernstige nadelige gevolgen voor het Antarctisch milieu kunnen worden voorkomen.     
+b. onvoldoende zekerheid bestaat dat ernstige nadelige gevolgen voor het Antarctisch milieu kunnen worden voorkomen;  
+
+c. de maatregelen, bedoeld in artikel 3a, onvoldoende zijn om de gezondheid en veiligheid van de mens te waarborgen;  
+
+d. het rampenplan, bedoeld in artikel 7a, onvoldoende is om gezondheid en veiligheid, opsporing en redding, medische zorg en evacuatie te waarborgen; 
+
+e. het rampenplan, bedoeld in artikel 7a, onvoldoende is om ongevallen met mogelijk nadelige gevolgen voor het Antarctisch milieu te bestrijden.   
 
 ### Artikel  14  
 
@@ -296,7 +314,19 @@ i. indien in de vergunning toegang tot of het ondernemen van een activiteit in e
 
 2°. dat de organisator en voor een organisator in verband met de uitvoering van een activiteit werkzame personen een exemplaar van de vergunning bij zich dragen, indien zij zich in het desbetreffend speciaal beschermd Antarctisch gebied bevinden;   
 
-3°. de voorschriften die ter uitvoering van het bepaalde krachtens artikel 5 van bijlage V van het Protocol aan de vergunning dienen te worden verbonden.      
+3°. de voorschriften die ter uitvoering van het bepaalde krachtens artikel 5 van bijlage V van het Protocol aan de vergunning dienen te worden verbonden;    
+
+j. dat, indien de organisator in het Antarctisch gebied gebruik maakt van een schip met meer dan 500 passagiers aan boord, er niet aan land mag worden gegaan in het Antarctisch gebied;  
+
+k. dat, indien de organisator in het Antarctisch gebied gebruik maakt van een schip met 500 of minder passagiers aan boord: 
+
+1°. de organisator samenwerkt met de andere in het desbetreffende deel van het Antarctisch gebied aanwezige organisatoren, ten einde te voorkomen dat zich op enig moment meer dan één toeristenschip bevindt bij een aanlandplaats;  
+
+2°. bij aanlandingen in het Antarctisch gebied, het aantal passagiers, afkomstig van dat aangelande schip, dat tegelijkertijd aan wal is, op ieder moment beperkt blijft tot ten hoogste 100 personen;  
+
+3°. bij aanlandingen in het Antarctisch gebied, de organisator zorgt voor een verhouding van 1 gids per 20 passagiers;    
+
+l. dat, in afwijking van de onderdelen j en k, onder 2° en 3°, ten minste de vastgestelde limieten gelden van een maatregel als bedoeld in artikel IX, eerste lid, van het Verdrag. Een in de eerste volzin bedoelde limiet geldt met ingang van een tijdstip dat in de Staatscourant wordt bekendgemaakt.  
 
 ### Artikel  16  
 
@@ -341,13 +371,13 @@ In een vergunning wordt bepaald dat zij slechts geldt voor een daarbij vast te s
 1. Indien dit in het belang van de bescherming van het Antarctisch milieu noodzakelijk is, worden beperkingen waaronder een vergunning is verleend en voorschriften die daaraan zijn verbonden, door Onze Ministers gewijzigd, aangevuld of ingetrokken dan wel worden alsnog beperkingen aangebracht of voorschriften aan een vergunning verbonden. 
 2. Een ieder, met uitzondering van de vergunninghouder, kan Onze Ministers verzoeken een vergunning in het belang van de bescherming van het Antarctisch milieu met toepassing van het eerste lid te wijzigen. 
 3. Met betrekking tot de beslissing ter zake van de inhoud van de beperkingen en voorschriften zijn de artikelen 12, 14, derde lid, en 15 tot en met 19 van overeenkomstige toepassing. 
-4. Op de voorbereiding van de beschikking zijn [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [afdeling 13.2 van de Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) van toepassing.
+4. Op de voorbereiding van de beschikking zijn afdeling 3.4 van de Algemene wet bestuursrecht en afdeling 13.2 van de Wet milieubeheer van toepassing.
 
 ###Artikel 21 
 
 1. Op aanvraag van de vergunninghouder kunnen Onze Ministers beperkingen waaronder een vergunning is verleend, en voorschriften die daaraan zijn verbonden, wijzigen, aanvullen, of intrekken, dan wel alsnog beperkingen aanbrengen of voorschriften aan de vergunning verbinden. 
 2. Met betrekking tot de beslissing ter zake en de inhoud van die beperkingen en voorschriften zijn de artikelen 12 tot en met 19 van overeenkomstige toepassing. 
-3. Op de voorbereiding van de beschikking zijn [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [afdeling 13.2 van de Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) van toepassing.
+3. Op de voorbereiding van de beschikking zijn afdeling 3.4 van de Algemene wet bestuursrecht en afdeling 13.2 van de Wet milieubeheer van toepassing.
 
 ###Artikel 22 
 
@@ -355,7 +385,7 @@ In een vergunning wordt bepaald dat zij slechts geldt voor een daarbij vast te s
 2. Onze Ministers trekken een vergunning in, voor zover regels, vastgesteld krachtens artikel 5, hiertoe verplichten. 
 3. Een ieder kan Onze Ministers verzoeken een vergunning met toepassing van het eerste lid in te trekken. 
 4. Met betrekking tot een beslissing als bedoeld in het eerste lid, zijn de artikelen 13 tot en met 19 van overeenkomstige toepassing. 
-5. Op de voorbereiding van de beschikking krachtens het eerste lid zijn [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [afdeling 13.2 van de Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) van toepassing.
+5. Op de voorbereiding van de beschikking krachtens het eerste lid zijn afdeling 3.4 van de Algemene wet bestuursrecht en afdeling 13.2 van de Wet milieubeheer van toepassing.
 
 ### §  5  
 
@@ -389,23 +419,18 @@ e. de maatregelen die worden overwogen om te voorkomen dat een zodanig voorval z
 
 ####Milieubedreigende noodsituaties
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  25a  
-Treedt in werking op een nader te bepalen tijdstip 
 
 In deze paragraaf en in de daarop berustende bepalingen wordt verstaan onder: 
 
 *partij:* staat waarvoor bijlage VI bij het Protocol van kracht is, overeenkomstig artikel 9 van het Protocol.   
 
 ### Artikel  25b  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De organisator onderneemt onverwijld doeltreffende bestrijdingsacties in een milieubedreigende noodsituatie die het gevolg is van zijn activiteit.   
 2.  Indien de organisator naar het oordeel van Onze Ministers niet voldoet aan het bepaalde in het eerste lid of niet onverwijld gevolg geeft aan de aanwijzingen, bedoeld in artikel 25, derde lid, kunnen Onze Ministers dergelijke acties of andere maatregelen laten ondernemen.  
 
 ### Artikel  25c  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De organisator die niet onverwijld bestrijdingsacties als bedoeld in artikel 25b onderneemt, is aansprakelijk voor de kosten van de bestrijdingsacties die een partij in de desbetreffende milieubedreigende noodsituatie onderneemt.   
 2.  Indien de in het eerste lid bedoelde organisator niet de Staat is en geen bestrijdingsacties zijn ondernomen, is de organisator aansprakelijk voor een bedrag dat een zo goed mogelijke afspiegeling is van de kosten van de bestrijdingsacties die redelijkerwijs hadden moeten worden ondernomen. De organisator betaalt het bedrag ten behoeve van het fonds aan Onze Ministers. Onze Ministers maken het ontvangen bedrag over aan het fonds.   
@@ -413,7 +438,6 @@ Treedt in werking op een nader te bepalen tijdstip
 4.  Wanneer een milieubedreigende noodsituatie mede het gevolg is van een andere activiteit, is elk van de organisatoren hoofdelijk aansprakelijk, tenzij hij aantoont dat slechts een gedeelte van de milieubedreigende noodsituatie het gevolg is van zijn activiteit, in welk geval hij slechts voor dat gedeelte aansprakelijk is.  
 
 ### Artikel  25d  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De organisator is niet aansprakelijk ingevolge artikel 25c, eerste en tweede lid, indien de milieubedreigende noodsituatie veroorzaakt is door: 
 
@@ -427,7 +451,6 @@ d. een oorlogshandeling, gericht tegen zijn activiteit.
 2.  Onze Ministers zijn niet aansprakelijk voor een milieubedreigende noodsituatie die het gevolg is van een door hen ondernomen bestrijdingsactie.  
 
 ### Artikel  25e  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  In dit artikel wordt verstaan onder: 
 
@@ -464,23 +487,19 @@ b. roekeloosheid van de organisator in de wetenschap dat een dergelijke noodsitu
 5.  Een wijziging als bedoeld in het tweede lid, geldt met ingang van een tijdstip dat in de Staatscourant bekend wordt gemaakt.  
 
 ### Artikel  25f  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Een organisator houdt een voldoende verzekering of andere financiële zekerheid in stand, ter dekking van zijn aansprakelijkheid ingevolge artikel 25c, eerste en tweede lid, tot een bedrag berekend overeenkomstig artikel 25e, tweede en derde lid.   
 2.  Indien de organisator niet aan de verplichting, bedoeld in artikel 25b, heeft voldaan, kunnen Onze Ministers bepalen tot welk bedrag zij verhaal zullen nemen op de gestelde zekerheid, bedoeld in het eerste lid. Onze Ministers kunnen de middelen aanwenden om andere partijen te betalen, teneinde de kosten, bedoeld in artikel 25c, eerste lid, te voldoen. Onze Ministers kunnen het te verhalen bedrag invorderen bij dwangbevel.  
 
 ### Artikel  25g  
-Treedt in werking op een nader te bepalen tijdstip 
 
 Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld inzake de in artikel 25f bedoelde te stellen financiële zekerheid. 
 
 ### Artikel  25h  
-Treedt in werking op een nader te bepalen tijdstip 
 
 Indien een andere partij heeft vastgesteld dat een natuurlijke of rechtspersoon, die in het Antarctisch gebied een activiteit uitvoert of organiseert, aansprakelijk is voor een bedrag als bedoeld in artikel 25c, tweede lid, kunnen Onze Ministers op verzoek van die partij ten behoeve van het fonds betaling daarvan vorderen, mits die natuurlijke of rechtspersoon in Nederland is gevestigd of er zijn voornaamste plaats van bedrijfsuitoefening of zijn gewone verblijfplaats heeft. Artikel 25c is van overeenkomstige toepassing. 
 
 ### Artikel  25i  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De bevoegdheid tot het instellen van kostenverhaal, bedoeld in artikel 25c, eerste lid, verjaart door verloop van een periode van drie jaar na de dag waarop de bestrijdingsacties zijn aangevangen of na de dag waarop de partij die de vordering instelt op de hoogte was of redelijkerwijze geacht kon worden op de hoogte te zijn van de identiteit van organisator, naar gelang welke datum later valt.   
 2.  In geen geval wordt een vordering, bedoeld in het eerste lid, later ingesteld dan vijftien jaar na aanvang van de bestrijdingsacties.   
@@ -500,7 +519,7 @@ Onze Ministers zijn bevoegd tot oplegging van een last onder bestuursdwang ter h
 
 ### Artikel  28  
 
-Met betrekking tot de handhaving van het bij of krachtens deze wet bepaalde zijn de [artikelen 5.10](../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [5.13 tot en met 5.16](../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [5.18](../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [5.19, eerste en derde lid](../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), en [5.20 tot en met 5.23 van de Wet algemene bepalingen omgevingsrecht](../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van toepassing. 
+Met betrekking tot de handhaving van het bij of krachtens deze wet bepaalde zijn de artikelen 5.10, 5.13 tot en met 5.16, 5.18, 5.19, eerste en derde lid, en 5.20 tot en met 5.23 van de Wet algemene bepalingen omgevingsrecht van toepassing. 
 
 ### Artikel  29  
 
@@ -537,15 +556,15 @@ b. de beperkingen waaronder een vergunning aan een ingezetene van de openbare li
 
 c. een ingezetene van de openbare lichamen een verzoek als bedoeld in de artikelen 20, tweede lid, 21, eerste lid, of 22, derde lid, indient, of  
 
-d. een intrekking van een vergunning als bedoeld in artikel 22, die is verleend aan een ingezetene van de openbare lichamen, plaatsvindt,   zijn, in afwijking van [artikel 3 van de Invoeringswet openbare lichamen Bonaire, Sint-Eustatius en Saba](../../../../../wet-BES/invoeringswet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028063/README.md), de artikelen 11, 20, 21 en 22 onverminderd van toepassing. 
+d. een intrekking van een vergunning als bedoeld in artikel 22, die is verleend aan een ingezetene van de openbare lichamen, plaatsvindt,   zijn, in afwijking van artikel 3 van de Invoeringswet openbare lichamen Bonaire, Sint-Eustatius en Saba, de artikelen 11, 20, 21 en 22 onverminderd van toepassing. 
 
 ### Artikel  32c  
 
-Een besluit op grond van deze wet wordt, indien dit is gericht tot een natuurlijke persoon of een rechtspersoon die vanuit de openbare lichamen een activiteit organiseert, aangemerkt als een beschikking in de zin van de [Wet administratieve rechtspraak BES](../../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md). 
+Een besluit op grond van deze wet wordt, indien dit is gericht tot een natuurlijke persoon of een rechtspersoon die vanuit de openbare lichamen een activiteit organiseert, aangemerkt als een beschikking in de zin van de Wet administratieve rechtspraak BES. 
 
 ### Artikel  32d  
 
-Met betrekking tot de handhaving in de openbare lichamen, van het bij of krachtens deze wet bepaalde, zijn de [artikelen 10.1](../../../../../wet-BES/wet/volkshuisvesting/ruimtelijke/ordening/en/milieubeheer/bes/BWBR0031218/README.md), [10.3](../../../../../wet-BES/wet/volkshuisvesting/ruimtelijke/ordening/en/milieubeheer/bes/BWBR0031218/README.md), [10.4](../../../../../wet-BES/wet/volkshuisvesting/ruimtelijke/ordening/en/milieubeheer/bes/BWBR0031218/README.md), [10.6](../../../../../wet-BES/wet/volkshuisvesting/ruimtelijke/ordening/en/milieubeheer/bes/BWBR0031218/README.md) en [10.8 tot en met 10.11 van de Wet Volkshuisvesting, ruimtelijke ordening en milieubeheer BES](../../../../../wet-BES/wet/volkshuisvesting/ruimtelijke/ordening/en/milieubeheer/bes/BWBR0031218/README.md) van overeenkomstige toepassing. 
+Met betrekking tot de handhaving in de openbare lichamen, van het bij of krachtens deze wet bepaalde, zijn de artikelen 10.1, 10.3, 10.4, 10.6 en 10.8 tot en met 10.11 van de Wet Volkshuisvesting, ruimtelijke ordening en milieubeheer BES van overeenkomstige toepassing. 
 
 ### Artikel  32e  
 
@@ -562,9 +581,9 @@ b. handelen in strijd met de voorschriften in de artikelen 19, tweede lid, en 33
 
 a. gehele of gedeeltelijke stillegging van de inrichting van de veroordeelde, waarin het delict is begaan, voor een tijd van ten hoogste een jaar;  
 
-b. verbeurdverklaring van de voorwerpen, genoemd in [artikel 35 van het Wetboek van Strafrecht BES](../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md);  
+b. verbeurdverklaring van de voorwerpen, genoemd in artikel 35 van het Wetboek van Strafrecht BES;  
 
-c. verbeurdverklaring van voorwerpen, behorende tot de onderneming van een veroordeelde, waarin het delict is begaan, voor zover zij soortgelijk zijn aan en met betrekking tot het delict verband houden met die, genoemd in [artikel 35 van het Wetboek van Strafrecht BES](../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md), en  
+c. verbeurdverklaring van voorwerpen, behorende tot de onderneming van een veroordeelde, waarin het delict is begaan, voor zover zij soortgelijk zijn aan en met betrekking tot het delict verband houden met die, genoemd in artikel 35 van het Wetboek van Strafrecht BES, en  
 
 d. gehele of gedeeltelijke ontzetting van bepaalde rechten of gehele of gedeeltelijke ontzegging van bepaalde voordelen, welke rechten of voordelen de veroordeelde in verband met zijn inrichting van overheidswege zijn of zouden kunnen worden toegekend, voor een tijd van ten hoogste twee jaren.     
 3.  Tezamen met de straffen, bedoeld in het eerste en tweede lid, kunnen de volgende maatregelen worden opgelegd: 
@@ -575,7 +594,7 @@ b. het opleggen van de verplichting tot verrichting van hetgeen wederrechtelijk 
 
 ### Artikel  32f  
 
-Het [Wetboek van Strafrecht BES](../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) is mede van toepassing op de ingezetene van de openbare lichamen die in het Antarctisch gebied handelt in strijd met het bij of krachtens deze wet bepaalde.  
+Het Wetboek van Strafrecht BES is mede van toepassing op de ingezetene van de openbare lichamen die in het Antarctisch gebied handelt in strijd met het bij of krachtens deze wet bepaalde.  
 
 ### §  8  
 
@@ -606,8 +625,11 @@ Wijzigt de Wet milieubeheer.
 
 ### Artikel  36  
 
-1.  De Staat kan – behoudens matiging door de rechter – de te zijnen laste komende kosten van het ongedaan maken van door de activiteit veroorzaakte nadelige gevolgen voor het Antarctisch milieu, dan wel de kosten van het voorkomen van dergelijke gevolgen, verhalen op degene door wiens onrechtmatige daad die kosten zijn veroorzaakt.    
-2.  Voor de toepassing van het eerste lid is niet vereist dat op het tijdstip waarop de activiteit werd uitgevoerd, reeds jegens de overheid onrechtmatig werd gehandeld.   
+1.  De Staat of een andere partij kan, behoudens matiging door de rechter, de te zijnen laste komende kosten van het ongedaan maken van door de activiteit veroorzaakte nadelige gevolgen voor het Antarctisch milieu, de kosten van het voorkomen van dergelijke gevolgen, dan wel de kosten, bedoeld in artikel 25c, tweede lid, en artikel 25h verhalen op degene door wiens onrechtmatige daad die kosten zijn veroorzaakt, of op degene die anderszins krachtens burgerlijk recht buiten overeenkomst aansprakelijk is voor de gevolgen daarvan.   
+2.  Voor de toepassing van het eerste lid is niet vereist dat op het tijdstip waarop de activiteit werd uitgevoerd, reeds jegens de overheid of een andere partij onrechtmatig werd gehandeld.    
+3.  In dit artikel wordt verstaan onder: 
+
+*partij:* staat waarvoor bijlage VI bij het Protocol van kracht is, overeenkomstig artikel 9 van het Protocol.   
 
 ### §  9  
 

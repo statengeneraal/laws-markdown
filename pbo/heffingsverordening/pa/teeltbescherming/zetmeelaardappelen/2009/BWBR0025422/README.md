@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Akkerbouw van 13 november 2008, houdende vaststelling bestemmingsheffing ten behoeve van de Stichting Teeltbeschermingsmaatregelen Zetmeelaardappelen (Heffingsverordening PA teeltbescherming zetmeelaardappelen 2009)
 
 Het bestuur van het Productschap Akkerbouw;  
-Gelet op de [artikelen 95](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126, eerste en vierde lid van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op de [artikelen 8](../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md) en [19 van het Instellingsbesluit akkerbouwproductschappen](../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md);
+Gelet op de artikelen 95 en 126, eerste en vierde lid van de Wet op de bedrijfsorganisatie en op de artikelen 8 en 19 van het Instellingsbesluit akkerbouwproductschappen;
 
 Gehoord de Commissie Teeltaangelegenheden;
 Besluit:    
@@ -48,7 +48,7 @@ kcontractteelt: de teelt van gewassen of producten ingevolge een overeenkomst.
 ###Artikel 2 
 
 1. De ondernemer, die in enig kalenderjaar een onderneming drijft, met als activiteit het telen van zetmeelaardappelen, is verplicht voor dat jaar aan het productschap een heffing te betalen.
-2. De heffing wordt opgelegd naar de grondslag grondgebruik en wordt berekend naar de oppervlakte van de tot de onderneming behorende oppervlakte cultuurgrond, in gebruik voor de teelt van zetmeelaardappelen in het desbetreffende jaar, op basis van de bij of krachtens de [Verordening PA registratie en verstrekking van gegevens teeltsector 2008](../../../../../../../pbo/verordening/pa/registratie/en/verstrekking/van/gegevens/teeltsector/2008/BWBR0024009/README.md) verstrekte gegevens.
+2. De heffing wordt opgelegd naar de grondslag grondgebruik en wordt berekend naar de oppervlakte van de tot de onderneming behorende oppervlakte cultuurgrond, in gebruik voor de teelt van zetmeelaardappelen in het desbetreffende jaar, op basis van de bij of krachtens de Verordening PA registratie en verstrekking van gegevens teeltsector 2008 verstrekte gegevens.
 3. De heffing bedraagt € 0 per hectare.
 4. De heffing is bestemd voor de Stichting TBM.
 
@@ -102,7 +102,7 @@ De secretaris kan, namens het bestuur, besluiten nota’s met een bedrag van min
 
 ###Artikel 8 
 
-Aan de ondernemer die niet of niet geheel binnen de in artikel 5 gestelde termijn heeft betaald, kan door de secretaris, namens het bestuur, de wettelijke interest over het nietbetaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md).
+Aan de ondernemer die niet of niet geheel binnen de in artikel 5 gestelde termijn heeft betaald, kan door de secretaris, namens het bestuur, de wettelijke interest over het nietbetaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie.
 
 ###§ 5 
 

@@ -34,7 +34,7 @@ a. *instelling:*
 
 8°. financiële dienstverlener als bedoeld in artikel 1:1 van de Wet op het financieel toezicht voor zover deze bemiddelt in levensverzekeringen;  
 
-9°. bijkantoor in Nederland van een financiële onderneming als bedoeld onder 1° tot en met 8°, 20° of 22 met zetel buiten Nederland;  
+9°. bijkantoor in Nederland van een financiële onderneming als bedoeld onder 1° tot en met 8°, 20°, 22° of 25° met zetel buiten Nederland;  
 
 10°. trustkantoor als bedoeld in artikel 1, onderdeel a, van de Wet toezicht trustkantoren;  
 
@@ -56,7 +56,7 @@ f. het vestigen van een recht van hypotheek op een registergoed;
 
 13°. natuurlijke persoon, rechtspersoon of vennootschap die als advocaat, notaris, toegevoegd notaris of kandidaat-notaris dan wel in de uitoefening van een gelijksoortig juridisch beroep optreedt in naam en voor rekening van een cliënt bij enigerlei financiële transactie of onroerende zaaktransactie;  
 
-14°. tussenpersoon als bedoeld in artikel 62 van het Wetboek van Koophandel, voor zover deze bemiddelt bij het tot stand brengen en het sluiten van overeenkomsten inzake onroerende zaken en rechten waaraan onroerende zaken zijn onderworpen;  
+14°. tussenpersoon als bedoeld in artikel 62 van het Wetboek van Koophandel, voor zover deze bemiddelt bij het tot stand brengen en het sluiten van overeenkomsten inzake onroerende zaken en rechten waaraan onroerende zaken zijn onderworpen, of inzake koop en verkoop van voertuigen, schepen, kunstvoorwerpen, antiquiteiten, edelstenen, edele metalen, sieraden of juwelen;  
 
 15°. beroeps- of bedrijfsmatig handelende verkoper van goederen, voor zover betaling van deze goederen in contanten plaatsvindt voor een bedrag van € 15 000 of meer, ongeacht of de transactie plaatsvindt in een handeling of door middel van meer handelingen waartussen een verband bestaat;  
 
@@ -78,7 +78,9 @@ f. het vestigen van een recht van hypotheek op een registergoed;
 
 24°. natuurlijke persoon of rechtspersoon die in de uitoefening van beroep of bedrijf taxaties uitvoert van onroerende zaken en rechten waaraan onroerende zaken zijn onderworpen; 
 
-25°. icbe als bedoeld in artikel 1.1 van de Wet op het financieel toezicht;   
+25°. icbe als bedoeld in artikel 1.1 van de Wet op het financieel toezicht; 
+
+26°. pandhuis als bedoeld in artikel 131, onderdeel a, van Boek 7 van het Burgerlijk Wetboek;   
 
 b.  *cliënt:* natuurlijke persoon of rechtspersoon met wie een zakelijke relatie wordt aangegaan of die een transactie laat uitvoeren;  
 
@@ -216,12 +218,17 @@ f. indien er, gelet op de staat waarin een cliënt woonachtig of gevestigd is of
 
 g. indien zij in of vanuit Nederland een incidentele transactie verricht ten behoeve van de cliënt of de trust inhoudende een geldovermaking als bedoeld in artikel 2, zevende lid, van Verordening (EG) nr. 2006/1781 van het Europees Parlement en de Raad van 15 november 2006 betreffende bij geldovermakingen te voegen informatie over de betaler (PbEU 2006, L 345).    
 6.  Een instelling kan het cliëntenonderzoek afstemmen op de risicogevoeligheid voor witwassen of financiering van terrorisme van het type cliënt, zakelijke relatie, product of transactie.   
-7.  Het eerste tot en met zesde lid en het achtste lid is niet van toepassing op trustkantoren als bedoeld in artikel 1, onderdeel a, onder 10°, voor zover zij diensten verlenen als bedoeld in artikel 1, onderdeel d, van de Wet toezicht trustkantoren en op taxateurs als bedoeld in artikel 1, onderdeel a, onder 24°.   
+7.  Het eerste tot en met zesde lid en het achtste lid is niet van toepassing op taxateurs als bedoeld in artikel 1, onderdeel a, onder 24°.   
 8.  Een instelling neemt op risico gebaseerde en adequate maatregelen om ervoor te zorgen dat de gegevens die ingevolge het tweede, derde en vierde lid zijn verzameld over daar bedoelde personen, actueel gehouden worden.  
 9.  Bij ministeriële regeling kan vrijstelling worden geregeld van het in het eerste of tweede lid bepaalde.   
 10.  Onze Minister van Financiën kan, op verzoek van een instelling, al dan niet voor bepaalde tijd, ontheffing verlenen van het eerste of tweede lid. Aan een vrijstelling en ontheffing kunnen beperkingen worden gesteld en voorschriften worden verbonden.   
 11.  In dit artikel wordt verstaan onder personenvennootschap: een maatschap als bedoeld in artikel 1655 van boek 7A van het Burgerlijk Wetboek, een vennootschap onder firma als bedoeld in artikel 16 van het Wetboek van Koophandel en een commanditaire vennootschap als bedoeld in artikel 19 van het Wetboek van Koophandel, alsmede een maatschap of vennootschap naar buitenlands recht die met deze rechtsvormen vergelijkbaar is.  
-12.  Voor de toepassing van het tweede lid wordt, indien de in het eerste lid bedoelde verplichting rust op een tussenpersoon als bedoeld in artikel 1, onderdeel a, onder 14°, onder cliënt mede verstaan: de wederpartij van de cliënt bij de door bemiddeling van de tussenpersoon tot stand gebrachte en gesloten overeenkomst inzake onroerende zaken en rechten waaraan onroerende zaken zijn onderworpen. 
+12.  Voor de toepassing van het tweede lid wordt, indien de in het eerste lid bedoelde verplichting rust op een tussenpersoon als bedoeld in artikel 1, onderdeel a, onder 14°, onder cliënt mede verstaan: de wederpartij van de cliënt bij de door bemiddeling van de tussenpersoon tot stand gebrachte en gesloten overeenkomst inzake onroerende zaken en rechten waaraan onroerende zaken zijn onderworpen.  
+13.  In geval van een trustkantoor als bedoeld in artikel 1, onderdeel a, onder 10°, dat diensten verleent als bedoeld in artikel 1, onderdeel d, van de Wet toezicht trustkantoren: 
+
+a. wordt onder cliëntenonderzoek in de zin van het eerste lid verstaan de maatregelen die zijn voorgeschreven krachtens artikel 10, eerste lid, van de Wet toezicht trustkantoren en die worden uitgevoerd voorafgaand aan of bij de uitvoering van een dienst of het aangaan van een zakelijke relatie;  
+
+b. zijn het tweede tot en met het zesde lid en achtste lid niet van toepassing.   
 
 ### Artikel  4  
 
@@ -248,7 +255,7 @@ a. zij zelf ten aanzien van die cliënt onderzoek heeft verricht conform artikel
 b. dit onderzoek heeft geleid tot het in artikel 3, tweede lid, aanhef en onderdelen a, b, c, e, f en g, derde lid, aanhef en onderdelen a, b, c en e, en vierde lid, aanhef, onderdelen a, b, c, d, f en g bedoelde resultaat; en  
 
 c. de instelling beschikt over alle identificatie- en verificatiegegevens en overige gegevens inzake de identiteit van de in artikel 3, tweede, derde en vierde lid, bedoelde personen.    
-2.  Indien een instelling met betrekking tot een zakelijke relatie niet kan voldoen aan artikel 3, eerste tot en met vierde lid, beëindigt de instelling die zakelijke relatie.  
+2.  Indien een instelling met betrekking tot een zakelijke relatie niet kan voldoen aan artikel 3, eerste tot en met vierde lid en dertiende lid, onderdeel a, beëindigt de instelling die zakelijke relatie.  
 3.  Het eerste en het tweede lid zijn niet van toepassing op de gevallen als bedoeld in de artikelen 6 en 7.   
 4.  Het is een bank verboden een correspondentbankrelatie aan te gaan of voort te zetten met een shellbank of met een bank waarvan bekend is dat deze een shellbank toestaat van haar rekeningen gebruik te maken.  
 
@@ -327,21 +334,21 @@ c. indien het een nieuwe correspondentbankrelatie betreft, de beslissing tot het
 d. de verantwoordelijkheden van beide banken schriftelijk worden vastgelegd;  
 
 e. de betrokken bank de cliënt heeft geïdentificeerd en zijn identiteit heeft geverifieerd en daarnaast doorlopend toezicht houdt op de cliënten die rechtstreeks toegang hebben tot transitrekeningen en dat deze in staat is om haar op verzoek de relevante cliëntgegevens te verstrekken.     
-4.  Een instelling draagt er zorg voor dat zij over op risico gebaseerde procedures beschikt om te bepalen of de cliënt of de uiteindelijk belanghebbende een politiek prominent persoon is die niet in Nederland woont of niet de Nederlandse nationaliteit heeft. Onverminderd het eerste lid draagt een instelling die een zakelijke relatie aangaat of voortzet met of een transactie verricht voor een cliënt waarop de eerste volzin van toepassing is, er tevens zorg voor dat: 
+4.  Een instelling draagt er zorg voor dat zij over op risico gebaseerde procedures beschikt om te bepalen of de cliënt, de natuurlijke persoon, bedoeld in artikel 3, vierde lid, onderdeel b, of de uiteindelijk belanghebbende een politiek prominent persoon is die niet in Nederland woont of niet de Nederlandse nationaliteit heeft. Onverminderd het eerste lid draagt een instelling die een zakelijke relatie aangaat of voortzet met of een transactie verricht voor een cliënt waarop de eerste volzin van toepassing is, er tevens zorg voor dat: 
 
 a. de beslissing tot het aangaan van die relatie of het verrichten van die transactie wordt genomen of wordt goedgekeurd door personen die daartoe door de instelling zijn gemachtigd;  
 
 b. zij op risico gebaseerde en adequate maatregelen treft om de bron van het vermogen van de politiek prominente persoon en de fondsen die bij de zakelijke relatie of de transactie gebruikt worden vast te stellen; en  
 
 c. zij doorlopend controle uitoefent op de zakelijke relatie.     
-5.  Indien de cliënt of een uiteindelijk belanghebbende gedurende de zakelijke relatie een politiek prominent persoon wordt of blijkt te zijn, voldoet de instelling binnen een redelijke termijn aan het vierde lid.   
+5.  Indien de cliënt, de natuurlijke persoon, bedoeld in artikel 3, vierde lid, onderdeel b, of de uiteindelijk belanghebbende gedurende de zakelijke relatie een politiek prominent persoon wordt of blijkt te zijn, voldoet de instelling binnen een redelijke termijn aan het vierde lid.   
 6.  Bij ministeriële regeling kan vrijstelling worden geregeld van het vierde of vijfde lid terzake van personen die in Nederland wonen.   
 7.  Onze Minister van Financiën kan op verzoek van een instelling, al dan niet voor bepaalde tijd, aan die instelling ontheffing verlenen van het vierde of vijfde lid terzake van personen die in Nederland wonen. Aan een ontheffing kunnen beperkingen worden gesteld en voorschriften worden verbonden. 
 
 ### Artikel  9  
 
-1.  Onverminderd artikel 8, eerste lid, kan bij ministeriële regeling worden bepaald dat bij die regeling aangewezen instellingen bijzondere maatregelen nemen met betrekking tot cliënten die woonachtig of gevestigd zijn of hun zetel hebben in bij die regeling aangewezen staten met strategische tekortkomingen in de preventie van witwassen en financieren van terrorisme of transacties, zakelijke relaties en correspondentbankrelaties gerelateerd aan die staten. In de regeling kan onderscheid worden gemaakt naar categorie instelling.   
-2.  Als bijzondere maatregelen met betrekking tot cliënten die woonachtig of gevestigd zijn of hun zetel hebben in een ingevolge het eerste lid aangewezen staat en hun uiteindelijk belanghebbenden kunnen worden aangewezen: 
+1.  Onverminderd artikel 8, eerste lid, kan bij ministeriële regeling worden bepaald dat bij die regeling aangewezen instellingen bijzondere maatregelen nemen met betrekking tot cliënten die woonachtig of gevestigd zijn of hun zetel hebben in bij die regeling aangewezen staten met strategische tekortkomingen in de preventie van witwassen en financieren van terrorisme, hun uiteindelijk belanghebbenden of de natuurlijke personen, bedoeld in artikel 3, vierde lid, onderdeel b, of transacties, zakelijke relaties en correspondentbankrelaties gerelateerd aan die staten. In de regeling kan onderscheid worden gemaakt naar categorie instelling.   
+2.  Als bijzondere maatregelen met betrekking tot cliënten die woonachtig of gevestigd zijn of hun zetel hebben in een ingevolge het eerste lid aangewezen staat, hun uiteindelijk belanghebbenden of de natuurlijke personen, bedoeld in artikel 3, vierde lid, onderdeel b, kunnen worden aangewezen: 
 
 a. verzamelen van aanvullende informatie over die cliënten en uiteindelijk belanghebbenden, waaronder informatie met betrekking tot het doel en de aard van de zakelijke relatie, de herkomst van de fondsen die bij de zakelijke relatie of de transactie gebruikt worden en de bron van het vermogen van die cliënten en van die uiteindelijk belanghebbenden;  
 
@@ -368,7 +375,7 @@ d. bij algemene maatregel van bestuur aan te wijzen maatregelen die strekken tot
 
 ### Artikel  10  
 
-1.  Een instelling kan het cliëntenonderzoek, bedoeld in artikel 3, eerste lid, voor zover het betrekking heeft op het in het tweede lid, onderdelen a, b, en c, van dat artikel bepaalde, laten verrichten door een derde, onverminderd haar verplichting om te voldoen aan het in die onderdelen bepaalde.   
+1.  Een instelling kan het cliëntenonderzoek, bedoeld in artikel 3, eerste lid, voor zover het betrekking heeft op het in het tweede lid, onderdelen a, b, c, e, f en g, het derde lid, onderdelen a, b, c en e, of het vierde lid, onderdelen a, b, c, d, f en g, van dat artikel bepaalde, laten verrichten door een derde, onverminderd haar verplichting om te voldoen aan het in die onderdelen bepaalde.   
 2.  Indien de in het eerste lid bedoelde uitbesteding een structureel karakter heeft legt de instelling de opdracht daartoe schriftelijk vast.  
 
 ### §  2.5  
@@ -377,9 +384,9 @@ d. bij algemene maatregel van bestuur aan te wijzen maatregelen die strekken tot
 
 ### Artikel  11  
 
-1.  Indien de cliënt een natuurlijke persoon is, wordt diens identiteit geverifieerd aan de hand van documenten, gegevens of inlichtingen uit betrouwbare en onafhankelijke bron. Bij ministeriële regeling kunnen documenten, gegevens of inlichtingen worden aangewezen op basis waarvan kan worden voldaan aan het in de vorige zin bepaalde.   
-2.  Indien de cliënt een rechtspersoon is opgericht naar Nederlands recht en in Nederland zijn zetel heeft of een buitenlandse rechtspersoon is die in Nederland is gevestigd, wordt diens identiteit geverifieerd aan de hand van documenten, gegevens of inlichtingen uit betrouwbare en onafhankelijke bron. Bij ministeriële regeling kunnen documenten, gegevens of inlichtingen worden aangewezen op basis waarvan kan worden voldaan aan het in de vorige zin bepaalde.   
-3.  Indien de cliënt een buitenlandse rechtspersoon is die niet in Nederland is gevestigd, wordt de identiteit geverifieerd op basis van betrouwbare en in het internationale verkeer gebruikelijke documenten uit onafhankelijke bron, gegevens of inlichtingen of op basis van documenten, gegevens of inlichtingen die bij wet als geldig middel voor identificatie zijn erkend in de staat van herkomst van de cliënt.   
+1.  Indien de cliënt, de insteller van een trust, de trustee van een trust, de vennoot van een personenvennootschap of de persoon bevoegd inzake het beheer van de personenvennootschap een natuurlijke persoon is, wordt diens identiteit geverifieerd aan de hand van documenten, gegevens of inlichtingen uit betrouwbare en onafhankelijke bron. Bij ministeriële regeling kunnen documenten, gegevens of inlichtingen worden aangewezen op basis waarvan kan worden voldaan aan het in de vorige zin bepaalde.   
+2.  Indien de cliënt, de insteller van een trust, de trustee van een trust, de vennoot van een personenvennootschap of de persoon bevoegd inzake het beheer van de personenvennootschap een rechtspersoon is opgericht naar Nederlands recht en in Nederland zijn zetel heeft of een buitenlandse rechtspersoon is die in Nederland is gevestigd, wordt diens identiteit geverifieerd aan de hand van documenten, gegevens of inlichtingen uit betrouwbare en onafhankelijke bron. Bij ministeriële regeling kunnen documenten, gegevens of inlichtingen worden aangewezen op basis waarvan kan worden voldaan aan het in de vorige zin bepaalde.   
+3.  Indien de cliënt, de insteller van een trust, de trustee van een trust, de vennoot van een personenvennootschap of de persoon bevoegd inzake het beheer van de personenvennootschap een buitenlandse rechtspersoon is die niet in Nederland is gevestigd, wordt de identiteit geverifieerd op basis van betrouwbare en in het internationale verkeer gebruikelijke documenten uit onafhankelijke bron, gegevens of inlichtingen of op basis van documenten, gegevens of inlichtingen die bij wet als geldig middel voor identificatie zijn erkend in de staat van herkomst van de cliënt, de insteller van een trust, de trustee van een trust, de vennoot van een personenvennootschap of de persoon bevoegd inzake het beheer van de personenvennootschap.   
 4.  Bij ministeriële regeling kunnen regels worden vastgesteld met betrekking tot het verifiëren van de identiteit van cliënten die niet onder het eerste tot en met het derde lid vallen.  
 
 ### Hoofdstuk  3  
@@ -393,7 +400,7 @@ d. bij algemene maatregel van bestuur aan te wijzen maatregelen die strekken tot
 ### Artikel  12  
 
 1.  Er is een Financiële inlichtingen eenheid.   
-2.  De Financiële inlichtingen eenheid ongebruikelijke transacties is de verantwoordelijke autoriteit als bedoeld in de Verordening nr. 2006/1781/EG van het Europees Parlement en de Raad betreffende bij geldovermakingen te voegen informatie over de betaler.   
+2.  De Financiële inlichtingen eenheid is de verantwoordelijke autoriteit als bedoeld in de Verordening nr. 2006/1781/EG van het Europees Parlement en de Raad betreffende bij geldovermakingen te voegen informatie over de betaler.   
 3.  De algemene leiding, de organisatie en het beheer van de Financiële inlichtingen eenheid berusten bij Onze Minister van Justitie.   
 4.  Benoeming, schorsing en ontslag van het hoofd van de Financiële inlichtingen eenheid geschieden bij koninklijk besluit op voordracht van Onze Minister van Justitie, in overeenstemming met Onze Minister van Financiën.   
 5.  Onze Minister van Justitie bepaalt in overeenstemming met Onze Minister van Financiën de begroting van de Financiële inlichtingen eenheid.  
@@ -448,9 +455,9 @@ i. het jaarlijks uitbrengen van een verslag met betrekking tot de taakuitoefenin
 1.  Een instelling meldt een verrichte of voorgenomen ongebruikelijke transactie onverwijld nadat het ongebruikelijke karakter van de transactie bekend is geworden, aan de Financiële inlichtingen eenheid.   
 2.  Bij een melding als bedoeld in het eerste lid verstrekt de instelling de volgende gegevens: 
 
-a. de identiteit van de cliënt en, voor zover mogelijk, de identiteit van degene ten behoeve van wie de transactie wordt uitgevoerd;  
+a. de identiteit van de cliënt, de identiteit van de uiteindelijk belanghebbenden, de identiteit van de natuurlijke personen, bedoeld in artikel 3, vierde lid, onderdeel b, en, voor zover mogelijk, de identiteit van degene ten behoeve van wie de transactie wordt uitgevoerd;  
 
-b. de aard en het nummer van het identiteitsbewijs van de cliënt;  
+b. de aard en het nummer van het identiteitsbewijs van de cliënt en, voorzover mogelijk, van de overige in onderdeel a bedoelde personen;  
 
 c. de aard, het tijdstip en de plaats van de transactie;  
 
@@ -462,7 +469,12 @@ f. een omschrijving van de desbetreffende zaken van grote waarde bij een transac
 
 g. aanvullende, bij algemene maatregel van bestuur aan te wijzen, gegevens.     
 3.  In afwijking van het tweede lid verstrekt een taxateur als bedoeld in artikel 1, onderdeel a, onder 24°, de gegevens bedoeld in het tweede lid voor zover zij daarover beschikt, alsmede een beschrijving van de desbetreffende onroerende zaken en rechten waaraan onroerende zaken zijn onderworpen.   
-4.  De meldingsplicht, bedoeld in het eerste lid, is van overeenkomstige toepassing indien een cliëntenonderzoek als bedoeld in artikel 3, eerste lid, niet leidt tot het in artikel 3, tweede lid, aanhef en onderdelen a, b, c, e, f en g, derde lid, aanhef en onderdelen a, b, c en e, en vierde lid, aanhef en onderdelen a, b, c, d, f en g, bedoelde resultaat of een zakelijke relatie wordt beëindigd ingevolge artikel 5, tweede lid, en er tevens indicaties zijn dat de desbetreffende cliënt betrokken is bij witwassen of financieren van terrorisme. Bij de melding van een dergelijke transactie ingevolge het eerste lid verstrekt een instelling naast de gegevens bedoeld in het tweede lid een beschrijving van de redenen waarom het cliëntenonderzoek niet leidde tot het in artikel 5, eerste lid, onderdeel b, bedoelde resultaat, of de redenen waarom niet kon worden voldaan aan de verplichtingen, bedoeld in artikel 5, tweede lid. 
+4.  De meldingsplicht, bedoeld in het eerste lid, is van overeenkomstige toepassing indien: 
+
+a. een cliëntenonderzoek als bedoeld in artikel 3, eerste lid, niet leidt tot het in artikel 5, eerste lid, onderdeel b, bedoelde resultaat of tot de uitvoering van de in artikel 3, dertiende lid, onderdeel a, bedoelde maatregelen, en er tevens indicaties zijn dat de desbetreffende cliënt betrokken is bij witwassen of financieren van terrorisme;  
+
+b. een zakelijke relatie wordt beëindigd ingevolge artikel 5, tweede lid, en er tevens indicaties zijn dat de desbetreffende cliënt betrokken is bij witwassen of financieren van terrorisme.    
+5.  Bij een melding ingevolge het vierde lid verstrekt een instelling naast de gegevens, bedoeld in het tweede lid, een beschrijving van de redenen waarom het vierde lid van toepassing is. 
 
 ### Artikel  17  
 
@@ -551,7 +563,7 @@ d. overleg over de naleving van artikel 16 met betrekking tot een transactie.
 
 2°. tussen instellingen als bedoeld in artikel 1, eerste lid, onderdeel a, onder 11°, 12°, 13° en 23°, gevestigd in een lidstaat of een derde land, die hun werkzaamheden, al dan niet als werknemer, uitoefenen binnen eenzelfde rechtspersoon of netwerk;  
 
-3°. van een instelling als bedoeld in artikel 1, eerste lid, onderdeel a, onder 1 tot en met 3, 5 tot en met 9, 11° tot en met 13°, aan een instelling behorende tot dezelfde categorie, voor zover: 
+3°. van een instelling als bedoeld in artikel 1, eerste lid, onderdeel a, onder 1° tot en met 3°, 5° tot en met 9°, 11° tot en met 13° en 23°, aan een instelling behorende tot dezelfde categorie, voor zover: 
 
 a. de mededeling betrekking heeft op een cliënt van beide instellingen en een transactie waarbij beide instellingen betrokken zijn;  
 
@@ -576,9 +588,10 @@ c. de mededeling uitsluitend is bedoeld ter voorkoming van witwassen en financie
 2.  De personen die op grond van het eerste lid belast zijn met het toezicht op de instellingen, bedoeld in artikel 1, eerste lid, onderdeel a, onder 10° tot en met 15° en 23°, kunnen het toezicht op een risicogeoriënteerde wijze uitoefenen.   
 3.  De Nederlandsche Bank N.V. en de daartoe bij besluit van De Nederlandsche Bank N.V. aangewezen personen zijn belast met het toezicht op de naleving van de Verordening nr. 2006/1781/EG van het Europees Parlement en de Raad betreffende bij geldovermakingen te voegen informatie over de betaler.   
 4.  De Stichting Autoriteit Financiële Markten en de daartoe bij besluit van de Stichting Autoriteit Financiële Markten aangewezen personen zijn belast met het toezicht op de naleving van Verordening (EU) nr. 1031/2010 van de Europese Commissie van 12 november 2010 inzake de tijdstippen, het beheer en andere aspecten van de veiling van broeikasgasemissierechten overeenkomstig Richtlijn 2003/87/EG van het Europees Parlement en de Raad tot vaststelling van een regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap (PbEU L 302).   
-5.  Op de uitoefening door de personen, bedoeld in het eerste lid, van het toezicht op de naleving van het bepaalde bij of krachtens deze wet door notarissen, toegevoegd notarissen en kandidaat-notarissen is artikel 111a, derde lid, van de Wet op het notarisambt van overeenkomstige toepassing.  
-6.  Van een besluit tot aanwijzing op grond van het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.   
-7.  Bij ministeriële regeling kunnen banken die deel uitmaken van een groep banken die op 15 december 1977 blijvend was aangesloten bij een centrale kredietinstelling die controle uitoefent op de bedrijfsvoering en uitbesteding van die banken worden vrijgesteld van het toezicht door de Nederlandsche Bank N.V. op de naleving van deze wet, indien de centrale kredietinstelling toezicht houdt op die groep banken en in voldoende mate bevoegd is voor de naleving van deze wet noodzakelijke instructies te geven aan die banken. Aan deze vrijstelling kunnen beperkingen worden gesteld en voorschriften worden verbonden.  
+5.  In afwijking van het eerste lid zijn belast met het houden van toezicht op de naleving van het bepaalde bij of krachtens deze wet door notarissen, toegevoegd notarissen en kandidaat-notarissen, de personen die bij of krachtens de Wet op het notarisambt zijn belast met het houden van toezicht op de naleving van het bij of krachtens die wet bepaalde. Artikel 111a, derde lid, van de Wet op het notarisambt is van overeenkomstige toepassing. 
+6. In afwijking van het eerste lid zijn belast met het houden van toezicht op de naleving van het bepaalde bij of krachtens deze wet door advocaten, de personen die bij of krachtens de Advocatenwet zijn belast met het houden van toezicht op de naleving van het bij of krachtens die wet bepaalde. Artikel 45a, derde lid, van de Advocatenwet is van overeenkomstige toepassing. 
+7.  Van een besluit tot aanwijzing op grond van het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.   
+8.  Bij ministeriële regeling kunnen banken die deel uitmaken van een groep banken die blijvend is aangesloten bij een centrale kredietinstelling die controle uitoefent op de bedrijfsvoering en uitbesteding van die banken worden vrijgesteld van het toezicht door de Nederlandsche Bank N.V. op de naleving van deze wet, indien de centrale kredietinstelling toezicht houdt op die groep banken en in voldoende mate bevoegd is voor de naleving van deze wet noodzakelijke instructies te geven aan die banken. Aan deze vrijstelling kunnen beperkingen worden gesteld en voorschriften worden verbonden.  
 
 ### Artikel  25  
 
@@ -586,19 +599,21 @@ Indien de personen die met wettelijk toezicht op instellingen zijn belast bij de
 
 ### Artikel  26  
 
-1.  Onze Minister van Financiën kan een last onder dwangsom opleggen ter zake van overtreding van de artikelen 2, 2a, eerste en tweede lid, 3, eerste tot en met vijfde, zevende en achtste lid, 4, eerste lid, tweede lid, tweede volzin, derde lid, tweede volzin, en vierde lid, 5, eerste, tweede en vierde lid, 6, tweede lid, 7, tweede lid, 8, eerste tot en met vijfde lid, 9, eerste lid, 10, tweede lid, 11, 16, eerste tot en met vierde lid, 17, tweede lid, 23, eerste tot en met derde lid, 32, 33, 34, en 35 en 38, eerste, tweede en vierde lid, van deze wet, artikel 5:20 van de Algemene wet bestuursrecht, het bepaalde in Verordening (EG) nr. 2006/1781 van het Europees Parlement en de Raad van de Europese Unie van 15 november 2006 betreffende bij geldovermakingen te voegen informatie over de betaler (PbEU L 345) en het bepaalde in Verordening (EU) nr. 1031/2010 van de Europese Commissie van 12 november 2010 inzake de tijdstippen, het beheer en andere aspecten van de veiling van broeikasgasemissierechten overeenkomstig Richtlijn 2003/87/EG van het Europees Parlement en de Raad tot vaststelling van een regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap (PbEU L 302), alsmede ter zake van het geen gevolg geven dan wel niet tijdig of onvolledig gevolg geven aan een krachtens artikel 32 gegeven aanwijzing.   
-2.  Het eerste lid is niet van toepassing ten aanzien van degene die, in geval van bezwaren tegen diens handelen of nalaten in de beroepsuitoefening, onderworpen is aan bij wet geregelde tuchtrechtspraak.  
+1.  Onze Minister van Financiën kan aan instellingen, met uitzondering van advocaten, notarissen, toegevoegd notarissen en kandidaat-notarissen, een last onder dwangsom opleggen ter zake van overtreding van de artikelen 2, 2a, eerste en tweede lid, 3, eerste tot en met vijfde, achtste en tiende lid, 4, eerste lid, tweede lid, tweede volzin, derde lid, tweede volzin, en vierde lid, 5, eerste, tweede en vierde lid, 6, tweede lid, 7, tweede lid, 8, eerste tot en met vijfde en zevende lid, 9, eerste lid, 10, tweede lid, 11, 16, eerste tot en met vijfde lid, 17, tweede lid, 23, eerste tot en met derde lid, 33, 34, en 35 en 38, eerste, tweede en vierde lid, van deze wet, artikel 5:20 van de Algemene wet bestuursrecht, het bepaalde in Verordening (EG) nr. 2006/1781 van het Europees Parlement en de Raad van de Europese Unie van 15 november 2006 betreffende bij geldovermakingen te voegen informatie over de betaler (PbEU L 345) en het bepaalde in Verordening (EU) nr. 1031/2010 van de Europese Commissie van 12 november 2010 inzake de tijdstippen, het beheer en andere aspecten van de veiling van broeikasgasemissierechten overeenkomstig Richtlijn 2003/87/EG van het Europees Parlement en de Raad tot vaststelling van een regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap (PbEU L 302), alsmede ter zake van het geen gevolg geven dan wel niet tijdig of onvolledig gevolg geven aan een krachtens artikel 32 gegeven aanwijzing.   
+2.  De deken, bedoeld in artikel 45g, eerste lid, van de Advocatenwet, kan aan advocaten een last onder dwangsom opleggen ter zake van overtreding van de in het eerste lid bedoelde artikelen.   
+3.  Het Bureau Financieel Toezicht, bedoeld in artikel 110, eerste lid, van de Wet op het notarisambt, kan aan notarissen, toegevoegd notarissen en kandidaat-notarissen, een last onder dwangsom opleggen ter zake van overtreding van de in het eerste lid bedoelde artikelen. 
 
 ### Artikel  27  
 
-1.  Onze Minister van Financiën kan een bestuurlijke boete opleggen ter zake van overtreding van de artikelen 2, 2a, eerste en tweede lid, 3, eerste tot en met vijfde, zevende en achtste lid, 4, eerste lid, tweede lid, tweede volzin, derde lid, tweede volzin, en vierde lid, 5, eerste, tweede en vierde lid, 6, tweede lid, 7, tweede lid, 8, eerste tot en met vijfde lid, 9, eerste lid, 10, tweede lid, 11, 16, eerste tot en met vierde lid, 17, tweede lid, 23, eerste tot en met derde lid, 32, 33, 34, en 35 en 38, eerste, tweede en vierde lid, van deze wet, artikel 5:20 van de Algemene wet bestuursrecht, het bepaalde in Verordening (EG) nr. 2006/1781 van het Europees Parlement en de Raad van de Europese Unie van 15 november 2006 betreffende bij geldovermakingen te voegen informatie over de betaler (PbEU L 345) en het bepaalde in Verordening (EU) nr. 1031/2010 van de Europese Commissie van 12 november 2010 inzake de tijdstippen, het beheer en andere aspecten van de veiling van broeikasgasemissierechten overeenkomstig Richtlijn 2003/87/EG van het Europees Parlement en de Raad tot vaststelling van een regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap (PbEU L 302), alsmede ter zake van het geen gevolg geven dan wel niet tijdig of onvolledig gevolg geven aan een krachtens artikel 32 gegeven aanwijzing.   
-2.  Het eerste lid is niet van toepassing ten aanzien van degene die, in geval van bezwaren tegen diens handelen of nalaten in de beroepsuitoefening, onderworpen is aan bij wet geregelde tuchtrechtspraak.  
+1.  Onze Minister van Financiën kan aan instellingen, met uitzondering van advocaten, notarissen, toegevoegd notarissen en kandidaat-notarissen, een bestuurlijke boete opleggen ter zake van overtreding van de artikelen 2, 2a, eerste en tweede lid, 3, eerste tot en met vijfde, achtste en tiende lid, 4, eerste lid, tweede lid, tweede volzin, derde lid, tweede volzin, en vierde lid, 5, eerste, tweede en vierde lid, 6, tweede lid, 7, tweede lid, 8, eerste tot en met vijfde en zevende lid, 9, eerste lid, 10, tweede lid, 11, 16, eerste tot en met vijfde lid, 17, tweede lid, 23, eerste tot en met derde lid, 33, 34, en 35 en 38, eerste, tweede en vierde lid, van deze wet, artikel 5:20 van de Algemene wet bestuursrecht, het bepaalde in Verordening (EG) nr. 2006/1781 van het Europees Parlement en de Raad van de Europese Unie van 15 november 2006 betreffende bij geldovermakingen te voegen informatie over de betaler (PbEU L 345) en het bepaalde in Verordening (EU) nr. 1031/2010 van de Europese Commissie van 12 november 2010 inzake de tijdstippen, het beheer en andere aspecten van de veiling van broeikasgasemissierechten overeenkomstig Richtlijn 2003/87/EG van het Europees Parlement en de Raad tot vaststelling van een regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap (PbEU L 302), alsmede ter zake van het geen gevolg geven dan wel niet tijdig of onvolledig gevolg geven aan een krachtens artikel 32 gegeven aanwijzing.   
+2.  De deken, bedoeld in artikel 45g, eerste lid, van de Advocatenwet, kan aan advocaten een bestuurlijke boete opleggen ter zake van overtreding van de in het eerste lid bedoelde artikelen.   
+3.  Het Bureau Financieel Toezicht, bedoeld in artikel 110, eerste lid, van de Wet op het notarisambt, kan aan notarissen, toegevoegd notarissen en kandidaat-notarissen, een bestuurlijke boete opleggen ter zake van overtreding van de in het eerste lid bedoelde artikelen. 
 
 ### Artikel  28  
 
 1.  Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot de uitoefening van de bevoegdheid, bedoeld in artikel 27, eerste lid.   
 2.  Het bedrag van de bestuurlijke boete wordt bepaald bij algemene maatregel van bestuur, met dien verstande dat de bestuurlijke boete voor een afzonderlijke overtreding ten hoogste € 4 000 000 bedraagt. Indien tijdens het plegen van de overtreding nog geen vijf jaren zijn verlopen sedert het opleggen van een bestuurlijke boete aan de overtreder ter zake van eenzelfde overtreding, wordt het bedrag van de bestuurlijke boete, bedoeld in de eerste volzin, voor een afzonderlijke overtreding verdubbeld.   
-3.  De algemene maatregel van bestuur, bedoeld in het eerste lid, bepaalt bij elke daarin omschreven overtreding het bedrag van de deswege op te leggen bestuurlijke boete. De overtredingen worden gerangschikt in categorieën naar zwaarte van de overtreding met de daarbij behorende basisbedragen, minimumbedragen en maximumbedragen. Daarbij wordt de volgende indeling gebruikt:  
+3.  De algemene maatregel van bestuur, bedoeld in het tweede lid, bepaalt bij elke daarin omschreven overtreding het bedrag van de deswege op te leggen bestuurlijke boete. De overtredingen worden gerangschikt in categorieën naar zwaarte van de overtreding met de daarbij behorende basisbedragen, minimumbedragen en maximumbedragen. Daarbij wordt de volgende indeling gebruikt:  
 
 | Categorie  | Basisbedrag  | Minimumbedrag  | Maximumbedrag  |
 |:---|:---|:---|:---|
@@ -615,7 +630,7 @@ In geval van een overtreding die is gerangschikt in de derde boetecategorie, bed
 
 ### Artikel  29  
 
-Onze Minister van Financiën kan de dwangsom en de bestuurlijke boete invorderen bij dwangbevel. 
+Onze Minister van Financiën, de deken, bedoeld in artikel 45g, eerste lid, van de Advocatenwet en het Bureau Financieel Toezicht, bedoeld in artikel 110, eerste lid, van de Wet op het notarisambt kunnen de dwangsom en de bestuurlijke boete invorderen bij dwangbevel. 
 
 ### Artikel  31  
 
@@ -624,7 +639,7 @@ Onze Minister van Financiën kan de dwangsom en de bestuurlijke boete invorderen
 
 ### Artikel  32  
 
-Indien een instelling niet voldoet aan haar verplichtingen op grond van de artikelen 2, 2a, eerste en tweede lid, 3, eerste tot en met vijfde, zevende en achtste lid, 4, eerste lid, tweede lid, tweede volzin, derde lid, tweede volzin, en vierde lid, 5, eerste, tweede en vierde lid, 6, tweede lid, 7, tweede lid, 8, eerste tot en met vijfde lid, 9, eerste lid, 10, tweede lid, 11, 16, eerste tot en met vierde lid, 17, tweede lid, 23, eerste tot en met derde lid, 32, 33, 34, 35 en 38, eerste, tweede en vierde lid, van deze wet, artikel 5:20 van de Algemene wet bestuursrecht, het bepaalde in Verordening (EG) nr. 2006/1781 van het Europees Parlement en de Raad van de Europese Unie van 15 november 2006 betreffende bij geldovermakingen te voegen informatie over de betaler (PbEU 2010, L 345) en het bepaalde in Verordening (EU) nr. 1031/2010 van de Europese Commissie van 12 november 2010 inzake de tijdstippen, het beheer en andere aspecten van de veiling van broeikasgasemissierechten overeenkomstig Richtlijn 2003/87/EG van het Europees Parlement en de Raad tot vaststelling van een regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap (PbEU 2010, L 302), kan de op grond van artikel 24, eerste lid, aangewezen persoon door middel van het geven van een aanwijzing de instelling verplichten binnen een door de op grond van artikel 24, eerste lid, aangewezen persoon gestelde termijn een bepaalde gedragslijn te volgen. 
+Indien een instelling niet voldoet aan haar verplichtingen op grond van de artikelen 2, 2a, eerste en tweede lid, 3, eerste tot en met vijfde, achtste en tiende lid, 4, eerste lid, tweede lid, tweede volzin, derde lid, tweede volzin, en vierde lid, 5, eerste, tweede en vierde lid, 6, tweede lid, 7, tweede lid, 8, eerste tot en met vijfde en zevende lid, 9, eerste lid, 10, tweede lid, 11, 16, eerste tot en met vijfde lid, 17, tweede lid, 23, eerste tot en met derde lid, 32, 33, 34, 35 en 38, eerste, tweede en vierde lid, van deze wet, artikel 5:20 van de Algemene wet bestuursrecht, het bepaalde in Verordening (EG) nr. 2006/1781 van het Europees Parlement en de Raad van de Europese Unie van 15 november 2006 betreffende bij geldovermakingen te voegen informatie over de betaler (PbEU 2010, L 345) en het bepaalde in Verordening (EU) nr. 1031/2010 van de Europese Commissie van 12 november 2010 inzake de tijdstippen, het beheer en andere aspecten van de veiling van broeikasgasemissierechten overeenkomstig Richtlijn 2003/87/EG van het Europees Parlement en de Raad tot vaststelling van een regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap (PbEU 2010, L 302), kan de op grond van artikel 24, eerste lid, aangewezen persoon of de in artikel 24, vijfde of zesde lid, bedoelde persoon door middel van het geven van een aanwijzing de instelling verplichten binnen een door de op grond van artikel 24, eerste lid, aangewezen persoon of de in artikel 24, vijfde of zesde lid, bedoelde persoon gestelde termijn een bepaalde gedragslijn te volgen. 
 
 ### Hoofdstuk  5  
 
@@ -662,18 +677,24 @@ c. van buitenlandse rechtspersonen:
 
 3°. de aard van de dienstverlening;  
 
-4°. het adres met huisnummer, de postcode, de plaats van vestiging en het land van statutaire zetel;   
+4°. het adres met huisnummer, de postcode, de plaats van vestiging en het land van statutaire zetel;    
 
-d. indien van toepassing, de identiteit van de uiteindelijk belanghebbende en de wijze waarop deze identiteit is geverifieerd.    
-2.  Indien een cliënt handelt als trustee legt een instelling tevens op opvraagbare wijze de volgende gegevens vast van de instellers, de trustees en de uiteindelijk belanghebbenden: 
+d. indien van toepassing, de identiteit van de uiteindelijk belanghebbende en de wijze waarop deze identiteit is geverifieerd.     
+2.  Indien een cliënt handelt als trustee legt een instelling, voor zover van toepassing, tevens op opvraagbare wijze de volgende gegevens vast van de instellers, de trustees en de uiteindelijk belanghebbenden: 
 
-1°. ingeval van natuurlijke personen: de gegevens, bedoeld in het eerste lid, onderdeel a, subonderdelen 1° en 2°;  
+1°. ingeval van natuurlijke personen: de gegevens, bedoeld in het eerste lid, onderdeel a, onder 1° en 2°;  
 
-2°. ingeval van naar Nederlands recht opgerichte rechtspersonen: de gegevens, bedoeld in het eerste lid, onderdeel b, subonderdelen 1° en 2°;  
+2°. ingeval van naar Nederlands recht opgerichte rechtspersonen: de gegevens, bedoeld in het eerste lid, onderdeel b, onder 1° en 2°;  
 
-3°. ingeval van buitenlandse rechtspersonen: de gegevens, bedoeld in het eerste lid, onderdeel c, subonderdelen 1° en 2°.    
-3.  Een instelling bewaart de gegevens, bedoeld in het eerste en tweede lid, en legt die gegevens vast gedurende vijf jaar na het tijdstip van het beëindigen van de zakelijke transactie of na het uitvoeren van de desbetreffende transactie.   
-3.  Een instelling bewaart de in het eerste en tweede lid bedoelde gegevens op toegankelijke wijze gedurende vijf jaar na het tijdstip van het beëindigen van de zakelijke relatie of tot vijf jaar na het uitvoeren van de desbetreffende transactie. 
+3°. ingeval van buitenlandse rechtspersonen: de gegevens, bedoeld in het eerste lid, onderdeel c, onder 1° en 2°.     
+3.  Indien een cliënt handelt als vennoot van een personenvennootschap legt een instelling, voor zover van toepassing, tevens op opvraagbare wijze de volgende gegevens vast van de vennoten, de personen bevoegd inzake het beheer van de personenvennootschap en de personen, bedoeld in artikel 3, vierde lid, onderdeel b: 
+
+1°. ingeval van natuurlijke personen: de gegevens, bedoeld in het eerste lid, onderdeel a, onder 1° en 2°;  
+
+2°. ingeval van naar Nederlands recht opgerichte rechtspersonen: de gegevens, bedoeld in het eerste lid, onderdeel b, onder 1° en 2°;  
+
+3°. ingeval van buitenlandse rechtspersonen: de gegevens, bedoeld in het eerste lid, onderdeel c, onder 1° en 2°.     
+4.  Een instelling bewaart de in het eerste tot en met derde lid bedoelde gegevens op toegankelijke wijze gedurende vijf jaar na het tijdstip van het beëindigen van de zakelijke relatie of tot vijf jaar na het uitvoeren van de desbetreffende transactie. 
 
 ### §  5.2  
 

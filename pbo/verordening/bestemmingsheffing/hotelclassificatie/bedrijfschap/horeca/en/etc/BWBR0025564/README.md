@@ -3,7 +3,7 @@
 ##Verordening van het bedrijfschap Horeca en Catering, houdende regels ter zake van de aan de onder het bedrijfschap Horeca en Catering ressorterende ondernemers van logiesverstrekkende bedrijven op te leggen bestemmingsheffing voor het jaar 2009 ten behoeve van de Nederlandse Hotel- classificatie. (Verordening bestemmingsheffing hotelclassificatie bedrijfschap Horeca en Catering 2009)
 
 Het Bestuur van het bedrijfschap Horeca en Catering;  
-Gelet op de [artikelen 93](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op de [artikelen 2](../../../../../../../../../AMvB/instellingsbesluit/bedrijfschap/horeca/en/catering/BWBR0016029/README.md), [4](../../../../../../../../../AMvB/instellingsbesluit/bedrijfschap/horeca/en/catering/BWBR0016029/README.md) en [7 van het Instellingsbesluit bedrijfschap Horeca en Catering](../../../../../../../../../AMvB/instellingsbesluit/bedrijfschap/horeca/en/catering/BWBR0016029/README.md);
+Gelet op de artikelen 93, 95 en 126 van de Wet op de bedrijfsorganisatie en op de artikelen 2, 4 en 7 van het Instellingsbesluit bedrijfschap Horeca en Catering;
 Besluit vast te stellen de navolgende verordening:    
 ###§ 1 
 
@@ -48,7 +48,7 @@ Materieel uitgewerkt per 01-01-2010
 |21 |- |50 |138,00 |
 |Meer dan | --- |50 |264,00 |
 
-2. De heffingsplichtige is een toeslag van € 1300,- verschuldigd op de in artikel 3, eerste lid, genoemde bestemmingsheffing voor iedere logiesverstrekkende onderneming die in 2009 wordt ingedeeld in de categorie 5 sterren of waarvan de indeling wordt gehandhaafd in de categorie 5 sterren, overeenkomstig [artikel 5](../../../../../../../../../pbo/verordening/nederlandse/hotelclassificatie/bedrijfschap/horeca/en/catering/etc/BWBR0015272/README.md) respectievelijk [artikel 7 van de Verordening Nederlandse hotelclassificatie Bedrijfschap Horeca en Catering 2003](../../../../../../../../../pbo/verordening/nederlandse/hotelclassificatie/bedrijfschap/horeca/en/catering/etc/BWBR0015272/README.md).
+2. De heffingsplichtige is een toeslag van € 1300,- verschuldigd op de in artikel 3, eerste lid, genoemde bestemmingsheffing voor iedere logiesverstrekkende onderneming die in 2009 wordt ingedeeld in de categorie 5 sterren of waarvan de indeling wordt gehandhaafd in de categorie 5 sterren, overeenkomstig artikel 5 respectievelijk artikel 7 van de Verordening Nederlandse hotelclassificatie Bedrijfschap Horeca en Catering 2003.
 3. Aan de heffingsplichtige wordt een aftrek van 30% toegekend op de bestemmingsheffing als bedoeld in artikel 3, eerste lid, indien hij over het jaar 2008 contributie heeft betaald als lid van:
 
 een organisatie van ondernemers die één of meer leden in het Bestuur heeft benoemd of
@@ -57,7 +57,7 @@ een andere ondernemersorganisatie die een vereniging met volledige rechtsbevoegd
 
 a.krachtens haar statutaire doelstelling haar werkzaamheid kan uitstrekken tot ten minste een belangrijk gedeelte van het terrein waarop het Bedrijfschap een taak heeft te vervullen,
 
-b.voldoet aan de kwalitatieve representativiteitcriteria, genoemd in de [Verordening representativiteit organisaties](../../../../../../../../../pbo/verordening/representativiteit/organisaties/BWBR0011641/README.md) van de Sociaal Economische Raad,
+b.voldoet aan de kwalitatieve representativiteitcriteria, genoemd in de Verordening representativiteit organisaties van de Sociaal Economische Raad,
 
 c.tot de werkingssfeer van het Bedrijfschap behorende leden heeft, waarvan het gewogen aantal niet-onbetekenend is,
 
@@ -107,7 +107,7 @@ a.kunnen administratiekosten in rekening worden gebracht, welke minimaal 10 % va
 
 b.kan rente worden gevorderd over het verschuldigde bedrag van de dag af dat het verschuldigde bedrag betaald had moeten zijn;
 
-c.kan vergoeding worden gevorderd van alle invorderingskosten.De rente wordt berekend naar het percentage bedoeld in [artikel 6:119](../../../../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) jo [6:120 Burgerlijk Wetboek](../../../../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md), dat geldt op de datum waarop de rente wordt gevorderd. De invorderingskosten worden vastgesteld volgens de staffel incassokosten kantonrechters.
+c.kan vergoeding worden gevorderd van alle invorderingskosten.De rente wordt berekend naar het percentage bedoeld in artikel 6:119 jo 6:120 Burgerlijk Wetboek, dat geldt op de datum waarop de rente wordt gevorderd. De invorderingskosten worden vastgesteld volgens de staffel incassokosten kantonrechters.
 
 ###§ 5 
 

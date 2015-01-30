@@ -59,7 +59,7 @@ a. het opdragen of ontnemen van de uitoefening van openbaar gezag aan een zelfst
 
 b. wijziging van bevoegdheden van Onze Minister jegens een zelfstandig bestuursorgaan, of  
 
-c. wijziging van verplichtingen die een zelfstandig bestuursorgaan jegens Onze Minister in acht dient te nemen, worden mede door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties ondertekend.   
+c. wijziging van verplichtingen die een zelfstandig bestuursorgaan jegens Onze Minister in acht dient te nemen, worden mede door Onze Minister voor Wonen en Rijksdienst ondertekend.   
 
 ### Artikel  7  
 
@@ -106,7 +106,7 @@ Dit hoofdstuk is van toepassing op zelfstandige bestuursorganen die orgaan zijn 
 
 ### Artikel  15  
 
-1.  Op het personeel in dienst van een zelfstandig bestuursorgaan dat geen onderdeel uitmaakt van de Staat, zijn de rechtspositieregels die gelden voor de ambtenaren die zijn aangesteld bij ministeries, van overeenkomstige toepassing. De in die regels neergelegde bevoegdheden, met uitzondering van de aan Ons dan wel de aan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties toegekende bevoegdheden tot het stellen van regels, worden uitgeoefend door het zelfstandig bestuursorgaan. Voorzover in die regels is bepaald dat bevoegdheden worden uitgeoefend met medebetrokkenheid van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, worden deze bevoegdheden uitgeoefend met medebetrokkenheid van Onze Minister.   
+1.  Op het personeel in dienst van een zelfstandig bestuursorgaan dat geen onderdeel uitmaakt van de Staat, zijn de rechtspositieregels die gelden voor de ambtenaren die zijn aangesteld bij ministeries, van overeenkomstige toepassing. De in die regels neergelegde bevoegdheden, met uitzondering van de aan Ons dan wel de aan Onze Minister voor Wonen en Rijksdienst toegekende bevoegdheden tot het stellen van regels, worden uitgeoefend door het zelfstandig bestuursorgaan. Voorzover in die regels is bepaald dat bevoegdheden worden uitgeoefend met medebetrokkenheid van Onze Minister voor Wonen en Rijksdienst, worden deze bevoegdheden uitgeoefend met medebetrokkenheid van Onze Minister.   
 2.  Bij algemene maatregel van bestuur kan gedeeltelijk worden afgeweken van het eerste lid.  
 
 ### Artikel  16  
@@ -152,7 +152,6 @@ d. de zorgvuldige behandeling van bezwaarschriften en klachten die worden ontvan
 2.  De beleidsregels worden in de Staatscourant bekendgemaakt.  
 
 ### Artikel  21a  
-Treedt in werking per 01-01-2015 
 
 1.  Onze Minister voor Wonen en Rijksdienst kan, op verzoek van een zelfstandig bestuursorgaan dat geen onderdeel uitmaakt van de staat en in overeenstemming met Onze Ministers wie het aangaat, bepalen dat het zelfstandig bestuursorgaan gebruik maakt van een voorziening die in stand wordt gehouden door een ander bestuursorgaan van de centrale overheid en die wordt ingezet ten behoeve van de uitvoering van de taak van een of meer bestuursorganen van de centrale overheid. Onder voorziening wordt verstaan een samenhangende verzameling van processen op het terrein van bedrijfsvoering; deze processen, waaronder automatisering en bestuurlijke informatievoorziening, huisvesting en personeelsbeheer, bepalen niet inhoudelijk de uitkomsten van het primaire proces van de gebruikende organisatie.   
 2.  Indien een zelfstandig bestuursorgaan dat geen onderdeel uitmaakt van de staat taken strikt regelgebonden uitvoert in een groot aantal individuele gevallen kan Onze Minister voor Wonen en Rijksdienst, in overeenstemming met Onze Ministers wie het aangaat, zonder een daartoe strekkend verzoek van het zelfstandig bestuursorgaan bepalen dat het gebruik maakt van een voorziening als bedoeld in het eerste lid.   
@@ -161,7 +160,6 @@ Treedt in werking per 01-01-2015
 5.  Dit artikel is niet van toepassing op een zelfstandig bestuursorgaan als bedoeld in artikel 38.  
 
 ### Artikel  21b  
-Treedt in werking per 01-01-2015 
 
 1.  Een zelfstandig bestuursorgaan dat op grond van artikel 21a gebruik maakt van een voorziening draagt bij in de kosten in verband met de instandhouding van de voorziening.   
 2.  De bijdrage komt ten laste van de rechtspersoon waartoe het zelfstandig bestuursorgaan behoort. De bijdrage komt ten goede aan de rechtspersoon waartoe het bestuursorgaan behoort dat de voorziening in stand houdt.   
@@ -197,7 +195,7 @@ Een zelfstandig bestuursorgaan dat onderdeel is van de Staat, zendt jaarlijks vo
 
 ### Artikel  26  
 
-Een zelfstandig bestuursorgaan dat geen onderdeel is van de Staat, zendt jaarlijks voor een door hem vast te stellen datum aan Onze Minister de begroting voor het daaropvolgende jaar. 
+Een zelfstandig bestuursorgaan dat geen onderdeel is van de Staat, zendt jaarlijks voor een door Onze Minister vast te stellen datum aan Onze Minister de begroting voor het daaropvolgende jaar. 
 
 ### Artikel  27  
 
@@ -298,11 +296,11 @@ b. verantwoordt het in zijn jaarrekening die taken en werkzaamheden afzonderlijk
 ### Artikel  39  
 
 1.  Onze Minister zendt elke vijf jaar een verslag aan beide kamers der Staten-Generaal ten behoeve van de beoordeling van de doelmatigheid en doeltreffendheid van het functioneren van een zelfstandig bestuursorgaan.   
-2.  Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties zendt elke vijf jaar na de inwerkingtreding van deze wet aan beide kamers der Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.  
+2.  Onze Minister voor Wonen en Rijksdienst zendt elke vijf jaar na de inwerkingtreding van deze wet aan beide kamers der Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.  
 
 ### Artikel  40  
 
-Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties houdt een openbaar register bij waarin van alle zelfstandige bestuursorganen in ieder geval de volgende gegevens zijn opgenomen: 
+Onze Minister voor Wonen en Rijksdienst houdt een openbaar register bij waarin van alle zelfstandige bestuursorganen in ieder geval de volgende gegevens zijn opgenomen: 
 
 a. de naam of andere aanduiding;  
 
@@ -322,14 +320,6 @@ e. de bepalingen en een korte inhoud daarvan van de voor het desbetreffende zelf
 ### Hoofdstuk  6  
 
 ####Overgangs- en slotbepalingen
-
-### Artikel  42  
-
-Binnen een jaar na inwerkingtreding van deze wet deelt Onze Minister aan beide Kamers der Staten-Generaal mee welke zelfstandige bestuursorganen bedoeld, in artikel 2, tweede lid, onder de werking van deze wet zullen worden gebracht en op welke termijn de voordracht voor een daartoe strekkende wettelijke regeling zal worden gedaan. 
-
-### Artikel  43  
-
-Wijzigt deze wet.
 
 ### Artikel  45  
 

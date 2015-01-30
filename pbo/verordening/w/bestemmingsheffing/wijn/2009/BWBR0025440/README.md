@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Wijn van 5 november 2008, houdende vaststelling bestemmingsheffing ten behoeve van de wijnsector in Nederland 2009 (Verordening W bestemmingsheffing wijn 2009)
 
 Het bestuur van het Productschap Wijn;  
-Gelet op de [artikelen 95](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 eerste, vierde en zesde lid van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en de [artikelen 14](../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md) en [19 van het Instellingsbesluit akkerbouwproductschappen](../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md);
+Gelet op de artikelen 95 en 126 eerste, vierde en zesde lid van de Wet op de bedrijfsorganisatie en de artikelen 14 en 19 van het Instellingsbesluit akkerbouwproductschappen;
 
 Besluit:    
 ###§ 1 
@@ -27,11 +27,11 @@ Deze verordening verstaat onder:
 
 ###Artikel 2 
 
-De ondernemer is verplicht voor wijn een heffing te betalen ten bedrage van € 0,00 per hectoliter terzake van de invoer dan wel de uitslag in de zin van de [Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) die door hem dan wel in zijn opdracht is geschied. Voor zover de wijn veraccijnsd vanuit het buitenland wordt geleverd, dient ten aanzien van deze levering de genoemde heffing te worden betaald door de ondernemer die deze wijn als eerste in Nederland heeft ontvangen.
+De ondernemer is verplicht voor wijn een heffing te betalen ten bedrage van € 0,00 per hectoliter terzake van de invoer dan wel de uitslag in de zin van de Wet op de accijns die door hem dan wel in zijn opdracht is geschied. Voor zover de wijn veraccijnsd vanuit het buitenland wordt geleverd, dient ten aanzien van deze levering de genoemde heffing te worden betaald door de ondernemer die deze wijn als eerste in Nederland heeft ontvangen.
 
 ###Artikel 3 
 
-1. In de gevallen waarin op basis van de [Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) teruggaaf wordt verleend van op wijn geheven accijns, wordt op verzoek van de ondernemer teruggaaf van de heffing verleend die ter zake is geheven.
+1. In de gevallen waarin op basis van de Wet op de accijns teruggaaf wordt verleend van op wijn geheven accijns, wordt op verzoek van de ondernemer teruggaaf van de heffing verleend die ter zake is geheven.
 2. De ondernemer dient door middel van een teruggaafbeschikking van de douane voor de accijns zijn recht op teruggaaf van de heffing aan te tonen.
 
 ###Artikel 4 
@@ -40,14 +40,14 @@ De heffing bedoeld in artikel 2 is bestemd voor het Fonds wijn en wijnbouwproduc
 
 ###Artikel 5 
 
-1. De ondernemer is verplicht door middel van een hiertoe dienend opgavenformulier naar waarheid aan het productschap gegevens te verstrekken ten behoeve van de vaststelling van de heffing, bedoeld in artikel 2. De [Verordening W algemene bepalingen 2012](../../../../../../../pbo/verordening/pw/algemene/bepalingen/2012/BWBR0031565/README.md) is hierbij van toepassing.
+1. De ondernemer is verplicht door middel van een hiertoe dienend opgavenformulier naar waarheid aan het productschap gegevens te verstrekken ten behoeve van de vaststelling van de heffing, bedoeld in artikel 2. De Verordening W algemene bepalingen 2012 is hierbij van toepassing.
 2. De opgave dient maandelijks te geschieden en wel uiterlijk op de laatste dag van de maand, volgend op de periode waarop deze opgave betrekking heeft.
 3. De ondernemer is eveneens verplicht een opgavenformulier in te dienen, indien in de betrokken maand géén wijn in de handel is gebracht.
 
 ###Artikel 6 
 
 1. De heffing, bedoeld in artikel 2, wordt vastgesteld aan de hand van de gegevens van het opgavenformulier.
-2. De secretaris kan de ondernemer verplichten een afschrift van de aangifte op grond van de [Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) of een door de accountant afgegeven verklaring te overleggen met betrekking tot de hoeveelheid in de handel gebrachte wijn in een bepaalde periode.
+2. De secretaris kan de ondernemer verplichten een afschrift van de aangifte op grond van de Wet op de accijns of een door de accountant afgegeven verklaring te overleggen met betrekking tot de hoeveelheid in de handel gebrachte wijn in een bepaalde periode.
 3. De ondernemer is verplicht alle medewerking ter verlenen aan de controle door of namens het productschap van de in artikel 5 bedoelde opgave.
 4. 
 ###§ 3 
@@ -71,7 +71,7 @@ Het productschap kan besluiten nota's van minder dan € 50,- samen te voegen to
 
 ###Artikel 10 
 
-Aan de ondernemer die niet of niet geheel binnen de in artikel 8 gestelde termijn heeft betaald, kan door het productschap de wettelijke interest over het niet betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md).
+Aan de ondernemer die niet of niet geheel binnen de in artikel 8 gestelde termijn heeft betaald, kan door het productschap de wettelijke interest over het niet betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie.
 
 ###§ 4 
 
@@ -83,7 +83,7 @@ Aan de ondernemer die niet of niet geheel binnen de in artikel 8 gestelde termij
 
 ###Artikel 17 
 
-Deze verordening treedt in werking met ingang van 1 januari 2009. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 januari 2009, treedt zij in werking met ingang van de tweede dag na de dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt terug tot en met 1 januari 2009, met uitzondering van de toepassing van de [Verordening W algemene bepalingen 2003](../../../../../../../pbo/verordening/w/algemene/bepalingen/2003/BWBR0014804/README.md).
+Deze verordening treedt in werking met ingang van 1 januari 2009. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 januari 2009, treedt zij in werking met ingang van de tweede dag na de dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt terug tot en met 1 januari 2009, met uitzondering van de toepassing van de Verordening W algemene bepalingen 2003.
 
 ###Artikel 18 
 

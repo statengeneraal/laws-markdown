@@ -40,7 +40,7 @@ b. ontwerpteksten van de mededelingen die de overdragende verzekeraar zal doen o
 
 c. een opgave van de verkrijgingsprijs van de rechten en verplichtingen, bedoeld in onderdeel a, door de verkrijgende verzekeraar;  
 
-d. een opgave van de veranderingen in de aanwezige solvabiliteitsmarge als gevolg van de overdracht;  
+d. een opgave van de veranderingen in de aanwezige solvabiliteitsmarge als gevolg van de overdracht en, voor zover de overdracht van materiële betekenis is, van de verwachte ontwikkeling van die solvabiliteitsmarge in de twaalf maanden volgend op die overdracht van betrokken verzekeraars met dien verstande dat indien sprake is van een gehele overdracht dit laatste alleen geldt voor de overnemende verzekeraar;  
 
 e. een opgave van de omvang van de aan te houden technische voorzieningen in verband met de rechten en verplichtingen, bedoeld in onderdeel a;  
 

@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Akkerbouw van 13 november 2009, houdende vaststelling bestemmingsheffing ten behoeve van de teelt van inlands graan in Nederland 2009 (Heffingsverordening PA inlands graan 2009)
 
 Het bestuur van het Productschap Akkerbouw;  
-Gelet op de [artikelen 95](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 eerste en vierde lid van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en de [artikelen 8](../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md) en [19 van het Instellingsbesluit akkerbouwproductschappen](../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md);
+Gelet op de artikelen 95 en 126 eerste en vierde lid van de Wet op de bedrijfsorganisatie en de artikelen 8 en 19 van het Instellingsbesluit akkerbouwproductschappen;
 Besluit:    
 ###§ 1 
 
@@ -28,7 +28,7 @@ Deze verordening verstaat onder:
 
 1. De ondernemer is verplicht over de hoeveelheden inlands graan voor zover niet bestemd voor diervoeder, welke hij be- of verwerkt of in loon laat verwerken, aan het productschap een heffing te betalen van € 0,- per ton verwerkte hoeveelheid graan. Deze verplichting geldt niet voor de hoeveelheden welke hij in opdracht en voor rekening van telers verwerkt.
 2. In afwijking van het eerste lid geldt voor gerst een tarief van € 0.
-3. De in het eerste en tweede lid bedoelde heffing wordt vastgesteld op basis van de door de ondernemer op verzoek van het productschap verstrekte gegevens door middel van een door het productschap vastgesteld formulier. De [Verordening PA algemene bepalingen 2008](../../../../../../../pbo/verordening/pa/algemene/bepalingen/2008/BWBR0024318/README.md) is hierbij van toepassing.
+3. De in het eerste en tweede lid bedoelde heffing wordt vastgesteld op basis van de door de ondernemer op verzoek van het productschap verstrekte gegevens door middel van een door het productschap vastgesteld formulier. De Verordening PA algemene bepalingen 2008 is hierbij van toepassing.
 4. Ook wanneer in een bepaalde periode geen activiteiten hebben plaatsgevonden dient een opgave te worden gedaan.
 
 ###Artikel 3 
@@ -66,7 +66,7 @@ De ingevolge deze verordening geïnde heffingen zijn bestemd voor het Fonds wete
 
 ###Artikel 8 
 
-Aan de ondernemer die niet of niet geheel binnen de in artikel 6 gestelde termijn heeft betaald, kan door het productschap de wettelijke interest over het niet betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md).
+Aan de ondernemer die niet of niet geheel binnen de in artikel 6 gestelde termijn heeft betaald, kan door het productschap de wettelijke interest over het niet betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie.
 
 ###§ 5 
 
@@ -74,7 +74,7 @@ Aan de ondernemer die niet of niet geheel binnen de in artikel 6 gestelde termij
 
 ###Artikel 9 
 
-Deze verordening treedt in werking met ingang van 1 januari 2009. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 januari 2009, treedt zij in werking met ingang van de tweede dag na de dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt terug tot en met 1 januari 2009, met uitzondering van de toepassing van de [Verordening PA algemene bepalingen 2008](../../../../../../../pbo/verordening/pa/algemene/bepalingen/2008/BWBR0024318/README.md).
+Deze verordening treedt in werking met ingang van 1 januari 2009. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 januari 2009, treedt zij in werking met ingang van de tweede dag na de dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt terug tot en met 1 januari 2009, met uitzondering van de toepassing van de Verordening PA algemene bepalingen 2008.
 
 ###Artikel 10 
 

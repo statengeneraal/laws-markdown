@@ -18,7 +18,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In dit besluit wordt verstaan onder:  *back-to-back lening:* kredietinstrument waarbij de kredietnemer geld of financiële instrumenten ter beschikking krijgt, waartegenover de kredietverstrekker een zekerheid ontvangt, direct of indirect, uit eigen liquide middelen van de kredietnemer;  *business line:* afgezonderde categorie activiteiten als bedoeld in artikel 317, vierde lid, tabel 2, van de verordening kapitaalvereisten;  *daggeld:* kortlopende vorderingen die dagelijks opvraagbaar zijn en die uiterlijk twee werkdagen na opvraging dan wel opzegging moeten worden terugbetaald; *entiteit voor securitisatiedoeleinden*: onderneming:
+In dit besluit wordt verstaan onder:  *back-to-back lening:* kredietinstrument waarbij de kredietnemer geld of financiële instrumenten ter beschikking krijgt, waartegenover de kredietverstrekker een zekerheid ontvangt, direct of indirect, uit eigen liquide middelen van de kredietnemer;  *business line:* afgezonderde categorie activiteiten als bedoeld in artikel 317, vierde lid, tabel 2, van de verordening kapitaalvereisten;  *daggeld:* kortlopende vorderingen die dagelijks opvraagbaar zijn en die uiterlijk twee werkdagen na opvraging dan wel opzegging moeten worden terugbetaald;  *dekkingsactiva:* activa die een bank die een geregistreerde gedekte obligatie uitgeeft, hanteert om te voldoen aan artikel 3:33a, eerste lid, onderdeel a, van de wet;*entiteit voor securitisatiedoeleinden*: onderneming:
 
 a.die geen bank is;
 
@@ -28,27 +28,7 @@ c.wier activiteiten zich beperken tot hetgeen noodzakelijk is voor die securitis
 
 d.wier oprichting dient om haar verplichtingen te scheiden van de verplichtingen van de initiator; en
 
-e.wier eigenaars hun deelneming onvoorwaardelijk in pand kunnen geven of kunnen verkopen;*gedekte obligatie:* obligatie ten aanzien waarvan wordt voldaan aan de volgende criteria:
-
-a.de obligatie is of wordt uitgegeven door een bank met zetel in Nederland;
-
-b.de obligatie is gedekt door activa die, indien de uitgevende bank in gebreke blijft, bij voorrang aangewend worden voor de aflossing van de hoofdsom en de betaling van rente op de obligatie;
-
-c.de activa zijn ten behoeve van de obligatiehouders veiliggesteld:
-
-1°.door overgang onder algemene of bijzondere titel naar een rechtspersoon die uitsluitend tot doel heeft het in onderdeel b genoemde te bewerkstelligen en door vestiging van een pandrecht of een met pandrecht vergelijkbaar zekerheidsrecht naar buitenlands recht ten behoeve van een andere, zodanige rechtspersoon; of
-
-2°.op een andere, bij ministeriële regeling vast te stellen wijze;
-
-d.de activa bieden gedurende de looptijd van de obligatie voldoende dekking voor de aflossing van de hoofdsom en betaling van rente op de obligatie, alsmede voor betalingen inzake het beheer en de administratie van de activa;
-
-e.op de activa is het recht van toepassing van een lidstaat, de Verenigde Staten van Amerika, Canada, Japan, de Republiek Korea, Hong Kong, Singapore, Australië, Nieuw-Zeeland of Zwitserland; en
-
-f.de uitgevende bank heeft geen aandelenbelang in de rechtspersonen, bedoeld onder c, onder 1º, oefent daarin geen beleidsbepalende zeggenschap uit en is ook niet op andere wijze gerechtigd tot een eigendomsbelang in die rechtspersonen. *gemiddeld uitstaand elektronisch geld:* het gemiddelde totale bedrag gedurende de zes voorafgaande kalendermaanden van de met elektronisch geld verband houdende financiële verplichtingen dat op het eind van elke kalenderdag in omloop is, berekend op de eerste kalenderdag van elke kalendermaand en toegepast voor die kalendermaand.*geregistreerde gedekte obligatie:* obligatie, behorend tot een categorie die:
-
-a.is opgenomen op een lijst waarvan de gegevens door de Commissie van de Europese Gemeenschappen op grond van artikel 22, vierde lid, van de richtlijn beleggingsinstellingen ter beschikking zijn gesteld aan het publiek, of
-
-b.is geregistreerd overeenkomstig artikel 124b;  *groepsbestuurder:* ieder die binnen een groep het beleid bepaalt;  *groep van verbonden wederpartijen:* ten minste twee personen die uit een oogpunt van de te lopen risico’s als een geheel moeten worden beschouwd omdat zij: 
+e.wier eigenaars hun deelneming onvoorwaardelijk in pand kunnen geven of kunnen verkopen; *gemiddeld uitstaand elektronisch geld:* het gemiddelde totale bedrag gedurende de zes voorafgaande kalendermaanden van de met elektronisch geld verband houdende financiële verplichtingen dat op het eind van elke kalenderdag in omloop is, berekend op de eerste kalenderdag van elke kalendermaand en toegepast voor die kalendermaand.  *groepsbestuurder:* ieder die binnen een groep het beleid bepaalt;  *groep van verbonden wederpartijen:* ten minste twee personen die uit een oogpunt van de te lopen risico’s als een geheel moeten worden beschouwd omdat zij: 
 
 a. met elkaar zijn verbonden in een formele of feitelijke zeggenschapsstructuur; of  
 
@@ -455,13 +435,6 @@ Een bank, beheerder van een icbe, beleggingsonderneming, betaalinstelling, clear
 2.  Een verzekeraar als bedoeld in artikel 23, eerste lid, beschikt over solide, doeltreffende en alomvattende strategieën en procedures aan de hand waarvan hij regelmatig nagaat hoe zijn aanwezige solvabiliteitsmarge zich verhoudt tot de korte- en langetermijnrisico’s waaraan hij blootstaat of zou kunnen blootstaan.  
 3.  Het tweede lid is niet van toepassing op een verzekeraar die in het voorafgaande boekjaar een bruto geboekt premie-inkomen had van minder dan vijf miljoen euro en technische voorzieningen, zonder aftrek van de bedragen die op grond van herverzekeringsovereenkomsten kunnen worden verhaald, van minder dan 25 miljoen euro. 
 
-### Artikel  24a1  
-
-1.  Een levensverzekeraar als bedoeld in artikel 3:17, eerste lid, of 3:23, eerste lid, van de wet voert ten minste jaarlijks scenarioanalyses uit die betrekking hebben op het renterisico, aandelenrisico, kredietrisico, vastgoedrisico, kostenrisico, tegenpartijkredietrisico en het lang- en kortlevenrisico.   
-2.  Een levensverzekeraar als bedoeld in het eerste lid berekent ten minste jaarlijks zijn theoretisch solvabiliteitscriterium met gebruikmaking van de scenarioanalyses, bedoeld in het eerste lid. Onder theoretisch solvabiliteitscriterium wordt verstaan het minimumbedrag aan solvabiliteitsmarge, bedoeld in artikel 3:57 van de wet, dan wel het solvabiliteitskapitaalvereiste, bedoeld in artikel 3:97 van de wet, waarover de verzekeraar op het tijdstip van het vaststellen van het minimumbedrag aan solvabiliteitsmarge ten minste zou moeten beschikken indien ervan wordt uitgegaan dat realisatie van de scenario’s als bedoeld in het eerste lid in de verwachte onderlinge samenhang op dat moment zou plaatsvinden.   
-3.  Het eerste en tweede lid zijn niet van toepassing op een levensverzekeraar die in het voorafgaande boekjaar een bruto geboekt premie-inkomen had van minder dan vijf miljoen euro en technische voorzieningen, zonder aftrek van de bedragen die op grond van herverzekeringsovereenkomsten kunnen worden verhaald, van minder dan 25 miljoen euro.   
-4.  Bij ministeriële regeling worden regels gesteld met betrekking tot de scenarioanalyses en de berekeningswijze van het theoretisch solvabiliteitscriterium.  
-
 ###Artikel 24b 
 
 1. Het risicobeheer, bedoeld in artikel 23, zesde lid, van een bank die in Nederland beleggingsdiensten mag verlenen of beleggingsactiviteiten mag verrichten, een beheerder van een icbe, of beleggingsonderneming als bedoeld in artikel 3:17, eerste en derde lid, 3:22 of 3:23, tweede lid, van de wet oefent controle uit op:
@@ -538,10 +511,8 @@ Bepalingen ter uitvoering van artikel 3:17, tweede lid, aanhef en onderdeel d
 ####Regels ter bevordering van de goede werking van het betalingsverkeer
 
 Bepaling ter uitvoering van artikel 3:17, tweede lid, aanhef en onderdeel e 
-Treedt in werking per 01-01-2015 
 
 ### Artikel  26b  
-Treedt in werking per 01-01-2015 
 
 Afwikkelondernemingen, banken, betaalinstellingen en elektronischgeldinstellingen nemen bij de inrichting van hun bedrijfsvoering de regels in acht die door de Nederlandsche Bank terzake worden gesteld ter uitvoering van internationaal aanvaarde standaarden om de goede werking van het betalingsverkeer te waarborgen. 
 
@@ -606,6 +577,28 @@ De artikelen 29 tot en met 31 zijn niet van toepassing op het uitbesteden van we
 1.  Dit hoofdstuk is, met uitzondering van artikel 27a, slechts van toepassing op het uitbesteden van werkzaamheden door betaalinstellingen of elektronischgeldinstellingen voor zover het belangrijke werkzaamheden betreft.   
 2.  Een werkzaamheid wordt als belangrijk aangemerkt indien een gebrekkige of tekortschietende uitvoering ervan wezenlijk afbreuk zou doen aan de naleving door de betaalinstelling van de vergunningsvereisten, als bedoeld in artikel 2:3b van de wet, of van andere verplichtingen ingevolge de wet of Titel 7B van Boek 7 van het Burgerlijk Wetboek, dan wel aan haar financiële resultaten of de soliditeit of continuïteit van haar betaaldiensten.   
 3.  Een werkzaamheid wordt als belangrijk aangemerkt indien een gebrekkige of tekortschietende uitvoering ervan wezenlijk afbreuk zou doen aan de naleving door de elektronischgeldinstelling van de vergunningvereisten, genoemd in artikel 2:10b van de wet, dan wel aan haar financiële resultaten of de soliditeit of continuïteit van haar dienstverlening ter zake van de uitgifte van elektronisch geld. 
+
+### Hoofdstuk  5a  
+
+####Instemmingsvereiste centrale tegenpartij
+
+Bepalingen ter uitvoering van artikel 3:28a, tweede lid, van de wet 
+
+### Artikel  32aa  
+
+1.  Met betrekking tot het voornemen, bedoeld in artikel 3:28a, eerste lid, van de wet, legt de centrale tegenpartij over: 
+
+a. een beschrijving van de voorgenomen wijziging, bedoeld in het eerste lid;  
+
+b. gegevens op basis waarvan de Nederlandsche Bank redelijkerwijs kan beoordelen of wordt voldaan aan hetgeen is bepaald in de artikelen 26 tot en met 35 en 40 tot en met 54 van de verordening, bedoeld in het eerste lid, en op basis waarvan de Autoriteit Financiële Markten redelijkerwijs een advies als bedoeld in artikel 2a van het Besluit uitvoering EU-verordeningen financiële markten kan geven.     
+2.  De centrale tegenpartij geeft geen uitvoering aan het voornemen, bedoeld in artikel 3:28a, eerste lid, van de wet, voordat de Nederlandsche Bank heeft ingestemd met de wijziging.   
+3.  De Nederlandsche Bank neemt een besluit omtrent instemming: 
+
+a. binnen zes weken na de kennisgeving;  
+
+b. indien de Nederlandsche Bank binnen twee weken na ontvangst van de kennisgeving om nadere gegevens heeft verzocht, binnen vier weken na ontvangst van die gegevens, doch uiterlijk binnen dertien weken na ontvangst van de kennisgeving; of  
+
+c. indien de Nederlandsche Bank de Autoriteit Financiële Markten om advies heeft gevraagd ingevolge artikel 2a Besluit uitvoering EU-verordeningen financiële markten, binnen vier weken na ontvangst van dat advies.    
 
 ### Hoofdstuk  6  
 
@@ -701,7 +694,7 @@ g. indien van toepassing, het adres van een in een andere staat gelegen bijkanto
 1.  Een afwikkelonderneming, clearinginstelling, bank of verzekeraar als bedoeld in artikel 3:29, eerste lid, van de wet met zetel in Nederland die haar bedrijf uitoefent vanuit een in een andere lidstaat gelegen bijkantoor geeft schriftelijk aan de Nederlandsche Bank en de toezichthoudende instantie van die lidstaat kennis van een wijziging in het adres van het bijkantoor.   
 2.  Onverminderd het eerste lid, geeft een bank als bedoeld in artikel 3:29, eerste lid, van de wet, met zetel in Nederland die haar bedrijf uitoefent vanuit een in een andere lidstaat gelegen bijkantoor geeft schriftelijk aan de Nederlandsche Bank en de toezichthoudende instantie van die lidstaat kennis van een wijziging met betrekking tot de toepasselijkheid van een depositogarantiestelsel op het bijkantoor.   
 3.  De financiële onderneming geeft van een wijziging als bedoeld in het eerste of tweede lid kennis binnen twee weken nadat de wijziging zich heeft voorgedaan.   
-4.  Een afwikkelonderneming, clearinginstelling of bank als bedoeld in artikel 3:29, eerste lid, van de wet die haar bedrijf uitoefent vanuit een in een andere lidstaat gelegen bijkantoor geeft schriftelijk kennis aan de Nederlandsche Bank en de toezichthoudende instantie van die lidstaat van het voornemen de uitoefening van haar bedrijf vanuit het in de andere lidstaat gelegen bijkantoor te staken. De clearinginstelling of bank geeft geen uitvoering aan het voornemen gedurende de eerste vier weken na de kennisgeving.  
+4.  Een afwikkelonderneming, clearinginstelling of bank als bedoeld in artikel 3:29, eerste lid, van de wet die haar bedrijf uitoefent vanuit een in een andere lidstaat gelegen bijkantoor, geeft schriftelijk kennis aan de Nederlandsche Bank en de toezichthoudende instantie van die lidstaat van het voornemen de uitoefening van haar bedrijf vanuit het in de andere lidstaat gelegen bijkantoor te staken. De afwikkelonderneming, clearinginstelling of bank geeft geen uitvoering aan het voornemen gedurende de eerste vier weken na de kennisgeving.  
 
 ### Artikel  37a  
 
@@ -788,7 +781,7 @@ a. de geldmiddelen worden niet vermengd met de geldmiddelen van andere schuldeis
 
 b. de geldmiddelen worden gedekt door een verzekeringspolis of een vergelijkbare garantie van een verzekeraar of een bank die niet tot dezelfde groep behoort als de betaalinstelling, tegen het risico dat de betaalinstelling niet in staat is haar verplichtingen met betrekking tot de geldmiddelen na te komen, voor een bedrag dat gelijk is aan het bedrag dat afgescheiden zou zijn bij het ontbreken van de verzekeringspolis of vergelijkbare garantie.     
 2.  Indien toepassing wordt gegeven aan het eerste lid, aanhef en onderdeel a, en de geldmiddelen aan het einde van de werkdag, volgend op de dag waarop zij zijn ontvangen, nog niet aan de betalingsbegunstigde of aan een andere betaaldienstaanbieder zijn overgemaakt, worden zij op een afzonderlijke rekening gestort bij een bank of belegd in veilige, liquide activa met een lage risicograad, op zodanige wijze dat andere schuldeisers van de betaalinstelling, in het bijzonder in het geval van insolventie van de betaalinstelling, hun vorderingen niet op deze geldmiddelen kunnen verhalen.   
-3.  Voor de toepassing van het tweede lid zijn veilige activa met een lage risicograad activa die vallen in een van de categorieën opgenomen in artikel 336, eerste lid, tabel 1, van de verordening kapitaalvereisten waarvoor het kapitaalvereiste voor het specifieke risico niet hoger ligt dan 1,6%, terwijl andere in aanmerking komende activa, als gedefinieerd in punt 15 van die bijlage, worden uitgesloten. Voor de toepassing van het tweede lid zijn veilige activa met een lage risicograad eveneens deelnemingsrechten in een instelling voor collectieve belegging in effecten (ICBE) die enkel investeert in activa zoals gespecificeerd in de eerste alinea. In buitengewone omstandigheden en wanneer dit voldoende gemotiveerd is, mogen de bevoegde autoriteiten, op basis van een evaluatie van de veiligheid, de looptijd, de waarde of andere risicofactoren van de activa zoals gespecificeerd in de eerste en tweede alinea, bepalen welke van deze activa geen veilige activa met een lage risicograad zijn voor de toepassing van het tweede lid.   
+3.  Voor de toepassing van het tweede lid zijn veilige activa met een lage risicograad activa die vallen in een van de categorieën opgenomen in artikel 336, eerste lid, tabel 1, van de verordening kapitaalvereisten waarvoor het kapitaalvereiste voor het specifieke risico niet hoger ligt dan 1,6%, terwijl andere in aanmerking komende activa, als bedoeld in artikel 336, vierde lid, van de verordening, worden uitgesloten. Voor de toepassing van het tweede lid zijn veilige activa met een lage risicograad eveneens deelnemingsrechten in een instelling voor collectieve belegging in effecten (ICBE) die enkel investeert in activa zoals gespecificeerd in de eerste alinea. In buitengewone omstandigheden en wanneer dit voldoende gemotiveerd is, mogen de bevoegde autoriteiten, op basis van een evaluatie van de veiligheid, de looptijd, de waarde of andere risicofactoren van de activa zoals gespecificeerd in de eerste en tweede alinea, bepalen welke van deze activa geen veilige activa met een lage risicograad zijn voor de toepassing van het tweede lid.   
 4.  Indien het deel van de geldmiddelen dat bestemd is voor toekomstige betalingstransacties niet bekend of variabel is, is het de betaalinstellingen toegestaan om het eerste lid uitsluitend toe te passen op een representatief gedeelte dat geacht wordt voor betalingsdiensten te worden gebruikt. Dit representatieve gedeelte moet redelijkerwijs kunnen worden geraamd op basis van historische gegevens.   
 5.  Het eerste tot en met vierde lid zijn van overeenkomstige toepassing op elektronischgeldinstellingen als bedoeld in artikel 3:29a, eerste lid, van de wet. 
 
@@ -815,6 +808,105 @@ b. het krediet dat is verstrekt in verband met een betaaldienst die is verleend 
 c. het niet wordt verleend uit geldmiddelen die zijn ontvangen of die worden aangehouden voor het uitvoeren van toekomstige betalingstransacties; en  
 
 d. het eigen vermogen van de betaalinstelling of de elektronischgeldinstelling te allen tijde in redelijke verhouding staat tot het totale bedrag van het verleende krediet.   
+
+### Hoofdstuk  6b  
+
+####Geregistreerde gedekte obligaties
+
+Bepalingen ter uitvoering van de artikelen 3:33a, eerste lid, onderdeel b en zevende lid, en 3:33b, derde lid, van de wet 
+
+### Artikel  40d  
+
+1.  Een bank die een geregistreerde gedekte obligatie uitgeeft, draagt er zorg voor dat de dekkingsactiva van de categorie waartoe die obligatie behoort, worden veiliggesteld: 
+
+a. door overgang onder algemene of bijzondere titel naar een andere rechtspersoon; of  
+
+b. op een andere, bij ministeriële regeling vast te stellen wijze.     
+2.  Een bank voldoet uitsluitend aan het eerste lid, onderdeel a, indien: 
+
+a. de rechtspersoon, bedoeld in het eerste lid, onderdeel a, met uitsluiting van andere activiteiten, is opgericht om de dekkingsactiva van een categorie geregistreerde gedekte obligaties te scheiden van het vermogen van die bank en hetgeen te doen dat noodzakelijk of wenselijk is voor de desbetreffende categorie geregistreerde gedekte obligaties; en  
+
+b. zij, alsmede de rechtspersonen die tot dezelfde groep behoren, geen aandelen houden in de rechtspersoon, bedoeld in het eerste lid, onderdeel a, daarin geen beleidsbepalende zeggenschap hebben en daarin ook niet op andere wijze een eigendomsbelang hebben.    
+
+### Artikel  40e  
+
+1.  Bij een verzoek tot registratie van een categorie geregistreerde gedekte obligaties overeenkomstig artikel 3:33a, eerste lid, van de wet, geeft de verzoekende bank aan de Nederlandsche Bank op welke voorwaarden op die categorie geregistreerde gedekte obligaties van toepassing zijn, waaronder in ieder geval: 
+
+a. welke van de volgende aflossingsstructuren wordt gehanteerd: 
+
+1°. de aflossingsdatum kan niet of met maximaal vierentwintig maanden worden uitgesteld; of  
+
+2°. de aflossingsdatum kan met meer dan vierentwintig maanden worden uitgesteld;    
+
+b. welke soort of soorten dekkingsactiva primair worden gehanteerd en, in dat laatste geval, in welke verhouding; en  
+
+c. in welk land de debiteuren van de dekkingsactiva zijn gevestigd, respectievelijk hun zetel of woonplaats hebben en door welk recht de dekkingsactiva worden beheerst.     
+2.  Een bank die een geregistreerde gedekte obligatie uitgeeft, draagt er zorg voor dat die obligatie gedurende de gehele looptijd ten aanzien van de voorwaarden genoemd in het eerste lid, onderdelen a tot en met c, blijft voldoen aan de bij het verzoek tot registratie opgegeven voorwaarden.   
+3.  De verzoekende bank hanteert één van de volgende soorten dekkingsactiva primair als dekkingsactiva overeenkomstig het eerste lid, onderdeel b: 
+
+a. blootstellingen, bedoeld in artikel 129, eerste lid, onderdeel a en onderdeel b, van de verordening kapitaalvereisten, voor laatstgenoemd onderdeel met uitzondering van blootstellingen welke in aanmerking komen voor kredietkwaliteitscategorie 2 als bedoeld in dat onderdeel;  
+
+b. leningen die gedekt zijn door niet-zakelijk onroerend goed of woonkredieten, bedoeld in artikel 129, eerste lid, onderdeel d onder i, respectievelijk onderdeel e, van de verordening kapitaalvereisten;  
+
+c. leningen die gedekt zijn door zakelijk onroerend goed, bedoeld in artikel 129, eerste lid, onderdeel f onder i, van de verordening kapitaalvereisten;  
+
+d. leningen die gedekt zijn door pandrechten op schepen als bedoeld in artikel 129, eerste lid, onderdeel g, van de verordening kapitaalvereisten; of  
+
+e. andere bij ministeriële regeling aan te wijzen activa.     
+4.  In afwijking van het derde lid kan een bank die een geregistreerde gedekte obligatie uitgeeft, een combinatie hanteren van leningen of woonkredieten als bedoeld in onderdelen b en c van het derde lid, mits zij zich hierbij vastlegt op een vaste verhouding tussen deze soorten dekkingsactiva.   
+5.  Een bank die een geregistreerde gedekte obligatie uitgeeft, draagt er zorg voor dat daarop geen voorwaarden van toepassing zijn die in de weg staan aan het uitoefenen van effectief toezicht op die geregistreerde gedekte obligatie.  
+
+### Artikel  40f  
+
+1.  Een bank die een geregistreerde gedekte obligatie uitgeeft, draagt er zorg voor dat de totale waarde van de dekkingsactiva van de categorie waartoe die obligatie behoort, minimaal 105% bedraagt van het nominale bedrag van de geregistreerde gedekte obligaties die onder de desbetreffende categorie uitstaan.   
+2.  In aanvulling op het eerste lid, draagt een bank die een geregistreerde gedekte obligatie uitgeeft, er zorg voor dat de waarde van de dekkingsactiva, berekend met inachtneming van de restricties, bedoeld in artikel 129, eerste lid onderdeel d, onder i, e, f onder i, en g, van de verordening kapitaalvereisten, voor zover toepasbaar op de soort gehanteerde dekkingsactiva, ten minste gelijk is aan het nominale bedrag van de geregistreerde gedekte obligaties die onder de desbetreffende categorie uitstaan.   
+3.  Een bank die een geregistreerde gedekte obligatie uitgeeft, kan bij het voldoen aan de verplichting, bedoeld in het eerste en tweede lid, dekkingsactiva hanteren die niet overeenkomstig artikel 40e, eerste lid, onderdeel b, zijn opgegeven als dekkingsactiva die primair worden gehanteerd, voor zover de dekkingsactiva bestaan uit de volgende soorten: 
+
+a. blootstellingen als bedoeld in artikel 129, eerste lid, onderdeel a, van de verordening kapitaalvereisten;  
+
+b. blootstellingen als bedoeld in artikel 129, eerste lid, onderdeel b, van de verordening kapitaalvereisten;  
+
+c. blootstellingen als bedoeld in artikel 129, eerste lid, onderdeel c, van de verordening kapitaalvereisten; of  
+
+d. blootstellingen ten aanzien waarvan de Nederlandsche Bank ontheffing heeft verleend als bedoeld in artikel 129, eerste lid, derde alinea, van de verordening kapitaalvereisten.     
+4.  Bij hantering van dekkingsactiva op grond van het derde lid, gelden de volgende maxima: 
+
+a. voor die dekkingsactiva gezamenlijk: 20% van het nominale bedrag van de geregistreerde gedekte obligaties die onder de desbetreffende categorie uitstaan; en  
+
+b. voor de afzonderlijke soorten als bedoeld in de onderdelen a tot en met d van het derde lid: de maxima voor dekkingsactiva van een bepaalde soort van artikel 129, eerste lid, onderdelen a tot en met c en derde alinea, van de verordening kapitaalvereisten.    
+
+### Artikel  40g  
+
+1.  Een bank die een geregistreerde gedekte obligatie uitgeeft, draagt er zorg voor dat de rechtspersoon die rechthebbende is van de dekkingsactiva, voor de categorie waartoe die obligatie behoort, te allen tijde voldoende liquide activa aanhoudt of genereert door middel van dekkingsactiva om de volgende zes maanden te kunnen voldoen aan: 
+
+a. haar verplichting tot tijdige betaling van de over de uitstaande geregistreerde gedekte obligaties verschuldigde rente;  
+
+b. haar verplichting tot betaling van de aflossing over de uitstaande geregistreerde gedekte obligaties; en  
+
+c. andere bij ministeriële regeling vast te stellen verplichtingen.     
+2.  De verplichting op grond van het eerste lid, onderdeel b, geldt niet indien de rechtspersoon die rechthebbende is van de dekkingsactiva, op grond van de op die obligatie toepasselijke voorwaarden gerechtigd is om betaling van de aflossing met minimaal zes maanden uit te stellen ten opzichte van de oorspronkelijke aflossingsdatum.   
+3.  Bij berekening van de hoogte van de verplichtingen waarvoor een bank die een geregistreerde gedekte obligatie uitgeeft, liquide activa moet aanhouden of doen aanhouden, dan wel genereren of doen genereren, op grond van het eerste lid, worden verwachte kasstromen uit derivatencontracten en andere risicomitigatie-instrumenten ter afdekking van die verplichtingen in aanmerking genomen.  
+
+### Artikel  40h  
+
+Een bank die een geregistreerde gedekte obligatie uitgeeft, voorziet in betrouwbare en doeltreffende strategieën en procedures aan de hand waarvan zij gedurende de looptijd van de geregistreerde gedekte obligatie voortdurend nagaat of, en er zorg voor draagt dat, er voldoende dekkingsactiva en liquide activa met de juiste eigenschappen zijn veiliggesteld, rekening houdend met de aard en samenstelling van de dekkingsactiva en liquide activa, het minimale bedrag aan dekkingsactiva, bedoeld in artikel 40f, eerste en tweede lid, en liquide activa, bedoeld in artikel 40g, eerste lid. 
+
+### Artikel  40i  
+
+1.  De Nederlandsche bank kan besluiten om een verzoek van een bank tot registratie als bedoeld in artikel 3:33a, eerste lid, van de wet af te wijzen indien de Nederlandsche Bank oordeelt dat uitgifte van geregistreerde gedekte obligaties door die bank afbreuk doet aan een gezonde verhouding tussen de totale uitstaande geregistreerde gedekte obligaties van die bank en de totale geconsolideerde balans van die bank.   
+2.  De Nederlandsche Bank kan besluiten om een bank die een geregistreerde gedekte obligatie uitgeeft, te verbieden over te gaan tot verdere uitgifte van geregistreerde gedekte obligaties, indien de Nederlandsche Bank oordeelt dat een verdere uitgifte afbreuk doet aan een gezonde verhouding tussen de totale uitstaande geregistreerde gedekte obligaties van die bank en de totale geconsolideerde balans van die bank.  
+
+### Artikel  40j  
+
+Bij of krachtens ministeriële regeling worden nadere regels gesteld met betrekking tot: 
+
+a. de veiligstelling van de dekkingsactiva en de veiligstelling van betaling op de geregistreerde gedekte obligaties op adequate, transparante en verantwoorde wijze;  
+
+b. de door een bank die een geregistreerde gedekte obligatie uitgeeft, aan de houders daarvan of aan de Nederlandsche Bank te verstrekken informatie.   
+
+### Artikel  40k  
+
+De Nederlandsche Bank stelt een lijst op van de op grond van artikel 1:107, eerste en derde lid, onderdelen m en n, van de wet geregistreerde categorieën geregistreerde gedekte obligaties en banken die geregistreerde gedekte obligaties uitgeven en doet daarvan, alsmede van wijzigingen daarvan, mededeling aan de Europese Commissie en de Europese Autoriteit voor effecten en markten. 
 
 ### Hoofdstuk  7  
 
@@ -1109,23 +1201,7 @@ De Nederlandsche Bank kan ter uitvoering van internationaal aanvaarde standaarde
 
 1.  De minimumomvang van het toetsingsvermogen van een beheerder van een beleggingsinstelling als bedoeld in artikel 3:57, eerste lid, van de wet, of van een beheerder van een icbe als bedoeld in artikel 3:57, eerste lid, van de wet bedraagt € 125.000 vermeerderd met twee honderdste procent van het bedrag waarmee de waarde van het beheerde vermogen het bedrag van € 250 miljoen te boven gaat. De minimumomvang van het toetsingsvermogen bedraagt niet meer dan € 10 miljoen.   
 2.  Tot het beheerde vermogen wordt gerekend het vermogen van de beleggingsinstellingen of van de icbe’s waarover de beheerder het beheer voert met inbegrip van de delen van het vermogen waarvan hij het beheer heeft uitbesteed, uitgezonderd de delen van het vermogen waarvan het beheer door derden aan hem is uitbesteed.   
-3.  De minimumomvang van het toetsingsvermogen van een beheerder van een beleggingsinstelling of een beheerder van een icbe als bedoeld in het eerste lid bedraagt in elk geval 25 procent van de vaste kosten in het afgelopen boekjaar. Indien hij zijn werkzaamheden niet gedurende een volledig boekjaar heeft uitgeoefend, bedraagt de minimumomvang van het toetsingsvermogen 25 procent van de in zijn programma van werkzaamheden begrote vaste kosten. De Nederlandsche Bank kan besluiten dat voor de beheerder een hogere minimumomvang geldt indien aannemelijk is dat de begrote vaste kosten te laag zijn begroot.   
-4.  De vaste kosten, bedoeld in het derde lid, omvatten alle kosten, uitgezonderd: 
-
-a. variabele kosten van werknemers wier dienstverband niet onverwijld en zonder schadeloosstelling kan worden opgezegd;  
-
-b. kosten van werknemers wier dienstverband onverwijld en zonder schadeloosstelling kan worden opgezegd;  
-
-c. variabele kosten betreffende de voor de beheerder verrichte werkzaamheden;  
-
-d. afschrijvingen;  
-
-e. rentekosten over achtergestelde leningen die deel uitmaken van het toetsingsvermogen;  
-
-f. buitengewone kosten met een eenmalig karakter; en  
-
-g. overige variabele kosten indien de Nederlandsche Bank daartoe, op schriftelijk verzoek, heeft besloten.     
-5.  De Nederlandsche Bank kan besluiten dat voor een beheerder van een beleggingsinstelling of een beheerder van een icbe als bedoeld in het eerste lid een andere minimumomvang geldt indien sinds het afgelopen boekjaar sprake is van aanzienlijke wijzigingen in diens werkzaamheden.  
+3.  De minimumomvang van het toetsingsvermogen van een beheerder van een beleggingsinstelling of een beheerder van een icbe als bedoeld in het eerste lid bedraagt ten minste 25 procent van de vaste kosten in het afgelopen boekjaar. Artikel 97 van de verordening kapitaalvereisten is van overeenkomstige toepassing.  
 
 ### Artikel  63a  
 
@@ -1277,7 +1353,7 @@ Bepaling ter uitvoering van artikel 3:57, tweede lid, van de wet
 ### Artikel  69  
 
 1.  De Nederlandsche Bank toetst op regelmatige basis, maar ten minste eenmaal per drie jaar, of een bank of beleggingsonderneming in de zin van de verordening kapitaalvereisten die gebruik maakt van interne modellen voor de berekening van de kapitaalvereisten overeenkomstig deel 3 van de verordening kapitaalvereisten, voldoet aan de ingevolge dat deel gestelde eisen. Daarbij houdt de Nederlandsche Bank in het bijzonder rekening met wijzigingen in de activiteiten van de bank of beleggingsonderneming en het toepassen van interne modellen op nieuwe financiële producten en diensten.   
-2.  Indien bij de toetsing, bedoeld in het eerste lid, wezenlijke tekortkomingen worden vastgesteld in het ondervangen van risico’s door het interne model, neemt de Nederlandsche Bank maatregelen om deze tekortkomingen te verhelpen of andere passende maatregelen. Daarbij is de Nederlandsche Bank in ieder geval bevoegd een hogere vermenigvuldigingsfactor als bedoeld in artikel 366 van de verordening kapitaalvereisten op te leggen of te bepalen dat de bank of beleggingsonderneming over een hoger toetsingsvermogen beschikt dan ingevolge artikel 3:57 is vereist.   
+2.  Indien bij de toetsing, bedoeld in het eerste lid, wezenlijke tekortkomingen worden vastgesteld in het ondervangen van risico’s door het interne model, neemt de Nederlandsche Bank maatregelen om deze tekortkomingen te verhelpen of andere passende maatregelen. Daarbij is de Nederlandsche Bank in ieder geval bevoegd een hogere vermenigvuldigingsfactor als bedoeld in artikel 366 van de verordening kapitaalvereisten op te leggen of te bepalen dat de bank of beleggingsonderneming over een hoger toetsingsvermogen beschikt dan ingevolge artikel 3:57 van de wet is vereist.   
 3.  Indien uit veelvuldige overschrijding als bedoeld in artikel 366 van de verordening kapitaalvereisten blijkt dat een risicomodel als bedoeld in artikel 455 van de verordening kapitaalvereisten niet of niet langer voldoende accuraat is, trekt de Nederlandsche Bank de toestemming aan de bank of beleggingsonderneming voor het gebruik van het betreffende model in, of legt zij maatregelen op die ertoe leiden dat het model onverwijld wordt verbeterd.   
 4.  Indien een bank of beleggingsonderneming niet langer voldoet aan de vereisten voor het gebruik van een bepaald intern model, stelt de Nederlandsche Bank de bank of beleggingsonderneming in de gelegenheid om aan te tonen dat het niet voldoen aan de vereisten van ondergeschikt belang is of om een plan op te stellen op grond waarvan binnen een redelijke termijn opnieuw aan de vereisten wordt voldaan. De Nederlandsche Bank kan, voor zover naar haar oordeel noodzakelijk, verbeteringen aan het plan opleggen of een andere termijn vaststellen waarbinnen het plan wordt uitgevoerd.   
 5.  Indien de Nederlandsche Bank van oordeel is dat de bank of beleggingsonderneming niet in staat is om uitvoering te geven aan het plan, bedoeld in het vierde lid, en de bank of beleggingsonderneming niet heeft aangetoond dat het niet voldoen aan de vereisten van ondergeschikt belang is, trekt zij de toestemming voor het gebruik van het interne model in of beperkt zij de toestemming tot de onderdelen ten aanzien waarvan wel aan de vereisten wordt voldaan of binnen een redelijke termijn kan worden voldaan. 
@@ -1475,11 +1551,11 @@ Bepalingen ter uitvoering van de artikelen 3:62a en 3:62b van de wet
 
 a. een kapitaalconserveringsbuffer, zijnde de minimaal vereiste omvang van de kapitaalbuffer;  
 
-b. een contracyclische kapitaalbuffer, in verband met risico’s die voortvloeien uit de kredietcyclus, als bedoeld in artikel 3:62a, tweede lid, onderdeel a;  
+b. een contracyclische kapitaalbuffer, in verband met risico’s die voortvloeien uit de kredietcyclus, als bedoeld in artikel 3:62a, tweede lid, onderdeel a, van de wet;  
 
-c. een systeemrelevantiebuffer, in verband met het risico dat de financiële onderneming vormt voor de stabiliteit van het financiële stelsel, als bedoeld in artikel 3:62a, tweede lid, onderdeel b;  
+c. een systeemrelevantiebuffer, in verband met het risico dat de financiële onderneming vormt voor de stabiliteit van het financiële stelsel, als bedoeld in artikel 3:62a, tweede lid, onderdeel b, van de wet;  
 
-d. een systeemrisicobuffer, in verband met risico’s die voortvloeien uit niet-cyclische langetermijnsysteemrisico’s of niet-cyclische macroprudentiële langetermijnrisico’s, als bedoeld in artikel 3:62a, tweede lid, onderdeel c.     
+d. een systeemrisicobuffer, in verband met risico’s die voortvloeien uit niet-cyclische langetermijnsysteemrisico’s of niet-cyclische macroprudentiële langetermijnrisico’s, als bedoeld in artikel 3:62a, tweede lid, onderdeel c, van de wet.     
 2.  De omvang van de in het eerste lid bedoelde buffercomponenten wordt uitgedrukt in een percentage van het overeenkomstig artikel 92, derde lid, van de verordening kapitaalvereisten berekende totaal van risicoposten.   
 3.  Indien op een onderneming een systeemrelevantiebuffer als bedoeld in het eerste lid, onderdeel c, of een systeemrisicobuffer als bedoeld in het eerste lid, onderdeel d, van toepassing is, wordt de totale toepasselijke omvang van die buffercomponenten bepaald op de wijze, genoemd in artikel 131, veertiende tot en met zeventiende lid, van de richtlijn kapitaalvereisten.   
 4.  De ingevolge de artikelen 105a, 105b en 105d vereiste omvang van de in het eerste lid, onderdelen a, b en c, bedoelde componenten wordt gedurende de hierna genoemde perioden vermenigvuldigd met de daarbij vermelde percentages: 
@@ -1578,6 +1654,11 @@ Bepalingen ter uitvoering van artikel 3:63, tweede lid, van de wet
 ### Artikel  106  
 
 De liquiditeit van een bank, clearinginstelling of icbe als bedoeld in artikel 3:63, eerste lid, 3:64 of 3:65 van de wet is voldoende, indien de aanwezige liquiditeit, bedoeld in artikel 111 of 112, ten minste gelijk is aan de ingevolge artikel 108, onderscheidenlijk artikel 109, vereiste liquiditeit. 
+
+### Artikel  106a  
+
+1.  Het vereiste van voldoende liquiditeit ingevolge de artikelen 3:63, 3:64 en 3:65 van de wet is van toepassing op beleggingsondernemingen als bedoeld in die artikelen, indien zij beleggingsdiensten verlenen als bedoeld in onderdeel e van de definitie van verlenen van een beleggingsdienst in artikel 1:1 van de wet of beleggingsactiviteiten verrichten als bedoeld in onderdeel a van de definitie van verrichten van een beleggingsactiviteit in artikel 1:1 van de wet.   
+2.  Aan het vereiste, bedoeld in het eerste lid, is voldaan indien de beleggingsonderneming voldoet aan de liquiditeitsvereisten ingevolge deel 6 van de verordening kapitaalvereisten, dat van overeenkomstige toepassing is op beleggingsondernemingen als bedoeld in artikel 3:65 van de wet waarop het eerste lid van toepassing is.  
 
 ### Artikel  107  
 
@@ -1877,24 +1958,6 @@ d. beleggingen als bedoeld in artikel 122b, eerste lid, onderdeel a, onder 1°, 
 
 In afwijking van artikel 123, derde lid, kan een levensverzekeraar of schadeverzekeraar tot ten hoogste veertig procent van de waarden die dienen tot dekking van de technische voorzieningen beleggen in geregistreerde gedekte obligaties van een bepaalde uitgevende bank.
 
-### Artikel 124b 
-
-1. De Nederlandsche Bank besluit op verzoek van een bank met zetel in Nederland om een door die bank uitgegeven of uit te geven categorie obligaties alsmede de uitgevende bank in een openbaar register op te nemen, indien die bank aantoont dat de obligaties zijn aan te merken als gedekte obligaties. Bij ministeriële regeling worden regels gesteld met betrekking tot de wijze waarop de bank dit kan aantonen. 
-2. De Nederlandsche Bank stelt een lijst van de overeenkomstig het eerste lid geregistreerde categorieën obligaties en banken alsmede wijzigingen daarvan, ter kennis van de Commissie van de Europese Gemeenschappen met het oog op de toepassing van artikel 22, vierde lid, van de richtlijn beleggingsinstellingen. De Nederlandsche Bank doet onverwijld mededeling aan de uitgevende bank van iedere kennisgeving als bedoeld in de vorige volzin met betrekking tot die bank en de door haar uitgegeven categorieën obligaties. 
-3. Indien een categorie obligaties niet langer voldoet aan het in het eerste lid bedoelde vereiste voor registratie of indien de uitgevende bank niet of niet langer voldoet aan artikel 124c, kan de Nederlandsche Bank besluiten de registratie van de categorie obligaties of van de uitgevende bank, bedoeld in het eerste lid, door te halen. In dat geval stelt zij de Commissie van de Europese Gemeenschappen daarvan onverwijld in kennis en maakt zij dit onverwijld openbaar op haar website.
-
-### Artikel 124c 
-
-Een bank die obligaties heeft uitgegeven die behoren tot een categorie die is geregistreerd overeenkomstig artikel 124b:
-
-a.houdt een administratie bij waarin zijn opgenomen:
-
-1°.de uitgegeven obligaties die tot die categorie behoren, en
-
-2°.de activa die dienen ter dekking van die obligaties; en
-
-b.toont aan de Nederlandsche Bank tenminste jaarlijks aan dat de categorie obligaties nog voldoet aan het in artikel 124b, eerste lid, bedoelde vereiste voor registratie.
-
 ### §  12.2.1  
 
 ####Beleggingsbeleid van een premiepensioeninstelling
@@ -2039,7 +2102,7 @@ b. andere gegevens ten behoeve van het toezicht op de naleving van de regels met
 
 4°. informatie inzake de uitgevoerde pensioenregelingen.      
 6.  De door een beheerder als bedoeld in artikel 3:72, eerste lid, van de wet te verstrekken staten bevatten uitsluitend balans- en resultaatgegevens ten behoeve van het toezicht op de naleving van de regels met betrekking tot het bedrag aan eigen vermogen ingevolge artikel 3:53 en de solvabiliteit ingevolge artikel 3:57, van de wet.  
-6.  De door een afwikkelonderneming als bedoeld in artikel 3:72, eerste lid, van de wet te verstrekken staten omvatten uitsluitend: 
+7.  De door een afwikkelonderneming als bedoeld in artikel 3:72, eerste lid, van de wet te verstrekken staten omvatten uitsluitend: 
 
 a. balans- en resultatengegevens alsmede aanvullende gegevens ten behoeve van toezicht op de naleving van het Deel Prudentieel toezicht financiële ondernemingen van de wet;  
 
@@ -2081,17 +2144,7 @@ f. vier maal per jaar voor de in artikel 130, vijfde lid, onderdeel b, genoemde 
 g. twee maal per jaar voor de in artikel 130, zesde lid, genoemde staten.    
 3.  De Nederlandsche Bank kan in individuele gevallen besluiten dat een financiële onderneming als bedoeld in artikel 130 periodiek moet melden of haar solvabiliteit of liquiditeit zich boven een door de Nederlandsche Bank vastgestelde signaleringswaarde bevindt. De frequentie van de melding is niet hoger dan een maal per maand en is afgestemd op de aard en de omvang van de financiële onderneming, alsmede op de omvang van de solvabiliteit van de financiële onderneming.   
 4.  Een beleggingsonderneming als bedoeld in artikel 48, eerste lid, onderdeel j, doet de melding, bedoeld in het derde lid, met redenen omkleed aan de Nederlandsche Bank in elke maand waarin zij niet ingevolge het tweede lid, onderdeel c, staten verstrekt. Zij meldt daarbij in ieder geval wat de waarde van haar toetsingsvermogen is, hoe deze waarde is berekend en hoe deze waarde zich verhoudt tot de waarde van haar toetsingsvermogen zoals vermeld in de laatst verstrekte staten.   
-5.  Ter voorbereiding op de implementatie van richtlijn nr. 2009/138/EG van het Europees Parlement en de Raad van de Europese Unie van 25 november 2009 betreffende de toegang tot en uitoefening van het verzekerings- en het herverzekeringsbedrijf (Solvabiliteit II) (herschikking) (PbEU L 335) dienen entiteiten voor risico-acceptatie en verzekeraars de in Bijlage D vastgestelde modellen van staten in, met inachtneming van het zesde lid. Voor zover niet anders blijkt, zijn op deze modellen van staten de regels van toepassing die de Nederlandsche Bank heeft vastgesteld op grond van het eerste lid, onderdelen b, c, e, f en h.   
-6.  Voor het boekjaar 2011 dienen entiteiten voor risico-acceptatie en verzekeraars de modellen van staten 1 tot en met 3, bedoeld in bijlage D, in binnen acht maanden na afloop van dat boekjaar. Voor het boekjaar 2012 dienen entiteiten voor risico-acceptatie en verzekeraars de modellen van staten, bedoeld in bijlage D, gelijktijdig in met de kwartaalrapportages over het eerste kwartaal van 2013 die op grond van de in het vijfde lid genoemde richtlijn worden ingediend. 
-
-### Artikel  131a  
-
-1.  Indien blijkt dat de rapportage zoals vastgesteld in bijlage D materiële afwijkingen bevat ten opzichte van de rapportage zoals die ingevolge de richtlijn nr. 2009/138/EG van het Europees Parlement en de Raad van de Europese Unie van 25 november 2009 betreffende de toegang tot en uitoefening van het verzekerings- en het herverzekeringsbedrijf (Solvabiliteit II) (herschikking) (PbEU L 335) zal worden vastgesteld, besluit Onze Minister dat de rapportage over het boekjaar 2011, bedoeld in artikel 131, zesde lid, niet behoeft te worden ingediend.   
-2.  Onze Minister stelt de modellen van staten, bedoeld in bijlage D, voor het boekjaar 2012 zo spoedig mogelijk opnieuw vast indien: 
-
-a. het eerste lid toepassing heeft gevonden;  
-
-b. het eerste lid geen toepassing heeft gevonden en de staten die ingevolge de richtlijn, genoemd in het eerste lid, zullen worden vastgesteld materieel afwijken van de staten, bedoeld in bijlage D.    
+5.  Met betrekking tot verzekeraars die onder de reikwijdte van richtlijn 2009/138/EG van het Europees Parlement en de Raad van 25 november 2009 betreffende de toegang tot en uitoefening van het verzekerings- en het herverzekeringsbedrijf (Solvabiliteit II) (herschikking) (PbEU 2009, L 335) vallen, omvatten de in het eerste lid, onderdeel a, bedoelde staten tevens modelstaten ter voorbereiding op de toepassing van genoemde richtlijn. Bij de vaststelling van die modelstaten volgt de Nederlandsche Bank de door de Europese Toezichthoudende Autoriteit voor verzekeringen en bedrijfspensioenen ontwikkelde richtsnoeren voor het indienen van informatie bij nationale bevoegde autoriteiten (EIOPA-CP-13/010), zo nodig in afwijking van het eerste lid, aanhef en onderdeel d.  
 
 ### Artikel  132  
 
@@ -2173,7 +2226,7 @@ Bepalingen ter uitvoering van 3:74c van de wet
 
 Bepaling ter uitvoering van artikel 3:73b, tweede lid, van de wet 
 
-### Artikel  135a*  
+### Artikel  135b  
 
 De Nederlandsche Bank kan ter uitvoering van internationaal aanvaarde standaarden nadere regels stellen met betrekking tot het effectief verlenen van afwikkeldiensten. 
 

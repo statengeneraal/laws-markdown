@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op voordracht van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 29 mei 1998, nr. MJZ98050136, Centrale Directie Juridische Zaken, Afdeling Wetgeving, gedaan mede namens Onze Minister van Landbouw, Natuurbeheer en Visserij; 
 
-Gelet op [artikel 10 van de Wet bescherming Antarctica](../../../../../wet/wet/bescherming/antarctica/BWBR0009449/README.md); 
+Gelet op artikel 10 van de Wet bescherming Antarctica; 
 
 De Raad van State gehoord (advies van 3 juli 1998, nr. W08.980230) Gezien het nader rapport van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 20 augustus, nr MJZ 98076524, Centrale Directie Juridische Zaken, Afdeling Wetgeving, uitgebracht mede namens Onze Minister van Landbouw, Natuurbeheer en Visserij;
 Hebben goedgevonden en verstaan:     
@@ -18,17 +18,17 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:  
 
-a. wet: [Wet bescherming Antarctica](../../../../../wet/wet/bescherming/antarctica/BWBR0009449/README.md);   
+a. wet: Wet bescherming Antarctica;   
 
-b. vergunning: vergunning als bedoeld in [artikel 8, eerste lid, van de wet](../../../../../wet/wet/bescherming/antarctica/BWBR0009449/README.md);   
+b. vergunning: vergunning als bedoeld in artikel 8, eerste lid, van de wet;   
 
-c. stoffen: stoffen in de zin van de [Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);   
+c. stoffen: stoffen in de zin van de Wet milieubeheer;   
 
-d. preparaten: preparaten in de zin van de [Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);   
+d. preparaten: preparaten in de zin van de Wet milieubeheer;   
 
-e. gevaarlijke stoffen en preparaten: stoffen en preparaten die behoren tot een of meer van de in [artikel 9.2.3.1, tweede lid, van de Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) aangewezen categorieën;   
+e. gevaarlijke stoffen en preparaten: stoffen en preparaten die behoren tot een of meer van de in artikel 9.2.3.1, tweede lid, van de Wet milieubeheer aangewezen categorieën;   
 
-f. genetisch gemodificeerde organismen: genetisch gemodificeerde organismen als bedoeld in [artikel 1, eerste lid, onder f, van het Besluit genetisch gemodificeerde organismen milieubeheer](../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md).    
+f. genetisch gemodificeerde organismen: genetisch gemodificeerde organismen als bedoeld in artikel 1, eerste lid, onder f, van het Besluit genetisch gemodificeerde organismen milieubeheer.    
 
 ### §  2  
 
@@ -55,7 +55,7 @@ a. een nauwkeurige beschrijving van de activiteit waarvoor een vergunning wordt 
 
 2°. het doel van de activiteit en de reden om de activiteit in het Antarctisch gebied te laten plaatsvinden;   
 
-3°. de in [artikel 6, tweede lid, van de wet](../../../../../wet/wet/bescherming/antarctica/BWBR0009449/README.md) genoemde handelingen waarvoor toestemming wordt gevraagd, alsmede doel en noodzaak van deze handelingen;   
+3°. de in artikel 6, tweede lid, van de wet genoemde handelingen waarvoor toestemming wordt gevraagd, alsmede doel en noodzaak van deze handelingen;   
 
 4°. het aantal personen dat aan de activiteit zal deelnemen;   
 
@@ -107,21 +107,37 @@ e. de maatregelen – waaronder technologieën en procedures worden begrepen –
 
 1°. een beschrijving van de voorzorgsmaatregelen die worden getroffen om te voorkomen dat onbedoeld niet-steriele aarde en niet in de inheemse flora en fauna aanwezig zijnde micro-organismen, zoals virussen, bacteriën, gisten en schimmels binnen het Antarctisch gebied worden gebracht.  
 
-2°. dit onderdeel is nog niet in werking getreden;   
+2°. een beschrijving van de preventieve maatregelen die worden getroffen ter vermindering van het risico van milieubedreigende noodsituaties en de mogelijke gevolgen daarvan;   
 
 f. de nadelige invloeden die de activiteit kan hebben op andere bestaande of geplande activiteiten in het Antarctische gebied die de aanvrager redelijkerwijs bekend kunnen zijn, alsmede de maatregelen – waaronder technologieën en procedures worden begrepen – die zijn of worden getroffen om deze invloeden zoveel mogelijk te voorkomen of te beperken;   
 
 g. de wijze en momenten waarop gedurende de uitvoering van de activiteit de nadelige gevolgen die de activiteit veroorzaakt, worden vastgesteld en geregistreerd;   
 
-h. de maatregelen – waaronder technologieën en procedures worden begrepen – die zijn of worden getroffen om snel en doeltreffend ongevallen te bestrijden, met name ongevallen die gevolgen voor het milieu kunnen hebben;   
+h. de maatregelen – waaronder technologieën en procedures worden begrepen – die zijn of worden getroffen om de gezondheid en veiligheid van de mens te waarborgen; 
 
-i. de voor de aanvrager redelijkerwijs te verwachten ontwikkelingen die voor de beslissing op de aanvraag van belang kunnen zijn;   
+i. de maatregelen – waaronder technologieën en procedures worden begrepen – die zijn of worden getroffen om snel en doeltreffend ongevallen te bestrijden, met name ongevallen die gevolgen voor het milieu kunnen hebben, waaronder een rampenplan waarin tenminste is aangegeven:  
 
-j. eventuele contacten die met andere organisatoren van activiteiten naar het Antarctisch gebied zijn gelegd in verband met de uitvoering van de activiteit, alsmede het doel van deze contacten;   
+1°. hoe de gezondheid en veiligheid, opsporing en redding, medische zorg en evacuatie van de deelnemers aan de activiteit wordt gewaarborgd en wie betrokken is bij de uitvoering van dat onderdeel van het rampenplan;  
 
-k. eventuele contacten die met andere landen die partij zijn bij het Protocol zijn gelegd in verband met de uitvoering van de activiteit, alsmede het doel van deze contacten;   
+2°. hoe ongevallen met mogelijk nadelige gevolgen voor het Antarctisch milieu worden bestreden en wie betrokken is bij de uitvoering van dat onderdeel van het rampenplan;  
 
-l. verzekeringen of andere financiële waarborgen die zijn verkregen ter dekking van de kosten die gemoeid zijn met de uitvoering van de activiteit en ter dekking van de aansprakelijkheid voor schade die voortvloeit uit door de betrokken activiteit veroorzaakte nadelige gevolgen voor het Antarctisch milieu.    
+3°. indien de organisator bij de uitvoering van het rampenplan afhankelijk is van de ondersteuning door partijen of andere organisatoren, een afschrift van de overeenkomst waaruit blijkt dat deze zich daartoe hebben verbonden;   
+
+j. de voor de aanvrager redelijkerwijs te verwachten ontwikkelingen die voor de beslissing op de aanvraag van belang kunnen zijn;   
+
+k. eventuele contacten die met andere organisatoren van activiteiten naar het Antarctisch gebied zijn gelegd in verband met de uitvoering van de activiteit, alsmede het doel van deze contacten;   
+
+l. eventuele contacten die met andere landen die partij zijn bij het Protocol zijn gelegd in verband met de uitvoering van de activiteit, alsmede het doel van deze contacten;   
+
+m. een afschrift van de verzekeringspolis of een bewijs van andere financiële waarborgen die door de organisator zijn verkregen ter dekking van: 
+
+1°. de kosten die betrekking hebben op opsporings- en reddingsacties, medische zorg en evacuatie. Voor zover de activiteit plaatsvindt aan boord van een schip of een luchtvaartuig, kan de organisator volstaan met het aantonen dat de verzekering of financiële zekerheid door een ander dan de organisator in stand wordt gehouden;  
+
+2°. zijn aansprakelijkheid ingevolge artikel 25c, eerste en tweede lid, van de wet, tot een bedrag berekend overeenkomstig artikel 25e, tweede en derde lid, van de wet;  
+
+3°. de kosten die gemoeid zijn met de uitvoering van de activiteit;  
+
+4°. de aansprakelijkheid voor schade die voortvloeit uit door de betrokken activiteit veroorzaakte nadelige gevolgen voor het Antarctisch milieu.     
 
 ### Artikel  4  
 
@@ -173,12 +189,11 @@ a. de handelingen die in dat gebied zullen worden verricht, alsmede:
 
 2°. de precieze aanduiding van de plaatsen waar en data en tijden waarop deze handelingen worden uitgevoerd;   
 
-3°. een specificatie van de gegevens als bedoeld in artikel 3, onderdeel c tot en met k, met betrekking tot deze handelingen;     
+3°. een specificatie van de gegevens als bedoeld in artikel 3, onderdeel c tot en met l, met betrekking tot deze handelingen;     
 
 b. de wijze waarop wordt gewaarborgd dat aan het op het gebied betrekking hebbende beheersplan, als bedoeld in artikel 5 van bijlage V bij het Protocol, wordt voldaan.    
 
 ### Artikel  7a  
-Treedt in werking op een nader te bepalen tijdstip 
 
 Indien de aanvraag mede betrekking heeft op het vanaf een schip aan land gaan in het Antarctisch gebied, vermeldt de aanvrager in of bij de aanvraag tevens: 
 

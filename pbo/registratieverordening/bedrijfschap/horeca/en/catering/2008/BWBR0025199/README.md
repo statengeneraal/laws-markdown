@@ -3,7 +3,7 @@
 ##Verordening van het Bedrijfschap Horeca en Catering, betreffende de registratie van ondernemingen (Registratieverordening Bedrijfschap Horeca en Catering 2008)
 
 Het bestuur van het Bedrijfschap Horeca en Catering;  
-Gelet op de [artikelen 93](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [95 van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op [artikel 4 van het Instellingsbesluit Bedrijfschap Horeca en Catering](../../../../../../../../AMvB/instellingsbesluit/bedrijfschap/horeca/en/catering/BWBR0016029/README.md);
+Gelet op de artikelen 93 en 95 van de Wet op de bedrijfsorganisatie en op artikel 4 van het Instellingsbesluit Bedrijfschap Horeca en Catering;
 Besluit vast te stellen de navolgende verordening:    
 
 ### Artikel  1  
@@ -18,7 +18,7 @@ In deze verordening wordt verstaan onder:
 |ondernemer |: |een natuurlijk of rechtspersoon die een onderneming drijft of gedurende enige periode heeft gedreven; |
 |secretaris |: |secretaris van het bedrijfschap; |
 |register |: |register van ondernemingen als bedoeld in artikel 2 ; |
-|handelsregister |: |register als bedoeld in [artikel 2 van de Handelsregisterwet 2007](../../../../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md). |
+|handelsregister |: |register als bedoeld in artikel 2 van de Handelsregisterwet 2007. |
 
 ### Artikel  2  
 
@@ -76,7 +76,7 @@ d. de staking van de onderneming.
 
 ### Artikel  8  
 
-De [Registratieverordening Bedrijfschap Horeca en Catering 2003](../../../../../../../../pbo/registratieverordening/bedrijfschap/horeca/en/catering/2003/BWBR0014802/README.md) (No. Ho 02/2003) wordt ingetrokken.
+De Registratieverordening Bedrijfschap Horeca en Catering 2003 (No. Ho 02/2003) wordt ingetrokken.
 
 ### Artikel  9  
 

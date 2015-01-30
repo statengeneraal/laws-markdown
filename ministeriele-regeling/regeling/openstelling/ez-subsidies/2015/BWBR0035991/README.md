@@ -16,6 +16,7 @@ Besluit:
 
 | 1  | 2  | 3  | 4  | 5  | 6  | Instrument  | Artikel  | Groep  | Thema/programmalijn  | Openstelling  | Plafond €  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| Titel 2.5: Garantstelling landbouw  | 2.5.2  | --- | --- | Tijdstip waarop de regeling van de Staatssecretaris van Economische Zaken van 27 januari 2015 houdende wijziging van de Regeling nationale EZ-subsidies en de Regeling openstelling EZ-subsidies 2015 in verband met aanpassingen van de Garantstelling landbouw aan de nieuwe staatsteunkaders en de openstelling ervan in werking is getreden tot en met 31-12-2015  | 42.500.000  |
 | Titel 3.2: TKI-toeslag  | 3.2.2, onderdeel a  | --- | --- | 06-01-2015 t/m 15-09-2015  | --- |
 | Titel 3.2: TKI-toeslag  | 3.2.2, onderdeel b  | --- | --- | 06-01-2015 t/m 15-10-2015  | --- |
 | Titel 3.7: Eurostarsprojecten  | 3.7.2  | --- | --- | 18-12-2014 t/m 06-01-2015  | 9.162.500  |

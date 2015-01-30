@@ -3,9 +3,9 @@
 ##Verordening van het Productschap Pluimvee en Eieren van 30 oktober 2008, houdende de vaststelling van de aan de onder het Productschap Pluimvee en Eieren ressorterende ondernemers op te leggen huishoudelijke heffing voor het jaar 2009 (Verordening huishoudelijke heffingen pluimveesector (PPE) 2009)
 
 Het bestuur van het Productschap Pluimvee en Eieren;  
-Gelet op [artikel 126 van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [artikel 8 van het Instellingsbesluit Productschap Pluimvee en Eieren](../../../../../../../../AMvB/instellingsbesluit/productschap/pluimvee/en/eieren/BWBR0016490/README.md);
+Gelet op artikel 126 van de Wet op de bedrijfsorganisatie en artikel 8 van het Instellingsbesluit Productschap Pluimvee en Eieren;
 
-Gezien de [Verordening algemene bepalingen heffingen (PPE) 2005](../../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(ppe)/2005/BWBR0017350/README.md);
+Gezien de Verordening algemene bepalingen heffingen (PPE) 2005;
 Besluit:    
 ###1  
 
@@ -16,7 +16,7 @@ Materieel uitgewerkt per 01-01-2010
 ### Artikel  1 
 Materieel uitgewerkt per 01-01-2010 
 
-Deze verordening neemt over de begripsbepalingen van de [Verordening algemene bepalingen heffingen (PPE) 2005](../../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(ppe)/2005/BWBR0017350/README.md).
+Deze verordening neemt over de begripsbepalingen van de Verordening algemene bepalingen heffingen (PPE) 2005.
 
 ###2  
 
@@ -238,7 +238,7 @@ Materieel uitgewerkt per 01-01-2010
 ###Artikel 21 
 Materieel uitgewerkt per 01-01-2010 
 
-Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de [Verordening algemene bepalingen heffingen (PPE) 2005](../../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(ppe)/2005/BWBR0017350/README.md).
+Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de Verordening algemene bepalingen heffingen (PPE) 2005.
 
 ###7 
 

@@ -15,6 +15,8 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
+*afzet van landbouwproducten:* afzet van landbouwproducten als bedoeld in artikel 2, onderdeel 7, van de groepsvrijstellingsverordening landbouw, punt 35, onderdeel 12, van het landbouwsteunkader en artikel 2, eerste lid, onderdeel c, van de de-minimis verordening; 
+
 *besluit:* Kaderbesluit nationale EZ-subsidies;  
 
 *daadwerkelijke samenwerking:* daadwerkelijke samenwerking als bedoeld in artikel 2, onderdeel 90, van de algemene groepsvrijstellingsverordening; 
@@ -51,7 +53,9 @@ b. volledig in eigendom, pacht of erfpacht heeft met een andere natuurlijke pers
 
 *O&O&I-kaderregeling:* Kaderregeling betreffende staatssteun voor onderzoek, ontwikkeling en innovatie nr. 2014/C 198/01 (PbEU 2014, C 198);  
 
-*Unienorm:* Unienorm als bedoeld in artikel 2, onderdeel 102, van de algemene groepsvrijstellingsverordening, en paragraaf 1.3, onderdeel 19, onder 3, van de Richtsnoeren staatssteun ten behoeve van milieubescherming en energie 2014–2020 (PbEU 2014, C200).  
+*Unienorm:* Unienorm als bedoeld in artikel 2, onderdeel 102, van de algemene groepsvrijstellingsverordening, en paragraaf 1.3, onderdeel 19, onder 3, van de Richtsnoeren staatssteun ten behoeve van milieubescherming en energie 2014–2020 (PbEU 2014, C200); 
+
+*verwerking van landbouwproducten:* verwerking van landbouwproducten als bedoeld in artikel 2, onderdeel 6, van de groepsvrijstellingsverordening landbouw, punt 35, onderdeel 11, van het landbouwsteunkader en artikel 2, eerste lid, onderdeel b, van de de-minimis verordening.  
 
 ### Artikel  1.2  
 
@@ -570,30 +574,26 @@ c. vermogensbestanddelen van de aanvrager privé, bestaande uit:
 
 3°. achtergestelde leningen;      
 
+*landbouwbedrijf:* landbouwbedrijf als bedoeld in artikel 2, onderdeel 8, van de groepsvrijstellingsverordening landbouw en punt 35, onderdeel 16, van het landbouwsteunkader; 
+
 *lening:* door een bank verstrekte geldlening, niet zijnde een rekening-courantkrediet;  
 
-*liquiditeitstoename:* som van het bedrijfsresultaat, de afschrijving en de privé-toevoegingen verminderd met de aflossingen, de privé-onttrekkingen en de vervangingsinvesteringen.   
+*liquiditeitstoename:* som van het bedrijfsresultaat, de afschrijving en de privé-toevoegingen verminderd met de aflossingen, de privé-onttrekkingen en de vervangingsinvesteringen;  
+
+*primaire landbouwproductie:* primaire landbouwproductie als bedoeld in artikel 2, onderdeel 5, van de groepsvrijstellingsverordening landbouw en punt 35, onderdeel 10 van het landbouwsteunkader.  
 
 ### Artikel  2.5.2  
 
 ####Subsidieaanvraag
 
 1.  De minister kan subsidie in de vorm van een garantstelling verstrekken voor de terugbetaling van een lening, voor zover deze strekt tot financiering van investeringen in de stichting, overname, instandhouding of verbetering van een kleine of middelgrote landbouwonderneming.   
-2.  Investeringen als bedoeld in het eerste lid zijn gericht op: 
-
-a. verlaging van de productiekosten van landbouwproducten;  
-
-b. verbetering en omschakeling van de productie van landbouwproducten;  
-
-c. verhoging van de kwaliteit van landbouwproducten;  
-
-d. instandhouding en verbetering van het natuurlijke milieu of de verbetering van de hygiëneomstandigheden of de normen inzake dierenwelzijn.    
+2.  Een investering als bedoeld in het eerste lid is ten minste gericht op één van de doelstellingen, genoemd in punt 143, onder a tot en met d, van het landbouwsteunkader.  
 
 ### Artikel  2.5.3  
 
 ####Uitzonderingen en weigeringsgronden
 
-Geen garantstelling wordt verstrekt: 
+1. Geen garantstelling wordt verstrekt: 
 
 a. voor de terugbetaling van leningen die zijn gericht op de herfinanciering van schulden, daaronder mede begrepen niet door een bank verstrekte leningen alsmede leningen welke worden aangegaan om kapitaalbehoefte, ontstaan door het uittreden van een commanditaire vennoot uit een commanditaire vennootschap, te dekken, behoudens in geval van overmacht;  
 
@@ -601,25 +601,49 @@ b. indien ten aanzien van de investeringen reeds een krediet is verstrekt of onv
 
 c. aan andere landbouwondernemingen dan kleine of middelgrote ondernemingen;  
 
-d. indien de landbouwonderneming een bruto-jaaromzet heeft of zal hebben die voor de helft of minder wordt verkregen uit de primaire productie van landbouwproducten;  
-
-e. indien aan de aanvrager reeds een garantstelling is verstrekt door de minister of het bestuur van de Stichting Borgstellingsfonds voor de Landbouw, en: 
+d. indien aan de aanvrager reeds een garantstelling is verstrekt door de minister of het bestuur van de Stichting Borgstellingsfonds voor de Landbouw, en: 
 
 1°. die garantstelling is verleend in het tijdvak van twee jaren voorafgaand aan de datum van ontvangst van de aanvraag, of  
 
 2°. met garantstelling waarop de aanvraag betrekking heeft het totaal aan garantstellingen, verleend aan de landbouwonderneming € 2.500.000 of hoger wordt;    
 
-f. voor de terugbetaling van leningen met betrekking tot een landbouwonderneming die wordt uitgeoefend door een commanditaire vennootschap, tenzij uit de betrokken vennootschapsovereenkomst blijkt dat deze ten minste is aangegaan voor een periode, overeenkomende met de looptijd van de lening, waarvoor de aanvraag wordt ingediend, en in elk geval gedurende deze looptijd niet kan worden opgezegd;  
+e. voor de terugbetaling van leningen met betrekking tot een landbouwonderneming die wordt uitgeoefend door een commanditaire vennootschap, tenzij uit de betrokken vennootschapsovereenkomst blijkt dat deze ten minste is aangegaan voor een periode, overeenkomende met de looptijd van de lening, waarvoor de aanvraag wordt ingediend, en in elk geval gedurende deze looptijd niet kan worden opgezegd;  
 
-g. indien het bancair aansprakelijk vermogen van de aanvrager minder dan 15% bedraagt van het balanstotaal;  
+f. indien het bancair aansprakelijk vermogen van de aanvrager minder dan 15% bedraagt van het balanstotaal;  
 
-h. indien de verstrekking van de garantstelling de landbouwonderneming naar het oordeel van de minister onvoldoende liquiditeitstoename oplevert;  
+g. indien de verstrekking van de garantstelling de landbouwonderneming naar het oordeel van de minister onvoldoende liquiditeitstoename oplevert;  
 
-i. indien de begroting van de landbouwonderneming naar het oordeel van de minister onvoldoende middelen bevat om eventuele exploitatietekorten van de landbouwonderneming op te vangen;  
+h. indien de begroting van de landbouwonderneming naar het oordeel van de minister onvoldoende middelen bevat om eventuele exploitatietekorten van de landbouwonderneming op te vangen;  
 
-j. indien de begroting van de landbouwonderneming naar het oordeel van de minister onvoldoende middelen bevat om in de toekomst noodzakelijke investeringen te kunnen verrichten in de landbouwonderneming;  
+i. indien de begroting van de landbouwonderneming naar het oordeel van de minister onvoldoende middelen bevat om in de toekomst noodzakelijke investeringen te kunnen verrichten in de landbouwonderneming;  
 
-k. ingeval de lening waarvoor de garantstelling wordt verstrekt in totaal minder dan € 50.000 bedraagt.   
+j. ingeval de lening waarvoor de garantstelling wordt verstrekt in totaal minder dan € 50.000 bedraagt.    
+2.  Geen garantstelling wordt verstrekt voor investeringen: 
+
+a. in de verwerking en afzet van landbouwproducten;  
+
+b. in installaties die vooral tot doel hebben elektriciteit op te wekken uit biomassa;  
+
+c. in installaties voor de productie van hernieuwbare energie die bedoeld zijn voor de productie, op het landbouwbedrijf, van biobrandstoffen in de zin van Richtlijn 2009/28/EG van het Europees Parlement en de Raad van 23 april 2009 ter bevordering van het gebruik van energie uit hernieuwbare bronnen en houdende wijziging en intrekking van Richtlijn 2001/77/EG en Richtlijn 2003/30/EG (PbEU 2009, L 140), indien: 
+
+1°. de productiecapaciteit van die installaties groter is dan de capaciteit die overeenstemt met de gemiddelde hoeveelheid brandstof die het landbouwbedrijf jaarlijks voor vervoer verbruikt, of  
+
+2°. de geproduceerde biobrandstof op de markt wordt verkocht;    
+
+d. in installaties voor de productie van hernieuwbare energie met het oog op de productie, op het glastuinbouwbedrijf, van thermische energie of elektriciteit uit hernieuwbare bronnen, indien: 
+
+1°. het niet de bedoeling is in de eigen energiebehoeften te voorzien;  
+
+2°. de productiecapaciteit van die installaties groter is dan de capaciteit die overeenstemt met het gecombineerde gemiddelde jaarlijkse energieverbruik van thermische energie en elektriciteit van het landbouwbedrijf, met inbegrip van het landbouwhuishouden, of  
+
+3°. verkoop van elektriciteit aan het net plaatsvindt die buiten de jaarlijkse limiet van het eigen verbruik, bedoeld onder 2°, valt;    
+
+e. die niet in overeenstemming zijn met de wetgeving van de Europese Unie en met de nationale milieubeschermingswetgeving;  
+
+f. die in strijd zouden zijn met de beperkingen, bedoeld in punt 151 van het landbouwsteunkader;  
+
+g. met betrekking tot irrigatie op nieuwe en bestaande geïrrigeerde arealen die niet voldoen aan de voorwaarden van de punten 149 en 150 van het landbouwsteunkader.     
+3.  Indien de investering door meer landbouwbedrijven wordt uitgevoerd om in hun eigen behoefte aan biobrandstof en energie te voldoen, is het gemiddelde jaarlijkse brandstof- respectievelijk energieverbruik, bedoeld in het tweede lid, onder c en d, de som van het gemiddelde jaarlijkse verbruik van alle begunstigden. 
 
 ### Artikel  2.5.4  
 
@@ -692,7 +716,17 @@ De minister verdeelt het subsidieplafond voor garantstellingen op volgorde van b
 
 ####Subsidieaanvraag
 
-1.  De aanvraag tot garantstelling gaat vergezeld van de volgende documenten: 
+1.  Een aanvraag voor subsidie als bedoeld in artikel 2.5.2 bevat ten minste de gegevens, bedoeld in punt 71 van het landbouwsteunkader.   
+2.  Onverminderd het eerste lid bevat een aanvraag voor subsidie ten minste: 
+
+a. gegevens over de aanvrager, waaronder het nummer waaronder de onderneming geregistreerd is bij de Kamer van Koophandel, het post- en bezoekadres en het rekeningnummer;  
+
+b. gegevens over de contactpersoon bij de aanvrager, waaronder de naam, het telefoonnummer en het e-mailadres;  
+
+c. indien van toepassing de topsector waarbinnen het project wordt uitgevoerd;  
+
+d. een begroting waarin de totale kosten van het project en de omvang van de gevraagde garantstelling zijn opgenomen.     
+3.  De aanvraag tot garantstelling gaat vergezeld van de volgende documenten: 
 
 a. een investerings- en financieringsplan;  
 
@@ -713,7 +747,7 @@ f. de boekhoudverslagen en de aangiften inkomstenbelasting over de voorliggende 
 g. een toelichting van de bank op de verstrekte gegevens, en  
 
 h. de statuten van de landbouwonderneming, indien de aanvraag betrekking heeft op een rechtspersoon.     
-2.  In aanvulling op het eerste lid verstrekt de aanvrager op verzoek van de minister: 
+4.  In aanvulling op het eerste lid verstrekt de aanvrager op verzoek van de minister: 
 
 a. een taxatierapport ter zake van de executiewaarde van de roerende en onroerende zaken die tot zekerheid strekken, dat: 
 
@@ -733,16 +767,7 @@ De minister verstrekt de bank, bedoeld in artikel 2.5.5, eerste lid, een afschri
 
 ####Subsidiabele kosten
 
-1.  De volgende kosten komen in aanmerking voor de garantstelling: 
-
-a. kosten voor de bouw, verwerving of verbetering van onroerende zaken;  
-
-b. kosten voor de koop of huurkoop van machines en materieel, met inbegrip van computerprogrammatuur, tot ten hoogste de marktwaarde van de activa;  
-
-c. algemene kosten in verband met uitgaven als bedoeld in onderdelen a of b, zoals kosten voor architecten, ingenieurs en adviseurs, haalbaarheidsstudies en het verkrijgen van octrooien en licenties;  
-
-d. kosten voor de aankoop van tweedehands materieel, voor zover het gaat om landbouwondernemingen met een zeer beperkte technische startbasis en weinig kapitaal die dankzij de lagere kosten van dergelijk materieel met moderniseringswerkzaamheden kunnen beginnen.     
-2.  Kosten voor aankoop van grond komen tot een hoogte van 10% van de subsidiabele kosten van de investering.  
+De kosten, bedoeld in punt 144, onder a tot en met d, van het Landbouwsteunkader komen in aanmerking voor de garantstelling. 
 
 ### Artikel  2.5.11  
 
@@ -752,7 +777,7 @@ De volgende kosten komen niet in aanmerking voor de garantstelling:
 
 a. bedrijfskosten die de begunstigde normaal zou moeten dragen;  
 
-b. kosten voor activiteiten die verband houden met de uitvoer, bedoeld in artikel 1 van verordening (EG) nr. 1857/2006 van de Commissie van 15 december 2006 betreffende de toepassing van de artikelen 87 en 88 van het Verdrag op staatssteun voor kleine en middelgrote ondernemingen die landbouwproducten produceren, en tot wijziging van Verordening (EG) nr. 70/2001;  
+b. de kosten, bedoeld onder punt 145 van het Landbouwsteunkader;  
 
 c. kosten voor investeringen waarvoor productiebeperkingen of beperkingen op communautaire steunverlening in het kader van de gemeenschappelijke marktordeningen zijn vastgesteld, zoals toeslagrechten en quota;  
 
@@ -811,7 +836,7 @@ c. achtergestelde leningen een looptijd hebben van ten hoogste tien jaar en niet
 
 ####Staatssteun
 
-De subsidie, bedoeld in artikel 2.5.1 bevat staatssteun en wordt gerechtvaardigd door Steunmaatregel SA.37251 (2013/N). 
+De subsidie, bedoeld in artikel 2.5.2 bevat staatssteun en wordt gerechtvaardigd door Steunmaatregel SA.37251 (2013/N) en paragraaf 1.1.1.1. van het landbouwsteunkader. 
 
 ### Artikel  2.5.15  
 

@@ -3,9 +3,9 @@
 ##Verordening van het Productschap Vee en Vlees van 29 oktober 2008, houdende vaststelling van de aan de onder het productschap ressorterende ondernemers op te leggen huishoudelijke heffing voor het jaar 2009 (Verordening huishoudelijke heffingen (PVV) 2009)
 
 Het bestuur van het Productschap Vee en Vlees;  
-Gelet op [artikel 126 van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en de [artikelen 10](../../../../../../../AMvB/instellingsbesluit/productschap/vee/en/vlees/BWBR0016491/README.md) en [12 van het Instellingsbesluit Productschap Vee en Vlees](../../../../../../../AMvB/instellingsbesluit/productschap/vee/en/vlees/BWBR0016491/README.md);
+Gelet op artikel 126 van de Wet op de bedrijfsorganisatie en de artikelen 10 en 12 van het Instellingsbesluit Productschap Vee en Vlees;
 
-Gezien de [Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(pvv)/2005/BWBR0017340/README.md);
+Gezien de Verordening algemene bepalingen heffingen (PVV) 2005;
 Besluit:    
 ###1 
 
@@ -16,7 +16,7 @@ Materieel uitgewerkt per 01-01-2010
 ### Artikel  1  
 Materieel uitgewerkt per 01-01-2010 
 
-Deze verordening neemt over de begripsbepalingen van de [Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(pvv)/2005/BWBR0017340/README.md) en verstaat voorts onder:
+Deze verordening neemt over de begripsbepalingen van de Verordening algemene bepalingen heffingen (PVV) 2005 en verstaat voorts onder:
 
 a.lidstaat : lidstaat van de Europese Gemeenschappen, niet zijnde Nederland;
 
@@ -231,7 +231,7 @@ Materieel uitgewerkt per 01-01-2010
 ###Artikel 11 
 Materieel uitgewerkt per 01-01-2010 
 
-Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de [Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(pvv)/2005/BWBR0017340/README.md).
+Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de Verordening algemene bepalingen heffingen (PVV) 2005.
 
 ###7 
 

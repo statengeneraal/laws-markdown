@@ -3,7 +3,7 @@
 ##Verordening van het Hoofdbedrijfschap voor de Agrarische Groothandel van 21 november 2008, houdende regels ter zake van aan de groothandelaar, de commissionair, de tussenpersoon, de handelskweker of de exporteur in bloemkwekerijproducten op te leggen heffing voor het jaar 2009 (Verordening HBAG heffing bloemen en planten 2009)
 
 Het bestuur van het Hoofdbedrijfschap voor de Agrarische Groothandel,  
-gelet op [artikel 126, van de Wet op de Bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op [artikel 13 van het instellingsbesluit Hoofdbedrijfschap voor de Agrarische Groothandel](../../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md) (Staatsblad 2002 nr. 155), heeft na advies van de HBAG Commissie Bloemkwekerijproducten de volgende verordening vastgesteld:
+gelet op artikel 126, van de Wet op de Bedrijfsorganisatie en op artikel 13 van het instellingsbesluit Hoofdbedrijfschap voor de Agrarische Groothandel (Staatsblad 2002 nr. 155), heeft na advies van de HBAG Commissie Bloemkwekerijproducten de volgende verordening vastgesteld:
 Besluit:    
 ###§ 1 
 
@@ -14,19 +14,19 @@ Materieel uitgewerkt per 08-05-2010
 ###Artikel 1 
 Materieel uitgewerkt per 08-05-2010 
 
-In deze verordening wordt overgenomen de terminologie van het [Instellingsbesluit Hoofdbedrijfschap voor de Agrarische Groothandel](../../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md) en wordt verstaan onder:
+In deze verordening wordt overgenomen de terminologie van het Instellingsbesluit Hoofdbedrijfschap voor de Agrarische Groothandel en wordt verstaan onder:
 
 1.voorzitter: de voorzitter van het Hoofdbedrijfschap voor de Agrarische Groothandel;
 
 2.hoofdbedrijfschap: Hoofdbedrijfschap voor de Agrarische Groothandel (HBAG).
 
-3.HBAG Commissie bloemkwekerijproducten: de op grond van [artikel 5 van het Instellingsbesluit Hoofdbedrijfschap voor de Agrarische Groothandel](../../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md) ingestelde commissie bloemkwekerijproducten;
+3.HBAG Commissie bloemkwekerijproducten: de op grond van artikel 5 van het Instellingsbesluit Hoofdbedrijfschap voor de Agrarische Groothandel ingestelde commissie bloemkwekerijproducten;
 
 4.de ondernemer: de natuurlijke of rechtspersoon die een onderneming drijft dan wel de natuurlijke personen of rechtspersonen die gezamenlijk een onderneming drijven;
 
 5.het begrotingstijdvak: de periode van 1 januari 2009 tot en met 31 december 2009;
 
-6.het instellingsbesluit: het [Instellingsbesluit Hoofdbedrijfschap voor de Agrarische Groothandel](../../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md);
+6.het instellingsbesluit: het Instellingsbesluit Hoofdbedrijfschap voor de Agrarische Groothandel;
 
 7.In deze verordening en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -85,7 +85,7 @@ Het bestuur van het hoofdbedrijfschap neemt de krachtens deze verordening te nem
 ###Artikel 7 
 Materieel uitgewerkt per 08-05-2010 
 
-1. De inning van de heffing op bloemkwekerijproducten (art. 3, lid 1) wordt uitgevoerd door het Productschap Tuinbouw (conform de [Verordening PT Vakheffing bloemkwekerijproducten 2009](../../../../../../../../../pbo/verordening/pt/vakheffing/bloemkwekerijproducten/2009/BWBR0025121/README.md)).
+1. De inning van de heffing op bloemkwekerijproducten (art. 3, lid 1) wordt uitgevoerd door het Productschap Tuinbouw (conform de Verordening PT Vakheffing bloemkwekerijproducten 2009).
 2. Op de handhaving en naleving van deze verordening is de binnen het PT en hoofdbedrijfschap geldende tuchtregeling van toepassing. 
 
 ###Artikel 8 

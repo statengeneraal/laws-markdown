@@ -3,12 +3,12 @@
 ##Besluit van het bestuur van het Productschap Wijn van 5 november 2008 tot aanwijzing van ondernemersorganisaties aan wiens leden contributieaftrek wordt toegestaan (Besluit W aanwijzing ondernemersorganisaties contributie-aftrek 2008)
 
 Het bestuur van het Productschap Wijn;  
-Gelet op [artikel 10A tot en met 10F van de Verordening W financieringsheffing wijn jaar 2008](../../../../../../../../pbo/verordening/w/financieringsheffing/wijn/jaar/2008/BWBR0023275/README.md) en op [artikel 10A tot en met 10F van de Verordening W bestemmingsheffing wijn jaar 2008](../../../../../../../../pbo/verordening/w/bestemmingsheffing/wijn/jaar/2008/BWBR0023586/README.md) en op [artikel 126, zesde lid, van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+Gelet op artikel 10A tot en met 10F van de Verordening W financieringsheffing wijn jaar 2008 en op artikel 10A tot en met 10F van de Verordening W bestemmingsheffing wijn jaar 2008 en op artikel 126, zesde lid, van de Wet op de bedrijfsorganisatie;
 Besluit:    
 
 ### Artikel  1  
 
-Als ondernemersorganisaties, bedoeld in [artikel 10A, tweede lid van de Verordening W financieringsheffing wijn jaar 2008](../../../../../../../../pbo/verordening/w/financieringsheffing/wijn/jaar/2008/BWBR0023275/README.md) en in [artikel 10A, tweede lid van de Verordening W bestemmingsheffing wijn jaar 2008](../../../../../../../../pbo/verordening/w/bestemmingsheffing/wijn/jaar/2008/BWBR0023586/README.md) worden aangewezen: 
+Als ondernemersorganisaties, bedoeld in artikel 10A, tweede lid van de Verordening W financieringsheffing wijn jaar 2008 en in artikel 10A, tweede lid van de Verordening W bestemmingsheffing wijn jaar 2008 worden aangewezen: 
 
 1. Koninklijke Vereniging van Nederlandse Wijnhandelaren (KVNW)  
 

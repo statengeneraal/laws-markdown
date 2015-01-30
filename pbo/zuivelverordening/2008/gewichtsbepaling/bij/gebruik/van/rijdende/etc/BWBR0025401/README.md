@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Zuivel van 29 oktober 2008, houdende regels voor de gewichtsbepaling van boerderijmelk bij gebruik van rijdende melkontvangsten met vloeistofmeetinstallatie (Zuivelverordening 2008, Gewichtsbepaling boerderijmelk bij gebruik van rijdende melkontvangsten met vloeistofmeetinstallatie) 
 
 Het bestuur van het Productschap Zuivel;   
-Gelet op de [artikelen 93](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [102 van de Wet op de bedrijfsorganisatie](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), alsmede de [artikelen 5](../../../../../../../../../../AMvB/instellingsbesluit/productschap/zuivel/BWBR0015162/README.md) en [6 van het Instellingsbesluit Productschap Zuivel](../../../../../../../../../../AMvB/instellingsbesluit/productschap/zuivel/BWBR0015162/README.md);
+Gelet op de artikelen 93, 95 en 102 van de Wet op de bedrijfsorganisatie, alsmede de artikelen 5 en 6 van het Instellingsbesluit Productschap Zuivel;
 Besluit:    
 ###§ 1 
 
@@ -11,17 +11,17 @@ Besluit:
 
 ### Artikel  1  
 
-In deze verordening wordt gebezigd de terminologie van de [Zuivelverordening 2005, Grondslag uitbetaling boerderijmelk](../../../../../../../../../../pbo/zuivelverordening/2005/grondslag/uitbetaling/boerderijmelk/BWBR0017209/README.md). Voorts wordt in deze verordening verstaan onder:
+In deze verordening wordt gebezigd de terminologie van de Zuivelverordening 2005, Grondslag uitbetaling boerderijmelk. Voorts wordt in deze verordening verstaan onder:
 
 | --- | --- |
 |:---|:---|
-|Metrologiewet: |[Wet van 2 februari 2006, houdende regels omtrent meeteenheden en omtrent het in de handel brengen en het gebruik van meetinstrumenten](../../../../../../../../../../wet/metrologiewet/BWBR0019517/README.md). (Stb. 2006, 137). |
-|toezichthoudende instantie: |Een in Nederland gevestigde rechtspersoon die op grond van [artikel 27 van de Metrologiewet](../../../../../../../../../../wet/metrologiewet/BWBR0019517/README.md) door de Minister van Economische Zaken is aangewezen en tot taak heeft gekregen zorg te dragen voor de uitoefening van het toezicht op de naleving van het bepaalde bij of krachtens [hoofdstuk 5](../../../../../../../../../../wet/metrologiewet/BWBR0019517/README.md) en [artikel 39 van de Metrologiewet](../../../../../../../../../../wet/metrologiewet/BWBR0019517/README.md). |
-|weegbrug: |een weegbrug die is voorzien van de wettelijke kenmerken en voldoet aan de nauwkeurigheidseisen voor de ingebruikname van nieuwe werktuigen, zoals bepaald bij of krachtens de [Metrologiewet](../../../../../../../../../../wet/metrologiewet/BWBR0019517/README.md). |
-|tanksnelweger: |weegtank met een afleeseenheid groter dan of gelijk aan 10 kg die is voorzien van de wettelijke kenmerken en die voldoet aan de nauwkeurigheidseisen voor de ingebruikname van nieuwe weegwerktuigen, zoals bepaald bij of krachtens de [Metrologiewet](../../../../../../../../../../wet/metrologiewet/BWBR0019517/README.md) of een weegtank met een afleeseenheid kleiner dan 10 kg die is voorzien van wettelijke kenmerken en die voldoet aan de nauwkeurigheidseisen voor de keuring van reeds in gebruik zijnde weegwerktuigen, zoals bepaald bij of krachtens de [Metrologiewet](../../../../../../../../../../wet/metrologiewet/BWBR0019517/README.md). |
-|typegoedkeuring: |keuring van de vloeistofmeetinstallatie overeenkomstig de [Metrologiewet](../../../../../../../../../../wet/metrologiewet/BWBR0019517/README.md). |
-|erkende keurder : |erkenning verleend aan natuurlijk of rechtspersoon als bedoeld in [artikel 11, lid 1 van de Metrologiewet](../../../../../../../../../../wet/metrologiewet/BWBR0019517/README.md). |
-|keuring: |een overeenstemmingsbeoordeling (keuring) van in gebruik genomen meetinstrumenten als bedoeld in [artikel 7 van de Metrologiewet](../../../../../../../../../../wet/metrologiewet/BWBR0019517/README.md). |
+|Metrologiewet: |Wet van 2 februari 2006, houdende regels omtrent meeteenheden en omtrent het in de handel brengen en het gebruik van meetinstrumenten. (Stb. 2006, 137). |
+|toezichthoudende instantie: |Een in Nederland gevestigde rechtspersoon die op grond van artikel 27 van de Metrologiewet door de Minister van Economische Zaken is aangewezen en tot taak heeft gekregen zorg te dragen voor de uitoefening van het toezicht op de naleving van het bepaalde bij of krachtens hoofdstuk 5 en artikel 39 van de Metrologiewet. |
+|weegbrug: |een weegbrug die is voorzien van de wettelijke kenmerken en voldoet aan de nauwkeurigheidseisen voor de ingebruikname van nieuwe werktuigen, zoals bepaald bij of krachtens de Metrologiewet. |
+|tanksnelweger: |weegtank met een afleeseenheid groter dan of gelijk aan 10 kg die is voorzien van de wettelijke kenmerken en die voldoet aan de nauwkeurigheidseisen voor de ingebruikname van nieuwe weegwerktuigen, zoals bepaald bij of krachtens de Metrologiewet of een weegtank met een afleeseenheid kleiner dan 10 kg die is voorzien van wettelijke kenmerken en die voldoet aan de nauwkeurigheidseisen voor de keuring van reeds in gebruik zijnde weegwerktuigen, zoals bepaald bij of krachtens de Metrologiewet. |
+|typegoedkeuring: |keuring van de vloeistofmeetinstallatie overeenkomstig de Metrologiewet. |
+|erkende keurder : |erkenning verleend aan natuurlijk of rechtspersoon als bedoeld in artikel 11, lid 1 van de Metrologiewet. |
+|keuring: |een overeenstemmingsbeoordeling (keuring) van in gebruik genomen meetinstrumenten als bedoeld in artikel 7 van de Metrologiewet. |
 |herkeuring: |een overeenstemmingsbeoordeling (keuring) van een afgekeurde RMO. |
 |weegcontrole: |Na beëindiging van de melkrit wordt het gewicht van ingenomen melk vastgesteld op een zuivelgekeurde weegbrug. |
 |vloeistofmeetinstallatie: |een installatie voorzien van een pomp, vloeistofmeter en luchtafscheider voor de meting van de bij melkveehouders in te nemen hoeveelheid melk. |
@@ -32,7 +32,7 @@ In deze verordening wordt gebezigd de terminologie van de [Zuivelverordening 200
 
 ###Artikel 2 
 
-1. Indien voor de bepaling van het gewicht van de geleverde hoeveelheid boerderijmelk, als bedoeld in [artikel 7 van Zuivelverordening 2005, Grondslag uitbetaling boerderijmelk](../../../../../../../../../../pbo/zuivelverordening/2005/grondslag/uitbetaling/boerderijmelk/BWBR0017209/README.md), gebruik wordt gemaakt van een rijdende melkontvangst (RMO) met een vloeistofmeetinstallatie voor melk, wordt het bepaalde in deze verordening in acht genomen.
+1. Indien voor de bepaling van het gewicht van de geleverde hoeveelheid boerderijmelk, als bedoeld in artikel 7 van Zuivelverordening 2005, Grondslag uitbetaling boerderijmelk, gebruik wordt gemaakt van een rijdende melkontvangst (RMO) met een vloeistofmeetinstallatie voor melk, wordt het bepaalde in deze verordening in acht genomen.
 2. Met de in deze verordening bedoelde RMO’s met vloeistofmeetinstallatie worden gelijkgesteld RMO’s met vloeistofmeetinstallatie, die rechtmatig zijn vervaardigd of in de handel zijn gebracht in een andere lidstaat van de Europese Unie, dan wel rechtmatig zijn vervaardigd in een staat die partij is bij de overeenkomst inzake de Europese Ruimte, en die aan ten minste gelijkwaardige technische eisen voldoen.
 
 ###§  3 
@@ -69,7 +69,7 @@ h.de basishoeveelheid, zijnde de melkinhoud op het gemiddelde rustniveau van de 
 
 1. De *vloeistofmeetinstallatie* is voorzien van:
 
-a.Een typegoedkeuring overeenkomstig het bepaalde in de [Metrologiewet](../../../../../../../../../../wet/metrologiewet/BWBR0019517/README.md) (alleen voor na september 2008 in de handel gebrachte en/of in gebruik genomen vloeistofmeetinstallaties).
+a.Een typegoedkeuring overeenkomstig het bepaalde in de Metrologiewet (alleen voor na september 2008 in de handel gebrachte en/of in gebruik genomen vloeistofmeetinstallaties).
 
 b.Een melkmeter: de meter registreert zowel de hoeveelheid melk van elke melkveehouder afzonderlijk, als de totale hoeveelheid melk welke per rit wordt ontvangen en is voorzien van de wettelijke kenmerken en waarvan de justeerinrichting door het Nederlands Meetinstituut of een andere daartoe bevoegde instantie is verzegeld. De melkmeter is voorzien van een aanwijsinrichting, waarvan de afleeseenheid < 1 liter is.
 
@@ -108,7 +108,7 @@ C.MelkmeterWanneer de afleesbaarheid > 0,1 liter is, zijn zodanige voorzieningen
 
 ###Artikel 6 
 
-1. De vaststelling en de notering van het volume van elke melkleverantie vinden plaats in liters. Het gebruik van een omrekeningsfactor in de data-apparatuur op de RMO is toegestaan, mits overeenkomstig het bepaalde bij of krachtens de [Metrologiewet](../../../../../../../../../../wet/metrologiewet/BWBR0019517/README.md), op de plaats van inname van de melk de geregistreerde liters en de omrekeningsfactor inzichtelijk zijn.
+1. De vaststelling en de notering van het volume van elke melkleverantie vinden plaats in liters. Het gebruik van een omrekeningsfactor in de data-apparatuur op de RMO is toegestaan, mits overeenkomstig het bepaalde bij of krachtens de Metrologiewet, op de plaats van inname van de melk de geregistreerde liters en de omrekeningsfactor inzichtelijk zijn.
 2. De omrekening van liters naar kilogrammen melk vindt plaats met behulp van een door de ontvanger van melk vast te stellen omrekeningsfactor. Deze factor wordt éénmaal per kalendermaand bepaald en is van toepassing op de daaropvolgende kalendermaand. De ontvanger van boerderijmelk heeft een procedure waarbij de werkwijze van de vaststelling van de omrekeningsfactor aantoonbaar en objectief wordt vastgesteld.De bepaling van de omrekeningsfactor wordt door de ontvanger van boerderijmelk als volgt uitgevoerd:
 
 A.Indien de ontvanger van boerderijmelk gebruik maakt van één RMO wordt voor de desbetreffende in gebruik zijnde RMO in de kalendermaand een omrekeningsfactor vastgesteld door na beëindiging van een melkrit het gewicht van de ontvangen melk door middel van een weegbrug of tanksnelweger in kilogrammen vast te stellen. Dat gewicht wordt gedeeld door het totale aantal gedurende die rit ontvangen liters melk, zoals dat met behulp van de vloeistofmeetinstallatie op de betreffende RMO werd vastgesteld: Bij gebruikmaking van een weegbrug wordt voor de bepaling van de omrekeningsfactor ofwel:
@@ -134,7 +134,7 @@ Indien de omrekeningsfactor voor een RMO kleiner is dan 1,028 dan wel groter is 
 De uniforme omrekeningsfactor wordt éénmaal per uitbetalingsperiode bepaald. Van elke in gebruik zijnde RMO wordt de datum, alsmede het tijdstip waarop de factorvaststelling plaatsvindt vastgelegd. De ontvanger van boerderijmelk draagt er zorg voor dat voor de weging van de RMO ten behoeve van de factorvaststelling een voor de betreffende ontvanger van boerderijmelk representatief aantal leveranties boerderijmelk wordt gehanteerd. Alle op de berekening van de uniforme omrekeningsfactor betrekking hebbende gegevens (datum, liters, kilogrammen en factoren) worden ten genoegen van het COKZ door de ontvanger van boerderijmelk op een duidelijke wijze geadministreerd. 
 
 De bepaling van het gewicht van de van veehouders ontvangen boerderijmelk geschiedt door, met behulp van de omrekeningsfactor voor alle RMO’s, het aantal liters, als bepaald in dit punt, om te rekenen in kg, waarbij hoeveelheden tot een halve kg naar beneden en hoeveelheden van een halve tot één kg naar boven worden afgerond. De gegevens waaruit de omrekeningsfactor wordt afgeleid, worden gedurende ten minste één jaar op het bedrijf van de ontvanger van boerderijmelk bewaard onder vermelding van de data van bepaling van de omrekeningsfactor en de gemiddelde temperatuur van de melk bij aankomst op de zuivelfabriek.
-3. De tanksnelweger of weegbrug die wordt gebruikt voor de bepaling van de omrekeningsfactor voldoet aan de navolgende eisen:Een tanksnelweger met een afleeseenheid groter dan of gelijk aan 10 kg of de weegbrug, als bedoeld in lid 2, onder A, is voorzien van de wettelijke kenmerken en voldoet aan de nauwkeurigheidseisen voor de ingebruikname van nieuwe weegwerktuigen, zoals bepaald bij of krachtens de [Metrologiewet](../../../../../../../../../../wet/metrologiewet/BWBR0019517/README.md). Een tanksnelweger met een afleeseenheid kleiner dan 10 kg als bedoeld in lid 2, punt A is voorzien van de wettelijke kenmerken en voldoet aan de nauwkeurigheidseisen voor de keuring van reeds in gebruik zijnde weegwerktuigen, zoals is bepaald bij of krachtens de [Metrologiewet](../../../../../../../../../../wet/metrologiewet/BWBR0019517/README.md).De weegbrug of de tanksnelweger wordt ten minste éénmaal per 2% jaar onderzocht door de erkende keurder. Indien tijdens dit onderzoek wordt geconstateerd dat niet aan de hiervoor genoemde nauwkeurigheidseisen wordt voldaan, vraagt de ontvanger van boerderijmelk binnen een maand nadat het resultaat van dit onderzoek schriftelijk aan hem is medegedeeld, een nieuw onderzoek aan bij de erkende keurder. Bezit de betrokken apparatuur bij dit onderzoek evenmin de vereiste nauwkeurigheid, dan is het gebruik hiervan voor de bepaling van de omrekeningsfactor niet langer toegestaan.
+3. De tanksnelweger of weegbrug die wordt gebruikt voor de bepaling van de omrekeningsfactor voldoet aan de navolgende eisen:Een tanksnelweger met een afleeseenheid groter dan of gelijk aan 10 kg of de weegbrug, als bedoeld in lid 2, onder A, is voorzien van de wettelijke kenmerken en voldoet aan de nauwkeurigheidseisen voor de ingebruikname van nieuwe weegwerktuigen, zoals bepaald bij of krachtens de Metrologiewet. Een tanksnelweger met een afleeseenheid kleiner dan 10 kg als bedoeld in lid 2, punt A is voorzien van de wettelijke kenmerken en voldoet aan de nauwkeurigheidseisen voor de keuring van reeds in gebruik zijnde weegwerktuigen, zoals is bepaald bij of krachtens de Metrologiewet.De weegbrug of de tanksnelweger wordt ten minste éénmaal per 2% jaar onderzocht door de erkende keurder. Indien tijdens dit onderzoek wordt geconstateerd dat niet aan de hiervoor genoemde nauwkeurigheidseisen wordt voldaan, vraagt de ontvanger van boerderijmelk binnen een maand nadat het resultaat van dit onderzoek schriftelijk aan hem is medegedeeld, een nieuw onderzoek aan bij de erkende keurder. Bezit de betrokken apparatuur bij dit onderzoek evenmin de vereiste nauwkeurigheid, dan is het gebruik hiervan voor de bepaling van de omrekeningsfactor niet langer toegestaan.
 
 ###Artikel 7 
 
@@ -166,7 +166,7 @@ De ontvanger van boerderijmelk beschikt over een kwaliteitssysteem waarmee hij a
 
 ###Artikel 9 
 
-De [Zuivelverordening 2000, Gewichtsbepaling boerderijmelk bij gebruik van rijdende melkontvangsten met volumemeetinrichting](../../../../../../../../../../pbo/zuivelverordening/2000/gewichtsbepaling/bij/gebruik/van/rijdende/etc/BWBR0010870/README.md) wordt ingetrokken.
+De Zuivelverordening 2000, Gewichtsbepaling boerderijmelk bij gebruik van rijdende melkontvangsten met volumemeetinrichting wordt ingetrokken.
 
 ###Artikel 10 
 

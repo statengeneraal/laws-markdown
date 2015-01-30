@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Vis van 2 oktober 2008 tot vaststelling van nadere regels betreffende de interne klachtenprocedure voor de behandeling van klachten over bestuursorganen van het Productschap Vis alsmede tot intrekking van de Verordening PVis klachtenbehandeling 2006 (Verordening PVis klachtenbehandeling 2008)
 
 Het bestuur van het Productschap Vis;  
-Gelet op [titel 9.1 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [artikel 92 van de Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), de [artikelen 5](../../../../../../AMvB/instellingsbesluit/productschap/vis/BWBR0015163/README.md) en [6 van het Instellingsbesluit Productschap Vis](../../../../../../AMvB/instellingsbesluit/productschap/vis/BWBR0015163/README.md) (*Stb.* 2003, 253) en Principe XXII van de Code Goed Bestuur;
+Gelet op titel 9.1 van de Algemene wet bestuursrecht, artikel 92 van de Wet op de bedrijfsorganisatie, de artikelen 5 en 6 van het Instellingsbesluit Productschap Vis (*Stb.* 2003, 253) en Principe XXII van de Code Goed Bestuur;
 Besluit:    
 
 ### Artikel  1  
@@ -14,14 +14,14 @@ In deze verordening en de daarop berustende bepalingen wordt verstaan onder:
 
 | --- | --- |
 |:---|:---|
-|  *a. Instellingsbesluit Productschap Vis:*   | [Besluit van 3 juni 2003, houdende instelling van een productschap voor ondernemingen op het gebied van de visserij, de be- en verwerking van vis en de handel van vis en visproducten](../../../../../../AMvB/instellingsbesluit/productschap/vis/BWBR0015163/README.md) (*Stb.* 2003, 253);  |
-|  *b. productschap:*   | het Productschap Vis, als bedoeld in [artikel 3 van het Instellingsbesluit Productschap Vis](../../../../../../AMvB/instellingsbesluit/productschap/vis/BWBR0015163/README.md);  |
+|  *a. Instellingsbesluit Productschap Vis:*   | Besluit van 3 juni 2003, houdende instelling van een productschap voor ondernemingen op het gebied van de visserij, de be- en verwerking van vis en de handel van vis en visproducten (*Stb.* 2003, 253);  |
+|  *b. productschap:*   | het Productschap Vis, als bedoeld in artikel 3 van het Instellingsbesluit Productschap Vis;  |
 |  *c. voorzitter:*   | de voorzitter van het productschap;  |
 |  *d. secretaris:*   | secretaris van het productschap;  |
 |  *e. dagelijks bestuur:*   | het dagelijks bestuur van het productschap;  |
-|  *f. bestuursorgaan:*   | een bestuursorgaan van het Productschap Vis, zoals genoemd in [artikel 72 van de Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);  |
-|  *g. Awb:*   | [Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);  |
-|  *h. klacht:*   | elke mondelinge of schriftelijke uiting van ongenoegen over een gedraging van het productschap als bedoeld in [artikel 9:1 van de Awb](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), voor zover tegen de gedraging niet de mogelijkheid van bezwaar of beroep als bedoeld in de [Awb](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) openstaat of heeft opengestaan.  |
+|  *f. bestuursorgaan:*   | een bestuursorgaan van het Productschap Vis, zoals genoemd in artikel 72 van de Wet op de bedrijfsorganisatie;  |
+|  *g. Awb:*   | Algemene wet bestuursrecht;  |
+|  *h. klacht:*   | elke mondelinge of schriftelijke uiting van ongenoegen over een gedraging van het productschap als bedoeld in artikel 9:1 van de Awb, voor zover tegen de gedraging niet de mogelijkheid van bezwaar of beroep als bedoeld in de Awb openstaat of heeft opengestaan.  |
 
 ### Artikel  2  
 
@@ -80,8 +80,8 @@ c. een omschrijving van de gedraging waartegen de klacht is gericht en het tijds
 
 1.  De behandeling en afhandeling van de klacht geschiedt door een persoon die niet bij de gedraging waarop de klacht betrekking heeft, betrokken is geweest.   
 2.  Het eerste lid is niet van toepassing, indien de klacht betrekking heeft op een gedraging van het bestuursorgaan zelf dan wel de voorzitter of een lid ervan.   
-3.  Indien het gestelde in lid 2 zich voordoet, kan het bestuursorgaan op basis van [artikel 9:14 Algemene wet bestuurrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) besluiten tot inschakeling van een klachtadviesinstantie, welke kan bestaan uit een adviserend persoon of een adviserende commissie.   
-4.  In de gevallen dat er wordt besloten een klachtadviesinstantie in te schakelen, is [afdeling 9.1.3 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.  
+3.  Indien het gestelde in lid 2 zich voordoet, kan het bestuursorgaan op basis van artikel 9:14 Algemene wet bestuurrecht besluiten tot inschakeling van een klachtadviesinstantie, welke kan bestaan uit een adviserend persoon of een adviserende commissie.   
+4.  In de gevallen dat er wordt besloten een klachtadviesinstantie in te schakelen, is afdeling 9.1.3 van de Algemene wet bestuursrecht van toepassing.  
 
 ### Artikel  8  
 
@@ -93,7 +93,7 @@ a. waarover door de klager reeds eerder een klacht is ingediend die met inachtne
 
 b. die langer dan twaalf maanden voor schriftelijke indiening van de klacht heeft plaatsgevonden;  
 
-c. waartegen de klager bezwaar als bedoeld in [artikel 1:5, eerste lid van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) had kunnen maken en de bezwaartermijn is verstreken;  
+c. waartegen de klager bezwaar als bedoeld in artikel 1:5, eerste lid van de Algemene wet bestuursrecht had kunnen maken en de bezwaartermijn is verstreken;  
 
 d. waartegen door de klager beroep kan worden ingesteld, tenzij die gedraging bestaat uit het niet tijdig nemen van een besluit, of beroep kan worden ingesteld;  
 
@@ -135,7 +135,7 @@ Het bestuursorgaan draagt zorg voor registratie van de bij hem ingediende schrif
 
 ####– Citeertitel, bekendmaking en inwerkingtreding
 
-1.  De [Verordening PVis klachtenbehandeling 2006](../../../../../../pbo/verordening/klachtenregeling/van/het/productschap/vis/2006/BWBR0019690/README.md) wordt ingetrokken.   
+1.  De Verordening PVis klachtenbehandeling 2006 wordt ingetrokken.   
 2.  Deze regeling kan worden aangehaald als Verordening PVis klachtenbehandeling 2008 en treedt in werking met ingang van de dag na publicatie in het Verordeningenblad Bedrijfsorganisatie.  
 
 Rijswijk 

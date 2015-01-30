@@ -3,7 +3,7 @@
 ##Verordening van het bestuur van het Hoofdbedrijfschap Ambachten van 5 november 2008, houdende regels terzake van de aan de ondernemers die het banketbakkersbedrijf uitoefenen op te leggen bestemmingsheffing voor het jaar 2009 (Verordening bestemmingsheffing banketbakkersbedrijf 2009)
 
 Het bestuur van het Hoofdbedrijfschap Ambachten;  
-Gelet op [artikel 95, tweede lid](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [artikel 126 van de Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+Gelet op artikel 95, tweede lid en artikel 126 van de Wet op de bedrijfsorganisatie;
 
 Gezien het advies van de Commissie detailhandel in brood en banket;
 Besluit:    
@@ -59,7 +59,7 @@ b.de Nederlandse Vereniging voor de Bakkerij (NVB);en over het jaar 2008 aan een
 
 a.krachtens haar statutaire doelstelling haar werkzaamheid kan uitstrekken tot ten minste een belangrijk gedeelte van het terrein waarop het bedrijfslichaam een taak heeft te vervullen,
 
-b.voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de [artikelen 3 tot en met 7 van de Verordening representativiteit organisaties](../../../../../../pbo/verordening/representativiteit/organisaties/BWBR0011641/README.md),
+b.voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de artikelen 3 tot en met 7 van de Verordening representativiteit organisaties,
 
 c.tot de werkingssfeer van het bedrijfslichaam behorende leden heeft, waarvan het gewogen aantal niet-onbetekenend is,
 
@@ -78,7 +78,7 @@ Materieel uitgewerkt per 25-12-2009
 ### Artikel  5  
 Materieel uitgewerkt per 25-12-2009 
 
-De [artikelen 5 tot en met 14 van de Heffingsverordening Hoofdbedrijfschap Ambachten 2009](../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/ambachten/2009/BWBR0025541/README.md) zijn van overeenkomstige toepassing.
+De artikelen 5 tot en met 14 van de Heffingsverordening Hoofdbedrijfschap Ambachten 2009 zijn van overeenkomstige toepassing.
 
 ###Artikel 6 
 Materieel uitgewerkt per 25-12-2009 

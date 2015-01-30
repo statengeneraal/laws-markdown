@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Akkerbouw van 13 november 2008 houdende regels ter zake van de aan de onder het Productschap Akkerbouw ressorterende ondernemers op te leggen heffing (Verordening PA financieringsheffing 2009)
 
 Het bestuur van het Productschap Akkerbouw;  
-Gelet op de [artikelen 95](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 eerste en zesde lid van de Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op de [artikelen 8](../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md) en [19 van het Instellingsbesluit akkerbouwproductschappen](../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md);
+Gelet op de artikelen 95 en 126 eerste en zesde lid van de Wet op de bedrijfsorganisatie en op de artikelen 8 en 19 van het Instellingsbesluit akkerbouwproductschappen;
 
 Gehoord de Commissie Teeltaangelegenheden;
 
@@ -214,8 +214,8 @@ b.verwerkt tot aardappelzetmeelderivatenis verplicht aan het productschap een he
 
 ###Artikel 13 
 
-1. De ondernemer is in voorkomend geval verplicht door middel van een opgavenformulier, dat volledig en naar waarheid dient te worden ingevuld, aan het productschap gegevens te verstrekken voor de vaststelling van de heffing en/of voor statistische doeleinden. De [Verordening PA algemene bepalingen 2008](../../../../../../pbo/verordening/pa/algemene/bepalingen/2008/BWBR0024318/README.md) is hierbij van toepassing.
-2. De berekening van de heffing als bedoeld in artikel 2, tweede lid, artikel 6, tweede lid voorzover het graszaad betreft, artikel 6, derde lid, en artikel 12, eerste en derde lid, vindt plaats op basis van de door de ondernemer aan het productschap ingevolge de bij of krachtens de [Verordening PA registratie en verstrekking van gegevens teeltsector 2008](../../../../../../pbo/verordening/pa/registratie/en/verstrekking/van/gegevens/teeltsector/2008/BWBR0024009/README.md) verstrekte gegevens.
+1. De ondernemer is in voorkomend geval verplicht door middel van een opgavenformulier, dat volledig en naar waarheid dient te worden ingevuld, aan het productschap gegevens te verstrekken voor de vaststelling van de heffing en/of voor statistische doeleinden. De Verordening PA algemene bepalingen 2008 is hierbij van toepassing.
+2. De berekening van de heffing als bedoeld in artikel 2, tweede lid, artikel 6, tweede lid voorzover het graszaad betreft, artikel 6, derde lid, en artikel 12, eerste en derde lid, vindt plaats op basis van de door de ondernemer aan het productschap ingevolge de bij of krachtens de Verordening PA registratie en verstrekking van gegevens teeltsector 2008 verstrekte gegevens.
 3. De berekening van de heffing bedoeld in artikel 6, eerste lid en artikel 6, tweede lid, voorzover het wat het laatstgenoemde lid betreft niet om graszaad gaat, vindt plaats op basis van een jaarlijkse opgave door de ondernemer die werkzaamheden verricht in het kweekbedrijf voor landbouwzaaizaden en/of met betrekking tot de be- en verwerking en/of met betrekking tot het in de handel brengen van landbouwzaaizaden.
 4. De opgave ten behoeve van de heffing, bedoeld in artikel 9, dient maandelijks te geschieden, ten behoeve van de heffing in artikel 4 en 5 ieder kwartaal, ten behoeve van de heffing in artikel 10 en 11 ieder half jaar en ten behoeve van artikel 12, tweede en vierde lid, ieder jaar.
 5. Indien in de opgavenperiode geen activiteiten hebben plaats gevonden, dient ook dit te worden opgegeven.
@@ -237,7 +237,7 @@ b.verwerkt tot aardappelzetmeelderivatenis verplicht aan het productschap een he
 
 a.krachtens haar statutaire doelstelling haar werkzaamheid kan uitstrekken tot ten minste een belangrijk gedeelte van het terrein waarop het productschap een taak heeft te vervullen;
 
-b.voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de [artikelen 3 tot en met 7 van de Verordening representativiteit organisaties](../../../../../../pbo/verordening/representativiteit/organisaties/BWBR0011641/README.md) van de Sociaal Economische Raad;
+b.voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de artikelen 3 tot en met 7 van de Verordening representativiteit organisaties van de Sociaal Economische Raad;
 
 c.tot de werkingssfeer van het productschap behorende leden heeft, waarvan het gewogen aantal niet onbetekenend is;
 
@@ -313,7 +313,7 @@ c.zodra de ondernemer zich metterwoon in het buitenland heeft gevestigd of van h
 
 ###Artikel 25 
 
-Aan de ondernemer die niet of niet geheel binnen de in artikel 22 gestelde termijn heeft betaald, kan door de secretaris, namens het bestuur, de wettelijke interest over het nietbetaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md).
+Aan de ondernemer die niet of niet geheel binnen de in artikel 22 gestelde termijn heeft betaald, kan door de secretaris, namens het bestuur, de wettelijke interest over het nietbetaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie.
 
 ###§ 8 
 
@@ -334,7 +334,7 @@ Een besluit als bedoeld in artikel 19, tweede lid wordt bekendgemaakt in het Ver
 
 ###Artikel 28 
 
-Deze verordening treedt in werking met ingang van 1 januari 2009. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 januari 2009, treedt zij in werking met ingang van de tweede dag na de dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt terug tot en met 1 januari 2009, met uitzondering van de toepassing van de [Verordening PA algemene bepalingen 2008](../../../../../../pbo/verordening/pa/algemene/bepalingen/2008/BWBR0024318/README.md) en de [Verordening PA registratie en verstrekking van gegevens teeltsector 2008](../../../../../../pbo/verordening/pa/registratie/en/verstrekking/van/gegevens/teeltsector/2008/BWBR0024009/README.md).
+Deze verordening treedt in werking met ingang van 1 januari 2009. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 januari 2009, treedt zij in werking met ingang van de tweede dag na de dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt terug tot en met 1 januari 2009, met uitzondering van de toepassing van de Verordening PA algemene bepalingen 2008 en de Verordening PA registratie en verstrekking van gegevens teeltsector 2008.
 
 Den Haag 
 13 november 2008   

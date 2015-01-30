@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Akkerbouw van 13 november 2008 houdende vaststelling bestemmingsheffing ten behoeve van het Fonds Teeltaangelegenheden (Heffingsverordening PA fonds teeltaangelegenheden 2009)
 
 Het bestuur van het Productschap Akkerbouw;  
-Gelet op de [artikelen 95](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126, eerste en vierde lid van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op [artikel 8](../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md) en [19 van het Instellingsbesluit akkerbouwproductschappen](../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md);
+Gelet op de artikelen 95 en 126, eerste en vierde lid van de Wet op de bedrijfsorganisatie en op artikel 8 en 19 van het Instellingsbesluit akkerbouwproductschappen;
 
 Gehoord de Commissie Teeltaangelegenheden;
 Besluit:    
@@ -50,7 +50,7 @@ Materieel uitgewerkt per 16-02-2014
 Materieel uitgewerkt per 16-02-2014 
 
 1. De ondernemer, die in enig kalenderjaar een onderneming drijft met als activiteit het telen van akkerbouwgewassen, is verplicht voor dat jaar aan het productschap een heffing te betalen.
-2. De berekening van de heffing vindt plaats op basis van de door de ondernemer aan het productschap ingevolge de bij of krachtens de [Verordening PA registratie en verstrekking van gegevens teelsector 2008](../../../../../../../pbo/verordening/pa/registratie/en/verstrekking/van/gegevens/teeltsector/2008/BWBR0024009/README.md) verstrekte gegevens.
+2. De berekening van de heffing vindt plaats op basis van de door de ondernemer aan het productschap ingevolge de bij of krachtens de Verordening PA registratie en verstrekking van gegevens teelsector 2008 verstrekte gegevens.
 3. De heffing wordt opgelegd naar het grondgebruik en berekend naar de oppervlakte van de bij de onderneming behorende cultuurgrond en bedraagt voor:
 
 | --- | --- | --- |
@@ -138,7 +138,7 @@ De secretaris kan, namens het bestuur, besluiten nota's met een bedrag minder da
 ###Artikel 8 
 Materieel uitgewerkt per 16-02-2014 
 
-Aan de ondernemer die niet of niet geheel binnen de in artikel 5 gestelde termijn heeft betaald, kan door de secretaris, namens het bestuur, de wettelijke interest over het niet-betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling dient te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md).
+Aan de ondernemer die niet of niet geheel binnen de in artikel 5 gestelde termijn heeft betaald, kan door de secretaris, namens het bestuur, de wettelijke interest over het niet-betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling dient te zijn verricht ingevolge de aanmaning bedoeld in artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie.
 
 ###§ 5 
 
@@ -159,7 +159,7 @@ b.niet onder vermelding of aanduiding van de persoon en/of onderneming, waarop z
 ###Artikel 10 
 Materieel uitgewerkt per 16-02-2014 
 
-Deze verordening treedt in werking met ingang van 1 januari 2009.Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 31 december 2008, treedt zij in werking de tweede dag na publicatie in het Verordeningenblad Bedrijfsorganisatie en werkt zij terug tot en met 1 januari 2009, met uitzondering van het in [artikel 11 van de Verordening PA registratie en verstrekking gegevens teeltsector 2008](../../../../../../../pbo/verordening/pa/registratie/en/verstrekking/van/gegevens/teeltsector/2008/BWBR0024009/README.md) bepaalde.
+Deze verordening treedt in werking met ingang van 1 januari 2009.Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 31 december 2008, treedt zij in werking de tweede dag na publicatie in het Verordeningenblad Bedrijfsorganisatie en werkt zij terug tot en met 1 januari 2009, met uitzondering van het in artikel 11 van de Verordening PA registratie en verstrekking gegevens teeltsector 2008 bepaalde.
 
 ###Artikel 11 
 Materieel uitgewerkt per 16-02-2014 
