@@ -3,9 +3,9 @@
 ##Verordening van het bestuur van het Productschap Tuinbouw, d.d. 26 januari 2010, houdende regels ter zake van de bezwaarprocedure van het Productschap Tuinbouw (Verordening PT procedure bezwaarschriften 2009)
 
 Het bestuur vam het Productschap Tuinbouw  
-gelet op [artikel 92 van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+gelet op artikel 92 van de Wet op de bedrijfsorganisatie;
 
-gelet op de [Algemene wet bestuursrecht, hoofdstuk 6](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [7](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), in het bijzonder de [artikelen 6:14](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [7:2](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [7:5](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).
+gelet op de Algemene wet bestuursrecht, hoofdstuk 6 en 7, in het bijzonder de artikelen 6:14, 7:2 en 7:5.
 Besluit:    
 ###§ 1 
 
@@ -20,8 +20,8 @@ Besluit:
 |a. | productschap: | Productschap Tuinbouw; |
 |b. | voorzitter: | voorzitter van de adviescommissie; |
 |c. | secretaris: | secretaris van het productschap; |
-|d. | wet: |[ algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md); |
-|e. | adviescommissie: | adviescommissie als bedoeld in [artikel 7:13 van de wet](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md); |
+|d. | wet: | algemene wet bestuursrecht; |
+|e. | adviescommissie: | adviescommissie als bedoeld in artikel 7:13 van de wet; |
 |f. | unit JZ: | unit Juridische Zaken van het productschap; |
 |g. | bevoegde functionaris: | functionaris die op grond van de Verordening PT bevoegdheden 2009 gemachtigd is om namens de voorzitter van het productschap te beslissen op bij het productschap ingediende bezwaarschriften. |
 
@@ -31,8 +31,8 @@ Besluit:
 
 ###Artikel 2 
 
-1. Deze verordening is van toepassing op ingediende bezwaarschriften welke zijn gericht tegen besluiten of andere handelingen, genomen respectievelijk verricht in het kader van autonome taken van het productschap, bedoeld in [artikel 71 van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), voor zover de aard zich niet daartegen verzet. 
-2. Deze verordening is mede van toepassing op ingediende bezwaarschriften welke zijn gericht tegen besluiten of andere handelingen, genomen respectievelijk verricht in het kader van de [Regeling Medebewind Gemeenschappelijk Landbouwbeleid, artikel 2, onderdeel e](../../../../../../../ministeriele-regeling/regeling/medebewind/gemeenschappelijk/landbouwbeleid/BWBR0020360/README.md) en [artikelen 3 tot en met 4a](../../../../../../../ministeriele-regeling/regeling/medebewind/gemeenschappelijk/landbouwbeleid/BWBR0020360/README.md).
+1. Deze verordening is van toepassing op ingediende bezwaarschriften welke zijn gericht tegen besluiten of andere handelingen, genomen respectievelijk verricht in het kader van autonome taken van het productschap, bedoeld in artikel 71 van de Wet op de bedrijfsorganisatie, voor zover de aard zich niet daartegen verzet. 
+2. Deze verordening is mede van toepassing op ingediende bezwaarschriften welke zijn gericht tegen besluiten of andere handelingen, genomen respectievelijk verricht in het kader van de Regeling Medebewind Gemeenschappelijk Landbouwbeleid, artikel 2, onderdeel e en artikelen 3 tot en met 4a.
 
 ###Artikel 3 
 
@@ -63,7 +63,7 @@ Indien de indiener van het bezwaarschrift niet reageert inzake de op grond van a
 
 1. In afwijking van het vorige artikel kan de unitmanager JZ – in overleg met een functionaris van de betreffende afdeling – besluiten om voor een bepaalde zaak een externe adviescommissie in te stellen. 
 2. Het besluit als bedoeld in het eerste lid is mede afhankelijk van de zwaarte-, mogelijke precedentwerking, de bestuurlijke gevoeligheid van de zaak en de wens van reclamant zelf. 
-3. De adviescommissie is belast met het horen van belanghebbenden bedoeld in [artikel 7:2 van de we](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md)t en het adviseren van de bevoegde functionaris ten behoeve van de beslissing op bezwaar.
+3. De adviescommissie is belast met het horen van belanghebbenden bedoeld in artikel 7:2 van de wet en het adviseren van de bevoegde functionaris ten behoeve van de beslissing op bezwaar.
 
 ###Artikel 8 
 

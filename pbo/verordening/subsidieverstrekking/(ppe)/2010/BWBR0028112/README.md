@@ -3,9 +3,9 @@
 ##Verordening van het bestuur van het Productschap Pluimvee en Eieren van 10 juni 2010 tot het verstrekken van subsidies voor activiteiten op terreinen die tot de taak van het productschap worden gerekend (Verordening subsidieverstrekking (PPE) 2010)
 
 Het bestuur van het Productschap Pluimvee en Eieren;  
-Gelet op de [artikelen 93](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [123 van de Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en de [artikelen 2](../../../../../../AMvB/instellingsbesluit/productschap/pluimvee/en/eieren/BWBR0016490/README.md), [6](../../../../../../AMvB/instellingsbesluit/productschap/pluimvee/en/eieren/BWBR0016490/README.md) en [7 van het Instellingsbesluit Productschap Pluimvee en Eieren](../../../../../../AMvB/instellingsbesluit/productschap/pluimvee/en/eieren/BWBR0016490/README.md),
+Gelet op de artikelen 93, 95 en 123 van de Wet op de bedrijfsorganisatie, en de artikelen 2, 6 en 7 van het Instellingsbesluit Productschap Pluimvee en Eieren,
 
-Gelet op [titel 4.2 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md),
+Gelet op titel 4.2 van de Algemene wet bestuursrecht,
 Besluit:    
 ###§ 1 
 
@@ -32,7 +32,7 @@ In de verordening wordt verstaan onder:
 ###Artikel 2 
 
 1. Deze verordening is van toepassing op alle door het productschap te verstrekken subsidies. 
-2. Op per kalenderjaar aan rechtspersonen te verstrekken subsidies is [afdeling 4.2.8 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing met inachtneming van het bepaalde in deze verordening.
+2. Op per kalenderjaar aan rechtspersonen te verstrekken subsidies is afdeling 4.2.8 van de Algemene wet bestuursrecht van toepassing met inachtneming van het bepaalde in deze verordening.
 
 ###Artikel 3 
 

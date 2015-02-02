@@ -15,8 +15,8 @@ Wijzigt de Kieswet.
 
 ### Artikel  II  
 
-1.  Binnen dertig dagen nadat deze wet in werking is getreden, verstrekken burgemeester en wethouders van ’s-Gravenhage aan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties de gegevens van het bestand, bedoeld in [artikel D 3a, eerste lid, van de Kieswet](../../../../../../../../../../../../wet/kieswet/BWBR0004627/README.md), zoals dat lid luidde voordat deze wet in werking treedt, voor zover het de registratie betreft van ingezetenen van Aruba, Curaçao en Sint Maarten.   
-2.  Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties neemt de gegevens, bedoeld in het eerste lid, op in het bestand, bedoeld in [artikel D 3c, tweede lid, van de Kieswet](../../../../../../../../../../../../wet/kieswet/BWBR0004627/README.md).  
+1.  Binnen dertig dagen nadat deze wet in werking is getreden, verstrekken burgemeester en wethouders van ’s-Gravenhage aan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties de gegevens van het bestand, bedoeld in artikel D 3a, eerste lid, van de Kieswet, zoals dat lid luidde voordat deze wet in werking treedt, voor zover het de registratie betreft van ingezetenen van Aruba, Curaçao en Sint Maarten.   
+2.  Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties neemt de gegevens, bedoeld in het eerste lid, op in het bestand, bedoeld in artikel D 3c, tweede lid, van de Kieswet.  
 
 ### Artikel  IIa  
 
@@ -36,7 +36,6 @@ Wijzigt de Reparatiewet BZK 2010.
 Wijzigt de Algemene wet bestuursrecht. 
 
 ### Artikel  V  
-Treedt in werking op een nader te bepalen tijdstip 
 
 Wijzigt de Wet openbare lichamen Bonaire, Sint Eustatius en Saba. 
 
@@ -45,7 +44,6 @@ Wijzigt de Wet openbare lichamen Bonaire, Sint Eustatius en Saba.
 Wijzigt de Gemeentewet. 
 
 ### Artikel  VII  
-Treedt in werking op een nader te bepalen tijdstip 
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen en onderdelen daarvan verschillend kan worden vastgesteld. 
 

@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Zuivel van 27 oktober 2010 houdende regels voor het verstrekken van subsidies voor activiteiten op het werkterrein van het productschap
 
 Het bestuur van het Productschap Zuivel;  
-Gelet op de [artikelen 93](../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [123 van de Wet op de bedrijfsorganisatie](../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op [Titel 4.2 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);
+Gelet op de artikelen 93, 95, 123 van de Wet op de bedrijfsorganisatie en op Titel 4.2 van de Algemene wet bestuursrecht;
 Besluit:    
 ###§ 1 
 
@@ -22,12 +22,12 @@ In deze verordening wordt verstaan onder:
 |e. |voorschot |: een gedeelte van het bedrag aan verleende subsidie, dat wordt betaald aan de subsidieontvanger voordat de beschikking tot vaststelling van de subsidie is genomen; |
 |f. |begroting |: de door het bestuur vastgestelde en door de Sociaal-Economische Raad goedgekeurde begroting van inkomsten en uitgaven van het productschap voor een bepaald jaar; |
 |g. |subsidieplafond |: bedrag dat gedurende een bepaald tijdvak ten hoogste beschikbaar is voor de verstrekking van subsidies; |
-|h. |accountant |: een registeraccountant, zoals bedoeld in [artikel 55](../../../../../wet/wet/op/de/registeraccountants/BWBR0002374/README.md), juncto [artikel 58 van de Wet op de Registeraccountants](../../../../../wet/wet/op/de/registeraccountants/BWBR0002374/README.md) of een accountants-administratieconsulent, zoals bedoeld in [artikel 36](../../../../../wet/wet/op/de/accountants-administratieconsulenten/BWBR0002856/README.md), juncto [artikel 38 van deWet op de Accountants-administratieconsulenten](../../../../../wet/wet/op/de/accountants-administratieconsulenten/BWBR0002856/README.md): |
+|h. |accountant |: een registeraccountant, zoals bedoeld in artikel 55, juncto artikel 58 van de Wet op de Registeraccountants of een accountants-administratieconsulent, zoals bedoeld in artikel 36, juncto artikel 38 van deWet op de Accountants-administratieconsulenten: |
 
 ###Artikel 2 
 
 1. Deze verordening is van toepassing op alle door het productschap te verstrekken subsidies. 
-2. Op per kalenderjaar aan rechtspersonen te verstrekken subsidies is [afdeling 4.2.8 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing met inachtneming van het bepaalde in deze verordening.
+2. Op per kalenderjaar aan rechtspersonen te verstrekken subsidies is afdeling 4.2.8 van de Algemene wet bestuursrecht van toepassing met inachtneming van het bepaalde in deze verordening.
 
 ###Artikel 3 
 

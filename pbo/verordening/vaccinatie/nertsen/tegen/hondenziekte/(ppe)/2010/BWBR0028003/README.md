@@ -3,9 +3,9 @@
 ##Verordening van het Productschap Pluimvee en Eieren van 8 april 2010 houdende regels ter zake van de vaccinatie van nertsen tegen hondenziekte (Verordening vaccinatie nertsen tegen hondenziekte (PPE) 2010)
 
 Het bestuur van het Productschap Pluimvee en Eieren;  
-Gelet op de [artikelen 93](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [102](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [104 van de Wet op de bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en de [artikelen 6](../../../../../../../../../AMvB/instellingsbesluit/productschap/pluimvee/en/eieren/BWBR0016490/README.md) en [7 van het Instellingsbesluit Productschap Pluimvee en Eieren](../../../../../../../../../AMvB/instellingsbesluit/productschap/pluimvee/en/eieren/BWBR0016490/README.md);
+Gelet op de artikelen 93, 95, 102 en 104 van de Wet op de bedrijfsorganisatie, en de artikelen 6 en 7 van het Instellingsbesluit Productschap Pluimvee en Eieren;
 
-Gezien de [Wet tuchtrechtspraak bedrijfsorganisatie 2004](../../../../../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md);
+Gezien de Wet tuchtrechtspraak bedrijfsorganisatie 2004;
 Besluit:    
 
 ####Definities
@@ -37,7 +37,7 @@ In deze verordening wordt verstaan onder:
 3. In het geval een fokdier op jongere leeftijd dan 12 maanden al eenmaal is gevaccineerd tegen de hondenziekte, zorgt de nertsenhouder er voor dat dit fokdier uiterlijk binnen twaalf maanden na de eerste vaccinatie voor een tweede keer wordt gevaccineerd tegen de hondenziekte, met inachtneming van het bepaalde in het zesde lid.
 4. De nertsenhouder zorgt er voor dat een door hem gehouden fokdier uiterlijk op een leeftijd van 24 maanden twee maal is gevaccineerd tegen de hondenziekte, met inachtneming van het bepaalde in het zesde lid.
 5. Vervallen.
-6. De nertsen worden in overeenstemming met het in de [Wet uitoefening diergeneeskunde](../../../../../../../../../wet/wet/op/de/uitoefening/van/de/diergeneeskunde/1990/BWBR0004730/README.md) bepaalde en met een conform de [Diergeneesmiddelenwet](../../../../../../../../../wet/diergeneesmiddelenwet/BWBR0003818/README.md) voor dat doel geregistreerd vaccin, tegen de hondenziekte gevaccineerd.
+6. De nertsen worden in overeenstemming met het in de Wet uitoefening diergeneeskunde bepaalde en met een conform de Diergeneesmiddelenwet voor dat doel geregistreerd vaccin, tegen de hondenziekte gevaccineerd.
 7. De nertsenhouder is verplicht verschijnselen die kunnen duiden op de aanwezigheid van hondenziekte op zijn bedrijf, dan wel enige verdenking van de aanwezigheid van de hondenziekte onverwijld te melden of namens hem door zijn dierenarts te laten melden aan de GD.
 8. De voorzitter kan de GD verzoeken om namens hem onderzoek te doen naar de aanwezigheid van hondenziekte op een locatie waar de nertsenhouderij wordt uitgeoefend.
 
@@ -72,7 +72,7 @@ d.het ingevulde formulier, bedoeld in het vijfde lid.
 
 ###Artikel 5 
 
-1. De nertsenhouder laat zich jaarlijks controleren op de naleving van het bepaalde in deze verordening door een door de voorzitter op voet van de voorwaarden als bepaald in het [Besluit erkenningsvoorwaarden controle-instanties Verordening welzijnsnormen nertsen (PPE) 2003, Verordening welzijnsnormen vleeskalkoenen 2003 en Verordening welzijnsnormen vleeskuikenouderdieren 2003 (PPE) 2006](../../../../../../../../../pbo/besluit/erkenningsvoorwaarden/controle-instanties/verordening/etc/BWBR0019559/README.md) erkende private controleorganisatie. 
+1. De nertsenhouder laat zich jaarlijks controleren op de naleving van het bepaalde in deze verordening door een door de voorzitter op voet van de voorwaarden als bepaald in het Besluit erkenningsvoorwaarden controle-instanties Verordening welzijnsnormen nertsen (PPE) 2003, Verordening welzijnsnormen vleeskalkoenen 2003 en Verordening welzijnsnormen vleeskuikenouderdieren 2003 (PPE) 2006 erkende private controleorganisatie. 
 2. De nertsenhouder draagt er voor zorg dat de controlebevindingen zo spoedig mogelijk en uiterlijk binnen een maand na de uitgevoerde controle, door de controleorganisatie als bedoeld in het eerste lid, schriftelijk aan de voorzitter worden verzonden. 
 
 ####Toezicht
@@ -87,7 +87,7 @@ d.het ingevulde formulier, bedoeld in het vijfde lid.
 
 ###Artikel 7 
 
-Op overtreding van het bepaalde bij of krachtens deze verordening worden tuchtrechtelijke maatregelen gesteld zoals voorzien in de [Wet tuchtrechtspraak bedrijfsorganisatie 2004](../../../../../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md). 
+Op overtreding van het bepaalde bij of krachtens deze verordening worden tuchtrechtelijke maatregelen gesteld zoals voorzien in de Wet tuchtrechtspraak bedrijfsorganisatie 2004. 
 
 ####Gegevensverstrekking
 

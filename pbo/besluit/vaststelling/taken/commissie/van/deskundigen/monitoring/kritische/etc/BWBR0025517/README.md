@@ -3,9 +3,9 @@
 ##Besluit van het Productschap Vee en Vlees van 11 februari 2009, houdende de vaststelling van de taken van de Commissie van Deskundigen in het kader van de Verordening monitoring kritische stoffen bij kalveren (PVV) 2008 (Besluit vaststelling taken Commissie van Deskundigen monitoring kritische stoffen bij kalveren (PVV) 2009)
 
 Het bestuur van het Productschap Vee en Vlees;  
-Gelet op [artikel 88 van de Wet op de bedrijfsorganisatie](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md),
+Gelet op artikel 88 van de Wet op de bedrijfsorganisatie,
 
-Gelet op [artikel 9, eerste lid, van de Verordening monitoring kritische stoffen bij kalveren (PVV) 2008](../../../../../../../../../../../pbo/verordening/monitoring/kritische/stoffen/bij/kalveren/(pvv)/2008/BWBR0025508/README.md);
+Gelet op artikel 9, eerste lid, van de Verordening monitoring kritische stoffen bij kalveren (PVV) 2008;
 Besluit:     
 ###§ 1 
 
@@ -13,12 +13,12 @@ Besluit:
 
 ###Artikel 1 
 
-1. In dit besluit worden de definities van de [Verordening monitoring kritische stoffen bij kalveren (PVV) 2008](../../../../../../../../../../../pbo/verordening/monitoring/kritische/stoffen/bij/kalveren/(pvv)/2008/BWBR0025508/README.md) overgenomen. 
+1. In dit besluit worden de definities van de Verordening monitoring kritische stoffen bij kalveren (PVV) 2008 overgenomen. 
 2. Voorts wordt verstaan onder: 
 
-a.verordening : [Verordening monitoring kritische stoffen bij kalveren (PVV) 2008](../../../../../../../../../../../pbo/verordening/monitoring/kritische/stoffen/bij/kalveren/(pvv)/2008/BWBR0025508/README.md); 
+a.verordening : Verordening monitoring kritische stoffen bij kalveren (PVV) 2008; 
 
-b.commissie : Commissie van Deskundigen als bedoeld in [artikel 9, eerste lid van de verordening](../../../../../../../../../../../pbo/verordening/monitoring/kritische/stoffen/bij/kalveren/(pvv)/2008/BWBR0025508/README.md). 
+b.commissie : Commissie van Deskundigen als bedoeld in artikel 9, eerste lid van de verordening. 
 
 ###§ 2 
 
@@ -28,17 +28,17 @@ b.commissie : Commissie van Deskundigen als bedoeld in [artikel 9, eerste lid va
 
 1. De commissie: 
 
-a.adviseert het bestuur omtrent het door hem vast te stellen monitoringsprogramma met inbegrip van controle- en analysestrategie, als bedoeld in [artikel 10, eerste lid, van de verordening](../../../../../../../../../../../pbo/verordening/monitoring/kritische/stoffen/bij/kalveren/(pvv)/2008/BWBR0025508/README.md); 
+a.adviseert het bestuur omtrent het door hem vast te stellen monitoringsprogramma met inbegrip van controle- en analysestrategie, als bedoeld in artikel 10, eerste lid, van de verordening; 
 
 b.kan in verband met gewijzigde inzichten of naar aanleiding van nieuwe ontwikkelingen op het gebied van (niet)toegestane stoffen, residuen of illegale behandelingen, een gewijzigd advies overleggen aan de voorzitter; 
 
-c.voert de risico-analyse uit voor basismonitoring voor de boerderijfase en slachtfase, als bedoeld in [artikel 9, vierde lid, van de verordening](../../../../../../../../../../../pbo/verordening/monitoring/kritische/stoffen/bij/kalveren/(pvv)/2008/BWBR0025508/README.md); 
+c.voert de risico-analyse uit voor basismonitoring voor de boerderijfase en slachtfase, als bedoeld in artikel 9, vierde lid, van de verordening; 
 
 d.adviseert over intensiteit van bemonstering en analyse voor onder meer de monitoring kritische stoffen, de bewaartermijnen van monsters, de te analyseren matrici. Een en ander is afhankelijk van meegekregen minimale randvoorwaarden welke kunnen voortvloeien uit sectorale inspanningen van erkende kwaliteitssystemen en bestaande activiteiten in relatie tot verboden stoffen; 
 
 e.kan additioneel onderzoek verrichten bij niet conforme waarden, voortkomend uit de basismonitoring. Dit type onderzoek wordt slechts uitgevoerd op verzoek van het bedrijfsleven, dat hiervoor additionele middelen beschikbaar dient te stellen; 
 
-f.kan monstermateriaal opvragen van de erkende kwaliteitssystemen en uit de basismonitoring ten behoeve van additioneel onderzoek naar onbekende stoffen, vallend onder A. in de [bijlage van de verordening](../../../../../../../../../../../pbo/verordening/monitoring/kritische/stoffen/bij/kalveren/(pvv)/2008/BWBR0025508/README.md); 
+f.kan monstermateriaal opvragen van de erkende kwaliteitssystemen en uit de basismonitoring ten behoeve van additioneel onderzoek naar onbekende stoffen, vallend onder A. in de bijlage van de verordening; 
 
 g.stelt achteraf operationele rapportage op van uitgevoerde werkzaamheden in de kwaliteitssystemen en bij de basismonitoring tezamen; 
 
@@ -111,7 +111,7 @@ De commissie kan, ter ondersteuning van de commissie bij het uitvoeren van de in
 ###Artikel 8 
 
 1. Het bestuur kent de commissie, ten behoeve van de uitvoering van zijn taken, jaarlijks een budget toe. 
-2. De commissie beheert het in het eerste lid bedoelde budget, binnen de kaders van zijn werkzaamheden, naar eigen inzicht, met dien verstande dat de vergoedingen voor de in [artikel 12, tweede lid, van de verordening](../../../../../../../../../../../pbo/verordening/monitoring/kritische/stoffen/bij/kalveren/(pvv)/2008/BWBR0025508/README.md) bedoelde leden, de in artikel 4 bedoelde deskundigen en de in artikel 5 bedoelde leden van werkgroepen, niet uit dit budget worden gefinancierd. 
+2. De commissie beheert het in het eerste lid bedoelde budget, binnen de kaders van zijn werkzaamheden, naar eigen inzicht, met dien verstande dat de vergoedingen voor de in artikel 12, tweede lid, van de verordening bedoelde leden, de in artikel 4 bedoelde deskundigen en de in artikel 5 bedoelde leden van werkgroepen, niet uit dit budget worden gefinancierd. 
 
 ###§ 9 
 

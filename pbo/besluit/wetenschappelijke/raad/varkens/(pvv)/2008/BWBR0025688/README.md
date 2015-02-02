@@ -13,19 +13,19 @@ dat het tevens wenselijk is dat een dergelijke raad zelfstandig onderzoeksactivi
 
 dat de samenstelling en werkwijze van een dergelijke raad regeling behoeft. 
 
-Gelet op [artikel 88 van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md),
+Gelet op artikel 88 van de Wet op de bedrijfsorganisatie,
 
-Gelet op [artikel 9 van de Verordening monitoring kritische stoffen bij varkens (PVV) 2008](../../../../../../../../pbo/verordening/monitoring/kritische/stoffen/bij/varkens/(pvv)/2008/BWBR0025677/README.md);
+Gelet op artikel 9 van de Verordening monitoring kritische stoffen bij varkens (PVV) 2008;
 Besluit:    
 
 ###Artikel 1 
 
-1. In dit besluit worden de definities van de [Verordening monitoring kritische stoffen bij varkens (PVV) 2008](../../../../../../../../pbo/verordening/monitoring/kritische/stoffen/bij/varkens/(pvv)/2008/BWBR0025677/README.md) overgenomen. 
+1. In dit besluit worden de definities van de Verordening monitoring kritische stoffen bij varkens (PVV) 2008 overgenomen. 
 2. Voorts wordt verstaan onder: 
 
 a.raad : Wetenschappelijke Raad Varkens; 
 
-b.verordening : [Verordening monitoring kritische stoffen bij varkens (PVV) 2008](../../../../../../../../pbo/verordening/monitoring/kritische/stoffen/bij/varkens/(pvv)/2008/BWBR0025677/README.md). 
+b.verordening : Verordening monitoring kritische stoffen bij varkens (PVV) 2008. 
 
 ####Taken en bevoegdheden
 
@@ -33,17 +33,17 @@ b.verordening : [Verordening monitoring kritische stoffen bij varkens (PVV) 2008
 
 1. De raad: 
 
-a.adviseert het bestuur omtrent het door hem vast te stellen monitoringsprogramma met inbegrip van controle- en analysestrategie, als bedoeld in [artikel 9, eerste lid van de verordening](../../../../../../../../pbo/verordening/monitoring/kritische/stoffen/bij/varkens/(pvv)/2008/BWBR0025677/README.md); 
+a.adviseert het bestuur omtrent het door hem vast te stellen monitoringsprogramma met inbegrip van controle- en analysestrategie, als bedoeld in artikel 9, eerste lid van de verordening; 
 
 b.kan in verband met gewijzigde inzichten of naar aanleiding van nieuwe ontwikkelingen op het gebied van (niet)toegestane stoffen, residuen of illegale behandelingen, een gewijzigd advies overleggen aan de voorzitter; 
 
-c.voert de risico-analyse uit voor basismonitoring voor de boerderijfase en slachtfase, als bedoeld in [artikel 9, vierde lid, van de verordening](../../../../../../../../pbo/verordening/monitoring/kritische/stoffen/bij/varkens/(pvv)/2008/BWBR0025677/README.md); 
+c.voert de risico-analyse uit voor basismonitoring voor de boerderijfase en slachtfase, als bedoeld in artikel 9, vierde lid, van de verordening; 
 
 d.adviseert over intensiteit van bemonstering en analyse voor onder meer de monitoring kritische stoffen, de bewaartermijnen van monsters, de te analyseren matrici. Een en ander is afhankelijk van meegekregen minimale randvoorwaarden welke kunnen voortvloeien uit sectorale inspanningen van erkende kwaliteitssystemen en bestaande activiteiten in relatie tot verboden stoffen; 
 
 e.kan additioneel onderzoek verrichten bij niet conforme waarden, voortkomend uit de basismonitoring. Dit type onderzoek wordt slechts uitgevoerd op verzoek van het bedrijfsleven, dat hiervoor additionele middelen beschikbaar dient te stellen; 
 
-f.kan monstermateriaal opvragen van de erkende kwaliteitssystemen en uit de basismonitoring ten behoeve van additioneel onderzoek naar onbekende stoffen, vallend onder A. in de [bijlage van de verordening](../../../../../../../../pbo/verordening/monitoring/kritische/stoffen/bij/varkens/(pvv)/2008/BWBR0025677/README.md); 
+f.kan monstermateriaal opvragen van de erkende kwaliteitssystemen en uit de basismonitoring ten behoeve van additioneel onderzoek naar onbekende stoffen, vallend onder A. in de bijlage van de verordening; 
 
 g.stelt achteraf operationele rapportage op van uitgevoerde werkzaamheden in de kwaliteitssystemen en bij de basismonitoring tezamen; 
 

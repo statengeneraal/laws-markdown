@@ -1047,7 +1047,7 @@ a. de lasten van de algemene ouderdomsverzekering en van de vrijwillige algemene
 
 b. de lasten van de regeling, vervat in hoofdstuk VIII van de Algemene Ouderdomswet;  
 
-c.vervallen;
+c.de lasten van de inkomensondersteuning, bedoeld in artikel 33a van de Algemene Ouderdomswet, en de daaraan verbonden uitvoeringskosten;
 
 d. de bijdrage, bedoeld in artikel 87a.   
 

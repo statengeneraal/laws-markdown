@@ -3,7 +3,7 @@
 ##Besluit van het Productschap Vee en Vlees van 10 december 2008, houdende erkenningsvoorwaarden voor privaatrechtelijke kwaliteitssystemen met betrekking tot monitoring kritische stoffen bij varkens (Besluit erkenningsvoorwaarden kwaliteitssystemen monitoring kritische stoffen bij varkens (PVV) 2008)
 
 Het bestuur van het Productschap Vee en Vlees;  
-Gelet op [artikel 104, derde lid, van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [artikel 8, derde lid, van de Verordening monitoring kritische stoffen bij varkens (PVV) 2008](../../../../../../../../pbo/verordening/monitoring/kritische/stoffen/bij/varkens/(pvv)/2008/BWBR0025677/README.md);
+Gelet op artikel 104, derde lid, van de Wet op de bedrijfsorganisatie en artikel 8, derde lid, van de Verordening monitoring kritische stoffen bij varkens (PVV) 2008;
 Besluit:     
 ###§ 1 
 
@@ -11,12 +11,12 @@ Besluit:
 
 ###Artikel 1 
 
-1. In dit besluit wordt aangesloten bij de definities, zoals gegeven in de [Verordening monitoring kritische stoffen bij varkens (PVV) 2008](../../../../../../../../pbo/verordening/monitoring/kritische/stoffen/bij/varkens/(pvv)/2008/BWBR0025677/README.md). 
+1. In dit besluit wordt aangesloten bij de definities, zoals gegeven in de Verordening monitoring kritische stoffen bij varkens (PVV) 2008. 
 2. Voorts wordt verstaan onder: 
 
-a.verordening : [Verordening monitoring kritische stoffen bij varkens (PVV) 2008](../../../../../../../../pbo/verordening/monitoring/kritische/stoffen/bij/varkens/(pvv)/2008/BWBR0025677/README.md); 
+a.verordening : Verordening monitoring kritische stoffen bij varkens (PVV) 2008; 
 
-b.bijlage : [bijlage bij de verordening](../../../../../../../../pbo/verordening/monitoring/kritische/stoffen/bij/varkens/(pvv)/2008/BWBR0025677/README.md); 
+b.bijlage : bijlage bij de verordening; 
 
 c.raad : Wetenschappelijke Raad Varkens; 
 
@@ -30,14 +30,14 @@ e.CI : Certificerende Instantie.
 
 ###Artikel 2 
 
-1. Een verzoek om erkenning als bedoeld in [artikel 8, derde lid, van de verordening](../../../../../../../../pbo/verordening/monitoring/kritische/stoffen/bij/varkens/(pvv)/2008/BWBR0025677/README.md) wordt ingediend door de regelinghouder. 
+1. Een verzoek om erkenning als bedoeld in artikel 8, derde lid, van de verordening wordt ingediend door de regelinghouder. 
 2. Een aanvraag als bedoeld in het eerste lid, gaat vergezeld van: 
 
 a.een omschrijving van het kwaliteitssysteem; 
 
 b.de risicoanalyse zoals opgesteld uit hoofde van het kwaliteitssysteem; 
 
-c.een controle- en analysestrategie als bedoeld in [artikel 10, eerste lid van de verordening](../../../../../../../../pbo/verordening/monitoring/kritische/stoffen/bij/varkens/(pvv)/2008/BWBR0025677/README.md); 
+c.een controle- en analysestrategie als bedoeld in artikel 10, eerste lid van de verordening; 
 
 d.een informatieprotocol als bedoeld in artikel 7, eerste lid; en 
 
@@ -49,7 +49,7 @@ e.schriftelijke gegevens ten bewijze van het voldoen aan de voorwaarden voor erk
 
 ###Artikel 3 
 
-1. Alvorens een erkenning te verlenen, laat de voorzitter een toets uitvoeren waarbij zowel de opzet als de werking van het kwaliteitssysteem wordt getoetst op conformiteit met het bij of krachtens de [verordening](../../../../../../../../pbo/verordening/monitoring/kritische/stoffen/bij/varkens/(pvv)/2008/BWBR0025677/README.md) bepaalde. 
+1. Alvorens een erkenning te verlenen, laat de voorzitter een toets uitvoeren waarbij zowel de opzet als de werking van het kwaliteitssysteem wordt getoetst op conformiteit met het bij of krachtens de verordening bepaalde. 
 2. De in het vorige lid bedoelde toets wordt uitgevoerd door een door de voorzitter aangewezen organisatie of deskundige. 
 3. De kosten van de behandeling van de aanvraag en de uitvoering van de toets, bedoeld in het vorige lid, zijn voor rekening van de regelinghouder en bedragen ten hoogste € 5.000. 
 
@@ -60,16 +60,16 @@ e.schriftelijke gegevens ten bewijze van het voldoen aan de voorwaarden voor erk
 ###Artikel 4 
 
 1. Deelname aan het kwaliteitssysteem is mogelijk op vrijwillige basis, door middel van een schriftelijke overeenkomst met de regelinghouder of een certificerende instantie, waarbij de deelnemer zich verbindt het bepaalde bij of krachtens het kwaliteitssysteem na te leven. 
-2. De regelinghouder draagt ervoor zorg dat alle gecertificeerde deelnemers van het kwaliteitssysteem, bij het productschap worden aangemeld, ter registratie in het register monitoring kritische stoffen, als bedoeld in [artikel 4, eerste lid, van de verordening](../../../../../../../../pbo/verordening/monitoring/kritische/stoffen/bij/varkens/(pvv)/2008/BWBR0025677/README.md). 
+2. De regelinghouder draagt ervoor zorg dat alle gecertificeerde deelnemers van het kwaliteitssysteem, bij het productschap worden aangemeld, ter registratie in het register monitoring kritische stoffen, als bedoeld in artikel 4, eerste lid, van de verordening. 
 
 ###Artikel 5 
 
-1. Het kwaliteitssysteem biedt voldoende waarborgen ter voorkoming van illegale behandelingen, voor de afwezigheid van niet-toegestane stoffen en voor de afwezigheid van residuen als bedoeld in de [bijlage van de verordening](../../../../../../../../pbo/verordening/monitoring/kritische/stoffen/bij/varkens/(pvv)/2008/BWBR0025677/README.md) boven de toegestane maximumwaarden. 
+1. Het kwaliteitssysteem biedt voldoende waarborgen ter voorkoming van illegale behandelingen, voor de afwezigheid van niet-toegestane stoffen en voor de afwezigheid van residuen als bedoeld in de bijlage van de verordening boven de toegestane maximumwaarden. 
 2. In het bijzonder bevat het kwaliteitssysteem voldoende waarborgen ten aanzien van de naleving door deelnemers van wettelijke normen, waaronder in ieder geval: 
 
-a.de [verordening](../../../../../../../../pbo/verordening/monitoring/kritische/stoffen/bij/varkens/(pvv)/2008/BWBR0025677/README.md), alsmede de [bijlage van de verordening](../../../../../../../../pbo/verordening/monitoring/kritische/stoffen/bij/varkens/(pvv)/2008/BWBR0025677/README.md); 
+a.de verordening, alsmede de bijlage van de verordening; 
 
-b.de [Regeling identificatie en registratie van dieren 2003](../../../../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md). 
+b.de Regeling identificatie en registratie van dieren 2003. 
 
 ###Artikel 6 
 
@@ -94,7 +94,7 @@ e.de bemonsterde varkens door of namens de CI uniek geïdentificeerd en geregist
 
 f.op de CI's in het kader van hun accreditaat toezicht wordt uitgeoefend door de Raad voor Accreditatie en de toetsresultaten van dit toezicht beschikbaar zijn voor de voorzitter en de door hem aangewezen instanties; 
 
-g.voor het onderzoek van monsters die binnen het kwaliteitssysteem zijn genomen, gebruik wordt gemaakt van een laboratorium dat door de voorzitter is erkend als bedoeld in [artikel 11, tweede lid, van de verordening](../../../../../../../../pbo/verordening/monitoring/kritische/stoffen/bij/varkens/(pvv)/2008/BWBR0025677/README.md); 
+g.voor het onderzoek van monsters die binnen het kwaliteitssysteem zijn genomen, gebruik wordt gemaakt van een laboratorium dat door de voorzitter is erkend als bedoeld in artikel 11, tweede lid, van de verordening; 
 
 h.medewerking wordt verleend aan controles uitgevoerd door de Raad voor Accreditatie, de voorzitter of een door hem aangewezen toetsinstantie ter toetsing van het kwaliteitssysteem aan de in dit besluit gestelde voorwaarden. 
 
@@ -129,7 +129,7 @@ f.voorschriften omtrent het niet afvoeren van varkens of producten van varkens, 
 
 ###Artikel 9 
 
-Het kwaliteitssysteem beschikt over een controle- en analysestrategie als bedoeld in [artikel 10, eerste lid, van de verordening](../../../../../../../../pbo/verordening/monitoring/kritische/stoffen/bij/varkens/(pvv)/2008/BWBR0025677/README.md). 
+Het kwaliteitssysteem beschikt over een controle- en analysestrategie als bedoeld in artikel 10, eerste lid, van de verordening. 
 
 ###§ 5 
 
@@ -154,7 +154,7 @@ De regelinghouder bewaart gedurende een periode van ten minste twee jaren op een
 
 ###Artikel 14 
 
-1. Indien de [verordening](../../../../../../../../pbo/verordening/monitoring/kritische/stoffen/bij/varkens/(pvv)/2008/BWBR0025677/README.md) of een hierop gebaseerd besluit wordt gewijzigd, wordt het kwaliteitssysteem alsmede de hierop gebaseerde uitvoering, onverwijld hiermee in overeenstemming gebracht. 
+1. Indien de verordening of een hierop gebaseerd besluit wordt gewijzigd, wordt het kwaliteitssysteem alsmede de hierop gebaseerde uitvoering, onverwijld hiermee in overeenstemming gebracht. 
 2. Relevante wijzigingen in het kwaliteitssysteem, niet zijnde wijzigingen als bedoeld in het eerste lid, worden onverwijld schriftelijk gemeld aan de voorzitter. 
 
 ###§ 6 

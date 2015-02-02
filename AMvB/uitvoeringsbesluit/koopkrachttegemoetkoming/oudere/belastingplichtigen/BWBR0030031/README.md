@@ -17,9 +17,7 @@ Hebben goedgevonden en verstaan:
 
 ####Hoogte van de tegemoetkoming
 
-1.  De tegemoetkoming, bedoeld in artikel 3 van de Wet mogelijkheid koopkrachttegemoetkoming oudere belastingplichtigen, bedraagt € 25,12 per kalendermaand.   
-2.  Dit bedrag wordt jaarlijks aangepast overeenkomstig de tabelcorrectiefactor, bedoeld in artikel 10.2 van de Wet inkomstenbelasting 2001.   
-3.  Van het aangepaste bedrag en de dag waarop deze aanpassing plaatsvindt, wordt door Onze Minister mededeling gedaan in de Staatscourant.  
+De tegemoetkoming, bedoeld in artikel 3 van de Wet mogelijkheid koopkrachttegemoetkoming oudere belastingplichtigen, bedraagt € 0,00 per kalendermaand. 
 
 ### Artikel  2  
 

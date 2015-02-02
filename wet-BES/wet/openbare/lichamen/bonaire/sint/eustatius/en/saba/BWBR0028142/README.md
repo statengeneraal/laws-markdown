@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat met de eilandgebieden Bonaire, Sint Eustatius en Saba is overeengekomen dat zij een staatsrechtelijke positie krijgen binnen het Nederlandse staatsbestel en worden ingericht als openbaar lichaam in de zin van [artikel 134 van de Grondwet](../../../../../../../../../../wet/grondwet/BWBR0001840/README.md) en dat het in verband hiermee wenselijk is de instelling en inrichting van deze openbare lichamen te regelen, de samenstelling en bevoegdheid van hun besturen, de openbaarheid van hun vergaderingen alsmede het toezicht op deze besturen, waarbij voor zover mogelijk aansluiting wordt gezocht bij het gemeentelijk bestuursmodel;
+Alzo Wij in overweging genomen hebben, dat met de eilandgebieden Bonaire, Sint Eustatius en Saba is overeengekomen dat zij een staatsrechtelijke positie krijgen binnen het Nederlandse staatsbestel en worden ingericht als openbaar lichaam in de zin van artikel 134 van de Grondwet en dat het in verband hiermee wenselijk is de instelling en inrichting van deze openbare lichamen te regelen, de samenstelling en bevoegdheid van hun besturen, de openbaarheid van hun vergaderingen alsmede het toezicht op deze besturen, waarbij voor zover mogelijk aansluiting wordt gezocht bij het gemeentelijk bestuursmodel;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:     
 ### Hoofdstuk  I  
 
@@ -94,9 +94,15 @@ De gezaghebber is voorzitter van de eilandsraad.
 
 ### Artikel  11  
 
-1.  Voor het lidmaatschap van de eilandsraad is vereist dat men Nederlander en ingezetene van het openbaar lichaam is, de leeftijd van achttien jaar heeft bereikt en niet is uitgesloten van het kiesrecht.   
+1.  Voor het lidmaatschap van de eilandsraad is vereist dat men ingezetene van het openbaar lichaam is, de leeftijd van achttien jaar heeft bereikt en niet is uitgesloten van het kiesrecht.   
 2.  Onder ingezetene wordt verstaan hij die zijn werkelijke woonplaats in het openbaar lichaam heeft.   
-3.  Hij die als ingezetene met een adres is ingeschreven in de bevolkingsadministratie van een openbaar lichaam, wordt, behoudens bewijs van het tegendeel, geacht werkelijke woonplaats te hebben in het openbaar lichaam.  
+3.  Hij die als ingezetene met een adres is ingeschreven in de bevolkingsadministratie van een openbaar lichaam, wordt, behoudens bewijs van het tegendeel, geacht werkelijke woonplaats te hebben in het openbaar lichaam.   
+4.  Zij die geen Nederlander zijn, dienen tevens te voldoen aan de vereisten dat: 
+
+a. zij rechtmatig in Nederland verblijven op grond van artikel 3 of artikel 6 van de Wet toelating en uitzetting BES of op grond van een verdrag tussen een internationale organisatie en de Staat der Nederlanden inzake de zetel van deze organisatie in Nederland, en  
+
+b. zij onmiddellijk voorafgaand aan de dag waarop de eilandsraad beslist over de toelating als lid tot de eilandsraad gedurende een onafgebroken periode van tenminste vijf jaren ingezetene van Nederland waren en beschikten over een verblijfsrecht als bedoeld onder a, dan wel rechtmatig in Nederland verbleven op grond van artikel 8, onder a, b, c, d, e of l, van de Vreemdelingenwet 2000.     
+5.  Geen lid van de eilandsraad kunnen zijn zij die geen Nederlander zijn, en als door andere staten uitgezonden leden van diplomatieke of consulaire vertegenwoordigingen, in Nederland werkzaam zijn, alsmede hun niet-Nederlandse echtgenoten, geregistreerde partners of levensgezellen en kinderen, voor zover dezen met hen een gemeenschappelijke huishouding voeren. 
 
 ### Artikel  12  
 
@@ -121,7 +127,7 @@ d. lid van de Algemene Rekenkamer;
 
 e. Nationale ombudsman;  
 
-f. substituut-ombudsman als bedoeld in [artikel 9, eerste lid, van de Wet Nationale ombudsman](../../../../../../../../../../wet/wet/nationale/ombudsman/BWBR0003372/README.md);  
+f. substituut-ombudsman als bedoeld in artikel 9, eerste lid, van de Wet Nationale ombudsman;  
 
 g. Rijksvertegenwoordiger;  
 
@@ -139,7 +145,7 @@ l. ambtenaar, door of vanwege het bestuur van het openbaar lichaam aangesteld of
 a. aanvangt op de dag van de stemming voor de verkiezing van de leden van de eilandsraad en eindigt op het tijdstip waarop de eilandgedeputeerden ingevolge artikel 54, eerste lid, aftreden, of  
 
 b. aanvangt op het tijdstip van zijn benoeming tot eilandgedeputeerde en eindigt op het tijdstip met ingang waarvan de geloofsbrief van zijn opvolger als lid van de eilandsraad is goedgekeurd of waarop het centraal stembureau heeft beslist dat geen opvolger kan worden benoemd.     
-3.  Het lid van de eilandsraad, bedoeld in het tweede lid, onderdeel b, wordt geacht ontslag te nemen als lid van de eilandsraad met ingang van het tijdstip waarop hij zijn benoeming tot eilandgedeputeerde aanvaardt. [Artikel X 6 van de Kieswet](../../../../../../../../../../wet/kieswet/BWBR0004627/README.md) is van overeenkomstige toepassing.   
+3.  Het lid van de eilandsraad, bedoeld in het tweede lid, onderdeel b, wordt geacht ontslag te nemen als lid van de eilandsraad met ingang van het tijdstip waarop hij zijn benoeming tot eilandgedeputeerde aanvaardt. Artikel X 6 van de Kieswet is van overeenkomstige toepassing.   
 4.  In afwijking van het eerste lid, aanhef en onder l, kan een lid van de eilandsraad tevens zijn: 
 
 a. ambtenaar van de burgerlijke stand;  
@@ -153,7 +159,7 @@ d. ambtenaar werkzaam in een bij eilandsverordening van de eilandsraad van het o
 
 ### Artikel  15  
 
-1.  Alvorens hun functie te kunnen uitoefenen, leggen de leden van de eilandsraad in de vergadering, in handen van de voorzitter, de volgende eed (verklaring en belofte) af: «Ik zweer (verklaar) dat ik, om tot lid van de eilandsraad benoemd te worden, rechtstreeks noch middellijk, onder welke naam of welk voorwendsel ook, enige gift of gunst heb gegeven of beloofd. Ik zweer (verklaar en beloof) dat ik, om iets in dit ambt te doen of te laten, rechtstreeks noch middellijk enig geschenk of enige belofte heb aangenomen of zal aannemen. Ik zweer (beloof) dat ik getrouw zal zijn aan de [Grondwet](../../../../../../../../../../wet/grondwet/BWBR0001840/README.md), dat ik de wetten zal nakomen en dat ik mijn plichten als lid van de eilandsraad naar eer en geweten zal vervullen. Zo waarlijk helpe mij God Almachtig!» (Dat verklaar en beloof ik!»)   
+1.  Alvorens hun functie te kunnen uitoefenen, leggen de leden van de eilandsraad in de vergadering, in handen van de voorzitter, de volgende eed (verklaring en belofte) af: «Ik zweer (verklaar) dat ik, om tot lid van de eilandsraad benoemd te worden, rechtstreeks noch middellijk, onder welke naam of welk voorwendsel ook, enige gift of gunst heb gegeven of beloofd. Ik zweer (verklaar en beloof) dat ik, om iets in dit ambt te doen of te laten, rechtstreeks noch middellijk enig geschenk of enige belofte heb aangenomen of zal aannemen. Ik zweer (beloof) dat ik getrouw zal zijn aan de Grondwet, dat ik de wetten zal nakomen en dat ik mijn plichten als lid van de eilandsraad naar eer en geweten zal vervullen. Zo waarlijk helpe mij God Almachtig!» (Dat verklaar en beloof ik!»)   
 2.  In plaats van in het Nederlands kan de eed (verklaring en belofte) in het Papiaments of het Engels worden afgelegd.   
 3.  Wanneer de eed (verklaring en belofte) in het Papiaments wordt afgelegd, luidt de tekst van de eed (verklaring en belofte) als volgt: «Mi ta hura (deklará) ku pa mi nombramentu den e kargo o funshon di miembro di konseho insular mi no a duna ni primintí, ni direkta- ni indirektamente, bou di ningun nòmber ni denominashon ni preteksto, ningun regalo ni fabor. Mi ta hura (deklará i primintí) ku mi no a risibí ni mi no a aseptá, ni lo mi no aseptá, ni direkta- ni indirektamente, ningun regalo ni ningun promesa di hasi algu o laga di hasi algu den e kargo o funshon en kuestion. Mi ta hura (primintí) ku lo mi ta fiel na Konstitushon, ku lo mi kumpli ku lei i ku lo mi kumpli ku mi obligashonnan komo miembro di konseho insular segun mi konsenshi i honor. Ku Dios Todopoderoso yudami!» (Esei mi ta deklará i primintí!»)   
 4.  Wanneer de eed (verklaring en belofte) in het Engels wordt afgelegd, luidt de tekst van de eed (verklaring en belofte) als volgt: «I swear (affirm) that I neither gave nor promised any gift or favour, either directly or indirectly, under any name or pretext whatsoever, in order to be appointed member of the island council. I swear (affirm and promise) that I have made no gift or promise, and shall accept no gift or promise, either directly or indirectly, in order to do or to omit to do anything in the course of my duties. I swear (promise) that I will bear allegiance to the Constitution, that I will observe the laws and that I will perform my duties as member of the island council in good faith. So help me God Almighty! (This I affirm and promise!)  
@@ -222,7 +228,7 @@ De eilandsraad vergadert na de periodieke verkiezing van zijn leden voor de eers
 
 ### Artikel  23  
 
-De leden van het eilandsbestuur en andere personen die deelnemen aan de beraadslaging kunnen niet in rechte worden vervolgd of aangesproken voor dan wel worden verplicht in rechte getuigenis af te leggen als bedoeld in [artikel 144, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering BES](../../../../../../../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md) over hetgeen zij in de vergadering van de eilandsraad hebben gezegd of aan de eilandsraad schriftelijk hebben overgelegd. 
+De leden van het eilandsbestuur en andere personen die deelnemen aan de beraadslaging kunnen niet in rechte worden vervolgd of aangesproken voor dan wel worden verplicht in rechte getuigenis af te leggen als bedoeld in artikel 144, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering BES over hetgeen zij in de vergadering van de eilandsraad hebben gezegd of aan de eilandsraad schriftelijk hebben overgelegd. 
 
 ### Artikel  24  
 
@@ -260,8 +266,8 @@ f. het onderhands gunnen of aanbesteden van werken of leveranties.
 
 ### Artikel  26  
 
-1.  De eilandsraad kan op grond van een belang, genoemd in [artikel 11 van de Wet openbaarheid van bestuur BES](../../../../../../../../../../wet-BES/wet/openbaarheid/van/bestuur/bes/BWBR0028154/README.md) omtrent het in een besloten vergadering behandelde en omtrent de inhoud van de stukken die aan de eilandsraad worden overgelegd, geheimhouding opleggen. Geheimhouding omtrent het in een besloten vergadering behandelde wordt tijdens die vergadering opgelegd. De geheimhouding wordt door hen die bij de behandeling aanwezig waren en allen die van het behandelde of de stukken kennis dragen, in acht genomen totdat de eilandsraad haar opheft.   
-2.  Op grond van een belang, genoemd in [artikel 11 van de Wet openbaarheid van bestuur BES](../../../../../../../../../../wet-BES/wet/openbaarheid/van/bestuur/bes/BWBR0028154/README.md), kan de geheimhouding eveneens worden opgelegd door het bestuurscollege, de gezaghebber en een commissie, ieder ten aanzien van de stukken die zij aan de eilandsraad of aan leden van de eilandsraad overleggen. Daarvan wordt op de stukken melding gemaakt.   
+1.  De eilandsraad kan op grond van een belang, genoemd in artikel 11 van de Wet openbaarheid van bestuur BES omtrent het in een besloten vergadering behandelde en omtrent de inhoud van de stukken die aan de eilandsraad worden overgelegd, geheimhouding opleggen. Geheimhouding omtrent het in een besloten vergadering behandelde wordt tijdens die vergadering opgelegd. De geheimhouding wordt door hen die bij de behandeling aanwezig waren en allen die van het behandelde of de stukken kennis dragen, in acht genomen totdat de eilandsraad haar opheft.   
+2.  Op grond van een belang, genoemd in artikel 11 van de Wet openbaarheid van bestuur BES, kan de geheimhouding eveneens worden opgelegd door het bestuurscollege, de gezaghebber en een commissie, ieder ten aanzien van de stukken die zij aan de eilandsraad of aan leden van de eilandsraad overleggen. Daarvan wordt op de stukken melding gemaakt.   
 3.  Met betrekking tot aan de eilandsraad overlegde stukken vervalt de krachtens het tweede lid opgelegde verplichting tot geheimhouding, indien de oplegging niet door de eilandsraad in zijn eerstvolgende vergadering die blijkens de presentielijst door meer dan de helft van het aantal zitting hebbende leden is bezocht, wordt bekrachtigd. De eilandsraad kan de geheimhouding nadien opheffen in een vergadering die blijkens de presentielijst door meer dan de helft van het aantal zitting hebbende leden is bezocht.   
 4.  Met betrekking tot aan de leden van de eilandsraad overlegde stukken wordt de krachtens het tweede lid opgelegde verplichting tot geheimhouding in acht genomen totdat het orgaan dat de verplichting heeft opgelegd haar opheft.  
 
@@ -368,7 +374,7 @@ d. lid van de Algemene Rekenkamer;
 
 e. Nationale ombudsman;  
 
-f. substituut-ombudsman als bedoeld in [artikel 9, eerste lid, van de Wet Nationale ombudsman](../../../../../../../../../../wet/wet/nationale/ombudsman/BWBR0003372/README.md);  
+f. substituut-ombudsman als bedoeld in artikel 9, eerste lid, van de Wet Nationale ombudsman;  
 
 g. Rijksvertegenwoordiger;  
 
@@ -390,7 +396,7 @@ n. functionaris die krachtens de wet of een algemene maatregel van bestuur het b
 a. aanvangt op de dag van de stemming voor de verkiezing van de leden van de eilandsraad en eindigt op het tijdstip waarop de eilandgedeputeerden ingevolge artikel 54, eerste lid, aftreden, of  
 
 b. aanvangt op het tijdstip van zijn benoeming tot eilandgedeputeerde en eindigt op het tijdstip met ingang waarvan de goedkeuring van de geloofsbrief van zijn opvolger als lid van de eilandsraad onherroepelijk is geworden of waarop het centraal stembureau heeft beslist dat geen opvolger kan worden benoemd.     
-3.  De eilandgedeputeerde, bedoeld in het tweede lid, onderdeel b, wordt geacht ontslag te nemen als lid van de eilandsraad met ingang van het tijdstip waarop hij zijn benoeming tot eilandgedeputeerde aanvaardt. [Artikel X 6 van de Kieswet](../../../../../../../../../../wet/kieswet/BWBR0004627/README.md) is van overeenkomstige toepassing.   
+3.  De eilandgedeputeerde, bedoeld in het tweede lid, onderdeel b, wordt geacht ontslag te nemen als lid van de eilandsraad met ingang van het tijdstip waarop hij zijn benoeming tot eilandgedeputeerde aanvaardt. Artikel X 6 van de Kieswet is van overeenkomstige toepassing.   
 4.  In afwijking van het eerste lid, aanhef en onderdeel l, kan een eiland- gedeputeerde tevens zijn: 
 
 a. ambtenaar van de burgerlijke stand;  
@@ -442,7 +448,7 @@ Wanneer de benoeming niet is aangenomen, geschiedt zo spoedig mogelijk een nieuw
 
 ### Artikel  47  
 
-1.  Alvorens hun functie te kunnen uitoefenen leggen de eilandgedeputeerden, in de vergadering van de eilandsraad, in handen van de voorzitter, de volgende eed (verklaring en belofte) af: «Ik zweer (verklaar) dat ik, om tot eilandgedeputeerde benoemd te worden, rechtstreeks noch middellijk, onder welke naam of welk voorwendsel ook, enige gift of gunst heb gegeven of beloofd. Ik zweer (verklaar en beloof) dat ik, om iets in dit ambt te doen of te laten, rechtstreeks noch middellijk enig geschenk of enige belofte heb aangenomen of zal aannemen. Ik zweer (beloof) dat ik getrouw zal zijn aan de [Grondwet](../../../../../../../../../../wet/grondwet/BWBR0001840/README.md), dat ik de wetten zal nakomen en dat ik mijn plichten als eilandgedeputeerde naar eer en geweten zal vervullen. Zo waarlijk helpe mij God Almachtig!» («Dat verklaar en beloof ik!»)   
+1.  Alvorens hun functie te kunnen uitoefenen leggen de eilandgedeputeerden, in de vergadering van de eilandsraad, in handen van de voorzitter, de volgende eed (verklaring en belofte) af: «Ik zweer (verklaar) dat ik, om tot eilandgedeputeerde benoemd te worden, rechtstreeks noch middellijk, onder welke naam of welk voorwendsel ook, enige gift of gunst heb gegeven of beloofd. Ik zweer (verklaar en beloof) dat ik, om iets in dit ambt te doen of te laten, rechtstreeks noch middellijk enig geschenk of enige belofte heb aangenomen of zal aannemen. Ik zweer (beloof) dat ik getrouw zal zijn aan de Grondwet, dat ik de wetten zal nakomen en dat ik mijn plichten als eilandgedeputeerde naar eer en geweten zal vervullen. Zo waarlijk helpe mij God Almachtig!» («Dat verklaar en beloof ik!»)   
 2.  In plaats van in het Nederlands kan de eed (verklaring en belofte) in het Papiaments of het Engels worden afgelegd.   
 3.  Wanneer de eed (verklaring en belofte) in het Papiaments wordt afgelegd, luidt de tekst van de eed (verklaring en belofte) als volgt: «Mi ta hura (deklará) ku pa mi nombramentu den e kargo o funshon di diputado, mi no a duna ni primintí, ni direkta- ni indirektamente, bou di ningun nòmber ni denominashon ni preteksto, ningun regalo ni fabor. Mi ta hura (deklará i primintí) ku mi no a risibí ni mi no a aseptá, ni lo mi no aseptá, ni direkta- ni indirektamente, ningun regalo ni ningun promesa di hasi algu o laga di hasi algu den e kargo o funshon en kuestion. Mi ta hura (primintí) ku lo mi ta fiel na Konstitushon, ku lo mi kumpli ku lei i ku lo mi kumpli ku mi obligashonnan komo diputado segun mi konsenshi i honor. Ku Dios Todopoderoso yudami!» (Esei mi ta deklará i primintí!»)   
 4.  Wanneer de eed (verklaring en belofte) in het Engels wordt afgelegd, luidt de tekst van de eed (verklaring en belofte) als volgt: «I swear (affirm) that I neither gave nor promised any gift or favour, either directly or indirectly, under any name or pretext whatsoever, in order to be appointed member of the island executive. I swear (affirm and promise) that I have made no gift or promise, and shall accept no gift or promise, either directly or indirectly, in order to do or to omit to do anything in the course of my duties. I swear (promise) that I will bear allegiance to the Constitution, that I will observe the laws and that I will perform my duties as member of the island executive in good faith. So help me God Almighty! (This I affirm and promise!)  
@@ -453,7 +459,7 @@ Wanneer de benoeming niet is aangenomen, geschiedt zo spoedig mogelijk een nieuw
 2.  Een eilandgedeputeerde meldt zijn voornemen tot aanvaarding van een nevenfunctie aan de eilandsraad.   
 3.  Een eilandgedeputeerde maakt zijn nevenfuncties openbaar. De openbaarmaking vindt plaats terstond na benoeming tot eilandgedeputeerde of aanvaarding van een nevenfunctie en geschiedt door terinzagelegging van een opgave van de functies op het bestuurskantoor van het openbaar lichaam.   
 4.  Een eilandgedeputeerde maakt tevens de inkomsten uit nevenfuncties openbaar. Openbaarmaking geschiedt door terinzagelegging op het bestuurskantoor uiterlijk op 1 april na het kalenderjaar waarin de inkomsten zijn genoten.   
-5.  Onder inkomsten wordt verstaan: loon in de zin van [artikel 6 van de Wet loonbelasting BES](../../../../../../../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md). 
+5.  Onder inkomsten wordt verstaan: loon in de zin van artikel 6 van de Wet loonbelasting BES. 
 
 ### Artikel  49  
 
@@ -505,11 +511,11 @@ Indien een eilandgedeputeerde de verklaring, bedoeld in artikel 49, niet tijdig 
 3.  Buiten hetgeen hun bij of krachtens de wet is toegekend genieten de eilandgedeputeerden als zodanig geen inkomsten, in welke vorm ook, ten laste van het openbaar lichaam.   
 4.  De eilandgedeputeerden genieten geen vergoedingen, in welke vorm ook, voor werkzaamheden, verricht in nevenfuncties die zij vervullen uit hoofde van het ambt van eilandgedeputeerde ongeacht of die vergoedingen ten laste van het openbaar lichaam komen of niet. Indien deze vergoedingen worden uitgekeerd, worden zij gestort in de kas van het openbaar lichaam.   
 5.  Tot vergoedingen als bedoeld in het vierde lid, behoren inkomsten, onder welke benaming ook, uit nevenfuncties die de eilandgedeputeerde neerlegt bij beëindiging van het ambt.   
-6.  Andere inkomsten dan die bedoeld in het vierde lid worden met de bezoldiging verrekend overeenkomstig [artikel 3 van de Wet schadeloosstelling leden Tweede Kamer](../../../../../../../../../../wet/wet/schadeloosstelling/leden/tweede/kamer/BWBR0004939/README.md), met dien verstande dat in dat artikel: 
+6.  Andere inkomsten dan die bedoeld in het vierde lid worden met de bezoldiging verrekend overeenkomstig artikel 3 van de Wet schadeloosstelling leden Tweede Kamer, met dien verstande dat in dat artikel: 
 
-a. onder neveninkomsten wordt verstaan: opbrengst van onderneming en arbeid, bedoeld in [artikel 6 van de Wet inkomstenbelasting BES](../../../../../../../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md);  
+a. onder neveninkomsten wordt verstaan: opbrengst van onderneming en arbeid, bedoeld in artikel 6 van de Wet inkomstenbelasting BES;  
 
-b. in het derde lid voor «de [Wet inkomstenbelasting 2001](../../../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md)» wordt gelezen: de [Wet inkomstenbelasting BES](../../../../../../../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md).     
+b. in het derde lid voor «de Wet inkomstenbelasting 2001» wordt gelezen: de Wet inkomstenbelasting BES.     
 7.  Bij algemene maatregel van bestuur worden regels gesteld over de wijze waarop de eilandgedeputeerde gegevens over de inkomsten, bedoeld in het zesde lid, verstrekt, en de gevolgen van het niet verstrekken van deze gegevens.  
 
 ### Artikel  57  
@@ -523,9 +529,9 @@ b. in het derde lid voor «de [Wet inkomstenbelasting 2001](../../../../../../..
 ### Artikel  58  
 
 1.  Tegen een besluit van de gezaghebber als bedoeld in artikel 57, vierde lid, kan de eilandgedeputeerde beroep instellen bij het Gemeenschappelijk Hof van Justitie van Curaçao, Aruba, Sint Maarten en van Bonaire, Sint Eustatius en Saba.   
-2.  [De Wet administratieve rechtspraak BES](../../../../../../../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md) is voor zoveel nodig van overeenkomstige toepassing, met uitzondering van de [artikelen 54](../../../../../../../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md) en [55](../../../../../../../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md) en [paragraaf 1](../../../../../../../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md) en [3 van hoofdstuk 6](../../../../../../../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md).   
-3.  In afwijking van [artikel 17, vijfde lid, van de Wet administratieve rechtspraak BES](../../../../../../../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md) bedraagt de termijn binnen welke de bijschrijving of storting van het verschuldigde bedrag dient plaats te vinden, twee weken. De president van het Gemeenschappelijk Hof kan een kortere termijn stellen.   
-4.  Het Gemeenschappelijk Hof behandelt de zaak met overeenkomstige toepassing van [paragraaf 2 van hoofdstuk 6 van de Wet administratieve rechtspraak BES](../../../../../../../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md). Aan de gezaghebber en degene die beroep heeft ingesteld wordt terstond een afschrift van het beroepschrift toegezonden.  
+2.  De Wet administratieve rechtspraak BES is voor zoveel nodig van overeenkomstige toepassing, met uitzondering van de artikelen 54 en 55 en paragraaf 1 en 3 van hoofdstuk 6.   
+3.  In afwijking van artikel 17, vijfde lid, van de Wet administratieve rechtspraak BES bedraagt de termijn binnen welke de bijschrijving of storting van het verschuldigde bedrag dient plaats te vinden, twee weken. De president van het Gemeenschappelijk Hof kan een kortere termijn stellen.   
+4.  Het Gemeenschappelijk Hof behandelt de zaak met overeenkomstige toepassing van paragraaf 2 van hoofdstuk 6 van de Wet administratieve rechtspraak BES. Aan de gezaghebber en degene die beroep heeft ingesteld wordt terstond een afschrift van het beroepschrift toegezonden.  
 
 ### Artikel  59  
 
@@ -535,7 +541,7 @@ b. in het derde lid voor «de [Wet inkomstenbelasting 2001](../../../../../../..
 ### Artikel  60  
 
 1.  Indien een uitspraak van de eilandsraad inhoudende de opzegging van zijn vertrouwen in een eilandgedeputeerde er niet toe leidt dat de betrokken eilandgedeputeerde onmiddellijk ontslag neemt, kan de eilandsraad besluiten tot ontslag.   
-2.  Op het ontslagbesluit is [artikel 7, eerste lid, van de Wet administratieve rechtspraak BES](../../../../../../../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md) niet van toepassing.  
+2.  Op het ontslagbesluit is artikel 7, eerste lid, van de Wet administratieve rechtspraak BES niet van toepassing.  
 
 ### Artikel  61  
 
@@ -563,8 +569,8 @@ Het bestuurscollege stelt een reglement van orde voor zijn vergaderingen en ande
 
 ### Artikel  66  
 
-1.  Het bestuurscollege kan op grond van een belang, genoemd in [artikel 11 van de Wet openbaarheid van bestuur BES](../../../../../../../../../../wet-BES/wet/openbaarheid/van/bestuur/bes/BWBR0028154/README.md), omtrent het in een besloten vergadering behandelde en omtrent de inhoud van de stukken die aan het bestuurscollege worden overgelegd, geheimhouding opleggen. Geheimhouding omtrent het in een besloten vergadering behandelde wordt tijdens die vergadering opgelegd. De geheimhouding wordt door hen die bij de behandeling aanwezig waren en allen die van het behandelde of de stukken kennis dragen, in acht genomen totdat het bestuurscollege haar opheft.   
-2.  Op grond van een belang, genoemd in [artikel 11 van de Wet openbaarheid van bestuur BES](../../../../../../../../../../wet-BES/wet/openbaarheid/van/bestuur/bes/BWBR0028154/README.md), kan de geheimhouding eveneens worden opgelegd door de gezaghebber of een commissie, ten aanzien van de stukken die zij aan het bestuurscollege overleggen. Daarvan wordt op de stukken melding gemaakt. De geheimhouding wordt in acht genomen totdat het orgaan dat de verplichting heeft opgelegd, dan wel de eilandsraad haar opheft.   
+1.  Het bestuurscollege kan op grond van een belang, genoemd in artikel 11 van de Wet openbaarheid van bestuur BES, omtrent het in een besloten vergadering behandelde en omtrent de inhoud van de stukken die aan het bestuurscollege worden overgelegd, geheimhouding opleggen. Geheimhouding omtrent het in een besloten vergadering behandelde wordt tijdens die vergadering opgelegd. De geheimhouding wordt door hen die bij de behandeling aanwezig waren en allen die van het behandelde of de stukken kennis dragen, in acht genomen totdat het bestuurscollege haar opheft.   
+2.  Op grond van een belang, genoemd in artikel 11 van de Wet openbaarheid van bestuur BES, kan de geheimhouding eveneens worden opgelegd door de gezaghebber of een commissie, ten aanzien van de stukken die zij aan het bestuurscollege overleggen. Daarvan wordt op de stukken melding gemaakt. De geheimhouding wordt in acht genomen totdat het orgaan dat de verplichting heeft opgelegd, dan wel de eilandsraad haar opheft.   
 3.  Indien het bestuurscollege zich ter zake van het behandelde waarvoor een verplichting tot geheimhouding geldt tot de eilandsraad heeft gericht, wordt de geheimhouding in acht genomen totdat de eilandsraad haar opheft.  
 
 ### Artikel  67  
@@ -634,7 +640,7 @@ Dezelfde persoon kan niet in meer dan een openbaar lichaam tot gezaghebber worde
 
 ### Artikel  77  
 
-1.  Alvorens zijn ambt te aanvaarden, legt de gezaghebber in handen van de Rijksvertegenwoordiger de volgende eed (verklaring en belofte) af: «Ik zweer (verklaar) dat ik, om tot gezaghebber benoemd te worden, rechtstreeks noch middellijk, onder welke naam of welk voorwendsel ook, enige gift of gunst heb gegeven of beloofd. Ik zweer (verklaar en beloof) dat ik, om iets in dit ambt te doen of te laten, rechtstreeks noch middellijk enig geschenk of enige belofte heb aangenomen of zal aannemen. Ik zweer (beloof) dat ik getrouw zal zijn aan de [Grondwet](../../../../../../../../../../wet/grondwet/BWBR0001840/README.md), dat ik de wetten zal nakomen en dat ik mijn plichten als gezaghebber naar eer en geweten zal vervullen. Zo waarlijk helpe mij God Almachtig!» (Dat verklaar en beloof ik!»)   
+1.  Alvorens zijn ambt te aanvaarden, legt de gezaghebber in handen van de Rijksvertegenwoordiger de volgende eed (verklaring en belofte) af: «Ik zweer (verklaar) dat ik, om tot gezaghebber benoemd te worden, rechtstreeks noch middellijk, onder welke naam of welk voorwendsel ook, enige gift of gunst heb gegeven of beloofd. Ik zweer (verklaar en beloof) dat ik, om iets in dit ambt te doen of te laten, rechtstreeks noch middellijk enig geschenk of enige belofte heb aangenomen of zal aannemen. Ik zweer (beloof) dat ik getrouw zal zijn aan de Grondwet, dat ik de wetten zal nakomen en dat ik mijn plichten als gezaghebber naar eer en geweten zal vervullen. Zo waarlijk helpe mij God Almachtig!» (Dat verklaar en beloof ik!»)   
 2.  In plaats van in het Nederlands kan de eed (verklaring en belofte) in het Papiaments of het Engels worden afgelegd.   
 3.  Wanneer de eed (verklaring en belofte) in het Papiaments wordt afgelegd, luidt de tekst van de eed (verklaring en belofte) als volgt: «Mi ta hura (deklará) ku pa mi nombramentu den e kargo o funshon di gezaghebber mi no a duna ni primintí, ni direkta- ni indirektamente, bou di ningun nòmber ni denominashon ni preteksto, ningun regalo ni fabor. Mi ta hura (deklará i primintí) ku mi no a risibí ni mi no a aseptá, ni lo mi no aseptá, ni direkta- ni indirektamente, ningun regalo ni ningun promesa di hasi algu o laga di hasi algu den e kargo o funshon en kuestion. Mi ta hura (primintí) ku lo mi ta fiel na Konstitushon, ku lo mi kumpli ku lei i ku lo mi kumpli ku mi obligashonnan komo gezaghebber segun mi konsenshi i honor. Ku Dios Todopoderoso yudami!» (Esei mi ta deklará i primintí!»)   
 4.  Wanneer de eed (verklaring en belofte) in het Engels wordt afgelegd, luidt de tekst van de eed (verklaring en belofte) als volgt: «I swear (affirm) that I neither gave nor promised any gift or favour, either directly or indirectly, under any name or pretext whatsoever, in order to be appointed Island Governor. I swear (affirm and promise) that I have made no gift or promise, and shall accept no gift or promise, either directly or indirectly, in order to do or to omit to do anything in the course of my duties. I swear (promise) that I will bear allegiance to the Constitution, that I will observe the laws and that I will perform my duties as Island Governor in good faith. So help me God Almighty! (This I affirm and promise!)  
@@ -646,11 +652,11 @@ Dezelfde persoon kan niet in meer dan een openbaar lichaam tot gezaghebber worde
 3.  Buiten hetgeen hem bij of krachtens de wet is toegekend, geniet de gezaghebber als zodanig geen inkomsten, in welke vorm ook, ten laste van het openbaar lichaam.   
 4.  De gezaghebber geniet geen vergoedingen, in welke vorm ook, voor werkzaamheden, verricht in nevenfuncties welke hij vervult uit hoofde van het ambt van gezaghebber, ongeacht of die vergoedingen ten laste van het openbaar lichaam komen of niet. Indien deze vergoedingen worden uitgekeerd, worden zij gestort in de kas van het openbaar lichaam.   
 5.  Tot vergoedingen als bedoeld in het vierde lid, behoren inkomsten, onder welke benaming ook, uit nevenfuncties die de gezaghebber neerlegt bij beëindiging van het ambt.   
-6.  Andere inkomsten dan die bedoeld in het vierde lid worden met de bezoldiging verrekend overeenkomstig [artikel 3 van de Wet schadeloosstelling leden Tweede Kamer](../../../../../../../../../../wet/wet/schadeloosstelling/leden/tweede/kamer/BWBR0004939/README.md) met dien verstande dat in dat artikel:
+6.  Andere inkomsten dan die bedoeld in het vierde lid worden met de bezoldiging verrekend overeenkomstig artikel 3 van de Wet schadeloosstelling leden Tweede Kamer met dien verstande dat in dat artikel:
 
 a. onder neveninkomsten wordt verstaan: opbrengst van onderneming en arbeid, bedoeld in artikel 6 van de Wet inkomstenbelasting BES;  
 
-b. in het derde lid voor «de [Wet inkomstenbelasting 2001](../../../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md)» wordt gelezen: de Wet inkomstenbelasting BES.     
+b. in het derde lid voor «de Wet inkomstenbelasting 2001» wordt gelezen: de Wet inkomstenbelasting BES.     
 7.  Bij algemene maatregel van bestuur worden regels gesteld over de wijze waarop de gezaghebber gegevens over de inkomsten, bedoeld in het zesde lid, verstrekt, en de gevolgen van het niet verstrekken van deze gegevens. 
 
 ### Artikel  79  
@@ -659,7 +665,7 @@ b. in het derde lid voor «de [Wet inkomstenbelasting 2001](../../../../../../..
 2.  De gezaghebber meldt zijn voornemen tot aanvaarding van een nevenfunctie, anders dan uit hoofde van zijn ambt van gezaghebber, aan de eilandsraad.   
 3.  De gezaghebber maakt nevenfuncties, anders dan uit hoofde van zijn ambt van gezaghebber, openbaar. De openbaarmaking vindt plaats terstond na benoeming tot gezaghebber of aanvaarding van een nevenfunctie en geschiedt door terinzaggelegging van een opgave van de functies op het bestuurskantoor van het openbaar lichaam. 
 4. De gezaghebber maakt tevens de inkomsten uit de nevenfuncties, bedoeld in het derde lid, openbaar. Openbaarmaking geschiedt door terinzagelegging op het bestuurskantoor uiterlijk op 1 april na het kalenderjaar waarin de inkomsten zijn genoten.
-5. Onder inkomsten wordt verstaan: loon in de zin van [artikel 6 van de Wet loonbelasting BES](../../../../../../../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md).
+5. Onder inkomsten wordt verstaan: loon in de zin van artikel 6 van de Wet loonbelasting BES.
 
 ### Artikel  80  
 
@@ -675,7 +681,7 @@ d. lid van de Algemene Rekenkamer;
 
 e. Nationale ombudsman;  
 
-f. substituut-ombudsman als bedoeld in [artikel 9, eerste lid, van de Wet Nationale ombudsman](../../../../../../../../../../wet/wet/nationale/ombudsman/BWBR0003372/README.md);  
+f. substituut-ombudsman als bedoeld in artikel 9, eerste lid, van de Wet Nationale ombudsman;  
 
 g. Rijksvertegenwoordiger;  
 
@@ -720,7 +726,7 @@ Het ambt van gezaghebber ontheft van alle bij of krachtens de wet opgelegde verp
 ### Artikel  86  
 
 1.  Indien de gezaghebber langer dan zes weken buiten het openbaar lichaam wenst te verblijven, behoeft hij daartoe de toestemming van de Rijksvertegenwoordiger. De toestemming mag alleen worden verleend indien het belang van het openbaar lichaam zich daartegen niet verzet.   
-2.  De [Algemene Termijnenwet](../../../../../../../../../../wet/algemene/termijnenwet/BWBR0002448/README.md) is niet van toepassing op de termijn, genoemd in het eerste lid.  
+2.  De Algemene Termijnenwet is niet van toepassing op de termijn, genoemd in het eerste lid.  
 
 ### Artikel  87  
 
@@ -831,7 +837,7 @@ d. lid van de Algemene Rekenkamer;
 
 e. Nationale ombudsman;  
 
-f. substituut-ombudsman als bedoeld in [artikel 9, eerste lid, van de Wet Nationale ombudsman](../../../../../../../../../../wet/wet/nationale/ombudsman/BWBR0003372/README.md);  
+f. substituut-ombudsman als bedoeld in artikel 9, eerste lid, van de Wet Nationale ombudsman;  
 
 g. Rijksvertegenwoordiger;  
 
@@ -860,7 +866,7 @@ c. ambtenaar werkzaam voor een school voor openbaar onderwijs.
 
 ### Artikel  100  
 
-1.  Alvorens zijn functie te kunnen uitoefenen, legt een lid van de gezamenlijke rekenkamer in de vergadering van de eilandsraad, die hem heeft benoemd, in handen van de voorzitter, de volgende eed (verklaring en belofte) af: «Ik zweer (verklaar) dat ik, om tot lid van de gezamenlijke rekenkamer benoemd te worden, rechtstreeks noch middellijk, onder welke naam of welk voorwendsel ook, enige gift of gunst heb gegeven of beloofd. Ik zweer (verklaar en beloof) dat ik, om iets in dit ambt te doen of te laten, rechtstreeks noch middellijk enig geschenk of enige belofte heb aangenomen of zal aannemen. Ik zweer (beloof) dat ik getrouw zal zijn aan de [Grondwet](../../../../../../../../../../wet/grondwet/BWBR0001840/README.md), dat ik de wetten zal nakomen en dat ik mijn plichten als lid van de gezamenlijke rekenkamer naar eer en geweten zal vervullen. Zo waarlijk helpe mij God Almachtig!» («Dat verklaar en beloof ik!»)   
+1.  Alvorens zijn functie te kunnen uitoefenen, legt een lid van de gezamenlijke rekenkamer in de vergadering van de eilandsraad, die hem heeft benoemd, in handen van de voorzitter, de volgende eed (verklaring en belofte) af: «Ik zweer (verklaar) dat ik, om tot lid van de gezamenlijke rekenkamer benoemd te worden, rechtstreeks noch middellijk, onder welke naam of welk voorwendsel ook, enige gift of gunst heb gegeven of beloofd. Ik zweer (verklaar en beloof) dat ik, om iets in dit ambt te doen of te laten, rechtstreeks noch middellijk enig geschenk of enige belofte heb aangenomen of zal aannemen. Ik zweer (beloof) dat ik getrouw zal zijn aan de Grondwet, dat ik de wetten zal nakomen en dat ik mijn plichten als lid van de gezamenlijke rekenkamer naar eer en geweten zal vervullen. Zo waarlijk helpe mij God Almachtig!» («Dat verklaar en beloof ik!»)   
 2.  In plaats van in het Nederlands kan de eed (verklaring en belofte) in het Papiaments of het Engels worden afgelegd.   
 3.  Wanneer de eed (verklaring en belofte) in het Papiaments wordt afgelegd, luidt de tekst van de eed (verklaring en belofte) als volgt: «Mi ta hura (deklará) ku pa mi nombramentu den e kargo o funshon di kontraloria general mi no a duna ni primintí, ni direkta- ni indirektamente, bou di ningun nòmber ni denominashon ni preteksto, ningun regalo ni fabor. Mi ta hura (deklará i primintí) ku mi no a risibí ni mi no a aseptá, ni lo mi no aseptá, ni direkta- ni indirektamente, ningun regalo ni ningun promesa di hasi algu o laga di hasi algu den e kargo o funshon en kuestion. Mi ta hura (primintí) ku lo mi ta fiel na Konstitushon, ku lo mi kumpli ku lei i ku lo mi kumpli ku mi obligashonnan komo kontraloria general segun mi konsenshi i honor. Ku Dios Todopoderoso yudami!» (Esei mi ta deklará i primintí!»)   
 4.  Wanneer de eed (verklaring en belofte) in het Engels wordt afgelegd, luidt de tekst van de eed (verklaring en belofte) als volgt: «I swear (affirm) that I neither gave nor promised any gift or favour, either directly or indirectly, under any name or pretext whatsoever, in order to be appointed Member of the court of audit. I swear (affirm and promise) that I have made no gift or promise, and shall accept no gift or promise, either directly or indirectly, in order to do or to omit to do anything in the course of my duties. I swear (promise) that I will bear allegiance to the Constitution, that I will observe the laws and that I will perform my duties as Member of the court of audit in good faith. So help me God Almighty! (This I affirm and promise!)  
@@ -904,17 +910,17 @@ c. de ondersteuning van de gezamenlijke rekenkamer.
 
 ### Artikel  106  
 
-[Titel 9.2 van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), met uitzondering van de [artikelen 9:20](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [9:21](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), is van overeenkomstige toepassing op schriftelijke verzoeken om een onderzoek in te stellen naar de wijze waarop een bestuursorgaan van het openbaar lichaam zich in een bepaalde aangelegenheid heeft gedragen met dien verstande dat in [artikel 9:36, eerste lid](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), voor «[artikel 10 van de Wet openbaarheid van bestuur](../../../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md)» wordt gelezen: [artikel 11 van de Wet openbaarheid van bestuur BES](../../../../../../../../../../wet-BES/wet/openbaarheid/van/bestuur/bes/BWBR0028154/README.md). 
+Titel 9.2 van de Algemene wet bestuursrecht, met uitzondering van de artikelen 9:20 en 9:21, is van overeenkomstige toepassing op schriftelijke verzoeken om een onderzoek in te stellen naar de wijze waarop een bestuursorgaan van het openbaar lichaam zich in een bepaalde aangelegenheid heeft gedragen met dien verstande dat in artikel 9:36, eerste lid, voor «artikel 10 van de Wet openbaarheid van bestuur» wordt gelezen: artikel 11 van de Wet openbaarheid van bestuur BES. 
 
 ### Artikel  107  
 
-1.  De eilandsraden kunnen voor de behandeling van verzoekschriften als bedoeld in [artikel 9:18, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) een gezamenlijke ombudsman of een gezamenlijke ombudscommissie instellen.   
+1.  De eilandsraden kunnen voor de behandeling van verzoekschriften als bedoeld in artikel 9:18, eerste lid, van de Algemene wet bestuursrecht een gezamenlijke ombudsman of een gezamenlijke ombudscommissie instellen.   
 2.  Een gezamenlijke ombudsman of gezamenlijke ombudscommissie kan slechts per 1 januari van enig jaar worden ingesteld. Indien de eilandsraden hiertoe besluiten, zenden zij het besluit tot instelling aan de Nationale ombudsman voor 1 juli van het jaar voorafgaand aan het jaar waarin de instelling ingaat.   
 3.  De instelling van een gezamenlijke ombudsman of gezamenlijke ombudscommissie kan slechts per 1 januari van enig jaar worden beëindigd. Indien de eilandsraden hiertoe besluiten, zenden zij het besluit tot beëindiging van de instelling aan de Nationale ombudsman voor 1 juli van het jaar voorafgaand aan het jaar waarin de instelling eindigt.  
 
 ### Artikel  108  
 
-Indien de eilandsraden een gezamenlijke ombudsman of een gezamenlijke ombudscommissie instellen met toepassing van de [Wet gemeenschappelijke regelingen](../../../../../../../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md), zijn de in die wet ten aanzien van gemeenschappelijke organen opgenomen bepalingen slechts van toepassing voor zover de aard van de aan de gezamenlijke ombudsman of de gezamenlijke ombudscommissie opgedragen taken zich daartegen niet verzet. 
+Indien de eilandsraden een gezamenlijke ombudsman of een gezamenlijke ombudscommissie instellen met toepassing van de Wet gemeenschappelijke regelingen, zijn de in die wet ten aanzien van gemeenschappelijke organen opgenomen bepalingen slechts van toepassing voor zover de aard van de aan de gezamenlijke ombudsman of de gezamenlijke ombudscommissie opgedragen taken zich daartegen niet verzet. 
 
 ### §  2  
 
@@ -952,7 +958,7 @@ c. onder curatele is gesteld, in staat van faillissement is verklaard, hij surse
 
 ### Artikel  111  
 
-1.  Alvorens zijn functie te kunnen uitoefenen, legt de gezamenlijke ombudsman in de vergadering van een bij zijn benoeming aan te wijzen eilandsraad, in handen van de voorzitter, de volgende eed (verklaring en belofte) af: «Ik zweer (verklaar) dat ik, om tot ombudsman benoemd te worden, rechtstreeks noch middellijk, onder welke naam of welk voorwendsel ook, enige gift of gunst heb gegeven of beloofd. Ik zweer (verklaar en beloof) dat ik, om iets in dit ambt te doen of te laten, rechtstreeks noch middellijk enig geschenk of enige belofte heb aangenomen of zal aannemen. Ik zweer (verklaar en beloof) dat ik getrouw zal zijn aan de [Grondwet](../../../../../../../../../../wet/grondwet/BWBR0001840/README.md), dat ik de wetten zal nakomen en dat ik mijn plichten als ombudsman naar eer en geweten zal vervullen. Zo waarlijk helpe mij God almachtig!» («Dat verklaar en beloof ik!»)   
+1.  Alvorens zijn functie te kunnen uitoefenen, legt de gezamenlijke ombudsman in de vergadering van een bij zijn benoeming aan te wijzen eilandsraad, in handen van de voorzitter, de volgende eed (verklaring en belofte) af: «Ik zweer (verklaar) dat ik, om tot ombudsman benoemd te worden, rechtstreeks noch middellijk, onder welke naam of welk voorwendsel ook, enige gift of gunst heb gegeven of beloofd. Ik zweer (verklaar en beloof) dat ik, om iets in dit ambt te doen of te laten, rechtstreeks noch middellijk enig geschenk of enige belofte heb aangenomen of zal aannemen. Ik zweer (verklaar en beloof) dat ik getrouw zal zijn aan de Grondwet, dat ik de wetten zal nakomen en dat ik mijn plichten als ombudsman naar eer en geweten zal vervullen. Zo waarlijk helpe mij God almachtig!» («Dat verklaar en beloof ik!»)   
 2.  In plaats van in het Nederlands kan de eed (verklaring en belofte) in het Papiaments of het Engels worden afgelegd.   
 3.  Wanneer de eed (verklaring en belofte) in het Papiaments wordt afgelegd, luidt de tekst van de eed (verklaring en belofte) als volgt: «Mi ta hura (deklará) ku pa mi nombramentu den e kargo o funshon di ombudsman mi no a duna ni primintí, ni direkta- ni indirektamente, bou di ningun nòmber ni denominashon ni preteksto, ningun regalo ni fabor. Mi ta hura (deklará i primintí) ku mi no a risibí ni mi no a aseptá, ni lo mi no aseptá, ni direkta- ni indirektamente, ningun regalo ni ningun promesa di hasi algu o laga di hasi algu den e kargo o funshon en kuestion. Mi ta hura (primintí) ku lo mi ta fiel na Konstitushon, ku lo mi kumpli ku lei i ku lo mi kumpli ku mi obligashonnan komo ombudsman segun mi konsenshi i honor. Ku Dios Todopoderoso yudami!» (Esei mi ta deklará i primintí!»)   
 4.  Wanneer de eed (verklaring en belofte) in het Engels wordt afgelegd, luidt de tekst van de eed (verklaring en belofte) als volgt: «I swear (affirm) that I neither gave nor promised any gift or favour, either directly or indirectly, under any name or pretext whatsoever, in order to be appointed ombudsman. I swear (affirm and promise) that I have made no gift or promise, and shall accept no gift or promise, either directly or indirectly, in order to do or to omit to do anything in the course of my duties. I swear (promise) that I will bear allegiance to the Constitution, that I will observe the laws and that I will perform my duties as ombudsman in good faith. So help me God Almighty! (This I affirm and promise!)  
@@ -1009,8 +1015,8 @@ De gezamenlijke ombudsman ontvangt een bij eilandsverordening van de eilandsrade
 
 ### Artikel  119  
 
-1.  Een commissie kan in een besloten vergadering, op grond van een belang, genoemd in [artikel 11 van de Wet openbaarheid van bestuur BES](../../../../../../../../../../wet-BES/wet/openbaarheid/van/bestuur/bes/BWBR0028154/README.md), omtrent het in die vergadering met gesloten deuren behandelde en omtrent de inhoud van de stukken die aan de commissie worden overgelegd, geheimhouding opleggen. Geheimhouding omtrent het in een besloten vergadering behandelde wordt tijdens die vergadering opgelegd. De geheimhouding wordt door hen die bij de behandeling aanwezig waren en allen die van het behandelde of de stukken kennis dragen, in acht genomen totdat de commissie haar opheft.   
-2.  Op grond van een belang, genoemd in [artikel 11 van de Wet openbaarheid van bestuur BES](../../../../../../../../../../wet-BES/wet/openbaarheid/van/bestuur/bes/BWBR0028154/README.md), kan de geheimhouding eveneens worden opgelegd door de voorzitter van een commissie, het bestuurscollege en de gezaghebber, ieder ten aanzien van stukken die hij aan een commissie overlegt. Daarvan wordt op de stukken melding gemaakt. De geheimhouding wordt in acht genomen totdat het orgaan dat de verplichting heeft opgelegd, dan wel de eilandsraad haar opheft.   
+1.  Een commissie kan in een besloten vergadering, op grond van een belang, genoemd in artikel 11 van de Wet openbaarheid van bestuur BES, omtrent het in die vergadering met gesloten deuren behandelde en omtrent de inhoud van de stukken die aan de commissie worden overgelegd, geheimhouding opleggen. Geheimhouding omtrent het in een besloten vergadering behandelde wordt tijdens die vergadering opgelegd. De geheimhouding wordt door hen die bij de behandeling aanwezig waren en allen die van het behandelde of de stukken kennis dragen, in acht genomen totdat de commissie haar opheft.   
+2.  Op grond van een belang, genoemd in artikel 11 van de Wet openbaarheid van bestuur BES, kan de geheimhouding eveneens worden opgelegd door de voorzitter van een commissie, het bestuurscollege en de gezaghebber, ieder ten aanzien van stukken die hij aan een commissie overlegt. Daarvan wordt op de stukken melding gemaakt. De geheimhouding wordt in acht genomen totdat het orgaan dat de verplichting heeft opgelegd, dan wel de eilandsraad haar opheft.   
 3.  Indien een commissie zich ter zake van het behandelde waarvoor een verplichting tot geheimhouding geldt tot de eilandsraad heeft gericht, wordt de geheimhouding in acht genomen totdat de eilandsraad haar opheft.  
 
 ### Afdeling  VIII  
@@ -1019,7 +1025,7 @@ De gezamenlijke ombudsman ontvangt een bij eilandsverordening van de eilandsrade
 
 ### Artikel  120  
 
-1.  De leden van de eilandsraad en de leden van de eilandsraad aan wie ingevolge [artikel Ya 13](../../../../../../../../../../wet/kieswet/BWBR0004627/README.md) juncto [artikel X 10 van de Kieswet](../../../../../../../../../../wet/kieswet/BWBR0004627/README.md) ontslag is verleend wegens zwangerschap en bevalling of ziekte ontvangen een bij eilandsverordening van de eilandsraad vast te stellen vergoeding voor hun werkzaamheden en een tegemoetkoming in de kosten.   
+1.  De leden van de eilandsraad en de leden van de eilandsraad aan wie ingevolge artikel Ya 13 juncto artikel X 10 van de Kieswet ontslag is verleend wegens zwangerschap en bevalling of ziekte ontvangen een bij eilandsverordening van de eilandsraad vast te stellen vergoeding voor hun werkzaamheden en een tegemoetkoming in de kosten.   
 2.  De eilandsraad kan bij eilandsverordening regels stellen over de tegemoetkoming in of vergoeding van bijzondere kosten en over andere financiële voorzieningen die verband houden met de vervulling van het lidmaatschap van de eilandsraad.   
 3.  Het eerste en tweede lid zijn niet van toepassing op een lid van de eilandsraad dat met inachtneming van artikel 14, tweede lid, tevens eilandgedeputeerde is.   
 4.  De eilandsverordeningen, bedoeld in het eerste en tweede lid, worden vastgesteld overeenkomstig bij of krachtens algemene maatregel van bestuur te stellen regels.  
@@ -1133,7 +1139,7 @@ Een besluit houdende de benoeming, bevordering, schorsing of ontslag van de eila
 ### Artikel  136  
 
 1.  De bevoegdheid tot regeling en bestuur inzake de huishouding van het openbaar lichaam wordt aan het eilandsbestuur overgelaten.   
-2.  Regeling en bestuur kunnen van het eilandsbestuur worden gevorderd bij of krachtens een andere dan deze wet of de [Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../../../../../wet-BES/wet/financiën/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028151/README.md) ter verzekering van de uitvoering daarvan, met dien verstande dat het geven van aanwijzingen aan het eilandsbestuur en het aan het eilandsbestuur opleggen of in zijn plaats vaststellen van beslissingen, slechts kan geschieden indien de bevoegdheid daartoe bij de wet is toegekend.   
+2.  Regeling en bestuur kunnen van het eilandsbestuur worden gevorderd bij of krachtens een andere dan deze wet of de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba ter verzekering van de uitvoering daarvan, met dien verstande dat het geven van aanwijzingen aan het eilandsbestuur en het aan het eilandsbestuur opleggen of in zijn plaats vaststellen van beslissingen, slechts kan geschieden indien de bevoegdheid daartoe bij de wet is toegekend.   
 3.  Onverminderd de artikelen 138, vijfde lid, en 213, vierde lid, worden de kosten, verbonden aan de uitvoering van het tweede lid, voor zover zij ten laste van de betrokken openbare lichamen blijven, door het Rijk aan hen vergoed.  
 
 ### Artikel  137  
@@ -1149,9 +1155,9 @@ a.  *plan:* een beslissing die een samenhangend geheel van op elkaar afgestemde 
 b.  *beleidsverslag:* een schriftelijke rapportage betreffende het door het eilandsbestuur gevoerde beleid op een of meer beleidsterreinen dan wel op onderdelen daarvan en de samenhang daarbinnen of daartussen.     
 2.  Het vaststellen van een plan of een beleidsverslag en het ter voorbereiding daarvan volgen van een voorgeschreven procedure kan vanwege het Rijk van het eilandsbestuur slechts worden gevorderd in bij de wet te bepalen gevallen.   
 3.  Een verplichting als bedoeld in het tweede lid geldt voor ten hoogste vier jaren, tenzij de wet anders bepaalt.   
-4.  Het vaststellen van een plan of een beleidsverslag en het ter voorbereiding daarvan volgen van een voorgeschreven procedure kan vanwege het Rijk in andere dan bij de wet bepaalde gevallen voor een termijn van ten hoogste vier jaar van het eilandsbestuur worden gevraagd als onderdeel van de regeling van een tijdelijke bijzondere uitkering als bedoeld in [artikel 92, derde lid, van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../../../../../wet-BES/wet/financiën/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028151/README.md).   
+4.  Het vaststellen van een plan of een beleidsverslag en het ter voorbereiding daarvan volgen van een voorgeschreven procedure kan vanwege het Rijk in andere dan bij de wet bepaalde gevallen voor een termijn van ten hoogste vier jaar van het eilandsbestuur worden gevraagd als onderdeel van de regeling van een tijdelijke bijzondere uitkering als bedoeld in artikel 92, derde lid, van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba.   
 5.  Het vaststellen van een plan of een beleidsverslag en het ter voorbereiding daarvan volgen van de voorgeschreven procedure wordt van een eilandsbestuur niet gevorderd of gevraagd, dan nadat is aangegeven hoe de financiële gevolgen ervan voor het openbaar lichaam worden gecompenseerd.   
-6.  Dit artikel is niet van toepassing op de begroting en op de jaarrekening en het jaarverslag, bedoeld in [artikel 17](../../../../../../../../../../wet-BES/wet/financiën/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028151/README.md), onderscheidenlijk [artikel 28 van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../../../../../wet-BES/wet/financiën/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028151/README.md).  
+6.  Dit artikel is niet van toepassing op de begroting en op de jaarrekening en het jaarverslag, bedoeld in artikel 17, onderscheidenlijk artikel 28 van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba.  
 
 ### Artikel  139  
 
@@ -1166,7 +1172,7 @@ a. het eilandsbestuur daardoor ontoelaatbaar beperkt wordt in zijn inhoudelijke 
 
 b. de bestuurslasten niet in redelijke verhouding staan tot de te verwachten baten of een aanzienlijk beslag leggen op de voor het betrokken beleidsterrein beschikbare middelen;  
 
-c. integratie met een bestaand plan of een bestaand beleidsverslag dan wel met de begroting of de jaarrekening en het jaarverslag, bedoeld in [artikel 17](../../../../../../../../../../wet-BES/wet/financiën/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028151/README.md), onderscheidenlijk [artikel 28 van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../../../../../wet-BES/wet/financiën/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028151/README.md) mogelijk is;  
+c. integratie met een bestaand plan of een bestaand beleidsverslag dan wel met de begroting of de jaarrekening en het jaarverslag, bedoeld in artikel 17, onderscheidenlijk artikel 28 van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba mogelijk is;  
 
 d. het bevorderen van de samenhang in het beleid in de openbare lichamen door onderlinge afstemming van onderdelen daarvan onmogelijk wordt;  
 
@@ -1182,18 +1188,18 @@ e. het uitsluitend dient tot het verkrijgen van informatie.
 1.  Het eilandsbestuur is bevoegd tot oplegging van een last onder bestuursdwang.   
 2.  De bevoegdheid tot oplegging van een last onder bestuursdwang wordt uitgeoefend door het bestuurscollege, indien de last dient tot handhaving van regels welke het eilandsbestuur uitvoert.   
 3.  De bevoegdheid tot oplegging van een last onder bestuursdwang wordt uitgeoefend door de gezaghebber, indien de last dient tot handhaving van regels welke hij uitvoert.   
-4.  De [artikelen 1:1, vierde lid](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [4:116](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:1 tot en met 5:10](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [titel 5.3 van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van toepassing met dien verstande dat in [artikel 4:116](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) voor «het [Wetboek van Burgerlijke Rechtsvordering](../../../../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md)» wordt gelezen: het [Wetboek van Burgerlijke Rechtsvordering BES](../../../../../../../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md).   
-5.  De [titels X](../../../../../../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md) en [XI van het Wetboek van Strafvordering BES](../../../../../../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md) zijn van overeenkomstige toepassing met dien verstande dat: 
+4.  De artikelen 1:1, vierde lid, 4:116, 5:1 tot en met 5:10 en titel 5.3 van de Algemene wet bestuursrecht zijn van toepassing met dien verstande dat in artikel 4:116 voor «het Wetboek van Burgerlijke Rechtsvordering» wordt gelezen: het Wetboek van Burgerlijke Rechtsvordering BES.   
+5.  De titels X en XI van het Wetboek van Strafvordering BES zijn van overeenkomstige toepassing met dien verstande dat: 
 
-a. de machtiging, bedoeld in [artikel 155 van het Wetboek van Strafvordering BES](../../../../../../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), wordt verleend door: 
+a. de machtiging, bedoeld in artikel 155 van het Wetboek van Strafvordering BES, wordt verleend door: 
 
 1°. het bestuurscollege in de gevallen, bedoeld in het tweede lid;  
 
 2°. de gezaghebber in de gevallen, bedoeld in het derde lid;    
 
-b. het legitimatiebewijs, bedoeld in [artikel 162 van het Wetboek van Strafvordering BES](../../../../../../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), wordt uitgegeven door de gezaghebber;  
+b. het legitimatiebewijs, bedoeld in artikel 162 van het Wetboek van Strafvordering BES, wordt uitgegeven door de gezaghebber;  
 
-c. het schriftelijk verslag omtrent het binnentreden, bedoeld in [artikel 163 van het Wetboek van Strafvordering BES](../../../../../../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), wordt toegezonden aan: 
+c. het schriftelijk verslag omtrent het binnentreden, bedoeld in artikel 163 van het Wetboek van Strafvordering BES, wordt toegezonden aan: 
 
 1°. het bestuurscollege in de gevallen, bedoeld in het tweede lid;  
 
@@ -1203,7 +1209,7 @@ c. het schriftelijk verslag omtrent het binnentreden, bedoeld in [artikel 163 va
 
 1.  In geval van toepassing van artikel 231 kan de Rijksvertegenwoordiger een last onder bestuursdwang opleggen namens het eilandsbestuur en ten laste van het openbaar lichaam. Artikel 140, vierde en vijfde lid, zijn alsdan van overeenkomstige toepassing met dien verstande dat de machtiging, bedoeld in het vijfde lid, onderdeel a, wordt verleend door de Rijksvertegenwoordiger, het legitimatiebewijs, bedoeld in het vijfde lid, onderdeel b, wordt uitgegeven door de Rijksvertegenwoordiger en dat het schriftelijk verslag, bedoeld in het vijfde lid, onderdeel c, wordt toegezonden aan de Rijksvertegenwoordiger.   
 2.  Het openbaar lichaam heeft in dat geval voor het bedrag van de te zijnen laste gebrachte kosten verhaal op de overtreder.   
-3.  De [artikelen 1:1, vierde lid](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [4:116](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:10 van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn alsdan van toepassing.  
+3.  De artikelen 1:1, vierde lid, 4:116 en 5:10 van de Algemene wet bestuursrecht zijn alsdan van toepassing.  
 
 ### §  3  
 
@@ -1214,7 +1220,7 @@ c. het schriftelijk verslag omtrent het binnentreden, bedoeld in [artikel 163 va
 1.  Besluiten van het eilandsbestuur die algemeen verbindende voorschriften inhouden, verbinden niet dan wanneer zij zijn bekendgemaakt.   
 2.  De bekendmaking geschiedt door plaatsing in het op een algemeen toegankelijke wijze uit te geven afkondigingsblad van het openbaar lichaam.   
 3.  Het afkondigingsblad kan elektronisch worden uitgegeven. Na de uitgifte blijft het afkondigingsblad elektronisch op een algemeen toegankelijke wijze beschikbaar. Indien elektronische uitgifte geheel of gedeeltelijk onmogelijk is, voorziet het eilandsbestuur in een vervangende uitgave. Bij of krachtens algemene maatregel van bestuur worden omtrent het bepaalde in de eerste en tweede volzin nadere regels gesteld.   
-4.  Bij de bekendmaking van een besluit dat aan goedkeuring is onderworpen, wordt de dagtekening vermeld van het besluit waarbij die goedkeuring is verleend of wordt de mededeling gedaan van de omstandigheid dat ingevolge [artikel 10:31, vierde lid, van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) een besluit tot goedkeuring wordt geacht te zijn genomen.  
+4.  Bij de bekendmaking van een besluit dat aan goedkeuring is onderworpen, wordt de dagtekening vermeld van het besluit waarbij die goedkeuring is verleend of wordt de mededeling gedaan van de omstandigheid dat ingevolge artikel 10:31, vierde lid, van de Algemene wet bestuursrecht een besluit tot goedkeuring wordt geacht te zijn genomen.  
 
 ### Artikel  143  
 
@@ -1245,7 +1251,7 @@ Met betrekking tot de intrekking van besluiten die algemeen verbindende voorschr
 
 ### Artikel  148  
 
-Op termijnen gesteld in een eilandsverordening zijn de [artikelen 1 tot en met 4 van de Algemene Termijnenwet](../../../../../../../../../../wet/algemene/termijnenwet/BWBR0002448/README.md) van overeenkomstige toepassing, tenzij in de eilandsverordening anders is bepaald. 
+Op termijnen gesteld in een eilandsverordening zijn de artikelen 1 tot en met 4 van de Algemene Termijnenwet van overeenkomstige toepassing, tenzij in de eilandsverordening anders is bepaald. 
 
 ### Afdeling  II  
 
@@ -1282,7 +1288,7 @@ De eilandsraad stelt een eilandsverordening vast waarin regels worden gesteld me
 
 ### Artikel  155  
 
-1.  De eilandsraad kan bij eilandsverordening de gezaghebber de bevoegdheid verlenen om bij verstoring van de openbare orde door de aanwezigheid van wapens, dan wel bij ernstige vrees voor het ontstaan daarvan, een gebied, met inbegrip van de daarin gelegen voor het publiek openstaande gebouwen en daarbij behorende erven, aan te wijzen als veiligheidsrisicogebied. In een veiligheidsrisicogebied kan de officier van justitie de bevoegdheden, bedoeld in de [artikelen 50, derde lid](../../../../../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), [51, derde lid](../../../../../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), en [52, derde lid, van de Wet wapens en munitie](../../../../../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md) toepassen. Voor de vaststelling van de eilandsverordening bij stemming is de volstrekte meerderheid van het aantal zitting hebbende leden vereist.   
+1.  De eilandsraad kan bij eilandsverordening de gezaghebber de bevoegdheid verlenen om bij verstoring van de openbare orde door de aanwezigheid van wapens, dan wel bij ernstige vrees voor het ontstaan daarvan, een gebied, met inbegrip van de daarin gelegen voor het publiek openstaande gebouwen en daarbij behorende erven, aan te wijzen als veiligheidsrisicogebied. In een veiligheidsrisicogebied kan de officier van justitie de bevoegdheden, bedoeld in de artikelen 50, derde lid, 51, derde lid, en 52, derde lid, van de Wet wapens en munitie toepassen. Voor de vaststelling van de eilandsverordening bij stemming is de volstrekte meerderheid van het aantal zitting hebbende leden vereist.   
 2.  De gezaghebber gaat niet over tot aanwijzing als veiligheidsrisicogebied dan na overleg met de officier van justitie.   
 3.  De aanwijzing als veiligheidsrisicogebied wordt gegeven voor een bepaalde duur die niet langer is en voor een gebied dat niet groter is dan strikt noodzakelijk voor de handhaving van de openbare orde.   
 4.  De beslissing tot gebiedsaanwijzing wordt op schrift gesteld en bevat een omschrijving van het gebied waarop deze van toepassing is alsmede de geldigheidsduur. Indien de situatie dermate spoedeisend is dat de gezaghebber de beslissing tot gebiedsaanwijzing niet tevoren op schrift kan stellen, zorgt hij alsnog zo spoedig mogelijk voor de opschriftstelling en voor de bekendmaking daarvan.   
@@ -1291,13 +1297,13 @@ De eilandsraad stelt een eilandsverordening vast waarin regels worden gesteld me
 
 ### Artikel  156  
 
-1.  De eilandsraad kan bij eilandsverordening de gezaghebber de bevoegdheid verlenen om, indien dat in het belang van de handhaving van de openbare orde noodzakelijk is, te besluiten tot plaatsing van vaste camera’s voor een bepaalde duur ten behoeve van het toezicht op een openbare plaats als bedoeld in [artikel 1 van de Wet openbare manifestaties](../../../../../../../../../../wet/wet/openbare/manifestaties/BWBR0004318/README.md) en andere bij eilandsverordening aan te wijzen plaatsen die voor een ieder toegankelijk zijn. De gezaghebber bepaalt de duur van de plaatsing en wijst de openbare plaats of plaatsen aan, met inachtneming van hetgeen daaromtrent in de eilandsverordening is bepaald. Voor de vaststelling van de eilandsverordening bij stemming is de volstrekte meerderheid van het aantal zitting hebbende leden vereist.   
+1.  De eilandsraad kan bij eilandsverordening de gezaghebber de bevoegdheid verlenen om, indien dat in het belang van de handhaving van de openbare orde noodzakelijk is, te besluiten tot plaatsing van vaste camera’s voor een bepaalde duur ten behoeve van het toezicht op een openbare plaats als bedoeld in artikel 1 van de Wet openbare manifestaties en andere bij eilandsverordening aan te wijzen plaatsen die voor een ieder toegankelijk zijn. De gezaghebber bepaalt de duur van de plaatsing en wijst de openbare plaats of plaatsen aan, met inachtneming van hetgeen daaromtrent in de eilandsverordening is bepaald. Voor de vaststelling van de eilandsverordening bij stemming is de volstrekte meerderheid van het aantal zitting hebbende leden vereist.   
 2.  De gezaghebber stelt, na overleg met de officier van justitie, de periode vast waarin in het belang van de handhaving van de openbare orde daadwerkelijk gebruik van de camera’s plaatsvindt en de met de camera’s gemaakte beelden in elk geval rechtstreeks worden bekeken.   
 3.  De gezaghebber bedient zich bij de uitvoering van het in het eerste lid bedoelde besluit van de onder zijn gezag staande politie.   
 4.  De aanwezigheid van camera’s als bedoeld in het eerste lid is op duidelijke wijze kenbaar voor een ieder die de desbetreffende openbare plaats betreedt.   
-5.  Met de camera’s worden uitsluitend beelden gemaakt van een openbare plaats als bedoeld in [artikel 1 van de Wet openbare manifestaties](../../../../../../../../../../wet/wet/openbare/manifestaties/BWBR0004318/README.md) en andere bij eilandsverordening aan te wijzen plaatsen die voor een ieder toegankelijk zijn.   
+5.  Met de camera’s worden uitsluitend beelden gemaakt van een openbare plaats als bedoeld in artikel 1 van de Wet openbare manifestaties en andere bij eilandsverordening aan te wijzen plaatsen die voor een ieder toegankelijk zijn.   
 6.  De met de camera’s gemaakte beelden mogen in het belang van de handhaving van de openbare orde worden vastgelegd.   
-7.  De verwerking van de gegevens, bedoeld in het zesde lid, is een verwerking als bedoeld in de [Wet politiegegevens](../../../../../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md), met dien verstande dat, in afwijking van het bepaalde in [artikel 8 van die wet](../../../../../../../../../../wet/wet/openbare/manifestaties/BWBR0004318/README.md), de vastgelegde beelden na ten hoogste vier weken worden vernietigd en de gegevens, bedoeld in het zesde lid, indien er concrete aanleiding bestaat te vermoeden dat die gegevens noodzakelijk zijn voor de opsporing van een strafbaar feit, ten behoeve van de opsporing van dat strafbare feit kunnen worden verwerkt.   
+7.  De verwerking van de gegevens, bedoeld in het zesde lid, is een verwerking als bedoeld in de Wet politiegegevens, met dien verstande dat, in afwijking van het bepaalde in artikel 8 van die wet, de vastgelegde beelden na ten hoogste vier weken worden vernietigd en de gegevens, bedoeld in het zesde lid, indien er concrete aanleiding bestaat te vermoeden dat die gegevens noodzakelijk zijn voor de opsporing van een strafbaar feit, ten behoeve van de opsporing van dat strafbare feit kunnen worden verwerkt.   
 8.  Bij of krachtens algemene maatregel van bestuur kunnen met het oog op de goede uitvoering van het toezicht, bedoeld in het eerste lid, regels worden gesteld omtrent: 
 
 a. de vaste camera’s en andere technische hulpmiddelen benodigd voor het toezicht, bedoeld in het eerste lid, en de wijze waarop deze hulpmiddelen worden aangebracht;  
@@ -1309,7 +1315,7 @@ c. de ruimten waarin de waarneming of verwerking van door het toezicht vastgeleg
 ### Artikel  157  
 
 1.  De eilandsraad kan op overtreding van zijn eilandsverordeningen en van het bestuurscollege waaraan ingevolge artikel 166 verordenende bevoegdheid is gedelegeerd, straf stellen maar geen andere of zwaardere dan hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie, al dan niet met openbaarmaking van de rechterlijke uitspraak.   
-2.  Indien een krachtens het eerste lid strafbaar gestelde overtreding van voorschriften met betrekking tot het plaatsen of laten staan van motorrijtuigen op parkeerterreinen of weggedeelten, bedoeld in [artikel 56 van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../../../../../wet-BES/wet/financiën/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028151/README.md) wordt begaan door een bij de ontdekking van het feit onbekend gebleven bestuurder van een motorrijtuig, kunnen de op het feit gestelde straffen worden opgelegd aan de eigenaar of houder van dat motorrijtuig voor zover deze niet reeds naast de bestuurder voor dat feit aansprakelijk is.   
+2.  Indien een krachtens het eerste lid strafbaar gestelde overtreding van voorschriften met betrekking tot het plaatsen of laten staan van motorrijtuigen op parkeerterreinen of weggedeelten, bedoeld in artikel 56 van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba wordt begaan door een bij de ontdekking van het feit onbekend gebleven bestuurder van een motorrijtuig, kunnen de op het feit gestelde straffen worden opgelegd aan de eigenaar of houder van dat motorrijtuig voor zover deze niet reeds naast de bestuurder voor dat feit aansprakelijk is.   
 3.  Het tweede lid geldt niet, indien de eigenaar of houder: 
 
 a. de naam en het volledige adres van de bestuurder bekend heeft gemaakt;  
@@ -1332,17 +1338,17 @@ b. indien het ophouden noodzakelijk is ter voorkoming van voortzetting of herhal
 7.  De ophouding mag niet langer duren dan de tijd die nodig is ter voorkoming van voortzetting of herhaling van de niet-naleving, met een maximum van twaalf uren.   
 8.  De plaats van ophouding dient geschikt te zijn voor de opvang van de op te houden personen. Bij algemene maatregel van bestuur kunnen nadere regels hieromtrent worden gesteld.   
 9.  De gezaghebber draagt er voor zover mogelijk zorg voor dat de opgehouden personen in de gelegenheid worden gesteld door een daartoe door hem aangewezen ambtenaar hun gegevens te laten vastleggen ten bewijze dat zij zijn opgehouden.   
-10.  De [artikelen 54](../../../../../../../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md) en [55 van de Wet administratieve rechtspraak BES](../../../../../../../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md) zijn niet van toepassing op de beschikking tot ophouding.   
-11.  Indien tegen de beschikking tot ophouding een verzoek om een voorlopige voorziening als bedoeld in [artikel 85 van de Wet administratieve rechtspraak BES](../../../../../../../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md) wordt gedaan: 
+10.  De artikelen 54 en 55 van de Wet administratieve rechtspraak BES zijn niet van toepassing op de beschikking tot ophouding.   
+11.  Indien tegen de beschikking tot ophouding een verzoek om een voorlopige voorziening als bedoeld in artikel 85 van de Wet administratieve rechtspraak BES wordt gedaan: 
 
-a. wordt, in afwijking van [artikel 86 van de van de Wet administratieve rechtspraak BES](../../../../../../../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md), de verzoeker die is opgehouden zo mogelijk nog tijdens zijn ophouding door de voorzieningenrechter gehoord;  
+a. wordt, in afwijking van artikel 86 van de van de Wet administratieve rechtspraak BES, de verzoeker die is opgehouden zo mogelijk nog tijdens zijn ophouding door de voorzieningenrechter gehoord;  
 
-b. doet de voorzieningenrechter in afwijking van [artikel 86 van de Wet administratieve rechtspraak BES](../../../../../../../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md) onmiddellijk na het horen van partijen uitspraak, en  
+b. doet de voorzieningenrechter in afwijking van artikel 86 van de Wet administratieve rechtspraak BES onmiddellijk na het horen van partijen uitspraak, en  
 
-c. wordt, in afwijking van [artikel 17](../../../../../../../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md) en [artikel 81 van de Wet administratieve rechtspraak BES](../../../../../../../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md), geen griffierecht geheven.     
+c. wordt, in afwijking van artikel 17 en artikel 81 van de Wet administratieve rechtspraak BES, geen griffierecht geheven.     
 12.  Bij de beoordeling van het verzoek betrekt de voorzieningenrechter tevens de rechtmatigheid van de tenuitvoerlegging van de beschikking tot ophouding jegens verzoeker.   
 13.  Indien de voorzieningenrechter een of meer verzoeken toewijst op de grond dat de beschikking tot ophouding naar zijn voorlopig oordeel onrechtmatig is, kan hij bepalen dat alle personen die op basis van de betrokken beschikking zijn opgehouden, onverwijld in vrijheid worden gesteld.   
-14.  Het twaalfde lid is van overeenkomstige toepassing op de beoordeling van een beroep tegen de beschikking tot ophouding als bedoeld in [artikel 7 van de Wet administratieve rechtspraak BES](../../../../../../../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md).  
+14.  Het twaalfde lid is van overeenkomstige toepassing op de beoordeling van een beroep tegen de beschikking tot ophouding als bedoeld in artikel 7 van de Wet administratieve rechtspraak BES.  
 
 ### Artikel  159  
 
@@ -1382,7 +1388,7 @@ c. wordt, in afwijking van [artikel 17](../../../../../../../../../../wet-BES/we
 
 1.  Getuigen en deskundigen worden schriftelijk opgeroepen. De brief, houdende de oproep, wordt aangetekend verzonden of tegen gedagtekend ontvangstbewijs uitgereikt.   
 2.  De onderzoekscommissie kan bevelen dat getuigen en deskundigen die, hoewel opgeroepen in overeenstemming met het eerste lid, niet zijn verschenen, door de openbare macht voor hen worden gebracht om aan hun verplichting te voldoen. De onderzoekscommissie stelt de getuige of deskundige hiervan schriftelijk in kennis op de wijze, bedoeld in het eerste lid. In de beschikking wordt een termijn gesteld waarbinnen de belanghebbende de tenuitvoerlegging kan voorkomen door alsnog aan zijn verplichting te voldoen.   
-3.  Op een beschikking als bedoeld in het [eerste en het tweede lid is artikel 55 van de Wet administratieve rechtspraak BES](../../../../../../../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md) niet van toepassing.  
+3.  Op een beschikking als bedoeld in het eerste en het tweede lid is artikel 55 van de Wet administratieve rechtspraak BES niet van toepassing.  
 
 ### Artikel  164  
 
@@ -1404,17 +1410,17 @@ a. de instelling van de gezamenlijke rekenkamer;
 
 b. de instelling van een onderzoek, bedoeld in artikel 160, eerste lid;  
 
-c. de vaststelling of wijziging van de begroting, bedoeld in [artikel 15 van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../../../../../wet-BES/wet/financiën/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028151/README.md);  
+c. de vaststelling of wijziging van de begroting, bedoeld in artikel 15 van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba;  
 
-d. de vaststelling van de jaarrekening, bedoeld in [artikel 29 van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../../../../../wet-BES/wet/financiën/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028151/README.md);  
+d. de vaststelling van de jaarrekening, bedoeld in artikel 29 van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba;  
 
 e. het stellen van straf op overtreding van eilandsverordeningen;  
 
-f. de vaststelling van de eilandsverordeningen, bedoeld in [artikelen 34, eerste lid](../../../../../../../../../../wet-BES/wet/financiën/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028151/README.md) en [38, eerste lid, van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../../../../../wet-BES/wet/financiën/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028151/README.md);  
+f. de vaststelling van de eilandsverordeningen, bedoeld in artikelen 34, eerste lid en 38, eerste lid, van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba;  
 
-g. de aanwijzing van een of meer accountants, bedoeld in [artikel 38, derde lid, van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../../../../../wet-BES/wet/financiën/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028151/README.md);  
+g. de aanwijzing van een of meer accountants, bedoeld in artikel 38, derde lid, van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba;  
 
-h. de heffing van andere belastingen dan de precariobelasting, bedoeld in [artikel 60 van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../../../../../wet-BES/wet/financiën/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028151/README.md), de rechten, genoemd in [artikel 62 van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../../../../../wet-BES/wet/financiën/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028151/README.md) en de rechten waarvan de heffing geschiedt krachtens andere wetten dan de [Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../../../../../wet-BES/wet/financiën/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028151/README.md).     
+h. de heffing van andere belastingen dan de precariobelasting, bedoeld in artikel 60 van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba, de rechten, genoemd in artikel 62 van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba en de rechten waarvan de heffing geschiedt krachtens andere wetten dan de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba.     
 3.  De bevoegdheid tot het vaststellen van eilandsverordeningen, door strafbepaling of bestuursdwang te handhaven, kan de eilandsraad slechts overdragen voor zover het betreft de vaststelling van nadere regels met betrekking tot bepaalde door hem in zijn eilandsverordeningen aangewezen onderwerpen.   
 4.  De artikelen 142, tweede lid, 143 en 144 zijn van overeenkomstige toepassing op een besluit dat wordt genomen op grond van het eerste lid.  
 
@@ -1515,16 +1521,16 @@ e. een zorgvuldige behandeling van klachten door het eilandsbestuur.
 2.  De bevoegdheid, genoemd in het eerste lid, komt de gezaghebber eveneens toe in geval van ernstige vrees voor verstoring van de openbare orde op de grond dat de rechthebbende op de woning, het lokaal of het erf eerder een woning, een niet voor het publiek toegankelijk lokaal of een bij die woning of dat lokaal behorend erf op een zodanige wijze heeft gebruikt of doen gebruiken dat die woning, dat lokaal of dat erf op grond van het eerste lid is gesloten, en er aanwijzingen zijn dat betrokkene de woning, het lokaal of het erf ten aanzien waarvan hij rechthebbende is eveneens op een zodanige wijze zal gebruiken of doen gebruiken.   
 3.  De gezaghebber bepaalt in het besluit de duur van de sluiting. In geval van ernstige vrees voor herhaling van de verstoring van de openbare orde kan hij besluiten de duur van de sluiting tot een door hem te bepalen tijdstip te verlengen.   
 4.  Bij de bekendmaking van het besluit worden belanghebbenden in de gelegenheid gesteld binnen een te stellen termijn maatregelen te treffen waardoor de verstoring van de openbare orde wordt beëindigd. De eerste volzin is niet van toepassing, indien voorafgaande bekendmaking in spoedeisende gevallen niet mogelijk is.   
-5.  De [artikelen 1:1, vierde lid](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [4:116](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:10](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:25 tot en met 5:28 van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing.  
+5.  De artikelen 1:1, vierde lid, 4:116, 5:10 en 5:25 tot en met 5:28 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing.  
 
 ### Artikel  178  
 
-1.  In geval van oproerige beweging, van andere ernstige wanordelijkheden of van rampen of zware ongevallen, dan wel van ernstige vrees voor het ontstaan daarvan, is de gezaghebber bevoegd alle bevelen te geven die hij ter handhaving van de openbare orde of ter beperking van gevaar nodig acht. Daarbij kan van andere dan bij de [Grondwet](../../../../../../../../../../wet/grondwet/BWBR0001840/README.md) gestelde voorschriften worden afgeweken.   
+1.  In geval van oproerige beweging, van andere ernstige wanordelijkheden of van rampen of zware ongevallen, dan wel van ernstige vrees voor het ontstaan daarvan, is de gezaghebber bevoegd alle bevelen te geven die hij ter handhaving van de openbare orde of ter beperking van gevaar nodig acht. Daarbij kan van andere dan bij de Grondwet gestelde voorschriften worden afgeweken.   
 2.  De gezaghebber laat tot maatregelen van geweld niet overgaan dan na het doen van de nodige waarschuwing.  
 
 ### Artikel  179  
 
-1.  Wanneer een omstandigheid als bedoeld in artikel 178, eerste lid zich voordoet, kan de gezaghebber algemeen verbindende voorschriften geven die ter handhaving van de openbare orde of ter beperking van gevaar nodig zijn. Daarbij kan van andere dan bij de [Grondwet](../../../../../../../../../../wet/grondwet/BWBR0001840/README.md) gestelde voorschriften worden afgeweken. Hij maakt deze voorschriften bekend op een door hem te bepalen wijze.   
+1.  Wanneer een omstandigheid als bedoeld in artikel 178, eerste lid zich voordoet, kan de gezaghebber algemeen verbindende voorschriften geven die ter handhaving van de openbare orde of ter beperking van gevaar nodig zijn. Daarbij kan van andere dan bij de Grondwet gestelde voorschriften worden afgeweken. Hij maakt deze voorschriften bekend op een door hem te bepalen wijze.   
 2.  De gezaghebber brengt de voorschriften zo spoedig mogelijk ter kennis van de eilandsraad, van de Rijksvertegenwoordiger en van de officier van justitie, hoofd van het parket in eerste aanleg.   
 3.  De voorschriften vervallen, indien zij niet door de eilandsraad in zijn eerstvolgende vergadering die blijkens de presentielijst door meer dan de helft van het aantal zitting hebbende leden is bezocht, worden bekrachtigd.   
 4.  Indien de eilandsraad de voorschriften niet bekrachtigt, kan de gezaghebber binnen vierentwintig uren administratief beroep instellen bij de Rijksvertegenwoordiger. Deze beslist binnen twee dagen. Gedurende de beroepstermijn en de behandeling van het administratief beroep blijven de voorschriften van kracht.   
@@ -1558,7 +1564,7 @@ b. indien het ophouden noodzakelijk is ter voorkoming van voortzetting of herhal
 
 ### Artikel  183  
 
-1.  De gezamenlijke rekenkamer onderzoekt de doelmatigheid, de doeltreffendheid en de rechtmatigheid van het door de eilandsbesturen gevoerde bestuur. Een door de gezamenlijke rekenkamer ingesteld onderzoek naar de rechtmatigheid van het door de eilandsbesturen gevoerde bestuur bevat geen controle van de jaarrekening als bedoeld in [artikel 38, derde lid, van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../../../../../wet-BES/wet/financiën/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028151/README.md).   
+1.  De gezamenlijke rekenkamer onderzoekt de doelmatigheid, de doeltreffendheid en de rechtmatigheid van het door de eilandsbesturen gevoerde bestuur. Een door de gezamenlijke rekenkamer ingesteld onderzoek naar de rechtmatigheid van het door de eilandsbesturen gevoerde bestuur bevat geen controle van de jaarrekening als bedoeld in artikel 38, derde lid, van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba.   
 2.  Op verzoek van een of meer eilandsraden kan de gezamenlijke rekenkamer een onderzoek instellen.  
 
 ### Artikel  184  
@@ -1571,7 +1577,7 @@ b. indien het ophouden noodzakelijk is ter voorkoming van voortzetting of herhal
 
 1.  De gezamenlijke rekenkamer heeft de in de volgende leden vermelde bevoegdheden ten aanzien van de volgende instellingen en over de volgende periode: 
 
-a. samenwerkingslichamen en gemeenschappelijke organen ingesteld krachtens de [Wet gemeenschappelijke regelingen](../../../../../../../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md), waaraan de openbare lichamen deelnemen, over de jaren dat door de openbare lichamen aan de regeling wordt deelgenomen;  
+a. samenwerkingslichamen en gemeenschappelijke organen ingesteld krachtens de Wet gemeenschappelijke regelingen, waaraan de openbare lichamen deelnemen, over de jaren dat door de openbare lichamen aan de regeling wordt deelgenomen;  
 
 b. naamloze vennootschappen en besloten vennootschappen met beperkte aansprakelijkheid waarvan een openbaar lichaam meer dan vijftig procent van het geplaatste aandelenkapitaal houdt, over de jaren dat het desbetreffende openbaar lichaam meer dan vijftig procent van het geplaatste aandelenkapitaal houdt;  
 
@@ -1584,7 +1590,7 @@ c. andere privaatrechtelijke rechtspersonen waaraan een openbaar lichaam of een 
 1.  De gezamenlijke rekenkamer legt haar bevindingen en haar oordeel vast in rapporten, met dien verstande dat hierin niet worden opgenomen gegevens en bevindingen die naar hun aard vertrouwelijk zijn.   
 2.  De gezamenlijke rekenkamer deelt aan de eilandsraad en het bestuurscollege van het betrokken openbaar lichaam en, indien van toepassing, aan de betrokken instelling, de opmerkingen en bedenkingen mee die zij naar aanleiding van haar bevindingen van belang acht. Aan de eilandsraad of het bestuurscollege kan zij ter zake voorstellen doen.   
 3.  De gezamenlijke rekenkamer stelt elk jaar voor 1 april een verslag op van haar werkzaamheden over het voorgaande jaar. Het verslag wordt door de gezamenlijke rekenkamer aan de eilandsraden en de bestuurscolleges van de openbare lichamen gezonden.   
-4.  De gezamenlijke rekenkamer zendt een afschrift van haar rapporten aan de eilandsraad en het bestuurscollege van het betrokken openbare lichaam. Indien zij met toepassing van [artikel 38, elfde lid, van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../../../../../wet-BES/wet/financiën/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028151/README.md) een onderzoek heeft ingesteld, zendt de gezamenlijke rekenkamer tevens een afschrift van het rapport aan de betrokken instelling.   
+4.  De gezamenlijke rekenkamer zendt een afschrift van haar rapporten aan de eilandsraad en het bestuurscollege van het betrokken openbare lichaam. Indien zij met toepassing van artikel 38, elfde lid, van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba een onderzoek heeft ingesteld, zendt de gezamenlijke rekenkamer tevens een afschrift van het rapport aan de betrokken instelling.   
 5.  De rapporten en de verslagen van de gezamenlijke rekenkamer zijn openbaar.  
 
 ### Hoofdstuk  V  
@@ -1626,7 +1632,7 @@ Voor de benoembaarheid tot Rijksvertegenwoordiger is het Nederlanderschap vereis
 
 ### Artikel  192  
 
-1.  Alvorens zijn ambt te aanvaarden, legt de Rijksvertegenwoordiger in handen van de Koning de volgende eed (verklaring en belofte) af: «Ik zweer (verklaar) dat ik, om tot Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba benoemd te worden, rechtstreeks noch middellijk, onder welke naam of welk voorwendsel ook, enige gift of gunst heb gegeven of beloofd. Ik zweer (verklaar en beloof) dat ik, om iets in dit ambt te doen of te laten, rechtstreeks noch middellijk enig geschenk of enige belofte heb aangenomen of zal aannemen. Ik zweer (beloof) dat ik getrouw zal zijn aan de [Grondwet](../../../../../../../../../../wet/grondwet/BWBR0001840/README.md), dat ik de wetten zal nakomen en dat ik mijn plichten als Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba naar eer en geweten zal vervullen. Zo waarlijk helpe mij God Almachtig!» (Dat verklaar en beloof ik!»)   
+1.  Alvorens zijn ambt te aanvaarden, legt de Rijksvertegenwoordiger in handen van de Koning de volgende eed (verklaring en belofte) af: «Ik zweer (verklaar) dat ik, om tot Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba benoemd te worden, rechtstreeks noch middellijk, onder welke naam of welk voorwendsel ook, enige gift of gunst heb gegeven of beloofd. Ik zweer (verklaar en beloof) dat ik, om iets in dit ambt te doen of te laten, rechtstreeks noch middellijk enig geschenk of enige belofte heb aangenomen of zal aannemen. Ik zweer (beloof) dat ik getrouw zal zijn aan de Grondwet, dat ik de wetten zal nakomen en dat ik mijn plichten als Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba naar eer en geweten zal vervullen. Zo waarlijk helpe mij God Almachtig!» (Dat verklaar en beloof ik!»)   
 2.  In geval van herbenoeming wordt de eed (verklaring en belofte) in handen van de Koning of in handen van Onze Minister, daartoe door de Koning gemachtigd, afgelegd.  
 
 ### Artikel  193  
@@ -1637,7 +1643,7 @@ Voor de benoembaarheid tot Rijksvertegenwoordiger is het Nederlanderschap vereis
 4.  Buiten hetgeen hem bij of krachtens de wet is toegekend, geniet de Rijksvertegenwoordiger als zodanig geen inkomsten, in welke vorm ook, ten laste van het Rijk.   
 5.  De Rijksvertegenwoordiger geniet geen vergoedingen, in welke vorm ook, voor werkzaamheden, verricht in nevenfuncties welke hij vervult uit hoofde van het ambt van Rijksvertegenwoordiger. Indien deze vergoedingen worden uitgekeerd, worden zij gestort in de Rijkskas.   
 6.  Tot vergoedingen als bedoeld in het vijfde lid, behoren inkomsten, onder welke benaming ook, uit nevenfuncties die de Rijksvertegenwoordiger neerlegt bij beëindiging van het ambt.   
-7.  Andere inkomsten dan die bedoeld in het vijfde lid worden met de bezoldiging verrekend overeenkomstig [artikel 3 van de Wet schadeloosstelling leden Tweede Kamer](../../../../../../../../../../wet/wet/schadeloosstelling/leden/tweede/kamer/BWBR0004939/README.md).   
+7.  Andere inkomsten dan die bedoeld in het vijfde lid worden met de bezoldiging verrekend overeenkomstig artikel 3 van de Wet schadeloosstelling leden Tweede Kamer.   
 8.  Bij algemene maatregel van bestuur worden regels gesteld over de wijze waarop de Rijksvertegenwoordiger gegevens over de inkomsten, bedoeld in het zevende lid, verstrekt, en de gevolgen van het niet verstrekken van deze gegevens.  
 
 ### Artikel  194  
@@ -1646,7 +1652,7 @@ Voor de benoembaarheid tot Rijksvertegenwoordiger is het Nederlanderschap vereis
 2.  De Rijksvertegenwoordiger meldt zijn voornemen tot aanvaarding van een nevenfunctie, anders dan uit hoofde van zijn ambt van Rijksvertegenwoordiger, aan Onze Minister.   
 3.  De Rijksvertegenwoordiger maakt nevenfuncties, anders dan uit hoofde van zijn ambt van Rijksvertegenwoordiger, openbaar. De openbaarmaking vindt plaats terstond na benoeming tot Rijksvertegenwoordiger of aanvaarding van een nevenfunctie en geschiedt door terinzaggelegging van een opgave van de functies op het Bureau van de Rijksvertegenwoordiger, bedoeld in artikel 202, eerste lid.   
 4.  De Rijksvertegenwoordiger maakt tevens de inkomsten uit de nevenfuncties, bedoeld in het derde lid, openbaar. Openbaarmaking geschiedt door terinzagelegging op het Bureau van de Rijksvertegenwoordiger uiterlijk op 1 april na het kalenderjaar waarin de inkomsten zijn genoten.  
-5.  Onder inkomsten wordt verstaan: loon in de zin van [artikel 9 van de Wet op de loonbelasting 1964](../../../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), verminderd met de eindheffingsbestanddelen bedoeld in [artikel 31 van die wet](../../../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md). 
+5.  Onder inkomsten wordt verstaan: loon in de zin van artikel 9 van de Wet op de loonbelasting 1964, verminderd met de eindheffingsbestanddelen bedoeld in artikel 31 van die wet. 
 
 ### Artikel  195  
 
@@ -1662,7 +1668,7 @@ d. lid van de Algemene Rekenkamer;
 
 e. Nationale ombudsman;  
 
-f. substituut-ombudsman als bedoeld in [artikel 9, eerste lid, van de Wet Nationale ombudsman](../../../../../../../../../../wet/belemmeringenwet/verordeningen/BWBR0001865/README.md);  
+f. substituut-ombudsman als bedoeld in artikel 9, eerste lid, van de Wet Nationale ombudsman;  
 
 g. lid van een eilandsraad;  
 
@@ -1733,7 +1739,7 @@ Het ambt van Rijksvertegenwoordiger ontheft van alle bij of krachtens de wet opg
 
 1.  Indien de Rijksvertegenwoordiger langer dan zes weken buiten de openbare lichamen wenst te verblijven, behoeft hij daartoe de toestemming van Onze Minister.   
 2.  De Rijksvertegenwoordiger die buiten de openbare lichamen verblijft kan door Onze Minister wegens dringende redenen van dienstbelang worden teruggeroepen.   
-3.  De [Algemene Termijnenwet](../../../../../../../../../../wet/algemene/termijnenwet/BWBR0002448/README.md) is niet van toepassing op de termijn, genoemd in het eerste lid.  
+3.  De Algemene Termijnenwet is niet van toepassing op de termijn, genoemd in het eerste lid.  
 
 ### Artikel  200  
 
@@ -1877,13 +1883,13 @@ De bepalingen van eilandsverordeningen in wier onderwerp door een wet of een alg
 ### Artikel  217  
 
 1.  Beslissingen van eilandsbesturen kunnen slechts aan goedkeuring worden onderworpen in bij de wet bepaalde gevallen.   
-2.  Op de goedkeuring van beslissingen van eilandsbesturen is [afdeling 10.2.1 van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van overeenkomstige toepassing.  
+2.  Op de goedkeuring van beslissingen van eilandsbesturen is afdeling 10.2.1 van de Algemene wet bestuursrecht van overeenkomstige toepassing.  
 
 ### Artikel  218  
 
 1.  Een beslissing die aan goedkeuring bij koninklijk besluit is onderworpen, wordt toegezonden aan Onze Minister wie het aangaat.   
 2.  Een voordracht tot onthouding van goedkeuring wordt gedaan door of mede door Onze Minister.   
-3.  Onthouding van goedkeuring geschiedt niet, dan nadat de Raad van State is gehoord. De toepassing van [artikel 10:30, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) vindt in dat geval plaats voordat het ontwerp-besluit bij de Raad van State ter overweging wordt gebracht. [Artikel 18a van de Wet op de Raad van State](../../../../../../../../../../wet/wet/op/de/raad/van/state/BWBR0002367/README.md) is van overeenkomstige toepassing.  
+3.  Onthouding van goedkeuring geschiedt niet, dan nadat de Raad van State is gehoord. De toepassing van artikel 10:30, eerste lid, van de Algemene wet bestuursrecht vindt in dat geval plaats voordat het ontwerp-besluit bij de Raad van State ter overweging wordt gebracht. Artikel 18a van de Wet op de Raad van State is van overeenkomstige toepassing.  
 
 ### §  2  
 
@@ -1891,7 +1897,7 @@ De bepalingen van eilandsverordeningen in wier onderwerp door een wet of een alg
 
 ### Artikel  219  
 
-Op de schorsing en vernietiging van beslissingen van eilandsbesturen zijn [afdeling 10.2.2](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [10.2.3 van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van overeenkomstige toepassing. 
+Op de schorsing en vernietiging van beslissingen van eilandsbesturen zijn afdeling 10.2.2 en 10.2.3 van de Algemene wet bestuursrecht van overeenkomstige toepassing. 
 
 ### Artikel  220  
 
@@ -1924,7 +1930,7 @@ Indien een bekend gemaakt besluit niet is vernietigd binnen de tijd waarvoor het
 ### Artikel  226  
 
 1.  De voordracht tot vernietiging wordt gedaan door of mede door Onze Minister.   
-2.  [Artikel 15, derde lid, van de Wet op de Raad van State](../../../../../../../../../../wet/wet/op/de/raad/van/state/BWBR0002367/README.md) is niet van toepassing.  
+2.  Artikel 15, derde lid, van de Wet op de Raad van State is niet van toepassing.  
 
 ### Artikel  227  
 
@@ -1936,7 +1942,7 @@ Het eilandsbestuur neemt opnieuw een besluit omtrent het onderwerp van het verni
 
 ### Artikel  229  
 
-1.  In afwijking van [artikel 3, eerste lid onderdeel a, en tweede lid van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../../../../../wet-BES/invoeringswet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028063/README.md) kan een belanghebbende tegen een koninklijk besluit als bedoeld in artikel 220 binnen zes weken nadat het besluit is bekendgemaakt beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.   
+1.  In afwijking van artikel 3, eerste lid onderdeel a, en tweede lid van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba kan een belanghebbende tegen een koninklijk besluit als bedoeld in artikel 220 binnen zes weken nadat het besluit is bekendgemaakt beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.   
 2.  Geen beroep kan worden ingesteld tegen de weigering om de vernietiging te bevorderen en tegen het niet tijdig nemen van een besluit tot vernietiging.  
 
 ### §  3  
@@ -1945,12 +1951,12 @@ Het eilandsbestuur neemt opnieuw een besluit omtrent het onderwerp van het verni
 
 ### Artikel  230  
 
-Wanneer de eilandsraad bij of krachtens een andere dan deze wet of de [Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../../../../../wet-BES/wet/financiën/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028151/README.md) gevorderde beslissingen niet of niet naar behoren neemt, voorziet het bestuurscollege daarin. 
+Wanneer de eilandsraad bij of krachtens een andere dan deze wet of de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba gevorderde beslissingen niet of niet naar behoren neemt, voorziet het bestuurscollege daarin. 
 
 ### Artikel  231  
 
-1.  Wanneer het bestuurscollege of de gezaghebber bij of krachtens een andere dan deze wet of de [Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../../../../../wet-BES/wet/financiën/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028151/README.md) gevorderde beslissingen niet of niet naar behoren neemt, voorziet de Rijksvertegenwoordiger daarin namens het bestuurscollege of de gezaghebber en ten laste van het openbaar lichaam.   
-2.  Spoedeisende gevallen uitgezonderd, vindt het eerste lid geen toepassing dan nadat het bestuurscollege, onderscheidenlijk de gezaghebber in de gelegenheid is gesteld binnen een door de Rijksvertegenwoordiger gestelde termijn alsnog de bij of krachtens een andere dan deze wet of de [Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../../../../../wet-BES/wet/financiën/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028151/README.md) gevorderde beslissingen te nemen.  
+1.  Wanneer het bestuurscollege of de gezaghebber bij of krachtens een andere dan deze wet of de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba gevorderde beslissingen niet of niet naar behoren neemt, voorziet de Rijksvertegenwoordiger daarin namens het bestuurscollege of de gezaghebber en ten laste van het openbaar lichaam.   
+2.  Spoedeisende gevallen uitgezonderd, vindt het eerste lid geen toepassing dan nadat het bestuurscollege, onderscheidenlijk de gezaghebber in de gelegenheid is gesteld binnen een door de Rijksvertegenwoordiger gestelde termijn alsnog de bij of krachtens een andere dan deze wet of de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba gevorderde beslissingen te nemen.  
 
 ### Artikel  232  
 
@@ -1963,7 +1969,7 @@ Bij de wet kunnen met afwijking van de artikelen 5 en 149 voorzieningen worden g
 ### Artikel  233  
 
 1.  De eilandsraden, die op de dag voor de inwerkingtreding van deze wet fungeren als eilandsraden van de eilandgebieden Bonaire, Sint Eustatius en Saba, worden aangemerkt als eilandsraad van het openbaar lichaam Bonaire, het openbaar lichaam Sint Eustatius, onderscheidenlijk het openbaar lichaam Saba.   
-2.  De leden van de eilandsraden, bedoeld in het eerste lid, worden geacht te zijn gekozen tot lid van de eilandsraad van het openbaar lichaam Bonaire, het openbaar lichaam Sint Eustatius, onderscheidenlijk het openbaar lichaam Saba. Zij treden, behoudens in het geval van tussentijds aftreden of overlijden, af met ingang van de dag waarop de leden van provinciale staten, die op de dag voor de inwerkingtreding van deze wet zitting hebben, ingevolge [artikel C 4, tweede lid, van de Kieswet](../../../../../../../../../../wet/kieswet/BWBR0004627/README.md) aftreden.   
+2.  De leden van de eilandsraden, bedoeld in het eerste lid, worden geacht te zijn gekozen tot lid van de eilandsraad van het openbaar lichaam Bonaire, het openbaar lichaam Sint Eustatius, onderscheidenlijk het openbaar lichaam Saba. Zij treden, behoudens in het geval van tussentijds aftreden of overlijden, af met ingang van de dag waarop de leden van provinciale staten, die op de dag voor de inwerkingtreding van deze wet zitting hebben, ingevolge artikel C 4, tweede lid, van de Kieswet aftreden.   
 3.  Tot het moment van aftreden, bedoeld in het tweede lid: 
 
 a. is artikel 14 slechts van toepassing voor zover de Eilandenregeling Nederlandse Antillen, zoals die luidde op de dag voor de inwerkingtreding van deze wet, ter zake eveneens een verbod inhield;  

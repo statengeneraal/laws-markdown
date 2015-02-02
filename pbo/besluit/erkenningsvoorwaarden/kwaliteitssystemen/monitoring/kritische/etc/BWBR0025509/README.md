@@ -3,7 +3,7 @@
 ##Besluit van het Productschap Vee en Vlees van 11 februari 2009, houdende erkenningsvoorwaarden voor privaatrechtelijke kwaliteitssystemen met betrekking tot monitoring kritische stoffen bij kalveren op grond van de Verordening monitoring kritische stoffen bij kalveren (PVV) 2008 (Besluit erkenningsvoorwaarden kwaliteitssystemen monitoring kritische stoffen bij kalveren (PVV) 2009)
 
 Het bestuur van het Productschap Vee en Vlees;  
-Gelet op [artikel 104, derde lid, van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [artikel 8, derde lid, van de Verordening monitoring kritische stoffen bij kalveren (PVV) 2008](../../../../../../../../pbo/verordening/monitoring/kritische/stoffen/bij/kalveren/(pvv)/2008/BWBR0025508/README.md);
+Gelet op artikel 104, derde lid, van de Wet op de bedrijfsorganisatie en artikel 8, derde lid, van de Verordening monitoring kritische stoffen bij kalveren (PVV) 2008;
 Besluit:     
 ###§ 1 
 
@@ -11,12 +11,12 @@ Besluit:
 
 ###Artikel 1 
 
-1. In dit besluit wordt aangesloten bij de definities, zoals gegeven in de [Verordening monitoring kritische stoffen bij kalveren (PVV) 2008](../../../../../../../../pbo/verordening/monitoring/kritische/stoffen/bij/kalveren/(pvv)/2008/BWBR0025508/README.md). 
+1. In dit besluit wordt aangesloten bij de definities, zoals gegeven in de Verordening monitoring kritische stoffen bij kalveren (PVV) 2008. 
 2. Voorts wordt verstaan onder: 
 
-a.verordening : [Verordening monitoring kritische stoffen bij kalveren (PVV) 2008](../../../../../../../../pbo/verordening/monitoring/kritische/stoffen/bij/kalveren/(pvv)/2008/BWBR0025508/README.md); 
+a.verordening : Verordening monitoring kritische stoffen bij kalveren (PVV) 2008; 
 
-b.bijlage : [bijlage bij de verordening](../../../../../../../../pbo/verordening/monitoring/kritische/stoffen/bij/kalveren/(pvv)/2008/BWBR0025508/README.md); 
+b.bijlage : bijlage bij de verordening; 
 
 c.commissie : Commissie van Deskundigen monitoring kritische stoffen bij kalveren; 
 
@@ -30,14 +30,14 @@ e.CI : Certificerende Instantie.
 
 ###Artikel 2 
 
-1. Een verzoek om erkenning als bedoeld in [artikel 8, derde lid, van de verordening](../../../../../../../../pbo/verordening/monitoring/kritische/stoffen/bij/kalveren/(pvv)/2008/BWBR0025508/README.md) wordt ingediend door de natuurlijke of rechtspersoon die eigenaar is van het kwaliteitssysteem. 
+1. Een verzoek om erkenning als bedoeld in artikel 8, derde lid, van de verordening wordt ingediend door de natuurlijke of rechtspersoon die eigenaar is van het kwaliteitssysteem. 
 2. Een aanvraag als bedoeld in het eerste lid, gaat in ieder geval vergezeld van: 
 
 a.een omschrijving van het kwaliteitssysteem; 
 
 b.de risicoanalyse zoals opgesteld uit hoofde van het kwaliteitssysteem; 
 
-c.een controle- en analysestrategie als bedoeld in [artikel 10, eerste lid, van de verordening](../../../../../../../../pbo/verordening/monitoring/kritische/stoffen/bij/kalveren/(pvv)/2008/BWBR0025508/README.md); 
+c.een controle- en analysestrategie als bedoeld in artikel 10, eerste lid, van de verordening; 
 
 d.een informatieprotocol als bedoeld in artikel 7, eerste lid; 
 
@@ -50,7 +50,7 @@ e.schriftelijke gegevens ten bewijze van het voldoen aan de voorwaarden voor erk
 
 ###Artikel 3 
 
-1. Alvorens een erkenning te verlenen, laat de voorzitter een toets uitvoeren waarbij zowel de opzet als de werking van het kwaliteitssysteem wordt getoetst op conformiteit met het bij of krachtens de [verordening](../../../../../../../../pbo/verordening/monitoring/kritische/stoffen/bij/kalveren/(pvv)/2008/BWBR0025508/README.md) bepaalde. 
+1. Alvorens een erkenning te verlenen, laat de voorzitter een toets uitvoeren waarbij zowel de opzet als de werking van het kwaliteitssysteem wordt getoetst op conformiteit met het bij of krachtens de verordening bepaalde. 
 2. De in het vorige lid bedoelde toets wordt uitgevoerd door een keuringsinstantie welke is geaccrediteerd volgens de norm NEN-EN-45011. 
 3. De kosten van de toets zijn voor rekening van de regelinghouder en bedragen ten hoogste € 5.000. 
 
@@ -61,16 +61,16 @@ e.schriftelijke gegevens ten bewijze van het voldoen aan de voorwaarden voor erk
 ###Artikel 4 
 
 1. Deelnemers verbinden zich met ondertekening van een schriftelijke overeenkomst, de voorschriften van het kwaliteitssysteem na te leven. 
-2. De regelinghouder is gemachtigd alle deelnemers van het kwaliteitssysteem bij het productschap aan te melden voor registratie in het register monitoring kritische stoffen conform het [Besluit register en aanmelding monitoring kritische stoffen bij kalveren (PVV) 2009](../../../../../../../../pbo/besluit/register/en/aanmelding/monitoring/kritische/stoffen/bij/kalveren/etc/BWBR0025514/README.md), als bedoeld in [artikel 4, tweede lid](../../../../../../../../pbo/verordening/monitoring/kritische/stoffen/bij/kalveren/(pvv)/2008/BWBR0025508/README.md), en [artikel 5, tweede lid, van de Verordening monitoring kritische stoffen bij kalveren (PVV) 2008](../../../../../../../../pbo/verordening/monitoring/kritische/stoffen/bij/kalveren/(pvv)/2008/BWBR0025508/README.md). 
+2. De regelinghouder is gemachtigd alle deelnemers van het kwaliteitssysteem bij het productschap aan te melden voor registratie in het register monitoring kritische stoffen conform het Besluit register en aanmelding monitoring kritische stoffen bij kalveren (PVV) 2009, als bedoeld in artikel 4, tweede lid, en artikel 5, tweede lid, van de Verordening monitoring kritische stoffen bij kalveren (PVV) 2008. 
 
 ###Artikel 5 
 
-1. Het kwaliteitssysteem biedt voldoende waarborgen ter voorkoming van illegale behandelingen, voor de afwezigheid van niet-toegestane stoffen en voor de afwezigheid van residuen als bedoeld in de [bijlage van de verordening](../../../../../../../../pbo/verordening/monitoring/kritische/stoffen/bij/kalveren/(pvv)/2008/BWBR0025508/README.md) boven de toegestane maximumwaarden. 
+1. Het kwaliteitssysteem biedt voldoende waarborgen ter voorkoming van illegale behandelingen, voor de afwezigheid van niet-toegestane stoffen en voor de afwezigheid van residuen als bedoeld in de bijlage van de verordening boven de toegestane maximumwaarden. 
 2. In het bijzonder bevat het kwaliteitssysteem voldoende waarborgen ten aanzien van de naleving door deelnemers van wettelijke normen, waaronder in ieder geval: 
 
-a.de [verordening](../../../../../../../../pbo/verordening/monitoring/kritische/stoffen/bij/kalveren/(pvv)/2008/BWBR0025508/README.md), alsmede de [bijlage van de verordening](../../../../../../../../pbo/verordening/monitoring/kritische/stoffen/bij/kalveren/(pvv)/2008/BWBR0025508/README.md); 
+a.de verordening, alsmede de bijlage van de verordening; 
 
-b.de [Regeling identificatie en registratie van dieren 2003](../../../../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md). 
+b.de Regeling identificatie en registratie van dieren 2003. 
 
 ###Artikel 6 
 
@@ -91,7 +91,7 @@ c.de monstername op de afwezigheid van niet-toegestane stoffen onaangekondigd pl
 
 d.op de CI's in het kader van hun accreditaat toezicht wordt uitgeoefend door de Raad voor Accreditatie en de toetsresultaten van dit toezicht beschikbaar zijn voor de voorzitter en de door hem aangewezen instanties; 
 
-e.voor het onderzoek van monsters die binnen het kwaliteitssysteem zijn genomen, gebruik wordt gemaakt van een laboratorium dat door de voorzitter is erkend als bedoeld in [artikel 11, tweede lid, van de verordening](../../../../../../../../pbo/verordening/monitoring/kritische/stoffen/bij/kalveren/(pvv)/2008/BWBR0025508/README.md); 
+e.voor het onderzoek van monsters die binnen het kwaliteitssysteem zijn genomen, gebruik wordt gemaakt van een laboratorium dat door de voorzitter is erkend als bedoeld in artikel 11, tweede lid, van de verordening; 
 
 f.de analysemethodieken die door het laboratorium worden gehanteerd vallen onder het accreditaat; 
 
@@ -117,7 +117,7 @@ c.periodiek beheersverslagen aan de voorzitter worden overgelegd waarin een over
 
 a.de wettelijke normen, bedoeld in artikel 5, tweede lid; 
 
-b.indien van toepassing, voorschriften voor de be- of verwerker omtrent het treffen van maatregelen bepalende dat gevonden overschrijdingen van residuen als bedoeld in de [bijlage](../../../../../../../../pbo/verordening/monitoring/kritische/stoffen/bij/kalveren/(pvv)/2008/BWBR0025508/README.md) worden overgelegd aan het kwaliteitssysteem en de betrokken houder; 
+b.indien van toepassing, voorschriften voor de be- of verwerker omtrent het treffen van maatregelen bepalende dat gevonden overschrijdingen van residuen als bedoeld in de bijlage worden overgelegd aan het kwaliteitssysteem en de betrokken houder; 
 
 c.voorschriften omtrent het voeren van een voor het kwaliteitssysteem inzichtelijke administratie waaruit blijkt dat het handboek in acht wordt genomen en waarin de aankoop en het verbruik van diergeneesmiddelen alsmede de aankoopfacturen van diervoeder zijn geregistreerd; 
 
@@ -127,12 +127,12 @@ e.voorschriften omtrent het toestaan van en het verlenen van medewerking aan con
 
 f.voorschriften omtrent het verlenen van expliciete toestemming door deelnemers voor registratie van bepaalde (bedrijfs)gegevens, voorzover deze toestemming krachtens enig wettelijk voorschrift is vereist; 
 
-g.voorschriften strekkende tot het niet afvoeren van dieren of producten van dieren, waarvan monsters zijn genomen, ten behoeve van onderzoek naar stoffen van groep A en groep C van de [bijlage bij de verordening](../../../../../../../../pbo/verordening/monitoring/kritische/stoffen/bij/kalveren/(pvv)/2008/BWBR0025508/README.md), zolang de uitslag van de monsteranalyse niet bekend is. 
+g.voorschriften strekkende tot het niet afvoeren van dieren of producten van dieren, waarvan monsters zijn genomen, ten behoeve van onderzoek naar stoffen van groep A en groep C van de bijlage bij de verordening, zolang de uitslag van de monsteranalyse niet bekend is. 
 3. Het in het eerste lid bedoelde reglement bevat passende maatregelen die krachtens het kwaliteitssysteem jegens deelnemers kunnen worden getroffen bij constatering van inbreuk op het handboek en borgt dat, tenzij bij of krachtens enig wettelijk voorschrift niet toegestaan, toegepaste maatregelen openbaar kunnen worden gemaakt. 
 
 ###Artikel 9 
 
-Het kwaliteitssysteem beschikt over een controle- en analysestrategie als bedoeld in [artikel 10, eerste lid, van de verordening](../../../../../../../../pbo/verordening/monitoring/kritische/stoffen/bij/kalveren/(pvv)/2008/BWBR0025508/README.md). 
+Het kwaliteitssysteem beschikt over een controle- en analysestrategie als bedoeld in artikel 10, eerste lid, van de verordening. 
 
 ###§ 5 
 
@@ -145,7 +145,7 @@ Het kwaliteitssysteem beschikt over een controle- en analysestrategie als bedoel
 
 ###Artikel 11 
 
-Het kwaliteitssysteem verleent volledige medewerking aan de uitvoering van de controles en toetsen die krachtens de [verordening](../../../../../../../../pbo/verordening/monitoring/kritische/stoffen/bij/kalveren/(pvv)/2008/BWBR0025508/README.md) worden uitgevoerd en zorgt ervoor dat de in het kwaliteitssysteem werkzame instanties alsmede deelnemers aan het kwaliteitssysteem, volledige medewerking verlenen. 
+Het kwaliteitssysteem verleent volledige medewerking aan de uitvoering van de controles en toetsen die krachtens de verordening worden uitgevoerd en zorgt ervoor dat de in het kwaliteitssysteem werkzame instanties alsmede deelnemers aan het kwaliteitssysteem, volledige medewerking verlenen. 
 
 ###Artikel 12 
 
@@ -157,7 +157,7 @@ Het kwaliteitssysteem bewaart gedurende een periode van ten minste twee jaren op
 
 ###Artikel 14 
 
-1. Indien de [verordening](../../../../../../../../pbo/verordening/monitoring/kritische/stoffen/bij/kalveren/(pvv)/2008/BWBR0025508/README.md) of een hierop gebaseerd besluit wordt gewijzigd, wordt het kwaliteitssysteem alsmede de hierop gebaseerde uitvoering, hiermee in overeenstemming gebracht binnen de in de wijzigingsverordening of in het wijzigingsbesluit vastgestelde termijn. 
+1. Indien de verordening of een hierop gebaseerd besluit wordt gewijzigd, wordt het kwaliteitssysteem alsmede de hierop gebaseerde uitvoering, hiermee in overeenstemming gebracht binnen de in de wijzigingsverordening of in het wijzigingsbesluit vastgestelde termijn. 
 2. Relevante wijzigingen in het kwaliteitssysteem, niet zijnde wijzigingen als bedoeld in het eerste lid, worden onverwijld schriftelijk gemeld aan de voorzitter. 
 
 ###§ 6 

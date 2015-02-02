@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Wijn van 4 november 2009 tot vaststelling van regels omtrent de erkenning van wijnconcoursen (Verordening W wijnconcoursen 2009)
 
 Het bestuur van het Productschap Wijn;  
-Gelet op [artikel 26 van Verordening HPA wijn 2009](../../../../../../pbo/verordening/hpa/wijn/2009/BWBR0026438/README.md), [artikel 96, tweede lid van de Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md).
+Gelet op artikel 26 van Verordening HPA wijn 2009, artikel 96, tweede lid van de Wet op de bedrijfsorganisatie.
 Besluit:    
 
 ###Artikel 1 
@@ -51,7 +51,7 @@ Deze verordening wordt aangehaald als: Verordening W wijnconcoursen 2009.
 
 ###Artikel 7 
 
-De [Verordening W wijnconcoursen 2008](../../../../../../pbo/verordening/w/wijnconcoursen/2008/BWBR0024600/README.md) wordt ingetrokken. 
+De Verordening W wijnconcoursen 2008 wordt ingetrokken. 
 
 Den Haag 
 4 november 2009   

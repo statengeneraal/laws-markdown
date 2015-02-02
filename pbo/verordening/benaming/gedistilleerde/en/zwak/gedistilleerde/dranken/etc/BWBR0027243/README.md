@@ -5,13 +5,13 @@
 Het Bestuur van het Productschap Dranken;  
 gelet op:
 
-[artikel 93](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [100 lid 3](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [102](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [104 van de Wet op de bedrijfsorganisatie](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+artikel 93, 95, 100 lid 3, 102 en 104 van de Wet op de bedrijfsorganisatie;
 
-de [artikelen 11](../../../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md) en [12 van het Instellingsbesluit Productschap Dranken](../../../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md);
+de artikelen 11 en 12 van het Instellingsbesluit Productschap Dranken;
 
 gezien:
 
-het advies van de Commissies ex [artikel 5 lid 1 onder c van het Instellingsbesluit Productschap Dranken](../../../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md);
+het advies van de Commissies ex artikel 5 lid 1 onder c van het Instellingsbesluit Productschap Dranken;
 besluit: vast te stellen de navolgende Verordening.   
 ###§ 1 
 
@@ -19,7 +19,7 @@ besluit: vast te stellen de navolgende Verordening.
 
 ### Artikel  1  
 
-1.  Deze Verordening neemt over de terminologie van de [Wet op de bedrijfsorganisatie](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en van het [Instellingsbesluit Productschap Dranken](../../../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md) (Besluit van 6 mei 2002, Stb. 264), hierna te noemen "Instellingsbesluit".   
+1.  Deze Verordening neemt over de terminologie van de Wet op de bedrijfsorganisatie en van het Instellingsbesluit Productschap Dranken (Besluit van 6 mei 2002, Stb. 264), hierna te noemen "Instellingsbesluit".   
 2.  In het bij of krachtens deze Verordening bepaalde wordt voorts verstaan onder: 
 
 a. **gedistilleerde drank**: zijnde een alcoholhoudende drank: 
@@ -58,7 +58,7 @@ j. **productschap**: Productschap Dranken
 
 k. **secretaris**: de door het Bestuur aangestelde secretaris van de Commissie; 
 
-l. **commissie**: een orgaan als bedoeld in [artikel 88a van de Wet op de bedrijfsorganisatie](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), hier: de Commissie voor Gedistilleerd ex [artikel 5 lid c van het Instellingsbesluit Productschap Dranken](../../../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md).   
+l. **commissie**: een orgaan als bedoeld in artikel 88a van de Wet op de bedrijfsorganisatie, hier: de Commissie voor Gedistilleerd ex artikel 5 lid c van het Instellingsbesluit Productschap Dranken.   
 
 ###§ 2 
 
@@ -66,7 +66,7 @@ l. **commissie**: een orgaan als bedoeld in [artikel 88a van de Wet op de bedrij
 
 ### Artikel  2  
 
-1. Jenever of genever: een gedistilleerde drank die overeenkomstig de bepalingen van categorie 19 van Bijlage II van de verordening 110/2008 wordt verkregen door aromatisering met jeneverbessen (Juniperus Communis) van ethylalcohol uit landbouwproducten en/of moutwijn. Daarnaast mogen als aanvulling worden gebruikt andere natuurlijke en/of natuuridentieke aromastoffen zoals gedefinieerd in [artikel 1, onder b), i) en ii) van het Warenwetbesluit Aroma’s](../../../../../../../../../../AMvB/warenwetbesluit/aroma's/BWBR0005413/README.md) en/of aromatiserende preparaten zoals gedefinieerd in artikel 1, onder c), van het Warenwetbesluit Aroma’s en/of planten of plantendelen met aromatische eigenschappen worden gebruikt, maar de organoleptische kenmerken van de jeneverbes moeten waarneembaar blijven, zij het soms in mindere mate. Het alcoholgehalte is tenminste 30% vol. met uitzondering van “vruchtenjenever”.  
+1. Jenever of genever: een gedistilleerde drank die overeenkomstig de bepalingen van categorie 19 van Bijlage II van de verordening 110/2008 wordt verkregen door aromatisering met jeneverbessen (Juniperus Communis) van ethylalcohol uit landbouwproducten en/of moutwijn. Daarnaast mogen als aanvulling worden gebruikt andere natuurlijke en/of natuuridentieke aromastoffen zoals gedefinieerd in artikel 1, onder b), i) en ii) van het Warenwetbesluit Aroma’s en/of aromatiserende preparaten zoals gedefinieerd in artikel 1, onder c), van het Warenwetbesluit Aroma’s en/of planten of plantendelen met aromatische eigenschappen worden gebruikt, maar de organoleptische kenmerken van de jeneverbes moeten waarneembaar blijven, zij het soms in mindere mate. Het alcoholgehalte is tenminste 30% vol. met uitzondering van “vruchtenjenever”.  
 2.  Jonge jenever: een jenever, die: 
 
 a.bereid is met ethylalcohol uit landbouwproducten en voor minder dan 15% bestaat uit moutwijn;
@@ -169,7 +169,7 @@ Voor de beoordeling of advocaat voldoet aan de in artikel 7 gestelde eisen betre
 
 ### Artikel  9  
 
-1. Het is verboden om advocaat te produceren anders dan met inachtneming van de [Warenwet](../../../../../../../../../../wet/warenwet/BWBR0001969/README.md).
+1. Het is verboden om advocaat te produceren anders dan met inachtneming van de Warenwet.
 2. Voor de fabricage van advocaat mag uitsluitend gebruik gemaakt worden van eigeel en eiwit van eieren, welke onbeschadigd dienen te zijn en voldoen aan de bepalingen van de Verordening (EEG) 1907/90 van de Raad van 26-06-1990 betreffende bepaalde handelsnormen voor eieren, alsmede aan de bepalingen van de Verordening (EEG) 1274/91 van de Commissie van 15 mei 1991, alsmede de Richtlijn 89/437 van de Raad van 20 juni 1989 (laatstelijk gewijzigd per 19 december 1991) betreffende hygiëne- en gezondheidsvraagstukken bij de bereiding en het in de handel brengen van eiproducten.
 
 ###§ 4 
@@ -263,7 +263,7 @@ Overtredingen van het bij of krachtens deze Verordening bepaalde zijn strafbare 
 ### Artikel  19  
 
 1. Deze verordening treedt in werking met ingang van de tweede dag na plaatsing in het Verordeningenblad Bedrijfsorganisatie.
-2. Met de inwerkingtreding van deze verordening worden de "[Verordening benaming Gedistilleerde en Zwak Gedistilleerde Dranken](../../../../../../../../../../pbo/verordening/benaming/gedistilleerde/en/zwak/gedistilleerde/dranken/etc/BWBR0019035/README.md)" van 9 november 2005 ingetrokken.
+2. Met de inwerkingtreding van deze verordening worden de "Verordening benaming Gedistilleerde en Zwak Gedistilleerde Dranken" van 9 november 2005 ingetrokken.
 3. Deze verordening kan worden aangehaald als Verordening Benaming Gedistilleerde en Zwak gedistilleerde Dranken Productschap Dranken 2009.
 
 Den Haag 

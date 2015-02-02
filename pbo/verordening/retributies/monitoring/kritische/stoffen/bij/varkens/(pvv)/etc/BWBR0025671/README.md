@@ -3,20 +3,20 @@
 ##Verordening van het bestuur van het Productschap Vee en Vlees van 10 december 2008 tot het instellen van een retributieregeling met betrekking tot de uitvoering van het programma monitoring kritische stoffen bij varkens (Verordening retributies monitoring kritische stoffen bij varkens (PVV) 2008)
 
 Het bestuur van het Productschap Vee en Vlees;  
-Gelet op de [artikelen 93](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [artikel 10, vierde lid, van de Verordening monitoring kritische stoffen bij varkens (PVV) 2008](../../../../../../../../../../../pbo/verordening/monitoring/kritische/stoffen/bij/varkens/(pvv)/2008/BWBR0025677/README.md),
+Gelet op de artikelen 93, 95 en 126, tweede lid, van de Wet op de bedrijfsorganisatie en artikel 10, vierde lid, van de Verordening monitoring kritische stoffen bij varkens (PVV) 2008,
 Besluit:    
 
 ###Artikel 1 
 
-1. Voor de toepassing van het bij of krachtens deze verordening bepaalde worden de begripsbepalingen van de [Verordening monitoring kritische stoffen bij varkens (PVV) 2008](../../../../../../../../../../../pbo/verordening/monitoring/kritische/stoffen/bij/varkens/(pvv)/2008/BWBR0025677/README.md) overgenomen. 
+1. Voor de toepassing van het bij of krachtens deze verordening bepaalde worden de begripsbepalingen van de Verordening monitoring kritische stoffen bij varkens (PVV) 2008 overgenomen. 
 2. Voorts wordt verstaan onder: 
 
-a.verordening: [Verordening monitoring kritische stoffen bij varkens (PVV) 2008](../../../../../../../../../../../pbo/verordening/monitoring/kritische/stoffen/bij/varkens/(pvv)/2008/BWBR0025677/README.md). 
+a.verordening: Verordening monitoring kritische stoffen bij varkens (PVV) 2008. 
 
 ###Artikel 2 
 
-1. De retributie, als bedoeld in [artikel 10, vierde lid, van de Verordening monitoring kritische stoffen bij varkens (PVV) 2008](../../../../../../../../../../../pbo/verordening/monitoring/kritische/stoffen/bij/varkens/(pvv)/2008/BWBR0025677/README.md) bedraagt € 500 voor de uitvoering van de monstername en monsteranalyse kritische stoffen bij de deelnemers aan de basismonitoring. 
-2. De retributie, als bedoeld in [artikel 10, vierde lid, van de verordening](../../../../../../../../../../../pbo/verordening/monitoring/kritische/stoffen/bij/varkens/(pvv)/2008/BWBR0025677/README.md) bedraagt voor be- of verwerkers met totaal aantal slachtingen op jaarbasis van:  
+1. De retributie, als bedoeld in artikel 10, vierde lid, van de Verordening monitoring kritische stoffen bij varkens (PVV) 2008 bedraagt € 500 voor de uitvoering van de monstername en monsteranalyse kritische stoffen bij de deelnemers aan de basismonitoring. 
+2. De retributie, als bedoeld in artikel 10, vierde lid, van de verordening bedraagt voor be- of verwerkers met totaal aantal slachtingen op jaarbasis van:  
 
 | --- | --- | --- | --- |
 |:---|:---|:---|:---|
@@ -40,7 +40,7 @@ b.een specificatie of toelichting omtrent de wijze waarop de retributie is berek
 
 c.het totaalbedrag van de retributies. 
 3. De retributie is verschuldigd uiterlijk op de eenentwintigste dag volgend op die waarop zij door of vanwege het productschap in rekening is gebracht. 
-4. Aan de betalingsplichtige die niet of niet geheel binnen de in het vorige lid gestelde termijn heeft betaald, kan door het productschap de wettelijke interest over het niet betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk diende te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md). 
+4. Aan de betalingsplichtige die niet of niet geheel binnen de in het vorige lid gestelde termijn heeft betaald, kan door het productschap de wettelijke interest over het niet betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk diende te zijn verricht ingevolge de aanmaning bedoeld in artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie. 
 
 ###Artikel 4 
 

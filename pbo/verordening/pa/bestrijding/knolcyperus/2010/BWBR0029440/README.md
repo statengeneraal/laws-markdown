@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Akkerbouw van 4 november 2010 houdende regels over de bestrijding van knolcyperus (Verordening PA bestrijding knolcyperus 2010)
 
 Het bestuur van het Productschap Akkerbouw;  
-Gelet op de [artikelen 93](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [104, eerste en derde lid](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en [126, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op de [artikelen 8](../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md), [17](../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md) en [18 van het Instellingsbesluit akkerbouwproductschappen](../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md);
+Gelet op de artikelen 93, 95, 104, eerste en derde lid, en 126, tweede lid, van de Wet op de bedrijfsorganisatie en op de artikelen 8, 17 en 18 van het Instellingsbesluit akkerbouwproductschappen;
 
 Gehoord de Commissie Teeltaangelegenheden;
 Besluit:    
@@ -29,7 +29,7 @@ Deze verordening verstaat onder:
 |j. |knolcyperus |: | voor planten schadelijk organisme behorende tot de soort *Cyperus esculentus* L; |
 |k. |werktuigen |: | machines, installaties, transportmiddelen, gereedschappen, materialen of apparatuur die met grond in aanraking komen; |
 |l. |reinigen van werktuigen |: | het zodanig vrijmaken van aanhangende grond en van planten, dat geen verspreiding van knolcyperus kan plaatsvinden; |
-|m. |toezichthouder |: | een door de secretaris namens het bestuur aangewezen persoon, belast met het houden van toezicht, zoals opgenomen in [titel 5.2 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). |
+|m. |toezichthouder |: | een door de secretaris namens het bestuur aangewezen persoon, belast met het houden van toezicht, zoals opgenomen in titel 5.2 van de Algemene wet bestuursrecht. |
 
 ###§ 2 
 
@@ -104,7 +104,7 @@ Op overtreding van het bepaalde bij of krachtens deze verordening worden tuchtre
 
 ###Artikel 10 
 
-De [Verordening PA bestrijding knolcyperus 2008](../../../../../../../pbo/verordening/pa/bestrijding/knolcyperus/2008/BWBR0024012/README.md) wordt ingetrokken. De op grond van die verordening ingevolge de artikelen 2 en 4 bekendgemaakte verboden onderscheidenlijk maatregelen die op het tijdstip van inwerkingtreding van onderhavige verordening van kracht zijn, gelden als te zijn bekendgemaakt krachtens onderhavige verordening. 
+De Verordening PA bestrijding knolcyperus 2008 wordt ingetrokken. De op grond van die verordening ingevolge de artikelen 2 en 4 bekendgemaakte verboden onderscheidenlijk maatregelen die op het tijdstip van inwerkingtreding van onderhavige verordening van kracht zijn, gelden als te zijn bekendgemaakt krachtens onderhavige verordening. 
 
 ###Artikel 11 
 

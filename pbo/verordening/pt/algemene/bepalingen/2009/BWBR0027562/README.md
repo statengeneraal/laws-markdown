@@ -3,11 +3,11 @@
 ##Verordening van het bestuur van het Productschap Tuinbouw, d.d. 26 januari 2010 houdende de vaststelliing van algernene bepalingen die gelden ten aanzen van het productschap (Verordening PT algemene bepalingen 2009)
 
 Het bestuur van het Productschap Tuinbouw;  
-gelet op de [artikelen 77](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [83](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [93](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [96](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [104](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [106](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [126](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [127 van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+gelet op de artikelen 77, 83, 93, 95, 96, 104, 106, 126, 127 van de Wet op de bedrijfsorganisatie;
 
-gelet op [hoofdstuk 4](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [6](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [7](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [10 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);
+gelet op hoofdstuk 4, 6, 7 en 10 van de Algemene wet bestuursrecht;
 
-gelet op de [artikelen 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw](../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md);
+gelet op de artikelen 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw;
 Besluit:    
 ###§ 1 
 
@@ -15,7 +15,7 @@ Besluit:
 
 ###Artikel 1:1 
 
-1. In deze verordening worden de begripsbepalingen van het [Instellingsbesluit Productschap tuinbouw](../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md) overgenomen. 
+1. In deze verordening worden de begripsbepalingen van het Instellingsbesluit Productschap tuinbouw overgenomen. 
 2. In de verordeningen van het Productschap Tuinbouw wordt verstaan onder:  
 
 | --- | --- | --- |
@@ -64,13 +64,13 @@ d.de schriftelijke kennisgevingen, hem door of vanwege het productschap toegezon
 e.op eerste vordering van functionarissen behorende tot de door het bestuur aangewezen toezichthouder; die in het bezit zijn van een door de voorzitter of secretaris afgegeven legitimatiebewijs en zich desgevraagd hebben gelegitimeerd, toe te laten dat deze personen inzage nemen van de in de onderneming aanwezige boeken, papieren en/of andere bescheiden, zomede dat zij de in de onderneming aanwezige voorraden, alsmede de bedrijfsmiddelen bezichtigen en opnemen, hen daartoe de vrije gelegenheid te geven en hen daarbij desgevraagd behulpzaam te zijn. 
 2. De in het eerste lid gestelde regelen binnen mede alle andere dan de aldaar bedoelde natuurlijke personen en rechtspersonen, voor zover deze handelingen verrichten, welke bedrijfsmatig plegen te worden verricht in de ondernemingen, waarvoor het productschap is ingesteld. 
 3. De in het eerste lid onder a bedoelde administratie wordt gedurende 7 jaar bewaard, voor zover deze administratie betrekkling heeft op gegevens die van belang zijn voor het bepalen van enige door het productschap op te leggen heffing. 
-4. Wanneer de voorzitter of de secretaris zulks nodig acht en voor zover van belang voor de bepaling van de heffing, dient een ondernemer, die op grond van een heffingsverordening als bedoeld in [artikel 126 van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) heffingplichtig is, een accountantsverklaring in, waaruit blijkt:
+4. Wanneer de voorzitter of de secretaris zulks nodig acht en voor zover van belang voor de bepaling van de heffing, dient een ondernemer, die op grond van een heffingsverordening als bedoeld in artikel 126 van de Wet op de bedrijfsorganisatie heffingplichtig is, een accountantsverklaring in, waaruit blijkt:
 
 a.de totale in het betreffende kalenderjaar geproduceerde, be- of verwerkte, verhandelde, geleverde of afgenomen hoeveelheden product of diensten;
 
 b.de herkomst of bestemming van de onder a bedoelde hoeveelheden naar categorie bedrijven.
 5. Indien de in het vierde lid bedoelde accountantsverklaring niet afkomstig is van een registeraccountant (RA) of accountant-administratieconsulent (AA), kan de Interne accountantsdienst van het productschap controles uitvoeren. De kosten hiervan kunnen aan de ondernemer in rekening worden gebracht.
-6. De in het eerste lid bedoelde gegevens, zullen – voor zover deze bij of krachtens de [Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) niet slechts worden gebruikt ter vervulling van de taak van het productschap – niet onder vermelding of aanduiding van die persoon en/of onderneming, waarop zij, betrekking hebben, worden bekend gemaakt aan anderen dan de voorzitter; de secretaris of andere personen van het secretariaat van het productschap en de met financiële controle op het productschap belaste accountant en diens personeel alsmede de door het bestuur aangewezen toezichthouder, voor zover het kennis nemen van die gegevens voor de controle dan wel het toezicht noodzakelijk is.
+6. De in het eerste lid bedoelde gegevens, zullen – voor zover deze bij of krachtens de Wet op de bedrijfsorganisatie niet slechts worden gebruikt ter vervulling van de taak van het productschap – niet onder vermelding of aanduiding van die persoon en/of onderneming, waarop zij, betrekking hebben, worden bekend gemaakt aan anderen dan de voorzitter; de secretaris of andere personen van het secretariaat van het productschap en de met financiële controle op het productschap belaste accountant en diens personeel alsmede de door het bestuur aangewezen toezichthouder, voor zover het kennis nemen van die gegevens voor de controle dan wel het toezicht noodzakelijk is.
 7. Bekendmaking van gegevens, als bedoeld in het zesde lid, blijft ook zonder vermelding of aanduiding van de persoon en/of onderneming waarop zij betrekking hebben, achterwege in de gevallen waarin uit de aard der gegevens dan wel of zomede uit een of meer andere omstandigheden zou kunnen blijken op welke persoon en/of onderneming de gegevens betrekking hebben.
 
 ###§ 3 
@@ -169,12 +169,12 @@ Het productschap zal toezicht uitoefenen op degene aan wie een subsidie dan wel 
 
 ###Artikel 7:1 
 
-1. De [Verordening PT algemene bepalingen 2007](../../../../../../../pbo/verordening/pt/algemene/bepalingen/2007/BWBR0022738/README.md) wordt ingetrokken, met dien verstande dat zaken met betrekking tot heffingen over de jaren gelegen vóór de inwerkingtreding van onderhavige verordening, geschieden overeenkomstig de [Verordening PT algemene bepalingen 2007](../../../../../../../pbo/verordening/pt/algemene/bepalingen/2007/BWBR0022738/README.md). 
+1. De Verordening PT algemene bepalingen 2007 wordt ingetrokken, met dien verstande dat zaken met betrekking tot heffingen over de jaren gelegen vóór de inwerkingtreding van onderhavige verordening, geschieden overeenkomstig de Verordening PT algemene bepalingen 2007. 
 2. Deze verordening treedt in werking de tweede dag na plaatsing ervan in het Verordeningenblad Bedrijfsorganisatie.
 
 ###Artikel 7:2 
 
-1. Verwijzingen naar de [Verordening PT algemene bepalingen 2007](../../../../../../../pbo/verordening/pt/algemene/bepalingen/2007/BWBR0022738/README.md) moeten worden gelezen als verwijzingen naar de Verordening PT algemene bepalingen 2009. 
+1. Verwijzingen naar de Verordening PT algemene bepalingen 2007 moeten worden gelezen als verwijzingen naar de Verordening PT algemene bepalingen 2009. 
 2. Deze verordening wordt aangehaald als: Verordening PT algemene bepalingen 2009. 
 
 Zoetermeer 

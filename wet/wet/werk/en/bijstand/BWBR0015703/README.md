@@ -793,7 +793,7 @@ w. een koopkrachttegemoetkoming als bedoeld in artikel 36a;
 
 x. het vrijgelaten deel van de toeslag, uitkering, kinderbijslag of ouderdomspensioen op grond van de artikelen 14h, vijfde lid, van de Toeslagenwet, 27h, vijfde lid, van de Werkloosheidswet, 54a, vijfde lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen, 24a, vijfde lid, van de Wet inkomensvoorziening oudere werklozen, 29h,vijfde lid, van de Wet op de arbeidsongeschiktheidsverzekering, 3:44, vijfde lid, van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, 97, vijfde lid, van de Wet werk en inkomen naar arbeidsvermogen, 45h, vijfde lid, van de Ziektewet, 17h, vijfde lid, van de Algemene Kinderbijslagwet, 45a, vijfde lid, van de Algemene nabestaandenwet, 17j, vijfde lid, van de Algemene Ouderdomswet, 29, zesde lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers, en 29, zesde lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen; 
 
-y. een tegemoetkoming als bedoeld in artikel 3 van de Wet mogelijkheid koopkrachttegemoetkoming oudere belastingplichtigen; 
+y.een inkomensondersteuning als bedoeld in artikel 33a van de Algemene Ouderdomswet;
 
 z. inkomsten uit arbeid van een persoon die medisch urenbeperkt is tot 15 procent van deze inkomsten uit arbeid, met een maximum van € 124,00 per maand, voor zover hij algemene bijstand ontvangt, tenzij onderdeel n of r van toepassing is.    
 3.  De middelen worden in aanmerking genomen tot het bedrag dat resteert na aftrek van: 

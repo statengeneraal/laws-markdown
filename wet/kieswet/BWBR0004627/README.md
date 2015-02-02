@@ -2785,7 +2785,13 @@ De bij of krachtens deze wet gestelde bepalingen betreffende de verkiezing van d
 
 ### Artikel  Ya 14  
 
-De leden van de eilandsraden worden gekozen door degenen die op de dag van de kandidaatstelling ingezetenen zijn van het openbaar lichaam, mits zij Nederlander zijn en op de dag van de stemming de leeftijd van achttien jaar hebben bereikt. 
+1.  De leden van de eilandsraden worden gekozen door degenen die op de dag van de kandidaatstelling ingezetenen zijn van het openbaar lichaam en op de dag van de stemming de leeftijd van achttien jaar hebben bereikt.   
+2.  Zij die geen Nederlander zijn, dienen om kiesgerechtigd te zijn op de dag van de kandidaatstelling tevens te voldoen aan de vereisten dat: 
+
+a. zij rechtmatig in Nederland verblijven op grond van artikel 3 of artikel 6 van de Wet toelating en uitzetting BES of op grond van een verdrag tussen een internationale organisatie en de Staat der Nederlanden inzake de zetel van deze organisatie in Nederland, en  
+
+b. zij onmiddellijk voorafgaand aan de dag van de kandidaatstelling gedurende een onafgebroken periode van tenminste vijf jaren ingezetene van Nederland waren en beschikten over een verblijfsrecht als bedoeld onder a, dan wel rechtmatig in Nederland verbleven op grond van artikel 8, onder a, b, c, d, e of l, van de Vreemdelingenwet 2000.     
+3.  Niet kiesgerechtigd zijn zij die geen Nederlander zijn en, als door andere staten uitgezonden leden van diplomatieke of consulaire vertegenwoordigingen, in Nederland werkzaam zijn, alsmede hun niet-Nederlandse echtgenoten, geregistreerde partners of levensgezellen en kinderen, voor zover dezen met hen een gemeenschappelijke huishouding voeren.  
 
 ### Artikel  Ya 15  
 
@@ -3079,7 +3085,7 @@ F. Korthals Altes
 | 3.  | De provincie Drenthe   | Assen  |
 | 4.  | De provincie Overijssel  | Zwolle  |
 | 5.  | De provincie Flevoland   | Lelystad  |
-| 6.  | De gemeenten Beuningen, Buren, Culemborg, Druten, Geldermalsen, Groesbeek, Heumen, Lingewaal, Maasdriel, Millingen aan de Rijn, Neder-Betuwe, Neerijnen, Nijmegen, Tiel, Ubbergen, West Maas en Waal, Wijchen, Zaltbommel.   | Nijmegen  |
+| 6.  | De gemeenten Beuningen, Buren, Culemborg, Druten, Geldermalsen, Groesbeek, Heumen, Lingewaal, Maasdriel, Neder-Betuwe, Neerijnen, Nijmegen, Tiel, West Maas en Waal, Wijchen, Zaltbommel.   | Nijmegen  |
 | 7.  | De gemeenten van de provincie Gelderland die niet tot kieskring 6 behoren.  | Arnhem  |
 | 8.  | De provincie Utrecht   | Utrecht  |
 | 9.  | De gemeente Amsterdam   | Amsterdam  |
@@ -3087,7 +3093,7 @@ F. Korthals Altes
 | 11.  | De gemeenten van de provincie Noord-Holland die niet tot de kieskringen 9 of 10 behoren.  | Den Helder  |
 | 12.  | De gemeente 's-Gravenhage  | 's-Gravenhage  |
 | 13.  | De gemeente Rotterdam  | Rotterdam  |
-| 14.  | De gemeenten Alblasserdam, Albrandswaard, Barendrecht, Bernisse, Binnenmaas, Brielle, Cromstrijen, Delft, Dordrecht, Giessenlanden, Goeree-Overflakkee, Gorinchem, Hardinxveld-Giessendam, Hellevoetsluis, Hendrik-Ido-Ambacht, Korendijk, Leerdam, Maassluis, Midden-Delfland, Molenwaard, Oud-Beijerland, Papendrecht, Ridderkerk, Rijswijk, Schiedam, Sliedrecht, Spijkenisse, Strijen, Vlaardingen, Westland, Westvoorne, Zederik, Zwijndrecht.  | Dordrecht  |
+| 14.  | De gemeenten Alblasserdam, Albrandswaard, Barendrecht, Binnenmaas, Brielle, Cromstrijen, Delft, Dordrecht, Giessenlanden, Goeree-Overflakkee, Gorinchem, Hardinxveld-Giessendam, Hellevoetsluis, Hendrik-Ido-Ambacht, Korendijk, Leerdam, Maassluis, Midden-Delfland, Molenwaard, Nissewaard, Oud-Beijerland, Papendrecht, Ridderkerk, Rijswijk, Schiedam, Sliedrecht, Strijen, Vlaardingen, Westland, Westvoorne, Zederik, Zwijndrecht.  | Dordrecht  |
 | 15.  | De gemeenten van de provincie Zuid-Holland die niet tot de kieskringen 12, 13 of 14 behoren.   | Leiden  |
 | 16.  | De provincie Zeeland   | Middelburg  |
 | 17.  | De gemeenten Aalburg, Alphen-Chaam, Baarle-Nassau, Bergen op Zoom, Breda, Dongen, Drimmelen, Etten-Leur, Geertruidenberg, Gilze en Rijen, Goirle, Halderberge, Hilvarenbeek, Loon op Zand, Moerdijk, Oisterwijk, Oosterhout, Roosendaal, Rucphen, Steenbergen, Tilburg, Waalwijk, Werkendam, Woensdrecht, Woudrichem, Zundert.   | Tilburg  |
