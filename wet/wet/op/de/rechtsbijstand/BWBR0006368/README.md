@@ -32,7 +32,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 *mediator:* de mediator als bedoeld in artikel 33a;  
 
-*Onze Minister:* Onze Minister van Justitie;  
+*Onze Minister:* Onze Minister van Veiligheid en Justitie;  
 
 *peiljaar:* het tweede kalenderjaar dat voorafgaat aan het kalenderjaar waarin de aanvraag om een toevoeging wordt gedaan;  
 
@@ -246,7 +246,7 @@ a. indien de advocaat niet voldaan heeft dan wel niet langer voldoet aan de voor
 
 b. indien naar zijn oordeel genoegzaam is gebleken dat de rechtsbijstandverlening door de advocaat niet voldoet aan redelijkerwijs te stellen eisen van doelmatigheid of zorgvuldigheid;   
 
-c. indien aan de advocaat een maatregel is opgelegd als bedoeld in artikel 48, tweede lid, onder a tot en met c, van de Advocatenwet dan wel artikel 60aa, tweede lid, onder a tot en met c;   
+c. indien aan de advocaat een maatregel is opgelegd als bedoeld in artikel 48, tweede lid, onder a tot en met c, van de Advocatenwet dan wel artikel 60aa, tweede lid;   
 
 d. indien naar zijn oordeel genoegzaam is gebleken dat de advocaat herhaaldelijk onjuiste informatie heeft verstrekt ten behoeve van het vaststellen van de vergoeding;  
 

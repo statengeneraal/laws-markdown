@@ -17379,13 +17379,13 @@ Bij alle besluiten die worden genomen voor de toepassing van de vereisten van de
 
 .1. vrachtschepen met een brutotonnage van 150 ton of meer en passagiersschepen, ongeacht hun omvang, gebouwd op of na 1 juli 2011;  
 
-.2. passagiersschepen, ongeacht hun omvang, gebouwd voor 1 juli 2011, uiterlijk op de datum van het eerste onderzoek<sup> 1) Zie de Eenduidige Interpretatie van de term „eerste onderzoek” waarnaar verwezen wordt in de SOLAS-voorschriften (MSC.1/Circ.1290). </sup>na 1 juli 2012;  
+.2. passagiersschepen, ongeacht hun omvang, gebouwd voor 1 juli 2011, uiterlijk op de datum van het eerste onderzoekna 1 juli 2012;  
 
-.3. vrachtschepen met een brutotonnage van 3000 ton of meer, gebouwd voor 1 juli 2011, uiterlijk op de datum van het eerste onderzoek<sup> 1) Zie de Eenduidige Interpretatie van de term „eerste onderzoek” waarnaar verwezen wordt in de SOLAS-voorschriften (MSC.1/Circ.1290). </sup> na 1 juli 2012;  
+.3. vrachtschepen met een brutotonnage van 3000 ton of meer, gebouwd voor 1 juli 2011, uiterlijk op de datum van het eerste onderzoek na 1 juli 2012;  
 
-.4. vrachtschepen met een brutotonnage van 500 ton of meer maar minder dan 3000 ton, gebouwd voor 1 juli 2011, uiterlijk op de datum van het eerste onderzoek<sup> 1) Zie de Eenduidige Interpretatie van de term „eerste onderzoek” waarnaar verwezen wordt in de SOLAS-voorschriften (MSC.1/Circ.1290). </sup> na 1 juli 2013; en  
+.4. vrachtschepen met een brutotonnage van 500 ton of meer maar minder dan 3000 ton, gebouwd voor 1 juli 2011, uiterlijk op de datum van het eerste onderzoek na 1 juli 2013; en  
 
-.5. vrachtschepen met een brutotonnage van 150 ton of meer maar minder dan 500 ton, gebouwd voor 1 juli 2011, uiterlijk op de datum van het eerste onderzoek<sup> 1) Zie de Eenduidige Interpretatie van de term „eerste onderzoek” waarnaar verwezen wordt in de SOLAS-voorschriften (MSC.1/Circ.1290). </sup> na 1 juli 2014.   Het brugwachtalarmsysteem moet te allen tijde in bedrijf zijn als het schip op zee vaart. 
+.5. vrachtschepen met een brutotonnage van 150 ton of meer maar minder dan 500 ton, gebouwd voor 1 juli 2011, uiterlijk op de datum van het eerste onderzoek na 1 juli 2014.   Het brugwachtalarmsysteem moet te allen tijde in bedrijf zijn als het schip op zee vaart. 
 
 .4. een brugwachtalarmsysteem (BNWAS) dat voor 1 juli 2011 is geïnstalleerd kan daarna worden uitgezonderd van volledige overeenstemming met de standaarden die door de Organisatie zijn aangenomen, zulks ter beoordeling door de Administratie. 
 
@@ -17475,15 +17475,15 @@ Bij alle besluiten die worden genomen voor de toepassing van de vereisten van de
 
 .4. vrachtschepen, anders dan tankschepen, met een brutotonnage van 3000 ton of meer maar minder dan 10.000 ton, gebouwd op of na 1 juli 2014;  
 
-.5. passagiersschepen met een brutotonnage van 500 ton of meer, gebouwd voor 1 juli 2012, uiterlijk op de datum van het eerste onderzoek<sup> 1) Zie de Eenduidige Interpretatie van de term „eerste onderzoek” waarnaar verwezen wordt in de SOLAS-voorschriften (MSC.1/Circ.1290). </sup> op of na 1 juli 2014;  
+.5. passagiersschepen met een brutotonnage van 500 ton of meer, gebouwd voor 1 juli 2012, uiterlijk op de datum van het eerste onderzoek op of na 1 juli 2014;  
 
-.6. tankschepen met een brutotonnage van 3000 ton of meer, gebouwd voor 1 juli 2012, uiterlijk op de datum van het eerste onderzoek<sup> 1) Zie de Eenduidige Interpretatie van de term „eerste onderzoek” waarnaar verwezen wordt in de SOLAS-voorschriften (MSC.1/Circ.1290). </sup> op of na 1 juli 2015;  
+.6. tankschepen met een brutotonnage van 3000 ton of meer, gebouwd voor 1 juli 2012, uiterlijk op de datum van het eerste onderzoek op of na 1 juli 2015;  
 
-.7. vrachtschepen, anders dan tankschepen, met een brutotonnage van 50.000 ton of meer, gebouwd voor 1 juli 2013, uiterlijk op de datum van het eerste onderzoek<sup> 1) Zie de Eenduidige Interpretatie van de term „eerste onderzoek” waarnaar verwezen wordt in de SOLAS-voorschriften (MSC.1/Circ.1290). </sup> op of na 1 juli 2016;  
+.7. vrachtschepen, anders dan tankschepen, met een brutotonnage van 50.000 ton of meer, gebouwd voor 1 juli 2013, uiterlijk op de datum van het eerste onderzoek op of na 1 juli 2016;  
 
-.8. vrachtschepen, anders dan tankschepen, met een brutotonnage van 20.000 ton of meer, maar minder dan 50.000 ton, gebouwd voor 1 juli 2013, uiterlijk op de datum van het eerste onderzoek<sup> 1) Zie de Eenduidige Interpretatie van de term „eerste onderzoek” waarnaar verwezen wordt in de SOLAS-voorschriften (MSC.1/Circ.1290). </sup> op of na 1 juli 2017; en  
+.8. vrachtschepen, anders dan tankschepen, met een brutotonnage van 20.000 ton of meer, maar minder dan 50.000 ton, gebouwd voor 1 juli 2013, uiterlijk op de datum van het eerste onderzoek op of na 1 juli 2017; en  
 
-.9. vrachtschepen, anders dan tankschepen, met een brutotonnage van 10.000 ton of meer, maar minder dan 20.000 ton, gebouwd voor 1 juli 2013, uiterlijk op de datum van het eerste onderzoek<sup> 1) Zie de Eenduidige Interpretatie van de term „eerste onderzoek” waarnaar verwezen wordt in de SOLAS-voorschriften (MSC.1/Circ.1290). </sup> op of na 1 juli 2018.    
+.9. vrachtschepen, anders dan tankschepen, met een brutotonnage van 10.000 ton of meer, maar minder dan 20.000 ton, gebouwd voor 1 juli 2013, uiterlijk op de datum van het eerste onderzoek op of na 1 juli 2018.    
 
 2.11. Administraties kunnen schepen van de toepassing van de in paragraaf 2.10 vervatte eisen vrijstellen, wanneer deze schepen binnen twee jaar na de in de subparagrafen .5 tot en met .9 van paragraaf 2.10 bedoelde uitvoeringsdatum voorgoed uit de vaart zullen worden genomen. 
 

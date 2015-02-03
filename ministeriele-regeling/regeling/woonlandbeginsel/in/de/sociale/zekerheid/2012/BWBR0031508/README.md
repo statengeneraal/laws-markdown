@@ -3,14 +3,14 @@
 ##Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 20 april 2012, nr. IVV/OOG/2012/6311, houdende nadere regels in verband met aanpassing van de hoogte van de uitkering aan het woonland (Regeling woonlandbeginsel in de sociale zekerheid)
 
 De Minister van Sociale Zaken en Werkgelegenheid,  
-Gelet op [artikel 12, tweede lid, van de Algemene Kinderbijslagwet](../../../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md), de [artikelen 17, derde lid](../../../../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), [18, derde lid](../../../../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), [25, tweede lid](../../../../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), [29, derde lid](../../../../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), [29a, achtste lid](../../../../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), en [67, twaalfde lid, van de Algemene nabestaandenwet](../../../../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), [artikel 2, tiende en elfde lid, van de Wet op het kindgebonden budget](../../../../../../../../../wet/wet/op/het/kindgebonden/budget/BWBR0022751/README.md) en [artikel 62, tweede lid, van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md);
+Gelet op artikel 12, tweede lid, van de Algemene Kinderbijslagwet, de artikelen 17, derde lid, 18, derde lid, 25, tweede lid, 29, derde lid, 29a, achtste lid, en 67, twaalfde lid, van de Algemene nabestaandenwet, artikel 2, tiende en elfde lid, van de Wet op het kindgebonden budget en artikel 62, tweede lid, van de Wet werk en inkomen naar arbeidsvermogen;
 Besluit:    
 
 ### Artikel  1  
 
 ####Woonlandfactor
 
-Het percentage, bedoeld in de [artikelen 12, tweede lid, van de Algemene Kinderbijslagwet](../../../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md), [17, derde lid](../../../../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), [18, derde lid](../../../../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), [25, tweede lid](../../../../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), [29, derde lid](../../../../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), [29a, achtste lid](../../../../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), en [67, twaalfde lid, van de Algemene nabestaandenwet](../../../../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), [2, tiende en elfde lid, van de Wet op het kindgebonden budget](../../../../../../../../../wet/wet/op/het/kindgebonden/budget/BWBR0022751/README.md) en [62, tweede lid, van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), voor een woonland anders dan: 
+Het percentage, bedoeld in de artikelen 12, tweede lid, van de Algemene Kinderbijslagwet, 17, derde lid, 18, vierde lid, 29, derde lid, 29a, zesde lid, en 67, negende lid, van de Algemene nabestaandenwet, 2, elfde en twaalfde lid, van de Wet op het kindgebonden budget en 62, tweede lid, van de Wet werk en inkomen naar arbeidsvermogen, voor een woonland anders dan:
 
 a. Nederland,  
 
@@ -28,14 +28,14 @@ d. Zwitserland; bedraagt het in de bijlage bij deze regeling opgenomen percentag
 
 a. de ouder aanspraak heeft op kindgebonden budget voor meer dan een kind; en  
 
-b. voor een of meer van die kinderen voor de toepassing van de [Algemene Kinderbijslagwet](../../../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) een ander land dan een van de in artikel 1, onder a tot en met d, bedoelde landen als woonland in aanmerking wordt genomen,   wordt voor de vaststelling van de hoogte van het kindgebonden budget het hoogste bedrag aan kindgebonden budget gekoppeld aan het kind dat woont in het land met het hoogste percentage, bedoeld in artikel 1, en wordt vervolgens steeds het daarop volgende hoogste bedrag aan kindgebonden budget gekoppeld aan het kind dat woont in het land met het daarop volgende hoogste percentage. Bij een gelijk percentage wordt het hoogste bedrag aan kindgebonden budget gekoppeld aan het kind met de hoogste leeftijd.   
+b. voor een of meer van die kinderen voor de toepassing van de Algemene Kinderbijslagwet een ander land dan een van de in artikel 1, onder a tot en met d, bedoelde landen als woonland in aanmerking wordt genomen,   wordt voor de vaststelling van de hoogte van het kindgebonden budget het hoogste bedrag aan kindgebonden budget op grond van artikel 2, tweede, vierde en vijfde lid, van de Wet op het kindgebonden budget en de verhoging, bedoeld in artikel 2, zesde lid, van de Wet op het kindgebonden budget gekoppeld aan het kind dat woont in het land met het hoogste percentage, bedoeld in artikel 1, en wordt vervolgens steeds het daarop volgende hoogste bedrag aan kindgebonden budget gekoppeld aan het kind dat woont in het land met het daarop volgende hoogste percentage. Bij een gelijk percentage wordt het hoogste bedrag aan kindgebonden budget gekoppeld aan het kind met de hoogste leeftijd.   
 2.  Voor de toepassing van het eerste lid hebben de landen, bedoeld in artikel 1, onder a tot en met d, een percentage van 100.  
 
 ### Artikel  3  
 
 ####Inwerkingtreding
 
-Deze regeling treedt voor wat betreft de [artikelen I](../../../../../../../../../wet/wet/woonlandbeginsel/in/de/sociale/zekerheid/BWBR0031555/README.md), [II](../../../../../../../../../wet/wet/woonlandbeginsel/in/de/sociale/zekerheid/BWBR0031555/README.md), [III](../../../../../../../../../wet/wet/woonlandbeginsel/in/de/sociale/zekerheid/BWBR0031555/README.md) en [IV van de Wet woonlandbeginsel in de sociale zekerheid](../../../../../../../../../wet/wet/woonlandbeginsel/in/de/sociale/zekerheid/BWBR0031555/README.md) in werking op het tijdstip waarop de respectievelijke artikelen of onderdelen daarvan in werking treden. 
+Deze regeling treedt voor wat betreft de artikelen I, II, III en IV van de Wet woonlandbeginsel in de sociale zekerheid in werking op het tijdstip waarop de respectievelijke artikelen of onderdelen daarvan in werking treden. 
 
 ### Artikel  4  
 

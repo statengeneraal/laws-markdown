@@ -147,11 +147,11 @@ On proceeding to sign the European Agreement on the International Carriage of Da
 
 ###Annex A 
 
-Ligt ter inzage bij het Ministerie van Buitenlandse Zaken, afdeling Verdragen en is gepubliceerd op http://live.unece.org/trans/danger/publi/adr/adr2011/11contentse.html.
+De tekst van de correcties van 26 maart 2013 en 20 oktober 2013 en de wijzigingen van 1 oktober 2014 ligt ter inzage bij het Ministerie van Buitenlandse Zaken, afdeling Verdragen en is gepubliceerd op http://www.unece.org/trans/main/dgdb/wp15/wp15rep.html. 
 
 ###Annex B 
 
-Ligt ter inzage bij het Ministerie van Buitenlandse Zaken, afdeling Verdragen en is gepubliceerd op http://live.unece.org/trans/danger/publi/adr/adr2011/11contentse.html.
+De tekst van de correcties van 26 maart 2013 en 20 oktober 2013 en de wijzigingen van 1 oktober 2014 ligt ter inzage bij het Ministerie van Buitenlandse Zaken, afdeling Verdragen en is gepubliceerd op http://www.unece.org/trans/main/dgdb/wp15/wp15rep.html. 
 
 ####Europese Overeenkomst betreffende het internationale vervoer van gevaarlijke goederen over de weg (ADR)
 

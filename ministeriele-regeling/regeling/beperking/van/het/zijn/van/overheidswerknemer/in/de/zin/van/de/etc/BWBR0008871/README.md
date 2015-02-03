@@ -5,12 +5,12 @@
 De Minister van Binnenlandse Zaken,  
 Handelende in overeenstemming met het bestuur van de Stichting Pensioenfonds ABP,
 
-Gelet op [artikel 2, tweede lid, onderdeel j van de Wet privatisering ABP](../../../../../../../../../../../../../../../wet/wet/privatisering/abp/BWBR0007791/README.md).
+Gelet op artikel 2, tweede lid, onderdeel j van de Wet privatisering ABP.
 Besluit:     
 
 ### Artikel  1  
 
-De volgende personen of groepen van personen zijn, uit hoofde van hun bijzondere arbeidsvoorwaarden of de bijzondere aard van hun werkzaamheden, geen overheidswerknemer in de zin van de [Wet privatisering ABP](../../../../../../../../../../../../../../../wet/wet/privatisering/abp/BWBR0007791/README.md): 
+De volgende personen of groepen van personen zijn, uit hoofde van hun bijzondere arbeidsvoorwaarden of de bijzondere aard van hun werkzaamheden, geen overheidswerknemer in de zin van de Wet privatisering ABP: 
 
 a.  personen die in de regel hun dienst niet persoonlijk verrichten;  
 
@@ -28,13 +28,13 @@ g.  personen die blijkens de aard van de aanstelling of arbeidsovereenkomst in d
 
 h.  personen die incidenteel en voor een beperkte periode zijn aangesteld of op arbeidsovereenkomst naar burgerlijk recht in dienst zijn genomen om werkzaamheden te verrichten die vanwege een seizoen slechts voorkomen en verricht kunnen worden gedurende de periode van het dienstverband;  
 
-i.  de vrijwillige ambtenaar van politie, bedoeld in [artikel 1, onderdeel d, van het Besluit rechtspositie vrijwillige politie](../../../../../../../../../../../../../../../AMvB/besluit/rechtspositie/vrijwillige/politie/BWBR0007321/README.md);  
+i.  de vrijwillige ambtenaar van politie, bedoeld in artikel 1, onderdeel d, van het Besluit rechtspositie vrijwillige politie;  
 
 j.  personen op de voet van vrijwilliger in dienst van de gemeentelijke brandweerkorpsen;  
 
-k. de leden van de Raad van bestuur van het Uitvoeringsinstituut werknemersverzekeringen, genoemd in de [Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), alsmede de personen in dienst van dat lichaam;  
+k. de leden van de Raad van bestuur van het Uitvoeringsinstituut werknemersverzekeringen, genoemd in de Wet structuur uitvoeringsorganisatie werk en inkomen, alsmede de personen in dienst van dat lichaam;  
 
-l. de leden, onder wie de voorzitter, en de personeelsleden van het CAK, bedoeld in [artikel 48, eerste lid, van de Algemene Wet Bijzondere Ziektekosten](../../../../../../../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md);  
+l. de leden, onder wie de voorzitter, en de personeelsleden van het CAK, bedoeld in artikel 6.1.1. van de Wet langdurige zorg;  
 
 m.  personen in dienst genomen op arbeidsovereenkomst naar burgerlijk recht, die deelnemen in een bedrijfstakpensioenfonds waarin hun deelneming krachtens de wet verplicht zou zijn, wanneer zij in particuliere dienst zouden zijn, mits het werkgeversgedeelte van de pensioen- of spaarbijdragen door hun werkgever wordt gedragen, voor zover zij behoren tot de volgende groepen: 
 
@@ -44,11 +44,13 @@ m.  personen in dienst genomen op arbeidsovereenkomst naar burgerlijk recht, die
 
 3º.  personen die werkzaam zijn ten behoeve van de landbouw-, bos- of veenbedrijven en wier arbeidsvoorwaarden worden bepaald volgens de collectieve arbeidsovereenkomst geldende voor overeenkomstig personeel in het particuliere bedrijf;    
 
-n.  de voorzitters en leden van besturen van de openbare lichamen voor beroep en bedrijf, bedoeld in [artikel 134 van de Grondwet](../../../../../../../../../../../../../../../wet/grondwet/BWBR0001840/README.md);  
+n.  de voorzitters en leden van besturen van de openbare lichamen voor beroep en bedrijf, bedoeld in artikel 134 van de Grondwet;  
 
-o.  de leden van het Centraal Bestuur voor de Arbeidsvoorziening, genoemd in artikel 1, onderdeel b, en de voorzitter en de leden van een Regionaal Bestuur voor de Arbeidsvoorziening genoemd in [artikel 1, onderdeel c, van de Arbeidsvoorzieningswet 1996](../../../../../../../../../../../../../../../wet/arbeidsvoorzieningswet/1996/BWBR0008367/README.md) en  
+o.  de leden van het Centraal Bestuur voor de Arbeidsvoorziening, genoemd in artikel 1, onderdeel b, en de voorzitter en de leden van een Regionaal Bestuur voor de Arbeidsvoorziening genoemd in artikel 1, onderdeel c, van de Arbeidsvoorzieningswet 1996 en  
 
-p.  de leden van het bestuur van het FAOP.    
+p.  de leden van het bestuur van het FAOP;  
+
+q.de leden, onder wie de voorzitter, en de personeelsleden van het CIZ, bedoeld in artikel 7.1.1., eerste lid, van de Wet langdurige zorg. 
 
 ### Artikel  2  
 
@@ -56,7 +58,7 @@ Het bestuur van de Stichting Pensioen-fonds ABP kan nadere voorschriften geven v
 
 ### Artikel  3  
 
-1.  De persoon die op grond van artikel 4, eerste lid, van de Regeling beperking van het zijn van overheidswerknemer in de zin van de Wet privatisering ABP, zoals die luidde voor 1 september 1997, overheidswerknemer in de zin van de [Wet privatisering ABP](../../../../../../../../../../../../../../../wet/wet/privatisering/abp/BWBR0007791/README.md) is, blijft overheidswerknemer zolang die persoon zonder onderbreking van het dienstverband of de aanstelling de betrekking vervult die hij binnen de periode na 31 december 1995 tot 7 augustus 1996 vervulde en die op grond van deze regeling wordt uitgesloten.   
+1.  De persoon die op grond van artikel 4, eerste lid, van de Regeling beperking van het zijn van overheidswerknemer in de zin van de Wet privatisering ABP, zoals die luidde voor 1 september 1997, overheidswerknemer in de zin van de Wet privatisering ABP is, blijft overheidswerknemer zolang die persoon zonder onderbreking van het dienstverband of de aanstelling de betrekking vervult die hij binnen de periode na 31 december 1995 tot 7 augustus 1996 vervulde en die op grond van deze regeling wordt uitgesloten.   
 2.  De persoon die op 31 augustus 1997 de functie vervult van voorzitter van het bestuur van de Stichting Pensioen-fonds ABP blijft overheidswerknemer zolang hij die functie na die datum zonder onderbreking blijft vervullen.   
 
 ### Artikel  4  

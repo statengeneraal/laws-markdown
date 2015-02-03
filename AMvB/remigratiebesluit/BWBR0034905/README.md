@@ -70,7 +70,7 @@ b. al naar gelang de remigrant of zijn partner rechthebbende zijn op verstrekkin
 
 1.  Op het bruto bedrag van de remigratie-uitkering wordt in mindering gebracht het bruto bedrag van de uitkeringen op grond van de Wet op de arbeidsongeschiktheidsverzekering, de Wet arbeidsongeschiktheidsverzekering zelfstandigen, de Wet werk en inkomen naar arbeidsvermogen, de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, de Algemene Ouderdomswet, de Algemene nabestaandenwet en de Toeslagenwet, waarop de remigrant of zijn partner over de maand waarover de remigratie-uitkering verstrekt wordt, aanspraak heeft.   
 2.  In het bruto bedrag van een uitkering op grond van de Algemene nabestaandenwet wordt niet begrepen de tegemoetkoming op grond van artikel 29a van die wet.   
-3.  Op de remigratie-uitkering wordt niet in mindering gebracht het bruto bedrag van de tegemoetkoming op grond van de Wet mogelijkheid koopkrachttegemoetkoming oudere belastingplichtigen, waarop de remigrant of zijn partner over de maand waarover de remigratie-uitkering wordt verstrekt aanspraak heeft.  
+3.  Op de remigratie-uitkering wordt niet in mindering gebracht het bruto bedrag van de tegemoetkoming op grond van artikel 33a van de Algemene Ouderdomswet, waarop de remigrant of zijn partner over de maand waarover de remigratie-uitkering wordt verstrekt aanspraak heeft.  
 
 ### Hoofdstuk  IV  
 

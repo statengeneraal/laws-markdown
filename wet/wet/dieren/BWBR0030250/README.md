@@ -174,10 +174,10 @@ d. een hond als trekkracht gebruiken met uitzondering van de sledehondensport, v
 
 ####Houden van dieren
 
-1.  Dit lid is nog niet in werking getreden.   
-2.  Dit lid is nog niet in werking getreden.   
-3.  Dit lid is nog niet in werking getreden.   
-4.  Dit lid is nog niet in werking getreden.   
+1.  Het is verboden dieren te houden die niet behoren tot door Onze Minister aangewezen diersoorten of diercategorieën.   
+2.  Bij algemene maatregel van bestuur worden de criteria vastgesteld op grond waarvan Onze Minister diersoorten of diercategorieën, bedoeld in het eerste lid, aanwijst.   
+3.  Bij algemene maatregel van bestuur kan worden geregeld dat het verbod, bedoeld in het eerste lid, slechts van toepassing is op één of meer dierklassen.   
+4.  De hoofdstukken 6, 7 en 8 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing op de aanwijzing, bedoeld in het eerste lid.   
 5.  Het is verboden dieren te houden waarbij in strijd met het bepaalde bij of krachtens artikel 2.25 substanties zijn toegepast.   
 6.  Het is verboden bij ministeriële regeling aangewezen dieren te houden. Een dier als bedoeld in de eerste volzin wordt aangewezen indien het een gevaar kan opleveren voor mens of dier.   
 7.  Het is verboden dieren behorende tot bij algemene maatregel van bestuur aangewezen diersoorten of diercategorieën van het ouderdier te scheiden voordat die dieren een bij die maatregel vastgestelde leeftijd hebben bereikt.   

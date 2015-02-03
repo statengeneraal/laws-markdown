@@ -3,22 +3,22 @@
 ##Regeling toezichthoudende ambtenaren Sanctiewet 1977
 
 De Minister van Buitenlandse Zaken, de Minister van Financiën, de Minister van Verkeer en Waterstaat, de Staatssecretaris van Economische Zaken, de Minister van Landbouw, Natuurbeheer en Visserij en de Minister van Defensie,  
-Gelet op [artikel 10, eerste lid, van de Sanctiewet 1977](../../../../../../../wet/sanctiewet/1977/BWBR0003296/README.md)
+Gelet op artikel 10, eerste lid, van de Sanctiewet 1977
 Besluiten:    
 
 ### Artikel  1  
 
-Als ambtenaren, belast met het toezicht op de naleving van het bij of krachtens de [Sanctiewet 1977](../../../../../../../wet/sanctiewet/1977/BWBR0003296/README.md) bepaalde, worden aangewezen de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, de buitengewone opsporingsambtenaren van de Belastingdienst/ECD van het Ministerie van Financiën, de ambtenaren van de Algemene Inspectiedienst , de ambtenaren van de Erfgoedinspectie van het Ministerie van Onderwijs, Cultuur en Wetenschappen en de commandanten van de Nederlandse oorlogsschepen. 
+Als ambtenaren, belast met het toezicht op de naleving van het bij of krachtens de Sanctiewet 1977 bepaalde, worden aangewezen de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, de buitengewone opsporingsambtenaren van de Belastingdienst/ECD van het Ministerie van Financiën, de ambtenaren van de Algemene Inspectiedienst , de ambtenaren van de Erfgoedinspectie van het Ministerie van Onderwijs, Cultuur en Wetenschappen, de ambtenaren van de Inspectie Leefomgeving en Transport en de commandanten van de Nederlandse oorlogsschepen. 
 
 ### Artikel  2  
 
 Ingetrokken worden: 
 
-a. [Regeling Aanwijzing ambtenaren](../../../../../../../ministeriele-regeling/regeling/aanwijzing/ambtenaren/BWBR0005500/README.md) belast met het toezicht uitvoering sancties Libië; 
+a. Regeling Aanwijzing ambtenaren belast met het toezicht uitvoering sancties Libië; 
 
-b. [Regeling Aanwijzing ambtenaren](../../../../../../../ministeriele-regeling/regeling/aanwijzing/ambtenaren/BWBR0005500/README.md) belast met het toezicht uitvoering sancties Servië en Montenegro; 
+b. Regeling Aanwijzing ambtenaren belast met het toezicht uitvoering sancties Servië en Montenegro; 
 
-c. [Regeling Aanwijzing ambtenaren](../../../../../../../ministeriele-regeling/regeling/aanwijzing/ambtenaren/BWBR0005500/README.md) belast met het toezicht uitvoering sancties Koeweit en Irak, 
+c. Regeling Aanwijzing ambtenaren belast met het toezicht uitvoering sancties Koeweit en Irak, 
 
 d. Regeling Aanwijzing bevelhebbers Nederlandse oorlogsschepen als opsporingsambtenaar; 
 

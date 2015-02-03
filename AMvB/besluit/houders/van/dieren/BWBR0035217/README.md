@@ -80,8 +80,6 @@ f. het zich vervoeren of verplaatsen, het zich laten vervoeren of laten verplaat
 
 ####Criteria voor aanwijzing diersoorten of diercategorieën op positieflijst
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  De criteria, bedoeld in artikel 2.2, tweede lid, van de wet, zijn: 
 
 a. dieren: 

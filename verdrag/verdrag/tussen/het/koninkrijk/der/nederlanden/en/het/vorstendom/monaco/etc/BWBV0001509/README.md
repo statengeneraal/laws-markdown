@@ -145,42 +145,44 @@ Het Koninkrijk der Nederlanden enerzijds en het Vorstendom Monaco anderzijds hie
 
 ####Algemene begripsbepalingen
 
+Wordt voorlopig toegepast per 01-01-2015 
+
 1.   Voor de toepassing van dit Verdrag wordt verstaan onder: 
 
-a „grondgebied": met betrekking tot het Koninkrijk der Nederlanden, het grondgebied van het Koninkrijk in Europa en met betrekking tot het Vorstendom Monaco, het grondgebied daarvan;  
+a. „grondgebied”: met betrekking tot het Koninkrijk der Nederlanden, het grondgebied van het Koninkrijk in Europa en met betrekking tot het Vorstendom Monaco, het grondgebied daarvan;  
 
-b „wetgeving": de wetgeving met betrekking tot de takken van sociale verzekering bedoeld in artikel 2;  
+b. „wetgeving”: de wetgeving met betrekking tot de takken van sociale verzekering bedoeld in artikel 2;  
 
-c „bevoegde autoriteit": met betrekking tot het Koninkrijk der Nederlanden, de Nederlandse Minister van Sociale Zaken en Werkgelegenheid; met betrekking tot het Vorstendom Monaco, de Regeringsraad voor Openbare Werken en Sociale Zaken;  
+c. „bevoegde autoriteit”: met betrekking tot het Koninkrijk der Nederlanden, de Nederlandse Minister van Sociale Zaken en Werkgelegenheid; met betrekking tot het Vorstendom Monaco, de Regeringsraad voor Sociale Zaken en Gezondheid;  
 
-d „bevoegd orgaan": met betrekking tot het Koninkrijk der Nederlanden, het „Landelijk instituut sociale verzekeringen" ten aanzien van de toepassing van de takken van sociale zekerheid bedoeld in artikel 2 onder a, b en c en als vertegenwoordiger daarvan „Gak Nederland bv" of elk ander orgaan dat gemachtigd is de functies te vervullen die thans door het genoemde bevoegde orgaan worden uitgeoefend, en de „Sociale Verzekeringsbank" ten aanzien van de takken van sociale zekerheid bedoeld in artikel 2 onder d, e en f; met betrekking tot het Vorstendom Monaco, het Departement van Openbare Werken en Sociale Zaken;  
+d. „bevoegd orgaan”: met betrekking tot het Koninkrijk der Nederlanden, het „Landelijk instituut sociale verzekeringen” ten aanzien van de toepassing van de takken van sociale zekerheid bedoeld in artikel 2 onder a, b en c en als vertegenwoordiger daarvan „Gak Nederland bv” of elk ander orgaan dat gemachtigd is de functies te vervullen die thans door het genoemde bevoegde orgaan worden uitgeoefend, en de „Sociale Verzekeringsbank” ten aanzien van de takken van sociale zekerheid bedoeld in artikel 2 onder d en e; met betrekking tot het Vorstendom Monaco, het Departement van Sociale Zaken en Gezondheid;  
 
-e „sociale verzekeringsinstelling": de „Caisse de Compensation des Services Sociaux", de „Caisse Autonome des Retraites", de „Caisse d'Assurance Accident, Maladie et Maternité des Travailleurs Indépendants" en de ``Caisse Autonome des Retraites des Travailleurs Indépendants";   
+e. „sociale verzekeringsinstelling”: de „Caisse de Compensation des Services Sociaux”, de „Caisse Autonome des Retraites”, de „Caisse d'Assurance Accident, Maladie et Maternité des Travailleurs Indépendants” en de ``Caisse Autonome des Retraites des Travailleurs Indépendants”;   
 
-f ``uitkering": elke in geld uitbetaalde uitkering of elk in geld uitbetaald pensioen waarin de Nederlandse wetgeving voorziet;  
+f. “uitkering”: elke in geld uitbetaalde uitkering of elk in geld uitbetaald pensioen waarin de Nederlandse wetgeving voorziet;  
 
-g „uitkeringsgerechtigde": de persoon die een uitkering aanvraagt of die recht op een uitkering heeft;  
+g. „uitkeringsgerechtigde”: de persoon die een uitkering aanvraagt of die recht op een uitkering heeft;  
 
-h „gezinslid": elke als zodanig door de Nederlandse wetgeving omschreven of toegelaten persoon.     
+h. „gezinslid”: elke als zodanig door de Nederlandse wetgeving omschreven of toegelaten persoon.     
 2.   Elke andere in dit Verdrag gebruikte term heeft de betekenis die de wetgeving daaraan toekent.  
 
 ### Artikel  2  
 
 ####Materiële werkingssfeer
 
+Wordt voorlopig toegepast per 01-01-2015 
+
 Dit Verdrag is van toepassing op de Nederlandse wetgeving inzake de volgende takken van sociale verzekeringen: 
 
-a uitkeringen wegens ziekte en moederschap;  
+a. uitkeringen wegens ziekte en moederschap;  
 
-b invaliditeitsuitkeringen voor werknemers;  
+b. invaliditeitsuitkeringen voor werknemers;  
 
-c invaliditeitsuitkeringen voor zelfstandigen;  
+c. invaliditeitsuitkeringen voor zelfstandigen;  
 
-d ouderdomsuitkeringen;  
+d. ouderdomsuitkeringen;  
 
-e uitkeringen aan nabestaanden;  
-
-f kinderbijslagen   
+e. uitkeringen aan nabestaanden.   
 
 ### Artikel  3  
 

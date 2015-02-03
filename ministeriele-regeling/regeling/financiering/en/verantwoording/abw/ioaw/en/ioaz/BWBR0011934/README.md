@@ -70,7 +70,8 @@ h. de ten laste van de gemeente gebleven kosten: de ten laste van de gemeente ge
 
 a. € 2.561,– voor een uitgebreid rapport en € 1.513,– voor een verkort rapport betrekking hebbend op bijstandsverlening aan een gevestigde of een startende zelfstandige als bedoeld in artikel 2, eerste lid, onderdelen a en b, van het Bbz 2004; 
 
-b. € 931,– voor een rapport betrekking hebbend op bijstandsverlening aan een oudere of een beëindigende zelfstandige als bedoeld in artikel 2, eerste lid, onderdelen c en d, van het Bbz 2004 of een nader of vervolgrapport betrekking hebbend op bijstandsverlening aan een zelfstandige.   
+b. € 931,– voor een rapport betrekking hebbend op bijstandsverlening aan een oudere of een beëindigende zelfstandige als bedoeld in artikel 2, eerste lid, onderdelen c en d, van het Bbz 2004 of een nader of vervolgrapport betrekking hebbend op bijstandsverlening aan een zelfstandige.    
+3.  De bedragen, genoemd in het eerste en tweede lid, onderdelen a en b, worden met ingang van 1 januari van elk kalenderjaar gewijzigd met het percentage waarmee het prijsindexcijfer van de gezinsconsumptie over de maand oktober daaraan voorafgaand afwijkt van het prijsindexcijfer waarop de laatste vaststelling van de bedragen is gebaseerd. De gewijzigde bedragen worden door of namens de Minister bekendgemaakt in de Staatscourant. 
 
 ###Artikel 7b 
 

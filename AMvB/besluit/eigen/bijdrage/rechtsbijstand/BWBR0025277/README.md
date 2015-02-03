@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Justitie van 9 december 2008, nr. 5577912/08/6;
 
-Gelet op de [artikelen 25, zesde lid](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md), [34a, vierde lid](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md), [34d, derde lid](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md), en [35 van de Wet op de rechtsbijstand](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md);
+Gelet op de artikelen 25, zesde lid, 34a, vierde lid, 34d, derde lid, en 35 van de Wet op de rechtsbijstand;
 
 De Raad van State gehoord (advies van 7 januari 2009, nr. W03.08.0545/II);
 
@@ -20,15 +20,15 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder: 
 
-*diagnosedocument:* een schriftelijk document, opgesteld in het kader van de verlening van rechtshulp door een voorziening als bedoeld in [artikel 7, tweede lid](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md), of [artikel 8, tweede lid, van de wet](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md), waarin is opgenomen een analyse van het juridisch probleem en een advies over dat probleem, met zo nodig een verwijzing naar ter zake doende instanties en rechtsbijstandverleners;  
+*diagnosedocument:* een schriftelijk document, opgesteld in het kader van de verlening van rechtshulp door een voorziening als bedoeld in artikel 7, tweede lid, of artikel 8, tweede lid, van de wet, waarin is opgenomen een analyse van het juridisch probleem en een advies over dat probleem, met zo nodig een verwijzing naar ter zake doende instanties en rechtsbijstandverleners;  
 
-*draagkracht:* draagkracht zoals die overeenkomstig de [wet](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md) wordt berekend;  
+*draagkracht:* draagkracht zoals die overeenkomstig de wet wordt berekend;  
 
-*eigen bijdrage:* eigen bijdrage, bedoeld in [artikel 35, eerste lid, van de wet](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md);  
+*eigen bijdrage:* eigen bijdrage, bedoeld in artikel 35, eerste lid, van de wet;  
 
-*opvolgend deskundigenoordeel:* het oordeel van een opvolgend rechtsbijstandverlener als bedoeld in de [artikelen 9](../../../../../../AMvB/besluit/vergoedingen/rechtsbijstand/2000/BWBR0011018/README.md) en [20 van het Besluit vergoedingen rechtsbijstand 2000](../../../../../../AMvB/besluit/vergoedingen/rechtsbijstand/2000/BWBR0011018/README.md) over een zaak waarvoor een toevoeging is verleend aan een andere rechtsbijstandverlener die niet werkzaam is in hetzelfde samenwerkingsverband, met als doel de twijfel die de rechtzoekende heeft over het oordeel van die andere rechtsbijstandverlener weg te nemen;  
+*opvolgend deskundigenoordeel:* het oordeel van een opvolgend rechtsbijstandverlener als bedoeld in de artikelen 9 en 20 van het Besluit vergoedingen rechtsbijstand 2000 over een zaak waarvoor een toevoeging is verleend aan een andere rechtsbijstandverlener die niet werkzaam is in hetzelfde samenwerkingsverband, met als doel de twijfel die de rechtzoekende heeft over het oordeel van die andere rechtsbijstandverlener weg te nemen;  
 
-*wet:* [Wet op de rechtsbijstand](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md).   
+*wet:* Wet op de rechtsbijstand.   
 
 ### Hoofdstuk  2  
 
@@ -63,22 +63,22 @@ e. € 811,– € 823, indien het inkomen meer dan € 30.100,–per 1 januari
 a. € 76,–per 1 januari 2014: € 77, indien het inkomen ten hoogste € 18 400,–per 1 januari 2014: € 18.700 onderscheidenlijk ten hoogste € 25 700,–per 1 januari 2014: € 26.100 bedraagt; en  
 
 b. € 127,–per 1 januari 2014: € 129, indien het inkomen meer dan € 18 400,–per 1 januari 2014: € 18.700 en ten hoogste € 25 200,–per 1 januari 2014: € 25.600 onderscheidenlijk meer dan € 25 700,–per 1 januari 2014: € 26.100 en ten hoogste € 35 600,–per 1 januari 2014: € 36.100 bedraagt.     
-4.  Indien een natuurlijk persoon blijkens een betalingsbewijs de eigen bijdrage, bedoeld in het derde lid, heeft voldaan, wordt deze in mindering gebracht op de eigen bijdrage die hij in geval van een wijziging van de toevoeging als bedoeld in [artikel 24a, tweede lid, van de wet](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md) overeenkomstig het eerste of tweede lid voor de verlening van rechtsbijstand op basis van een toevoeging is verschuldigd.   
+4.  Indien een natuurlijk persoon blijkens een betalingsbewijs de eigen bijdrage, bedoeld in het derde lid, heeft voldaan, wordt deze in mindering gebracht op de eigen bijdrage die hij in geval van een wijziging van de toevoeging als bedoeld in artikel 24a, tweede lid, van de wet overeenkomstig het eerste of tweede lid voor de verlening van rechtsbijstand op basis van een toevoeging is verschuldigd.   
 5.  De eigen bijdrage, die een rechtspersoon verschuldigd is voor de verlening van rechtsbijstand op basis van een toevoeging, bedraagt € 811,–per 1 januari 2014: € 823.   
 6.  Indien aan een rechtzoekende, alvorens deze een toevoeging aanvraagt, in persoon rechtshulp is verleend met betrekking tot zijn individuele rechtsbelang door een voorziening als bedoeld in artikel 7, tweede lid, of artikel 8, tweede lid, van de wet, en in het kader daarvan een diagnosedocument is opgesteld en aan de rechtzoekende ter beschikking is gesteld, wordt de op grond van het eerste, tweede onderscheidenlijk vijfde lid verschuldigde eigen bijdrage met € 50,– per 1 januari 2013: € 52.per 1 januari 2014: € 53verlaagd.   
 7.  In afwijking van het zesde lid wordt de eigen bijdrage, die een natuurlijke persoon verschuldigd is voor de verlening van rechtsbijstand op basis van een toevoeging, verlaagd met € 50,– per 1 januari 2013: € 52per 1 januari 2014: € 53 indien de rechtsbijstand wordt verleend: 
 
-a. in een strafzaak in eerste aanleg jegens een verdachte als bedoeld in [artikel 1, onderdeel d, van het Besluit vergoedingen rechtsbijstand 2000](../../../../../../AMvB/besluit/vergoedingen/rechtsbijstand/2000/BWBR0011018/README.md);  
+a. in een strafzaak in eerste aanleg jegens een verdachte als bedoeld in artikel 1, onderdeel d, van het Besluit vergoedingen rechtsbijstand 2000;  
 
-b. bij de aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in [artikel 28, eerste lid, onderdeel a, van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md);  
+b. bij de aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in artikel 28, eerste lid, onderdeel a, van de Vreemdelingenwet 2000;  
 
-c. bij het inbrengen van een zienswijze tegen het voornemen tot afwijzen van de aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in [artikel 33 van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md);  
+c. bij het inbrengen van een zienswijze tegen het voornemen tot afwijzen van de aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in artikel 33 van de Vreemdelingenwet 2000;  
 
-d. bij het inbrengen van een zienswijze tegen het voornemen tot afwijzen van de aanvraag tot het verlengen van de geldigheidsduur van een verblijfsvergunning als bedoeld in [artikel 28 van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md);  
+d. bij het inbrengen van een zienswijze tegen het voornemen tot afwijzen van de aanvraag tot het verlengen van de geldigheidsduur van een verblijfsvergunning als bedoeld in artikel 28 van de Vreemdelingenwet 2000;  
 
-e. bij het inbrengen van een zienswijze tegen het voornemen om een verblijfsvergunning als bedoeld in de [artikelen 28](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en [33 van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) in te trekken;  
+e. bij het inbrengen van een zienswijze tegen het voornemen om een verblijfsvergunning als bedoeld in de artikelen 28 en 33 van de Vreemdelingenwet 2000 in te trekken;  
 
-f. in een zaak omtrent het opleggen van een sanctie als bedoeld in [artikel 5:2 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);  
+f. in een zaak omtrent het opleggen van een sanctie als bedoeld in artikel 5:2 van de Algemene wet bestuursrecht;  
 
 g. in een zaak in hoger beroep of cassatie.     
 8.  Het bestuur kan beslissen om de op grond van het eerste, tweede onderscheidenlijk vijfde lid verschuldigde eigen bijdrage met € 50,– per 1 januari 2014: € 53 te verlagen indien van de rechtzoekende, gelet op de omstandigheden van het geval, waaronder begrepen de persoonlijke omstandigheden van de rechtzoekende, redelijkerwijs niet kan worden verlangd dat is voldaan aan het bepaalde in het zesde lid alvorens een toevoeging aan te vragen.  
@@ -86,7 +86,7 @@ g. in een zaak in hoger beroep of cassatie.
 
 ### Artikel  2a  
 
-1.  In afwijking van artikel 2, eerste tot en met derde lid, is een natuurlijk persoon een hogere eigen bijdrage verschuldigd indien de toevoeging ziet op de verlening van rechtsbijstand bij verzoeken die voortkomen uit de verbreking van een huwelijkse of niet-huwelijkse relatie en gegrond zijn op [Titel 5A tot en met 10](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [14, afdelingen 1 tot en met 3a](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [5](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) en [6](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [15](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) en [17, van Boek 1 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md).   
+1.  In afwijking van artikel 2, eerste tot en met derde lid, is een natuurlijk persoon een hogere eigen bijdrage verschuldigd indien de toevoeging ziet op de verlening van rechtsbijstand bij verzoeken die voortkomen uit de verbreking van een huwelijkse of niet-huwelijkse relatie en gegrond zijn op Titel 5A tot en met 10, 14, afdelingen 1 tot en met 3a, 5 en 6, 15 en 17, van Boek 1 van het Burgerlijk Wetboek.   
 2.  In de gevallen genoemd in het eerste lid, bedraagt de eigen bijdrage die een natuurlijk persoon, verschuldigd is voor de verlening van rechtsbijstand op basis van een toevoeging waarin uitsluitend zijn inkomen of vermogen in aanmerking wordt genomen: 
 
 a. € 335,– per 1 januari 2014: € 340, indien het inkomen niet hoger is dan € 17.700,–per 1 januari 2014: € 18.000;  
@@ -122,22 +122,22 @@ Met inachtneming van artikel 2, negende lid, is de rechtzoekende ingeval van een
 
 ### Artikel  2c  
 
-Indien [artikel 13](../../../../../../AMvB/besluit/vergoedingen/rechtsbijstand/2000/BWBR0011018/README.md) of [22 van het Besluit vergoedingen rechtsbijstand 2000](../../../../../../AMvB/besluit/vergoedingen/rechtsbijstand/2000/BWBR0011018/README.md) van toepassing is, is de rechtzoekende, met inachtneming van artikel 2, negende lid, opnieuw een eigen bijdrage verschuldigd waarvan de hoogte gelijk is aan de eigen bijdrage die de rechtzoekende verschuldigd is voor de toevoeging, tenzij het bestuur op grond van artikel 6, eerste of tweede lid, geen eigen bijdrage heeft opgelegd. 
+Indien artikel 13 of 22 van het Besluit vergoedingen rechtsbijstand 2000 van toepassing is, is de rechtzoekende, met inachtneming van artikel 2, negende lid, opnieuw een eigen bijdrage verschuldigd waarvan de hoogte gelijk is aan de eigen bijdrage die de rechtzoekende verschuldigd is voor de toevoeging, tenzij het bestuur op grond van artikel 6, eerste of tweede lid, geen eigen bijdrage heeft opgelegd. 
 
 ### Artikel  3  
 
-1.  De inkomensgrenzen, bedoeld in artikel 2, eerste tot en met derde lid, en artikel 2a, tweede tot en met vierde lid, de hoogten van de eigen bijdragen, bedoeld in de artikelen 2, 2a, tweede tot en met vierde lid, en 4, alsmede het bedrag waarmee de eigen bijdrage wordt verlaagd, bedoeld in artikel 2, zesde, zevende en achtste lid, en artikel 4, tweede en derde lid, worden jaarlijks met ingang van 1 januari aangepast met het percentage waarmee het indexcijfer van de lonen op 31 oktober van het voorafgaande jaar afwijkt van het overeenkomstige indexcijfer op 31 oktober in het daaraan voorafgaande jaar, met dien verstande dat de aan te passen inkomensgrenzen worden afgerond op het naastliggende veelvoud van € 100,– en de aan te passen hoogten van de eigen bijdragen en het bedrag waarmee de eigen bijdrage wordt verlaagd, bedoeld in artikel 2, zesde, zevende en achtste lid, en artikel 4, tweede en derde lid, worden afgerond op het naastliggende veelvoud van € 1,–. [Artikel 1 van het Besluit omschrijving indexcijfer](../../../../../../AMvB/besluit/omschrijving/indexcijfer/BWBR0009721/README.md) is van overeenkomstige toepassing.   
+1.  De inkomensgrenzen, bedoeld in artikel 2, eerste tot en met derde lid, en artikel 2a, tweede tot en met vierde lid, de hoogten van de eigen bijdragen, bedoeld in de artikelen 2, 2a, tweede tot en met vierde lid, en 4, alsmede het bedrag waarmee de eigen bijdrage wordt verlaagd, bedoeld in artikel 2, zesde, zevende en achtste lid, en artikel 4, tweede en derde lid, worden jaarlijks met ingang van 1 januari aangepast met het percentage waarmee het indexcijfer van de lonen op 31 oktober van het voorafgaande jaar afwijkt van het overeenkomstige indexcijfer op 31 oktober in het daaraan voorafgaande jaar, met dien verstande dat de aan te passen inkomensgrenzen worden afgerond op het naastliggende veelvoud van € 100,– en de aan te passen hoogten van de eigen bijdragen en het bedrag waarmee de eigen bijdrage wordt verlaagd, bedoeld in artikel 2, zesde, zevende en achtste lid, en artikel 4, tweede en derde lid, worden afgerond op het naastliggende veelvoud van € 1,–. Artikel 1 van het Besluit omschrijving indexcijfer is van overeenkomstige toepassing.   
 2.  Onze Minister maakt jaarlijks de geïndexeerde bedragen, bedoeld in het eerste lid, bekend door publicatie in de Staatscourant.  
 
 ### Artikel  4  
 
 1. In afwijking van artikel 2, eerste en tweede lid, en artikel 2a, tweede en derde lid, bedraagt de eigen bijdrage, die een natuurlijk persoon verschuldigd is voor de verlening van rechtsbijstand op basis van een toevoeging, 193,–, indien het gaat om de verlening van rechtsbijstand: 
 
-a. in hoger beroep tegen de afwijzing van het verzoek om toepassing van de schuldsaneringsregeling, bedoeld in [artikel 292 van de Faillissementswet](../../../../../../wet/faillissementswet/BWBR0001860/README.md);  
+a. in hoger beroep tegen de afwijzing van het verzoek om toepassing van de schuldsaneringsregeling, bedoeld in artikel 292 van de Faillissementswet;  
 
 b. in de periode waarin de rechtzoekende in staat van faillissement verkeert;  
 
-c. in de periode waarin de schuldsaneringsregeling, bedoeld in [titel III van de Faillissementswet](../../../../../../wet/faillissementswet/BWBR0001860/README.md), van toepassing is; of  
+c. in de periode waarin de schuldsaneringsregeling, bedoeld in titel III van de Faillissementswet, van toepassing is; of  
 
 d. in de periode gedurende welke een schriftelijk vastgelegd akkoord met betrekking tot een buitengerechtelijke schuldsanering, ondertekend door alle schuldeisers en de schuldenaar, overeenkomstig de daarin opgenomen verplichtingen wordt uitgevoerd en daarin in elk geval zijn opgenomen: 
 
@@ -145,14 +145,14 @@ d. in de periode gedurende welke een schriftelijk vastgelegd akkoord met betrekk
 
 2°. een beschrijving van het saneringsplan;  
 
-3°. het bedrag dat buiten de boedel wordt gelaten en berekend is overeenkomstig het rekenmodel dat door de rechter-commissaris in het faillissement wordt gebruikt voor de berekening van het inkomen, bedoeld in [artikel 295 van de Faillissementswet](../../../../../../wet/faillissementswet/BWBR0001860/README.md);  
+3°. het bedrag dat buiten de boedel wordt gelaten en berekend is overeenkomstig het rekenmodel dat door de rechter-commissaris in het faillissement wordt gebruikt voor de berekening van het inkomen, bedoeld in artikel 295 van de Faillissementswet;  
 
 4°. de verplichting voor de schuldenaar om de schulden, opgenomen in het saneringsplan, binnen een zo kort mogelijke termijn te betalen;  
 
 5°. de termijn gedurende welke het saneringsplan van kracht is, met een maximum van drie jaar; en  
 
 6°. dat, indien een organisatie de sanering begeleidt, deze organisatie telkens na verloop van zes maanden ten behoeve van de schuldeisers een verslag uitbrengt over de uitvoering van het saneringsplan alsmede een voorstel doet voor de aanpassing van het bedrag dat buiten de boedel wordt gelaten.      
-2.  Indien aan een rechtzoekende, alvorens deze een toevoeging aanvraagt, in persoon rechtshulp is verleend met betrekking tot zijn individuele rechtsbelang door een voorziening als bedoeld in [artikel 7, tweede lid](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md), of [artikel 8, tweede lid, van de wet](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md), en in het kader daarvan een diagnosedocument is opgesteld en aan de rechtzoekende ter beschikking is gesteld, wordt de op grond van het eerste lid verschuldigde eigen bijdrage met € 50,– per 1 januari 2013: € 52 verlaagd.   
+2.  Indien aan een rechtzoekende, alvorens deze een toevoeging aanvraagt, in persoon rechtshulp is verleend met betrekking tot zijn individuele rechtsbelang door een voorziening als bedoeld in artikel 7, tweede lid, of artikel 8, tweede lid, van de wet, en in het kader daarvan een diagnosedocument is opgesteld en aan de rechtzoekende ter beschikking is gesteld, wordt de op grond van het eerste lid verschuldigde eigen bijdrage met € 50,– per 1 januari 2013: € 52 verlaagd.   
 3.  Het bestuur kan beslissen om de op grond van het eerste lid verschuldigde eigen bijdrage met € 50,– per 1 januari 2013: € 52 te verlagen indien van de rechtzoekende, gelet op de omstandigheden van het geval, waaronder begrepen de persoonlijke omstandigheden van de rechtzoekende, redelijkerwijs niet kan worden verlangd dat is voldaan aan het bepaalde in het tweede lid alvorens een toevoeging aan te vragen.  
 4.  In de gevallen bedoeld in de artikelen 2b en 2c, vindt de verlaging bedoeld in het tweede lid geen toepassing. 
 
@@ -164,15 +164,15 @@ Indien een toevoeging ten behoeve van rechtsbijstand wordt verleend in een zaak 
 
 1.  Het bestuur legt geen eigen bijdrage op in geval van een toevoeging ten behoeve van rechtsbijstand aan: 
 
-a. personen die uitsluitend zijn aangewezen op verstrekkingen, weergegeven in zowel de [Regeling opvang asielzoekers](../../../../../../ministeriele-regeling/regeling/opvang/asielzoekers/BWBR0005366/README.md) als de [Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen 2005](../../../../../../ministeriele-regeling/regeling/verstrekkingen/asielzoekers/en/andere/categorieën/vreemdelingen/etc/BWBR0017959/README.md);  
+a. personen die uitsluitend zijn aangewezen op verstrekkingen, weergegeven in zowel de Regeling opvang asielzoekers als de Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen 2005;  
 
 b. personen wier vrijheid rechtens is ontnomen en die geen inkomsten meer hebben uit een dienstbetrekking, beroep of bedrijf, sociale verzekering of sociale voorziening;  
 
-c. personen die een vordering in kort geding instellen tegen een beslissing als bedoeld in [artikel 38, vijfde lid, derde volzin, van de Wet bijzondere opnemingen in psychiatrische ziekenhuizen](../../../../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md);  
+c. personen die een vordering in kort geding instellen tegen een beslissing als bedoeld in artikel 38, vijfde lid, derde volzin, van de Wet bijzondere opnemingen in psychiatrische ziekenhuizen;  
 
-d. minderjarigen ten behoeve van wie een bijzonder curator als bedoeld in [artikel 250 van Boek 1 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) is benoemd; en  
+d. minderjarigen ten behoeve van wie een bijzonder curator als bedoeld in artikel 250 van Boek 1 van het Burgerlijk Wetboek is benoemd; en  
 
-e. echtgenoten als bedoeld in [artikel 817, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md).    
+e. echtgenoten als bedoeld in artikel 817, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering.    
 2.  Het bestuur kan beslissen om geen eigen bijdrage op te leggen in geval van een toevoeging ten behoeve van rechtsbijstand, indien de rechtzoekende geen inkomen of vermogen heeft.   
 3.  Met inachtneming van artikel 2, negende lid, legt in afwijking van het eerste en tweede lid, het bestuur de laagste eigen bijdrage bedoeld in de artikelen 2, eerste en tweede lid, en 2a, tweede en derde lid, op indien een opvolgend deskundigenoordeel wordt gevraagd. 
 
@@ -200,7 +200,7 @@ Indien de rechtzoekende een rechtspersoon is, kan hij bij de indiening van de aa
 
 ### Artikel  10  
 
-Indien het inkomen of vermogen van de rechtzoekende in het jaar waarin de aanvraag om een toevoeging is gedaan, bedoeld in [artikel 34c, eerste lid, van de wet](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md), binnen de grenzen, genoemd in [artikel 34, eerste en tweede lid, van de wet](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md), valt, maar de terugval in het inkomen of vermogen, bedoeld in [artikel 34c, eerste lid, van de wet](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md), minder dan 15% bedraagt, wordt hem door het bestuur desondanks een toevoeging ten behoeve van rechtsbijstand verleend. 
+Indien het inkomen of vermogen van de rechtzoekende in het jaar waarin de aanvraag om een toevoeging is gedaan, bedoeld in artikel 34c, eerste lid, van de wet, binnen de grenzen, genoemd in artikel 34, eerste en tweede lid, van de wet, valt, maar de terugval in het inkomen of vermogen, bedoeld in artikel 34c, eerste lid, van de wet, minder dan 15% bedraagt, wordt hem door het bestuur desondanks een toevoeging ten behoeve van rechtsbijstand verleend. 
 
 ### Hoofdstuk  4  
 
@@ -208,7 +208,7 @@ Indien het inkomen of vermogen van de rechtzoekende in het jaar waarin de aanvra
 
 ### Artikel  11  
 
-Het [Besluit draagkrachtcriteria rechtsbijstand](../../../../../../AMvB/besluit/draagkrachtcriteria/rechtsbijstand/BWBR0006405/README.md) wordt ingetrokken.
+Het Besluit draagkrachtcriteria rechtsbijstand wordt ingetrokken.
 
 ### Artikel  12  
 

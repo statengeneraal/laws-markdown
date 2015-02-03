@@ -129,8 +129,8 @@ n.de eenmalige bijzondere uitkering, bedoeld in artikel 21a, eerste lid, van het
 
 ####Indexering
 
-1.  Met ingang van de dag waarop de bedragen, genoemd in artikel 2, zesde lid, van de Wet op de loonbelasting 1964 wijzigen, worden de bedragen, genoemd in artikel 7, onderdeel h, herzien met het percentage van deze wijziging.   
-2.  Van de herziene bedragen, bedoeld in het eerste lid, en van de dag waarop de herziening plaatsvindt wordt door de minister mededeling gedaan in de Staatscourant.  
+1.  Met ingang van de dag waarop de bedragen, genoemd in artikel 2, zesde lid, van de Wet op de loonbelasting 1964 wijzigen, worden de bedragen, genoemd in artikel 7, onderdeel h, gewijzigd met het percentage van deze wijziging.   
+2.  De gewijzigde bedragen, bedoeld in het eerste lid, en de dag waarop de wijzigingen plaatsvinden, worden door of namens de minister bekendgemaakt in de Staatscourant.  
 
 ### §  6  
 
@@ -251,18 +251,9 @@ b. de uitstroom van de tekortgemeente in jaar [t] ten opzichte van de gemiddelde
 
 ### Artikel  15a  
 
-####Meerjarige aanvullende uitkering
+####Overgangsrecht meerjarige aanvullende uitkering
 
-1.  Een verzoek tot een meerjarige aanvullende uitkering wordt door de toetsingscommissie ontvangen in de periode van 1 januari tot en met 31 maart van het eerste kalenderjaar waarop het verzoek betrekking heeft.   
-2.  Een verzoek als bedoeld in het eerste lid gaat vergezeld van gegevens op grond waarvan de toetsingscommissie kan beoordelen of voldaan is aan de vereisten, genoemd in artikel 10a, eerste lid, van het Besluit Participatiewet.   
-3.  Een verzoek tot een meerjarige aanvullende uitkering wordt ingediend onder gebruikmaking van een formulier dat door de minister elektronisch beschikbaar wordt gesteld.  
-4.  Een verzoek dat door de toetsingscommissie wordt ontvangen na 31 maart wordt niet behandeld.   
-5.  De minister: 
-
-a. beslist uiterlijk 31 december van het kalenderjaar waarin het verzoek als bedoeld in het eerste lid is ingediend of dat verzoek wordt gehonoreerd en of de eigen bijdrage 2,5%, 5% of 7,5% bedraagt;  
-
-b. stelt, van een toegewezen verzoek, de hoogte van het uitkeringsdeel dat betrekking heeft op 2014 vast binnen zes weken na 15 juli 2015 of, indien een gemeente haar verantwoording over de uitvoering van de wet in 2014 op de wijze als bedoeld in artikel 17a van de Financiële verhoudingswet niet uiterlijk 15 juli 2015 bij Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties heeft ingediend, binnen zes weken na indiening van de verantwoordingsinformatie.     
-6.  Het percentage, bedoeld in artikel 10a, eerste lid, onderdeel c, van het Besluit Participatiewet, bedraagt 4,2% voor het kalenderjaar 2011 en 0% voor de kalenderjaren 2012 en 2013.  
+De minister stelt, van een toegewezen verzoek tot een meerjarige aanvullende uitkering, de hoogte van het uitkeringsdeel dat betrekking heeft op 2014 vast binnen zes weken na 15 juli 2015 of, indien een gemeente haar verantwoording over de uitvoering van de wet in 2014 op de wijze als bedoeld in artikel 17a van de Financiële verhoudingswet niet uiterlijk 15 juli 2015 bij de Minister van Binnenlandse Zaken en Koninkrijksrelaties heeft ingediend, binnen zes weken na indiening van de verantwoordingsinformatie. 
 
 ### Artikel  15aa  
 

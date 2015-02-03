@@ -33,7 +33,51 @@ In deze regeling wordt verstaan onder:
 
 ####Dieren die gehouden mogen worden
 
-gereserveerd    
+### Artikel  2.1  
+
+####Positieflijst (huisdierenlijst)
+
+Als diersoorten en diercategorieën als bedoeld in artikel 2.2, eerste lid, van de wet worden aangewezen de diersoorten en diercategorieën, genoemd in bijlage 1. 
+
+### Artikel  2.2  
+
+####Wijziging positieflijst
+
+1.  Na de inwerkingtreding van artikel 2.1 is op de voorbereiding van de aanwijzing van diersoorten of diercategorieën op grond van artikel 2.2, eerste lid, van de wet, en op de voorbereiding van de intrekking van een aanwijzing, afdeling 3.4 van de Algemene wet bestuursrecht van toepassing.   
+2.  Een aanvraag om een diersoort of diercategorie aan te wijzen of daarvan de aanwijzing in te trekken wordt ingediend bij de minister, en bevat, zo mogelijk onderbouwd door verwijzing naar wetenschappelijke bronnen, en met inachtneming van de criteria, genoemd in artikel 1.4 van het besluit, de motivering waaruit blijkt dat de diersoort wel, respectievelijk niet is te houden.   
+3.  De aanvraag, bedoeld in het tweede lid, bevat voorts in elk geval: 
+
+a. naam, adres, woonplaats, burgerservicenummer van de aanvrager, dan wel het inschrijvingsnummer van het handelsregister als de aanvrager een onderneming is, en het adres van de plaats waar de dieren gehouden worden als dat niet het woonadres van de aanvrager is;  
+
+b. de Nederlandse en de wetenschappelijke naam van de diersoort waarover een besluit wordt gevraagd;  
+
+c. de omschrijving van het belang dat de aanvrager heeft bij de aanwijzing van een diersoort of bij de intrekking van de aanwijzing.     
+4.  Indien een aanvraag wordt ingediend voor de aanwijzing van een diersoort waarover reeds een besluit is genomen de soort niet aan te wijzen, wordt bij de aanvraag gemotiveerd en expliciet ingegaan op de gronden die hebben geleid tot het besluit om de soort niet aan te wijzen.  
+
+### Artikel  2.3  
+
+####Vrijstelling
+
+Van het verbod van artikel 2.2, eerste lid, van de wet zijn vrijgesteld de categorieën houders van dieren genoemd in bijlage 2, voor de daarbij genoemde diersoorten en met inachtneming van de daarbij genoemde voorschriften. 
+
+### Artikel  2.4  
+
+####Ontheffing
+
+De aanvraag van een ontheffing van het verbod van artikel 2.2, eerste lid, van de wet wordt met gebruikmaking van het daarvoor bestemde aanvraagformulier ingediend en bevat ten minste het volgende: 
+
+a. naam, adres, woonplaats, burgerservicenummer van de aanvrager dan wel het inschrijvingsnummer in het handelsregister als de aanvrager een onderneming is, en het adres van de plaats waar de dieren gehouden worden als dat niet het woonadres van de aanvrager is;  
+
+b. de soort en het aantal dieren waarvoor ontheffing wordt gevraagd;  
+
+c. een omschrijving van de beschikbare huisvesting en houderijomstandigheden, waarbij wordt aangeduid op welke wijze, gelet op de bekende eigenschappen van de soort, schade aan gezondheid en welzijn van het dier wordt voorkomen;  
+
+d. de voorgenomen wijze van verzorging;  
+
+e. de redenen waarom de ontheffing wordt gevraagd;  
+
+f. de omschrijving van het belang dat de aanvrager heeft bij de ontheffing.   
+
 ### Hoofdstuk  3  
 
 ####Administratie van diergeneesmiddelen door de houder van dieren
@@ -713,11 +757,162 @@ S.A.M. Dijksma
 
 ### Bijlage  1  
 
-(gereserveerd) 
+####Aangewezen diersoorten en diercategorieën als bedoeld in artikel 2.1  van de Regeling houders van dieren
+
+####Tabel 1
+
+####Positieflijst huisdierenlijst
+
+Diersoorten die zijn aangewezen als bedoeld in artikel 2.2, eerste lid, van de Wet dieren die gehouden kunnen worden zonder toepassing van soortspecifieke houderijvoorschriften.
+
+| Wetenschappelijke naam  (Wilson & Reeder, 2005)  | Nederlandse naam  |
+|:---|:---|
+| Canis lupus familiaris  | Huishond  |
+| Felis catus  | Huiskat  |
+| Atelerix albiventris  | Witbuikegel  |
+| Capra aegragus  | Bezoargeit  |
+| Capra caucasica  | Kaukasische toer  |
+| Capra cylindricornis  | Dagestaanse toer  |
+| Capra falconeri  | Schroefhoorngeit  |
+| Capra ibex  | Steenbok  |
+| Capra nubiana  | Nubische steenbok  |
+| Capra pyrenaica  | Spaanse steenbok  |
+| Capra sibirica  | Siberische steenbok  |
+| Capra walie  | Waliasteenbok  |
+| Gerbillus amoenus  | Dwergrenmuis  |
+| Gerbillus aquilus  | Swarthy gerbil  |
+| Gerbillus cheesmani  | Cheesman's gerbil  |
+| Gerbillus garamantis  | Noordafrikaanse renmuis  |
+| Gerbillus gerbillus  | Kleine Egyptische renmuis  |
+| Gerbillus nanus  | Algerijnse gerbil  |
+| Gerbillus perpallidus  | Pallid gerbil  |
+| Gerbillus pyramidum  | Grote Egyptische renmuis  |
+| Lemniscomys barbarus  | Zebragrasmuis  |
+| Lemniscomys bellieri  | Bellier’s grasmuis  |
+| Lemniscomys griselda  | Aalstreepgrasmuis  |
+| Lemniscomys hoogstraali  | Hoogstraal’s grasmuis  |
+| Lemniscomys linulus  | Senegal grasmuis  |
+| Lemniscomys macculus  | Buffoon grasmuis  |
+| Lemniscomys mittendorfi  | Mittendorf’s grasmuis  |
+| Lemniscomys rosalia  | Enkelstreepgrasmuis  |
+| Lemniscomys roseveari  | Rosevear’s grasmuis  |
+| Lemniscomys striatus  | Gestreepte grasmuis  |
+| Lemniscomys zebra  | Heuglin’s grasmuis  |
+| Macropus (Macropus) giganteus  | Oostelijke grijze reuzenkangoeroe  |
+| Macropus (Notamacropus) parma  | Parmawallabie  |
+| Macropus (Osphranter) robustus  | Bergkangoeroe  |
+| Macropus (Notamacropus) rufogriseus  | Bennettwallabie  |
+| Oryctolagus cuniculus (domestic form)  | Konijn  |
+| Rattus norvegicus  | Bruine rat  |
+| Mus Musculus domesticus  | Tamme muis  |
+| Cavia porcellus  | Cavia  |
+| Mesocricetus auratus  | Goudhamster  |
+| Meriones (Pallasiomys) unguiculatus  | Gerbil  |
+| Neovision vision  | Nerts  |
+| Equus caballus (excluding Przewalskii)  | Paard  |
+| Equus asinus asinus  | Ezel  |
+| Sus scrofa (domestic form)  | Varken  |
+| Capra hircus (domestic form)  | Geit  |
+| Bos taurus (domestic form)  | Rund  |
+| Bubalus bubalis (domestic form)  | waterbuffel  |
+| Dama dama  | Damhert  |
+| Cervus elaphus  | Middeneuropees edelhert  |
+| Ovis aries  | Schaap  |
+
+####Tabel 2
+
+Diersoorten die zijn aangewezen als bedoeld in artikel 2.2, eerste lid, van de Wet dieren, die gehouden kunnen worden met toepassing van soortspecifieke houderijvoorschriften.
+
+| Wetenschappelijke naam  (Wilson & Reeder, 2005)  | Nederlandse naam  |
+|:---|:---|
+| Callosciurus adamsi  | Ear-spot eekhoorn  |
+| Callosciurus albescens  | Kloss eekhoorn  |
+| Callosciurus baluensis  | Kinabalu eekhoorn  |
+| Callosciurus caniceps  | Grijsbuikeekhoorn  |
+| Callosciurus finlaysonii  | Finlaysonklappereekhoorn  |
+| Callosciurus inornatus  | Inornate eekhoorn  |
+| Callosciurus melanogaster  | Mentawai eekhoorn  |
+| Callosciurus nigrovittatus  | Zwartgestreepte eekhoorn  |
+| Callosciurus notatus  | Zwartneusklappereekhoorn  |
+| Callosciurus orestes  | Borneo zwartgestreepte eekhoorn  |
+| Callosciurus phayrei  | Phayre's eekhoorn  |
+| Callosciurus prevostii  | Prevosts klapperrat  |
+| Callosciurus pygerythrus  | Irrawaddy eekhoorn  |
+| Callosciurus quinquestriatus  | Anderson's eekhoorn  |
+| Equus burchelli  | Steppezebra  |
+| Equus ferus przewalskii  | Przewalskipaard  |
+| Equus grevyi  | Grévyzebra  |
+| Equus hemionus  | Onager  |
+| Equus hemionus khur  | Indische wilde ezel  |
+| Equus kiang  | Kiang  |
+| Equus zebra  | Bergzebra  |
+| Hystrix (Acanthion) brachyura  | Maleis stekelvarken  |
+| Hystrix (Hystrix) africaeaustralis  | Zuid-Afrikaans stekelvarken  |
+| Hystrix (Hystrix) cristata  | Gewoon stekelvarken  |
+| Hystrix (Thecurus) crassispinis  | Borneostekelvarken  |
+| Hystrix (Hystrix) indica  | Witstaartstekelvarken  |
+| Hystrix (Acanthion) javanica  | Sunda stekelvarken  |
+| Hystrix (Thecurus) pumila  | Filipijns stekelvarken  |
+| Hystrix (Thecurus) sumatrae  | Sumatraans stekelvarken  |
+| Macropus (Notamacropus) agilis  | Zandwallabie  |
+| Macropus (Osphranter) rufus  | Rode reuzenkangoeroe  |
+| Sciurus (Otosciurus) aberti  | Witstaarteekhoorn  |
+| Sciurus (Tenes) anomalus  | Kaukasuseekhoorn  |
+| Sciurus (Guerlinguetus) granatensis  | Roodstaarteekhoorn  |
+| Sciurus (Urosciurus) igniventris  | Peruaanse witnekeekhoorn  |
+| Sciurus (Sciurus) lis  | Japanse eekhoorn  |
+| Sciurus (Sciurus) variegatoides  | Grote gevlekte boomeekhoorn  |
+| Sciurus (Sciurus) vulgaris  | Europese rode eekhoorn  |
+| Sus ahoenobarbus  | Palawan zwijn  |
+| Sus barbatus  | Baardzwijn  |
+| Sus bucculentus  | Vietnamees wrattenzwijn  |
+| Sus cebifrons  | Visayawrattenzwijn  |
+| Sus celebensis  | Celebeswrattenzwijn  |
+| Sus oliveri  | Oliver's wrattenzwijn  |
+| Sus philippensis  | Filipijns wrattenzwijn  |
+| Sus salvanius  | Dwergzwijn  |
+| Sus scrofa  | Wild zwijn  |
+| Sus verrucosus  | Javaans wrattenzwijn  |
 
 ### Bijlage  2  
 
-(gereserveerd) 
+| Categorie vrijgestelde houder  | Soorten waarvoor vrijstelling geldt  |
+|:---|:---|
+| a. houders van zoogdieren  | a. de zoogdieren die behoren tot de zoogdiersoorten of zoogdiercategorieën, die zijn opgenomen in bijlage 2 (tabel 3),  voor zover die dieren aantoonbaar in Nederland werden gehouden op het tijdstip waarop het besluit dat de soort of categorie niet wordt aangewezen in werking getreden is, tot aan het overlijden van de dieren;  b. de nakomelingen van de dieren bedoeld onder a, indien aannemelijk is dat die dieren van de nakomelingen drachtig waren op het onder a bedoelde tijdstip.  Aan de vrijstelling is het voorschrift verbonden dat de houder zich registreert bij RVO.nl  |
+| b. houders van zoogdieren  | andere zoogdiersoorten of zoogdier-categorieën dan de soorten die zijn opgenomen in bijlage 1, 2 of 3  |
+| c. exploitanten van dierentuinen  | alle zoogdiersoorten  |
+| d. opvangcentra, die voldoen aan het Protocol opvang verboden diersoorten  | zoogdiersoorten ten aanzien waarvan een besluit is genomen dat zij niet worden aangewezen of waarvan de aanwijzing is ingetrokken  |
+| e. opvangcentra die voldoen aan het Protocol opvang bedreigde inheemse diersoorten  | bedreigde inheemse zoogdiersoorten als bedoeld in artikel 4 van de Flora- en faunawet  |
+| f. opvangcentra die voldoen aan het Protocol opvang bedreigde uitheemse diersoorten  | bedreigde uitheemse zoogdiersoorten als bedoeld in artikel 5 van de Flora- en faunawet  |
+| g. houders van een instellings-vergunning als bedoeld in de artikelen 2 en 11a van de Wet op de dierproeven  | proefdieren  |
+| h. degene die een of meer exemplaren zoogdiersoorten vervoert van of naar een Nederlandse zee- of luchthaven, met inbegrip van een daarmee verband houdend verblijf in Nederland van ten hoogste 4 werkdagen  | alle zoogdiersoorten  |
+| i. dierenartsen in de uitoefening van hun praktijk, ten behoeve van diergeneeskundige behandeling  | alle zoogdiersoorten  |
+
+###Tabel 3
+
+Diersoorten die niet worden aangewezen als bedoeld in artikel 2.2, eerste lid, van de Wet dieren 
+
+| Wetenschappelijke naam  (Wilson & Reeder, 2005)  | Nederlandse naam  | Datum waarop het verbod in werking treedt  |
+|:---|:---|:---|
+| Mazama americana  | Rood spieshert  | 1 april 2015  |
+| Mazama bororo  | Klein rood spieshert  | 1 april 2015  |
+| Mazama bricenii  | Merioa spieshert  | 1 april 2015  |
+| Mazama chunyi  | Dwergspieshert  | 1 april 2015  |
+| Mazama gouazoubira  | Grijs spieshert  | 1 april 2015  |
+| Mazama nana  | Pygmeespieshert  | 1 april 2015  |
+| Mazama pandora  | Yucatan bruin spieshert  | 1 april 2015  |
+| Mazama rufina  | Bruin spieshert  | 1 april 2015  |
+| Mazama temama  | Centraal Amerikaans rood spieshert  | 1 april 2015  |
+| Muntiacus atherodes  | Gele borneomuntjak  | 1 april 2015  |
+| Muntiacus crinifrons  | Zwarte muntjak  | 1 april 2015  |
+| Muntiacus feae  | Tibetaanse muntjak  | 1 april 2015  |
+| Muntiacus gongshanensis  | Gongshanmuntjak  | 1 april 2015  |
+| Muntiacus muntjak  | Indische muntjak  | 1 april 2015  |
+| Muntiacus puhoatensis  | Pu Hoat muntjak  | 1 april 2015  |
+| Muntiacus putaoensis  | Bladmuntjak  | 1 april 2015  |
+| Muntiacus rooseveltorum  | Yunnanmuntjak  | 1 april 2015  |
+| Muntiacus truongsonensis  | Truongsonmuntjak  | 1 april 2015  |
+| Muntiacus vuquangensis  | Reuzemuntjak  | 1 april 2015  |
 
 ### Bijlage  3  
 
