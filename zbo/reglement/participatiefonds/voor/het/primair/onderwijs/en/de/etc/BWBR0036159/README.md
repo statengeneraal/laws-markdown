@@ -4269,7 +4269,7 @@ b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktb
 c. de bedragen die gemoeid gaan met de Regeling prestatiebox primair onderwijs worden voor 65% in de vergelijking van schooljaar 2013–2014 en schooljaar 2014–2015 opgenomen.  
 
 d. Het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan de datum waarop het dienstverband met wederzijds goedvinden is beëindigd, wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.     
-3.  Tevens overlegt de werkgever een afschrift van de passage van het zorgplan 2013–2014 als bedoeld in artikel 19, tweede lid, onder b van de WPO *en een afschrift van de passage van het ondersteuningsplan 2014–2015 als bedoeld in artikel 18a, achtste lid, onder b van de WPO*, over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.   
+3.  Tevens overlegt de werkgever een afschrift van de passage van het zorgplan 2013–2014 als bedoeld in artikel 19, tweede lid, onder b van de WPO *en een afschrift van de passage van het ondersteuningsplan 2014–2015 als bedoeld in* artikel 18a, achtste lid, onder b van de WPO, over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.   
 4.  Als de werkgever is aangesloten bij een samenwerkingsverband waarvan de aangesloten werkgevers hebben besloten dat zij zich gedragen als ware het samenwerkingsverband één werkgever voor wat betreft de rijksbekostiging van personeel en financiële bijdragen van derden, dan neemt de werkgever de bedragen rijksbekostiging van personeel en financiële bijdragen van derden op het niveau van het samenwerkingsverband in de vergelijking op.   
 5.  Indien er sprake is van een fusie en/of overdacht van instellingen dan wel besturen, houdt de werkgever hier rekening mee, zodat de verschillende jaren vergelijkbaar blijven. Dit betekent dat als in het schooljaar 2014–2015 een extra instelling onder het bevoegd gezag ressorteert, deze instelling in het schooljaar 2013–2014 (herkenbaar) bij de vergelijking betrokken wordt.  
 
@@ -5771,7 +5771,7 @@ c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers 
 
 ### Artikel  5:44:4  
 
-####Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend.
+####Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend
 
 Materieel uitgewerkt per 14-01-2015 
 
@@ -5977,7 +5977,7 @@ c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers 
 
 ### Artikel  5:47:4  
 
-####Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend.
+####Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend
 
 Materieel uitgewerkt per 14-01-2015 
 
@@ -6303,7 +6303,7 @@ c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers 
 
 ### Artikel  5:51:4  
 
-####Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend.
+####Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend
 
 Materieel uitgewerkt per 14-01-2015 
 
@@ -6581,7 +6581,7 @@ b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktb
 c. de bedragen die gemoeid gaan met de Regeling prestatiebox primair onderwijs worden voor 65% in de vergelijking van schooljaar 2013–2014 en schooljaar 2014–2015 opgenomen;  
 
 d. het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan het ontslag wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.     
-3.  Tevens overlegt de werkgever een afschrift van de passage van het zorgplan 2013–2014 als bedoeld in artikel 19, tweede lid, onder b van de WPO *en een afschrift van de passage van het ondersteuningsplan 2014–2015 als bedoeld in artikel 18a, achtste lid, onder b van de WPO*, over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.   
+3.  Tevens overlegt de werkgever een afschrift van de passage van het zorgplan 2013–2014 als bedoeld in artikel 19, tweede lid, onder b van de WPO *en een afschrift van de passage van het ondersteuningsplan 2014–2015 als bedoeld in* artikel 18a, achtste lid, onder b van de WPO, over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.   
 4.  Als de werkgever is aangesloten bij een samenwerkingsverband waarvan de aangesloten werkgevers hebben besloten dat zij zich gedragen als ware het samenwerkingsverband één werkgever voor wat betreft de rijksbekostiging van personeel en financiële bijdragen van derden, dan neemt de werkgever de bedragen rijksbekostiging van personeel en financiële bijdragen van derden op het niveau van het samenwerkingsverband in de vergelijking op.   
 5.  Indien er sprake is van een fusie en/of overdacht van instellingen dan wel besturen, houdt de werkgever hier rekening mee, zodat de verschillende jaren vergelijkbaar blijven. Dit betekent dat als in het schooljaar 2014–2015 een extra instelling onder het bevoegd gezag ressorteert, deze instelling in het schooljaar 2013–2014 (herkenbaar) bij de vergelijking betrokken wordt.  
 
@@ -6924,8 +6924,8 @@ d. het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de ande
 
 Materieel uitgewerkt per 14-01-2015 
 
-1.  De werkgever toont aan dat het totale bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel *5:60:*1 op jaarbasis, gelijk of lager is dan het bedrag dat gemoeid is met de daling genoemd in artikel *5:60:*2.   
-2.  De werkgever berekent daartoe het bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel *5:60:*2 aan de hand van de loonkostentool van het Participatiefonds.   
+1.  De werkgever toont aan dat het totale bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 5:60:1 op jaarbasis, gelijk of lager is dan het bedrag dat gemoeid is met de daling genoemd in artikel 5:60:2.   
+2.  De werkgever berekent daartoe het bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 5:60:2 aan de hand van de loonkostentool van het Participatiefonds.   
 3.  Bij de berekening van de totale loonkosten van meerdere werknemers brengt de werkgever de volgende rangorde aan: 
 
 a. De werkgever neemt eerst de loonkosten van de werknemer of de werknemers van wie het tijdelijk dienstverband niet is voortgezet, bij de berekening in aanmerking. De werkgever mag de volgorde van melden zelf bepalen.  
@@ -6936,7 +6936,7 @@ c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers 
 
 ### Artikel  5:60:5  
 
-####Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend.
+####Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend
 
 Materieel uitgewerkt per 14-01-2015 
 
@@ -6950,7 +6950,7 @@ iii. personeel in vaste of tijdelijke dienst dat, in de periode tussen ontslagaa
 
 iv. personeel dat, in de periode tussen de datum van het sluiten van de ontslagaanzegging en de ontslagdatum in vaste dienst is getreden;  
 
-v. een vacature op de datum van ontslag.   Als van het gestelde onder i., ii., iii., iv. of v. sprake is, in die zin dat het personeel betreft dat werkzaam is in dezelfde functie als die van de ontslagen werknemer/werknemers, dan wordt het bedrag dat gemoeid is met de daling, genoemd in artikel *5:60*:2 verminderd met het bedrag dat gemoeid is met het in dienst houden of nemen van personeel genoemd in i. tot en met respectievelijk met het bedrag dat gemoeid is met de loonkosten van de ontslagen werknemer die niet in de vacature, genoemd onder v., is benoemd.  
+v. een vacature op de datum van ontslag.   Als van het gestelde onder i., ii., iii., iv. of v. sprake is, in die zin dat het personeel betreft dat werkzaam is in dezelfde functie als die van de ontslagen werknemer/werknemers, dan wordt het bedrag dat gemoeid is met de daling, genoemd in artikel 5:60:2 verminderd met het bedrag dat gemoeid is met het in dienst houden of nemen van personeel genoemd in i. tot en met respectievelijk met het bedrag dat gemoeid is met de loonkosten van de ontslagen werknemer die niet in de vacature, genoemd onder v., is benoemd.  
 
 ### Artikel  5:60:6  
 
@@ -6966,7 +6966,7 @@ Een vergoedingsverzoek wordt afgewezen als het een werknemer betreft die in een 
 
 Materieel uitgewerkt per 14-01-2015 
 
-Een werkgever die zowel werkgever is in de zin van de WPO als van de WEC en die wordt geconfronteerd met een daling van de rijksbekostiging maakt de vergelijking, zoals genoemd in artikel *5:60*:3 voor de onderwijssoort waar de daling zich heeft voorgedaan. Is er een daling bij beide schoolsoorten dan maakt de werkgever per schoolsoort een vergelijking. 
+Een werkgever die zowel werkgever is in de zin van de WPO als van de WEC en die wordt geconfronteerd met een daling van de rijksbekostiging maakt de vergelijking, zoals genoemd in artikel 5:60:3 voor de onderwijssoort waar de daling zich heeft voorgedaan. Is er een daling bij beide schoolsoorten dan maakt de werkgever per schoolsoort een vergelijking. 
 
 ### Artikel  5:60:8  
 
@@ -7112,8 +7112,8 @@ d. het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de ande
 
 Materieel uitgewerkt per 14-01-2015 
 
-1.  De werkgever toont aan dat het totale bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel *5:62*:1 op jaarbasis, gelijk of lager is dan het bedrag dat gemoeid is met de daling genoemd in artikel *5:62*:2.   
-2.  De werkgever berekent daartoe het bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel *5:62*:2 aan de hand van de loonkostentool van het Participatiefonds.   
+1.  De werkgever toont aan dat het totale bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 5:62:1 op jaarbasis, gelijk of lager is dan het bedrag dat gemoeid is met de daling genoemd in artikel 5:62:2.   
+2.  De werkgever berekent daartoe het bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 5:62:2 aan de hand van de loonkostentool van het Participatiefonds.   
 3.  Bij de berekening van de totale loonkosten van meerdere werknemers brengt de werkgever de volgende rangorde aan: 
 
 a. De werkgever neemt eerst de loonkosten van de werknemer of de werknemers van wie het tijdelijk dienstverband niet is voortgezet, bij de berekening in aanmerking. De werkgever mag de volgorde van melden zelf bepalen.  
@@ -7124,7 +7124,7 @@ c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers 
 
 ### Artikel  5:62:5  
 
-####Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend.
+####Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend
 
 Materieel uitgewerkt per 14-01-2015 
 
@@ -7138,7 +7138,7 @@ iii. personeel in vaste of tijdelijke dienst dat, in de periode tussen ontslagaa
 
 iv. personeel dat, in de periode tussen de datum van het sluiten van de ontslagaanzegging en de ontslagdatum in vaste dienst is getreden;  
 
-v. een vacature op de datum van ontslag.   Als van het gestelde onder i., ii., iii., iv. of v. sprake is, in die zin dat het personeel betreft dat werkzaam is in dezelfde functie als die van de ontslagen werknemer/werknemers, dan wordt het bedrag dat gemoeid is met de daling, genoemd in artikel *5:62*:2 verminderd met het bedrag dat gemoeid is met het in dienst houden of nemen van personeel genoemd in i. tot en met respectievelijk met het bedrag dat gemoeid is met de loonkosten van de ontslagen werknemer die niet in de vacature, genoemd onder v., is benoemd.  
+v. een vacature op de datum van ontslag.   Als van het gestelde onder i., ii., iii., iv. of v. sprake is, in die zin dat het personeel betreft dat werkzaam is in dezelfde functie als die van de ontslagen werknemer/werknemers, dan wordt het bedrag dat gemoeid is met de daling, genoemd in artikel 5:62:2 verminderd met het bedrag dat gemoeid is met het in dienst houden of nemen van personeel genoemd in i. tot en met respectievelijk met het bedrag dat gemoeid is met de loonkosten van de ontslagen werknemer die niet in de vacature, genoemd onder v., is benoemd.  
 
 ### Artikel  5:62:6  
 
@@ -7404,7 +7404,7 @@ c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers 
 
 ### Artikel  5:65:5  
 
-####Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend.
+####Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend
 
 Materieel uitgewerkt per 14-01-2015 
 
@@ -7527,7 +7527,7 @@ Materieel uitgewerkt per 14-01-2015
 
 Materieel uitgewerkt per 14-01-2015 
 
-Artikel 6:2 van het ‘Reglement Participatiefonds voor het Primair Onderwijs en de Expertisecentra voor het schooljaar 2014–2015’ wordt gewijzigd en komt als volgt te luiden: ‘Dit reglement treedt in werking met ingang van de dag volgend op die, waarop het in de Staatscourant is gepubliceerd en heeft betrekking op alle dienstverbanden die zijn of worden beëindigd dan wel niet worden voortgezet in de periode van 1 augustus 2014 tot en met 31 januari 2015, evenals op alle dienstverbanden die niet worden voortgezet omdat functie van de werknemer per 1 augustus 2014 wordt opgeheven’. 
+Wijzigt het Reglement Participatiefonds voor het Primair Onderwijs en de Expertisecentra voor het schooljaar 2014–2015. 
 
 ### Bijlage  1  
 

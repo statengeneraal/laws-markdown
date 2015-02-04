@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Buitenlandse Zaken van 17 januari 2007, nr. HDPO/RR/AR-29/07, houdende regels met betrekking tot het toekennen van vergoedingen voor en tegemoetkomingen in de noodzakelijk te maken extra kosten die verband houden met de plaatsing van de ambtenaar bij een post in het buitenland (Dienst Buitenlandse Zaken Voorzieningenstelsel 2007)
 
 De Minister van Buitenlandse Zaken,  
-Gelet op de [artikelen 13](../../../../../../../AMvB/reglement/dienst/buitenlandse/zaken/BWBR0004052/README.md), [36](../../../../../../../AMvB/reglement/dienst/buitenlandse/zaken/BWBR0004052/README.md), [41d](../../../../../../../AMvB/reglement/dienst/buitenlandse/zaken/BWBR0004052/README.md), [53](../../../../../../../AMvB/reglement/dienst/buitenlandse/zaken/BWBR0004052/README.md), [63](../../../../../../../AMvB/reglement/dienst/buitenlandse/zaken/BWBR0004052/README.md) en [76 van het Reglement Dienst Buitenlandse Zaken](../../../../../../../AMvB/reglement/dienst/buitenlandse/zaken/BWBR0004052/README.md);
+Gelet op de artikelen 13, 36, 41d, 53, 63 en 76 van het Reglement Dienst Buitenlandse Zaken;
 
 In overeenstemming met de centrales van verenigingen van ambtenaren bij het Ministerie van Buitenlandse Zaken;
 Besluit:     
@@ -21,15 +21,15 @@ a.  *RDBZ:* het Reglement Dienst Buitenlandse Zaken;
 
 b.  *HDPO:* de Hoofddirecteur Personeel en Organisatie van het Ministerie van Buitenlandse Zaken;  
 
-c.  *post:* een vertegenwoordiging van het Koninkrijk in het buitenland als bedoeld in [artikel 7, tweede lid, van het RDBZ](../../../../../../../AMvB/reglement/dienst/buitenlandse/zaken/BWBR0004052/README.md);  
+c.  *post:* een vertegenwoordiging van het Koninkrijk in het buitenland als bedoeld in artikel 7, tweede lid, van het RDBZ;  
 
-d.  *ambtenaar:* een ambtenaar als bedoeld in [artikel 5, tweede lid, onderdeel a, van het RDBZ](../../../../../../../AMvB/reglement/dienst/buitenlandse/zaken/BWBR0004052/README.md);  
+d.  *ambtenaar:* een ambtenaar als bedoeld in artikel 5, tweede lid, onderdeel a, van het RDBZ;  
 
-e.  *functieniveau:* het overeenkomstig het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) vastgestelde niveau van de functie;  
+e.  *functieniveau:* het overeenkomstig het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984 vastgestelde niveau van de functie;  
 
-f.  *bruto salaris:* het salaris bij een volledige arbeidsduur, vastgesteld overeenkomstig het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md);  
+f.  *bruto salaris:* het salaris bij een volledige arbeidsduur, vastgesteld overeenkomstig het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984;  
 
-g.  *netto salaris:* het bruto salaris vermeerderd met de premie voor de [Zorgverzekeringswet](../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) en verminderd met de wettelijk verplichte inhoudingen waarbij geen rekening is gehouden met persoonlijke omstandigheden van de ambtenaar;  
+g.  *netto salaris:* het bruto salaris vermeerderd met de premie voor de Zorgverzekeringswet en verminderd met de wettelijk verplichte inhoudingen waarbij geen rekening is gehouden met persoonlijke omstandigheden van de ambtenaar;  
 
 h.  *partner:* de huwelijkspartner, de geregistreerde partner dan wel de levenspartner met wie de ambtenaar zonder huwelijkspartner samenwoont en – met het oogmerk duurzaam samen te leven – een gemeenschappelijke huishouding voert op basis van een notarieel verleden samenlevingscontract bevattende de wederzijdse rechten en verplichtingen betreffende die samenwoning en gemeenschappelijke huishouding. Tegelijkertijd kan slechts één persoon als partner worden aangemerkt. HDPO kan verlangen dat een schriftelijke verklaring van een notaris wordt overgelegd waaruit blijkt dat een samenlevingscontract als hiervoor bedoeld is gesloten;  
 
@@ -53,13 +53,13 @@ j.  *eerste tandempartner:* de tandempartner die:
 
 k.  *tweede tandempartner:* de tandempartner die niet als eerste tandempartner wordt aangemerkt;  
 
-l.  *afhankelijk kind:* een in [artikel 2, eerste lid, onder b tot en met d, van het RDBZ](../../../../../../../AMvB/reglement/dienst/buitenlandse/zaken/BWBR0004052/README.md) bedoeld kind van de ambtenaar dat primair, secundair of tertiair onderwijs volgt dan wel nog te jong is om primair onderwijs te volgen, dan wel jonggehandicapt is als bedoeld in de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten mits: 
+l.  *afhankelijk kind:* een in artikel 2, eerste lid, onder b tot en met d, van het RDBZ bedoeld kind van de ambtenaar dat primair, secundair of tertiair onderwijs volgt dan wel nog te jong is om primair onderwijs te volgen, dan wel jonggehandicapt is als bedoeld in de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten mits: 
 
-1°. ten behoeve van dat kind aanspraak bestaat op kinderbijslag op grond van de [Algemene Kinderbijslagwet](../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md), dan wel aanspraak daarop zou bestaan indien het kind in Nederland zou wonen;  
+1°. ten behoeve van dat kind aanspraak bestaat op kinderbijslag op grond van de Algemene Kinderbijslagwet, dan wel aanspraak daarop zou bestaan indien het kind in Nederland zou wonen;  
 
-2°. dat kind de leeftijd van 25 jaar nog niet heeft bereikt en aanspraak heeft op studiefinanciering op grond van de [Wet studiefinanciering 2000](../../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), dan wel daarop aanspraak zou hebben indien het zijn studie in Nederland zou volgen;  
+2°. dat kind de leeftijd van 25 jaar nog niet heeft bereikt en aanspraak heeft op studiefinanciering op grond van de Wet studiefinanciering 2000, dan wel daarop aanspraak zou hebben indien het zijn studie in Nederland zou volgen;  
 
-3°. dat kind de leeftijd van 25 jaar nog niet heeft bereikt en aanspraak heeft op een uitkering op grond van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, dan wel daarop aanspraak zou hebben indien het kind in Nederland zou verblijven.   Met een afhankelijk kind wordt gelijkgesteld een in [artikel 2, eerste lid, onder c en d, van het RDBZ](../../../../../../../AMvB/reglement/dienst/buitenlandse/zaken/BWBR0004052/README.md) bedoeld kind van de partner dat deel uitmaakt van de huishouding van de ambtenaar dan wel in het verleden ten minste twee jaar deel heeft uitgemaakt van die huishouding en dat kind overigens voldoet aan de in de aanhef van dit onderdeel gestelde voorwaarden;  
+3°. dat kind de leeftijd van 25 jaar nog niet heeft bereikt en aanspraak heeft op een uitkering op grond van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, dan wel daarop aanspraak zou hebben indien het kind in Nederland zou verblijven.   Met een afhankelijk kind wordt gelijkgesteld een in artikel 2, eerste lid, onder c en d, van het RDBZ bedoeld kind van de partner dat deel uitmaakt van de huishouding van de ambtenaar dan wel in het verleden ten minste twee jaar deel heeft uitgemaakt van die huishouding en dat kind overigens voldoet aan de in de aanhef van dit onderdeel gestelde voorwaarden;  
 
 m.  *gezinsleden:* de partner en de afhankelijke kinderen van de ambtenaar;  
 
@@ -71,9 +71,9 @@ p.  *onafhankelijk instituut:* de door HDPO aangewezen onafhankelijke deskundige
 
 q.  *primair onderwijs:* basisonderwijs in Nederland, dan wel daarmee vergelijkbaar onderwijs in het buitenland;  
 
-r.  *secundair onderwijs:* voltijd voortgezet onderwijs in Nederland op grond waarvan aanspraak bestaat op kinderbijslag op grond van de [Algemene Kinderbijslagwet](../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) of studiefinanciering op grond van de [Wet studiefinanciering 2000](../../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), dan wel daarmee vergelijkbaar onderwijs in het buitenland;  
+r.  *secundair onderwijs:* voltijd voortgezet onderwijs in Nederland op grond waarvan aanspraak bestaat op kinderbijslag op grond van de Algemene Kinderbijslagwet of studiefinanciering op grond van de Wet studiefinanciering 2000, dan wel daarmee vergelijkbaar onderwijs in het buitenland;  
 
-s.  *tertiair onderwijs:* een voltijd bacheloropleiding of masteropleiding als bedoeld in [artikel 7.3a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) in Nederland, dan wel daarmee vergelijkbaar onderwijs in het buitenland;  
+s.  *tertiair onderwijs:* een voltijd bacheloropleiding of masteropleiding als bedoeld in artikel 7.3a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek in Nederland, dan wel daarmee vergelijkbaar onderwijs in het buitenland;  
 
 t.  *een erkende instelling voor primair of secundair onderwijs:* een in Nederland door de Minister van Onderwijs, Cultuur en Wetenschap geheel of gedeeltelijk bekostigde instelling of daarmee gelijk te stellen instelling in of buiten Nederland voor primair of secundair onderwijs;  
 
@@ -95,9 +95,9 @@ w.  *boedel:* het geheel van alle roerende zaken in eigendom, in bruikleen of in
 3.  Voor de berekening van vergoedingen over een gedeelte van een maand, wordt de maand op het aantal dagen van die maand gesteld, tenzij anders is bepaald.   
 4.  Artikel 1, eerste lid, onder i, j en k, is van overeenkomstige toepassing indien de partner: 
 
-a. ambtenaar is van een ander ministerie en op grond van [8, achtste lid, van het RDBZ](../../../../../../../AMvB/reglement/dienst/buitenlandse/zaken/BWBR0004052/README.md) aanspraak maakt of kan maken op voorzieningen als bedoeld in deze regeling, of  
+a. ambtenaar is van een ander ministerie en op grond van 8, achtste lid, van het RDBZ aanspraak maakt of kan maken op voorzieningen als bedoeld in deze regeling, of  
 
-b. een persoon is als bedoeld in [artikel 8, vijfde lid, van het RDBZ](../../../../../../../AMvB/reglement/dienst/buitenlandse/zaken/BWBR0004052/README.md) die tijdelijk werkzaamheden uitoefent bij een post en aanspraak maakt of kan maken op voorzieningen als bedoeld in deze regeling.     
+b. een persoon is als bedoeld in artikel 8, vijfde lid, van het RDBZ die tijdelijk werkzaamheden uitoefent bij een post en aanspraak maakt of kan maken op voorzieningen als bedoeld in deze regeling.     
 5.  Indien een vergoeding, tegemoetkoming of inhouding in deze regeling rekenkundig is gerelateerd aan het bruto of netto salaris, is de berekeningsgrondslag het bruto of netto salaris dat op het betaalmoment van de desbetreffende maand van toepassing is. Indien dat salaris nadien met terugwerkende kracht wordt gewijzigd, wordt de hoogte van de desbetreffende vergoeding, tegemoetkoming of inhouding met inachtneming van het gewijzigde salaris opnieuw vastgesteld.   
 6.  Tenzij in deze regeling anders is vermeld, worden besluiten in het kader van deze regeling namens de Minister van Buitenlandse Zaken genomen door HDPO.  
 
@@ -190,7 +190,7 @@ a. een tegemoetkoming tijdelijke huisvesting als bedoeld in artikel 68, tenzij a
 
 b. vergoeding van de kosten van het vervoeren van bagage als bedoeld in artikel 59, met dien verstande dat het maximumgewicht voor bagage voor de ambtenaar wordt vastgesteld op 50 kilo, in welk maximum is begrepen het door de luchtvaartmaatschappij toegestane gewicht;  
 
-c. vergoeding van reiskosten overeenkomstig het [Reisbesluit buitenland](../../../../../../../AMvB/reisbesluit/buitenland/BWBR0006842/README.md) voor zover daarop elders door toepassing van deze regeling al geen aanspraak bestaat.     
+c. vergoeding van reiskosten overeenkomstig het Reisbesluit buitenland voor zover daarop elders door toepassing van deze regeling al geen aanspraak bestaat.     
 3.  Indien de gezinsleden achterblijven op de standplaats wordt in afwijking van het eerste lid, onderdeel a, de koopkrachtcorrectie op basis van het netto salaris, bedoeld in artikel 10, vastgesteld op 50%.   
 4.  Indien een op de standplaats verblijvend gezinslid waarvoor de ambtenaar direct voorafgaande aan een in artikel 5, eerste lid, bedoelde omstandigheid aanspraak heeft op een vergoeding als bedoeld in artikel 14 of 15, met hem meereist kan in aanvulling op het eerste lid worden bepaald dat: 
 
@@ -200,7 +200,7 @@ b. de onderwijskosten, bedoeld in artikel 77, worden vergoed, met dien verstande
 
 c. de kosten worden vergoed van het vervoeren van bagage als bedoeld in artikel 59, met dien verstande dat het maximale gewicht voor bagage voor de partner respectievelijk afhankelijk kind wordt vastgesteld op 50 kilo, in welk maximum is begrepen het door de luchtvaartmaatschappij toegestane gewicht;  
 
-d. de reiskosten worden vergoed overeenkomstig het [Reisbesluit buitenland](../../../../../../../AMvB/reisbesluit/buitenland/BWBR0006842/README.md) voor zover daarop elders door toepassing van deze regeling al geen aanspraak bestaat en vooraf schriftelijk toestemming is gegeven voor de te ondernemen reis.     
+d. de reiskosten worden vergoed overeenkomstig het Reisbesluit buitenland voor zover daarop elders door toepassing van deze regeling al geen aanspraak bestaat en vooraf schriftelijk toestemming is gegeven voor de te ondernemen reis.     
 5.  Ingeval van evacuatie worden aan de ambtenaar voor hem en zijn op de standplaats verblijvende gezinsleden waarvoor hij een vergoeding op grond van artikel 14 of 15 ontvangt, tickets verstrekt of een vergoeding als bedoeld in artikel 57 toegekend voor het traject van de standplaats naar Nederland, tenzij reeds op andere wijze voor rijksrekening in het vervoer wordt voorzien.  
 
 ### §  3  
@@ -360,7 +360,7 @@ c. bij categorie C: 10% van de standplaatstoelage, met dien verstande dat het de
 ####Tegemoetkoming in verband met hotelverblijf
 
 1.  Indien de ambtenaar in een geval als bedoeld in artikel 8, eerste lid, is ondergebracht in een hotel, waaronder niet begrepen een appartementenhotel, wordt hem ingaande de dag van het hotelverblijf een tegemoetkoming in de buitengewone kosten van hotelverblijf toegekend, met inachtneming van het tweede lid.   
-2.  De tegemoetkoming in de kosten van hotelverblijf bedraagt per vol etmaal een percentage van de voor de plaats van verblijf geldende verblijfkostenvergoeding als bedoeld in [artikel 10 van het Reisbesluit buitenland](../../../../../../../AMvB/reisbesluit/buitenland/BWBR0006842/README.md) juncto [artikel 3 van de Reisregeling buitenland](../../../../../../../ministeriele-regeling/reisregeling/buitenland/BWBR0006914/README.md). Dit percentage is voor: 
+2.  De tegemoetkoming in de kosten van hotelverblijf bedraagt per vol etmaal een percentage van de voor de plaats van verblijf geldende verblijfkostenvergoeding als bedoeld in artikel 10 van het Reisbesluit buitenland juncto artikel 3 van de Reisregeling buitenland. Dit percentage is voor: 
 
 a. de ambtenaar: 10%;  
 
@@ -430,7 +430,7 @@ b. indien een afhankelijk kind secundair onderwijs volgt, worden vergoed de kost
 
 ####Twaalfmaandelijkse verlofreis naar Nederland
 
-1.  Per periode van twaalf maanden, gerekend vanaf de dag van eerste aankomst van de ambtenaar op de standplaats, wordt hem een vliegticket of een treinticket verstrekt overeenkomstig [artikel 5 van de Regeling buitenlandse reizen BZ](../../../../../../../ministeriele-regeling/regeling/buitenlandse/reizen/bz/BWBR0031431/README.md) voor een reis, te ondernemen in die periode van twaalf maanden, van de standplaats naar Nederland vice versa voor hem en zijn gezinsleden waarvoor hij in die periode een verhoging van zijn standplaatstoelage ontvangt op grond van de artikelen 14 en 15.   
+1.  Per periode van twaalf maanden, gerekend vanaf de dag van eerste aankomst van de ambtenaar op de standplaats, wordt hem een vliegticket of een treinticket verstrekt overeenkomstig artikel 5 van de Regeling buitenlandse reizen BZ voor een reis, te ondernemen in die periode van twaalf maanden, van de standplaats naar Nederland vice versa voor hem en zijn gezinsleden waarvoor hij in die periode een verhoging van zijn standplaatstoelage ontvangt op grond van de artikelen 14 en 15.   
 2.  Op verzoek van de ambtenaar kan de in het eerste lid bedoelde periode door de CdP worden verlengd met een periode van ten hoogste drie maanden, mits het dienstbelang zich daartegen naar het oordeel van de CdP niet verzet. Ook ingeval van verlenging vindt vaststelling van de volgende periode(n) van twaalf maanden plaats op de in het eerste lid genoemde wijze. Indien de verzoeker de CdP zelf is, beslist diens plaatsvervanger over het ingediende verzoek.   
 3.  Indien voor de in het eerste lid bedoelde reis een vliegticket wordt verstrekt, worden tevens de eventuele kosten vergoed van het vervoeren van ruimbagage met een maximum van 30 kilo.   
 4.  Indien de ambtenaar of een gezinslid in afwijking van het eerste lid de reis geheel of gedeeltelijk met de auto maakt, wordt een vergoeding van € 0,28 per gereden kilometer toegekend voor ten hoogste de kortste route tussen de standplaats en Den Haag vice versa en de noodzakelijk gemaakte kosten voor tolwegen en veerdiensten. De in de vorige volzin bedoelde vergoeding wordt toegekend voor ten hoogste twee auto’s.   
@@ -480,7 +480,7 @@ b. naar een andere post wordt overgeplaatst, de overplaatsingsreis niet via Nede
 a. Indien in een geval als bedoeld in het eerste lid, na advies van de daartoe aangewezen arts, de toestand van de patiënt zodanig is dat overkomst van een of meer gezinsleden wenselijk is, komen ook de aan deze overkomst verbonden reiskosten tot ten hoogste de kosten van een reis naar Nederland vice versa voor rekening van het rijk, voor zover ten behoeve van deze gezinsleden op grond van deze regeling een vergoeding is toegekend.  
 
 b. Ingeval van een bevalling van de ambtenaar of zijn partner komen naast de in het eerste lid bedoelde reiskosten ook de reiskosten van de partner respectievelijk de ambtenaar en van afhankelijke kinderen jonger dan 13 jaar, tot ten hoogste de kosten van een reis naar Nederland vice versa voor rekening van het rijk, voor zover ten behoeve van deze gezinsleden op grond van artikel 14 respectievelijk artikel 15 van deze regeling een vergoeding is toegekend.     
-3.  Voor de in het eerste lid bedoelde reis wordt een ticket verstrekt overeenkomstig [artikel 5 van de Regeling buitenlandse reizen BZ](../../../../../../../ministeriele-regeling/regeling/buitenlandse/reizen/bz/BWBR0031431/README.md).   
+3.  Voor de in het eerste lid bedoelde reis wordt een ticket verstrekt overeenkomstig artikel 5 van de Regeling buitenlandse reizen BZ.   
 4.  Ingeval op de standplaats een epidemie uitbreekt komen de kosten van daarmee verband houdende immunisaties van de ambtenaar, tot zijn huishouding op de standplaats behorende gezinsleden en in zijn dienst zijnde huispersoneelsleden voor rekening van het rijk.  
 
 ### Artikel  29  
@@ -496,7 +496,7 @@ b. de kosten van:
 1°. ingeval van een begrafenis of crematie anders dan ter plaatse van het overlijden: het vervoer van het stoffelijk overschot tot ten hoogste de kosten van vervoer van de standplaats naar Den Haag, inclusief de kosten van afleggen, bekisten, bewaring en vrijgifte, alsmede de reiskosten naar deze bestemming vice versa tot ten hoogste de reiskosten naar Nederland vice versa, van gezinsleden voor wie op grond van deze regeling een vergoeding is toegekend; of  
 
 2°. ingeval van een begrafenis of crematie ter plaatse van het overlijden: de reiskosten van overkomst vice versa van gezinsleden en bloed- en aanverwanten in de eerste en tweede graad tot ten hoogste de kosten, bedoeld ten 1°.       
-2.  Ter zake van de reiskosten is het [Reisbesluit buitenland](../../../../../../../ministeriele-regeling/reisregeling/buitenland/BWBR0006914/README.md) van overeenkomstige toepassing.   
+2.  Ter zake van de reiskosten is het Reisbesluit buitenland van overeenkomstige toepassing.   
 3.  In het eerste lid, onder a en onder b, ten 1°, wordt, indien de ambtenaar ten tijde van het overlijden van dienstwege op een andere plaats dan de standplaats verblijft, voor ‘de standplaats’ telkens gelezen: de plaats van overlijden.  
 
 ### §  5  
@@ -597,14 +597,14 @@ Indien het wenselijk is dat de ambtenaar lessen volgt in een officiële taal dan
 
 ####Reis- en verblijfkosten bij dienstreizen
 
-1.  Ter zake van de vergoeding van reis- en verblijfkosten bij een dienstreis in het buitenland is het [Reisbesluit buitenland](../../../../../../../AMvB/reisbesluit/buitenland/BWBR0006842/README.md) van overeenkomstige toepassing met dien verstande dat voor een dergelijke reis een ticket wordt verstrekt overeenkomstig [artikel 5 van de Regeling buitenlandse reizen BZ](../../../../../../../ministeriele-regeling/regeling/buitenlandse/reizen/bz/BWBR0031431/README.md) en in afwijking van het Reisbesluit buitenland: 
+1.  Ter zake van de vergoeding van reis- en verblijfkosten bij een dienstreis in het buitenland is het Reisbesluit buitenland van overeenkomstige toepassing met dien verstande dat voor een dergelijke reis een ticket wordt verstrekt overeenkomstig artikel 5 van de Regeling buitenlandse reizen BZ en in afwijking van het Reisbesluit buitenland: 
 
 a. de standplaats als uitgangspunt wordt genomen;  
 
 b. indien per eigen auto wordt gereisd, een vergoeding van € 0,28 per kilometer wordt toegekend; en  
 
-c. voor de vergoeding van kosten voor verlies, diefstal of beschadiging van bagage als bedoeld in [artikel 6 van de Reisregeling buitenland](../../../../../../../ministeriele-regeling/reisregeling/buitenland/BWBR0006914/README.md), een maximum geldt van € 4.000,– waaronder begrepen een bedrag van € 500,– voor verlies of diefstal van geld of geldswaardige papieren.     
-2.  Ter zake van de vergoeding van verblijfkosten bij een dienstreis naar Nederland is het [Reisbesluit binnenland](../../../../../../../AMvB/reisbesluit/binnenland/BWBR0005889/README.md) van overeenkomstige toepassing voor de tijd doorgebracht in Nederland, met dien verstande dat indien niet een bewijsstuk kan worden overgelegd waaruit blijkt dat logieskosten zijn gemaakt in een daarvoor bestemde gelegenheid, de vergoeding voor logieskosten wordt vastgesteld op een bedrag van € 11,34 per overnachting tot een maximum van vier overnachtingen per dienstreis.  
+c. voor de vergoeding van kosten voor verlies, diefstal of beschadiging van bagage als bedoeld in artikel 6 van de Reisregeling buitenland, een maximum geldt van € 4.000,– waaronder begrepen een bedrag van € 500,– voor verlies of diefstal van geld of geldswaardige papieren.     
+2.  Ter zake van de vergoeding van verblijfkosten bij een dienstreis naar Nederland is het Reisbesluit binnenland van overeenkomstige toepassing voor de tijd doorgebracht in Nederland, met dien verstande dat indien niet een bewijsstuk kan worden overgelegd waaruit blijkt dat logieskosten zijn gemaakt in een daarvoor bestemde gelegenheid, de vergoeding voor logieskosten wordt vastgesteld op een bedrag van € 11,34 per overnachting tot een maximum van vier overnachtingen per dienstreis.  
 
 ### §  6  
 
@@ -671,7 +671,7 @@ b. zijn artikel 8, eerste lid, en artikel 18 van overeenkomstige toepassing op d
 
 ####Herenigingsreis partner
 
-1.  Aan de ambtenaar wiens partner vanwege een andere dan een erkende reden als bedoeld in artikel 42, tweede lid, niet op de standplaats verblijft, wordt per aaneengesloten periode van twaalf maanden, gerekend vanaf de dag van eerste aankomst van de ambtenaar op de standplaats, de mogelijkheid tot gezinshereniging geboden door middel van het verstrekken van een ticket overeenkomstig [artikel 5 van de Regeling buitenlandse reizen BZ](../../../../../../../ministeriele-regeling/regeling/buitenlandse/reizen/bz/BWBR0031431/README.md) voor een reis in voornoemde periode, met inachtneming van het tweede tot en met het zesde lid.   
+1.  Aan de ambtenaar wiens partner vanwege een andere dan een erkende reden als bedoeld in artikel 42, tweede lid, niet op de standplaats verblijft, wordt per aaneengesloten periode van twaalf maanden, gerekend vanaf de dag van eerste aankomst van de ambtenaar op de standplaats, de mogelijkheid tot gezinshereniging geboden door middel van het verstrekken van een ticket overeenkomstig artikel 5 van de Regeling buitenlandse reizen BZ voor een reis in voornoemde periode, met inachtneming van het tweede tot en met het zesde lid.   
 2.  Het ticket heeft betrekking op het traject tussen de vaste verblijfplaats van de partner en de standplaats van de ambtenaar vice versa dan wel van de standplaats naar die vaste verblijfplaats.   
 3.  De aanspraak op tickets vervalt na afloop van de desbetreffende periode van twaalf maanden.   
 4.  In afwijking van het eerste lid kan op verzoek van de ambtenaar of zijn in het eerste lid bedoelde partner de in het eerste lid bedoelde reis geheel of gedeeltelijk met de auto worden gemaakt. In dat geval is artikel 24, vierde en vijfde lid, van overeenkomstige toepassing.   
@@ -784,7 +784,7 @@ b. indien kinderbijslag wordt ontvangen: de bedragen, genoemd in bijlage B, onde
 ####Gezinshereniging
 
 1.  Aan de ambtenaar wiens partner vanwege een erkende reden als bedoeld in artikel 42, tweede lid, of afhankelijk kind niet op de standplaats verblijft, wordt ten behoeve van die partner of dat kind de mogelijkheid tot gezinshereniging geboden.   
-2.  De in het eerste lid bedoelde mogelijkheid betreft het per periode van zes maanden, gerekend vanaf de dag van eerste aankomst van de ambtenaar op de standplaats, verstrekken aan de ambtenaar van ten hoogste het aantal tickets overeenkomstig [artikel 5 van de Regeling buitenlandse reizen BZ](../../../../../../../ministeriele-regeling/regeling/buitenlandse/reizen/bz/BWBR0031431/README.md) dat nodig is om zijn in het eerste lid bedoelde gezinsleden in staat te stellen hem in die periode eenmaal te bezoeken. De tickets kunnen uitsluitend betrekking hebben op het traject van de vaste verblijfsplaats(en) van bedoelde gezinsleden naar de standplaats vice versa dan wel van de standplaats naar die verblijfplaats(en).   
+2.  De in het eerste lid bedoelde mogelijkheid betreft het per periode van zes maanden, gerekend vanaf de dag van eerste aankomst van de ambtenaar op de standplaats, verstrekken aan de ambtenaar van ten hoogste het aantal tickets overeenkomstig artikel 5 van de Regeling buitenlandse reizen BZ dat nodig is om zijn in het eerste lid bedoelde gezinsleden in staat te stellen hem in die periode eenmaal te bezoeken. De tickets kunnen uitsluitend betrekking hebben op het traject van de vaste verblijfsplaats(en) van bedoelde gezinsleden naar de standplaats vice versa dan wel van de standplaats naar die verblijfplaats(en).   
 3.  De aanspraak op tickets vervalt zes maanden na afloop van de desbetreffende periode van zes maanden.   
 4.  In afwijking van het eerste lid kan op verzoek van een van de in het eerste lid bedoelde gezinsleden of de ambtenaar de in het eerste lid bedoelde reis geheel of gedeeltelijk met de auto worden gemaakt. In dat geval is artikel 24, vierde en vijfde lid, van overeenkomstige toepassing.   
 5.  
@@ -849,7 +849,7 @@ c. de ambtenaar geheel of gedeeltelijk geen tegemoetkoming in de kosten van tijd
 
 ####Overplaatsingsreis
 
-1.  Voor een reis die in verband met een in artikel 54, eerste lid, bedoelde omstandigheid wordt gemaakt, worden aan de ambtenaar ten behoeve van hem en zijn gezinsleden waarvoor hij op grond van de artikelen 14 en 15 een verhoging van zijn standplaatstoelage ontvangt, tickets verstrekt overeenkomstig [artikel 5 van de Regeling buitenlandse reizen BZ](../../../../../../../ministeriele-regeling/regeling/buitenlandse/reizen/bz/BWBR0031431/README.md) voor het reistraject naar: 
+1.  Voor een reis die in verband met een in artikel 54, eerste lid, bedoelde omstandigheid wordt gemaakt, worden aan de ambtenaar ten behoeve van hem en zijn gezinsleden waarvoor hij op grond van de artikelen 14 en 15 een verhoging van zijn standplaatstoelage ontvangt, tickets verstrekt overeenkomstig artikel 5 van de Regeling buitenlandse reizen BZ voor het reistraject naar: 
 
 a. Nederland ingeval van overplaatsing van een post naar Nederland;  
 
@@ -857,7 +857,7 @@ b. de volgende standplaats ingeval van overplaatsing van Nederland naar een post
 
 c. de volgende standplaats via Nederland ingeval van overplaatsing van een post naar een andere post, tenzij anders wordt beslist;  
 
-d. Nederland ingeval de plaatsing bij een post eindigt door beëindiging van het dienstverband, tenzij anders wordt beslist.   De reiskosten in het land van bestemming dan wel herkomst betrekking hebbend op het traject van en naar de luchthaven respectievelijk het station worden vergoed op basis van € 0,28 per kilometer als de reis met de auto wordt gemaakt dan wel van de werkelijke kosten als de reis op andere wijze wordt gemaakt, met dien verstande dat als Nederland het land van bestemming dan wel herkomst is vergoeding van die kosten binnen Nederland plaatsvindt overeenkomstig het [Reisbesluit binnenland](../../../../../../../AMvB/reisbesluit/binnenland/BWBR0005889/README.md).   
+d. Nederland ingeval de plaatsing bij een post eindigt door beëindiging van het dienstverband, tenzij anders wordt beslist.   De reiskosten in het land van bestemming dan wel herkomst betrekking hebbend op het traject van en naar de luchthaven respectievelijk het station worden vergoed op basis van € 0,28 per kilometer als de reis met de auto wordt gemaakt dan wel van de werkelijke kosten als de reis op andere wijze wordt gemaakt, met dien verstande dat als Nederland het land van bestemming dan wel herkomst is vergoeding van die kosten binnen Nederland plaatsvindt overeenkomstig het Reisbesluit binnenland.   
 2.  In afwijking van het eerste lid kan op verzoek van de ambtenaar of een van zijn in het eerste lid bedoelde gezinsleden de reis geheel of gedeeltelijk met een auto worden gemaakt. In dat geval is artikel 24, vierde en vijfde lid, van overeenkomstige toepassing, met dien verstande dat het aantal gereden kilometers dat voor vergoeding in aanmerking komt ten hoogste betreft het traject tussen: 
 
 a. indien de reis tussen de vorige standplaats en de volgende standplaats geheel per auto wordt afgelegd: de vorige en de volgende standplaats;  
@@ -1063,7 +1063,7 @@ b. ten behoeve van met de partner in overplaatsing zijnde afhankelijke kinderen 
 
 a. De tegemoetkoming in de herinrichtingskosten bedraagt: 
 
-1°. een percentage van het voor de ambtenaar geldende bruto salaris vermenigvuldigd met achtereenvolgens 12 en 1,08, met dien verstande dat voor de vaststelling van de tegemoetkoming het bruto salaris ten minste het maximumsalaris van salarisschaal 6 en ten hoogste het maximumsalaris van salarisschaal 14 van het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) bedraagt; vermeerderd met:  
+1°. een percentage van het voor de ambtenaar geldende bruto salaris vermenigvuldigd met achtereenvolgens 12 en 1,08, met dien verstande dat voor de vaststelling van de tegemoetkoming het bruto salaris ten minste het maximumsalaris van salarisschaal 6 en ten hoogste het maximumsalaris van salarisschaal 14 van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984 bedraagt; vermeerderd met:  
 
 2°. per afhankelijk kind het in bijlage B, onder 21, vermelde bedrag, voor zover ten behoeve van dat kind op zijn volgende standplaats een tegemoetkoming of vergoeding als bedoeld in de artikelen 15 dan wel 48 tot en met 50 wordt toegekend.    
 
@@ -1097,7 +1097,7 @@ c. bij beëindiging van het dienstverband, aansluitend op een plaatsing bij een 
 
 1.  Voorafgaand aan een plaatsing bij een post ondergaat de ambtenaar de immunisaties die door het toekomstige land van plaatsing als eis voor binnenkomst worden gesteld, dan wel door de aangewezen medische instelling worden aanbevolen.   
 2.  Een gezinslid van de ambtenaar wordt in de gelegenheid gesteld immunisaties als bedoeld in het eerste lid te ondergaan.   
-3.  De kosten van arbeidsgezondheidskundige onderzoeken als bedoeld in de [artikelen 51, tweede lid](../../../../../../../AMvB/reglement/dienst/buitenlandse/zaken/BWBR0004052/README.md) en [52, tweede lid, RDBZ](../../../../../../../AMvB/reglement/dienst/buitenlandse/zaken/BWBR0004052/README.md) alsmede de kosten van de in het eerste en tweede lid bedoelde immunisaties komen voor rekening van het rijk.  
+3.  De kosten van arbeidsgezondheidskundige onderzoeken als bedoeld in de artikelen 51, tweede lid en 52, tweede lid, RDBZ alsmede de kosten van de in het eerste en tweede lid bedoelde immunisaties komen voor rekening van het rijk.  
 
 ### Artikel  71a  
 
@@ -1245,7 +1245,7 @@ b. in Nederland is geplaatst en tijdelijk bij een post wordt tewerkgesteld voor 
 
 c. bij een post is geplaatst en tijdelijk bij een andere post wordt tewerkgesteld voor een periode welke bij aanvang daarvan naar verwachting langer dan drie maanden zal duren.     
 2.  De aanspraak op de in de artikelen 82 en 83 bedoelde voorzieningen ontstaat op de dag waarop de ambtenaar zijn tijdelijke werkzaamheden bij de post aanvangt en eindigt op de dag waarop hij deze werkzaamheden beëindigt. Artikel 4, eerste lid, onderdeel b, is van overeenkomstige toepassing.   
-3.  Indien tijdens een tijdelijke tewerkstelling als bedoeld in het eerste lid, onderdelen b en c, voor een periode die bij de aanvang van de tewerkstelling naar verwachting drie maanden of korter zou duren wordt besloten dat deze periode wordt verlengd waardoor de totale periode van tijdelijke tewerkstelling op dezelfde post langer zal duren dan drie maanden, eindigt op het moment waarop het besluit tot verlenging is genomen de toepasselijkheid van het [Reisbesluit buitenland](../../../../../../../AMvB/reisbesluit/buitenland/BWBR0006842/README.md) en bestaat er voor de resterende duur van de tijdelijke tewerkstelling op die post per gelijke datum aanspraak op de voorzieningen, bedoeld in artikel 82 dan wel 83.  
+3.  Indien tijdens een tijdelijke tewerkstelling als bedoeld in het eerste lid, onderdelen b en c, voor een periode die bij de aanvang van de tewerkstelling naar verwachting drie maanden of korter zou duren wordt besloten dat deze periode wordt verlengd waardoor de totale periode van tijdelijke tewerkstelling op dezelfde post langer zal duren dan drie maanden, eindigt op het moment waarop het besluit tot verlenging is genomen de toepasselijkheid van het Reisbesluit buitenland en bestaat er voor de resterende duur van de tijdelijke tewerkstelling op die post per gelijke datum aanspraak op de voorzieningen, bedoeld in artikel 82 dan wel 83.  
 
 ### Artikel  82  
 
@@ -1413,14 +1413,14 @@ Na inwerkingtreding van deze regeling berusten de Beleidsregels vergoeding koste
 
 ####Grondslag en wijziging Regeling dienstwoningen BZ
 
-Onderdeel I. Na inwerkingtreding van deze regeling berust de Regeling Dienstwoningen BZ op [artikel 64 van het Reglement Dienst Buitenlandse Zaken](../../../../../../../AMvB/reglement/dienst/buitenlandse/zaken/BWBR0004052/README.md).
+Onderdeel I. Na inwerkingtreding van deze regeling berust de Regeling Dienstwoningen BZ op artikel 64 van het Reglement Dienst Buitenlandse Zaken.
 Onderdeel II. Wijzigt de Regeling Dienstwoningen BZ.
 
 ### Artikel  94  
 
 ####Overgangsrecht vaststelling tijdvakken voor verhoging standplaatstoelage met partnerdeel of kinddeel
 
-Voor de ambtenaar die op 28 februari 2007 op de standplaats een gezamenlijke huishouding voert met zijn partner of een afhankelijk kind, blijven de [artikelen 17](../../../../../../../AMvB/reglement/dienst/buitenlandse/zaken/BWBR0004052/README.md) en [18 van het Dienst Buitenlandse Zaken](../../../../../../../AMvB/reglement/dienst/buitenlandse/zaken/BWBR0004052/README.md) Voorzieningenstelsel zoals deze luidden op 28 februari 2007 voor de duur van zijn lopende plaatsing van kracht, met dien verstande dat bij definitief vertrek van de standplaats van de partner of het kind artikel 14, derde lid, respectievelijk 15, derde lid, wordt toegepast. 
+Voor de ambtenaar die op 28 februari 2007 op de standplaats een gezamenlijke huishouding voert met zijn partner of een afhankelijk kind, blijven de artikelen 17 en 18 van het Dienst Buitenlandse Zaken Voorzieningenstelsel zoals deze luidden op 28 februari 2007 voor de duur van zijn lopende plaatsing van kracht, met dien verstande dat bij definitief vertrek van de standplaats van de partner of het kind artikel 14, derde lid, respectievelijk 15, derde lid, wordt toegepast. 
 
 ### Artikel  95  
 
@@ -1508,7 +1508,6 @@ Ph. de Heer
 | Nutsvoorzieningen  | Nutsvoorzieningen  |
 | Persoonlijke veiligheid en socio-politieke spanningen  | Persoonlijke veiligheid  |
 | --- | Socio-politieke spanningen  |
-| --- | --- |
 
 2. De in artikel 12, eerste lid, onder b, bedoelde omzetting geschiedt als volgt:  
 
@@ -1535,10 +1534,11 @@ Ph. de Heer
 | 10 of meer, maar minder dan 20 punten  | B  |
 | 20 of meer punten  | C  |
 
-4.  * Indeling van de standplaatsen*  De in de artikelen 12, derde lid, en 16, derde lid, bedoelde zone- en categorie-indeling is ingaande 1 januari 2014:  
+4. *Indeling van de standplaatsen* De in de artikelen 12, derde lid, en 16, derde lid, bedoelde zone- en categorie-indeling is ingaande 1 januari 2015:  
 
-| Standplaats  | Basis-indeling (art. 12, eerste lid, onder a)  | Correctie op basis-indeling (art. 12, eerste lid, onder b)  | Zone-indeling (art. 12, derde lid)  | Categorie-indeling (art. 16, derde lid)  |
+| Standplaats  | Basis-indeling  (art. 12, eerste lid, onder a)  | Correctie op basis-indeling  (art. 12, eerste lid, onder b)  | Zone-indeling  (art. 12, derde lid)  | Categorie-indeling  (art. 16, derde lid)  |
 |:---|:---|:---|:---|:---|
+| Abidjan  | 4  | 8  | 12  | B  |
 | Abu Dhabi  | 4  | 4  | 8  | A  |
 | Abuja  | 4  | 9  | 13  | C  |
 | Accra  | 4  | 6  | 10  | B  |
@@ -1547,7 +1547,7 @@ Ph. de Heer
 | Amman  | 4  | 5  | 9  | B  |
 | Ankara  | 4  | 5  | 9  | B  |
 | Antwerpen  | 1  | 0  | 1  | A  |
-| Astana  | 4  | 6  | 10  | B  |
+| Astana  | 4  | 5  | 9  | B  |
 | Athene  | 4  | 3  | 7  | A  |
 | Bagdad  | 4  | 11  | 15  | C  |
 | Bakoe  | 4  | 6  | 10  | B  |
@@ -1561,7 +1561,7 @@ Ph. de Heer
 | Boedapest  | 3  | 2  | 5  | A  |
 | Boekarest  | 4  | 3  | 7  | A  |
 | Bogota  | 4  | 5  | 9  | A  |
-| Boston  | 4  | 1  | 5  | A  |
+| Boston  | 4  | 0  | 4  | A  |
 | Brasilia  | 4  | 5  | 9  | A  |
 | Bratislava  | 2  | 2  | 4  | A  |
 | Brussel  | 1  | 0  | 1  | A  |
@@ -1571,6 +1571,7 @@ Ph. de Heer
 | Canberra  | 5  | 0  | 5  | A  |
 | Caracas  | 4  | 7  | 11  | B  |
 | Chicago  | 4  | 1  | 5  | A  |
+| Chongqing  | 4  | 6  | 10  | B  |
 | Colombo  | 4  | 7  | 11  | B  |
 | Cotonou  | 4  | 8  | 12  | C  |
 | Dakar  | 4  | 7  | 11  | C  |
@@ -1582,7 +1583,9 @@ Ph. de Heer
 | Dublin  | 3  | 0  | 3  | A  |
 | Dusseldorp  | 1  | 0  | 1  | A  |
 | Erbil  | 4  | 9  | 13  | C  |
+| Gao  | 4  | 9  | 13  | C  |
 | Genève  | 2  | 0  | 2  | A  |
+| Goma  | 4  | 9  | 13  | C  |
 | Guangzhou  | 4  | 6  | 10  | A  |
 | Hanoi  | 4  | 6  | 10  | B  |
 | Harare  | 4  | 8  | 12  | C  |
@@ -1599,17 +1602,18 @@ Ph. de Heer
 | Kabul en de Afghaanse provincies  | 4  | 11  | 15  | C  |
 | Kampala  | 4  | 7  | 11  | B  |
 | Khartoem  | 4  | 9  | 13  | C  |
-| Kiev  | 4  | 5  | 9  | B  |
+| Kiev  | 4  | 6  | 10  | B  |
 | Kigali  | 4  | 6  | 10  | C  |
 | Kinshasa  | 4  | 9  | 13  | C  |
 | Kopenhagen  | 3  | 0  | 3  | A  |
 | Kuala Lumpur  | 4  | 5  | 9  | A  |
 | Kuweit  | 4  | 5  | 9  | B  |
+| Lagos  | 4  | 9  | 13  | C  |
 | Lima  | 4  | 6  | 10  | A  |
 | Lissabon  | 4  | 0  | 4  | A  |
 | Ljubljana  | 2  | 1  | 3  | A  |
 | Londen  | 2  | 0  | 2  | A  |
-| Luanda  | 4  | 8  | 12  | C  |
+| Luanda  | 4  | 9  | 13  | C  |
 | Luxemburg  | 1  | 0  | 1  | A  |
 | Madrid  | 3  | 1  | 4  | A  |
 | Manilla  | 4  | 7  | 11  | A  |
@@ -1624,7 +1628,7 @@ Ph. de Heer
 | Nairobi  | 4  | 7  | 11  | A  |
 | New Delhi  | 4  | 7  | 11  | B  |
 | New York  | 4  | 1  | 5  | A  |
-| Nicosia  | 4  | 2  | 6  | A  |
+| Nicosia  | 4  | 1  | 5  | A  |
 | Osaka/Kobe  | 4  | 2  | 6  | A  |
 | Oslo  | 3  | 0  | 3  | A  |
 | Ottawa  | 4  | 0  | 4  | A  |
@@ -1636,10 +1640,10 @@ Ph. de Heer
 | Pretoria  | 4  | 3  | 7  | A  |
 | Pristina  | 4  | 6  | 10  | C  |
 | Rabat  | 4  | 5  | 9  | B  |
-| Ramallah  | 4  | 6  | 10  | A  |
+| Ramallah  | 4  | 7  | 11  | A  |
 | Riga  | 3  | 3  | 6  | A  |
 | Rio de Janeiro  | 4  | 5  | 9  | A  |
-| Riyadh  | 4  | 7  | 11  | B  |
+| Riyadh  | 4  | 7  | 11  | C  |
 | Rome  | 3  | 1  | 4  | A  |
 | San Francisco  | 4  | 0  | 4  | A  |
 | San José  | 4  | 4  | 8  | A  |
@@ -1662,10 +1666,10 @@ Ph. de Heer
 | Tbilisi  | 4  | 6  | 10  | B  |
 | Teheran  | 4  | 9  | 13  | C  |
 | Tel Aviv  | 4  | 3  | 7  | A  |
-| Tirana  | 4  | 6  | 10  | B  |
+| Tirana  | 4  | 6  | 10  | C  |
 | Tokio  | 4  | 2  | 6  | A  |
 | Toronto  | 4  | 0  | 4  | A  |
-| Tripoli  | 4  | 9  | 13  | C  |
+| Tripoli  | 4  | 10  | 14  | C  |
 | Tunis  | 4  | 5  | 9  | B  |
 | Valetta  | 4  | 1  | 5  | A  |
 | Vancouver  | 4  | 0  | 4  | A  |
@@ -1686,44 +1690,44 @@ Ph. de Heer
 
 ####Inhouding huisvesting
 
-Het in artikel 8, derde lid, bedoelde percentage is ingaande 1 januari 2014: 19,4%. 
+Het in artikel 8, derde lid, bedoelde percentage is ingaande 1 januari 2015: 19,4%. 
 
 ### 2  
 
-#### Inhouding water- en energieverbruik
+####Inhouding water- en energieverbruik
 
-Het in artikel 9, derde lid, bedoelde percentage is ingaande 1 januari 2014: 8,1%. 
+Het in artikel 9, derde lid, bedoelde percentage is ingaande 1 januari 2015: 8,1%. 
 
 ### 3  
 
 ####Koopkrachtcorrectie netto Nederlands salaris
 
-Het in artikel 10, derde lid, bedoelde percentage is ingaande 1 januari 2014: 46%. 
+Het in artikel 10, derde lid, bedoelde percentage is ingaande 1 januari 2015: 46%. 
 
 ### 4  
 
 ####Koopkrachtcorrectiefactor
 
-Het in artikel 11, tweede lid, onder b, bedoelde aantal punten is ingaande 1 januari 2014: 14. 
+Het in artikel 11, tweede lid, onder b, bedoelde aantal punten is ingaande 1 januari 2015: 14. 
 
 ### 5  
 
 ####Standplaatstoelage
 
-Het in artikel 13, tweede en derde lid, bedoelde bedrag is ingaande 1 januari 2014 per maand:  
+Het in artikel 13, tweede en derde lid, bedoelde bedrag is ingaande 1 januari 2015 per maand:  
 
 | Functieniveau  | Bedrag in €  |--- | Functieniveau  | Bedrag in €  |
 |:---|:---|:---|:---|:---|
-| 20  | 1.107  | --- | 10  | 582  |
-| 19  | 1.046  | 9  | 546  |
-| 18  | 990  | 8  | 496  |
-| 17  | 936  | 7  | 445  |
-| 16  | 887  | 6  | 413  |
-| 15  | 841  | 5  | 384  |
-| 14  | 799  | 4  | 360  |
-| 13  | 751  | 3  | 342  |
-| 12  | 707  | 2  | 316  |
-| 11  | 636  | 1  | 300  |
+| 20  | 1.111  | --- | 10  | 584  |
+| 19  | 1.049  | --- | 9  | 547  |
+| 18  | 993  | --- | 8  | 498  |
+| 17  | 939  | --- | 7  | 447  |
+| 16  | 889  | --- | 6  | 414  |
+| 15  | 843  | --- | 5  | 385  |
+| 14  | 801  | --- | 4  | 361  |
+| 13  | 753  | --- | --- | --- |
+| 12  | 710  | --- | --- | --- |
+| 11  | 638  | --- | --- | --- |
 
 ### 6  
 
@@ -1731,191 +1735,188 @@ Het in artikel 13, tweede en derde lid, bedoelde bedrag is ingaande 1 januari 2
 
 De in artikel 19, tweede lid, bedoelde wettelijke eigen bijdragen zijn voor het kind dat op 1 augustus van het desbetreffende jaar: 
 
-a. 18 jaar of ouder is én beroepsonderwijs volgt: voor het schooljaar 2013–2014: € 1.090;  
+a. 18 jaar of ouder is én beroepsonderwijs volgt: voor het schooljaar 2014 – 2015: € 1.118;  
 
-b. hoger beroepsonderwijs volgt: voor het studiejaar 2013–2014: € 1.835;  
+b. hoger beroepsonderwijs volgt: voor het studiejaar 2014 – 2015: € 1.906;  
 
-c. wetenschappelijk onderwijs volgt: voor het studiejaar 2013–2014: € 1.835.   
+c. wetenschappelijk onderwijs volgt: voor het studiejaar 2014 – 2015: € 1.906.   
 
 ### 7  
 
 ####Schooltransport
 
-Het in artikel 21, tweede lid, bedoelde bedrag is ingaande 1 januari 2014:  
+Het in artikel 21, tweede lid, bedoelde bedrag is ingaande 1 januari 2015:  
 
-| Aantal afhankelijke kinderen dat van schooltransport gebruik maakt  | Bedrag in € per schooljaar  |
+| Aantal afhankelijke kinderen dat van schooltransport gebruik maakt  | Bedrag in € per schooljaar  |
 |:---|:---|
-| 1  | 288  |
-| 2  | 493  |
+| 1  | 287  |
+| 2  | 492  |
 | 3  | 616  |
-| 4 of meer  | 658  |
+| 4 of meer  | 657  |
 
 ### 8  
 
 ####Bijlessen afhankelijke kinderen
 
-Het artikel 22, tweede lid, bedoelde bedrag is ingaande 1 januari 2014: € 1.743. 
+Het artikel 22, tweede lid, bedoelde bedrag is ingaande 1 januari 2015: € 1.804. 
 
 ### 9  
 
 ####Nederlandse taallessen afhankelijke kinderen
 
-Het artikel 23, tweede lid, bedoelde bedrag is ingaande 1 januari 2014: € 1.015. 
+Het artikel 23, tweede lid, bedoelde bedrag is ingaande 1 januari 2015: € 1.050. 
 
 ### 10  
 
 ####Vergoeding huispersoneel
 
-Het in artikel 30, tweede lid, bedoelde bedrag is ingaande 1 januari 2014 per maand:  
+Het in artikel 30, tweede lid, bedoelde bedrag is ingaande 1 januari 2015 per maand:  
 
-| Functie-niveau  | Bedrag in €  |--- | Functie-niveau  | Bedrag in €  |
-|:---|:---|:---|:---|:---|
-| 18  | 1.252  | --- | 8  | 414  |
-| 17  | 1.146  | 7  | 364  |
-| 16  | 1.058  | 6  | 323  |
-| 15  | 949  | 5  | 292  |
-| 14  | 876  | 4  | 268  |
-| 13  | 791  | 3  | 252  |
-| 12  | 728  | 2  | 229  |
-| 11  | 624  | 1  | 213  |
-| 10  | 540  | --- | --- |
-| 9  | 486  |
+|--- | Functieniveau  | Bedrag in €  |--- | Functieniveau  | Bedrag in €  |
+|:---|:---|:---|:---|:---|:---|
+| --- | 18  | 1.263  | --- | 8  | 418  |
+| --- | 17  | 1.157  | --- | 7  | 367  |
+| --- | 16  | 1.068  | --- | 6  | 326  |
+| --- | 15  | 958  | --- | 5  | 295  |
+| --- | 14  | 884  | --- | 4  | 270  |
+| --- | 13  | 798  | --- | --- | --- |
+| --- | 12  | 734  | --- | --- | --- |
+| --- | 11  | 630  | --- | --- | --- |
+| --- | 10  | 545  | --- | --- | --- |
+| --- | 9  | 491  | --- | --- | --- |
 
 ### 11  
 
 ####Vergoeding passieve representatie
 
-Het in artikel 33, tweede lid, bedoelde bedrag is ingaande 1 januari 2014 per maand:  
+Het in artikel 33, tweede lid, bedoelde bedrag is ingaande 1 januari 2015 per maand:  
 
-| Chef de Poste  |--- | Overigen  |--- | Overigen  | Functie- niveau  | Bedrag in €  |--- | Functie-niveau  | Bedrag in €  |--- | Functie-niveau  | Bedrag in €  |
+| Chef de Poste  |--- | Overigen  |--- | Overigen  | Functieniveau  | Bedrag in €  |--- | Functieniveau  | Bedrag in €  |--- | Functieniveau  | Bedrag in €  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| 20  | 1.925  | 18  | 816  | 8  | 235  |
-| 19  | 1.772  | 17  | 747  | 7  | 207  |
-| 18  | 1.632  | 16  | 690  | 6  | 176  |
-| 17  | 1.120  | 15  | 601  | 5  | 160  |
-| 16  | 1.034  | 14  | 554  | 4  | 147  |
-| 15  | 948  | 13  | 485  | 3  | 138  |
-| 14  | 875  | 12  | 445  | 2  | 126  |
-| 13  | 808  | 11  | 370  | 1  | 116  |
-| 12  | 742  | 10  | 319  | --- | --- |
-| 11  | 651  | 9  | 288  |
+| 20  | 1.931  | --- | 18  | 818  | --- | 8  | 236  |
+| 19  | 1.778  | --- | 17  | 749  | --- | 7  | 208  |
+| 18  | 1.637  | --- | 16  | 692  | --- | 6  | 177  |
+| 17  | 1.123  | --- | 15  | 603  | --- | 5  | 161  |
+| 16  | 1.038  | --- | 14  | 555  | --- | 4  | 147  |
+| 15  | 951  | --- | 13  | 486  | --- | --- | --- |
+| 14  | 878  | --- | 12  | 447  | --- | --- | --- |
+| 13  | 811  | --- | 11  | 371  | --- | --- | --- |
+| 12  | 745  | --- | 10  | 320  | --- | --- | --- |
+| 11  | 653  | --- | 9  | 289  | --- | --- | --- |
 
 ### 12  
 
 ####Transportvergoeding
 
-Het in artikel 37, tweede lid, bedoelde bedrag is ingaande 1 januari 2014 per maand:  
+Het in artikel 37, tweede lid, bedoelde bedrag is ingaande 1 januari 2015 per maand:  
 
-| Chef de Poste  |--- | Overigen  | Functie-niveau  | Bedrag p/mnd in €  |--- | Functie-niveau  | Bedrag p/mnd in €  |
+| Chef de Poste  |--- | Overigen  | Functieniveau  | Bedrag p/mnd in €  |--- | Functieniveau  | Bedrag p/mnd in €  |
 |:---|:---|:---|:---|:---|:---|:---|:---|
-| 20  | 356  | 18  | 327  |
-| 19  | 356  | 17  | 327  |
-| 18  | 356  | 16  | 327  |
-| 17  | 335  | 15  | 315  |
-| 16  | 335  | 14  | 315  |
-| 15  | 335  | 13  | 301  |
-| 14  | 335  | 12  | 301  |
-| 13  | 335  | 11  | 281  |
-| 12  | 335  | 10  | 281  |
-| 11  | 335  | 9  | 281  |
-| --- | --- | 8  | 267  |
-| 7  | 267  |
-| 6  | 254  |
-| 5  | 254  |
-| 4  | 254  |
-| 3  | 254  |
-| 2  | 254  |
-| 1  | 254  |
+| 20  | 355  | --- | 18  | 327  |
+| 19  | 355  | --- | 17  | 327  |
+| 18  | 355  | --- | 16  | 327  |
+| 17  | 334  | --- | 15  | 315  |
+| 16  | 334  | --- | 14  | 315  |
+| 15  | 334  | --- | 13  | 301  |
+| 14  | 334  | --- | 12  | 301  |
+| 13  | 334  | --- | 11  | 281  |
+| 12  | 334  | --- | 10  | 281  |
+| 11  | 334  | --- | 9  | 281  |
+| --- | --- | --- | 8  | 267  |
+| --- | --- | --- | 7  | 267  |
+| --- | --- | --- | 6  | 254  |
+| --- | --- | --- | 5  | 254  |
+| --- | --- | --- | 4  | 254  |
 
 ### 13  
 
 ####Tegemoetkoming in de kosten van dubbele huishouding
 
-Het in artikel 43, eerste lid, bedoelde percentage is ingaande 1 januari 2014: 68,0%. 
+Het in artikel 43, eerste lid, bedoelde percentage is ingaande 1 januari 2015: 68,0%. 
 
 ### 14  
 
 ####Tegemoetkoming in de kosten van dubbele huishouding bij achterblijven en vooruitreizen
 
-Het in artikel 43, tweede lid, onder a, bedoelde percentage is ingaande 1 januari 2014: 48,9%. 
+Het in artikel 43, tweede lid, onder a, bedoelde percentage is ingaande 1 januari 2015: 48,9%. 
 
 ### 15  
 
 ####Koopkrachtcorrectie tegemoetkoming in de kosten van dubbele huishouding
 
-Het in artikel 43, tweede lid, onder b, bedoelde percentage is ingaande 1 januari 2014: 14,9%. 
+Het in artikel 43, tweede lid, onder b, bedoelde percentage is ingaande 1 januari 2015: 14,9%. 
 
 ### 16  
 
 ####Vergoeding van internaatskosten
 
-Het in artikel 48, tweede lid, bedoelde internaatstarief is: voor het schooljaar 2013–2014: € 29.725. 
+Het in artikel 48, tweede lid, bedoelde internaatstarief is: voor het schooljaar 2014 – 2015: € 29.995. 
 
 ### 17  
 
 ####Tegemoetkoming voor verblijf in gastgezin bij het volgen van tertiair onderwijs
 
-Het in artikel 49, derde lid, onder a, bedoelde bedrag voor kinderen die tertiair onderwijs volgen is ingaande 1 januari 2014: € 437 per maand. 
+Het in artikel 49, derde lid, onder a, bedoelde bedrag voor kinderen die tertiair onderwijs volgen is ingaande 1 januari 2015: € 446 per maand. 
 
 ### 18  
 
 ####Tegemoetkoming voor verblijf in gastgezin in overige gevallen
 
-Het in artikel 49, derde lid, onder a, bedoelde bedrag voor overige kinderen is ingaande 1 januari 2014: € 863 per maand. 
+Het in artikel 49, derde lid, onder a, bedoelde bedrag voor overige kinderen is ingaande 1 januari 2015: € 882 per maand. 
 
 ### 19  
 
 ####Tegemoetkoming voor zelfstandige huisvesting
 
-Het in artikel 50, derde lid, onder a, bedoelde bedrag is ingaande 1 januari 2014: € 228 per maand. 
+Het in artikel 50, derde lid, onder a, bedoelde bedrag is ingaande 1 januari 2015: € 234 per maand. 
 
 ### 20  
 
 ####Tegemoetkoming in de kosten van dubbele inrichting
 
-Het in artikel 51, tweede lid, onder a, bedoelde bedrag is ingaande 1 januari 2014: € 15 per maand. 
+Het in artikel 51, tweede lid, onder a, bedoelde bedrag is ingaande 1 januari 2015: € 15 per maand. 
 
 ### 21  
 
 ####Tegemoetkoming in de herinrichtingskosten
 
-Het in artikel 70, tweede lid, onder a, ten 2°, bedoelde bedrag is ingaande 1 januari 2014: € 89. 
+Het in artikel 70, tweede lid, onder a, ten 2°, bedoelde bedrag is ingaande 1 januari 2015: € 87. 
 
-### 22 
+### 22  
 
 ####Tegemoetkoming in de kosten van doorgelopen afschrijvingen
 
-Het in artikel 74, tweede lid, bedoelde bedrag is ingaande 1 januari 2014: € 3.670. 
+Het in artikel 74, tweede lid, bedoelde bedrag is ingaande 1 januari 2015: € 3.615. 
 
 ### 23  
 
 ####Tegemoetkoming in de woonlasten
 
-Het in artikel 76, vijfde lid, bedoelde bedrag is ingaande 1 juli 2013: € 1.056. 
+Het in artikel 76, vijfde lid, bedoelde bedrag is ingaande 1 juli 2013: € 1.102. 
 
 ### 24  
 
 ####Lessen in een buitenlandse taal
 
-Het in artikel 80, tweede lid, bedoelde bedrag is ingaande 1 januari 2014: € 1.743. 
+Het in artikel 80, tweede lid, bedoelde bedrag is ingaande 1 januari 2015: € 1.804. 
 
 ### 25  
 
-#### Aanloopvoorschot
+####Aanloopvoorschot
 
-Het in artikel 85, derde lid, bedoelde bedrag is ingaande 1 januari 2014: € 23.160. 
+Het in artikel 85, derde lid, bedoelde bedrag is ingaande 1 januari 2015: € 23.232. 
 
 ### 26  
 
 ####Het verschil in basisbeurs tussen een uitwonend en een thuiswonend kind
 
-Het in artikel 52, eerste lid, onder a, bedoelde bedrag is ingaande 1 januari 2014: € 178,89. 
+Het in artikel 52, eerste lid, onder a, bedoelde bedrag is ingaande 1 januari 2015: € 183,38. 
 
 ### 27  
 
 ####Eigen bijdrage bij vergoeding gastgezin en vergoeding internaatkosten in geval van kinderbijslag
 
-De in artikel 52, eerste lid, onder b, bedoelde bedragen zijn ingaande 1 januari 2014:  
+De in artikel 52, eerste lid, onder b, bedoelde bedragen zijn ingaande 1 januari 2015:  
 
 | Leeftijd kind(eren)  | Bedrag in €  |
 |:---|:---|
@@ -1923,98 +1924,92 @@ De in artikel 52, eerste lid, onder b, bedoelde bedragen zijn ingaande 1 januar
 | 6 – 12 jaar  | 232,71  |
 | 12 – 18 jaar  | 273,78  |
 
-### 28  
-
-####Vergoeding voor het volgen van tertiair Engelstalig onderwijs
-
-vervallen 
-
 ### Bijlage  C 
 
 ####van het Dienst Buitenlandse Zaken Voorzieningenstelsel 2007
 
-1. De in artikel 10, eerste lid, en artikel 11, tweede lid, onder a, bedoelde elementen van de CBS-bestedingsindex zijn ingaande 1 januari 2014:  
+1. De in artikel 10, eerste lid, en artikel 11, tweede lid, onder a, bedoelde elementen van de CBS-bestedingsindex zijn ingaande 1 januari 2015:  
 
 | Categorie  | Element  | Categorie  | Element  |
 |:---|:---|:---|:---|
-|  *Woning*   | Huur  |  *Kleding en*    *schoeisel*   | Herenkleding  |
-| Huurwaarde  | Dameskleding  |
-| Overdrachten i.v.m. woning  | --- |
-| Nagelvaste installaties  | Kleding z.n.a. (lft,  geslacht onbekend)  |
-| Gas  | Kledingaccessoires  |
-| Elektriciteit  | Herenschoeisel  |
-| Vaste en vloeibare  brandstoffen  | Damesschoeisel  |
-| Ov. kosten verwarming en verlichting  | Schoeisel z.n.a. (lft,  geslacht onbekend)  |
-| Meubelen  | Lederwaren, sieraden, e.d.  |
-| Stoffering  |  *Hygiëne en geneesk.*    *verzorging*   | Water  |
-| Versiering  | Cosmetica en  parfumerieën  |
-| Bedden- en linnengoed  | Geneeskundige  verzorging  |
-| Eet- en keukengerei en  apparaten  | --- |
-| Kooktoestellen  |  *Ontwikkeling*    *ontspanning*    *en verkeer*   | Opleiding  |
-| Verwarmingstoestellen, excl cv  | Radio's, tv, video, cd, e.d.  |
-| Verlichtingsapparaten  | Roken  |
-| Reinigingsapparaten en gereedschap  | Rijwielen  |
-| --- | Bromfietsen, motoren, e.d.  |
-| Ov. apparaten en gereedschap  | Auto's  |
-| Brand- en  Inbraakverzekering  | Accessoires auto's  |
+|  *Woning*   | Huur  |  *Kleding en schoeisel*   | Herenkleding  |
+| --- | Huurwaarde  | --- | Dameskleding  |
+| --- | Overdrachten i.v.m. woning  | --- | --- |
+| --- | Nagelvaste installaties  | --- | Kleding z.n.a. (leeftijd, geslacht onbekend)  |
+| --- | Gas  | --- | Kledingaccessoires  |
+| --- | Elektriciteit  | --- | Herenschoeisel  |
+| --- | Vaste en vloeibare brandstoffen  | --- | Damesschoeisel  |
+| --- | Overige kosten verwarming en verlichting  | --- | Schoeisel z.n.a. (leeftijd, geslacht onbekend)  |
+| --- | Meubelen  | --- | Lederwaren, sieraden e.d.  |
+| --- | Stoffering  |  *Hygiëne en geneesk. verzorging*   | Water  |
+| --- | Versiering  | --- | Cosmetica en parfumerieën  |
+| --- | Bedden- en linnengoed  | --- | Geneeskundige verzorging  |
+| --- | Eet- en keukengerei en apparaten  | --- | --- |
+| --- | Kooktoestellen  |  *Ontwikkeling ontspanning en verkeer*   | Opleiding  |
+| --- | Verwarmingstoestellen, excl cv  | --- | Radio, tv, video, cd e.d.  |
+| --- | Verlichtingsapparaten  | --- | Roken  |
+| --- | Reinigingsapparaten en gereedschap  | --- | Rijwielen  |
+| --- | --- | --- | Bromfietsen, motoren e.d.  |
+| --- | Overige apparaten en gereedschap  | --- | Auto's  |
+| --- | Brand- en Inbraakverzekering  | --- | Accessoires auto's  |
 
-2. De in artikel 43, eerste lid, bedoelde elementen van de CBS-bestedingsindex zijn ingaande 1 januari 2014:  
+2. De in artikel 43, eerste lid, bedoelde elementen van de CBS-bestedingsindex zijn ingaande 1 januari 2015:  
 
 | Categorie  | Element  | Categorie  | Element  |
 |:---|:---|:---|:---|
-|  *Woning*   | Huur  |  *Woning*   | Ov. apparaten en gereedschap  |
-| Huurwaarde  | Reparatie en huur huish. apparaten  |
-| Overdrachten i.v.m. woning  | --- |
-| Onderhoud woning  | Brand- en inbraakverzekering  |
-| Nagelvaste installaties  | --- |
-| Tuin en bloemen  |  *Hygiëne en*    *geneesk.*    *verzorging*   | Huishoudelijke dienstverlening  |
-| Gas  | Reinigingsartikelen, waaronder water  |
-| Elektriciteit  | --- |
-| Vaste en vloeibare  brandstoffen  | --- |
-| Ov. kosten verwarming en verlichting  |  *Ontwikkeling*    *ontspanning*    *en verkeer*   | Schrijfwaren, computers en lectuur  |
-| Meubelen  | Sport en spel  |
-| Stoffering  | Overige ontspanning  |
-| Versiering  | Radio's, tv, video, cd, e.d.  |
-| Bedden- en linnengoed  | Openbaar vervoer  |
-| Eet- en keukengerei en -apparaten  | Auto's  |
-| --- | Accessoires auto's  |
-| Kooktoestellen  | Overige kosten eigen  vervoer  |
-| Verwarmingstoestellen, excl. cv  | Ov. verkeers- en vervoerskosten  |
-| Verlichtingsapparaten  |  *Overig*    *bestedingen*   | --- |
-| Reinigingsapparaten en gereedschap  |
+|  *Woning*   | Huur  |  *Woning*   | Overige apparaten en gereedschap  |
+| --- | Huurwaarde  | --- | Reparatie en huur huishoudelijke apparaten  |
+| --- | Overdrachten i.v.m. woning  | --- | --- |
+| --- | Onderhoud woning  | --- | Brand- en inbraakverzekering  |
+| --- | Nagelvaste installaties  | --- |
+| --- | Tuin en bloemen  |  *Hygiëne en geneesk. verzorging*   | Huishoudelijke dienstverlening  |
+| --- | Gas  | --- | Reinigingsartikelen, waaronder water  |
+| --- | Elektriciteit  | --- |
+| --- | Vaste en vloeibare brandstoffen  | --- |
+| --- | Overige kosten verwarming en verlichting  |  *Ontwikkeling ontspanning en verkeer*   | Schrijfwaren, computers en lectuur  |
+| --- | Meubelen  | --- | Sport en spel  |
+| --- | Stoffering  | --- | Overige ontspanning  |
+| --- | Versiering  | --- | Radio, tv, video, cd e.d.  |
+| --- | Bedden- en linnengoed  | --- | Openbaar vervoer  |
+| --- | Eet- en keukengerei en -apparaten  | --- | Auto's  |
+| --- | --- | --- | Accessoires auto's  |
+| --- | Kooktoestellen  | --- | Overige kosten eigen vervoer  |
+| --- | Verwarmingstoestellen, excl. cv  | --- | Overige verkeers- en vervoerskosten  |
+| --- | Verlichtingsapparaten  |  *Overig bestedingen*   |
+| --- | Reinigingsapparaten en gereedschap  | --- |
 
-3. De in artikel 43, tweede lid, onder a, bedoelde elementen van de CBS- bestedingsindex zijn ingaande 1 januari 2014:  
+3. De in artikel 43, tweede lid, onder a, bedoelde elementen van de CBS- bestedingsindex zijn ingaande 1 januari 2015:  
 
 | Categorie  | Element  | Categorie  | Element  |
 |:---|:---|:---|:---|
 |  *Woning*   | Huur  |  *Woning*   | Verlichtingsapparaten  |
-| Huurwaarde  | Reinigingsapparaten en gereedschap  |
-| Onderhoud woning  | Ov. apparaten en gereedschap  |
-| Nagelvaste installaties  | Reparatie en huur huish apparaten  |
-| Tuin en bloemen  | Brand- en  inbraakverzekering  |
-| Gas  | --- |
-| Elektriciteit  |  *Hygiëne en*    *geneesk.*    *verzorging*   | Huishoudelijke dienstverlening  |
-| Vaste en vloeibare brandstoffen  | Reinigingsartikelen,  waaronder water  |
-| Ov. kosten verwarming en verl.  | --- |
-| Meubelen  | --- |
-| Stoffering  |  *Ontwikkeling*    *ontspanning*    *en verkeer*   | Schrijfwaren, computers en lectuur  |
-| Versiering  | Sport en spel  |
-| Bedden- en linnengoed  | Overige ontspanning  |
-| Eet-, keukengerei en  apparaten  | Radio's, tv, video, cd, e.d.  |
-| Kooktoestellen  |  *Overig*    *bestedingen*   | --- |
-| Verwarmingstoestellen, excl cv  |
+| --- | Huurwaarde  | --- | Reinigingsapparaten en gereedschap  |
+| --- | Onderhoud woning  | --- | Overige apparaten en gereedschap  |
+| --- | Nagelvaste installaties  | --- | Reparatie en huur huishoudelijke apparaten  |
+| --- | Tuin en bloemen  | --- | Brand- en inbraakverzekering  |
+| --- | Gas  | --- |
+| --- | Elektriciteit  |  *Hygiëne en geneesk. verzorging*   | Huishoudelijke dienstverlening  |
+| --- | Vaste en vloeibare brandstoffen  | --- | Reinigingsartikelen, waaronder water  |
+| --- | Overige kosten verwarming en verlichting  | --- |
+| --- | Meubelen  | --- |
+| --- | Stoffering  |  *Ontwikkeling ontspanning en verkeer*   | Schrijfwaren, computers en lectuur  |
+| --- | Versiering  | --- | Sport en spel  |
+| --- | Bedden- en linnengoed  | --- | Overige ontspanning  |
+| --- | Eet-, keukengerei en apparaten  | --- | Radio, tv, video, cd e.d.  |
+| --- | Kooktoestellen  |  *Overige bestedingen*   |
+| --- | Verwarmingstoestellen, exclusief cv  | --- |
 
-4. De in artikel 43, tweede lid, onder b, bedoelde elementen van de CBS-bestedingsindex zijn ingaande 1 januari 2014:  
+4. De in artikel 43, tweede lid, onder b, bedoelde elementen van de CBS-bestedingsindex zijn ingaande 1 januari 2015:  
 
 | Categorie  | Element  | Categorie  | Element  |
 |:---|:---|:---|:---|
-|  *Woning*   | Onderhoud woning  |  *Ontwikkeling*    *ontspanning*    *en verkeer*   | Schrijfwaren, computers en lectuur  |
-| Tuin en bloemen  | Sport en spel  |
-|  *Hygiëne en*    *geneesk.*    *verzorging*   | Reparatie en huur huish.  apparaten  | --- | Overige ontspanning  |
-| Huishoudelijke dienstverlening  |  *Overig bestedingen *   | --- |
-| Reinigingsartikelen, excl. water  |
+|  *Woning*   | Onderhoud woning  |  *Ontwikkeling ontspanning en verkeer*   | Schrijfwaren, computers en lectuur  |
+| --- | Tuin en bloemen  | --- | Sport en spel  |
+|  *Hygiëne en geneesk. verzorging*   | Reparatie en huur huishoudelijke apparaten  | --- | Overige ontspanning  |
+| --- | Huishoudelijke dienstverlening  |  *Overig bestedingen *   |
+| --- | Reinigingsartikelen, exclusief water  | --- |
 
-5. De in artikel 11, vierde lid, bedoelde landen (zogenaamde categorie 1-landen) waarvan de koopkrachtcorrectie (KKC) als gevolg van de koersfluctuaties ingaande 1 januari 2014 maandelijks wordt aangepast, zijn:  
+5. De in artikel 11, vierde lid, bedoelde landen (zogenaamde categorie 1-landen) waarvan de koopkrachtcorrectie (KKC) als gevolg van de koersfluctuaties ingaande 1 januari 2015 maandelijks wordt aangepast, zijn:  
 
 | OESO-landen m.u.v. Euro-zone  | Landen met vaste koersverhouding US$  | Landen met KKC gebaseerd op US$  |
 |:---|:---|:---|
@@ -2031,56 +2026,58 @@ vervallen
 | Zweden  | --- | --- |
 | Zuid-Korea  | --- | --- |
 | Zwitserland  | --- | --- |
-| --- | --- | --- |
 
 ###  Bijlage  D 
 
 ####van het Dienst Buitenlandse Zaken Voorzieningenstelsel 2007
 
-1. De standplaatsen met zware klimatologische omstandigheden als bedoeld in artikel 61, zevende lid, zijn ingaande 1 januari 2014:  
+1. De standplaatsen met zware klimatologische omstandigheden als bedoeld in artikel 61, zevende lid, zijn ingaande 1 januari 2015:  
 
-| --- | --- |
-|:---|:---|
-| Abu Dhabi  | Khartoum  |
-| Almaty  | Kuala Lumpur  |
-| Caïro  | Lima  |
-| Colombo  | Manilla  |
+| Standplaatsen  |
+|:---|
+| Abidjan  | Khartoum  |
+| Abu Dhabi  | Kuala Lumpur  |
+| Almaty  | Lagos  |
+| Bujumbura  | Lima  |
+| Caïro  | Manilla  |
+| Colombo  | Maputo  |
+| Cotonou  | Mumbai  |
+| Dakar  | Muscat  |
+| Dhaka  | Panama  |
+| Doha  | Paramaribo  |
+| Dubai  | Riyadh  |
+| Goma  | Singapore  |
+| Havanna  | Teheran  |
+| Islamabad  | Yangon  |
+| Jakarta  | --- |
+
+2. De standplaatsen waar goederen voor kinderen jonger dan 1 jaar onvoldoende kunnen worden verkregen als bedoeld in artikel 62, eerste lid, onderdeel a, zijn ingaande 1 januari 2015:  
+
+| Standplaatsen  |
+|:---|
+| Abuja  | Havanna  |
+| Addis Abeba  | Islamabad  |
+| Algiers  | Juba  |
+| Bagdad  | Kabul  |
+| Bamako  | Khartoum  |
+| Bujumbura  | Kigali  |
+| Caïro  | Kinshasa  |
+| Caracas  | Lagos  |
+| Colombo  | Luanda  |
 | Cotonou  | Maputo  |
-| Dakar  | Mumbai  |
-| Dhaka  | Muscat  |
-| Doha  | Panama  |
-| Dubai  | Paramaribo  |
-| Havanna  | Riyadh  |
-| Islamabad  | Singapore  |
-| Jakarta  | Yangon  |
-
-2. De standplaatsen waar goederen voor kinderen jonger dan 1 jaar onvoldoende kunnen worden verkregen als bedoeld in artikel 62, eerste lid, onderdeel a, zijn ingaande 1 januari 2014:  
-
-| --- | --- |
-|:---|:---|
-| Abuja  | Islamabad  |
-| Addis Abeba  | Juba  |
-| Algiers  | Kabul  |
-| Bagdad  | Khartoum  |
-| Bamako  | Kigali  |
-| Bujumbura  | Kinshasa  |
-| Caïro  | Luanda  |
-| Caracas  | Maputo  |
-| Colombo  | Sana'a  |
-| Cotonou  | Teheran  |
-| Dakar  | Tirana  |
-| Damascus  | Tripoli  |
-| Dhaka  | Yangon  |
-| Erbil  | --- |
+| Dakar  | Sana'a  |
+| Damascus  | Teheran  |
+| Dhaka  | Tirana  |
+| Erbil  | Tripoli  |
+| Gao  | Yangon  |
 | Goma  | --- |
 | Harare  | --- |
-| Havanna  | --- |
 
 3. 
 
-a. Het in artikel 65, eerste lid, bedoelde bedrag is ingaande 1 januari 2014: ten hoogste € 2.500.  
+a. Het in artikel 65, eerste lid, bedoelde bedrag is ingaande 1 januari 2015: ten hoogste € 2.500.  
 
-b. Het in artikel 65, tweede lid, bedoelde maximale verzekerde bedrag van de getransporteerde auto is ingaande 1 januari 2014: € 40.014.    
+b. Het in artikel 65, tweede lid, bedoelde maximale verzekerde bedrag van de getransporteerde auto is ingaande 1 januari 2015: € 40.374.    
 
 ###  Bijlage  E 
 
@@ -2088,15 +2085,15 @@ b. Het in artikel 65, tweede lid, bedoelde maximale verzekerde bedrag van de get
 
 Tegemoetkoming taallessen partners 
 
-1. Het in artikel 40, tweede lid, bedoelde bedrag is ingaande 1 januari 2014:  
+1. Het in artikel 40, tweede lid, bedoelde bedrag is ingaande 1 januari 2015:  
 
 | Moeilijkheidsgraad van de taal  | Bedrag in €  |
 |:---|:---|
 | A  | 850  |
-| B  | 1420  |
-| C  | 1985  |
+| B  | 1.420  |
+| C  | 1.985  |
 
-2. Overzicht moeilijkheidsgraad van de taal is ingaande 1 januari 2014:  
+2. Overzicht moeilijkheidsgraad van de taal is ingaande 1 januari 2015:  
 
 | A  | B  | C  |
 |:---|:---|:---|

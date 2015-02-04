@@ -525,7 +525,7 @@ Voor zover bij de uitoefening van bevoegdheden op grond van het bepaalde bij of 
 
 ### Artikel  41  
 
-Een postvervoerbedrijf deelt aan de Autoriteit Consument en Markt in ieder geval de naam, het adres, de vestigingsplaats en een beschrijving van de aangeboden postvervoerdiensten mee. 
+Een postvervoerbedrijf deelt aan de Autoriteit Consument en Markt in ieder geval een beschrijving van de aangeboden postvervoerdiensten mee. 
 
 ### Artikel  42  
 

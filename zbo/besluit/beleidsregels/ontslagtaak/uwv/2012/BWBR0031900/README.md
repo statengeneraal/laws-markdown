@@ -3,7 +3,7 @@
 ##Besluit beleidsregels ontslagtaak UWV 2012
 
 Het Uitvoeringsinstituut werknemersverzekeringen,  
-Gelet op [artikel 6, eerste lid, van het Buitengewoon Besluit Arbeidsverhoudingen 1945](../../../../../../../KB/buitengewoon/besluit/arbeidsverhoudingen/1945/BWBR0002014/README.md), en het [Ontslagbesluit](../../../../../../../ministeriele-regeling/ontslagbesluit/BWBR0010062/README.md);
+Gelet op artikel 6, eerste lid, van het Buitengewoon Besluit Arbeidsverhoudingen 1945, en het Ontslagbesluit;
 Besluit:    
 
 ### Artikel  1  
@@ -16,7 +16,7 @@ De bijlage, bedoeld in artikel 1, ligt ter inzage bij de vestigingen van de afde
 
 ### Artikel  3  
 
-Het [Besluit beleidsregels ontslagtaak UWV 2010](../../../../../../../zbo/besluit/beleidsregels/ontslagtaak/uwv/2010/BWBR0026804/README.md) wordt ingetrokken. 
+Het Besluit beleidsregels ontslagtaak UWV 2010 wordt ingetrokken. 
 
 ### Artikel  4  
 
@@ -37,4 +37,4 @@ Voorzitter Raad van Bestuur UWV.
 
 ####Beleidsregels ontslagtaak UWV 2012
 
-Ligt ter inzage bij de vestigingen van de afdeling Arbeidsjuridische dienstverlening van UWV WERKbedrijf en is te raadplegen op de website www.werk.nl.
+Ligt ter inzage bij de vestigingen van de afdeling Arbeidsjuridische dienstverlening van UWV en is gepubliceerd op www.werk.nl.

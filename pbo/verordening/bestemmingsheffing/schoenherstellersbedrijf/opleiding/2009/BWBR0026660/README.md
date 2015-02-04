@@ -4,7 +4,7 @@
 
 Het bestuur van het Hoofdbedrijfschap Ambachten;
 
-Gelet op [artikel 95, tweede lid](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [artikel 126 van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+Gelet op artikel 95, tweede lid en artikel 126 van de Wet op de bedrijfsorganisatie;
 
 Gezien het advies van de Commissie schoenmakerij;
 Besluit:
@@ -23,7 +23,7 @@ a.de ondernemer: degene die een onderneming drijft, dan wel degenen die gezamenl
 
 b.de voorzitter: de voorzitter van het Hoofdbedrijfschap Ambachten;
 
-c.bestemmingsheffing: heffing die gebaseerd is op [artikel 9, tweede lid, van het Instellingsbesluit Hoofdbedrijfschap Ambachten](../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/ambachten/BWBR0015845/README.md).
+c.bestemmingsheffing: heffing die gebaseerd is op artikel 9, tweede lid, van het Instellingsbesluit Hoofdbedrijfschap Ambachten.
 
 ###Artikel 2 
 Materieel uitgewerkt per 25-12-2009 
@@ -54,7 +54,7 @@ Materieel uitgewerkt per 25-12-2009
 
 1. Bij cumulatie van onderhavige bestemmingsheffing met een of meer andere aan het Hoofdbedrijfschap Ambachten te betalen bestemmingsheffingen, wordt de heffing tot nihil verminderd, indien de uitoefening van het schoenherstellersbedrijf kan worden aangemerkt als een nevenactiviteit ten opzichte van die andere bedrijfsuitoefening of bedrijfsuitoefeningen waarvoor een bestemmingsheffing is opgelegd.
 2. De vermindering wordt alleen toegepast ten aanzien van de onderneming waarin één persoon alle bedrijven uitoefent waarvoor bestemmingsheffingen zijn opgelegd.
-3. Het eerste lid wordt niet toegepast bij cumulatie met de bestemmingsheffing op grond van de [Verordening bestemmingsheffing schoenherstellersbedrijf 2009](../../../../../../../pbo/verordening/bestemmingsheffing/schoenherstellersbedrijf/2009/BWBR0026657/README.md).
+3. Het eerste lid wordt niet toegepast bij cumulatie met de bestemmingsheffing op grond van de Verordening bestemmingsheffing schoenherstellersbedrijf 2009.
 
 ###Artikel 5 
 Materieel uitgewerkt per 25-12-2009 
@@ -70,7 +70,7 @@ Materieel uitgewerkt per 25-12-2009
 ###Artikel 6 
 Materieel uitgewerkt per 25-12-2009 
 
-De [artikelen 5 tot en met 14 van de Heffingsverordening Hoofdbedrijfschap Ambachten 2009](../../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/ambachten/2009/BWBR0025541/README.md) zijn van overeenkomstige toepassing.
+De artikelen 5 tot en met 14 van de Heffingsverordening Hoofdbedrijfschap Ambachten 2009 zijn van overeenkomstige toepassing.
 
 ###Artikel 7 
 Materieel uitgewerkt per 25-12-2009 

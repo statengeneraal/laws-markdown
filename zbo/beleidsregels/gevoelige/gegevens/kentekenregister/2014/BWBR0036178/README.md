@@ -1,41 +1,35 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Beleidsregels gevoelige gegevens kentekenregister 2015
+##Beleidsregels gevoelige gegevens kentekenregister 2014
 
-De directie van de Dienst Wegverkeer (RDW),
+De directie van de Dienst Wegverkeer (DW),
 
 Gelet op artikel 42a, vierde lid van de Wegenverkeerswet 1994 en artikel 7, tweede lid, van het Kentekenreglement en artikel 4:81 van de Algemene wet bestuursrecht;
-BESLUIT:    
+Besluit:    
 
 ### Artikel  1  
-Treedt in werking per 21-01-2015 
 
 Als gevoelige gegevens, als bedoeld in artikel 42a, eerste lid, onderdeel b, van de Wegenverkeerswet 1994 en artikel 7, tweede lid van het Kentekenreglement, worden de in de bijlage bij dit besluit genoemde gegevens uit het kentekenregister aangewezen. 
 
 ### Artikel  2  
-Treedt in werking per 21-01-2015 
 
 Deze beleidsregels treden in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij worden geplaatst. 
 
 ### Artikel  3  
-Treedt in werking per 21-01-2015 
 
-Deze beleidsregels worden aangehaald als: Beleidsregels gevoelige gegevens kentekenregister 2014. Deze beleidsregels zullen met de toelichting in de Staatscourant worden geplaatst. 
+Deze beleidsregels worden aangehaald als: Beleidsregels gevoelige gegevens kentekenregister 2014 Deze beleidsregels zullen met de toelichting in de Staatscourant worden geplaatst. 
 
 ### Artikel  4  
-Treedt in werking per 21-01-2015 
 
 De Beleidsregels gevoelige gegevens kentekenregister (Staatscourant 2009, nr. 21) worden ingetrokken. 
 
 De directie van de RDW, 
-A. van Ravestein,  
+A. van Ravestein  
 Algemeen directeur   
 
 ### Bijlage  
 
 ####Gevoelige gegevens kentekenregister
-
-Treedt in werking per 21-01-2015 
 
 Als gevoelige gegevens conform het bepaalde in de Wegenverkeerswet 1994, artikel 42a, vierde lid, en het Kentekenreglement (KR), artikel 7, tweede lid, onderdeel a, zijn aangewezen: Persoonsgegevens als bedoeld in artikel 1, onderdeel a, van de Wet bescherming persoonsgegevens; (Wbp, art.1, a: Elk gegeven betreffende een geïdentificeerde of identificeerbare natuurlijke persoon)  
 
@@ -68,7 +62,7 @@ Als gevoelige gegevens conform het bepaalde in de Wegenverkeerswet 1994, artikel
 | --- | NAAM-VERZENDING NAAM VERANTWOORDELYKE  |
 | --- | NAME  |
 | --- | NAME OF SIGNER  |
-| --- | --- |
+| --- |
 | VOORVOEGSELS  | VOORVOEGSELS AANVRAGER INFOVERSTREKKING  |
 | --- | VOORVOEGSELS NAAM AMBTENAAR  |
 | --- | VOORVOEGSELS NAAM ECHTGENOOT  |
@@ -84,7 +78,7 @@ Als gevoelige gegevens conform het bepaalde in de Wegenverkeerswet 1994, artikel
 | --- | VOORVOEGSELS REGISTER OVERTREDINGEN DIAKRIETEN  |
 | --- | VOORVOEGSELS GEREGISTREERD 7-DAAGS KENTEKEN BEWYS  |
 | --- | VOORVOEGSELS STATUS VOERTUIG  |
-| --- | --- |
+| --- |
 | VOORLETTERS  | VOORLETTERS AANVRAGER INFOVERSTREKKING  |
 | --- | VOORLETTERS KEURMEESTER  |
 | --- | VOORLETTERS NATUURLYKE PERSOON  |
@@ -95,11 +89,11 @@ Als gevoelige gegevens conform het bepaalde in de Wegenverkeerswet 1994, artikel
 | --- | VOORLETTERS GEREGISTREERD 7-DAAGS KENTEKENBEWYS  |
 | --- | VOORLETTERS REGISTRATIE INDICATOR  |
 | --- | VOORLETTERS STATUS VOERTUIG  |
-| --- | --- |
+| --- |
 | VOORNAMEN  | EERSTE VOORNAAM NATUURLYKE PERSOON  |
 | --- | EERSTE VOORNAAM NATUURLYKE PERSOON MET DIAKRIETEN  |
 | --- | VOORNAMEN NATUURLYK PERSOON  |
-| --- | --- |
+| --- |
 | STRAAT  | EXTRACTIE STRAAT VANUIT NEN-SCHRYFWYZE  |
 | --- | EXTRACTIE STRAATNAAM  |
 | --- | STRAAT  |
@@ -113,7 +107,7 @@ Als gevoelige gegevens conform het bepaalde in de Wegenverkeerswet 1994, artikel
 | --- | STRAATNAAM VOLUIT MET DIAKRIETEN  |
 | --- | STRAATNAAM VOLUIT  |
 | --- | STRAATNAAM IN VERBAND MET STEEKPROEF  |
-| --- | --- |
+| --- |
 | HUISNUMMER  | HUISNUMMER AANVRAGER INFOVERSTREKKING  |
 | --- | HUISNUMMER VAN ADRES  |
 | --- | HUISNUMMER AFWYKEND ADRES  |
@@ -128,14 +122,14 @@ Als gevoelige gegevens conform het bepaalde in de Wegenverkeerswet 1994, artikel
 | --- | HUISNUMMERTOEVOEGING PERSOON  |
 | --- | HUISNUMMERTOEVOEGING CORRESPONDENTIEADRES PERSOON  |
 | --- | HUISNUMMERTOEVOEGING IN VERBAND MET STEEKPROEF  |
-| --- | --- |
+| --- |
 | ADRESAANDUIDING  | ADRES-DIAKRIETEN INDICATOR  |
 | --- | ADRES FORMAATCODE  |
 | --- | AFWYKEND ADRES INDICATOR  |
 | --- | EINDDATUM ADRES  |
 | --- | SOORT ADRES  |
 | --- | WOONWAGEN/AAN BOORD VERWYZING ADRES  |
-| --- | --- |
+| --- |
 | POSTCODE  | POSTCODE ALFABETISCH AANVRAGER INFORMATIEVERSTREKKING  |
 | --- | POSTCODE ALFABETISCH VAN ADRES  |
 | --- | POSTCODE ALFABETISCH AFWYKEND ADRES  |
@@ -145,7 +139,7 @@ Als gevoelige gegevens conform het bepaalde in de Wegenverkeerswet 1994, artikel
 | --- | POSTCODE ALFABETISCH CORRESPONDENTIEADRES PERSOON  |
 | --- | POSTCODE ALFABETISCH DEEL IN VERBAND MET STEEKPROEF  |
 | --- | POSTCODE ALFABETISCH STATUS VOERTUIG  |
-| --- | --- |
+| --- |
 | --- | POSTCODE NUMERIEK AANVRAGER INFOVERSTR  |
 | --- | POSTCODE NUMERIEK VAN ADRES  |
 | --- | POSTCODE NUMERIEK AFWYKEND ADRES  |
@@ -155,10 +149,10 @@ Als gevoelige gegevens conform het bepaalde in de Wegenverkeerswet 1994, artikel
 | --- | POSTCODE NUMERIEK CORRESPONDENTIEADRES PERSOON  |
 | --- | POSTCODE NUMERIEK DEEL IN VERBAND MET STEEKPROEF  |
 | --- | POSTCODE NUMERIEK STATUS VOERTUIG  |
-| --- | --- |
+| --- |
 | WOONPLAATS  | EXTRACT WOONPLAATSNAAM  |
 | --- | EXTRACT WOONPLAATS VANUIT NEN-SCHRYFWYZE  |
-| --- | --- |
+| --- |
 | --- | GEMEENTECODE WOONPLAATS  |
 | --- | GEMEENTECODE PERSOONSLYST  |
 | --- | GEMEENTECODE  |
@@ -180,40 +174,40 @@ Als gevoelige gegevens conform het bepaalde in de Wegenverkeerswet 1994, artikel
 | --- | WOONPLAATSREGEL PERSOON INVERBAND MET BYZONDER KENTEKEN  |
 | --- | WOONPLAATSREGEL POSTADRES CSO  |
 | --- | WOONPLAATSREGEL VEST ADRES CSO  |
-| --- | --- |
+| --- |
 | PROVINCIE  | PROVINCIECODE  |
 | --- | PROVINCIECODE BY GEMEENTE  |
 | --- | PROVINCIECODE BY WOONPLAATS  |
-| --- | --- |
+| --- |
 | LAND  | COUNTRY OF RESIDENCE  |
 | --- | LANDCODE ROUTEPUNT  |
 | --- | LANDCODE OF ORGANISATIECODE PERSOON BYZONDER KENTEKEN  |
 | --- | LANDCODE VAN ADRES  |
 | --- | LANDREGEL  |
-| --- | --- |
+| --- |
 | GEBOORTEDATUM  | GEBOORTEDATUM NATUURLYKE PERSOON  |
 | --- | GEBOORTEDATUM NATUURLYKE PERSOON IN SLEUTEL  |
 | --- | GEBOORTEDATUM PERSOON IN VERBAND MET BYZONDER KENTEKEN  |
 | --- | GEBOORTEDATUM PERSOON VOERTUIGDOCUMENT AANVRAGER  |
 | --- | GEBOORTEDATUM REGISTRATIE OVERTREDING  |
-| --- | --- |
+| --- |
 | GEBOORTEPLAATS  | GEBOORTEPLAATS BUITENLAND DIAKRIETEN  |
 | --- | GEBOORTEPLAATS BUITENLAND/COORDINATEN  |
 | --- | GEBOORTEPL PERSOON IN VERBAND MET VERKLARING  |
-| --- | --- |
+| --- |
 | GESLACHT  | GESLACHTSAANDUIDING NATUURLYKE PERSOON  |
 | --- | GESLACHTSAANDUIDING REGISTER OVERTREDING  |
-| --- | --- |
+| --- |
 | ADELLIJKE TITEL  | ADELLYKE TITEL/PREDICAAT ECHTGENOOT  |
 | --- | ADELLYKE TITEL/PREDICAAT NATUURLYKE PERSOON  |
 | --- | TITEL PERSOON MET BYZONDER KENTEKEN  |
-| --- | --- |
+| --- |
 | BURGERLIJKE STAAT  | BURGERLYKE STAAT NATUURLYKE PERSOON  |
-| --- | --- |
+| --- |
 | OVERLIJDEN  | EINDDATUM NATUURLYK PERSOON  |
 | --- | REDEN MUTATIE NATUURLYKE PERSOON  |
 | --- | REDEN BEEINDIGING NATUURLYKE PERSOON  |
-| --- | --- |
+| --- |
 | STATUS PERSOON  | AANSPRAKELYKE REFERENTIE IN AANVRAAG  |
 | --- | AANSPRAKELYKE REFERENTIE AANSPRAAK TOEVOEGING  |
 | --- | BEGINDATUM STATUS PERSOON  |
@@ -226,10 +220,10 @@ Als gevoelige gegevens conform het bepaalde in de Wegenverkeerswet 1994, artikel
 | --- | STATUS BEVINDING  |
 | --- | STATUS PERSOON  |
 | --- | WET OPENBAAR BESTUUR BLOKKADE DATUM  |
-| --- | --- |
+| --- |
 | BANKNUMMER  | BANK- OF GIRONUMMER PERSOON  |
 | --- | BANKNUMMER PERSOON  |
-| --- | --- |
+| --- |
 | PERSOONSNUMMER  | BURGER SERVICENUMMER  |
 | --- | BURGER SERVICENR REGISTER OVERTREDING  |
 | --- | FISCAAL NUMMER  |
@@ -247,9 +241,9 @@ Als gevoelige gegevens conform het bepaalde in de Wegenverkeerswet 1994, artikel
 | --- | PERSOONSNUMMER IN VERBAND MET BYZONDER KENTEKEN  |
 | --- | PERSOONSNUMMER BY BYZONDERE TENAAMSTELLING  |
 | --- | PERSOONSLEUTEL IN VERBAND MET STATUS  |
-| --- | --- |
+| --- |
 | TELEFOONNUMMER  | TELEFOONNUMMER CONTACTPERSOON STATUS VOERTUIG  |
-| --- | --- |
+| --- |
 | LEGITIMATIEMIDDEL  | HERKOMST LEGITIMATIEBEWYS AANVRAGER  |
 | --- | HERKOMST LEGITIMATIEBEWIJS BY STATUS VOERTUIG  |
 | --- | HERKOMST LEGITIMATIE GEMACHTIGDE  |
@@ -267,7 +261,7 @@ Als gevoelige gegevens conform het bepaalde in de Wegenverkeerswet 1994, artikel
 | --- | SOORT LEGITIMATIEMIDDEL  |
 | --- | STATUS DATUM LEGITIMATIEMIDDEL  |
 | --- | STATUS LEGITIMATIEMIDDEL  |
-| --- | --- |
+| --- |
 | NATIONALITEIT  | AUTORITEITCODE GEBOORTELAND  |
 | --- | AUTORITEITCODE GEBOORTEPLAATS  |
 | --- | AUTORITEITCODE GEBOORTEPLAATS VOOR MUTATIE  |
@@ -278,7 +272,7 @@ Als gevoelige gegevens conform het bepaalde in de Wegenverkeerswet 1994, artikel
 | --- | ISO NATIONALITEITOMSCHRYVING  |
 | --- | NATIONALITEITEN  |
 | --- | NATIONALITEIT NATUURLYKE PERSOON  |
-| --- | --- |
+| --- |
 | AANSPRAKELIJKHEID  | AANTAL 1E TENAAMSTELLINGEN NATUURLYK PERSOON  |
 | --- | AFGIFTEDATUM VERKLARING  |
 | --- | BEGINDATUM AANSPRAKELYKE SLEUTEL  |
@@ -293,7 +287,7 @@ Als gevoelige gegevens conform het bepaalde in de Wegenverkeerswet 1994, artikel
 | --- | REGISTRATIETYD AANSPRAKELYKE REGISTER OVERTREDING  |
 | --- | REGISTRATIETYD PERSOONS MUTATIE  |
 | --- | VRYSTELLINGSCODE BYZONDER KENTEKEN TENAAMSTELLING  |
-| --- | --- |
+| --- |
 | OVERIGE GEVOELIGE PERSOONSGEGEVENS  | BEGINDATUM INFORMATIEVERWERKINGS PROCES  |
 | --- | BYDRAGE VOOR KEURINGSINSTANTIE BY BEVINDING  |
 | --- | BYDRAGENTOTAAL BEVINDINGEN  |
@@ -329,10 +323,10 @@ Als gevoelige gegevens conform het bepaalde in de Wegenverkeerswet 1994, artikel
 | --- | NAAM VERANTWOORDELYK NIET NATUURLYK PERSOON  |
 | --- | VENNOOTSCHAPSNAAM VERKORT  |
 | --- | VENNOOTSCHAPSNAAM VOLLEDIG  |
-| --- | --- |
+| --- |
 | STRAAT  | STRAAT HANDELAAR  |
 | --- | STRAATNAAM INGESCHREVENE KVK  |
-| --- | --- |
+| --- |
 | HUISNUMMER  | HUISNUMMER ADRES PERSOON MET BYZONDER KENTEKEN  |
 | --- | HUISNUMMER CORRESPONDENTIE-ADRES AANVRAGEND BEDRYF  |
 | --- | HUISNUMMER CORRESPONDENTIE-ADRES BEDRYF  |
@@ -350,7 +344,7 @@ Als gevoelige gegevens conform het bepaalde in de Wegenverkeerswet 1994, artikel
 | --- | HUISNUMMERTOEVOEGING ADRES RECHTSPERSOON  |
 | --- | HUISNUMMERTOEVOEGING PERSOON MET BYZONDER KENTEKEN  |
 | --- | HUISNUMMERTOEVOEGING VERPLICHTINGENNEMER CORR.-ADR  |
-| --- | --- |
+| --- |
 | POSTCODE  | POSTCODE ALFABETISCH CORRESPONDENTIE-ADRES BEDRYF  |
 | --- | POSTCODE ALFABETISCH HANDELAAR  |
 | --- | POSTCODE ALFABETISCH IMPORTEUR  |
@@ -363,15 +357,15 @@ Als gevoelige gegevens conform het bepaalde in de Wegenverkeerswet 1994, artikel
 | --- | POSTCODE NUMERIEK CORRESPONDENTIE-ADRES IMPORTEUR  |
 | --- | POSTCODE NUMERIEK INGESCHREVENE KVK  |
 | --- | POSTCODE NUMERIEK VERPLICHTINGENNEMER CORR.- ADRES  |
-| --- | --- |
+| --- |
 | WOONPLAATS  | WOONPLAATSNAAM INGESCHREVENE KVK  |
 | --- | WOONPLAATS PERSOON INVERBAND MET KENTEKEN  |
 | --- | WOONPLAATSREGEL GEREGISTREERDE 7-DAAGS KENTEKENBEWYS  |
-| --- | --- |
+| --- |
 | LAND  | LANDCODE PERSOON MET BYZONDER KENTEKEN  |
 | --- | LANDCODE NIET FABRIKANT KLANT  |
 
-2°. datum van oprichting en opheffing van een rechtspersoon;  
+2° : datum van oprichting en opheffing van een rechtspersoon;  
 
 | --- | --- |
 |:---|:---|
@@ -379,7 +373,7 @@ Als gevoelige gegevens conform het bepaalde in de Wegenverkeerswet 1994, artikel
 | --- | BEGIN DATUM/TYD NIET NATUURLYK PERSOON  |
 | --- | PERIODE AANDUIDING KENTEKEN HANDELAAR  |
 | --- | STARTDATUM BEDRYF  |
-| --- | --- |
+| --- |
 | EINDE RECHTSPERSOON  | EINDDATUM INSCHRYVING KVK NIET NATUURLYK PERSOON  |
 | --- | EIND DATUM/TYD NIET NATUURLYK PERSOON  |
 | --- | EINDDATUM NIET NATUURLYK PERSOON  |
@@ -406,7 +400,7 @@ Als gevoelige gegevens conform het bepaalde in de Wegenverkeerswet 1994, artikel
 | --- | SBI CODE (STANDAARD BEDRIJFSINDELING 2008 CODE)  |
 | --- | SBI CODE NIET NATUURLYK PERSOON  |
 | --- | SBI CODE NIET NATUURLYK PERSOON LOCATIE  |
-| --- | --- |
+| --- |
 | RECHTSPERS. NUMMERS  | BEDRYFNUMMER VAN KEURINGSINSTANTIE  |
 | --- | BEDRYFNUMMER AANVRAGER NATIONALE AUTOPAS  |
 | --- | BEDRYFNUMMER KOOPINTENTIE  |
@@ -418,7 +412,7 @@ Als gevoelige gegevens conform het bepaalde in de Wegenverkeerswet 1994, artikel
 | --- | RSIN (RECHTSP. SAMENW.VERBANDEN INFO NR) NIET NATUURLYK PERS  |
 | --- | VERPLICHTINGNEMER NUMMER  |
 | --- | VERPLICHTINGENNEMER NUMMER VERPLICHTINGEN  |
-| --- | --- |
+| --- |
 | BEDRIJFSCODERING  | BEVOEGDHEIDSCODE BEDRYF  |
 | --- | BEVOEGDHEIDCODE BEDRYF BY VOERTUIGVERPLICHTINGEN  |
 | --- | FABRIKANTCODE  |
@@ -430,7 +424,7 @@ Als gevoelige gegevens conform het bepaalde in de Wegenverkeerswet 1994, artikel
 | --- | NIET NATUURLYK PERSOON SLEUTEL RECHTSP  |
 | --- | SLEUTEL VOERTUIG REFERENTIE  |
 | --- | TOESTEMMINGS CODES BEDRYF  |
-| --- | --- |
+| --- |
 | TELEFOONNUMMER  | TELEFOONNUMMER BEDRYF  |
 | --- | TELEFOONNUMMER IMPORTEUR  |
 | --- | TELEFOONNUMMER VERPLICHTINGENNEMER  |
@@ -460,7 +454,7 @@ Als gevoelige gegevens conform het bepaalde in de Wegenverkeerswet 1994, artikel
 | --- | STATUS IMPORTEUR  |
 | --- | STATUS KAMER VAN KOOPHANDEL MUTATIE  |
 | --- | VERZAMELSTAATNUMMER BUREAU FINANCIEN VEENDAM (F&C-RDW)  |
-| --- | --- |
+| --- |
 | OVERIGE COCURRENTIE GEVOELIGE GEGEVENS  | AANTAL 1E TENAAMST RECHTSPERSOON  |
 | --- | AANTAL VOERTUIGEN VERKOCHT NATUURLYK PERSOON  |
 | --- | AANTAL VOERTUIGEN VERKOCHT RECHTSPERSOON  |
@@ -532,7 +526,7 @@ Als gevoelige gegevens conform het bepaalde in de Wegenverkeerswet 1994, artikel
 | --- | BEGIN VRYWARINGSREEKS  |
 | --- | EINDE VRYWARINGSREEKS  |
 | --- | VRYWARINGSNUMMER HANDELAAR  |
-| --- | --- |
+| --- |
 | IDENTIFICATIE VOERTUIG  | BASE VIN (VEHICLE IDENTIFICATION NUMBER)  |
 | --- | CHASSIS VOLGNUMMER VERWYZING  |
 | --- | MONTAGEDATUM  |
@@ -607,7 +601,7 @@ Als gevoelige gegevens conform het bepaalde in de Wegenverkeerswet 1994, artikel
 | --- | DATUM ERKENNING HOUDER  |
 | --- | EINDDAT STATUS BEVOEGDHEID BEDRYF  |
 | --- | VERLOOPDATUM BEVOEGDHEID BEDRYF  |
-| --- | --- |
+| --- |
 | TRANSACTIECODES  | BKR-GEBRUIK INDICATOR  |
 | --- | GEOGRAFISCH ZOEKARGUMENT  |
 | --- | LOCATIEREGEL  |
@@ -654,7 +648,7 @@ Als gevoelige gegevens conform het bepaalde in de Wegenverkeerswet 1994, artikel
 | --- | STATUS VOERTUIG EINDDATUM  |
 | --- | STATUS VOERTUIGKERN  |
 | --- | TELEFOONNUMMER STATUS VOERTUIG  |
-| --- | --- |
+| --- |
 | TELLERSTAND  | AFWYKENDE MAXIMALE TELLERSTAND  |
 | --- | KILOMETERSTAND BIJ KEURING  |
 | --- | LAATSTE TELLER STAND NAT AUTOP  |
@@ -662,7 +656,7 @@ Als gevoelige gegevens conform het bepaalde in de Wegenverkeerswet 1994, artikel
 | --- | OPMERKING BYZONDERHEID TELLERSTAND  |
 | --- | TELLERSTAND  |
 | --- | TELLERSTAND OORSPRONKELYK  |
-| --- | --- |
+| --- |
 | ELDERS OPGENOMEN INZAKE TELLERSTAND  | BEDRYFSNUMMER TELLERSTAND  |
 | --- | BEDRYFSNUMMER TELLERST OORSPRONKELYK  |
 | --- | CODE BRON TELLERSTAND  |
@@ -674,7 +668,7 @@ Als gevoelige gegevens conform het bepaalde in de Wegenverkeerswet 1994, artikel
 | --- | REGISTRATIETYD TELLERSTAND BY BYZONDERHEID  |
 | --- | REGISTRATIETYD TELLERSTAND  |
 | --- | STATUSCODE TELLERSTAND  |
-| --- | --- |
+| --- |
 | OVERIGE FRAUDE GEVOELIGE GEGEVENS  | AFWYKENDE FISCALE CATEGORIE  |
 | --- | DATUM GELDIG VAN 7-DAAGS KENTEKENBEWIJS  |
 | --- | BEGINDATUM VERSTREKKINGS VOORBEHOUD  |

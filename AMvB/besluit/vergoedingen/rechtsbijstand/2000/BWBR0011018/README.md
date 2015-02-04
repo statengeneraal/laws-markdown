@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Justitie van 23 september 1999, nr. 78770/99/6;
 
-Gelet op de [artikelen 37](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md), [39](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md) en [41 van de Wet op de rechtsbijstand](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md);
+Gelet op de artikelen 37, 39 en 41 van de Wet op de rechtsbijstand;
 
 De Raad van State gehoord (advies van 30 november 1999, nr. WO3.99.0493/I);
 
@@ -20,7 +20,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder: 
 
-a. wet: de [Wet op de rechtsbijstand](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md);  
+a. wet: de Wet op de rechtsbijstand;  
 
 b. procedure: 
 
@@ -32,11 +32,11 @@ b. procedure:
 
 – het bestuursorgaan dat in administratief beroep oordeelt,  
 
-– het bestuursorgaan dat op grond van de [Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) oordeelt over een bezwaar,  
+– het bestuursorgaan dat op grond van de Algemene wet bestuursrecht oordeelt over een bezwaar,  
 
-– de regionaal directeur voor de arbeidsvoorziening in het kader van het geven van een oordeel over een ontslagvergunning op grond van [artikel 6 van het Buitengewoon Besluit Arbeidsverhoudingen 1945](../../../../../../KB/buitengewoon/besluit/arbeidsverhoudingen/1945/BWBR0002014/README.md),  
+– de regionaal directeur voor de arbeidsvoorziening in het kader van het geven van een oordeel over een ontslagvergunning op grond van artikel 6 van het Buitengewoon Besluit Arbeidsverhoudingen 1945,  
 
-– de huurcommissie die oordeelt in het kader van de [Huurprijzenwet woonruimte](../../../../../../wet/huurprijzenwet/woonruimte/BWBR0003221/README.md),  
+– de huurcommissie die oordeelt in het kader van de Huurprijzenwet woonruimte,  
 
 – de instantie die oordeelt over een geschil dat is onderworpen aan arbitrage of bindend advies,  
 
@@ -44,23 +44,23 @@ b. procedure:
 
 – de Minister voor Immigratie en Asiel in het kader van het inbrengen van een zienswijze op het voornemen om: 
 
-1. een beslissing te nemen met betrekking tot de aanvraag tot het verlenen van een verblijfsvergunning voor onbepaalde tijd als bedoeld in [artikel 33, onderdeel a, van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md);  
+1. een beslissing te nemen met betrekking tot de aanvraag tot het verlenen van een verblijfsvergunning voor onbepaalde tijd als bedoeld in artikel 33, onderdeel a, van de Vreemdelingenwet 2000;  
 
-2. een beslissing te nemen met betrekking tot de aanvraag tot het verlengen van de geldigheidsduur van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 28, eerste lid, onderdeel b, van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md); dan wel  
+2. een beslissing te nemen met betrekking tot de aanvraag tot het verlengen van de geldigheidsduur van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28, eerste lid, onderdeel b, van de Vreemdelingenwet 2000; dan wel  
 
-3. een verblijfsvergunning als bedoeld in de artikelen [28, eerste lid, onderdeel c](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), en [33, onderdeel b, van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) in te trekken;    
+3. een verblijfsvergunning als bedoeld in de artikelen 28, eerste lid, onderdeel c, en 33, onderdeel b, van de Vreemdelingenwet 2000 in te trekken;    
 
-2.de behandeling door de Minister voor Immigratie en Asiel van de aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 28, eerste lid, onderdeel a, van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), waaronder mede wordt begrepen de aan de aanvraag voorafgaande termijn, bedoeld in [artikel 3.109, eerste lid, van het Vreemdelingenbesluit 2000](../../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md);  
+2.de behandeling door de Minister voor Immigratie en Asiel van de aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28, eerste lid, onderdeel a, van de Vreemdelingenwet 2000, waaronder mede wordt begrepen de aan de aanvraag voorafgaande termijn, bedoeld in artikel 3.109, eerste lid, van het Vreemdelingenbesluit 2000;  
 
 c. advieszaak: een zaak op het terrein van het tuchtrecht of het burgerlijk of bestuursrecht die geen procedure is;  
 
-d. strafzaak: een strafzaak jegens een verdachte als bedoeld in [artikel 27 van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en een andere zaak die in de bijlage als strafrechtelijke zaak is aangemerkt;  
+d. strafzaak: een strafzaak jegens een verdachte als bedoeld in artikel 27 van het Wetboek van Strafvordering en een andere zaak die in de bijlage als strafrechtelijke zaak is aangemerkt;  
 
 e. piketzaak: een zaak waarin een rechtsbijstandverlener rechtsbijstand heeft verleend in het kader van een door het bestuur getroffen regeling voor het beurtelings verlenen van rechtsbijstand in de gevallen, bedoeld in de artikelen 23 en 23a.   
 
 ### Artikel  2  
 
-1.  Rechtsbijstandverleners ontvangen overeenkomstig de bepalingen van dit besluit een vergoeding voor de verlening van rechtsbijstand op basis van een toevoeging als bedoeld in [artikel 37 van de wet](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md) alsmede voor de verlening van rechtsbijstand in een piketzaak.   
+1.  Rechtsbijstandverleners ontvangen overeenkomstig de bepalingen van dit besluit een vergoeding voor de verlening van rechtsbijstand op basis van een toevoeging als bedoeld in artikel 37 van de wet alsmede voor de verlening van rechtsbijstand in een piketzaak.   
 2.  De vergoeding, bedoeld in het eerste lid, omvat: 
 
 a. de overeenkomstig dit besluit vastgestelde vergoeding voor het verrichten van juridische werkzaamheden voor de zaak;  
@@ -72,7 +72,7 @@ c. de omzetbelasting die is verschuldigd over de vergoedingen, bedoeld onder a e
 
 ### Artikel  3  
 
-1.  Het basisbedrag bedraagt € 105,96.   
+1.  Het basisbedrag bedraagt € 105,61.   
 2.  Het basisbedrag en de vergoeding, bedoeld in artikel 27, eerste lid, worden jaarlijks met ingang van 1 januari door Onze Minister gewijzigd met een percentage dat overeenkomt met 0,6 x (A – B) + (0,4 x C), waarbij: 
 
 a. A gelijk is aan het procentuele verschil tussen het indexcijfer van de CAO-lonen per uur, inclusief de bijzondere beloningen van het jaargemiddelde van het jaar t-2 en het daaraan voorafgaande jaargemiddelde, zoals die door het Centraal Bureau voor de Statistiek zijn bekendgemaakt;  
@@ -82,11 +82,12 @@ b. B gelijk is aan het procentuele verschil tussen het indexcijfer van de arbeid
 c. C gelijk is aan het procentuele verschil tussen de consumentenprijsindexcijfers voor alle huishoudens op de meest recente tijdsbasis van het jaargemiddelde van het jaar t-2 en het daaraan voorafgaande jaargemiddelde, zoals die door het Centraal Bureau voor de Statistiek zijn bekendgemaakt, en  
 
 d. onder t-2 wordt verstaan het tweede jaar voorafgaand aan het jaar waarin de gewijzigde bedragen zullen gelden.     
-3.  De vaststelling van de vergoeding, bedoeld in het eerste lid van artikel 2, vindt plaats met toepassing van het basisbedrag en de vergoedingen, bedoeld in de artikelen 25 en 27, eerste lid, die golden ten tijde van de afgifte van de toevoeging op grond waarvan de rechtsbijstand is verleend of het tijdstip waarop rechtsbijstand is verleend in een piketzaak.  
+3.  De vaststelling van de vergoeding, bedoeld in het eerste lid van artikel 2, vindt plaats met toepassing van het basisbedrag en de vergoedingen, bedoeld in de artikelen 25 en 27, eerste lid, die golden ten tijde van de afgifte van de toevoeging op grond waarvan de rechtsbijstand is verleend of het tijdstip waarop rechtsbijstand is verleend in een piketzaak.   
+4.  In de periode tot 1 januari 2019 wordt geen toepassing gegeven aan het tweede lid. 
 
 ### Artikel  4  
 
-1.  De rechtsbijstandverlener brengt aan de rechtzoekende de eigen bijdrage die deze overeenkomstig [artikel 35 van de wet](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md) verschuldigd is, in rekening.   
+1.  De rechtsbijstandverlener brengt aan de rechtzoekende de eigen bijdrage die deze overeenkomstig artikel 35 van de wet verschuldigd is, in rekening.   
 2.  De rechtsbijstandverlener mag voorts aan de rechtzoekende geen andere kosten in rekening brengen dan die ter zake van: 
 
 a. griffierechten;  
@@ -111,26 +112,25 @@ e. rolverrichtingen in zaken die door de kantonrechter van de rechtbank worden b
 ### Artikel  5  
 
 1.  Aan een procedure wordt het aantal punten toegekend dat in de bijlage voor het desbetreffende rechtsterrein of soort zaak is bepaald.   
-2.  In afwijking van het eerste lid worden twee punten toegekend indien de procedure door de in artikel 1, onderdeel b, bedoelde instantie wordt beëindigd door de beslissing kennelijk niet bevoegd, kennelijk niet-ontvankelijk, kennelijk gegrond of kennelijk ongegrond.  
-3.  Indien de procedure is beëindigd voordat de in artikel 1 bedoelde instantie uitspraak of tussenuitspraak heeft gedaan of een beslissing heeft genomen dan wel voordat de rechtsbijstandverlener een zitting als bedoeld in het eerste lid van artikel 7 heeft bijgewoond, zijn de artikelen 12 en 13, tweede lid, van overeenkomstige toepassing.   
-4.  Indien ten tijde van de beëindiging van de procedure uitsluitend een bestuursrechtelijke uitspraak over de proceskosten is gedaan, zijn de artikelen 12 en 13, tweede lid, van overeenkomstige toepassing.   
-5.  In de gevallen, bedoeld in het derde en vierde lid, zijn de overige bepalingen van deze paragraaf niet van toepassing.  
+2.  Indien de procedure is beëindigd voordat de in artikel 1 bedoelde instantie uitspraak of tussenuitspraak heeft gedaan of een beslissing heeft genomen dan wel voordat de rechtsbijstandverlener een zitting als bedoeld in het eerste lid van artikel 7 heeft bijgewoond, zijn de artikelen 12 en 13, tweede lid, van overeenkomstige toepassing.   
+3.  Indien ten tijde van de beëindiging van de procedure uitsluitend een bestuursrechtelijke uitspraak over de proceskosten is gedaan, zijn de artikelen 12 en 13, tweede lid, van overeenkomstige toepassing.   
+4.  In de gevallen, bedoeld in het tweede en derde lid, zijn de overige bepalingen van deze paragraaf niet van toepassing.  
 
 ### Artikel  5a  
 
-1.  In afwijking van artikel 5, eerste en derde tot en met vijfde lid, wordt aan een procedure in het kader van de aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 28, eerste lid, onderdeel a, van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) een vergoeding toegekend van: 
+1.  In afwijking van artikel 5, wordt aan een procedure in het kader van de aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28, eerste lid, onderdeel a, van de Vreemdelingenwet 2000 een vergoeding toegekend van: 
 
-a. vier punten, voor verleende rechtsbijstand gedurende de in [artikel 3.109 van het Vreemdelingenbesluit 2000](../../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) bedoelde termijn tot en met het in [artikel 3.113, derde lid, van dat besluit](../../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) bedoelde ter kennis brengen van een afschrift van het verslag nader gehoor;  
+a. vier punten, voor verleende rechtsbijstand gedurende de in artikel 3.109 van het Vreemdelingenbesluit 2000 bedoelde termijn tot en met het in artikel 3.113, derde lid, van dat besluit bedoelde ter kennis brengen van een afschrift van het verslag nader gehoor;  
 
-b. vier punten, voor verleende rechtsbijstand gedurende de in [artikel 3.113, vierde lid, van het Vreemdelingenbesluit 2000](../../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) bedoelde verstrekking van nadere gegevens tot en met het in [artikel 3.114, eerste lid, van dat besluit](../../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) bedoelde uitreiken of toezenden van het schriftelijk voornemen tot afwijzen;  
+b. vier punten, voor verleende rechtsbijstand gedurende de in artikel 3.113, vierde lid, van het Vreemdelingenbesluit 2000 bedoelde verstrekking van nadere gegevens tot en met het in artikel 3.114, eerste lid, van dat besluit bedoelde uitreiken of toezenden van het schriftelijk voornemen tot afwijzen;  
 
-c. vier punten, voor verleende rechtsbijstand gedurende de in [artikel 3.114, tweede lid, van het Vreemdelingenbesluit 2000](../../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) bedoelde zienswijze tot en met de in artikel 3.114, zesde lid, van dat besluit bedoelde bekendmaking van de beschikking.     
-2.  Indien toepassing wordt gegeven aan [artikel 3.116, eerste lid, onderdeel a, van het Vreemdelingenbesluit 2000](../../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) is het eerste lid van overeenkomstige toepassing, met dien verstande dat een aanvullende vergoeding wordt toegekend van twee punten.   
+c. vier punten, voor verleende rechtsbijstand gedurende de in artikel 3.114, tweede lid, van het Vreemdelingenbesluit 2000 bedoelde zienswijze tot en met de in artikel 3.114, zesde lid, van dat besluit bedoelde bekendmaking van de beschikking.     
+2.  Indien toepassing wordt gegeven aan artikel 3.116, eerste lid, onderdeel a, van het Vreemdelingenbesluit 2000 is het eerste lid van overeenkomstige toepassing, met dien verstande dat een aanvullende vergoeding wordt toegekend van twee punten.   
 3.  De vergoeding op grond van het eerste lid wordt telkens met twee punten verlaagd, indien de in de onderdelen a, b of c van dat lid bedoelde rechtsbijstand geheel of gedeeltelijk is verleend in de vorm van rechtshulp door een ander dan de toegevoegde rechtsbijstandverlener.   
-4.  Indien de procedure in het kader van de aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 28, eerste lid, onderdeel a, van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) wordt beëindigd door een beslissing op grond van [artikel 30, eerste lid, van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) wordt in afwijking van het eerste en tweede lid een vergoeding van vier punten toegekend.   
-5.  Onverminderd het bepaalde in artikel 5, tweede lid, worden in afwijking van het eerste tot en met vierde lid aan een procedure in het kader van een tweede of volgende aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 28, eerste lid, onderdeel a, van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) zeven punten toegekend. Indien deze procedure wordt beëindigd door een afwijzende beslissing of door een beslissing op grond van [artikel 30, eerste lid, van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), worden hieraan twee punten toegekend.   
-6.  In afwijking van artikel 5 worden aan een beroepsprocedure in het kader van een tweede of volgende aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 28, eerste lid, onderdeel a, van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), twee punten toegekend indien de uitspraak strekt tot een onbevoegdverklaring van de rechtbank dan wel een niet-ontvankelijkverklaring of ongegrondverklaring van het beroep.   
-7.  In afwijking van artikel 5 worden aan een hoger beroepsprocedure in het kader van een tweede of volgende aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 28, eerste lid, onderdeel a, van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), twee punten toegekend indien: 
+4.  Indien de procedure in het kader van de aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28, eerste lid, onderdeel a, van de Vreemdelingenwet 2000 wordt beëindigd door een beslissing op grond van artikel 30, eerste lid, van de Vreemdelingenwet 2000 wordt in afwijking van het eerste en tweede lid een vergoeding van vier punten toegekend.   
+5.   In afwijking van het eerste tot en met vierde lid aan een procedure in het kader van een tweede of volgende aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28, eerste lid, onderdeel a, van de Vreemdelingenwet 2000 zeven punten toegekend. Indien deze procedure wordt beëindigd door een afwijzende beslissing of door een beslissing op grond van artikel 30, eerste lid, van de Vreemdelingenwet 2000, worden hieraan twee punten toegekend.   
+6.  In afwijking van artikel 5 worden aan een beroepsprocedure in het kader van een tweede of volgende aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28, eerste lid, onderdeel a, van de Vreemdelingenwet 2000, twee punten toegekend indien de uitspraak strekt tot een onbevoegdverklaring van de rechtbank dan wel een niet-ontvankelijkverklaring of ongegrondverklaring van het beroep.   
+7.  In afwijking van artikel 5 worden aan een hoger beroepsprocedure in het kader van een tweede of volgende aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28, eerste lid, onderdeel a, van de Vreemdelingenwet 2000, twee punten toegekend indien: 
 
 a. de uitspraak die strekt tot een onbevoegdverklaring van de rechtbank dan wel een niet-ontvankelijkverklaring of ongegrondverklaring van het beroep, wordt bevestigd;  
 
@@ -141,16 +141,16 @@ c. de vreemdeling hoger beroep heeft ingesteld tegen de gegrondverklaring van he
 
 ### Artikel  5b  
 
-1.  In afwijking van artikel 5 worden aan de bezwaarprocedure in het kader van een tweede of volgende aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 14, eerste lid, onderdeel a, van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), zeven punten toegekend indien de beslissing strekt tot gegrondverklaring van het bezwaar en twee punten toegekend indien de beslissing strekt tot buitenbehandelingstelling dan wel niet-ontvankelijkverklaring of ongegrondverklaring van het bezwaar.   
-2.  In afwijking van artikel 5 worden aan de beroepsprocedure in het kader van een tweede of volgende aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 14, eerste lid, onderdeel a, van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), twee punten toegekend indien de uitspraak strekt tot onbevoegdverklaring van de rechtbank dan wel een niet-ontvankelijkverklaring of ongegrondverklaring van het beroep.   
-3.  In afwijking van artikel 5 worden aan een hoger beroepsprocedure in het kader van een tweede of volgende aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 14, eerste lid, onderdeel a, van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), vijf punten toegekend indien 
+1.  In afwijking van artikel 5 worden aan de bezwaarprocedure in het kader van een tweede of volgende aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 14, eerste lid, onderdeel a, van de Vreemdelingenwet 2000, zeven punten toegekend indien de beslissing strekt tot gegrondverklaring van het bezwaar en twee punten toegekend indien de beslissing strekt tot buitenbehandelingstelling dan wel niet-ontvankelijkverklaring of ongegrondverklaring van het bezwaar.   
+2.  In afwijking van artikel 5 worden aan de beroepsprocedure in het kader van een tweede of volgende aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 14, eerste lid, onderdeel a, van de Vreemdelingenwet 2000, twee punten toegekend indien de uitspraak strekt tot onbevoegdverklaring van de rechtbank dan wel een niet-ontvankelijkverklaring of ongegrondverklaring van het beroep.   
+3.  In afwijking van artikel 5 worden aan een hoger beroepsprocedure in het kader van een tweede of volgende aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 14, eerste lid, onderdeel a, van de Vreemdelingenwet 2000, vijf punten toegekend indien 
 
 a. de uitspraak die strekt tot een onbevoegdverklaring van de rechtbank dan wel een niet-ontvankelijkverklaring of ongegrondverklaring van het beroep, wordt vernietigd;  
 
 b. Onze Minister hoger beroep heeft ingesteld tegen de gegrondverklaring van het beroep en de uitspraak wordt bevestigd;  
 
 c. de vreemdeling hoger beroep heeft ingesteld tegen de gegrondverklaring van het beroep en de uitspraak wordt vernietigd.     
-4.  In afwijking van artikel 5 worden aan een hoger beroepsprocedure in het kader van een tweede of volgende aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 14, eerste lid, onderdeel a, van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), twee punten toegekend indien: 
+4.  In afwijking van artikel 5 worden aan een hoger beroepsprocedure in het kader van een tweede of volgende aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 14, eerste lid, onderdeel a, van de Vreemdelingenwet 2000, twee punten toegekend indien: 
 
 a. de uitspraak die strekt tot een onbevoegdverklaring van de rechtbank dan wel een niet-ontvankelijkverklaring of ongegrondverklaring van het beroep, wordt bevestigd;  
 
@@ -206,7 +206,7 @@ Aan een strafzaak wordt het aantal punten toegekend dat in de bijlage voor het d
 
 ### Artikel  14a  
 
-1.  In afwijking van artikel 14 en de bijlage wordt in een zaak betreffende vreemdelingenbewaring drie punten toegekend indien de rechtsbijstand wordt verleend in een zaak op grond van [artikel 96 van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), waarbij aan de betrokken vreemdeling reeds een raadsman is toegevoegd in een zaak op grond van [artikel 94](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [95](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) of 96 van de Vreemdelingenwet 2000.   
+1.  In afwijking van artikel 14 en de bijlage wordt in een zaak betreffende vreemdelingenbewaring drie punten toegekend indien de rechtsbijstand wordt verleend in een zaak op grond van artikel 96 van de Vreemdelingenwet 2000, waarbij aan de betrokken vreemdeling reeds een raadsman is toegevoegd in een zaak op grond van artikel 94, 95 of 96 van de Vreemdelingenwet 2000.   
 2.  Indien in een zaak als bedoeld in het eerste lid geen zitting plaatsvindt, of indien wel een zitting plaatsvindt doch deze niet wordt bijgewoond door een raadsman, wordt het in het eerste lid bedoelde aantal toe te kennen punten met twee verlaagd.  
 
 ### Artikel  15  
@@ -214,13 +214,14 @@ Aan een strafzaak wordt het aantal punten toegekend dat in de bijlage voor het d
 1.  In afwijking van artikel 14 worden aan een strafzaak, die bij de Hoge Raad aanhangig is gemaakt en die in eerste aanleg door de meervoudige kamer is behandeld, tien punten toegekend. Aan andere strafzaken die bij de Hoge Raad aanhangig zijn gemaakt, worden, in afwijking van artikel 14, zes punten toegekend.   
 2.  Onder andere strafzaken als bedoeld in het eerste lid, zijn begrepen de strafzaken waarin in eerste aanleg een beschikking is gegeven, alsmede de strafzaken betreffende herziening.   
 3.  Indien de rechtsbijstandverlener in een strafzaak als bedoeld in het eerste en tweede lid, geen middelen heeft ingediend, wordt het aantal toe te kennen punten met 50% verminderd.   
-4.   Artikel 19, eerste lid, is niet van toepassing op strafzaken als bedoeld in het eerste en tweede lid.  
+4.   Artikel 19 is niet van toepassing op strafzaken als bedoeld in het eerste en tweede lid.  
 5. In afwijking van het eerste lid wordt aan een strafzaak, die bij de Hoge Raad aanhangig is gemaakt en die in de Nederlandse Antillen of Aruba in eerste aanleg is behandeld door een enkelvoudige kamer tien punten toegekend, indien deze zaak in Nederland in eerste aanleg door de meervoudige kamer zou zijn behandeld. 
 
 ### Artikel  16  
 
-1. Indien in een strafzaak in eerste aanleg of in hoger beroep over de gevangenhouding of gevangenneming van de rechtzoekende is geoordeeld, wordt, in afwijking van artikel 18, het aantal toe te kennen punten met drie verhoogd.  
-2.  Het eerste lid is niet van toepassing op een zaak als bedoeld in artikel 14a. 
+1. Indien in een strafzaak in eerste aanleg of in hoger beroep over de gevangenhouding of gevangenneming van de rechtzoekende is geoordeeld, wordt, in afwijking van artikel 18, het aantal toe te kennen punten met twee verhoogd.  
+2.  Bij verlenging van de gevangenhouding, bedoeld in het eerste lid, wordt eenmalig het aantal punten met één verhoogd.  
+3.  Het eerste en tweede lid zijn niet van toepassing op een zaak als bedoeld in artikel 14a. 
 
 ### Artikel  17  
 
@@ -237,8 +238,11 @@ b. de zitting waarin uitsluitend de uitspraak in de zaak is gedaan.
 
 ### Artikel  19  
 
-1. Indien een strafzaak vóór het onderzoek ter terechtzitting of voor de behandeling in rechte van de hoofdzaak of hoofdvordering wordt beëindigd, worden in afwijking van artikel 14 vijf punten toegekend, tenzij in de bijlage een lager puntenaantal is bepaald.  
-2.  In afwijking van artikel 14 en met inachtneming van artikel 14a, tweede lid, worden twee punten toegekend aan een strafzaak die wordt beëindigd door de beslissing kennelijk niet bevoegd, kennelijk niet-ontvankelijk, kennelijk gegrond of kennelijk ongegrond. 
+Indien een strafzaak vóór het onderzoek ter terechtzitting of voor de behandeling in rechte van de hoofdzaak of hoofdvordering wordt beëindigd, worden in afwijking van artikel 14 vijf punten toegekend, tenzij in de bijlage een lager puntenaantal is bepaald. 
+
+### Artikel  19a  
+
+Indien in een strafzaak het hoger beroep wordt ingetrokken, worden, in afwijking van artikel 14, twee punten toegekend. 
 
 ### Artikel  20  
 
@@ -254,9 +258,20 @@ Indien in een strafzaak rechtsbijstand is verleend door achtereenvolgens twee of
 
 ### Artikel  22  
 
-1.  Indien in een strafzaak de tijdsbesteding aan de verlening van rechtsbijstand uitgaat boven het aantal uren dat gelijk is aan drie maal het aantal punten dat in de bijlage voor het desbetreffende rechtsterrein of soort zaak of op grond van artikel 15 is bepaald, wordt voor elk uur waarin boven voornoemde grens rechtsbijstand wordt verleend, één punt toegekend mits het bestuur de begroting van de tijdsbesteding voor de naar verwachting nog te verrichten werkzaamheden, bedoeld in het eerste lid van artikel 31, heeft goedgekeurd.    
-2.  Indien in een strafzaak die is beëindigd in de situaties, bedoeld in artikel 19, de tijdsbesteding aan de verlening van rechtsbijstand is uitgegaan boven het aantal uren dat gelijk is aan drie maal het aantal punten dat wordt toegekend op grond van artikel 19, wordt voor elk uur waarin boven voornoemde grens rechtsbijstand is verleend, één punt toegekend mits het bestuur de begroting van de tijdsbesteding voor de verrichte werkzaamheden, bedoeld in het eerste lid van artikel 31, heeft goedgekeurd.   
-3.  Indien in samenhangende strafzaken de tijdsbesteding aan de verlening van rechtsbijstand uitgaat boven het aantal uren dat gelijk is aan drie maal het aantal punten dat op grond van het tweede, derde en vijfde lid van artikel 21 wordt toegekend wordt, voor elk uur waarin boven voornoemde grens rechtsbijstand wordt verleend, één punt toegekend, mits het bestuur de begroting van de tijdsbesteding voor de naar verwachting nog te verrichten werkzaamheden, bedoeld in het eerste lid van artikel 31, heeft goedgekeurd.  
+1.  Ten aanzien van strafzaken die in de bijlage zijn aangemerkt als strafrecht verdachten wordt: 
+
+a. indien in een strafzaak de tijdsbesteding aan de verlening van rechtsbijstand uitgaat boven het aantal uren dat gelijk is aan drie maal het aantal punten dat in de bijlage voor het desbetreffende rechtsterrein of soort zaak of op grond van artikel 15 is bepaald, voor elk uur waarin boven voornoemde grens rechtsbijstand wordt verleend, 0,955 punt toegekend, mits het bestuur de begroting van de tijdsbesteding voor de naar verwachting nog te verrichten werkzaamheden, bedoeld in het eerste lid van artikel 31, heeft goedgekeurd;  
+
+b. indien in een strafzaak die is beëindigd in de situaties bedoeld in artikel 19, de tijdsbesteding aan de verlening van rechtsbijstand uitgaat boven het aantal uren dat gelijk is aan drie maal het aantal punten dat wordt toegekend op grond van artikel 19 voor elk uur waarin boven voornoemde grens rechtsbijstand wordt verleend, 0,955 punt toegekend, mits het bestuur de begroting van de tijdsbesteding voor de naar verwachting nog te verrichten werkzaamheden, bedoeld in het eerste lid van artikel 31, heeft goedgekeurd;  
+
+c. indien in samenhangende strafzaken de tijdsbesteding aan de verlening van rechtsbijstand uitgaat boven het aantal uren dat gelijk is aan drie maal het aantal punten dat op grond van artikel 21, tweede, derde en vijfde lid, wordt toegekend, voor elk uur waarin boven voornoemde grens rechtsbijstand wordt verleend, 0,955 punt toegekend, mits het bestuur de begroting van de tijdsbesteding voor de naar verwachting nog te verrichten werkzaamheden, bedoeld in het eerste lid van artikel 31, heeft goedgekeurd.     
+2.  Ten aanzien van strafzaken die in de bijlage zijn aangemerkt als strafrecht niet-verdachten wordt: 
+
+a. indien in een strafzaak de tijdsbesteding aan de verlening van rechtsbijstand uitgaat boven het aantal uren dat gelijk is aan drie maal het aantal punten dat in de bijlage voor het desbetreffende rechtsterrein of soort zaak of op grond van artikel 15 is bepaald, voor elk uur waarin boven voornoemde grens rechtsbijstand wordt verleend, één punt toegekend, mits het bestuur de begroting van de tijdsbesteding voor de naar verwachting nog te verrichten werkzaamheden, bedoeld in het eerste lid van artikel 31, heeft goedgekeurd;  
+
+b. indien in een strafzaak die is beëindigd in de situaties bedoeld in artikel 19, de tijdsbesteding aan de verlening van rechtsbijstand uitgaat boven het aantal uren dat gelijk is aan drie maal het aantal punten dat wordt toegekend op grond van artikel 19, voor elk uur waarin boven voornoemde grens rechtsbijstand wordt verleend, één punt toegekend, mits het bestuur de begroting van de tijdsbesteding voor de naar verwachting nog te verrichten werkzaamheden, bedoeld in het eerste lid van artikel 31, heeft goedgekeurd; of  
+
+c. indien in samenhangende strafzaken de tijdsbesteding aan de verlening van rechtsbijstand uitgaat boven het aantal uren dat gelijk is aan drie maal het aantal punten dat op grond van artikel 21, tweede, derde en vijfde lid, wordt toegekend, voor elk uur waarin boven voornoemde grens rechtsbijstand wordt verleend, één punt toegekend, mits het bestuur de begroting van de tijdsbesteding voor de naar verwachting nog te verrichten werkzaamheden, bedoeld in het eerste lid van artikel 31, heeft goedgekeurd.   
 
 ### par. 3  
 
@@ -266,24 +281,24 @@ Indien in een strafzaak rechtsbijstand is verleend door achtereenvolgens twee of
 
 1.  In een piketzaak wordt 1,5 punt toegekend, indien rechtsbijstand wordt verleend: 
 
-a. aan in verzekering gestelde verdachten als bedoeld in [artikel 27 van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), in het politiebureau,  
+a. aan in verzekering gestelde verdachten als bedoeld in artikel 27 van het Wetboek van Strafvordering, in het politiebureau,  
 
-b. aan in verzekering gestelde verdachten als bedoeld in [artikel 27 van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), tijdens een voorgeleiding voor de rechter-commissaris,  
+b. aan in verzekering gestelde verdachten als bedoeld in artikel 27 van het Wetboek van Strafvordering, tijdens een voorgeleiding voor de rechter-commissaris,  
 
-c. aan in verzekering gestelde verdachten als bedoeld in [artikel 27 van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) in geval van hoger beroep van de officier van justitie tegen de beschikking tot onmiddellijke invrijheidstelling van de verdachte,  
+c. aan in verzekering gestelde verdachten als bedoeld in artikel 27 van het Wetboek van Strafvordering in geval van hoger beroep van de officier van justitie tegen de beschikking tot onmiddellijke invrijheidstelling van de verdachte,  
 
-d. op grond van [artikel 22 van de Wet bijzondere opnemingen in psychiatrische ziekenhuizen](../../../../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md),  
+d. op grond van artikel 22 van de Wet bijzondere opnemingen in psychiatrische ziekenhuizen,  
 
-e. aan personen die krachtens de [Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) in hun vrijheid zijn beperkt of wier vrijheid krachtens de Vreemdelingenwet 2000 is ontnomen.     
+e. aan personen die krachtens de Vreemdelingenwet 2000 in hun vrijheid zijn beperkt of wier vrijheid krachtens de Vreemdelingenwet 2000 is ontnomen.     
 2.  In afwijking van het eerste lid wordt in een piketzaak 0,75 punt toegekend, indien rechtsbijstand wordt verleend voorafgaand aan één of meer verhoren: 
 
-a. van in verzekering gestelde verdachten als bedoeld in [artikel 27 van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md);  
+a. van in verzekering gestelde verdachten als bedoeld in artikel 27 van het Wetboek van Strafvordering;  
 
-b. als bedoeld in [artikel 61, eerste lid, van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) van verdachten van een strafbaar feit waarvoor een bevel tot inverzekeringstelling kan worden verleend.   
+b. als bedoeld in artikel 61, eerste lid, van het Wetboek van Strafvordering van verdachten van een strafbaar feit waarvoor een bevel tot inverzekeringstelling kan worden verleend.   
 3. In afwijking van het eerste lid wordt voor verleende rechtsbijstand in een piketzaak na het verhoor als bedoeld in het tweede lid aanvullend 0,75 punt toegekend.
-4. Indien rechtsbijstand wordt verleend aan personen die op grond van [artikel 154a](../../../../../../wet/gemeentewet/BWBR0005416/README.md) of [176a van de Gemeentewet](../../../../../../wet/gemeentewet/BWBR0005416/README.md) tijdelijk worden opgehouden wordt voor de verlening van rechtsbijstand, met uitzondering van het doen van een verzoek om een voorlopige voorziening, aan alle personen gezamenlijk 1,5 punt toegekend.  
-5.  Indien in de periode voorafgaand aan het verzoek om een voorlopige voorziening rechtsbijstand wordt verleend aan een uithuisgeplaatste die de wens, bedoeld in [artikel 5, eerste lid, van de Wet tijdelijk huisverbod](../../../../../../wet/wet/tijdelijk/huisverbod/BWBR0024649/README.md), te kennen heeft gegeven, wordt 1,5 punt toegekend.  
-6.  Indien de rechtsbijstand in een piketzaak is verleend op een zaterdag, zondag, een algemeen erkende feestdag of een bij of krachtens de [Algemene termijnenwet ](../../../../../../wet/algemene/termijnenwet/BWBR0002448/README.md)met algemeen erkende feestdagen gelijkgestelde dag, wordt aanvullend 0,5 punt toegekend.  
+4. Indien rechtsbijstand wordt verleend aan personen die op grond van artikel 154a of 176a van de Gemeentewet tijdelijk worden opgehouden wordt voor de verlening van rechtsbijstand, met uitzondering van het doen van een verzoek om een voorlopige voorziening, aan alle personen gezamenlijk 1,5 punt toegekend.  
+5.  Indien in de periode voorafgaand aan het verzoek om een voorlopige voorziening rechtsbijstand wordt verleend aan een uithuisgeplaatste die de wens, bedoeld in artikel 5, eerste lid, van de Wet tijdelijk huisverbod, te kennen heeft gegeven, wordt 1,5 punt toegekend.  
+6.  Indien de rechtsbijstand in een piketzaak is verleend op een zaterdag, zondag, een algemeen erkende feestdag of een bij of krachtens de Algemene termijnenwet met algemeen erkende feestdagen gelijkgestelde dag, wordt aanvullend 0,5 punt toegekend.  
 
 ### Artikel  23a  
 
@@ -295,7 +310,7 @@ a. 2 punten, indien er sprake is van een verdenking van een verdenking van:
 
 – een misdrijf met een slachtoffer dat is overleden dan wel zwaar lichamelijk letsel heeft opgelopen; of  
 
-– een zedenmisdrijf waarop naar de wettelijke omschrijving een gevangenisstraf is gesteld van acht jaar of meer, of sprake is van een zedenmisdrijf waarbij de strafverzwaringsgrond van [artikel 248, tweede lid, van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) van toepassing is;    
+– een zedenmisdrijf waarop naar de wettelijke omschrijving een gevangenisstraf is gesteld van acht jaar of meer, of sprake is van een zedenmisdrijf waarbij de strafverzwaringsgrond van artikel 248, tweede lid, van het Wetboek van Strafrecht van toepassing is;    
 
 b. 1 punt in alle overige gevallen.     
 2.  Artikel 23, zesde lid, is van overeenkomstige toepassing.  
@@ -307,27 +322,27 @@ b. 1 punt in alle overige gevallen.
 ### Artikel  24  
 
 1.  Voor het tijdverlet in verband met reizen ten behoeve van de verlening van rechtsbijstand in een andere zaak dan een piketzaak wordt, uitgaande van de totale afstand die is afgelegd bij reizen naar de zitting, bedoeld in het eerste lid van artikel 7 en het eerste lid van artikel 18, en naar rechtzoekenden wier vrijheid is ontnomen of beperkt, per volle gereisde 60 kilometer een halve punt toegekend. Onder reizen naar de zitting is mede begrepen het reizen in verband met de behandeling van de gevangenhouding of gevangenneming, bedoeld in artikel 16, alsmede in verband met het verhoor, bedoeld in artikel 17.  
-2. Voor het tijdverlet in verband met reizen van een rechtsbijstandverlener die met toestemming van het bestuur aan een vreemdeling in de zin van de [Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) rechtsbijstand verleent, is het eerste lid van overeenkomstige toepassing. 
+2. Voor het tijdverlet in verband met reizen van een rechtsbijstandverlener die met toestemming van het bestuur aan een vreemdeling in de zin van de Vreemdelingenwet 2000 rechtsbijstand verleent, is het eerste lid van overeenkomstige toepassing. 
 3. Indien naar en in het buitenland wordt gereisd per vliegtuig wordt per volle gereisde 500 kilometer een halve punt toegekend.   
 4.  Het bestuur bepaalt de reisafstand op gestandaardiseerde wijze.    
 5.  Indien een reis wordt afgelegd ten behoeve van de verlening van rechtsbijstand aan meerdere rechtzoekenden op dezelfde locatie, wordt het tijdverlet in verband met deze reis slechts eenmaal vergoed. 
 
 ### Artikel  25  
 
-1.  Voor de kosten die worden gemaakt voor reizen naar de zitting, bedoeld in het eerste lid van artikel 7 en het eerste lid van artikel 18, alsmede naar rechtzoekenden wier vrijheid is ontnomen of beperkt, wordt een kilometervergoeding toegekend overeenkomstig de vergoeding die krachtens [artikel 8 van het Reisbesluit binnenland](../../../../../../AMvB/reisbesluit/binnenland/BWBR0005889/README.md) wordt verleend. Dezelfde kilometervergoeding wordt toegekend voor de kosten die worden gemaakt voor reizen in verband met de behandeling van de gevangenhouding of gevangenneming, bedoeld in artikel 16, alsmede in verband met het verhoor, bedoeld in artikel 17.   
-2.  Een rechtsbijstandverlener die met toestemming van het bestuur aan een vreemdeling in de zin van [Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) rechtsbijstand verleent, ontvangt overeenkomstig het eerste lid een vergoeding voor de kosten die worden gemaakt voor reizen naar de vreemdeling.   
-3.  Voor de kosten die in piketzaken worden gemaakt voor reizen naar de rechtzoekende wordt een kilometervergoeding toegekend overeenkomstig de vergoeding die krachtens [artikel 7 van het Reisbesluit binnenland](../../../../../../AMvB/reisbesluit/binnenland/BWBR0005889/README.md) wordt verleend. Indien de rechtzoekende zich ten tijde van de piketmelding buiten het ressort van de rechtsbijstandverlener bevond, is het eerste lid van overeenkomstige toepassing.   
+1.  Voor de kosten die worden gemaakt voor reizen naar de zitting, bedoeld in het eerste lid van artikel 7 en het eerste lid van artikel 18, alsmede naar rechtzoekenden wier vrijheid is ontnomen of beperkt, wordt een kilometervergoeding toegekend overeenkomstig de vergoeding die krachtens artikel 8 van het Reisbesluit binnenland wordt verleend. Dezelfde kilometervergoeding wordt toegekend voor de kosten die worden gemaakt voor reizen in verband met de behandeling van de gevangenhouding of gevangenneming, bedoeld in artikel 16, alsmede in verband met het verhoor, bedoeld in artikel 17.   
+2.  Een rechtsbijstandverlener die met toestemming van het bestuur aan een vreemdeling in de zin van Vreemdelingenwet 2000 rechtsbijstand verleent, ontvangt overeenkomstig het eerste lid een vergoeding voor de kosten die worden gemaakt voor reizen naar de vreemdeling.   
+3.  Voor de kosten die in piketzaken worden gemaakt voor reizen naar de rechtzoekende wordt een kilometervergoeding toegekend overeenkomstig de vergoeding die krachtens artikel 7 van het Reisbesluit binnenland wordt verleend. Indien de rechtzoekende zich ten tijde van de piketmelding buiten het ressort van de rechtsbijstandverlener bevond, is het eerste lid van overeenkomstige toepassing.   
 4.  Ten behoeve van de berekening van de kilometervergoeding, bedoeld in het eerste, tweede en derde lid, bepaalt het bestuur de reisafstand op gestandaardiseerde wijze.  
 5.  Indien een reis wordt afgelegd ten behoeve van de verlening van rechtsbijstand aan meerdere rechtzoekenden op dezelfde locatie, wordt in verband met deze reis slechts eenmaal een kilometervergoeding toegekend.  
 
 ### Artikel  26  
 
-De kosten die de rechtsbijstandverlener heeft moeten maken doordat hij zich bij de verlening van rechtsbijstand in een strafzaak of een piketzaak van een tolk heeft moeten bedienen, worden vergoed tot ten hoogste het bedrag waarop een tolk ingevolge het [Besluit tarieven in strafzaken 2003](../../../../../../AMvB/besluit/tarieven/in/strafzaken/2003/BWBR0015481/README.md) aanspraak heeft. 
+De kosten die de rechtsbijstandverlener heeft moeten maken doordat hij zich bij de verlening van rechtsbijstand in een strafzaak of een piketzaak van een tolk heeft moeten bedienen, worden vergoed tot ten hoogste het bedrag waarop een tolk ingevolge het Besluit tarieven in strafzaken 2003 aanspraak heeft. 
 
 ### Artikel  27  
 
-1. Voor de administratieve kosten die in het kader van de rechtsbijstandverlening worden gemaakt, wordt per toevoeging een vergoeding van € 18,94 toegekend. 
-2. Het eerste lid is niet van toepassing in gevallen waarin op grond van de [wet](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md) aan een rechtzoekende op last van de rechter een raadsman wordt toegevoegd door het bestuur, alsmede in geval van een procedure in het kader van de aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 28, eerste lid, onderdeel a, van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).
+1.  Voor de administratieve kosten die in het kader van de rechtsbijstandverlening worden gemaakt, wordt per toevoeging een vergoeding van € 18,94 toegekend.  
+2. Het eerste lid is niet van toepassing in gevallen waarin op grond van de wet aan een rechtzoekende op last van de rechter een raadsman wordt toegevoegd door het bestuur, alsmede in geval van een procedure in het kader van de aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28, eerste lid, onderdeel a, van de Vreemdelingenwet 2000.
 
 ### Hoofdstuk  IV  
 
@@ -365,8 +380,8 @@ Indien na de vaststelling van de vergoeding feiten of omstandigheden bekend word
 
 ### Artikel  32  
 
-1.  Het bestuur betaalt overeenkomstig de vaststelling, bedoeld in het tweede lid van artikel 29, de vergoeding met inachtneming van het bepaalde in [artikel 37, tweede lid, van de wet](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md).   
-2.  In zaken, waarin krachtens een besluit van het bestuur als bedoeld in [artikel 33, eerste lid, onder c van de wet](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md) de verlening van rechtsbijstand tussentijds is beëindigd, is het voorgaande lid slechts van toepassing voor zover de rechtzoekende het van hem verlangde voorschot, of de verhoging daarvan, heeft voldaan.   
+1.  Het bestuur betaalt overeenkomstig de vaststelling, bedoeld in het tweede lid van artikel 29, de vergoeding met inachtneming van het bepaalde in artikel 37, tweede lid, van de wet.   
+2.  In zaken, waarin krachtens een besluit van het bestuur als bedoeld in artikel 33, eerste lid, onder c van de wet de verlening van rechtsbijstand tussentijds is beëindigd, is het voorgaande lid slechts van toepassing voor zover de rechtzoekende het van hem verlangde voorschot, of de verhoging daarvan, heeft voldaan.   
 3.  Indien uit de opgave van de rechtsbijstandverlener aan het bestuur een veroordeling in de kosten van verlening van rechtsbijstand ten behoeve van een partij aan wie een toevoeging is verleend krachtens de wet blijkt, wordt het bedrag van deze kostenveroordeling tot ten hoogste het bedrag van de overeenkomstig dit besluit vastgestelde vergoeding, op die vergoeding in mindering gebracht.   
 4.  Onverschuldigd betaalde vergoedingen kunnen worden teruggevorderd of verrekend met nog verschuldigde vergoedingen.    
 5.  Indien aan de kostenveroordeling, bedoeld in het derde lid, geheel of gedeeltelijk niet is voldaan en er redelijkerwijs ook geen zicht is op voldoening, laat het bestuur het derde lid buiten toepassing. 
@@ -381,7 +396,7 @@ Indien in een zaak achtereenvolgens door twee of meer rechtsbijstandverleners, n
 
 ### Artikel  35  
 
-1.  Het bestuur verleent aan de advocaat die is ingeschreven op grond van [artikel 14 van de wet](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md), telkens in de eerste maand van elk kwartaal een voorschot voor de krachtens dit besluit toe te kennen vergoedingen.   
+1.  Het bestuur verleent aan de advocaat die is ingeschreven op grond van artikel 14 van de wet, telkens in de eerste maand van elk kwartaal een voorschot voor de krachtens dit besluit toe te kennen vergoedingen.   
 2.  Per jaar is de hoogte van het kwartaalvoorschot gelijk aan 10 procent van het door Onze Minister vast te stellen normbedrag vermenigvuldigd met een vierde deel van het aantal toevoegingen dat aan de advocaat is afgegeven in de periode van 1 september van het voorlaatste jaar tot 1 september van het jaar dat voorafgaat aan het jaar waarin het kwartaalvoorschot wordt verleend.   
 3.  Indien het normbedrag wijzigt, wijzigt het bestuur met ingang van het eerstvolgende kwartaal dienovereenkomstig de verlening van het kwartaalvoorschot.   
 4.  Het voorschot bedraagt ten hoogste een door Onze Minister te bepalen bedrag. Het voorschot wordt op nihil gesteld indien het aantal toevoegingen als bedoeld in het tweede lid blijft beneden een door Onze Minister te bepalen aantal.   
@@ -394,7 +409,7 @@ Indien in een zaak achtereenvolgens door twee of meer rechtsbijstandverleners, n
 
 ### Artikel  37  
 
-Indien de inschrijving van de advocaat door het bestuur wordt doorgehaald overeenkomstig [artikel 17 van de wet](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md), is de advocaat gehouden op vordering van het bestuur het verleende voorschot met verrekening van de toegekende vergoedingen onverwijld terug te betalen. 
+Indien de inschrijving van de advocaat door het bestuur wordt doorgehaald overeenkomstig artikel 17 van de wet, is de advocaat gehouden op vordering van het bestuur het verleende voorschot met verrekening van de toegekende vergoedingen onverwijld terug te betalen. 
 
 ### Artikel  38  
 
@@ -409,7 +424,7 @@ Indien de inschrijving van de advocaat door het bestuur wordt doorgehaald overee
 
 1.  In afwijking van de hoofdstukken II en III kan het bestuur de vergoeding bepalen met inachtneming van nader vast te stellen kwaliteitscriteria, mits de desbetreffende rechtsbijstandverlener of rechtsbijstandverleners daarmee instemmen.   
 2.  Het bestuur kan met instemming van de rechtsbijstandverlener afwijken van het bepaalde in hoofdstuk IV over de wijze van aanvragen en de overige procedureregels inzake de vaststelling van de vergoeding.   
-3.  Het bestuur stelt beleidsregels vast voor de toepassing van het eerste en tweede lid en vermeldt deze beleidsregels in het jaarplan, bedoeld in [artikel 7a, tweede lid, van de wet](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md).  
+3.  Het bestuur stelt beleidsregels vast voor de toepassing van het eerste en tweede lid en vermeldt deze beleidsregels in het jaarplan, bedoeld in artikel 7a, tweede lid, van de wet.  
 
 ### Hoofdstuk  VI  
 
@@ -417,12 +432,12 @@ Indien de inschrijving van de advocaat door het bestuur wordt doorgehaald overee
 
 ### Artikel  40  
 
-1.  Gerechtsdeurwaarders aan wie in een zaak waarin op grond van een toevoeging rechtsbijstand wordt verleend, het uitbrengen van een exploot of het opmaken van een proces-verbaal is opgedragen, of die bijstand hebben verleend bij de tenuitvoerlegging van de in een zodanige zaak gegeven uitspraak, ontvangen van rijkswege 75% van het bedrag dat zij volgens het [Besluit tarieven ambtshandelingen gerechtsdeurwaarders](../../../../../../AMvB/besluit/tarieven/ambtshandelingen/gerechtsdeurwaarders/BWBR0012638/README.md) zouden hebben mogen berekenen, met dien verstande dat de verschotten voor rekening van de opdrachtgever blijven.   
+1.  Gerechtsdeurwaarders aan wie in een zaak waarin op grond van een toevoeging rechtsbijstand wordt verleend, het uitbrengen van een exploot of het opmaken van een proces-verbaal is opgedragen, of die bijstand hebben verleend bij de tenuitvoerlegging van de in een zodanige zaak gegeven uitspraak, ontvangen van rijkswege 75% van het bedrag dat zij volgens het Besluit tarieven ambtshandelingen gerechtsdeurwaarders zouden hebben mogen berekenen, met dien verstande dat de verschotten voor rekening van de opdrachtgever blijven.   
 2.  Gerechtsdeurwaarders die overeenkomstig het eerste lid aan een rechtsbijstandverlener bijstand hebben verleend, zenden met een afschrift van het exploot of de akte, vermeldende dat in de desbetreffende zaak rechtsbijstand is verleend, een aanvraag in voor vergoeding van de verrichte werkzaamheden bij een door Onze Minister aan te wijzen instantie. Deze instantie draagt zorg voor de uitbetaling van de vergoeding.  
 
 ### Artikel  41  
 
-1.  De dag- en nieuwsbladen ontvangen van rechtswege een vergoeding voor de door hen geplaatste oproepingen of aankondigingen, bedoeld in [artikel 39 van de wet](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md), ten bedrage van het normale in rekening te brengen advertentietarief voorzover niet een afwijkend tarief met die bladen overeen is gekomen.   
+1.  De dag- en nieuwsbladen ontvangen van rechtswege een vergoeding voor de door hen geplaatste oproepingen of aankondigingen, bedoeld in artikel 39 van de wet, ten bedrage van het normale in rekening te brengen advertentietarief voorzover niet een afwijkend tarief met die bladen overeen is gekomen.   
 2.  Indien een rechtsbijstandverlener een dag- of nieuwsblad opdracht heeft gegeven tot het krachtens wettelijk voorschrift of rechterlijk bevel plaatsen van een oproeping of mededeling, zendt hij – onder overlegging van een exemplaar van de editie, waarin de oproeping of aankondiging is opgenomen – de nota in bij een door Onze Minister aan te wijzen instantie. Deze instantie draagt zorg voor de uitbetaling van de vergoeding.  
 
 ### Artikel  42  
@@ -513,6 +528,7 @@ De punten geven het gewicht per rechtsterrein of soort zaak aan:
 |– voorlopige voorziening |4 |
 |– beroep |4 |
 |– hoger beroep |4 |
+| – gijzeling Wet administratiefrechtelijke handhaving verkeersvoorschriften  | 4  |
 | --- | --- |
 |  *Strafrechtelijke zaken*   | --- |
 | --- | --- |
@@ -522,14 +538,16 @@ De punten geven het gewicht per rechtsterrein of soort zaak aan:
 |  – rijden onder invloed  | 5   |
 |  – zaken betreffende misdrijven waarvan de kennisneming in eerste aanleg heeft of zou hebben plaatsgevonden door de enkelvoudige kamer  | 6   |
 |  – zaken betreffende misdrijven waarvan de kennisneming in eerste aanleg heeft of zou hebben plaatsgevonden door de meervoudige kamer  | 8   |
+| – supersnelrecht  | 4  |
 | --- | --- |
 | – strafrecht niet-verdachten   | --- |
 |  – Uitleveringswet  | 9   |
+| – Overleveringswet  | 6  |
 |  – Wet overdracht tenuitvoerlegging strafvonnissen (Wots)  | 8   |
 |  – Wet bijzondere opnemingen in psychiatrische ziekenhuizen (Bopz)  | 4   |
 |  – vreemdelingenbewaring  | 4   |
 |  – terbeschikkingstelling (Tbs)  | 7   |
-|  – geschillen/klachtzaken gedetineerden  | 5   |
+|  – geschillen/klachtzaken gedetineerden  | 3   |
 |  – vordering benadeelde partij  | 5   |
 |  – beklag niet-vervolging  | 5   |
 |  – ontnemingsvordering  | 3   |

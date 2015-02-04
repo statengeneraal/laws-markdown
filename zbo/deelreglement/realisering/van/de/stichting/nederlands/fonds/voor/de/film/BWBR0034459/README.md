@@ -70,6 +70,8 @@ In dit reglement wordt verstaan onder:
 
 *lange animatiefilm:* een speelfilm die een kunstmatige filmtechniek hanteert waarbij door het na elkaar afspelen van verschillende stilstaande beelden de illusie van beweging ontstaat;  
 
+*mainstream film:* een speelfilm waarbij de nadruk ligt op de publiekspotentie, dat wil zeggen de grootte van het publieksbereik in samenhang met de beoogde commerciële resultaten; 
+
 *majoritair (co)producent:* een productiemaatschappij van een in de Nederlandse bioscoop en/of filmtheaters uit te brengen (internationale) filmproductie, die risicodragend investeert, hoofdverantwoordelijk en in doorslaggevende mate beslissingsbevoegd is en die meer dan vijftig procent van de financiering van de filmproductie bijeen heeft gebracht;  
 
 *marketing* het creëren van een optimale publieksbenadering voor een filmproductie die moet aansluiten op verwachtingen van doelgroepen (bioscoop)bezoekers waardoor deze overtuigd worden de filmproductie te gaan zien. De juiste marketingstrategie is gericht op maximaliseren van het publieksbereik en bestaat uit een heldere positionering aansluitend op de doelgroep, de invulling en uitvoering van de filmproductie zelf, een marketing en distributieplan met uitwerking van de plaats van uitbreng, een media- en publiciteitsplan, de promotie en eventuele merchandising en de prijsstrategie.  
@@ -78,7 +80,7 @@ In dit reglement wordt verstaan onder:
 
 *matching bijdrage:* een bijdrage van het Fonds die wordt toegekend indien een specifieke partijen ook een bepaalde bijdrage leveren;  
 
-*minoritair coproducent:* een productiemaatschappij van een in de Nederlandse bioscoop en/of filmtheaters uit te brengen (internationale) coproductie, die risicodragend investeert maar in beperkte mate beslissingsbevoegd en verantwoordelijk is en die minder dan vijftig procent van de financiering van de filmproductie bijeen heeft gebracht en derhalve als coproducent wordt aangemerkt;  
+*minoritair coproducent:* een productiemaatschappij van een in de Nederlandse bioscoop en/of filmtheaters uit te brengen (internationale) coproductie, die risicodragend investeert maar in beperkte mate beslissingsbevoegd en verantwoordelijk is en die minder dan vijftig procent van de financiering van de filmproductie bijeen heeft gebracht;  
 
 *New Screen NL:* het programma dat zich primair richt op talentontwikkeling, filmisch experiment en de korte (animatie) film;  
 
@@ -153,7 +155,7 @@ In dit reglement wordt verstaan onder:
 5.  Realiseringsaanvragen in de categorie animatie met een vertoningsduur tot zestig minuten worden gedaan door een productiemaatschappij, vertegenwoordigd door een producent, die als majoritair producent hoofdverantwoordelijk is geweest voor het realiseren en uitbrengen van tenminste twee vrije, niet in opdracht vervaardigde filmproducties op het gebied van animatie in Nederland. In voorkomende gevallen kan bij een relatief laag productiebudget van dit vereiste afgeweken worden. Voor een realiseringsaanvraag voor een minoritaire internationale coproductie in de categorie animatie met een vertoningsduur tot zestig minuten geldt dat de desbetreffende producent als majoritair producent hoofdverantwoordelijk geweest is voor het realiseren en uitbrengen van tenminste één vrije, niet in opdracht vervaardigde filmproductie op het gebied van animatie in Nederland.   
 6.  Realiseringsaanvragen in de categorie filmisch experiment worden gedaan door een productiemaatschappij, vertegenwoordigd door een producent, die als majoritair producent hoofdverantwoordelijk is geweest voor het realiseren en uitbrengen van tenminste twee vrije filmproducties in Nederland. In voorkomende gevallen kan bij een relatief laag productiebudget van dit vereiste afgeweken worden.   
 7.  Een aanvraag van subsidie voor afwerking wordt door een productiemaatschappij gedaan.   
-8.  In afwijking op het voorgaande lid kan een aanvraag van subsidie voor afwerking ook aangevraagd worden door een beginnend regisseur of beginnend producent die zijn of haar filmproductie zelf produceert of een ervaren regisseur van een korte film.  
+8.  In afwijking op het voorgaande kan een aanvraag van subsidie voor de afwerking van een korte film ook aangevraagd worden door een beginnend producent of ervaren regisseur die zijn of haar filmproductie zelf produceert, of voor de realisering van een korte film van een beginnend regisseur die wordt geproduceerd en aangevraagd door een beginnend of ervaren producent. De betreffende regisseur of producent dient dan wel minimaal een erkende beroepsopleiding voor film te hebben afgerond en/of tenminste één filmproductie binnen de desbetreffende categorie in de professionele film- en televisiesector te hebben gerealiseerd en uitgebracht.  
 
 ### Artikel  5  
 
@@ -189,13 +191,15 @@ Voor toekenning van de aanvraag dient het oordeel over de kwaliteit van de filmp
 ####Voorbereiding besluitvorming en aanvullende bijdragen
 
 1.  Het besluit tot subsidieverlening (Fase 2) kan worden voorafgegaan door een voornemen tot subsidieverlening (Fase 1).   
-2.  Het bestuur kan in Fase 2, indien de noodzaak en de (financiële) onderbouwing daarvoor in de aanvraag is opgenomen, een aanvullende bijdrage verlenen voor: 
+2.  Het bestuur kan bij het besluit tot subsidieverlening, indien de noodzaak en de (financiële) onderbouwing daarvoor in de aanvraag is opgenomen, een aanvullende bijdrage verlenen voor: 
 
 a.) de vervaardiging van sales deliveries ten behoeve van internationale verkoop van een filmproductie; en/of  
 
 b.) audiodescriptie en ondertiteling om de filmproductie bij exploitatie ervan via de verschillende platforms toegankelijk te maken voor visueel en auditief gehandicapten; en/of  
 
-c.) preproductie.     
+c.) preproductie;  
+
+d.) de kosten van de productiemaatschappij voor marketingactiviteiten in de realiseringsfase van een arthouse film, en documentaire, zoals opgenomen in het Financieel & Productioneel Protocol van het Fonds, indien de inzet en de effectiviteit daarvan naar het oordeel van het bestuur voldoende wordt onderbouwd.    
 3.  Op grond van een voornemen tot subsidieverlening voor de realisering van een arthouse film en documentaire kan het bestuur, indien de noodzaak en de (financiële) onderbouwing daarvoor in de aanvraag is opgenomen, een aanvullende bijdrage verlenen ter tegemoetkoming van de kosten voor *marketing*, *prints & advertising*zoals opgenomen in de lijst*subsidiabele kosten marketing, prints & advertising* en vastgelegd in het Financieel & Productioneel Protocol van het Fonds.   
 4.  De bijdrage, zoals bedoeld in het vorige lid, wordt verleend indien de vereiste stukken in Fase 2 zijn opgeleverd en goedgekeurd.  
 
@@ -213,7 +217,7 @@ c.) preproductie.
 
 1.  De ontvanger is verplicht om: 
 
-a. binnen een termijn van uiterlijk twaalf maanden na subsidieverlening de ter zake van de financiering en exploitatie van de filmproductie waarvoor subsidie is verleend definitieve schriftelijke overeenkomsten met alle bij de financiering van de filmproductie betrokken partijen te overleggen. Hieruit blijkt dat naar het oordeel van het bestuur elk van deze partijen zich onvoorwaardelijk heeft verbonden tot het hem betreffende aandeel in de financiering ten behoeve van de realisering van de filmproductie overeenkomstig de bij de subsidieaanvraag overgelegde gegevens en op voorwaarden die verenigbaar zijn met de voorwaarden die zijn verbonden aan de subsidieverlening, dit deelreglement en het Algemeen Reglement;  
+a. binnen een termijn van uiterlijk twaalf maanden na het voornemen tot subsidieverlening, of bij het ontbreken daarvan het besluit tot subsidieverlening, de ter zake van de financiering en exploitatie van de filmproductie waarvoor subsidie is verleend definitieve schriftelijke overeenkomsten met alle bij de financiering van de filmproductie betrokken partijen te overleggen. Hieruit blijkt dat naar het oordeel van het bestuur elk van deze partijen zich onvoorwaardelijk heeft verbonden tot het hem betreffende aandeel in de financiering ten behoeve van de realisering van de filmproductie overeenkomstig de bij de subsidieaanvraag overgelegde gegevens en op voorwaarden die verenigbaar zijn met de voorwaarden die zijn verbonden aan de subsidieverlening, dit deelreglement en het Algemeen Reglement;  
 
 b. ervoor te zorgen dat de opnamen, of in het geval van animatie de uitvoering van de filmproductie waarvoor subsidie is verleend, niet eerder starten dan nadat én door het Fonds is bericht dat de aanvrager heeft voldaan aan de verplichtingen, zoals bedoeld in het eerste lid onder a, én – indien van toepassing – de *completion guarantor* definitieve dekking heeft verleend voor de voortbrenging en voltooiing van de filmproductie waarvoor subsidie is verleend;  
 
@@ -275,16 +279,16 @@ Voor een aanvraag voor subsidie voor een minoritaire coproductie gelden de volge
 
 11. De aanvrager verplicht zich in de af te sluiten coproductieovereenkomst met de buitenlandse majoritaire coproducent te bedingen dat eventuele financiële bijdragen in het kader van Eurimages, i2i en/of andere Europese financiering pro rato toegerekend worden aan de aanvrager.  
 
-12. Voor de categorieën speelfilm en documentaire dient de aanvrager een schriftelijke verklaring ondertekend door een Nederlandse filmdistributeur en/of indien van toepassing van een Nederlandse zendgemachtigde te overleggen.   
+12. Voor de categorieën speelfilm en documentaire dient de aanvrager een schriftelijke verklaring ondertekend door een Nederlandse filmdistributeur en/of indien van toepassing van een Nederlandse zendgemachtigde te overleggen, alsmede een plan over de uitbreng van de filmproductie.   
 
 ### Artikel  16  
 
 ####Subsidiabele activiteit afwerking
 
-1.  Het bestuur verleent uitsluitend subsidie voor afwerking indien de aanvraag een filmproductie betreft die zonder realiseringssubsidie van het Fonds tot stand is gebracht, nog niet openbaar is gemaakt en de kosten voor afwerking niet of niet geheel door een derde partij worden gefinancierd.   
+1.  Het bestuur verleent uitsluitend subsidie voor afwerking aan een productiemaatschappij, zoals bedoeld in artikel 4 lid 7 van dit Deelreglement, indien de aanvraag een filmproductie, niet zijnde een mainstream film, betreft die zonder realiseringssubsidie op grond van deze regeling of een andere regeling van het Fonds tot stand is gebracht, nog niet openbaar is gemaakt en de kosten voor afwerking niet of niet geheel door een derde partij worden gefinancierd. De bijdrage van het Fonds dient minimaal 5% van het productiebudget uit te maken.   
 2.  Het bestuur kent een subsidie voor afwerking, voor zover mogelijk en relevant, overeenkomstig dit deelreglement toe.   
 3.  Bij een aanvraag wordt een crossmediaal marketing plan ingediend. In de categorieën speelfilm en documentaire dient tevens een schriftelijke verklaring van een filmdistributeur te worden overgelegd, waarmee de filmdistributeur zich jegens de aanvrager verbindt tot bioscoopuitbreng en/of een non-theatrical release waarbij een gedegen exploitatie voorafgaand aan televisie uitzending mogelijk is.   
-4.  De picture lock dient bij de aanvraag te worden opgeleverd.  
+4.  De picture lock dient bij de aanvraag te worden opgeleverd, alsmede een actuele debiteuren- en crediteurenlijst indien het Fonds dat wenst.  
 
 ### Artikel  17  
 
@@ -299,7 +303,7 @@ Voor een aanvraag voor subsidie voor een minoritaire coproductie gelden de volge
 
 1.  Ter behoud van het cultureel erfgoed is de aanvrager verplicht om tijdig, dat wil zeggen ten tijde van de afwerking van de filmproductie contact op te nemen met EYE Film Instituut Nederland en hen toegang te verschaffen tot het digitale en analoge (indien van toepassing) moedermateriaal van de uiteindelijke filmprint. De aanvrager gaat bij verlening van de subsidie akkoord met het conserveren en het met dat doel digitaal opslaan van de film door EYE Film Instituut Nederland. De condities verbonden aan de conservering en daaraan verbonden digitale opslag door EYE Film Instituut Nederland zullen worden vastgelegd in een separate overeenkomst tussen de aanvrager en EYE Film Instituut Nederland.   
 2.  Met het oog op de innovatie van de filmsector en de brede toegankelijkheid van mede door het Fonds gesubsidieerde filmproducties voor het publiek, wordt de subsidie verleend onder de voorwaarde dat de aanvrager op non exclusieve basis de beschikking houdt over de rechten tot digitale exploitatie van de filmproductie, echter met in achtneming van een redelijke termijn, waarin de aanvrager zich gedurende een bepaalde periode ten gunste van de filmdistributeur onthoudt van exploitatie van deze rechten.   
-3.  De aanvrager is gerechtigd – en jegens het Fonds verplicht – de filmproducties digitaal te (doen) ontsluiten via in elk geval het onafhankelijke digitale platform dat in samenwerking met EYE Filminstituut Nederland en Nederlands Instituut voor Beeld en Geluid onder de naam Ximon filmproducties in de volle breedte voor het publiek blijvend toegankelijk maakt.  
+3.  De aanvrager is gerechtigd – en jegens het Fonds verplicht – de filmproducties waar mogelijk digitaal te (doen) ontsluiten via onafhankelijke digitale platforms zodat filmproducties in de volle breedte voor het publiek blijvend toegankelijk zijn.  
 
 ####Bijzondere bepalingen ten aanzien van de categorieën
 
@@ -348,15 +352,24 @@ Voor een aanvraag voor subsidie voor een minoritaire coproductie gelden de volge
 
 Bij de beoordeling van een subsidieaanvraag beoordeelt het bestuur, in aanvulling op de criteria van Artikel 5 van het Algemeen Reglement of de filmproductie in de categorie filmisch experiment naar het oordeel van het bestuur bijdraagt aan de creatieve en technische innovatie van de cinematografie. Voor een toekenning dient ook de beoordeling van dit criterium positief te zijn. 
 
-####Slot- en overgangsbepalingen
+####Korte film
 
 ### Artikel  24  
+
+####Subsidiabele activiteit
+
+1.  De subsidie voor afwerking en/of realisering van een korte film wordt beschikbaar gesteld ten behoeve van een werkkopie en een definitieve, voor vertoning gereed zijnde kopie, met minimaal een aantoonbare non theatrical release.   
+2.  Het bestuur verleent uitsluitend subsidie voor afwerking of realisering aan een regisseur of beginnend producent als bedoeld in artikel 4 lid 8 van dit Deelreglement, indien de aanvraag een korte film betreft die zonder realiseringssubsidie op grond van deze regeling of een andere regeling van het Fonds tot stand is gebracht, nog niet openbaar is gemaakt en de kosten voor realisering of afwerking niet of niet geheel door een derde partij worden gefinancierd.  
+
+####Slot- en overgangsbepalingen
+
+### Artikel  25  
 
 1.  In alle gevallen waarin dit reglement niet voorziet, beslist het bestuur.   
 2.  Het bestuur kan om zwaarwegende redenen afwijken van dit reglement, voor zover dergelijke afwijkingen verenigbaar zijn met het beoordelingskader voor staatssteun aan de filmsector, zoals dat wordt gehanteerd door de Europese Commissie.   
 3.  Dit reglement is vastgesteld door het bestuur met goedkeuring van de Raad van Toezicht op 18 november 2013.   
 4.  Dit reglement treedt in werking met ingang van 1 januari 2014.   
 5.  Het Deelreglement Realisering, geldend vanaf 1 januari 2013, is per 1 januari 2014 ingetrokken.   
-6.  Op alle aanvragen die door het Fonds voor 1 januari 2014 zijn ontvangen blijft het Deelreglement Realisering zoals dit gold tot 1 januari 2014 van toepassing.   
+6.  Per 1 januari 2015 zijn wijzigingen in het Reglement doorgevoerd met goedkeuring van de Raad van Toezicht op 12 november 2014. Op alle aanvragen die door het Fonds voor 1 januari 2015 zijn ontvangen blijft het Algemeen Reglement zoals dit gold tot 1 januari 2015 van toepassing.   
 7.  Dit reglement wordt aangehaald als Deelreglement Realisering van de Stichting Nederlands Fonds voor de Film   
 8.  Dit reglement wordt bekendgemaakt middels kennisgeving in de Staatscourant en op de website van het Nederlands Fonds voor de Film (www.filmfonds.nl).  

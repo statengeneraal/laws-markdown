@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Vee en Vlees van 26 oktober 2011, houdende voorschriften betreffende de slachting, weging en classificatie van slachtrunderen (Verordening slachting, weging en classificatie slachtrunderen (PVV) 2011)
 
 Het bestuur van het Productschap Vee en Vlees;  
-Gelet op de [artikelen 93](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [102](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [104, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), de [artikelen 10](../../../../../../../../../../AMvB/instellingsbesluit/productschap/vee/en/vlees/BWBR0016491/README.md) en [11 van het Instellingsbesluit Productschap Vee en Vlees](../../../../../../../../../../AMvB/instellingsbesluit/productschap/vee/en/vlees/BWBR0016491/README.md);
+Gelet op de artikelen 93, 102 en 104, tweede lid, van de Wet op de bedrijfsorganisatie, de artikelen 10 en 11 van het Instellingsbesluit Productschap Vee en Vlees;
 
 Gelet op Verordening (EG) Nr. 1249/2008 van de Commissie van 10 december 2008 tot vaststelling van de uitvoeringsbepalingen voor de communautaire indelingsschema's voor runder-, varkens- en schapenkarkassen en voor de mededeling van de prijzen daarvan (Pb L 337), en Verordening (EG) Nr. 1234/2007 van de Raad van 22 oktober 2007 houdende een gemeenschappelijke ordening van de landbouwmarkten en specifieke bepalingen voor een aantal landbouwproducten ("integrale-GMO-verordening") (Pb L 299);
 
@@ -44,7 +44,7 @@ Voor de toepassing van het bij of krachtens deze verordening bepaalde wordt vers
 |s. uitbetaalgewicht |: |warm geslacht gewicht van het geslachte rund B, inclusief correcties op last van de controleorganisatie in verband met foutieve afsnijdingen, exclusief het afkeurgewicht; |
 |t. afkeurbewijs |: |al dan niet digitale lijst waarop de gewichten van de op last van de nVWA afgesneden delen van het geslachte rund B vermeld staan en die door of namens de nVWA wordt afgetekend; |
 |u. volgnummers |: |nummers die per dag de volgorde aangeven waarin slachtrunderen na de slacht worden gewogen; |
-|v. merk |: |merk, ter identificatie van het slachtrund, als bedoeld in [artikel 1, onder v](../../../../../../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md), en [artikel 8, eerste lid, van de Regeling identificatie en registratie van dieren](../../../../../../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md) (Stcrt. 2002, 248);  |
+|v. merk |: |merk, ter identificatie van het slachtrund, als bedoeld in artikel 1, onder v, en artikel 8, eerste lid, van de Regeling identificatie en registratie van dieren (Stcrt. 2002, 248);  |
 |w. identificatiecode |: |code waarvan het merk is voorzien; |
 |x. classificatieorganisatie |: |organisatie die door het bestuur is belast met de classificatie van slachtrunderen als bedoeld in deze verordening; |
 |y. classificateur |: |degene, die door of vanwege de classificatieorganisatie met het classificeren is belast; |
@@ -85,7 +85,7 @@ Voor de toepassing van het bij of krachtens deze verordening bepaalde wordt vers
 
 ###Artikel 3 
 
-1. Onverminderd het bepaalde in de [Regeling identificatie en registratie van dieren](../../../../../../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md) is de be- of verwerker gehouden er op toe te zien dat alle slachtrunderen, bij aanvoer, geïdentificeerd zijn met een merk. Indien slachtrunderen worden afgeleverd zonder merk, dient de be- of verwerker er direct voor zorg te dragen dat deze slachtrunderen worden geïdentificeerd met een merk waarmee de relatie tussen de aangevoerde slachtrunderen en de leverancier of rundveehouder wordt vastgelegd. 
+1. Onverminderd het bepaalde in de Regeling identificatie en registratie van dieren is de be- of verwerker gehouden er op toe te zien dat alle slachtrunderen, bij aanvoer, geïdentificeerd zijn met een merk. Indien slachtrunderen worden afgeleverd zonder merk, dient de be- of verwerker er direct voor zorg te dragen dat deze slachtrunderen worden geïdentificeerd met een merk waarmee de relatie tussen de aangevoerde slachtrunderen en de leverancier of rundveehouder wordt vastgelegd. 
 2. De be- of verwerker is gehouden ervoor zorg te dragen dat vanaf het moment van aanvoer tot en met het tijdstip van de classificatie en de weging de identificatie van het slachtrund gewaarborgd blijft.
 
 ###Hoofdstuk 3 
@@ -124,7 +124,7 @@ g.Het bestuur kan ook voor andere onderdelen van het slachtrund dan genoemd in o
 
 ###Artikel 6 
 
-1. Bij de weging wordt gebruik gemaakt van een krachtens de [Metrologiewet](../../../../../../../../../../wet/metrologiewet/BWBR0019517/README.md) (Stb. 2006, 137) goedgekeurd weegwerktuig uit de klasse III. De automatisch bediende afdrukinrichting moet per individuele weging het tijdstip in minuten en uren, de datum der weging en het individuele merk of het volgnummer afdrukken, terwijl het weegwerktuig met de haken tezamen in ledige toestand de nulstand moet aangeven. De gebruikte haken moeten alle van hetzelfde gewicht zijn.
+1. Bij de weging wordt gebruik gemaakt van een krachtens de Metrologiewet (Stb. 2006, 137) goedgekeurd weegwerktuig uit de klasse III. De automatisch bediende afdrukinrichting moet per individuele weging het tijdstip in minuten en uren, de datum der weging en het individuele merk of het volgnummer afdrukken, terwijl het weegwerktuig met de haken tezamen in ledige toestand de nulstand moet aangeven. De gebruikte haken moeten alle van hetzelfde gewicht zijn.
 2. De be- of verwerker is gehouden om, ten behoeve van herweging door de controleorganisatie, te beschikken over een voorziening om de slachtrunderen na het tijdstip van weging en voor de koeling uit te railen. Van het voor herweging aangewezen slachtrund mag tot na de herweging niets worden afgesneden.
 3. Ten minste éénmaal per drie jaar dient het weegwerktuig gecontroleerd te worden door het NMi of door een door het NMi erkende instantie.
 4. De be- of verwerker is gehouden een aantal van een geldig ijkmerk voorziene toetsgewichten van 20 en 25 kg bij het weegwerktuig als bedoeld in het eerste lid, beschikbaar te hebben tot een totaalgewicht van ten minste 250 kg.
@@ -198,7 +198,7 @@ b.indien zij na 12.00 uur op het terrein van de slachtinrichting zijn aangevoerd
 ###Artikel 11 
 
 1. De be- of verwerker is gehouden de geslachte slachtrunderen binnen 45 minuten na de eerste handeling die plaatsvindt nadat de slachthaak in het karkas gestoken is te wegen, behoudens het bepaalde in artikel 12, derde lid.
-2. Bij de weging wordt gebruik gemaakt van een krachtens de [Metrologiewet](../../../../../../../../../../wet/metrologiewet/BWBR0019517/README.md) (Stb. 2006, 137) goedgekeurd weegwerktuig uit de klasse III. De automatisch bediende afdrukinrichting moet per individuele weging het tijdstip in minuten en uren, de datum der weging en het individuele merk of het volgnummer afdrukken, terwijl het weegwerktuig met de haken tezamen in ledige toestand de nulstand moet aangeven. De gebruikte haken moeten alle van hetzelfde gewicht zijn.
+2. Bij de weging wordt gebruik gemaakt van een krachtens de Metrologiewet (Stb. 2006, 137) goedgekeurd weegwerktuig uit de klasse III. De automatisch bediende afdrukinrichting moet per individuele weging het tijdstip in minuten en uren, de datum der weging en het individuele merk of het volgnummer afdrukken, terwijl het weegwerktuig met de haken tezamen in ledige toestand de nulstand moet aangeven. De gebruikte haken moeten alle van hetzelfde gewicht zijn.
 3. De be- of verwerker is gehouden om, ten behoeve van herweging door de controleorganisatie, te beschikken over een voorziening om de slachtrunderen na het tijdstip van weging en voor de koeling uit te railen. Van het voor herweging aangewezen slachtrund mag tot na de herweging niets worden afgesneden.
 4. Ten minste éénmaal per drie jaar dient het weegwerktuig gecontroleerd te worden door het NMi of door een door het NMi erkende instantie.
 5. De be- of verwerker is gehouden om, ten behoeve van de controle van het weegwerktuig door de toezichthouder, een aantal van een geldig ijkmerk voorziene toetsgewichten van 20 en 25 kilogram bij het weegwerktuig voorhanden te hebben tot een totaalgewicht van ten minste 400 kilogram. Indien het wegen wordt uitgevoerd conform het gestelde in het tiende lid, is de be- of verwerker gehouden een aantal van een geldig ijkmerk voorziene toetsgewichten van 20 en 25 kilogram bij het weegwerktuig voorhanden te hebben tot een totaalgewicht van ten minste 200 kilogram.
@@ -438,7 +438,7 @@ e.voor het overige alle medewerking te verlenen ter vervulling van de aan hun op
 
 ###Artikel 30 
 
-Op overtreding van het bepaalde bij of krachtens deze verordening worden tuchtrechtelijke maatregelen gesteld zoals voorzien in de [Wet tuchtrechtspraak bedrijfsorganisatie 2004](../../../../../../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md).
+Op overtreding van het bepaalde bij of krachtens deze verordening worden tuchtrechtelijke maatregelen gesteld zoals voorzien in de Wet tuchtrechtspraak bedrijfsorganisatie 2004.
 
 ###Hoofdstuk 13 
 
@@ -462,7 +462,7 @@ b.andere dan de onder a, bedoelde natuurlijke- en rechtspersonen, voor zover dez
 1. De voorzitter kan namens het bestuur in uitzonderlijke gevallen en voor zo ver het doel van de verordening zich daartegen niet verzet, vrijstelling of op aanvraag ontheffing verlenen van de verplichtingen bedoeld in de artikelen 5, 7, 10, 12 en 13.
 2. Aan een vrijstelling of ontheffing als bedoeld in het eerste lid kunnen voorschriften of voorwaarden worden verbonden.
 3. Een verleende ontheffing als bedoeld in het eerste lid kan te allen tijde door de voorzitter worden ingetrokken.
-4. De bij of krachtens [Verordening slachting, weging en classificatie slachtrunderen 2008](../../../../../../../../../../pbo/verordening/slachting/weging/en/classificatie/slachtrunderen/(pvv)/2008/BWBR0024129/README.md) verleende en van kracht zijnde ontheffingen, worden geacht te zijn verleend bij of krachtens deze verordening.
+4. De bij of krachtens Verordening slachting, weging en classificatie slachtrunderen 2008 verleende en van kracht zijnde ontheffingen, worden geacht te zijn verleend bij of krachtens deze verordening.
 
 ###Hoofdstuk 14 
 
@@ -470,7 +470,7 @@ b.andere dan de onder a, bedoelde natuurlijke- en rechtspersonen, voor zover dez
 
 ###Artikel 34 
 
-1. De [Verordening slachting, weging en classificatie slachtrunderen (PVV) 2008](../../../../../../../../../../pbo/verordening/slachting/weging/en/classificatie/slachtrunderen/(pvv)/2008/BWBR0024129/README.md) wordt ingetrokken.
+1. De Verordening slachting, weging en classificatie slachtrunderen (PVV) 2008 wordt ingetrokken.
 2. De Verordening slachting, weging en classificatie slachtrunderen (PVV) 2008 blijft van toepassing op overtredingen die zijn begaan vóór de inwerkingtreding van deze verordening.
 
 ###Artikel 35 

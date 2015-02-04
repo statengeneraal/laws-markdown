@@ -3,9 +3,9 @@
 ##Verordening van het Productschap Vee en Vlees van 26 oktober 2011 houdende vaststelling van een tegemoetkomingsregeling vanwege bestrijdingsmaatregelen tegen de Ziekte van Aujeszky en daarmee samenhangende kosten (Verordening tegemoetkoming kosten bestrijding Ziekte van Aujeszky bij varkens (PVV) 2011)
 
 Het bestuur van het Productschap Vee en Vlees;  
-Gelet op de [artikelen 93](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [102](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [104 van de Wet op de bedrijfsorganisatie](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [artikel 10 van het Instellingsbesluit Productschap Vee en Vlees](../../../../../../../../../../../AMvB/instellingsbesluit/productschap/vee/en/vlees/BWBR0016491/README.md);
+Gelet op de artikelen 93, 95, 102 en 104 van de Wet op de bedrijfsorganisatie en artikel 10 van het Instellingsbesluit Productschap Vee en Vlees;
 
-Gezien [titel 4.2 van de Algemene wet bestuursrecht](../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en de [Verordening bestrijding Ziekte van Aujeszky bij varkens (PVV) 2008](../../../../../../../../../../../pbo/verordening/bestrijding/ziekte/van/aujeszky/bij/varkens/(pvv)/2008/BWBR0024463/README.md)
+Gezien titel 4.2 van de Algemene wet bestuursrecht en de Verordening bestrijding Ziekte van Aujeszky bij varkens (PVV) 2008
 Besluit:    
 ###1 
 
@@ -17,7 +17,7 @@ In deze verordening wordt verstaan onder:
 
 | --- | --- | --- |
 |:---|:---|:---|
-|a. tegemoetkoming |: |de aanspraak op vergoeding vanwege kosten samenhangend met bestrijdingsmaatregelen in het kader van de bestrijding van de Ziekte van Aujeszky gebaseerd op de [Verordening bestrijding Ziekte van Aujeszky bij varkens (PVV) 2008](../../../../../../../../../../../pbo/verordening/bestrijding/ziekte/van/aujeszky/bij/varkens/(pvv)/2008/BWBR0024463/README.md); |
+|a. tegemoetkoming |: |de aanspraak op vergoeding vanwege kosten samenhangend met bestrijdingsmaatregelen in het kader van de bestrijding van de Ziekte van Aujeszky gebaseerd op de Verordening bestrijding Ziekte van Aujeszky bij varkens (PVV) 2008; |
 |b. vleesvarken |: |varken dat ouder is dan 8 á 10 weken, een gewicht van minimaal 25 kilogram heeft bereikt, en dat kennelijk is bestemd voor de productie van vlees; |
 |c. opfokvarken |: |vrouwelijk varken dat ouder is dan 8 á 10 weken, een gewicht van minimaal 25 kilogram heeft bereikt, en dat kennelijk is bestemd voor de reproductie, tot het moment van eerste dekking casu quo inseminatie; dan wel een mannelijk varken dat ouder is dan 8 á 10 weken en niet ouder is dan 200 dagen, een gewicht van minimaal 25 kilogram heeft bereikt, en dat kennelijk is bestemd voor de reproductie; |
 |d. zeug |: |vrouwelijk varken vanaf het moment van eerste dekking casu quo inseminatie; |
@@ -25,7 +25,7 @@ In deze verordening wordt verstaan onder:
 |f. big |: |varken in de leeftijd van 0 weken tot 10 weken, dat nog niet als vleesvarken is opgelegd; |
 |g. onderzoek |: |klinische inspectie door de dierenarts, inclusief afname van bloedmonsters, ten behoeve van een gE-test, gericht op de vaststelling van de aan- of afwezigheid van het Aujeszky-virus |
 
-en worden de overige begripsbepalingen uit de [Verordening bestrijding Ziekte van Aujeszky bij varkens (PVV) 2008](../../../../../../../../../../../pbo/verordening/bestrijding/ziekte/van/aujeszky/bij/varkens/(pvv)/2008/BWBR0024463/README.md) en [Titel 4.2 uit de Algemene wet bestuursrecht](../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) overgenomen.
+en worden de overige begripsbepalingen uit de Verordening bestrijding Ziekte van Aujeszky bij varkens (PVV) 2008 en Titel 4.2 uit de Algemene wet bestuursrecht overgenomen.
 
 ###2 
 
@@ -33,7 +33,7 @@ en worden de overige begripsbepalingen uit de [Verordening bestrijding Ziekte va
 
 ###Artikel 2 
 
-1. De voorzitter verleent op aanvraag een tegemoetkoming in de kosten aan de ondernemer, dan wel subsidie op voorwaarde dat voldaan is aan artikel 4 en dat overeenkomstig de verboden en verplichtingen bepaald bij of krachtens de [artikelen 4](../../../../../../../../../../../pbo/verordening/bestrijding/ziekte/van/aujeszky/bij/varkens/(pvv)/2008/BWBR0024463/README.md) en [5 van de Verordening bestrijding Ziekte van Aujeszky bij varkens (PVV) 2008](../../../../../../../../../../../pbo/verordening/bestrijding/ziekte/van/aujeszky/bij/varkens/(pvv)/2008/BWBR0024463/README.md), varkens zijn gevaccineerd en onderzocht, vervroegd zijn geslacht, dan wel ter destructie zijn aangeboden. 
+1. De voorzitter verleent op aanvraag een tegemoetkoming in de kosten aan de ondernemer, dan wel subsidie op voorwaarde dat voldaan is aan artikel 4 en dat overeenkomstig de verboden en verplichtingen bepaald bij of krachtens de artikelen 4 en 5 van de Verordening bestrijding Ziekte van Aujeszky bij varkens (PVV) 2008, varkens zijn gevaccineerd en onderzocht, vervroegd zijn geslacht, dan wel ter destructie zijn aangeboden. 
 2. Tegemoetkoming wordt verstrekt in de kosten in verband met:
 
 a.het vervroegd laten slachten van varkens afkomstig van een besmet bedrijf;
@@ -48,7 +48,7 @@ c.het ter destructie aanbieden van een singleton-reactor.
 
 a.artikel 2, tweede lid, sub a., wordt door de voorzitter toegekend op basis van de in de bijlage opgenomen tabellen;
 
-b.artikel 2, tweede lid, sub b., wordt door de voorzitter toegekend aan de door de ondernemer ingeschakelde dierenarts in het geval er sprake is van het tweemaal laten vaccineren en het verrichten van onderzoek overeenkomstig het bij of krachtens de [Verordening bestrijding Ziekte van Aujeszky bij varkens (PVV) 2008](../../../../../../../../../../../pbo/verordening/bestrijding/ziekte/van/aujeszky/bij/varkens/(pvv)/2008/BWBR0024463/README.md) bepaalde. Aan de dierenarts die een vaccinatie of een onderzoek verricht wordt een tegemoetkoming toegekend ter hoogte van € 0,20 cent per keer per varken, met een minimum van € 20,-- per onderneming;
+b.artikel 2, tweede lid, sub b., wordt door de voorzitter toegekend aan de door de ondernemer ingeschakelde dierenarts in het geval er sprake is van het tweemaal laten vaccineren en het verrichten van onderzoek overeenkomstig het bij of krachtens de Verordening bestrijding Ziekte van Aujeszky bij varkens (PVV) 2008 bepaalde. Aan de dierenarts die een vaccinatie of een onderzoek verricht wordt een tegemoetkoming toegekend ter hoogte van € 0,20 cent per keer per varken, met een minimum van € 20,-- per onderneming;
 
 c.artikel 2, tweede lid, sub c., wordt door de voorzitter toegekend op basis van de waarde van de ter destructie aangeboden singleton-reactor. 
 2. Voor het totale bedrag aan te verstrekken tegemoetkoming geldt een plafond van € 8.000.000,--. 
@@ -64,7 +64,7 @@ c.artikel 2, tweede lid, sub c., wordt door de voorzitter toegekend op basis van
 ###Artikel 4 
 
 1. Voor de aanvraag van de tegemoetkoming inzake het vervroegd laten slachten van varkens maakt de ondernemer gebruik van het door het bestuur bij besluit vastgestelde vooraanmeldingsformulier dat volledig en naar waarheid wordt ingevuld, ondertekend en gedagtekend en vervolgens van het door het bestuur bij besluit vastgestelde aanvraagformulier, dat volledig en naar waarheid wordt ingevuld, ondertekend en gedagtekend, onder bijvoeging van de vereiste documenten en bijlagen zoals door het bestuur bij besluit vastgesteld. 
-2. Voor het aanvragen van een tegemoetkoming aan de dierenarts die de vaccinatie uitvoert en het onderzoek verricht wordt gebruik gemaakt van het rapport bestrijdingsmiddelen zoals vastgesteld in het [Besluit bestrijdingsmaatregelen Ziekte van Aujeszky bij varkens (PVV) 2008](../../../../../../../../../../../pbo/besluit/bestrijdingsmaatregelen/ziekte/van/aujeszky/bij/varkens/(pvv)/2008/BWBR0024472/README.md) dat volledig en naar waarheid wordt ingevuld, ondertekend en gedagtekend. Het formulier wordt door de varkenshouder ingediend.
+2. Voor het aanvragen van een tegemoetkoming aan de dierenarts die de vaccinatie uitvoert en het onderzoek verricht wordt gebruik gemaakt van het rapport bestrijdingsmiddelen zoals vastgesteld in het Besluit bestrijdingsmaatregelen Ziekte van Aujeszky bij varkens (PVV) 2008 dat volledig en naar waarheid wordt ingevuld, ondertekend en gedagtekend. Het formulier wordt door de varkenshouder ingediend.
 3. Voor de aanvraag van de tegemoetkoming inzake het ter destructie aanbieden van een singleton-reactor maakt de aanvrager gebruik van het door het bestuur bij besluit vastgestelde document.
 4. Voor de aanvraag van de tegemoetkoming inzake het vervroegd laten slachten van varkens dient het vooraanmeldingsformulier inzake het vervroegd slachten uiterlijk 14 dagen nadat het desbetreffende bedrijf besmet is verklaard door het productschap te zijn ontvangen.
 5. De aanvraag voor de tegemoetkoming inzake het vervroegd slachten, voorzien van de benodigde documenten, dient zo spoedig mogelijk, en uiterlijk binnen 21 dagen na de dag van vervroegd slachten, door het productschap te zijn ontvangen.
@@ -101,7 +101,7 @@ De ondernemer is verplicht de met het toezicht op de naleving van de voorschrift
 ###Artikel 9 
 
 1. De tegemoetkoming wordt ingetrokken indien de ondernemer niet of niet meer wordt voldaan aan de voorwaarden zoals gesteld in de artikelen 3 en 4. 
-2. Indien de tegemoetkoming wordt ingetrokken of ten nadele van de ondernemer wordt gewijzigd met toepassing van de [artikelen 4:49](../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [4:57 van de Algemene wet bestuursrecht](../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kunnen de verstrekte subsidiebedragen overeenkomstig artikel 4:57 van de Algemene wet bestuursrecht worden teruggevorderd en vermeerderd met de wettelijke rente over de periode vanaf de eerste uitbetaling tot aan het moment van algehele voldoening.
+2. Indien de tegemoetkoming wordt ingetrokken of ten nadele van de ondernemer wordt gewijzigd met toepassing van de artikelen 4:49 en 4:57 van de Algemene wet bestuursrecht kunnen de verstrekte subsidiebedragen overeenkomstig artikel 4:57 van de Algemene wet bestuursrecht worden teruggevorderd en vermeerderd met de wettelijke rente over de periode vanaf de eerste uitbetaling tot aan het moment van algehele voldoening.
 3. De te betalen rente is de wettelijke rente zoals deze geldt op de laatste dag van de maand waarin de betaling van de tegemoetkoming heeft plaatsgevonden.
 4. Geen wettelijke rente is verschuldigd indien de oorzaak van het onverschuldigd betalen bij het productschap is gelegen.
 
@@ -120,7 +120,7 @@ De ondernemer is verplicht de met het toezicht op de naleving van de voorschrift
 
 ###Artikel 11 
 
-De [Verordening tegemoetkoming kosten bestrijding Ziekte van Aujeszky bij varkens (PVV) 2008](../../../../../../../../../../../pbo/verordening/tegemoetkoming/kosten/bestrijding/ziekte/van/aujeszky/bij/etc/BWBR0030431/README.md) wordt ingetrokken. 
+De Verordening tegemoetkoming kosten bestrijding Ziekte van Aujeszky bij varkens (PVV) 2008 wordt ingetrokken. 
 
 ###Artikel 12 
 

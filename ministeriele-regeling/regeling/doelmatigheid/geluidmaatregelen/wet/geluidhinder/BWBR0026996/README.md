@@ -141,8 +141,7 @@ Tabel 1 Bronmaatregelen, de randvoorwaarden en de maatregelpunten
 | Wegdek:  2-laags Zeer Open Asfalt Beton  | – voldoende verkeersintensiteit  – geen wringend of remmend verkeer  – snelheid meer dan 70 km per uur  | 26 per 10 m<sup>2</sup> t.o.v. DAB  22 per 10 m<sup>2</sup> t.o.v. ZOAB   |
 | Wegdek:  Dunne deklaag  | – snelheid niet boven 80 km per uur  – niet op kruisingen of rotondes  | 13 per 10 m<sup>2</sup> t.o.v. DAB  9 per 10 m<sup>2</sup> t.o.v. ZOAB  16 per 10 m<sup>2</sup> t.o.v. elementverharding  |
 |  * Spoorweg *   | --- | --- |
-|  Raildemper  | – niet tegen wissels of voegen  – alleen bij betonnen dwarsliggers   | 46 per meter enkel spoor   |
-|  Betonnen dwarsliggers   | – aanwezigheid ballastbed   | 45 per meter enkel spoor   |
+| Raildemper  | – niet tegen wissels of voegen  – bij houten dwarsliggers indien toestemming is verkregen van de beheerder  – De afstand waarover raildempers worden aangelegd is ten minste 50 m of indien dat korter is gelijk aan tweemaal de afstand tussen de buitenste spoorstaaf en het dichtstbijzijnde geluidsgevoelige object  | 29 per meter enkel spoor  |
 
 Tabel 2 Overdrachtsmaatregelen, de randvoorwaarden en de maatregelpunten 
 
@@ -173,20 +172,24 @@ Tabel 2 Overdrachtsmaatregelen, de randvoorwaarden en de maatregelpunten
 | --- | --- | --- | --- |
 |  * spoorweg*   | --- | --- | --- |
 | --- | --- | Per strekkende meter bij een hoogte<sup>1</sup> van:  |
-| --- | --- | 1 m  | 66  |
-| --- | --- | 1,5 m  | 89  |
-| geluidscherm  | niet van toepassing  | 2 m  | 112  |
-| --- | --- | 3 m  | 155  |
-| --- | --- | 4 m  | 197  |
-| --- | --- | elke m hoogte boven 4 m  | 42  |
+| --- | --- | 1 m  | 83  |
+| --- | --- | 1,5 m  | 87  |
+| geluidscherm  | niet van toepassing  | 2 m  | 92  |
+| --- | --- | 3 m  | 122  |
+| --- | --- | 4 m  | 148  |
+| --- | --- | 5 m  | 173  |
+| --- | --- | 6 m  | 198  |
+| --- | --- | 7 m  |223 |
+| --- | --- | 8 m  |248 |
+| --- | --- | elke m hoogte boven 8 m  | 25  |
 | --- | --- | --- | --- |
-| geluidwal  | – ruimtebeslag  – grondgesteldheid  | Gelijk aan het aantal maatregelpunten van een geluidscherm  |
-| --- | --- | Per strekkende meter bij een hoogte<sup>1</sup> van:  |
-| --- | --- | 1 m  | 66  |
-| scherm tussen sporen  | – niet bij wissels  | 1,5 m  | 89  |
-| --- | --- | 2 m  | 112  |
-| --- | --- | 3 m  | 155  |
-| --- | --- | 4 m  | 197  |
+| geluidwal  | – ruimtebeslag  – grondgesteldheid  | Gelijk aan het aantal maatregelpunten van een geluidscherm  | --- |
+| --- | --- | Per strekkende meter bij een hoogte<sup>1</sup> van:  | --- |
+| --- | --- | 1 m  | 83  |
+| scherm tussen sporen  | – niet bij wissels  | 1,5 m  | 87  |
+| --- | --- | 2 m  | 92  |
+| --- | --- | 3 m  | 122  |
+| --- | --- | 4 m  | 148  |
 
 <sup>1</sup> bepaald overeenkomstig artikel 4, derde lid.  Tabel 3 Overige geluidbeperkende maatregelen 
 

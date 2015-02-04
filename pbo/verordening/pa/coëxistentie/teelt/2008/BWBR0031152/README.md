@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Akkerbouw van 5 juni 2008 houdende regels over de teelt van toegelaten of vergunde gg-gewassen naast de teelt van biologische en gangbare gewassen (Verordening PA coëxistentie teelt 2008)
 
 Het bestuur van het Productschap Akkerbouw;  
-Gelet op de [artikelen 93](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [104, eerste en derde lid, van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op de [artikelen 8](../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md), [17](../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md) en [18 van het Instellingsbesluit Akkerbouwproductschappen](../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md);
+Gelet op de artikelen 93, 95, 104, eerste en derde lid, van de Wet op de bedrijfsorganisatie en op de artikelen 8, 17 en 18 van het Instellingsbesluit Akkerbouwproductschappen;
 
 Gehoord de Commissie Teeltaangelegenheden;
 Besluit:    
@@ -30,9 +30,9 @@ Deze verordening verstaat onder:
 |k. ggo-vrije teler  |: |de biologische en andere ondernemers die geheel ggo-vrij willen blijven en dit integraal in hun bedrijfsvoering hebben doorgevoerd en tevens kunnen aantonen dat hun afnemers specifieke markteisen stellen met betrekking tot de 'ggo-vrije' status van de eindproducten; |
 |l. ggo-vrij gedefinieerde markt |: |markt waarbij afnemers specifieke eisen stellen met betrekking tot de 'ggo-vrije' status van de eindproducten; |
 |m. afnemer |: |tussenhandelaren, detailhandel (retail) en consumenten; |
-|n. [Besluit ggo](../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md) |: |[Besluit genetisch gemodificeerde organismen Wet milieugevaarlijke stoffen](../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md) (Staatsblad 1993, 435); |
-|o. toegelaten |: |conform het in [paragraaf 3.3 van het Besluit ggo](../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md) bepaalde dan wel conform Verordening (EG) 1829/2003 op de Europese markt toegelaten voor teelt; |
-|p. vergunde |: |conform het in [paragraaf 3.2 van het Besluit ggo](../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md) bepaalde vergund; |
+|n. Besluit ggo |: |Besluit genetisch gemodificeerde organismen Wet milieugevaarlijke stoffen (Staatsblad 1993, 435); |
+|o. toegelaten |: |conform het in paragraaf 3.3 van het Besluit ggo bepaalde dan wel conform Verordening (EG) 1829/2003 op de Europese markt toegelaten voor teelt; |
+|p. vergunde |: |conform het in paragraaf 3.2 van het Besluit ggo bepaalde vergund; |
 |q. gg-gewassen |: |genetisch gemodificeerde rassen van aardappelen, suikerbieten en maïs; |
 |r. aardappelen |: |planten van de soort *Solanum tuberosum*; |
 |s. aardappelopslag |: |aardappelplanten gegroeid uit op een perceel achtergebleven aardappelknollen of zaad; |

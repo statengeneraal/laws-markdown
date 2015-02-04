@@ -109,7 +109,9 @@ M.H. Schultz van Haegen-Maas Geesteranus.
 
 – Subsidieregeling maatschappelijke organisaties en milieu.  
 
-– Subsidieregeling emissiearme taxi’s en bestelauto’s.   
+– Subsidieregeling emissiearme taxi’s en bestelauto’s.  
+
+– Regeling ammoniak en veehouderij.  
 
 ####Onderdeel D – ruimte
 
