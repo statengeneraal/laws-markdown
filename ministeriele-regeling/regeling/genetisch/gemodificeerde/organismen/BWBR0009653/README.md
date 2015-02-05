@@ -3,7 +3,7 @@
 ##Regeling genetisch gemodificeerde organismen
 
 De Minister van Volkshuisvesting, Ruimtelijk Ordening en Milieubeheer,  
-Gelet op [artikel 24, derde lid van de Wet milieugevaarlijke stoffen](../../../../../../wet/wet/milieugevaarlijke/stoffen/BWBR0003892/README.md) en de artikelen 1, onderdeel h, 2, tweede lid, 3, tweede lid, 5, tweede lid, 6, eerste lid, 7, derde lid, 8, tweede lid, j° 7, [vijfde lid](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md), van het [Besluit genetisch gemodificeerde organismen Wet milieugevaarlijke stoffen](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md);
+Gelet op artikel 24, derde lid van de Wet milieugevaarlijke stoffen en de artikelen 1, onderdeel h, 2, tweede lid, 3, tweede lid, 5, tweede lid, 6, eerste lid, 7, derde lid, 8, tweede lid, j° 7, vijfde lid, van het Besluit genetisch gemodificeerde organismen Wet milieugevaarlijke stoffen;
 Besluit:      
 ### Hoofdstuk  1  
 
@@ -13,7 +13,7 @@ Besluit:
 
 ####Definities
 
-In deze regeling wordt verstaan onder:   *activiteiten met genetisch gemodificeerde organismen:*   vervaardiging van of handelingen met genetisch gemodificeerde organismen;    *Besluit:*   [Besluit genetisch gemodificeerde organismen milieubeheer](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md);    *biologische inperking:*   eigenschappen van een organisme die de overleving en de verbreiding van dat organisme in het milieu beperken, of eigenschappen van een gastheer/vectorsysteem die de overdracht van de vector beperken;    *defect virus:*   replicatie-deficiënte vorm van een voor planten of dieren pathogeen virus dat zich uitsluitend met een helper(functie) kan vermenigvuldigen;    *Dienst Regelingen:*  Dienst Regelingen van het Ministerie van Landbouw, Natuur en Voedselkwaliteit, Postbus 360, 9400 AJ Assen;    *donororganisme:*   organisme waaruit de in een gastheer te brengen of gebrachte erfelijke informatie, daaronder mede begrepen synthetisch nagemaakt erfelijk materiaal, oorspronkelijk afkomstig is;    *ecotroop muizenretrovirus:*   retrovirus dat uitsluitend cellen van muizen en ratten kan infecteren;    *fysische inperking:*   voorzieningen aangebracht aan werkruimten, installaties en apparatuur, waardoor verspreiding van organismen daaronder begrepen genetisch gemodificeerde organismen wordt tegengegaan;    *fysisch inperkend systeem:*   inperkende apparatuur voor kweek of fermentatie en downstream processing in procesinstallaties dan wel het samenste van een ingeperkte werkruimte met de zich daarin bevindende apparatuur voor kweek en fermentatie en downstream processing in procesinstallaties;    *gastheerorganisme:*   organisme waaruit een genetisch gemodificeerd organisme wordt of is vervaardigd;    *handelingen met genetisch gemodificeerde organismen:*   activiteiten bestaande uit het vermeerderen, opslaan, aan een ander ter beschikking stellen, toepassen, voorhanden hebben, vervoeren, zich ontdoen of vernietigen van genetisch gemodificeerde organismen;    *inschaling:*   het toekennen op grond van een risico-analyse van een specifiek inperkingsniveau als bedoeld in bijlage 4;    insertie:   genetisch materiaal dat door middel van genetische modificatie aan het genetisch materiaal van de gastheer wordt of is toegevoegd;    *introductie in het milieu:*   activiteiten met een genetisch gemodificeerd organisme anders dan ingeperkt gebruik;    *micro-organisme van klasse 1:*   micro-organisme dat in ieder geval voldoet aan één van de volgende voorwaarden: 
+In deze regeling wordt verstaan onder:   *activiteiten met genetisch gemodificeerde organismen:*   vervaardiging van of handelingen met genetisch gemodificeerde organismen;    *Besluit:*   Besluit genetisch gemodificeerde organismen milieubeheer;    *biologische inperking:*   eigenschappen van een organisme die de overleving en de verbreiding van dat organisme in het milieu beperken, of eigenschappen van een gastheer/vectorsysteem die de overdracht van de vector beperken;    *defect virus:*   replicatie-deficiënte vorm van een voor planten of dieren pathogeen virus dat zich uitsluitend met een helper(functie) kan vermenigvuldigen;    *Dienst Regelingen:*  Dienst Regelingen van het Ministerie van Landbouw, Natuur en Voedselkwaliteit, Postbus 360, 9400 AJ Assen;    *donororganisme:*   organisme waaruit de in een gastheer te brengen of gebrachte erfelijke informatie, daaronder mede begrepen synthetisch nagemaakt erfelijk materiaal, oorspronkelijk afkomstig is;    *ecotroop muizenretrovirus:*   retrovirus dat uitsluitend cellen van muizen en ratten kan infecteren;    *fysische inperking:*   voorzieningen aangebracht aan werkruimten, installaties en apparatuur, waardoor verspreiding van organismen daaronder begrepen genetisch gemodificeerde organismen wordt tegengegaan;    *fysisch inperkend systeem:*   inperkende apparatuur voor kweek of fermentatie en downstream processing in procesinstallaties dan wel het samenste van een ingeperkte werkruimte met de zich daarin bevindende apparatuur voor kweek en fermentatie en downstream processing in procesinstallaties;    *gastheerorganisme:*   organisme waaruit een genetisch gemodificeerd organisme wordt of is vervaardigd;    *handelingen met genetisch gemodificeerde organismen:*   activiteiten bestaande uit het vermeerderen, opslaan, aan een ander ter beschikking stellen, toepassen, voorhanden hebben, vervoeren, zich ontdoen of vernietigen van genetisch gemodificeerde organismen;    *inschaling:*   het toekennen op grond van een risico-analyse van een specifiek inperkingsniveau als bedoeld in bijlage 4;    insertie:   genetisch materiaal dat door middel van genetische modificatie aan het genetisch materiaal van de gastheer wordt of is toegevoegd;    *introductie in het milieu:*   activiteiten met een genetisch gemodificeerd organisme anders dan ingeperkt gebruik;    *micro-organisme van klasse 1:*   micro-organisme dat in ieder geval voldoet aan één van de volgende voorwaarden: 
 
 a.  het micro-organisme behoort niet tot een soort waarvan vertegenwoordigers bekend zijn die ziekteverwekkend zijn voor mens, dier of plant;  
 
@@ -27,7 +27,7 @@ d.  van het micro-organisme is het niet-virulente karakter middels adequate test
 
 ####Werkingssfeer
 
-De fysische barrières of een combinatie van fysische met chemische of biologische barrières bedoeld in [artikel 1, onder g, van het Besluit](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md), zijn de barrières, bedoeld in bijlage 4.  
+De fysische barrières of een combinatie van fysische met chemische of biologische barrières bedoeld in artikel 1, onder g, van het Besluit, zijn de barrières, bedoeld in bijlage 4.  
 
 ### Hoofdstuk  2  
 
@@ -41,7 +41,7 @@ De fysische barrières of een combinatie van fysische met chemische of biologisc
 
 ####Activiteiten die gelden als kleinschalig
 
-Activiteiten die op andere dan de gronden, bedoeld in de [bijlage I, onder C, onder 21.1, onder a, onder 2°, van het Besluit omgevingsrecht](../../../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md), gelden als kleinschalig, zijn: 
+Activiteiten die op andere dan de gronden, bedoeld in de bijlage I, onder C, onder 21.1, onder a, onder 2°, van het Besluit omgevingsrecht, gelden als kleinschalig, zijn: 
 
 a.  onderzoeks- en ontwikkelingstoepassingen in procesinstallaties die een volume van 5000 liter niet overschrijden; of  
 
@@ -51,11 +51,11 @@ b.  activiteiten waarvan de Minister heeft vastgesteld dat deze kleinschalig zij
 
 ####Gastheren, vectoren en inserties
 
-Gastheren, vectoren, gastheer/vectorsystemen en overige inserties die geschikt zijn voor de vervaardiging van organismen die behoren tot groep I als bedoeld in [artikel 2, eerste lid, van het Besluit](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md) zijn: 
+Gastheren, vectoren, gastheer/vectorsystemen en overige inserties die geschikt zijn voor de vervaardiging van organismen die behoren tot groep I als bedoeld in artikel 2, eerste lid, van het Besluit zijn: 
 
-a. de gastheren die zijn opgenomen in bijlage 1 of de gastheren waarvan de Minister overeenkomstig [artikel 2, vierde lid, van het Besluit](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md) heeft vastgesteld dat die daarvoor geschikt zijn,  
+a. de gastheren die zijn opgenomen in bijlage 1 of de gastheren waarvan de Minister overeenkomstig artikel 2, vierde lid, van het Besluit heeft vastgesteld dat die daarvoor geschikt zijn,  
 
-b. de vectoren die zijn opgenomen in bijlage 2.1 of de vectoren waarvan de Minister overeenkomstig [artikel 2, vierde lid, van het Besluit](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md) heeft vastgesteld dat die daarvoor geschikt zijn,  
+b. de vectoren die zijn opgenomen in bijlage 2.1 of de vectoren waarvan de Minister overeenkomstig artikel 2, vierde lid, van het Besluit heeft vastgesteld dat die daarvoor geschikt zijn,  
 
 c. de gastheer/vectorsystemen die zijn opgenomen in bijlage 3, en  
 
@@ -218,15 +218,15 @@ h. de gegevens omtrent de opslag van afval dat genetisch gemodificeerde organism
 
 ####Activiteiten met genetisch gemodificeerde organismen
 
-1.  Activiteiten met genetisch gemodificeerde organismen worden uitgevoerd in overeenstemming met de voorschriften, vermeld in bijlage 4, voor de categorie van fysische inperking bepaald overeenkomstig de inschalingsregels, vermeld in bijlage 5, voor zover in de vergunning krachtens [§ 2 van het Besluit](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md) voor de betrokken activiteiten niet anders is bepaald.    
-2.  Aan een vergunning krachtens [§ 2 van het Besluit](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md) kunnen voorschriften worden verbonden die afwijken van de voorschriften, vermeld in bijlage 4, of van de uitkomst van de toepassing van de regels, bedoeld in bijlage 5, voor zover de betrokken activiteiten niet of minder goed met toepassing van die voorschriften of regels kunnen worden uitgevoerd of ingeschaald. Indien voorschriften als bedoeld in bijlage 4 of de regels, bedoeld in bijlage 5, ingevolge de eerste volzin niet van toepassing zijn op de in de vergunning krachtens § 2 van het Besluit bedoelde handelingen of activiteiten met betrekking tot een genetisch gemodificeerd organisme, worden die handelingen of activiteiten uitgevoerd in overeenstemming met de voorschriften die daaromtrent aan de vergunning zijn verbonden, en de overige in de vergunning opgenomen voorschriften.   
-3.  Bij een beschikking krachtens [artikel 2, vierde lid, van het Besluit](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md), kan een aanduiding worden aangegeven met het oog op de toepassing van bijlage 4 of bijlage 5.   
-4.  In beschikkingen krachtens [artikel 2, vierde lid, van het Besluit](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md), afgegeven voor de inwerkingtreding van de [regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 30 juli 2010, nr. BJZ2010019151, tot wijziging van de Regeling genetisch gemodificeerde organismen (herziening lijst van micro-organismen in bijlage 1 en actualisering indeling handelingen in procesinstallaties)](../../../../../../ministeriele-regeling/wijzigingsregeling/regeling/genetisch/gemodificeerde/organismen/etc/BWBR0028026/README.md), wordt de aanduiding waarmee activiteiten van categorie ‘A’ of ‘A en B’ mogen worden uitgevoerd, gelezen als respectievelijk: 
+1.  Activiteiten met genetisch gemodificeerde organismen worden uitgevoerd in overeenstemming met de voorschriften, vermeld in bijlage 4, voor de categorie van fysische inperking bepaald overeenkomstig de inschalingsregels, vermeld in bijlage 5, voor zover in de vergunning krachtens § 2 van het Besluit voor de betrokken activiteiten niet anders is bepaald.    
+2.  Aan een vergunning krachtens § 2 van het Besluit kunnen voorschriften worden verbonden die afwijken van de voorschriften, vermeld in bijlage 4, of van de uitkomst van de toepassing van de regels, bedoeld in bijlage 5, voor zover de betrokken activiteiten niet of minder goed met toepassing van die voorschriften of regels kunnen worden uitgevoerd of ingeschaald. Indien voorschriften als bedoeld in bijlage 4 of de regels, bedoeld in bijlage 5, ingevolge de eerste volzin niet van toepassing zijn op de in de vergunning krachtens § 2 van het Besluit bedoelde handelingen of activiteiten met betrekking tot een genetisch gemodificeerd organisme, worden die handelingen of activiteiten uitgevoerd in overeenstemming met de voorschriften die daaromtrent aan de vergunning zijn verbonden, en de overige in de vergunning opgenomen voorschriften.   
+3.  Bij een beschikking krachtens artikel 2, vierde lid, van het Besluit, kan een aanduiding worden aangegeven met het oog op de toepassing van bijlage 4 of bijlage 5.   
+4.  In beschikkingen krachtens artikel 2, vierde lid, van het Besluit, afgegeven voor de inwerkingtreding van de regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 30 juli 2010, nr. BJZ2010019151, tot wijziging van de Regeling genetisch gemodificeerde organismen (herziening lijst van micro-organismen in bijlage 1 en actualisering indeling handelingen in procesinstallaties), wordt de aanduiding waarmee activiteiten van categorie ‘A’ of ‘A en B’ mogen worden uitgevoerd, gelezen als respectievelijk: 
 
 – ‘waarmee onder de voorwaarden, genoemd in bijlage 5, inschalingsartikel 5.7.2, handelingen op MI-II niveau of hoger mogen worden verricht’, en  
 
 – ‘waarmee onder de voorwaarden, genoemd in bijlage 5, inschalingsartikel 5.7.1, handelingen op MI-I niveau of hoger mogen worden verricht’.    
-5.  Voor de toepassing van bijlage 4 geldt, in plaats van een voor het tijdstip waarop dit besluit in werking is getreden, in een krachtens het [Besluit](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md) verleend vergunning aangegeven categorie van fysische inperking, de daarbij in bijlage 4a aangegeven categorie, tenzij door de Minister – met ingang van of na dat tijdstip – in de vergunning een andere categorie is aangegeven.  
+5.  Voor de toepassing van bijlage 4 geldt, in plaats van een voor het tijdstip waarop dit besluit in werking is getreden, in een krachtens het Besluit verleend vergunning aangegeven categorie van fysische inperking, de daarbij in bijlage 4a aangegeven categorie, tenzij door de Minister – met ingang van of na dat tijdstip – in de vergunning een andere categorie is aangegeven.  
 
 ###§ 2.4 
 
@@ -234,7 +234,7 @@ h. de gegevens omtrent de opslag van afval dat genetisch gemodificeerde organism
 
 ###Artikel 8a  
 
-1.  Degene die een inrichting drijft als bedoeld in [bijlage I, onder C, onder 21.1, van het Besluit omgevingsrecht](../../../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md) voldoet aan de voorschriften die zijn opgenomen in bijlage 4 bij deze regeling. Voor de toepassing van die bijlage geldt, in plaats van een voor het tijdstip waarop dit besluit in werking is getreden, in de vergunning aangegeven categorie van fysische inperking, de daarbij in bijlage 4a aangegeven categorie, tenzij door het bevoegd gezag in het kader van de [Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) – met ingang van of na dat tijdstip – in de vergunning een andere categorie is aangegeven.   
+1.  Degene die een inrichting drijft als bedoeld in bijlage I, onder C, onder 21.1, van het Besluit omgevingsrecht voldoet aan de voorschriften die zijn opgenomen in bijlage 4 bij deze regeling. Voor de toepassing van die bijlage geldt, in plaats van een voor het tijdstip waarop dit besluit in werking is getreden, in de vergunning aangegeven categorie van fysische inperking, de daarbij in bijlage 4a aangegeven categorie, tenzij door het bevoegd gezag in het kader van de Wet milieubeheer – met ingang van of na dat tijdstip – in de vergunning een andere categorie is aangegeven.   
 2.   De Minister kan nadere eisen stellen met betrekking tot de in bijlage 4 geregelde onderwerpen.   
 3.   De nadere eisen gelden voor een ieder die de inrichting drijft. Deze draagt er zorg voor dat de nadere eisen worden nageleefd.   
 4.   De Minister kan de nadere eisen wijzigen of aanvullen in het belang van de bescherming van het milieu, of wijzigen of intrekken, indien het belang van de bescherming van het milieu zich daartegen niet verzet.  
@@ -250,7 +250,7 @@ h. de gegevens omtrent de opslag van afval dat genetisch gemodificeerde organism
 
 ####Wijziging van bestaande vergunningen
 
-In afwijking van het bepaalde in een vergunning verleend krachtens [§ 2.5 van het Besluit](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md) zijn op handelingen als bedoeld in bijlage 10 de voor die handelingen genoemde voorschriften met ingang van de datum van inwerkingtreding van deze regeling van toepassing. 
+In afwijking van het bepaalde in een vergunning verleend krachtens § 2.5 van het Besluit zijn op handelingen als bedoeld in bijlage 10 de voor die handelingen genoemde voorschriften met ingang van de datum van inwerkingtreding van deze regeling van toepassing. 
 
 ###Hoofdstuk 3 
 
@@ -300,13 +300,13 @@ c. deze niet tevens optreedt als de persoon die verantwoordelijk is voor de uitv
 
 ####Registers
 
-1.  De Minister legt een openbaar register aan waarin de locatie van overeenkomstig [paragraaf 3.2 van het Besluit](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md) geïntroduceerde genetisch gemodificeerde organismen wordt opgenomen.   
-2.  De Minister legt een register aan waarin de locatie van overeenkomstig [paragraaf 3.3 van het Besluit](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md) gecultiveerde genetisch gemodificeerde organismen wordt opgenomen. Dit register wordt bekendgemaakt aan het publiek door: 
+1.  De Minister legt een openbaar register aan waarin de locatie van overeenkomstig paragraaf 3.2 van het Besluit geïntroduceerde genetisch gemodificeerde organismen wordt opgenomen.   
+2.  De Minister legt een register aan waarin de locatie van overeenkomstig paragraaf 3.3 van het Besluit gecultiveerde genetisch gemodificeerde organismen wordt opgenomen. Dit register wordt bekendgemaakt aan het publiek door: 
 
 a. terinzagelegging;  
 
 b. kennisgeving in de Staatscourant en in een of meer dag-, nieuws- of huis-aan-huisbladen.     
-3.  De persoon of rechtspersoon die, of het samenwerkingsverband van personen of rechtspersonen dat genetisch gemodificeerde organismen waarvoor een vergunning als bedoeld in [paragraaf 3.3 van het Besluit](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md) is verleend, gaat telen, doet daarvan melding aan de Minister, door inzending van een formulier als bedoeld in [artikel 5d, tweede lid, van de Regeling administratieve verplichtingen Meststoffenwet](../../../../../../ministeriele-regeling/regeling/administratieve/verplichtingen/meststoffenwet/BWBR0009228/README.md), op te vragen bij de Dienst Regelingen, dat overeenkomstig de daarbij aangegeven wijze volledig en juist wordt ingevuld en ingediend bij de Dienst Regelingen.   
+3.  De persoon of rechtspersoon die, of het samenwerkingsverband van personen of rechtspersonen dat genetisch gemodificeerde organismen waarvoor een vergunning als bedoeld in paragraaf 3.3 van het Besluit is verleend, gaat telen, doet daarvan melding aan de Minister, door inzending van een formulier als bedoeld in artikel 5d, tweede lid, van de Regeling administratieve verplichtingen Meststoffenwet, op te vragen bij de Dienst Regelingen, dat overeenkomstig de daarbij aangegeven wijze volledig en juist wordt ingevuld en ingediend bij de Dienst Regelingen.   
 4.  De melding, bedoeld in het derde lid, wordt uiterlijk dertig dagen na aanvang van de teelt gedaan.   
 5.  Het derde en vierde lid zijn van overeenkomstige toepassing op een wijziging van de gemelde gegevens.  
 
@@ -314,11 +314,11 @@ b. kennisgeving in de Staatscourant en in een of meer dag-, nieuws- of huis-aan-
 
 ####Beschikkingen
 
-1. Als beschikking van de Raad van de Europese Unie of de Commissie van de Europese Gemeenschappen als bedoeld in [artikel 23c, eerste lid, van het Besluit](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md), wordt aangewezen beschikking nr. 2003/701/EG van de Commissie van de Europese Gemeenschappen van 29 september 2003 (PbEU L 254).
-2. Als beschikking van de Raad van de Europese Unie of de Commissie van de Europese Gemeenschappen als bedoeld in [artikel 24, eerste lid, onderdeel b](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md), en in [artikel 28, eerste lid, onderdeel b, van het Besluit](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md), wordt aangewezen beschikking nr. 2002/623/EG van de Commissie van de Europese Gemeenschappen van 24 juli 2002 (PbEG L 200).
-3. Als beschikking van de Raad van de Europese Unie of de Commissie van de Europese Gemeenschappen als bedoeld in [artikel 25, van het Besluit](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md), wordt aangewezen beschikking nr. 94/730/EG van de Commissie van de Europese Gemeenschappen van 4 november 1994 (PbEG L 292).
-4. Als beschikking van de Raad van de Europese Unie of de Commissie van de Europese Gemeenschappen als bedoeld in [artikel 28, eerste lid, onderdeel e](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md), en in [artikel 32, eerste lid, onderdeel f, van het Besluit](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md), wordt aangewezen beschikking nr. 2002/811/EG van de Raad van de Europese Unie van 3 oktober 2002 (PbEG L 280).
-5. Als beschikking van de Raad van de Europese Unie of de Commissie van de Europese Gemeenschappen als bedoeld in [artikel 28, eerste lid, onderdeel g, van het Besluit](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md), wordt aangewezen beschikking nr. 2002/812/EG van de Raad van de Europese Unie van 3 oktober 2002 (PbEG L 280).
+1. Als beschikking van de Raad van de Europese Unie of de Commissie van de Europese Gemeenschappen als bedoeld in artikel 23c, eerste lid, van het Besluit, wordt aangewezen beschikking nr. 2003/701/EG van de Commissie van de Europese Gemeenschappen van 29 september 2003 (PbEU L 254).
+2. Als beschikking van de Raad van de Europese Unie of de Commissie van de Europese Gemeenschappen als bedoeld in artikel 24, eerste lid, onderdeel b, en in artikel 28, eerste lid, onderdeel b, van het Besluit, wordt aangewezen beschikking nr. 2002/623/EG van de Commissie van de Europese Gemeenschappen van 24 juli 2002 (PbEG L 200).
+3. Als beschikking van de Raad van de Europese Unie of de Commissie van de Europese Gemeenschappen als bedoeld in artikel 25, van het Besluit, wordt aangewezen beschikking nr. 94/730/EG van de Commissie van de Europese Gemeenschappen van 4 november 1994 (PbEG L 292).
+4. Als beschikking van de Raad van de Europese Unie of de Commissie van de Europese Gemeenschappen als bedoeld in artikel 28, eerste lid, onderdeel e, en in artikel 32, eerste lid, onderdeel f, van het Besluit, wordt aangewezen beschikking nr. 2002/811/EG van de Raad van de Europese Unie van 3 oktober 2002 (PbEG L 280).
+5. Als beschikking van de Raad van de Europese Unie of de Commissie van de Europese Gemeenschappen als bedoeld in artikel 28, eerste lid, onderdeel g, van het Besluit, wordt aangewezen beschikking nr. 2002/812/EG van de Raad van de Europese Unie van 3 oktober 2002 (PbEG L 280).
 
 ###Hoofdstuk 4 
 
@@ -326,8 +326,8 @@ b. kennisgeving in de Staatscourant en in een of meer dag-, nieuws- of huis-aan-
 
 ### Artikel  14  
 
-1.  Vervoer van genetisch gemodificeerde organismen binnen een inrichting als bedoeld in het [Inrichtingen- en vergunningenbesluit milieubeheer](../../../../../../AMvB/inrichtingen-/en/vergunningenbesluit/milieubeheer/BWBR0005829/README.md) geschiedt overeenkomstig de bepalingen, vermeld in bijlage 9, onder 1, bij deze regeling.   
-2.  Het vervoer van genetisch gemodificeerde organismen, niet zijnde micro-organismen, buiten een inrichting als bedoeld in het [Besluit omgevingsrecht](../../../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md), geschiedt overeenkomstig de bepalingen, vermeld in bijlage 9, onderdeel 2, bij deze regeling.  
+1.  Vervoer van genetisch gemodificeerde organismen binnen een inrichting als bedoeld in het Inrichtingen- en vergunningenbesluit milieubeheer geschiedt overeenkomstig de bepalingen, vermeld in bijlage 9, onder 1, bij deze regeling.   
+2.  Het vervoer van genetisch gemodificeerde organismen, niet zijnde micro-organismen, buiten een inrichting als bedoeld in het Besluit omgevingsrecht, geschiedt overeenkomstig de bepalingen, vermeld in bijlage 9, onderdeel 2, bij deze regeling.  
 
 ### Artikel  15  
 
@@ -339,7 +339,7 @@ b. kennisgeving in de Staatscourant en in een of meer dag-, nieuws- of huis-aan-
 
 ### Artikel 15a  
 
-Deze regeling berust op de [artikelen 8.40](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [8.41](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [8.42](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [8.42a](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [9.2.2.1, derde lid](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), juncto [21.6, zesde lid, van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en op de [artikelen 1, onderdeel h](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md), [2, tweede lid](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md), [3, tweede lid](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md), [5, tweede lid](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md), [6, eerste lid](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md), [7, derde lid](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md), [8, tweede lid](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md), juncto [7, vijfde lid, van het Besluit genetisch gemodificeerde organismen milieubeheer](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md).
+Deze regeling berust op de artikelen 8.40, 8.41, 8.42, 8.42a, 9.2.2.1, derde lid, juncto 21.6, zesde lid, van de Wet milieubeheer en op de artikelen 1, onderdeel h, 2, tweede lid, 3, tweede lid, 5, tweede lid, 6, eerste lid, 7, derde lid, 8, tweede lid, juncto 7, vijfde lid, van het Besluit genetisch gemodificeerde organismen milieubeheer.
 
 ### Artikel  16  
 
@@ -3683,7 +3683,7 @@ e. Dieren in associatie met genetisch gemodificeerde micro-organismen die onder 
 
 a. het genetisch gemodificeerde organisme behoort tot groep I;  
 
-b. de gebruikte gastheer en vector(en) zijn alle overeenkomstig bijlage 1 respectievelijk 2, dan wel overeenkomstig een beschikking krachtens [artikel 2, vierde lid, van het Besluit](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md) aangeduid als geschikt voor de vervaardiging van een genetisch gemodificeerd organisme waarmee onder voorwaarden handelingen op *MI-I niveau* of hoger mogen worden verricht;  
+b. de gebruikte gastheer en vector(en) zijn alle overeenkomstig bijlage 1 respectievelijk 2, dan wel overeenkomstig een beschikking krachtens artikel 2, vierde lid, van het Besluit aangeduid als geschikt voor de vervaardiging van een genetisch gemodificeerd organisme waarmee onder voorwaarden handelingen op *MI-I niveau* of hoger mogen worden verricht;  
 
 c. het genetisch gemodificeerde organisme is niet pathogeen;  
 
@@ -3695,7 +3695,7 @@ e. het genetisch gemodificeerde organisme heeft ten opzichte van het wildtype or
 
 a. het genetisch gemodificeerde organisme behoort tot groep I;  
 
-b. de gebruikte gastheer en vector(en) zijn overeenkomstig bijlage 1 respectievelijk bijlage 2, dan wel overeenkomstig een beschikking krachtens [artikel 2, vierde lid, van het Besluit](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md) aangeduid als geschikt voor de vervaardiging van een genetisch gemodificeerd organisme waarmee onder voorwaarden handelingen op *MI-II niveau* of hoger mogen worden verricht;  
+b. de gebruikte gastheer en vector(en) zijn overeenkomstig bijlage 1 respectievelijk bijlage 2, dan wel overeenkomstig een beschikking krachtens artikel 2, vierde lid, van het Besluit aangeduid als geschikt voor de vervaardiging van een genetisch gemodificeerd organisme waarmee onder voorwaarden handelingen op *MI-II niveau* of hoger mogen worden verricht;  
 
 c. het genetisch gemodificeerde organisme is niet pathogeen;  
 
@@ -3715,7 +3715,7 @@ Ligt ter inzage bij het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en
 
 #### Het opslaan van afval dat genetisch gemodificeerde organismen bevat of kan bevatten, buiten een geclassificeerde ruimte
 
-(behorend bij de artikelen 5, 6 en 9 van de Regeling genetisch gemodificeerde organismen) In afwachting van inactivatie binnen de instelling of vervoer naar een afvalverbrandingsinstallatie moet afval dat genetisch gemodificeerde organismen bevat of kan bevatten worden opgeslagen overeenkomstig onderstaande voorschriften behorend bij het inperkingniveau waarin het afval geproduceerd is. Afval dat genetisch gemodificeerde micro-organismen van klasse 3 of 4 bevat of kan bevatten wordt gehanteerd volgens bijlage 4, zoals vermeld onder de werkvoorschriften behorend bij het inperkingniveau waaruit het betreffende afval afkomstig is. Het vervoer van afval, dat genetisch gemodificeerde organismen bevat, of kan bevatten, naar een afvalverbrandingsinstallatie geschiedt conform de [Wet vervoer gevaarlijke stoffen](../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md) dan wel conform bijlage 9 van de Regeling genetisch gemodificeerde organismen. 
+(behorend bij de artikelen 5, 6 en 9 van de Regeling genetisch gemodificeerde organismen) In afwachting van inactivatie binnen de instelling of vervoer naar een afvalverbrandingsinstallatie moet afval dat genetisch gemodificeerde organismen bevat of kan bevatten worden opgeslagen overeenkomstig onderstaande voorschriften behorend bij het inperkingniveau waarin het afval geproduceerd is. Afval dat genetisch gemodificeerde micro-organismen van klasse 3 of 4 bevat of kan bevatten wordt gehanteerd volgens bijlage 4, zoals vermeld onder de werkvoorschriften behorend bij het inperkingniveau waaruit het betreffende afval afkomstig is. Het vervoer van afval, dat genetisch gemodificeerde organismen bevat, of kan bevatten, naar een afvalverbrandingsinstallatie geschiedt conform de Wet vervoer gevaarlijke stoffen dan wel conform bijlage 9 van de Regeling genetisch gemodificeerde organismen. 
 
 ####*8.1 Afval afkomstig uit ML-I en ML-II:*
 
@@ -3789,7 +3789,7 @@ e. Afval dat door een afvalverbrandingsinstallatie geïnactiveerd wordt, wordt t
 
 ###1 
 
-Het vervoeren van genetisch gemodificeerde organismen binnen een inrichting als bedoeld in het [Besluit omgevingsrecht](../../../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md) geschiedt onder de volgende voorschriften: 
+Het vervoeren van genetisch gemodificeerde organismen binnen een inrichting als bedoeld in het Besluit omgevingsrecht geschiedt onder de volgende voorschriften: 
 
 a. genetisch gemodificeerde micro-organismen worden vervoerd in gesloten, breukvaste, lekdichte houders, die voor het vervoer uitwendig worden ontsmet;  
 

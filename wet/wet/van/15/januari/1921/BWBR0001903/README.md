@@ -7422,6 +7422,231 @@ b. een beslissing die strekt tot beëindiging van het toezicht op de naleving va
 
 c. informatie over de noodzaak van het voortduren van het toezicht op de naleving van de aan de schorsing van de voorlopige hechtenis verbonden voorwaarden, indien de bevoegde autoriteit van de uitvoerende lidstaat daarom heeft verzocht.    
 
+### Titel  4  
+
+####Europees beschermingsbevel
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+### Eerste  afdeling  
+
+####Algemene bepalingen
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+### Artikel  5:4:1  
+Treedt in werking op een nader te bepalen tijdstip 
+
+In de bepalingen van deze titel wordt verstaan onder: 
+
+a. *Europees beschermingsbevel:* een uitvoerbare beslissing van een bevoegde rechterlijke of daarmee gelijkgestelde autoriteit van een lidstaat van de Europese Unie, betreffende een maatregel om een persoon te beschermen, op grond waarvan een rechterlijke of daarmee gelijkgestelde autoriteit van een andere lidstaat een volgens haar eigen nationale recht passende maatregel of maatregelen ter verdere bescherming van de betrokkene neemt;  
+
+b. *beschermingsmaatregel:* een volgens het nationale recht in de uitvaardigende lidstaat genomen beslissing in strafzaken die strekt tot bescherming van de persoon, bedoeld onder c, tegen een strafbare handeling die zijn leven, fysieke of psychologische integriteit, waardigheid, persoonlijke vrijheid of seksuele integriteit in gevaar kan brengen en waarbij een of meer van de in artikel 5:4:3, onder a, bedoelde verboden of beperkingen worden opgelegd aan de persoon bedoeld onder d;  
+
+c. *beschermde persoon:* een natuurlijke persoon die wordt beschermd op grond van een beschermingsmaatregel die is getroffen in de uitvaardigende lidstaat;  
+
+d. *persoon die gevaar veroorzaakt:* de natuurlijke persoon aan wie een of meer van de in artikel 3, onder a, bedoelde verboden of beperkingen zijn opgelegd;  
+
+e. *uitvaardigende lidstaat:* lidstaat van de Europese Unie waarin een beschermingsmaatregel is genomen die de grondslag is voor een Europees beschermingsbevel;  
+
+f. *uitvoerende lidstaat:* lidstaat van de Europese Unie waaraan een Europees beschermingsbevel met het oog op erkenning en ten uitvoerlegging daarvan is toegezonden.  
+
+g. *kaderbesluit 2008/947/JBZ:* het kaderbesluit van de Raad van 27 november 2008 inzake de toepassing van het beginsel van de wederzijdse erkenning op vonnissen en proeftijdbeslissingen met het oog op het toezicht op proeftijdvoorwaarden en alternatieve straffen (Publicatieblad EU, L 337 van 16 december 2008);  
+
+h. *kaderbesluit 2009/829/JBZ:* het kaderbesluit van de Raad van 23 oktober 2009 inzake de toepassing, tussen de lidstaten van de Europese Unie van het beginsel van wederzijdse erkenning op beslissingen inzake toezichtmaatregelen als alternatief voor voorlopige hechtenis (Publicatieblad EU, L 294 van 11 november 2009);  
+
+i. *richtlijn 2011/99/EU:* de richtlijn van het Europees Parlement en de Raad van 13 december 2011 betreffende het Europees beschermingsbevel (Publicatieblad EU, L 338 van 21 december 2011);  
+
+j. *toezichtsstaat:* 
+
+– de lidstaat waaraan een vonnis in de zin van artikel 2 van het Kaderbesluit 2008/947/JBZ is overgedragen of  
+
+– de lidstaat waaraan een beslissing inzake toezichtmaatregelen in de zin van artikel 4 van Kaderbesluit 2009/829/JBZ is overgedragen.     
+
+### Artikel  5:4:2  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  De kennisgeving van mededelingen aan de autoriteit van de uitvaardigende lidstaat of van de uitvoerende lidstaat, aan de beschermde persoon of aan de persoon die gevaar veroorzaakt geschiedt door middel van toezending van een gewone of aangetekende brief over de post, via telefax of elektronische post. Van deze wijze van kennisgeving kan worden afgeweken als zulks uitdrukkelijk is bepaald.   
+2.  Kennisgeving van mededelingen aan de autoriteit van de beslissingstaat of uitvoerende lidstaat geschiedt op zodanige wijze dat de echtheid van de mededeling door de bevoegde autoriteit kan worden vastgesteld.   
+3.  De beschermde persoon en de persoon die gevaar veroorzaakt stellen de bevoegde autoriteiten van de uitvaardigende lidstaat en de uitvoerende lidstaat op de hoogte van het adres waaraan deze autoriteiten kennisgevingen dienen te richten. De kennisgeving van mededelingen aan de beschermde persoon en aan de persoon die gevaar veroorzaakt, geschiedt aan het laatste door deze persoon opgegeven adres.  
+
+### Tweede  afdeling  
+
+####Europees beschermingsbevel uitgevaardigd door de bevoegde autoriteit van een andere lidstaat van de Europese Unie
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+### Artikel  5:4:3  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Een Europees beschermingsbevel is vatbaar voor erkenning en tenuitvoerlegging in Nederland indien het 
+
+a. een of meer van de volgende verboden of beperkingen omvat: 
+
+1°. een verbod tot het betreden van bepaalde locaties, plaatsen of omschreven gebieden waar de beschermde persoon verblijft of die door hem worden bezocht;  
+
+2°. een verbod op of een regeling omtrent enige vorm van contact met de beschermde persoon, inclusief per telefoon, elektronische of gewone post, fax of enige andere wijze, of  
+
+3°. een verbod de beschermde persoon tot binnen een bepaalde afstand te benaderen, of een regeling ter zake; en    
+
+b. is uitgevaardigd in de vorm van het formulier dat als bijlage I is toegevoegd aan Richtlijn 2011/99/EU en alle daarin voorziene informatie bevat.   
+
+### Artikel  5:4:4  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  De officier van justitie is belast met de tenuitvoerlegging van een Europees beschermingsbevel en beveelt daartoe strekkende maatregelen.   
+2.  De officier van justitie erkent een Europees beschermingsbevel binnen achtentwintig dagen na ontvangst hiervan, tenzij het vierde of vijfde lid van toepassing is.   
+3.  Indien de officier van justitie de in het tweede lid genoemde termijn niet kan naleven stelt hij de bevoegde autoriteit van de uitvaardigende lidstaat onverwijld in kennis, onder vermelding van de redenen voor de vertraging en van de tijd die hij nog voor het nemen van een definitief besluit nodig zal hebben.   
+4.  Indien de officier van justitie de bij het Europees beschermingsbevel verstrekte gegevens onvolledig acht, stelt hij de bevoegde autoriteit van de uitvaardigende lidstaat hiervan onverwijld in kennis. Hij stelt hierbij een redelijke termijn van ten hoogste achtentwintig dagen waarbinnen de ontbrekende gegevens door die autoriteiten moeten worden verstrekt. De officier van justitie doet deze kennisgeving in een vorm die voorziet in schriftelijke vastlegging hiervan.   
+5.  Indien het Europees beschermingsbevel niet is gesteld in de Nederlandse taal of, indien Nederland zulks heeft medegedeeld in een bij de Europese Commissie neergelegde verklaring, in een van de in die verklaring genoemde talen, kan de officier van justitie de bevoegde autoriteit in de uitvaardigende lidstaat verzoeken het Europees beschermingsbevel alsnog te vertalen. Hij stelt hierbij een redelijke termijn van ten hoogste achtentwintig dagen waarbinnen de vertaling moet worden verstrekt. De officier van justitie doet deze kennisgeving in een vorm die voorziet in schriftelijke vastlegging hiervan.   
+6.  Indien het Europees beschermingsbevel niet aan de officier van justitie is gezonden, wordt dit door de geadresseerde autoriteit onverwijld doorgezonden aan de officier van justitie. De geadresseerde stelt de bevoegde autoriteit van de uitvaardigende lidstaat hiervan onverwijld in kennis in een vorm die voorziet in schriftelijke vastlegging.   
+7.  Indien de bevoegde autoriteit van de uitvaardigende lidstaat niet bekend is, wint de officier van justitie de nodige inlichtingen in langs alle beschikbare kanalen, waaronder de contactpunten van het Europees Justitieel Netwerk, het nationaal lid van Eurojust of het nationaal systeem van Nederland voor de coördinatie van Eurojust.  
+
+### Artikel  5:4:5  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  De officier van justitie kan de erkenning weigeren indien: 
+
+a. het Europees Beschermingsbevel onvolledig is of niet vervolledigd is binnen de door de door de officier van justitie vastgestelde termijn;  
+
+b. niet is voldaan aan de voorwaarden van artikel 5:4:3;  
+
+c. het feit waarvoor de beschermingsmaatregel is opgelegd, indien het in Nederland zou zijn begaan, naar Nederlands recht niet strafbaar zou zijn;  
+
+d. de gevaar veroorzakende persoon in Nederland onschendbaarheid geniet, zodat geen maatregelen op grond van een Europees beschermingsbevel kunnen worden genomen;  
+
+e. het recht om de gevaar veroorzakende persoon strafrechtelijk te vervolgen wegens de handeling of gedraging met betrekking waartoe de beschermingsmaatregel is genomen, volgens de Nederlandse wet verjaard is, indien over de handeling of gedraging waarvoor de beschermingsmaatregel is opgelegd volgens Nederlands recht rechtsmacht kon worden uitgeoefend;  
+
+f. tenuitvoerlegging van het Europees beschermingsbevel onverenigbaar is met het aan artikel 68 van het Wetboek van Strafrecht en artikel 255, eerste lid, van dit wetboek ten grondslag liggende beginsel;  
+
+g. de gevaar veroorzakende persoon volgens Nederlands recht vanwege zijn leeftijd niet strafrechtelijk aansprakelijk kan worden gesteld voor de handelingen of gedragingen met betrekking waartoe de beschermingsmaatregel is genomen;  
+
+h. de beschermingsmaatregel betrekking heeft op een strafbaar feit dat krachtens het Nederlands recht wordt beschouwd als zijnde volledig, dan wel voor een groot of zeer belangrijk deel op Nederlands grondgebied gepleegd.     
+2.  Indien de officier van justitie het Europees beschermingsbevel weigert te erkennen op grond van een van de in het eerste lid bedoelde gronden dan: 
+
+a. doet hij onverwijld mededeling aan de autoriteit van de uitvaardigende lidstaat en aan de beschermde persoon van het besluit tot weigering en van de redenen hiervoor;  
+
+b. stelt hij in voorkomend geval de beschermde persoon in kennis van de mogelijkheid een beschermingsmaatregel te verkrijgen op grond van het Nederlandse recht.    
+
+### Artikel  5:4:6  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Als de officier van justitie het Europees beschermingsbevel erkent, dan beveelt hij overeenkomstig het Europees beschermingsbevel een of meer van de volgende maatregelen ten aanzien van de persoon die gevaar veroorzaakt: 
+
+a. een verbod tot het betreden van bepaalde locaties, plaatsen of gebieden waar de beschermde persoon verblijft of die door hem worden bezocht;  
+
+b. een verbod op of een regeling omtrent enige vorm van contact met de beschermde persoon;  
+
+c. een verbod om de beschermde persoon tot binnen een bepaalde afstand te benaderen of een regeling ter zake.     
+2.  Indien de bescherming van betrokkene, de aard van het Europees beschermingsbevel of de uitvoerbaarheid in Nederland dit vereist, past hij de in het eerste lid genoemde maatregelen aan. De aangepaste maatregelen stemmen zo veel mogelijk overeen met de beschermingsmaatregelen die in de uitvaardigende lidstaat werd getroffen en waarop het Europees beschermingsbevel werd gegrond.   
+3.  Het in het eerste lid bedoelde bevel geldt voor de termijn van de beschermingsmaatregel die door de autoriteit van de uitvaardigende lidstaat is opgenomen in het formulier als bedoeld in artikel 5:4:3 onder b, met een maximum van een jaar.   
+4.  De officier van justitie doet mededeling aan de persoon die gevaar veroorzaakt, aan de beschermde persoon en aan de bevoegde autoriteit van de uitvaardigende lidstaat van alle overeenkomstig het eerste lid bevolen maatregelen, alsmede van de mogelijke gevolgen van overtreding van deze maatregelen. De mededeling aan de persoon die gevaar veroorzaakt, geschiedt door middel van betekening op de wijze als bepaald in artikel 588 van dit wetboek.   
+5.  De officier van justitie gelast de tenuitvoerlegging van de maatregelen twee weken na de verzending van de mededeling van de beslissing als bedoeld in het eerste lid.   
+6.  De officier van justitie verstrekt het adres of andere contactgegevens van de beschermde persoon niet aan de persoon die gevaar veroorzaakt, tenzij dat noodzakelijk is met het oog op de tenuitvoerlegging van de maatregel die hij heeft bevolen op grond van het eerste lid.  
+
+### Artikel  5:4:7  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  De ambtenaren van politie, bedoeld in artikel 2, onder a van de Politiewet 2012, zijn bevoegd om in geval van een overtreding of dreigende overtreding van de maatregelen, bedoeld in artikel 5:4:6, eerste lid, de persoon die gevaar veroorzaakt, te bevelen de desbetreffende maatregel of maatregelen na te leven.   
+2.  De officier van justitie doet mededeling aan de volgende autoriteiten van elke overtreding van een op grond van het Europees beschermingsbevel genomen maatregel: 
+
+a. de bevoegde autoriteit van de uitvaardigende lidstaat;  
+
+b. de bevoegde autoriteit van de lidstaat die een rechterlijke uitspraak in de zin van artikel 2 van Kaderbesluit 2008/947/JBZ heeft toegezonden met het oog op erkenning en tenuitvoerlegging daarvan in Nederland;  
+
+c. de bevoegde autoriteit van de lidstaat die een beslissing inzake toezichtmaatregelen in de zin van artikel 4 van Kaderbesluit 2009/829/JBZ heeft toegezonden met het oog op erkenning en tenuitvoerlegging daarvan in Nederland.     
+3.  De in het tweede lid bedoelde kennisgeving geschiedt in de vorm van het formulier dat als bijlage II is toegevoegd aan Richtlijn 2011/99/EU.   
+4.  De officier van justitie draagt zorg voor vertaling van het in het derde lid bedoelde formulier in de officiële taal of een van de officiële talen van de uitvaardigende lidstaat of in een of meer andere officiële talen die deze lidstaat aanvaardt, blijkens een door hem bij de Europese Commissie neergelegde verklaring.  
+
+### Artikel  5:4:8  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Indien de bevoegde autoriteit van de uitvaardigende lidstaat de beschermingsmaatregel verlengt, of wijzigt, dan past de officier van justitie de door hem bevolen maatregel dienovereenkomstig aan, zodra hij door de bevoegde autoriteit van de uitvaardigende lidstaat naar behoren in kennis is gesteld van de verlenging of wijziging. De officier van justitie kan de termijn van de door hem bevolen maatregel verlengen tot in het geheel ten hoogste een jaar.   
+2.  Indien de bevoegde autoriteit van de uitvaardigende lidstaat het Europees beschermingsbevel heeft gewijzigd, en het gewijzigde verbod of de gewijzigde beperking ressorteren niet onder de in artikel 5:4:3, onder a, bedoelde verboden of beperkingen, of indien met het Europees beschermingsbevel overeenkomstig artikel 5:4:3, onder b, verstrekte informatie onvolledig is of niet binnen de door de officier van justitie overeenkomstig artikel 5:4:4, derde lid is vervolledigd, dan weigert de officier van justitie voor zover nodig dit verbod of deze beperking te handhaven.   
+3.  Indien de bevoegde autoriteit van de uitvaardigende lidstaat het erkende en ten uitvoer gelegde Europees beschermingsbevel intrekt, dan trekt de officier van justitie de in artikel 5:4:6, eerste lid bedoelde maatregelen in, zodra hij door de bevoegde autoriteit van de uitvaardigende lidstaat naar behoren in kennis is gesteld van de intrekking.   
+4.  De officier van justitie doet mededeling aan de persoon die gevaar veroorzaakt, aan de beschermde persoon en aan de bevoegde autoriteit van de uitvaardigende lidstaat van de verlenging of wijziging van de door hem bevolen maatregel als bedoeld in het eerste lid, van de weigering als bedoeld in het tweede lid of van de intrekking als bedoeld in het derde lid.  
+
+### Artikel  5:4:9  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  De officier van justitie kan de ter uitvoering van het Europees beschermingsbevel bevolen maatregelen intrekken: 
+
+a. indien er duidelijke aanwijzingen zijn dat de beschermde persoon niet meer op het grondgebied van Nederland woont of verblijft of dat hij het grondgebied definitief heeft verlaten;  
+
+b. indien de maximale duur is verstreken van het bevel tot maatregelen, als bedoeld in artikel 5:4:6, derde lid;  
+
+c. indien artikel 5:4:8, tweede lid van toepassing is.  
+
+d. indien, na de erkenning van het Europees beschermingsbevel, een vonnis in de zin van artikel 2 van Kaderbesluit 2008/947/JBZ of een beslissing inzake toezichtmaatregelen in de zin van artikel 4 van Kaderbesluit 2009/829/JBZ aan Nederland als de uitvoerende lidstaat is overgedragen.     
+2.  Voordat de officier van justitie besluit tot intrekking als bedoeld in het eerste lid, onder b, kan hij bij de bevoegde autoriteit van de uitvaardigende lidstaat inlichtingen inwinnen omtrent de vraag of de bij het Europees beschermingsbevel geboden bescherming in de gegeven omstandigheden noodzakelijk blijft.   
+3.  De officier van justitie doet onmiddellijk mededeling van zijn besluit tot intrekking, als bedoeld in het eerste lid, aan de bevoegde autoriteit van de uitvaardigende lidstaat en indien mogelijk aan de beschermde persoon en de persoon die gevaar veroorzaakt.  
+
+### Derde  afdeling  
+
+####Europees beschermingsbevel uitgevaardigd door de bevoegde autoriteit van Nederland
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+### Artikel  5:4:10  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  De persoon die beschermd wordt door een beschermingsmaatregel op grond van het Nederlandse recht, kan een verzoek tot het uitvaardigen van een Europees beschermingsbevel richten aan de officier van justitie of aan de bevoegde autoriteit van de uitvoerende lidstaat.   
+2.  Indien een persoon die beschermd wordt door een beschermingsmaatregel, die is genomen op grond van het nationale recht van een andere lidstaat, een verzoek doet aan de officier van justitie tot uitvaardiging van een Europees beschermingsbevel, dan doet de officier van justitie hiervan mededeling aan de bevoegde autoriteit van de uitvaardigende lidstaat en draagt hij dit verzoek ter behandeling over. Hiertoe zendt de officier van justitie dit verzoek zo spoedig mogelijk toe aan de bevoegde autoriteit van de desbetreffende lidstaat.   
+3.  Indien de beschermde persoon een wettelijk vertegenwoordiger heeft, kan deze het verzoek, bedoeld in het eerste en tweede lid, indienen namens de beschermde persoon.  
+
+### Artikel  5:4:11  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  De officier van justitie kan op verzoek van een beschermde persoon een Europees beschermingsbevel uitvaardigen indien: 
+
+a. in Nederland op grond van het Nederlandse recht in strafzaken reeds een beschermingsmaatregel is vastgesteld en  
+
+b. door deze beschermingsmaatregel een of meer van de in artikel 5:4:3, onder a bedoelde verboden of beperkingen worden opgelegd aan een persoon die gevaar veroorzaakt en  
+
+c. de beschermde persoon besluit in een andere Europese lidstaat te gaan wonen of er reeds woont, dan wel besluit in een andere lidstaat te gaan verblijven of er reeds verblijft.     
+2.  De officier van justitie die de uitvaardiging van een Europees beschermingsbevel overweegt, houdt onder meer rekening met de duur van de periode dat of perioden die de beschermde persoon in de uitvoerende lidstaat wil verblijven en met de ernst van de behoefte aan bescherming.   
+3.  De officier van justitie doet mededeling van de behandeling van het verzoek om een Europees beschermingsbevel uit te vaardigen aan de beschermde persoon en aan de persoon die gevaar veroorzaakt.  
+
+### Artikel  5:4:12  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  De officier van justitie stelt de persoon die gevaar veroorzaakt in de gelegenheid te worden gehoord ten aanzien van de behandeling van een verzoek tot uitvaardiging van een Europees beschermingsbevel als bedoeld in artikel 5:4:11, eerste lid, indien aan deze persoon het recht om te worden gehoord, niet is verleend in de procedure die tot het nemen van de beschermingsmaatregel heeft geleid.   
+2.  Indien de persoon die gevaar veroorzaakt, is gehoord in de procedure die tot het nemen van de beschermingsmaatregel heeft geleid, kan de officier van justitie deze persoon in de gelegenheid stellen te worden gehoord bij de behandeling van het verzoek als bedoeld in artikel 5:4:11, eerste lid, indien de officier van justitie dit voor het nemen van een beslissing noodzakelijk acht.   
+3.  De officier van justitie kan de beschermde persoon in de gelegenheid stellen te worden gehoord bij de behandeling van het verzoek als bedoeld in artikel 5:4:11, eerste lid.   
+4.  Van het horen van de personen overeenkomstig het eerste, tweede of derde lid, wordt een schriftelijk verslag opgemaakt.  
+
+### Artikel  5:4:13  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  De officier van justitie doet mededeling van zijn besluit om een Europees beschermingsbevel uit te vaardigen aan de beschermde persoon en aan de persoon die gevaar veroorzaakt. Het besluit van de officier van justitie is met redenen omkleed.   
+2.  Indien de officier van justitie een verzoek tot uitvaardiging van een Europees beschermingsbevel afwijst, doet hij hiervan mededeling aan de beschermde persoon en aan de persoon die gevaar veroorzaakt. Het besluit van de officier van justitie is met redenen omkleed.  
+
+### Artikel  5:4:14  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  De officier van justitie legt een Europees beschermingsbevel vast in de vorm van een formulier dat als bijlage I is toegevoegd aan Richtlijn 2011/99/EU.   
+2.  De officier van justitie zendt het Europees beschermingsbevel in schriftelijke vorm toe aan de bevoegde autoriteit van de uitvoerende lidstaat.   
+3.  Indien de bevoegde autoriteit van de uitvoerende lidstaat niet bekend is, wint de officier van justitie de nodige inlichtingen in langs alle beschikbare kanalen, waaronder de contactpunten van het Europees Justitieel Netwerk, het nationaal lid van Eurojust of het nationaal systeem van Nederland voor de coördinatie van Eurojust.   
+4.  De officier van justitie draagt zorg voor vertaling van het Europees beschermingsbevel in de officiële taal of een van de officiële talen van de uitvoerende lidstaat, dan wel voor vertaling in een of meer andere officiële talen van de Europese Unie, die deze lidstaat aanvaardt blijkens een door hem bij de Europese Commissie neergelegde verklaring.  
+
+### Artikel  5:4:15  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Indien de rechter of officier van justitie een beschermingsmaatregel oplegt die een of meer van de in artikel 5:4:3 bedoelde verboden of beperkingen omvat, doet de officier van justitie mondeling of schriftelijk mededeling aan de beschermde persoon over de mogelijkheid om een Europees beschermingsbevel te verzoeken voor het geval deze persoon besluit zich naar een andere lidstaat te begeven, alsmede over de hoofdzaken van de voorwaarden die gelden voor een dergelijk verzoek. De officier van justitie geeft bij deze mededeling de beschermde persoon in overweging om het bedoelde verzoek in te dienen voordat deze persoon het grondgebied van Nederland verlaat. 
+
+### Artikel  5:4:16  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Indien de officier van justitie of rechter overeenkomstig Nederlands recht besluit tot wijziging of intrekking van een beschermingsmaatregel, dan kan de officier van justitie het hierop berustende Europees beschermingsbevel wijzigen of intrekken.   
+2.  Het eerste lid is niet van toepassing indien de bevoegdheid tot wijziging of intrekking van een beschermingsmaatregel berust bij de bevoegde autoriteit van de uitvoerende lidstaat op basis van Kaderbesluit 2008/947/JBZ of van Kaderbesluit 2009/829/JBZ en van de op deze kaderbesluiten gebaseerde wettelijke bepalingen.   
+3.  Indien een beslissing in de zin van artikel 2 van Kaderbesluit 2008/947/JBZ of van artikel 4 van Kaderbesluit 2009/829/JBZ reeds aan een andere lidstaat is toegezonden of na de uitvaardiging van het Europees beschermingsbevel wordt toegezonden, worden de bij die kaderbesluiten bepaalde vervolgbeslissingen genomen overeenkomstig de toepasselijke bepalingen van die kaderbesluiten en de hierop gebaseerde wettelijke bepalingen.   
+4.  De officier van justitie doet de bevoegde autoriteit van de uitvoerende lidstaat, de beschermde persoon en de persoon die gevaar veroorzaakt mededeling van elke genomen beslissing die strekt tot wijziging of intrekking van het Europees beschermingsbevel.  
+
+### Artikel  5:4:17  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Bij ministeriële regeling kunnen regels worden vastgesteld voor het verzamelen en verstrekken van gegevens over de uitvoering van de bepalingen van deze titel. 
+
 ### Zesde  Boek  
 
 ####Tenuitvoerlegging en kosten 

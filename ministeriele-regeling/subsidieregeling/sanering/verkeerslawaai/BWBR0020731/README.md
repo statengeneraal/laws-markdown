@@ -45,9 +45,11 @@ m. Minister: Minister van Infrastructuur en Milieu;
 
 n. rijksinfrastructuur: wegen in beheer bij het Rijk en hoofdspoorwegen; 
 
-o. verkeersmaatregelen: maatregelen als bedoeld in artikel 3.7, eerste lid, onder a, al dan niet in combinatie met geluidreducerende maatregelen aan de constructie van een weg, en artikel 4.19 eerste lid, onder a, van het besluit;  
+o.  saneringsobjecten: woningen en andere geluidsgevoelige gebouwen, die op grond van artikel 88 van de Wet geluidhinder, zoals dat luidde voor 1 januari 2007, of artikel 4.17 van het Besluit geluidhinder bij de Minister tijdig zijn gemeld; 
 
-p. wet: Wet geluidhinder.   
+p. verkeersmaatregelen: maatregelen als bedoeld in artikel 3.7, eerste lid, onder a, al dan niet in combinatie met geluidreducerende maatregelen aan de constructie van een weg, en artikel 4.19 eerste lid, onder a, van het besluit;  
+
+q. wet: Wet geluidhinder.   
 
 ### Artikel  2  
 
@@ -70,7 +72,7 @@ c. afschermende maatregelen tegen wegverkeerslawaai;
 
 d. afschermende maatregelen tegen spoorweglawaai;  
 
-e. geluidwerende maatregelen aan woningen en andere geluidsgevoelige gebouwen tegen wegverkeerslawaai of spoorweglawaai;  
+e. geluidwerende maatregelen aan saneringsobjecten tegen wegverkeerslawaai of spoorweglawaai;  
 
 f. maatregelen die strekken tot onttrekking aan de bestemming van woningen en andere geluidsgevoelige gebouwen.     
 2.  Vervallen.   
@@ -80,7 +82,22 @@ f. maatregelen die strekken tot onttrekking aan de bestemming van woningen en an
 ### Artikel  4  
 
 1.  Maatregelen als bedoeld in artikel 3, eerste lid, komen slechts in aanmerking voor subsidie indien zij door de Minister zijn vastgesteld op grond van artikel 90, vijfde lid, van de wet of op grond van artikel 4.23, derde lid, van het besluit.   
-2.  Maatregelen komen niet in aanmerking voor subsidie indien zij betrekking hebben op woningen, andere geluidsgevoelige gebouwen of geluidsgevoelige terreinen die niet tijdig overeenkomstig artikel 88 van de wet, zoals deze luidde onmiddellijk voorafgaand aan 24 februari 2010, of artikel 4.17 van het besluit, zoals dat luidde voor inwerkingtreding van artikel I, onderdeel CC, van het Invoeringsbesluit geluidproductieplafonds, zijn gemeld.  
+2.  Maatregelen komen niet in aanmerking voor subsidie indien zij betrekking hebben op woningen, andere geluidsgevoelige gebouwen of geluidsgevoelige terreinen die niet tijdig overeenkomstig artikel 88 van de wet, zoals deze luidde onmiddellijk voorafgaand aan 24 februari 2010, of artikel 4.17 van het besluit, zoals dat luidde voor inwerkingtreding van artikel I, onderdeel CC, van het Invoeringsbesluit geluidproductieplafonds, zijn gemeld.   
+3.  Het gemeentebestuur of bestuur doet, op verzoek van de Minister, binnen 6 weken mededeling van de saneringsobjecten, waarvan na de melding, als bedoeld in artikel 88 van de wet, zoals deze luidde onmiddellijk voorafgaand aan 24 februari 2010, of artikel 4.17 van het besluit, zoals dat luidde voor inwerkingtreding van artikel I, onderdeel CC, van het Invoeringsbesluit geluidproductieplafonds, is gebleken dat deze niet meer voor subsidie in aanmerking kunnen komen, omdat deze: 
+
+a. zijn gesloopt;  
+
+b. van bestemming zijn gewijzigd in een niet-geluidsgevoelige bestemming;  
+
+c. zijn gelegen of ooit hebben gelegen aan een weg, als bedoeld in artikel 74, tweede lid, van de wet;  
+
+d. na 1 maart 1986 zijn gebouwd en in een zone liggen als bedoeld in artikel 74 van de wet;  
+
+e. na 1 juli 1987 zijn gebouwd en in een zone liggen als bedoeld in artikel 1.4 van het besluit;  
+
+f. saneringsobjecten of de weg waaraan ze zijn gelegen, zijn geprojecteerd in een na 1 januari 1982 overeenkomstig artikel 76 en 77, van de wet vastgesteld bestemmingsplan, of;  
+
+g. zijn gelegen in een situatie waarin tot aanleg of reconstructie van de weg na 1 januari 1982 is besloten met toepassing van de artikelen 79 tot en met 81, van de wet.   
 
 ### Artikel  5  
 
@@ -101,11 +118,9 @@ a. die getroffen worden met geldelijke steun op grond van de ‘Nadere regels vo
 
 b. die getroffen worden met geldelijke steun op grond van de ‘Nadere afspraken geluidsanering bij spoorwerkzaamheden’ (bijlage bij de circulaire van 22 november 1995, MBG 21895016, Stcrt. 238);  
 
-c. als bedoeld in artikel 126, tweede lid, van de wet;  
+c. voor zover zij getroffen worden met geldelijke steun, verstrekt uit anderen hoofde ten laste van het Rijk;  
 
-d. voor zover zij getroffen worden met geldelijke steun, verstrekt uit anderen hoofde ten laste van het Rijk;  
-
-e. voor zover deze getroffen worden aan woningen, andere geluidsgevoelige gebouwen en geluidsgevoelige terreinen waarvoor al eerder ten laste van het Rijk maatregelen zijn getroffen.   
+d. voor zover deze getroffen worden aan woningen, andere geluidsgevoelige gebouwen en geluidsgevoelige terreinen waarvoor al eerder ten laste van het Rijk maatregelen zijn getroffen.   
 
 ### §  3  
 
@@ -119,7 +134,16 @@ e. voor zover deze getroffen worden aan woningen, andere geluidsgevoelige gebouw
 
 1.  De Minister kan aan het gemeentebestuur of het bestuur op aanvraag subsidie verstrekken ter zake de kosten van voorbereiding van, begeleiding van en toezicht op maatregelen als bedoeld in artikel 3, eerste lid;   
 2.  Artikel 3, vierde lid, is van overeenkomstige toepassing.   
-3.  Een subsidie als bedoeld in het eerste lid wordt niet verstrekt voor zover deze betrekking heeft op de kosten van maatregelen ter vermindering van de geluidsbelasting vanwege rijksinfrastructuur. 
+3.  Een subsidie als bedoeld in het eerste lid wordt niet verstrekt voor zover deze betrekking heeft op de kosten van maatregelen ter vermindering van de geluidsbelasting vanwege rijksinfrastructuur.  
+4.  Een subsidie als bedoeld in het eerste lid wordt niet verstrekt voor zover de subsidieaanvraag minder dan 25 saneringsobjecten bevat.   
+5.  Het vierde lid is niet van toepassing, indien: 
+
+a. in de gehele betreffende gemeente minder dan 25 saneringsobjecten, als bedoeld in artikel 89, eerste lid van de wet, en geluidsgevoelige gebouwen, als bedoeld in artikel 3.6 van het besluit, (saneringsobjecten) zijn gelegen die nog niet in een saneringsprogramma zijn opgenomen, of;  
+
+b. het gemeentebestuur of bestuur bij de aanvraag, bedoeld in het eerste lid, heeft aangegeven dat alleen de maatregel, bedoeld in artikel 3, eerste lid, onderdeel f, in aanmerking komt, of;  
+
+c. Indien de aanvraag wordt gedaan ten behoeve van een reconstructie als bedoeld in artikel 98, eerste lid, van de wet.     
+6.  Bij de verlening van een subsidie, als bedoeld in het eerste lid, vermeldt de Minister de wijze waarop het bedrag van de subsidie wordt berekend. 
 
 ### Artikel  9  
 
@@ -127,24 +151,15 @@ Subsidieaanvragen als bedoeld in artikel 7, eerste lid, worden jaarlijks gelijkt
 
 ### Artikel  10  
 
-1.  Voor een subsidie als bedoeld in artikel 7, eerste lid, komen achtereenvolgens in aanmerking: 
+1.  Projecten waarvan de gemiddelde geluidsbelasting, na aftrek als bedoeld in artikel 110g van de wet, op de gevels van de 25 hoogst belaste saneringsobjecten binnen het project, afgerond op twee decimalen achter de komma, het hoogste is, komen het eerst in aanmerking voor een subsidie, als bedoeld in artikel 7, eerste lid.   
+2.  De Minister kan van het eerste lid afwijken, indien: 
 
-a. met betrekking tot verkeersmaatregelen of geluidreducerende maatregelen aan een kunstwerk in een spoorweg: projecten waarvan het quotiënt van het bedrag dat volgt uit toepassing van onderdeel 1 of onderdeel 3 van bijlage A en het aantal daarin betrokken woningen het grootste is;  
+a. de toepassing van het eerste lid, gelet op het belang van het voorkomen of beperken van geluidhinder, zal leiden tot onbillijkheid van overwegende aard;  
 
-b. met betrekking tot het aanbrengen van geluidreducerende maatregelen aan de constructie van een weg of spoorweg: projecten waarvan het quotiënt van het aantal reductiepunten, bepaald overeenkomstig artikel 5 van de Regeling doelmatigheid geluidmaatregelen Wet geluidhinder, en het benodigde wegoppervlak of de lengte van het betrokken spoor, het grootste is;  
+b. de maatregelen in het kader van de sanering samenvallen met een reconstructie van een weg of een wijziging van een spoorweg, of;  
 
-c. met betrekking tot afschermende maatregelen: projecten waarvan het quotiënt van het aantal reductiepunten, bepaald overeenkomstig artikel 5 van de Regeling doelmatigheid geluidmaatregelen Wet geluidhinder, en de lengte van de afschermende maatregelen, het grootste is;  
-
-d. met betrekking tot projecten voor geluidwerende maatregelen aan andere geluidsgevoelige gebouwen of geluidwerende maatregelen in plaats van verkeersmaatregelen, geluidreducerende of afschermende maatregelen, of voor maatregelen die strekken tot onttrekking aan de bestemming van woningen of andere geluidsgevoelige bestemmingen: projecten waarvan de gemiddelde geluidsbelasting, zonder aftrek als bedoeld in artikel 110g van de wet, het hoogst is.     
-2.  Bij toepassing van het eerste lid, onderdeel b, in combinatie met het eerste lid, onderdelen a of c, wordt de prioriteit bepaald op basis van de laatstgenoemde onderdelen.   
-3.  Bij toepassing van het eerste lid komen aanvragen, ingediend voor een eerder subsidietijdvak, in aanmerking alvorens aanvragen, ingediend voor een later subsidietijdvak, in aanmerking komen.  
-4.  De Minister kan van het eerste lid afwijken, indien: 
-
-a. dit, gelet op het belang van het voorkomen of beperken van geluidhinder, zal leiden tot onbillijkheid van overwegende aard;  
-
-b. de maatregelen in het kader van de sanering samenvallen met een reconstructie van een weg of een wijziging van een spoorweg;  
-
-c. het gevolg van die afwijking is dat projecten vanuit het oogpunt van doelmatigheid en kostenbeheersing gezamenlijk uitgevoerd worden met andere werken.    
+c. het gevolg van die afwijking is dat projecten vanuit het oogpunt van doelmatigheid en kostenbeheersing gezamenlijk uitgevoerd worden met andere werken.     
+3.  Bij de berekening van de gemiddelde geluidsbelasting, als bedoeld in het eerste lid, wordt per subsidietijdvak dat de aanvraag eerder is ingediend, met het oog op de rangorde bij de verlening van de subsidies, bedoeld in artikel 7, eerste lid, 1 dB opgeteld.  
 
 ### §  3.2  
 
@@ -195,9 +210,9 @@ Niet in aanmerking voor een subsidie komen:
 
 a. geluidwerende maatregelen aan woningen en andere geluidsgevoelige gebouwen, welke maatregelen door de Minister zijn vastgesteld, doch ten aanzien waarvan de eigenaar, overeenkomstig hoofdstuk 6 van het besluit heeft verklaard niet in te stemmen met de uitvoering van de maatregelen;  
 
-b. geluidwerende maatregelen aan woningen, waarbij in het maatgevende jaar de geluidsbelasing binnen de woning bij gesloten ramen de 43 dB niet overschrijdt;  
+b. geluidwerende maatregelen aan woningen, waarbij in het maatgevende jaar de geluidsbelasting binnen de woning bij gesloten ramen de 43 dB niet overschrijdt;  
 
-c. geluidwerende maatregelen aan andere geluidsgevoelige gebouwen, waarbij in het maatgevende jaar de geluidsbelasing bij gesloten ramen in categorie a-ruimten de 38 dB en in categorie b-ruimten de 43 dB niet overschrijdt.   
+c. geluidwerende maatregelen aan andere geluidsgevoelige gebouwen, waarbij in het maatgevende jaar de geluidsbelasting bij gesloten ramen in categorie a-ruimten de 38 dB en in categorie b-ruimten de 43 dB niet overschrijdt.   
 
 ### Artikel  16  
 
@@ -242,7 +257,7 @@ d. tot het bedrag van de werkelijke kosten, zulks met een maximum van het met be
 
 ### Artikel  19  
 
-1.  Maatregelen tegen wegverkeers- en spoorweglawaai die strekken tot onttrekking aan de bestemming van woningen en andere geluidsgevoelige gebouwen komen slechts in aanmerking voor subsidie, indien de geluidsbelasting op deze woningen en gebouwen, zonder aftrek als bedoeld in artikel 110g van de wet, vanwege wegverkeerslawaai hoger is dan 65 dB en vanwege spoorweglawaai hoger is dan 70 dB.   
+1.  Maatregelen tegen wegverkeers- en spoorweglawaai die strekken tot onttrekking aan de bestemming van woningen en andere geluidsgevoelige gebouwen komen slechts in aanmerking voor subsidie, indien de geluidsbelasting op deze woningen en gebouwen, met aftrek als bedoeld in artikel 110g van de wet, vanwege wegverkeerslawaai hoger is dan 65 dB en vanwege spoorweglawaai hoger is dan 70 dB.   
 2.  Het subsidiebedrag voor maatregelen als bedoeld in het eerste lid is niet hoger dan het bedrag dat volgt uit de toepassing van bijlage A, onderdelen 4 en 5.  
 
 ### §  4  
@@ -259,12 +274,12 @@ Een aanvraag om subsidie als bedoeld in artikel 7, eerste lid, wordt ingediend b
 
 ### Artikel  21  
 
-1. Een aanvraag voor een subsidie voor voorbereiding, begeleiding en toezicht wordt vóór 1 februari van een kalenderjaar ingediend.  
+1.  Een aanvraag voor een subsidie voor voorbereiding, begeleiding en toezicht wordt vóór 15 maart van een kalenderjaar ingediend.   
 2.  Het eerste lid geldt niet in geval van: 
 
-a. een reconstructie van een weg, waarbij de Minister toepassing heeft gegeven aan artikel 90, tweede lid, van de wet;  
+a. een reconstructie van een weg, waarbij de Minister toepassing zal geven aan artikel 98, eerste lid, van de wet;  
 
-b. een wijziging van een spoorweg, waarbij de Minister toepassing heeft gegeven aan artikel 4.7, tweede lid, van het besluit.   
+b. een wijziging van een spoorweg, waarbij de Minister toepassing zal geven aan artikel 4.7, eerste lid, van het besluit.   
 
 ### Artikel  22  
 
@@ -278,27 +293,35 @@ In het besluit tot verlening van een subsidie voor voorbereiding, begeleiding en
 
 ### Artikel  24  
 
-Voorschotten worden maximaal twee maal, gelijkmatig verspreid over het tijdvak, bedoeld in artikel 23, of aan de hand van een individuele liquiditeitsbehoefte, verstrekt. 
+1.  In het besluit tot verlening van een subsidie voor voorbereiding, begeleiding en toezicht wordt in ieder geval bepaald wat de hoogte van het eerste voorschot is, welke binnen 4 weken na verlening wordt verstrekt.   
+2.  Het voorschot bedraagt € 600,– per saneringsobject met een geluidsbelasting van 56 dB of hoger, inclusief aftrek als bedoeld in artikel 110g van de wet.   
+3.  Het voorschot bedraagt € 150,– per saneringsobject met een geluidsbelasting tot en met 55 dB, inclusief aftrek als bedoeld in artikel 110g van de wet.   
+4.  Na afloop van het tijdvak, bedoeld in artikel 23, kan de Minister een nieuw voorschot verstrekken, waarbij de verstrekte voorschotten tezamen ten hoogste 95% van de verleende subsidie bedragen.  
+
+### Artikel  24a  
+
+De hoogte van het totale voorschot wordt, indien de aanvraag geluidwerende maatregelen betreft en de subsidieontvanger heeft aangegeven gebruik te maken van de facultatieve procedure, als bedoeld in artikel 35b, eerste lid, bepaald met behulp van bijlage A, onderdeel 7. 
 
 ### Artikel  25  
 
-1.  Indien de Minister tevens een subsidie als bedoeld in artikel 3, eerste lid, verleent, stelt hij bij die beschikking de subsidie voor voorbereiding, begeleiding en toezicht vast op 18% van het bedrag van de verlening van de subsidie voor de maatregelen.   
-2.  De Minister stelt de subsidie voor voorbereiding, begeleiding en toezicht vast op ten hoogste het bedrag van het voorschot, bedoeld in artikel 12 van het Besluit milieusubsidies: 
+1.  Na ontvangst van een volledig ingevuld formulier MA of MA-F stelt de Minister de subsidie voor voorbereiding, begeleiding en toezicht vast op: 
 
-a. als vier jaren zijn verstreken na de verlening van de subsidie en geen aanvraag is ontvangen om een subsidie voor de uitvoering van de maatregelen, of  
+a. 18% van het bedrag van de verlening van de subsidie voor de maatregelen, als bedoeld in artikel 3, eerste lid, onderdeel a tot en met d, daarbij wijzigingen als gevolg van toepassing van artikel 30 of 31 niet meegerekend.  
 
-b. zodra hij van oordeel is dat het gemeentebestuur de maatregelen niet binnen afzienbare tijd op zal nemen in een saneringsprogramma als bedoeld in artikel 89, eerste lid, van de wet of artikel 4.18, eerste lid van het besluit.     
-3.  Indien de Minister besluit om de geluidwerende maatregelen niet vast te stellen krachtens artikel 90, vijfde lid, van de wet of artikel 4.23, derde lid, van het besluit, stelt hij de subsidie voor voorbereiding, begeleiding en toezicht vast op de gemaakte kosten daarvan, met een maximum van 18% van de door hem geraamde kosten van de maatregelen.   
-4.  In afwijking van het eerste lid stelt de Minister de subsidie voor voorbereiding, begeleiding en toezicht vast op 4% van het bedrag van de verlening van de subsidie voor de betrokken maatregelen, daarbij wijzigingen als gevolg van toepassing van artikel 30 of 31 niet meegerekend, vermeerderd met het bedrag dat de spoorwegexploitant bij de subsidieontvanger in rekening heeft gebracht ten behoeve van de voorbereiding van, begeleiding van en het toezicht op de maatregelen, indien: 
+b. Indien het project uitsluitend of tevens maatregelen betreft als bedoeld in artikel 3, eerste lid, onderdeel e, vermeerdert de Minister het in onderdeel a bedoelde bedrag met een bedrag dat wordt bepaald met toepassing van Bijlage A, onderdeel 6.     
+2.  In afwijking van het eerste lid verzoekt de subsidieontvanger, indien deze geen subsidie als bedoeld in artikel 3 aanvraagt, uiterlijk vier weken na de afronding van de procedure, beschreven in hoofdstuk 6 van het besluit, om vaststelling van de subsidie voor voorbereiding, begeleiding en toezicht.   
+3.  De Minister kan de subsidie voor voorbereiding, begeleiding en toezicht op nihil vaststellen: 
+
+a. als twee jaren zijn verstreken na de verlening van de subsidie en geen aanvraag is ontvangen om een subsidie voor de uitvoering van de maatregelen, of  
+
+b. zodra hij van oordeel is dat het gemeentebestuur de maatregelen niet binnen afzienbare tijd zal opnemen in een saneringsprogramma als bedoeld in artikel 89, eerste lid, van de wet of artikel 4.18, eerste lid van het besluit.     
+4.  Indien toepassing van het derde lid zal leiden tot onbillijkheid van overwegende aard, kan de Minister besluiten om de subsidie voor voorbereiding, begeleiding en toezicht, in afwijking van het derde lid, vast te stellen op het reeds betaalde voorschotbedrag.   
+5.  In afwijking van het eerste lid stelt de Minister de subsidie voor voorbereiding, begeleiding en toezicht vast op 4% van het bedrag van de verlening van de subsidie voor de betrokken maatregelen, daarbij wijzigingen als gevolg van toepassing van artikel 30 of 31 niet meegerekend, vermeerderd met het bedrag dat de spoorwegexploitant bij de subsidieontvanger in rekening heeft gebracht ten behoeve van de voorbereiding van, begeleiding van en het toezicht op de maatregelen, indien: 
 
 a. het overeenkomstig de aanhef berekende subsidiebedrag 18% of meer van het bedrag van de verlening van de subsidie voor de maatregelen bedraagt, en  
 
-b. het een geluidreducerende maatregel aan de constructie van een spoorweg of een afschermende maatregel tegen spoorweglawaai betreft binnen een project als bedoeld in bijlage G.     
-5.  Een vaststelling als bedoeld in het vierde lid geschiedt tegelijkertijd met de vaststelling van de subsidie voor de maatregelen. 
-
-### Artikel  26  
-
-Indien de eigenaar van een woning of ander geluidsgevoelig gebouw, overeenkomstig hoofdstuk 6 van het besluit heeft verklaard niet in te stemmen met de uitvoering van geluidwerende maatregelen of indien door de subsidieaanvrager is vastgesteld dat wordt voldaan aan de in artikel 16, onder c, genoemde waarden en dat derhalve geen geluidwerende maatregelen zullen worden getroffen, wordt de subsidie vastgesteld op € 250,- per in de aanvraag opgenomen woning of ander geluidsgevoelig gebouw. 
+b. het een geluidreducerende maatregel aan de constructie van een spoorweg of een afschermende maatregel tegen spoorweglawaai betreft binnen een project als bedoeld in bijlage G.     
+6.  Een vaststelling als bedoeld in het vijfde lid geschiedt tegelijkertijd met de vaststelling van de subsidie voor de maatregelen. 
 
 ### §  4.2  
 
@@ -306,7 +329,7 @@ Indien de eigenaar van een woning of ander geluidsgevoelig gebouw, overeenkomsti
 
 ### Artikel  27  
 
-Een aanvraag om subsidie voor voorbereiding, begeleiding en toezicht wordt ingediend bij de Minister, met gebruikmaking van een volledig ingevuld formulier UK/S. 
+Een aanvraag om subsidie als bedoeld in artikel 3, eerste lid wordt ingediend bij de Minister, met gebruikmaking van een volledig ingevuld formulier UK/S. 
 
 ### Artikel  29  
 
@@ -360,9 +383,23 @@ Indien de subsidieontvanger de aanvraag tot subsidievaststelling niet tijdig hee
 
 De artikelen 34 en 35 zijn niet van toepassing indien de subsidieontvanger een gemeentebestuur, bestuur of provinciebestuur is. 
 
+### §  4.3  
+
+####Facultatieve procedure bij geluidwerende maatregelen
+
+### Artikel  35b  
+
+1.  Indien de subsidieontvanger een gemeentebestuur, bestuur of provinciebestuur is kan, als het maatregelen betreft, als bedoeld in artikel 3, eerste lid, onderdeel e, deze gebruik maken van de facultatieve procedure.   
+2.  De subsidieontvanger maakt gebruik van de facultatieve procedure kenbaar met gebruikmaking van het formulier UK/S   
+3.  Op de facultatieve procedure, bedoeld in het eerste lid, zijn artikel 30 en 31 niet van toepassing.  
+
 ### §  5  
 
 ####Verplichtingen subsidieontvanger
+
+### §  5.1  
+
+####Verplichtingen subsidieontvanger bij de algemene procedure
 
 ### Artikel  36  
 
@@ -396,6 +433,19 @@ c. een functiescheiding van de instanties die worden betrokken bij de voorbereid
 d. het bewaren van de administratie en de daartoe behorende bescheiden gedurende tien jaar na gereedmelding.    
 2.  Het eerste lid, onderdelen a, b en d, is niet van toepassing, indien de subsidieontvanger een gemeentebestuur, bestuur of provinciebestuur is. 
 
+### §  5.2  
+
+####Verplichtingen subsidieontvanger bij facultatieve procedure geluidwerende maatregelen
+
+### Artikel  40a  
+
+Deze paragraaf is van toepassing indien de subsidieontvanger, ingevolge artikel 35b, tweede lid, heeft aangegeven gebruik te maken van de facultatieve procedure. 
+
+### Artikel  40b  
+
+1.  In afwijking van artikel 39, aanhef, onderdeel b, doet de subsidieontvanger binnen vier weken na de afronding van de werkzaamheden daarvan mededeling aan de Minister onder gebruikmaking van een volledig ingevuld formulier MA-F, inclusief de op dat formulier aangegeven bijlagen.   
+2.  De Minister kan het bedrag van de subsidieverlening wijzigen naar aanleiding van de ontvangen informatie, bedoeld in het eerste lid.  
+
 ### §  6  
 
 ####Saneringsprogramma
@@ -405,7 +455,8 @@ d. het bewaren van de administratie en de daartoe behorende bescheiden gedurende
 1.  Burgemeester en wethouders leggen aan de Minister een saneringsprogramma in het kader van wegverkeerslawaai voor, met gebruikmaking van het formulier UK/S.   
 2.  Indien toepassing wordt gegeven aan artikel 98 van de wet, wordt een saneringsprogramma voorgelegd door burgemeester en wethouders of de wegaanlegger, met gebruikmaking van het formulier UK/S.   
 3.  Indien het saneringsprogramma verkeersmaatregelen omvat, wordt tevens gebruik gemaakt van formulier WBa.   
-4.  Indien het saneringsprogramma geluidwerende maatregelen omvat, wordt tevens gebruik gemaakt van formulier GBa of GBb.  
+4.  Indien het saneringsprogramma geluidwerende maatregelen omvat, wordt tevens gebruik gemaakt van formulier GBa of GBb.   
+5.  Het vierde lid is niet van toepassing indien de subsidieontvanger, ingevolge artikel 35b, tweede lid, heeft aangegeven gebruik te maken van de facultatieve procedure. 
 
 ### Artikel  42  
 
@@ -439,7 +490,7 @@ In een saneringsprogramma als bedoeld in de artikelen 41 en 42 is onderbouwd dat
 
 ### Artikel  44  
 
-1.  In afwijking van artikel 6, aanhef en onderdeel c, kan de Minister aan het gemeentebestuur op aanvraag subsidie verstrekken voor de kosten van geluidwerende maatregelen tegen wegverkeerslawaai aan woningen: 
+1.  In afwijking van artikel 6, aanhef en onderdeel c, zoals dat luidde voor 1 januari 2015, kan de Minister aan het gemeentebestuur op aanvraag subsidie verstrekken voor de kosten van geluidwerende maatregelen tegen wegverkeerslawaai aan woningen: 
 
 a. die op 1 maart 1986 een geluidsbelasting vanwege een weg, niet zijnde een rijksweg, ondervonden van ten minste 65 dB(A), dan wel ten minste 60 dB(A) indien zij deel uitmaken van een verzameling van woningen waarvan ten minste één woning een geluidsbelasting vanwege een weg ondervond van ten minste 65 dB(A), en  
 
@@ -613,9 +664,157 @@ Ondergetekende verklaart dat:
 
 Gepubliceerd op www.bureausaneringverkeerslawaai.nl.
 
-###Bijlage D 
+### Bijlage D 
 
-Gepubliceerd op www.bureausaneringverkeerslawaai.nl.
+#### , Toetsbedragen geluidwerende maatregelen
+
+####Inleiding
+
+Het uitgangspunt van de Wet geluidhinder in combinatie met SSV is dat saneringsmaatregelen voor werkelijke vergoeding in aanmerking komen, mits deze als sober en doelmatig kunnen worden aangemerkt. Als normering voor het begrip soberheid bij geluidwerende maatregelen aan de uitwendige scheidingsconstructie gelden onderhavige toetsbedragen. In het geval van autonome gevelsanering zijn de toetsbedragen daarnaast van belang voor een efficiënte voorbereiding, aanbesteding en uitvoering van de te treffen maatregelen. Voor veel voorkomende maatregelen aan de uitwendige scheidingsconstructie, die worden getroffen in verband met de geluidwering van bestaande woningen is onderzocht welke aspecten van belang zijn voor de prijsvorming. Op basis hiervan zijn de toetsbedragen in onderstaande tabellen vastgesteld. De tabellen onder a betreffen toetsbedragen die overeenkomen met de kosten van de maatregelen bij autonome gevelsanering. De tabellen onder b betreffen toetsbedragen die overeenkomen met de meerkosten van de maatregelen indien om andere redenen dan de geluidwering, maatregelen aan de uitwendige scheidingsconstructie worden getroffen (kozijnvervanging bij bijvoorbeeld stadsvernieuwing). Deze toetsbedragen zijn afgeleid van de toetsbedragen die gelden voor autonome gevelsanering. Daarbij is ervan uitgegaan dat de eenvoudigste maatregelen bij autonome sanering qua kwaliteit en kosten overeenkomen met maatregelen aan de uitwendige scheidingsconstructie die worden getroffen om andere redenen dan geluidwering. 
+
+### A  
+
+####Toetsbedragen geluidwerende maatregelen bij autonome gevelsanering
+
+*Alle bedragen zijn exclusief BTW.*  
+
+### 1  
+
+####Gevelmaatregelen
+
+Tabel a Toetsbedragen per m<sup>2</sup> van maatregelen aan lichte geveldelen (beglazing en panelen) 
+
+| Kostenklasse  | I  | II  | III  | IV  | V  |
+|:---|:---|:---|:---|:---|:---|
+| Toetsbedrag/m<sup>2</sup>   | € 238  | € 265  | € 281  | € 346  | € 372  |
+
+Tabel b Correctie (C) voor het gemiddeld elementoppervlak 
+
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| S (m<sup>2</sup>)  | < 0,5  | ≥ 0,5  < 0,6  | ≥ 0,6  < 0,7  | ≥ 0,7  < 0,8  | ≥ 0,8  < 1,0  | ≥ 1,0  < 1,4  | ≥ 1,4  < 2,0  | ≥ 2,0  < 2,8  | ≥ 2,8  |
+| C (€)  | + € 85  | + € 51  | + € 26  | + € 14  | € 0  | – € 19  | – € 36  | – € 50  | – € 63  |
+
+Tabel c Toeslagen per (nieuw) raam en (nieuwe) deur 
+
+| Kostenklasse  | I  | II  | III  | IV  | V  |
+|:---|:---|:---|:---|:---|:---|
+| Nieuwe draairamen  | € 265  | € 320  | € 325  | € 330  | € 335  |
+| Nieuwe vaste ramen  | n.v.t.  | € 230  | € 235  | € 240  | € 245  |
+| Dakramen excl. Suskasten  | € 465  | € 500  | € 545  | € 615  | € 690  |
+| Nieuwe deuren  | € 750  | € 860  | € 860  | € 860  | € 860  |
+
+Tabel d Toeslag per stuk voor raam/deur (anders dan naar buiten draaiend) 
+
+| --- | --- |
+|:---|:---|
+| Verwijderen schuifraam, per stuk  | € 110  |
+| Naar binnen draaiende delen, per stuk  | € 35  |
+| Draai-kiep-raam, per stuk  | € 110  |
+| stijl/dorpel bij nieuwe draaidelen, per strekkende meter  | € 100  |
+| Kierdichting bestaande draaidelen, per strekkende meter  | € 18  |
+| Toeslag inhaakkozijnen, per vierkante meter  | € 250  |
+| Toeslag stellatten t.b.v voorzetbeglazing, per strekkende meter  | € 8  |
+
+Tabel e Toeslag voor kozijnnaaddichting per m<sup>1</sup>  
+
+| --- | --- |
+|:---|:---|
+| Naaddichting aan de binnenzijde per m<sup>1</sup> (alleen kit)  | € 9  |
+| Naaddichting aan de binnenzijde per m<sup>1</sup> (hoeklat + kit)  | € 18  |
+| Naaddichting aan de buitenzijde per m<sup>1</sup> (alleen kit)  | € 9  |
+
+### 2  
+
+####Geluiddempende ventilatievoorzieningen
+
+Tabel f Toetsbedragen voor een geluiddempende ventilatievoorziening (één geluiddempende ventilatievoorziening per geluidsbelast, geluidsgevoelig vertrek) 
+
+| --- | --- |
+|:---|:---|
+| Suskast  | € 350  |
+| Muurdemper  | € 340  |
+| Dakdemper  | € 290  |
+| Mechanische ventilatievoorziening  | € 485  |
+
+### 3  
+
+####Maatregelen hellend dakvlak
+
+Tabel g Toetsbedragen per m<sup>2</sup> voor maatregelen aan het dakvlak 
+
+| --- | --- | --- |
+|:---|:---|:---|
+| Type 1  | dakbeschot met waterbestendige plaat kierdicht maken  | € 70  |
+| Type 2  | idem type 1 met aanvullend montage gipsplaten en spouw geheel of gedeeltelijk vullen met minerale wol, eventueel op verende regels  | € 175  |
+| Type 3  | idem type 2 echter montage gipsplaten op verende regels  | € 205  |
+
+### 4  
+
+####Maatregelen plafonds
+
+Tabel h Toetsbedragen per m<sup>2</sup> voor maatregelen aan het plafond 
+
+| --- | --- |
+|:---|:---|
+| Alleen gipsplaten  | € 105  |
+| Gipsplaten met minerale wol  | € 115  |
+
+### B  
+
+####Toetsbedragen geluidwerende maatregelen bij gekoppelde gevelsanering
+
+*Alle bedragen zijn exclusief BTW.*   Tabel i Toetsbedragen per m<sup>2</sup> voor de meerkosten van beglazing en panelen 
+
+| Kostenklasse  | II  | III  | IV  | V  |
+|:---|:---|:---|:---|:---|
+| Toetsbedrag/m<sup>2</sup>   | € 95  | € 115  | € 205  | € 210  |
+
+Tabel j Toeslagen per nieuw raam en nieuwe deur 
+
+| Kostenklasse  | II  | III  | IV  | V  |
+|:---|:---|:---|:---|:---|
+| Raam/deur  | € 85  | € 85  | € 85  | € 85  |
+
+Tabel k Toetsbedragen voor een geluiddempende ventilatievoorziening (één geluiddempende ventilatievoorziening per geluidsbelast, geluidsgevoelig vertrek) 
+
+| --- | --- |
+|:---|:---|
+| Suskast  | € 395  |
+| Muurdemper  | € 270  |
+| Dakdemper  | € 220  |
+| Mechanisch geluiddempende ventilatievoorziening  | € 415  |
+
+Tabel l Toetsbedragen per m<sup>2</sup> voor meerkosten van maatregelen aan het dakvlak 
+
+| --- | --- | --- |
+|:---|:---|:---|
+| Type 2  | dakbeschot met waterbestendige plaat kierdicht maken met aanvullend montage gipsplaten. De spouw geheel of gedeeltelijk vullen met minerale wol, eventueel op verende regels  | € 105  |
+| Type 3  | idem type 2 echter montage gipsplaten op verende regels  | € 140  |
+
+### C  
+
+####Toelichting op het toetsbedragensysteem voor gevelmaatregelen
+
+De belangrijkste aspecten van het systeem van de toetsbedragen zijn (zie de tabellen onder a): 
+
+* Differentiatie in vijf klassen met een bereik van ieder 2 dB.  
+
+* De klassen betreffen kostenklassen (I t/m V). Door middel van het nomogram (figuur 1) kan per situatie, afhankelijk van de vereiste geluidwering, de kostenklasse worden bepaald. Deze kostenklassen corresponderen met de R<sub>A</sub>-waarden van de lichte geveldelen. ![255012](http://wetten.overheid.nl/Illustration/255012)
+
+* In een correctie (C) wordt de invloed van het gemiddeld element oppervlak verdisconteerd. (Kleine oppervlakken zijn per m<sup>2</sup> duurder dan grote oppervlakken.)  
+
+* Per raam en deur geldt een toeslag per stuk. Omdat de detaillering van bewegende delen afhankelijk is van de geluidsisolatie, varieert deze toeslag per kostenklasse. Deze toeslag is gebaseerd op naar buiten draaiende ramen en deuren.  
+
+* Indien ten opzichte van de bestaande situatie afwijkende raamtypes moeten worden toegepast kan daarvoor nog een toeslag per stuk gelden (tabel d). Wordt een schuifraam vervangen door een vast deel of draairaam, dan geldt een toeslag voor het demonteren van het raam en aanpassen van het kozijn.  
+
+* Afhankelijk van de vereiste geluidsisolatiewaarde wordt enkele, dan wel dubbele naaddichting toegepast. (Bij enkele naaddichting is het over het algemeen om bouwfysische redenen noodzakelijk deze aan de binnenzijde aan te brengen.)  
+
+* Per geluidsbelast geluidsgevoelig vertrek zal over het algemeen een geluiddempende ventilatievoorziening nodig zijn. Afhankelijk van het type geldt een verschillend toetsbedrag  
+
+* Bij maatregelen aan hellende daken ligt slechts een beperkt aantal bouwkundige constructies voor de hand. Om die reden zijn de toetsbedragen gebaseerd op de kosten van de desbetreffende maatregelen. De toetsbedragen corresponderen met de constructies die in de publicatie Verkeerslawaai en Woningen" zijn beschreven onder respectievelijk de codes DH1, DH5 tot en met DH7 en DH8. De keuze van het type constructie is sterk afhankelijk van de vereiste geluidwering. De normkosten van de verschillende kostenklassen voor dakisolatie zijn allereerst gerelateerd aan de uit te voeren werkzaamheden. Globaal kan aangehouden worden dat type 1, 2 en 3 corresponderen met een eis van respectievelijk* R<sub>A</sub> ≤ 27 dB, 28 dB ≤ R<sub>A</sub> ≤ 36 dB en R<sub>A</sub> ≥ 37 dB.* (genoemde isolatiewaarden zijn gerelateerd aan de isolatiewaarden op basis van het wegspectrum). Bij de bepaling van de toetsbedragen is er onder meer van uitgegaan dat het dak akoestisch nog niet geïsoleerd is, er geen dakkapel aanwezig is, er geen bijzondere voorzieningen aan de dakvoet nodig zijn, er geen knieschotten en ingebouwde kasten aanwezig zijn en de nieuwe afwerking zal bestaan uit sauswerk op gipskartonplaat. Als de aanwezige situatie verschilt van deze uitgangspunten zal dat wat betreft uitvoeringskosten in het algemeen tot een afwijking van de toetsbedragen kunnen leiden: bijvoorbeeld als het dak al wel (gedeeltelijk) geïsoleerd is tot minder kosten en bij de aanwezigheid van een dakraam tot meer kosten.  
+
+* Ook bij maatregelen aan plafonds ligt slechts een beperkt aantal bouwkundige constructies voor de hand. Om die reden zijn de toetsbedragen gebaseerd op de kosten van de desbetreffende maatregelen.   Het toetsbedragensysteem voor gekoppelde gevelsanering (zie de tabellen onder b) is, in verband met de andere uitgangssituatie bij koppeling van maatregelen, vereenvoudigd ten opzichte van het systeem voor autonome gevelsanering. Tot de meerkosten die aan de geluidwering worden toegerekend, behoren niet de maatregelen waarvoor bij autonome sanering kostenklasse I van toepassing zou zijn, de correctie voor het gemiddeld element oppervlak en diverse toeslagen anders dan voor de naar buiten draaiende ramen en deuren. Ter vereenvoudiging van het systeem zijn daarnaast de bedragen voor de noodzakelijke extra naaddichting verwerkt in de m<sup>2</sup> bedragen voor de beglazing en de panelen. 
 
 ###Bijlage E 
 

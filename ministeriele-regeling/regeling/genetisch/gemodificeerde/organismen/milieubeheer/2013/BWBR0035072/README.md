@@ -3,24 +3,24 @@
 ##Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 14 april 2014, nr. IenM/BSK-2014/88344, houdende regels met betrekking tot het ingeperkt gebruik en de doelbewuste introductie in het milieu van genetisch gemodificeerde organismen (Regeling genetisch gemodificeerde organismen milieubeheer 2013)
 
 De Staatssecretaris van Infrastructuur en Milieu,  
-Gelet op [artikel 8.40 van de Wet milieubeheer](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), de [artikelen 1.4](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md), [1.6](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md), [2.2](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md), [2.5](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md), [2.6](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md), [2.7](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md), [2.8](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md), [2.10](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md), [2.13](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md), [2.15](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md), [2.17](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md), [2.31](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md), [2.34](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md), [2.36](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md), [2.46](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md), [2.51](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md), [2.54](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md), [3.4](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md), [3.7](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md), [3.15](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md), [3.16](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md), [3.23](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md), [3.24](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md), [3.25](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md), [3.27](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md), [3.28](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md), [4.8](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md), [5.3](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md) en[ 5.4](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md) van, en [bijlage 4 bij, het Besluit genetisch gemodificeerde organismen milieubeheer 2013](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md), alsmede, voor zover het artikel 45 betreft, [bijlage I, onderdeel C, categorie 21, onderdeel 21.2, onder b, van het Besluit omgevingsrecht](../../../../../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md), en, voor zover het artikel 52 betreft, [artikel 4.4, eerste lid, van het Besluit omgevingsrecht](../../../../../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md),
+Gelet op artikel 8.40 van de Wet milieubeheer, de artikelen 1.4, 1.6, 2.2, 2.5, 2.6, 2.7, 2.8, 2.10, 2.13, 2.15, 2.17, 2.31, 2.34, 2.36, 2.46, 2.51, 2.54, 3.4, 3.7, 3.15, 3.16, 3.23, 3.24, 3.25, 3.27, 3.28, 4.8, 5.3 en 5.4 van, en bijlage 4 bij, het Besluit genetisch gemodificeerde organismen milieubeheer 2013, alsmede, voor zover het artikel 45 betreft, bijlage I, onderdeel C, categorie 21, onderdeel 21.2, onder b, van het Besluit omgevingsrecht, en, voor zover het artikel 52 betreft, artikel 4.4, eerste lid, van het Besluit omgevingsrecht,
 Besluit:     
 ### Hoofdstuk  1  
 
 ####Algemene bepalingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
 ### Afdeling  1.1  
 
 #### *Reikwijdte* 
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
 ### Artikel  1  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
-De volgende onderdelen van deze regeling gelden mede voor degene die een inrichting drijft als bedoeld in [bijlage I, onderdeel C, categorie 21, van het Besluit omgevingsrecht](../../../../../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md): 
+De volgende onderdelen van deze regeling gelden mede voor degene die een inrichting drijft als bedoeld in bijlage I, onderdeel C, categorie 21, van het Besluit omgevingsrecht: 
 
 a. artikel 2, voor zover de begripsomschrijvingen van belang zijn voor de toepassing van de inrichtingsvoorschriften die zijn opgenomen in bijlage 9;  
 
@@ -36,16 +36,16 @@ e. andere onderdelen van, en bijlagen bij, deze regeling, voor zover zij van bel
 
 #### *Begripsbepalingen* 
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
 ### Artikel  2  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
 1.  In deze regeling wordt verstaan onder: 
 
 *activiteiten met genetisch gemodificeerde organismen:* vervaardiging van of handelingen met genetisch gemodificeerde organismen;  
 
-*Besluit:* [Besluit genetisch gemodificeerde organismen milieubeheer 2013](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md);  
+*Besluit:* Besluit genetisch gemodificeerde organismen milieubeheer 2013;  
 
 *biologische inperking:* eigenschappen van een organisme, waaronder de eigenschappen van het ingebrachte genetisch materiaal, die de overleving en de verspreiding van dat organisme of van het in dat organisme ingebrachte genetisch materiaal in het milieu beperken;  
 
@@ -83,7 +83,7 @@ d. de genen voor replicatie en packaging zijn verdeeld over de andere drie plasm
 
 *handelingen met genetisch gemodificeerde organismen:* activiteiten bestaande uit het vermeerderen, in Nederland invoeren, aan een ander ter beschikking stellen, toepassen, voorhanden hebben, vervoeren, zich ontdoen of vernietigen van genetisch gemodificeerde organismen;  
 
-*kennisgeving:* kennisgeving als bedoeld in [afdeling 2.2.2 van het Besluit](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md);  
+*kennisgeving:* kennisgeving als bedoeld in afdeling 2.2.2 van het Besluit;  
 
 *micro-organisme van klasse 1:* micro-organisme dat in ieder geval voldoet aan een van de volgende voorwaarden: 
 
@@ -115,7 +115,7 @@ d. van het micro-organisme is het niet-virulente karakter door middel van adequa
 
 *verantwoordelijk medewerker:* verantwoordelijk medewerker, bedoeld in artikel 8, eerste lid, onder b;  
 
-*vergunninghouder:* natuurlijke persoon of rechtspersoon aan wie een vergunning als bedoeld in [artikel 3.2, eerste lid, van het Besluit](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md) is verleend;  
+*vergunninghouder:* natuurlijke persoon of rechtspersoon aan wie een vergunning als bedoeld in artikel 3.2, eerste lid, van het Besluit is verleend;  
 
 *vervaardiging van genetisch gemodificeerde organismen:* activiteiten die tot doel of tot gevolg hebben dat één of meerdere genetisch gemodificeerde organismen ontstaan;  
 
@@ -124,18 +124,18 @@ d. van het micro-organisme is het niet-virulente karakter door middel van adequa
 *virale vector:* vector die nucleïnezuursequenties bevat afkomstig van een voor plantaardige, dierlijke of humane cellen infectieus virus, en die dat genetisch materiaal aan eukaryote cellen kan toevoegen, met dien verstande dat de betrokken virale sequenties kunnen leiden tot replicatie van de vector of delen hiervan, of tot integratie van genetische informatie van de vector of delen hiervan in het genetisch materiaal van de cel.     
 2.  In deze regeling wordt verstaan onder vergunning: 
 
-a. voor de toepassing van hoofdstuk 2: vergunning als bedoeld in [afdeling 2.2.3 van het Besluit](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md);  
+a. voor de toepassing van hoofdstuk 2: vergunning als bedoeld in afdeling 2.2.3 van het Besluit;  
 
-b. voor de toepassing van hoofdstuk 3: vergunning als bedoeld in [artikel 3.2 van het Besluit](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md).    
+b. voor de toepassing van hoofdstuk 3: vergunning als bedoeld in artikel 3.2 van het Besluit.    
 
 ### Afdeling  1.3  
 
 #### *Overbrenging en vervoer* 
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
 ### Artikel  3  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
 1.  Overbrenging van genetisch gemodificeerde organismen binnen een inrichting geschiedt overeenkomstig de bepalingen, vermeld in bijlage 1, onder 1.1, indien de overbrenging plaatsvindt: 
 
@@ -147,9 +147,9 @@ c. niet over de openbare weg.
 2.  Het eerste lid is van overeenkomstige toepassing op de overbrenging van genetisch gemodificeerde organismen aan boord van een schip, indien de overbrenging voldoet aan het eerste lid, aanhef en onder a en b.  
 
 ### Artikel  4  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
-Vervoer van organismen als bedoeld in [artikel 1.6 van het Besluit](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md) geschiedt overeenkomstig de bepalingen, vermeld in bijlage 1, onder 1.2, indien het vervoer plaatsvindt: 
+Vervoer van organismen als bedoeld in artikel 1.6 van het Besluit geschiedt overeenkomstig de bepalingen, vermeld in bijlage 1, onder 1.2, indien het vervoer plaatsvindt: 
 
 a. buiten een inrichting;  
 
@@ -159,28 +159,28 @@ b. binnen een inrichting, maar over de openbare weg.
 
 #### *Opslag bij schorsings- of stakingsbevel* 
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
 ### Artikel  5  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
-1.  Ingeval genetisch gemodificeerde organismen worden opgeslagen naar aanleiding van een bevel dat is gegeven krachtens [artikel 2.31](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md), [artikel 2.34](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md), [artikel 2.51](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md) of [artikel 2.54 van het Besluit](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md), geschiedt de opslag overeenkomstig de van toepassing zijnde categorie van fysische inperking en de daarbij behorende voorschriften van bijlage 9.   
-2.  Indien genetisch gemodificeerde organismen worden opgeslagen naar aanleiding van een bevel krachtens [artikel 3.28 van het Besluit](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md), dan wel naar aanleiding van een besluit als bedoeld in [artikel 5.3 van het Besluit](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md), geschiedt de opslag zodanig dat de genetisch gemodificeerde organismen zich niet kunnen verspreiden of vermenigvuldigen en zij niet vermengd kunnen raken met niet genetisch gemodificeerde organismen. De opslag is herkenbaar door een aanduiding met het opschrift ‘opslag genetisch gemodificeerde organismen waarop een schorsings- of stakingsbevel van toepassing is’.  
+1.  Ingeval genetisch gemodificeerde organismen worden opgeslagen naar aanleiding van een bevel dat is gegeven krachtens artikel 2.31, artikel 2.34, artikel 2.51 of artikel 2.54 van het Besluit, geschiedt de opslag overeenkomstig de van toepassing zijnde categorie van fysische inperking en de daarbij behorende voorschriften van bijlage 9.   
+2.  Indien genetisch gemodificeerde organismen worden opgeslagen naar aanleiding van een bevel krachtens artikel 3.28 van het Besluit, dan wel naar aanleiding van een besluit als bedoeld in artikel 5.3 van het Besluit, geschiedt de opslag zodanig dat de genetisch gemodificeerde organismen zich niet kunnen verspreiden of vermenigvuldigen en zij niet vermengd kunnen raken met niet genetisch gemodificeerde organismen. De opslag is herkenbaar door een aanduiding met het opschrift ‘opslag genetisch gemodificeerde organismen waarop een schorsings- of stakingsbevel van toepassing is’.  
 
 ### Hoofdstuk  2  
 
 ####Ingeperkt gebruik
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
 ### Afdeling  2.1  
 
 #### *Interne organisatie, procedures en administratie* 
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
 ### Artikel  6  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
 1.  De gebruiker stelt één of meer door de Minister overeenkomstig de artikelen 11 tot en met 14 toegelaten biologischeveiligheidsfunctionarissen aan.   
 2.  Voor elke categorie van fysische inperking waarin activiteiten met genetisch gemodificeerde organismen worden verricht, is voorafgaand aan de activiteiten in de betreffende categorie van fysische inperking een daarvoor toegelaten biologischeveiligheidsfunctionaris aangesteld.   
@@ -190,7 +190,7 @@ Treedt in werking op een nader te bepalen tijdstip
 6.  Indien meer dan één biologischeveiligheidsfunctionaris is aangesteld, voorziet de gebruiker, voor zover deze regeling daarin niet voorziet, in een verdeling van taken en verantwoordelijkheden tussen de biologischeveiligheidsfunctionarissen.  
 
 ### Artikel  7  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
 1.  De gebruiker belast de biologischeveiligheidsfunctionaris binnen de grenzen van zijn toelating met: 
 
@@ -220,7 +220,7 @@ c. niet tevens optreedt als onderzoeksleider of verantwoordelijk medewerker voor
 4.  Indien een biologischeveiligheidsfunctionaris toeziet op personen die niet in dienst zijn bij de gebruiker die de biologischeveiligheidsfunctionaris heeft aangesteld, draagt de gebruiker er zorg voor dat de zeggenschap van de biologischeveiligheidsfunctionaris over deze medewerkers schriftelijk is vastgelegd.  
 
 ### Artikel  8  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
 1.  De gebruiker voorziet in de aanwijzing van: 
 
@@ -233,7 +233,7 @@ b. een of meerdere verantwoordelijk medewerkers per te onderscheiden groep van a
 5.  Indien onder de verantwoordelijkheid van de gebruiker activiteiten met genetisch gemodificeerde organismen worden verricht door personen die niet in dienst zijn van de gebruiker, is de zeggenschap van de gebruiker over deze personen schriftelijk vastgelegd.  
 
 ### Artikel  9  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
 1.  De gebruiker voorziet in het opstellen van procedures voor: 
 
@@ -270,7 +270,7 @@ g. de regeling van de toegang tot de werkruimten en overige ruimten;
 h. de adequate invulling van doelvoorschriften die op de uitgevoerde activiteiten met genetisch gemodificeerde organismen zijn toegesneden.    
 
 ### Artikel  10  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
 1.  De gebruiker voorziet in een op één plaats binnen de inrichting gehouden toegankelijke administratie, waarin ten minste zijn opgenomen: 
 
@@ -309,9 +309,9 @@ a. de voorhanden zijnde genetisch gemodificeerde organismen, per genetisch gemod
 
 2°. het genetisch materiaal dat is gebruikt bij de vervaardiging van het genetisch gemodificeerde organisme en een omschrijving van de samenstellende delen onder vermelding van de donororganismen;  
 
-3°. indien het activiteiten betreft met een genetisch gemodificeerd organisme waarvoor overeenkomstig [artikel 2.10, derde en vierde lid](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md), of [artikel 2.11, tweede en derde lid, van het Besluit](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md) geen risicobeoordeling hoeft te worden gedaan: 
+3°. indien het activiteiten betreft met een genetisch gemodificeerd organisme waarvoor overeenkomstig artikel 2.10, derde en vierde lid, of artikel 2.11, tweede en derde lid, van het Besluit geen risicobeoordeling hoeft te worden gedaan: 
 
-i. de vermelding van ‘[artikel 2.10](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md)’ met de van toepassing zijnde combinatie van lijsten dan wel de vermelding van ‘[artikel 2.11](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md)’, en  
+i. de vermelding van ‘artikel 2.10’ met de van toepassing zijnde combinatie van lijsten dan wel de vermelding van ‘artikel 2.11’, en  
 
 ii. de functie of functies van de geïnserteerde genen;    
 
@@ -345,10 +345,10 @@ i. de opslag van afval dat genetisch gemodificeerde organismen bevat of kan beva
 
 #### *Procedure voor toelating van een biologischeveiligheidsfunctionaris* 
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
 ### Artikel  11  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
 1.  Een persoon kan op aanvraag door de Minister worden toegelaten als biologischeveiligheidsfunctionaris voor een of meer daarbij aangegeven categorieën van fysische inperking en inperkingsniveaus.   
 2.  Met het oog op een adequate uitvoering van de taken, bedoeld in artikel 7, eerste lid, beschikt de betrokkene in elk geval over: 
@@ -362,7 +362,7 @@ c. kennis van en ervaring met de gebruikte technieken en de toegepaste veilighei
 d. algemene kennis van inperkende apparatuur en technische voorzieningen die inperking bewerkstelligen.    
 
 ### Artikel  12  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
 1.  Bij de aanvraag om toelating als biologischeveiligheidsfunctionaris wordt gebruik gemaakt van een door de Minister vastgesteld formulier.   
 2.  Bij de aanvraag worden de volgende gegevens overgelegd: 
@@ -376,7 +376,7 @@ c. de categorie of categorieën van fysische inperking en het inperkingsniveau o
 d. informatie waaruit blijkt dat de aanvrager voldoet aan het bepaalde in artikel 11, tweede lid.    
 
 ### Artikel  13  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
 1.  De Minister beslist binnen acht weken na de ontvangst van de aanvraag.   
 2.  De Minister kan de toelating beperken tot een of meer daarbij aangegeven inperkingsniveaus en categorieën van fysische inperking. Hij kan daarbij afwijken van de aanvraag.   
@@ -392,7 +392,7 @@ c. een melding doet aan de Minister indien hij zijn werkzaamheden als biologisch
 6.  Tot de voorschriften en beperkingen, bedoeld in het vijfde lid, kan in elk geval behoren de beperking dat de toelating slechts geldt voor een daarbij aangegeven termijn.  
 
 ### Artikel  14  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
 1.  De biologischeveiligheidsfunctionaris kan een aanvraag indienen om wijziging van zijn toelating.   
 2.  De artikelen 11 tot en met 13 zijn van overeenkomstige toepassing, met dien verstande dat eerder overgelegde gegevens die nog actueel zijn niet opnieuw behoeven te worden overgelegd.   
@@ -412,21 +412,21 @@ d. bij gebleken ongeschiktheid van de functionaris.
 
 #### *Aanwijzing van categorieën van fysische inperking, risicobeoordeling en inschaling* 
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
 ### Artikel  15  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
-Als categorieën van fysische inperking worden, naast de categorieën van fysische inperking, genoemd in [bijlage 4 bij het Besluit](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md), onderscheiden: 
+Als categorieën van fysische inperking worden, naast de categorieën van fysische inperking, genoemd in bijlage 4 bij het Besluit, onderscheiden: 
 
 a. apparatuurruimten, bedoeld voor handelingen met genetisch gemodificeerde organismen in apparaten op inperkingsniveau I, genaamd AP-I;  
 
 b. laboratoria, uitsluitend bedoeld voor activiteiten met genetisch gemodificeerde organismen die zijn vermeld in bijlage 11 of die voldoen aan de criteria in bijlage 6 voor S-I op inperkingsniveau I en III, genaamd S-I en S-III.   
 
 ### Artikel  16  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
-1.  De gebruiker voert de risicobeoordeling, bedoeld in [artikel 2.5 van het Besluit](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md), uit overeenkomstig bijlage 5.   
+1.  De gebruiker voert de risicobeoordeling, bedoeld in artikel 2.5 van het Besluit, uit overeenkomstig bijlage 5.   
 2.  Bij de risicobeoordeling geeft de gebruiker tevens toepassing aan: 
 
 a. bijlage 2, of onderdelen van die bijlage, voor zover daarnaar wordt verwezen in bijlage 5;  
@@ -435,31 +435,31 @@ b. bijlage 7, voor wat betreft de inschaling van genetisch gemodificeerde plante
 3.  Bij de risicobeoordeling hanteert de gebruiker uitsluitend de indeling in klassen van pathogene micro-organismen die is aangegeven in bijlage 4.  
 
 ### Artikel  17  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
 1.  De gebruiker kent, op basis van een risicobeoordeling die is uitgevoerd met toepassing van artikel 16, toe: 
 
 a. als categorie van fysische inperking: de categorie van fysische inperking die volgt uit de risicobeoordeling, met inbegrip van beschermingsmaatregelen, indien deze bij de risicobeoordeling in de beschouwing zijn betrokken;  
 
-b. als inperkingsniveau: het inperkingsniveau dat overeenkomt met het Romeinse cijfer dat behoort bij de aanduiding van de toegekende categorie van fysische inperking, waarbij indien het inperkingsniveau II betreft, tevens wordt aangegeven of het niveau II-k of II-v betreft als bedoeld in [artikel 2.7, derde lid, van het Besluit](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md).     
+b. als inperkingsniveau: het inperkingsniveau dat overeenkomt met het Romeinse cijfer dat behoort bij de aanduiding van de toegekende categorie van fysische inperking, waarbij indien het inperkingsniveau II betreft, tevens wordt aangegeven of het niveau II-k of II-v betreft als bedoeld in artikel 2.7, derde lid, van het Besluit.     
 2.  Ingeperkt gebruik is ingeperkt gebruik op inperkingsniveau II-v, indien het als zodanig is aangewezen in bijlage 5, of door de Minister als zodanig is vastgesteld.  
 
 ### Artikel  18  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
-1.  Het verslag van de risicobeoordeling, bedoeld in [artikel 2.5 van het Besluit](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md), bevat in ieder geval per groep van soortgelijke genetisch gemodificeerde organismen: 
+1.  Het verslag van de risicobeoordeling, bedoeld in artikel 2.5 van het Besluit, bevat in ieder geval per groep van soortgelijke genetisch gemodificeerde organismen: 
 
 a. de gebruikte gastheren of gastheerstammen, vectoren en inserties, onder vermelding van de pathogeniteitsklasse van gastheer en donororganisme;  
 
 b. informatie over de aard en de omvang van de handelingen met de toegepaste genetisch gemodificeerde organismen;  
 
 c. de uitkomst van de risicobeoordeling, overeenkomstig het derde lid.     
-2.  Indien het gaat om toepassingen in S-I of S-III of om toepassingen in procesinstallaties, niet zijnde toepassingen in MI-III met genetisch gemodificeerde organismen die voldoen aan [artikel 2.10, derde lid, van het Besluit](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md), bevat het verslag, in afwijking van het eerste lid, de in het eerste lid aangewezen gegevens per genetisch gemodificeerd organisme.   
+2.  Indien het gaat om toepassingen in S-I of S-III of om toepassingen in procesinstallaties, niet zijnde toepassingen in MI-III met genetisch gemodificeerde organismen die voldoen aan artikel 2.10, derde lid, van het Besluit, bevat het verslag, in afwijking van het eerste lid, de in het eerste lid aangewezen gegevens per genetisch gemodificeerd organisme.   
 3.  De uitkomst van de risicobeoordeling omvat in elk geval de toegekende categorie van fysische inperking en het inperkingsniveau onder vermelding van het bijbehorende inschalingsartikel van deel I van bijlage 5, en de eventuele aanvullende voorschriften voor specifieke gevallen onder vermelding van de toepasselijke inschalingsartikelen van deel II van bijlage 5.   
 4.  Bij de vermelding van een inschalingsartikel, als bedoeld in het derde lid, worden tevens vermeld het lid van dat inschalingsartikel en, indien van toepassing, het onderdeel of de onderdelen van dat lid die hebben geleid tot de toe te passen categorie van fysische inperking en het inperkingsniveau.   
 5.  Voor het verslag van de risicobeoordeling wordt gebruik gemaakt van een door de Minister vastgesteld formulier.   
 6.  De gebruiker draagt er zorg voor dat er steeds een actueel verslag aanwezig is van het ingeperkt gebruik.   
-7.  Het verslag wordt voorts aangepast op basis van de uitkomsten van een periodieke herhaling van de risicobeoordeling als bedoeld in de [artikelen 2.32](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md) en [2.53 van het Besluit](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md).   
+7.  Het verslag wordt voorts aangepast op basis van de uitkomsten van een periodieke herhaling van de risicobeoordeling als bedoeld in de artikelen 2.32 en 2.53 van het Besluit.   
 8.  De gebruiker voorziet voorts in het inzichtelijk groeperen van de verslagen van de risicobeoordelingen: 
 
 a. per kennisgeving en per onderzoeksleider van de activiteiten binnen die kennisgeving;  
@@ -472,9 +472,9 @@ a. een groep van samenhangende activiteiten binnen een kennisgeving die niet mee
 b. vergunde activiteiten die niet meer worden verricht.    
 
 ### Artikel  19  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
-1.  Als de gebruiker voornemens is een verzoek in te dienen als bedoeld in [artikel 2.8, tweede of derde lid, van het Besluit](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md), voert hij een risicobeoordeling uit overeenkomstig de beginselen voor een risicobeoordeling, zoals aangegeven in bijlage 8, tenzij het een verzoek als bedoeld in artikel 2.8, tweede lid, betreft, en dit verzoek betrekking heeft op: 
+1.  Als de gebruiker voornemens is een verzoek in te dienen als bedoeld in artikel 2.8, tweede of derde lid, van het Besluit, voert hij een risicobeoordeling uit overeenkomstig de beginselen voor een risicobeoordeling, zoals aangegeven in bijlage 8, tenzij het een verzoek als bedoeld in artikel 2.8, tweede lid, betreft, en dit verzoek betrekking heeft op: 
 
 a. inschaling op MI-I dan wel op MI-II, of  
 
@@ -485,45 +485,45 @@ b. inschaling op S-I.
 5.  In afwijking van artikel 18, derde lid, omvat de uitkomst van de risicobeoordeling als bedoeld in het eerste lid in elk geval de toegekende categorie van fysische inperking en het inperkingsniveau, waarbij een bijlage wordt gevoegd waarin de risicobeoordeling wordt omschreven.  
 
 ### Artikel  20  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
-1.  Bij een verzoek als bedoeld in [artikel 2.8, eerste lid, van het Besluit](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md) worden overgelegd: 
+1.  Bij een verzoek als bedoeld in artikel 2.8, eerste lid, van het Besluit worden overgelegd: 
 
 a. een toelichting, gericht op het aspect dat de twijfel heeft veroorzaakt;  
 
-b. de gegevens, aangewezen in [artikel 2.15](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md) of [artikel 2.36](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md) van, en [bijlage 5 bij, het Besluit](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md).     
-2.  Bij een verzoek als bedoeld in [artikel 2.8, tweede lid, van het Besluit](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md) worden overgelegd: 
+b. de gegevens, aangewezen in artikel 2.15 of artikel 2.36 van, en bijlage 5 bij, het Besluit.     
+2.  Bij een verzoek als bedoeld in artikel 2.8, tweede lid, van het Besluit worden overgelegd: 
 
 a. een toelichting op het verzoek, onderbouwd door middel van het verslag van de risicobeoordeling, bedoeld in artikel 19;  
 
-b. de gegevens, aangewezen in [artikel 2.15](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md) of [artikel 2.36 van het Besluit](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md) en [bijlage 5 van het Besluit](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md).     
-3.  In afwijking van het tweede lid worden bij een verzoek als bedoeld in [artikel 2.8, tweede lid, van het Besluit](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md) dat betrekking heeft op inschaling op MI-I dan wel op MI-II, overgelegd: 
+b. de gegevens, aangewezen in artikel 2.15 of artikel 2.36 van het Besluit en bijlage 5 van het Besluit.     
+3.  In afwijking van het tweede lid worden bij een verzoek als bedoeld in artikel 2.8, tweede lid, van het Besluit dat betrekking heeft op inschaling op MI-I dan wel op MI-II, overgelegd: 
 
 a. een toelichting op het verzoek, met een onderbouwing aan de hand van de criteria, opgenomen in bijlage 6, die aangeeft dat inschaling kan plaatsvinden op MI-I dan wel op MI-II;  
 
-b. de gegevens, aangewezen in [artikel 2.15](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md) of [artikel 2.36 van het Besluit](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md) en [bijlage 5 van het Besluit](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md).     
-4.  In afwijking van het tweede lid worden bij een verzoek als bedoeld in [artikel 2.8, tweede lid, van het Besluit](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md) dat betrekking heeft op inschaling op S-I, overgelegd: 
+b. de gegevens, aangewezen in artikel 2.15 of artikel 2.36 van het Besluit en bijlage 5 van het Besluit.     
+4.  In afwijking van het tweede lid worden bij een verzoek als bedoeld in artikel 2.8, tweede lid, van het Besluit dat betrekking heeft op inschaling op S-I, overgelegd: 
 
 a. een toelichting op het verzoek, met een onderbouwing aan de hand van de criteria, opgenomen in bijlage 6, die aangeeft dat inschaling kan plaatsvinden op S-I;  
 
-b. de gegevens, aangewezen in [artikel 2.15](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md) of [artikel 2.36 van het Besluit](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md) en [bijlage 5 van het Besluit](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md).     
-5.  Als over te leggen gegevens bij een verzoek als bedoeld in [artikel 2.8, derde lid, van het Besluit](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md), worden aangewezen: 
+b. de gegevens, aangewezen in artikel 2.15 of artikel 2.36 van het Besluit en bijlage 5 van het Besluit.     
+5.  Als over te leggen gegevens bij een verzoek als bedoeld in artikel 2.8, derde lid, van het Besluit, worden aangewezen: 
 
 a. het verslag van de risicobeoordeling, bedoeld in artikel 19;  
 
 b. een toelichting op het verzoek;  
 
-c. de gegevens, aangewezen in [artikel 2.15](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md) of [artikel 2.36 van het Besluit](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md) en [bijlage 5 van het Besluit](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md) met uitzondering van een risicobeoordeling als bedoeld in [artikel 2.5 van het Besluit](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md).    
+c. de gegevens, aangewezen in artikel 2.15 of artikel 2.36 van het Besluit en bijlage 5 van het Besluit met uitzondering van een risicobeoordeling als bedoeld in artikel 2.5 van het Besluit.    
 
 ### Artikel  21  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
-De combinaties van lijsten, bedoeld in [artikel 2.10, eerste lid, onder a, b en c, van het Besluit](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md), zijn de combinaties van lijsten, opgenomen in bijlage 2. 
+De combinaties van lijsten, bedoeld in artikel 2.10, eerste lid, onder a, b en c, van het Besluit, zijn de combinaties van lijsten, opgenomen in bijlage 2. 
 
 ### Artikel  22  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
-1.  Als over te leggen gegevens bij een verzoek als bedoeld in [artikel 2.13, eerste lid, van het Besluit](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md), tot vaststelling dat een gastheer in aanmerking komt voor opname op bijlage 2, lijst A1 van bijlage 2, worden aangewezen: 
+1.  Als over te leggen gegevens bij een verzoek als bedoeld in artikel 2.13, eerste lid, van het Besluit, tot vaststelling dat een gastheer in aanmerking komt voor opname op bijlage 2, lijst A1 van bijlage 2, worden aangewezen: 
 
 a. gegevens waaruit blijkt dat het micro-organisme niet behoort tot een soort waarvan vertegenwoordigers bekend zijn die ziekteverwekkend zijn voor mens, dier of plant,  
 
@@ -532,7 +532,7 @@ b. gegevens waaruit blijkt dat het micro-organisme een lange historie van veilig
 c. indien het micro-organisme behoort tot een soort die vertegenwoordigers bevat van micro-organismen van klasse 2, 3 of 4, gegevens waaruit blijkt dat de betrokken stam geen genetisch materiaal bevat dat verantwoordelijk is voor de virulentie, of  
 
 d. testgegevens die aantonen dat het micro-organisme niet-virulent is.     
-2.  Als over te leggen gegevens bij een verzoek, als bedoeld in [artikel 2.13, eerste lid, van het Besluit](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md), tot vaststelling dat een vector in aanmerking komt voor opname op lijst A2 van bijlage 2, worden aangewezen: 
+2.  Als over te leggen gegevens bij een verzoek, als bedoeld in artikel 2.13, eerste lid, van het Besluit, tot vaststelling dat een vector in aanmerking komt voor opname op lijst A2 van bijlage 2, worden aangewezen: 
 
 a. de grootte van de vector,  
 
@@ -545,10 +545,10 @@ d. de origins of replication (ori’s) die aanwezig zijn in de vector,
 e. gegevens waaruit blijkt dat de samenstellende delen niet behoren tot de groep van inserties zoals bedoeld in bijlage 2, lijst A3, en  
 
 f. gegevens waaruit blijkt dat de vector geen virale sequenties, afkomstig van virussen die hogere eukaryoten als gastheer hebben, bevat waardoor de vector als virale vector zou kunnen functioneren.     
-3.  Bij een verzoek als bedoeld in [artikel 2.13, derde lid, van het Besluit](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md) tot vaststelling dat een insertie niet behoort tot de inserties die zijn opgenomen op lijst A3 van bijlage 2 als aangegeven in bijlage 2, worden gegevens overgelegd waaruit blijkt dat de insertie niet voldoet aan de criteria die zijn opgenomen in bijlage 2, lijst A3.  
+3.  Bij een verzoek als bedoeld in artikel 2.13, derde lid, van het Besluit tot vaststelling dat een insertie niet behoort tot de inserties die zijn opgenomen op lijst A3 van bijlage 2 als aangegeven in bijlage 2, worden gegevens overgelegd waaruit blijkt dat de insertie niet voldoet aan de criteria die zijn opgenomen in bijlage 2, lijst A3.  
 
 ### Artikel  23  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
 1.  Een gebruiker kan de Minister verzoeken om een daarbij aangegeven genetisch gemodificeerd organisme op te nemen in bijlage 11.   
 2.  Bij het verzoek worden gegevens overgelegd waaruit blijkt dat het organisme voldoet aan de criteria, opgenomen in bijlage 6, voor activiteiten onder laboratoriumcondities op S-I dan wel aan de criteria, opgenomen in bijlage II, onderdeel B, van richtlijn 2009/41, zoals aangevuld met daarop betrekking hebbende besluiten of aanbevelingen van de Raad van de Europese Unie of van de Europese Commissie.   
@@ -558,17 +558,17 @@ Treedt in werking op een nader te bepalen tijdstip
 
 #### *De uitvoering van het ingeperkt gebruik* 
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
 ### Artikel  24  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
-Aan de categorieën van fysische inperking zoals opgenomen in [bijlage 4 bij het Besluit](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md), en in artikel 15, zijn de voorschriften verbonden zoals die zijn aangegeven in bijlage 9. 
+Aan de categorieën van fysische inperking zoals opgenomen in bijlage 4 bij het Besluit, en in artikel 15, zijn de voorschriften verbonden zoals die zijn aangegeven in bijlage 9. 
 
 ### Artikel  25  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
-1.  Als categorieën van gevallen waarin kan worden volstaan met een melding in plaats van een aanvraag tot wijziging van een vergunning, als bedoeld in [artikel 2.46, eerste lid, van het Besluit](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md), worden aangewezen de toevoeging van een of meer: 
+1.  Als categorieën van gevallen waarin kan worden volstaan met een melding in plaats van een aanvraag tot wijziging van een vergunning, als bedoeld in artikel 2.46, eerste lid, van het Besluit, worden aangewezen de toevoeging van een of meer: 
 
 a. gastheren met vergelijkbare eigenschappen als de gastheren waarop de eerder uitgevoerde risicobeoordeling betrekking heeft,  
 
@@ -588,22 +588,22 @@ c. de uitkomst van de risicobeoordeling die ten grondslag ligt aan de reeds verl
 
 ####Doelbewuste introductie voor overige doeleinden
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
 ### Afdeling  3.1  
 
 #### *Algemene bepalingen inzake doelbewuste introductie voor overige doeleinden* 
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
 ### §  3.1.1  
 
 ####Interne organisatie, procedures en administratie
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
 ### Artikel  26  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
 1.  De vergunninghouder stelt één of meer door de Minister overeenkomstig de artikelen 30 tot en met 33 toegelaten milieuveiligheidsfunctionarissen aan.   
 2.  Voor elke categorie van werkzaamheden waarin activiteiten met genetisch gemodificeerde organismen worden verricht, is een daarvoor toegelaten milieuveiligheidsfunctionaris aangesteld.   
@@ -611,7 +611,7 @@ Treedt in werking op een nader te bepalen tijdstip
 4.  Een milieuveiligheidsfunctionaris is aangesteld bij de instelling waarvoor hij zijn dagelijkse werkzaamheden uitvoert.  
 
 ### Artikel  27  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
 1.  De vergunninghouder belast de milieuveiligheidsfunctionaris binnen de grenzen van zijn toelating met: 
 
@@ -643,13 +643,13 @@ c. deze niet tevens optreedt als de persoon die verantwoordelijk is voor de uitv
 4.  De milieuveiligheidsfunctionaris draagt er zorg voor dat medewerkers die uit hoofde van hun functie betrokken zijn bij de veldproef, op de hoogte zijn van de toepasselijke voorschriften. Hij verstrekt hen daartoe een exemplaar van de instructies, bedoeld in het eerste lid, onder a, voor zover deze betrekking hebben op hun werkzaamheden.  
 
 ### Artikel  28  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
 1.  De vergunninghouder voorziet in een actuele en inzichtelijke administratie betreffende de werkzaamheden met genetisch gemodificeerde organismen, waarin ten minste zijn opgenomen: 
 
 a. de aan de vergunninghouder afgegeven vergunningen, daaronder begrepen wijzigingen van vergunningen, en de door de vergunninghouder gedane meldingen;  
 
-b. de door de vergunninghouder opgestelde en aan de Minister gestuurde beschrijving van voorgenomen werkzaamheden, zoals opgenomen in de vergunningen of in bijlage 10, en het overeenkomstig [artikel 3.27 van het Besluit](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md) en artikel 43 opgestelde verslag;  
+b. de door de vergunninghouder opgestelde en aan de Minister gestuurde beschrijving van voorgenomen werkzaamheden, zoals opgenomen in de vergunningen of in bijlage 10, en het overeenkomstig artikel 3.27 van het Besluit en artikel 43 opgestelde verslag;  
 
 c. de instructies, bedoeld in artikel 27, eerste lid, onder a.     
 2.  Bij medische en veterinaire toepassingen worden voorts in de administratie opgenomen: 
@@ -762,18 +762,18 @@ u. de datum waarop het verslag, als bedoeld in artikel 43, eerste lid, is gezond
 v. voor zover het betreft de op grond van artikel 39, eerste lid, aangewezen categorie van genetisch gemodificeerde organismen waarvoor een vergunning onder vaste voorschriften is verleend: de in bijlage 10 aangewezen gegevens.    
 
 ### Artikel  29  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
-De Minister legt een openbaar register aan waarin de locatie van overeenkomstig [hoofdstuk 3 van het Besluit](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md) geïntroduceerde genetisch gemodificeerde organismen wordt opgenomen. 
+De Minister legt een openbaar register aan waarin de locatie van overeenkomstig hoofdstuk 3 van het Besluit geïntroduceerde genetisch gemodificeerde organismen wordt opgenomen. 
 
 ### §  3.1.2  
 
 ####Procedure voor toelating van een milieuveiligheidsfunctionaris
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
 ### Artikel  30  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
 1.  De aanvrager of houder van een vergunning kan bij de Minister een aanvraag indienen om een persoon toe te laten als milieuveiligheidsfunctionaris binnen zijn organisatie. De aanvrager of houder van een vergunning geeft daarbij aan voor welke categorie of categorieën van werkzaamheden de toelating wordt aangevraagd.   
 2.  Met het oog op een adequate uitvoering van de taken, bedoeld in artikel 27, eerste lid, beschikt de persoon waarvoor toelating wordt gevraagd in elk geval over: 
@@ -785,7 +785,7 @@ b. kennis van en ervaring met werkzaamheden met genetisch gemodificeerde organis
 c. kennis van en ervaring met de gebruikte technieken en de toegepaste veiligheidsmaatregelen.    
 
 ### Artikel  31  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
 1.  Bij de aanvraag om toelating als milieuveiligheidsfunctionaris wordt gebruik gemaakt van een door de Minister vastgesteld formulier.   
 2.  Bij de aanvraag worden de volgende gegevens overgelegd: 
@@ -797,7 +797,7 @@ b. de categorie of categorieën van werkzaamheden;
 c. informatie waaruit blijkt dat de persoon waarvoor toelating wordt gevraagd voldoet aan artikel 30, tweede lid.    
 
 ### Artikel  32  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
 1.  De Minister beslist binnen acht weken na de ontvangst van de aanvraag.   
 2.  De Minister kan de toelating beperken tot een of meer daarbij aangegeven categorieën van werkzaamheden. Hij kan daarbij afwijken van de aanvraag.   
@@ -807,7 +807,7 @@ Treedt in werking op een nader te bepalen tijdstip
 6.  Tot de voorschriften en beperkingen, bedoeld in het vijfde lid, kunnen in elk geval behoren de bepaling dat de toelating slechts geldt voor een daarbij aangegeven termijn.  
 
 ### Artikel  33  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
 1.  De houder van een vergunning kan een aanvraag indienen om wijziging van een toelating.   
 2.  De artikelen 30 tot en met 32 zijn van overeenkomstige toepassing, met dien verstande dat eerder overgelegde gegevens die nog actueel zijn niet opnieuw behoeven te worden overgelegd.   
@@ -826,14 +826,14 @@ d. bij gebleken ongeschiktheid van de functionaris.
 
 ####Melding en wijziging van de vergunning
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
 ### Artikel  34  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
-1.  Als categorie van gevallen waarin een verandering in de doelbewuste introductie voor overige doeleinden wordt aangemerkt als een verandering die geen gevolgen heeft voor een met betrekking tot die introductie uitgevoerde milieurisicobeoordeling, als bedoeld in [artikel 3.15, onder a, van het Besluit](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md), worden voor de toepassing van planten aangewezen: 
+1.  Als categorie van gevallen waarin een verandering in de doelbewuste introductie voor overige doeleinden wordt aangemerkt als een verandering die geen gevolgen heeft voor een met betrekking tot die introductie uitgevoerde milieurisicobeoordeling, als bedoeld in artikel 3.15, onder a, van het Besluit, worden voor de toepassing van planten aangewezen: 
 
-a. de volgende veranderingen in veldproeven met een vergunde maximale omvang van 5 hectare of 10 hectare waarbij de vergunning is verleend met toepassing [paragraaf 3.2.2 van het Besluit](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md): 
+a. de volgende veranderingen in veldproeven met een vergunde maximale omvang van 5 hectare of 10 hectare waarbij de vergunning is verleend met toepassing paragraaf 3.2.2 van het Besluit: 
 
 1°. het verrichten van dezelfde werkzaamheden met een ander doel dan is aangegeven in de aanvraag;  
 
@@ -864,7 +864,7 @@ b. de volgende veranderingen in veldproeven met een vergunde maximale omvang van
 3°. een verandering in het vernietigen of behandelen van afval na afloop van de proef zonder gevolgen voor verspreiding of overleving;  
 
 4°. het vervangen of toevoegen van één of meer locaties, voor zover deze locaties gelegen zijn in het gebied waarvoor de milieurisicobeoordeling is uitgevoerd en de omvang van alle locaties tezamen ten hoogste twee keer zo groot is als de vergunde omvang.       
-2.  Als categorieën van gevallen die geen significante gevolgen hebben voor een met betrekking tot die introductie uitgevoerde milieurisicobeoordeling, als bedoeld in [artikel 3.15, onder b, van het Besluit](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md), worden voor de toepassing van planten aangewezen de categorieën van gevallen waarbij de vergunning is verleend met toepassing van [paragraaf 3.2.2 van het Besluit](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md) en die voldoen aan de navolgende criteria: 
+2.  Als categorieën van gevallen die geen significante gevolgen hebben voor een met betrekking tot die introductie uitgevoerde milieurisicobeoordeling, als bedoeld in artikel 3.15, onder b, van het Besluit, worden voor de toepassing van planten aangewezen de categorieën van gevallen waarbij de vergunning is verleend met toepassing van paragraaf 3.2.2 van het Besluit en die voldoen aan de navolgende criteria: 
 
 a. de gevolgde redenatie in de milieurisicobeoordeling verandert niet fundamenteel;  
 
@@ -892,12 +892,12 @@ b. de volgende veranderingen in veldproeven met een vergunde maximale omvang van
 2°. het inbrengen andere genen met een soortgelijke werking, waaronder een *Bacillus thuringiensis* gen (*Bt*) dat codeert voor insectenresistentie met eenzelfde specificiteit of een gen dat codeert voor tolerantie tegen een herbicide met dezelfde werking;  
 
 3°. het toepassen van een andere vector met een soortgelijk construct waarbij geen ander antibioticum resistentiegen op de vectorbackbone gelegen is.       
-4.  Het tweede en derde lid zijn van overeenkomstige toepassing indien het een vergunning onder vaste voorschriften, als bedoeld in [paragraaf 3.3.2 van het Besluit](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md), betreft, mits de doelbewuste introductie voor overige doeleinden na de beoogde verandering nog steeds voldoet aan het bepaalde in artikel 39, eerste en tweede lid.  
+4.  Het tweede en derde lid zijn van overeenkomstige toepassing indien het een vergunning onder vaste voorschriften, als bedoeld in paragraaf 3.3.2 van het Besluit, betreft, mits de doelbewuste introductie voor overige doeleinden na de beoogde verandering nog steeds voldoet aan het bepaalde in artikel 39, eerste en tweede lid.  
 
 ### Artikel  35  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
-Als medische of veterinaire categorie van gevallen waarin een verandering in de doelbewuste introductie voor overige doeleinden wordt aangemerkt als een verandering die geen gevolgen heeft voor een met betrekking tot die introductie uitgevoerde milieurisicobeoordeling, als bedoeld in [artikel 3.15, onder a, van het Besluit](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md), worden aangewezen: 
+Als medische of veterinaire categorie van gevallen waarin een verandering in de doelbewuste introductie voor overige doeleinden wordt aangemerkt als een verandering die geen gevolgen heeft voor een met betrekking tot die introductie uitgevoerde milieurisicobeoordeling, als bedoeld in artikel 3.15, onder a, van het Besluit, worden aangewezen: 
 
 a. iedere verandering in de introductie met betrekking tot de toepassing van naakt DNA waarbij de vergunning is gebaseerd op een door de Minister opgestelde milieurisicobeoordeling voor naakt DNA, tenzij deze verandering: 
 
@@ -956,9 +956,9 @@ c. de volgende veranderingen in de introductie met betrekking tot de toepassing 
 4°. een verandering in de begindatum van een studie die in het kader van de betrokken introductie wordt uitgevoerd of in de einddatum van een zodanige studie, voor zover dit niet leidt tot overschrijding van de vergunde einddatum.     
 
 ### Artikel  36  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
-Als over te leggen gegevens, als bedoeld in [artikel 3.16, derde lid, van het Besluit](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md), bij een melding van een voorgenomen verandering in de doelbewuste introductie voor overige doeleinden, worden aangewezen: 
+Als over te leggen gegevens, als bedoeld in artikel 3.16, derde lid, van het Besluit, bij een melding van een voorgenomen verandering in de doelbewuste introductie voor overige doeleinden, worden aangewezen: 
 
 a. de van toepassing zijnde aangewezen categorie van gevallen als bedoeld in artikel 34, eerste lid, onderscheidenlijk artikel 35;  
 
@@ -970,12 +970,12 @@ c. een omschrijving van de verandering.
 
 #### *Bijzondere procedures voor een vergunning op verzoek* 
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
 ### Artikel  37  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
-De aanvrager om een vergunning overeenkomstig de gedifferentieerde procedure voor de doelbewuste introductie van genetisch gemodificeerde planten in het milieu van beschikking 94/730/EG van de Commissie van de Europese Gemeenschappen, van toepassing op grond van [artikel 3.23, eerste lid, van het Besluit](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md), legt de volgende gegevens over: 
+De aanvrager om een vergunning overeenkomstig de gedifferentieerde procedure voor de doelbewuste introductie van genetisch gemodificeerde planten in het milieu van beschikking 94/730/EG van de Commissie van de Europese Gemeenschappen, van toepassing op grond van artikel 3.23, eerste lid, van het Besluit, legt de volgende gegevens over: 
 
 a. een duidelijk omschreven werkprogramma voor de introducties in het milieu van genetisch gemodificeerde planten die verkregen zijn met één duidelijk omschreven uitgangsplantensoort en een duidelijk omschreven reeks ingebouwde of geëlimineerde sequenties, dat een aantal jaren beslaat in een van te voren duidelijk omschreven periode en waarvoor op verschillende plaatsen introducties worden uitgevoerd;  
 
@@ -1008,9 +1008,9 @@ v. de voorwaarden waaronder de introductie plaatsvindt;
 c. een gedetailleerde milieurisicobeoordeling voor in ieder geval de eerste introductie die in het kader van het werkprogramma wordt verricht, met een of meerdere globale milieurisicobeoordelingen voor de overige introducties die niet door de gedetailleerde milieurisicobeoordeling worden gedekt, voorzien van alle bibliografische verwijzingen en indicaties over de gebruikte methoden.   
 
 ### Artikel  38  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
-1.  Een melding van een verandering in de doelbewuste introductie voor overige doeleinden waarvoor een vergunning is verleend overeenkomstig de gedifferentieerde procedure voor de doelbewuste introductie van genetisch gemodificeerde planten in het milieu vastgesteld bij beschikking 94/730/EG van de Commissie van de Europese Gemeenschappen, als bedoeld in [artikel 3.23, zesde lid, van het Besluit](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md), bevat de volgende gegevens: 
+1.  Een melding van een verandering in de doelbewuste introductie voor overige doeleinden waarvoor een vergunning is verleend overeenkomstig de gedifferentieerde procedure voor de doelbewuste introductie van genetisch gemodificeerde planten in het milieu vastgesteld bij beschikking 94/730/EG van de Commissie van de Europese Gemeenschappen, als bedoeld in artikel 3.23, zesde lid, van het Besluit, bevat de volgende gegevens: 
 
 a. de naam van de vergunninghouder;  
 
@@ -1033,9 +1033,9 @@ a. de oorzaken van het niet behouden van de geldigheid van de milieurisicobeoord
 b. een nieuwe milieurisicobeoordeling van de eerste, na de verandering te verrichten introducties, waarin ook de in het eerste lid bedoelde gegevens zijn betrokken, en een globale beoordeling van de risico’s van alle verdere introducties.    
 
 ### Artikel  39  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
-1.  Als categorie van genetisch gemodificeerde organismen als bedoeld in [artikel 3.24, eerste lid, van het Besluit](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md), met betrekking waartoe op verzoek van de aanvrager de procedure voor het verlenen van een vergunning onder vaste voorschriften wordt toegepast, wordt aangewezen: genetisch gemodificeerde aardappelzetmeelrassen met een amylosevrij fenotype dat het gevolg is van de aanwezigheid in de aardappelplant van één of meer van de volgende sequenties: 
+1.  Als categorie van genetisch gemodificeerde organismen als bedoeld in artikel 3.24, eerste lid, van het Besluit, met betrekking waartoe op verzoek van de aanvrager de procedure voor het verlenen van een vergunning onder vaste voorschriften wordt toegepast, wordt aangewezen: genetisch gemodificeerde aardappelzetmeelrassen met een amylosevrij fenotype dat het gevolg is van de aanwezigheid in de aardappelplant van één of meer van de volgende sequenties: 
 
 a. delen van het korrelgebonden zetmeelsynthase (kgz) gen van aardappel, in sense of antisense oriëntatie;  
 
@@ -1044,12 +1044,12 @@ b. de merker genen *nptII* en *ahas*;
 c. alle knolspecifieke promotoren van aardappel;  
 
 d. de NOS terminator van *R. radiobacter* (voorheen bekend als *A. tumefaciens)*,   onder de voorwaarde dat is aangetoond dat de vectorbackbone in de aardappelplant afwezig is.   
-2.  De toepassing van de procedure, aangegeven in de [artikelen 3.25](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md) en [3.26 van het Besluit](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md), is voor de in het eerste lid aangewezen categorie van genetisch gemodificeerde organismen beperkt tot veldproeven met een totale omvang van ten hoogste 10 hectare per jaar.  
+2.  De toepassing van de procedure, aangegeven in de artikelen 3.25 en 3.26 van het Besluit, is voor de in het eerste lid aangewezen categorie van genetisch gemodificeerde organismen beperkt tot veldproeven met een totale omvang van ten hoogste 10 hectare per jaar.  
 
 ### Artikel  40  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
-Als over te leggen gegevens bij een aanvraag om een vergunning onder vaste voorschriften, als bedoeld in [artikel 3.25, derde lid, van het Besluit](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md), die betrekking heeft op de categorie van genetisch gemodificeerde organismen, aangewezen in artikel 39, eerste lid, worden aangewezen: 
+Als over te leggen gegevens bij een aanvraag om een vergunning onder vaste voorschriften, als bedoeld in artikel 3.25, derde lid, van het Besluit, die betrekking heeft op de categorie van genetisch gemodificeerde organismen, aangewezen in artikel 39, eerste lid, worden aangewezen: 
 
 a. gegevens betreffende de aanvrager, waaronder de naam en het adres van de rechtspersoon;  
 
@@ -1070,23 +1070,23 @@ h. maatregelen voor inperking en risicomanagement;
 i. een monitoringplan overeenkomstig bijlage IIIB, onderdeel G, bij richtlijn 2001/18.   
 
 ### Artikel  41  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
-Activiteiten met genetisch gemodificeerde organismen aangewezen in artikel 39, eerste lid, waarvoor met toepassing van de procedure, aangegeven in de [artikelen 3.25](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md) en [3.26 van het Besluit](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md), een vergunning onder vaste voorschriften is verleend, worden, onverminderd het elders in deze regeling bepaalde en het bepaalde in de vergunning, uitgevoerd in overeenstemming met de voorschriften, vermeld in bijlage 10, deel A. 
+Activiteiten met genetisch gemodificeerde organismen aangewezen in artikel 39, eerste lid, waarvoor met toepassing van de procedure, aangegeven in de artikelen 3.25 en 3.26 van het Besluit, een vergunning onder vaste voorschriften is verleend, worden, onverminderd het elders in deze regeling bepaalde en het bepaalde in de vergunning, uitgevoerd in overeenstemming met de voorschriften, vermeld in bijlage 10, deel A. 
 
 ### Afdeling  3.3  
 
 #### *Overige bepalingen* 
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
 ### Artikel  42  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
 Indien de vergunninghouder op grond van een vergunning of van bijlage 10 een beschrijving van voorgenomen werkzaamheden zendt aan de Minister, maakt hij daarbij gebruik van een door de Minister vastgesteld formulier. 
 
 ### Artikel  43  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
 1.  De vergunninghouder zendt jaarlijks uiterlijk op 1 januari voor werkzaamheden met planten en uiterlijk op 1 maart voor overige werkzaamheden aan de Minister aangetekend een verslag over de resultaten van de doelbewuste introductie voor overige doeleinden in het voorafgaande kalenderjaar.   
 2.  De vergunninghouder maakt daarbij gebruik van een door de Minister vastgesteld formulier.   
@@ -1106,13 +1106,13 @@ e. informatie over de resultaten van monitoring, herstelmethoden, afvalbehandeli
 
 ####Doelbewuste introductie door het in de handel brengen van genetisch gemodificeerde organismen alsmede bepalingen omtrent het gebruik van toegelaten producten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
 ### Artikel  44  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
 1.  Degene die een toegelaten product teelt of gaat telen in Nederland, doet daarvan melding aan de Minister. De melding wordt gedaan door inzending van een formulier zoals aangegeven op de website ‘www.drloket.nl/Registraties/RegisterGGO-teelt’, dat wordt ingediend bij de Dienst Regelingen.   
-2.  De melding wordt gedaan binnen dezelfde periode als die van de landbouwtelling als bedoeld in de [artikelen 24](../../../../../../../../wet/landbouwwet/BWBR0002252/README.md) en [25 van de Landbouwwet](../../../../../../../../wet/landbouwwet/BWBR0002252/README.md).   
+2.  De melding wordt gedaan binnen dezelfde periode als die van de landbouwtelling als bedoeld in de artikelen 24 en 25 van de Landbouwwet.   
 3.  De Minister maakt de gemelde locaties elektronisch bekend op de website, genoemd in het eerste lid.   
 4.  Het eerste, tweede en derde lid zijn van overeenkomstige toepassing op een wijziging van de gemelde gegevens.  
 
@@ -1120,31 +1120,31 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Overige bepalingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
 ### Afdeling  5.1  
 
 #### *Bepalingen ter uitvoering van het Besluit omgevingsrecht* 
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
 ### Artikel  45  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
-Als activiteiten met genetisch gemodificeerde organismen als bedoeld in categorie 21, onderdeel 21.2, onder b, van onderdeel C van [bijlage I van het Besluit omgevingsrecht](../../../../../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md), die niet worden verstaan onder categorie 21, onderdeel 21.1, van onderdeel C van bijlage I van het Besluit omgevingsrecht, worden aangewezen: 
+Als activiteiten met genetisch gemodificeerde organismen als bedoeld in categorie 21, onderdeel 21.2, onder b, van onderdeel C van bijlage I van het Besluit omgevingsrecht, die niet worden verstaan onder categorie 21, onderdeel 21.1, van onderdeel C van bijlage I van het Besluit omgevingsrecht, worden aangewezen: 
 
 a. activiteiten met uitsluitend genetisch gemodificeerde organismen die zijn opgenomen in bijlage 11;  
 
-b. activiteiten met uitsluitend genetisch gemodificeerde organismen met betrekking waartoe op grond van het [Besluit](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md) een besluit van de Minister is verkregen inhoudend dat de activiteiten mogen worden verricht op S-I.   
+b. activiteiten met uitsluitend genetisch gemodificeerde organismen met betrekking waartoe op grond van het Besluit een besluit van de Minister is verkregen inhoudend dat de activiteiten mogen worden verricht op S-I.   
 
 ### Afdeling  5.2  
 
 #### *Bepalingen in verband met Europese verordeningen* 
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
 ### Artikel  46  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
 Indien de uitvoerder, bedoeld in verordening 1946/2003, een administratie bijhoudt als bedoeld in artikel 10, eerste lid, of artikel 28, eerste lid, maakt het dossier, bedoeld in artikel 6 van verordening 1946/2003, onderdeel van die administratie uit. 
 
@@ -1152,37 +1152,37 @@ Indien de uitvoerder, bedoeld in verordening 1946/2003, een administratie bijhou
 
 #### *Overgangsbepalingen* 
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
 ### Artikel  47  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
-1.  Na de inwerkingtreding van deze regeling berust de toelating van een biologischeveiligheidsfunctionaris, bedoeld in [artikel 4, eerste lid, van de Regeling genetisch gemodificeerde organismen](../../../../../../../../ministeriele-regeling/regeling/genetisch/gemodificeerde/organismen/BWBR0009653/README.md), op artikel 11, eerste lid, van deze regeling.   
-2.  Na de inwerkingtreding van deze regeling berust de toelating van een milieuveiligheidsfunctionaris, als bedoeld in [artikel 11, eerste lid, van de Regeling genetisch gemodificeerde organismen](../../../../../../../../ministeriele-regeling/regeling/genetisch/gemodificeerde/organismen/BWBR0009653/README.md), op artikel 30, eerste lid, van deze regeling.   
-3.  De [Regeling genetisch gemodificeerde organismen](../../../../../../../../ministeriele-regeling/regeling/genetisch/gemodificeerde/organismen/BWBR0009653/README.md) zoals deze gold onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van deze regeling, blijft van toepassing op een besluit op een verzoek om toelating, gedaan aan de Minister op grond van [artikel 4, eerste lid](../../../../../../../../ministeriele-regeling/regeling/genetisch/gemodificeerde/organismen/BWBR0009653/README.md), of [artikel 11, eerste lid, van de Regeling genetisch gemodificeerde organismen](../../../../../../../../ministeriele-regeling/regeling/genetisch/gemodificeerde/organismen/BWBR0009653/README.md), totdat dat besluit onherroepelijk is geworden.  
+1.  Na de inwerkingtreding van deze regeling berust de toelating van een biologischeveiligheidsfunctionaris, bedoeld in artikel 4, eerste lid, van de Regeling genetisch gemodificeerde organismen, op artikel 11, eerste lid, van deze regeling.   
+2.  Na de inwerkingtreding van deze regeling berust de toelating van een milieuveiligheidsfunctionaris, als bedoeld in artikel 11, eerste lid, van de Regeling genetisch gemodificeerde organismen, op artikel 30, eerste lid, van deze regeling.   
+3.  De Regeling genetisch gemodificeerde organismen zoals deze gold onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van deze regeling, blijft van toepassing op een besluit op een verzoek om toelating, gedaan aan de Minister op grond van artikel 4, eerste lid, of artikel 11, eerste lid, van de Regeling genetisch gemodificeerde organismen, totdat dat besluit onherroepelijk is geworden.  
 
 ### Artikel  48  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
 Elke biologischeveiligheidsfunctionaris die als zodanig is toegelaten op het tijdstip van inwerkingtreding van deze regeling, is mede toegelaten voor de categorie van fysische inperking AP-I. 
 
 ### Artikel  49  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
 1.  Het tweede, derde en vierde lid zijn van toepassing op de volgende besluiten: 
 
-a. de beschikkingen genoemd in [artikel 6.8 van het Besluit](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md);  
+a. de beschikkingen genoemd in artikel 6.8 van het Besluit;  
 
 b. een omgevingsvergunning voor een inrichting;  
 
-c. een toelating van een biologischeveiligheidsfunctionaris krachtens [artikel 4, eerste lid, van de Regeling genetisch gemodificeerde organismen](../../../../../../../../ministeriele-regeling/regeling/genetisch/gemodificeerde/organismen/BWBR0009653/README.md).     
+c. een toelating van een biologischeveiligheidsfunctionaris krachtens artikel 4, eerste lid, van de Regeling genetisch gemodificeerde organismen.     
 2.  Indien aan een besluit op het tijdstip van inwerkingtreding van deze regeling een voorschrift is verbonden dat, al dan niet via een ander document, een verwijzing bevat naar een bijlage die is vermeld in de linkerkolom van tabel 1 van bijlage 12, wordt deze verwijzing gelezen als een verwijzing naar de daarmee corresponderende bijlage, of het genoemde onderdeel daarvan, in de rechterkolom van die tabel.   
 3.  Indien aan een besluit op het tijdstip van inwerkingtreding van deze regeling een voorschrift is verbonden dat, al dan niet via een ander document, een verwijzing bevat naar een categorie van fysische inperking die is vermeld in de linkerkolom van tabel 2 van bijlage 12, wordt deze verwijzing gelezen als een verwijzing naar de daarmee corresponderende categorie van fysische inperking in de rechterkolom van die tabel.   
-4.  Indien aan een besluit op het tijdstip van inwerkingtreding van deze regeling een voorschrift is verbonden dat, al dan niet via een ander document, een verwijzing bevat naar ‘bijlage 2.1.2 van de Regeling’, wordt deze verwijzing, in afwijking van het tweede en derde lid, gelezen als een verwijzing naar ‘[bijlage 2.1.2 van de Regeling genetisch gemodificeerde organismen](../../../../../../../../ministeriele-regeling/regeling/genetisch/gemodificeerde/organismen/BWBR0009653/README.md) zoals deze gold onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van de Regeling genetisch gemodificeerde organismen milieubeheer 2013’.   
+4.  Indien aan een besluit op het tijdstip van inwerkingtreding van deze regeling een voorschrift is verbonden dat, al dan niet via een ander document, een verwijzing bevat naar ‘bijlage 2.1.2 van de Regeling’, wordt deze verwijzing, in afwijking van het tweede en derde lid, gelezen als een verwijzing naar ‘bijlage 2.1.2 van de Regeling genetisch gemodificeerde organismen zoals deze gold onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van de Regeling genetisch gemodificeerde organismen milieubeheer 2013’.   
 5.  Het bevoegd gezag kan, in afwijking van het tweede, derde en vierde lid, met ingang van of na het tijdstip van inwerkingtreding van deze regeling in het besluit een andere bijlage onderscheidenlijk een andere categorie van fysische inperking aangeven.  
 
 ### Artikel  50  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
 1.  In aanvulling op artikel 49, tweede en derde lid en bijlage 12, wordt op ingeperkt gebruik: 
 
@@ -1192,19 +1192,19 @@ b. waarop categorie van fysische inperking ML-I wordt toegepast,   in plaats daa
 2.  Artikel 49, vijfde lid, is van overeenkomstige toepassing.  
 
 ### Artikel  51  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
-1.  Indien aan een beschikking als bedoeld in [artikel 6.8 van het Besluit](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md) op het tijdstip van inwerkingtreding van deze regeling een voorschrift is verbonden dat betrekking heeft op handelingen buiten inperking, wordt voor de toepassing van die beschikking de locatie van deze handelingen voortaan aangemerkt als apparatuurruimte.   
+1.  Indien aan een beschikking als bedoeld in artikel 6.8 van het Besluit op het tijdstip van inwerkingtreding van deze regeling een voorschrift is verbonden dat betrekking heeft op handelingen buiten inperking, wordt voor de toepassing van die beschikking de locatie van deze handelingen voortaan aangemerkt als apparatuurruimte.   
 2.  Naast de in de betrokken beschikking opgenomen voorschriften en aanvullende voorschriften, verbonden aan de handelingen in de apparatuurruimte, bedoeld in het eerste lid, zijn mede van toepassing de voorschriften die zijn verbonden aan de categorie van fysische inperking AP-I, voor zover deze niet in strijd zijn met de in de betrokken beschikking opgenomen voorschriften en aanvullende voorschriften.  
 
 ### Afdeling  5.4  
 
 #### *Wijziging van andere regelingen* 
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
 ### Artikel  52  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
 Wijzigt de Regeling omgevingsrecht.
 
@@ -1212,20 +1212,20 @@ Wijzigt de Regeling omgevingsrecht.
 
 #### *Slotbepalingen* 
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
 ### Artikel  53  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
-De [Regeling genetisch gemodificeerde organismen](../../../../../../../../ministeriele-regeling/regeling/genetisch/gemodificeerde/organismen/BWBR0009653/README.md) wordt ingetrokken. 
+De Regeling genetisch gemodificeerde organismen wordt ingetrokken. 
 
 ### Artikel  54  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
-Deze regeling treedt in werking met ingang van het tijdstip waarop het [Besluit genetisch gemodificeerde organismen milieubeheer 2013](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md) in werking treedt. 
+Deze regeling treedt in werking met ingang van het tijdstip waarop het Besluit genetisch gemodificeerde organismen milieubeheer 2013 in werking treedt. 
 
 ### Artikel  55  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
 Deze regeling wordt aangehaald als: Regeling genetisch gemodificeerde organismen milieubeheer 2013. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
@@ -1238,11 +1238,11 @@ W.J. Mansveld
 
 ####, behorende bij artikel 3  en artikel 4  van de Regeling genetisch gemodificeerde organismen milieubeheer 2013
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
 #### *Overbrenging en vervoer van genetisch gemodificeerde organismen* 
 
-De overbrenging van genetisch gemodificeerde organismen binnen een inrichting, niet over de openbare weg of aan boord van een schip wordt niet geregeld door de [Wet vervoer gevaarlijke stoffen](../../../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md). Regels daaromtrent worden gesteld onder 1.1. Dit onderdeel berust op artikel 3 van deze Regeling. Het vervoer van genetisch gemodificeerde organismen wordt in principe geregeld door de [Wet vervoer gevaarlijke stoffen](../../../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md) en, wat toegelaten producten betreft, door de aan de toelating verbonden voorwaarden. Er blijven echter situaties over waarvoor de Wet vervoer gevaarlijke stoffen en de toelatingsvoorschriften geen of geen toepasbare voorschriften geven. Regels voor die situaties worden gesteld onder 1.2. Dit onderdeel berust op artikel 4 van deze Regeling. Voor een algemene toelichting op het vervoer van genetisch gemodificeerde organismen wordt verwezen naar § 11.2 van de Nota van toelichting bij het Besluit ggo. Op overbrenging en vervoer wordt voorts ingegaan in hoofdstuk 6 van de toelichting bij deze Regeling. 
+De overbrenging van genetisch gemodificeerde organismen binnen een inrichting, niet over de openbare weg of aan boord van een schip wordt niet geregeld door de Wet vervoer gevaarlijke stoffen. Regels daaromtrent worden gesteld onder 1.1. Dit onderdeel berust op artikel 3 van deze Regeling. Het vervoer van genetisch gemodificeerde organismen wordt in principe geregeld door de Wet vervoer gevaarlijke stoffen en, wat toegelaten producten betreft, door de aan de toelating verbonden voorwaarden. Er blijven echter situaties over waarvoor de Wet vervoer gevaarlijke stoffen en de toelatingsvoorschriften geen of geen toepasbare voorschriften geven. Regels voor die situaties worden gesteld onder 1.2. Dit onderdeel berust op artikel 4 van deze Regeling. Voor een algemene toelichting op het vervoer van genetisch gemodificeerde organismen wordt verwezen naar § 11.2 van de Nota van toelichting bij het Besluit ggo. Op overbrenging en vervoer wordt voorts ingegaan in hoofdstuk 6 van de toelichting bij deze Regeling. 
 
 ### 1.1  
 
@@ -1292,11 +1292,11 @@ i. voor het vervoer conform a tot en met h geldt dat op de verpakking of in de b
 
 ####, behorende bij artikel 21  van de Regeling genetisch gemodificeerde organismen milieubeheer 2013
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
 #### *Combinaties van lijsten als bedoeld in artikel 2.10 van het Besluit* 
 
-Op grond van [artikel 2.10, eerst lid, van het Besluit](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md) kan de Minister combinaties van lijsten vaststellen voor de vervaardiging van genetisch gemodificeerde organismen van inperkingsniveau I in een of meer daarbij aangegeven categorieën van fysische inperking. De vaststelling van de combinatie van lijsten is geschied in artikel 21 van deze regeling. In dat artikel wordt voor de vastgestelde combinaties van lijsten verwezen naar de combinaties van lijsten opgenomen in deze bijlage. De vaststelling van een combinatie van lijsten omvat daarbij op grond van [artikel 2.10 van het Besluit](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md): 
+Op grond van artikel 2.10, eerst lid, van het Besluit kan de Minister combinaties van lijsten vaststellen voor de vervaardiging van genetisch gemodificeerde organismen van inperkingsniveau I in een of meer daarbij aangegeven categorieën van fysische inperking. De vaststelling van de combinatie van lijsten is geschied in artikel 21 van deze regeling. In dat artikel wordt voor de vastgestelde combinaties van lijsten verwezen naar de combinaties van lijsten opgenomen in deze bijlage. De vaststelling van een combinatie van lijsten omvat daarbij op grond van artikel 2.10 van het Besluit: 
 
 – een lijst met gastheerorganismen;  
 
@@ -4429,7 +4429,7 @@ f. functies waardoor de insertie als virale vector kan functioneren;
 g. een antibioticumresistentie die van nature niet voorkomt in de soort waartoe de gastheer behoort, of in aanverwante soorten, indien daardoor de toepassing van medicijnen ter bestrijding van ziekteverwekkers in gevaar wordt gebracht.     
 
 ### Bijlage  3  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
 *Gereserveerd voor de combinatie van lijsten, bedoeld in artikel 2.11 van het Besluit.*  
 
@@ -4437,11 +4437,11 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####, behorende bij artikel 16  van de Regeling genetisch gemodificeerde organismen milieubeheer 2013
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
 #### *De indeling in klassen van pathogene micro-organismen* 
 
-Op grond van de definities voor micro-organismen van klasse 1, 2, 3 en 4, zoals opgenomen in artikel 1 van deze regeling, worden micro-organismen ten behoeve van activiteiten met genetisch gemodificeerde organismen ingedeeld in vier klassen, waarvan de klassen 2 tot en met 4 gehanteerd worden voor pathogene organismen. Ten behoeve van de uitvoering van de risicobeoordeling in het kader van het [Besluit](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md) en deze regeling, is in bijlagen 2 en 4 van deze regeling voor de daarin opgenomen micro-organismen aangegeven tot welke klasse deze micro-organismen worden gerekend. In bijlage 2 van deze regeling zijn de micro-organismen van klasse 1 opgenomen, welke niet ziekteverwekkend zijn voor mens, dier of plant. Deze bijlage bevat de classificatie van micro-organismen op basis van hun ziekteverwekkend vermogen voor mens, dier of plant. Deze bijlage bestaat uit vier onderdelen. Onderdeel 4.1 bevat de classificatie van pathogene virussen, onderdeel 4.2 de pathogene bacteriën, onderdeel 4.3 de pathogene schimmels en onderdeel 4.4 de pathogene parasieten. De in bijlage 2 en bijlage 4 van deze regeling aangegeven klasse van een micro-organisme wordt op grond van [artikel 2.5 van het Besluit](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md) en artikel 16 van deze regeling altijd gehanteerd bij de risicobeoordeling, zoals uitgewerkt in bijlage 5 van deze regeling. Ten aanzien van de indeling van pathogene virussen in klassen van dier- en humaan pathogene virussen (subonderdeel 4.1.1) wordt opgemerkt, dat vooralsnog alleen de virussen, die door de COGEM in het advies CGM/060420-04 zijn beoordeeld, als strikt dierpathogeen zijn opgenomen in de kolom met het opschrift ‘strikt dierpathogene virussen’. Staat een dierpathogeen virus niet in de kolom met het opschrift ‘strikt dierpathogene virussen’ van subonderdeel 4.1.1. dan wordt het virus voor de inschaling overeenkomstig bijlage 5 van deze regeling aangemerkt als *humaan pathogeen*. Bij het uitvoeren van een risicobeoordeling conform bijlage 8 van deze regeling kan de aangegeven klasse ook worden gehanteerd, maar is dit niet in alle gevallen verplicht. Er kan bijvoorbeeld van de aangegeven klasse-indeling worden afgeweken, indien de gebruiker van mening is dat een andere klasse van toepassing zou zijn. Dit moet dan wel in de risicobeoordeling overeenkomstig bijlage 8 van deze regeling worden gemotiveerd, waarbij gebruik wordt gemaakt van de definities voor de klassen van micro-organismen, zoals opgenomen in artikel 2 van deze regeling. Indien een micro-organisme niet is opgenomen in bijlage 2, combinatie A, of in deze bijlage dan wordt op grond van [artikel 2.8, derde lid, van het Besluit](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md) en artikel 19 van deze regeling de risicobeoordeling uitgevoerd overeenkomstig bijlage 8 van deze regeling. In het verslag van de risicobeoordeling wordt daarbij gemotiveerd, met gebruikmaking van de definities van de klassen van micro-organismen, aangegeven tot welke klasse het betreffende micro-organisme behoort. 
+Op grond van de definities voor micro-organismen van klasse 1, 2, 3 en 4, zoals opgenomen in artikel 1 van deze regeling, worden micro-organismen ten behoeve van activiteiten met genetisch gemodificeerde organismen ingedeeld in vier klassen, waarvan de klassen 2 tot en met 4 gehanteerd worden voor pathogene organismen. Ten behoeve van de uitvoering van de risicobeoordeling in het kader van het Besluit en deze regeling, is in bijlagen 2 en 4 van deze regeling voor de daarin opgenomen micro-organismen aangegeven tot welke klasse deze micro-organismen worden gerekend. In bijlage 2 van deze regeling zijn de micro-organismen van klasse 1 opgenomen, welke niet ziekteverwekkend zijn voor mens, dier of plant. Deze bijlage bevat de classificatie van micro-organismen op basis van hun ziekteverwekkend vermogen voor mens, dier of plant. Deze bijlage bestaat uit vier onderdelen. Onderdeel 4.1 bevat de classificatie van pathogene virussen, onderdeel 4.2 de pathogene bacteriën, onderdeel 4.3 de pathogene schimmels en onderdeel 4.4 de pathogene parasieten. De in bijlage 2 en bijlage 4 van deze regeling aangegeven klasse van een micro-organisme wordt op grond van artikel 2.5 van het Besluit en artikel 16 van deze regeling altijd gehanteerd bij de risicobeoordeling, zoals uitgewerkt in bijlage 5 van deze regeling. Ten aanzien van de indeling van pathogene virussen in klassen van dier- en humaan pathogene virussen (subonderdeel 4.1.1) wordt opgemerkt, dat vooralsnog alleen de virussen, die door de COGEM in het advies CGM/060420-04 zijn beoordeeld, als strikt dierpathogeen zijn opgenomen in de kolom met het opschrift ‘strikt dierpathogene virussen’. Staat een dierpathogeen virus niet in de kolom met het opschrift ‘strikt dierpathogene virussen’ van subonderdeel 4.1.1. dan wordt het virus voor de inschaling overeenkomstig bijlage 5 van deze regeling aangemerkt als *humaan pathogeen*. Bij het uitvoeren van een risicobeoordeling conform bijlage 8 van deze regeling kan de aangegeven klasse ook worden gehanteerd, maar is dit niet in alle gevallen verplicht. Er kan bijvoorbeeld van de aangegeven klasse-indeling worden afgeweken, indien de gebruiker van mening is dat een andere klasse van toepassing zou zijn. Dit moet dan wel in de risicobeoordeling overeenkomstig bijlage 8 van deze regeling worden gemotiveerd, waarbij gebruik wordt gemaakt van de definities voor de klassen van micro-organismen, zoals opgenomen in artikel 2 van deze regeling. Indien een micro-organisme niet is opgenomen in bijlage 2, combinatie A, of in deze bijlage dan wordt op grond van artikel 2.8, derde lid, van het Besluit en artikel 19 van deze regeling de risicobeoordeling uitgevoerd overeenkomstig bijlage 8 van deze regeling. In het verslag van de risicobeoordeling wordt daarbij gemotiveerd, met gebruikmaking van de definities van de klassen van micro-organismen, aangegeven tot welke klasse het betreffende micro-organisme behoort. 
 
 ### 4.1  
 
@@ -6032,11 +6032,11 @@ In onderstaande tabel is voor de opgenomen virussen ten behoeve van werkzaamhede
 
 ####, behorende bij artikel 16  en artikel 17, tweede lid , van de Regeling genetisch gemodificeerde organismen milieubeheer 2013
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
 #### *Inschaling van activiteiten met genetisch gemodificeerde organismen* 
 
-In deze bijlage is de uitkomst van de risicobeoordeling, overeenkomstig [artikel 2.5 van het Besluit](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md) en artikel 16 van deze regeling, omschreven voor een aantal individueel bepaalde groepen van soortgelijke genetisch gemodificeerde organismen. De uitkomst van de risicobeoordeling is daarbij vastgelegd in de vorm van inschalingsartikelen. De term ‘inschaling’ wordt daarbij gehanteerd voor een risicobeoordeling met toepassing van deze bijlage en die voor een specifieke activiteit met een bepaald genetisch gemodificeerd organisme leidt tot de vaststelling van de daarvoor van toepassing zijnde categorie van fysische inperking en inperkingsniveau. Met de term inschalingsartikel wordt bedoeld de in deze bijlage genummerde onderdelen 5.1 tot en met 5.15. Een inschalingsartikel is vervolgens onderverdeeld in leden, aangeduid met a, b, c, enzovoort, en eventueel in onderdelen, bijvoorbeeld als er onderscheid wordt gemaakt in micro-organismen van klasse 1, 2, 3 of 4. Deze bijlage bestaat uit twee delen.  *Deel I* geldt voor alle genetisch gemodificeerde organismen en bevat generieke inschalingartikelen die elk per groep van genetische gemodificeerde organismen als uitkomst van de risicobeoordeling een categorie van fysische inperking en een passend inperkingsniveau geven. De categorie van fysische inperking geeft hierbij aan in welk type werkruimte en onder welke voorschriften, zoals opgenomen in bijlage 9 van deze regeling, de genetisch gemodificeerde organismen op een veilige manier gehanteerd kunnen worden. Het inperkingsniveau geeft aan welk veiligheidsniveau en welke procedure van toepassing is. De omschrijving van het inschalingsartikel moet daarbij in zijn geheel passend zijn voor de voorgenomen activiteit met het genetisch gemodificeerde organisme om het in de daarbij behorende categorie van fysische inperking en het inperkingsniveau te mogen hanteren. Bij de toepassing van deel I is er altijd maar één inschalingsartikel van deel I van toepassing. Is de omschrijving niet geheel passend voor de voorgenomen activiteit of bestaat er twijfel welk inschalingsartikel van deel I van toepassing is, dan moet [artikel 2.8 van het Besluit](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md) worden toegepast. Voor de toepassing van deel I kan het van belang zijn om te weten tot welke klasse een micro-organisme behoort dat als gastheer of donor wordt gebruikt. In een dergelijk geval wordt dit aangegeven in het inschalingsartikel en moet voor de van toepassing zijnde klasse van het betreffende micro-organisme worden gekeken naar bijlage 4 en lijst A1 van combinatie A zoals opgenomen in bijlage 2 van deze regeling. Indien de aanduiding van de klasse van het virus in bijlage 4, subonderdeel 4.1.1, van deze regeling is opgenomen in de meest rechtse kolom met het opschrift ‘strikt dier pathogene virussen’ wordt het virus *voor de toepassing van deze bijlage *aangemerkt als ‘strikt dierpathogeen virus’. Is de aanduiding van de klasse van het virus in bijlage 4, subonderdeel 4.1.1 van deze regeling opgenomen in de op één na rechtse kolom met het opschrift ‘dier- en humaan pathogene virussen’, dan wordt het virus voor de toepassing van deze bijlage als ‘humaan pathogeen’ aangemerkt. Indien het virus staat vermeld in de kolom ‘dier- en humaanpathogene virussen’ kan een gebruiker, indien gewenst, op grond van [artikel 2.8 van het Besluit](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md) een verzoek indienen om het virus voor zijn werkzaamheden te laten classificeren als een strikt dierpathogeen. Met betrekking tot de toepassing van het inschalingsartikel 5.4.2 moet worden opgemerkt dat dit inschalingsartikel uitsluitend betrekking heeft op de in dat artikel aangegeven biologisch ingeperkt systemen. Overige virale systemen vallen onder inschalingsartikel 5.4.3, dus ook de biologisch ingeperkte systemen die niet zijn genoemd in artikel 5.4.2.  *Deel II* moet daarnaast altijd worden gehanteerd voor die genetisch gemodificeerde organismen waarvan de uitkomst blijkens deel I inperkingsniveau I of II-k is. Indien er sprake is van inperkingsniveau II-v, III of IV dan hoeft deel II niet te worden toegepast. In deel II wordt nagegaan of er naast de categorie van fysische inperking, zoals bepaald in deel I, nog aanvullende voorschriften toegepast moeten worden om de werkzaamheden in specifieke gevallen dan wel met specifieke genetisch gemodificeerde organismen veilig te kunnen uitvoeren op inperkingsniveau I of II-k. Ook deze categorieën van aanvullende voorschriften hebben de vorm van een inschalingsartikel. In deel II kunnen *meerdere* inschalingsartikelen van toepassing zijn op een bepaalde activiteit met een genetisch gemodificeerd organisme. In zo’n geval moeten alle aanvullende voorschriften in acht genomen worden om de genetisch gemodificeerde organismen op de daarbij vermelde categorie van fysische inperking en het inperkingsniveau I of II-k te mogen hanteren. 
+In deze bijlage is de uitkomst van de risicobeoordeling, overeenkomstig artikel 2.5 van het Besluit en artikel 16 van deze regeling, omschreven voor een aantal individueel bepaalde groepen van soortgelijke genetisch gemodificeerde organismen. De uitkomst van de risicobeoordeling is daarbij vastgelegd in de vorm van inschalingsartikelen. De term ‘inschaling’ wordt daarbij gehanteerd voor een risicobeoordeling met toepassing van deze bijlage en die voor een specifieke activiteit met een bepaald genetisch gemodificeerd organisme leidt tot de vaststelling van de daarvoor van toepassing zijnde categorie van fysische inperking en inperkingsniveau. Met de term inschalingsartikel wordt bedoeld de in deze bijlage genummerde onderdelen 5.1 tot en met 5.15. Een inschalingsartikel is vervolgens onderverdeeld in leden, aangeduid met a, b, c, enzovoort, en eventueel in onderdelen, bijvoorbeeld als er onderscheid wordt gemaakt in micro-organismen van klasse 1, 2, 3 of 4. Deze bijlage bestaat uit twee delen.  *Deel I* geldt voor alle genetisch gemodificeerde organismen en bevat generieke inschalingartikelen die elk per groep van genetische gemodificeerde organismen als uitkomst van de risicobeoordeling een categorie van fysische inperking en een passend inperkingsniveau geven. De categorie van fysische inperking geeft hierbij aan in welk type werkruimte en onder welke voorschriften, zoals opgenomen in bijlage 9 van deze regeling, de genetisch gemodificeerde organismen op een veilige manier gehanteerd kunnen worden. Het inperkingsniveau geeft aan welk veiligheidsniveau en welke procedure van toepassing is. De omschrijving van het inschalingsartikel moet daarbij in zijn geheel passend zijn voor de voorgenomen activiteit met het genetisch gemodificeerde organisme om het in de daarbij behorende categorie van fysische inperking en het inperkingsniveau te mogen hanteren. Bij de toepassing van deel I is er altijd maar één inschalingsartikel van deel I van toepassing. Is de omschrijving niet geheel passend voor de voorgenomen activiteit of bestaat er twijfel welk inschalingsartikel van deel I van toepassing is, dan moet artikel 2.8 van het Besluit worden toegepast. Voor de toepassing van deel I kan het van belang zijn om te weten tot welke klasse een micro-organisme behoort dat als gastheer of donor wordt gebruikt. In een dergelijk geval wordt dit aangegeven in het inschalingsartikel en moet voor de van toepassing zijnde klasse van het betreffende micro-organisme worden gekeken naar bijlage 4 en lijst A1 van combinatie A zoals opgenomen in bijlage 2 van deze regeling. Indien de aanduiding van de klasse van het virus in bijlage 4, subonderdeel 4.1.1, van deze regeling is opgenomen in de meest rechtse kolom met het opschrift ‘strikt dier pathogene virussen’ wordt het virus *voor de toepassing van deze bijlage *aangemerkt als ‘strikt dierpathogeen virus’. Is de aanduiding van de klasse van het virus in bijlage 4, subonderdeel 4.1.1 van deze regeling opgenomen in de op één na rechtse kolom met het opschrift ‘dier- en humaan pathogene virussen’, dan wordt het virus voor de toepassing van deze bijlage als ‘humaan pathogeen’ aangemerkt. Indien het virus staat vermeld in de kolom ‘dier- en humaanpathogene virussen’ kan een gebruiker, indien gewenst, op grond van artikel 2.8 van het Besluit een verzoek indienen om het virus voor zijn werkzaamheden te laten classificeren als een strikt dierpathogeen. Met betrekking tot de toepassing van het inschalingsartikel 5.4.2 moet worden opgemerkt dat dit inschalingsartikel uitsluitend betrekking heeft op de in dat artikel aangegeven biologisch ingeperkt systemen. Overige virale systemen vallen onder inschalingsartikel 5.4.3, dus ook de biologisch ingeperkte systemen die niet zijn genoemd in artikel 5.4.2.  *Deel II* moet daarnaast altijd worden gehanteerd voor die genetisch gemodificeerde organismen waarvan de uitkomst blijkens deel I inperkingsniveau I of II-k is. Indien er sprake is van inperkingsniveau II-v, III of IV dan hoeft deel II niet te worden toegepast. In deel II wordt nagegaan of er naast de categorie van fysische inperking, zoals bepaald in deel I, nog aanvullende voorschriften toegepast moeten worden om de werkzaamheden in specifieke gevallen dan wel met specifieke genetisch gemodificeerde organismen veilig te kunnen uitvoeren op inperkingsniveau I of II-k. Ook deze categorieën van aanvullende voorschriften hebben de vorm van een inschalingsartikel. In deel II kunnen *meerdere* inschalingsartikelen van toepassing zijn op een bepaalde activiteit met een genetisch gemodificeerd organisme. In zo’n geval moeten alle aanvullende voorschriften in acht genomen worden om de genetisch gemodificeerde organismen op de daarbij vermelde categorie van fysische inperking en het inperkingsniveau I of II-k te mogen hanteren. 
 
 #### *Inhoudsopgave* 
 
@@ -6555,11 +6555,11 @@ a. Activiteiten met genetisch gemodificeerde organismen afkomstig van ML-I, D-I,
 
 ####, behorende bij artikel 20, derde en vierde lid , van de Regeling genetisch gemodificeerde organismen milieubeheer 2013
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
 #### *Criteria voor de beoordeling van een verzoek op grond van artikel 2.8 van het Besluit voor een omlaagschaling van handelingen met genetisch gemodificeerde organismen naar categorie van fysische inperking MI-II of MI-I dan wel S-I* 
 
-Handelingen met genetisch gemodificeerde organismen, die normaliter onder laboratoriumcondities kunnen worden verricht in een ML-I of ML-II ruimte, worden met gebruikmaking van bijlage 5 van deze regeling ingeschaald op MI-III (op grond van respectievelijk inschalingsartikel 5.7.1.a en 5.7.1.b), maar kunnen bij toepassing in procesinstallaties in bepaalde gevallen op een lager inperkingsniveau dan MI-III worden uitgevoerd. Daartoe kan op grond van [artikel 2.8 van het Besluit](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md) bij de Minister een verzoek om omlaagschaling worden ingediend. Het genetisch gemodificeerde organisme moet, om voor omlaagschaling in aanmerking te komen, voldoen aan een aantal criteria. In deze bijlage zijn indicatieve criteria opgenomen, zodat vooraf nagegaan kan worden of het genetisch gemodificeerde organisme voor een omlaagschaling in aanmerking zou kunnen komen. De criteria, die worden gehanteerd voor een omlaagschaling van MI-III naar MI-I, worden ook gehanteerd voor de beoordeling van een verzoek om omlaagschaling naar S-I van handelingen die overeenkomstig bijlage 5 van deze regeling worden ingeschaald op S-III. In dit geval moeten de handelingen met de genetisch gemodificeerde organismen zowel voldoen aan de criteria die zijn opgenomen onder 6.1 als aan die opgenomen onder 6.2. 
+Handelingen met genetisch gemodificeerde organismen, die normaliter onder laboratoriumcondities kunnen worden verricht in een ML-I of ML-II ruimte, worden met gebruikmaking van bijlage 5 van deze regeling ingeschaald op MI-III (op grond van respectievelijk inschalingsartikel 5.7.1.a en 5.7.1.b), maar kunnen bij toepassing in procesinstallaties in bepaalde gevallen op een lager inperkingsniveau dan MI-III worden uitgevoerd. Daartoe kan op grond van artikel 2.8 van het Besluit bij de Minister een verzoek om omlaagschaling worden ingediend. Het genetisch gemodificeerde organisme moet, om voor omlaagschaling in aanmerking te komen, voldoen aan een aantal criteria. In deze bijlage zijn indicatieve criteria opgenomen, zodat vooraf nagegaan kan worden of het genetisch gemodificeerde organisme voor een omlaagschaling in aanmerking zou kunnen komen. De criteria, die worden gehanteerd voor een omlaagschaling van MI-III naar MI-I, worden ook gehanteerd voor de beoordeling van een verzoek om omlaagschaling naar S-I van handelingen die overeenkomstig bijlage 5 van deze regeling worden ingeschaald op S-III. In dit geval moeten de handelingen met de genetisch gemodificeerde organismen zowel voldoen aan de criteria die zijn opgenomen onder 6.1 als aan die opgenomen onder 6.2. 
 
 ### 6.1  
 
@@ -6651,7 +6651,7 @@ j. De insertie is in omvang zoveel mogelijk beperkt tot de voor het beoogde doel
 
 ####, behorende bij artikel 16  van de Regeling genetisch gemodificeerde organismen milieubeheer 2013
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
 #### *Lijst van genetisch gemodificeerde planten die het stadium van bloei bereiken en geen genetische informatie bevatten die voor een schadelijk genproduct kan coderen, behorende bij inschalingsartikel 5.5.1, inschalingsartikel 5.5.2 en inschalingsartikel 5.5.3* 
 
@@ -6659,7 +6659,7 @@ De tabel van deze bijlage geeft een overzicht van planten, waarvoor de categorie
 
 – Plantensoorten die het stadium van bloei niet bereiken en die staan vermeld in de eerste kolom van de onderstaande tabel worden volgens inschalingsartikel 5.5.1, onderdeel a, ingeschaald op PL-I, PC-I, PKa-I of PKb-I, afhankelijk of de handeling plaatsvindt in een laboratorium, kweekcel, kas of insectendichte kas.  
 
-– Plantensoorten die het stadium van bloei wel bereiken en die staan vermeld in de eerste kolom van de onderstaande tabel worden volgens inschalingsartikel 5.5.1, onderdeel b, ingeschaald op PC-I, PKa-I of PKb-I, afhankelijk of de handeling plaatsvindt in een, kweekcel, kas of insectendichte kas.   Indien een genetisch gemodificeerde plantensoort niet in de eerste kolom van deze bijlage is opgenomen, kan deze plant niet met behulp van deel I van bijlage 5 van deze regeling worden ingeschaald en zal met behulp van de procedure van [artikel 2.8, derde lid, van het Besluit](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md) een door de Minister toegekende categorie van fysische inperking en een inperkingsniveau worden aangevraagd. Volgens de systematiek van bijlage 5 wordt deel II van bijlage 5 altijd gehanteerd voor die genetisch gemodificeerde organismen, waarvan de uitkomst blijkens deel I inperkingsniveau I of II-k is. In deel II van bijlage 5 van deze regeling is onder 5.11 en 5.13 aangegeven welke aanvullende voorschriften in acht worden genomen voor activiteiten met genetisch gemodificeerde planten die respectievelijk op PC-I, PKa-I of PKb-I, dan wel op PCM-I, PCM-II-k, PKM-I, PKM-II-k gehanteerd moeten worden. Deze inschalingsartikelen bepalen dat naast de volgens deel I bepaalde categorie van fysische inperking de aanvullende voorschriften voor de betreffende plantensoort gelden zoals aangegeven in deze bijlage. Deze aanvullende voorschriften richten zich op het voorkomen van de verspreiding van zaden, pollen en reproductieve plantendelen en zijn in drie groepen verdeeld naar de wijze van verspreiding: insectenbestuivers, windbestuivers en gemakkelijke zaadverspreiders. In de tweede en derde kolom is aangegeven welke aanvullende voorschriften voor een plantensoort voor de verschillende categorieën van fysische inperking en inperkingsniveaus in acht worden genomen. In bijlage 9 van deze regeling zijn vervolgens per categorie van fysische inperking de van toepassing zijne aanvullende voorschriften voor insectenbestuivers, windbestuivers en gemakkelijke zaadverspreiders opgenomen. Deze voorschriften zijn opgenomen na de inrichtingsvoorschriften en werkvoorschriften, onder het kopje ‘aanvullende voorschriften voor specifieke gevallen’. De maatregelen die genomen worden voor gemakkelijke zaadverspreiders zijn afhankelijk van de verspreidingsbiologie van de plant. De bijzondere kenmerken ten aanzien van deze verspreiding, die relevant zijn voor de te hanteren voorschriften, zijn vermeld in de vierde kolom. De gebruiker neemt op basis van deze bijzondere kenmerken passende maatregelen, die de verspreiding tegengaan.  
+– Plantensoorten die het stadium van bloei wel bereiken en die staan vermeld in de eerste kolom van de onderstaande tabel worden volgens inschalingsartikel 5.5.1, onderdeel b, ingeschaald op PC-I, PKa-I of PKb-I, afhankelijk of de handeling plaatsvindt in een, kweekcel, kas of insectendichte kas.   Indien een genetisch gemodificeerde plantensoort niet in de eerste kolom van deze bijlage is opgenomen, kan deze plant niet met behulp van deel I van bijlage 5 van deze regeling worden ingeschaald en zal met behulp van de procedure van artikel 2.8, derde lid, van het Besluit een door de Minister toegekende categorie van fysische inperking en een inperkingsniveau worden aangevraagd. Volgens de systematiek van bijlage 5 wordt deel II van bijlage 5 altijd gehanteerd voor die genetisch gemodificeerde organismen, waarvan de uitkomst blijkens deel I inperkingsniveau I of II-k is. In deel II van bijlage 5 van deze regeling is onder 5.11 en 5.13 aangegeven welke aanvullende voorschriften in acht worden genomen voor activiteiten met genetisch gemodificeerde planten die respectievelijk op PC-I, PKa-I of PKb-I, dan wel op PCM-I, PCM-II-k, PKM-I, PKM-II-k gehanteerd moeten worden. Deze inschalingsartikelen bepalen dat naast de volgens deel I bepaalde categorie van fysische inperking de aanvullende voorschriften voor de betreffende plantensoort gelden zoals aangegeven in deze bijlage. Deze aanvullende voorschriften richten zich op het voorkomen van de verspreiding van zaden, pollen en reproductieve plantendelen en zijn in drie groepen verdeeld naar de wijze van verspreiding: insectenbestuivers, windbestuivers en gemakkelijke zaadverspreiders. In de tweede en derde kolom is aangegeven welke aanvullende voorschriften voor een plantensoort voor de verschillende categorieën van fysische inperking en inperkingsniveaus in acht worden genomen. In bijlage 9 van deze regeling zijn vervolgens per categorie van fysische inperking de van toepassing zijne aanvullende voorschriften voor insectenbestuivers, windbestuivers en gemakkelijke zaadverspreiders opgenomen. Deze voorschriften zijn opgenomen na de inrichtingsvoorschriften en werkvoorschriften, onder het kopje ‘aanvullende voorschriften voor specifieke gevallen’. De maatregelen die genomen worden voor gemakkelijke zaadverspreiders zijn afhankelijk van de verspreidingsbiologie van de plant. De bijzondere kenmerken ten aanzien van deze verspreiding, die relevant zijn voor de te hanteren voorschriften, zijn vermeld in de vierde kolom. De gebruiker neemt op basis van deze bijzondere kenmerken passende maatregelen, die de verspreiding tegengaan.  
 
 | Genetisch gemodificeerde plantensoort  | Aanvullende voorschriften in PKa-I, PCM-I, PCM-II-k, PKM-I of PKM-II-k voor:  | Aanvullende voorschriften in PC-I of PKb-I, voor:  | Bijzonder kenmerk van de plant of ten aanzien van (zaad)verspreiding  |
 |:---|:---|:---|:---|
@@ -6840,7 +6840,7 @@ De tabel van deze bijlage geeft een overzicht van planten, waarvoor de categorie
 
 ####, behorende bij artikel 19  van de Regeling genetisch gemodificeerde organismen milieubeheer 2013
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
 #### *Risicobeoordeling overeenkomstig de beginselen voor een risicobeoordeling* 
 
@@ -7128,7 +7128,7 @@ Voor de situaties II en III van stap 4, worden, uitgaande van de toepassing van 
 
 ####, behorende bij artikel 5  en artikel 24  van de Regeling genetisch gemodificeerde organismen milieubeheer 2013
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
 #### *Voorschriften verbonden aan de categorieën van fysische inperking en het ODG* 
 
@@ -10014,7 +10014,7 @@ s. De te kweken cultuurvloeistof bedraagt maximaal 10 liter.
 
 ####, behorende bij artikel 41  van de Regeling genetisch gemodificeerde organismen milieubeheer 2013
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
 #### *Voorschriften voor activiteiten met genetisch gemodificeerde organismen waarvoor een vergunning onder vaste voorschriften is verleend* 
 
@@ -10030,7 +10030,7 @@ In deze bijlage wordt verstaan onder:
 
 ### Deel  A  
 
-Deel A van deze bijlage is ingevolge artikel 39, eerste en tweede lid, van deze regeling van toepassing op veldproeven met genetisch gemodificeerde aardappelzetmeelrassen met een amylosevrij fenotype dat het gevolg is van de aanwezigheid in de aardappelplant van één of meer van de in artikel 39, eerste lid, onder a tot en met d, van deze regeling aangegeven sequenties, met een totale omvang van ten hoogste 10 hectare per jaar, waarvoor een vergunning onder vaste voorschriften is verleend krachtens [§ 3.3.2 van het Besluit](../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/2013/BWBR0035090/README.md). 
+Deel A van deze bijlage is ingevolge artikel 39, eerste en tweede lid, van deze regeling van toepassing op veldproeven met genetisch gemodificeerde aardappelzetmeelrassen met een amylosevrij fenotype dat het gevolg is van de aanwezigheid in de aardappelplant van één of meer van de in artikel 39, eerste lid, onder a tot en met d, van deze regeling aangegeven sequenties, met een totale omvang van ten hoogste 10 hectare per jaar, waarvoor een vergunning onder vaste voorschriften is verleend krachtens § 3.3.2 van het Besluit. 
 
 ### Artikel  A:1  
 
@@ -10137,7 +10137,7 @@ d. conform het bepaalde hieromtrent in de aanvraag, voor zover het desbetreffend
 De gebruikte planten, plantendelen, zaden van die planten, of producten afgeleid van die planten, worden niet voor menselijke of dierlijke consumptie aangewend. 
 
 ### Bijlage  11  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
 *Gereserveerd voor de aanwijzing van genetisch gemodificeerde organismen, bedoeld in artikel 15, onder b.*  
 
@@ -10145,7 +10145,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####, behorende bij artikel 49, eerste, tweede en vierde lid , van de Regeling genetisch gemodificeerde organismen milieubeheer 2013
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-03-2015 
 
 #### *Transponeringstabellen voor benamingen in besluiten als bedoeld in artikel 49, vierde lid* 
 

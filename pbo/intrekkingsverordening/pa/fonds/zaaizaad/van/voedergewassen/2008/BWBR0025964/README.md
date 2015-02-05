@@ -3,12 +3,12 @@
 ##Verordening van het Productschap Akkerbouw van 26 maart 2009 tot intrekking van fonds verordening (Intrekkingsverordening PA fonds zaaizaad van voedergewassen 2008)
 
 Het bestuur van het Productschap Akkerbouw;  
-Gelet op de [artikelen 93](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [123 van de Wet op de bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op de [artikelen 8](../../../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md) en [17 van het Instellingsbesluit akkerbouwproductschappen](../../../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md), gehoord de Beleidsadviescommissie landbouwzaaizaden;
+Gelet op de artikelen 93 en 123 van de Wet op de bedrijfsorganisatie en op de artikelen 8 en 17 van het Instellingsbesluit akkerbouwproductschappen, gehoord de Beleidsadviescommissie landbouwzaaizaden;
 Besluit:    
 
 ###Artikel I 
 
-1. De [Verordening PA fonds zaaizaad van voedergewassen 2008](../../../../../../../../../pbo/verordening/pa/fonds/zaaizaad/van/voedergewassen/2008/BWBR0024344/README.md) wordt ingetrokken. 
+1. De Verordening PA fonds zaaizaad van voedergewassen 2008 wordt ingetrokken. 
 2. De middelen van het Fonds zaaizaad van voedergewassen worden overgeboekt naar het Fonds grassen en voedergewassen. 
 
 ###Artikel II 

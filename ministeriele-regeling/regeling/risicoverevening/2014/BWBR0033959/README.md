@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Volksgezondheid, Welzijn en Sport, van 20 september 2013, kenmerk Z-151938-110091, houdende bepalingen omtrent de in de Zorgverzekeringswet bedoelde vereveningsbijdrage voor het jaar 2014 (Regeling risicoverevening 2014)
 
 De Minister van Volksgezondheid, Welzijn en Sport,  
-Gelet op [artikel 32, vierde lid, van de Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) en de [artikelen 1, onderdelen i, j, k, x, y en aa](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.1, derde lid](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.2, eerste en tweede lid](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.4, derde lid](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.5, tweede lid](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.6, derde lid](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.7, derde lid](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.8](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.10, tweede lid](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.11, vijfde en zesde lid](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.13](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.14](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.15, eerste en tweede lid](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.16, eerste lid](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.17, eerste en tweede lid](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.19, tweede lid](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), en [3.22, tweede lid, van het Besluit zorgverzekering](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md);
+Gelet op artikel 32, vierde lid, van de Zorgverzekeringswet en de artikelen 1, onderdelen i, j, k, x, y en aa, 3.1, derde lid, 3.2, eerste en tweede lid, 3.4, derde lid, 3.5, tweede lid, 3.6, derde lid, 3.7, derde lid, 3.8, 3.10, tweede lid, 3.11, vijfde en zesde lid, 3.13, 3.14, 3.15, eerste en tweede lid, 3.16, eerste lid, 3.17, eerste en tweede lid, 3.19, tweede lid, en 3.22, tweede lid, van het Besluit zorgverzekering;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -35,17 +35,17 @@ j.  *paramedische behandeling en onderzoek:* een overig zorgproduct dat betrekki
 
 k.  *landelijke vaste kosten factor:* een factor waarmee het Zorginstituut op basis van historische kosten van ziekenhuisverpleging en historische kosten van geneeskundige geestelijke gezondheidszorg voor verzekerden jonger dan achttien jaar per zorgverzekeraar de ex ante deelbedragen berekent voor de kosten van het cluster ‘vaste zorgkosten’ in 2014;  
 
-l.  *geriatrische revalidatiezorg:* zorg zoals omschreven in [artikel 2.5c van het Besluit zorgverzekering](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md);  
+l.  *geriatrische revalidatiezorg:* zorg zoals omschreven in artikel 2.5c van het Besluit zorgverzekering;  
 
 m.  *hulpmiddelenkostengroepen (HKG’s):* een vereveningscriterium op grond waarvan verzekerden worden ingedeeld in kostenhomogene klassen chronische aandoeningen op basis van hulpmiddelengebruik in het verleden;  
 
 n.  *diagnosekostengroepen (DKG’s) psychische aandoeningen:* een vereveningscriterium op grond waarvan verzekerden worden ingedeeld in kostenhomogene klassen met verschillende chronische psychische aandoeningen die geïdentificeerd zijn op grond van diagnose behandeling combinaties.     
-2.  De kosten, bedoeld in [artikel 1, onderdeel j, van het Besluit zorgverzekering](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md) zijn: 
+2.  De kosten, bedoeld in artikel 1, onderdeel j, van het Besluit zorgverzekering zijn: 
 
 a. de kosten van geneeskundige geestelijke gezondheidszorg voor verzekerden jonger dan achttien jaar;  
 
 b. de overige kosten, genoemd in artikel 15.     
-3.  Het bedrag, bedoeld in [artikel 1, onderdeel x, van het Besluit zorgverzekering](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), is € 550.  
+3.  Het bedrag, bedoeld in artikel 1, onderdeel x, van het Besluit zorgverzekering, is € 550.  
 
 ### Artikel  2  
 
@@ -67,7 +67,7 @@ d. het macro-deelbedrag ‘kosten van overige prestaties’ ad € 13.663,3 mil
 
 ### Artikel  4  
 
-De beschikbare middelen voor het verstrekken van de bijdragen aan zorgverzekeraars, bedoeld in [artikel 32, vierde lid, onderdeel a, van de Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), omvatten voor het jaar 2014, naast de middelen, bedoeld in [§ 1.5 van hoofdstuk 3 van het Besluit zorgverzekering](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), een bedrag van € 21.758,0 miljoen. 
+De beschikbare middelen voor het verstrekken van de bijdragen aan zorgverzekeraars, bedoeld in artikel 32, vierde lid, onderdeel a, van de Zorgverzekeringswet, omvatten voor het jaar 2014, naast de middelen, bedoeld in § 1.5 van hoofdstuk 3 van het Besluit zorgverzekering, een bedrag van € 21.758,0 miljoen. 
 
 ### Hoofdstuk  2  
 
@@ -75,12 +75,12 @@ De beschikbare middelen voor het verstrekken van de bijdragen aan zorgverzekeraa
 
 ### Artikel  5  
 
-1.  De verdeling van het macro-deelbedrag variabele kosten van medisch-specialistische zorg, bedoeld in [artikel 3.4 van het Besluit zorgverzekering](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), en de verdeling van het macro-deelbedrag kosten van overige prestaties, bedoeld in [artikel 3.7 van dat Besluit](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), geschiedt ten behoeve van het vereveningsjaar 2014 mede aan de hand van de verzekerdenaantallen per zorgverzekeraar verdeeld naar HKG’s.   
-2.  De verdeling van het macro-deelbedrag kosten van geneeskundige geestelijke gezondheidszorg, bedoeld in [artikel 3.6 van het Besluit zorgverzekering](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), geschiedt ten behoeve van het vereveningsjaar 2014 mede aan de hand van de verzekerdenaantallen per zorgverzekeraar verdeeld naar DKG’s psychische aandoeningen.  
+1.  De verdeling van het macro-deelbedrag variabele kosten van medisch-specialistische zorg, bedoeld in artikel 3.4 van het Besluit zorgverzekering, en de verdeling van het macro-deelbedrag kosten van overige prestaties, bedoeld in artikel 3.7 van dat Besluit, geschiedt ten behoeve van het vereveningsjaar 2014 mede aan de hand van de verzekerdenaantallen per zorgverzekeraar verdeeld naar HKG’s.   
+2.  De verdeling van het macro-deelbedrag kosten van geneeskundige geestelijke gezondheidszorg, bedoeld in artikel 3.6 van het Besluit zorgverzekering, geschiedt ten behoeve van het vereveningsjaar 2014 mede aan de hand van de verzekerdenaantallen per zorgverzekeraar verdeeld naar DKG’s psychische aandoeningen.  
 
 ### Artikel  6  
 
-1.  De klassen en gewichten, bedoeld in de [artikelen 3.4](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.6](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md) en [3.7 van het Besluit zorgverzekering](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md) en de klassen en gewichten die aan de criteria, bedoeld in artikel 5 worden toegekend, zijn vermeld in de bijlagen 1 en 2.   
+1.  De klassen en gewichten, bedoeld in de artikelen 3.4, 3.6 en 3.7 van het Besluit zorgverzekering en de klassen en gewichten die aan de criteria, bedoeld in artikel 5 worden toegekend, zijn vermeld in de bijlagen 1 en 2.   
 2.  Het Zorginstituut verdeelt het macro-deelbedrag ‘vaste zorgkosten’ over zorgverzekeraars aan de hand van de gemiddelde vaste kosten per verzekerde per zorgverzekeraar in het jaar 2012, de landelijke vaste kosten factor 2014 en de geraamde aantallen verzekerden voor het vereveningsjaar 2014.  
 
 ### Artikel  7  
@@ -90,12 +90,12 @@ In afwijking van artikel 6, eerste lid, en bijlage 1, tabellen 1.2, 1.3, en 1.4,
 ### Artikel  8  
 
 1.  De nominale rekenpremie per jaar bedraagt € 1 121 per zorgverzekering waarvoor premie moet worden betaald.   
-2.  Het Zorginstituut raamt de opbrengst van de nominale rekenpremie per zorgverzekeraar, bedoeld in [artikel 3.10, tweede lid, van het Besluit zorgverzekering](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), door het geraamde aantal zorgverzekeringen waarvoor premie moet worden betaald te vermenigvuldigen met de nominale rekenpremie.   
-3.  Het Zorginstituut raamt het aantal zorgverzekeringen waarvoor premie moet worden betaald, bedoeld in het tweede lid, door het geraamde aantal zorgverzekeringen van verzekerden van achttien jaar en ouder bij een zorgverzekeraar, te verminderen met het geraamde aantal zorgverzekeringen van verzekerden, bedoeld in [artikel 24 van de Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md).  
+2.  Het Zorginstituut raamt de opbrengst van de nominale rekenpremie per zorgverzekeraar, bedoeld in artikel 3.10, tweede lid, van het Besluit zorgverzekering, door het geraamde aantal zorgverzekeringen waarvoor premie moet worden betaald te vermenigvuldigen met de nominale rekenpremie.   
+3.  Het Zorginstituut raamt het aantal zorgverzekeringen waarvoor premie moet worden betaald, bedoeld in het tweede lid, door het geraamde aantal zorgverzekeringen van verzekerden van achttien jaar en ouder bij een zorgverzekeraar, te verminderen met het geraamde aantal zorgverzekeringen van verzekerden, bedoeld in artikel 24 van de Zorgverzekeringswet.  
 
 ### Artikel  9  
 
-1.  Het Zorginstituut raamt de opbrengst van het verplicht eigen risico per zorgverzekeraar, bedoeld in [artikel 3.10, tweede lid, van het Besluit zorgverzekering](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), door het geraamde aantal verzekerden van achttien jaar en ouder, te verminderen met het geraamde aantal verzekerden, bedoeld in [artikel 24 van de Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), en het resultaat te vermenigvuldigen met de geraamde opbrengst van het verplicht eigen risico per verzekerde.   
+1.  Het Zorginstituut raamt de opbrengst van het verplicht eigen risico per zorgverzekeraar, bedoeld in artikel 3.10, tweede lid, van het Besluit zorgverzekering, door het geraamde aantal verzekerden van achttien jaar en ouder, te verminderen met het geraamde aantal verzekerden, bedoeld in artikel 24 van de Zorgverzekeringswet, en het resultaat te vermenigvuldigen met de geraamde opbrengst van het verplicht eigen risico per verzekerde.   
 2.  Het Zorginstituut gaat voor de bepaling van de geraamde opbrengst per verzekerde, bedoeld in het eerste lid, voor verzekerden van achttien jaar of ouder die zowel onder het vereveningscriterium ‘Geen FKG’, als onder de vereveningscriteria ‘DKG 0’ en ‘Geen MHK’ vallen, uit van verzekerdenaantallen onderverdeeld in klassen naar leeftijd en geslacht, aard van het inkomen, en regio en de in bijlage 4 genoemde gewichten. Hierbij wordt de in de bijlage 4 aangegeven klassenindeling van de criteria aangehouden.   
 3.  De geraamde opbrengst per verzekerde, bedoeld in het eerste lid, bedraagt € 338,48 voor verzekerden van achttien jaar of ouder waarop het tweede lid niet van toepassing is.  
 
@@ -143,9 +143,9 @@ m. kosten geneeskundige geestelijke gezondheidszorg boven de lage drempel: 2013;
 
 ### Artikel  12  
 
-1.  Het Zorginstituut merkt kosten als bedoeld in [artikel 3.13 van het Besluit zorgverzekering](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md) voor prestaties van grensoverschrijdende zorg die zodanig zijn gespecificeerd, dat: 
+1.  Het Zorginstituut merkt kosten als bedoeld in artikel 3.13 van het Besluit zorgverzekering voor prestaties van grensoverschrijdende zorg die zodanig zijn gespecificeerd, dat: 
 
-a. uit de specificatie blijkt dat zij ofwel gelden als kosten van geneeskundige zorg zoals medisch-specialisten die plegen te bieden – met uitzondering van de kosten, bedoeld in subonderdeel b –, ofwel als kosten van verblijf als bedoeld in [artikel 2.10 van het Besluit zorgverzekering](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md) – met uitzondering van de kosten, bedoeld in subonderdeel b – voor 90 procent aan als kosten van het cluster ‘variabele kosten van medisch-specialistische zorg’ en voor 10 procent aan als kosten van het cluster ‘vaste zorgkosten’;  
+a. uit de specificatie blijkt dat zij ofwel gelden als kosten van geneeskundige zorg zoals medisch-specialisten die plegen te bieden – met uitzondering van de kosten, bedoeld in subonderdeel b –, ofwel als kosten van verblijf als bedoeld in artikel 2.10 van het Besluit zorgverzekering – met uitzondering van de kosten, bedoeld in subonderdeel b – voor 90 procent aan als kosten van het cluster ‘variabele kosten van medisch-specialistische zorg’ en voor 10 procent aan als kosten van het cluster ‘vaste zorgkosten’;  
 
 b. uit de specificatie blijkt dat zij gelden als kosten van geneeskundige zorg die gericht is op herstel van een psychische aandoening en, voor zover die zorg daarmee gepaard gaat, kosten van verblijf, aan als kosten van het cluster ‘kosten van geneeskundige geestelijke gezondheidszorg’ dan wel, voor verzekerden jonger dan achttien jaar, als kosten van het cluster ‘vaste zorgkosten’;  
 
@@ -164,7 +164,7 @@ c. uit de specificatie niet blijkt dat zij gelden als kosten als bedoeld onder a
 3.  Het Zorginstituut merkt de honorariumcomponent van de kosten van dbc-zorgproducten in het gereguleerde segment, uitgezonderd de kosten van expertproducten, voor 100 procent aan als kosten van het cluster ‘variabele kosten van medisch-specialistische zorg’.   
 4.  Het Zorginstituut merkt de kosten van overige zorgproducten voor 100 procent aan als kosten van het cluster ‘variabele kosten van medisch-specialistische zorg’, met uitzondering van de kosten van eerstelijnsdiagnostiek, de kosten van paramedische behandeling en onderzoek, en de kosten van de add-ons voor dure en weesgeneesmiddelen niet zijnde add-ons voor groeihormonen of fertiliteitshormonen.   
 5.  Het Zorginstituut merkt kosten voor prestaties waarop de beleidsregel ‘Verpleging in de thuissituatie, noodzakelijk in verband met medisch-specialistische zorg’ van de zorgautoriteit van toepassing is, voor 100 procent aan als kosten van het cluster ‘variabele kosten van medisch-specialistische zorg’.   
-6.  Het Zorginstituut merkt de kosten van prestaties, geleverd door instellingen die meedoen aan experimenten in de zin van de [Wet marktordening gezondheidszorg](../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md), voor een door hem per instelling vast te stellen percentage aan als kosten van het cluster ‘variabele kosten van medisch-specialistische zorg’.   
+6.  Het Zorginstituut merkt de kosten van prestaties, geleverd door instellingen die meedoen aan experimenten in de zin van de Wet marktordening gezondheidszorg, voor een door hem per instelling vast te stellen percentage aan als kosten van het cluster ‘variabele kosten van medisch-specialistische zorg’.   
 7.  Het Zorginstituut merkt de kosten van de trombosediensten, de Stichting Kinderoncologie Nederland en van de Nederlandse Transplantatiestichting voor 75 procent aan als kosten van het cluster ‘variabele kosten van medisch-specialistische zorg’.  
 
 ### Artikel  15  
@@ -173,7 +173,7 @@ c. uit de specificatie niet blijkt dat zij gelden als kosten als bedoeld onder a
 2.  Het Zorginstituut merkt de kostencomponent van de kosten van dbc-zorgproducten in het gereguleerde segment, uitgezonderd de kosten van expertproducten, voor 25 procent aan als kosten van het cluster ‘vaste zorgkosten’.   
 3.  Het Zorginstituut merkt de kostencomponent en de honorariumcomponent van de kosten van expertproducten in het vrije en gereguleerde segment voor 100 procent aan als kosten van het cluster ‘vaste zorgkosten’.   
 4.  Het Zorginstituut merkt van de add-ons voor dure en weesgeneesmiddelen, uitgezonderd de kosten van de add-ons voor groeihormonen en fertiliteitshormonen, voor 100 procent aan als kosten van het cluster ‘vaste zorgkosten’.   
-5.  Het Zorginstituut merkt de kosten van prestaties, geleverd door instellingen die meedoen aan experimenten in de zin van de [Wet marktordening gezondheidszorg](../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md), voor een door hem per instelling voor medisch-specialistisch zorg vast te stellen percentage aan als kosten van het cluster ‘vaste zorgkosten’.   
+5.  Het Zorginstituut merkt de kosten van prestaties, geleverd door instellingen die meedoen aan experimenten in de zin van de Wet marktordening gezondheidszorg, voor een door hem per instelling voor medisch-specialistisch zorg vast te stellen percentage aan als kosten van het cluster ‘vaste zorgkosten’.   
 6.  Het percentage per instelling, bedoeld in het vijfde lid, is gelijk aan 100 minus het percentage, bedoeld in artikel 14, zesde lid.   
 7.  Het Zorginstituut merkt de kosten van geriatrische revalidatiezorg voor 100 procent aan als kosten van het cluster ‘vaste zorgkosten’.   
 8.  Het Zorginstituut merkt de kosten van de trombosediensten, de Stichting Kinderoncologie Nederland en van de Nederlandse Transplantatiestichting voor 25 procent aan als kosten van het cluster ‘vaste zorgkosten’.   
@@ -182,7 +182,7 @@ c. uit de specificatie niet blijkt dat zij gelden als kosten als bedoeld onder a
 
 ### Artikel  16  
 
-Het Zorginstituut past als volgt hogekostencompensatie toe op het herberekende deelbedrag ‘kosten van geneeskundige geestelijke gezondheidszorg’, bedoeld in [artikel 3.12, derde lid, van het Besluit zorgverzekering](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md): 
+Het Zorginstituut past als volgt hogekostencompensatie toe op het herberekende deelbedrag ‘kosten van geneeskundige geestelijke gezondheidszorg’, bedoeld in artikel 3.12, derde lid, van het Besluit zorgverzekering: 
 
 a. 90 procent van de kosten van geneeskundige geestelijke gezondheidszorg, voor zover deze kosten het bedrag van € 25.000 per verzekerde op jaarbasis overschrijden, wordt berekend;  
 
@@ -200,12 +200,12 @@ d. ten slotte wordt het herberekende deelbedrag per zorgverzekeraar nogmaals her
 
 ### Artikel  18  
 
-Het bedrag en het percentage bedoeld in [artikel 3.17, tweede lid, van het Besluit zorgverzekering](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md) zijn: € 12,50 en 90 procent. 
+Het bedrag en het percentage bedoeld in artikel 3.17, tweede lid, van het Besluit zorgverzekering zijn: € 12,50 en 90 procent. 
 
 ### Artikel  19  
 
-1.  De opbrengst van de nominale rekenpremie, bedoeld in [artikel 3.19, tweede lid, van het Besluit zorgverzekering](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), wordt berekend overeenkomstig artikel 8, met dien verstande, dat wordt uitgegaan van het gerealiseerde aantal zorgverzekeringen waarvoor premie moest worden betaald bij de zorgverzekeraar.   
-2.  De opbrengst van het verplicht eigen risico, bedoeld in [artikel 3.19, tweede lid, van het Besluit zorgverzekering](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), wordt berekend overeenkomstig artikel 9, met dien verstande, dat wordt uitgegaan van de gerealiseerde aantallen in dat artikel bedoelde verzekerden.  
+1.  De opbrengst van de nominale rekenpremie, bedoeld in artikel 3.19, tweede lid, van het Besluit zorgverzekering, wordt berekend overeenkomstig artikel 8, met dien verstande, dat wordt uitgegaan van het gerealiseerde aantal zorgverzekeringen waarvoor premie moest worden betaald bij de zorgverzekeraar.   
+2.  De opbrengst van het verplicht eigen risico, bedoeld in artikel 3.19, tweede lid, van het Besluit zorgverzekering, wordt berekend overeenkomstig artikel 9, met dien verstande, dat wordt uitgegaan van de gerealiseerde aantallen in dat artikel bedoelde verzekerden.  
 
 ### Hoofdstuk  4  
 
@@ -213,7 +213,7 @@ Het bedrag en het percentage bedoeld in [artikel 3.17, tweede lid, van het Beslu
 
 ### Artikel  20  
 
-Het in [artikel 3.22, tweede lid, van het Besluit zorgverzekering](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md) bedoelde bedrag per verzekerde bedraagt € 50. 
+Het in artikel 3.22, tweede lid, van het Besluit zorgverzekering bedoelde bedrag per verzekerde bedraagt € 50. 
 
 ### Hoofdstuk  5  
 
@@ -225,7 +225,7 @@ De betaling van de bijdrage geschiedt overeenkomstig door het Zorginstituut te s
 
 ### Hoofdstuk  6  
 
-####Wijziging van de [Regeling risicoverevening 2013](../../../../../ministeriele-regeling/regeling/risicoverevening/2013/BWBR0032525/README.md)
+####Wijziging van de Regeling risicoverevening 2013
 
 ### Artikel  22  
 
@@ -243,7 +243,7 @@ Deze regeling wordt aangehaald als: Regeling risicoverevening 2014.
 
 1.  Deze regeling treedt in werking met ingang van de dag na de datum waarop artikel I van het Besluit houdende wijziging van het Besluit zorgverzekering in verband met beperking van de ex post compensatiemechanismen voor de vaststelling van de vereveningsbijdrage in werking treedt.   
 2.  Indien het in het eerste lid genoemde artikel na 30 september 2013 in werking treedt, werkt deze regeling terug tot en met 30 september 2013.   
-3.  Artikel 22 werkt terug tot en met 1 januari 2013, met dien verstande dat de in dat artikel opgenomen wijzingen in de [Regeling risicoverevenigng 2013](../../../../../ministeriele-regeling/regeling/risicoverevening/2013/BWBR0032525/README.md) slechts worden toegepast bij de vaststelling van de vereveningsbijdragen over dat jaar.  
+3.  Artikel 22 werkt terug tot en met 1 januari 2013, met dien verstande dat de in dat artikel opgenomen wijzingen in de Regeling risicoverevenigng 2013 slechts worden toegepast bij de vaststelling van de vereveningsbijdragen over dat jaar.  
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 

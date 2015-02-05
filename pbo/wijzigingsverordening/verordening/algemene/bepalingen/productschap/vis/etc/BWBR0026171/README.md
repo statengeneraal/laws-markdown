@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Vis van 26 maart 2009 tot wijziging van de Verordening Algemene Bepalingen Productschap Vis 2006
 
 Het bestuur van het Productschap Vis;  
-Gelet op de [artikelen 93](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [102 van de Wet op de bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en de [artikelen 5](../../../../../../../../../AMvB/instellingsbesluit/productschap/vis/BWBR0015163/README.md) en [6 van het Instellingsbesluit Productschap Vis](../../../../../../../../../AMvB/instellingsbesluit/productschap/vis/BWBR0015163/README.md) (Stb. 2003, 253);
+Gelet op de artikelen 93, 95 en 102 van de Wet op de bedrijfsorganisatie en de artikelen 5 en 6 van het Instellingsbesluit Productschap Vis (Stb. 2003, 253);
 Besluit:    
 
 ###Artikel I 

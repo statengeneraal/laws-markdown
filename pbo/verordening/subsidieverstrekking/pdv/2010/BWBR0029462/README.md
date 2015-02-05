@@ -3,9 +3,9 @@
 ##Verordening van het Productschap Diervoeder van 4 november 2010 houdende regels voor het verstrekken van subsidies voor activiteiten op het werkterrein van het productschap (Verordening subsidieverstrekking PDV 2010)
 
 Het bestuur van het Productschap Diervoeder;  
-Gelet op de [artikelen 93](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [123 van de Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en gelet op [Titel 4.2 van de Algemene wet Bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);
+Gelet op de artikelen 93, 95, 123 van de Wet op de bedrijfsorganisatie en gelet op Titel 4.2 van de Algemene wet Bestuursrecht;
 
-Gelet op [Hoofdstuk 4 van het Besluit beleidsregels Bestuurskamer](../../../../../../pbo/besluit/beleidsregels/bestuurskamer/BWBR0015680/README.md) van de Sociaal- Economische Raad;
+Gelet op Hoofdstuk 4 van het Besluit beleidsregels Bestuurskamer van de Sociaal- Economische Raad;
 Besluit vast te stellen de navolgende verordening:    
 ###§ 1 
 
@@ -30,7 +30,7 @@ In deze regeling wordt verstaan onder:
 ###Artikel 2 
 
 1. Deze verordening is van toepassing op alle door het productschap te verstrekken subsidies. 
-2. Op per kalenderjaar aan rechtspersonen te verstrekken subsidies is [afdeling 4.2.8 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing met inachtneming van het bepaalde in deze verordening.
+2. Op per kalenderjaar aan rechtspersonen te verstrekken subsidies is afdeling 4.2.8 van de Algemene wet bestuursrecht van toepassing met inachtneming van het bepaalde in deze verordening.
 
 ###Artikel 3 
 
@@ -64,7 +64,7 @@ c.een actuele opgave van de bestuurssamenstelling;
 
 d.de balans van het voorafgaande jaar met toelichting.
 5. Bij de indiening van de aanvraag voor een budget- of exploitatiesubsidie dient in ieder geval overlegd te worden een activiteitenplan en een begroting omvattende een overzicht van alle voor het kalenderjaar waarvoor subsidie wordt gewaagd geraamde inkomsten en uitgaven, voor zover betrekking hebbend op de activiteiten waarvoor subsidie wordt aangevraagd.
-6. Bij een eerste aanvraag voor een budget- of exploitatiesubsidie kan het productschap de aanvrager tevens verzoeken de laatst opgemaakte jaarrekening als bedoeld in [artikel 361 van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) dan wel de balans en de staat van baten en lasten en de toelichting daarop of, indien deze bescheiden ontbreken, een verslag over de financiële positie van de aanvrager op het moment van de aanvraag te overleggen. De bescheiden zijn voorzien van een van een accountant als bedoeld in [artikel 2:393, eerste lid BW](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) afkomstige schriftelijke verklaring omtrent de getrouwheid onderscheidenlijk van een mededeling, inhoudende dat van onjuistheden niet is gebleken.
+6. Bij een eerste aanvraag voor een budget- of exploitatiesubsidie kan het productschap de aanvrager tevens verzoeken de laatst opgemaakte jaarrekening als bedoeld in artikel 361 van Boek 2 van het Burgerlijk Wetboek dan wel de balans en de staat van baten en lasten en de toelichting daarop of, indien deze bescheiden ontbreken, een verslag over de financiële positie van de aanvrager op het moment van de aanvraag te overleggen. De bescheiden zijn voorzien van een van een accountant als bedoeld in artikel 2:393, eerste lid BW afkomstige schriftelijke verklaring omtrent de getrouwheid onderscheidenlijk van een mededeling, inhoudende dat van onjuistheden niet is gebleken.
 7. De aanvraag om subsidie vermeldt alle voor toekenning van de subsidie relevante gegevens en wordt naar waarheid ingevuld en ondertekend door een daartoe bevoegd persoon.
 
 ###§ 3 

@@ -14,7 +14,7 @@ dat een volledig inzicht in de mechanismen die leiden tot deze effecten nog ontb
 
 dat de mogelijke onomkeerbaarheid van de effecten enerzijds en het ontbreken van een volledig inzicht anderzijds een beoordeling vooraf van het in het milieu brengen van genetisch gemodificeerde organismen wenselijk maken;
 
-Gelet op de [artikelen 24](../../../../../../../wet/wet/milieugevaarlijke/stoffen/BWBR0003892/README.md) en [26 van de Wet milieugevaarlijke stoffen](../../../../../../../wet/wet/milieugevaarlijke/stoffen/BWBR0003892/README.md) (*Stb.* 1985, 639), en artikel 2 van de Hinderwet (*Stb.* 1981, 410);
+Gelet op de artikelen 24 en 26 van de Wet milieugevaarlijke stoffen (*Stb.* 1985, 639), en artikel 2 van de Hinderwet (*Stb.* 1981, 410);
 
 Gezien het advies van de Centrale raad voor de milieuhygiëne (advies van 25 november 1988, nr. GGO-88/1247);
 
@@ -42,7 +42,7 @@ e. organismen: micro-organismen en andere biologische entiteiten met het vermoge
 
 f. genetisch gemodificeerde organismen: organismen, met uitzondering van menselijke wezens, waarvan het genetisch materiaal is veranderd op een wijze die van nature niet mogelijk is door voortplanting of natuurlijke recombinatie;  
 
-g. ingeperkt gebruik: genetische modificatie van organismen of vermeerderen, opslaan, aan een ander ter beschikking stellen, toepassen, voorhanden hebben, vervoeren, met uitzondering van vervoeren als bedoeld in artikel 23, tweede lid, onder c, zich ontdoen of vernietigen van genetisch gemodificeerde organismen in een afgesloten ruimte dan wel in een installatie of in apparatuur in een inrichting als bedoeld in categorie 21 van [bijlage I bij het Besluit omgevingsrecht](../../../../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md), indien met betrekking tot die afgesloten ruimte, die installatie of die apparatuur fysische barrières of een combinatie van fysische met chemische of biologische barrières zijn of worden toegepast om het contact van die organismen met mens en milieu te beperken, overeenkomstig door Onze Minister te stellen regels;  
+g. ingeperkt gebruik: genetische modificatie van organismen of vermeerderen, opslaan, aan een ander ter beschikking stellen, toepassen, voorhanden hebben, vervoeren, met uitzondering van vervoeren als bedoeld in artikel 23, tweede lid, onder c, zich ontdoen of vernietigen van genetisch gemodificeerde organismen in een afgesloten ruimte dan wel in een installatie of in apparatuur in een inrichting als bedoeld in categorie 21 van bijlage I bij het Besluit omgevingsrecht, indien met betrekking tot die afgesloten ruimte, die installatie of die apparatuur fysische barrières of een combinatie van fysische met chemische of biologische barrières zijn of worden toegepast om het contact van die organismen met mens en milieu te beperken, overeenkomstig door Onze Minister te stellen regels;  
 
 h.  richtlijn 98/81: richtlijn nr. 98/81/EG van de Raad van de Europese Unie van 26 oktober 1998 tot wijziging van Richtlijn 90/219/EEG inzake het ingeperkt gebruik van genetisch gemodificeerde micro-organismen;  
 
@@ -96,7 +96,7 @@ c.groep III: overige genetisch gemodificeerde organismen, niet zijnde micro-orga
 
 1.  Voor de toepassing van paragraaf 2 wordt ingeperkt gebruik van genetisch gemodificeerde micro-organismen onderscheiden in de volgende categorieën:  
 
-a. categorie A: handelingen als bedoeld in categorie 21, onderdeel a, van [bijlage I, onder C, bij het Besluit omgevingsrecht](../../../../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md);  
+a. categorie A: handelingen als bedoeld in categorie 21, onderdeel a, van bijlage I, onder C, bij het Besluit omgevingsrecht;  
 
 b. categorie B: overige handelingen.     
 2.   Onze Minister kan nadere regels stellen voor de indeling van handelingen in de categorieën A en B. Artikel 2, derde lid, is van overeenkomstige toepassing.  
@@ -109,7 +109,7 @@ a. de tijdelijke opslag tijdens vervoer van genetisch gemodificeerde organismen:
 
 1º. niet zijnde micro-organismen dan wel planten of dieren in associatie met genetisch gemodificeerde organismen die zich bevinden in een vervoerseenheid die voldoet aan door Onze Minister te stellen regels voor vervoer buiten de inrichting die bestemd is voor activiteiten met genetisch gemodificeerde organismen, en de verpakking is voorzien van gegevens van de geadresseerde en de afzender; 
 
-2º. die zich bevinden in een vervoerseenheid die voldoet aan de regels gesteld op basis van [artikel 4b, tweede lid, onder a, van de Wegenverkeerswet 1994](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), en op basis van [artikel 2 van het Besluit vervoer gevaarlijke stoffen](../../../../../../../AMvB/besluit/vervoer/gevaarlijke/stoffen/BWBR0008080/README.md), onderscheidenlijk zijn verpakt overeenkomstig regels gesteld op basis van [artikel 26, eerste lid, van de Wet vervoer gevaarlijke stoffen](../../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md), en de [artikelen 2](../../../../../../../AMvB/besluit/vervoer/gevaarlijke/stoffen/BWBR0008080/README.md) en [5, derde lid, van het Besluit vervoer gevaarlijke stoffen](../../../../../../../AMvB/besluit/vervoer/gevaarlijke/stoffen/BWBR0008080/README.md), en de verpakking is voorzien van gegevens van de geadresseerde en de afzender;  
+2º. die zich bevinden in een vervoerseenheid die voldoet aan de regels gesteld op basis van artikel 4b, tweede lid, onder a, van de Wegenverkeerswet 1994, en op basis van artikel 2 van het Besluit vervoer gevaarlijke stoffen, onderscheidenlijk zijn verpakt overeenkomstig regels gesteld op basis van artikel 26, eerste lid, van de Wet vervoer gevaarlijke stoffen, en de artikelen 2 en 5, derde lid, van het Besluit vervoer gevaarlijke stoffen, en de verpakking is voorzien van gegevens van de geadresseerde en de afzender;  
 
 b.  het vervaardigen, vervoeren, toepassen, voorhanden hebben, aan een ander ter beschikking stellen of zich ontdoen van typen van genetisch gemodificeerde micro-organismen die zijn opgesomd in bijlage II, deel C, bij richtlijn 98/81;  
 
@@ -127,7 +127,7 @@ c. het vervaardigen van organismen door, dan wel het vervoeren, toepassen, voorh
 
 ### Artikel  5  
 
-1.  Degene die voornemens is over te gaan tot ingeperkt gebruik, maakt, voordat hij daarmee begint, een analyse van de risico’s voor mens of milieu die aan dat gebruik kunnen zijn verbonden. Hij maakt daarvan een schriftelijke samenvatting, die hij ter beschikking houdt van Onze Minister en van het gezag dat in het kader van de [Wet milieubeheer](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) bevoegd is ten aanzien van de inrichting waar de betrokken handeling plaatsvindt.   
+1.  Degene die voornemens is over te gaan tot ingeperkt gebruik, maakt, voordat hij daarmee begint, een analyse van de risico’s voor mens of milieu die aan dat gebruik kunnen zijn verbonden. Hij maakt daarvan een schriftelijke samenvatting, die hij ter beschikking houdt van Onze Minister en van het gezag dat in het kader van de Wet milieubeheer bevoegd is ten aanzien van de inrichting waar de betrokken handeling plaatsvindt.   
 2.   Onze Minister stelt regels omtrent de gegevens die de analyse bevat. Tevens kan hij daarbij nadere regels stellen met betrekking tot de samenvatting. Artikel 2, derde lid, is van overeenkomstige toepassing.  
 
 ### §  2.3  
@@ -232,7 +232,7 @@ Degene die een aanvraag om een vergunning heeft gedaan, als bedoeld in de artike
 1. Het is verboden over te gaan tot ingeperkt gebruik van genetisch gemodificeerde organismen, als bedoeld in de artikelen 8, 9, 10 of 11, zonder vergunning die door Onze Minister is verleend naar aanleiding van een aanvraag om een vergunning als bedoeld in het betrokken artikel. Het verbod in de eerste volzin geldt niet voor zover toepassing is gegeven aan artikel 9, derde lid, of aan artikel 10, tweede lid, j° artikel 9, derde lid.
 2.  Op een aanvraag om een vergunning als bedoeld in artikel 11 beslist Onze Minister binnen 87 dagen na de datum van ontvangst van de aanvraag om een vergunning.
 3.  Op een aanvraag om een vergunning als bedoeld in de artikelen 8, 9 en 10 beslist Onze Minister binnen 45 dagen na de datum van ontvangst van de aanvraag om een vergunning.
-4. Op de voorbereiding van een besluit tot verlening, wijziging of intrekking van een vergunning die wordt of is verleend naar aanleiding van een aanvraag om een vergunning als bedoeld in artikel 8, 9 of 10, is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing.
+4. Op de voorbereiding van een besluit tot verlening, wijziging of intrekking van een vergunning die wordt of is verleend naar aanleiding van een aanvraag om een vergunning als bedoeld in artikel 8, 9 of 10, is afdeling 3.4 van de Algemene wet bestuursrecht niet van toepassing.
 
 ### Artikel  19  
 
@@ -293,9 +293,9 @@ e.genetisch gemodificeerde organismen als product of in producten die in de hand
 
 2º. voorschriften met betrekking tot de milieurisicobeheersing, etikettering, monitoring en voorlichting, gelijkwaardig aan dit besluit, en 
 
-3º. een vrijwaringsclausule, gelijkwaardig aan die in [artikel 17.19 van de Wet milieubeheer](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en artikel 33; 
+3º. een vrijwaringsclausule, gelijkwaardig aan die in artikel 17.19 van de Wet milieubeheer en artikel 33; 
 
-f.genetisch gemodificeerde organismen als product of in producten die in de handel worden gebracht, voor zover die krachtens de verordening, bedoeld in [artikel 1, eerste lid, onder fff, van de Geneesmiddelenwet](../../../../../../../wet/geneesmiddelenwet/BWBR0021505/README.md), zijn toegelaten, en een specifieke milieurisicoanalyse overeenkomstig bijlage II en aan de hand van soortgelijke informatie als bedoeld in bijlage III bij richtlijn nr. 2001/18 is verricht, onverminderd andere voorschriften over risicobeoordeling, risicobeheersing, etikettering, toezicht, publieksvoorlichting en vrijwaringsclausules, zoals geregeld in communautaire regelgeving inzake geneesmiddelen voor menselijk en diergeneeskundig gebruik;
+f.genetisch gemodificeerde organismen als product of in producten die in de handel worden gebracht, voor zover die krachtens de verordening, bedoeld in artikel 1, eerste lid, onder fff, van de Geneesmiddelenwet, zijn toegelaten, en een specifieke milieurisicoanalyse overeenkomstig bijlage II en aan de hand van soortgelijke informatie als bedoeld in bijlage III bij richtlijn nr. 2001/18 is verricht, onverminderd andere voorschriften over risicobeoordeling, risicobeheersing, etikettering, toezicht, publieksvoorlichting en vrijwaringsclausules, zoals geregeld in communautaire regelgeving inzake geneesmiddelen voor menselijk en diergeneeskundig gebruik;
 
 g.genetisch gemodificeerde organismen als product of in producten die in de handel worden gebracht, voor zover de bevoegde instantie van een andere lidstaat een vergunning als bedoeld in het eerste lid voor het in de handel brengen heeft verstrekt dan wel op andere wijze daarvoor schriftelijke toestemming heeft verleend overeenkomstig richtlijn nr. 2001/18; 
 
@@ -364,7 +364,7 @@ b.een milieurisicoanalyse overeenkomstig bijlage II bij richtlijn nr. 2001/18, z
 
 a.in overeenstemming met Onze Minister van Landbouw, Natuur en Voedselkwaliteit voor zover het betreft die aspecten van de bescherming van het milieu waarvoor deze verantwoordelijk is;
 
-b.na overleg met Onze Minister van Volksgezondheid, Welzijn en Sport, voor zover het betreft die aspecten van de volksgezondheid waarvoor deze verantwoordelijk is, tenzij het een aanvraag om een vergunning betreft voor handelingen met genetisch gemodificeerde organismen waarvoor ingevolge de [Wet medisch-wetenschappelijk onderzoek met mensen](../../../../../../../wet/wet/medisch-wetenschappelijk/onderzoek/met/mensen/BWBR0009408/README.md) tevens een positief oordeel is vereist van een op grond van die wet bevoegde commissie;
+b.na overleg met Onze Minister van Volksgezondheid, Welzijn en Sport, voor zover het betreft die aspecten van de volksgezondheid waarvoor deze verantwoordelijk is, tenzij het een aanvraag om een vergunning betreft voor handelingen met genetisch gemodificeerde organismen waarvoor ingevolge de Wet medisch-wetenschappelijk onderzoek met mensen tevens een positief oordeel is vereist van een op grond van die wet bevoegde commissie;
 
 c.na overleg met Onze overige Ministers wie het mede aangaat.
 
@@ -415,7 +415,7 @@ wie in de gelegenheid worden gesteld om bezwaar te maken tegen het besluit, en
 op welke wijze dit kan geschieden.     
 5.  Onze Minister deelt de in de kennisgeving vermelde gegevens tevens mee aan degene die de melding, bedoeld in artikel 24a, eerste lid, onder e, heeft gedaan.   
 6.  De stukken liggen gedurende zes weken ter inzage.   
-7.  Indien bepaalde stukken niet ter inzage worden gelegd, als gevolg van een besluit van Onze Minister tot geheimhouding daarvan op grond van [artikel 19.3 van de Wet milieubeheer](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), wordt daarvan mededeling gedaan.   
+7.  Indien bepaalde stukken niet ter inzage worden gelegd, als gevolg van een besluit van Onze Minister tot geheimhouding daarvan op grond van artikel 19.3 van de Wet milieubeheer, wordt daarvan mededeling gedaan.   
 8.  Tegen vergoeding van ten hoogste de kosten wordt afschrift van de ter inzage gelegde stukken verstrekt.  
 
 ###Artikel 25 
@@ -432,11 +432,11 @@ De houder van een vergunning voor overige doeleinden, die genetisch gemodificeer
 
 ### Artikel  27  
 
-[Afdeling 3.4 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [afdeling 13.2 van de Wet milieubeheer](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) zijn niet van toepassing op: 
+Afdeling 3.4 van de Algemene wet bestuursrecht en afdeling 13.2 van de Wet milieubeheer zijn niet van toepassing op: 
 
 1. een aanvraag om een vergunning voor het in de handel brengen als bedoeld in artikel 28, eerste lid, en 35, vierde lid; 
 
-2. een wijziging of een intrekking als bedoeld in [artikel 9.2.2.3, vijfde lid, van de Wet milieubeheer](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md).  
+2. een wijziging of een intrekking als bedoeld in artikel 9.2.2.3, vijfde lid, van de Wet milieubeheer.  
 
 ### §  3.3.1  
 
@@ -615,7 +615,7 @@ Wijzigt dit besluit.
 
 ### Artikel 44b 
 
-Dit besluit berust op de [artikelen 1.1, derde lid](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [9.2.2.1](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [9.2.2.3](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en [9.2.3.2 van de Wet milieubeheer](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md).
+Dit besluit berust op de artikelen 1.1, derde lid, 9.2.2.1, 9.2.2.3 en 9.2.3.2 van de Wet milieubeheer.
 
 ###Artikel 45 
 
@@ -681,7 +681,7 @@ g. de gebruikte kweekvolumes;
 
 h. een beschrijving van de inperkings- en andere beschermende maatregelen die zullen worden toegepast, met inbegrip van de informatie over afvalbeheer, inclusief de behandeling, de uiteindelijke vorm en de bestemming van de afvalstoffen die bij de activiteiten zullen ontstaan;  
 
-i. de datum van de aanvraag om een vergunning als bedoeld in de [artikelen 4.1](../../../../../../../ministeriele-regeling/regeling/omgevingsrecht/BWBR0027471/README.md) en [4.6 van de Regeling omgevingsrecht](../../../../../../../ministeriele-regeling/regeling/omgevingsrecht/BWBR0027471/README.md), indien deze aanvraag reeds is gedaan, dan wel het nummer van die vergunning.    
+i. de datum van de aanvraag om een vergunning als bedoeld in de artikelen 4.1 en 4.6 van de Regeling omgevingsrecht, indien deze aanvraag reeds is gedaan, dan wel het nummer van die vergunning.    
 
 3. Vereiste gegevens voor de in artikel 10, eerste lid, bedoelde aanvraag om een vergunning:  
 

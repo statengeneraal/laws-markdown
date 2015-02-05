@@ -42,15 +42,15 @@ f.  *vereveningsbijdrage:* de bijdrage, bedoeld in paragraaf 4.2 van de wet;
 
 g.  *vereveningsjaar:* het kalenderjaar waarop een vereveningsbijdrage betrekking heeft;  
 
-h.  *cluster van prestaties:* het cluster «variabele kosten van medisch-specialistische zorg», het cluster «vaste zorgkosten», het cluster «geneeskundige geestelijke gezondheidszorg» of het cluster «overige prestaties»;  
+h.  *cluster van prestaties:* het cluster «variabele zorgkosten», het cluster «vaste zorgkosten», het cluster «geneeskundige geestelijke gezondheidszorg», of het cluster «verpleging en verzorging»;  
 
-i.  *variabele kosten van medisch-specialistische zorg:* de variabele kosten van in het kader van medisch-specialistische zorg verleend verblijf, verpleging en verzorging, met uitzondering van verblijf gepaard gaande met zorg zoals klinisch-psychologen en psychiaters die plegen te bieden, alsmede de kosten van geneeskundige zorg zoals medisch-specialisten die plegen te bieden, met uitzondering van zorg zoals klinisch-psychologen en psychiaters die plegen te bieden, dit alles voor zover deze kosten onder de dekking van een zorgverzekering vallen en niet bij ministeriële regeling is bepaald dat deze als tot een ander cluster behorende kosten worden aangemerkt;  
+i.  *variabele zorgkosten:* de variabele kosten van in het kader van medisch-specialistische zorg verleend verblijf, verpleging en verzorging, met uitzondering van verblijf gepaard gaande met zorg zoals klinisch-psychologen en psychiaters die plegen te bieden, alsmede de kosten van geneeskundige zorg zoals medisch-specialisten die plegen te bieden, met uitzondering van zorg zoals klinisch-psychologen en psychiaters die plegen te bieden, dit alles voor zover deze kosten onder de dekking van een zorgverzekering vallen en niet bij ministeriële regeling is bepaald dat deze als tot een ander cluster behorende kosten worden aangemerkt en de kosten van onder de dekking van een zorgverzekering vallende prestaties die niet als tot een ander cluster behorende kosten worden aangemerkt;  
 
 j.  *vaste zorgkosten:* bij ministeriële regeling aangewezen kosten van zorg die voor verzekeraars niet te beïnvloeden zijn of door onvoldoende gegevens in het kader van de risicoverevening niet normeerbaar zijn, voor zover deze kosten onder de dekking van een zorgverzekering vallen;  
 
-k.  *kosten van geneeskundige geestelijke gezondheidszorg:* de kosten van geneeskundige zorg zoals klinisch-psychologen en psychiaters die plegen te bieden alsmede het daarmee gepaard gaande verblijf, voor zover deze kosten onder de dekking van een zorgverzekering vallen en niet bij ministeriële regeling is bepaald dat deze als tot een ander cluster behorende kosten worden aangemerkt;  
+k.  *kosten van geneeskundige geestelijke gezondheidszorg:* de kosten van geneeskundige zorg zoals klinisch-psychologen en psychiaters die plegen te bieden alsmede het daarmee gepaard gaande verblijf gedurende een onafgebroken periode van ten hoogste 365 dagen, voor zover deze kosten onder de dekking van een zorgverzekering vallen en niet bij ministeriële regeling is bepaald dat deze als tot een ander cluster behorende kosten worden aangemerkt;  
 
-l.  *kosten van overige prestaties:* de kosten van onder de dekking van een zorgverzekering vallende prestaties die niet als tot een ander cluster behorende kosten worden aangemerkt;  
+l. vervallen;  
 
 m.  *macro-deelbedrag:* een in de ministeriële regeling, bedoeld in artikel 3.1, derde lid, voor een cluster van prestaties genoemd bedrag dat ex ante over de zorgverzekeraars wordt verdeeld;  
 
@@ -74,7 +74,7 @@ v.  *regio:* een vereveningscriterium op grond waarvan verzekerden op basis van 
 
 w.  *GGZ-regio:* een vereveningscriterium op grond waarvan verzekerden op basis van de vier cijfers van de postcode van hun woonadres worden ingedeeld in klassen, waarbij op postcodeniveau rekening is gehouden met de verschillen met betrekking tot GGZ-zorgaanbod, sociaaleconomische omstandigheden en geestelijke gezondheid;  
 
-x.  *kosten van geneeskundige geestelijke gezondheidszorg boven de lage drempel:* kosten per verzekerde van intramuraal en extramuraal gebruik van geneeskundige geestelijke gezondheidszorg in het voorafgaande jaar, die hoger zijn dan een bij ministeriële regeling te bepalen bedrag;  
+x. vervallen; 
 
 y. vervallen;  
 
@@ -86,7 +86,13 @@ bb.  *geraamde kosten:* de bij de ministeriële regeling, bedoeld in artikel 3.1
 
 cc.  *nacalculatie:* bijstelling van het deelbedrag op basis van het verschil tussen gerealiseerde kosten en het herberekende deelbedrag per zorgverzekeraar, per onderscheiden cluster van prestaties;  
 
-dd.  *bandbreedte:* een bedrag waarboven en waaronder meer- of minderkosten kunnen worden nagecalculeerd.   
+dd.  *bandbreedte:* een bedrag waarboven en waaronder meer- of minderkosten kunnen worden nagecalculeerd;  
+
+ee.  *HKG’s:* hulpmiddelenkostengroepen, een vereveningscriterium op grond waarvan verzekerden worden ingedeeld in kostenhomogene klassen chronische aandoeningen op basis van het hulpmiddelengebruik in het verleden;  
+
+ff.  *DKG’s psychische aandoeningen:* diagnosekostengroepen, een vereveningscriterium op grond waarvan verzekerden worden ingedeeld in kostenhomogene klassen met verschillende chronische psychische aandoeningen die geïdentificeerd zijn op grond van diagnose behandeling combinaties;  
+
+gg.  *kosten van verpleging en verzorging:* kosten van zorg als bedoeld in artikel 2.10, eerste lid.  
 
 ### Hoofdstuk  2  
 
@@ -441,15 +447,15 @@ Het percentage, bedoeld in artikel 21, eerste lid, van de wet, bedraagt 100.
 
 ### Artikel  3.1  
 
-1.  Het macro-prestatiebedrag is de som van de volgende macro-deelbedragen: 
+1.  Het macro-prestatiebedrag is de som van de volgende macro-deelbedragen:
 
-a. het macro-deelbedrag variabele kosten van medisch-specialistische zorg;  
+a. het macro-deelbedrag variabele zorgkosten;  
 
 b. het macro-deelbedrag vaste zorgkosten;  
 
 c. het macro-deelbedrag kosten van geneeskundige geestelijke gezondheidszorg;  
 
-d. het macro-deelbedrag kosten van overige prestaties.     
+d. het macro-deelbedrag kosten van verpleging en verzorging.     
 2.  Tot het macro-prestatiebedrag of de macro-deelbedragen behoren niet de kosten van zorg of andere verzekerde diensten die noodzakelijk zijn geworden ten gevolge van een terroristische handeling.   
 3.  De hoogte van het macro-prestatiebedrag en van de macro-deelbedragen voor een vereveningsjaar worden jaarlijks voor 1 oktober van het daaraan voorafgaande jaar bij ministeriële regeling bepaald.  
 
@@ -468,7 +474,7 @@ Het Zorginstituut verdeelt de in artikel 3.1 genoemde macro-deelbedragen op de b
 
 ### Artikel  3.4  
 
-1.  Het Zorginstituut verdeelt het macro-deelbedrag variabele kosten van medisch-specialistische zorg over de zorgverzekeraars aan de hand van de verzekerdenaantallen per zorgverzekeraar, verdeeld naar leeftijd en geslacht, FKG’s, DKG’s, aard van het inkomen, SES, meerjarig hoge kosten en regio.   
+1.  Het Zorginstituut verdeelt het macro-deelbedrag variabele zorgkosten aan de hand van de verzekerdenaantallen per zorgverzekeraar, verdeeld naar leeftijd en geslacht, HKG’s, FKG’s, DKG’s, aard van het inkomen, SES, meerjarig hoge kosten en regio.   
 2.  Onze Minister kent aan alle klassen van de genoemde criteria gewichten toe.   
 3.  De klassen, bedoeld in het eerste lid, en de gewichten, bedoeld in het tweede lid, worden jaarlijks bij ministeriële regeling bepaald.  
 
@@ -479,19 +485,17 @@ Het Zorginstituut verdeelt de in artikel 3.1 genoemde macro-deelbedragen op de b
 
 ### Artikel  3.6  
 
-1.  Het Zorginstituut verdeelt het macro-deelbedrag kosten van geneeskundige geestelijke gezondheidszorg over de zorgverzekeraars aan de hand van de verzekerdenaantallen per zorgverzekeraar, verdeeld naar leeftijd en geslacht, FKG’s psychische aandoeningen, aard van het inkomen, SES, éénpersoonsadres, GGZ-regio, en kosten van geneeskundige geestelijke gezondheidszorg boven de lage drempel.   
+1.  Het Zorginstituut verdeelt het macro-deelbedrag kosten van geneeskundige geestelijke gezondheidszorg aan de hand van de verzekerdenaantallen per zorgverzekeraar, verdeeld naar leeftijd en geslacht, DKG’s psychische aandoeningen, FKG’s psychische aandoeningen, aard van het inkomen, SES, éénpersoonsadres, en GGZ-regio.   
 2.  Onze Minister kent aan alle klassen van de genoemde criteria gewichten toe.   
 3.  De klassen, bedoeld in het eerste lid, en de gewichten, bedoeld in het tweede lid, worden jaarlijks bij ministeriële regeling bepaald.  
 
 ### Artikel  3.7  
 
-1.  Het Zorginstituut verdeelt het macro-deelbedrag kosten van overige prestaties over de zorgverzekeraars aan de hand van de verzekerdenaantallen per zorgverzekeraar, verdeeld naar leeftijd en geslacht, FKG’s, DKG’s, aard van het inkomen, SES, meerjarig hoge kosten en regio.   
-2.  Onze Minister kent aan alle klassen van de genoemde criteria gewichten toe.   
-3.  De klassen, bedoeld in het eerste lid, en de gewichten, bedoeld in het tweede lid, worden jaarlijks bij ministeriële regeling bepaald. 
+Het Zorginstituut verdeelt het macro-deelbedrag kosten van verpleging en verzorging aan de hand van de verzekerdenaantallen per zorgverzekeraar verdeeld naar leeftijd, geslacht en meerjarig hoge kosten.
 
 ### Artikel  3.8  
 
-In afwijking van de artikelen 3.4, 3.6 en 3.7 worden verzekerden die in het buitenland wonen ingedeeld in de klassen «Geen FKG», «Geen FKG psychische aandoeningen», respectievelijk «DKG «0»» en worden de bij deze klasse behorende gewichten voor deze verzekerden op bij ministeriële regeling bepaalde wijze door het Zorginstituut vastgesteld. 
+In afwijking van de artikelen 3.4 en 3.6 worden verzekerden die in het buitenland wonen ingedeeld in de klassen «Geen FKG», «Geen FKG psychische aandoeningen», «Geen HKG», «DKG «0»» respectievelijk «DKG psychische aandoeningen «0»» en worden de bij deze klassen behorende gewichten voor deze verzekerden op bij ministeriële regeling bepaalde wijze door het Zorginstituut vastgesteld. 
 
 ### Artikel  3.9  
 
@@ -514,16 +518,12 @@ Het Zorginstituut sommeert de ingevolge de artikelen 3.3 tot en met 3.8 aan een 
 2.  Met inachtneming van het bepaalde bij en krachtens de artikelen 3.13, 3.14 en 3.15, eerste lid, bepaalt het Zorginstituut de over het vereveningsjaar gerealiseerde kosten per cluster van prestaties voor alle zorgverzekeraars tezamen.   
 3.  Tot de gerealiseerde kosten behoren niet kosten waarvoor bijdragen als bedoeld in artikel 3.23 zijn verstrekt.   
 4.  Het Zorginstituut corrigeert de geraamde kosten per cluster van prestaties voor het werkelijke aantal verzekerden in het vereveningsjaar en hun werkelijke verzekerdenkenmerken.   
-5.  Met inachtneming van bij ministeriële regeling te bepalen regels herberekent het Zorginstituut, uitgaande van de door alle zorgverzekeraars tezamen gerealiseerde kosten voor het destreffende cluster van prestaties, de gewichten, bedoeld in de artikelen 3.4, 3.6, 3.7, en 3.8, door deze te vermenigvuldigen met een factor die gelijk is aan het quotiënt van de gerealiseerde kosten, bedoeld in het tweede lid, en de gecorrigeerde geraamde kosten, bedoeld in het vierde lid.   
+5.  Vervallen.   
 6.  Bij ministeriële regeling wordt bepaald in welke mate een verzekerde die niet gedurende het gehele vereveningsjaar bij een zorgverzekeraar verzekerd is of die gedurende het vereveningsjaar bij meerdere zorgverzekeraars tegelijk verzekerd is, voor de vaststelling van de vereveningsbijdrage meetelt. 
 
 ### Artikel  3.12  
 
-1.  Ten behoeve van de herberekening, bedoeld in artikel 3.11, eerste lid, berekent het Zorginstituut allereerst de deelbedragen, bedoeld in de artikelen 3.4 tot en met 3.7, uitgaande van: 
-
-a. de werkelijke verzekerdenaantallen en de werkelijke verzekerdenkenmerken per zorgverzekeraar;  
-
-b. de herberekende gewichten, bedoeld in artikel 3.11, vijfde lid.     
+1.  Ten behoeve van de herberekening, bedoeld in artikel 3.11, eerste lid, vermenigvuldigt het Zorginstituut allereerst de deelbedragen, bedoeld in de artikelen 3.4 tot en met 3.7, uitgaande van het werkelijk verzekerdenaantallen en hun werkelijke verzekerdenkenmerken per zorgverzekeraar, met een factor gelijk aan het quotiënt van de gerealiseerde kosten, bedoeld in artikel 3.11, tweede lid, en de gecorrigeerde geraamde kosten, bedoeld artikel 3.11, vierde lid, van het bij het deelbedrag behorende cluster van prestaties.   
 2.  Het Zorginstituut vermindert ieder op grond van het eerste lid voor een zorgverzekeraar berekend deelbedrag met een bedrag dat het als volgt berekent: 
 
 a. het Zorginstituut berekent het verschil tussen de gerealiseerde kosten, bedoeld in artikel 3.11, tweede lid, en de gecorrigeerde geraamde kosten, bedoeld in artikel 3.11, vierde lid, voor het met het deelbedrag overeenkomende cluster van prestaties;  
@@ -535,11 +535,11 @@ c. het Zorginstituut vermenigvuldigt voor iedere zorgverzekeraar de onder b verk
 
 ### Artikel  3.13  
 
-Voor zover deze onder een zorgverzekering worden gedekt, deelt het Zorginstituut bij ministeriële regeling te bepalen soorten kosten van zorg en overige diensten die niet zonder meer aan een bepaalde kostencategorie kunnen worden toegedeeld, overeenkomstig een bij die regeling te bepalen verdeelsleutel toe aan de variabele kosten van medisch-specialistische zorg, de vaste zorgkosten, de kosten van geneeskundige geestelijke gezondheidszorg of de kosten van overige prestaties.
+Voor zover deze onder een zorgverzekering worden gedekt, deelt het Zorginstituut bij ministeriële regeling te bepalen soorten kosten van zorg en overige diensten die niet zonder meer aan een bepaalde kostencategorie kunnen worden toegedeeld, overeenkomstig een bij die regeling te bepalen verdeelsleutel toe aan de variabele zorgkosten, de vaste zorgkosten, de kosten van geneeskundige geestelijke gezondheidzorg of de kosten van verpleging en verzorging.
 
 ### Artikel  3.14  
 
-Het Zorginstituut merkt voor een bij ministeriële regeling te bepalen gedeelte van de verschillende geldende tarieven binnen de kosten van medisch-specialistische zorg, kosten aan als variabele kosten van medisch-specialistische zorg. 
+Het Zorginstituut merkt voor een bij ministeriële regeling te bepalen gedeelte van de verschillende geldende tarieven binnen de kosten van medisch-specialistische zorg, kosten aan als variabele zorgkosten. 
 
 ### Artikel  3.15  
 
@@ -548,11 +548,12 @@ Het Zorginstituut merkt voor een bij ministeriële regeling te bepalen gedeelte 
 
 ### Artikel  3.17  
 
-Indien voor een zorgverzekeraar het verschil tussen enerzijds het ingevolge artikel 3.12 herberekende deelbedrag voor het cluster «geneeskundige geestelijke gezondheidszorg» en anderzijds de gerealiseerde kosten voor het cluster «geneeskundige geestelijke gezondheidszorg», gedeeld door het aantal bij hem ingeschreven verzekerden van achttien jaar en ouder waarop artikel 24 van de wet niet van toepassing is, meer dan een bij ministeriële regeling te bepalen bedrag afwijkt van het gemiddelde marktresultaat van de zorgverzekeraars voor het cluster «geneeskundige geestelijke gezondheidszorg», calculeert het Zorginstituut de buiten de bedoelde bandbreedte liggende meer- of minderkosten voor een bij die ministeriële regeling te bepalen percentage na.
+1.  Indien voor een zorgverzekeraar het verschil tussen enerzijds het ingevolge artikel 3.12 herberekende deelbedrag voor het cluster «geneeskundige geestelijke gezondheidszorg» en anderzijds de gerealiseerde kosten voor het cluster «geneeskundige geestelijke gezondheidszorg», gedeeld door het aantal bij hem ingeschreven verzekerden van achttien jaar en ouder waarop artikel 24 van de wet niet van toepassing is, meer dan een bij ministeriële regeling te bepalen bedrag afwijkt van het gemiddelde marktresultaat van de zorgverzekeraars voor het cluster «geneeskundige geestelijke gezondheidszorg», calculeert het Zorginstituut de buiten de bedoelde bandbreedte liggende meer- of minderkosten voor een bij die ministeriële regeling te bepalen percentage na.   
+2.  Indien voor een zorgverzekeraar het verschil tussen enerzijds het ingevolge artikel 3.12 herberekende deelbedrag voor het cluster «verpleging en verzorging» en anderzijds de gerealiseerde kosten voor het cluster «verpleging en verzorging», gedeeld door het aantal bij hem ingeschreven verzekerden van achttien jaar en ouder waarop artikel 24 van de wet niet van toepassing is, meer dan een bij ministeriële regeling te bepalen bedrag afwijkt van het gemiddelde marktresultaat van de zorgverzekeraars voor het cluster «verpleging en verzorging», calculeert het Zorginstituut de buiten de bedoelde bandbreedte liggende meer- of minderkosten voor een bij die ministeriële regeling te bepalen percentage na. 
 
 ###Artikel 3.18 
 
-Het Zorginstituut sommeert de ingevolge artikel 3.12 herberekende deelbedragen voor de clusters «variabele kosten van medisch-specialistische zorg», «geneeskundige geestelijke gezondheidszorg» en «overige prestaties», het op grond van artikel 3.15 berekende nieuwe deelbedrag en, voor zover van toepassing, de op grond van artikel 3.17 berekende bedragen, tot één normatief bedrag per zorgverzekeraar.
+Het Zorginstituut sommeert de ingevolge artikel 3.12 herberekende deelbedragen voor de clusters «variabele zorgkosten», «geneeskundige geestelijke gezondheidszorg» en «verpleging en verzorging», het op grond van artikel 3.15 berekende nieuwe deelbedrag en, voor zover van toepassing, de op grond van artikel 3.17 berekende bedragen, tot één normatief bedrag per zorgverzekeraar.
 
 ### Artikel  3.19  
 
@@ -595,37 +596,7 @@ Het Zorginstituut sommeert de ingevolge artikel 3.12 herberekende deelbedragen v
 
 ####De compensatie voor het verplicht eigen risico
 
-### Artikel 3a.1 
-
-1. Verzekerden hebben recht op de uitkering, bedoeld in artikel 118a, eerste lid, van de wet indien zij: 
-
-a. in de twee opeenvolgende jaren voorafgaande aan het jaar waarop de uitkering betrekking heeft, voldoen aan bij ministeriële regeling gestelde voorwaarden met betrekking tot aan hen ter hand gestelde, in die regeling aan te wijzen geneesmiddelen, of  
-
-b. in het jaar dat drie jaren voorafgaat en in het jaar dat twee jaren voorafgaat aan het jaar waarop de uitkering betrekking heeft, zijn ingedeeld in bij ministeriële regeling aangewezen DKG’s, of  
-
-c. op 1 juli van het jaar waarop de uitkering betrekking heeft, zonder onderbreking meer dan een half jaar in een AWBZ-instelling verblijven.   
-2.  Gewezen personen als bedoeld in artikel 2, tweede lid, onderdeel a, van de wet hebben eveneens recht op een uitkering als bedoeld in het eerste lid, indien zij in de twee opeenvolgende jaren voorafgaande aan het jaar waarop de uitkering betrekking dient te hebben, zorg hebben ontvangen ten laste van een ziektekostenregeling voor militairen die overeenkomt met de zorg waarop het eerste lid, onderdelen a of b, betrekking heeft.  
-3.  Een verzekerde wordt voor wat betreft de geneeskundige zorg, bedoeld in artikel 10 van de wet, die hij in een andere lidstaat van de Europese Unie heeft ontvangen, ingedeeld in de DKG met de chronische aandoening, die te identificeren is op grond van uitgevoerde diagnose behandeling combinaties die naar aard en strekking met die geneeskundige zorg overeenkomen.   
-4.  Voor de toepassing van dit artikel en de daarop berustende bepalingen wordt met een lidstaat van de Europese Unie gelijkgesteld, een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte. 
-
-### Artikel  3a.2  
-
-1.  Onze Minister geeft het Zorginstituut voorafgaande aan ieder kalenderjaar een aanwijzing over de voor dat jaar ten laste van het Zorgverzekeringsfonds komende beheerskosten, bedoeld in artikel 39, derde lid, onderdeel f, van de wet.   
-2.  Met inachtneming van het eerste lid stelt het Zorginstituut jaarlijks het budget voor de beheerskosten, bedoeld in het eerste lid, vast.   
-3.  Het Zorginstituut bepaalt de wijze van betaalbaarstelling van het budget.  
-
-### Artikel  3a.3  
-
-1.  Het CAK neemt in zijn jaarrekening op: 
-
-a. de omvang van de egalisatiereserve voor de uitvoering van de compensatieregeling voor het verplicht eigen risico, met dien verstande dat de totale egalisatiereserve maximaal 5% van het totale beheerskostenbudget van het betreffende jaar bedraagt;  
-
-b. het verschil tussen het budget en de realisatie, dat ten laste of ten bate komt van de egalisatiereserve.     
-2.  Het Zorginstituut stelt jaarlijks aan de hand van het financieel jaarverslag van het CAK vast of de reserve het gestelde maximum te boven gaat. Indien dit het geval is, stort het CAK het door het Zorginstituut vastgestelde bedrag van de overschrijding binnen vier weken in het Zorgverzekeringsfonds.  
-
-### Artikel  3a.4  
-
-Indien het CAK op een naar het oordeel van de zorgautoriteit onverantwoorde wijze op zijn beheerskosten bespaart, wordt het budget, bedoeld in artikel 3a.2, voor het desbetreffende kalenderjaar door het Zorginstituut verlaagd met het door de zorgautoriteit aangegeven bedrag van die besparing. 
+Vervallen per 04-02-2015 
 
 ###Hoofdstuk 3b 
 

@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 14 december 2010, nr. Z/F-3038399, houdende wijziging van de Regeling zorgverzekering ter zake van de vereveningsbijdrage voor zorgverzekeraars in het jaar 2011
 
 De Minister van Volksgezondheid, Welzijn en Sport,  
-Gelet op [artikel 32, vierde lid](../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), en [38, tweede lid, van de Zorgverzekeringswet](../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) en de [artikelen 1, onderdelen g en x](../../../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.1, derde lid](../../../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.2, eerste en tweede lid](../../../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.4, derde lid](../../../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.5, derde lid](../../../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.6, tweede lid](../../../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.7, derde lid](../../../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.8, derde lid](../../../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.10, tweede lid](../../../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.11, tweede lid](../../../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.12](../../../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.13, eerste en tweede lid](../../../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.14, eerste, derde en vierde lid](../../../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.15, eerste en tweede lid](../../../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.16, eerste en tweede lid](../../../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.17, eerste lid](../../../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.19, tweede lid](../../../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.22, tweede lid](../../../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md) en [3.24 derde lid, van het Besluit zorgverzekering](../../../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md);
+Gelet op artikel 32, vierde lid, en 38, tweede lid, van de Zorgverzekeringswet en de artikelen 1, onderdelen g en x, 3.1, derde lid, 3.2, eerste en tweede lid, 3.4, derde lid, 3.5, derde lid, 3.6, tweede lid, 3.7, derde lid, 3.8, derde lid, 3.10, tweede lid, 3.11, tweede lid, 3.12, 3.13, eerste en tweede lid, 3.14, eerste, derde en vierde lid, 3.15, eerste en tweede lid, 3.16, eerste en tweede lid, 3.17, eerste lid, 3.19, tweede lid, 3.22, tweede lid en 3.24 derde lid, van het Besluit zorgverzekering;
 Besluit:    
 
 ### Artikel  I  
@@ -16,17 +16,17 @@ Wijzigt de Regeling zorgverzekering.
 
 ### Artikel  III  
 
-In afwijking van hetgeen daarover in [artikel 3.4, eerste lid, van de Regeling zorgverzekering](../../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) zoals dat met betrekking tot het jaar 2006 gold, was geregeld, bedraagt het bedrag per verzekerde op basis waarvan het macro-deelbedrag vaste kosten van ziekenhuisverpleging over het jaar 2006 mede wordt vastgesteld: € 36,59. 
+In afwijking van hetgeen daarover in artikel 3.4, eerste lid, van de Regeling zorgverzekering zoals dat met betrekking tot het jaar 2006 gold, was geregeld, bedraagt het bedrag per verzekerde op basis waarvan het macro-deelbedrag vaste kosten van ziekenhuisverpleging over het jaar 2006 mede wordt vastgesteld: € 36,59. 
 
 ### Artikel  IV  
 
-In afwijking van hetgeen daarover in [artikel 3.9 van de Regeling zorgverzekering](../../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) zoals dat met betrekking tot het jaar 2007 gold, was geregeld, worden de variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp ten behoeve van de vaststelling van de vereveningsbijdrage over het jaar 2007 als volgt herberekend: 
+In afwijking van hetgeen daarover in artikel 3.9 van de Regeling zorgverzekering zoals dat met betrekking tot het jaar 2007 gold, was geregeld, worden de variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp ten behoeve van de vaststelling van de vereveningsbijdrage over het jaar 2007 als volgt herberekend: 
 
 1. Ter bepaling van de variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp merkt het Zorginstituut 87,5 procent van de kostencomponent van de onderhandelbare dbc-tarieven, onafhankelijk van het type instelling of zorgverlener dat deze dbc levert, aan als variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp.  
 
 2. Van de kostencomponent van niet-onderhandelbare dbc-tarieven in algemene en academische ziekenhuizen, alsmede van het Oogziekenhuis, merkt het Zorginstituut een door hem per ziekenhuis vast te stellen percentage aan als variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp.  
 
-3. Van de kostencomponent van de kosten van dbc’s, geleverd door instellingen die meedoen aan experimenten in de zin van de [Wet marktordening gezondheidszorg](../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md), die niet vallen onder de reguliere onderhandelbare dbc’s, merkt het Zorginstituut een door hem per ziekenhuis vast te stellen percentage aan als variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp.  
+3. Van de kostencomponent van de kosten van dbc’s, geleverd door instellingen die meedoen aan experimenten in de zin van de Wet marktordening gezondheidszorg, die niet vallen onder de reguliere onderhandelbare dbc’s, merkt het Zorginstituut een door hem per ziekenhuis vast te stellen percentage aan als variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp.  
 
 4. Het Zorginstituut merkt de kostencomponent van de vaste bedragen ter verrekening van de in 2007 gerealiseerde opbrengstresultaten voor een door hem per instelling voor medisch specialistische zorg vast te stellen percentage aan als variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp.  
 
@@ -40,7 +40,7 @@ In afwijking van hetgeen daarover in [artikel 3.9 van de Regeling zorgverzekeri
 
 9. Het Zorginstituut betrekt de renteheffingstarieven niet bij de variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp.  
 
-10. Het Zorginstituut past hogekostencompensatie toe, overeenkomstig [artikel 3.12 van de Regeling zorgverzekering](../../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) zoals dit met betrekking tot het jaar 2007 luidde.  
+10. Het Zorginstituut past hogekostencompensatie toe, overeenkomstig artikel 3.12 van de Regeling zorgverzekering zoals dit met betrekking tot het jaar 2007 luidde.  
 
 11. Na toepassing van het tiende lid past het Zorginstituut op door hem te bepalen wijze generieke verevening toe ter grootte van 30 procent.  
 
@@ -50,9 +50,9 @@ In afwijking van hetgeen daarover in [artikel 3.9 van de Regeling zorgverzekeri
 
 ### Artikel  V  
 
-In afwijking van hetgeen daarover in [artikel 3.10 van de Regeling zorgverzekering](../../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) zoals dat met betrekking tot het jaar 2007 gold, was geregeld, worden de vaste kosten van ziekenhuisverpleging ten behoeve van de vaststelling van de vereveningsbijdrage over het jaar 2007 als volgt herberekend: 
+In afwijking van hetgeen daarover in artikel 3.10 van de Regeling zorgverzekering zoals dat met betrekking tot het jaar 2007 gold, was geregeld, worden de vaste kosten van ziekenhuisverpleging ten behoeve van de vaststelling van de vereveningsbijdrage over het jaar 2007 als volgt herberekend: 
 
-1. Het Zorginstituut baseert de herberekening per zorgverzekeraar van het deelbedrag vaste kosten van ziekenhuisverpleging samenhangend met overige vaste kosten, bedoeld in [artikel 3.4, tweede lid, van de Regeling zorgverzekering](../../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) zoals dat met betrekking tot het jaar 2007 luidde, op de overige vaste kosten in het jaar 2006.  
+1. Het Zorginstituut baseert de herberekening per zorgverzekeraar van het deelbedrag vaste kosten van ziekenhuisverpleging samenhangend met overige vaste kosten, bedoeld in artikel 3.4, tweede lid, van de Regeling zorgverzekering zoals dat met betrekking tot het jaar 2007 luidde, op de overige vaste kosten in het jaar 2006.  
 
 2. Ter bepaling van de vaste kosten van ziekenhuisverpleging merkt het Zorginstituut 12,5 procent van de kostencomponent van de onderhandelbare dbc-tarieven, onafhankelijk van het type instelling of zorgverlener dat deze dbc levert, aan als vaste kosten van ziekenhuisverpleging.  
 
@@ -60,7 +60,7 @@ In afwijking van hetgeen daarover in [artikel 3.10 van de Regeling zorgverzeker
 
 4. Het percentage per ziekenhuis, bedoeld in het derde lid, is gelijk aan 100 minus het percentage, bedoeld in artikel IV, tweede lid.  
 
-5 Van de kostencomponent van de kosten van dbc’s, geleverd door instellingen die meedoen aan experimenten in de zin van de [Wet marktordening gezondheidszorg](../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md), die niet vallen onder de reguliere onderhandelbare dbc’s, merkt het Zorginstituut een door hem per ziekenhuis vast te stellen percentage aan als vaste kosten van ziekenhuisverpleging.  
+5 Van de kostencomponent van de kosten van dbc’s, geleverd door instellingen die meedoen aan experimenten in de zin van de Wet marktordening gezondheidszorg, die niet vallen onder de reguliere onderhandelbare dbc’s, merkt het Zorginstituut een door hem per ziekenhuis vast te stellen percentage aan als vaste kosten van ziekenhuisverpleging.  
 
 6. Het percentage per instelling, bedoeld in het vijfde lid, is gelijke aan 100 minus het percentage, bedoeld in artikel IV, derde lid.  
 
@@ -78,13 +78,13 @@ In afwijking van hetgeen daarover in [artikel 3.10 van de Regeling zorgverzeker
 
 ### Artikel  VI  
 
-In afwijking van hetgeen daarover in [artikel 3.9 van de Regeling zorgverzekering](../../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) zoals dat met betrekking tot het jaar 2008 gold, was geregeld, worden de variabele kosten van ziekenhuisverpleging en de kosten van specialistische hulp ten behoeve van de vaststelling van de vereveningsbijdrage over het jaar 2008 als volgt herberekend: 
+In afwijking van hetgeen daarover in artikel 3.9 van de Regeling zorgverzekering zoals dat met betrekking tot het jaar 2008 gold, was geregeld, worden de variabele kosten van ziekenhuisverpleging en de kosten van specialistische hulp ten behoeve van de vaststelling van de vereveningsbijdrage over het jaar 2008 als volgt herberekend: 
 
 1. Ter bepaling van de variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp merkt het Zorginstituut 100 procent van de kostencomponent van de onderhandelbare dbc-tarieven, onafhankelijk van het type instelling of zorgverlener dat deze dbc levert, aan als variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp.  
 
 2. Van de kostencomponent van niet-onderhandelbare dbc-tarieven in algemene en academische ziekenhuizen, alsmede van het Oogziekenhuis merkt het Zorginstituut een door hem per ziekenhuis vast te stellen percentage aan als variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp.  
 
-3. Van de kostencomponent van de kosten van dbc’s, geleverd door instellingen die meedoen aan experimenten in de zin van de [Wet marktordening gezondheidszorg](../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md), die niet vallen onder de reguliere onderhandelbare dbc’s, merkt het Zorginstituut een door hem per ziekenhuis vast te stellen percentage aan als variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp.  
+3. Van de kostencomponent van de kosten van dbc’s, geleverd door instellingen die meedoen aan experimenten in de zin van de Wet marktordening gezondheidszorg, die niet vallen onder de reguliere onderhandelbare dbc’s, merkt het Zorginstituut een door hem per ziekenhuis vast te stellen percentage aan als variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp.  
 
 4. Het Zorginstituut merkt de kostencomponent van de vaste bedragen ter verrekening van de in 2008 gerealiseerde opbrengstresultaten voor een door hem per instelling voor medisch specialistische zorg vast te stellen percentage aan als variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp.  
 
@@ -102,7 +102,7 @@ c. de kostencomponent van de vaste bedragen ter verrekening van de in 2008 gerea
 
 8. Het Zorginstituut betrekt de renteheffingstarieven niet bij de variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp.  
 
-9. Het Zorginstituut past hogekostencompensatie toe, overeenkomstig [artikel 3.13 van de Regeling zorgverzekering](../../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) zoals dit met betrekking tot het jaar 2008 luidde.  
+9. Het Zorginstituut past hogekostencompensatie toe, overeenkomstig artikel 3.13 van de Regeling zorgverzekering zoals dit met betrekking tot het jaar 2008 luidde.  
 
 10. Het Zorginstituut calculeert 50 procent na op het verschil tussen de variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp, vastgesteld ingevolge het eerste tot en met achtste lid, en het resultaat na toepassing van het negende lid.  
 
@@ -110,15 +110,15 @@ c. de kostencomponent van de vaste bedragen ter verrekening van de in 2008 gerea
 
 ### Artikel  VII  
 
-In afwijking van hetgeen daarover in [artikel 3.10 van de Regeling zorgverzekering](../../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) zoals dat met betrekking tot het jaar 2008 gold, was geregeld, worden vaste kosten van ziekenhuisverpleging ten behoeve van de vaststelling van de vereveningsbijdrage over het jaar 2008 als volgt herberekend: 
+In afwijking van hetgeen daarover in artikel 3.10 van de Regeling zorgverzekering zoals dat met betrekking tot het jaar 2008 gold, was geregeld, worden vaste kosten van ziekenhuisverpleging ten behoeve van de vaststelling van de vereveningsbijdrage over het jaar 2008 als volgt herberekend: 
 
-1. Het Zorginstituut baseert de herberekening per zorgverzekeraar van het deelbedrag vaste kosten van ziekenhuisverpleging, samenhangend met overige vaste kosten, bedoeld in [artikel 3.4, tweede lid, van de Regeling zorgverzekering](../../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) zoals dat met betrekking tot het jaar 2008 luidde, op de overige vaste kosten in het jaar 2007.  
+1. Het Zorginstituut baseert de herberekening per zorgverzekeraar van het deelbedrag vaste kosten van ziekenhuisverpleging, samenhangend met overige vaste kosten, bedoeld in artikel 3.4, tweede lid, van de Regeling zorgverzekering zoals dat met betrekking tot het jaar 2008 luidde, op de overige vaste kosten in het jaar 2007.  
 
 2. Van de kostencomponent van de niet-onderhandelbare dbc-tarieven in algemene en academische ziekenhuizen, alsmede van het Oogziekenhuis, merkt het Zorginstituut een door hem per ziekenhuis vast te stellen percentage aan als vaste kosten van ziekenhuisverpleging.  
 
 3. Het percentage per ziekenhuis, bedoeld in het tweede lid, is gelijk aan 100 minus het percentage, bedoeld in artikel VI, tweede lid.  
 
-4. Van de kostencomponent van de kosten van dbc’s, geleverd door instellingen die meedoen aan experimenten in de zin van de [Wet marktordening gezondheidszorg](../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md), die niet vallen onder de reguliere onderhandelbare dbc’s, merkt het Zorginstituut een door hem per ziekenhuis vast te stellen percentage aan als vaste kosten van ziekenhuisverpleging.  
+4. Van de kostencomponent van de kosten van dbc’s, geleverd door instellingen die meedoen aan experimenten in de zin van de Wet marktordening gezondheidszorg, die niet vallen onder de reguliere onderhandelbare dbc’s, merkt het Zorginstituut een door hem per ziekenhuis vast te stellen percentage aan als vaste kosten van ziekenhuisverpleging.  
 
 5. Het percentage per instelling, bedoeld in het vierde lid, is gelijke aan 100 minus het percentage, bedoeld in artikel VI, derde lid.  
 
@@ -146,7 +146,7 @@ c. de kostencomponent van de vaste bedragen ter verrekening van de in 2008 gerea
 
 ### Artikel  VIII  
 
-In afwijking van hetgeen daarover in [artikel 3.11 van de Regeling zorgverzekering](../../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) zoals dat met betrekking tot het jaar 2008 gold, was geregeld, worden de kosten van geneeskundige geestelijke gezondheidszorg ten behoeve van de vaststelling van de vereveningsbijdrage over het jaar 2008 als volgt herberekend: 
+In afwijking van hetgeen daarover in artikel 3.11 van de Regeling zorgverzekering zoals dat met betrekking tot het jaar 2008 gold, was geregeld, worden de kosten van geneeskundige geestelijke gezondheidszorg ten behoeve van de vaststelling van de vereveningsbijdrage over het jaar 2008 als volgt herberekend: 
 
 1. Het Zorginstituut merkt de vaste bedragen ter verrekening van de in 2008 gerealiseerde opbrengsresultaten van gebudgetteerde instellingen voor geneeskundige geestelijke gezondheidszorg voor 100 procent aan als kosten voor geneeskundige geestelijke gezondheidszorg.  
 
@@ -154,13 +154,13 @@ In afwijking van hetgeen daarover in [artikel 3.11 van de Regeling zorgverzeker
 
 ### Artikel  IX  
 
-In afwijking van hetgeen daarover in [artikel 3.15 van de Regeling zorgverzekering](../../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) zoals dat met betrekking tot het jaar 2009 gold, was geregeld, worden de variabele kosten van ziekenhuisverpleging en de kosten van specialistische hulp ten behoeve van de vaststelling van de vereveningsbijdrage over het jaar 2009 als volgt herberekend: 
+In afwijking van hetgeen daarover in artikel 3.15 van de Regeling zorgverzekering zoals dat met betrekking tot het jaar 2009 gold, was geregeld, worden de variabele kosten van ziekenhuisverpleging en de kosten van specialistische hulp ten behoeve van de vaststelling van de vereveningsbijdrage over het jaar 2009 als volgt herberekend: 
 
-1. Het Zorginstituut merkt de kostencomponent van onderhandelbare dbc-tarieven, met uitzondering van de B-dbc’s bedoeld in [artikel 3.1](../../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) zoals dat met betrekking tot 2009 gold, alsmede dekosten voor de Stichting Kwaliteitsgelden Medisch Specialisten,voor 100 procent aan als variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp.  
+1. Het Zorginstituut merkt de kostencomponent van onderhandelbare dbc-tarieven, met uitzondering van de B-dbc’s bedoeld in artikel 3.1 zoals dat met betrekking tot 2009 gold, alsmede dekosten voor de Stichting Kwaliteitsgelden Medisch Specialisten,voor 100 procent aan als variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp.  
 
 2. Van de kostencomponent van niet-onderhandelbare dbc-tarieven in algemene en academische ziekenhuizen, alsmede van het Oogziekenhuis, merkt het Zorginstituut een door hem per ziekenhuis vast te stellen percentage aan als variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp.  
 
-3. Van de kostencomponent van de kosten van dbc’s, geleverd door instellingen die meedoen aan experimenten in de zin van de Wet marktordening gezondheidszorg, die niet vallen onder de reguliere onderhandelbare dbc’s en niet bedoeld zijn in [artikel 3.1](../../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) zoals dat met betrekking tot 2009 gold, merkt het Zorginstituut een door hem per ziekenhuis vast te stellen percentage aan als variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp.  
+3. Van de kostencomponent van de kosten van dbc’s, geleverd door instellingen die meedoen aan experimenten in de zin van de Wet marktordening gezondheidszorg, die niet vallen onder de reguliere onderhandelbare dbc’s en niet bedoeld zijn in artikel 3.1 zoals dat met betrekking tot 2009 gold, merkt het Zorginstituut een door hem per ziekenhuis vast te stellen percentage aan als variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp.  
 
 4. Het Zorginstituut merkt de kostencomponent van de vaste bedragen ter verrekening van de in 2009 gerealiseerde opbrengstresultaten voor een door hem per instelling voor medisch specialistische zorg vast te stellen percentage aan als variabele kosten van ziekenhuisverpleging.  
 
@@ -176,21 +176,21 @@ b. alle kosten van overige instellingen op het gebied van ziekenhuisverpleging v
 
 c. de kostencomponent van de vaste bedragen ter verrekening van de in 2009 gerealiseerde opbrengstresultaten van centra voor klinische genetica, radiotherapie, epilepsie, dialyse en revalidatie.    
 
-8. Het Zorginstituut merkt de honorariumcomponent van onderhandelbare dbc’s, met uitzondering van de B-dbc’s bedoeld in [artikel 3.1](../../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) zoals dat met betrekking tot het jaar 2009 gold, dan wel niet-onderhandelbare dbc’s, alsmede eventuele overige declaraties van vrijgevestigde specialisten, met uitzondering van de honorariumcomponent van overige trajecten en verrichtingen en van ondersteunende en overige producten waarvoor een percentage van 75 wordt aangehouden, volledig aan als variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp.  
+8. Het Zorginstituut merkt de honorariumcomponent van onderhandelbare dbc’s, met uitzondering van de B-dbc’s bedoeld in artikel 3.1 zoals dat met betrekking tot het jaar 2009 gold, dan wel niet-onderhandelbare dbc’s, alsmede eventuele overige declaraties van vrijgevestigde specialisten, met uitzondering van de honorariumcomponent van overige trajecten en verrichtingen en van ondersteunende en overige producten waarvoor een percentage van 75 wordt aangehouden, volledig aan als variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp.  
 
 9. Het Zorginstituut betrekt de renteheffingstarieven niet bij de variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp.  
 
-10. Het Zorginstituut past overeenkomstig [artikel 3.13](../../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) zoals dat met betrekking tot het jaar 2009 gold, hogekostencompensatie toe op het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp.  
+10. Het Zorginstituut past overeenkomstig artikel 3.13 zoals dat met betrekking tot het jaar 2009 gold, hogekostencompensatie toe op het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp.  
 
 11. Het Zorginstituut calculeert 40 procent na op het verschil tussen de variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp, vastgesteld ingevolge het eerste tot en met negende lid enerzijds, en het herberekende deelbedrag van variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp na toepassing van het tiende lid anderzijds.   
 
 ### Artikel  X  
 
-In afwijking van hetgeen daarover in [artikel 3.16 van de Regeling zorgverzekering](../../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) zoals dat met betrekking tot het jaar 2009 gold, was geregeld, wordt het antwoord op de vraag of daar bedoelde nacalculatie dient plaats te vinden niet mede bepaald aan de hand van toepassing van het tiende lid van [artikel 3.15](../../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md), maar aan de hand van toepassing van het elfde lid van artikel IX. 
+In afwijking van hetgeen daarover in artikel 3.16 van de Regeling zorgverzekering zoals dat met betrekking tot het jaar 2009 gold, was geregeld, wordt het antwoord op de vraag of daar bedoelde nacalculatie dient plaats te vinden niet mede bepaald aan de hand van toepassing van het tiende lid van artikel 3.15, maar aan de hand van toepassing van het elfde lid van artikel IX. 
 
 ### Artikel  XI  
 
-In afwijking van hetgeen daarover in [artikel 3.17 van de Regeling zorgverzekering](../../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) zoals dat met betrekking tot het jaar 2009 gold, was geregeld, worden vaste kosten van ziekenhuisverpleging ten behoeve van de vaststelling van de vereveningsbijdrage over het jaar 2009 als volgt herberekend: 
+In afwijking van hetgeen daarover in artikel 3.17 van de Regeling zorgverzekering zoals dat met betrekking tot het jaar 2009 gold, was geregeld, worden vaste kosten van ziekenhuisverpleging ten behoeve van de vaststelling van de vereveningsbijdrage over het jaar 2009 als volgt herberekend: 
 
 1. Het Zorginstituut baseert de herberekening per zorgverzekeraar van het deelbedrag vaste kosten van ziekenhuisverpleging op de vaste kosten in het jaar 2008.  
 
@@ -200,7 +200,7 @@ In afwijking van hetgeen daarover in [artikel 3.17 van de Regeling zorgverzeker
 
 4. Het percentage per ziekenhuis, bedoeld in het derde lid, is gelijk aan 100 minus het percentage, bedoeld in artikel IX, tweede lid.  
 
-5. Van de kostencomponent van de kosten van dbc’s, geleverd door instellingen die meedoen aan experimenten in de zin van de [Wet marktordening gezondheidszorg](../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) en die niet zijn bedoeld in [artikel 3.1](../../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) zoals dat met betrekking tot 2009 gold, merkt het Zorginstituut een door hem per ziekenhuis vast te stellen percentage aan als vaste kosten van ziekenhuisverpleging.  
+5. Van de kostencomponent van de kosten van dbc’s, geleverd door instellingen die meedoen aan experimenten in de zin van de Wet marktordening gezondheidszorg en die niet zijn bedoeld in artikel 3.1 zoals dat met betrekking tot 2009 gold, merkt het Zorginstituut een door hem per ziekenhuis vast te stellen percentage aan als vaste kosten van ziekenhuisverpleging.  
 
 6. Het percentage per instelling, bedoeld in het vijfde lid, is gelijk aan 100 minus het percentage, bedoeld in artikel IX, derde lid.  
 
@@ -228,7 +228,7 @@ c. de kostencomponent van de vaste bedragen ter verrekening van de in 2009 gerea
 
 ### Artikel  XII  
 
-In afwijking van hetgeen daarover in [artikel 3.18 van de Regeling zorgverzekering](../../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) zoals dat met betrekking tot het jaar 2009 gold, was geregeld, worden de kosten van geneeskundige geestelijke gezondheidszorg ten behoeve van de vaststelling van de vereveningsbijdrage over het jaar 2009 als volgt herberekend: 
+In afwijking van hetgeen daarover in artikel 3.18 van de Regeling zorgverzekering zoals dat met betrekking tot het jaar 2009 gold, was geregeld, worden de kosten van geneeskundige geestelijke gezondheidszorg ten behoeve van de vaststelling van de vereveningsbijdrage over het jaar 2009 als volgt herberekend: 
 
 1. Het Zorginstituut merkt de vaste bedragen ter verrekening van in 2009 gerealiseerde opbrengsresultaten van gebudgetteerde instellingen voor geneeskundige geestelijke gezondheidszorg voor 100 procent aan als kosten voor geneeskundige geestelijke gezondheidszorg.  
 
@@ -240,7 +240,7 @@ Wijzigt de Wijzigingsregeling Regeling zorgverzekering (vereveningsbijdrage zorg
 
 ### Artikel  XIV  
 
-[Hoofdstuk 3 van de Regeling zorgverzekering](../../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md), zoals dat na toepassing van artikel I juncto XV, derde lid, luidde op de dag voor de inwerkingtreding van artikel II, blijft van toepassing voor de vaststelling van de voor zorgverzekeraars geldende vereveningsbijdragen over 2010. 
+Hoofdstuk 3 van de Regeling zorgverzekering, zoals dat na toepassing van artikel I juncto XV, derde lid, luidde op de dag voor de inwerkingtreding van artikel II, blijft van toepassing voor de vaststelling van de voor zorgverzekeraars geldende vereveningsbijdragen over 2010. 
 
 ### Artikel  XV  
 

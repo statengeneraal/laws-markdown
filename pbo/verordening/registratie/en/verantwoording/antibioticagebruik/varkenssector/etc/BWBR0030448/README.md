@@ -3,7 +3,7 @@
 ##Verordening van het bestuur van het Productschap Vee en Vlees van 30 juni 2011 houdende verplichtingen tot registratie en verantwoording van het gebruik van antibiotica in de varkenssector (Verordening registratie en verantwoording antibioticagebruik varkenssector (PVV) 2011)
 
 Het bestuur van het Productschap Vee en Vlees; 
-Gelet op de [artikelen 93](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [104 van de Wet op de bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [artikel 10 van het Instellingsbesluit Productschap Vee en Vlees](../../../../../../../../../AMvB/instellingsbesluit/productschap/vee/en/vlees/BWBR0016491/README.md);
+Gelet op de artikelen 93, 95 en 104 van de Wet op de bedrijfsorganisatie en artikel 10 van het Instellingsbesluit Productschap Vee en Vlees;
 
 Gehoord de Adviescommissie Varkens en de Commissie Varkenshouderij,
 Besluit:  
@@ -14,7 +14,7 @@ In deze verordening wordt verstaan onder:
 
 | --- | --- | --- | --- |
 |:---|:---|:---|:---|
-| a.  | UBN  |: | uniek bedrijfsnummer als gedefinieerd in [artikel 1, onder ee., van de Regeling identificatie en registratie dieren](../../../../../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md) (Stcrt. 2004, 242);  |
+| a.  | UBN  |: | uniek bedrijfsnummer als gedefinieerd in artikel 1, onder ee., van de Regeling identificatie en registratie dieren (Stcrt. 2004, 242);  |
 | b.  | varken  |: | dier behorende tot de familie Suidae (Gray, 1821);  |
 | c.  | antibioticum  |: | antimicrobieel diergeneesmiddel;  |
 | d.  | ondernemer  |: | natuurlijke of rechtspersoon die een onderneming drijft waarvoor het productschap is ingesteld;  |
@@ -100,16 +100,16 @@ e. voor het overige alle medewerking te verlenen ter vervuling van de aan de toe
 
 ###Artikel  7 
 
-Op overtreding van het bepaalde bij of krachtens deze verordening worden tuchtrechtelijke maatregelen gesteld zoals voorzien in de [Wet tuchtrechtspraak bedrijfsorganisatie 2004](../../../../../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md).
+Op overtreding van het bepaalde bij of krachtens deze verordening worden tuchtrechtelijke maatregelen gesteld zoals voorzien in de Wet tuchtrechtspraak bedrijfsorganisatie 2004.
 
 ####Gegevensverwerking en rapportage
 
 ###Artikel  8 
 
 1.  De door of namens de houder aangeleverde gegevens in de databank en de controle- en toezichtsresultaten kunnen worden gebruikt in rapportages waarin feiten en statistieken inzake typen en hoeveelheden antibiotica die door dierenartsen in de varkenssector zijn voorgeschreven, worden weergegeven. 
-2.  De voorzitter verleent de Stichting Diergeneesmiddelen Autoriteit desgevraagd inzage in de geregistreerde gegevens van de databank waarvoor hij verantwoordelijk is voor zover zulks in overeenstemming is met de [Wet bescherming persoonsgegevens](../../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md). 
+2.  De voorzitter verleent de Stichting Diergeneesmiddelen Autoriteit desgevraagd inzage in de geregistreerde gegevens van de databank waarvoor hij verantwoordelijk is voor zover zulks in overeenstemming is met de Wet bescherming persoonsgegevens. 
 3.  De gegenereerde gegevens worden verwerkt in een periodieke rapportage die ten minste één maal per jaar wordt uitgebracht.
-4.  De voorzitter kan aan de Nederlandse Voedsel en Waren Autoriteit (NVWA) desgevraagd de in de databank geregistreerde gegevens betreffende individuele houders verstrekken voor zover zulks in overeenstemming is met de [Wet bescherming persoonsgegevens](../../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).
+4.  De voorzitter kan aan de Nederlandse Voedsel en Waren Autoriteit (NVWA) desgevraagd de in de databank geregistreerde gegevens betreffende individuele houders verstrekken voor zover zulks in overeenstemming is met de Wet bescherming persoonsgegevens.
 
 ####Slotbepalingen
 

@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Veiligheid en Justitie van 21 april 2011, nr. DGV/DPV/P&M 2011-2000113644, houdende de vaststelling van een landelijk sociaal statuut politie (Regeling landelijk sociaal statuut)
 
 De Minister van Veiligheid en Justitie,  
-Gelet op de [artikelen 39, tweede lid](../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), [55i, vijfde lid](../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), en [55u van het Besluit algemene rechtspositie politie](../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) en [artikel 6, zesde lid Besluit reis-, verblijf- en verhuiskosten politie](../../../../../../../AMvB/besluit/reis-/verblijf-/en/verhuiskosten/politie/BWBR0024064/README.md);
+Gelet op de artikelen 39, tweede lid, 55i, vijfde lid, en 55u van het Besluit algemene rechtspositie politie en artikel 6, zesde lid Besluit reis-, verblijf- en verhuiskosten politie;
 Besluit:    
 
 ### Artikel  1  
@@ -12,21 +12,21 @@ Besluit:
 
 In de regeling wordt verstaan onder: 
 
-a.  *ambtenaar:* ambtenaar, als bedoeld in [artikel 1, eerste lid, onder i, van het Barp](../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) met uitzondering van de vakantiewerker;  
+a.  *ambtenaar:* ambtenaar, als bedoeld in artikel 1, eerste lid, onder i, van het Barp met uitzondering van de vakantiewerker;  
 
-b.  *Barp:* [Besluit algemene rechtspositie politie](../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md);  
+b.  *Barp:* Besluit algemene rechtspositie politie;  
 
-c.  *bevoegd gezag:* bevoegd gezag als bedoeld in [artikel 1, eerste lid, onder l, van het Barp](../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md);  
+c.  *bevoegd gezag:* bevoegd gezag als bedoeld in artikel 1, eerste lid, onder l, van het Barp;  
 
-d.  *Brvvp:* [Besluit reis-, verblijf-, en verhuiskosten politie](../../../../../../../AMvB/besluit/reis-/verblijf-/en/verhuiskosten/politie/BWBR0024064/README.md);  
+d.  *Brvvp:* Besluit reis-, verblijf-, en verhuiskosten politie;  
 
 e.  *bezwaaradviescommissie:* bezwaaradviescommissie als bedoeld in artikel 12, eerste lid, dan wel een bovenregionaal ingestelde bezwaaradviescommissie;  
 
-f.  *CGOP:* Commissie voor centraal georganiseerd overleg in politie- en ambtenarenzaken, bedoeld in [artikel 2 van het Besluit overleg en medezeggenschap politie 1994](../../../../../../../AMvB/besluit/overleg/en/medezeggenschap/politie/1994/BWBR0006518/README.md);  
+f.  *CGOP:* Commissie voor centraal georganiseerd overleg in politie- en ambtenarenzaken, bedoeld in artikel 2 van het Besluit overleg en medezeggenschap politie 1994;  
 
-g.  *functie:* functie als bedoeld in [artikel 1, onderdeel hh, van het Besluit algemene rechtspositie politie](../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md); 
+g.  *functie:* functie als bedoeld in artikel 1, onderdeel hh, van het Besluit algemene rechtspositie politie; 
 
-h.  *herplaatsingskandidaat:* herplaatsingskandidaat als bedoeld in de [artikelen 55k](../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), [55l, eerste lid en derde lid](../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), en [55lb, vierde lid, van het Barp](../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md);  
+h.  *herplaatsingskandidaat:* herplaatsingskandidaat als bedoeld in de artikelen 55k, 55l, eerste lid en derde lid, en 55lb, vierde lid, van het Barp;  
 
 i.  *minister:* minister van Veiligheid en Justitie;  
 
@@ -34,25 +34,27 @@ j.  *oorspronkelijke functie:* functie waarin de ambtenaar direct voorafgaand aa
 
 k.  *pac:* plaatsingsadviescommissie als bedoeld in artikel 5 van deze regeling;  
 
-l.  *passende functie:* een functie als bedoeld in [artikel 55o, van het Barp](../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md);  
+l.  *passende functie:* een functie als bedoeld in artikel 55o, van het Barp;  
 
-m.  *politievakorganisaties:* de politievakorganisaties vertegenwoordigd in de Commissie voor georganiseerd overleg in politie-ambtenarenzaken, als bedoeld in [artikel 2 van het Besluit overleg medezeggenschap politie 1994](../../../../../../../AMvB/besluit/overleg/en/medezeggenschap/politie/1994/BWBR0006518/README.md);  
+m.  *politievakorganisaties:* de politievakorganisaties vertegenwoordigd in de Commissie voor georganiseerd overleg in politie-ambtenarenzaken, als bedoeld in artikel 2 van het Besluit overleg medezeggenschap politie 1994;  
 
-n.  *pre-herplaatsingskandidaat:* pre-herplaatsingskandidaat als bedoeld in [artikel 55ja van het Barp](../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md);  
+n.  *pre-herplaatsingskandidaat:* pre-herplaatsingskandidaat als bedoeld in artikel 55ja van het Barp;  
 
-o.  *reorganisatie:* reorganisatie als bedoeld in [artikel 55i, tweede en derde lid](../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), of [artikel 55ia, eerste lid, van het Barp](../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md);  
+o.  *reorganisatie:* reorganisatie als bedoeld in artikel 55i, tweede en derde lid, of artikel 55ia, eerste lid, van het Barp;  
 
-p.  *reorganisatie Politiewet 2012:* de reorganisatie in verband met de totstandkoming van de politie als bedoeld in [artikel 1, onderdeel b, van de Politiewet 2012](../../../../../../../wet/politiewet/2012/BWBR0031788/README.md), welke aanvangt tussen 1 januari 2014 en 31 december 2014; 
+p.  *reorganisatie Politiewet 2012:* de reorganisatie in verband met de totstandkoming van de politie als bedoeld in artikel 1, onderdeel b, van de Politiewet 2012, welke aanvangt tussen 1 januari 2014 en 31 december 2014; 
 
 q.  *reorganisatieplan:* een door een bevoegd gezag vastgesteld plan als bedoeld in artikel 4 van deze regeling;  
 
-r.  *sleutelfunctie:* een functie als bedoeld in [artikel 55jb, eerste lid, van het Barp](../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md).   
+r.  *sleutelfunctie:* een functie als bedoeld in artikel 55jb, eerste lid, van het Barp;  
+
+s.  *taakgebied:* het werkdomein of een deel(bewerking) daarvan, dat bij de inrichting van de organisatie in een concreet organisatieonderdeel is belegd.  
 
 ### Artikel  1a  
 
-####Reorganisatie [Politiewet 2012](../../../../../../../wet/politiewet/2012/BWBR0031788/README.md)
+####Reorganisatie Politiewet 2012
 
-1.  In afwijking van artikel 1, onderdeel j, wordt voor de reorganisatie [Politiewet 2012](../../../../../../../wet/politiewet/2012/BWBR0031788/README.md) als oorspronkelijke functie aangemerkt de functie waarin de ambtenaar was aangesteld op 1 januari 2012 tenzij: 
+1.  In afwijking van artikel 1, onderdeel j, wordt voor de reorganisatie Politiewet 2012 als oorspronkelijke functie aangemerkt de functie waarin de ambtenaar was aangesteld op 1 januari 2012 tenzij: 
 
 a. de ambtenaar aantoont dat hij na die datum formeel van functie is gewijzigd zonder dat deze wijziging verband hield met de voorbereidingen van die reorganisatie, of  
 
@@ -118,13 +120,13 @@ l. maatregelen met betrekking tot een tijdige en optimale voorlichting van de be
 
 ####Reorganisatiecommissie
 
-1.  De reorganisatiecommissie, bedoeld in [artikel 55la, van het Barp](../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), heeft in aanvulling op de in [artikel 55l, vierde lid, van het Barp](../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) genoemde taak, de volgende taken: 
+1.  De reorganisatiecommissie, bedoeld in artikel 55la, van het Barp, heeft in aanvulling op de in artikel 55l, vierde lid, van het Barp genoemde taak, de volgende taken: 
 
-a. Het adviseren van het bevoegd gezag over sleutelfuncties, met dien verstande dat de reorganisatiecommissie toetst of concrete voorstellen van het bevoegd gezag tot aanwijzing van sleutelfuncties voldoen aan de criteria genoemd in [artikel 55jb, eerste lid, Barp](../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md);  
+a. Het adviseren van het bevoegd gezag over sleutelfuncties, met dien verstande dat de reorganisatiecommissie toetst of concrete voorstellen van het bevoegd gezag tot aanwijzing van sleutelfuncties voldoen aan de criteria genoemd in artikel 55jb, eerste lid, Barp;  
 
 b. Het adviseren van de CGOP of het bij een voorgenomen reorganisatie voorgestelde flankerend beleid adequaat is toegepast ter ondervanging van de gevolgen voor de algemene rechtstoestand of de rechtspositie van het personeel dat door het voorgenomen reorganisatiebeleid wordt getroffen; en  
 
-c. Het in het algemeen, gevraagd of ongevraagd adviseren van de CGOP, over al hetgeen bevorderlijk is ten aanzien van het reorganisatieproces in verband met de totstandkoming van de politie als bedoeld in [artikel 1, onderdeel b, van de Politiewet 2012](../../../../../../../wet/politiewet/2012/BWBR0031788/README.md).     
+c. Het in het algemeen, gevraagd of ongevraagd adviseren van de CGOP, over al hetgeen bevorderlijk is ten aanzien van het reorganisatieproces in verband met de totstandkoming van de politie als bedoeld in artikel 1, onderdeel b, van de Politiewet 2012.     
 2.  De voorzitter heeft geen stemrecht.   
 3.  Het bevoegd gezag legt de voorstellen, bedoeld in het eerste lid, onderdeel a, gemotiveerd aan de reorganisatiecommissie voor. Indien het bevoegd gezag het advies van de reorganisatiecommissie niet overneemt of indien de stemmen in de reorganisatiecommissie staken, wordt het advies voorgelegd aan de CGOP.  
 
@@ -134,7 +136,7 @@ c. Het in het algemeen, gevraagd of ongevraagd adviseren van de CGOP, over al he
 
 1.  Het bevoegd gezag stelt een pac in en voorziet de pac van ambtelijke ondersteuning.   
 2.  Het bevoegd gezag is niet verplicht tot het instellen van een pac indien de voorgenomen reorganisatie voor 20 of minder ambtenaren wijziging van de rechtspositie tot gevolg heeft. Voordat het bevoegd gezag beslist dat een pac achterwege kan blijven, wint hij advies in bij de reorganisatiecommissie, bedoeld in artikel 4a.   
-3.  Bij een voorgenomen reorganisatie die voor meer dan 20 ambtenaren wijziging van de rechtspositie tot gevolg heeft kan in bijzondere gevallen met instemming van de in [artikel 2 van het Besluit overleg en medezeggenschap politie 1994](../../../../../../../AMvB/besluit/overleg/en/medezeggenschap/politie/1994/BWBR0006518/README.md) bedoelde Commissie voor georganiseerd overleg in politieambtenarenzaken, de minister besluiten dat het bevoegd gezag ontheven wordt van de verplichting tot het instellen van een pac.   
+3.  Bij een voorgenomen reorganisatie die voor meer dan 20 ambtenaren wijziging van de rechtspositie tot gevolg heeft kan in bijzondere gevallen met instemming van de in artikel 2 van het Besluit overleg en medezeggenschap politie 1994 bedoelde Commissie voor georganiseerd overleg in politieambtenarenzaken, de minister besluiten dat het bevoegd gezag ontheven wordt van de verplichting tot het instellen van een pac.   
 4.  Bij ontheffing van de verplichting tot het instellen van een pac worden de taken van de pac, als bedoeld in artikel 7 van deze regeling,uitgevoerd door het bevoegd gezag.  
 
 ### Artikel  6  
@@ -174,7 +176,7 @@ f. het adviseren van het bevoegd gezag over de zienswijze van ambtenaren tegen e
 g. het adviseren van het bevoegd gezag over de wijziging van het personeelsplaatsingsplan, indien de adviezen over de zienswijzen van de ambtenaren daartoe aanleiding geven.     
 2.  In het geval de ambtenaar geen functievolger is, of volgens zijn zienswijze ten onrechte als functievolger is aangemerkt, kan de pac beschikken over de voor de reorganisatie relevante gegevens uit het personeelsdossier.   
 3.  Het bevoegd gezag stelt de pac slechts die gegevens van de ambtenaar ter beschikking die van belang zijn voor een goede uitvoering van de taken van de pac en indien de betrokken ambtenaar daartoe het bevoegd gezag toestemming geeft.   
-4.  Indien een functievolger heeft aangegeven voorkeur te hebben voor een plaatsing op een andere plaats van tewerkstelling dan die waarop hij ingevolge [artikel 55lb Barp](../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) zal worden geplaatst, adviseert de pac het bevoegd gezag over de mogelijkheden om aan deze wens tegemoet te komen. Aan deze wens kan slechts tegemoet worden gekomen indien een functievolger met de gewenste plaats van tewerkstelling eveneens de voorkeur heeft uitgesproken voor een andere plaats van tewerkstelling en twee of meerdere functievolgers kunnen worden uitgewisseld.  
+4.  Indien een functievolger heeft aangegeven voorkeur te hebben voor een plaatsing op een andere plaats van tewerkstelling dan die waarop hij ingevolge artikel 55lb Barp zal worden geplaatst, adviseert de pac het bevoegd gezag over de mogelijkheden om aan deze wens tegemoet te komen. Aan deze wens kan slechts tegemoet worden gekomen indien een functievolger met de gewenste plaats van tewerkstelling eveneens de voorkeur heeft uitgesproken voor een andere plaats van tewerkstelling en twee of meerdere functievolgers kunnen worden uitgewisseld.  
 5.  De pac brengt binnen zeven weken, nadat de voorgenomen besluiten, zoals bedoeld in artikel 10 van deze regeling, zijn uitgereikt of verzonden, schriftelijk advies uit aan het bevoegd gezag over de zienswijzen.  
 
 ### Artikel  7a  
@@ -182,9 +184,9 @@ g. het adviseren van het bevoegd gezag over de wijziging van het personeelsplaat
 1.  Een mogelijke herplaatsingskandidaat die belangstelling toont voor een verticaal positieve plaatsing, motiveert zijn belangstelling schriftelijk.   
 2.  De pac adviseert alleen over een verticaal positieve plaatsing wanneer de ambtenaar ervoor zorg draagt dat de pac over de relevante gegevens kan beschikken. Daaronder wordt in ieder geval verstaan: 
 
-a. het verslag van het meest recente gesprek, bedoeld in [artikel 71, eerste lid, van het Barp](../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md);  
+a. het verslag van het meest recente gesprek, bedoeld in artikel 71, eerste lid, van het Barp;  
 
-b. een recente beoordeling, bedoeld in [artikel 71 tweede lid, van het Barp](../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md);  
+b. een recente beoordeling, bedoeld in artikel 71 tweede lid, van het Barp;  
 
 c. het persoonlijk ontwikkelplan;  
 
@@ -201,20 +203,20 @@ f. overige voor de plaatsing relevante gegevens uit het personeelsdossier.
 
 1.  Bij het opstellen van het concept-personeelsplaatsingsplan geschiedt de volgorde van plaatsing in de nieuwe organisatie met inachtneming van de volgende procedure: 
 
-a. de ambtenaar, wiens oorspronkelijke functie als een vergelijkbare of uitwisselbare functie kan worden aangemerkt en die niet boventallig is als bedoeld in [artikel 55l van het Barp](../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) wordt aangemerkt als functievolger en wordt geplaatst op de vergelijkbare of uitwisselbare functie van de nieuwe organisatie;  
+a. de ambtenaar, wiens oorspronkelijke functie als een vergelijkbare of uitwisselbare functie kan worden aangemerkt en die niet boventallig is als bedoeld in artikel 55l van het Barp wordt aangemerkt als functievolger en wordt geplaatst op de vergelijkbare of uitwisselbare functie van de nieuwe organisatie;  
 
-b. de ambtenaar, wiens oorspronkelijke functie als een vergelijkbare of uitwisselbare functie kan worden aangemerkt en die wel boventallig is als bedoeld in [artikel 55l van het Barp](../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) wordt aangewezen als herplaatsingskandidaat;  
+b. de ambtenaar, wiens oorspronkelijke functie als een vergelijkbare of uitwisselbare functie kan worden aangemerkt en die wel boventallig is als bedoeld in artikel 55l van het Barp wordt aangewezen als herplaatsingskandidaat;  
 
 c. de ambtenaar wiens oorspronkelijke functie niet als een vergelijkbare of uitwisselbare functie kan worden aangemerkt en wiens oorspronkelijke functie aldus vervalt, wordt aangewezen als herplaatsingskandidaat.     
-2.  Bij het opstellen van het concept-personeelsplaatsingsplan voor de reorganisatie [Politiewet 2012](../../../../../../../wet/politiewet/2012/BWBR0031788/README.md) geschiedt de volgorde van plaatsing in de nieuwe organisatie, in afwijking van het eerste lid, met inachtneming van de volgende procedure: 
+2.  Bij het opstellen van het concept-personeelsplaatsingsplan voor de reorganisatie Politiewet 2012 geschiedt de volgorde van plaatsing in de nieuwe organisatie, in afwijking van het eerste lid, met inachtneming van de volgende procedure: 
 
-a. de ambtenaar, wiens oorspronkelijke functie als een vergelijkbare of uitwisselbare functie kan worden aangemerkt en die binnen het deelreorganisatiegebied, als bedoeld in [artikel 55ia, derde lid, onder a, van het Barp](../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), waartoe hij behoort niet boventallig is als bedoeld in [artikel 55l van het Barp](../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), wordt aangemerkt als functievolger en wordt in de nieuwe organisatie geplaatst op de vergelijkbare of uitwisselbare functie binnen het deelreorganisatiegebied waartoe hij behoort;  
+a. de ambtenaar, wiens oorspronkelijke functie als een vergelijkbare of uitwisselbare functie kan worden aangemerkt en die binnen het deelreorganisatiegebied, als bedoeld in artikel 55ia, derde lid, onder a, van het Barp, waartoe hij behoort niet boventallig is als bedoeld in artikel 55l van het Barp, wordt aangemerkt als functievolger en wordt in de nieuwe organisatie geplaatst op de vergelijkbare of uitwisselbare functie binnen het deelreorganisatiegebied waartoe hij behoort;  
 
-b. in het geval de ambtenaar, wiens oorspronkelijke functie als een vergelijkbare of uitwisselbare functie kan worden aangemerkt en die binnen het deelreorganisatiegebied, bedoeld in [artikel 55ia, derde lid, onder a, van het Barp](../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), waartoe hij behoort, wel boventallig is als bedoeld in [artikel 55l van het Barp](../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), wordt in de tweede fase van de reorganisatie bezien of de ambtenaar aangemerkt kan worden als functievolger en in de nieuwe organisatie kan worden geplaatst op een vergelijkbare of uitwisselbare functie binnen het landelijk reorganisatiegebied, bedoeld in artikel 55ia, derde lid, onder b, van het Barp;  
+b. in het geval de ambtenaar, wiens oorspronkelijke functie als een vergelijkbare of uitwisselbare functie kan worden aangemerkt en die binnen het deelreorganisatiegebied, bedoeld in artikel 55ia, derde lid, onder a, van het Barp, waartoe hij behoort, wel boventallig is als bedoeld in artikel 55l van het Barp, wordt in de tweede fase van de reorganisatie bezien of de ambtenaar aangemerkt kan worden als functievolger en in de nieuwe organisatie kan worden geplaatst op een vergelijkbare of uitwisselbare functie binnen het landelijk reorganisatiegebied, bedoeld in artikel 55ia, derde lid, onder b, van het Barp;  
 
-c. in het geval de oorspronkelijke functie van de ambtenaar vervalt binnen het deelreorganisatiegebied, als bedoeld in [artikel 55ia, derde lid, onder a, van het Barp](../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), waartoe hij behoort, en deze functie dus niet als een vergelijkbare of uitwisselbare functie kan worden aangemerkt, wordt in de tweede fase van de reorganisatie bezien of de ambtenaar aangemerkt kan worden als functievolger en in de nieuwe organisatie kan worden geplaatst op een vergelijkbare of uitwisselbare functie binnen het landelijk reorganisatiegebied, bedoeld in artikel 55ia, derde lid, onder b, van het Barp;  
+c. in het geval de oorspronkelijke functie van de ambtenaar vervalt binnen het deelreorganisatiegebied, als bedoeld in artikel 55ia, derde lid, onder a, van het Barp, waartoe hij behoort, en deze functie dus niet als een vergelijkbare of uitwisselbare functie kan worden aangemerkt, wordt in de tweede fase van de reorganisatie bezien of de ambtenaar aangemerkt kan worden als functievolger en in de nieuwe organisatie kan worden geplaatst op een vergelijkbare of uitwisselbare functie binnen het landelijk reorganisatiegebied, bedoeld in artikel 55ia, derde lid, onder b, van het Barp;  
 
-d. de ambtenaar, zijnde een ambtenaar als bedoeld in onderdeel b of onderdeel c van dit lid wiens oorspronkelijke functie als een vergelijkbare of uitwisselbare functie kan worden aangemerkt en die binnen het landelijk reorganisatiegebied, bedoeld in [artikel 55ia, derde lid, onder b, van het Barp](../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), niet boventallig is als bedoeld in [artikel 55l van het Barp](../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) wordt aangemerkt als functievolger en wordt geplaatst op de vergelijkbare of uitwisselbare functie van de nieuwe organisatie, mits hier geen ambtenaar als functievolger is geplaatst als gevolg van onderdeel a van dit lid.    
+d. de ambtenaar, zijnde een ambtenaar als bedoeld in onderdeel b of onderdeel c van dit lid wiens oorspronkelijke functie als een vergelijkbare of uitwisselbare functie kan worden aangemerkt en die binnen het landelijk reorganisatiegebied, bedoeld in artikel 55ia, derde lid, onder b, van het Barp, niet boventallig is als bedoeld in artikel 55l van het Barp wordt aangemerkt als functievolger en wordt geplaatst op de vergelijkbare of uitwisselbare functie van de nieuwe organisatie, mits hier geen ambtenaar als functievolger is geplaatst als gevolg van onderdeel a van dit lid.    
 3.  Indien uit het concept-personeelsplaatsingsplan blijkt dat er in de nieuwe organisatie onvervulde functies zijn, wordt vervolgens bezien of de herplaatsingskandidaten daarop kunnen worden geplaatst. De volgorde van plaatsing voor herplaatsingskandidaten geschiedt dan met inachtneming van het volgende: 
 
 a. de functie is passend voor betrokkene;  
@@ -224,11 +226,11 @@ b. een horizontale plaatsing gaat vóór een verticale plaatsing;
 c. een verticaal positieve plaatsing gaat voor een verticaal negatieve plaatsing;  
 
 d. bij een horizontale of een verticale positieve plaatsing is, indien de functie voor meerdere ambtenaren passend is, de geschiktheid van de ambtenaar bepalend, bij gelijke geschiktheid gaat de ambtenaar met het hoogste aantal jaren in overheidsdienst voor de ambtenaar met een lager aantal jaren in overheidsdienst.     
-4.  In afwijking van het tweede lid gaat bij een verticaal positieve plaatsing, waarvoor meerdere ambtenaren die een zelfde vergelijkbare of uitwisselbare functie uitoefenen passend zijn bevonden, de ambtenaar die geplaatst kan worden op die vergelijkbare of uitwisselbare functie voor de ambtenaar die, op grond van [artikel 55l van het Barp](../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), als herplaatsingskandidaat moet worden aangewezen.  
+4.  In afwijking van het tweede lid gaat bij een verticaal positieve plaatsing, waarvoor meerdere ambtenaren die een zelfde vergelijkbare of uitwisselbare functie uitoefenen passend zijn bevonden, de ambtenaar die geplaatst kan worden op die vergelijkbare of uitwisselbare functie voor de ambtenaar die, op grond van artikel 55l van het Barp, als herplaatsingskandidaat moet worden aangewezen.  
 
 ### Artikel  8a  
 
-1.  Voor de reorganisatie [Politiewet 2012](../../../../../../../wet/politiewet/2012/BWBR0031788/README.md), worden als politiedienstjaren als bedoeld in [artikel 55l](../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) en [55lb Barp](../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), aangemerkt die jaren waarin een ambtenaar aantoonbaar: 
+1.  Voor de reorganisatie Politiewet 2012, worden als politiedienstjaren als bedoeld in artikel 55l en 55lb Barp, aangemerkt die jaren waarin een ambtenaar aantoonbaar: 
 
 a. was aangesteld als ambtenaar;  
 
@@ -238,11 +240,11 @@ c. was aangesteld als algemeen of bijzonder opsporingsambtenaar van de Douane, d
 
 d. als algemeen of bijzonder opsporingsambtenaar in dienst was van het Korps Spoorwegpolitie van de Nederlandse Spoorwegen voor zover het principe-akkoord van 14 oktober 1999, gesloten tussen de vakorganisaties, FNV-bondgenoten, FSV, CNV-Bedrijvenbond, VHS en het Ministerie van Justitie, het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties en de Nederlandse Spoorwegen, op de ambtenaar van toepassing en deze een AFUP- garantieregeling toegekend heeft gekregen voor de jaren dat hij bij de spoorwegpolitie heeft gewerkt;  
 
-e. was aangesteld als onbezoldigd algemeen of bijzonder opsporingsambtenaar van het Korps Rijkspolitie, werkzaam voor een krachtens de [Wet op de weerkorpsen](../../../../../../../wet/wet/op/de/weerkorpsen/BWBR0001980/README.md) toegestane particuliere beveiligingsorganisaties van de luchthaven Schiphol in de periode van 15 februari 1974 tot en met datum 31 december 1992;  
+e. was aangesteld als onbezoldigd algemeen of bijzonder opsporingsambtenaar van het Korps Rijkspolitie, werkzaam voor een krachtens de Wet op de weerkorpsen toegestane particuliere beveiligingsorganisaties van de luchthaven Schiphol in de periode van 15 februari 1974 tot en met datum 31 december 1992;  
 
 f. was aangesteld als ambtenaar van politie in dienst bij de politie in Suriname tot en met 24 november 1975; of  
 
-g. anderszins een schriftelijk besluit kan overleggen waaruit volgt dat de tijd die deze ambtenaar in een bepaalde functie was aangesteld door het bevoegd gezag voor inwerkingtreding van de [Politiewet 2012](../../../../../../../wet/politiewet/2012/BWBR0031788/README.md) is aangemerkt als politiedienstjaar.     
+g. anderszins een schriftelijk besluit kan overleggen waaruit volgt dat de tijd die deze ambtenaar in een bepaalde functie was aangesteld door het bevoegd gezag voor inwerkingtreding van de Politiewet 2012 is aangemerkt als politiedienstjaar.     
 2.  De ambtenaar zorgt dat de relevante documenten tijdig ter beoordeling aan het bevoegd gezag worden overgelegd.  
 
 ### Artikel  9  
@@ -278,7 +280,7 @@ b. een overzicht van de formatieve functies in kwantitatieve en kwalitatieve zin
 
 ####Bezwaarprocedure
 
-1.  Over een bezwaar ingesteld tegen een jegens de ambtenaar genomen rechtspositioneel besluit dat is genomen in het kader van een reorganisatie, adviseert een commissie als bedoeld in [artikel 7:13 Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+1.  Over een bezwaar ingesteld tegen een jegens de ambtenaar genomen rechtspositioneel besluit dat is genomen in het kader van een reorganisatie, adviseert een commissie als bedoeld in artikel 7:13 Algemene wet bestuursrecht.   
 2.  De in het eerste lid bedoelde commissie bestaat uit: 
 
 a. een externe voorzitter, benoemd op gezamenlijke voordracht van het bevoegd gezag en van de politievakorganisaties;  
@@ -303,7 +305,7 @@ c. een lid benoemd op voordracht van de politievakorganisaties.
 
 ####Herplaatsingsinspanningen
 
-1.  De ambtenaar die als herplaatsingskandidaat is aangewezen en niet binnen het reorganisatiegebied is herplaatst en diens direct leidinggevende maken afspraken over het te volgen herplaatsingstraject. De persoonlijke afspraken over het te volgen herplaatsingstraject worden opgenomen in het herplaatsingsplan en gaan in op de wijze waarop invulling wordt gegeven aan [artikel 55n van het Barp](../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) en omvatten in ieder geval: 
+1.  De ambtenaar die als herplaatsingskandidaat is aangewezen en niet binnen het reorganisatiegebied is herplaatst en diens direct leidinggevende maken afspraken over het te volgen herplaatsingstraject. De persoonlijke afspraken over het te volgen herplaatsingstraject worden opgenomen in het herplaatsingsplan en gaan in op de wijze waarop invulling wordt gegeven aan artikel 55n van het Barp en omvatten in ieder geval: 
 
 a. de uitgangssituatie van de ambtenaar, inclusief gegevens met betrekking tot de persoonlijke omstandigheden die relevant zijn voor de herplaatsing;  
 
@@ -358,16 +360,16 @@ Op aanvraag van de herplaatsingskandidaat en van de pre-herplaatsingskandidaat d
 
 ####Verhuiskosten en reiskosten woon-werkverkeer
 
-1.  Op aanvraag van de herplaatsingskandidaat en van de pre-herplaatsingskandidaat die een functie buiten de politie heeft aanvaard, en die in verband hiermee verhuist, wordt een verhuiskostenvergoeding toegekend op grond van het [Brvvp](../../../../../../../AMvB/besluit/reis-/verblijf-/en/verhuiskosten/politie/BWBR0024064/README.md).   
-2.  Op aanvraag van de herplaatsingskandidaat en van een pre-herplaatsingskandidaat die een functie buiten de politie heeft aanvaard wordt voor een periode van 12 maanden een tegemoetkoming voor woon-werkverkeer toegekend op grond van het [Brvvp](../../../../../../../AMvB/besluit/reis-/verblijf-/en/verhuiskosten/politie/BWBR0024064/README.md). Aanspraak bij de nieuwe werkgever op een vergoeding reiskosten woon-werkverkeer, zoals bedoeld in [hoofdstuk 2 van het Brvvp](../../../../../../../AMvB/besluit/reis-/verblijf-/en/verhuiskosten/politie/BWBR0024064/README.md), wordt hiermee verrekend.  
+1.  Op aanvraag van de herplaatsingskandidaat en van de pre-herplaatsingskandidaat die een functie buiten de politie heeft aanvaard, en die in verband hiermee verhuist, wordt een verhuiskostenvergoeding toegekend op grond van het Brvvp.   
+2.  Op aanvraag van de herplaatsingskandidaat en van een pre-herplaatsingskandidaat die een functie buiten de politie heeft aanvaard wordt voor een periode van 12 maanden een tegemoetkoming voor woon-werkverkeer toegekend op grond van het Brvvp. Aanspraak bij de nieuwe werkgever op een vergoeding reiskosten woon-werkverkeer, zoals bedoeld in hoofdstuk 2 van het Brvvp, wordt hiermee verrekend.  
 
 ### Artikel  18  
 
 ####Reiskosten
 
-1.  De ambtenaar die als gevolg van een reorganisatie een andere plaats van tewerkstelling krijgt aangewezen die op een grotere afstand van de woning is gelegen dan de plaats van tewerkstelling voor de reorganisatie, ontvangt vanaf het moment van wijziging een aanvulling op de tegemoetkoming in de reiskosten woon-werkverkeer met eigen vervoer, al dan niet in combinatie met openbaar vervoer volgens het [Brvvp](../../../../../../../AMvB/besluit/reis-/verblijf-/en/verhuiskosten/politie/BWBR0024064/README.md).   
+1.  De ambtenaar die als gevolg van een reorganisatie een andere plaats van tewerkstelling krijgt aangewezen die op een grotere afstand van de woning is gelegen dan de plaats van tewerkstelling voor de reorganisatie, ontvangt vanaf het moment van wijziging een aanvulling op de tegemoetkoming in de reiskosten woon-werkverkeer met eigen vervoer, al dan niet in combinatie met openbaar vervoer volgens het Brvvp.   
 2.  De aanvulling bedoeld in het eerste lid, wordt toegekend voor elke kilometer die de afstand van de woning naar de nieuwe plaats van tewerkstelling meer bedraagt dan de afstand van de woning naar de oorspronkelijke plaats van tewerkstelling voor de reorganisatie.   
-3.  De tegemoetkoming in de reiskosten woon-werkverkeer volgens het [Brvvp](../../../../../../../AMvB/besluit/reis-/verblijf-/en/verhuiskosten/politie/BWBR0024064/README.md) en de aanvulling bedragen tezamen € 0,45 bruto.   
+3.  De tegemoetkoming in de reiskosten woon-werkverkeer volgens het Brvvp en de aanvulling bedragen tezamen € 0,45 bruto.   
 4.  De aanvulling bedoeld in het eerste lid wordt in een vijftal jaren afgebouwd volgens de tabel:  
 
 | --- | --- |
@@ -378,22 +380,56 @@ Op aanvraag van de herplaatsingskandidaat en van de pre-herplaatsingskandidaat d
 | vierde jaar  | 40%  |
 | vijfde jaar  | 20%  |
 
-5.  In geval de reisafstand van de woning naar de plaats van de te werkstelling groter is dan de maximale afstand bepaald in het [Brvvp](../../../../../../../AMvB/besluit/reis-/verblijf-/en/verhuiskosten/politie/BWBR0024064/README.md), heeft de ambtenaar recht op de basisvergoeding en aanvulling voor de kilometers boven de genoemde maximale afstand.   
+5.  In geval de reisafstand van de woning naar de plaats van de te werkstelling groter is dan de maximale afstand bepaald in het Brvvp, heeft de ambtenaar recht op de basisvergoeding en aanvulling voor de kilometers boven de genoemde maximale afstand.   
 6.  Bij een onvrijwillige verplaatsing tijdens de looptijd van een toekenning op grond van dit artikel wordt voor de resterende looptijd van die toekenning de oorspronkelijke plaats van tewerkstelling genomen als uitgangspunt voor de berekening van de aanvulling als bedoeld in dit artikel.   
-7.  Voor het overige geldt de systematiek conform het [Brvvp](../../../../../../../AMvB/besluit/reis-/verblijf-/en/verhuiskosten/politie/BWBR0024064/README.md).   
+7.  Voor het overige geldt de systematiek conform het Brvvp.   
 8.  De pre-herplaatsingskandidaat heeft geen recht op toekenning van een aanvulling in de reiskosten.  
 
 ### Artikel  19  
 
 ####Behoud individuele rechten
 
-De ambtenaar die is aangewezen onder de [Regeling aanwijzing administratief-technische functies](../../../../../../../ministeriele-regeling/regeling/aanwijzing/administratief-technische/functies/BWBR0012102/README.md) behoudt bij plaatsing of herplaatsing zijn aanwijzing. 
+De ambtenaar die is aangewezen onder de Regeling aanwijzing administratief-technische functies behoudt bij plaatsing of herplaatsing zijn aanwijzing. 
 
 ### Artikel  20  
 
 ####Sollicitatieverlof
 
 Aan de herplaatsingskandidaat en aan de pre-herplaatsingskandidaat wordt op diens verzoek buitengewoon verlof met behoud van bezoldiging toegekend in verband met een sollicitatie. 
+
+####Voorzieningen voorfase reorganisatie Politiewet 2012
+
+### Artikel  20a  
+
+1.  De ambtenaar met een functie vallend onder het domein Leiding of Ondersteuning, als bedoeld in artikel 3, eerste lid, en bijlage 1 bij de Regeling vaststelling LFNP, kan zo lang hij nog niet is geplaatst op een vergelijkbare of uitwisselbare functie of is aangewezen als herplaatsingskandidaat in het kader van de reorganisatie Politiewet 2012, het bevoegd gezag verzoeken hem met overeenkomstige toepassing van de desbetreffende artikelen een of meer van de volgende voorzieningen toe te kennen: 
+
+a. een outplacementtraject als bedoeld in artikel 15,  
+
+b. een vergoeding van opleidingskosten als bedoeld in artikel 16,  
+
+c. een vergoeding van verhuiskosten en reiskosten voor woon- werkverkeer als bedoeld in artikel 17,  
+
+d. het verlenen van buitengewoon verlof in verband met een sollicitatie als bedoeld in artikel 20,  
+
+e. het toekennen van loonsuppletie als bedoeld in artikel 55tBarp,  
+
+f. het toekennen van een vertrekstimuleringspremie als bedoeld in artikel 55y Barp, met dien verstande dat de vertrekstimuleringspremie in afwijking van dat artikel maximaal € 75.000 bedraagt dan wel maximaal het bruto-jaarsalaris inclusief vakantie-uitkering en eindejaarsuitkering als dat salaris meer dan € 75.000 bedraagt,  
+
+g. kwijtschelding van terugbetalingsverplichtingen als bedoeld in artikel 55z Barp,of  
+
+h. ontheffing van werkzaamheden, met behoud van aanspraken tot het einde van zijn loopbaan als bedoeld in artikel 55aa Barp.     
+2.  De voorzieningen genoemd in het eerste lid, onder e, f en h kunnen, in afwijking van het bepaalde in het eerste lid, niet onderling gecombineerd worden toegekend.  
+
+### Artikel  20b  
+
+1.  Het bevoegd gezag kan de voorzieningen als bedoeld in artikel 20a toekennen, indien naar diens oordeel is voldaan aan de volgende voorwaarden: 
+
+a. de ambtenaar heeft een functie binnen een taakgebied waarvan voorzienbaar is dat met betrekking tot die functie daar in de toekomst sprake zal zijn van overbezetting, uitsluitend ten gevolge van de reorganisatie Politiewet 2012,  
+
+b. het is aannemelijk dat het toekennen van de voorziening of voorzieningen aan de ambtenaar bijdraagt aan het verkleinen van overbezetting in het taakgebied waarbinnen betrokkene werkzaam is, of het is voorzienbaar dat de ambtenaar zal worden aangewezen als herplaatsingskandidaat, en  
+
+c. de kosten van de voorziening voor de organisatie staan in een redelijke verhouding tot het te behalen rendement door het vertrek van de ambtenaar en zijn met het oog op de financiële ruimte toelaatbaar.     
+2.  Een voorziening als bedoeld in artikel 20a kan uitsluitend worden toegekend na indiening van een ontslagaanvraag door de aanvragende ambtenaar, in de zin van artikel 87 Barp, en onder voorbehoud dat die ontslagaanvraag ook wordt geëffectueerd.  
 
 ### Artikel  21  
 

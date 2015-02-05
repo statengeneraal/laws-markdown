@@ -3,7 +3,7 @@
 ##Beleidsregel van de Staatssecretaris van Infrastructuur en Milieu van 11 september 2012, nr. IenM/BSK-2012/162839, met betrekking tot het verstrekken van locatiegegevens bij de aanvraag om een vergunning voor een veldproef met een genetisch gemodificeerd gewas, en enige aan de vergunning te verbinden voorschriften (Beleidsregel locatie veldproef gg-gewassen)
 
 De Staatssecretaris van Infrastructuur en Milieu,  
-Gelet op [artikel 9.2.2.1, tweede lid, onder c](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [9.2.2.3, eerste en vierde lid, van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) alsmede [artikel 23, eerste lid](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md), en [artikel 24, eerste lid, van het Besluit genetisch gemodificeerde organismen milieubeheer](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md),
+Gelet op artikel 9.2.2.1, tweede lid, onder c, 9.2.2.3, eerste en vierde lid, van de Wet milieubeheer alsmede artikel 23, eerste lid, en artikel 24, eerste lid, van het Besluit genetisch gemodificeerde organismen milieubeheer,
 Besluit:    
 
 ### Artikel  1  
@@ -14,7 +14,7 @@ In deze beleidsregel wordt verstaan onder:
 
 a.  *Attenderingszone:* het gebied dat is gelegen rondom de buitenste begrenzing van het kadastrale perceel waarop een veldproef plaatsvindt en wordt begrensd door de grootte van de isolatieafstand;  
 
-b.  *Besluit:* [Besluit genetisch gemodificeerde organismen milieubeheer](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md);  
+b.  *Besluit:* Besluit genetisch gemodificeerde organismen milieubeheer;  
 
 c.  *Bloeiperiode:* de periode vanaf het moment waarop de eerste genetisch gemodificeerde plant op het proefobject de eerste bloeiwijze vormt tot het moment waarop de laatste bloeiwijze is afgestorven;  
 
@@ -34,7 +34,7 @@ j.  *Proefobject:* grondstuk waarop de in de aanvraag om een vergunning omschrev
 
 k.  *Veldproef:* introductie in het milieu van een gg-gewas, niet zijnde in de handel brengen;  
 
-l.  *Vergunning:* vergunning als bedoeld in [artikel 23](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md) in samenhang met [artikel 24 van het Besluit](../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md) die betrekking heeft op de uitvoering van een veldproef.   
+l.  *Vergunning:* vergunning als bedoeld in artikel 23 in samenhang met artikel 24 van het Besluit die betrekking heeft op de uitvoering van een veldproef.   
 
 ### Artikel  2  
 

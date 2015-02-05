@@ -3,9 +3,9 @@
 ##Verordening van het bestuur van het Productschap Tuinbouw van 25 januari 2011, houdende de instelling van het uitvoeringsreglement PT tegemoetkoming extra keuringskosten bufferzone Boskoop
 
 Het bestuur van het Productschap Tuinbouw,  
-gelet op de [artikelen 93](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [100, derde lid van de Wet op de bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+gelet op de artikelen 93, 95 en 100, derde lid van de Wet op de bedrijfsorganisatie;
 
-gelet op de [artikelen 12](../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md) en [13 van het Instellingsbesluit Productschap Tuinbouw](../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md);
+gelet op de artikelen 12 en 13 van het Instellingsbesluit Productschap Tuinbouw;
 
 gehoord de sectorcommissie boomkwekerijproducten, d.d. 15 december 2010;
 Besluit:    
@@ -18,9 +18,9 @@ Besluit:
 |:---|:---|:---|
 |productschap |: | het Productschap Tuinbouw |
 |bestuur |: | het bestuur van het Productschap |
-|fonds |: | het Plantgezondheidsfonds als bedoeld in [artikel 2 van de verordening PT Plantgezondheidsfonds](../../../../../../../../../pbo/verordening/pt/plantgezondheidsfonds/BWBR0029864/README.md) |
-|bufferzone Boskoop |: | gebied aangegeven in [bijlage bij het Besluit van 22 januari 2010, nr. 110285, houdende aanwijzing en bekendmaking van een besmette zone en een bufferzone als bedoeld in artikel 11, eerste en tweede lid van de Regeling bestrijding maïswortelkever en Anoplophora chinensis (Forster) (boktoraanwijzing gebied Boskoop)](../../../../../../../../../ministeriele-regeling/besluit/aanwijzing/en/bekendmaking/besmette/zone/en/bufferzone/ex/art./11/etc/BWBR0027112/README.md) |
-|boomkwekerijproducten en vaste planten |: | winterharde en half-winterharde houtgewassen, vaste planten en wortelstokken, uitgezonderd de gewassen die gerekend worden tot de bloembollensector en als zodanig worden benoemd in [bijlage II van de Landbouwkwaliteitsregeling](../../../../../../../../../ministeriele-regeling/landbouwkwaliteitsregeling/2007/BWBR0022543/README.md) |
+|fonds |: | het Plantgezondheidsfonds als bedoeld in artikel 2 van de verordening PT Plantgezondheidsfonds |
+|bufferzone Boskoop |: | gebied aangegeven in bijlage bij het Besluit van 22 januari 2010, nr. 110285, houdende aanwijzing en bekendmaking van een besmette zone en een bufferzone als bedoeld in artikel 11, eerste en tweede lid van de Regeling bestrijding maïswortelkever en Anoplophora chinensis (Forster) (boktoraanwijzing gebied Boskoop) |
+|boomkwekerijproducten en vaste planten |: | winterharde en half-winterharde houtgewassen, vaste planten en wortelstokken, uitgezonderd de gewassen die gerekend worden tot de bloembollensector en als zodanig worden benoemd in bijlage II van de Landbouwkwaliteitsregeling |
 |ondernemer |: | een natuurlijke of rechtspersoon die bedrijfsmatig activiteien ontplooit in de teelt of handel van boomkwekerijproducten of vaste planten |
 |EU-verordening Nr. 1535/2007 |: | Verordening (EG) Nr. 1535/2007 van de Commissie van 20 december 2007, betreffende de toepassing van de artikelen 87 en 88 van het EG-Verdrag op de-minimissteun in de landbouwproductiesector. |
 

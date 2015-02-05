@@ -3,7 +3,7 @@
 ##Besluit van het bestuur van het Bedrijfschap Horeca en Catering van 3 juni 2009 houdende regelen betreffende per kalenderjaar verstrekte subsidies aan rechtspersonen (Subsidiebesluit Bedrijfschap Horeca en Catering)
 
 Het bestuur van het Bedrijfschap Horeca en Catering;  
-Gelet op [artikel 95 van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en gelet op [artikel 4:58 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);
+Gelet op artikel 95 van de Wet op de bedrijfsorganisatie en gelet op artikel 4:58 van de Algemene wet bestuursrecht;
 Besluit:    
 
 ###Artikel 1 
@@ -15,11 +15,11 @@ In dit besluit wordt verstaan onder:
 |begroting: |de begroting van inkomsten en uitgaven van het bedrijfschap voor een bepaald jaar; |
 |secretaris: |secretaris van het bedrijfschap; |
 |subsidie: |op grond van de begroting per kalenderjaar aan rechtspersonen verstrekte subsidie; |
-|wet: |de [Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). |
+|wet: |de Algemene wet bestuursrecht. |
 
 ###Artikel 2 
 
-Op de door het bestuur per kalenderjaar te verstrekken subsidies aan rechtspersonen is [afdeling 4.2.8 van de wet](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing met inachtneming van de navolgende bepalingen. 
+Op de door het bestuur per kalenderjaar te verstrekken subsidies aan rechtspersonen is afdeling 4.2.8 van de wet van toepassing met inachtneming van de navolgende bepalingen. 
 
 ###Artikel 3 
 
@@ -27,11 +27,11 @@ De aanvraag van de subsidie wordt voor 15 augustus voorafgaand aan het jaar of d
 
 ###Artikel 4 
 
-De secretaris of een door hem daartoe gemandateerde medewerker van het bedrijfschap is toezichthouder als bedoeld in [artikel 4:59 van de wet](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). 
+De secretaris of een door hem daartoe gemandateerde medewerker van het bedrijfschap is toezichthouder als bedoeld in artikel 4:59 van de wet. 
 
 ###Artikel 5 
 
-De subsidieontvanger behoeft de toestemming van het dagelijks bestuur voor het verrichten van de rechtshandelingen als genoemd in [artikel 4:71 van de wet](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). 
+De subsidieontvanger behoeft de toestemming van het dagelijks bestuur voor het verrichten van de rechtshandelingen als genoemd in artikel 4:71 van de wet. 
 
 ###Artikel 6 
 

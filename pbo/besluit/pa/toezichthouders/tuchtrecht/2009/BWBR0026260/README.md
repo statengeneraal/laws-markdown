@@ -3,7 +3,7 @@
 ##Besluit van het bestuur van het Productschap Akkerbouw van 26 maart 2009 tot aanwijzing van toezichthouders (Besluit PA toezichthouders tuchtrecht 2009)
 
 Het bestuur van het Productschap Akkerbouw;  
-Gelet op [artikel 104, derde lid, Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [afdeling 5.2](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [artikel 10:3, eerste lid Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);
+Gelet op artikel 104, derde lid, Wet op de bedrijfsorganisatie, afdeling 5.2 en artikel 10:3, eerste lid Algemene wet bestuursrecht;
 Besluit:    
 
 ###Artikel 1 
@@ -27,36 +27,36 @@ secretaris
 
 ###Bijlage 
 
-1[Verordening PA algemene bepalingen 2008](../../../../../../../pbo/verordening/pa/algemene/bepalingen/2008/BWBR0024318/README.md) 
+1Verordening PA algemene bepalingen 2008 
 
-2[Verordening PA registratie en verstrekking van gegevens teeltsector 2008](../../../../../../../pbo/verordening/pa/registratie/en/verstrekking/van/gegevens/teeltsector/2008/BWBR0024009/README.md)
+2Verordening PA registratie en verstrekking van gegevens teeltsector 2008
 
-2A[Verordening PA keurmeester aardappelen 2011](../../../../../../../pbo/verordening/pa/keurmeester/aardappelen/2011/BWBR0030019/README.md) 
+2AVerordening PA keurmeester aardappelen 2011 
 
-3[Verordening PA registratie ondernemingen granen, zaden en peulvruchtensector 2008](../../../../../../../pbo/verordening/pa/registratie/ondernemingen/granen/zaden/en/etc/BWBR0023977/README.md) 
+3Verordening PA registratie ondernemingen granen, zaden en peulvruchtensector 2008 
 
-4[Verordening PA landbouwzaaizaden 2008](../../../../../../../pbo/verordening/pa/landbouwzaaizaden/2008/BWBR0025431/README.md) 
+4Verordening PA landbouwzaaizaden 2008 
 
-5[Verordening PA bestrijding knolcyperus 2010](../../../../../../../pbo/verordening/pa/bestrijding/knolcyperus/2010/BWBR0029440/README.md) 
+5Verordening PA bestrijding knolcyperus 2010 
 
-6[Verordening PA bestrijding vergelingsziekte bij bieten 2008](../../../../../../../pbo/verordening/pa/bestrijding/vergelingsziekte/bij/bieten/2008/BWBR0024013/README.md) 
+6Verordening PA bestrijding vergelingsziekte bij bieten 2008 
 
-7[Verordening PA bestrijding wilde haver 2008](../../../../../../../pbo/verordening/pa/bestrijding/wilde/haver/2008/BWBR0024014/README.md) 
+7Verordening PA bestrijding wilde haver 2008 
 
-8[Verordening PA aardappelmoeheid 2008](../../../../../../../pbo/verordening/pa/aardappelmoeheid/2008/BWBR0024018/README.md) 
+8Verordening PA aardappelmoeheid 2008 
 
-9[Verordening PA aardappelteelt 2008](../../../../../../../pbo/verordening/pa/aardappelteelt/2008/BWBR0024019/README.md) 
+9Verordening PA aardappelteelt 2008 
 
-10[Verordening PA bestrijding Phytophthora infestans bij aardappelen 2008](../../../../../../../pbo/verordening/pa/bestrijding/phytophthora/infestans/bij/aardappelen/2008/BWBR0024015/README.md) 
+10Verordening PA bestrijding Phytophthora infestans bij aardappelen 2008 
 
-11[Verordening PA keuring van apparatuur voor gewasbeschermingsmiddelen 2012](../../../../../../../pbo/verordening/pa/keuring/van/apparatuur/voor/gewasbeschermingsmiddelen/2012/BWBR0032867/README.md) 
+11Verordening PA keuring van apparatuur voor gewasbeschermingsmiddelen 2012 
 
-12[Verordening PA reiniging verpakkingen gewasbeschermingsmiddelen 2011](../../../../../../../pbo/verordening/pa/reiniging/verpakkingen/gewasbeschermingsmiddelen/2011/BWBR0031850/README.md) 
+12Verordening PA reiniging verpakkingen gewasbeschermingsmiddelen 2011 
 
-13[Verordening PA wratziekte 2008](../../../../../../../pbo/verordening/pa/wratziekte/2008/BWBR0024021/README.md) 
+13Verordening PA wratziekte 2008 
 
-14[Verordening PA bestrijding valse meeldauw bij uien 2008](../../../../../../../pbo/verordening/pa/bestrijding/valse/meeldauw/bij/uien/2008/BWBR0024016/README.md) 
+14Verordening PA bestrijding valse meeldauw bij uien 2008 
 
-15[Verordening PA coëxistentie teelt 2008](../../../../../../../pbo/verordening/pa/coëxistentie/teelt/2008/BWBR0031152/README.md) 
+15Verordening PA coëxistentie teelt 2008 
 
-16[Verordening PA erosiebestrijding zuid Limburg 2008](../../../../../../../pbo/verordening/pa/erosiebestrijding/zuid-limburg/2008/BWBR0024328/README.md) 
+16Verordening PA erosiebestrijding zuid Limburg 2008 

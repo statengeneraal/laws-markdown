@@ -6,7 +6,7 @@ Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oran
 
 Op de voordracht van de Staatssecretaris van Veiligheid en Justitie van 2 mei 2013, nr. 379877;
 
-Gelet op [artikel 2, tweede lid, onderdeel h](../../../../../../../../../../wet/wet/toezicht/collectieve/beheersorganisaties/auteurs-/en/naburige/rechten/BWBR0014779/README.md), [artikel 3, eerste lid, onderdeel c](../../../../../../../../../../wet/wet/toezicht/collectieve/beheersorganisaties/auteurs-/en/naburige/rechten/BWBR0014779/README.md), en [artikel 17 van de Wet toezicht en geschillenbeslechting collectieve beheersorganisaties auteurs- en naburige rechten](../../../../../../../../../../wet/wet/toezicht/collectieve/beheersorganisaties/auteurs-/en/naburige/rechten/BWBR0014779/README.md);
+Gelet op artikel 2, tweede lid, onderdeel h, artikel 3, eerste lid, onderdeel c, en artikel 17 van de Wet toezicht en geschillenbeslechting collectieve beheersorganisaties auteurs- en naburige rechten;
 
 De Afdeling advisering van de Raad van State gehoord (advies van 12 juni 2013, nr. W03.13.0141/II);
 
@@ -15,7 +15,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-1.  Van overschrijding van de in [artikel 2, tweede lid, onderdeel h, van de Wet toezicht en geschillenbeslechting collectieve beheersorganisaties auteurs- en naburige rechten](../../../../../../../../../../wet/wet/toezicht/collectieve/beheersorganisaties/auteurs-/en/naburige/rechten/BWBR0014779/README.md) bedoelde drempel is sprake in de volgende gevallen: 
+1.  Van overschrijding van de in artikel 2, tweede lid, onderdeel h, van de Wet toezicht en geschillenbeslechting collectieve beheersorganisaties auteurs- en naburige rechten bedoelde drempel is sprake in de volgende gevallen: 
 
 a) de beheerskosten in het jaar waarop het jaarverslag betrekking heeft, bedragen meer dan 15% van het bedrag dat in dat jaar is geïnd,  
 
@@ -26,12 +26,12 @@ c) de beheerskosten in het jaar waarop het jaarverslag betrekking heeft ten opzi
 
 ### Artikel  2  
 
-1.  De in [artikel 3, eerste lid, onderdeel c, van de Wet toezicht en geschillenbeslechting collectieve beheersorganisaties auteurs- en naburige rechten](../../../../../../../../../../wet/wet/toezicht/collectieve/beheersorganisaties/auteurs-/en/naburige/rechten/BWBR0014779/README.md) bedoelde indexering is het gemiddelde van de afgeleide consumentenprijsindex per 1 juni voorafgaand aan de vaststelling van de tariefstijging en de afgeleide consumentenprijsindex per 1 juni van het daaraan voorafgaande jaar.   
+1.  De in artikel 3, eerste lid, onderdeel c, van de Wet toezicht en geschillenbeslechting collectieve beheersorganisaties auteurs- en naburige rechten bedoelde indexering is het gemiddelde van de afgeleide consumentenprijsindex per 1 juni voorafgaand aan de vaststelling van de tariefstijging en de afgeleide consumentenprijsindex per 1 juni van het daaraan voorafgaande jaar.   
 2.  De in het eerste lid bedoelde indexering kan bij ministeriële regeling worden gewijzigd.  
 
 ### Artikel  3  
 
-Op voordracht van het College van Toezicht worden de volgende collectieve beheersorganisaties geschrapt uit de bijlage, bedoeld in [artikel 17, eerste lid, Wet toezicht en geschillenbeslechting collectieve beheersorganisaties auteurs- en naburige rechten](../../../../../../../../../../wet/wet/toezicht/collectieve/beheersorganisaties/auteurs-/en/naburige/rechten/BWBR0014779/README.md): 
+Op voordracht van het College van Toezicht worden de volgende collectieve beheersorganisaties geschrapt uit de bijlage, bedoeld in artikel 17, eerste lid, Wet toezicht en geschillenbeslechting collectieve beheersorganisaties auteurs- en naburige rechten: 
 
 – AGICOA Netherlands,  
 
@@ -41,12 +41,12 @@ Op voordracht van het College van Toezicht worden de volgende collectieve beheer
 
 ### Artikel  4  
 
-De in [artikel 17, tweede lid, van de Wet toezicht en geschillenbeslechting collectieve beheersorganisaties auteurs- en naburige rechten](../../../../../../../../../../wet/wet/toezicht/collectieve/beheersorganisaties/auteurs-/en/naburige/rechten/BWBR0014779/README.md) bedoelde drempel wordt vastgesteld op 1.000.000 euro. 
+De in artikel 17, tweede lid, van de Wet toezicht en geschillenbeslechting collectieve beheersorganisaties auteurs- en naburige rechten bedoelde drempel wordt vastgesteld op 1.000.000 euro. 
 
 ### Artikel  5  
 
 1.  Dit besluit treedt in werking met ingang van 1 juli 2013. Indien het Staatsblad waarin dit besluit wordt geplaatst, wordt uitgegeven na 30 juni 2013, treedt het in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, en werkt het terug tot en met 1 juli 2013.   
-2.  Artikel 1 vervalt met ingang van 1 januari 2015.  
+2.  Artikel 1 vervalt met ingang van 1 januari 2017.  
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

@@ -3,16 +3,16 @@
 ##Besluit van het dagelijks bestuur van het Productschap Vis van 28 mei 2009, houdende de uitvoering van artikel 5, derde lid, van de Verordening Algemene Bepalingen Productschap Vis 2006 door aanwijzing van de bevoegde rechtspersonen voor het innen van productschapsheffingen (Besluit aanwijzing bevoegde afslagen voor inning productschapsheffingen)
 
 Het bestuur van het Productschap Vis;  
-Gelet op [titel 10.1 van de Algemene wet bestuursrechte](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md),
+Gelet op titel 10.1 van de Algemene wet bestuursrechte,
 
-[artikel 92 van de Wet op de bedrijfsorganisatie](../../../../../../../../../wet/ambtenarenwet/BWBR0001947/README.md),
+artikel 92 van de Wet op de bedrijfsorganisatie,
 
-en [artikel 5, derde lid, van de Verordening Algemene Bepalingen Productschap Vis 2006](../../../../../../../../../pbo/verordening/algemene/bepalingen/productschap/vis/2006/BWBR0021756/README.md);
+en artikel 5, derde lid, van de Verordening Algemene Bepalingen Productschap Vis 2006;
 Besluit:    
 
 ###Artikel 1 
 
-De bevoegde afslagen, als bedoeld in [artikel 5, derde lid, van de Verordening Algemene Bepalingen Productschap Vis 2006](../../../../../../../../../pbo/verordening/algemene/bepalingen/productschap/vis/2006/BWBR0021756/README.md) zijn:  
+De bevoegde afslagen, als bedoeld in artikel 5, derde lid, van de Verordening Algemene Bepalingen Productschap Vis 2006 zijn:  
 
 | --- | --- | --- | --- | --- | --- |
 |:---|:---|:---|:---|:---|:---|
@@ -37,8 +37,8 @@ De bevoegde afslagen, als bedoeld in [artikel 5, derde lid, van de Verordening A
 ###Artikel 2 
 
 1. Dit besluit wordt aangehaald als "Besluit aanwijzing bevoegde afslagen voor inning productschapsheffingen". 
-2. Het "[Besluit aanwijzing gemandateerde rechtspersonen](../../../../../../../../../pbo/besluit/aanwijzing/gemandateerde/rechtspersonen/BWBR0018873/README.md)" wordt ingetrokken, waarna verwijzingen naar het [Besluit aanwijzing gemandateerde rechtspersonen](../../../../../../../../../pbo/besluit/aanwijzing/gemandateerde/rechtspersonen/BWBR0018873/README.md) gelden als verwijzingen naar het Besluit aanwijzing bevoegde afslagen voor inning productschapsheffingen. 
-3. Dit besluit treedt in werking met ingang van de tweede dag na die van afkondiging in het Verordeningenblad Bedrijfsorganisatie van de [Verordening II tot wijziging van de Verordening Algemene Bepalingen Productschap Vis 2006](../../../../../../../../../pbo/wijzigingsverordening/verordening/algemene/bepalingen/productschap/vis/etc/BWBR0026171/README.md). 
+2. Het "Besluit aanwijzing gemandateerde rechtspersonen" wordt ingetrokken, waarna verwijzingen naar het Besluit aanwijzing gemandateerde rechtspersonen gelden als verwijzingen naar het Besluit aanwijzing bevoegde afslagen voor inning productschapsheffingen. 
+3. Dit besluit treedt in werking met ingang van de tweede dag na die van afkondiging in het Verordeningenblad Bedrijfsorganisatie van de Verordening II tot wijziging van de Verordening Algemene Bepalingen Productschap Vis 2006. 
 
 Rijswijk 
 28 mei 2009   

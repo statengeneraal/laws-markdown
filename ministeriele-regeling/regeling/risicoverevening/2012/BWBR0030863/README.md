@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 13 december 2011, nr. Z/F-3096189, houdende bepalingen omtrent de in de Zorgverzekeringswet bedoelde vereveningsbijdrage voor het jaar 2012 (Regeling risicoverevening 2012)
 
 De Minister van Volksgezondheid, Welzijn en Sport,  
-Gelet op [artikel 32, vierde lid](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), en [38, tweede lid, van de Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) en de [artikelen 1, onderdelen i, j, k, y, z en bb, derde lid](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.2, eerste en tweede lid](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.4, derde lid](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.5, derde lid](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.6, tweede lid](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.7, derde lid](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.8, derde lid](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), 3.8a, [3.10, tweede lid](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.11, vijfde en zesde lid](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.13](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.14](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.15, eerste en tweede lid](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.16, eerste en tweede lid](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.17, eerste en tweede lid](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.19, tweede lid](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), en [3.22, tweede lid, van het Besluit zorgverzekering](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md);
+Gelet op artikel 32, vierde lid, en 38, tweede lid, van de Zorgverzekeringswet en de artikelen 1, onderdelen i, j, k, y, z en bb, derde lid, 3.2, eerste en tweede lid, 3.4, derde lid, 3.5, derde lid, 3.6, tweede lid, 3.7, derde lid, 3.8, derde lid, 3.8a, 3.10, tweede lid, 3.11, vijfde en zesde lid, 3.13, 3.14, 3.15, eerste en tweede lid, 3.16, eerste en tweede lid, 3.17, eerste en tweede lid, 3.19, tweede lid, en 3.22, tweede lid, van het Besluit zorgverzekering;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -33,7 +33,7 @@ g.  * hemostatica:* een overig zorgproduct dat betrekking heeft op de verstrekki
 h.  * eerstelijnsdiagnostiek:* een overig zorgproduct dat betrekking heeft op diagnostiek door een ziekenhuis of huisartsenlaboratorium op verzoek van de eerste lijn;  
 
 i  *landelijke vaste kosten factor:* een factor waarmee het Zorginstituut op basis van historische kosten ziekenhuisverpleging per zorgverzekeraar de ex ante deelbedragen berekent voor de vaste kosten ziekenhuisverpleging in 2012.     
-2.  Het bedrag, bedoeld in [artikel 1, onderdeel x, van het Besluit zorgverzekering](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), is € 550, en het bedrag, bedoeld in artikel 1, onderdeel y, van het Besluit zorgverzekering is € 2 750.  
+2.  Het bedrag, bedoeld in artikel 1, onderdeel x, van het Besluit zorgverzekering, is € 550, en het bedrag, bedoeld in artikel 1, onderdeel y, van het Besluit zorgverzekering is € 2 750.  
 
 ### Artikel  2  
 Materieel uitgewerkt per 22-12-2013 
@@ -65,7 +65,7 @@ Materieel uitgewerkt per 22-12-2013
 ### Artikel  4  
 Materieel uitgewerkt per 22-12-2013 
 
-De beschikbare middelen voor het verstrekken van de bijdragen aan zorgverzekeraars, bedoeld in [artikel 32, vierde lid, onderdeel a, van de Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), omvatten voor het jaar 2012, naast de middelen, bedoeld in [§ 1.5 van hoofdstuk 3 van het Besluit zorgverzekering](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), een bedrag van € 19 689,9 miljoen. 
+De beschikbare middelen voor het verstrekken van de bijdragen aan zorgverzekeraars, bedoeld in artikel 32, vierde lid, onderdeel a, van de Zorgverzekeringswet, omvatten voor het jaar 2012, naast de middelen, bedoeld in § 1.5 van hoofdstuk 3 van het Besluit zorgverzekering, een bedrag van € 19 689,9 miljoen. 
 
 ### Hoofdstuk  2  
 
@@ -76,7 +76,7 @@ Materieel uitgewerkt per 22-12-2013
 ### Artikel  5  
 Materieel uitgewerkt per 22-12-2013 
 
-1.  De gewichten en de klassen, bedoeld in de [artikelen 3.4](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.5](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.7](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md) en [3.8 van het Besluit zorgverzekering](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), zijn vermeld in de bijlagen 1 en 2.   
+1.  De gewichten en de klassen, bedoeld in de artikelen 3.4, 3.5, 3.7 en 3.8 van het Besluit zorgverzekering, zijn vermeld in de bijlagen 1 en 2.   
 2.  Het Zorginstituut verdeelt het macro-deelbedrag vaste kosten van ziekenhuisverpleging, over zorgverzekeraars aan de hand van de gemiddelde vaste kosten per verzekerde per zorgverzekeraar in het jaar 2010, de landelijke vaste kostenfactor 2012 en de geraamde aantallen verzekerden voor het vereveningsjaar 2012.  
 
 ### Artikel  6  
@@ -89,13 +89,13 @@ Materieel uitgewerkt per 22-12-2013
 Materieel uitgewerkt per 22-12-2013 
 
 1.  De nominale rekenpremie per jaar bedraagt € 1 050 per zorgverzekering waarvoor premie moet worden betaald.   
-2.  Het Zorginstituut raamt de opbrengst van de nominale rekenpremie per zorgverzekeraar, bedoeld in [artikel 3.10, tweede lid, van het Besluit zorgverzekering](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), door het geraamde aantal zorgverzekeringen waarvoor premie moet worden betaald te vermenigvuldigen met de nominale rekenpremie.   
-3.  Het Zorginstituut berekent het aantal zorgverzekeringen waarvoor premie moet worden betaald door het aantal zorgverzekeringen van verzekerden van achttien jaar en ouder bij een zorgverzekeraar, te verminderen met het aantal zorgverzekeringen van verzekerden als bedoeld in [artikel 24 van de Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md).  
+2.  Het Zorginstituut raamt de opbrengst van de nominale rekenpremie per zorgverzekeraar, bedoeld in artikel 3.10, tweede lid, van het Besluit zorgverzekering, door het geraamde aantal zorgverzekeringen waarvoor premie moet worden betaald te vermenigvuldigen met de nominale rekenpremie.   
+3.  Het Zorginstituut berekent het aantal zorgverzekeringen waarvoor premie moet worden betaald door het aantal zorgverzekeringen van verzekerden van achttien jaar en ouder bij een zorgverzekeraar, te verminderen met het aantal zorgverzekeringen van verzekerden als bedoeld in artikel 24 van de Zorgverzekeringswet.  
 
 ### Artikel  8  
 Materieel uitgewerkt per 22-12-2013 
 
-1.  Het Zorginstituut raamt de opbrengst van het verplicht eigen risico per zorgverzekeraar, bedoeld in [artikel 3.10, tweede lid, van het Besluit zorgverzekering](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), door het geraamde aantal verzekerden van achttien jaar en ouder te verminderen met het geraamde aantal verzekerden, bedoeld in [artikel 24 van de Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), en het resultaat te vermenigvuldigen met de geraamde opbrengst van het verplicht eigen risico per verzekerde.   
+1.  Het Zorginstituut raamt de opbrengst van het verplicht eigen risico per zorgverzekeraar, bedoeld in artikel 3.10, tweede lid, van het Besluit zorgverzekering, door het geraamde aantal verzekerden van achttien jaar en ouder te verminderen met het geraamde aantal verzekerden, bedoeld in artikel 24 van de Zorgverzekeringswet, en het resultaat te vermenigvuldigen met de geraamde opbrengst van het verplicht eigen risico per verzekerde.   
 2.  Het Zorginstituut gaat voor de bepaling van de geraamde opbrengst per verzekerde, bedoeld in het eerste lid, voor verzekerden van achttien jaar of ouder die voldoen aan het criterium ‘Geen FKG’ uit van verzekerdenaantallen onderverdeeld in klassen naar leeftijd en geslacht, aard van het inkomen, en regio en de in bijlage 4 genoemde gewichten. Hierbij wordt de in de bijlage 4 aangegeven klassenindeling van de criteria aangehouden.   
 3.  De geraamde opbrengst per verzekerde, bedoeld in het eerste lid, bedraagt voor verzekerden van achttien jaar of ouder die niet voldoen aan het criterium ‘Geen FKG’, € 220 per verzekerde.  
 
@@ -114,8 +114,8 @@ Materieel uitgewerkt per 22-12-2013
 ### Artikel  10  
 Materieel uitgewerkt per 22-12-2013 
 
-1.  Voor de in [artikel 3.11, vijfde lid, van het Besluit zorgverzekering](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md) bedoelde herberekening van de gewichten ten behoeve van de in [artikel 3.12, eerste lid, van het Besluit zorgverzekering](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md) bedoelde berekening van de deelbedragen ‘kosten van dbc-zorgproducten in het vrije segment’, ‘variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp’ en ‘kosten van overige prestaties’, gaat het Zorginstituut uit van de verhouding tussen de gewichten, opgenomen in bijlage 1.   
-2.  Voor de in [artikel 3.11, vijfde lid, van het Besluit zorgverzekering](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md) bedoelde herberekening van de gewichten ten behoeve van de in [artikel 3.12, eerste lid, van het Besluit zorgverzekering](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md) bedoelde berekening van het deelbedrag ‘kosten van geneeskundige geestelijke gezondheidszorg’, gaat het Zorginstituut voor zover het gaat om de herberekening van de kosten van verzekerden van jonger dan achttien jaar uit van de verhouding tussen de gewichten in bijlage 2, tabel 2.1, en voor zover het gaat om de herberekening van de kosten van verzekerden van achttien jaar en ouder uit van de verhouding tussen de gewichten, opgenomen in bijlage 3.  
+1.  Voor de in artikel 3.11, vijfde lid, van het Besluit zorgverzekering bedoelde herberekening van de gewichten ten behoeve van de in artikel 3.12, eerste lid, van het Besluit zorgverzekering bedoelde berekening van de deelbedragen ‘kosten van dbc-zorgproducten in het vrije segment’, ‘variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp’ en ‘kosten van overige prestaties’, gaat het Zorginstituut uit van de verhouding tussen de gewichten, opgenomen in bijlage 1.   
+2.  Voor de in artikel 3.11, vijfde lid, van het Besluit zorgverzekering bedoelde herberekening van de gewichten ten behoeve van de in artikel 3.12, eerste lid, van het Besluit zorgverzekering bedoelde berekening van het deelbedrag ‘kosten van geneeskundige geestelijke gezondheidszorg’, gaat het Zorginstituut voor zover het gaat om de herberekening van de kosten van verzekerden van jonger dan achttien jaar uit van de verhouding tussen de gewichten in bijlage 2, tabel 2.1, en voor zover het gaat om de herberekening van de kosten van verzekerden van achttien jaar en ouder uit van de verhouding tussen de gewichten, opgenomen in bijlage 3.  
 
 ### Artikel  11  
 Materieel uitgewerkt per 22-12-2013 
@@ -155,9 +155,9 @@ m. leeftijd onder achttien jaar: 2012
 ### Artikel  12  
 Materieel uitgewerkt per 22-12-2013 
 
-1.  Het Zorginstituut merkt kosten, bedoeld in [artikel 3.13 van het Besluit zorgverzekering](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), voor prestaties van grensoverschrijdende zorg die zodanig zijn gespecificeerd, dat: 
+1.  Het Zorginstituut merkt kosten, bedoeld in artikel 3.13 van het Besluit zorgverzekering, voor prestaties van grensoverschrijdende zorg die zodanig zijn gespecificeerd, dat: 
 
-a. uit de specificatie blijkt dat zij ofwel gelden als kosten van geneeskundige zorg zoals medisch-specialisten die plegen te bieden – met uitzondering van de kosten, bedoeld in subonderdeel b –, ofwel als kosten van verblijf als bedoeld in [artikel 2.10 van het Besluit zorgverzekering](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md) – met uitzondering van de kosten, bedoeld in subonderdeel b – voor 70 procent aan als kosten van het cluster ‘dbc-zorgproducten in het vrije segment’, voor 15 procent aan als kosten van het cluster ‘variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp’ en voor 15 procent aan als kosten van het cluster ‘vaste kosten van ziekenhuisverpleging’;  
+a. uit de specificatie blijkt dat zij ofwel gelden als kosten van geneeskundige zorg zoals medisch-specialisten die plegen te bieden – met uitzondering van de kosten, bedoeld in subonderdeel b –, ofwel als kosten van verblijf als bedoeld in artikel 2.10 van het Besluit zorgverzekering – met uitzondering van de kosten, bedoeld in subonderdeel b – voor 70 procent aan als kosten van het cluster ‘dbc-zorgproducten in het vrije segment’, voor 15 procent aan als kosten van het cluster ‘variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp’ en voor 15 procent aan als kosten van het cluster ‘vaste kosten van ziekenhuisverpleging’;  
 
 b. uit de specificatie blijkt dat zij gelden als kosten van geneeskundige zorg die gericht is op herstel van een psychische aandoening en, voor zover die zorg daarmee gepaard gaat, kosten van verblijf, aan als kosten van het cluster ‘geneeskundige geestelijke gezondheidszorg’ voor verzekerden jonger dan achttien jaar of kosten van het cluster ‘geneeskundige geestelijke gezondheidszorg’ voor verzekerden van achttien jaar en ouder;  
 
@@ -182,7 +182,7 @@ Materieel uitgewerkt per 22-12-2013
 2.  Het Zorginstituut merkt de honorariumcomponent van de kosten van dbc-zorgproducten in het gereguleerde segment van alle instellingen voor medisch specialistische zorg, uitgezonderd de long/astma-klinieken en de epilepsiecentra, en uitgezonderd de kosten van expertproducten, voor 100 procent aan als kosten van het cluster ‘variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp’.   
 3.  Het Zorginstituut merkt de kosten- en honorariumcomponent van de kosten van overige zorgproducten, uitgezonderd de kosten van overige zorgproducten van long/astma-klinieken en epilepsiecentra en de kosten van add-ons, hemostatica en eerstelijnsdiagnostiek, voor 100 procent aan als kosten van het cluster ‘variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp’.   
 4.  Het Zorginstituut merkt kosten voor prestaties waarop de beleidsregel ‘Verpleging in de thuissituatie, noodzakelijk in verband met medisch-specialistische zorg’ van de zorgautoriteit van toepassing is, voor 100 procent aan als kosten van het cluster ‘variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp’.   
-5.  Het Zorginstituut merkt de kostencomponent van de kosten van prestaties, geleverd door instellingen die meedoen aan experimenten in de zin van de [Wet marktordening gezondheidszorg](../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md), voor een door hem per instelling vast te stellen percentage aan als kosten van het cluster ‘variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp’.   
+5.  Het Zorginstituut merkt de kostencomponent van de kosten van prestaties, geleverd door instellingen die meedoen aan experimenten in de zin van de Wet marktordening gezondheidszorg, voor een door hem per instelling vast te stellen percentage aan als kosten van het cluster ‘variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp’.   
 6.  Het Zorginstituut merkt de door de zorgautoriteit berekende bedragen ter verrekening van de in 2012 gerealiseerde opbrengstresultaten van long/astma-klinieken en epilepsiecentra, voor 75 procent aan als kosten van het cluster ‘variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp’.   
 7.  Met uitzondering van de verpleegkosten bij instellingen die niet worden gefinancierd op basis van dbc-zorgproducten, waarvoor een percentage van 60 wordt aangehouden, merkt het Zorginstituut de volgende kosten voor 75 procent aan als kosten van het cluster ‘variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp’: 
 
@@ -200,7 +200,7 @@ Materieel uitgewerkt per 22-12-2013
 3.  Het Zorginstituut merkt de kostencomponent en de honorariumcomponent van de kosten van expertproducten in het vrije en gereguleerde segment voor 100 procent aan als kosten van het cluster ‘vaste kosten van ziekenhuisverpleging’.   
 4.  Het Zorginstituut merkt de kosten van add-ons voor 100 procent aan als kosten van het cluster ‘vaste kosten van ziekenhuisverpleging’.   
 5.  Het Zorginstituut merkt de kosten hemostatica voor 100 procent aan als kosten van het cluster ‘vaste kosten van ziekenhuisverpleging’.   
-6.  Het Zorginstituut merkt de kostencomponent van de kosten van prestaties, geleverd door instellingen die meedoen aan experimenten in de zin van de [Wet marktordening gezondheidszorg](../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md), voor een door hem per instelling voor medisch specialistisch zorg vast te stellen percentage aan als kosten van het cluster ‘vaste kosten van ziekenhuisverpleging’.   
+6.  Het Zorginstituut merkt de kostencomponent van de kosten van prestaties, geleverd door instellingen die meedoen aan experimenten in de zin van de Wet marktordening gezondheidszorg, voor een door hem per instelling voor medisch specialistisch zorg vast te stellen percentage aan als kosten van het cluster ‘vaste kosten van ziekenhuisverpleging’.   
 7.  Het percentage per instelling, bedoeld in het zesde lid, is gelijk aan 100 minus het percentage, bedoeld in artikel 15, vijfde lid.   
 8.  Het Zorginstituut merkt de door de zorgautoriteit vastgestelde bedragen ter verrekening van de in 2012 gerealiseerde opbrengstresultaten van long/astma-klinieken en epilepsiecentra voor 25 procent als kosten van het cluster ‘vaste kosten van ziekenhuisverpleging’.   
 9.  Met uitzondering van de verpleegkosten bij instellingen die niet worden gefinancierd op basis van dbc-zorgproducten, waarvoor een percentage van 40 wordt aangehouden, merkt het Zorginstituut de volgende kosten voor 25 procent aan als kosten van het cluster ‘vaste kosten van ziekenhuisverpleging’: 
@@ -218,13 +218,13 @@ c. alle kosten van overige instellingen op het gebied van ziekenhuisverpleging v
 Materieel uitgewerkt per 22-12-2013 
 
 1.  Het Zorginstituut merkt de door de zorgautoriteit berekende bedragen ter verrekening van de in 2012 gerealiseerde opbrengstresultaten van gebudgetteerde instellingen voor geneeskundige geestelijke gezondheidszorg voor een door de zorgautoriteit vast te stellen gedeelte aan als kosten die behoren tot het cluster ‘geneeskundige geestelijke gezondheidszorg voor verzekerden jonger dan achttien jaar’.   
-2.  Het Zorginstituut calculeert 100 procent na op het verschil tussen de gerealiseerde kosten van geneeskundige geestelijke gezondheidszorg voor verzekerden jonger dan achttien jaar enerzijds, en het herberekende deelbedrag kosten van geneeskundige geestelijke gezondheidszorg voor verzekerden jonger dan achttien jaar, bedoeld in [artikel 3.12, derde lid, van het Besluit zorgverzekering](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), anderzijds.  
+2.  Het Zorginstituut calculeert 100 procent na op het verschil tussen de gerealiseerde kosten van geneeskundige geestelijke gezondheidszorg voor verzekerden jonger dan achttien jaar enerzijds, en het herberekende deelbedrag kosten van geneeskundige geestelijke gezondheidszorg voor verzekerden jonger dan achttien jaar, bedoeld in artikel 3.12, derde lid, van het Besluit zorgverzekering, anderzijds.  
 
 ### Artikel  18  
 Materieel uitgewerkt per 22-12-2013 
 
 1.  Het Zorginstituut merkt de door de zorgautoriteit berekende bedragen ter verrekening van de in 2012 gerealiseerde opbrengstresultaten van gebudgetteerde instellingen voor geneeskundige geestelijke gezondheidszorg voor een door de zorgautoriteit vast te stellen gedeelte aan als kosten die behoren tot het cluster ‘geneeskundige geestelijke gezondheidszorg’ voor verzekerden van achttien jaar en ouder.   
-2.  Het Zorginstituut past als volgt hoge kostencompensatie toe op het herberekende deelbedrag kosten van geneeskundige geestelijke gezondheidszorg voor verzekerden van achttien jaar en ouder, bedoeld in [artikel 3.12, derde lid, van het Besluit zorgverzekering](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md): 
+2.  Het Zorginstituut past als volgt hoge kostencompensatie toe op het herberekende deelbedrag kosten van geneeskundige geestelijke gezondheidszorg voor verzekerden van achttien jaar en ouder, bedoeld in artikel 3.12, derde lid, van het Besluit zorgverzekering: 
 
 a. 90 procent van de kosten van geneeskundige geestelijke gezondheidszorg, voor zover deze kosten het bedrag van € 10 000 per verzekerde op jaarbasis overschrijden, wordt betrokken bij de herberekening van het deelbedrag kosten geneeskundige geestelijke gezondheidszorg van verzekerden van achttien jaar en ouder;  
 
@@ -245,14 +245,14 @@ Materieel uitgewerkt per 22-12-2013
 ### Artikel  20  
 Materieel uitgewerkt per 22-12-2013 
 
-1.  Het bedrag en het percentage bedoeld in [artikel 3.17 van het Besluit zorgverzekering](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md) zijn: € 22,50 en 90 procent.   
-2.  Het bedrag en het percentage bedoeld in [artikel 3.17 van het Besluit zorgverzekering](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md) zijn: € 7,50 en 90 procent.  
+1.  Het bedrag en het percentage bedoeld in artikel 3.17 van het Besluit zorgverzekering zijn: € 22,50 en 90 procent.   
+2.  Het bedrag en het percentage bedoeld in artikel 3.17 van het Besluit zorgverzekering zijn: € 7,50 en 90 procent.  
 
 ### Artikel  21  
 Materieel uitgewerkt per 22-12-2013 
 
-1.  De opbrengst van de nominale rekenpremie, bedoeld in [artikel 3.19, tweede lid, van het Besluit zorgverzekering](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), wordt berekend overeenkomstig artikel 7, met dien verstande, dat wordt uitgegaan van het gerealiseerde aantal zorgverzekeringen waarvoor premie moet worden betaald bij de zorgverzekeraar.   
-2.  De opbrengst van het verplicht eigen risico, bedoeld in [artikel 3.19, tweede lid, van het Besluit zorgverzekering](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), wordt berekend overeenkomstig artikel 8, met dien verstande, dat wordt uitgegaan van de gerealiseerde aantallen in dat artikel bedoelde verzekerden.  
+1.  De opbrengst van de nominale rekenpremie, bedoeld in artikel 3.19, tweede lid, van het Besluit zorgverzekering, wordt berekend overeenkomstig artikel 7, met dien verstande, dat wordt uitgegaan van het gerealiseerde aantal zorgverzekeringen waarvoor premie moet worden betaald bij de zorgverzekeraar.   
+2.  De opbrengst van het verplicht eigen risico, bedoeld in artikel 3.19, tweede lid, van het Besluit zorgverzekering, wordt berekend overeenkomstig artikel 8, met dien verstande, dat wordt uitgegaan van de gerealiseerde aantallen in dat artikel bedoelde verzekerden.  
 
 ### Hoofdstuk  4  
 
@@ -263,7 +263,7 @@ Materieel uitgewerkt per 22-12-2013
 ### Artikel  22  
 Materieel uitgewerkt per 22-12-2013 
 
-Het in [artikel 3.22, tweede lid, van het Besluit zorgverzekering](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md) bedoelde bedrag per verzekerde bedraagt € 50. 
+Het in artikel 3.22, tweede lid, van het Besluit zorgverzekering bedoelde bedrag per verzekerde bedraagt € 50. 
 
 ### Hoofdstuk  5  
 
@@ -306,13 +306,13 @@ Wijzigt de Wijzigingsregeling Regeling zorgverzekering (vereveningsbijdrage zorg
 ### Artikel  27  
 Materieel uitgewerkt per 22-12-2013 
 
-In afwijking van hetgeen daarover in [artikel 3.16 van de Regeling zorgverzekering](../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) zoals dat met betrekking tot het jaar 2010 gold, was geregeld, worden de variabele kosten van ziekenhuisverpleging en de kosten van specialistische hulp ten behoeve van de vaststelling van de vereveningsbijdrage over het jaar 2010 als volgt herberekend: 
+In afwijking van hetgeen daarover in artikel 3.16 van de Regeling zorgverzekering zoals dat met betrekking tot het jaar 2010 gold, was geregeld, worden de variabele kosten van ziekenhuisverpleging en de kosten van specialistische hulp ten behoeve van de vaststelling van de vereveningsbijdrage over het jaar 2010 als volgt herberekend: 
 
 1. Het Zorginstituut merkt de kosten voor de Stichting Kwaliteitsgelden Medisch Specialisten voor 100 procent aan als variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp.  
 
 2. Het Zorginstituut merkt de kostencomponent van niet-onderhandelbare dbc-tarieven in algemene en academische ziekenhuizen, alsmede van het Oogziekenhuis, voor een door hem per ziekenhuis vast te stellen percentage aan als variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp.  
 
-3. Het Zorginstituut merkt de kostencomponent van de kosten van dbc’s, geleverd door instellingen die meedoen aan experimenten in de zin van de Wet marktordening gezondheidszorg, die niet bedoeld zijn in [artikel 3.1](../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md), voor een door hem per ziekenhuis vast te stellen percentage aan als variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp.  
+3. Het Zorginstituut merkt de kostencomponent van de kosten van dbc’s, geleverd door instellingen die meedoen aan experimenten in de zin van de Wet marktordening gezondheidszorg, die niet bedoeld zijn in artikel 3.1, voor een door hem per ziekenhuis vast te stellen percentage aan als variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp.  
 
 4. Het Zorginstituut merkt de door de zorgautoriteit berekende bedragen ter verrekening van de in 2010 gerealiseerde opbrengstresultaten voor een door hem per instelling voor medisch specialistische zorg vast te stellen percentage aan als variabele kosten van ziekenhuisverpleging.  
 
@@ -332,28 +332,28 @@ c. de kostencomponent van de vaste bedragen ter verrekening van de in 2010 gerea
 
 9. Het Zorginstituut betrekt de renteheffingstarieven niet bij de variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp.  
 
-10. Het Zorginstituut past overeenkomstig [artikel 3.14](../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) hogekostencompensatie toe op het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp.  
+10. Het Zorginstituut past overeenkomstig artikel 3.14 hogekostencompensatie toe op het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp.  
 
 11. Het Zorginstituut calculeert 30 procent na op het verschil tussen de variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp, vastgesteld ingevolge het eerste tot en met negende lid enerzijds, en het herberekende deelbedrag variabele kosten van ziekenhuis.   
 
 ### Artikel  28  
 Materieel uitgewerkt per 22-12-2013 
 
-In afwijking van hetgeen daarover in [artikel 3.17 van de Regeling zorgverzekering](../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) zoals dat met betrekking tot het jaar 2010 gold, was geregeld, worden de vaste kosten van ziekenhuisverpleging ten behoeve van de vaststelling van de vereveningsbijdrage over het jaar 2010 als volgt herberekend: 
+In afwijking van hetgeen daarover in artikel 3.17 van de Regeling zorgverzekering zoals dat met betrekking tot het jaar 2010 gold, was geregeld, worden de vaste kosten van ziekenhuisverpleging ten behoeve van de vaststelling van de vereveningsbijdrage over het jaar 2010 als volgt herberekend: 
 
 1. Het Zorginstituut baseert de herberekening per zorgverzekeraar van het deelbedrag vaste kosten van ziekenhuisverpleging op de vaste kosten in het jaar 2009.  
 
 2. Het Zorginstituut merkt de kostencomponent van de niet-onderhandelbare dbc-tarieven in algemene en academische ziekenhuizen, alsmede van het Oogziekenhuis, voor een door hem per ziekenhuis vast te stellen percentage aan als vaste kosten van ziekenhuisverpleging.  
 
-3. Het percentage per ziekenhuis, bedoeld in het tweede lid, is gelijk aan 100 minus het percentage, bedoeld in [artikel 3.16, tweede lid](../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md).  
+3. Het percentage per ziekenhuis, bedoeld in het tweede lid, is gelijk aan 100 minus het percentage, bedoeld in artikel 3.16, tweede lid.  
 
-4. Het Zorginstituut merkt de kostencomponent van de kosten van dbc’s, geleverd door instellingen die meedoen aan experimenten in de zin van de [Wet marktordening gezondheidszorg](../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md), die niet bedoeld zijn in [artikel 3.1](../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md), voor een door hem per ziekenhuis vast te stellen percentage aan als vaste kosten van ziekenhuisverpleging.  
+4. Het Zorginstituut merkt de kostencomponent van de kosten van dbc’s, geleverd door instellingen die meedoen aan experimenten in de zin van de Wet marktordening gezondheidszorg, die niet bedoeld zijn in artikel 3.1, voor een door hem per ziekenhuis vast te stellen percentage aan als vaste kosten van ziekenhuisverpleging.  
 
-5. Het percentage per instelling, bedoeld in het vierde lid, is gelijk aan 100 minus het percentage, bedoeld in [artikel 3.16, derde lid](../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md).  
+5. Het percentage per instelling, bedoeld in het vierde lid, is gelijk aan 100 minus het percentage, bedoeld in artikel 3.16, derde lid.  
 
 6. Het Zorginstituut merkt de door de zorgautoriteit berekende bedragen ter verrekening van de opbrengstresultaten in 2010 voor een door hem per instelling voor medisch specialistische zorg vast te stellen percentage aan als vaste kosten van ziekenhuisverpleging.  
 
-7. Het percentage per instelling, bedoeld in het zesde lid, is gelijk aan 100 minus het percentage, bedoeld in [artikel 3.16, vierde lid](../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md).  
+7. Het percentage per instelling, bedoeld in het zesde lid, is gelijk aan 100 minus het percentage, bedoeld in artikel 3.16, vierde lid.  
 
 8. Het Zorginstituut merkt de kostencomponent van de niet-onderhandelbare dbc-tarieven van instellingen, dan wel zorgverleners, die niet bedoeld zijn in het tweede, vierde of zesde lid, voor 25 procent aan als vaste kosten van ziekenhuisverpleging.  
 
@@ -374,7 +374,7 @@ c. de kostencomponent van de vaste bedragen ter verrekening van de in 2010 gerea
 ### Artikel  29  
 Materieel uitgewerkt per 22-12-2013 
 
-In afwijking van hetgeen daarover in [artikel 3.18 van de Regeling zorgverzekering](../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) zoals dat met betrekking tot het jaar 2010 gold, was geregeld, worden de kosten van geneeskundige geestelijke gezondheidszorg voor verzekerden jonger dan achttien jaar ten behoeve van de vaststelling van de vereveningsbijdrage over het jaar 2010 als volgt herberekend: 
+In afwijking van hetgeen daarover in artikel 3.18 van de Regeling zorgverzekering zoals dat met betrekking tot het jaar 2010 gold, was geregeld, worden de kosten van geneeskundige geestelijke gezondheidszorg voor verzekerden jonger dan achttien jaar ten behoeve van de vaststelling van de vereveningsbijdrage over het jaar 2010 als volgt herberekend: 
 
 1. Het Zorginstituut merkt de door de zorgautoriteit berekende bedragen ter verrekening van de in 2010 gerealiseerde opbrengstresultaten van gebudgetteerde instellingen voor geneeskundige geestelijke gezondheidszorg voor een door de zorgautoriteit vast te stellen gedeelte aan als kosten voor geneeskundige geestelijke gezondheidszorg voor verzekerden jonger dan achttien jaar.  
 
@@ -384,16 +384,16 @@ In afwijking van hetgeen daarover in [artikel 3.18 van de Regeling zorgverzekeri
 
 4. Het Zorginstituut calculeert 100 procent na op het verschil tussen de gerealiseerde kosten van geneeskundige gezondheidszorg voor verzekerden jonger dan achttien jaar en het deelbedrag kosten geneeskundige geestelijke gezondheidszorg voor verzekerden jonger dan achttien jaar.  
 
-5. Het Zorginstituut past overeenkomstig [artikel 3.14 van de Regeling zorgverzekering](../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) zoals dat met betrekking tot het jaar 2010 gold, hogekostencompensatie toe op het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg voor verzekerden van achttien jaar en ouder.   
+5. Het Zorginstituut past overeenkomstig artikel 3.14 van de Regeling zorgverzekering zoals dat met betrekking tot het jaar 2010 gold, hogekostencompensatie toe op het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg voor verzekerden van achttien jaar en ouder.   
 
 ### Artikel  30  
 Materieel uitgewerkt per 22-12-2013 
 
-In afwijking van hetgeen daarover in [artikel 3.19 van de Regeling zorgverzekering](../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) zoals dat met betrekking tot het jaar 2010 gold, was geregeld, worden de kosten van geneeskundige geestelijke gezondheidszorg voor verzekerden van achttien jaar en ouder ten behoeve van de vaststelling van de vereveningsbijdrage over het jaar 2010 als volgt herberekend: 
+In afwijking van hetgeen daarover in artikel 3.19 van de Regeling zorgverzekering zoals dat met betrekking tot het jaar 2010 gold, was geregeld, worden de kosten van geneeskundige geestelijke gezondheidszorg voor verzekerden van achttien jaar en ouder ten behoeve van de vaststelling van de vereveningsbijdrage over het jaar 2010 als volgt herberekend: 
 
 1. Het Zorginstituut merkt de door de zorgautoriteit berekende bedragen ter verrekening van de in 2010 gerealiseerde opbrengstresultaten van gebudgetteerde instellingen voor geneeskundige geestelijke gezondheidszorg voor een door de zorgautoriteit vast te stellen gedeelte aan als kosten voor geneeskundige geestelijke gezondheidszorg voor verzekerden van achttien jaar en ouder.  
 
-2. Het Zorginstituut past overeenkomstig [artikel 3.14 van de Regeling zorgverzekering](../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) zoals dat met betrekking tot het jaar 2010 gold, hogekostencompensatie toe op het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg voor verzekerden van achttien jaar en ouder.   
+2. Het Zorginstituut past overeenkomstig artikel 3.14 van de Regeling zorgverzekering zoals dat met betrekking tot het jaar 2010 gold, hogekostencompensatie toe op het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg voor verzekerden van achttien jaar en ouder.   
 
 ### Hoofdstuk  8  
 
@@ -404,7 +404,7 @@ Materieel uitgewerkt per 22-12-2013
 ### Artikel  31  
 Materieel uitgewerkt per 22-12-2013 
 
-[Hoofdstuk 3 van de Regeling zorgverzekering](../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md), zoals dat na toepassing van artikel 24 juncto 33, vierde lid, zoals dat met betrekking tot het vereveningsjaar 2011 luidde, blijft van toepassing op de vaststelling van de vereveningsbijdragen over 2011. 
+Hoofdstuk 3 van de Regeling zorgverzekering, zoals dat na toepassing van artikel 24 juncto 33, vierde lid, zoals dat met betrekking tot het vereveningsjaar 2011 luidde, blijft van toepassing op de vaststelling van de vereveningsbijdragen over 2011. 
 
 ### Artikel  32  
 Materieel uitgewerkt per 22-12-2013 

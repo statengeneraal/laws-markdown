@@ -434,7 +434,7 @@ d. EPC begrenzing woningen of woongebouw (door middel van arcering op plattegron
 e. gebouwfunctie en energiesectoren (op tekening voor niet tot bewoning bestemde gebouwen, gearceerd);  
 
 f. invoergegevens EPC berekening (bouwfysische eigenschappen bouwwerk, installaties en gehanteerd rekenprogramma).     
-3.  De in het tweede lid bedoelde berekening van de energieprestatie wordt uitgevoerd met een NL-EPBD®EPC geattesteerd computerprogramma als bedoeld in BRL 9501 van 6 december 2006, inclusief wijzigingsblad van 27 september 2012. 
+3.  De in het tweede lid bedoelde berekening van de energieprestatie wordt uitgevoerd met een NL-EPBD®EPC geattesteerd computerprogramma als bedoeld in BRL 9501 van 6 december 2006, inclusief wijzigingsbladen van 27 september 2012 en 4 december 2014. 
 
 ### Artikel  2.13  
 
@@ -542,7 +542,7 @@ d. met aanduidingen van de plaats van, voor zover deze aanwezig zijn:
 
 – brandweerlift, en    
 
-e. gegevens en bescheiden over de aard en de plaats van de brandveiligheidsinstallaties.  De aanduidingen zijn conform NEN 1414: 2007, voor zover deze norm daarin voorziet.   
+e. gegevens en bescheiden over de aard en de plaats van de brandveiligheidsinstallaties.  De aanduidingen zijn conform NEN 1413: 2007, voor zover deze norm daarin voorziet.   
 3.  Bij de toepassing van een gelijkwaardige oplossing als bedoeld in artikel 1.3, eerste lid, van het Bouwbesluit 2012 verstrekt de aanvrager tevens gegevens en bescheiden waarmee de gelijkwaardigheid voldoende aannemelijk wordt gemaakt.  
 
 ### Hoofdstuk  4  

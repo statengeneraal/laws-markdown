@@ -3,9 +3,9 @@
 ##Verordening van het Hoofdbedrijfschap Detailhandel van 23 september 2009 houdende vaststellen van regels voor de verstrekking van subsidies (Subsidieverordening Hoofdbedrijfschap Detailhandel 2009)
 
 Het bestuur van het Hoofdbedrijfschap Detailhandel;  
-Gelet op [artikel 93 van de Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [titel 4.2](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [artikel 4:95](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [4;96 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);
+Gelet op artikel 93 van de Wet op de bedrijfsorganisatie, titel 4.2 en artikel 4:95 en 4;96 van de Algemene wet bestuursrecht;
 
-Gelet op [artikel 4.1](../../../../../../pbo/besluit/beleidsregels/bestuurskamer/BWBR0015680/README.md) en [4.2 van het Besluit Beleidsregels Bestuurskamer van de Sociaal Economische Raad](../../../../../../pbo/besluit/beleidsregels/bestuurskamer/BWBR0015680/README.md);
+Gelet op artikel 4.1 en 4.2 van het Besluit Beleidsregels Bestuurskamer van de Sociaal Economische Raad;
 Besluit:    
 ###§ 1 
 
@@ -30,7 +30,7 @@ Dit besluit is van toepassing op alle subsidieverstrekkingen door het hoofdbedri
 
 a.subsidieverstrekking krachtens een andere verordening van het hoofdbedrijfschap; 
 
-b.verstrekking van een subsidie als bedoeld in [artikel 4:23, derde lid onder b van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), dan wel verstrekking van een andere subsidie krachtens een besluit van de Raad van de Europese Unie, van het Europees Parlement en de Raad gezamenlijk of van de Commissie van de Europese Gemeenschappen. 
+b.verstrekking van een subsidie als bedoeld in artikel 4:23, derde lid onder b van de Algemene wet bestuursrecht, dan wel verstrekking van een andere subsidie krachtens een besluit van de Raad van de Europese Unie, van het Europees Parlement en de Raad gezamenlijk of van de Commissie van de Europese Gemeenschappen. 
 
 ###§ 2 
 
@@ -57,7 +57,7 @@ c.op al die terreinen waarvan het bestuur van mening is dat het verstrekken van 
 
 ###Artikel 5 
 
-1. Naast de in [artikel 4:37, eerste lid van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) genoemde verplichtingen kunnen aan de subsidieontvanger andere verplichtingen worden opgelegd die strekken tot verwezenlijking van het doel van de subsidie, met betrekking tot; 
+1. Naast de in artikel 4:37, eerste lid van de Algemene wet bestuursrecht genoemde verplichtingen kunnen aan de subsidieontvanger andere verplichtingen worden opgelegd die strekken tot verwezenlijking van het doel van de subsidie, met betrekking tot; 
 
 a.de bekendmaking van de resultaten van de gesubsidieerde activiteit; 
 
@@ -91,7 +91,7 @@ e.de evaluatie van de gesubsidieerde activiteit.
 
 ###Artikel 7 
 
-Een subsidie ten laste van een begroting die nog niet is vastgesteld wordt verleend onder de voorwaarde dat voldoende gelden ter beschikking worden gesteld (begrotingsvoorbehoud), bedoeld in [artikel 4:34 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). 
+Een subsidie ten laste van een begroting die nog niet is vastgesteld wordt verleend onder de voorwaarde dat voldoende gelden ter beschikking worden gesteld (begrotingsvoorbehoud), bedoeld in artikel 4:34 van de Algemene wet bestuursrecht. 
 
 ###Artikel 8 
 
@@ -125,7 +125,7 @@ a.een projectsubsidie; een subsidie voor een activiteit die naar haar aard een e
 
 b.een budgetsubsidie; een vooraf bepaalde subsidie die rechtstreeks is gerelateerd aan een vooraf bepaalde kwaliteit of kwantiteit van prestaties, zonder koppeling aan afzonderlijke kostenposten binnen de prestaties of activiteiten. 
 2. Indien er sprake is van een bijzonder geval en gewichtige belangen daartoe aanleiding geven, kan een exploitatiesubsidie worden verstrekt. Onder exploitatiesubsidie wordt verstaan een subsidie ter dekking van het exploitatietekort van de subsidie-ontvanger. 
-3. Op per boekjaar verstrekte subsidies is het bepaalde in [afdeling 4.2.8 Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing. 
+3. Op per boekjaar verstrekte subsidies is het bepaalde in afdeling 4.2.8 Algemene wet bestuursrecht van toepassing. 
 
 ###§ 5 
 

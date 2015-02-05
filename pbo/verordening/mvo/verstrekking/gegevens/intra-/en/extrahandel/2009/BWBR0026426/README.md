@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Margarine, Vetten en Oliën van 26 mei 2009 houdende regels ter zake van de verstrekking van gegevens (Verordening MVO verstrekking gegevens intra- en extrahandel 2009)
 
 Het bestuur van het Productschap Margarine, Vetten en Oliën;  
-Gelet op de [artikelen 93](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [104, eerste en derde lid van de Wet op de bedrijfsorganisatie](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op de [artikelen 3](../../../../../../../../../../AMvB/instellingsbesluit/productschap/margarine/vetten/en/oliën/BWBR0015164/README.md), [5](../../../../../../../../../../AMvB/instellingsbesluit/productschap/margarine/vetten/en/oliën/BWBR0015164/README.md) en [7 van het Instellingsbesluit Productschap Margarine, Vetten en Oliën](../../../../../../../../../../AMvB/instellingsbesluit/productschap/margarine/vetten/en/oliën/BWBR0015164/README.md);
+Gelet op de artikelen 93 en 104, eerste en derde lid van de Wet op de bedrijfsorganisatie en op de artikelen 3, 5 en 7 van het Instellingsbesluit Productschap Margarine, Vetten en Oliën;
 Besluit:    
 ###§ 1 
 
@@ -49,11 +49,11 @@ Deze verordening treedt in werking met ingang van de tweede dag na dagtekening v
 
 ###Artikel 6 
 
-De [Verordening MVO algemene bepalingen 2009](../../../../../../../../../../pbo/verordening/mvo/algemene/bepalingen/2009/BWBR0026424/README.md) is van toepassing. 
+De Verordening MVO algemene bepalingen 2009 is van toepassing. 
 
 ###Artikel 7 
 
-De [Verordening MVO verstrekking in- en uitvoergegevens 2004](../../../../../../../../../../pbo/verordening/mvo/verstrekking/gegevens/intra-/en/extrahandel/2004/BWBR0017546/README.md) wordt ingetrokken. 
+De Verordening MVO verstrekking in- en uitvoergegevens 2004 wordt ingetrokken. 
 
 ###Artikel 8 
 

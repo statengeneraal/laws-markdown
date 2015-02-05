@@ -3,9 +3,9 @@
 ##Besluit van het bestuur van het Productschap Tuinbouw van 10 november 2010, houdende regels over de bestrijding van knolcyperus (Verordening PT bestrijding knolcyperus 2010)
 
 Het bestuur van het Productschap Tuinbouw,  
-gelet op de [artikelen 93](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [104 eerste en derde lid](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en [126, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+gelet op de artikelen 93, 95, 104 eerste en derde lid, en 126, tweede lid, van de Wet op de bedrijfsorganisatie;
 
-gelet op de [artikelen 13](../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md) en [14 van het Instellingsbesluit Productschap Tuinbouw](../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md);
+gelet op de artikelen 13 en 14 van het Instellingsbesluit Productschap Tuinbouw;
 
 gehoord de Commissie voor bollen, knollen en wortelstokken van bloemgewassen, d.d. 5 oktober 2010;
 
@@ -37,7 +37,7 @@ Deze verordening verstaat onder:
 |h. |knolcyperus |: voor planten schadelijk organisme behorende tot de soort *Cyperus esculentus* L; |
 |i. |werktuigen |: machines, installaties, transportmiddelen, gereedschappen, materialen of apparatuur die met grond in aanraking komen; |
 |j. |reinigen van werktuigen |: het zodanig vrijmaken van aanhangende grond en van planten, dat geen verspreiding van knolcyperus kan plaatsvinden; |
-|k. |toezichthouder |: een door de secretaris namens het bestuur aangewezen persoon, belast met het houden van toezicht, zoals opgenomen in [titel 5.2 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). |
+|k. |toezichthouder |: een door de secretaris namens het bestuur aangewezen persoon, belast met het houden van toezicht, zoals opgenomen in titel 5.2 van de Algemene wet bestuursrecht. |
 
 ###§ 2 
 

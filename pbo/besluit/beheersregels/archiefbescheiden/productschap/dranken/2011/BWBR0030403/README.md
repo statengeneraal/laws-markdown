@@ -2,7 +2,7 @@
 
 ##Besluit Beheersregels Archiefbescheiden Productschap Dranken 2011
 
-Het dagelijks bestuur van het Productschap Dranken heeft, gelet op [artikel 14 van het Archiefbesluit 1995](../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md), [artikel 92 van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [artikel 26 van het Instellingsbesluit Productschap Dranken](../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md) op 5 juli 2011 het volgende besluit vastgesteld.
+Het dagelijks bestuur van het Productschap Dranken heeft, gelet op artikel 14 van het Archiefbesluit 1995, artikel 92 van de Wet op de bedrijfsorganisatie en artikel 26 van het Instellingsbesluit Productschap Dranken op 5 juli 2011 het volgende besluit vastgesteld.
 
 ###1 
 
@@ -10,13 +10,13 @@ Het dagelijks bestuur van het Productschap Dranken heeft, gelet op [artikel 14 v
 
 ###Artikel 1 
 
-Dit besluit neemt over de terminologie van het [Instellingsbesluit Productschap Dranken](../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md) en de [Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en verstaat voorts onder: 
+Dit besluit neemt over de terminologie van het Instellingsbesluit Productschap Dranken en de Wet op de bedrijfsorganisatie en verstaat voorts onder: 
 
 | --- | --- | --- | --- |
 |:---|:---|:---|:---|
 |a. |dagelijks bestuur |: | het dagelijks bestuur van het productschap; |
 |b. |voorzitter |: | voorzitter van het productschap; |
-|c. |commissies |: | organen als bedoeld in [artikel 88a van de wet](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md); |
+|c. |commissies |: | organen als bedoeld in artikel 88a van de wet; |
 |d. |minister |: | Minister van Sociale Zaken en Werkgelegenheid; |
 |e. |beheer |: | het verrichten of doen verrichten van de feitelijke werkzaamheden die nodig zijn voor een goede bewaring, ordening, selectie, toegankelijkheid, vernietiging en overbrenging naar een archiefbewaarplaats van archiefbescheiden; |
 |f. |zorg |: | de algemene bestuurlijke verantwoordelijkheid voor de uitvoering van het beheer van archiefbescheiden en voor die zaken die noodzakelijk zijn om efficiënt en effectief archiefbeheer mogelijk te maken, zoals huisvesting, deskundig personeel en financiële middelen; |

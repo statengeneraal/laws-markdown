@@ -3,9 +3,9 @@
 ##Verordening van het Bedrijfschap Horeca en Catering van 7 oktober 2009, houdende regels terzake van het verstrekken van subsidies (Subsidieverordening Bedrijfschap Horeca en Catering)
 
 Het bestuur van het Bedrijfschap Horeca en Catering;  
-Gelet op de [artikelen 93](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [123 ](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md)en [125 van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en gelet op [Titel 4.2 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);
+Gelet op de artikelen 93, 95, 123 en 125 van de Wet op de bedrijfsorganisatie en gelet op Titel 4.2 van de Algemene wet bestuursrecht;
 
-Gelet op [Hoofdstuk 4 van het Besluit beleidsregels Bestuurskamer](../../../../../../../pbo/besluit/beleidsregels/bestuurskamer/BWBR0015680/README.md) van de Sociaal-Economische Raad;
+Gelet op Hoofdstuk 4 van het Besluit beleidsregels Bestuurskamer van de Sociaal-Economische Raad;
 Besluit vast te stellen de navolgende verordening:    
 ###§ 1 
 
@@ -28,7 +28,7 @@ In deze verordening wordt verstaan onder:
 ###Artikel 2 
 
 1. Deze verordening is van toepassing op alle door het bedrijfschap te verstrekken subsidies. 
-2. Op per kalenderjaar aan rechtspersonen te verstrekken subsidies is [afdeling 4.2.8 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing met inachtneming van het bepaalde in deze verordening. 
+2. Op per kalenderjaar aan rechtspersonen te verstrekken subsidies is afdeling 4.2.8 van de Algemene wet bestuursrecht van toepassing met inachtneming van het bepaalde in deze verordening. 
 
 ###Artikel 3 
 
@@ -156,7 +156,7 @@ d.het gebruik van de resultaten van de gesubsidieerde activiteiten ten behoeve v
 e.de keuze van de instelling die de te subsidiëren activiteiten uitvoert; 
 
 f.de evaluatie van de gesubsidieerde activiteiten. 
-4. De subsidieontvanger worden de verplichtingen opgelegd die voortvloeien uit de [Verordening financiën bedrijfslichamen 1999](../../../../../../../pbo/verordening/financiën/bedrijfslichamen/1999/BWBR0009299/README.md), voor zover deze van toepassing zijn. 
+4. De subsidieontvanger worden de verplichtingen opgelegd die voortvloeien uit de Verordening financiën bedrijfslichamen 1999, voor zover deze van toepassing zijn. 
 
 ###§ 5 
 

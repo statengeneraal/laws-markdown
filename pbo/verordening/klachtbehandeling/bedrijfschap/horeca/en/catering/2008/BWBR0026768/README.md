@@ -4,7 +4,7 @@
 
 Het bestuur van het Bedrijfschap voor het Hotel-, het Restaurant-, het Café- en het Pension- en Kamerverhuurbedrijf en Aanverwante Bedrijven;
 
-Gelet op [artikel 92 van de Wet op de Bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [hoofdstuk 9 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);
+Gelet op artikel 92 van de Wet op de Bedrijfsorganisatie en hoofdstuk 9 van de Algemene wet bestuursrecht;
 Besluit vast te stellen de navolgende verordening:
 
 ###Artikel 1 
@@ -13,14 +13,14 @@ In deze verordening wordt verstaan onder:
 
 a.Bedrijfschap: Bedrijfschap Horeca en Catering;
 
-b.Awb: [Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);
+b.Awb: Algemene wet bestuursrecht;
 
-c.klacht: een mondelinge of schriftelijke uiting van ongenoegen over een gedraging van het Bedrijfschap, als bedoeld in [artikel 9:1 van de Awb](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), voor zover tegen de gedraging niet de mogelijkheid van bezwaar of beroep als bedoeld in de [Awb](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) openstaat of heeft opengestaan;
+c.klacht: een mondelinge of schriftelijke uiting van ongenoegen over een gedraging van het Bedrijfschap, als bedoeld in artikel 9:1 van de Awb, voor zover tegen de gedraging niet de mogelijkheid van bezwaar of beroep als bedoeld in de Awb openstaat of heeft opengestaan;
 
 ###Artikel 2 
 
 1. Het Bedrijfschap draagt zorg voor een behoorlijke behandeling van mondelinge en schriftelijke klachten over zijn gedragingen.
-2. De aanvullende bepalingen voor een klachtadviesprocedure van [afdeling 9.1.3 van de Awb](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van toepassing.
+2. De aanvullende bepalingen voor een klachtadviesprocedure van afdeling 9.1.3 van de Awb zijn van toepassing.
 
 ###Artikel 3 
 
@@ -31,12 +31,12 @@ c.klacht: een mondelinge of schriftelijke uiting van ongenoegen over een gedragi
 ###Artikel 4 
 
 1. De klachtenadviseur behandelt de in deze verordening bedoelde schriftelijke klachten over gedragingen van het Bedrijfschap.
-2. De klachtenadviseur neemt bij de behandeling van klachten de bepalingen van [afdeling 9.1.2 van de Awb](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en de bepalingen van deze verordening in acht.
+2. De klachtenadviseur neemt bij de behandeling van klachten de bepalingen van afdeling 9.1.2 van de Awb en de bepalingen van deze verordening in acht.
 
 ###Artikel 5 
 
 1. De klachtencoördinator gaat, na indiening van een klacht, na of de klacht op eenvoudige wijze naar tevredenheid van de klager kan worden opgelost.
-2. Als de situatie beschreven in lid 1 zich voordoet, vervalt ingevolge [artikel 9:5 Awb](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) de verplichting tot verdere toepassing van de bepalingen van [afdeling 9.1.2 van de Awb](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en van deze verordening.
+2. Als de situatie beschreven in lid 1 zich voordoet, vervalt ingevolge artikel 9:5 Awb de verplichting tot verdere toepassing van de bepalingen van afdeling 9.1.2 van de Awb en van deze verordening.
 3. De klachtencoördinator bericht de klager in dat geval dat het Bedrijfschap er, zonder tegenbericht, van uitgaat dat de klacht naar tevredenheid van de klager is opgelost.
 
 ###Artikel 6 

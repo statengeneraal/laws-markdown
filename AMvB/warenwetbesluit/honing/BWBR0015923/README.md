@@ -188,8 +188,8 @@ c. niet in water oplosbare stoffen van ten hoogste 0,1 g/100 g; en
 
 d. vrije zuren van ten hoogste 80 milli-equivalenten zuur per 1000 gram.     
 4.  De in het eerste lid bedoelde aanduiding wordt gebezigd op de desbetreffende bulkcontainers, verpakkingen en handelsdocumenten.   
-5.  Onverminderd het Warenwetbesluit Etikettering van levensmiddelen wordt in de onmiddellijke nabijheid van de aanduiding bakkershoning de vermelding «uitsluitend bestemd om te koken» gebezigd.   
-6.  Onverminderd het Warenwetbesluit Etikettering van levensmiddelen mag, voor zover de waar als ingrediënt in een samengesteld levensmiddel is verwerkt, in de aanduiding de term «bakkershoning» worden vervangen door de term «honing». In de lijst met ingrediënten wordt de volledige term «bakkershoning» vermeld.  
+5.  Onverminderd Verordening (EU) nr. 1169/2011 van het Europees Parlement en de Raad van 25 oktober 2011 betreffende de verstrekking van voedselinformatie aan consumenten (PbEU 2011, L 304) wordt in de onmiddellijke nabijheid van de aanduiding bakkershoning de vermelding «uitsluitend bestemd om te koken» gebezigd.   
+6.  Onverminderd Verordening (EU) nr. 1169/2011 van het Europees Parlement en de Raad van 25 oktober 2011 betreffende de verstrekking van voedselinformatie aan consumenten (PbEU 2011, L 304) mag, voor zover de waar als ingrediënt in een samengesteld levensmiddel is verwerkt, in de aanduiding de term «bakkershoning» worden vervangen door de term «honing». In de lijst met ingrediënten wordt de volledige term «bakkershoning» vermeld.  
 
 ### Artikel  14  
 
@@ -198,7 +198,7 @@ d. vrije zuren van ten hoogste 80 milli-equivalenten zuur per 1000 gram.
 
 ### Artikel  15  
 
-1.  Onverminderd het Warenwetbesluit Etikettering van levensmiddelen: 
+1.  Onverminderd Verordening (EU) nr. 1169/2011 van het Europees Parlement en de Raad van 25 oktober 2011 betreffende de verstrekking van voedselinformatie aan consumenten (PbEU 2011, L 304): 
 
 a. mogen de in deze paragraaf bedoelde aanduidingen worden aangevuld met een vermelding van de bloemen of planten waarvan de waar voor het geheel of voor het grootste deel van afkomstig is, voor zover de waar daaraan zijn organoleptische, fysisch-chemische en microscopische kenmerken ontleent;  
 

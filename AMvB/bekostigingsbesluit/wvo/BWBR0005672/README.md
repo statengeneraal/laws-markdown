@@ -401,12 +401,12 @@ Met ingang van 1 augustus 2014:
 
 | Toelaatbaar verklaard tot (voortgezet) speciaal onderwijs aan/van:  | Bedrag LWOO/PRO  | Bedrag overig VO  |
 |:---|:---|:---|
-| Lichamelijk gehandicapte kinderen  | € 1.630,94  | € 3.232,24  |
-| Langdurig zieke kinderen met lichamelijke handicap  | € 1.601,28  | € 3.232,24  |
-| Zeer moeilijk lerende kinderen  | € 1.601,28  | € 3.232,24  |
-| Zeer moeilijk lerende kinderen met het syndroom van Down  | € 5.093,59  | € 5.093,59  |
-| Cluster 4  | € 1.601,28  | € 3.232,24  |
-| Lichamelijk gehandicapt en zeer moeilijk lerend  | € 1.601,28  | € 3.232,24  |
+| Lichamelijk gehandicapte kinderen  | € 1.643,24  | € 3.256,61  |
+| Langdurig zieke kinderen met lichamelijke handicap  | € 1.613,35  | € 3.256,61  |
+| Zeer moeilijk lerende kinderen  | € 1.613,35  | € 3.256,61  |
+| Zeer moeilijk lerende kinderen met het syndroom van Down  | € 5.067,04  | € 5.067,04  |
+| Cluster 4  | € 1.613,35  | € 3.256,61  |
+| Lichamelijk gehandicapt en zeer moeilijk lerend  | € 1.613,35  | € 3.256,61  |
 
 b. naast de in onderdeel a bedoelde bekostiging ontvangt het samenwerkingsverband als overgangsbekostiging een bij ministeriële regeling te bepalen bedrag per leerling.    
 

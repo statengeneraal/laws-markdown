@@ -3,7 +3,7 @@
 ##Besluit van het bestuur van het Productschap Tuinbouw van 24 maart 2009 houdende verlening van mandaat tot verlening en vaststelling van subsidie op grond van de Engineering Regeling (Bestuursbesluit PT mandaatverlening Engineering Regeling 2009)
 
 Het bestuur van het Productschap Tuinbouw,   
-gelet op [artikel 1:1](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [afdeling 10.1.1, van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), de [artikelen 71](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [95 van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [artikel 12 van het Instellingsbesluit Productschap Tuinbouw](../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md);
+gelet op artikel 1:1 en afdeling 10.1.1, van de Algemene wet bestuursrecht, de artikelen 71 en 95 van de Wet op de bedrijfsorganisatie en artikel 12 van het Instellingsbesluit Productschap Tuinbouw;
 
 Gelet op het Subsidiebesluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 6 juli 2007, nr. TRCJZ/2007/2034;
 

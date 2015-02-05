@@ -3,7 +3,7 @@
 ##Besluit van het bestuur van het Productschap Akkerbouw van 10 november 2011 tot vaststelling van regels met betrekking tot de Commissie Vlas en Hennep (Besluit PA commissie vlas en hennep 2011)
 
 Het bestuur van het Productschap Akkerbouw;  
-Gelet op [artikel 92 van de Wet op de bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), op de [artikelen 8](../../../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md), [17](../../../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md) en [18 van het Instellingsbesluit Akkerbouwproductschappen](../../../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md) en op artikel 6 van de Verordening PA bevoegdheden 2008;
+Gelet op artikel 92 van de Wet op de bedrijfsorganisatie, op de artikelen 8, 17 en 18 van het Instellingsbesluit Akkerbouwproductschappen en op artikel 6 van de Verordening PA bevoegdheden 2008;
 Besluit:    
 
 ###Artikel 1 
@@ -63,7 +63,7 @@ Dit besluit treedt in werking de tweede dag na publicatie in het Verordeningenbl
 
 ###Artikel 8 
 
-Het [Besluit PA commissie vlas 2008](../../../../../../../../../pbo/besluit/pa/commissie/vlas/2008/BWBR0024345/README.md) wordt ingetrokken
+Het Besluit PA commissie vlas 2008 wordt ingetrokken
 
 ###Artikel 9 
 
