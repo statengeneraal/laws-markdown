@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Vis van 12 oktober 2006, houdende regels ter zake van de aan de onder het Productschap Vis ressorterende ondernemers op te leggen bestemmingsheffing ten behoeve van onderzoek voor de aanvoersector voor het jaar 2007 (Verordening onderzoekfonds aanvoersector 2007)
 
 Het bestuur van het Productschap Vis,  
-Gelet op de [artikelen 95](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [artikel 7 van het Instellingsbesluit Productschap Vis](../../../../../../AMvB/instellingsbesluit/productschap/vis/BWBR0015163/README.md) (Stb. 2003, 253);
+Gelet op de artikelen 95 en 126 van de Wet op de bedrijfsorganisatie en artikel 7 van het Instellingsbesluit Productschap Vis (Stb. 2003, 253);
 
 Gehoord de Commissie aanvoeraangelegenheden, de Oesteradviescommissie, de Kokkeladviescommissie, de PO Schelpdiervisserij Noordzee en de Garnalenadviescommissie;
 Besluit:    
@@ -14,14 +14,14 @@ Besluit:
 
 | --- | --- | --- |
 |:---|:---|:---|
-|  *a.*   |  *Instellingsbesluit Productschap Vis*:  | [Besluit van 3 juni 2003, houdende instelling van een productschap voor ondernemingen op het gebied van de visserij, be- en verwerking van vis en de handel in vis en visproducten](../../../../../../AMvB/instellingsbesluit/productschap/vis/BWBR0015163/README.md) (*Stb.* 2003, 253);  |
-|  *b.*   |  *productschap*:  | het Productschap Vis, als bedoeld in [artikel 3 van het Instellingsbesluit Productschap Vis](../../../../../../AMvB/instellingsbesluit/productschap/vis/BWBR0015163/README.md);  |
+|  *a.*   |  *Instellingsbesluit Productschap Vis*:  | Besluit van 3 juni 2003, houdende instelling van een productschap voor ondernemingen op het gebied van de visserij, be- en verwerking van vis en de handel in vis en visproducten (*Stb.* 2003, 253);  |
+|  *b.*   |  *productschap*:  | het Productschap Vis, als bedoeld in artikel 3 van het Instellingsbesluit Productschap Vis;  |
 |  *c.*   |  *bestuur*:  | het bestuur van het productschap;  |
 |  *d.*   |  *voorzitter*:  | de voorzitter van het productschap;  |
 |  *e.*   |  *secretaris*:  | de secretaris van het productschap;  |
 |  *f.*   |  *Commissie aanvoeraangelegenheden*:  | de commissie ingesteld door het bestuur voor het adviseren over aangelegenheden betreffende de aanvoer;  |
 |  *g.*   |  *ondernemer*:  | degene, die een onderneming drijft, waarvoor het productschap is ingesteld;  |
-|  *h.*   |  *vis*:  | vissen, schaal- en schelpdieren, delen van vissen alsmede van schaal- en schelpdieren en puf en nest, een en ander met uitzondering van sier- en aquariumdieren, garnalen, mosselen, kokkels, spisula, zwaardscheden en mesheften, nonnetjes, oesters en alle door uitoefening van de binnenvisserij – niet zijnde de IJsselmeervisserij –, in de zin van [artikel 1, vierde lid onder d, van de Visserijwet 1963](../../../../../../wet/visserijwet/1963/BWBR0002416/README.md) verkregen soorten vis;  |
+|  *h.*   |  *vis*:  | vissen, schaal- en schelpdieren, delen van vissen alsmede van schaal- en schelpdieren en puf en nest, een en ander met uitzondering van sier- en aquariumdieren, garnalen, mosselen, kokkels, spisula, zwaardscheden en mesheften, nonnetjes, oesters en alle door uitoefening van de binnenvisserij – niet zijnde de IJsselmeervisserij –, in de zin van artikel 1, vierde lid onder d, van de Visserijwet 1963 verkregen soorten vis;  |
 |  *i.*   |  *garnalen*:  | garnalen van de soort *Crangon crangon*;  |
 |  *j.*   |  *mosselen*:  | schelpdieren van de soorten *Mytilus Spp.* of de soorten *Perna Spp.*;  |
 |  *k.*   |  *platte oesters*:  | schelpdieren van de soorten *Ostrea Spp.*;  |
@@ -36,7 +36,7 @@ Besluit:
 |  *t.*   |  *trawler*:  | vaartuig waarvan de lengte over alles 60 meter of meer bedraagt of een vaartuig met een brutotonnage van meer dan 1.200 BT waarmee de pelagische visserij wordt uitgeoefend, waaibij de gevangen vis en visproducten aan boord worden ingevroren;  |
 |  *u.*   |  *kotter*:  | vaartuig waarvan de lengte over alles minder dan 60 meter bedraagt;  |
 |  *v.*   |  *afslag*:  | een veiling van vis of visproducten;  |
-|  *w.*   |  *onderzoekfonds aanvoersector*:  |  het fonds ingesteld krachtens [artikel 1, eerste lid, van de Verordening instelling van een onderzoekfonds aanvoersector](../../../../../../pbo/verordening/instelling/van/een/onderzoekfonds/aanvoersector/BWBR0014874/README.md)<sup>1 Goedgekeurd door de Minister van Landbouw, Natuurbeheer en Visserij (thans geheten Landbouw, Natuur en Voedselkwaliteit) op 13-05-2003 en door de Sociaal-Economische Raad op 22-05-2003; gepubliceerd in Verordeningenblad Bedrijfsorganisatie dd. 30-05-2003, nr. 37 VIS 12. </sup>;  |
+|  *w.*   |  *onderzoekfonds aanvoersector*:  |  het fonds ingesteld krachtens artikel 1, eerste lid, van de Verordening instelling van een onderzoekfonds aanvoersector<sup>1 Goedgekeurd door de Minister van Landbouw, Natuurbeheer en Visserij (thans geheten Landbouw, Natuur en Voedselkwaliteit) op 13-05-2003 en door de Sociaal-Economische Raad op 22-05-2003; gepubliceerd in Verordeningenblad Bedrijfsorganisatie dd. 30-05-2003, nr. 37 VIS 12. </sup>;  |
 |  *x.*   |  *oesterseizoen*:  | de periode welke loopt vanaf 1 januari t/m 31 december.  |
 
 2.  Voor de toepassing van het bepaalde in deze verordening vindt het aanvoeren plaats op het tijdstip waarop het vissersvaartuig direct of indirect verbinding met de wal heeft gekregen.  
@@ -67,7 +67,7 @@ a. 4 promille van de waarde van de aangevoerde Spisula, zwaardscheden en mesheft
 b. € 300,– per vergunning per kalenderjaar voor de visserij op Spisula of zwaardscheden en mesheften of nonnetjes in de Nederlandse wateren.     
 5.  De waarde van de aangevoerde vis, oesters, kokkels, spisula, zwaardscheden en mesheften en nonnetjes wordt vastgesteld overeenkomstig artikel 3.   
 6.  De aanvoerder van garnalen is aan het productschap, ten behoeve van het onderzoekfonds aanvoersector, een heffing verschuldigd van: € 0,0003 per kilogram aangevoerde garnalen.   
-7.  De ondernemer die de binnenvisserij, als bedoeld in [artikel 1, vierde lid onder d, van de Visserijwet 1963](../../../../../../wet/visserijwet/1963/BWBR0002416/README.md) uitoefent is aan het productschap, ten behoeve van het onderzoekfonds aanvoersector, een heffing verschuldigd van: € 50,– per kalenderjaar.  
+7.  De ondernemer die de binnenvisserij, als bedoeld in artikel 1, vierde lid onder d, van de Visserijwet 1963 uitoefent is aan het productschap, ten behoeve van het onderzoekfonds aanvoersector, een heffing verschuldigd van: € 50,– per kalenderjaar.  
 
 ### Artikel  3  
 
@@ -103,7 +103,7 @@ f. indien de aangevoerde nonnetjes niet gekookt zijn geldt als waarde van de non
 ### Artikel  4  
 
 1.  Deze verordening treedt in werking met ingang van 1 januari 2007. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 31 december 2006, treedt deze verordening in werking met ingang van de dag na de datum van uitgifte van het Verordeningenblad Bedrijfsorganisatie en werkt deze terug tot en met 1 januari 2007.   
-2.  De [Verordening onderzoekfonds aanvoersector 2006](../../../../../../pbo/verordening/onderzoekfonds/aanvoersector/2006/BWBR0021809/README.md) wordt ingetrokken, behoudens ten aanzien van reeds verschuldigde heffingsbedragen welke nog niet zijn opgelegd, geïnd of gerestitueerd.   
+2.  De Verordening onderzoekfonds aanvoersector 2006 wordt ingetrokken, behoudens ten aanzien van reeds verschuldigde heffingsbedragen welke nog niet zijn opgelegd, geïnd of gerestitueerd.   
 3.  Deze verordening kan worden aangehaald als Verordening onderzoekfonds aanvoersector 2007.  
 
 Rijswijk 

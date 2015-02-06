@@ -99,9 +99,9 @@ Het verbod, bedoeld in artikel 2, eerste lid, van de Wet arbeid vreemdelingen, i
 
 a.als kennismigrant als bedoeld in artikel 3.4, eerste lid, onder d, van het Vreemdelingenbesluit 2000 in Nederland wordt tewerkgesteld op basis van een arbeidsovereenkomst of een ambtelijke aanstelling en:
 
-1°.van wie het overeengekomen vaste, naar tijdruimte en in geld vastgestelde loon als vergoeding voor zijn arbeid dat hij van de werkgever ontvangt, indien hij de leeftijd van dertig jaar niet heeft bereikt, ten minste € 2968,- per maand bedraagt bedraagt, dan wel indien hij dertig jaar of ouder is, ten minste € 4048,- per maand bedraagt,
+1°.van wie het overeengekomen vaste, naar tijdruimte en in geld vastgestelde loon als vergoeding voor zijn arbeid dat hij van de werkgever ontvangt, indien hij de leeftijd van dertig jaar niet heeft bereikt, ten minste € 3071,- per maand bedraagt bedraagt, dan wel indien hij dertig jaar of ouder is, ten minste € 4189,- per maand bedraagt,
 
-2°.die binnen een jaar voorafgaand aan de tewerkstelling een geaccrediteerde opleiding aan een hoger onderwijsinstelling in Nederland heeft afgerond en van wie het overeengekomen vaste, naar tijdruimte en in geld vastgestelde loon als vergoeding voor zijn arbeid dat hij van de werkgever ontvangt, ten minste € 2127,- per maand bedraagt,
+2°.die binnen een jaar voorafgaand aan de tewerkstelling een geaccrediteerde opleiding aan een hoger onderwijsinstelling in Nederland heeft afgerond en van wie het overeengekomen vaste, naar tijdruimte en in geld vastgestelde loon als vergoeding voor zijn arbeid dat hij van de werkgever ontvangt, ten minste € 2201,- per maand bedraagt,
 
 b.in Nederland wordt tewerkgesteld in het kader van het doen van wetenschappelijk onderzoek bij een bekostigde of aangewezen onderwijsinstelling of een van overheidswege direct of indirect, geheel of gedeeltelijke bekostigde of gesubsidieerde onderzoeksinstelling,
 
@@ -162,7 +162,7 @@ Het verbod, bedoeld in artikel 2, eerste lid, van de Wet arbeid vreemdelingen is
 
 a. een opleiding aan een geaccrediteerde opleiding aan een instelling voor hoger onderwijs in Nederland of een vergelijkbare opleiding aan een buitenlandse hogeronderwijsinstelling met goed gevolg heeft afgerond, en  
 
-b. van de werkgever een vast bruto-loon voor de arbeid ontvangt van ten minste € 4743 per maand.     
+b. van de werkgever een vast bruto-loon voor de arbeid ontvangt van ten minste € 4908 per maand.     
 2.  Het in het eerste lid, onder b, genoemde bedrag wordt bij ministeriële regeling jaarlijks met ingang van 1 januari gewijzigd met het percentage waarmee het indexcijfer van de CAO-lonen over de maand oktober daaraan voorafgaand, gepubliceerd door het Centraal Bureau voor de Statistiek, afwijkt van het indexcijfer waarop de laatste vaststelling van de bedragen is gebaseerd.  
 
 ### Artikel  1j  

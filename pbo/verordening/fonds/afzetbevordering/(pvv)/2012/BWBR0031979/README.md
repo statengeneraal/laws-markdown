@@ -3,7 +3,7 @@
 ##Verordening van het productschap Vee en Vlees van 5 juli 2012 houdende instelling van een financieringsfonds ten behoeve van de afzetbevordering van vee, vlees en vleeswaren (Verordening fonds afzetbevordering (PVV) 2012)
 
 Het bestuur van het Productschap Vee en Vlees; 
-Gelet op [artikel 93 van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [artikel 10 van het Instellingsbesluit Productschap Vee en Vlees](../../../../../../../AMvB/instellingsbesluit/productschap/vee/en/vlees/BWBR0016491/README.md);
+Gelet op artikel 93 van de Wet op de bedrijfsorganisatie en artikel 10 van het Instellingsbesluit Productschap Vee en Vlees;
 Besluit:  
 
 ###Artikel  1 
@@ -40,7 +40,7 @@ Het fonds kan door het bestuur worden opgeheven, in welk geval het bestuur als v
 
 ###Artikel  6 
 
-De [Verordening fonds afzetbevordering (PVV) 2005](../../../../../../../pbo/verordening/fonds/afzetbevordering/(pvv)/2005/BWBR0017339/README.md) wordt ingetrokken. 
+De Verordening fonds afzetbevordering (PVV) 2005 wordt ingetrokken. 
 
 ###Artikel  7 
 

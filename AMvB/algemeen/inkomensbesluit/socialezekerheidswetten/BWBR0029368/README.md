@@ -475,7 +475,11 @@ c. tevens onder inkomen wordt verstaan een uit een dienstbetrekking voortvloeien
 
 ####Vaststelling inkomen
 
-1.  Het inkomen, met uitzondering van het inkomen voor de toepassing van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen, de Werkloosheidswet, de Toeslagenwet, de Ziektewet en artikel 2:6 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, wordt herleid tot een bedrag per kalendermaand.   
+1.  Het inkomen voor de toepassing van: 
+
+a. de Algemene nabestaandenwet, de Algemene Ouderdomswet, de Wet inkomensvoorziening oudere werklozen, de Werkloosheidswet en de Wet werk en inkomen naar arbeidsvermogen wordt herleid tot een bedrag per kalendermaand;  
+
+b. de Toeslagenwet, de Ziektewet en artikel 2:6 van de Wet arbeidsondersteuning jonggehandicapten wordt herleid tot een bedrag per dag.     
 2.  Voor de toepassing van het eerste lid wordt de kalendermaand gesteld op 21,75 dagen. De kalenderweek wordt gesteld op vijf dagen. Het boek- of kalenderjaar wordt gesteld op 261 dagen.   
 3.  Bij de toepassing van het eerste lid wordt het loon door de uitkeringsgerechtigde geacht te zijn genoten in het aangiftetijdvak waarover de werkgever of de inhoudingsplichtige van dat loon opgave heeft gedaan.   
 4.  Bij de toepassing van het eerste lid worden betalingen van het overig inkomen toegerekend aan de perioden waarin hierop recht bestaat.   
@@ -487,11 +491,11 @@ c. tevens onder inkomen wordt verstaan een uit een dienstbetrekking voortvloeien
 
 ### Artikel  4:2  
 
-####Uitzonderingen voor de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers en de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen 
+####Vaststelling inkomen voor de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers en de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen 
 
 Voor het bepalen van inkomen als bedoeld in de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers of de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen geldt dat: 
 
-a. het inkomen uit arbeid of overig inkomen in de maand waarover aanspraak op uitkering wordt gemaakt vastgesteld wordt op het bedrag dat de uitkeringsgerechtigde over die maand verwerft of redelijkerwijs geacht kan worden te verwerven;  
+a. Het inkomen uit arbeid of overig inkomen wordt toegerekend aan de perioden waarin hierop recht bestaat en wordt vervolgens herleid tot een bedrag per kalendermaand;  
 
 b. indien op grond van artikel 21, tweede lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers de uitkering over een kortere periode dan een maand wordt uitbetaald, het inkomen en de uitkering eerst per maand vastgesteld worden, waarna de uitkering over een kortere periode naar evenredigheid wordt vastgesteld;  
 
@@ -560,6 +564,21 @@ a. recht bestaat op een uitkering op grond van artikel 29, tweede lid, van de Zi
 b. het recht op uitkering op grond van de Wet werk en inkomen naar arbeidsvermogen en het recht, bedoeld onder a, zijn ontstaan voor de inwerkingtreding van het besluit van 22 februari 2012 tot wijziging van het Inkomensbesluit volksverzekeringen en sociale voorzieningen in verband met toepassing op de Toeslagenwet, Wet inkomensvoorziening oudere werklozen, Wet werk en arbeidsondersteuning jonggehandicapten en werknemersverzekeringen (Stb. 79);   voor de duur van het recht, bedoeld in onderdeel a, artikel 3:3, vijfde lid, niet van toepassing is en tevens onder inkomen wordt verstaan het inkomen, bedoeld in artikel 3:2, eerste lid, dat werd genoten in het aangiftetijdvak voor het aangiftetijdvak waarin recht bestond op die uitkering.   
 4.  In geval van een uitkeringsgerechtigde waarvan het recht op een uitkering op grond van de Wet werk en inkomen naar arbeidsvermogen en het ontvangen van ziekengeld op grond van artikel 29, tweede lid, van de Ziektewet zijn ontstaan voor inwerkingtreding van het besluit van 22 februari 2012 tot wijziging van het Inkomensbesluit volksverzekeringen en sociale voorzieningen in verband met toepassing op de Toeslagenwet, Wet inkomensvoorziening oudere werklozen, Wet werk en arbeidsondersteuning jonggehandicapten en werknemersverzekeringen (Stb. 79) is, voor de duur van dat recht op grond van artikel 29, tweede lid, van de Ziektewet, artikel 3:4, tweede lid, onderdelen a en d, niet van toepassing.   
 5.  Ingeval van een uitkeringsgerechtigde die recht heeft op een uitkering op grond Wet arbeidsongeschiktheidsvoorziening jonggehandicapten en recht heeft op een uitkering op grond van een vrijwillige verzekering op grond van de Werkloosheidswet, Ziektewet, Wet werk en inkomen naar arbeidsvermogen of Wet op de arbeidsongeschiktheidsverzekering op de dag voor inwerkingtreding van het besluit van 22 februari 2012 tot wijziging van het Inkomensbesluit volksverzekeringen en sociale voorzieningen in verband met toepassing op de Toeslagenwet, Wet inkomensvoorziening oudere werklozen, Wet werk en arbeidsondersteuning jonggehandicapten en werknemersverzekeringen (Stb. 79) is artikel 3:6, onderdeel b, onder 3, voor zover het de uitkering op grond van een vrijwillige verzekering betreft, niet van toepassing gedurende de duur van die uitkering doch ten hoogste gedurende twee jaar.  
+
+### Artikel  5:1a  
+
+####Overgangsrecht in verband met de Wet werk en zekerheid
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Indien: 
+
+a. meer dan een recht op uitkering op grond van de Werkloosheidswet, de Wet werk en inkomen naar arbeidsvermogen dan wel de Ziektewet bestaat;  
+
+b. voor de uitkeringsgerechtigde zowel het Algemeen inkomensbesluit socialezekerheidswetten van toepassing zou zijn, zoals dat luidde voor het tijdstip van inwerkingtreding van artikel XXVI, onderdeel S, van de Wet werk en zekerheid, als het Algemeen inkomensbesluit sociale zekerheidswetten, zoals dat luidde na het tijdstip van inwerkingtreding van artikel XXVI, onderdeel S, onderdeel V dan wel onderdeel C van de Wet werk en zekerheid; en  
+
+c. inkomen, verrekend zou worden met een andere uitkering op grond van het Algemeen inkomensbesluit socialezekerheidswetten, zoals dat luidde voor het tijdstip van inwerkingtreding van artikel XXVI, onderdeel S, van de Wet werk en zekerheid dan op grond van het eveneens van toepassing zijnde Algemeen inkomensbesluit socialezekerheidswetten, zoals dat luidde na dat tijdstip,   dan wordt de op de samenloop betrekking hebbende bepaling uit Algemeen inkomensbesluit socialezekerheidswetten toegepast, zoals die bepaling luidde voor het tijdstip van inwerkingtreding van artikel XXVI, onderdeel S, van de Wet werk en zekerheid.   
+2.  Het eerste lid is niet langer van toepassing als er sprake is van een recht op uitkering op grond van hoofdstuk II van de Werkloosheidswet, niet zijnde een uitkering op grond van artikel 18 van die wet, dat op grond van artikel 130z of 130aa van de Werkloosheidswet is omgezet.  
 
 ### Artikel  5:2  
 

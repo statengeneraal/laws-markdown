@@ -3,9 +3,9 @@
 ##Besluit van het bestuur van het Productschap Tuinbouw, d.d. 14 november 2011, houdende de vaststelling van de jaarlijks aan ondernemers die bloemkwekerijproducten naar Japan exporteren op te leggen retributie (Verordening PT retributie export bloemkwekerijproducten Japan 2012)
 
 HET BESTUUR VAN HET PRODUCTSCHAP TUINBOUW; 
-gelet op de [artikelen 95](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126, tweede lid van de Wet op de bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md); 
+gelet op de artikelen 95 en 126, tweede lid van de Wet op de bedrijfsorganisatie; 
 
-gelet op de [artikelen 13](../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md) en [14 van het Instellingsbesluit Productschap Tuinbouw](../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md);
+gelet op de artikelen 13 en 14 van het Instellingsbesluit Productschap Tuinbouw;
 
 gehoord de commissie voor Bloemkwekerijproducten, d.d. 24 oktober 2011;
 BESLUIT: 
@@ -15,8 +15,8 @@ BESLUIT:
 
 ###Artikel  1 
 
-1.  In deze verordening worden overgenomen de begripsbepalingen van de [artikelen 1](../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md) en [2 van het Instellingsbesluit Productschap Tuinbouw](../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md). 
-2.  In deze verordening worden overgenomen de begripsbepalingen van de [artikelen 1:1](../../../../../../../../../pbo/verordening/pt/algemene/bepalingen/2009/BWBR0027562/README.md) en [3:1](../../../../../../../../../pbo/verordening/pt/algemene/bepalingen/2009/BWBR0027562/README.md) en de werkwijze zoals beschreven in [paragraaf 3 van de Verordening PT Algemene bepalingen 2009](../../../../../../../../../pbo/verordening/pt/algemene/bepalingen/2009/BWBR0027562/README.md). 
+1.  In deze verordening worden overgenomen de begripsbepalingen van de artikelen 1 en 2 van het Instellingsbesluit Productschap Tuinbouw. 
+2.  In deze verordening worden overgenomen de begripsbepalingen van de artikelen 1:1 en 3:1 en de werkwijze zoals beschreven in paragraaf 3 van de Verordening PT Algemene bepalingen 2009. 
 3.  In deze verordening wordt verstaan onder:  
 
 | --- | --- | --- |
@@ -82,8 +82,8 @@ Deze verordening wordt aangehaald als: Verordening PT retributie export bloemkwe
 
 ###Artikel  10 
 
-1.  De [Verordening PT heffing export bloemkwekerijproducten Japan 2010](../../../../../../../../../pbo/verordening/pt/heffing/export/bloemkwekerijproducten/japan/2010/BWBR0027571/README.md) wordt ingetrokken. 
-2.  De verplichting tot betaling van heffing over de jaren tot en met 2011 op grond van [Verordening PT heffing export bloemkwekerijproducten Japan 2010](../../../../../../../../../pbo/verordening/pt/heffing/export/bloemkwekerijproducten/japan/2010/BWBR0027571/README.md) blijft van kracht.
+1.  De Verordening PT heffing export bloemkwekerijproducten Japan 2010 wordt ingetrokken. 
+2.  De verplichting tot betaling van heffing over de jaren tot en met 2011 op grond van Verordening PT heffing export bloemkwekerijproducten Japan 2010 blijft van kracht.
 
 Zoetermeer 
 14 november 2011 

@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Vee en Vlees van 5 juli 2012 houdende instelling van een financieringsfonds ten behoeve van de sociale aangelegenheden in de vleeswarenindustrie (Verordening fonds sociale aangelegenheden vleeswarenindustrie (PVV) 2012)
 
 Het bestuur van het Productschap Vee en Vlees; 
-Gelet op [artikel 93 van de Wet op de bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [artikel 10 van het Instellingsbesluit Productschap Vee en Vlees](../../../../../../../../../AMvB/instellingsbesluit/productschap/vee/en/vlees/BWBR0016491/README.md);
+Gelet op artikel 93 van de Wet op de bedrijfsorganisatie en artikel 10 van het Instellingsbesluit Productschap Vee en Vlees;
 Besluit:  
 
 ###Artikel  1 
@@ -42,7 +42,7 @@ Het fonds kan door het bestuur, in overeenstemming met de commissie, worden opge
 
 ###Artikel  6 
 
-De [Verordening fonds sociale aangelegenheden vleeswarenindustrie (PVV) 2003](../../../../../../../../../pbo/verordening/fonds/sociale/aangelegenheden/vleeswarenindustrie/(pvv)/2003/BWBR0015354/README.md) wordt ingetrokken. 
+De Verordening fonds sociale aangelegenheden vleeswarenindustrie (PVV) 2003 wordt ingetrokken. 
 
 ###Artikel  7 
 

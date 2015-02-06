@@ -3,9 +3,9 @@
 ##Besluit van het bestuur van het Productschap Tuinbouw d.d. 30 juni 2009, houdende de vaststelling van een heffing ten behoeve van hoveniersbedrijven (Verordening PT heffing hoveniersbedrijven 2010)
 
 Het bestuur van het Productschap Tuinbouw;  
-gelet op de [artikel 126 van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en
+gelet op de artikel 126 van de Wet op de bedrijfsorganisatie, en
 
-gelet op de [artikel 14 van het Instellingsbesluit Productschap Tuinbouw](../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md);
+gelet op de artikel 14 van het Instellingsbesluit Productschap Tuinbouw;
 
 gehoord de Commissie voor hovenierswerkzaamheden, d.d. 7 april 2009;
 Besluit:    
@@ -41,7 +41,7 @@ Materieel uitgewerkt per 17-04-2011
 Materieel uitgewerkt per 17-04-2011 
 
 1. De ondernemer is jaarlijks een heffing aan het productschap verschuldigd. Uit de opbrengst van deze heffing worden projecten ten behoeve van de hovenierssector alsmede algemene kosten van het productschap gefinancierd. 
-2. De heffing als bedoeld in het eerste lid wordt berekend op basis van de ingevolge de [Verordening PT algemene bepalingen 2007](../../../../../../../pbo/verordening/pt/algemene/bepalingen/2007/BWBR0022738/README.md) door de ondernemer aan het productschap verstrekte gegevens.
+2. De heffing als bedoeld in het eerste lid wordt berekend op basis van de ingevolge de Verordening PT algemene bepalingen 2007 door de ondernemer aan het productschap verstrekte gegevens.
 
 ###§ 3 
 

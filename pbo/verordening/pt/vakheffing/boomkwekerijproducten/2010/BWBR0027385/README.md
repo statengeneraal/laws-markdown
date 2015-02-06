@@ -3,9 +3,9 @@
 ##Besluit van het Productschap Tuinbouw van 30 juni 2009, houdende regels ter zake van de aan de onder het Productschap Tuinbouw ressorterende ondernemers in de sector boomkwekerijproducten op te leggen heffing (Verordening PT vakheffing boomkwekerijproducten 2010)
 
 Het bestuur van het Productschap Tuinbouw,  
-gelet op [artikel 126 van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en
+gelet op artikel 126 van de Wet op de bedrijfsorganisatie, en
 
-gelet op de [artikel 14 van het Instellingsbesluit Productschap Tuinbouw](../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md);
+gelet op de artikel 14 van het Instellingsbesluit Productschap Tuinbouw;
 
 gehoord de Commissie voor boomkwekerijproducten, d.d. 20 mei 2009;
 Besluit:    
@@ -79,7 +79,7 @@ Materieel uitgewerkt per 20-03-2011
 ###Artikel 4 
 Materieel uitgewerkt per 20-03-2011 
 
-Indien en voor zover de ondernemer via bloemenveilingen boomkwekerijproducten heeft verhandeld in het kalenderjaar waarover de heffing wordt opgelegd, en door de veiling bedragen zijn ingehouden met toepassing van het bepaalde in de [Verordening PT vakheffing bloemkwekerijproducten](../../../../../../../pbo/verordening/pt/vakheffing/bloemkwekerijproducten/2009/BWBR0025121/README.md), worden deze bedragen aangemerkt als voorschotten op de ingevolge artikelen 2 en 3 verschuldigde heffing. 
+Indien en voor zover de ondernemer via bloemenveilingen boomkwekerijproducten heeft verhandeld in het kalenderjaar waarover de heffing wordt opgelegd, en door de veiling bedragen zijn ingehouden met toepassing van het bepaalde in de Verordening PT vakheffing bloemkwekerijproducten, worden deze bedragen aangemerkt als voorschotten op de ingevolge artikelen 2 en 3 verschuldigde heffing. 
 
 ###Artikel 5 
 Materieel uitgewerkt per 20-03-2011 

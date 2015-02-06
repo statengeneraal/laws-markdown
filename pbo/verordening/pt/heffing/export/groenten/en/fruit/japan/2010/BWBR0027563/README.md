@@ -3,9 +3,9 @@
 ##Besluit van het bestuur van het Productschap Tuinbouw van 11 november 2009, houdende regels ter zake van de aan ondernemers, die groenten en fruit naar Japan exporteren, op te leggen heffing voor het jaar 2010 (Verordening PT heffing export groenten en fruit Japan 2010) 
 
 Het bestuur van het Productschap Tuinbouw,  
-gelet op de [artikelen 93](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+gelet op de artikelen 93 en 126 van de Wet op de bedrijfsorganisatie;
 
-gelet op de [artikelen 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw](../../../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md);
+gelet op de artikelen 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw;
 
 gehoord de Commissie voor groenten en fruit d.d. 20 oktober 2009;
 Besluit:    
@@ -18,8 +18,8 @@ Materieel uitgewerkt per 27-03-2011
 ###Artikel 1 
 Materieel uitgewerkt per 27-03-2011 
 
-1. In deze verordening worden overgenomen de begripsbepalingen van de [artikelen 1](../../../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md) en [2 van het Instellingsbesluit Productschap Tuinbouw](../../../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md). 
-2. In deze verordening worden overgenomen de begripsbepalingen van [artikel 1 :1](../../../../../../../../../../../pbo/verordening/pt/algemene/bepalingen/2009/BWBR0027562/README.md) en [artikel 3:1](../../../../../../../../../../../pbo/verordening/pt/algemene/bepalingen/2009/BWBR0027562/README.md), en de werkwijze zoals beschreven in [hoofdstuk 3 van de Verordening PT algemene bepalingen 2009](../../../../../../../../../../../pbo/verordening/pt/algemene/bepalingen/2009/BWBR0027562/README.md).  
+1. In deze verordening worden overgenomen de begripsbepalingen van de artikelen 1 en 2 van het Instellingsbesluit Productschap Tuinbouw. 
+2. In deze verordening worden overgenomen de begripsbepalingen van artikel 1 :1 en artikel 3:1, en de werkwijze zoals beschreven in hoofdstuk 3 van de Verordening PT algemene bepalingen 2009.  
 
 ###§ 2 
 

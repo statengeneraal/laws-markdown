@@ -138,7 +138,7 @@ d. de Koninklijke Nederlandse Akademie van Wetenschappen te Amsterdam en de Koni
 ####Instellingen voor wetenschappelijk onderzoek 
 
 1.  De Koninklijke Nederlandse Akademie van Wetenschappen is werkzaam op het gebied van het wetenschappelijk onderzoek. In elk geval bevordert zij de uitwisseling van gedachten en informatie tussen haar leden onderling en tussen deze leden en andere wetenschapsbeoefenaren en wetenschappelijke organisaties, adviseert zij Onze minister desgevraagd of uit eigen beweging over aangelegenheden op het gebied van de wetenschapsbeoefening en bevordert zij de wetenschapsbeoefening door werkzaamheden op dat gebied te verrichten of te doen verrichten.    
-2.   De Koninklijke Bibliotheek is als de nationale bibliotheek werkzaam op het gebied van het bibliotheekwezen en de informatieverzorging, zowel ten behoeve van het hoger onderwijs en het wetenschappelijk onderzoek als ten behoeve van het openbaar bestuur en de uitoefening van beroep of bedrijf. In elk geval draagt zij zorg voor de nationale bibliotheekverzameling, bevordert zij de totstandkoming en instandhouding van nationale voorzieningen op het vorengenoemde gebied en bevordert zij de afstemming met de overige wetenschappelijke bibliotheken.   
+2.   De Koninklijke Bibliotheek is als de nationale bibliotheek werkzaam op het gebied van het bibliotheekwezen en de informatieverzorging, zowel ten behoeve van het hoger onderwijs en het wetenschappelijk onderzoek als ten behoeve van het openbaar bestuur en de uitoefening van beroep of bedrijf. In dat kader draagt zij in elk geval zorg voor de nationale bibliotheekverzameling, bevordert zij de totstandkoming en instandhouding van nationale voorzieningen op het vorengenoemde gebied en bevordert zij de afstemming met de overige wetenschappelijke bibliotheken.   
 
 ### Artikel  1.6  
 
@@ -321,15 +321,13 @@ De Koninklijke Nederlandse Akademie van Wetenschappen en de Koninklijke Biblioth
 
 ####Kaderwet zelfstandige bestuursorganen
 
-Treedt in werking per 01-01-2015 
-
 De Kaderwet zelfstandige bestuursorganen is van toepassing op de Koninklijke Bibliotheek, met uitzondering van artikel 15 van die wet. 
 
 ### Artikel  1.17  
 
 ####Bekostiging 
 
-1.  De in artikel 1.16 genoemde instellingen voor wetenschappelijk onderzoek hebben aanspraak op een bijdrage uit ’s Rijks kas ten behoeve van het vervullen van hun bij deze wet opgedragen werkzaamheden.    
+1.  De Koninklijke Nederlandse Akademie van Wetenschappen heeft aanspraak op een bijdrage uit ’s Rijks kas ten behoeve van het vervullen van haar bij deze wet opgedragen werkzaamheden. De eerste volzin is van overeenkomstige toepassing op de Koninklijke Bibliotheek, onverminderd haar aanspraak op een bijdrage op grond van artikel 9 van de Wet stelsel openbare bibliotheekvoorzieningen.   
 2.   Voorwaarde voor het bepaalde in het eerste lid is dat de desbetreffende instelling in acht neemt het bij of krachtens deze wet bepaalde ten aanzien van:  
 
 a. de kwaliteitszorg,   
@@ -379,8 +377,8 @@ Treedt in werking op een nader te bepalen tijdstip
 ####Meldcode huiselijk geweld en kindermishandeling
 
 1.  Het instellingsbestuur stelt voor het personeel een meldcode vast waarin stapsgewijs wordt aangegeven hoe met signalen van huiselijk geweld of kindermishandeling wordt omgegaan en die er redelijkerwijs aan bijdraagt dat zo snel en adequaat mogelijk hulp kan worden geboden.   
-2.  Onder huiselijk geweld wordt verstaan: huiselijk geweld als bedoeld in artikel 1, eerste lid, van de Wet maatschappelijke ondersteuning.   
-3.  Onder kindermishandeling wordt verstaan: kindermishandeling als bedoeld in artikel 1 van de Wet op de jeugdzorg.   
+2.  Onder huiselijk geweld wordt verstaan: huiselijk geweld als bedoeld in artikel 1.1.1 van de Wet maatschappelijke ondersteuning 2015.   
+3.  Onder kindermishandeling wordt verstaan: kindermishandeling als bedoeld in artikel 1.1 van de Jeugdwet.   
 4.  Het instellingsbestuur bevordert de kennis en het gebruik van de meldcode.   
 5.  Bij of krachtens algemene maatregel van bestuur wordt vastgesteld uit welke elementen een meldcode in ieder geval bestaat.  
 
@@ -518,7 +516,8 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ten
 2.   In de jaarrekening wordt rekening en verantwoording afgelegd van het financiële beheer van de instelling over het voorafgaande begrotingsjaar. Het jaarverslag omvat mede het voorgenomen beleid ten aanzien van de werkzaamheden van de instelling, mede in het licht van de uitkomsten van kwaliteitsbeoordeling als bedoeld in artikel 1.18 en andere gegevens omtrent de kwaliteit van de werkzaamheden van de instelling. Aan het jaarverslag van een universiteit waaraan een academisch ziekenhuis is verbonden, wordt het in artikel 12.21 bedoelde document toegevoegd, dan wel, indien het een bijzondere universiteit betreft, een overzicht van de voornemens betreffende de onderlinge afstemming van de werkzaamheden van de universiteit en het academisch ziekenhuis op het gebied van het wetenschappelijk geneeskundig onderwijs en onderzoek. Toepassing van de voorgaande volzin blijft achterwege indien het document, onderscheidenlijk het overzicht reeds aan een eerder jaarverslag is toegevoegd en het sindsdien niet is gewijzigd of opnieuw is vastgesteld.    
 3.   Indien uitgaven zijn geschied in strijd met het bepaalde bij of krachtens de wet, dan wel indien werkzaamheden ten behoeve waarvan de rijksbijdrage is verleend, niet behoorlijk zijn uitgevoerd of de rijksbijdrage ondoelmatig is aangewend, kan Onze minister bepalen, dat de daarmee gemoeide bedragen in mindering worden gebracht op de rijksbijdrage.    
 4.   Het resultaat van het verslagjaar wordt verrekend met de algemene reserve van de instelling.    
-5.   De leden van het college van bestuur of het algemeen bestuur van een rechtspersoonlijkheid bezittende openbare instelling zijn persoonlijk aansprakelijk jegens de instelling voor schade ten gevolge van uitgaven die zijn geschied in strijd met het bepaalde bij of krachtens de wet, voorzover Onze minister heeft bepaald dat de met die uitgaven gemoeide bedragen in mindering worden gebracht op de rijksbijdrage, tenzij blijkt dat zij aan het doen van die uitgaven niet hebben medegewerkt. Indien binnen een door Onze minister te bepalen termijn geen rechtsvordering van de zijde van de instelling terzake is gesteld, kan Onze minister daartoe overgaan namens en ten behoeve van de instelling.   
+5.   De leden van het college van bestuur of het algemeen bestuur van een rechtspersoonlijkheid bezittende openbare instelling zijn persoonlijk aansprakelijk jegens de instelling voor schade ten gevolge van uitgaven die zijn geschied in strijd met het bepaalde bij of krachtens de wet, voorzover Onze minister heeft bepaald dat de met die uitgaven gemoeide bedragen in mindering worden gebracht op de rijksbijdrage, tenzij blijkt dat zij aan het doen van die uitgaven niet hebben medegewerkt. Indien binnen een door Onze minister te bepalen termijn geen rechtsvordering van de zijde van de instelling terzake is gesteld, kan Onze minister daartoe overgaan namens en ten behoeve van de instelling.    
+6.  In afwijking van het eerste lid dient het algemeen bestuur van de Koninklijke Bibliotheek jaarlijks voor 15 maart het verslag in bij Onze minister. 
 
 ### Artikel  2.9a  
 
@@ -725,7 +724,7 @@ Vervallen per 01-09-2002
 
 1.  Er is een accreditatieorgaan dat is belast met activiteiten in het kader van het verlenen van accreditatie, de toets nieuwe opleiding, de toets nieuw Ad-programma en de instellingstoets kwaliteitszorg op grond van titel 2 of 2a van dit hoofdstuk en overige hem bij of krachtens de wet opgedragen taken. Het accreditatieorgaan bezit rechtspersoonlijkheid.   
 2.  Het accreditatieorgaan is tevens belast met het instellen van een commissie van deskundigen, die adviseert over de aanvraag om de toets nieuwe opleiding, de toets nieuw Ad-programma of de instellingstoets kwaliteitszorg. Daarnaast stemt het accreditatieorgaan in met een door de instellingsbesturen binnen een visitatiegroep gezamenlijk samengestelde commissie van deskundigen, voor de beoordeling, bedoeld in artikel 1.18, derde lid, ten behoeve van de aanvraag om accreditatie, indien het accreditatieorgaan zich ervan verzekerd heeft dat de commissie van deskundigen onafhankelijk en deskundig is. Indien het instellingsbestuur er niet in slaagt in samenwerking met andere instellingen binnen een visitatiegroep een commissie van deskundigen samen te stellen, doet het accreditatieorgaan een bindende voordracht voor de samenstelling van de commissie. Van de in de vorige volzinnen bedoelde commissies van deskundigen maakt een student deel uit.   
-2a.  Het accreditatieorgaan toetst bij de accreditatie en de toets nieuwe opleiding van een opleiding in het hoger beroepsonderwijs tevens: 
+2a.  Het accreditatieorgaan toetst bij de accreditatie en de toets nieuwe opleiding tevens: 
 
 a. de door een instellingsbestuur voorgestelde toevoeging aan een graad als bedoeld in artikel 7.10a, tweede en derde lid, op internationale herkenbaarheid aan de hand van een referentielijst die bij ministeriële regeling wordt vastgesteld;  
 
@@ -795,7 +794,8 @@ e. de kwaliteit en kwantiteit van het ingezette personeel alsmede het personeels
 
 f. de opleidingsspecifieke voorzieningen alsmede de instellingsbrede voorzieningen die van invloed zijn op de kwaliteit van de opleiding daaronder mede begrepen voldoende studiebegeleiding en voorzieningen die de toegankelijkheid en studeerbaarheid voor studenten met een functiebeperking bevorderen, en  
 
-g. de opzet en organisatie van de interne kwaliteitszorg gericht op de systematische verbetering van de opleiding.    
+g. de opzet en organisatie van de interne kwaliteitszorg gericht op de systematische verbetering van de opleiding.     
+3.  De beoordeling van de aanvraag om accreditatie verricht het accreditatieorgaan gezamenlijk en in dezelfde periode voor alle opleidingen die tot een visitatiegroep behoren en waarvoor de termijn van een verleende accreditatie binnen één jaar verstrijkt of waarvoor een besluit toets nieuwe opleiding binnen één jaar vervalt. 
 
 ### Artikel  5a.9  
 
@@ -4461,12 +4461,6 @@ Het bestuur van de faculteit der geneeskunde en de raad van bestuur stellen bij 
 5.   Onze minister kan aan een of meer leden van het algemeen bestuur een bezoldiging of toelage toekennen. Bij of krachtens algemene maatregel van bestuur worden regels vastgesteld betreffen de rechtspositie van de leden van het algemeen bestuur aan wie een bezoldiging is toegekend.    
 6.   De voorzitter van het algemeen bestuur vertegenwoordigt de bibliotheek in en buiten rechte.   
 
-### Artikel  13.4  
-
-####Verantwoordingsplicht algemeen bestuur 
-
-Het algemeen bestuur is verantwoording verschuldigd aan Onze minister. Het verstrekt hem de gevraagde inlichtingen.  
-
 ### Artikel  13.5  
 
 ####Bibliothecaris 
@@ -4479,8 +4473,7 @@ Het algemeen bestuur is verantwoording verschuldigd aan Onze minister. Het verst
 ####Reglement 
 
 1.  Ten behoeve van de nadere regeling van het bestuur en de inrichting van de Koninklijke Bibliotheek stelt het algemeen bestuur met inachtneming van het daaromtrent bij of krachtens deze wet bepaalde een reglement vast.    
-2.   Het reglement regelt in elk geval de vervanging van de leden van het algemeen bestuur bij afwezigheid of ontstentenis.    
-3.   Het algemeen bestuur zendt het reglement en elke wijziging daarvan ter kennis aan Onze minister.   
+2.   Het reglement regelt in elk geval de vervanging van de leden van het algemeen bestuur bij afwezigheid of ontstentenis.   
 
 ### Titel  3  
 
@@ -4498,7 +4491,8 @@ Het algemeen bestuur is verantwoording verschuldigd aan Onze minister. Het verst
 ####Schorsing en vernietiging van besluiten 
 
 1.  De besluiten van het algemeen bestuur kunnen bij koninklijk besluit worden vernietigd. Het bepaalde in de eerste volzin is van overeenkomstige toepassing op het besluit van de algemene vergadering van de Koninklijke Nederlandse Akademie van Wetenschappen tot vaststelling of wijziging van het in artikel 13.2 bedoelde reglement.    
-2.   Het besluit tot schorsing of vernietiging wordt in het Staatsblad geplaatst.   
+2.   Het besluit tot schorsing of vernietiging wordt in het Staatsblad geplaatst.    
+3.  Het eerste lid is niet van toepassing op bestuursrechtelijke besluiten van het algemeen bestuur van de Koninklijke Bibliotheek. Hierop is artikel 22 van de Kaderwet zelfstandige bestuursorganen van toepassing. 
 
 ### Artikel  13.10  
 

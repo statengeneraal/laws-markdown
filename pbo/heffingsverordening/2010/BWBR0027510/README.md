@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Vis van 1 oktober 2009, houdende regels ter zake van de aan de onder het Productschap Vis ressorterende ondernemers op te leggen heffing voor het jaar 2010 (Heffingsverordening 2010)
 
 Het bestuur van het Productschap Vis;  
-Gelet op de [artikelen 95](../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de bedrijfsorganisatie](../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [artikel 7 van het Instellingsbesluit Productschap Vis](../../../../AMvB/instellingsbesluit/productschap/vis/BWBR0015163/README.md) (Stb. 2003, 253);
+Gelet op de artikelen 95 en 126 van de Wet op de bedrijfsorganisatie en artikel 7 van het Instellingsbesluit Productschap Vis (Stb. 2003, 253);
 Besluit:    
 ###§ 1 
 
@@ -18,8 +18,8 @@ Materieel uitgewerkt per 01-01-2011
 
 | --- | --- | --- |
 |:---|:---|:---|
-|a. |Instellingsbesluit Productschap Vis |: [Besluit van 3 juni 2003, houdende instelling van een productschap voor ondernemingen op het gebied van de visserij, de be- en verwerking van vis en de handel in vis en visproducten](../../../../AMvB/instellingsbesluit/productschap/vis/BWBR0015163/README.md) (Stb. 2003, 253); |
-|b. |productschap |: het Productschap Vis, als bedoeld in [artikel 3 van het Instellingsbesluit Productschap Vis](../../../../AMvB/instellingsbesluit/productschap/vis/BWBR0015163/README.md); |
+|a. |Instellingsbesluit Productschap Vis |: Besluit van 3 juni 2003, houdende instelling van een productschap voor ondernemingen op het gebied van de visserij, de be- en verwerking van vis en de handel in vis en visproducten (Stb. 2003, 253); |
+|b. |productschap |: het Productschap Vis, als bedoeld in artikel 3 van het Instellingsbesluit Productschap Vis; |
 |c. |bestuur |: het bestuur van het productschap; |
 |d. |voorzitter |: de voorzitter van het productschap; |
 |e. |secretaris |: de secretaris van het productschap; |
@@ -28,7 +28,7 @@ Materieel uitgewerkt per 01-01-2011
 |h. |visproducten |: vis en uit vis verkregen producten, welke al dan niet na verdere be- of verwerking, tot menselijk of dierlijk voedsel kunnen dienen, welke ingedeeld kunnen worden in één van de goederencodes van het Douanewetboek van de EU beginnend met de cijfers 0301, 0302, 0303, 0304. 0305, 0306, 0307 (met uitzondering van post 030760), 051191, 1604, 1605 of 19022010; |
 |i. |visserij |: het bedrijf van het vangen of kweken van vissen, schaal- en schelpdieren en puf en nest, een en ander met uitzondering van sier- en aquariumdieren; |
 |j. |basislijn |: de laagwaterlijn (dieptelijn van nul meter) langs de kust of de lijn die door de kuststaat is getrokken tussen een aantal vaste punten, zoals aangegeven op kaarten die door de bevoegde kuststaat officieel zijn erkend; |
-|k. |zeevis |: vis verkregen door uitoefening van de visserij zeewaarts vanaf een basislijn of door uitoefening van de kustvisserij in de zin van [artikel 1, vierde lid onder c, van de Visserijwet 1963](../../../../wet/visserijwet/1963/BWBR0002416/README.md), met uitzondering van garnalen, mosselen, oesters, kokkels, spisula, zwaardscheden en mesheften, en nonnetjes; |
+|k. |zeevis |: vis verkregen door uitoefening van de visserij zeewaarts vanaf een basislijn of door uitoefening van de kustvisserij in de zin van artikel 1, vierde lid onder c, van de Visserijwet 1963, met uitzondering van garnalen, mosselen, oesters, kokkels, spisula, zwaardscheden en mesheften, en nonnetjes; |
 |l. |kweekvis |: forel, meerval, tilapia, paling en tarbot die in Nederland wordt gekweekt en gehouden in recirculatiesystemen en vijvers ten behoeve van productiedoeleinden gericht op menselijke consumptie; |
 |m. |pootvis |: levende jonge vis, schaal- of schelpdieren die bestemd zijn voor de kweek van kweekvis; |
 |n. |trawler |: vaartuig waarvan de lengte over alles 60 meter of meer bedraagt of een vaartuig met een bruto tonnage van meer dan 1.200 BT waarmee de pelagische visserij wordt uitgeoefend, waarbij de gevangen vis en visproducten aan boord worden ingevroren; |
@@ -60,7 +60,7 @@ Materieel uitgewerkt per 01-01-2011
 |nn. |oesterseizoen |: de periode welke loopt vanaf 1 januari 2010 tot en mei 31 december 2010; |
 |oo. |inkoopbedrag |: de totale factuurwaarde van alle gekochte vis- of visproducten, met uitzondering van pootvis; |
 |pp. |kopen |: zich in eigendom verwerven door de daarvoor gevraagde of geboden prijs te betalen ofwel de overeenkomst waarbij de ene partij zich verbindt vis of visproducten te leveren en de andere om daarvoor een prijs in geld te betalen; |
-|qq. |vergunning |: de vergunning die verleend is om te vissen op grond van het bepaalde bij of krachtens de [Visserijwet 1963](../../../../wet/visserijwet/1963/BWBR0002416/README.md) en geldig is of is geweest in de periode van 1 januari 2010 tot en met 31 december 2010; |
+|qq. |vergunning |: de vergunning die verleend is om te vissen op grond van het bepaalde bij of krachtens de Visserijwet 1963 en geldig is of is geweest in de periode van 1 januari 2010 tot en met 31 december 2010; |
 |rr. |haring |: alle vis behorende tot de soort Clupea harengus, welke al dan niet is gekaakt, gezouten of gerijpt en al dan niet bevroren, schoongemaakt of gefileerd is, vol- en halfconserven daaronder niet begrepen; |
 |ss. |maatjesharing |: haring, welke in de periode van 1 mei 2010 tot en met 31 juli 2010 is gevangen en bestemd is om na be- of verwerking geconsumeerd te worden als Hollandse Nieuwe of maatjesharing. |
 
@@ -76,8 +76,8 @@ Materieel uitgewerkt per 01-01-2011
 ###Artikel 2 
 Materieel uitgewerkt per 01-01-2011 
 
-1. Onder het productschap ressorterende ondernemers zijn wegens de uitoefening van hun bedrijfsactiviteiten in de periode van 1 januari 2010 tot en met 31 december 2010 aan en ten behoeve van het productschap een heffing verschuldigd volgens de in de artikelen 3, 3a, 4, 4a, 5, 6 en 7 vermelde heffingsgrondslagen met de daarbij behorende tarieven. De berekening en de wijze van betaling vinden plaats, zoals in de [Verordening Algemene Bepalingen Productschap Vis 2006](../../../../pbo/verordening/algemene/bepalingen/productschap/vis/2006/BWBR0021756/README.md) is bepaald. 
-2. Indien een heffingsplichtige ondernemer gegevens die hem zijn gevraagd krachtens de [Verordening Algemene Bepalingen Productschap Vis 2006](../../../../pbo/verordening/algemene/bepalingen/productschap/vis/2006/BWBR0021756/README.md) ten behoeve van de onderhavige verordening of bij of krachtens de Verordening Algemene Bepalingen Productschap Vis 2006 ten behoeve van het vaststellen en opleggen van de verschuldigde heffingen, niet, niet tijdig of niet volledig verstrekt, wordt de heffing berekend over de dan te ramen omvang van de grondslag die op de heffingsplichtige ingevolge deze verordening van toepassing is, welke heffing in dat geval verhoogd wordt met € 112,00 in verband met administratiekosten. 
+1. Onder het productschap ressorterende ondernemers zijn wegens de uitoefening van hun bedrijfsactiviteiten in de periode van 1 januari 2010 tot en met 31 december 2010 aan en ten behoeve van het productschap een heffing verschuldigd volgens de in de artikelen 3, 3a, 4, 4a, 5, 6 en 7 vermelde heffingsgrondslagen met de daarbij behorende tarieven. De berekening en de wijze van betaling vinden plaats, zoals in de Verordening Algemene Bepalingen Productschap Vis 2006 is bepaald. 
+2. Indien een heffingsplichtige ondernemer gegevens die hem zijn gevraagd krachtens de Verordening Algemene Bepalingen Productschap Vis 2006 ten behoeve van de onderhavige verordening of bij of krachtens de Verordening Algemene Bepalingen Productschap Vis 2006 ten behoeve van het vaststellen en opleggen van de verschuldigde heffingen, niet, niet tijdig of niet volledig verstrekt, wordt de heffing berekend over de dan te ramen omvang van de grondslag die op de heffingsplichtige ingevolge deze verordening van toepassing is, welke heffing in dat geval verhoogd wordt met € 112,00 in verband met administratiekosten. 
 
 ###§ 3 
 
@@ -103,7 +103,7 @@ b.de aanvoerder van vis verkregen door uitoefening van de binnenvisserij:
 
 1°.4,14 promille van de waarde van de door hem aangevoerde vis welke is verkregen door uitoefening van de IJsselmeervisserij; 
 
-2°.€ 120,00 per kalenderjaar wegens het aanvoeren van vis welke is verkregen door uitoefening van de binnenvisserij in de zin van [artikel 1, vierde lid onder d, van de Visserijwet 1963](../../../../wet/visserijwet/1963/BWBR0002416/README.md) - de IJsselmeervisserij hieronder niet begrepen; 
+2°.€ 120,00 per kalenderjaar wegens het aanvoeren van vis welke is verkregen door uitoefening van de binnenvisserij in de zin van artikel 1, vierde lid onder d, van de Visserijwet 1963 - de IJsselmeervisserij hieronder niet begrepen; 
 
 c.de aanvoerder van kokkels of spisula of zwaardscheden en mesheften of nonnetjes: 
 

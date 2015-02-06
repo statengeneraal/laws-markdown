@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Pluimvee en Eieren van 9 juni 2011, houdende instelling van een fonds ten behoeve van de ruiming van met M.g. besmette kuikens en ouderdieren leg- en vleesrassen kippen (Verordening fonds ruimen M.g. besmette kuikens en ouderdieren leg- en vleesrassen kippen (PPE) 2011)
 
 Het bestuur van het Productschap Pluimvee en Eieren;  
-Gelet op [artikel 93, tweede lid, onderdeel g., van de Wet op de bedrijfsorganisatie](../../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [artikel 6 van het Instellingsbesluit Productschap Pluimvee en Eieren](../../../../../../../../../../../../../AMvB/instellingsbesluit/productschap/pluimvee/en/eieren/BWBR0016490/README.md);
+Gelet op artikel 93, tweede lid, onderdeel g., van de Wet op de bedrijfsorganisatie en artikel 6 van het Instellingsbesluit Productschap Pluimvee en Eieren;
 Besluit:    
 
 ###Artikel 1 
@@ -33,9 +33,9 @@ In deze verordening wordt verstaan onder:
 
 a.de opbrengsten voortkomend uit de inning van heffingen, verminderd met de inningskosten;
 
-b.de slachtopbrengst als bedoeld in [artikel 2, eerste lid, onderdeel e., van het Vergoedingenbesluit Mycoplasma Gallisepticum 2004](../../../../../../../../../../../../../pbo/vergoedingenbesluit/mycoplasma/gallisepticum/(ppe)/2004/BWBR0016858/README.md);
+b.de slachtopbrengst als bedoeld in artikel 2, eerste lid, onderdeel e., van het Vergoedingenbesluit Mycoplasma Gallisepticum 2004;
 
-c.de verkoopwaarde van de eieren, als bedoeld in [artikel 3, derde lid, van het Vergoedingenbesluit Mycoplasma Gallisepticum 2004](../../../../../../../../../../../../../pbo/vergoedingenbesluit/mycoplasma/gallisepticum/(ppe)/2004/BWBR0016858/README.md);
+c.de verkoopwaarde van de eieren, als bedoeld in artikel 3, derde lid, van het Vergoedingenbesluit Mycoplasma Gallisepticum 2004;
 
 d.middelen die hetzij door het productschap hetzij door derden aan het fonds worden overgemaakt;
 
@@ -48,7 +48,7 @@ Het fonds kan door het bestuur bij verordening worden opgeheven, in welk geval h
 
 ###Artikel 6 
 
-De [Verordening financieringsfonds ten behoeve van het ruimen van met M.g. besmette ouderdieren leg- en vleesrassen kippen (PPE) 2003](../../../../../../../../../../../../../pbo/verordening/financieringsfonds/ten/behoeve/van/het/ruimen/van/met/m.g./etc/BWBR0016064/README.md) wordt ingetrokken. 
+De Verordening financieringsfonds ten behoeve van het ruimen van met M.g. besmette ouderdieren leg- en vleesrassen kippen (PPE) 2003 wordt ingetrokken. 
 
 ###Artikel 7 
 

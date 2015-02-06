@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Zuivel van 26 oktober 2011 houdende regels voor het nemen, transporteren en bewaren van monsters boerderijmelk (Zuivelverordening 2011, Nemen, transporteren en bewaren van monsters boerderijmelk)
 
 Het bestuur van het Productschap Zuivel; 
-Gelet op [artikel 93 van de Wet op de bedrijfsorganisatie](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [artikel 5 van het Instellingsbesluit Productschap Zuivel](../../../../../../../../../../../AMvB/instellingsbesluit/productschap/zuivel/BWBR0015162/README.md), alsmede op [artikel 6 van Zuivelverordening 2005, Grondslag uitbetaling boerderijmelk](../../../../../../../../../../../pbo/zuivelverordening/2005/grondslag/uitbetaling/boerderijmelk/BWBR0017209/README.md) en van [Zuivelverordening 2010, Grondslag uitbetaling geitenmelk](../../../../../../../../../../../pbo/zuivelverordening/2010/grondslag/uitbetaling/geitenmelk/BWBR0029878/README.md);
+Gelet op artikel 93 van de Wet op de bedrijfsorganisatie, artikel 5 van het Instellingsbesluit Productschap Zuivel, alsmede op artikel 6 van Zuivelverordening 2005, Grondslag uitbetaling boerderijmelk en van Zuivelverordening 2010, Grondslag uitbetaling geitenmelk;
 Besluit:  
 ###§  1  
 
@@ -11,7 +11,7 @@ Besluit:
 
 ###Artikel  1 
 
-In deze verordening wordt gebezigd de terminologie van de [Zuivelverordening 2005, Grondslag uitbetaling boerderijmelk](../../../../../../../../../../../pbo/verordening/pdv/toezicht/diervoedersector/2005/BWBR0018024/README.md) en [Zuivelverordening 2010, Grondslag uitbetaling geitenmelk](../../../../../../../../../../../pbo/zuivelverordening/2010/grondslag/uitbetaling/geitenmelk/BWBR0029878/README.md).
+In deze verordening wordt gebezigd de terminologie van de Zuivelverordening 2005, Grondslag uitbetaling boerderijmelk en Zuivelverordening 2010, Grondslag uitbetaling geitenmelk.
 
 ###Artikel  2 
 
@@ -127,7 +127,7 @@ b. bewaard bij ten minste 0,0°C en ten hoogste 4,0°C en binnen 96 uur na monst
 
 ###Artikel  14 
 
-De [Zuivelverordening 2000, Handmatig nemen, transporteren en bewaren van monsters boerderijmelk](../../../../../../../../../../../pbo/zuivelverordening/2000/handmatig/nemen/transporteren/en/bewaren/van/etc/BWBR0010869/README.md) wordt ingetrokken.
+De Zuivelverordening 2000, Handmatig nemen, transporteren en bewaren van monsters boerderijmelk wordt ingetrokken.
 
 ###Artikel  15 
 

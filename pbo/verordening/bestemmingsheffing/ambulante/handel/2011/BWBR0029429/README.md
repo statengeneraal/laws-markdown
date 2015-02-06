@@ -3,7 +3,7 @@
 ##Verordening van het Hoofdbedrijfschap Detailhandel van 27 oktober 2010, houdende de vaststelling van de bestemmingsheffing ambulante handel voor het jaar 2011 (Verordening bestemmingsheffing ambulante handel 2011) 
 
 Het bestuur van het Hoofdbedrijfschap Detailhandel;  
-Gelet op de [artikelen 95, tweede lid](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en [126 van de Wet op de Bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+Gelet op de artikelen 95, tweede lid, en 126 van de Wet op de Bedrijfsorganisatie;
 
 Gezien het advies van de Adviescommissie Markt-, Straat- en Rivierhandel;
 Besluit:    
@@ -18,15 +18,15 @@ Materieel uitgewerkt per 16-12-2011
 
 In deze verordening wordt verstaan onder:
 
-a.een onderneming: een onderneming waarvoor het hoofdbedrijfschap is ingesteld als bedoeld in [artikel 3 van het Instellingsbesluit Hoofdbedrijfschap Detailhandel](../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/detailhandel/BWBR0017190/README.md);
+a.een onderneming: een onderneming waarvoor het hoofdbedrijfschap is ingesteld als bedoeld in artikel 3 van het Instellingsbesluit Hoofdbedrijfschap Detailhandel;
 
 b.de ondernemer: degene die een onderneming drijft dan wel degenen die gezamenlijk een onderneming drijven;
 
-c.detailhandel: hetgeen daaronder wordt verstaan in [artikel 1 van het Instellingsbesluit Hoofdbedrijfschap Detailhandel](../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/detailhandel/BWBR0017190/README.md);
+c.detailhandel: hetgeen daaronder wordt verstaan in artikel 1 van het Instellingsbesluit Hoofdbedrijfschap Detailhandel;
 
 d.ambulante handel: markthandel, straathandel en handel te water;
 
-e.bestemmingsheffing: de heffing die is gebaseerd op [artikel twaalf, tweede lid, van het Instellingsbesluit Hoofdbedrijfschap Detailhandel](../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/detailhandel/BWBR0017190/README.md);
+e.bestemmingsheffing: de heffing die is gebaseerd op artikel twaalf, tweede lid, van het Instellingsbesluit Hoofdbedrijfschap Detailhandel;
 
 f.de voorzitter: de voorzitter van het Hoofdbedrijfschap Detailhandel. 
 
@@ -56,7 +56,7 @@ Materieel uitgewerkt per 16-12-2011
 
 a.krachtens haar statutaire doelstelling haar werkzaamheid kan uitstrekken tot ten minste een belangrijk gedeelte van het terrein waarop het bedrijfslichaam een taak heeft te vervullen,
 
-b.voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de [artikelen 3 tot en met 7 van de Verordening representativiteit organisaties](../../../../../../../pbo/verordening/representativiteit/organisaties/BWBR0011641/README.md),
+b.voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de artikelen 3 tot en met 7 van de Verordening representativiteit organisaties,
 
 c.tot de werkingssfeer van het bedrijfslichaam behorende leden heeft, waarvan het gewogen aantal niet onbetekenend is,
 
@@ -81,8 +81,8 @@ Materieel uitgewerkt per 16-12-2011
 ###Artikel 6 
 Materieel uitgewerkt per 16-12-2011 
 
-1. De [artikelen 6 tot en met 17 van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2011](../../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/detailhandel/2011/BWBR0029063/README.md) zijn van overeenkomstige toepassing.  
-2. In afwijking van het bepaalde in het eerste lid is [artikel 6, eerste lid, van die Heffingsverordening HBD 2011](../../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/detailhandel/2011/BWBR0029063/README.md) niet van overeenkomstige toepassing indien de ondernemer, die met de uitoefening van zijn bedrijf op of ná 1 oktober 2011 is gestart, een bewijs van registratie wenst te ontvangen. De heffing bedraagt in dat geval 50% van de volgens deze verordening berekende heffing. Het bewijs van registratie wordt zo spoedig mogelijk na betaling van deze heffing ter beschikking gesteld. 
+1. De artikelen 6 tot en met 17 van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2011 zijn van overeenkomstige toepassing.  
+2. In afwijking van het bepaalde in het eerste lid is artikel 6, eerste lid, van die Heffingsverordening HBD 2011 niet van overeenkomstige toepassing indien de ondernemer, die met de uitoefening van zijn bedrijf op of ná 1 oktober 2011 is gestart, een bewijs van registratie wenst te ontvangen. De heffing bedraagt in dat geval 50% van de volgens deze verordening berekende heffing. Het bewijs van registratie wordt zo spoedig mogelijk na betaling van deze heffing ter beschikking gesteld. 
 
 ###Artikel 7 
 Materieel uitgewerkt per 16-12-2011 

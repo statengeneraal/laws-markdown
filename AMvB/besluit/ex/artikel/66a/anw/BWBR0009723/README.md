@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 20 april 1998, nr. SV/VP/98/1862a; 
 
-Gelet op [artikel 66a, derde lid, van de Algemene nabestaandenwet](../../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md); 
+Gelet op artikel 66a, derde lid, van de Algemene nabestaandenwet; 
 
 De Raad van State gehoord (advies van 11 mei 1998, nr. W12.98.0154); 
 
@@ -19,13 +19,13 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:  
 
-a. ANW: [Algemene nabestaandenwet](../../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md);   
+a. ANW: Algemene nabestaandenwet;   
 
-b. persoon: een persoon die voldoet aan [artikel 66a, tweede lid, van de ANW](../../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md);   
+b. persoon: een persoon die voldoet aan artikel 66a, tweede lid, van de ANW;   
 
-c. echtgenoot: de echtgenoot die verzekerd is op grond van de [ANW](../../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md);   
+c. echtgenoot: de echtgenoot die verzekerd is op grond van de ANW;   
 
-d. verzekeraar: een financiële onderneming die ingevolge de [Wet op het financieel toezicht](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) in Nederland het bedrijf van verzekeraar mag uitoefenen;  
+d. verzekeraar: een financiële onderneming die ingevolge de Wet op het financieel toezicht in Nederland het bedrijf van verzekeraar mag uitoefenen;  
 
 e. onverzekerbaar: onverzekerbaar als bedoeld in artikel 2.    
 

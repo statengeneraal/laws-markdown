@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Vee en Vlees van 5 juli 2012, houdende instelling van een Veeziektenfonds (Verordening Veeziektenfonds (PVV) 2012)
 
 Het bestuur van het Productschap Vee en Vlees; 
-Gelet op [artikel 93 van de Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [artikel 10 van het Instellingsbesluit Productschap Vee en Vlees](../../../../../../AMvB/instellingsbesluit/productschap/vee/en/vlees/BWBR0016491/README.md);
+Gelet op artikel 93 van de Wet op de bedrijfsorganisatie en artikel 10 van het Instellingsbesluit Productschap Vee en Vlees;
 Besluit: 
 
 ###Artikel  1 
@@ -55,7 +55,7 @@ Het fonds kan door het bestuur bij verordening worden opgeheven, in welk geval h
 
 ###Artikel  5 
 
-De [Verordening Veeziektenfonds (PVV) 2007](../../../../../../pbo/verordening/veeziektenfonds/(pvv)/2007/BWBR0022126/README.md) wordt ingetrokken. 
+De Verordening Veeziektenfonds (PVV) 2007 wordt ingetrokken. 
 
 ###Artikel  6 
 

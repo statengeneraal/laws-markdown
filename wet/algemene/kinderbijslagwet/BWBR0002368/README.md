@@ -109,8 +109,20 @@ d. het kind een school of instelling als bedoeld in onderdeel b heeft afgerond o
 3.  Het niet voldoen aan de verplichtingen, bedoeld in het tweede lid, onderdeel a, blijkt uit een daartoe strekkende mededeling van het college van burgemeester en wethouders van de gemeente waar het kind woont.   
 4.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot het tweede en derde lid.   
 5.  Onverminderd het tweede lid heeft de verzekerde slechts recht op kinderbijslag voor een kind van 16 of 17 jaar indien het inkomen van dat kind niet meer bedraagt dan een bij of krachtens algemene maatregel van bestuur te bepalen bedrag. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot het inkomen van het kind.   
-6.  Dit lid is nog niet in werking getreden.   
-7.  Dit lid is nog niet in werking getreden.   
+6.  Het bedrag aan kinderbijslag, bedoeld in artikel 12, eerste en tweede lid, wordt verdubbeld indien de verzekerde per kalenderkwartaal een bijdrage levert aan het onderhoud van het kind die meer bedraagt dan een bij of krachtens algemene maatregel van bestuur te bepalen bedrag en het kind, bedoeld in het eerste lid, niet tot het huishouden van de verzekerde noch als eigen kind, aangehuwd kind of pleegkind tot het huishouden van een ander behoort: 
+
+a. in verband met ziekte of gebreken van het kind; of  
+
+b. in verband met het volgen van onderwijs of een beroepsopleiding aan een school of instelling in de zin van artikel 1, onder b of c, van de Leerplichtwet 1969 waar het kind staat ingeschreven of in verband met het volgen van onderwijs, genoemd in artikel 4a, eerste lid, van de Leerplichtwet 1969 waar het kind overeenkomstig artikel 4a, eerste lid, van de Leerplichtwet 1969 staat ingeschreven of in verband met het volgen van onderwijs aan een vergelijkbare inrichting van onderwijs buiten Nederland waar het kind staat ingeschreven, waarbij: 
+
+1°. de verzekerde aantoont dat het kind een bij ministeriële regeling te bepalen beroepsopleiding volgt of als toptalent op het gebied van dans en muziek dan wel als topsporter op tenminste toptalentniveau een bij ministeriële regeling te bepalen school bezoekt voor het volgen van voortgezet onderwijs waardoor de afstand tussen het woonadres van de verzekerde of het woonadres van de ander tot wiens huishouden het kind laatstelijk behoorde en de dichtstbijzijnde instelling of school waar de beroepsopleiding of het voortgezet onderwijs wordt aangeboden meer bedraagt dan een bij ministeriële regeling te bepalen aantal kilometers; of  
+
+2°. de verzekerde een bij of krachtens algemene maatregel van bestuur te bepalen beroep uitoefent; of  
+
+3°. de verzekerde of de ander tot wiens huishouden het kind laatstelijk behoorde in een bij of krachtens algemene maatregel van bestuur te bepalen deel van Nederland woont, of de verzekerde aantoont dat hij of die ander in een gebied buiten Nederland woont waarbij niet verwacht kan worden dat het kind op basis van openbaar of eigen vervoer dagelijks heen en weer reist tussen school en het adres van de verzekerde of die ander; of  
+
+4°. het het kind betreft van de verzekerde, bedoeld in artikel 7b, vierde lid, onderdelen a en b.       
+7.  Indien de beroepsopleiding of de school, bedoeld in het zesde lid, onderdeel b, onder 1°, niet langer is opgenomen in de ministeriële regeling, bedoeld in het zesde lid, onderdeel b, onder 1°, dan wel indien gedurende de beroepsopleiding of het voortgezet onderwijs, bedoeld in het zesde lid, onderdeel b, onder 1°, een gelijke opleiding of school in die ministeriële regeling wordt opgenomen die valt binnen de afstand, bedoeld in het zesde lid, onderdeel b, onder 1°, blijft de verdubbeling van de kinderbijslag, bedoeld in het zesde lid, van toepassing tot de dag waarop het kind de opleiding of het onderwijs, bedoeld in het zesde lid, onderdeel b, onder 1°, niet langer volgt.   
 8.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot het eerste lid, onderdeel b, en het zesde lid.   
 9.  Voor de toepassing van dit artikel wordt het kind geacht het onderwijs of de beroepsopleiding eerst na de vakantie te hebben beëindigd, indien: 
 
@@ -120,26 +132,33 @@ b. het onderwijs of de beroepsopleiding wordt afgesloten met een eindexamen, dat
 
 ### Artikel  7a  
 
+1.  Een verzekerde heeft voor een tot zijn huishouden behorend kind dat drie jaar is of ouder, maar nog niet de leeftijd van 18 jaar heeft bereikt, recht op een verdubbeling van het bedrag aan kinderbijslag, genoemd in artikel 12, eerste en tweede lid, indien het kind is aangewezen op een bij of krachtens algemene maatregel van bestuur te bepalen mate van intensieve zorg.   
+2.  Indien een verzekerde over een kalenderjaar recht heeft gehad op een verdubbeling van het bedrag aan kinderbijslag op grond van het eerste lid, en 
+
+a. met betrekking tot dat kalenderjaar geen partner heeft als bedoeld in artikel 1.2 van de Wet inkomstenbelasting 2001; of  
+
+b. met betrekking tot dat kalenderjaar een partner heeft als bedoeld in artikel 1.2 van de Wet inkomstenbelasting 2001 en de verzekerde of diens partner in dat kalenderjaar belastbare winst uit een of meer ondernemingen als bedoeld in artikel 3.2 van de Wet inkomstenbelasting 2001, belastbaar loon als bedoeld in artikel 3.80 van de Wet inkomstenbelasting 2001 of belastbaar resultaat uit een of meer werkzaamheden als bedoeld in artikel 3.90 van de Wet inkomstenbelasting 2001 heeft genoten dat niet meer is dan het bedrag, genoemd in artikel 8.14a, eerste lid, onderdeel a, van de Wet inkomstenbelasting 2001;   heeft de verzekerde recht op een extra bedrag aan kinderbijslag over dat kalenderjaar ten bedrage van € 1.460.   
+3.  Indien een verzekerde of diens partner voldoet aan de voorwaarden, bedoeld in het tweede lid, en recht heeft op meer dan eenmaal de verdubbeling van de kinderbijslag, bedoeld in het eerste lid, heeft hij dan wel zijn partner recht op ten hoogste eenmaal het extra bedrag aan kinderbijslag, bedoeld in het tweede lid.   
+4.  Indien twee personen die voor eenzelfde kind recht hebben op kinderbijslag als bedoeld in het eerste lid, dit kind op basis van een overeenkomst of rechterlijke beschikking overwegend in gelijke mate verzorgen en onderhouden zonder met elkaar een gemeenschappelijke huishouding te voeren, is voor de beoordeling van het recht op het extra bedrag aan kinderbijslag, bedoeld in het tweede lid, de situatie, bedoeld in het tweede lid, onderdeel a of b, van de ouder wiens recht op kinderbijslag wordt uitbetaald, bepalend.  
+5.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot het eerste en tweede lid.  
+
+### Artikel  7aa  
+
 1.  De verzekerde heeft geen recht op kinderbijslag overeenkomstig de bepalingen van deze wet voor een kind, indien dat kind op de eerste dag van een kalenderkwartaal recht heeft op studiefinanciering op grond van de Wet studiefinanciering 2000.   
 2.  Ook bestaat geen recht op kinderbijslag zolang op een verzoek tot het treffen van een voorlopige voorziening als bedoeld in titel 8.3 van de Algemene wet bestuursrecht, ingediend door degene die studiefinanciering op grond van de Wet studiefinanciering 2000 heeft aangevraagd, geen uitspraak is gedaan.   
 
 ### Artikel  7b  
 
-1.  Geen recht op kinderbijslag heeft de verzekerde die op de eerste dag van een kalenderkwartaal niet in Nederland woont. Evenmin heeft de verzekerde recht op kinderbijslag ten behoeve van het kind, indien dat kind op de eerste dag van een kalenderkwartaal niet in Nederland woont.   
-2.  Het eerste lid is niet van toepassing indien de verzekerde dan wel dat kind op de eerste dag van een kalenderkwartaal woont in een land waarin op grond van een verdrag of een besluit van een volkenrechtelijke organisatie recht op kinderbijslag kan bestaan.   
-3.  Het eerste lid is niet van toepassing op de verzekerde indien hij dan wel het kind op de eerste dag van een kalenderkwartaal niet in Nederland woont doch langer dan drie maanden onafgebroken in Nederland verblijft.   
-4.  Bij of krachtens algemene maatregel van bestuur kan worden bepaald dat recht bestaat op kinderbijslag voor: 
+1.  Geen recht op kinderbijslag heeft de verzekerde ten behoeve van het kind, indien dat kind op de eerste dag van een kalenderkwartaal niet in Nederland woont.   
+2.  Het eerste lid is niet van toepassing indien dat kind op de eerste dag van een kalenderkwartaal woont in een land waarin ten behoeve van hem op grond van verordening (EG) nr. 883/2004 van het Europees Parlement en de Raad van 29 april 2004 betreffende de coördinatie van de socialezekerheidsstelsels (PbEU L 166) recht op kinderbijslag bestaat.   
+3.  Het eerste lid is niet van toepassing indien het kind op de eerste dag van een kalenderkwartaal niet in Nederland woont doch langer dan drie maanden onafgebroken in Nederland verblijft.   
+4.  Bij of krachtens algemene maatregel van bestuur kan worden bepaald dat ten behoeve van het kind dat op de eerste dag van een kalenderkwartaal niet in Nederland woont, recht bestaat op kinderbijslag voor: 
 
 a. de verzekerde, die werkzaamheden verricht in het algemeen belang en niet in Nederland woont;  
 
 b. de verzekerde, die in Aruba, Curaçao, Sint Maarten of in de openbare lichamen Bonaire, Sint Eustatius en Saba woont; of  
 
-c. de gezinsleden van de in de onderdelen a of b bedoelde verzekerde.     
-5.  Onze Minister deelt mede in welke landen op grond van een verdrag of een besluit van een volkenrechtelijke organisatie recht op kinderbijslag kan bestaan. In deze mededeling wordt tevens opgenomen: 
-
-a.de vindplaats van het desbetreffende verdrag of besluit, en
-
-b.de eventueel in dat verdrag of besluit aanwezige beperkingen.  
+c. de gezinsleden van de in de onderdelen a of b bedoelde verzekerde.    
 
 ###Artikel 7c 
 
@@ -163,7 +182,7 @@ d.op grond van deze wet geen recht op kinderbijslag meer bestaat.
 ### Artikel  12  
 
 1.  Het basiskinderbijslagbedrag over een kalenderkwartaal bedraagt € 268,26 per 1 juli 2012: € 273,78 per kind.   
-2.  Het basiskinderbijslagbedrag bedraagt voor een kind dat woont buiten Nederland, een van de andere lidstaten van de Europese Unie, een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte en Zwitserland, een bij ministeriële regeling vastgesteld percentage van het bedrag, genoemd in het eerste lid. Het percentage wordt zo bepaald dat het een weergave is van de verhouding tussen het kostenniveau van het land waar het kind woonachtig is en dat van Nederland. Het percentage bedraagt maximaal 100.  
+2.  Het basiskinderbijslagbedrag en het extra bedrag aan kinderbijslag, bedoeld in artikel 7a, tweede lid, bedraagt voor een kind dat woont buiten Nederland, een van de andere lidstaten van de Europese Unie, een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte en Zwitserland, een bij ministeriële regeling vastgesteld percentage van het bedrag, genoemd in het eerste lid, respectievelijk artikel 7a, tweede lid. Het percentage wordt zo bepaald dat het een weergave is van de verhouding tussen het kostenniveau van het land waar het kind woonachtig is en dat van Nederland. Het percentage bedraagt maximaal 100.  
 3.   Het aan een verzekerde over een kalenderkwartaal te betalen bedrag aan kinderbijslag bedraagt voor een kind, dat op de eerste dag van dat kwartaal:  
 
 a. jonger is dan 6 jaar: 70%   
@@ -176,15 +195,15 @@ c. 12 jaar en ouder, maar jonger is dan 18 jaar: 100%    van het op grond van he
 ### Artikel  13  
 
 1.  De bedragen, genoemd in de artikelen 7a, tweede lid, en 12, eerste lid, worden al naar gelang de ontwikkeling van het algemene prijsniveau verhoogd of verlaagd.   
-2.  Het bedrag, genoemd in artikel 7a, tweede lid, wordt bij ministeriële regeling telkens herzien met ingang van 1 januari. Bij een herziening met ingang van 1 januari wordt dit bedrag verhoogd of verlaagd met hetzelfde percentage, als waarmede de consumentenprijsindex over de maand oktober daaraan voorafgaande, naar boven of naar beneden afwijkt van de consumentenprijsindex, waarop de laatste herziening is gebaseerd. In afwijking van de eerste zin blijft herziening per 1 januari achterwege, indien de consumentenprijsindex over de maand oktober daaraan voorafgaande geen afwijking vertoont ten opzichte van de consumentenprijsindex, waarop de laatste herziening is gebaseerd.   
-3.  Het bedrag, genoemd in artikel 12, eerste lid, wordt bij ministeriële regeling telkens herzien met ingang van 1 januari en 1 juli. Bij een herziening met ingang van 1 januari onderscheidenlijk 1 juli wordt dit bedrag verhoogd of verlaagd met hetzelfde percentage, als waarmede de consumentenprijsindex over de maand oktober daaraan voorafgaande onderscheidenlijk over de maand april daaraan voorafgaande, naar boven of naar beneden afwijkt van de consumentenprijsindex, waarop de laatste herziening is gebaseerd. In afwijking van de eerste zin blijft herziening per 1 januari onderscheidenlijk per 1 juli achterwege, indien de consumentenprijsindex over de maand oktober onderscheidenlijk over de maand april daaraan voorafgaande geen afwijking vertoont ten opzichte van de consumentenprijsindex, waarop de laatste herziening is gebaseerd.   
-4.  Het overeenkomstig het tweede lid en derde lid herziene bedrag treedt in de plaats van het bedrag, genoemd in artikel 7a, tweede, respectievelijk artikel 12, eerste lid.   
+2.  Het bedrag, genoemd in artikel 7a, tweede lid, wordt telkens gewijzigd met ingang van 1 januari. Bij een wijziging met ingang van 1 januari wordt dit bedrag verhoogd of verlaagd met hetzelfde percentage, als waarmee de prijsindex gezinsconsumptie over de maand oktober daaraan voorafgaande, naar boven of naar beneden afwijkt van de prijsindex gezinsconsumptie, waarop de laatste wijziging is gebaseerd. Het gewijzigde bedrag wordt door of namens Onze Minister bekend gemaakt in de Staatscourant. In afwijking van de eerste zin blijft wijziging per 1 januari achterwege, indien de prijsindex gezinsconsumptie over de maand oktober daaraan voorafgaande geen afwijking vertoont ten opzichte van de prijsindex gezinsconsumptie, waarop de laatste wijziging is gebaseerd.   
+3.  Het bedrag, genoemd in artikel 12, eerste lid, wordt telkens gewijzigd met ingang van 1 januari en 1 juli. Bij een wijziging met ingang van 1 januari onderscheidenlijk 1 juli wordt dit bedrag verhoogd of verlaagd met hetzelfde percentage, al waarmede de prijsindex gezinsconsumptie over de maand oktober daaraan voorafgaande onderscheidenlijk over de maand april daaraan voorafgaande, naar boven of naar beneden afwijkt van de prijsindex gezinsconsumptie, waarop de laatste wijziging is gebaseerd. Het gewijzigde bedrag wordt door of namens Onze Minister bekend gemaakt in de Staatscourant. In afwijking van de eerste zin blijft wijziging per 1 januari onderscheidenlijk per 1 juli achterwege, indien de prijsindex gezinsconsumptie over de maand oktober onderscheidenlijk over de maand april daaraan voorafgaande geen afwijking vertoont ten opzichte van de prijsindex gezinsconsumptie, waarop de laatste wijziging is gebaseerd.   
+4.  Het overeenkomstig het tweede lid en derde lid gewijzigde bedrag treedt in de plaats van het bedrag, genoemd in artikel 7a, tweede, respectievelijk artikel 12, eerste lid.   
 5.  Indien daartoe naar Ons oordeel een bijzondere aanleiding bestaat, kan het bedrag, genoemd in artikel 7a, tweede lid, of artikel 12, eerste lid, bij algemene maatregel van bestuur met ingang van een bij die algemene maatregel van bestuur aan te geven datum worden verhoogd. De op grond van de vorige zin verhoogde bedragen treden in de plaats van de bedragen, genoemd in artikel 7a, tweede lid, respectievelijk artikel 12, eerste lid.   
-6.  Indien een verhoging als bedoeld in het vijfde lid samenvalt met een herziening als bedoeld in het tweede lid of het derde lid, wordt het bedrag voorafgaande aan de verhoging herzien en geschiedt de herziening, in afwijking van het tweede lid en derde lid, bij de in het vijfde lid bedoelde algemene maatregel van bestuur.   
+6.  Indien een verhoging als bedoeld in het vijfde lid samenvalt met een wijziging als bedoeld in het tweede lid of het derde lid, wordt het bedrag voorafgaande aan de verhoging gewijzigd en geschiedt de wijziging, in afwijking van het tweede lid en derde lid, bij de in het vijfde lid bedoelde algemene maatregel van bestuur.   
 7.  Hetgeen onder consumentenprijsindex als bedoeld in het tweede en derde lid wordt verstaan, wordt nader bij algemene maatregel van bestuur geregeld.   
-8.  Indien het bedrag, genoemd in artikel 12, eerste lid, wordt gewijzigd, worden de uit de toepassing van artikel 12, derde lid, met betrekking tot dat bedrag voortvloeiende bedragen door Onze Minister bekendgemaakt in de Staatscourant.   
-9.  Een herziening van de kinderbijslag op grond van dit artikel vindt plaats zonder dat dit bij beschikking is vastgesteld.   
-10.  De Sociale verzekeringsbank betaalt de herziene kinderbijslag, bedoeld in het negende lid, bij de eerstvolgende betaling van de kinderbijslag nadat de herziening, bedoeld in het tweede dan wel derde lid, heeft plaatsgevonden. 
+8.  Indien het bedrag, genoemd in artikel 12, eerste lid, wordt gewijzigd, worden de uit de toepassing van artikel 12, derde lid, met betrekking tot dat bedrag voortvloeiende bedragen, samen met de dag waarop de wijziging ingaat, door of namens Onze Minister bekendgemaakt in de Staatscourant.   
+9.  Een wijziging van de kinderbijslag op grond van dit artikel vindt plaats zonder dat dit bij beschikking is vastgesteld.   
+10.  De Sociale verzekeringsbank betaalt de gewijzigde kinderbijslag, bedoeld in het negende lid, bij de eerstvolgende betaling van de kinderbijslag nadat de wijziging, bedoeld in het tweede dan wel derde lid, heeft plaatsgevonden. 
 
 ### Artikel  13a  
 
@@ -198,12 +217,12 @@ c. 12 jaar en ouder, maar jonger is dan 18 jaar: 100%    van het op grond van he
 
 ####Het geldend maken van het recht op kinderbijslag 
 
-###Artikel 14 
+### Artikel  14  
 
-1. De Sociale verzekeringsbank stelt op aanvraag vast of een recht op kinderbijslag bestaat. 
-2.  Een aanvraag wordt ingediend door middel van een door de Sociale verzekeringsbank beschikbaar gesteld aanvraagformulier. 
-3.  Het recht op kinderbijslag kan niet vroeger ingaan dan een jaar voorafgaand aan de eerste dag van het kalenderkwartaal tijdens welk de aanvraag om kinderbijslag werd ingediend. De Sociale verzekeringsbank is bevoegd in bijzondere gevallen af te wijken van het bepaalde in de vorige volzin. 
-4.  Indien de verzekerde nalaat een aanvraag om kinderbijslag in te dienen, kan deze aanvraag worden ingediend door het Landelijk Bureau Inning Onderhoudsbijdragen, dat tevens adviseert aan wie de kinderbijslag wordt betaald. 
+1.  De Sociale verzekeringsbank stelt op aanvraag vast of een recht op kinderbijslag bestaat. De aanvraag om het extra bedrag aan kinderbijslag, bedoeld in artikel 7a, tweede lid, wordt ingediend voor 1 december van het kalenderjaar na het kalenderjaar waarover recht op het extra bedrag aan kinderbijslag bestaat.   
+2.   Een aanvraag wordt ingediend door middel van een door de Sociale verzekeringsbank beschikbaar gesteld aanvraagformulier. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot de verder bij de aanvraag te verstrekken gegevens.   
+3.  Het recht op kinderbijslag kan niet vroeger ingaan dan een jaar voorafgaand aan de eerste dag van het kalenderkwartaal tijdens welk de aanvraag om kinderbijslag werd ingediend. Het recht op kinderbijslag, bedoeld in artikel 7a, eerste lid, kan niet vroeger ingaan dan de eerste dag van het kalenderkwartaal tijdens welk de aanvraag om kinderbijslag als bedoeld in artikel 7a, eerste lid, werd ingediend. De Sociale verzekeringsbank is bevoegd in bijzondere gevallen af te wijken van het in dit lid bepaalde.   
+4.   Indien de verzekerde nalaat een aanvraag om kinderbijslag in te dienen, kan deze aanvraag worden ingediend door het Landelijk Bureau Inning Onderhoudsbijdragen, dat tevens adviseert aan wie de kinderbijslag wordt betaald.   
 
 ### Artikel  14a  
 
@@ -232,7 +251,7 @@ b.het kind voor wie kinderbijslag wordt betaald recht krijgt op studiefinancieri
 
 a. ten aanzien van een kind als bedoeld in artikel 7, eerste lid, onderdeel a, en tweede lid, wordt voldaan aan de voorwaarden, gesteld in artikel 7, eerste lid, onderdeel a, en tweede lid, of  
 
-b. een kind als bedoeld in artikel 7, derde lid, niet tot het huishouden van de verzekerde noch tot het huishouden van een ander behoort.     
+b. een kind als bedoeld in artikel 7, zesde lid, niet tot het huishouden van de verzekerde noch tot het huishouden van een ander behoort.     
 2.  Teneinde de verzekerde of de persoon aan wie of de instelling waaraan op grond van de artikelen 7c of 21 kinderbijslag wordt betaald daartoe in de gelegenheid te stellen, kan de Sociale verzekeringsbank bij dit verzoek aanbieden met de toestemming van de verzekerde of de bewoner van de woning waar het kind woont, de woning van verzekerde onderscheidenlijk de woning waar het kind woont binnen te treden.   
 3.  Indien door het ontbreken van toestemming van de bewoner niet kan worden vastgesteld tot wiens huishouden het kind behoort, heeft dit gevolgen voor het recht op en het geldend maken van het recht op kinderbijslag.  
 
@@ -240,6 +259,7 @@ b. een kind als bedoeld in artikel 7, derde lid, niet tot het huishouden van de 
 
 1.  De Sociale verzekeringsbank is bevoegd controlevoorschriften vast te stellen. Deze voorschriften mogen niet verder gaan dan strikt noodzakelijk is voor een juiste uitvoering van deze wet.   
 2.  De verzekerde, alsmede de persoon aan wie of de instelling waaraan op grond van de artikelen 7c of 21 kinderbijslag wordt betaald, zijn verplicht de voorschriften op te volgen en anderszins aan de Sociale verzekeringsbank desgevraagd de medewerking te verlenen die redelijkerwijs nodig is voor de uitvoering van deze wet. 
+3.  De verzekerde, alsmede de persoon aan wie op grond van artikel 21 kinderbijslag wordt betaald, onthouden zich van zeer ernstige misdragingen jegens de met de uitvoering van deze wet belaste personen en instanties tijdens het verrichten van hun werkzaamheden.
 
 ### Artikel  17  
 
@@ -275,7 +295,7 @@ Bij ministeriële regeling kunnen regels worden gesteld omtrent de termijn waarv
 
 1.  De Sociale verzekeringsbank verrekent de bestuurlijke boete met kinderbijslag op grond van deze wet, ouderdomspensioen op grond van de Algemene Ouderdomswet of een uitkering op grond van de Algemene nabestaandenwet, die degene aan wie een bestuurlijke boete is opgelegd, dan wel degene met wie hij een huishouden vormt, ontvangt.   
 2.  Onverminderd het eerste lid kan de Sociale verzekeringsbank de bestuurlijke boete verrekenen met een vordering die degene aan wie de bestuurlijke boete is opgelegd op hem heeft.  
-3.  Het college van burgemeester en wethouders van de betrokken gemeente, onderscheidenlijk het Uitvoeringsinstituut werknemersverzekeringen, betaalt het bedrag van de bestuurlijke boete, zonder dat daarvoor een machtiging nodig is, op haar verzoek aan de Sociale verzekeringsbank indien degene aan wie een bestuurlijke boete is opgelegd, dan wel degene met wie hij een huishouden vormt, een uitkering ontvangt op grond van de Wet werk en bijstand, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen, de Wet inkomensvoorziening oudere werklozen, de Werkloosheidswet, de Ziektewet, de Wet arbeidsongeschiktheidsverzekering zelfstandigen, de Wet werk en arbeidsondersteuning jonggehandicapten, de Wet werk en inkomen naar arbeidsvermogen, de Wet op de arbeidsongeschiktheidsverzekering of de Wet arbeid en zorg of een toeslag op grond van de Toeslagenwet.   
+3.  Het college van burgemeester en wethouders van de betrokken gemeente, onderscheidenlijk het Uitvoeringsinstituut werknemersverzekeringen, betaalt het bedrag van de bestuurlijke boete, zonder dat daarvoor een machtiging nodig is, op haar verzoek aan de Sociale verzekeringsbank indien degene aan wie een bestuurlijke boete is opgelegd, dan wel degene met wie hij een huishouden vormt, een uitkering ontvangt op grond van de Participatiewet, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen, de Wet inkomensvoorziening oudere werklozen, de Werkloosheidswet, de Ziektewet, de Wet arbeidsongeschiktheidsverzekering zelfstandigen, de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, de Wet werk en inkomen naar arbeidsvermogen, de Wet op de arbeidsongeschiktheidsverzekering of de Wet arbeid en zorg of een toeslag op grond van de Toeslagenwet.   
 4.  De in artikel 479g van het Wetboek van Burgerlijke Rechtsvordering aan de raad voor de kinderbescherming toegekende bevoegdheid komt gelijkelijk toe aan de Sociale verzekeringsbank. Indien de Sociale verzekeringsbank gebruik maakt van deze bevoegdheid, geschiedt de bekendmaking van het dwangbevel, in afwijking van artikel 4:123, eerste lid, van de Algemene wet bestuursrecht, door middel van toezending per post aan degene aan wie de boete is opgelegd.   
 5.  Zolang de verzekerde en degene met wie hij een huishouden vormt, dan wel de persoon aan wie op grond van de artikelen 7c of 21 kinderbijslag wordt betaald, zijn verplichting als bedoeld in artikel 17a, achtste lid, niet of niet behoorlijk nakomt: 
 
@@ -289,7 +309,7 @@ b. geldt de beslagvrije voet, bedoeld in de artikelen 475c tot en met 475e van h
 2.  Artikel 17g, eerste lid, en het eerste lid zijn van overeenkomstige toepassing op de verrekening van de bestuurlijke boete, bedoeld in artikel 17a, eerste lid, indien en voor zover op het moment van verrekening, bedoeld in het eerste lid, de bestuurlijke boete door de overtreder niet is betaald.   
 3.  De Sociale verzekeringsbank kan op verzoek van degene aan wie de bestuurlijke boete is opgelegd besluiten het eerste en tweede lid niet of niet meer toe te passen indien, gelet op bijzondere omstandigheden, dringende redenen daartoe noodzaken.   
 4.  De voorgaande leden laten de verrekening van de bestuurlijke boete op grond van artikel 17g, eerste, na het tijdvak, bedoeld in het eerste lid, onverlet.   
-5.  Indien als gevolg van de verrekening, bedoeld in het eerste en tweede lid, algemene bijstand op grond van de Wet werk en bijstand wordt toegekend, wordt bij de verrekening een bij ministeriële regeling bepaald deel van de kinderbijslag op grond van deze wet op aanvraag vrijgelaten in verband met zorgkosten, woonkosten en de kosten van kinderen. Het vrij te laten deel van de kinderbijslag kan afhankelijk worden gesteld van de leefsituatie.  
+5.  Indien als gevolg van de verrekening, bedoeld in het eerste en tweede lid, algemene bijstand op grond van de Participatiewet wordt toegekend, wordt bij de verrekening een bij ministeriële regeling bepaald deel van de kinderbijslag op grond van deze wet op aanvraag vrijgelaten in verband met zorgkosten, woonkosten en de kosten van kinderen. Het vrij te laten deel van de kinderbijslag kan afhankelijk worden gesteld van de leefsituatie.  
 6.  Voor de toepassing van het vijfde lid kunnen bij ministeriële regeling nadere regels worden gesteld. 
 
 ### §  3  
@@ -298,7 +318,7 @@ b. geldt de beslagvrije voet, bedoeld in de artikelen 475c tot en met 475e van h
 
 ### Artikel  18  
 
-1.  De Sociale verzekeringsbank betaalt de kinderbijslag zo spoedig mogelijk, doch uiterlijk binnen drie maanden na afloop van het kwartaal waarover recht op kinderbijslag bestaat.    
+1.  De Sociale verzekeringsbank betaalt de kinderbijslag en het extra bedrag aan kinderbijslag, bedoeld in artikel 7a, tweede lid, zo spoedig mogelijk, doch uiterlijk binnen drie maanden na afloop van het kwartaal waarover recht op kinderbijslag bestaat, respectievelijk binnen drie maanden na indiening van de aanvraag, bedoeld in artikel 14, eerste lid, tweede zin.   
 2.   Indien twee personen, die gezamenlijk een huishouden vormen, over eenzelfde tijdvak recht op kinderbijslag voor eenzelfde kind hebben, wordt de kinderbijslag uitbetaald aan degene van hen die zij gezamenlijk daartoe hebben aangewezen.    
 3.  Bij gebreke van een gezamenlijke aanwijzing als bedoeld in het tweede lid bepaalt de Sociale verzekeringsbank aan welke persoon de kinderbijslag wordt uitbetaald.   
 4.   Indien twee of meer personen waaronder één persoon tot wiens huishouden het kind behoort, over eenzelfde tijdvak recht op kinderbijslag voor eenzelfde kind hebben, wordt de kinderbijslag waarop degene recht heeft, tot wiens huishouden dit kind niet behoort, niet betaald.    
@@ -400,13 +420,11 @@ a. redelijkerwijs te voorzien is dat verzekerde, dan wel degene met wie hij een 
 
 b. redelijkerwijs te voorzien is dat een schuldregeling met betrekking tot alle vorderingen, behoudens de in het tweede lid bedoelde vorderingen, van de overige schuldeisers zonder een zodanig besluit niet tot stand zal komen;  
 
-c. de vordering van de Sociale verzekeringsbank wegens onverschuldigde betaling ten minste zal worden voldaan naar evenredigheid met de vorderingen van de schuldeisers van gelijke rang;  
+c. een naar het oordeel van de Sociale verzekeringsbank betrouwbaar voorstel voor een schuldregeling tot stand is gekomen door tussenkomst van een schuldhulpverlener als bedoeld in artikel 48 van de Wet op het consumentenkrediet;  
 
-d. een naar het oordeel van de Sociale verzekeringsbank betrouwbaar voorstel voor een schuldregeling tot stand is gekomen door tussenkomst van een schuldhulpverlener als bedoeld in artikel 48 van de Wet op het consumentenkrediet;  
+d. aannemelijk is dat medewerking aan een schuldregeling niet concurrentieverstorend werkt; en  
 
-e. aannemelijk is dat medewerking aan een schuldregeling niet concurrentieverstorend werkt; en  
-
-f. uitdeling in het kader van de schuldregeling plaatsvindt overeenkomstig artikel 349 van de Faillissementswet.     
+e. uitdeling in het kader van de schuldregeling plaatsvindt overeenkomstig artikel 349 van de Faillissementswet.     
 2.  Het eerste lid is niet van toepassing indien een vordering is ontstaan door het niet nakomen door de verzekerde, dan wel degene met wie hij een huishouding vormt, of de persoon aan wie op grond van de artikelen 7c of 21 kinderbijslag wordt betaald, van de verplichting, bedoeld in artikel 15, en hiervoor een boete als bedoeld in artikel 17a is opgelegd, dan wel met betrekking tot het niet naleven van die verplichting aangifte is gedaan op grond van het Wetboek van Strafrecht.   
 3.  Het besluit tot het afzien van terugvordering of van verdere terugvordering wordt ingetrokken of ten nadele van de verzekerde, dan wel degene met wie hij een huishouding vormt, of de persoon aan wie op grond van de artikelen 7c of 21 kinderbijslag wordt betaald gewijzigd indien: 
 
@@ -477,10 +495,16 @@ Hetgeen nog ter uitvoering van deze wet nodig is, wordt geregeld bij ministerië
 
 ### Artikel  41a  
 
-1.  Artikel 7, derde lid, onderdeel a, onder 1°, zoals dat luidde op de dag voor inwerkingtreding van artikel I, onderdeel A, van de Wet hervorming kindregelingen, blijft tot en met 30 september 2015 van toepassing op het kind dat voor de dag van inwerkingtreding van het in artikel I, onderdeel A, van de Wet hervorming kindregelingen opgenomen artikel 7, zesde lid, voor twee kinderen werd geteld.   
+1.  Artikel 7, derde lid, onderdeel a, onder 1°, zoals dat luidde op de dag voor inwerkingtreding van artikel I, onderdeel A, van de Wet hervorming kindregelingen, blijft tot en met 30 september 2015 van toepassing op het kind dat op de dag voor inwerkingtreding van het in artikel I, onderdeel A, van de Wet hervorming kindregelingen opgenomen artikel 7, zesde lid, voor twee kinderen werd geteld.   
 2.  Artikel 7, derde lid, onderdeel a, onder 2°, zoals dat luidde op de dag voor inwerkingtreding van artikel I, onderdeel A, van de Wet hervorming kindregelingen, blijft van toepassing tot en met 31 december 2014.   
-3.  Artikel 7, derde lid, onderdeel b, zoals dat luidde op de dag voor inwerkingtreding van artikel I, onderdeel A, van de Wet hervorming kindregelingen blijft van toepassing op het kind dat voor de dag van inwerkingtreding van het in artikel I, onderdeel A, van de Wet hervorming kindregelingen opgenomen artikel 7, zesde lid, voor twee kinderen werd geteld.   
-4.  Dit artikel vervalt twee jaar na zijn inwerkingtreding.  
+3.  Artikel 7, derde lid, onderdeel b, zoals dat luidde op de dag voor inwerkingtreding van artikel I, onderdeel A, van de Wet hervorming kindregelingen blijft van toepassing op het kind dat op de dag voor inwerkingtreding van het in artikel I, onderdeel A, van de Wet hervorming kindregelingen opgenomen artikel 7, zesde lid, voor twee kinderen werd geteld.   
+4.  Dit artikel vervalt met ingang van 1 januari 2017.  
+
+### Artikel  41b  
+
+1.  Op de persoon die op grond van een verdrag, de voorlopige toepassing van een verdrag dan wel een daarmee gelijk te stellen situatie in afwijking van artikel 7b recht heeft op kinderbijslag en wiens recht op kinderbijslag uitsluitend zou eindigen als gevolg van de opzegging of wijziging van dat verdrag, de beëindiging van de voorlopige toepassing van dat verdrag dan wel de beëindiging van een daarmee gelijk te stellen situatie, blijft artikel 7b gedurende de eerste twee kalenderkwartalen vanaf de buitenwerkingtreding van het verdrag, de inwerkingtreding van de desbetreffende wijziging respectievelijk de beëindiging van de voorlopige toepassing of de beëindiging van de daarmee gelijk te stellen situatie buiten toepassing.   
+2.  Het eerste lid blijft van toepassing zolang het kind op de eerste dag van de in dat lid bedoelde kalenderkwartalen woont in hetzelfde land als waar hij op de eerste dag van het daaraan voorafgaande kalenderkwartaal woonde en de verzekerde blijft voldoen aan de overige voorwaarden voor het recht op kinderbijslag.   
+3.  Onze Minister deelt mede ten aanzien van welk land, met inbegrip van de dag waarop, een verdrag als bedoeld in het eerste lid zodanig is gewijzigd dat niet langer in afwijking van artikel 7b recht op kinderbijslag kan bestaan, een verdrag als bedoeld in het eerste lid buitenwerking is getreden als gevolg van opzegging dan wel de voorlopige toepassing van een verdrag of een daarmee gelijk te stellen situatie als bedoeld in het eerste lid is beëindigd.  
 
 ###Artikel 42 
 

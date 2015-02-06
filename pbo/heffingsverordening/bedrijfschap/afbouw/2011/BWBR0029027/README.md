@@ -3,7 +3,7 @@
 ##Verordening van het Bedrijfschap Afbouw van 22 september 2010, houdende regels ter zake van de aan de onder het Bedrijfschap Afbouw ressorterende ondernemers op te leggen heffing voor het jaar 2011 (Heffingsverordening Bedrijfschap Afbouw 2011)
 
 Het bestuur van het Bedrijfschap Afbouw,  
-Gelet op de [artikelen 93](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [artikel 7 van het Instellingsbesluit Bedrijfschap Afbouw,](../../../../../../AMvB/instellingsbesluit/bedrijfschap/afbouw/BWBR0020865/README.md)
+Gelet op de artikelen 93 en 126 van de Wet op de bedrijfsorganisatie en artikel 7 van het Instellingsbesluit Bedrijfschap Afbouw,
 Besluit:    
 ###§ 1 
 
@@ -116,7 +116,7 @@ Materieel uitgewerkt per 01-01-2012
 
 krachtens haar statutaire doelstelling haar werkzaamheden kan uitstrekken tot ten minste een belangrijk gedeelte van het terrein waarop het bedrijfschap een taak heeft te vervullen;
 
-voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de [artikelen 3 tot en met 7 van de Verordening representativiteit organisaties](../../../../../../pbo/verordening/representativiteit/organisaties/BWBR0011641/README.md) van de Sociaal-Economische Raad;
+voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de artikelen 3 tot en met 7 van de Verordening representativiteit organisaties van de Sociaal-Economische Raad;
 
 tot de werkingssfeer van het bedrijfschap behorende leden heeft, waarvan het gewogen aantal niet-onbetekenend is;
 

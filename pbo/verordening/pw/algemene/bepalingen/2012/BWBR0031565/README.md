@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Wijn van 21 maart 2012 houdende algemene bepalingen (Verordening PW algemene bepalingen 2012)
 
 Het bestuur van het Productschap Wijn;  
-Gelet op de [artikelen 93](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [104, eerste en derde lid, van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op de [artikelen 14](../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md), [17](../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md) en [18 van het Instellingsbesluit Akkerbouwproductschappen](../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md);
+Gelet op de artikelen 93 en 104, eerste en derde lid, van de Wet op de bedrijfsorganisatie en op de artikelen 14, 17 en 18 van het Instellingsbesluit Akkerbouwproductschappen;
 Besluit:    
 ###§ 1 
 
@@ -41,7 +41,7 @@ e.op eerste vordering van functionarissen behorende tot de door het bestuur aang
 
 ###Artikel 3 
 
-1. Wanneer de voorzitter zulks nodig acht en voor zover van belang voor de bepaling van de heffing, dient een ondernemer, die op grond van een heffingsverordening als bedoeld in [artikel 126 van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) heffingsplichtig is, een accountantsverklaring in, waaruit blijkt:
+1. Wanneer de voorzitter zulks nodig acht en voor zover van belang voor de bepaling van de heffing, dient een ondernemer, die op grond van een heffingsverordening als bedoeld in artikel 126 van de Wet op de bedrijfsorganisatie heffingsplichtig is, een accountantsverklaring in, waaruit blijkt:
 
 a.de totale in het betreffende kalenderjaar geproduceerde, be- of verwerkte, verhandelde, geleverde of afgenomen hoeveelheden product;
 

@@ -5,7 +5,7 @@
 Het bestuur van het Productschap Tuinbouw,  
 op voorstel van de Sectorcommissie voor energie;
 
-gelet op [artikel 126 van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op de artikelen 14, 15 en 19 van de Instellingsverordening Productschap Tuinbouw 1998;
+gelet op artikel 126 van de Wet op de bedrijfsorganisatie en op de artikelen 14, 15 en 19 van de Instellingsverordening Productschap Tuinbouw 1998;
 besluit:     
 ### §  1  
 
@@ -25,7 +25,7 @@ besluit:
 | e.  |  ondernemer:  | de natuurlijke of rechtspersoon die de onderneming drijft;  |
 | f.  |  heffingsplichtige:  | de ondernemer die ingevolge deze heffingsverordening heffing verschuldigd is.  |
 | g.  |  energiebedrijf:  | het energiebedrijf waarvan de heffingsplichtige aardgas of warmte afneemt;  |
-| h.  |  groeiproces van tuinbouwproducten:  | het groeiproces van tuinbouwproducten als bedoeld in de beschikking van de staatssecretaris van Financiën, inzake de toepassing van [post a 32 van de bij de Wet op de Omzetbelasting 1968 behorende tabel I](../../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md);  |
+| h.  |  groeiproces van tuinbouwproducten:  | het groeiproces van tuinbouwproducten als bedoeld in de beschikking van de staatssecretaris van Financiën, inzake de toepassing van post a 32 van de bij de Wet op de Omzetbelasting 1968 behorende tabel I;  |
 | i.  |  warmte/kracht-installatie:  | een voorziening, strekkende tot gecombineerde opwekking van warme en kracht, waarbij de daarbij opgewekte warmte wordt aangewend ter bevordering van het groeiproces van tuinbouwproducten, door het installeren van krachtwerktuigen en daarbij behorende voorzieningen;  |
 | j.  |  indirect aardgasverbruik:  | het door de heffingsplichtige afnemen van warmte van het energiebedrijf, waarbij deze warmte is vrijgekomen door verbranding van aardgas;  |
 | k.  |  aardgasequivalent:  | een in m<sup>3</sup> aardgas omgerekende hoeveelheid energie, waarbij 1 equivalent gelijk is aan 1 m<sup>3</sup> aardgas.  |
@@ -101,7 +101,7 @@ c. zodra de ondernemer zich metterwoon in het buitenland heeft gevestigd of van 
 
 ### Artikel  10  
 
-Aan de heffingsplichtige, die niet of niet geheel binnen de in artikel 9 bedoelde termijn heeft betaald, kunnen de daaruit voortvloeiende extra kosten van maximaal ƒ 50,– in rekening worden gebracht, alsmede de wettelijke interest over het niet betaalde bedrag, te berekenen vanaf de dag waarop de betaling diende te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md). 
+Aan de heffingsplichtige, die niet of niet geheel binnen de in artikel 9 bedoelde termijn heeft betaald, kunnen de daaruit voortvloeiende extra kosten van maximaal ƒ 50,– in rekening worden gebracht, alsmede de wettelijke interest over het niet betaalde bedrag, te berekenen vanaf de dag waarop de betaling diende te zijn verricht ingevolge de aanmaning bedoeld in artikel 127, tweede lid van de Wet op de bedrijfsorganisatie. 
 
 ### Artikel  11  
 

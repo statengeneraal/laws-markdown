@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Vee en Vlees van 8 december 2010 houdende regels ter uitvoering van het Fokkerijbesluit betreffende de erkenning van organisaties die één of meer stamboeken bijhouden of instellen en de erkenning van organisaties die verantwoordelijk zijn voor de reglementering van prestatieonderzoek en fokwaardeschattingen (Verordening erkenningsvoorwaarden voor stamboeken, prestatieonderzoek en fokwaardeschatting (PVV) 2010)
 
 Het bestuur van het Productschap Vee en Vlees;  
-Gelet op [artikel 11, eerste lid, van het Fokkerijbesluit](../../../../../../../../../AMvB/fokkerijbesluit/BWBR0006862/README.md) en de [artikelen 96](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [97](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [98 van de Wet op de bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md),
+Gelet op artikel 11, eerste lid, van het Fokkerijbesluit en de artikelen 96, 97 en 98 van de Wet op de bedrijfsorganisatie,
 
 Gezien richtlijn nr. 2009/157/EG van de Raad van 30 november 2009 betreffende raszuivere fokrunderen (PbEG L 323); richtlijn nr. 87/328/EEG van de Raad van de Europese Gemeenschappen van 18 juni 1987 betreffende de toelating van raszuivere fokrunderen tot de voortplanting (PbEG L 167); richtlijn nr. 88/661/EEG van de Raad van de Europese Gemeenschappen van 19 december 1988 betreffende de zoötechnische normen die gelden voor fokvarkens (PbEG L 382); richtlijn nr. 89/361/EEG van de Raad van de Europese Gemeenschappen van 30 mei 1989 betreffende raszuivere fokschapen en -geiten (PbEG L 153); richtlijn nr. 90/118/EEG van de Raad van de Europese Gemeenschappen van 5 maart 1990 betreffende de toelating van raszuivere fokvarkens tot de voortplanting (PbEG L 71); richtlijn nr. 90/119/EEG van de Raad van de Europese Gemeenschappen van 5 maart 1990 betreffende de toelating van hybride fokvarkens tot de voortplanting (PbEG L 71); richtlijn 90/427/EEG van de Raad van de Europese Gemeenschappen van 26 juni 1990 tot vaststelling van zoötechnische en genealogische voorschriften voor het Intracommunautaire handelsverkeer in paardachtigen (PbEG L 224); richtlijn nr. 91/174/EEG van de Raad van de Europese Gemeenschappen van 25 maart 1991 inzake zoötechnische en genealogische voorschriften voor de handel in rasdieren en tot wijziging van de richtlijnen 77/504/EEG en 90/425/EEG (PbEG L 85) en richtlijn nr. 94/28/EG van de Raad van de Europese Unie van 23 juni 1994 tot vaststelling van de beginselen inzake de zoötechnische en genealogische voorschriften voor de invoer uit derde landen van dieren, alsmede van sperma, eicellen en embryo’s en tot wijziging van richtlijn 77/504/EEG betreffende raszuivere fokrunderen (PbEG L 178),
 Besluit:    
@@ -13,14 +13,14 @@ Besluit:
 
 ###Artikel 1 
 
-Deze verordening neemt de terminologie als omschreven in [artikel 1 van het Fokkerijbesluit](../../../../../../../../../AMvB/fokkerijbesluit/BWBR0006862/README.md) over, en verstaat voorts onder:  
+Deze verordening neemt de terminologie als omschreven in artikel 1 van het Fokkerijbesluit over, en verstaat voorts onder:  
 
 | --- | --- | --- | --- |
 |:---|:---|:---|:---|
 |a. |productschap |: | Productschap Vee en Vlees; |
 |b. |bestuur |: | het bestuur van het productschap; |
 |c. |voorzitter |: | de voorzitter van het productschap; |
-|d. |[Fokkerijbesluit](../../../../../../../../../AMvB/fokkerijbesluit/BWBR0006862/README.md) |: | Besluit van 8 augustus 1994, houdende regelen betreffende het fokken van vee en overige diersoorten (Stb. 1994, 696); |
+|d. |Fokkerijbesluit |: | Besluit van 8 augustus 1994, houdende regelen betreffende het fokken van vee en overige diersoorten (Stb. 1994, 696); |
 |e. |erkende organisatie |: | een op grond van deze verordening erkende organisatie; |
 |f. |certificaat met afstammingsgegevens |: | het certificaat als bedoeld in: |
 | --- | --- | --- |Beschikking 2005/379/EG van de Commissie van 17 mei 2005 betreffende stamboekcertificaten en gegevens voor raszuivere fokrunderen en sperma, eicellen en embryo’s daarvan (PbEG L. 125), voor runderen en buffels, respectievelijk |
@@ -58,7 +58,7 @@ b.de reglementering en de uitvoering van prestatieonderzoek of alleen de uitvoer
 c.de reglementering en de uitvoering of alleen de uitvoering van de beoordeling van genetische waarden van runderen en buffels of de uitvoering van de beoordeling van genetische waarden van varkens of schapen en geiten, en de publicatie van de geschatte waarden, indien wordt voldaan aan de in Bijlage III opgenomen erkenningsvoorwaarden. 
 2. Een erkenning, als bedoeld in het eerste lid, onder a., wordt niet verleend indien:
 
-a.niet is gewaarborgd dat de organisatie het bepaalde in [artikel 2, eerste lid](../../../../../../../../../AMvB/fokkerijbesluit/BWBR0006862/README.md), en [artikel 6, eerste lid, van het Fokkerijbesluit](../../../../../../../../../AMvB/fokkerijbesluit/BWBR0006862/README.md), in acht neemt, of
+a.niet is gewaarborgd dat de organisatie het bepaalde in artikel 2, eerste lid, en artikel 6, eerste lid, van het Fokkerijbesluit, in acht neemt, of
 
 b.voor het ras reeds één of meer erkende organisaties bestaan, en:
 
@@ -121,7 +121,7 @@ b.de voorzitter na een indiening, als genoemd onder a., om aanvullende informati
 
 a.de erkende organisatie niet meer voldoet aan één of meer van de erkenningsvoorwaarden;
 
-b.onvoldoende is gewaarborgd dat de erkende organisatie de in [artikel 2, eerste lid](../../../../../../../../../AMvB/fokkerijbesluit/BWBR0006862/README.md), en [artikel 6, eerste lid, van het Fokkerijbesluit](../../../../../../../../../AMvB/fokkerijbesluit/BWBR0006862/README.md) bedoelde voorschriften naleeft;
+b.onvoldoende is gewaarborgd dat de erkende organisatie de in artikel 2, eerste lid, en artikel 6, eerste lid, van het Fokkerijbesluit bedoelde voorschriften naleeft;
 
 c.de erkende organisatie de bij deze verordening gestelde verplichtingen niet naleeft;
 
@@ -195,7 +195,7 @@ De voorzitter verifieert de door de organisatie op de voet van deze verordening 
 1. De door het productschap uit hoofde van deze verordening verkregen gegevens over erkende organisaties of organisaties die een aanvraag tot erkenning hebben ingediend, worden in handen gesteld van de voorzitter. De gegevens worden, behoudens aan medewerkers van het productschap, de commissies, genoemd in artikel 10 en desgevraagd aan het Ministerie van Economische Zaken, Landbouw en Innovatie, niet verder bekend gemaakt.
 2. De in het eerste lid bedoelde personen alsmede de (plaatsvervangend) voorzitters en (plaatsvervangende) leden van de in het eerste lid bedoelde commissies zijn gehouden de uit hoofde van hun taak verkregen gegevens vertrouwelijk te behandelen.
 3. De voorzitter kan, in afwijking van het bepaalde in het eerste lid, besluiten tot bekendmaking van getotaliseerde gegevens omtrent groepen van erkende organisaties of organisaties die een aanvraag tot erkenning hebben ingediend, doch nimmer op zodanige wijze dat daaruit gegevens omtrent een bepaalde organisatie kunnen worden afgeleid.
-4. Uit hoofde van deze verordening verkregen gegevens over organisaties worden aan anderen dan de in het eerste lid genoemde personen en instanties slechts verstrekt voor zover dat in overeenstemming is met de [artikelen 8](../../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) en [9 van de Wet bescherming persoonsgegevens](../../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).
+4. Uit hoofde van deze verordening verkregen gegevens over organisaties worden aan anderen dan de in het eerste lid genoemde personen en instanties slechts verstrekt voor zover dat in overeenstemming is met de artikelen 8 en 9 van de Wet bescherming persoonsgegevens.
 
 ###11 
 
@@ -203,7 +203,7 @@ De voorzitter verifieert de door de organisatie op de voet van deze verordening 
 
 ###Artikel 15 
 
-1. De [Verordening uitvoering fokkerijbesluit 2001](../../../../../../../../../pbo/verordening/uitvoering/fokkerijbesluit/2001/BWBR0012559/README.md) wordt ingetrokken. Erkenningen die zijn verleend op grond van de Verordening uitvoering fokkerijbesluit 2001 en die nog geldig zijn op het moment van inwerkingtreding van deze verordening, zijn geldig tot en met uiterlijk 30 september 2011 en worden beheerst door de bepalingen van de Verordening uitvoering fokkerijbesluit 2001.
+1. De Verordening uitvoering fokkerijbesluit 2001 wordt ingetrokken. Erkenningen die zijn verleend op grond van de Verordening uitvoering fokkerijbesluit 2001 en die nog geldig zijn op het moment van inwerkingtreding van deze verordening, zijn geldig tot en met uiterlijk 30 september 2011 en worden beheerst door de bepalingen van de Verordening uitvoering fokkerijbesluit 2001.
 2. Aanvragen tot erkenning die op het moment van inwerkingtreding van deze verordening nog in behandeling zijn, worden aangemerkt als aanvragen tot erkenning als bedoeld in deze verordening.
 
 ###Artikel 16 

@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Economische Zaken van 15 februari 2013, nr. WJZ/13014657, houdende regels met betrekking tot de verdeling van frequentieruimte als bedoeld in artikel 3.10, eerste lid, onderdeel b, van de Telecommunicatiewet (Regeling verdeling op afroep)
 
 De Minister van Economische Zaken;  
-Gelet op de [artikelen 14](../../../../../../AMvB/frequentiebesluit/2013/BWBR0032895/README.md) en [16 van het Frequentiebesluit 2013](../../../../../../AMvB/frequentiebesluit/2013/BWBR0032895/README.md);
+Gelet op de artikelen 14 en 16 van het Frequentiebesluit 2013;
 Besluit:     
 ### §  1  
 
@@ -15,7 +15,7 @@ In deze regeling wordt verstaan onder:
 
 a.  *aanvrager:* degene die een aanvraag heeft ingediend;  
 
-b.  *vergunning:* een vergunning voor het gebruik van frequentieruimte met de omvang zoals die is vastgesteld op grond van [artikel 14, derde lid, van het Frequentiebesluit 2013](../../../../../../AMvB/frequentiebesluit/2013/BWBR0032895/README.md), of een veelvoud daarvan;  
+b.  *vergunning:* een vergunning voor het gebruik van frequentieruimte met de omvang zoals die is vastgesteld op grond van artikel 14, derde lid, van het Frequentiebesluit 2013, of een veelvoud daarvan;  
 
 c.  *winnende combinatie:* die combinatie van biedingen uit alle biedronden, houdende ten hoogste één bieding per deelnemer en betrekking hebbende op ten hoogste het aantal beschikbare vergunningen, die de hoogste totaalopbrengst oplevert;  
 
@@ -23,7 +23,7 @@ d.  *finale winnende combinatie:* de combinatie van biedingen die op grond van a
 
 e.  *winnende deelnemer:* de deelnemer wiens bieding deel uitmaakt van de finale winnende combinatie;  
 
-f.  *VOA-procedure:* de verdeelprocedure die aanvangt met de eerste aanvraag als bedoeld in [artikel 15 van het Frequentiebesluit 2013](../../../../../../AMvB/frequentiebesluit/2013/BWBR0032895/README.md) en eindigt met de beslissing op de aanvragen ingevolge artikel 7 of 24;  
+f.  *VOA-procedure:* de verdeelprocedure die aanvangt met de eerste aanvraag als bedoeld in artikel 15 van het Frequentiebesluit 2013 en eindigt met de beslissing op de aanvragen ingevolge artikel 7 of 24;  
 
 g.  *vertrouwelijke informatie:* informatie over een aanvrager die niet openbaar is en die, wanneer kenbaar gemaakt aan een andere aanvrager diens beslissingen met betrekking tot de veiling beïnvloedt of kan beïnvloeden.   
 
@@ -33,7 +33,7 @@ g.  *vertrouwelijke informatie:* informatie over een aanvrager die niet openbaar
 
 ### Artikel  2  
 
-1.  Een aanvraag tot verlening van een vergunning voor het gebruik van frequentieruimte als bedoeld in [artikel 3.10, eerste lid, onderdeel b, van de Telecommunicatiewet](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) geschiedt door middel van een daartoe strekkend formulier. De aanvraag bevat de in het formulier genoemde gegevens en bescheiden.   
+1.  Een aanvraag tot verlening van een vergunning voor het gebruik van frequentieruimte als bedoeld in artikel 3.10, eerste lid, onderdeel b, van de Telecommunicatiewet geschiedt door middel van een daartoe strekkend formulier. De aanvraag bevat de in het formulier genoemde gegevens en bescheiden.   
 2.  De aanvraag is in de Nederlandse taal gesteld.   
 3.  In de aanvraag worden de namen vermeld van ten minste één en ten hoogste vier natuurlijke personen, die ieder voor zich zelfstandig bevoegd zijn om de aanvraag namens de aanvrager in te dienen alsmede in het geval van een veiling namens de aanvrager handelingen te verrichten gedurende de veiling en die daartoe beschikken over een rechtsgeldige en toereikende volmacht.   
 4.  Met de gegevens en bescheiden, bedoeld in het eerste lid, worden gelijkgesteld zodanige gegevens en bescheiden krachtens het recht van een van de andere lidstaten van de Europese Unie of een van de andere staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte.   
@@ -46,7 +46,7 @@ g.  *vertrouwelijke informatie:* informatie over een aanvrager die niet openbaar
 1.  Indien de aanvrager niet heeft voldaan aan de in artikel 2 gestelde vereisten, deelt de minister dit de aanvrager mee en stelt de minister de aanvrager in de gelegenheid het verzuim te herstellen.   
 2.  De aanvrager heeft gedurende tien werkdagen, te rekenen vanaf de dag nadat de mededeling, bedoeld in het eerste lid, is verstuurd, de gelegenheid het verzuim te herstellen.   
 3.  De gegevens, bedoeld in het tweede lid, worden op de wijze, bedoeld in artikel 2, zevende lid, ingediend.   
-4.  Indien het verzuim, bedoeld in het eerste lid, binnen de termijn, genoemd in het tweede lid, niet is hersteld of de aanvraag na herstel niet voldoet aan de in artikel 2 gestelde eisen, kan de minister besluiten de aanvraag overeenkomstig [artikel 4:5 Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet te behandelen.  
+4.  Indien het verzuim, bedoeld in het eerste lid, binnen de termijn, genoemd in het tweede lid, niet is hersteld of de aanvraag na herstel niet voldoet aan de in artikel 2 gestelde eisen, kan de minister besluiten de aanvraag overeenkomstig artikel 4:5 Algemene wet bestuursrecht niet te behandelen.  
 
 ### Artikel  4  
 
@@ -63,7 +63,7 @@ c. er is geen beslag gelegd op het vermogen dan wel een of meer bedrijfsmiddelen
 ### Artikel  5  
 
 1.  Indien uit de aanvraag niet blijkt dat aan de eisen, bedoeld in artikel 4, eerste en het tweede lid, is voldaan, wijst de minister de aanvraag af.   
-2.  De minister wijst aanvragen betreffende een band waarvoor reeds een VOA-procedure gaande is, ingediend in de periode vanaf de datum na afloop van de termijn, bedoeld in [artikel 15, eerste lid, onderdeel b, van het Frequentiebesluit 2013](../../../../../../AMvB/frequentiebesluit/2013/BWBR0032895/README.md) tot en met de datum waarop ingevolge artikel 7 of artikel 24 over de aanvragen wordt beslist, af.   
+2.  De minister wijst aanvragen betreffende een band waarvoor reeds een VOA-procedure gaande is, ingediend in de periode vanaf de datum na afloop van de termijn, bedoeld in artikel 15, eerste lid, onderdeel b, van het Frequentiebesluit 2013 tot en met de datum waarop ingevolge artikel 7 of artikel 24 over de aanvragen wordt beslist, af.   
 3.  De minister wijst aanvragen om het gebruik van frequentieruimte binnen een band waarbinnen geen frequentieruimte beschikbaar is, af.  
 
 ### §  3  
@@ -72,11 +72,11 @@ c. er is geen beslag gelegd op het vermogen dan wel een of meer bedrijfsmiddelen
 
 ### Artikel  6  
 
-Indien de minister een besluit neemt, als bedoeld in [artikel 16, eerste lid, onderdeel a, van het Frequentiebesluit 2013](../../../../../../AMvB/frequentiebesluit/2013/BWBR0032895/README.md), verleent de minister aan de aanvrager een vergunning voor het gebruik van de in diens aanvraag vermelde hoeveelheid frequentieruimte. 
+Indien de minister een besluit neemt, als bedoeld in artikel 16, eerste lid, onderdeel a, van het Frequentiebesluit 2013, verleent de minister aan de aanvrager een vergunning voor het gebruik van de in diens aanvraag vermelde hoeveelheid frequentieruimte. 
 
 ### Artikel  7  
 
-1.  Indien de minister een besluit neemt, als bedoeld in [artikel 16, eerste lid, onderdeel a, van het Frequentiebesluit 2013](../../../../../../AMvB/frequentiebesluit/2013/BWBR0032895/README.md), deelt de minister iedere aanvrager mee aan wie de vergunningen zullen worden verleend.   
+1.  Indien de minister een besluit neemt, als bedoeld in artikel 16, eerste lid, onderdeel a, van het Frequentiebesluit 2013, deelt de minister iedere aanvrager mee aan wie de vergunningen zullen worden verleend.   
 2.  De frequentieruimte waarop de vergunningen die aan een aanvrager worden verleend, betrekking hebben, is indien mogelijk aaneengesloten.   
 3.  Indien het totaal aan frequentieruimte waarop de te verlenen vergunningen betrekking hebben, kleiner is dan de beschikbare frequentieruimte binnen de band, worden de vergunningen verleend die betrekking hebben op de laagste frequenties. In afwijking van de eerste volzin kunnen de vergunningen die betrekking hebben op de hoogste frequentie binnen de band worden verleend indien alle aanvragers aan wie vergunningen worden verleend dit gedurende de periode bedoeld in het vierde lid overeenkomen.   
 4.  Indien binnen een frequentieband aan meerdere aanvragers vergunningen worden verleend, worden deze aanvragers gedurende twee weken vanaf de mededeling bedoeld in het eerste lid in de gelegenheid gesteld om, met inachtneming van het tweede en derde lid, onderling overeen te komen voor welke frequentieruimte vergunningen worden verleend aan welke aanvrager. Indien na afloop van de periode bedoeld in de eerste volzin niet alle aanvragers aan wie vergunningen zullen worden verleend tot overeenstemming zijn gekomen, bepaalt de minister door middel van een loting, met inachtneming van het tweede en derde lid, voor welke frequentieruimte vergunningen worden verleend aan welke aanvrager.   
@@ -88,7 +88,7 @@ Indien de minister een besluit neemt, als bedoeld in [artikel 16, eerste lid, on
 
 ### Artikel  8  
 
-Indien de Minister een besluit als bedoeld in [artikel 16, eerste lid, onderdeel b, van het Frequentiebesluit 2013](../../../../../../AMvB/frequentiebesluit/2013/BWBR0032895/README.md) heeft genomen zijn de artikelen 9 tot en met 25 van toepassing. 
+Indien de Minister een besluit als bedoeld in artikel 16, eerste lid, onderdeel b, van het Frequentiebesluit 2013 heeft genomen zijn de artikelen 9 tot en met 25 van toepassing. 
 
 ### Artikel  9  
 
@@ -350,7 +350,7 @@ H.G.J. Kamp
 | --- |
 | Maximaal aantal vergunningen waarop deelnemer in deze biedronde kan bieden:   |
 | --- |
-| Verlenging op grond van artikel 18, tweede lid, onder b, voor de periode:   ..........dag ..........uur tot ..........dag ..........uur   |
+| Verlenging op grond van artikel 18, tweede lid, onder b , voor de periode:   ..........dag ..........uur tot ..........dag ..........uur   |
 | --- |
 
 | Rondeprijs in € per vergunning  | Aantal  | Het aantal voluit en in blokletters geschreven in de Nederlandse taal  | Bieding van nul  |

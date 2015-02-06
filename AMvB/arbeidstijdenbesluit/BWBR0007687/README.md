@@ -28,8 +28,6 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 –bereikbaarheidsdienst: een aaneengesloten periode van ten hoogste 24 uren waarin de werknemer, zo nodig naast het verrichten van de bedongen arbeid, verplicht is om bereikbaar te zijn om op oproep zo spoedig mogelijk de bedongen arbeid te verrichten;
 
-–jeugdzorg: jeugdzorg als bedoeld in artikel 3, eerste lid, van de Wet op de jeugdzorg die gepaard gaat met verblijf als bedoeld in artikel 4 van het Uitvoeringsbesluit Wet op de jeugdzorg, voor zover daarin personen plegen te worden verzorgd uit andere hoofde dan wegens hun geestelijke of lichamelijke gesteldheid;
-
 –mijnbouwwerk: hetgeen daaronder wordt verstaan in artikel 1, onder n, van de Mijnbouwwet;
 
 –verpleging en verzorging: de verpleging, de verzorging, de begeleiding, de medische behandeling of het medisch onderzoek van personen in verband met hun lichamelijke of geestelijke gesteldheid dan wel hun gevorderde leeftijd;
@@ -93,7 +91,7 @@ b.wetenschappelijk onderzoek verricht, voor zover de aard van dit onderzoek of d
 
 c.uitsluitend werkzaamheden verricht als gezinshuisouder in het kader van:
 
-1°.jeugdzorg met verblijf als bedoeld in artikel 4 van het Uitvoeringsbesluit Wet op de jeugdzorg gedurende het etmaal, of
+1°. jeugdhulp als bedoeld in artikel 1.1 van de Jeugdwet die gepaard gaat met verblijf bij een pleegouder of in een accommodatie, voor zover daarin personen plegen te worden verzorgd uit andere hoofde dan wegens hun geestelijke of lichamelijke gesteldheid, gedurende het etmaal, of 
 
 2°.verpleging of verzorging;
 
@@ -101,7 +99,7 @@ d.uitsluitend of in hoofdzaak als acteur, artiest of musicus in zijn levensonder
 
 e.werkzaam is als medisch specialist, als huisarts, als verpleeghuisarts of als sociaal geneeskundige en als zodanig staat geregistreerd in één van de registers van de Koninklijke Nederlandsche Maatschappij tot bevordering der Geneeskunst, dan wel als tandheelkundig specialist en als zodanig staat ingeschreven in het specialistenregister van de Nederlandse Maatschappij tot bevordering der Tandheelkunde, of
 
-f.gedurende de daarvoor benodigde tijd werkzaam is als leider of begeleider van leerlingen onderscheidenlijk personen tijdens schoolkampen of -reizen onderscheidenlijk vakantiedagen of -kampen, welke in het kader van de onderwijsinstelling, een accommodatie waarin verblijf als bedoeld in artikel 4 van het Uitvoeringsbesluit Wet op de jeugdzorg wordt geboden, of een inrichting voor verpleging of verzorging worden georganiseerd en welke arbeid buiten die instelling, accommodatie, onderscheidenlijk inrichting wordt verricht.
+f.gedurende de daarvoor benodigde tijd werkzaam is als leider of begeleider van leerlingen onderscheidenlijk personen tijdens schoolkampen of -reizen onderscheidenlijk vakantiedagen of -kampen, welke in het kader van de onderwijsinstelling, een accommodatie als bedoeld in artikel 1.1 van de Jeugdwet, of een inrichting voor verpleging of verzorging worden georganiseerd en welke arbeid buiten die instelling, accommodatie, onderscheidenlijk inrichting wordt verricht.
 
 ####Dienst Koninklijk Huis
 
