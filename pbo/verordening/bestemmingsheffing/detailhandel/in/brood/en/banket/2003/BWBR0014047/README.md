@@ -3,7 +3,7 @@
 ##Verordening van het Hoofdbedrijfschap Detailhandel van 25 september 2002 houdende vaststelling bestemmingsheffing ten behoeve van de Commissie detailhandel in brood en banket voor het jaar 2003 (Verordening bestemmingsheffing detailhandel in brood en banket 2003)
 
 Het bestuur van het Hoofdbedrijfschap Detailhandel;
-Gelet op de [artikelen 95](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126, eerste lid van de Wet op de Bedrijfsorganisatie](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op artikel 12, derde lid, van de Instellingsverordening Hoofdbedrijfschap Detailhandel;
+Gelet op de artikelen 95 en 126, eerste lid van de Wet op de Bedrijfsorganisatie en op artikel 12, derde lid, van de Instellingsverordening Hoofdbedrijfschap Detailhandel;
 
 Gezien het advies van de Commissie detailhandel in brood en banket;
 Besluit:
@@ -26,7 +26,7 @@ c.een verkoopplaats: elke voor het publiek toegankelijke besloten ruimte waar wa
 
 d.detailhandel in brood- en banketproducten: het aan particulieren verkopen van:
 
-–brood, dit is de gebakken eetwaar als bedoeld in [artikel 1 sub d van het warenwetbesluit meel en brood](../../../../../../../../../../AMvB/warenwetbesluit/meel/en/brood/BWBR0009669/README.md);
+–brood, dit is de gebakken eetwaar als bedoeld in artikel 1 sub d van het warenwetbesluit meel en brood;
 
 –banket, dit is gebak met slagroom, banketbakkersroom of een dergelijke grondstof, dan wel met vers of gesteriliseerd fruit;
 
@@ -39,7 +39,7 @@ f.de voorzitter: de voorzitter van het Hoofdbedrijfschap Detailhandel.
 ###Artikel 2 
 Materieel uitgewerkt per 13-03-2004 
 
-In deze verordening zijn de begripsbepalingen van de [Heffingsverordening Hoofdbedrijfschap Detailhandel 2003](../../../../../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/detailhandel/2003/BWBR0014048/README.md) van overeenkomstige toepassing.
+In deze verordening zijn de begripsbepalingen van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2003 van overeenkomstige toepassing.
 
 ###Artikel 3 
 Materieel uitgewerkt per 13-03-2004 
@@ -78,7 +78,7 @@ b.de Nederlandse Vereniging voor de Bakkerij,en over het jaar 2002 contributie a
 
 a.krachtens haar statutaire doelstelling haar werkzaamheid kan uitstrekken tot ten minste een belangrijk gedeelte van het terrein waarop het bedrijfslichaam een taak heeft te vervullen,
 
-b.voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de [artikelen 3 tot en met 7 van de Verordening representativiteit organisaties](../../../../../../../../../../pbo/verordening/representativiteit/organisaties/BWBR0011641/README.md),
+b.voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de artikelen 3 tot en met 7 van de Verordening representativiteit organisaties,
 
 c.tot de werkingssfeer van het bedrijfslichaam behorende leden heeft, waarvan het gewogen aantal niet-onbetekend is,
 
@@ -99,7 +99,7 @@ Materieel uitgewerkt per 13-03-2004
 ###Artikel 6 
 Materieel uitgewerkt per 13-03-2004 
 
-De [artikelen 7 tot en met 18 van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2003](../../../../../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/detailhandel/2003/BWBR0014048/README.md) zijn van overeenkomstige toepassing.
+De artikelen 7 tot en met 18 van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2003 zijn van overeenkomstige toepassing.
 
 ###Artikel 7 
 Materieel uitgewerkt per 13-03-2004 

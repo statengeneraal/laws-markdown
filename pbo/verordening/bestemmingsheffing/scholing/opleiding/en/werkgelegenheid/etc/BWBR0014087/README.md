@@ -5,7 +5,7 @@
 Het bestuur van het Hoofdbedrijfschap Ambachten;
 Gehoord de Vereniging Dakbedekkingsbranche Nederland (VEBIDAK), FNV Bouw en de Hout- en Bouwbond CNV;
 
-Gelet op de [artikelen 126](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [95 van de Wet op de bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op de artikel 7, eerste lid, onderdeel b en c, en artikel 10 van de Instellingsverordening Hoofdbedrijfschap Ambachten;
+Gelet op de artikelen 126 en 95 van de Wet op de bedrijfsorganisatie en op de artikel 7, eerste lid, onderdeel b en c, en artikel 10 van de Instellingsverordening Hoofdbedrijfschap Ambachten;
 Besluit:
 ###§ 1 
 
@@ -122,7 +122,7 @@ De artikelen 9 en 10 van de Heffingsverordening Hoofdbedrijfschap Ambachten 2003
 
 1. Bij cumulatie van deze bestemmingsheffingen met een of meer andere aan het HBA te betalen bestemmingsheffing, vermindert de voorzitter de heffing tot nihil, indien de uitoefening van het bitumineuze dakdekkersbedrijf kan worden aangemerkt als een nevenactiviteit ten opzichte van die andere bedrijfsuitoefening of bedrijfsuitoefeningen waarvoor een bestemmingsheffing is opgelegd.
 2. De vermindering wordt alleen toegepast ten aanzien van de onderneming waarin één persoon alle bedrijven uitoefent waarvoor bestemmingsheffingen zijn opgelegd.
-3. Het eerste lid wordt niet toegepast bij cumulatie met de bestemmingsheffing opgelegd op grond van de [Heffingsverordening bitumineus dakdekkersbedrijf 2003](../../../../../../../../../pbo/heffingsverordening/bitumineus/dakdekkersbedrijf/2003/BWBR0014099/README.md).
+3. Het eerste lid wordt niet toegepast bij cumulatie met de bestemmingsheffing opgelegd op grond van de Heffingsverordening bitumineus dakdekkersbedrijf 2003.
 
 ###Artikel 11 
 

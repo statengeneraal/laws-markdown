@@ -3,7 +3,7 @@
 ##Verordening van het Hoofdbedrijfschap Ambachten van 1 oktober 2003, houdende regels terzake van de door het hoofdbedrijfschap aan de ondernemers die het dakdekkersbedrijf hellende daken uitoefenen op te leggen bestemmingsheffing voor het jaar 2004 (Heffingsverordening dakdekkersbedrijf hellende daken 2004) 
 
 Het bestuur van het Hoofdbedrijfschap Ambachten;
-Gelet op [artikel 95, tweede lid](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+Gelet op artikel 95, tweede lid en 126 van de Wet op de bedrijfsorganisatie;
 
 Gezien het advies van de Commissie dakdekkers hellende daken;
 Besluit:
@@ -24,7 +24,7 @@ b.de ondernemer: degene die een onderneming drijft, dan wel degenen die gezamenl
 
 c.het dakdekkersbedrijf hellende daken: het bedrijf van het aanbrengen, onderhouden of herstellen van lei- of pannendaken;
 
-d.werkzame personen: personen als bedoeld in [artikel 9, derde lid, van het Handelsregisterbesluit 1996](../../../../../../../AMvB/handelsregisterbesluit/1996/BWBR0008920/README.md) die betrokken zijn bij de uitoefening van het dakdekkers bedrijf hellende daken;
+d.werkzame personen: personen als bedoeld in artikel 9, derde lid, van het Handelsregisterbesluit 1996 die betrokken zijn bij de uitoefening van het dakdekkers bedrijf hellende daken;
 
 e.bestemmingsheffing: heffing die is gebaseerd op artikel 10, derde lid, van de Instellingsverordening Hoofdbedrijfschap Ambachten.
 
@@ -72,7 +72,7 @@ Materieel uitgewerkt per 26-02-2005
 
 a.krachtens haar statutaire doelstelling haar werkzaamheid kan uitstrekken tot ten minste een belangrijk gedeelte van het terrein waarop het bedrijfslichaam een taak heeft te vervullen,
 
-b.voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de [artikelen 3 tot en met 7 van de Verordening representativiteit organisaties](../../../../../../../pbo/verordening/representativiteit/organisaties/BWBR0011641/README.md),
+b.voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de artikelen 3 tot en met 7 van de Verordening representativiteit organisaties,
 
 c.tot de werkingssfeer van het bedrijfslichaam behorende leden heeft, waarvan het gewogen aantal niet-onbetekenend is,
 
@@ -113,7 +113,7 @@ Materieel uitgewerkt per 26-02-2005
 ###Artikel 8 
 Materieel uitgewerkt per 26-02-2005 
 
-De [artikelen 5 tot en met 14 van de heffingsverordening Hoofdbedrijfschap Ambachten 2004](../../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/ambachten/2004/BWBR0015665/README.md) zijn van overeenkomstige toepassing.
+De artikelen 5 tot en met 14 van de heffingsverordening Hoofdbedrijfschap Ambachten 2004 zijn van overeenkomstige toepassing.
 
 ###Artikel 9 
 Materieel uitgewerkt per 26-02-2005 

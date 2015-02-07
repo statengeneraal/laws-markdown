@@ -3,7 +3,7 @@
 ##Verordening van het Hoofdproductschap Akkerbouw van 13 november 2003 houdende regels ter zake van de aan de onder het Hoofdproductschap Akkerbouw ressorterende ondernemers op te leggen heffing voor het jaar 2004 (verordening HPA financieringsheffing sector aardappelen jaar 2004)
 
 Het bestuur van het Hoofdproductschap Akkerbouw;
-Gelet op de [artikelen 95](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 eerste lid van de Wet op de bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op de artikelen 5, 16 en 25 van de Instellingsverordening akkerbouwproductschappen 1997 dan wel het [Instellingsbesluit akkerbouwproductschappen](../../../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md) zodra dit in werking is getreden;
+Gelet op de artikelen 95 en 126 eerste lid van de Wet op de bedrijfsorganisatie en op de artikelen 5, 16 en 25 van de Instellingsverordening akkerbouwproductschappen 1997 dan wel het Instellingsbesluit akkerbouwproductschappen zodra dit in werking is getreden;
 
 Gehoord de Commissie Aardappelen;
 Besluit:
@@ -70,7 +70,7 @@ Materieel uitgewerkt per 01-01-2005
 Materieel uitgewerkt per 01-01-2005 
 
 1. De ondernemer die aardappelen teelt, is verplicht over het jaar 2004 aan het hoofdproductschap een heffing te betalen per hectare geteelde aardappelen van € 0,30 per hectare.
-2. De berekening van de in het eerste lid bedoelde heffing vindt plaats op basis van de door de Ondernemer aan het hoofdproductschap ingevolge de bij of krachtens de [Verordening HPA registratie en verstrekking van gegevens 2003](../../../../../../../../../pbo/verordening/hpa/registratie/en/verstrekking/van/gegevens/2003/BWBR0014846/README.md) verstrekte gegevens.
+2. De berekening van de in het eerste lid bedoelde heffing vindt plaats op basis van de door de Ondernemer aan het hoofdproductschap ingevolge de bij of krachtens de Verordening HPA registratie en verstrekking van gegevens 2003 verstrekte gegevens.
 
 ###Artikel 5 
 Materieel uitgewerkt per 01-01-2005 
@@ -147,7 +147,7 @@ De sectormanager kan, namens het bestuur, besluiten nota's met een bedrag minder
 ###Artikel 13 
 Materieel uitgewerkt per 01-01-2005 
 
-Aan de ondernemer die niet of niet geheel binnen de in artikel 9 gestelde termijn heeft betaald, kan door de sectormanager, namens het bestuur, de wettelijke interest over het niet- betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md).
+Aan de ondernemer die niet of niet geheel binnen de in artikel 9 gestelde termijn heeft betaald, kan door de sectormanager, namens het bestuur, de wettelijke interest over het niet- betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie.
 
 ###§ 5 
 
@@ -168,7 +168,7 @@ b.niet onder vermelding of aanduiding van de persoon en/of onderneming, waarop z
 ###Artikel 15 
 Materieel uitgewerkt per 01-01-2005 
 
-Deze verordening treedt in werking met ingang van 1 januari 2004.Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 31 december 2003, treedt zij in werking de tweede dag na publicatie in het Verordeningenblad Bedrijfsorganisatie en werkt zij terug tot en met 1 januari 2004, met uitzondering van het in [artikel 12 van de Verordening Hpa registratie en verstrekking van gegevens 2003](../../../../../../../../../pbo/verordening/hpa/registratie/en/verstrekking/van/gegevens/2003/BWBR0014846/README.md) bepaalde.
+Deze verordening treedt in werking met ingang van 1 januari 2004.Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 31 december 2003, treedt zij in werking de tweede dag na publicatie in het Verordeningenblad Bedrijfsorganisatie en werkt zij terug tot en met 1 januari 2004, met uitzondering van het in artikel 12 van de Verordening Hpa registratie en verstrekking van gegevens 2003 bepaalde.
 
 ###Artikel 16 
 Materieel uitgewerkt per 01-01-2005 

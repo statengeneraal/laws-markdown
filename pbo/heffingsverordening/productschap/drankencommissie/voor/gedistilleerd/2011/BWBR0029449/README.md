@@ -5,13 +5,13 @@
 Het bestuur van het Productschap Dranken.  
 gelet op:
 
-[artikel 93](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de Bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) (hierna: Wbo) en
+artikel 93, 95 en 126 van de Wet op de Bedrijfsorganisatie (hierna: Wbo) en
 
-[artikel 12](../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md) en [artikel 14 van de Instellingsbesluit Productschap Dranken](../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md);
+artikel 12 en artikel 14 van de Instellingsbesluit Productschap Dranken;
 
 gezien:
 
-het advies van de Commissie ex [artikel 5 lid 1 onder c van het Instellingsbesluit Productschap Dranken](../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md):
+het advies van de Commissie ex artikel 5 lid 1 onder c van het Instellingsbesluit Productschap Dranken:
 besluit de navolgende verordening vast te stellen:   
 ###§ 1 
 
@@ -52,7 +52,7 @@ hetzij door vermenging van ethylalcohol uit landbouwproducten met water;
 
 7.import: het rechtstreeks voor eigen rekening uit een EU lidstaat of derde land betrokken ethylalcohol, distillaat, gedistilleerde en/of zwak gedistilleerde dranken in het economisch verkeer in Nederland (doen) brengen, inklaren en/of verhandelen;
 
-8.ondernemer: een natuurlijke of rechtspersoon, die een onderneming drijft als bedoeld in [artikel 3 lid 2 sub c van het Instellingsbesluit](../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md);
+8.ondernemer: een natuurlijke of rechtspersoon, die een onderneming drijft als bedoeld in artikel 3 lid 2 sub c van het Instellingsbesluit;
 
 9.productschap: het Productschap Dranken;
 
@@ -60,7 +60,7 @@ hetzij door vermenging van ethylalcohol uit landbouwproducten met water;
 
 11.secretaris: de door het Bestuur aangestelde secretaris van de Commissie;
 
-12.commissie: een orgaan als bedoeld in [artikel 88a van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), hier: de Commissie voor Gedistilleerd ex [artikel 5 lid 1 c van het Instellingsbesluit Productschap Dranken](../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md). 
+12.commissie: een orgaan als bedoeld in artikel 88a van de Wet op de bedrijfsorganisatie, hier: de Commissie voor Gedistilleerd ex artikel 5 lid 1 c van het Instellingsbesluit Productschap Dranken. 
 
 ###§ 2 
 
@@ -101,7 +101,7 @@ c.voor degenen die een onderneming drijven waarin gedistilleerde en/of zwak gedi
 
 d.voor degenen die zijn ingeschreven als groothandelaar in gedistilleerde dranken: € 25;
 
-e.voor degenen die een onderneming drijven waarin de detailhandel in gedistilleerde dranken als bedoeld in [artikel 3 lid 2 onder d van het Instellingsbesluit](../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md) wordt uitgeoefend: € 3,40 voor iedere afzonderlijke vestiging als detailhandel;
+e.voor degenen die een onderneming drijven waarin de detailhandel in gedistilleerde dranken als bedoeld in artikel 3 lid 2 onder d van het Instellingsbesluit wordt uitgeoefend: € 3,40 voor iedere afzonderlijke vestiging als detailhandel;
 
 f.voor degenen die een onderneming drijven waar voor rekening van een ander gebotteld wordt: € 25. 
 3. De Jaarbijdrage als bedoeld onder *d*. is niet verschuldigd door degenen die de groothandel in gedistilleerd uitoefenen, indien en voorzover door de Commissie voor frisdranken en waters aan de Commissie voor gedistilleerd jaarlijks een door het Bestuur in overleg met de Commissies vast te stellen bedrag wordt voldaan, hetwelk geacht wordt de gezamenlijke Jaarbijdrage van de bedoelde ondernemingen te vervangen. 
@@ -156,7 +156,7 @@ bniet onder vermelding of aanduiding van de persoon en/of onderneming, waarop zi
 
 cin door het bestuur aan te wijzen gevallen, waarin dit naar zijn oordeel in het belang is van de bedrijfsgenoten bekend worden gemaakt aan de Staat, andere publiekrechtelijk organen of naar het oordeel van het bestuur daarmede gelijk te stellen publiekrechtelijke instellingen indien de verstrekking van deze gegevens voortvloeit uit het doel van de registratie en de persoonlijke levenssfeer van de geregistreerden door de verstrekking van deze gegevens niet onevenredig wordt geschaad. 
 2. Bekendmaking van gegevens als bedoeld in het eerste lid blijft ook achterwege in gevallen, waarin uit de aard der gegevens of uit een of meer andere omstandigheden zou kunnen blijken op welke persoon en/of onderneming de gegevens betrekking hebben. 
-3. De secretaris en de overige leden van het personeel van het secretariaat zijn met het oog op de [Wet bescherming persoonsgegevens](../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) verplicht tot geheimhouding van de gegevens tegenover een ieder met uitzondering van de accountants en de leden van vorenbedoeld accountantskantoor en behoudens de eerdergenoemde toestemming van de betrokken belanghebbende.
+3. De secretaris en de overige leden van het personeel van het secretariaat zijn met het oog op de Wet bescherming persoonsgegevens verplicht tot geheimhouding van de gegevens tegenover een ieder met uitzondering van de accountants en de leden van vorenbedoeld accountantskantoor en behoudens de eerdergenoemde toestemming van de betrokken belanghebbende.
 
 ###§ 3 
 

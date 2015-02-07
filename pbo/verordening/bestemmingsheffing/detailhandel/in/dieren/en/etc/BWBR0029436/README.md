@@ -3,7 +3,7 @@
 ##Verordening van het Hoofdbedrijfschap Detailhandel van 27 oktober 2010, houdende de vaststelling van de bestemmingsheffing detailhandel in dieren en dierenbenodigdheden voor het jaar 2011 (Verordening bestemmingsheffing detailhandel in dieren en dierenbenodigdheden 2011)
 
 Het bestuur van het Hoofdbedrijfschap Detailhandel;  
-Gelet op de [artikelen 95, tweede lid](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+Gelet op de artikelen 95, tweede lid, en 126 van de Wet op de bedrijfsorganisatie;
 
 Gezien het advies van de Adviescommissie dieren en dierenbenodigdheden;
 Besluit:    
@@ -18,7 +18,7 @@ Materieel uitgewerkt per 16-12-2011
 
 In deze verordening wordt verstaan onder: 
 
-a.een onderneming: een onderneming waarvoor het hoofdbedrijfschap is ingesteld als bedoeld in [artikel 3 van het Instellingsbesluit Hoofdbedrijfschap Detailhandel](../../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/detailhandel/BWBR0017190/README.md);
+a.een onderneming: een onderneming waarvoor het hoofdbedrijfschap is ingesteld als bedoeld in artikel 3 van het Instellingsbesluit Hoofdbedrijfschap Detailhandel;
 
 b.de ondernemer: degene die een onderneming drijft dan wel degenen die gezamenlijk een onderneming drijven;
 
@@ -36,7 +36,7 @@ e.ambulante handel: markthandel, straathandel en handel te water;
 
 f.verkoopplaats: iedere plaats waar de detailhandel anders dan in de uitoefening van de ambulante handel wordt uitgeoefend, alsmede elke voor het publiek toegankelijke besloten ruimte waar waren aan particulieren te koop worden aangeboden;
 
-g.bestemmingsheffing: de heffing die is gebaseerd op [artikel twaalf, tweede lid, van het Instellingsbesluit Hoofdbedrijfschap Detailhandel](../../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/detailhandel/BWBR0017190/README.md);
+g.bestemmingsheffing: de heffing die is gebaseerd op artikel twaalf, tweede lid, van het Instellingsbesluit Hoofdbedrijfschap Detailhandel;
 
 h.de voorzitter: de voorzitter van het Hoofdbedrijfschap Detailhandel.
 
@@ -78,7 +78,7 @@ Materieel uitgewerkt per 16-12-2011
 ###Artikel 4 
 Materieel uitgewerkt per 16-12-2011 
 
-De [artikelen 6 tot en met 17 van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2011](../../../../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/detailhandel/2011/BWBR0029063/README.md) zijn van overeenkomstige toepassing.
+De artikelen 6 tot en met 17 van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2011 zijn van overeenkomstige toepassing.
 
 ###Artikel 5 
 Materieel uitgewerkt per 16-12-2011 

@@ -3,7 +3,7 @@
 ##Verordening van het Hoofdbedrijfschap Detailhandel van 25 september 2002, houdende vaststelling bestemmingsheffing ten behoeve van de Commissie voor de detailhandel in wild en gevogelte voor het jaar 2003 (Verordening bestemmingsheffing detailhandel in wild en gevogelte 2003)
 
 Het bestuur van het Hoofdbedrijfschap Detailhandel;
-Gelet op de [artikelen 95](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126, eerste lid van de Wet op de Bedrijfsorganisatie](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op artikel 12, derde lid, van de Instellingsverordening Hoofdbedrijfschap Detailhandel;
+Gelet op de artikelen 95 en 126, eerste lid van de Wet op de Bedrijfsorganisatie en op artikel 12, derde lid, van de Instellingsverordening Hoofdbedrijfschap Detailhandel;
 
 Gezien het advies van de Commissie voor de detailhandel in wild en gevogelte;
 Besluit:
@@ -27,7 +27,7 @@ c.de voorzitter: de voorzitter van het Hoofdbedrijfschap Detailhandel.
 ###Artikel 2 
 Materieel uitgewerkt per 13-03-2004 
 
-In deze verordening zijn de begripsbepalingen van de [Heffingsverordening Hoofdbedrijfschap Detailhandel 2003](../../../../../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/detailhandel/2003/BWBR0014048/README.md) van overeenkomstige toepassing.
+In deze verordening zijn de begripsbepalingen van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2003 van overeenkomstige toepassing.
 
 ###Artikel 3 
 Materieel uitgewerkt per 13-03-2004 
@@ -56,7 +56,7 @@ Materieel uitgewerkt per 13-03-2004
 ###Artikel 5 
 Materieel uitgewerkt per 13-03-2004 
 
-De [artikelen 7 tot en met 18 van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2003](../../../../../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/detailhandel/2003/BWBR0014048/README.md) zijn van overeenkomstige toepassing.
+De artikelen 7 tot en met 18 van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2003 zijn van overeenkomstige toepassing.
 
 ###Artikel 6 
 Materieel uitgewerkt per 13-03-2004 
