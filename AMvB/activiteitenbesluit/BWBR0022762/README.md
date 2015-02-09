@@ -936,7 +936,7 @@ Deze afdeling is van toepassing op degene die een inrichting type A of een inric
 
 ### Artikel  2.17  
 
-1.  Voor het langtijdgemiddelde beoordelingsniveau (L<sub>Ar,LT</sub>) en het maximaal geluidsniveau L<sub>Amax</sub>, veroorzaakt door de in de inrichting aanwezige installaties en toestellen, alsmede door de in de inrichting verrichte werkzaamheden en activiteiten en laad- en losactiviteiten ten behoeve van en in de onmiddellijke nabijheid van de inrichting, geldt dat:  
+1.  Voor het langtijdgemiddelde beoordelingsniveau (L<sub>Ar,LT</sub>) en het maximaal geluidsniveau L<sub>Amax</sub>, veroorzaakt door de in de inrichting aanwezige installaties en toestellen, alsmede door de in de inrichting verrichte werkzaamheden en activiteiten en laad- en losactiviteiten ten behoeve van en in de onmiddellijke nabijheid van de inrichting, geldt dat: 
 
 a. de niveaus op de in tabel 2.17a genoemde plaatsen en tijdstippen niet meer bedragen dan de in die tabel aangegeven waarden;  Tabel 2.17a 
 

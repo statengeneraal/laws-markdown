@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Tuinbouw van 13 november 2012, houdende instelling van een Plantgezondheidsfonds (Verordening PT Plantgezondheidsfonds 2012).
 
 Het bestuur van het Productschap Tuinbouw; 
-Gelet op [artikel 93 van de Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en de [artikelen 12](../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md) en [13 van het Instellingsbesluit Productschap Tuinbouw](../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md);
+Gelet op artikel 93 van de Wet op de bedrijfsorganisatie en de artikelen 12 en 13 van het Instellingsbesluit Productschap Tuinbouw;
 
 Gehoord de Commissie bollen, knollen en wortelstokken van bloemgewassen d.d. 25 oktober 2012;
 
@@ -53,7 +53,7 @@ Het fonds kan door het bestuur bij verordening worden opgeheven, in welk geval h
 
 ###Artikel  5 
 
-De [Verordening PT Plantgezondheidsfonds](../../../../../../pbo/verordening/pt/plantgezondheidsfonds/BWBR0029864/README.md) wordt ingetrokken.
+De Verordening PT Plantgezondheidsfonds wordt ingetrokken.
 
 ###Artikel  6 
 

@@ -22,47 +22,47 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. WWB: Wet werk en bijstand;  
+a. IOAW: Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers;  
 
-b. IOAW: Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers;  
+b. IOAZ: Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen;  
 
-c. IOAZ: Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen;  
+c. Wet REA: Wet op de (re)integratie arbeidsgehandicapten; 
 
-d. Wet REA: Wet op de (re)integratie arbeidsgehandicapten; 
+d. WW: Werkloosheidswet;  
 
-e. WW: Werkloosheidswet;  
+e. Wet SUWI: Wet structuur uitvoeringsorganisatie werk en inkomen;  
 
-f. Wet SUWI: Wet structuur uitvoeringsorganisatie werk en inkomen;  
+f. UWV: het Uitvoeringsinstituut werknemersverzekeringen, genoemd in hoofdstuk 5 van de Wet SUWI;  
 
-g. UWV: het Uitvoeringsinstituut werknemersverzekeringen, genoemd in hoofdstuk 5 van de Wet SUWI;  
+g. SVB: de Sociale verzekeringsbank, genoemd in hoofdstuk 6 van de Wet SUWI;  
 
-h. SVB: de Sociale verzekeringsbank, genoemd in hoofdstuk 6 van de Wet SUWI;  
+h. arbeidsgehandicapte: arbeidsgehandicapte als bedoeld in artikel 2 van de Wet REA;  
 
-i. arbeidsgehandicapte: arbeidsgehandicapte als bedoeld in artikel 2 van de Wet REA;  
+i. arbodienst: een arbodienst als bedoeld in de Arbeidsomstandighedenwet;  
 
-j. arbodienst: een arbodienst als bedoeld in de Arbeidsomstandighedenwet;  
+j.deskundige persoon: een persoon als bedoeld in artikel 14, eerste lid, van de Arbeidsomstandighedenwet die belast is met de taken, bedoeld in artikel 14, eerste lid, onderdeel b, van die wet;
 
-k.deskundige persoon: een persoon als bedoeld in artikel 14, eerste lid, van de Arbeidsomstandighedenwet die belast is met de taken, bedoeld in artikel 14, eerste lid, onderdeel b, van die wet;
+k.Wfsv: Wet financiering sociale verzekeringen;
 
-l.Wfsv: Wet financiering sociale verzekeringen;
+l.Wet WIA: Wet werk en inkomen naar arbeidsvermogen;
 
-m.Wet WIA: Wet werk en inkomen naar arbeidsvermogen;
+m.WAO: Wet op de arbeidsongeschiktheidsverzekering;
 
-n.WAO: Wet op de arbeidsongeschiktheidsverzekering;
+n. ZW: Ziektewet;
 
-o. ZW: Ziektewet;
+o.ZVW: Zorgverzekeringswet;
 
-p.ZVW: Zorgverzekeringswet;
+p.  Zorginstituut: het Zorginstituut Nederland, genoemd in artikel 58, eerste lid, van de ZVW; 
 
-q.  Zorginstituut: het Zorginstituut Nederland, genoemd in artikel 58, eerste lid, van de ZVW; 
+q.zorgautoriteit: de Nederlandse Zorgautoriteit, bedoeld in de Wet marktordening gezondheidszorg;
 
-r.zorgautoriteit: de Nederlandse Zorgautoriteit, bedoeld in de Wet marktordening gezondheidszorg;
+r.eigenrisicodrager: de werkgever aan wie op grond van artikel 40 van de Wfsv toestemming is verleend het risico te dragen van de betalingen, bedoeld in artikel 40, eerste lid, van de Wfsv;
 
-s.eigenrisicodrager: de werkgever aan wie op grond van artikel 40 van de Wfsv toestemming is verleend het risico te dragen van de betalingen, bedoeld in artikel 40, eerste lid, van de Wfsv;
+s.gebruikers: het UWV, de SVB en de colleges van burgemeester en wethouders;
 
-t.gebruikers: het UWV, de SVB en de colleges van burgemeester en wethouders;
+t.elektronische voorzieningen: elektronische voorzieningen als bedoeld in artikel 62, tweede lid, van de Wet SUWI;
 
-u.elektronische voorzieningen: elektronische voorzieningen als bedoeld in artikel 62, tweede lid, van de Wet SUWI;
+u.door verlettering vervallen;
 
 v. bestand: elk gestructureerd geheel van persoons- of bedrijfsgegevens, ongeacht of dit geheel van gegevens gecentraliseerd is of verspreid is op een functioneel of geografische bepaalde wijze, dat volgens de bepaalde criteria toegankelijk is en betrekking heeft op verschillende natuurlijke- of rechtspersonen;  
 
@@ -132,26 +132,30 @@ f. ketenprestaties, bij het UWV en colleges van burgemeester en wethouders.
 
 ### Artikel  2.3  
 
-####Dienstverlening in en inrichting van locaties werk en inkomen
+####Samenwerking met werknemers- en werkgeversverenigingen
 
-Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2012/283. 
-1.  Geïntegreerde dienstverlening als bedoeld in artikel 10, eerste lid, van de Wet SUWI houdt in dat het UWV en de colleges van burgemeester en wethouders in de locaties werk en inkomen gezamenlijk: 
+1.  De bestuursorganen en organisaties, genoemd in artikel 10a van de Wet SUWI, maken afspraken over de wijze van betrokkenheid van die organisaties bij de samenwerking van de bestuursorganen, bedoeld in de artikelen 9 en 10 van de Wet SUWI.   
+2.  De afspraken, bedoeld in het eerste lid, zien in ieder geval op: 
 
-a. diensten verlenen op een gemeenschappelijke en herkenbare locatie, die zich naar derden presenteert onder de naam werkplein;  
+a. de samenwerkingsvorm en inrichting van het samenwerkingsverband, waarbij ten minste aandacht wordt besteed aan de inrichting van het bestuur, de regeling van het voorzitterschap, en de taken en verantwoordelijkheden van alle betrokkenen;  
 
-b. een structuur creëren waarin de medewerkers op de locatie werk en inkomen gebruik maken van elkaars expertise en instrumenten;  
+b. de wijze waarop de betrokken colleges van burgemeester en wethouders het voorzitterschap van het bestuur verzorgen;  
 
-c. gebruik maken van arbeidsmarktinformatie en arbeidsmarktanalyse;  
+c. de wijze waarop de regionale uitvoering van de gemaakte afspraken wordt geregeld en de wijze waarop wordt aangesloten bij de bestaande regionale samenwerking;  
 
-d. diensten op maat verlenen aan werkzoekenden op het gebied van werk, die voor zover de arbeidsinschakeling daarmee bevorderd wordt, bestaan uit diagnosestelling, re-integratie en bemiddeling, waarbij de werkzoekende een vaste adviseur heeft die de dienstverlening regisseert;  
+d. de wijze waarop wordt omgegaan met de afzonderlijke van toepassing zijnde verordeningen die door de afzonderlijke gemeenteraden zijn vastgesteld op grond van de artikelen 6, tweede lid, 8a en 47 van de Participatiewet;  
 
-e. afspraken maken over de wijze waarop in de dienstverlening op het gebied van werk wordt aangesloten op de dienstverlening op het gebied van inkomen en, voor zover geen sprake is van gegevensverwerking als bedoeld in artikel 62, tweede lid, van de Wet SUWI, over de wijze waarop de informatieverstrekking over deze dienstverlening via de locatie werk en inkomen en het aanspreekpunt, genoemd in onderdeel d, plaatsvindt;  
+e. de wijze waarop inzicht wordt geboden in de registratie van werkzoekenden met behulp van de elektronische voorzieningen, bedoeld in artikel 10, eerste lid, van de Wet SUWI;  
 
-f. zorg dragen voor eenmalige uitvraag van gegevens die door het UWV en de colleges van burgemeester en wethouders verwerkt worden voor de uitvoering van alle taken op het gebied van werk en inkomen, bedoeld in artikel 9 van de Wet SUWI; en  
+f. de wijze waarop namens de colleges van burgemeester en wethouders taken op grond van artikel 7 van de Participatiewet worden uitgevoerd in het samenwerkingsverband in relatie tot de uitvoering van de andere taken op grond van artikel 7 van de Participatiewet, waarbij ten minste aandacht wordt besteed aan de verantwoording aan de afzonderlijke gemeenteraden;  
 
-g. op maat en vraaggericht diensten verlenen aan werkgevers met betrekking tot vacaturevervulling, waarbij de werkgever een vaste adviseur heeft die de dienstverlening regisseert.     
-2.  Het UWV en de colleges van burgemeester en wethouders werken bij hun taken ter bevordering van re-integratie en participatie van werkzoekenden in de locaties werk en inkomen in ieder geval samen met uitzendbureaus, re-integratiebedrijven, organisaties die betrokken zijn bij de uitvoering van de Wet sociale werkvoorziening, onderwijsinstellingen en zorginstellingen.   
-3.  Het UWV en de colleges van burgemeester en wethouders dragen gezamenlijk zorg voor vormgeving van de cliëntenparticipatie via de locaties werk en inkomen.  
+g. de wijze waarop de werkgeversdienstverlening wordt ingericht; in relatie tot de bestaande structuur op grond van de Wet SUWI, waaronder tenminste wordt verstaan de werkgeversdienstverlening in het werkgeversservicepunt;  
+
+h. de wijze waarop de financiële betrokkenheid van werkgevers wordt geregeld; en  
+
+i. eisen waaraan een methode ter vaststelling van de loonwaarde als bedoeld in artikel 2, tweede lid, van het Besluit loonkostensubsidie Participatiewet voldoet.     
+3.  Het samenwerkingsverband stelt een marktbewerkingsplan op, waarin een beschrijving wordt gegeven van de kenmerken van de personen die behoren tot de doelgroep van arbeidsbeperkten als bedoeld in artikel 38b van de Wet financiering sociale verzekeringen, in de regio, de mogelijkheden van die personen, waarin een analyse is opgenomen van de sectoren en bedrijven waar vacatures voor deze personen bestaan of kunnen worden gecreëerd en waarin de afspraken zijn opgenomen over de wijze van aanlevering en bemiddeling van die personen.   
+4.  Het samenwerkingsverband draagt iedere twee jaar, te beginnen in 2016, zorg voor een evaluatie van de samenwerking.  
 
 ### Artikel  2.4  
 
@@ -240,7 +244,7 @@ f. de gegevens die het re-integratiebedrijf in verband met deze werkzaamheden ve
 
 g. indien dit re-integratiebedrijf deze werkzaamheden laat verrichten door een ander re-integratiebedrijf in een schriftelijke overeenkomst met dat andere re-integratiebedrijf te regelen dat voor dat bedrijf, die persoon of dienst de verplichtingen jegens het UWV, bedoeld in de onderdelen a tot en met f, gelden.     
 2.  Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent het eerste lid.  
-3.  Indien het college van burgemeester en wethouders werkzaamheden, die in het kader van de voorzieningen, bedoeld in de artikelen 7, eerste lid, onderdeel a, en zevende lid, van de WWB, 34, eerste lid, onderdeel a, van de IOAW en artikel 34, eerste lid, onderdeel a, van de IOAZ, worden uitgevoerd, laat uitvoeren door een re-integratiebedrijf is het eerste lid van overeenkomstige toepassing, waarbij in de overeenkomst tevens is geregeld, dat het college op verzoek of uit eigen beweging in kennis worden gesteld van het gegronde vermoeden dat een persoon voor wie de voorzieningen zijn bestemd, onvoldoende medewerking verleent aan deze werkzaamheden, voorzover dit noodzakelijk is voor de uitvoering van genoemde wetten. 
+3.  Indien het college van burgemeester en wethouders werkzaamheden, die in het kader van de voorzieningen, bedoeld in de artikelen 7, eerste lid, onderdeel a, en zevende lid, van de Participatiewet, 34, eerste lid, onderdeel a, van de IOAW en artikel 34, eerste lid, onderdeel a, van de IOAZ, worden uitgevoerd, laat uitvoeren door een re-integratiebedrijf is het eerste lid van overeenkomstige toepassing, waarbij in de overeenkomst tevens is geregeld, dat het college op verzoek of uit eigen beweging in kennis worden gesteld van het gegronde vermoeden dat een persoon voor wie de voorzieningen zijn bestemd, onvoldoende medewerking verleent aan deze werkzaamheden, voorzover dit noodzakelijk is voor de uitvoering van genoemde wetten. 
 
 ### §  4.1a  
 
@@ -514,7 +518,7 @@ j.*loongerelateerde gegevens*: lonen, aantal SV-dagen, aantal verloonde uren, in
 
 ####Gegevens eenmalige uitvraag
 
-1. In bijlage II bij dit besluit wordt vermeld welke soort gegevens op grond van de artikelen 33a, tweede lid, en 35, vijfde lid, van de Wet SUWI, 14, eerste lid, van de IOAW, 14, eerste lid, van de IOAZ en 53a, eerste lid, van de WWB niet van de belanghebbende worden verkregen en uit welke bron deze gegevens afkomstig zijn. 
+1. In bijlage II bij dit besluit wordt vermeld welke soort gegevens op grond van de artikelen 33a, tweede lid, en 35, vijfde lid, van de Wet SUWI, 14, eerste lid, van de IOAW, 14, eerste lid, van de IOAZ en 53a, eerste lid, van de Participatiewet niet van de belanghebbende worden verkregen en uit welke bron deze gegevens afkomstig zijn. 
 2. Het UWV informeert de belanghebbende over de soort gegevens, bedoeld in het eerste lid, op het moment dat hij een aanvraag als bedoeld in artikel 30c, eerste lid, van de Wet SUWI dan wel een aanvraag voor een uitkering als bedoeld in artikel 30, eerste lid, van de Wet SUWI indient. 
 3. Bij ministeriële regeling kan worden bepaald, dat tot een in die regeling genoemd tijdstip bepaalde onderdelen van bijlage II voor bepaalde bestuursorganen met betrekking tot bepaalde taken niet van toepassing zijn. 
 4. Bij regeling van Onze Minister, voor zover het gegevens betreft die afkomstig zijn van de Belastingdienst in overeenstemming met Onze Minister van Financiën, wordt nader bepaald voor welke gegevens het eerste lid van toepassing is.
@@ -554,7 +558,7 @@ Het UWV, de SVB en de colleges van burgemeester en wethouders zijn bevoegd uit e
 
 ####Gegevensverstrekking aan burgemeester en wethouders voor controle
 
-De Dienst Wegverkeer, bedoeld in artikel 4a van de Wegenverkeerswet 1994, is verplicht op verzoek aan colleges van burgemeester en wethouders opgaven en inlichtingen te verstrekken die noodzakelijk zijn voor de uitvoering van de WWB.
+De Dienst Wegverkeer, bedoeld in artikel 4a van de Wegenverkeerswet 1994, is verplicht op verzoek aan colleges van burgemeester en wethouders opgaven en inlichtingen te verstrekken die noodzakelijk zijn voor de uitvoering van de Participatiewet.
 
 ### § 5.3 
 
@@ -574,7 +578,7 @@ Het UWV en de SVB zijn bevoegd uit eigen beweging en verplicht op verzoek uit de
 
 a.aan de Belastingdienst de gegevens die noodzakelijk zijn voor de heffing of invordering van enige rijksbelasting, van premies sociale verzekeringen als bedoeld in artikel 2, onderdelen a en c, van de Wfsv en van de inkomensafhankelijke bijdrage, bedoeld in de ZVW;
 
-b.aan het Zorginstituut, de zorgautoriteit, zorgverzekeraars als bedoeld in artikel 1, eerste lid, onderdeel b, van de Algemene Wet Bijzondere Ziektekosten, het CAK, genoemd in artikel 48, eerste lid, van de Algemene Wet Bijzondere Ziektekostenverzekering en de verbindingskantoren, bedoeld in artikel 1, onderdeel c, van het Administratiebesluit Bijzondere Ziektekostenverzekering de gegevens voorzover die noodzakelijk zijn voor de uitvoering van de ZVW en de Algemene Wet Bijzondere Ziektekosten;
+b. aan de zorgverzekeraars, bedoeld in de Zorgverzekeringswet, en het Zorginstituut, de zorgautoriteit, Wlz-uitvoerders en het het CAK, bedoeld in de Wet langdurige zorg de gegevens voor zover die noodzakelijk zijn voor de uitvoering van de Zorgverzekeringswet en de Wet langdurige zorg; 
 
 c. aan Onze Minister van Onderwijs, Cultuur en Wetenschap dan wel, voor zover het betreft het onderwijs of onderzoek op het gebied van de landbouw en de natuurlijke omgeving, Onze Minister van Landbouw, Natuur en Voedselkwaliteit de gegevens die noodzakelijk zijn voor de uitvoering van bij of krachtens een onderwijswet aan hen opgedragen taken, alsmede aan Onze Minister voor Wonen, Wijken en Integratie de gegevens die noodzakelijk zijn voor de uitvoering van de Wet inburgering; 
 
@@ -606,7 +610,7 @@ c. aan Onze Minister van Onderwijs, Cultuur en Wetenschap de gegevens die noodza
 
 d. aan de Sociaal Economische Raad de gegevens die noodzakelijk zijn voor de uitvoering van bij of krachtens enige wet aan die Raad opgedragen taken;  
 
-e. aan een indicatieorgaan als bedoeld in artikel 9a, eerste lid, van de Algemene Wet Bijzondere Ziektekosten de gegevens die noodzakelijk zijn in verband met taken die voortvloeien uit de Wet sociale werkvoorziening en de Algemene Wet Bijzondere Ziektekosten;  
+e. vervallen;  
 
 f. aan colleges van burgemeester en wethouders de gegevens die noodzakelijk zijn ten behoeve van de registratie van gegevens, bedoeld in artikel 118h van de Wet op het voortgezet onderwijs, artikel 8.3.2 van de Wet educatie en beroepsonderwijs en artikel 162b van de Wet op de expertisecentra in verband met de doorverwijzing van voortijdige schoolverlaters naar onderwijs of arbeidsmarkt;  
 
@@ -624,7 +628,7 @@ i. aan een college van burgemeester en wethouders, adresgegevens, waaronder adre
 
 ####Gegevensverwerking burgemeester en wethouders met betrekking tot voortijdige schoolverlaters
 
-Het college van burgemeester en wethouders is bevoegd gegevens die worden verwerkt voor de uitvoering van taken die krachtens de WWB aan het college van burgemeester en wethouders zijn opgedragen, verder te verwerken ten behoeve van de registratie van gegevens, bedoeld in artikel 118h van de Wet op het voortgezet onderwijs, artikel 8.3.2 van de Wet educatie en beroepsonderwijs en artikel 162b van de Wet op de expertisecentra, voor zover dat noodzakelijk is voor de doorverwijzing van voortijdige schoolverlaters naar onderwijs of arbeidsmarkt. 
+Het college van burgemeester en wethouders is bevoegd gegevens die worden verwerkt voor de uitvoering van taken die krachtens de Participatiewet aan het college van burgemeester en wethouders zijn opgedragen, verder te verwerken ten behoeve van de registratie van gegevens, bedoeld in artikel 118h van de Wet op het voortgezet onderwijs, artikel 8.3.2 van de Wet educatie en beroepsonderwijs en artikel 162b van de Wet op de expertisecentra, voor zover dat noodzakelijk is voor de doorverwijzing van voortijdige schoolverlaters naar onderwijs of arbeidsmarkt. 
 
 ### Artikel 5.11 
 
@@ -696,7 +700,7 @@ b. per werknemer naar kalenderjaar: loonaangiftetijdvak, geslacht, leeftijd, sec
 
 ####Gegevensverstrekking door eigenrisicodragers aan gemeenten
 
-Eigenrisicodragers, die het risico dragen van de betaling van uitkeringen aan personen, ten aanzien van wie op grond van artikel 7, eerste lid, onderdeel a, van de WWB een verantwoordelijkheid bestaat, verstrekken op verzoek aan colleges van burgemeester en wethouders opgaven en inlichtingen die noodzakelijk zijn voor de uitvoering van artikel 7, eerste lid, onderdeel a, van de WWB ten aanzien van die personen.
+Eigenrisicodragers, die het risico dragen van de betaling van uitkeringen aan personen, ten aanzien van wie op grond van artikel 7, eerste lid, onderdeel a, van de Participatiewet een verantwoordelijkheid bestaat, verstrekken op verzoek aan colleges van burgemeester en wethouders opgaven en inlichtingen die noodzakelijk zijn voor de uitvoering van artikel 7, eerste lid, onderdeel a, van de Participatiewet ten aanzien van die personen.
 
 ### Artikel 5.1.7 
 
@@ -952,7 +956,7 @@ c. indien een of meer risicomeldingen niet tot vervolgacties hebben geleid: de r
 
 ####Wijziging wettelijke grondslag
 
-Dit besluit berust mede op artikelen 7, zesde lid, en 67, derde lid, van de Wet werk en bijstand, artikel 34, vijfde lid, van de IOAW en artikel 34, vijfde lid, van de IOAZ. 
+Dit besluit berust mede op artikelen 7, zesde lid, en 67, vierde en vijfde lid, van de Participatiewet, artikel 34, vijfde lid, van de IOAW en artikel 34, vijfde lid, van de IOAZ. 
 
 ### Artikel  6.2  
 
@@ -1162,13 +1166,13 @@ Gegevens over inschrijving. Gegevens over werkervaring. Gegevens over beschikbaa
 
 ####SVB
 
-Gegevens over de kinderbijslag. Gegevens over de uitkeringen Algemene nabestaandenwet (ANW). Gegevens over de uitkeringen Algemene ouderdomswet (AOW). Gegevens over algemene bijstand in de vorm van een aanvullende inkomensvoorziening ouderen op grond van paragraaf 5.4 van de WWB. 
+Gegevens over de kinderbijslag. Gegevens over de uitkeringen Algemene nabestaandenwet (ANW). Gegevens over de uitkeringen Algemene ouderdomswet (AOW). Gegevens over algemene bijstand in de vorm van een aanvullende inkomensvoorziening ouderen op grond van paragraaf 5.4 van de Participatiewet. 
 
 ####Gemeenten
 
 | --- | --- |
 |:---|:---|
-| WWB:  | Gegevens over data uitkering.  |
+| Participatiewet:  | Gegevens over data uitkering.  |
 | --- | Gegevens over maatregel.  |
 | --- | Gegevens over huisvesting.  |
 | --- | Gegevens over leefvorm.  |
