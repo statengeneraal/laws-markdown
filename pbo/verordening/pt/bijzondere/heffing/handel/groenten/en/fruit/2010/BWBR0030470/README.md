@@ -3,9 +3,9 @@
 ##Besluit van het bestuur van het Productschap Tuinbouw van 11 november 2009, houdende de vaststelling van een bijzondere heffing handel groenten en fruit handel 2010 (Verordening PT bijzondere heffing handel groenten en fruit 2010)
 
 Het bestuur van het Productschap Tuinbouw;  
-gelet op de [artikelen 93](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+gelet op de artikelen 93 en 126 van de Wet op de bedrijfsorganisatie;
 
-gelet op de [artikelen 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw](../../../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md);
+gelet op de artikelen 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw;
 
 gehoord de Commissie voor groenten en fruit, d.d. 20 oktober 2009;
 Besluit:    
@@ -30,7 +30,7 @@ Materieel uitgewerkt per 11-09-2011
 |afzetorganisatie/bemiddelaar |: | natuurlijke of rechtspersoon die, voor zover niet voor eigen rekening en risico, in opdracht van of ten behoeve van telers de door hen geteelde groenten en fruit verkoopt; |
 |bewerken |: | handelingen waardoor van groenten en fruit gebruiksklare artikelen worden gemaakt, zoals schonen, schillen, schrappen, snijden, mengen, wassen en centrifugeren; |
 |derde land |: | een land dat geen lid is van de Europese Unie; |
-|groenten en fruit |: | producten als bedoeld in [artikel 3, vierde lid, onder a en b, van het Instellingsbesluit Productschap Tuinbouw](../../../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md); |
+|groenten en fruit |: | producten als bedoeld in artikel 3, vierde lid, onder a en b, van het Instellingsbesluit Productschap Tuinbouw; |
 |handelen |: | aankopen van vers of bewerkt fruit (met uitzondering van slaggrondnoten en kopra) en groenten (met uitzondering van zaden van groenten) en het verkopen daarvan aan anderen dan consumenten voor hun persoonlijke behoeften; |
 |ondernemer |: | natuurlijke of rechtspersoon die een onderneming drijft waarin de handel wordt uitgeoefend in verse of bewerkte groenten en fruit; |
 |uien |: | alle soorten uien met uitzondering van zilveruien, die behoren tot de groenten. |
@@ -48,7 +48,7 @@ Materieel uitgewerkt per 11-09-2011
 
 1. De ondernemer die een onderneming drijft, met als activiteit het verhandelen of bewerken van groenten en fruit, is verplicht jaarlijks aan het productschap een heffing te betalen. Uit de opbrengst van deze heffing worden projecten ten behoeve van de handel in groenten en fruit gefinancierd. 
 2. In afwijking van het eerste lid, is deze verordening niet van toepassing op ondernemers die een onderneming drijven waarin de handel in noten wordt uitgeoefend.
-3. De berekening van de heffing vindt plaats op basis van de door de ondernemer aan het productschap ingevolge de bij of krachtens de [Verordening PT algemene bepalingen 2009](../../../../../../../../../../../pbo/verordening/pt/algemene/bepalingen/2009/BWBR0027562/README.md), verstrekte gegevens.
+3. De berekening van de heffing vindt plaats op basis van de door de ondernemer aan het productschap ingevolge de bij of krachtens de Verordening PT algemene bepalingen 2009, verstrekte gegevens.
 
 ###§ 3 
 

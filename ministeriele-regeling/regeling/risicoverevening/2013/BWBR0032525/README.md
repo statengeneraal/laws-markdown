@@ -35,7 +35,7 @@ h.  *eerstelijnsdiagnostiek:* een overig zorgproduct dat betrekking heeft op dia
 i.  *landelijke vaste kosten factor:* een factor waarmee het Zorginstituut op basis van historische kosten ziekenhuisverpleging per zorgverzekeraar de ex ante deelbedragen berekent voor de kosten van het cluster ‘vaste zorgkosten’ in 2013;  
 
 j.  *geriatrische revalidatiezorg:* zorg zoals omschreven in artikel 2.5 c van het Besluit zorgverzekering.     
-2.  Het bedrag, bedoeld in artikel 1, onderdeel x, van het Besluit zorgverzekering, is € 550, en het bedrag, bedoeld in artikel 1, onderdeel y, van het Besluit zorgverzekering is € 2 750.  
+2.  Het bedrag, bedoeld in artikel 1, onderdeel x, van het Besluit zorgverzekering, is € 400, en het bedrag, bedoeld in artikel 1, onderdeel y, van het Besluit zorgverzekering is € 2 750.  
 
 ### Artikel  2  
 Materieel uitgewerkt per 21-12-2014 

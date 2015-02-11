@@ -3,7 +3,7 @@
 ##Besluit van het bestuur van het Productschap Tuinbouw van 3 juli 2003 houdende vaststelling van de aanvullende financieringsheffing ten behoeve van de vruchtenwijnhandel in Nederland voor het jaar 2003 (Verordening PT aanvullende financieringsheffing vruchtenwijn 2003)
 
 HET BESTUUR VAN HET PRODUCTSCHAP TUINBOUW,
-gelet op de [artikelen 95](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126, van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+gelet op de artikelen 95 en 126, van de Wet op de bedrijfsorganisatie;
 
 gelet op de artikelen 14, 15 en 19, van de Instellingsverordening Productschap Tuinbouw 1998;
 
@@ -24,7 +24,7 @@ BESLUIT:
 |b. |bestuur |: | het bestuur van het productschap; |
 |c. |voorzitter |: |de voorzitter van het productschap; |
 |d. |vruchtenwijn |: | een gegiste drank die is bereid uit het sap van ander fruit dan druiven, met een alcoholgehalte van ten minste 1,2 volumeprocenten bij 20°C; |
-|e. |ondernemer |: |de natuurlijke of rechtspersoon die een onderneming drijft waarvoor het productschap is ingesteld en die vruchtenwijn invoert dan wel uitslaat in de zin van de [Wet op de accijns](../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md). |
+|e. |ondernemer |: |de natuurlijke of rechtspersoon die een onderneming drijft waarvoor het productschap is ingesteld en die vruchtenwijn invoert dan wel uitslaat in de zin van de Wet op de accijns. |
 
 ###§ 2 
 
@@ -32,11 +32,11 @@ BESLUIT:
 
 ###Artikel 2 
 
-De ondernemer is voor het jaar 2003 verplicht voor vruchtenwijn aan het productschap een heffing te betalen ten bedrage van € 0,53 per hectoliter ter zake van de invoer dan wel de uitslag in de zin van de [Wet op de accijns](../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md).
+De ondernemer is voor het jaar 2003 verplicht voor vruchtenwijn aan het productschap een heffing te betalen ten bedrage van € 0,53 per hectoliter ter zake van de invoer dan wel de uitslag in de zin van de Wet op de accijns.
 
 ###Artikel 3 
 
-1. In de gevallen waarin op basis van de [Wet op de accijns](../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) teruggaaf wordt verleend van op vruchtenwijn geheven accijns, wordt op verzoek van de ondernemer teruggaaf van de heffing verleend die ter zake is geheven.
+1. In de gevallen waarin op basis van de Wet op de accijns teruggaaf wordt verleend van op vruchtenwijn geheven accijns, wordt op verzoek van de ondernemer teruggaaf van de heffing verleend die ter zake is geheven.
 2. De ondernemer dient door middel van een teruggaafbeschikking van de douane voor de accijns zijn recht op teruggaaf van de heffing aan te tonen.
 
 ###Artikel 4 
@@ -46,9 +46,9 @@ De heffing als bedoeld in artikel 2 is bestemd voor de aanvulling van de reserve
 ###Artikel 5 
 
 1. Indien de ondernemer de gegevens die hem krachtens de Verordening PT algemene bepalingen, ten behoeve van de onderhavige verordening zijn gevraagd, niet, niet tijdig of niet volledig verstrekt, wordt de heffing berekend over de dan door de voorzitter te ramen omvang van de grondslag die op de ondernemer ingevolge deze verordening van toepassing is, in welk geval de heffing met € 40,= wordt verhoogd in verband met administratiekosten.
-2. Gelijktijdig met het verstrekken van de gegevens als bedoeld in het eerste lid, verstrekt de ondernemer een afschrift van zijn aangifte op grond van de [Wet op de accijns](../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) over 2003.
+2. Gelijktijdig met het verstrekken van de gegevens als bedoeld in het eerste lid, verstrekt de ondernemer een afschrift van zijn aangifte op grond van de Wet op de accijns over 2003.
 3. Overeenkomstig het bepaalde in artikel 3 van de Verordening PT algemene bepalingen 1997, worden de gegevens, behoudens toestemming van betrokkene, niet aan derden verstrekt.
-4. Indien de ondernemer niet in staat is gebleken een afschrift van de aangifte op grond van de [Wet op de accijns](../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) te verstrekken, kan de voorzitter de ondernemer verplichten een door een accountant afgegeven verklaring te overleggen met betrekking tot de hoeveelheid in de handel gebrachte vruchtenwijn in 2003.
+4. Indien de ondernemer niet in staat is gebleken een afschrift van de aangifte op grond van de Wet op de accijns te verstrekken, kan de voorzitter de ondernemer verplichten een door een accountant afgegeven verklaring te overleggen met betrekking tot de hoeveelheid in de handel gebrachte vruchtenwijn in 2003.
 
 ###Artikel 6 
 
@@ -80,7 +80,7 @@ c.de ondernemer zich metterwoon in het buitenland heeft gevestigd of van het voo
 
 ###Artikel 9 
 
-Aan de ondernemer, die niet of niet geheel binnen de in artikel 8 bedoelde termijn heeft betaald, kunnen de daaruit voortvloeiende extra kosten van € 22,50 in rekening worden gebracht, alsmede de wettelijke interest over het niet betaalde bedrag, te berekenen vanaf de dag waarop de betaling diende te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md).
+Aan de ondernemer, die niet of niet geheel binnen de in artikel 8 bedoelde termijn heeft betaald, kunnen de daaruit voortvloeiende extra kosten van € 22,50 in rekening worden gebracht, alsmede de wettelijke interest over het niet betaalde bedrag, te berekenen vanaf de dag waarop de betaling diende te zijn verricht ingevolge de aanmaning bedoeld in artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie.
 
 ###Artikel 10 
 

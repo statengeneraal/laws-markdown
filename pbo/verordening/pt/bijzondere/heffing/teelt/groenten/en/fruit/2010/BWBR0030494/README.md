@@ -3,9 +3,9 @@
 ##Besluit van het bestuur van het Productschap Tuinbouw van 11 november 2009, houdende de vaststelling van een bijzondere heffing groenten en fruit teelt 2010 (Verordening PT bijzondere heffing teelt groenten en fruit 2010)
 
 Het bestuur van het Productschap Tuinbouw, 
-gelet op de [artikelen 93](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+gelet op de artikelen 93 en 126 van de Wet op de bedrijfsorganisatie;
 
-gelet op de [artikelen 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw](../../../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md);
+gelet op de artikelen 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw;
 
 gehoord de Commissie voor groenten en fruit, d.d. 20 oktober 2009.
 Besluit:   
@@ -28,10 +28,10 @@ Materieel uitgewerkt per 11-09-2011
 | secretaris  |: | secretaris van het productschap;  |
 | braakland  |: | de gronden die in enig oogstjaar tot en met april van het daarop volgend oogstjaar niet worden beteeld;  |
 | contractteelt  |: | de teelt van gewassen en producten ingevolge een overeenkomst waarbij het teeltrisico ligt bij de teler;  |
-| cultuurgrond  |: | beteelde grond, braakland, beschikbare oppervlakte van bakken voor de trek van witlof of van elk ander groeimedium met behulp waarvan de in artikel 3  genoemde groenten en fruit kunnen worden geteeld, of in het tijdvak bedoeld in de [Regeling Landbouwtelling](../../../../../../../../../../../ministeriele-regeling/regeling/landbouwtelling/en/gecombineerde/opgave/2011/BWBR0029777/README.md) nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet;  |
-| cultuurgrond  |: | beteelde grond, braakland, grond die gemoeid is met het gebruik van een groeimedium met behulp waarvan de in artikel 3  genoemde groenten en fruit kunnen worden geteeld, of de ten tijde van het tijdvak als genoemd in de [Regeling Landbouwtelling](../../../../../../../../../../../ministeriele-regeling/regeling/landbouwtelling/en/gecombineerde/opgave/2011/BWBR0029777/README.md) nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet;  |
+| cultuurgrond  |: | beteelde grond, braakland, beschikbare oppervlakte van bakken voor de trek van witlof of van elk ander groeimedium met behulp waarvan de in artikel 3  genoemde groenten en fruit kunnen worden geteeld, of in het tijdvak bedoeld in de Regeling Landbouwtelling nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet;  |
+| cultuurgrond  |: | beteelde grond, braakland, grond die gemoeid is met het gebruik van een groeimedium met behulp waarvan de in artikel 3  genoemde groenten en fruit kunnen worden geteeld, of de ten tijde van het tijdvak als genoemd in de Regeling Landbouwtelling nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet;  |
 | gemeten maat  |: | de oppervlakte van cultuurgrond, inclusief paden en voren die voor de teelt noodzakelijk zijn;  |
-| groenten en fruit  |: | vermeld in [artikel 3, lid 4, sub a en b van het Instellingsbesluit Productschap Tuinbouw](../../../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md);  |
+| groenten en fruit  |: | vermeld in artikel 3, lid 4, sub a en b van het Instellingsbesluit Productschap Tuinbouw;  |
 | ondernemer  |: | elk afzonderlijk natuurlijk- of rechtspersoon die een onderneming drijft waarin de teelt van groenten en fruit wordt uitgeoefend;   |
 | telen  |: | het telen van groenten en fruit, uitgangsmateriaal daaronder begrepen;  |
 | uitgangsmateriaal  |: | opkweekmateriaal voor groentenplanten zowel onder glas als vollegrond, alsmede groentezaden m.u.v. aardbeiplanten;  |
@@ -50,7 +50,7 @@ Materieel uitgewerkt per 11-09-2011
 Materieel uitgewerkt per 11-09-2011 
 
 1.  De ondernemer die een onderneming drijft waarin groenten en fruit worden geteeld, is verplicht aan het productschap jaarlijks een heffing te betalen. Uit de opbrengst van deze heffing worden projecten ten behoeve van de teelt van groenten en fruit gefinancierd. 
-2.  De berekening van de heffing vindt plaats op basis van de door de ondernemer aan Dienst Regelingen van het ministerie van Landbouw Natuurbeheer en Voedselkwaliteit verstrekte gegevens, of op basis van de bij of krachtens de [Verordening PT algemene bepalingen 2007](../../../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0022763/README.md) aan het productschap verstrekte gegevens.
+2.  De berekening van de heffing vindt plaats op basis van de door de ondernemer aan Dienst Regelingen van het ministerie van Landbouw Natuurbeheer en Voedselkwaliteit verstrekte gegevens, of op basis van de bij of krachtens de Verordening PT algemene bepalingen 2007 aan het productschap verstrekte gegevens.
 
 ###§  3  
 

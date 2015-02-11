@@ -3,7 +3,7 @@
 ##Verordening van het Hoofdbedrijfschap voor de Agrarische Groothandel van 10 maart 2011, houdende regels ter zake van aan de groothandelaar, de commissionair, de tussenpersoon de handelskweker of de exporteur van bloemkwekerijproducten op te leggen heffing voor het jaar 2011 (Verordening HBAG heffing bloemen en planten 2011)
 
 Het bestuur van het Hoofdbedrijfschap voor de Agrarische Groothandel;  
-Gelet op [artikel 93](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [artikel 126 van de Wet op de bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op [artikel 13 van het Instellingsbesluit Hoofdbedrijfschap Agrarische Groothandel](../../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md);
+Gelet op artikel 93 en artikel 126 van de Wet op de bedrijfsorganisatie en op artikel 13 van het Instellingsbesluit Hoofdbedrijfschap Agrarische Groothandel;
 
 Gelet op het advies van de HBAG Commissie Bloemkwekerijproducten van 23 februari 2011
 Besluit:    
@@ -16,7 +16,7 @@ Materieel uitgewerkt per 24-03-2012
 ###Artikel 1 
 Materieel uitgewerkt per 24-03-2012 
 
-In deze verordening wordt overgenomen de terminologie van het [Instellingsbesluit Hoofdbedrijfschap Agrarische Groothandel](../../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md) en wordt verstaan onder: 
+In deze verordening wordt overgenomen de terminologie van het Instellingsbesluit Hoofdbedrijfschap Agrarische Groothandel en wordt verstaan onder: 
 
 | --- | --- | --- |
 |:---|:---|:---|

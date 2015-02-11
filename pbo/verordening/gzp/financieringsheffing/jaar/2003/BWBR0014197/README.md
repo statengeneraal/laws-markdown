@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Granen, Zaden en Peulvruchten van 7 november 2002, houdende regels ter zake van de aan de onder het Productschap Granen, Zaden en Peulvruchten ressorterende ondernemers op te leggen heffing voor het jaar 2003 (Verordening GZP financieringsheffing jaar 2003)
 
 Het bestuur van het Productschap Granen, Zaden en Peulvruchten;
-Gelet op de [artikelen 95](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 eerste lid van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en de artikelen 5, 6 en 7 van de Instellingsverordening akkerbouwproductschappen 1997;
+Gelet op de artikelen 95 en 126 eerste lid van de Wet op de bedrijfsorganisatie en de artikelen 5, 6 en 7 van de Instellingsverordening akkerbouwproductschappen 1997;
 Besluit:
 ###§ 1 
 
@@ -127,7 +127,7 @@ Het productschap kan besluiten nota's met een bedrag minder dan € 50,- samen t
 ###Artikel 12 
 Materieel uitgewerkt per 01-01-2004 
 
-Aan de ondernemer die niet of niet geheel binnen de in artikel 10 gestelde termijn heeft betaald, kan door het productschap de wettelijke interest over het niet betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk diende te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md).
+Aan de ondernemer die niet of niet geheel binnen de in artikel 10 gestelde termijn heeft betaald, kan door het productschap de wettelijke interest over het niet betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk diende te zijn verricht ingevolge de aanmaning bedoeld in artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie.
 
 ###§ 5 
 

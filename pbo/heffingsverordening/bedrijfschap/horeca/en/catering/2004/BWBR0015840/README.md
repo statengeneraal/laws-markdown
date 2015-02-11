@@ -3,7 +3,7 @@
 ##Verordening van het bedrijfschap voor het Hotel-, het Restaurant-, het Café- en het Pension- en Kamerverhuurbedrijf en Aanverwante bedrijven, houdende regels ter zake van de aan de onder het bedrijfschap voor het Hotel-, het Restaurant-, het Café- en het Pension- en Kamerverhuurbedrijf en Aanverwante bedrijven ressorterende ondernemers op te leggen heffing voor het jaar 2004 (Heffingsverordening Bedrijfschap Horeca en Catering 2004)
 
 Het bestuur van het bedrijfschap voor het Hotel-, het Restaurant-, het Café- en het Pension- en Kamerverhuurbedrijf en Aanverwante bedrijven;
-Gelet op de [artikelen 93](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op [artikel 2](../../../../../../../../AMvB/instellingsbesluit/bedrijfschap/hotel-/restaurant-/café-/en/pension-/en/etc/BWBR0002165/README.md), [artikel 4 , eerste lid en onder j](../../../../../../../../AMvB/instellingsbesluit/bedrijfschap/hotel-/restaurant-/café-/en/pension-/en/etc/BWBR0002165/README.md), en [artikel 6, eerste, tweede en derde lid van het Instellingsbesluit Bedrijfschap Hotel-, Restaurant-, Café- en Pension- en Kamerverhuurbedrijf en Aanverwante Bedrijven](../../../../../../../../AMvB/instellingsbesluit/bedrijfschap/hotel-/restaurant-/café-/en/pension-/en/etc/BWBR0002165/README.md);
+Gelet op de artikelen 93, 95 en 126 van de Wet op de bedrijfsorganisatie en op artikel 2, artikel 4 , eerste lid en onder j, en artikel 6, eerste, tweede en derde lid van het Instellingsbesluit Bedrijfschap Hotel-, Restaurant-, Café- en Pension- en Kamerverhuurbedrijf en Aanverwante Bedrijven;
 Besluit vast te stellen de navolgende verordening:
 ###§ 1 
 
@@ -20,9 +20,9 @@ In deze verordening wordt verstaan onder:
 |:---|:---|:---|
 | onderneming |: |een onderneming waarvoor het bedrijfschap is ingesteld; |
 | heffingsplichtige |: | een natuurlijk of rechtspersoon of een niet rechtspersoonlijkheid bezittende vennootschap, die een of meer ondernemingen drijft of heeft gedreven gedurende enige periode in een kalenderjaar; |
-| basisheffing |: |de heffing, bedoeld in [artikel 6, tweede lid, van het Instellingsbesluit Bedrijfschap Hotel-, Restaurant-, Café- en Pension- en Kamerverhuurbedrijf en Aanverwante bedrijven](../../../../../../../../AMvB/instellingsbesluit/bedrijfschap/hotel-/restaurant-/café-/en/pension-/en/etc/BWBR0002165/README.md); |
-| loonsomheffing |: |de op de loonsom gebaseerde heffing, bedoeld in [artikel 6, derde lid, van het Instellingsbesluit Bedrijfschap Hotel-, Restaurant-, Café- en Pension- en Kamerverhuurbedrijf en Aanverwante bedrijven](../../../../../../../../AMvB/instellingsbesluit/bedrijfschap/hotel-/restaurant-/café-/en/pension-/en/etc/BWBR0002165/README.md); |
-| loonsom |: |het voor de premieheffing ingevolge de [Werkloosheidswet](../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) als toon der werknemers in alle door de heffingsplichtige gedreven ondernemingen aan te merken bedrag; |
+| basisheffing |: |de heffing, bedoeld in artikel 6, tweede lid, van het Instellingsbesluit Bedrijfschap Hotel-, Restaurant-, Café- en Pension- en Kamerverhuurbedrijf en Aanverwante bedrijven; |
+| loonsomheffing |: |de op de loonsom gebaseerde heffing, bedoeld in artikel 6, derde lid, van het Instellingsbesluit Bedrijfschap Hotel-, Restaurant-, Café- en Pension- en Kamerverhuurbedrijf en Aanverwante bedrijven; |
+| loonsom |: |het voor de premieheffing ingevolge de Werkloosheidswet als toon der werknemers in alle door de heffingsplichtige gedreven ondernemingen aan te merken bedrag; |
 | heffing |: |het totaal van de basisheffing en de loonsomheffing; |
 | voorlopige heffing |: |het totaal van de basisheffing en de voorlopig - op basis van een schatting van de loonsom - vastgestelde loonsomheffing. |
 
@@ -72,7 +72,7 @@ een andere ondernemersorganisatie die een vereniging met volledige rechtsbevoegd
 
 a.krachtens haar statutaire doelstelling haar werkzaamheid kan uitstrekken tot ten minste een belangrijk gedeelte van het terrein waarop het bedrijfschap een taak heeft te vervullen,
 
-b.voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de [Verordening representativiteit organisaties](../../../../../../../../pbo/verordening/representativiteit/organisaties/BWBR0011641/README.md) van de Sociaal Economische Raad,
+b.voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de Verordening representativiteit organisaties van de Sociaal Economische Raad,
 
 c.tot de werkingssfeer van het bedrijfschap behorende leden heeft, waarvan het gewogen aantal niet-onbetekenend is,
 
@@ -136,7 +136,7 @@ a.kunnen administratieve kosten in rekening worden gebracht, welke minimaal 10 %
 
 b.kan rente worden gevorderd over het verschuldigde bedrag van de dag af dat het verschuldigde bedrag betaald had moeten zijn;
 
-c.kan vergoeding worden gevorderd van alle invorderingskosten.De rente wordt berekend naar het percentage bedoeld in [artikel 6:119](../../../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) jo [6:120 Burgerlijk Wetboek](../../../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md), dat geldt op de datum waarop de rente wordt gevorderd. De invorderingskosten worden gesteld op 15% van het verschuldigde bedrag met een minimum van € 68,07.
+c.kan vergoeding worden gevorderd van alle invorderingskosten.De rente wordt berekend naar het percentage bedoeld in artikel 6:119 jo 6:120 Burgerlijk Wetboek, dat geldt op de datum waarop de rente wordt gevorderd. De invorderingskosten worden gesteld op 15% van het verschuldigde bedrag met een minimum van € 68,07.
 
 ###§ 5 
 

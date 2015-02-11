@@ -3,21 +3,21 @@
 ##Verordening Van het Productschap Vee en Vlees van 27 oktober 2010, houdende de vaststelling van een bestemmingsheffing ten behoeve van de runder- en kalversector voor het jaar 2011 (Verordening bestemmingsheffingen runderen en kalveren (PVV) 2011)
 
 Het bestuur van het Productschap Vee en Vlees;  
-Gelet op de [artikelen 95](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 de Wet op de bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en de [artikelen 10](../../../../../../../../../AMvB/instellingsbesluit/productschap/vee/en/vlees/BWBR0016491/README.md) en [12 van het Instellingsbesluit Productschap Vee en Vlees](../../../../../../../../../AMvB/instellingsbesluit/productschap/vee/en/vlees/BWBR0016491/README.md);
+Gelet op de artikelen 95 en 126 de Wet op de bedrijfsorganisatie en de artikelen 10 en 12 van het Instellingsbesluit Productschap Vee en Vlees;
 
-Gezien de [Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(pvv)/2005/BWBR0017340/README.md);
+Gezien de Verordening algemene bepalingen heffingen (PVV) 2005;
 Besluit:    
 
 ###Artikel 1 
 Materieel uitgewerkt per 01-01-2012 
 
-Deze verordening neemt over de begripsbepalingen van de [Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(pvv)/2005/BWBR0017340/README.md) en verstaat voorts onder: 
+Deze verordening neemt over de begripsbepalingen van de Verordening algemene bepalingen heffingen (PVV) 2005 en verstaat voorts onder: 
 
 | --- | --- | --- |
 |:---|:---|:---|
-|a. |fonds afzetbevordering |: fonds als bedoeld in [artikel 1 van de Verordening fonds afzetbevordering (PVV) 2005](../../../../../../../../../pbo/verordening/fonds/afzetbevordering/(pvv)/2005/BWBR0017339/README.md); |
-|b. |fonds gezondheidszorg |: fonds als bedoeld in [artikel 1 van de Verordening fonds gezondheidszorg (PVV) 2005](../../../../../../../../../pbo/verordening/fonds/gezondheidszorg/(pvv)/2005/BWBR0017338/README.md); |
-|c. |fonds kwaliteitsverbetering |: fonds als bedoeld in [artikel 1 van de Verordening fonds kwaliteitsverbetering (PVV) 2005](../../../../../../../../../pbo/verordening/fonds/voor/kwaliteitsverbetering/(pvv)/2005/BWBR0017337/README.md); |
+|a. |fonds afzetbevordering |: fonds als bedoeld in artikel 1 van de Verordening fonds afzetbevordering (PVV) 2005; |
+|b. |fonds gezondheidszorg |: fonds als bedoeld in artikel 1 van de Verordening fonds gezondheidszorg (PVV) 2005; |
+|c. |fonds kwaliteitsverbetering |: fonds als bedoeld in artikel 1 van de Verordening fonds kwaliteitsverbetering (PVV) 2005; |
 |d. |kalf V |: kalf dat niet ouder is dan acht maanden; |
 |e. |kalf Z |: kalf dat ouder is dan acht maanden. |
 
@@ -61,7 +61,7 @@ b.de periode tussen het tijdstip van invoer en het tijdstip van uitvoer korter i
 ###Artikel 5 
 Materieel uitgewerkt per 01-01-2012 
 
-Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de [Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(pvv)/2005/BWBR0017340/README.md). 
+Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de Verordening algemene bepalingen heffingen (PVV) 2005. 
 
 ###Artikel 6 
 Materieel uitgewerkt per 01-01-2012 

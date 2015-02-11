@@ -3,7 +3,7 @@
 ##Verordening van het Hoofdbedrijfschap Detailhandel van 28 oktober 2009, houdende de vaststelling van de bestemmingsheffing detailhandel in brood en banket voor het jaar 2010 (Verordening bestemmingsheffing detailhandel in brood en banket 2010)
 
 Het bestuur van het Hoofdbedrijfschap Detailhandel;  
-Gelet op de [artikelen 95, tweede lid](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+Gelet op de artikelen 95, tweede lid, en 126 van de Wet op de bedrijfsorganisatie;
 
 Gezien het advies van de Commissie detailhandel brood en banket;
 Besluit:    
@@ -18,13 +18,13 @@ Materieel uitgewerkt per 30-12-2011
 
 In deze verordening wordt verstaan onder:
 
-a.een onderneming: een onderneming waarvoor het hoofdbedrijfschap is ingesteld als bedoeld in [artikel 3 van het Instellingsbesluit Hoofdbedrijfschap Detailhandel](../../../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/detailhandel/BWBR0017190/README.md);
+a.een onderneming: een onderneming waarvoor het hoofdbedrijfschap is ingesteld als bedoeld in artikel 3 van het Instellingsbesluit Hoofdbedrijfschap Detailhandel;
 
 b.de ondernemer: degene die een onderneming drijft dan wel degenen die gezamenlijk een onderneming drijven;
 
 c.detailhandel: brood- en banketproducten: het aan particulieren verkopen van:
 
-brood, dit is de gebakken eetwaar als bedoeld in [artikel 1, sub d, van het Warenwetbesluit meel en brood](../../../../../../../../../../AMvB/warenwetbesluit/meel/en/brood/BWBR0009669/README.md);
+brood, dit is de gebakken eetwaar als bedoeld in artikel 1, sub d, van het Warenwetbesluit meel en brood;
 
 banket, dit is gebak met slagroom, banketbakkersroom of een dergelijke grondstof, dan wel met vers of gesteriliseerd fruit;
 
@@ -36,7 +36,7 @@ e.ambulante handel: markthandel, straathandel en handel te water;
 
 f.verkoopplaats: iedere plaats waar de detailhandel anders dan in de uitoefening van de ambulante handel wordt uitgeoefend, alsmede elke voor het publiek toegankelijke besloten ruimte waar waren aan particulieren te koop worden aangeboden;
 
-g.bestemmingsheffing: de heffing die is gebaseerd op [artikel twaalf, tweede lid, van het Instellingsbesluit Hoofdbedrijfschap Detailhandel](../../../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/detailhandel/BWBR0017190/README.md);
+g.bestemmingsheffing: de heffing die is gebaseerd op artikel twaalf, tweede lid, van het Instellingsbesluit Hoofdbedrijfschap Detailhandel;
 
 h.de voorzitter: de voorzitter van het Hoofdbedrijfschap Detailhandel. 
 
@@ -46,7 +46,7 @@ Materieel uitgewerkt per 30-12-2011
 1. Deze verordening is van toepassing op de ondernemers die een onderneming drijven waarin de detailhandel in brood- en banketproducten wordt uitgeoefend.
 2. Deze verordening is niet van toepassing op de ondernemers die een onderneming drijven waarin de detailhandel in brood en banketproducten uitsluitend in de vorm van ambulante handel wordt uitgeoefend.
 3. Deze verordening is niet van toepassing op de ondernemers die de detailhandel in brood en banketproducten uitoefenen in het kader van een franchiseformule en de franchisegever schriftelijk heeft verklaard dat de verkoopplaatsen van de franchisenemers kunnen worden aangemerkt als eigen verkoopplaatsen in de zin van deze verordening.
-4. Deze verordening is niet van toepassing op ondernemers die aan het Hoofdbedrijfschap Ambachten op grond van de [Heffingsverordening banketbakkersbedrijf 2010](../../../../../../../../../../pbo/verordening/bestemmingsheffing/banketbakkersbedrijf/2010/BWBR0027539/README.md) de bestemmingsheffing banket zijn verschuldigd.
+4. Deze verordening is niet van toepassing op ondernemers die aan het Hoofdbedrijfschap Ambachten op grond van de Heffingsverordening banketbakkersbedrijf 2010 de bestemmingsheffing banket zijn verschuldigd.
 
 ###§ 2 
 
@@ -77,7 +77,7 @@ b.de Nederlandse Vereniging voor de Bakkerij (NVB),en over het jaar 2009 aan een
 
 a.krachtens haar statutaire doelstelling haar werkzaamheid kan uitstrekken tot ten minste een belangrijk gedeelte van het terrein waarop het bedrijfslichaam een taak heeft te vervullen,
 
-b.voldoet aan de kwalitatieve representativiteitcriteria, genoemd in de [artikelen 3 tot en met 7 van de Verordening representativiteit organisaties](../../../../../../../../../../pbo/verordening/representativiteit/organisaties/BWBR0011641/README.md),
+b.voldoet aan de kwalitatieve representativiteitcriteria, genoemd in de artikelen 3 tot en met 7 van de Verordening representativiteit organisaties,
 
 c.tot de werkingssfeer van het bedrijfslichaam behorende leden heeft, waarvan het gewogen aantal niet onbetekenend is,
 
@@ -95,7 +95,7 @@ Materieel uitgewerkt per 30-12-2011
 ###Artikel 5 
 Materieel uitgewerkt per 30-12-2011 
 
-De [artikelen 6 tot en met 17 van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2010](../../../../../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/detailhandel/2010/BWBR0027183/README.md) zijn van overeenkomstige toepassing.
+De artikelen 6 tot en met 17 van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2010 zijn van overeenkomstige toepassing.
 
 ###Artikel 6 
 Materieel uitgewerkt per 30-12-2011 

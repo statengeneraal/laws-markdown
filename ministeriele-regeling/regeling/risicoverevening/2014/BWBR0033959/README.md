@@ -27,7 +27,7 @@ f.  *add-on:* een door de zorgautoriteit te omschrijven overig zorgproduct op he
 
 g.  *add-on voor groeihormonen:* een add-on betrekking hebbende op dure geneesmiddelen op het terrein van groeihormonen (ATC-codes H01AC01 en H01AC03);  
 
-h.  *add-on voor fertiliteitshormonen:* een add-on betrekking hebbende op dure geneesmiddelen op het terrein van fertiliteitshormonen (ATC-codes N02AA59 en N02BE51);  
+h.  *add-on voor fertiliteitshormonen:* een add-on betrekking hebbende op dure geneesmiddelen op het terrein van fertiliteitshormonen (ATC-codes G03GA02, G03GA04, G03GA05, GO3GA06, G03GA09 en H01CA01);  
 
 i.  *eerstelijnsdiagnostiek:* een overig zorgproduct dat betrekking heeft op door de eerste lijn gevraagde diagnostiek door een ziekenhuis, door een huisartsenlaboratorium, door een productiesamenwerkingsverband of door een zelfstandig behandelcentrum;  
 
@@ -39,7 +39,9 @@ l.  *geriatrische revalidatiezorg:* zorg zoals omschreven in artikel 2.5c van he
 
 m.  *hulpmiddelenkostengroepen (HKG’s):* een vereveningscriterium op grond waarvan verzekerden worden ingedeeld in kostenhomogene klassen chronische aandoeningen op basis van hulpmiddelengebruik in het verleden;  
 
-n.  *diagnosekostengroepen (DKG’s) psychische aandoeningen:* een vereveningscriterium op grond waarvan verzekerden worden ingedeeld in kostenhomogene klassen met verschillende chronische psychische aandoeningen die geïdentificeerd zijn op grond van diagnose behandeling combinaties.     
+n.  *diagnosekostengroepen (DKG’s) psychische aandoeningen:* een vereveningscriterium op grond waarvan verzekerden worden ingedeeld in kostenhomogene klassen met verschillende chronische psychische aandoeningen die geïdentificeerd zijn op grond van diagnose behandeling combinaties;  
+
+o.  *overig zorgproduct psychologie:* een overig zorgproduct dat betrekking heeft op eerstelijns psychologische zorg geleverd in een instelling.    
 2.  De kosten, bedoeld in artikel 1, onderdeel j, van het Besluit zorgverzekering zijn: 
 
 a. de kosten van geneeskundige geestelijke gezondheidszorg voor verzekerden jonger dan achttien jaar;  
@@ -177,7 +179,7 @@ c. uit de specificatie niet blijkt dat zij gelden als kosten als bedoeld onder a
 6.  Het percentage per instelling, bedoeld in het vijfde lid, is gelijk aan 100 minus het percentage, bedoeld in artikel 14, zesde lid.   
 7.  Het Zorginstituut merkt de kosten van geriatrische revalidatiezorg voor 100 procent aan als kosten van het cluster ‘vaste zorgkosten’.   
 8.  Het Zorginstituut merkt de kosten van de trombosediensten, de Stichting Kinderoncologie Nederland en van de Nederlandse Transplantatiestichting voor 25 procent aan als kosten van het cluster ‘vaste zorgkosten’.   
-9.  Het Zorginstituut merkt de kosten voor de Stichting Kwaliteitsgelden Medisch Specialisten en de ‘Projectgelden geneeskundige GGZ die voortvloeien uit het bestuurlijk akkoord Toekomst GGZ 2013–2014 en het onderhandelaarsresultaat Geestelijke gezondheidszorg 2014–2017’ voor 100 procent aan als kosten van het cluster ‘vaste zorgkosten.   
+9.  Het Zorginstituut merkt de kosten de Stichting Kwaliteitsgelden Patiënten Consumenten, voor de Stichting Kwaliteitsgelden Medisch Specialisten en de ‘Projectgelden geneeskundige GGZ die voortvloeien uit het bestuurlijk akkoord Toekomst GGZ 2013–2014 en het onderhandelaarsresultaat Geestelijke gezondheidszorg 2014–2017’ voor 100 procent aan als kosten de Stichting Kwaliteitsgelden Patiënten Consumenten, van het cluster ‘vaste zorgkosten.   
 10.  Het Zorginstituut calculeert 100 procent na op het verschil tussen de kosten van het cluster ‘vaste zorgkosten’, vastgesteld ingevolge het tweede tot en met negende lid enerzijds, en het herberekende deelbedrag ‘vaste zorgkosten’ na toepassing van het eerste lid, anderzijds.  
 
 ### Artikel  16  
@@ -195,7 +197,7 @@ d. ten slotte wordt het herberekende deelbedrag per zorgverzekeraar nogmaals her
 ### Artikel  17  
 
 1.  Het Zorginstituut merkt de kosten van eerstelijnsdiagnostiek voor 100 procent aan als kosten van het cluster ‘kosten van overige prestaties’.   
-2.  Het Zorginstituut merkt de kosten van paramedische behandeling en onderzoek voor 100 procent aan als kosten van het cluster ‘kosten van overige prestaties’.   
+2.  Het Zorginstituut merkt de kosten van paramedische behandeling en onderzoek, met uitzondering van overig zorgproduct psychologie, voor 100 procent aan als kosten van het cluster ‘kosten van overige prestaties’.   
 3.  Het Zorginstituut merkt de kosten van prestaties waarop de beleidsregels ‘Innovatie ten behoeve van nieuwe zorgprestaties’ of ‘Prestatiebekostiging multidisciplinaire zorgverlening chronische aandoeningen’ van de zorgautoriteit van toepassing zijn, voor 100 procent aan als kosten van het cluster ‘kosten van overige prestaties’.  
 
 ### Artikel  18  

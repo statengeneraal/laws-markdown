@@ -3,7 +3,7 @@
 ##Verordening van het Hoofdproductschap Akkerbouw van 14 november 2002 houdende vaststelling bestemmingsheffing ten behoeve van de Stichting Teeltbeschermingsmaatregelen Zetmeelaardappelen voor het jaar 2003 (heffingsverordening HPA teeltbescherming zetmeelaardappelen jaar 2003)
 
 Het bestuur van het Hoofdproductschap Akkerbouw;
-Gelet op de [artikelen 95](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126, eerste en vierde lid van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op de artikelen 5, 16 en 25 van de Instellingsverordening akkerbouwproductschappen 1997;
+Gelet op de artikelen 95 en 126, eerste en vierde lid van de Wet op de bedrijfsorganisatie en op de artikelen 5, 16 en 25 van de Instellingsverordening akkerbouwproductschappen 1997;
 
 Gehoord de Commissie Aardappelen;
 Besluit:
@@ -105,7 +105,7 @@ De sectormanager kan, namens het bestuur, besluiten nota’s met een bedrag van 
 ###Artikel 8 
 Materieel uitgewerkt per 27-03-2005 
 
-Aan de ondernemer die niet of niet geheel binnen de in artikel 5 gestelde termijn heeft betaald, kan door de sectormanager, namens het bestuur, de wettelijke interest over het niet betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md).
+Aan de ondernemer die niet of niet geheel binnen de in artikel 5 gestelde termijn heeft betaald, kan door de sectormanager, namens het bestuur, de wettelijke interest over het niet betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie.
 
 ###§ 5 
 

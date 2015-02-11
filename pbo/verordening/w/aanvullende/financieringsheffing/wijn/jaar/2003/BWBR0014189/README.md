@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Wijn van 6 november 2002, houdende regels ter zake van de aan de onder het Productschap Wijn ressorterende ondernemers op te leggen aanvullende heffing voor het jaar 2003 (Verordening W aanvullende financieringsheffing wijn jaar 2003)
 
 Het bestuur van het Productschap Wijn;
-Gelet op de [artikelen 95](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en [126, eerste lid, van de Wet op de bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en de artikelen 5, 12 en 13 van de Instellingsverordening akkerbouwproductschappen 1997;
+Gelet op de artikelen 95, en 126, eerste lid, van de Wet op de bedrijfsorganisatie en de artikelen 5, 12 en 13 van de Instellingsverordening akkerbouwproductschappen 1997;
 Besluit:
 ###§ 1 
 
@@ -20,7 +20,7 @@ Deze verordening verstaat onder:
 |:---|:---|:---|
 |productschap |: |Productschap Wijn; |
 |secretaris |: |secretaris van het productschap; |
-|ondernemer |: |de natuurlijke of rechtspersoon die een onderneming drijft waarvoor het productschap is ingesteld en die wijn invoert dan wel uitslaat in de zin van de [Wet op de accijns](../../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md); |
+|ondernemer |: |de natuurlijke of rechtspersoon die een onderneming drijft waarvoor het productschap is ingesteld en die wijn invoert dan wel uitslaat in de zin van de Wet op de accijns; |
 |wijn |: |stille wijn, mousserende wijn, parelwijn, likeurwijn en gearomatiseerde wijn van verse druiven, zoals aangeduid onder de GN-codes 2204 en 2205, ook indien hieraan naderhand de alcohol geheel of gedeeltelijk is onttrokken (GN-code 2202 90 10) alsmede alcoholhoudende drank, ex GN-code 2206, al dan niet mousserend, op basis van andere vruchten dan druiven met een effectief alcoholvolumegehalte van tenminste 8,5 % vol en ten hoogste 15% vol bij een temperatuur van 20 graden Celsius, waarbij het alcoholgehalte tenminste voor een deel is verkregen door vergisting. |
 
 ###§ 2 
@@ -32,12 +32,12 @@ Materieel uitgewerkt per 01-01-2004
 ###Artikel 2 
 Materieel uitgewerkt per 01-01-2004 
 
-De ondernemer is voor het jaar 2003 verplicht voor wijn een heffing te betalen ten bedrage van € 0,53 per hl. terzake van de invoer dan wel de uitslag in de zin van de [Wet op de accijns](../../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md).
+De ondernemer is voor het jaar 2003 verplicht voor wijn een heffing te betalen ten bedrage van € 0,53 per hl. terzake van de invoer dan wel de uitslag in de zin van de Wet op de accijns.
 
 ###Artikel 3 
 Materieel uitgewerkt per 01-01-2004 
 
-1. In de gevallen waarin op basis van de [Wet op de accijns](../../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) teruggaaf wordt verleend van op wijn geheven accijns, wordt op verzoek van de ondernemer teruggaaf van de heffing verleend die ter zake is geheven.
+1. In de gevallen waarin op basis van de Wet op de accijns teruggaaf wordt verleend van op wijn geheven accijns, wordt op verzoek van de ondernemer teruggaaf van de heffing verleend die ter zake is geheven.
 2. De ondernemer dient door middel van een teruggaafbeschikking van de douane voor de accijns zijn recht op teruggaaf van de heffing aan te tonen.
 
 ###Artikel 4 
@@ -56,8 +56,8 @@ Materieel uitgewerkt per 01-01-2004
 Materieel uitgewerkt per 01-01-2004 
 
 1. De heffing, bedoeld in artikel 2, wordt vastgesteld aan de hand van de gegevens van het opgavenformulier.
-2. De ondernemer verstrekt gelijktijdig met het opgavenformulier aan het productschap een afschrift van zijn aangifte op grond van de [Wet op de accijns](../../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) over dezelfde periode.
-3. Indien de ondernemer niet in staat is gebleken een afschrift van de aangifte op grond van de [Wet op de accijns](../../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) te verstrekken, kan de secretaris de ondernemer verplichten een door een accountant afgegeven verklaring te overleggen met betrekking tot de hoeveelheid in de handel gebrachte wijn in een bepaalde periode.
+2. De ondernemer verstrekt gelijktijdig met het opgavenformulier aan het productschap een afschrift van zijn aangifte op grond van de Wet op de accijns over dezelfde periode.
+3. Indien de ondernemer niet in staat is gebleken een afschrift van de aangifte op grond van de Wet op de accijns te verstrekken, kan de secretaris de ondernemer verplichten een door een accountant afgegeven verklaring te overleggen met betrekking tot de hoeveelheid in de handel gebrachte wijn in een bepaalde periode.
 4. De ondernemer is verplicht alle medewerking te verlenen aan de controle door of namens het productschap van de in artikel 5 bedoelde opgave.
 
 ###§ 3 
@@ -86,7 +86,7 @@ Het productschap kan besluiten nota's van minder dan € 50,- samen te voegen to
 ###Artikel 10 
 Materieel uitgewerkt per 01-01-2004 
 
-Aan de ondernemer die niet of niet geheel binnen de in artikel 8 gestelde termijn heeft betaald, kan door het productschap de wettelijke interest over het niet betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md).
+Aan de ondernemer die niet of niet geheel binnen de in artikel 8 gestelde termijn heeft betaald, kan door het productschap de wettelijke interest over het niet betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie.
 
 ###§ 4 
 

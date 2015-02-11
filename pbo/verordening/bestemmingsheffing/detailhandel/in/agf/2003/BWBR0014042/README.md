@@ -3,7 +3,7 @@
 ##Verordening van het Hoofdbedrijfschap Detailhandel van 25 september 2002, houdende vaststelling bestemmingsheffing ten behoeve van de Commissie voor de detailhandel in aardappelen, groenten en fruit voor het jaar 2003 (Verordening bestemmingsheffing detailhandel AGF 2003)
 
 Het bestuur van het Hoofdbedrijfschap Detailhandel;
-Gelet op de [artikelen 95](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126, eerste lid van de Wet op de Bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op artikel 12, derde lid, van de Instellingsverordening Hoofdbedrijfschap Detailhandel;
+Gelet op de artikelen 95 en 126, eerste lid van de Wet op de Bedrijfsorganisatie en op artikel 12, derde lid, van de Instellingsverordening Hoofdbedrijfschap Detailhandel;
 
 Gezien het advies van de Commissie detailhandel in aardappelen, groenten en fruit;
 Besluit:
@@ -27,7 +27,7 @@ c.de voorzitter: de voorzitter van het Hoofdbedrijfschap Detailhandel.
 ###Artikel 2 
 Materieel uitgewerkt per 13-03-2004 
 
-In deze verordening zijn de begripsbepalingen van de [Heffíngsverordening Hoofdbedrijfschap Detailhandel 2003](../../../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/detailhandel/2003/BWBR0014048/README.md) van overeenkomstige toepassing.
+In deze verordening zijn de begripsbepalingen van de Heffíngsverordening Hoofdbedrijfschap Detailhandel 2003 van overeenkomstige toepassing.
 
 ###Artikel 3 
 Materieel uitgewerkt per 13-03-2004 
@@ -59,7 +59,7 @@ b.de Centrale Vereniging voor de Ambulante Handel;en over het jaar 2002 de volle
 
 a.krachtens haar statutaire doelstelling haar werkzaamheid kan uitstrekken tot ten minste een belangrijk gedeelte van het terrein waarop het bedrijfslichaam een taak heeft te vervullen,
 
-b.voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de [artikelen 3 tot en met 7 van de Verordening representativiteit organisaties](../../../../../../../../pbo/verordening/representativiteit/organisaties/BWBR0011641/README.md),
+b.voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de artikelen 3 tot en met 7 van de Verordening representativiteit organisaties,
 
 c.tot de werkingssfeer van het bedrijfslichaam behorende leden heeft, waarvan het gewogen aantal niet onbetekenend is,
 
@@ -78,7 +78,7 @@ Materieel uitgewerkt per 13-03-2004
 ###Artikel 6 
 Materieel uitgewerkt per 13-03-2004 
 
-De [artikelen 7 tot en met 18 van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2003](../../../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/detailhandel/2003/BWBR0014048/README.md) zijn van overeenkomstige toepassing.
+De artikelen 7 tot en met 18 van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2003 zijn van overeenkomstige toepassing.
 
 ###Artikel 7 
 Materieel uitgewerkt per 13-03-2004 

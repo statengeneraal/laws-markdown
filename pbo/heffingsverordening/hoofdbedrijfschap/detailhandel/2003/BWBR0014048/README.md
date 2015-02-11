@@ -3,7 +3,7 @@
 ##Verordening van het Hoofdbedrijfschap Detailhandel van 25 september 2002, houdende regels terzake van de aan de onder het hoofdbedrijfschap ressorterende ondernemers op te leggen heffing voor het jaar 2003 (Heffingsverordening Hoofdbedrijfschap Detailhandel 2003)
 
 Het Bestuur van het Hoofdbedrijfschap Detailhandel;
-Gelet op de [artikelen 95](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126, eerste lid van de Wet op de Bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op artikel 12 van de Instellingsverordening Hoofdbedrijfschap Detailhandel;
+Gelet op de artikelen 95 en 126, eerste lid van de Wet op de Bedrijfsorganisatie en op artikel 12 van de Instellingsverordening Hoofdbedrijfschap Detailhandel;
 Besluit:
 ###§ 1 
 
@@ -108,7 +108,7 @@ a.een vereniging is met volledige rechtsbevoegdheid;
 
 b.krachtens haar statutaire doelstelling haar werkzaamheden kan uitstrekken tot tenminste een belangrijk gedeelte van het terrein waarop het bedrijfslichaam een taak heeft te vervullen;
 
-c.voldoet aan de kwalitatieve representativiteitcriteria, genoemd in de [artikelen 3 tot en met 7 van de Verordening representativiteit organisaties](../../../../../../pbo/verordening/representativiteit/organisaties/BWBR0011641/README.md),
+c.voldoet aan de kwalitatieve representativiteitcriteria, genoemd in de artikelen 3 tot en met 7 van de Verordening representativiteit organisaties,
 
 d.tot de werkingssfeer van het bedrijfslichaam behorende leden heeft, waarvan het gewogen aantal niet onbetekend is,
 

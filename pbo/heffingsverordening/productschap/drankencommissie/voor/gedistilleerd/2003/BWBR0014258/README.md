@@ -5,13 +5,13 @@
 Het Bestuur van het Productschap Dranken,
 gelet op: 
 
-[artikel 126 van de Wet op de Bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) (hierna: Wbo) en
+artikel 126 van de Wet op de Bedrijfsorganisatie (hierna: Wbo) en
 
-[artikel 12](../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md) en [artikel 14 van de Instellingsbesluit Productschap Dranken](../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md);
+artikel 12 en artikel 14 van de Instellingsbesluit Productschap Dranken;
 
 gezien :
 
-het advies van de Commissie ex [artikel 5 lid 1 onder c van het Instellingsbesluit Productschap Dranken](../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md);
+het advies van de Commissie ex artikel 5 lid 1 onder c van het Instellingsbesluit Productschap Dranken;
 besluitvast te stellen de navolgende verordening
 ###§ 1 
 
@@ -60,7 +60,7 @@ hetzij door vermenging van ethylalcohol uit landbouwproducten met water;
 
 7.ondernemer: een natuurlijke of rechtspersoon, die een onderneming als bedoeld in deze Verordening drijft;
 
-8.onderneming: een onderneming als bedoeld in [artikel 3 lid 2 sub c en d van het Instellingsbesluit](../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md);
+8.onderneming: een onderneming als bedoeld in artikel 3 lid 2 sub c en d van het Instellingsbesluit;
 
 8.productschap: het Productschap Dranken;
 
@@ -68,7 +68,7 @@ hetzij door vermenging van ethylalcohol uit landbouwproducten met water;
 
 10.secretaris: de door het Bestuur aangestelde secretaris van de Commissie;
 
-11.commissie: een orgaan als bedoeld in [artikel 88a van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), hier: de Commissie voor Gedistilleerd ex [artikel 5 lid 1 c van het Instellingsbesluit Productschap Dranken](../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md).
+11.commissie: een orgaan als bedoeld in artikel 88a van de Wet op de bedrijfsorganisatie, hier: de Commissie voor Gedistilleerd ex artikel 5 lid 1 c van het Instellingsbesluit Productschap Dranken.
 
 ###§ 2 
 
@@ -109,7 +109,7 @@ c.voor degenen die een onderneming drijven waarin gedistilleerde en/of zwak gedi
 
 d.voor degenen die zijn ingeschreven als groothandelaar in gedistilleerde dranken: € 22,69;
 
-e.voor degenen die een onderneming drijven waarin de detailhandel in gedistilleerde dranken als bedoeld in [artikel 3 lid 2 onder d van het Instellingsbesluit](../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md) wordt uitgeoefend: € 3,40 voor iedere afzonderlijke vestiging als detailhandel;
+e.voor degenen die een onderneming drijven waarin de detailhandel in gedistilleerde dranken als bedoeld in artikel 3 lid 2 onder d van het Instellingsbesluit wordt uitgeoefend: € 3,40 voor iedere afzonderlijke vestiging als detailhandel;
 
 f.voor degenen die een onderneming drijven waar voor rekening van een ander gebotteld wordt: € 22,69.
 3. De Jaarbijdrage als bedoeld onder d. is niet verschuldigd door degenen die de groothandel in gedistilleerd uitoefenen, indien en voorzover door de Commissie voor frisdranken en waters aan de Commissie voor gedistilleerd jaarlijks een door het Bestuur in overleg met de Commissies vast te stellen bedrag wordt voldaan, hetwelk geacht wordt de gezamenlijke Jaarbijdrage van de bedoelde ondernemingen te vervangen.
