@@ -7,7 +7,7 @@ Na overleg met de minister van landbouw, natuur en voedselkwaliteit,
 
 Gelet op:
 
-• de [artikelen 10, eerste lid](../../../../../../../../wet/experimentenwet/vooropleidingseisen/selectie/en/collegegeldheffing/BWBR0018259/README.md), en [11, tweede lid, van de Experimentenwet vooropleidingseisen, selectie en collegegeldheffing](../../../../../../../../wet/experimentenwet/vooropleidingseisen/selectie/en/collegegeldheffing/BWBR0018259/README.md);
+• de artikelen 10, eerste lid, en 11, tweede lid, van de Experimentenwet vooropleidingseisen, selectie en collegegeldheffing;
 Besluit
 ###Hoofdstuk 1 
 
@@ -19,27 +19,27 @@ Besluit
 
 In deze regeling wordt verstaan onder: 
 
-a. wet: de [Experimentenwet vooropleidingseisen, selectie en collegegeldheffing](../../../../../../../../wet/experimentenwet/vooropleidingseisen/selectie/en/collegegeldheffing/BWBR0018259/README.md);  
+a. wet: de Experimentenwet vooropleidingseisen, selectie en collegegeldheffing;  
 
 b. minister: de minister van onderwijs, cultuur en wetenschap;  
 
-c. student: een student die is ingeschreven voor een opleiding als bedoeld in [artikel 9 van de wet](../../../../../../../../wet/experimentenwet/vooropleidingseisen/selectie/en/collegegeldheffing/BWBR0018259/README.md);  
+c. student: een student die is ingeschreven voor een opleiding als bedoeld in artikel 9 van de wet;  
 
-d. instellingsbestuur: het bestuur van een instelling bedoeld in [artikel 1.1, onderdeel j, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+d. instellingsbestuur: het bestuur van een instelling bedoeld in artikel 1.1, onderdeel j, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek;  
 
-e. opleiding: een opleiding als bedoeld in [artikel 9 van de wet](../../../../../../../../wet/experimentenwet/vooropleidingseisen/selectie/en/collegegeldheffing/BWBR0018259/README.md);  
+e. opleiding: een opleiding als bedoeld in artikel 9 van de wet;  
 
-f. collegegeld: het collegegeld, bedoeld in [artikel 7.43, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+f. collegegeld: het collegegeld, bedoeld in artikel 7.43, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek;  
 
-g. experiment: een experiment als bedoeld in de [artikelen 6 tot en met 9 van de wet](../../../../../../../../wet/experimentenwet/vooropleidingseisen/selectie/en/collegegeldheffing/BWBR0018259/README.md);  
+g. experiment: een experiment als bedoeld in de artikelen 6 tot en met 9 van de wet;  
 
-h. experimenteel collegegeld: het collegegeld,bedoeld in [artikel 9 van de wet](../../../../../../../../wet/experimentenwet/vooropleidingseisen/selectie/en/collegegeldheffing/BWBR0018259/README.md);  
+h. experimenteel collegegeld: het collegegeld,bedoeld in artikel 9 van de wet;  
 
-i. lening: een lening als bedoeld in [artikel 10 van de wet](../../../../../../../../wet/experimentenwet/vooropleidingseisen/selectie/en/collegegeldheffing/BWBR0018259/README.md);  
+i. lening: een lening als bedoeld in artikel 10 van de wet;  
 
-j. aanvraag: een aanvraag als bedoeld in [artikel 11 van de wet](../../../../../../../../wet/experimentenwet/vooropleidingseisen/selectie/en/collegegeldheffing/BWBR0018259/README.md);  
+j. aanvraag: een aanvraag als bedoeld in artikel 11 van de wet;  
 
-k. WSF 2000: de [Wet studiefinanciering 2000](../../../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md).   
+k. WSF 2000: de Wet studiefinanciering 2000.   
 
 ###Hoofdstuk 2 
 
@@ -67,7 +67,7 @@ k. WSF 2000: de [Wet studiefinanciering 2000](../../../../../../../../wet/wet/st
 
 ####Voorwaarden
 
-Voor een lening komt in aanmerking de student, die is ingeschreven voor een opleiding en die ingevolge de [artikelen 2.2](../../../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md) en [2.3 van de WSF 2000](../../../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md) in aanmerking komt voor studiefinanciering.
+Voor een lening komt in aanmerking de student, die is ingeschreven voor een opleiding en die ingevolge de artikelen 2.2 en 2.3 van de WSF 2000 in aanmerking komt voor studiefinanciering.
 
 ###Artikel 5 
 
@@ -80,7 +80,7 @@ Voor een lening komt in aanmerking de student, die is ingeschreven voor een ople
 
 ####Lening
 
-Het bedrag van de lening wordt toegevoegd aan de lening, bedoeld in [artikel 3.1 van de WSF 2000](../../../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md).
+Het bedrag van de lening wordt toegevoegd aan de lening, bedoeld in artikel 3.1 van de WSF 2000.
 
 ### Artikel  7  
 
@@ -100,7 +100,7 @@ Het bedrag van de lening wordt toegevoegd aan de lening, bedoeld in [artikel 3.1
 
 ####Terugbetaling
 
-Op de terugbetaling van de lening zijn de [artikelen 6.2](../../../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), [6.4 tot en met 6.18](../../../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), [7.1](../../../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md) en [7.3 van de WSF 2000](../../../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md) van overeenkomstige toepassing.
+Op de terugbetaling van de lening zijn de artikelen 6.2, 6.4 tot en met 6.18, 7.1 en 7.3 van de WSF 2000 van overeenkomstige toepassing.
 
 ###Hoofdstuk 4 
 

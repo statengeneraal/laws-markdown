@@ -148,7 +148,7 @@ De staatssecretaris stelt binnen dertien weken na ontvangst van de subsidieaanvr
 
 1.  Een filter bij een EDOR of een GSM-R-treinradio voldoet aan de technische specificaties in bijlage 1.   
 2.  De GSM-R-treinradio in combinatie met het filter hoeft ten aanzien van de frequentiebanden 880-915 MHz en 925-960 MHz niet te voldoen aan de paragrafen 4.2.1 en 4.2.1i van de EIRENE System Requirements Specification versie 15.3.0.   
-3.  Een verbeterde GSM-R-treinradio en een verbeterde EDOR voldoen aan de technische specificaties in bijlage 2.  
+3.  Een verbeterde GSM-R-treinradio en een verbeterde EDOR voldoen aan de technische specificatie ETSI TS 102 933-1 v1.3.1, ‘Spoorwegtelecommunicatie; verbeterde GSM-R-ontvangerparameters; Deel 1: Vereisten voor radio-ontvangst'.  
 
 ### Artikel  11  
 
@@ -217,30 +217,4 @@ Indien een overbruggingsschakeling bij het filter wordt toegepast, bijvoorbeeld 
 | 924,9  | ≤ 3  | ≥ 15  |
 | 925,4  | ≥ 15  | n.v.t.  |
 | 926.0 – 960  | ≥ 30  | n.v.t.  |
-
-### Bijlage  2 
-
-#### behorende bij artikel 10, derde lid , van de Subsidieregeling beheersing GSM-R interferentie
-
-####Technische specificaties ten aanzien van GSM-R-treinradio’s en EDOR’s met verbeterde blocking eigenschappen
-
-De subsidieregeling is van kracht op verbeterde GSM-R-treinradio’s en EDOR’s indien de ontvangers tenminste aan een aantal voorwaarden voldoen. Deze voorwaarden hebben betrekking op de blocking eigenschappen van de ontvangers buiten het door GSM-R gebruikte frequentiegebied van 921 tot 925 MHz. De blocking-eigenschappen zijn frequentieafhankelijk en worden weergegeven in tabel 2 voor smalbandige signalen en tabel 3 voor breedbandige (LTE) signalen. Voor zowel de gewenste als storende signalen geldt dat ze direct worden aangeboden aan de connectoringang van de GSM-R-treinradio of EDOR. Er zal worden voldaan aan zowel tabel 2 als 3. P<sub>blocking</sub> is het vermogen waarbij de GSM-R-treinradio of EDOR nog net voldoet aan de criteria zoals beschreven in ETSI TS 100910, tabel 1, 1<sup>a</sup>, 1<sup>b</sup>, 1<sup>c</sup>, 1<sup>d</sup> en 1<sup>e</sup>.  Tabel 2: Blocking-specificaties bij optreden van smalbandige (CW) signalen op een verbeterde EDOR en GSM-R-treinradio. 
-
-| Gewenste GSM-R signalen  | Frequentieband [MHz]  | P<sub>blocking</sub> [dBm]  | Frequentie [MHz]  | Niveau [dBm]  |
-|:---|:---|:---|:---|:---|
-| 918,2 – 924,8  | –101  | 0,1 – 880  | ≥ 0  |
-| 918,2 – 924,8  | –101  | 880 – 912  | ≥ –5  |
-| 918,2 – 924,8  | –101  | 912 – 915  | ≥ –12  |
-| 918,2 – 924,8  | –101  | 925,6 – 927  | ≥ –13  |
-| 918,2 – 924,8  | –101  | 927 – 960  | ≥ –10  |
-| 918,2 – 924,8  | –101  | 960 – 12.750  | ≥ 0  |
-
-Tabel 3: Blocking-specificaties bij breedbandige (LTE) signalen in de naastliggende frequentieruimte, op een verbeterde EDOR en GSM-R-treinradio. 
-
-| Gewenste GSM-R signalen  | Breedband LTE signalen  | Frequentie [MHz]  | Signaal niveau [dBm]  | Frequentie [MHz]  | Opmerking  | P<sub>blocking</sub> [dBm]  |
-|:---|:---|:---|:---|:---|:---|:---|
-| 924,2  | –101  | 927,6  | Enkelvoudig breedband LTE signaal <sup>1</sup>   | ≥ –13  |
-| 924,2  | –101  | 927,6 + 932,6  | Twee breedbandige LTE signalen<sup>2</sup>   | ≥ –13  |
-
-<sup>1</sup>LTE-signalen zoals gedefinieerd in ETSI TS136 141, met een bandbreedte van 5 MHz, hoofdstuk 6.1.1.1: ”LTE; Evolved Universal Terrestrial Radio Access (E-UTRA); Base Station Conformance Testing”.<sup>2</sup>LTE-signalen zoals gedefinieerd in ETSI TS136 141, met een bandbreedte van 5 MHz, hoofdstuk 6.1.1.1: ”LTE; Evolved Universal Terrestrial Radio Access (E-UTRA); Base Station Conformance Testing”.
 

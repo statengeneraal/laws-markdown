@@ -131,6 +131,16 @@ b. 18 jaren is of ouder: met ingang van de eerste dag van de maand waarin hij ho
 3.  Voor studiefinanciering kan een studerende in aanmerking komen tot en met de maand waarin hij de leeftijd van 30 jaren heeft bereikt.  
 4. In afwijking van het derde lid behoudt een studerende bij het bereiken van de leeftijd van 30 jaren zijn aanspraak, zolang hij zonder onderbreking studiefinanciering geniet. 
 
+### Artikel  2.3a  
+
+####Leeftijd levenlanglerenkrediet
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  In afwijking van artikel 2.3, eerste en derde lid, kan een deelnemer voor levenlanglerenkrediet in aanmerking komen die 30 jaren of ouder is maar nog niet de leeftijd van 55 jaren heeft bereikt.   
+2.  In afwijking van artikel 2.3, tweede en derde lid, kan een student voor levenlanglerenkrediet in aanmerking komen die nog niet de leeftijd van 55 jaren heeft bereikt.   
+3.  In afwijking van het eerste en tweede lid behoudt een studerende bij het bereiken van de leeftijd van 55 jaren zijn aanspraak, zolang hij zonder onderbreking levenlanglerenkrediet geniet.  
+
 ###Paragraaf 2.2 
 
 ####Beroepsonderwijs
@@ -174,6 +184,14 @@ b.indien er 10 jaren verstreken zijn met ingang van de maand waarover voor het e
 c. In afwijking van onderdeel b wordt, indien artikel 4.14, eerste lid, toepassing vindt, de termijn van 10 jaren, genoemd in onderdeel b, verlengd met de duur van de in dat artikel bedoelde bijzondere omstandigheden.  
 
 d. In afwijking van onderdeel b wordt, indien artikel 4.14, tweede lid, toepassing vindt, de termijn van 10 jaren, genoemd in onderdeel b, verlengd met 5 jaren. 
+
+### Artikel  2.7b  
+
+####Uitzondering levenlanglerenkrediet
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+De artikelen 2.7 en 2.7a zijn niet van toepassing op het levenlanglerenkrediet. 
 
 ### Paragraaf  2.3  
 
@@ -410,6 +428,18 @@ b. € 363,– voor ieder kind dat in het studiejaar dat aanvangt in het jaar vo
 8.  Indien een kind waarvoor de aftrek, bedoeld in het vijfde lid, onderdeel b, heeft plaatsgevonden, onder de werking van deze wet gaat vallen, wordt met ingang van het tijdstip waarop dit kind onder de werking van deze wet gaat vallen, de veronderstelde ouderlijke bijdrage, bedoeld in het zevende lid, opnieuw berekend.   
 9.  De berekeningsgrondslag voor een ouder van de veronderstelde ouderlijke bijdrage op maandbasis is de bijdrage, bedoeld in het zevende lid, gedeeld door 12.  
 
+### Artikel  3.9a  
+
+####Berekeningsgrondslag veronderstelde ouderlijke bijdrage hoger onderwijs
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+Artikel 3.9 is van overeenkomstige toepassing op de bepaling van de veronderstelde ouderlijke bijdrage voor studenten, met dien verstande dat: 
+
+a. voor de vrije voet, bedoeld in artikel 3.9, tweede lid, tweede volzin, naar de maatstaf van 1 januari 2014 een bedrag wordt gelezen gelijk aan € 15.000; en  
+
+b. voor de vrije voet, bedoeld in artikel 3.9, tweede lid, laatste volzin, naar de maatstaf van 1 januari 2014 een bedrag wordt gelezen gelijk aan € 19.004.   
+
 ### Artikel  3.10  
 
 ####Peiljaarverlegging bij terugval in inkomen
@@ -477,6 +507,59 @@ Het verschil tussen het maximale bedrag van de aanvullende beurs en de voor een 
 2. Het bedrag dat per maand kan worden geleend bedraagt ten hoogste eentwaalfde deel van het volledige wettelijke collegegeld, bedoeld in artikel 7.45, eerste lid. Indien het door de student voor een periode van twaalf maanden te betalen bedrag voor het volgen van hoger onderwijs hoger is dan het volledige wettelijke collegegeld, bedoeld in artikel 7.45, eerste lid, bedraagt het bedrag dat per maand kan worden geleend, in afwijking van de eerste volzin, ten hoogste eentwaalfde deel van het door de student voor een periode van twaalf maanden te betalen bedrag voor het volgen van hoger onderwijs. 
 3. Het collegegeldkrediet bedraagt per maand maximaal vijftwaalfde deel van het volledige wettelijke collegegeld, bedoeld in artikel 7.45, eerste lid. 
 4.  Bij ministeriële regeling kunnen nadere regels worden gesteld over de aanvraag, toekenning, betaling en andere uitvoeringsaspecten van het collegegeldkrediet. 
+
+### Artikel  3.16b  
+
+####Levenlanglerenkrediet: aanspraak
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Het levenlanglerenkrediet is een lening die aan een studerende op aanvraag wordt toegekend.   
+2.  Het levenlanglerenkrediet wordt slechts verstrekt: 
+
+a. indien de studerende niet in aanmerking komt voor studiefinanciering als bedoeld in artikel 3.1, eerste of tweede lid;  
+
+b. in geval het krediet wordt gevraagd voor een voltijdse of duale opleiding in het hoger onderwijs en de student nog niet de leeftijd van dertig jaren heeft bereikt, die student een hbo-bacheloropleiding als bedoeld in artikel 7.3a, tweede lid, onderdeel a, van de WHW of het geheel van een wo-bacheloropleiding en een wo-masteropleiding als bedoeld in artikel 7.3a, eerste lid, onderdelen a en b, van de WHW met goed gevolg heeft afgesloten; en  
+
+c. voor zover de kosten voor het lesgeld of collegegeld niet door een derde worden vergoed.     
+3.  Bij algemene maatregel van bestuur kunnen gronden worden vastgesteld op basis waarvan een aanvraag gelet op terugbetalingsrisico’s kan worden geweigerd.   
+4.  De hoofdstukken 4 en 5 zijn niet van toepassing op het levenlanglerenkrediet.  
+
+### Artikel  3.16c  
+
+####Levenlanglerenkrediet: duur
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Het levenlanglerenkrediet kan worden verstrekt gedurende vier jaar.   
+2.  De periode, bedoeld in het eerste lid, kan worden verlengd indien de studerende in de laatste maand van die periode een opleiding volgt met een langere nominale duur dan vier jaar en die opleiding onafgebroken blijft volgen. Het levenlanglerenkrediet kan ten hoogste zoveel langer worden verstrekt als het verschil tussen 48 maanden en het aantal maanden waarop de studielast is gebaseerd op grond van: 
+
+a. artikel 7.4a, eerste tot en met zevende lid, van de WHW; of  
+
+b. artikel 7.4b, eerste tot en met zevende lid, van de WHW.     
+3.  Indien de student in de laatste maand van de periode, bedoeld in het eerste of tweede lid, een deeltijdse opleiding volgt en deze opleiding onafgebroken blijft volgen, wordt de periode met één jaar verlengd.  
+
+### Artikel  3.16d  
+
+####Levenlanglerenkrediet: hoogte
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+Het levenlanglerenkrediet bedraagt per maand niet meer dan een twaalfde deel van het feitelijk door de studerende voor een periode van twaalf maanden te betalen bedrag aan collegegeld of lesgeld voor het volgen van de desbetreffende opleiding en in totaal ten hoogste: 
+
+a. vijf maal een twaalfde deel van het volledige wettelijk collegegeld, bedoeld in artikel 7.45, eerste lid, van de WHW, voor een opleiding in het hoger onderwijs;  
+
+b. vijf maal een twaalfde deel van het lesgeld, bedoeld in artikel 5, tweede lid, van de Les- en cursusgeldwet, voor een opleiding in het beroepsonderwijs; of  
+
+c. een in afwijking van de onderdelen a en b bij algemene maatregel van bestuur te bepalen lager maximum.   
+
+### Artikel  3.16e  
+
+####Levenlanglerenkrediet: uitvoeringsregels
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+Voor een goede uitvoering van de artikelen 3.16b tot en met 3.16d worden bij ministeriële regeling regels vastgesteld over de aanvraag, toekenning, betaling en andere uitvoeringsaspecten. 
 
 ### Artikel  3.17  
 
@@ -718,7 +801,7 @@ b.dat de deelnemer binnen 8 weken na de aanvang van de periode van 5 weken geen 
 5. De periodes van 5 en 8 weken worden verlengd met de weken waarin vanwege vakantie geen onderwijs werd verzorgd. 
 6. Het bestuur van de rechtspersoon of de natuurlijke persoon stuurt gelijktijdig met de mededelingen, bedoeld in het vierde lid, een afschrift van de gegevens die over de betrokkene aan Onze Minister zijn verstrekt, aan deze betrokkene en geeft daarbij tevens aan dat afwezigheid als bedoeld in artikel 4.3, gevolgen heeft voor de studiefinanciering van betrokkene, alsmede welke beroepsgang voor betrokkene open staat tegen de mededelingen, bedoeld in het vierde lid.
 
-###Paragraaf 4.1.2 
+### Paragraaf 4.1.2 
 
 ####Studiefinanciering in de vorm van prestatiebeurs
 
@@ -727,6 +810,30 @@ b.dat de deelnemer binnen 8 weken na de aanvang van de periode van 5 weken geen 
 ####Reikwijdte
 
 Deze paragraaf is uitsluitend van toepassing op deelnemers die in Nederland een opleiding niveau 3 of 4 volgen, en die na 31 juli 2005 voor het volgen van beroepsonderwijs voor het eerst studiefinanciering ontvingen.
+
+### Artikel  4.6a  
+
+####Prestatiebeurs beroepsonderwijs
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+Een deelnemer aan een opleiding niveau 3 of 4 komt voor zover wordt voldaan aan de van toepassing zijnde voorwaarden in aanmerking voor studiefinanciering in de vorm van een prestatiebeurs, inhoudende: 
+
+a. een basisbeurs;  
+
+b. een aanvullende beurs;  
+
+c. een reisvoorziening; en  
+
+d. een toeslag eenoudergezin.   
+
+### Artikel  4.6b  
+
+####Reisvoorziening minderjarige deelnemer
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+Onverminderd artikel 4.7, eerste en tweede lid, komt een deelnemer die jonger is dan 18 jaren in aanmerking voor een reisvoorziening in de vorm van een prestatiebeurs. 
 
 ### Artikel 4.7 
 
@@ -787,7 +894,7 @@ Indien een deelnemer op enig moment binnen de diplomatermijn beroepsonderwijs in
 
 1. Indien een deelnemer als direct gevolg van bijzondere omstandigheden van tijdelijke aard niet in staat is binnen de diplomatermijn beroepsonderwijs met goed gevolg het afsluitend examen van een opleiding niveau 3 of 4 te behalen, wordt deze termijn verlengd met de duur van die bijzondere omstandigheden. 
 2. Indien een deelnemer als direct gevolg van bijzondere omstandigheden van structurele aard niet in staat is binnen de diplomatermijn beroepsonderwijs met goed gevolg het afsluitend examen van een opleiding niveau 3 of 4 te behalen, wordt deze termijn, op aanvraag, verlengd met 5 jaren. Onder bijzondere omstandigheden van structurele aard kunnen in ieder geval worden verstaan functiebeperking of chronische ziekte. 
-3.  Indien een deelnemer niet in staat is binnen de diplomatermijn beroepsonderwijs of binnen de, op grond van het tweede lid, verlengde diplomatermijn beroepsonderwijs met goed gevolg het afsluitend examen van een opleiding niveau 3 of 4 te behalen, wordt de aan hem toegekende prestatiebeurs omgezet in een gift.  
+3.  Indien een deelnemer als direct gevolg van bijzondere omstandigheden van structurele aard niet in staat is binnen de diplomatermijn beroepsonderwijs of binnen de, op grond van het tweede lid, verlengde diplomatermijn beroepsonderwijs met goed gevolg het afsluitend examen van een opleiding niveau 3 of 4 te behalen, wordt de aan hem toegekende prestatiebeurs omgezet in een gift.  
 4. Indien een deelnemer als direct gevolg van een tijdens de studie verworven handicap, ten gevolge van een zich tijdens de studie verergerende handicap of ten gevolge van een zich tijdens de studie manifesterende chronische ziekte genoodzaakt is een reeds begonnen opleiding te beëindigen, ontvangt de deelnemer bij keuze voor een passender opleiding nieuwe aanspraak op studiefinanciering. 
 5. Onze Minister stelt op aanvraag van de deelnemer vast of er sprake is van bijzondere omstandigheden in de zin van dit artikel. De bijzondere omstandigheden kunnen uitsluitend worden aangetoond door gedagtekende verklaringen van een arts en de natuurlijke persoon of het bestuur van de rechtspersoon van de onderwijsinstelling waar hij is ingeschreven. Indien de bijzondere omstandigheden uitsluitend van niet-medische aard zijn, volstaat een gedagtekende verklaring van de natuurlijke persoon of het bestuur van de rechtspersoon van de onderwijsinstelling waar de deelnemer is ingeschreven.
 
@@ -893,6 +1000,46 @@ Dit hoofdstuk is uitsluitend van toepassing op studenten die na 31 augustus 1996
 4. De basislening en de aanvullende lening kunnen gedurende de periode, bedoeld in het eerste lid, worden verstrekt. Het collegegeldkrediet kan gedurende de periode bedoeld in het eerste en derde lid worden verstrekt.
 5. Op aanvraag kan een student als bedoeld in artikel 3.4, gedurende de in het derde lid bedoelde periode tevens in aanmerking komen voor een lening ter grootte van het bedrag, bedoeld in artikel 3.4, derde lid.
 6. Op aanvraag kan een student als bedoeld in artikel 3.5, gedurende de in het derde lid bedoelde periode tevens in aanmerking komen voor een lening ter grootte van het bedrag, bedoeld in artikel 3.5, tweede lid.
+
+### Artikel  5.2a  
+
+####Verlenging duur prestatiebeurs hoger onderwijs vanwege het volgen van een lerarenkopopleiding
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+De prestatiebeurs hoger onderwijs wordt op aanvraag eenmalig 1 jaar langer verstrekt, indien: 
+
+a. het een student betreft die met goed gevolg het afsluitende examen van een bacheloropleiding heeft behaald, voor zover bij ministeriële regeling aangewezen, of een daarmee gelijkgesteld diploma; en  
+
+b. deze student is ingeschreven voor de hbo-lerarenopleiding, voor een daarbinnen te volgen eenjarig programma, waarvan in de onder a bedoelde ministeriële regeling is aangegeven dat die opleiding verwant is aan de onder a bedoelde opleiding.   
+
+### Artikel  5.2b  
+
+####Verlenging duur prestatiebeurs hoger onderwijs vanwege handicap of chronische ziekte
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+De prestatiebeurs hoger onderwijs wordt op aanvraag eenmalig 1 jaar langer verstrekt indien de student blijkens gedagtekende verklaringen van een arts en van het bestuur van de onderwijsinstelling waar hij is ingeschreven, als gevolg van een handicap of chronische ziekte niet in staat is het afsluitend examen met goed gevolg af te ronden binnen het aantal jaren waarop de studielast van de opleiding, bedoeld in artikel 7.3a van de WHW, is gebaseerd. 
+
+### Artikel  5.2c  
+
+####Verlenging duur prestatiebeurs hoger onderwijs vanwege het volgen van een universitaire lerarenopleiding
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  In aanvulling op artikel 5.2, eerste lid, wordt de prestatiebeurs hoger onderwijs op aanvraag eenmalig 1 jaar langer verstrekt, indien: 
+
+a. het een masteropleiding als bedoeld in artikel 7.30c van de WHW betreft;  
+
+b. met goed gevolg het afsluitende examen van een masteropleiding als bedoeld in artikel 7.4a, met uitzondering van het derde lid, van de WHW is behaald en daarna een masteropleiding als bedoeld in artikel 7.4a, derde lid, van de WHW wordt gevolgd; of  
+
+c. reeds eerder prestatiebeurs hoger onderwijs is toegekend op grond van artikel 5.2a en een masteropleiding als bedoeld in artikel 7.4a, derde lid, van de WHW wordt gevolgd.     
+2.  Het eerste lid, onderdeel a, is niet van toepassing, indien reeds eerder op grond van onderdeel b van dat lid prestatiebeurs hoger onderwijs is toegekend.   
+3.  Het eerste lid, onderdeel b, is niet van toepassing indien reeds eerder: 
+
+a. op grond van het eerste lid, onderdeel a, of artikel 5.2a prestatiebeurs hoger onderwijs is toegekend; of  
+
+b. op grond van artikel 5.2, eerste lid, prestatiebeurs hoger onderwijs is toegekend, voor zover die toekenning betrekking had op een opleiding als bedoeld in artikel 7.4b, vierde lid, van de WHW.    
 
 ### Artikel  5.3  
 
@@ -1003,7 +1150,7 @@ Indien een student op enig moment binnen de diplomatermijn hoger onderwijs in st
 
 1.  Indien een student als direct gevolg van bijzondere omstandigheden van tijdelijke aard niet in staat is binnen de diplomatermijn hoger onderwijs met goed gevolg het afsluitend examen te behalen, wordt deze termijn verlengd met de duur van die bijzondere omstandigheden.   
 2.  Indien een student als direct gevolg van bijzondere omstandigheden van structurele aard niet in staat is binnen de diplomatermijn hoger onderwijs met goed gevolg het afsluitend examen te behalen, wordt deze termijn, op aanvraag, verlengd met 5 jaren. Onder bijzondere omstandigheden van structurele aard kunnen in ieder geval worden verstaan functiebeperking of chronische ziekte.  
-3.  Indien de student niet in staat is binnen de diplomatermijn hoger onderwijs of binnen de, op grond van het tweede lid, verlengde diplomatermijn hoger onderwijs met goed gevolg het afsluitend examen te behalen, wordt de aan hem toegekende prestatiebeurs omgezet in een gift.   
+3.   Indien een student als direct gevolg van bijzondere omstandigheden van structurele aard niet in staat is binnen de diplomatermijn hoger onderwijs of binnen de, op grond van het tweede lid, verlengde diplomatermijn hoger onderwijs met goed gevolg het afsluitend examen te behalen, wordt de aan hem toegekende prestatiebeurs omgezet in een gift.   
 4.  Indien een student als direct gevolg van een tijdens de studie verworven handicap, ten gevolge van een zich tijdens de studie verergerende handicap of ten gevolge van een zich tijdens de studie manifesterende chronische ziekte genoodzaakt is een reeds begonnen opleiding te beëindigen, ontvangt de student bij keuze voor een passender opleiding nieuwe aanspraak op studiefinanciering.   
 5.  Onze Minister stelt op aanvraag van de student vast of er sprake is van bijzondere omstandigheden in de zin van dit artikel. De bijzondere omstandigheden kunnen uitsluitend worden aangetoond door gedagtekende verklaringen van een arts en de natuurlijke persoon of het bestuur van de rechtspersoon van de onderwijsinstelling waar hij is ingeschreven. Indien de bijzondere omstandigheden uitsluitend van niet-medische aard zijn, volstaat een gedagtekende verklaring van de natuurlijke persoon of het bestuur van de rechtspersoon van de onderwijsinstelling waar de student is ingeschreven.  
 
@@ -1201,6 +1348,39 @@ Indien een debiteur gedurende een kalenderjaar op grond van zijn draagkracht min
 2.  Indien na beëindiging van het recht op studiefinanciering van een studerende door een beschikking op grond van artikel 7.1 een vordering ontstaat van Onze Minister, wordt die vordering omgezet in een lening op de eerste dag van de maand na de herziening. Bij de berekening van de rente voor die vordering wordt het rentepercentage gehanteerd dat geldt met ingang van 1 januari volgend op het kalenderjaar waarin de studerende is opgehouden studerende te zijn. Indien de omzetting plaatsvindt in het kalenderjaar waarin de studerende ophoudt studerende te zijn, wordt het rentepercentage gehanteerd dat geldt met ingang van 1 januari van dat kalenderjaar. Artikel 6.4, derde lid, laatste volzin, is bij de berekening van rente van overeenkomstige toepassing.   
 3.  In afwijking van het eerste en tweede lid wordt een schuld uit een lening en een schuld, ontstaan door de toepassing van artikel 3.27, tweede lid, niet omgezet.   
 4.  De in het eerste of tweede lid bedoelde lening wordt rentedragend met ingang van het tijdstip van de daar bedoelde omzetting.  
+
+### Paragraaf   6.2  
+
+####Terugbetaling levenlanglerenkrediet
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+### Artikel  6.18  
+
+####Reikwijdte
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Deze paragraaf is uitsluitend van toepassing op de terugbetaling van de lening die is ontstaan door de toekenning van het levenlanglerenkrediet.   
+2.  Artikel 299a van de Faillissementswet is van overeenkomstige toepassing op de lening die is ontstaan door de toekenning van het levenlanglerenkrediet.  
+
+### Artikel  6.19  
+
+####Terugbetalingsregels
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Met uitzondering van de artikelen 6.2a, 6.5, tweede lid, 6.6, 6.7, eerste lid, tweede volzin, en tweede en derde lid, en 6.14 is paragraaf 6.1 van overeenkomstige toepassing op de terugbetaling van het levenlanglerenkrediet, waarbij deze lening wordt aangemerkt als een lening beroepsonderwijs.   
+2.  In afwijking van het eerste lid wordt bij de toepassing van artikel 6.3 de lening aangemerkt als een lening hoger onderwijs.   
+3.  In afwijking van het eerste lid wordt bij de toepassing van artikel 6.5, derde lid, de terugbetaling uitsluitend geschorst gedurende de periode waarin de debiteur het levenlanglerenkrediet ontvangt.  
+
+### Artikel  6.20  
+
+####Nadere terugbetalingsregels
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld over de terugbetaling van de lening die is ontstaan door toekenning van het levenlanglerenkrediet waarbij tenminste regels worden gesteld over de samenloop met de terugbetaling van de lening die is ontstaan anders dan door toekenning van het levenlanglerenkrediet en over de samenloop met de terugbetaling door een partner van het levenlanglerenkrediet of een andere lening die is toegekend op grond van deze wet. 
 
 ### Hoofdstuk  7  
 
@@ -1774,6 +1954,12 @@ Op een student die voor 1 september 2007 voor het volgen van hoger onderwijs bu
 ####Afwijking van artikel 2.17 
 
 Voor een studerende die reeds voor de inwerkingtreding van artikel 2.17 studiefinanciering ontving en wiens vrijheid op de dag voorafgaande aan de inwerkingtreding van artikel 2.17 rechtens was ontnomen, wordt voor de toepassing van dat artikel als eerste dag waarop de vrijheidsontneming plaatsvindt, aangemerkt de dag van inwerkingtreding van artikel 2.17 en eindigt de aanspraak op studiefinanciering voor uitwonenden in afwijking van artikel 2.17, eerste lid, vanaf de dag dat deze vrijheidsontneming zes maanden heeft geduurd. De beëindiging gaat in op de eerste dag van de maand volgend op de maand waarin de vrijheidsontneming als bedoeld in de eerste zin zes maanden heeft geduurd.
+
+### Artikel  12.1d  
+
+####Overgangssituatie alleenstaande-ouderkorting
+
+In afwijking van de artikelen 3.9, tweede lid, vijfde volzin, 3.12, 6.10, tweede lid, onderdeel b, 6.13, 10a.8, tweede lid, en 10a.9 wordt bepaald of voor de ouder onderscheidenlijk de debiteur in het desbetreffende jaar de alleenstaande-ouderkorting, bedoeld in artikel 8.15 van de Wet inkomstenbelasting 2001, zoals dat artikel in dat jaar luidde, van toepassing is, voor zover de Wet hervorming kindregelingen in dat jaar nog niet in werking is getreden. 
 
 ###Artikel 12.2 
 
