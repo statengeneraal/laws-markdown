@@ -170,18 +170,39 @@ k. het accorderen van een vergoeding voor verhuiskosten.
 
 ### Artikel  10  
 
-1.  In afwijking van de in voorgaande artikelen opgenomen maximum bedragen die ten laste komen van het beleidsbudget zijn per te onderscheiden functionaris voor fiscale besluiten inzake de Wet vermindering afdracht loonbelasting en premie voor volksverzekeringen, de Wet bevordering speur- en ontwikkelingswerk, artikel 3.52a Wet op de Inkomstenbelasting, de nadere regels die daarvoor zijn gesteld in het Besluit RDA en artikel 3.42 van de Wet op de Inkomstenbelasting 2001, de nadere regels die daarvoor zijn gesteld in de Uitvoeringsregeling energie-investeringsaftrek alsmede andere fiscale voorzieningen, voor het Besluit stimulering duurzame energieproductie en zijn voorgangers, voor het Innovatiekrediet, en voor borgstellingen voor MKB-kredieten en garantstellingen op grond van de Regeling nationale EZ-subsidies, de navolgende maximum bedragen per verplichting van toepassing:  
+1.  In afwijking van de in voorgaande artikelen opgenomen maximum bedragen die ten laste komen van het beleidsbudget zijn per te onderscheiden functionaris voor de Regeling groenprojecten 2010 ten behoeve van groene beleggingen als bedoeld in artikel 5.14 Wet op de Inkomstenbelasting, voor fiscale besluiten inzake de Wet vermindering afdracht loonbelasting en premie voor volksverzekeringen, de Wet bevordering speur- en ontwikkelingswerk, artikel 3.52a Wet op de Inkomstenbelasting, de nadere regels die daarvoor zijn gesteld in het Besluit RDA, en artikel 3.42 van de Wet op de Inkomstenbelasting 2001, en inzake de nadere regels die daarvoor zijn gesteld in de Uitvoeringsregeling energie-investeringsaftrek, alsmede voor andere fiscale voorzieningen, de navolgende maximum bedragen per verplichting van toepassing:  
 
-| Functionaris  | Bedrag fiscaal  | Bedrag SDE  | Garantstellingen o.g.v. de Regeling nationale EZ-subsidies  | Borgstellingen MKB-kredieten o.g.v. de Regeling nationale EZ-subsidies  | Bedrag Innovatiekrediet  |
-|:---|:---|:---|:---|:---|:---|
-| Afdelingsmanager  | € 10.000.000  | € 50.000.000  | € 10.000.000  | € 10.000.000  | € 4.000.000  |
-| Teammanager  | € 4.000.000  | € 12.500.000  | € 5.000.000  | € 2.500.000  | € 3.000.000  |
-| Afdelingsmanager van de afdeling Juridische Zaken  | € 10.000.000  | € 50.000.000  | € 10.000.000  | € 10.000.000  | € 4.000.000  |
-| Teammanager en senior jurist van de afdeling Juridische Zaken  | € 4.000.000  | € 12.500.000  | € 5.000.000  | € 2.500.000  | € 3.000.000  |
-| Procescoördinator  | € 2.500.000  | € 2.500.000  | € 2.500.000  | € 1.500.000  | € 1.500.000  |
-| Uitvoeringsexpert  | € 2.500.000  | € 2.500.000  | € 2.500.000  | € 1.500.000  | € 1.500.000  |
+| Functionaris  | Bedrag aan projectvermogen Regeling groenprojecten 2010  | Bedrag overig fiscaal  |
+|:---|:---|:---|
+| Afdelingsmanager  | € 75.000.000  | € 10.000.000  |
+| Teammanager  | € 37.500.000  | € 4.000.000  |
+| Afdelingsmanager van de afdeling Juridische Zaken  | € 75.000.000  | € 10.000.000  |
+| Teammanager en senior jurist van de afdeling Juridische Zaken  | € 37.500.000  | € 4.000.000  |
+| Procescoördinator  | € 25.000.000  | € 2.500.000  |
+| Uitvoeringsexpert  | € 25.000.000  | € 2.500.000  |
 
-2.  Bij de Willekeurige Afschrijving Milieu-investeringen en de Milieu-InvesteringsAftrek wordt het maximum bedrag van ondermandaat, volmacht of machtiging als bedoeld in de artikelen 3, eerste lid, 4, eerste lid, en 7, eerste lid, en artikel 8, tweede lid, gerelateerd aan het netto fiscale voordeel, met dien verstande dat bij een melding die voor beide regelingen in aanmerking komt, het door cumulatie ontstane netto fiscale voordeel als grondslag dient.  
+2.  Bij de Willekeurige Afschrijving Milieu-investeringen en de Milieu-InvesteringsAftrek wordt het maximum bedrag van ondermandaat, volmacht of machtiging als bedoeld in de artikelen 3, eerste lid, 4, eerste lid, 7, eerste lid, en artikel 8, tweede lid, gerelateerd aan het netto fiscale voordeel, met dien verstande dat bij een melding die voor beide regelingen in aanmerking komt, het door cumulatie ontstane netto fiscale voordeel als grondslag dient.   
+3.  In afwijking van de in voorgaande artikelen opgenomen maximum bedragen die ten laste komen van het beleidsbudget zijn per te onderscheiden functionaris voor het Besluit stimulering duurzame energieproductie en haar voorgangers, voor het Innovatiekrediet, en voor borgstellingen voor MKB-kredieten en garantstellingen op grond van de Regeling nationale EZ-subsidies, de navolgende maximum bedragen per verplichting van toepassing:  
+
+| Functionaris  | Bedrag SDE  | Garantstellingen o.g.v. de Regeling nationale EZ-subsidies  | Borgstellingen MKB-kredieten o.g.v. de Regeling nationale EZ-subsidies  | Bedrag Innovatie krediet  |
+|:---|:---|:---|:---|:---|
+| Afdelingsmanager  | € 50.000.000  | € 10.000.000  | € 10.000.000  | € 4.000.000  |
+| Teammanager  | € 12.500.000  | € 5.000.000  | € 2.500.000  | € 3.000.000  |
+| Afdelingsmanager van de afdeling Juridische Zaken  | € 50.000.000  | € 10.000.000  | € 10.000.000  | € 4.000.000  |
+| Teammanager en senior jurist van de afdeling Juridische Zaken  | € 12.500.000  | € 5.000.000  | € 2.500.000  | € 3.000.000  |
+| Procescoördinator  | € 2.500.000  | € 2.500.000  | € 1.500.000  | € 1.500.000  |
+| Uitvoeringsexpert  | € 2.500.000  | € 2.500.000  | € 1.500.000  | € 1.500.000  |
+
+4.  In afwijking van de voorgaande artikelen zijn per te onderscheiden functionaris voor het Dutch Good Growth Fund de navolgende maximum bedragen per financiële verplichting die ten laste komt van het beleidsbudget van toepassing:  
+
+| Functionaris  | Bedrag lening  | Bedrag garantie  | Bedrag cofinanciering  | Bedrag totaal lening, garantie en cofinanciering  |
+|:---|:---|:---|:---|:---|
+| Afdelingsmanager  | € 2.500.000  | € 6.000.000  | € 2.500.000  | € 6.000.000  |
+| Teammanager  | € 1.500.000  | € 2.500.000  | € 1.500.000  | € 2.500.000  |
+| Afdelingsmanager van de afdeling Juridische Zaken  | € 2.500.000  | € 6.000.000  | € 2.500.000  | € 6.000.000  |
+| Teammanager en senior jurist van de afdeling Juridische Zaken  | € 1.500.000  | € 2.500.000  | € 1.500.000  | € 2.500.000  |
+| Procescoördinator  | € 1.500.000  | € 2.500.000  | € 1.500.000  | € 2.500.000  |
+| Uitvoeringsexpert  | € 1.500.000  | € 2.500.000  | € 1.500.000  | € 2.500.000  |
 
 ### §  3  
 

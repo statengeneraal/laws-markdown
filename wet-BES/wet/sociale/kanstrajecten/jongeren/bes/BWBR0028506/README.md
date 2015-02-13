@@ -6,11 +6,11 @@
 
 ####Begripsbepalingen
 
-1.  In deze wet en de daarop berustende bepalingen wordt verstaan onder:  *deelnemer:* de jongere die aan het voor hem vastgesteld sociaal kanstraject deelneemt;  *deelnemersregister:* het register, bedoeld in artikel 6, eerste lid, waarin de deelnemers staan ingeschreven;  *inspecteur*: de inspecteur van het onderwijs, bedoeld in de [Wet op het onderwijstoezicht](../../../../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md);.  *jongere*: een ingezetene van het openbaar lichaam Bonaire, Sint Eustatius of Saba die de leeftijd van 18 jaar heeft bereikt, maar nog niet de leeftijd van 25 jaar;  *kanstrajecttoelage*: een toelage als bedoeld in artikel 11, eerste lid.  *Onze Minister*: Onze Minister van Onderwijs, Cultuur en Wetenschap;  *openbaar lichaam: *het openbaar lichaam Bonaire, Sint Eustatius of Saba;  *persoonsbestand*: de gegevens met betrekking tot een jongere, zoals opgenomen in het deelnemersregister;  *projectbureau*: het bureau, bedoeld in artikel 5, eerste lid;  *raamplan sociale kanstrajecten*: een plan als bedoeld in artikel 8;  *sociaal kanstraject:* een sociaal kanstraject als bedoeld in artikel 9;  *startkwalificatie WSKJ*: een diploma van een opleiding als bedoeld in [artikel 7.2.2, eerste lid onder a tot en met e, van de Wet educatie en beroepsonderwijs BES](../../../../../../../wet-BES/wet/educatie/en/beroepsonderwijs/bes/BWBR0028395/README.md) of een diploma hoger algemeen voortgezet onderwijs of voorbereidend wetenschappelijk onderwijs als bedoeld in [artikel 13](../../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md) onderscheidenlijk [artikel 14 van de Wet voortgezet onderwijs BES](../../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md);  *uitvoeringsinstantie:* een privaatrechtelijke rechtspersoon met volledige rechtsbevoegdheid die wordt bekostigd voor de uitvoering van de taak, bedoeld in artikel 5, tweede lid;  *voortijdige schoolverlater WSKJ:* degene die 
+1.  In deze wet en de daarop berustende bepalingen wordt verstaan onder:  *deelnemer:* de jongere die aan het voor hem vastgesteld sociaal kanstraject deelneemt;  *deelnemersregister:* het register, bedoeld in artikel 6, eerste lid, waarin de deelnemers staan ingeschreven;  *inspecteur*: de inspecteur van het onderwijs, bedoeld in de Wet op het onderwijstoezicht;.  *jongere*: een ingezetene van het openbaar lichaam Bonaire, Sint Eustatius of Saba die de leeftijd van 18 jaar heeft bereikt, maar nog niet de leeftijd van 25 jaar;  *kanstrajecttoelage*: een toelage als bedoeld in artikel 11, eerste lid.  *Onze Minister*: Onze Minister van Onderwijs, Cultuur en Wetenschap;  *openbaar lichaam: *het openbaar lichaam Bonaire, Sint Eustatius of Saba;  *persoonsbestand*: de gegevens met betrekking tot een jongere, zoals opgenomen in het deelnemersregister;  *projectbureau*: het bureau, bedoeld in artikel 5, eerste lid;  *raamplan sociale kanstrajecten*: een plan als bedoeld in artikel 8;  *sociaal kanstraject:* een sociaal kanstraject als bedoeld in artikel 9;  *startkwalificatie WSKJ*: een diploma van een opleiding als bedoeld in artikel 7.2.2, eerste lid onder a tot en met e, van de Wet educatie en beroepsonderwijs BES of een diploma hoger algemeen voortgezet onderwijs of voorbereidend wetenschappelijk onderwijs als bedoeld in artikel 13 onderscheidenlijk artikel 14 van de Wet voortgezet onderwijs BES;  *uitvoeringsinstantie:* een privaatrechtelijke rechtspersoon met volledige rechtsbevoegdheid die wordt bekostigd voor de uitvoering van de taak, bedoeld in artikel 5, tweede lid;  *voortijdige schoolverlater WSKJ:* degene die 
 
 a. het onderwijs aan de school waaraan hij is ingeschreven gedurende een aaneengesloten periode van ten minste een maand of een door het bevoegd gezag te bepalen kortere periode zonder geldige reden niet meer volgt, of  
 
-b. niet meer aan een school is ingeschreven en evenmin is ingeschreven aan een instelling als bedoeld in de [Wet educatie en beroepsonderwijs BES](../../../../../../../wet-BES/wet/educatie/en/beroepsonderwijs/bes/BWBR0028395/README.md).     
+b. niet meer aan een school is ingeschreven en evenmin is ingeschreven aan een instelling als bedoeld in de Wet educatie en beroepsonderwijs BES.     
 2.  Onder voortijdige schoolverlater wordt niet verstaan degene die beschikt over een startkwalificatie WSKJ.  
 
 ### Artikel  2  
@@ -19,7 +19,7 @@ b. niet meer aan een school is ingeschreven en evenmin is ingeschreven aan een i
 
 Voor sociale kanstrajecten komen in aanmerking jongeren die: 
 
-a. geen onderwijs volgen dat bekostigd wordt op grond van de [Wet voortgezet onderwijs BES](../../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md) of de [Wet educatie en beroepsonderwijs BES](../../../../../../../wet-BES/wet/educatie/en/beroepsonderwijs/bes/BWBR0028395/README.md), en  
+a. geen onderwijs volgen dat bekostigd wordt op grond van de Wet voortgezet onderwijs BES of de Wet educatie en beroepsonderwijs BES, en  
 
 b. niet beschikken over een startkwalificatie WSKJ en geen betaalde arbeid verrichten   
 
@@ -114,7 +114,7 @@ i. de wijze waarop het bedrijfsleven betrokken is bij de inhoud van kanstrajecte
 
 j. de periode gedurende welke het raamplan sociale kanstrajecten van kracht is;  
 
-k. een begroting van geraamde inkomsten en uitgaven, waarin ten minste worden opgenomen het aantal deelnemers, de aan hen te verstrekken kanstrajecttoelage en de zorg die bij het expertisecentrum onderwijszorg, bedoeld in [artikel 3.2. van de Wet educatie en beroepsonderwijs BES](../../../../../../../wet-BES/wet/educatie/en/beroepsonderwijs/bes/BWBR0028395/README.md), wordt ingekocht.     
+k. een begroting van geraamde inkomsten en uitgaven, waarin ten minste worden opgenomen het aantal deelnemers, de aan hen te verstrekken kanstrajecttoelage en de zorg die bij het expertisecentrum onderwijszorg, bedoeld in artikel 3.2. van de Wet educatie en beroepsonderwijs BES, wordt ingekocht.     
 2.  Het bestuurscollege stelt het raamplan sociale kanstrajecten vast binnen 60 dagen nadat het uitvoeringsinstantie dat aan hem heeft voorgelegd.  
 
 ### Artikel  9  
@@ -172,8 +172,8 @@ b. de procedure van aanvraag, intrekking, wijziging en terugvordering van de kan
 
 ####Zorgstructuur
 
-1.  De uitvoeringsinstantie is aangesloten bij een samenwerkingsverband als bedoeld in [artikel 26 van de Wet primair onderwijs BES](../../../../../../../wet-BES/wet/primair/onderwijs/bes/BWBR0030280/README.md), in [artikel 67 van de Wet voortgezet onderwijs BES](../../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md) en [artikel 3.2 van de Wet educatie en beroepsonderwijs BES](../../../../../../../wet-BES/wet/educatie/en/beroepsonderwijs/bes/BWBR0028395/README.md).   
-2.  De [artikelen 3.2 tot en met 3.7 van de Wet educatie en beroepsonderwijs BES](../../../../../../../wet-BES/wet/educatie/en/beroepsonderwijs/bes/BWBR0028395/README.md) zijn van overeenkomstige toepassing.  
+1.  De uitvoeringsinstantie is aangesloten bij een samenwerkingsverband als bedoeld in artikel 26 van de Wet primair onderwijs BES, in artikel 67 van de Wet voortgezet onderwijs BES en artikel 3.2 van de Wet educatie en beroepsonderwijs BES.   
+2.  De artikelen 3.2 tot en met 3.7 van de Wet educatie en beroepsonderwijs BES zijn van overeenkomstige toepassing.  
 
 ### Artikel  13  
 
@@ -197,7 +197,7 @@ De uitvoeringsinstantie zendt jaarlijks binnen drie maanden na afloop van het ja
 a. dat de bijdrage rechtmatig is aangewend;  
 
 b. of, en zo ja op welke wijze, ten aanzien van het voorafgaande jaar, gebruik is gemaakt van de verstrekte bijdrage.     
-2.  Het verslag, waarin de financiële verantwoording, bedoeld in het eerste lid, is vervat, wordt vergezeld van een verklaring van een deskundige als bedoeld in [artikel 121, zesde lid, van Boek 2, van het Burgerlijk Wetboek BES](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/2/BWBR0028744/README.md).   
+2.  Het verslag, waarin de financiële verantwoording, bedoeld in het eerste lid, is vervat, wordt vergezeld van een verklaring van een deskundige als bedoeld in artikel 121, zesde lid, van Boek 2, van het Burgerlijk Wetboek BES.   
 3.  Bij de aanwijzing van de deskundige bedingt de uitvoeringsinstantie dat de controle overeenkomstig een door Onze Minister vast te stellen controleprotocol plaatsvindt en dat aan Onze Minister op diens verzoek inzicht wordt geboden in de controlerapporten van de deskundige.  
 
 ### Artikel  16  
@@ -216,7 +216,7 @@ c. indien de uitvoeringsinstantie na de vaststelling van de bijdrage niet heeft 
 
 ####Bijzondere uitkering
 
-1.  Onze Minister verstrekt jaarlijks, binnen het raam van de door de begrotingswetgever beschikbaar gestelde middelen, per openbaar lichaam een bijzondere uitkering als bedoeld in [artikel 91 van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../../wet-BES/wet/financiën/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028151/README.md) ter tegemoetkoming in de kosten van de activiteiten van het projectbureau en van de uitvoeringsinstantie.   
+1.  Onze Minister verstrekt jaarlijks, binnen het raam van de door de begrotingswetgever beschikbaar gestelde middelen, per openbaar lichaam een bijzondere uitkering als bedoeld in artikel 91 van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba ter tegemoetkoming in de kosten van de activiteiten van het projectbureau en van de uitvoeringsinstantie.   
 2.  De uitkering wordt uiterlijk in september verstrekt en heeft betrekking op het daarop volgende kalenderjaar. Bij of krachtens algemene maatregel van bestuur worden regels gegeven voor de berekening en kunnen regels worden gegeven voor de betaling van de uitkering.   
 3.  Het bestuurscollege dient de aanvraag voor een bijzondere uitkering voor 1 juli in. De aanvraag gaat vergezeld van een begroting van geraamde inkomsten en uitgaven, waarin in ieder geval wordt opgenomen het verwachte aantal deelnemers en de aan hen te verstrekken kanstrajecttoelage.  
 
@@ -224,7 +224,7 @@ c. indien de uitvoeringsinstantie na de vaststelling van de bijdrage niet heeft 
 
 ####Verantwoording bijzondere uitkering
 
-1.  Het bestuurscollege verantwoordt jegens Onze Minister de bijzondere uitkering in een bijlage bij de jaarrekening, bedoeld in [artikel 28, eerste lid, van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../../wet-BES/wet/financiën/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028151/README.md). Uit de bijlage blijkt op welke wijze de uitkering is aangewend en de rechtmatigheid daarvan.   
+1.  Het bestuurscollege verantwoordt jegens Onze Minister de bijzondere uitkering in een bijlage bij de jaarrekening, bedoeld in artikel 28, eerste lid, van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba. Uit de bijlage blijkt op welke wijze de uitkering is aangewend en de rechtmatigheid daarvan.   
 2.  Onze Minister kan nadere regelen stellen omtrent de in de bijlage te verstrekken informatie voor zover deze nodig is voor een beoordeling van besteding van de bijzondere uitkering.  
 
 ### Artikel  18  
@@ -258,7 +258,7 @@ b. het verrekenen van de middelen met de bijzondere uitkering aan het desbetreff
 
 1.  Met de uitoefening van het toezicht op de naleving van deze wet zijn belast de door Onze Minister aangewezen toezichthouders.   
 2.  Met het toezicht op de kwaliteit van de aangeboden kanstrajecten is de inspecteur belast.   
-3.  De [artikelen 5:12](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:15](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:16](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:20 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van toepassing.  
+3.  De artikelen 5:12, 5:15, 5:16 en 5:20 van de Algemene wet bestuursrecht zijn van toepassing.  
 
 ### Artikel  21  
 

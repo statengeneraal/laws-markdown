@@ -3,7 +3,7 @@
 ##Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 30 mei 2014, 2014-0000048131, tot vaststelling van de formulieren in gebruik bij het Landelijk Register Kinderopvang en Peuterspeelzalen (LRKP)
 
 De Minister van Sociale Zaken en Werkgelegenheid,  
-Gelet op [artikel 5, vierde lid](../../../../../../../../../../AMvB/besluit/registers/kinderopvang/en/peuterspeelzaalwerk/BWBR0030892/README.md), [artikel 7, vijfde lid](../../../../../../../../../../AMvB/besluit/registers/kinderopvang/en/peuterspeelzaalwerk/BWBR0030892/README.md), [artikel 11, derde lid](../../../../../../../../../../AMvB/besluit/registers/kinderopvang/en/peuterspeelzaalwerk/BWBR0030892/README.md) en [artikel 13, vijfde lid van het Besluit registers kinderopvang, buitenlandse kinderopvang en peuterspeelzaalwerk](../../../../../../../../../../AMvB/besluit/registers/kinderopvang/en/peuterspeelzaalwerk/BWBR0030892/README.md);
+Gelet op artikel 5, vierde lid, artikel 7, vijfde lid, artikel 11, derde lid en artikel 13, vijfde lid van het Besluit registers kinderopvang, buitenlandse kinderopvang en peuterspeelzaalwerk;
 Besluit:    
 
 ### Artikel  1  
@@ -55,80 +55,81 @@ Aanvraagformulieren, inclusief de daarin opgenomen toelichting:
 
 ####Aanvraag Exploitatie kinderdagverblijf of buitenschoolse opvang
 
-![253705](http://wetten.overheid.nl/Illustration/253705)
-![253706](http://wetten.overheid.nl/Illustration/253706)
-![253707](http://wetten.overheid.nl/Illustration/253707)
-![253708](http://wetten.overheid.nl/Illustration/253708)
-![253709](http://wetten.overheid.nl/Illustration/253709)
+![255013](http://wetten.overheid.nl/Illustration/255013)
+![255014](http://wetten.overheid.nl/Illustration/255014)
+![255015](http://wetten.overheid.nl/Illustration/255015)
+![255016](http://wetten.overheid.nl/Illustration/255016)
+![255017](http://wetten.overheid.nl/Illustration/255017)
 
 ### 2  
 
 ####Aanvraag Exploitatie peuterspeelzaal
 
-![253710](http://wetten.overheid.nl/Illustration/253710)
-![253711](http://wetten.overheid.nl/Illustration/253711)
-![253712](http://wetten.overheid.nl/Illustration/253712)
-![253713](http://wetten.overheid.nl/Illustration/253713)
-![253714](http://wetten.overheid.nl/Illustration/253714)
+![255018](http://wetten.overheid.nl/Illustration/255018)
+![255019](http://wetten.overheid.nl/Illustration/255019)
+![255020](http://wetten.overheid.nl/Illustration/255020)
+![255021](http://wetten.overheid.nl/Illustration/255021)
+![255022](http://wetten.overheid.nl/Illustration/255022)
 
 ### 3  
 
 ####Aanvraag Exploitatie gastouderopvang
 
-![253715](http://wetten.overheid.nl/Illustration/253715)
-![253716](http://wetten.overheid.nl/Illustration/253716)
-![253717](http://wetten.overheid.nl/Illustration/253717)
-![253718](http://wetten.overheid.nl/Illustration/253718)
+![255023](http://wetten.overheid.nl/Illustration/255023)
+![255024](http://wetten.overheid.nl/Illustration/255024)
+![255025](http://wetten.overheid.nl/Illustration/255025)
+![255026](http://wetten.overheid.nl/Illustration/255026)
 
 ### 4  
 
 ####Aanvraag Exploitatie gastouderbureau
 
-![253719](http://wetten.overheid.nl/Illustration/253719)
-![253720](http://wetten.overheid.nl/Illustration/253720)
-![253721](http://wetten.overheid.nl/Illustration/253721)
-![253722](http://wetten.overheid.nl/Illustration/253722)
+![255027](http://wetten.overheid.nl/Illustration/255027)
+![255028](http://wetten.overheid.nl/Illustration/255028)
+![255029](http://wetten.overheid.nl/Illustration/255029)
+![255030](http://wetten.overheid.nl/Illustration/255030)
+![255031](http://wetten.overheid.nl/Illustration/255031)
 
 ### 5  
 
 ####Wijziging Kinderdagverblijf of buitenschoolse opvang
 
-![253723](http://wetten.overheid.nl/Illustration/253723)
-![253724](http://wetten.overheid.nl/Illustration/253724)
-![253725](http://wetten.overheid.nl/Illustration/253725)
-![253726](http://wetten.overheid.nl/Illustration/253726)
-![253727](http://wetten.overheid.nl/Illustration/253727)
-![253728](http://wetten.overheid.nl/Illustration/253728)
+![255032](http://wetten.overheid.nl/Illustration/255032)
+![255033](http://wetten.overheid.nl/Illustration/255033)
+![255034](http://wetten.overheid.nl/Illustration/255034)
+![255035](http://wetten.overheid.nl/Illustration/255035)
+![255036](http://wetten.overheid.nl/Illustration/255036)
+![255037](http://wetten.overheid.nl/Illustration/255037)
 
 ### 6  
 
 ####Wijziging Peuterspeelzaal
 
-![253729](http://wetten.overheid.nl/Illustration/253729)
-![253730](http://wetten.overheid.nl/Illustration/253730)
-![253731](http://wetten.overheid.nl/Illustration/253731)
-![253732](http://wetten.overheid.nl/Illustration/253732)
-![253733](http://wetten.overheid.nl/Illustration/253733)
-![253734](http://wetten.overheid.nl/Illustration/253734)
+![255038](http://wetten.overheid.nl/Illustration/255038)
+![255039](http://wetten.overheid.nl/Illustration/255039)
+![255040](http://wetten.overheid.nl/Illustration/255040)
+![255041](http://wetten.overheid.nl/Illustration/255041)
+![255042](http://wetten.overheid.nl/Illustration/255042)
+![255043](http://wetten.overheid.nl/Illustration/255043)
 
 ### 7  
 
 ####Wijziging Gastouderopvang
 
-![253735](http://wetten.overheid.nl/Illustration/253735)
-![253736](http://wetten.overheid.nl/Illustration/253736)
-![253737](http://wetten.overheid.nl/Illustration/253737)
-![253738](http://wetten.overheid.nl/Illustration/253738)
-![253739](http://wetten.overheid.nl/Illustration/253739)
+![255044](http://wetten.overheid.nl/Illustration/255044)
+![255045](http://wetten.overheid.nl/Illustration/255045)
+![255046](http://wetten.overheid.nl/Illustration/255046)
+![255047](http://wetten.overheid.nl/Illustration/255047)
+![255048](http://wetten.overheid.nl/Illustration/255048)
 
 ### 8  
 
 ####Wijziging Gastouderbureau
 
-![253740](http://wetten.overheid.nl/Illustration/253740)
-![253741](http://wetten.overheid.nl/Illustration/253741)
-![253741](http://wetten.overheid.nl/Illustration/253741)
-![253742](http://wetten.overheid.nl/Illustration/253742)
-![253743](http://wetten.overheid.nl/Illustration/253743)
-![253744](http://wetten.overheid.nl/Illustration/253744)
+![255049](http://wetten.overheid.nl/Illustration/255049)
+![255050](http://wetten.overheid.nl/Illustration/255050)
+![255051](http://wetten.overheid.nl/Illustration/255051)
+![255052](http://wetten.overheid.nl/Illustration/255052)
+![255053](http://wetten.overheid.nl/Illustration/255053)
+![255054](http://wetten.overheid.nl/Illustration/255054)
 

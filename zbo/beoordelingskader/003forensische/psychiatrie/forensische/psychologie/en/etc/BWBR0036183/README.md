@@ -1,7 +1,8 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Beoordelingskader 003.Forensische Psychiatrie, Forensische Psychologie en Forensische Orthopedagogiek – Versie 2.3 (Ingangsdatum 1 januari 2015)
+##Beoordelingskader 003. Forensische Psychiatrie, Forensische Psychologie en Forensische Orthopedagogiek
 
+*Omlijning, registratie-eisen en toetsingsprocedure*  Versie 2.3 – (Ingangsdatum 1 januari 2015)   
 ### Deel  I  
 
 ####Omlijning Forensische Psychiatrie, Forensische Psychologie en Forensische Orthopedagogiek
@@ -63,7 +64,10 @@ Het NRGD onderscheidt binnen de Forensische Psychiatrie, Forensische Psychologie
 
 ####Registratie
 
-Indien zijn expertise zich daartoe uitstrekt, kan een deskundige voor meer dan één deelgebied worden geregistreerd. Het register zal de naam van de desbetreffende deskundige vermelden als een deskundige op één of meer van bovenstaande deelgebieden.  *Toelichting:*  Het College wijst erop dat de kennis en ervaring die benodigd is voor de categorieën ‘Strafrecht volwassene’ en ‘Strafrecht jeugdige’ zodanig uiteen lopen dat het tot de mogelijkheden behoort dat een aanvrager na toetsing voor de ene categorie wel, maar voor de andere categorie niet wordt geregistreerd. Deze categorieën zijn immers aangemerkt als aparte deskundigheidsgebieden. Gedacht wordt hierbij aan verschillen in onderzoeksmethoden, gebruikte testen, diagnostiek, kennis van ontwikkeling(stadia), de betreffende rechtscontext, behandelmogelijkheden en in betrokken ketenpartners. De aanvrager die zich voor beide categorieën wil inschrijven wordt voor elke categorie apart getoetst. Bij de samenstelling van de toetsingsadviescommissies wordt uiteraard zoveel mogelijk rekening gehouden met het specialisme van de vakinhoudelijke toetsers.      
+Indien zijn expertise zich daartoe uitstrekt, kan een deskundige voor meer dan één deelgebied worden geregistreerd. Het register zal de naam van de desbetreffende deskundige vermelden als een deskundige op één of meer van bovenstaande deelgebieden. 
+### *Toelichting:* 
+
+Het College wijst erop dat de kennis en ervaring die benodigd is voor de categorieën ‘Strafrecht volwassene’ en ‘Strafrecht jeugdige’ zodanig uiteen lopen dat het tot de mogelijkheden behoort dat een aanvrager na toetsing voor de ene categorie wel, maar voor de andere categorie niet wordt geregistreerd. Deze categorieën zijn immers aangemerkt als aparte deskundigheidsgebieden. Gedacht wordt hierbij aan verschillen in onderzoeksmethoden, gebruikte testen, diagnostiek, kennis van ontwikkeling(stadia), de betreffende rechtscontext, behandelmogelijkheden en in betrokken ketenpartners. De aanvrager die zich voor beide categorieën wil inschrijven wordt voor elke categorie apart getoetst. Bij de samenstelling van de toetsingsadviescommissies wordt uiteraard zoveel mogelijk rekening gehouden met het specialisme van de vakinhoudelijke toetsers.      
 ### Deel  II  
 
 ####Registratie-eisen Forensische Psychiatrie, Forensische Psychologie en Forensische Orthopedagogiek
@@ -76,7 +80,7 @@ De kwaliteitseisen, geformuleerd in het tweede lid van artikel 12 van het Brdis 
 
 A. Initiële aanvrager: een ervaren rapporteur (i) of een nieuwe rapporteur (ii). (i) Een ervaren rapporteur heeft zelfstandig zaaksrapporten opgemaakt. (ii) Een nieuwe rapporteur is (nog) niet in staat geweest zelfstandig zaaksrapporten op te maken.  
 
-B. Heraanvrager: een geregistreerde deskundige die na registratie voor een periode van vier jaar een aanvraag indient om zich te laten herregistreren (iii) en een geregistreerde deskundige die na registratie voor beperkte duur een aanvraag indient om zich te laten registreren voor een periode van vier jaar (iv).      
+B.  Heraanvrager: een geregistreerde deskundige die na registratie voor een periode van vier jaar een aanvraag indient om zich te laten herregistreren (iii) en een geregistreerde deskundige die na registratie voor beperkte duur een aanvraag indient om zich te laten registreren voor een periode van vier jaar (iv).      
 ### 2  
 
 ####Registratie-eisen Forensische Psychiatrie, Forensische Psychologie en Forensische Orthopedagogiek
@@ -91,10 +95,10 @@ a. voor de psycholoog respectievelijk de orthopedagoog, met goed gevolg een gedr
 
 b. voor de psychiater, met goed gevolg een geneeskundige master/doctoraal opleiding aan een universiteit te hebben afgerond en de desbetreffende titel te mogen voeren.  *en voor a. en b.*   
 
-c. de ontwikkelingen van de wetenschappelijke literatuur bij te houden.   
+c. de ontwikkelingen van de wetenschappelijke literatuur bij te houden. 
 ### *Toelichting:* 
 
-Binnen de verschillende beroepsopleidingen worden diagnostische vaardigheden geleerd. Uitgangspunt is dat de rapporteur op dit gebied bekwaam wordt geacht te zijn. Voor de toetsing door het NRGD gaat het nadrukkelijk niet om een herwaardering van de basisvaardigheden van de psychiater, psycholoog of orthopedagoog, maar om de toepassing van die vaardigheden in de forensische context c.q. een toetsing van de forensische deskundigheid van de rapporteur. De onderbouwing van de diagnose in het rapport en de (eventuele) doorwerking van de diagnose in de ten laste gelegde feiten zijn aspecten die de toetsingsadviescommissie bij haar oordeel zal betrekken.  
+Binnen de verschillende beroepsopleidingen worden diagnostische vaardigheden geleerd. Uitgangspunt is dat de rapporteur op dit gebied bekwaam wordt geacht te zijn. Voor de toetsing door het NRGD gaat het nadrukkelijk niet om een herwaardering van de basisvaardigheden van de psychiater, psycholoog of orthopedagoog, maar om de toepassing van die vaardigheden in de forensische context c.q. een toetsing van de forensische deskundigheid van de rapporteur. De onderbouwing van de diagnose in het rapport en de (eventuele) doorwerking van de diagnose in de ten laste gelegde feiten zijn aspecten die de toetsingsadviescommissie bij haar oordeel zal betrekken.    
 
 2. als forensische basis:  *onderscheiden per type aanvrager:*  
 
@@ -133,10 +137,10 @@ Om de aanvrager na publicatie van deze eisen voldoende tijd te geven collegial r
 
 | Jaar*  | Eis collegial review  | Eis intervisie  | Eis deskundigheidsbevordering  |
 |:---|:---|:---|:---|
-| 2014  | Min. 2 rapporten op de lijst  | 8 uur  | 12 uur  |
-| 2015  | Min. 4 rapporten op de lijst  | 12 uur  | 16 uur  |
-| 2016  | Min. 6 rapporten op de lijst  | 18 uur  | 24 uur  |
-| 2017  | Min. 8 rapporten op de lijst  | 32 uur  | 48 uur  |
+| 2014  | Min. 2 rapporten op de lijst  | 8 uur in de afgelopen 4 jaar  | 12 uur in de afgelopen 4 jaar  |
+| 2015  | Min. 4 rapporten op de lijst  | 12 uur in de afgelopen 4 jaar  | 16 uur in de afgelopen 4 jaar  |
+| 2016  | Min. 6 rapporten op de lijst  | 18 uur in de afgelopen 4 jaar  | 24 uur in de afgelopen 4 jaar  |
+| 2017  | Min. 8 rapporten op de lijst  | 32 uur in de afgelopen 4 jaar  | 48 uur in de afgelopen 4 jaar  |
 
 * De achter de jaartallen genoteerde eisen gelden voor alle A(i) initiële aanvragen dan wel B(iii) heraanvragen waarvan de registratie in dat jaar van rechtswege verloopt, respectievelijk in 2014, in 2015, in 2016 of in 2017. Bijvoorbeeld, bij een aanvraag voor een (her)registratie in 2014, dient te zijn voldaan aan respectievelijk 2 rapporten onder collegial review, 8 uur structurele forensische intervisie en 12 uur forensisch relevante deskundigheidsbevordering. 
 
@@ -148,17 +152,17 @@ Om de aanvrager na publicatie van deze eisen voldoende tijd te geven collegial r
 
 – in de afgelopen 2 jaar minimaal 16 uur te hebben geparticipeerd in gestructureerde forensische intervisie (zie toelichting hieronder);  
 
-– in de afgelopen 2 jaar minimaal 24 uur aan forensische deskundigheidsbevordering te hebben gedaan (aan te tonen door bijvoorbeeld congresbezoek, publicaties en het volgen/geven van trainingen) (zie toelichting hieronder). 
+– in de afgelopen 2 jaar minimaal 24 uur aan forensische deskundigheidsbevordering te hebben gedaan (aan te tonen door bijvoorbeeld congresbezoek, publicaties en het volgen/geven van trainingen) (zie toelichting hieronder).   
 ### *Toelichting:* 
 
 Om de aanvrager na publicatie van deze eisen voldoende tijd te geven collegial review, structurele intervisie en forensische deskundigheidsbevordering te organiseren, respectievelijk te volgen worden de hierboven genoemde eisen voor B(iv) heraanvraag van een voorwaardelijk geregistreerde deskundige als volgt stapsgewijs ingevoerd:  
 
 | Jaar  | Eis collegial review  | Eis intervisie  | Eis  deskundigheidsbevordering  |
 |:---|:---|:---|:---|
-| 2014  | Min. 1 rapport op de lijst  | 4 uur  | 6 uur  |
-| 2015  | Min. 2 rapporten op de lijst  | 6 uur  | 8 uur  |
-| 2016  | Min. 3 rapporten op de lijst  | 9 uur  | 12 uur  |
-| 2017  | Min. 4 rapporten op de lijst  | 16 uur  | 24 uur  |
+| 2014  | Min. 1 rapport op de lijst  | 4 uur in de afgelopen 2 jaar  | 6 uur in de afgelopen 2 jaar  |
+| 2015  | Min. 2 rapporten op de lijst  | 6 uur in de afgelopen 2 jaar  | 8 uur in de afgelopen 2 jaar  |
+| 2016  | Min. 3 rapporten op de lijst  | 9 uur in de afgelopen 2 jaar  | 12 uur in de afgelopen 2 jaar  |
+| 2017  | Min. 4 rapporten op de lijst  | 16 uur in de afgelopen 2 jaar  | 24 uur in de afgelopen 2 jaar  |
 
 * De achter de jaartallen genoteerde eisen gelden voor alle B(iv) aanvragen voor registraties die in dat jaar van rechtswege verlopen, respectievelijk in 2014, in 2015, in 2016 of in 2017. Bijvoorbeeld, bij een aanvraag voor een herregistratie in 2015, dient te zijn voldaan aan respectievelijk 2 rapporten onder collegial review, 6 uur structurele forensische intervisie en 8 uur forensisch relevante deskundigheidsbevordering. 
 
@@ -178,7 +182,7 @@ Onder intervisie verstaat het NRGD een gestructureerde (interdisciplinaire) bije
 Onder deskundigheidsbevordering verstaat het NRGD alle (scholing)activiteiten die bijdragen aan de voortdurende ontwikkeling van kennis en vaardigheden, hetgeen wenselijk en noodzakelijk is om het vak van gerechtelijk deskundige verantwoord op professionele wijze te kunnen blijven uitoefenen. 
 ### *Verzoek om uitzondering* 
 
-Indien de aanvrager wil dat het College een uitzondering voor hem maakt op grond van hetgeen hiervoor staat weergegeven, dan wel omdat de aanvrager wegens omstandigheden nog niet (volledig) aan de eis van 12 (2) onder a van het Besluit voldoet, dient de aanvrager hiertoe bij het College een verzoek in te dienen. Het gemotiveerde verzoek moet als begeleidende brief bij de (her)aanvraag worden ingediend.  
+Indien de aanvrager wil dat het College een uitzondering voor hem maakt op grond van hetgeen hiervoor staat weergegeven, dan wel omdat de aanvrager wegens omstandigheden nog niet (volledig) aan de eis van 12 (2) onder a van het Besluit voldoet, dient de aanvrager hiertoe bij het College een verzoek in te dienen. Het gemotiveerde verzoek moet als begeleidende brief bij de (her)aanvraag worden ingediend.        
 
 12(2) b.  * (...) beschikt over voldoende kennis van en ervaring in het desbetreffende rechtsgebied en voldoende bekend is met de positie en de rol van de deskundige daarin.*  De generieke eisen zijn de volgende: 
 
@@ -186,33 +190,33 @@ Indien de aanvrager wil dat het College een uitzondering voor hem maakt op grond
 
 * context van het strafrecht: 
 
-○ Trias Politica, onderscheid privaat-, bestuurs- en strafrecht.    
+o Trias Politica, onderscheid privaat-, bestuurs- en strafrecht.    
 
 * kennis van het strafprocesrecht: 
 
-○ onderzoek door de rechter-commissaris;  
+o onderzoek door de rechter-commissaris;  
 
-○ dwangmiddelen;  
+o dwangmiddelen;  
 
-○ procesfasen;  
+o procesfasen;  
 
-○ actoren in de strafrechtsketen (taken, bevoegdheden, verantwoordelijkheden);  
+o actoren in de strafrechtsketen (taken, bevoegdheden, verantwoordelijkheden);  
 
-○ regelgeving deskundige in het Wetboek van Strafvordering (positie en bevoegdheden opdrachtgever, rechtspositie deskundige, positie en bevoegdheden van advocaat, vormen van tegenonderzoek, deskundigenregister in de strafrechtelijke context);  
+o regelgeving deskundige in het Wetboek van Strafvordering (positie en bevoegdheden opdrachtgever, rechtspositie deskundige, positie en bevoegdheden van advocaat, vormen van tegenonderzoek, deskundigenregister in de strafrechtelijke context);  
 
-○ wettelijke besluitvormingskader van de rechter in de strafzaak (beslissingsschema art. 350 Sv), ook met het oog op de relevantie van de opdracht aan de deskundige en op de vraagstelling;  
+o wettelijke besluitvormingskader van de rechter in de strafzaak (beslissingsschema art. 350 Sv), ook met het oog op de relevantie van de opdracht aan de deskundige en op de vraagstelling;  
 
-○ verloop van de strafzaak ter zitting en de positie van de deskundige in de rechtsgang.    
+o verloop van de strafzaak ter zitting en de positie van de deskundige in de rechtsgang.    
 
 * materiële strafrecht: 
 
-○ sancties en strafuitsluitingsgronden (zeer globaal).    
+o sancties en strafuitsluitingsgronden (zeer globaal).    
 
 * kennis van de juridische context van de kwaliteitswaarborging van de deskundige en het onderzoek: 
 
-○ positie en rol van ketenpartners bij de kwaliteitsborging van de rapportage;  
+o positie en rol van ketenpartners bij de kwaliteitsborging van de rapportage;  
 
-○ beroepscodes en verwante regelgeving in relatie tot de Gedragscode gerechtelijk deskundigen.       De specifieke eisen voor FPPO zijn de volgende: 
+o beroepscodes en verwante regelgeving in relatie tot de Gedragscode gerechtelijk deskundigen.       De specifieke eisen voor FPPO zijn de volgende: 
 
 – voldoende kennis van zowel het volwassenen- als het jeugdstrafrecht te bezitten om een opdrachtgever te informeren over de reikwijdte van het eigen deskundigheidsgebied en de opdrachtgever door te verwijzen indien de eigen deskundigheid in een specifieke zaak niet geëigend is.  
 
@@ -226,7 +230,7 @@ Indien de aanvrager wil dat het College een uitzondering voor hem maakt op grond
 
 – voor registratie op het gebied van het jeugdstrafrecht tevens kennis van: 
 
-○ grondslagen jeugdstrafrecht 
+* grondslagen jeugdstrafrecht 
 
 – jeugdsanctiestelsel  
 
@@ -238,7 +242,7 @@ Indien de aanvrager wil dat het College een uitzondering voor hem maakt op grond
 
 – landelijk kader forensische diagnostiek in de jeugdzorg    
 
-○ kennis van het strafprocesrecht: 
+* kennis van het strafprocesrecht: 
 
 – specifieke bepalingen voor de jeugdige;  
 
@@ -252,7 +256,7 @@ Indien de aanvrager wil dat het College een uitzondering voor hem maakt op grond
 
 * inzicht in de rechtspositionele verschillen tussen hulpverlener-patiënt relatie en de relatie rapporteur-justitiabele en het vermogen naar dat inzicht te handelen.      
 
-12(2) c.  *(...) In staat is de opdrachtgever inzicht te bieden in de vraag of en zo ja, in hoeverre de vraagstelling van de opdrachtgever voldoende helder en onderzoekbaar is om deze vanuit zijn specifieke deskundigheid te kunnen beantwoorden.*   
+12(2) c.  * (...) In staat is de opdrachtgever inzicht te bieden in de vraag of en zo ja, in hoeverre de vraagstelling van de opdrachtgever voldoende helder en onderzoekbaar is om deze vanuit zijn specifieke deskundigheid te kunnen beantwoorden.*   
 
 12(2) d, e en f 
 
@@ -292,56 +296,56 @@ f.  *(...) in staat is om de geldende onderzoeksmethoden in een forensische cont
 
 * algemeen: 
 
-○ inzicht en vermogen om vanuit de psychologische/psychiatrische diagnostiek de vertaalslag te maken naar de forensisch relevante vragen (toerekening, risicoprognose en risicomanagement, forensische zorgprognose en responsiviteit)  
+o inzicht en vermogen om vanuit de psychologische/psychiatrische diagnostiek de vertaalslag te maken naar de forensisch relevante vragen (toerekening, risicoprognose en risicomanagement, forensische zorgprognose en responsiviteit)  
 
-○ het kunnen omgaan met diverse culturele achtergronden en deze relateren aan diagnostiek en advies  
+o het kunnen omgaan met diverse culturele achtergronden en deze relateren aan diagnostiek en advies  
 
-○ testtheoretische kennis en kennis van de mogelijkheden en beperkingen van testmaterialen    
+o testtheoretische kennis en kennis van de mogelijkheden en beperkingen van testmaterialen    
 
 * diagnostiek: 
 
-○ kennis van en ervaring met het diagnostisch proces in een forensische context (attributie, (dis)simulatie, interactie)  
+o kennis van en ervaring met het diagnostisch proces in een forensische context (attributie, (dis)simulatie, interactie)  
 
-○ specifieke kennis van en ervaring met het beloop van in de forensische psychiatrie voorkomende ziektebeelden  
+o specifieke kennis van en ervaring met het beloop van in de forensische psychiatrie voorkomende ziektebeelden  
 
-○ kennis van verslavingsproblematiek en de mogelijke forensische gevolgen daarvan  
+o kennis van verslavingsproblematiek en de mogelijke forensische gevolgen daarvan  
 
-○ uitkomsten van testen kunnen interpreteren in een forensische context  
+o uitkomsten van testen kunnen interpreteren in een forensische context  
 
-○ kennis van betrouwbaarheid en validiteit van het testmateriaal    
+o kennis van betrouwbaarheid en validiteit van het testmateriaal    
 
 * oordeelsvorming: 
 
-○ kennis van redeneer- en beslisprocessen, van determinanten van het oordeel, van processen van beïnvloeding in de oordeelsvorming en van de feilbaarheid van het menselijk oordeel    
+o kennis van redeneer- en beslisprocessen, van determinanten van het oordeel, van processen van beïnvloeding in de oordeelsvorming en van de feilbaarheid van het menselijk oordeel    
 
 * relatie stoornis-delict: 
 
-○ het in staat zijn tot uitvragen van het delict en tot het verwoorden van een delictanalyse    
+o het in staat zijn tot uitvragen van het delict en tot het verwoorden van een delictanalyse    
 
 * risicotaxatie: 
 
-○ kennis en beheersing van het state of the art opstellen van een risicoprognose (klinisch gestructureerd)  
+o kennis en beheersing van het state of the art opstellen van een risicoprognose (klinisch gestructureerd)  
 
-○ kennis van de gangbare risicotaxatie-instrumenten en bewustzijn van de mogelijkheden en beperkingen van die instrumenten (zie toelichting hieronder)    
+o kennis van de gangbare risicotaxatie-instrumenten en bewustzijn van de mogelijkheden en beperkingen van die instrumenten (zie toelichting hieronder)    
 
 * gedragsinterventies: 
 
-○ kennis van de mogelijke zorgarrangementen voor de forensische populatie en het in staat zijn een advies te geven over het type behandeling en de mate van beveiliging  
+o kennis van de mogelijke zorgarrangementen voor de forensische populatie en het in staat zijn een advies te geven over het type behandeling en de mate van beveiliging  
 
-○ inzicht in de effectiviteit (of het ontbreken daarvan) van behandelingen van psychologische en psychiatrische problematiek in de forensische setting  
+o inzicht in de effectiviteit (of het ontbreken daarvan) van behandelingen van psychologische en psychiatrische problematiek in de forensische setting  
 
-○ vermogen tot inschatting van de behandelresponsiviteit van betrokkene  
+o vermogen tot inschatting van de behandelresponsiviteit van betrokkene  
 
-○ kennis van de praktijk van tenuitvoerlegging van straffen en maatregelen  
+o kennis van de praktijk van tenuitvoerlegging van straffen en maatregelen  
 
-○ kennis van de organisatie van de psychomedische zorg binnen een gesloten justitiële setting  
+o kennis van de organisatie van de psychomedische zorg binnen een gesloten justitiële setting  
 
-○ kennis van het proces van indicatiestelling voor de forensische zorg       
+o kennis van het proces van indicatiestelling voor de forensische zorg     
 ### *Toelichting bij artikelen 12 (2) d, e en f:* 
 
-Ten aanzien van de bekendheid van de rapporteur met de richtlijnen en best practices merkt het College het volgende op. Gelet op de praktijk is het op dit moment voor de toetsing van de aanvrager door het NRGD geen harde eis dat een rapporteur de te onderzoeken persoon zelf minimaal twee keer gezien moet hebben. De ingezette instrumenten, waaronder de onderzoeksgesprekken met deze persoon, dienen in verhouding te staan tot de te beantwoorden vraagstelling(en). Wat betreft de specifieke kennis en vaardigheden ten aanzien van risicotaxatie is het op dit moment geen harde eis voor het NRGD dat door de aanvrager gebruik moet worden gemaakt van een risicotaxatie-instrument om een TBS-advies te kunnen geven. Het gaat er bij de toetsing om dat een rapporteur in zijn rapporten een onderbouwing geeft van de risicoprognose conform de state-of-the-art in het veld en dat hij zich daarbij bewust is van de mogelijkheden en beperkingen van risicotaxatie-instrumenten.  
+Ten aanzien van de bekendheid van de rapporteur met de richtlijnen en best practices merkt het College het volgende op. Gelet op de praktijk is het op dit moment voor de toetsing van de aanvrager door het NRGD geen harde eis dat een rapporteur de te onderzoeken persoon zelf minimaal twee keer gezien moet hebben. De ingezette instrumenten, waaronder de onderzoeksgesprekken met deze persoon, dienen in verhouding te staan tot de te beantwoorden vraagstelling(en). Wat betreft de specifieke kennis en vaardigheden ten aanzien van risicotaxatie is het op dit moment geen harde eis voor het NRGD dat door de aanvrager gebruik moet worden gemaakt van een risicotaxatie-instrument om een TBS-advies te kunnen geven. Het gaat er bij de toetsing om dat een rapporteur in zijn rapporten een onderbouwing geeft van de risicoprognose conform de state-of-the-art in het veld en dat hij zich daarbij bewust is van de mogelijkheden en beperkingen van risicotaxatie-instrumenten.    
 
-12(2) g (...) in staat is zowel schriftelijk als mondeling over de opdracht en elk ander relevant aspect van zijn deskundigheid gemotiveerd, controleerbaar en in voor de opdrachtgever begrijpelijke bewoordingen te rapporteren.  *Een aanvrager dient:*  
+12(2) g.  *(...) in staat is zowel schriftelijk als mondeling over de opdracht en elk ander relevant aspect van zijn deskundigheid gemotiveerd, controleerbaar en in voor de opdrachtgever begrijpelijke bewoordingen te rapporteren.*  Een aanvrager dient: 
 
 – in staat te zijn een taalkundig correct, ook voor niet vakgenoten, begrijpelijk en leesbaar rapport te schrijven en daarbij neutrale, niet onnodig diskwalificerende formuleringen te gebruiken  
 
@@ -377,19 +381,19 @@ De toetsing geschiedt in beginsel op basis van informatie die de aanvrager heeft
 – bewijsstukken van competentie, waaronder: 
 
 A.  * * Initiële aanvrager* *  
-### * *verplicht* * 
+### *verplicht* 
 
-(i)  Een ervaren rapporteur: 
+(i) Een ervaren rapporteur: 
 
 – een lijst van 8 zaaksrapporten opgemaakt in de afgelopen 4 jaar onder collegiale review of supervisie waarin door de aanvrager per zaak tenminste is aangegeven; 
 
 * het type zaak: 
 
-○ geweld, levensdelict of een delict met bedreiging tegen het leven gericht  
+o geweld, levensdelict of een delict met bedreiging tegen het leven gericht  
 
-○ zedendelict  
+o zedendelict  
 
-○ vermogensdelict    
+o vermogensdelict    
 
 * of het mono- of multidisciplinair onderzoek betrof  
 
@@ -405,7 +409,7 @@ A.  * * Initiële aanvrager* *
 
 – een minimum van 3 zaaksrapporten opgemaakt in de laatste 4 jaar door het NRGD geselecteerd uit de lijst van zaaksrapporten.    
 
-(ii)  Een nieuwe rapporteur:   
+(ii)  Een nieuwe rapporteur: 
 
 – in beginsel een certificaat van gevolgde rapporteuropleiding;  
 
@@ -413,11 +417,11 @@ A.  * * Initiële aanvrager* *
 
 * het type zaak: 
 
-○ geweld, levensdelict of een delict met bedreiging tegen het leven gericht  
+o geweld, levensdelict of een delict met bedreiging tegen het leven gericht  
 
-○ zedendelict  
+o zedendelict  
 
-○ vermogensdelict    
+o vermogensdelict    
 
 * of het mono- of multidisciplinair onderzoek betrof  
 
@@ -430,16 +434,16 @@ A.  * * Initiële aanvrager* *
 – een minimum van 3 zaaksrapporten onder supervisie opgemaakt door het NRGD geselecteerd uit de lijst van zaaksrapporten.   
 ### *A. Type (i) en (ii)* 
 
-### * *indien aanwezig* * 
+### *indien aanwezig* 
 
 – één zaaksrapport naar eigen selectie in aanvulling op de 3 door het NRGD geselecteerde verplicht in te sturen zaaksrapporten;  
 
 – bewijsstukken van registraties in relevante registers;  
 
-– certificaten van of autorisaties voor bepaalde methoden en technieken.    
+– certificaten van of autorisaties voor bepaalde methoden en technieken.      
 
-B.   * *Heraanvrager* *  
-### * *verplicht* * 
+B.  * *Heraanvrager* *  
+### *verplicht* 
 
 (iii)  Een geregistreerde deskundige die na registratie een aanvraag tot herregistratie indient: 
 
@@ -449,27 +453,27 @@ B.   * *Heraanvrager* *
 
 * het type zaak: 
 
-○ geweld, levensdelict of een delict met bedreiging tegen het leven gericht  
+o geweld, levensdelict of een delict met bedreiging tegen het leven gericht  
 
-○ zedendelict  
+o zedendelict  
 
-○ vermogensdelict  
+o vermogensdelict    
 
-○ of het mono- of multidisciplinair onderzoek betrof;  
+* of het mono- of multidisciplinair onderzoek betrof;  
 
-○ of overleg met ketenpartners is gepleegd;  
+* of overleg met ketenpartners is gepleegd;  
 
-○ of aanvrager is opgetreden in de rechtszaal;  
+* of aanvrager is opgetreden in de rechtszaal;  
 
-○ wie de collegiale review op het rapport heeft uitgevoerd.    
+* wie de collegiale review op het rapport heeft uitgevoerd.    
 
 – een lijst van minimaal 32 uur gevolgde gestructureerde forensische intervisie in de afgelopen 4 jaar (zie toelichting in Deel II registratie-eisen);  
 
 – een lijst van minimaal 48 uur gevolgde forensische deskundigheidsbevordering in de afgelopen 4 jaar (aan te tonen door bijvoorbeeld bewijsstukken van congresbezoek, publicaties of het gevolgd/gegeven hebben van trainingen) (zie toelichting in Deel II registratie-eisen);  
 
-– een minimum van 2 zaaksrapporten naar eigen selectie uit de lijst van zaaksrapporten. In tegenstelling tot de initiële aanvrager mag de aanvrager in het kader van de herregistratie zaaksrapporten naar eigen keuze overleggen. Deze zaaksrapporten dienen een zo goed en breed mogelijk beeld te geven van de competenties van de aanvrager. Van de aanvrager wordt daarom verwacht dat de zaaksrapporten de meer complexe en zwaardere zaken betreffen.      
+– een minimum van 2 zaaksrapporten naar eigen selectie uit de lijst van zaaksrapporten. In tegenstelling tot de initiële aanvrager mag de aanvrager voor de herregistratie zaaksrapporten naar eigen keuze overleggen. Deze zaaksrapporten dienen een zo helder en breed mogelijk beeld te geven van de individuele competenties en ervaring van de aanvrager.    
 
-(iv)  Een geregistreerde deskundige die na registratie voor beperkte duur een aanvraag tot registratie indient: 
+(iv) Een geregistreerde deskundige die na registratie voor beperkte duur een aanvraag tot registratie indient: 
 
 – een geüpdatet CV;  
 
@@ -477,7 +481,7 @@ B.   * *Heraanvrager* *
 
 – een lijst van minimaal 24 uur gevolgde forensische deskundigheidsbevordering in de afgelopen 2 jaar (aan te tonen door bijvoorbeeld bewijsstukken van congresbezoek, publicaties of het gevolgd/gegeven hebben van trainingen) (zie toelichting in Deel II registratie-eisen);  
 
-– een minimum van 4 zaaksrapporten naar eigen selectie opgemaakt in de afgelopen 2 jaar onder collegiale review, inclusief rapporten waarin de standaardvraagstelling is beantwoord.       
+– een minimum van 4 zaaksrapporten naar eigen selectie opgemaakt in de afgelopen 2 jaar onder collegiale review, inclusief rapporten waarin de standaardvraagstelling is beantwoord.     
 ### *B. Type (iii) en (iv)* 
 
 ### *indien aanwezig* 
@@ -487,7 +491,7 @@ B.   * *Heraanvrager* *
 – een update van certificaten van of autorisaties voor bepaalde methoden en technieken.   
 ### *Toelichting op te verstrekken informatie voor alle typen aanvragers:* 
 
-Ten aanzien van de rapportages die de aanvrager dient te overleggen, merkt het College op dat hoewel het NIFP mogelijk feedback levert op rapportages, de toetsing door het NRGD helemaal los van deze feedback staat. De rapporteur is zelf verantwoordelijk voor de kwaliteit van zijn rapporten.      
+Ten aanzien van de rapportages die de aanvrager dient te overleggen, merkt het College op dat hoewel het NIFP mogelijk feedback levert op rapportages, de toetsing door het NRGD helemaal los van deze feedback staat. De rapporteur is zelf verantwoordelijk voor de kwaliteit van zijn rapporten.        
 ### 3  
 
 ####De toetsingsprocedure

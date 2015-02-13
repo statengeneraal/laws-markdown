@@ -3,7 +3,7 @@
 ##Verordening van het bestuur van het Hoofdbedrijfschap Ambachten van 2 november 2011, houdende regels terzake van de aan de ondernemers die het dakdekkersbedrijf hellende daken uitoefenen op te leggen bestemmingsheffing voor het jaar 2012 (Verordening bestemmingsheffing dakdekkers hellende daken 2012)
 
 Het bestuur van het Hoofdbedrijfschap Ambachten;  
-Gelet op [artikel 95, tweede lid](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [artikel 126 van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+Gelet op artikel 95, tweede lid en artikel 126 van de Wet op de bedrijfsorganisatie;
 
 Gezien het advies van de Commissie dakdekkersbedrijf hellende daken;
 Besluit:    
@@ -22,11 +22,11 @@ a.Het dakdekkersbedrijf hellende daken: het bedrijf van het aanbrengen, onderhou
 
 b.de ondernemer: degene die een onderneming drijft, dan wel degenen die gezamenlijk een onderneming drijven;
 
-c.werkzame personen: personen als bedoeld in [artikel 1, eerste lid, onder b, van het Handelsregisterbesluit 2008](../../../../../../../../AMvB/handelsregisterbesluit/2008/BWBR0024067/README.md) die betrokken zijn bij de uitoefening van het dakdekkersbedrijf hellende daken;
+c.werkzame personen: personen als bedoeld in artikel 1, eerste lid, onder b, van het Handelsregisterbesluit 2008 die betrokken zijn bij de uitoefening van het dakdekkersbedrijf hellende daken;
 
 d.de voorzitter: de voorzitter van het Hoofdbedrijfschap Ambachten;
 
-e.bestemmingsheffing: heffing die gebaseerd is op [artikel 9, tweede lid, van het Instellingsbesluit Hoofdbedrijfschap Ambachten](../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/ambachten/BWBR0015845/README.md). 
+e.bestemmingsheffing: heffing die gebaseerd is op artikel 9, tweede lid, van het Instellingsbesluit Hoofdbedrijfschap Ambachten. 
 
 ###Artikel 2 
 Materieel uitgewerkt per 05-01-2013 
@@ -71,7 +71,7 @@ Materieel uitgewerkt per 05-01-2013
 
 a.krachtens haar statutaire doelstelling haar werkzaamheid kan uitstrekken tot ten minste een belangrijk gedeelte van het terrein waarop het bedrijfslichaam een taak heeft te vervullen,
 
-b.voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de [artikelen 3 tot en met 7 van de Verordening representativiteit organisaties](../../../../../../../../pbo/verordening/representativiteit/organisaties/BWBR0011641/README.md),
+b.voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de artikelen 3 tot en met 7 van de Verordening representativiteit organisaties,
 
 c.tot de werkingssfeer van het bedrijfslichaam behorende leden heeft, waarvan het gewogen aantal niet-onbetekenend is,
 
@@ -107,7 +107,7 @@ Materieel uitgewerkt per 05-01-2013
 ###Artikel 7 
 Materieel uitgewerkt per 05-01-2013 
 
-De [artikelen 5 tot en met 14 van de Heffingsverordening Hoofdbedrijfschap Ambachten 2012](../../../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/ambachten/2012/BWBR0031112/README.md) zijn van overeenkomstige toepassing. 
+De artikelen 5 tot en met 14 van de Heffingsverordening Hoofdbedrijfschap Ambachten 2012 zijn van overeenkomstige toepassing. 
 
 ###Artikel 8 
 Materieel uitgewerkt per 05-01-2013 

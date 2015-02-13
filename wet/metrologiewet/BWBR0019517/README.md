@@ -272,7 +272,7 @@ De in artikel 9 bedoelde regels kunnen een verbod inhouden om meetinstrumenten d
 
 ### Artikel  27  
 
-1.  Onze Minister wijst een in Nederland gevestigde rechtspersoon aan die tot taak heeft zorg te dragen voor de uitoefening van het toezicht op de naleving van het bepaalde bij of krachtens hoofdstuk 5 en artikel 39. De [Kaderwet zelfstandige bestuursorganen](../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) is van toepassing, met uitzondering van [artikel 22 van die wet](../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md).   
+1.  Onze Minister wijst een in Nederland gevestigde rechtspersoon aan die tot taak heeft zorg te dragen voor de uitoefening van het toezicht op de naleving van het bepaalde bij of krachtens hoofdstuk 5 en artikel 39. De Kaderwet zelfstandige bestuursorganen is van toepassing, met uitzondering van artikel 22 van die wet.   
 2.  De aan te wijzen rechtspersoon voldoet aan de volgende eisen: 
 
 a. hij is wat betreft organisatie, personeel en materieel in staat de in het eerste lid bedoelde taak naar behoren te vervullen;  
@@ -282,7 +282,7 @@ b. hij beschikt over standaarden die herleidbaar zijn naar nationale meetstandaa
 c. hij is niet een aangewezen instantie als bedoeld in artikel 12;  
 
 d. de voorwaarden dienen aanwezig te zijn voor een zodanige besluitvorming binnen de rechtspersoon dat een onafhankelijke vervulling van de taak, alsmede naleving van de in deze wet neergelegde verplichtingen, is gewaarborgd.     
-3.  Wijziging van de statuten van de rechtspersoon behoeft de goedkeuring van Onze Minister. Onze Minister onthoudt zijn goedkeuring indien de statuten na de wijziging onvoldoende zouden zijn afgestemd op het uitoefenen van het toezicht en op de in het tweede lid gestelde eisen. De [artikelen 10:28 tot en met 10:31 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing.   
+3.  Wijziging van de statuten van de rechtspersoon behoeft de goedkeuring van Onze Minister. Onze Minister onthoudt zijn goedkeuring indien de statuten na de wijziging onvoldoende zouden zijn afgestemd op het uitoefenen van het toezicht en op de in het tweede lid gestelde eisen. De artikelen 10:28 tot en met 10:31 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing.   
 4.  Een aanwijzing kan worden ingetrokken indien: 
 
 a. de rechtspersoon daarom verzoekt;  
@@ -306,7 +306,7 @@ c. de rechtspersoon niet meer voldoet aan de in het tweede lid opgenomen eisen.
 
 ### Artikel  30  
 
-1.  De op grond van artikel 29, eerste lid, aangewezen werknemers oefenen zonodig de in [artikel 5:18 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) genoemde bevoegdheid uit met behulp van de sterke arm.   
+1.  De op grond van artikel 29, eerste lid, aangewezen werknemers oefenen zonodig de in artikel 5:18 van de Algemene wet bestuursrecht genoemde bevoegdheid uit met behulp van de sterke arm.   
 2.  De op grond van artikel 29, eerste lid, aangewezen werknemers mogen bij het toezicht in hun oordeel betrekken de bevindingen van personen, die in de uitoefening van een beroep of bedrijf meetinstrumenten controleren of onderhouden, indien de toezichthoudende instantie zich er van heeft verzekerd dat die personen over de vereiste deskundigheid beschikken en de onafhankelijkheid van het toezicht niet in het geding is.  
 
 ### Artikel  31  
@@ -323,7 +323,7 @@ Bij ministeriële regeling worden regels gesteld omtrent de gegevensverstrekking
 
 ### Artikel  34  
 
-1.  De op grond van artikel 29 aangewezen werknemers van de toezichthoudende instantie zijn bevoegd geregelde meetinstrumenten die bij het onderzoek bedoeld in [artikel 5:18 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), niet aan de krachtens artikel 5, eerste lid, gestelde eisen voldoen, te voorzien van een afkeurmerkteken.   
+1.  De op grond van artikel 29 aangewezen werknemers van de toezichthoudende instantie zijn bevoegd geregelde meetinstrumenten die bij het onderzoek bedoeld in artikel 5:18 van de Algemene wet bestuursrecht, niet aan de krachtens artikel 5, eerste lid, gestelde eisen voldoen, te voorzien van een afkeurmerkteken.   
 2.  Het model van het in het eerste lid bedoelde afkeurmerkteken wordt bij ministeriële regeling vastgesteld.  
 
 ### Artikel  35  
@@ -355,7 +355,7 @@ Indien krachtens artikel 5 regels zijn gesteld ten aanzien van een onderdeel van
 ### Artikel  40  
 
 1.  Onze Minister zendt elke vier jaar aan de Staten-Generaal een verslag over de doeltreffendheid van het functioneren van de aangewezen instanties en in voorkomend geval van een krachtens artikel 28 aangewezen instelling.   
-2.  In afwijking van [artikel 39, eerste lid, van de Kaderwet zelfstandige bestuursorganen](../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), zendt Onze Minister elke vier jaar een verslag aan de beide kamers der Staten-Generaal ten behoeve van de beoordeling van de doelmatigheid en doeltreffendheid van het functioneren van de toezichthoudende instantie.  
+2.  In afwijking van artikel 39, eerste lid, van de Kaderwet zelfstandige bestuursorganen, zendt Onze Minister elke vier jaar een verslag aan de beide kamers der Staten-Generaal ten behoeve van de beoordeling van de doelmatigheid en doeltreffendheid van het functioneren van de toezichthoudende instantie.  
 
 ### Hoofdstuk  9  
 
@@ -375,7 +375,7 @@ Wijzigt het Wetboek van Strafrecht.
 
 ### Artikel  44  
 
-De [IJkwet](../../../wet/ijkwet/BWBR0009082/README.md) wordt ingetrokken.
+De IJkwet wordt ingetrokken.
 
 ### Hoofdstuk  10  
 
@@ -387,47 +387,47 @@ De [IJkwet](../../../wet/ijkwet/BWBR0009082/README.md) wordt ingetrokken.
 
 ### Artikel  45  
 
-1.  In afwijking van artikel 23 mogen geregelde meetinstrumenten waarop richtlijn 2004/22/EG van het Europees Parlement en de Raad van 31 maart 2004 betreffende meetinstrumenten van toepassing is, in de handel worden gebracht, in gebruik worden genomen of voor ingebruikneming verder worden verhandeld, indien uiterlijk 29 oktober 2006 overeenkomstig [artikel 11a van de IJkwet](../../../wet/ijkwet/BWBR0009082/README.md) een model van die instrumenten is toegelaten en zij voldoen aan de regels die op die datum bij of krachtens de [IJkwet](../../../wet/ijkwet/BWBR0009082/README.md) ten behoeve van het in de handel brengen of in gebruik nemen van toepassing waren op die instrumenten.   
-2.  Het eerste lid is van toepassing tot de datum waarop de geldigheidsduur van de op grond van [artikel 11a van de IJkwet](../../../wet/ijkwet/BWBR0009082/README.md) afgegeven verklaring inzake de toelating van het model van het meetinstrument is verstreken, dan wel bij gebreke daaraan, tot 1 november 2016 of een door Onze Minister te bepalen eerdere datum.   
-3.  Indien voor een meetinstrument als bedoeld in het eerste lid op grond van [artikel 21b van de IJkwet](../../../wet/ijkwet/BWBR0009082/README.md) een vrijstelling of ontheffing is verleend, blijft deze vrijstelling of ontheffing geldig tot 1 november 2016.  
+1.  In afwijking van artikel 23 mogen geregelde meetinstrumenten waarop richtlijn 2004/22/EG van het Europees Parlement en de Raad van 31 maart 2004 betreffende meetinstrumenten van toepassing is, in de handel worden gebracht, in gebruik worden genomen of voor ingebruikneming verder worden verhandeld, indien uiterlijk 29 oktober 2006 overeenkomstig artikel 11a van de IJkwet een model van die instrumenten is toegelaten en zij voldoen aan de regels die op die datum bij of krachtens de IJkwet ten behoeve van het in de handel brengen of in gebruik nemen van toepassing waren op die instrumenten.   
+2.  Het eerste lid is van toepassing tot de datum waarop de geldigheidsduur van de op grond van artikel 11a van de IJkwet afgegeven verklaring inzake de toelating van het model van het meetinstrument is verstreken, dan wel bij gebreke daaraan, tot 1 november 2016 of een door Onze Minister te bepalen eerdere datum.   
+3.  Indien voor een meetinstrument als bedoeld in het eerste lid op grond van artikel 21b van de IJkwet een vrijstelling of ontheffing is verleend, blijft deze vrijstelling of ontheffing geldig tot 1 november 2016.  
 
 ### Artikel  46  
 
-1.  In afwijking van artikel 23 mogen andere geregelde meetinstrumenten dan bedoeld in artikel 45 in de handel worden gebracht, in gebruik worden genomen of voor ingebruikneming verder worden verhandeld indien uiterlijk 29 oktober 2006 overeenkomstig [artikel 11a van de IJkwet](../../../wet/ijkwet/BWBR0009082/README.md) een model van die instrumenten is toegelaten en zij voldoen aan de regels die op die datum bij of krachtens de [IJkwet](../../../wet/ijkwet/BWBR0009082/README.md) ten behoeve van het in de handel brengen of in gebruik nemen van toepassing waren op die instrumenten.   
-2.  Indien voor een ander geregeld meetinstrument dan bedoeld in artikel 45, eerste lid, regels worden gesteld, worden daarbij de verkregen rechten uit een op grond van [artikel 21b](../../../wet/ijkwet/BWBR0009082/README.md) of [21c, van de IJkwet](../../../wet/ijkwet/BWBR0009082/README.md) verleende ontheffing voor het desbetreffende meetinstrument die onmiddellijk voorafgaand aan de inwerkingtreding van artikel 44 geldig was, geëerbiedigd.  
+1.  In afwijking van artikel 23 mogen andere geregelde meetinstrumenten dan bedoeld in artikel 45 in de handel worden gebracht, in gebruik worden genomen of voor ingebruikneming verder worden verhandeld indien uiterlijk 29 oktober 2006 overeenkomstig artikel 11a van de IJkwet een model van die instrumenten is toegelaten en zij voldoen aan de regels die op die datum bij of krachtens de IJkwet ten behoeve van het in de handel brengen of in gebruik nemen van toepassing waren op die instrumenten.   
+2.  Indien voor een ander geregeld meetinstrument dan bedoeld in artikel 45, eerste lid, regels worden gesteld, worden daarbij de verkregen rechten uit een op grond van artikel 21b of 21c, van de IJkwet verleende ontheffing voor het desbetreffende meetinstrument die onmiddellijk voorafgaand aan de inwerkingtreding van artikel 44 geldig was, geëerbiedigd.  
 
 ### Artikel  47  
 
-1.  Indien krachtens artikel 5 regels gelden inzake het gebruik van een meetinstrument wordt bij de toepassing van artikel 24, eerste lid, onderdelen a en b, een voor de desbetreffende meettaak bestemd meetinstrument, dat onmiddellijk voorafgaande aan de inwerkingtreding van artikel 44 voldeed aan de bij of krachtens de [IJkwet](../../../wet/ijkwet/BWBR0009082/README.md) gestelde regels betreffende het gebruik, beschouwd als een geregeld meetinstrument dat voldoet aan de krachtens artikel 5 gestelde regels.   
-2.  Het eerste lid geldt tenzij bij een overeenstemmingsbeoordeling op grond van artikel 7 of anderszins blijkt dat het instrument niet aan de bij of krachtens de [IJkwet](../../../wet/ijkwet/BWBR0009082/README.md) gestelde regels voldoet.   
+1.  Indien krachtens artikel 5 regels gelden inzake het gebruik van een meetinstrument wordt bij de toepassing van artikel 24, eerste lid, onderdelen a en b, een voor de desbetreffende meettaak bestemd meetinstrument, dat onmiddellijk voorafgaande aan de inwerkingtreding van artikel 44 voldeed aan de bij of krachtens de IJkwet gestelde regels betreffende het gebruik, beschouwd als een geregeld meetinstrument dat voldoet aan de krachtens artikel 5 gestelde regels.   
+2.  Het eerste lid geldt tenzij bij een overeenstemmingsbeoordeling op grond van artikel 7 of anderszins blijkt dat het instrument niet aan de bij of krachtens de IJkwet gestelde regels voldoet.   
 3.  Bij ministeriële regeling kan voor een meetinstrument worden bepaald dat het eerste lid na een daarbij te bepalen termijn niet meer geldt.  
 
 ### Artikel  48  
 
-1.  Bij de toepassing van de artikelen 45, 46 en 47 worden de in [artikel 22, eerste lid, onderdeel a, van de IJkwet](../../../wet/ijkwet/BWBR0009082/README.md) bedoelde taken en bevoegdheden van de ijkinstelling uitgevoerd door een aangewezen instantie als bedoeld in artikel 12, die bevoegd is tot het verrichten van toetsende werkzaamheden ten aanzien van het desbetreffende meetinstrument, tenzij krachtens artikel 51 anders is bepaald.   
+1.  Bij de toepassing van de artikelen 45, 46 en 47 worden de in artikel 22, eerste lid, onderdeel a, van de IJkwet bedoelde taken en bevoegdheden van de ijkinstelling uitgevoerd door een aangewezen instantie als bedoeld in artikel 12, die bevoegd is tot het verrichten van toetsende werkzaamheden ten aanzien van het desbetreffende meetinstrument, tenzij krachtens artikel 51 anders is bepaald.   
 2.  De op grond van artikel 27 aangewezen rechtspersoon draagt zorg voor het toezicht op de naleving van de artikelen 45, 46 en 47.  
 
 ### Artikel  49  
 
-1.  Een erkenning als bedoeld in [artikel 26 van de IJkwet](../../../wet/ijkwet/BWBR0009082/README.md) van een bevoegdheid tot het verrichten van werkzaamheden met betrekking tot een meetinstrument blijft geldig tot uiterlijk een jaar na inwerkingtreding van artikel 44.   
-2.  De [artikelen 26c tot en met 26g van de IJkwet](../../../wet/ijkwet/BWBR0009082/README.md) en de daaruit voortvloeiende voorschriften en beperkingen blijven gedurende de periode bedoeld in het eerste lid van toepassing en Onze Minister wijst één aangewezen instantie aan die de in die artikelen bedoelde taken en bevoegdheden van de ijkinstelling uitoefent.   
-3.  De ijkbevoegde, die beschikt over een erkenning als bedoeld in [artikel 26 van de IJkwet](../../../wet/ijkwet/BWBR0009082/README.md) is gedurende de in het eerste lid bedoelde periode bevoegd de werkzaamheden die ingevolge de [IJkwet](../../../wet/ijkwet/BWBR0009082/README.md) tot zijn bevoegdheid behoorden, ten aanzien van de in artikel 45, eerste lid, bedoelde meetinstrumenten voordat deze in de handel worden gebracht of in gebruik worden genomen, slechts uit te oefenen voorzover deze volgens de regels en voorschriften van de IJkwet worden beoordeeld.   
+1.  Een erkenning als bedoeld in artikel 26 van de IJkwet van een bevoegdheid tot het verrichten van werkzaamheden met betrekking tot een meetinstrument blijft geldig tot uiterlijk een jaar na inwerkingtreding van artikel 44.   
+2.  De artikelen 26c tot en met 26g van de IJkwet en de daaruit voortvloeiende voorschriften en beperkingen blijven gedurende de periode bedoeld in het eerste lid van toepassing en Onze Minister wijst één aangewezen instantie aan die de in die artikelen bedoelde taken en bevoegdheden van de ijkinstelling uitoefent.   
+3.  De ijkbevoegde, die beschikt over een erkenning als bedoeld in artikel 26 van de IJkwet is gedurende de in het eerste lid bedoelde periode bevoegd de werkzaamheden die ingevolge de IJkwet tot zijn bevoegdheid behoorden, ten aanzien van de in artikel 45, eerste lid, bedoelde meetinstrumenten voordat deze in de handel worden gebracht of in gebruik worden genomen, slechts uit te oefenen voorzover deze volgens de regels en voorschriften van de IJkwet worden beoordeeld.   
 4.  De in het derde lid bedoelde ijkbevoegde die beschikt over een krachtens artikel 11 verleende erkenning, is bevoegd: 
 
 a. de in het derde lid bedoelde werkzaamheden tot 1 november 2016 te verrichten;  
 
-b. de werkzaamheden die ingevolge de [IJkwet](../../../wet/ijkwet/BWBR0009082/README.md) tot zijn bevoegdheid behoorden ten aanzien van de in artikel 47 bedoelde meetinstrumenten te verrichten.     
-5.  De rechtspersoon die op grond van [artikel 22 van de IJkwet](../../../wet/ijkwet/BWBR0009082/README.md) was aangewezen als ijkinstelling draagt ten behoeve van de uitvoering van dit artikel of op verzoek van de ijkbevoegde, de archiefbescheiden inzake een erkenning op grond van [artikel 26 van de IJkwet](../../../wet/ijkwet/BWBR0009082/README.md) over aan de aangewezen instantie, bedoeld in het tweede lid, of aan de aangewezen instantie bij wie degene die over de erkenning beschikte een aanvraag tot erkenning als bedoeld in artikel 11 doet.  
+b. de werkzaamheden die ingevolge de IJkwet tot zijn bevoegdheid behoorden ten aanzien van de in artikel 47 bedoelde meetinstrumenten te verrichten.     
+5.  De rechtspersoon die op grond van artikel 22 van de IJkwet was aangewezen als ijkinstelling draagt ten behoeve van de uitvoering van dit artikel of op verzoek van de ijkbevoegde, de archiefbescheiden inzake een erkenning op grond van artikel 26 van de IJkwet over aan de aangewezen instantie, bedoeld in het tweede lid, of aan de aangewezen instantie bij wie degene die over de erkenning beschikte een aanvraag tot erkenning als bedoeld in artikel 11 doet.  
 
 ### Artikel  50  
 
-1.  Op aanvragen om een toelating van een model als bedoeld in [artikel 11a, van de IJkwet](../../../wet/ijkwet/BWBR0009082/README.md), verzoeken om ontheffing als bedoeld in de [artikelen 21b](../../../wet/ijkwet/BWBR0009082/README.md) en [21c van die wet](../../../wet/ijkwet/BWBR0009082/README.md) en aanvragen om erkenning van ijkbevoegdheid als bedoeld in [artikel 26 van die wet](../../../wet/ijkwet/BWBR0009082/README.md), waarop nog geen besluit is genomen op het tijdstip van inwerkingtreding van artikel 44, wordt beslist met toepassing van het recht zoals dat gold onmiddellijk voorafgaand aan dat tijdstip.   
+1.  Op aanvragen om een toelating van een model als bedoeld in artikel 11a, van de IJkwet, verzoeken om ontheffing als bedoeld in de artikelen 21b en 21c van die wet en aanvragen om erkenning van ijkbevoegdheid als bedoeld in artikel 26 van die wet, waarop nog geen besluit is genomen op het tijdstip van inwerkingtreding van artikel 44, wordt beslist met toepassing van het recht zoals dat gold onmiddellijk voorafgaand aan dat tijdstip.   
 2.  Ten aanzien van bezwaarschriftprocedures, beroepsprocedures en andere gerechtelijke procedures waarin op het tijdstip van inwerkingtreding van artikel 44 nog geen definitief bindende beslissing is genomen, blijft het recht zoals dat gold onmiddellijk voorafgaand aan dat tijdstip van toepassing.   
-3.  De op grond van [artikel 22 van de IJkwet](../../../wet/ijkwet/BWBR0009082/README.md) aangewezen rechtspersoon blijft voor de toepassing van dit artikel fungeren als ijkinstelling.  
+3.  De op grond van artikel 22 van de IJkwet aangewezen rechtspersoon blijft voor de toepassing van dit artikel fungeren als ijkinstelling.  
 
 ### Artikel  51  
 
-Indien een of meer van de artikelen 1 tot en met 42 eerder in werking treden dan artikel 44, kunnen bij of krachtens algemene maatregel van bestuur regels worden gesteld met het oog op de afstemming van uit de [IJkwet](../../../wet/ijkwet/BWBR0009082/README.md) en uit deze wet voortvloeiende taken, rechten en verplichtingen. 
+Indien een of meer van de artikelen 1 tot en met 42 eerder in werking treden dan artikel 44, kunnen bij of krachtens algemene maatregel van bestuur regels worden gesteld met het oog op de afstemming van uit de IJkwet en uit deze wet voortvloeiende taken, rechten en verplichtingen. 
 
 ### Paragraaf  2  
 
