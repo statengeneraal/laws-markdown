@@ -1395,6 +1395,15 @@ c. in het Centraal register wordt geregistreerd dat de rechten, genoemd in artik
 4.   Onze Minister neemt een beschikking als bedoeld in het eerste lid voor 1 november van het jaar voorafgaand aan het studiejaar waarin het in het derde lid bedoelde tijdstip valt.  
 5. Onze Minister maakt de ontneming van rechten, bedoeld in dit artikel, openbaar.
 
+### Artikel  6.1.4a  
+
+####Beleidsregels en adviescommissie
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Onze Minister stelt beleidsregels vast omtrent de uitoefening van de bevoegdheid, bedoeld in artikel 6.1.4, eerste lid, onder c.   
+2.  Onze Minister kan zich bij de toepassing van de beleidsregels laten adviseren door een onafhankelijke adviescommissie.  
+
 ### Artikel  6.1.5  
 
 ####Waarschuwing

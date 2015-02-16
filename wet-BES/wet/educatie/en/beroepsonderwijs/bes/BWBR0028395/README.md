@@ -958,6 +958,25 @@ Een kwalificatie is het geheel van bekwaamheden die een afgestudeerde van een be
 
 Deze titel is van toepassing op beroepsopleidingen. 
 
+### Artikel  7.2.1a  
+
+####Informatie beroepsopleidingen aan aanstaande deelnemers
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Het bevoegd gezag verstrekt zodanige informatie aan aanstaande deelnemers van beroepsopleidingen over: 
+
+a. de instelling,  
+
+b. het aanbod van beroepsopleidingen,  
+
+c. het arbeidsmarktperspectief na beëindiging van de desbetreffende beroepsopleiding,  
+
+d. de vooropleidingseisen voor de verschillende beroepsopleidingen, en  
+
+e. de kwaliteit van de verschillende beroepsopleidingen waaronder het oordeel van de inspectie ter zake,   dat de aanstaande deelnemers in staat zijn de opleidingsmogelijkheden te vergelijken en een passende opleiding te kiezen.   
+2.  Bij ministeriële regeling kunnen nadere specificaties worden gegeven over de inhoud en vorm van de informatie die nodig is voor het vergelijken van opleidingen en het kiezen van een passende opleiding.  
+
 ### §  2  
 
 ####Beroepsopleidingen en kwalificatiestructuur

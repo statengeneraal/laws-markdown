@@ -163,7 +163,7 @@ In order to fall within the provisions of sections (a) and (b) of this Chapter, 
 ### Article  13  
 
 1.  To fall within the provisions of sections (a) and (b) of this Chapter, containers must be constructed in conformity with the conditions laid down in Part I of annex 7 and must have been approved according to the procedure laid down in Part II of that annex.   
-2.  Containers approved for the transport of goods under Customs seal in accordance with the [Customs Convention on Containers](../../../../../../../../../../../../../../verdrag/customs/convention/on/containers/BWBV0005184/README.md), 1956, the agreements arising therefrom concluded under the auspices of the United Nations, the Customs Convention on Containers, 1972 or any international instruments that may supersede or modify the latter Convention, shall be considered as complying with the provisions of paragraph 1 above and must be accepted for transport under the TIR procedure without further approval.  
+2.  Containers approved for the transport of goods under Customs seal in accordance with the Customs Convention on Containers, 1956, the agreements arising therefrom concluded under the auspices of the United Nations, the Customs Convention on Containers, 1972 or any international instruments that may supersede or modify the latter Convention, shall be considered as complying with the provisions of paragraph 1 above and must be accepted for transport under the TIR procedure without further approval.  
 
 ### Article  14  
 
@@ -377,7 +377,7 @@ The annexes to this Convention form an integral part of the Convention.
 
 ####Signature, ratification, acceptance, approval and accession
 
-1.  All States Members of the United Nations or members of any of the specialized agencies or of the International Atomic Energy Agency or parties to the [Statute of the International Court of Justice](../../../../../../../../../../../../../../verdrag/statuut/van/het/internationaal/gerechtshof/BWBV0005509/README.md), and any other State invited by the General Assembly of the United Nations, may become Contracting Parties to this Convention: 
+1.  All States Members of the United Nations or members of any of the specialized agencies or of the International Atomic Energy Agency or parties to the Statute of the International Court of Justice, and any other State invited by the General Assembly of the United Nations, may become Contracting Parties to this Convention: 
 
 (a) by signing it without reservation of ratification, acceptance or approval,  
 
@@ -504,22 +504,67 @@ After 31 December 1976, the original of this Convention shall be deposited with 
 
 IN WITNESS WHEREOF, the undersigned, being duly authorized thereto, have signed this Convention. DONE at Geneva, this fourteenth day of November one thousand nine hundred and seventy-five, in a single copy in the English, French and Russian languages, the three texts being equally authentic.  
 
-###  Annex 1 
-
-####MODEL OF TIR CARNET
+###  Annex I  
 
 ###VERSION 1
 
 1.The TIR Carnet is printed in French except for page 1 of the cover where the items are also printed in English. The “Rules regarding the use of the TIR Carnet” given in French on page 2 of the cover are also printed in English on page 3 of the cover. The ‘Certified Report’ may also appear, on its reverse side, in a language other than French, as may be appropriate.
 
 2.Carnets used for TIR operations within a regional guarantee chain may be printed in any other official language of the United Nations except for page 1 of the cover where the items are also printed in English or French. The “Rules regarding the use of the TIR Carnet” are printed on page 2 of the cover in the official language of the United Nations used and are also printed in English or French on page 3 of the cover.
+###Model of the TIR Carnet: VERSION 1
+
+![10000056813](http://wetten.overheid.nl/Illustration/10000056813)
+
+###Model of the TIR Carnet: VERSION 1
+
+![10000056814](http://wetten.overheid.nl/Illustration/10000056814)
+
+###Model of the TIR Carnet: VERSION 1
+
+![10000056815](http://wetten.overheid.nl/Illustration/10000056815)
+
+###Model of the TIR Carnet: VERSION 1
+
+![10000056816](http://wetten.overheid.nl/Illustration/10000056816)
+
+###Model of the TIR Carnet: VERSION 1
+
+![10000056817](http://wetten.overheid.nl/Illustration/10000056817)
+
+###Model of the TIR Carnet: VERSION 1
+
+![10000056827](http://wetten.overheid.nl/Illustration/10000056827)
+
 ###VERSION 2
 
-3.For the transport of tobacco and alcohol for which an increased guarantee may be claimed from the guaranteeing association, in line with Annex 6, Explanatory Note 0.8.3, Customs authorities shall request TIR Carnets to be clearly marked “TOBACCO/ALCOHOL” and “TABAC/ALCOOL” on the cover and on all vouchers. In addition, these Carnets must provide details, at least in English and French, on the categories of tobacco and alcohol guaranteed, on a separate sheet inserted into the Carnet following page 2 of the cover of the Carnet.![10000052722](http://wetten.overheid.nl/Illustration/10000052722)
-![10000052724](http://wetten.overheid.nl/Illustration/10000052724)
-![10000052725](http://wetten.overheid.nl/Illustration/10000052725)
-![10000052726](http://wetten.overheid.nl/Illustration/10000052726)
-![10000052727](http://wetten.overheid.nl/Illustration/10000052727)
+3.For the transport of tobacco and alcohol for which an increased guarantee may be claimed from the guaranteeing association, in line with Annex 6, Explanatory Note 0.8.3, Customs authorities shall request TIR Carnets to be clearly marked “TOBACCO/ALCOHOL” and “TABAC/ALCOOL” on the cover and on all vouchers. In addition, these Carnets must provide details, at least in English and French, on the categories of tobacco and alcohol guaranteed, on a separate sheet inserted into the Carnet following page 2 of the cover of the Carnet.
+###Model of the TIR Carnet: VERSION 2
+
+![10000056820](http://wetten.overheid.nl/Illustration/10000056820)
+
+###Model of the TIR Carnet: VERSION 2
+
+![10000056821](http://wetten.overheid.nl/Illustration/10000056821)
+
+###Model of the TIR Carnet: VERSION 2
+
+![10000056822](http://wetten.overheid.nl/Illustration/10000056822)
+[Red.: De Russische tekst is niet opgenomen.]
+###Model of the TIR Carnet: VERSION 2
+
+![10000056823](http://wetten.overheid.nl/Illustration/10000056823)
+
+###Model of the TIR Carnet: VERSION 2
+
+![10000056824](http://wetten.overheid.nl/Illustration/10000056824)
+
+###Model of the TIR Carnet: VERSION 2
+
+![10000056825](http://wetten.overheid.nl/Illustration/10000056825)
+
+###Model of the TIR Carnet: VERSION 2
+
+![10000056826](http://wetten.overheid.nl/Illustration/10000056826)
 
 ### Annex 2 
 
@@ -760,7 +805,7 @@ In this locking system the two edges at the openings in the sheet used for loadi
 
 ####EXPLANATORY NOTES
 
-Ligt ter inzage bij de Afdeling Verdragen van het ministerie van Buitenlandse Zaken.   
+Ligt ter inzage bij de Afdeling Verdragen van het ministerie van Buitenlandse Zaken en is gepubliceerd op http://www.unece.org/trans/bcf/ac2/ac2-reports.html.   
 
 ### Annex  7 
 
@@ -1119,7 +1164,7 @@ d) Establishment of a written agreement or any other legal instrument between th
 
 (v) cover its liabilities to the satisfaction of the competent authorities of the Contracting Party in which it is established with an insurance company, pool of insurers or financial institution. The insurance or financial guarantee contract(s) shall cover the totality of its liabilities in connection with operations under cover of TIR Carnets issued by itself and by foreign associations affiliated to the same international organization as that to which it is itself affiliated; The time to give notice for the termination of the insurance or financial guarantee contract(s) shall be not less than the time to give notice for the termination of the written agreement or any other legal instrument as referred to in paragraph 1 (d). A certified copy of the insurance or financial contract(s) as well as all subsequent modifications thereto shall be deposited with the TIR Executive Board, including a certified translation, if necessary, into English, French or Russian;  
 
-(vi) provide the TIR Executive Board, annually, as per 1 March, with the price of each type of TIR Carnets it issues;  
+(vi) provide the TIR Executive Board, annually, before 1 March with the price of each type of TIR Carnet it issues;  
 
 (vii) allow the competent authorities to verify all records and accounts kept relating to the administration of the TIR procedure;  
 
@@ -1431,7 +1476,7 @@ Het bepaalde sub a) en b) van dit hoofdstuk vindt slechts toepassing op wegvoert
 ### Artikel  13  
 
 1.  Het bepaalde sub a) en b) van dit hoofdstuk vindt slechts toepassing op containers die zijn gebouwd overeenkomstig de voorwaarden omschreven in het eerste deel van bijlage 7 en zijn goedgekeurd overeenkomstig de procedure omschreven in het tweede deel van bedoelde bijlage.  
-2.  Containers die voor het goederenvervoer onder douaneverzegeling zijn goedgekeurd in toepassing van de [Douane-overeenkomst betreffende containers](../../../../../../../../../../../../../../verdrag/customs/convention/on/containers/BWBV0005184/README.md), 1956, van de hieruit voortgevloeide regelingen die zijn getroffen onder auspiciën van de Verenigde Naties, van de Douane-overeenkomst betreffende containers, 1972, of van alle internationale regelingen waardoor laatstbedoelde Overeenkomst zou worden vervangen of gewijzigd, worden geacht te voldoen aan het bepaalde in het eerste lid van dit artikel en moeten, zonder nieuwe goedkeuring, worden aanvaard voor vervoer onder de TIR-regeling.  
+2.  Containers die voor het goederenvervoer onder douaneverzegeling zijn goedgekeurd in toepassing van de Douane-overeenkomst betreffende containers, 1956, van de hieruit voortgevloeide regelingen die zijn getroffen onder auspiciën van de Verenigde Naties, van de Douane-overeenkomst betreffende containers, 1972, of van alle internationale regelingen waardoor laatstbedoelde Overeenkomst zou worden vervangen of gewijzigd, worden geacht te voldoen aan het bepaalde in het eerste lid van dit artikel en moeten, zonder nieuwe goedkeuring, worden aanvaard voor vervoer onder de TIR-regeling.  
 
 ### Artikel  14  
 
@@ -1645,7 +1690,7 @@ De bijlagen bij deze Overeenkomst vormen een integrerend deel van deze Overeenko
 
 ####Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
 
-1.  Alle Staten die Lid zijn van de Verenigde Naties of van een van de gespecialiseerde organisaties daarvan of van de Internationale Organisatie voor Atoomenergie of die Partij zijn bij het [Statuut van het Internationale Gerechtshof](../../../../../../../../../../../../../../verdrag/statuut/van/het/internationaal/gerechtshof/BWBV0005509/README.md), alsmede iedere andere Staat die daartoe wordt uitgenodigd door de Algemene Vergadering van de Verenigde Naties, kunnen Partij bij deze Overeenkomst worden: 
+1.  Alle Staten die Lid zijn van de Verenigde Naties of van een van de gespecialiseerde organisaties daarvan of van de Internationale Organisatie voor Atoomenergie of die Partij zijn bij het Statuut van het Internationale Gerechtshof, alsmede iedere andere Staat die daartoe wordt uitgenodigd door de Algemene Vergadering van de Verenigde Naties, kunnen Partij bij deze Overeenkomst worden: 
 
 a) door ondertekening zonder voorbehoud van bekrachtiging, aanvaarding of goedkeuring,  
 
@@ -1772,9 +1817,9 @@ Na 31 december 1976 wordt het originele exemplaar van deze Overeenkomst nedergel
 
 TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gemachtigd, deze Overeenkomst hebben ondertekend. GEDAAN te Genève op veertien november negentienhonderd vijfenzeventig, in een enkel exemplaar, in de Engelse, de Franse en de Russische taal, zijnde de drie teksten gelijkelijk authentiek.  
 
-###Bijlage 1  
+###Bijlage I  
 
-Niet opgenomen. <sup> [Red: Zie voor een vertaling in het Nederlands van Bijlagen 1 t/m 6*Pb. EG* L 368 van 31 december 1976, blz. 2 e.v.] </sup>   
+De tekst van de vertaling is niet beschikbaar.   
 
 ###Bijlage 2  
 
@@ -1796,7 +1841,7 @@ Niet opgenomen. <sup> [Red: Zie voor een vertaling in het Nederlands van Bijlage
 
 ####<sup> [Red: De Nederlandse vertaling is zonder toelichting opgenomen in Pb. EG L 368 van 31 december 1976. De toelichting is opgenomen in Trb. 1977/91.]  </sup>
 
-Ligt ter inzage bij de Afdeling Verdragen van het ministerie van Buitenlandse Zaken.   
+De tekst van de vertaling is niet beschikbaar.   
 
 ###Bijlage 7  
 
@@ -1923,7 +1968,7 @@ iv. zich garant stellen voor alle mogelijke aansprakelijkheden in het land waari
 
 v. zich naar tevredenheid van de bevoegde autoriteiten van de Overeenkomstsluitende Partij waar zij is gevestigd verzekeren tegen aansprakelijkheid bij een verzekeringsmaatschappij, een groep van verzekeraars of een financiële instelling. De verzekeringsovereenkomst of de overeenkomst(en) ten behoeve van de financiële zekerheid dient (dienen) alle aansprakelijkheden te dekken ter zake van activiteiten onder dekking van carnets TIR afgegeven door haarzelf en door buitenlandse organisaties die zijn aangesloten bij dezelfde internationale organisatie waarbij zij zelf is aangesloten; De opzegtermijn voor de overeenkomst ter zake van de verzekering of financiële zekerheid mag niet korter zijn dan die voor de beëindiging van de schriftelijke overeenkomst of een ander juridisch instrument zoals bedoeld in het eerste lid, letter d. Een voor eensluidend gewaarmerkt afschrift van de overeenkomst(en) ter zake van de verzekering of financiële zekerheid alsmede van alle latere wijzigingen daarvan wordt ingediend bij het TIR Uitvoerend Comité, indien nodig vergezeld van een gewaarmerkte vertaling in het Engels, Frans of Russisch;  
 
-vi. het TIR Uitvoerend Comité ieder jaar per 1 maart in kennis stellen van de prijs van elk type carnet TIR dat zij afgeeft;  
+vi. het TIR Uitvoerend Comité ieder jaar vóór 1 maart in kennis stellen van de prijs van elk type carnet TIR dat zij afgeeft;  
 
 vii. de bevoegde autoriteiten in staat stellen alle stukken en rekeningen te controleren die verband houden met de administratie van de TIR-procedure;  
 

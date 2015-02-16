@@ -5,7 +5,7 @@
 De Staatssecretaris van Veiligheid en Justitie,  
 Handelende in overeenstemming met het gevoelen van de ministerraad;
 
-Gelet op [artikel 6, derde lid, van de Kaderwet adviescolleges](../../../../../../../../../../wet/kaderwet/adviescolleges/BWBR0008159/README.md) en [artikel 2 van de Wet vergoedingen adviescolleges en commissies](../../../../../../../../../../wet/wet/vergoedingen/adviescolleges/en/commissies/BWBR0024775/README.md);
+Gelet op artikel 6, derde lid, van de Kaderwet adviescolleges en artikel 2 van de Wet vergoedingen adviescolleges en commissies;
 Besluit:    
 
 ### Artikel  1  
@@ -37,7 +37,7 @@ Besluit:
 
 De staatscommissie wordt bijgestaan door het volgende secretariaat: 
 
-– mevrouw mr. drs. J. Kok (secretaris);  
+– mevrouw mr. M. Jongeneel-van Amerongen (secretaris);  
 
 – mevrouw mr. dr. E.C.C. Punselie (secretaris);  
 
@@ -45,8 +45,8 @@ De staatscommissie wordt bijgestaan door het volgende secretariaat:
 
 ### Artikel  3  
 
-1.  De voorzitter van de staatscommissie ontvangt een vaste vergoeding per maand, afgeleid van het maximum van schaal 18 van [bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](../../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md), met een deeltijdfactor 0,2.   
-2.  De leden van de staatscommissie ontvangen een vaste vergoeding per maand, afgeleid van het maximum van schaal 18 van [bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](../../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md), met een deeltijdfactor 0,1.  
+1.  De voorzitter van de staatscommissie ontvangt een vaste vergoeding per maand, afgeleid van het maximum van schaal 18 van bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984, met een deeltijdfactor 0,2.   
+2.  De leden van de staatscommissie ontvangen een vaste vergoeding per maand, afgeleid van het maximum van schaal 18 van bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984, met een deeltijdfactor 0,1.  
 
 ### Artikel  4  
 
