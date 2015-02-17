@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 28 april 2011, nr. DWJZ/R&E-3059879, houdende vaststelling van algemene subsidieregels (Kaderregeling VWS-subsidies)
 
 De Minister van Volksgezondheid, Welzijn en Sport,  
-Gelet op de [artikelen 3](../../../../wet/kaderwet/vws-subsidies/BWBR0009455/README.md) en [5 van de Kaderwet VWS-subsidies](../../../../wet/kaderwet/vws-subsidies/BWBR0009455/README.md);
+Gelet op de artikelen 3 en 5 van de Kaderwet VWS-subsidies;
 Besluit:     
 ### Paragraaf  1  
 
@@ -23,9 +23,9 @@ d.  *projectsubsidie:* subsidie voor tijdelijke, incidentele activiteiten;
 
 e.  *subsidie:* instellingssubsidie of projectsubsidie;  
 
-f.  *jaarrekening:* jaarrekening als bedoeld in [artikel 361 van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md);  
+f.  *jaarrekening:* jaarrekening als bedoeld in artikel 361 van Boek 2 van het Burgerlijk Wetboek;  
 
-g.  *accountant:* accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md);  
+g.  *accountant:* accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek;  
 
 h.  *kosten:* kosten van de subsidieontvanger voor zover die samenhangen met de te subsidiëren of gesubsidieerde activiteit;  
 
@@ -51,7 +51,7 @@ c. vervallen;
 
 d. vervallen;  
 
-e. subsidies aan organisaties als bedoeld in [artikel 14 van de Wet op de beroepen in de individuele gezondheidszorg](../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md) voor activiteiten met betrekking tot specialistenregisters van wettelijk erkende specialistentitels; 
+e. subsidies aan organisaties als bedoeld in artikel 14 van de Wet op de beroepen in de individuele gezondheidszorg voor activiteiten met betrekking tot specialistenregisters van wettelijk erkende specialistentitels; 
 
 f.subsidies uit hoofde van het Beleidskader anonieme e-mental health 2014. 
 4. Uit hoofde van het Beleidskader voor subsidiëring van patiënten- en gehandicaptenorganisaties kan onder overeenkomstige toepassing van artikel 8, onderdeel a, onder 2°, een subsidie worden verstrekt tot een bedrag van € 125.000.
@@ -71,9 +71,10 @@ Een instellingssubsidie kan uitsluitend worden verstrekt aan een instelling.
 ### Artikel  6  
 
 1.  De minister verstrekt een projectsubsidie van die minder bedraagt dan € 25.000 en zonder voorafgaande verlening wordt vastgesteld slechts na afloop van de periode waarvoor de subsidie wordt aangevraagd.   
-2.  De minister verleent een projectsubsidie slechts voor een periode die aanvangt na ontvangst van de aanvraag van de projectsubsidie.   
-3.  De minister kan een projectsubsidie verstrekken voor een periode die zich uitstrekt over meer dan een kalenderjaar.   
-4.  Een projectsubsidie wordt voor ten hoogste vier jaren verstrekt.  
+2.  De minister verleent een projectsubsidie slechts voor een periode die aanvangt na ontvangst van de aanvraag van de projectsubsidie.  
+3. Het tweede lid geldt niet voor aan jeugdhulporganisaties te verstrekken subsidies ten behoeve van bijzondere kosten die in het kader van de transitie van de jeugdhulp naar gemeenten als gevolg van de inwerkingtreding van de Jeugdwet gemaakt worden. 
+4.  De minister kan een projectsubsidie verstrekken voor een periode die zich uitstrekt over meer dan een kalenderjaar.   
+5.  Een projectsubsidie wordt voor ten hoogste vier jaren verstrekt.  
 
 ### Artikel  7  
 
@@ -127,7 +128,7 @@ Bij instellingssubsidies verdeelt de minister het ingevolge het subsidieplafond 
 
 1.  Indien het ingevolge het subsidieplafond beschikbare bedrag in volgorde van ontvangst van de aanvragen wordt verdeeld: 
 
-a. geldt, indien de aanvraag krachtens [artikel 4:5 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is aangevuld, bij de verdeling de dag waarop de aangevulde aanvraag is ontvangen als de datum van ontvangst;  
+a. geldt, indien de aanvraag krachtens artikel 4:5 van de Algemene wet bestuursrecht is aangevuld, bij de verdeling de dag waarop de aangevulde aanvraag is ontvangen als de datum van ontvangst;  
 
 b. stelt de minister de onderlinge rangschikking van aanvragen die op dezelfde dag zijn ontvangen door middel van loting vast, indien honorering van al deze aanvragen ertoe zou leiden dat het subsidieplafond wordt overschreden.     
 2.  Indien het ingevolge het subsidieplafond beschikbare bedrag na onderlinge afweging van de aanvragen wordt verdeeld, geeft de minister die aanvragen voorrang waarvan de inwilliging in vergelijking met andere aanvragen naar verwachting van meer belang is voor het beleid en meer zal bijdragen aan de verwezenlijking van het doel van de subsidie.  
@@ -147,7 +148,8 @@ De minister kan tegelijk met het vaststellen van het subsidieplafond bepalen dat
 
 ### Artikel  16  
 
-Een aanvraag tot verlening van een projectsubsidie wordt ingediend voor aanvang van de periode waarvoor projectsubsidie wordt aangevraagd. 
+1. Een aanvraag tot verlening van een projectsubsidie wordt ingediend voor aanvang van de periode waarvoor projectsubsidie wordt aangevraagd.
+2. De verplichting, bedoeld in het eerste lid, geldt niet voor aanvragen van een subsidie als bedoeld in artikel 6, derde lid. 
 
 ### Artikel  17  
 
@@ -220,7 +222,7 @@ c. de minister ter zake van de aanvraag een nader onderzoek instelt.
 
 ### Artikel  26  
 
-Een subsidie ten laste van een begroting die nog niet is vastgesteld, wordt verleend onder de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). 
+Een subsidie ten laste van een begroting die nog niet is vastgesteld, wordt verleend onder de voorwaarde, bedoeld in artikel 4:34, eerste lid, van de Algemene wet bestuursrecht. 
 
 ### Artikel  26a  
 
@@ -415,12 +417,12 @@ b. voor de ontwikkeling van het beleid van de minister.
 ### Artikel  45  
 
 1.  Indien een gesubsidieerde activiteit leidt tot een publicatie, kan de minister bepalen dat de subsidieontvanger er voor zorgt dat bij de publicatie wordt aangegeven wie de uitvoerder en subsidiënt van de activiteit zijn geweest.   
-2.  Indien de subsidie gericht is of mede gericht is op de totstandkoming van een werk als bedoeld in [artikel 10, onder 1°, van de Auteurswet](../../../../wet/auteurswet/BWBR0001886/README.md), zorgt de subsidieontvanger er voor auteursrechthebbende te zijn ter zake van dat werk.   
+2.  Indien de subsidie gericht is of mede gericht is op de totstandkoming van een werk als bedoeld in artikel 10, onder 1°, van de Auteurswet, zorgt de subsidieontvanger er voor auteursrechthebbende te zijn ter zake van dat werk.   
 3.  De subsidieontvanger vrijwaart de Staat der Nederlanden voor aanspraken van derden ter zake van alle schade die zij lijden ten gevolge van de door of vanwege de subsidieontvanger verrichte publicaties.  
 
 ### Artikel  46  
 
-[Artikel 4:71 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing. 
+Artikel 4:71 van de Algemene wet bestuursrecht is van overeenkomstige toepassing. 
 
 ### Artikel  47  
 
@@ -428,8 +430,8 @@ Indien de activiteiten waarvoor de instellingssubsidie is verstrekt geheel of ge
 
 ### Artikel  48  
 
-1.  In de gevallen, bedoeld in [artikel 4:41, tweede lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), is de subsidieontvanger aan de minister een door de minister te bepalen vergoeding verschuldigd.   
-2.  De subsidieontvanger meldt meteen aan de minister als zich een geval, bedoeld in [artikel 4:41, tweede lid, onder a, b, c en e, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), voordoet.   
+1.  In de gevallen, bedoeld in artikel 4:41, tweede lid, van de Algemene wet bestuursrecht, is de subsidieontvanger aan de minister een door de minister te bepalen vergoeding verschuldigd.   
+2.  De subsidieontvanger meldt meteen aan de minister als zich een geval, bedoeld in artikel 4:41, tweede lid, onder a, b, c en e, van de Algemene wet bestuursrecht, voordoet.   
 3.  Bij de bepaling van de hoogte van de vergoeding wordt uitgegaan van de waarde van de goederen en andere vermogensbestanddelen, waaronder de egalisatiereserve, op het tijdstip waarop de vergoeding verschuldigd wordt, met dien verstande dat: 
 
 a. de waarde van de egalisatiereserve gelijk is aan het bedrag van de egalisatiereserve;  
@@ -442,7 +444,7 @@ c. de waarde van onroerende zaken wordt bepaald door drie onafhankelijke deskund
 
 ### Artikel  49  
 
-De minister kan bij de verlening van de subsidie verplichtingen opleggen als bedoeld in de [artikelen 4:38](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [4:39 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). 
+De minister kan bij de verlening van de subsidie verplichtingen opleggen als bedoeld in de artikelen 4:38 en 4:39 van de Algemene wet bestuursrecht. 
 
 ### Paragraaf  8  
 
@@ -596,20 +598,20 @@ Binnen tweeëntwintig weken na ontvangst van de aanvraag tot vaststelling van de
 
 ### Artikel  71  
 
-1.  De minister kan ambtshalve of op aanvraag een subsidie verstrekken uit hoofde van [artikel 4:51 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en daarbij een of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken.   
+1.  De minister kan ambtshalve of op aanvraag een subsidie verstrekken uit hoofde van artikel 4:51 van de Algemene wet bestuursrecht en daarbij een of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken.   
 2.  De minister kan voorts een of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang dat de desbetreffende bepaling beoogt te beschermen zal leiden tot een onbillijkheid van overwegende aard.  
 
 ### Artikel  72  
 
-1.  De [Subsidieregeling VWS-subsidies](../../../../ministeriele-regeling/subsidieregeling/vws-subsidies/BWBR0019947/README.md) wordt ingetrokken.   
-2.  De door de ontvanger van een instellingssubsidie als bedoeld in artikel 8, onderdeel f, op grond van [artikel 30, derde lid, van de Subsidieregeling VWS-subsidies](../../../../ministeriele-regeling/subsidieregeling/vws-subsidies/BWBR0019947/README.md) opgebouwde egalisatiereserve wordt toegevoegd aan de egalisatiereserve.   
-3.  De [Subsidieregeling VWS-subsidies](../../../../ministeriele-regeling/subsidieregeling/vws-subsidies/BWBR0019947/README.md) blijft van toepassing op: 
+1.  De Subsidieregeling VWS-subsidies wordt ingetrokken.   
+2.  De door de ontvanger van een instellingssubsidie als bedoeld in artikel 8, onderdeel f, op grond van artikel 30, derde lid, van de Subsidieregeling VWS-subsidies opgebouwde egalisatiereserve wordt toegevoegd aan de egalisatiereserve.   
+3.  De Subsidieregeling VWS-subsidies blijft van toepassing op: 
 
-a. aanvragen van projectsubsidies op grond van de [Subsidieregeling VWS-subsidies](../../../../ministeriele-regeling/subsidieregeling/vws-subsidies/BWBR0019947/README.md) die vóór 1 juli 2011 zijn ontvangen ten behoeve van activiteiten die vóór 1 oktober 2011 aanvangen alsmede op aanvragen van projectsubsidies uit hoofde van het ‘Beleidskader Sport en Bewegen in de Buurt 2011: uitrol interventies’ en het ‘Beleidskader Sport en Bewegen in de Buurt: private interventies’;  
+a. aanvragen van projectsubsidies op grond van de Subsidieregeling VWS-subsidies die vóór 1 juli 2011 zijn ontvangen ten behoeve van activiteiten die vóór 1 oktober 2011 aanvangen alsmede op aanvragen van projectsubsidies uit hoofde van het ‘Beleidskader Sport en Bewegen in de Buurt 2011: uitrol interventies’ en het ‘Beleidskader Sport en Bewegen in de Buurt: private interventies’;  
 
-b. subsidies die vóór de inwerkingtreding van deze regeling zijn verleend op grond van de [Subsidieregeling VWS-subsidies](../../../../ministeriele-regeling/subsidieregeling/vws-subsidies/BWBR0019947/README.md), met dien verstande dat, in afwijking van [artikel 30, derde lid, tweede volzin, van de Subsidieregeling VWS-subsidies](../../../../ministeriele-regeling/subsidieregeling/vws-subsidies/BWBR0019947/README.md), de egalisatiereserve die door de ontvanger van een instellingssubsidie anders dan bedoeld in artikel 8, onderdeel f, op grond van artikel 30, derde lid, van de Subsidieregeling VWS-subsidies is opgebouwd, bij de vaststelling in mindering kan worden gebracht;  
+b. subsidies die vóór de inwerkingtreding van deze regeling zijn verleend op grond van de Subsidieregeling VWS-subsidies, met dien verstande dat, in afwijking van artikel 30, derde lid, tweede volzin, van de Subsidieregeling VWS-subsidies, de egalisatiereserve die door de ontvanger van een instellingssubsidie anders dan bedoeld in artikel 8, onderdeel f, op grond van artikel 30, derde lid, van de Subsidieregeling VWS-subsidies is opgebouwd, bij de vaststelling in mindering kan worden gebracht;  
 
-c. subsidies die voor de inwerkingtreding van deze regeling zijn vastgesteld op grond van de [Subsidieregeling VWS-subsidies](../../../../ministeriele-regeling/subsidieregeling/vws-subsidies/BWBR0019947/README.md).    
+c. subsidies die voor de inwerkingtreding van deze regeling zijn vastgesteld op grond van de Subsidieregeling VWS-subsidies.    
 
 ### Artikel  73  
 

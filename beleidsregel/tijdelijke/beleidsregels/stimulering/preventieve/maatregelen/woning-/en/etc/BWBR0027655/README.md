@@ -3,7 +3,7 @@
 ##Tijdelijke beleidsregels van de Minister van Justitie van 26 april 2010, nr. DDS5650637, omtrent het verstrekken van subsidie ter stimulering van het nemen van preventieve maatregelen na een woning- of bedrijfsoverval (Tijdelijke beleidsregels stimulering preventieve maatregelen woning- en bedrijfsovervallen)
 
 De Minister van Justitie,  
-Gelet op [artikel 35 van de Wet Justitie-subsidies](../../../../../../../../../../wet/wet/justitie-subsidies/BWBR0008121/README.md) en [artikel 4:4 van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);
+Gelet op artikel 35 van de Wet Justitie-subsidies en artikel 4:4 van de Algemene wet bestuursrecht;
 Besluit:    
 
 ### Artikel  1  
@@ -18,7 +18,7 @@ c.  *overval:* het met geweld of bedreiging met geweld wegnemen of afpersen van 
 
 d.  *criminele activiteiten:* gedragingen die bij of krachtens de wet strafbaar zijn gesteld;  
 
-e.  *Commissie Schadefonds Geweldsmisdrijven:* de commissie, bedoeld in [artikel 8 van de Wet schadefonds geweldsmisdrijven](../../../../../../../../../../wet/wet/schadefonds/geweldsmisdrijven/BWBR0002979/README.md).   
+e.  *Commissie Schadefonds Geweldsmisdrijven:* de commissie, bedoeld in artikel 8 van de Wet schadefonds geweldsmisdrijven.   
 
 ### Artikel  2  
 

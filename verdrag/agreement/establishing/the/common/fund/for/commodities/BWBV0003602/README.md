@@ -617,7 +617,7 @@ The Fund shall issue and transmit to Members an annual report containing an audi
 
 ####Relations with the United Nations and other organizations
 
-1.  The Fund may enter into negotiations with the United Nations with a view to concluding an agreement to bring the Fund into relationship with the United Nations as one of the specialized agencies referred to in [article 57 of the Charter of the United Nations](../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md). Any Agreement concluded in accordance with [Article 63 of the Charter](../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md) shall require the approval of the Governing Council, upon the recommendation of the Executive Board.   
+1.  The Fund may enter into negotiations with the United Nations with a view to concluding an agreement to bring the Fund into relationship with the United Nations as one of the specialized agencies referred to in article 57 of the Charter of the United Nations. Any Agreement concluded in accordance with Article 63 of the Charter shall require the approval of the Governing Council, upon the recommendation of the Executive Board.   
 2.  The Fund may co-operate closely with UNCTAD and the organizations of the United Nations system, other intergovernmental organizations, international financial institutions, non-governmental organizations and governmental agencies concerned with related fields of activities and, if deemed necessary, enter into agreements with such bodies.   
 3.  The Fund may establish working arrangements with the bodies referred to in paragraph 2 of this article, as may be decided by the Executive Board.  
 
@@ -1986,7 +1986,7 @@ Het Fonds publiceert en zendt aan de Leden een jaarverslag, dat een door account
 
 ####Betrekkingen met de Verenigde Naties en andere organisaties
 
-1.  Het Fonds kan onderhandelingen aangaan met de Verenigde Naties om een overeenkomst te sluiten ten einde betrekkingen aan te knopen met de Verenigde Naties als een van de gespecialiseerde organisaties bedoeld in [artikel 57 van het Handvest der Verenigde Naties](../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md). Voor overeenkomsten gesloten ingevolge [artikel 63 van het Handvest](../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md) is de goedkeuring vereist van de Raad van Bestuur op aanbeveling van het College van Bewindvoerders.  
+1.  Het Fonds kan onderhandelingen aangaan met de Verenigde Naties om een overeenkomst te sluiten ten einde betrekkingen aan te knopen met de Verenigde Naties als een van de gespecialiseerde organisaties bedoeld in artikel 57 van het Handvest der Verenigde Naties. Voor overeenkomsten gesloten ingevolge artikel 63 van het Handvest is de goedkeuring vereist van de Raad van Bestuur op aanbeveling van het College van Bewindvoerders.  
 2.  Het Fonds kan nauw samenwerken met de UNCTAD en de organisaties binnen het stelsel der Verenigde Naties, met andere intergouvernementele organisaties, internationale financiële instellingen, niet-gouvernementele organisaties en overheidsinstanties die zich bezig houden met verwante activiteiten en kan, indien zulks noodzakelijk wordt geacht, overeenkomsten sluiten met zodanige organen.  
 3.  Het Fonds kan regelingen inzake werkzaamheden treffen met de in het tweede lid van dit artikel bedoelde organen, al naar gelang het College van Bewindvoerders besluit.  
 
