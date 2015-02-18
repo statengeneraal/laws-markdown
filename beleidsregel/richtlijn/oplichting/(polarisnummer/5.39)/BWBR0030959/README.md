@@ -4,7 +4,7 @@
 
 ####Beschrijving
 
-Deze richtlijn ziet op de meest voorkomende vormen van oplichting, zoals omschreven in [art 326, lid 1 Wetboek van strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), waarbij een of meerdere slachtoffers bewogen wordt/worden tot de afgifte van geld of goederen, danwel tot het verlenen van (een) dienst(en). Het gaat daarbij om oplichting van burgers of bedrijven, niet van de overheid (verticale fraude). Indien tevens valsheid in geschrift is gepleegd (zoals vaak bij verzekeringsfraude) dient het zwaardere misdrijf van [artikel 225 ev. Wetboek van strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) als uitgangspunt te worden genomen en niet de oplichting. Indien een oplichting over een langere periode (stelselmatig) plaatsvindt, op professionele wijze is opgezet of meerdere slachtoffers treft, dient dit strafverzwarend te worden beoordeeld. Eveneens dient ingeval er bewust kwetsbare slachtoffers zijn uitgekozen een zwaardere sanctie gehanteerd te worden. Als uitgangspunt geldt in deze richtlijn dat de schade door de dader is vergoed of wordt vergoed (door middel van een schadevergoedingsmaatregel) en dat wederrechtelijk verkregen voordeel wordt ontnomen.   
+Deze richtlijn ziet op de meest voorkomende vormen van oplichting, zoals omschreven in art 326, lid 1 Wetboek van strafrecht, waarbij een of meerdere slachtoffers bewogen wordt/worden tot de afgifte van geld of goederen, danwel tot het verlenen van (een) dienst(en). Het gaat daarbij om oplichting van burgers of bedrijven, niet van de overheid (verticale fraude). Indien tevens valsheid in geschrift is gepleegd (zoals vaak bij verzekeringsfraude) dient het zwaardere misdrijf van artikel 225 ev. Wetboek van strafrecht als uitgangspunt te worden genomen en niet de oplichting. Indien een oplichting over een langere periode (stelselmatig) plaatsvindt, op professionele wijze is opgezet of meerdere slachtoffers treft, dient dit strafverzwarend te worden beoordeeld. Eveneens dient ingeval er bewust kwetsbare slachtoffers zijn uitgekozen een zwaardere sanctie gehanteerd te worden. Als uitgangspunt geldt in deze richtlijn dat de schade door de dader is vergoed of wordt vergoed (door middel van een schadevergoedingsmaatregel) en dat wederrechtelijk verkregen voordeel wordt ontnomen.   
 
 ####Aard van de richtlijn
 
@@ -16,7 +16,7 @@ Commuun
 
 ####Wettekst
 
-– [Wetboek van strafrecht, art 326](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)       
+– Wetboek van strafrecht, art 326       
 
 ####Basisdelict oplichting nr. 5.39.01
 
@@ -26,7 +26,7 @@ oplichting
 
 ####Toepasselijk kader
 
-[Aanwijzing kader voor strafvordering](../../../../../../beleidsregel/aanwijzing/kader/voor/strafvordering/BWBR0030950/README.md)    
+Aanwijzing kader voor strafvordering    
 
 ####Basispunten
 
@@ -108,7 +108,7 @@ Geen
 
 ####Maatwerk
 
-*Indien sprake is van recidive volgens beoordelingsfactor 3.01.59 of beoordelingsfactor 3.04.04 dient bepaald te worden of het delict een contraindicatie voor een taakstraf heeft op grond van art 22b lid 2 WvSr.*Taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)
+*Indien sprake is van recidive volgens beoordelingsfactor 3.01.59 of beoordelingsfactor 3.04.04 dient bepaald te worden of het delict een contraindicatie voor een taakstraf heeft op grond van art 22b lid 2 WvSr.*Taakstrafverbod als bedoeld in art 22b lid 2 WvSr
 
 | --- | --- |
 |:---|:---|

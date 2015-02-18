@@ -16,7 +16,7 @@ Commuun
 
 ####Wettekst
 
-– [Wetboek van Strafrecht art. 321](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) – [Wetboek van Strafrecht art. 322](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)    
+– Wetboek van Strafrecht art. 321 – Wetboek van Strafrecht art. 322    
 
 ####Basisdelict
 
@@ -105,8 +105,8 @@ Geen
 
 | --- | --- | --- |
 |:---|:---|:---|
-| - Er is geen sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) | +0 % | --- |
-|- Er is sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  |+0 %  |*(CKT) * |
+| - Er is geen sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr | +0 % | --- |
+|- Er is sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr  |+0 %  |*(CKT) * |
 
 *(CKT) + contra-indicatie kale taakstraf *
 ###Speciale regelingen

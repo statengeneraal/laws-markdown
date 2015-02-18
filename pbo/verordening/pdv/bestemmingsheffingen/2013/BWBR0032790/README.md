@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Diervoeder van 31 oktober 2012, houdende regels ter zake van de aan de onder het Productschap Diervoeder ressorterende ondernemers op te leggen heffing (Verordening PDV bestemmingsheffingen 2013).
 
 Het bestuur van het Productschap Diervoeder; 
-Gelet op de [artikelen 95](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [126, eerste lid](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en [128, vierde lid, van de Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op de [artikelen 12](../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md) en [19 van het Instellingsbesluit Akkerbouwproductschappen](../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md);
+Gelet op de artikelen 95, 126, eerste lid, en 128, vierde lid, van de Wet op de bedrijfsorganisatie en op de artikelen 12 en 19 van het Instellingsbesluit Akkerbouwproductschappen;
 Besluit: 
 ###§  1  
 
@@ -127,7 +127,7 @@ Het productschap kan besluiten nota's van minder dan € 50,- samen te voegen to
 
 ###Artikel  12 
 
-Aan de ondernemer die niet of niet geheel binnen de in artikel 10 gestelde termijn heeft betaald, kan door het productschap de wettelijke interest over het niet betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk diende te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md).
+Aan de ondernemer die niet of niet geheel binnen de in artikel 10 gestelde termijn heeft betaald, kan door het productschap de wettelijke interest over het niet betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk diende te zijn verricht ingevolge de aanmaning bedoeld in artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie.
 
 ###§  5  
 
@@ -135,7 +135,7 @@ Aan de ondernemer die niet of niet geheel binnen de in artikel 10 gestelde termi
 
 ###Artikel  13 
 
-1.  [Verordening PDV bestemmingsheffingen 2012-II](../../../../../../pbo/verordening/pdv/bestemmingsheffingen/2012-ii/BWBR0031893/README.md) wordt ingetrokken. 
+1.  Verordening PDV bestemmingsheffingen 2012-II wordt ingetrokken. 
 2.  Ondernemers die in het jaar 2012 de volgende handelingen hebben verricht, zijn heffingsplichtig voor zover de betreffende heffing niet reeds is voldaan op grond van de in het eerste lid ingetrokken verordening: 
 
 a. het produceren van 
@@ -210,18 +210,19 @@ Tarieven bestemmingsheffingen 2013 (in eurocenten per 1.000kg)
 
 Tarieven bestemmingsheffingen 2014 (in eurocenten per 1.000 kg)  
 
-| --- | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|:---|
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|:---|:---|:---|:---|:---|:---|:---|:---|
 | --- |totaal |kwaliteitscontrole vleeskalversector |veevoedkundig onderzoek |voedingsonderzoek vleeskalveren |arbeid en arbeidsomstandigheden |
-|Productie van mengvoeders (excl. kunstmelkvoeders voor kalveren) |2,9 |- |2,5 |- |0,4 |
-|Productie van concentraten en voormengsels |2,9 |- |2,5 |- |0,4 |
-|Productie van huisdiervoeders |0,4 |- |- |- |0,4 |
-|Productie van kunstmelkvoeders voor vleeskalveren |0,4 |- |- |- |0,4 |
-|Productie van kunstmelkvoeders voor overige kalveren |0,4 |- |- |- |0,4 |
-|Productie van gedroogde bie-tenpulp en gedroogde voedergewassen |2,5 |- |2,5 |- |- |
-|Productie van vochtrijke voedermiddelen |2,8 |- |2,8 |- |- |
-|Handel in droge voedermiddelen |0,0 |- |- |- |- |
-|Handel in vochtrijke voedermiddelen |0,0 |- |- |- |- |
+| --- | --- | --- | --- |vanaf 1 juli 2014 | --- | --- | vanaf 1 oktober 2014 |
+|Productie van mengvoeders (excl. kunstmelkvoeders voor kalveren) |2,9 |- |2,5 |0 |- |0,4 |0 |
+|Productie van concentraten en voormengsels |2,9 |- |2,5 |0 |- |0,4 |0 |
+|Productie van huisdiervoeders |0,4 |- |- |0 |- |0,4 |0 |
+|Productie van kunstmelkvoeders voor vleeskalveren |0,4 |- |- |0 |- |0,4 |0 |
+|Productie van kunstmelkvoeders voor overige kalveren |0,4 |- |- |0 |- |0,4 |0 |
+|Productie van gedroogde bie-tenpulp en gedroogde voedergewassen |2,5 |- |2,5 |0 |- |- |0 |
+|Productie van vochtrijke voedermiddelen |2,8 |- |2,8 |0 |- |- |0 |
+|Handel in droge voedermiddelen |0,0 |- |- |0 |- |- |0 |
+|Handel in vochtrijke voedermiddelen |0,0 |- |- |0 |- |- |0 |
 
 ###I.B. Tarieven 2012 (in eurocenten per 1.000 kg)
 
@@ -253,14 +254,13 @@ Bestemmingsheffingen toevoegingsmiddelen 2012 en 2013 (in euro per onderneming)
 
 Bestemmingsheffingen toevoegingsmiddelen 2014 (in euro per onderneming)  
 
-| --- | --- | --- | --- |
-|:---|:---|:---|:---|
-|Omzetklasse | --- | --- |Heffingtarief |
-|< € 400.000 | --- | --- |€ 77,- |
-|€ 400.000 - < € 1.000.000  |€ 77,- + |*(werkeliike omzet - € 400.000)* |x € 115,- |
-| --- | --- |€ 600.000 | --- |
-|≥ € 1.000.000 | --- | --- |€ 192,- |
-|Geen opgave | --- | --- |€ 192,- |
+| Omzetklasse  | Heffingtarief  |
+|:---|:---|
+| < € 400.000  | --- | --- |€ 77,–x 0,75 |
+| € 400.000 – < € 1.000.000:  |€ 77,– +  | *(werkelijke omzet – € 400.000)*  | x € 115,–x 0,75 |
+| --- | --- | € 600.000  | --- |
+| ≥ € 1.000.000  | --- | --- |€ 192,–x 0,75 |
+| Geen opgave  | --- | --- |€ 192,–x 0,75 |
 
 ###Bijlage  II  
 
