@@ -16,7 +16,7 @@ Commuun
 
 ####Wettekst
 
-– [Wetboek van Strafrecht art. 138](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) – [Wetboek van Strafrecht art. 139](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  *Met betrekking tot de eendaadse samenloop valt art. 55 WvSr. te vermelden.*  – [Wetboek van Strafrecht art. 55](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)    
+– Wetboek van Strafrecht art. 138 – Wetboek van Strafrecht art. 139  *Met betrekking tot de eendaadse samenloop valt art. 55 WvSr. te vermelden.*  – Wetboek van Strafrecht art. 55    
 
 ####Basisdelict
 
@@ -103,8 +103,8 @@ Geen
 
 | --- | --- | --- |
 |:---|:---|:---|
-| - Er is geen sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) | +0 % | --- |
-|- Er is sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  |+0 %  |*(CKT) * |
+| - Er is geen sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr | +0 % | --- |
+|- Er is sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr  |+0 %  |*(CKT) * |
 
 *(CKT) + contra-indicatie kale taakstraf * 
 ### *Speciale regelingen* 
@@ -112,7 +112,7 @@ Geen
 Geen 
 ### *Bijzonderheden* 
 
-Indien er sprake is van bedreiging in de zin van [art. 285 WvSr.](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) verdient het de voorkeur gezien de hogere strafbedreiging vervolging plaats te laten vinden op grond van art. 285 WvSr. Indien tevens sprake is van mishandeling als bedoeld in [art. 300 WvSr.](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) of vernieling als bedoeld in [art. 350 WvSr.](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), dan kan tevens separaat worden vervolgd voor één van deze delicten.Met bedreiging wordt in de beoordelingsfactor 'strafverzwarende omstandigheden' bedoeld iemand te zullen slaan, of buiten op te wachten etc. Dus elke vorm van bedreiging die niet valt onder [art. 285 WvSr](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).Verzwarende omstandigheden tellen slechts één keer mee, ook al is er sprake van meer. Het betreft hier telkens omstandigheden, die maken dat het delict een grotere impact heeft op de rechthebbende.     
+Indien er sprake is van bedreiging in de zin van art. 285 WvSr. verdient het de voorkeur gezien de hogere strafbedreiging vervolging plaats te laten vinden op grond van art. 285 WvSr. Indien tevens sprake is van mishandeling als bedoeld in art. 300 WvSr. of vernieling als bedoeld in art. 350 WvSr., dan kan tevens separaat worden vervolgd voor één van deze delicten.Met bedreiging wordt in de beoordelingsfactor 'strafverzwarende omstandigheden' bedoeld iemand te zullen slaan, of buiten op te wachten etc. Dus elke vorm van bedreiging die niet valt onder art. 285 WvSr.Verzwarende omstandigheden tellen slechts één keer mee, ook al is er sprake van meer. Het betreft hier telkens omstandigheden, die maken dat het delict een grotere impact heeft op de rechthebbende.     
 
 ####Basisdelict
 
@@ -196,8 +196,8 @@ Geen
 
 | --- | --- | --- |
 |:---|:---|:---|
-| - Er is geen sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) | +0 % | --- |
-|- Er is sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  |+0 %  |*(CKT) * |
+| - Er is geen sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr | +0 % | --- |
+|- Er is sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr  |+0 %  |*(CKT) * |
 
 *(CKT) + contra-indicatie kale taakstraf * 
 ### *Speciale regelingen* 
@@ -205,7 +205,7 @@ Geen
 Geen 
 ### *Bijzonderheden* 
 
-Indien er sprake is van bedreiging in de zin van [art. 285 WvSr.](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) verdient het de voorkeur gezien de hogere strafbedreiging vervolging plaats te laten vinden op grond van art. 285 WvSr. Indien tevens sprake is van mishandeling als bedoeld in [art. 300 WvSr.](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) of vernieling als bedoeld in [art. 350 WvSr.](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), dan kan tevens separaat worden vervolgd voor één van deze delicten. Met bedreiging wordt in de beoordelingsfactor 'strafverzwarende omstandigheden' bedoeld iemand te zullen slaan, of buiten op te wachten etc. Dus elke vorm van bedreiging die niet valt onder [art. 285 WvSr](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md). Verzwarende omstandigheden tellen slechts één keer mee, ook al is er sprake van meer. Het betreft hier telkens omstandigheden, die maken dat het delict een grotere impact heeft op de rechthebbende.     
+Indien er sprake is van bedreiging in de zin van art. 285 WvSr. verdient het de voorkeur gezien de hogere strafbedreiging vervolging plaats te laten vinden op grond van art. 285 WvSr. Indien tevens sprake is van mishandeling als bedoeld in art. 300 WvSr. of vernieling als bedoeld in art. 350 WvSr., dan kan tevens separaat worden vervolgd voor één van deze delicten. Met bedreiging wordt in de beoordelingsfactor 'strafverzwarende omstandigheden' bedoeld iemand te zullen slaan, of buiten op te wachten etc. Dus elke vorm van bedreiging die niet valt onder art. 285 WvSr. Verzwarende omstandigheden tellen slechts één keer mee, ook al is er sprake van meer. Het betreft hier telkens omstandigheden, die maken dat het delict een grotere impact heeft op de rechthebbende.     
 
 ####Basisdelict
 
@@ -292,8 +292,8 @@ Geen
 
 | --- | --- | --- |
 |:---|:---|:---|
-| - Er is geen sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) | +0 % | --- |
-|- Er is sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  |+0 %  |*(CKT) * |
+| - Er is geen sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr | +0 % | --- |
+|- Er is sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr  |+0 %  |*(CKT) * |
 
 *(CKT) + contra-indicatie kale taakstraf * 
 ### *Speciale regelingen* 
@@ -301,4 +301,4 @@ Geen
 Geen 
 ### *Bijzonderheden* 
 
-Indien er sprake is van bedreiging in de zin van [art. 285 WvSr.](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) verdient het de voorkeur gezien de hogere strafbedreiging vervolging plaats te laten vinden op grond van art. 285 WvSr. Indien tevens sprake is van mishandeling als bedoeld in [art. 300 WvSr.](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) of vernieling als bedoeld in [art. 350 WvSr.](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), dan kan tevens separaat worden vervolgd voor één van deze delicten. Met bedreiging wordt in de beoordelingsfactor 'strafverzwarende omstandigheden' bedoeld iemand te zullen slaan, of buiten op te wachten etc. Dus elke vorm van bedreiging die niet valt onder [art. 285 WvSr](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md). Verzwarende omstandigheden tellen slechts één keer mee, ook al is er sprake van meer. Het betreft hier telkens omstandigheden, die maken dat het delict een grotere impact heeft op de rechthebbende. Anders dan voorheen in een aantal (lokale) richtlijnen werd vermeld zijn openbaar toegankelijke ruimtes, zoals cafés, NS-stations en dergelijke geen lokalen bestemd voor de openbare dienst.     
+Indien er sprake is van bedreiging in de zin van art. 285 WvSr. verdient het de voorkeur gezien de hogere strafbedreiging vervolging plaats te laten vinden op grond van art. 285 WvSr. Indien tevens sprake is van mishandeling als bedoeld in art. 300 WvSr. of vernieling als bedoeld in art. 350 WvSr., dan kan tevens separaat worden vervolgd voor één van deze delicten. Met bedreiging wordt in de beoordelingsfactor 'strafverzwarende omstandigheden' bedoeld iemand te zullen slaan, of buiten op te wachten etc. Dus elke vorm van bedreiging die niet valt onder art. 285 WvSr. Verzwarende omstandigheden tellen slechts één keer mee, ook al is er sprake van meer. Het betreft hier telkens omstandigheden, die maken dat het delict een grotere impact heeft op de rechthebbende. Anders dan voorheen in een aantal (lokale) richtlijnen werd vermeld zijn openbaar toegankelijke ruimtes, zoals cafés, NS-stations en dergelijke geen lokalen bestemd voor de openbare dienst.     

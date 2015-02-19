@@ -3,7 +3,7 @@
 ##Verordening van het Hoofdbedrijfschap Ambachten van 2 oktober 2002, houdende vaststelling bestemmingsheffing ten behoeve van de Commissie dakdekkers hellende daken voor het jaar 2003 (Heffingsverordening Commissie dakdekkers hellende daken 2003)
 
 Het bestuur van het Hoofdbedrijfschap Ambachten;
-Gelet op [artikel 126 van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), juncto artikel 10, tweede en derde lid, van de Instellingsverordening Hoofdbedrijfschap Ambachten;
+Gelet op artikel 126 van de Wet op de bedrijfsorganisatie, juncto artikel 10, tweede en derde lid, van de Instellingsverordening Hoofdbedrijfschap Ambachten;
 
 Gehoord de Commissie dakdekkers hellende daken;
 Besluit:
@@ -24,7 +24,7 @@ b.de ondernemer: degene die een onderneming drijft, dan wel degenen die gezamenl
 
 c.het dakdekkersbedrijf hellende daken: het bedrijf van het aanbrengen, onderhouden of herstellen van lei- of pannendaken;
 
-d.werkzame personen: personen als bedoeld in [artikel 9, derde lid, van het Handelsregisterbesluit 1996](../../../../../../../../AMvB/handelsregisterbesluit/1996/BWBR0008920/README.md) die betrokken zijn bij de uitoefening van het dakdekkersbedrijf hellende daken.
+d.werkzame personen: personen als bedoeld in artikel 9, derde lid, van het Handelsregisterbesluit 1996 die betrokken zijn bij de uitoefening van het dakdekkersbedrijf hellende daken.
 
 ###Artikel 2 
 Materieel uitgewerkt per 01-01-2004 
@@ -69,7 +69,7 @@ Materieel uitgewerkt per 01-01-2004
 
 a.krachtens haar statutaire doelstelling haar werkzaamheid kan uitstrekken tot ten minste een belangrijk gedeelte van het terrein waarop het bedrijfslichaam een taak heeft te vervullen,
 
-b.voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de [artikelen 3 tot en met 7 van de Verordening representativiteit organisaties](../../../../../../../../pbo/verordening/representativiteit/organisaties/BWBR0011641/README.md),
+b.voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de artikelen 3 tot en met 7 van de Verordening representativiteit organisaties,
 
 c.tot de werkingssfeer van het bedrijfslichaam behorende leden heeft, waarvan het gewogen aantal niet-onbetekend is,
 

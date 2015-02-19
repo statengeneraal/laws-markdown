@@ -4,11 +4,11 @@
 
 ####Beschrijving
 
-Op 1 juli 1999 is een wijziging van de [Wet luchtvaart](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) in werking getreden met als doel het bedienen van een luchtvaartuig en/of het verlenen van luchtverkeersdiensten onder invloed van alcohol of andere middelen of een combinatie van middelen tegen te gaan. Deze richtlijn ziet op het bedienen van een luchtvaartuig door cockpitpersoneel, het verrichten van werkzaamheden ten behoeve van inzittenden of lading door ander boordpersoneel of het verlenen van luchtverkeersdiensten onder invloed van: 
+Op 1 juli 1999 is een wijziging van de Wet luchtvaart in werking getreden met als doel het bedienen van een luchtvaartuig en/of het verlenen van luchtverkeersdiensten onder invloed van alcohol of andere middelen of een combinatie van middelen tegen te gaan. Deze richtlijn ziet op het bedienen van een luchtvaartuig door cockpitpersoneel, het verrichten van werkzaamheden ten behoeve van inzittenden of lading door ander boordpersoneel of het verlenen van luchtverkeersdiensten onder invloed van: 
 
-a. een stof, zoals bedoeld in [artikel 2.12, eerste lid Wet luchtvaart](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) of  
+a. een stof, zoals bedoeld in artikel 2.12, eerste lid Wet luchtvaart of  
 
-b. alcohol, zoals bedoeld in [artikel 2.12, tweede en derde lid Wet luchtvaart](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md).   Ad a) Hoewel [artikel 2.12, eerste lid](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), niet noodzakelijkerwijs alcohol betreft, kan deze richtlijn betrekking hebben op cockpitpersoneel of ander boordpersoneel of luchtverkeersdienstverleners onder invloed van alcohol, waarbij (om enige reden) op incorrecte wijze of in het geheel geen alcoholgehalte van adem, bloed of urine is vastgesteld. Het kan ook gaan om andere middelen dan alcohol of een combinatie van middelen. Tevens dient in aanmerking genomen te worden of het verrichten van werkzaamheden ten aanzien van het luchtvaartuig ernstig gevaar op kon leveren of geleverd heeft. Indien verdachte in kennelijke staat van dronkenschap verkeerde of een daarmee gelijk te stellen toestand, dient dit als verzwarend te worden beoordeeld. Ad b) Bij [artikel 2.12, derde lid](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), is het adem-alcoholgehalte (AAG) of bloedalcoholgehalte (BAG) bekend. De basisdelicten zijn geformuleerd, uitgaande van het soort luchtvaartuig waarmee het delict werd begaan. Naast het vliegen onder invloed ziet de richtlijn tevens op de diverse vormen van weigering met betrekking tot onderzoek naar het AAG en BAG, zoals bedoeld in de [artikelen 11.4](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) en [11.6 Wet luchtvaart](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md). Ook ziet deze richtlijn op het (doen) bedienen van een luchtvaartuig tijdens duur vliegverbod en/of het geven van luchtverkeersleiding tijdens duur verbod van het geven van zodanige leiding.    
+b. alcohol, zoals bedoeld in artikel 2.12, tweede en derde lid Wet luchtvaart.   Ad a) Hoewel artikel 2.12, eerste lid, niet noodzakelijkerwijs alcohol betreft, kan deze richtlijn betrekking hebben op cockpitpersoneel of ander boordpersoneel of luchtverkeersdienstverleners onder invloed van alcohol, waarbij (om enige reden) op incorrecte wijze of in het geheel geen alcoholgehalte van adem, bloed of urine is vastgesteld. Het kan ook gaan om andere middelen dan alcohol of een combinatie van middelen. Tevens dient in aanmerking genomen te worden of het verrichten van werkzaamheden ten aanzien van het luchtvaartuig ernstig gevaar op kon leveren of geleverd heeft. Indien verdachte in kennelijke staat van dronkenschap verkeerde of een daarmee gelijk te stellen toestand, dient dit als verzwarend te worden beoordeeld. Ad b) Bij artikel 2.12, derde lid, is het adem-alcoholgehalte (AAG) of bloedalcoholgehalte (BAG) bekend. De basisdelicten zijn geformuleerd, uitgaande van het soort luchtvaartuig waarmee het delict werd begaan. Naast het vliegen onder invloed ziet de richtlijn tevens op de diverse vormen van weigering met betrekking tot onderzoek naar het AAG en BAG, zoals bedoeld in de artikelen 11.4 en 11.6 Wet luchtvaart. Ook ziet deze richtlijn op het (doen) bedienen van een luchtvaartuig tijdens duur vliegverbod en/of het geven van luchtverkeersleiding tijdens duur verbod van het geven van zodanige leiding.    
 
 ####Aard van de richtlijn
 
@@ -16,11 +16,11 @@ b. alcohol, zoals bedoeld in [artikel 2.12, tweede en derde lid Wet luchtvaart](
 
 ####Basisdelicten
 
-– Bedienen van een luchtvaartuig ≥ 6000 kg door cockpitpersoneel of het verlenen van luchtverkeersdiensten door een luchtverkeersleider onder invloed van een stof, zoals bedoeld in [art. 2.12, eerste lid Wet Luchtvaart](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), al dan niet in kennelijke staat van dronkenschap of daarmee gelijk te stellen toestand  
+– Bedienen van een luchtvaartuig ≥ 6000 kg door cockpitpersoneel of het verlenen van luchtverkeersdiensten door een luchtverkeersleider onder invloed van een stof, zoals bedoeld in art. 2.12, eerste lid Wet Luchtvaart, al dan niet in kennelijke staat van dronkenschap of daarmee gelijk te stellen toestand  
 
-– Bedienen van een luchtvaartuig < 6000 kg (bedrijfsmatig) door cockpitpersoneel of het verlenen van luchtverkeersdiensten door een assistent-luchtverkeersleider onder invloed van een stof, zoals bedoeld in [art. 2.12, eerste lid Wet Luchtvaart](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), al dan niet in kennelijke staat van dronkenschap of daarmee gelijk te stellen toestand  
+– Bedienen van een luchtvaartuig < 6000 kg (bedrijfsmatig) door cockpitpersoneel of het verlenen van luchtverkeersdiensten door een assistent-luchtverkeersleider onder invloed van een stof, zoals bedoeld in art. 2.12, eerste lid Wet Luchtvaart, al dan niet in kennelijke staat van dronkenschap of daarmee gelijk te stellen toestand  
 
-– Bedienen van een luchtvaartuig < 6000 kg (privé) door cockpitpersoneel of het verrichten van werkzaamheden ten behoeve van passagiers en/of lading door ander boordpersoneel onder invloed van een stof, zoals bedoeld in [art. 2.12, eerste lid Wet Luchtvaart](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), al dan niet in kennelijke staat van dronkenschap of daarmee gelijk te stellen toestand  
+– Bedienen van een luchtvaartuig < 6000 kg (privé) door cockpitpersoneel of het verrichten van werkzaamheden ten behoeve van passagiers en/of lading door ander boordpersoneel onder invloed van een stof, zoals bedoeld in art. 2.12, eerste lid Wet Luchtvaart, al dan niet in kennelijke staat van dronkenschap of daarmee gelijk te stellen toestand  
 
 – Bedienen van een luchtvaartuig > = 6000 kg door cockpitpersoneel of het verlenen van luchtverkeersdiensten door een luchtverkeersleider met een AAG (-equivalent) van 95 µg/l of meer  
 
@@ -42,34 +42,34 @@ b. alcohol, zoals bedoeld in [artikel 2.12, tweede en derde lid Wet luchtvaart](
 
 ####Wettekst
 
-– [Wet Luchtvaart art. 2.11](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md)  
+– Wet Luchtvaart art. 2.11  
 
-– [Wet Luchtvaart art. 2.12](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md)  
+– Wet Luchtvaart art. 2.12  
 
-– [Wet Luchtvaart art. 5.3](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md)  
+– Wet Luchtvaart art. 5.3  
 
-– [Wet Luchtvaart art. 11.4](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md)  
+– Wet Luchtvaart art. 11.4  
 
-– [Wet Luchtvaart art. 11.5](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md)  
+– Wet Luchtvaart art. 11.5  
 
-– [Wet Luchtvaart art. 11.6](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md)  
+– Wet Luchtvaart art. 11.6  
 
-– [Wet Luchtvaart art. 11.7](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md)  
+– Wet Luchtvaart art. 11.7  
 
-– [Wet Luchtvaart art. 11.8](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md)  
+– Wet Luchtvaart art. 11.8  
 
-– [Wet Luchtvaart art. 11.8a](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md)  
+– Wet Luchtvaart art. 11.8a  
 
-– [Wet Luchtvaart art. 11.9](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md)  
+– Wet Luchtvaart art. 11.9  
 
-– [Wet Luchtvaart art. 11.10](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md)      
+– Wet Luchtvaart art. 11.10      
 
 #### *Basisdelict* 
 
 *Bedienen van een luchtvaartuig ≥ 6000 kg door cockpitpersoneel of het verlenen van luchtverkeersdiensten door een luchtverkeersleider onder invloed van een stof, zoals bedoeld in art. 2.12, eerste lid respectievelijk art. 2.11, tweede lid Wet luchtvaart, al dan niet in kennelijke staat van dronkenschap of daarmee gelijk te stellen toestand.*  
 ### *Beschrijving* 
 
-Dit basisdelict ziet op overtreding van [art. 2.12, eerste lid](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) dan wel [art. 2.11, tweede lid Wet luchtvaart](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md): het onder invloed van een stof bedienen van een luchtvaartuig door cockpitpersoneel of het verlenen van luchtverkeersdiensten door een luchtverkeersleider, al dan niet in kennelijke staat van dronkenschap of daarmee gelijk te stellen toestand. Het luchtvaartuig waarmee het delict wordt begaan, is daarbij maatgevend voor de basis van de sanctie. Dit basisdelict betreft een luchtvaartuig ≥ 6000 kg. 
+Dit basisdelict ziet op overtreding van art. 2.12, eerste lid dan wel art. 2.11, tweede lid Wet luchtvaart: het onder invloed van een stof bedienen van een luchtvaartuig door cockpitpersoneel of het verlenen van luchtverkeersdiensten door een luchtverkeersleider, al dan niet in kennelijke staat van dronkenschap of daarmee gelijk te stellen toestand. Het luchtvaartuig waarmee het delict wordt begaan, is daarbij maatgevend voor de basis van de sanctie. Dit basisdelict betreft een luchtvaartuig ≥ 6000 kg. 
 ### *Toepasselijk kader* 
 
 verkeer 
@@ -78,7 +78,7 @@ verkeer
 190 
 ### *Delictspecifieke factoren* 
 
-Strafverzwarende omstandigheden i.v.m. [art. 2.12](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) dan wel [art. 2.11 Wet luchtvaart](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md)  
+Strafverzwarende omstandigheden i.v.m. art. 2.12 dan wel art. 2.11 Wet luchtvaart  
 
 | --- | --- | --- |
 |:---|:---|:---|
@@ -118,7 +118,7 @@ OBV regeling
 *Bedienen van een luchtvaartuig < 6000 kg (bedrijfsmatig) door cockpitpersoneel of het verlenen van luchtverkeersdiensten door een assistent-luchtverkeersleider onder invloed van een stof, zoals bedoeld in art. 2.12, eerste lid respectievelijk art. 2.11, tweede lid Wet luchtvaart, al dan niet in kennelijke staat van dronkenschap of daarmee gelijk te stellen toestand.*  
 ### *Beschrijving* 
 
-Dit basisdelict ziet op overtreding van [art. 2.12, eerste lid](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) dan wel [art. 2.11, tweede lid Wet luchtvaart](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md): het onder invloed van een stof bedienen van een luchtvaartuig door cockpitpersoneel of het verlenen van luchtverkeersdiensten door een assistent-luchtverkeersleider, al dan niet in kennelijke staat van dronkenschap of daarmee gelijk te stellen toestand. Het luchtvaartuig waarmee het delict wordt begaan, is daarbij maatgevend voor de basis van de sanctie. Dit basisdelict betreft een luchtvaartuig < 6000 kg (bedrijfsmatig). 
+Dit basisdelict ziet op overtreding van art. 2.12, eerste lid dan wel art. 2.11, tweede lid Wet luchtvaart: het onder invloed van een stof bedienen van een luchtvaartuig door cockpitpersoneel of het verlenen van luchtverkeersdiensten door een assistent-luchtverkeersleider, al dan niet in kennelijke staat van dronkenschap of daarmee gelijk te stellen toestand. Het luchtvaartuig waarmee het delict wordt begaan, is daarbij maatgevend voor de basis van de sanctie. Dit basisdelict betreft een luchtvaartuig < 6000 kg (bedrijfsmatig). 
 ### *Toepasselijk kader* 
 
 verkeer 
@@ -127,7 +127,7 @@ verkeer
 128 
 ### *Delictspecifieke factoren* 
 
-Strafverzwarende omstandigheden i.v.m. [art. 2.12](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) dan wel [art. 2.11 Wet Luchtvaart](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md)  
+Strafverzwarende omstandigheden i.v.m. art. 2.12 dan wel art. 2.11 Wet Luchtvaart  
 
 | --- | --- | --- |
 |:---|:---|:---|
@@ -168,7 +168,7 @@ OBV regeling
 *Bedienen van een luchtvaartuig < 6000 kg (privé) door cockpitpersoneel of het verrichten van werkzaamheden ten behoeve van passagiers en/of lading door ander boordpersoneel onder invloed van een stof, zoals bedoeld in art. 2.12, eerste lid Wet luchtvaart, al dan niet in kennelijke staat van dronkenschap of daarmee gelijk te stellen toestand.*  
 ### *Beschrijving* 
 
-Dit basisdelict ziet op overtreding van [art. 2.12, eerste lid Wet luchtvaart](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md): het onder invloed van een stof bedienen van een luchtvaartuig door cockpitpersoneel of het verrichten van werkzaamheden ten behoeve van passagiers en/of lading door ander boordpersoneel, al dan niet in kennelijke staat van dronkenschap of daarmee gelijk te stellen toestand. Het luchtvaartuig waarmee het delict wordt begaan, is daarbij maatgevend voor de basis van de sanctie. Dit basisdelict betreft een luchtvaartuig < 6000 kg (privé). 
+Dit basisdelict ziet op overtreding van art. 2.12, eerste lid Wet luchtvaart: het onder invloed van een stof bedienen van een luchtvaartuig door cockpitpersoneel of het verrichten van werkzaamheden ten behoeve van passagiers en/of lading door ander boordpersoneel, al dan niet in kennelijke staat van dronkenschap of daarmee gelijk te stellen toestand. Het luchtvaartuig waarmee het delict wordt begaan, is daarbij maatgevend voor de basis van de sanctie. Dit basisdelict betreft een luchtvaartuig < 6000 kg (privé). 
 ### *Toepasselijk kader* 
 
 verkeer 
@@ -177,7 +177,7 @@ verkeer
 49 
 ### *Delictspecifieke factoren* 
 
-Strafverzwarende omstandigheden i.v.m. [art. 2.12 Wet Luchtvaart](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md)  
+Strafverzwarende omstandigheden i.v.m. art. 2.12 Wet Luchtvaart  
 
 | --- | --- | --- |
 |:---|:---|:---|
@@ -218,7 +218,7 @@ OBV regeling
 *Bedienen van een luchtvaartuig ≥ 6000 kg door cockpitpersoneel of het verlenen van luchtverkeersdiensten door een luchtverkeersleider met een AAG (-equivalent) van 95 µg/l of meer.*  
 ### *Beschrijving* 
 
-Dit basisdelict ziet op overtreding van [art. 2.12, derde lid](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) juncto art. 2.12, zesde lid, Wet luchtvaart: het onder invloed bedienen van een luchtvaartuig door cockpitpersoneel of het verlenen van luchtverkeersdiensten door een luchtverkeersleider, waarbij de mate van overtreding op grond van een gemeten AAG of BAG vaststaat. Het luchtvaartuig waarmee het delict wordt begaan, bepaalt mede de gevaarzetting. In dit basisdelict betreft dat een luchtvaartuig ≥ 6000 kg. Dit delict start met een vast aantal strafpunten tot een grens van 95 µg/l. Vanaf daar wordt het aantal strafpunten op evenredige wijze afgeleid van het AAG of BAG. 
+Dit basisdelict ziet op overtreding van art. 2.12, derde lid juncto art. 2.12, zesde lid, Wet luchtvaart: het onder invloed bedienen van een luchtvaartuig door cockpitpersoneel of het verlenen van luchtverkeersdiensten door een luchtverkeersleider, waarbij de mate van overtreding op grond van een gemeten AAG of BAG vaststaat. Het luchtvaartuig waarmee het delict wordt begaan, bepaalt mede de gevaarzetting. In dit basisdelict betreft dat een luchtvaartuig ≥ 6000 kg. Dit delict start met een vast aantal strafpunten tot een grens van 95 µg/l. Vanaf daar wordt het aantal strafpunten op evenredige wijze afgeleid van het AAG of BAG. 
 ### *Toepasselijk kader* 
 
 verkeer 
@@ -238,7 +238,7 @@ Adem-alcoholgehalte (of AAG-equivalent) luchtvaartuig ≥ 6000 kg:
 –  *Schijf 2*: het gedeelte boven 0,9 promille 59,12 pt/promille   
 ### *Delictspecifieke factoren* 
 
-Strafverzwarende omstandigheden i.v.m. [art. 2.12 Wet luchtvaart](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md)  
+Strafverzwarende omstandigheden i.v.m. art. 2.12 Wet luchtvaart  
 
 | --- | --- | --- |
 |:---|:---|:---|
@@ -272,7 +272,7 @@ OBV regeling
 *Bedienen van een luchtvaartuig < 6000 kg (bedrijfsmatig) door cockpitpersoneel of het verlenen van luchtverkeersdiensten door een assistent-luchtverkeersleider met een AAG (-equivalent) van 95 µg/l of meer.*  
 ### *Beschrijving* 
 
-Dit basisdelict ziet op overtreding van [art. 2.12, derde lid](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) juncto art. 2.12, zesde lid Wet luchtvaart: het onder invloed bedienen van een luchtvaartuig door cockpitpersoneel of het verlenen van luchtverkeersdiensten door een assistent-luchtverkeersleider, waarbij de mate van overtreding op grond van een gemeten AAG of BAG vaststaat. Het luchtvaartuig waarmee het delict wordt begaan, bepaalt mede de gevaarzetting. In dit basisdelict betreft dat een luchtvaartuig < 6000 kg (bedrijfsmatig). Dit delict start met een vast aantal strafpunten tot een grens van 95 µg/l. Vanaf daar wordt het aantal strafpunten op evenredige wijze afgeleid van het AAG of BAG. 
+Dit basisdelict ziet op overtreding van art. 2.12, derde lid juncto art. 2.12, zesde lid Wet luchtvaart: het onder invloed bedienen van een luchtvaartuig door cockpitpersoneel of het verlenen van luchtverkeersdiensten door een assistent-luchtverkeersleider, waarbij de mate van overtreding op grond van een gemeten AAG of BAG vaststaat. Het luchtvaartuig waarmee het delict wordt begaan, bepaalt mede de gevaarzetting. In dit basisdelict betreft dat een luchtvaartuig < 6000 kg (bedrijfsmatig). Dit delict start met een vast aantal strafpunten tot een grens van 95 µg/l. Vanaf daar wordt het aantal strafpunten op evenredige wijze afgeleid van het AAG of BAG. 
 ### *Toepasselijk kader* 
 
 Commuun en verkeer 
@@ -292,7 +292,7 @@ Adem-alcoholgehalte (of AAG-equivalent) luchtvaartuig < 6000 kg (bedrijfsmatig):
 –  *Schijf 2*: het gedeelte boven 0,9 promille 36,95 pt/promille   
 ### *Delictspecifieke factoren* 
 
-Strafverzwarende omstandigheden i.v.m. [art. 2.12 Wet luchtvaart](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md)  
+Strafverzwarende omstandigheden i.v.m. art. 2.12 Wet luchtvaart  
 
 | --- | --- | --- |
 |:---|:---|:---|
@@ -325,7 +325,7 @@ OBV regeling
 *Bedienen van een luchtvaartuig < 6000 kg (privé) door cockpitpersoneel of het verrichten van werkzaamheden ten behoeve van passagiers en/of lading door ander boordpersoneel met een AAG (-equivalent) van 95 µg/l of meer.*  
 ### *Beschrijving* 
 
-Dit basisdelict ziet op overtreding van [art. 2.12, derde lid Wet luchtvaart](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md): het onder invloed bedienen van een luchtvaartuig door cockpitpersoneel of het verrichten van werkzaamheden ten behoeve van passagiers en/of lading door ander boordpersoneel, waarbij de mate van overtreding op grond van een gemeten AAG of BAG vaststaat. Het luchtvaartuig waarmee het delict wordt begaan, bepaalt mede de gevaarzetting. In dit basisdelict betreft dat een luchtvaartuig < 6000 kg (privé). Dit delict start met een vast aantal strafpunten tot een grens van 95 µg/l. Vanaf daar wordt het aantal strafpunten op evenredige wijze afgeleid van het AAG of BAG. 
+Dit basisdelict ziet op overtreding van art. 2.12, derde lid Wet luchtvaart: het onder invloed bedienen van een luchtvaartuig door cockpitpersoneel of het verrichten van werkzaamheden ten behoeve van passagiers en/of lading door ander boordpersoneel, waarbij de mate van overtreding op grond van een gemeten AAG of BAG vaststaat. Het luchtvaartuig waarmee het delict wordt begaan, bepaalt mede de gevaarzetting. In dit basisdelict betreft dat een luchtvaartuig < 6000 kg (privé). Dit delict start met een vast aantal strafpunten tot een grens van 95 µg/l. Vanaf daar wordt het aantal strafpunten op evenredige wijze afgeleid van het AAG of BAG. 
 ### *Toepasselijk kader* 
 
 Commuun en verkeer 
@@ -345,7 +345,7 @@ Adem-alcoholgehalte (of AAG-equivalent) luchtvaartuig < 6000 kg (privé):
 –  *Schijf 2*: het gedeelte boven 0,9 promille 14,78 pt/promille   
 ### *Delictspecifieke factoren* 
 
-Strafverzwarende omstandigheden i.v.m. [art. 2.12 Wet luchtvaart](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md)  
+Strafverzwarende omstandigheden i.v.m. art. 2.12 Wet luchtvaart  
 
 | --- | --- | --- |
 |:---|:---|:---|
@@ -379,7 +379,7 @@ OBV regeling
 *Bedienen van een luchtvaartuig ≥ 6000 kg door cockpitpersoneel tijdens duur vliegverbod of het verlenen van luchtverkeersdiensten door een luchtverkeersleider tijdens duur verbod van het geven van zodanige leiding.*  
 ### *Beschrijving* 
 
-Dit basisdelict ziet op het bedienen van een luchtvaartuig tijdens een vliegverbod door cockpitpersoneel of het verlenen van luchtverkeersdiensten door een luchtverkeersleider tijdens een verbod van het geven van zodanige leiding, zoals bedoeld in [artikel 11.5, eerste en tweede lid Wet luchtvaart](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), met een luchtvaartuig ≥ 6000 kg. 
+Dit basisdelict ziet op het bedienen van een luchtvaartuig tijdens een vliegverbod door cockpitpersoneel of het verlenen van luchtverkeersdiensten door een luchtverkeersleider tijdens een verbod van het geven van zodanige leiding, zoals bedoeld in artikel 11.5, eerste en tweede lid Wet luchtvaart, met een luchtvaartuig ≥ 6000 kg. 
 ### *Toepasselijk kader* 
 
 verkeer 
@@ -410,14 +410,14 @@ Geen
 Regeling negeren beslissing 
 ### *Bijzonderheden* 
 
-Doet zich naast dit feit één of meer van de in de [artikelen 2.12](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) en [11.6 Wet luchtvaart](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) genoemde strafbare feiten voor, dan moet voor al deze feiten afzonderlijk proces-verbaal worden opgemaakt.   
+Doet zich naast dit feit één of meer van de in de artikelen 2.12 en 11.6 Wet luchtvaart genoemde strafbare feiten voor, dan moet voor al deze feiten afzonderlijk proces-verbaal worden opgemaakt.   
 
 #### *Basisdelict* 
 
 *Bedienen van een luchtvaartuig < 6000 kg (bedrijfsmatig) door cockpitpersoneel tijdens duur vliegverbod of het verlenen van luchtverkeersdienten door een assistent-luchtverkeersleider tijdens duur verbod van het geven van zodanige leiding.*  
 ### *Beschrijving* 
 
-Dit basisdelict ziet op het bedienen van een luchtvaartuig tijdens een vliegverbod door cockpitpersoneel of het verlenen van luchtverkeersdienten door een assistent-luchtverkeersleider tijdens een verbod van het geven van zodanige leiding, zoals bedoeld in [artikel 11.5, eerste en tweede lid Wet luchtvaart](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), met een luchtvaartuig < 6000 kg (bedrijfsmatig). 
+Dit basisdelict ziet op het bedienen van een luchtvaartuig tijdens een vliegverbod door cockpitpersoneel of het verlenen van luchtverkeersdienten door een assistent-luchtverkeersleider tijdens een verbod van het geven van zodanige leiding, zoals bedoeld in artikel 11.5, eerste en tweede lid Wet luchtvaart, met een luchtvaartuig < 6000 kg (bedrijfsmatig). 
 ### *Toepasselijk kader* 
 
 Verkeer 
@@ -455,7 +455,7 @@ Doet zich naast dit feit één of meer van de in de artikelen 2.12 en 11.6 Wet l
 *Bedienen van een luchtvaartuig < 6000 kg (privé) door cockpitpersoneel of het verrichten van werkzaamheden ten behoeve van passagiers en/of lading door ander boordpersoneel tijdens duur vliegverbod.*  
 ### *Beschrijving* 
 
-Dit basisdelict ziet op het bedienen van een luchtvaartuig tijdens een vliegverbod door cockpitpersoneel of het verrichten van werkzaamheden ten behoeve van passagiers en/of lading door ander boordpersoneel, zoals bedoeld in [artikel 11.5, eerste en tweede lid Wet luchtvaart](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), met een luchtvaartuig < 6000 kg (privé). 
+Dit basisdelict ziet op het bedienen van een luchtvaartuig tijdens een vliegverbod door cockpitpersoneel of het verrichten van werkzaamheden ten behoeve van passagiers en/of lading door ander boordpersoneel, zoals bedoeld in artikel 11.5, eerste en tweede lid Wet luchtvaart, met een luchtvaartuig < 6000 kg (privé). 
 ### *Toepasselijk kader* 
 
 Commuun en verkeer 
@@ -486,14 +486,14 @@ Geen
 Regeling negeren beslissing 
 ### *Bijzonderheden* 
 
-Doet zich naast dit feit één of meer van de in de [artikelen 2.12](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) en [11.6 Wet luchtvaart](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) genoemde strafbare feiten voor, dan moet voor al deze feiten afzonderlijk proces-verbaal worden opgemaakt.   
+Doet zich naast dit feit één of meer van de in de artikelen 2.12 en 11.6 Wet luchtvaart genoemde strafbare feiten voor, dan moet voor al deze feiten afzonderlijk proces-verbaal worden opgemaakt.   
 
 #### *Basisdelict* 
 
 *Weigeren ademanalyse, bloedproef of urineproef dan wel achteraf weigeren bloedonderzoek (van toepassing op cockpitpersoneel dat luchtvaartuig ≥ 6000 kg bedient en op luchtverkeersdienstleiders).*  
 ### *Beschrijving* 
 
-Dit basisdelict ziet op het weigeren van ademanalyse, bloedproef of urineproef dan wel achteraf weigeren bloedonderzoek. De weigering geschiedt over het algemeen om een relatief hoog alcoholgehalte, dan wel gehalte van een andere in [art. 2.12, eerste lid Wet luchtvaart](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) bedoelde stof dan alcoholhoudende drank, te verdoezelen. Het betreft hier voor cockpitpersoneel een luchtvaartuig ≥ 6000 kg. 
+Dit basisdelict ziet op het weigeren van ademanalyse, bloedproef of urineproef dan wel achteraf weigeren bloedonderzoek. De weigering geschiedt over het algemeen om een relatief hoog alcoholgehalte, dan wel gehalte van een andere in art. 2.12, eerste lid Wet luchtvaart bedoelde stof dan alcoholhoudende drank, te verdoezelen. Het betreft hier voor cockpitpersoneel een luchtvaartuig ≥ 6000 kg. 
 ### *Toepasselijk kader* 
 
 Commuun en verkeer 
@@ -538,7 +538,7 @@ OBV regeling
 *Weigeren ademanalyse, bloedproef of urineproef dan wel achteraf weigeren bloedonderzoek (van toepassing op cockpitpersoneel dat luchtvaartuig < 6000 kg (bedrijfsmatig) bedient en op assistent-luchtverkeersdienstleiders).*  
 ### *Beschrijving* 
 
-Dit basisdelict ziet op het weigeren van ademanalyse, bloedproef of urineproef dan wel achteraf weigeren bloedonderzoek. De weigering geschiedt over het algemeen om een relatief hoog alcoholgehalte, dan wel, gehalte van een andere in [art. 2.12, eerste lid Wet luchtvaart](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) bedoelde stof dan alcoholhoudende drank, te verdoezelen. Het betreft hier voor cockpitpersoneel een luchtvaartuig < 6000 kg (bedrijfsmatig). 
+Dit basisdelict ziet op het weigeren van ademanalyse, bloedproef of urineproef dan wel achteraf weigeren bloedonderzoek. De weigering geschiedt over het algemeen om een relatief hoog alcoholgehalte, dan wel, gehalte van een andere in art. 2.12, eerste lid Wet luchtvaart bedoelde stof dan alcoholhoudende drank, te verdoezelen. Het betreft hier voor cockpitpersoneel een luchtvaartuig < 6000 kg (bedrijfsmatig). 
 ### *Toepasselijk kader* 
 
 Commuun en verkeer 
@@ -583,7 +583,7 @@ OBV regeling
 *Weigeren ademanalyse, bloedproef of urineproef dan wel achteraf weigeren bloedonderzoek (van toepassing op cockpitpersoneel dat luchtvaartuig < 6000 kg (privé) bedient en op ander boordpersoneel dat werkzaamheden ten behoeve van passagiers en/of lading verricht).*  
 ### *Beschrijving* 
 
-Dit basisdelict ziet op het weigeren van ademanalyse, bloedproef of urineproef dan wel achteraf weigeren bloedonderzoek. De weigering geschiedt over het algemeen om een relatief hoog alcoholgehalte, dan wel, gehalte van een andere in [art. 2.12, eerste lid Wet luchtvaart](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) bedoelde stof dan alcoholhoudende drank, te verdoezelen. Het betreft hier voor cockpitpersoneel een luchtvaartuig < 6000 kg (privé) 
+Dit basisdelict ziet op het weigeren van ademanalyse, bloedproef of urineproef dan wel achteraf weigeren bloedonderzoek. De weigering geschiedt over het algemeen om een relatief hoog alcoholgehalte, dan wel, gehalte van een andere in art. 2.12, eerste lid Wet luchtvaart bedoelde stof dan alcoholhoudende drank, te verdoezelen. Het betreft hier voor cockpitpersoneel een luchtvaartuig < 6000 kg (privé) 
 ### *Toepasselijk kader* 
 
 Commuun en verkeer 

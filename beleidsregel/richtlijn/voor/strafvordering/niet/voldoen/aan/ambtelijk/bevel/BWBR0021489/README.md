@@ -4,7 +4,7 @@
 
 ####Beschrijving
 
-Deze richtlijn ziet op het niet voldoen aan ambtelijke bevelen die worden gegeven op grond van de openbare orde of in het kader van het opsporen of onderzoeken van strafbare feiten. Om deze twee vormen qua ernst te kunnen onderscheiden zijn ze ondergebracht in afzonderlijke basisdelicten. In geval van oploop, rellen, brand, ongeval zal in voorkomende gevallen een zwaardere sanctie geïndiceerd zijn. Tevens is in geval van samenhang met een sportevenement een zwaardere sanctie geïndiceerd. Van de bevelen of vorderingen in het kader van het opsporen of onderzoeken van strafbare feiten is er één die relatief vaak voorkomt en betrekking heeft op de Wegenverkeerswetgeving: dit is het geven van een stopteken. In verband met het frequent voorkomen en het specifieke gebruik (namelijk in het kader van de [Wegenverkeerswet](../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md)) is deze vorm van bevel of vordering ondergebracht in een apart basisdelict. Bij dat delict is van belang of alsnog staandehouding heeft plaatsgevonden, of dat de opsporing of het onderzoek ernstiger zijn gefrustreerd.    
+Deze richtlijn ziet op het niet voldoen aan ambtelijke bevelen die worden gegeven op grond van de openbare orde of in het kader van het opsporen of onderzoeken van strafbare feiten. Om deze twee vormen qua ernst te kunnen onderscheiden zijn ze ondergebracht in afzonderlijke basisdelicten. In geval van oploop, rellen, brand, ongeval zal in voorkomende gevallen een zwaardere sanctie geïndiceerd zijn. Tevens is in geval van samenhang met een sportevenement een zwaardere sanctie geïndiceerd. Van de bevelen of vorderingen in het kader van het opsporen of onderzoeken van strafbare feiten is er één die relatief vaak voorkomt en betrekking heeft op de Wegenverkeerswetgeving: dit is het geven van een stopteken. In verband met het frequent voorkomen en het specifieke gebruik (namelijk in het kader van de Wegenverkeerswet) is deze vorm van bevel of vordering ondergebracht in een apart basisdelict. Bij dat delict is van belang of alsnog staandehouding heeft plaatsgevonden, of dat de opsporing of het onderzoek ernstiger zijn gefrustreerd.    
 
 ####Aard van de richtlijn
 
@@ -16,7 +16,7 @@ Commuun
 
 ####Wettekst
 
-– [Wetboek van Strafrecht art. 184](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)    
+– Wetboek van Strafrecht art. 184    
 
 ####Basisdelict
 
@@ -103,8 +103,8 @@ Geen
 
 | --- | --- | --- |
 |:---|:---|:---|
-| - Er is geen sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) | +0 % | --- |
-|- Er is sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  |+0 %  |*(CKT) * |
+| - Er is geen sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr | +0 % | --- |
+|- Er is sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr  |+0 %  |*(CKT) * |
 
 *(CKT) + contra-indicatie kale taakstraf *
 ### *Speciale regelingen* 
@@ -199,8 +199,8 @@ Geen
 
 | --- | --- | --- |
 |:---|:---|:---|
-| - Er is geen sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) | +0 % | --- |
-|- Er is sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  |+0 %  |*(CKT) * |
+| - Er is geen sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr | +0 % | --- |
+|- Er is sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr  |+0 %  |*(CKT) * |
 
 *(CKT) + contra-indicatie kale taakstraf *
 ### *Speciale regelingen* 
@@ -216,7 +216,7 @@ Geen
 
 ### *Beschrijving* 
 
-Van de bevelen of vorderingen, gegeven in het kader van het opsporen of onderzoeken van strafbare feiten is er één die relatief vaak voorkomt en betrekking heeft op de Wegenverkeerswetgeving: dit is het geven van een stopteken. In verband met het frequent voorkomen en het specifieke gebruik (namelijk in het kader van de [Wegenverkeerswet](../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md)) wordt deze vorm van bevel of vordering ondergebracht in een afzonderlijk basisdelict. Het negeren van een stopteken is vrijwel altijd een poging tot het beletten van de opsporing van een strafbaar feit. Indien bovendien geen staandehouding heeft kunnen volgen wordt de opsporing of het onderzoek ernstig gehinderd. 
+Van de bevelen of vorderingen, gegeven in het kader van het opsporen of onderzoeken van strafbare feiten is er één die relatief vaak voorkomt en betrekking heeft op de Wegenverkeerswetgeving: dit is het geven van een stopteken. In verband met het frequent voorkomen en het specifieke gebruik (namelijk in het kader van de Wegenverkeerswet) wordt deze vorm van bevel of vordering ondergebracht in een afzonderlijk basisdelict. Het negeren van een stopteken is vrijwel altijd een poging tot het beletten van de opsporing van een strafbaar feit. Indien bovendien geen staandehouding heeft kunnen volgen wordt de opsporing of het onderzoek ernstig gehinderd. 
 ### *Toepasselijk kader* 
 
 Aanwijzing Kader voor strafvordering 
@@ -269,8 +269,8 @@ Geen
 
 | --- | --- | --- |
 |:---|:---|:---|
-| - Er is geen sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) | +0 % | --- |
-|- Er is sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  |+0 %  |*(CKT) * |
+| - Er is geen sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr | +0 % | --- |
+|- Er is sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr  |+0 %  |*(CKT) * |
 
 *(CKT) + contra-indicatie kale taakstraf *
 ### *Speciale regelingen* 

@@ -16,9 +16,9 @@ Commuun
 
 ####Wettekst
 
-– [Wetboek van Strafrecht art. 310](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  
+– Wetboek van Strafrecht art. 310  
 
-– [Wetboek van Strafrecht art. 311](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)      
+– Wetboek van Strafrecht art. 311      
 
 ####Basisdelict
 

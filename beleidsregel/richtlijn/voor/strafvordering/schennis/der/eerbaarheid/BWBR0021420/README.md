@@ -15,7 +15,7 @@ Commuun
 – Schennis ten opzichte van een persoon jonger dan 16 jaar   
 ###Wettekst
 
-– [Wetboek van Strafrecht art. 239](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)    
+– Wetboek van Strafrecht art. 239    
 
 ####Basisdelict
 
@@ -80,8 +80,8 @@ Geen
 
 | --- | --- | --- |
 |:---|:---|:---|
-| - Er is geen sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) | +0 % | --- |
-|- Er is sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  |+0 %  |*(CKT) * |
+| - Er is geen sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr | +0 % | --- |
+|- Er is sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr  |+0 %  |*(CKT) * |
 
 *(CKT) + contra-indicatie kale taakstraf *
 ###Speciale regelingen
@@ -154,8 +154,8 @@ Geen
 
 | --- | --- | --- |
 |:---|:---|:---|
-| - Er is geen sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) | +0 % | --- |
-|- Er is sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  |+0 %  |*(CKT) * |
+| - Er is geen sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr | +0 % | --- |
+|- Er is sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr  |+0 %  |*(CKT) * |
 
 *(CKT) + contra-indicatie kale taakstraf *
 ###Speciale regelingen

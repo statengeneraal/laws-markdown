@@ -4,15 +4,15 @@
 
 ####Achtergrond
 
-In de onderhavige richtlijn voor strafvordering wordt gebruik gemaakt van het Polaris-puntensysteem, zoals beschreven in de [Aanwijzing Kader voor strafvordering](../../../../../../beleidsregel/aanwijzing/kader/voor/strafvordering/BWBR0032600/README.md). Voor de waarde van één sanctiepunt wordt verwezen naar genoemde aanwijzing.     
+In de onderhavige richtlijn voor strafvordering wordt gebruik gemaakt van het Polaris-puntensysteem, zoals beschreven in de Aanwijzing Kader voor strafvordering. Voor de waarde van één sanctiepunt wordt verwezen naar genoemde aanwijzing.     
 
 ####Beschrijving
 
-Deze richtlijn voor strafvordering ziet op overtredingen van de [artt. 2](../../../../../../wet/winkeltijdenwet/BWBR0007952/README.md), [3, vijfde lid](../../../../../../wet/winkeltijdenwet/BWBR0007952/README.md), [4, derde lid](../../../../../../wet/winkeltijdenwet/BWBR0007952/README.md), [5, derde lid](../../../../../../wet/winkeltijdenwet/BWBR0007952/README.md), [6, tweede lid](../../../../../../wet/winkeltijdenwet/BWBR0007952/README.md), [7, derde lid](../../../../../../wet/winkeltijdenwet/BWBR0007952/README.md), en [8, tweede lid van de Winkeltijdenwet](../../../../../../wet/winkeltijdenwet/BWBR0007952/README.md). Dit zijn economische delicten op grond van [artikel 1 onder 4° Wet op de economische delicten](../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) (Wed). Deze worden in [art. 2 lid 4 Wed](../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) als overtreding gekwalificeerd.     
+Deze richtlijn voor strafvordering ziet op overtredingen van de artt. 2, 3, vijfde lid, 4, derde lid, 5, derde lid, 6, tweede lid, 7, derde lid, en 8, tweede lid van de Winkeltijdenwet. Dit zijn economische delicten op grond van artikel 1 onder 4° Wet op de economische delicten (Wed). Deze worden in art. 2 lid 4 Wed als overtreding gekwalificeerd.     
 
 ####Vervolging
 
-Bij overtreding van de [Winkeltijdenwet](../../../../../../wet/winkeltijdenwet/BWBR0007952/README.md) is een financiële sanctie passend. Voor de ter onderscheiden situaties gelden de volgende basispunten.  
+Bij overtreding van de Winkeltijdenwet is een financiële sanctie passend. Voor de ter onderscheiden situaties gelden de volgende basispunten.  
 
 | --- | --- |
 |:---|:---|
@@ -26,7 +26,7 @@ Bij recidive dient het aantal punten met 50% te worden verhoogd.
 
 ####Hoorplicht
 
-Een strafbeschikking houdende betalingsverplichtingen uit hoofde van geldboete en schadevergoedingsmaatregel, die afzonderlijk of gezamenlijk meer belopen dan € 2000,- wordt slechts uitgevaardigd indien de verdachte, bijgestaan door een raadsman, *daaraan voorafgaand is gehoord* door de officier van justitie die de strafbeschikking uitvaardigt ([artikel 257c lid 2 Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md)).     
+Een strafbeschikking houdende betalingsverplichtingen uit hoofde van geldboete en schadevergoedingsmaatregel, die afzonderlijk of gezamenlijk meer belopen dan € 2000,- wordt slechts uitgevaardigd indien de verdachte, bijgestaan door een raadsman, *daaraan voorafgaand is gehoord* door de officier van justitie die de strafbeschikking uitvaardigt (artikel 257c lid 2 Wetboek van Strafvordering).     
 
 ####Eis ter zitting
 
@@ -34,7 +34,7 @@ Indien een aangeboden transactie niet is betaald, wordt het aangeboden bedrag, v
 
 ####Ontneming
 
-Indien de omstandigheden van het delict daartoe aanleiding geven dient tevens gedacht te worden aan toepassing van [art. 74, lid 2, sub d Sr](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) (transactie onder voorwaarde van ontneming), [art. 257a, lid 3, aanhef en onder c Sv](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) (aanwijzing tot ontneming bij strafbeschikking) en [art. 36c Sr](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) (ontnemingsvordering).    
+Indien de omstandigheden van het delict daartoe aanleiding geven dient tevens gedacht te worden aan toepassing van art. 74, lid 2, sub d Sr (transactie onder voorwaarde van ontneming), art. 257a, lid 3, aanhef en onder c Sv (aanwijzing tot ontneming bij strafbeschikking) en art. 36c Sr (ontnemingsvordering).    
 
 ####Overgangsregeling
 

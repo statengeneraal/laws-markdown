@@ -4,42 +4,42 @@
 
 ###Beschrijving
 
-Deze richtlijn ziet op discriminatie zoals bedoeld in [art. 137c tot en met 137g](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [art. 429quater WvSr](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md). Het betreft discriminatie door natuurlijke personen of rechtspersonen op basis van verschillende gronden. Afhankelijk van de discriminatiegrond en de daaraan gepaard gaande wettelijk strafmaximum indiceert deze richtlijn een sanctie. Tevens dient een verzwarende invloed uit te gaan van discriminatie die wordt gepleegd in samenhang met een sportevenement en discriminatie die zich kenmerkt door georganiseerd en/of propagandistisch optreden. Ook indien de discriminatie zich richt tegen een slachtoffer dat zich in een afhankelijke situatie bevindt, zoals in het geval van een arbeidsverhouding, dient dit strafverzwarend te worden beoordeeld. Gezien de ernst van de delicten wordt in beginsel in alle gevallen gedagvaard. In lichtere zaken kan evenwel eerst een transactie worden aangeboden.  
+Deze richtlijn ziet op discriminatie zoals bedoeld in art. 137c tot en met 137g en art. 429quater WvSr. Het betreft discriminatie door natuurlijke personen of rechtspersonen op basis van verschillende gronden. Afhankelijk van de discriminatiegrond en de daaraan gepaard gaande wettelijk strafmaximum indiceert deze richtlijn een sanctie. Tevens dient een verzwarende invloed uit te gaan van discriminatie die wordt gepleegd in samenhang met een sportevenement en discriminatie die zich kenmerkt door georganiseerd en/of propagandistisch optreden. Ook indien de discriminatie zich richt tegen een slachtoffer dat zich in een afhankelijke situatie bevindt, zoals in het geval van een arbeidsverhouding, dient dit strafverzwarend te worden beoordeeld. Gezien de ernst van de delicten wordt in beginsel in alle gevallen gedagvaard. In lichtere zaken kan evenwel eerst een transactie worden aangeboden.  
 ### Aard van de richtlijn 
 
 Commuun 
 ### Basisdelicten
 
-–Discriminatie door natuurlijke personen ([137c](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [137d WvSr.](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md))
+–Discriminatie door natuurlijke personen (137c en 137d WvSr.)
 
-–Discriminatie door natuurlijke personen ([137e](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [137g WvSr.](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md))
+–Discriminatie door natuurlijke personen (137e en 137g WvSr.)
 
-–Discriminatie door natuurlijke personen ([137f](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [429quater WvSr.](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md))
+–Discriminatie door natuurlijke personen (137f en 429quater WvSr.)
 
-–Discriminatie door rechtspersonen ([137c](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [137d WvSr.](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md))
+–Discriminatie door rechtspersonen (137c en 137d WvSr.)
 
-–Discriminatie door rechtspersonen ([137e](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [137g WvSr.](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md))
+–Discriminatie door rechtspersonen (137e en 137g WvSr.)
 
-–Discriminatie door rechtspersonen ([137f](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [429quater WvSr.](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md))  
+–Discriminatie door rechtspersonen (137f en 429quater WvSr.)  
 ### Wettekst 
 
-–Wetboek van Strafrecht [art. 137c](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)
+–Wetboek van Strafrecht art. 137c
 
-–Wetboek van Strafrecht [art. 137d](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)
+–Wetboek van Strafrecht art. 137d
 
-–Wetboek van Strafrecht [art. 137e](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)
+–Wetboek van Strafrecht art. 137e
 
-–Wetboek van Strafrecht [art. 137f](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)
+–Wetboek van Strafrecht art. 137f
 
-–Wetboek van Strafrecht [art. 137g](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)
+–Wetboek van Strafrecht art. 137g
 
-–Wetboek van Strafrecht [art. 429quater](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)    
+–Wetboek van Strafrecht art. 429quater    
 
-####Basisdelict discriminatie door natuurlijke personen ([137c](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [137d WvSr.](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)) 
+####Basisdelict discriminatie door natuurlijke personen (137c en 137d WvSr.) 
 
 ###Beschrijving
 
-Discriminatie zoals bedoeld in [art. 137c](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [137d WvSr.](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), gepleegd door natuurlijke personen. Gezien de ernst van het delict wordt in beginsel in alle gevallen gedagvaard. In lichtere zaken kan evenwel eerst een transactie worden aangeboden. 
+Discriminatie zoals bedoeld in art. 137c en 137d WvSr., gepleegd door natuurlijke personen. Gezien de ernst van het delict wordt in beginsel in alle gevallen gedagvaard. In lichtere zaken kan evenwel eerst een transactie worden aangeboden. 
 ###Toepasselijk kader
 
 Aanwijzing Kader voor strafvordering
@@ -118,8 +118,8 @@ Geen
 
 | --- | --- | --- |
 |:---|:---|:---|
-| - Er is geen sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) | +0 % | --- |
-|- Er is sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  |+0 %  |*(CKT) * |
+| - Er is geen sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr | +0 % | --- |
+|- Er is sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr  |+0 %  |*(CKT) * |
 
 *(CKT) + contra-indicatie kale taakstraf *
 ###Speciale regelingen
@@ -129,11 +129,11 @@ Geen
 
 Gezien de ernst van het delict wordt in beginsel in alle gevallen gedagvaard.    
 
-####Basisdelict discriminatie door natuurlijke personen ([137e](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [137g WvSr.](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md))
+####Basisdelict discriminatie door natuurlijke personen (137e en 137g WvSr.)
 
 ###Beschrijving
 
-Discriminatie zoals bedoeld in [art. 137e](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [137g WvSr.](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), gepleegd door natuurlijke personen. Gezien de ernst van het delict wordt in beginsel in alle gevallen gedagvaard. In lichtere zaken kan evenwel eerst een transactie worden aangeboden. 
+Discriminatie zoals bedoeld in art. 137e en 137g WvSr., gepleegd door natuurlijke personen. Gezien de ernst van het delict wordt in beginsel in alle gevallen gedagvaard. In lichtere zaken kan evenwel eerst een transactie worden aangeboden. 
 ###Toepasselijk kader
 
 Aanwijzing Kader voor strafvordering
@@ -212,8 +212,8 @@ Geen
 
 | --- | --- | --- |
 |:---|:---|:---|
-| - Er is geen sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) | +0 % | --- |
-|- Er is sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  |+0 %  |*(CKT) * |
+| - Er is geen sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr | +0 % | --- |
+|- Er is sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr  |+0 %  |*(CKT) * |
 
 *(CKT) + contra-indicatie kale taakstraf *
 ###Speciale regelingen
@@ -223,11 +223,11 @@ Geen
 
 Gezien de ernst van het delict wordt in beginsel in alle gevallen gedagvaard.   
 
-####Basisdelict discriminatie door natuurlijke personen ([137f](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [429quater WvSr.](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md))
+####Basisdelict discriminatie door natuurlijke personen (137f en 429quater WvSr.)
 
 ###Beschrijving
 
-Discriminatie zoals bedoeld in [art. 137f](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [429quater WvSr.](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), gepleegd door natuurlijke personen. Gezien de ernst van het delict wordt in beginsel in alle gevallen gedagvaard. In lichtere zaken kan evenwel eerst een transactie worden aangeboden. 
+Discriminatie zoals bedoeld in art. 137f en 429quater WvSr., gepleegd door natuurlijke personen. Gezien de ernst van het delict wordt in beginsel in alle gevallen gedagvaard. In lichtere zaken kan evenwel eerst een transactie worden aangeboden. 
 ###Toepasselijk kader
 
 Aanwijzing Kader voor strafvordering
@@ -306,8 +306,8 @@ Geen
 
 | --- | --- | --- |
 |:---|:---|:---|
-| - Er is geen sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) | +0 % | --- |
-|- Er is sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  |+0 %  |*(CKT) * |
+| - Er is geen sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr | +0 % | --- |
+|- Er is sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr  |+0 %  |*(CKT) * |
 
 *(CKT) + contra-indicatie kale taakstraf *
 ###Speciale regelingen
@@ -317,11 +317,11 @@ Geen
 
 Gezien de ernst van het delict wordt in beginsel in alle gevallen gedagvaard.  
 
-####Basisdelict discriminatie door rechtspersonen ([137c](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [137d WvSr.](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md))
+####Basisdelict discriminatie door rechtspersonen (137c en 137d WvSr.)
 
 ###Beschrijving
 
-Discriminatie zoals bedoeld in [art. 137c](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [137d WvSr.](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), gepleegd door rechtspersonen. Gezien de ernst van het delict wordt in beginsel in alle gevallen gedagvaard.
+Discriminatie zoals bedoeld in art. 137c en 137d WvSr., gepleegd door rechtspersonen. Gezien de ernst van het delict wordt in beginsel in alle gevallen gedagvaard.
 ###Toepasselijk kader
 
 Aanwijzing Kader voor strafvordering
@@ -400,8 +400,8 @@ Geen
 
 | --- | --- | --- |
 |:---|:---|:---|
-| - Er is geen sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) | +0 % | --- |
-|- Er is sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  |+0 %  |*(CKT) * |
+| - Er is geen sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr | +0 % | --- |
+|- Er is sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr  |+0 %  |*(CKT) * |
 
 *(CKT) + contra-indicatie kale taakstraf *
 ###Speciale regelingen
@@ -409,13 +409,13 @@ Geen
 Geen
 ###Bijzonderheden
 
-Indien de rechtspersoon de discriminatie (mede) als doelstelling heeft kan ook aan vervolging voor [art. 140 WvSr.](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) worden gedacht. Gezien de ernst van het delict wordt in beginsel in alle gevallen gedagvaard.  
+Indien de rechtspersoon de discriminatie (mede) als doelstelling heeft kan ook aan vervolging voor art. 140 WvSr. worden gedacht. Gezien de ernst van het delict wordt in beginsel in alle gevallen gedagvaard.  
 
-####Basisdelict discriminatie door rechtspersonen ([137e](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [137g WvSr.](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md))
+####Basisdelict discriminatie door rechtspersonen (137e en 137g WvSr.)
 
 ###Beschrijving
 
-Discriminatie zoals bedoeld in [art. 137e](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [137g WvSr.](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), gepleegd door rechtspersonen. Gezien de ernst van het delict wordt in beginsel in alle gevallen gedagvaard. In lichtere zaken kan evenwel eerst een transactie worden aangeboden. 
+Discriminatie zoals bedoeld in art. 137e en 137g WvSr., gepleegd door rechtspersonen. Gezien de ernst van het delict wordt in beginsel in alle gevallen gedagvaard. In lichtere zaken kan evenwel eerst een transactie worden aangeboden. 
 ###Toepasselijk kader
 
 Aanwijzing Kader voor strafvordering
@@ -494,8 +494,8 @@ Geen
 
 | --- | --- | --- |
 |:---|:---|:---|
-| - Er is geen sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) | +0 % | --- |
-|- Er is sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  |+0 %  |*(CKT) * |
+| - Er is geen sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr | +0 % | --- |
+|- Er is sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr  |+0 %  |*(CKT) * |
 
 *(CKT) + contra-indicatie kale taakstraf *
 ###Speciale regelingen
@@ -503,13 +503,13 @@ Geen
 Geen
 ###Bijzonderheden
 
-Indien de rechtspersoon de discriminatie (mede) als doelstelling heeft kan ook aan vervolging voor [art. 140 WvSr.](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) worden gedacht. Gezien de ernst van het delict wordt in beginsel in alle gevallen gedagvaard.   
+Indien de rechtspersoon de discriminatie (mede) als doelstelling heeft kan ook aan vervolging voor art. 140 WvSr. worden gedacht. Gezien de ernst van het delict wordt in beginsel in alle gevallen gedagvaard.   
 
-####Basisdelict discriminatie door rechtspersonen ([137f](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [429quater WvSr.](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md))
+####Basisdelict discriminatie door rechtspersonen (137f en 429quater WvSr.)
 
 ###Beschrijving
 
-Discriminatie zoals bedoeld in [art. 137f](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [429quater WvSr.](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), gepleegd door rechtspersonen. Gezien de ernst van het delict wordt in beginsel in alle gevallen gedagvaard. In lichtere zaken kan evenwel eerst een transactie worden aangeboden. 
+Discriminatie zoals bedoeld in art. 137f en 429quater WvSr., gepleegd door rechtspersonen. Gezien de ernst van het delict wordt in beginsel in alle gevallen gedagvaard. In lichtere zaken kan evenwel eerst een transactie worden aangeboden. 
 ###Toepasselijk kader
 
 Aanwijzing Kader voor strafvordering
@@ -588,8 +588,8 @@ Geen
 
 | --- | --- | --- |
 |:---|:---|:---|
-| - Er is geen sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) | +0 % | --- |
-|- Er is sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  |+0 %  |*(CKT) * |
+| - Er is geen sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr | +0 % | --- |
+|- Er is sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr  |+0 %  |*(CKT) * |
 
 *(CKT) + contra-indicatie kale taakstraf *
 ###Speciale regelingen
@@ -597,4 +597,4 @@ Geen
 Geen
 ###Bijzonderheden
 
-Indien de rechtspersoon de discriminatie (mede) als doelstelling heeft kan ook aan vervolging voor [art. 140 WvSr.](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) worden gedacht. Gezien de ernst van het delict wordt in beginsel in alle gevallen gedagvaard.    
+Indien de rechtspersoon de discriminatie (mede) als doelstelling heeft kan ook aan vervolging voor art. 140 WvSr. worden gedacht. Gezien de ernst van het delict wordt in beginsel in alle gevallen gedagvaard.    

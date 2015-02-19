@@ -9,11 +9,11 @@ Les Etats contractants, Animés du désir d'offrir aux créateurs de dessins ou 
 ### Article  1  
 
 1.  Les Etats contractants sont constitués à l'état "d'Union particulière pour le dépôt international des dessins ou modèles industriels.   
-2.  Seuls les Etats membres de l'Union internationale pour la protection de la propriété industrielle peuvent être partie au présent Arrangement.  
+2.  Seuls les Etats membres de l'Union internationale pour la protection de la propriété intellectuelle peuvent être partie au présent Arrangement.  
 
 ### Article  2  
 
-Au sens du présent Arrangement, il faut entendre par:  *Arrangement de 1925:* L'Arrangement de La Haye concernant le dépôt international des dessins ou modèles industriels du 6 novembre 1925.  *Arrangement de 1934:* L'Arrangement de La Haye concernant le dépôt international des dessins ou modèles industriels du 6 novembre 1925, révisé à Londres le 2 juin 1934.  *Le présent Arrangement:* L'Arrangement de La Haye concernant le dépôt international des dessins ou modèles industriels, tel qu'il résulte du présent Acte.  *Le Règlement:* Le Règlement d'exécution du présent Arrangement.  *Bureau international:* Le Bureau de l'Union internationale pour la protection de la propriété industrielle.  *Dépôt international:* Un dépôt effectué auprès du Bureau international.  *Dépôt national:* Un dépôt effectué auprès de l'Administration nationale d'un Etat contractant.  *Dépôt multiple:* Un dépôt comprenant plusieurs dessins ou modèles.  *Etat d'origine d'un dépôt international:* L'Etat contractant où le déposant a un établissement industriel ou commercial effectif et sérieux ou, si le déposant a de tels établissements dans plusieurs Etats contractants, celui de ces Etats contractants qu'il a désigné dans sa demande; s'il n'a pas un tel établissement dans un Etat contractant, l'Etat contractant où il a son domicile; s'il n'a pas son domicile dans un Etat contractant, l'Etat contractant dont il est le ressortissant.  *Etat procédant à un examen de nouveauté:* Un Etat dont la législation nationale prévoit un système qui comporte une recherche et un examen préalables d'office, effectués par son Administration nationale et portant sur la nouveauté de tous les dessins ou modèles déposés. 
+Au sens du présent Arrangement, il faut entendre par:  *Arrangement de 1925:* L'Arrangement de La Haye concernant le dépôt international des dessins ou modèles industriels du 6 novembre 1925.  *Arrangement de 1934:* L'Arrangement de La Haye concernant le dépôt international des dessins ou modèles industriels du 6 novembre 1925, révisé à Londres le 2 juin 1934.  *Le présent Arrangement:* L'Arrangement de La Haye concernant le dépôt international des dessins ou modèles industriels, tel qu'il résulte du présent Acte.  *Le Règlement:* Le Règlement d'exécution du présent Arrangement.  *Bureau international:* Le Bureau international de la propriété intellectuelle.  *Dépôt international:* Un dépôt effectué auprès du Bureau international.  *Dépôt national:* Un dépôt effectué auprès de l'Administration nationale d'un Etat contractant.  *Dépôt multiple:* Un dépôt comprenant plusieurs dessins ou modèles.  *Etat d'origine d'un dépôt international:* L'Etat contractant où le déposant a un établissement industriel ou commercial effectif et sérieux ou, si le déposant a de tels établissements dans plusieurs Etats contractants, celui de ces Etats contractants qu'il a désigné dans sa demande; s'il n'a pas un tel établissement dans un Etat contractant, l'Etat contractant où il a son domicile; s'il n'a pas son domicile dans un Etat contractant, l'Etat contractant dont il est le ressortissant.  *Etat procédant à un examen de nouveauté:* Un Etat dont la législation nationale prévoit un système qui comporte une recherche et un examen préalables d'office, effectués par son Administration nationale et portant sur la nouveauté de tous les dessins ou modèles déposés. 
 
 ### Article  3  
 
@@ -117,7 +117,7 @@ b) Si la législation d'un Etat contractant prévoit plusieurs systèmes de prot
 
 ### Article  9  
 
-Si le dépôt international du dessin ou modèle est effectué dans les six mois suivant le premier dépôt du même dessin ou modèle dans un des Etats membres de l'Union internationale pour la protection de la Propriété Industrielle et si la priorité est revendiquée pour le dépôt international, la date de la priorité est celle de ce premier dépôt. 
+Si le dépôt international du dessin ou modèle est effectué dans les six mois suivant le premier dépôt du même dessin ou modèle dans un des Etats membres de l'Union internationale pour la protection de la Propriété Intellectuelle et si la priorité est revendiquée pour le dépôt international, la date de la priorité est celle de ce premier dépôt. 
 
 ### Article  10  
 
@@ -213,22 +213,6 @@ Le Règlement d'exécution fixe les détails d'application du présent Arrangeme
 
 Les dispositions du présent Arrangement n'empêchent pas de revendiquer l'application des prescriptions plus larges qui seraient édictées par la législation nationale d'un Etat contractant et n'affectent en aucune manière la protection accordée aux oeuvres artistiques et aux oeuvres d'art appliqué par des traités et conventions internationaux sur le droit d'auteur. 
 
-### Article  19  
-
-Vervallen. 
-
-### Article  20  
-
-Vervallen.
-
-### Article  21  
-
-Vervallen. 
-
-### Article  22  
-
-Vervallen. 
-
 ### Article  23  
 
 1.  Le présent Arrangement reste ouvert à la signature jusqu'au 31 décembre 1961.   
@@ -236,8 +220,8 @@ Vervallen.
 
 ### Article  24  
 
-1.  Les Etats membres de l'Union internationale pour la protection de la propriété industrielle qui n'auraient pas signé le présent Arrangement seront admis à y adhérer.   
-2.  Cette adhésion sera notifiée par la voie diplomatique au Gouvernement de la Confédération suisse et par celui-ci aux Gouvernements de tous les Etats contractants.  
+1.  Les Etats membres de l'Union internationale pour la protection de la propriété intellectuelle qui n'auraient pas signé le présent Arrangement seront admis à y adhérer.   
+2.  Cette adhésion sera notifiée par la voie diplomatique au Directeur général et par celui-ci aux Gouvernements de tous les Etats contractants.  
 
 ### Article  25  
 
@@ -246,16 +230,16 @@ Vervallen.
 
 ### Article  26  
 
-1.  Le présent Arrangement entrera en vigueur à l'expiration d'un délai d'un mois à compter de la date de l'envoi, par le Gouvernement de la Confédération suisse aux Etats contractants, de la notification du dépôt de dix instruments de ratification ou d'adhésion, dont ceux d'au moins quatre Etats qui, à la date du présent Arrangement, ne sont partie ni à l'Arrangement de 1925, ni à l'Arrangement de 1934.   
-2.  Par la suite, le dépôt des instruments de ratification et d'adhésion devra être notifié aux Etats contractants par le Gouvernement de la Confédération suisse; ces ratifications et adhésions produiront leurs effets à l'expiration du délai d'un mois, à compter de la date de l'envoi de cette notification à moins, en cas d'adhésion, qu'une date postérieure n'ait été indiquée dans l'instrument d'adhésion.  
+1.  Le présent Arrangement entrera en vigueur à l'expiration d'un délai d'un mois à compter de la date de l'envoi, par le Directeur général aux Etats contractants, de la notification du dépôt de dix instruments de ratification ou d'adhésion, dont ceux d'au moins quatre Etats qui, à la date du présent Arrangement, ne sont partie ni à l'Arrangement de 1925, ni à l'Arrangement de 1934.   
+2.  Par la suite, le dépôt des instruments de ratification et d'adhésion devra être notifié aux Etats contractants par le Directeur général; ces ratifications et adhésions produiront leurs effets à l'expiration du délai d'un mois, à compter de la date de l'envoi de cette notification à moins, en cas d'adhésion, qu'une date postérieure n'ait été indiquée dans l'instrument d'adhésion.  
 
 ### Article  27  
 
-Tout Etat contractant peut, en tout temps, notifier au Gouvernement de la Confédération suisse que le présent Arrangement est applicable à tout ou partie des territoires dont il assure les relations internationales. Le Gouvernement de la Confédération suisse en informe tous les Etats contractants et l'Arrangement s'applique également aux territoires désignés dans la notification un mois après l'envoi de la communication faite par le Gouvernement de la Confédération suisse aux Etats contractants, à moins qu'une date postérieure n'ait été indiquée dans la notification. 
+Tout Etat contractant peut, en tout temps, notifier au Directeur général que le présent Arrangement est applicable à tout ou partie des territoires dont il assure les relations internationales. Le Directeur général en informe tous les Etats contractants et l'Arrangement s'applique également aux territoires désignés dans la notification un mois après l'envoi de la communication faite par le Directeur général aux Etats contractants, à moins qu'une date postérieure n'ait été indiquée dans la notification. 
 
 ### Article  28  
 
-1.  Tout Etat contractant a la faculté de dénoncer le présent Arrangement en son nom propre et au nom de tout ou partie des territoires qui auraient fait l'objet de la notification prévue à l'article 27, par une notification adressée au Gouvernement de la Confédération suisse. Cette dénonciation produit ses effets à l'expiration d'un délai d'une année à compter de sa réception par le Gouvernement de la Confédération suisse.   
+1.  Tout Etat contractant a la faculté de dénoncer le présent Arrangement en son nom propre et au nom de tout ou partie des territoires qui auraient fait l'objet de la notification prévue à l'article 27, par une notification adressée au Directeur général. Cette dénonciation produit ses effets à l'expiration d'un délai d'une année à compter de sa réception par le Directeur général.   
 2.  La dénonciation du présent Arrangement par un Etat contractant ne le relève pas des obligations qu'il a contractées en ce qui concerne les dessins ou modèles ayant fait l'objet d'un enregistrement international préalablement à la date à laquelle la dénonciation devient effective.  
 
 ### Article  29  
@@ -265,12 +249,12 @@ Tout Etat contractant peut, en tout temps, notifier au Gouvernement de la Confé
 
 ### Article  30  
 
-1.  Plusieurs Etats contractants peuvent en tout temps notifier au Gouvernement de la Confédération suisse que, dans les conditions précisées dans cette notification: 
+1.  Plusieurs Etats contractants peuvent en tout temps notifier au Directeur général que, dans les conditions précisées dans cette notification: 
 
 1.une Administration commune se substitue à l'Administration nationale de chacun d'eux;
 
 2.ils doivent être considérés comme un seul Etat pour l'application des articles 2 à 17, du présent Arrangement.  
-2.  Cette notification ne prend effet que six mois après la date de l'envoi de la communication qui en est faite par le Gouvernement de la Confédération suisse aux autres Etats contractants.  
+2.  Cette notification ne prend effet que six mois après la date de l'envoi de la communication qui en est faite par le Directeur général aux autres Etats contractants.  
 
 ### Article  31  
 
@@ -462,11 +446,11 @@ De Overeenkomstsluitende Staten,geleid door de wens om aan de ontwerpers van tek
 ### Artikel  1  
 
 1. De Overeenkomstsluitende Staten vormen een bijzondere Unie voor het internationaal depot van tekeningen of modellen van nijverheid.
-2. Slechts de Lid-Staten van de Internationale Unie voor de bescherming van de industriële eigendom kunnen partij zijn bij deze Overeenkomst.
+2. Slechts de Lid-Staten van de Internationale Unie voor de bescherming van de intellectuele eigendom kunnen partij zijn bij deze Overeenkomst.
 
 ### Artikel  2  
 
-In deze Overeenkomst dient te worden verstaan onder:Overeenkomst van 1925: De Overeenkomst van 's-Gravenhage betreffende het internationaal depot van tekeningen of modellen van nijverheid van 6 november 1925.Overeenkomst van 1934: De Overeenkomst van 's-Gravenhage betreffende het internationaal depot van tekeningen of modellen van nijverheid van 6 november 1925, herzien te Londen op 2 juni 1934.Deze Overeenkomst: De Overeenkomst van 's-Gravenhage betreffende het internationaal depot van tekeningen of modellen van nijverheid, zoals neergelegd in deze akte.Het Reglement: Het reglement van uitvoering van deze Overeenkomst.Internationaal Bureau: Het Bureau van de Internationale Unie voor de bescherming van de industriële eigendom.Internationaal Depot: Een depot dat bij het Internationaal Bureau is verricht.Nationaal Depot: Een depot dat bij de nationale administratie van een Overeenkomstsluitende Staat is verricht.Meervoudig Depot: Een depot dat verscheidene tekeningen of modellen omvat.Staat van oorsprong van een internationaal depot: De Overeenkomstsluitende Staat waar de deposant een daadwerkelijke en wezenlijke inrichting van nijverheid of handel heeft of, indien de deposant dergelijke inrichtingen in verscheidene Overeenkomstsluitende Staten heeft diegene der Overeenkomstsluitende Staten, die hij in zijn aanvrage heeft aangewezen; indien hij niet een dergelijke inrichting heeft in een Overeenkomstsluitende Staat, de Overeenkomstsluitende Staat waar hij zijn woonplaats heeft; indien hij geen woonplaats heeft in een Overeenkomstsluitende Staat, de Overeenkomstsluitende Staat waarvan hij onderdaan is.Staat waar een nieuwheidsonderzoek wordt ingesteld: Een staat waarvan de nationale wetgeving voorziet in een systeem dat een ambtshalve ingesteld vooronderzoek inhoudt, verricht door de nationale Administratie en gericht op de nieuwheid van alle gedeponeerde tekeningen of modellen.
+In deze Overeenkomst dient te worden verstaan onder:Overeenkomst van 1925: De Overeenkomst van 's-Gravenhage betreffende het internationaal depot van tekeningen of modellen van nijverheid van 6 november 1925.Overeenkomst van 1934: De Overeenkomst van 's-Gravenhage betreffende het internationaal depot van tekeningen of modellen van nijverheid van 6 november 1925, herzien te Londen op 2 juni 1934.Deze Overeenkomst: De Overeenkomst van 's-Gravenhage betreffende het internationaal depot van tekeningen of modellen van nijverheid, zoals neergelegd in deze akte.Het Reglement: Het reglement van uitvoering van deze Overeenkomst.Internationaal Bureau: Het Internationale Bureau voor de intellectuele eigendom.Internationaal Depot: Een depot dat bij het Internationaal Bureau is verricht.Nationaal Depot: Een depot dat bij de nationale administratie van een Overeenkomstsluitende Staat is verricht.Meervoudig Depot: Een depot dat verscheidene tekeningen of modellen omvat.Staat van oorsprong van een internationaal depot: De Overeenkomstsluitende Staat waar de deposant een daadwerkelijke en wezenlijke inrichting van nijverheid of handel heeft of, indien de deposant dergelijke inrichtingen in verscheidene Overeenkomstsluitende Staten heeft diegene der Overeenkomstsluitende Staten, die hij in zijn aanvrage heeft aangewezen; indien hij niet een dergelijke inrichting heeft in een Overeenkomstsluitende Staat, de Overeenkomstsluitende Staat waar hij zijn woonplaats heeft; indien hij geen woonplaats heeft in een Overeenkomstsluitende Staat, de Overeenkomstsluitende Staat waarvan hij onderdaan is.Staat waar een nieuwheidsonderzoek wordt ingesteld: Een staat waarvan de nationale wetgeving voorziet in een systeem dat een ambtshalve ingesteld vooronderzoek inhoudt, verricht door de nationale Administratie en gericht op de nieuwheid van alle gedeponeerde tekeningen of modellen.
 
 ### Artikel  3  
 
@@ -571,7 +555,7 @@ b)Indien de wetgeving van een Overeenkomstsluitende Staat voorziet in verscheide
 
 ### Artikel  9  
 
-Wordt het internationaal depot van de tekening of het model verricht binnen zes maanden na het eerste depot van dezelfde tekening of van hetzelfde model in een van de Lid-Staten van de internationale Unie voor de bescherming van de Industriële Eigendom en wordt het recht van voorrang voor het internationaal depot ingeroepen, dan is de datum van dat eerste depot de voorrangsdatum.
+Wordt het internationaal depot van de tekening of het model verricht binnen zes maanden na het eerste depot van dezelfde tekening of van hetzelfde model in een van de Lid-Staten van de internationale Unie voor de bescherming van de Intellectuele Eigendom en wordt het recht van voorrang voor het internationaal depot ingeroepen, dan is de datum van dat eerste depot de voorrangsdatum.
 
 ### Artikel  10  
 
@@ -667,22 +651,6 @@ Het Reglement van uitvoering stelt de toepassing van deze Overeenkomst in bijzon
 
 De bepalingen van deze Overeenkomst verhinderen geenszins een beroep op de toepasselijkheid van ruimere voorschriften gegeven door de nationale wetgeving van een Overeenkomstsluitende Staat. Zij bekorten in geen enkel opzicht de bescherming die aan werken van kunst of toegepaste kunst door internationale verdragen en overeenkomsten betreffende het auteursrecht wordt verleend.
 
-### Artikel  19  
-
-Vervallen.
-
-### Artikel  20  
-
-Vervallen.
-
-### Artikel  21  
-
-Vervallen.
-
-### Artikel  22  
-
-Vervallen.
-
 ### Artikel  23  
 
 1. Deze Overeenkomst staat tot 31 december 1961 ter ondertekening open.
@@ -690,8 +658,8 @@ Vervallen.
 
 ### Artikel  24  
 
-1. De Lid-Staten van de Internationale Unie voor de bescherming van de industriële eigendom, die deze Overeenkomst niet hebben ondertekend zullen daartoe mogen toetreden.
-2. Deze toetreding wordt aan de Regering van de Zwitserse Bondsstaat en door deze aan de Regeringen van alle Overeenkomstsluitende Staten langs diplomatieke weg medegedeeld.
+1. De Lid-Staten van de Internationale Unie voor de bescherming van de intellectuele eigendom, die deze Overeenkomst niet hebben ondertekend zullen daartoe mogen toetreden.
+2. Deze toetreding wordt aan de Directeur-Generaal en door deze aan de Regeringen van alle Overeenkomstsluitende Staten langs diplomatieke weg medegedeeld.
 
 ### Artikel  25  
 
@@ -700,16 +668,16 @@ Vervallen.
 
 ### Artikel  26  
 
-1. Deze Overeenkomst treedt in werking na het verstrijken van een termijn van een maand, te rekenen van de dag waarop de Regering van de Zwitserse Bondsstaat aan de Overeenkomstsluitende Staten bericht heeft gezonden van de nederlegging van tien akten van bekrachtiging of toetreding, waaronder die van tenminste vier staten die, op de datum van deze Overeenkomst, noch bij de Overeenkomst van 1925 noch bij de Overeenkomst van 1934 partij zijn.
-2. Bijgevolg zal de nederlegging van de akten van bekrachtiging en toetreding door de Regering van de Zwitserse Bondsstaat aan de overeenkomstsluitende Staten moeten worden medegedeeld; deze bekrachtigingen en toetredingen worden van kracht na het verstrijken van een termijn van één maand, te rekenen van de datum waarop het desbetreffende bericht is verzonden, af, tenzij, ingeval van toetreding, een latere datum in de akte van toetreding is aangegeven.
+1. Deze Overeenkomst treedt in werking na het verstrijken van een termijn van een maand, te rekenen van de dag waarop de Directeur-Generaal aan de Overeenkomstsluitende Staten bericht heeft gezonden van de nederlegging van tien akten van bekrachtiging of toetreding, waaronder die van tenminste vier staten die, op de datum van deze Overeenkomst, noch bij de Overeenkomst van 1925 noch bij de Overeenkomst van 1934 partij zijn.
+2. Bijgevolg zal de nederlegging van de akten van bekrachtiging en toetreding door de Directeur-Generaal aan de overeenkomstsluitende Staten moeten worden medegedeeld; deze bekrachtigingen en toetredingen worden van kracht na het verstrijken van een termijn van één maand, te rekenen van de datum waarop het desbetreffende bericht is verzonden, af, tenzij, ingeval van toetreding, een latere datum in de akte van toetreding is aangegeven.
 
 ### Artikel  27  
 
-Iedere Overeenkomstsluitende Staat kan te allen tijde de Regering van de Zwitserse Bondsstaat ervan in kennis stellen, dat deze Overeenkomst van toepassing is voor alle of een deel van de gebieden waarvan de internationale betrekkingen door bedoelde staat worden behartigd. De Regering van de Zwitserse Bondsstaat stelt alle Overeenkomstsluitende Staten hiervan in kennis en de Overeenkomst is alsdan eveneens van toepassing in de in de kennisgeving aangewezen gebieden, een maand nadat de Regering van de Zwitserse Bondsstaat aan de Overeenkomstsluitende Staten de mededeling heeft verzonden, tenzij een latere datum in de kennisgeving is aangegeven.
+Iedere Overeenkomstsluitende Staat kan te allen tijde de Directeur-Generaal ervan in kennis stellen, dat deze Overeenkomst van toepassing is voor alle of een deel van de gebieden waarvan de internationale betrekkingen door bedoelde staat worden behartigd. De Directeur-Generaal stelt alle Overeenkomstsluitende Staten hiervan in kennis en de Overeenkomst is alsdan eveneens van toepassing in de in de kennisgeving aangewezen gebieden, een maand nadat de Directeur-Generaal aan de Overeenkomstsluitende Staten de mededeling heeft verzonden, tenzij een latere datum in de kennisgeving is aangegeven.
 
 ### Artikel  28  
 
-1. Iedere Overeenkomstsluitende Staat heeft de bevoegdheid deze Overeenkomst voor zichzelf en voor alle of een deel van de gebieden die in de in artikel 27 bedoelde mededeling zijn genoemd, op te zeggen door een aan de Regering van de Zwitserse Bondsstaat gerichte mededeling. Deze opzegging wordt van kracht na verloop van een termijn van een jaar nadat de Regering van de Zwitserse Bondsstaat hiervan bericht heeft ontvangen.
+1. Iedere Overeenkomstsluitende Staat heeft de bevoegdheid deze Overeenkomst voor zichzelf en voor alle of een deel van de gebieden die in de in artikel 27 bedoelde mededeling zijn genoemd, op te zeggen door een aan de Directeur-Generaal gerichte mededeling. Deze opzegging wordt van kracht na verloop van een termijn van een jaar nadat de Directeur-Generaal hiervan bericht heeft ontvangen.
 2. De opzegging van deze Overeenkomst door een Overeenkomstsluitende Staat ontheft deze niet van de verplichtingen die hij heeft aangegaan ten aanzien van tekeningen of modellen waarvoor een internationale inschrijving is verricht vóór de datum waarop de opzegging van kracht wordt.
 
 ### Artikel  29  
@@ -719,12 +687,12 @@ Iedere Overeenkomstsluitende Staat kan te allen tijde de Regering van de Zwitser
 
 ### Artikel  30  
 
-1. Verscheidene Overeenkomstsluitende Staten kunnen te allen tijde de Regering van de Zwitserse Bondsstaat ervan in kennis stellen dat op nader in deze mededeling aangeduide voorwaarden:
+1. Verscheidene Overeenkomstsluitende Staten kunnen te allen tijde de Directeur-Generaal ervan in kennis stellen dat op nader in deze mededeling aangeduide voorwaarden:
 
 1)een gemeenschappelijke Administratie in de plaats treedt voor de Administratie van elk hunner;
 
 2)zij moeten worden beschouwd als één enkele staat voor de toepassing van de artikelen 2-17 van deze Overeenkomst.
-2. Deze mededeling heeft eerst gevolg zes maanden nadat de Regering van de Zwitserse Bondsstaat hiervan bericht heeft gezonden aan de andere Overeenkomstsluitende Staten.
+2. Deze mededeling heeft eerst gevolg zes maanden nadat de Directeur-Generaal hiervan bericht heeft gezonden aan de andere Overeenkomstsluitende Staten.
 
 ### Artikel  31  
 

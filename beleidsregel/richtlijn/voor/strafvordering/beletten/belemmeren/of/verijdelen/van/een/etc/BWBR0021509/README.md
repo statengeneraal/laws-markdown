@@ -13,7 +13,7 @@ Commuun
 – Belemmeren van een ambtshandeling – Beletten of verijdelen van een ambtshandeling 
 ###Wettekst
 
-– [Wetboek van Strafrecht art. 184](../../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)    
+– Wetboek van Strafrecht art. 184    
 
 ####Basisdelict belemmeren van een ambtshandeling
 
@@ -98,8 +98,8 @@ Geen
 
 | --- | --- | --- |
 |:---|:---|:---|
-| - Er is geen sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) | +0 % | --- |
-|- Er is sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  |+0 %  |*(CKT) * |
+| - Er is geen sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr | +0 % | --- |
+|- Er is sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr  |+0 %  |*(CKT) * |
 
 *(CKT) + contra-indicatie kale taakstraf *
 ###Speciale regelingen
@@ -107,7 +107,7 @@ Geen
 Geen 
 ###Bijzonderheden
 
-De aard van het letsel is niet als beoordelingsfactor in dit basisdelict opgenomen. Is er namelijk tevens sprake van mishandeling, dan zal daarvoor separaat vervolgd dienen te worden. Tevens is de beoordelingsfactor 'gebruik van een wapen' niet in dit basisdelict opgenomen. Een eventuele bedreiging in de zin van [art. 285 WvSr.](../../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) dient separaat tenlastegelegd te worden.     
+De aard van het letsel is niet als beoordelingsfactor in dit basisdelict opgenomen. Is er namelijk tevens sprake van mishandeling, dan zal daarvoor separaat vervolgd dienen te worden. Tevens is de beoordelingsfactor 'gebruik van een wapen' niet in dit basisdelict opgenomen. Een eventuele bedreiging in de zin van art. 285 WvSr. dient separaat tenlastegelegd te worden.     
 
 ####Basisdelict beletten of verijdelen van een ambtshandeling
 
@@ -192,8 +192,8 @@ Geen
 
 | --- | --- | --- |
 |:---|:---|:---|
-| - Er is geen sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) | +0 % | --- |
-|- Er is sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  |+0 %  |*(CKT) * |
+| - Er is geen sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr | +0 % | --- |
+|- Er is sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr  |+0 %  |*(CKT) * |
 
 *(CKT) + contra-indicatie kale taakstraf *
 ###Speciale regelingen
@@ -201,4 +201,4 @@ Geen
 Geen 
 ###Bijzonderheden
 
-De aard van het letsel is niet als beoordelingsfactor in dit basisdelict opgenomen. Is er namelijk tevens sprake van mishandeling, dan zal daarvoor separaat vervolgd dienen te worden. Tevens is de beoordelingsfactor 'gebruik van een wapen' niet in dit basisdelict opgenomen. Een eventuele bedreiging in de zin van [art. 285 WvSr.](../../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) dient separaat tenlastegelegd te worden.      
+De aard van het letsel is niet als beoordelingsfactor in dit basisdelict opgenomen. Is er namelijk tevens sprake van mishandeling, dan zal daarvoor separaat vervolgd dienen te worden. Tevens is de beoordelingsfactor 'gebruik van een wapen' niet in dit basisdelict opgenomen. Een eventuele bedreiging in de zin van art. 285 WvSr. dient separaat tenlastegelegd te worden.      

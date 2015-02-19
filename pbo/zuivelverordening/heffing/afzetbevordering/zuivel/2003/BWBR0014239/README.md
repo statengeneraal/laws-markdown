@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Zuivel van 13 november 2002, houdende vaststelling bestemmingsheffing ten behoeve van de afzetbevordering van zuivel voor het jaar 2003 (Zuivelverordening Heffing afzetbevordering zuivel 2003)
 
 Het bestuur van het Productschap Zuivel;
-Gelet op [artikel 126 van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en artikel 9 van de Instellingsverordening Produktschap Zuivel;
+Gelet op artikel 126 van de Wet op de bedrijfsorganisatie en artikel 9 van de Instellingsverordening Produktschap Zuivel;
 Besluit:
 
 ###Artikel 1 

@@ -16,7 +16,7 @@ Ram- of plofkraak door meerdere daders gepleegd, first offenders. Het gaat hier 
 
 ####Bijzonderheden
 
-Bij plofkraak tevens het teweegbrengen van een ontploffing ([art. 157 Sr](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)) ten laste leggen. Strafverzwarend onder andere: Omvang schade en/of buit Gevaarzetting* Georganiseerd verband Tevens geweld/bedreiging tegen personen > gebruik richtlijn overvallen op woningen en bedrijven. Recidive* Strafverminderend onder andere: Poging en medeplichtigheid (- een derde) en voorbereiding (op [157 Sr](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md))(- de helft)  **Toelichting.*     
+Bij plofkraak tevens het teweegbrengen van een ontploffing (art. 157 Sr) ten laste leggen. Strafverzwarend onder andere: Omvang schade en/of buit Gevaarzetting* Georganiseerd verband Tevens geweld/bedreiging tegen personen > gebruik richtlijn overvallen op woningen en bedrijven. Recidive* Strafverminderend onder andere: Poging en medeplichtigheid (- een derde) en voorbereiding (op 157 Sr)(- de helft)  **Toelichting.*     
 
 ####Gevaarzetting
 

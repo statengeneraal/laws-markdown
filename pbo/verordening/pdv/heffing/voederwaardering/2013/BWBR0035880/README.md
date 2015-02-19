@@ -133,18 +133,18 @@ secretaris
 
 *Tarieven heffing voederwaardering 2013 en 2014 (in eurocenten per 1.000 kg)*
 
-| --- | --- | --- |
-|:---|:---|:---|
-| --- |2013 |2014 |
-|Productie van mengvoeders (excl. kunstmelkvoeders voor kalveren) |3,5 |3,2 |
-|Productie van concentraten en voormengsels |3,5 |3,2 |
-|Productie van huisdiervoeders |- |- |
-|Productie van kunstmelkvoeders voor vleeskalveren |- |- |
-|Productie van kunstmelkvoeders voor overige kalveren |3,5 |3,2 |
-|Productie van gedroogde bietenpulp en gedroogde voedergewassen |3,5 |3,2 |
-|Productie van vochtrijke voedermiddelen |4,0 |3,6 |
-|Handel in droge voedermiddelen |3,5 |3,2 |
-|Handel in vochtrijke voedermiddelen |4,0 |3,6 |
+| --- | --- | --- | --- |
+|:---|:---|:---|:---|
+| --- |2013 |2014 |Met ingang van 1 oktober 2014 |
+|Productie van mengvoeders (excl. kunstmelkvoeders voor kalveren) |3,5 |3,2 |0 |
+|Productie van concentraten en voormengsels |3,5 |3,2 |0 |
+|Productie van huisdiervoeders |- |- |0 |
+|Productie van kunstmelkvoeders voor vleeskalveren |- |- |0 |
+|Productie van kunstmelkvoeders voor overige kalveren |3,5 |3,2 |0 |
+|Productie van gedroogde bietenpulp en gedroogde voedergewassen |3,5 |3,2 |0 |
+|Productie van vochtrijke voedermiddelen |4,0 |3,6 |0 |
+|Handel in droge voedermiddelen |3,5 |3,2 |0 |
+|Handel in vochtrijke voedermiddelen |4,0 |3,6 |0 |
 
 ###Bijlage  II  
 

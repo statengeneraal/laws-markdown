@@ -4,7 +4,7 @@
 
 ####Beschrijving
 
-Deze richtlijn ziet op een aantal delicten betreffende het ongeoorloofd (doen) besturen van een motorrijtuig. Onder deze richtlijn vallen het rijden tijdens een ontzegging van de rijbevoegdheid (OBM), na een (gedeeltelijke) ongeldigverklaring, na een van rechtswege ongeldigheid op grond van [artikel 123b WVW 1994](../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), na een vordering tot overgifte, alsmede na een invordering of inhouding van het rijbewijs. Verder vallen alle overtredingen van de bepalingen m.b.t. het alcoholslotprogramma, zoals het rijden zonder alcoholslot of met een niet-werkend alcoholslot, onder deze richtlijn.    
+Deze richtlijn ziet op een aantal delicten betreffende het ongeoorloofd (doen) besturen van een motorrijtuig. Onder deze richtlijn vallen het rijden tijdens een ontzegging van de rijbevoegdheid (OBM), na een (gedeeltelijke) ongeldigverklaring, na een van rechtswege ongeldigheid op grond van artikel 123b WVW 1994, na een vordering tot overgifte, alsmede na een invordering of inhouding van het rijbewijs. Verder vallen alle overtredingen van de bepalingen m.b.t. het alcoholslotprogramma, zoals het rijden zonder alcoholslot of met een niet-werkend alcoholslot, onder deze richtlijn.    
 
 ####Aard van de richtlijn
 
@@ -20,21 +20,21 @@ Deze richtlijn ziet op een aantal delicten betreffende het ongeoorloofd (doen) b
 
 – Motorrijtuig (doen) besturen na vordering tot overgifte en/of invordering en/of inhouding van het rijbewijs.  
 
-– Motorrijtuig (doen) besturen in geval van een op grond van [artikel 123b WVW 1994](../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) van rechtswege ongeldig geworden rijbewijs.  
+– Motorrijtuig (doen) besturen in geval van een op grond van artikel 123b WVW 1994 van rechtswege ongeldig geworden rijbewijs.  
 
 – Als deelnemer aan het alcoholslotprogramma een motorrijtuig, niet zijnde een bromfiets, besturen zonder alcoholslot, dan wel met een niet-werkend alcoholslot of terwijl een ander heeft geblazen in het alcoholslot of met een alcoholslot, terwijl het kenteken van het motorrijtuig niet aan de deelnemer is gekoppeld.        
 
 ####Wettekst
 
-– [Wegenverkeerswet 1994 art. 9](../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md)  
+– Wegenverkeerswet 1994 art. 9  
 
-– [Wegenverkeerswet 1994 art. 123b](../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md)      
+– Wegenverkeerswet 1994 art. 123b      
 
 ####Basisdelict als deelnemer aan het alcoholslotprogramma een motorrijtuig, niet zijnde een bromfiets, besturen zonder alcoholslot, dan wel met een niet-werkend alcoholslot of terwijl een ander heeft geblazen in het alcoholslot of met een alcoholslot, terwijl het kenteken van het motorrijtuig niet aan de deelnemer is gekoppeld. 5.15.06
 
 ####Beschrijving
 
-Dit basisdelict ziet op het besturen van een motorrijtuig, niet zijnde een bromfiets, door een bestuurder aan wie door het CBR deelname aan het alcoholslotprogramma is opgelegd, maar die zich niet aan de voorwaarden houdt door zich schuldig te maken aan één van de strafbare feiten genoemd in [artikel 9 lid 9 WVW 1994](../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md).    
+Dit basisdelict ziet op het besturen van een motorrijtuig, niet zijnde een bromfiets, door een bestuurder aan wie door het CBR deelname aan het alcoholslotprogramma is opgelegd, maar die zich niet aan de voorwaarden houdt door zich schuldig te maken aan één van de strafbare feiten genoemd in artikel 9 lid 9 WVW 1994.    
 
 ####Toepasselijk kader
 
@@ -90,7 +90,7 @@ Dit basisdelict ziet op het (doen) besturen van een motorrijtuig waarvoor het be
 
 ####Toepasselijk kader
 
-[Aanwijzing Kader voor strafvordering](../../../../../../../../../../beleidsregel/aanwijzing/kader/voor/strafvordering/BWBR0030950/README.md)    
+Aanwijzing Kader voor strafvordering    
 
 ####Basispunten
 
@@ -142,7 +142,7 @@ Geen
 
 ####Beschrijving
 
-Deze regeling heeft betrekking op het negeren van een beslissing. Doel van die beslissing was het voorkomen dat de verdachte een bepaalde handeling zou verrichten. Een voorbeeld betreft de bestuurder die een motorrijtuig bestuurt, terwijl hem of haar de rijbevoegdheid (tijdelijk) is ontnomen door de rechter (OBM), het Centraal Bureau Rijvaardigheidsbewijzen (ongeldigverklaring), de politie (vordering tot overgifte / invordering) en/of de officier van justitie (inhouding / OBM). De regeling is ook van toepassing op de bestuurder van een motorrijtuig, indien het rijbewijs van rechtswege zijn geldigheid heeft verloren op grond van [artikel 123b WVW 1994](../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en op de bestuurder van een motorrijtuig, niet zijnde een bromfiets, aan wie deelname aan het alcoholslotprogramma is opgelegd, maar die handelt in strijd met de voorwaarden door zich schuldig te maken aan één van de strafbare feiten genoemd in [artikel 9 lid 9 WVW 1994](../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md). Een ander voorbeeld betreft de ontzegging van de bevoegdheid tot het vliegen of de bevoegdheid tot het geven van luchtverkeersleiding (OBV). Gezien de ernst van dergelijke normschendingen die worden gepleegd terwijl het bevoegd gezag een specifieke beslissing aan het adres van de verdachte heeft kenbaar gemaakt, is een enkele geldstraf geen passende reactie meer. Toch is, afgemeten naar het gepleegde feit, ook een volledige omrekening naar onvoorwaardelijke gevangenisstraf niet passend. Dientengevolge worden de sanctiepunten gedeeltelijk omgerekend naar onvoorwaardelijke gevangenisstraf, gedeeltelijk naar geldboete.    
+Deze regeling heeft betrekking op het negeren van een beslissing. Doel van die beslissing was het voorkomen dat de verdachte een bepaalde handeling zou verrichten. Een voorbeeld betreft de bestuurder die een motorrijtuig bestuurt, terwijl hem of haar de rijbevoegdheid (tijdelijk) is ontnomen door de rechter (OBM), het Centraal Bureau Rijvaardigheidsbewijzen (ongeldigverklaring), de politie (vordering tot overgifte / invordering) en/of de officier van justitie (inhouding / OBM). De regeling is ook van toepassing op de bestuurder van een motorrijtuig, indien het rijbewijs van rechtswege zijn geldigheid heeft verloren op grond van artikel 123b WVW 1994 en op de bestuurder van een motorrijtuig, niet zijnde een bromfiets, aan wie deelname aan het alcoholslotprogramma is opgelegd, maar die handelt in strijd met de voorwaarden door zich schuldig te maken aan één van de strafbare feiten genoemd in artikel 9 lid 9 WVW 1994. Een ander voorbeeld betreft de ontzegging van de bevoegdheid tot het vliegen of de bevoegdheid tot het geven van luchtverkeersleiding (OBV). Gezien de ernst van dergelijke normschendingen die worden gepleegd terwijl het bevoegd gezag een specifieke beslissing aan het adres van de verdachte heeft kenbaar gemaakt, is een enkele geldstraf geen passende reactie meer. Toch is, afgemeten naar het gepleegde feit, ook een volledige omrekening naar onvoorwaardelijke gevangenisstraf niet passend. Dientengevolge worden de sanctiepunten gedeeltelijk omgerekend naar onvoorwaardelijke gevangenisstraf, gedeeltelijk naar geldboete.    
 
 ####Uitwerking
 
@@ -166,6 +166,6 @@ Geen
 
 – motorrijtuig (doen) besturen na vordering tot overgifte en/of invordering en/of inhouding van het rijbewijs.  
 
-– motorrijtuig (doen) besturen in geval van een op grond van [artikel 123b WVW 1994](../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) van rechtswege ongeldig geworden rijbewijs.  
+– motorrijtuig (doen) besturen in geval van een op grond van artikel 123b WVW 1994 van rechtswege ongeldig geworden rijbewijs.  
 
 – als deelnemer aan het alcoholslotprogramma een motorrijtuig, niet zijnde een bromfiets, besturen zonder alcoholslot, dan wel met een niet-werkend alcoholslot of terwijl een ander heeft geblazen in het alcoholslot of met een alcoholslot, terwijl het kenteken van het motorrijtuig niet aan de deelnemer is gekoppeld.        

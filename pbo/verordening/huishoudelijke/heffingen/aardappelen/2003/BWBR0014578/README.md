@@ -3,7 +3,7 @@
 ##Verordening van het Hoofdbedrijfschap Agrarische Groothandel van 9 januari 2003, houdende regels terzake van de heffing, op te leggen aan de onder het HBAG ressorterende ondernemers die de groothandelen/of het bedrijf van tussenpersoon in pootaardappelen, consumptie en/of voeraardappelen uitoefenen, en ten behoeve van de financiering van de huishoudelijke kosten van de HBAG-Commissie pootaardappelen en de HBAG-Commissie consumptie-, fabrieks- en voeraardappelen voor het jaar 2003, (Verordening huishoudelijke heffingen aardappelen 2003)
 
 Het bestuur van het Hoofdbedrijfschap Agrarische Groothandel, 
-gelet op [artikel 126, eerste lid, van de Wet op de Bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en de [artikelen 3, tweede lid sub a](../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md), [10](../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md), [13, eerste en derde lid, van het Instellingsbesluit Hoofdbedrijfschap Agrarische Groothandel](../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md) (Staatsblad 2002 nr. 155), in werking getreden met ingang van 1 januari 2003 (Staatsblad 2002 nr. 386), besluit vast te stellen de navolgende verordening.
+gelet op artikel 126, eerste lid, van de Wet op de Bedrijfsorganisatie en de artikelen 3, tweede lid sub a, 10, 13, eerste en derde lid, van het Instellingsbesluit Hoofdbedrijfschap Agrarische Groothandel (Staatsblad 2002 nr. 155), in werking getreden met ingang van 1 januari 2003 (Staatsblad 2002 nr. 386), besluit vast te stellen de navolgende verordening.
 
 ###Artikel 1 
 
@@ -11,7 +11,7 @@ gelet op [artikel 126, eerste lid, van de Wet op de Bedrijfsorganisatie](../../.
 
 Materieel uitgewerkt per 30-12-2003 
 
-In deze verordening wordt overgenomen de terminologie van het [Instellingsbesluit Hoofdbedrijfschap Agrarische Groothandel](../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md) en wordt voorts verstaan onder:
+In deze verordening wordt overgenomen de terminologie van het Instellingsbesluit Hoofdbedrijfschap Agrarische Groothandel en wordt voorts verstaan onder:
 ###a) detailhandelaar in pootaardappelen:
 
 een ondernemer die pootaardappelen koopt en deze verkoopt aan in Nederland gevestigde aardappeltelers of andere verbruikers;

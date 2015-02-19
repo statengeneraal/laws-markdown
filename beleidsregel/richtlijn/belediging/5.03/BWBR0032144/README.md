@@ -18,15 +18,15 @@ Commuun
 
 ####Wettekst
 
-– [Wetboek van Strafrecht art. 266](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  
+– Wetboek van Strafrecht art. 266  
 
-– [Wetboek van Strafrecht art. 267](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)      
+– Wetboek van Strafrecht art. 267      
 
 ####Basisdelict eenvoudige belediging 5.03.04
 
 ####Beschrijving
 
-Eenvoudige belediging al dan niet in het openbaar, mondeling, schriftelijk of d.m.v feitelijkheden als bedoeld in [art. 266 WvSr](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).    
+Eenvoudige belediging al dan niet in het openbaar, mondeling, schriftelijk of d.m.v feitelijkheden als bedoeld in art. 266 WvSr.    
 
 ####Toepasselijk kader
 
@@ -100,11 +100,11 @@ Geen
 
 ####Maatwerk
 
-Indien sprake is van recidive volgens beoordelingsfactor 3.01.59 of beoordelingsfactor 3.04.04 dient bepaald te worden of het delict een contra-indicatie voor een taakstraf heeft op grond van [art 22b lid 2 WvSr](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md). Taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) 
+Indien sprake is van recidive volgens beoordelingsfactor 3.01.59 of beoordelingsfactor 3.04.04 dient bepaald te worden of het delict een contra-indicatie voor een taakstraf heeft op grond van art 22b lid 2 WvSr. Taakstrafverbod als bedoeld in art 22b lid 2 WvSr 
 
-– Er is geen sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) +0 %  
+– Er is geen sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr +0 %  
 
-– Er is sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) +0 % (CKT)   (CKT) + contra-indicatie kale taakstraf    
+– Er is sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr +0 % (CKT)   (CKT) + contra-indicatie kale taakstraf    
 
 ####Speciale regelingen
 
@@ -118,7 +118,7 @@ Geen
 
 ####Beschrijving
 
-Belediging al dan niet in het openbaar, mondeling, schriftelijk of d.m.v. feitelijkheden van een ambtenaar, als bedoeld in [art. 267 WvSr](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).    
+Belediging al dan niet in het openbaar, mondeling, schriftelijk of d.m.v. feitelijkheden van een ambtenaar, als bedoeld in art. 267 WvSr.    
 
 ####Toepasselijk kader
 
@@ -192,11 +192,11 @@ Geen
 
 ####Maatwerk
 
-Indien sprake is van recidive volgens beoordelingsfactor 3.01.59 of beoordelingsfactor 3.04.04 dient bepaald te worden of het delict een contra-indicatie voor een taakstraf heeft op grond van [art 22b lid 2 WvSr](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md). Taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) 
+Indien sprake is van recidive volgens beoordelingsfactor 3.01.59 of beoordelingsfactor 3.04.04 dient bepaald te worden of het delict een contra-indicatie voor een taakstraf heeft op grond van art 22b lid 2 WvSr. Taakstrafverbod als bedoeld in art 22b lid 2 WvSr 
 
-– Er is geen sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) +0 %  
+– Er is geen sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr +0 %  
 
-– Er is sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) +0 % (CKT)   (CKT) + contra-indicatie kale taakstraf    
+– Er is sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr +0 % (CKT)   (CKT) + contra-indicatie kale taakstraf    
 
 ####Speciale regelingen
 

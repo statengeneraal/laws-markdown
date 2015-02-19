@@ -16,7 +16,7 @@ Commuun
 
 ####Wettekst
 
-– [Wetboek van Strafrecht art. 188](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)    
+– Wetboek van Strafrecht art. 188    
 
 ####Basisdelict
 
@@ -41,7 +41,7 @@ Gevolgen voor derden
 | --- | --- |
 |:---|:---|
 | – Geen gevolgen voor derden  | 0 pt  |
-| – Verdachtmaking persoon met afzonderlijke vervolging voor [art. 268 WvSr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).  | 0 pt  |
+| – Verdachtmaking persoon met afzonderlijke vervolging voor art. 268 WvSr.  | 0 pt  |
 | – Verdachtmaking persoon zonder toepassing dwangmiddel  | 10 pt  |
 | – Verdachtmaking persoon met toepassing dwangmiddel  | 21 pt  |
 
@@ -84,8 +84,8 @@ Geen
 
 | --- | --- | --- |
 |:---|:---|:---|
-| - Er is geen sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) | +0 % | --- |
-|- Er is sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  |+0 %  |*(CKT) * |
+| - Er is geen sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr | +0 % | --- |
+|- Er is sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr  |+0 %  |*(CKT) * |
 
 *(CKT) + contra-indicatie kale taakstraf *
 ###Speciale regelingen

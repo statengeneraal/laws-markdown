@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Granen, Zaden en Peulvruchten van 7 november 2002, houdende vaststelling bestemmingsheffing ten behoeve van de sector zaaizaden van granen, peulvruchten en andere gewassen in Nederland voor het jaar 2003 (Heffingsverordening GZP fonds zaaizaad van granen, peulvruchten en andere gewassen jaar 2003)
 
 Het bestuur van het Productschap Granen, Zaden en Peulvruchten;
-Gelet op de [artikelen 95](../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126, eerste en vierde lid, van de Wet op de bedrijfsorganisatie](../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en de artikelen 5, 6 en 7 van de Instellingsverordening akkerbouwproductschappen 1997;
+Gelet op de artikelen 95 en 126, eerste en vierde lid, van de Wet op de bedrijfsorganisatie en de artikelen 5, 6 en 7 van de Instellingsverordening akkerbouwproductschappen 1997;
 Besluit:
 ###§ 1 
 
@@ -83,7 +83,7 @@ Materieel uitgewerkt per 08-02-2004
 ###Artikel 6 
 Materieel uitgewerkt per 08-02-2004 
 
-Aan de ondernemer die niet of niet geheel binnen de in artikel 4 gestelde termijn heeft betaald, kan door het productschap de wettelijke interest over net niet betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md).
+Aan de ondernemer die niet of niet geheel binnen de in artikel 4 gestelde termijn heeft betaald, kan door het productschap de wettelijke interest over net niet betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie.
 
 ###§ 4 
 

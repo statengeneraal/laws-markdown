@@ -15,7 +15,7 @@ Commuun
 − Bedreiging door middel van inrijden met een motorvoertuig   
 ### *Wettekst* 
 
-– [Wetboek van Strafrecht art. 285](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)   
+– Wetboek van Strafrecht art. 285   
 ### *Basisdelict bedreiging, mondeling en/of door middel van gebaren of schriftelijk 5.02.01* 
 
 ### *Beschrijving* 
@@ -159,7 +159,7 @@ Exceptionele gevolgen
 Geen 
 ### *Bijzonderheden* 
 
-Gezien de ernst van de omstandigheid dient bij bedreiging met een steekwapen of een als zodanig aan te merken voorwerp in beginsel een taakstraf te worden gevorderd, mits wordt voldaan aan de voorwaarden, genoemd in de [Aanwijzing Taakstraffen](../../../../../beleidsregel/aanwijzing/taakstraffen/2009/BWBR0025104/README.md) (2008A025). Contra-indicaties voor een taakstraf zijn onder meer ernstige geweldsmisdrijven en weigering tot schadevergoeding. In die gevallen worden de taakstrafpunten naar gevangenisstraf omgerekend. In dit verband wordt bedreiging met een (nep)vuurwapen gezien als een ernstig geweldsmisdrijf. Indien de gevolgen voor het slachtoffer exceptioneel zijn dient te worden gedagvaard en overlegd te worden met de officier van justitie over de op te leggen straf (maatwerk). 
+Gezien de ernst van de omstandigheid dient bij bedreiging met een steekwapen of een als zodanig aan te merken voorwerp in beginsel een taakstraf te worden gevorderd, mits wordt voldaan aan de voorwaarden, genoemd in de Aanwijzing Taakstraffen (2008A025). Contra-indicaties voor een taakstraf zijn onder meer ernstige geweldsmisdrijven en weigering tot schadevergoeding. In die gevallen worden de taakstrafpunten naar gevangenisstraf omgerekend. In dit verband wordt bedreiging met een (nep)vuurwapen gezien als een ernstig geweldsmisdrijf. Indien de gevolgen voor het slachtoffer exceptioneel zijn dient te worden gedagvaard en overlegd te worden met de officier van justitie over de op te leggen straf (maatwerk). 
 ### *Basisdelict bedreiging door middel van inrijden met een motorvoertuig op een persoon (5.02.02)* 
 
 ### *Beschrijving* 
@@ -278,8 +278,8 @@ Exceptionele gevolgen
 
 | --- | --- | --- |
 |:---|:---|:---|
-| - Er is geen sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) | +0 % | --- |
-| - Er is sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) | +0 %  |*(CKT)* |
+| - Er is geen sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr | +0 % | --- |
+| - Er is sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr | +0 %  |*(CKT)* |
 
 * (CKT) + contra-indicatie kale taakstraf *
 ### *Speciale regelingen* 

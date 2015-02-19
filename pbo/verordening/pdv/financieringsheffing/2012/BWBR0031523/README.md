@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Diervoeder van 2 november 2011, houdende regels ter zake van de aan de onder het Productschap Diervoeder ressorterende ondernemers op te leggen heffing (Verordening PDV financieringsheffing 2012)
 
 Het bestuur van het Productschap Diervoeder;  
-Gelet op de [artikelen 95](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [100, derde lid](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126, eerste lid en vierde lid onder b van de Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op de [artikelen 12](../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md) en [19 van het Instellingsbesluit Akkerbouwproductschappen](../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md);
+Gelet op de artikelen 95, 100, derde lid en 126, eerste lid en vierde lid onder b van de Wet op de bedrijfsorganisatie en op de artikelen 12 en 19 van het Instellingsbesluit Akkerbouwproductschappen;
 Besluit:    
 ###§ 1 
 
@@ -94,7 +94,7 @@ de algemene (bestuurs)kosten van het Hoofdproductschap Akkerbouw (HPA).
 
 binnen 2 maanden na afloop van ieder kwartaal voor de vaststelling van de heffing bedoeld in de artikelen 2 tot en met 4;
 
-binnen 2 maanden na afloop van het kalenderjaar voor de vaststelling van de heffing bedoeld in artikel 5; aan het productschap de benodigde gegevens te verstrekken door middel van een hiertoe dienend opgavenformulier. De [Verordening PDV algemene bepalingen 2011](../../../../../../pbo/verordening/pdv/algemene/bepalingen/2011/BWBR0031144/README.md) is hierbij van toepassing. 
+binnen 2 maanden na afloop van het kalenderjaar voor de vaststelling van de heffing bedoeld in artikel 5; aan het productschap de benodigde gegevens te verstrekken door middel van een hiertoe dienend opgavenformulier. De Verordening PDV algemene bepalingen 2011 is hierbij van toepassing. 
 2. De ondernemer, bedoeld in de artikelen 2 tot en met 4 is eveneens verplicht het opgavenformulier in te dienen, indien hij in het betrokken kwartaal geen diervoeders heeft geproduceerd dan wel verhandeld. 
 3. De ondernemer die gedurende een kalenderjaar geen diervoeders heeft geproduceerd dan wel heeft verhandeld, moet jaarlijks in januari van het daaropvolgende jaar een daaromtrent informatieve verklaring indienen bij het productschap. Deze verklaring wordt tevens gebruikt als aanname voor het lopende jaar, zodat de opgaven ingevolge het eerste lid niet behoeven te worden gedaan.
 4. Ingeval de secretaris zulks verlangt, is de ondernemer verplicht een door een accountant afgegeven verklaring te overleggen.
@@ -134,7 +134,7 @@ Het productschap kan besluiten nota's van minder dan € 50,- samen te voegen to
 
 ###Artikel 12 
 
-Aan de ondernemer die niet of niet geheel binnen de in artikel 10 gestelde termijn heeft betaald, kan door het productschap de wettelijke interest over het niet betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk diende te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md). 
+Aan de ondernemer die niet of niet geheel binnen de in artikel 10 gestelde termijn heeft betaald, kan door het productschap de wettelijke interest over het niet betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk diende te zijn verricht ingevolge de aanmaning bedoeld in artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie. 
 
 ###§ 5 
 
@@ -142,7 +142,7 @@ Aan de ondernemer die niet of niet geheel binnen de in artikel 10 gestelde termi
 
 ###Artikel 13 
 
-Deze verordening treedt in werking met ingang van 1 januari 2012. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 januari 2012, treedt zij in werking met ingang van de tweede dag na de dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt terug tot en met 1 januari 2012, met uitzondering van de toepassing van de [Verordening PDV algemene bepalingen 2011](../../../../../../pbo/verordening/pdv/algemene/bepalingen/2011/BWBR0031144/README.md). 
+Deze verordening treedt in werking met ingang van 1 januari 2012. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 januari 2012, treedt zij in werking met ingang van de tweede dag na de dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt terug tot en met 1 januari 2012, met uitzondering van de toepassing van de Verordening PDV algemene bepalingen 2011. 
 
 ###Artikel 14 
 
@@ -182,18 +182,19 @@ Tarieven financieringsheffing 2013 (in eurocenten per 1.000 kg):
 
 Tarieven financieringsheffing 2014 (in eurocenten per 1.000 kg)  
 
-| --- | --- | --- |
-|:---|:---|:---|
+| --- | --- | --- | --- |
+|:---|:---|:---|:---|
 | --- |totaal 2014 |Bestuur algemeen 2014 |
-|Productie van mengvoeders (excl. kunstmelkvoeders voor kalveren) |10,1 |10,1 |
-|Productie van concentraten en voormengsels |10,1 |10,1 |
-|Productie van huisdiervoeders |6,0 |6,0 |
-|Productie van kunstmelkvoeders voor vleeskalveren |10,1 |10,1 |
-|Productie van kunstmelkvoeders voor overige kalveren |6,3 |6,3 |
-|Productie van gedroogde bietenpulp en gedroogde voedergewassen |10,1 |10,1 |
-|Productie van vochtrijke voedermiddelen |11,6 |11,6 |
-|Handel in droge voedermiddelen |4,7 |4,7 |
-|Handel in vochtrijke voedermiddelen |5,4 |5,4 |
+| --- |vanaf 1 oktober 2014 |
+|Productie van mengvoeders (excl. kunstmelkvoeders voor kalveren) |10,1 |10,1 |0 |
+|Productie van concentraten en voormengsels |10,1 |10,1 |0 |
+|Productie van huisdiervoeders |6,0 |6,0 |0 |
+|Productie van kunstmelkvoeders voor vleeskalveren |10,1 |10,1 |0 |
+|Productie van kunstmelkvoeders voor overige kalveren |6,3 |6,3 |0 |
+|Productie van gedroogde bietenpulp en gedroogde voedergewassen |10,1 |10,1 |0 |
+|Productie van vochtrijke voedermiddelen |11,6 |11,6 |0 |
+|Handel in droge voedermiddelen |4,7 |4,7 |0 |
+|Handel in vochtrijke voedermiddelen |5,4 |5,4 |0 |
 
 ###I.B 
 
@@ -210,16 +211,15 @@ Financieringsheffing toevoegingsmiddelen 2013 (in euro per onderneming)
 |≥ € 1.000.000 | --- | --- |€ 240,00 |
 |Geen opgave | --- | --- | € 240,00 |
 
-Financieringsheffing toevoegingsmiddelen 2014(in euro per onderneming)  
+Financieringsheffing toevoegingsmiddelen 2014 (in euro per onderneming)  
 
-| --- | --- | --- | --- |
+| Omzetklasse (omzet vorig kalenderjaar)  |--- |--- |Heffingtarief |
 |:---|:---|:---|:---|
-|Omzetklasse (omzet vorig kalenderjaar) | --- | --- |Heffingtarief |
-|< €400.000 | --- | --- |€ 188,- |
-|€ 400.000 - < € 1.000.000: |€ 188,- + |*(werkelijke omzet - € 400.000)* |x € 282,- |
-| --- | --- |€ 600.000 | --- |
-|≥ € 1.000.000 | --- | --- |€ 470,- |
-|Geen opgave | --- | --- |€ 470,- |
+| < € 400.000  | --- | --- |€ 188,–x 0,75 |
+| € 400.000 – < € 1.000.000:  | € 188,– +   |*(werkelijke omzet – € 400.000)* |x € 282,–x 0,75 |
+| --- | --- |€ 600.000 | --- |
+| ≥ € 1.000.000  | --- | --- |€ 470,–x 0,75 |
+| Geen opgave  | --- | --- |€ 470,–x 0,75 |
 
 ###Bijlage II 
 

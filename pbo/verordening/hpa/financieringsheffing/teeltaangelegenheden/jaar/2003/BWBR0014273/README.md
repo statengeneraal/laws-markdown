@@ -3,7 +3,7 @@
 ##Verordening van het Hoofdproductschap Akkerbouw van 14 november 2002 houdende regels ter zake van de aan de onder het Hoofdproductschap Akkerbouw ressorterende ondernemers op te leggen heffing voor het jaar 2003 (verordening HPA financieringsheffing teeltaangelegenheden jaar 2003)
 
 Het bestuur van het Hoofdproductschap Akkerbouw;
-Gelet op de [artikelen 95](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 eerste en zesde lid van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op de artikelen 5 en 16 van de Instellingsverordening akkerbouwproductschappen 1997;
+Gelet op de artikelen 95 en 126 eerste en zesde lid van de Wet op de bedrijfsorganisatie en op de artikelen 5 en 16 van de Instellingsverordening akkerbouwproductschappen 1997;
 
 Gehoord de Commissie Teeltaangelegenheden;
 Besluit:
@@ -115,7 +115,7 @@ Een ondernemersorganisatie wordt op haar schriftelijk en gemotiveerd verzoek doo
 
 a.krachtens haar statutaire doelstelling haar werkzaamheid kan uitstrekken tot ten minste een belangrijk gedeelte van het terrein waarop het hoofdproductschap een taak heeft te vervullen;
 
-b.voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de [artikelen 3 tot en met 7 van de Verordening representativiteit organisaties](../../../../../../../../pbo/verordening/representativiteit/organisaties/BWBR0011641/README.md) van de Sociaal Economische Raad;
+b.voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de artikelen 3 tot en met 7 van de Verordening representativiteit organisaties van de Sociaal Economische Raad;
 
 c.tot de werkingssfeer van het hoofdproductschap behorende leden heeft, waarvan het gewogen aantal niet onbetekenend is;
 
@@ -181,7 +181,7 @@ De sectormanager kan, namens het bestuur, besluiten nota's met een bedrag minder
 ###Artikel 15 
 Materieel uitgewerkt per 01-01-2004 
 
-Aan de ondernemer die niet of niet geheel binnen de in artikel 12 gestelde termijn heeft betaald, kan door de sectormanager, namens het bestuur, de wettelijke interest over het niet-betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md).
+Aan de ondernemer die niet of niet geheel binnen de in artikel 12 gestelde termijn heeft betaald, kan door de sectormanager, namens het bestuur, de wettelijke interest over het niet-betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie.
 
 ###§ 6 
 

@@ -4,11 +4,11 @@
 
 ####Achtergrond
 
-Aan deze richtlijn is één basisdelict toegevoegd. Na basisdelict 2 is basisdelict 3 ingevoegd: het aanleggen, het geheel of gedeeltelijk aangelegd aanwezig hebben en/of het gebruik van radiozendapparaten waarvoor naar hun aard geen vergunning kan worden verleend. (strafbaarstelling: [art. 10.9, eerste lid](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) jo. [art. 1, sub 1° WED](../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md)). Dit betreft de zogeheten *jammers,* blokkeerzenders van onder meer mobiele telefonie en GPS-signalen.   
+Aan deze richtlijn is één basisdelict toegevoegd. Na basisdelict 2 is basisdelict 3 ingevoegd: het aanleggen, het geheel of gedeeltelijk aangelegd aanwezig hebben en/of het gebruik van radiozendapparaten waarvoor naar hun aard geen vergunning kan worden verleend. (strafbaarstelling: art. 10.9, eerste lid jo. art. 1, sub 1° WED). Dit betreft de zogeheten *jammers,* blokkeerzenders van onder meer mobiele telefonie en GPS-signalen.   
 
 ####Beschrijving
 
-Deze richtlijn ziet op delicten begaan door het overtreden van de [Telecommunicatiewet](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) (misdrijven en/of overtredingen). In de richtlijn wordt een aantal basisdelicten genoemd. Hieronder vallen de meeste strafbare feiten ingevolge de Telecommunicatiewet. Voor zover het basisdelict een misdrijf – (doleus) en een overtredingsvariant (culpoos) kent, is bij het betreffende basisdelict een basispuntenaantal opgenomen dat betrekking heeft op de misdrijfvariant. In geval sprake is van een overtreding kan hiervan worden afgeweken door het puntenaantal naar beneden aan te passen. Indien het basisdelict alleen ziet op een overtreding speelt dit punt uiteraard geen rol.    
+Deze richtlijn ziet op delicten begaan door het overtreden van de Telecommunicatiewet (misdrijven en/of overtredingen). In de richtlijn wordt een aantal basisdelicten genoemd. Hieronder vallen de meeste strafbare feiten ingevolge de Telecommunicatiewet. Voor zover het basisdelict een misdrijf – (doleus) en een overtredingsvariant (culpoos) kent, is bij het betreffende basisdelict een basispuntenaantal opgenomen dat betrekking heeft op de misdrijfvariant. In geval sprake is van een overtreding kan hiervan worden afgeweken door het puntenaantal naar beneden aan te passen. Indien het basisdelict alleen ziet op een overtreding speelt dit punt uiteraard geen rol.    
 
 ####Aard van de richtlijn
 
@@ -16,21 +16,21 @@ Bijzondere wetten
 
 ####Wettekst
 
-[Telecommunicatiewet (Tw) hoofdstukken 3](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) en [10](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) [Wet op de economische delicten](../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) (WED)    
+Telecommunicatiewet (Tw) hoofdstukken 3 en 10 Wet op de economische delicten (WED)    
 
 ####Puntensysteem
 
-In de onderhavige richtlijn voor strafvordering wordt gebruik gemaakt van het Polaris-puntensysteem, zoals beschreven in de [Aanwijzing Kader voor strafvordering](../../../../../../beleidsregel/aanwijzing/kader/voor/strafvordering/BWBR0030950/README.md). Voor de waarde van één sanctiepunt wordt verwezen naar genoemde aanwijzing.    
+In de onderhavige richtlijn voor strafvordering wordt gebruik gemaakt van het Polaris-puntensysteem, zoals beschreven in de Aanwijzing Kader voor strafvordering. Voor de waarde van één sanctiepunt wordt verwezen naar genoemde aanwijzing.    
 
 ####Basisdelicten (overzicht)
 
-(1) Het aanleggen, het geheel of gedeeltelijk aangelegd aanwezig hebben en/of het gebruik van een radiozendapparaat, bestemd om de omroepfrequenties tussen 88,0 MHz en 108,0 MHz, tussen de 174 MHz en de 230 MHz en tussen de 1452 MHz en de 1479.5 MHz te gebruiken, zonder vergunning ex [art. 3.3, lid 1 Tw](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) (etherpiraten) (strafbaarstelling: [art. 10.9, eerste lid Tw](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) jo. [art. 1, sub 1° WED](../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md))  
+(1) Het aanleggen, het geheel of gedeeltelijk aangelegd aanwezig hebben en/of het gebruik van een radiozendapparaat, bestemd om de omroepfrequenties tussen 88,0 MHz en 108,0 MHz, tussen de 174 MHz en de 230 MHz en tussen de 1452 MHz en de 1479.5 MHz te gebruiken, zonder vergunning ex art. 3.3, lid 1 Tw (etherpiraten) (strafbaarstelling: art. 10.9, eerste lid Tw jo. art. 1, sub 1° WED)  
 
-(2) Het aanleggen, het geheel of gedeeltelijk aangelegd aanwezig hebben en/of het gebruik van een radiozendapparaat, bestemd om andere frequentieruimte dan onder (1) genoemd te gebruiken, zonder vergunning of registratie ex [art. 3.3, eerste lid](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), jo. [3.4 Tw](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) (niet-etherpiraten) (strafbaarstelling: [art. 10.9, eerste lid](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) jo. [art. 1, sub 1° WED](../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md))  
+(2) Het aanleggen, het geheel of gedeeltelijk aangelegd aanwezig hebben en/of het gebruik van een radiozendapparaat, bestemd om andere frequentieruimte dan onder (1) genoemd te gebruiken, zonder vergunning of registratie ex art. 3.3, eerste lid, jo. 3.4 Tw (niet-etherpiraten) (strafbaarstelling: art. 10.9, eerste lid jo. art. 1, sub 1° WED)  
 
-(3) Het in de handel brengen van uitrusting die niet voldoet aan de eisen ex [art. 10.1](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) of [10.3 onderdeel a,b,c en e TW](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) (strafbaarstelling: [art. 10.1, eerste lid](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) jo. [art. 1, sub 1° WED](../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md))  
+(3) Het in de handel brengen van uitrusting die niet voldoet aan de eisen ex art. 10.1 of 10.3 onderdeel a,b,c en e TW (strafbaarstelling: art. 10.1, eerste lid jo. art. 1, sub 1° WED)  
 
-(4) Het aanleggen, het geheel of gedeeltelijk aangelegd aanwezig hebben en/of het gebruik van een radiozendapparaat dat op een verkeerde frequentie werkt en/of een onjuist vermogen heeft (strafbaarstelling: [art. 10.9, eerste lid Tw](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) jo. [art. 1, sub 1° WED) ](../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md)       
+(4) Het aanleggen, het geheel of gedeeltelijk aangelegd aanwezig hebben en/of het gebruik van een radiozendapparaat dat op een verkeerde frequentie werkt en/of een onjuist vermogen heeft (strafbaarstelling: art. 10.9, eerste lid Tw jo. art. 1, sub 1° WED)        
 
 ####Overgangsrecht
 
@@ -40,7 +40,7 @@ Deze richtlijn voor strafvordering is uitsluitend geldig ten aanzien van strafba
 
 ####Basisdelict (1)
 
-Het aanleggen, het geheel of gedeeltelijk aangelegd aanwezig hebben en/of het gebruik van een radiozendapparaat, bestemd om omroepfrequenties tussen de 88,0 MHz en de 108,0 MHz, tussen de 174 MHz en de 230 MHz en tussen de 1452 MHz en de 1479.5 MHz te gebruiken, zonder vergunning ex [art. 3.3, lid 1 Tw](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) (strafbaarstelling: [art. 10.9, eerste lid Tw](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) jo. [art. 1 sub 1° WED](../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md)) (etherpiraten) 
+Het aanleggen, het geheel of gedeeltelijk aangelegd aanwezig hebben en/of het gebruik van een radiozendapparaat, bestemd om omroepfrequenties tussen de 88,0 MHz en de 108,0 MHz, tussen de 174 MHz en de 230 MHz en tussen de 1452 MHz en de 1479.5 MHz te gebruiken, zonder vergunning ex art. 3.3, lid 1 Tw (strafbaarstelling: art. 10.9, eerste lid Tw jo. art. 1 sub 1° WED) (etherpiraten) 
 
 ####Beschrijving
 
@@ -94,15 +94,15 @@ Gezien de ernst van het feit is in beginsel een taakstraf geïndiceerd. Bij afdo
 
 ####Basisdelict (2)
 
-Het aanleggen, het geheel of gedeeltelijk aangelegd aanwezig hebben en/of het gebruik van een radiozendapparaat, bestemd om andere frequentieruimte dan omroepfrequenties onder (1) genoemd te gebruiken, zonder vergunning of registratie ex [art. 3.3, eerste lid](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), jo. [3.4 Tw](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) (strafbaarstelling: [art. 10.9, eerste en tweede lid Tw](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) jo. [art. 1, sub 1° WED](../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md)) (niet-etherpiraten) 
+Het aanleggen, het geheel of gedeeltelijk aangelegd aanwezig hebben en/of het gebruik van een radiozendapparaat, bestemd om andere frequentieruimte dan omroepfrequenties onder (1) genoemd te gebruiken, zonder vergunning of registratie ex art. 3.3, eerste lid, jo. 3.4 Tw (strafbaarstelling: art. 10.9, eerste en tweede lid Tw jo. art. 1, sub 1° WED) (niet-etherpiraten) 
 
 ####Beschrijving
 
-Dit basisdelict ziet op het aanleggen, het geheel of gedeeltelijk aangelegd aanwezig hebben en/of het gebruik van een radiozendapparaat, bestemd om andere frequentieruimte dan omroepfrequenties tussen de 88,0 MHz en de 108,0 MHz, tussen de 174 MHz en de 230 MHz en tussen de 1452 MHz en de 1479.5 MHz te gebruiken, zonder vergunning of registratie ex [art. 3.3, eerste lid](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) jo. [3.4 Tw](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md). Het betreft hier bijvoorbeeld marifoons, mobilofoons of portofoons zonder dat de houder in het bezit is van een vergunning voor gebruik van frequentieruimte ex art. 3.3, eerste lid Tw, dan wel waarbij het (moedwillig) onjuist gebruik lijdt tot gevaarlijke situaties. 
+Dit basisdelict ziet op het aanleggen, het geheel of gedeeltelijk aangelegd aanwezig hebben en/of het gebruik van een radiozendapparaat, bestemd om andere frequentieruimte dan omroepfrequenties tussen de 88,0 MHz en de 108,0 MHz, tussen de 174 MHz en de 230 MHz en tussen de 1452 MHz en de 1479.5 MHz te gebruiken, zonder vergunning of registratie ex art. 3.3, eerste lid jo. 3.4 Tw. Het betreft hier bijvoorbeeld marifoons, mobilofoons of portofoons zonder dat de houder in het bezit is van een vergunning voor gebruik van frequentieruimte ex art. 3.3, eerste lid Tw, dan wel waarbij het (moedwillig) onjuist gebruik lijdt tot gevaarlijke situaties. 
 
 ####Toepasselijk kader
 
-[Aanwijzing kader voor strafvordering](../../../../../../beleidsregel/aanwijzing/kader/voor/strafvordering/BWBR0030950/README.md) 
+Aanwijzing kader voor strafvordering 
 
 ####Basispunten
 
@@ -148,15 +148,15 @@ Bij afdoening middels een strafbeschikking dient, indien het beslag nog niet is 
 
 ####Basisdelict (3)
 
-Het aanleggen, het geheel of gedeeltelijk aangelegd aanwezig hebben en/of het gebruik van radiozendapparaten waarvoor naar hun aard geen vergunning kan worden verleend. (strafbaarstelling: [art. 10.9, eerste lid](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) jo. [art. 1, sub 1° WED](../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) (jammers) [art. 161sexies Sr](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) (opzettelijk vernielen, beschadigen of storen van werk voor telecommunicatie) [art. 184 Sr](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) (opzettelijk beletten, belemmeren of verijdelen van opsporingshandelingen)) 
+Het aanleggen, het geheel of gedeeltelijk aangelegd aanwezig hebben en/of het gebruik van radiozendapparaten waarvoor naar hun aard geen vergunning kan worden verleend. (strafbaarstelling: art. 10.9, eerste lid jo. art. 1, sub 1° WED (jammers) art. 161sexies Sr (opzettelijk vernielen, beschadigen of storen van werk voor telecommunicatie) art. 184 Sr (opzettelijk beletten, belemmeren of verijdelen van opsporingshandelingen)) 
 
 ####Beschrijving
 
-Dit basisdelict ziet op het aanleggen, het geheel of gedeeltelijk aangelegd aanwezig hebben en/of het gebruik van jammers waarvan het gebruik en de handel te allen tijde illegaal is. Jammers zijn blokkeerzenders die GSM, UMTS of GPS signalen opzettelijk storen. Het is niet mogelijk een vergunning voor gebruik van frequentieruimte ex [art. 3.3, eerste lid Tw](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) te verkrijgen voor dergelijke apparaten. 
+Dit basisdelict ziet op het aanleggen, het geheel of gedeeltelijk aangelegd aanwezig hebben en/of het gebruik van jammers waarvan het gebruik en de handel te allen tijde illegaal is. Jammers zijn blokkeerzenders die GSM, UMTS of GPS signalen opzettelijk storen. Het is niet mogelijk een vergunning voor gebruik van frequentieruimte ex art. 3.3, eerste lid Tw te verkrijgen voor dergelijke apparaten. 
 
 ####Toepasselijk kader
 
-[Aanwijzing kader voor strafvordering](../../../../../../beleidsregel/aanwijzing/kader/voor/strafvordering/BWBR0030950/README.md) 
+Aanwijzing kader voor strafvordering 
 
 ####Basispunten
 
@@ -200,15 +200,15 @@ Geen
 
 ####Bijzonderheden
 
-Bij afdoening middels een strafbeschikking wordt in beginsel een geldboete opgelegd en dient, indien het beslag nog niet is afgedaan, de strafbeschikking tevens de aanwijzing ‘afstand’ te bevatten. In geval van dagvaarden dient onttrekking aan het verkeer gevorderd te worden en in beginsel een taakstraf geëist te worden, of in het geval van een onderneming een geldboete. Indien de omstandigheden van het delict daartoe aanleiding geven zal tevens gedacht kunnen worden aan toepassing van [art. 140 Sr](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) (deelneming aan een criminele organisatie); [art. 74, lid 2, sub d Sr](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) (ontnemingsschikking) en [art. 36c Sr](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) (ontnemingsvordering). 
+Bij afdoening middels een strafbeschikking wordt in beginsel een geldboete opgelegd en dient, indien het beslag nog niet is afgedaan, de strafbeschikking tevens de aanwijzing ‘afstand’ te bevatten. In geval van dagvaarden dient onttrekking aan het verkeer gevorderd te worden en in beginsel een taakstraf geëist te worden, of in het geval van een onderneming een geldboete. Indien de omstandigheden van het delict daartoe aanleiding geven zal tevens gedacht kunnen worden aan toepassing van art. 140 Sr (deelneming aan een criminele organisatie); art. 74, lid 2, sub d Sr (ontnemingsschikking) en art. 36c Sr (ontnemingsvordering). 
 
 ####Basisdelict (4)
 
-Het in de handel brengen van uitrusting die niet voldoet aan de eisen ex [artt. 10.1](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) of [10.3 Tw](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) (strafbaarstelling: art. 10.1, eerste lid Tw jo. [art. 1, sub 1° WED](../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md)) 
+Het in de handel brengen van uitrusting die niet voldoet aan de eisen ex artt. 10.1 of 10.3 Tw (strafbaarstelling: art. 10.1, eerste lid Tw jo. art. 1, sub 1° WED) 
 
 ####Beschrijving
 
-Dit basisdelict ziet op het in de handel brengen van uitrusting die niet voldoet aan de eisen ex [art. 10.1](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) of [10.3 Tw](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md). Dit verbod is gericht tot fabrikanten en importeurs. Zij dienen zich ervan te vergewissen dat de apparaten voldoen aan de voorschriften. 
+Dit basisdelict ziet op het in de handel brengen van uitrusting die niet voldoet aan de eisen ex art. 10.1 of 10.3 Tw. Dit verbod is gericht tot fabrikanten en importeurs. Zij dienen zich ervan te vergewissen dat de apparaten voldoen aan de voorschriften. 
 
 ####Toepasselijk kader
 
@@ -260,19 +260,19 @@ Geen
 
 ####Bijzonderheden
 
-Bij afdoening middels een strafbeschikking wordt in beginsel een geldboete opgelegd en dient, indien het beslag nog niet is afgedaan, de strafbeschikking tevens de aanwijzing ‘afstand’ te bevatten. In geval van dagvaarden dient onttrekking aan het verkeer gevorderd te worden en in beginsel een geldboete geëist te worden. Indien de omstandigheden van het delict daartoe aanleiding geven zal tevens gedacht kunnen worden aan toepassing van [art. 140 Sr](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) (deelneming aan een criminele organisatie); [art. 74, lid 2, sub d Sr](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) (ontnemingsschikking) en [art. 36c Sr](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) (ontnemingsvordering). 
+Bij afdoening middels een strafbeschikking wordt in beginsel een geldboete opgelegd en dient, indien het beslag nog niet is afgedaan, de strafbeschikking tevens de aanwijzing ‘afstand’ te bevatten. In geval van dagvaarden dient onttrekking aan het verkeer gevorderd te worden en in beginsel een geldboete geëist te worden. Indien de omstandigheden van het delict daartoe aanleiding geven zal tevens gedacht kunnen worden aan toepassing van art. 140 Sr (deelneming aan een criminele organisatie); art. 74, lid 2, sub d Sr (ontnemingsschikking) en art. 36c Sr (ontnemingsvordering). 
 
 ####Basisdelict (5)
 
-Het aanleggen, het geheel of gedeeltelijk aangelegd aanwezig hebben en/of het gebruik van een radiozendapparaat dat op een verkeerde frequentie werkt en/of een onjuist vermogen heeft, en/of anderszins niet voldoet aan de eisen uit de [Regeling gebruik van frequentieruimte zonder vergunning 2008](../../../../../../ministeriele-regeling/regeling/gebruik/van/frequentieruimte/zonder/vergunning/2008/BWBR0023553/README.md) (strafbaarstelling: [art. 10.9, eerste lid Tw](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) jo. [art. 1, sub 1° WED](../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md)) 
+Het aanleggen, het geheel of gedeeltelijk aangelegd aanwezig hebben en/of het gebruik van een radiozendapparaat dat op een verkeerde frequentie werkt en/of een onjuist vermogen heeft, en/of anderszins niet voldoet aan de eisen uit de Regeling gebruik van frequentieruimte zonder vergunning 2008 (strafbaarstelling: art. 10.9, eerste lid Tw jo. art. 1, sub 1° WED) 
 
 ####Beschrijving
 
-Dit basisdelict ziet op het aanleggen, het geheel of gedeeltelijk aangelegd aanwezig hebben en/of het gebruik van een radiozendapparaat dat op een verkeerde frequentie werkt en/of een onjuist vermogen heeft en/of anderszins niet voldoet aan de eisen uit de [Regeling gebruik van frequentieruimte zonder vergunning 2008](../../../../../../ministeriele-regeling/regeling/gebruik/van/frequentieruimte/zonder/vergunning/2008/BWBR0023553/README.md). Het betreft hier apparaten waarvoor – als ze voldoen aan de eisen uit de bovengenoemde Regeling – geen vergunning voor frequentieruimte is vereist, bijvoorbeeld mobiele telefoons, modems, draadloze microfoons, babyfoons, apparaten met modelbesturing, 27 MHz-apparatuur en afstandsbedieningen. 
+Dit basisdelict ziet op het aanleggen, het geheel of gedeeltelijk aangelegd aanwezig hebben en/of het gebruik van een radiozendapparaat dat op een verkeerde frequentie werkt en/of een onjuist vermogen heeft en/of anderszins niet voldoet aan de eisen uit de Regeling gebruik van frequentieruimte zonder vergunning 2008. Het betreft hier apparaten waarvoor – als ze voldoen aan de eisen uit de bovengenoemde Regeling – geen vergunning voor frequentieruimte is vereist, bijvoorbeeld mobiele telefoons, modems, draadloze microfoons, babyfoons, apparaten met modelbesturing, 27 MHz-apparatuur en afstandsbedieningen. 
 
 ####Toepasselijk kader
 
-[Aanwijzing kader voor strafvordering](../../../../../../beleidsregel/aanwijzing/kader/voor/strafvordering/BWBR0030950/README.md) 
+Aanwijzing kader voor strafvordering 
 
 ####Basispunten
 

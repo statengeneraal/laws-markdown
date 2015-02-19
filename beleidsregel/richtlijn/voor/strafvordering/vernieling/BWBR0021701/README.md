@@ -4,7 +4,7 @@
 
 ####Beschrijving
 
-Deze richtlijn ziet op vernieling. Het betreft het vernielen, onbruikbaar maken of wegmaken van andermans goederen of dieren. Indien een dier werd beschadigd of werd weggemaakt, wordt dit als minder ernstig beoordeeld dan het doden van een dier. Op dierenmishandeling/verwaarlozing van eigen dieren of dieren in de vrije natuur is de richtlijn dierenmishandeling en dierenverwaarlozing [2011R012](../../../../../../beleidsregel/richtlijn/voor/strafvordering/dierenmishandeling/en/dierenverwaarlozing/etc/BWBR0030477/README.md) ([art. 36, lid 1](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [37 GWD](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md)) van toepassing. In geval er sprake is van discriminatoire aspecten bij de vernieling dient dit strafverzwarend te worden beoordeeld. Ook indien de vernieling plaatsvindt in samenhang met een (sport)evenement dient dit strafverzwarend te worden beoordeeld. Bij het beschadigen en doden van een dier is bij het bepalen van de uitgangspunten gedacht aan een dier in de ordegrootte van een kat/hond en, wat betekent dat afhankelijk van het dier een mogelijke verzwaring of vermindering van toepassing kan zijn. 
+Deze richtlijn ziet op vernieling. Het betreft het vernielen, onbruikbaar maken of wegmaken van andermans goederen of dieren. Indien een dier werd beschadigd of werd weggemaakt, wordt dit als minder ernstig beoordeeld dan het doden van een dier. Op dierenmishandeling/verwaarlozing van eigen dieren of dieren in de vrije natuur is de richtlijn dierenmishandeling en dierenverwaarlozing 2011R012 (art. 36, lid 1 en 37 GWD) van toepassing. In geval er sprake is van discriminatoire aspecten bij de vernieling dient dit strafverzwarend te worden beoordeeld. Ook indien de vernieling plaatsvindt in samenhang met een (sport)evenement dient dit strafverzwarend te worden beoordeeld. Bij het beschadigen en doden van een dier is bij het bepalen van de uitgangspunten gedacht aan een dier in de ordegrootte van een kat/hond en, wat betekent dat afhankelijk van het dier een mogelijke verzwaring of vermindering van toepassing kan zijn. 
 ###Aard van de richtlijn
 
 Commuun 
@@ -17,7 +17,7 @@ Commuun
 – Doden dier   
 ###Wettekst
 
-– [Wetboek van Strafrecht art. 350](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)    
+– Wetboek van Strafrecht art. 350    
 
 ####Basisdelict
 
@@ -26,7 +26,7 @@ Commuun
 **  
 ###Beschrijving
 
-Vernielen goed, geconcretiseerd als vernieling zoals omschreven in [art. 350, lid 1 WvSr](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)., waarbij aldus medebegrepen is ’beschadigen, onbruikbaar maken en/of weg maken’. 
+Vernielen goed, geconcretiseerd als vernieling zoals omschreven in art. 350, lid 1 WvSr., waarbij aldus medebegrepen is ’beschadigen, onbruikbaar maken en/of weg maken’. 
 ###Toepasselijk kader
 
 Aanwijzing Kader voor strafvordering 
@@ -148,8 +148,8 @@ Geen
 
 | --- | --- | --- |
 |:---|:---|:---|
-| - Er is geen sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) | +0 % | --- |
-|- Er is sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  |+0 %  |*(CKT) * |
+| - Er is geen sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr | +0 % | --- |
+|- Er is sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr  |+0 %  |*(CKT) * |
 
 *(CKT) + contra-indicatie kale taakstraf *
 ###Speciale regelingen
@@ -165,7 +165,7 @@ Geen
 
 ###Beschrijving
 
-Beschadigen, onbruikbaar maken of wegmaken van een dier, dat geheel of gedeeltelijk aan een ander toebehoort, zoals omschreven in [art. 350, lid 2 WvSr](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md). Expliciet uitgesloten in dit basisdelict is het doden van een dier, eveneens genoemd in lid 2 van eerder genoemd artikel, waarvoor een afzonderlijk basisdelict is gedefinieerd.
+Beschadigen, onbruikbaar maken of wegmaken van een dier, dat geheel of gedeeltelijk aan een ander toebehoort, zoals omschreven in art. 350, lid 2 WvSr. Expliciet uitgesloten in dit basisdelict is het doden van een dier, eveneens genoemd in lid 2 van eerder genoemd artikel, waarvoor een afzonderlijk basisdelict is gedefinieerd.
 ###Toepasselijk kader
 
 Aanwijzing kader voor strafvordering
@@ -269,7 +269,7 @@ Geen
 
 ###Beschrijving
 
-Het doden van een dier, dat geheel of ten dele aan een ander toebehoort, zoals omschreven in [art. 350, lid 2 WvSr](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)., wordt benoemd als afzonderlijk basisdelict nu het uiteindelijke gevolg beduidend ernstiger is en aldus duidelijk zwaardere bestraffing ten opzichte van het beschadigen van een dier de voorkeur geniet. 
+Het doden van een dier, dat geheel of ten dele aan een ander toebehoort, zoals omschreven in art. 350, lid 2 WvSr., wordt benoemd als afzonderlijk basisdelict nu het uiteindelijke gevolg beduidend ernstiger is en aldus duidelijk zwaardere bestraffing ten opzichte van het beschadigen van een dier de voorkeur geniet. 
 ###Toepasselijk kader
 
 Aanwijzing kader voor strafvordering 
@@ -343,7 +343,7 @@ Reclasseringsrapportage
 | – er was (tevens) sprake van langdurig(e) verwaarlozing of lijden  | + 0% *(DV,RR,M)*   |
 | – het betreft meerdere dieren en/of een langere periode  | + 0% *(DV,RR,M)*   |
 
-*(DV) + dagvaarden*   *(RR) + reclasseringsrapportage aanvragen**(M) + mogelijk is maatwerk geïndiceerd**Indien sprake is van recidive volgens beoordelingsfactor 3.01.59 of beoordelingsfactor 3.04.04 dient bepaald te worden of het delict een contraindicatie voor een taakstraf heeft op grond van art 22b lid 2 WvSr. *Taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)
+*(DV) + dagvaarden*   *(RR) + reclasseringsrapportage aanvragen**(M) + mogelijk is maatwerk geïndiceerd**Indien sprake is van recidive volgens beoordelingsfactor 3.01.59 of beoordelingsfactor 3.04.04 dient bepaald te worden of het delict een contraindicatie voor een taakstraf heeft op grond van art 22b lid 2 WvSr. *Taakstrafverbod als bedoeld in art 22b lid 2 WvSr
 
 | --- | --- |
 |:---|:---|

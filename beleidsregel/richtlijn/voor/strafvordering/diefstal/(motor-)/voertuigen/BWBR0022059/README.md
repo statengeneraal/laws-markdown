@@ -20,9 +20,9 @@ Commuun
 
 ####Wettekst
 
-– [Wetboek van Strafrecht art. 310](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  
+– Wetboek van Strafrecht art. 310  
 
-– [Wetboek van Strafrecht art. 311](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)      
+– Wetboek van Strafrecht art. 311      
 
 ####Basisdelict
 
@@ -93,12 +93,12 @@ Geen
 
 ####Maatwerk
 
-Indien sprake is van recidive dient bepaald te worden of er een contraindicatie is voor een taakstraf heeft op grond van [art 22b lid 2 WvSr](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md). Taakstrafverbod als bedoeld in art 22b lid 2 WvSr
+Indien sprake is van recidive dient bepaald te worden of er een contraindicatie is voor een taakstraf heeft op grond van art 22b lid 2 WvSr. Taakstrafverbod als bedoeld in art 22b lid 2 WvSr
 
 | --- | --- | --- |
 |:---|:---|:---|
-|- Er is geen sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  |+0 %  | --- |
-|- Er is sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  |+0 %  |(CKT) |
+|- Er is geen sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr  |+0 %  | --- |
+|- Er is sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr  |+0 %  |(CKT) |
 
 *(CKT) + contra-indicatie kale taakstraf* 
 
@@ -175,12 +175,12 @@ Geen
 
 ####Maatwerk
 
-Indien sprake is van recidive dient bepaald te worden of er een contraindicatie is voor een taakstraf heeft op grond van [art 22b lid 2 WvSr](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md). Taakstrafverbod als bedoeld in art 22b lid 2 WvSr
+Indien sprake is van recidive dient bepaald te worden of er een contraindicatie is voor een taakstraf heeft op grond van art 22b lid 2 WvSr. Taakstrafverbod als bedoeld in art 22b lid 2 WvSr
 
 | --- | --- | --- |
 |:---|:---|:---|
-|- Er is geen sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  |+0 %  | --- |
-|- Er is sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  |+0 %  |(CKT) |
+|- Er is geen sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr  |+0 %  | --- |
+|- Er is sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr  |+0 %  |(CKT) |
 
 *(CKT) + contra-indicatie kale taakstraf* 
 
@@ -257,12 +257,12 @@ Geen
 
 ####Maatwerk
 
-Indien sprake is van recidive dient bepaald te worden of er een contraindicatie is voor een taakstraf heeft op grond van [art 22b lid 2 WvSr](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md). Taakstrafverbod als bedoeld in art 22b lid 2 WvSr
+Indien sprake is van recidive dient bepaald te worden of er een contraindicatie is voor een taakstraf heeft op grond van art 22b lid 2 WvSr. Taakstrafverbod als bedoeld in art 22b lid 2 WvSr
 
 | --- | --- | --- |
 |:---|:---|:---|
-|- Er is geen sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  |+0 %  | --- |
-|- Er is sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  |+0 %  |(CKT) |
+|- Er is geen sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr  |+0 %  | --- |
+|- Er is sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr  |+0 %  |(CKT) |
 
 *(CKT) + contra-indicatie kale taakstraf* 
 

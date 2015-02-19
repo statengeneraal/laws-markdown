@@ -2436,7 +2436,7 @@ Solvent Petroleum Heartcut distillate oil
 
 ###Appendix II 
 
-####FORM OF IOPP CERTIFICATE AND SUPPLEMENTS
+####FORM OF IOPP CERTIFICATE AND SUPPLEMENTS*
 
 ![10000053370](http://wetten.overheid.nl/Illustration/10000053370)
 ![10000053371](http://wetten.overheid.nl/Illustration/10000053371)
@@ -9124,9 +9124,9 @@ OplosmiddelPetroleumDestillaatolie met beperkt kooktraject
 
 ### Aanhangsel  II  
 
-####MODEL VAN HET IOPP-CERTIFICAAT EN VAN DE SUPPLEMENTEN<sup>* [Red: Het IOPP-certificaat dient tenminste in het Engels. Frans of Spaans te worden gesteld. Wanneer het certificaat tevens is gesteld in een officiële taal van het land dat het certificaat afgeeft, is deze doorslaggevend in geval van een geschil of een tegenstrijdigheid.] </sup>
+####MODEL VAN HET IOPP-CERTIFICAAT EN VAN DE SUPPLEMENTEN*
 
-![10000053466](http://wetten.overheid.nl/Illustration/10000053466)
+![10000056831](http://wetten.overheid.nl/Illustration/10000056831)
 ![10000053467](http://wetten.overheid.nl/Illustration/10000053467)
 ![10000053468](http://wetten.overheid.nl/Illustration/10000053468)
 ![10000053469](http://wetten.overheid.nl/Illustration/10000053469)

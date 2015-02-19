@@ -20,7 +20,7 @@ Commuun
 
 ####Wettekst
 
-– [Wetboek van Strafrecht art. 141](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)    
+– Wetboek van Strafrecht art. 141    
 
 ####Basisdelict
 
@@ -112,8 +112,8 @@ Geen
 
 | --- | --- | --- |
 |:---|:---|:---|
-| - Er is geen sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) | +0 % | --- |
-|- Er is sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  |+0 %  |*(CKT) * |
+| - Er is geen sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr | +0 % | --- |
+|- Er is sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr  |+0 %  |*(CKT) * |
 
 *(CKT) + contra-indicatie kale taakstraf * 
 ###Speciale regelingen
@@ -148,8 +148,8 @@ Aard van het letsel
 | – Geen letsel  | 0 pt  | --- |
 | – Licht letsel, zoals blauw oog, bloedneus, tand door de lip, lichte kneuzingen of lichte ontvellingen; letsel waarvoor in de regel geen medische hulp hoeft te worden ingeroepen. | 5 pt  | --- |
 | – Letsel voor de behandeling waarvan hulp van een eerstelijns arts dient te worden ingeroepen, zoals wonden waarvoor, uit cosmetisch oogpunt minder ernstige, hechtingen nodig zijn, een lichte hersenschudding, zwaardere kneuzingen of ontvellingen   | 15 pt  |*(DV)* |
-| Zwaarder letsel, voor de behandeling waarvan een medisch specialist nodig is. Letsel dat als regel niet wordt begrepen in [art. 82 WvSr.](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) zoals gebitsschade, gebroken neus, jukbeen of sleutelbeen, littekens in het gezicht of een zware hersenschudding   | 30 pt  |*(DV,CKT)* |
-|– Zwaar lichamelijk letsel, zoals bedoeld in [art. 82 WvSr.](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) Ook buiten die gevallen kan lichamelijk letsel als zwaar worden beschouwd. Daarbij geldt het criterium dat het letsel voldoende belangrijk is om naar normaal spraakgebruik als zwaar te worden aangemerkt. Van belang zijn daarbij de aard van het letsel, de eventuele noodzaak en aard van medisch ingrijpen en het uitzicht op (volledig) herstel.  |50 pt |*(DV,CKT)* |
+| Zwaarder letsel, voor de behandeling waarvan een medisch specialist nodig is. Letsel dat als regel niet wordt begrepen in art. 82 WvSr. zoals gebitsschade, gebroken neus, jukbeen of sleutelbeen, littekens in het gezicht of een zware hersenschudding   | 30 pt  |*(DV,CKT)* |
+|– Zwaar lichamelijk letsel, zoals bedoeld in art. 82 WvSr. Ook buiten die gevallen kan lichamelijk letsel als zwaar worden beschouwd. Daarbij geldt het criterium dat het letsel voldoende belangrijk is om naar normaal spraakgebruik als zwaar te worden aangemerkt. Van belang zijn daarbij de aard van het letsel, de eventuele noodzaak en aard van medisch ingrijpen en het uitzicht op (volledig) herstel.  |50 pt |*(DV,CKT)* |
 
 *(DV) + dagvaarden**(CKT) + contra-indicatie kale taakstraf* Gebruik van een wapen
 
@@ -246,8 +246,8 @@ Geen
 
 | --- | --- | --- |
 |:---|:---|:---|
-| - Er is geen sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) | +0 % | --- |
-|- Er is sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  |+0 %  |*(CKT) * |
+| - Er is geen sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr | +0 % | --- |
+|- Er is sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr  |+0 %  |*(CKT) * |
 
 *(CKT) + contra-indicatie kale taakstraf * 
 ###Speciale regelingen
@@ -282,8 +282,8 @@ Aard van het letsel
 | – Geen letsel  | 0 pt  | --- |
 | – Licht letsel, zoals blauw oog, bloedneus, tand door de lip, lichte kneuzingen of lichte ontvellingen; letsel waarvoor in de regel geen medische hulp hoeft te worden ingeroepen. | 5 pt  | --- |
 | – Letsel voor de behandeling waarvan hulp van een eerstelijns arts dient te worden ingeroepen, zoals wonden waarvoor, uit cosmetisch oogpunt minder ernstige, hechtingen nodig zijn, een lichte hersenschudding, zwaardere kneuzingen of ontvellingen   | 15 pt  |*(DV)* |
-| Zwaarder letsel, voor de behandeling waarvan een medisch specialist nodig is. Letsel dat als regel niet wordt begrepen in [art. 82 WvSr.](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) zoals gebitsschade, gebroken neus, jukbeen of sleutelbeen, littekens in het gezicht of een zware hersenschudding   | 30 pt  |*(DV,CKT)* |
-|– Zwaar lichamelijk letsel, zoals bedoeld in [art. 82 WvSr.](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) Ook buiten die gevallen kan lichamelijk letsel als zwaar worden beschouwd. Daarbij geldt het criterium dat het letsel voldoende belangrijk is om naar normaal spraakgebruik als zwaar te worden aangemerkt. Van belang zijn daarbij de aard van het letsel, de eventuele noodzaak en aard van medisch ingrijpen en het uitzicht op (volledig) herstel.  |50 pt |*(DV,CKT)* |
+| Zwaarder letsel, voor de behandeling waarvan een medisch specialist nodig is. Letsel dat als regel niet wordt begrepen in art. 82 WvSr. zoals gebitsschade, gebroken neus, jukbeen of sleutelbeen, littekens in het gezicht of een zware hersenschudding   | 30 pt  |*(DV,CKT)* |
+|– Zwaar lichamelijk letsel, zoals bedoeld in art. 82 WvSr. Ook buiten die gevallen kan lichamelijk letsel als zwaar worden beschouwd. Daarbij geldt het criterium dat het letsel voldoende belangrijk is om naar normaal spraakgebruik als zwaar te worden aangemerkt. Van belang zijn daarbij de aard van het letsel, de eventuele noodzaak en aard van medisch ingrijpen en het uitzicht op (volledig) herstel.  |50 pt |*(DV,CKT)* |
 
 *(DV) + dagvaarden**(CKT) + contra-indicatie kale taakstraf* Gebruik van een wapen
 
@@ -390,8 +390,8 @@ Geen
 
 | --- | --- | --- |
 |:---|:---|:---|
-| - Er is geen sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) | +0 % | --- |
-|- Er is sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  |+0 %  |*(CKT) * |
+| - Er is geen sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr | +0 % | --- |
+|- Er is sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr  |+0 %  |*(CKT) * |
 
 *(CKT) + contra-indicatie kale taakstraf * 
 ###Speciale regelingen

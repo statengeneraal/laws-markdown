@@ -163,9 +163,11 @@ n. een icbe;
 
 o. een pensioenbewaarder;  
 
-p. een verzekeraar; of  
+p. een premiepensioeninstelling; 
 
-q. een wisselinstelling.    *fonds voor collectieve belegging in effecten:* niet in een maatschappij voor collectieve belegging in effecten ondergebracht vermogen waarin ter collectieve belegging gevraagde of verkregen gelden of andere goederen zijn of worden opgenomen teneinde de deelnemers in de opbrengst van de beleggingen te doen delen;*gecontroleerde onderneming:*
+q. een verzekeraar; of  
+
+r. een wisselinstelling.    *fonds voor collectieve belegging in effecten:* niet in een maatschappij voor collectieve belegging in effecten ondergebracht vermogen waarin ter collectieve belegging gevraagde of verkregen gelden of andere goederen zijn of worden opgenomen teneinde de deelnemers in de opbrengst van de beleggingen te doen delen;*gecontroleerde onderneming:*
 
 a. dochtermaatschappij als bedoeld in artikel 24a van Boek 2 van het Burgerlijk Wetboek; of  
 
@@ -934,15 +936,17 @@ c. zijn ontvangen van een toezichthoudende instantie of zijn verkregen naar aanl
 1.  De toezichthouders werken samen met het oog op de vaststelling van algemeen verbindende voorschriften en beleidsregels opdat deze, voorzover zij betrekking hebben op onderwerpen die zowel tot het prudentieel toezicht als tot het gedragstoezicht behoren, zoveel mogelijk gelijkluidend zijn.   
 2.  Tot de in het eerste lid bedoelde onderwerpen worden in elk geval gerekend: 
 
-a. het gebruik van de bevoegdheden, genoemd in afdeling 1.4.2;  
+a. het gebruik van de bevoegdheden, genoemd in afdeling 1.4.2; 
 
-b. de betrouwbaarheid, bedoeld in de artikelen 3:9 en 4:10;  
+b. het beloningsbeleid, bedoeld in hoofdstuk 1.7;  
 
-c. de geschiktheid, bedoeld in de artikelen 3:8 en 4:9;  
+c. de betrouwbaarheid, bedoeld in de artikelen 3:9 en 4:10;  
 
-d. de beheerste en integere bedrijfsvoering, bedoeld in de artikelen 3:17, tweede lid, onderdelen a en b, en 4:14, tweede lid, onderdelen a en b; en  
+d. de geschiktheid, bedoeld in de artikelen 3:8 en 4:9;  
 
-e. bij algemene maatregel van bestuur aan te wijzen andere onderwerpen.    
+e. de beheerste en integere bedrijfsvoering, bedoeld in de artikelen 3:17, tweede lid, onderdelen a en b, en 4:14, tweede lid, onderdelen a en b; en  
+
+f. bij algemene maatregel van bestuur aan te wijzen andere onderwerpen.    
 
 ### Artikel  1:47  
 
@@ -1462,9 +1466,12 @@ e.een ieder die in Nederland of vanuit Nederland in een andere lidstaat als dien
 
 f.een marktexploitant;
 
-g. een onderneming die, alleen of tezamen met een andere onderneming, aan het hoofd staat van een groep waarvan een gereglementeerde entiteit met zetel in Nederland deel uitmaakt.    
+g. een onderneming die, alleen of tezamen met een andere onderneming, aan het hoofd staat van een groep waarvan een gereglementeerde entiteit met zetel in Nederland deel uitmaakt; 
+
+h. de aan het hoofd van een groep als bedoeld in artikel 1:114 staande groepsmaatschappij.    
 2.  De Nederlandsche Bank kan een aanwijzing als bedoeld in het eerste lid eveneens aan een financiële onderneming geven indien zij tekenen ontwaart van een ontwikkeling die het eigen vermogen, de solvabiliteit of de liquiditeit, onderscheidenlijk de technische voorzieningen, van die financiële onderneming in gevaar kan brengen.   
-3.  Een op grond van het eerste of tweede lid aan een persoon gegeven aanwijzing strekt niet tot aantasting van overeenkomsten tussen die persoon en derden.  
+3.  Een op grond van het eerste of tweede lid aan een persoon gegeven aanwijzing strekt niet tot aantasting van overeenkomsten tussen die persoon en derden.   
+4.  Het derde lid is niet van toepassing op overeenkomsten tussen een financiële onderneming of een aan het hoofd van een groep als bedoeld in artikel 1:114 staande groepsmaatschappij en een onder haar verantwoordelijkheid werkzame natuurlijk persoon, voor zover de aanwijzing betrekking heeft op Hoofdstuk 1.7. 
 
 ### Artikel  1:76  
 
@@ -1754,7 +1761,7 @@ a. een verbodsbepaling uit deze wet of ingevolge artikel 1:58, tweede en derde l
 
 b. een bepaling, anders dan bedoeld onder a, die in de algemene maatregel van bestuur op basis van artikel 1:81, eerste lid, beboetbaar is gesteld met tariefnummer 3;  
 
-c. artikel 2:10, vierde lid, 2:15, tweede lid, 2:18, tweede lid, 2:25, tweede lid, 2:26, 2:36, vijfde lid, 2:45, vierde lid, 2:54, vierde lid, 2:100, tweede lid, 2:103, 2:107, eerste lid, 3:5, vierde lid, 3:8, 3:9, eerste lid, 3:39, eerste lid, 3:47, eerste lid, 3:53, eerste lid, 3:57, eerste lid, 3:57, vijfde lid, 3:63, eerste en derde lid, 3:67, eerste tot en met derde lid, 3:68, eerste en derde lid, 3:69, eerste lid, 3:72, derde lid, 3:99, eerste lid, 3:111a, eerste lid, 3:135, eerste lid, 3:138, eerste lid, 3:139, eerste lid, 3:141, eerste lid, 3:144, eerste lid, 3:145, eerste lid, 3:146, eerste lid, 3:148, eerste lid, 3:153, 3:259, eerste en tweede lid, 3:271, 3:272, 3:285, eerste en tweede lid, 3:286, eerste en tweede lid, 3:296, eerste en derde lid, 4:9, eerste lid, 4:10, eerste lid, 4:11, eerste en tweede lid, 4:15, eerste lid, 4:19, 4:20, 4:22, 4:23, 4:24, 4:31, eerste tot en met derde lid, 4:31a, 4:42, 4:49, eerste lid, 4:50, tweede lid, 4:53, 4:56, eerste lid, 4:59, tweede lid, 4:60, vierde lid, 4:87, 4:94, derde lid, 4:95, derde lid, 4:96, eerste en tweede lid, 4:100, derde lid, 5:26, eerste lid, 5:34, eerste en tweede lid, 5:35, eerste tot en met vierde lid, 5:38, eerste en tweede lid, 5:39, eerste lid, 5:40, 5:41, eerste en tweede lid, 5:42, 5:43, eerste en tweede lid, 5:48, derde tot en met achtste lid, 5:60, eerste lid, 5:62, eerste lid, of 5:64, eerste lid;  
+c. artikel 1:113, 1:114, eerste en tweede lid, 1:117, eerste tot en met derde lid, 1:118, 1:119 1:120, eerste en tweede lid, 2:10, vierde lid, 2:15, tweede lid, 2:18, tweede lid, 2:25, tweede lid, 2:26, 2:36, vijfde lid, 2:45, vierde lid, 2:54, vierde lid, 2:100, tweede lid, 2:103, 2:107, eerste lid, 3:5, vierde lid, 3:8, 3:9, eerste lid, 3:39, eerste lid, 3:47, eerste lid, 3:53, eerste lid, 3:57, eerste lid, 3:57, vijfde lid, 3:63, eerste en derde lid, 3:67, eerste tot en met derde lid, 3:68, eerste en derde lid, 3:69, eerste lid, 3:72, derde lid, 3:99, eerste lid, 3:111a, eerste lid, 3:135, eerste lid, 3:138, eerste lid, 3:139, eerste lid, 3:141, eerste lid, 3:144, eerste lid, 3:145, eerste lid, 3:146, eerste lid, 3:148, eerste lid, 3:153, 3:259, eerste en tweede lid, 3:271, 3:272, 3:285, eerste en tweede lid, 3:286, eerste en tweede lid, 3:296, eerste en derde lid, 4:9, eerste lid, 4:10, eerste lid, 4:11, eerste en tweede lid, 4:15, eerste lid, 4:19, 4:20, 4:22, 4:23, 4:24, 4:31, eerste tot en met derde lid, 4:31a, 4:42, 4:49, eerste lid, 4:50, tweede lid, 4:53, 4:56, eerste lid, 4:59, tweede lid, 4:60, vierde lid, 4:87, 4:94, derde lid, 4:95, derde lid, 4:96, eerste en tweede lid, 4:100, derde lid, 5:26, eerste lid, 5:34, eerste en tweede lid, 5:35, eerste tot en met vierde lid, 5:38, eerste en tweede lid, 5:39, eerste lid, 5:40, 5:41, eerste en tweede lid, 5:42, 5:43, eerste en tweede lid, 5:48, derde tot en met achtste lid, 5:60, eerste lid, 5:62, eerste lid, of 5:64, eerste lid;  
 
 d. een bepaling, anders dan bedoeld onder c, waarvan de overtreding in de algemene maatregel van bestuur op basis van artikel 1:81, eerste lid, beboetbaar is gesteld met tariefnummer 2, voor zover dit in die algemene maatregel van bestuur is bepaald; 
 
@@ -2033,39 +2040,234 @@ Vervallen per 01-01-2013
 
 ###Hoofdstuk  1.7 
 
-####Overeenkomstige toepassing bevoegdheden aanpassing en terugvordering bonussen bij financiële ondernemingen
+####Beloningsbeleid
+
+### Afdeling  1.7.1  
+
+####Definities en reikwijdte
 
 ### Artikel  1:111  
 
-1.  Voor financiële ondernemingen zijn de bevoegdheden van artikel 2:135, zesde en achtste lid, van het Burgerlijk Wetboek van overeenkomstige toepassing.   
-2.  In aanvulling op artikel 2:135, zesde en achtste lid, zijn de bevoegdheden van toepassing bij alle dagelijks beleidsbepalers.   
-3.  De bevoegdheden als bedoeld in het eerste lid komen bij financiële ondernemingen toe aan het orgaan dat of degene die de beloning vaststelt.  
+In dit hoofdstuk wordt verstaan onder: 
 
-### Hoofdstuk  1.8  
+*variabele beloning:* het deel van de totale beloning dat geen vaste beloning is;  
 
-####Beloningen van dagelijks beleidsbepalers bij steunmaatregelen
+*vaste beloning:* het deel van de totale beloning dat bestaat uit onvoorwaardelijke financiële of niet-financiële voordelen zoals uitgewerkt in het beloningsbeleid van de onderneming of in overeenkomsten ten behoeve van het verrichten van werkzaamheden voor de onderneming.   
 
 ### Artikel  1:112  
 
-1.  Indien een financiële onderneming in verband met de stabiliteit van het financiële stelsel steun geniet of heeft genoten in de zin van artikel 107, eerste lid, van het Verdrag betreffende de werking van de Europese Unie, worden de door die onderneming aan haar dagelijks beleidsbepalers over de periode, waarin steun wordt of is genoten, toe te kennen of uit te keren beloningen, alsmede de door die onderneming aan haar dagelijks beleidsbepalers over de periode, voorafgaande aan de steunverlening, toe te kennen of uit te keren beloningen, voor zover die beloningen op het tijdstip dat de steunverlening aanving, nog niet waren toegekend of uitgekeerd, van rechtswege: 
-
-a. op een waarde van € 0 gesteld, voor zover het betreft het niet vaste deel van de beloning, waarvan de toekenning geheel of gedeeltelijk afhankelijk is gesteld van het bereiken van bepaalde doelen of van het zich voordoen van bepaalde omstandigheden;  
-
-b. op de waarde gesteld die zij hadden op het moment, onmiddellijk voorafgaand aan het van kracht worden van de steunmaatregel, voor zover het betreft de overige delen van de beloning, met dien verstande dat procentuele stijgingen van die overige delen van de beloning toegestaan blijven, voor zover die stijgingen eveneens gelden voor alle werknemers van de betrokken onderneming.     
-2.  Een financiële onderneming kent geen beloningen toe en keert geen beloningen uit in strijd met het eerste lid.   
-3.  Het orgaan dat belast is met het toezicht op het beleid en de algemene gang van zaken van de onderneming, ziet toe op de naleving van het tweede lid.   
-4.  Bedingen tussen een financiële onderneming en haar dagelijks beleidsbepalers, die in strijd zijn met de strekking van het eerste lid, zijn nietig.   
-5.  Indien de steun is verleend aan een groep in de zin van artikel 24b van Boek 2 van het Burgerlijk Wetboek of een tot zodanige groep behorende rechtspersoon of vennootschap, wordt de aan het hoofd van die groep staande groepsmaatschappij voor de toepassing van het eerste tot en met vierde lid aangemerkt als de in die leden bedoelde financiële onderneming.   
-6.  Indien de aan het hoofd van een groep als bedoeld in het vijfde lid staande groepsmaatschappij haar zetel buiten Nederland heeft, wordt in afwijking van het vijfde lid de binnen de groep hiërarchisch hoogste groepsmaatschappij met zetel in Nederland aangemerkt als de in het eerste tot en met vierde lid bedoelde financiële onderneming.  
+1.  De afdelingen 1.7.2 en 1.7.3 zijn van toepassing op financiële ondernemingen met zetel in Nederland waarop artikel 3:17, 4:14 of 4:15 van toepassing is.   
+2.  De afdelingen 1.7.4 tot en met 1.7.6 zijn van toepassing op financiële ondernemingen met zetel in Nederland.  
 
 ### Artikel  1:113  
 
-1.  Met steun aan een financiële onderneming wordt voor de toepassing van artikel 1:112, eerste lid, gelijkgesteld: 
+1.  Een financiële onderneming met zetel in Nederland draagt er zorg voor dat de in de afdelingen 1.7.4 tot en met 1.7.6 opgenomen regels ook door haar dochterondernemingen worden toegepast.   
+2.  Een financiële onderneming met zetel in Nederland waarop artikel 3:17, 4:14 of 4:15 van toepassing is draagt er tevens zorg voor dat haar dochterondernemingen een beloningsbeleid voeren dat in overeenstemming is met de eisen van afdeling 1.7.2. Afdeling 1.7.3 is van overeenkomstige toepassing, met dien verstande dat aan de in die afdeling geregelde openbaarmakings- en informatieverplichtingen zowel door de financiële onderneming als door de dochteronderneming uitvoering mag worden gegeven.  
+
+### Artikel  1:114  
+
+1.  Indien een financiële onderneming met zetel in Nederland behoort tot een groep als bedoeld in artikel 24b van Boek 2 van het Burgerlijk Wetboek en de aan het hoofd van die groep staande groepsmaatschappij haar zetel eveneens in Nederland heeft, draagt de aan het hoofd van de groep staande groepsmaatschappij er zorg voor dat de in de afdelingen 1.7.4 tot en met 1.7.6 opgenomen regels door alle tot de groep behorende rechtspersonen en vennootschappen worden toegepast.   
+2.  De aan het hoofd van de groep staande groepsmaatschappij draagt er tevens zorg voor dat alle tot de groep behorende rechtspersonen en vennootschappen een beloningsbeleid voeren dat in overeenstemming is met de eisen die ingevolge afdeling 1.7.2 aan het beloningsbeleid van de tot de groep behorende financiële ondernemingen worden gesteld. Afdeling 1.7.3 is van overeenkomstige toepassing, met dien verstande dat aan de in die afdeling geregelde openbaarmakings- en informatieverplichtingen zowel door de aan het hoofd van de groep staande groepsmaatschappij als door de afzonderlijke tot de groep behorende rechtspersonen en vennootschappen uitvoering mag worden gegeven.   
+3.  Het eerste en tweede lid zijn niet van toepassing, indien de hoofdactiviteiten van de groep niet bestaan uit het aanbieden van financiële producten of het verlenen van financiële diensten.  
+
+### Artikel  1:115  
+
+1.  Het toezicht op de aan het hoofd van een groep als bedoeld in artikel 1:114 staande groepsmaatschappij wordt uitgeoefend door de toezichthouder die vergunning heeft verleend aan de in artikel 1:114, eerste lid, bedoelde financiële onderneming.   
+2.  Indien door beide toezichthouders vergunningen zijn verleend aan tot de groep behorende financiële ondernemingen, wordt het in het eerste lid bedoelde toezicht uitgeoefend door de, gelet op de hoofdactiviteiten van de tot de groep behorende financiële ondernemingen met zetel in Nederland, meest betrokken toezichthouder.  
+
+### Artikel  1:116  
+
+1.  Een financiële onderneming met zetel in Nederland of de aan het hoofd van een groep als bedoeld in artikel 1:114 staande groepsmaatschappij draagt er zorg voor dat geen gebruik wordt gemaakt van constructies of methoden die het ontwijken van de in dit hoofdstuk opgenomen eisen mogelijk maken.   
+2.  Een financiële onderneming met zetel in Nederland of de aan het hoofd van een groep als bedoeld in artikel 1:114 staande groepsmaatschappij draagt er zorg voor dat personen werkzaam onder haar verantwoordelijkheid van derden geen financiële of niet-financiële voordelen ontvangen die het door de onderneming vastgestelde passende niveau overschrijden.   
+3.  In afwijking van artikel 1:23 zijn rechtshandelingen in strijd met de bij of krachtens de artikelen 1:121, eerste tot en met zesde lid, 1:122, 1:124, 1:125, 1:127, tweede en derde lid of 1:128, eerste lid, gestelde regels, nietig.  
+
+### Afdeling  1.7.2  
+
+####Beheerst beloningsbeleid
+
+### Artikel  1:117  
+
+1.  Een financiële onderneming waarop artikel 3:17, 4:14 of 4:15 van toepassing is, voert als onderdeel van de in die artikelen bedoelde beheerste bedrijfsvoering een beheerst beloningsbeleid, dat schriftelijk wordt vastgelegd.   
+2.  Het beloningsbeleid is afgestemd op de omvang en organisatie van de onderneming en op de aard, reikwijdte en complexiteit van haar activiteiten.   
+3.  De onderneming beschikt over procedures en maatregelen ter implementatie, uitvoering en instandhouding van het beloningsbeleid.   
+4.  De toezichthouder kan nadere regels stellen met betrekking tot: 
+
+a. de wijze waarop het beloningsbeleid wordt opgesteld en vastgesteld of goedgekeurd, uitgevoerd, geëvalueerd en aangepast;  
+
+b. de wijze waarop vorm wordt gegeven aan beloningscomponenten en beloningsstructuren en de wijze waarop de risico’s die uit het beleid en de uitvoering daarvan voortvloeien, worden beheerst.    
+
+### Artikel  1:118  
+
+1.  Het beloningsbeleid van een financiële onderneming met zetel in Nederland waarop artikel 3:17 van toepassing is, omschrijft de beloningscomponenten en beloningsstructuren die ertoe zouden kunnen bijdragen dat de onderneming meer risico’s neemt dan voor haar aanvaardbaar is, alsmede de te volgen procedures en maatregelen die dergelijke beloningscomponenten en beloningsstructuren voorkomen en beheersen. Het beloningsbeleid strookt met de bedrijfsstrategie, de doelstellingen, de waarden en de langetermijnbelangen van de onderneming en is in overeenstemming met, en draagt bij aan een degelijk en doeltreffend risicobeheer.   
+2.  Het beloningsbeleid omvat ten minste de volgende elementen: 
+
+a. de binnen de onderneming geldende passende verhoudingen tussen de vaste en variabele beloning;  
+
+b. de verhouding tussen de toegekende en uitgekeerde variabele beloning;  
+
+c. de samenstelling van de variabele beloning;  
+
+d. de criteria en prestaties waar de variabele beloning op wordt gebaseerd, waaronder de prestaties van een natuurlijk persoon werkzaam onder zijn verantwoordelijkheid, het bedrijfsonderdeel en de onderneming.     
+3.  Bij de beoordeling van de in het tweede lid, onderdeel d, bedoelde prestaties worden zowel financiële als niet-financiële criteria gehanteerd. De variabele beloning wordt voor ten minste 50% gebaseerd op niet-financiële criteria.  
+
+### Artikel  1:119  
+
+1.  Het beloningsbeleid van een financiële onderneming met zetel in Nederland waarop artikel 4:14 of 4:15 van toepassing is, omschrijft onder verwijzing naar de specifieke financiële diensten of andere activiteiten die door of in naam van de onderneming worden verleend of verricht, de beloningscomponenten en beloningsstructuren die kunnen leiden tot het risico van onzorgvuldige behandeling van consumenten, cliënten of deelnemers, alsmede de te volgen procedures en maatregelen die dat risico voorkomen en beheersen. Het beloningsbeleid is erop gericht te voorkomen dat consumenten, cliënten of deelnemers onzorgvuldig worden behandeld.   
+2.  Artikel 1:118, tweede lid, aanhef en onderdelen a, c en d, en derde lid, zijn van overeenkomstige toepassing.  
+
+### Afdeling  1.7.3  
+
+####Publicatie- en informatieverplichtingen
+
+### Artikel  1:120  
+
+1.  Een financiële onderneming waarop artikel 1:117 van toepassing is, neemt, indien zij verplicht is een jaarverslag op te stellen, in haar jaarverslag een beschrijving op van haar beloningsbeleid. Indien zij over een website beschikt, maakt zij deze beschrijving ook op haar website openbaar.   
+2.  In de beschrijving neemt de onderneming eveneens op: 
+
+a. hoeveel onder haar verantwoordelijkheid werkzame natuurlijke personen een totale jaarlijkse beloning van 1 miljoen euro of meer ontvangen, alsmede het bedrijfsonderdeel waar zij in hoofdzaak werkzaamheden voor verrichten;  
+
+b. het jaarlijks aan natuurlijke personen werkzaam onder haar verantwoordelijkheid uitgekeerde bedrag aan variabele beloningen.     
+3.  De toezichthouder kan nadere regels stellen met betrekking tot de wijze van openbaarmaking van het beloningsbeleid.   
+4.  Een financiële onderneming die artikel 1:121, derde of vierde lid toepast, en bank of verzekeraar is, verstrekt jaarlijks aan de toezichthouder informatie over de wijze van toepassing van artikel 1:121 door de financiële onderneming. De toezichthouder kan nadere regels stellen met betrekking tot de te verstrekken informatie ingevolge de eerste volzin.  
+
+### Afdeling  1.7.4  
+
+####Maximale variabele beloning
+
+### Artikel  1:121  
+
+1.  De variabele beloning die een financiële onderneming met zetel in Nederland toekent aan een natuurlijk persoon werkzaam onder haar verantwoordelijkheid, bedraagt ten hoogste 20% van de vaste beloning van die persoon op jaarbasis.   
+2.  In afwijking van het eerste lid kan een financiële onderneming aan een natuurlijk persoon werkzaam onder haar verantwoordelijkheid, die in hoofdzaak werkzaamheden binnen Nederland verricht en wiens beloning niet of niet uitsluitend volgt uit een collectieve arbeidsovereenkomst als bedoeld in artikel 1, tweede lid, van de Wet op de collectieve arbeidsovereenkomst, een variabele beloning toekennen die hoger is dan het in het eerste lid bedoelde percentage, mits: 
+
+a. het gemiddelde van de verhoudingen tussen de vaste en variabele beloningen van alle onder verantwoordelijkheid van de onderneming werkzame personen die in hoofdzaak werkzaamheden binnen Nederland verrichten en wier beloning niet uitsluitend uit een collectieve arbeidsovereenkomst als hiervoor omschreven volgt, niet meer dan 20% bedraagt; en  
+
+b. de in de aanhef bedoelde variabele beloning niet meer dan 100% bedraagt van de vaste beloning op jaarbasis.     
+3.  In afwijking van het eerste lid bedraagt de variabele beloning van een natuurlijk persoon werkzaam onder verantwoordelijkheid van de onderneming ten hoogste het percentage bedoeld in artikel 94, eerste lid, onderdeel g, onder i, eerste volzin, van de richtlijn kapitaalvereisten, indien deze persoon zijn werkzaamheden in hoofdzaak uitoefent in een andere staat.   
+4.  In afwijking van het eerste lid kunnen aandeelhouders, eigenaren of leden van de financiële onderneming in overeenstemming met de procedure, bedoeld in artikel 94, eerste lid, onderdeel g, onder ii, van de richtlijn kapitaalvereisten, goedkeuren dat de variabele beloning van een natuurlijk persoon werkzaam onder verantwoordelijkheid van de onderneming ten hoogste het percentage bedoeld in artikel 94, eerste lid, onderdeel g, onder ii, van de richtlijn kapitaalvereisten bedraagt, indien deze persoon zijn werkzaamheden in hoofdzaak uitoefent in een staat die geen lidstaat is.   
+5.  Indien over een periode van vijf aaneengesloten kalenderjaren ten minste 75% van alle onder de verantwoordelijkheid van de tot een groep als bedoeld in artikel 1:114 behorende rechtspersonen en vennootschappen werkzame natuurlijke personen gedurende ten minste drie van die vijf jaren in hoofdzaak werkzaam waren buiten Nederland, bedraagt in afwijking van het eerste lid de variabele beloning van een natuurlijke persoon werkzaam onder verantwoordelijkheid van de aan het hoofd van die groep staande groepsmaatschappij ten hoogste het percentage, bedoeld in artikel 94, eerste lid, onderdeel g, onder i, eerste volzin, van de richtlijn kapitaalvereisten.   
+6.  Het eerste en tweede lid zijn van overeenkomstige toepassing op in Nederland gelegen bijkantoren van financiële ondernemingen met zetel in een andere staat, niet zijnde een bank of beleggingsonderneming in de zin van de verordening kapitaalvereisten. Het toezicht op het bijkantoor wordt uitgeoefend door de toezichthouder die, indien de onderneming haar zetel in Nederland had gehad, op grond van het Deel Markttoegang tot vergunningverlening bevoegd zou zijn geweest.   
+7.  Het eerste lid is niet van toepassing op: 
+
+a. beheerders van beleggingsinstellingen;  
+
+b. beheerders van icbe’s; en  
+
+c. beleggingsondernemingen die uitsluitend voor eigen rekening handelen met eigen middelen en kapitaal, geen externe cliënten hebben en plaatselijke onderneming zijn.    
+
+### Artikel  1:122  
+
+1.  Een financiële onderneming kan, in afwijking van artikel 1:121, eerste lid, aan een onder haar verantwoordelijkheid werkzame natuurlijk persoon een variabele beloning toekennen die hoger is dan het in dat artikel bedoelde percentage, indien: 
+
+a. de variabele beloning noodzakelijk is in verband met een duurzame organisatiewijziging van de onderneming;  
+
+b. de variabele beloning uitsluitend strekt tot het behouden van de in de aanhef bedoelde persoon voor de onderneming;  
+
+c. de variabele beloning niet tot gevolg heeft dat de som van variabele beloningen de percentages bedoeld in artikel 94, eerste lid, onderdeel g, onder i, eerste volzin en onder ii van de richtlijn kapitaalvereisten overschrijdt; en  
+
+d. de toezichthouder schriftelijk heeft ingestemd met de toekenning van de variabele beloning.     
+2.  Op de aanvraag om instemming, bedoeld in het eerste lid, onderdeel d, wordt door de toezichthouder binnen zes weken beslist.  
+
+### Artikel  1:123  
+
+Artikel 1:121 is tot en met 31 december 2015 niet van toepassing op de toekenning van variabele beloningen die voortvloeien uit een door een financiële onderneming voorafgaande aan 1 januari 2015 aangegane verplichting. 
+
+### Afdeling  1.7.5  
+
+####Verbod op gegarandeerde variabele beloningen
+
+### Artikel  1:124  
+
+1.  Een financiële onderneming met zetel in Nederland kent aan natuurlijke personen werkzaam onder haar verantwoordelijkheid geen gegarandeerde variabele beloningen toe.   
+2.  In afwijking van het eerste lid kan een financiële onderneming aan een natuurlijk persoon werkzaam onder haar verantwoordelijkheid een gegarandeerde variabele beloning toekennen, indien: 
+
+a. de gegarandeerde variabele beloning van die persoon betrekking heeft op het aanvangen van de werkzaamheden onder verantwoordelijkheid van de onderneming;  
+
+b. die persoon op het moment van toekenning niet langer dan één jaar werkzaam is onder verantwoordelijkheid van de onderneming; en  
+
+c. de onderneming over een gezond toetsingsvermogen, gezonde solvabiliteitsmarge of gezond eigen vermogen beschikt.    
+
+### Afdeling  1.7.6  
+
+####Maximale vertrekvergoeding
+
+### Artikel  1:125  
+
+1.  Een financiële onderneming met zetel in Nederland keert aan een natuurlijk persoon werkzaam onder haar verantwoordelijkheid geen vertrekvergoeding uit, indien sprake is van: 
+
+a. voortijdige beëindiging van de arbeidsrelatie op initiatief van de in de aanhef bedoelde natuurlijk persoon, tenzij dit het gevolg is van ernstig verwijtbaar handelen of nalaten van de werkgever;  
+
+b. ernstig verwijtbaar handelen of nalaten in de vervulling van zijn functie door de in de aanhef bedoelde natuurlijk persoon; of  
+
+c. falen van de onderneming, indien de in de aanhef bedoelde natuurlijke persoon het dagelijks beleid van de onderneming bepaalt.     
+2.  De onderneming keert aan een persoon die het dagelijks beleid van de onderneming bepaalt geen vertrekvergoeding uit die meer dan 100% bedraagt van de vaste beloning op jaarbasis.   
+3.  Het tweede lid is tot en met 1 juli 2015 niet van toepassing op aan personen die het dagelijks beleid van de onderneming bepalen, niet zijnde bestuurders van een bank of verzekeraar, uit te keren vertrekvergoedingen die voortvloeien uit een door de onderneming voorafgaande aan 1 januari 2015 aangegane verplichting.  
+
+### Afdeling  1.7.7  
+
+####Terugvordering en aanpassing van variabele beloningen
+
+### Artikel  1:126  
+
+1.  De bevoegdheden van artikel 135, zesde en achtste lid, van Boek 2 van het Burgerlijk Wetboek gelden, voor zover niet reeds op grond van Boek 2 van het Burgerlijk Wetboek van toepassing, tevens voor: 
+
+a. financiële ondernemingen met zetel in Nederland;  
+
+b. dochterondernemingen als bedoeld in artikel 1:113;  
+
+c. de tot een groep waarop artikel 1:114, eerste lid, van toepassing is behorende rechtspersonen en vennootschappen.     
+2.  In aanvulling op artikel 135, zesde en achtste lid, van Boek 2 van het Burgerlijk Wetboek zijn de in dat artikel bedoelde bevoegdheden van overeenkomstige toepassing op alle natuurlijke personen werkzaam onder verantwoordelijkheid van: 
+
+a. financiële ondernemingen met zetel in Nederland;  
+
+b. dochterondernemingen als bedoeld in artikel 1:113;  
+
+c. tot een groep waarop artikel 1:114, eerste lid, van toepassing is behorende rechtspersonen en vennootschappen.     
+3.  De in het eerste en tweede lid bedoelde bevoegdheden komen, voor zover door artikel 135, zesde en achtste lid, van Boek 2 van het Burgerlijk Wetboek niet in een bevoegdheidstoedeling is voorzien, toe aan het orgaan dat of degene die binnen een in het eerste lid bedoelde onderneming, rechtspersoon of vennootschap de beloning vaststelt.  
+
+### Artikel  1:127  
+
+1.  Een financiële onderneming met zetel in Nederland beschikt over procedures en criteria betreffende de toepassing van de in artikel 1:126 en het tweede en derde lid van dit artikel bedoelde bevoegdheden.   
+2.  In aanvulling op artikel 135, zesde lid, van Boek 2 van het Burgerlijk Wetboek verlaagt de financiële onderneming de hoogte van een aan een natuurlijk persoon werkzaam onder haar verantwoordelijkheid toegekende variabele beloning in ieder geval, indien: 
+
+a. de persoon niet heeft voldaan aan passende normen inzake bekwaamheid en correct gedrag; of  
+
+b. de persoon verantwoordelijk was voor gedragingen die ertoe hebben geleid dat de financiële positie van de onderneming aanmerkelijk is verslechterd.     
+3.  In aanvulling op artikel 135, achtste lid, van Boek 2 van het Burgerlijk Wetboek vordert een financiële onderneming een aan een natuurlijk persoon werkzaam onder haar verantwoordelijkheid uitgekeerde variabele beloning in ieder geval terug, indien die persoon: 
+
+a. niet heeft voldaan aan passende normen inzake bekwaamheid en correct gedrag; of  
+
+b. verantwoordelijk was voor gedragingen die ertoe hebben geleid dat de positie van de onderneming aanmerkelijk is verslechterd.     
+4.  Het eerste tot en met derde lid is van overeenkomstige toepassing op: 
+
+a. dochterondernemingen als bedoeld in artikel 1:113;  
+
+b. de tot een groep waarop artikel 1:114, eerste lid, van toepassing is behorende rechtspersonen en vennootschappen.     
+5.  De in artikel 1:113, eerste lid, bedoelde financiële onderneming of de aan het hoofd van een groep als bedoeld in artikel 1:114, eerste lid, staande groepsmaatschappij draagt zorg voor de naleving van de ingevolge het vierde lid op dochterondernemingen, onderscheidenlijk de tot een groep behorende rechtspersonen of vennootschappen, rustende verplichtingen.  
+
+### Afdeling  1.7.8  
+
+####Verbod op variabele beloning bij staatssteun
+
+### Artikel  1:128  
+
+1.  Indien een financiële onderneming in verband met de stabiliteit van het financiële stelsel steun geniet of heeft genoten in de zin van artikel 107, eerste lid, van het Verdrag betreffende de werking van de Europese Unie, worden de door die onderneming aan personen die haar dagelijks beleid bepalen en aan personen die een leidinggevende functie vervullen direct onder het echelon van de dagelijks beleidsbepalers en verantwoordelijk zijn voor natuurlijke personen wier werkzaamheden het risicoprofiel van de onderneming wezenlijk kunnen beïnvloeden over de periode, waarin steun wordt of is genoten, toe te kennen of uit te keren beloningen, alsmede de door die onderneming aan personen die haar dagelijks beleid bepalen en aan personen die een leidinggevende functie vervullen direct onder het echelon van de dagelijks beleidsbepalers en verantwoordelijk zijn voor natuurlijke personen wier werkzaamheden het risicoprofiel van de onderneming wezenlijk kunnen beïnvloeden over de periode, voorafgaande aan de steunverlening, toe te kennen of uit te keren beloningen, voor zover die beloningen op het tijdstip dat de steunverlening aanving nog niet waren toegekend of uitgekeerd, van rechtswege: 
+
+a. op een waarde van € 0 gesteld, voor zover het betreft variabele beloningen; en  
+
+b. op de waarde gesteld die zij hadden op het moment, onmiddellijk voorafgaand aan het van kracht worden van de steunmaatregel, voor zover het betreft vaste beloningen.     
+2.  Een financiële onderneming kent geen beloningen toe en keert geen beloningen uit in strijd met het eerste lid.   
+3.  Het orgaan dat belast is met het toezicht op het beleid en de algemene gang van zaken van de onderneming, ziet toe op de naleving van het tweede lid.   
+4.  Indien de steun is verleend aan een groep in de zin van artikel 24b van Boek 2 van het Burgerlijk Wetboek of een tot zodanige groep behorende rechtspersoon of vennootschap, wordt de aan het hoofd van die groep staande groepsmaatschappij voor de toepassing van het eerste tot en met derde lid aangemerkt als de in die leden bedoelde financiële onderneming en gelden die leden tevens voor de tot die groep behorende banken en verzekeraars met zetel in Nederland.   
+5.  Indien de aan het hoofd van een groep als bedoeld in het vierde lid staande groepsmaatschappij haar zetel buiten Nederland heeft, wordt in afwijking van het vierde lid de binnen de groep hiërarchisch hoogste groepsmaatschappij met zetel in Nederland aangemerkt als de in het eerste tot en met derde lid bedoelde financiële onderneming.  
+
+### Artikel  1:129  
+
+1.  Met steun aan een financiële onderneming wordt voor de toepassing van artikel 1:128 gelijkgesteld: 
 
 a. een deelneming van de Staat der Nederlanden in verband met de stabiliteit van het financiële stelsel in die onderneming, of:  
 
-b. indien de financiële onderneming deel uitmaakt van een groep als bedoeld in artikel 24b van Boek 2 van het Burgerlijk Wetboek: een deelneming van de Staat der Nederlanden in verband met de stabiliteit van het financiële stelsel in een andere tot die groep behorende groepsmaatschappij.     
-2.  De gelijkstelling, bedoeld in het eerste lid, eindigt zodra met de afbouw van de deelneming van de Staat der Nederlanden een aanvang is gemaakt en de eerste vervreemding van door de Staat der Nederlanden gehouden aandelen daadwerkelijk heeft plaatsgevonden.  
+b. indien de onderneming deel uitmaakt van een groep als bedoeld in artikel 24b van Boek 2 van het Burgerlijk Wetboek: een deelneming van de Staat der Nederlanden in verband met de stabiliteit van het financiële stelsel in een andere tot die groep behorende groepsmaatschappij.     
+2.  De gelijkstelling, bedoeld in het eerste lid, eindigt zodra de Staat der Nederlanden geen aandelen van de onderneming meer bezit.  
 
 ### 2  
 
@@ -6027,17 +6229,17 @@ c. artikel 4:91a met betrekking tot de regels die gelden voor het handelsproces 
 
 ### Artikel  3:111  
 
-1.  Bij ministeriële regeling kan een groep banken die blijvend is aangesloten bij een centrale kredietinstelling die controle uitoefent op de bedrijfsvoering, uitbesteding, solvabiliteit en liquiditeit van die banken, worden vrijgesteld van het toezicht door de Nederlandsche Bank op de naleving van het ingevolge de artikelen 3:10, 3:17, 3:17a, 3:18, 3:18a, 3:57, 3:62a, 3:62b, 3:63 en 3:159ai van deze wet bepaalde, alsmede, op grond van artikel 10 van de verordening kapitaalvereisten, van het bepaalde ingevolge de delen 2 tot en met 8 van die verordening, indien: 
+1.  Bij ministeriële regeling kan een groep banken die blijvend is aangesloten bij een centrale kredietinstelling die controle uitoefent op de bedrijfsvoering, uitbesteding, solvabiliteit en liquiditeit van die banken, worden vrijgesteld van het toezicht door de Nederlandsche Bank op de naleving van het ingevolge hoofdstuk 1.7 en de artikelen 3:10, 3:17, 3:18, 3:18a, 3:57, 3:62a, 3:62b, 3:63 en 3:159ai van deze wet bepaalde, alsmede, op grond van artikel 10 van de verordening kapitaalvereisten, van het bepaalde ingevolge de delen 2 tot en met 8 van die verordening, indien: 
 
 a. de centrale kredietinstelling en de aangesloten banken hoofdelijk instaan voor elkaars verplichtingen dan wel de verplichtingen van de aangesloten banken door de centrale kredietinstelling worden gegarandeerd;  
 
 b. de centrale kredietinstelling in voldoende mate bevoegd is voor de naleving van deze wet noodzakelijke instructies te geven aan de aangesloten banken; en  
 
 c. het ingevolge de artikelen 3:57 en 3:63 uitgeoefende toezicht op de centrale kredietinstelling en de aangesloten banken op geconsolideerde basis wordt uitgeoefend.     
-2.  De Nederlandsche Bank kan ten aanzien van een bank die behoort tot een groep die is vrijgesteld ingevolge het eerste lid bepalen dat de artikelen 1:75, 1:104, 2:12, eerste lid, 2:13, eerste en tweede lid, 3:8, 3:9, 3:15, 3:16, 3:19, 3:29, 3:53, 3:71, 3:72, 3:88, 4:14, 4:87 en 4:91a geheel of gedeeltelijk buiten toepassing blijven.   
+2.  De Nederlandsche Bank kan ten aanzien van een bank die behoort tot een groep die is vrijgesteld ingevolge het eerste lid bepalen dat de artikelen 1:75, 1:104, 1:125, tweede lid, 2:12, eerste lid, 2:13, eerste en tweede lid, 3:8, 3:9, 3:15, 3:16, 3:19, 3:29, 3:53, 3:71, 3:72, 3:88, 4:14, 4:87 en 4:91a geheel of gedeeltelijk buiten toepassing blijven.   
 3.  De centrale kredietinstelling oefent controle uit op de aangesloten banken krachtens haar statuten en de statuten van de aangesloten banken of krachtens een overeenkomst met de bij haar aangesloten banken. Deze controle behelst: 
 
-a. het geven van instructies die naar inhoud en strekking overeenkomen met de regels die ingevolge de artikelen 3:10, 3:17, 3:17a, 3:18, 3:18a, 3:57, 3:62a, 3:62b, 3:63 en 3:159ai van deze wet, alsmede ingevolge de delen 2 tot en met 8 van de verordening kapitaalvereisten, zijn gesteld aan de aangesloten banken;  
+a. het geven van instructies die naar inhoud en strekking overeenkomen met de regels die ingevolge hoofdstuk 1.7 en de artikelen 3:10, 3:17, 3:18, 3:18a, 3:57, 3:62a, 3:62b, 3:63 en 3:159ai van deze wet, alsmede ingevolge de delen 2 tot en met 8 van de verordening kapitaalvereisten, zijn gesteld aan de aangesloten banken;  
 
 b. het toetsen of de aangesloten banken voldoen aan de instructies, bedoeld in onderdeel a;  
 
@@ -12395,7 +12597,7 @@ b. overige uitkeringen ter zake van andere ziekten dan beroepsziekten.
 
 #### *Algemeen deel* 
 
-1:10 1:28, tweede en derde lid1:58, tweede en derde lid1:58a, tweede lid 1:58b, tweede lid 1:58c, derde lid 1:59, tweede lid1:67, eerste lid 1:74, eerste lid 1:75, eerste lid, voor zover het betreft de niet-naleving van een met betrekking tot artikel 4:24a, eerste of tweede lid, gegeven aanwijzing.1:76, zesde lid, aanhef en onderdeel a 1:77, eerste lid 
+1:10 1:28, tweede en derde lid1:58, tweede en derde lid1:58a, tweede lid 1:58b, tweede lid 1:58c, derde lid 1:59, tweede lid1:67, eerste lid 1:74, eerste lid 1:75, eerste lid, voor zover het betreft de niet-naleving van een met betrekking tot artikel 4:24a, eerste of tweede lid, gegeven aanwijzing.1:76, zesde lid, aanhef en onderdeel a 1:77, eerste lid 1:113 1:114, eerste en tweede lid 1:116 1:117, eerste tot en met derde lid 1:118 1:119 1:120, eerste, tweede en vierde lid 1:121, eerste lid 1:122, eerste lid 1:124, eerste lid 1:125, eerste en tweede lid 1:127 1:128, tweede en derde lid
 
 #### *Deel Markttoegang financiële ondernemingen*
 
@@ -12421,7 +12623,7 @@ b. overige uitkeringen ter zake van andere ziekten dan beroepsziekten.
 
 #### *Algemeen deel* 
 
-1:10 1:28, tweede en derde lid1:58, tweede en derde lid 1:58a, tweede lid 1:58b, tweede lid 1:58c, derde lid1:59, tweede lid 1:67, eerste lid 1:74, eerste lid 1:75, eerste lid, voor zover het betreft de niet-naleving van een met betrekking tot artikel 4:24a, eerste of tweede lid, gegeven aanwijzing.1:76, zesde lid, aanhef en onderdeel a 1:77, eerste lid 
+1:10 1:28, tweede en derde lid1:58, tweede en derde lid 1:58a, tweede lid 1:58b, tweede lid 1:58c, derde lid1:59, tweede lid 1:67, eerste lid 1:74, eerste lid 1:75, eerste lid, voor zover het betreft de niet-naleving van een met betrekking tot artikel 4:24a, eerste of tweede lid, gegeven aanwijzing.1:76, zesde lid, aanhef en onderdeel a 1:77, eerste lid 1:113 1:114, eerste en tweede lid 1:116 1:117, eerste tot en met derde lid 1:118 1:119 1:120, eerste, tweede en vierde lid 1:121, eerste lid 1:122, eerste lid 1:124, eerste lid 1:125, eerste en tweede lid 1:127 1:128, tweede en derde lid 
 
 #### *Deel Markttoegang financiële ondernemingen*
 

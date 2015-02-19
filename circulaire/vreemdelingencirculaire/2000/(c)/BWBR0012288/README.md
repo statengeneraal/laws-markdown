@@ -2512,9 +2512,7 @@ De IND heeft met betrekking tot Congo DRC geen risicogroepen aangewezen.
 
 In Congo DRC is uitsluitend sprake van een uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc in: 
 
-* de provincies Noord- en Zuid-Kivu;  
-
-* de regio’s Haut- en Bas-Uélé.   Voor vreemdelingen van Congolese nationaliteit, afkomstig uit de provincies Noord- en Zuid-Kivu en de regio’s Haut-en Bas Uélé, is een vestigingsalternatief aanwezig in Kinshasa, indien de vrees een gevolg is van de uitzonderlijke situatie als bedoeld in artikel 15c van de richtlijn 2011/95/EU (zie verder paragraaf C7/10.5.2 Vc).  
+* de provincies Noord- en Zuid-Kivu.   Voor vreemdelingen van Congolese nationaliteit, afkomstig uit de provincies Noord- en Zuid-Kivu is een vestigingsalternatief aanwezig in Kinshasa, indien de vrees een gevolg is van de uitzonderlijke situatie als bedoeld in artikel 15c van de richtlijn 2011/95/EU (zie verder paragraaf C7/10.5.2 Vc).  
 ### 10.4.2  
 
 ####Systematische blootstelling in de zin van paragraaf C2/3.3  Vc
@@ -2535,14 +2533,14 @@ De IND heeft met betrekking tot DRC geen kwetsbare minderheidsgroepen aangewezen
 
 De IND acht het in ieder geval voor de volgende categorieën niet aannemelijk dat het voor de vreemdeling mogelijk is de bescherming te verkrijgen van de autoriteiten of internationale organisaties: 
 
-*homoseksuelen, lesbiënnes, biseksuelen en transseksuelen (LHBT);
+* homoseksuelen, lesbiënnes, biseksuelen en transseksuelen (LHBT);  
 
-*vrouwen die aannemelijk hebben gemaakt dat zij hebben te vrezen voor (seksuele) geweldpleging.   
+* vrouwen die aannemelijk hebben gemaakt dat zij hebben te vrezen voor (seksuele) geweldpleging.     
 ### 10.5.2  
 
 ####Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6  Vc
 
-De IND neemt voor Congo DRC geen vlucht- of vestigingsalternatief aan, indien de IND heeft geconcludeerd dat de vreemdeling op basis van de vreemdeling zelf betreffende omstandigheden een gegronde vrees voor vervolging heeft. De IND neemt voor Congo DRC een vestigingsalternatief aan in Kinshasa voor de vreemdeling afkomstig uit een gebied waarvan in paragraaf C7/10.4.1 is vermeld dat sprake is van een uitzonderlijke situatie, indien de vrees van de vreemdeling niet gebaseerd is op de vreemdeling zelf betreffende omstandigheden, maar alleen een gevolg is van de uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc.    
+De IND neemt voor Congo DRC geen vlucht- of vestigingsalternatief aan, indien de IND heeft geconcludeerd dat de vreemdeling op basis van de vreemdeling zelf betreffende omstandigheden een gegronde vrees voor vervolging heeft. De IND neemt voor Congo DRC een vestigingsalternatief aan in Kinshasa voor de vreemdeling afkomstig uit een gebied waarvan in paragraaf C7/10.4.1 is vermeld dat sprake is van een uitzonderlijke situatie, indien de vrees van de vreemdeling niet gebaseerd is op de vreemdeling zelf betreffende omstandigheden, maar alleen een gevolg is van de uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc.   
 ### 10.6  
 
 ####Adequate opvang alleenstaande minderjarige vreemdelingen
@@ -2552,7 +2550,12 @@ In Congo DRC is adequate opvang in de zin van paragraaf B8/6 Vc.
 
 ####Vertrekmoratorium
 
-Er geldt voor Congo DRC geen besluit in de zin van artikel 45, vierde lid, Vw.    
+Er geldt voor Congo DRC geen besluit in de zin van artikel 45, vierde lid, Vw.  
+### 10.8  
+
+####Bijzonderheden
+
+De IND beoordeelt de wijziging van de algemene situatie in de regio’s Haut- en Bas Uélé niet als ‘niet-voorbijgaand’ in de zin van art. 3.37e VV.  
 ### 11  
 
 ####Het asielbeleid ten aanzien van Eritrea
@@ -3067,12 +3070,34 @@ Geen bijzonderheden.
 
 ####Groepsvervolging in de zin van paragraaf C2/3.2  Vc
 
-De IND beschouwt Libië niet als land waarin sprake is van groepsvervolging.  
+De IND merkt Libië niet aan als land waarin sprake is van groepsvervolging.  
 ### 16.3.2  
 
 ####Risicogroepen in de zin van paragraaf C2/3.2  Vc
 
-De IND heeft met betrekking tot Libië geen risicogroepen aangewezen.   
+De IND merkt voor Libië uitsluitend de volgende risicogroepen aan: 
+
+* LHBT’s;  
+
+* (bekeerde) christenen;  
+
+* (staatloze) Palestijnen;  
+
+* politieke activisten;  
+
+* mensenrechtenactivisten;  
+
+* leden van het justitieel apparaat;  
+
+* werknemers van non-gouvernementele organisaties;  
+
+* journalisten;  
+
+* vrouwen die werkzaam zijn in de publieke sector;  
+
+* vreemdelingen die behoren tot de stam waarvan bekend was dat zij loyaal waren aan het bewind van Gaddafi, waaronder in ieder geval Tawergha’s, Gwelish en Mashashiya’s, Toearegs en Tobu’s; en  
+
+* vreemdelingen die als (onder)officier hebben gediend tijdens het Gaddafi regime.     
 ### 16.4  
 
 ####Foltering, onmenselijke of vernederende behandeling of bestraffing in de zin van artikel 3 EVRM
@@ -3091,9 +3116,9 @@ In Libië is geen sprake van systematische blootstelling aan een behandeling in 
 
 ####Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3  Vc
 
-De IND beschouwt uitsluitend de volgende categorieën vreemdelingen als kwetsbare minderheidsgroep: 
+De IND merkt uitsluitend de volgende categorieën vreemdelingen als kwetsbare minderheidsgroepen aan: 
 
-* homoseksuelen en lesbiennes, biseksuelen en transgenders (LHBT).     
+*LHBT’s.   
 ### 16.5  
 
 ####Bescherming
@@ -3107,14 +3132,36 @@ Als de vreemdeling aannemelijk heeft gemaakt dat hij in Libië te vrezen heeft v
 
 ####Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6  Vc
 
-Geen bijzonderheden.   
+De IND neemt geen vlucht- of vestigingsalternatief in Libië aan voor de volgende categorieën: 
+
+* LHBT’s;  
+
+* (bekeerde) christenen;  
+
+* (staatloze) Palestijnen;  
+
+* politieke activisten;  
+
+* mensenrechtenactivisten;  
+
+* leden van het justitieel apparaat;  
+
+* werknemers van non-gouvernementele organisaties;  
+
+* journalisten;  
+
+* vrouwen die werkzaam zijn in de publieke sector;  
+
+* vreemdelingen die behoren tot de stam waarvan bekend was dat zij loyaal waren aan het bewind van Gaddafi, waaronder in ieder geval Tawergha’s, Gwelish en Mashashiya’s, Toearegs en Tobu’s; en  
+
+* vreemdelingen die als (onder)officier hebben gediend tijdens het Gaddafi regime.     
 ### 16.6  
 
 ####Adequate opvang alleenstaande minderjarige vreemdelingen
 
-Aan de hand van paragraaf B8/6 Vc wordt beoordeeld of adequate opvang voor amv’s aanwezig is. Voor Libië geldt in ieder geval dat: 
+De IND beoordeelt aan de hand van paragraaf B8/6 Vc of adequate opvang voor amv’s aanwezig is. Voor Libië geldt in ieder geval dat: 
 
-* algemene opvangvoorzieningen niet beschikbaar en/of toereikend zijn;  
+* algemene opvangvoorzieningen niet beschikbaar en/of toereikend zijn; en  
 
 * de autoriteiten geen zorg dragen voor de opvang.     
 ### 16.7  
@@ -3126,7 +3173,7 @@ Ten aanzien van Libië geldt geen besluit in de zin van artikel 45, vierde lid, 
 
 ####Bijzonderheden
 
-De wijzigingen van omstandigheden in Libië hebben, gelet op de informatie uit het ambtsbericht van de Minister van Buitenlandse Zaken, een voldoende ingrijpend en niet-voorbijgaand karakter heeft zoals bedoeld in artikel 3.37 e Vv. De IND zal daarom een aan Libische vreemdelingen verleende verblijfsvergunning asiel voor bepaalde tijd heroverwegen vanwege de regimewisseling in Libië.    
+Geen bijzonderheden.    
 ### 17  
 
 ####Het asielbeleid ten aanzien van Mongolië
@@ -3409,7 +3456,7 @@ De IND beschouwt Pakistan niet als land waarin sprake is van groepsvervolging.
 
 ####Risicogroepen in de zin van C2/3.2 
 
-Ahmadi’s zijn aangewezen als een risicogroep.   
+Ahmadi’s en Christenen zijn aangewezen als een risicogroep.   
 ### 20.4  
 
 ####Foltering, onmenselijke of vernederende behandeling of bestraffing in de zin van artikel 3 EVRM
