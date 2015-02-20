@@ -3,7 +3,7 @@
 ##Verordening van het Bedrijfschap Horeca en Catering, houdende regels ter zake van de aan de onder het Bedrijfschap Horeca en Catering ressorterende ondernemers op te leggen heffing voor het jaar 2012 (Heffingsverordening Bedrijfschap Horeca en Catering 2012)
 
 Het bestuur van het Bedrijfschap Horeca en Catering; 
-Gelet op de [artikelen 93](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [100](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op de [artikelen 2](../../../../../../../../AMvB/instellingsbesluit/bedrijfschap/horeca/en/catering/BWBR0016029/README.md), [4](../../../../../../../../AMvB/instellingsbesluit/bedrijfschap/horeca/en/catering/BWBR0016029/README.md) en [7 van het Instellingsbesluit Bedrijfschap Horeca en Catering](../../../../../../../../AMvB/instellingsbesluit/bedrijfschap/horeca/en/catering/BWBR0016029/README.md);
+Gelet op de artikelen 93, 95, 100 en 126 van de Wet op de bedrijfsorganisatie en op de artikelen 2, 4 en 7 van het Instellingsbesluit Bedrijfschap Horeca en Catering;
 Besluit vast te stellen de navolgende verordening:  
 ###§  1  
 
@@ -19,9 +19,9 @@ In deze verordening wordt verstaan onder:
 | --- | --- | --- |
 |:---|:---|:---|
 |heffingsplichtige |: |een natuurlijk persoon of rechtspersoon of een niet rechtspersoonlijkheid bezittende vennootschap die één of meer ondernemingen waarvoor het bedrijfschap is ingesteld drijft of heeft gedreven gedurende enige periode in 2012; |
-|basisheffing |: |de heffing, bedoeld in [artikel 7, tweede lid, van het Instellingsbesluit Bedrijfschap Horeca en Catering](../../../../../../../../AMvB/instellingsbesluit/bedrijfschap/horeca/en/catering/BWBR0016029/README.md); |
-|loonsomheffing |: |de op de loonsom gebaseerde heffing, bedoeld in [artikel 7, eerste lid, van het Instellingsbesluit Bedrijfschap Horeca en Catering](../../../../../../../../AMvB/instellingsbesluit/bedrijfschap/horeca/en/catering/BWBR0016029/README.md); |
-|loonsom |: |het voor de premieheffing ingevolge de [Werkloosheidswet](../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) als loon der werknemers aan te merken bedrag voor aftrek van de franchise, van alle werknemers in alle door de heffingsplichtige gedreven ondernemingen. Met loonsom wordt gelijkgesteld de vergoeding, exclusief btw, die wordt uitgekeerd aan uitzendbureaus, payrollingbedrijven of overeenkomstige bedrijven, ten behoeve van het beschikbaar stellen van personeel, dat onder directe gezagsverhouding van de heffingsplichtige arbeid verricht in de door de heffingsplichtige gedreven ondernemingen; |
+|basisheffing |: |de heffing, bedoeld in artikel 7, tweede lid, van het Instellingsbesluit Bedrijfschap Horeca en Catering; |
+|loonsomheffing |: |de op de loonsom gebaseerde heffing, bedoeld in artikel 7, eerste lid, van het Instellingsbesluit Bedrijfschap Horeca en Catering; |
+|loonsom |: |het voor de premieheffing ingevolge de Werkloosheidswet als loon der werknemers aan te merken bedrag voor aftrek van de franchise, van alle werknemers in alle door de heffingsplichtige gedreven ondernemingen. Met loonsom wordt gelijkgesteld de vergoeding, exclusief btw, die wordt uitgekeerd aan uitzendbureaus, payrollingbedrijven of overeenkomstige bedrijven, ten behoeve van het beschikbaar stellen van personeel, dat onder directe gezagsverhouding van de heffingsplichtige arbeid verricht in de door de heffingsplichtige gedreven ondernemingen; |
 |heffing |: |het totaal van de basisheffing en de loonsomheffing; |
 |voorlopige heffing |: |de op basis van een schatting van de loonsom vastgestelde heffing; |
 |secretaris |: |de secretaris van het bedrijfschap |
@@ -65,7 +65,7 @@ b. Aan de heffingsplichtige wordt een aftrek toegekend op de basisheffing ter ho
 
 a. krachtens haar statutaire doelstelling haar werkzaamheid kan uitstrekken tot ten minste een belangrijk gedeelte van het terrein waarop het bedrijfschap een taak heeft te vervullen, 
 
-b. voldoet aan de kwalitatieve representativiteitcriteria, genoemd in de [Verordening representativiteit organisaties](../../../../../../../../pbo/verordening/representativiteit/organisaties/BWBR0011641/README.md) van de Sociaal-Economische Raad, 
+b. voldoet aan de kwalitatieve representativiteitcriteria, genoemd in de Verordening representativiteit organisaties van de Sociaal-Economische Raad, 
 
 c. tot de werkingssfeer van het bedrijfschap behorende leden heeft, waarvan het gewogen aantal niet-onbetekenend is, 
 
@@ -106,7 +106,7 @@ Materieel uitgewerkt per 01-01-2013
 1.  De heffing wordt vastgesteld na ontvangst van de opgave van de loonsom zoals bedoeld in artikel 3, eerste lid, dan wel op grond van gegevens als bedoeld in artikel 3, tweede lid. 
 2.  Na ontvangst van de opgave dan wel op grond van gegevens als bedoeld in artikel 3, tweede lid, kan een voorlopige heffing worden vastgesteld. 
 3.  Indien geen, een onvolledige of een kennelijk onjuiste opgave is gedaan wordt de heffing en de voorlopige heffing vastgesteld op basis van een schatting. 
-4.  Indien na vaststelling van de heffing ondernemingen van de heffingsplichtige met terugwerkende kracht worden opgenomen in het register van ondernemingen, genoemd in [artikel 2 van de Registratieverordening Bedrijfschap Horeca en Catering 2008](../../../../../../../../pbo/registratieverordening/bedrijfschap/horeca/en/catering/2008/BWBR0025199/README.md), kan de heffing opnieuw worden vastgesteld. 
+4.  Indien na vaststelling van de heffing ondernemingen van de heffingsplichtige met terugwerkende kracht worden opgenomen in het register van ondernemingen, genoemd in artikel 2 van de Registratieverordening Bedrijfschap Horeca en Catering 2008, kan de heffing opnieuw worden vastgesteld. 
 5.  Indien uit ter beschikking gekomen gegevens blijkt dat de heffing of de voorlopige heffing is vastgesteld op basis van onjuiste gegevens of een onjuiste schatting, kan een vastgestelde heffing worden herzien en opnieuw worden opgelegd.
 
 ###§  4  
@@ -127,7 +127,7 @@ a. kunnen administratiekosten in rekening worden gebracht, welke minimaal € 6,
 
 b. kan rente worden gevorderd over het verschuldigde bedrag van de dag af dat het verschuldigde bedrag betaald had moeten zijn; 
 
-c. kan vergoeding worden gevorderd van alle invorderingskosten. De rente wordt berekend naar het percentage bedoeld in [artikel 6:119](../../../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) jo [artikel 6:120 Burgerlijk Wetboek](../../../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md), dat geldt op de datum waarop de rente wordt gevorderd. De invorderingskosten worden vastgesteld volgens de staffel incassokosten kantonrechters. 
+c. kan vergoeding worden gevorderd van alle invorderingskosten. De rente wordt berekend naar het percentage bedoeld in artikel 6:119 jo artikel 6:120 Burgerlijk Wetboek, dat geldt op de datum waarop de rente wordt gevorderd. De invorderingskosten worden vastgesteld volgens de staffel incassokosten kantonrechters. 
 5.  Bij betaling van de heffing of voorlopige heffing binnen zes weken na dagtekening van een elektronisch beschikbaar gestelde nota kan een eenmalige aftrek worden toegekend op het openstaande bedrag van 10% van dat bedrag met een maximum van € 4,-.
 
 ###§  5  

@@ -3,9 +3,9 @@
 ##Besluit van het bestuur van het Productschap Tuinbouw van 14 november 2011, houdende de vaststelling van een bijzondere heffing teelt groenten en fruit 2012 (Verordening PT bijzondere heffing teelt groenten en fruit 2012)
 
 HET BESTUUR VAN HET PRODUCTSCHAP TUINBOUW, 
-gelet op de [artikelen 95](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+gelet op de artikelen 95 en 126 van de Wet op de bedrijfsorganisatie;
 
-gelet op de [artikelen 13](../../../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md) en [14 van het Instellingsbesluit Productschap Tuinbouw](../../../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md);
+gelet op de artikelen 13 en 14 van het Instellingsbesluit Productschap Tuinbouw;
 
 gehoord de Sectorcommissie voor groenten en fruit, d.d. 3 november 2011;
 BESLUIT: 
@@ -27,7 +27,7 @@ Deze verordening verstaat onder:
 | contractteelt  |: | de teelt van gewassen en producten ingevolge een overeenkomst waarbij het teeltrisico ligt bij de teler;   |
 | cultuurgrond  |: | beteelde grond, braakland, grond die gemoeid is met het gebruik van een groeimedium met behulp waarvan de in artikel 3  genoemde groenten en fruit kunnen worden geteeld, of de ten tijde van het tijdvak als genoemd in de Regeling Landbouwtelling nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet;  |
 | gemeten maat  |: | de oppervlakte van cultuurgrond, inclusief paden en voren die voor de teelt noodzakelijk zijn;  |
-| groenten en fruit  |: | producten als bedoeld in [artikel 3, lid 4, onderdeel a en b van het Instellingsbesluit Productschap Tuinbouw](../../../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md);   |
+| groenten en fruit  |: | producten als bedoeld in artikel 3, lid 4, onderdeel a en b van het Instellingsbesluit Productschap Tuinbouw;   |
 | ondernemer  |: | de afzonderlijke natuurlijke- of rechtspersoon die een onderneming drijft waarin de teelt van groenten en fruit wordt uitgeoefend;  |
 | omzet  |: | bruto omzet per kalenderjaar;  |
 | telen  |: | het telen van groenten en fruit, uitgangsmateriaal daaronder begrepen;  |
@@ -40,7 +40,7 @@ Deze verordening verstaat onder:
 ###Artikel  2  
 
 1.  De ondernemer die een onderneming drijft waarin groenten en fruit worden geteeld, is verplicht aan het productschap een heffing te betalen over het kalenderjaar 2012. Uit de opbrengst van deze heffing worden activiteiten ten behoeve van de teelt van groenten en fruit gefinancierd. 
-2.  De berekening van de heffing vindt plaats op basis van de door de ondernemer aan Dienst Regelingen van het ministerie van Economische Zaken, Landbouw en Innovatie verstrekte gegevens, of op basis van de bij of krachtens de [Verordening PT algemene bepalingen 2009](../../../../../../../../../../../pbo/verordening/pt/algemene/bepalingen/2009/BWBR0027562/README.md) aan het productschap verstrekte gegevens.
+2.  De berekening van de heffing vindt plaats op basis van de door de ondernemer aan Dienst Regelingen van het ministerie van Economische Zaken, Landbouw en Innovatie verstrekte gegevens, of op basis van de bij of krachtens de Verordening PT algemene bepalingen 2009 aan het productschap verstrekte gegevens.
 
 ###§  3  
 

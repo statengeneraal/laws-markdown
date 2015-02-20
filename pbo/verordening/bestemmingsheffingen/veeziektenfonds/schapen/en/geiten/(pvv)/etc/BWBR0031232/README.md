@@ -3,19 +3,19 @@
 ##Verordening van het Productschap Vee en Vlees van 26 oktober 2011, houdende de vaststelling van bestemmingsheffingen op schapen en geiten ten behoeve van het Veeziektenfonds PVV voor het jaar 2012 (Verordening bestemmingsheffingen veeziektenfonds schapen en geiten (PVV) 2012) 
 
 Het bestuur van het Productschap Vee en Vlees; 
-Gelet op de [artikelen 95](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [artikel 12 van het Instellingsbesluit Productschap Vee en Vlees](../../../../../../../../../../AMvB/instellingsbesluit/productschap/vee/en/vlees/BWBR0016491/README.md);
+Gelet op de artikelen 95 en 126 van de Wet op de bedrijfsorganisatie en artikel 12 van het Instellingsbesluit Productschap Vee en Vlees;
 
-Gezien de [Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(pvv)/2005/BWBR0017340/README.md);
+Gezien de Verordening algemene bepalingen heffingen (PVV) 2005;
 Besluit:  
 
 ###Artikel  1 
 Materieel uitgewerkt per 17-02-2013 
 
-1.  Deze verordening neemt de begripsbepalingen over van de [Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(pvv)/2005/BWBR0017340/README.md). In afwijking hiervan wordt verstaan onder:  
+1.  Deze verordening neemt de begripsbepalingen over van de Verordening algemene bepalingen heffingen (PVV) 2005. In afwijking hiervan wordt verstaan onder:  
 
 | --- | --- | --- | --- |
 |:---|:---|:---|:---|
-|a. |ondernemer |: |de natuurlijke of rechtspersoon die een onderneming drijft waarvoor het productschap is ingesteld en aan wie tenminste een uniek bedrijfsnummer is toegewezen als bedoeld in [artikel 3, eerste lid, van de Regeling identificatie en registratie dieren](../../../../../../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md) (Stcrt. 2004, 242); |
+|a. |ondernemer |: |de natuurlijke of rechtspersoon die een onderneming drijft waarvoor het productschap is ingesteld en aan wie tenminste een uniek bedrijfsnummer is toegewezen als bedoeld in artikel 3, eerste lid, van de Regeling identificatie en registratie dieren (Stcrt. 2004, 242); |
 |b. |schaap |: |dier dat behoort tot de familie der Bovidae en het geslacht Ovis; |
 |c. |geit |: |dier dat behoort tot de familie der Bovidae en het geslacht Capra. |
 
@@ -23,10 +23,10 @@ Materieel uitgewerkt per 17-02-2013
 
 | --- | --- | --- | --- |
 |:---|:---|:---|:---|
-|a. |UBN |: |uniek bedrijfsnummer als bedoeld in [artikel 3, eerste lid, van de Regeling identificatie en registratie dieren](../../../../../../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md) (Stcrt. 2004, 242); |
-|b. |Veeziektenfonds PVV |: |het fonds als bedoeld in [artikel 2, eerste lid, van de Verordening Veeziektenfonds (PVV) 2007](../../../../../../../../../../pbo/verordening/veeziektenfonds/(pvv)/2007/BWBR0022126/README.md); |
+|a. |UBN |: |uniek bedrijfsnummer als bedoeld in artikel 3, eerste lid, van de Regeling identificatie en registratie dieren (Stcrt. 2004, 242); |
+|b. |Veeziektenfonds PVV |: |het fonds als bedoeld in artikel 2, eerste lid, van de Verordening Veeziektenfonds (PVV) 2007; |
 |c. |peildatum |: |1 november van het jaar voorafgaande aan het jaar waarover de heffing wordt opgelegd; |
-|d. |erkend verzamelcentrum |: |een door de minister overeenkomstig [artikel 21, vierde lid, van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE's](../../../../../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md) (Stcrt. 2005, 120), erkend verzamelcentrum; |
+|d. |erkend verzamelcentrum |: |een door de minister overeenkomstig artikel 21, vierde lid, van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE's (Stcrt. 2005, 120), erkend verzamelcentrum; |
 |e. |erkende slachterij |: |een door de Voedsel en Waren Autoriteit erkende slachterij, overeenkomstig het bepaalde in artikel 4, tweede en derde lid, van Verordening (EG) nr. 853/2004 van het Europees Parlement en de Raad van 29 april 2004 houdende vaststelling van specifieke hygiënevoorschriften van levensmiddelen van dierlijke oorsprong (PB L 139). |
 
 ###Artikel  2 
@@ -50,7 +50,7 @@ Materieel uitgewerkt per 17-02-2013
 ###Artikel  5 
 Materieel uitgewerkt per 17-02-2013 
 
-Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de [Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(pvv)/2005/BWBR0017340/README.md).
+Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de Verordening algemene bepalingen heffingen (PVV) 2005.
 
 ###Artikel  6 
 Materieel uitgewerkt per 17-02-2013 

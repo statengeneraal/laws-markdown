@@ -3,9 +3,9 @@
 ##Besluit van het bestuur van het Productschap Tuinbouw van 19 september 2011, houdende de vaststelling van een heffing ten behoeve van hoveniersbedrijven (Verordening PT heffing hoveniersbedrijven 2012)
 
 HET BESTUUR VAN HET PRODUCTSCHAP TUINBOUW, 
-gelet op de [artikelen 95](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+gelet op de artikelen 95 en 126 van de Wet op de bedrijfsorganisatie;
 
-gelet op de [artikelen 13](../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md) en [14 van het Instellingsbesluit Productschap Tuinbouw](../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md);
+gelet op de artikelen 13 en 14 van het Instellingsbesluit Productschap Tuinbouw;
 
 gehoord de Commissie voor hovenierswerkzaamheden, d.d. ;
 BESLUIT: 
@@ -41,7 +41,7 @@ Materieel uitgewerkt per 31-03-2013
 Materieel uitgewerkt per 31-03-2013 
 
 1.  De ondernemer is jaarlijks een heffing aan het productschap verschuldigd. Uit de opbrengst van deze heffing worden projecten ten behoeve van de hovenierssector alsmede algemene kosten van het productschap gefinancierd. 
-2.  De heffing bedoeld in het eerste lid wordt berekend op basis van de ingevolge de [Verordening PT algemene bepalingen 2009](../../../../../../../pbo/verordening/pt/algemene/bepalingen/2009/BWBR0027562/README.md) door de ondernemer aan het productschap verstrekte gegevens.
+2.  De heffing bedoeld in het eerste lid wordt berekend op basis van de ingevolge de Verordening PT algemene bepalingen 2009 door de ondernemer aan het productschap verstrekte gegevens.
 
 ###§  3  
 

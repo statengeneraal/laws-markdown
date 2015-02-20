@@ -243,7 +243,7 @@ de inleenopdrachten op grond waarvan bij andere inleenbedrijven per inleenbedrij
 
 ####ONTSLAGEN IN DE ZORG
 
-1. Gelet op de bijzondere situatie van de dienstverlening in de zorg wordt voor het bepalen van de ontslagvolgorde van werknemers die een arbeidsverhouding hebben met een werkgever in de thuiszorg, de kraamzorg, de jeugdgezondheidszorg, met een verpleeg- of verzorgingshuis, of in de gehandicaptenzorg of de jeugdhulp, bij de toepassing van artikel 4:2, eerste lid, niet uitgegaan van de bedrijfsvestiging van de werkgever maar van de gemeente waarbinnen werkzaamheden komen te vervallen, tenzij een werkgever: 
+1. Gelet op de bijzondere situatie van de dienstverlening in de zorg wordt voor het bepalen van de ontslagvolgorde van werknemers die een arbeidsverhouding hebben met een werkgever in de thuiszorg, de kraamzorg, de jeugdgezondheidszorg, de geestelijke gezondheidszorg, met inbegrip van de verslavingszorg, met een verpleeg- of verzorgingshuis, of in de gehandicaptenzorg, in de branche welzijn en maatschappelijke dienstverlening of de jeugdhulp, bij de toepassing van artikel 4:2, eerste lid, niet uitgegaan van de bedrijfsvestiging van de werkgever maar van de gemeente waarbinnen werkzaamheden komen te vervallen, tenzij een werkgever: 
 
 a. binnen de betreffende gemeente beschikt over meerdere bedrijfsvestigingen, in welk geval bij de toepassing van artikel 4:2, eerste lid, wordt uitgegaan van die bedrijfsvestigingen; of  
 

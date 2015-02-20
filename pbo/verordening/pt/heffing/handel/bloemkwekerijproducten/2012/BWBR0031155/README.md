@@ -3,9 +3,9 @@
 ##Besluit van het bestuur van het Productschap Tuinbouw van 14 november 2011, houdende de vaststelling van een vakheffing voor de handel in bloemkwekerijproducten (Verordening PT heffing handel bloemkwekerijproducten 2012)
 
 HET BESTUUR VAN HET PRODUCTSCHAP TUINBOUW, 
-gelet op de [artikelen 93](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+gelet op de artikelen 93 en 126 van de Wet op de bedrijfsorganisatie;
 
-gelet op de [artikelen 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw](../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md);
+gelet op de artikelen 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw;
 
 gehoord de Commissie voor bloemkwekerijproducten, d.d. 24 oktober 2011;
 BESLUIT: 
@@ -18,8 +18,8 @@ Materieel uitgewerkt per 31-03-2013
 ###Artikel  1 
 Materieel uitgewerkt per 31-03-2013 
 
-1.  In deze verordening en de daarop berustende bepalingen worden overgenomen de begripsbepalingen van de [artikelen 1](../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md) en [2 van het Instellingsbesluit Productschap Tuinbouw](../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md). 
-2.  In deze verordening worden overgenomen de begripsbepalingen van [artikel 1:1](../../../../../../../../pbo/verordening/pt/algemene/bepalingen/2009/BWBR0027562/README.md) en [artikel 3:1](../../../../../../../../pbo/verordening/pt/algemene/bepalingen/2009/BWBR0027562/README.md) en de werkwijze beschreven in [hoofdstuk 3 van de Verordening PT Algemene bepalingen 2009](../../../../../../../../pbo/verordening/pt/algemene/bepalingen/2009/BWBR0027562/README.md). 
+1.  In deze verordening en de daarop berustende bepalingen worden overgenomen de begripsbepalingen van de artikelen 1 en 2 van het Instellingsbesluit Productschap Tuinbouw. 
+2.  In deze verordening worden overgenomen de begripsbepalingen van artikel 1:1 en artikel 3:1 en de werkwijze beschreven in hoofdstuk 3 van de Verordening PT Algemene bepalingen 2009. 
 3.  In deze verordening en de daarop berustende bepalingen wordt voorts verstaan onder:  
 
 | --- | --- | --- | --- |

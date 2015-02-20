@@ -3,9 +3,9 @@
 ##Besluit van het bestuur van het Productschap Tuinbouw van 14 november 2011, houdende de vaststelling van een bijzondere heffing verduurzaamde groenten en fruit (Verordening PT bijzondere heffing verduurzaamde groenten en fruit 2012)
 
 HET BESTUUR VAN HET PRODUCTSCHAP TUINBOUW, 
-gelet op de [artikelen 95](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+gelet op de artikelen 95 en 126 van de Wet op de bedrijfsorganisatie;
 
-gelet op de [artikelen 13](../../../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md) en [14 van het Instellingsbesluit Productschap Tuinbouw](../../../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md);
+gelet op de artikelen 13 en 14 van het Instellingsbesluit Productschap Tuinbouw;
 
 gehoord de Sectorcommissie voor groenten en fruit, d.d. 3 november 2011;
 BESLUIT: 
@@ -34,7 +34,7 @@ Deze verordening verstaat onder:
 ###Artikel  2 
 
 1.  De ondernemer die een onderneming drijft waarin groenten en fruit worden verduurzaamd, is over het kalenderjaar 2012 een heffing verschuldigd aan het productschap. Uit de opbrengst van deze heffing worden activiteiten ten behoeve van de verduurzaming van groenten en fruit gefinancierd. 
-2.  De berekening van de heffing vindt plaats op basis van de door de ondernemer aan het productschap ingevolge de [Verordening PT algemene bepalingen 2009](../../../../../../../../../../../pbo/verordening/pt/algemene/bepalingen/2009/BWBR0027562/README.md) verstrekte gegevens.
+2.  De berekening van de heffing vindt plaats op basis van de door de ondernemer aan het productschap ingevolge de Verordening PT algemene bepalingen 2009 verstrekte gegevens.
 
 ###§  3  
 

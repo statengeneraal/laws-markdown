@@ -3,7 +3,7 @@
 ##Besluit van het bestuur van het Productschap Tuinbouw van 14 november 2011, houdende de vaststelling van een bijzondere heffing handel groenten en fruit 2012 (Verordening PT bijzondere heffing handel groenten en fruit 2012)
 
 HET BESTUUR VAN HET PRODUCTSCHAP TUINBOUW, 
-gelet op de [artikelen 95](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en gelet op de [artikelen 13](../../../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md) en [14 van het Instellingsbesluit Productschap Tuinbouw](../../../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md);
+gelet op de artikelen 95 en 126 van de Wet op de bedrijfsorganisatie, en gelet op de artikelen 13 en 14 van het Instellingsbesluit Productschap Tuinbouw;
 
 gehoord de Sectorcommissie voor groenten en fruit, d.d. 3 november 2011;
 BESLUIT: 
@@ -25,7 +25,7 @@ Deze verordening verstaat onder:
 | afzetorganisatie/bemiddelaar  |: | natuurlijke of rechtspersoon die, voor zover niet voor eigen rekening en risico, in opdracht van of ten behoeve van telers de door hen geteelde groenten en fruit verkoopt;   |
 | bewerken  |: | handelingen waardoor van groenten en fruit gebruiksklare artikelen worden gemaakt, zoals schonen, schillen, schrappen, snijden, mengen, wassen en centrifugeren;  |
 | derde land  |: | een land dat geen lid is van de Europese Unie;  |
-| groenten en fruit   |: | producten als bedoeld in [artikel 3, vierde lid, onder a en b, van het Instellingsbesluit Productschap Tuinbouw](../../../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md);  |
+| groenten en fruit   |: | producten als bedoeld in artikel 3, vierde lid, onder a en b, van het Instellingsbesluit Productschap Tuinbouw;  |
 | handelen  |: | aankopen of importeren van vers of bewerkt fruit (met uitzondering van slaggrondnoten en kopra) en groenten (met uitzondering van zaden van groenten) en het verkopen daarvan;  |
 | noten  |: | amandelen, cashewnoten, hazelnoten, paranoten, pecannoten, pistachenoten en walnoten in welke vorm dan ook, gepeld, ongepeld, gedroogd, geblancheerd, gebrand, ongebrand, gezouten, gemengd, gebroken, geschaafd of verduurzaamd;  |
 | ondernemer  |: | natuurlijke of rechtspersoon die een onderneming drijft waarin de handel wordt uitgeoefend in verse of bewerkte groenten en fruit;  |
@@ -38,7 +38,7 @@ Deze verordening verstaat onder:
 ###Artikel  2 
 
 1.  De ondernemer die een onderneming drijft, met als activiteit het verhandelen of bewerken van groenten en fruit, is over het kalenderjaar 2012 een heffing verschuldigd aan het productschap. Uit de opbrengst van deze heffing worden projecten ten behoeve van de handel in groenten en fruit gefinancierd. 
-2.  De berekening van de heffing vindt plaats op basis van de door de ondernemer aan het productschap ingevolge de bij of krachtens de [Verordening PT Algemene bepalingen 2009](../../../../../../../../../../../pbo/verordening/pt/algemene/bepalingen/2009/BWBR0027562/README.md), verstrekte gegevens.
+2.  De berekening van de heffing vindt plaats op basis van de door de ondernemer aan het productschap ingevolge de bij of krachtens de Verordening PT Algemene bepalingen 2009, verstrekte gegevens.
 
 ###§  3  
 

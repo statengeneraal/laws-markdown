@@ -3,7 +3,7 @@
 ##Verordening van het Hoofdbedrijfschap voor de Agrarische Groothandel van 7 november 2011, houdende regels ter zake van de aan de ondernemers die de groothandel in groenten en fruit uitoefenen op te leggen bestemmingsheffing voor het jaar 2012 (Verordening HBAG bestemmingsheffing promotieactiviteiten groothandel groenten en fruit 2012)
 
 Het bestuur van het Hoofdbedrijfschap voor de Agrarische Groothandel,  
-gelet op [artikel 126 van de Wet op de Bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op [artikel 13 van het instellingsbesluit Hoofdbedrijfschap voor de Agrarische Groothandel](../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md) (Staatsblad 2002 nr. 155), heeft na advies van de Commissie groenten en fruit de volgende verordening vastgesteld:
+gelet op artikel 126 van de Wet op de Bedrijfsorganisatie en op artikel 13 van het instellingsbesluit Hoofdbedrijfschap voor de Agrarische Groothandel (Staatsblad 2002 nr. 155), heeft na advies van de Commissie groenten en fruit de volgende verordening vastgesteld:
 Besluit:    
 ###§ 1 
 
@@ -18,7 +18,7 @@ In deze verordening wordt overgenomen de terminologie van het Instellingsbesluit
 
 1.voorzitter: de voorzitter van het Hoofdbedrijfschap voor de Agrarische Groothandel;
 
-2.HBAG Commissie groenten en fruit: de op grond van [artikel 5 van het Instellingsbesluit Hoofdbedrijfschap voor de Agrarische Groothandel](../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md) ingestelde commissie groenten en fruit;
+2.HBAG Commissie groenten en fruit: de op grond van artikel 5 van het Instellingsbesluit Hoofdbedrijfschap voor de Agrarische Groothandel ingestelde commissie groenten en fruit;
 
 3.ondernemer: de natuurlijke of rechtspersoon die een onderneming drijft waarvoor het bedrijfschap is ingesteld;
 
@@ -61,8 +61,8 @@ Aan de ondernemers die in 2012 het bedrijf van de groothandel in groenten en fru
 ###Artikel 3 
 Materieel uitgewerkt per 22-12-2012 
 
-1. De heffing wordt berekend op basis van de door de ondernemers op grond van [artikel 3 lid 4](../../../../../../../../pbo/verordening/hbag/registratie-/verstrekking/van/gegevens/en/controle/2007/BWBR0023757/README.md) en [artikel 6 van de Verordening HBAG registratie, verstrekking van gegevens en controle 2007](../../../../../../../../pbo/verordening/hbag/registratie-/verstrekking/van/gegevens/en/controle/2007/BWBR0023757/README.md) verstrekte gegevens. 
-2. De [artikelen 4](../../../../../../../../pbo/verordening/hbag/heffing/groenten/en/fruit/2012/BWBR0031146/README.md), [6](../../../../../../../../pbo/verordening/hbag/heffing/groenten/en/fruit/2012/BWBR0031146/README.md) en [7 van de Verordening HBAG heffing groenten en fruit 2012](../../../../../../../../pbo/verordening/hbag/heffing/groenten/en/fruit/2012/BWBR0031146/README.md) zijn van overeenkomstige toepassing. 
+1. De heffing wordt berekend op basis van de door de ondernemers op grond van artikel 3 lid 4 en artikel 6 van de Verordening HBAG registratie, verstrekking van gegevens en controle 2007 verstrekte gegevens. 
+2. De artikelen 4, 6 en 7 van de Verordening HBAG heffing groenten en fruit 2012 zijn van overeenkomstige toepassing. 
 3. Indien door het verstrekken van onjuiste omzetgegevens de heffing te laag is vastgesteld, trekt de voorzitter de heffingsbeschikking in en legt een nieuwe beschikking op. 
 
 ###§ 3 
@@ -76,7 +76,7 @@ Materieel uitgewerkt per 22-12-2012
 
 1. De ondernemer is verplicht de vastgestelde heffing binnen een maand na dagtekening van de heffingsbeschikking te betalen. 
 2. Indien de ondernemer na het verstrijken van de in het eerste lid genoemde termijn de heffing niet of niet volledig heeft betaald, zendt de voorzitter de ondernemer een herinnering.
-3. Indien de ondernemer de heffing binnen twee weken na de dagtekening van de herinnering niet of niet volledig heeft betaald, maant de voorzitter de ondernemer schriftelijk aan om alsnog binnen tien dagen te betalen. Indien niet binnen de termijn wordt betaald, zal overeenkomstig [artikel 127, lid 1 van de Wet op de Bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) worden ingevorderd.
+3. Indien de ondernemer de heffing binnen twee weken na de dagtekening van de herinnering niet of niet volledig heeft betaald, maant de voorzitter de ondernemer schriftelijk aan om alsnog binnen tien dagen te betalen. Indien niet binnen de termijn wordt betaald, zal overeenkomstig artikel 127, lid 1 van de Wet op de Bedrijfsorganisatie worden ingevorderd.
 4. Indien het derde lid wordt toegepast, brengt de voorzitter de ondernemer administratiekosten in rekening.
 
 ###§ 4 

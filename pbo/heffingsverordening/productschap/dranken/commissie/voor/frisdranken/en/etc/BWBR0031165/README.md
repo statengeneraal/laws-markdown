@@ -5,13 +5,13 @@
 Het Bestuur van het Productschap Dranken;  
 gelet op:
 
-[artikel 93](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+artikel 93 en 126 van de Wet op de bedrijfsorganisatie;
 
-de [artikelen 12](../../../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md) en [14 van het Instellingsbesluit Productschap Dranken](../../../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md);
+de artikelen 12 en 14 van het Instellingsbesluit Productschap Dranken;
 
 gezien:
 
-het advies van de Commissie ex [artikel 5 lid 1 onder a van het Instellingsbesluit Productschap Dranken](../../../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md);
+het advies van de Commissie ex artikel 5 lid 1 onder a van het Instellingsbesluit Productschap Dranken;
 besluit: vast te stellen de navolgende verordening.   
 ###§ 1 
 
@@ -22,20 +22,20 @@ Materieel uitgewerkt per 29-12-2012
 ###Artikel 1 
 Materieel uitgewerkt per 29-12-2012 
 
-1. Deze verordening neemt de terminologie over van de [Wet op de Bedrijfsorganisatie](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) (Wet van 27 januari 1950, Staatsblad K 22) en het [Instellingsbesluit Productschap Dranken](../../../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md) (Besluit d.d. 6 mei 2002, Staatsblad 264), voorzover daarvan hieronder niet wordt afgeweken. 
+1. Deze verordening neemt de terminologie over van de Wet op de Bedrijfsorganisatie (Wet van 27 januari 1950, Staatsblad K 22) en het Instellingsbesluit Productschap Dranken (Besluit d.d. 6 mei 2002, Staatsblad 264), voorzover daarvan hieronder niet wordt afgeweken. 
 2. 2. In deze verordening wordt voorts verstaan onder: 
 
 a.het Bestuur: het bestuur van het Productschap Dranken;
 
-b.de Commissie: een orgaan als bedoeld in [artikel 88a van de Wet op de bedrijfsorganisatie](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), hier: de Commissie voor frisdranken en waters ex [artikel 5 lid 1 a van het Instellingsbesluit Productschap Dranken](../../../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md);
+b.de Commissie: een orgaan als bedoeld in artikel 88a van de Wet op de bedrijfsorganisatie, hier: de Commissie voor frisdranken en waters ex artikel 5 lid 1 a van het Instellingsbesluit Productschap Dranken;
 
 c.frisdrank: de drank als bedoeld onder post 2202 van de Gecombineerde Nomenclatuur als bedoeld in de EEG-verordening nr. 2658/87 van 23 juli 1987 (Pb L256), met uitzondering van vruchtendranken als bedoeld in Richtlijn 2001/112/EG van 20 december 2001 (Pb 2002, L 10) en alcoholvrij bier;
 
-d.het Instellingsbesluit: het [Instellingsbesluit Productschap Dranken](../../../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md);
+d.het Instellingsbesluit: het Instellingsbesluit Productschap Dranken;
 
 e.ondernemer: een natuurlijke of rechtspersoon, die een onderneming als bedoeld in deze Verordening drijft;
 
-f.onderneming: een onderneming als bedoeld in [artikel 3 lid 2 sub a van het Instellingsbesluit](../../../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md);
+f.onderneming: een onderneming als bedoeld in artikel 3 lid 2 sub a van het Instellingsbesluit;
 
 g.omzet: de omzet in hectoliters als fabrikant van frisdranken, siropen, waters en poeders, respectievelijk de geldomzet als groothandelaar in bier en frisdranken, siropen, waters en poeders;
 
@@ -53,7 +53,7 @@ m.de Verordening: de Heffingsverordening Productschap Dranken / Commissie voor f
 
 n.water: de drank als bedoeld onder post 2201 van de Gecombineerde Nomenclatuur van de EEG-verordening van 23 juli 1987 (Pb L256);
 
-o.de Wet: de [Wet op de bedrijfsorganisatie](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md).  
+o.de Wet: de Wet op de bedrijfsorganisatie.  
 
 ###§ 2 
 
@@ -158,7 +158,7 @@ b.niet onder vermelding of aanduiding van de persoon en/of onderneming, waarop z
 
 c.in door het bestuur aan te wijzen gevallen, waarin dit naar zijn oordeel in het belang is van de bedrijfsgenoten, bekend worden gemaakt aan de Staat, andere publiekrechtelijk organen of naar het oordeel van het bestuur daarmede gelijk te stellen publiekrechtelijke instellingen, indien de verstrekking van deze gegevens voortvloeit uit het doel van de registratie en de persoonlijke levenssfeer van de geregistreerden door de verstrekking van deze gegevens niet onevenredig wordt geschaad. 
 2. Bekendmaking van gegevens, als bedoeld in het eerste lid, blijft ook achterwege in gevallen, waarin uit de aard der gegevens of uit een of meer andere omstandigheden zou kunnen blijken, op welke persoon en/of onderneming de gegevens betrekking hebben. 
-3. Het personeel van het secretariaat is met het oog op de [Wet bescherming persoonsgegevens](../../../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) verplicht tot geheimhouding van de gegevens tegenover een ieder, met uitzondering van de accountants en de leden van vorenbedoeld accountantskantoor en behoudens de eerdergenoemde toestemming van de betrokken belanghebbende. 
+3. Het personeel van het secretariaat is met het oog op de Wet bescherming persoonsgegevens verplicht tot geheimhouding van de gegevens tegenover een ieder, met uitzondering van de accountants en de leden van vorenbedoeld accountantskantoor en behoudens de eerdergenoemde toestemming van de betrokken belanghebbende. 
 
 ###Artikel 6 
 Materieel uitgewerkt per 29-12-2012 
