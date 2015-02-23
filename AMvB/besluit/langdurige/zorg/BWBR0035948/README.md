@@ -22,6 +22,8 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 *ADL-assistentie:* gedurende het gehele etmaal direct oproepbare assistentie bij algemene dagelijkse levensverrichtingen in en om de ADL-woning, bedoeld in artikel 1.1.1 van de wet, waaronder alarmopvolging bij een noodoproep;  
 
+*belasting:*
+
 1°. indien over het peiljaar een aanslag of navorderingsaanslag inkomstenbelasting is of wordt vastgesteld: over dat jaar verschuldigde inkomstenbelasting, bedoeld in artikel 2.7 van de Wet inkomstenbelasting 2001, vermeerderd met de over dat jaar verschuldigde premie voor de volksverzekeringen, bedoeld in artikel 9 van de Wet financiering sociale verzekeringen;  
 
 2°. in de overige gevallen: in dat jaar ingehouden loonbelasting, bedoeld in artikel 20 van de Wet op de loonbelasting 1964, vermeerderd met de in dat jaar ingehouden premie voor de volksverzekeringen bedoeld in artikel 9 van de Wet financiering sociale verzekeringen;    
@@ -35,6 +37,8 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 *gebruikelijke zorg:* normale, dagelijkse zorg die ouders geacht worden te bieden aan inwonende kinderen;  
 
 *grondslag sparen en beleggen:* grondslag sparen en beleggen, bedoeld in artikel 5.2, eerste lid, van de Wet inkomstenbelasting 2001;  
+
+*inkomen:*
 
 1°. indien over het peiljaar een aanslag of navorderingsaanslag inkomstenbelasting is of wordt vastgesteld: inkomensgegeven, bedoeld in artikel 21, onderdeel e, onder 1°, van de Algemene wet inzake rijksbelastingen;  
 

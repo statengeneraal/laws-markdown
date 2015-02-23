@@ -3,7 +3,7 @@
 ##Verordening van het Hoofdbedrijfschap Detailhandel van 1 november 2011, houdende de vaststelling van de bestemmingsheffing detailhandel in wild en gevogelte voor het jaar 2012 (Verordening bestemmingsheffing detailhandel in wild en gevogelte 2012)
 
 Het bestuur van het Hoofdbedrijfschap Detailhandel; 
-Gelet op de [artikelen 95, tweede lid](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en [126 van de Wet op de Bedrijfsorganisatie](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+Gelet op de artikelen 95, tweede lid, en 126 van de Wet op de Bedrijfsorganisatie;
 
 Gezien het advies van de Commissie voor de detailhandel in wild en gevogelte; 
 Besluit: 
@@ -15,7 +15,7 @@ Besluit:
 
 In deze verordening wordt verstaan onder: 
 
-a.een onderneming: een onderneming waarvoor het hoofdbedrijfschap is ingesteld als bedoeld in [artikel 3 van het Instellingsbesluit Hoofdbedrijfschap Detailhandel](../../../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/detailhandel/BWBR0017190/README.md);
+a.een onderneming: een onderneming waarvoor het hoofdbedrijfschap is ingesteld als bedoeld in artikel 3 van het Instellingsbesluit Hoofdbedrijfschap Detailhandel;
 
 b.de ondernemer: degene die een onderneming drijft dan wel degenen die gezamenlijk een onderneming drijven;
 
@@ -31,7 +31,7 @@ d.detailhandel in wild en gevogelte: het verkopen van wild en gevogelte aan part
 
 e.ambulante handel: markthandel, straathandel en handel te water;
 
-f.bestemmingsheffing: de heffing die is gebaseerd op [artikel twaalf, tweede lid, van het Instellingsbesluit Hoofdbedrijfschap Detailhandel](../../../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/detailhandel/BWBR0017190/README.md); 
+f.bestemmingsheffing: de heffing die is gebaseerd op artikel twaalf, tweede lid, van het Instellingsbesluit Hoofdbedrijfschap Detailhandel; 
 
 g.de voorzitter: de voorzitter van het Hoofdbedrijfschap Detailhandel. 
 
@@ -59,7 +59,7 @@ b. Een filiaalheffing van € 267,- voor elke tweede en volgende verkoopplaats v
 
 ###Artikel  4 
 
-De [artikelen 6 tot en met 17 van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2012](../../../../../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/detailhandel/2012/BWBR0031127/README.md) zijn van overeenkomstige toepassing.
+De artikelen 6 tot en met 17 van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2012 zijn van overeenkomstige toepassing.
 
 ###Artikel  5 
 
