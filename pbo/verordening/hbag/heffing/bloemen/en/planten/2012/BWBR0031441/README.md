@@ -3,7 +3,7 @@
 ##Verordening van het Hoofdbedrijfschap voor de Agrarische Groothandel van 13 januari 2012, houdende regels ter zake van de aan de onder het Hoofdbedrijfschap voor de Agrarische Groothandel ressorterende ondernemers op te leggen heffing voor het jaar 2012 (Verordening HBAG heffing bloemen en planten 2012)
 
 Het bestuur van het Hoofdbedrijfschap voor de Agrarische Groothandel; 
-Gelet op [artikel 93](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [artikel 126 van de Wet op de bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op [artikel 13 van het Instellingsbesluit Hoofdbedrijfschap Agrarische Groothandel](../../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md);
+Gelet op artikel 93 en artikel 126 van de Wet op de bedrijfsorganisatie en op artikel 13 van het Instellingsbesluit Hoofdbedrijfschap Agrarische Groothandel;
 
 Gelet op het advies van de Commissie bloemkwekerijproducten van 30 november 2011;
 Besluit: 
@@ -26,10 +26,10 @@ In deze verordening wordt overgenomen de terminologie van het Instellingsbesluit
 |d. |hydrocultuur: |siergewassen die bestemd zijn voor gebruik in plantenbakken of potten, waarbij de plant met zijn wortels houvast heeft in poreuze korrels in een bak of pot, met daarin een laag water en voedingsstoffen; |
 |e. |teeltmateriaal: |planten en plantendelen, die bestemd zijn voor de teelt van bloemkwekerijproducten, of om ter vermeerdering te dienen dan wel daartoe gebruikt worden; |
 |f. |telersvereniging: |een samenwerkingsverband van producenten van bloemkwekerijproducten; |
-|g. |onderneming: |een onderneming als bedoeld in [artikel 3, tweede lid, aanhef en onder b. van het Instellingsbesluit Hoofdbedrijfschap Agrarische Groothandel](../../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md); |
+|g. |onderneming: |een onderneming als bedoeld in artikel 3, tweede lid, aanhef en onder b. van het Instellingsbesluit Hoofdbedrijfschap Agrarische Groothandel; |
 |h. |ondernemer: |de natuurlijke persoon of rechtspersoon of een niet rechtspersoonlijkheid bezittende vennootschap die gedurende enige periode in 2012 een onderneming drijft of heeft gedreven; |
 |i. |veiling: |een organisatie die bemiddelt bij aan- en verkopen van bloemkwekerijproducten. |
-|j. |commissie: |de Commissie bloemkwekerijproducten van het hoofdbedrijfschap als ingesteld in [artikel 5 van het Instellingsbesluit Hoofdbedrijfschap Agrarische Groothandel](../../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md); |
+|j. |commissie: |de Commissie bloemkwekerijproducten van het hoofdbedrijfschap als ingesteld in artikel 5 van het Instellingsbesluit Hoofdbedrijfschap Agrarische Groothandel; |
 |k. |secretaris: |de secretaris van de commissie. |
 
 ###§  2  

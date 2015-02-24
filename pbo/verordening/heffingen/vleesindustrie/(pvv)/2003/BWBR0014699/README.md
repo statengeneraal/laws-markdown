@@ -3,7 +3,7 @@
 ##Verordening heffingen vleesindustrie (PVV) 2003
 
 Het bestuur van het Productschap Vee en Vlees heeft,
-gelet op [artikel 126 van de Wet op de Bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en 
+gelet op artikel 126 van de Wet op de Bedrijfsorganisatie, en 
 
 de artikelen 10 en 15 van de Instellingsverordening Productschap Vee en Vlees 1999-1,
 

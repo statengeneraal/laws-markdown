@@ -16,7 +16,7 @@ In deze regeling wordt verstaan onder:
 
 **Adviseur in de zin van Actie E:* een natuurlijk persoon, niet zijnde een werknemer van de subsidieaanvrager, die in het kader van de uitoefening van zijn beroep of bedrijf als adviseur werkzaam is op het gebied van sociale innovatie in arbeidsorganisaties door middel van gedragsbeïnvloeding of cultuurverandering;
 
-*  *arbeidsbelemmerde:* een persoon die jegens het college van burgemeester en wethouders van zijn woonplaats uitsluitend aanspraak heeft op een uitkering op grond van de Wet werk en bijstand (WWB), naar het oordeel van dat college, gebaseerd op een door een arts of arbeidsdeskundige afgegeven verklaring een structurele functionele beperking heeft en jegens het UWV geen aanspraak heeft op een uitkering, danwel een persoon die naar het oordeel van dat college behoort tot de doelgroep als bedoeld in artikel 1 sub e van de Tijdelijke wet pilot loondispensatie;  
+*  *arbeidsbelemmerde:* een persoon die jegens het college van burgemeester en wethouders van zijn woonplaats uitsluitend aanspraak heeft op een uitkering op grond van de Wet werk en bijstand of op grond van de Participatiewet, naar het oordeel van dat college, gebaseerd op een door een arts of arbeidsdeskundige afgegeven verklaring een structurele functionele beperking heeft en jegens het UWV geen aanspraak heeft op een uitkering, danwel een persoon die naar het oordeel van dat college behoort tot de doelgroep als bedoeld in artikel 1 sub e van de Tijdelijke wet pilot loondispensatie;  
 
 *  *begunstigde:* de subsidieaanvrager aan wie krachtens deze regeling subsidie is verleend;  
 
@@ -46,7 +46,7 @@ In deze regeling wordt verstaan onder:
 
 *  *jongere:* een persoon van 15 jaar of ouder doch jonger dan 28 jaar;  
 
-* *jonggehandicapte:* de persoon die recht heeft op arbeidsondersteuning of een arbeidsongeschiktheidsuitkering op grond van de Wet werk en arbeidsondersteuning jonggehandicapten; 
+* *jonggehandicapte:* de persoon die recht heeft op arbeidsondersteuning of een arbeidsongeschiktheidsuitkering op grond van de Wet werk en arbeidsondersteuning jonggehandicapten of de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten; 
 
 *  *laaggekwalificeerd:* een opleiding hebbend tot en met MBO-4 niveau;  
 
@@ -54,7 +54,7 @@ In deze regeling wordt verstaan onder:
 
 *  *minister:* de minister van Sociale Zaken en Werkgelegenheid;  
 
-*  *niet-uitkeringsontvanger:* een werkloze persoon van 16 jaar en ouder, doch jonger dan de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, die geen uitkering of inkomensvoorziening ontvangt op grond van de Wet werk en bijstand, de IOAW, de IOAZ, de Wet werk en arbeidsondersteuning jonggehandicapten, de Wet werk en inkomen naar arbeidsvermogen, de Wet op de arbeidsongeschiktheidsverzekering, de Toeslagenwet, de Tijdelijke wet beperking inkomensgevolgen arbeidsongeschiktheidscriteria, of de Algemene nabestaandenwet, dan wel op grond van een regeling die met deze wetten naar aard en strekking overeenstemt;  
+*  *niet-uitkeringsontvanger:* een werkloze persoon van 16 jaar en ouder, doch jonger dan de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, die geen uitkering of inkomensvoorziening ontvangt op grond van de Wet werk en bijstand of op grond van de Participatiewet, de IOAW, de IOAZ, de Wet werk en arbeidsondersteuning jonggehandicapten, de Wet werk en inkomen naar arbeidsvermogen, de Wet op de arbeidsongeschiktheidsverzekering, de Toeslagenwet, de Tijdelijke wet beperking inkomensgevolgen arbeidsongeschiktheidscriteria, of de Algemene nabestaandenwet, dan wel op grond van een regeling die met deze wetten naar aard en strekking overeenstemt;  
 
 *  *oudere:* een persoon van 45 jaar of ouder, doch jonger dan de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet;  
 
@@ -86,7 +86,7 @@ In deze regeling wordt verstaan onder:
 
 *  *werkende:* een persoon, jonger dan de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, die op grond van een arbeidsovereenkomst, dan wel een aanstelling in openbare dienst, arbeid verricht als werknemer, uitzendkracht of die arbeid verricht als zelfstandige zonder personeel;  
 
-*  *WWB-uitkering:* uitkering op grond van de Wet werk en bijstand;  
+*  *bijstandsuitkering:* uitkering op grond van de Wet werk en bijstand of de Participatiewet;  
 
 *  *55-plusser:* een persoon van 55 jaar of ouder, doch jonger dan de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet.   
 
@@ -217,8 +217,19 @@ h. het project reeds uit anderen hoofde wordt gefinancierd ten laste van Europes
 
 a. Actie E, hoofdstuk I, vitale bedrijven, bedraagt 75% van de subsidiabele kosten, doch ten hoogste het in de beschikking tot subsidieverlening vermelde maximumbedrag;  
 
-b. Actie E, hoofdstuk II, duurzame inzetbaarheid sectoren, bedraagt 50% van de subsidiabele kosten, doch ten hoogste het in de beschikking tot subsidieverlening vermelde maximumbedrag.     
-3.  Indien de subsidieaanvrager krachtens een overeenkomst dan wel een toezegging als bedoeld in artikel 8, achtste lid, jegens een derde terzake van de uitvoering van een gesubsidieerd project als bedoeld in het eerste en tweede lid aanspraak heeft op betaling van een bedrag dat meer bedraagt dan 60%, respectievelijk 25% van de subsidiabele kosten, dan wel indien de subsidieaanvrager bij zijn subsidieaanvraag een schriftelijke toezegging heeft gedaan dat hij meer dan 60%, respectievelijk 25% van de subsidiabele kosten voor eigen rekening zal nemen, wordt de subsidie verlaagd met dit meerdere.  
+b. Actie E, hoofdstuk II, duurzame inzetbaarheid sectoren, bedraagt 50% van de subsidiabele kosten, doch ten hoogste het in de beschikking tot subsidieverlening vermelde maximumbedrag;  
+
+c. Actie Jeugd 1, voor zover de aanvraag door de minister is ontvangen in de periode van 2 december 2013 tot en met 17 januari 2014, bedraagt in afwijking van het eerste lid 60% van de subsidiabele kosten. Het in de beschikking tot subsidieverlening vermelde maximumbedrag wordt ambtshalve verhoogd overeenkomstig het subsidiepercentage van 60%.    
+3.  De subsidie wordt verlaagd met het meerdere indien de subsidieaanvrager krachtens een overeenkomst dan wel een toezegging als bedoeld in artikel 8, achtste lid, jegens een derde aanspraak heeft op betaling van een bedrag dat meer bedraagt dan: 
+
+a. 60% van de subsidiabele kosten ter zake van de uitvoering van een gesubsidieerd project als bedoeld in het eerste lid;  
+
+b. 25% van de subsidiabele kosten ter zake van de uitvoering van een gesubsidieerd project als bedoeld in het tweede lid, onderdeel a;  
+
+c. 50% van de subsidiabele kosten ter zake van de uitvoering van een gesubsidieerd project als bedoeld in het tweede lid, onderdeel b;  
+
+d. 40% van de subsidiabele kosten ter zake van de uitvoering van een gesubsidieerd project als bedoeld in het tweede lid, onderdeel c.     
+4.  Het derde lid is van overeenkomstige toepassing indien de subsidieaanvrager bij zijn subsidieaanvraag een schriftelijke toezegging heeft gedaan dat hij een bedrag voor zijn rekening zal nemen dat meer bedraagt dan het bij het project behorende percentage, bedoeld in het derde lid, onderdelen a tot en met d. 
 
 ### Artikel  13  
 
@@ -226,7 +237,7 @@ b. Actie E, hoofdstuk II, duurzame inzetbaarheid sectoren, bedraagt 50% van de s
 
 1.  Voor subsidiering komen uitsluitend in aanmerking: 
 
-a. de noodzakelijke kosten die door of op verzoek van de begunstigde daadwerkelijk zijn gemaakt ter uitvoering van de subsidiabele projectactiviteiten, zoals opgenomen in Bijlage 1, die ten laste van de begunstigde zijn gebleven en zijn betaald uiterlijk binnen zes weken na het indienen van de eindverantwoording en die rechtstreeks aan de uitvoering en het beheer van het project zijn toe te rekenen. Dit onderdeel is niet van toepassing op subsidieaanvragen in het kader van Actie C, voor zover het exploitatiekosten betreft, die zijn gerelateerd aan de uitvoering van subsidiabele projectactiviteiten,  
+a. de noodzakelijke kosten die door of op verzoek van de begunstigde daadwerkelijk zijn gemaakt ter uitvoering van de subsidiabele projectactiviteiten, zoals opgenomen in Bijlage 1, die ten laste van de begunstigde zijn gebleven en zijn betaald uiterlijk binnen zes weken na het indienen van de eindverantwoording doch uiterlijk op 31 december 2015 en die rechtstreeks aan de uitvoering en het beheer van het project zijn toe te rekenen. Dit onderdeel is niet van toepassing op subsidieaanvragen in het kader van Actie C, voor zover het exploitatiekosten betreft, die zijn gerelateerd aan de uitvoering van subsidiabele projectactiviteiten,  
 
 b. kosten voor overhead en aan overhead gerelateerde exploitatiekosten tot een maximum van 20% van de in beschikking tot subsidievaststelling opgenomen, voor subsidie in aanmerking komende kosten op grond van de subsidiabele projectactiviteiten per actie, zoals opgenomen in Bijlage 1. Dit onderdeel is niet van toepassing op Actie E. Tevens is dit onderdeel niet van toepassing op subsidieaanvragen in het kader van Actie C, voor zover het aan overhead gerelateerde exploitatiekosten betreft,  
 
@@ -254,7 +265,7 @@ b. kosten van het project die qua prijsniveau niet in een redelijke verhouding s
 
 c. kosten van inkomensvervangende betalingen of uitkeringen aan deelnemers, niet zijnde loonbetalingen;  
 
-d. loonkosten verbonden aan werkervaringsplaatsen en dienstbetrekkingen welke zijn aangegaan of bekostigd in het kader van de Wet werk en bijstand, uitgezonderd hetgeen is bepaald in artikel 13, eerste lid, onderdeel c;  
+d. loonkosten verbonden aan werkervaringsplaatsen en dienstbetrekkingen welke zijn aangegaan of bekostigd in het kader van de Wet werk en bijstand, of de Participatiewet, uitgezonderd hetgeen is bepaald in artikel 13, eerste lid, onderdeel c;  
 
 e. loonkosten van een persoon die in het kader van de Wet sociale werkvoorziening een dienstverband met de gemeente dan wel met een reguliere werkgever heeft;  
 
@@ -419,9 +430,9 @@ Een project in het kader van hoofdstuk I, gemeenten, richt zich op personen die 
 
 a. niet-uitkeringsontvangers;  
 
-b. arbeidsbelemmerden, dan wel gedeeltelijk-arbeidsgeschikten met een aanvullende WWB-uitkering, een aanvullende IOAW-uitkering, een aanvullende IOAZ-uitkering, of een uitkering van het UWV, alsmede jonggehandicapten;  
+b. arbeidsbelemmerden, dan wel gedeeltelijk-arbeidsgeschikten met een aanvullende WWB-uitkering, een bijstandsuitkering op grond van de Participatiewet, een aanvullende IOAW-uitkering, een aanvullende IOAZ-uitkering, of een uitkering van het UWV, alsmede jonggehandicapten;  
 
-c. 55-plussers met een WWB-uitkering, een IOAW-uitkering, een IOAZ- uitkering, of een uitkering van het UWV.   
+c. 55-plussers met een WWB-uitkering, een bijstandsuitkering op grond van de Participatiewet, een IOAW-uitkering, een IOAZ- uitkering, of een uitkering van het UWV.   
 
 ### Artikel  A7  
 
@@ -497,7 +508,7 @@ Een project in het kader van dit hoofdstuk richt zich op personen die behoren to
 
 a. arbeidsbelemmerden;  
 
-b. gedeeltelijk-arbeidsgeschikten met een aanvullende WWB-uitkering, een aanvullende IOAW-uitkering, een aanvullende IOAZ-uitkering, of een uitkering van het UWV;  
+b. gedeeltelijk-arbeidsgeschikten met een aanvullende WWB-uitkering, een bijstandsuitkering op grond van de Participatiewet, een aanvullende IOAW-uitkering, een aanvullende IOAZ-uitkering, of een uitkering van het UWV;  
 
 c. jonggehandicapten.   
 
@@ -1083,7 +1094,7 @@ c. voor aanvragen ten behoeve van projecten in het kader van Actie Jeugd 1, inge
 
 d. voor aanvragen ten behoeve van projecten in het kader van Actie Jeugd 2, ingediend in 2010: € 25.000.000,–;  
 
-e. voor aanvragen ten behoeve van projecten in het kader van Actie Jeugd 1, ingediend in de periode van 2 december 2013 tot en met 17 januari 2014: € 44.000.000,–. 
+e. voor aanvragen ten behoeve van projecten in het kader van Actie Jeugd 1, ingediend in de periode van 2 december 2013 tot en met 17 januari 2014: € 61.600.000,–. 
 
 ### Artikel  J4  
 
@@ -1105,7 +1116,7 @@ Een project in het kader van Actie J heeft tot doel het voorkomen van jeugdwerkl
 
 ####Specifieke eisen
 
-Een project in het kader van Actie Jeugd komt slechts voor subsidie in aanmerking indien: 
+1.Een project in het kader van Actie Jeugd komt slechts voor subsidie in aanmerking indien: 
 
 a. het project past binnen het doel, zoals omschreven in artikel J 4;  
 
@@ -1115,7 +1126,9 @@ c. het project in het kader van Actie Jeugd 2 als bedoeld in artikel J2, tweede 
 
 c. bij de aanvraag van een project door een O&O-fonds een sectorarrangement is overgelegd;  
 
-d. de kosten van het project van een O&O-fonds meer bedragen dan € 1.250.000,–.   
+d. de kosten van het project van een O&O-fonds meer bedragen dan € 1.250.000,–.  
+
+2.In afwijking van het eerste lid, onderdeel b, heeft een project in het kader van Actie Jeugd 1 als bedoeld in artikel J2, eerste lid, een duur tot uiterlijk 1 november 2015, indien de aanvraag door de minister is ontvangen in de periode van 2 december 2013 tot en met 17 januari 2014. De duur van de subsidieverlening wordt ambtshalve tot 1 november 2015 verlengd. 
 
 ### Artikel  J7  
 
@@ -1286,46 +1299,45 @@ De in deze bijlage omschreven procedures gelden voor bewijsstukken – zoals ben
 | Breda  | West-Brabant  | 1.290.000  |
 | --- | --- |  *35.000.000*   |
 
-### Bijlage 5  
+### Bijlage 5 
 
-####behorend bij artikel J5, derde lid, van de Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 24 augustus 2009, nr. R&P/RA/2009/17756, tot de besteding van gelden uit het Europees Sociaal Fonds 2007-2013 (Subsidieregeling ESF 2007-2013 (herzien))
+####behorend bij artikel J5, derde lid, van de Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 24 augustus 2009, nr. R&P/RA/2009/17756, tot de besteding van gelden uit het Europees Sociaal Fonds 2007–2013 (Subsidieregeling ESF 2007–2013 (herzien))
 
 | Arbeidsmarktregio  | Coördinerende gemeente  | Subsidieplafond 2013–2015 (euro’s)  |
 |:---|:---|:---|
-| 1. Groningen  | Groningen  | € 2.414.000  |
-| 2. Friesland  | Leeuwarden  | € 1.851.500  |
-| 3. Drenthe  | Emmen  | € 871.500  |
-| 4. Noord-Holland Noord  | Alkmaar  | € 1.035.000  |
-| 5. Zaanstreek/Waterland  | Zaanstad  | € 625.000  |
-| 6. Flevoland  | Almere  | €1.211.000  |
-| 7. IJsselvechtstreek  | Zwolle  | €976.000  |
-| 8. Kennemerland (Zuid)  | Haarlem  | € 645.000  |
-| 9. Amsterdam (Groot)  | Amsterdam  | € 1.744.000  |
-| 10. Gooi- en Vechtstreek  | Hilversum  | € 318.500  |
-| 11. Stedenvierkant  | Apeldoorn  | € 1.200.000  |
-| 12. Twente  | Enschede  | € 1.622.500  |
-| 13. Holland (Rijnland)  | Leiden  | € 664.500  |
-| 14. Utrecht (Oost)  | Amersfoort  | €  499.5000  |
-| 15. Haaglanden  | Den Haag  | € 1.961.000  |
-| 16. Holland (Midden)  | Gouda  | € 423.000  |
-| 17. Utrecht (Midden)  | Utrecht  | € 1.182.000  |
-| 18. Gelderland (Midden)  | Arnhem  | € 856.500  |
-| 19. Achterhoek  | Doetinchem  | € 556.500  |
-| 20. Rijnmond  | Rotterdam  | € 4.110.500  |
-| 21. Drechtsteden  | Dordrecht  | € 400.500  |
-| 22. Rivierenland  | Tiel  | € 426.000  |
-| 23. Gelderland (Zuid)  | Nijmegen  | €1.046.500  |
-| 24. Brabant (Noord-Oost)  | ‘s-Hertogenbosch  | € 1.131.500  |
-| 25. Zeeland  | Goes  | € 610.000  |
-| 26. Brabant (West)  | Breda  | € 1.116.000  |
-| 27. Brabant (Midden)  | Tilburg  | € 1.092.000  |
-| 28. Limburg (Noord)  | Venlo  | € 610.500  |
-| 29. Brabant (Zuid-Oost)  | Eindhoven  | €1.002.000  |
-| 30. Limburg (Zuid)  | Heerlen  | € 1.532.500  |
-| 31. Zuid-Holland (Centraal)  | Zoetermeer  | € 768.000  |
-| 32. Food Valley  | Ede  | € 454.000  |
-| 33. Gorinchem  | Gorinchem  | € 225.500  |
-| 34. Helmond-De Peel  | Helmond  | € 555.500  |
-| 35. Limburg (Midden)  | Roermond  | € 352.500  |
-| Totaal  | --- | € 36.095.000  |
+| 1. Groningen  | Groningen  | € 4.332.811  |
+| 2. Friesland  | Leeuwarden  | € 3.128.400  |
+| 3. Drenthe  | Emmen  | € 1.415.448  |
+| 4. Noord-Holland Noord  | Alkmaar  | € 1.669.122  |
+| 5. Zaanstreek/Waterland  | Zaanstad  | € 937.500  |
+| 6. Flevoland  | Almere  | € 2.360.685  |
+| 7. IJsselvechtstreek  | Zwolle  | € 1.073.722  |
+| 8. Kennemerland (Zuid)  | Haarlem  | € 1.218.549  |
+| 9. Amsterdam (Groot)  | Amsterdam  | € 5.993.016  |
+| 10. Gooi- en Vechtstreek  | Hilversum  | € 685.200  |
+| 11. Stedenvierkant  | Apeldoorn  | € 1.923.900  |
+| 12. Twente  | Enschede  | € 2.502.066  |
+| 13. Holland (Rijnland)  | Leiden  | € 1.350.000  |
+| 14. Utrecht (Oost)  | Amersfoort  | € 749.250  |
+| 15. Haaglanden  | Den Haag  | € 3.691.650  |
+| 16. Holland (Midden)  | Gouda  | € 630.000  |
+| 17. Utrecht (Midden)  | Utrecht  | € 2.592.198  |
+| 18. Gelderland (Midden)  | Arnhem  | € 1.312.104  |
+| 19. Achterhoek  | Doetinchem  | € 1.067.286  |
+| 20. Rijnmond  | Rotterdam  | € 4.717.741  |
+| 21. Drechtsteden  | Dordrecht  | € 746.616  |
+| 22. Rivierenland  | Tiel  | € 630.000  |
+| 23. Gelderland (Zuid)  | Nijmegen  | € 1.615.068  |
+| 24. Brabant (Noord-Oost)  | ‘s-Hertogenbosch  | € 1.889.859  |
+| 25. Zeeland  | Goes  | € 2.101.947  |
+| 26. Brabant (West)  | Breda  | € 2.008.800  |
+| 27. Brabant (Midden)  | Tilburg  | € 1.694.280  |
+| 28. Limburg (Noord)  | Venlo  | € 447.336  |
+| 29. Brabant (Zuid-Oost)  | Eindhoven  | € 1.547.239  |
+| 30. Limburg (Zuid)  | Heerlen  | € 2.758.500  |
+| 31. Zuid-Holland (Centraal)  | Zoetermeer  | € 1.158.784  |
+| 32. Food Valley  | Ede  | € 460.278  |
+| 33. Gorinchem  | Gorinchem  | € 350.400  |
+| 34. Helmond-De Peel  | Helmond  | € 832.500  |
+| Totaal  | --- | € 61.592.255  |
 

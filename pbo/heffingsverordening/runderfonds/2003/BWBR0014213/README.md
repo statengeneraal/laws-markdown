@@ -14,7 +14,7 @@ Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de V
 ###Artikel 2 
 Materieel uitgewerkt per 08-05-2004 
 
-1. Op de voet van het bepaalde in [artikel 2 van de Verordening huishoudelijke heffing dieren 2003](../../../../../pbo/verordening/huishoudelijke/heffing/dieren/2003/BWBR0014253/README.md) is voor het Runderfonds een heffing verschuldigd op runderen van € 3,17 per rund.
+1. Op de voet van het bepaalde in artikel 2 van de Verordening huishoudelijke heffing dieren 2003 is voor het Runderfonds een heffing verschuldigd op runderen van € 3,17 per rund.
 2. De heffing, bedoeld in het eerste lid, wordt niet opgelegd voor een dier, ten aanzien waarvan naar genoegen van het productschap wordt aangetoond, dat de periode tussen het tijdstip van invoer en het tijdstip van slacht onderscheidenlijk de periode tussen het tijdstip van invoer en het tijdstip van uitvoer korter is dan drie maanden.
 
 ###Artikel 3 

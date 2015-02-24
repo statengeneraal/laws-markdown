@@ -3,7 +3,7 @@
 ##Verordening bestemmingsheffing onderzoekfonds aanvoersector 2003
 
 Het bestuur van het Productschap Vis heeft, 
-gelet op de [artikelen 93](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op artikel 5, 6 en 9 van de Instellingsverordening Productschap Vis, op 26 september 2002 de navolgende verordening vastgesteld.
+gelet op de artikelen 93, 95 en 126 van de Wet op de bedrijfsorganisatie en op artikel 5, 6 en 9 van de Instellingsverordening Productschap Vis, op 26 september 2002 de navolgende verordening vastgesteld.
 
 ###Artikel 1 
 
@@ -16,7 +16,7 @@ gelet op de [artikelen 93](../../../../../../../wet/wet/op/de/bedrijfsorganisati
 |Voorzitter |: |de voorzitter van het Productschap; |
 |Commissie aanvoeraangelegenheden  |: |de commissie ingesteld door het bestuur voor het adviseren over aangelegenheden betreffende de aanvoer; |
 |Ondernemer |: |een natuurlijke of rechtspersoon die een onderneming drijft waarvoor het Productschap is ingesteld; |
-|Vis  |: |alle door uitoefening van de zee- of kustvisserij, in de zin van [artikel 1, vierde lid, van de Visserijwet 1963](../../../../../../../wet/visserijwet/1963/BWBR0002416/README.md), verkregen soorten vis, schaal- of schelpdieren en alle door uitoefening van de IJsselmeervisserij verkregen soorten vis, een en ander met uitzondering van mosselen, oesters, kokkels, spisula, strandschelpen, zwaardscheden, mesheften en nonnetjes |
+|Vis  |: |alle door uitoefening van de zee- of kustvisserij, in de zin van artikel 1, vierde lid, van de Visserijwet 1963, verkregen soorten vis, schaal- of schelpdieren en alle door uitoefening van de IJsselmeervisserij verkregen soorten vis, een en ander met uitzondering van mosselen, oesters, kokkels, spisula, strandschelpen, zwaardscheden, mesheften en nonnetjes |
 |Mosselen  |: |schelpdieren van het geslacht mytilus of het geslacht perna;  |
 |Oesters |: |schelpdieren van de soort Ostrea edulis of de soort Crassostrea gigas;  |
 |Kokkels |: |schelpdieren van de soort Cerastoderma edule  |
@@ -26,7 +26,7 @@ gelet op de [artikelen 93](../../../../../../../wet/wet/op/de/bedrijfsorganisati
 |Nonnetjes  |: |schelpdieren van de soort Macoma baltkica.  |
 |Aanvoerder  |: |een ondernemer die vis aanvoert; |
 |Onderzoekfonds aanvoersector |: |het fonds ingesteld krachtens artikel 1, eerste lid, van de Verordening onderzoekfonds aanvoersector; |
-|Heffìngsverordening  |: |de [Heffingsverordening 2003](../../../../../../../pbo/heffingsverordening/2003/BWBR0015544/README.md). |
+|Heffìngsverordening  |: |de Heffingsverordening 2003. |
 
 2. Voor de toepassing van het bepaalde in deze verordening vindt het aanvoeren plaats op het tijdstip waarop het vissersvaartuig direct of indirect verbinding met de wal heeft gekregen.
 
@@ -39,7 +39,7 @@ a.0,1 promille van de waarde van de aangevoerde vis;
 b.4 promille van de waarde van de aangevoerde kokkels;
 
 c.6 promille van de waarde van de aangevoerde spisula, strandschelpen, zwaardscheden mesheften, en nonnetjes.
-2. De ondernemer die oesters verhandelt is aan het Productschap, ten behoeve van het Onderzoekfonds aanvoersector, een heffing verschuldigd van 4,41 promille over de omzet, zoals is bepaald in [artikel 4a, derde lid, van de Heffingsverordening 2003](../../../../../../../pbo/heffingsverordening/2003/BWBR0015544/README.md), welke hij het afgelopen seizoen heeft gerealiseerd.
+2. De ondernemer die oesters verhandelt is aan het Productschap, ten behoeve van het Onderzoekfonds aanvoersector, een heffing verschuldigd van 4,41 promille over de omzet, zoals is bepaald in artikel 4a, derde lid, van de Heffingsverordening 2003, welke hij het afgelopen seizoen heeft gerealiseerd.
 3. De ondernemer die één of meer oesterpercelen in eigendom heeft en/of huurt is aan het Productschap, ten behoeve van het Onderzoekfonds aanvoersector, een heffing verschuldigd van € 3,33 per hectare per oesterperceel per kalenderjaar.
 4. De ondernemer die in het bezit is van een visvergunning voor vrije gronden is aan het Productschap, ten behoeve van het Onderzoekfonds aanvoersector, een heffing verschuldigd van € 285,- per visvergunning voor vrije gronden per kalenderjaar.
 5. De ondernemer die in het bezit is van een vergunning voor de mechanische kokkelvisserij is aan het Productschap, ten behoeve van het Onderzoekfonds aanvoersector, een heffing verschuldigd van:
@@ -54,9 +54,9 @@ a.vrijgesteld van de heffing als bedoeld in het derde lid onder de voorwaarde da
 b.vrijgesteld van de heffing als bedoeld in het vierde lid onder de voorwaarde dat het bedrag aan heffing op grond van deze bepaling lager is dan het bedrag aan heffing als bedoeld in het derde lid.
 7. De heffing als bedoeld in het derde en vierde lid bedraagt per kalenderjaar maximaal € 640,-.
 8. 
-a.De waarde van de aangevoerde vis, als bedoeld in het eerste lid, onder a, wordt vastgesteld overeenkomstig het bepaalde in [artikel 8 van de Heffingsverordening 2003](../../../../../../../pbo/heffingsverordening/2003/BWBR0015544/README.md).
+a.De waarde van de aangevoerde vis, als bedoeld in het eerste lid, onder a, wordt vastgesteld overeenkomstig het bepaalde in artikel 8 van de Heffingsverordening 2003.
 
-b.De waarde van de kokkels, spisula, strandschelpen, zwaardscheden, mesheften en nonnetjes, als bedoeld in het eerste lid, onder b en c, wordt vastgesteld overeenkomstig het bepaalde in [artikel 9 van de Heffìngsverordening 2003](../../../../../../../pbo/heffingsverordening/2003/BWBR0015544/README.md).
+b.De waarde van de kokkels, spisula, strandschelpen, zwaardscheden, mesheften en nonnetjes, als bedoeld in het eerste lid, onder b en c, wordt vastgesteld overeenkomstig het bepaalde in artikel 9 van de Heffìngsverordening 2003.
 
 ###Artikel 3 
 
@@ -64,7 +64,7 @@ Het bestuur stelt geen heffing, als bedoeld in artikel 2, eerste lid, vast dan n
 
 ###Artikel 4 
 
-Met betrekking tot de door de aanvoerder te verstrekken gegevens ten behoeve van de vaststelling van de krachtens deze verordening verschuldigde heffing, is het bepaalde in de [artikelen 11](../../../../../../../pbo/heffingsverordening/2003/BWBR0015544/README.md) en [12 van de Heffingsverordening 2003](../../../../../../../pbo/heffingsverordening/2003/BWBR0015544/README.md) van overeenkomstige toepassing.
+Met betrekking tot de door de aanvoerder te verstrekken gegevens ten behoeve van de vaststelling van de krachtens deze verordening verschuldigde heffing, is het bepaalde in de artikelen 11 en 12 van de Heffingsverordening 2003 van overeenkomstige toepassing.
 
 ###Artikel 5 
 

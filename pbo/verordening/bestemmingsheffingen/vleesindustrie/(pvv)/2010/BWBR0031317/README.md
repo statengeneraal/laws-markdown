@@ -3,20 +3,20 @@
 ##Verordening van het Productschap Vee en Vlees van 14 december 2011, houdende de vaststelling van een bestemmingsheffing ten behoeve van de vleesindustrie voor het jaar 2010 (Verordening bestemmingsheffingen vleesindustrie (PVV) 2010)
 
 Het bestuur van het Productschap Vee en Vlees;  
-Gelet op de [artikelen 95](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [artikel 12 van het Instellingsbesluit Productschap Vee en Vlees](../../../../../../../AMvB/instellingsbesluit/productschap/vee/en/vlees/BWBR0016491/README.md);
+Gelet op de artikelen 95 en 126 van de Wet op de bedrijfsorganisatie en artikel 12 van het Instellingsbesluit Productschap Vee en Vlees;
 
-Gezien de [Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(pvv)/2005/BWBR0017340/README.md);
+Gezien de Verordening algemene bepalingen heffingen (PVV) 2005;
 Besluit:    
 
 ###Artikel 1 
 Materieel uitgewerkt per 12-02-2012 
 
-Deze verordening neemt over de begripsbepalingen van de [Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(pvv)/2005/BWBR0017340/README.md) en de [Verordening huishoudelijke heffingen (PVV) 2010](../../../../../../../pbo/verordening/huishoudelijke/heffingen/(pvv)/2010/BWBR0027204/README.md) en verstaat voorts onder: 
+Deze verordening neemt over de begripsbepalingen van de Verordening algemene bepalingen heffingen (PVV) 2005 en de Verordening huishoudelijke heffingen (PVV) 2010 en verstaat voorts onder: 
 
 | --- | --- | --- |
 |:---|:---|:---|
-|a. fonds sociale aangelegenheden |: |fonds als bedoeld in [artikel 1 van de Verordening fonds sociale aangelegenheden vleesindustrie (PVV) 2003](../../../../../../../pbo/verordening/fonds/sociale/aangelegenheden/vleesindustrie/(pvv)/2003/BWBR0015353/README.md); |
-|b. O & O fonds |: |fonds als bedoeld in [artikel 1 van de Verordening O & O fonds vleesindustrie (PVV) 2003](../../../../../../../pbo/verordening/o/&/o/fonds/vleesindustrie/(pw)/2003/BWBR0015358/README.md); |
+|a. fonds sociale aangelegenheden |: |fonds als bedoeld in artikel 1 van de Verordening fonds sociale aangelegenheden vleesindustrie (PVV) 2003; |
+|b. O & O fonds |: |fonds als bedoeld in artikel 1 van de Verordening O & O fonds vleesindustrie (PVV) 2003; |
 |c. f.t.e. |: |fulltime-equivalent van de werknemer waarbij de fulltime-equivalent gemiddeld 36 uur per week bedraagt; |
 |d. werknemer |: |eenieder die werkzaam is in een onderneming in de vleesindustrie, waaronder begrepen: |
 | --- | --- |- eenieder die een arbeidsovereenkomst in de zin van het Burgerlijk Wetboek is aangegaan met de ondernemer die de onderneming in stand houdt; |
@@ -36,12 +36,12 @@ Materieel uitgewerkt per 12-02-2012
 1. Aan de ondernemer, die voor het jaar 2010 contributie heeft betaald als lid of indirect lid van een volgens het vierde lid aangewezen ondernemersorganisatie, wordt op zijn verzoek een aftrek toegestaan op het bedrag dat de ondernemer aan heffingen is verschuldigd op grond van deze verordening. 
 2. De in het eerste lid bedoelde aftrek beloopt 40% van het bedrag dat de ondernemer als contributie voor het jaar 2010 aan de betreffende ondernemersorganisatie heeft betaald tot ten hoogste 40% van het bedrag dat de ondernemer aan heffingen is verschuldigd op grond van deze verordening. 
 3. Indien de ondernemer, naast de aftrek als bedoeld in het eerste lid, op grond van een andere heffingsverordening van het productschap aanspraak maakt op aftrek in verband met betaalde contributie als lid of indirect lid van een overeenkomstig het vierde lid aangewezen ondernemersorganisatie, dan kan de som hiervan niet meer bedragen dan 50% van de contributie die door de ondernemer aan de aangewezen ondernemersorganisatie voor het jaar 2010 is betaald. 
-4. De in het eerste lid bedoelde ondernemersorganisatie wordt aangewezen door het bestuur, met inachtneming van het bepaalde in het [Besluit beleidsregels Bestuurskamer](../../../../../../../pbo/besluit/beleidsregels/bestuurskamer/BWBR0015680/README.md) van de Sociaal-Economische Raad.
+4. De in het eerste lid bedoelde ondernemersorganisatie wordt aangewezen door het bestuur, met inachtneming van het bepaalde in het Besluit beleidsregels Bestuurskamer van de Sociaal-Economische Raad.
 
 ###Artikel 4 
 Materieel uitgewerkt per 12-02-2012 
 
-Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de [Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(pvv)/2005/BWBR0017340/README.md). 
+Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de Verordening algemene bepalingen heffingen (PVV) 2005. 
 
 ###Artikel 5 
 Materieel uitgewerkt per 12-02-2012 

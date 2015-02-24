@@ -3,7 +3,7 @@
 ##Verordening van het Hoofdbedrijfschap Afbouw en Onderhoud, houdende regels ter zake van de aan de onder het Hoofdbedrijfschap Afbouw en Onderhoud ressorterende ondernemers op te leggen heffing voor het jaar 2003 (Heffingsverordening 2003)
 
 HET BESTUUR VAN HET HOOFDBEDRIJFSCHAP AFBOUW EN ONDERHOUD,
-Gelet op de [artikelen 93](../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de Bedrijfsorganisatie](../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [artikel 10 van het Instellingsbesluit Hoofdbedrijfschap Afbouw en Onderhoud](../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/afbouw/en/onderhoud/BWBR0013863/README.md),
+Gelet op de artikelen 93 en 126 van de Wet op de Bedrijfsorganisatie en artikel 10 van het Instellingsbesluit Hoofdbedrijfschap Afbouw en Onderhoud,
 Besluit: VERORDENING
 ###§ 1 
 

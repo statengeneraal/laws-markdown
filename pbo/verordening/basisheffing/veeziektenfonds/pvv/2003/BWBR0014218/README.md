@@ -3,7 +3,7 @@
 ##Verordening basisheffing veeziektenfonds PVV 2003
 
 Het bestuur van het Productschap Vee en Vlees heeft,
-gelet op de [artikel 126 van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en de artikelen 10 en 75 van de Instellingsverordening Productschap Vee en Vlees 1999-1,
+gelet op de artikel 126 van de Wet op de bedrijfsorganisatie, en de artikelen 10 en 75 van de Instellingsverordening Productschap Vee en Vlees 1999-1,
 op 13 november 2002 vastgesteld de navolgendeVERORDENING
 
 ###Artikel 1 
@@ -19,7 +19,7 @@ Materieel uitgewerkt per 21-02-2004
 ###Artikel 2 
 Materieel uitgewerkt per 21-02-2004 
 
-1. Op voet van het bepaalde in [artikel 2 van de Verordening huishoudelijke heffing dieren 2003](../../../../../../../pbo/verordening/huishoudelijke/heffing/dieren/2003/BWBR0014253/README.md) is voor het veeziektenfonds PVV een heffing verschuldigd ten bedrage van:
+1. Op voet van het bepaalde in artikel 2 van de Verordening huishoudelijke heffing dieren 2003 is voor het veeziektenfonds PVV een heffing verschuldigd ten bedrage van:
 
 a.€ 0,23 per varken ten behoeve van de rekening-I-varkens;
 

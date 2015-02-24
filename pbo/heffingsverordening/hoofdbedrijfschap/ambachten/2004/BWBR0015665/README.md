@@ -3,7 +3,7 @@
 ##Verordening van het Hoofdbedrijfschap Ambachten van 1 oktober 2003, houdende regels terzake van de aan de onder het hoofdbedrijfschap ressorterende ondernemers op te leggen heffing Hoofdbedrijfschap Ambachten voor het jaar 2004 (Heffingsverordening Hoofdbedrijfschap Ambachten 2004)
 
 Het Bestuur van het Hoofdbedrijfschap Ambachten;
-Gelet op [artikel 95, tweede lid](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+Gelet op artikel 95, tweede lid en 126 van de Wet op de bedrijfsorganisatie;
 Besluit:
 ###§ 1 
 
@@ -20,7 +20,7 @@ a.instellingsverordening: Instellingsverordening Hoofdbedrijfschap Ambachten;
 
 b.de ondernemer: degene die een onderneming drijft dan wel degenen die gezamenlijk een onderneming drijven;
 
-c.werkzame personen: personen als bedoeld in [artikel 9, derde lid, van het Handelsregisterbesluit 1996](../../../../../../AMvB/handelsregisterbesluit/1996/BWBR0008920/README.md) die betrokken zijn bij de uitoefening van een in artikel 2 van de instellingsverordening genoemd bedrijf;
+c.werkzame personen: personen als bedoeld in artikel 9, derde lid, van het Handelsregisterbesluit 1996 die betrokken zijn bij de uitoefening van een in artikel 2 van de instellingsverordening genoemd bedrijf;
 
 d.de voorzitter: de voorzitter van het Hoofdbedrijfschap Ambachten.
 
@@ -87,7 +87,7 @@ d.Kleinbedrijf Nederlanden over het jaar 2003 de volledige contributie heeft bet
 
 a.krachtens haar statutaire doelstelling haar werkzaamheid kan uitstrekken tot ten minste een belangrijk gedeelte van het terrein waarop het bedrijfslichaam een taak heeft te vervullen;
 
-b.voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de [artikelen 3 tot en met 7 van de Verordening representativiteit organisaties](../../../../../../pbo/verordening/representativiteit/organisaties/BWBR0011641/README.md);
+b.voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de artikelen 3 tot en met 7 van de Verordening representativiteit organisaties;
 
 c.tot de werkingssfeer van het bedrijfslichaam behorende leden heeft, waarvan het gewogen aantal niet-onbetekenend is;
 

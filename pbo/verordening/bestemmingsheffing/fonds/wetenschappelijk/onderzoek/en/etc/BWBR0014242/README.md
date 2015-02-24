@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Dranken van 13 november 2002 houdende vaststelling van de bestemmingsheffing ten behoeve van het Fonds voor Wetenschappelijk Onderzoek en Voorlichting voor het jaar 2003 (Verordening Fonds Wetenschappelijk Onderzoek en Voorlichting 2003)
 
 Het bestuur van het Productschap Dranken heeft, 
-gelet op [artikel 93 2<sup>e</sup> lid ad g](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [artikel 126, vierde lid van de Wet op de Bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en [artikel 12 van het Instellingsbesluit Productschap Dranken](../../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md), gehoord de Commissie voor gedistilleerd, besloten de navolgende verordening vast te stellen:
+gelet op artikel 93 2<sup>e</sup> lid ad g, artikel 126, vierde lid van de Wet op de Bedrijfsorganisatie, en artikel 12 van het Instellingsbesluit Productschap Dranken, gehoord de Commissie voor gedistilleerd, besloten de navolgende verordening vast te stellen:
 
 ###§ 1 
 
@@ -52,7 +52,7 @@ hetzij door vermenging van ethylalcohol uit landbouwproducten met water;
 
 7.Productschap: Het Productschap Dranken;
 
-8.Commissie: De Commissie voor gedistilleerd (de Commissie ex 88a WBO, ingesteld bij het [Instellingsbesluit Productschap Dranken](../../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md)).
+8.Commissie: De Commissie voor gedistilleerd (de Commissie ex 88a WBO, ingesteld bij het Instellingsbesluit Productschap Dranken).
 
 9.Secretaris: De secretaris van de Commissie voor gedistilleerd.
 
@@ -110,13 +110,13 @@ Materieel uitgewerkt per 01-01-2006
 ###Artikel 6 
 Materieel uitgewerkt per 01-01-2006 
 
-1. Ondernemingen als bedoeld in [artikel 3 lid 2 sub c van het Instellingsbesluit Productschap Dranken](../../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md) zijn op grond van [artikel 93 2<sup>℮</sup> lid van de Wet op de Bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) gehouden aan de secretaris opgave te doen van de hoeveelheid van de per heffingsperiode bereide en in het verkeer gebrachte gedistilleerde en/of zwak gedistilleerde dranken. De secretaris draagt zorg voor de vertrouwelijkheid van de aldus verkregen informatie.
-2. Oplegging van de heffing geschiedt door toezending door de secretaris van een heffingsaanslag conform de in artikel 5 van deze verordening vastgestelde heffing aan de ondernemingen overeenkomstig [artikel 3, tweede lid, sub c van het Instellingsbesluit Productschap Dranken](../../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md).
+1. Ondernemingen als bedoeld in artikel 3 lid 2 sub c van het Instellingsbesluit Productschap Dranken zijn op grond van artikel 93 2<sup>℮</sup> lid van de Wet op de Bedrijfsorganisatie gehouden aan de secretaris opgave te doen van de hoeveelheid van de per heffingsperiode bereide en in het verkeer gebrachte gedistilleerde en/of zwak gedistilleerde dranken. De secretaris draagt zorg voor de vertrouwelijkheid van de aldus verkregen informatie.
+2. Oplegging van de heffing geschiedt door toezending door de secretaris van een heffingsaanslag conform de in artikel 5 van deze verordening vastgestelde heffing aan de ondernemingen overeenkomstig artikel 3, tweede lid, sub c van het Instellingsbesluit Productschap Dranken.
 
 ###Artikel 7 
 Materieel uitgewerkt per 01-01-2006 
 
-Het bestuur van de Commissie voor gedistilleerd kan besluiten dat artikel 5 van deze Verordening niet van toepassing is ten aanzien van een door haar te bepalen periode.De secretaris geeft indien hiertoe besloten is, hiervan kennis aan de ondernemingen ex [artikel 3, tweede lid sub c van het Instellingsbesluit Productschap Dranken](../../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md).
+Het bestuur van de Commissie voor gedistilleerd kan besluiten dat artikel 5 van deze Verordening niet van toepassing is ten aanzien van een door haar te bepalen periode.De secretaris geeft indien hiertoe besloten is, hiervan kennis aan de ondernemingen ex artikel 3, tweede lid sub c van het Instellingsbesluit Productschap Dranken.
 
 ###§ 4 
 

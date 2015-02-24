@@ -3,7 +3,7 @@
 ##Heffingsverordening Veehandel (PVV) 2003
 
 Het Bestuur van het Productschap Vee en Vlees heeft,
-gelet op [artikel 126, lid 1 van de Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op artikel 10 en 15 van de instellingsverordening Productschap Vee en Vlees 1999-I,
+gelet op artikel 126, lid 1 van de Wet op de bedrijfsorganisatie en op artikel 10 en 15 van de instellingsverordening Productschap Vee en Vlees 1999-I,
 
 op 12 februari 2003 vastgesteld de navolgende
 VERORDENING 
@@ -78,7 +78,7 @@ c.personen, niet begrepen onder a) en b), werkzaam als op voet van ondergeschikt
 
 krachtens haar statutaire doelstelling haar werkzaamheid kan uitstrekken tot ten minste een belangrijk gedeelte van het terrein waarop het productschap een taak heeft te vervullen;
 
-voldoet aan de kwalitatieve representativiteitscriteria, genoemd in [artikel 3 tot en met 7 van paragraaf 2 van de Verordening Representativiteit Organisaties](../../../../../../pbo/verordening/representativiteit/organisaties/BWBR0011641/README.md);
+voldoet aan de kwalitatieve representativiteitscriteria, genoemd in artikel 3 tot en met 7 van paragraaf 2 van de Verordening Representativiteit Organisaties;
 
 tot de werkingssfeer van het productschap behorende leden heeft, waarvan het gewogen aantal niet-onbetekenend is;
 

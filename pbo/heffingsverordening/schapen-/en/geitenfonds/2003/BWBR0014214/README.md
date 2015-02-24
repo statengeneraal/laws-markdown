@@ -14,7 +14,7 @@ Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de V
 ###Artikel 2 
 Materieel uitgewerkt per 21-02-2004 
 
-1. Op de voet van het bepaalde in [artikel 2 van de Verordening huishoudelijke heffing dieren 2003](../../../../../../../pbo/verordening/huishoudelijke/heffing/dieren/2003/BWBR0014253/README.md) is voor het schapen- en geitenfonds een heffing verschuldigd op schapen en geiten van € 0,49 per schaap en € 0,41 per geit.
+1. Op de voet van het bepaalde in artikel 2 van de Verordening huishoudelijke heffing dieren 2003 is voor het schapen- en geitenfonds een heffing verschuldigd op schapen en geiten van € 0,49 per schaap en € 0,41 per geit.
 2. In afwijking van het bepaalde in het eerste lid is, indien ten genoege van het PVV is aangetoond dat het een jonge geit betreft, per jonge geit een heffing verschuldigd van € 0,15.
 3. De heffing, bedoeld in het eerste lid, wordt niet opgelegd voor een dier, ten aanzien waarvan ten genoege van het productschap wordt aangetoond, dat de periode tussen het tijdstip van invoer en het tijdstip van slacht onderscheidenlijk de periode tussen het tijdstip van invoer en het tijdstip van uitvoer korter is dan twee maanden.
 

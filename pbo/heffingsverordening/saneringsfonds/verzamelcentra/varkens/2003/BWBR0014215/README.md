@@ -22,7 +22,7 @@ Materieel uitgewerkt per 21-02-2004
 
 | --- | --- | --- |
 |:---|:---|:---|
-|verzamelcentrum |: |verzamelcentrum als bedoeld in [artikel 1 van de Subsidieregeling sanering verzamelcentra varkens](../../../../../../../ministeriele-regeling/subsidieregeling/sanering/verzamelcentra/varkens/BWBR0009818/README.md) (29 juli 1998/Nr. J. 986794, Stcrt. 148). |
+|verzamelcentrum |: |verzamelcentrum als bedoeld in artikel 1 van de Subsidieregeling sanering verzamelcentra varkens (29 juli 1998/Nr. J. 986794, Stcrt. 148). |
 
 ###Artikel 2 
 Materieel uitgewerkt per 21-02-2004 

@@ -3,7 +3,7 @@
 ##Heffingsverordening varkensfonds rekening-A 2003
 
 Het bestuur van het Productschap Vee en Vlees heeft,
-gelet op [artikel 126 van de Wet op de Bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en de artikelen 10 en 15 van de Instellingsverordening Productschap Vee en Vlees,
+gelet op artikel 126 van de Wet op de Bedrijfsorganisatie, en de artikelen 10 en 15 van de Instellingsverordening Productschap Vee en Vlees,
 op 13 november 2002 vastgesteld de navolgende VERORDENING
 
 ###Artikel 1 

@@ -3,23 +3,23 @@
 ##Verordening van het Productschap Vee en Vlees van 27 oktober 2010, houdende de vaststelling van een bestemmingsheffing ten behoeve van de Vleeswarenindustrie voor het jaar 2011 (Verordening bestemmingsheffingen Vleeswarenindustrie (PVV) 2011)
 
 Het bestuur van het Productschap Vee en Vlees; 
-Gelet op de [artikelen 95](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [artikelen 10](../../../../../../../AMvB/instellingsbesluit/productschap/vee/en/vlees/BWBR0016491/README.md) en [12 van het Instellingsbesluit Productschap Vee en Vlees](../../../../../../../AMvB/instellingsbesluit/productschap/vee/en/vlees/BWBR0016491/README.md); Gezien de [Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(pvv)/2005/BWBR0017340/README.md);
+Gelet op de artikelen 95 en 126 van de Wet op de bedrijfsorganisatie en artikelen 10 en 12 van het Instellingsbesluit Productschap Vee en Vlees; Gezien de Verordening algemene bepalingen heffingen (PVV) 2005;
 Besluit: 
 
 ###Artikel  1 
 Materieel uitgewerkt per 19-02-2012 
 
-1.  Deze verordening neemt over de begripsbepalingen van de [Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(pvv)/2005/BWBR0017340/README.md) en de [Verordening huishoudelijke heffingen (PVV) 2011](../../../../../../../pbo/verordening/huishoudelijke/heffingen/(pvv)/2011/BWBR0029465/README.md) en verstaat voorts onder:  
+1.  Deze verordening neemt over de begripsbepalingen van de Verordening algemene bepalingen heffingen (PVV) 2005 en de Verordening huishoudelijke heffingen (PVV) 2011 en verstaat voorts onder:  
 
 | --- | --- | --- | --- |
 |:---|:---|:---|:---|
 |a. |werknemer |: |eenieder die werkzaam is in een onderneming in de Vleeswarenindustrie, de vleesconservenindustrie of de baconindustrie, waaronder begrepen -  eenieder die een arbeidsovereenkomst in de zin van het Burgerlijk Wetboek is aangegaan met de ondernemer die de onderneming in stand houdt;   -  alsmede eenieder die als zelfstandige zonder personeel of als uitzendkracht of inleenkracht werkzaam is in de onderneming;   |
 |b. |f.t.e. |: |fulltime-equivalent van de werknemer waarbij de fulltime-equivalent gemiddeld 36 uur per week bedraagt; |
 |c. |omzet |: |omzet behaald met de onderneming over het kalenderjaar dat voorafgaat aan het tijdvak waarover wordt geheven; |
-|d. |fonds sociale |: |fonds als bedoeld in [artikel 1, derde lid, van de aangelegenheden Verordening fonds sociale aangelegenheden Vleeswarenindustrie (PVV) 2003](../../../../../../../pbo/verordening/fonds/sociale/aangelegenheden/vleesindustrie/(pvv)/2003/BWBR0015353/README.md); |
-|e. |O & O fonds |: |fonds als bedoeld in [artikel 1, derde lid, van de Verordening fonds voor onderzoek en ontwikkeling Vleeswarenindustrie (PVV) 2003](../../../../../../../pbo/verordening/o/&/o/fonds/vleesindustrie/(pw)/2003/BWBR0015358/README.md). |
+|d. |fonds sociale |: |fonds als bedoeld in artikel 1, derde lid, van de aangelegenheden Verordening fonds sociale aangelegenheden Vleeswarenindustrie (PVV) 2003; |
+|e. |O & O fonds |: |fonds als bedoeld in artikel 1, derde lid, van de Verordening fonds voor onderzoek en ontwikkeling Vleeswarenindustrie (PVV) 2003. |
 
-2.  In afwijking van de [Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(pvv)/2005/BWBR0017340/README.md), wordt verstaan onder:  
+2.  In afwijking van de Verordening algemene bepalingen heffingen (PVV) 2005, wordt verstaan onder:  
 
 | --- | --- | --- | --- |
 |:---|:---|:---|:---|
@@ -81,7 +81,7 @@ Materieel uitgewerkt per 19-02-2012
 1.  Aan de ondernemer, die voor het jaar 2011 contributie heeft betaald als lid of indirect lid van een volgens het vierde lid aangewezen ondernemersorganisatie, wordt op zijn verzoek een aftrek toegestaan op het bedrag dat de ondernemer aan heffingen is verschuldigd op grond van deze verordening. 
 2.  De in het eerste lid bedoelde aftrek beloopt 30% van het bedrag dat de ondernemer als contributie voor het jaar 2011 aan de betreffende ondernemersorganisatie heeft betaald tot ten hoogste 30% van het bedrag dat de ondernemer aan heffingen is verschuldigd op grond van deze verordening. 
 3.  Indien de ondernemer, naast de aftrek als bedoeld in het eerste lid, op grond van een andere heffingsverordening van het productschap aanspraak maakt op aftrek in verband met betaalde contributie als lid of indirect lid van een overeenkomstig het vierde lid aangewezen ondernemersorganisatie, dan kan de som hiervan niet meer bedragen dan 50% van de contributie die door de ondernemer voor het jaar 2011 aan de aangewezen ondernemersorganisatie is betaald. 
-4.  De in het eerste lid bedoelde ondernemersorganisatie wordt aangewezen door het bestuur, met inachtneming van het bepaalde in het [Besluit beleidsregels Bestuurskamer](../../../../../../../pbo/besluit/beleidsregels/bestuurskamer/BWBR0015680/README.md) van de Sociaal-Economische Raad.
+4.  De in het eerste lid bedoelde ondernemersorganisatie wordt aangewezen door het bestuur, met inachtneming van het bepaalde in het Besluit beleidsregels Bestuurskamer van de Sociaal-Economische Raad.
 
 ###Artikel  5 
 Materieel uitgewerkt per 19-02-2012 

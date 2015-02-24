@@ -3,7 +3,7 @@
 ##Verordening van het Hoofdbedrijfschap Ambachten van 12 maart 2003 houdende regels terzake van de door het hoofdbedrijfschap aan de ondernemers die het optiekbedrijf uitoefenen op te leggen bestemmingsheffing optiekbedrijf voor het jaar 2003 (Heffingsverordening optiekbedrijf 2003)
 
 Het bestuur van het Hoofdbedrijfschap Ambachten;
-Gelet op [artikel 126 van de Wet op de bedrijfsorganisatie](../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), juncto artikel 10, tweede en derde lid, van de Instellingsverordening Hoofdbedrijfschap Ambachten;
+Gelet op artikel 126 van de Wet op de bedrijfsorganisatie, juncto artikel 10, tweede en derde lid, van de Instellingsverordening Hoofdbedrijfschap Ambachten;
 
 Gezien het verzoek van de Nederlandse Unie van Optiekbedrijven (NUVO), alsmede gehoord de Unie van Filiaal- en Franchise- Optiekbedrijven Nederland (UFON);
 Besluit:
@@ -22,7 +22,7 @@ a.de voorzitter: de voorzitter van het Hoofdbedrijfschap Ambachten;
 
 b.de ondernemer: degene die een onderneming drijft, dan wel degenen die gezamenlijk een onderneming drijven;
 
-c.werkzame personen: personen als bedoeld in [artikel 9, derde lid, van het Handelsregisterbesluit 1996](../../../../../AMvB/handelsregisterbesluit/1996/BWBR0008920/README.md) die betrokken zijn bij de uitoefening van het optiekbedrijf;
+c.werkzame personen: personen als bedoeld in artikel 9, derde lid, van het Handelsregisterbesluit 1996 die betrokken zijn bij de uitoefening van het optiekbedrijf;
 
 d.bestemmingsheffing: heffing die is gebaseerd op artikel 10, derde lid, van de Instellingsverordening Hoofdbedrijfschap Ambachten.
 
@@ -60,7 +60,7 @@ Materieel uitgewerkt per 06-03-2004
 
 a.krachtens haar statutaire doelstelling haar werkzaamheden kan uitstrekken tot ten minste een belangrijk gedeelte van het terrein waarop het bedrijfslichaam een taak heeft te vervullen,
 
-b.voldoet aan de kwalitatieve representativiteitscriteria genoemd in de [artikelen 3 tot en met 7 van de Verordening representativiteit organisaties](../../../../../pbo/verordening/representativiteit/organisaties/BWBR0011641/README.md),
+b.voldoet aan de kwalitatieve representativiteitscriteria genoemd in de artikelen 3 tot en met 7 van de Verordening representativiteit organisaties,
 
 c.tot de werkingssfeer van het bedrijfslichaam behorende leden heeft, waarvan het gewogen aantal niet-onbetekenend is,
 

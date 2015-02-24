@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid, van 10 juli 2000, Directie Arbeidsverhoudingen, Nr. AV/A&M/2000/45114, gedaan mede namens Onze Minister van Landbouw, Natuurbeheer en Visserij;
 
-Gelet op [artikel XVII van de wet van 24 juni 1992, Stb. 409](../../../../../wet/wijzigingswet/wet/op/de/bedrijfsorganisatie/BWBR0005572/README.md), en op [artikel 70 van de Wet op de bedrijfsorganisatie](../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), zoals dat artikel voor de inwerkingtreding van die wet laatstelijk luidde;
+Gelet op artikel XVII van de wet van 24 juni 1992, Stb. 409, en op artikel 70 van de Wet op de bedrijfsorganisatie, zoals dat artikel voor de inwerkingtreding van die wet laatstelijk luidde;
 
 De Raad van State gehoord (advies van 10 augustus 2000, nr. W12.00.0289/IV);
 
@@ -21,9 +21,9 @@ a. de Raad: de Sociaal-Economische Raad;
 
 b. Onze Minister: Onze Minister van Sociale Zaken en Werkgelegenheid;  
 
-c. de wet: de [Wet op de bedrijfsorganisatie](../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);  
+c. de wet: de Wet op de bedrijfsorganisatie;  
 
-d. jaarrekening 1997: rekening der inkomsten en uitgaven als bedoeld in [artikel 124 van de wet](../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), zoals vastgesteld door het bestuur van het Landbouwschap bij besluit van 13 april 1999;  
+d. jaarrekening 1997: rekening der inkomsten en uitgaven als bedoeld in artikel 124 van de wet, zoals vastgesteld door het bestuur van het Landbouwschap bij besluit van 13 april 1999;  
 
 e. financieringsreserve: de in de jaarrekening 1997 zo genoemde algemene reserve van het vermogen;  
 
@@ -69,8 +69,8 @@ d. Verordening vereffeningsheffing Landbouwschap.
 ### Artikel  6  
 
 1.  De opheffing van het Landbouwschap tast de rechtskracht van de door dat lichaam wettig opgelegde heffingen niet aan.   
-2.  De Raad vordert bij verordening de medewerking van de besturen van de daarbij aan te wijzen productschappen ten behoeve van de invordering van de aan het Landbouwschap, krachtens [artikel 126, eerste en tweede lid, van de wet](../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), op het tijdstip van inwerkingtreding van dit besluit verschuldigde bedragen, voorzover hun grond vindende in heffingsverordeningen waarop de in het eerste lid bedoelde heffingen zijn gebaseerd, inclusief de rechtsvorderingen die samenhangen met de heffingen. Met ingang van de inwerkingtreding van dit besluit zijn de bedragen verschuldigd aan de bedoelde productschappen. De in de eerste zin bedoelde medewerking kan tevens worden gevorderd indien in het kader van de vereffening van het vermogen toepassing wordt gegeven aan de verordening, genoemd in artikel 2, tweede lid, onderdeel d.   
-3.  Door of namens de voorzitter van het Landbouwschap uitgevaardigde dwangbevelen als bedoeld in [artikel 127, eerste lid, van de wet](../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) behouden hun rechtskracht.   
+2.  De Raad vordert bij verordening de medewerking van de besturen van de daarbij aan te wijzen productschappen ten behoeve van de invordering van de aan het Landbouwschap, krachtens artikel 126, eerste en tweede lid, van de wet, op het tijdstip van inwerkingtreding van dit besluit verschuldigde bedragen, voorzover hun grond vindende in heffingsverordeningen waarop de in het eerste lid bedoelde heffingen zijn gebaseerd, inclusief de rechtsvorderingen die samenhangen met de heffingen. Met ingang van de inwerkingtreding van dit besluit zijn de bedragen verschuldigd aan de bedoelde productschappen. De in de eerste zin bedoelde medewerking kan tevens worden gevorderd indien in het kader van de vereffening van het vermogen toepassing wordt gegeven aan de verordening, genoemd in artikel 2, tweede lid, onderdeel d.   
+3.  Door of namens de voorzitter van het Landbouwschap uitgevaardigde dwangbevelen als bedoeld in artikel 127, eerste lid, van de wet behouden hun rechtskracht.   
 4.  De kosten van de invordering van de in het tweede lid bedoelde bedragen worden in rekening gebracht bij de Raad, die deze ten laste brengt van het vermogen van het Landbouwschap. Artikel 10, eerste, derde en vierde lid, is in dat geval van toepassing.   
 5.  De in het tweede lid bedoelde bedragen worden na inning overgedragen aan de Raad en toegevoegd aan het vermogen van het Landbouwschap.  
 
@@ -117,13 +117,13 @@ d. Verordening vereffeningsheffing Landbouwschap.
 
 ### Artikel  12  
 
-1.  De opheffing van het Landbouwschap heeft geen gevolg voor de ontvankelijkheid van beroepen ingevolge de [Wet bestuursrechtspraak bedrijfsorganisatie](../../../../../wet/wet/bestuursrechtspraak/bedrijfsorganisatie/BWBR0002144/README.md). In plaats van het Landbouwschap treedt de Raad als partij op.   
+1.  De opheffing van het Landbouwschap heeft geen gevolg voor de ontvankelijkheid van beroepen ingevolge de Wet bestuursrechtspraak bedrijfsorganisatie. In plaats van het Landbouwschap treedt de Raad als partij op.   
 2.  Bezwaarschriften aangaande beslissingen van het bestuur van het Landbouwschap, met uitzondering van die betreffende de aanslagen bedoeld in artikel 6, worden na de inwerkingtreding van dit besluit gericht aan de Raad.   
 3.  Gerechtelijke uitspraken, gedaan tegen het Landbouwschap of, op grond van het eerste lid, tegen de Raad, worden door de Raad uitgevoerd, voorzover nodig ten laste van het vermogen van het opgeheven Landbouwschap. Artikel 10, eerste tot en met vierde lid, is in dat geval van toepassing.  
 
 ### Artikel  13  
 
-De Raad draagt zorg, in de zin van de [Archiefwet 1995](../../../../../wet/archiefwet/1995/BWBR0007376/README.md), voor de archiefbescheiden van het Landbouwschap. 
+De Raad draagt zorg, in de zin van de Archiefwet 1995, voor de archiefbescheiden van het Landbouwschap. 
 
 ### Artikel  14  
 

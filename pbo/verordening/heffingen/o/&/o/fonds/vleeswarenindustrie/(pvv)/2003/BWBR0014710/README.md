@@ -3,7 +3,7 @@
 ##Verordening heffingen O & O fonds vleeswarenindustrie (PVV) 2003
 
 Het bestuur van het Productschap Vee en Vlees heeft,
-gelet op [artikel 126 van de Wet op de Bedrijfsorganisatie](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en de artikelen 10 en 15 van de lnstellingsverordening Productschap Vee en Vlees 1999-I,
+gelet op artikel 126 van de Wet op de Bedrijfsorganisatie, en de artikelen 10 en 15 van de lnstellingsverordening Productschap Vee en Vlees 1999-I,
 op 12 februari 2003 vastgesteld de navolgendeVERORDENING 
 
 ###Artikel 1 

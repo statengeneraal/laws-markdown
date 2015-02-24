@@ -3,7 +3,7 @@
 ##Besluit van het bestuur van het Productschap Tuinbouw van 3 juli 2002, houdende regels ter zake van de aan ondernemers, die groenten en fruit naar Japan en Taiwan exporteren, op te leggen heffing voor het jaar 2003 (Verordening PT heffing export groenten en fruit Japan en Taiwan 2003)
 
 HET BESTUUR VAN HET PRODUCTSCHAP TUINBOUW,
-gelet op de [artikelen 95](../../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en
+gelet op de artikelen 95 en 126 van de Wet op de bedrijfsorganisatie, en
 
 gelet op de artikelen 14, 15 en 19 van de Instellingsverordening Productschap Tuinbouw 1998;
 
@@ -107,7 +107,7 @@ c.zodra de heffingsplichtige zich metterwoon in het buitenland heeft gevestigd o
 ###Artikel 9 
 Materieel uitgewerkt per 23-05-2003 
 
-Aan de heffingsplichtige, die niet of niet geheel binnen de in artikel 8 bedoelde termijn heeft betaald, kunnen de daaruit voortvloeiende extra kosten van € 22,50 in rekening worden gebracht, alsmede de wettelijke interest over het niet betaalde bedrag, te berekenen vanaf de dag waarop de betaling diende te zijn verricht ingevolge de aanmaning als bedoeld in [artikel 127, tweede lid van de Wet op de bedrijfsorganisatie](../../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md).
+Aan de heffingsplichtige, die niet of niet geheel binnen de in artikel 8 bedoelde termijn heeft betaald, kunnen de daaruit voortvloeiende extra kosten van € 22,50 in rekening worden gebracht, alsmede de wettelijke interest over het niet betaalde bedrag, te berekenen vanaf de dag waarop de betaling diende te zijn verricht ingevolge de aanmaning als bedoeld in artikel 127, tweede lid van de Wet op de bedrijfsorganisatie.
 
 ###Artikel 10 
 Materieel uitgewerkt per 23-05-2003 

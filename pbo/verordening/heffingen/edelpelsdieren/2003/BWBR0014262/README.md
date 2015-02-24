@@ -3,7 +3,7 @@
 ## Verordening heffingen edelpelsdieren 2003
 
 Het bestuur van het Productschap Pluimvee en Eieren heeft,
-gelet op [artikel 126 van de Wet op de Bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en de artikelen 5 en 9 van de Instellingsverordening Productschap voor Pluimvee en Eieren 1 998-1, op 14 november 2002 vastgesteld de navolgende VERORDENING
+gelet op artikel 126 van de Wet op de Bedrijfsorganisatie, en de artikelen 5 en 9 van de Instellingsverordening Productschap voor Pluimvee en Eieren 1 998-1, op 14 november 2002 vastgesteld de navolgende VERORDENING
 
 ###Titel I 
 
