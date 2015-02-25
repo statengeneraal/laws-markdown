@@ -4,13 +4,9 @@
 
 ####Beschrijving
 
-Treedt in werking per 01-03-2015 
-
 Deze richtlijn is van toepassing op winkeldiefstal met evt strafverzwaring bij gebruik van geprepareerde tas of kleding en bij strooptocht. Ook is de richtlijn toepasbaar op verduistering sec en op ‘eenvoudige’ diefstal (zonder braak/verbreking), tenzij er sprake is van insluiping, zakkenrollerij of diefstal van voertuigen (daar zijn aparte richtlijnen voor). Het tweede basisdelict ziet op winkeldiefstal met na betrapping (bedreiging met) geweld.    
 
 ####Basiscasus/delict
-
-Treedt in werking per 01-03-2015 
 
 (Winkel)diefstal of verduistering, alleen gepleegd.  
 
@@ -34,23 +30,15 @@ Treedt in werking per 01-03-2015
 
 ####Legenda
 
-Treedt in werking per 01-03-2015 
-
 ####Geprepareerde tas of kleding
-
-Treedt in werking per 01-03-2015 
 
 Indien bij diefstal gebruik wordt gemaakt van een geprepareerde tas of kleding of andere middelen om detectieapparatuur in winkels te frustreren of om de diefstal te maskeren (dubbele bodem) zal in beginsel een taakstraf worden opgelegd of gevorderd. De kolom met het uitgangspunt kan ook worden toegepast indien er sprake is van andere voorbereidingshandelingen, zoals bijvoorbeeld bij diefstal van apparatuur die zijn eigen positie kan verzenden (mobiele telefoons, laptops etc.), waarbij voorbereiding kan zijn gedaan om dat te verhinderen. Redenen hiervoor zijn dat het duidt op voorbedachten rade, het streven naar een grote buit en op vaker gebruik.    
 
 ####Strooptocht
 
-Treedt in werking per 01-03-2015 
-
 We spreken van een stroop- of rooftocht wanneer meerdere winkeldiefstallen (vanaf 3 winkels) op dezelfde dag gepleegd als 1 feit worden vervolgd. Bij het uitgangspunt is gedacht aan 3–4 winkels, daarboven geldt als strafverzwarend.     
 
 ####Basiscasus/delict
-
-Treedt in werking per 01-03-2015 
 
 Winkeldiefstal met na betrapping (bedreiging met) geweld, alleen gepleegd.  
 
@@ -65,10 +53,6 @@ Winkeldiefstal met na betrapping (bedreiging met) geweld, alleen gepleegd.
 
 ####Legenda
 
-Treedt in werking per 01-03-2015 
-
 ####Afkortingen
-
-Treedt in werking per 01-03-2015 
 
 GB = Geldboete TS = Taakstraf GS = gevangenisstraf ov = onvoorwaardelijk 5j = recidive binnen 5 jaar 2j = recidive binnen 2 jaar Voor een toelichting op de andere onderstreepte begrippen zie de Aanwijzing kader voor strafvordering en OM-afdoeningen.      

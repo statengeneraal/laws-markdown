@@ -3,7 +3,7 @@
 ##Verordening van het bestuur van het Productschap Tuinbouw van 20 december 2012, houdende de vaststelling van een bestemmingsheffing ten laste van de sector bloemkwekerijproducten voor het jaar 2013 (Verordening PT bestemmingsheffing aanbod bloemkwekerijproducten 2013)
 
 Het bestuur van het Productschap Tuinbouw 
-Gelet op de [artikelen 95](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [100, derde lid](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en de [artikelen 13](../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md) en [14 van het Instellingsbesluit Productschap Tuinbouw](../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md);
+Gelet op de artikelen 95, 100, derde lid, en 126 van de Wet op de bedrijfsorganisatie en de artikelen 13 en 14 van het Instellingsbesluit Productschap Tuinbouw;
 
 Gehoord de Commissie voor bloemkwekerijproducten d.d. 14 december 2012;
 Besluit:  
@@ -42,7 +42,7 @@ In deze verordening wordt verstaan onder:
 
 1.  De ondernemer, die in 2013 bloemkwekerijproducten teelt of importeert, is een bestemmingsheffing verschuldigd aan het productschap volgens de in artikel 3 vermelde heffingsgrondslag met bijbehorend tarief. 
 2.  Uit de opbrengst van de bestemmingsheffing, bedoeld in het eerste lid, worden activiteiten gefinancierd die vallen binnen de investeringsprogramma's van het productschap: Plantgezondheidsfonds, Maatschappelijk Verantwoord Ondernemen & Biobased economy, Voeding & Gezondheid, Energie & C0<sub>2</sub>, Groen en Welbevinden en Arbeid. 
-3.  De bestemmingsheffing bedoeld in het eerste lid wordt vastgesteld en opgelegd op de voet van de artikelen 4 tot en met 6 van deze verordening en met inachtneming van het bepaalde bij of krachtens de [Verordening PT algemene bepalingen 2009](../../../../../../../../pbo/verordening/pt/algemene/bepalingen/2009/BWBR0027562/README.md). 
+3.  De bestemmingsheffing bedoeld in het eerste lid wordt vastgesteld en opgelegd op de voet van de artikelen 4 tot en met 6 van deze verordening en met inachtneming van het bepaalde bij of krachtens de Verordening PT algemene bepalingen 2009. 
 4.  Ter uitvoering van artikel 4 doet de ondernemer bij het productschap desgevraagd aangifte van het door hem in het kalenderjaar 2013 verkochte zelfgekweekte bloemkwekerijproduct en van het door hem geïmporteerde bloemkwekerijproduct.
 
 ###§  3  

@@ -4,13 +4,9 @@
 
 ####Beschrijving
 
-Treedt in werking per 01-03-2015 
-
 Deze richtlijn heeft betrekking op diverse vormen van bedreiging.    
 
 ####Basiscasus/delict
-
-Treedt in werking per 01-03-2015 
 
 Bedreiging mondeling en/of dmv gebaren, alleen gepleegd.  
 
@@ -28,12 +24,8 @@ Legenda  *Afkortingen*  GB = Geldboete TS = Taakstraf GS = gevangenisstraf ov = 
 
 ####Agressie in het verkeer
 
-Treedt in werking per 01-03-2015 
-
 Met betrekking tot een aantal delicten, zoals mishandeling, openlijke geweld, vernieling en bedreiging, dient het eventuele feit dat de gepleegde agressieve handeling samenhangt met, of terug te voeren is op een verkeerssituatie, strafverzwarend te worden beoordeeld. Reden voor die verzwaring is enerzijds het risico van escalatie van dergelijke delicten in een overgevoelige situatie, en anderzijds de verhoogde gevaarzetting die agressie in een verkeerssituatie voor andere verkeersdeelnemers doorgaans oplevert.    
 
 ####Exceptionele gevolgen
-
-Treedt in werking per 01-03-2015 
 
 De persoon van het slachtoffer kan resulteren in direct dagvaarden, bijvoorbeeld burgemeester of politicus. Ook de bijzondere omstandigheden van het geval of de situatie, bijvoorbeeld ontruiming van een gebouw, gedwongen verhuizing, onderduiken enz. kunnen nopen tot direct dagvaarden. Voor een toelichting op de andere onderstreepte begrippen zie de Aanwijzing kader voor strafvordering en OM-afdoeningen.     

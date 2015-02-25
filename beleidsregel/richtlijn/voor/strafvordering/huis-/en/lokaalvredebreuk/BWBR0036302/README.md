@@ -4,13 +4,9 @@
 
 ####Beschrijving
 
-Treedt in werking per 01-03-2015 
-
 Deze richtlijn heeft betrekking op huisvredebreuk of lokaalvredebreuk, niet op kraken.    
 
 ####Basiscasus/delict
-
-Treedt in werking per 01-03-2015 
 
 Huisvredebreuk of lokaalvredebreuk, alleen gepleegd.  
 
@@ -24,10 +20,6 @@ Huisvredebreuk of lokaalvredebreuk, alleen gepleegd.
 
 ####Legenda
 
-Treedt in werking per 01-03-2015 
-
 ####Afkortingen
-
-Treedt in werking per 01-03-2015 
 
 GB = Geldboete TS = Taakstraf GS = gevangenisstraf ov = onvoorwaardelijk 5j = recidive binnen 5 jaar 2j = recidive binnen 2 jaar Voor een toelichting op de onderstreepte begrippen zie de Aanwijzing kader voor strafvordering en OM-afdoeningen.      

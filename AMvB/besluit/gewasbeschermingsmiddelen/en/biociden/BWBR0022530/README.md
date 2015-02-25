@@ -394,16 +394,18 @@ Een distributeur die biociden op de markt brengt draagt er in de wijze van zijn 
 
 ####Geïntegreerde gewasbescherming
 
-1.  Een ieder die met het oog op gebruik in enig jaar gewasbeschermingsmiddelen voorhanden of in voorraad heeft, of voornemens is gewasbeschermingsmiddelen te gebruiken of onder zijn verantwoordelijkheid dan wel in zijn opdracht te laten gebruiken, beschikt over een gewasbeschermingsplan.   
-2.  In het gewasbeschermingsplan wordt vermeld op welke wijze bij de behandeling van uitgangsmateriaal, tijdens het telen, bij de behandeling van geoogste planten of ander plantaardig materiaal, waaronder bij toepassing op verharde oppervlakken, goed invulling en uitvoering wordt gegeven of zal worden gegeven aan de beginselen van goede gewasbeschermingspraktijken en geïntegreerde gewasbescherming, zoals opgenomen in de bijlage III bij richtlijn 2009/128/EG.   
+1.  Een ieder die met het oog op gebruik in enig jaar gewasbeschermingsmiddelen voorhanden of in voorraad heeft, of voornemens is gewasbeschermingsmiddelen te gebruiken of onder zijn verantwoordelijkheid dan wel in zijn opdracht te laten gebruiken, houdt gedurende het teeltseizoen een gewasbeschermingsmonitor bij waarin aandacht wordt besteed aan de aspecten genoemd in bijlage 3. De monitor wordt binnen twee maanden na een teelt afgerond.   
+2.  In de gewasbeschermingsmonitor wordt vermeld op welke wijze bij de behandeling van uitgangsmateriaal, tijdens het telen, bij de behandeling van geoogste planten of ander plantaardig materiaal, waaronder bij toepassing op verharde oppervlakken, invulling en uitvoering is gegeven aan de beginselen van goede gewasbeschermingspraktijken en geïntegreerde gewasbescherming, zoals opgenomen in de bijlage III bij richtlijn 2009/128/EG.   
 3.  Onze Minister kan op verzoek van een beroepsinstantie bij beleidsregel een gids voor goede gewasbeschermingspraktijken vaststellen.   
-4.  Een gids voor goede gewasbeschermingspraktijken als leidraad voor een juiste uitvoering van geïntegreerde gewasbescherming kan onder meer uitgangspunten voor de opstelling van een gewasbeschermingsplan en handelwijzen voor de teelt bevatten.   
-5.  Onze Minister kan bij ministeriële regeling teeltvoorschriften vaststellen die bij de opstelling van een gewasbeschermingsplan in acht genomen worden.   
+4.  Een gids voor goede gewasbeschermingspraktijken als leidraad voor een juiste uitvoering van geïntegreerde gewasbescherming kan onder meer uitgangspunten voor de opstelling van een gewasbeschermingsmonitor en handelwijzen voor de teelt bevatten.   
+5.  Onze Minister kan bij ministeriële regeling teeltvoorschriften vaststellen die bij de opstelling van een gewasbeschermingsmonitor in acht genomen worden.   
 6.  Het eerste lid is niet van toepassing op degene die: 
 
-a. uitsluitend een gewasbeschermingsmiddel voor niet-professioneel gebruik toepast, of  
+a. uitsluitend een gewasbeschermingsmiddel voor niet-professioneel gebruik toepast,  
 
-b. onder de verantwoordelijkheid dan wel in opdracht van een derde een gewasbeschermingsmiddel toepast.    
+b. onder de verantwoordelijkheid dan wel in opdracht van een derde een gewasbeschermingsmiddel toepast, of  
+
+c.uitsluitend minder dan 2 hectare maïs of gras teelt.  
 7.   Bij ministeriële regeling van Onze Minister kan worden bepaald dat het eerste lid niet van toepassing is op een categorie van gebruikers, indien een systeem van kwaliteitszorg of andere regelgeving reeds op vergelijkbare wijze in de toepassing van geïntegreerde gewasbescherming voorziet. 
 8.  Bij regeling van Onze Minister kunnen regels of nadere regels worden gesteld over geïntegreerde gewasbescherming door professionele gebruikers. 
 
@@ -411,8 +413,8 @@ b. onder de verantwoordelijkheid dan wel in opdracht van een derde een gewasbesc
 
 ####Toegankelijkheid gewasbeschermingsplan
 
-1.  Het gewasbeschermingsplan is op een toegankelijke wijze opgesteld, op eenvoudige wijze beschikbaar en aanwezig op het bedrijf van de gebruiker.   
-2.  Onze Minister kan voor een gewasbeschermingsplan als bedoeld in het eerste lid, een standaardformulier vaststellen.   
+1.  De gewasbeschermingsmonitor is op een toegankelijke wijze opgesteld, op eenvoudige wijze beschikbaar en aanwezig op het bedrijf van de gebruiker.   
+2.  Onze Minister kan voor een gewasbeschermingsmonitor als bedoeld in het eerste lid, een standaardformulier vaststellen.   
 3.  Onze Minister kan regels stellen voor het gebruik van het standaardformulier, bedoeld in het tweede lid.   
 4.  Onze Minister maakt het standaardformulier, bedoeld in het tweede lid, bekend in de Staatscourant.  
 
@@ -883,3 +885,28 @@ Beschermingsfactoren van persoonlijke beschermingsmiddelen
 | Laarzen (chemisch resistent)  | 10  |
 | Gesloten spuitcabines  | 10  |
 
+### Bijlage  3 
+
+####, behorend bij artikel 26, eerste lid 
+
+Aspecten gewasbeschermingsmonitor
+
+– teeltfrequentie en voorvrucht, door middel van een vruchtwisselingsplan  
+
+– rassenkeuze en uitgangsmateriaal, aandacht voor: resistente/tolerante cultivars en standaard- of gecertificeerd zaai- en plantgoed  
+
+– monitoring van schadelijke organismen in het gewas  
+
+– gebruik van waarschuwings-, advies- en beslissingsondersteunende systemen gericht op tijdig signaleren van toenemende ziektedruk  
+
+– toegepaste biologische, fysische en mechanische gewasbeschermingsmaatregelen, waaronder de inzet van biologische bestrijders en mechanische onkruidbestrijding  
+
+– keuze van gebruikte gewasbeschermingsmiddelen op basis van risico’s voor mens en milieu (gebruikte gewasbeschermingsmiddelen moeten bijgehouden worden conform artikel 67 van verordening (EG) nr. 1107/2009  
+
+– emissiebeperkende maatregelen, inclusief toedieningstechnieken  
+
+– resistentiemanagement bij het gebruik van gewasbeschermingsmiddelen  
+
+– overige maatregelen die hebben bijgedragen aan het verminderen van het gebruik van chemische middelen  
+
+– oordeel over het succes van de toegepaste beheersmaatregelen.  

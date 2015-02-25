@@ -3,9 +3,9 @@
 ##Verordening d.d. 6 november 2012 van het Productschap Dranken, houdende de vaststelling bestemmingsheffing ten behoeve van het Gedistilleerd Informatiecentrum voor het jaar 2013; (Verordening bestemmingsheffing Gedistilleerd Informatiecentrum 2013)
 
 Het bestuur van het Productschap Dranken,  
-Gelet op de [artikelen 95, tweede lid](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de Bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en de [artikelen 12](../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md) en [14 van de Instellingsbesluit Productschap Dranken](../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md);
+Gelet op de artikelen 95, tweede lid en 126 van de Wet op de Bedrijfsorganisatie en de artikelen 12 en 14 van de Instellingsbesluit Productschap Dranken;
 
-Gezien het verzoek van de VIP, vereniging van Nederlandse Importeurs en Producenten van gedistilleerde dranken en het advies van de Commissie ex [artikel 5 lid 1 onder c van het Instellingsbesluit Productschap Dranken](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+Gezien het verzoek van de VIP, vereniging van Nederlandse Importeurs en Producenten van gedistilleerde dranken en het advies van de Commissie ex artikel 5 lid 1 onder c van het Instellingsbesluit Productschap Dranken;
 besluit de navolgende verordening vast te stellen:    
 ###§ 1 
 
@@ -15,7 +15,7 @@ besluit de navolgende verordening vast te stellen:
 
 In deze verordening wordt verstaan onder:
 
-a.*ondernemer*: een natuurlijke of rechtspersoon, die een onderneming drijft als bedoeld in [artikel 3 lid 2 sub c van het Instellingsbesluit Productschap Dranken](../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md);
+a.*ondernemer*: een natuurlijke of rechtspersoon, die een onderneming drijft als bedoeld in artikel 3 lid 2 sub c van het Instellingsbesluit Productschap Dranken;
 
 b.*onderneming*: een onderneming waarin uit grondstoffen gedistilleerde en/of zwak gedistilleerde dranken worden bereid, voor de eerste maal beschikbaar komen, dan wel worden bereid anders dan uit grondstoffen en beschikbaar komen voor ge- of verbruik in Nederland;
 
@@ -23,13 +23,13 @@ c.*productschap*: het Productschap Dranken;
 
 d.*bestuur*: het bestuur van het Productschap Dranken;
 
-e.*commissie*: een orgaan als bedoeld in [artikel 88a van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), hier: de Commissie voor gedistilleerd ex [artikel 5 lid 1 c van het Instellingsbesluit Productschap Dranken](../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md);
+e.*commissie*: een orgaan als bedoeld in artikel 88a van de Wet op de bedrijfsorganisatie, hier: de Commissie voor gedistilleerd ex artikel 5 lid 1 c van het Instellingsbesluit Productschap Dranken;
 
 f.*secretaris*: de door het Bestuur aangestelde secretaris van de Commissie. 
 
 ###Artikel 2 
 
-In deze verordening zijn de begripsbepalingen van de [Heffingsverordening Productschap Dranken/ Commissie voor gedistilleerd 2013](../../../../../../../pbo/heffingsverordening/productschap/drankencommissie/voor/gedistilleerd/2013/BWBR0032813/README.md) van overeenkomstige toepassing. 
+In deze verordening zijn de begripsbepalingen van de Heffingsverordening Productschap Dranken/ Commissie voor gedistilleerd 2013 van overeenkomstige toepassing. 
 
 ###§ 2 
 
@@ -47,7 +47,7 @@ In deze verordening zijn de begripsbepalingen van de [Heffingsverordening Produc
 
 ###Artikel 4 
 
-De [artikelen 4 tot en met 7 van de Heffingsverordening Productschap Dranken/ Commissie voor gedistilleerd 2013](../../../../../../../pbo/heffingsverordening/productschap/drankencommissie/voor/gedistilleerd/2013/BWBR0032813/README.md) van overeenkomstige toepassing 
+De artikelen 4 tot en met 7 van de Heffingsverordening Productschap Dranken/ Commissie voor gedistilleerd 2013 van overeenkomstige toepassing 
 
 ###Artikel 5 
 

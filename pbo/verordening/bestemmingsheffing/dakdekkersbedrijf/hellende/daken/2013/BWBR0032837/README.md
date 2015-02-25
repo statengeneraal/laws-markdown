@@ -3,7 +3,7 @@
 ##Verordening van het bestuur van het Hoofdbedrijfschap Ambachten van 7 november 2012, houdende regels terzake van de aan de ondernemers die het dakdekkersbedrijf hellende daken uitoefenen op te leggen bestemmingsheffing voor het jaar 2013 (Verordening bestemmingsheffing dakdekkers hellende daken 2013)
 
 Het bestuur van het Hoofdbedrijfschap Ambachten;  
-Gelet op [artikel 95, tweede lid](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [artikel 126 van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+Gelet op artikel 95, tweede lid en artikel 126 van de Wet op de bedrijfsorganisatie;
 
 Gezien het advies van de Commissie dakdekkersbedrijf hellende daken;
 Besluit:    
@@ -19,11 +19,11 @@ a.Het dakdekkersbedrijf hellende daken: het bedrijf van het aanbrengen, onderhou
 
 b.de ondernemer: degene die een onderneming drijft, dan wel degenen die gezamenlijk een onderneming drijven;
 
-c.werkzame personen: personen als bedoeld in [artikel 1, eerste lid, onder b, van het Handelsregisterbesluit 2008](../../../../../../../../AMvB/handelsregisterbesluit/2008/BWBR0024067/README.md) die betrokken zijn bij de uitoefening van het dakdekkersbedrijf hellende daken;
+c.werkzame personen: personen als bedoeld in artikel 1, eerste lid, onder b, van het Handelsregisterbesluit 2008 die betrokken zijn bij de uitoefening van het dakdekkersbedrijf hellende daken;
 
 d.de voorzitter: de voorzitter van het Hoofdbedrijfschap Ambachten;
 
-e.bestemmingsheffing: heffing die gebaseerd is op [artikel 9, tweede lid, van het Instellingsbesluit Hoofdbedrijfschap Ambachten](../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/ambachten/BWBR0015845/README.md). 
+e.bestemmingsheffing: heffing die gebaseerd is op artikel 9, tweede lid, van het Instellingsbesluit Hoofdbedrijfschap Ambachten. 
 
 ###Artikel 2 
 
@@ -74,7 +74,7 @@ Vermindering als bedoeld in artikel 4 wordt slechts verleend op aanvraag. De aan
 
 ###Artikel 6 
 
-De [artikelen 5 tot en met 14 van de Heffingsverordening Hoofdbedrijfschap Ambachten 2013](../../../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/ambachten/2013/BWBR0032779/README.md) zijn van overeenkomstige toepassing.
+De artikelen 5 tot en met 14 van de Heffingsverordening Hoofdbedrijfschap Ambachten 2013 zijn van overeenkomstige toepassing.
 
 ###Artikel 7 
 

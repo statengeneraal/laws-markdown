@@ -3,7 +3,7 @@
 ##Verordening van het bestuur van het Hoofdbedrijfschap Ambachten van 7 november 2012, houdende regels terzake van de aan de onder het hoofdbedrijfschap ressorterende ondernemers op te leggen heffing Hoofdbedrijfschap Ambachten voor het jaar 2013 (Heffingsverordening Hoofdbedrijfschap Ambachten 2013)
 
 Het bestuur van het Hoofdbedrijfschap Ambachten;  
-Gelet op [artikel 95, tweede lid](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [artikel 126 van de Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+Gelet op artikel 95, tweede lid en artikel 126 van de Wet op de bedrijfsorganisatie;
 Besluit:    
 ###§ 1 
 
@@ -13,17 +13,17 @@ Besluit:
 
 In deze verordening wordt verstaan onder:
 
-a.instellingsbesluit: [Instellingsbesluit Hoofdbedrijfschap Ambachten](../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/ambachten/BWBR0015845/README.md);
+a.instellingsbesluit: Instellingsbesluit Hoofdbedrijfschap Ambachten;
 
 b.de ondernemer: degene die een onderneming drijft, dan wel degenen die gezamenlijk een onderneming drijven;
 
-c.werkzame personen: personen als bedoeld in [artikel 1, eerste lid, onder b. van het Handelsregisterbesluit 2008](../../../../../../AMvB/handelsregisterbesluit/2008/BWBR0024067/README.md) die betrokken zijn bij de uitoefening van een in [artikel 3 van het instellingsbesluit](../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/ambachten/BWBR0015845/README.md) genoemd bedrijf;
+c.werkzame personen: personen als bedoeld in artikel 1, eerste lid, onder b. van het Handelsregisterbesluit 2008 die betrokken zijn bij de uitoefening van een in artikel 3 van het instellingsbesluit genoemd bedrijf;
 
 d.de voorzitter: de voorzitter van het Hoofdbedrijfschap Ambachten. 
 
 ###Artikel 2 
 
-Deze verordening is van toepassing op de ondernemers die een onderneming drijven waarin een in [artikel 3 van het instellingsbesluit](../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/ambachten/BWBR0015845/README.md) genoemd bedrijf wordt uitgeoefend. 
+Deze verordening is van toepassing op de ondernemers die een onderneming drijven waarin een in artikel 3 van het instellingsbesluit genoemd bedrijf wordt uitgeoefend. 
 
 ###§ 2 
 
@@ -31,7 +31,7 @@ Deze verordening is van toepassing op de ondernemers die een onderneming drijven
 
 ###Artikel 3 
 
-1. Aan de ondernemers die op of na de dag van inwerkingtreding van deze verordening een onderneming drijven waarin een in [artikel 3 van het instellingsbesluit](../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/ambachten/BWBR0015845/README.md) genoemd bedrijf wordt uitgeoefend, worden voor het jaar 2013 opgelegd:
+1. Aan de ondernemers die op of na de dag van inwerkingtreding van deze verordening een onderneming drijven waarin een in artikel 3 van het instellingsbesluit genoemd bedrijf wordt uitgeoefend, worden voor het jaar 2013 opgelegd:
 
 a.een algemene heffing van:
 
@@ -79,7 +79,7 @@ c.vereniging VNO-NCW,en over het jaar 2012 de volledige contributie heeft betaal
 
 a.krachtens haar statutaire doelstelling haar werkzaamheid kan uitstrekken tot ten minste een belangrijk gedeelte van het terrein waarop het bedrijfslichaam een taak heeft te vervullen;
 
-b.voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de [artikelen 3 tot en met 7 van de Verordening representativiteit organisaties](../../../../../../pbo/verordening/representativiteit/organisaties/BWBR0011641/README.md);
+b.voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de artikelen 3 tot en met 7 van de Verordening representativiteit organisaties;
 
 c.tot de werkingssfeer van het bedrijfslichaam behorende leden heeft, waarvan het gewogen aantal niet-onbetekenend is;
 
@@ -103,8 +103,8 @@ e.haar activiteiten, al dan niet door middel van een federatie van gelijksoortig
 
 ###Artikel 6 
 
-1. De voorzitter stelt de hoogte van de heffing vast op grond van de ten aanzien van de ondernemer en onderneming in het bestand bedoeld in [artikel 3, eerste lid, van de Registratieverordening Hoofdbedrijfschap Ambachten 2004](../../../../../../pbo/registratieverordening/hoofdbedrijfschap/ambachten/2004/BWBR0016480/README.md) geregistreerde gegevens en het bepaalde in deze verordening.  
-2. Indien de ondernemer het bepaalde in [artikel 8, eerste lid, onderdeel d, van de Registratieverordening Hoofdbedrijfschap Ambachten 2004](../../../../../../pbo/registratieverordening/hoofdbedrijfschap/ambachten/2004/BWBR0016480/README.md) niet in acht heeft genomen, stelt de voorzitter de heffing ambtshalve vast. 
+1. De voorzitter stelt de hoogte van de heffing vast op grond van de ten aanzien van de ondernemer en onderneming in het bestand bedoeld in artikel 3, eerste lid, van de Registratieverordening Hoofdbedrijfschap Ambachten 2004 geregistreerde gegevens en het bepaalde in deze verordening.  
+2. Indien de ondernemer het bepaalde in artikel 8, eerste lid, onderdeel d, van de Registratieverordening Hoofdbedrijfschap Ambachten 2004 niet in acht heeft genomen, stelt de voorzitter de heffing ambtshalve vast. 
 
 ###Artikel 7 
 

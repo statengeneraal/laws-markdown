@@ -4,25 +4,17 @@
 
 ####Achtergrond
 
-Treedt in werking per 01-03-2015 
-
 Ter bevordering van eenheid in het strafvorderingbeleid zijn met betrekking tot overtredingen van de Wet vervoer gevaarlijke stoffen (WVGS) ten aanzien van vervoer over de weg tarieven vastgesteld. Deze tarieven gelden als richtlijn voor de hoogte van het transactiebedrag, de strafbeschikking dan wel voor de eis ter terechtzitting. De tarieven zijn afgerond volgens de systematiek van de Aanwijzing kader voor strafvordering en OM-afdoeningen. Door toepassing te geven aan artikel 74 Wetboek van Strafrecht kunnen aanvullende voorwaarden worden gesteld bij een transactie. Op basis van artikel 257a Wetboek van Strafvordering en artikel 36 Wet op de Economische Delicten (WED) kan de strafbeschikking bijzondere aanwijzingen bevatten. In deze richtlijn wordt aangegeven wanneer een zodanige inbreuk wordt gepleegd op het doel van de wet, ‘de bevordering van de openbare veiligheid, bij het vervoer van gevaarlijke stoffen’, dat dagvaarden in de rede ligt.    
 
 ####Samenvatting
-
-Treedt in werking per 01-03-2015 
 
 Deze richtlijn bevat de te hanteren tarieven behorende bij de meest voorkomende overtredingen van de regels bij of krachtens de Wet vervoer gevaarlijke stoffen ten aanzien van vervoer over de weg.    
 
 ####Beschrijving
 
-Treedt in werking per 01-03-2015 
-
 ### 1  
 
 ####Wet- en regelgeving
-
-Treedt in werking per 01-03-2015 
 
 De WVGS kent een gelede normstelling. Nationale wet- en regelgeving komt voort uit het Européen relatif au transport international des marchandises Dangereuses par Route (ADR) en bestaat uit: 
 
@@ -35,21 +27,15 @@ De WVGS kent een gelede normstelling. Nationale wet- en regelgeving komt voort u
 
 ####Sanctiestrategie
 
-Treedt in werking per 01-03-2015 
-
 De toekenning van de risicocategorieën is gebaseerd op Europese Richtlijn (2004/12/EG bijlage II). De controlerende instantie/functionaris dient rekening te houden met specifieke omstandigheden bij het constateren van een inbreuk. Afhankelijk van die omstandigheden kan er worden afgeweken van de risicocategorieën. Aan de hand van de risicocategorie wordt bepaald of er corrigerende maatregelen worden genomen en of strafrechtelijke handhaving geïndiceerd is. De controlerende instantie/functionaris zorgt er voor dat de overtreding ongedaan wordt gemaakt door corrigerende maatregelen te nemen. De risicocategorie van het overtreden voorschrift geeft aan of de corrigerende maatregelen ter plekke, of in een later stadium moeten worden genomen. Indien er ernstige bezwaren zijn tegen de overtreder en onmiddellijk ingrijpen vereist is, kan de officier van justitie op grond van artikel 28 WED een voorlopige maatregel bevelen.  *Risicocategorie I*: hoog risico op dodelijke slachtoffers, ernstig letsel voor personen of significante aantasting van milieu. Er moeten onmiddellijk corrigerende maatregelen worden genomen.  *Risicocategorie II*: risico op letsel voor personen of aantasting van het milieu. Corrigerende maatregelen op controleplaats indien mogelijk, anders uiterlijk bij het voltooien van het vervoerstraject.  *Risicocategorie III*: gering risico op letsel voor personen of aantasting milieu. Maatregelen hoeven niet op de controleplaats te worden genomen, maar kunnen later bij de onderneming worden genomen.    
 ### 3  
 
 ####Aansprakelijkheid
 
-Treedt in werking per 01-03-2015 
-
 Uit het oogpunt van de ketenaansprakelijkheid kunnen meerdere betrokkenen (tegelijkertijd) via de WVGS strafrechtelijk aansprakelijk worden gesteld voor overtreding van het ADR/WVGS. Als uitgangspunt geldt echter dat de vervoerder (rechtspersoon) als verdachte wordt aangemerkt.<sup> 1 In de Handhavingsuitvoeringsmethode (*HUM*) Wet vervoer gevaarlijke stoffen t.a.v. vervoer over de weg, opgesteld door het OM en de IVW, is de beleidskeuze gemaakt om in beginsel een rechtspersoon aan te merken als verdachte. </sup> In het ADR worden de volgende belangrijke betrokkenen genoemd: afzender, de vervoerder, geadresseerde (belangrijke betrokkenen 1.4.2 ADR). Tevens worden er voorbeelden gegeven van mogelijk andere betrokkenen en hun plichten: belader, vuller, verpakker, exploitant en losser (1.4.3 ADR).    
 ### 4  
 
 ####Vervolging
-
-Treedt in werking per 01-03-2015 
 
 Indien tegen de bestrafte een strafbeschikking is uitgevaardigd<sup> 2 Op grond van art. 36, tweede lid, WED behoeft de verdachte die rechtspersoon is, in afwijking van artikel 257c, tweede lid, Sv, slechts onder bijstand van een raadsman te worden gehoord als de strafbeschikking betalingsverplichtingen uit hoofde van geldboete en schadevergoedingsmaatregel bevat welke afzonderlijk of gezamenlijk meer belopen dan € 10 000. </sup> en deze gaat in verzet tegen de strafbeschikkingen dan wordt hij gedagvaard. De officier van justitie eist dan in beginsel dezelfde geldboete als initieel bij strafbeschikking is opgelegd, tenzij de bestrafte geen inhoudelijke gronden aanvoert waarop zijn verzet is gebaseerd of in zijn verzetschrift geen gronden aangeeft en teven verstek laat gaan<sup> 3 Zie eveneens de Aanwijzing OM-strafbeschikking. </sup>. Is een transactievoorstel gedaan en niet nagekomen, dan zal de officier van justitie ter zitting de eis met 20% verhogen. Bij cumulatie van overtredingen wordt bij elk feit afzonderlijk de geldboete berekend. Daarna worden die aantallen bij elkaar opgeteld. De draagkracht van de verdachte is mede bepalend voor het uiteindelijke boetebedrag. Ook op basis van algemene beoordelingsfactoren kunnen de bedragen worden verhoogd/verlaagd. De algemene beoordelingsfactoren zijn: 
 
@@ -64,13 +50,9 @@ Indien tegen de bestrafte een strafbeschikking is uitgevaardigd<sup> 2 Op grond 
 
 ####Relatieve competentie
 
-Treedt in werking per 01-03-2015 
-
 Het proces-verbaal wordt in beginsel ingezonden aan het parket (Functioneel Parket) van het arrondissement waarbinnen de pleegplaats is gelegen.     
 
 ####Tarieflijst
-
-Treedt in werking per 01-03-2015 
 
 De overtredingen waarop de tarieflijst betrekking heeft, zijn kort aangeduid en voorzien van het overtreden voorschrift. De aanduiding van het overtreden voorschrift is, hetzij het randnummer als genoemd in de ‘Europese overeenkomst betreffende het vervoer van gevaarlijke stoffen over de weg’ (ADR), hetzij een verwijzing naar andere wet- of regelgeving.  
 

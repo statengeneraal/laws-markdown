@@ -4,13 +4,9 @@
 
 ####Beschrijving
 
-Treedt in werking per 01-03-2015 
-
 Deze richtlijn heeft betrekking op diverse vormen van openlijke geweldpleging.    
 
 ####Basiscasus/delict
-
-Treedt in werking per 01-03-2015 
 
 Openlijke geweldpleging. 
 
@@ -40,18 +36,12 @@ Openlijke geweldpleging.
 
 ####Legenda
 
-Treedt in werking per 01-03-2015 
-
 *Afkortingen*  GB = Geldboete TS = Taakstraf GS = gevangenisstraf ov = onvoorwaardelijk 5j = recidive binnen 5 jaar 2j = recidive binnen 2 jaar    
 
 ####Gevaarzettend
 
-Treedt in werking per 01-03-2015 
-
 Onder gevaarzettend wordt verstaan gedragingen die potentieel tot ernstiger letsel (dan het letsel dat is gevolgd) hadden kunnen leiden. Denk aan het gebruik van slag/stootwapens, het gooien van zware voorwerpen richting personen, afsteken vuurwerk en richten ervan op personen, schoppen tegen lichaam van een liggend slachtoffer.    
 
 ####Agressie in het verkeer
-
-Treedt in werking per 01-03-2015 
 
 Met betrekking tot een aantal delicten, zoals mishandeling, openlijke geweld, vernieling en bedreiging, dient het eventuele feit dat de gepleegde agressieve handeling samenhangt met, of terug te voeren is op een verkeerssituatie, strafverzwarend te worden beoordeeld. Reden voor die verzwaring is enerzijds het risico van escalatie van dergelijke delicten in een overgevoelige situatie, en anderzijds de verhoogde gevaarzetting die agressie in een verkeerssituatie voor andere verkeersdeelnemers doorgaans oplevert. Voor een toelichting op de andere onderstreepte begrippen zie de Aanwijzing kader voor strafvordering en OM-afdoeningen.     

@@ -3,7 +3,7 @@
 ##Verordening van het Hoofdbedrijfschap Detailhandel van 31 oktober 2012, houdende de vaststelling van de bestemmingsheffing ambulante handel voor het jaar 2013 (Verordening bestemmingsheffing ambulante handel 2013)
 
 Het bestuur van het Hoofdbedrijfschap Detailhandel; 
-Gelet op de [artikelen 95, tweede lid](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en [126 van de Wet op de Bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+Gelet op de artikelen 95, tweede lid, en 126 van de Wet op de Bedrijfsorganisatie;
 
 Gezien het advies van de Adviescommissie Markt-, Straat- en Rivierhandel;
 Besluit:  
@@ -15,15 +15,15 @@ Besluit:
 
 In deze verordening wordt verstaan onder: 
 
-a.een onderneming: een onderneming waarvoor het hoofdbedrijfschap is ingesteld als bedoeld in [artikel 3 van het Instellingsbesluit Hoofdbedrijfschap Detailhandel](../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/detailhandel/BWBR0017190/README.md);
+a.een onderneming: een onderneming waarvoor het hoofdbedrijfschap is ingesteld als bedoeld in artikel 3 van het Instellingsbesluit Hoofdbedrijfschap Detailhandel;
 
 b.de ondernemer: degene die een onderneming drijft dan wel degenen die gezamenlijk een onderneming drijven;
 
-c.detailhandel: hetgeen daaronder wordt verstaan in [artikel 1 van het Instellingsbesluit Hoofdbedrijfschap Detailhandel](../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/detailhandel/BWBR0017190/README.md);
+c.detailhandel: hetgeen daaronder wordt verstaan in artikel 1 van het Instellingsbesluit Hoofdbedrijfschap Detailhandel;
 
 d.ambulante handel: markthandel, straathandel en handel te water;
 
-e.bestemmingsheffing: de heffing die is gebaseerd op [artikel twaalf, tweede lid, van het Instellingsbesluit Hoofdbedrijfschap Detailhandel](../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/detailhandel/BWBR0017190/README.md);
+e.bestemmingsheffing: de heffing die is gebaseerd op artikel twaalf, tweede lid, van het Instellingsbesluit Hoofdbedrijfschap Detailhandel;
 
 f.de voorzitter: de voorzitter van het Hoofdbedrijfschap Detailhandel.
 
@@ -53,8 +53,8 @@ f.de voorzitter: de voorzitter van het Hoofdbedrijfschap Detailhandel.
 
 ###Artikel  5 
 
-1.  De [artikelen 6 tot en met 17 van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2013](../../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/detailhandel/2013/BWBR0032458/README.md) zijn van overeenkomstige toepassing. 
-2.  In afwijking van het bepaalde in het eerste lid is [artikel 6, eerste lid, van de Heffingsverordening HBD 2013](../../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/detailhandel/2013/BWBR0032458/README.md) niet van overeenkomstige toepassing indien de ondernemer, die met de uitoefening van zijn bedrijf op of na 1 oktober 2013 is gestart, een bewijs van registratie wenst te ontvangen. De heffing bedraagt in dat geval 50% van de volgens deze verordening berekende heffing. Het bewijs van registratie wordt zo spoedig mogelijk na betaling van deze heffing ter beschikking gesteld.
+1.  De artikelen 6 tot en met 17 van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2013 zijn van overeenkomstige toepassing. 
+2.  In afwijking van het bepaalde in het eerste lid is artikel 6, eerste lid, van de Heffingsverordening HBD 2013 niet van overeenkomstige toepassing indien de ondernemer, die met de uitoefening van zijn bedrijf op of na 1 oktober 2013 is gestart, een bewijs van registratie wenst te ontvangen. De heffing bedraagt in dat geval 50% van de volgens deze verordening berekende heffing. Het bewijs van registratie wordt zo spoedig mogelijk na betaling van deze heffing ter beschikking gesteld.
 
 ###Artikel  6 
 

@@ -4,13 +4,9 @@
 
 ####Beschrijving
 
-Treedt in werking per 01-03-2015 
-
 Deze richtlijn is van toepassing op schuldheling en opzetheling.    
 
 ####Basiscasus/delict
-
-Treedt in werking per 01-03-2015 
 
 Heling, alleen gepleegd.  
 
@@ -31,7 +27,5 @@ Heling, alleen gepleegd.
 |  *Bijzonderheden*   Uitgangspunt is tevens dat wederrechtelijk verkregen voordeel wordt ontnomen  Strafverzwarend onder andere:   *Medeplegen*   Gewoonteheling (doelbewust en met regelmaat)  ‘Gestolen op bestelling’ bij opzet/gewoonteheling  Bij opzetheling wetenschap dat goed afkomstig is van HIC (overval, woninginbraak)  *let op taakstrafverbod (art. 22b Sr) en of er sprake is van een (zeer actieve)* veelpleger of stelselmatige dader*   |
 
 ####Legenda
-
-Treedt in werking per 01-03-2015 
 
 *Afkortingen*  GB = Geldboete TS = Taakstraf GS = gevangenisstraf ov = onvoorwaardelijk 5j = recidive binnen 5 jaar 2j = recidive binnen 2 jaar HIC= High Impact Crime Voor een toelichting op de onderstreepte begrippen zie de Aanwijzing kader voor strafvordering en OM-afdoeningen.     

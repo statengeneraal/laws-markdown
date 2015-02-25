@@ -3,14 +3,14 @@
 ##Verordening van het Productschap Vee en Vlees van 30 oktober 2013, houdende de vaststelling van een bestemmingsheffing ten behoeve van de vleeswarenindustrie voor het jaar 2014 (Verordening bestemmingsheffingen vleeswarenindustrie (PVV) 2014)
 
 Het bestuur van het Productschap Vee en Vlees;  
-Gelet op de [artikelen 95](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [artikel 12 van het Instellingsbesluit Productschap Vee en Vlees](../../../../../../../AMvB/instellingsbesluit/productschap/vee/en/vlees/BWBR0016491/README.md);
+Gelet op de artikelen 95 en 126 van de Wet op de bedrijfsorganisatie en artikel 12 van het Instellingsbesluit Productschap Vee en Vlees;
 
-Gezien de [Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(pvv)/2005/BWBR0017340/README.md);
+Gezien de Verordening algemene bepalingen heffingen (PVV) 2005;
 Besluit:    
 
 ###Artikel 1 
 
-1. Deze verordening neemt over de begripsbepalingen van de [Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(pvv)/2005/BWBR0017340/README.md) en de [Verordening huishoudelijke heffingen (PVV) 2014](../../../../../../../pbo/verordening/huishoudelijke/heffingen/(pvv)/2014/BWBR0034370/README.md) en verstaat voorts onder: 
+1. Deze verordening neemt over de begripsbepalingen van de Verordening algemene bepalingen heffingen (PVV) 2005 en de Verordening huishoudelijke heffingen (PVV) 2014 en verstaat voorts onder: 
 
 | --- | --- | --- |
 |:---|:---|:---|
@@ -19,10 +19,10 @@ Besluit:
 | --- | --- |- alsmede eenieder die als zelfstandige zonder personeel of als uitzendkracht of inleenkracht werkzaam is in de onderneming; |
 |b. f.t.e. |: |fulltime-equivalent gemiddeld 36 uur per week bedraagt; |
 |c. omzet |: |omzet behaald met de onderneming over het kalenderjaar dat voorafgaat aan het tijdvak waarover wordt geheven; |
-|d. fonds sociale aangelegenheden |: |fonds als bedoeld in[ artikel 1, vierde lid, van de Verordening fonds sociale aangelegenheden vleeswarenindustrie (PVV) 2012](../../../../../../../pbo/verordening/fonds/sociale/aangelegenheden/vleeswarenindustrie/(pvv)/2012/BWBR0031986/README.md); |
-|e. O & O-fonds |: |fonds als bedoeld in [artikel 1, vierde lid, van de Verordening fonds voor onderzoek en ontwikkeling vleeswarenindustrie (PVV) 2012](../../../../../../../pbo/verordening/fonds/voor/onderzoek/en/ontwikkeling/vleeswarenindustrie/(pvv)/etc/BWBR0031985/README.md). |
+|d. fonds sociale aangelegenheden |: |fonds als bedoeld in artikel 1, vierde lid, van de Verordening fonds sociale aangelegenheden vleeswarenindustrie (PVV) 2012; |
+|e. O & O-fonds |: |fonds als bedoeld in artikel 1, vierde lid, van de Verordening fonds voor onderzoek en ontwikkeling vleeswarenindustrie (PVV) 2012. |
 
-2. In afwijking van de [Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(pvv)/2005/BWBR0017340/README.md), wordt verstaan onder: 
+2. In afwijking van de Verordening algemene bepalingen heffingen (PVV) 2005, wordt verstaan onder: 
 
 | --- | --- | --- |
 |:---|:---|:---|
@@ -76,7 +76,7 @@ Besluit:
 
 ###Artikel 4 
 
-Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de [Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(pvv)/2005/BWBR0017340/README.md). 
+Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de Verordening algemene bepalingen heffingen (PVV) 2005. 
 
 ###Artikel 5 
 

@@ -3,7 +3,7 @@
 ##Verordening van het Hoofdproductschap Akkerbouw van 8 november 2007 houdende regels ter zake van de aan de onder het Hoofdproductschap Akkerbouw ressorterende ondernemers op te leggen heffing voor het jaar 2008 (verordening HPA financieringsheffing teeltaangelegenheden jaar 2008)
 
 Het bestuur van het Hoofdproductschap Akkerbouw,  
-Gelet op de [artikelen 95](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 eerste en zesde lid van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op de [artikelen 3](../../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md) en [19 van het Instellingsbesluit akkerbouwproductschappen](../../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md);
+Gelet op de artikelen 95 en 126 eerste en zesde lid van de Wet op de bedrijfsorganisatie en op de artikelen 3 en 19 van het Instellingsbesluit akkerbouwproductschappen;
 
 Gehoord de Commissie Teeltaangelegenheden;
 Besluit:     
@@ -37,7 +37,7 @@ Deze verordening verstaat onder:
 ### Artikel  2  
 
 1.  De ondernemer, die in het jaar 2008 een onderneming drijft, met als activiteit het telen van akkerbouwgewassen, is verplicht voor dat jaar aan het hoofdproductschap een heffing te betalen.   
-2.  De berekening van de heffing vindt plaats op basis van de door de ondernemer aan het hoofdproductschap ingevolge de bij of krachtens de [Verordening HPA registratie en verstrekking van gegevens 2003](../../../../../../../../pbo/verordening/hpa/registratie/en/verstrekking/van/gegevens/2003/BWBR0014846/README.md) verstrekte gegevens.   
+2.  De berekening van de heffing vindt plaats op basis van de door de ondernemer aan het hoofdproductschap ingevolge de bij of krachtens de Verordening HPA registratie en verstrekking van gegevens 2003 verstrekte gegevens.   
 3.  De heffing wordt opgelegd naar het grondgebruik en berekend naar de oppervlakte van de bij de onderneming behorende cultuurgrond en bedraagt voor:  
 
 | --- | --- | --- |
@@ -102,7 +102,7 @@ Een ondernemersorganisatie wordt op haar schriftelijk en gemotiveerd verzoek doo
 
 a. krachtens haar statutaire doelstelling haar werkzaamheid kan uitstrekken tot ten minste een belangrijk gedeelte van het terrein waarop het hoofdproductschap een taak heeft te vervullen;  
 
-b. voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de [artikelen 3 tot en met 7 van de Verordening representativiteit organisaties](../../../../../../../../pbo/verordening/representativiteit/organisaties/BWBR0011641/README.md) van de Sociaal Economische Raad;  
+b. voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de artikelen 3 tot en met 7 van de Verordening representativiteit organisaties van de Sociaal Economische Raad;  
 
 c. tot de werkingssfeer van het hoofdproductschap behorende leden heeft, waarvan het gewogen aantal niet onbetekenend is;  
 
@@ -158,7 +158,7 @@ De secretaris kan, namens het bestuur, besluiten nota's met een bedrag minder da
 
 ### Artikel  15  
 
-Aan de ondernemer die niet of niet geheel binnen de in artikel 12 gestelde termijn heeft betaald, kan door de secretaris, namens het bestuur, de wettelijke interest over het niet-betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md). 
+Aan de ondernemer die niet of niet geheel binnen de in artikel 12 gestelde termijn heeft betaald, kan door de secretaris, namens het bestuur, de wettelijke interest over het niet-betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie. 
 
 ### §  6  
 
@@ -179,7 +179,7 @@ Een besluit als bedoeld in artikel 10, tweede lid wordt bekendgemaakt in het Ver
 
 ### Artikel  18  
 
-Deze verordening treedt in werking met ingang van 1 januari 2008. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 31 december 2007, treedt zij in werking de tweede dag na publicatie in het Verordeningenblad Bedrijfsorganisatie en werkt zij terug tot en met 1 januari 2008, met uitzondering van het in [artikel 12 van de Verordening HPA registratie en verstrekking van gegevens 2003](../../../../../../../../pbo/verordening/hpa/registratie/en/verstrekking/van/gegevens/2003/BWBR0014846/README.md) bepaalde. 
+Deze verordening treedt in werking met ingang van 1 januari 2008. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 31 december 2007, treedt zij in werking de tweede dag na publicatie in het Verordeningenblad Bedrijfsorganisatie en werkt zij terug tot en met 1 januari 2008, met uitzondering van het in artikel 12 van de Verordening HPA registratie en verstrekking van gegevens 2003 bepaalde. 
 
 ### Artikel  19  
 

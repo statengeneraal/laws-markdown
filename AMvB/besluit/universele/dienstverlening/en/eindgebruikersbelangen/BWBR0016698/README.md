@@ -38,7 +38,7 @@ h. telexdienst: commerciële exploitatie ten behoeve van het publiek van direct 
 
 i. carrierdienst: elektronische communicatiedienst, niet zijnde de openbare telefoondienst, die voor het publiek beschikbaar is voor uitgaande gesprekken;
 
-j.nummer met bijzondere toegang: nummer uit het Nummerplan telefoon- en ISDN-diensten of een internationaal nummer dat voor toegang gebruik maakt van een voor dat nummer specifieke voorziening in een randapparaat van de eindgebruiker die wordt aangeboden door een aanbieder anders dan de aanbieder van een openbare elektronische communicatiedienst die de eindgebruiker toegang verschaft tot nummers uit het Nummerplan telefoon- en ISDN-diensten of internationale nummers;  
+j.klacht: iedere klacht of vraag van een abonnee aan een aanbieder van een openbare elektronische communicatiedienst omtrent de bedragen die deze aanbieder aan hem in rekening brengt;  
 
 k. bemiddelingsdienst: algemeen beschikbare dienst waarmee door omzetting van real-time text of beeld van gebarentaal, eventueel ondersteund door spraak, naar spraak en spraak naar real-time text of beeld van gebarentaal, eventueel ondersteund door spraak, een gesprek kan worden gevoerd tussen enerzijds een eindgebruiker die gebruik maakt van tekst- of beeldtelefonie en anderzijds een eindgebruiker die gebruik maakt van reguliere telefonie; 
 
@@ -141,7 +141,7 @@ De aanbieder van telefoongidsen of de abonnee-informatiedienst die krachtens art
 
 ### Artikel  2.11  
 
-1. Teneinde abonnees in staat te stellen hun uitgaven te beheersen en te controleren en een ongegronde onderbreking van de levering van de dienst te voorkomen, worden bij ministeriële regeling aanbieders die krachtens artikel 9.2 van de wet zijn aangewezen verplicht om diensten of faciliteiten als bedoeld in bijlage I, deel A, van richtlijn nr. 2002/22/EG te leveren.  
+1. Teneinde abonnees in staat te stellen hun uitgaven te beheersen en te controleren en een ongegronde onderbreking van de levering van de dienst te voorkomen, worden bij ministeriële regeling aanbieders die krachtens artikel 9.2 van de wet zijn aangewezen verplicht om diensten of faciliteiten als bedoeld in bijlage I, deel A, van richtlijn nr. 2002/22/EG te leveren. De verplichtingen die strekken tot uitvoering van bijlage I, Deel A, onderdeel e, van richtlijn nr. 2002/22/EG zijn van overeenkomstige toepassing op aanbieders van openbare elektronische communicatiediensten die de eindgebruiker toegang verschaffen tot nummers uit het Nummerplan telefoon- en ISDN-diensten of internationale nummers, met uitzondering van aanbieders van carrierdiensten.  
 2.  Bij ministeriële regeling kunnen regels worden gesteld over het door een aanbieder van openbare elektronische communicatiediensten opschorten of beëindigen van de levering van zijn openbare elektronische communicatiedienst. De regels kunnen betrekking hebben op verplichtingen waaraan de aanbieder moet voldoen voordat hij de dienstverlening mag opschorten of beëindigen. Zij kunnen tevens inhouden dat de dienstverlening in bij de regeling omschreven gevallen geheel of gedeeltelijk in stand moet blijven. 
 
 ### Artikel  2.11a  
@@ -160,17 +160,13 @@ In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder:
 
 –  *aanbieder:* onderneming die openbare elektronische communicatiediensten, openbare elektronische communicatiewerken of bijbehorende faciliteiten aanbiedt;  
 
-–  *omzet:* omzet als bedoeld in artikel 1, onderdeel d, van het Besluit vergoedingen Telecommunicatiewet.   
+–  *omzet:* omzet als bedoeld in artikel 12, eerste lid, van het Besluit doorberekening kosten ACM.   
 
 ### Artikel  2.13  
 
-1.  Bij de vaststelling van de hoogte van de bijdrage wordt de op grond van artikel 9.4, vierde lid, van de wet gepubliceerde vergoeding vermenigvuldigd met de volgende verdeelsleutels: 
-
-a. voor de bijdrage die verschuldigd is door aanbieders wier omzet meer bedraagt dan een bij ministeriële regeling te bepalen grensbedrag: de formule A / (B + C);  
-
-b. voor de bijdrage die verschuldigd is door aanbieders wier omzet ten hoogste het in onderdeel a bedoelde grensbedrag bedraagt: de formule C / (B + C) * n   waarbij: A voorstelt: de omzet van de aanbieder wiens omzet meer bedraagt dan het grensbedrag; B voorstelt: het totaal van de omzetten A; C voorstelt: het bedrag dat wordt berekend door vermenigvuldiging van het aantal aanbieders waarvan de omzet ten hoogste het grensbedrag en ten minste een bij ministeriële regeling te bepalen minimum bedraagt, met de helft van de som van dit minimum en het grensbedrag; n voorstelt: het aantal aanbieders waarvan de omzet ten hoogste het grensbedrag en ten minste het minimum bedraagt.   
-2.  De hoogte van de bijdrage wordt op nihil gesteld indien de aanbieder aan de Autoriteit Consument en Markt een onderbouwde opgave over zijn omzet heeft gedaan waarvan naar het oordeel van de Autoriteit Consument en Markt aannemelijk is dat de omzet minder bedraagt dan het in het eerste lid bedoelde minimum.   
-3.  Bij de toepassing van de verdeelsleutels, bedoeld in het eerste lid, wordt uitgegaan van de omzetgegevens die op grond van artikel 5c, tweede tot en met zesde lid, van het Besluit vergoedingen Telecommunicatiewet worden verstrekt.   
+1.  Voor de vaststelling van de hoogte van de bijdrage wordt de vergoeding, bedoeld in artikel 9.4, vierde lid, van de Telecommunicatiewet toegedeeld aan de aanbieders naar rato van hun omzet. De artikelen 12, vierde lid, en 13 van het Besluit doorberekening kosten ACM zijn van overeenkomstige toepassing.   
+2.  Bij ministeriële regeling wordt bepaald beneden welke omzet aan een aanbieder geen bedrag in rekening wordt gebracht.   
+3.  Bij de toepassing van het eerste en tweede lid wordt uitgegaan van de omzetgegevens die op grond van artikel 12a van het Besluit doorberekening kosten ACM zijn verstrekt.   
 4.  De aanbieder betaalt de bijdrage binnen 30 dagen na ontvangst van de beschikking waarin de hoogte van de bijdrage wordt vastgesteld.  
 
 ### Hoofdstuk  3  
@@ -209,21 +205,6 @@ b. telexdiensten;
 
 c. carrierdiensten.   
 
-###Artikel 3.4a 
-
-1. Als categorieën van nummers, bedoeld in artikel 12.1, tweede lid, van de wet worden aangewezen:
-
-a.nummers die behoren tot de reeksen 0906, 0909 en 18 uit het Nummerplan telefoon- en ISDN-diensten:
-
-b.nummers die behoren tot de reeks 0900 uit het Nummerplan telefoon- en ISDN-diensten en die worden gebruikt voor het aanbieden van een aan de oproep verbonden dienst, voor zover daarvoor een bijkomend tarief wordt gerekend boven het tarief voor het overbrengen van elektronische signalen;
-
-c.nummers met bijzondere toegang, uitgezonderd geografische nummers, nummers uit de reeks 0670 tot en met 0679 en nummers als bedoeld in de onderdelen a en b van dit lid. 
-2. De periode, bedoeld in artikel 12.1, tweede lid, van de wet, omvat voor nummergebruikers:
-
-a.de periode gedurende welke een nummer in gebruik is gegeven aan de nummergebruiker, verlengd met drie maanden en
-
-b.de periode gedurende welke een geschil tegen de nummergebruiker aanhangig is bij een in dat lid bedoelde geschillencommissie, voor zover de klacht, waarvan het geschil het gevolg is, is ingediend in de onder a bedoelde periode.
-
 ### §  3.3  
 
 ####Transparantie van diensten, tarieven, contractvoorwaarden, nummers en kwaliteit, gebruiksbegrenzing en wanbetaling
@@ -246,7 +227,7 @@ c.de weergave van nummers door aanbieders van openbare elektronische communicati
 
 d.het aan de consument bieden van een voorziening voor het begrenzen van het gebruik van openbare elektronische communicatiediensten door aanbieders van openbare elektronische communicatiediensten;
 
-e.de gevolgen van een schriftelijke betwisting door een consument van de rekening van een aanbieder van een openbare elektronische communicatiedienst die aan eindgebruikers wordt geleverd of van een nummergebruiker, alsmede de gevolgen van een geschilprocedure waarin de consument deze rekening betwist. 
+e. de gevolgen van een klacht van een consument over een bedrag dat door een aanbieder van een openbare elektronische communicatiedienst aan de consument in rekening is gebracht, alsmede de gevolgen van de betwisting van dat bedrag ten overstaan van een geschillencommissie als bedoeld in artikel 12.1 van de wet. 
 2. De regels, bedoeld in het eerste lid, onderdelen a en b, kunnen verschillen voor de bij die regeling te bepalen categorieën van nummers. 
 3. De regels, bedoeld in het eerste lid, kunnen verschillen voor de bij die regeling te bepalen categorieën van aanbieders van openbare elektronische communicatiediensten.
 
@@ -274,10 +255,6 @@ b. alle kosten in verband met de portabiliteit van nummers en andere identificat
 c. alle kosten die bij de beëindiging van het contract verschuldigd zijn.     
 3.  Bij ministeriële regeling kunnen regels worden gesteld omtrent de inhoud van en de opmaak van de verstrekking van de in het eerste en tweede lid genoemde gegevens.  
 
-### Artikel  3.6  
-
-De krachtens artikel 2.11 gestelde verplichtingen, die strekken tot uitvoering van bijlage I, Deel A, onderdeel e, van richtlijn nr. 2002/22/EG en gelden voor de krachtens artikel 9.2 van de wet aangewezen aanbieder van openbare telefoondiensten op een vaste locatie, zijn van overeenkomstige toepassing op aanbieders van openbare elektronische communicatiediensten die de eindgebruiker toegang verschaffen tot nummers uit het Nummerplan telefoon- en ISDN-diensten of internationale nummers, met uitzondering van aanbieders van carrierdiensten. 
-
 ###Artikel 3.6a 
 
 1. Bij ministeriële regeling kunnen regels worden gesteld voor nummergebruikers over:
@@ -297,12 +274,12 @@ f.de duur van een oproep naar een nummer.
 
 ### Artikel 3.6b 
 
-1. Als gedragingen die betrekking hebben op het kennelijk misbruik maken van de tarifering van een nummer worden aangewezen het voorafgaand aan een oproep:
+1. Als gedragingen die betrekking hebben op het kennelijk misbruik maken van de tarifering van een nummer worden aangewezen het voorafgaand aan het leveren van een aan een oproep verbonden dienst:
 
-a.verstrekken van feitelijk onjuiste informatie of informatie die de gemiddelde consument misleidt of kan misleiden als bedoeld in artikel 193c, eerste lid, en tweede lid, onderdeel b, van Boek 6 van het Burgerlijk Wetboek,
+a. verstrekken van feitelijk onjuiste informatie of informatie die de gemiddelde consument misleidt of kan misleiden als bedoeld in artikel 193c, eerste lid, en tweede lid, onderdeel b, van Boek 6 van het Burgerlijk Wetboek,  
 
-b.het weglaten van essentiële informatie als bedoeld in artikel 193d, tweede lid, van Boek 6 van het Burgerlijk Wetboekvoor zover die informatie geen betrekking heeft op de inhoud van de aan een oproep verbonden dienst of product. 
-2. Het eerste lid is van toepassing op nummers uit de categorieën 0900 en 18.
+b. weglaten van essentiële informatie als bedoeld in artikel 193d, tweede lid, van Boek 6 van het Burgerlijk Wetboek.   
+2. Het eerste lid is van toepassing op nummers uit de categorieën 0900, 0906, 0909 en 18.
 
 ### Hoofdstuk  4  
 

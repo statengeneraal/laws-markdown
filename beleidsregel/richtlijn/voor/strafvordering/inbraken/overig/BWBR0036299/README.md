@@ -4,8 +4,6 @@
 
 ####Beschrijving
 
-Treedt in werking per 01-03-2015 
-
 Deze richtlijn ziet op diefstal door middel van braak, verbreking, valse sleutel of inklimming: 
 
 – uit bedrijven en andere niet bewoonde verblijven, zoals scholen, kelderboxen, caravans e.d. en  
@@ -15,8 +13,6 @@ Deze richtlijn ziet op diefstal door middel van braak, verbreking, valse sleutel
 – uit automaten, van auto-accessoires, benzine uit auto e.d.   De richtlijn is niet van toepassing op woninginbraken en ram/plofkraken, noch op diefstal van koper met gevaarzetting en grote maatschappelijke schade (aparte richtlijnen).    
 
 ####Basiscasus/delict
-
-Treedt in werking per 01-03-2015 
 
 Inbraak/diefstal dmv verbreking, alleen gepleegd.  
 
@@ -30,8 +26,6 @@ Inbraak/diefstal dmv verbreking, alleen gepleegd.
 |  *Bijzonderheden*   Uitgangspunt is tevens dat de (totale) schade is/wordt vergoed  Strafverzwarend onder andere:   *Medeplegen* of georganiseerd verband (bijv. bij ladingdiefstallen = maatwerk)  Omvang schade (braakschade en (beoogde) waarde gestolene)  *let op taakstrafverbod (art. 22b Sr) en of er sprake is van een *(zeer actieve) veelpleger of stelselmatige dader*   |
 
 ####Legenda
-
-Treedt in werking per 01-03-2015 
 
 ###Afkortingen
 

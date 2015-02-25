@@ -3,7 +3,7 @@
 ##Verordening van het bestuur van het Hoofdbedrijfschap Ambachten van 7 november 2012, houdende regels terzake van de aan de ondernemers die het banketbakkersbedrijf uitoefenen op te leggen bestemmingsheffing voor het jaar 2013 (Verordening bestemmingsheffing banketbakkersbedrijf 2013)
 
 Het bestuur van het Hoofdbedrijfschap Ambachten;  
-Gelet op [artikel 95, tweede lid](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [artikel 126 van de Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+Gelet op artikel 95, tweede lid en artikel 126 van de Wet op de bedrijfsorganisatie;
 
 Gezien het advies van de Commissie detailhandel in brood en banket;
 Besluit:    
@@ -45,7 +45,7 @@ e.banketbakkersproducten: gebak dat is toebereid met slagroom, banketbakkersroom
 
 ###Artikel 4 
 
-De [artikelen 5 tot en met 14 van de Heffingsverordening Hoofdbedrijfschap Ambachten 2013](../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/ambachten/2013/BWBR0032779/README.md) zijn van overeenkomstige toepassing. 
+De artikelen 5 tot en met 14 van de Heffingsverordening Hoofdbedrijfschap Ambachten 2013 zijn van overeenkomstige toepassing. 
 
 ###Artikel 5 
 

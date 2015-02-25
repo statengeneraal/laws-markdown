@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Vee en Vlees van 31 oktober 2007, houdende vaststelling van de aan de onder het productschap ressorterende ondernemers op te leggen huishoudelijke heffing voor het jaar 2008 (Verordening huishoudelijke heffingen (PVV) 2008)
 
 Het bestuur van het Productschap Vee en Vlees,  
-Gelet op [artikel 126 van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en de [artikelen 10](../../../../../../../AMvB/instellingsbesluit/productschap/vee/en/vlees/BWBR0016491/README.md) en [12 van het Instellingsbesluit Productschap Vee en Vlees](../../../../../../../AMvB/instellingsbesluit/productschap/vee/en/vlees/BWBR0016491/README.md);
+Gelet op artikel 126 van de Wet op de bedrijfsorganisatie en de artikelen 10 en 12 van het Instellingsbesluit Productschap Vee en Vlees;
 
 Gezien de Verordening algemene bepalingen heffingen (PVV) 2005;
 Besluit:     
@@ -16,7 +16,7 @@ Materieel uitgewerkt per 01-01-2009
 ### Artikel  1  
 Materieel uitgewerkt per 01-01-2009 
 
-Deze verordening neemt over de begripsbepalingen van de [Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(pvv)/2005/BWBR0017340/README.md) en verstaat voorts onder:  
+Deze verordening neemt over de begripsbepalingen van de Verordening algemene bepalingen heffingen (PVV) 2005 en verstaat voorts onder:  
 
 | --- | --- | --- | --- |
 |:---|:---|:---|:---|
@@ -179,9 +179,9 @@ Materieel uitgewerkt per 01-01-2009
 ### Artikel  8  
 Materieel uitgewerkt per 01-01-2009 
 
-1.  Aan de ondernemer, bedoeld in artikel 7, die contributie heeft betaald als lid of indirect lid van een overeenkomstig het derde lid aangewezen ondernemersorganisatie, wordt op zijn verzoek een aftrek toegestaan op het totaal aan heffing verschuldigde bedrag ingevolge deze verordening en de [Verordening bestemmingsheffingen vleeswarenindustrie (PVV) 2008](../../../../../../../pbo/verordening/bestemmingsheffingen/vleesindustrie/(pvv)/2008/BWBR0024582/README.md).   
+1.  Aan de ondernemer, bedoeld in artikel 7, die contributie heeft betaald als lid of indirect lid van een overeenkomstig het derde lid aangewezen ondernemersorganisatie, wordt op zijn verzoek een aftrek toegestaan op het totaal aan heffing verschuldigde bedrag ingevolge deze verordening en de Verordening bestemmingsheffingen vleeswarenindustrie (PVV) 2008.   
 2.  De aftrek beloopt 50% van het bedrag, dat de ondernemer als contributie aan de betreffende ondernemersorganisatie over het betrokken kalenderjaar heeft betaald tot ten hoogste de helft van hetgeen hij in totaal is verschuldigd aan heffing, op grond van de in het eerste lid genoemde heffingsverordeningen, over datzelfde betrokken kalenderjaar.   
-3.  De in het eerste lid bedoelde ondernemersorganisatie wordt aangewezen door het bestuur, met inachtneming van het bepaalde in het [Besluit beleidsregels Bestuurskamer](../../../../../../../pbo/besluit/beleidsregels/bestuurskamer/BWBR0015680/README.md) van de Sociaal-Economische Raad.  
+3.  De in het eerste lid bedoelde ondernemersorganisatie wordt aangewezen door het bestuur, met inachtneming van het bepaalde in het Besluit beleidsregels Bestuurskamer van de Sociaal-Economische Raad.  
 
 ### 5  
 
@@ -198,9 +198,9 @@ Materieel uitgewerkt per 01-01-2009
 ### Artikel  10  
 Materieel uitgewerkt per 01-01-2009 
 
-1.  Aan de ondernemer, bedoeld in artikel 9, die contributie heeft betaald als lid of indirect lid van een overeenkomstig het derde lid aangewezen ondernemersorganisatie, wordt op zijn verzoek een aftrek toegestaan op het totaal aan heffing verschuldigde bedrag op grond van deze verordening en de [Verordening bestemmingsheffingen vleesindustrie (PVV) 2008](../../../../../../../pbo/verordening/bestemmingsheffingen/vleesindustrie/(pvv)/2008/BWBR0024582/README.md).   
+1.  Aan de ondernemer, bedoeld in artikel 9, die contributie heeft betaald als lid of indirect lid van een overeenkomstig het derde lid aangewezen ondernemersorganisatie, wordt op zijn verzoek een aftrek toegestaan op het totaal aan heffing verschuldigde bedrag op grond van deze verordening en de Verordening bestemmingsheffingen vleesindustrie (PVV) 2008.   
 2.  De aftrek beloopt 50% van het bedrag dat de ondernemer als contributie aan de betreffende ondernemersorganisatie over het betrokken kalenderjaar heeft betaald, tot ten hoogste de helft van hetgeen hij in totaal is verschuldigd aan heffing op grond van de in het eerste lid genoemde heffingsverordeningen over datzelfde betrokken kalenderjaar.   
-3.  De in het eerste lid bedoelde ondernemersorganisatie wordt aangewezen door het bestuur, met inachtneming van het bepaalde in het [Besluit beleidsregels Bestuurskamer](../../../../../../../pbo/besluit/beleidsregels/bestuurskamer/BWBR0015680/README.md) van de Sociaal-Economische Raad.  
+3.  De in het eerste lid bedoelde ondernemersorganisatie wordt aangewezen door het bestuur, met inachtneming van het bepaalde in het Besluit beleidsregels Bestuurskamer van de Sociaal-Economische Raad.  
 
 ### 6  
 
@@ -211,7 +211,7 @@ Materieel uitgewerkt per 01-01-2009
 ### Artikel  11  
 Materieel uitgewerkt per 01-01-2009 
 
-Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de [Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(pvv)/2005/BWBR0017340/README.md). 
+Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de Verordening algemene bepalingen heffingen (PVV) 2005. 
 
 ### 7  
 

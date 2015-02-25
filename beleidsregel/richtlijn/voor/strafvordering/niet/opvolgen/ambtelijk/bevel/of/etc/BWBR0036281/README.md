@@ -4,13 +4,9 @@
 
 ####Beschrijving
 
-Treedt in werking per 01-03-2015 
-
 Deze richtlijn ziet zowel op het niet voldoen aan ambtelijke bevelen gegeven op grond van de openbare orde of in het kader van het opsporen of onderzoeken van strafbare feiten als op het beletten, belemmeren en verijdelen van een ambtshandeling. De richtlijn is ook van toepassing op het overtreden van gebiedsontzeggingen en handelen in strijd met gedragsaanwijzingen ter beëindiging van ernstige overlast, waarbij een verzwaarde recidiveregeling wordt toegepast.    
 
 ####Basiscasus/delict
-
-Treedt in werking per 01-03-2015 
 
 Niet voldoen aan ambtelijk bevel of het beletten, belemmeren of verijdelen van een ambtshandeling alleen gepleegd.  
 
@@ -38,24 +34,16 @@ Niet voldoen aan ambtelijk bevel of het beletten, belemmeren of verijdelen van e
 
 ####Legenda
 
-Treedt in werking per 01-03-2015 
-
 *Afkortingen*  GB = Geldboete TS = Taakstraf GS = gevangenisstraf ov = onvoorwaardelijk ovj = officier van justitie 5j = recidive binnen 5 jaar 2j = recidive binnen 2 jaar    
 
 ####Er is sprake van brand, ongeval of levensbedreigende situaties
-
-Treedt in werking per 01-03-2015 
 
 Dit heeft in het bijzonder betrekking op situaties, waarbij hulpverlening gegeven moet worden. Bijvoorbeeld het blussen van een brand, (medische) hulpverlening bij ongevallen e.d. Het niet opvolgen van bevelen kan hier leiden tot zeer ernstige gevolgen, zelfs tot levensbedreigende situaties.    
 
 ####Bij oploop, rellen, ongeregeldheden e.d.
 
-Treedt in werking per 01-03-2015 
-
 Betreft het situaties, waarbij de openbare orde ernstig is verstoord, dan dient dit als strafverzwarend te worden beoordeeld (denk hierbij aan taakstraffen). Er kunnen bedreigende en/of gevaarlijke situaties ontstaan voor zowel de politie als het aanwezige publiek. Het opvolgen van bevelen is in deze derhalve van groot belang. Wanneer onder dergelijke ernstige omstandigheden bevelen niet worden opgevolgd, is de kans groot dat de situatie verder uit de hand loopt met alle gevolgen van dien.    
 
 ####Gepaard met (bedreiging met) geweld.
-
-Treedt in werking per 01-03-2015 
 
 Met (bedreiging met) geweld wordt bedoeld het gebruik van geweld of bedreiging met fysiek geweld, anders dan bedoeld in art. 285 Sr. Door gebruik van dit geweld of de dreiging er mee heeft het beoogde delict een grotere kans van slagen. Tevens wordt de impact op het slachtoffer groter. Te denken valt aan geweld als 'duwen' en 'trekken' en bedreiging zoals 'opwachten', 'slaan' en dergelijke. Overigens dient deze factor ook toegepast te worden indien een bedreiging, als bedoeld in art. 285 Wetboek Sr, niet als zodanig tenlastegelegd wordt als gevolg van eendaadse samenloop. Voor een toelichting op de andere onderstreepte begrippen zie de Aanwijzing kader voor strafvordering en OM-afdoeningen.     

@@ -3,7 +3,7 @@
 ##Verordening van het bestuur van het Productschap Tuinbouw van 26 maart 2013, houdende de vaststelling van een algemene heffing ten behoeve van de teelt van bloembollen voor het oogstjaar 2013 (Verordening PT algemene heffing teelt bloembollen oogstjaar 2013)
 
 Het bestuur van het Productschap Tuinbouw; 
-Gelet op de [artikelen 95](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en de [artikelen 13](../../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md) en [14 van het Instellingsbesluit Productschap Tuinbouw](../../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md);
+Gelet op de artikelen 95 en 126 van de Wet op de bedrijfsorganisatie en de artikelen 13 en 14 van het Instellingsbesluit Productschap Tuinbouw;
 
 Gehoord de Commissie voor bollen, knollen en wortelstokken van bloemgewassen d.d. 26 februari 2013;
 Besluit:  
@@ -23,7 +23,7 @@ In deze verordening wordt verstaan onder:
 |d. |braakland |: |de gronden die in enig oogstjaar tot en met april van het daarop volgend oogstjaar niet worden beteeld; |
 |e. |cultuurgrond |: |de op 15 mei 2013 beteelde grond, de nog niet beteelde grond waarbij een teelt vóór eind augustus 2013 wordt ingezet, braakland; |
 |f. |bloembollen |: |bollen, knollen en wortelstokken van bloemgewassen alsmede voortkwekingsmateriaal dat is bestemd voor de teelt van bloembollen met uitzondering van zaden; |
-|g. |Gecombineerde opgave |: |het beschrijvingsbiljet als bedoeld in de [artikelen 24](../../../../../../../../../../wet/landbouwwet/BWBR0002252/README.md) en [25 van de Landbouwwet](../../../../../../../../../../wet/landbouwwet/BWBR0002252/README.md); |
+|g. |Gecombineerde opgave |: |het beschrijvingsbiljet als bedoeld in de artikelen 24 en 25 van de Landbouwwet; |
 |h. |gemeten maat |: |de oppervlakte van cultuurgrond, inclusief paden en voren die voor de teelt noodzakelijk zijn; |
 |i. |ondernemer |: |de natuurlijke- of rechtspersoon die een onderneming drijft waarvoor het productschap is ingesteld; |
 |j. |oogstjaar |: |de periode vanaf 1 juni 2013 tot en met 31 mei 2014; |
@@ -37,11 +37,11 @@ In deze verordening wordt verstaan onder:
 
 1.  De ondernemer die bloembollen teelt is over het oogstjaar een algemene heffing aan het productschap verschuldigd volgens de in artikel 4 vermelde heffingsgrondslag met bijbehorende tarieven. 
 2.  In geval van contractteelt waarbij de contractgever eigenaar is van de bloembollen die door de contractnemer worden geteeld, wordt de contractgever aangemerkt als de ondernemer die bloembollen teelt als bedoeld in het eerste lid. 
-3.  De heffing, als bedoeld in het eerste lid, wordt vastgesteld en opgelegd op de voet van de artikelen 5 tot en met 7 en met inachtneming van het bepaalde bij of krachtens de [Verordening PT algemene bepalingen 2009](../../../../../../../../../../pbo/verordening/pt/algemene/bepalingen/2009/BWBR0027562/README.md).
+3.  De heffing, als bedoeld in het eerste lid, wordt vastgesteld en opgelegd op de voet van de artikelen 5 tot en met 7 en met inachtneming van het bepaalde bij of krachtens de Verordening PT algemene bepalingen 2009.
 
 ###Artikel  3 
 
-Voor het vaststellen van de heffing op de grondslag van artikel 4, eerste lid, gebruikt het productschap, in afwijking van de [Verordening PT algemene bepalingen 2009](../../../../../../../../../../pbo/verordening/pt/algemene/bepalingen/2009/BWBR0027562/README.md) en onverminderd het bepaalde in artikel 2, tweede lid, de door ondernemer in het kalenderjaar 2013 bij Dienst Regelingen van het Ministerie van Economische Zaken ingediende Gecombineerde opgave.
+Voor het vaststellen van de heffing op de grondslag van artikel 4, eerste lid, gebruikt het productschap, in afwijking van de Verordening PT algemene bepalingen 2009 en onverminderd het bepaalde in artikel 2, tweede lid, de door ondernemer in het kalenderjaar 2013 bij Dienst Regelingen van het Ministerie van Economische Zaken ingediende Gecombineerde opgave.
 
 ###§  3  
 

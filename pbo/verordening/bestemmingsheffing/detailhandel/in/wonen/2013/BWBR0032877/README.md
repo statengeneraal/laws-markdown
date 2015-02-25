@@ -3,7 +3,7 @@
 ##Verordening van het Hoofdbedrijfschap Detailhandel van 31 oktober 2012, houdende de vaststelling van de bestemmingsheffing detailhandel in wonen voor het jaar 2013 (Verordening bestemmingsheffing detailhandel in wonen 2013)
 
 Het bestuur van het Hoofdbedrijfschap Detailhandel; 
-Gelet op de [artikelen 95, tweede lid](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+Gelet op de artikelen 95, tweede lid, en 126 van de Wet op de bedrijfsorganisatie;
 
 Gezien het advies van de Commissie voor de detailhandel in wonen;
 Besluit:  
@@ -15,7 +15,7 @@ Besluit:
 
 In deze verordening wordt verstaan onder: 
 
-a.een onderneming: een onderneming waarvoor het hoofdbedrijfschap is ingesteld als bedoeld in [artikel 3 van het Instellingsbesluit Hoofdbedrijfschap Detailhandel](../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/detailhandel/BWBR0017190/README.md);
+a.een onderneming: een onderneming waarvoor het hoofdbedrijfschap is ingesteld als bedoeld in artikel 3 van het Instellingsbesluit Hoofdbedrijfschap Detailhandel;
 
 b.de ondernemer: degene die een onderneming drijft dan wel degenen die gezamenlijk een onderneming drijven;
 
@@ -33,7 +33,7 @@ e.ambulante handel: markthandel, straathandel en handel te water;
 
 f.verkoopplaats: iedere plaats waar de detailhandel anders dan in de uitoefening van de ambulante handel wordt uitgeoefend, alsmede elke voor het publiek toegankelijke besloten ruimte waar waren aan particulieren te koop worden aangeboden;
 
-g.bestemmingsheffing: de heffing die is gebaseerd op [artikel twaalf, tweede lid, van het Instellingsbesluit Hoofdbedrijfschap Detailhandel](../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/detailhandel/BWBR0017190/README.md);
+g.bestemmingsheffing: de heffing die is gebaseerd op artikel twaalf, tweede lid, van het Instellingsbesluit Hoofdbedrijfschap Detailhandel;
 
 h.de voorzitter: de voorzitter van het Hoofdbedrijfschap Detailhandel. 
 
@@ -73,7 +73,7 @@ c. en een filiaalheffing van € 156,50 voor elke tweede en volgende verkoopplaa
 
 ###Artikel  4 
 
-De [artikelen 6 tot en met 17 van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2013](../../../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/detailhandel/2013/BWBR0032458/README.md) zijn van overeenkomstige toepassing.
+De artikelen 6 tot en met 17 van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2013 zijn van overeenkomstige toepassing.
 
 ###Artikel  5 
 

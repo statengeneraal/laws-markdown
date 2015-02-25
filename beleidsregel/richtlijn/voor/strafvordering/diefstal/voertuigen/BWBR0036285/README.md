@@ -4,13 +4,9 @@
 
 ####Beschrijving
 
-Treedt in werking per 01-03-2015 
-
 Deze richtlijn is van toepassing op diefstal *van* diverse soorten voertuigen en/of aanhangers, opleggers of caravans. De richtlijn ziet niet op transportdiefstallen, die vaak in georganiseerd verband plaatsvinden.    
 
 ####Basiscasus/delict
-
-Treedt in werking per 01-03-2015 
 
 Diefstal van één voertuig, alleen gepleegd.  
 
@@ -27,7 +23,5 @@ Diefstal van één voertuig, alleen gepleegd.
 |  *Bijzonderheden*   Uitgangspunt is tevens dat de (totale) schade is/wordt vergoed  Strafverzwarend onder andere:   *Medeplegen* of diefstal op bestelling  Hogere waarde van het voertuig (waarde is incl. (beoogde) inhoud)  Georganiseerd verband (bijv. inladen meerdere (brom)fietsen)  *let op taakstrafverbod (art. 22b Sr) en of er sprake is van een* (zeer actieve) veelpleger of stelselmatige dader*   |
 
 ####Legenda
-
-Treedt in werking per 01-03-2015 
 
 *Afkortingen*  GB = Geldboete TS = Taakstraf GS = gevangenisstraf ov = onvoorwaardelijk 5j = recidive binnen 5 jaar 2j = recidive binnen 2 jaar Voor een toelichting op de onderstreepte begrippen zie de Aanwijzing kader voor strafvordering en OM-afdoeningen.     

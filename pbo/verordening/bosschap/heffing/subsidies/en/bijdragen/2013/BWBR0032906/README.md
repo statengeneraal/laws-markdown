@@ -3,7 +3,7 @@
 ##Verordening van het Bosschap van 18 juni 2012, houdende regels ter zake van de aan de onder het Bosschap ressorterende ondernemers op te leggen heffing subsidies en bijdragen voor het jaar 2013 (Verordening Bosschap heffing subsidies en bijdragen 2013)
 
 Het bestuur van het Bosschap;  
-Gelet op de [artikelen 93](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [126](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [127 van de Wet op de bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op [artikel 7 van het Instellingsbesluit Bosschap](../../../../../../../../../AMvB/instellingsbesluit/bosschap/BWBR0015161/README.md);
+Gelet op de artikelen 93, 95, 126 en 127 van de Wet op de bedrijfsorganisatie en op artikel 7 van het Instellingsbesluit Bosschap;
 Besluit:    
 ###§ 1 
 
@@ -11,7 +11,7 @@ Besluit:
 
 ###Artikel 1 
 
-In deze verordening wordt overgenomen de terminologie van het [Instellingsbesluit Bosschap](../../../../../../../../../AMvB/instellingsbesluit/bosschap/BWBR0015161/README.md) en de [Registratieverordening Bosschap 2010](../../../../../../../../../pbo/registratieverordening/bosschap/2010/BWBR0029029/README.md) en wordt verstaan onder:*onderneming*: een onderneming waarvoor het Bosschap is ingesteld;*heffingsplichtige*: een natuurlijk persoon of rechtspersoon of een niet rechtspersoonlijkheid bezittende vennootschap die één of meer ondernemingen heeft gedreven gedurende enige periode in 2013;*hectareheffing*: heffing volgens de grondslag als bedoeld in [artikel 7, eerste lid onder a., van het Instellingsbesluit Bosschap](../../../../../../../../../AMvB/instellingsbesluit/bosschap/BWBR0015161/README.md);*omzetheffing*: heffing volgens de grondslag als bedoeld in [artikel 7, eerste lid onder b., van het Instellingsbesluit Bosschap](../../../../../../../../../AMvB/instellingsbesluit/bosschap/BWBR0015161/README.md);*heffing*: het totaal van de hectareheffing en de omzetheffing;*secretaris*: de secretaris van het Bosschap. 
+In deze verordening wordt overgenomen de terminologie van het Instellingsbesluit Bosschap en de Registratieverordening Bosschap 2010 en wordt verstaan onder:*onderneming*: een onderneming waarvoor het Bosschap is ingesteld;*heffingsplichtige*: een natuurlijk persoon of rechtspersoon of een niet rechtspersoonlijkheid bezittende vennootschap die één of meer ondernemingen heeft gedreven gedurende enige periode in 2013;*hectareheffing*: heffing volgens de grondslag als bedoeld in artikel 7, eerste lid onder a., van het Instellingsbesluit Bosschap;*omzetheffing*: heffing volgens de grondslag als bedoeld in artikel 7, eerste lid onder b., van het Instellingsbesluit Bosschap;*heffing*: het totaal van de hectareheffing en de omzetheffing;*secretaris*: de secretaris van het Bosschap. 
 
 ###§ 2 
 

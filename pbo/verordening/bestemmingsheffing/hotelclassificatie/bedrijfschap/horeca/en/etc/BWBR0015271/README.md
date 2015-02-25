@@ -3,7 +3,7 @@
 ##VERORDENING van het bedrijfschapvoor het Hotel-, het Restaurant-, het Café- en het Pension- en Kamerverhuurbedrijf en Aanverwante bedrijven, houdende regels ter zake van de aan de onder het bedrijfschap voor het Hotel-, het Restaurant-, het Café- en het Pension- en Kamerverhuurbedrijf en Aanverwante bedrijven ressorterende ondernemers van logiesverstrekkende bedrijven op te leggen bestemmingsheffing voor het jaar 2003 ten behoeve van de Nederlandse hotelclassificatie. (VERORDENING BESTEMMINGSHEFFING HOTELCLASSIFICATIE BEDRIJFSCHAP HORECA EN CATERING 2003)
 
 Het bestuur van het bedrijfschap voor het Hotel-, het Restaurant-, het Café- en het Pension- en Kamerverhuurbedrijf en Aanverwante bedrijven;
-Gelet op de [artikelen 95](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op [artikel 2](../../../../../../../../../AMvB/instellingsbesluit/bedrijfschap/hotel-/restaurant-/café-/en/pension-/en/etc/BWBR0002165/README.md), [artikel 4, eerste lid en onder j](../../../../../../../../../AMvB/instellingsbesluit/bedrijfschap/hotel-/restaurant-/café-/en/pension-/en/etc/BWBR0002165/README.md), en [artikel 6 van het Instellingsbesluit Bedrijfschap Hotel-, Restaurant-, Café- en Pension-en Kamerverhuurbedrijf en Aanverwante Bedrijven](../../../../../../../../../AMvB/instellingsbesluit/bedrijfschap/hotel-/restaurant-/café-/en/pension-/en/etc/BWBR0002165/README.md);
+Gelet op de artikelen 95 en 126 van de Wet op de bedrijfsorganisatie en op artikel 2, artikel 4, eerste lid en onder j, en artikel 6 van het Instellingsbesluit Bedrijfschap Hotel-, Restaurant-, Café- en Pension-en Kamerverhuurbedrijf en Aanverwante Bedrijven;
 Besluit vast te stellen de navolgende verordening:
 ###§ 1 
 
@@ -101,7 +101,7 @@ akunnen administratieve kosten in rekening worden gebracht, welke minimaal 10 % 
 
 b.kan rente worden gevorderd over het verschuldigde bedrag van de dag af dat het verschuldigde bedrag betaald had moeten zijn;
 
-c.kan vergoeding worden gevorderd van alle invorderingskosten.De rente wordt berekend naar het percentage bedoeld in artikel [6:119 ](../../../../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md)jo [6:120 BurgerlijkWetboek](../../../../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md), dat geldt op de datum waarop de rente wordt gevorderd. De invorderingskosten worden gesteld op 15% van het verschuldigde bedrag met een minimum van € 68,07.
+c.kan vergoeding worden gevorderd van alle invorderingskosten.De rente wordt berekend naar het percentage bedoeld in artikel 6:119 jo 6:120 BurgerlijkWetboek, dat geldt op de datum waarop de rente wordt gevorderd. De invorderingskosten worden gesteld op 15% van het verschuldigde bedrag met een minimum van € 68,07.
 
 ###§ 5 
 

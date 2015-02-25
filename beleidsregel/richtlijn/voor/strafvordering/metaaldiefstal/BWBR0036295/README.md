@@ -4,13 +4,9 @@
 
 ####Inleiding/Achtergrond
 
-Treedt in werking per 01-03-2015 
-
 Koper wordt door zijn goed geleidende eigenschappen veel toegepast in onder meer spoorwegwerken, elektriciteitswerken e.d. Koper is een (half)edelmetaal waarvan de waarde de afgelopen jaren sterk is gestegen. Dat is de belangrijkste reden voor het ontstaan van het fenomeen koperdiefstal.    
 
 ####Beschrijving
-
-Treedt in werking per 01-03-2015 
 
 In juni 2011 heeft de Minister van Veiligheid en Justitie een convenant gesloten met het Openbaar Ministerie, de Politie, ProRail en Metaal Recycling Federatie. Dit convenant richt zich op de bestrijding van koperdiefstal 
 
@@ -21,8 +17,6 @@ In juni 2011 heeft de Minister van Veiligheid en Justitie een convenant gesloten
 * waarbij sprake is van grote economische (financiële) schade.   Deze richtlijn is bedoeld om in de strafmaat de gevaarzetting, en/of de maatschappelijke en/of economische (financiële) gevolgen van deze vormen van koperdiefstal te verdisconteren. Indien er geen sprake is van gevaarzetting of maatschappelijke schade (bijvoorbeeld diefstal van koper van een bouwterrein) is deze richtlijn niet van toepassing. Evenmin wanneer er voldoende bewijs is voor overtreding van één van de feiten genoemd in de artikelen 161, 161bis, 161ter, 161sexies, 161septies, 164, 165, 170 en 171 Sr.    
 
 ####Basiscasus/delict
-
-Treedt in werking per 01-03-2015 
 
 Diefstal van koper / metalen, toegepast in spoorwegwerken, elektriciteitswerken of vergelijkbare werken door middel van braak/verbreking, alleen gepleegd.  
 
@@ -35,22 +29,14 @@ Diefstal van koper / metalen, toegepast in spoorwegwerken, elektriciteitswerken 
 
 ####Legenda
 
-Treedt in werking per 01-03-2015 
-
 ####Afkortingen
-
-Treedt in werking per 01-03-2015 
 
 GB = geldboete TS = taakstraf GS = gevangenisstraf ov = onvoorwaardelijk 5j = recidive binnen 5 jaar 2j = recidive binnen 2 jaar    
 
 ####Gevaarzetting
 
-Treedt in werking per 01-03-2015 
-
 Door de diefstal ontstaat een gevaarlijke situatie en/of deze zorgt voor het voortduren van een gevaarlijke situatie.    
 
 ####Maatschappelijke schade
-
-Treedt in werking per 01-03-2015 
 
 Schade aan de dagelijkse gang van zaken in de maatschappij, waar de gemeenschap en in principe niet het individu voor op draait. Voor een toelichting op de andere onderstreepte begrippen zie de Aanwijzing kader voor strafvordering en OM-afdoeningen.      

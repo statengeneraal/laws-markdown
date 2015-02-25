@@ -3,9 +3,9 @@
 ##Verordening van het Productschap Pluimvee en Eieren van 1 november 2012, houdende de vaststelling van een bestemmingsheffing ten behoeve van de legsector voor het jaar 2013 (Verordening bestemmingsheffingen legsector (PPE) 2013)
 
 Het bestuur van het Productschap Pluimvee en Eieren; 
-Gelet op de [artikelen 95](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [artikel 8 van het Instellingsbesluit Productschap Pluimvee en Eieren](../../../../../../../AMvB/instellingsbesluit/productschap/pluimvee/en/eieren/BWBR0016490/README.md);
+Gelet op de artikelen 95 en 126 van de Wet op de bedrijfsorganisatie en artikel 8 van het Instellingsbesluit Productschap Pluimvee en Eieren;
 
-Gezien de [Verordening algemene bepalingen heffingen (PPE) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(ppe)/2005/BWBR0017350/README.md);
+Gezien de Verordening algemene bepalingen heffingen (PPE) 2005;
 Besluit:  
 ###1  
 
@@ -16,15 +16,15 @@ Materieel uitgewerkt per 01-01-2014
 ###Artikel  1 
 Materieel uitgewerkt per 01-01-2014 
 
-Deze verordening neemt over de begripsbepalingen van de [Verordening algemene bepalingen heffingen (PPE) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(ppe)/2005/BWBR0017350/README.md) en verstaat voorts onder:  
+Deze verordening neemt over de begripsbepalingen van de Verordening algemene bepalingen heffingen (PPE) 2005 en verstaat voorts onder:  
 
 | --- | --- | --- | --- |
 |:---|:---|:---|:---|
-|1. |fonds voor onderzoek en ontwikkeling |: |het fonds als bedoeld in [artikel 2 van de Verordening fonds voor onderzoek en ontwikkeling (PPE) 2011](../../../../../../../pbo/verordening/fonds/voor/onderzoek/en/ontwikkeling/(ppe)/2011/BWBR0029872/README.md); |
-|2. |fonds afzetbevordering |: |het fonds als bedoeld in [artikel 2 van de Verordening fonds voor afzetbevordering (PPE) 2011](../../../../../../../pbo/verordening/fonds/afzetbevordering/(ppe)/2011/BWBR0029868/README.md); |
-|3. |fonds voor kwaliteitsverbetering |: |het fonds als bedoeld in [artikel 2 van de Verordening fonds voor kwaliteitsverbetering (PPE) 2011](../../../../../../../pbo/verordening/fonds/voor/kwaliteitsverbetering/(ppe)/2011/BWBR0029873/README.md); |
-|4. |M.g. fonds |: |het fonds als bedoeld in [artikel 2 van de Verordening fonds ruimen M.g. besmette kuikens en ouderdieren legen vleesrassen kippen (PPE) 2011](../../../../../../../pbo/verordening/fonds/ruimen/m.g./besmette/kuikens/en/ouderdieren/leg-/en/etc/BWBR0031566/README.md); |
-|5. |gezondheidszorgfonds |: |het fonds als bedoeld in [artikel 2 van de Verordening fonds gezondheidszorg (PPE) 2011](../../../../../../../pbo/verordening/fonds/gezondheidszorg/(ppe)/2011/BWBR0029871/README.md). |
+|1. |fonds voor onderzoek en ontwikkeling |: |het fonds als bedoeld in artikel 2 van de Verordening fonds voor onderzoek en ontwikkeling (PPE) 2011; |
+|2. |fonds afzetbevordering |: |het fonds als bedoeld in artikel 2 van de Verordening fonds voor afzetbevordering (PPE) 2011; |
+|3. |fonds voor kwaliteitsverbetering |: |het fonds als bedoeld in artikel 2 van de Verordening fonds voor kwaliteitsverbetering (PPE) 2011; |
+|4. |M.g. fonds |: |het fonds als bedoeld in artikel 2 van de Verordening fonds ruimen M.g. besmette kuikens en ouderdieren legen vleesrassen kippen (PPE) 2011; |
+|5. |gezondheidszorgfonds |: |het fonds als bedoeld in artikel 2 van de Verordening fonds gezondheidszorg (PPE) 2011. |
 
 ###2  
 
@@ -154,7 +154,7 @@ De bestemmingsheffingen, bedoeld in de artikelen 2 tot en met 9, zijn bestemd vo
 ###Artikel  11 
 Materieel uitgewerkt per 01-01-2014 
 
-Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de [Verordening algemene bepalingen heffingen (PPE) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(ppe)/2005/BWBR0017350/README.md).
+Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de Verordening algemene bepalingen heffingen (PPE) 2005.
 
 ###Artikel  12 
 Materieel uitgewerkt per 01-01-2014 

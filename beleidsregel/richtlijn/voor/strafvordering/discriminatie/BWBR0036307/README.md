@@ -4,13 +4,9 @@
 
 ####Beschrijving
 
-Treedt in werking per 01-03-2015 
-
 Deze richtlijn heeft betrekking op diverse vormen van discriminatie door natuurlijke of rechtspersonen.    
 
 ####Basiscasus/delict
-
-Treedt in werking per 01-03-2015 
 
 Discriminatie, alleen gepleegd door een first offender. 
 
@@ -32,12 +28,8 @@ Discriminatie, alleen gepleegd door een first offender.
 
 ####Legenda
 
-Treedt in werking per 01-03-2015 
-
 *Afkortingen*  GB = Geldboete TS = Taakstraf GS = gevangenisstraf ov = onvoorwaardelijk 5j = recidive binnen 5 jaar 2j = recidive binnen 2 jaar    
 
 ####Georganiseerd of propagandistisch optreden
-
-Treedt in werking per 01-03-2015 
 
 Bij discriminatie dient georganiseerd en/of propagandistisch optreden strafverzwarend te worden beoordeeld. Naast een toename van het kwetsende karakter en de dreiging voor een slachtoffer als gevolg van deze vorm, dient het georganiseerd en/of propagandistisch optreden ook met kracht te worden bestreden gezien het op uitbreiding gerichte streven van een dergelijke wijze van optreden. Voor een toelichting op de andere onderstreepte begrippen zie de Aanwijzing kader voor strafvordering en OM-afdoeningen.     

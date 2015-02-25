@@ -3,14 +3,14 @@
 ##Verordening van het Productschap Vee en Vlees van 30 oktober 2013, houdende vaststelling van bestemmingsheffingen ten behoeve van het Veeziektenfonds PVV voor het jaar 2014 (Verordening bestemmingsheffingen veeziektenfonds (PVV) 2014)
 
 Het bestuur van het Productschap Vee en Vlees;  
-Gelet op de [artikelen 95](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [artikel 12 van het Instellingsbesluit Productschap Vee en Vlees](../../../../../../../AMvB/instellingsbesluit/productschap/vee/en/vlees/BWBR0016491/README.md);
+Gelet op de artikelen 95 en 126 van de Wet op de bedrijfsorganisatie en artikel 12 van het Instellingsbesluit Productschap Vee en Vlees;
 
-Gezien de [Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(pvv)/2005/BWBR0017340/README.md);
+Gezien de Verordening algemene bepalingen heffingen (PVV) 2005;
 Besluit:    
 
 ###Artikel 1 
 
-Deze verordening neemt de begripsbepalingen van de [Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(pvv)/2005/BWBR0017340/README.md) over, maar verstaat in afwijking van respectievelijk [artikel 1, onder 7 en onder 12, van de Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(pvv)/2005/BWBR0017340/README.md), onder:  
+Deze verordening neemt de begripsbepalingen van de Verordening algemene bepalingen heffingen (PVV) 2005 over, maar verstaat in afwijking van respectievelijk artikel 1, onder 7 en onder 12, van de Verordening algemene bepalingen heffingen (PVV) 2005, onder:  
 
 | --- | --- | --- |
 |:---|:---|:---|
@@ -19,7 +19,7 @@ Deze verordening neemt de begripsbepalingen van de [Verordening algemene bepalin
 
 ###Artikel 2 
 
-De ondernemer die in het jaar 2014 één of meer dieren slacht of doet slachten, dan wel uitvoert, is aan het productschap een bijzondere heffing ten behoeve van het Veeziektenfonds PVV, als bedoeld in [artikel 1 van de Verordening Veeziektenfonds (PVV) 2012](../../../../../../../pbo/verordening/veeziektenfonds/(pvv)/2012/BWBR0031988/README.md), verschuldigd ten bedrage van: 
+De ondernemer die in het jaar 2014 één of meer dieren slacht of doet slachten, dan wel uitvoert, is aan het productschap een bijzondere heffing ten behoeve van het Veeziektenfonds PVV, als bedoeld in artikel 1 van de Verordening Veeziektenfonds (PVV) 2012, verschuldigd ten bedrage van: 
 
 a.dit onderdeel is nog niet in werking getreden;
 
@@ -57,7 +57,7 @@ drie maanden, in het geval het betreft, kalveren en runderen.
 
 ###Artikel 5 
 
-Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de [Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(pvv)/2005/BWBR0017340/README.md). 
+Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de Verordening algemene bepalingen heffingen (PVV) 2005. 
 
 ###Artikel 6 
 

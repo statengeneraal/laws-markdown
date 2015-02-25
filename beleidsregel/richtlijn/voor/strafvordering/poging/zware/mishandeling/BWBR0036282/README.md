@@ -4,13 +4,9 @@
 
 ####Beschrijving
 
-Treedt in werking per 01-03-2015 
-
 Deze richtlijn heeft betrekking op poging zware mishandeling. Onder mishandeling valt ook opzettelijke benadeling van de gezondheid. Indien tenlastegelegd als poging zware mishandeling is deze richtlijn tevens toepasbaar op het met een voertuig opzettelijk inrijden op een slachtoffer. Voor huiselijk geweld en kindermishandeling zijn afzonderlijke richtlijnen.    
 
 ####Basiscasus/delict
-
-Treedt in werking per 01-03-2015 
 
 Poging zware mishandeling, alleen gepleegd, burgerslachtoffer.  
 
@@ -33,7 +29,5 @@ Poging zware mishandeling, alleen gepleegd, burgerslachtoffer.
 Legenda  *Afkortingen*  TS = Taakstraf GS = gevangenisstraf ov = onvoorwaardelijk 5j = recidive binnen 5 jaar 2j = recidive binnen 2 jaar    
 
 ####Agressie in het verkeer
-
-Treedt in werking per 01-03-2015 
 
 Met betrekking tot een aantal delicten, zoals mishandeling, openlijke geweld, vernieling en bedreiging, dient het eventuele feit dat de gepleegde agressieve handeling samenhangt met, of terug te voeren is op een verkeerssituatie, strafverzwarend te worden beoordeeld. Reden voor die verzwaring is enerzijds het risico van escalatie van dergelijke delicten in een overgevoelige situatie, en anderzijds de verhoogde gevaarzetting die agressie in een verkeerssituatie voor andere verkeersdeelnemers doorgaans oplevert. Voor een toelichting op de andere onderstreepte begrippen zie de Aanwijzing kader voor strafvordering en OM-afdoeningen.     

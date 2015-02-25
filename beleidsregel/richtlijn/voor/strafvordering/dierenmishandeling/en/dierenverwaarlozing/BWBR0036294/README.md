@@ -4,13 +4,9 @@
 
 ####Beschrijving
 
-Treedt in werking per 01-03-2015 
-
 Deze richtlijn heeft betrekking op het zonder aanleiding mishandelen of verwaarlozen van dieren door particulieren (art 2.1 lid 1 WD, dus niet op het (structureel) niet nakomen van dierenwelzijnsregels door bedrijven. Verder op dierenverwaarlozing, zoals beschreven in art 2.2 lid 8 WD, door (particuliere) houders van dieren (waaronder begrepen hobbyfokkers), die aan hun dier(en) de nodige verzorging onthouden. Ook het beschadigen, onbruikbaar maken, wegmaken of doden van een dier, dat geheel of ten dele aan een ander toebehoort (art. 350, lid 2 Sr) valt onder deze richtlijn. Tenslotte is er een uitgangspunt voor niet geregistreerde honden.    
 
 ####Basiscasus/delict
-
-Treedt in werking per 01-03-2015 
 
 Dierenmishandeling of verwaarlozing, alleen gepleegd door een particulier of (particuliere) houder van dieren of het beschadigen/wegmaken of doden van andermans dier.  
 
@@ -29,10 +25,6 @@ Dierenmishandeling of verwaarlozing, alleen gepleegd door een particulier of (pa
 
 ####Legenda
 
-Treedt in werking per 01-03-2015 
-
 ####Afkortingen
-
-Treedt in werking per 01-03-2015 
 
 GB = geldboete TS = Taakstraf GS = gevangenisstraf ov = onvoorwaardelijk 5j = recidive binnen 5 jaar 2j = recidive binnen 2 jaar Voor een toelichting op de onderstreepte begrippen zie de Aanwijzing kader voor strafvordering en OM-afdoeningen.      

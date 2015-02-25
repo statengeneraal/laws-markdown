@@ -4,13 +4,9 @@
 
 ####Beschrijving
 
-Treedt in werking per 01-03-2015 
-
 Deze richtlijn ziet op diefstal met geweld of afpersing gepleegd op de openbare weg.    
 
 ####Basiscasus/delict
-
-Treedt in werking per 01-03-2015 
 
 Beroving burgerslachtoffer (van geld, telefoon, scooter e.d.) door een first offender, alleen gepleegd zonder gebruik of vertoon van wapen. Hierin is verdisconteerd een basis van licht geweld (duwen, losrukken of wegrukken, versperren van de weg) en/of mondelinge bedreiging.  
 

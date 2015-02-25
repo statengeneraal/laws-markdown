@@ -3,7 +3,7 @@
 ##Verordening van het Hoofdbedrijfschap voor de Agrarische Groothandel van 13 november 2013, houdende regels ter zake van de aan de onder het Hoofdbedrijfschap voor de Agrarische Groothandel ressorterende ondernemers op te leggen heffing voor het jaar 2014 (Verordening HBAG heffing bloemen en planten 2014)
 
 Het bestuur van het Hoofdbedrijfschap voor de Agrarische Groothandel;  
-Gelet op [artikel 93](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [artikel 126 van de Wet op de bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op [artikel 13 van het Instellingsbesluit Hoofdbedrijfschap Agrarische Groothandel](../../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md);
+Gelet op artikel 93 en artikel 126 van de Wet op de bedrijfsorganisatie en op artikel 13 van het Instellingsbesluit Hoofdbedrijfschap Agrarische Groothandel;
 
 Gelet op het advies van de Commissie bloemkwekerijproducten van 25 september 2013;
 Besluit:    
@@ -30,7 +30,7 @@ In deze verordening wordt overgenomen de terminologie van het Instellingsbesluit
 |g. onderneming |: |de natuurlijke persoon of rechtspersoon of een niet rechtspersoonlijkheid bezittende vennootschap die gedurende enige periode in 2014 een onderneming drijft of heeft gedreven; |
 |h. ondernemer |: |de natuurlijke persoon of rechtspersoon of een niet rechtspersoonlijkheid bezittende vennootschap die gedurende enige periode in 2014 een onderneming drijft of heeft gedreven; |
 |i. veiling |: |een organisatie die bemiddelt bij aan- en verkopen van bloemkwekerijproducten. |
-|j. commissie |: |de Commissie bloemkwekerijproducten van het hoofdbedrijfschap als ingesteld in [artikel 5 van het Instellingsbesluit Hoofdbedrijfschap Agrarische Groothandel](../../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md); |
+|j. commissie |: |de Commissie bloemkwekerijproducten van het hoofdbedrijfschap als ingesteld in artikel 5 van het Instellingsbesluit Hoofdbedrijfschap Agrarische Groothandel; |
 |k. secretaris |: |de secretaris van de commissie |
 
 ###§ 2 

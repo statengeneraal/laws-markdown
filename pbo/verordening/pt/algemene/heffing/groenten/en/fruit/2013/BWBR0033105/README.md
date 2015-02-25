@@ -3,7 +3,7 @@
 ##Verordening van het bestuur van het Productschap Tuinbouw van 20 december 2012, houdende de vaststelling van een algemene heffing groenten en fruit voor het jaar 2013 (Verordening PT algemene heffing groenten en fruit 2013)
 
 Het bestuur van het Productschap Tuinbouw; 
-Gelet op de [artikelen 95](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [100, derde lid](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en de [artikelen 13](../../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md) en [14 van het Instellingsbesluit Productschap Tuinbouw](../../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md);
+Gelet op de artikelen 95, 100, derde lid, en 126 van de Wet op de bedrijfsorganisatie en de artikelen 13 en 14 van het Instellingsbesluit Productschap Tuinbouw;
 
 Gehoord de Commissie voor groenten en fruit d.d. 14 december 2012;
 Besluit: 
@@ -28,7 +28,7 @@ In deze verordening wordt verstaan onder:
 |i. |cultuurgrond |: |de op 15 mei 2013 beteelde grond, de nog niet beteelde grond waarbij een teelt vóór eind augustus 2013 wordt ingezet, braakland en grond die gemoeid is met het gebruik van een groeimedium met behulp waarvan groente en fruit kunnen worden geteeld; |
 |j. |derde land |: |staat, niet zijnde een lidstaat van de Europese Unie; |
 |k. |fruit |: |vers fruit, bewerkt en verwerkt fruit; |
-|I. |Gecombineerde opgave |: |het beschrijvingsbiljet als bedoeld in de [artikelen 24](../../../../../../../../../../wet/landbouwwet/BWBR0002252/README.md) en [25 van de Landbouwwet](../../../../../../../../../../wet/landbouwwet/BWBR0002252/README.md); |
+|I. |Gecombineerde opgave |: |het beschrijvingsbiljet als bedoeld in de artikelen 24 en 25 van de Landbouwwet; |
 |m. |gemeten maat |: |de oppervlakte van cultuurgrond, inclusief paden en voren die voor de teelt noodzakelijk zijn; |
 |n. |groenten |: |verse, bewerkte en verwerkte groenten, eetbare zwammen, specerijgewassen, aardbeien, aardbeiplanten, consumptiespecerijzaden, groen geoogste landbouwpeulvruchten, noten en kruiden; |
 |o. |handelen |: |het aankopen van verse of bewerkte groenten en fruit, ongeacht de herkomst;  |
@@ -47,8 +47,8 @@ In deze verordening wordt verstaan onder:
 ###Artikel  2 
 
 1.  De ondernemer die een onderneming drijft met als activiteit het handelen, het telen of het verduurzamen van groenten en fruit, is over het kalenderjaar 2013 een algemene heffing verschuldigd aan het productschap volgens de in de artikelen 3, 4 en 5 vermelde heffingsgrondslagen. 
-2.  De heffing als bedoeld in het eerste lid, wordt vastgesteld en opgelegd op basis van artikel 6 en met inachtneming van het bepaalde bij of krachtens de [Verordening PT algemene bepalingen 2009](../../../../../../../../../../pbo/verordening/pt/algemene/bepalingen/2009/BWBR0027562/README.md). 
-3.  Voor het berekenen van de heffingen als bedoeld in artikel 3, eerste lid, gebruikt het productschap, in afwijking van de [Verordening PT algemene bepalingen 2009](../../../../../../../../../../pbo/verordening/pt/algemene/bepalingen/2009/BWBR0027562/README.md), de gegevens volgens de door de ondernemer bij Dienst Regelingen van het ministerie van Economische Zaken in het kalenderjaar 2013 ingediende Gecombineerde opgave. 
+2.  De heffing als bedoeld in het eerste lid, wordt vastgesteld en opgelegd op basis van artikel 6 en met inachtneming van het bepaalde bij of krachtens de Verordening PT algemene bepalingen 2009. 
+3.  Voor het berekenen van de heffingen als bedoeld in artikel 3, eerste lid, gebruikt het productschap, in afwijking van de Verordening PT algemene bepalingen 2009, de gegevens volgens de door de ondernemer bij Dienst Regelingen van het ministerie van Economische Zaken in het kalenderjaar 2013 ingediende Gecombineerde opgave. 
 4.  Ter uitvoering van artikel 3, zesde lid en artikel 5 doet de ondernemer bij het productschap desgevraagd aangifte van de door hem in het kalenderjaar 2013 behaalde omzet. 
 5.  Ter uitvoering van artikel 4 doet de ondernemer bij het productschap desgevraagd aangifte van de aankoopwaarde over het kalenderjaar 2013.
 

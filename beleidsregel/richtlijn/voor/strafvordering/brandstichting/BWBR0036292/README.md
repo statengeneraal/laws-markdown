@@ -4,13 +4,9 @@
 
 ####Beschrijving
 
-Treedt in werking per 01-03-2015 
-
 Deze richtlijn heeft betrekking op enkele vormen van opzettelijke met name vandalistische brandstichting met gemeen gevaar voor goederen/personen en kent een verzwaarde recidiveregeling. Ook het teweegbrengen van een ontploffing valt hieronder. De richtlijn ziet niet op brandstichtingen waarbij (ernstige) gewonden of doden zijn gevallen of (poging) doodslag/moord door brandstichting.    
 
 ####Basiscasus/delict
-
-Treedt in werking per 01-03-2015 
 
 Brandstichting of teweegbrengen van een ontploffing met gemeen gevaar voor goederen/personen 
 
@@ -34,7 +30,5 @@ Brandstichting of teweegbrengen van een ontploffing met gemeen gevaar voor goede
 |  *Bijzonderheden:*   Uitgangspunt is tevens dat de (totale) schade is/wordt vergoed  Strafverzwarend onder andere:   *Evenement* (+ 75%, bij brandstichting auto’s al verdisconteerd in de tabel) of* voetbal gerelateerd* (+50%)   *Discriminatoire aspecten* (dagvaarden +100%)  Kwetsbare slachtoffers  Ontruiming nodig  Forse schade  ** Ernstige recidive* (met ernstige inbreuk op de lichamelijke integriteit van het slachtoffer)  Meermalen recidive (maatwerk)  |
 
 ####Legenda
-
-Treedt in werking per 01-03-2015 
 
 *Afkortingen*  TS = Taakstraf GS = gevangenisstraf Voor een toelichting op de onderstreepte begrippen zie de Aanwijzing kader voor strafvordering en OM-afdoeningen.     

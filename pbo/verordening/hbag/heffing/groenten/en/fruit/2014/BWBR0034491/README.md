@@ -3,7 +3,7 @@
 ##Verordening van het Hoofdbedrijfschap voor de Agrarische Groothandel van 13 november 2013, houdende regels ter zake van de aan de groothandelaar, de commissionair en de tussenpersoon in groenten en fruit op te leggen heffing voor het jaar 2014 (Verordening HBAG heffing groenten en fruit 2014)
 
 Het bestuur van het Hoofdbedrijfschap voor de Agrarische Groothandel;  
-gelet op [artikel 126 van de Wet op de Bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op [artikel 13 van het instellingsbesluit Hoofdbedrijfschap voor de Agrarische Groothandel](../../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md) (Staatsblad 2002 nr. 155), heeft na advies van de Commissie groenten en fruit de volgende verordening vastgesteld:
+gelet op artikel 126 van de Wet op de Bedrijfsorganisatie en op artikel 13 van het instellingsbesluit Hoofdbedrijfschap voor de Agrarische Groothandel (Staatsblad 2002 nr. 155), heeft na advies van de Commissie groenten en fruit de volgende verordening vastgesteld:
 Besluit:    
 ###§ 1 
 
@@ -11,11 +11,11 @@ Besluit:
 
 ###Artikel 1 
 
-In deze verordening wordt overgenomen de terminologie van het [Instellingsbesluit Hoofdbedrijfschap Agrarische Groothandel](../../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md) en wordt verstaan onder: 
+In deze verordening wordt overgenomen de terminologie van het Instellingsbesluit Hoofdbedrijfschap Agrarische Groothandel en wordt verstaan onder: 
 
 1.voorzitter: de voorzitter van het hoofdbedrijfschap voor de Agrarische Groothandel;
 
-2.HBAG Commissie groenten en fruit: de op grond van [artikel 5 van het Instellingsbesluit Hoofdbedrijfschap voor de Agrarische Groothandel](../../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md) ingestelde commissie groenten en fruit.
+2.HBAG Commissie groenten en fruit: de op grond van artikel 5 van het Instellingsbesluit Hoofdbedrijfschap voor de Agrarische Groothandel ingestelde commissie groenten en fruit.
 
 3.ondernemer: een natuurlijk of rechtspersoon die een onderneming drijft waarin de groothandel, het bedrijf van commissionair, of het bedrijf van tussenpersoon in groenten en fruit, wordt uitgeoefend en waarvoor de HBAG Commissie groenten en fruit is ingesteld.
 
@@ -27,7 +27,7 @@ b.het bedrijf van het sorteren, bewerken en verpakken van verse groenten en vers
 
 5. omzet:
 
-a.onder omzet in artikel 2, lid 2 en artikel 3, lid 2 wordt verstaan de omzet als bedoeld in [artikel 3, lid 4](../../../../../../../../../pbo/verordening/hbag/registratie-/verstrekking/van/gegevens/en/controle/2007/BWBR0023757/README.md) van de volgens de [Verordening HBAG registratie, verstrekking van gegevens en controle 2007](../../../../../../../../../pbo/verordening/hbag/registratie-/verstrekking/van/gegevens/en/controle/2007/BWBR0023757/README.md) bij het HBAG geregistreerde omzet gemiddeld hetzij over de kalenderjaren 2011 en 2012, hetzij over de boekjaren afgesloten in de kalenderjaren 2011 en 2012;
+a.onder omzet in artikel 2, lid 2 en artikel 3, lid 2 wordt verstaan de omzet als bedoeld in artikel 3, lid 4 van de volgens de Verordening HBAG registratie, verstrekking van gegevens en controle 2007 bij het HBAG geregistreerde omzet gemiddeld hetzij over de kalenderjaren 2011 en 2012, hetzij over de boekjaren afgesloten in de kalenderjaren 2011 en 2012;
 
 b.het onder artikel 1, lid 5, onder a, is niet van toepassing voor de ondernemer die in 2011 of 2012 niet onder de werkingssfeer van het hoofdbedrijfschap viel. In dat geval wordt de omzet van het jaar dat de onderneming onder de werkingssfeer van het hoofdbedrijfschap is komen te vallen voor de berekening als uitgangspunt genomen.
 
@@ -99,7 +99,7 @@ b.het onder artikel 1, lid 5, onder a, is niet van toepassing voor de ondernemer
 
 ###Artikel 4 
 
-1. Indien een opgave als bedoeld in [artikel 3 lid 4](../../../../../../../../../pbo/verordening/hbag/registratie-/verstrekking/van/gegevens/en/controle/2007/BWBR0023757/README.md) en [artikel 6 van de Verordening HBAG registratie, verstrekking van gegevens en controle 2007](../../../../../../../../../pbo/verordening/hbag/registratie-/verstrekking/van/gegevens/en/controle/2007/BWBR0023757/README.md) niet tijdig is gedaan, stelt de voorzitter op basis van een schatting de omzet vast. 
+1. Indien een opgave als bedoeld in artikel 3 lid 4 en artikel 6 van de Verordening HBAG registratie, verstrekking van gegevens en controle 2007 niet tijdig is gedaan, stelt de voorzitter op basis van een schatting de omzet vast. 
 2. De voorzitter geeft de ondernemer kennis van het bedrag van de geschatte omzet en de daarop gebaseerde heffing.
 3. De voorzitter stelt de ondernemer gedurende een termijn van 2 weken na verzending van de kennisgeving zoals bedoeld in het tweede lid, in de gelegenheid alsnog de vereiste opgave te doen.
 4. Indien de ondernemer de in het derde lid bedoelde opgave binnen de termijn doet en de opgegeven omzet geeft aanleiding de heffing te corrigeren, trekt de voorzitter de aanvankelijk opgelegde heffing in en neemt een nieuw besluit omtrent de heffing.
@@ -137,7 +137,7 @@ Indien de door de ondernemer verstrekte gegevens over zijn omzet naar het oordee
 
 a.krachtens haar statutaire doelstelling haar werkzaamheid kan uitstrekken tot ten minste een belangrijk gedeelte van het terrein waarop het bedrijfslichaam een taak heeft te vervullen;
 
-b.voldoet aan de kwalitatieve representativiteitcriteria, genoemd in de [artikelen 3 tot en met 7 van de Verordening representativiteit organisaties](../../../../../../../../../pbo/verordening/representativiteit/organisaties/BWBR0011641/README.md);
+b.voldoet aan de kwalitatieve representativiteitcriteria, genoemd in de artikelen 3 tot en met 7 van de Verordening representativiteit organisaties;
 
 c.tot de werkingssfeer van het bedrijfslichaam behorende leden heeft, waarvan het gewogen aantal niet-onbetekenend is;
 
@@ -155,7 +155,7 @@ e.haar activiteiten, al dan niet door middel van een federatie van gelijksoortig
 
 1. De ondernemer is verplicht de vastgestelde heffing binnen een maand na dagtekening van de heffingsbeschikking te betalen. 
 2. Indien de ondernemer na het verstrijken van de in het eerste lid genoemde termijn de heffing niet of niet volledig heeft betaald, zendt de voorzitter de ondernemer een herinnering.
-3. Indien de ondernemer de heffing binnen twee weken na de dagtekening van de herinnering niet of niet volledig heeft betaald, maant de voorzitter de ondernemer schriftelijk aan om alsnog binnen tien dagen te betalen. Indien niet binnen de termijn wordt betaald, zal overeenkomstig [artikel 127, lid 1 van de Wet op de Bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) worden ingevorderd.
+3. Indien de ondernemer de heffing binnen twee weken na de dagtekening van de herinnering niet of niet volledig heeft betaald, maant de voorzitter de ondernemer schriftelijk aan om alsnog binnen tien dagen te betalen. Indien niet binnen de termijn wordt betaald, zal overeenkomstig artikel 127, lid 1 van de Wet op de Bedrijfsorganisatie worden ingevorderd.
 4. Indien het derde lid word toegepast, brengt de voorzitter de ondernemer de administratiekosten in rekening.
 
 ###§ 5 

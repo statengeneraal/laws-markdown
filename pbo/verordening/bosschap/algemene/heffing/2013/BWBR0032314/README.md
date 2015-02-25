@@ -3,7 +3,7 @@
 ##Verordening van het Bosschap van 3 oktober 2012, houdende regels ter zake van de aan de onder het Bosschap ressorterende ondernemers op te leggen algemene heffing voor het jaar 2013 (Verordening Bosschap algemene heffing 2013)
 
 Het bestuur van het Bosschap; 
-Gelet op de [artikelen 93](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [126](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [127 van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op [artikel 7 van het Instellingsbesluit Bosschap](../../../../../../../AMvB/instellingsbesluit/bosschap/BWBR0015161/README.md);
+Gelet op de artikelen 93, 95, 126 en 127 van de Wet op de bedrijfsorganisatie en op artikel 7 van het Instellingsbesluit Bosschap;
 Besluit: 
 ###§  1  
 
@@ -14,15 +14,15 @@ Materieel uitgewerkt per 01-01-2014
 ###Artikel  1 
 Materieel uitgewerkt per 01-01-2014 
 
-In deze verordening wordt overgenomen de terminologie van het [Instellingsbesluit Bosschap](../../../../../../../AMvB/instellingsbesluit/bosschap/BWBR0015161/README.md) en de [Registratieverordening Bosschap 2010](../../../../../../../pbo/registratieverordening/bosschap/2010/BWBR0029029/README.md) en wordt verstaan onder:  
+In deze verordening wordt overgenomen de terminologie van het Instellingsbesluit Bosschap en de Registratieverordening Bosschap 2010 en wordt verstaan onder:  
 
 | --- | --- | --- |
 |:---|:---|:---|
 |onderneming |: |een onderneming waarvoor het Bosschap is ingesteld; |
 |heffingsplichtige |: |een natuurlijk persoon of rechtspersoon of een niet rechtspersoonlijkheid bezittende vennootschap die één of meer ondernemingen heeft gedreven gedurende enige periode in 2013; |
-|basisheffing |: |heffing volgens de grondslag als bedoeld in [artikel 7, tweede lid, van het Instellingsbesluit Bosschap](../../../../../../../AMvB/instellingsbesluit/bosschap/BWBR0015161/README.md); |
-|hectareheffing |: |heffing volgens de grondslag als bedoeld in [artikel 7, eerste lid onder a., van het Instellingsbesluit Bosschap](../../../../../../../AMvB/instellingsbesluit/bosschap/BWBR0015161/README.md); |
-|omzetheffing |: |heffing volgens de grondslag als bedoeld in [artikel 7, eerste lid onder b., van het Instellingsbesluit Bosschap](../../../../../../../AMvB/instellingsbesluit/bosschap/BWBR0015161/README.md); |
+|basisheffing |: |heffing volgens de grondslag als bedoeld in artikel 7, tweede lid, van het Instellingsbesluit Bosschap; |
+|hectareheffing |: |heffing volgens de grondslag als bedoeld in artikel 7, eerste lid onder a., van het Instellingsbesluit Bosschap; |
+|omzetheffing |: |heffing volgens de grondslag als bedoeld in artikel 7, eerste lid onder b., van het Instellingsbesluit Bosschap; |
 |heffing |: |het totaal van de basisheffing, de hectareheffing en de omzetheffing; |
 |secretaris |: |de secretaris van het Bosschap. |
 
@@ -65,7 +65,7 @@ Materieel uitgewerkt per 01-01-2014
 
 - de Algemene Vereniging Inlands Hout (verder: AVIH) wordt een aftrek toegestaan ter grootte van 50% van de over 2012 aan de NVBE of AVIH betaalde contributie, tot een maximum van 50% van het totaal van hectareheffing en omzetheffing. Bij de berekening van de aftrek wordt alleen het hectare- of omzetgerelateerde deel van de contributie aan NVBE en AVIH betrokken. 
 2.  Onder indirecte leden van de NVBE worden in dit verband verstaan leden van de NVBE Sectie Overheden en leden van de Federatie Particulier Grondbezit, alleen en voor zover zij bos of natuur in eigendom, erfpacht, opstalrecht of vruchtgebruik hebben. Onder directe leden van de NVBE worden in dit verband verstaan Staatsbosbeheer, Natuurmonumenten en De Landschappen. 
-3.  Andere ondernemersorganisaties kunnen ten behoeve van hun leden een verzoek bij het dagelijks bestuur van het Bosschap indienen om eveneens te worden toegelaten tot de aftrekregeling als bedoeld in het eerste lid. Toegelaten wordt een organisatie die een vereniging met volledige rechtsbevoegdheid is en die aan de voorwaarden voldoet zoals bedoeld in [Beleidsregel 5 van het Besluit beleidsregels toezicht](../../../../../../../pbo/besluit/beleidsregels/toezicht/BWBR0029881/README.md) van de Sociaal-Economische Raad. 
+3.  Andere ondernemersorganisaties kunnen ten behoeve van hun leden een verzoek bij het dagelijks bestuur van het Bosschap indienen om eveneens te worden toegelaten tot de aftrekregeling als bedoeld in het eerste lid. Toegelaten wordt een organisatie die een vereniging met volledige rechtsbevoegdheid is en die aan de voorwaarden voldoet zoals bedoeld in Beleidsregel 5 van het Besluit beleidsregels toezicht van de Sociaal-Economische Raad. 
 4.  Aan de heffingsplichtige die in 2013 gestart is met de uitoefening van een onderneming wordt over het jaar 2013 een aftrek toegekend ter hoogte van de voor die onderneming van toepassing zijnde heffing.
 
 ###§  3  

@@ -21,3 +21,25 @@ MINISTRY OF EXTERNAL RELATIONS OF THE FEDERATIVE REPUBLIC OF BRAZIL Em 12 de dez
 2. I have the honour to confirm that the above proposal is acceptable to the Government of the Federative Republic of Brazil and that Your Excellency’s Note and this Note in reply shall constitute an Agreement between the two Governments, which shall enter into force on the first day of the second month following the date of receipt of the later notification in which one Party informs the other Party that the formalities required for entry into force of this Agreement have been complied with.  
 
 3. I avail myself of this opportunity to renew to Your Excellency the assurance of my highest consideration.   LUIZ ALBERTO FIGUEIREDOMACHADO Minister of the External Relations ofthe Federal Republic of Brazil *His Excellency J.P.M. Peters* *Ambassador of the Kingdom of the Netherlands*   
+
+### Nr.  I  
+Treedt in werking op een nader te bepalen tijdstip 
+
+AMBASSADE VAN HET KONINKRIJK DER NEDERLANDEN N° 146/SEC/2014 Brasilia, 12 december 2014 Excellentie, Ik heb de eer te verwijzen naar het Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Federatieve Republiek Brazilië inzake wederzijdse administratieve bijstand ten behoeve van de juiste toepassing van de douanewetgeving en de voorkoming, opsporing en bestrijding van inbreuken op de douanewetgeving, ondertekend te Brasilia op 7 maart 2002 (hierna te noemen „het Verdrag van 2002”). De Regering van het Koninkrijk der Nederlanden stelt voor dat, in overeenstemming met artikel 19, tweede en derde lid, van het Verdrag van 2002, de toepassing van het Verdrag van 2002 wordt uitgebreid tot Aruba, Curaçao en Sint Maarten, met inachtneming van het volgende: 
+
+1. Voor het Koninkrijk der Nederlanden wordt onder de uitdrukking „douane-administratie” in artikel 1, eerste lid, van het Verdrag van 2002, wat Aruba, Curaçao en Sint Maarten betreft, verstaan de respectieve centrale administraties die verantwoordelijk zijn voor de toepassing van douanewetgeving.  
+
+2. De tweede zin van artikel 2, vierde lid, van het Verdrag van 2002 is uitsluitend van toepassing op Aruba, Curaçao en Sint Maarten, naargelang van het geval, voor zover de daarin bedoelde bilaterale en multilaterale verdragen van toepassing zijn op deze respectieve delen van het Koninkrijk der Nederlanden.  
+
+3. De vereisten van de nationale wetgeving in de zin van de artikelen 14 en 15 van het Verdrag van 2002 vallen wat Aruba, Curaçao en Sint Maarten betreft, onder het bereik van de toepasselijke wetgeving van respectievelijk Aruba, Curaçao en Sint Maarten.  
+
+4. Indien het voorgaande aanvaardbaar is voor de Regering van de Federatieve Republiek Brazilië, heb ik voorts de eer voor te stellen dat deze nota en uw antwoordnota een verdrag zullen vormen tussen het Koninkrijk der Nederlanden en de Federatieve Republiek Brazilië dat in werking zal treden op de eerste dag van de tweede maand die volgt op de datum van ontvangst van de laatste kennisgeving waarin één van de partijen aan de andere partij meedeelt dat aan de benodigde formaliteiten voor de inwerkingtreding is voldaan.   Ik maak van deze gelegenheid gebruik om u opnieuw te verzekeren van mijn zeer bijzondere hoogachting. J.P.M. Peters Ambassadeur *Zijne Excellentie Luiz Alberto Figueiredo Machado* *Minister van Buitenlandse Zaken van de Federatieve Republiek Brazilië* *Brasilia - DF*   
+
+### Nr.  II  
+Treedt in werking op een nader te bepalen tijdstip 
+
+MINISTERIE VAN BUITENLANDSE ZAKEN VAN DE FEDERATIEVE REPUBLIEK BRAZILIË 12 december 2014 DAI/DACESS/DE I/02/PAIN BRAS HOLA Excellentie, Ik heb de eer de ontvangst te bevestigen van nota nr. 146/SEC/2014 d.d. 12 december 2014 van Uwe Excellentie inzake het Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Federatieve Republiek Brazilië inzake wederzijdse administratieve bijstand ten behoeve van de juiste toepassing van de douanewetgeving en de voorkoming, opsporing en bestrijding van inbreuken op de douanewetgeving, op 7 maart 2002 ondertekend te Brasilia. De tekst van voornoemde nota luidt als volgt:  (Zoals in Nr. I)  
+
+2. Ik heb de eer te bevestigen dat het bovengenoemde voorstel aanvaardbaar is voor de Regering van de Federatieve Republiek Brazilië en dat de nota van Uwe Excellentie en deze antwoordnota een verdrag zullen vormen tussen de twee regeringen dat in werking zal treden op de eerste dag van de tweede maand die volgt op de datum van ontvangst van de laatste kennisgeving waarin één van de partijen aan de andere partij mededeelt dat aan de benodigde formaliteiten voor de inwerkingtreding van dit Verdrag is voldaan.  
+
+3. Ik maak van deze gelegenheid gebruik om Uwe Excellentie opnieuw te verzekeren van mijn zeer bijzondere hoogachting.   LUIZ ALBERTO FIGUEIREDO MACHADO Minister van Buitenlandse Betrekkingen van de Federatieve Republiek Brazilië *Zijne Excellentie J.P.M. Peters* *Ambassadeur van het Koninkrijk der Nederlanden*   

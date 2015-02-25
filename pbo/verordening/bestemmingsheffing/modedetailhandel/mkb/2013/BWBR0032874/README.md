@@ -3,7 +3,7 @@
 ##Verordening van het Hoofdbedrijfschap Detailhandel van 31 oktober 2012, houdende de vaststelling van de bestemmingsheffing modedetailhandel mkb voor het jaar 2013 (Verordening bestemmingsheffing modedetailhandel mkb 2013)
 
 Het bestuur van het Hoofdbedrijfschap Detailhandel; 
-Gelet op de [artikelen 95, tweede lid](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+Gelet op de artikelen 95, tweede lid, en 126 van de Wet op de bedrijfsorganisatie;
 
 Gezien het advies van de Commissie modedetailhandel behorend tot het midden- en kleinbedrijf;
 Besluit:  
@@ -18,13 +18,13 @@ In deze verordening wordt verstaan onder:
 | --- | --- | --- | --- |
 |:---|:---|:---|:---|
 |a. |midden- en kleinbedrijf |: |ondernemingen rmet ten hoogste 20 verkoopplaatsen en maximaal 100 werkzame personen; |
-|b. |een onderneming |: |een onderneming waarvoor het hoofdbedrijfschap is ingesteld als bedoeld in [artikel 3 van het Instellingsbesluit Hoofdbedrijfschap Detailhandel](../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/detailhandel/BWBR0017190/README.md); |
+|b. |een onderneming |: |een onderneming waarvoor het hoofdbedrijfschap is ingesteld als bedoeld in artikel 3 van het Instellingsbesluit Hoofdbedrijfschap Detailhandel; |
 |c. |de ondernemer |: |degene die een onderneming drijft dan wel degenen die gezamenlijk een onderneming drijven; |
 |d. |werkzame personen |: |de personen die doorgaans ten minste 15 uur per week in de onderneming werkzaam zijn. Deze personen kunnen zijn:  – al dan niet in dienst van de betrokken onderneming zijnde werknemers; – meewerkend ondernemer; – meewerkend gezinslid van de ondernemer; |
 |e. |detailhandel in mode |: |de detailhandel in herenbovenkleding, damesbovenkleding, dames-en herenbovenkleding (algemeen assortiment), textielgoederen (algemeen assortiment), babykleding, kinderkleding, onderkleding/foundation, nappa en lederen kleding. Tot de modedetailhandel worden niet gerekend de detailhandel in bruidsmode en gelegenheidskleding, bont en tweedehandskleding; |
 |f. |ambulante handel |: |markthandel, straathandel en handel te water; |
 |g. |verkoopplaats |: |iedere plaats waar de detailhandel anders dan in de uitoefening van de ambulante handel wordt uitgeoefend, alsmede elke voor het publiek toegankelijke besloten ruimte waar waren aan particulieren te koop worden aangeboden; |
-|h. |bestemmingsheffing |: |de heffing die is gebaseerd op [artikel twaalf, tweede lid, van het Instellingsbesluit Hoofdbedrijfschap Detailhandel](../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/detailhandel/BWBR0017190/README.md); |
+|h. |bestemmingsheffing |: |de heffing die is gebaseerd op artikel twaalf, tweede lid, van het Instellingsbesluit Hoofdbedrijfschap Detailhandel; |
 |i. |de voorzitter |: |de voorzitter van het Hoofdbedrijfschap Detailhandel. |
 
 ###Artikel  2 
@@ -69,7 +69,7 @@ c. een heffing werkzame personen, waarvan de hoogte afhankelijk is van de klasse
 
 ###Artikel  4 
 
-De [artikelen 6 tot en met 17 van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2013](../../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/detailhandel/2013/BWBR0032458/README.md) zijn van overeenkomstige toepassing.
+De artikelen 6 tot en met 17 van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2013 zijn van overeenkomstige toepassing.
 
 ###Artikel  5 
 

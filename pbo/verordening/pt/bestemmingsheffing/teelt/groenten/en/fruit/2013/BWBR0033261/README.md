@@ -3,7 +3,7 @@
 ##Verordening van het bestuur van het Productschap Tuinbouw van 20 december 2012, houdende de vaststelling van een bestemmingsheffing ten behoeve van de teelt van groenten en fruit voor het jaar 2013 (Verordening PT bestemmingsheffing teelt groenten en fruit 2013)
 
 Het bestuur van het Productschap Tuinbouw;  
-Gelet op de [artikelen 95](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [100, derde lid](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en de [artikelen 13](../../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md) en [14 van het Instellingsbesluit Productschap Tuinbouw](../../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md);
+Gelet op de artikelen 95, 100, derde lid en 126 van de Wet op de bedrijfsorganisatie en de artikelen 13 en 14 van het Instellingsbesluit Productschap Tuinbouw;
 
 Gehoord de Commissie voor groenten en fruit d.d. 14 december 2012;
 Besluit:    
@@ -24,7 +24,7 @@ In deze verordening wordt verstaan onder:
 |e. contractteelt |: |de teelt van gewassen ingevolge een overeenkomst waarbij het teeltrisico bij de teler ligt; |
 |f. cultuurgrond |: |de op 15 mei 2013 beteelde grond, de nog niet beteelde grond waarbij een teelt vóór eind augustus 2013 wordt ingezet, braakland, grond die gemoeid is met het gebruik van een groeimedium met behulp waarvan groente en fruit kunnen worden geteeld; |
 |g. fruit |: |vers fruit; |
-|h. Gecombineerde opgave |: |het beschrijvingsbiljet als bedoeld in de [artikelen 24](../../../../../../../../../../wet/landbouwwet/BWBR0002252/README.md) en [25 van de Landbouwwet](../../../../../../../../../../wet/landbouwwet/BWBR0002252/README.md). |
+|h. Gecombineerde opgave |: |het beschrijvingsbiljet als bedoeld in de artikelen 24 en 25 van de Landbouwwet. |
 |i. gemeten maat |: |de oppervlakte van cultuurgrond, inclusief paden en voren die voor de teelt noodzakelijk zijn; |
 |j. groenten |: |verse groenten, eetbare zwammen, specerijgewassen, aardbeien, aardbeienplanten, consumptiespecerijzaden, groen geoogste landbouwpeulvruchten, noten en kruiden; |
 |k. omzet |: |het totaal van de verkoopfactuurbedragen exclusief BTW; |
@@ -40,11 +40,11 @@ In deze verordening wordt verstaan onder:
 
 1. De ondernemer die groenten, fruit of uitgangsmateriaal teelt is over het kalenderjaar 2013 een bestemmingsheffing aan het productschap verschuldigd volgens de in artikel 4 vermelde heffingsgrondslagen met bijbehorende tarieven. 
 2. Uit de opbrengst van de bestemmingsheffing als bedoeld in het eerste lid, worden activiteiten gefinancierd die vallen binnen de investeringsprogramma's van het productschap:Plantgezondheid, Maatschappelijk Verantwoord Ondernemen & Biobased Economy, Voeding & Gezondheid, Energie en CO:!, Groen & Welbevinden en Arbeid.
-3. De bestemmingsheffing, als bedoeld in het eerste lid, wordt vastgesteld en opgelegd op basis van de artikelen 5 tot en met 7 en met inachtneming van het bepaalde bij of krachtens de [Verordening PT algemene bepalingen 2009](../../../../../../../../../../pbo/verordening/pt/algemene/bepalingen/2009/BWBR0027562/README.md).
+3. De bestemmingsheffing, als bedoeld in het eerste lid, wordt vastgesteld en opgelegd op basis van de artikelen 5 tot en met 7 en met inachtneming van het bepaalde bij of krachtens de Verordening PT algemene bepalingen 2009.
 
 ###Artikel 3 
 
-1. Voor het vaststellen van de heffingen als bedoeld in artikel 4, eerste lid, gebruikt het productschap, in afwijking van de [Verordening PT algemene bepalingen 2009](../../../../../../../../../../pbo/verordening/pt/algemene/bepalingen/2009/BWBR0027562/README.md), de door ondernemer in het kalenderjaar 2013 bij Dienst Regelingen van het Ministerie van Economische Zaken ingediende gecombineerde opgave. 
+1. Voor het vaststellen van de heffingen als bedoeld in artikel 4, eerste lid, gebruikt het productschap, in afwijking van de Verordening PT algemene bepalingen 2009, de door ondernemer in het kalenderjaar 2013 bij Dienst Regelingen van het Ministerie van Economische Zaken ingediende gecombineerde opgave. 
 2. Ter Uitvoering van artikel 4, zesde lid, doet de ondernemer bij het productschap desgevraagd aangifte van de door hem in het kalenderjaar 2013 behaalde omzet over de verkoop van uitgangsmateriaal. 
 
 ###§ 3 

@@ -3,9 +3,9 @@
 ##Besluit van het bestuur van het Productschap Tuinbouw van 3 juli 2007, houdende regels ter zake van de aan de onder het Productschap Tuinbouw ressorterende ondernemers in de sector boomkwekerijproducten op te leggen heffing (Verordening PT vakheffing boomkwekerijproducten 2007)
 
 Het Bestuur van het Productschap Tuinbouw,  
-gelet op de [artikelen 95](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en 
+gelet op de artikelen 95 en 126 van de Wet op de bedrijfsorganisatie, en 
 
-gelet op de [artikelen 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw](../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md);
+gelet op de artikelen 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw;
 
 gehoord de Commissie voor boomkwekerijproducten, d.d. 9 mei 2007;
 Besluit:     
@@ -18,8 +18,8 @@ Materieel uitgewerkt per 20-07-2008
 ### Artikel  1 
 Materieel uitgewerkt per 20-07-2008 
 
-1.  In deze verordening en de daarop berustende bepalingen worden overgenomen de begripsbepalingen van de [artikelen 1](../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md) en [2 van het Instellingsbesluit Productschap Tuinbouw](../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md).   
-2.  In deze verordening worden overgenomen de begripsbepalingen van [artikel 1:1](../../../../../../../pbo/verordening/pt/algemene/bepalingen/2006/BWBR0020002/README.md) en [artikel 3:1](../../../../../../../pbo/verordening/pt/algemene/bepalingen/2006/BWBR0020002/README.md), en de werkwijze zoals beschreven in [hoofdstuk 3 van de Verordening PT Algemene bepalingen 2006](../../../../../../../pbo/verordening/pt/algemene/bepalingen/2006/BWBR0020002/README.md).   
+1.  In deze verordening en de daarop berustende bepalingen worden overgenomen de begripsbepalingen van de artikelen 1 en 2 van het Instellingsbesluit Productschap Tuinbouw.   
+2.  In deze verordening worden overgenomen de begripsbepalingen van artikel 1:1 en artikel 3:1, en de werkwijze zoals beschreven in hoofdstuk 3 van de Verordening PT Algemene bepalingen 2006.   
 3.  In deze verordening wordt verder verstaan onder:  
 
 | --- | --- | --- |
@@ -74,7 +74,7 @@ Materieel uitgewerkt per 20-07-2008
 ### Artikel  4  
 Materieel uitgewerkt per 20-07-2008 
 
-Indien en voor zover de ondernemer boomkwekerijproducten heeft verhandeld en door de veiling bedragen zijn ingehouden met toepassing van het bepaalde in de [Verordening PT vakheffing bloemkwekerijproducten 2007](../../../../../../../pbo/verordening/pt/vakheffing/bloemkwekerijproducten/2007/BWBR0022088/README.md), worden deze bedragen aangemerkt als voorschotten op de ingevolge artikel 2 verschuldigde heffing. 
+Indien en voor zover de ondernemer boomkwekerijproducten heeft verhandeld en door de veiling bedragen zijn ingehouden met toepassing van het bepaalde in de Verordening PT vakheffing bloemkwekerijproducten 2007, worden deze bedragen aangemerkt als voorschotten op de ingevolge artikel 2 verschuldigde heffing. 
 
 ### Artikel  5  
 Materieel uitgewerkt per 20-07-2008 

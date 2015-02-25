@@ -3,20 +3,20 @@
 ##Verordening van het Productschap Vee en Vlees van 30 oktober 2013, houdende de vaststelling van bestemmingsheffingen ten behoeve van de schapen- en geitensector voor het jaar 2014 (Verordening bestemmingsheffingen schapen en geiten (PVV) 2014)
 
 Het bestuur van het Productschap Vee en Vlees; 
-Gelet op de [artikelen 95](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [artikel 12 van het Instellingsbesluit Productschap Vee en Vlees](../../../../../../../../../AMvB/instellingsbesluit/productschap/vee/en/vlees/BWBR0016491/README.md);
+Gelet op de artikelen 95 en 126 van de Wet op de bedrijfsorganisatie en artikel 12 van het Instellingsbesluit Productschap Vee en Vlees;
 
-Gezien de [Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(pvv)/2005/BWBR0017340/README.md);
+Gezien de Verordening algemene bepalingen heffingen (PVV) 2005;
 Besluit:  
 
 ###Artikel  1 
 
-Deze verordening neemt de begripsbepalingen van de [Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(pvv)/2005/BWBR0017340/README.md) over en verstaat voorts onder:  
+Deze verordening neemt de begripsbepalingen van de Verordening algemene bepalingen heffingen (PVV) 2005 over en verstaat voorts onder:  
 
 | --- | --- | --- | --- |
 |:---|:---|:---|:---|
-|a. |fonds afzetbevordering |: |fonds als bedoeld in [artikel 1 van de Verordening fonds afzetbevordering (PVV) 2012](../../../../../../../../../pbo/verordening/fonds/afzetbevordering/(pvv)/2012/BWBR0031979/README.md); |
-|b. |fonds gezondheidszorg |: |fonds als bedoeld in [artikel 1 van de Verordening fonds gezondheidszorg (PVV) 2012](../../../../../../../../../pbo/verordening/fonds/afzetbevordering/(pvv)/2012/BWBR0031979/README.md); |
-|c. |fonds kwaliteitsverbetering |: |fonds als bedoeld in [artikel 1 van de Verordening fonds kwaliteitsverbetering (PVV) 2012](../../../../../../../../../pbo/verordening/fonds/afzetbevordering/(pvv)/2012/BWBR0031979/README.md). |
+|a. |fonds afzetbevordering |: |fonds als bedoeld in artikel 1 van de Verordening fonds afzetbevordering (PVV) 2012; |
+|b. |fonds gezondheidszorg |: |fonds als bedoeld in artikel 1 van de Verordening fonds gezondheidszorg (PVV) 2012; |
+|c. |fonds kwaliteitsverbetering |: |fonds als bedoeld in artikel 1 van de Verordening fonds kwaliteitsverbetering (PVV) 2012. |
 
 ###Artikel  2 
 
@@ -50,7 +50,7 @@ b. de periode tussen het tijdstip van invoer en het tijdstip van uitvoer korter 
 
 ###Artikel  5 
 
-Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de [Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(pvv)/2005/BWBR0017340/README.md). 
+Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de Verordening algemene bepalingen heffingen (PVV) 2005. 
 
 ###Artikel  6 
 

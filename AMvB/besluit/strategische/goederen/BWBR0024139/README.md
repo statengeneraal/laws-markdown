@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Economische Zaken van 30 oktober 2007, nr. WJZ 7122174, gedaan na overleg met de Staatssecretaris van Financiën;
 
-Gelet op verordening (EG) nr. 1334/2000 van de Raad van de Europese Unie van 22 juni 2000 tot instelling van een communautaire regeling voor controle op de uitvoer van producten en technologie voor tweeërlei gebruik en de [artikelen 1:4, eerste en tweede lid](../../../../../wet/algemene/douanewet/BWBR0023746/README.md), en [3:1 van de Algemene douanewet](../../../../../wet/algemene/douanewet/BWBR0023746/README.md);
+Gelet op verordening (EG) nr. 1334/2000 van de Raad van de Europese Unie van 22 juni 2000 tot instelling van een communautaire regeling voor controle op de uitvoer van producten en technologie voor tweeërlei gebruik en de artikelen 1:4, eerste en tweede lid, en 3:1 van de Algemene douanewet;
 
 De Raad van State gehoord (advies van 10 april 2008, nr. W10.07.0401/III);
 
@@ -60,7 +60,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 –  *verordening 428/2009:* verordening (EG) nr. 428/2009 van de Raad van 5 mei 2009 tot instelling van een communautaire regeling voor controle op de uitvoer, de overbrenging, de tussenhandel en de doorvoer van producten voor tweeërlei gebruik (PbEU 2009, L 134);  
 
-–  *wet:* de [Algemene douanewet](../../../../../wet/algemene/douanewet/BWBR0023746/README.md).  
+–  *wet:* de Algemene douanewet.  
 
 ### §  2  
 
@@ -189,7 +189,7 @@ c. de inhoud van een melding.
 ### Artikel  11  
 
 1.  Het is verboden om militaire goederen uit te voeren uit Nederland zonder individuele, globale of algemene uitvoervergunning.   
-2.  Het eerste lid is niet van toepassing op de uitvoer uit Nederland van militaire goederen als bedoeld in [artikel 3, eerste lid, van de Uitvoeringswet verdrag chemische wapens](../../../../../wet/uitvoeringswet/verdrag/chemische/wapens/BWBR0007434/README.md).  
+2.  Het eerste lid is niet van toepassing op de uitvoer uit Nederland van militaire goederen als bedoeld in artikel 3, eerste lid, van de Uitvoeringswet verdrag chemische wapens.  
 
 ### Artikel  12  
 
@@ -239,7 +239,7 @@ d. de registratievoorwaarden.
 1.  Het is verboden om militaire goederen over te dragen uit Nederland zonder overdrachtsvergunning.   
 2.  Het eerste lid is niet van toepassing op: 
 
-a. de overdracht uit Nederland van militaire goederen, bedoeld in [artikel 3, eerste lid, van de Uitvoeringswet verdrag chemische wapens](../../../../../wet/uitvoeringswet/verdrag/chemische/wapens/BWBR0007434/README.md);  
+a. de overdracht uit Nederland van militaire goederen, bedoeld in artikel 3, eerste lid, van de Uitvoeringswet verdrag chemische wapens;  
 
 b. de overdracht uit Nederland van militaire goederen naar België en Luxemburg.     
 3.  Onze Minister kan besluiten dat voor de overdracht van militaire goederen in situaties als bedoeld in het tweede lid, onder b, een vergunning is vereist: 
@@ -294,7 +294,7 @@ b. de voorschriften en voorwaarden van de vergunning niet in acht zijn genomen.
 
 1.  Een beschikkingsbevoegde stelt de ontvanger van militaire goederen in kennis van de beperkingen, voorschriften en voorwaarden van de individuele, globale of algemene overdrachtsvergunning op basis waarvan de overdracht heeft plaats gevonden.   
 2.  Een beschikkingsbevoegde rapporteert na afloop van een bij ministeriële regeling vast te stellen termijn over het gebruik van een individuele, globale of algemene overdrachtsvergunning door middel van een overzicht, waarin bij ministeriële regeling vast te stellen informatie is vermeld.   
-3.  De beschikkingsbevoegde is verplicht de administratie en alle op de overdracht betrekking hebbende documenten bij te houden overeenkomstig [artikel 10 van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).  
+3.  De beschikkingsbevoegde is verplicht de administratie en alle op de overdracht betrekking hebbende documenten bij te houden overeenkomstig artikel 10 van Boek 2 van het Burgerlijk Wetboek.  
 
 ### Artikel  26  
 
@@ -330,9 +330,9 @@ b. de gronden om een erkenning te verlenen.
 
 ### Artikel  28  
 
-1.  Een vergunning als bedoeld in de artikelen 4b, eerste lid, 4c, 7, eerste lid, 8, 14, eerste lid, 15, 21, eerste lid, en 23, kan worden geweigerd, respectievelijk ingetrokken, in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md).   
-2.  Een ontheffing als bedoeld in de artikelen 6, tweede lid, 12, tweede lid, en 19, tweede lid, kan mede worden geweigerd in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md).   
-3.  Voordat toepassing wordt gegeven aan het eerste of tweede lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), om een advies als bedoeld in [artikel 9 van die wet](../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) worden gevraagd.  
+1.  Een vergunning als bedoeld in de artikelen 4b, eerste lid, 4c, 7, eerste lid, 8, 14, eerste lid, 15, 21, eerste lid, en 23, kan worden geweigerd, respectievelijk ingetrokken, in het geval en onder de voorwaarden, bedoeld in artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur.   
+2.  Een ontheffing als bedoeld in de artikelen 6, tweede lid, 12, tweede lid, en 19, tweede lid, kan mede worden geweigerd in het geval en onder de voorwaarden, bedoeld in artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur.   
+3.  Voordat toepassing wordt gegeven aan het eerste of tweede lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur, om een advies als bedoeld in artikel 9 van die wet worden gevraagd.  
 
 ### §  7  
 
@@ -340,11 +340,11 @@ b. de gronden om een erkenning te verlenen.
 
 ### Artikel  29  
 
-Vergunningen en ontheffingen die verleend zijn op grond van het [In- en uitvoerbesluit strategische goederen](../../../../../AMvB/uitvoerbesluit/strategische/goederen/1963/BWBR0002408/README.md) worden geacht te zijn verleend op grond van dit besluit. 
+Vergunningen en ontheffingen die verleend zijn op grond van het In- en uitvoerbesluit strategische goederen worden geacht te zijn verleend op grond van dit besluit. 
 
 ### Artikel  30  
 
-Dit besluit treedt in werking op het tijdstip waarop de [wet](../../../../../wet/algemene/douanewet/BWBR0023746/README.md) in werking treedt. 
+Dit besluit treedt in werking op het tijdstip waarop de wet in werking treedt. 
 
 ### Artikel  31  
 

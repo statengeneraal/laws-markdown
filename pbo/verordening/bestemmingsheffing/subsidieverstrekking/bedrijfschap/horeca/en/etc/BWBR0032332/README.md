@@ -5,9 +5,9 @@
 Het bestuur van het Bedrijfschap Horeca en Catering; 
 Overwegende dat het wenselijk is ter financiering van de door het bedrijfschap te verstrekken projecten budgetsubsidies een bestemmingsheffing op te leggen;
 
-Gelet op de [artikelen 93](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op de [artikelen 2](../../../../../../../../../AMvB/instellingsbesluit/bedrijfschap/horeca/en/catering/BWBR0016029/README.md), [4](../../../../../../../../../AMvB/instellingsbesluit/bedrijfschap/horeca/en/catering/BWBR0016029/README.md) en [7 van het Instellingsbesluit Bedrijfschap Horeca en Catering](../../../../../../../../../AMvB/instellingsbesluit/bedrijfschap/horeca/en/catering/BWBR0016029/README.md);
+Gelet op de artikelen 93, 95 en 126 van de Wet op de bedrijfsorganisatie en op de artikelen 2, 4 en 7 van het Instellingsbesluit Bedrijfschap Horeca en Catering;
 
-Gelet op de [Subsidieverordening Bedrijfschap Horeca en Catering](../../../../../../../../../pbo/subsidieverordening/bedrijfschap/horeca/en/catering/BWBR0027185/README.md);
+Gelet op de Subsidieverordening Bedrijfschap Horeca en Catering;
 Besluit vast te stellen de navolgende verordening: 
 ###§  1  
 
@@ -20,9 +20,9 @@ In deze verordening wordt verstaan onder:
 | --- | --- | --- |
 |:---|:---|:---|
 |heffingsplichtige |: |een natuurlijk persoon of rechtspersoon of een niet-rechts-persoonlijkheid bezittende vennootschap, die één of meer ondernemingen drijft of heeft gedreven gedurende enige periode in 2012; |
-|basisheffing subsidies |: |de heffing, bedoeld in [artikel 7, tweede lid, van het Instellingsbesluit Bedrijf schap Horeca en Catering](../../../../../../../../../AMvB/instellingsbesluit/bedrijfschap/horeca/en/catering/BWBR0016029/README.md); |
-|loonsomheffing subsidies |: |de op de loonsom gebaseerde heffing, bedoeld in [artikel 7, eerste lid, van het Instellingsbesluit Bedrijfschap Horeca en Catering](../../../../../../../../../AMvB/instellingsbesluit/bedrijfschap/horeca/en/catering/BWBR0016029/README.md); |
-|loonsom |: |het voor de premieheffing ingevolge de [Werkloosheidswet](../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) als loon der werknemers aan te merken bedrag voor aftrek van de franchise, van alle werknemers in alle door de heffingsplichtige gedreven ondernemingen. Met loonsom wordt gelijkgesteld de vergoeding, exclusief btw, die wordt uitgekeerd aan uitzendbureaus, payrollingbedrijven of overeenkomstige bedrijven, ten behoeve van het beschikbaar stellen van personeel, dat onder directe gezagsverhouding van de heffingsplichtige arbeid verricht in de door de heffingsplichtige gedreven ondernemingen; |
+|basisheffing subsidies |: |de heffing, bedoeld in artikel 7, tweede lid, van het Instellingsbesluit Bedrijf schap Horeca en Catering; |
+|loonsomheffing subsidies |: |de op de loonsom gebaseerde heffing, bedoeld in artikel 7, eerste lid, van het Instellingsbesluit Bedrijfschap Horeca en Catering; |
+|loonsom |: |het voor de premieheffing ingevolge de Werkloosheidswet als loon der werknemers aan te merken bedrag voor aftrek van de franchise, van alle werknemers in alle door de heffingsplichtige gedreven ondernemingen. Met loonsom wordt gelijkgesteld de vergoeding, exclusief btw, die wordt uitgekeerd aan uitzendbureaus, payrollingbedrijven of overeenkomstige bedrijven, ten behoeve van het beschikbaar stellen van personeel, dat onder directe gezagsverhouding van de heffingsplichtige arbeid verricht in de door de heffingsplichtige gedreven ondernemingen; |
 |bestemmingsheffing |: |het totaal van de basisheffing subsidies en de loonsomheffing subsidies; |
 |CAO-Recreatie |: |collectieve arbeidsovereenkomst tussen de Vereniging van Recreatieondernemers Nederland en FNV Horecabond, CNV Vakmensen en Abvakabo FNV |
 |Stichting Sociaal Fonds Recreatie |: |de stichting ingesteld bij de collectieve arbeidsovereenkomst inzake Sociaal Fonds Recreatie tussen de Vereniging van Recreatieondernemers Nederland en FNV Horecabond, CNV Vakmensen en Abvakabo FNV |
@@ -67,7 +67,7 @@ b. Aan de heffingsplichtige wordt een aftrek toegekend op de basisheffing subsid
 
 1.  De bestemmingsheffing wordt vastgesteld op basis van loonsomgegevens als bedoeld in artikel 3, dan wel op basis van een schatting van de loonsom. 
 2.  Indien binnen drie jaar na vaststelling van de bestemmingsheffing uit een opgave van de heffingsplichtige dan wel uit nader onderzoek vanwege het bedrijfschap blijkt dat de bestemmingsheffing op basis van een onjuiste schatting is vastgesteld, kan de bestemmingsheffing worden herzien en opnieuw worden vastgesteld. 
-3.  Indien na vaststelling van de bestemmingsheffing ondernemingen van de heffingsplichtige met terugwerkende kracht worden opgenomen in het register van ondernemingen, genoemd in [artikel 2 van de Registratieverordening Bedrijfschap Horeca en Catering 2008](../../../../../../../../../pbo/registratieverordening/bedrijfschap/horeca/en/catering/2008/BWBR0025199/README.md), kan de bestemmingsheffing opnieuw worden vastgesteld.
+3.  Indien na vaststelling van de bestemmingsheffing ondernemingen van de heffingsplichtige met terugwerkende kracht worden opgenomen in het register van ondernemingen, genoemd in artikel 2 van de Registratieverordening Bedrijfschap Horeca en Catering 2008, kan de bestemmingsheffing opnieuw worden vastgesteld.
 
 ###Artikel  5 
 
@@ -92,7 +92,7 @@ a. kunnen administratiekosten in rekening worden gebracht, welke minimaal € 6,
 
 b. kan rente worden gevorderd over het verschuldigde bedrag van de dag af dat het verschuldigde bedrag betaald had moeten zijn; 
 
-c. kan vergoeding worden gevorderd van alle invorderingskosten. De rente wordt berekend naar het percentage bedoeld in [artikel 6:119](../../../../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) jo [6:120 Burgerlijk Wetboek](../../../../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md), dat geldt op de datum waarop de rente wordt gevorderd. De invorderingskosten worden vastgesteld volgens de staffel incassokosten kantonrechters.
+c. kan vergoeding worden gevorderd van alle invorderingskosten. De rente wordt berekend naar het percentage bedoeld in artikel 6:119 jo 6:120 Burgerlijk Wetboek, dat geldt op de datum waarop de rente wordt gevorderd. De invorderingskosten worden vastgesteld volgens de staffel incassokosten kantonrechters.
 
 ###§  5  
 

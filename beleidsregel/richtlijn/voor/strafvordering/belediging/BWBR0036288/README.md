@@ -4,13 +4,9 @@
 
 ####Beschrijving
 
-Treedt in werking per 01-03-2015 
-
 Deze richtlijn heeft betrekking op eenvoudige belediging (mondeling, schriftelijk of door feitelijkheden).    
 
 ####Basiscasus/delict
-
-Treedt in werking per 01-03-2015 
 
 Belediging mondeling, schriftelijk of door feitelijkheden (zoals middelvinger), alleen gepleegd.  
 

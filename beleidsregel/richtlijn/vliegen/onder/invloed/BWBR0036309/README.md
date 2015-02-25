@@ -4,8 +4,6 @@
 
 ####Beschrijving
 
-Treedt in werking per 01-03-2015 
-
 Deze richtlijn ziet op het bedienen van een luchtvaartuig door cockpitpersoneel, het verrichten van werkzaamheden ten behoeve van inzittenden of lading door ander boordpersoneel of het verlenen van luchtverkeersdiensten onder invloed van: 
 
 a. een stof, zoals bedoeld in artikel 2.12, eerste lid Wet luchtvaart of  
@@ -14,12 +12,9 @@ b. alcohol, zoals bedoeld in artikel 2.12, tweede en derde lid Wet luchtvaart.  
 
 ####De richtlijn
 
-Treedt in werking per 01-03-2015 
-
 Zie de tabellen in de bijlagen.    
 
 ### Bijlage  1  
-Treedt in werking per 01-03-2015 
 
 ####Schema richtlijn voor strafvordering artikel 2.12 lid 3 en 2.12 lid 6 Wet luchtvaart
 
@@ -40,7 +35,7 @@ Dit delict ziet op overtreding van art. 2.12, derde lid juncto art. 2.12, zesde 
 | Eenmaal  | Zie tabel 2  |
 | Meermalen  | Maatwerk  |
 
-Nb: bij het berekenen van de juiste strafmaat is steeds afgerond conform de Aanwijzing kader voor strafvordering en OM-afdoeningen.  Tabel 1 (first offenders) 
+Nb: bij het berekenen van de juiste strafmaat is steeds afgerond conform de Aanwijzing kader voor strafvordering en OM-afdoeningen .  Tabel 1 (first offenders) 
 
 | Bag =  Bloed/alcohol gehalte  | UGL =  Adem/alcohol gehalte  | GELDBOETE  | OBV IN WEKEN  (onvoorwaardelijke OBV!)  | GEVANGENISSTRAF IN WEKEN/MAANDEN  |
 |:---|:---|:---|:---|:---|
@@ -113,7 +108,6 @@ OBV = ontzegging van de bevoegdheid om vliegtuigen te besturen Tabel 2 (1x recid
 OBV = ontzegging van de bevoegdheid om vliegtuigen te besturen
 
 ### Bijlage  2  
-Treedt in werking per 01-03-2015 
 
 ####Schema richtlijn voor strafvordering artikel 2.12 lid 3 en 2.12 lid 6 Wet luchtvaart
 
@@ -207,7 +201,6 @@ OBV = ontzegging van de bevoegdheid om vliegtuigen te besturen Tabel 2 (1x recid
 OBV = ontzegging van de bevoegdheid om vliegtuigen te besturen
 
 ### Bijlage  3  
-Treedt in werking per 01-03-2015 
 
 ####Schema richtlijn voor strafvordering artikel 2.12 lid 3 Wet luchtvaart
 
@@ -301,7 +294,6 @@ OBV = ontzegging van de bevoegdheid om vliegtuigen te besturen Tabel 2 (1x recid
 OBV = ontzegging van de bevoegdheid om vliegtuigen te besturen
 
 ### Bijlage  4  
-Treedt in werking per 01-03-2015 
 
 ####Schema richtlijn voor strafvordering art. 2.12 lid 1/2.12 lid 6 Wet luchtvaart
 
@@ -363,7 +355,6 @@ Tabel
 OBV = ontzegging van de bevoegdheid om vliegtuigen te besturen
 
 ### Bijlage  5  
-Treedt in werking per 01-03-2015 
 
 ####Schema richtlijn voor strafvordering weigeren ademanalyse, bloedproef of urineproef dan wel achteraf weigeren bloedonderzoek (art. 11.6 Wet luchtvaart)
 
@@ -415,7 +406,6 @@ Tabel
 OBV = ontzegging van de bevoegdheid om vliegtuigen te besturen
 
 ### Bijlage  6  
-Treedt in werking per 01-03-2015 
 
 ####Schema richtlijn voor strafvordering art. 11.5 lid 1 en lid 2 jo art. 11.5 lid 4 Wet luchtvaart
 

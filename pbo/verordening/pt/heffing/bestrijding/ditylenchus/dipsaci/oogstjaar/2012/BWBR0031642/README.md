@@ -5,9 +5,9 @@
 Het bestuur van het Productschap Tuinbouw;  
 Gelet op de Verordening (EG) nr. 479/2008 van de Raad van 29 april 2008 houdende een gemeenschappelijke ordening van de wijnmarkt, tot wijziging van de Verordeningen (EG) nr. 1493/1999, (EG) nr. 1782/2003, (EG) nr.1290/2005, (EG) nr. 3/2008 en tot intrekking van de Verordeningen (EEG) nr. 2392/86 en (EG) nr. 1493/1999;
 
-gelet op de [artikelen 95](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+gelet op de artikelen 95 en 126 van de Wet op de bedrijfsorganisatie;
 
-gelet op de [artikelen 13](../../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md) en [14 van het Instellingsbesluit Productschap Tuinbouw](../../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md);
+gelet op de artikelen 13 en 14 van het Instellingsbesluit Productschap Tuinbouw;
 
 gehoord de Sectorcommissie voor bollen, knollen en wortelstokken van bloemgewassen, 15 maart 2012
 Besluit:    
@@ -17,8 +17,8 @@ Besluit:
 
 ###Artikel 1 
 
-1. In deze verordening worden overgenomen de begripsbepalingen van de [artikelen 1](../../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md) en [2 van het Instellingsbesluit Productschap Tuinbouw](../../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md). 
-2. In deze verordening worden overgenomen de begripsbepalingen van [artikel 1:1](../../../../../../../../../../pbo/verordening/pt/algemene/bepalingen/2009/BWBR0027562/README.md) en de procedure heffing en invordering zoals beschreven in [paragraaf 3 van de Verordening PT algemene bepalingen 2009](../../../../../../../../../../pbo/verordening/pt/algemene/bepalingen/2009/BWBR0027562/README.md).  
+1. In deze verordening worden overgenomen de begripsbepalingen van de artikelen 1 en 2 van het Instellingsbesluit Productschap Tuinbouw. 
+2. In deze verordening worden overgenomen de begripsbepalingen van artikel 1:1 en de procedure heffing en invordering zoals beschreven in paragraaf 3 van de Verordening PT algemene bepalingen 2009.  
 3. 3. In deze verordening wordt verstaan onder: 
 
 | --- | --- | --- |

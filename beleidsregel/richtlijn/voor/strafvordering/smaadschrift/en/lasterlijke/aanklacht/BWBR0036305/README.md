@@ -4,13 +4,9 @@
 
 ####Beschrijving
 
-Treedt in werking per 01-03-2015 
-
 Deze richtlijn heeft betrekking op smaad (mondeling en schriftelijk) en lasterlijke aanklacht.    
 
 ####Basiscasus/delict
-
-Treedt in werking per 01-03-2015 
 
 Smaad(schrift) of lasterlijke aanklacht, alleen gepleegd.  
 
@@ -25,7 +21,5 @@ Smaad(schrift) of lasterlijke aanklacht, alleen gepleegd.
 |  *Bijzonderheden*   Strafverzwarend onder andere:  De aard en ernst van het telastegelegde feit, de klacht of aangifte en de mate waarin iemands eer of goede naam/morele integriteit wordt aangerand of aangetast.  Enige dwangmiddelen of politie-inzet bij lasterlijke aanklacht   *Medeplegen*    *Jegens ambtenaren of andere gezagsfunctionarissen (+200%)*    *Discriminatoire aspecten* (dagvaarden +100%)  * let op het taakstrafverbod (art. 22b Sr)  |
 
 ####Legenda
-
-Treedt in werking per 01-03-2015 
 
 *Afkortingen*  GB = Geldboete TS = Taakstraf GS = gevangenisstraf ov = onvoorwaardelijk 5j = recidive binnen 5 jaar 2j = recidive binnen 2 jaar Voor een toelichting op de onderstreepte begrippen zie de Aanwijzing kader voor strafvordering en OM-afdoeningen.     
