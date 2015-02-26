@@ -3,7 +3,7 @@
 ##Regeling van de Staatssecretaris van Infrastructuur en Milieu van 31 oktober 2012, nr. IenM/BSK-2012/219507, houdende regels voor de bepaling van de energie-efficiëntieklasse, en voor de vaststelling van de constanten en waarden ten behoeve van de berekening van de relatieve zuinigheid van personenauto’s (Regeling relatieve zuinigheid personenauto´s)
 
 De Staatssecretaris van Infrastructuur en Milieu,  
-Gelet op de [artikelen 6a](../../../../../../AMvB/besluit/etikettering/energiegebruik/personenauto's/BWBR0011761/README.md) en [8, eerste lid, van het Besluit etikettering energieverbruik personenauto’s](../../../../../../AMvB/besluit/etikettering/energiegebruik/personenauto's/BWBR0011761/README.md);
+Gelet op de artikelen 6a en 8, eerste lid, van het Besluit etikettering energieverbruik personenauto’s;
 Besluit:    
 
 ### Artikel  1  
@@ -37,7 +37,11 @@ f. Berekening van de relatieve energiezuinigheid: Relatieve energiezuinigheid = 
 
 ### Artikel  2  
 
-1.  De constanten, bedoeld in [artikel 8 van het Besluit etikettering energiegebruik personenauto’s](../../../../../../AMvB/besluit/etikettering/energiegebruik/personenauto's/BWBR0011761/README.md), C<sub>1, lengte</sub>, C<sub>2, lengte</sub>, C<sub>3, lengte</sub>, C<sub>1, benzine</sub>, C<sub>2, benzine</sub>, C<sub>3, benzine</sub>, C<sub>1, diesel</sub>, C<sub>2, diesel</sub> en C<sub>3, diesel</sub>worden berekend met behulp van de zogenoemde kleinste-kwadraten-methode. Hierbij wordt het aantal verkochte auto’s van elke uitvoering in rekening gebracht. Varianten van voertuigtypen met een lengte x breedte groter dan 11 m<sup>2</sup> worden bij de berekening van deze constanten buiten beschouwing gelaten.   
+1.  De constanten, bedoeld in artikel 8 van het Besluit etikettering energiegebruik personenauto’s, C<sub>1, lengte</sub>, C<sub>2, lengte</sub>, C<sub>3, lengte</sub>, C<sub>1, benzine</sub>, C<sub>2, benzine</sub>, C<sub>3, benzine</sub>, C<sub>1, diesel</sub>, C<sub>2, diesel</sub> en C<sub>3, diesel</sub>worden berekend met behulp van de zogenoemde kleinste-kwadraten-methode. Bij de berekening van deze constanten worden buiten beschouwing gelaten: 
+
+– varianten van voertuigtypen met een lengte x breedte groter dan 11 m<sup>2</sup>, en   
+
+– uitvoeringen van voertuigtypen met een CO<sub>2</sub>-uitstoot kleiner of gelijk aan 50 gram per kilometer.    
 2.  De in artikel 1 bedoelde waarden CO<sub>2</sub>-uitstoot<sub>totaal gem. benzine</sub> en CO<sub>2</sub>-uitstoot<sub>totaal gem. diesel</sub> hebben betrekking op de gemiddelde CO<sub>2</sub>-uitstoot van nieuwe benzine- en dieselpersonenauto’s bij een voertuiggrootte behorend bij de gemiddelde CO<sub>2</sub>-uitstoot van alle auto’s. De waarden CO<sub>2</sub>-uitstoot<sub>totaal gemiddelde benzine</sub> en CO<sub>2</sub>-uitstoot<sub>totaal gemiddelde diesel</sub> worden bepaald met behulp van de formules in artikel 1, tweede lid, onderdelen D1 en D2. De voertuiggrootte behorend bij de gemiddelde CO<sub>2</sub>-uitstoot van alle auto’s wordt gevonden in de vorm van de gecorrigeerde lengte x breedte waarde, waarbij het gewogen gemiddelde van de met behulp van de formules in artikel 1, tweede lid, , onderdelen D1 en D2 gevonden gemiddelde CO<sub>2</sub>-waarden voor benzineauto's resp. dieselauto's gelijk is aan de gemiddelde CO<sub>2</sub>-uitstoot van alle verkochte nieuwe personenauto’s.   
 3.  De constanten en waarden worden berekend op basis van de gegevens omtrent CO<sub>2</sub>-uitstoot, de lengte, de breedte en de aantallen nieuwe personenauto’s, die zijn verkocht in de twee kalenderjaren voorafgaand aan het kalenderjaar, waarin de constanten en waarden worden vastgesteld.  
 

@@ -3,23 +3,23 @@
 ##Verordening van het Productschap Vee en Vlees van 26 oktober 2005, houdende de vaststelling van bestemmingsheffingen op schapen en geiten ten behoeve van het Veeziektenfonds PVV voor het jaar 2006 (Verordening bestemmingsheffingen Veeziektenfonds schapen en geiten (PVV) 2006)
 
 Het bestuur van het Productschap Vee en Vlees;  
-Gelet op [artikel 126 van de Wet op de bedrijfsorganisatie](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [artikelen 10](../../../../../../../../../../AMvB/instellingsbesluit/productschap/vee/en/vlees/BWBR0016491/README.md) en [12 van het Instellingsbesluit Productschap Vee en Vlees](../../../../../../../../../../AMvB/instellingsbesluit/productschap/vee/en/vlees/BWBR0016491/README.md);
+Gelet op artikel 126 van de Wet op de bedrijfsorganisatie en artikelen 10 en 12 van het Instellingsbesluit Productschap Vee en Vlees;
 
-Gezien de [Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(pvv)/2005/BWBR0017340/README.md);
+Gezien de Verordening algemene bepalingen heffingen (PVV) 2005;
 Besluit:    
 
 ### Artikel  1  
 Materieel uitgewerkt per 07-02-2010 
 
-Deze verordening neemt de begripsbepalingen over van de [Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(pvv)/2005/BWBR0017340/README.md) en verstaat voorts onder:  
+Deze verordening neemt de begripsbepalingen over van de Verordening algemene bepalingen heffingen (PVV) 2005 en verstaat voorts onder:  
 
 | --- | --- | --- |
 |:---|:---|:---|
 | a.  | ondernemer  | de natuurlijke of rechtspersoon die een onderneming drijft waarvoor het productschap is ingesteld en aan wie een uniek bedrijfsnummer is toegewezen;  |
-| b.  | UBN  | uniek bedrijfsnummer als bedoeld in [artikel 3, tweede lid, van de Regeling identificatie en registratie dieren 2003](../../../../../../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md);  |
+| b.  | UBN  | uniek bedrijfsnummer als bedoeld in artikel 3, tweede lid, van de Regeling identificatie en registratie dieren 2003;  |
 | c.  | standaardbedrijfseenheid  | productie omvang van een onderneming uitgedrukt in de gestandaardiseerde netto toegevoegde waarde per diersoort;  |
 | d.  | geit  | geit, huisdier, ongeacht leeftijd of gewicht;  |
-| e.  | Veeziektenfonds PVV  | het fonds als bedoeld in [artikel 1 van de Verordening Veeziektenfonds PVV 2000](../../../../../../../../../../pbo/verordening/veeziektenfonds/pvv/2000/BWBR0010945/README.md).  |
+| e.  | Veeziektenfonds PVV  | het fonds als bedoeld in artikel 1 van de Verordening Veeziektenfonds PVV 2000.  |
 
 ### Artikel  2  
 Materieel uitgewerkt per 07-02-2010 
@@ -36,7 +36,7 @@ De ondernemer aan wie in het jaar 2004 een aantal standaardbedrijfseenheden grot
 ### Artikel  4  
 Materieel uitgewerkt per 07-02-2010 
 
-Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de [Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(pvv)/2005/BWBR0017340/README.md). 
+Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de Verordening algemene bepalingen heffingen (PVV) 2005. 
 
 ### Artikel  5  
 Materieel uitgewerkt per 07-02-2010 

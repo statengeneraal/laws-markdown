@@ -3,7 +3,7 @@
 ##Verordening van het Hoofdbedrijfschap voor de Agrarische Groothandel van 21 december 2006, houdende regels ter zake van de aan de ondernemers die de groothandel in groenten en fruit uitoefenen op te leggen bestemmingsheffing voor het jaar 2007 (Verordening bestemmingsheffing promotieactiviteiten groothandel groenten en fruit 2007)
 
 Het bestuur van het Hoofdbedrijfschap voor de Agrarische Groothandel,  
-Gelet op [artikel 126 van de Wet op de Bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op [artikel 13 van het instellingsbesluit Hoofdbedrijfschap voor de Agrarische Groothandel](../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md) (Staatsblad 2002 nr. 155),
+Gelet op artikel 126 van de Wet op de Bedrijfsorganisatie en op artikel 13 van het instellingsbesluit Hoofdbedrijfschap voor de Agrarische Groothandel (Staatsblad 2002 nr. 155),
 
 Heeft na advies van de Commissie groenten en fruit de volgende verordening vastgesteld:
 Besluit:     
@@ -16,11 +16,11 @@ Materieel uitgewerkt per 01-03-2008
 ### Artikel  1  
 Materieel uitgewerkt per 01-03-2008 
 
-In deze verordening wordt overgenomen de terminologie van het [Instellingsbesluit Hoofdbedrijfschap voor de Agrarische Groothandel](../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md) en wordt voorts verstaan onder: 
+In deze verordening wordt overgenomen de terminologie van het Instellingsbesluit Hoofdbedrijfschap voor de Agrarische Groothandel en wordt voorts verstaan onder: 
 
 1. voorzitter: de voorzitter van het Hoofd bedrijfschap voor de Agrarische Groothandel;  
 
-2. HBAG Commissie groenten en fruit: de op grond van [artikel 5 van het Instellingsbesluit Hoofdbedrijfschap voor de Agrarische Groothandel](../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md) ingestelde commissie groenten en fruit;  
+2. HBAG Commissie groenten en fruit: de op grond van artikel 5 van het Instellingsbesluit Hoofdbedrijfschap voor de Agrarische Groothandel ingestelde commissie groenten en fruit;  
 
 3. ondernemer: de natuurlijke of rechtspersoon die een onderneming drijft dan wel de natuurlijke personen of rechtspersonen die gezamenlijk een onderneming drijven;  
 
@@ -62,8 +62,8 @@ Aan de ondernemers die in 2007 het bedrijf van de groothandel in groenten en fru
 ### Artikel  4  
 Materieel uitgewerkt per 01-03-2008 
 
-1.  De heffing wordt berekend op basis van de door de ondernemers op grond van [artikel 3 lid 4](../../../../../../../../pbo/hbag-registratie-/enquête-/en/controleverordening/2003/BWBR0014580/README.md) en [artikel 6 van de HBAG-Registratie-, enquête- en controleverordening 2003](../../../../../../../../pbo/hbag-registratie-/enquête-/en/controleverordening/2003/BWBR0014580/README.md) verstrekte gegevens.   
-2.  De [artikelen 6](../../../../../../../../pbo/verordening/heffing/groenten/en/fruit/2007/BWBR0022522/README.md), [8](../../../../../../../../pbo/verordening/heffing/groenten/en/fruit/2007/BWBR0022522/README.md) en [9 van de Verordening heffing groenten en fruit 2007](../../../../../../../../pbo/verordening/heffing/groenten/en/fruit/2007/BWBR0022522/README.md) zijn van overeenkomstige toepassing.   
+1.  De heffing wordt berekend op basis van de door de ondernemers op grond van artikel 3 lid 4 en artikel 6 van de HBAG-Registratie-, enquête- en controleverordening 2003 verstrekte gegevens.   
+2.  De artikelen 6, 8 en 9 van de Verordening heffing groenten en fruit 2007 zijn van overeenkomstige toepassing.   
 3.  Indien door het verstrekken van onjuiste omzetgegevens de heffing te laag is vastgesteld, trekt de voorzitter de heffingsbeschikking in en neemt een nieuwe beschikking.  
 
 ### §  3  

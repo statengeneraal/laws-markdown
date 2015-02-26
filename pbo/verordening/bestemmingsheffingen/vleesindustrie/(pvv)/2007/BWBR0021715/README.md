@@ -3,13 +3,13 @@
 ##Verordening van het Productschap Vee en Vlees van 1 november 2006, houdende de vaststelling van een bestemmingsheffing ten behoeve van de vleesindustrie voor het jaar 2007 (Verordening bestemmingsheffingen vleesindustrie (PVV) 2007)
 
 Het bestuur van het Productschap Vee en Vlees;  
-Gelet op [artikel 126 van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en de [artikelen 10](../../../../../../../AMvB/instellingsbesluit/productschap/vee/en/vlees/BWBR0016491/README.md) en [12 van het Instellingsbesluit Productschap Vee en Vlees](../../../../../../../AMvB/instellingsbesluit/productschap/vee/en/vlees/BWBR0016491/README.md);
+Gelet op artikel 126 van de Wet op de bedrijfsorganisatie en de artikelen 10 en 12 van het Instellingsbesluit Productschap Vee en Vlees;
 Besluit:    
 
 ### Artikel  1  
 Materieel uitgewerkt per 28-09-2008 
 
-Deze verordening neemt over de begripsbepalingen van de [Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(pvv)/2005/BWBR0017340/README.md) en de [Verordening huishoudelijke heffingen (PVV) 2007](../../../../../../../pbo/verordening/huishoudelijke/heffingen/(pvv)/2007/BWBR0020972/README.md) en verstaat voorts onder:  
+Deze verordening neemt over de begripsbepalingen van de Verordening algemene bepalingen heffingen (PVV) 2005 en de Verordening huishoudelijke heffingen (PVV) 2007 en verstaat voorts onder:  
 
 | --- | --- | --- |
 |:---|:---|:---|
@@ -17,9 +17,9 @@ Deze verordening neemt over de begripsbepalingen van de [Verordening algemene be
 | --- | --- | --- |
 | b.  | f.t.e.:  | fulltime-equivalent van de werknemer waarbij de fulltimeequivalent gemiddeld 36 uur per week bedraagt;  |
 | --- | --- | --- |
-| c.  | fonds sociale aangelegenheden:  | fonds als bedoeld in [artikel 1 van de Verordening fonds sociale aangelegenheden vleesindustrie (PVV) 2003](../../../../../../../pbo/verordening/fonds/sociale/aangelegenheden/vleesindustrie/(pvv)/2003/BWBR0015353/README.md);  |
+| c.  | fonds sociale aangelegenheden:  | fonds als bedoeld in artikel 1 van de Verordening fonds sociale aangelegenheden vleesindustrie (PVV) 2003;  |
 | --- | --- | --- |
-| d.  | o en o fonds:  | fonds als bedoeld in [artikel 1 van de Verordening o en o fonds vleesindustrie (PVV) 2003](../../../../../../../pbo/verordening/o/&/o/fonds/vleesindustrie/(pw)/2003/BWBR0015358/README.md).  |
+| d.  | o en o fonds:  | fonds als bedoeld in artikel 1 van de Verordening o en o fonds vleesindustrie (PVV) 2003.  |
 
 ### Artikel  2  
 Materieel uitgewerkt per 28-09-2008 
@@ -39,7 +39,7 @@ Materieel uitgewerkt per 28-09-2008
 ### Artikel  4  
 Materieel uitgewerkt per 28-09-2008 
 
-Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de [Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(pvv)/2005/BWBR0017340/README.md). 
+Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de Verordening algemene bepalingen heffingen (PVV) 2005. 
 
 ### Artikel  5  
 Materieel uitgewerkt per 28-09-2008 

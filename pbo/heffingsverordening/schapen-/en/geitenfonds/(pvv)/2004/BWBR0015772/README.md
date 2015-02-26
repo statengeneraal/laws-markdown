@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Vee en Vlees van 22 oktober 2003, houdende vaststelling van een bestemmingsheffing ten behoeve van het fonds verbetering schapen- en geitenstapel voor het jaar 2004 (Heffingsverordening schapen- en geitenfonds (PVV) 2004)
 
 Het bestuur van het Productschap Vee en Vlees;
-Gelet op [artikel 126 van de Wet op de Bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en de artikelen 10 en 15 van de Instellingsverordening Productschap Vee en Vlees 1999-I; 
+Gelet op artikel 126 van de Wet op de Bedrijfsorganisatie, en de artikelen 10 en 15 van de Instellingsverordening Productschap Vee en Vlees 1999-I; 
 Besluit:
 
 ###Artikel 1 
@@ -12,7 +12,7 @@ Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de V
 
 ###Artikel 2 
 
-1. Op de voet van het bepaalde in [artikel 2 van de Verordening huishoudelijke heffing dieren (PVV) 2004](../../../../../../../../pbo/verordening/huishoudelijke/heffing/dieren/(pvv)/2004/BWBR0015766/README.md) is voor het schapen- en geitenfonds een heffing verschuldigd op schapen en geiten van € 0,49 per schaap en € 0,41 per geit.
+1. Op de voet van het bepaalde in artikel 2 van de Verordening huishoudelijke heffing dieren (PVV) 2004 is voor het schapen- en geitenfonds een heffing verschuldigd op schapen en geiten van € 0,49 per schaap en € 0,41 per geit.
 2. In afwijking van het bepaalde in het eerste lid is, indien ten genoegen van het PVV is aangetoond dat het een jonge geit betreft, per jonge geit een heffing verschuldigd van € 0,15.
 3. De heffing, bedoeld in het eerste lid, wordt niet opgelegd voor een dier, ten aanzien waarvan ten genoegen van het productschap wordt aangetoond, dat de periode tussen het tijdstip van invoeren het tijdstip van slacht onderscheidenlijk de periode tussen het tijdstip van invoer en het tijdstip van uitvoer korter is dan twee maanden.
 

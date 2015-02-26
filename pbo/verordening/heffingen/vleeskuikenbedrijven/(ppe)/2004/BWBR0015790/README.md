@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Pluimvee en Eieren van 23 oktober 2003, houdende vaststelling van huishoudelijke en bestemmingsheffingen ten aanzien van de pluimveesector voor het jaar 2004 (Verordening heffingen vleeskuikenbedrijven (PPE) 2004)
 
 Het bestuur van het Productschap Pluimvee en Eieren;
-Gelet op [artikel 126 van de Wet op de Bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en de artikelen 5 en 9 van de Instellingsverordening Productschap Pluimvee en Eieren 1998-I ;
+Gelet op artikel 126 van de Wet op de Bedrijfsorganisatie en de artikelen 5 en 9 van de Instellingsverordening Productschap Pluimvee en Eieren 1998-I ;
 Besluit:
 ###Titel I 
 

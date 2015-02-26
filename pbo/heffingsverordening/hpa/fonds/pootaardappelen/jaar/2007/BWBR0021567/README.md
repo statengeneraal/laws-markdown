@@ -3,7 +3,7 @@
 ##Verordening van het Hoofdproductschap Akkerbouw van 9 november 2006 houdende vaststelling bestemmingsheffing ten behoeve van het Fonds pootaardappelen voor het jaar 2007 (heffingsverordening HPA fonds pootaardappelen jaar 2007) 
 
 Het bestuur van het Hoofdproductschap Akkerbouw;  
-Gelet op de [artikelen 95](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 eerste en vierde lid van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op de [artikelen 3](../../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md), [5](../../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md) en [19 van het Instellingsbesluit akkerbouwproductschappen](../../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md);
+Gelet op de artikelen 95 en 126 eerste en vierde lid van de Wet op de bedrijfsorganisatie en op de artikelen 3, 5 en 19 van het Instellingsbesluit akkerbouwproductschappen;
 
 Gehoord de Commissie Aardappelen;
 Besluit:     
@@ -41,7 +41,7 @@ Materieel uitgewerkt per 24-02-2008
 Materieel uitgewerkt per 24-02-2008 
 
 1.  De ondernemer, die in het jaar 2007 een onderneming drijft, met als activiteit het telen van pootaardappelen, is verplicht voor dat jaar aan het hoofdproductschap een heffing te betalen.   
-2.  De heffing wordt opgelegd naar de grondslag grondgebruik en wordt berekend naar de oppervlakte van de tot de onderneming behorende oppervlakte cultuurgrond, in gebruik voor de teelt van aardappelen in het jaar 2007, op basis van de bij of krachtens de [Verordening HPA registratie en verstrekking van gegevens 2003](../../../../../../../../pbo/verordening/hpa/registratie/en/verstrekking/van/gegevens/2003/BWBR0014846/README.md) verstrekte gegevens.   
+2.  De heffing wordt opgelegd naar de grondslag grondgebruik en wordt berekend naar de oppervlakte van de tot de onderneming behorende oppervlakte cultuurgrond, in gebruik voor de teelt van aardappelen in het jaar 2007, op basis van de bij of krachtens de Verordening HPA registratie en verstrekking van gegevens 2003 verstrekte gegevens.   
 3.  De heffing bedraagt over het jaar 2007 € 13,– per ha.   
 4.  De heffing is bestemd voor het Fonds pootaardappelen.  
 
@@ -104,7 +104,7 @@ De secretaris kan, namens het bestuur, besluiten nota's met een bedrag minder da
 ### Artikel  8  
 Materieel uitgewerkt per 24-02-2008 
 
-Aan de ondernemer die niet of niet geheel binnen de in artikel 5 gestelde termijn heeft betaald, kan door de secretaris, namens het bestuur, de wettelijke interest over het niet-betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling dient te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md). 
+Aan de ondernemer die niet of niet geheel binnen de in artikel 5 gestelde termijn heeft betaald, kan door de secretaris, namens het bestuur, de wettelijke interest over het niet-betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling dient te zijn verricht ingevolge de aanmaning bedoeld in artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie. 
 
 ### §  5  
 
@@ -125,7 +125,7 @@ b. niet onder vermelding of aanduiding van de persoon en/of onderneming, waarop 
 ### Artikel  10  
 Materieel uitgewerkt per 24-02-2008 
 
-Deze verordening treedt in werking met ingang van 1 januari 2007. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 31 december 2006, treedt zij in werking de tweede dag na publicatie in het Verordeningenblad Bedrijfsorganisatie en werkt zij terug tot en met 1 januari 2007, met uitzondering van het in [artikel 12 van de verordening HPA registratie en verstrekking van gegevens 2003](../../../../../../../../pbo/verordening/hpa/registratie/en/verstrekking/van/gegevens/2003/BWBR0014846/README.md) bepaalde. 
+Deze verordening treedt in werking met ingang van 1 januari 2007. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 31 december 2006, treedt zij in werking de tweede dag na publicatie in het Verordeningenblad Bedrijfsorganisatie en werkt zij terug tot en met 1 januari 2007, met uitzondering van het in artikel 12 van de verordening HPA registratie en verstrekking van gegevens 2003 bepaalde. 
 
 ### Artikel  11  
 Materieel uitgewerkt per 24-02-2008 

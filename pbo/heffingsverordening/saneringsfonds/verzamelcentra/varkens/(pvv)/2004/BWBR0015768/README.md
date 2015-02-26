@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Vee en Vlees van 22 oktober 2003, houdende vaststelling van een bestemmingsheffing ten behoeve van het saneringsfonds verzamelcentra varkens voor het jaar 2004 (Heffingsverordening saneringsfonds verzamelcentra varkens (PVV) 2004)
 
 Het bestuur van het Productschap Vee en Vlees;
-Gelet op [artikel 126 van de Wet op de Bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en de artikelen 10 en 15 van de Instellingsverordening Productschap Vee en Vlees 1999-I; 
+Gelet op artikel 126 van de Wet op de Bedrijfsorganisatie, en de artikelen 10 en 15 van de Instellingsverordening Productschap Vee en Vlees 1999-I; 
 Besluit:
 
 ###Artikel 1 
@@ -21,7 +21,7 @@ Besluit:
 
 | --- | --- | --- |
 |---|---|---|
-|verzamelcentrum |: |verzamelcentrum als bedoeld in [artikel 1 van de Subsidieregeling sanering verzamelcentra varkens](../../../../../../../../ministeriele-regeling/subsidieregeling/sanering/verzamelcentra/varkens/BWBR0009818/README.md) (29 juli 1998/Nr. J. 986794, Stcrt. 148). |
+|verzamelcentrum |: |verzamelcentrum als bedoeld in artikel 1 van de Subsidieregeling sanering verzamelcentra varkens (29 juli 1998/Nr. J. 986794, Stcrt. 148). |
 
 ###Artikel 2 
 

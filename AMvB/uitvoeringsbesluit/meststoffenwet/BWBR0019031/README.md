@@ -44,11 +44,11 @@ h.anorganische meststoffen: meststoffen waarin de aangegeven nutriënten voorkom
 
 i.EG-meststoffen: als «EG-meststof» aangeduide meststoffen die tot een in bijlage I van de meststoffenverordening vermeld type meststoffen behoren en die aan de bij of krachtens die verordening gestelde voorschriften voldoen;
 
-j.overige anorganische meststoffen: anorganische meststoffen niet zijnde EG-meststoffen;
+j.overige anorganische meststoffen: anorganische meststoffen niet zijnde EG-meststoffen of herwonnen fosfaten;
 
 k.organische meststoffen: meststoffen niet zijnde anorganische meststoffen;
 
-l.overige organische meststoffen: organische meststoffen niet zijnde dierlijke meststoffen, zuiveringsslib of compost;
+l.overige organische meststoffen: organische meststoffen niet zijnde dierlijke meststoffen, zuiveringsslib, compost of herwonnen fosfaten;
 
 m.kalkmeststoffen: organische of anorganische meststoffen die hoofdzakelijk zijn bedoeld om zuurgraad in de bodem in stand te houden of te verlagen;
 
@@ -76,7 +76,15 @@ x. apparatuur voor automatische gegevensregistratie: apparatuur waarmee de gegev
 
 y. satellietvolgapparatuur: apparatuur die met behulp van de door satellieten uitgezonden signalen automatisch de positie van een transportmiddel bepaalt;  
 
-z. opslagruimte voor meststoffen: ruimte die in het kader van een bedrijf of een intermediaire onderneming wordt gebruikt of bestemd is om te worden gebruikt voor de opslag van meststoffen.    
+z. opslagruimte voor meststoffen: ruimte die in het kader van een bedrijf of een intermediaire onderneming wordt gebruikt of bestemd is om te worden gebruikt voor de opslag van meststoffen;  
+
+aa.herwonnen fosfaten: 
+
+1°. struviet, hoofdzakelijk bestaand uit magnesiumammoniumfosfaat, dat is vrijgekomen bij de zuivering van industrieel proceswater of huishoudelijk, stedelijk of industrieel afvalwater dan wel ander afvalwater door precipitatie met opgelost magnesium, ammonium of kalium;  
+
+2°. magnesiumfosfaat, dat is vrijgekomen bij pasteurisatie of bij het drogen van struviet, of  
+
+3°. dicalciumfosfaat, hoofdzakelijk bestaand uit dicalciumfosfaat, dat is vrijgekomen bij de zuivering van huishoudelijk, stedelijk of industrieel afvalwater dan wel ander afvalwater door precipitatie met opgelost calcium.     
 2. Onder primaire nutriënten, secundaire nutriënten, micronutriënten, vloeibare meststof en fabrikant wordt verstaan hetgeen daaronder in de meststoffenverordening wordt verstaan.
 
 ###Artikel 1a 
@@ -114,9 +122,11 @@ b.de artikelen 10, 14 en 15, tweede lid, indien het kalkmeststoffen betreft;
 
 c.artikel 16, indien het zuiveringsslib betreft;
 
-d.artikel 17, indien het compost betreft; en
+d.artikel 17, indien het compost betreft;
 
-e.de artikelen 11, 12, 13, 14, eerste lid, en 15, eerste lid, indien het overige organische meststoffen betreft. 
+e. artikel 17a, indien het herwonnen fosfaten betreft, en 
+
+f.de artikelen 11, 12, 13, 14, eerste lid, en 15, eerste lid, indien het overige organische meststoffen betreft. 
 3. Het in het eerste lid gestelde verbod is niet van toepassing op de verhandeling van:
 
 a.EG-meststoffen, voor zover ten aanzien van deze meststoffen is voldaan aan de ter uitvoering van de meststoffenverordening krachtens 40, tweede lid, van de Meststoffenwet, gestelde regels;
@@ -128,7 +138,7 @@ c.uitwerpselen van dieren, daaronder begrepen de geheel of gedeeltelijk verteerd
 
 ### Artikel 5 
 
-1. Meststoffen, met uitzondering van zuiveringsslib en compost, zijn niet geheel of gedeeltelijk geproduceerd uit afvalstoffen of uit reststoffen, tenzij het betreft de krachtens het tweede lid aangewezen stoffen. 
+1. Meststoffen, met uitzondering van zuiveringsslib, compost en herwonnen fosfaten, zijn niet geheel of gedeeltelijk geproduceerd uit afvalstoffen of uit reststoffen, tenzij het betreft de krachtens het tweede lid aangewezen stoffen. 
 2. Bij ministeriële regeling kunnen afvalstoffen of reststoffen, categorieën afvalstoffen of reststoffen of eindproducten van bij die regeling omschreven bewerkingsprocédés worden aangewezen, indien er naar het oordeel van Onze Minister geen landbouwkundige en milieukundige bezwaren bestaan dat deze stoffen als meststof worden verhandeld of bij de productie van meststoffen worden gebruikt. 
 3. Meststoffen zijn niet met afvalstoffen of reststoffen gemengd, tenzij het betreft de krachtens het tweede lid, aangewezen stoffen.
 
@@ -205,9 +215,9 @@ Overige organische meststoffen bevatten geen biologisch afbreekbare delen met ee
 1. Overige organische meststoffen alsmede de krachtens artikel 5, tweede lid, aangewezen stoffen die als meststof of bij de productie van meststoffen worden gebruikt, overschrijden niet de in bijlage II, onder tabel 4, bij dit besluit opgenomen maximale waarden voor organische microverontreinigingen, uitgedrukt in milligrammen per kilogram van het desbetreffende waardegevende bestanddeel. 
 2. Het eerste lid is van overeenkomstige toepassing op kalkmeststoffen en overige anorganische meststoffen die organisch materiaal van dierlijke of plantaardige oorsprong bevatten, met dien verstande dat voor zover het betreft overige anorganische meststoffen die hoofdzakelijk zijn bedoeld om secundaire nutriënten of micronutriënten te leveren, de maximale waarden voor organische microverontreinigingen uitgedrukt in milligrammen per kilogram van het desbetreffende waardegevende bestanddeel, worden vastgesteld bij ministeriële regeling.
 
-###Paragraaf 4 
+### Paragraaf  4  
 
-####Eisen zuiveringsslib en compost
+####Eisen zuiveringsslib, compost en herwonnen fosfaten
 
 ### Artikel 16 
 
@@ -223,7 +233,6 @@ Overige organische meststoffen bevatten geen biologisch afbreekbare delen met ee
 4. Compost overschrijdt niet de in bijlage II, onder tabel 3, bij dit besluit opgenomen maximale waarden voor zware metalen, uitgedrukt in milligrammen per kilogram droge stof.
 
 ### Artikel  17a  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Herwonnen fosfaten overschrijden niet de in bijlage II, in tabel 1, opgenomen maximale waarden voor zware metalen, uitgedrukt in milligrammen per kilogram van het desbetreffende waardegevende bestanddeel.   
 2.  Herwonnen fosfaten overschrijden niet de in bijlage II, in tabel 4, opgenomen maximale waarden voor organische microverontreinigingen, uitgedrukt in milligrammen per kilogram van het desbetreffende waardegevende bestanddeel.   
@@ -281,7 +290,7 @@ c.die vergezeld gaan van een analyserapport dat voldoende informatie verschaft o
 
 a.de eisen waaraan afvalstoffen of reststoffen van organische, dierlijke of plantaardige oorsprong moeten voldoen;
 
-b.de eisen waaraan het bewerkingsprocédé van zuiveringsslib en van overige afvalstoffen of reststoffen van organische, dierlijke of plantaardige oorsprong moet voldoen, welke eisen mede betrekking kunnen hebben op de te bewerken stoffen;
+b.de eisen waaraan het bewerkingsprocédé van zuiveringsslib, van herwonnen fosfaten en van overige afvalstoffen of reststoffen van organische, dierlijke of plantaardige oorsprong moet voldoen, welke eisen mede betrekking kunnen hebben op de te bewerken stoffen;
 
 c.de homogeniteit, de stabiliteit of de gelijkmatigheid van de samenstelling van de meststoffen;
 
@@ -819,6 +828,10 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld inzake:
 a. de gegevens, bedoeld in artikel 33b, vijfde lid, van de wet, die moeten worden gemeld;  
 
 b. de elektronische melding, bedoeld in artikel 33b, vijfde lid, van de wet.   
+
+### Artikel  61  
+
+Als huisvestingssysteem als bedoeld in artikel 33a, tweede lid, onderdeel d, onder 1°, van de wet wordt aangewezen een huisvestingssysteem waarbij minimaal tweederde van de oppervlakte van de leefruimte van de dieren is ingestrooid met stro. 
 
 ### Hoofdstuk  X  
 

@@ -3,14 +3,14 @@
 ##Regeling van het College voor Examens van 19 april 2011, nummer Cve-11.0357 houdende vaststelling van de beoordelingsnormen voor de staatsexamens Voortgezet Onderwijs (Regeling beoordelingsnormen staatsexamens Voortgezet Onderwijs)
 
 Het College voor examens,  
-Gelet op [artikel 2, vierde lid, onderdeel c Wet College voor examens](../../../../../../../wet/wet/college/voor/examens/BWBR0025364/README.md);
+Gelet op artikel 2, vierde lid, onderdeel c Wet College voor examens;
 Besluit:    
 
 ### Artikel  1  
 
 ####Begripsbepalingen
 
-1.  In deze regeling gelden de begripsbepalingen die zijn gegeven in [artikel 1 van het Staatsexamenbesluit vwo-havo-vmbo 2000](../../../../../../../AMvB/staatsexamenbesluit/vo/BWBR0011538/README.md).   
+1.  In deze regeling gelden de begripsbepalingen die zijn gegeven in artikel 1 van het Staatsexamenbesluit vwo-havo-vmbo 2000.   
 2.  Voorts wordt in deze regeling verstaan onder: 
 
 *  *’voorzitter’:* de voorzitter van het College voor examens;  

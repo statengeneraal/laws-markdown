@@ -3,7 +3,7 @@
 ##Verordening van het Hoofdbedrijfschap voor de Agrarische Groothandel van 21 december 2006, houdende regels ter zake van de aan de groothandelaar, de commissionair en de tussenpersoon in groenten en fruit op te leggen heffing voor het jaar 2007 (Verordening heffing groenten en fruit 2007)
 
 Het bestuur van het Hoofdbedrijfschap voor de Agrarische Groothandel,  
-Gelet op [artikel 126 van de Wet op de Bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op [artikel 13 van het instellingsbesluit Hoofdbedrijfschap voor de Agrarische Groothandel](../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md) (Staatsblad 2002 nr. 155), heeft na advies van de Commissie groenten en fruit de volgende verordening vastgesteld:
+Gelet op artikel 126 van de Wet op de Bedrijfsorganisatie en op artikel 13 van het instellingsbesluit Hoofdbedrijfschap voor de Agrarische Groothandel (Staatsblad 2002 nr. 155), heeft na advies van de Commissie groenten en fruit de volgende verordening vastgesteld:
 Besluit:     
 ### §   1  
 
@@ -14,11 +14,11 @@ Materieel uitgewerkt per 12-04-2008
 ### Artikel  1  
 Materieel uitgewerkt per 12-04-2008 
 
-In deze verordening wordt overgenomen de terminologie van het [instellingsbesluit Hoofdbedrijfschap voor de Agrarische Groothandel](../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md) en wordt voorts verstaan onder: 
+In deze verordening wordt overgenomen de terminologie van het instellingsbesluit Hoofdbedrijfschap voor de Agrarische Groothandel en wordt voorts verstaan onder: 
 
 1. voorzitter: de voorzitter van het Hoofdbedrijfschap voor de Agrarische Groothandel;  
 
-2. HBAG Commissie groenten en fruit: de op grond van [artikel 5 van het Instellingsbesluit Hoofdbedrijfschap voor de Agrarische Groothandel](../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md) ingestelde commissie groenten en fruit.   
+2. HBAG Commissie groenten en fruit: de op grond van artikel 5 van het Instellingsbesluit Hoofdbedrijfschap voor de Agrarische Groothandel ingestelde commissie groenten en fruit.   
 
 ### Artikel  2  
 Materieel uitgewerkt per 12-04-2008 
@@ -148,7 +148,7 @@ Materieel uitgewerkt per 12-04-2008
 
 a. krachtens haar statutaire doelstelling haar werkzaamheid kan uitstrekken tot ten minste een belangrijk gedeelte van het terrein waarop het bedrijfslichaam een taak heeft te vervullen;  
 
-b. voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de [artikelen 3 tot en met 7 van de Verordening representativiteit organisaties](../../../../../../../../pbo/verordening/representativiteit/organisaties/BWBR0011641/README.md);  
+b. voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de artikelen 3 tot en met 7 van de Verordening representativiteit organisaties;  
 
 c. tot de werkingssfeer van het bedrijfslichaam behorende leden heeft, waarvan het gewogen aantal niet-onbetekenend is;  
 

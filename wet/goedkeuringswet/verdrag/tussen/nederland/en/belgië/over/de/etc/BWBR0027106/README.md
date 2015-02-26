@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het op 31 oktober 2009 te Tilburg tot stand gekomen Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België over de terbeschikkingstelling van een penitentiaire inrichting in Nederland ten behoeve van de tenuitvoerlegging van bij Belgische veroordelingen opgelegde vrijheidsstraffen ingevolge [artikel 91, eerste lid, van de Grondwet](../../../../../../../../../../../wet/grondwet/BWBR0001840/README.md) de goedkeuring van de Staten-Generaal behoeft, alvorens het Koninkrijk daaraan kan worden gebonden en voorts dat het noodzakelijk is enige wettelijke voorzieningen te treffen teneinde uitvoering te geven aan genoemd verdrag;
+Alzo Wij in overweging genomen hebben, dat het op 31 oktober 2009 te Tilburg tot stand gekomen Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België over de terbeschikkingstelling van een penitentiaire inrichting in Nederland ten behoeve van de tenuitvoerlegging van bij Belgische veroordelingen opgelegde vrijheidsstraffen ingevolge artikel 91, eerste lid, van de Grondwet de goedkeuring van de Staten-Generaal behoeft, alvorens het Koninkrijk daaraan kan worden gebonden en voorts dat het noodzakelijk is enige wettelijke voorzieningen te treffen teneinde uitvoering te geven aan genoemd verdrag;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  1  
@@ -16,7 +16,7 @@ Het op 31 oktober 2009 te Tilburg tot stand gekomen Verdrag tussen het Koninkrij
 ### Artikel  2  
 
 1.  De Nederlandse wet is niet van toepassing op vrijheidsbeneming ondergaan ten gevolge van de tenuitvoerlegging van bij Belgische veroordelingen opgelegde vrijheidsstraffen in de penitentiaire inrichting te Tilburg, overeenkomstig het in artikel 1 genoemde verdrag.   
-2.  In afwijking van het eerste lid is op de medische zorgverstrekking in de penitentiaire inrichting te Tilburg [artikel 42, eerste en tweede lid, van de Penitentiaire beginselenwet](../../../../../../../../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md) van toepassing.  
+2.  In afwijking van het eerste lid is op de medische zorgverstrekking in de penitentiaire inrichting te Tilburg artikel 42, eerste en tweede lid, van de Penitentiaire beginselenwet van toepassing.  
 
 ### Artikel  3  
 

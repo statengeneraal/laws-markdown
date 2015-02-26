@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Vee en Vlees van 22 oktober 2003, houdende vaststelling van een bestemmingsheffing ten behoeve van het fonds bevordering kwaliteitsverbetering varkensstapel voor het jaar 2004 (Heffingsverordening varkensfonds-rekening-B (PVV) 2004)
 
 Het bestuur van het Productschap Vee en Vlees;
-Gelet op [artikel 126 van de Wet op de Bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en de artikelen 10 en 15 van de Instellingsverordening Productschap Vee en Vlees 1999-I; 
+Gelet op artikel 126 van de Wet op de Bedrijfsorganisatie, en de artikelen 10 en 15 van de Instellingsverordening Productschap Vee en Vlees 1999-I; 
 Besluit:
 
 ###Artikel 1 
@@ -17,7 +17,7 @@ Besluit:
 
 ###Artikel 2 
 
-1. Op de voet van het bepaalde in [artikel 2 van de Verordening huishoudelijke heffing dieren (PVV) 2004](../../../../../../pbo/verordening/huishoudelijke/heffing/dieren/(pvv)/2004/BWBR0015766/README.md) is voor het varkensfonds-rekening-B een heffing verschuldigd op varkens van € 0,14 per varken.
+1. Op de voet van het bepaalde in artikel 2 van de Verordening huishoudelijke heffing dieren (PVV) 2004 is voor het varkensfonds-rekening-B een heffing verschuldigd op varkens van € 0,14 per varken.
 2. De heffing, bedoeld in het eerste lid, wordt niet opgelegd voor een dier, ten aanzien waarvan ten genoegen van het productschap wordt aangetoond, dat de periode tussen het tijdstip van invoer en het tijdstip van slacht, onderscheidenlijk de periode tussen het tijdstip van invoer en het tijdstip van uitvoer korter is dan twee maanden.
 
 ###Artikel 3 

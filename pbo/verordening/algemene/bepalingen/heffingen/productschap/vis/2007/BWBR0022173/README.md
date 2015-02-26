@@ -3,12 +3,12 @@
 ##Verordening van het Productschap Vis van 29 maart 2007 tot vaststelling van algemene bepalingen voor het vaststellen, opleggen, herzien en navorderen of restitueren van heffingen (Verordening Algemene Bepalingen Heffingen Productschap Vis 2007)
 
 Het bestuur van het Productschap Vis;  
-Gelet op de [artikelen 95](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [artikel 7 van het Instellingsbesluit Productschap Vis](../../../../../../../../../AMvB/instellingsbesluit/productschap/vis/BWBR0015163/README.md) (Stb. 2003, 253);
+Gelet op de artikelen 95 en 126 van de Wet op de bedrijfsorganisatie en artikel 7 van het Instellingsbesluit Productschap Vis (Stb. 2003, 253);
 Besluit:    
 
 ### Artikel  1  
 
-Heffingsbedragen welke op de dag voor inwerkingtreding van deze verordening nog niet definitief middels een besluit in de zin van [artikel 1:3 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn vastgesteld, opgelegd, herzien en nagevorderd of gerestitueerd aan onder het Productschap Vis ressorterende ondernemers wegens de uitoefening van hun bedrijfsactiviteiten in de periode van 1 januari 2000 tot en met 31 december 2000, worden op grond van dit artikel vastgesteld, opgelegd, herzien en nagevorderd of gerestitueerd overeenkomstig de bepalingen van de volgende heffingsverordeningen: 
+Heffingsbedragen welke op de dag voor inwerkingtreding van deze verordening nog niet definitief middels een besluit in de zin van artikel 1:3 van de Algemene wet bestuursrecht zijn vastgesteld, opgelegd, herzien en nagevorderd of gerestitueerd aan onder het Productschap Vis ressorterende ondernemers wegens de uitoefening van hun bedrijfsactiviteiten in de periode van 1 januari 2000 tot en met 31 december 2000, worden op grond van dit artikel vastgesteld, opgelegd, herzien en nagevorderd of gerestitueerd overeenkomstig de bepalingen van de volgende heffingsverordeningen: 
 
 a. de Heffingsverordening 2000, zoals vastgesteld in de bestuursvergadering van 11 november 1999;  
 
@@ -36,7 +36,7 @@ l. de Verordening bestemmingsheffing onderzoekfonds aanvoersector 2000, zoals va
 
 ### Artikel  2  
 
-Heffingsbedragen welke op de dag voor inwerkingtreding van deze verordening nog niet definitief middels een besluit in de zin van [artikel 1:3 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn vastgesteld, opgelegd, herzien en nagevorderd of gerestitueerd aan onder het Productschap Vis ressorterende ondernemers wegens de uitoefening van hun bedrijfsactiviteiten in de periode van 1 januari 2001 tot en met 31 december 2001, worden op grond van dit artikel vastgesteld, opgelegd, herzien en nagevorderd of gerestitueerd overeenkomstig de bepalingen van de volgende heffingsverordeningen: 
+Heffingsbedragen welke op de dag voor inwerkingtreding van deze verordening nog niet definitief middels een besluit in de zin van artikel 1:3 van de Algemene wet bestuursrecht zijn vastgesteld, opgelegd, herzien en nagevorderd of gerestitueerd aan onder het Productschap Vis ressorterende ondernemers wegens de uitoefening van hun bedrijfsactiviteiten in de periode van 1 januari 2001 tot en met 31 december 2001, worden op grond van dit artikel vastgesteld, opgelegd, herzien en nagevorderd of gerestitueerd overeenkomstig de bepalingen van de volgende heffingsverordeningen: 
 
 a. de Heffingsverordening 2001, zoals vastgesteld in de bestuursvergadering van 7 september 2000;  
 
@@ -64,7 +64,7 @@ l. de Verordening financiering mosselpromotie, zoals vastgesteld in de bestuursv
 
 ### Artikel  3  
 
-Heffingsbedragen welke op de dag voor inwerkingtreding van deze verordening nog niet definitief middels een besluit in de zin van [artikel 1:3 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn vastgesteld, opgelegd, herzien en nagevorderd of gerestitueerd aan onder het Productschap Vis ressorterende ondernemers wegens de uitoefening van hun bedrijfsactiviteiten in de periode van 1 januari 2002 tot en met 31 december 2002, worden op grond van dit artikel vastgesteld, opgelegd, herzien en nagevorderd of gerestitueerd overeenkomstig de bepalingen van de volgende heffingsverordeningen: 
+Heffingsbedragen welke op de dag voor inwerkingtreding van deze verordening nog niet definitief middels een besluit in de zin van artikel 1:3 van de Algemene wet bestuursrecht zijn vastgesteld, opgelegd, herzien en nagevorderd of gerestitueerd aan onder het Productschap Vis ressorterende ondernemers wegens de uitoefening van hun bedrijfsactiviteiten in de periode van 1 januari 2002 tot en met 31 december 2002, worden op grond van dit artikel vastgesteld, opgelegd, herzien en nagevorderd of gerestitueerd overeenkomstig de bepalingen van de volgende heffingsverordeningen: 
 
 a. de Verordening financiering scholpromotie 2002, zoals vastgesteld in de bestuursvergadering van 17 mei 2001;  
 
@@ -94,7 +94,7 @@ m. de Verordening bestemmingsheffing onderwijsfonds kleinhandel 2002, zoals vast
 
 ### Artikel  4  
 
-Heffingsbedragen welke op de dag voor inwerkingtreding van deze verordening nog niet definitief middels een besluit in de zin van [artikel 1:3 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn vastgesteld, opgelegd, herzien en nagevorderd of gerestitueerd aan onder het Productschap Vis ressorterende ondernemers wegens de uitoefening van hun bedrijfsactiviteiten in de periode van 1 januari 2003 tot en met 31 december 2003, worden op grond van dit artikel vastgesteld, opgelegd, herzien en nagevorderd of gerestitueerd overeenkomstig de bepalingen van de volgende heffingsverordeningen: 
+Heffingsbedragen welke op de dag voor inwerkingtreding van deze verordening nog niet definitief middels een besluit in de zin van artikel 1:3 van de Algemene wet bestuursrecht zijn vastgesteld, opgelegd, herzien en nagevorderd of gerestitueerd aan onder het Productschap Vis ressorterende ondernemers wegens de uitoefening van hun bedrijfsactiviteiten in de periode van 1 januari 2003 tot en met 31 december 2003, worden op grond van dit artikel vastgesteld, opgelegd, herzien en nagevorderd of gerestitueerd overeenkomstig de bepalingen van de volgende heffingsverordeningen: 
 
 a. de Heffingsverordening 2003, zoals vastgesteld in de bestuursvergadering van 26 september 2002;  
 
@@ -116,15 +116,15 @@ i. de Verordening bestemmingsheffing onderzoek- en projectenfonds groothandelsse
 
 j. de Verordening tot het instellen van een bestemmingsheffing ter financiering van een onderwijsfonds voor de aanvoersector 2003, zoals vastgesteld in de bestuursvergadering van 26 september 2002;  
 
-k. de [Verordening bestemmingsheffing onderzoekfonds aanvoersector 2003](../../../../../../../../../pbo/verordening/bestemmingsheffing/onderzoekfonds/aanvoersector/2003/BWBR0014061/README.md), zoals vastgesteld in de bestuursvergadering van 26 september 2002;  
+k. de Verordening bestemmingsheffing onderzoekfonds aanvoersector 2003, zoals vastgesteld in de bestuursvergadering van 26 september 2002;  
 
-l. de [Verordening bestemmingsheffing onderzoekfonds kleinhandel 2003](../../../../../../../../../pbo/verordening/bestemmingsheffing/onderzoekfonds/kleinhandel/2003/BWBR0014059/README.md), zoals vastgesteld in de bestuursvergadering van 26 september 2002;  
+l. de Verordening bestemmingsheffing onderzoekfonds kleinhandel 2003, zoals vastgesteld in de bestuursvergadering van 26 september 2002;  
 
 m. de Verordening bestemmingsheffing onderwijsfonds kleinhandel 2003, zoals vastgesteld in de bestuursvergadering van 26 september 2002.   
 
 ### Artikel  5  
 
-Heffingsbedragen welke op de dag voor inwerkingtreding van deze verordening nog niet definitief middels een besluit in de zin van [artikel 1:3 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn vastgesteld, opgelegd, herzien en nagevorderd of gerestitueerd aan onder het Productschap Vis ressorterende ondernemers wegens de uitoefening van hun bedrijfsactiviteiten in de periode van 1 januari 2004 tot en met 31 december 2004, worden op grond van dit artikel vastgesteld, opgelegd, herzien en nagevorderd of gerestitueerd overeenkomstig de bepalingen van de volgende heffingsverordeningen: 
+Heffingsbedragen welke op de dag voor inwerkingtreding van deze verordening nog niet definitief middels een besluit in de zin van artikel 1:3 van de Algemene wet bestuursrecht zijn vastgesteld, opgelegd, herzien en nagevorderd of gerestitueerd aan onder het Productschap Vis ressorterende ondernemers wegens de uitoefening van hun bedrijfsactiviteiten in de periode van 1 januari 2004 tot en met 31 december 2004, worden op grond van dit artikel vastgesteld, opgelegd, herzien en nagevorderd of gerestitueerd overeenkomstig de bepalingen van de volgende heffingsverordeningen: 
 
 a. de Heffingsverordening 2004, zoals vastgesteld in de bestuursvergadering van 25 september 2003 en gewijzigd in de bestuursvergadering van 11 december 2003;  
 
@@ -154,63 +154,63 @@ m. de Verordening bestemmingsheffing onderwijsfonds kleinhandel 2004, zoals vast
 
 ### Artikel  6  
 
-Heffingsbedragen welke op de dag voor inwerkingtreding van deze verordening nog niet definitief middels een besluit in de zin van [artikel 1:3 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn vastgesteld, opgelegd, herzien en nagevorderd of gerestitueerd aan onder het Productschap Vis ressorterende ondernemers wegens de uitoefening van hun bedrijfsactiviteiten in de periode van 1 januari 2005 tot en met 31 december 2005, worden op grond van dit artikel vastgesteld, opgelegd, herzien en nagevorderd of gerestitueerd overeenkomstig de bepalingen van de volgende heffingsverordeningen: 
+Heffingsbedragen welke op de dag voor inwerkingtreding van deze verordening nog niet definitief middels een besluit in de zin van artikel 1:3 van de Algemene wet bestuursrecht zijn vastgesteld, opgelegd, herzien en nagevorderd of gerestitueerd aan onder het Productschap Vis ressorterende ondernemers wegens de uitoefening van hun bedrijfsactiviteiten in de periode van 1 januari 2005 tot en met 31 december 2005, worden op grond van dit artikel vastgesteld, opgelegd, herzien en nagevorderd of gerestitueerd overeenkomstig de bepalingen van de volgende heffingsverordeningen: 
 
-a. de [Heffingsverordening 2005](../../../../../../../../../pbo/heffingsverordening/2005/BWBR0017391/README.md), zoals vastgesteld in de bestuursvergadering van 28 oktober 2004;  
+a. de Heffingsverordening 2005, zoals vastgesteld in de bestuursvergadering van 28 oktober 2004;  
 
-b. de [Verordening financiering garnalenzeven en garnalenkrakers visafslagen 2005](../../../../../../../../../pbo/verordening/financiering/garnalenzeven/en/garnalenkrakers/visafslagen/2005/BWBR0017378/README.md), zoals vastgesteld in de bestuursvergadering van 28 oktober 2004 en gewijzigd in de bestuursvergadering van 24 maart 2005;  
+b. de Verordening financiering garnalenzeven en garnalenkrakers visafslagen 2005, zoals vastgesteld in de bestuursvergadering van 28 oktober 2004 en gewijzigd in de bestuursvergadering van 24 maart 2005;  
 
-c. de [Verordening financiering garnalenpromotie 2005](../../../../../../../../../pbo/verordening/financiering/garnalenpromotie/2005/BWBR0017379/README.md), zoals vastgesteld in de bestuursvergadering van 28 oktober 2004 en gewijzigd in de bestuursvergadering van 24 maart 2005;  
+c. de Verordening financiering garnalenpromotie 2005, zoals vastgesteld in de bestuursvergadering van 28 oktober 2004 en gewijzigd in de bestuursvergadering van 24 maart 2005;  
 
-d. de [Verordening financiering vispromotie 2005](../../../../../../../../../pbo/verordening/financiering/vispromotie/2005/BWBR0017388/README.md), zoals vastgesteld in de bestuursvergadering van 28 oktober 2004 en gewijzigd in de bestuursvergadering van 24 maart 2005;  
+d. de Verordening financiering vispromotie 2005, zoals vastgesteld in de bestuursvergadering van 28 oktober 2004 en gewijzigd in de bestuursvergadering van 24 maart 2005;  
 
-e. de [Verordening financiering scholpromotie 2005](../../../../../../../../../pbo/verordening/financiering/scholpromotie/2005/BWBR0017380/README.md), zoals vastgesteld in de bestuursvergadering van 28 oktober 2004 en gewijzigd in de bestuursvergadering van 24 maart 2005;  
+e. de Verordening financiering scholpromotie 2005, zoals vastgesteld in de bestuursvergadering van 28 oktober 2004 en gewijzigd in de bestuursvergadering van 24 maart 2005;  
 
-f. de [Verordening financiering promotie kweekvis en onderzoek visteelt 2005](../../../../../../../../../pbo/verordening/financiering/promotie/kweekvis/en/onderzoek/visteelt/2005/BWBR0017386/README.md), zoals vastgesteld in de bestuursvergadering van 28 oktober 2004 en gewijzigd in de bestuursvergadering van 24 maart 2005;  
+f. de Verordening financiering promotie kweekvis en onderzoek visteelt 2005, zoals vastgesteld in de bestuursvergadering van 28 oktober 2004 en gewijzigd in de bestuursvergadering van 24 maart 2005;  
 
-g. de [Verordening financiering mosselpromotie 2005](../../../../../../../../../pbo/verordening/financiering/mosselpromotie/2005/BWBR0017387/README.md), zoals vastgesteld in de bestuursvergadering van 28 oktober 2004 en gewijzigd in de bestuursvergadering van 24 maart 2005;  
+g. de Verordening financiering mosselpromotie 2005, zoals vastgesteld in de bestuursvergadering van 28 oktober 2004 en gewijzigd in de bestuursvergadering van 24 maart 2005;  
 
-h. de [Verordening financiering mosselonderzoek 2005](../../../../../../../../../pbo/verordening/financiering/mosselonderzoek/2005/BWBR0017385/README.md), zoals vastgesteld in de bestuursvergadering van 28 oktober 2004 en gewijzigd in de bestuursvergadering van 24 maart 2005;  
+h. de Verordening financiering mosselonderzoek 2005, zoals vastgesteld in de bestuursvergadering van 28 oktober 2004 en gewijzigd in de bestuursvergadering van 24 maart 2005;  
 
-i. de [Verordening onderzoek- en projectenfonds groothandelssector 2005](../../../../../../../../../pbo/verordening/onderzoek-/en/projectenfonds/groothandelssector/2004/BWBR0017383/README.md), zoals vastgesteld in de bestuursvergadering van 28 oktober 2004 en gewijzigd in de bestuursvergadering van 24 maart 2005;  
+i. de Verordening onderzoek- en projectenfonds groothandelssector 2005, zoals vastgesteld in de bestuursvergadering van 28 oktober 2004 en gewijzigd in de bestuursvergadering van 24 maart 2005;  
 
-j. de [Verordening onderwijsfonds aanvoersector 2005](../../../../../../../../../pbo/verordening/onderwijsfonds/aanvoersector/2005/BWBR0017384/README.md), zoals vastgesteld in de bestuursvergadering van 28 oktober 2004 en gewijzigd in de bestuursvergadering van 24 maart 2005;  
+j. de Verordening onderwijsfonds aanvoersector 2005, zoals vastgesteld in de bestuursvergadering van 28 oktober 2004 en gewijzigd in de bestuursvergadering van 24 maart 2005;  
 
-k. de [Verordening onderzoekfonds aanvoersector 2005](../../../../../../../../../pbo/verordening/onderzoekfonds/aanvoersector/2005/BWBR0017389/README.md), zoals vastgesteld in de bestuursvergadering van 28 oktober 2004 en gewijzigd in de bestuursvergadering van 24 maart 2005;  
+k. de Verordening onderzoekfonds aanvoersector 2005, zoals vastgesteld in de bestuursvergadering van 28 oktober 2004 en gewijzigd in de bestuursvergadering van 24 maart 2005;  
 
-l. de [Verordening onderzoekfonds kleinhandel 2005](../../../../../../../../../pbo/verordening/onderzoekfonds/kleinhandel/2005/BWBR0017390/README.md), zoals vastgesteld in de bestuursvergadering van 28 oktober 2004;  
+l. de Verordening onderzoekfonds kleinhandel 2005, zoals vastgesteld in de bestuursvergadering van 28 oktober 2004;  
 
-m. de [Verordening onderwijsfonds kleinhandel 2005](../../../../../../../../../pbo/verordening/onderwijsfonds/kleinhandel/2005/BWBR0017392/README.md), zoals vastgesteld in de bestuursvergadering van 28 oktober 2004.   
+m. de Verordening onderwijsfonds kleinhandel 2005, zoals vastgesteld in de bestuursvergadering van 28 oktober 2004.   
 
 ### Artikel 6a  
 
-Heffingsbedragen welke op de dag voor inwerkingtreding van deze verordening nog niet definitief middels een besluit in de zin van [artikel 1:3 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn vastgesteld, opgelegd, herzien en nagevorderd of gerestitueerd aan onder het Productschap Vis ressorterende ondernemers wegens de uitoefening van hun bedrijfsactiviteiten in de periode van 1 januari 2006 tot en met 31 december 2006, worden op grond van dit artikel vastgesteld, opgelegd, herzien en nagevorderd of gerestitueerd overeenkomstig de bepalingen van de volgende heffingsverordeningen:
+Heffingsbedragen welke op de dag voor inwerkingtreding van deze verordening nog niet definitief middels een besluit in de zin van artikel 1:3 van de Algemene wet bestuursrecht zijn vastgesteld, opgelegd, herzien en nagevorderd of gerestitueerd aan onder het Productschap Vis ressorterende ondernemers wegens de uitoefening van hun bedrijfsactiviteiten in de periode van 1 januari 2006 tot en met 31 december 2006, worden op grond van dit artikel vastgesteld, opgelegd, herzien en nagevorderd of gerestitueerd overeenkomstig de bepalingen van de volgende heffingsverordeningen:
 
-a. de [Heffingsverordening 2006](../../../../../../../../../pbo/heffingsverordening/2006/BWBR0018872/README.md), zoals vastgesteld in de bestuursvergadering van 13 oktober 2005;  
+a. de Heffingsverordening 2006, zoals vastgesteld in de bestuursvergadering van 13 oktober 2005;  
 
-b. de [Verordening financiering garnalenzeven en garnalenkrakers visafslagen 2006](../../../../../../../../../pbo/verordening/financiering/garnalenzeven/en/garnalenkrakers/visafslagen/2006/BWBR0018867/README.md), zoals vastgesteld in de bestuursvergadering van 13 oktober 2005;  
+b. de Verordening financiering garnalenzeven en garnalenkrakers visafslagen 2006, zoals vastgesteld in de bestuursvergadering van 13 oktober 2005;  
 
-c. de [Verordening financiering garnalenpromotie 2006](../../../../../../../../../pbo/verordening/financiering/garnalenpromotie/2006/BWBR0021989/README.md), zoals vastgesteld in de bestuursvergadering van 13 oktober 2005;  
+c. de Verordening financiering garnalenpromotie 2006, zoals vastgesteld in de bestuursvergadering van 13 oktober 2005;  
 
-d. de [Verordening financiering vispromotie 2006](../../../../../../../../../pbo/verordening/financiering/vispromotie/2006/BWBR0021790/README.md), zoals vastgesteld in de bestuursvergadering van 13 oktober 2005;  
+d. de Verordening financiering vispromotie 2006, zoals vastgesteld in de bestuursvergadering van 13 oktober 2005;  
 
-e. de [Verordening financiering scholpromotie 2006](../../../../../../../../../pbo/verordening/financiering/scholpromotie/2006/BWBR0018866/README.md), zoals vastgesteld in de bestuursvergadering van 12 oktober 2005;  
+e. de Verordening financiering scholpromotie 2006, zoals vastgesteld in de bestuursvergadering van 12 oktober 2005;  
 
-f. de [Verordening financiering promotie kweekvis en onderzoek visteelt 2006](../../../../../../../../../pbo/verordening/financiering/promotie/kweekvis/en/onderzoek/visteelt/2006/BWBR0018870/README.md), zoals vastgesteld in de bestuursvergadering van 13 oktober 2005;  
+f. de Verordening financiering promotie kweekvis en onderzoek visteelt 2006, zoals vastgesteld in de bestuursvergadering van 13 oktober 2005;  
 
-g. de [Verordening financiering mosselpromotie 2006](../../../../../../../../../pbo/verordening/financiering/mosselpromotie/2006/BWBR0018865/README.md), zoals vastgesteld in de bestuursvergadering van 13 oktober 2005;  
+g. de Verordening financiering mosselpromotie 2006, zoals vastgesteld in de bestuursvergadering van 13 oktober 2005;  
 
-h. de [Verordening financiering mosselonderzoek 2006](../../../../../../../../../pbo/verordening/financiering/mosselonderzoek/2006/BWBR0018864/README.md), zoals vastgesteld in de bestuursvergadering van 13 oktober 2005;  
+h. de Verordening financiering mosselonderzoek 2006, zoals vastgesteld in de bestuursvergadering van 13 oktober 2005;  
 
-i. de [Verordening onderzoek- en projectenfonds groothandelssector 2006](../../../../../../../../../pbo/verordening/onderzoek-/en/projectenfonds/groothandelssector/2006/BWBR0020998/README.md), zoals vastgesteld in de bestuursvergadering van 13 oktober 2005;  
+i. de Verordening onderzoek- en projectenfonds groothandelssector 2006, zoals vastgesteld in de bestuursvergadering van 13 oktober 2005;  
 
-j. de [Verordening onderwijsfonds aanvoersector 2006](../../../../../../../../../pbo/verordening/onderwijsfonds/aanvoersector/2006/BWBR0021794/README.md), zoals vastgesteld in de bestuursvergadering van 13 oktober 2005;  
+j. de Verordening onderwijsfonds aanvoersector 2006, zoals vastgesteld in de bestuursvergadering van 13 oktober 2005;  
 
-k. de [Verordening onderzoekfonds aanvoersector 2006](../../../../../../../../../pbo/verordening/onderzoekfonds/aanvoersector/2006/BWBR0021809/README.md), zoals vastgesteld in de bestuursvergadering van 13 oktober 2005;  
+k. de Verordening onderzoekfonds aanvoersector 2006, zoals vastgesteld in de bestuursvergadering van 13 oktober 2005;  
 
-l. de [Verordening onderzoekfonds kleinhandel 2006](../../../../../../../../../pbo/verordening/onderzoekfonds/kleinhandel/2006/BWBR0018862/README.md), zoals vastgesteld in de bestuursvergadering van 13 oktober 2005;  
+l. de Verordening onderzoekfonds kleinhandel 2006, zoals vastgesteld in de bestuursvergadering van 13 oktober 2005;  
 
-m. de [Verordening onderwijsfonds kleinhandel 2006](../../../../../../../../../pbo/verordening/onderwijsfonds/kleinhandel/2006/BWBR0018863/README.md), zoals vastgesteld in de bestuursvergadering van 13 oktober 2005.  
+m. de Verordening onderwijsfonds kleinhandel 2006, zoals vastgesteld in de bestuursvergadering van 13 oktober 2005.  
 
 ### Artikel  7  
 
@@ -318,7 +318,7 @@ Wijzigt de Verordening onderwijsfonds kleinhandel 2007.
 
 ### Artikel  33  
 
-1.  De [artikelen 3 tot en met 12 van de Verordening Algemene Bepalingen Productschap Vis 2006](../../../../../../../../../pbo/verordening/algemene/bepalingen/productschap/vis/2006/BWBR0021756/README.md) zijn van overeenkomstige toepassing op de artikelen 1 tot en met 6a van deze verordening.   
+1.  De artikelen 3 tot en met 12 van de Verordening Algemene Bepalingen Productschap Vis 2006 zijn van overeenkomstige toepassing op de artikelen 1 tot en met 6a van deze verordening.   
 2.  Besluiten welke voor de dag van inwerkingtreding van deze verordening zijn genomen op grond van de in de artikelen 1 tot en met 6a genoemde heffingsverordeningen, worden alleen herroepen of ingetrokken met toepassing van deze verordening zodat nieuwe besluiten berusten op de artikelen 1 tot en met 6a van deze verordening.   
 3.  Bestaande aanspraken en verplichtingen op grond van de in de artikelen 1 tot en met 6a genoemde verordeningen blijven in stand.   
 4.  Deze verordening treedt in werking met ingang van de dag na bekendmaking in het Verordeningenblad Bedrijfsorganisatie, waarbij de artikelen 7 tot en met 19 terugwerken tot en met 1 januari 2006 en de overige artikelen terugwerken tot en met 1 januari 2007.   

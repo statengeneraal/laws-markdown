@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat ingevolge de [artikelen 88](../../../wet/grondwet/BWBR0001840/README.md) en [89 van de Grondwet](../../../wet/grondwet/BWBR0001840/README.md) de wet de bekendmaking en de inwerkingtreding van wetten, algemene maatregelen van bestuur en vanwege het Rijk anders dan bij wet of algemene maatregel van bestuur vastgestelde algemeen verbindende voorschriften dient te regelen, en dat het in verband daarmee tevens gewenst is enkele andere voorzieningen te treffen;
+Alzo Wij in overweging genomen hebben, dat ingevolge de artikelen 88 en 89 van de Grondwet de wet de bekendmaking en de inwerkingtreding van wetten, algemene maatregelen van bestuur en vanwege het Rijk anders dan bij wet of algemene maatregel van bestuur vastgestelde algemeen verbindende voorschriften dient te regelen, en dat het in verband daarmee tevens gewenst is enkele andere voorzieningen te treffen;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  1  
@@ -56,7 +56,7 @@ Wetten, algemene maatregelen van bestuur en vanwege het Rijk anders dan bij wet 
 ### Artikel  7a  
 
 1.  Indien bij of krachtens de wet is bepaald dat na de bekendmaking van een algemene maatregel van bestuur of een vanwege het Rijk anders dan bij wet of algemene maatregel van bestuur vastgesteld algemeen verbindend voorschrift een bepaalde periode dient te verstrijken alvorens de regeling in werking kan treden, kan in afwijking daarvan een eerder tijdstip van inwerkingtreding worden vastgesteld, indien de regeling uitsluitend strekt tot uitvoering van een bindend besluit van de Raad van de Europese Unie, van het Europees Parlement en de Raad gezamenlijk of van de Commissie van de Europese Gemeenschappen.   
-2.   [Artikel 1:8, tweede lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing.  
+2.   Artikel 1:8, tweede lid, van de Algemene wet bestuursrecht is van overeenkomstige toepassing.  
 
 ### Artikel  8  
 

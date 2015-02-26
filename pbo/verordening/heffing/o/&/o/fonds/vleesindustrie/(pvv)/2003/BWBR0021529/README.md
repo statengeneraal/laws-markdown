@@ -3,7 +3,7 @@
 ##Verordening heffing o & o fonds vleesindustrie (PVV) 2003
 
 Het bestuur van het Productschap Vee en Vlees heeft,   
-Gelet op [artikel 126 van de Wet op de Bedrijfsorganisatie](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en de artikelen 10 en 15 van de Instellingsverordening Productschap Vee en Vlees 1999-I;
+Gelet op artikel 126 van de Wet op de Bedrijfsorganisatie en de artikelen 10 en 15 van de Instellingsverordening Productschap Vee en Vlees 1999-I;
 
 Op 9 juli 2003 vastgesteld de navolgende verordening
 
@@ -18,12 +18,12 @@ Op 9 juli 2003 vastgesteld de navolgende verordening
 | ondernemer:  | een natuurlijke of rechtspersoon welke een onderneming in stand houdt;  |
 | werknemer:  | een ieder die een arbeidsovereenkomst in de zin van het Burgerlijk Wetboek is aangegaan met een ondernemer, alsmede diegene werkzaam in de onderneming, als zelfstandige zonder personeel, als uitzendkracht of als inleenkracht en die werkzaamheden verricht als bedoeld in artikel 1 b sub la van de CAO Vleessector;  |
 | f.t.e.:  | fulltime-equivalent van de werknemer;  |
-| o & o fonds vleesindustrie:  | het fonds als bedoeld in [artikel 2 van de Verordening o & o fonds vleesindustrie (PVV) 2003](../../../../../../../../../../../pbo/verordening/o/&/o/fonds/vleesindustrie/(pw)/2003/BWBR0015358/README.md).  |
+| o & o fonds vleesindustrie:  | het fonds als bedoeld in artikel 2 van de Verordening o & o fonds vleesindustrie (PVV) 2003.  |
 
 ### Artikel  2  
 
 1.  De ondernemer is voor het kalenderjaar 2003 op basis van het aantal werknemers dat op 1 juni 2003 werkzaam is in de onderneming, ten behoeve van het o & o fonds vleesindustrie een heffing verschuldigd van € 11,– per f.t.e..   
-2.  Het aantal werknemers dat op 1 juni 2003 werkzaam is in de onderneming wordt door het productschap vastgesteld op basis van de verplichte opgave van het aantal werknemers op dat tijdstip, als bedoeld in [artikel 2, lid 2, van de Verordening heffingen vleesindustrie (PVV) 2003](../../../../../../../../../../../pbo/verordening/heffingen/vleesindustrie/(pvv)/2003/BWBR0014699/README.md).  
+2.  Het aantal werknemers dat op 1 juni 2003 werkzaam is in de onderneming wordt door het productschap vastgesteld op basis van de verplichte opgave van het aantal werknemers op dat tijdstip, als bedoeld in artikel 2, lid 2, van de Verordening heffingen vleesindustrie (PVV) 2003.  
 
 ### Artikel  3  
 
