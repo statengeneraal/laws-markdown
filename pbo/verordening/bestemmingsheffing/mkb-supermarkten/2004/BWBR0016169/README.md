@@ -3,7 +3,7 @@
 ##Verordening van het Hoofdbedrijfschap Detailhandel van 17 december 2003, houdende vaststelling bestemmingsheffing ten behoeve van de MKB-supermarkten voor het jaar 2004 (Verordening bestemmingsheffing MKB-supermarkten 2004)
 
 Het bestuur van het Hoofdbedrijfschap voor de Detailhandel;
-Gelet op de [artikelen 95, tweede lid](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de Bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+Gelet op de artikelen 95, tweede lid en 126 van de Wet op de Bedrijfsorganisatie;
 
 Gezien het verzoek van het Vakcentrum, vereniging van zelfstandige ondernemers in de levensmiddelendetailhandel;
 Besluit:
@@ -29,7 +29,7 @@ d.de voorzitter: de voorzitter van het Hoofdbedrijfschap Detailhandel.
 ###Artikel 2 
 Materieel uitgewerkt per 04-03-2006 
 
-In deze verordening zijn de begripsbepalingen van de [Heffingsverordening Hoofdbedrijfschap Detailhandel 2004](../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/detailhandel/2004/BWBR0016161/README.md) van toepassing.
+In deze verordening zijn de begripsbepalingen van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2004 van toepassing.
 
 ###Artikel 3 
 Materieel uitgewerkt per 04-03-2006 
@@ -66,7 +66,7 @@ Materieel uitgewerkt per 04-03-2006
 
 a.krachtens haar statutaire doelstelling haar werkzaamheid kan uitstrekken tot ten minste een belangrijk gedeelte van het terrein waarop het bedrijfslichaam een taak heeft te vervullen,
 
-b.voldoet aan de kwalitatieve representativiteitscriteria , genoemd in de [artikelen 3 tot en met 7 van de Verordening representativiteit organisaties](../../../../../../pbo/verordening/representativiteit/organisaties/BWBR0011641/README.md),
+b.voldoet aan de kwalitatieve representativiteitscriteria , genoemd in de artikelen 3 tot en met 7 van de Verordening representativiteit organisaties,
 
 c.tot de werkingssfeer van het bedrijfslichaam behorende leden heeft, waarvan het gewogen aantal niet-onbetekenend is,
 
@@ -79,7 +79,7 @@ e.haar activiteiten, al dan niet door middel van een federatie van gelijksoortig
 ###Artikel 7 
 Materieel uitgewerkt per 04-03-2006 
 
-De [artikelen 6 tot en met 17 van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2004](../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/detailhandel/2004/BWBR0016161/README.md) zijn van overeenkomstige verordening van toepassing.
+De artikelen 6 tot en met 17 van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2004 zijn van overeenkomstige verordening van toepassing.
 
 ###§ 3 
 

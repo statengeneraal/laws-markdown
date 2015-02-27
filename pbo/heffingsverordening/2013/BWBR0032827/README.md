@@ -177,7 +177,7 @@ Materieel uitgewerkt per 23-08-2014
 
 1.  De heffing als bedoeld in artikel 2 bedraagt voor: 
 
-a. de ondernemer die oesters verhandelt: 14,40 promille over de omzet, welke hij in het afgelopen oesterseizoen heeft gerealiseerd; 
+a. de ondernemer die oesters verhandelt: 9,65 promille over de omzet, welke hij in het afgelopen oesterseizoen heeft gerealiseerd; 
 
 b. de ondernemer die één of meer oesterpercelen in eigendom heeft of huurt; € 9,10 per hectare per oesterperceel per kalenderjaar en; 
 

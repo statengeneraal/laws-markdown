@@ -16,7 +16,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1  
 
-1.  In deze wet wordt verstaan onder:  Onze Minister: Onze Minister van Justitie;  Rechterlijke beslissing: een bij vonnis of arrest gewezen rechterlijke beslissing naar aanleiding van een strafbaar feit;  Sanctie: elke bij rechterlijke beslissing opgelegde straf, met inbegrip van elke naast of in plaats van een straf opgelegde maatregel;  Veroordeelde: degene aan wie een sanctie is opgelegd.    
+1.  In deze wet wordt verstaan onder:  Onze Minister: Onze Minister van Veiligheid en Justitie;  Rechterlijke beslissing: een bij vonnis of arrest gewezen rechterlijke beslissing naar aanleiding van een strafbaar feit;  Sanctie: elke bij rechterlijke beslissing opgelegde straf, met inbegrip van elke naast of in plaats van een straf opgelegde maatregel;  Veroordeelde: degene aan wie een sanctie is opgelegd.    
 2.   Onder rechterlijke beslissing wordt mede begrepen een door een bestuurlijke autoriteit ter zake van een strafbaar feit genomen beslissing, houdende oplegging van een niet tot vrijheidsbeneming strekkende straf of maatregel, waartegen beroep op de rechter is opengesteld.   
 
 ### Afdeling  B  
@@ -29,34 +29,34 @@ Tenuitvoerlegging in Nederland van buitenlandse rechterlijke beslissingen geschi
 
 ### Artikel  3  
 
-1.  Een in een vreemde Staat opgelegde sanctie kan in Nederland slechts worden ten uitvoer gelegd voor zover:  
+1.  Een in een vreemde staat opgelegde sanctie kan in Nederland slechts worden ten uitvoer gelegd voor zover:  
 
-a. de rechterlijke beslissing in die Staat voor tenuitvoerlegging vatbaar is;   
+a. de rechterlijke beslissing in die staat voor tenuitvoerlegging vatbaar is;   
 
 b. de sanctie niet bestaat uit de betaling van proceskosten of uit een veroordeling tot schadevergoeding aan een benadeelde partij;   
 
 c. de rechterlijke beslissing is gewezen ter zake van een feit dat naar Nederlands recht eveneens strafbaar is;   
 
 d. in geval van veroordeling, de dader naar Nederlands recht eveneens strafbaar zou zijn geweest.      
-2.   Voor de toepassing van het vorige lid wordt een feit naar Nederlands recht strafbaar geacht, indien krachtens de Nederlandse wet eenzelfde inbreuk op de Nederlandse rechtsorde, als blijkens de in de vreemde Staat gewezen rechterlijke beslissing op de rechtsorde van die Staat is gemaakt, strafbaar is.   
+2.   Voor de toepassing van het vorige lid wordt een feit naar Nederlands recht strafbaar geacht, indien krachtens de Nederlandse wet eenzelfde inbreuk op de Nederlandse rechtsorde, als blijkens de in de vreemde staat gewezen rechterlijke beslissing op de rechtsorde van die staat is gemaakt, strafbaar is.   
 
 ### Artikel  4  
 
-Een in een vreemde Staat opgelegde sanctie kan in Nederland niet worden ten uitvoer gelegd indien deze betrekking heeft op een vreemdeling, die geen vaste woon- of verblijfplaats in Nederland heeft, of op een rechtspersoon waarvan het bestuur geen zitting of kantoor houdt in Nederland, of waarvan het hoofd van het bestuur geen vaste woonplaats in Nederland heeft. Deze voorwaarde is niet van toepassing voor zover de in de vreemde Staat opgelegde sanctie strekt tot de betaling van een geldboete of tot een verbeurdverklaring of vermogensontneming van vergelijkbare strekking.  
+Een in een vreemde staat opgelegde sanctie kan in Nederland niet worden ten uitvoer gelegd indien deze betrekking heeft op een vreemdeling, die geen vaste woon- of verblijfplaats in Nederland heeft, of op een rechtspersoon waarvan het bestuur geen zitting of kantoor houdt in Nederland, of waarvan het hoofd van het bestuur geen vaste woonplaats in Nederland heeft. Deze voorwaarde is niet van toepassing voor zover de in de vreemde staat opgelegde sanctie strekt tot de betaling van een geldboete of tot een verbeurdverklaring of vermogensontneming van vergelijkbare strekking.  
 
 ### Artikel  5  
 
-Een in een vreemde Staat opgelegde sanctie kan in Nederland niet worden ten uitvoer gelegd indien naar het oordeel van Onze Minister een gegrond vermoeden bestaat dat de beslissing tot vervolging of de oplegging van de sanctie is ingegeven door overwegingen van ras, godsdienst, levensovertuiging, nationaliteit of politieke overtuiging van de veroordeelde of deswege ongunstig is beïnvloed.  
+Een in een vreemde staat opgelegde sanctie kan in Nederland niet worden ten uitvoer gelegd indien naar het oordeel van Onze Minister een gegrond vermoeden bestaat dat de beslissing tot vervolging of de oplegging van de sanctie is ingegeven door overwegingen van ras, godsdienst, levensovertuiging, nationaliteit of politieke overtuiging van de veroordeelde of deswege ongunstig is beïnvloed.  
 
 ### Artikel  6  
 
-1.  Een in een vreemde Staat opgelegde sanctie kan in Nederland niet worden ten uitvoer gelegd indien het recht tot uitvoering van de straf naar Nederlands recht zou zijn verjaard.    
-2.   Een in een vreemde Staat opgelegde sanctie kan in Nederland niet worden ten uitvoer gelegd indien de veroordeelde ten tijde van het feit waarvoor de sanctie werd opgelegd de leeftijd van twaalf jaren nog niet had bereikt.   
+1.  Een in een vreemde staat opgelegde sanctie kan in Nederland niet worden ten uitvoer gelegd indien het recht tot uitvoering van de straf naar Nederlands recht zou zijn verjaard.    
+2.   Een in een vreemde staat opgelegde sanctie kan in Nederland niet worden ten uitvoer gelegd indien de veroordeelde ten tijde van het feit waarvoor de sanctie werd opgelegd de leeftijd van twaalf jaren nog niet had bereikt.   
 
 ### Artikel  7  
 
-1.  Een in een vreemde Staat opgelegde sanctie kan in Nederland niet worden ten uitvoer gelegd voor zover de veroordeelde ter zake van het zelfde feit in Nederland wordt vervolgd.    
-2.   Een in een vreemde Staat opgelegde sanctie kan in Nederland evenmin worden ten uitvoer gelegd voor zover een vervolging in Nederland onverenigbaar zou zijn met het aan artikel 68 van het Wetboek van Strafrecht en artikel 255, eerste lid, van het Wetboek van Strafvordering ten grondslag liggende beginsel.   
+1.  Een in een vreemde staat opgelegde sanctie kan in Nederland niet worden ten uitvoer gelegd voor zover de veroordeelde ter zake van het zelfde feit in Nederland wordt vervolgd.    
+2.   Een in een vreemde staat opgelegde sanctie kan in Nederland evenmin worden ten uitvoer gelegd voor zover een vervolging in Nederland onverenigbaar zou zijn met het aan artikel 68 van het Wetboek van Strafrecht en artikel 255, eerste lid, van het Wetboek van Strafvordering ten grondslag liggende beginsel.   
 
 ### Hoofdstuk  II  
 
@@ -68,7 +68,7 @@ Een in een vreemde Staat opgelegde sanctie kan in Nederland niet worden ten uitv
 
 ### Artikel  8  
 
-Voor zover een verdrag daarin voorziet kan de veroordeelde die zich in Nederland bevindt en aan wie een tot vrijheidsbeneming strekkende sanctie is opgelegd, waarvan blijkens de in de vreemde Staat uitgesproken rechterlijke beslissing nog ten minste drie maanden moeten worden ten uitvoer gelegd, voorlopig worden aangehouden, indien gegronde redenen bestaan voor de verwachting dat op korte termijn deze sanctie in Nederland zal worden ten uitvoer gelegd.  
+Voor zover een verdrag daarin voorziet kan de veroordeelde die zich in Nederland bevindt en aan wie een tot vrijheidsbeneming strekkende sanctie is opgelegd, waarvan blijkens de in de vreemde staat uitgesproken rechterlijke beslissing nog ten minste drie maanden moeten worden ten uitvoer gelegd, voorlopig worden aangehouden, indien gegronde redenen bestaan voor de verwachting dat op korte termijn deze sanctie in Nederland zal worden ten uitvoer gelegd.  
 
 ### Artikel  9  
 
@@ -92,11 +92,11 @@ a. zodra zulks door de rechtbank, de rechter-commissaris of de officier van just
 
 b. zodra de bewaring veertien dagen heeft geduurd en de officier van justitie de in de artikelen 15 of 17 bedoelde stukken niet heeft ontvangen;   
 
-c. indien de duur van de inverzekeringstelling en de bewaring die van het voor tenuitvoerlegging vatbare gedeelte van de in de vreemde Staat opgelegde sanctie zou overtreffen.     
+c. indien de duur van de inverzekeringstelling en de bewaring die van het voor tenuitvoerlegging vatbare gedeelte van de in de vreemde staat opgelegde sanctie zou overtreffen.     
 
 ### Artikel  12  
 
-Van elke beslissing naar aanleiding van een verzoek van een autoriteit van een vreemde Staat, genomen krachtens een der artikelen 8-11, wordt onverwijld kennis gegeven aan Onze Minister.  
+Van elke beslissing naar aanleiding van een verzoek van een autoriteit van een vreemde staat, genomen krachtens een der artikelen 8-11, wordt onverwijld kennis gegeven aan Onze Minister.  
 
 ### Afdeling  B  
 
@@ -104,33 +104,33 @@ Van elke beslissing naar aanleiding van een verzoek van een autoriteit van een v
 
 ### Artikel  13  
 
-1.  Naar aanleiding van een op een verdrag gegrond verzoek van een vreemde Staat kan in Nederland een strafrechtelijk financieel onderzoek worden ingesteld, overeenkomstig de bepalingen van de negende afdeling van Titel IV van Boek I van het Wetboek van Strafvordering, gericht op de bepaling van hier te lande aanwezig of verworven wederrechtelijk verkregen voordeel van een persoon die in de verzoekende Staat aan strafrechtelijk onderzoek is onderworpen.    
-2.   Het strafrechtelijk financieel onderzoek kan slechts worden ingesteld, indien zulks ook mogelijk zou zijn geweest wanneer het feit of de feiten ter zake waarvan de persoon in de verzoekende Staat wordt verdacht in Nederland zouden zijn begaan.    
-3.   Tijdens het strafrechtelijk financieel onderzoek kan inbeslagneming van voorwerpen overeenkomstig artikel 94, tweede lid, en artikel 94*a*, tweede lid, van het Wetboek van Strafvordering slechts plaatsvinden, indien gegronde redenen bestaan voor de verwachting dat te dier aanzien vanwege de verzoekende vreemde Staat een verzoek tot tenuitvoerlegging van een verbeurdverklaring of van een tot ontneming van wederrechtelijk verkregen voordeel strekkende sanctie zal worden gedaan.    
-4.   De officier van justitie zendt van zijn beschikking tot sluiting van een strafrechtelijk financieel onderzoek onverwijld een afschrift aan Onze Minister. Daarbij doet hij tevens mededeling van alle voor de verzoekende vreemde Staat dienstige inlichtingen.   
+1.  Naar aanleiding van een op een verdrag gegrond verzoek van een vreemde staat kan in Nederland een strafrechtelijk financieel onderzoek worden ingesteld, overeenkomstig de bepalingen van de negende afdeling van Titel IV van Boek I van het Wetboek van Strafvordering, gericht op de bepaling van hier te lande aanwezig of verworven wederrechtelijk verkregen voordeel van een persoon die in de verzoekende staat aan strafrechtelijk onderzoek is onderworpen.    
+2.   Het strafrechtelijk financieel onderzoek kan slechts worden ingesteld, indien zulks ook mogelijk zou zijn geweest wanneer het feit of de feiten ter zake waarvan de persoon in de verzoekende staat wordt verdacht in Nederland zouden zijn begaan.    
+3.   Tijdens het strafrechtelijk financieel onderzoek kan inbeslagneming van voorwerpen overeenkomstig artikel 94, tweede lid, en artikel 94*a*, tweede lid, van het Wetboek van Strafvordering slechts plaatsvinden, indien gegronde redenen bestaan voor de verwachting dat te dier aanzien vanwege de verzoekende vreemde staat een verzoek tot tenuitvoerlegging van een verbeurdverklaring of van een tot ontneming van wederrechtelijk verkregen voordeel strekkende sanctie zal worden gedaan.    
+4.   De officier van justitie zendt van zijn beschikking tot sluiting van een strafrechtelijk financieel onderzoek onverwijld een afschrift aan Onze Minister. Daarbij doet hij tevens mededeling van alle voor de verzoekende vreemde staat dienstige inlichtingen.   
 
 ### Artikel  13a  
 
-1.  Voor zover een verdrag daarin voorziet kunnen op verzoek van een vreemde Staat voorwerpen in beslag worden genomen:  
+1.  Voor zover een verdrag daarin voorziet kunnen op verzoek van een vreemde staat voorwerpen in beslag worden genomen:  
 
-a. ten aanzien waarvan naar het recht van de vreemde Staat een tot verbeurdverklaring strekkende sanctie kan worden opgelegd,   
+a. ten aanzien waarvan naar het recht van de vreemde staat een tot verbeurdverklaring strekkende sanctie kan worden opgelegd,   
 
-b. tot bewaring van het recht tot verhaal voor een tot ontneming van wederrechtelijk verkregen voordeel strekkende verplichting tot betaling van een geldbedrag welke naar het recht van de vreemde Staat kan worden opgelegd, of   
+b. tot bewaring van het recht tot verhaal voor een tot ontneming van wederrechtelijk verkregen voordeel strekkende verplichting tot betaling van een geldbedrag welke naar het recht van de vreemde staat kan worden opgelegd, of   
 
 c. die kunnen dienen om wederrechtelijk verkregen voordeel aan te tonen.      
-2.   Inbeslagneming, als bedoeld in het eerste lid, onder *a* en *b*, kan slechts plaatsvinden indien blijkens de door de vreemde Staat bij zijn verzoek verstrekte inlichtingen, door de bevoegde autoriteiten van die Staat een bevel tot inbeslagneming is gegeven of zou zijn gegeven indien de desbetreffende voorwerpen zich binnen zijn grondgebied zouden bevinden, en inbeslagneming naar Nederlands recht is toegestaan.    
-3.   Voor de toepassing van het tweede lid is inbeslagneming naar Nederlands recht toegestaan, indien zulks ook mogelijk zou zijn geweest wanneer het feit of de feiten naar aanleiding waarvan de inbeslagneming door de vreemde Staat wordt verzocht in Nederland zou of zouden zijn begaan.    
-4.   Inbeslagneming van voorwerpen, als bedoeld in het eerste lid, onder *a* en *b*, kan voorts slechts plaatsvinden, indien gegronde redenen bestaan voor de verwachting dat te dier aanzien vanwege de verzoekende vreemde Staat een verzoek tot tenuitvoerlegging van een verbeurdverklaring of van een tot ontneming van wederrechtelijk verkregen voordeel strekkende sanctie zal worden gedaan.   
+2.   Inbeslagneming, als bedoeld in het eerste lid, onder *a* en *b*, kan slechts plaatsvinden indien blijkens de door de vreemde staat bij zijn verzoek verstrekte inlichtingen, door de bevoegde autoriteiten van die staat een bevel tot inbeslagneming is gegeven of zou zijn gegeven indien de desbetreffende voorwerpen zich binnen zijn grondgebied zouden bevinden, en inbeslagneming naar Nederlands recht is toegestaan.    
+3.   Voor de toepassing van het tweede lid is inbeslagneming naar Nederlands recht toegestaan, indien zulks ook mogelijk zou zijn geweest wanneer het feit of de feiten naar aanleiding waarvan de inbeslagneming door de vreemde staat wordt verzocht in Nederland zou of zouden zijn begaan.    
+4.   Inbeslagneming van voorwerpen, als bedoeld in het eerste lid, onder *a* en *b*, kan voorts slechts plaatsvinden, indien gegronde redenen bestaan voor de verwachting dat te dier aanzien vanwege de verzoekende vreemde staat een verzoek tot tenuitvoerlegging van een verbeurdverklaring of van een tot ontneming van wederrechtelijk verkregen voordeel strekkende sanctie zal worden gedaan.   
 
 ### Artikel  13b  
 
-1.  Voor zover een verdrag daarin voorziet kunnen voorwerpen, ten aanzien waarvan door een rechter van een vreemde Staat een bevel is gegeven van vergelijkbare strekking als verbeurdverklaring of ontneming als wederrechtelijk verkregen voordeel, op verzoek van de vreemde Staat in beslag worden genomen.    
+1.  Voor zover een verdrag daarin voorziet kunnen voorwerpen, ten aanzien waarvan door een rechter van een vreemde staat een bevel is gegeven van vergelijkbare strekking als verbeurdverklaring of ontneming als wederrechtelijk verkregen voordeel, op verzoek van de vreemde staat in beslag worden genomen.    
 2.   Inbeslagneming overeenkomstig het eerste lid kan slechts plaatsvinden in gevallen, waarin gegronde redenen bestaan voor de verwachting dat het in dat lid bedoelde bevel op korte termijn in Nederland zal worden tenuitvoergelegd.   
 
 ### Artikel  13c  
 
-1.  Het bepaalde in het derde lid van artikel 13 en in het vierde lid van artikel 13a staat er niet aan in de weg, dat inbeslaggenomen voorwerpen desverzocht worden overgeleverd aan de verzoekende vreemde Staat met het oog op de oplegging en tenuitvoerlegging van een verbeurdverklaring of van een tot ontneming van wederrechtelijk verkregen voordeel strekkende sanctie. Daartoe worden inbeslaggenomen voorwerpen ter beschikking van de officier van justitie gesteld, voor zover de rechtbank, met inachtneming van het toepasselijke verdrag, daartoe verlof verleent.    
-2.   Het krachtens het eerste lid vereiste verlof wordt slechts verleend onder het voorbehoud, dat bij de afgifte aan de buitenlandse autoriteiten wordt bedongen, dat de voorwerpen worden teruggezonden, ook wanneer deze zijn verbeurd verklaard of als wederrechtelijk verkregen voordeel ontnomen, in welk geval zij in eigendom aan de Nederlandse Staat worden overgedragen, dan wel dat de verzoekende Staat een door Onze Minister te bepalen geldbedrag, overeenkomende met het geheel of een deel van de waarde van de voorwerpen, aan de Nederlandse Staat doet overmaken. Onze Minister kan besluiten af te zien van de aanspraak op overmaking van het bedongen geldbedrag, indien de verzoekende Staat aantoont dat de afgegeven voorwerpen zijn overgedragen aan derden rechthebbenden.    
+1.  Het bepaalde in het derde lid van artikel 13 en in het vierde lid van artikel 13a staat er niet aan in de weg, dat inbeslaggenomen voorwerpen desverzocht worden overgeleverd aan de verzoekende vreemde staat met het oog op de oplegging en tenuitvoerlegging van een verbeurdverklaring of van een tot ontneming van wederrechtelijk verkregen voordeel strekkende sanctie. Daartoe worden inbeslaggenomen voorwerpen ter beschikking van de officier van justitie gesteld, voor zover de rechtbank, met inachtneming van het toepasselijke verdrag, daartoe verlof verleent.    
+2.   Het krachtens het eerste lid vereiste verlof wordt slechts verleend onder het voorbehoud, dat bij de afgifte aan de buitenlandse autoriteiten wordt bedongen, dat de voorwerpen worden teruggezonden, ook wanneer deze zijn verbeurd verklaard of als wederrechtelijk verkregen voordeel ontnomen, in welk geval zij in eigendom aan de Nederlandse staat worden overgedragen, dan wel dat de verzoekende staat een door Onze Minister te bepalen geldbedrag, overeenkomende met het geheel of een deel van de waarde van de voorwerpen, aan de Nederlandse staat doet overmaken. Onze Minister kan besluiten af te zien van de aanspraak op overmaking van het bedongen geldbedrag, indien de verzoekende staat aantoont dat de afgegeven voorwerpen zijn overgedragen aan derden rechthebbenden.    
 3.   De behandeling van een verzoek of vordering tot verlening van verlof door de raadkamer geschiedt in het openbaar. Op de behandeling is het bepaalde in de zesde afdeling van Titel I van Boek I van het Wetboek van Strafvordering van overeenkomstige toepassing.    
 4.   Beroep in cassatie kan door het openbaar ministerie worden ingesteld binnen veertien dagen na de dagtekening der beschikking en door de overige procesdeelnemers binnen veertien dagen na de dagtekening van de brief waarmee de beschikking is toegezonden.   
 
@@ -152,7 +152,7 @@ c. die uitspraak is gedaan, zonder dat de belanghebbende, tegen wie verstek werd
 d. die uitspraak onverenigbaar is met een ter zake eerder in Nederland gewezen rechterlijke beslissing;   
 
 e. erkenning van die uitspraak onverenigbaar zou zijn met de Nederlandse openbare orde.      
-2.   Indien en zolang ter zake van de rechten van een belanghebbende een procedure voor de rechter van de vezoekende vreemde Staat aanhangig is, is deze in zijn klaagschrift of vordering niet ontvankelijk.   
+2.   Indien en zolang ter zake van de rechten van een belanghebbende een procedure voor de rechter van de vezoekende vreemde staat aanhangig is, is deze in zijn klaagschrift of vordering niet ontvankelijk.   
 
 ### Artikel  13f  
 
@@ -170,7 +170,7 @@ e. erkenning van die uitspraak onverenigbaar zou zijn met de Nederlandse openbar
 
 ### Artikel  14  
 
-Indien de door de vreemde Staat overgelegde stukken naar het oordeel van Onze Minister onvoldoende zijn om op een verzoek tot tenuitvoerlegging een beslissing te nemen, biedt hij de autoriteiten van de verzoekende Staat de gelegenheid binnen een door hem te stellen redelijke termijn aanvullende stukken of inlichtingen te verschaffen.  
+Indien de door de vreemde staat overgelegde stukken naar het oordeel van Onze Minister onvoldoende zijn om op een verzoek tot tenuitvoerlegging een beslissing te nemen, biedt hij de autoriteiten van de verzoekende staat de gelegenheid binnen een door hem te stellen redelijke termijn aanvullende stukken of inlichtingen te verschaffen.  
 
 ### Artikel  15  
 
@@ -191,7 +191,7 @@ Indien de officier van justitie, die het verzoek tot tenuitvoerlegging heeft ont
 
 ### Artikel  17  
 
-1.  Wanneer een vreemde Staat heeft bewilligd in de tenuitvoerlegging van een door deze opgelegde sanctie in Nederland, stelt Onze Minister de door de autoriteiten van die Staat overgelegde stukken in handen van de officier van justitie in het arrondissement waarin de veroordeelde zijn vaste woon- of verblijfplaats heeft, of bij gebreke daarvan in die van de officier van justitie bij het arrondissementsparket Amsterdam.    
+1.  Wanneer een vreemde staat heeft bewilligd in de tenuitvoerlegging van een door deze opgelegde sanctie in Nederland, stelt Onze Minister de door de autoriteiten van die staat overgelegde stukken in handen van de officier van justitie in het arrondissement waarin de veroordeelde zijn vaste woon- of verblijfplaats heeft, of bij gebreke daarvan in die van de officier van justitie bij het arrondissementsparket Amsterdam.    
 2.   Is de veroordeelde een in artikel 2 van de Wet militaire strafrechtspraak bedoelde persoon, dan zendt Onze Minister de stukken toe aan de officier van justitie in het arrondissement waarin de rechtbank is gelegen die ingevolge die wet bevoegd is over die persoon rechtsmacht uit te oefenen.   
 
 ### Afdeling  C  
@@ -263,7 +263,7 @@ De griffier van de rechtbank doet onverwijld aan de officier van justitie en aan
 2.   De officier van justitie en de veroordeelde en diens raadsman worden in de gelegenheid gesteld ter terechtzitting van de rechtbank te worden gehoord.    
 3.   De rechtbank is gebonden aan de vaststelling van de feiten die de buitenlandse rechter kennelijk aan zijn beslissing ten grondslag heeft gelegd. Zij treedt niet in een nieuw onderzoek naar deze feiten.    
 4.  De artikelen 260, eerste lid, 268, 269, vijfde lid, 271, eerste lid, 272, 273, derde lid, 274 tot en met 277, 278, tweede lid, 280, 281, 286, eerste, vierde, vijfde en zesde lid, 293, 299, 300, 301, eerste, tweede, vierde en vijfde lid, 310, 311, tweede tot en met vierde lid, 315 tot en met 317, 319, 320, 322, eerste en tweede lid, 324 en 326 tot en met 331 van het Wetboek van Strafvordering vinden overeenkomstige toepassing.   
-5.   Indien getuigen zijn opgeroepen ter verkrijging van inlichtingen omtrent de persoonlijkheid van de veroordeelde of indien de rechtbank het noodzakelijk acht feiten te onderzoeken ter beoordeling van het bestaan van gronden die naar Nederlands recht, doch niet naar dat van de vreemde Staat, de strafbaarheid van het feit of de dader uitsluiten, vinden voorts de artikelen 287, tweede lid, 288, vierde lid, 289, eerste tot en met derde lid, 290 tot en met 292, 294 tot en met 297, 301, derde lid, en 311, vijfde lid, van het Wetboek van Strafvordering overeenkomstige toepassing.    
+5.   Indien getuigen zijn opgeroepen ter verkrijging van inlichtingen omtrent de persoonlijkheid van de veroordeelde of indien de rechtbank het noodzakelijk acht feiten te onderzoeken ter beoordeling van het bestaan van gronden die naar Nederlands recht, doch niet naar dat van de vreemde staat, de strafbaarheid van het feit of de dader uitsluiten, vinden voorts de artikelen 287, tweede lid, 288, vierde lid, 289, eerste tot en met derde lid, 290 tot en met 292, 294 tot en met 297, 301, derde lid, en 311, vijfde lid, van het Wetboek van Strafvordering overeenkomstige toepassing.    
 6.   Indien de officier van justitie overeenkomstig artikel 26, tweede lid, heeft geweigerd een getuige te doen oproepen kan de veroordeelde de rechtbank verzoeken alsnog de oproeping van de getuige te bevelen. De rechtbank gaat hiertoe over indien zij van oordeel is dat de officier van justitie in redelijkheid niet tot zijn beslissing heeft kunnen komen.    
 7.   De in het derde en het vijfde lid genoemde artikelen vinden geen toepassing voor zover deze betrekking hebben op een getuige wiens identiteit niet of slechts ten dele blijkt.    
 8.   De officier van justitie legt, na voorlezing, een conclusie aan de rechtbank over. Indien de conclusie strekt tot bewilliging in de tenuitvoerlegging, omschrijft zij de straf of maatregel welke naar het oordeel van de officier van justitie in plaats van de buitenlandse sanctie behoort te worden opgelegd. Tevens vermeldt de officier van justitie in dat geval met welk strafbaar feit naar Nederlands recht het feit op grond waarvan de veroordeelde aan een buitenlandse sanctie is onderworpen, overeenkomt.   
@@ -285,7 +285,7 @@ b. indien de duur van die vrijheidsbeneming gelijk is geworden aan de duur van d
 
 a. dat de overgelegde stukken niet voldoen aan de door het toepasselijke verdrag gestelde eisen;   
 
-b. dat de veroordeelde zich met vrucht op een grond, die naar Nederlands recht wel, doch naar het recht van de vreemde Staat niet de strafbaarheid van het feit of de dader uitsluit, had kunnen beroepen, en dat hij geen gedwongen psychiatrische verpleging behoeft;   
+b. dat de veroordeelde zich met vrucht op een grond, die naar Nederlands recht wel, doch naar het recht van de vreemde staat niet de strafbaarheid van het feit of de dader uitsluit, had kunnen beroepen, en dat hij geen gedwongen psychiatrische verpleging behoeft;   
 
 c. dat de tenuitvoerlegging in Nederland op grond van het in een der in de artikelen 2, 3, 4, 6 of 7 bepaalde niet kan plaatshebben; of,   
 
@@ -298,13 +298,13 @@ d. in een geval waarin volgens het toepasselijke verdrag tenuitvoerlegging kan w
 ### Artikel  31  
 
 1.  De rechtbank, de tenuitvoerlegging toelaatbaar achtende, verleent verlof tot tenuitvoerlegging van de buitenlandse rechterlijke beslissing en legt, met inachtneming van het daaromtrent in het toepasselijke verdrag voorgeschrevene, de straf of maatregel op, welke op het overeenkomstige feit naar Nederlands recht is gesteld. De uitspraak van de rechtbank wordt met redenen omkleed. De uitspraak geeft voorts de bijzondere redenen op, die de straf hebben bepaald of tot de maatregel hebben geleid en voorts zoveel mogelijk de omstandigheden, waarop bij de vaststelling van de duur of de hoogte van de straf is gelet. De artikelen 353 en 357 van het Wetboek van Strafvordering zijn van overeenkomstige toepassing.    
-2.   Bij het opleggen van tijdelijke gevangenisstraf of hechtenis beveelt de rechtbank, dat de tijd gedurende welke de veroordeelde in de vreemde Staat ter uitvoering van de hem aldaar opgelegde sanctie, met het oog op zijn overbrenging naar Nederland en uit hoofde van deze wet van zijn vrijheid beroofd is geweest, bij de uitvoering van die straf geheel in mindering zal worden gebracht. De rechtbank kan een overeenkomstig bevel geven bij het opleggen van een geldboete. Indien zij dit bevel geeft, bepaalt zij in haar uitspraak volgens welke maatstaf de aftrek zal geschieden.    
+2.   Bij het opleggen van tijdelijke gevangenisstraf of hechtenis beveelt de rechtbank, dat de tijd gedurende welke de veroordeelde in de vreemde staat ter uitvoering van de hem aldaar opgelegde sanctie, met het oog op zijn overbrenging naar Nederland en uit hoofde van deze wet van zijn vrijheid beroofd is geweest, bij de uitvoering van die straf geheel in mindering zal worden gebracht. De rechtbank kan een overeenkomstig bevel geven bij het opleggen van een geldboete. Indien zij dit bevel geeft, bepaalt zij in haar uitspraak volgens welke maatstaf de aftrek zal geschieden.    
 3.   De rechtbank zendt aan Onze Minister onverwijld een gewaarmerkt afschrift van haar uitspraak toe.   
 
 ### Artikel  31a  
 
-1.  Verlof tot tenuitvoerlegging van een in de vreemde Staat opgelegde sanctie strekkende tot ontneming van wederrechtelijk verkregen voordeel kan worden beperkt tot de tenuitvoerlegging van de verplichting tot betaling van een geldbedrag aan de staat, dat in omvang slechts een gedeelte van dat voordeel vertegenwoordigt.    
-2.   Indien de in de vreemde Staat opgelegde sanctie strekt tot de ontneming van wederrechtelijk verkregen voordeel, spreekt de rechtbank, indien de vreemde Staat uitdrukkelijk heeft verzocht die sanctie slechts ten uitvoer te leggen op voorwerpen die dat voordeel vertegenwoordigen, de verbeurdverklaring daarvan uit.   
+1.  Verlof tot tenuitvoerlegging van een in de vreemde staat opgelegde sanctie strekkende tot ontneming van wederrechtelijk verkregen voordeel kan worden beperkt tot de tenuitvoerlegging van de verplichting tot betaling van een geldbedrag aan de staat, dat in omvang slechts een gedeelte van dat voordeel vertegenwoordigt.    
+2.   Indien de in de vreemde staat opgelegde sanctie strekt tot de ontneming van wederrechtelijk verkregen voordeel, spreekt de rechtbank, indien de vreemde staat uitdrukkelijk heeft verzocht die sanctie slechts ten uitvoer te leggen op voorwerpen die dat voordeel vertegenwoordigen, de verbeurdverklaring daarvan uit.   
 3.   Op uitspraken, houdende een verbeurdverklaring, is het bepaalde in de artikelen 552b, 552d, 552e en 552g van het Wetboek van Strafvordering van overeenkomstige toepassing.    
 4.   Op uitspraken, houdende de oplegging van een verplichting tot betaling van een geldbedrag aan de staat ter ontneming van wederrechtelijk verkregen voordeel, is het bepaalde in artikel 577b van het Wetboek van Strafvordering van overeenkomstige toepassing.    
 5.   Artikel 13e is van overeenkomstige toepassing.   
@@ -337,10 +337,10 @@ Zodra de rechterlijke uitspraak betreffende de toelaatbaarheid van de tenuitvoer
 
 ### Artikel  34  
 
-1.  Indien de in de vreemde Staat opgelegde sanctie uitsluitend strekt tot de betaling van een geldboete, eventueel onder bedreiging met een vervangende tot vrijheidsbeneming strekkende sanctie, wordt deze ten uitvoer gelegd krachtens een beslissing van de officier van justitie.    
+1.  Indien de in de vreemde staat opgelegde sanctie uitsluitend strekt tot de betaling van een geldboete, eventueel onder bedreiging met een vervangende tot vrijheidsbeneming strekkende sanctie, wordt deze ten uitvoer gelegd krachtens een beslissing van de officier van justitie.    
 2.   Alvorens een beslissing te nemen ingevolge het vorige lid stelt de officier van justitie de veroordeelde in de gelegenheid te worden gehoord.    
-3.   De officier van justitie drukt overeenkomstig het bepaalde in het toepasselijke verdrag het bedrag van de geldboete uit in Nederlandse valuta. Indien het verdrag daaromtrent geen voorschriften bevat bepaalt de officier van justitie de hoogte van het bedrag volgens de wisselkoers die gold op het tijdstip van veroordeling in de vreemde Staat. Als wisselkoers geldt de middenkoers van de op de koopmansbeurs te Amsterdam tot stand gekomen notering.    
-4.   Voor valuta waarvan de wisselkoers niet dagelijks op de koopmansbeurs te Amsterdam wordt genoteerd geldt de wisselkoers die wordt verkregen uit de waarde in speciale trekkingsrechten van de desbetreffende valuta op de laatste werkdag van de maand waarin de ten uitvoer te leggen sanctie in de vreemde Staat werd opgelegd.   
+3.   De officier van justitie drukt overeenkomstig het bepaalde in het toepasselijke verdrag het bedrag van de geldboete uit in Nederlandse valuta. Indien het verdrag daaromtrent geen voorschriften bevat bepaalt de officier van justitie de hoogte van het bedrag volgens de wisselkoers die gold op het tijdstip van veroordeling in de vreemde staat. Als wisselkoers geldt de middenkoers van de op de koopmansbeurs te Amsterdam tot stand gekomen notering.    
+4.   Voor valuta waarvan de wisselkoers niet dagelijks op de koopmansbeurs te Amsterdam wordt genoteerd geldt de wisselkoers die wordt verkregen uit de waarde in speciale trekkingsrechten van de desbetreffende valuta op de laatste werkdag van de maand waarin de ten uitvoer te leggen sanctie in de vreemde staat werd opgelegd.   
 
 ### Artikel  35  
 
@@ -372,7 +372,7 @@ Indien tot tenuitvoerlegging van vervangende hechtenis moet worden overgegaan do
 
 ### Artikel  38  
 
-1.  Indien de officier van justitie, aan wie op de voet van het bepaalde in artikel 15 een verzoek in handen is gesteld tot overneming van de uitoefening van toezicht op de naleving van voorwaarden, in een vreemde Staat aan de veroordeelde opgelegd, van oordeel is dat het geheel of gedeeltelijk niet voor inwilliging vatbaar is of dat aanleiding bestaat gebruik te maken van een der in het toepasselijke verdrag omschreven gronden tot weigering, brengt hij dit oordeel onverwijld vergezeld van zijn advies ter kennis van Onze Minister, die daaromtrent beslist.    
+1.  Indien de officier van justitie, aan wie op de voet van het bepaalde in artikel 15 een verzoek in handen is gesteld tot overneming van de uitoefening van toezicht op de naleving van voorwaarden, in een vreemde staat aan de veroordeelde opgelegd, van oordeel is dat het geheel of gedeeltelijk niet voor inwilliging vatbaar is of dat aanleiding bestaat gebruik te maken van een der in het toepasselijke verdrag omschreven gronden tot weigering, brengt hij dit oordeel onverwijld vergezeld van zijn advies ter kennis van Onze Minister, die daaromtrent beslist.    
 2.   Indien aan het verzoek geheel of gedeeltelijk gevolg wordt gegeven, wordt de kennisgeving van dit besluit aan de veroordeelde in persoon betekend. Van zijn beslissing geeft de officier van justitie bericht aan Onze Minister.   
 
 ### Artikel  39  
@@ -383,7 +383,7 @@ Indien de officier van justitie termen aanwezig acht om een opdracht te geven to
 
 1.  Het te houden toezicht strekt zich niet uit over de naleving van bijzondere voorwaarden, gesteld bij de beslissing die aan het verzoek ten grondslag ligt, welke in strijd zijn met het Nederlandse recht.    
 2.   Het toezicht wordt uitgeoefend met inachtneming van het bij of krachtens de artikelen 14b, vierde lid, 14d, eerste lid, en artikel 16 van het Wetboek van Strafrecht bepaalde.    
-3.   De aanvang en duur van de proeftijd worden bepaald naar het recht van de verzoekende Staat. De proeftijd duurt in geen geval langer dan zij naar Nederlands recht had kunnen duren.   
+3.   De aanvang en duur van de proeftijd worden bepaald naar het recht van de verzoekende staat. De proeftijd duurt in geen geval langer dan zij naar Nederlands recht had kunnen duren.   
 
 ### Artikel  41  
 
@@ -400,18 +400,14 @@ De officier van justitie draagt, behoudens het bepaalde in artikel 16, zorg dat 
 
 ### §  3  
 
-####Onmiddellijke tenuitvoerlegging 
+####Voortgezette tenuitvoerlegging
 
 ### Artikel  43  
 
-1.  Voor zover een verdrag daarin uitdrukkelijk voorziet kan, op aanwijzing van Onze Minister, de tenuitvoerlegging of verdere tenuitvoerlegging van een in een vreemde Staat opgelegde tot vrijheidsbeneming strekkende sanctie in Nederland plaatsvinden buiten toepassing van afdeling C van dit hoofdstuk.    
-2.   De in het vorige lid bedoelde aanwijzing kan slechts worden gegeven, indien uit een door de veroordeelde ondertekende verklaring blijkt dat hij met zijn instemming naar Nederland is overgebracht met het oog op de tenuitvoerlegging of verdere tenuitvoerlegging van de hem opgelegde sanctie.    
-3.   De in het eerste lid bedoelde aanwijzing kan slechts worden gegeven nadat advies is ingewonnen van de bijzondere kamer van het gerechtshof Arnhem-Leeuwarden, bedoeld in artikel 67 van de Wet op de rechterlijke organisatie.    
-4.   Hangende de beslissing tot het geven van een aanwijzing, kan de veroordeelde met toepassing van de artikelen 8-12 voorlopig van zijn vrijheid worden beroofd.    
-5.   De tenuitvoerlegging van de in het eerste lid bedoelde sanctie geschiedt op last van de officier van justitie, aan wie op de voet van het bepaalde in de artikelen 15 of 17 de stukken in handen zijn gesteld.   
+1.  Voor zover een verdrag daarin uitdrukkelijk voorziet, kan op aanwijzing van Onze Minister de tenuitvoerlegging of verdere tenuitvoerlegging van een in een vreemde staat opgelegde vrijheidsbenemende sanctie in Nederland plaatsvinden buiten toepassing van de afdelingen A, B en C van dit hoofdstuk, maar met inachtneming van het bepaalde in deze paragraaf.   
+2.  De in het vorige lid bedoelde aanwijzing kan, voor zover het toepasselijke verdrag bepaalt dat de instemming van de veroordeelde of diens wettelijke vertegenwoordiger met zijn overbrenging naar Nederland met het oog op de tenuitvoerlegging of voortgezette tenuitvoerlegging is vereist, slechts worden gegeven indien die instemming uit een schriftelijk stuk blijkt.  
 
 ### Artikel  43a  
-Treedt in werking per 01-01-2015 
 
 1.  Tenzij Onze Minister, met inachtneming van het toepasselijke verdrag, reeds aanstonds van oordeel is dat het verzoek om tenuitvoerlegging moet worden afgewezen, doet hij het verzoek met de daarbij behorende stukken toekomen aan de advocaat-generaal.   
 2.  Indien de door de vreemde staat overgelegde stukken naar het oordeel van Onze Minister onvoldoende zijn om op het verzoek een beslissing te nemen, biedt hij de autoriteiten van de verzoekende staat de gelegenheid binnen een door hem te stellen redelijke termijn aanvullende stukken of inlichtingen te verschaffen.   
@@ -419,7 +415,6 @@ Treedt in werking per 01-01-2015
 4.  Hangende de beslissing op het verzoek tot tenuitvoerlegging, kan de veroordeelde voorlopig worden aangehouden met toepassing van de artikelen 8 tot en met 12.  
 
 ### Artikel  43b  
-Treedt in werking per 01-01-2015 
 
 1.  De bijzondere kamer van het gerechtshof Arnhem-Leeuwarden beoordeelt met inachtneming van het toepasselijke verdrag: 
 
@@ -435,7 +430,6 @@ c. tot welke aanpassing van de opgelegde vrijheidsbenemende sanctie, het tweede 
 6.  Onze Minister beslist op het verzoek tot tenuitvoerlegging. Voor zover de bijzondere kamer van het gerechtshof Arnhem-Leeuwarden heeft geoordeeld dat het verzoek niet kan worden ingewilligd, wijst Onze Minister het verzoek af.  
 
 ### Artikel  43c  
-Treedt in werking per 01-01-2015 
 
 1.  Indien Onze Minister het verzoek tot tenuitvoerlegging heeft ingewilligd, geeft hij de aanwijzing tot tenuitvoerlegging of verdere tenuitvoerlegging van de in de vreemde staat opgelegde vrijheidsbenemende sanctie in Nederland.   
 2.  De tenuitvoerlegging van de in het eerste lid bedoelde sanctie geschiedt op last van de officier van justitie in het arrondissement waar de veroordeelde zijn woonplaats heeft of zich bevindt, of, indien de veroordeelde voorlopig is aangehouden zoals bedoeld in artikel 43a, derde lid, aan de officier van justitie die in verband daarmee reeds bij de zaak betrokken is of, indien tegen de veroordeelde in Nederland een vervolging gaande is, de officier van justitie die met deze vervolging is belast of, indien de veroordeelde een in artikel 2 van de Wet militaire rechtspraak bedoelde persoon is, aan de officier van justitie bij de rechtbank die ingevolge die wet bevoegd is over de veroordeelde rechtsmacht uit te oefenen. Is op grond van het voorgaande voorshands geen bevoegde officier van justitie aan te wijzen, dan zendt Onze Minister de stukken toe aan de officier van justitie te Amsterdam.  
@@ -450,15 +444,15 @@ Verzoeken, bedoeld in afdeling D, par. 2, die betrekking hebben op bij verstek g
 
 ### Artikel  45  
 
-1.  Een verzoek om tenuitvoerlegging van een in de verzoekende Staat bij verstek gewezen rechterlijke beslissing kan niet in behandeling worden genomen dan nadat deze beslissing vanwege de officier van justitie, die het verzoek heeft ontvangen, aan de veroordeelde in persoon is betekend. Betekening vindt niet plaats indien het recht tot strafvervolging ter zake van het feit waarvoor de beslissing werd gewezen naar Nederlands recht zou zijn verjaard, met dien verstande, dat handelingen, verricht in de verzoekende Staat, die de verjaring aldaar stuiten of schorsen, in Nederland dezelfde rechtskracht hebben. Van de betekening worden de autoriteiten van de Staat, waarvan het verzoek is uitgegaan, schriftelijk in kennis gesteld.    
+1.  Een verzoek om tenuitvoerlegging van een in de verzoekende staat bij verstek gewezen rechterlijke beslissing kan niet in behandeling worden genomen dan nadat deze beslissing vanwege de officier van justitie, die het verzoek heeft ontvangen, aan de veroordeelde in persoon is betekend. Betekening vindt niet plaats indien het recht tot strafvervolging ter zake van het feit waarvoor de beslissing werd gewezen naar Nederlands recht zou zijn verjaard, met dien verstande, dat handelingen, verricht in de verzoekende staat, die de verjaring aldaar stuiten of schorsen, in Nederland dezelfde rechtskracht hebben. Van de betekening worden de autoriteiten van de staat, waarvan het verzoek is uitgegaan, schriftelijk in kennis gesteld.    
 2.   Voor zover een verdrag daarin voorziet, kan de veroordeelde tegen een bij verstek gewezen rechterlijke beslissing, als bedoeld in het vorige lid, verzet doen bij de rechtbank van het arrondissement waarin hij zijn woonplaats heeft of daadwerkelijk verblijft, gedurende een door het toepasselijke verdrag bepaalde termijn na de betekening. Is de veroordeelde een persoon als bedoeld in artikel 2 van de Wet militaire strafrechtspraak dan kan deze verzet doen bij de rechtbank, welke ingevolge die wet bevoegd is over die persoon rechtsmacht uit te oefenen.    
 3.   Verzet wordt gedaan door een verklaring, af te leggen door de veroordeelde op het parket van het openbaar ministerie bij de in het vorige lid bedoelde rechtbank of bij aangetekende brief aan dat parket, houdende - op straffe van niet-ontvankelijkheid - de vermelding van de woon- of verblijfplaats van de veroordeelde, alwaar gerechtelijke stukken aan hem kunnen worden uitgereikt. In geval van verzet bij aangetekende brief geldt als dag van verzet de dag van ontvangst van de brief ten parkette. De artikelen 450 en 451*a* van het Wetboek van Strafvordering zijn van overeenkomstige toepassing.    
 4.   De officier van justitie stelt iedere tijdig afgelegde verklaring of ontvangen brief, bedoeld in het vorige lid, ter hand van de griffier, die daarmee handelt overeenkomstig het bepaalde in artikel 451 van het Wetboek van Strafvordering.   
 
 ### Artikel  46  
 
-1.  Indien de veroordeelde overeenkomstig artikel 45 rechtsgeldig verzet heeft gedaan met het oog op een behandeling daarvan in de verzoekende Staat, doet de griffier de akte van verzet onverwijld toekomen aan Onze Minister ter doorzending aan de verzoekende Staat.    
-2.   Indien de veroordeelde overeenkomstig artikel 45 rechtsgeldig verzet heeft gedaan met het oog op een behandeling daarvan in Nederland, wordt het verzoek om tenuitvoerlegging van het in de verzoekende Staat bij verstek gewezen vonnis beschouwd als een door Onze Minister ingewilligd en op een verdrag gegrond verzoek tot strafvervolging.   
+1.  Indien de veroordeelde overeenkomstig artikel 45 rechtsgeldig verzet heeft gedaan met het oog op een behandeling daarvan in de verzoekende staat, doet de griffier de akte van verzet onverwijld toekomen aan Onze Minister ter doorzending aan de verzoekende staat.    
+2.   Indien de veroordeelde overeenkomstig artikel 45 rechtsgeldig verzet heeft gedaan met het oog op een behandeling daarvan in Nederland, wordt het verzoek om tenuitvoerlegging van het in de verzoekende staat bij verstek gewezen vonnis beschouwd als een door Onze Minister ingewilligd en op een verdrag gegrond verzoek tot strafvervolging.   
 
 ### Artikel  47  
 
@@ -503,7 +497,7 @@ c. tegen de uitspraak van de rechtbank door de veroordeelde en de officier van j
 
 ### Artikel  51  
 
-Indien het openbaar ministerie, met de tenuitvoerlegging van een rechterlijke beslissing belast, het in het belang van een goede rechtsbedeling gewenst acht, dat een vreemde Staat een door de Nederlandse rechter opgelegde straf of maatregel ten uitvoer legt of verder ten uitvoer legt dan wel toezicht uitoefent op de naleving van door de Nederlandse rechter opgelegde voorwaarden, geeft het, onder overlegging van het voor tenuitvoerlegging vatbare vonnis of arrest en eventuele andere met het oog op de tenuitvoerlegging van belang zijnde stukken, aan Onze Minister een met redenen omkleed advies tot overdracht van de tenuitvoerlegging of het toezicht aan die Staat.  
+Indien het openbaar ministerie, met de tenuitvoerlegging van een rechterlijke beslissing belast, het in het belang van een goede rechtsbedeling gewenst acht, dat een vreemde staat een door de Nederlandse rechter opgelegde straf of maatregel ten uitvoer legt of verder ten uitvoer legt dan wel toezicht uitoefent op de naleving van door de Nederlandse rechter opgelegde voorwaarden, geeft het, onder overlegging van het voor tenuitvoerlegging vatbare vonnis of arrest en eventuele andere met het oog op de tenuitvoerlegging van belang zijnde stukken, aan Onze Minister een met redenen omkleed advies tot overdracht van de tenuitvoerlegging of het toezicht aan die staat.  
 
 ### Artikel  52  
 
@@ -515,17 +509,17 @@ Indien het openbaar ministerie, met de tenuitvoerlegging van een rechterlijke be
 
 ### Artikel  53  
 
-1.  Onze Minister geeft het openbaar ministerie, dat een advies als bedoeld in artikel 51 heeft uitgebracht, schriftelijk kennis van de beslissing die hij terzake heeft genomen alsmede van de door hem ontvangen mededelingen omtrent beslissingen van de autoriteiten van de vreemde Staat naar aanleiding van het verzoek tot tenuitvoerlegging of tot overname van toezicht dat op advies van het openbaar ministerie is gedaan.    
-2.   Een aan de autoriteiten van een vreemde Staat gedaan verzoek tot tenuitvoerlegging of tot overname van toezicht kan uiterlijk tot de ontvangst van een kennisgeving omtrent de daarop in die Staat genomen beslissing worden ingetrokken, onverminderd het bepaalde in artikel 36, tweede lid, van het Benelux-verdrag inzake de tenuitvoerlegging van rechterlijke beslissingen in strafzaken.   
+1.  Onze Minister geeft het openbaar ministerie, dat een advies als bedoeld in artikel 51 heeft uitgebracht, schriftelijk kennis van de beslissing die hij terzake heeft genomen alsmede van de door hem ontvangen mededelingen omtrent beslissingen van de autoriteiten van de vreemde staat naar aanleiding van het verzoek tot tenuitvoerlegging of tot overname van toezicht dat op advies van het openbaar ministerie is gedaan.    
+2.   Een aan de autoriteiten van een vreemde staat gedaan verzoek tot tenuitvoerlegging of tot overname van toezicht kan uiterlijk tot de ontvangst van een kennisgeving omtrent de daarop in die staat genomen beslissing worden ingetrokken, onverminderd het bepaalde in artikel 36, tweede lid, van het Benelux-verdrag inzake de tenuitvoerlegging van rechterlijke beslissingen in strafzaken.   
 
 ### Artikel  54  
 
-Degene tegen wie in Nederland bij verstek uitspraak is gedaan, houdende de oplegging van een straf of maatregel of een gedeeltelijke beslissing als bedoeld in § 5 van Hoofdstuk I van het Benelux-verdrag inzake de tenuitvoerlegging van rechterlijke beslissingen in strafzaken, kan, wanneer een verzoek tot tenuitvoerlegging of aanvulling daarvan is gedaan aan de autoriteiten van een vreemde Staat, ook als de einduitspraak reeds kracht van gewijsde heeft gekregen, tegen die uitspraak verzet doen tot het verstrijken van een door het toepasselijke verdrag bepaalde termijn nadat de uitspraak hem door de autoriteiten van die Staat in persoon is betekend. Zulk verzet kan slechts worden gedaan op overeenkomstig de in de wetgeving van de aangezochte Staat voorgeschreven wijze bij de bevoegde autoriteiten van die Staat.  
+Degene tegen wie in Nederland bij verstek uitspraak is gedaan, houdende de oplegging van een straf of maatregel of een gedeeltelijke beslissing als bedoeld in § 5 van Hoofdstuk I van het Benelux-verdrag inzake de tenuitvoerlegging van rechterlijke beslissingen in strafzaken, kan, wanneer een verzoek tot tenuitvoerlegging of aanvulling daarvan is gedaan aan de autoriteiten van een vreemde staat, ook als de einduitspraak reeds kracht van gewijsde heeft gekregen, tegen die uitspraak verzet doen tot het verstrijken van een door het toepasselijke verdrag bepaalde termijn nadat de uitspraak hem door de autoriteiten van die staat in persoon is betekend. Zulk verzet kan slechts worden gedaan op overeenkomstig de in de wetgeving van de aangezochte staat voorgeschreven wijze bij de bevoegde autoriteiten van die staat.  
 
 ### Artikel  55  
 
-1.  Zodra van de autoriteiten van de aangezochte Staat de akte is ontvangen, waaruit blijkt van een rechtsgeldig gedaan verzet, wordt aan degene die in verzet is gekomen een dagvaarding om ter terechtzitting van het gerecht dat de uitspraak heeft gedaan te verschijnen in persoon betekend. Op straffe van nietigheid wordt tussen de dag waarop de dagvaarding is betekend en die ter terechtzitting een termijn van tenminste eenentwintig dagen of zoveel minder als het toepasselijke verdrag toelaat in acht genomen. Met toestemming van de gedagvaarde kan deze termijn worden verkort, mits van deze toestemming uit een schriftelijke verklaring blijkt. Vrijwillige verschijning op een dagvaarding betekend in strijd met de voorschriften van dit artikel dekt de nietigheid.    
-2.   Indien de gedagvaarde niet ten dienenden dage in rechte verschijnt wordt het verzet vervallen verklaard, tenzij de rechter bij niet-verschijning schorsing van het onderzoek heeft bevolen teneinde deze, indien hij verhinderd was het onderzoek bij te wonen, daartoe alsnog in de gelegenheid te stellen. Het openbaar ministerie geeft van een vervallen verklaard verzet zo spoedig mogelijk schriftelijk kennis aan de autoriteiten van de aangezochte Staat en aan Onze Minister.    
+1.  Zodra van de autoriteiten van de aangezochte staat de akte is ontvangen, waaruit blijkt van een rechtsgeldig gedaan verzet, wordt aan degene die in verzet is gekomen een dagvaarding om ter terechtzitting van het gerecht dat de uitspraak heeft gedaan te verschijnen in persoon betekend. Op straffe van nietigheid wordt tussen de dag waarop de dagvaarding is betekend en die ter terechtzitting een termijn van tenminste eenentwintig dagen of zoveel minder als het toepasselijke verdrag toelaat in acht genomen. Met toestemming van de gedagvaarde kan deze termijn worden verkort, mits van deze toestemming uit een schriftelijke verklaring blijkt. Vrijwillige verschijning op een dagvaarding betekend in strijd met de voorschriften van dit artikel dekt de nietigheid.    
+2.   Indien de gedagvaarde niet ten dienenden dage in rechte verschijnt wordt het verzet vervallen verklaard, tenzij de rechter bij niet-verschijning schorsing van het onderzoek heeft bevolen teneinde deze, indien hij verhinderd was het onderzoek bij te wonen, daartoe alsnog in de gelegenheid te stellen. Het openbaar ministerie geeft van een vervallen verklaard verzet zo spoedig mogelijk schriftelijk kennis aan de autoriteiten van de aangezochte staat en aan Onze Minister.    
 3.  Indien degene die in verzet is gekomen ter terechtzitting verschijnt wordt de zaak overeenkomstig titel VI, VII of VIII van het Tweede Boek van het Wetboek van Strafvordering behandeld, als ware het rechtsgeding bij verstek niet voorafgegaan. De rechter bekrachtigt de bij verstek gewezen uitspraak of doet met gehele of gedeeltelijke vernietiging van die uitspraak opnieuw recht.  
 
 ### Afdeling  B  
@@ -552,12 +546,12 @@ Bij algemene maatregel van bestuur worden voorschriften vastgesteld omtrent de p
 ### Artikel  59  
 
 1.  Overdracht van de tenuitvoerlegging van rechterlijke beslissingen ingevolge dit Hoofdstuk geschiedt slechts onder het algemene beding, dat de door de Nederlandse rechter opgelegde straf, maatregel of voorwaarden niet ten nadele van de veroordeelde worden gewijzigd en dat daarbij met het reeds hier te lande ten uitvoer gelegde gedeelte van die straf of maatregel rekening wordt gehouden.    
-2.   Een veroordeelde die in Nederland een tot vrijheidsbeneming strekkende sanctie ondergaat of nog zal moeten ondergaan wordt, wanneer met een vreemde Staat overeenstemming is bereikt omtrent de verdere tenuitvoerlegging van deze sanctie, zo spoedig mogelijk ter beschikking gesteld van de autoriteiten van die Staat, zulks op een door Onze Minister, na overleg met die autoriteiten, te bepalen tijd en plaats.    
+2.   Een veroordeelde die in Nederland een tot vrijheidsbeneming strekkende sanctie ondergaat of nog zal moeten ondergaan wordt, wanneer met een vreemde staat overeenstemming is bereikt omtrent de verdere tenuitvoerlegging van deze sanctie, zo spoedig mogelijk ter beschikking gesteld van de autoriteiten van die staat, zulks op een door Onze Minister, na overleg met die autoriteiten, te bepalen tijd en plaats.    
 3.   De overbrenging van een veroordeelde, die niet heeft verklaard met de overdracht van de tenuitvoerlegging in te stemmen, geschiedt niet dan onder het algemene beding, dat hij alleen met uitdrukkelijke toestemming van Onze Minister:  
 
 a. zal worden vervolgd, gestraft of op enige wijze in zijn persoonlijke vrijheid beperkt ter zake van feiten, die voor het tijdstip van zijn overbrenging zijn begaan en ter zake waarvan de tenuitvoerlegging niet is overgedragen; en   
 
-b. ter beschikking zal worden gesteld van de autoriteiten van een derde Staat ter zake van feiten, die voor het tijdstip van zijn overbrenging zijn begaan, tenzij de veroordeelde nadien de gelegenheid heeft gehad het grondgebied van de Staat naar welke hij is overgebracht te verlaten.      
+b. ter beschikking zal worden gesteld van de autoriteiten van een derde staat ter zake van feiten, die voor het tijdstip van zijn overbrenging zijn begaan, tenzij de veroordeelde nadien de gelegenheid heeft gehad het grondgebied van de staat naar welke hij is overgebracht te verlaten.      
 4.   Op het moment dat een veroordeelde ter beschikking van de in het tweede lid bedoelde autoriteiten wordt gesteld, wordt de tenuitvoerlegging in Nederland van de hem opgelegde sanctie van rechtswege geschorst.    
 5.   In geval van hervatting van het recht tot tenuitvoerlegging van de sanctie wordt het in het buitenland reeds ten uitvoer gelegde gedeelte daarop in mindering gebracht.   
 
@@ -603,7 +597,7 @@ Op bevelen tot beëindiging van voorlopige vrijheidsbeneming krachtens deze wet 
 
 ### Artikel  67  
 
-In gevallen waarin onherroepelijk is vastgesteld dat tenuitvoerlegging van een buitenlandse rechterlijke beslissing in Nederland niet behoort plaats te vinden kan de rechtbank, die de zaak heeft behandeld, op verzoek van de veroordeelde hem een vergoeding ten laste van de Staat toekennen voor schade die hij heeft geleden en kosten die hij heeft gemaakt ten gevolge van voorlopige vrijheidsbeneming bevolen krachtens deze wet. Onder schade is begrepen het nadeel dat niet in vermogensschade bestaat.  De artikelen 89, derde, vierde en zesde lid, 90, 91, 93, 591 en 591*a* van het Wetboek van Strafvordering zijn van overeenkomstige toepassing.  
+In gevallen waarin onherroepelijk is vastgesteld dat tenuitvoerlegging van een buitenlandse rechterlijke beslissing in Nederland niet behoort plaats te vinden kan de rechtbank, die de zaak heeft behandeld, op verzoek van de veroordeelde hem een vergoeding ten laste van de staat toekennen voor schade die hij heeft geleden en kosten die hij heeft gemaakt ten gevolge van voorlopige vrijheidsbeneming bevolen krachtens deze wet. Onder schade is begrepen het nadeel dat niet in vermogensschade bestaat.  De artikelen 89, derde, vierde en zesde lid, 90, 91, 93, 591 en 591*a* van het Wetboek van Strafvordering zijn van overeenkomstige toepassing.  
 
 ### Artikel  68  
 
@@ -611,7 +605,7 @@ Op betekeningen, kennisgevingen en oproepingen gedaan krachtens deze wet zijn de
 
 ### Artikel  69  
 
-Op verzoeken om doorvoer over Nederlands grondgebied van personen die ten behoeve van de tenuitvoerlegging van een rechterlijke beslissing door de autoriteiten van een vreemde Staat ter beschikking van de autoriteiten van een andere Staat worden gesteld, zijn de artikelen 48 en 50 van de Uitleveringswet van overeenkomstige toepassing.  
+Op verzoeken om doorvoer over Nederlands grondgebied van personen die ten behoeve van de tenuitvoerlegging van een rechterlijke beslissing door de autoriteiten van een vreemde staat ter beschikking van de autoriteiten van een andere staat worden gesteld, zijn de artikelen 48 en 50 van de Uitleveringswet van overeenkomstige toepassing.  
 
 ###Artikel 70 
 

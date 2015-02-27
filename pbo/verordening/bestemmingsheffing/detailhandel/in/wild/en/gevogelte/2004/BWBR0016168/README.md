@@ -3,7 +3,7 @@
 ##Verordening van het Hoofdbedrijfschap Detailhandel van 17 december 2003, houdende vaststelling bestemmingsheffing ten behoeve van de detailhandel in wild en gevogelte voor het jaar 2004 (Verordening bestemmingsheffing detailhandel in wild en gevogelte 2004)
 
 Het bestuur van het Hoofdbedrijfschap Detailhandel;
-Gelet op de [artikelen 95, tweede lid](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de Bedrijfsorganisatie](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+Gelet op de artikelen 95, tweede lid en 126 van de Wet op de Bedrijfsorganisatie;
 
 Gezien het advies van de Commissie voor de detailhandel in wild en gevogelte;
 Besluit:
@@ -25,7 +25,7 @@ b.de voorzitter: de voorzitter van het Hoofdbedrijfschap Detailhandel.
 ###Artikel 2 
 Materieel uitgewerkt per 12-03-2005 
 
-In deze verordening zijn de begripsbepalingen van de [Heffingsverordening Hoofdbedrijfschap Detailhandel 2004](../../../../../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/detailhandel/2004/BWBR0016161/README.md) van overeenkomstige toepassing.
+In deze verordening zijn de begripsbepalingen van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2004 van overeenkomstige toepassing.
 
 ###Artikel 3 
 Materieel uitgewerkt per 12-03-2005 
@@ -54,7 +54,7 @@ Materieel uitgewerkt per 12-03-2005
 ###Artikel 5 
 Materieel uitgewerkt per 12-03-2005 
 
-De [artikelen 6 tot en met 17 van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2004](../../../../../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/detailhandel/2004/BWBR0016161/README.md) zijn van overeenkomstige toepassing.
+De artikelen 6 tot en met 17 van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2004 zijn van overeenkomstige toepassing.
 
 ###Artikel 6 
 Materieel uitgewerkt per 12-03-2005 

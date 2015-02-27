@@ -10,17 +10,14 @@ Alzo Wij in overweging genomen hebben, dat de implementatie van richtlijn 2011/9
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  
-Treedt in werking op een nader te bepalen tijdstip 
 
 Wijzigt het Wetboek van Strafvordering. 
 
 ### Artikel  II  
-Treedt in werking op een nader te bepalen tijdstip 
 
 Artikel I is niet van toepassing in relatie tot een andere lidstaat van de Europese Unie voor zover en voor zolang die lidstaat niet de maatregelen heeft getroffen die noodzakelijk zijn om te voldoen aan de richtlijn 2011/99/EU. 
 
 ### Artikel  III  
-Treedt in werking op een nader te bepalen tijdstip 
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 

@@ -483,7 +483,7 @@ g.de organisatie van het kantoor waar de mediator werkzaam is.
 
 ### Artikel  34  
 
-1. Rechtsbijstand overeenkomstig de bepalingen van deze wet wordt verleend aan hen wier inkomen per jaar € 21 800 per 1 januari 2014: € 25.600of minder bedraagt, indien zij alleenstaand zijn, dan wel, indien zij met één of meer anderen een gemeenschappelijke huishouding voeren, ten hoogste € 31 000 per 1 januari 2014: € 36.100. 
+1. Rechtsbijstand overeenkomstig de bepalingen van deze wet wordt verleend aan hen wier inkomen per jaar € 21 800 per 1 januari 2015: € 25.800of minder bedraagt, indien zij alleenstaand zijn, dan wel, indien zij met één of meer anderen een gemeenschappelijke huishouding voeren, ten hoogste € 31 000 per 1 januari 2015: € 36.400. 
 2. In afwijking van het bepaalde in het eerste lid wordt geen rechtsbijstand verleend, indien de rechtzoekende beschikt over een vermogen dat meer bedraagt dan het heffingvrij vermogen. 
 3. Bij de vaststelling van het inkomen en vermogen van de rechtzoekende worden, behoudens het geval van onderling tegenstrijdige belangen, mede in aanmerking genomen het inkomen en vermogen van:
 

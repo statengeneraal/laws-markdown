@@ -3,7 +3,7 @@
 ## Verordening registratie verzamelaars, grossiers en houders pakstation en heffingen consumptie-eieren 2003
 
 Het bestuur van het Productschap Pluimvee en Eieren heeft,
-gelet op [artikel 126 van de Wet op de Bedrijfsorganisatie](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en de artikelen 5 en 9 van de Instellingsverordening Productschap Pluimvee en Eieren 1998-I,
+gelet op artikel 126 van de Wet op de Bedrijfsorganisatie, en de artikelen 5 en 9 van de Instellingsverordening Productschap Pluimvee en Eieren 1998-I,
 op 14 november 2002 vastgesteld de navolgende VERORDENING
 ###Titel I 
 
@@ -23,7 +23,7 @@ In deze verordening wordt verstaan onder:
 |houder van een pakstation | : |de ondernemer die ongesorteerde eieren koopt van een pluimveehouder of van een verzamelaar teneinde deze eieren, gesorteerd naar kwaliteit en gewicht te leveren aan anderen dan consumenten; |
 |grossier | : | de ondernemer, die naar kwaliteit en gewicht gesorteerde eieren koopt, teneinde deze eieren te leveren aan anderen dan consumenten; |
 |eiproducten | : |producten die zijn verkregen uit eieren, uit bestanddelen van eieren of mengsels daarvan, na verwijdering van schaal en vliezen en die bestemd zijn voor menselijke consumptie; |
-|eiproductenfabrikant | : |ondernemer als bedoeld in de [Verordening heffingen eiproducten 2003](../../../../../../../../../../../pbo/verordening/heffingen/eiproducten/2003/BWBR0014283/README.md); |
+|eiproductenfabrikant | : |ondernemer als bedoeld in de Verordening heffingen eiproducten 2003; |
 |sorteren | : |het indelen van eieren in gewichts- en kwaliteitsklassen; |
 |legpluimveebedrijf | : |inrichting die wordt gebruikt voor het houden van kippen voor de productie van consumptie-eieren;  |
 |consument | : |degene die eieren koopt uitsluitend bestemd voor en in overeenstemming met zijn persoonlijke behoefte. |

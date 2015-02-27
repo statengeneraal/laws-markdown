@@ -352,7 +352,18 @@ b. gedurende de periode waarop de financiële verantwoording betrekking heeft of
 
 ### Artikel  24b  
 
-De accountantsorganisatie die wettelijke controles verricht bij een organisatie van openbaar belang, verricht naast controlediensten geen andere werkzaamheden voor die organisatie. 
+1.  Een accountantsorganisatie die wettelijke controles verricht bij een organisatie van openbaar belang, verricht naast controlediensten geen andere werkzaamheden voor die organisatie en aan die organisatie gelieerde entiteiten.   
+2.  Een accountantsorganisatie die onderdeel uitmaakt van een netwerk, verricht geen wettelijke controles bij een organisatie van openbaar belang indien: 
+
+a. een ander onderdeel van het netwerk dat in Nederland is gevestigd andere werkzaamheden als bedoeld in het eerste lid verricht voor die organisatie van openbaar belang of een aan die organisatie gelieerde entiteit; of  
+
+b. een ander onderdeel van het netwerk dat niet in Nederland is gevestigd andere werkzaamheden als bedoeld in het eerste lid verricht voor die organisatie van openbaar belang of een aan die organisatie gelieerde entiteit die in Nederland is gevestigd.     
+3.  Voor de toepassing van het eerste en tweede lid wordt onder gelieerde entiteit verstaan: 
+
+a. de rechtspersoon of vennootschap die, alleen of samen met een andere groepsmaatschappij, aan het hoofd staat van de groep of het groepsdeel waar de organisatie van openbaar belang deel van uitmaakt alsmede een rechtspersoon of vennootschap die overheersende zeggenschap kan uitoefenen op of centrale leiding heeft over een organisatie van openbaar belang; en  
+
+b. iedere dochtermaatschappij van een organisatie van openbaar belang, andere groepsmaatschappij die onder de organisatie van openbaar belang valt, of andere rechtspersoon of vennootschap waarop een organisatie van openbaar belang overheersende zeggenschap kan uitoefenen of waarover zij de centrale leiding heeft.     
+4.  De Staat der Nederlanden is geen gelieerde entiteit als bedoeld in het derde lid.  
 
 ### Afdeling  3.2  
 
@@ -544,12 +555,29 @@ Vervallen per 01-01-2013
 ### Artikel 63a 
 
 1. Het is een ieder die uit hoofde van de toepassing van deze wet of van ingevolge deze wet genomen besluiten enige taak vervult of heeft vervuld, verboden van vertrouwelijke gegevens of inlichtingen die ingevolge deze wet dan wel ingevolge afdeling 5.2 van de Algemene wet bestuursrecht zijn verstrekt of verkregen of van instanties die belast zijn met het toezicht op auditkantoren in een andere lidstaat zijn ontvangen, verder of anders gebruik te maken of daaraan verder of anders bekendheid te geven dan voor de uitvoering van zijn taak of op basis van deze wet noodzakelijk is. 
-2.  In afwijking van het eerste lid kan de Autoriteit Financiële Markten van vertrouwelijke gegevens of inlichtingen, verkregen bij de uitvoering van haar taak op grond van deze wet, verstrekken aan de met verschillende taken belaste organisatie onderdelen van de Autoriteit Financiële Markten.  
-3.  In afwijking van het eerste lid kan de Autoriteit Financiële Markten met gebruikmaking van vertrouwelijke gegevens of inlichtingen, verkregen bij de uitvoering van haar taak op grond van deze wet, mededelingen doen, indien deze niet kunnen worden herleid tot afzonderlijke personen, accountantsorganisaties of auditkantoren. 
+2.  In afwijking van het eerste lid kan de Autoriteit Financiële Markten met gebruikmaking van vertrouwelijke gegevens of inlichtingen, verkregen bij de uitvoering van haar taak op grond van deze wet, mededelingen doen, indien deze niet kunnen worden herleid tot afzonderlijke personen, accountantsorganisaties of auditkantoren. 
 
 ###Hoofdstuk 5b 
 
 ####Samenwerking nationaal
+
+### Artikel  63b  
+
+1.  De Autoriteit Financiële Markten kan, in afwijking van artikel 63a, vertrouwelijke gegevens of inlichtingen verkregen bij de vervulling van de haar ingevolge deze wet opgedragen taak, verstrekken aan De Nederlandsche Bank N.V., tenzij: 
+
+a. het doel waarvoor de vertrouwelijke gegevens of inlichtingen zullen worden gebruikt onvoldoende bepaald is;  
+
+b. het beoogde gebruik van de vertrouwelijke gegevens of inlichtingen niet past in het kader van het toezicht op financiële markten of op personen die op die markten werkzaam zijn;  
+
+c. de verstrekking van de vertrouwelijke gegevens of inlichtingen zich niet zou verdragen met de Nederlandse wet of de openbare orde;  
+
+d. de geheimhouding van de vertrouwelijke gegevens of inlichtingen niet in voldoende mate is gewaarborgd;  
+
+e. de verstrekking van de vertrouwelijke gegevens of inlichtingen redelijkerwijs in strijd is of zou kunnen komen met de belangen die deze wet beoogt te beschermen; of  
+
+f. onvoldoende is gewaarborgd dat de vertrouwelijke gegevens of inlichtingen niet zullen worden gebruikt voor een ander doel dan waarvoor deze worden verstrekt.     
+2.  Voor zover de gegevens of inlichtingen, bedoeld in het eerste lid, zijn verkregen van een toezichthoudende instantie, verstrekt de Autoriteit Financiële Markten deze niet aan De Nederlandsche Bank N.V., tenzij de toezichthoudende instantie waarvan de gegevens of inlichtingen zijn verkregen uitdrukkelijk heeft ingestemd met de verstrekking van gegevens of inlichtingen en in voorkomend geval heeft ingestemd met het gebruik voor een ander doel dan waarvoor de gegevens of inlichtingen zijn verstrekt.   
+3.  Het eerste en tweede lid zijn van overeenkomstige toepassing op het uitwisselen van vertrouwelijke gegevens of inlichtingen tussen de met verschillende taken belaste onderdelen van de Autoriteit Financiële Markten.  
 
 ### Artikel 63c 
 
@@ -567,7 +595,7 @@ Vervallen per 01-01-2013
 
 a. de Nederlandse beroepsorganisatie van accountants, bedoeld in artikel 2 van de Wet op het Accountantsberoep; 
 
-b.een organisatorisch verband van marktpartijen, dat zich ten doel stelt een doeltreffende bijdrage te leveren aan de uitvoering door de Autoriteit Financiële Markten van het toezicht op de naleving van deze wet en daartoe met de Autoriteit Financiële Markten een convenant heeft gesloten;voor zover de gegevens of inlichtingen noodzakelijk zijn voor de vervulling van de taken van de in de onderdelen a tot en met c bedoelde instanties. 
+b.een organisatorisch verband van marktpartijen, dat zich ten doel stelt een doeltreffende bijdrage te leveren aan de uitvoering door de Autoriteit Financiële Markten van het toezicht op de naleving van deze wet en daartoe met de Autoriteit Financiële Markten een convenant heeft gesloten;voor zover de gegevens of inlichtingen noodzakelijk zijn voor de vervulling van de taken van de in de onderdelen a en b bedoelde instanties. 
 2. Voor zover de gegevens of inlichtingen, bedoeld in het eerste lid, zijn verkregen van een toezichthoudende instantie, verstrekt de Autoriteit Financiële Markten deze niet aan een instantie als bedoeld in het eerste lid, tenzij de toezichthoudende instantie waarvan de gegevens of inlichtingen zijn verkregen uitdrukkelijk heeft ingestemd met de verstrekking van de gegevens of inlichtingen en in voorkomend geval heeft ingestemd met het gebruik voor een ander doel dan waarvoor de gegevens of inlichtingen zijn verstrekt.
 
 ###Hoofdstuk 5c 
@@ -826,7 +854,7 @@ J. P. H. Donner
 
 ####bij artikel 1, eerste lid, onderdeel p , van de wet
 
-– artikelen 36, tweede lid, en 45, derde lid, van de Algemene Wet Bijzondere Ziektekosten;
+– de artikelen 4.3.1, tweede lid, en 5.2.2, derde lid, van de Wet langdurige zorg;
 
 – artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek;
 
@@ -834,11 +862,9 @@ J. P. H. Donner
 
 – artikel 213, tweede lid, van de Gemeentewet;
 
-– artikel 35, tweede lid, van de Kaderwet zelfstandige bestuursorganen, voor zover het de controle betreft van de financiële verantwoordingen van de Nederlandse Zorgautoriteit, het Zorginstituut Nederland, de organisatie ZorgOnderzoek Nederland, de Waarderingskamer, het Centraal bureau voor de statistiek en het college voor de post- en telecommunicatiemarkt;
+– artikel 35, tweede lid, van de Kaderwet zelfstandige bestuursorganen, voor zover het de controle betreft van de financiële verantwoordingen van het Centraal bureau voor de statistiek, het college voor de post- en telecommunicatiemarkt, het College voor de toelating van gewasbeschermingsmiddelen en biociden, het Commissariaat voor de Media, de Dienst voor het kadaster en de openbare registers, de Dienst Wegverkeer, de Kamer van Koophandel, het Landelijk Bureau Inning Onderhoudsbijdragen, de Nederlandse Zorgautoriteit, de NVNL, de organisatie ZorgOnderzoek Nederland, de Waarderingskamer en het Zorginstituut Nederland;
 
 – artikel 7.7, tweede lid, van de Mediawet 2008; 
-
-– artikel 26, eerste lid, van de Organisatiewet Kadaster;
 
 – artikelen 146 en 147, vijfde lid, van de Pensioenwet;
 
@@ -850,17 +876,9 @@ J. P. H. Donner
 
 – artikel 109, tweede lid, van de Waterschapswet;
 
-– artikel 4s, vierde lid, onderdeel c, van de Wegenverkeerswet 1994;
-
 – artikel 6, eerste lid, onderdeel f, van de Wet afbreking zwangerschap;
 
 – artikel 5, tweede lid, van de Wet op de formeel buitenlandse vennootschappen; 
-
-– artikel 12, zevende lid, van de Wet gewasbeschermingsmiddelen en biociden; 
-
-– artikel 21, vierde lid, van de Wet Landelijk Bureau Inning Onderhoudsbijdragen;
-
-– artikel 5.41, derde lid, onderdeel d, van de Wet luchtvaart;
 
 – artikel 25, vierde lid, van de Wet toelating zorginstellingen;
 
@@ -870,8 +888,6 @@ J. P. H. Donner
 
 – artikel 22, eerste lid, van de Wet verzelfstandiging Staatsbosbeheer;
 
-– artikel 18, derde lid, tweede volzin, van de Wet voorraadvorming aardolieproducten 2001;
+–artikel 23, derde lid, tweede volzin, van de Wet voorraadvorming aardolieproducten 2012; 
 
-– artikelen 70c, tweede lid, onderdeel h, en 71g, eerste lid, van de Woningwet;
-
-– de artikelen 74, derde lid, en 122a, twaalfde lid juncto artikel 74, derde lid, van de Zorgverzekeringswet. 
+– artikelen 70c, tweede lid, onderdeel h, en 71g, eerste lid, van de Woningwet. 

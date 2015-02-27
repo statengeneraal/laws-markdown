@@ -14,10 +14,9 @@ Vrijstelling van het in artikel 2, eerste lid, van de Wet toezicht trustkantore
 
 Vrijstelling van het in artikel 2, eerste lid, van de Wet toezicht trustkantoren genoemde verbod wordt verleend aan natuurlijke personen, indien deze uitsluitend de dienst verlenen genoemd in artikel 1, onderdeel d, onder 1°, van de Wet toezicht trustkantoren aan stichtingen die uitsluitend aandelen houden voor certificaathouders.
 
-###Artikel 3 
+### Artikel  3  
 
-1. Vrijstelling van het in artikel 2, eerste lid, van de Wet toezicht trustkantoren genoemde verbod wordt verleend aan natuurlijke personen, indien deze uitsluitend de dienst verlenen genoemd in artikel 1, onderdeel d, onder 1°, van de Wet toezicht trustkantoren aan doelvennootschappen waaraan tevens een dienst als bedoeld in artikel 1, onderdeel d, onder 2°, aanhef en onder iii), van de Wet toezicht trustkantoren wordt verleend door een trustkantoor met een vergunning als bedoeld in artikel 2, eerste lid, van de Wet toezicht trustkantoren, indien laatstgenoemde dienst ten minste het voeren van de administratie van deze doelvennootschappen betreft.
-2. De vrijstelling als bedoeld in het eerste lid is van overeenkomstige toepassing in de gevallen waarin het trustkantoor dat de dienst als bedoeld in artikel 1, onderdeel d, onder 2°, aanhef en onder iii), van de Wet toezicht trustkantoren verleent een melding als bedoeld in artikel 50, tweede lid, van de Wet toezicht trustkantoren heeft gedaan, tot het moment dat op de aanvraag voor een vergunning is beslist.
+Vrijstelling van het in artikel 2, eerste lid, van de Wet toezicht trustkantoren genoemde verbod wordt verleend aan natuurlijke personen, indien deze uitsluitend de dienst verlenen genoemd in artikel 1, onderdeel d, onder 1°, van de Wet toezicht trustkantoren aan doelvennootschappen waaraan tevens een dienst als bedoeld in artikel 1, onderdeel d, onder 2°, aanhef en onder iii), van de Wet toezicht trustkantoren wordt verleend door een trustkantoor met een vergunning als bedoeld in artikel 2, eerste lid, van de Wet toezicht trustkantoren, indien laatstgenoemde dienst ten minste het voeren van de administratie van deze doelvennootschappen betreft. 
 
 ### Artikel  3a  
 
@@ -56,7 +55,6 @@ c. bewindvoerders die:
 2.  Voor de toepassing van dit artikel wordt onder de begrippen ‘betaaldienstverlener’, ‘betaaldienstgebruiker’, ‘betaaldienst’ en ‘bewindvoerder’ verstaan: hetgeen daaronder in de Wet op het financieel toezicht wordt verstaan.  
 
 ### Artikel  3c  
-Treedt in werking per 01-02-2015 
 
 Vrijstelling van het in artikel 2, eerste lid, van de Wet toezicht trustkantoren genoemde verbod wordt verleend aan rechtspersonen, vennootschappen of natuurlijke personen die in hoofdzaak of uitsluitend diensten, genoemd in artikel 1, onderdeel d, van de Wet toezicht trustkantoren, verlenen aan verenigingen van eigenaars als bedoeld in Boek 5, titel 9, afdeling 2, van het Burgerlijk Wetboek. 
 

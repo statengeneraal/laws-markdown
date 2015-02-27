@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Economische Zaken van 27 november 2009, nr. WJZ/9214712, houdende regels met betrekking tot het centraal loket en het interne markt informatiesysteem (Dienstenregeling centraal loket en interne markt informatiesysteem)
 
 De Minister van Economische Zaken,  
-Gelet op de artikelen 6, 8 en 21 van richtlijn nr. 2006/123/EG van het Europees Parlement en de Raad van de Europese Unie van 12 december 2006 betreffende de diensten op de interne markt (PbEU L 376), de beschikking 2009/739/EG van de Commissie van 2 oktober 2009 tot vaststelling van de praktische regels voor de uitwisseling van informatie via elektronische middelen tussen de lidstaten uit hoofde van hoofdstuk VI van richtlijn nr. 2006/123/EG van het Europees Parlement en de Raad van de Europese Unie van 12 december 2006 betreffende de diensten op de interne markt (PbEU L 376), en de [artikelen 10](../../../../../../../../../wet/dienstenwet/BWBR0026759/README.md), [13, tweede lid](../../../../../../../../../wet/dienstenwet/BWBR0026759/README.md), [14, tweede lid](../../../../../../../../../wet/dienstenwet/BWBR0026759/README.md), [artikel 21](../../../../../../../../../wet/dienstenwet/BWBR0026759/README.md), [52](../../../../../../../../../wet/dienstenwet/BWBR0026759/README.md) en [60 van de Dienstenwet](../../../../../../../../../wet/dienstenwet/BWBR0026759/README.md), [artikel 8, van het Dienstenbesluit centraal loket](../../../../../../../../../AMvB/dienstenbesluit/centraal/loket/BWBR0026761/README.md) en [artikel 2:15, eerste lid, tweede volzin, van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);
+Gelet op de artikelen 6, 8 en 21 van richtlijn nr. 2006/123/EG van het Europees Parlement en de Raad van de Europese Unie van 12 december 2006 betreffende de diensten op de interne markt (PbEU L 376), de beschikking 2009/739/EG van de Commissie van 2 oktober 2009 tot vaststelling van de praktische regels voor de uitwisseling van informatie via elektronische middelen tussen de lidstaten uit hoofde van hoofdstuk VI van richtlijn nr. 2006/123/EG van het Europees Parlement en de Raad van de Europese Unie van 12 december 2006 betreffende de diensten op de interne markt (PbEU L 376), en de artikelen 10, 13, tweede lid, 14, tweede lid, artikel 21, 52 en 60 van de Dienstenwet, artikel 8, van het Dienstenbesluit centraal loket en artikel 2:15, eerste lid, tweede volzin, van de Algemene wet bestuursrecht;
 Besluit:     
 ### §  1  
 
@@ -25,11 +25,11 @@ e.  *koppelvlak voor procedureberichten*: het geheel van standaarden, bedoeld in
 
 f.  *machtigingsvoorziening berichtenbox:* een voorziening met behulp waarvan een dienstverrichter die toegang tot een voor hem aangemaakte berichtenbox heeft, die toegang kan uitbreiden en ongedaan maken voor personen die voor hem of haar werkzaam zijn en voor anderen die in zijn of haar opdracht betrokken zijn bij de afwikkeling van procedures en formaliteiten;  
 
-g.  *complex webformulier:* een door een bevoegde instantie vastgesteld formulier dat op procedures en formaliteiten betrekking heeft en waarbij met betrekking tot dit formulier is voldaan aan de voorwaarden, bedoeld in [artikel 4, tweede lid, van het Dienstenbesluit centraal loket](../../../../../../../../../AMvB/dienstenbesluit/centraal/loket/BWBR0026761/README.md);  
+g.  *complex webformulier:* een door een bevoegde instantie vastgesteld formulier dat op procedures en formaliteiten betrekking heeft en waarbij met betrekking tot dit formulier is voldaan aan de voorwaarden, bedoeld in artikel 4, tweede lid, van het Dienstenbesluit centraal loket;  
 
-h.  *verwijzingscatalogus loketinformatie:* een applicatie die het geheel aan door bevoegde instanties langs elektronische weg toegankelijk gemaakte complexe webformulieren en informatie, bedoeld in de [artikelen 8](../../../../../../../../../wet/dienstenwet/BWBR0026759/README.md) en [19 van de Dienstenwet](../../../../../../../../../wet/dienstenwet/BWBR0026759/README.md), samenhangend categoriseert met behulp van metagegevens;  
+h.  *verwijzingscatalogus loketinformatie:* een applicatie die het geheel aan door bevoegde instanties langs elektronische weg toegankelijk gemaakte complexe webformulieren en informatie, bedoeld in de artikelen 8 en 19 van de Dienstenwet, samenhangend categoriseert met behulp van metagegevens;  
 
-i. vervallen; 
+i. *meldings- en notificatiesysteem Dienstenwet:* een applicatie met behulp waarvan een bevoegde instantie de informatie, bedoeld in artikel 8, eerste lid, onderdeel a, van de Dienstenwet aanmaakt en beschikbaar stelt voor opname in de verwijzingscatalogus loketinformatie of het centraal loket;  
 
 j.  *betafase-berichtenbox:* een testversie van de berichtenbox waar een bevoegde instantie onder voorwaarden tot uiterlijk de inwerkingtreding van deze regeling toegang kon verkrijgen;  
 
@@ -87,7 +87,7 @@ Indien een verzonden procedurebericht een berichtenbox bereikt, wordt vanuit die
 
 ### Artikel  9  
 
-1.  De vernietigingstermijn, bedoeld in [artikel 13, tweede lid, van de Dienstenwet](../../../../../../../../../wet/dienstenwet/BWBR0026759/README.md), wordt gesteld op vijf jaren te rekenen vanaf de aanwezigheid van een bericht in een berichtenbox. Voor de toepassing van de vorige volzin wordt onder bericht tevens een afschrift van een bericht verstaan.   
+1.  De vernietigingstermijn, bedoeld in artikel 13, tweede lid, van de Dienstenwet, wordt gesteld op vijf jaren te rekenen vanaf de aanwezigheid van een bericht in een berichtenbox. Voor de toepassing van de vorige volzin wordt onder bericht tevens een afschrift van een bericht verstaan.   
 2.  Het centraal loket is zodanig ingericht dat ten minste zes weken voorafgaand aan een vernietiging van een bericht, bedoeld in het eerste lid, een automatisch aangemaakt bericht naar die berichtenbox wordt verzonden, waarin die vernietiging wordt aangekondigd.   
 3.  Bij de vernietiging van een bericht, bedoeld in het eerste lid, wordt tevens het bericht van aankondiging, bedoeld in het tweede lid, vernietigd.  
 
@@ -112,7 +112,7 @@ Indien een verzonden procedurebericht een berichtenbox bereikt, wordt vanuit die
 
 ### Artikel  13  
 
-De nodige maatregelen van technische en organisatorische aard ter beveiliging van het centraal loket, bedoeld in [artikel 7, eerste tot en met derde lid, van het Dienstenbesluit centraal loket](../../../../../../../../../AMvB/dienstenbesluit/centraal/loket/BWBR0026761/README.md) hebben in ieder geval betrekking op: 
+De nodige maatregelen van technische en organisatorische aard ter beveiliging van het centraal loket, bedoeld in artikel 7, eerste tot en met derde lid, van het Dienstenbesluit centraal loket hebben in ieder geval betrekking op: 
 
 a. het vaststellen en beschrijven van de functies, bevoegdheden en verantwoordelijkheden van de personen, werkzaam voor Onze Minister ten aanzien van het centraal loket, waarbij een duidelijk onderscheid wordt gemaakt tussen de aandachtsgebieden ontwikkeling en exploitatie van het centraal loket en tussen functioneel en technisch beheer daarvan;  
 
@@ -132,7 +132,7 @@ h. het doorgeven van wijzigingen in de aanmeldingsgegevens, bedoeld in de bijlag
 
 i. het voorkomen van misbruik van toegang tot een berichtenbox en de mogelijkheden tot herstel, tijdelijke opschorting of definitieve beëindiging van de toegang tot een berichtenbox in geval van misbruik, van dreiging van misbruik, of van verlies van toegangsgegevens;  
 
-j. het vaststellen en beschrijven van de functies, bevoegdheden en verantwoordelijkheden van de personen betrokken bij de verwerking van persoonsgegevens waarvoor Onze Minister verantwoordelijke is op grond van [artikel 16, tweede lid, van de Dienstenwet](../../../../../../../../../wet/dienstenwet/BWBR0026759/README.md);  
+j. het vaststellen en beschrijven van de functies, bevoegdheden en verantwoordelijkheden van de personen betrokken bij de verwerking van persoonsgegevens waarvoor Onze Minister verantwoordelijke is op grond van artikel 16, tweede lid, van de Dienstenwet;  
 
 k. het vaststellen en beschrijven van verantwoordelijkheden en te volgen werkprocessen in het geval van een calamiteit, waaronder de beschikbaarheid van uitwijkfaciliteiten voor dat geval.   
 
@@ -183,8 +183,9 @@ c. de verbinding, bedoeld onder b, op zodanige wijze tot stand brengt dat een di
 
 ### Artikel  19  
 
-1.  Ten behoeve van een goede uitvoering door Onze Minister van de [artikelen 7](../../../../../../../../../wet/dienstenwet/BWBR0026759/README.md) en [17, onderdelen a, c, en e, van de Dienstenwet](../../../../../../../../../wet/dienstenwet/BWBR0026759/README.md), voldoet een bevoegde instantie met betrekking tot de informatie, bedoeld in de [artikelen 8](../../../../../../../../../wet/dienstenwet/BWBR0026759/README.md) en [19 van de Dienstenwet](../../../../../../../../../wet/dienstenwet/BWBR0026759/README.md), aan de specificaties en kenmerken, bedoeld in paragraaf 5 van de bijlage van deze regeling, waardoor metagegevens die op die informatie betrekking hebben worden aangemaakt en beschikbaar worden gesteld voor opname in de verwijzingscatalogus loketinformatie.   
-2.  Een bevoegde instantie kan in plaats van te voldoen aan het eerste lid, metagegevens die op de informatie, bedoeld in het eerste lid, betrekking hebben, aanmaken en beschikbaar stellen voor opname in de verwijzingscatalogus loketinformatie met behulp van de hulpvoorziening loketinformatie.  
+1.  Ten behoeve van een goede uitvoering door Onze Minister van de artikelen 7 en 17, onderdelen a, c, en e, van de Dienstenwet, voldoet een bevoegde instantie met betrekking tot de informatie, bedoeld in de artikelen 8 en 19 van de Dienstenwet, aan de specificaties en kenmerken, bedoeld in paragraaf 5 van de bijlage van deze regeling, waardoor metagegevens die op die informatie betrekking hebben worden aangemaakt en beschikbaar worden gesteld voor opname in de verwijzingscatalogus loketinformatie.   
+2.  Een bevoegde instantie maakt voorts de informatie bedoeld in de artikelen 8, eerste lid, onderdeel a, en 19, onderdeel a, van de Dienstenwet voor zover deze betrekking heeft op de informatie, bedoeld in artikel 8, eerste lid, onderdeel a, van de Dienstenwet langs elektronische weg toegankelijk door middel van het meldings- en notificatiesysteem Dienstenwet.   
+3.  Het tweede lid is niet van toepassing op informatie die op het niveau van de rijksoverheid wordt vastgesteld.  
 
 ### §  3a  
 
@@ -192,15 +193,15 @@ c. de verbinding, bedoeld onder b, op zodanige wijze tot stand brengt dat een di
 
 ### Artikel  20a  
 
-1.  Voor de toepassing van [artikel 14, vijfde lid, van de Dienstenwet](../../../../../../../../../wet/dienstenwet/BWBR0026759/README.md) zijn de genoemde elektronische handtekeningen, bedoeld in de aanhef van dat artikellid de elektronische handtekeningen, die: 
+1.  Voor de toepassing van artikel 14, vijfde lid, van de Dienstenwet zijn de genoemde elektronische handtekeningen, bedoeld in de aanhef van dat artikellid de elektronische handtekeningen, die: 
 
-a. ten aanzien van de gebruikte methode voor authentificatie voldoen aan de eisen, bedoeld in [artikel van 15a, tweede lid, van Boek 3 van het Burgerlijk Wetboek](../../../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md),  
+a. ten aanzien van de gebruikte methode voor authentificatie voldoen aan de eisen, bedoeld in artikel van 15a, tweede lid, van Boek 3 van het Burgerlijk Wetboek,  
 
-b. ten aanzien van de gebruikte methode voor authentificatie voldoen aan de eisen, bedoeld in [artikel van 15a, tweede lid, van Boek 3 van het Burgerlijk Wetboek](../../../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), met uitzondering van het tweede lid, onderdeel f, of  
+b. ten aanzien van de gebruikte methode voor authentificatie voldoen aan de eisen, bedoeld in artikel van 15a, tweede lid, van Boek 3 van het Burgerlijk Wetboek, met uitzondering van het tweede lid, onderdeel f, of  
 
 c. een met elektronische middelen aangemaakte kopie zijn van een van oorsprong handgeschreven handtekening, die met behulp van elektronische middelen op eenvoudige wijze langs elektronische weg toegankelijk is voor de ontvanger er van.     
-2.  Voor de toepassing van [artikel 14, vijfde lid, van de Dienstenwet](../../../../../../../../../wet/dienstenwet/BWBR0026759/README.md) is de elektronische handtekening met het laagste niveau van betrouwbaarheid, bedoeld in onderdeel b van dat artikellid, de elektronische handtekening, bedoeld in het eerste lid, onderdeel c.   
-3.  Het eerste lid is niet van toepassing op een elektronische handtekening, bedoeld in het eerste lid, onderdeel a of b, indien daarbij gebruik is gemaakt van een gekwalificeerd certificaat als bedoeld in [artikel 1.1, onderdeel tt, van de Telecommunicatiewet](../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), waarbij de naam van de ondertekenaar die in dat certificaat staat vermeld een als zodanig geïdentificeerd pseudoniem betreft.  
+2.  Voor de toepassing van artikel 14, vijfde lid, van de Dienstenwet is de elektronische handtekening met het laagste niveau van betrouwbaarheid, bedoeld in onderdeel b van dat artikellid, de elektronische handtekening, bedoeld in het eerste lid, onderdeel c.   
+3.  Het eerste lid is niet van toepassing op een elektronische handtekening, bedoeld in het eerste lid, onderdeel a of b, indien daarbij gebruik is gemaakt van een gekwalificeerd certificaat als bedoeld in artikel 1.1, onderdeel tt, van de Telecommunicatiewet, waarbij de naam van de ondertekenaar die in dat certificaat staat vermeld een als zodanig geïdentificeerd pseudoniem betreft.  
 
 ### Artikel  20b  
 
@@ -212,7 +213,7 @@ Het centraal loket is zodanig ingericht dat het ten behoeve van de bevoegde inst
 
 ### Artikel  21  
 
-Het contactpunt, bedoeld in [artikel 55 van de Dienstenwet](../../../../../../../../../wet/dienstenwet/BWBR0026759/README.md), vervult in het interne markt informatiesysteem de functionaliteiten van: 
+Het contactpunt, bedoeld in artikel 55 van de Dienstenwet, vervult in het interne markt informatiesysteem de functionaliteiten van: 
 
 a. IMI-coördinator, bedoeld in artikel 1, tweede lid, van de Uitvoeringsbeschikking IMI;  
 
@@ -222,12 +223,12 @@ c. coördinator, bedoeld in artikel 4, onderdeel d, van de Uitvoeringsbeschikkin
 
 ### Artikel  22  
 
-1.  Een bevoegde instantie neemt een verzoek als bedoeld in de [artikelen 37](../../../../../../../../../wet/dienstenwet/BWBR0026759/README.md), [40](../../../../../../../../../wet/dienstenwet/BWBR0026759/README.md) of [41 van de Dienstenwet](../../../../../../../../../wet/dienstenwet/BWBR0026759/README.md) in behandeling door het verzoek via het interne markt informatiesysteem te accepteren of het door te zenden naar een andere bevoegde instantie of naar het contactpunt.   
-2.  Een bevoegde instantie kan via het interne markt informatiesysteem ten aanzien van een verzoek als bedoeld in de [artikelen 37](../../../../../../../../../wet/dienstenwet/BWBR0026759/README.md), [39 tot en met 41](../../../../../../../../../wet/dienstenwet/BWBR0026759/README.md) of [44 van de Dienstenwet](../../../../../../../../../wet/dienstenwet/BWBR0026759/README.md) aanvullende informatie verzoeken of verzenden.  
+1.  Een bevoegde instantie neemt een verzoek als bedoeld in de artikelen 37, 40 of 41 van de Dienstenwet in behandeling door het verzoek via het interne markt informatiesysteem te accepteren of het door te zenden naar een andere bevoegde instantie of naar het contactpunt.   
+2.  Een bevoegde instantie kan via het interne markt informatiesysteem ten aanzien van een verzoek als bedoeld in de artikelen 37, 39 tot en met 41 of 44 van de Dienstenwet aanvullende informatie verzoeken of verzenden.  
 
 ### Artikel  23  
 
-1.  Via het interne markt informatiesysteem kan een bevoegde instantie die betrokken is bij een of meer eisen of vergunningstelsels als bedoeld in [artikel 2 van de Dienstenwet](../../../../../../../../../wet/dienstenwet/BWBR0026759/README.md) ten aanzien van een door hem verzonden kennisgeving als bedoeld in [artikel 51 van de Dienstenwet](../../../../../../../../../wet/dienstenwet/BWBR0026759/README.md): 
+1.  Via het interne markt informatiesysteem kan een bevoegde instantie die betrokken is bij een of meer eisen of vergunningstelsels als bedoeld in artikel 2 van de Dienstenwet ten aanzien van een door hem verzonden kennisgeving als bedoeld in artikel 51 van de Dienstenwet: 
 
 a. aanvullende informatie verzenden;  
 
@@ -236,7 +237,7 @@ b. informatie opgenomen in deze kennisgeving corrigeren;
 c. een voorstel verzenden tot het sluiten van de kennisgeving;  
 
 d. zich verzetten tegen een voorstel tot het sluiten van de kennisgeving.     
-2.  Via het interne markt informatiesysteem kan een bevoegde instantie een door hem verzonden kennisgeving als bedoeld in het eerste lid intrekken, indien deze niet voldoet aan de eisen, genoemd in [artikel 51, eerste lid, van de Dienstenwet](../../../../../../../../../wet/dienstenwet/BWBR0026759/README.md).   
+2.  Via het interne markt informatiesysteem kan een bevoegde instantie een door hem verzonden kennisgeving als bedoeld in het eerste lid intrekken, indien deze niet voldoet aan de eisen, genoemd in artikel 51, eerste lid, van de Dienstenwet.   
 3.  Een bevoegde instantie als bedoeld in het eerste lid die op grond van artikel 29, derde lid, of artikel 32, eerste lid, van de richtlijn een kennisgeving ontvangt van een bevoegde instantie uit een andere lidstaat kan via het interne markt informatiesysteem ten aanzien daarvan: 
 
 a. aanvullende informatie verzoeken;  
@@ -275,7 +276,7 @@ M.J.A. van der Hoeven
 
 ### Bijlage 
 
-####behorende bij de artikelen 1 , 15, eerste en derde lid , 16, eerste lid , en 18, eerste lid 
+####behorende bij de artikelen 1 , 15, eerste en derde lid , 16, eerste lid,  18, eerste lid , en 19, eerste lid 
 
 ### §  1a  
 
@@ -337,5 +338,5 @@ b. het e-mailadres waarnaar een automatisch aangemaakt bericht, bedoeld in artik
 
 ####Specificaties en kenmerken metagegevens complexe webformulieren
 
-Onder de specificaties en kenmerken, bedoeld in artikel 18, eerste lid, onderdeel a, wordt verstaan het geheel aan specificaties en kenmerken die in de standaard voor Samenwerkende Catalogi versie 2.1 is opgenomen. 
+Onder de specificaties en kenmerken, bedoeld in artikel 18, eerste lid, onderdeel a, wordt verstaan het geheel aan specificaties en kenmerken die in de standaard voor Samenwerkende Catalogi versie 4.0 is opgenomen. 
 

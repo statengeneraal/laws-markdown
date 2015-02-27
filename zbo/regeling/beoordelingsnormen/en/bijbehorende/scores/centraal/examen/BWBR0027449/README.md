@@ -3,14 +3,14 @@
 ##Regeling van het College voor Examens van 24 maart 2010, nr. CvE-10.0362, houdende vaststelling van de beoordelingsnormen en de daarbij behorende scores voor het centraal examen vwo, havo, vmbo (Regeling beoordelingsnormen en bijbehorende scores centraal examen)
 
 Het College voor Examens,  
-Gelet op [artikel 2, tweede lid, aanhef en onderdeel d, en achtste lid van de Wet College voor examens](../../../../../../../../../wet/wet/college/voor/examens/BWBR0025364/README.md);
+Gelet op artikel 2, tweede lid, aanhef en onderdeel d, en achtste lid van de Wet College voor examens;
 Besluit:    
 
 ### Artikel  1  
 
 ####Begripsbepalingen
 
-1.  In deze regeling gelden de begripsbepalingen die zijn gegeven in [artikel 1 van het Eindexamenbesluit v.w.o.- h.a.v.o.-m.a.v.o.-v.b.o](../../../../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md).   
+1.  In deze regeling gelden de begripsbepalingen die zijn gegeven in artikel 1 van het Eindexamenbesluit v.w.o.- h.a.v.o.-m.a.v.o.-v.b.o.   
 2.  Voorts wordt in deze regeling verstaan onder: 
 
 * ’voorzitter’: de voorzitter van het College voor Examens;  
@@ -25,11 +25,11 @@ Besluit:
 
 * ’opgave’: enige bij elkaar behorende opdrachten in een toets die als zodanig zijn aangemerkt;  
 
-* ’praktische toets’ : het in [artikel 41 a van het Eindexamenbesluit](../../../../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) genoemd praktische gedeelte van het centraal examen v.m.b.o., onderscheiden in een cspe (centraal schriftelijk en praktisch examen) voor de beroepsgerichte vakken en een cpe (centraal praktisch examen) voor de beeldende vakken;  
+* ’praktische toets’ : het in artikel 41 a van het Eindexamenbesluit genoemd praktische gedeelte van het centraal examen v.m.b.o., onderscheiden in een cspe (centraal schriftelijk en praktisch examen) voor de beroepsgerichte vakken en een cpe (centraal praktisch examen) voor de beeldende vakken;  
 
 * ’tweede examinator’: de door de directeur aangewezen medebeoordelaar van een examentoets;  
 
-* ’Examenbesluit’ : het [Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o](../../../../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md), dan wel het Staatsexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o. 2000.    
+* ’Examenbesluit’ : het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o, dan wel het Staatsexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o. 2000.    
 
 ### Artikel  2  
 
@@ -37,7 +37,7 @@ Besluit:
 
 1.  De beoordelingsnormen voor de centrale examens worden weergegeven in een correctievoorschrift bij iedere toets. Dit bestaat uit: 
 
-a. regels voor de beoordeling, op grond van het [Examenbesluit](../../../../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md);  
+a. regels voor de beoordeling, op grond van het Examenbesluit;  
 
 b. algemene regels, op grond van deze regeling;  
 
@@ -98,7 +98,7 @@ De vakspecifieke regels en het beoordelingsmodel bij iedere toets, bedoeld in ar
 1.  Indien de examinator of de gecommitteerde meent dat in een toets of in het beoordelingsmodel bij die toets een fout of onvolkomenheid zit, beoordeelt hij het werk van de kandidaten alsof toets en beoordelingsmodel juist zijn.   
 2.  Degene die in de toets of het beoordelingsmodel een fout of onvolkomenheid meent te hebben geconstateerd kan deze fout aan het College voor Examens meedelen.   
 3.  Deze mededeling wordt voorgelegd aan de desbetreffende vakcommissie, en indien deze de mededeling als juist aanmerkt, kan de vakcommissie de voorzitter adviseren een beslissing op grond van artikel 10 te nemen.   
-4.  Het is niet toegestaan zelfstandig af te wijken van het beoordelingsmodel. Met een eventuele fout wordt bij de bepaling van het cijfer voor het centraal examen zoals bedoeld in [artikel tweede lid onder e, van de wet College voor Examens](../../../../../../../../../wet/wet/college/voor/examens/BWBR0025364/README.md), rekening gehouden.  
+4.  Het is niet toegestaan zelfstandig af te wijken van het beoordelingsmodel. Met een eventuele fout wordt bij de bepaling van het cijfer voor het centraal examen zoals bedoeld in artikel tweede lid onder e, van de wet College voor Examens, rekening gehouden.  
 
 ### Artikel  8  
 
@@ -158,7 +158,7 @@ Deze regeling treedt in werking op 1 april 2010.
 
 ####Intrekking
 
-De [Regeling beoordeling centraal examen 2009](../../../../../../../../../zbo/regeling/beoordeling/centraal/examen/BWBR0025858/README.md) wordt ingetrokken. 
+De Regeling beoordeling centraal examen 2009 wordt ingetrokken. 
 
 ### Artikel  17  
 
@@ -175,7 +175,7 @@ H.W. Laan
 
 ####Inrichting correctievoorschrift centraal (schriftelijk) examen
 
-Bij elke toets hoort een correctievoorschrift, waarin de relevante bepalingen van het [Eindexamenbesluit vwo-havo- mavo-vbo](../../../../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) en van de onderhavige regeling beoordeling centraal examen zijn opgenomen. Het correctievoorschrift bestaat uit de onderdelen 
+Bij elke toets hoort een correctievoorschrift, waarin de relevante bepalingen van het Eindexamenbesluit vwo-havo- mavo-vbo en van de onderhavige regeling beoordeling centraal examen zijn opgenomen. Het correctievoorschrift bestaat uit de onderdelen 
 
 1. Regels voor de beoordeling  
 
@@ -189,7 +189,7 @@ Bij elke toets hoort een correctievoorschrift, waarin de relevante bepalingen va
 
 ####Regels voor de beoordeling
 
-Het werk van de kandidaten wordt beoordeeld met inachtneming van de [artikelen 41](../../../../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) en [42 van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o](../../../../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md). Voorts heeft het College voor Examens op grond van [artikel 2 lid 2d van de Wet CvE](../../../../../../../../../wet/wet/college/voor/examens/BWBR0025364/README.md) de Regeling beoordelingsnormen en bijbehorende scores centraal examen vastgesteld. Voor de beoordeling zijn de volgende passages van de [artikelen 36](../../../../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md), [41](../../../../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md), [41a](../../../../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) en [42 van het Eindexamenbesluit](../../../../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) van belang: 
+Het werk van de kandidaten wordt beoordeeld met inachtneming van de artikelen 41 en 42 van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o. Voorts heeft het College voor Examens op grond van artikel 2 lid 2d van de Wet CvE de Regeling beoordelingsnormen en bijbehorende scores centraal examen vastgesteld. Voor de beoordeling zijn de volgende passages van de artikelen 36, 41, 41a en 42 van het Eindexamenbesluit van belang: 
 
 1. De directeur doet het gemaakte werk met een exemplaar van de opgaven, de beoordelingsnormen en het proces verbaal van het examen toekomen aan de examinator. Deze kijkt het werk na en zendt het met zijn beoordeling aan de directeur. De examinator past de beoordelingsnormen en de regels voor het toekennen van scorepunten toe die zijn gegeven door het College voor Examens.  
 
@@ -275,7 +275,7 @@ Het correctievoorschrift bestaat uit:
 
 ####Regels voor de beoordeling
 
-Het werk van de kandidaten wordt beoordeeld met inachtneming van de [artikelen 41](../../../../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md), [41a](../../../../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) en [42 van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o](../../../../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md). Voorts heeft het College voor Examens op grond van [artikel 2 lid 2d van de Wet CvE](../../../../../../../../../wet/wet/college/voor/examens/BWBR0025364/README.md) de Regeling beoordelingsnormen en bijbehorende scores centraal examen vastgesteld. Voor de beoordeling zijn op grond van de [artikelen 41](../../../../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md), [41a](../../../../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) en [42 van het Eindexamenbesluit](../../../../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) de volgende passages van belang. 
+Het werk van de kandidaten wordt beoordeeld met inachtneming van de artikelen 41, 41a en 42 van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o. Voorts heeft het College voor Examens op grond van artikel 2 lid 2d van de Wet CvE de Regeling beoordelingsnormen en bijbehorende scores centraal examen vastgesteld. Voor de beoordeling zijn op grond van de artikelen 41, 41a en 42 van het Eindexamenbesluit de volgende passages van belang. 
 
 1. De directeur doet een exemplaar van de opdrachten en de beoordelingsnormen van het examen toekomen aan de examinator.  
 
@@ -291,7 +291,7 @@ Het werk van de kandidaten wordt beoordeeld met inachtneming van de [artikelen 4
 
 ####Algemene regels
 
-Voor de beoordeling van het examenwerk zijn de volgende bepalingen uit de [Regeling beoordeling centraal examen](../../../../../../../../../zbo/regeling/beoordeling/centraal/examen/BWBR0025858/README.md) van toepassing: 
+Voor de beoordeling van het examenwerk zijn de volgende bepalingen uit de Regeling beoordeling centraal examen van toepassing: 
 
 1. De examinator vermeldt op het beoordelingsschema de namen en/of nummers van de kandidaten, het aan iedere kandidaat voor iedere opdracht toegekende aantal scorepunten en het totaal aantal scorepunten van iedere kandidaat.  
 
@@ -347,7 +347,7 @@ Het cijfer voor het cspe wordt als volgt verkregen. De examinator en de tweede e
 
 1  *Voor wat betreft de vakspecifieke regels, beoordelingsmodellen per toets en de daarbij behorende scores geldt het volgende rooster van bekendmaking*  
 
-a. De vakspecifieke regels, beoordelingsmodellen en de daarbij behorende scores vermeld in de tabellen worden bekendgemaakt uiterlijk 4 uur nadat de examenzitting van het betreffende vak is beëindigd conform de [regeling Rooster en toegestane hulpmiddelen voor de centrale examens van de eindexamens en de staatsexamens vwo, havo en vmbo in 2014](../../../../../../../../../zbo/regeling/rooster/en/toegestane/hulpmiddelen/voor/de/centrale/examens/van/etc/BWBR0032054/README.md), voor wat betreft de tabellen: 1a, 1b, 2a, 2b, 3a, 3b, 4a, 4b, 5a en 5b.  
+a. De vakspecifieke regels, beoordelingsmodellen en de daarbij behorende scores vermeld in de tabellen worden bekendgemaakt uiterlijk 4 uur nadat de examenzitting van het betreffende vak is beëindigd conform de regeling Rooster en toegestane hulpmiddelen voor de centrale examens van de eindexamens en de staatsexamens vwo, havo en vmbo in 2014, voor wat betreft de tabellen: 1a, 1b, 2a, 2b, 3a, 3b, 4a, 4b, 5a en 5b.  
 
 b. De vakspecifieke regels, beoordelingsmodellen en scores behorend bij de tabellen 1c, 1d, 2c, 2d, 3c, 3d, 4c 4d, 5c, 5d en 6 worden niet eerder bekend gemaakt dan nadat het College voor Examens heeft vastgesteld dat de betreffende opgaven niet meer onderdeel van een toets van een centraal examen zullen uitmaken.  
 
@@ -1057,5 +1057,5 @@ Tabel 5f basisberoepsgerichte leerweg 2014, beroepsgerichte programma's
 | de aangepaste toets die voor kandidaten met dyslexie/ernstige rekenproblemen in de plaats komt van de rekentoets 3F  |
 | de aangepaste toets die voor kandidaten met dyslexie/ernstige rekenproblemen in de plaats komt van de rekentoets 2F  |
 
-De rekentoets VO wordt digitaal afgenomen en bevat uitsluitend automatisch scoorbare vragen. Dientengevolge staat de rekentoets niet onder toezicht van een of meer gecommitteerden ([artikel 46 lid 6 Eindexamenbesluit VO](../../../../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md)). 
+De rekentoets VO wordt digitaal afgenomen en bevat uitsluitend automatisch scoorbare vragen. Dientengevolge staat de rekentoets niet onder toezicht van een of meer gecommitteerden (artikel 46 lid 6 Eindexamenbesluit VO). 
 

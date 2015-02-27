@@ -98,7 +98,7 @@ a.de aanvoerder van zeevis:
 
 1°.4,86 promille van de waarde van de door hem aangevoerde zeevis, voor zover het betreft met een kotter aangevoerde zeevis en met uitzondering van garnalen;
 
-2°.3,19 promille van de waarde van de door hem aangevoerde zeevis, voor zover het betreft met een trawler aangevoerde zeevis en met uitzondering van garnalen;
+2°.2,04 promille van de waarde van de door hem aangevoerde zeevis, voor zover het betreft met een trawler aangevoerde zeevis;
 
 b.de aanvoerder van vis verkregen door uitoefening van de binnenvisserij:
 

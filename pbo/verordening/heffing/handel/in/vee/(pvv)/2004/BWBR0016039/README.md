@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Vee en Vlees van 10 december 2003, houdende vaststelling van een huishoudelijke heffing ten behoeve van het Productschap Vee en Vlees voor het jaar 2004 (Verordening heffing handel in vee (PVV) 2004)
 
 Het bestuur van het Productschap Vee en Vlees;
-Gelet op [artikel 126 van de Wet op de Bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en de artikelen 10 en 15 van de Instellingsverordening Productschap Vee en Vlees 1999-I dan wel de [artikelen 10](../../../../../../../../../AMvB/instellingsbesluit/productschap/vee/en/vlees/BWBR0016491/README.md) en [12 van het Instellingsbesluit Productschap Vee en Vlees](../../../../../../../../../AMvB/instellingsbesluit/productschap/vee/en/vlees/BWBR0016491/README.md) zodra dit in werking is getreden;
+Gelet op artikel 126 van de Wet op de Bedrijfsorganisatie, en de artikelen 10 en 15 van de Instellingsverordening Productschap Vee en Vlees 1999-I dan wel de artikelen 10 en 12 van het Instellingsbesluit Productschap Vee en Vlees zodra dit in werking is getreden;
 Besluit:
 
 ###Artikel 1 

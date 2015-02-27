@@ -4175,7 +4175,7 @@ c. waren, die ter aanduiding van herkomst, valselijk van de naam van een bepaald
 
 d. waren, waarop of op de verpakking waarvan een handelsnaam van een ander of een merk waarop een ander recht heeft, zij het dan ook met een geringe afwijking, is nagebootst of  
 
-e. waren of onderdelen daarvan die valselijk hetzelfde uiterlijk vertonen als een tekening of model waarop een ander recht heeft, dan wel daarmede slechts ondergeschikte verschillen vertonen, invoert, doorvoert of uitvoert, verkoopt, te koop aanbiedt, aflevert, uitdeelt of in voorraad heeft, wordt gestraft met gevangenisstraf van ten hoogste één jaar of geldboete van de vijfde categorie.     
+e. waren of onderdelen daarvan die valselijk hetzelfde uiterlijk vertonen als een tekening of model waarop een ander recht heeft, dan wel daarmede slechts ondergeschikte verschillen vertonen,    invoert, doorvoert of uitvoert, verkoopt, te koop aanbiedt, aflevert, uitdeelt of in voorraad heeft, wordt gestraft met gevangenisstraf van ten hoogste één jaar of geldboete van de vijfde categorie.  
 2.  Niet strafbaar is hij die enkele waren, onderdelen daarvan of merken als omschreven in het eerste lid in voorraad heeft uitsluitend voor eigen gebruik.   
 3.  Indien de schuldige van het plegen van het misdrijf, genoemd in het eerste lid, zijn beroep maakt of het plegen van dit misdrijf als bedrijf uitoefent, wordt hij gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vijfde categorie.   
 4.   Indien door het plegen van het misdrijf, genoemd in het eerste lid, gemeen gevaar voor personen of goederen te duchten is, wordt de schuldige gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vijfde categorie.  

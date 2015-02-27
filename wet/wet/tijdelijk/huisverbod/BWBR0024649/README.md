@@ -23,7 +23,7 @@ c.  *uithuisgeplaatste:* degene aan wie een huisverbod is opgelegd.
 
 1.  De burgemeester kan een huisverbod opleggen aan een persoon indien uit feiten of omstandigheden blijkt dat diens aanwezigheid in de woning ernstig en onmiddellijk gevaar oplevert voor de veiligheid van één of meer personen die met hem in de woning wonen of daarin anders dan incidenteel verblijven of indien op grond van feiten of omstandigheden een ernstig vermoeden van dit gevaar bestaat. Het verbod geldt voor een periode van tien dagen, behoudens verlenging overeenkomstig artikel 9. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld over de aard van de feiten en omstandigheden die aanleiding kunnen geven om een huisverbod op te leggen.   
 2.  Een huisverbod kan slechts worden opgelegd aan een meerderjarig persoon.   
-3.  Indien de burgemeester voornemens is het huisverbod op te leggen wegens kindermishandeling of een ernstig vermoeden daarvan, neemt hij contact op met de stichting, bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg teneinde te overleggen over het voornemen om een huisverbod op te leggen.   
+3.  Indien de burgemeester voornemens is het huisverbod op te leggen wegens kindermishandeling of een ernstig vermoeden daarvan, neemt hij contact op met het advies- en meldpunt huiselijk geweld en kindermishandeling, bedoeld in artikel 4.1.1 van de Wet maatschappelijke ondersteuning 2015 teneinde te overleggen over het voornemen om een huisverbod op te leggen.   
 4.  Het huisverbod bevat in ieder geval: 
 
 a. een omschrijving van de plaats en de duur waarvoor het geldt;  
@@ -81,7 +81,7 @@ a. de echtgenoot, geregistreerde partner, andere levensgezel of andere meerderja
 
 b. de politie van de gemeente waar het huisverbod is opgelegd;  
 
-c. ingeval er minderjarigen betrokken zijn: de stichting, bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg.     
+c. ingeval er minderjarigen betrokken zijn: het advies- en meldpunt huiselijk geweld en kindermishandeling, bedoeld in artikel 4.1.1 van de Wet maatschappelijke ondersteuning 2015.     
 2.  De griffier stelt de uithuisgeplaatste, de raadsman van de uithuisgeplaatste en de burgemeester onverwijld mondeling op de hoogte van de uitspraak. De burgemeester stelt de personen, bedoeld in het eerste lid, onder a, voor zover zij niet aanwezig waren ter zitting waarop de uitspraak werd gedaan, en de politie onverwijld mondeling op de hoogte van de uitspraak.  
 
 ### Artikel  9  

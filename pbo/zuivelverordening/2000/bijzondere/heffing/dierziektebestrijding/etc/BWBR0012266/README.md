@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Zuivel van 21 februari 2001, houdende bijzondere heffing ten behoeve van dierziektebestrijding in de melkveehouderij (Zuivelverordening 2000, Bijzondere heffing dierziektebestrijding melkveehouderij)
 
 Het bestuur van het Productschap Zuivel;
-Gelet op [artikel 126, eerste lid, van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en artikel 9 van de Instellingsverordening Produktschap Zuivel;
+Gelet op artikel 126, eerste lid, van de Wet op de bedrijfsorganisatie en artikel 9 van de Instellingsverordening Produktschap Zuivel;
 Besluit:
 
 ###Artikel 1 

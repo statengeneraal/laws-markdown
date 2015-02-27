@@ -3,7 +3,7 @@
 ##Verordening van het Hoofdbedrijfschap Ambachten van 1 oktober 2003, houdende regels terzake van de door het hoofdbedrijfschap aan de ondernemers die het bitumineuze dakbedekkingsbedrijf uitoefenen op te leggen bestemmingsheffing bitumineuze dakbedekkingsbedrijf voor het jaar 2004 (Heffingsverordening bitumineus dakbedekkingsbedrijf 2004)
 
 Het bestuur van het Hoofdbedrijfschap Ambachten;
-Gelet op [artikel 95, tweede lid](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+Gelet op artikel 95, tweede lid en 126 van de Wet op de bedrijfsorganisatie;
 
 Gezien het verzoek van de Vereniging Dakbedekkingsbranche Nederland (VEBIDAK);
 Besluit:
@@ -70,7 +70,7 @@ b.de Vereniging Dakbedekkingsbranche Nederland (VEBIDAK)en over het jaar 2003 co
 
 a.krachtens haar statutaire doelstelling haar werkzaamheid kan uitstrekken tot ten minste een belangrijk gedeelte van het terrein waarop het bedrijfslichaam een taak heeft te vervullen,
 
-b.voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de [artikelen 3 tot en met 7 van de Verordening representativiteit organisaties](../../../../../../pbo/verordening/representativiteit/organisaties/BWBR0011641/README.md),
+b.voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de artikelen 3 tot en met 7 van de Verordening representativiteit organisaties,
 
 c.tot de werkingssfeer van het bedrijfslichaam behorende leden heeft, waarvan het gewogen aantal niet-onbetekenend is,
 
@@ -106,7 +106,7 @@ Materieel uitgewerkt per 12-02-2005
 ###Artikel 7 
 Materieel uitgewerkt per 12-02-2005 
 
-De [artikelen 5 tot en met 14 van de heffingsverordening Hoofdbedrijfschap Ambachten 2004](../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/ambachten/2004/BWBR0015665/README.md) zijn van overeenkomstige toepassing.
+De artikelen 5 tot en met 14 van de heffingsverordening Hoofdbedrijfschap Ambachten 2004 zijn van overeenkomstige toepassing.
 
 ###Artikel 8 
 Materieel uitgewerkt per 12-02-2005 

@@ -3,7 +3,7 @@
 ##Verordening van het Hoofdbedrijfschap Detailhandel van 17 december 2003, houdende vaststelling bestemmingsheffing ten behoeve van de Afdeling Markt-, Straat- en Rivierhandel voor het jaar 2004 (Verordening bestemmingsheffing ambulante handel 2004)
 
 Het bestuur van het Hoofdbedrijfschap Detailhandel;
-Gelet op de [artikelen 95, tweede lid](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de Bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+Gelet op de artikelen 95, tweede lid en 126 van de Wet op de Bedrijfsorganisatie;
 
 Gezien het advies van de Afdeling Markt-, Straat- en Rivierhandel;
 Besluit:
@@ -27,7 +27,7 @@ c.de voorzitter: de voorzitter van het Hoofdbedrijfschap Detailhandel.
 ###Artikel 2 
 Materieel uitgewerkt per 12-03-2005 
 
-In deze verordening zijn de begripsbepalingen van de [Heffingsverordening Hoofdbedrijfschap Detailhandel 2004](../../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/detailhandel/2004/BWBR0016161/README.md) van overeenkomstige toepassing.
+In deze verordening zijn de begripsbepalingen van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2004 van overeenkomstige toepassing.
 
 ###Artikel 3 
 Materieel uitgewerkt per 12-03-2005 
@@ -53,7 +53,7 @@ Materieel uitgewerkt per 12-03-2005
 
 a.krachtens haar statutaire doelstelling haar werkzaamheid kan uitstrekken tot ten minste een belangrijk gedeelte van het terrein waarop het bedrijfslichaam een taak heeft te vervullen,
 
-b.voldoet aan de kwalitatieve representativiteitcriteria, genoemd in de [artikelen 3 tot en met 7 van de Verordening representativiteit organisaties](../../../../../../../pbo/verordening/representativiteit/organisaties/BWBR0011641/README.md),
+b.voldoet aan de kwalitatieve representativiteitcriteria, genoemd in de artikelen 3 tot en met 7 van de Verordening representativiteit organisaties,
 
 c.tot de werkingssfeer van het bedrijfslichaam behorende leden heeft, waarvan het gewogen aantal niet-onbetekenend is,
 
@@ -72,7 +72,7 @@ Materieel uitgewerkt per 12-03-2005
 ###Artikel 6 
 Materieel uitgewerkt per 12-03-2005 
 
-1. De [artikelen 6 tot en met 17 van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2004](../../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/detailhandel/2004/BWBR0016161/README.md) zijn van overeenkomstige toepassing.
+1. De artikelen 6 tot en met 17 van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2004 zijn van overeenkomstige toepassing.
 2. In afwijking van het bepaalde in het eerste lid is artikel 6, eerste lid van de Heffingsverordening HBD 2004, niet van overeenkomstige toepassing indien de ondernemer , die met de uitoefening van zijn bedrijf op of na 1 oktober 2004 is gestart, een bewijs van registratie wenst te ontvangen. De heffing bedraagt in dat geval 50% van de volgens deze verordening berekende heffing. Het gewenste bewijs van registratie wordt zo spoedig mogelijk na betaling van deze heffing ter beschikkinggesteld.
 
 ###Artikel 7 

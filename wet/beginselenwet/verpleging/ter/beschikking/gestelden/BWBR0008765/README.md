@@ -191,8 +191,8 @@ c. de hoorplicht als bedoeld in artikel 53 en de mededelingsplicht als bedoeld i
 ### Artikel  7b  
 
 1.  Het hoofd van de inrichting stelt voor personeelsleden en medewerkers een meldcode vast waarin stapsgewijs wordt aangegeven hoe met signalen van huiselijk geweld of kindermishandeling wordt omgegaan en die er redelijkerwijs aan bijdraagt dat zo snel en adequaat mogelijk hulp kan worden geboden.   
-2.  Onder huiselijk geweld wordt verstaan: huiselijk geweld als bedoeld in artikel 1, eerste lid, van de Wet maatschappelijke ondersteuning.   
-3.  Onder kindermishandeling wordt verstaan: kindermishandeling als bedoeld in artikel 1 van de Wet op de jeugdzorg.   
+2.  Onder huiselijk geweld wordt verstaan: huiselijk geweld als bedoeld in artikel 1.1.1 van de Wet maatschappelijke ondersteuning 2015.   
+3.  Onder kindermishandeling wordt verstaan: kindermishandeling als bedoeld in artikel 1.1 van de Jeugdwet.   
 4.  Het hoofd van de inrichting bevordert de kennis en het gebruik van de meldcode.   
 5.  Bij of krachtens algemene maatregel van bestuur wordt vastgesteld uit welke elementen een meldcode in ieder geval bestaat.  
 
@@ -650,8 +650,8 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrek
 a. voor zover dit voortvloeit uit een aan de uitbreiding van zijn bewegingsvrijheid verbonden voorwaarde als bedoeld in artikel 31, vierde lid, of  
 
 b. deze werkzaamheden van huishoudelijke aard zijn en betrekking hebben op de ruimten waar zij verblijven, de persoonlijke verblijfsruimte daaronder begrepen.     
-2.  Voor het verrichten van werkzaamheden, met uitzondering van de in het eerste lid, onder *b*, omschreven werkzaamheden, heeft de verpleegde recht op een door Onze Minister vast te stellen vergoeding. Deze vergoeding wordt bij de vaststelling van het bijdrageplichtig inkomen overeenkomstig het bepaalde bij of krachtens de Algemene Wet Bijzondere Ziektekosten buiten beschouwing gelaten.   
-3.  De verpleegde is niet verplicht buiten de inrichting arbeid te verrichten, behoudens voor zover dit voortvloeit uit een aan het verlof of het proefverlof verbonden voorwaarde als bedoeld in artikel 50, tweede lid, onderscheidenlijk artikel 51, tweede lid. Indien de verpleegde buiten de inrichting arbeid verricht, blijft het door hem verdiende arbeidsloon zijn eigendom, onverminderd het bepaalde bij of krachtens de Algemene Wet Bijzondere Ziektekosten.   
+2.  Voor het verrichten van werkzaamheden, met uitzondering van de in het eerste lid, onder *b*, omschreven werkzaamheden, heeft de verpleegde recht op een door Onze Minister vast te stellen vergoeding. Deze vergoeding wordt bij de vaststelling van het bijdrageplichtig inkomen overeenkomstig het bepaalde bij of krachtens de Wet langdurige zorg buiten beschouwing gelaten.   
+3.  De verpleegde is niet verplicht buiten de inrichting arbeid te verrichten, behoudens voor zover dit voortvloeit uit een aan het verlof of het proefverlof verbonden voorwaarde als bedoeld in artikel 50, tweede lid, onderscheidenlijk artikel 51, tweede lid. Indien de verpleegde buiten de inrichting arbeid verricht, blijft het door hem verdiende arbeidsloon zijn eigendom, onverminderd het bepaalde bij of krachtens de Wet langdurige zorg.   
 
 ### HOOFDSTUK  IX  
 

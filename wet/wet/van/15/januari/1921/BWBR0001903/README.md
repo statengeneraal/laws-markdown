@@ -809,7 +809,7 @@ a. een misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van v
 
 b. een der misdrijven omschreven in de artikelen 132, 138a, 138ab, 138b, 139c, 139d, eerste en tweede lid, 141a, 161sexies, eerste lid, onder 1°, en tweede lid,137c, tweede lid, 137d, tweede lid, 137e, tweede lid, 137g, tweede lid, 151, 184a, 254a, 248d, 248e, 272, 284, eerste lid, 285, eerste lid, 285b, 300, eerste lid, 321, 323a, 326c, tweede lid, 350, 350a, 351, 395, 417bis en 420quater van het Wetboek van Strafrecht;   
 
-c. een der misdrijven omschreven in:  artikel 86i, eerste lid, van de Elektriciteitswet 1998;artikel 66h, eerste lid, van de Gaswet;artikel 8.12, eerste en tweede lid, van de Wet dieren; artikel 175, tweede lid, onderdeel b, of derde lid in verbinding met het eerste lid, onderdeel b, van de Wegenverkeerswet 1994;   artikel 30, tweede lid, van de Wet buitengewone bevoegdheden burgerlijk gezag;  de artikelen 52, 53, eerste lid en 54 van de Wet gewetensbezwaren militaire dienst;   artikel 36 van de Wet op de kansspelen;   artikel 11, tweede lid, van de Opiumwet;   artikel 55, tweede lid, van de Wet wapens en munitie;   de artikelen 5:56, 5:57 en 5:58 van de Wet op het financieel toezicht; artikel 11 van de Wet tijdelijk huisverbod.     
+c. een der misdrijven omschreven in:  artikel 86i, eerste lid, van de Elektriciteitswet 1998;artikel 66h, eerste lid, van de Gaswet;artikel 8.12, eerste en tweede lid, van de Wet dieren; artikel 175, tweede lid, onderdeel b, of derde lid in verbinding met het eerste lid, onderdeel b, van de Wegenverkeerswet 1994;   artikel 30, tweede lid, van de Wet buitengewone bevoegdheden burgerlijk gezag;  de artikelen 52, 53, eerste lid en 54 van de Wet gewetensbezwaren militaire dienst;   artikel 36 van de Wet op de kansspelen;   de artikelen 11, tweede lid, en 11a van de Opiumwet;   artikel 55, tweede lid, van de Wet wapens en munitie;   de artikelen 5:56, 5:57 en 5:58 van de Wet op het financieel toezicht; artikel 11 van de Wet tijdelijk huisverbod.     
 2.   Het bevel kan voorts worden gegeven indien geen vaste woon- of verblijfplaats in Nederland van de verdachte kan worden vastgesteld en hij verdacht wordt van een misdrijf waarvan de rechtbanken kennis nemen en waarop, naar de wettelijke omschrijving gevangenisstraf is gesteld.    
 3.  De voorgaande leden van dit artikel vinden alleen toepassing wanneer uit feiten of omstandigheden blijkt van ernstige bezwaren tegen de verdachte.   
 4. In afwijking van het derde lid zijn ernstige bezwaren niet vereist voor een bevel tot bewaring bij verdenking van een terroristisch misdrijf.
@@ -1151,8 +1151,11 @@ b. een kantoor van een persoon met bevoegdheid tot verschoning als bedoeld in ar
 
 ### Artikel  98  
 
-1.  Bij personen met bevoegdheid tot verschooning, als bedoeld bij artikel 218, worden, tenzij met hunne toestemming, niet in beslag genomen brieven of andere geschriften, tot welke hun plicht tot geheimhouding zich uitstrekt.    
-2.  Een doorzoeking vindt bij zodanige personen, tenzij met hun toestemming, alleen plaats voor zover het zonder schending van het stands-, beroeps- of ambtsgeheim kan geschieden, en strekt zich niet uit tot andere brieven of geschriften dan die welke het voorwerp van het strafbare feit uitmaken of tot het begaan daarvan gediend hebben.  
+1.  Bij personen met bevoegdheid tot verschooning, als bedoeld bij artikel 218, worden, tenzij met hunne toestemming, niet in beslag genomen brieven of andere geschriften, tot welke hun plicht tot geheimhouding zich uitstrekt. De rechter-commissaris is bevoegd ter zake te beslissen.  
+2. Indien de persoon met bevoegdheid tot verschoning bezwaar maakt tegen de inbeslagneming van brieven of andere geschriften omdat zijn plicht tot geheimhouding zich daartoe uitstrekt, wordt niet tot kennisneming overgegaan dan nadat de rechter-commissaris daarover heeft bepaald.
+3. De rechter-commissaris die beslist dat inbeslagneming is toegestaan, deelt de persoon met bevoegdheid tot verschoning mede dat tegen zijn beslissing beklag open staat bij het gerecht in feitelijke aanleg waarvoor de zaak wordt vervolgd en tevens dat niet tot kennisneming wordt overgegaan dan nadat onherroepelijk over het beklag is beslist.
+4. Tegen de beschikking van de rechter-commissaris kan de persoon met bevoegdheid tot verschoning binnen veertien dagen na de betekening daarvan een klaagschrift indienen bij het gerecht in feitelijke aanleg waarvoor de zaak wordt vervolgd. Artikel 552a is van toepassing.  
+5.  Een doorzoeking vindt bij zodanige personen, tenzij met hun toestemming, alleen plaats voor zover het zonder schending van het stands-, beroeps- of ambtsgeheim kan geschieden, en strekt zich niet uit tot andere brieven of geschriften dan die welke het voorwerp van het strafbare feit uitmaken of tot het begaan daarvan gediend hebben.  
 
 ### Artikel  99  
 
@@ -1416,7 +1419,7 @@ b. hij niet gehouden is degene tegen wie het onderzoek is gericht of diens raads
 
 ### Artikel  126d  
 
-De artikelen 98, 99 en 99a zijn van overeenkomstige toepassing, met dien verstande dat de in artikel 98, tweede lid, bedoelde doorzoeking zich ten aanzien van brieven en geschriften mede uitstrekt tot die welke kunnen dienen om wederrechtelijk voordeel aan te tonen dat is verkregen door degene tegen wie het onderzoek is gericht. 
+De artikelen 98, 99 en 99a zijn van overeenkomstige toepassing, met dien verstande dat de in artikel 98, vijfde lid, bedoelde doorzoeking zich ten aanzien van brieven en geschriften mede uitstrekt tot die welke kunnen dienen om wederrechtelijk voordeel aan te tonen dat is verkregen door degene tegen wie het onderzoek is gericht. 
 
 ### Artikel  126e  
 
@@ -6540,8 +6543,9 @@ De in artikel 141 bedoelde ambtenaren en de ambtenaren die krachtens artikel 142
 3.   Het klaagschrift of het verzoek wordt zo spoedig mogelijk na de inbeslagneming van de voorwerpen of de kennisneming of ontoegankelijkmaking van de gegevens ingediend ter griffie van het gerecht in feitelijke aanleg, waarvoor de zaak wordt vervolgd of het laatst werd vervolgd. Het klaagschrift of het verzoek is niet ontvankelijk indien het is ingediend op een tijdstip waarop drie maanden zijn verstreken sedert de vervolgde zaak tot een einde is gekomen.    
 4.   Indien een vervolging niet of nog niet is ingesteld wordt het klaagschrift of het verzoek zo spoedig mogelijk, doch uiterlijk binnen twee jaren na de inbeslagneming, kennisneming of ontoegankelijkmaking ingediend ter griffie van de rechtbank van het arrondissement, binnen hetwelk de inbeslagneming, kennisneming of ontoegankelijkmaking is geschied. De rechtbank is bevoegd tot afdoening tenzij de vervolging mocht zijn aangevangen voordat met de behandeling van het klaagschrift of het verzoek een aanvang kon worden gemaakt. In dat geval zendt de griffier het klaagschrift of het verzoek ter afdoening aan het gerecht, bedoeld in het vorige lid.    
 5.   De griffier van het gerecht dat tot afdoening bevoegd is, zendt aan degene bij wie het voorwerp is in beslag genomen, indien hij noch de klager is, noch afstand van het voorwerp heeft gedaan, en zijn adres bekend is, onverwijld een afschrift van het klaagschrift en deelt hem mee dat hij zijnerzijds een klaagschrift kan indienen. Op last van de voorzitter van het gerecht stelt de griffier tevens andere belanghebbenden van het klaagschrift in kennis, hun de gelegenheid biedende hetzij zelf binnen een in de kennisgeving te vermelden termijn een klaagschrift in te dienen, betrekking hebbend op hetzelfde voorwerp of dezelfde gegevens, hetzij tijdens de behandeling van het klaagschrift te worden gehoord. In het laatste geval geldt de kennisgeving als oproeping.    
-6.   De behandeling van het klaagschrift of het verzoek door de raadkamer vindt plaats in het openbaar.    
-7.   Acht het gerecht het beklag of het verzoek gegrond, dan geeft het de daarmede overeenkomende last.   
+6.   De behandeling van het klaagschrift of het verzoek door de raadkamer vindt plaats in het openbaar.   
+7. Indien het klaagschrift is ingediend door een persoon met de bevoegdheid tot verschoning als bedoeld in artikel 218 beslist het gerecht binnen dertig dagen na ontvangst van het klaagschrift.  
+8.   Acht het gerecht het beklag of het verzoek gegrond, dan geeft het de daarmede overeenkomende last.   
 
 ### Artikel  552ab  
 
@@ -6571,7 +6575,8 @@ Tot kennisneming van geschillen over de toepassing door het openbaar ministerie 
 ### Artikel  552d  
 
 1.  Een beschikking ingevolge artikel 552a, 552ab of 552b wordt onverwijld aan de klager betekend.    
-2.  Beroep in cassatie kan door het openbaar ministerie worden ingesteld binnen veertien dagen na de dagtekening der beschikking, en door de klager binnen veertien dagen na de betekening.   
+2.  Beroep in cassatie kan door het openbaar ministerie worden ingesteld binnen veertien dagen na de dagtekening der beschikking, en door de klager binnen veertien dagen na de betekening.    
+3.  Indien het klaagschrift is ingediend door een persoon met de bevoegdheid tot verschoning als bedoeld in artikel 218 beslist de Hoge Raad binnen negentig dagen na indiening van de schriftuur. Artikel 447 is van overeenkomstige toepassing, met dien verstande dat de termijn voor indiening van middelen van cassatie veertien dagen bedraagt. 
 
 ### Artikel  552e  
 
@@ -7426,16 +7431,11 @@ c. informatie over de noodzaak van het voortduren van het toezicht op de nalevin
 
 ####Europees beschermingsbevel
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Eerste  afdeling  
 
 ####Algemene bepalingen
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  5:4:1  
-Treedt in werking op een nader te bepalen tijdstip 
 
 In de bepalingen van deze titel wordt verstaan onder: 
 
@@ -7464,7 +7464,6 @@ j. *toezichtsstaat:*
 – de lidstaat waaraan een beslissing inzake toezichtmaatregelen in de zin van artikel 4 van Kaderbesluit 2009/829/JBZ is overgedragen.     
 
 ### Artikel  5:4:2  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De kennisgeving van mededelingen aan de autoriteit van de uitvaardigende lidstaat of van de uitvoerende lidstaat, aan de beschermde persoon of aan de persoon die gevaar veroorzaakt geschiedt door middel van toezending van een gewone of aangetekende brief over de post, via telefax of elektronische post. Van deze wijze van kennisgeving kan worden afgeweken als zulks uitdrukkelijk is bepaald.   
 2.  Kennisgeving van mededelingen aan de autoriteit van de beslissingstaat of uitvoerende lidstaat geschiedt op zodanige wijze dat de echtheid van de mededeling door de bevoegde autoriteit kan worden vastgesteld.   
@@ -7474,10 +7473,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Europees beschermingsbevel uitgevaardigd door de bevoegde autoriteit van een andere lidstaat van de Europese Unie
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  5:4:3  
-Treedt in werking op een nader te bepalen tijdstip 
 
 Een Europees beschermingsbevel is vatbaar voor erkenning en tenuitvoerlegging in Nederland indien het 
 
@@ -7492,7 +7488,6 @@ a. een of meer van de volgende verboden of beperkingen omvat:
 b. is uitgevaardigd in de vorm van het formulier dat als bijlage I is toegevoegd aan Richtlijn 2011/99/EU en alle daarin voorziene informatie bevat.   
 
 ### Artikel  5:4:4  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De officier van justitie is belast met de tenuitvoerlegging van een Europees beschermingsbevel en beveelt daartoe strekkende maatregelen.   
 2.  De officier van justitie erkent een Europees beschermingsbevel binnen achtentwintig dagen na ontvangst hiervan, tenzij het vierde of vijfde lid van toepassing is.   
@@ -7503,7 +7498,6 @@ Treedt in werking op een nader te bepalen tijdstip
 7.  Indien de bevoegde autoriteit van de uitvaardigende lidstaat niet bekend is, wint de officier van justitie de nodige inlichtingen in langs alle beschikbare kanalen, waaronder de contactpunten van het Europees Justitieel Netwerk, het nationaal lid van Eurojust of het nationaal systeem van Nederland voor de coördinatie van Eurojust.  
 
 ### Artikel  5:4:5  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De officier van justitie kan de erkenning weigeren indien: 
 
@@ -7529,7 +7523,6 @@ a. doet hij onverwijld mededeling aan de autoriteit van de uitvaardigende lidsta
 b. stelt hij in voorkomend geval de beschermde persoon in kennis van de mogelijkheid een beschermingsmaatregel te verkrijgen op grond van het Nederlandse recht.    
 
 ### Artikel  5:4:6  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Als de officier van justitie het Europees beschermingsbevel erkent, dan beveelt hij overeenkomstig het Europees beschermingsbevel een of meer van de volgende maatregelen ten aanzien van de persoon die gevaar veroorzaakt: 
 
@@ -7545,7 +7538,6 @@ c. een verbod om de beschermde persoon tot binnen een bepaalde afstand te benade
 6.  De officier van justitie verstrekt het adres of andere contactgegevens van de beschermde persoon niet aan de persoon die gevaar veroorzaakt, tenzij dat noodzakelijk is met het oog op de tenuitvoerlegging van de maatregel die hij heeft bevolen op grond van het eerste lid.  
 
 ### Artikel  5:4:7  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De ambtenaren van politie, bedoeld in artikel 2, onder a van de Politiewet 2012, zijn bevoegd om in geval van een overtreding of dreigende overtreding van de maatregelen, bedoeld in artikel 5:4:6, eerste lid, de persoon die gevaar veroorzaakt, te bevelen de desbetreffende maatregel of maatregelen na te leven.   
 2.  De officier van justitie doet mededeling aan de volgende autoriteiten van elke overtreding van een op grond van het Europees beschermingsbevel genomen maatregel: 
@@ -7559,7 +7551,6 @@ c. de bevoegde autoriteit van de lidstaat die een beslissing inzake toezichtmaat
 4.  De officier van justitie draagt zorg voor vertaling van het in het derde lid bedoelde formulier in de officiële taal of een van de officiële talen van de uitvaardigende lidstaat of in een of meer andere officiële talen die deze lidstaat aanvaardt, blijkens een door hem bij de Europese Commissie neergelegde verklaring.  
 
 ### Artikel  5:4:8  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Indien de bevoegde autoriteit van de uitvaardigende lidstaat de beschermingsmaatregel verlengt, of wijzigt, dan past de officier van justitie de door hem bevolen maatregel dienovereenkomstig aan, zodra hij door de bevoegde autoriteit van de uitvaardigende lidstaat naar behoren in kennis is gesteld van de verlenging of wijziging. De officier van justitie kan de termijn van de door hem bevolen maatregel verlengen tot in het geheel ten hoogste een jaar.   
 2.  Indien de bevoegde autoriteit van de uitvaardigende lidstaat het Europees beschermingsbevel heeft gewijzigd, en het gewijzigde verbod of de gewijzigde beperking ressorteren niet onder de in artikel 5:4:3, onder a, bedoelde verboden of beperkingen, of indien met het Europees beschermingsbevel overeenkomstig artikel 5:4:3, onder b, verstrekte informatie onvolledig is of niet binnen de door de officier van justitie overeenkomstig artikel 5:4:4, derde lid is vervolledigd, dan weigert de officier van justitie voor zover nodig dit verbod of deze beperking te handhaven.   
@@ -7567,7 +7558,6 @@ Treedt in werking op een nader te bepalen tijdstip
 4.  De officier van justitie doet mededeling aan de persoon die gevaar veroorzaakt, aan de beschermde persoon en aan de bevoegde autoriteit van de uitvaardigende lidstaat van de verlenging of wijziging van de door hem bevolen maatregel als bedoeld in het eerste lid, van de weigering als bedoeld in het tweede lid of van de intrekking als bedoeld in het derde lid.  
 
 ### Artikel  5:4:9  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De officier van justitie kan de ter uitvoering van het Europees beschermingsbevel bevolen maatregelen intrekken: 
 
@@ -7585,17 +7575,13 @@ d. indien, na de erkenning van het Europees beschermingsbevel, een vonnis in de 
 
 ####Europees beschermingsbevel uitgevaardigd door de bevoegde autoriteit van Nederland
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  5:4:10  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De persoon die beschermd wordt door een beschermingsmaatregel op grond van het Nederlandse recht, kan een verzoek tot het uitvaardigen van een Europees beschermingsbevel richten aan de officier van justitie of aan de bevoegde autoriteit van de uitvoerende lidstaat.   
 2.  Indien een persoon die beschermd wordt door een beschermingsmaatregel, die is genomen op grond van het nationale recht van een andere lidstaat, een verzoek doet aan de officier van justitie tot uitvaardiging van een Europees beschermingsbevel, dan doet de officier van justitie hiervan mededeling aan de bevoegde autoriteit van de uitvaardigende lidstaat en draagt hij dit verzoek ter behandeling over. Hiertoe zendt de officier van justitie dit verzoek zo spoedig mogelijk toe aan de bevoegde autoriteit van de desbetreffende lidstaat.   
 3.  Indien de beschermde persoon een wettelijk vertegenwoordiger heeft, kan deze het verzoek, bedoeld in het eerste en tweede lid, indienen namens de beschermde persoon.  
 
 ### Artikel  5:4:11  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De officier van justitie kan op verzoek van een beschermde persoon een Europees beschermingsbevel uitvaardigen indien: 
 
@@ -7608,7 +7594,6 @@ c. de beschermde persoon besluit in een andere Europese lidstaat te gaan wonen o
 3.  De officier van justitie doet mededeling van de behandeling van het verzoek om een Europees beschermingsbevel uit te vaardigen aan de beschermde persoon en aan de persoon die gevaar veroorzaakt.  
 
 ### Artikel  5:4:12  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De officier van justitie stelt de persoon die gevaar veroorzaakt in de gelegenheid te worden gehoord ten aanzien van de behandeling van een verzoek tot uitvaardiging van een Europees beschermingsbevel als bedoeld in artikel 5:4:11, eerste lid, indien aan deze persoon het recht om te worden gehoord, niet is verleend in de procedure die tot het nemen van de beschermingsmaatregel heeft geleid.   
 2.  Indien de persoon die gevaar veroorzaakt, is gehoord in de procedure die tot het nemen van de beschermingsmaatregel heeft geleid, kan de officier van justitie deze persoon in de gelegenheid stellen te worden gehoord bij de behandeling van het verzoek als bedoeld in artikel 5:4:11, eerste lid, indien de officier van justitie dit voor het nemen van een beslissing noodzakelijk acht.   
@@ -7616,13 +7601,11 @@ Treedt in werking op een nader te bepalen tijdstip
 4.  Van het horen van de personen overeenkomstig het eerste, tweede of derde lid, wordt een schriftelijk verslag opgemaakt.  
 
 ### Artikel  5:4:13  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De officier van justitie doet mededeling van zijn besluit om een Europees beschermingsbevel uit te vaardigen aan de beschermde persoon en aan de persoon die gevaar veroorzaakt. Het besluit van de officier van justitie is met redenen omkleed.   
 2.  Indien de officier van justitie een verzoek tot uitvaardiging van een Europees beschermingsbevel afwijst, doet hij hiervan mededeling aan de beschermde persoon en aan de persoon die gevaar veroorzaakt. Het besluit van de officier van justitie is met redenen omkleed.  
 
 ### Artikel  5:4:14  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De officier van justitie legt een Europees beschermingsbevel vast in de vorm van een formulier dat als bijlage I is toegevoegd aan Richtlijn 2011/99/EU.   
 2.  De officier van justitie zendt het Europees beschermingsbevel in schriftelijke vorm toe aan de bevoegde autoriteit van de uitvoerende lidstaat.   
@@ -7630,12 +7613,10 @@ Treedt in werking op een nader te bepalen tijdstip
 4.  De officier van justitie draagt zorg voor vertaling van het Europees beschermingsbevel in de officiële taal of een van de officiële talen van de uitvoerende lidstaat, dan wel voor vertaling in een of meer andere officiële talen van de Europese Unie, die deze lidstaat aanvaardt blijkens een door hem bij de Europese Commissie neergelegde verklaring.  
 
 ### Artikel  5:4:15  
-Treedt in werking op een nader te bepalen tijdstip 
 
 Indien de rechter of officier van justitie een beschermingsmaatregel oplegt die een of meer van de in artikel 5:4:3 bedoelde verboden of beperkingen omvat, doet de officier van justitie mondeling of schriftelijk mededeling aan de beschermde persoon over de mogelijkheid om een Europees beschermingsbevel te verzoeken voor het geval deze persoon besluit zich naar een andere lidstaat te begeven, alsmede over de hoofdzaken van de voorwaarden die gelden voor een dergelijk verzoek. De officier van justitie geeft bij deze mededeling de beschermde persoon in overweging om het bedoelde verzoek in te dienen voordat deze persoon het grondgebied van Nederland verlaat. 
 
 ### Artikel  5:4:16  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Indien de officier van justitie of rechter overeenkomstig Nederlands recht besluit tot wijziging of intrekking van een beschermingsmaatregel, dan kan de officier van justitie het hierop berustende Europees beschermingsbevel wijzigen of intrekken.   
 2.  Het eerste lid is niet van toepassing indien de bevoegdheid tot wijziging of intrekking van een beschermingsmaatregel berust bij de bevoegde autoriteit van de uitvoerende lidstaat op basis van Kaderbesluit 2008/947/JBZ of van Kaderbesluit 2009/829/JBZ en van de op deze kaderbesluiten gebaseerde wettelijke bepalingen.   
@@ -7643,7 +7624,6 @@ Treedt in werking op een nader te bepalen tijdstip
 4.  De officier van justitie doet de bevoegde autoriteit van de uitvoerende lidstaat, de beschermde persoon en de persoon die gevaar veroorzaakt mededeling van elke genomen beslissing die strekt tot wijziging of intrekking van het Europees beschermingsbevel.  
 
 ### Artikel  5:4:17  
-Treedt in werking op een nader te bepalen tijdstip 
 
 Bij ministeriële regeling kunnen regels worden vastgesteld voor het verzamelen en verstrekken van gegevens over de uitvoering van de bepalingen van deze titel. 
 

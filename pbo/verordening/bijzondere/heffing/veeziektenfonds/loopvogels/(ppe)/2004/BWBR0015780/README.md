@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Pluimvee en Eieren van 23 oktober 2003, houdende vaststelling van een bestemmingsheffing ten behoeve van het veeziektenfonds (PPE) voor het jaar 2004 (Verordening bijzondere heffing veeziektenfonds loopvogels (PPE) 2004)
 
 Het bestuur van het Productschap Pluimvee en Eieren;
-Gelet op [artikel 126 van de Wet op de Bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en de artikelen 5 en 9 van de Instellingsverordening Productschap Pluimvee en Eieren 1998-I;
+Gelet op artikel 126 van de Wet op de Bedrijfsorganisatie en de artikelen 5 en 9 van de Instellingsverordening Productschap Pluimvee en Eieren 1998-I;
 Besluit:
 
 ###Artikel 1 
@@ -16,7 +16,7 @@ In deze verordening wordt verstaan onder:
 |productschap |: |het Productschap Pluimvee en Eieren; |
 |bestuur |: |het bestuur van het productschap; |
 |voorzitter |: |de voorzitter van het productschap; |
-|loopvogel |: |loopvogel, als bedoeld in [artikel 1 van Verordening productie van en handel in broedeieren en levend pluimvee 2003](../../../../../../../../../pbo/verordening/productie/van/en/handel/in/broedeieren/en/levend/pluimvee/2003/BWBR0014954/README.md); |
+|loopvogel |: |loopvogel, als bedoeld in artikel 1 van Verordening productie van en handel in broedeieren en levend pluimvee 2003; |
 |kuiken |: |kuiken van een loopvogel; |
 |vermeerderaar |: |ondernemer die zich toelegt op de productie van broedeieren van loopvogels bestemd voor de productie van loopvogels; |
 |kuikenbroeder |: |ondernemer die zich toelegt. op het inleggen en uitbroeden van broedeieren en het afleveren van kuikens van loopvogels; |

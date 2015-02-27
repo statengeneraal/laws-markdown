@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Vee en Vlees van 22 oktober 2003, houdende vaststelling van een bestemmingsheffing ten behoeve van het promotiefonds (vlees) voor het jaar 2004 (Heffingsverordening promotiefonds (vlees) (PVV) 2004)
 
 Het bestuur van het Productschap Vee en Vlees;
-Gelet op [artikel 126 van de Wet op de Bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en de artikelen 10 en 15 van de Instellingsverordening Productschap Vee en Vlees 1999-1;
+Gelet op artikel 126 van de Wet op de Bedrijfsorganisatie, en de artikelen 10 en 15 van de Instellingsverordening Productschap Vee en Vlees 1999-1;
 Besluit:
 
 ###Artikel 1 
@@ -12,7 +12,7 @@ Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de V
 
 ###Artikel 2 
 
-1. Onverminderd het bepaalde bij of krachtens enig ander wettelijk voorschrift, en op de voet van het bepaalde in [artikel 2, van de Verordening huishoudelijke heffing dieren (PVV) 2004](../../../../../../../pbo/verordening/huishoudelijke/heffing/dieren/2003/BWBR0014253/README.md), is de ondernemer, die in het jaar 2004 een of meer dieren slacht of doet slachten aan het productschap ten behoeve van de dekking van uitgaven met betrekking tot vleespromotie voor het promotiefonds een heffing verschuldigd volgens het navolgende tarief:
+1. Onverminderd het bepaalde bij of krachtens enig ander wettelijk voorschrift, en op de voet van het bepaalde in artikel 2, van de Verordening huishoudelijke heffing dieren (PVV) 2004, is de ondernemer, die in het jaar 2004 een of meer dieren slacht of doet slachten aan het productschap ten behoeve van de dekking van uitgaven met betrekking tot vleespromotie voor het promotiefonds een heffing verschuldigd volgens het navolgende tarief:
 
 | --- | --- |
 |:---|:---|

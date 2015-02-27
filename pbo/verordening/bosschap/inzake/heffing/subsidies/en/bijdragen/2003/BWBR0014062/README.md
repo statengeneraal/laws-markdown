@@ -3,7 +3,7 @@
 ##Verordening van het bestuur van het Bosschap tot het opleggen van heffingen
 
 HET BESTUUR van het Bosschap,
-gelet op de [artikelen 95](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de Bedrijfsorganisatie](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en artikel 12 van de Instellingsverordening Bosschap, besluit vast te stellen de navolgende 
+gelet op de artikelen 95 en 126 van de Wet op de Bedrijfsorganisatie en artikel 12 van de Instellingsverordening Bosschap, besluit vast te stellen de navolgende 
 VERORDENING
 
 ###Artikel 1 
@@ -97,7 +97,7 @@ Materieel uitgewerkt per 06-03-2004
 ###Artikel 12 
 Materieel uitgewerkt per 06-03-2004 
 
-1. Voor de toepassing van deze verordening wordt gebruik gemaakt van de gegevens, verstrekt krachtens de Registratieverordening Bosschap 1954, de Registratieverordening Bosschap 1957, de Registratieverordening Bosschap 1990, de Registratieverordening Bosschap 1998, de [Registratieverordening Bosschap 2002](../../../../../../../../../../pbo/registratieverordening/bosschap/2002/BWBR0013818/README.md) en de opgave van de behaalde omzet als bedoeld in artikel 11, lid 1.
+1. Voor de toepassing van deze verordening wordt gebruik gemaakt van de gegevens, verstrekt krachtens de Registratieverordening Bosschap 1954, de Registratieverordening Bosschap 1957, de Registratieverordening Bosschap 1990, de Registratieverordening Bosschap 1998, de Registratieverordening Bosschap 2002 en de opgave van de behaalde omzet als bedoeld in artikel 11, lid 1.
 2. Indien deze gegevens niet voorhanden zijn, wordt de heffing ambtshalve door de secretaris namens het bestuur vastgesteld.
 
 ###Artikel 13 
@@ -116,7 +116,7 @@ a.een vereniging is met volledige rechtsbevoegdheid;
 
 b.krachtens haar statutaire doelstelling haar werkzaamheden kan uitstrekken tot ten minste een belangrijk gedeelte van het terrein waarop het bedrijfslichaam een taak heeft te vervullen;
 
-c.voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de [artikelen 3 tot en met 7 van de Verordening representativiteit organisaties](../../../../../../../../../../pbo/verordening/representativiteit/organisaties/BWBR0011641/README.md),
+c.voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de artikelen 3 tot en met 7 van de Verordening representativiteit organisaties,
 
 d.tot de werkingssfeer van het bedrijfslichaam behorende leden heeft, waarvan het gewogen aantal niet onbetekenend is,
 

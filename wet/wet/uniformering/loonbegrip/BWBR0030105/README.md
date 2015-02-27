@@ -150,7 +150,6 @@ Wijzigt de Wet op het kindgebonden budget.
 Wijzigt de Wet tegemoetkoming onderwijsbijdrage en schoolkosten. 
 
 ### Artikel  XXXIV  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet studiefinanciering 2000. 
 
@@ -160,14 +159,14 @@ Wijzigt de Wet financiële voorzieningen privatisering ABP.
 
 ### Artikel  XXXVII  
 
-1.  [Artikel 17, vierde lid, van de Wet financiering sociale verzekeringen](../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), zoals dat luidde op 31 december voorafgaand aan de inwerkingtreding van deze wet, blijft van toepassing met betrekking tot premie die over de jaren tot de inwerkingtreding van deze wet is betaald.   
-2.  [Artikel 50 van de Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) en de daarop berustende bepalingen, zoals die luidden op 31 december voorafgaand aan de inwerkingtreding van deze wet, blijven van toepassing met betrekking tot inkomensafhankelijke bijdrage die over de jaren tot de inwerkingtreding van deze wet is ingehouden.  
+1.  Artikel 17, vierde lid, van de Wet financiering sociale verzekeringen, zoals dat luidde op 31 december voorafgaand aan de inwerkingtreding van deze wet, blijft van toepassing met betrekking tot premie die over de jaren tot de inwerkingtreding van deze wet is betaald.   
+2.  Artikel 50 van de Zorgverzekeringswet en de daarop berustende bepalingen, zoals die luidden op 31 december voorafgaand aan de inwerkingtreding van deze wet, blijven van toepassing met betrekking tot inkomensafhankelijke bijdrage die over de jaren tot de inwerkingtreding van deze wet is ingehouden.  
 
 ### Artikel  XXXVIII  
 
 Tijdelijke heffingskorting met betrekking tot de inkomstenbelasting 
 
-1. In de eerste drie kalenderjaren dat deze wet in werking is, geldt een heffingskorting met betrekking tot de inkomstenbelasting voor de belastingplichtige die bij het einde van het kalenderjaar, of indien de belastingplicht in de loop van het kalenderjaar is geëindigd, bij het einde van de belastingplicht, de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), nog niet heeft bereikt en die een uitkering geniet ingevolge een pensioenregeling of regeling voor vervroegde uittreding als bedoeld in de [Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) waarop de inkomensafhankelijke bijdrage, bedoeld in [artikel 43 van de Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) wordt ingehouden.  
+1. In de eerste drie kalenderjaren dat deze wet in werking is, geldt een heffingskorting met betrekking tot de inkomstenbelasting voor de belastingplichtige die bij het einde van het kalenderjaar, of indien de belastingplicht in de loop van het kalenderjaar is geëindigd, bij het einde van de belastingplicht, de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, nog niet heeft bereikt en die een uitkering geniet ingevolge een pensioenregeling of regeling voor vervroegde uittreding als bedoeld in de Wet op de loonbelasting 1964 waarop de inkomensafhankelijke bijdrage, bedoeld in artikel 43 van de Zorgverzekeringswet wordt ingehouden.  
 
 2. In het jaar van inwerkingtreding van deze wet bedraagt de heffingskorting 1% van de in het eerste lid bedoelde uitkeringen, met een maximum van € 182.  
 
@@ -179,7 +178,7 @@ Tijdelijke heffingskorting met betrekking tot de inkomstenbelasting
 
 Tijdelijke heffingskorting met betrekking tot de loonbelasting 
 
-1. In de eerste drie kalenderjaren dat deze wet in werking is, geldt een heffingskorting met betrekking tot de loonbelasting voor de werknemer die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), nog niet heeft bereikt en die een uitkering geniet ingevolge een pensioenregeling of een regeling voor vervroegde uittreding waarop de inkomensafhankelijke bijdrage als bedoeld in [artikel 43 van de Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) wordt ingehouden.  
+1. In de eerste drie kalenderjaren dat deze wet in werking is, geldt een heffingskorting met betrekking tot de loonbelasting voor de werknemer die de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, nog niet heeft bereikt en die een uitkering geniet ingevolge een pensioenregeling of een regeling voor vervroegde uittreding waarop de inkomensafhankelijke bijdrage als bedoeld in artikel 43 van de Zorgverzekeringswet wordt ingehouden.  
 
 2. In het jaar van inwerkingtreding van deze wet bedraagt de heffingskorting 1% van de in het eerste lid bedoelde uitkering, met een maximum van € 182.  
 
@@ -189,7 +188,7 @@ Tijdelijke heffingskorting met betrekking tot de loonbelasting
 
 ### Artikel  XL  
 
-Op het moment dat deze wet in werking treedt worden de bedragen in kolom III van de tabel in [artikel 2.10 van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) bij ministeriële regeling gewijzigd door de bedragen welke na toepassing van dat onderdeel voortvloeien uit de in de kolommen I en II van die tabel vermelde bedragen en de in kolom IV van die tabel vermelde percentages. De eerste volzin is van overeenkomstige toepassing op de bedragen in kolom III van de tabel in [artikel 2.10a van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), op de bedragen in kolom III van de tabel in [artikel 20a, eerste lid, van de Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) en op de bedragen in kolom III van de tabel in [artikel 20b, eerste lid, van de Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md). 
+Op het moment dat deze wet in werking treedt worden de bedragen in kolom III van de tabel in artikel 2.10 van de Wet inkomstenbelasting 2001 bij ministeriële regeling gewijzigd door de bedragen welke na toepassing van dat onderdeel voortvloeien uit de in de kolommen I en II van die tabel vermelde bedragen en de in kolom IV van die tabel vermelde percentages. De eerste volzin is van overeenkomstige toepassing op de bedragen in kolom III van de tabel in artikel 2.10a van de Wet inkomstenbelasting 2001, op de bedragen in kolom III van de tabel in artikel 20a, eerste lid, van de Wet op de loonbelasting 1964 en op de bedragen in kolom III van de tabel in artikel 20b, eerste lid, van de Wet op de loonbelasting 1964. 
 
 ### Artikel  XLI  
 

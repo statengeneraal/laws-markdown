@@ -281,19 +281,23 @@ c. een krachtens artikel 8a, eerste lid, aan een ontheffing verbonden voorschrif
 6.   Het tweede lid is niet van toepassing, indien het feit betrekking heeft op een hoeveelheid van hennep of hasjiesj van ten hoogste 30 gram.   
 7.   Het tweede en vierde lid zijn niet van toepassing, indien het feit betrekking heeft op een geringe hoeveelheid, bestemd voor eigen gebruik, van de in lijst II vermelde middelen, met uitzondering van hennep en hasjiesj.  
 
-###Artikel 11a 
+### Artikel  11a  
 
-1. Deelneming aan een organisatie die tot oogmerk heeft het plegen van een misdrijf als bedoeld in artikel 10, derde, vierde en vijfde lid, 10a, eerste lid, of 11, derde, vierde en vijfde lid, wordt gestraft met gevangenisstraf van ten hoogste acht jaren of geldboete van de vijfde categorie. 
+Hij die stoffen of voorwerpen bereidt, bewerkt, verwerkt, te koop aanbiedt, verkoopt, aflevert, verstrekt, vervoert, vervaardigt of voorhanden heeft dan wel vervoermiddelen, ruimten, gelden of andere betaalmiddelen voorhanden heeft of gegevens voorhanden heeft, waarvan hij weet of ernstige reden heeft om te vermoeden dat zij bestemd zijn tot het plegen van een van de in artikel 11, derde en vijfde lid, strafbaar gestelde feiten, wordt gestraft met gevangenisstraf van ten hoogste drie jaar of geldboete van de vijfde categorie. 
+
+###Artikel 11b 
+
+1. Deelneming aan een organisatie die tot oogmerk heeft het plegen van een misdrijf als bedoeld in artikel 10, derde, vierde en vijfde lid, 10a, eerste lid, 11, derde, en vijfde lid, of 11a, wordt gestraft met gevangenisstraf van ten hoogste acht jaren of geldboete van de vijfde categorie. 
 2. Artikel 140, derde en vierde lid, van het Wetboek van Strafrecht is van overeenkomstige toepassing.
 
 ### Artikel  12  
 
-Indien de waarde van de zaken waarmee of met betrekking tot welke de feiten, strafbaar gesteld in de artikelen 10, eerste tot en met vijfde lid, 10a, eerste lid, 11, tweede tot en met vijfde lid, en 11a zijn begaan, of die geheel of gedeeltelijk door middel van die feiten zijn verkregen, hoger is dan het vierde gedeelte van het maximum van de geldboete op die feiten gesteld, kan, ook indien het feit door een natuurlijke persoon is begaan, een geldboete van de naast hogere categorie worden opgelegd. 
+Indien de waarde van de zaken waarmee of met betrekking tot welke de feiten, strafbaar gesteld in de artikelen 10, eerste tot en met vijfde lid, 10a, eerste lid, 11, tweede tot en met vijfde lid, 11a en 11b zijn begaan, of die geheel of gedeeltelijk door middel van die feiten zijn verkregen, hoger is dan het vierde gedeelte van het maximum van de geldboete op die feiten gesteld, kan, ook indien het feit door een natuurlijke persoon is begaan, een geldboete van de naast hogere categorie worden opgelegd. 
 
 ### Artikel  13  
 
 1.  De in artikel 10, eerste lid, en artikel 11, eerste lid, strafbaar gestelde feiten zijn overtredingen.   
-2.  De in de artikelen 10, tweede tot en met zesde lid, 10a, eerste lid, 11, tweede tot en met vijfde lid, en 11a strafbaar gestelde feiten zijn misdrijven.   
+2.  De in de artikelen 10, tweede tot en met zesde lid, 10a, eerste lid, 11, tweede tot en met vijfde lid, 11a en 11b strafbaar gestelde feiten zijn misdrijven.   
 3.   De Nederlandse strafwet is toepasselijk op ieder die zich buiten Nederland schuldig maakt aan:  
 
 a. een der in artikel 10a, eerste lid, strafbaar gestelde feiten voorzover die zijn gepleegd om het in artikel 10, vijfde lid, strafbaar gestelde feit voor te bereiden of te bevorderen, dan wel  

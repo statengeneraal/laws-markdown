@@ -131,29 +131,29 @@ f. de aanvoerder van garnalen: € 0,00 per kilogram aangevoerde garnalen die on
 
 De heffing als bedoeld in artikel 2 bedraagt: 
 
-a. € 2.100,00 voor Zeeuwse Visveilingen N.V., voor de afslaglocatie Breskens; 
+a. € 883,00 voor Zeeuwse ‘Visveilingen N.V. voor de afslaglocatie Breskens;  
 
-b. € 7.200,00 voor Zeeuwse Visveilingen N.V. voor de afslaglocatie Vlissingen; 
+b. € 3.027,00 voor de Zeeuwse Visveilingen N.V. voor de afslaglocatie Vlissingen;  
 
-c. € 6.100,00 voor International Seafood Auctions B.V. voor de afslaglocatie Lauwersoog; 
+c. € 2.565,00 voor International Seafood Auctions B.V. voor de afslaglocatie Lauwersoog;  
 
-d. € 5.400,00 voor Visafslag Hollands Noorden V.O.F. voor de afslaglocatie Den Oever; 
+d. € 2.270,00 voor Visafslag Hollands Noorden V.O.F. voor de afslaglocatie Den Oever;  
 
-e  € 5.500.00 voor Visafslag Hollands Noorden V.O.F. voor de afslaglocatie Den Helder; 
+e. € 2.313,00 voor Visafslag Hollands Noorden V.O.F. voor de afslaglocatie Den Helder;  
 
-f.  € 27.100,00 voor Visafslag Urk B.V, voor de afslaglocatie Urk; 
+f. € 11.394,00 voor Visafslag Urk B.V. voor de afslaglocatie Urk;  
 
-g. € 5.700,00 voor Visafslag Urk B.V. voor de afslaglocatie Harlingen; 
+g. € 2.397,00 voor Visafslag Urk B.V. voor de afslaglocatie Harlingen;  
 
-h. € 13.700,00 voor Hollandse Visveiling IJmuiden B.V. voor de afslaglocatie IJmuiden; 
+h. € 5.760,00 voor Hollandse Visveiling IJmuiden B.V. voor de afslaglocatie IJmuiden;  
 
-i. € 6.400,00 voor Visafslag Scheveningen B.V. voor de afslaglocatie Scheveningen; 
+i. € 2.691,00 voor Visafslag Scheveningen B.V. voor de afslaglocatie Scheveningen;  
 
-j.  € 5.500,00 voor Visafslag Stellendam B.V. voor de afslaglocatie Stellendam; 
+j. € 2.313,00 voor Visafslag Stellendam B.V. voor de afslaglocatie Stellendam;  
 
-k. € 600,00 voor Visafslag Colijnsplaat B.V. voor de afslaglocatie Colijnsplaat; 
+k. € 252,00 voor Visafslag Colijnsplaat B.V. voor de afslaglocatie Colijnsplaat;  
 
-l.  € 2.700,00 voor Garnalenafslag Zoutkamp voor de afslaglocatie Zoutkamp.
+l. € 1.135,00 voor Garnalenafslag Zoutkamp voor de afslaglocatie Zoutkamp.  
 
 ###Artikel  4  
 

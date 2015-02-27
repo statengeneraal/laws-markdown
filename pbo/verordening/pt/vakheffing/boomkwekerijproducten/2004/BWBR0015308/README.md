@@ -3,7 +3,7 @@
 ##Besluit van het bestuur van het Productschap Tuinbouw, d.d. 1 juli 2003, houdende regels ter zake van de aan de onder het Productschap Tuinbouw ressorterende ondernemers in de sector boomkwekerijproducten op te leggen heffing in het jaar 2004 (Verordening PT vakheffing boomkwekerijproducten 2004)
 
 HET BESTUUR VAN HET PRODUCTSCHAP TUINBOUW,
-gelet op de [artikelen 95](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en
+gelet op de artikelen 95 en 126 van de Wet op de bedrijfsorganisatie, en
 
 gelet op de artikelen 15 en 19 van de Instellingsverordening Productschap Tuinbouw 1998;
 
@@ -18,7 +18,7 @@ Materieel uitgewerkt per 06-11-2004
 ###Artikel 1 
 Materieel uitgewerkt per 06-11-2004 
 
-1. In deze verordening en de daarop berustende bepalingen worden overgenomen de begripsbepalingen van de [artikelen 1](../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md) en [2 van het Instellingsbesluit Productschap Tuinbouw](../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md).
+1. In deze verordening en de daarop berustende bepalingen worden overgenomen de begripsbepalingen van de artikelen 1 en 2 van het Instellingsbesluit Productschap Tuinbouw.
 2. In deze verordening wordt verder verstaan onder:
 
 | --- | --- | --- | --- |
@@ -71,7 +71,7 @@ Materieel uitgewerkt per 06-11-2004
 ###Artikel 4 
 Materieel uitgewerkt per 06-11-2004 
 
-Indien een heffingsplichtige gegevens die hem krachtens de [Verordening PT algemene bepalingen 2003](../../../../../../../pbo/verordening/pt/algemene/bepalingen/2003/BWBR0016684/README.md) ten behoeve van de onderhavige verordening of krachtens deze verordening zijn gevraagd niet, niet tijdig of niet volledig verstrekt, wordt de heffing berekend over de dan te ramen omvang van de grondslag die op de heffingsplichtige ingevolge deze verordening van toepassing is, in welk geval de heffing met € 40 wordt verhoogd in verband met administratiekosten.
+Indien een heffingsplichtige gegevens die hem krachtens de Verordening PT algemene bepalingen 2003 ten behoeve van de onderhavige verordening of krachtens deze verordening zijn gevraagd niet, niet tijdig of niet volledig verstrekt, wordt de heffing berekend over de dan te ramen omvang van de grondslag die op de heffingsplichtige ingevolge deze verordening van toepassing is, in welk geval de heffing met € 40 wordt verhoogd in verband met administratiekosten.
 
 ###Artikel 5 
 Materieel uitgewerkt per 06-11-2004 
@@ -117,7 +117,7 @@ Aan de heffingsplichtige, die niet of niet geheel binnen de in artikel 7 gesteld
 
 a.de daaruit voortvloeiende extra kosten van € 22,50 in rekening worden gebracht, alsmede
 
-b.de wettelijke interest over het niet betaalde bedrag te berekenen vanaf de dag waarop de betaling diende te zijn verricht ingevolge de aanmaning als bedoeld in [artikel 127, tweede lid van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md).
+b.de wettelijke interest over het niet betaalde bedrag te berekenen vanaf de dag waarop de betaling diende te zijn verricht ingevolge de aanmaning als bedoeld in artikel 127, tweede lid van de Wet op de bedrijfsorganisatie.
 
 ###Artikel 9 
 Materieel uitgewerkt per 06-11-2004 

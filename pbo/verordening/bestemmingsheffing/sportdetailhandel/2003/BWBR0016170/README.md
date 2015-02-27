@@ -3,7 +3,7 @@
 ##Verordening van het Hoofdbedrijfschap Detailhandel van 17 december 2003, houdende vaststelling bestemmingsheffing ten behoeve van de sportdetailhandel voor het jaar 2003 (Verordening bestemmingsheffing sportdetailhandel 2003)
 
 Het bestuur van het Hoofdbedrijfschap Detailhandel;
-Gelet op de [artikelen 95, tweede lid](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126, eerste lid van de Wet op de Bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+Gelet op de artikelen 95, tweede lid en 126, eerste lid van de Wet op de Bedrijfsorganisatie;
 
 Gezien het verzoek van de Vereniging Mitex, vereniging van ondernemers in de sportdetailhandel;
 Besluit
@@ -23,7 +23,7 @@ c.de voorzitter: de voorzitter van het Hoofdbedrijfschap Detailhandel.
 
 ###Artikel 2 
 
-In deze verordening zijn de begripsbepalingen van de [Heffingsverordening Hoofdbedrijfschap Detailhandel 2003](../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/detailhandel/2003/BWBR0014048/README.md) van overeenkomstige toepassing.
+In deze verordening zijn de begripsbepalingen van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2003 van overeenkomstige toepassing.
 
 ###Artikel 3 
 
@@ -57,7 +57,7 @@ Aan de ondernemer die lid van de Vereniging Mitex en over het jaar 2002 aan deze
 
 a.krachtens haar statutaire doelstelling haar werkzaamheid kan uitstrekken tot ten minste een belangrijk gedeelte van het terrein waarop het bedrijfslichaam een taak heeft te vervullen,
 
-b.voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de [artikelen 3 tot en met 7 van de Verordening representativiteit organisaties](../../../../../../pbo/verordening/representativiteit/organisaties/BWBR0011641/README.md),
+b.voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de artikelen 3 tot en met 7 van de Verordening representativiteit organisaties,
 
 c.tot de werkingssfeer van het bedrijfslichaam behorende leden heeft, waarvan het gewogen aantal niet-onbetekenend is,
 
@@ -73,7 +73,7 @@ e.haar activiteiten, al dan niet door middel van een federatie van gelijksoortig
 
 ###Artikel 7 
 
-De [artikelen 7 tot en met 18 van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2003](../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/detailhandel/2003/BWBR0014048/README.md) zijn van overeenkomstige toepassing.
+De artikelen 7 tot en met 18 van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2003 zijn van overeenkomstige toepassing.
 
 ###Artikel 8 
 

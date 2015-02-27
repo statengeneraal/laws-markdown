@@ -3,13 +3,13 @@
 ##Verordening van het Productschap Zuivel van 12 november 2003, houdende vaststelling bestemmingsheffing ten behoeve van de gezondheidszorg voor runderen voor het jaar 2004 (Zuivelverordening Heffing gezondheidszorg voor runderen 2004)
 
 Het bestuur van het Productschap Zuivel;
-Gelet op [artikel 126 van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [artikel 7 van de Instellingsbesluit Productschap Zuivel](../../../../../../../../AMvB/instellingsbesluit/productschap/zuivel/BWBR0015162/README.md);
+Gelet op artikel 126 van de Wet op de bedrijfsorganisatie en artikel 7 van de Instellingsbesluit Productschap Zuivel;
 Besluit:
 
 ###Artikel 1 
 Materieel uitgewerkt per 30-01-2005 
 
-In deze verordening wordt gebezigd de terminologie van de [Zuivelverordening 2003, Administratieve bepalingen](../../../../../../../../pbo/zuivelverordening/2003/administratieve/bepalingen/BWBR0014245/README.md) en wordt voorts dan wel in afwijking daarvan verstaan onder:
+In deze verordening wordt gebezigd de terminologie van de Zuivelverordening 2003, Administratieve bepalingen en wordt voorts dan wel in afwijking daarvan verstaan onder:
 
 | --- | --- | --- |
 |:---|:---|:---|

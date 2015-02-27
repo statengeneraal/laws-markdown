@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat, ingevolge [artikel 91, eerste en tweede lid, van de Grondwet](../../../../../../../wet/grondwet/BWBR0001840/README.md), de wet dient te bepalen de gevallen waarin geen goedkeuring van verdragen of van het voornemen tot opzegging daarvan is vereist en de wijze waarop de goedkeuring wordt verleend, en dat het voorts wenselijk is de in [artikel 95 van de Grondwet](../../../../../../../wet/grondwet/BWBR0001840/README.md) bedoelde wettelijke regeling inzake de bekendmaking van verdragen en van besluiten van volkenrechtelijke organisaties aan te passen, onder meer vanwege wijzigingen die hebben plaatsgevonden in de [Grondwet](../../../../../../../wet/grondwet/BWBR0001840/README.md) en in het [Statuut voor het Koninkrijk der Nederlanden](../../../../../../../rijkswet/statuut/voor/het/koninkrijk/der/nederlanden/BWBR0002154/README.md);
+Alzo Wij in overweging genomen hebben, dat, ingevolge artikel 91, eerste en tweede lid, van de Grondwet, de wet dient te bepalen de gevallen waarin geen goedkeuring van verdragen of van het voornemen tot opzegging daarvan is vereist en de wijze waarop de goedkeuring wordt verleend, en dat het voorts wenselijk is de in artikel 95 van de Grondwet bedoelde wettelijke regeling inzake de bekendmaking van verdragen en van besluiten van volkenrechtelijke organisaties aan te passen, onder meer vanwege wijzigingen die hebben plaatsgevonden in de Grondwet en in het Statuut voor het Koninkrijk der Nederlanden;
 Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen overleg der Staten-Generaal, de bepalingen van het Statuut voor het Koninkrijk in acht genomen zijnde, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  1  
@@ -45,12 +45,12 @@ De uitdrukkelijke goedkeuring wordt verleend bij wet.
 
 ###Artikel 6 
 
-1. Indien een verdrag bepalingen bevat welke afwijken van de [Grondwet](../../../../../../../wet/grondwet/BWBR0001840/README.md) of tot zodanig afwijken noodzaken, wordt dit verdrag aan de uitdrukkelijke goedkeuring onderworpen.
-2.  In het voorstel van wet tot goedkeuring van een zodanig verdrag wordt tot uitdrukking gebracht dat de goedkeuring wordt verleend met inachtneming van het bepaalde in [artikel 91, derde lid, van de Grondwet](../../../../../../../wet/grondwet/BWBR0001840/README.md).
+1. Indien een verdrag bepalingen bevat welke afwijken van de Grondwet of tot zodanig afwijken noodzaken, wordt dit verdrag aan de uitdrukkelijke goedkeuring onderworpen.
+2.  In het voorstel van wet tot goedkeuring van een zodanig verdrag wordt tot uitdrukking gebracht dat de goedkeuring wordt verleend met inachtneming van het bepaalde in artikel 91, derde lid, van de Grondwet.
 
 ###Artikel 7 
 
-Tenzij een verdrag bepalingen bevat welke afwijken van de [Grondwet](../../../../../../../wet/grondwet/BWBR0001840/README.md) of tot zodanig afwijken noodzaken, is de goedkeuring niet vereist: 
+Tenzij een verdrag bepalingen bevat welke afwijken van de Grondwet of tot zodanig afwijken noodzaken, is de goedkeuring niet vereist: 
 
 a.indien het een verdrag betreft, waarvoor dit bij wet is bepaald;
 
@@ -77,7 +77,7 @@ f.indien het verdrag betreft wijziging van een integrerend onderdeel van een goe
 
 ###Artikel 10 
 
-1. Tenzij een verdrag bepalingen bevat welke afwijken van de [Grondwet](../../../../../../../wet/grondwet/BWBR0001840/README.md), of tot zodanig afwijken noodzaken, kan, indien in buitengewone gevallen van dringende aard het belang van het Koninkrijk zich er bepaaldelijk tegen verzet dat een verdrag aan de goedkeuring van de Staten-Generaal wordt onderworpen voordat het Koninkrijk aan dat verdrag wordt gebonden, de binding direct tot stand worden gebracht. Het verdrag wordt daarna zo spoedig mogelijk aan de goedkeuring van de Staten-Generaal onderworpen.
+1. Tenzij een verdrag bepalingen bevat welke afwijken van de Grondwet, of tot zodanig afwijken noodzaken, kan, indien in buitengewone gevallen van dringende aard het belang van het Koninkrijk zich er bepaaldelijk tegen verzet dat een verdrag aan de goedkeuring van de Staten-Generaal wordt onderworpen voordat het Koninkrijk aan dat verdrag wordt gebonden, de binding direct tot stand worden gebracht. Het verdrag wordt daarna zo spoedig mogelijk aan de goedkeuring van de Staten-Generaal onderworpen.
 2.  Een zodanig verdrag wordt aangegaan onder voorbehoud van beëindiging voor het Koninkrijk bij onthouding van de goedkeuring.
 
 ### Artikel  11  
@@ -103,7 +103,7 @@ Indien in de gevallen, bedoeld in de artikelen 10 en 11, de goedkeuring aan het 
 
 ### Artikel  15  
 
-1.  Behoudens in het geval dat het gaat om een verdrag dat bepalingen bevat welke afwijken van de [Grondwet](../../../../../../../wet/grondwet/BWBR0001840/README.md) dan wel tot zodanig afwijken noodzaken, kan, indien het belang van het Koninkrijk het vordert, de regering bewerkstelligen dat een verdrag voor het Koninkrijk voorlopig wordt toegepast voorafgaande aan de inwerkingtreding van dat verdrag.   
+1.  Behoudens in het geval dat het gaat om een verdrag dat bepalingen bevat welke afwijken van de Grondwet dan wel tot zodanig afwijken noodzaken, kan, indien het belang van het Koninkrijk het vordert, de regering bewerkstelligen dat een verdrag voor het Koninkrijk voorlopig wordt toegepast voorafgaande aan de inwerkingtreding van dat verdrag.   
 2.   Met betrekking tot een verdrag dat voor zijn inwerkingtreding de goedkeuring van de Staten-Generaal behoeft is voorlopige toepassing niet geoorloofd ten aanzien van bepalingen van dat verdrag welke afwijken van de wet of tot zonodig afwijken noodzaken.   
 3.   Indien een verdrag bepalingen bevat die naar het oordeel van de regering naar hun inhoud een ieder kunnen verbinden, en de regering wil bewerkstelligen dat ook die bepalingen voorlopig zullen worden toegepast, wordt de tekst van het verdrag en het feit dat het voorlopig zal worden toegepast, bekend gemaakt voordat de voorlopige toepassing een aanvang neemt.   
 4.   Indien overgegaan wordt tot voorlopige toepassing van een verdrag wordt zulks onverwijld aan de Staten-Generaal medegedeeld. Gelijktijdig daarmee wordt zulks ook medegedeeld aan de Staten van Aruba, Curaçao of Sint Maarten, indien het een verdrag betreft dat Aruba, Curaçao of Sint Maarten raakt.  
