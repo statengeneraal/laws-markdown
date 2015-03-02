@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Vee en Vlees van 22 oktober 2003, houdende vaststelling van een bestemmingsheffing ten behoeve van het promotiefonds voor het jaar 2004
 
 Het bestuur van het Productschap Vee en Vlees;
-Gelet op [artikel 126 van de Wet op de Bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en de artikelen 10 en 15 van de Instellingsverordening Productschap Vee en Vlees 1999-1*;*
+Gelet op artikel 126 van de Wet op de Bedrijfsorganisatie, en de artikelen 10 en 15 van de Instellingsverordening Productschap Vee en Vlees 1999-1*;*
 Besluit:
 
 ###Artikel 1 
@@ -12,7 +12,7 @@ Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de V
 
 ###Artikel 2 
 
-1. Op de voet van het bepaalde in [artikel 2 van de Verordening huishoudelijke heffing dieren (PVV) 2004](../../../../../../pbo/verordening/huishoudelijke/heffing/dieren/(pvv)/2004/BWBR0015766/README.md) is voor het Promotiefonds een heffing verschuldigd volgens het navolgende tarief:
+1. Op de voet van het bepaalde in artikel 2 van de Verordening huishoudelijke heffing dieren (PVV) 2004 is voor het Promotiefonds een heffing verschuldigd volgens het navolgende tarief:
 
 | --- | --- | --- |
 |:---|:---|:---|

@@ -3,9 +3,9 @@
 ##Besluit van het bestuur van het Productschap Tuinbouw, d.d. 27 juni 2006, houdende de vaststelling van een heffing ten behoeve van hoveniersbedrijven op te leggen in het jaar 2007 (Verordening PT heffing hoveniersbedrijven omzetjaar 2006)
 
 Het bestuur van het Productschap Tuinbouw,  
-Gelet op de [artikelen 95](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en
+Gelet op de artikelen 95 en 126 van de Wet op de bedrijfsorganisatie, en
 
-Gelet op de [artikelen 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw](../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md);
+Gelet op de artikelen 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw;
 
 Gehoord de Commissie voor hovenierswerkzaamheden, d.d. 12 april 2006;
 Besluit:    
@@ -13,7 +13,7 @@ Besluit:
 ### Artikel  1  
 Materieel uitgewerkt per 25-11-2007 
 
-1.  In deze verordening en de daarop berustende bepalingen worden overgenomen de begripsbepalingen van de [artikelen 1](../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md)en [2 van het Instellingsbesluit Productschap Tuinbouw](../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md).   
+1.  In deze verordening en de daarop berustende bepalingen worden overgenomen de begripsbepalingen van de artikelen 1en 2 van het Instellingsbesluit Productschap Tuinbouw.   
 2.  In deze verordening en de daarop berustende bepalingen wordt verstaan onder:  
 
 | --- | --- | --- |
@@ -79,7 +79,7 @@ c. zodra de ondernemer zich metterwoon in het buitenland heeft gevestigd of van 
 ### Artikel  8  
 Materieel uitgewerkt per 25-11-2007 
 
-Aan de heffingsplichtige, die niet of niet geheel binnen de in artikel 7 bedoelde termijn heeft betaald, kunnen de daaruit voortvloeiende extra kosten van € 22,50 in rekening worden gebracht, alsmede de wettelijke interest over het niet betaalde bedrag, te berekenen vanaf de dag waarop de betaling diende te zijn verricht ingevolge de aanmaning als bedoeld in [artikel 127, tweede lid van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md). 
+Aan de heffingsplichtige, die niet of niet geheel binnen de in artikel 7 bedoelde termijn heeft betaald, kunnen de daaruit voortvloeiende extra kosten van € 22,50 in rekening worden gebracht, alsmede de wettelijke interest over het niet betaalde bedrag, te berekenen vanaf de dag waarop de betaling diende te zijn verricht ingevolge de aanmaning als bedoeld in artikel 127, tweede lid van de Wet op de bedrijfsorganisatie. 
 
 ### Artikel  9  
 Materieel uitgewerkt per 25-11-2007 

@@ -3,15 +3,15 @@
 ##Verordening van het Productschap Vee en Vlees van 10 november 2004, houdende vaststelling bestemmingsheffingen ten behoeve van het veeziektenfonds PVV voor het jaar 2005 (Verordening bestemmingsheffingen veeziektenfonds (PVV) 2005)
 
 Het bestuur van het Productschap Vee en Vlees;
-Gelet op [artikel 126 van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [artikelen 10](../../../../../../../AMvB/instellingsbesluit/productschap/vee/en/vlees/BWBR0016491/README.md) en [12 van het Instellingsbesluit Productschap Vee en Vlees](../../../../../../../AMvB/instellingsbesluit/productschap/vee/en/vlees/BWBR0016491/README.md);
+Gelet op artikel 126 van de Wet op de bedrijfsorganisatie en artikelen 10 en 12 van het Instellingsbesluit Productschap Vee en Vlees;
 
-Gezien de [Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(pvv)/2005/BWBR0017340/README.md);
+Gezien de Verordening algemene bepalingen heffingen (PVV) 2005;
 Besluit:  
 
 ###Artikel 1 
 Materieel uitgewerkt per 12-02-2006 
 
-Deze verordening neemt de begripsbepalingen over van de [Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(pvv)/2005/BWBR0017340/README.md) maar verstaat in afwijking van [artikel 1, onder 7, van de Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(pvv)/2005/BWBR0017340/README.md) onder:
+Deze verordening neemt de begripsbepalingen over van de Verordening algemene bepalingen heffingen (PVV) 2005 maar verstaat in afwijking van artikel 1, onder 7, van de Verordening algemene bepalingen heffingen (PVV) 2005 onder:
 
 | --- | --- | --- | --- |
 |---|---|---|---|
@@ -21,7 +21,7 @@ Deze verordening neemt de begripsbepalingen over van de [Verordening algemene be
 ### Artikel  2  
 Materieel uitgewerkt per 12-02-2006 
 
-De ondernemer die in het jaar 2005 één of meer dieren slacht of doet slachten, dan wel uitvoert, is aan het productschap een heffing verschuldigd ten behoeve van het veeziektenfonds PVV als bedoeld in [artikel 1 van de Verordening veeziektenfonds PVV 2000](../../../../../../../pbo/verordening/veeziektenfonds/pvv/2000/BWBR0010945/README.md) ten bedrage van: 
+De ondernemer die in het jaar 2005 één of meer dieren slacht of doet slachten, dan wel uitvoert, is aan het productschap een heffing verschuldigd ten behoeve van het veeziektenfonds PVV als bedoeld in artikel 1 van de Verordening veeziektenfonds PVV 2000 ten bedrage van: 
 
 a. € 0,00 per varken ten behoeve van de rekening-I-varkens;  
 
@@ -38,7 +38,7 @@ f. € 0,03 per jonge geit ten behoeve van de rekening-III-schapen en geiten.
 ###Artikel 3 
 Materieel uitgewerkt per 12-02-2006 
 
-Naast de in artikel 2 bedoelde heffing, is de ondernemer die in het jaar 2005 één of meer dieren slacht of doet slachten, dan wel uitvoert, aan het productschap een bijzondere heffing ten behoeve van het Veeziektenfonds PVV als bedoeld in [artikel 1 van de Verordening veeziektenfonds PVV 2000](../../../../../../../pbo/verordening/veeziektenfonds/pvv/2000/BWBR0010945/README.md) verschuldigd ten bedrage van:
+Naast de in artikel 2 bedoelde heffing, is de ondernemer die in het jaar 2005 één of meer dieren slacht of doet slachten, dan wel uitvoert, aan het productschap een bijzondere heffing ten behoeve van het Veeziektenfonds PVV als bedoeld in artikel 1 van de Verordening veeziektenfonds PVV 2000 verschuldigd ten bedrage van:
 
 a.Dit lid is nog niet in werking getreden.
 
@@ -83,12 +83,12 @@ drie maanden, in het geval het betreft, kalveren en runderen.
 ###Artikel 6 
 Materieel uitgewerkt per 12-02-2006 
 
-De heffing, bedoeld in de artikelen 2 en 3, is niet verschuldigd voor een dier, ten aanzien waarvan ten genoegen van het productschap is vastgesteld dat het behoort tot de categorieën 5 of 6 zoals bedoeld in [artikel 1, onder q, van het Retributiebesluit Vleeskeuringswet](../../../../../../../KB/retributiebesluit/vleeskeuringswet/BWBR0015470/README.md).
+De heffing, bedoeld in de artikelen 2 en 3, is niet verschuldigd voor een dier, ten aanzien waarvan ten genoegen van het productschap is vastgesteld dat het behoort tot de categorieën 5 of 6 zoals bedoeld in artikel 1, onder q, van het Retributiebesluit Vleeskeuringswet.
 
 ###Artikel 7 
 Materieel uitgewerkt per 12-02-2006 
 
-Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de [Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(pvv)/2005/BWBR0017340/README.md).
+Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de Verordening algemene bepalingen heffingen (PVV) 2005.
 
 ###Artikel 8 
 Materieel uitgewerkt per 12-02-2006 

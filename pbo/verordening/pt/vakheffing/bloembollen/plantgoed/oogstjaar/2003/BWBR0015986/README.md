@@ -3,9 +3,9 @@
 ##Besluit van het bestuur van het Productschap Tuinbouw, d.d. 2 december 2003, houdende de vaststelling van aan telers van en handelaren in bloembollen op te leggen heffing voor het oogstjaar 2003 (Verordening PT vakheffing bloembollen plantgoed oogstjaar 2003)
 
 HET BESTUUR VAN HET PRODUCTSCHAP TUINBOUW,
-gelet op de [artikelen 95](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [100](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en
+gelet op de artikelen 95, 100 en 126 van de Wet op de bedrijfsorganisatie, en
 
-gelet op de [artikelen 14](../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md), [15](../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md) en 19 van de Instellingsverordening Productschap Tuinbouw 1998;
+gelet op de artikelen 14, 15 en 19 van de Instellingsverordening Productschap Tuinbouw 1998;
 
 gehoord de Sectorcommissie voor bollen, knollen en wortelstokken van bloemgewassen,
 BESLUIT:
@@ -18,7 +18,7 @@ Materieel uitgewerkt per 01-06-2004
 ###Artikel 1 
 Materieel uitgewerkt per 01-06-2004 
 
-1. In deze verordening en de daarop berustende bepalingen worden overgenomen de begripsbepalingen van de [artikelen 1](../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md) en [2 van de Instellingsverordening Productschap Tuinbouw 1998](../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md).
+1. In deze verordening en de daarop berustende bepalingen worden overgenomen de begripsbepalingen van de artikelen 1 en 2 van de Instellingsverordening Productschap Tuinbouw 1998.
 2. In deze verordening en de daarop berustende bepalingen wordt verstaan onder:
 
 | --- | --- | --- | --- |
@@ -35,7 +35,7 @@ Materieel uitgewerkt per 01-06-2004
 | --- | --- | --- |6<sup>.</sup> groentevelde per bed of per mand voor 15 juni van het kalenderjaar waarin het koopseizoen aanvangt verhandelde hyacinten, geplant in de maat onder zift 10, droog gesorteerd; |
 | --- | --- | --- |7<sup>.</sup> schubbollen van lelies, en |
 | --- | --- | --- |8<sup>.</sup> voortkwekingsmateriaal, voor zover bestemd voor de teelt van bloembollen, met uitzondering van zaden, |
-|f. |handelskaarthouder |: |de ondernemer in het bezit van een op zijn naam gestelde handelskaart als bedoeld in [artikel 4 van de Verordening PT vakheffing bloembollen leverbaar oogstjaar 2003](../../../../../../../../../pbo/verordening/pt/vakheffing/bloembollen/leverbaar/2003/BWBR0013849/README.md); |
+|f. |handelskaarthouder |: |de ondernemer in het bezit van een op zijn naam gestelde handelskaart als bedoeld in artikel 4 van de Verordening PT vakheffing bloembollen leverbaar oogstjaar 2003; |
 |g. |factuurbedrag |: |het bedrag van de factuur, exclusief behandelingskosten en exclusief kosten kleinverpakkingsmateriaal |
 |h. |veiling |: |de veilingen c.q. bemiddelingsbureaus: Hobaho BV, Coöperatieve Nederlandse Bloembollencentrale (b.a.), Floralia, en Sierteelt Bemiddelings Centrum BV; |
 |h. |koopseizoen |: |de periode van 1 juni 2003 tot en met 31 mei 2004. |
@@ -184,7 +184,7 @@ Materieel uitgewerkt per 01-06-2004
 ###Artikel 16 
 Materieel uitgewerkt per 01-06-2004 
 
-Indien een heffingsplichtige gegevens die hem krachtens de [Verordening PT Algemene bepalingen](../../../../../../../../../pbo/verordening/pt/algemene/bepalingen/2003/BWBR0016684/README.md) ten behoeve van de onderhavige verordening of krachtens deze verordening zijn gevraagd niet, niet tijdig of niet volledig verstrekt, wordt de heffing berekend over de dan te ramen omvang van de grondslag die op de heffingsplichtige ingevolge deze verordening van toepassing is, in welk geval de heffing wordt verhoogd met € 40,= in verband met administratiekosten.
+Indien een heffingsplichtige gegevens die hem krachtens de Verordening PT Algemene bepalingen ten behoeve van de onderhavige verordening of krachtens deze verordening zijn gevraagd niet, niet tijdig of niet volledig verstrekt, wordt de heffing berekend over de dan te ramen omvang van de grondslag die op de heffingsplichtige ingevolge deze verordening van toepassing is, in welk geval de heffing wordt verhoogd met € 40,= in verband met administratiekosten.
 
 ###Artikel 17 
 Materieel uitgewerkt per 01-06-2004 
@@ -223,7 +223,7 @@ Aan de heffingsplichtige, die niet of niet geheel binnen de in artikel 19 bedoel
 
 a.de daaruit voortvloeiende extra kosten van € 22,50 in rekening worden gebracht, alsmede
 
-b.de wettelijke interest over het niet betaalde bedrag, te berekenen vanaf de dag waarop de betaling diende te zijn verricht ingevolge de aanmaning als bedoeld in [artikel 127, tweede lid van de Wet op de bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md).
+b.de wettelijke interest over het niet betaalde bedrag, te berekenen vanaf de dag waarop de betaling diende te zijn verricht ingevolge de aanmaning als bedoeld in artikel 127, tweede lid van de Wet op de bedrijfsorganisatie.
 
 ###Artikel 21 
 Materieel uitgewerkt per 01-06-2004 

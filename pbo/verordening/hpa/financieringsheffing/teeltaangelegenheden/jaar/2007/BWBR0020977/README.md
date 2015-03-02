@@ -3,7 +3,7 @@
 ##Verordening van het Hoofdproductschap Akkerbouw van 9 november 2006 houdende regels ter zake van de aan de onder het Hoofdproductschap Akkerbouw ressorterende ondernemers op te leggen heffing voor het jaar 2007 (verordening HPA financieringsheffing teeltaangelegenheden jaar 2007)
 
 Het bestuur van het Hoofdproductschap Akkerbouw;  
-Gelet op de [artikelen 95](../../../../../../../../wet/ambtenarenwet/BWBR0001947/README.md) en [126 eerste en zesde lid van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/ambtenarenwet/BWBR0001947/README.md) en op de [artikelen 3](../../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md) en [19 van het Instellingsbesluit akkerbouwproductschappen](../../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md);
+Gelet op de artikelen 95 en 126 eerste en zesde lid van de Wet op de bedrijfsorganisatie en op de artikelen 3 en 19 van het Instellingsbesluit akkerbouwproductschappen;
 
 Gehoord de Commissie Teeltaangelegenheden;
 Besluit:     
@@ -116,7 +116,7 @@ Een ondernemersorganisatie wordt op haar schriftelijk en gemotiveerd verzoek doo
 
 a. krachtens haar statutaire doelstelling haar werkzaamheid kan uitstrekken tot ten minste een belangrijk gedeelte van het terrein waarop het hoofdproductschap een taak heeft te vervullen;  
 
-b. voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de [artikelen 3 tot en met 7 van de Verordening representativiteit organisaties](../../../../../../../../pbo/verordening/representativiteit/organisaties/BWBR0011641/README.md) van de Sociaal Economische Raad;  
+b. voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de artikelen 3 tot en met 7 van de Verordening representativiteit organisaties van de Sociaal Economische Raad;  
 
 c. tot de werkingssfeer van het hoofdproductschap behorende leden heeft, waarvan het gewogen aantal niet onbetekenend is;   
 
@@ -183,7 +183,7 @@ De secretaris kan, namens het bestuur, besluiten nota's met een bedrag minder da
 ### Artikel  15  
 Materieel uitgewerkt per 01-01-2008 
 
-Aan de ondernemer die niet of niet geheel binnen de in artikel 12 gestelde termijn heeft betaald, kan door de secretaris, namens het bestuur, de wettelijke interest over het niet-betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md). 
+Aan de ondernemer die niet of niet geheel binnen de in artikel 12 gestelde termijn heeft betaald, kan door de secretaris, namens het bestuur, de wettelijke interest over het niet-betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie. 
 
 ### §  6  
 
@@ -209,7 +209,7 @@ Een besluit als bedoeld in artikel 10, tweede lid wordt bekendgemaakt in het Ver
 ### Artikel  18  
 Materieel uitgewerkt per 01-01-2008 
 
-Deze verordening treedt in werking met ingang van 1 januari 2007. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 31 december 2006, treedt zij in werking de tweede dag na publicatie in het Verordeningenblad Bedrijfsorganisatie en werkt zij terug tot en met 1 januari 2007, met uitzondering van het in [artikel 12 van de Verordening HPA registratie en verstrekking van gegevens 2003](../../../../../../../../pbo/verordening/hpa/registratie/en/verstrekking/van/gegevens/2003/BWBR0014846/README.md) bepaalde. 
+Deze verordening treedt in werking met ingang van 1 januari 2007. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 31 december 2006, treedt zij in werking de tweede dag na publicatie in het Verordeningenblad Bedrijfsorganisatie en werkt zij terug tot en met 1 januari 2007, met uitzondering van het in artikel 12 van de Verordening HPA registratie en verstrekking van gegevens 2003 bepaalde. 
 
 ### Artikel  19  
 Materieel uitgewerkt per 01-01-2008 

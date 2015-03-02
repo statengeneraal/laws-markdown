@@ -3,7 +3,7 @@
 ##Algemene heffingsverordening bloemen en planten 2004 (HBAG 1)
 
 Het bestuur van het Hoofdbedrijfschap Agrarische Groothandel,  
-Gelet op [artikel 126 van de Wet op de Bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op [artikel 13 van het Instellingsbesluit Hoofdbedrijfschap Agrarische Groothandel](../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md) (Staatsblad 2002 nr. 155);
+Gelet op artikel 126 van de Wet op de Bedrijfsorganisatie en op artikel 13 van het Instellingsbesluit Hoofdbedrijfschap Agrarische Groothandel (Staatsblad 2002 nr. 155);
 
 Heeft na advies van de Commissie Bloemkwekerijproducten (Bloemen en Planten) de volgende verordening vastgesteld:
 
@@ -28,12 +28,12 @@ d. het bestaan van een joint-venture of een samenwerkingsafspraak tussen zelfsta
 
 d. het begrotingstijdvak: de periode van 1 januari tot en met 31 december van enig jaar.  
 
-e. het instellingsbesluit: het [Instellingsbesluit Hoofdbedrijfschap Agrarische Groothandel](../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md).    
+e. het instellingsbesluit: het Instellingsbesluit Hoofdbedrijfschap Agrarische Groothandel.    
 
 ### Artikel  2  
 Materieel uitgewerkt per 06-01-2007 
 
-Voor ieder begrotingstijdvak wordt aan de ondernemers, die op of na de dag van inwerkingtreding van deze verordening een onderneming drijven zoals genoemd in [artikel 3, lid 2b, van het instellingsbesluit](../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md), een heffing opgelegd. 
+Voor ieder begrotingstijdvak wordt aan de ondernemers, die op of na de dag van inwerkingtreding van deze verordening een onderneming drijven zoals genoemd in artikel 3, lid 2b, van het instellingsbesluit, een heffing opgelegd. 
 
 ### Artikel  3  
 Materieel uitgewerkt per 06-01-2007 

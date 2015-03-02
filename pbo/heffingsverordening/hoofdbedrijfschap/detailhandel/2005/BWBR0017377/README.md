@@ -3,7 +3,7 @@
 ##Verordening van het Hoofdbedrijfschap voor de Detailhandel van 27 oktober 2004, houdende regels terzake van de aan de onder het hoofdbedrijfschap ressorterende ondernemers op te leggen heffing voor het jaar 2005 (Heffingsverordening Hoofdbedrijfschap Detailhandel 2005)
 
 Het Bestuur van het Hoofdbedrijfschap Detailhandel;
-Gelet op de [artikelen 95 tweede lid](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de Bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+Gelet op de artikelen 95 tweede lid en 126 van de Wet op de Bedrijfsorganisatie;
 Besluit:
 ###§ 1 
 
@@ -16,7 +16,7 @@ Materieel uitgewerkt per 10-12-2005
 
 In deze verordening wordt verstaan onder: 
 
-a. een onderneming: een onderneming waarvoor het hoofdbedrijfschap is ingesteld als bedoeld in [artikel 3 van het Instellingsbesluit Hoofdbedrijfschap Detailhandel](../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/detailhandel/BWBR0017190/README.md);  
+a. een onderneming: een onderneming waarvoor het hoofdbedrijfschap is ingesteld als bedoeld in artikel 3 van het Instellingsbesluit Hoofdbedrijfschap Detailhandel;  
 
 b. de ondernemer: degene die een onderneming drijft dan wel degenen die gezamenlijk een onderneming drijven;  
 
@@ -28,13 +28,13 @@ c. werkzame personen: de personen die doorgaans tenminste 15 uur per week in de 
 
 -meewerkend gezinslid van de ondernemer;    
 
-d. detailhandel: hetgeen daaronder wordt verstaan in [artikel 1 van het Instellingsbesluit Hoofdbedrijfschap Detailhandel](../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/detailhandel/BWBR0017190/README.md);  
+d. detailhandel: hetgeen daaronder wordt verstaan in artikel 1 van het Instellingsbesluit Hoofdbedrijfschap Detailhandel;  
 
 e. ambulante handel: markthandel, straathandel en handel te water;  
 
 f. verkoopplaats: iedere plaats waar de detailhandel anders dan in de uitoefening van de ambulante handel wordt uitgeoefend, alsmede elke voor het publiek toegankelijke besloten ruimte waar waren aan particulieren te koop worden aangeboden;  
 
-g. het inkomen: het verzamelinkomen als bedoeld in [artikel 2.18 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) ;  
+g. het inkomen: het verzamelinkomen als bedoeld in artikel 2.18 van de Wet inkomstenbelasting 2001 ;  
 
 h. de voorzitter: de voorzitter van het Hoofdbedrijfschap Detailhandel.   
 
@@ -106,7 +106,7 @@ c.de Centrale Vereniging voor de Ambulante Handelen over het jaar 2004 de volled
 
 a.krachtens haar statutaire doelstelling haar werkzaamheden kan uitstrekken tot tenminste een belangrijk gedeelte van het terrein waarop het bedrijfslichaam een taak heeft te vervullen;
 
-b.voldoet aan de kwalitatieve representativiteitcriteria, genoemd in de [artikelen 3 tot en met 7 van de Verordening representativiteit organisaties](../../../../../../pbo/verordening/representativiteit/organisaties/BWBR0011641/README.md),
+b.voldoet aan de kwalitatieve representativiteitcriteria, genoemd in de artikelen 3 tot en met 7 van de Verordening representativiteit organisaties,
 
 c.tot de werkingssfeer van het bedrijfslichaam behorende leden heeft, waarvan het gewogen aantal niet onbetekenend is;
 
@@ -140,8 +140,8 @@ Materieel uitgewerkt per 10-12-2005
 ###Artikel 7 
 Materieel uitgewerkt per 10-12-2005 
 
-1. De hoogte van de heffing wordt vastgesteld op grond van de ten aanzien van de ondernemer en onderneming in het register bedoeld in [artikel 3 , eerste lid, van de Registratieverordening HBD 2003](../../../../../../pbo/registratieverordening/hbd/2003/BWBR0015009/README.md) geregistreerde gegevens en het bepaalde in deze verordening.
-2. Indien de ondernemer het bepaalde in [artikel 8 van de Registratieverordening HBD 2003](../../../../../../pbo/registratieverordening/hbd/2003/BWBR0015009/README.md) niet in acht heeft genomen, wordt de heffing ambtshalve vastgesteld.
+1. De hoogte van de heffing wordt vastgesteld op grond van de ten aanzien van de ondernemer en onderneming in het register bedoeld in artikel 3 , eerste lid, van de Registratieverordening HBD 2003 geregistreerde gegevens en het bepaalde in deze verordening.
+2. Indien de ondernemer het bepaalde in artikel 8 van de Registratieverordening HBD 2003 niet in acht heeft genomen, wordt de heffing ambtshalve vastgesteld.
 
 ###Artikel 8 
 Materieel uitgewerkt per 10-12-2005 

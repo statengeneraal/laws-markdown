@@ -3,13 +3,13 @@
 ##Verordening van het Productschap Zuivel van 10 november 2004, houdende vaststelling van de administratieve heffing voor het jaar 2005 (Zuivelverordening Administratieve heffing 2005)
 
 Het bestuur van het Productschap Zuivel;
-Gelet op [artikel 126 van de Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [artikel 7 van het Instellingsbesluit Productschap Zuivel](../../../../../../AMvB/instellingsbesluit/productschap/zuivel/BWBR0015162/README.md);
+Gelet op artikel 126 van de Wet op de bedrijfsorganisatie en artikel 7 van het Instellingsbesluit Productschap Zuivel;
 Besluit:
 
 ###Artikel 1 
 Materieel uitgewerkt per 01-01-2006 
 
-In deze verordening wordt gebezigd de terminologie van de [Zuivelverordening 2003, Administratieve bepalingen](../../../../../../pbo/zuivelverordening/2003/administratieve/bepalingen/BWBR0014245/README.md) en wordt voorts dan wel in afwijking daarvan verstaan onder:
+In deze verordening wordt gebezigd de terminologie van de Zuivelverordening 2003, Administratieve bepalingen en wordt voorts dan wel in afwijking daarvan verstaan onder:
 
 | --- | --- | --- |
 |:---|:---|:---|

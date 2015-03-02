@@ -3,7 +3,7 @@
 ##Verordening van het Hoofdbedrijfschap Detailhandel van 25 oktober 2006, houdende vaststelling bestemmingsheffing mkb-supermarkten 2007 voor het jaar 2007 (Verordening bestemmingsheffing mkb-supermarkten 2007)
 
 Het bestuur van het Hoofdbedrijfschap Detailhandel;  
-Gelet op de [artikelen 95, tweede lid](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+Gelet op de artikelen 95, tweede lid en 126 van de Wet op de bedrijfsorganisatie;
 
 Gezien het advies van de Adviescommissie mkb-supermarkten;
 Besluit:     
@@ -25,7 +25,7 @@ b. midden- en kleinbedrijf: ondernemingen met minimaal 1 en maximaal 10 verkoopp
 ### Artikel  2  
 Materieel uitgewerkt per 09-09-2011 
 
-In deze verordening zijn de begripsbepalingen van de [Heffingsverordening Hoofdbedrijfschap Detailhandel 2007](../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/detailhandel/2007/BWBR0021006/README.md) van overeenkomstige toepassing. 
+In deze verordening zijn de begripsbepalingen van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2007 van overeenkomstige toepassing. 
 
 ### Artikel  3  
 Materieel uitgewerkt per 09-09-2011 
@@ -61,7 +61,7 @@ Materieel uitgewerkt per 09-09-2011
 
 a. krachtens haar statutaire doelstelling haar werkzaamheid kan uitstrekken tot ten minste een belangrijk gedeelte van het terrein waarop het bedrijfslichaam een taak heeft te vervullen,  
 
-b. voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de [artikelen 3 tot en met 7 van de Verordening representativiteit organisaties](../../../../../../pbo/verordening/representativiteit/organisaties/BWBR0011641/README.md),  
+b. voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de artikelen 3 tot en met 7 van de Verordening representativiteit organisaties,  
 
 c. tot de werkingssfeer van het bedrijfslichaam behorende leden heeft, waarvan het gewogen aantal niet onbetekenend is,  
 
@@ -79,7 +79,7 @@ Materieel uitgewerkt per 09-09-2011
 ### Artikel  6  
 Materieel uitgewerkt per 09-09-2011 
 
-De [artikelen 6 tot en met 17 van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2007](../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/detailhandel/2007/BWBR0021006/README.md) zijn van overeenkomstige toepassing. 
+De artikelen 6 tot en met 17 van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2007 zijn van overeenkomstige toepassing. 
 
 ### Artikel  7  
 Materieel uitgewerkt per 09-09-2011 

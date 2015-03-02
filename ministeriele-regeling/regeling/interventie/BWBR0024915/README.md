@@ -76,7 +76,15 @@ q.  *COKZ:* Centraal Orgaan voor Kwaliteitsaangelegenheden in de Zuivel;
 
 r.  *RIKILT:* Rijks-Kwaliteitsinstituut voor Land- en Tuinbouwproducten;  
 
-s. Verordening 1272/2009: Verordening (EU) nr. 1272/2009 van de Commissie van 11 december 2009 tot vaststelling van gemeenschappelijke uitvoeringsbepalingen voor Verordening (EG) nr. 1234/2007 van de Raad wat betreft de aankoop en de verkoop van landbouwproducten in het kader van de openbare interventie (PbEU L 349).  
+s. Verordening 1272/2009: Verordening (EU) nr. 1272/2009 van de Commissie van 11 december 2009 tot vaststelling van gemeenschappelijke uitvoeringsbepalingen voor Verordening (EG) nr. 1234/2007 van de Raad wat betreft de aankoop en de verkoop van landbouwproducten in het kader van de openbare interventie (PbEU L 349); 
+
+t.  *Verordening 1308/2013:* Verordening (EU) nr. 1308/2013 van het Europees Parlement en de Raad van 17 december 2013 tot vaststelling van een gemeenschappelijke ordening van de markten voor landbouwproducten en tot intrekking van de Verordeningen (EEG) nr. 922/72, (EEG) nr. 234/79, (EG) nr. 1037/2001 en (EG) nr. 1234/2007 van de Raad(PbEU 2004, L 139);  
+
+u.  *Verordening 950/2014:* Gedelegeerde verordening (EU) Nr. 950/2014 van de Commissie van 4 september 2014 tot opening van een tijdelijke buitengewone regeling voor de particuliere opslag van bepaalde soorten kaas en tot voorafgaande vaststelling van het steunbedrag (PbEU 2014, L 265);  
+
+v.  *Verordening 854/2004:* Verordening (EG) nr. 854/2004 van het Europees Parlement en de Raad van 29 april 2004 houdende vaststelling van specifieke voorschriften voor de organisatie van de officiële controles van voor menselijke consumptie bestemde producten van dierlijke oorsprong (PbEU 2004, L 139);  
+
+w.  *erkenningsnummer van de fabriek:* erkenningsnummer als bedoeld in artikel 3, derde lid, van Verordening 854/2004.  
 
 ### Paragraaf  2  
 
@@ -482,7 +490,7 @@ Vervallen per 17-03-2010
 
 ### Artikel  74  
 
-Zodra de Commissie van de Europese Gemeenschappen daartoe specifieke uitvoeringsregels heeft vastgesteld, kan de minister op aanvraag steun verlenen voor de particuliere opslag van boter. Hij doet zulks in overeenstemming met de op de particuliere opslag van boter van toepassing zijnde artikelen in Deel II, Titel I, Hoofdstuk I, Sectie III, van Verordening 1234/2007, in overeenstemming met Verordening 826/2008 en met inachtneming van de in de eerste volzin bedoelde specifieke uitvoeringsregels. 
+Zodra de Commissie van de Europese Unie daartoe een specifieke uitvoeringshandeling heeft vastgesteld, kan de minister op aanvraag steun verlenen voor de particuliere opslag van boter. Hij doet zulks in overeenstemming met de op de particuliere opslag van boter van toepassing zijnde artikelen in Deel II, Titel I, Hoofdstuk I, Afdelingen 1, 3 en 4, van Verordening 1308/2013, in overeenstemming met Verordening 826/2008 en met inachtneming van de, in de eerste volzin bedoelde specifieke uitvoeringshandeling. 
 
 ### Artikel  75  
 
@@ -492,7 +500,7 @@ Een aanvraag om de in artikel 74 bedoelde steun wordt ingediend bij de minister.
 
 1.  Op de verpakking van de boter worden de volgende gegevens vermeld: 
 
-a. het EG-erkenningsnummer van de fabriek;  
+a. het erkenningsnummer van de fabriek;  
 
 b. de lidstaat van productie;  
 
@@ -502,11 +510,9 @@ d. de datum van fysieke inslag in het vrieshuis;
 
 e. het productiepartijnummer;  
 
-f. het opslagpartijnummer van het vrieshuis;  
+f. het opslagpartijnummer van het vrieshuis, en  
 
-g. de vermelding ‘gezouten’, indien het gaat om gezouten boter als bedoeld in artikel 28, onder a, en onder ii), van Verordening 1234/2007, en  
-
-h. het nettogewicht.     
+g. het nettogewicht.     
 2.  Het eerste lid, onderdelen d en f, is niet van toepassing mits de volgende voorwaarden in acht zijn genomen: 
 
 a. bij opslag wordt op de pallets of boxpallets, per partij en per pallet of boxpallet, op een duidelijk zichtbare plaats een label aangebracht waarop het opslagpartijnummer, het aantal verpakkingen op de pallet of boxpallet en de datum van fysieke inslag worden vermeld, en  
@@ -531,8 +537,8 @@ c. beschikken over een bemonsteringsruimte.
 
 ### Artikel  79  
 
-1.  Het vrieshuis kan de minister verzoeken om boter onder de in Bijlage 1 vermelde voorwaarden in stellingen op te mogen slaan die na de inslagcontrole door de NVWA worden verzegeld.   
-2.  De in het eerste lid bedoelde aanvraag wordt ingediend bij de minister.  
+1.  De houder van het vrieshuis kan de minister verzoeken om boter onder de in Bijlage 1 vermelde voorwaarden in stellingen op te mogen slaan die na de inslagcontrole door de Minister worden verzegeld.   
+2.  De in het eerste lid bedoelde aanvraag wordt ingediend bij de minister met gebruikmaking van een door de Minister ter beschikking gesteld formulier.  
 
 ### Artikel  80  
 
@@ -540,12 +546,12 @@ De op de inslagopgave, bedoeld in artikel 82, eerste lid, vermelde opslagpartije
 
 ### Artikel  82  
 
-1.  Degene die boter in het kader van dit hoofdstuk opslaat, verstrekt aan de minister binnen uiterlijk achtentwintig dagen gerekend vanaf de productiedatum een opgave van de ingeslagen hoeveelheden. Deze opgave geschiedt schriftelijk of per telefax door gebruikmaking van een bij de minister op te vragen formulier.   
+1.  Degene die boter in het kader van dit hoofdstuk opslaat, verstrekt aan de minister binnen uiterlijk zestig dagen gerekend vanaf de productiedatum een opgave van de ingeslagen hoeveelheden. Deze opgave geschiedt schriftelijk of elektronisch of schriftelijk met gebruikmaking van een door de Minister ter beschikking gesteld formulier.   
 2.  De in het eerste lid bedoelde inslagopgave is tevens de aanvraag tot sluiting van een contract in het kader van dit hoofdstuk.  
 
 ### Artikel  83  
 
-1.  Het vrieshuis maakt een inslagbewijs op van de ingeslagen partijen. De contractant ontvangt hiervan een exemplaar.   
+1.  De houder van het vrieshuis maakt een inslagbewijs op van de ingeslagen partijen. De contractant ontvangt hiervan een exemplaar.   
 2.  Het in het eerste lid bedoelde inslagbewijs bevat in ieder geval de navolgende gegevens: 
 
 a. de inslagdatum;  
@@ -558,13 +564,11 @@ d. het productiepartijnummer of in voorkomend geval de productiepartijnummers;
 
 e. de productiedatum of in voorkomend geval de productiedata;  
 
-f. of het gezouten dan wel ongezouten boter betreft;  
+f. het aantal verpakkingseenheden;  
 
-g. het aantal verpakkingseenheden;  
+g. de hoeveelheid in kilogrammen, en  
 
-h. de hoeveelheid in kilogrammen, en  
-
-i. het adres van de locatie waar de boter fysiek ligt opgeslagen.     
+h. het adres van de locatie waar de boter fysiek ligt opgeslagen.     
 3.  In voorkomend geval wordt de hoeveelheid per productiepartijnummer en productiedatum gespecificeerd.  
 
 ### Artikel  84  
@@ -574,9 +578,9 @@ De uitslag bedraagt ten minste 1.000 kilogram per opslagpartij met dien verstand
 ### Artikel  85  
 
 1.  De kennisgeving bedoeld in artikel 29 van Verordening 826/2008 vindt plaats ten minste twee werkdagen vóór 10:00 uur voor het einde van de maximale opslagperiode, of vóór aanvang van de uitslag wanneer de boter wordt uitgeslagen voordat de maximale contractuele opslagperiode is verstreken.   
-2.  Voor de kennisgeving, bedoeld in het eerste lid, wordt gebruik gemaakt van een bij de minister op te vragen formulier.   
+2.  Voor de kennisgeving, bedoeld in het eerste lid, wordt gebruik gemaakt van een door de Minister ter beschikking gesteld formulier.   
 3.  De in het eerste lid bedoelde kennisgeving wordt tevens aangemerkt als aanvraag om betaling van steun als bedoeld in artikel 30 van Verordening 826/2008.   
-4.  Ook de uitslag van partijen boter waarvoor geen steun kan worden verleend, wordt aan de minister gemeld.  
+4.  Ook de uitslag van partijen boter waarvoor geen steun kan worden verleend, wordt aan de minister gemeld met gebruikmaking van een door de Minister ter beschikking gesteld formulier.  
 
 ### Artikel  86  
 
@@ -592,13 +596,221 @@ Zo spoedig mogelijk na de uitslag zendt het vrieshuis bevestiging van de uitslag
 
 ####Particuliere opslag van mageremelkpoeder
 
-Vervallen per 31-12-2014 
+### Artikel  87a  
+
+Zodra de Commissie van de Europese Unie daartoe een specifieke uitvoeringshandeling heeft vastgesteld, kan de Minister op aanvraag steun verlenen voor de particuliere opslag van mageremelkpoeder. Hij doet zulks in overeenstemming met de op de particuliere opslag van mageremelkpoeder van toepassing zijnde artikelen in Deel II, Titel I, Hoofdstuk I, Afdelingen 1, 3 en 4, van Verordening 1308/2013, in overeenstemming met Verordening 826/2008 en met inachtneming van de in de eerste volzin bedoelde specifieke uitvoeringshandeling. 
+
+### Artikel  87b  
+
+Een aanvraag om de in artikel 87a bedoelde steun wordt ingediend bij de Minister met gebruikmaking van een door de Minister ter beschikking gesteld formulier. 
+
+### Artikel  87c  
+
+1.  Op de verpakking van de mageremelkpoeder worden de volgende gegevens vermeld: 
+
+a. het erkenningsnummer van de fabriek;  
+
+b. de lidstaat van productie;  
+
+c. de datum van productie;  
+
+d. de datum van fysieke inslag in het opslagpand;  
+
+e. het productiepartijnummer;  
+
+f. het opslagpartijnummer van het opslagpand, en  
+
+h. het nettogewicht.     
+2.  Het eerste lid, onderdelen d en f, is niet van toepassing mits de volgende voorwaarden in acht zijn genomen: 
+
+a. bij opslag wordt op de pallets, per partij en per pallet, op een duidelijk zichtbare plaats een label aangebracht waarop het opslagpartijnummer, het aantal verpakkingen op de pallet en de datum van fysieke inslag worden vermeld, en  
+
+b. het opslagpand houdt een register bij waarin op de dag van inslag de in het vorige lid bedoelde gegevens worden opgenomen.    
+
+### Artikel  87d  
+
+1.  Particuliere opslag van mageremelkpoeder vindt plaats in opslagpanden die: 
+
+a. een van een geldig ijkmerk voorziene weegschaal – met een gewichtsaanduiding tot op de tien gram nauwkeurig – beschikbaar hebben waarop een zak met een inhoud van 25 kilogram gewogen kan worden, en  
+
+b. de mageremelkpoeder in particuliere opslag duidelijk scheiden van andere voorraden.     
+2.  Indien mageremelkpoeder wordt opgeslagen in big bags heeft het opslagpand, bedoeld in het eerste lid, een van een geldig ijkmerk voorziene weeginstallatie – met een gewichtsaanduiding tot op de 200 gram nauwkeurig – beschikbaar waarop een big bag met een maximaal gewicht van 1500 kilogram gewogen kan worden.   
+3.  Per partij mageremelkpoeder levert de aanbieder ten minste drie lege zakken bestemd voor mageremelkpoeder en die identiek zijn aan die van de geleverde partij, mee.   
+4.  In afwijking van het derde lid levert de aanbieder wanneer de mageremelkpoeder in big bags wordt opgeslagen ten minste één lege big bag bestemd voor mageremelkpoeder en die identiek zijn aan die van de geleverde partij, mee.  
+
+### Artikel  87e  
+
+1.  Het is niet toegestaan partijen mageremelkpoeder in particuliere opslag zonder toestemming van de Minister te verplaatsen naar een opslagruimte die niet via het eigen terrein bereikbaar is.   
+2.  Toestemming als bedoeld in het eerste lid wordt op aanvraag slechts verleend in geval van overmacht.   
+3.  Indien de verplaatsing reeds heeft plaatsgevonden en de aanvraag tot verplaatsing buiten de opslaglocatie niet wordt gehonoreerd, wordt de verplaatsing of daartoe strekkende aanvraag door de Minister aangemerkt als een uitslagmelding en als een aanvraag tot vaststelling van de steun voor de betreffende partij of partijen.  
+
+### Artikel  87f  
+
+De op de inslagopgave, bedoeld in artikel 87g, eerste lid, vermelde opslagpartijen mageremelkpoeder kunnen slechts bestaan uit partijen die in dezelfde fabriek zijn geproduceerd. 
+
+### Artikel  87g  
+
+1.  Degene die mageremelkpoeder in het kader van dit hoofdstuk opslaat, verstrekt aan de Minister binnen uiterlijk zestig dagen gerekend vanaf de productiedatum een opgave van de ingeslagen hoeveelheden. Deze opgave geschiedt schriftelijk of elektronisch door gebruikmaking van een door de Minister beschikbaar gesteld formulier.   
+2.  De in het eerste lid bedoelde inslagopgave is tevens de aanvraag tot sluiting van een contract in het kader van dit hoofdstuk.  
+
+### Artikel  87h  
+
+1.  De houder van het opslagpand maakt een inslagbewijs op van de ingeslagen partijen. De contractant ontvangt hiervan een exemplaar.   
+2.  Het in het eerste lid bedoelde inslagbewijs bevat in ieder geval de navolgende gegevens: 
+
+a. de inslagdatum;  
+
+b. het opslagpartijnummer;  
+
+c. het erkenningsnummer van de fabriek;  
+
+d. het productiepartijnummer of in voorkomend geval de productiepartijnummers;  
+
+e. de productiedatum of in voorkomend geval de productiedata;  
+
+g. het aantal verpakkingseenheden;  
+
+h. de hoeveelheid in kilogrammen, en  
+
+i. het adres van de locatie waar de mageremelkpoeder fysiek ligt opgeslagen.     
+3.  In voorkomend geval wordt de hoeveelheid per productiepartijnummer en productiedatum gespecificeerd.  
+
+### Artikel  87i  
+
+De uitslag bedraagt ten minste 1.000 kilogram per opslagpartij met dien verstande dat wanneer van een opslagpartij minder dan 1.000 kilogram in opslag is, de uitslag van de totale resterende hoeveelheid in een keer is toegestaan. 
+
+### Artikel  87j  
+
+1.  De kennisgeving bedoeld in artikel 29 van Verordening 826/2008 vindt plaats ten minste twee werkdagen vóór 10:00 uur voor het einde van de maximale opslagperiode, of vóór aanvang van de uitslag wanneer de mageremelkpoeder wordt uitgeslagen voordat de maximale contractuele opslagperiode is verstreken.   
+2.  Voor de kennisgeving, bedoeld in het eerste lid, wordt gebruik gemaakt van een door de Minister beschikbaar gesteld formulier.   
+3.  De in het eerste lid bedoelde kennisgeving wordt tevens aangemerkt als aanvraag om betaling van steun als bedoeld in artikel 30 van Verordening 826/2008.   
+4.  Ook de uitslag van partijen mageremelkpoeder waarvoor geen steun kan worden verleend, wordt aan de Minister gemeld met gebruikmaking van een door de Minister beschikbaar gesteld formulier.  
+
+### Artikel  87k  
+
+Zo spoedig mogelijk na de uitslag zendt het opslagpand, met gebruikmaking van een door de Minister beschikbaar gesteld formulier, bevestiging van de uitslag aan de Minister. 
+
+### Artikel  87l  
+
+1.  De Minister is bevoegd tot verlening van een voorschot op grond van het bepaalde in artikel 31 van Verordening 826/2008.   
+2.  De contractant dient een verzoek om een voorschot in bij de Minister conform een bij de Minister op te vragen formulier.   
+3.  Het voorschot wordt berekend over alle opslagpartijen waarvan de contractuele opslag in één kalendermaand aanvangt.  
 
 ### Hoofdstuk  5b  
 
 ####Particuliere opslag van kaas
 
-Vervallen per 31-12-2014 
+### Artikel  87m  
+
+De Minister kan op basis van een steunaanvraag op grond van artikel 4, eerste lid, van Verordening 950/2014 steun verlenen voor de particuliere opslag van kaas, als bedoeld in artikel 1 van Verordening 950/2014. Hij doet zulks in overeenstemming met Verordening 950/2014. 
+
+### Artikel  87n  
+
+Een aanvraag om de in artikel 87n bedoelde steun wordt ingediend bij de Minister met gebruikmaking van een door de Mnister ter beschikking gesteld formulier. 
+
+### Artikel  87o  
+
+1.  Kaas wordt geacht van een gezonde handelskwaliteit, als bedoeld in artikel 3, eerste lid, van verordening 950/2014, te zijn indien deze op deugdelijke wijze gefabriceerd is door een zuivelonderneming die is erkend op grond van artikel 3, eerste lid, van verordening 854/2004.   
+2.  De minimumouderdom van kaas, bedoeld in artikel 3, eerste lid, van Verordening 950/2014, bedraagt 28 dagen.  
+
+### Artikel  87p  
+
+1.  Op de verpakking van de kaas worden het caseïnemerk en een uniek volgnummer vermeld.   
+2.  In de administratie van het opslagpand is elke kaas traceerbaar en worden de volgende gegevens vastgelegd: 
+
+a. het erkenningsnummer van de fabriek;  
+
+b. de lidstaat van productie;  
+
+c. de datum van productie;  
+
+d. de datum van fysieke inslag in het opslagpand of het vrieshuis;  
+
+e. het productiepartijnummer;  
+
+f. het opslagpartijnummer van het opslagpand, en  
+
+h. het gewicht en het aantal verpakte kazen.     
+2.  Het eerste lid, onderdelen d en f, is niet van toepassing mits de volgende voorwaarden in acht zijn genomen: 
+
+a. bij opslag wordt op de pallets of boxpallets, per partij en per pallet of boxpallet, op een duidelijk zichtbare plaats een label aangebracht waarop het opslagpartijnummer, het aantal verpakkingen op de pallet of boxpallet en de datum van fysieke inslag worden vermeld, en  
+
+b. het opslagpand of het vrieshuis houdt een register bij waarin op de dag van inslag de in het vorige lid bedoelde gegevens worden opgenomen.    
+
+### Artikel  87q  
+
+1.  Particuliere opslag van kaas vindt plaats in opslagpanden die een van een geldig ijkmerk voorziene weegschaal – met een gewichtsaanduiding tot op de tien gram nauwkeurig – beschikbaar hebben waarop een verpakking met een inhoud van 25 kilogram gewogen kan worden.   
+2.  In afwijking van het eerste lid vind de opslag van diepgevroren wrongel plaats in vrieshuizen die: 
+
+a. een van een geldig ijkmerk voorziene weegschaal – met een gewichtsaanduiding tot op de tien gram nauwkeurig – beschikbaar hebben waarop een verpakking met een inhoud van 25 kilogram gewogen kan worden, en  
+
+b. beschikken over een bemonsteringsruimte.     
+3.  Een beheerder van een opslagpand of vrieshuis draagt er zorg voor dat de kaas in particuliere opslag op dusdanige wijze wordt opgeslagen dat de individuele kazen bereikbaar zijn voor een controle door de Minister.  
+
+### Artikel  87r  
+
+1.  Het is niet toegestaan partijen kaas in particuliere opslag zonder toestemming van de Minister te verplaatsen naar een opslagruimte die niet via het eigen terrein bereikbaar is.   
+2.  Toestemming als bedoeld in het eerste lid wordt op aanvraag slechts verleend in geval van overmacht.   
+3.  Indien de verplaatsing reeds heeft plaatsgevonden en de aanvraag tot verplaatsing buiten de opslaglocatie niet wordt gehonoreerd, wordt de aanvraag door de Minister aangemerkt als een uitslagmelding en als een aanvraag tot vaststelling van de steun voor de betreffende partij of partijen.  
+
+### Artikel  87s  
+
+1.  De houder van het opslagpand of het vrieshuis kan de Minister verzoeken om kaas onder de in Bijlage 1 vermelde voorwaarden in stellingen of koelcellen op te mogen slaan die na de inslagcontrole door de Minister worden verzegeld.   
+2.  De in het eerste lid bedoelde aanvraag wordt ingediend bij de Minister met gebruikmaking van een door de Minister beschikbaar gesteld formulier.  
+
+### Artikel  87t  
+
+De op de inslagopgave, bedoeld in artikel 87h, eerste lid, vermelde opslagpartijen kaas kunnen slechts bestaan uit een partij die in dezelfde erkende fabriek is geproduceerd. 
+
+### Artikel  87u  
+
+1.  Degene die kaas in het kader van dit hoofdstuk opslaat, verstrekt aan de Minister binnen uiterlijk achtentwintig dagen gerekend vanaf de productiedatum een opgave van de ingeslagen hoeveelheden. Deze opgave geschiedt schriftelijk of elektronisch door gebruikmaking van een door de Minister beschikbaar gesteld formulier.   
+2.  De in het eerste lid bedoelde inslagopgave is tevens de aanvraag tot sluiting van een contract in het kader van dit hoofdstuk.  
+
+### Artikel  87v  
+
+1.  De houder van het opslagpand of het vrieshuis maakt een inslagbewijs op van de ingeslagen partijen. De contractant ontvangt hiervan een exemplaar.   
+2.  Het in het eerste lid bedoelde inslagbewijs bevat in ieder geval de navolgende gegevens: 
+
+a. de inslagdatum;  
+
+b. het opslagpartijnummer;  
+
+c. het erkenningsnummer van de fabriek;  
+
+d. het productiepartijnummer of in voorkomend geval de productiepartijnummers;  
+
+e. de productiedatum of in voorkomend geval de productiedata;  
+
+g. het aantal verpakkingseenheden;  
+
+h. de opslagperiode;  
+
+i. de hoeveelheid in kilogrammen, en  
+
+j. het adres van de locatie waar de kaas fysiek ligt opgeslagen.     
+3.  In voorkomend geval wordt de hoeveelheid per productiepartijnummer en productiedatum gespecificeerd.  
+
+### Artikel  87w  
+
+De uitslag bedraagt ten minste 500 kilogram per opslagpartij met dien verstande dat wanneer van een opslagpartij minder dan 500 kilogram in opslag is, de uitslag van de totale resterende hoeveelheid in een keer is toegestaan. 
+
+### Artikel  87x  
+
+1.  De kennisgeving bedoeld in artikel 8, derde lid, van Verordening 950/2014 vindt plaats ten minste twee werkdagen vóór 10:00 uur voor het einde van de maximale opslagperiode, of vóór aanvang van de uitslag wanneer de kaas wordt uitgeslagen voordat de maximale contractuele opslagperiode is verstreken.   
+2.  Voor de kennisgeving, bedoeld in het eerste lid, wordt gebruik gemaakt van een door de Minister beschikbaar gesteld formulier.   
+3.  De in het eerste lid bedoelde kennisgeving wordt tevens aangemerkt als aanvraag om betaling van steun als bedoeld in artikel 11, eerste lid, van Verordening 950/2014.   
+4.  Ook de uitslag van partijen kaas waarvoor geen steun kan worden verleend, wordt aan de Minister gemeld met gebruikmaking van een door de Minister beschikbaar gesteld formulier.  
+
+### Artikel  87y  
+
+Zo spoedig mogelijk na de uitslag zendt het opslagpand, met gebruikmaking van een door de Minister beschikbaar gesteld formulier, bevestiging van de uitslag aan de Minister. 
+
+### Artikel  87z  
+
+1.  De Minister is bevoegd tot verlening van een voorschot op grond van het bepaalde in artikel 10. eerste lid, van Verordening 950/2014.   
+2.  De contractant dient een verzoek om een voorschot in bij de Minister conform een bij de Minister op te vragen formulier.   
+3.  Het voorschot wordt berekend over alle opslagpartijen waarvan de contractuele opslag in één kalendermaand aanvangt.  
 
 ### Hoofdstuk  6  
 
@@ -615,7 +827,7 @@ Vervallen per 31-12-2014
 
 ### Artikel  89  
 
-Zodra de Commissie van de Europese Gemeenschappen daartoe specifieke uitvoeringsregels heeft vastgesteld, kan de minister op aanvraag steun verlenen voor de particuliere opslag van rundvlees en varkensvlees. De minister doet zulks in overeenstemming met de op de particuliere opslag van varkensvlees en rundvlees van toepassing zijnde artikelen in Deel II, Titel I, Hoofdstuk I, Sectie III, van Verordening 1234/2007, in overeenstemming met Verordening 826/2008 en met inachtneming van de in de eerste volzin bedoelde specifieke uitvoeringsregels. 
+Zodra de Commissie van de Europese Gemeenschappen daartoe specifieke uitvoeringsregels heeft vastgesteld, kan de minister op aanvraag steun verlenen voor de particuliere opslag van rundvlees en varkensvlees. De minister doet zulks in overeenstemming met de op de particuliere opslag van varkensvlees en rundvlees van toepassing zijnde artikelen in Deel II, Titel I, Hoofdstuk I, Afdelingen 1, 3 en 4, van Verordening 1308/2013, in overeenstemming met Verordening 826/2008 en met inachtneming van de in de eerste volzin bedoelde specifieke uitvoeringsregels. 
 
 ### Artikel  90  
 
@@ -868,7 +1080,7 @@ De noteringen worden schriftelijk vastgesteld en onmiddellijk daarna bekend gema
 
 1.  De noteringen hebben betrekking op de prijzen van de navolgende producten, in de soort, de hoedanigheid en de verpakking, als achter elk product aangegeven: 
 
-a. verse boter uit zure of zoete room, voorzien van het EG-erkenningsnummer van het productiebedrijf, verpakt in een karton met een inhoud van 25 kilogram;  
+a. verse boter uit zure of zoete room, voorzien van het erkenningsnummer van de fabriek, verpakt in een karton met een inhoud van 25 kilogram;  
 
 b. vol melkpoeder dat volgens het verstuivingsprocedé is bereid;  
 
@@ -919,13 +1131,13 @@ G. Verburg
 
 ####als bedoeld in artikel 79 
 
-####Voorwaarden voor de opslag van boter in verzegelde stellingen
+####Voorwaarden voor de opslag van boter, mageremelkpoeder en kaas in verzegelde stellingen
 
-1. De pallets met boter worden zodanig in stellingen opgeslagen dat na het aanbrengen van het nylonkoord de pallets niet uit de stelling gehaald kunnen worden zonder dat het koord losgemaakt wordt.  
+1. De pallets met boter, mageremelkpoeder en kaas worden zodanig in stellingen opgeslagen dat na het aanbrengen van het nylonkoord de pallets niet uit de stelling gehaald kunnen worden zonder dat het koord losgemaakt wordt.  
 
-2. Het aanbrengen van het koord en het verzegelen vinden tijdens de inslagcontrole plaats. Tijdens deze inslagcontrole dient de boter bereikbaar en controleerbaar te zijn of te worden gemaakt.  
+2. Het aanbrengen van het koord en het verzegelen vinden tijdens de inslagcontrole plaats. Tijdens deze inslagcontrole dient de boter, mageremelkpoeder en kaas bereikbaar en controleerbaar te zijn of te worden gemaakt.  
 
-3. Het koord wordt door het vrieshuis onder toezicht van de NVWA aangebracht, en de uiteinden worden zodanig samengeknoopt dat daar het zegel – t.b.v. de verzegeling – door de NVWA kan worden bevestigd.  
+3. Het koord wordt door het vrieshuis of opslagpand onder toezicht van de NVWA aangebracht, en de uiteinden worden zodanig samengeknoopt dat daar het zegel – t.b.v. de verzegeling – door de NVWA kan worden bevestigd.  
 
 4. De verzegelde stelling wordt per opslagpartij voorzien van een kaart waarop de navolgende gegevens worden vermeld: 
 
@@ -933,7 +1145,7 @@ G. Verburg
 
 – opslagpartijnummer(s);  
 
-– aantal dozen per opslagpartij;  
+– aantal verpakkingseenheden per opslagpartij;  
 
 – datum van inslag;  
 
@@ -941,23 +1153,23 @@ G. Verburg
 
 – datum opslagcontrole(s), naam en handtekening en stempel van de NVWA.    
 
-5. Het vrieshuis draagt zorg voor het nylonkoord en voor de onder punt 4. bedoelde kaarten.  
+5. Het vrieshuis of opslagpand draagt zorg voor het nylonkoord en voor de onder punt 4. bedoelde kaarten.  
 
 6. De minister behoudt zich het recht voor om ongeacht de verzegeling toch een of meerdere partijen aan een nadere controle te onderwerpen. Dit betekent dat de opslagpartijen dan controleerbaar gemaakt moeten worden.  
 
-7. Wanneer bij controle blijkt dat de verzegeling is verbroken zullen de desbetreffende opslagpartijen boter aan een intensieve controle worden onderworpen.  
+7. Wanneer bij controle blijkt dat de verzegeling is verbroken zullen de desbetreffende opslagpartijen boter, mageremelkpoeder en kaas aan een intensieve controle worden onderworpen.  
 
 8. Vóór uitslag vindt er een eindcontrole plaats en tijdens deze controle verbreekt de NVWA het zegel.  
 
-9. Uitsluitend wanneer de uitslag tijdig is aangemeld en de desbetreffende opslagpartij(en) niet aan een eindcontrole wordt (worden) onderworpen mag het vrieshuis het zegel op de aangemelde dag van uitslag verbreken. In dat geval wordt op de in punt 4 genoemde kaart door de medewerker van het vrieshuis vermeld: 
+9. Uitsluitend wanneer de uitslag tijdig is aangemeld en de desbetreffende opslagpartij(en) niet aan een eindcontrole wordt (worden) onderworpen mag het vrieshuis of opslagpand het zegel op de aangemelde dag van uitslag verbreken. In dat geval wordt op de in punt 4 genoemde kaart door de medewerker van het vrieshuis of opslagpand vermeld: 
 
 – ‘verzegeling verbroken’;  
 
 – datum en uur van ontzegelen;  
 
-– naam en handtekening.   Wanneer na de uitslag van de desbetreffende aangemelde (deel)-hoeveelheid van de partij zich nog boter in de desbetreffende stelling bevindt zal deze bij een volgende controle door de NVWA aan een intensieve controle worden onderworpen.  
+– naam en handtekening.   Wanneer na de uitslag van de desbetreffende aangemelde (deel)-hoeveelheid van de partij zich nog boter, mageremelkpoeder en kaas in de desbetreffende stelling bevindt zal deze bij een volgende controle door de NVWA aan een intensieve controle worden onderworpen.  
 
-10. Indien een contractant bezwaar heeft tegen opslag in stellingen, dient dit bezwaar vóór de opslag bij zowel de vrieshuishouder als bij de minister schriftelijk kenbaar te worden gemaakt.   
+10. Indien een contractant bezwaar heeft tegen opslag in stellingen, dient dit bezwaar vóór de opslag bij zowel de vrieshuishouder of opslagpandhouder als bij de minister schriftelijk kenbaar te worden gemaakt.   
 
 ### Bijlage 2 
 

@@ -3,7 +3,7 @@
 ##Verordening van het Bedrijfschap Horeca en Catering, houdende regels ter zake van de aan de onder het Bedrijfschap Horeca en Catering ressorterende ondernemers van logiesverstrekkende be drijven op te leggen bestemmingsheffing voor het jaar 2005 ten behoeve van de Nederlandse hotel classificatie (Verordening Bestemmingsheffing Hotelclassificatie Bedrijfschap Horeca en Catering 2005)
 
 Het bestuur van het Bedrijfschap Horeca en Catering;
-Gelet op de [artikelen 93](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op de [artikelen 2](../../../../../../../../../AMvB/instellingsbesluit/bedrijfschap/horeca/en/catering/BWBR0016029/README.md), [4](../../../../../../../../../AMvB/instellingsbesluit/bedrijfschap/horeca/en/catering/BWBR0016029/README.md) en [7 van het Instellingsbesluit Bedrijfschap Horeca en Catering](../../../../../../../../../AMvB/instellingsbesluit/bedrijfschap/horeca/en/catering/BWBR0016029/README.md);
+Gelet op de artikelen 93, 95 en 126 van de Wet op de bedrijfsorganisatie en op de artikelen 2, 4 en 7 van het Instellingsbesluit Bedrijfschap Horeca en Catering;
 Besluit vast te stellen de navolgende verordening:
 ###§ 1 
 
@@ -57,7 +57,7 @@ een andere ondernemersorganisatie die een vereniging met volledige rechtsbevoegd
 
 a.krachtens haar statutaire doelstelling haar werkzaamheid kan uitstrekken tot ten minste een belangrijk gedeelte van het terrein waarop het bedrijfschap een taak heeft te vervullen,
 
-b.voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de [Verordening representativiteit organisaties](../../../../../../../../../pbo/verordening/representativiteit/organisaties/BWBR0011641/README.md) van de Sociaal Economische Raad,
+b.voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de Verordening representativiteit organisaties van de Sociaal Economische Raad,
 
 c.tot de werkingssfeer van het bedrijfschap behorende leden heeft, waarvan het gewogen aantal niet-onbetekenend is,
 
@@ -108,7 +108,7 @@ a.kunnen administratieve kosten in rekening worden gebracht, welke minimaal 10 %
 
 b.kan rente worden gevorderd over het verschuldigde bedrag van de dag af dat het verschuldigde bedrag betaald had moeten zijn;
 
-c.kan vergoeding worden gevorderd van alle invorderingskosten.De rente wordt berekend naar het percentage bedoeld in [artikel 6:119](../../../../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) jo [6:120 Burgerlijk Wetboek](../../../../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md), dat geldt op de datum waarop de rente wordt gevorderd. De invorderingskosten worden gesteld op 15% van het verschuldigde bedrag met een minimum van € 150.
+c.kan vergoeding worden gevorderd van alle invorderingskosten.De rente wordt berekend naar het percentage bedoeld in artikel 6:119 jo 6:120 Burgerlijk Wetboek, dat geldt op de datum waarop de rente wordt gevorderd. De invorderingskosten worden gesteld op 15% van het verschuldigde bedrag met een minimum van € 150.
 
 ###§ 5 
 

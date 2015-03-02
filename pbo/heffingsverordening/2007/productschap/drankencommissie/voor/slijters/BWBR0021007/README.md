@@ -5,13 +5,13 @@
 Het Bestuur van het Productschap Dranken,  
 Gelet op:
 
-[artikel 126 van de Wet op de Bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) (hierna Wbo) en
+artikel 126 van de Wet op de Bedrijfsorganisatie (hierna Wbo) en
 
-[artikelen 12](../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md) en [14 van het Instellingsbesluit Productschap Dranken](../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md) (hierna het Instellingsbesluit) 
+artikelen 12 en 14 van het Instellingsbesluit Productschap Dranken (hierna het Instellingsbesluit) 
 
 Gezien:
 
-het advies van de Commissie ex [artikel 5 lid 1 d van het Instellingsbesluit](../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md) (hierna de Commissie voor slijters);
+het advies van de Commissie ex artikel 5 lid 1 d van het Instellingsbesluit (hierna de Commissie voor slijters);
 Besluit: vast te stellen de navolgende Verordening.      
 ### §  1  
 
@@ -24,7 +24,7 @@ Materieel uitgewerkt per 01-03-2008
 
 In deze verordening wordt verstaan onder: 
 
-a. de Wet: de [Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md)  
+a. de Wet: de Wet op de bedrijfsorganisatie  
 
 b. de Raad: de Sociaal-Economische Raad  
 
@@ -36,7 +36,7 @@ e. de Voorzitter: de voorzitter van het Productschap;
 
 f. het Instellingsbesluit: het Instellingsbesluit Productschap Dranken  
 
-g. de Commissie: een orgaan als bedoeld in [artikel 88a van de Wet](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), hier: de Commissie voor slijters ex [artikel 5 lid 1 d van het Instellingsbesluit](../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md) (hierna de Commissie voor slijters)  
+g. de Commissie: een orgaan als bedoeld in artikel 88a van de Wet, hier: de Commissie voor slijters ex artikel 5 lid 1 d van het Instellingsbesluit (hierna de Commissie voor slijters)  
 
 h. de Commisievoorzitter: de voorzitter van de Commissie  
 
@@ -44,7 +44,7 @@ i. de Commissiesecretaris: de secretaris van de Commissie
 
 j. de Verordening: de Heffingsverordening 2007 Productschap Dranken/Commissie voor slijters  
 
-k. een onderneming: de natuurlijke- of rechtspersoon die een onderneming drijft als bedoeld in [artikel 3 lid 2 onder d van het Instellingsbesluit](../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md);  
+k. een onderneming: de natuurlijke- of rechtspersoon die een onderneming drijft als bedoeld in artikel 3 lid 2 onder d van het Instellingsbesluit;  
 
 l. de ondernemer: de natuurlijke- of rechtspersoon die een onderneming drijft, danwel degenen die gezamenlijk een onderneming drijven;  
 

@@ -3,9 +3,9 @@
 ##Besluit van het bestuur van het Productschap Tuinbouw van 27 juni 2006, houdende de vaststelling van een heffing ten behoeve van de teelt van fruit en champignons voor het jaar 2007 (Verordening PT bijzondere heffing teelt fruit en champignons 2007)
 
 Het bestuur van het Productschap Tuinbouw,  
-Gelet op de [artikelen 95](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en
+Gelet op de artikelen 95 en 126 van de Wet op de bedrijfsorganisatie, en
 
-Gelet op de [artikelen 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw](../../../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md);
+Gelet op de artikelen 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw;
 
 Gehoord de Commissie voor groenten en fruit, d.d. 20 juni 2006;
 Besluit:     
@@ -18,8 +18,8 @@ Materieel uitgewerkt per 21-10-2007
 ### Artikel  1  
 Materieel uitgewerkt per 21-10-2007 
 
-1.  In deze verordening worden overgenomen de begripsbepalingen van de [artikelen 1](../../../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md) en [2 van het Instellingsbesluit Productschap Tuinbouw](../../../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md).   
-2.  In deze verordening worden overgenomen de begripsbepalingen van [artikel 1:1](../../../../../../../../../../../pbo/verordening/pt/algemene/bepalingen/2003/BWBR0016684/README.md) en [artikel 3:1](../../../../../../../../../../../pbo/verordening/pt/algemene/bepalingen/2003/BWBR0016684/README.md), en de werkwijze zoals beschreven in [hoofdstuk 3 van de Verordening PT algemene bepalingen 2003](../../../../../../../../../../../pbo/verordening/pt/algemene/bepalingen/2003/BWBR0016684/README.md).   
+1.  In deze verordening worden overgenomen de begripsbepalingen van de artikelen 1 en 2 van het Instellingsbesluit Productschap Tuinbouw.   
+2.  In deze verordening worden overgenomen de begripsbepalingen van artikel 1:1 en artikel 3:1, en de werkwijze zoals beschreven in hoofdstuk 3 van de Verordening PT algemene bepalingen 2003.   
 3.  In deze verordening en de daarop berustende bepalingen wordt verstaan onder:  
 
 | --- | --- | --- |

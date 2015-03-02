@@ -3,7 +3,7 @@
 ##Verordening van het Hoofdbedrijfschap Ambachten van 27 september 2006, houdende regels terzake van de aan de ondernemers die het schoenherstellersbedrijf uitoefenen op te leggen bestemmingsheffing opleiding voor het jaar 2007 (Verordening bestemmingsheffing schoenherstellersbedrijf opleiding 2007)
 
 Het bestuur van het Hoofdbedrijfschap Ambachten;  
-Gelet op [artikel 95, tweede lid](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+Gelet op artikel 95, tweede lid en 126 van de Wet op de bedrijfsorganisatie;
 
 Gezien het advies van de Commissie schoenmakerij;
 Besluit:     
@@ -22,7 +22,7 @@ a. de voorzitter: de voorzitter van het Hoofdbedrijfschap Ambachten;
 
 b. de ondernemer: degene die een onderneming drijft, dan wel degenen die gezamenlijk een onderneming drijven;  
 
-c. bestemmingsheffing: heffing die is gebaseerd op [artikel 9, tweede lid, van het Instellingsbesluit Hoofdbedrijfschap Ambachten](../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/ambachten/BWBR0015845/README.md).   
+c. bestemmingsheffing: heffing die is gebaseerd op artikel 9, tweede lid, van het Instellingsbesluit Hoofdbedrijfschap Ambachten.   
 
 ### Artikel  2  
 Materieel uitgewerkt per 05-01-2008 
@@ -53,7 +53,7 @@ Materieel uitgewerkt per 05-01-2008
 
 1.  Bij cumulatie van onderhavige bestemmingsheffing met een of meer andere aan het Hoofdbedrijfschap Ambachten te betalen bestemmingsheffingen, vermindert de voorzitter de heffing tot nihil, indien de uitoefening van het schoenherstellersbedrijf kan worden aangemerkt als een nevenactiviteit ten opzichte van die andere bedrijfsuitoefening of bedrijfsuitoefeningen waarvoor een bestemmingsheffing is opgelegd.   
 2.  De vermindering wordt alleen toegepast ten aanzien van de vestiging of onderneming waarin één persoon alle bedrijven uitoefent waarvoor bestemmingsheffingen zijn opgelegd.   
-3.  Het eerste lid wordt niet toegepast bij cumulatie met de bestemmingsheffing op grond van de [Verordening bestemmingsheffing schoenherstellersbedrijf 2007](../../../../../../../pbo/verordening/bestemmingheffing/schoenherstellersbedrijf/2007/BWBR0020356/README.md).  
+3.  Het eerste lid wordt niet toegepast bij cumulatie met de bestemmingsheffing op grond van de Verordening bestemmingsheffing schoenherstellersbedrijf 2007.  
 
 ### Artikel  5  
 Materieel uitgewerkt per 05-01-2008 
@@ -69,7 +69,7 @@ Materieel uitgewerkt per 05-01-2008
 ### Artikel  6  
 Materieel uitgewerkt per 05-01-2008 
 
-De [artikelen 5 tot en met 14 van de heffingsverordening Hoofdbedrijfschap Ambachten 2007](../../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/ambachten/2007/BWBR0021022/README.md) zijn van overeenkomstige toepassing. 
+De artikelen 5 tot en met 14 van de heffingsverordening Hoofdbedrijfschap Ambachten 2007 zijn van overeenkomstige toepassing. 
 
 ### Artikel  7  
 Materieel uitgewerkt per 05-01-2008 

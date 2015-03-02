@@ -3,7 +3,7 @@
 ##VERORDENING van het Hoofdbedrijfschap Afbouw en Onderhoud, houdende regels ter zake van de aan de onder het Hoofdbedrijfschap Afbouw en Onderhoud ressorterende ondernemers op te leggen heffing voor het jaar 2004 (Heffingsverordening Hoofdbedrijfschap Afbouw en Onderhoud 2004).
 
 HET BESTUUR VAN HET HOOFDBEDRIJFSCHAP AFBOUW EN ONDERHOUD,
-Gelet op de [artikelen 93](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de Bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [artikel 10 van het Instellingsbesluit Hoofdbedrijfschap Afbouw en Onderhoud](../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/afbouw/en/onderhoud/BWBR0013863/README.md),
+Gelet op de artikelen 93 en 126 van de Wet op de Bedrijfsorganisatie en artikel 10 van het Instellingsbesluit Hoofdbedrijfschap Afbouw en Onderhoud,
 Besluit: VERORDENING
 ###§ 1 
 
@@ -93,7 +93,7 @@ Materieel uitgewerkt per 09-04-2005
 
 krachtens haar statutaire doelstelling haar werkzaamheden kan uitstrekken tot ten minste een belangrijk gedeelte van het terrein waarop het bedrijfschap een taak heeft te vervullen,
 
-voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de [artikelen 3 tot en met 7 van de Verordening representativiteit organisaties van de Sociaal-Economische Raad](../../../../../../../../pbo/verordening/representativiteit/organisaties/BWBR0011641/README.md),
+voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de artikelen 3 tot en met 7 van de Verordening representativiteit organisaties van de Sociaal-Economische Raad,
 
 tot de werkingssfeer van het hoofdbedrijfschap behorende leden heeft, waarvan het gewogen aantal niet-onbetekenend is,
 

@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Vee en Vlees van 10 december 2003, houdende vaststelling van een bestemmingsheffing ten behoeve van het onderzoeks- en ontwikkelingsfonds vleeswarenindustrie voor het jaar 2004 (Verordening heffingen O & O fonds vleeswarenindustrie (PVV) 2004)
 
 Het bestuur van het Productschap Vee en Vlees;
-Gelet op [artikel 126 van de Wet op de Bedrijfsorganisatie](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en de artikelen 10 en 15 van de Instellingsverordening Productschap Vee en Vlees 1999-I dan wel de [artikelen 10](../../../../../../../../../../../AMvB/instellingsbesluit/productschap/vee/en/vlees/BWBR0016491/README.md) en [12 van het instellingsbesluit Productschap Vee en Vlees](../../../../../../../../../../../AMvB/instellingsbesluit/productschap/vee/en/vlees/BWBR0016491/README.md) zodra dit in werking is getreden;
+Gelet op artikel 126 van de Wet op de Bedrijfsorganisatie, en de artikelen 10 en 15 van de Instellingsverordening Productschap Vee en Vlees 1999-I dan wel de artikelen 10 en 12 van het instellingsbesluit Productschap Vee en Vlees zodra dit in werking is getreden;
 Besluit:
 
 ###Artikel 1 
@@ -45,7 +45,7 @@ Voor een ondernemer, die na 1 januari 2004 aangevangen heeft een onderneming te 
 
 ###Artikel 4 
 
-1. Aan de ondernemer, die contributie heeft betaald als lid of indirect lid van een overeenkomstig het derde lid aangewezen ondernemersorganisatie, wordt op zijn verzoek een aftrek toegestaan op het totaal aan heffing verschuldigde bedrag op grond van de [Verordening huishoudelijke heffingen vleeswarenindustrie (PVV) 2004](../../../../../../../../../../../pbo/verordening/huishoudelijke/heffingen/vleeswarenindustrie/(pvv)/2004/BWBR0016040/README.md), de Verordening heffingen O&O fonds vleeswarenindustrie (PVV) 2004 en de Verordening heffingen fonds sociale aangelegenheden vleeswarenindustrie (PVV) 2004.
+1. Aan de ondernemer, die contributie heeft betaald als lid of indirect lid van een overeenkomstig het derde lid aangewezen ondernemersorganisatie, wordt op zijn verzoek een aftrek toegestaan op het totaal aan heffing verschuldigde bedrag op grond van de Verordening huishoudelijke heffingen vleeswarenindustrie (PVV) 2004, de Verordening heffingen O&O fonds vleeswarenindustrie (PVV) 2004 en de Verordening heffingen fonds sociale aangelegenheden vleeswarenindustrie (PVV) 2004.
 2. De aftrek beloopt 50% van het bedrag, dat de ondernemer als contributie aan de betreffende ondernemersorganisatie over het betrokken kalenderjaar heeft betaald tot ten hoogste de helft van hetgeen hij in totaal is verschuldigd aan heffing, op grond van de in het eerste lid genoemde heffingsverordeningen over datzelfde betrokken kalenderjaar.
 3. De in het eerste lid bedoelde ondernemersorganisatie wordt aangewezen door het bestuur, met inachtneming van het bepaalde in het Besluit beleidsregel Schilthuisaftrek van de Sociaal- Economische Raad.
 

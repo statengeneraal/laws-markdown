@@ -3,7 +3,7 @@
 ##Besluit van het bestuur van het Productschap Tuinbouw van 2 december 2003, houdende de vaststelling van een aan telers van en handelaren in bloembollen (leverbaar) op te leggen heffing voor het oogstjaar 2003 (Verordening PT vakheffing bloembollen leverbaar oogstjaar 2003)
 
 HET BESTUUR VAN HET PRODUCTSCHAP TUINBOUW,
-gelet op de [artikelen 95](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [100](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en
+gelet op de artikelen 95, 100 en 126 van de Wet op de bedrijfsorganisatie, en
 
 gelet op de artikelen 14, 15 en 19 van de Instellingsverordening Productschap Tuinbouw 1998;
 
@@ -39,7 +39,7 @@ a.bloembollen, waarvan wordt aangetoond door overlegging van aankoopnota's dat d
 
 b.transacties waarbij partijen groen te velde worden verhandeld en die de koper direct accepteert en waarvan hij het telen voortzet;
 
-c.bloembollen plantgoed als bedoeld in de [Verordening PT vakheffing bloembollen plantgoed oogstjaar 2003](../../../../../../../../../pbo/verordening/pt/vakheffing/bloembollen/plantgoed/oogstjaar/2003/BWBR0015986/README.md).
+c.bloembollen plantgoed als bedoeld in de Verordening PT vakheffing bloembollen plantgoed oogstjaar 2003.
 
 ###§ 2 
 
@@ -240,7 +240,7 @@ c.de ondernemer zich metterwoon in het buitenland heeft gevestigd of van het voo
 ###Artikel 21 
 Materieel uitgewerkt per 01-06-2004 
 
-Aan de heffingsplichtige, die niet of niet geheel binnen de in artikel 20 bedoelde termijn heeft betaald, kunnen de daaruit voortvloeiende extra kosten van € 22,50 in rekening worden gebracht, alsmede de wettelijke interest over het niet betaalde bedrag, te berekenen vanaf de dag waarop de betaling diende te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md).
+Aan de heffingsplichtige, die niet of niet geheel binnen de in artikel 20 bedoelde termijn heeft betaald, kunnen de daaruit voortvloeiende extra kosten van € 22,50 in rekening worden gebracht, alsmede de wettelijke interest over het niet betaalde bedrag, te berekenen vanaf de dag waarop de betaling diende te zijn verricht ingevolge de aanmaning bedoeld in artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie.
 
 ###Artikel 22 
 Materieel uitgewerkt per 01-06-2004 

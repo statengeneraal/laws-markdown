@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Vee en Vlees van 9 juni 2004, houdende vaststelling van een huishoudelijke heffing voor het jaar 2004 (Verordening huishoudelijke heffing vleesindustrie (PVV) 2004)
 
 Het bestuur van het Productschap Vee en Vlees;
-Gelet op [artikel 126 van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en de [artikelen 10](../../../../../../../../AMvB/instellingsbesluit/productschap/vee/en/vlees/BWBR0016491/README.md) en [12 van het Instellingsbesluit Productschap Vee en Vlees](../../../../../../../../AMvB/instellingsbesluit/productschap/vee/en/vlees/BWBR0016491/README.md);
+Gelet op artikel 126 van de Wet op de bedrijfsorganisatie en de artikelen 10 en 12 van het Instellingsbesluit Productschap Vee en Vlees;
 Besluit:
 
 ###Artikel 1 
@@ -30,7 +30,7 @@ Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de V
 
 1. Aan de ondernemer, die contributie heeft betaald als lid of indirect lid van een op grond van het derde lid aangewezen ondernemersorganisatie, wordt op zijn verzoek een aftrek toegestaan op het totaal aan heffing verschuldigde bedrag op grond van de Verordening huishoudelijke heffing vleesindustrie (PVV) 2004, de Verordening heffing o&o fonds vleesindustrie (PVV) 2004 en de Verordening heffing fonds sociale aangelegenheden vleesindustrie (PVV) 2004.
 2. De aftrek beloopt 50% van het bedrag, dat de ondernemer als contributie aan de betreffende ondernemersorganisatie over het betrokken kalenderjaar heeft betaald tot ten hoogste de helft van hetgeen hij in totaal is verschuldigd aan heffing, op grond van de in het eerste lid genoemde heffingsverordeningen, over datzelfde betrokken kalenderjaar.
-3. De in het eerste lid bedoelde ondernemersorganisatie wordt aangewezen door het bestuur, met inachtneming van het bepaalde in het [Besluit beleidsregels Bestuurskamer](../../../../../../../../pbo/besluit/beleidsregels/bestuurskamer/BWBR0015680/README.md) van de Sociaal- Economische Raad.
+3. De in het eerste lid bedoelde ondernemersorganisatie wordt aangewezen door het bestuur, met inachtneming van het bepaalde in het Besluit beleidsregels Bestuurskamer van de Sociaal- Economische Raad.
 
 ###Artikel 5 
 

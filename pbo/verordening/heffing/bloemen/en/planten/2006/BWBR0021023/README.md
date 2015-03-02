@@ -3,7 +3,7 @@
 ##Verordening van het Hoofdbedrijfschap voor de Agrarische Groothandel van 17 november 2005, houdende regels ter zake van aan de groothandelaar, de commissionair, de tussenpersoon, de handelskweker of de exporteur in bloemkwekerijproducten op te leggen heffing voor het jaar 2006 (Verordening heffing bloemen en planten 2006)
 
 Het bestuur van het Hoofdbedrijfschap voor de Agrarische Groothandel,  
-Gelet op [artikel 100, lid 3 van de Wet op de Bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op [artikel 13 van het instellingsbesluit Hoofdbedrijfschap voor de Agrarische Groothandel](../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md) (Staatsblad 2002 nr. 155),
+Gelet op artikel 100, lid 3 van de Wet op de Bedrijfsorganisatie en op artikel 13 van het instellingsbesluit Hoofdbedrijfschap voor de Agrarische Groothandel (Staatsblad 2002 nr. 155),
 
 Heeft na advies van de Commissie Bloemkwekerijproducten de volgende verordening vastgesteld:
 Besluit:     
@@ -16,22 +16,22 @@ Materieel uitgewerkt per 08-09-2007
 ### Artikel  1  
 Materieel uitgewerkt per 08-09-2007 
 
-In deze verordening wordt overgenomen de terminologie van het [Instellingsbesluit Hoofdbedrijfschap voor de Agrarische Groothandel](../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md) en wordt verstaan onder: 
+In deze verordening wordt overgenomen de terminologie van het Instellingsbesluit Hoofdbedrijfschap voor de Agrarische Groothandel en wordt verstaan onder: 
 
 1. voorzitter: de voorzitter van het Hoofdbedrijfschap voor de Agrarische Groothandel;  
 
-2. HBAG Commissie bloemkwekerijproducten: de op grond van [artikel 5 van het Instellingsbesluit Hoofdbedrijfschap voor de Agrarische Groothandel](../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md) ingestelde commissie bloemkwekerijproducten;  
+2. HBAG Commissie bloemkwekerijproducten: de op grond van artikel 5 van het Instellingsbesluit Hoofdbedrijfschap voor de Agrarische Groothandel ingestelde commissie bloemkwekerijproducten;  
 
 3. de ondernemer: de natuurlijke of rechtspersoon die een onderneming drijft dan wel de natuurlijke personen of rechtspersonen die gezamenlijk een onderneming drijven;  
 
 4. het begrotingstijdvak: de periode van 1 januari 2006 tot en met 31 december 2006;  
 
-5. het instellingsbesluit: het [Instellingsbesluit Hoofdbedrijfschap voor de Agrarische Groothandel](../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md).   
+5. het instellingsbesluit: het Instellingsbesluit Hoofdbedrijfschap voor de Agrarische Groothandel.   
 
 ### Artikel  2  
 Materieel uitgewerkt per 08-09-2007 
 
-Deze verordening is van toepassing op de ondernemer die een onderneming drijft zoals genoemd in [artikel 3, tweede lid, onder b, van het instellingsbesluit](../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md). 
+Deze verordening is van toepassing op de ondernemer die een onderneming drijft zoals genoemd in artikel 3, tweede lid, onder b, van het instellingsbesluit. 
 
 ### §  2  
 
@@ -58,7 +58,7 @@ Materieel uitgewerkt per 08-09-2007
 
 a. krachtens haar statutaire doelstelling haar werkzaamheid kan uitstrekken tot ten minste een belangrijk gedeelte van het terrein waarop het bedrijfslichaam een taak heeft te vervullen;  
 
-b. voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de [artikelen 3 tot en met 7 van de Verordening representativiteit organisaties](../../../../../../../../pbo/verordening/representativiteit/organisaties/BWBR0011641/README.md);  
+b. voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de artikelen 3 tot en met 7 van de Verordening representativiteit organisaties;  
 
 c. tot de werkingssfeer van het bedrijfslichaam behorende leden heeft, waarvan het gewogen aantal niet-onbetekenend is;  
 

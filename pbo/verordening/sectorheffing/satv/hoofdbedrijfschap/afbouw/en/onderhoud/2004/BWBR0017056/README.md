@@ -3,7 +3,7 @@
 ##Verordening van het Hoofdbedrijfschap Afbouw en Onderhoud, houdende regels ter zake van de tot de sector Stukadoors-, Afbouw- en Terrazzo-Vloerenbedrijf (SATV) behorende ondernemers op te leggen sectorheffing voor het jaar 2004 (Verordening Sectorheffing SATV Hoofdbedrijfschap Afbouw en Onderhoud 2004)
 
 HET BESTUUR VAN HET HOOFDBEDRIJFSCHAP AFBOUW EN ONDERHOUD,
-Gelet op de [artikelen 93](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de Bedrijfsorganisatie](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [artikel 10 van het Instellingsbesluit Hoofdbedrijfschap Afbouw en Onderhoud](../../../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/afbouw/en/onderhoud/BWBR0013863/README.md),
+Gelet op de artikelen 93 en 126 van de Wet op de Bedrijfsorganisatie en artikel 10 van het Instellingsbesluit Hoofdbedrijfschap Afbouw en Onderhoud,
 Besluit:VERORDENING
 ###§ 1 
 
@@ -31,14 +31,14 @@ Materieel uitgewerkt per 02-07-2005
 ###Artikel 2 
 Materieel uitgewerkt per 02-07-2005 
 
-Over de periode 1 januari 2004 tot en met 31 december 2004 wordt aan degenen die een onderneming drijven als bedoeld in [artikel 2, tweede lid onder b van het Instellingsbesluit](../../../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/afbouw/en/onderhoud/BWBR0013863/README.md), een heffing opgelegd.
+Over de periode 1 januari 2004 tot en met 31 december 2004 wordt aan degenen die een onderneming drijven als bedoeld in artikel 2, tweede lid onder b van het Instellingsbesluit, een heffing opgelegd.
 
 ###Artikel 3 
 Materieel uitgewerkt per 02-07-2005 
 
 De in het vorige artikel bedoelde heffing bestaat uit:
 
-1.voor degenen die een Onderneming drijven en waarin personeel werkzaam is ten aanzien waarvan de Collectieve Arbeidsovereenkomst voor het Afbouwbedrijf, dan wel de algemeen verbindend verklaarde bepalingen daarvan van toepassing is, een bedrag overeenkomend met 0,55 procent van het loon in de zin van de [Coördinatiewet Sociale Verzekeringen](../../../../../../../../../../wet/coördinatiewet/sociale/verzekering/BWBR0002126/README.md).
+1.voor degenen die een Onderneming drijven en waarin personeel werkzaam is ten aanzien waarvan de Collectieve Arbeidsovereenkomst voor het Afbouwbedrijf, dan wel de algemeen verbindend verklaarde bepalingen daarvan van toepassing is, een bedrag overeenkomend met 0,55 procent van het loon in de zin van de Coördinatiewet Sociale Verzekeringen.
 
 2.voor degenen die een onderneming drijven en waarin geen personeel werkzaam is of waarin personeel werkzaam is ten aanzien waarvan de Collectieve Arbeidsovereenkomst voor het Afbouwbedrijf in Nederland, dan wel dealgemeen verbindend verklaarde bepalingen daarvan toepassing mist:
 

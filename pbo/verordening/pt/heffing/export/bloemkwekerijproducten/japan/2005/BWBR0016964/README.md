@@ -3,9 +3,9 @@
 ##Besluit van het bestuur van het Productschap Tuinbouw, d.d. 1 juli 2004 houdende de vaststelling van de aan ondernemers die bloemkwekerijproducten naar Japan exporteren op te leggen heffing voor het jaar 2005 (Verordening PT heffing export bloemkwekerijproducten Japan 2005)
 
 HET BESTUUR VAN HET PRODUCTSCHAP TUINBOUW,
-gelet op de [artikelen 95](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+gelet op de artikelen 95 en 126 van de Wet op de bedrijfsorganisatie;
 
-gelet op de [artikelen 12](../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md) en [14 van het Instellingsbesluit Productschap Tuinbouw](../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md);
+gelet op de artikelen 12 en 14 van het Instellingsbesluit Productschap Tuinbouw;
 
 gehoord de Sectorcommissie voor bloemkwekerijproducten, d.d. 19 mei 2004;
 BESLUIT:
@@ -18,7 +18,7 @@ Materieel uitgewerkt per 15-01-2005
 ###Artikel 1 
 Materieel uitgewerkt per 15-01-2005 
 
-1. In deze verordening en de daarop berustende bepalingen worden overgenomen de begripsbepalingen van de [artikelen 1](../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md) en [2 van het Instellingsbesluit Productschap Tuinbouw](../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md).
+1. In deze verordening en de daarop berustende bepalingen worden overgenomen de begripsbepalingen van de artikelen 1 en 2 van het Instellingsbesluit Productschap Tuinbouw.
 2. In deze verordening en de daarop berustende bepalingen wordt verstaan onder:
 
 | --- | --- | --- |
@@ -26,7 +26,7 @@ Materieel uitgewerkt per 15-01-2005
 |a. productschap |: |het Productschap Tuinbouw; |
 |b. bestuur |: |het bestuur van het productschap; |
 |c. voorzitter |: |de voorzitter van het productschap; |
-|d. bloemkwekerijproducten |: |producten als omschreven in [artikel 1, tweede lid, sub d, van de Verordening PT vakheffing bloemkwekerijproducten 2005](../../../../../../../../../pbo/verordening/pt/vakheffing/boomkwekerijproducten/2005/BWBR0016967/README.md), en |
+|d. bloemkwekerijproducten |: |producten als omschreven in artikel 1, tweede lid, sub d, van de Verordening PT vakheffing bloemkwekerijproducten 2005, en |
 |e. heffingsplichtige |: |degene die ingevolge deze heffingsverordening heffing is verschuldigd. |
 
 ###§ 2 
@@ -111,7 +111,7 @@ Aan de heffingsplichtige, die niet of niet geheel binnen de in artikel 8 bedoeld
 
 a.de daaruit voortvloeiende extra kosten van: € 22,50 in rekening worden gebracht, alsmede
 
-b.de wettelijke interest over het niet betaalde bedrag, te berekenen vanaf de dag waarop de betaling diende te zijn verricht ingevolge de aanmaning als bedoeld in [artikel 127, tweede lid van de Wet op de bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md).
+b.de wettelijke interest over het niet betaalde bedrag, te berekenen vanaf de dag waarop de betaling diende te zijn verricht ingevolge de aanmaning als bedoeld in artikel 127, tweede lid van de Wet op de bedrijfsorganisatie.
 
 ###Artikel 10 
 Materieel uitgewerkt per 15-01-2005 

@@ -3,7 +3,7 @@
 ##Verordening van het Hoofdbedrijfschap Detailhandel van 25 oktober 2006, houdende vaststelling bestemmingsheffing detailhandel in dieren en dierenbenodigdheden voor het jaar 2007 (Verordening bestemmingsheffing detailhandel in dieren en dierenbenodigdheden 2007)
 
 Het bestuur van het Hoofdbedrijfschap Detailhandel;  
-Gelet op de [artikelen 95, tweede lid](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+Gelet op de artikelen 95, tweede lid en 126 van de Wet op de bedrijfsorganisatie;
 
 Gezien het advies van de Adviescommissie dieren en dierenbenodigdheden;
 Besluit:     
@@ -21,7 +21,7 @@ In deze verordening wordt verstaan onder detailhandel in dieren en dierenbenodig
 ### Artikel  2  
 Materieel uitgewerkt per 01-01-2008 
 
-In deze verordening zijn de begripsbepalingen van de [Heffingsverordening Hoofdbedrijfschap Detailhandel 2007](../../../../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/detailhandel/2007/BWBR0021006/README.md) van overeenkomstige toepassing. 
+In deze verordening zijn de begripsbepalingen van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2007 van overeenkomstige toepassing. 
 
 ### Artikel  3  
 Materieel uitgewerkt per 01-01-2008 
@@ -61,7 +61,7 @@ Materieel uitgewerkt per 01-01-2008
 ### Artikel  5  
 Materieel uitgewerkt per 01-01-2008 
 
-De [artikelen 6 tot en met 17 van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2007](../../../../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/detailhandel/2007/BWBR0021006/README.md) zijn van overeenkomstige toepassing. 
+De artikelen 6 tot en met 17 van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2007 zijn van overeenkomstige toepassing. 
 
 ### Artikel  6  
 Materieel uitgewerkt per 01-01-2008 

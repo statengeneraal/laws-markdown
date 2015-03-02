@@ -3,9 +3,9 @@
 ##Verordening van het Productschap Vee en Vlees van 20 oktober 2004, houdende vaststelling van algemene bepalingen ten aanzien van vaststelling, oplegging en inning van heffingen in de vee- en vleessector (Verordening algemene bepalingen heffingen (PVV) 2005)
 
 Het bestuur van het Productschap Vee en Vlees;
-Gelet op de [artikelen 93](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [104](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [126](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [127 van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [artikel 10 van het Instellingsbesluit Productschap Vee en Vlees](../../../../../../../../AMvB/instellingsbesluit/productschap/vee/en/vlees/BWBR0016491/README.md);
+Gelet op de artikelen 93, 95, 104, 126 en 127 van de Wet op de bedrijfsorganisatie en artikel 10 van het Instellingsbesluit Productschap Vee en Vlees;
 
-Gezien de [Wet tuchtrechtspraak bedrijfsorganisatie 2004](../../../../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md);
+Gezien de Wet tuchtrechtspraak bedrijfsorganisatie 2004;
 Besluit:
 ###1 
 
@@ -80,7 +80,7 @@ c.het totaal van de heffing.
 
 1. Indien de ondernemer de Voedsel en Waren Autoriteit of een andere instantie heeft gemachtigd om het productschap periodiek de benodigde gegevens te verstrekken, op grond waarvan de voorzitter de verschuldigde heffing kan vaststellen, opleggen en innen, is het bepaalde in artikel 4 niet van toepassing.
 2. Het bepaalde in het eerste lid laat onverlet dat indien de voorzitter om enigerlei reden de verschuldigde heffing niet kan vaststellen, de voorzitter de ondernemer de verplichting kan opleggen alsnog alle benodigde gegevens te verstrekken.
-3. Iedere ondernemer is desgevraagd verplicht aan het productschap te doen toekomen een afschrift van de facturen betreffende de door de Voedsel en Waren Autoriteit (VWA) in rekening gebrachte keurlonen, ter zake van keuringen, als bedoeld in [artikel 4 van de Vleeskeuringswet](../../../../../../../../wet/vleeskeuringswet/BWBR0001896/README.md) (Stb. 1919, 524), dan wel ter zake van onderzoeken, als bedoeld in [artikel 678 van de Veewet](../../../../../../../../wet/veewet/BWBR0001900/README.md) (Stb. 1920, 153), alsmede alle schriftelijke stukken betreffende de werkzaamheden van de Voedsel en Waren Autoriteit (VWA).
+3. Iedere ondernemer is desgevraagd verplicht aan het productschap te doen toekomen een afschrift van de facturen betreffende de door de Voedsel en Waren Autoriteit (VWA) in rekening gebrachte keurlonen, ter zake van keuringen, als bedoeld in artikel 4 van de Vleeskeuringswet (Stb. 1919, 524), dan wel ter zake van onderzoeken, als bedoeld in artikel 678 van de Veewet (Stb. 1920, 153), alsmede alle schriftelijke stukken betreffende de werkzaamheden van de Voedsel en Waren Autoriteit (VWA).
 
 ###Artikel 6 
 
@@ -132,7 +132,7 @@ c.aan de door het bestuur aangewezen dienst of aan de door het bestuur aangeweze
 
 ### Artikel  11  
 
-Op overtreding van het bij of krachtens artikel 4, eerste, tweede en vierde lid, artikel 5, tweede en derde lid, artikel 6 en artikel 10, tweede lid, bepaalde worden tuchtrechtelijke maatregelen gesteld zoals voorzien in de [Wet tuchtrechtspraak bedrijfsorganisatie 2004](../../../../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md). 
+Op overtreding van het bij of krachtens artikel 4, eerste, tweede en vierde lid, artikel 5, tweede en derde lid, artikel 6 en artikel 10, tweede lid, bepaalde worden tuchtrechtelijke maatregelen gesteld zoals voorzien in de Wet tuchtrechtspraak bedrijfsorganisatie 2004. 
 
 ###10 
 
