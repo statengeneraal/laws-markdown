@@ -17,7 +17,7 @@ a.  *de minister:* de Minister van Economische Zaken;
 
 b.  *de secretaris-generaal:* de secretaris-generaal van het Ministerie van Economische Zaken;  
 
-c.  *de hoofddirecteur Interne Organisatie:* de hoofddirecteur Interne Organisatie van het Ministerie van Economische Zaken;  
+c.  * de hoofddirecteur Interne Organisatie en Uitvoering:* de hoofddirecteur Interne Organisatie en Uitvoering van het Ministerie van Economische Zaken;  
 
 d. *de hoofden van dienst:*
 
@@ -43,7 +43,7 @@ d. *de hoofden van dienst:*
 
 11°. de directeur van het Centraal Planbureau;  
 
-12°. de directeur van de Dienst ICT Uitvoering;  
+12°. de algemeen directeur van de Dienst ICT Uitvoering;  
 
 13°. de directeur van de Dienst Landelijk Gebied;  
 
@@ -51,7 +51,7 @@ d. *de hoofden van dienst:*
 
 15°. de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit;  
 
-16°. de directeur-generaal Rijksdienst voor Ondernemend Nederland;  
+16°.  de algemeen directeur Rijksdienst voor Ondernemend Nederland;  
 
 17°. de directeur-hoofdinspecteur van het Agentschap Telecom;    
 
@@ -117,7 +117,7 @@ a. aangelegenheden op het gebied van de ambtelijke leiding van al hetgeen het mi
 
 b. het vaststellen van ministeriële regelingen als bedoeld in de artikel 31a van de Gezondheids- en welzijnswet voor dieren, artikel 5.2 van de Wet dieren en het nemen van besluiten die noodzakelijk zijn ter uitvoering van Europese verordeningen op het gebied van het Europese Visserijbeleid;  
 
-c. het vaststellen van circulaires, met uitzondering van circulaires die naar het oordeel van de secretaris-generaal door een hoofd van dienst of de hoofddirecteur Interne Organisatie moeten worden vastgesteld;  
+c. het vaststellen van circulaires, met uitzondering van circulaires die naar het oordeel van de secretaris-generaal door een hoofd van dienst of de hoofddirecteur Interne Organisatie en Uitvoering moeten worden vastgesteld;  
 
 d. het vaststellen van de werkterreinen van de hoofden van dienst;  
 
@@ -125,13 +125,15 @@ e. aangelegenheden op het werkterrein van de hoofden van dienst:
 
 1°. ten aanzien waarvan de secretaris-generaal in een incidenteel geval aan een hoofd van dienst mededeling heeft gedaan dat zij door hem zullen worden behandeld of  
 
-2°. die door een hoofd van dienst aan de secretaris-generaal ter afhandeling worden voorgelegd, tenzij zij naar het oordeel van de secretaris-generaal door een ander hoofd van dienst of de hoofddirecteur Interne Organisatie moeten worden behandeld;    
+2°. die door een hoofd van dienst aan de secretaris-generaal ter afhandeling worden voorgelegd, tenzij zij naar het oordeel van de secretaris-generaal door een ander hoofd van dienst of de hoofddirecteur Interne Organisatie en Uitvoering moeten worden behandeld;    
 
-f. aangelegenheden op het gebied van de Wet openbaarheid van bestuur, voor zover niet behorend tot het werkterrein van een hoofd van dienst;  
+f.  aangelegenheden op het gebied van de Wet openbaarheid van bestuur, waaronder begrepen het nemen van beslissingen op bezwaarschriften, voor zover niet behorend tot het werkterrein van een hoofd van dienst;  
 
 g. het uitoefenen van de bevoegdheden van de minister inzake benoeming, schorsing, ontslag en vergoeding van ambtenaren en andere personen in organen van rechtspersonen en colleges, voor zover daarvoor geen mandaat, volmacht en machtiging is verleend aan een hoofd van dienst;  
 
-h. aangelegenheden op het gebied van personeel, financiën, organisatie en bedrijfsvoering, voor zover niet vallend onder het werkterrein van een hoofd van dienst.     
+h. aangelegenheden op het gebied van personeel, financiën, organisatie en bedrijfsvoering, voor zover niet vallend onder het werkterrein van een hoofd van dienst;  
+
+i.  aangelegenheden op het gebied van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector (WNT), waaronder begrepen het nemen van beslissingen op bezwaarschriften.    
 2.  Tot de aangelegenheden, bedoeld in het eerste lid, onderdeel h, behoren in ieder geval: 
 
 a. het vaststellen van de organisatie en formatie van de diensten, bedoeld in artikel 1, onderdeel d, onder 1° tot en met 10°;  
@@ -170,11 +172,11 @@ f. het nemen van besluiten en het verrichten van overige handelingen ten aanzien
 
 ### Artikel  6  
 
-Aan de hoofddirecteur Interne Organisatie wordt mandaat, volmacht en machtiging verleend voor het nemen van besluiten, het aangaan van privaatrechtelijke rechtshandelingen en overige handelingen op zijn werkterrein, als bedoeld in de bijlage van dit besluit. 
+Aan de hoofddirecteur Interne Organisatie en Uitvoering wordt mandaat, volmacht en machtiging verleend voor het nemen van besluiten, het aangaan van privaatrechtelijke rechtshandelingen en overige handelingen op zijn werkterrein, als bedoeld in de bijlage van dit besluit. 
 
 ### Artikel  7  
 
-1.  Aan de hoofden van dienst wordt, ieder voor zich, mandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein, als bedoeld in de bijlage van dit besluit, waaronder begrepen de P&O-aangelegenheden van zijn dienst, met uitzondering van aangelegenheden waarvoor mandaat, volmacht en machtiging is verleend aan de secretaris-generaal, de hoofddirecteur Interne Organisatie of aan een ander hoofd van dienst.   
+1.  Aan de hoofden van dienst wordt, ieder voor zich, mandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein, als bedoeld in de bijlage van dit besluit, waaronder begrepen de P&O-aangelegenheden van zijn dienst, met uitzondering van aangelegenheden waarvoor mandaat, volmacht en machtiging is verleend aan de secretaris-generaal, de hoofddirecteur Interne Organisatie en Uitvoering of aan een ander hoofd van dienst.   
 2.  Aan de hoofden van dienst wordt voorts, ieder voor zijn werkterrein, mandaat en machtiging verleend voor aangelegenheden inzake de benoeming, ontslag en vergoeding van leden van adviescommissies ter zake van subsidieverlening.   
 3.  Aan de directeuren-generaal wordt tevens, ieder voor zich, mandaat en machtiging verleend voor het vaststellen van ministeriële regelingen als bedoeld in de artikel 31a van de Gezondheids- en welzijnswet voor dieren, artikel 5.2 van de Wet dieren en het nemen van besluiten die noodzakelijk zijn ter uitvoering van Europese verordeningen op het gebied van het Europese Visserijbeleid.   
 4.  Aan de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit wordt, op zijn werkterrein, mandaat en machtiging verleend voor het vaststellen van beleidsregels.  
@@ -240,8 +242,8 @@ b. bezwaar- en beroepschriften tegen besluiten die in mandaat zijn genomen of be
 
 ### Artikel  13  
 
-1.  Aan de directeur-generaal Rijksdienst voor Ondernemend Nederland en aan de directeur-hoofdinspecteur van het Agentschap Telecom wordt, ieder voor zich, mandaat, volmacht en machtiging verleend voor het behandelen van niet op personeelsaangelegenheden betrekking hebbende bezwaar- en beroepschriften, waaronder begrepen het nemen van beslissingen op bezwaarschriften en het instellen van (hoger) beroep, tegen besluiten die in mandaat zijn genomen of behandeld door hem of door onder hem ressorterende medewerkers.   
-2.  Aan de directeur-generaal Rijksdienst voor Ondernemend Nederland wordt tevens mandaat, volmacht en machtiging verleend voor het behandelen van bezwaar- en beroepschriften, waaronder begrepen het nemen van beslissingen op bezwaarschriften en het instellen van (hoger) beroep tegen besluiten op het terrein van landbouw, natuur en voedselkwaliteit. Dit mandaat, volmacht en machtiging voor het behandelen van bezwaar en beroepszaken tegen besluiten op Wob-verzoeken is beperkt tot besluiten die zijn genomen of behandeld door een hoofd van dienst of door hem aangewezen medewerkers als genoemd in artikel 1, onderdeel d, onder 12°, 13°, 15°, 16°.  
+1.  Aan de algemeen directeur Rijksdienst voor Ondernemend Nederland en aan de directeur-hoofdinspecteur van het Agentschap Telecom wordt, ieder voor zich, mandaat, volmacht en machtiging verleend voor het behandelen van niet op personeelsaangelegenheden betrekking hebbende bezwaar- en beroepschriften, waaronder begrepen het nemen van beslissingen op bezwaarschriften en het instellen van (hoger) beroep, tegen besluiten die in mandaat zijn genomen of behandeld door hem of door onder hem ressorterende medewerkers.   
+2.  Aan de algemeen directeur Rijksdienst voor Ondernemend Nederland wordt tevens mandaat, volmacht en machtiging verleend voor het behandelen van bezwaar- en beroepschriften, waaronder begrepen het nemen van beslissingen op bezwaarschriften en het instellen van (hoger) beroep tegen besluiten op het terrein van landbouw, natuur en voedselkwaliteit. Dit mandaat, volmacht en machtiging voor het behandelen van bezwaar en beroepszaken tegen besluiten op Wob-verzoeken is beperkt tot besluiten die zijn genomen of behandeld door een hoofd van dienst of door hem aangewezen medewerkers als genoemd in artikel 1, onderdeel d, onder 12°, 13°, 15°, 16°.  
 
 ### Artikel  14  
 
@@ -285,7 +287,7 @@ Het krachtens mandaat of volmacht ondertekenen van stukken geschiedt als volgt: 
 
 1.  De secretaris-generaal kan aan een hoofd van dienst binnen diens werkterrein ondermandaat en machtiging verlenen voor benoeming en ontslag van ambtenaren en andere personen in organen van rechtspersonen en colleges.   
 2.  De secretaris-generaal kan aan een hoofd van dienst ondermandaat, volmacht en machtiging verlenen voor P&O-aangelegenheden van zijn dienst, waarvoor de secretaris-generaal of de directeur Bedrijfsvoering krachtens dit besluit mandaat, volmacht en machtiging heeft verkregen.   
-3.  De secretaris-generaal kan voorts aan de hoofddirecteur Interne Organisatie ondermandaat, volmacht en machtiging verlenen voor de aangelegenheden op zijn werkterrein, waaronder voor P&O-aangelegenheden.  
+3.  De secretaris-generaal kan voorts aan de hoofddirecteur Interne Organisatie en Uitvoering ondermandaat, volmacht en machtiging verlenen voor de aangelegenheden op zijn werkterrein, waaronder voor P&O-aangelegenheden.  
 
 ### Artikel  18  
 
@@ -316,7 +318,7 @@ j. het toekennen van een terugkeergarantie.
 ### Artikel  19  
 
 1.  Het verlenen van ondermandaat en volmacht alsmede wijziging daarvan, geschiedt schriftelijk en wat de formulering betreft in overeenstemming met de directeur Wetgeving en Juridische Zaken.   
-2.  Een afschrift van besluiten inzake ondermandaat, volmacht en machtiging als bedoeld in de artikelen 17 en 18 wordt gezonden aan de secretaris-generaal, de hoofddirecteur Interne Organisatie, de directeur Wetgeving en Juridische Zaken, de directeur Financieel-Economische Zaken, de directeur Bedrijfsvoering, de Auditdienst Rijk en de Algemene Rekenkamer.  
+2.  Een afschrift van besluiten inzake ondermandaat, volmacht en machtiging als bedoeld in de artikelen 17 en 18 wordt gezonden aan de secretaris-generaal, de hoofddirecteur Interne Organisatie en Uitvoering, de directeur Wetgeving en Juridische Zaken, de directeur Financieel-Economische Zaken, de directeur Bedrijfsvoering, de Auditdienst Rijk en de Algemene Rekenkamer.  
 
 ### §  5  
 
@@ -324,7 +326,7 @@ j. het toekennen van een terugkeergarantie.
 
 ### Artikel  20  
 
-1.  De uit dit besluit voor de secretaris-generaal voortvloeiende bevoegdheden gaan in geval van afwezigheid over op de loco secretaris-generaal. Bij afwezigheid van zowel de secretaris-generaal als de loco secretaris-generaal gaan de uit dit besluit voortvloeiende bevoegdheden over op de hoofddirecteur Interne Organisatie. Bij afwezigheid van zowel de secretaris-generaal, de loco secretaris-generaal en de hoofddirecteur Interne Organisatie gaan de uit dit besluit voortvloeiende bevoegdheden over op een door de secretaris-generaal aangewezen directeur-generaal.   
+1.  De uit dit besluit voor de secretaris-generaal voortvloeiende bevoegdheden gaan in geval van afwezigheid over op de loco secretaris-generaal. Bij afwezigheid van zowel de secretaris-generaal als de loco secretaris-generaal gaan de uit dit besluit voortvloeiende bevoegdheden over op de hoofddirecteur Interne Organisatie en Uitvoering. Bij afwezigheid van zowel de secretaris-generaal, de loco secretaris-generaal en de hoofddirecteur Interne Organisatie en Uitvoering gaan de uit dit besluit voortvloeiende bevoegdheden over op een door de secretaris-generaal aangewezen directeur-generaal.   
 2.  De uit dit besluit voor de hoofden van dienst voortvloeiende bevoegdheden gaan in geval van afwezigheid over op hun plaatsvervanger, met uitzondering van de bevoegdheid tot het verlenen van ondermandaat, volmacht en machtiging.  
 
 ### §  6  
@@ -346,7 +348,7 @@ Het Besluit mandaat, volmacht en machtiging EZ 2012 en het Besluit mandaat, volm
 
 ### Artikel  23  
 
-Een afschrift van dit besluit wordt gezonden aan de secretaris-generaal, de hoofddirecteur Interne Organisatie, de hoofden van dienst en de Algemene Rekenkamer. 
+Een afschrift van dit besluit wordt gezonden aan de secretaris-generaal, de hoofddirecteur Interne Organisatie en Uitvoering, de hoofden van dienst en de Algemene Rekenkamer. 
 
 ### Artikel  24  
 
@@ -423,7 +425,7 @@ g. Agentschap Telecom.
 
 2. De secretaris-generaal heeft tot taak de aangelegenheden, genoemd in artikel 5 van het Besluit mandaat, volmacht en machtiging EZ 2015.  
 
-3. Onder de secretaris-generaal ressorteert de hoofddirecteur Interne Organisatie. De hoofddirecteur Interne Organisatie heeft tot taak: 
+3. Onder de secretaris-generaal ressorteert de hoofddirecteur Interne Organisatie en Uitvoering. De hoofddirecteur Interne Organisatie en Uitvoering heeft tot taak: 
 
 a. het verantwoordelijk zijn voor de organisatie en bedrijfsvoeringsaspecten van het ministerie waaronder het vaststellen van de begroting op de apparaatskosten en personeelbudgetten;  
 
@@ -439,15 +441,17 @@ f. het optreden als Chief Information Officer (CIO) van het Ministerie van Econo
 
 g. het voorzitten van het Bedrijfsvoeringoverleg van het Ministerie van Economische Zaken;  
 
-h. het invulling geven aan de eigenaarsrol van de Minister van Economische Zaken richting de agentschappen de Dienst ICT Uitvoering en het Agentschap Telecom;  
+h. het invulling geven aan de eigenaarsrol van de Minister van Economische Zaken richting alle agentschappen;  
 
-i. het invulling geven aan de bedrijfsmatige relatie met de overige agentschappen en met de aan de Minister van Economische Zaken gelieerde organisaties met publieke taken;  
+i.  het invulling geven aan de bedrijfsmatige relatie met de aan de Minister van Economische Zaken gelieerde organisaties met publieke taken;  
 
 j. sturing geven aan inbreng in projecten die voortvloeien uit het overleg tussen secretarissen-generaal;  
 
 k. het vertegenwoordigen van het ministerie in interdepartementale gremia, waaronder de Interdepartementale Commissie Bedrijfsvoering Rijksdienst en de Interdepartementale Commissie Chief Information Officers;  
 
-l. het vorderen van opgaven en inlichtingen op grond van artikel 5.3 van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector (WNT), het handhaven, bedoeld in de artikelen 5.4, 5.5. en 5.6 van de WNT, ten aanzien van de in artikel 1 van die wet bedoelde rechtspersonen, instellingen en topfunctionarissen en de invordering van verbeurde dwangsommen en van gemaakte kosten voor bestuursdwang als bedoeld in artikel 5:25 van de Algemene wet bestuursrecht, voor zover deze verband houden met de voorgaande bevoegdheid.     
+l. het vorderen van opgaven en inlichtingen op grond van artikel 5.3 van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector (WNT), het handhaven, bedoeld in de artikelen 5.4, 5.5. en 5.6 van de WNT, ten aanzien van de in artikel 1 van die wet bedoelde rechtspersonen, instellingen en topfunctionarissen en de invordering van verbeurde dwangsommen en van gemaakte kosten voor bestuursdwang als bedoeld in artikel 5:25 van de Algemene wet bestuursrecht, voor zover deze verband houden met de voorgaande bevoegdheid;  
+
+m. aangelegenheden op het gebied van de Wet openbaarheid van bestuur, voor zover niet behorend tot het werkterrein van een hoofd van dienst.    
 
 ### III  
 
@@ -503,7 +507,7 @@ c. de directie Natuur en Biodiversiteit;
 
 d. de directie Plantaardige Agroketens en Voedselkwaliteit;  
 
-e. de directie Voedselzekerheid en Europees Landbouw-en Visserijbeleid;  
+e. de directie Europees Landbouw- en Visserijbeleid en Voedselzekerheid;  
 
 f. de programmadirectie Juridisch instrumentarium Natuur en Gebiedsinrichting.     
 
@@ -633,9 +637,9 @@ m. het zorg dragen voor een goede crisisweerbaarheid van het directoraat-generaa
 
 ### F  
 
-####De directie Voedselzekerheid en Europees Landbouw- en Visserijbeleid
+####de directie Europees Landbouw- en Visserijbeleid en Voedselzekerheid
 
-1. De directie Voedselzekerheid en Europees Landbouw- en Visserijbeleid staat onder leiding van een directeur.  
+1. de directie Europees Landbouw- en Visserijbeleid en Voedselzekerheid staat onder leiding van een directeur.  
 
 2. De directie heeft tot taak: 
 
@@ -655,7 +659,9 @@ g. het invulling geven aan het coördinerend opdrachtgeverschap EZ van de Rijksd
 
 h. het onderhouden van een adequaat nationaal, Europees en mondiaal netwerk om bovengenoemde taken uit te kunnen oefenen;  
 
-i. het invulling geven aan het coördinerend opdrachtgeverschap EZ van het netwerk van landbouwattachés en-raden.     
+i. het invulling geven aan het coördinerend opdrachtgeverschap EZ van het netwerk van landbouwattachés en-raden;  
+
+j.  het optreden als managementautoriteit voor het Europees Visserijfonds en het Europees Fonds voor Maritieme Zaken en Visserij.    
 
 ### G  
 
@@ -1253,7 +1259,7 @@ g. afdeling Interne Zaken en Beheer.
 
 ####De dienst ICT Uitvoering
 
-1. De Dienst ICT Uitvoering staat onder leiding van een directeur.  
+1. De Dienst ICT Uitvoering staat onder leiding van een algemeen directeur.  
 
 2. De Dienst ICT Uitvoering heeft tot taak het zorg dragen voor betrouwbare, gestandaardiseerde en kosten efficiënte ICT-services die de bedrijfsprocessen van het Ministerie van Economische Zaken en andere onderdelen van het Rijk ondersteunen.  
 
@@ -1283,25 +1289,7 @@ i. Afdeling Business Support.
 
 1. De Dienst Landelijk Gebied staat onder leiding van een directeur.  
 
-2. De Dienst Landelijk Gebied heeft tot taak 
-
-a. het uitvoeren van gebiedsgericht beleid waaronder begrepen de inrichting van het landelijk gebied voor opdrachtgevers in het publieke domein. Hieronder wordt in ieder geval verstaan: 
-
-1°. werkzaamheden op het gebied van ruimtelijk ontwerp, planvorming en planuitvoering, het optreden als procesmanager en gebiedsmakelaar, het uitvoeren en begeleiden van wettelijke herverkavelingen en werkzaamheden die daarmee samenhangen;  
-
-2°. het nemen van subsidiebesluiten, het uitkeren van subsidies en het adviseren over subsidies;  
-
-3°. het zo nodig voeren van administratieve procedures inzake onteigening in het belang van landinrichting als bedoeld in titel VII van de onteigeningswet;  
-
-4°. het vertegenwoordigen van de Staat der Nederlanden bij het verwerven bij minnelijke overeenkomst van hetgeen onteigend moet worden overeenkomstig de onteigeningswet en het vertegenwoordigen van de Staat der Nederlanden bij de levering van onroerende zaken en rechten die zijn verkregen door minnelijke verwerving ter voorkoming van onteigening en bij de levering van onroerende zaken en rechten die zijn onteigend, aan het bureau beheer landbouwgronden of aan Staatsbosbeheer;  
-
-5°. het uitvoeren van het gestelde bij of krachtens de Wet inrichting landelijk gebied, de Landinrichtingswet voor zover nog van toepassing, de Reconstructiewet Midden-Delfland voor zover nog van toepassing, de Herinrichtingswet Oost-Groningen en Gronings-Drentse Veenkoloniën voor zover nog van toepassing, de Stimuleringsregeling inrichting duurzame glastuinbouwgebieden voor zover nog van toepassing en de Regeling subsidies particuliere terrein beherende natuurbeschermingsorganisaties;    
-
-b. het verwerven, beheren en vervreemden van onroerende zaken en daarmee verwante werkzaamheden ten behoeve van het bureau beheer landbouwgronden als bedoeld in de Wet agrarisch grondverkeer;  
-
-c. het uitvoeren van werkzaamheden op het gebied van Geografische Informatiesystemen (GIS Competence Center);  
-
-d. het op verzoek geven van algemene en beleidsadviezen en verstrekken van informatie over beleid, voortgang en andere zaken met betrekking tot de onder a tot en met d genoemde taken.     
+2.  De Dienst Landelijk Gebied heeft tot taak de aangelegenheden inzake afwikkeling van het baten-lastenagentschap Dienst Landelijk Gebied.   
 
 ### XVI  
 
@@ -1365,7 +1353,7 @@ k. het uitoefenen van verificaties en controles van het Gemeenschappelijk Landbo
 
 l. het verlenen van ontheffingen van maatregelen ter bestrijding van plantenziekten op grond van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba;  
 
-m. het verrichten van taken waaronder het verlenen, schorsen en intrekken van ontheffingen, erkenningen, vergunningen, het nemen van maatregelen en het doen van aanwijzingen op het terrein van de Gezondheids- en welzijnswet voor dieren, de Wet gewasbeschermingsmiddelen en biociden, de Wet dieren, de Plantenziektenwet, de Landbouwwet, de Landbouwkwaliteitswet, de Flora- en Faunawet, visserijregelgeving en de daarmee samenhangende besluiten;  
+m. het verrichten van taken waaronder het verlenen, schorsen en intrekken van ontheffingen, erkenningen, vergunningen, het nemen van maatregelen en het doen van aanwijzingen op het terrein van de Gezondheids- en welzijnswet voor dieren, de Wet gewasbeschermingsmiddelen en biociden, de Wet dieren, Wet op de dierproeven, de Plantenziektenwet, de Landbouwwet, de Landbouwkwaliteitswet, de Flora- en Faunawet, visserijregelgeving en de daarmee samenhangende besluiten;  
 
 n. het ontwikkelen van de kennisagenda en ondersteunen divisies bij strategische kennisontwikkeling;  
 
@@ -1391,7 +1379,7 @@ g. de Inlichtingen- en Opsporingsdienst (IOD).
 
 ####Rijksdienst voor Ondernemend Nederland
 
-1. De Rijksdienst voor Ondernemend Nederland staat onder leiding van de directeur-generaal Rijksdienst voor Ondernemend Nederland.  
+1. De Rijksdienst voor Ondernemend Nederland staat onder leiding van de algemeen directeur Rijksdienst voor Ondernemend Nederland.  
 
 2. De Rijksdienst voor Ondernemend Nederland heeft tot taak: 
 
@@ -1459,11 +1447,17 @@ ee. het beschikbaar stellen van haar uitvoeringsdeskundigheid en infrastructuur 
 
 ff. het vertalen van wet- en regelgeving naar effectief en efficiënt uitvoeringsbeleid;  
 
-gg. het in opdracht van een hoofd van dienst of de hoofddirecteur Interne Organisatie uitvoeren van aanbestedingsprocedures en het ondertekenen van contracten en raamovereenkomsten.  
+gg. het in opdracht van een hoofd van dienst of de hoofddirecteur Interne Organisatie en Uitvoering uitvoeren van aanbestedingsprocedures en het ondertekenen van contracten en raamovereenkomsten.  
 
 hh. het zorg dragen voor de implementatie en uitvoering van Europese verordeningen voor het visserijbeleid;  
 
-ii. het uitvoeren van de nationale en internationale visserij wet- en regelgeving.     
+ii. het uitvoeren van de nationale en internationale visserij wet- en regelgeving; 
+
+jj.  het uitvoeren van gebiedsgericht beleid waaronder begrepen de inrichting van het landelijk gebied en het uitvoeren van werkzaamheden op het gebied van Geografische Informatiesystemen (GIS Competence Center);  
+
+kk.  het behandelen van schadeverzoeken in het kader van een rijksinpassingsplan betreffende energieprojecten;  
+
+ll.  het beoordelen van en het besluiten over projecten voor decentrale duurzame elektriciteitsopwekking.      
 
 ### XIX  
 

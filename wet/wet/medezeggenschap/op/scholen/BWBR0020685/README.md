@@ -140,7 +140,7 @@ c. jaarlijks voor 1 juli een jaarverslag als bedoeld in artikel 171 van de Wet 
 
 d. de uitgangspunten die het bevoegd gezag hanteert bij de uitoefening van zijn bevoegdheden;  
 
-e. terstond informatie over elk oordeel van de klachtencommissie, bedoeld in artikel 14 van de Wet op het primair onderwijs, artikel 23 van de Wet op de expertisecentra en artikel 24b van de Wet op het voortgezet onderwijs, waarbij de commissie een klacht gegrond heeft geoordeeld en over de eventuele maatregelen die het bevoegd gezag naar aanleiding van dat oordeel zal nemen, een en ander met inachtneming van de regelingen, bedoeld in de artikelen 12, eerste lid, onderdeel m, 13, onderdeel i en 14, tweede lid, onderdeel f en derde lid, onderdeel d;  
+e. terstond informatie over elk oordeel van de klachtencommissie, bedoeld in artikel 14 van de Wet op het primair onderwijs, artikel 23 van de Wet op de expertisecentra en artikel 24b van de Wet op het voortgezet onderwijs, waarbij de commissie een klacht gegrond heeft geoordeeld en over de eventuele maatregelen die het bevoegd gezag naar aanleiding van dat oordeel zal nemen, een en ander met inachtneming van de regelingen, bedoeld in de artikelen 12, eerste lid, onderdeel m, 13, eerste lid, onderdeel i, en 14, tweede lid, onderdeel f en derde lid, onderdeel d;  
 
 f. ten minste eenmaal per jaar schriftelijk gegevens over de hoogte en inhoud van de arbeidsvoorwaardelijke regelingen en afspraken per groep van de in de school werkzame personen en de leden van het bevoegd gezag;  
 
@@ -180,7 +180,7 @@ d. vaststelling of wijziging van het beleid met betrekking tot het verrichten va
 
 e. vaststelling of wijziging van regels op het gebied van het veiligheids-, gezondheids- en welzijnsbeleid, voor zover niet behorend tot de bevoegdheid van de personeelsgeleding;  
 
-f. de aanvaarding van materiële bijdragen of geldelijke bijdragen anders dan in artikel 13, onderdeel c, en artikel 14, tweede lid, onderdeel c, bedoeld en niet gebaseerd op de onderwijswetgeving indien het bevoegd gezag daarbij verplichtingen op zich neemt waarmee de leerlingen binnen de schooltijden respectievelijk het onderwijs en tijdens de activiteiten die worden georganiseerd onder verantwoordelijkheid van het bevoegd gezag, alsmede tijdens het overblijven, zullen worden geconfronteerd;  
+f. de aanvaarding van materiële bijdragen of geldelijke bijdragen anders dan in artikel 13, eerste lid, onderdeel c, en artikel 14, tweede lid, onderdeel c, bedoeld en niet gebaseerd op de onderwijswetgeving indien het bevoegd gezag daarbij verplichtingen op zich neemt waarmee de leerlingen binnen de schooltijden respectievelijk het onderwijs en tijdens de activiteiten die worden georganiseerd onder verantwoordelijkheid van het bevoegd gezag, alsmede tijdens het overblijven, zullen worden geconfronteerd;  
 
 g. de vaststelling of wijziging van de voor de school geldende klachtenregeling;  
 
@@ -317,7 +317,7 @@ a. de vaststelling van de schoolgids;
 b. vaststelling of wijziging van het beleid met betrekking tot activiteiten die buiten de voor de school geldende onderwijstijd worden georganiseerd onder verantwoordelijkheid van het bevoegd gezag.     
 2.  Het bevoegd gezag behoeft tevens de voorafgaande instemming van het deel van de medezeggenschapsraad dat uit en door de ouders is gekozen, voor elk door het bevoegd gezag te nemen besluit met betrekking tot de volgende aangelegenheden: 
 
-a. regeling van de gevolgen voor de ouders van een besluit met betrekking tot een aangelegenheid als bedoeld in artikel 11, onder c, d, e en m;  
+a. regeling van de gevolgen voor de ouders van een besluit met betrekking tot een aangelegenheid als bedoeld in artikel 11, eerste lid, onder c, d, e en m;  
 
 b. verandering van de grondslag van de school of omzetting van de school of van een onderdeel daarvan, dan wel vaststelling of wijziging van het beleid ter zake;  
 
@@ -357,7 +357,7 @@ Het samenwerkingsverband behoeft de voorafgaande instemming van de ondersteuning
 
 1.  Een besluit met betrekking tot een aangelegenheid als bedoeld in artikel 11, onder c, d, e en m, wordt niet ten uitvoer gelegd voordat een definitief besluit is genomen over de regeling van de gevolgen van dat besluit voor het personeel, dan wel voor de ouders of leerlingen, tenzij dringende redenen in het belang van de school een eerdere tenuitvoerlegging noodzakelijk maken.   
 2.  Een besluit met betrekking tot een aangelegenheid als bedoeld in artikel 11, onderdeel b, wordt niet genomen dan na afweging van in elk geval de onderwijskundige, de personele en de materiële belangen van de school, welke afweging schriftelijk in de motivering van het besluit tot uitdrukking wordt gebracht.   
-3. Een besluit met betrekking tot een aangelegenheid als bedoeld in de artikelen 11, onderdeel p, en 13, onderdeel h, wordt niet genomen dan na raadpleging van de ouders. 
+3. Een besluit met betrekking tot een aangelegenheid als bedoeld in de artikelen 11, onderdeel p, en artikel 13, eerste lid, onderdeel h, wordt niet genomen dan na raadpleging van de ouders. 
 
 ### Artikel  16  
 
@@ -576,7 +576,7 @@ d. op verzoek van het bevoegd gezag of van de medezeggenschapsraad, dan wel de g
 
 ####Geschil adviesbevoegdheid raad
 
-1.  Indien het bevoegd gezag een besluit neemt waarbij het een advies van de medezeggenschapsraad, vereist ingevolge artikel 11, dan wel ingevolge de toepassing van artikel 24, tweede en derde lid, niet of niet geheel volgt, wordt de uitvoering van het besluit opgeschort met zes weken, tenzij de medezeggenschapsraad tegen onmiddellijke uitvoering van het besluit geen bedenkingen heeft.   
+1.  Indien het bevoegd gezag een besluit neemt waarbij het een advies van de medezeggenschapsraad, vereist ingevolge de artikelen 11 en 11a, dan wel ingevolge de toepassing van artikel 24, tweede en derde lid, niet of niet geheel volgt, wordt de uitvoering van het besluit opgeschort met zes weken, tenzij de medezeggenschapsraad tegen onmiddellijke uitvoering van het besluit geen bedenkingen heeft.   
 2.  De medezeggenschapsraad doet een verzoek als bedoeld in artikel 31, onderdeel c, binnen zes weken nadat het betrokken besluit door het bevoegd gezag is genomen, onder overlegging van de argumenten voor zijn advies en de argumenten voor zijn oordeel dat door het niet of niet geheel volgen van het advies de belangen van de school of van de medezeggenschapsraad ernstig worden geschaad. De commissie stelt het bevoegd gezag in de gelegenheid om zijn argumenten voor het niet of niet geheel volgen van het advies bij de commissie naar voren te brengen. De behandeling van het verzoek verlengt de opschorting, bedoeld in het eerste lid, niet.   
 3.  De commissie is bevoegd een bemiddelingsvoorstel aan het bevoegd gezag en de medezeggenschapsraad voor te leggen, tenzij het bevoegd gezag dan wel de medezeggenschapsraad te kennen geven daarop geen prijs te stellen. Indien de commissie van deze bevoegdheid geen gebruik maakt of indien haar voorstel niet de instemming verwerft van het bevoegd gezag alsmede de instemming van de medezeggenschapsraad beoordeelt de commissie of het bevoegd gezag bij het niet of niet geheel volgen van het advies van de medezeggenschapsraad bij afweging van de betrokken belangen niet in redelijkheid tot zijn voorstel heeft kunnen komen. De commissie doet vervolgens de bindende uitspraak of het betrokken besluit al dan niet in stand kan blijven.  
 

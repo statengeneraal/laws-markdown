@@ -989,7 +989,7 @@ Bij of krachtens algemene maatregel van bestuur worden voorschriften gegeven omt
 
 ####Verslaglegging, onderzoek minister, controleprotocol en correctie rijksbijdrage
 
-De artikelen 2.5.3, 2.5.4, 2.5.6, 2.5.7, 2.5.7a en 2.5.9 zijn van overeenkomstige toepassing op de rijksbijdrage voor het voortgezet algemeen volwassenenonderwijs. 
+De artikelen 2.5.3, 2.5.4, 2.5.6, 2.5.7a en 2.5.9 zijn van overeenkomstige toepassing op de rijksbijdrage voor het voortgezet algemeen volwassenenonderwijs. 
 
 ### §  2  
 

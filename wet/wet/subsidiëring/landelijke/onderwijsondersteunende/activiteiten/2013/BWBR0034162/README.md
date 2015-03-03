@@ -17,7 +17,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 *instelling:* rechtspersoon die op grond van artikel 2 of artikel 3 subsidie ontvangt,  
 
-*Onze Minister:* Onze Minister van Onderwijs, Cultuur en Wetenschap, en, voor wat betreft het landbouwonderwijs, Onze Minister van Economische Zaken, Landbouw en Innovatie.   
+*Onze Minister:* Onze Minister van Onderwijs, Cultuur en Wetenschap, en, voor wat betreft het landbouwonderwijs, Onze Minister van Economische Zaken.   
 
 ### Artikel  2  
 
@@ -51,7 +51,7 @@ d. het ontwikkelen van de centrale examens, bedoeld in de Wet op het voortgezet 
 e. het uitvoeren van onderzoek ter ondersteuning van de taken, genoemd in dit artikel, of  
 
 f. het uitvoeren van aanvullende activiteiten die samenhangen met de taken, genoemd in dit artikel.     
-2.  Onze Minister kan Stichting Cito Instituut voor Toetsontwikkeling subsidie verstrekken voor de taken, genoemd in dit artikel.   
+2.  Onze Minister kan Stichting Cito Instituut voor Toetsontwikkeling subsidie verstrekken voor de taken, genoemd in het eerste lid.   
 3.  Onze Minister kan Stichting Cito Instituut voor Toetsontwikkeling subsidie verstrekken voor het ontwikkelen van de toetsen, bedoeld in artikel 11, zevende lid, van de Wet op de expertisecentra.  
 
 ### Artikel  4  

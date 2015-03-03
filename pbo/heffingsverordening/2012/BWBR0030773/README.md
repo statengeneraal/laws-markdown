@@ -155,6 +155,8 @@ De heffing bedoeld in artikel 2 bedraagt voor:
 
 a.de ondernemer die zeevis koopt van een aanvoerder of van een buitenlandse aanvoerder:1,36 promille van het aankoopbedrag van de door hem van een aanvoerder gekochte zeevis, die fysiek Nederland binnenkomt;
 
+2°0,79 promille van de waarde van de door hem aangekochte zeevis, voor zover het betreft met een trawler aangevoerde zeevis;
+
 b.de ondernemer die vis koopt van een aanvoerder, als bedoeld in artikel 3, eerste lid onder b:3,73 promille van het aankoopbedrag van de door hem van een aanvoerder gekochte vis;
 
 c.de ondernemer die kokkels of spisula of zwaardscheden en mesheften of nonnetjes koopt van een aanvoerder:3,14 promille van het aankoopbedrag van de door hem van een aanvoerder gekochte kokkels of spisula of zwaard se heden en mesheften of nonnetjes;

@@ -59,11 +59,11 @@ d. onderwijswet:
 
 – Wet sociale kanstrajecten jongeren BES     
 
-e. onderwijs: bij of krachtens een onderwijswet geregeld onderwijs,  
+e. onderwijs: bij of krachtens een onderwijswet geregeld onderwijs, waaronder mede worden begrepen werkzaamheden als bedoeld in de artikelen 176e, eerste lid, en 176g, eerste lid, van de Wet op het primair onderwijs, 162h, eerste lid, en 162j, eerste lid, van de Wet op de expertisecentra, en 118n, eerste lid, en 118p, eerste lid, van de Wet op het voortgezet onderwijs, 
 
 f.  voorschoolse educatie: voorschoolse educatie als bedoeld in de artikelen 1.1, eerste lid, en 2.1, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen, 
 
-g. instelling: school, instelling of exameninstelling in de zin van een onderwijswet, daaronder begrepen een niet bekostigde instelling en waaronder mede worden begrepen werkzaamheden als bedoeld in de artikelen 176e, eerste lid, en 176g, eerste lid, van de Wet op het primair onderwijs, 162h, eerste lid, en 162j, eerste lid, van de Wet op de expertisecentra, en 118n, eerste lid, en 118p, eerste lid, van de Wet op het voortgezet onderwijs,  
+g. instelling: school, instelling of exameninstelling in de zin van een onderwijswet, daaronder begrepen een niet bekostigde instelling,  
 
 h instelling voor hoger onderwijs: een instelling als bedoeld in artikel 1.2, onderdelen a en b, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek, 
 
@@ -666,7 +666,7 @@ b. de gemeenten gegevens te verstrekken ten behoeve van de toekenning van uitker
 8.  Het Centraal bureau voor de statistiek mag de gegevens die het op grond van het zevende lid heeft ontvangen, openbaar maken in de vorm van overzichten die betrekking hebben op afzonderlijke scholen, instellingen of opleidingen, mits aan deze overzichten geen herkenbare gegevens over een afzonderlijk persoon of een afzonderlijk huishouden kunnen worden ontleend.   
 9.  Uit het basisregister onderwijs worden desgevraagd kosteloos persoonsgegevens verstrekt aan de rijksbelastingdienst, voor zover dat noodzakelijk is voor de uitvoering van de wetgeving op het gebied van rijksbelastingen zoals bedoeld in artikel 1, tweede lid, van de Algemene wet inzake rijksbelastingen.   
 10.  Uit het basisregister onderwijs worden kosteloos aan kenniscentra beroepsonderwijs bedrijfsleven als bedoeld in artikel 1.5.1 van de Wet educatie en beroepsonderwijs de gegevens, bedoeld in artikel 2.5.5a, tweede lid, onderdelen c, d, i en j, van die wet, alsmede de leeftijd van de deelnemer bij aanvang van de beroepspraktijkvorming verstrekt.   
-11.  Uit het basisregister onderwijs worden desgevraagd kosteloos persoonsgegevens en andere gegevens verstrekt aan Onze Minister voor Wonen, Wijken en Integratie voor zover dit noodzakelijk is voor de uitvoering van zijn taken op grond van de Wet inburgering.   
+11.  Uit het basisregister onderwijs worden desgevraagd kosteloos persoonsgegevens en andere gegevens verstrekt aan Onze Minister van Sociale Zaken en Werkgelegenheid voor zover dit noodzakelijk is voor de uitvoering van zijn taken op grond van de Wet inburgering.   
 12.  Aan de instellingen en organen, genoemd in het eerste tot en met het elfde lid, wordt geen rechtstreekse toegang tot het basisregister verleend.   
 13.  Onze Minister verstrekt uit het basisregister onderwijs geen persoonsgebonden nummer van een leerling, deelnemer, student of extraneus ter uitvoering van artikel 107, tweede lid, van de Vreemdelingenwet 2000, tenzij deze gegevens noodzakelijk zijn voor nakoming van verplichtingen als referent in de zin van die wet dan wel voor het toezicht op de naleving van de wettelijke voorschriften met betrekking tot referenten in de zin van die wet.   
 14.  Uit het basisregister worden aan het meldingsregister relatief verzuim toegevoegd de persoonsgebonden nummers van de leerlingen en deelnemers, bedoeld in artikel 24c, eerste lid, onderdelen a tot en met e, met van elke leerling of deelnemer de naam, het geslacht, de geboortedatum, het adres en het gegeven of betrokkene al dan niet beschikt over een startkwalificatie.   
@@ -939,7 +939,7 @@ d. de waardedocumenten, bedoeld in artikel 24n, onder c, d, f, g, h en l, indien
 
 a. Onze Minister van Volksgezondheid, Welzijn en Sport als beheerder van een register als bedoeld in artikel 3 van de Wet op de beroepen in de individuele gezondheidszorg, ten behoeve van de beoordeling van een aanvraag om inschrijving in dat register;  
 
-b. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties als beheerder van het Informatiesysteem Inburgering, bedoeld in artikel 47, eerste lid, van de Wet inburgering ten behoeve van de beoordeling van de aanwezigheid van een vrijstelling van de inburgeringsplicht;  
+b. Onze Minister van Sociale Zaken en Werkgelegenheid als beheerder van het Informatiesysteem Inburgering, bedoeld in artikel 47, eerste lid, van de Wet inburgering ten behoeve van de beoordeling van de aanwezigheid van een vrijstelling van de inburgeringsplicht;  
 
 c. het Uitvoeringsinstituut werknemersverzekeringen, voor zover dat noodzakelijk is voor de uitvoering van de taken, bedoeld in artikel 30, eerste lid, 30a, eerste en tweede lid, 30b, 30d en 31 van de Wet structuur uitvoeringsorganisatie werk en inkomen.     
 8.  Uit het diplomaregister wordt desgevraagd aan betrokkene een elektronisch document met diplomagegevens verstrekt, dat is beveiligd tegen wijzigingen en waarvan kan worden vastgesteld dat het is afgegeven door Onze Minister.   
