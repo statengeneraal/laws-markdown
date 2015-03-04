@@ -9,13 +9,13 @@ Besluit:
 
 ####Algemene bepalingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 ### Artikel  1  
 
 ####begripsbepalingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 1.  In deze beleidsregels wordt verstaan onder: 
 
@@ -82,19 +82,19 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Beoordeling bij de aanleg of wijziging van of onderhoud aan een hoofdweg
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 ### Paragraaf  2.1  
 
 ####Wijziging van wegen die deel uitmaken van het basisnet
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 ### Artikel  2  
 
 ####toepassingsbereik paragraaf 2.1
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 Deze paragraaf is van toepassing op een tracébesluit dat betrekking heeft op een wijziging van een hoofdweg, waarvoor voorafgaand aan de terinzagelegging van het ontwerp-tracébesluit een PR-plafond is vastgesteld. 
 
@@ -102,7 +102,7 @@ Deze paragraaf is van toepassing op een tracébesluit dat betrekking heeft op ee
 
 ####inspanningsplicht
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 Indien wijziging van een hoofdweg leidt tot verschuiving van de ligging van het referentiepunt op het betrokken wegvak, spant de minister zich in te voorkomen dat bestaande of geprojecteerde kwetsbare of beperkt kwetsbare objecten binnen de basisnetafstand komen te liggen. 
 
@@ -110,7 +110,7 @@ Indien wijziging van een hoofdweg leidt tot verschuiving van de ligging van het 
 
 ####beoordeling effecten verschuiving referentiepunt
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 Onverminderd artikel 5 wordt bij een tracébesluit dat betrekking heeft op een wijziging van een hoofdweg als gevolg waarvan de ligging van het referentiepunt verschuift en als gevolg van die verschuiving bestaande of geprojecteerde kwetsbare of beperkt kwetsbare objecten komen te liggen binnen de basisnetafstand, inzicht gegeven in: 
 
@@ -124,7 +124,7 @@ c. de afweging die ten grondslag ligt aan de keuze voor de ligging van de te wij
 
 ####beoordeling plaatsgebonden risico
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 1.  Ter beoordeling van het plaatsgebonden risico wordt in de toelichting op het tracébesluit: 
 
@@ -141,7 +141,7 @@ c. indien een wijziging van de bij de aan te passen hoofdweg behorende ongevalfr
 
 ####beoordeling groepsrisico
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 Artikel 5 is van overeenkomstige toepassing ter onderbouwing van de beoordeling van het groepsrisico, met dien verstande dat in geval een GR-plafond is vastgesteld dat plafond als uitgangspunt wordt gehanteerd. 
 
@@ -149,7 +149,7 @@ Artikel 5 is van overeenkomstige toepassing ter onderbouwing van de beoordeling 
 
 ####afwijkende beoordeling groepsrisico
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 1.  Dit artikel is van toepassing op een tracébesluit dat betrekking heeft op: 
 
@@ -175,7 +175,7 @@ c. de huidige bevolkingsdichtheden en de overeenkomstig de ten tijde van de teri
 
 ####verantwoording groepsrisico
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 1.  Indien artikel 7 van toepassing is, wordt in het tracébesluit gemotiveerd: 
 
@@ -195,7 +195,7 @@ b. de mogelijkheden voor personen die zich bevinden in het invloedsgebied om zic
 
 ####effecten voor ligging PAG
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 Indien voor de omgeving naast de betrokken hoofdweg krachtens het Bevt een PAG is vastgesteld, wordt in het tracébesluit vermeld in hoeverre de aanpassing van de hoofdweg gevolgen heeft voor de ligging van dat PAG. 
 
@@ -203,13 +203,13 @@ Indien voor de omgeving naast de betrokken hoofdweg krachtens het Bevt een PAG i
 
 ####Aanleg of wijziging van wegen die geen deel uitmaken van het basisnet
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 ### Artikel  10  
 
 ####toepassingsbereik paragraaf 2.2
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 1.  Deze paragraaf is van toepassing op een tracébesluit dat betrekking heeft op aanleg van een hoofdweg die geen deel uitmaakt van het basisnet.   
 2.  Deze paragraaf is tevens van toepassing in geval het tracébesluit, bedoeld in het eerste lid, mede betrekking heeft op een wijziging van een bestaande hoofdweg waarvoor een PR-plafond is vastgesteld, ten behoeve van aantakking op de aan te leggen hoofdweg.   
@@ -219,7 +219,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####inspanningsplicht PR
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 De minister spant zich in te voorkomen dat bestaande of geprojecteerde kwetsbare of beperkt kwetsbare objecten komen te liggen in het gebied langs een hoofdweg als bedoeld in artikel 10, waar de waarde van het plaatsgebonden risico groter kan zijn dan 10<sup>-6</sup> per jaar. 
 
@@ -227,7 +227,7 @@ De minister spant zich in te voorkomen dat bestaande of geprojecteerde kwetsbare
 
 ####wijze van berekenen PR
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 1.  Het plaatsgebonden risico wordt berekend met toepassing van RBM-II.   
 2.  Bij de berekening van het plaatsgebonden risico wordt gebruik gemaakt van: 
@@ -241,7 +241,7 @@ b. een inschatting van de omvang van het vervoer van gevaarlijke stoffen dat aan
 
 ####beoordeling en verantwoording groepsrisico
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 1.  Bij de beoordeling van het groepsrisico is artikel 7, tweede lid, van overeenkomstige toepassing.   
 2.  Bij de beoordeling van het groepsrisico wordt gebruik gemaakt van de gegevens, bedoeld in artikel 12, tweede lid, onder b, of derde lid, en van de huidige bevolkingsdichtheden en de overeenkomstig de ten tijde van de terinzagelegging van het ontwerp van het tracébesluit vigerende bestemmingsplannen en ter inzage gelegde ontwerpen van bestemmingsplannen redelijkerwijs te verwachten bevolkingsdichtheden.   
@@ -251,7 +251,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####aanvullende beoordeling wegvakken met plafond
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 Overeenkomstig artikel 5, eerste lid, en artikel 6 wordt bezien in hoeverre de voor de in het studiegebied gelegen hoofdwegen vastgestelde PR-plafonds en GR-plafonds worden of dreigen te worden overschreden en wordt in voorkomende gevallen overeenkomstig artikel 5, vierde lid, verwezen naar de onderzoeksplicht van de minister, bedoeld in artikel 15, derde lid, van de wet. 
 
@@ -259,13 +259,13 @@ Overeenkomstig artikel 5, eerste lid, en artikel 6 wordt bezien in hoeverre de v
 
 ####Omrijden over wegen die deel uitmaken van het basisnet
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 ### Artikel  15  
 
 ####toepassingsbereik paragraaf 2.3
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 Deze paragraaf is van toepassing op verkeersbesluiten waardoor het vervoer van alle of bepaalde gevaarlijke stoffen over een hoofdweg tijdelijk wordt beperkt vanwege werkzaamheden aan deze hoofdweg en dit vervoer als gevolg daarvan zal omrijden over andere hoofdwegen die deel uitmaken van het basisnet. 
 
@@ -273,7 +273,7 @@ Deze paragraaf is van toepassing op verkeersbesluiten waardoor het vervoer van a
 
 ####beoordeling plaatsgebonden risico
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 1.  Ter beoordeling van het plaatsgebonden risico wordt in de motivering van het verkeersbesluit: 
 
@@ -290,7 +290,7 @@ c. inzicht gegeven in de verwachte toename van de omvang van het vervoer van gev
 
 ####beoordeling groepsrisico
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 Artikel 16 is van overeenkomstige toepassing ter onderbouwing van de beoordeling van het groepsrisico, met dien verstande dat in geval een GR-plafond is vastgesteld dat plafond als uitgangspunt wordt gehanteerd. 
 
@@ -298,13 +298,13 @@ Artikel 16 is van overeenkomstige toepassing ter onderbouwing van de beoordeling
 
 ####Omrijden over wegen die geen deel uitmaken van het basisnet
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 ### Artikel  18  
 
 ####toepassingsbereik paragraaf 2.4
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 1.  Deze paragraaf is van toepassing op verkeersbesluiten waardoor het vervoer van alle of bepaalde gevaarlijke stoffen over een hoofdweg tijdelijk wordt beperkt vanwege werkzaamheden aan deze hoofdweg en dit vervoer als gevolg daarvan zal omrijden over andere hoofdwegen die geen deel uitmaken van het basisnet.   
 2.  Bij de voorbereiding van een besluit als bedoeld in het eerste lid wordt overlegd met het ten aanzien van de andere wegen bevoegde gezag.  
@@ -313,7 +313,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####inspanningsplicht PR
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 De minister spant zich in te voorkomen dat kwetsbare of beperkt kwetsbare objecten komen te liggen in het gebied langs wegen als bedoeld in artikel 18, waar de waarde van het plaatsgebonden risico groter kan zijn dan 10<sup>-6</sup> per jaar. 
 
@@ -321,7 +321,7 @@ De minister spant zich in te voorkomen dat kwetsbare of beperkt kwetsbare object
 
 ####wijze van berekenen PR
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 1.  Het plaatsgebonden risico wordt berekend met toepassing van RBM-II.   
 2.  Bij de berekening van het plaatsgebonden risico wordt gebruik gemaakt van: 
@@ -336,7 +336,7 @@ c. een inschatting van de verwachte toename van de omvang van het vervoer van ge
 
 ####beoordeling groepsrisico
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 1.  Het groepsrisico wordt met toepassing van RBM-II berekend, indien het groepsrisico: 
 
@@ -355,7 +355,7 @@ c. de huidige bevolkingsdichtheden.
 
 ####verantwoording GR
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 1.  Indien artikel 21 van toepassing is, wordt in het verkeersbesluit gemotiveerd: 
 
@@ -375,19 +375,19 @@ b. de mogelijkheden voor personen die zich bevinden in het invloedsgebied om zic
 
 ####Beoordeling bij de aanleg of wijziging van een hoofdspoorweg
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 ### Paragraaf  3.1  
 
 ####Wijziging van hoofdspoorwegen die deel uitmaken van het basisnet
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 ### Artikel  23  
 
 ####toepassingsbereik paragraaf 3.1
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 Deze paragraaf is van toepassing op een tracébesluit dat betrekking heeft op een wijziging van een hoofdspoorweg. 
 
@@ -395,7 +395,7 @@ Deze paragraaf is van toepassing op een tracébesluit dat betrekking heeft op ee
 
 ####inspanningsplicht
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 Indien een wijziging van een hoofdspoorweg leidt tot verschuiving van de ligging van het referentiepunt op het betrokken baanvak, spant de minister zich in te voorkomen dat bestaande of geprojecteerde kwetsbare of beperkt kwetsbare objecten binnen de basisnetafstand komen te liggen. 
 
@@ -403,7 +403,7 @@ Indien een wijziging van een hoofdspoorweg leidt tot verschuiving van de ligging
 
 ####beoordeling effecten verschuiving referentiepunt
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 Onverminderd artikel 26 wordt bij een tracébesluit dat betrekking heeft op een wijziging van een hoofdspoorweg als gevolg waarvan de ligging van het referentiepunt verschuift en als gevolg van die verschuiving bestaande of geprojecteerde kwetsbare of beperkt kwetsbare objecten komen te liggen binnen de basisnetafstand, inzicht gegeven in: 
 
@@ -417,7 +417,7 @@ c. de afweging die ten grondslag ligt aan de keuze voor de ligging van de te wij
 
 ####beoordeling plaatsgebonden risico
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 1.  Ter beoordeling van het plaatsgebonden risico wordt in de toelichting op het tracébesluit: 
 
@@ -434,7 +434,7 @@ c. indien een wijziging van de voor de aan te passen hoofdspoorweg geldende risi
 
 ####beoordeling groepsrisico
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 Artikel 26 is van overeenkomstige toepassing ter onderbouwing van de beoordeling van het groepsrisico, met dien verstande dat de voor de desbetreffende hoofdspoorweg vastgestelde GR-plafonds als uitgangspunt worden gehanteerd. 
 
@@ -442,7 +442,7 @@ Artikel 26 is van overeenkomstige toepassing ter onderbouwing van de beoordeling
 
 ####afwijkende beoordeling groepsrisico
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 1.  Dit artikel is van toepassing op een tracébesluit dat: 
 
@@ -468,7 +468,7 @@ c. de huidige bevolkingsdichtheden en de overeenkomstig de ten tijde van de teri
 
 ####verantwoording GR
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 1.  Indien artikel 28 van toepassing is wordt in het tracébesluit gemotiveerd: 
 
@@ -488,7 +488,7 @@ b. de mogelijkheden voor personen die zich bevinden in het invloedsgebied om zic
 
 ####effecten voor ligging PAG
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 Indien voor de omgeving naast de betrokken hoofdspoorweg krachtens het Bevt een PAG is vastgesteld, wordt in een tracébesluit vermeld in hoeverre de aanpassing van de hoofdspoorweg gevolgen heeft voor de ligging van dat PAG. 
 
@@ -496,13 +496,13 @@ Indien voor de omgeving naast de betrokken hoofdspoorweg krachtens het Bevt een 
 
 ####Aanleg van hoofdspoorwegen die nog geen deel uitmaken van het basisnet
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 ### Artikel  31  
 
 ####toepassingsbereik paragraaf 3.2
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 1.  Deze paragraaf is van toepassing op een tracébesluit dat betrekking heeft op aanleg van een hoofdspoorweg.   
 2.  Deze paragraaf is tevens van toepassing in geval een besluit, bedoeld in het eerste lid, mede betrekking heeft op een wijziging van een bestaande hoofdspoorweg ten behoeve van aantakking op de aan te leggen hoofdspoorweg.  
@@ -511,7 +511,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####inspanningsplicht PR
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 De minister spant zich in te voorkomen dat bestaande of geprojecteerde kwetsbare of beperkt kwetsbare objecten komen te liggen in het gebied langs een hoofdspoorweg als bedoeld in artikel 31, waar de waarde van het plaatsgebonden risico groter kan zijn dan 10<sup>-6</sup> per jaar. 
 
@@ -519,7 +519,7 @@ De minister spant zich in te voorkomen dat bestaande of geprojecteerde kwetsbare
 
 ####wijze van berekenen PR
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 1.  Het plaatsgebonden risico wordt berekend met toepassing van RBM-II.   
 2.  Bij de berekening van het plaatsgebonden risico wordt gebruik gemaakt van: 
@@ -532,7 +532,7 @@ b. een inschatting van de omvang van het vervoer van gevaarlijke stoffen dat aan
 
 ####beoordeling en verantwoording groepsrisico
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 1.  Bij de beoordeling van het groepsrisico is artikel 28, tweede lid, van overeenkomstige toepassing.   
 2.  Bij de beoordeling van het groepsrisico wordt gebruik gemaakt van de gegevens, bedoeld in artikel 33, tweede lid, onder b, en van de huidige bevolkingsdichtheden en de overeenkomstig de ten tijde van de terinzagelegging van een besluit als bedoeld in artikel 31 vigerende bestemmingsplannen en ter inzage gelegde ontwerp-bestemmingsplannen redelijkerwijs te verwachten bevolkingsdichtheden.   
@@ -542,7 +542,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####aanvullende beoordeling baanvakken met plafond
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 Overeenkomstig artikel 26, eerste lid, en artikel 27 wordt bezien in hoeverre de voor de in het studiegebied gelegen hoofdspoorwegen vastgestelde PR-plafonds en GR-plafonds worden of dreigen te worden overschreden en wordt in voorkomende gevallen overeenkomstig artikel 26, vierde lid, verwezen naar de onderzoeksplicht van de minister, bedoeld in artikel 15, derde lid, van de wet. 
 
@@ -550,19 +550,19 @@ Overeenkomstig artikel 26, eerste lid, en artikel 27 wordt bezien in hoeverre de
 
 ####Beoordeling bij de aanleg of wijziging van een hoofdvaarweg
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 ### Paragraaf  4.1  
 
 ####Wijziging van hoofdvaarwegen die deel uitmaken van het Basisnet
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 ### Artikel  36  
 
 ####toepassingsbereik paragraaf 4.1
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 Deze paragraaf is van toepassing op een tracébesluit dat betrekking heeft op een wijziging van een hoofdvaarweg, waar voorafgaand aan de terinzagelegging van het ontwerp-tracébesluit een PR-plafond is vastgesteld. 
 
@@ -570,7 +570,7 @@ Deze paragraaf is van toepassing op een tracébesluit dat betrekking heeft op ee
 
 ####beoordeling plaatsgebonden risico
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 1.  Ter beoordeling van het plaatsgebonden risico wordt in de toelichting op het tracébesluit: 
 
@@ -587,7 +587,7 @@ c. indien redelijkerwijs een toename van het vervoer van gevaarlijke stoffen kan
 
 ####beoordeling groepsrisico
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 1.  Het groepsrisico wordt met toepassing van RBM-II berekend, indien het groepsrisico: 
 
@@ -606,7 +606,7 @@ c. de huidige bevolkingsdichtheden en de overeenkomstig de ten tijde van de teri
 
 ####verantwoording GR
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 1.  Indien artikel 38 van toepassing is, wordt in het tracébesluit, gemotiveerd: 
 
@@ -626,13 +626,13 @@ b. de mogelijkheden voor personen die zich bevinden in het invloedsgebied om zic
 
 ####Aanleg of wijziging van hoofdvaarwegen die geen deel uitmaken van het basisnet
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 ### Artikel  40  
 
 ####toepassingsbereik paragraaf 4.2
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 1.  Deze paragraaf is van toepassing op een tracébesluit dat betrekking heeft op aanleg van een hoofdvaarweg.   
 2.  Deze paragraaf is tevens van toepassing in geval het tracébesluit, bedoeld in het eerste lid, mede betrekking heeft op een wijziging van een bestaande hoofdvaarweg ten behoeve van aantakking op de aan te leggen hoofdvaarweg.   
@@ -642,7 +642,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####inspanningsplicht PR
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 De minister spant zich in te voorkomen dat bestaande of geprojecteerde kwetsbare of beperkt kwetsbare objecten komen te liggen in het gebied langs een hoofdvaarweg als bedoeld in artikel 40, waar de waarde van het plaatsgebonden risico groter kan zijn dan 10<sup>-6</sup> per jaar. 
 
@@ -650,7 +650,7 @@ De minister spant zich in te voorkomen dat bestaande of geprojecteerde kwetsbare
 
 ####wijze van berekenen PR
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 1.  Het plaatsgebonden risico wordt berekend met toepassing van RBM-II.   
 2.  Bij de berekening van het plaatsgebonden risico wordt gebruik gemaakt van: 
@@ -664,7 +664,7 @@ b. een inschatting van de omvang van het vervoer van gevaarlijke stoffen dat aan
 
 ####beoordeling en verantwoording groepsrisico
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 1.  Bij de beoordeling van het groepsrisico is artikel 38, eerste lid, van overeenkomstige toepassing.   
 2.  Bij de beoordeling van het groepsrisico wordt gebruik gemaakt van de gegevens, bedoeld in artikel 42, tweede lid, onder b, of derde lid, en van de huidige bevolkingsdichtheden en de overeenkomstig de ten tijde van de terinzagelegging van het ontwerp-tracébesluit vigerende bestemmingsplannen en ter inzage gelegde bestemmingsplannen redelijkerwijs te verwachten bevolkingsdichtheden.   
@@ -674,7 +674,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####aanvullende beoordeling hoofdvaarwegvakken met plafond
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 Overeenkomstig artikel 37, eerste lid, wordt bezien in hoeverre de voor de in het studiegebied gelegen hoofdvaarwegen vastgestelde PR-plafonds worden of dreigen te worden overschreden en wordt in voorkomende gevallen overeenkomstig artikel 37, vierde lid, verwezen naar de onderzoeksplicht van de minister, bedoeld in artikel 15, derde lid, van de wet. 
 
@@ -682,13 +682,13 @@ Overeenkomstig artikel 37, eerste lid, wordt bezien in hoeverre de voor de in he
 
 ####Slotbepalingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 ### Artikel  45  
 
 ####overgangsrecht
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 1.  Deze beleidsregels zijn niet van toepassing op een tracébesluit waarvan het ontwerp voor het tijdstip van inwerkingtreding van deze beleidsregels ter inzage is gelegd of waarvan het ontwerp tracébesluit uiterlijk binnen drie maanden na inwerkingtreding van deze beleidsregels wordt genomen.   
 2.  Deze beleidsregels zijn niet van toepassing op het tracébesluit voor het project zeesluis Kanaal Gent-Terneuzen.  
@@ -697,7 +697,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####inwerkingtreding
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 Deze beleidsregels treden in werking op het tijdstip waarop de Wet van 10 juli 2013 tot wijziging van de Wet vervoer gevaarlijke stoffen en enige andere wetten in verband met de totstandkoming van een basisnet (Wet basisnet) (Stb. 2013, 307), het Besluit van 3 september 2013 tot wijziging van het Besluit vervoer gevaarlijke stoffen in verband met de wijziging van de routeringsystematiek in de Wet vervoer gevaarlijke stoffen (Stb. 2013, 340), het Besluit van 11 november 2013, houdende milieukwaliteitseisen voor externe veiligheid in verband met het vervoer van gevaarlijke stoffen over transportroutes (Besluit externe veiligheid transportroutes) (Stb. 2013, 465) en de Regeling van 19 maart 2014, houdende vaststelling van de ligging van de risicoplafonds langs transportroutes en regels voor ruimtelijke ontwikkelingen langs transportroutes in verband met externe veiligheid (Regeling basisnet) (Stcrt. 2014, nr. 8242) in werking treden. 
 
@@ -705,12 +705,12 @@ Deze beleidsregels treden in werking op het tijdstip waarop de Wet van 10 juli 
 
 ####citeertitel
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 Deze beleidsregels worden aangehaald als: Beleidsregels EV-beoordeling tracébesluiten. 
 
 ### Artikel  48  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 Deze beleidsregels zullen met de toelichting in de Staatscourant worden geplaatst. 
 
@@ -722,7 +722,7 @@ W. J. Mansveld
 
 #### bij de beleidsregels EV-beoordeling tracébesluiten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 | Basisnetroutes  | Bijzonderheden  | Vervoersgegevens o.b.v. waarvan de risicoplafonds Basisnet zijn vastgesteld  | Wegvak (nr.)  | Naam Basisnetweg (wegnummer: van – tot)  | Tc = tunnel-categorie Wt = wegtype indien afwijkend  | Vervoershoeveelheden (in aantallen tankauto's)  |--- |--- | Stofcategorieën  | (voor GF3 zie Bijlage I bij de Regeling basisnet)  |--- |--- | LF1  | LF2  | LT1  | LT2  | LT3  | GF1  | GF2  | GT2  | GT3  | GT4  | GT5  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|

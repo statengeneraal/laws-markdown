@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Besluit van de Minister van Buitenlandse Zaken van 5 februari 2015, nr. MINBUZA-2014.726740 tot vaststelling van beleidsregels alsmede een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006
+##Besluit van de Minister van Buitenlandse Zaken van 5 februari 2015, nr. MINBUZA-2014.726740 tot vaststelling van beleidsregels alsmede een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (MUN 2015-2017)
 
 De Minister van Buitenlandse Zaken,  
 Gelet op de artikelen 6 en 7 van het Subsidiebesluit Ministerie van Buitenlandse Zaken en de artikelen 9.3 en 9.4 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006;

@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Verkeer en Waterstaat van 30 oktober 1995, nr. G5/V525203, Directoraat-Generaal voor het Vervoer;
 
-Gelet op de [artikelen 3](../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md), [6](../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md), [12](../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md) en [61 van de Wet vervoer gevaarlijke stoffen](../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md);
+Gelet op de artikelen 3, 6, 12 en 61 van de Wet vervoer gevaarlijke stoffen;
 
 De Raad van State gehoord (advies van 15 januari 1996, nummer W09.95.0579); 
 
@@ -20,7 +20,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:  
 
-a. wet: [Wet vervoer gevaarlijke stoffen](../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md);  
+a. wet: Wet vervoer gevaarlijke stoffen;  
 
 b. ADR: Accord Européen relatif au transport international des marchandises dangereuses par route;  
 
@@ -28,11 +28,11 @@ c. ADN: Accord Européen relatif au Transport International des Marchandises Dan
 
 d. RID: Règlement concernant le transport international ferroviaire des marchandises dangereuses;  
 
-e. ontplofbare stoffen en voorwerpen: ontplofbare stoffen en voorwerpen als bedoeld in [artikel 1, eerste lid, onderdeel *b*, 1°, van de wet](../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md).   
+e. ontplofbare stoffen en voorwerpen: ontplofbare stoffen en voorwerpen als bedoeld in artikel 1, eerste lid, onderdeel *b*, 1°, van de wet.   
 
 ### Artikel  2  
 
-1.  Overeenkomstig het ADR, het ADN, het RID dan wel anderszins ter uitvoering van verdragen of bindende besluiten van volkenrechtelijke organisaties, worden bij ministeriële regeling gevaarlijke stoffen of categorieën van gevaarlijke stoffen aangewezen ten aanzien waarvan het verrichten van handelingen als bedoeld in [artikel 2, eerste lid, van de wet](../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md) met daarbij aangewezen vervoermiddelen: 
+1.  Overeenkomstig het ADR, het ADN, het RID dan wel anderszins ter uitvoering van verdragen of bindende besluiten van volkenrechtelijke organisaties, worden bij ministeriële regeling gevaarlijke stoffen of categorieën van gevaarlijke stoffen aangewezen ten aanzien waarvan het verrichten van handelingen als bedoeld in artikel 2, eerste lid, van de wet met daarbij aangewezen vervoermiddelen: 
 
 a. niet is toegestaan; of  
 
@@ -49,15 +49,15 @@ Indien bij het vervoer van gevaarlijke stoffen met een voertuig voor het kruisen
 
 ### Artikel  4  
 
-1.  Het verrichten van handelingen als bedoeld in [artikel 2, eerste lid, van de wet](../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md) is toegestaan met alle vervoermiddelen, voor zover het betreft handelingen:  
+1.  Het verrichten van handelingen als bedoeld in artikel 2, eerste lid, van de wet is toegestaan met alle vervoermiddelen, voor zover het betreft handelingen:  
 
-a. door ambtenaren, bedoeld in de [artikelen 34](../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md) en [44 van de wet](../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md), voor zover verricht in de uitoefening van hun bij of krachtens de wet opgedragen taak met de desbetreffende gevaarlijke stoffen;  
+a. door ambtenaren, bedoeld in de artikelen 34 en 44 van de wet, voor zover verricht in de uitoefening van hun bij of krachtens de wet opgedragen taak met de desbetreffende gevaarlijke stoffen;  
 
 b. met ontplofbare stoffen en voorwerpen door ambtenaren die als zodanig bevoegd zijn tot het dragen van wapens, voor zover die ontplofbare stoffen en voorwerpen behoren tot hun uitrusting;  
 
 c. door ambtenaren van onder Onze Minister van Defensie ressorterende opruimingsdiensten van explosieven ten behoeve van het ruimen van ontplofbare stoffen en voorwerpen;  
 
-d. door personen die ingevolge de [Wet wapens en munitie](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md) bevoegd zijn munitie voorhanden te hebben, met ten hoogste 2 000 stuks munitie of onderdelen van munitie voor geweren, revolvers en pistolen met een kaliber van ten hoogste 19,1 mm, onderscheidenlijk met ten hoogste 2 000 lege hulzen voorzien van een ontstekingsmiddel en ten hoogste één kilogram voor vulling van deze hulzen bestemd zwart of rookzwak buskruit;  
+d. door personen die ingevolge de Wet wapens en munitie bevoegd zijn munitie voorhanden te hebben, met ten hoogste 2 000 stuks munitie of onderdelen van munitie voor geweren, revolvers en pistolen met een kaliber van ten hoogste 19,1 mm, onderscheidenlijk met ten hoogste 2 000 lege hulzen voorzien van een ontstekingsmiddel en ten hoogste één kilogram voor vulling van deze hulzen bestemd zwart of rookzwak buskruit;  
 
 e. met munitie behorend bij toestellen voor beroepsdoeleinden die geschikt zijn om projectielen af te schieten, voor zover gebruikt ten behoeve van beroep of onderneming, in een hoeveelheid van ten hoogste 10 000 stuks munitie onderscheidenlijk drie kilogram ontplofbare stof;  
 
@@ -65,19 +65,19 @@ f. door landbouwondernemers of hun personeel voor het vervoer van gewasbeschermi
 
 g. anders dan ten behoeve van beroep of onderneming, met gevaarlijke stoffen die geschikt en bestemd zijn voor eigen huishoudelijk gebruik, in hoeveelheden die daarmee redelijkerwijs in overeenstemming zijn; of  
 
-h. met verpakt of onverpakt consumentenvuurwerk als bedoeld in het [Vuurwerkbesluit](../../../../../../AMvB/vuurwerkbesluit/BWBR0013360/README.md), voor eigen gebruik, in een hoeveelheid van ten hoogste 25 kilogram per vervoermiddel.     
-2.  Het verrichten van handelingen als bedoeld in [artikel 2, eerste lid, van de wet](../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md), is toegestaan, voor zover het betreft handelingen met: 
+h. met verpakt of onverpakt consumentenvuurwerk als bedoeld in het Vuurwerkbesluit, voor eigen gebruik, in een hoeveelheid van ten hoogste 25 kilogram per vervoermiddel.     
+2.  Het verrichten van handelingen als bedoeld in artikel 2, eerste lid, van de wet, is toegestaan, voor zover het betreft handelingen met: 
 
 a. munitie voor noodsignaalmiddelen als bedoeld in artikel 8 van het Besluit wapens en munitie; of  
 
-b. de bij of krachtens de [Schepenwet](../../../../../../rijkswet/schepenwet/BWBR0001876/README.md) voorgeschreven reddingsmiddelen en voorzieningen;   aan boord van het vaartuig tot de uitrusting waarvan zij redelijkerwijs behoren.  
-3.  Bij ministeriële regeling kunnen gevaarlijke stoffen worden aangewezen ten aanzien waarvan handelingen als bedoeld in [artikel 2, eerste lid, van de wet](../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md), zijn toegestaan onder bij die regeling gegeven voorschriften en beperkingen, indien: 
+b. de bij of krachtens de Schepenwet voorgeschreven reddingsmiddelen en voorzieningen;   aan boord van het vaartuig tot de uitrusting waarvan zij redelijkerwijs behoren.  
+3.  Bij ministeriële regeling kunnen gevaarlijke stoffen worden aangewezen ten aanzien waarvan handelingen als bedoeld in artikel 2, eerste lid, van de wet, zijn toegestaan onder bij die regeling gegeven voorschriften en beperkingen, indien: 
 
 a. de gevaarzetting van die handelingen beperkt is; en  
 
 b. die voorschriften en beperkingen uitsluitend betreffen: 
 
-1°. aangelegenheden als bedoeld in [artikel 2, eerste lid, van de wet](../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md),  
+1°. aangelegenheden als bedoeld in artikel 2, eerste lid, van de wet,  
 
 2°. het vervoermiddel,  
 
@@ -107,19 +107,19 @@ d. voldoende sterk en bestand zijn tegen normale behandeling en normale vervoers
 
 ### Artikel  5  
 
-1.  Bij ministeriële regeling worden gevaarlijke stoffen aangewezen als gevaarlijke stoffen, bedoeld in [artikel 12, eerste lid, van de wet](../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md): 
+1.  Bij ministeriële regeling worden gevaarlijke stoffen aangewezen als gevaarlijke stoffen, bedoeld in artikel 12, eerste lid, van de wet: 
 
 a. voor zover de gevaarzetting van de desbetreffende stof daartoe aanleiding geeft;  
 
 b. in nader te bepalen hoeveelheden.     
-2.  Tot de stoffen, bedoeld in het eerste lid, worden in ieder geval gerekend de gevaarlijke stoffen, bedoeld in [artikel 1, eerste lid, onderdeel *b* van de wet](../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md): 
+2.  Tot de stoffen, bedoeld in het eerste lid, worden in ieder geval gerekend de gevaarlijke stoffen, bedoeld in artikel 1, eerste lid, onderdeel *b* van de wet: 
 
 a. onder 1°;  
 
 b. onder 2°, voor zover deze stoffen in het ADR als giftig worden aangemerkt;  
 
 c. onder 3°, 5°, 6°, 7°, 9° en 11°, voor zover deze stoffen in het ADR als zeer gevaarlijk worden aangemerkt.     
-3.  Bij ministeriële regeling kunnen voor het vervoer over de binnenwateren of over de spoorwegen gevaarlijke stoffen, in nader te bepalen gevallen, worden aangewezen als gevaarlijke stoffen, bedoeld in [artikel 12, tweede lid, van de wet](../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md): 
+3.  Bij ministeriële regeling kunnen voor het vervoer over de binnenwateren of over de spoorwegen gevaarlijke stoffen, in nader te bepalen gevallen, worden aangewezen als gevaarlijke stoffen, bedoeld in artikel 12, tweede lid, van de wet: 
 
 a. voor zover de gevaarzetting van de desbetreffende stof daartoe aanleiding geeft;  
 
@@ -144,7 +144,7 @@ Wijzigt het Besluit verpakking en etikettering diergenees middelen
 
 ### Artikel  10  
 
-De [Wet vervoer gevaarlijke stoffen](../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md), met uitzondering van [artikel 57 van die wet](../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md), en dit besluit treden in werking met ingang van de eerste dag van de tweede kalendermaand na de datum van uitgifte van het *Staatsblad* waarin dit besluit wordt geplaatst. 
+De Wet vervoer gevaarlijke stoffen, met uitzondering van artikel 57 van die wet, en dit besluit treden in werking met ingang van de eerste dag van de tweede kalendermaand na de datum van uitgifte van het *Staatsblad* waarin dit besluit wordt geplaatst. 
 
 ### Artikel  11  
 

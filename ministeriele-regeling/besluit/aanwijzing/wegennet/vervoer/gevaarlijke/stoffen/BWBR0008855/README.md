@@ -3,16 +3,16 @@
 ##Besluit aanwijzing wegennet vervoer gevaarlijke stoffen
 
 De Minister van Verkeer en Waterstaat, a.i.,  
-Gelet op [artikel 14 van de Wet vervoer gevaarlijke stoffen](../../../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md);
+Gelet op artikel 14 van de Wet vervoer gevaarlijke stoffen;
 
-Gehoord de betrokken openbare lichamen, bedoeld in [artikel 15 van de Wet vervoer gevaarlijke stoffen](../../../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md);
+Gehoord de betrokken openbare lichamen, bedoeld in artikel 15 van de Wet vervoer gevaarlijke stoffen;
 
-Gezien de schriftelijke en mondelinge inbreng van belanghebbenden, bedoeld in [artikel 15 van de Wet vervoer gevaarlijke stoffen](../../../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md) juncto [artikel 3:13 van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);
+Gezien de schriftelijke en mondelinge inbreng van belanghebbenden, bedoeld in artikel 15 van de Wet vervoer gevaarlijke stoffen juncto artikel 3:13 van de Algemene wet bestuursrecht;
 Besluit:     
 
 ### Artikel  1  
 
-Als landelijk net van wegen, bedoeld in [artikel 14 van de Wet vervoer gevaarlijke stoffen](../../../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md), worden aangewezen alle bij het Rijk in beheer zijnde wegen.  
+Als landelijk net van wegen, bedoeld in artikel 14 van de Wet vervoer gevaarlijke stoffen, worden aangewezen alle bij het Rijk in beheer zijnde wegen.  
 
 ### Artikel  2  
 

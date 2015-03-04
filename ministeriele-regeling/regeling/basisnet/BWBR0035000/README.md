@@ -9,10 +9,10 @@ Besluit:
 
 ####Begrippen en reikwijdte
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 ### Artikel  1  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 1.  In deze regeling wordt verstaan onder: 
 
@@ -58,7 +58,7 @@ Treedt in werking op een nader te bepalen tijdstip
 2.  In deze regeling wordt onder een bestemmingsplan mede begrepen een inpassingsplan als bedoeld in artikel 3.26 of 3.28 van de Wet ruimtelijke ordening.  
 
 ### Artikel  2  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 1.  De wegen, hoofdspoorwegen en binnenwateren, opgenomen in onderscheidenlijk bijlage I, bijlage II en bijlage III, zijn de wegen, hoofdspoorwegen en binnenwateren, bedoeld in artikel 13, eerste lid, van de wet.   
 2.  Wegen als bedoeld in het eerste lid zijn onderverdeeld in wegvakken waarvan het begin en einde van het wegvak wordt aangeduid door benoeming van een knooppunt of van een aansluiting. Voor zover het begin of einde van een wegvak wordt aangeduid door een knooppunt, begint of eindigt het betreffende wegvak op het geografische midden van het knooppunt. Voor zover het begin of einde van een wegvak wordt aangeduid door benoeming van een aansluiting, begint of eindigt het betreffende wegvak op het geografische midden van de kruising van de doorgaande rijbaan met de weg waar de afslag op uit komt.   
@@ -69,10 +69,10 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####De vaststelling van de geografische ligging van de risicoplafonds
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 ### Artikel  3  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 1.  Op een weg als bedoeld in artikel 2, eerste lid, is het referentiepunt gelegen in het midden van de middenberm.   
 2.  In afwijking van het eerste lid is het referentiepunt gelegen op: 
@@ -87,18 +87,18 @@ b. de scheiding van de rijrichtingen, indien het een weg zonder middenberm met t
 3.  Een verbindingsboog wordt voor het bepalen van de ligging van het referentiepunt aangemerkt als een weg bestemd voor éénrichtingsverkeer.  
 
 ### Artikel  4  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 Op een hoofdspoorweg als bedoeld in artikel 2, eerste lid, is het referentiepunt gelegen in het midden tussen de buitenste sporen van de spoorbundel voor het doorgaand verkeer. 
 
 ### Artikel  5  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 1.  Voor de ligging van de referentiepunten, bedoeld in artikel 3, eerste lid, onderscheidenlijk artikel 4, is de feitelijke situatie bepalend.   
 2.  In afwijking van het eerste lid is vanaf de dag van vaststelling van een tracébesluit of een besluit als bedoeld in artikel 2 van het Bevt inhoudende de wijziging van een weg of hoofdspoorweg, de ligging van de weg of van de hoofdspoorweg zoals weergegeven in dat besluit, voor de ligging van de referentiepunten bepalend, totdat de feitelijke situatie overeenstemt met dat besluit.  
 
 ### Artikel  6  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 1.  Op een binnenwater als bedoeld in artikel 2, eerste lid, zijn de referentiepunten gelegen op de begrenzingslijnen van de vaarweg zoals opgenomen in de legger, bedoeld in artikel 5.1 van de Waterwet.   
 2.  In afwijking van het eerste lid zijn de referentiepunten gelegen op: 
@@ -108,7 +108,7 @@ a. de Westerschelde met haar mondingen op de begrenzingen van de vaargeulen;
 b. het Hartelkanaal en het Beerkanaal op de begrenzingslijnen zoals weergegeven op de kaart in bijlage III bij de Waterregeling.    
 
 ### Artikel  7  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 1.  De ligging van het PR-plafond wordt bepaald door de afstand met betrekking tot het plaatsgebonden risico 10<sup>-6</sup> opgenomen in bijlage I, kolom 3 voor wegvakken, onderscheidenlijk in bijlage II, kolom 4, voor baanvakken, vanaf het betrokken referentiepunt naar weerszijden te meten.   
 2.  Het PR-plafond voor een wegvak en een baanvak is gelegen op het referentiepunt indien de te meten afstand nul meter bedraagt.   
@@ -116,7 +116,7 @@ Treedt in werking op een nader te bepalen tijdstip
 4.  De ligging van het PR-plafond bij een verbindingsboog wordt bepaald door de helft van de afstand die geldt voor het wegvak waarvan de verbindingsboog aftakt, naar weerszijden te meten.  
 
 ### Artikel  8  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 Indien uit bijlage I, onderscheidenlijk bijlage II, blijkt dat er een GR-plafond is, wordt de ligging van dat GR-plafond bepaald overeenkomstig artikel 7, met dien verstande dat gebruik wordt gemaakt van de afstanden opgenomen in bijlage I, kolom 4, voor wegvakken, onderscheidenlijk in bijlage II, kolommen 5 en 6, voor baanvakken, met betrekking tot het plaatsgebonden risico 10<sup>-7</sup> of 10<sup>-8</sup>. 
 
@@ -124,15 +124,15 @@ Indien uit bijlage I, onderscheidenlijk bijlage II, blijkt dat er een GR-plafond
 
 ####Onderzoek naar overschrijding risicoplafonds
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 ### Artikel  9  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 Deze paragraaf is van toepassing op het onderzoek naar een overschrijding of dreigende overschrijding van een risicoplafond, bedoeld in artikel 15, eerste of tweede lid, van de wet. 
 
 ### Artikel  10  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 1.  De beheerder van de hoofdwegen, bedoeld in de Tracéwet, maakt door middel van tellingen elk jaar de omvang van het vervoer van gevaarlijke stoffen over ten minste één vijfde deel van de wegen, bedoeld in artikel 2, eerste lid, per stofcategorie inzichtelijk op zodanige wijze dat elke vijf jaar tellingen op alle wegen, bedoeld in artikel 2, eerste lid, hebben plaatsgevonden.   
 2.  De beheerder van de hoofdspoorweginfrastructuur, bedoeld in artikel 16, eerste lid, van de Spoorwegwet, maakt elk jaar op basis van de gegevens die hij heeft op grond van artikel 4, eerste lid, van het Besluit spoorverkeer de omvang van het vervoer van gevaarlijke stoffen over de hoofdspoorwegen, bedoeld in artikel 2, eerste lid per stofcategorie, alsmede de samenstelling van de treinen waarin deze stoffen worden vervoerd, inzichtelijk.   
@@ -140,14 +140,14 @@ Treedt in werking op een nader te bepalen tijdstip
 4.  Op verzoek van de minister verhoogt de beheerder de frequentie van het inzichtelijk maken van de omvang van het vervoer van gevaarlijke stoffen over een gedeelte van een weg, hoofdspoorweg of binnenwater en, indien van toepassing, de samenstelling van de treinen, tot hoogstens vier keer per jaar indien dit naar het oordeel van de minister noodzakelijk is ten behoeve van het verkrijgen van tijdig inzicht in een overschrijding of dreigende overschrijding van een risicoplafond.  
 
 ### Artikel  11  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 1.  De beheerders, bedoeld in artikel 10, eerste tot en met derde lid, sturen jaarlijks of, in geval toepassing wordt gegeven aan artikel 10, vierde lid, overeenkomstig de desbetreffende frequentie, een rapportage aan de minister, die de gegevens, bedoeld in artikel 10, bevat.   
 2.  De beheerders, bedoeld in artikel 10, eerste en tweede lid, voegen bij de rapportage elke vijf jaar een prognose van de ontwikkeling van de omvang en de stromen van het vervoer van gevaarlijke stoffen over de wegen, onderscheidenlijk de hoofdspoorwegen, van de tien jaar volgend op het jaar waarop de rapportage betrekking heeft. De eerste prognose wordt bij de rapportage over 2015 gevoegd.   
 3.  De beheerder, bedoeld in artikel 10, derde lid, voegt bij de rapportage elke tien jaar een prognose van de ontwikkeling van de omvang en de stromen van het vervoer van gevaarlijke stoffen over de binnenwateren van de tien jaar volgend op het jaar waarop de rapportage betrekking heeft. De eerste prognose wordt bij de rapportage over 2015 gevoegd.  
 
 ### Artikel  12  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 1.  Op basis van de gegevens, bedoeld in artikel 10, eerste tot en met derde lid, maakt de minister een analyse van de te verwachten ontwikkeling van de omvang en de stromen van het vervoer van gevaarlijke stoffen in de drie jaar volgend op het jaar waarop de rapportage, bedoeld in artikel 11, eerste lid, betrekking heeft.   
 2.  Indien de gegevens, bedoeld in artikel 10, eerste tot en met derde lid, de prognose, bedoeld in artikel 11, tweede en derde lid, of de analyse, bedoeld in het eerste lid, onvoldoende inzicht bieden om tijdig een overschrijding of dreigende overschrijding van een risicoplafond te signaleren, wordt het risico berekend door de minister.   
@@ -157,15 +157,15 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Ruimtelijke ontwikkelingen langs basisnetroutes
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 ### Artikel  13  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 Artikel 3, eerste en tweede lid, van het Bevt is niet van toepassing op vaarwegen behorende tot de binnenvaartroutes, bedoeld in bijlage III, met uitzondering van het Amsterdam-Rijnkanaal en het Lekkanaal. 
 
 ### Artikel  14  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 1.  Bij de vaststelling van een besluit als bedoeld in artikel 8, eerste lid, van het Bevt dat betrekking heeft op gronden in de omgeving van een basisnetroute, vindt de berekening van het groepsrisico plaats door toepassing van de rekenmethodiek transportrisico’s.   
 2.  Bij de berekening van het groepsrisico worden de vervoershoeveelheden uit de tabellen in de bijlagen, genoemd in artikel 2, eerste lid, gebruikt.   
@@ -176,10 +176,10 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Ruimtelijke ontwikkelingen langs transportroutes, niet zijnde basisnetroutes
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 ### Artikel  15  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 1.  Bij de vaststelling van een besluit als bedoeld in de artikelen 4, eerste lid, en 8, eerste lid, van het Bevt dat betrekking heeft op gronden in de omgeving van een transportroute, niet zijnde een basisnetroute, vindt de berekening van het plaatsgebonden risico, onderscheidenlijk het groepsrisico, plaats door toepassing van de rekenmethodiek transportrisico’s.   
 2.  Bij de berekening van het plaatsgebonden risico, onderscheidenlijk het groepsrisico, worden de vervoershoeveelheden op basis van de meest recente inzichten omtrent die hoeveelheden gebruikt.  
@@ -188,10 +188,10 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Plasbrandaandachtsgebieden
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 ### Artikel  16  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 1.  Indien in bijlage I, kolom 5, onderscheidenlijk bijlage II, kolom 7, is aangegeven dat voor een wegvak, onderscheidenlijk baanvak, een plasbrandaandachtsgebied bestaat, geldt het desbetreffende wegvak, onderscheidenlijk baanvak, vermeerderd met een zone van 30 meter aan weerszijden van het wegvak, onderscheidenlijk baanvak, als plasbrandaandachtsgebied.   
 2.  Op een wegvak als bedoeld in het eerste lid wordt de breedte van de zone van 30 meter gemeten vanaf de buitenste kantstrepen.   
@@ -199,7 +199,7 @@ Treedt in werking op een nader te bepalen tijdstip
 4.  Indien voor het wegvak waarvan een verbindingsboog aftakt een plasbrandaandachtsgebied is aangewezen, geldt de verbindingsboog vermeerderd met een zone van 30 meter, gemeten vanaf de buitenste kantstrepen, aan weerszijden van die verbindingsboog als plasbrandaandachtsgebied.  
 
 ### Artikel  17  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 1.  Voor de ligging van een plasbrandaandachtsgebied als bedoeld in artikel 16, eerste lid, is de feitelijke situatie bepalend.   
 2.  In afwijking van het eerste lid is vanaf de dag van vaststelling van een tracébesluit of een besluit als bedoeld in artikel 2 van het Bevt inhoudende de wijziging van een weg of hoofdspoorweg, de ligging van de weg of van de hoofdspoorweg zoals weergegeven in dat besluit, voor de ligging van de buitenste kantstrepen, bedoeld in artikel 16, tweede lid, en de buitenste spoorstaven, bedoeld in artikel 16, derde lid, bepalend, totdat de feitelijke situatie overeenstemt met dat besluit.  
@@ -208,10 +208,10 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Meetpunten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 ### Artikel  18  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 De meetpunten, bedoeld in artikel 11, eerste en tweede lid, van het Bevt, ter vaststelling of aan de grenswaarde of richtwaarde, genoemd in artikel 4, eerste lid, van het Bevt, onderscheidenlijk de basisnetafstand, bedoeld in artikel 3, eerste lid, van het Bevt, wordt voldaan, zijn: 
 
@@ -230,7 +230,7 @@ b. de grens van het gebied waar één van de volgende nieuwe bestemmingen wordt 
 3°. een openluchtzwembad, speeltuin, sportterrein of kampeer- of ander recreatieterrein voor het verblijf van personen gedurende meerdere aaneengesloten dagen.     
 
 ### Artikel  19  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 De meetpunten, bedoeld in artikel 11, tweede lid, van het Bevt, ter vaststelling of, voor de toepassing van artikel 5 van het Bevt, in een bestemmingsplan een kwetsbaar object geprojecteerd is binnen een basisnetafstand, zijn: 
 
@@ -246,15 +246,15 @@ b. de grens van het gebied waar één van de volgende bestemmingen is toegelaten
 
 ####Slotbepalingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 ### Artikel  20  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 Deze regeling treedt in werking op het tijdstip waarop de Wet van 10 juli 2013 tot wijziging van de Wet vervoer gevaarlijke stoffen en enige andere wetten in verband met de totstandkoming van een basisnet (Wet basisnet) (Stb. 2013, 307), het Besluit van 3 september 2013 tot wijziging van het Besluit vervoer gevaarlijke stoffen in verband met de wijziging van de routeringsystematiek in de Wet vervoer gevaarlijke stoffen (Stb. 2013, 340) en het Besluit externe veiligheid transportroutes in werking treden. 
 
 ### Artikel  21  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 Deze regeling wordt aangehaald als: Regeling basisnet. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
@@ -267,7 +267,7 @@ W.J. Mansveld.
 
 ####Tabel Basisnet weg
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  | Aanwijzing Basisnetroutes  | Risicoplafonds  | Plasbrand-  aandachts-  gebied  | Vervoersgegevens t.b.v. berekening Groepsrisico  | Bijzonderheden  | Wegvak (nr.)  | Naam Basisnetweg (wegnummer: van - tot)  | PR plafond  | GR plafond  |--- | Vervoershoeveelheden (in aantallen tankauto's)  | Tc = tunnelcategorie  Wt = wegtype indien afwijkend  |--- |--- | PR 10<sup>-6</sup> contour  | PR 10<sup>-7</sup> contour  | Stofcategorieën  |--- |--- | (afstand in meters)  | GF3  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
@@ -778,7 +778,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Tabel Basisnet spoor
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 9  | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | Aanwijzing Basisnetroutes  | Risicoplafonds  | PAG  | Vervoersgegevens t.b.v. de berekening van het Groepsriscio  | Bijzonderheden  | PR-  plafond  | GR-plafonds  | Vervoershoeveelheden (in ketelwagenequivalenten)  | Warme/ Koude Bleve verhouding  | Breedte-  categorie  | Overige  | Weerstation  | PR 10<sup>-6</sup> Contour  | PR 10<sup>-7</sup> Contour  | PR 10<sup>-8</sup> Contour  | Stofcategorieën  | K, L, W en/of Vi  (Zie toelichting onderaan tabel)  | Begincoördinaten  | Eindcoördinaten  | Naam + trajectnummer  | (afstand in meters)  | A  | B2  | B3  | C3  | D3  | D4  | A  | B2  | (in meters)  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
@@ -1881,7 +1881,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Tabel Basisnet water
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 | Aanwijzing Basisnetroutes  | PR-plafond  | Vervoershoeveelheden t.b.v. berekening Groepsrisico  (aantallen schepen met gevaarlijke stoffen)  | Zeevaartroutes  | PR 10-6 Contour  | Type schepen  | Stofcategorieën  | LF1  | LF2  | LT1  | LT2  | GF2  | GF3  | GT3  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|

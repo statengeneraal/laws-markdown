@@ -18,7 +18,7 @@ In deze regeling wordt verstaan onder: a. *LMIP:*   het Landelijk Meld- en Infor
 ### Artikel  3  
 
 1.  De aanvraag voor een autorisatie van de classificatiecode van vuurwerk wordt ten minste 8 weken voor aanvang van het vervoer ingediend bij het LMIP, door middel van een daartoe door het LMIP kosteloos verstrekt aanvraagformulier.   
-2.  De vergoeding voor het in behandeling nemen van een verzoek tot autorisatie bedraagt € 255. Deze vergoeding wordt voldaan alvorens de aanvraag in behandeling wordt genomen.   
+2.  De vergoeding voor het in behandeling nemen van een verzoek tot autorisatie bedraagt € 261,–. Deze vergoeding wordt voldaan alvorens de aanvraag in behandeling wordt genomen.   
 3.  De kosten van het door TNO DV uit te voeren onderzoek komen ten laste van en worden in rekening gebracht bij de aanvrager.   
 4.  De in het tweede en derde lid bedoelde kosten zijn verschuldigd aan de minister.  
 

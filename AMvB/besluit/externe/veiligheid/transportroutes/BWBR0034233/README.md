@@ -16,10 +16,10 @@ Hebben goedgevonden en verstaan:
 
 ####Begripsbepalingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 ### Artikel  1  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 1.  In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
@@ -66,16 +66,16 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Plaatsgebonden risico
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 ### §  2.1  
 
 ####Besluiten op grond waarvan de bouw, vestiging of aanleg van nieuwe kwetsbare en beperkt kwetsbare objecten wordt toegelaten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 ### Artikel  2  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 De artikelen 3 en 4 zijn van toepassing op besluiten inhoudende: 
 
@@ -88,7 +88,7 @@ c. het verlenen van een omgevingsvergunning waarbij met toepassing van artikel 2
 d. het geven van een aanwijzing als bedoeld in de artikelen 4.2, eerste lid, en 4.4, eerste lid, onderdeel a, van de Wet ruimtelijke ordening.   
 
 ### Artikel  3  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 1.  Het bevoegd gezag neemt bij het vaststellen van een besluit dat betrekking heeft op gronden in de omgeving van een basisnetroute ten aanzien van nieuw toe te laten kwetsbare objecten de basisnetafstand in acht en houdt daarmee rekening ten aanzien van nieuw toe te laten beperkt kwetsbare objecten.   
 2.  Voor zover een basisnetafstand slechts een deel van de breedte van een basisnetroute beslaat, worden boven de volle breedte van het desbetreffende gedeelte van die basisnetroute geen nieuwe kwetsbare objecten toegelaten.   
@@ -97,7 +97,7 @@ Treedt in werking op een nader te bepalen tijdstip
 5.  Het eerste en tweede lid zijn niet van toepassing op bij regeling van Onze Minister aangewezen binnenwateren.  
 
 ### Artikel  4  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 1.  Het bevoegd gezag neemt bij de vaststelling van een besluit dat betrekking heeft op gronden in de omgeving van een transportroute, niet zijnde een basisnetroute, ten aanzien van nieuw toe te laten kwetsbare objecten de grenswaarde 10<sup>-6</sup> per jaar in acht en houdt ten aanzien van nieuw toe te laten beperkt kwetsbare objecten rekening met de richtwaarde 10<sup>-6</sup> per jaar.   
 2.  Het plaatsgebonden risico wordt berekend volgens bij regeling van Onze Minister gestelde regels.  
@@ -106,10 +106,10 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Geprojecteerde kwetsbare objecten binnen basisnetafstanden
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 ### Artikel  5  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 1.  Bij de vaststelling van een bestemmingsplan dat betrekking heeft op gronden die zijn gelegen binnen een basisnetafstand wijzigt de gemeenteraad de bestemming van die gronden, indien van toepassing, zodanig dat daarop geen kwetsbare objecten geprojecteerd worden binnen die afstand.   
 2.  Gedurende de periode dat nog geen wijziging als bedoeld in het eerste lid van kracht is, wijst het bevoegd gezag een aanvraag om een omgevingsvergunning voor een activiteit als bedoeld in artikel 2.1, eerste lid, onder a of c, van de Wet algemene bepalingen omgevingsrecht af, voor zover die activiteit betrekking heeft op de bouw, vestiging of aanleg van een kwetsbaar object binnen een basisnetafstand.  
@@ -118,10 +118,10 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Verantwoording groepsrisico en hulpverlening; plasbrandaandachtsgebieden
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 ### Artikel  6  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 In deze paragraaf wordt verstaan onder omgevingsvergunning: vergunning waarbij met toepassing van artikel 2.12, eerste lid, onder a, onder 3°, van de Wet algemene bepalingen omgevingsrecht van het bestemmingsplan of de beheersverordening wordt afgeweken. 
 
@@ -129,10 +129,10 @@ In deze paragraaf wordt verstaan onder omgevingsvergunning: vergunning waarbij m
 
 ####Verantwoording groepsrisico en hulpverlening
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 ### Artikel  7  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 In de toelichting bij een bestemmingsplan en in de ruimtelijke onderbouwing van een omgevingsvergunning wordt, voor zover het gebied waarop dat plan of die vergunning betrekking heeft binnen het invloedsgebied ligt van een weg, spoorweg of binnenwater waarover gevaarlijke stoffen worden vervoerd, in elk geval ingegaan op: 
 
@@ -141,7 +141,7 @@ a. de mogelijkheden tot voorbereiding van bestrijding en beperking van de omvang
 b. voor zover dat plan of die vergunning betrekking heeft op nog niet aanwezige kwetsbare of beperkt kwetsbare objecten: de mogelijkheden voor personen om zich in veiligheid te brengen indien zich op die weg, spoorweg of dat binnenwater een ramp voordoet.   
 
 ### Artikel  8  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 1.  Indien een bestemmingsplan of omgevingsvergunning betrekking heeft op een gebied dat geheel of gedeeltelijk gelegen is binnen 200 meter van een transportroute, wordt in de toelichting bij dat plan onderscheidenlijk in de ruimtelijke onderbouwing van die vergunning tevens ingegaan op: 
 
@@ -169,7 +169,7 @@ b.
 4.  Het groepsrisico wordt berekend volgens bij regeling van Onze Minister gestelde regels.  
 
 ### Artikel  9  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 Bij de voorbereiding van een bestemmingsplan of omgevingsvergunning als bedoeld in artikel 7, stelt het bevoegd gezag het bestuur van de veiligheidsregio in wiens regio het gebied ligt waarop dat plan of die vergunning betrekking heeft, in de gelegenheid advies uit te brengen over de in de artikel 7 en, voor zover van toepassing, artikel 8 genoemde onderwerpen. 
 
@@ -177,10 +177,10 @@ Bij de voorbereiding van een bestemmingsplan of omgevingsvergunning als bedoeld 
 
 ####Plasbrandaandachtsgebieden
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 ### Artikel  10  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 1.  Onverminderd de artikelen 7 en 8 worden in de toelichting bij een bestemmingsplan en in de ruimtelijke onderbouwing van een omgevingsvergunning, voor zover dat plan of die vergunning betrekking heeft op een gebied dat ligt binnen: 
 
@@ -193,10 +193,10 @@ b. indien een basisnetroute een binnenwater is: een vrijwaringszone als bedoeld 
 
 ####Meetpunten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 ### Artikel  11  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 1.  De grenswaarde en richtwaarde, genoemd in artikel 4, gelden op de bij regeling van Onze Minister vastgestelde meetpunten aan of bij kwetsbare onderscheidenlijk beperkt kwetsbare objecten.   
 2.  Voor de vaststelling of ten aanzien van een kwetsbaar of beperkt kwetsbaar object wordt voldaan aan de basisnetafstand, bedoeld in artikel 3, eerste lid, of, voor de toepassing van artikel 5, in een bestemmingsplan een kwetsbaar object geprojecteerd is binnen een basisnetafstand, gelden de bij regeling van Onze Minister vastgestelde meetpunten aan of bij kwetsbare en beperkt kwetsbare objecten onderscheidenlijk geprojecteerde kwetsbare objecten.   
@@ -206,25 +206,25 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Overige bepalingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 ### Artikel  12  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 Het bevoegd gezag draagt er zorg voor dat bij de voorbereiding van een bestemmingsplan of omgevingsvergunning waarbij met toepassing van artikel 2.12, eerste lid, onder a, onder 3°, van de Wet algemene bepalingen omgevingsrecht van het bestemmingsplan of de beheersverordening wordt afgeweken in een zo vroeg mogelijk stadium van voorbereiding de gevolgen van dat plan of die vergunning voor de externe veiligheid in verband met het vervoer van gevaarlijke stoffen over een transportroute worden onderzocht. 
 
 ### Artikel  13  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 Artikel 5.2, derde lid, eerste zin, van de Wet milieubeheer is niet van toepassing op de bij dit besluit gestelde milieukwaliteitseisen. 
 
 ### Artikel  14  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 Onze Minister geeft voor 1 januari 2022 aan in hoeverre de bij dit besluit gestelde milieukwaliteitseisen herziening behoeven. 
 
 ### Artikel  15  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 De artikelen 7 tot en met 10 zijn niet van toepassing op een bestemmingsplan of omgevingsvergunning waarbij met toepassing van artikel 2.12, eerste lid, onder a, onder 3°, van de Wet algemene bepalingen omgevingsrecht van het bestemmingsplan of de beheersverordening wordt afgeweken, waarvan het ontwerp voor het tijdstip van inwerkingtreding van dit besluit ter inzage is gelegd. 
 
@@ -232,15 +232,15 @@ De artikelen 7 tot en met 10 zijn niet van toepassing op een bestemmingsplan of 
 
 ####Slotbepalingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 ### Artikel  16  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 ### Artikel  17  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 Dit besluit wordt aangehaald als: Besluit externe veiligheid transportroutes. 
 

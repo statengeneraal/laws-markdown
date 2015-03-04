@@ -2412,13 +2412,13 @@ Op het gedeeltelijk vernieuwen of veranderen of het vergroten van een woonfuncti
 
 ####Veiligheidszone en plasbrandaandachtsgebied, nieuwbouw
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 ### Artikel  2.132  
 
 ####Aansturingsartikel
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 1.  Een te bouwen bouwwerk in een veiligheidszone of plasbrandaandachtsgebied of boven de volle breedte van een basisnetroute indien de veiligheidszone slechts een deel van de breedte van die basisnetroute betreft is zodanig dat het risico dat voortvloeit uit het vervoer van gevaarlijke stoffen voor personen in het bouwwerk beperkt is.   
 2.  Aan de in het eerste lid gestelde eis wordt voldaan door toepassing van het voorschrift in deze afdeling en de krachtens die bepaling gegeven voorschriften.  
@@ -2427,9 +2427,17 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Veiligheidszone en plasbrandaandachtsgebied
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 Bij ministeriële regeling kunnen aan een bouwwerk in een veiligheidszone of een plasbrandaandachtsgebied of boven de volle breedte van een basisnetroute indien de veiligheidszone slechts een deel van de breedte van die basisnetroute betreft zodanige voorschriften worden gegeven dat personen beschermd zijn tegen gevolgen van een calamiteit op de weg, de spoorweg of het binnenwater waarbij gevaarlijke stoffen zijn betrokken. 
+
+### Artikel  2.133a  
+
+####Verbouw
+
+Treedt in werking per 01-04-2015 
+
+Op het gedeeltelijk vernieuwen of veranderen of het vergroten van een bouwwerk is artikel 2.133 van overeenkomstige toepassing, waarbij in plaats van het in het krachtens dat artikel aangegeven niveau van eisen wordt uitgegaan van het rechtens verkregen niveau. 
 
 ### Afdeling  2.17  
 
@@ -4086,29 +4094,28 @@ Op het gedeeltelijk vernieuwen of veranderen of het vergroten van een bouwwerk z
 2.  Voor zover voor een gebruiksfunctie in tabel 5.1 voorschriften zijn aangewezen, wordt voor die gebruiksfunctie aan de in het eerste lid gestelde eis voldaan door toepassing van die voorschriften.   
 3.  Het eerste lid is niet van toepassing op de gebruiksfuncties waarvoor in tabel 5.1 geen voorschrift is aangewezen.  Tabel 5.1 
 
-| gebruiksfunctie  | leden van toepassing  | grenswaarde  |--- |--- |--- | energieprestatiecoëfficiënt  | thermische isolatie  | luchtvolumestroom  | onverwarmde gebruiksfunctie  | verbouw  | tijdelijk bouwwerk  | energieprestatiecoëfficiënt  | thermische isolatie  |--- |--- | artikel  | 5.2  | 5.3  | 5.4  | 5.5  | 5.6  | 5.7  | 5.2  | 5.3  |--- |--- | lid  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | *  | 1  | 2  | 3  | *  | 1, 2 en 3  | 1, 2 en 3  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | [–]  | [m<sup>2</sup>.K/W]  |
-| 1  | Woonfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | a  | woonwagen  | 1  | –  | 3  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | –  | 1  | 2  | 3  | *  | 1,3  | 2,5  |
-| --- | b  | andere woonfunctie  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | –  | 1  | 2  | 3  | *  | 0,6  | 3,5  |
-| 2  | Bijeenkomstfunctie  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | *  | 1  | –  | 3  | *  | 2  | 3,5  |
-| 3  | Celfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | a  | in een cellengebouw  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | –  | 1  | –  | 3  | *  | 1,8  | 3,5  |
-| --- | b  | andere celfunctie  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | –  | 1  | –  | 3  | *  | 1,8  | 3,5  |
-| 4  | Gezondheidszorgfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | a  | met bedgebied  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | –  | 1  | –  | 3  | *  | 2,6  | 3,5  |
-| --- | b  | andere gezondheidszorgfunctie  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | –  | 1  | –  | 3  | *  | 1  | 3,5  |
-| 5  | Industriefunctie  | –  | –  | –  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | *  | 1  | –  | 3  | *  | –  | 3,5  |
-| 6  | Kantoorfunctie  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | –  | 1  | –  | 3  | *  | 1,1  | 3,5  |
-| 7  | Logiesfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | a  | in een logiesgebouw  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | –  | 1  | –  | 3  | *  | 1,8  | 3,5  |
-| --- | b  | andere logiesfunctie  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | *  | 1  | –  | 3  | *  | 1,4  | 3,5  |
-| 8  | Onderwijsfunctie  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | –  | 1  | –  | 3  | *  | 1,3  | 3,5  |
-| 9  | Sportfunctie  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | *  | 1  | –  | 3  | *  | 1,8  | 3,5  |
-| 10  | Winkelfunctie  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | *  | 1  | –  | 3  | *  | 2,6  | 3,5  |
-| 11  | Overige gebruiksfunctie  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  |
-| 12  | Bouwwerk geen gebouw zijnde  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  |
+| gebruiksfunctie  | leden van toepassing  | grenswaarde  |--- |--- |--- | energieprestatiecoëfficiënt  | thermische isolatie  | luchtvolumestroom  | onverwarmde gebruiksfunctie  | verbouw  | tijdelijk bouwwerk  | energieprestatiecoëfficiënt  | thermische isolatie  |--- |--- | artikel  | 5.2  | 5.3  | 5.4  | 5.5  | 5.6  | 5.7  | 5.2  | 5.3  |--- |--- | lid  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 1  | 2  | *  | 1  | 2  | 3  | *  | 1, 2 en 3  | 1 en 5  | 2  | 3 en 4  |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- | [–]  |--- | [m<sup>2</sup>.K/W]  |--- |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| 1  | Woonfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | a  | woonwagen  | 1  | –  | 3  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 1  | 2  | –  | 1  | 2  | 3  | *  | 1,3  | 2,5  | 2,5  | 2,5  |
+| --- | b  | andere woonfunctie  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 1  | 2  | –  | 1  | 2  | 3  | *  | 0,4  | 4,5  | 6,0  | 3,5  |
+| 2  | Bijeenkomstfunctie  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 1  | 2  | *  | 1  | –  | 3  | *  | 1,1  | 4,5  | 6,0  | 3,5  |
+| 3  | Celfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | a  | in een cellengebouw  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 1  | 2  | –  | 1  | –  | 3  | *  | 1  | 4,5  | 6,0  | 3,5  |
+| --- | b  | andere celfunctie  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 1  | 2  | –  | 1  | –  | 3  | *  | 1  | 4,5  | 6,0  | 3,5  |
+| 4  | Gezondheidszorgfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | a  | met bedgebied  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 1  | 2  | –  | 1  | –  | 3  | *  | 1,8  | 4,5  | 6,0  | 3,5  |
+| --- | b  | andere gezondheidszorgfunctie  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 1  | 2  | –  | 1  | –  | 3  | *  | 0,8  | 4,5  | 6,0  | 3,5  |
+| 5  | Industriefunctie  | –  | –  | –  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 1  | 2  | *  | 1  | –  | 3  | *  | –  | 4,5  | 6,0  | 3,5  |
+| 6  | Kantoorfunctie  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 1  | 2  | –  | 1  | –  | 3  | *  | 0,8  | 4,5  | 6,0  | 3,5  |
+| 7  | Logiesfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | a  | in een logiesgebouw  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 1  | 2  | –  | 1  | –  | 3  | *  | 1  | 4,5  | 6,0  | 3,5  |
+| --- | b  | andere logiesfunctie  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 1  | 2  | *  | 1  | –  | 3  | *  | 1,4  | 4,5  | 6,0  | 3,5  |
+| 8  | Onderwijsfunctie  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 1  | 2  | –  | 1  | –  | 3  | *  | 0,7  | 4,5  | 6,0  | 3,5  |
+| 9  | Sportfunctie  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 1  | 2  | *  | 1  | –  | 3  | *  | 0,9  | 4,5  | 6,0  | 3,5  |
+| 10  | Winkelfunctie  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 1  | 2  | *  | 1  | –  | 3  | *  | 1,7  | 4,5  | 6,0  | 3,5  |
+| 11  | Overige gebruiksfunctie  | –  | –  | –  | –  | –  | –  | –  | –  | --- | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  |
+| 12  | Bouwwerk geen gebouw zijnde  | –  | –  | –  | –  | –  | –  | –  | –  | --- | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  |
 
 ### Artikel  5.2  
 
@@ -4122,11 +4129,14 @@ Op het gedeeltelijk vernieuwen of veranderen of het vergroten van een bouwwerk z
 
 ####Thermische isolatie
 
-1.  Een uitwendige scheidingsconstructie van een verblijfsgebied, een toiletruimte of een badruimte, heeft een volgens NEN 1068 bepaalde warmteweerstand van ten minste de in tabel 5.1 gegeven waarde.   
-2.  Een constructie die de scheiding vormt tussen een verblijfsgebied, een toiletruimte of een badruimte en een kruipruimte, met inbegrip van de op die constructie aansluitende delen van andere constructies, voor zover die delen van invloed zijn op de warmteweerstand, heeft een volgens NEN 1068 bepaalde warmteweerstand van ten minste de in tabel 5.1 gegeven waarde.   
-3.  Een inwendige scheidingsconstructie die de scheiding vormt tussen een verblijfsgebied, een toiletruimte of een badruimte, en een ruimte die niet wordt verwarmd of die wordt verwarmd voor uitsluitend een ander doel dan het verblijven van personen, heeft een volgens NEN 1068 bepaalde warmteweerstand van ten minste de in tabel 5.1 gegeven waarde.   
-4.  Ramen, deuren, kozijnen en daarmee gelijk te stellen constructieonderdelen in een in het eerste tot en met derde lid bedoelde scheidingsconstructie hebben een volgens NEN 1068 bepaalde warmtedoorgangscoëfficiënt van ten hoogste 1,65 W/m<sup>2</sup>.K.   
-5.  Het eerste tot en met vierde lid zijn niet van toepassing op een oppervlakte aan scheidingsconstructies, waarvan de getalswaarde niet groter is dan 2% van de gebruiksoppervlakte van de gebruiksfunctie.  
+1.  Een verticale uitwendige scheidingsconstructie van een verblijfsgebied, een toiletruimte of een badruimte, heeft een volgens NEN 1068 bepaalde warmteweerstand van ten minste de in tabel 5.1 gegeven waarde.   
+2.  Een horizontale of schuine uitwendige scheidingsconstructie van een verblijfsgebied, een toiletruimte of een badruimte, heeft een volgens NEN 1068 bepaalde warmteweerstand van ten minste de in tabel 5.1 gegeven waarde.   
+3.  Een constructie die de scheiding vormt tussen een verblijfsgebied, een toiletruimte of een badruimte en een kruipruimte, met inbegrip van de op die constructie aansluitende delen van andere constructies, voor zover die delen van invloed zijn op de warmteweerstand, heeft een volgens NEN 1068 bepaalde warmteweerstand van ten minste de in tabel 5.1 gegeven waarde.   
+4.  Een uitwendige scheidingsconstructie die de scheiding vormt tussen een verblijfsgebied, een toiletruimte of een badruimte en de grond of het water, met inbegrip van de op die constructie aansluitende delen van andere constructies, voor zover die delen van invloed zijn op de warmteweerstand, heeft een volgens NEN 1068 bepaalde warmteweerstand van ten minste de in tabel 5.1 gegeven waarde.   
+5.  Een inwendige scheidingsconstructie die de scheiding vormt tussen een verblijfsgebied, een toiletruimte of een badruimte, en een ruimte die niet wordt verwarmd of die wordt verwarmd voor uitsluitend een ander doel dan het verblijven van personen, heeft een volgens NEN 1068 bepaalde warmteweerstand van ten minste de in tabel 5.1 gegeven waarde.   
+6.  Ramen, deuren en kozijnen in een in het eerste tot en met vijfde lid bedoelde scheidingsconstructie hebben een volgens NEN 1068 bepaalde warmtedoorgangscoëfficiënt van ten hoogste 2,2 W/m<sup>2</sup>.K. De gemiddelde warmtedoorgangscoëfficiënt van de ramen, deuren en kozijnen in de in het eerste tot en met vijfde lid bedoelde scheidingsconstructies van een bouwwerk is, bepaald volgens een bij ministeriële regeling gegeven bepalingsmethode, ten hoogste 1,65 W/m<sup>2</sup>.K.   
+7.  Met ramen, deuren en kozijnen gelijk te stellen constructieonderdelen in een in het eerste tot en met vijfde lid bedoelde scheidingsconstructie hebben een volgens NEN 1068 bepaalde warmtedoorgangscoëfficiënt van ten hoogste 1,65 W/m<sup>2</sup>.K.   
+8.  Het eerste tot en met het vijfde lid zijn niet van toepassing op een oppervlakte aan scheidingsconstructies, waarvan de getalwaarde niet groter is dan 2% van de gebruiksoppervlakte van de gebruiksfunctie. 
 
 ### Artikel  5.4  
 
@@ -4145,9 +4155,9 @@ Op een gebruiksfunctie die niet bestemd is om te worden verwarmd, of indien de v
 
 ####Verbouw
 
-1. Bij het gedeeltelijk vernieuwen of veranderen of het vergroten van een bouwwerk zijn de voorschriften van artikel 5.2 niet van toepassing en de voorschriften van de artikelen 5.3, eerste tot en met vierde lid, en 5.4 van overeenkomstige toepassing, waarbij wordt uitgegaan van het rechtens verkregen niveau voor zover dat niveau voor de warmteweerstand niet lager is dan 1,3 m<sup>2•</sup>K/W.  
-2.  In afwijking van het eerste lid zijn op het geheel oprichten of geheel vernieuwen van een dakkapel of van een bijbehorend bouwwerk als bedoeld in bijlage II bij het Besluit omgevingsrecht de voorschriften van artikel 5.2 niet van toepassing, en zijn de voorschriften van de artikelen 5.3, eerste tot en met vierde lid, en 5.4 van overeenkomstige toepassing, waarbij in plaats van het in artikel 5.4 aangegeven niveau van eisen wordt uitgegaan van het rechtens verkregen niveau.  
-3.  In afwijking van het eerste lid zijn op een ingrijpende renovatie als bedoeld in artikel 2 van de herziene richtlijn energieprestatie gebouwen de voorschriften van artikel 5.2 niet van toepassing en zijn de voorschriften van de artikelen 5.3, eerste tot en met vierde lid, en 5.4 van overeenkomstige toepassing, waarbij in plaats van het in artikel 5.4 aangegeven niveau van eisen wordt uitgegaan van het rechtens verkregen niveau.   
+1. Bij het gedeeltelijk vernieuwen of veranderen of het vergroten van een bouwwerk zijn de voorschriften van artikel 5.2 niet van toepassing en de voorschriften van de artikelen 5.3, eerste tot en met zevende lid, en 5.4 van overeenkomstige toepassing, waarbij wordt uitgegaan van het rechtens verkregen niveau voor zover dat niveau voor de warmteweerstand niet lager is dan 1,3 m<sup>2•</sup>K/W.  
+2.  In afwijking van het eerste lid zijn op het geheel oprichten of geheel vernieuwen van een dakkapel of van een bijbehorend bouwwerk als bedoeld in bijlage II bij het Besluit omgevingsrecht de voorschriften van artikel 5.2 niet van toepassing, en zijn de voorschriften van de artikelen 5.3, eerste tot en met zevende lid, en 5.4 van overeenkomstige toepassing, waarbij in plaats van het in artikel 5.4 aangegeven niveau van eisen wordt uitgegaan van het rechtens verkregen niveau.  
+3.  In afwijking van het eerste lid zijn op een ingrijpende renovatie als bedoeld in artikel 2 van de herziene richtlijn energieprestatie gebouwen de voorschriften van artikel 5.2 niet van toepassing en zijn de voorschriften van de artikelen 5.3, eerste tot en met zevende lid, en 5.4 van overeenkomstige toepassing, waarbij in plaats van het in artikel 5.4 aangegeven niveau van eisen wordt uitgegaan van het rechtens verkregen niveau.   
 4.  Bij ministeriële regeling kunnen voorschriften worden gegeven over de in het derde lid bedoelde ingrijpende renovatie. 
 
 ### Artikel  5.7  

@@ -50,7 +50,7 @@ b. gevaarlijke stoffen:
 
 c. vervoermiddel: voertuig of vaartuig;   
 
-d. binnenwateren: de wateren die in Nederland zijn gelegen binnen een langs de Nederlandse kust gaande, krachtens [artikel 1, eerste lid, onderdeel *a* van de Schepenwet](../../../../../../rijkswet/schepenwet/BWBR0001876/README.md) aangewezen lijn;   
+d. binnenwateren: de wateren die in Nederland zijn gelegen binnen een langs de Nederlandse kust gaande, krachtens artikel 1, eerste lid, onderdeel *a* van de Schepenwet aangewezen lijn;   
 
 e. internationaal vervoer: vervoer waarbij de Nederlandse grens wordt gepasseerd.      
 2.   In deze wet en de daarop berustende bepalingen worden onder gevaarlijke stoffen mede verstaan: voorwerpen die zodanige stoffen met behoud van de gevaarlijke eigenschappen bevatten.   
@@ -83,8 +83,8 @@ i.het ontvangen van gevaarlijke stoffen tijdens of aansluitend op het vervoer;
 
 j.de overige met het vervoer van gevaarlijke stoffen rechtstreeks samenhangende handelingen, waaronder de beveiliging van de vervoersketen, voor zover daaromtrent bij of krachtens algemene maatregel van bestuur als bedoeld in artikel 3, regels zijn gesteld. 
 2. Deze wet is niet van toepassing op handelingen als bedoeld in het eerste lid voor zover deze betrekking hebben op het internationale vervoer van gevaarlijke stoffen met vervoermiddelen die in eigendom toebehoren aan of zich bevinden onder de verantwoordelijkheid van de krijgsmacht of van de krijgsmacht van een bondgenootschappelijke mogendheid. 
-3. Deze wet is niet van toepassing op handelingen als bedoeld in het eerste lid voor zover deze worden verricht met splijtstoffen, ertsen of radioactieve stoffen als bedoeld in [artikel 1 van de Kernenergiewet](../../../../../../wet/kernenergiewet/BWBR0002402/README.md). 
-4. Deze wet is niet van toepassing op handelingen als bedoeld in het eerste lid voor zover deze betrekking hebben op het vervoer dat uitsluitend plaatsvindt binnen een inrichting als bedoeld in [artikel 1.1 van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), tenzij dit vervoer plaatsvindt over de openbare weg. 
+3. Deze wet is niet van toepassing op handelingen als bedoeld in het eerste lid voor zover deze worden verricht met splijtstoffen, ertsen of radioactieve stoffen als bedoeld in artikel 1 van de Kernenergiewet. 
+4. Deze wet is niet van toepassing op handelingen als bedoeld in het eerste lid voor zover deze betrekking hebben op het vervoer dat uitsluitend plaatsvindt binnen een inrichting als bedoeld in artikel 1.1 van de Wet milieubeheer, tenzij dit vervoer plaatsvindt over de openbare weg. 
 
 ### Hoofdstuk  II  
 
@@ -147,7 +147,7 @@ n. melding voorafgaande aan het verrichten van een handeling als bedoeld in arti
 
 ### Artikel  7  
 
-Tunnels als bedoeld in artikel 6, onderdeel *k* , die zijn bestemd voor het wegverkeer, worden aangeduid door borden overeenkomstig het daartoe krachtens de [Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) aangewezen model.  
+Tunnels als bedoeld in artikel 6, onderdeel *k* , die zijn bestemd voor het wegverkeer, worden aangeduid door borden overeenkomstig het daartoe krachtens de Wegenverkeerswet 1994 aangewezen model.  
 
 ### Artikel  8  
 
@@ -191,7 +191,7 @@ Het is verboden te handelen in strijd met een beperking waaronder een ontheffing
 
 ### Artikel  11  
 
-1.  Degene die met een voertuig langs de weg gevaarlijke stoffen vervoert is verplicht de krachtens de [Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) als zodanig aangeduide bebouwde kommen van gemeenten te vermijden.    
+1.  Degene die met een voertuig langs de weg gevaarlijke stoffen vervoert is verplicht de krachtens de Wegenverkeerswet 1994 als zodanig aangeduide bebouwde kommen van gemeenten te vermijden.    
 2.   Het eerste lid is niet van toepassing voor zover het vervoer binnen de bebouwde kom noodzakelijk is:  
 
 a. ten behoeve van het laden of lossen, of   
@@ -214,7 +214,7 @@ b. omdat er redelijkerwijs geen route buiten de bebouwde kom beschikbaar is.
 
 ### Artikel  13  
 
-Voor de toepassing van deze paragraaf worden onder wegen verstaan de voor het openbaar verkeer openstaande wegen in de zin van de [Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md).  
+Voor de toepassing van deze paragraaf worden onder wegen verstaan de voor het openbaar verkeer openstaande wegen in de zin van de Wegenverkeerswet 1994.  
 
 ### Artikel  14  
 
@@ -224,13 +224,13 @@ Voor de toepassing van deze paragraaf worden onder wegen verstaan de voor het op
 ### Artikel  15  
 
 1.  Onze Minister pleegt bij de voorbereiding van een besluit als bedoeld in artikel 14 overleg met de besturen van de betrokken openbare lichamen.    
-2.   Op de voorbereiding van het besluit is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.   
+2.   Op de voorbereiding van het besluit is afdeling 3.4 van de Algemene wet bestuursrecht van toepassing.   
 
 ### Artikel  16  
 
 1.  Provinciale staten wijzen ten behoeve van het vervoer van krachtens artikel 12 aangewezen gevaarlijke stoffen een provinciaal net van wegen aan, dat bestaat uit bij de provincie of bij de waterschappen in beheer zijnde wegen of weggedeelten. Voorzover de aanwijzing van het landelijk net van wegen, bedoeld in artikel 14, eerste lid, gevolgen heeft voor het provinciale net van wegen, gebeurt de aanwijzing van het provinciale net van wegen binnen een jaar na een aanwijzing van het landelijk net van wegen.   
 2.   Provinciale staten dragen er zorg voor dat het wegennet, bedoeld in het eerste lid, aansluit op het landelijke wegennet, bedoeld in artikel 14, eerste lid, en op de krachtens het eerste lid aangewezen wegennetten van de aangrenzende provincies.    
-3.  Met het oog op de afstemming met het crisisplan als bedoeld in [artikel 16 van de Wet veiligheidsregio’s](../../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md), zenden provinciale staten een ontwerp van hun besluit aan de besturen van veiligheidsregio’s.  
+3.  Met het oog op de afstemming met het crisisplan als bedoeld in artikel 16 van de Wet veiligheidsregio’s, zenden provinciale staten een ontwerp van hun besluit aan de besturen van veiligheidsregio’s.  
 4.   De artikelen 14, tweede lid, en 15, tweede lid, zijn van overeenkomstige toepassing.   
 
 ### Artikel  18  
@@ -244,13 +244,13 @@ a. het landelijke wegennet, bedoeld in artikel 14, eerste lid,
 b. het provinciale wegennet, bedoeld in artikel 16, eerste lid,   
 
 c. de wegen of weggedeelten in de aangrenzende gemeente voor zover ten aanzien daarvan toepassing is gegeven aan het eerste lid.      
-4.  Met het oog op de afstemming met het crisisplan, bedoeld in [artikel 16 van de Wet veiligheidsregio’s](../../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md), zendt de gemeenteraad een ontwerp van zijn besluit aan het bestuur van de veiligheidsregio.  
+4.  Met het oog op de afstemming met het crisisplan, bedoeld in artikel 16 van de Wet veiligheidsregio’s, zendt de gemeenteraad een ontwerp van zijn besluit aan het bestuur van de veiligheidsregio.  
 5.   De artikelen 14, tweede lid, en 15, tweede lid, zijn van overeenkomstige toepassing.   
 6. Binnen een jaar nadat het provinciale wegennet, bedoeld in artikel 16, eerste lid, is aangewezen wordt een reeds van kracht zijnde gemeentelijke aanwijzing als bedoeld in het eerste lid, zo nodig in overeenstemming gebracht met het derde lid, aanhef en onderdelen a en b. 
 
 ### Artikel  20  
 
-De wegen of weggedeelten, bedoeld in artikel 18, eerste lid, worden aangeduid door borden overeenkomstig het daartoe krachtens de [Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) aangewezen model.  
+De wegen of weggedeelten, bedoeld in artikel 18, eerste lid, worden aangeduid door borden overeenkomstig het daartoe krachtens de Wegenverkeerswet 1994 aangewezen model.  
 
 ### Artikel  21  
 
@@ -342,7 +342,7 @@ Het is verboden te handelen in strijd met een beperking, waaronder een ontheffin
 1.  Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de bij besluit van Onze Minister aangewezen ambtenaren van het Ministerie van Verkeer en Waterstaat.   
 2.  Met het toezicht op de naleving van de handelingen bedoeld in artikel 2, eerste lid, verricht met of ten aanzien van vervoermiddelen die in eigendom toebehoren aan, of zich bevinden onder de verantwoordelijkheid van de krijgsmacht of van de krijgsmacht van een andere mogendheid zijn belast de bij besluit van Onze Minister, in overeenstemming met Onze Minister van Defensie, aangewezen ambtenaren.    
 3.  Onze Minister kan, in overeenstemming met Onze Ministers wie het mede aangaat, bij besluit andere dan de in het eerste en tweede lid bedoelde ambtenaren aanwijzen die zijn belast met het toezicht op de naleving van het bepaalde bij of krachtens deze wet.    
-4.  De toezichthouders, bedoeld in het tweede en derde lid, beschikken niet over de bevoegdheid, genoemd in [artikel 5:18 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).    
+4.  De toezichthouders, bedoeld in het tweede en derde lid, beschikken niet over de bevoegdheid, genoemd in artikel 5:18 van de Algemene wet bestuursrecht.    
 5.  Onze Minister kan met het oog op de coördinatie van het beleid ten aanzien van het toezicht op de naleving beleidsregels stellen.    
 6.   Van een besluit als bedoeld in het eerste, tweede of derde lid wordt mededeling gedaan door plaatsing in de *Staatscourant*.   
 
@@ -352,7 +352,7 @@ Het is verboden te handelen in strijd met een beperking, waaronder een ontheffin
 
 ### Artikel  44  
 
-1.  Met de opsporing van overtredingen van bij of krachtens deze wet gestelde voorschriften zijn, onverminderd het bepaalde bij of krachtens [artikel 141 van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), belast:  
+1.  Met de opsporing van overtredingen van bij of krachtens deze wet gestelde voorschriften zijn, onverminderd het bepaalde bij of krachtens artikel 141 van het Wetboek van Strafvordering, belast:  
 
 a. de ambtenaren, bedoeld in artikel 34, eerste lid, voor zover daartoe bij besluit van Onze Minister en Onze Minister van Justitie aangewezen;   
 
@@ -360,7 +360,7 @@ b. voor zover het betreft de handelingen bedoeld in artikel 34, tweede lid: de b
 
 c. de bij besluit van Onze Minister en Onze Minister van Justitie, en waar nodig Onze Ministers wie het mede aangaat, aangewezen ambtenaren.      
 2.   Onze Minister kan de bevoegdheid tot opsporing van de ambtenaren, bedoeld in het eerste lid, onder *c* bij de aldaar bedoelde aanwijzing beperken.    
-3.   De ambtenaren, bedoeld in het eerste lid, zijn tevens belast met de opsporing van de feiten, strafbaar gesteld in de [artikelen 179](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) tot en met [182](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [184 van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.    
+3.   De ambtenaren, bedoeld in het eerste lid, zijn tevens belast met de opsporing van de feiten, strafbaar gesteld in de artikelen 179 tot en met 182 en 184 van het Wetboek van Strafrecht, voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.    
 4.   Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de *Staatscourant*.   
 
 ### Artikel  44a  
@@ -387,7 +387,7 @@ b. zorg te dragen, dat in het bevel aangeduide voorwerpen, welke vatbaar zijn vo
 a. het gerecht reeds aanstonds tot wijziging overeenkomstig het verzoek van de verdachte dan wel tot opheffing besluit;  
 
 b. nog geen twee maanden zijn verstreken sedert op een vorig verzoek van de verdachte van gelijke strekking is beslist.   Het gerecht beslist op een verzoek van de verdachte binnen vijf dagen nadat het ter griffie is ingediend.   
-4.  Tegen voorgenoemde rechterlijke beschikkingen kan het openbaar ministerie binnen veertien dagen en de verdachte binnen veertien dagen na de betekening in hoger beroep komen bij het Gemeenschappelijk Hof, bedoeld in [artikel 14, eerste lid, van de Rijkswet Gemeenschappelijk Hof van Justitie](../../../../../../rijkswet/rijkswet/gemeenschappelijk/hof/van/justitie/BWBR0028070/README.md).   
+4.  Tegen voorgenoemde rechterlijke beschikkingen kan het openbaar ministerie binnen veertien dagen en de verdachte binnen veertien dagen na de betekening in hoger beroep komen bij het Gemeenschappelijk Hof, bedoeld in artikel 14, eerste lid, van de Rijkswet Gemeenschappelijk Hof van Justitie.   
 5.  De artikelen 43, tiende en elfde lid, van het Wetboek van Strafvordering BES zijn van overeenkomstige toepassing.  
 
 ### Artikel  44c  
@@ -440,7 +440,7 @@ c. wordt bepaald aan wie de vergoedingen, bedoeld in het eerste lid, verschuldig
 
 ### Artikel  50  
 
-Tegen een besluit als bedoeld in de artikelen 14, eerste lid, 16, eerste lid, 18, eerste lid, 26, eerste lid, en 30, eerste lid, staat beroep open als bedoeld in [Hoofdstuk 8 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).  
+Tegen een besluit als bedoeld in de artikelen 14, eerste lid, 16, eerste lid, 18, eerste lid, 26, eerste lid, en 30, eerste lid, staat beroep open als bedoeld in Hoofdstuk 8 van de Algemene wet bestuursrecht.  
 
 ### Hoofdstuk  VI  
 
@@ -476,7 +476,7 @@ Bevat wijzigingen in andere regelgeving.
 
 ### Artikel  59  
 
-1.  Onverminderd de [artikelen 7, eerste lid, en 8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](../../../../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md) kan, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk beluit, op voordracht van Onze Minister-President, artikel 60 in werking worden gesteld.   
+1.  Onverminderd de artikelen 7, eerste lid, en 8, eerste lid, van de Coördinatiewet uitzonderingstoestanden kan, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk beluit, op voordracht van Onze Minister-President, artikel 60 in werking worden gesteld.   
 2.  Wanneer het in het eerste lid bedoelde besluit is genomen, wordt onverwijld een voorstel van wet aan de Tweede Kamer der Staten-Generaal gezonden omtrent het voortduren van de werking van de bij het in het eerste lid bedoelde besluit in werking gestelde bepaling.   
 3.  Wordt het voorstel van wet door de Staten-Generaal verworpen, dan wordt bij koninklijk besluit, op voordracht van Onze Minister-President, de bepaling die ingevolge het eerste lid in werking is gesteld, onverwijld buiten werking gesteld.   
 4.  Bij koninklijk besluit, op voordracht van Onze Minister-President, wordt de bepaling die ingevolge het eerste lid in werking is gesteld, buiten werking gesteld zodra de omstandigheden dit naar Ons oordeel toelaten.   
