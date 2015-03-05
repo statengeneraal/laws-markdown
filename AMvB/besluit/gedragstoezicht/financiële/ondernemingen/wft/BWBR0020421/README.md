@@ -209,18 +209,17 @@ In deze paragraaf wordt verstaan onder:
 
 ### Artikel  6  
 
-1. Een financiëledienstverlener voldoet aan artikel 4:9, tweede lid, van de wet, indien: 
+Een financiëledienstverlener voldoet aan artikel 4:9, tweede lid, van de wet, indien: 
 
 a. hij zijn bedrijfsvoering zodanig heeft ingericht dat een vakbekwame financiële dienstverlening aan consumenten of, indien het verzekeringen betreft, cliënten voldoende is gewaarborgd;  
 
 b. de werknemers en andere natuurlijke personen die zich onder zijn verantwoordelijkheid rechtstreeks bezighouden met werkzaamheden als bedoeld in artikel 7, daartoe beschikken over: 
 
-1°. een geldig, op grond van die artikelen vereist diploma, afgegeven door een door Onze Minister erkend exameninstituut als bedoeld in artikel 11a; dan wel  
+1°. een geldig, op grond van dat artikel vereist diploma; dan wel  
 
 2°. een geldige erkenning van beroepskwalificaties als bedoeld in artikel 5 van de Algemene wet erkenning EG-beroepskwalificaties; en    
 
-c. de personen, bedoeld in onderdeel b, voldoen aan de in artikel 11 gestelde eisen.    
-2.  Het eerste lid, onderdelen b en c, is niet van toepassing op de gevolmachtigde of ondergevolmachtigde agent. 
+c. de personen, bedoeld in onderdeel b, voldoen aan de in artikel 11 gestelde eisen.  
 
 ### Artikel  7  
 
@@ -240,19 +239,19 @@ Werknemers en andere natuurlijke personen die zich onder verantwoordelijkheid va
 
 ### Artikel  9  
 
-1.  Een diploma als bedoeld in artikel 7 wordt afgegeven, indien de ingevolge tabel 1 of 2 aan dat diploma ten grondslag liggende modules alle met goed gevolg zijn afgerond.   
+1.  Een diploma als bedoeld in artikel 7 wordt afgegeven, indien de ingevolge tabel 1 aan dat diploma ten grondslag liggende modules alle met goed gevolg zijn afgerond.   
 2.  De examens van de modules, bedoeld in het eerste lid, worden afgelegd bij een op grond van artikel 11a erkend exameninstituut.   
 3.  De examens van de modules, bedoeld in het eerste lid, kunnen, indien Onze Minister daar gelegenheid toe biedt, tevens bij Onze Minister worden afgelegd.  
 4.  Bij ministeriële regeling worden de eindtermen en toetstermen vastgesteld voor de in het eerste lid bedoelde modules.  
 
 ### Artikel  10  
 
-Personen die over een in tabel 3 genoemd diploma beschikken, zijn tevens vakbekwaam te adviseren over het daarbij in de tabel vermelde onderwerp, indien de advisering over dat onderwerp gecombineerd wordt met advisering over het onderwerp waarop het diploma betrekking heeft.  Tabel 3. Toegestane bijkomende onderwerpen 
+Personen die over een in tabel 2 genoemd diploma beschikken, zijn tevens vakbekwaam te adviseren over het daarbij in de tabel vermelde onderwerp, indien de advisering over dat onderwerp gecombineerd wordt met advisering over het onderwerp waarop het diploma betrekking heeft.  Tabel 2. Toegestane bijkomende onderwerpen 
 
 | Diploma:  | Onderwerp:  |
 |:---|:---|
 | Adviseur consumptief krediet  | Betalingsbeschermers indien gecombineerd met consumptief krediet  |
-| Adviseur vermogen  | Arbeidsongeschiktheidsverzekeringen indien gecombineerd met een levensverzekering   |
+| Adviseur vermogen  | Betalingsbeschermers indien gecombineerd met een levensverzekering   |
 | Adviseur hypothecair krediet  | Betalingsbeschermers, opstal- of inboedel- verzekeringen indien gecombineerd met hypothecair krediet  |
 | Adviseur inkomen  | Ongevallenverzekeringen indien gecombineerd met een inkomensverzekering  |
 
@@ -262,8 +261,7 @@ Personen die over een in tabel 3 genoemd diploma beschikken, zijn tevens vakbekw
 2.  De houder van een diploma of erkenning die beschikt over een door een op grond van artikel 11a erkend exameninstituut afgegeven certificaat waaruit blijkt dat hij gedurende een bepaalde periode vakinhoudelijk betrokken is geweest bij het afnemen van examens of de ontwikkeling van examenmateriaal met betrekking tot de voor zijn beroepskwalificatie relevante eindtermen en toetstermen, wordt voor de toepassing van het eerste lid gelijkgesteld met de houder van een diploma of erkenning die op de laatste dag van die periode een examen als bedoeld in het eerste lid heeft afgelegd.   
 3.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot het tweede lid.   
 4.  Indien de houder van een diploma of erkenning op grond van het eerste lid niet langer bevoegd is de in artikel 7 bedoelde werkzaamheden te verrichten, kan hij een bijzonder examen afleggen. Indien dit examen met goed gevolg wordt afgelegd, herleeft de bevoegdheid om de in artikel 7 bedoelde werkzaamheden te verrichten. Vervolgens dient het eerstvolgende periodieke examen uiterlijk 36 maanden na het behalen van het bijzondere examen te worden afgelegd.   
-5.  De examens, bedoeld in het eerste en vierde lid, voldoen aan bij ministeriële regeling vast te stellen eindtermen en toetstermen en worden afgelegd bij een op grond van artikel 11a erkend exameninstituut.   
-6.  De examens, bedoeld in het eerste en vierde lid, voldoen aan bij ministeriële regeling vast te stellen eindtermen en toetstermen en kunnen, indien Onze Minister daar gelegenheid toe biedt, tevens bij Onze Minister worden afgelegd. 
+5.  De examens, bedoeld in het eerste en vierde lid, voldoen aan bij ministeriële regeling vast te stellen eindtermen en toetstermen en worden afgelegd bij een op grond van artikel 11a erkend exameninstituut. Indien Onze Minister daar gelegenheid toe biedt, kunnen deze examens tevens bij Onze Minister worden afgelegd.  
 
 ### §  2.2  
 
@@ -273,7 +271,7 @@ Bepalingen ter uitvoering van artikel 4:9, derde lid, van de wet
 
 ### Artikel  11a  
 
-1.  Onze Minister erkent een exameninstituut op aanvraag, indien de aanvrager aantoont dat zal worden voldaan aan de artikelen 11b en 11c.   
+1.  Onze Minister erkent een exameninstituut op aanvraag, indien de aanvrager aantoont dat zal worden voldaan aan artikel 11b.   
 2.  Onze Minister beslist op een aanvraag om erkenning binnen vier maanden nadat de aanvraag is ingediend. De beslissingstermijn kan ten hoogste tweemaal met twee maanden worden verlengd.   
 3.  Onze Minister kan aan een erkenning voorschriften of een bepaalde termijn verbinden.   
 4.  Onze Minister kan een erkenning intrekken: 
@@ -282,7 +280,7 @@ a. op verzoek van het erkende exameninstituut;
 
 b. indien de gegevens en bescheiden die zijn verstrekt ter verkrijging van de erkenning, na de erkenning zodanig onjuist of onvolledig blijken dat de erkenning zou zijn geweigerd, dan wel niet zonder daaraan voorschriften te verbinden zou zijn verleend, indien bij de behandeling van de aanvraag de juiste gegevens volledig bekend waren geweest;  
 
-c. indien het exameninstituut niet langer voldoet aan de artikelen 11b en 11c;  
+c. indien het exameninstituut niet langer voldoet aan artikel 11b;  
 
 d. indien het exameninstituut artikel 11d of de aan de erkenning verbonden voorschriften niet naleeft.     
 5.  Na intrekking van een erkenning draagt het exameninstituut de administratie inzake certificaten en diploma’s over aan Onze Minister. De vorige volzin is van overeenkomstige toepassing, indien de aan de erkenning verbonden termijn eindigt.  
@@ -306,7 +304,8 @@ f. de maatregelen indien onregelmatigheden worden geconstateerd;
 
 g. de termijn waarbinnen de examenuitslagen worden bekendgemaakt, alsmede de termijn waarbinnen de certificaten en diploma’s worden uitgereikt;  
 
-h. de interne klachtenprocedure.    
+h. de interne klachtenprocedure.     
+3.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot examenreglementen als bedoeld in het tweede lid. 
 
 ### Artikel  11c  
 
@@ -316,12 +315,10 @@ h. de interne klachtenprocedure.
 
 ### Artikel  11ca  
 
-1.  Het certificaat wordt ondertekend door het exameninstituut dat het examen, bedoeld in artikel 11c, eerste lid, heeft afgenomen.   
-2.  Het diploma wordt ondertekend door het exameninstituut dat het laatste examen heeft afgenomen dat benodigd is voor het behalen van het diploma.   
-3.  Het certificaat wordt aan de kandidaat uitgereikt of toegezonden door het exameninstituut, bedoeld in het eerste lid.   
-4.  Het diploma wordt aan de kandidaat uitgereikt of toegezonden door het exameninstituut, bedoeld in het tweede lid.   
-5.  Duplicaten van certificaten en diploma’s worden uitsluitend door Onze Minister verstrekt. Verstrekking geschiedt tegen betaling van de kostprijs.   
-6.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de afgifte van certificaten en diploma’s of de verstrekking van duplicaten daarvan.  
+1.  Het certificaat wordt afgegeven vanwege Onze Minister en uitgereikt of toegezonden door het exameninstituut dat het examen, bedoeld in artikel 11c, eerste lid, heeft afgenomen.   
+2.  Het diploma wordt afgegeven vanwege Onze Minister en uitgereikt of toegezonden door het exameninstituut dat het laatste examen heeft afgenomen dat benodigd is voor het behalen van het diploma.   
+3.  Duplicaten van certificaten en diploma’s worden uitsluitend door Onze Minister verstrekt. Verstrekking geschiedt tegen betaling van de kostprijs.   
+4.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de afgifte van certificaten en diploma’s of de verstrekking van duplicaten daarvan.  
 
 ### Artikel  11d  
 
@@ -351,7 +348,7 @@ Bepalingen ter uitvoering van het artikel 4:9a, vijfde lid, van de wet
 
 1.  Het informatiesysteem inzake beroepskwalificaties, bedoeld in artikel 4:9a, eerste lid, van de wet bevat persoonsgegevens van: 
 
-a. kandidaten die beschikken over een diploma als bedoeld in artikel 6, eerste lid, onderdeel b, onder 1°, of een erkenning als bedoeld in artikel 6, eerste lid, onderdeel b, onder 2°;  
+a. kandidaten die beschikken over een diploma als bedoeld in artikel 6, onderdeel b, onder 1°, of een erkenning als bedoeld in artikel 6, onderdeel b, onder 2°;  
 
 b. kandidaten die deelnemen aan een examen als bedoeld in artikel 9, tweede lid, of 11, eerste of vierde lid.     
 2.  Ten aanzien van de in het eerste lid, onderdelen a en b, bedoelde personen worden, naast het in artikel 4:9a, derde lid, van de wet, genoemde burgerservicenummer, of bij het ontbreken daarvan aan de kandidaat toegekend nummer, de volgende gegevens opgenomen: 
@@ -368,9 +365,9 @@ e. de afgelegde examens;
 
 f. de resultaten van afgelegde examens;  
 
-g. de datum waarop betrokkene een diploma als bedoeld in artikel 6, eerste lid, onderdeel b, onder 1°, heeft behaald;  
+g. de datum waarop betrokkene een diploma als bedoeld in artikel 6, onderdeel b, onder 1°, heeft behaald;  
 
-h. de datum waarop betrokkene een erkenning van beroepskwalificaties als bedoeld in artikel 6, eerste lid, onderdeel b, onder 2°, verkrijgt;  
+h. de datum waarop betrokkene een erkenning van beroepskwalificaties als bedoeld in artikel 6, onderdeel b, onder 2°, verkrijgt;  
 
 i. de datum waarop een examen is afgelegd als bedoeld in artikel 9, tweede lid, of 11, eerste of vierde lid;  
 
@@ -420,7 +417,11 @@ c. kosten die verband houden met de ontwikkeling en het beheer van het informati
 
 d. kosten die verband houden met de ontwikkeling en het beheer van de eindtermen en toetstermen, bedoeld in artikel 9, vijfde lid, en artikel 11, vijfde en zesde lid;  
 
-e. kosten die verband houden met de controle op een ordelijk verloop van de afname van examens.     
+e. kosten die verband houden met de controle op een ordelijk verloop van de afname van examens;  
+
+f. kosten die verband houden met het faciliteren van inzage in gemaakte examens;  
+
+g. kosten die verband houden met de behandeling van klachten die betrekking hebben op de inhoud van de examens.    
 3.  Bij ministeriële regeling wordt het tarief vastgesteld dat per examen in rekening wordt gebracht in verband met de in het eerste lid bedoelde kosten. Voorts kunnen bij ministeriële regeling nadere regels worden gesteld met betrekking tot de wijze waarop de in het eerste lid genoemde kosten in rekening worden gebracht.   
 4.  De aanvrager van een erkenning als bedoeld in artikel 11a, eerste lid, is voor het in behandeling nemen van een aanvraag een bij ministeriële regeling vastgesteld tarief verschuldigd.  
 
@@ -960,17 +961,6 @@ d.zijzelf, de financieel analisten en andere relevante personen die bij het verr
 
 e.uitgevende instellingen als bedoeld in artikel 5:53, vierde lid, van de wet, relevante personen die geen financieel analist zijn, en andere personen vóór de verspreiding van het onderzoek geen inzage krijgen in het concept-onderzoek ter controle van de juistheid van de feitelijke beweringen in dit onderzoek of voor andere doeleinden, met uitzondering van een controle op de naleving van de juridische verplichtingen van de uitgevende instelling, indien het concept-onderzoek een aanbeveling of richtprijs bevat.
 
-### Artikel  35i  
-
-1.  Een financiële onderneming legt het beleid inzake beloningen als bedoeld in artikel 86a schriftelijk vast en draagt er zorg voor dit beleid te implementeren en in stand te houden. Het beleid is afgestemd op de omvang en organisatie van de financiële onderneming en aan de aard, omvang en complexiteit van haar bedrijf.   
-2.  Het beleid inzake beloningen omschrijft, onder verwijzing naar de specifieke financiële diensten of andere activiteiten die door of in naam van de financiële onderneming worden verleend respectievelijk verricht, de beloningscomponenten en beloningsstructuren die kunnen leiden tot het risico van onzorgvuldige behandeling van consumenten, cliënten of deelnemers, alsmede de te volgen procedures en maatregelen die dat risico voorkomen en beheersen.   
-3.  Een financiële onderneming beschikt over procedures en maatregelen ter uitvoering van het beleid, als bedoeld in het eerste lid.   
-4.  De Autoriteit Financiële Markten kan regels stellen met betrekking tot: 
-
-a. de wijzen waarop het beleid inzake beloningen wordt opgesteld en vastgesteld of goedgekeurd, uitgevoerd, geëvalueerd en aangepast; en  
-
-b. de wijze waarop vorm wordt gegeven aan beloningscomponenten en beloningsstructuren en de wijze waarop de risico’s die uit het beleid en de uitvoering daarvan voortvloeien, worden beheerst.    
-
 ### Hoofdstuk  6  
 
 ####Uitbesteden van werkzaamheden
@@ -1365,10 +1355,6 @@ c. het aantal uitstaande rechten van deelneming; en
 d. de meest recente bepaalde intrinsieke waarde van de rechten van deelneming, onder vermelding van het moment waarop de bepaling van de intrinsieke waarde plaatsvond.   De beheerder van een icbe verstrekt deze opgave desgevraagd tegen ten hoogste de kostprijs aan de deelnemers in de icbe.   
 3.  Een beleggingsinstelling met zetel in een aangewezen staat waarvan de rechten van deelneming op verzoek van de deelnemers ten laste van de activa direct of indirect worden ingekocht of terugbetaald, deelt desgevraagd aan ieder de intrinsieke waarde van de rechten van deelneming mee. De intrinsieke waarde wordt bepaald op het meest recente moment van in- en uittreden van deelnemers in de beleggingsinstelling.   
 4.  Het eerste tot en met derde lid zijn niet van toepassing op beheerders van icbe’s met zetel in een andere lidstaat voor zover het gaat om de soort informatieverschaffing aan de deelnemers.  
-
-### Artikel  50a  
-
-Een financiële onderneming maakt een beschrijving van haar beleid inzake beloningen openbaar. De Autoriteit Financiële Markten kan regels stellen met betrekking tot de inhoud en de wijze van openbaarmaking. 
 
 ### Artikel  51  
 
@@ -1823,7 +1809,7 @@ j. een opgave of de premie eenmalig is verschuldigd dan wel periodiek;
 
 k. de periode gedurende welke premie verschuldigd is;  
 
-l. indien de uitkering wordt uitgedrukt in rechten van deelneming in een beleggingsinstelling of icbe of icbe:
+l. indien de uitkering wordt uitgedrukt in rechten van deelneming in een beleggingsinstelling of icbe:
 
 1°.de kosten die worden ingehouden op de premie, bedoeld in onderdeel i, onderverdeeld naar eerste kosten, doorlopende kosten en aan- en verkoopkosten;
 
@@ -2504,10 +2490,6 @@ Een beleggingsonderneming verricht geen transactie voor rekening van een cliënt
 1.  Een beleggingsonderneming ziet er op toe dat cliënten die posities hebben in financiële instrumenten waaruit verplichtingen kunnen voortvloeien voortdurend over voldoende saldi beschikken om aan de actuele verplichtingen die uit die posities voortvloeien te voldoen.   
 2.  Indien een cliënt als bedoeld in het eerste lid over onvoldoende saldi beschikt om te voldoen aan de actuele verplichtingen die voortvloeien uit posities in financiële instrumenten, ziet de beleggingsonderneming er op toe dat deze cliënt zekerheden stelt waaruit die verplichtingen kunnen worden voldaan. Indien de cliënt geen zekerheden kan stellen, sluit de beleggingsonderneming de posities zo spoedig mogelijk doch uiterlijk binnen vijf werkdagen tenzij er zich bijzondere omstandigheden voordoen.  
 
-### Artikel  86a  
-
-Een financiële onderneming voert een beleid inzake beloningen dat erop is gericht te voorkomen dat de beloning van degenen die het beleid van de onderneming bepalen of mede bepalen, haar werknemers en andere natuurlijke personen die zich onder haar verantwoordelijkheid bezighouden met het verlenen van financiële diensten of andere activiteiten leidt tot onzorgvuldige behandeling van consumenten, cliënten of deelnemers. 
-
 ### Artikel  86b  
 
 Artikel 86c is uitsluitend van toepassing op overeenkomsten die zijn aangegaan op of na inwerkingtreding van dat artikel. 
@@ -2519,12 +2501,15 @@ Artikel 86c is uitsluitend van toepassing op overeenkomsten die zijn aangegaan o
 
 a. provisies die rechtstreeks worden verschaft door de consument of, voor zover het een verzekering betreft, de cliënt of degene die namens hem optreedt, tenzij de hoogte van deze provisies kennelijk onredelijk is gelet op de aard en reikwijdte van de dienstverlening;  
 
-b. provisies die noodzakelijk zijn voor het verlenen van de desbetreffende financiële dienst of de desbetreffende financiële dienst mogelijk maken;  
+b. provisies die worden verschaft door de aanbieder of ontvangen door de bemiddelaar of adviseur voor het bemiddelen of adviseren van een consument die inzake een hypothecair krediet betalingsachterstanden of voorzienbare betalingsachterstanden heeft, mits de provisie geen afbreuk doet aan de kwaliteit van de dienstverlening en de verplichting van de bemiddelaar of adviseur om zich in te zetten voor de belangen van de consument; 
 
-c. provisies die worden verschaft door een bemiddelaar of adviseur, niet zijnde een aanbieder of gevolmachtigde agent, aan een andere bemiddelaar of adviseur;  
+c. provisies die noodzakelijk zijn voor het verlenen van de desbetreffende financiële dienst of de desbetreffende financiële dienst mogelijk maken;  
 
-d. relatiegeschenken, voor zover de gezamenlijke waarde daarvan op jaarbasis niet meer bedraagt dan € 100.     
-3.  Het eerste en tweede lid zijn van overeenkomstige toepassing op personen die ingevolge artikel 2:104, eerste lid, van de wet zijn vrijgesteld van artikel 2:96, eerste lid, van de wet voor zover die personen in Nederland beleggingsdiensten mogen verlenen: 
+d. provisies die worden verschaft door een bemiddelaar of adviseur, niet zijnde een aanbieder of gevolmachtigde agent, aan een andere bemiddelaar of adviseur;  
+
+e. relatiegeschenken, voor zover de gezamenlijke waarde daarvan op jaarbasis niet meer bedraagt dan € 100.     
+3.  De bemiddelaar of adviseur doet op begrijpelijke wijze mededeling van het bestaan en het bedrag van de provisie als bedoeld in het tweede lid, onderdeel b, voordat de desbetreffende financiële dienst wordt verleend, tenzij het bedrag van de provisie op dat moment niet bekend is.  
+4.  Het eerste en tweede lid zijn van overeenkomstige toepassing op personen die ingevolge artikel 2:104, eerste lid, van de wet zijn vrijgesteld van artikel 2:96, eerste lid, van de wet voor zover die personen in Nederland beleggingsdiensten mogen verlenen: 
 
 a. als bedoeld in onderdeel a van de definitie van verlenen van een beleggingsdienst in artikel 1:1 van de wet, met betrekking tot rechten van deelneming in een beleggingsinstelling of icbe voor zover die personen in Nederland orders mogen doorgeven aan beleggingsinstellingen of icbe’s die in Nederland rechten van deelneming mogen aanbieden en aan banken en beleggingsondernemingen die in Nederland beleggingsdiensten mogen verlenen;  
 
@@ -2594,7 +2579,8 @@ k. andere bij ministeriële regeling bepaalde informatie.
 ### Artikel  86h  
 
 1.  Een directe aanbieder brengt de advieskosten en distributiekosten gericht op het tot stand brengen van een overeenkomst met betrekking tot een betalingsbeschermer, complex product, hypothecair krediet, individuele arbeidsongeschiktheidsverzekering, overlijdensrisicoverzekering, uitvaartverzekering, of bij ministeriële regeling aan te wijzen ander financieel product rechtstreeks in rekening bij de consument of, indien het een verzekering betreft, de cliënt.   
-2.  De aanbieder brengt geen andere kosten dan de advieskosten en distributiekosten in rekening bij de consument onderscheidenlijk cliënt voor de werkzaamheden gericht op het tot stand brengen van een overeenkomst met betrekking tot de financiële producten, bedoeld in het eerste lid.  
+2.  De aanbieder brengt geen andere kosten dan de advieskosten en distributiekosten in rekening bij de consument onderscheidenlijk cliënt voor de werkzaamheden gericht op het tot stand brengen van een overeenkomst met betrekking tot de financiële producten, bedoeld in het eerste lid.   
+3.  Het eerste lid is niet van toepassing op het adviseren van een consument die inzake een hypothecair krediet betalingsachterstanden of voorzienbare betalingsachterstanden heeft. 
 
 ### Artikel  86i  
 
@@ -2631,14 +2617,17 @@ f. of een bepaalde aanbieder of een bepaalde moedermaatschappij van een aanbiede
 
 a. provisies die worden verschaft door of aan de cliënt of degene die namens hem optreedt; of  
 
-b. afsluitprovisies of doorlopende provisies die worden verschaft door of aan een derde of degene die namens hem optreedt, indien: 
+b. provisies die worden verschaft door de aanbieder of ontvangen door de bemiddelaar of adviseur voor het bemiddelen of adviseren van een consument die inzake een hypothecair krediet betalingsachterstanden of voorzienbare betalingsachterstanden heeft, mits de provisie geen afbreuk doet aan de kwaliteit van de dienstverlening en de verplichting van de bemiddelaar of adviseur om zich in te zetten voor de belangen van de consument; 
+
+c. afsluitprovisies of doorlopende provisies die worden verschaft door of aan een derde of degene die namens hem optreedt, indien: 
 
 1°. de bemiddelaar of adviseur de cliënt op uitvoerige, accurate en begrijpelijke wijze mededeling doet van het bestaan, de aard en het bedrag of, indien het bedrag niet kan worden achterhaald, de wijze van berekening van de provisie of in geval van provisie in natura de waarde in het economisch verkeer voordat de betreffende dienst wordt verleend; en  
 
 2°. het verschaffen van de provisie de kwaliteit van de betreffende dienst ten goede komt en geen afbreuk doet aan de verplichting van de aanbieder, bemiddelaar of adviseur om zich in te zetten voor de belangen van de cliënt;    
 
-c. relatiegeschenken, voor zover de gezamenlijke waarde daarvan op jaarbasis niet meer bedraagt dan € 100.     
-3.  Voor de toepassing van het tweede lid, onderdeel b, wordt onder «consument» in de definities van afsluitprovisie en doorlopende provisie, bedoeld in artikel 1, mede verstaan een cliënt, niet zijnde een consument.  
+d. relatiegeschenken, voor zover de gezamenlijke waarde daarvan op jaarbasis niet meer bedraagt dan € 100.     
+3.  Voor de toepassing van het tweede lid, onderdeel c, wordt onder «consument» in de definities van afsluitprovisie en doorlopende provisie, bedoeld in artikel 1, mede verstaan een cliënt, niet zijnde een consument.   
+4.  De bemiddelaar of adviseur doet op begrijpelijke wijze mededeling van het bestaan en het bedrag van de provisie als bedoeld in het tweede lid, onderdeel b, voordat de desbetreffende financiële dienst wordt verleend, tenzij het bedrag van de provisie op dat moment niet bekend is. 
 
 ### Artikel  86l  
 
@@ -3051,19 +3040,16 @@ Bepaling ter uitvoering van artikel 4:27a, tweede lid, van de wet
 
 ### Artikel  108a  
 
-1.  Een centrale tegenpartij als bedoeld in verordening (EU) nr. 648/2012 van het Europees Parlement en de Raad van 4 juli inzake otc-derivaten, centrale tegenpartijen en transactieregisters (PbEU 2012, L 201) geeft aan de Nederlandsche Bank schriftelijk kennis van het voornemen tot een substantiële wijziging van de wijze waarop zij invulling geeft aan hetgeen is bepaald in de titels IV en V van die verordening.   
-2.  Met betrekking tot het voornemen legt de afwikkelonderneming over: 
+1.  Met betrekking tot het voornemen, bedoeld in artikel 4:27a, eerste lid, van de wet legt de centrale tegenpartij over: 
 
 a. een beschrijving van de voorgenomen wijziging, bedoeld in het eerste lid;  
 
-b. gegevens op basis waarvan de Nederlandsche Bank redelijkerwijs kan beoordelen of wordt voldaan aan hetgeen in de titels IV en V van de verordening, bedoeld in het eerste lid, is bepaald.     
-3.  De centrale tegenpartij geeft geen uitvoering aan het voornemen voordat de Nederlandsche Bank heeft ingestemd met de wijziging. De Nederlandsche Bank neemt een besluit omtrent instemming: 
+b. gegevens op basis waarvan de Autoriteit Financiële Markten redelijkerwijs kan beoordelen of wordt voldaan aan hetgeen in de artikelen 36 tot en met 39 van de verordening, bedoeld in het eerste lid, is bepaald.     
+2.  De centrale tegenpartij geeft geen uitvoering aan het voornemen voordat de Autoriteit Financiële Markten heeft ingestemd met de wijziging. De Autoriteit Financiële Markten neemt een besluit omtrent instemming: 
 
-a. binnen zes weken na ontvangst van de kennisgeving;  
+a. binnen zes weken na ontvangst van de kennisgeving; of  
 
-b. indien de Nederlandsche Bank binnen twee weken na ontvangst van de kennisgeving om nadere gegevens heeft verzocht, binnen vier weken na ontvangst van die gegevens, doch uiterlijk binnen dertien weken na ontvangst van de kennisgeving; of  
-
-c. indien de Nederlandsche Bank de Autoriteit Financiële Markten om advies heeft gevraagd, binnen vier weken na ontvangst van dat advies.    
+b. indien de Autoriteit Financiële Markten binnen twee weken na ontvangst van de kennisgeving om nadere gegevens heeft verzocht, binnen vier weken na ontvangst van die gegevens, doch uiterlijk binnen dertien weken na ontvangst van de kennisgeving.    
 
 ### Hoofdstuk  10  
 
@@ -3909,7 +3895,7 @@ c. risico’s ten gevolge van transacties in financiële derivaten die niet op e
 
 ### Artikel  135  
 
-1.  In afwijking van artikel 134 kan het beheerde vermogen van een icbe tot ten hoogste vijfentwintig procent worden belegd in geregistreerde gedekte obligaties als bedoeld in het Besluit prudentiële regels Wft van een bepaalde uitgevende bank.   
+1.  In afwijking van artikel 134 kan het beheerde vermogen van een icbe tot ten hoogste vijfentwintig procent worden belegd in geregistreerde gedekte obligaties van een bepaalde uitgevende bank.   
 2.  Indien het beheerde vermogen van een icbe voor meer dan vijf procent wordt belegd in obligaties als bedoeld in het eerste lid die door één instelling zijn uitgegeven, bedraagt de totale waarde van deze beleggingen niet meer dan tachtig procent van de activa van die uitgevende instelling.  
 
 ### Artikel  136  
@@ -3941,7 +3927,8 @@ a. de samenstelling van de index is gediversifieerd;
 b. de index is representatief voor de markt waarop hij betrekking heeft; en  
 
 c. de index wordt op passende wijze bekendgemaakt.     
-2.  De Autoriteit Financiële Markten kan op aanvraag ontheffing verlenen van het eerste lid indien uitzonderlijke marktomstandigheden daartoe aanleiding geven. In dat geval kan het beheerde vermogen van de icbe tot ten hoogste vijfendertig procent worden belegd in aandelen en obligaties van dezelfde uitgevende instelling.  
+2.  Artikel 134, derde lid, is niet van toepassing.  
+3.  De Autoriteit Financiële Markten kan op aanvraag ontheffing verlenen van het eerste lid indien uitzonderlijke marktomstandigheden daartoe aanleiding geven. In dat geval kan het beheerde vermogen van de icbe tot ten hoogste vijfendertig procent worden belegd in aandelen en obligaties van dezelfde uitgevende instelling.  
 
 ### Artikel  139  
 
@@ -4527,7 +4514,7 @@ Bepaling ter uitvoering van artikel 4:78, eerste lid, van de wet
 
 ####Algemeen
 
-Bepalingen ter uitvoering van de artikelen 4:85, derde lid, 4:86, 4:87, derde lid, 4:88, derde lid, en 4:89, tweede lid, 4:90, tweede lid, van de wet 
+Bepalingen ter uitvoering van de artikelen 4:85, derde lid, 4:86, 4:87, derde lid, 4:88, derde lid, en 4:89, derde lid, 4:90, tweede lid, van de wet 
 
 ### Artikel  163  
 
@@ -4659,7 +4646,7 @@ Een beleggingsonderneming als bedoeld in artikel 4:88, tweede lid, van de wet, b
 
 ### Artikel  168  
 
-1.  In een overeenkomst als bedoeld in artikel 4:89, eerste lid, van de wet zijn ten minste bepaald: 
+1.  In een overeenkomst als bedoeld in artikel 4:89, tweede lid, van de wet zijn ten minste bepaald: 
 
 a. de naar soort onderscheiden diensten die de beleggingsonderneming in het kader van de overeenkomst voor de cliënt zal verrichten;  
 
@@ -4798,9 +4785,9 @@ Tot 1 oktober 2007 is artikel 6 niet van toepassing op financiëledienstverlene
 
 ### Artikel  171  
 
-1.  Een financiëledienstverlener die onmiddellijk voorafgaand aan de inwerkingtreding van artikel I, onderdeel E, van het Wijzigingsbesluit financiële markten 2013, over een vergunning beschikte en op dat moment voldeed aan artikel 4:9, tweede lid, van de wet, behoeft gedurende een termijn van 24 maanden, gerekend vanaf de dag waarop genoemd artikel I, onderdeel E, in werking treedt, niet te voldoen aan artikel 6 eerste lid, onderdeel b.   
-2.  Een financiëledienstverlener die binnen zes maanden, gerekend vanaf de dag waarop artikel I, onderdeel E, van het Wijzigingsbesluit, in werking treedt, een vergunning heeft aangevraagd, behoeft gedurende die zes maanden niet te voldoen aan artikel 6 eerste lid, onderdeel b.   
-3.  Een financiëledienstverlener als bedoeld in het tweede lid die werknemers en andere natuurlijke personen als bedoeld in artikel 6 eerste lid, onderdeel b, in dienst heeft, behoeft gedurende een termijn van 24 maanden, gerekend vanaf de dag waarop artikel I, onderdeel E, van het Wijzigingsbesluit financiële markten 2013, in werking treedt, niet te voldoen aan artikel 6 eerste lid, onderdeel b, voor zover die personen op de dag voorafgaand aan de inwerkingtreding van genoemd artikel I, onderdeel E, over een geldig diploma of geldige erkenning van beroepskwalificaties beschikten.   
+1.  Een financiëledienstverlener die onmiddellijk voorafgaand aan de inwerkingtreding van artikel I, onderdeel E, van het Wijzigingsbesluit financiële markten 2013, over een vergunning beschikte en op dat moment voldeed aan artikel 4:9, tweede lid, van de wet, behoeft gedurende een termijn van 24 maanden, gerekend vanaf de dag waarop genoemd artikel I, onderdeel E, in werking treedt, niet te voldoen aan artikel 6, onderdeel b.   
+2.  Een financiëledienstverlener die binnen zes maanden, gerekend vanaf de dag waarop artikel I, onderdeel E, van het Wijzigingsbesluit, in werking treedt, een vergunning heeft aangevraagd, behoeft gedurende die zes maanden niet te voldoen aan artikel 6, onderdeel b.   
+3.  Een financiëledienstverlener als bedoeld in het tweede lid die werknemers en andere natuurlijke personen als bedoeld in artikel 6, onderdeel b, in dienst heeft, behoeft gedurende een termijn van 24 maanden, gerekend vanaf de dag waarop artikel I, onderdeel E, van het Wijzigingsbesluit financiële markten 2013, in werking treedt, niet te voldoen aan artikel 6, onderdeel b, voor zover die personen op de dag voorafgaand aan de inwerkingtreding van genoemd artikel I, onderdeel E, over een geldig diploma of geldige erkenning van beroepskwalificaties beschikten.   
 4.  Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de gelijkstelling van reeds bestaande diploma’s met diploma’s als bedoeld in artikel 7. 
 
 ### Artikel  172  
@@ -5880,68 +5867,3 @@ g. bepalingen over het opstellen van de accountantsverslagen, bedoeld in artikel
 
 h. indien de afsluitingsdatum van het boekjaar van de master-icbe afwijkt van de afsluitingsdatum van het boekjaar van de feeder-icbe, de wijze van en het tijdschema voor het opstellen door de accountant van de master-icbe van het ad hoc-verslag, bedoeld in artikel 4:57c, tweede lid, van de wet en voor het verstrekken van het ad hoc-verslag en concepten van dat verslag.   
 
-### Bijlage K  
-
-####behorend bij artikel 171 
-
-| Diploma  | Instelling  | Eindtermen  |
-|:---|:---|:---|
-|  *Algemeen*   | --- | --- |
-| Oriëntatie Financiële instellingen  | NIBE-SVV  | Onderdeel 1 van bijlage B   |
-| Algemene Opleiding Bankbedrijf  | NIBE-SVV  | Onderdeel 1 van bijlage B   |
-| Oriëntatie Bankbedrijf  | NIBE-SVV  | Onderdeel 1 van bijlage B   |
-| Inleiding verzekeringsbedrijf  | SEA/SEFD  | Onderdeel 1 van bijlage B   |
-| Basiscursus Intermediair  | SEA/SEFD  | Onderdeel 1 van bijlage B   |
-| A-Algemeen  | SEA/SEFD  | Onderdeel 1 van bijlage B   |
-| Financiële planning (IFAP1 en IFAP2)  | NIBE-SVV  | Onderdeel 1 van bijlage B   |
-| FFP diploma<sup>1</sup> en aansluitende ononderbroken FFP PE  | FFP  | Onderdeel 1 van bijlage B   |
-| --- | --- | --- |
-|  *Consumptief krediet*   | --- | --- |
-| Consumentenkrediet  | NIBE-SVV  | Onderdelen 1 en 3 van bijlage B   |
-| Financiering  | SEA/SEFD  | Onderdelen 1 en 3 van bijlage B   |
-| FFP diploma<sup>1</sup> en aansluitende ononderbroken FFP PE  | FFP  | Onderdelen 1 en 3 van bijlage B   |
-| Financiële planning (IFAP1 en IFAP2)  | NIBE-SVV  | Onderdelen 1 en 3 van bijlage B   |
-| Consumptief krediet  | SEA/SEFD  | Onderdelen 1 en 3 van bijlage B   |
-| Consumentenkrediet  | Innovam  | Onderdelen 1 en 3 van bijlage B   |
-| --- | --- | --- |
-|  *Hypothecair krediet*   | --- | --- |
-| Erkend hypotheekadviseur<sup>2</sup>   | SEH  | Onderdelen 1 en 2 van bijlage B . Onderdeel 3 van bijlage B  voor zover de houder van het diploma vanaf 1/10/07 tevens op de door Onze Minister vast te stellen wijze voldoet aan eindtermen, opgenomen in onderdeel 3 van bijlage B .  |
-| FFP diploma<sup>1</sup> en aansluitende ononderbroken FFP PE  | FFP  | Onderdelen 1 en 2 van bijlage B . Onderdeel 3 van bijlage B  voor zover de houder van het diploma vanaf 1/10/07 tevens op de door Onze Minister vast te stellen wijze voldoet aan eindtermen, opgenomen in onderdeel 3 van bijlage B   |
-| Hypotheekadviseur en Assurantiebemiddeling B  | SEA/SEFD  | Onderdelen 1 en 2 van bijlage B . Onderdeel 3 van bijlage B  voor zover de houder van het diploma vanaf 1/10/07 tevens op de door Onze Minister vast te stellen wijze voldoet aan eindtermen, opgenomen in onderdeel 3 van bijlage B   |
-| Financiële Planning (IFAP1 en IFAP2)  | NIBE-SVV  | Onderdelen 1 en 2 van bijlage B . Onderdeel 3 van bijlage B  voor zover de houder van het diploma vanaf 1/10/07 tevens op de door Onze Minister vast te stellen wijze voldoet aan eindtermen, opgenomen in onderdeel 3 van bijlage B   |
-| Woningfinanciering 2 en Assurantiebemiddeling B  | NIBE-SVV/  SEA/SEFD  | Onderdelen 1 en 2, voorzover dit onderdeel geen betrekking heeft op kapitaalverzekeringen, van bijlage B . Onderdeel 3 van bijlage B  voor zover de houder van het diploma vanaf 1/10/07 tevens op de door Onze Minister vast te stellen wijze voldoet aan eindtermen, opgenomen in onderdeel 3 van bijlage B   |
-| --- | --- | --- |
-|  *Beleggingsproducten (variant b)*   | --- | --- |
-| DSI-registratie als (senior) Beleggingsadviseur  | (DSI)  | Onderdeel 1 van bijlage B   |
-| DSI-registratie als (senior) Vermogensbeheerder  | (DSI)  | Onderdeel 1 van bijlage B   |
-| --- | --- | --- |
-|  *Beleggingsproducten (variant a)*   | --- | --- |
-| DSI-registratie als (senior) Beleggingsadviseur  | (DSI)  | Onderdelen 1 en 5.6 tot en met 5.8 van bijlage B   |
-| DSI-registratie als (senior) Vermogensbeheerder  | (DSI)  | Onderdelen 1 en 5.6 tot en met 5.8 van bijlage B   |
-| FFP diploma<sup>1</sup> en aansluitende ononderbroken FFP PE  | FFP  | Onderdelen 1 en 5.6 tot en met 5.8 van bijlage B   |
-| Financiële Planning (IFAP1 en IFAP2)  | NIBE-SVV  | Onderdelen 1 en 5.6 tot en met 5.8 van bijlage B   |
-| Vermogensplanning  | NIBE-SVV  | Onderdelen 1 en 5.6 tot en met 5.8 van bijlage B   |
-| --- | --- | --- |
-|  *Gevolmachtigd agent*   | --- | --- |
-| Assurantiebemiddeling A en Gevolmachtigde Agent  | SEA/SEFD  | Onderdelen 1 en 6 van bijlage B   |
-| --- | --- | --- |
-|  *Schadeverzekeringen*   | --- | --- |
-| Assurantiebemiddeling B  | SEA/SEFD  | Onderdelen 1 en 4 van bijlage B   |
-| Erkend Assurantieagent (B)  | SEA/SEFD  | Onderdelen 1 en 4 van bijlage B   |
-| Assurantiebemiddeling A  | SEA/SEFD  | Onderdelen 1 en 4 van bijlage B   |
-| Verklaring bedoeld in artikel 4, achtste lid, tweede volzin, Wabb  | Sociaal-Economische Raad  | Onderdelen 1 en 4 van bijlage B   |
-| A-modules: Algemeen, Brand, Transport en Varia  | SEA/SEFD  | Onderdelen 1 en 4 van bijlage B   |
-| Branchediploma’s: Brand, Transport, M&S en Varia  | SEA/SEFD  | Onderdelen 1 en 4 van bijlage B   |
-| --- | --- | --- |
-|  *Levensverzekeringen*   | --- | --- |
-| Assurantiebemiddeling B  | SEA/SEFD  | Onderdelen 1 en 5 van bijlage B   |
-| Erkend assurantieagent (B)  | SEA/SEFD  | Onderdelen 1 en 5 van bijlage B   |
-| Assurantiebemiddeling A  | SEA/SEFD  | Onderdelen 1 en 5 van bijlage B   |
-| Verklaring bedoeld in artikel 4, achtste lid, tweede volzin, van de Wet assurantiebemiddelingsbedrijf  | Sociaal-Economische Raad  | Onderdelen 1 en 5 van bijlage B   |
-| A-modules: Algemeen en Leven  | SEA/SEFD  | Onderdelen 1 en 5 van bijlage B   |
-| Branche diploma Leven  | SEA/SEFD  | Onderdelen 1 en 5 van bijlage B   |
-| FFP diploma<sup>1</sup> en aansluitende ononderbroken FFP PE  | FFP  | Onderdelen 1 en 5 van bijlage B   |
-| Financiële Planning (IFAP1 en IFAP2)  | NIBE-SVV  | Onderdelen 1 en 5 van bijlage B   |
-| VP-leven en Pensioenpraktijk  | SEA/SEFD  | Onderdelen 1 en 5 van bijlage B   |
-
-<sup>1</sup> Of daaraan door de FFP tot en met 2002 gelijk gestelde diplomavereisten. <sup>2</sup> Of anderszins bij de SEH geregistreerd als Erkend Hypotheekadviseur.

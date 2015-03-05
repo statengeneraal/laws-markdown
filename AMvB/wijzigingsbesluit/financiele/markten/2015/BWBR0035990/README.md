@@ -14,47 +14,38 @@ Gezien het nader rapport van Onze Minister van Financiën van 25 november 2014,
 Hebben goedgevonden en verstaan:    
 
 ### Artikel  I  
-Treedt in werking per 01-01-2015 
 
 Wijzigt het Besluit prudentiële regels Wft. 
 
 ### Artikel  II  
-Treedt in werking per 01-01-2015 
 
 Wijzigt het Besluit Gedragstoezicht financiële ondernemingen Wft. 
 
 ### Artikel  III  
-Treedt in werking per 01-01-2015 
 
 Wijzigt het Besluit bestuurlijke boetes financiële sector. 
 
 ### Artikel  IV  
-Treedt in werking per 01-01-2015 
 
 Wijzigt het Besluit financiële markten BES. 
 
 ### Artikel  V  
-Treedt in werking per 01-01-2015 
 
 Wijzigt het Uitvoeringsbesluit Wet ter voorkoming van witwassen en financieren van terrorisme. 
 
 ### Artikel  VI  
-Treedt in werking per 01-01-2015 
 
 Wijzigt het Besluit bijzondere prudentiële maatregelen, beleggerscompensatie en depositogarantie Wft. 
 
 ### Artikel  VII  
-Treedt in werking per 01-01-2015 
 
 Wijzigt het Besluit uitvoering EU-verordeningen financiële markten. 
 
 ### Artikel  VIII  
-Treedt in werking per 01-01-2015 
 
 Wijzigt het Overdrachtsbesluit Sanctiewet 1977. 
 
 ### Artikel  IX  
-Treedt in werking per 01-01-2015 
 
 In afwijking van de artikelen 40d tot en met 40j van het Besluit prudentiële regels Wft, blijven de artikelen 1, 124a, 124b en artikel 124c van het Besluit prudentiële regels Wft en artikel 135, eerste lid, van het Besluit Gedragstoezicht financiële ondernemingen Wft, zoals die onmiddellijk voor inwerkingtreding van artikel I, onderdeel H luidden, gedurende twaalf maanden vanaf het tijdstip van inwerkingtreding van artikel I, onderdeel H, van toepassing op: 
 
@@ -63,12 +54,10 @@ a.obligaties die behoren tot voor inwerkingtreding van artikel I, onderdeel H, o
 b.categorieën obligaties ten aanzien waarvan voor inwerkingtreding van artikel I, onderdeel H, een verzoek tot opname in een openbaar register overeenkomstig artikel 124b van het Besluit prudentiële regels Wft, zoals dat artikel onmiddellijk voor inwerkingtreding van artikel I, onderdeel H luidde, is gedaan, waarop de Nederlandsche Bank voor inwerkingtreding van artikel I, onderdeel H, niet heeft beslist. 
 
 ### Artikel  X  
-Treedt in werking per 01-01-2015 
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
 ### Artikel  XI  
-Treedt in werking per 01-01-2015 
 
 Dit besluit wordt aangehaald als: Wijzigingsbesluit financiële markten 2015. 
 

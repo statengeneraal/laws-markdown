@@ -3,7 +3,7 @@
 ##Regeling van de Staatssecretaris van Economische Zaken van 14 juli 2008, nr. WJZ 8086374, houdende regels ten aanzien van het afnemen van examens ten behoeve van frequentiegebruik (Examenregeling frequentiegebruik 2008)
 
 De Staatssecretaris van Economische Zaken,  
-Gelet op de [artikelen 11, eerste lid, onder b en c, en tweede lid](../../../../../AMvB/frequentiebesluit/BWBR0009997/README.md), en [20, eerste lid, van het Frequentiebesluit](../../../../../AMvB/frequentiebesluit/BWBR0009997/README.md) en gelet op de [artikelen 5](../../../../../AMvB/besluit/vergoedingen/telecommunicatiewet/BWBR0010334/README.md) en [6 van het Besluit vergoedingen Telecommunicatiewet](../../../../../AMvB/besluit/vergoedingen/telecommunicatiewet/BWBR0010334/README.md);
+Gelet op de artikelen 11, eerste lid, onder b en c, en tweede lid, en 20, eerste lid, van het Frequentiebesluit en gelet op de artikelen 5 en 6 van het Besluit vergoedingen Telecommunicatiewet;
 Besluit:     
 ### Paragraaf  1  
 
@@ -61,15 +61,15 @@ Examens worden in Nederland afgenomen.
 
 ### Artikel  7  
 
-Een radiozendamateur voldoet aan de in [artikel 5, tweede lid, van de Regeling gebruik van frequentieruimte zonder vergunning 2008](../../../../../ministeriele-regeling/regeling/gebruik/van/frequentieruimte/zonder/vergunning/2008/BWBR0023553/README.md) opgenomen voorwaarde dat hij met goed gevolg een examen afgelegd moet hebben, indien: 
+Een radiozendamateur voldoet aan de in artikel 4, tweede lid, van de Regeling gebruik van frequentieruimte met meldingsplicht 2015 opgenomen voorwaarde dat hij met goed gevolg een examen afgelegd moet hebben, indien: 
 
-a. de Minister heeft vastgesteld dat hij met goed gevolg een examen voor de categorie N heeft afgelegd, voor het gebruik van frequentiebanden die in [bijlage 10 van de Regeling gebruik van frequentieruimte zonder vergunning 2008](../../../../../ministeriele-regeling/regeling/gebruik/van/frequentieruimte/zonder/vergunning/2008/BWBR0023553/README.md) zijn aangeduid met de categorie N;  
+a. de Minister heeft vastgesteld dat hij met goed gevolg een examen voor de categorie N heeft afgelegd, voor het gebruik van frequentiebanden die in bijlage 1 van de Regeling gebruik van frequentieruimte met meldingsplicht 2015 zijn aangeduid met de categorie N;  
 
-b. een andere administratie van de Conférence Européenne des Postes et des Télécommunications aan hem een certificaat of ander document heeft verstrekt dat gelijkwaardig is aan een N-certificaat, voor het gebruik van frequentiebanden die in [bijlage 10 van de Regeling gebruik van frequentieruimte zonder vergunning 2008](../../../../../ministeriele-regeling/regeling/gebruik/van/frequentieruimte/zonder/vergunning/2008/BWBR0023553/README.md) zijn aangeduid met de categorie N;  
+b. een andere administratie van de Conférence Européenne des Postes et des Télécommunications aan hem een certificaat of ander document heeft verstrekt dat gelijkwaardig is aan een N-certificaat, voor het gebruik van frequentiebanden die in bijlage 1 van de Regeling gebruik van frequentieruimte met meldingsplicht 2015 zijn aangeduid met de categorie N;  
 
-c. de Minister heeft vastgesteld dat een kandidaat met goed gevolg een examen voor de categorie F heeft afgelegd voor het gebruik van frequentiebanden die in [bijlage 10 van de Regeling gebruik van frequentieruimte zonder vergunning 2008](../../../../../ministeriele-regeling/regeling/gebruik/van/frequentieruimte/zonder/vergunning/2008/BWBR0023553/README.md) zijn aangeduid met de categorie F, of  
+c. de Minister heeft vastgesteld dat een kandidaat met goed gevolg een examen voor de categorie F heeft afgelegd voor het gebruik van frequentiebanden die in bijlage 1 van de Regeling gebruik van frequentieruimte met meldingsplicht 2015 zijn aangeduid met de categorie F, of  
 
-d. een andere administratie van de Conférence Européenne des Postes et des Télécommunications aan hem een HAREC-certificaat heeft verstrekt, voor het gebruik van frequentiebanden die in [bijlage 10 van de Regeling gebruik van frequentieruimte zonder vergunning 2008](../../../../../ministeriele-regeling/regeling/gebruik/van/frequentieruimte/zonder/vergunning/2008/BWBR0023553/README.md) zijn aangeduid met de categorie F.   
+d. een andere administratie van de Conférence Européenne des Postes et des Télécommunications aan hem een HAREC-certificaat heeft verstrekt, voor het gebruik van frequentiebanden die in bijlage 1 van de Regeling gebruik van frequentieruimte met meldingsplicht 2015 zijn aangeduid met de categorie F.   
 
 ### Artikel  8  
 
@@ -95,13 +95,13 @@ De examens hebben een tijdsduur van minimaal dertig minuten en van maximaal twee
 
 ### Artikel  12  
 
-Aan de in [artikel 5, eerste lid, van de Regeling gebruik van frequentieruimte zonder vergunning 2008](../../../../../ministeriele-regeling/regeling/gebruik/van/frequentieruimte/zonder/vergunning/2008/BWBR0023553/README.md) of aan de in [artikel 5 Regeling aanvraag en toelating van vergunningen voor het gebruik van frequentieruimte](../../../../../ministeriele-regeling/regeling/aanvraagprocedure/bij/verlening/op/volgorde/van/binnenkomst/BWBR0015731/README.md) opgenomen voorwaarde dat de gebruiker dan wel vergunninghouder voor maritiemmobiele communicatie dient te beschikken over een certificaat van bediening is voldaan, indien: 
+Aan de in artikel 4, eerste lid, van de Regeling gebruik van frequentieruimte met meldingsplicht 2015 of aan de in artikel 5 Regeling aanvraag en toelating van vergunningen voor het gebruik van frequentieruimte opgenomen voorwaarde dat de gebruiker dan wel vergunninghouder voor maritiemmobiele communicatie dient te beschikken over een certificaat van bediening is voldaan, indien: 
 
-a. hij beschikt over het basiscertificaat marifonie, voor het gebruik van apparatuur waarbij in [bijlage 11, punt 5, van de Regeling gebruik van frequentieruimte zonder vergunning 2008](../../../../../ministeriele-regeling/regeling/gebruik/van/frequentieruimte/zonder/vergunning/2008/BWBR0023553/README.md) de aanduiding ‘X’ is geplaatst in de kolom ‘basiscertificaat’;  
+a. hij beschikt over het basiscertificaat marifonie, voor het gebruik van apparatuur waarbij in bijlage 2, punt 5, van de Regeling gebruik van frequentieruimte met meldingsplicht 2015 de aanduiding ‘X’ is geplaatst in de kolom ‘basiscertificaat’;  
 
-b. hij beschikt over het beperkte certificaat maritieme radiocommunicatie, voor het gebruik van apparatuur waarbij in [bijlage 11, punt 5, van de Regeling gebruik van frequentieruimte 2008](../../../../../ministeriele-regeling/regeling/gebruik/van/frequentieruimte/zonder/vergunning/2008/BWBR0023553/README.md) de aanduiding ‘X’ is geplaatst in de kolom ‘MARCOM B’;  
+b. hij beschikt over het beperkte certificaat maritieme radiocommunicatie, voor het gebruik van apparatuur waarbij in bijlage 2, punt 5, van de Regeling gebruik van frequentieruimte met meldingsplicht 2015 de aanduiding ‘X’ is geplaatst in de kolom ‘MARCOM B’;  
 
-c. hij beschikt over het algemeen certificaat maritieme radiocommunicatie, voor het gebruik van apparatuur waarbij in [bijlage 11, punt 5, van de Regeling gebruik van frequentieruimte zonder vergunning 2008](../../../../../ministeriele-regeling/regeling/gebruik/van/frequentieruimte/zonder/vergunning/2008/BWBR0023553/README.md) de aanduiding ‘X’ is geplaatst in de kolom ‘MARCOM A’, of  
+c. hij beschikt over het algemeen certificaat maritieme radiocommunicatie, voor het gebruik van apparatuur waarbij in bijlage 2, punt 5, van de Regeling gebruik van frequentieruimte met meldingsplicht 2015 de aanduiding ‘X’ is geplaatst in de kolom ‘MARCOM A’, of  
 
 d. hij beschikt over een erkenning als bedoeld in artikel 18, eerste lid, voor het betreffende frequentiegebruik.   
 
@@ -222,7 +222,7 @@ c. de examinerende instelling tekort is geschoten bij de uitvoering van procedur
 
 ### Paragraaf  5  
 
-####Slotbepalingen en wijziging van de [Regeling vergoedingen Agentschap Telecom 2008](../../../../../ministeriele-regeling/regeling/vergoedingen/agentschap/telecom/2008/BWBR0023043/README.md)
+####Slotbepalingen en wijziging van de Regeling vergoedingen Agentschap Telecom 2008
 
 ### Artikel  27  
 
@@ -232,14 +232,14 @@ In gevallen waarin deze regeling niet voorziet beslist de Minister.
 
 1.  Tot en met 31 augustus 2008 geldt ook als examinerende instelling: 
 
-a. een instelling waarmee de Minister ter uitvoering van [artikel 39 van de Examenregeling frequentiegebruik](../../../../../ministeriele-regeling/examenregeling/frequentiegebruik/BWBR0010039/README.md) een overeenkomst heeft gesloten;  
+a. een instelling waarmee de Minister ter uitvoering van artikel 39 van de Examenregeling frequentiegebruik een overeenkomst heeft gesloten;  
 
-b. de examencommissie, bedoeld in [artikel 30 van de Examenregeling frequentiegebruik](../../../../../ministeriele-regeling/examenregeling/frequentiegebruik/BWBR0010039/README.md).     
-2.  Vaststellingen van examenresultaten op basis van de [Examenregeling frequentiegebruik](../../../../../ministeriele-regeling/examenregeling/frequentiegebruik/BWBR0010039/README.md) of door instellingen, genoemd in het eerste lid, gelden als krachtens onderhavige regeling vastgestelde resultaten.  
+b. de examencommissie, bedoeld in artikel 30 van de Examenregeling frequentiegebruik.     
+2.  Vaststellingen van examenresultaten op basis van de Examenregeling frequentiegebruik of door instellingen, genoemd in het eerste lid, gelden als krachtens onderhavige regeling vastgestelde resultaten.  
 
 ### Artikel  29  
 
-De [Examenregeling frequentiegebruik](../../../../../ministeriele-regeling/examenregeling/frequentiegebruik/BWBR0010039/README.md) wordt ingetrokken.
+De Examenregeling frequentiegebruik wordt ingetrokken.
 
 ### Artikel  30  
 
@@ -1600,7 +1600,7 @@ Het examen bestaat uit een theoretische toets en omvat in elk geval de volgende 
 
 – Relevante Europese richtlijnen (R&TTE en MED)  
 
-– Het [Rijnvaartpolitiereglement](../../../../../KB/rijnvaartpolitiereglement/1995/BWBR0006923/README.md) (RPR) en [Binnenvaartpolitiereglement](../../../../../KB/binnenvaartpolitiereglement/BWBR0003628/README.md) (BPR) – de voorschriften met betrekking tot:  
+– Het Rijnvaartpolitiereglement (RPR) en Binnenvaartpolitiereglement (BPR) – de voorschriften met betrekking tot:  
 
 – de voorgeschreven apparatuur (marifoon en radar)  
 
@@ -1610,7 +1610,7 @@ Het examen bestaat uit een theoretische toets en omvat in elk geval de volgende 
 
 – Regionale Regeling betreffende de radiodienst op de binnenwateren  
 
-– De [Telecommunicatiewet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) (inclusief onderliggende regelgeving)   
+– De Telecommunicatiewet (inclusief onderliggende regelgeving)   
 
 ### Bijlage  4  
 
@@ -1988,9 +1988,9 @@ Het examen bestaat uit theoretische en praktische toetsen en omvat in elk geval 
 
 – communicatie    
 
-– De Nederlandse [Schepenwet](../../../../../rijkswet/schepenwet/BWBR0001876/README.md) en het daarbij behorende [Schepenbesluit](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md)  
+– De Nederlandse Schepenwet en het daarbij behorende Schepenbesluit  
 
-– Bij of krachtens de [Telecommunicatiewet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) gestelde regels   
+– Bij of krachtens de Telecommunicatiewet gestelde regels   
 
 ### Bijlage  5  
 
@@ -2634,7 +2634,7 @@ Het examen bestaat uit theoretische en praktische toetsen en omvat in elk geval 
 
 – Het Internationaal Verdrag betreffende de verreberichtgeving en het daarbij behorend Radioreglement  
 
-– het [Rijnvaartpolitiereglement](../../../../../KB/rijnvaartpolitiereglement/1995/BWBR0006923/README.md) (RPR) en [Binnenvaartpolitiereglement](../../../../../KB/binnenvaartpolitiereglement/BWBR0003628/README.md) (BPR) – de voorschriften met betrekking tot: 
+– het Rijnvaartpolitiereglement (RPR) en Binnenvaartpolitiereglement (BPR) – de voorschriften met betrekking tot: 
 
 * voorgeschreven apparatuur (marifoon en radar)  
 
@@ -2642,11 +2642,11 @@ Het examen bestaat uit theoretische en praktische toetsen en omvat in elk geval 
 
 * communicatie    
 
-– De Nederlandse [Schepenwet](../../../../../rijkswet/schepenwet/BWBR0001876/README.md) en het daarbij behorende [Schepenbesluit](../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md)  
+– De Nederlandse Schepenwet en het daarbij behorende Schepenbesluit  
 
 – De Regionale regeling betreffende de radiodienst op de binnenwateren  
 
-– De [Telecommunicatiewet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) (incl. Voorschriften en Beperkingen)   
+– De Telecommunicatiewet (incl. Voorschriften en Beperkingen)   
 
 ### Bijlage  6  
 

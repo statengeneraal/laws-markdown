@@ -18,7 +18,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In dit besluit wordt verstaan onder basisbedrag: basisbedrag als bedoeld in artikel 10e, tweede lid, van de Sanctiewet 1977, artikel 9c, tweede lid, van de Wet financiële betrekkingen buitenland 1994, artikel 22, tweede lid, van de Wet inzake de geldtransactiekantoren, artikel 1:81, tweede lid, van de Wet op het financieel toezicht, artikel 28, tweede lid van de Wet ter voorkoming van witwassen en financieren van terrorisme, artikel 55, tweede lid, van de Wet toezicht accountantsorganisaties, artikel 22, tweede lid, van de Wet toezicht trustkantoren. 
+In dit besluit wordt verstaan onder basisbedrag: basisbedrag als bedoeld in artikel 10e, tweede lid, van de Sanctiewet 1977, artikel 9c, tweede lid, van de Wet financiële betrekkingen buitenland 1994, artikel 22, tweede lid, van de Wet inzake de geldtransactiekantoren, artikel 1:81, tweede lid, van de Wet op het financieel toezicht, artikel 28, derde lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme, artikel 55, tweede lid, van de Wet toezicht accountantsorganisaties, artikel 22, tweede lid, van de Wet toezicht trustkantoren. 
 
 ### Artikel  2  
 
@@ -81,8 +81,21 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de We
 | 1:59, tweede lid  | 3  |
 | 1:67, eerste lid  | 3  |
 | 1:74, eerste lid  | 2  |
+| 1:75, eerste lid, voor zover het betreft de niet-naleving van een met betrekking tot artikel 4:24a, eerste of tweede lid, gegeven aanwijzing  | 3  |
 | 1:76, zesde lid, aanhef en onderdeel a  | 2  |
 | 1:77, eerste lid  | 3  |
+| 1:113  | 3  |
+| 1:114, eerste en tweede lid  | 3  |
+| 1:116  | 3  |
+| 1:117, eerste tot en met derde lid  | 3  |
+| 1:118  | 3  |
+| 1:119  | 3  |
+| 1:120, eerste en tweede lid  | 3  |
+| 1:121, eerste lid  | 3  |
+| 1:124, eerste lid  | 3  |
+| 1:125, eerste en tweede lid  | 3  |
+| 1:127  | 3  |
+| 1:128, tweede en derde lid  | 3  |
 | --- | --- |
 |  Deel Markttoegang financiële ondernemingen   | --- |
 | 2:3.0a, eerste lid  | 2  |
@@ -207,8 +220,6 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de We
 | 2:128, vijfde lid  | 1  |
 | 2:129, eerste en derde lid  | 1  |
 | 2:130, eerste lid  | 1  |
-|5:19a  |2 |
-|5:25c, zesde lid |2 |
 | --- | --- |
 |  Deel Prudentieel toezicht financiële ondernemingen  | --- |
 | 3:5, eerste lid  | 3  |
@@ -226,6 +237,8 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de We
 | 3:16, eerste tot en met derde lid  | 2  |
 | 3:17, eerste lid  | 3  |
 | 3:17a  |2 |
+| 3:17b, eerste tot en met derde en vijfde lid  | 2  |
+| 3:17c, eerste en derde lid  | 2  |
 | 3:18, eerste en tweede lid  | 2  |
 |3:18b, eerste lid |3  |
 | 3:19, eerste en tweede lid  | 2  |
@@ -392,6 +405,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de We
 | 4:13, eerste en tweede lid  | 2  |
 | 4:14, eerste lid  | 3  |
 | 4:15, eerste lid  | 2  |
+| 4:15a, eerste, tweede en vierde lid  | 2  |
 | 4:16, eerste lid  | 2  |
 | 4:17, eerste lid  | 2  |
 | 4:18a, eerste en tweede lid  | 2  |
@@ -550,11 +564,12 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de We
 | 5:2  | 3  |
 | 5:16, tweede lid  | 2  |
 | 5:18, tweede lid  | 2  |
+| 5:19a  | 2  |
 | 5:20, eerste tot en met vijfde lid  | 2  |
 | 5:21, eerste tot en met vijfde en zevende lid  | 2  |
 | 5:21, zesde lid  | 1  |
 | 5:23, eerste en vijfde lid  | 2  |
-| 5:25c, eerste lid  | 3  |
+| 5:25c, eerste en zesde tot en met negende lid  | 3  |
 | 5:25d, eerste en derde lid  | 2  |
 | 5:25e, eerste en tweede lid  | 1  |
 | 5:25f, eerste tot en met derde lid  | 2  |
@@ -588,7 +603,9 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de We
 | 5:35, eerste tot en met vierde lid  | 2  |
 | 5:36  | 3  |
 | 5:38, eerste en tweede lid  | 2  |
+| 5:38, derde lid  | 2  |
 | 5:39, eerste lid  | 2  |
+| 5:39, tweede lid  | 2  |
 | 5:40  | 2  |
 | 5:41, eerste en tweede lid  | 2  |
 | 5:42  | 2  |
@@ -599,6 +616,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de We
 | 5:56, eerste, derde en zevende lid  | 3  |
 | 5:57, eerste lid  | 3  |
 | 5:58, eerste lid  | 3  |
+| 5:58a, eerste tot en met derde lid  | 3  |
 | 5:59, eerste en tweede lid  | 3  |
 | 5:60, eerste en derde lid  | 2  |
 | 5:61, eerste lid  | 1  |
@@ -673,7 +691,6 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de We
 |  23b, eerste en tweede lid  |2  |
 |  23c, eerste lid  |2  |
 |  23d  |2  |
-|  23e  |3  |
 |  23f, eerste tot en met derde lid  |2  |
 | 24  | 2  |
 | 24a, eerste en tweede lid  | 2  |
@@ -682,6 +699,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de We
 | 26, eerste tot en met vijfde lid  | 2  |
 |26.0 |2 |
 |26.1, eerste en tweede lid  |2  |
+| 26b  | 2  |
 | 27, eerste en tweede lid  | 2  |
 | 28  | 2  |
 | 29,  | 2  |
@@ -701,6 +719,13 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de We
 | 40, tweede lid  | 1  |
 |40a, eerste, tweede en vijfde lid |2 |
 |40b |3 |
+| 40d, eerste en tweede lid  | 2  |
+| 40e, eerste tot en met vijfde lid  | 2  |
+| 40f, eerste tot en met vierde lid  | 2  |
+| 40g, eerste tot en met derde lid  | 2  |
+| 40h  | 2  |
+| 40i, eerste lid en tweede lid  | 2  |
+| 40j  | 2  |
 | 41, tweede lid  | 2  |
 | 44, tweede tot en met vierde en zesde lid  | 1  |
 | 45, eerste en derde lid  | 1  |
@@ -809,7 +834,6 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de We
 | 35e, eerste tot en met derde lid  | 2  |
 | 35g, eerste lid  | 2  |
 | 35h  | 2  |
-|35i |3 |
 | 37  | 3  |
 |37a  |2 |
 | 38, eerste en tweede lid  | 2  |
@@ -834,7 +858,6 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de We
 | 49a, eerste en tweede lid  | 2  |
 | 49b  | 2  |
 | 50, eerste tot en met derde lid  | 2  |
-|50a |3 |
 | 51, eerste en tweede lid  | 2  |
 | 51a, eerste tot en met zesde lid  | 2  |
 | 51a, zevende lid  | 3  |
@@ -906,8 +929,8 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de We
 | 84  | 3  |
 | 85  | 2  |
 | 86, eerste en tweede lid  | 2  |
-|86a |3 |
 |86c, eerste lid |3 |
+| 86c, derde lid  | 2  |
 |86d, eerste lid |3 |
 |86e, eerste lid |3 |
 |86f, eerste tot en met derde lid |2 |
@@ -916,6 +939,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de We
 |86h, eerste en tweede lid |2 |
 |86i, eerste en tweede lid |2 |
 |86k, eerste lid |3 |
+| 86k, vierde lid  | 2  |
 |86l, eerste en tweede lid |2 |
 |86m, eerste lid |2 |
 | 88, eerste en tweede lid  | 2  |
@@ -1213,31 +1237,38 @@ Overtreding van een op grond van artikel 54, 56, 58, vierde lid, 66, derde lid, 
 
 ### Artikel  13  
 
-Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de Wet ter voorkoming van witwassen en financieren van terrorisme, is als volgt beboetbaar:  
+Overtreding van de navolgende voorschriften, genoemd in artikel 27, eerste lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme, is als volgt beboetbaar:  
 
-| Artikel  | Boetecategorie  |
+|  *Voorschrift*   |  *Boetecategorie*   |
 |:---|:---|
-| 2, eerste lid  | 2  |
-| 2, tweede lid  | 1  |
-| 3, eerste lid  | 2  |
-| 3, tweede lid  | 2  |
-| 3, derde lid  | 2  |
-| 3, zevende lid  | 1  |
-| 4, eerste tot en met vierde lid  | 1  |
-| 5, eerste en derde lid  | 2  |
-| 6, tweede lid  | 1  |
-| 7, tweede lid  | 1  |
-| 8, eerste tot en met vierde lid  | 2  |
-| 11, eerste tot en met derde lid  | 1  |
-| 16, eerste lid  | 2  |
-| 16, tweede lid  | 1  |
-| 17, tweede lid  | 2  |
-| 23, eerste lid  | 2  |
-| 23, tweede lid  | 2  |
-| 33, eerste en tweede lid  | 1  |
-| 34  | 1  |
-| 35  | 1  |
-| 41  | 1  |
+| Artikel 2, eerste lid  | 2  |
+| Artikel 2, tweede lid  | 1  |
+| Artikel 2a, eerste en tweede lid  | 1  |
+| Artikel 3, eerste tot en met vijfde lid  | 2  |
+| Artikel 3, achtste lid  | 2  |
+| Artikel 3, tiende lid  | 1  |
+| Artikel 4, eerste tot en met vierde lid  | 1  |
+| Artikel 5, eerste, tweede en vierde lid  | 2  |
+| Artikel 6, tweede lid  | 1  |
+| Artikel 7, tweede lid  | 1  |
+| Artikel 8, eerste tot en met vijfde lid  | 2  |
+| Artikel 8, zevende lid  | 1  |
+| Artikel 9, eerste lid  | 2  |
+| Artikel 10, tweede lid  | 1  |
+| Artikel 11, eerste tot en met derde lid  | 1  |
+| Artikel 16, eerste lid  | 2  |
+| Artikel 16, tweede en derde lid  | 1  |
+| Artikel 16, vierde lid  | 2  |
+| Artikel 16, vijfde lid  | 1  |
+| Artikel 17, tweede lid  | 2  |
+| Artikel 23, eerste tot en met derde lid  | 2  |
+| Artikel 33, eerste tot en met vierde lid  | 1  |
+| Artikel 34  | 1  |
+| Artikel 35  | 1  |
+| Artikel 38, eerste, tweede en vierde lid  | 2  |
+| Het geen gevolg geven dan wel niet tijdig of onvolledig gevolg geven aan een krachtens artikel 32 van de Wwft gegeven aanwijzing  | 2  |
+| Het bepaalde in Verordening (EG) nr. 2006/1781 van het Europees Parlement en de Raad van de Europese Unie van 15 november 2006 betreffende bij geldovermakingen te voegen informatie over de betaler (PbEU 2006 L, 345).  | 2  |
+| Het bepaalde in Verordening (EU) nr. 1031/2010 van de Europese Commissie van 12 november 2010 inzake de tijdstippen, het beheer en andere aspecten van de veiling van broeikasgasemissierechten overeenkomstig Richtlijn 2003/87/EG van het Europees Parlement en de Raad tot vaststelling van een regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap (PbEU2010, L 302).  | 2  |
 
 ### Artikel  14  
 

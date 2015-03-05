@@ -7,7 +7,7 @@ Handelende in overeenstemming met de betrokken Ministers;
 
 Gelezen het verzoek van de directeur van het Regionaal Bureau voor Leerplicht en Voortijdig Schoolverlaten Brabant Noordoost van 23 november 2009 en de daarop volgende adviezen van de korpschef van de regiopolitie Brabant-Noord en de Hoofdofficier van Justitie te ’s-Hertogenbosch;
 
-Gelet op [artikel 142, eerste lid, onder c, van het Wetboek van Strafvordering](../../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en het [Besluit buitengewoon opsporingsambtenaar](../../../../../../../../../../AMvB/besluit/buitengewoon/opsporingsambtenaar/BWBR0007013/README.md);
+Gelet op artikel 142, eerste lid, onder c, van het Wetboek van Strafvordering en het Besluit buitengewoon opsporingsambtenaar;
 Besluit:    
 
 ### Artikel  1  
@@ -16,7 +16,7 @@ Onder de buitengewoon opsporingsambtenaar wordt in het besluit verstaan: De ambt
 
 ### Artikel  2  
 
-1.  De in artikel 2 bedoelde ambtenaren zijn bevoegd tot het opsporen van de strafbare feiten genoemd in domein III Onderwiijs, van [bijlage A-I van de Circulaire Buitengewoon opsporingsambtenaar](../../../../../../../../../../circulaire/circulaire/buitengewoon/opsporingsambtenaar/BWBR0029447/README.md), voor zover noodzakelijk voor een goede vervulling van de aan de functie gerelateerde taken.   
+1.  De in artikel 2 bedoelde ambtenaren zijn bevoegd tot het opsporen van de strafbare feiten genoemd in domein III Onderwiijs, van bijlage A-I van de Circulaire Buitengewoon opsporingsambtenaar, voor zover noodzakelijk voor een goede vervulling van de aan de functie gerelateerde taken.   
 2.  De opsporingsbevoegdheid, bedoeld in het eerste lid, geldt voor het grondgebied van Nederland, voor zover noodzakelijk voor een goede vervulling van de aan de functie gerelateerde taken.   
 3.  De buitengewoon opsporingsambtenaar vermeldt in zijn processen-verbaal en schriftelijke verslagleggingen het domein waarin hij is aangesteld.  
 
@@ -27,7 +27,7 @@ Op grond van dit besluit kunnen 20 personen als buitengewoon opsporingsambtenaar
 ### Artikel  4  
 
 1.  Als toezichthouder van de buitengewoon opsporingsambtenaar is aangewezen de hoofdofficier van justitie bij het arrondissementsparket Oost-Brabant.   
-2.  Als direct toezichthouder van de buitengewoon opsporingsambtenaar is aangewezen de korpschef, bedoeld in [artikel 27 van de Politiewet 2012](../../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md).  
+2.  Als direct toezichthouder van de buitengewoon opsporingsambtenaar is aangewezen de korpschef, bedoeld in artikel 27 van de Politiewet 2012.  
 
 ### Artikel  5  
 

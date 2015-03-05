@@ -178,7 +178,7 @@ Indien een leerling gedurende een deel van de week onderwijs ontvangt op een sch
 ####Voorbereidend wetenschappelijk onderwijs 
 
 1.  Voorbereidend wetenschappelijk onderwijs is het onderwijs dat is ingericht ter voorbereiding op aansluitend wetenschappelijk onderwijs en dat mede algemene vorming omvat. Voorbereidend wetenschappelijk onderwijs wordt gegeven aan scholen voor voorbereidend wetenschappelijk onderwijs. Deze worden onderscheiden in gymnasia en athenea, elk met een cursusduur van zes jaren.    
-2. Aan de gymnasia wordt in elk geval onderwijs verzorgd in Latijnse taal en literatuur en Griekse taal en literatuur. 
+2. Aan de gymnasia wordt in elk geval onderwijs verzorgd in Latijnse taal en cultuur en Griekse taal en cultuur. 
 
 ### Artikel  8  
 
@@ -2062,7 +2062,7 @@ a.  *fusie:* een bestuurlijke of institutionele fusie,
 b.  *institutionele fusie:* een fusie als bedoeld in artikel 71, tweede en derde lid, waarbij een school ontstaat door samenvoeging van twee of meer scholen dan wel instellingen als bedoeld in de Wet educatie en beroepsonderwijs,  
 
 c.  *bestuurlijke fusie:* een fusie waarbij een of meer rechtspersonen de instandhouding van een school, een school als bedoeld in de Wet op het primair onderwijs dan wel de Wet op de expertisecentra, een instelling als bedoeld in de Wet educatie en beroepsonderwijs of een instelling als bedoeld in de Wet op het hoger onderwijs en wetenschappelijk onderzoek overdragen.     
-2.  Het eerste lid, onderdeel b, is niet van toepassing op het instellen van een openbare rechtspersoon als bedoeld in artikel 42a, eerste lid, eerste volzin of de instandhouding van een of meer openbare scholen door een stichting als bedoeld in artikel 42b, eerste lid.  
+2.  Het eerste lid, onderdeel c, is niet van toepassing op het instellen van een openbare rechtspersoon als bedoeld in artikel 42a, eerste lid, eerste volzin of de instandhouding van een of meer openbare scholen door een stichting als bedoeld in artikel 42b, eerste lid.  
 
 ### Artikel  53f  
 

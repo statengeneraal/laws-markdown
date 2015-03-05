@@ -381,20 +381,6 @@ c. hebben voldoende toegang tot informatie betreffende de risicosituatie van de 
 
 Een bank of een beleggingsonderneming in de zin van de verordening kapitaalvereisten als bedoeld in artikel 23, eerste lid, beschikt over passende procedures die haar werknemers in staat stellen om door hen geconstateerde mogelijke of feitelijke overtredingen van de verordening kapitaalvereisten of het bij of krachtens het Deel Prudentieel toezicht financiële ondernemingen van de wet bepaalde intern te melden. Deze procedures voldoen aan de vereisten in artikel 71, tweede lid, onderdelen b, c en d, en derde lid, van de richtlijn kapitaalvereisten.
 
-### Artikel  23e  
-
-1.  Het beleid als bedoeld in artikel 23, eerste lid, of de procedures en maatregelen en de bedrijfsvoering als bedoeld in artikel 26, tweede lid, houdt respectievelijk houden mede in dat de financiële onderneming een beleid inzake beloningen voert dat niet aanmoedigt tot het nemen van meer risico’s dan voor de desbetreffende financiële onderneming aanvaardbaar is.   
-2.  De financiële onderneming legt het beleid inzake beloningen schriftelijk vast en draagt er zorg voor dit beleid te implementeren en in stand te houden. Het beleid is afgestemd op de omvang en organisatie van de financiële onderneming en aan de aard, omvang en complexiteit van haar bedrijf.   
-3.  Het beleid inzake beloningen omschrijft de beloningscomponenten en beloningsstructuren die ertoe zouden kunnen bijdragen dat de financiële onderneming meer risico’s neemt dan voor haar aanvaardbaar is, alsmede de te volgen procedures en maatregelen die dergelijke beloningscomponenten en beloningsstructuren voorkomen en beheersen.   
-4.  De financiële onderneming maakt een beschrijving van haar beleid inzake beloningen openbaar.   
-5.  De Nederlandsche Bank kan regels stellen met betrekking tot: 
-
-a. de wijze waarop het beleid inzake beloningen wordt opgesteld en vastgesteld of goedgekeurd, uitgevoerd, geëvalueerd en aangepast;  
-
-b. de wijze waarop vorm wordt gegeven aan beloningscomponenten en beloningsstructuren en de wijze waarop de risico's die uit het beleid en de uitvoering daarvan voortvloeien, worden beheerst; en  
-
-c. de inhoud en de wijze van openbaarmaking van het beleid inzake beloningen.    
-
 ### Artikel  23f  
 
 1.  De beheerder van een icbe vermeldt in het beleid, bedoeld in artikel 23, eerste lid: 
