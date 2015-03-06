@@ -41,7 +41,11 @@ In dit besluit wordt verstaan onder:
 
 *verordening (EU) nr. 346/2013 (Europese sociaalondernemerschapsfondsen):* verordening (EU) nr. 346/2013 van het Europees Parlement en de Raad van 17 april 2013 inzake Europese sociaalondernemerschapsfondsen (PbEU 2013, L 115); 
 
-*verordening (EU) nr. 575/2013 (Kapitaalvereisten):* verordening (EU) nr. 575/2013 van het Europees Parlement en de Raad van 26 juni 2013 betreffende prudentiële vereisten voor kredietinstellingen en beleggingsondernemingen en tot wijziging van Verordening (EU) nr. 648/2012 (PbEU 2013, L 176).  
+*verordening (EU) nr. 575/2013 (Kapitaalvereisten):* verordening (EU) nr. 575/2013 van het Europees Parlement en de Raad van 26 juni 2013 betreffende prudentiële vereisten voor kredietinstellingen en beleggingsondernemingen en tot wijziging van Verordening (EU) nr. 648/2012 (PbEU 2013, L 176); 
+
+*verordening (EU) nr. 806/2014 (gemeenschappelijk afwikkelingsmechanisme):* verordening (EU) nr. 806/2014 van het Europees parlement en de Raad van 15 juli 2014 tot vaststelling van eenvormige regels en een eenvormige procedure voor de afwikkeling van kredietinstellingen en bepaalde beleggingsondernemingen in het kader van een gemeenschappelijk afwikkelingsmechanisme en een gemeenschappelijk afwikkelingsfonds en tot wijziging van Verordening (EU) nr. 1093/2010 (PbEU 2014, L 225); 
+
+*verordening (EU) nr. 909/2014 (centrale effectenbewaarinstellingen):* verordening (EU) nr. 909/2014 van het Europees Parlement en de Raad van 23 juli 2014 betreffende de verbetering van de effectenafwikkeling in de Europese Unie, betreffende centrale effectenbewaarinstellingen en tot wijziging van Richtlijnen 98/26/EG en 2014/65/EU en Verordening (EU) nr. 236/2012 (PbEU 2014, L 257).  
 
 ### Artikel  2  
 
@@ -75,26 +79,43 @@ i. voor verordening (EU) nr. 648/2012 (EMIR):
 
 1°. ten aanzien van de artikelen 4, 9,11, 12, voor zover de financiële tegenpartij een bank, verzekeraar, herverzekeraar of pensioenfonds is, alsmede ten aanzien van de artikelen 14 tot en met 21, 25, tot en met 35 en 40 tot en met 54: de Nederlandsche Bank;  
 
-2°. ten aanzien van de artikelen 4, 9, 11, 12, voor zover de financiële tegenpartij geen bank, verzekeraar, herverzekeraar of pensioenfonds is, alsmede ten aanzien van de artikelen 5 tot en met 8, 36 tot en met 39, 57, 59, 61 tot en met 63, 68 en 71 tot en met 74: de Autoriteit Financiële Markten;    
+2°. ten aanzien van de artikelen 4, 9, 11, 12, voor zover de financiële tegenpartij geen bank, verzekeraar, herverzekeraar of pensioenfonds is, alsmede ten aanzien van de artikelen 5 tot en met 8, 10, 36 tot en met 39, 57, 59, 61 tot en met 63, 68 en 71 tot en met 74: de Autoriteit Financiële Markten;    
 
 j. voor verordening (EU) nr. 345/2013 (Europese durfkapitaalfondsen): de Autoriteit Financiële Markten;  
 
 k. voor verordening (EU) nr. 346/2013 (Europese sociaalondernemerschapsfondsen): de Autoriteit Financiële Markten; 
 
-l. voor verordening (EU) nr. 575/2013 (Kapitaalvereisten): de Nederlandsche Bank.  
+l. voor verordening (EU) nr. 575/2013 (Kapitaalvereisten): de Nederlandsche Bank; 
+
+m. voor verordening (EU) nr. 909/2014 (centrale effectenbewaarinstelllingen): 
+
+1°. ten aanzien van de artikelen 9, voor zover het een bank betreft, 39 tot en met 47, 54 tot en met 57 en 59 en 60: de Nederlandsche Bank;  
+
+2°. ten aanzien van de artikelen 3 tot en met 7, 9, voor zover het een andere onderneming dan een bank betreft, 16 tot en met 20, 23, 26 tot en met 38 en 48 tot en met 53: de Autoriteit Financiële Markten.    
 
 ### Artikel  2a  
 
-1.  Indien de Nederlandsche Bank in het kader van een in de artikelen 14, 15 en 17 van verordening (EU) nr. 648/2012 (EMIR) bedoelde aanvraag, of artikel 4:27a van de wet, dient te beoordelen of wordt voldaan aan het bij of krachtens het Deel Gedragstoezicht financiële ondernemingen bepaalde vraagt zij, alvorens te beslissen op die aanvraag, daarover advies aan de Autoriteit Financiële Markten. De Autoriteit Financiële Markten brengt het advies schriftelijk uit binnen zes weken na het verzoek.   
-2.  De Nederlandsche Bank volgt het advies, bedoeld in het eerste lid, tenzij zwaarwegende redenen betreffende de soliditeit van de aanvrager of de stabiliteit van het financiële stelsel naar het oordeel van de Nederlandsche Bank aanleiding tot afwijking geven. Indien de Nederlandsche Bank overweegt af te wijken, stelt zij de Autoriteit Financiële Markten in de gelegenheid om haar advies mondeling toe te lichten. De Nederlandsche Bank motiveert een afwijking schriftelijk.   
-3.  Het advies, bedoeld in het eerste lid, maakt deel uit van het besluit ten aanzien van de vergunning of de instemming.  
+1.  De Nederlandsche Bank vraagt advies aan de Autoriteit Financiële Markten voordat zij: 
+
+a. beslist op een aanvraag als bedoeld in de artikelen 14, 15 en 17 van verordening (EU) nr. 648/2012 (EMIR), of in het kader van artikel 3:28a van de wet, voor zover betrekking hebbend op de artikelen 26 tot en met 35 en 51 tot en met 54 van die verordening, indien in dat kader dient te worden beoordeeld of wordt voldaan aan het bij of krachtens het Deel Gedragstoezicht financiële ondernemingen bepaalde; of  
+
+b. een vergunning intrekt op grond van artikel 20 van verordening (EU) nr. 648/2012 (EMIR).     
+2.  De Autoriteit Financiële Markten brengt het advies schriftelijk uit binnen zes weken na het verzoek.  
+3.  De Nederlandsche Bank volgt het advies, bedoeld in het eerste lid, tenzij zwaarwegende redenen betreffende de soliditeit van de aanvrager of de stabiliteit van het financiële stelsel naar het oordeel van de Nederlandsche Bank aanleiding tot afwijking geven. Indien de Nederlandsche Bank overweegt af te wijken, stelt zij de Autoriteit Financiële Markten in de gelegenheid om haar advies mondeling toe te lichten. De Nederlandsche Bank motiveert een afwijking schriftelijk.   
+4.  Het advies, bedoeld in het eerste lid, maakt deel uit van het besluit ten aanzien van de vergunning, instemming of intrekking.  
+
+### Artikel  2b  
+
+1.  Indien de Autoriteit Financiële Markten voornemens is een vergunning te verlenen als bedoeld in de artikelen 16 of 19 van verordening (EU) nr. 909/2014 (centrale effectenbewaarinstellingen), een vergunning in te trekken op grond van artikel 20 van die verordening of op grond van artikel 1:79 of 1:80 van de wet een besluit te nemen ter zake van overtreding van de artikelen 26 tot en met 31 en 48 tot en met 53 van die verordening, stelt zij de Nederlandsche Bank van het voorgenomen besluit in kennis.   
+2.  Indien de Nederlandsche Bank naar aanleiding van een inkennisstelling als bedoeld in het eerste lid, oordeelt dat zwaarwegende redenen betreffende de soliditeit van de betrokken onderneming of de stabiliteit van het financiële stelsel daar aanleiding toe geven, kan zij een bindende aanbeveling doen aan de Autoriteit Financiële Markten omtrent een besluit als bedoeld in het eerste lid.   
+3.  Een bindende aanbeveling als bedoeld in het tweede lid is met redenen omkleed en wordt binnen zes weken na de inkennisstelling, bedoeld in het eerste lid, schriftelijk ingediend.   
+4.  De Autoriteit Financiële Markten geeft uitvoering aan de bindende aanbeveling, bedoeld in het tweede lid. Indien de Autoriteit Financiële Markten uitvoering geeft aan de aanbeveling door een besluit te nemen, maakt de aanbeveling deel uit van het te nemen besluit.  
 
 ### Artikel  3  
 
 Als orgaan als bedoeld in artikel 11, eerste lid, van de verordening (EG) nr. 924/2009 (grensoverschrijdende betalingen) en artikel 12 van de verordening (EU) nr. 260/2012 (betaaldiensten) wordt aangewezen de Stichting Klachteninstituut Financiële Dienstverlening. 
 
 ### Artikel  3a  
-Treedt in werking per 01-01-2015 
 
 Als nationale afwikkelingsautoriteit in de zin van verordening (EU) nr. 806/2014 (gemeenschappelijk afwikkelingsmechanisme), belast met de uitvoering en handhaving van de bij of krachtens die verordening gestelde regels, wordt aangewezen de Nederlandsche Bank. De artikelen 4 en 5 zijn van overeenkomstige toepassing. 
 
@@ -254,6 +275,14 @@ Artikelen 431 tot en met 440, 442, 444 tot en met 449, 450, 451, eerste lid, 452
 
 Artikelen 465, 467 tot en met 481, 492, 499 en 500.
 
+#### *Verordening (EU) nr. 806/2014 (gemeenschappelijk afwikkelingsmechanisme)* 
+
+Artikel 8, achtste lid en twaalfde lid, tweede alinea Artikel 10, negende en elfde lid Artikel 12, eerste en tweede lid
+
+####*Verordening (EU) nr. 909/2014 (centrale effectenbewaarinstellingen):*
+
+Artikelen 3, 5, eerste en tweede lid, 6, eerste tot en met vierde lid, 7, eerste tot en met derde en achtste tot en met tiende lid, 9, eerste lid, 16, eerste, derde en vierde lid, 18, eerste tot en met derde lid, 19, eerste, derde, vijfde, zesde en achtste lid, 20, vijfde lid, 23, eerste, derde, zesde en zevende lid, 26, eerste tot en met zevende lid, 27, eerste tot en met zevende lid, 28, eerste tot en met derde lid, vijfde en zesde lid, 29, eerste en tweede lid, 30, eerste tot en met vierde lid, 32, eerste en tweede lid, 33, eerste tot en met vierde lid, 34, eerste tot en met achtste lid, 35, 36, 37, eerste tot en met derde lid, 38, eerste tot en met zevende lid, 39, eerste tot en met derde lid en vijfde tot en met zevende lid, 40, 41, eerste tot en met derde lid, 42, 43, 44, 45, eerste tot en met zesde lid, 46, eerste tot en met vijfde lid, 47, eerste en tweede lid, 48, eerste tot en met negende lid, 49, eerste tot en met vierde lid, 50, 51, 52, eerste en tweede lid, 53, eerste tot en met derde lid, 54, eerste en zevende lid, 56, eerste lid, 57, vijfde lid, en 59, eerste tot en met vierde lid.
+
 ### Bijlage  2  
 
 ####Bestuurlijke boete
@@ -363,7 +392,6 @@ Artikelen 465, 467 tot en met 481, 492, 499 en 500.
 | 12, eerste lid  | 3  |
 | 13, eerste lid  | 3  |
 | 14, eerste lid  | 3  |
-| 15  | 1  |
 | 17, zevende, en negende tot en met elfde lid  | 2  |
 | 18  | 2  |
 | 19  | 2  |
@@ -519,4 +547,17 @@ Artikelen 465, 467 tot en met 481, 492, 499 en 500.
 #### *Overgangsbepalingen, verslagen, toetsingen en wijzigingen* 
 
 *Boetecategorie 2*: artikelen 467 tot en met 481 en 492. *Boetecategorie 3*: artikelen 465, 499 en 500.
+
+#### *Verordening (EU) nr. 806/2014 (gemeenschappelijk afwikkelingsmechanisme)* 
+
+|  *Artikel *   |  *Boetecategorie*   |
+|:---|:---|
+| Artikel 8, achtste lid  | 2  |
+| Artikel 8, twaalfde lid, tweede alinea  | 3  |
+| Artikel 10, negende en elfde lid  | 3  |
+| Artikel 12, eerste en tweede lid  | 3  |
+
+####*Verordening (EU) nr. 909/2014 (centrale effectenbewaarinstellingen):*
+
+*Boetecategorie 1:* artikelen 7, achtste lid, 9, eerste lid, 19, achtste lid, 26, vierde lid, 28, zesde lid, 29, eerste en tweede lid, 30, derde lid, 34, eerste tot en met achtste lid, 35, 38, zesde lid en 48, zevende lid.  *Boetecategorie 2:* artikelen 6, eerste tot en met vierde lid, 7, eerste, tweede, negende en tiende lid, onderdelen b en c, 19, vijfde lid, 20, vijfde lid, 23, derde, zesde en zevende lid, 26, eerste tot en met derde, en vijfde tot en met zevende lid, 27, eerste tot en met zevende lid, 28, eerste tot en met derde lid en vijfde lid, 30, eerste en tweede lid, 32, eerste en tweede lid, 33, eerste tot en met vierde lid, 36, 37, eerste tot en met derde lid, 38, zevende lid, 39, eerste tot en met derde lid en vijfde tot en met zevende lid, 40, 41, eerste tot en met derde lid, 42, 43, 44, 45, eerste tot en met zesde lid, 46, eerste tot en met vijfde lid, 47, eerste en tweede lid, 48, eerste, derde tot en met zesde lid, en achtste en negende lid, 49 eerste tot en met vierde lid, 50, 51, eerste en tweede lid, 52, eerste en tweede lid, 53, eerste tot en met derde lid, 54, zevende lid en 57, vijfde lid.  *Boetecategorie 3:* artikelen 3, 5, eerste en tweede lid, 7, derde lid, 16, eerste, derde en vierde lid, 18, eerste tot en met derde lid, 19, eerste, derde en zesde lid, 23, eerste lid, 30, vierde lid, 38, eerste tot en met vijfde lid, 48, tweede lid, 54, eerste lid, 56, eerste lid en 59, eerste tot en met vierde lid.
 

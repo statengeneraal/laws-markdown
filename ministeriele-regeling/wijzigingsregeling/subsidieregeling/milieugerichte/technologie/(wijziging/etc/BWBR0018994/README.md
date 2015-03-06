@@ -3,7 +3,7 @@
 ##Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 7 november 2005, nr. LMV 2005 196133, houdende wijziging van de Subsidieregeling milieugerichte technologie (wijziging Subsidieprogramma Piek)
 
 De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,  
-Gelet op [artikel 15.13, eerste tot en met derde lid, van de Wet milieubeheer](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);
+Gelet op artikel 15.13, eerste tot en met derde lid, van de Wet milieubeheer;
 Besluit:    
 
 ### Artikel  I  
@@ -12,7 +12,7 @@ Wijzigt de Subsidieregeling milieugerichte technologie.
 
 ### Artikel  II  
 
-De [Subsidieregeling milieugerichte technologie](../../../../../../../../ministeriele-regeling/subsidieregeling/milieugerichte/technologie/BWBR0016362/README.md) zoals ze luidde voor het tijdstip waarop deze regeling in werking is getreden, blijft van toepassing op subsidies voor projecten die voor dat tijdstip op grond van die regeling zijn aangevraagd. 
+De Subsidieregeling milieugerichte technologie zoals ze luidde voor het tijdstip waarop deze regeling in werking is getreden, blijft van toepassing op subsidies voor projecten die voor dat tijdstip op grond van die regeling zijn aangevraagd. 
 
 ### Artikel  III  
 

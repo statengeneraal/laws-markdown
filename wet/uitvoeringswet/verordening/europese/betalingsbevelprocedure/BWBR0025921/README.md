@@ -15,7 +15,7 @@ In deze wet wordt verstaan onder verordening: verordening (EG) nr. 1896/2006 va
 
 ### Artikel  2  
 
-Een verzoek om een Europees betalingsbevel als bedoeld in artikel 7 van de verordening wordt gedaan aan de rechtbank. Is het bedrag, bedoeld in artikel 7, tweede lid, onder b, van de verordening, niet hoger dan het bedrag genoemd in [artikel 93 onder a, van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) of betreft het een zaak als bedoeld [onder c, van dat artikel](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), dan wordt het verzoek behandeld en wordt daarop beslist door de kantonrechter. 
+Een verzoek om een Europees betalingsbevel als bedoeld in artikel 7 van de verordening wordt gedaan aan de rechtbank. Is het bedrag, bedoeld in artikel 7, tweede lid, onder b, van de verordening, niet hoger dan het bedrag genoemd in artikel 93 onder a, van het Wetboek van Burgerlijke Rechtsvordering of betreft het een zaak als bedoeld onder c, van dat artikel, dan wordt het verzoek behandeld en wordt daarop beslist door de kantonrechter. 
 
 ### Artikel  3  
 
@@ -32,16 +32,16 @@ Betekening of kennisgeving aan de verweerder als bedoeld in artikel 12, vijfde l
 
 a. door verzending per aangetekende post met bericht van ontvangst;  
 
-b. bij exploot.   Heeft de verweerder geen bekende woonplaats of bekend werkelijk verblijf in Nederland, maar wel een bekende woonplaats of bekend werkelijk verblijf in een andere lidstaat, dan vindt de betekening of kennisgeving plaats overeenkomstig [artikel 277 van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md). 
+b. bij exploot.   Heeft de verweerder geen bekende woonplaats of bekend werkelijk verblijf in Nederland, maar wel een bekende woonplaats of bekend werkelijk verblijf in een andere lidstaat, dan vindt de betekening of kennisgeving plaats overeenkomstig artikel 277 van het Wetboek van Burgerlijke Rechtsvordering. 
 
 ### Artikel  6  
 
-1.  Op de voortzetting van een procedure na indiening van een verweerschrift, als bedoeld in artikel 17 van de verordening, is [artikel 69 van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) van overeenkomstige toepassing. De procedure is aanhangig vanaf de dag van indiening van het verzoek tot uitvaardiging van een Europees betalingsbevel.   
-2.  Ongeacht of de verweerder in de voortgezette procedure verschijnt en of hij het griffierecht tijdig heeft voldaan, geldt een vonnis in de voortgezette procedure als een vonnis op tegenspraak en moet hoger beroep tegen een eindbeschikking in de voortgezette procedure door de eiser en de verweerder worden ingesteld binnen drie maanden, te rekenen vanaf de dag van de uitspraak. In zijn bevel inzake de voortzetting neemt de rechter de mededeling, bedoeld in [artikel 111, tweede lid, onderdeel k, van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) op en wijst hij de verweerder op de in de vorige zin bedoelde rechtsgevolgen. De verweerder die niet in de voortgezette procedure verschijnt, krijgt de uitspraak toegezonden per gewone post.  
+1.  Op de voortzetting van een procedure na indiening van een verweerschrift, als bedoeld in artikel 17 van de verordening, is artikel 69 van het Wetboek van Burgerlijke Rechtsvordering van overeenkomstige toepassing. De procedure is aanhangig vanaf de dag van indiening van het verzoek tot uitvaardiging van een Europees betalingsbevel.   
+2.  Ongeacht of de verweerder in de voortgezette procedure verschijnt en of hij het griffierecht tijdig heeft voldaan, geldt een vonnis in de voortgezette procedure als een vonnis op tegenspraak en moet hoger beroep tegen een eindbeschikking in de voortgezette procedure door de eiser en de verweerder worden ingesteld binnen drie maanden, te rekenen vanaf de dag van de uitspraak. In zijn bevel inzake de voortzetting neemt de rechter de mededeling, bedoeld in artikel 111, tweede lid, onderdeel k, van het Wetboek van Burgerlijke Rechtsvordering op en wijst hij de verweerder op de in de vorige zin bedoelde rechtsgevolgen. De verweerder die niet in de voortgezette procedure verschijnt, krijgt de uitspraak toegezonden per gewone post.  
 
 ### Artikel  7  
 
-In geval van uitvoerbaarverklaring van een Europees betalingsbevel als bedoeld in artikel 18 van de verordening vormen de uitvoerbaarverklaring en het aangehechte betalingsbevel tezamen een executoriale titel in de zin van [artikel 430 van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md). [Artikel 430, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) is van toepassing. 
+In geval van uitvoerbaarverklaring van een Europees betalingsbevel als bedoeld in artikel 18 van de verordening vormen de uitvoerbaarverklaring en het aangehechte betalingsbevel tezamen een executoriale titel in de zin van artikel 430 van het Wetboek van Burgerlijke Rechtsvordering. Artikel 430, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering is van toepassing. 
 
 ### Artikel  8  
 
@@ -62,13 +62,13 @@ c. in het geval bedoeld in artikel 20, tweede lid, van de verordening, binnen vi
 
 ### Artikel  10  
 
-Op verzoeken betreffende de tenuitvoerlegging als bedoeld in de artikelen 22 en 23 van de verordening, is [artikel 438 van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) van toepassing. 
+Op verzoeken betreffende de tenuitvoerlegging als bedoeld in de artikelen 22 en 23 van de verordening, is artikel 438 van het Wetboek van Burgerlijke Rechtsvordering van toepassing. 
 
 ### Artikel  11  
 
-1.  Het bedrag, bedoeld in artikel 25, tweede lid, van de verordening, dat in rekening wordt gebracht voor een verzoek om een Europees betalingsbevel, wordt vastgesteld overeenkomstig de [Wet griffierechten burgerlijke zaken](../../../../../../wet/wet/griffierechten/burgerlijke/zaken/BWBR0028899/README.md).   
+1.  Het bedrag, bedoeld in artikel 25, tweede lid, van de verordening, dat in rekening wordt gebracht voor een verzoek om een Europees betalingsbevel, wordt vastgesteld overeenkomstig de Wet griffierechten burgerlijke zaken.   
 2.  Van de verweerder wordt geen griffierecht geheven voor de indiening van een verweerschrift als bedoeld in artikel 16 van de verordening.   
-3.  Wordt de procedure voortgezet na indiening van een verweerschrift, dan wordt van de verweerder overeenkomstig de regels van de [Wet griffierechten burgerlijke zaken](../../../../../../wet/wet/griffierechten/burgerlijke/zaken/BWBR0028899/README.md) griffierecht geheven als hij ook in de voortgezette procedure verschijnt.  
+3.  Wordt de procedure voortgezet na indiening van een verweerschrift, dan wordt van de verweerder overeenkomstig de regels van de Wet griffierechten burgerlijke zaken griffierecht geheven als hij ook in de voortgezette procedure verschijnt.  
 
 ### Artikel  12  
 

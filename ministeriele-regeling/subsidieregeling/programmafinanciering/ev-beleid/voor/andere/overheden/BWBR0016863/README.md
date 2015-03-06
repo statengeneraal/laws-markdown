@@ -3,7 +3,7 @@
 ##Subsidieregeling Programmafinanciering Externeveiligheidsbeleid voor andere overheden
 
 De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,  
-Gelet op [artikel 15.13, eerste tot en met derde lid, van de Wet milieubeheer](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);
+Gelet op artikel 15.13, eerste tot en met derde lid, van de Wet milieubeheer;
 Besluit:    
 
 ### Artikel  1  
@@ -37,15 +37,15 @@ a. risicoinventarisatie van risicovolle situaties;
 
 b. actualisatie bestaande vergunningen;  
 
-c. transport van gevaarlijke stoffen: routering van het vervoer krachtens de [Wet vervoer gevaarlijke stoffen](../../../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md);  
+c. transport van gevaarlijke stoffen: routering van het vervoer krachtens de Wet vervoer gevaarlijke stoffen;  
 
 d. opstellen van een visie voor het externeveiligheidbeleid voor provincie of gemeente;  
 
 e. ruimtelijke ordening/pro-actie: toepassen en rekening houden met grenswaarden op het gebied van externe veiligheid in bestemmingsplannen en de nota Risiconormering Vervoer Gevaarlijke Stoffen (kamerstuk 1995/1996, 25 611, nr. 2);  
 
-f. het uitvoeren van groepsrisicobeleid en verantwoording groepsrisico ingevolge de [artikelen 12](../../../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md) en [13 van het Besluit externe veiligheid inrichtingen](../../../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md);  
+f. het uitvoeren van groepsrisicobeleid en verantwoording groepsrisico ingevolge de artikelen 12 en 13 van het Besluit externe veiligheid inrichtingen;  
 
-g. sanering: de voorbereiding van saneringen ingevolge de [artikelen 17](../../../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md), [18](../../../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md) en [19 van het Besluit externe veiligheid inrichtingen](../../../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md) en het opstellen van een saneringsprogramma;  
+g. sanering: de voorbereiding van saneringen ingevolge de artikelen 17, 18 en 19 van het Besluit externe veiligheid inrichtingen en het opstellen van een saneringsprogramma;  
 
 h. risicocommunicatie richting burgers;  
 
@@ -151,9 +151,9 @@ De subsidieontvanger is verplicht:
 
 a. het provinciaal programma, waarvoor subsidie is verleend, uit te voeren voor 1 april 2006;  
 
-b. het geactualiseerde overzicht van activiteiten te overhandigen waarvoor subsidie is verleend als bedoeld in [artikel 13, eerste lid van het Besluit milieusubsidies](../../../../../../../../AMvB/besluit/milieusubsidies/BWBR0010065/README.md). Dit in de zesde maand na de datum van toekenning van de subsidie en vervolgens in elke zesde maand daarna;  
+b. het geactualiseerde overzicht van activiteiten te overhandigen waarvoor subsidie is verleend als bedoeld in artikel 13, eerste lid van het Besluit milieusubsidies. Dit in de zesde maand na de datum van toekenning van de subsidie en vervolgens in elke zesde maand daarna;  
 
-c. het verslag te overhandigen omtrent het verloop, de uitvoering en de resultaten van het plan van aanpak, bedoeld in [artikel 14, tweede lid, onderdeel a, van het Besluit milieusubsidies](../../../../../../../../AMvB/besluit/milieusubsidies/BWBR0010065/README.md). Het verslag dient in afwijking van het gestelde in [artikel 14 van het Besluit milieusubsidies](../../../../../../../../AMvB/besluit/milieusubsidies/BWBR0010065/README.md) binnen zes maanden na uitvoering van het plan van aanpak aan de Minister te worden verstrekt.   
+c. het verslag te overhandigen omtrent het verloop, de uitvoering en de resultaten van het plan van aanpak, bedoeld in artikel 14, tweede lid, onderdeel a, van het Besluit milieusubsidies. Het verslag dient in afwijking van het gestelde in artikel 14 van het Besluit milieusubsidies binnen zes maanden na uitvoering van het plan van aanpak aan de Minister te worden verstrekt.   
 
 ### Artikel  10  
 

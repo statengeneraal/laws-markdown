@@ -3,7 +3,7 @@
 ##Regeling bijzondere subsidies waterkeren en waterbeheren
 
 De Staatssecretaris van Verkeer en Waterstaat,  
-Gelet op [artikel 12, tweede en derde lid, van de Wet op de waterkering](../../../../../../../../wet/wet/op/de/waterkering/BWBR0007801/README.md);
+Gelet op artikel 12, tweede en derde lid, van de Wet op de waterkering;
 Besluit:     
 ### §  1  
 
@@ -17,9 +17,9 @@ In deze regeling wordt verstaan onder:
 
 a. Minister: de Minister van Verkeer en Waterstaat;  
 
-b. plan: een plan als bedoeld in [artikel 5.4 van de Waterwet](../../../../../../../../wet/waterwet/BWBR0025458/README.md);  
+b. plan: een plan als bedoeld in artikel 5.4 van de Waterwet;  
 
-c. subsidie: een subsidie voor een maatregel als bedoeld in [artikel 7.23, vijfde lid, van de Waterwet](../../../../../../../../wet/waterwet/BWBR0025458/README.md); 
+c. subsidie: een subsidie voor een maatregel als bedoeld in artikel 7.23, vijfde lid, van de Waterwet; 
 
 d. werk: een werk ter uitvoering van een plan als bedoeld in onderdeel b;  
 
@@ -27,7 +27,7 @@ e. hoofdingenieur-directeur: de hoofdingenieur-directeur van de Waterdienst van 
 
 ### Artikel  1a  
 
-Deze regeling berust op [artikel 3, eerste en tweede lid, van de Kaderwet subsidies Verkeer en Waterstaat](../../../../../../../../wet/kaderwet/subsidies/verkeer/en/waterstaat/BWBR0009196/README.md). 
+Deze regeling berust op artikel 3, eerste en tweede lid, van de Kaderwet subsidies Verkeer en Waterstaat. 
 
 ### §  2  
 
@@ -45,7 +45,7 @@ b. de kosten voor de opruiming van explosieven die door een gemeente worden verg
 
 c. de kosten voortvloeiend uit de voor de realisatie van het werk gesloten overeenkomsten van aanneming en overeenkomsten tot levering van diensten en materialen;  
 
-d. de voor het verleggen van kabels en leidingen verschuldigde nadeelcompensatie berekend volgens [bijlage I van de Nadeelcompensatieregeling verleggen kabels en leidingen in en buiten rijkswaterstaatswerken en spoorwegwerken 1999](../../../../../../../../ministeriele-regeling/nadeelcompensatieregeling/verleggen/kabels/en/leidingen/in/en/buiten/etc/BWBR0010461/README.md);  
+d. de voor het verleggen van kabels en leidingen verschuldigde nadeelcompensatie berekend volgens bijlage I van de Nadeelcompensatieregeling verleggen kabels en leidingen in en buiten rijkswaterstaatswerken en spoorwegwerken 1999;  
 
 e. nadeelcompensatie aan derden, anders dan uit hoofde van het in de onderdelen b en d bepaalde, voor zover de beheerder daartoe rechtens gehouden is;  
 
@@ -58,9 +58,9 @@ h. de kosten voor begeleiding en toezicht op de uitvoering van de werkzaamheden 
 i. andere kosten dan de kosten, bedoeld in de onderdelen b tot en met h, die in redelijkheid zijn aan te merken als realisatiekosten.     
 2.  Niet voor vergoeding komen in aanmerking: 
 
-a. de kosten voor bodemsanering die voor vergoeding in aanmerking komen op grond van het bepaalde bij of krachtens de [Wet bodembescherming](../../../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md);  
+a. de kosten voor bodemsanering die voor vergoeding in aanmerking komen op grond van het bepaalde bij of krachtens de Wet bodembescherming;  
 
-b. de kosten voor de opruiming van explosieven die voor vergoeding in aanmerking komen op grond van het [Bijdragebesluit kosten ruiming explosieven Tweede Wereldoorlog 1999](../../../../../../../../AMvB/bijdragebesluit/kosten/ruiming/explosieven/tweede/wereldoorlog/1999/BWBR0010700/README.md);  
+b. de kosten voor de opruiming van explosieven die voor vergoeding in aanmerking komen op grond van het Bijdragebesluit kosten ruiming explosieven Tweede Wereldoorlog 1999;  
 
 c. de kosten die de subsidieaanvrager op andere wijze vergoed kan krijgen;  
 
@@ -106,8 +106,8 @@ a. het werk waarvoor subsidie is aangevraagd niet is opgenomen in het hoogwaterb
 
 b. het ontwerp van de waterkering niet voldoet aan eisen van soberheid en doelmatigheid;  
 
-c. er sprake is van een weigeringsgrond als bedoeld in [artikel 4:35 van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).     
-3.  De subsidie wordt geweigerd indien door verlening van de subsidie het subsidieplafond wordt overschreden. Bij mogelijke overschrijding van het subsidieplafond is [artikel 4:25, derde lid, van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van overeenkomstige toepassing.  
+c. er sprake is van een weigeringsgrond als bedoeld in artikel 4:35 van de Algemene wet bestuursrecht.     
+3.  De subsidie wordt geweigerd indien door verlening van de subsidie het subsidieplafond wordt overschreden. Bij mogelijke overschrijding van het subsidieplafond is artikel 4:25, derde lid, van de Algemene wet bestuursrecht van overeenkomstige toepassing.  
 
 ### Artikel  5  
 
@@ -120,7 +120,7 @@ a. een omschrijving van het werk waarvoor subsidie wordt verleend;
 b. een raming van het totale te subsidiëren bedrag;  
 
 c. het bedrag waarvoor een voorschot wordt verleend, waarbij het bedrag voor de kosten van voorbereiding, bedoeld in artikel 2, eerste lid, onderdeel a, afzonderlijk wordt vermeld.    
-2.  [Artikel 4:37, eerste lid, onderdeel c, van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing. 
+2.  Artikel 4:37, eerste lid, onderdeel c, van de Algemene wet bestuursrecht is van overeenkomstige toepassing. 
 
 ### Artikel  6  
 
@@ -150,7 +150,7 @@ d. eventuele wijzigingen in het tijdschema bedoeld in artikel 3, tweede lid, ond
 
 ####Intrekking of wijziging subsidieverlening
 
-Op de intrekking of wijziging van de beschikking tot subsidieverlening zijn de [artikelen 4:48](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [4:50 van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van overeenkomstige toepassing, met uitzondering van [artikel 4:48, eerste lid, onderdeel e](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). 
+Op de intrekking of wijziging van de beschikking tot subsidieverlening zijn de artikelen 4:48 en 4:50 van de Algemene wet bestuursrecht van overeenkomstige toepassing, met uitzondering van artikel 4:48, eerste lid, onderdeel e. 
 
 ### §  4  
 
@@ -169,7 +169,7 @@ a. een financiële eindverantwoording over het werk bestaande uit:
 
 2°. een overzicht van de uitbetaalde voorschotten waarbij voorschotten voor de kosten van voorbereiding, bedoeld in artikel 2, eerste lid, onderdeel a, afzonderlijk worden vermeld;    
 
-b. een verklaring over de financiële eindverantwoording, afgegeven door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), waaruit blijkt of het werk is uitgevoerd overeenkomstig de beschikking tot subsidieverlening en waaruit blijkt dat de in onderdeel a bedoelde kosten zijn gemaakt, overeenkomstig het daartoe door de Minister bekendgemaakte controleprotocol.     
+b. een verklaring over de financiële eindverantwoording, afgegeven door een accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek, waaruit blijkt of het werk is uitgevoerd overeenkomstig de beschikking tot subsidieverlening en waaruit blijkt dat de in onderdeel a bedoelde kosten zijn gemaakt, overeenkomstig het daartoe door de Minister bekendgemaakte controleprotocol.     
 3.  Op gemotiveerd verzoek van de subsidieontvanger, ingediend binnen zes maanden na voltooiing van het werk, kan de in het eerste lid bedoelde termijn worden verlengd.  
 
 ### Artikel  10  
@@ -188,8 +188,8 @@ d. de betaalde voorschotten;
 
 e. het te betalen dan wel terug te vorderen bedrag.     
 2.  De subsidie kan ambtshalve worden vastgesteld indien de subsidieontvanger niet tijdig een aanvraag heeft ingediend als bedoeld in artikel 9, eerste lid, of een verzoek als bedoeld in artikel 9, derde lid.   
-3.  [Artikel 4:46, tweede lid en derde lid, van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing op de subsidievaststelling.   
-4.  [Artikel 4:49 van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van overeenkomstige toepassing op de intrekking of wijziging van de beschikking tot subsidievaststelling.  
+3.  Artikel 4:46, tweede lid en derde lid, van de Algemene wet bestuursrecht is van overeenkomstige toepassing op de subsidievaststelling.   
+4.  Artikel 4:49 van de Algemene wet bestuursrecht van overeenkomstige toepassing op de intrekking of wijziging van de beschikking tot subsidievaststelling.  
 
 ### Artikel  11  
 
@@ -203,9 +203,9 @@ e. het te betalen dan wel terug te vorderen bedrag.
 
 ####Betaling en terugvordering
 
-1.  Op de betaling van de subsidie is [artikel 4:52, eerste en tweede lid, van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van overeenkomstige toepassing.   
-2.  Op het opschorten van de betaling van de subsidie of een voorschot, is [artikel 4:56 van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van overeenkomstige toepassing.   
-3.  Op het terugvorderen van onverschuldigd betaalde subsidies of voorschotten, is [artikel 4:57 van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van overeenkomstige toepassing.  
+1.  Op de betaling van de subsidie is artikel 4:52, eerste en tweede lid, van de Algemene wet bestuursrecht van overeenkomstige toepassing.   
+2.  Op het opschorten van de betaling van de subsidie of een voorschot, is artikel 4:56 van de Algemene wet bestuursrecht van overeenkomstige toepassing.   
+3.  Op het terugvorderen van onverschuldigd betaalde subsidies of voorschotten, is artikel 4:57 van de Algemene wet bestuursrecht van overeenkomstige toepassing.  
 
 ### Artikel  13  
 

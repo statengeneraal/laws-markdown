@@ -3,16 +3,16 @@
 ##Besluit toezichthouders Subsidieregeling breedband Kenniswijk
 
 De Minister van Economische Zaken,  
-Gelet op [artikel 6 van de Kaderwet subsidies Verkeer en Waterstaat](../../../../../../../wet/kaderwet/subsidies/verkeer/en/waterstaat/BWBR0009196/README.md);
+Gelet op artikel 6 van de Kaderwet subsidies Verkeer en Waterstaat;
 Besluit:    
 
 ### Artikel  1  
 
-Met het toezicht op de naleving van [artikel 10 van de Subsidieregeling breedband Kenniswijk](../../../../../../../ministeriele-regeling/subsidieregeling/breedband/kenniswijk/BWBR0013686/README.md) zijn belast de medewerkers van het agentschap LASER van het Ministerie van Landbouw, Natuurbeheer en Visserij voor zover zij binnen LASER belast zijn met het toezicht op de uitvoering van die regeling. 
+Met het toezicht op de naleving van artikel 10 van de Subsidieregeling breedband Kenniswijk zijn belast de medewerkers van het agentschap LASER van het Ministerie van Landbouw, Natuurbeheer en Visserij voor zover zij binnen LASER belast zijn met het toezicht op de uitvoering van die regeling. 
 
 ### Artikel  2  
 
-De toezichthouders beschikken niet over de bevoegdheden, bedoeld in [artikel 5:19 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). 
+De toezichthouders beschikken niet over de bevoegdheden, bedoeld in artikel 5:19 van de Algemene wet bestuursrecht. 
 
 ### Artikel  3  
 

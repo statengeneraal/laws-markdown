@@ -3,12 +3,12 @@
 ##Subsidieregeling openbare inland terminals
 
 De Minister van Verkeer en Waterstaat;  
-Gelet op de [artikelen 3](../../../../../../wet/kaderwet/subsidies/verkeer/en/waterstaat/BWBR0009196/README.md) en [4 van de Kaderwet subsidies Verkeer en Waterstaat](../../../../../../wet/kaderwet/subsidies/verkeer/en/waterstaat/BWBR0009196/README.md),
+Gelet op de artikelen 3 en 4 van de Kaderwet subsidies Verkeer en Waterstaat,
 Besluit:    
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder: a. *Minister:*   Minister van Verkeer en Waterstaat;  b. *overslagterminal:*   samenhangend geheel van op Nederlands grondgebied gelegen voorzieningen die hoofdzakelijk zijn bestemd en worden gebruikt voor de overslag van goederen van de ene naar een andere vervoersmodaliteit;  c. *intermodaal vervoer:*   vervoer van goederen in één en dezelfde laadeenheid door middel van meer dan één vervoersmodaliteit;  d. *multimodaal vervoer:*   vervoer van goederen door middel van meer dan één vervoersmodaliteit;  e. *private rechtspersoon:*   een rechtspersoon die in Nederland is gevestigd of in Nederland een nevenvestiging heeft in de zin van [artikel 3, eerste lid, van de Handelsregisterwet 1996](../../../../../../wet/handelsregisterwet/1996/BWBR0007893/README.md), met dien verstande dat de beslissende zeggenschap over die rechtspersoon, alsmede het uiteindelijk gerechtigd zijn tot de inkomsten berust bij particuliere personen, onderscheidenlijk bij andere rechtspersonen dan een overheidslichaam als bedoeld in artikel 1, eerste en tweede lid, van Boek 2 van het Burgerlijk Wetboek;  f. *overslagbedrijf:*   private rechtspersoon die activiteiten verricht of twee of meer private rechtspersonen die activiteiten verrichten, welke activiteiten geheel of gedeeltelijk bestaan of zullen bestaan uit het exploiteren of doen exploiteren van één of meer overslagterminals;  g. *project:*   het investeringsproject waarop de subsidie-aanvraag betrekking heeft;  h. *initiële investeringen:*   investeringen die betrekking hebben op de realisering van een nieuwe overslagterminal voorzover die noodzakelijk zijn om de terminal te laten functioneren;  i. *uitbreidingsinvesteringen:*   investeringen die betrekking hebben op de uitbreiding van de capaciteit van bestaande overslagterminals tot het door de aanvrager gewenste en met intentieverklaringen onderbouwde niveau;  j. *subsidie:*   subsidie voor een investering, bedoeld in [artikel 2 van het Besluit Infrastructuurfonds](../../../../../../AMvB/besluit/infrastructuurfonds/BWBR0006264/README.md).    
+In deze regeling wordt verstaan onder: a. *Minister:*   Minister van Verkeer en Waterstaat;  b. *overslagterminal:*   samenhangend geheel van op Nederlands grondgebied gelegen voorzieningen die hoofdzakelijk zijn bestemd en worden gebruikt voor de overslag van goederen van de ene naar een andere vervoersmodaliteit;  c. *intermodaal vervoer:*   vervoer van goederen in één en dezelfde laadeenheid door middel van meer dan één vervoersmodaliteit;  d. *multimodaal vervoer:*   vervoer van goederen door middel van meer dan één vervoersmodaliteit;  e. *private rechtspersoon:*   een rechtspersoon die in Nederland is gevestigd of in Nederland een nevenvestiging heeft in de zin van artikel 3, eerste lid, van de Handelsregisterwet 1996, met dien verstande dat de beslissende zeggenschap over die rechtspersoon, alsmede het uiteindelijk gerechtigd zijn tot de inkomsten berust bij particuliere personen, onderscheidenlijk bij andere rechtspersonen dan een overheidslichaam als bedoeld in artikel 1, eerste en tweede lid, van Boek 2 van het Burgerlijk Wetboek;  f. *overslagbedrijf:*   private rechtspersoon die activiteiten verricht of twee of meer private rechtspersonen die activiteiten verrichten, welke activiteiten geheel of gedeeltelijk bestaan of zullen bestaan uit het exploiteren of doen exploiteren van één of meer overslagterminals;  g. *project:*   het investeringsproject waarop de subsidie-aanvraag betrekking heeft;  h. *initiële investeringen:*   investeringen die betrekking hebben op de realisering van een nieuwe overslagterminal voorzover die noodzakelijk zijn om de terminal te laten functioneren;  i. *uitbreidingsinvesteringen:*   investeringen die betrekking hebben op de uitbreiding van de capaciteit van bestaande overslagterminals tot het door de aanvrager gewenste en met intentieverklaringen onderbouwde niveau;  j. *subsidie:*   subsidie voor een investering, bedoeld in artikel 2 van het Besluit Infrastructuurfonds.    
 
 ### Artikel  2  
 
@@ -24,7 +24,7 @@ c.  de met de overslagterminal gemoeide totale projectkosten, bedoeld in artikel
 
 a.  niet gelegen is in het beheersgebied van een zeehaven; 
 
-b.  niet gelegen is binnen het samenwerkingsgebied Arnhem-Nijmegen, bedoeld in [artikel 1 van de Kaderwet bestuur in verandering](../../../../../../wet/kaderwet/bestuur/in/verandering/BWBR0006620/README.md); 
+b.  niet gelegen is binnen het samenwerkingsgebied Arnhem-Nijmegen, bedoeld in artikel 1 van de Kaderwet bestuur in verandering; 
 
 c.  bestemd is en gebruikt wordt voor de overslag van goederen van andere partijen dan het overslagbedrijf of, indien dit een andere onderneming is, de exploitant van de overslagterminal; 
 
@@ -57,14 +57,14 @@ a.  indien uit anderen hoofde dan deze regeling financiële steun is verleend da
 b.  de verleende subsidie per project niet hoger is dan € 2.268.901, en 
 
 c.  voor de vaststelling van de totale projectkosten alle kosten, die betrekking hebben op de verwezenlijking of de uitbreiding van de terminal waarop het project betrekking heeft, in aanmerking worden genomen.    
-3.  Tot de totale projectkosten, bedoeld in het tweede lid, behoren de kosten, bedoeld in [artikel 5, eerste lid, van het Besluit Infrastructuurfonds](../../../../../../AMvB/besluit/infrastructuurfonds/BWBR0006264/README.md).   
+3.  Tot de totale projectkosten, bedoeld in het tweede lid, behoren de kosten, bedoeld in artikel 5, eerste lid, van het Besluit Infrastructuurfonds.   
 4.  Tot de subsidiabele onderdelen van het project, bedoeld in het tweede lid, behoren: 
 
 a.  materialen; 
 
 b.  werkzaamheden voor de aanleg van vast en mobiel materieel voor overslag; 
 
-c.  de krachtens de [Wet op de Omzetbelasting 1968](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) verschuldigde belasting voorzover die niet kan worden teruggevorderd; 
+c.  de krachtens de Wet op de Omzetbelasting 1968 verschuldigde belasting voorzover die niet kan worden teruggevorderd; 
 
 d.  bouwrente; 
 
@@ -117,7 +117,7 @@ b.  een bedrijfsplan, dat in elk geval de volgende onderdelen bevat:
 
 ### Artikel  6  
 
-1.  Onverminderd de [artikelen 4:25](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [4:35 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan de subsidieverlening worden geweigerd indien niet wordt voldaan aan de vereisten, bedoeld in artikel 2.   
+1.  Onverminderd de artikelen 4:25 en 4:35 van de Algemene wet bestuursrecht kan de subsidieverlening worden geweigerd indien niet wordt voldaan aan de vereisten, bedoeld in artikel 2.   
 2.  Indien er op enige datum: 
 
 a.  een aanvraag wordt ontvangen en het bedrag waarvoor subsidie verleend zou worden hoger is dan het op die datum resterende gedeelte van het budget tot het subsidieplafond, wordt de aanvraag afgewezen, of 
@@ -134,7 +134,7 @@ b.  de totale projectkosten, en
 
 c.  het maximale subsidiebedrag en de wijze waarop dit berekend is.    
 2.  Bij de beschikking tot subsidieverlening wordt het ritme van uitbetaling van de subsidie vermeld.   
-3.  Bij de beschikking tot subsidieverlening kan bepaald worden dat een daarbij aan te geven bedrag bij wijze van voorschot uitbetaald wordt. [Artikel 13, tweede, derde en zesde lid, van het Besluit Infrastructuurfonds](../../../../../../AMvB/besluit/infrastructuurfonds/BWBR0006264/README.md) zijn van overeenkomstige toepassing op de voorschotverstrekking.   
+3.  Bij de beschikking tot subsidieverlening kan bepaald worden dat een daarbij aan te geven bedrag bij wijze van voorschot uitbetaald wordt. Artikel 13, tweede, derde en zesde lid, van het Besluit Infrastructuurfonds zijn van overeenkomstige toepassing op de voorschotverstrekking.   
 4.  Het in het derde lid bedoelde voorschot wordt verleend op basis van in te dienen declaraties die zijn afgestemd op de gerealiseerde en geplande voortgang van de projectwerkzaamheden;   
 5.  Bij de beschikking tot subsidieverlening kunnen bijzondere verplichtingen worden opgelegd in verband met de specifieke omstandigheden van de exploitatie van de terminal.   
 
@@ -168,7 +168,7 @@ c.  de nog te verwachten uitgaven.
 
 ### Artikel  11  
 
-Indien de subsidie-ontvanger zich niet houdt aan de verplichtingen ingevolge de [Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) of deze regeling, betaalt hij op eerste vordering van de Minister binnen een daarbij te bepalen termijn een daarbij aan te geven deel of het gehele bedrag van de ontvangen subsidie terug.  
+Indien de subsidie-ontvanger zich niet houdt aan de verplichtingen ingevolge de Algemene wet bestuursrecht of deze regeling, betaalt hij op eerste vordering van de Minister binnen een daarbij te bepalen termijn een daarbij aan te geven deel of het gehele bedrag van de ontvangen subsidie terug.  
 
 ### Artikel  12  
 

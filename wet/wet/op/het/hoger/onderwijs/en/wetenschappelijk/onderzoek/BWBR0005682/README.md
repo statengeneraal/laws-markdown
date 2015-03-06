@@ -3262,8 +3262,9 @@ a. het instellingsplan, bedoeld in artikel 2.2,
 b. de vormgeving van het systeem van kwaliteitszorg overeenkomstig artikel 1.18, eerste lid, alsmede het voorgenomen beleid in het licht van de uitkomsten van de kwaliteitsbeoordeling, bedoeld in artikel 2.9, tweede lid, tweede volzin, en  
 
 c. het bestuurs- en beheersreglement, bedoeld in artikel 9.4.     
-3.  Het college van bestuur stelt, met inachtneming van de voorschriften bij of krachtens deze wet, een reglement voor de gezamenlijke vergadering vast. Artikel 9.34, tweede lid en derde lid aanhef en onderdelen f, g en j1, is van overeenkomstige toepassing. In het reglement kunnen worden geregeld de aangelegenheden waarover de gezamenlijke vergadering, onverminderd het tweede lid, instemmingsrecht heeft. In het reglement wordt, indien de aantallen leden van de ondernemingsraad en het orgaan, bedoeld in het eerste lid, niet gelijk zijn, tevens geregeld de wijze waarop voor beide geledingen wordt voorzien in gelijke invloed op de besluitvorming binnen de gezamenlijke vergadering.  
-4. De gezamenlijke vergadering is bevoegd het college van bestuur ten minste twee maal per jaar uit te nodigen om het voorgenomen beleid te bespreken aan de hand van een door haar opgestelde agenda.
+3.  Het college van bestuur behoeft eveneens de voorafgaande instemming van de gezamenlijke vergadering over de hoofdlijnen van de jaarlijkse begroting, waarbij in ieder geval aandacht wordt besteed aan de beoogde verdeling van de middelen over de beleidsterreinen onderwijs, onderzoek, huisvesting en beheer, investeringen en personeel. Artikel 9.36, tweede lid, is van overeenkomstige toepassing.  
+4.  Het college van bestuur stelt, met inachtneming van de voorschriften bij of krachtens deze wet, een reglement voor de gezamenlijke vergadering vast. Artikel 9.34, tweede lid en derde lid aanhef en onderdelen f, g en j1, is van overeenkomstige toepassing. In het reglement kunnen worden geregeld de aangelegenheden waarover de gezamenlijke vergadering, onverminderd het tweede lid, instemmingsrecht heeft. In het reglement wordt, indien de aantallen leden van de ondernemingsraad en het orgaan, bedoeld in het eerste lid, niet gelijk zijn, tevens geregeld de wijze waarop voor beide geledingen wordt voorzien in gelijke invloed op de besluitvorming binnen de gezamenlijke vergadering.  
+5. De gezamenlijke vergadering is bevoegd het college van bestuur ten minste twee maal per jaar uit te nodigen om het voorgenomen beleid te bespreken aan de hand van een door haar opgestelde agenda.
 
 ### Paragraaf  1  
 
@@ -3302,7 +3303,7 @@ c. het bestuurs- en beheersreglement, bedoeld in artikel 9.4.
 
 ####Instemmingsbevoegdheid universiteitsraad
 
-Het college van bestuur behoeft de voorafgaande instemming van de universiteitsraad voor elk door het college van bestuur te nemen besluit met betrekking tot ten minste de vaststelling of wijziging van: 
+1. Het college van bestuur behoeft de voorafgaande instemming van de universiteitsraad voor elk door het college van bestuur te nemen besluit met betrekking tot ten minste de vaststelling of wijziging van: 
 
 a. het instellingsplan, bedoeld in artikel 2.2,  
 
@@ -3316,7 +3317,8 @@ e. regels op het gebied van de arbeidsomstandigheden,
 
 f. de keuze uit medezeggenschapsstelsels, bedoeld in artikel 9.30, eerste lid, en  
 
-g. het beleid van het instellingsbestuur bij de toepassing van artikel 7.51, en de regels, bedoeld in het vierde lid van dat artikel.   
+g. het beleid van het instellingsbestuur bij de toepassing van artikel 7.51, en de regels, bedoeld in het vierde lid van dat artikel.    
+2.  Het college van bestuur behoeft eveneens de voorafgaande instemming van de universiteitsraad over de hoofdlijnen van de jaarlijkse begroting, bedoeld in artikel 2.8. Het instemmingsrecht wordt niet uitgeoefend indien het een onderdeel van de begroting betreft dat inhoudelijk is geregeld in een bij of krachtens de wet gegeven voorschrift. 
 
 ### Artikel  9.33a  
 
@@ -3486,8 +3488,8 @@ a. het college van bestuur of de decaan zich heeft gehouden aan de eisen van de 
 b. het college van bestuur of de decaan bij de afweging van de betrokken belangen in redelijkheid tot het voorstel of de beslissing heeft kunnen komen, en  
 
 c. het college van bestuur of de decaan onzorgvuldig heeft gehandeld ten opzichte van het desbetreffende medezeggenschapsorgaan.     
-5.  Indien het college van bestuur of de decaan voor de voorgenomen beslissing geen instemming van het medezeggenschapsorgaan heeft gekregen, kan het de geschillencommissie, in afwijking van het vierde lid, toestemming vragen om de beslissing te nemen. De geschillencommissie geeft slechts toestemming, indien de beslissing van het medezeggenschapsorgaan om geen instemming te geven onredelijk is of indien de voorgenomen beslissing van het college van bestuur of de decaan gevergd wordt door zwaarwegende organisatorische, economische of sociale redenen.   
-6.  Indien het gaat om besluiten als bedoeld in de artikelen 9.30a, tweede lid, of 9.33, onder a, b of d, beoordeelt de geschillencommissie in afwijking van het vijfde lid, tweede volzin, of het college van bestuur of een ander orgaan bij afweging van de betrokken belangen in redelijkheid tot het besluit heeft kunnen komen.   
+5.  Indien het college van bestuur of de decaan voor de voorgenomen beslissing geen instemming van het medezeggenschapsorgaan heeft gekregen, kan het de geschillencommissie, in afwijking van het vierde lid, toestemming vragen om de beslissing te nemen. De geschillencommissie geeft slechts toestemming, indien de beslissing van het medezeggenschapsorgaan om geen instemming te geven onredelijk is of indien de voorgenomen beslissing van het college van bestuur of de decaan gevergd wordt door zwaarwegende organisatorische, economische of sociale redenen. Voor zover het gaat om een geschil over de hoofdlijnen van de begroting en de geschillencommissie niet voor 1 januari van het jaar waarop de begroting betrekking heeft, aan het college van bestuur toestemming heeft gegeven een beslissing te nemen, kan het college van bestuur totdat de geschillencommissie een besluit over het verlenen van toestemming heeft genomen, voor het doen van uitgaven in dat jaar beschikken over ten hoogste vier twaalfde gedeelten van de bedragen die in de overeenkomstige begrotingsonderdelen van het voorafgaande jaar waren opgenomen.   
+6.  Indien het gaat om besluiten als bedoeld in de artikelen 9.30a, tweede en derde lid, of 9.33, eerste lid, onder a, b of d, en tweede lid, beoordeelt de geschillencommissie in afwijking van het vijfde lid, tweede volzin, of het college van bestuur of een ander orgaan bij afweging van de betrokken belangen in redelijkheid tot het besluit heeft kunnen komen.   
 7.  Het medezeggenschapsorgaan kan voor wat betreft het aanhangig maken van een geschil in de adviesbevoegdheden van de opleidingscommissie treden, voorzover dat strookt met het advies van de opleidingscommissie.  
 
 ### Paragraaf  4  
@@ -3503,7 +3505,8 @@ c. het college van bestuur of de decaan onzorgvuldig heeft gehandeld ten opzicht
 3.  Het beroep wordt ingediend bij beroepschrift binnen een maand na de datum van de uitspraak van de geschillencommissie. De wederpartij wordt van het beroep in kennis gesteld.   
 4.  Een beroep kan uitsluitend worden ingesteld op de grond dat de geschillencommissie een onjuiste toepassing heeft gegeven aan de wet.   
 5.  Van een uitspraak van de ondernemingskamer kan geen cassatie worden ingesteld.   
-6.  In afwijking van artikel 237 van het Wetboek van Burgerlijke Rechtsvordering kan het medezeggenschapsorgaan niet in de proceskosten worden veroordeeld.  
+6.  In afwijking van artikel 237 van het Wetboek van Burgerlijke Rechtsvordering kan het medezeggenschapsorgaan niet in de proceskosten worden veroordeeld.   
+7.  Indien een medezeggenschapsorgaan dan wel het college van bestuur beroep heeft ingesteld tegen een uitspraak van de geschillencommissie over een geschil betreffende het instemmingsrecht op de hoofdlijnen van de begroting en de ondernemingskamer op 1 januari van het jaar, waarop de begroting betrekking heeft, nog geen uitspraak heeft gedaan, kan het college van bestuur, totdat de ondernemingskamer uitspraak heeft gedaan of als de uitspraak van de ondernemingskamer leidt tot het opstellen van een nieuwe begroting, totdat een nieuwe begroting is vastgesteld, voor het doen van uitgaven beschikken over de bedragen die daarvoor zijn geraamd in de begroting waarover de ondernemingskamer oordeelt of heeft geoordeeld. 
 
 ### Artikel  9.47  
 
@@ -3838,10 +3841,11 @@ b. de vormgeving van het systeem van kwaliteitszorg overeenkomstig artikel 1.18,
 c. het bestuurs- en beheersreglement, bedoeld in artikel 10.3b, en  
 
 d. de onderwijs- en examenregeling, bedoeld in artikel 7.13, met uitzondering van het tweede lid, onderdelen a tot en met g, van dat artikel.     
-3.  Het college van bestuur stelt, met inachtneming van de voorschriften bij of krachtens deze wet, een reglement voor de gezamenlijke vergadering vast. De artikelen 10.21, tweede lid, en 10.22, aanhef en onderdelen f, g en j1, zijn van overeenkomstige toepassing. In het reglement kunnen worden geregeld de aangelegenheden waarover de gezamenlijke vergadering, onverminderd het tweede lid, instemmingsrecht heeft. In het reglement wordt, indien de aantallen leden van de ondernemingsraad en het orgaan, bedoeld in het eerste lid, niet gelijk zijn, tevens geregeld de wijze waarop voor beide geledingen wordt voorzien in gelijke invloed op de besluitvorming binnen de gezamenlijke vergadering.   
-4.  De gezamenlijke vergadering is bevoegd het college van bestuur ten minste twee maal per jaar uit te nodigen om het voorgenomen beleid te bespreken aan de hand van een door haar opgestelde agenda.  
-5.  Het college van bestuur behoeft eveneens voorafgaande instemming van de gezamenlijke vergadering voor een besluit tot fusie als bedoeld in artikel 16.16.   
-6.  Het college van bestuur stelt de gezamenlijke vergadering in de gelegenheid om tijdig voorafgaand aan het verzoek om instemming, bedoeld in het vierde lid, kennis te nemen van de opgestelde fusie-effectrapportage, bedoeld in artikel 16.16a, vierde lid. 
+3.  Het college van bestuur behoeft eveneens de voorafgaande instemming van de gezamenlijke vergadering over de hoofdlijnen van de jaarlijkse begroting, waarbij in ieder geval aandacht wordt besteed aan de beoogde verdeling van de middelen over de beleidsterreinen onderwijs, onderzoek, huisvesting en beheer, investeringen en personeel. Artikel 9.36, tweede lid, is van overeenkomstige toepassing.  
+4.  Het college van bestuur stelt, met inachtneming van de voorschriften bij of krachtens deze wet, een reglement voor de gezamenlijke vergadering vast. De artikelen 10.21, tweede lid, en 10.22, aanhef en onderdelen f, g en j1, zijn van overeenkomstige toepassing. In het reglement kunnen worden geregeld de aangelegenheden waarover de gezamenlijke vergadering, onverminderd het tweede en derde lid, instemmingsrecht heeft. In het reglement wordt, indien de aantallen leden van de ondernemingsraad en het orgaan, bedoeld in het eerste lid, niet gelijk zijn, tevens geregeld de wijze waarop voor beide geledingen wordt voorzien in gelijke invloed op de besluitvorming binnen de gezamenlijke vergadering.   
+5.  De gezamenlijke vergadering is bevoegd het college van bestuur ten minste twee maal per jaar uit te nodigen om het voorgenomen beleid te bespreken aan de hand van een door haar opgestelde agenda.  
+6.  Het college van bestuur behoeft eveneens voorafgaande instemming van de gezamenlijke vergadering voor een besluit tot fusie als bedoeld in artikel 16.16.   
+7.  Het college van bestuur stelt de gezamenlijke vergadering in de gelegenheid om tijdig voorafgaand aan het verzoek om instemming, bedoeld in het zesde lid, kennis te nemen van de opgestelde fusie-effectrapportage, bedoeld in artikel 16.16a, zesde lid. 
 
 ### Artikel  10.17  
 
@@ -3895,7 +3899,8 @@ g. de keuze uit medezeggenschapsstelsels, bedoeld in artikel 10.16a, eerste lid,
 h. het beleid van het college van bestuur bij de toepassing van artikel 7.51, en de regels, bedoeld in het vierde lid van dat artikel, en  
 
 i. een besluit tot fusie als bedoeld in artikel 16.16.   
-2.  Het college van bestuur stelt de medezeggenschapsraad in de gelegenheid tijdig voorafgaand aan het verzoek om instemming met een besluit tot fusie als bedoeld in het eerste lid, onderdeel i, kennis te nemen van de opgestelde fusie-effectrapportage bedoeld in artikel 16.16a, vierde lid. 
+2.  Het college van bestuur stelt de medezeggenschapsraad in de gelegenheid tijdig voorafgaand aan het verzoek om instemming met een besluit tot fusie als bedoeld in het eerste lid, onderdeel i, kennis te nemen van de opgestelde fusie-effectrapportage bedoeld in artikel 16.16a, vierde lid.  
+3.  Het college van bestuur behoeft eveneens de voorafgaande instemming van de medezeggenschapsraad over de hoofdlijnen van de jaarlijkse begroting, waarbij in ieder geval aandacht wordt besteed aan de beoogde verdeling van de middelen over de beleidsterreinen onderwijs, onderzoek, huisvesting en beheer, investeringen en personeel. Artikel 9.36, tweede lid, is van overeenkomstige toepassing. 
 
 ### Artikel  10.20a  
 

@@ -11,7 +11,7 @@ Overwegende dat:
 
 – islamitische organisaties, onderwijsinstellingen anders dan de bekostigde universiteiten, en overige geïnteresseerde partijen, de mogelijkheid moeten krijgen om met tijdelijke financiële ondersteuning vanuit de overheid, plannen uit te werken om te komen tot een curriculum van een theologische opleiding voor islamitisch geestelijke bedienaren (imams) en/of islamitisch geestelijk verzorgers, met een daarbij behorend beroepsprofiel;
 
-Gelet op [artikel 48s van de Wet Justitie-subsidies](../../../../../../wet/wet/justitie-subsidies/BWBR0008121/README.md);
+Gelet op artikel 48s van de Wet Justitie-subsidies;
 Besluit:
 
 ###Artikel 1 
@@ -104,7 +104,7 @@ m.naam en curriculum vitae van de projectleider.
 ####Vaststelling van de subsidie
 
 1. De ontvanger van een subsidie dient voor 1 maart 2006 bij de Minister voor Vreemdelingenzaken en Integratie een aanvraag in tot vaststelling van de subsidie.
-2. De aanvraag gaat vergezeld van een inhoudelijk en een financieel verslag. Het financiële verslag is voorzien van een verklaring omtrent de getrouwheid, afgegeven door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md). De accountant dient zich aan de hand van het in de bijlage opgenomen verantwoordingsprotocol een oordeel te vormen over de rechtmatigheid en doelmatigheid van de bestedingen.
+2. De aanvraag gaat vergezeld van een inhoudelijk en een financieel verslag. Het financiële verslag is voorzien van een verklaring omtrent de getrouwheid, afgegeven door een accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek. De accountant dient zich aan de hand van het in de bijlage opgenomen verantwoordingsprotocol een oordeel te vormen over de rechtmatigheid en doelmatigheid van de bestedingen.
 3. De Minister voor Vreemdelingenzaken en Integratie beslist voor 1 juni 2006 op de aanvraag om vaststelling van de subsidie.
 
 ###Artikel 8 

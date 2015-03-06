@@ -3,7 +3,7 @@
 ##Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 12 december 2006, nr. KvI2006327794, houdende regels voor de subsidiëring van nieuwe gemeentelijke en provinciale projecten, gericht op CO2-reductie (Vervolgsubsidieregeling BANS klimaatconvenant 2007)
 
 De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,  
-Gelet op [artikel 15.13, eerste tot en met derde lid, van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);
+Gelet op artikel 15.13, eerste tot en met derde lid, van de Wet milieubeheer;
 Besluit:    
 
 ### Artikel  1  
@@ -30,7 +30,7 @@ g. Minister: Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
 
 ####Doel
 
-Deze regeling heeft als doel de uitvoering van het gemeentelijk en provinciaal klimaatbeleid verder te stimuleren, opdat gemeenten en provincies die reeds subsidie hebben ontvangen op grond van de [Subsidieregeling BANS klimaatconvenant](../../../../../../ministeriele-regeling/subsidieregeling/bans/klimaatconvenant/BWBR0013383/README.md), gedurende een jaar hun bijdrage aan de reductie van de CO<sub>2</sub> uitstoot in Nederland intensiveren. 
+Deze regeling heeft als doel de uitvoering van het gemeentelijk en provinciaal klimaatbeleid verder te stimuleren, opdat gemeenten en provincies die reeds subsidie hebben ontvangen op grond van de Subsidieregeling BANS klimaatconvenant, gedurende een jaar hun bijdrage aan de reductie van de CO<sub>2</sub> uitstoot in Nederland intensiveren. 
 
 ### Artikel  3  
 
@@ -38,7 +38,7 @@ Deze regeling heeft als doel de uitvoering van het gemeentelijk en provinciaal k
 
 Een gemeente of een provincie komt voor subsidie in aanmerking indien: 
 
-a. het basis- of pluspakket, waarvoor subsidie wordt gevraagd, geen doelstellingen of projecten omvat waar de gemeente of provincie op grond van de [Subsidieregeling BANS Klimaatconvenant](../../../../../../ministeriele-regeling/subsidieregeling/bans/klimaatconvenant/BWBR0013383/README.md) of uit anderen hoofde subsidie voor heeft ontvangen;  
+a. het basis- of pluspakket, waarvoor subsidie wordt gevraagd, geen doelstellingen of projecten omvat waar de gemeente of provincie op grond van de Subsidieregeling BANS Klimaatconvenant of uit anderen hoofde subsidie voor heeft ontvangen;  
 
 b. de aanvraag tot subsidieverlening vergezeld gaat van een plan van aanpak, opgesteld volgens een door de Minister beschikbaar gesteld model.   
 
@@ -110,7 +110,7 @@ De subsidieontvanger is verplicht:
 
 a. het plan van aanpak, waarvoor subsidie is verleend, uit te voeren binnen één jaar na de datum van verlening van subsidie voor dat plan;  
 
-b. het verslag omtrent het verloop, de uitvoering en de resultaten van het plan van aanpak, bedoeld in [artikel 14, tweede lid, onderdeel a, van het Besluit milieusubsidies](../../../../../../AMvB/besluit/milieusubsidies/BWBR0010065/README.md) binnen zes maanden na uitvoering van het plan van aanpak aan de Minister te verstrekken aan de hand van een door de Minister voorgeschreven model.   
+b. het verslag omtrent het verloop, de uitvoering en de resultaten van het plan van aanpak, bedoeld in artikel 14, tweede lid, onderdeel a, van het Besluit milieusubsidies binnen zes maanden na uitvoering van het plan van aanpak aan de Minister te verstrekken aan de hand van een door de Minister voorgeschreven model.   
 
 ### Artikel  7  
 
@@ -128,15 +128,15 @@ a. van een Nederlandse provincie,
 
 b. van een Nederlandse gemeente,  
 
-c. van een stadsdeel van een Nederlandse gemeente,   waaraan op grond van de [Subsidieregeling BANS klimaatconvenant](../../../../../../ministeriele-regeling/subsidieregeling/bans/klimaatconvenant/BWBR0013383/README.md) subsidie is verleend en door het bestuursorgaan van een Nederlandse gemeente waarin als gevolg van herindeling een gemeente is opgegaan waaraan op grond van de [Subsidieregeling BANS klimaatconvenant](../../../../../../ministeriele-regeling/subsidieregeling/bans/klimaatconvenant/BWBR0013383/README.md) subsidie is verleend.   
+c. van een stadsdeel van een Nederlandse gemeente,   waaraan op grond van de Subsidieregeling BANS klimaatconvenant subsidie is verleend en door het bestuursorgaan van een Nederlandse gemeente waarin als gevolg van herindeling een gemeente is opgegaan waaraan op grond van de Subsidieregeling BANS klimaatconvenant subsidie is verleend.   
 2.  Een aanvraag tot subsidieverlening of tot subsidievaststelling wordt ingediend bij SenterNovem met gebruikmaking van een aldaar verkrijgbaar formulier.   
 3.  Een aanvraag tot subsidieverlening wordt ingediend na 1 januari 2007 en voor 1 september 2007.   
 4.  Bij de aanvraag tot subsidieverlening worden verstrekt: 
 
 a. een begroting van de totale kosten voor de uitvoering van het basis- of pluspakket, waarvoor subsidie wordt gevraagd, en  
 
-b. de aanvraag tot subsidievaststelling, bedoeld in [artikel 14 van het Besluit milieusubsidies](../../../../../../AMvB/besluit/milieusubsidies/BWBR0010065/README.md), voor de op grond van de [Subsidieregeling BANS klimaatconvenant](../../../../../../ministeriele-regeling/subsidieregeling/bans/klimaatconvenant/BWBR0013383/README.md) verleende subsidie, voor zover die aanvraag nog niet is gedaan of nog niet op die aanvraag is beslist.     
-5.  Bij de subsidieverlening wordt beslist in de volgorde van ontvangst van de aanvragen, met dien verstande dat, wanneer de aanvrager tot subsidieverlening krachtens [artikel 4:5 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) de gelegenheid heeft gehad de aanvraag aan te vullen, de dag waarop de aanvraag is aangevuld, als datum van ontvangst van de aanvraag geldt.  
+b. de aanvraag tot subsidievaststelling, bedoeld in artikel 14 van het Besluit milieusubsidies, voor de op grond van de Subsidieregeling BANS klimaatconvenant verleende subsidie, voor zover die aanvraag nog niet is gedaan of nog niet op die aanvraag is beslist.     
+5.  Bij de subsidieverlening wordt beslist in de volgorde van ontvangst van de aanvragen, met dien verstande dat, wanneer de aanvrager tot subsidieverlening krachtens artikel 4:5 van de Algemene wet bestuursrecht de gelegenheid heeft gehad de aanvraag aan te vullen, de dag waarop de aanvraag is aangevuld, als datum van ontvangst van de aanvraag geldt.  
 
 ### Artikel  9  
 
@@ -150,9 +150,9 @@ b. 45% van het verleende subsidiebedrag en wel binnen twee weken, nadat zes maan
 
 ### Artikel  10  
 
-####Intrekking [Subsidieregeling BANS klimaatconvenant](../../../../../../ministeriele-regeling/subsidieregeling/bans/klimaatconvenant/BWBR0013383/README.md)
+####Intrekking Subsidieregeling BANS klimaatconvenant
 
-De [Subsidieregeling BANS klimaatconvenant](../../../../../../ministeriele-regeling/subsidieregeling/bans/klimaatconvenant/BWBR0013383/README.md) wordt ingetrokken. 
+De Subsidieregeling BANS klimaatconvenant wordt ingetrokken. 
 
 ### Artikel  11  
 
@@ -223,8 +223,8 @@ P.L.B.A. van Geel
 | Beleidsthema  | Ambitieniveau  |--- |  Actief   | Voorlopend  | Innovatief   |
 |:---|:---|:---|:---|:---|:---|
 |  *Energie en duurzaam ondernemen *   |
-| Bedrijven  | – Opstellen en uitvoeren van een actieplan voor het implementeren van de verbredingsthema’s duurzame energie en energiezuinige productontwikkeling<sup>1.  De verbredingsthema’s zijn: – duurzame energie: bijvoorbeeld zon, wind, warmte, koude-warmte opslag, biomassa, – energiezuinige productontwikkeling: duurzame producten, optimalisatie van transport, logistiek en ketens, duurzame bedrijventerreinen </sup> bij minimaal 20% van de energie-  | – Stimuleren en implementeren van duurzaam ondernemen bij de inrichtingen die behoren tot een krachtens [artikel 1.1, derde lid, van de Wet algemene bepalingen omgevingsrecht](../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) aangewezen categorie, waarvoor de provincie bevoegd gezag is via een actieplan.  | – De provincie is vooruitstrevend op het gebied van duurzaam ondernemen, bijvoorbeeld door provinciale pilotprojecten met een vernieuwend karakter, gebiedsgerichte uitwerking van  |
-| --- | extensieve inrichtingen die behoren tot een krachtens [artikel 1.1, derde lid, van de Wet algemene bepalingen omgevingsrecht](../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) aangewezen categorie<sup>2 Onder energie-extensieve inrichtingen wordt verstaan de inrichtingen met een energiegebruik tussen 0,001 en 0,01 PJ en inrichtingen die niet meedoen met het Convenant Benchmarking energie-efficiency en de Meerjarenafspraken energie-efficiency. </sup>, waarvoor de provincie bevoegd gezag is.  – Organiseren en faciliteren van een actieplan van gemeenten en bedrijven voor energiedoorlichting- en, adviezen en invoering van maatregelen bij bedrijven, waarvoor de gemeente bevoegd gezag is.  | – Organiseren en faciliteren van een implementatieplan van duurzaam ondernemen bij grote bedrijven en Midden- en kleinbedrijf - ondernemingen waar gemeente bevoegd gezag is.  |  grootschalige energie-uitwisseling of verdergaande afspraken met het bedrijfsleven.  |
+| Bedrijven  | – Opstellen en uitvoeren van een actieplan voor het implementeren van de verbredingsthema’s duurzame energie en energiezuinige productontwikkeling<sup>1.  De verbredingsthema’s zijn: – duurzame energie: bijvoorbeeld zon, wind, warmte, koude-warmte opslag, biomassa, – energiezuinige productontwikkeling: duurzame producten, optimalisatie van transport, logistiek en ketens, duurzame bedrijventerreinen </sup> bij minimaal 20% van de energie-  | – Stimuleren en implementeren van duurzaam ondernemen bij de inrichtingen die behoren tot een krachtens artikel 1.1, derde lid, van de Wet algemene bepalingen omgevingsrecht aangewezen categorie, waarvoor de provincie bevoegd gezag is via een actieplan.  | – De provincie is vooruitstrevend op het gebied van duurzaam ondernemen, bijvoorbeeld door provinciale pilotprojecten met een vernieuwend karakter, gebiedsgerichte uitwerking van  |
+| --- | extensieve inrichtingen die behoren tot een krachtens artikel 1.1, derde lid, van de Wet algemene bepalingen omgevingsrecht aangewezen categorie<sup>2 Onder energie-extensieve inrichtingen wordt verstaan de inrichtingen met een energiegebruik tussen 0,001 en 0,01 PJ en inrichtingen die niet meedoen met het Convenant Benchmarking energie-efficiency en de Meerjarenafspraken energie-efficiency. </sup>, waarvoor de provincie bevoegd gezag is.  – Organiseren en faciliteren van een actieplan van gemeenten en bedrijven voor energiedoorlichting- en, adviezen en invoering van maatregelen bij bedrijven, waarvoor de gemeente bevoegd gezag is.  | – Organiseren en faciliteren van een implementatieplan van duurzaam ondernemen bij grote bedrijven en Midden- en kleinbedrijf - ondernemingen waar gemeente bevoegd gezag is.  |  grootschalige energie-uitwisseling of verdergaande afspraken met het bedrijfsleven.  |
 | Bedrijventerreinen  | – Organiseren en faciliteren van een actieplan of projecten van gemeenten en bedrijfsleven om duurzame energiehuishouding op locatieniveau te implementeren op bedrijventerreinen (nieuw, bestaand en renovatie).  – Organiseren dat bij planvor-  | – Bijdrage leveren aan het realiseren van bedrijventerreinen met een duurzame energiehuishouding door faciliteren of organiseren van de procesbegeleiding of implementatie, bijv. door de inzet van deskundige menskracht of via afspraken.  | – Organiseren en faciliteren van het realiseren van de opzet en inrichting van een nul-energie bedrijventerrein door gemeenten en bedrijfsleven.  |
 | --- | ming en beoordeling van plannen voor de ontwikkeling of revitalisering van (duurzame) bedrijventerreinen duurzame energiehuishouding expliciet als ontwerp- en inrichtingscriterium worden meegenomen.  | – Bij het toetsen van ontwerp- en inrichtingsplannen en bestemmingsplannen die gericht zijn op de ontwikkeling of revitalisering van duurzame bedrijventerreinen duurzame energiehuishouding als criterium meenemen.  | --- |
 
@@ -248,9 +248,9 @@ P.L.B.A. van Geel
 |:---|:---|:---|:---|:---|:---|
 |  *Energie in de bouw*   | --- |
 | Nieuwbouw  (prioritair thema)  | – Implementeren en uitvoeren van een actieplan voor het op regionaal niveau organiseren en faciliteren van de uitvoering van nieuwbouwactiviteiten op het actieve niveau prestatiekaart door (met name kleinere) gemeenten.  | – Implementeren en faciliteren van een actieplan voor de uitvoering van projecten (van gemeenten, projectontwikkelaars, woningcorporaties) met een voorlopend niveau prestatiekaart gemeenten.  – Bij het toetsen van alle  | – Implementeren en faciliteren van een actieplan voor de uitvoering van projecten (van gemeenten, projectontwikkelaars, woningcorporaties) met een innovatief niveau prestatiekaart gemeenten.  |
-| --- | – In het vooroverleg [Wet ruimtelijke ordening](../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) principes energiebesparing en duurzame energie inbrengen.  |  bestemmingsplannen duurzame energiehuishouding als criterium meenemen.  | --- |
+| --- | – In het vooroverleg Wet ruimtelijke ordening principes energiebesparing en duurzame energie inbrengen.  |  bestemmingsplannen duurzame energiehuishouding als criterium meenemen.  | --- |
 | Bestaande bouw   (prioritair thema)  |  – Implementeren en uitvoeren van een actieplan voor het op regionaal niveau organiseren en faciliteren van de uitvoering van bestaande bouw activiteiten op het actieve niveau prestatiekaart   | – Implementeren en faciliteren van een actieplan voor de uitvoering van projecten (van gemeenten, projectontwikkelaars, woningcorporaties) met een voorlopend niveau prestatiekaart gemeenten.  – Bij het toetsen van alle   | – Implementeren en faciliteren van een actieplan voor de uitvoering van projecten (van gemeenten, projectontwikkelaars, woningcorporaties) met een innovatief niveau prestatiekaart gemeenten.  |
-| --- | door (met name kleinere) gemeenten.  – In het vooroverleg [Wet ruimtelijke ordening](../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) principes energiebesparing en duurzame energie inbrengen.  | bestemmingsplannen duurzame energiehuishouding als criterium meenemen.  | --- |
+| --- | door (met name kleinere) gemeenten.  – In het vooroverleg Wet ruimtelijke ordening principes energiebesparing en duurzame energie inbrengen.  | bestemmingsplannen duurzame energiehuishouding als criterium meenemen.  | --- |
 
 | Beleidsthema  | Ambitieniveau  |--- | Actief   | Voorlopend   | Innovatief   |
 |:---|:---|:---|:---|:---|:---|

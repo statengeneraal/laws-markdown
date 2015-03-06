@@ -5512,7 +5512,7 @@ Indien het aantal kalenderjaren tussen 1 januari 2015 en het moment waarop arti
 
 ####Overgangsbepaling scholingsuitgaven studiejaren tot en met het studiejaar 2014/2015
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 Artikel 6.28, zoals dat luidde op 30 juni 2015, blijft van toepassing op scholingsuitgaven die betrekking hebben op studiejaren tot en met het studiejaar 2014/2015. 
 

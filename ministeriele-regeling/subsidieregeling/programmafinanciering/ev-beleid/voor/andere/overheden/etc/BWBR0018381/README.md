@@ -3,7 +3,7 @@
 ##Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 2 juni 2005, nr. DGM/EV2005054032, houdende regels met betrekking tot verstrekking van subsidie aan provincies ten behoeve van het externe veiligheidsbeleid voor het tijdvak 2006 tot en met 2010 (Subsidieregeling programmafinanciering EV-beleid voor andere overheden 2006–2010)
 
 De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,
-Gelet op [artikel 15.13, eerste tot en met derde lid, van de Wet milieubeheer](../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);
+Gelet op artikel 15.13, eerste tot en met derde lid, van de Wet milieubeheer;
 Besluit:
 ###§ 1 
 
@@ -49,9 +49,9 @@ d.formulering van een structuurvisie voor het externe veiligheidsbeleid voor pro
 
 e.ruimtelijke ordening: toepassing van en rekening houden met grens-, richt- en oriëntatiewaarden op het gebied van externe veiligheid in bestemmingsplannen;
 
-f.uitvoering van het groepsrisicobeleid en verantwoording van het groepsrisico ingevolge de [artikelen 12](../../../../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md) en [13 van het Besluit externe veiligheid inrichtingen](../../../../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md);
+f.uitvoering van het groepsrisicobeleid en verantwoording van het groepsrisico ingevolge de artikelen 12 en 13 van het Besluit externe veiligheid inrichtingen;
 
-g.sanering: de voorbereiding van saneringen ingevolge de [artikelen 17](../../../../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md) en [18 van het Besluit externe veiligheid inrichtingen](../../../../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md) en de formulering van een saneringsprogramma ingevolge [artikel 19 van dat besluit](../../../../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md);
+g.sanering: de voorbereiding van saneringen ingevolge de artikelen 17 en 18 van het Besluit externe veiligheid inrichtingen en de formulering van een saneringsprogramma ingevolge artikel 19 van dat besluit;
 
 h.risicocommunicatie ten behoeve van burgers, en
 
@@ -192,15 +192,15 @@ De subsidie-ontvanger is verplicht:
 
 a. het provinciaal programma waarvoor subsidie is verleend, uit te voeren voor 31 december 2010;  
 
-b. het geactualiseerde overzicht van projecten en activiteiten in te dienen, waarvoor subsidie is verleend als bedoeld in [artikel 13, eerste lid, van het Besluit milieusubsidies](../../../../../../../../../AMvB/besluit/milieusubsidies/BWBR0010065/README.md);  
+b. het geactualiseerde overzicht van projecten en activiteiten in te dienen, waarvoor subsidie is verleend als bedoeld in artikel 13, eerste lid, van het Besluit milieusubsidies;  
 
 c. over de jaren 2006 en 2007 tweemaal per jaar een voortgangsverslag in te dienen, uiterlijk 1 september van het desbetreffende programmajaar het halfjaarverslag en uiterlijk 1 maart van het daaropvolgende jaar het jaarverslag;  
 
 d. in de jaren 2008, 2009 en 2010 eenmaal per jaar een jaarverslag in te dienen, uiterlijk 1 maart van het daaropvolgende jaar;  
 
-e. het eindverslag in te dienen omtrent het verloop, de uitvoering en de resultaten van het provinciaal programma, bedoeld in [artikel 14, tweede lid, onderdeel a, van het Besluit milieusubsidies](../../../../../../../../../AMvB/besluit/milieusubsidies/BWBR0010065/README.md), en  
+e. het eindverslag in te dienen omtrent het verloop, de uitvoering en de resultaten van het provinciaal programma, bedoeld in artikel 14, tweede lid, onderdeel a, van het Besluit milieusubsidies, en  
 
-f. het eindverslag, bedoeld in [onderdeel f, in afwijking van artikel 14, eerste lid, onderdeel a, van het Besluit milieusubsidies](../../../../../../../../../AMvB/besluit/milieusubsidies/BWBR0010065/README.md) binnen zes maanden na uitvoering van het provinciaal programma aan de minister te verstrekken.   
+f. het eindverslag, bedoeld in onderdeel f, in afwijking van artikel 14, eerste lid, onderdeel a, van het Besluit milieusubsidies binnen zes maanden na uitvoering van het provinciaal programma aan de minister te verstrekken.   
 
 ###§ 11 
 

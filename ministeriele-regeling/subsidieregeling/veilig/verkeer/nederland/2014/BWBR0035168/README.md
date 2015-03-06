@@ -3,18 +3,16 @@
 ##Regeling van de Minister van Infrastructuur en Milieu, van 3 juni 2014, nr. IENM/BSK-2014/90126, houdende vaststelling van de subsidieverstrekking aan de Vereniging Veilig Verkeer Nederland (Subsidieregeling Veilig Verkeer Nederland 2014)
 
 De Minister van Infrastructuur en Milieu,  
-Gelet op de [artikelen 2, aanhef en onder a](../../../../../../../wet/kaderwet/subsidies/verkeer/en/waterstaat/BWBR0009196/README.md), [3](../../../../../../../wet/kaderwet/subsidies/verkeer/en/waterstaat/BWBR0009196/README.md), [4](../../../../../../../wet/kaderwet/subsidies/verkeer/en/waterstaat/BWBR0009196/README.md), en [6 van de Kaderwet subsidies Verkeer en Waterstaat](../../../../../../../wet/kaderwet/subsidies/verkeer/en/waterstaat/BWBR0009196/README.md) en [4:59, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);
+Gelet op de artikelen 2, aanhef en onder a, 3, 4, en 6 van de Kaderwet subsidies Verkeer en Waterstaat en 4:59, eerste lid, van de Algemene wet bestuursrecht;
 Besluit:    
 
 ### Artikel  1  
 
 ####Begripsbepaling
 
-Treedt in werking per 01-07-2014 
-
 In deze regeling wordt verstaan onder: 
 
-*activiteitenplan:* activiteitenplan als bedoeld in [artikel 4:62 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);  
+*activiteitenplan:* activiteitenplan als bedoeld in artikel 4:62 van de Algemene wet bestuursrecht;  
 
 *programma:* samenhangend geheel van projecten;  
 
@@ -30,13 +28,11 @@ In deze regeling wordt verstaan onder:
 
 *Veilig Verkeer Nederland:* vereniging Veilig Verkeer Nederland, gevestigd te Amersfoort;  
 
-*wet:* [Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+*wet:* Algemene wet bestuursrecht.   
 
 ### Artikel  2  
 
 ####Doel van de subsidie
-
-Treedt in werking per 01-07-2014 
 
 1.  De minister kan op aanvraag per boekjaar een subsidie verstrekken aan Veilig Verkeer Nederland voor het uitvoeren van projecten en producten op het gebied van verkeersveiligheid, gericht op: 
 
@@ -49,23 +45,17 @@ b. gedragsbeïnvloeding van burgers.
 
 ####Toepassing wet
 
-Treedt in werking per 01-07-2014 
-
-[Afdeling 4.2.8 van de wet](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing. [Artikel 4:76 van de wet](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing. 
+Afdeling 4.2.8 van de wet is van toepassing. Artikel 4:76 van de wet is van overeenkomstige toepassing. 
 
 ### Artikel  4  
 
 ####Forfaitair uurtarief
-
-Treedt in werking per 01-07-2014 
 
 De minister berekent het forfaitair uurtarief op basis van de gemiddelde salarisschaal bij Veilig Verkeer Nederland en de gemiddelde overheadkosten, waarbij zoveel mogelijk wordt aangesloten bij de systematiek van de voor het betreffende kalenderjaar van toepassing zijnde Handleiding Overheidstarieven. Voor de berekening van het forfaitair uurtarief worden salarisschalen boven schaal 18 beschouwd worden als het maximum van schaal 18. 
 
 ### Artikel  5  
 
 ####Subsidieplafond en subsidiabele kosten
-
-Treedt in werking per 01-07-2014 
 
 1.  Het subsidieplafond bedraagt voor 2015 € 3.617.068,75 (prijspeil 2013).   
 2.  Voor de jaren na 2015 stelt de minister jaarlijks het subsidieplafond vast en doet hiervan mededeling in de Staatscourant uiterlijk op 1 april van het jaar voorafgaand aan het boekjaar waarvoor het subsidieplafond wordt vastgesteld.   
@@ -76,8 +66,6 @@ Treedt in werking per 01-07-2014
 
 ####Concept van een activiteitenplan
 
-Treedt in werking per 01-07-2014 
-
 1.  Uiterlijk op 1 juli van het jaar voorafgaand aan het boekjaar waarvoor subsidie wordt aangevraagd, zendt Veilig Verkeer Nederland aan de minister een concept van het activiteitenplan.   
 2.  Voor zover dit naar het oordeel van de minister noodzakelijk is, zendt Veilig Verkeer Nederland telkens uiterlijk op 1 september en 1 oktober een aangepast concept aan de minister waarin rekening is gehouden met de eerdere opmerkingen van de minister.  
 
@@ -85,14 +73,12 @@ Treedt in werking per 01-07-2014
 
 ####Aanvraag tot subsidieverlening
 
-Treedt in werking per 01-07-2014 
-
 1.  De aanvraag tot subsidieverlening wordt uiterlijk ingediend op 8 november van het jaar voorafgaand aan het boekjaar waarvoor subsidie wordt aangevraagd.   
-2.  Onverminderd [artikel 4:65 van de wet](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) gaat de aanvraag vergezeld van: 
+2.  Onverminderd artikel 4:65 van de wet gaat de aanvraag vergezeld van: 
 
 a. het activiteitenplan, dat in elk geval een overzicht biedt van de projecten en producten en waarbij de keuze van de projecten en producten is gebaseerd op de beleidsimpuls Verkeersveiligheid (2013);  
 
-b. de begroting, bedoeld in [artikel 4:63 van de wet](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);  
+b. de begroting, bedoeld in artikel 4:63 van de wet;  
 
 c. een rapport van feitelijke bevindingen van een accountant ten aanzien van de berekening van het voorgestelde forfaitair uurtarief waarbij minimaal het volgende wordt aangegeven: 
 
@@ -111,8 +97,6 @@ e. voor de subsidieaanvraag voor het boekjaar 2015: de omvang van de egalisatier
 ### Artikel  8  
 
 ####Beschikking tot subsidieverlening
-
-Treedt in werking per 01-07-2014 
 
 1.  De minister neemt de beschikking tot subsidieverlening binnen dertien weken na ontvangst van de aanvraag.   
 2.  In de beschikking worden vermeld: 
@@ -135,8 +119,6 @@ f. de inhoud van het controleprotocol.
 
 ####Compensatie voor de arbeidskostenontwikkeling
 
-Treedt in werking per 01-07-2014 
-
 1.  Zolang de subsidie niet is vastgesteld, kan de minister ambtshalve het maximale subsidiebedrag, genoemd in artikel 5, eerste lid, verhogen met een bedrag dat ten hoogste bedraagt het bedrag dat wordt verkregen door het bedrag van de looncomponent in de subsidie te indexeren met het percentage voor de arbeidskostenontwikkeling, genoemd in de desbetreffende loonbijstellingsbrief van het ministerie van Financiën met betrekking tot compensatie voor de arbeidskostenontwikkeling van instellingen in de g&g-sector (code 935).   
 2.  De beschikking, bedoeld in het eerste lid, vermeldt tevens het bedrag van de looncomponent in de subsidie voor het volgende boekjaar. Voor het boekjaar 2015 bedraagt de looncomponent € 2.319.038,85 (prijspeil 2013).  
 
@@ -144,23 +126,19 @@ Treedt in werking per 01-07-2014
 
 ####Weigeringsgronden
 
-Treedt in werking per 01-07-2014 
-
-Onverminderd [artikel 4:35 van de wet](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan de minister de subsidieverlening geheel of gedeeltelijk weigeren indien naar zijn oordeel: 
+Onverminderd artikel 4:35 van de wet kan de minister de subsidieverlening geheel of gedeeltelijk weigeren indien naar zijn oordeel: 
 
 a. in het activiteitenplan onvoldoende rekening is gehouden met de door hem over een concept-activiteitenplan gemaakte opmerkingen;  
 
 b. de aanvraag niet voldoet aan artikel 7;  
 
-c. er in voorgaande boekjaren ten aanzien van de subsidieverlening dan wel subsidievaststelling toepassing is gegeven aan de [artikelen 4:48](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [4:49](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [4:50 van de wet](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), of  
+c. er in voorgaande boekjaren ten aanzien van de subsidieverlening dan wel subsidievaststelling toepassing is gegeven aan de artikelen 4:48, 4:49 en 4:50 van de wet, of  
 
 d. projecten die qua aanbod geheel of gedeeltelijk overlap vertonen met die van TeamAlert.   
 
 ### Artikel  11  
 
 ####Voorschotverlening
-
-Treedt in werking per 01-07-2014 
 
 1.  De minister kan een beschikking tot bevoorschotting verlenen. Deze beschikking wordt ambtshalve gelijktijdig met de beschikking tot subsidieverlening gegeven.   
 2.  Het voorschot wordt uitgekeerd op basis van een bij de aanvraag tot subsidieverlening verstrekt overzicht van de liquiditeitenprognose waarin de liquiditeitsbehoefte per kalenderkwartaal wordt aangegeven.   
@@ -172,9 +150,7 @@ Treedt in werking per 01-07-2014
 
 ####Verplichtingen Veilig Verkeer Nederland
 
-Treedt in werking per 01-07-2014 
-
-1.  Onverminderd de [artikelen 4:68](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [4:69](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [4:70 van de wet](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) gelden de volgende verplichtingen voor Veilig Verkeer Nederland: 
+1.  Onverminderd de artikelen 4:68, 4:69 en 4:70 van de wet gelden de volgende verplichtingen voor Veilig Verkeer Nederland: 
 
 a. het afronden van de uitvoering van de projecten en producten waarvoor subsidie is verleend uiterlijk op het tijdstip dat daarvoor is aangegeven in de beschikking tot subsidieverlening;  
 
@@ -206,7 +182,7 @@ d. andere verplichtingen opleggen die hij noodzakelijk acht ter verwezenlijking 
 
 a. een gescheiden administratie van kosten en baten wordt gevoerd voor de gesubsidieerde projecten en producten enerzijds en de overige activiteiten anderzijds;  
 
-b. een onderzoek als bedoeld in [artikel 4:79, eerste lid, van de wet](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wordt uitgevoerd en dat dit onderzoek geschiedt met inachtneming van hetgeen daarover is bepaald in het controleprotocol, bedoeld in artikel 8, tweede lid, onder f;  
+b. een onderzoek als bedoeld in artikel 4:79, eerste lid, van de wet wordt uitgevoerd en dat dit onderzoek geschiedt met inachtneming van hetgeen daarover is bepaald in het controleprotocol, bedoeld in artikel 8, tweede lid, onder f;  
 
 c. geen indirecte staatssteun wordt verleend aan ondernemingen middels de subsidie, en  
 
@@ -215,8 +191,6 @@ d. Veilig Verkeer Nederland BV op generlei wijze werkzaamheden verricht voor doo
 ### Artikel  13  
 
 ####Strategische samenwerking met TeamAlert
-
-Treedt in werking per 01-07-2014 
 
 1.  Veilig Verkeer Nederland werkt ten behoeve van de uitvoering van de gesubsidieerde projecten strategisch samen met Team Alert. Deze samenwerking betreft: 
 
@@ -235,8 +209,6 @@ e. het verbeteren van de kwaliteit van medewerkers door kennisdeling en leren va
 
 ####Toestemming minister
 
-Treedt in werking per 01-07-2014 
-
 1.  Veilig Verkeer Nederland behoeft toestemming van de minister voor: 
 
 a. het oprichten van dan wel deelnemen in een rechtspersoon;  
@@ -250,26 +222,22 @@ c. het voor haarzelf doen van aangifte tot faillissement of het aanvragen van su
 
 ####Aanvraag tot subsidievaststelling
 
-Treedt in werking per 01-07-2014 
-
 1.  Veilig Verkeer Nederland dient de aanvraag tot subsidievaststelling in binnen 26 weken volgend op het boekjaar waarvoor de subsidie is verleend.   
 2.  De aanvraag gaat in elk geval vergezeld van: 
 
-a. een activiteitenverslag dat tevens voldoet aan [artikel 4:80 van de wet](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), waarin tevens inzichtelijk wordt gemaakt de relatie tussen subsidie, inspanning en effecten;  
+a. een activiteitenverslag dat tevens voldoet aan artikel 4:80 van de wet, waarin tevens inzichtelijk wordt gemaakt de relatie tussen subsidie, inspanning en effecten;  
 
-b. een financieel verslag dat tevens voldoet aan [4:76 van de wet](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);  
+b. een financieel verslag dat tevens voldoet aan 4:76 van de wet;  
 
 c. de stand van zaken van de projecten en producten en de tijdstippen waarop deze zijn afgerond, het gerealiseerde aantal uren per project met onderbouwing en de gerealiseerde kosten derden per project met onderbouwing;  
 
-d. een verklaring van een accountant als bedoeld in [artikel 4:78, derde lid, van de wet](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), en  
+d. een verklaring van een accountant als bedoeld in artikel 4:78, derde lid, van de wet, en  
 
-e. een verklaring van een accountant als bedoeld in [artikel 4:79, derde lid, van de wet](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).    
+e. een verklaring van een accountant als bedoeld in artikel 4:79, derde lid, van de wet.    
 
 ### Artikel  16  
 
 ####Beschikking tot subsidievaststelling
-
-Treedt in werking per 01-07-2014 
 
 1.  De minister neemt de beschikking tot subsidievaststelling binnen 22 weken na ontvangst van de aanvraag.   
 2.  De minister kan de subsidie ambtshalve vaststellen indien Veilig Verkeer Nederland niet tijdig de aanvraag tot vaststelling heeft ingediend.  
@@ -278,15 +246,11 @@ Treedt in werking per 01-07-2014
 
 ####Toezicht
 
-Treedt in werking per 01-07-2014 
-
 Met het toezicht op de naleving van de aan de subsidie verbonden verplichtingen zijn belast de directeur en medewerkers van de Auditdienst Rijk van het ministerie van Financiën en andere bij besluit van de minister aangewezen personen. 
 
 ### Artikel  18  
 
 ####Inwerkingtreding
-
-Treedt in werking per 01-07-2014 
 
 1.  Deze regeling treedt in werking met ingang van 1 juli 2014.   
 2.  Deze regeling vervalt met ingang van 1 januari 2019, met dien verstande dat zij van toepassing blijft op de subsidies die voor die datum zijn verleend.  
@@ -294,8 +258,6 @@ Treedt in werking per 01-07-2014
 ### Artikel  19  
 
 ####Citeertitel
-
-Treedt in werking per 01-07-2014 
 
 Deze regeling wordt aangehaald als: Subsidieregeling Veilig Verkeer Nederland 2014. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  

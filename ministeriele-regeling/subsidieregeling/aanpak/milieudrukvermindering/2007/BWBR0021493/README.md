@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 9 maart 2007, nr. SAS2007015288, houdende regels met betrekking tot subsidies aan gemeenten om hen te stimuleren tot het verminderen van milieudruk door het bevorderen van preventie en scheiding van huishoudelijke afvalstoffen (Subsidieregeling aanpak milieudrukvermindering 2007)
 
 De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,  
-Gelet op [artikel 15.13, eerste tot en met derde lid, van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);
+Gelet op artikel 15.13, eerste tot en met derde lid, van de Wet milieubeheer;
 Besluit:    
 
 ### Artikel  1  
@@ -12,7 +12,7 @@ Besluit:
 
 1.  In deze regeling wordt verstaan onder: 
 
-a. samenwerkingsverband: verband van twee of meer Nederlandse gemeenten die aan de hand van een regeling als bedoeld in [artikel 1 van de Wet gemeenschappelijke regelingen](../../../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md), dan wel van een schriftelijke verklaring, kunnen aantonen dat zij samenwerken bij het uitvoeren van projecten als bedoeld in deze regeling;  
+a. samenwerkingsverband: verband van twee of meer Nederlandse gemeenten die aan de hand van een regeling als bedoeld in artikel 1 van de Wet gemeenschappelijke regelingen, dan wel van een schriftelijke verklaring, kunnen aantonen dat zij samenwerken bij het uitvoeren van projecten als bedoeld in deze regeling;  
 
 b. stadsdeel: deel van een Nederlandse gemeente dat bevoegd is tot het zelfstandig voeren van beleid met betrekking tot onderwerpen als bedoeld in deze regeling;  
 
@@ -145,7 +145,7 @@ De subsidie voor een plusproject bedraagt 50% van de subsidiabele kosten met een
 
 ####Verplichtingen van de subsidieontvanger
 
-De subsidieontvanger is verplicht een geactualiseerd overzicht van activiteiten als bedoeld in [artikel 13, eerste lid, onderdeel a, van het Besluit milieusubsidies](../../../../../../AMvB/besluit/milieusubsidies/BWBR0010065/README.md) elk jaar aan SenterNovem te verstrekken overeenkomstig een door SenterNovem vastgesteld model. 
+De subsidieontvanger is verplicht een geactualiseerd overzicht van activiteiten als bedoeld in artikel 13, eerste lid, onderdeel a, van het Besluit milieusubsidies elk jaar aan SenterNovem te verstrekken overeenkomstig een door SenterNovem vastgesteld model. 
 
 ### Artikel  9  
 
@@ -160,13 +160,13 @@ Het subsidieplafond voor het kalenderjaar 2007 bedraagt € 1.500.000,–.
 1.  Een aanvraag tot subsidieverlening voor een project als bedoeld in deze regeling wordt ingediend door een Nederlandse gemeente dan wel een Nederlands stadsdeel of samenwerkingsverband.   
 2.  Een aanvraag tot subsidieverlening wordt ingediend bij SenterNovem, met gebruikmaking van een aldaar verkrijgbaar formulier.   
 3.  Een aanvraag tot subsidieverlening wordt voor 6 oktober 2007 ontvangen.   
-4.  Bij de subsidieverlening wordt beslist in volgorde van ontvangst van de aanvragen, met inachtneming van het vijfde lid, met dien verstande dat, wanneer de aanvrager tot subsidieverlening krachtens [artikel 4.5 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) de gelegenheid heeft gehad de aanvraag aan te vullen, de dag waarop de aanvulling is ontvangen, als datum van ontvangst van de aanvraag geldt.   
+4.  Bij de subsidieverlening wordt beslist in volgorde van ontvangst van de aanvragen, met inachtneming van het vijfde lid, met dien verstande dat, wanneer de aanvrager tot subsidieverlening krachtens artikel 4.5 van de Algemene wet bestuursrecht de gelegenheid heeft gehad de aanvraag aan te vullen, de dag waarop de aanvulling is ontvangen, als datum van ontvangst van de aanvraag geldt.   
 5.  Voor zover door verstrekking van subsidie voor aanvragen, die op dezelfde dag zijn ontvangen, het subsidieplafond, genoemd in artikel 9, wordt overschreden, wordt de onderlinge rangschikking van de aanvragen vastgesteld door middel van loting.   
-6.  Een aanvraag tot subsidievaststelling wordt in het jaar na voltooiing van het project ingediend door aan Onze Minister de verantwoordingsinformatie te verstrekken op de wijze, bedoeld in [artikel 27 van het Besluit financiële verhouding 2001](../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md). 
+6.  Een aanvraag tot subsidievaststelling wordt in het jaar na voltooiing van het project ingediend door aan Onze Minister de verantwoordingsinformatie te verstrekken op de wijze, bedoeld in artikel 27 van het Besluit financiële verhouding 2001. 
 
 ### Artikel  11  
 
-1.  De [Subsidieregeling aanpak milieudrukvermindering 2006](../../../../../../ministeriele-regeling/subsidieregeling/aanpak/milieudrukvermindering/2006/BWBR0019855/README.md) wordt ingetrokken.   
+1.  De Subsidieregeling aanpak milieudrukvermindering 2006 wordt ingetrokken.   
 2.  De in het eerste lid genoemde regeling, zoals ze luidde voor het tijdstip waarop deze regeling in werking is getreden, blijft van toepassing op subsidies voor projecten die vóór dat tijdstip op grond van die regeling zijn aangevraagd.  
 
 ### Artikel  12  

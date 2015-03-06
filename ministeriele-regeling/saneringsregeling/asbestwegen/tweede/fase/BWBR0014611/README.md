@@ -3,7 +3,7 @@
 ##Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 21 januari 2003, nr. DGM/SAS/2003000830, houdende vaststelling van regels met betrekking tot de sanering van wegen in de omgeving van de gemeenten Hof van Twente en Harderwijk, waarin asbestbevattend materiaal is verwerkt 
 
 De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,  
-Gelet op [artikel 15.13, eerste en tweede lid, van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);
+Gelet op artikel 15.13, eerste en tweede lid, van de Wet milieubeheer;
 Besluit:      
 ### § 1  
 
@@ -12,7 +12,7 @@ Besluit:
 ### Artikel  1  
 
 1.  In deze regeling wordt verstaan onder: a. weg:   weg, pad, erfverharding of gedeelte daarvan, alsmede andere grond die bestemd is om door rij- of ander verkeer te worden gebruikt, uitgezonderd aangrenzende bermen;  b. stroken:   gedeelten van de aan een weg grenzende bermen met een breedte van ten hoogste een halve meter;  c. asbestbevattende weg:   weg waarin de concentratie serpentijnasbest, vermeerderd met tien maal de concentratie amfiboolasbest, beide bepaald volgens NEN 5897, uitgave februari 1999, meer is dan honderd milligram per kilogram;  d. asbestbevattende stroken:   stroken waarin de concentratie serpentijnasbest, vermeerderd met tien maal de concentratie amfiboolasbest, beide bepaald volgens NEN 5897, uitgave februari 1999, meer is dan honderd milligram per kilogram;  e. Eternit:   Eternit Fabrieken B.V., Eternit B.V. of Eternit Holding B.V., te Hof van Twente;  f. Asbestona:   Martinit B.V. te Hof van Twente;  g. eigenaar:   eigenaar of degene die uit anderen hoofde bevoegd is handelingen te verrichten aan een asbestbevattende weg of aan asbestbevattende stroken;  h. de minister:   de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.     
-2.  Onder asbest, serpentijnasbest en amfiboolasbest wordt verstaan hetgeen daaronder wordt verstaan in het [Besluit asbestwegen milieubeheer](../../../../../../AMvB/besluit/asbestwegen/wms/BWBR0011619/README.md).   
+2.  Onder asbest, serpentijnasbest en amfiboolasbest wordt verstaan hetgeen daaronder wordt verstaan in het Besluit asbestwegen milieubeheer.   
 
 ### Artikel  2  
 
@@ -31,7 +31,7 @@ e.  wegen en stroken, waarop na 1 juli 1993 asbest is aangebracht;
 
 f.  wegen en stroken, waarop asbestbevattende afvalstoffen zijn aangebracht die niet rechtstreeks afkomstig zijn van Asbestona of Eternit; 
 
-g.  wegen en stroken, waarvoor krachtens de [Saneringsregeling asbestwegen Twente](../../../../../../ministeriele-regeling/saneringsregeling/overige/asbestwegen/BWBR0011209/README.md), de [Saneringsregeling overige asbestwegen](../../../../../../ministeriele-regeling/saneringsregeling/overige/asbestwegen/BWBR0011209/README.md) of de Saneringsregeling asbestwegen Haaksbergen een maatregel is toegekend.    
+g.  wegen en stroken, waarvoor krachtens de Saneringsregeling asbestwegen Twente, de Saneringsregeling overige asbestwegen of de Saneringsregeling asbestwegen Haaksbergen een maatregel is toegekend.    
 3.  Deze regeling is voorts van toepassing op wegen en stroken, gelegen buiten een straal van twaalf kilometer rond de voormalige gemeente Goor of buiten een straal van twaalf kilometer rond de gemeente Harderwijk, te rekenen vanaf de gemeentegrenzen, voorzover er gegronde reden bestaat om aan te nemen dat die wegen en stroken niet zijn aan te merken als wegen en stroken, als bedoeld in het tweede lid, onder d, e en f.   
 
 ### § 2  
@@ -73,7 +73,7 @@ De minister kan aan de beschikking op een aanvraag als bedoeld in artikel 3 nade
 
 De minister draagt er zorg voor dat: 
 
-a.  het verwijderen van asbest uit een asbestbevattende weg of asbestbevattende stroken plaatsvindt door een deskundig bedrijf, bedoeld in [artikel 1, onder c, van het Asbestverwijderingsbesluit](../../../../../../AMvB/asbest-verwijderingsbesluit/BWBR0006006/README.md); 
+a.  het verwijderen van asbest uit een asbestbevattende weg of asbestbevattende stroken plaatsvindt door een deskundig bedrijf, bedoeld in artikel 1, onder c, van het Asbestverwijderingsbesluit; 
 
 b.  de handelingen, bedoeld in artikel 3, worden verricht overeenkomstig de bij of krachtens de wet gegeven regels.   
 
@@ -92,7 +92,7 @@ Zolang de handelingen waarvoor een beschikking op de aanvraag is gegeven, nog ni
 
 1.  Een eigenaar van een weg kan een aanvraag als bedoeld in artikel 3 slechts indienen voor één van de in artikel 3, onder a en b, genoemde handelingen, met dien verstande dat een aanvraag voor een handeling als bedoeld in artikel 3, onder b, zowel betrekking kan hebben op het uit een asbestbevattende weg doen verwijderen van asbest als op het op die weg vervolgens zand of menggranulaat doen aanbrengen.   
 2.  Indien een aanvraag als bedoeld in het eerste lid wordt afgewezen omdat de aanvraag betrekking heeft op een weg als bedoeld in artikel 2, tweede lid, onder c, stelt de minister in afwijking van het eerste lid de betrokken eigenaar in de gelegenheid binnen vier weken een aanvraag voor één van de andere in artikel 3, onder a en b, genoemde handelingen in te dienen.   
-3.  Indien een aanvraag als bedoeld in het eerste lid wordt afgewezen omdat het doen verrichten van de handeling waarop de aanvraag betrekking heeft, in strijd zou zijn met het ter plaatse geldende bestemmingsplan of de krachtens dat plan gestelde eisen, of voor het doen verrichten van die handeling een aanlegvergunning als bedoeld in [artikel 3.3, onder a, van de Wet ruimtelijke ordening](../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) niet wordt verleend, stelt de minister in afwijking van het eerste lid de betrokken eigenaar in de gelegenheid binnen vier weken een aanvraag voor één van de andere in artikel 3, onder a en b, genoemde handelingen in te dienen.   
+3.  Indien een aanvraag als bedoeld in het eerste lid wordt afgewezen omdat het doen verrichten van de handeling waarop de aanvraag betrekking heeft, in strijd zou zijn met het ter plaatse geldende bestemmingsplan of de krachtens dat plan gestelde eisen, of voor het doen verrichten van die handeling een aanlegvergunning als bedoeld in artikel 3.3, onder a, van de Wet ruimtelijke ordening niet wordt verleend, stelt de minister in afwijking van het eerste lid de betrokken eigenaar in de gelegenheid binnen vier weken een aanvraag voor één van de andere in artikel 3, onder a en b, genoemde handelingen in te dienen.   
 4.  De termijn, bedoeld in het tweede en derde lid, vangt aan met ingang van de dag na die waarop de desbetreffende beschikking op de voorgeschreven wijze is bekendgemaakt.   
 
 ###Artikel 10 

@@ -3,9 +3,9 @@
 ##Verordening van het Productschap Pluimvee en Eieren van 21 oktober 2004, houdende vaststelling van algemene bepalingen ten aanzien van vaststelling, oplegging en inning van heffingen in de pluimveesector (Verordening algemene bepalingen heffingen (PPE) 2005)
 
 Het bestuur van het Productschap Pluimvee en Eieren;
-Gelet op de [artikelen 93](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [104](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [126](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [127 van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [artikel 6](../../../../../../../../AMvB/instellingsbesluit/productschap/pluimvee/en/eieren/BWBR0016490/README.md) en [7 van het Instellingsbesluit Productschap Pluimvee en Eieren](../../../../../../../../AMvB/instellingsbesluit/productschap/pluimvee/en/eieren/BWBR0016490/README.md);
+Gelet op de artikelen 93, 95, 104, 126 en 127 van de Wet op de bedrijfsorganisatie en artikel 6 en 7 van het Instellingsbesluit Productschap Pluimvee en Eieren;
 
-Gezien de [Wet tuchtrechtspraak bedrijfsorganisatie 2004](../../../../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md);
+Gezien de Wet tuchtrechtspraak bedrijfsorganisatie 2004;
 Besluit:
 ###1 
 
@@ -27,7 +27,7 @@ In deze verordening en in de door het bestuur vastgestelde heffingsverordeningen
 | 8.  | Consument  | :  | degene die eieren koopt uitsluitend bestemd voor en in overeenstemming met zijn/haar persoonlijke behoefte;  |
 | 9.  | KIP  | :  | Koppel Informatiesysteem Pluimvee;  |
 | 10.  | M.g.  | :  | Mycoplasma gallisepticum;  |
-| 11.  | Landbouwtelling  | :  | Regeling Landbouwtelling ingevolge de [artikelen 24](../../../../../../../../wet/landbouwwet/BWBR0002252/README.md) en [25 van de Landbouwwet](../../../../../../../../wet/landbouwwet/BWBR0002252/README.md) ( St. 1958, 257)  |
+| 11.  | Landbouwtelling  | :  | Regeling Landbouwtelling ingevolge de artikelen 24 en 25 van de Landbouwwet ( St. 1958, 257)  |
 | --- |  *reproductie*   | --- | --- |
 | 12.  | Broedeieren  | :  | eieren van pluimvee, die zich ter verkrijging van kuikens in een broedmachine bevinden, dan wel kennelijk bestemd zijn om voor dit doel in een broedmachine te worden ingelegd;  |
 |13. |Vaccinbroedeieren |: | eieren van pluimvee die zich in een broedmachine bevinden om te worden afgeleverd aan de farmaceutische industrie, dan wel kennelijk bestemd zijn om voor dit doel in een broedmachine te worden ingelegd; |
@@ -158,7 +158,7 @@ c.aan de door het bestuur aangewezen dienst of aan de door het bestuur aangeweze
 
 ### Artikel  11  
 
-Op overtreding van het bij of krachtens de artikelen 4, eerste, tweede en vierde lid, 5, tweede en vierde lid, 6 en 10, tweede lid, bepaalde worden tuchtrechtelijke maatregelen gesteld zoals voorzien in de [Wet tuchtrechtspraak bedrijfsorganisatie 2004](../../../../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md).
+Op overtreding van het bij of krachtens de artikelen 4, eerste, tweede en vierde lid, 5, tweede en vierde lid, 6 en 10, tweede lid, bepaalde worden tuchtrechtelijke maatregelen gesteld zoals voorzien in de Wet tuchtrechtspraak bedrijfsorganisatie 2004.
 
 ###10 
 

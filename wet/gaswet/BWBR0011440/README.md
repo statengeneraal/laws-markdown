@@ -118,7 +118,7 @@ an.  directe lijn: een of meer leidingen voor het transport van gas, behoudens v
 
 1°. niet is verbonden met een gastransportnet of een andere leiding voor het transport van gas en die een geïsoleerde productie-installatie van een producent rechtstreeks verbindt met een geïsoleerde verbruiker van gas, niet zijnde de producent, of  
 
-2°. ten hoogste via de installatie van één aangeslotene op de leiding is verbonden met een gastransportnet of een andere leiding voor het transport van gas en die een productie-installatie van een producent met tussenkomst van een leverancier rechtstreeks verbindt met één of meer verbruikers van gas, niet zijnde de producent of in hoofdzaak huishoudelijke verbruikers, teneinde te voorzien in de gasbehoefte van deze verbruikers;.    
+2°. ten hoogste via de installatie van één aangeslotene op de leiding is verbonden met een gastransportnet of een andere leiding voor het transport van gas en die een productie-installatie van een producent met tussenkomst van een leverancier rechtstreeks verbindt met één of meer verbruikers van gas, niet zijnde de producent of in hoofdzaak huishoudelijke verbruikers, teneinde te voorzien in de gasbehoefte van deze verbruikers;    
 
 ao. hernieuwbare energiebronnen: hernieuwbare energiebronnen als bedoeld in artikel 2 van de richtlijn 2009/28/EG van het Europees Parlement en de Raad van 23 april 2009 ter bevordering van het gebruik van energie uit hernieuwbare bronnen en houdende wijziging en intrekking van Richtlijn 2001/77/EG en Richtlijn 2003/30/EG (Pb EU 2009, L 140); 
 
@@ -128,11 +128,17 @@ aq. marktdeelnemer: een marktdeelnemer als bedoeld in artikel 2, zevende lid, va
 
 ar. Autoriteit Financiële Markten: de Autoriteit Financiële Markten, genoemd in artikel 1:1 van de Wet op het financieel toezicht; 
 
-bb. verordening 994/2010: verordening (EU) nr. 994/2010 van het Europees Parlement en de Raad van 20 oktober 2010 betreffende maatregelen tot veiligstelling van de gaslevering en houdende intrekking van Richtlijn 2004/67/EG (PbEU 2010, L 295); 
+as.  *gas uit hernieuwbare energiebronnen:* een stof die is opgewekt in een productie-installatie die uitsluitend gebruik maakt van hernieuwbare energiebronnen of is opgewekt met hernieuwbare energiebronnen in een hybride productie-installatie die ook gebruik maakt van fossiele energiebronnen;  
+
+at.  *garantie van oorsprong voor gas uit hernieuwbare energiebronnen:* gegevens op een rekening die betrekking hebben gas uit hernieuwbare energiebronnen en waarmee wordt aangetoond dat een producent met zijn installatie een hoeveelheid gas uit hernieuwbare energiebronnen heeft opgewekt;  
+
+au.  *productiemeetgegevens:* de gegevens betreffende de hoeveelheid gas uit hernieuwbare energiebronnen die door een producent wordt ingevoed op een gastransportnet; 
 
 av.  bindende gedragslijn: een zelfstandige last die niet wegens een overtreding wordt opgelegd;  
 
-aw.  zelfstandige last: de enkele last tot het verrichten van bepaalde handelingen, bedoeld in artikel 5:2, tweede lid, van de Algemene wet bestuursrecht, ter bevordering van de naleving van wettelijke voorschriften.    
+aw.  zelfstandige last: de enkele last tot het verrichten van bepaalde handelingen, bedoeld in artikel 5:2, tweede lid, van de Algemene wet bestuursrecht, ter bevordering van de naleving van wettelijke voorschriften. 
+
+bb. verordening 994/2010: verordening (EU) nr. 994/2010 van het Europees Parlement en de Raad van 20 oktober 2010 betreffende maatregelen tot veiligstelling van de gaslevering en houdende intrekking van Richtlijn 2004/67/EG (PbEU 2010, L 295);    
 2.  Bij algemene maatregel van bestuur kan deze wet geheel of gedeeltelijk van toepassing worden verklaard op andere gasvormige stoffen dan de stof, bedoeld in het eerste lid, onderdeel b.   
 3.  Deze wet en de daarop berustende bepalingen zijn mede van toepassing op gasopslaginstallaties, LNG-installaties en landsgrensoverschrijdende gastransportnetten die zijn gelegen binnen de Nederlandse exclusieve economische zone of op het continentaal plat. 
 
@@ -528,15 +534,21 @@ d. onverminderd artikel 54a, gas te weren dat niet voldoet aan de invoedspecific
 
 a. ervoor zorg te dragen dat een afnemer als bedoeld in artikel 43, eerste lid, voor elke aansluiting beschikt over een geïnstalleerde meetinrichting, tenzij die afnemer blijkens de voorwaarden, bedoeld in artikel 12b, eerste lid, onderdelen a of b, beschikt over een onbemeten aansluiting;  
 
-b. zorg te dragen voor het beheer en onderhoud van de bij een afnemer als bedoeld in artikel 43, eerste lid, geïnstalleerde meetinrichting.    
+b. zorg te dragen voor het beheer en onderhoud van de bij een afnemer als bedoeld in artikel 43, eerste lid, geïnstalleerde meetinrichting;  
+
+c. op verzoek van een producent vast te stellen of diens productie-installatie geschikt is voor de opwekking van gas uit hernieuwbare energiebronnen, alsmede of de inrichting om te meten geschikt is voor de meting van het gas uit hernieuwbare energiebronnen dat met de productie-installatie wordt opgewekt en op een gastransportnet ingevoed;  
+
+d. de hoeveelheid gas uit hernieuwbare energiebronnen te meten.   
 6.  Een netbeheerder heeft, in aanvulling op de in het eerste, derde en vijfde lid genoemde taken, in het voor hem krachtens artikel 12f vastgestelde gebied tevens tot taak om: 
 
 a. een ieder die verzoekt om een aansluiting die een doorlaatwaarde heeft van ten hoogste 40 m<sup>3</sup>(n) per uur te voorzien van deze aansluiting;  
 
 b. een ieder die verzoekt om een aansluitpunt ten behoeve van een aansluiting die een doorlaatwaarde heeft groter dan 40 m<sup>3</sup>(n) per uur te voorzien van een aansluitpunt op het dichtstbijzijnde punt van het gastransportnet met een voor die aansluiting geschikte druk en voldoende capaciteit.     
-7.  Het is anderen dan de desbetreffende netbeheerder verboden een taak uit te voeren als bedoeld in het vijfde en zesde lid.  
+7.  Het is anderen dan de desbetreffende netbeheerder verboden een taak uit te voeren als bedoeld in het vijfde en zesde lid, behoudens voor zover het betreft het meten van gas, bedoeld in het vijfde lid, onderdeel c.  
 8.  Onverminderd artikel 37, eerste lid, maakt de netbeheerder van het landelijk gastransportnet, een gasopslagbedrijf of een LNG-bedrijf informatie die nodig is voor doeltreffende mededinging en een efficiënte werking van de markt openbaar.  
-9.  Een netbeheerder heeft tot taak zijn gastransportnet te beschermen tegen mogelijke invloeden van buitenaf. 
+9.  Een netbeheerder heeft tot taak zijn gastransportnet te beschermen tegen mogelijke invloeden van buitenaf.  
+10.  Degene, niet zijnde een netbeheerder, die bij een afnemer de meting van op het gastransportnet ingevoed gas uit hernieuwbare bronnen verricht, deelt de verkregen productiemeetgegevens mee aan de betreffende afnemer en aan de netbeheerder op wiens gastransport net de producent is aangesloten.   
+11.  De netbeheerder deelt de productiemeetgegevens, bedoeld in het vijfde lid, onderdeel c, en het tiende lid, mee aan Onze Minister, alsmede aan de desbetreffende producent voor zover die nog niet de beschikking heeft over die informatie. 
 
 ### Artikel  10a  
 
@@ -882,29 +894,7 @@ c. deze gegevens op basis van het tweede tot en met vijfde lid verstrekt worden.
 1. Een netbeheerder brengt op verzoek van een leverancier wijzigingen aan in de besturings- en toepassingsprogramma’s van meetinrichtingen die ter beschikking zijn gesteld aan afnemers als bedoeld in artikel 43, eerste lid, van de betreffende leverancier, tenzij een meetinrichting door inwilliging van het verzoek niet langer zou voldoen aan de voor die meetinrichting gestelde eisen of op andere wijze afbreuk gedaan zou worden aan de integriteit van de meetinrichting.  
 2.  Een netbeheerder leest meetgegevens van een afnemer als bedoeld in artikel 43, eerste lid, die beschikt over een geïnstalleerde meetinrichting die ten minste voldoet aan de krachtens artikel 42a, eerste lid, gestelde eisen, niet op afstand uit indien de afnemer hierom verzoekt. 
 
-### Artikel  13d  
-
-1.  Een netbeheerder heeft in het kader van het beheer van zijn netten tot taak ervoor zorg te dragen dat een afnemer als bedoeld in artikel 43, eerste lid, binnen een redelijke termijn een meetinrichting ter beschikking wordt gesteld die ten minste voldoet aan de krachtens artikel 42a, eerste lid, gestelde eisen, wanneer: 
-
-a. de afnemer hierom vraagt, tenzij het ter beschikking stellen technisch onmogelijk is, financieel niet redelijk is of dit niet in verhouding staat tot de potentiële energiebesparingen;  
-
-b. een bestaande meetinrichting wordt vervangen, tenzij het ter beschikking stellen technisch onmogelijk is of niet kostenefficiënt is in verhouding tot de geraamde potentiële energiebesparingen op lange termijn;  
-
-c. een nieuwe aansluiting wordt gemaakt in een nieuw gebouw;  
-
-d. een gebouw ingrijpend wordt gerenoveerd.     
-2.  Bij algemene maatregel van bestuur kunnen in aanvulling op het eerste lid andere situaties worden bepaald waarin een netbeheerder tot taak heeft ervoor zorg te dragen dat een afnemer als bedoeld in artikel 43, eerste lid, binnen een redelijke termijn een meetinrichting ter beschikking wordt gesteld die ten minste voldoet aan de krachtens artikel 42a, eerste lid, gestelde eisen.   
-3.  In aanvulling op het eerste en tweede lid kan een netbeheerder ervoor zorg dragen dat een afnemer een meetinrichting ter beschikking wordt gesteld die ten minste voldoet aan de krachtens artikel 42a, eerste lid, gestelde eisen.   
-4.  Indien een meetinrichting door de netbeheerder ter beschikking is gesteld ingevolge het eerste lid, onderdeel a of het tweede lid en deze meetinrichting is geïnstalleerd, is de desbetreffende afnemer aan de desbetreffende netbeheerder een vergoeding verschuldigd in verband met de meerkosten.   
-5.  Bij ministeriële regeling wordt de hoogte van de vergoeding vastgesteld die voor verschillende situaties verschillend kan worden vastgesteld.   
-6.  Een ander dan een netbeheerder kan op verzoek van een afnemer als bedoeld in artikel 43, eerste lid, er na voorafgaande melding aan de betreffende netbeheerder voor zorgdragen dat die afnemer voor een of meer aansluitingen beschikt over een geïnstalleerde meetinrichting die ten minste voldoet aan de krachtens artikel 42a, eerste lid, gestelde eisen.   
-7.  Indien een ander dan een netbeheerder er zorg voor draagt dat een afnemer als bedoeld in artikel 43, eerste lid, beschikt over een meetinrichting die ten minste voldoet aan de krachtens artikel 42a gestelde eisen, betaalt de betreffende netbeheerder aan die ander een overnamevergoeding.   
-8.  Dit lid is nog niet in werking getreden.   
-9.  Het is anderen dan de netbeheerder niet toegestaan bij afnemers als bedoeld in artikel 43, eerste lid, geïnstalleerde, op afstand uitleesbare meetinrichtingen te vervangen die zijn geïnstalleerd na 31 december 2005.   
-10.  Indien een op afstand uitleesbare meetinrichting door de netbeheerder ter beschikking wordt gesteld, kan een afnemer als bedoeld in artikel 43, eerste lid, deze meetinrichting weigeren. In dat geval wordt door de netbeheerder een niet op afstand uitleesbare meetinrichting ter beschikking gesteld.  
-
 ### Artikel  13e  
-Treedt in werking per 01-01-2015 
 
 1.  Een netbeheerder heeft in het kader van het beheer van zijn netten tot taak ervoor zorg te dragen dat in een bij algemene maatregel van bestuur te bepalen periode, een bij algemene maatregel van bestuur te bepalen percentage afnemers als bedoeld in artikel 43, eerste lid, de beschikking krijgt over een geïnstalleerde meetinrichting die ten minste voldoet aan de krachtens artikel 42a, eerste lid, gestelde eisen, tenzij die afnemer blijkens de voorwaarden, bedoeld in artikel 12b, eerste lid, onderdelen a of b, beschikt over een onbemeten aansluiting.   
 2.  In aanvulling op het eerste lid heeft een netbeheerder tot taak ervoor zorg te dragen dat een afnemer als bedoeld in artikel 43, eerste lid, binnen een redelijke termijn een meetinrichting ter beschikking wordt gesteld die ten minste voldoet aan de krachtens artikel 42a gestelde eisen, wanneer: 
@@ -1759,27 +1749,21 @@ c. is het de koper van gas niet toegestaan tarieven en voorwaarden te hanteren w
 
 ####Garanties van oorsprong
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  66i  
-Treedt in werking per 01-01-2015 
 
 1.  Onze Minister is belast met het uitgeven en innemen via een elektronisch systeem van garanties van oorsprong voor gas uit hernieuwbare bronnen.   
 2.  Onze Minister opent op aanvraag van een in Nederland gevestigde producent, leverancier, handelaar of afnemer een rekening. Bij deze aanvraag overlegt de producent het resultaat van de vaststelling, bedoeld in artikel 10, vijfde lid, onderdeel c.   
 3.  Onze Minister boekt op aanvraag garanties van oorsprong voor gas uit hernieuwbare bronnen op een daarbij aangegeven rekening, indien een in Nederland gevestigde producent bij deze aanvraag de gegevens omtrent de door de netbeheerder of door een andere tot meten bevoegde instantie gemeten hoeveelheid gas uit hernieuwbare energiebronnen overlegt.  
 
 ### Artikel  66j  
-Treedt in werking per 01-01-2015 
 
 Onze Minister kan de taken, bedoeld in artikel 66i, mandateren aan een niet-ondergeschikte die onafhankelijk is van producenten, leveranciers en handelaren. 
 
 ### Artikel  66k  
-Treedt in werking per 01-01-2015 
 
 Een garantie van oorsprong voor gas uit hernieuwbare bronnen toont bij uitsluiting aan dat de daarop aangegeven hoeveelheid gas is opgewekt uit hernieuwbare bronnen. 
 
 ### Artikel  66l  
-Treedt in werking per 01-01-2015 
 
 1.  Onze Minister stelt bij ministeriële regeling de tarieven vast voor kosten die gepaard gaan met handelingen met betrekking tot garanties van oorsprong voor gas uit hernieuwbare bronnen.   
 2.  Onze Minister stelt bij ministeriële regeling regels met betrekking tot: 

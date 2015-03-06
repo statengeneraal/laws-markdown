@@ -3,7 +3,7 @@
 ##Subsidieregeling bedrijfsgebonden vaarwegaansluitingen (SBV)
 
 De Minister van Verkeer en Waterstaat,  
-Gelet op de [artikelen 3](../../../../../../wet/kaderwet/subsidies/verkeer/en/waterstaat/BWBR0009196/README.md) en [4 van de Kaderwet subsidies Verkeer en Waterstaat](../../../../../../wet/kaderwet/subsidies/verkeer/en/waterstaat/BWBR0009196/README.md);
+Gelet op de artikelen 3 en 4 van de Kaderwet subsidies Verkeer en Waterstaat;
 Besluit:     
 ### § 1  
 
@@ -31,7 +31,7 @@ e.  bijkomende voorzieningen nodig om de betrokken infrastructuur na voltooiing 
 
 f.  met het project samenhangende door de Minister redelijk geachte schadevergoedingen aan derden;  
 
-g.  de krachtens de [Wet op de Omzetbelasting 1968](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) verschuldigde belasting voorzover die niet kan worden teruggevorderd, en  
+g.  de krachtens de Wet op de Omzetbelasting 1968 verschuldigde belasting voorzover die niet kan worden teruggevorderd, en  
 
 h.  VAT.     
 4.  De beoogde vaarwegaansluiting waarop het project betrekking heeft: 
@@ -40,7 +40,7 @@ a.  is bedrijfsgebonden;
 
 b.  is bestemd en wordt gebruikt voor de overslag van goederen ten behoeve van één verlader;  
 
-c.  is niet bestemd of wordt niet gebruikt als containerterminal of Regionaal Overslag Centrum, zoals bedoeld in de [Subsidieregeling openbare inland terminals](../../../../../../ministeriele-regeling/subsidieregeling/openbare/inland/terminals/BWBR0011721/README.md) (Stcrt. 2000, 210);  
+c.  is niet bestemd of wordt niet gebruikt als containerterminal of Regionaal Overslag Centrum, zoals bedoeld in de Subsidieregeling openbare inland terminals (Stcrt. 2000, 210);  
 
 d.  heeft een zodanige capaciteit dat deze in verhouding is met de overslagvolumes die voor de eerste vijf jaren in de indicatieve vervoersgarantie, bedoeld in artikel 4, tweede lid, onderdeel l, punt 4°, zijn geraamd;  
 
@@ -105,7 +105,7 @@ l.  een bedrijfsplan, dat in elk geval de volgende onderdelen bevat:
 
 8°  een opgave van het jaar waarin het project wordt voltooid.       
 3.  De Minister kan bepalen dat er, in aanvulling op de in het tweede lid bedoelde gegevens, andere noodzakelijke gegevens worden overgelegd.   
-4.  Indien de Minister toepassing geeft aan [artikel 4:5, eerste lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), stelt hij de subsidieaanvrager binnen vier weken na de datum van ontvangst van de aanvraag in de gelegenheid de aanvraag of de daarbij behorende gegevens en bescheiden binnen vier weken aan te vullen.   
+4.  Indien de Minister toepassing geeft aan artikel 4:5, eerste lid, van de Algemene wet bestuursrecht, stelt hij de subsidieaanvrager binnen vier weken na de datum van ontvangst van de aanvraag in de gelegenheid de aanvraag of de daarbij behorende gegevens en bescheiden binnen vier weken aan te vullen.   
 
 ### § 3  
 

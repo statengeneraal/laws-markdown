@@ -3,7 +3,7 @@
 ##Subsidieregeling stiller, schoner en zuiniger 2002
 
 De Minister van Verkeer en Waterstaat;  
-Gelet op de [artikelen 3](../../../../../../../../wet/kaderwet/subsidies/verkeer/en/waterstaat/BWBR0009196/README.md) en [4 van de Kaderwet subsidies Verkeer en Waterstaat](../../../../../../../../wet/kaderwet/subsidies/verkeer/en/waterstaat/BWBR0009196/README.md),
+Gelet op de artikelen 3 en 4 van de Kaderwet subsidies Verkeer en Waterstaat,
 Besluit:      
 ### § 1 
 

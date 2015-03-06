@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Infrastructuur en Milieu, van 22 augustus 2012, nr. IenM/BSK-2012/160558, houdende verstrekking van subsidie aan de vereniging Fietsersbond (Subsidieregeling Fietsersbond 2013)
 
 De Minister van Infrastructuur en Milieu,  
-Gelet op de [artikelen 2, aanhef en onder a](../../../../../wet/kaderwet/subsidies/verkeer/en/waterstaat/BWBR0009196/README.md), [3](../../../../../wet/kaderwet/subsidies/verkeer/en/waterstaat/BWBR0009196/README.md), [4](../../../../../wet/kaderwet/subsidies/verkeer/en/waterstaat/BWBR0009196/README.md) en [6, eerste lid, van de Kaderwet subsidies Verkeer en Waterstaat](../../../../../wet/kaderwet/subsidies/verkeer/en/waterstaat/BWBR0009196/README.md) en [4:59, eerste lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);
+Gelet op de artikelen 2, aanhef en onder a, 3, 4 en 6, eerste lid, van de Kaderwet subsidies Verkeer en Waterstaat en 4:59, eerste lid, van de Algemene wet bestuursrecht;
 Besluit:    
 
 ### Artikel  1  
@@ -20,7 +20,7 @@ In deze regeling wordt verstaan onder:
 
 *subsidieontvanger:* Vereniging Fietsersbond, statutair gevestigd te Utrecht;  
 
-*wet:* [Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+*wet:* Algemene wet bestuursrecht.   
 
 ### Artikel  2  
 
@@ -35,9 +35,9 @@ b. het verkrijgen van gegevens over de lokale, regionale of landelijke staat van
 
 ### Artikel  3  
 
-####Toepassing [Algemene wet bestuursrecht Afdeling 4.2.8](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md)
+####Toepassing Algemene wet bestuursrecht Afdeling 4.2.8
 
-[Afdeling 4.2.8 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing. 
+Afdeling 4.2.8 van de Algemene wet bestuursrecht is van toepassing. 
 
 ### Artikel  4  
 
@@ -64,13 +64,13 @@ b. het geraamde aantal uren per project, het forfaitair uurtarief en de geraamde
 ####Aanvraag tot subsidieverlening
 
 1.  De subsidieontvanger dient de aanvraag tot subsidieverlening in bij de minister, uiterlijk op 1 november van het jaar voorafgaand aan het boekjaar waarvoor subsidie wordt aangevraagd. De aanvraag bevat het bedrag van de gevraagde subsidie.   
-2.  Onverminderd [artikel 4:65 van de wet](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) gaat de aanvraag vergezeld van: 
+2.  Onverminderd artikel 4:65 van de wet gaat de aanvraag vergezeld van: 
 
-a. een activiteitenplan als bedoeld in [artikel 4:61, eerste lid, onder a, van de wet](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), waarin tevens een uiteenzetting wordt gegeven van de projecten;  
+a. een activiteitenplan als bedoeld in artikel 4:61, eerste lid, onder a, van de wet, waarin tevens een uiteenzetting wordt gegeven van de projecten;  
 
 b. een opgave van het tijdstip waarop de projecten zijn afgerond voor zover van toepassing;  
 
-c. een begroting als bedoeld in [artikel 4:61, eerste lid, onder b, van de wet](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), welke tevens bevat de onderbouwing van het geraamde aantal uren per project, het forfaitair uurtarief alsmede de geraamde kosten derden per project.     
+c. een begroting als bedoeld in artikel 4:61, eerste lid, onder b, van de wet, welke tevens bevat de onderbouwing van het geraamde aantal uren per project, het forfaitair uurtarief alsmede de geraamde kosten derden per project.     
 3.  Voor het boekjaar 2013 wordt bij de aanvraag tevens overlegd een rapport van feitelijke bevindingen van een accountant ten aanzien van de berekening van het forfaitair uurtarief waarbij minimaal het volgende wordt aangegeven: 
 
 1°. bij de berekening is de begroting gehanteerd;  
@@ -107,13 +107,13 @@ e. de inhoud van het controleprotocol.
 
 ####Weigeringsgronden
 
-In aanvulling op [artikel 4:35 van de wet](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan de minister de subsidieverlening geheel of gedeeltelijk weigeren indien naar zijn oordeel: 
+In aanvulling op artikel 4:35 van de wet kan de minister de subsidieverlening geheel of gedeeltelijk weigeren indien naar zijn oordeel: 
 
 a. de aanvraag tot subsidieverlening niet in overeenstemming is met de wensen die de minister naar aanleiding van het concept, bedoeld in artikel 5, heeft kenbaar gemaakt;  
 
 b. de aanvraag niet voldoet aan artikel 6, of  
 
-c. er in voorgaande boekjaren ten aanzien van de subsidieverlening dan wel subsidievaststelling toepassing is gegeven aan de [artikelen 4:48](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [4:49](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [4:50 van de wet](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+c. er in voorgaande boekjaren ten aanzien van de subsidieverlening dan wel subsidievaststelling toepassing is gegeven aan de artikelen 4:48, 4:49 en 4:50 van de wet.   
 
 ### Artikel  10  
 
@@ -132,7 +132,7 @@ Voor zover de subsidie wordt verleend ten laste van de nog niet door de Staten-G
 
 ####Verplichtingen subsidieontvanger
 
-1.  In aanvulling op de [artikelen 4:68](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [4:69](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [4:70 van de wet](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is de subsidieontvanger verplicht tot: 
+1.  In aanvulling op de artikelen 4:68, 4:69 en 4:70 van de wet is de subsidieontvanger verplicht tot: 
 
 a. voor zover van toepassing: het afronden van de uitvoering van projecten waarvoor subsidie is verleend, voor het tijdstip dat daarvoor is aangegeven in de beschikking tot subsidieverlening;  
 
@@ -164,7 +164,7 @@ b. andere verplichtingen die de minister wenselijk acht ter verwezenlijking van 
 
 a. een administratie wordt gevoerd die zodanig is ingericht dat een gescheiden administratie van kosten en baten wordt gevoerd voor de gesubsidieerde projecten enerzijds en de overige activiteiten anderzijds, en  
 
-b. een onderzoek als bedoeld in [artikel 4:79, eerste lid, van de wet](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wordt uitgevoerd en dat dit onderzoek geschiedt met inachtneming van hetgeen daarover is bepaald in het controleprotocol.    
+b. een onderzoek als bedoeld in artikel 4:79, eerste lid, van de wet wordt uitgevoerd en dat dit onderzoek geschiedt met inachtneming van hetgeen daarover is bepaald in het controleprotocol.    
 
 ### Artikel  13  
 
@@ -173,13 +173,13 @@ b. een onderzoek als bedoeld in [artikel 4:79, eerste lid, van de wet](../../../
 1.  De subsidieontvanger dient de aanvraag tot subsidievaststelling in bij de minister binnen vier maanden volgend op het boekjaar waarvoor de subsidie is verleend.   
 2.  De aanvraag gaat vergezeld van: 
 
-a. een activiteitenverslag als bedoeld in [artikel 4:75, eerste lid, van de wet](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);  
+a. een activiteitenverslag als bedoeld in artikel 4:75, eerste lid, van de wet;  
 
-b. een financieel verslag als bedoeld in [artikel 4:75, eerste lid, van de wet](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), dat tevens inzichtelijk maakt het gerealiseerde aantal uren per project, het goedgekeurde forfaitair uurtarief en de kosten derden per project;  
+b. een financieel verslag als bedoeld in artikel 4:75, eerste lid, van de wet, dat tevens inzichtelijk maakt het gerealiseerde aantal uren per project, het goedgekeurde forfaitair uurtarief en de kosten derden per project;  
 
-c. een verklaring van een accountant als bedoeld in [artikel 4:78, derde lid, van de wet](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), en  
+c. een verklaring van een accountant als bedoeld in artikel 4:78, derde lid, van de wet, en  
 
-d. een verklaring van een accountant als bedoeld in [artikel 4:79, derde lid, van de wet](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).    
+d. een verklaring van een accountant als bedoeld in artikel 4:79, derde lid, van de wet.    
 
 ### Artikel  14  
 

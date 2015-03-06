@@ -135,7 +135,7 @@ b. 18 jaren is of ouder: met ingang van de eerste dag van de maand waarin hij ho
 
 ####Leeftijd levenlanglerenkrediet
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2017 
 
 1.  In afwijking van artikel 2.3, eerste en derde lid, kan een deelnemer voor levenlanglerenkrediet in aanmerking komen die 30 jaren of ouder is maar nog niet de leeftijd van 55 jaren heeft bereikt.   
 2.  In afwijking van artikel 2.3, tweede en derde lid, kan een student voor levenlanglerenkrediet in aanmerking komen die nog niet de leeftijd van 55 jaren heeft bereikt.   
@@ -189,7 +189,7 @@ d. In afwijking van onderdeel b wordt, indien artikel 4.14, tweede lid, toepassi
 
 ####Uitzondering levenlanglerenkrediet
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2017 
 
 De artikelen 2.7 en 2.7a zijn niet van toepassing op het levenlanglerenkrediet. 
 
@@ -432,7 +432,7 @@ b. € 363,– voor ieder kind dat in het studiejaar dat aanvangt in het jaar vo
 
 ####Berekeningsgrondslag veronderstelde ouderlijke bijdrage hoger onderwijs
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2016 
 
 Artikel 3.9 is van overeenkomstige toepassing op de bepaling van de veronderstelde ouderlijke bijdrage voor studenten, met dien verstande dat: 
 
@@ -461,7 +461,7 @@ Voor de toepassing van de artikelen 3.9 en 3.10 wordt zolang het toetsingsinkome
 
 ####Ouder zonder partner
 
-Indien het een ouder zonder partner betreft als bedoeld in artikel 2, zesde lid, van de Wet op het kindgebonden budget, wordt op aanvraag van die ouder of de studerende de hoogte van de vrije voet, bedoeld in artikel 3.9, derde lid, dienovereenkomstig aangepast. 
+Indien het na het peiljaar een ouder zonder partner betreft als bedoeld in artikel 2, zesde lid, van de Wet op het kindgebonden budget, wordt op aanvraag van die ouder of de studerende de hoogte van de vrije voet, bedoeld in artikel 3.9, derde lid, dienovereenkomstig aangepast. 
 
 ### Artikel  3.13  
 
@@ -512,7 +512,7 @@ Het verschil tussen het maximale bedrag van de aanvullende beurs en de voor een 
 
 ####Levenlanglerenkrediet: aanspraak
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2017 
 
 1.  Het levenlanglerenkrediet is een lening die aan een studerende op aanvraag wordt toegekend.   
 2.  Het levenlanglerenkrediet wordt slechts verstrekt: 
@@ -529,7 +529,7 @@ c. voor zover de kosten voor het lesgeld of collegegeld niet door een derde word
 
 ####Levenlanglerenkrediet: duur
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2017 
 
 1.  Het levenlanglerenkrediet kan worden verstrekt gedurende vier jaar.   
 2.  De periode, bedoeld in het eerste lid, kan worden verlengd indien de studerende in de laatste maand van die periode een opleiding volgt met een langere nominale duur dan vier jaar en die opleiding onafgebroken blijft volgen. Het levenlanglerenkrediet kan ten hoogste zoveel langer worden verstrekt als het verschil tussen 48 maanden en het aantal maanden waarop de studielast is gebaseerd op grond van: 
@@ -543,7 +543,7 @@ b. artikel 7.4b, eerste tot en met zevende lid, van de WHW.
 
 ####Levenlanglerenkrediet: hoogte
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2017 
 
 Het levenlanglerenkrediet bedraagt per maand niet meer dan een twaalfde deel van het feitelijk door de studerende voor een periode van twaalf maanden te betalen bedrag aan collegegeld of lesgeld voor het volgen van de desbetreffende opleiding en in totaal ten hoogste: 
 
@@ -557,7 +557,7 @@ c. een in afwijking van de onderdelen a en b bij algemene maatregel van bestuur 
 
 ####Levenlanglerenkrediet: uitvoeringsregels
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2017 
 
 Voor een goede uitvoering van de artikelen 3.16b tot en met 3.16d worden bij ministeriële regeling regels vastgesteld over de aanvraag, toekenning, betaling en andere uitvoeringsaspecten. 
 
@@ -815,7 +815,7 @@ Deze paragraaf is uitsluitend van toepassing op deelnemers die in Nederland een 
 
 ####Prestatiebeurs beroepsonderwijs
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 Een deelnemer aan een opleiding niveau 3 of 4 komt voor zover wordt voldaan aan de van toepassing zijnde voorwaarden in aanmerking voor studiefinanciering in de vorm van een prestatiebeurs, inhoudende: 
 
@@ -831,7 +831,7 @@ d. een toeslag eenoudergezin.
 
 ####Reisvoorziening minderjarige deelnemer
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2017 
 
 Onverminderd artikel 4.7, eerste en tweede lid, komt een deelnemer die jonger is dan 18 jaren in aanmerking voor een reisvoorziening in de vorm van een prestatiebeurs. 
 
@@ -1005,7 +1005,7 @@ Dit hoofdstuk is uitsluitend van toepassing op studenten die na 31 augustus 1996
 
 ####Verlenging duur prestatiebeurs hoger onderwijs vanwege het volgen van een lerarenkopopleiding
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 De prestatiebeurs hoger onderwijs wordt op aanvraag eenmalig 1 jaar langer verstrekt, indien: 
 
@@ -1017,7 +1017,7 @@ b. deze student is ingeschreven voor de hbo-lerarenopleiding, voor een daarbinne
 
 ####Verlenging duur prestatiebeurs hoger onderwijs vanwege handicap of chronische ziekte
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 De prestatiebeurs hoger onderwijs wordt op aanvraag eenmalig 1 jaar langer verstrekt indien de student blijkens gedagtekende verklaringen van een arts en van het bestuur van de onderwijsinstelling waar hij is ingeschreven, als gevolg van een handicap of chronische ziekte niet in staat is het afsluitend examen met goed gevolg af te ronden binnen het aantal jaren waarop de studielast van de opleiding, bedoeld in artikel 7.3a van de WHW, is gebaseerd. 
 
@@ -1025,7 +1025,7 @@ De prestatiebeurs hoger onderwijs wordt op aanvraag eenmalig 1 jaar langer verst
 
 ####Verlenging duur prestatiebeurs hoger onderwijs vanwege het volgen van een universitaire lerarenopleiding
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 1.  In aanvulling op artikel 5.2, eerste lid, wordt de prestatiebeurs hoger onderwijs op aanvraag eenmalig 1 jaar langer verstrekt, indien: 
 
@@ -1200,7 +1200,7 @@ c. tot welk tijdstip een aanvraag kan worden ingediend.
 
 ####Vaststelling rentepercentage
 
-Onze Minister stelt jaarlijks uiterlijk in december een rentepercentage vast dat gelijk is aan het gemiddeld effectief rendement over de maand oktober van dat jaar van de openbare lening, uitgegeven door de Staat der Nederlanden en toegelaten tot de notering aan de officiële markt ter beurze van Amsterdam, met een gemiddelde resterende looptijd van 3 tot 5 jaren. 
+Onze Minister stelt jaarlijks uiterlijk in december een rentepercentage vast dat gelijk is aan het gemiddeld effectief rendement over de maand september van dat jaar van de openbare lening, uitgegeven door de Staat der Nederlanden en toegelaten tot de notering aan de officiële markt ter beurze van Amsterdam, met een gemiddelde resterende looptijd van 3 tot 5 jaren. 
 
 ### Artikel  6.4  
 
@@ -1312,7 +1312,7 @@ b. aannemelijk wordt gemaakt dat gedurende ten minste 3 kalenderjaren zal worden
 
 ####Draagkracht ouder zonder partner
 
-Indien het een debiteur betreft die ouder zonder partner is als bedoeld in artikel 2, zesde lid, van de Wet op het kindgebonden budget, wordt op aanvraag van de debiteur de hoogte van zijn draagkracht dienovereenkomstig aangepast. 
+Indien het een debiteur betreft die na het peiljaar een ouder zonder partner als bedoeld in artikel 2, zesde lid, van de Wet op het kindgebonden budget is, wordt op aanvraag van de debiteur de hoogte van zijn draagkracht dienovereenkomstig aangepast.
 
 ### Artikel  6.14  
 
@@ -1353,13 +1353,13 @@ Indien een debiteur gedurende een kalenderjaar op grond van zijn draagkracht min
 
 ####Terugbetaling levenlanglerenkrediet
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2017 
 
 ### Artikel  6.18  
 
 ####Reikwijdte
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2017 
 
 1.  Deze paragraaf is uitsluitend van toepassing op de terugbetaling van de lening die is ontstaan door de toekenning van het levenlanglerenkrediet.   
 2.  Artikel 299a van de Faillissementswet is van overeenkomstige toepassing op de lening die is ontstaan door de toekenning van het levenlanglerenkrediet.  
@@ -1368,7 +1368,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Terugbetalingsregels
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2017 
 
 1.  Met uitzondering van de artikelen 6.2a, 6.5, tweede lid, 6.6, 6.7, eerste lid, tweede volzin, en tweede en derde lid, en 6.14 is paragraaf 6.1 van overeenkomstige toepassing op de terugbetaling van het levenlanglerenkrediet, waarbij deze lening wordt aangemerkt als een lening beroepsonderwijs.   
 2.  In afwijking van het eerste lid wordt bij de toepassing van artikel 6.3 de lening aangemerkt als een lening hoger onderwijs.   
@@ -1378,7 +1378,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Nadere terugbetalingsregels
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2017 
 
 Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld over de terugbetaling van de lening die is ontstaan door toekenning van het levenlanglerenkrediet waarbij tenminste regels worden gesteld over de samenloop met de terugbetaling van de lening die is ontstaan anders dan door toekenning van het levenlanglerenkrediet en over de samenloop met de terugbetaling door een partner van het levenlanglerenkrediet of een andere lening die is toegekend op grond van deze wet. 
 
@@ -1799,7 +1799,7 @@ c. ieder vijfde jaar na het vierde jaar van de aflosfase.
 ####Draagkracht debiteur uit inkomen op jaarbasis
 
 1.  Maatstaf voor de vaststelling van de draagkracht van de debiteur uit inkomen is zijn toetsingsinkomen in het tweede jaar voorafgaande aan het jaar waarvoor de draagkracht wordt vastgesteld.   
-2.  Op het toetsingsinkomen wordt in mindering gebracht de draagkrachtvrije voet. Deze voet is gelijk aan het belastbare minimumloon in het tweede jaar voorafgaande aan het jaar waarvoor de draagkracht wordt vastgesteld, indien de debiteur een ouder zonder partner is als bedoeld in artikel 2, zesde lid, van de Wet op het kindgebonden budget, of voor zijn partner voor de inkomstenbelasting de verhoging van de gecombineerde heffingskorting, bedoeld in artikel 8.9 van de Wet inkomstenbelasting 2001, van toepassing is. Indien voor de debiteur de verhoging van de gecombineerde heffingskorting, bedoeld in artikel 8.9 van de Wet inkomstenbelasting 2001, of de algemene heffingskorting van toepassing is, is de draagkrachtvrije voet 0%, onderscheidenlijk 50% van de voet die van toepassing zou zijn indien voor de debiteur – naast de algemene heffingskorting – voor zijn partner de verhoging van de gecombineerde heffingskorting, bedoeld in artikel 8.9 van de Wet inkomstenbelasting 2001 van toepassing zou zijn.   
+2.  Op het toetsingsinkomen wordt in mindering gebracht de draagkrachtvrije voet. Deze voet is gelijk aan het belastbare minimumloon in het peiljaar, indien de debiteur in het peiljaar een ouder zonder partner is als bedoeld in artikel 2, zesde lid, van de Wet op het kindgebonden budget, of voor zijn partner voor de inkomstenbelasting de verhoging van de gecombineerde heffingskorting, bedoeld in artikel 8.9 van de Wet inkomstenbelasting 2001, van toepassing is. Indien voor de debiteur de verhoging van de gecombineerde heffingskorting, bedoeld in artikel 8.9 van de Wet inkomstenbelasting 2001, of de algemene heffingskorting van toepassing is, is de draagkrachtvrije voet 0%, onderscheidenlijk 50% van de voet die van toepassing zou zijn indien voor de debiteur – naast de algemene heffingskorting – voor zijn partner de verhoging van de gecombineerde heffingskorting, bedoeld in artikel 8.9 van de Wet inkomstenbelasting 2001 van toepassing zou zijn.   
 3.  Het resterende inkomen wordt verdeeld in 2 schijven ter grootte van de helft van de in het tweede lid bedoelde draagkrachtvrije voet alsmede een derde schijf ter grootte van 260% van het belastbare minimumloon in het tweede jaar voorafgaande aan het jaar waarvoor de draagkracht wordt vastgesteld, verminderd met de draagkrachtvrije voet en de eerste en de tweede schijf.   
 4.  Indien de debiteur of zijn partner een toetsingsinkomen heeft dat kleiner is dan de som van de in het tweede lid bedoelde draagkrachtvrije voet en de eerste 3 volle schijven, bedoeld in het derde lid, wordt het deel van de draagkrachtvrije voet en de eerste 3 schijven dat nog niet is benut, overgeheveld naar de ander. Daarbij wordt het onbenutte deel van een schijf toegevoegd aan de overeenkomstige schijf van de ander en het onbenutte deel van de draagkrachtvrije voet aan de draagkrachtvrije voet van de ander.   
 5.  Indien de debiteur en zijn partner een toetsingsinkomen hebben dat kleiner is dan de som van de in het tweede lid bedoelde draagkrachtvrije voet en de eerste 3 volle schijven, bedoeld in het derde lid, wordt het vierde lid toegepast in die zin dat van de debiteur of zijn partner met het laagste toetsingsinkomen het onbenutte deel van de draagkrachtvrije voet en de eerste 3 schijven wordt overgeheveld naar de ander.   
@@ -1811,7 +1811,7 @@ c. ieder vijfde jaar na het vierde jaar van de aflosfase.
 
 ####Andere aanpassing van draagkracht debiteur
 
-Indien het een debiteur betreft die ouder zonder partner is als bedoeld in artikel 2, zesde lid, van de Wet op het kindgebonden budget of voor zijn partner de verhoging van de gecombineerde heffingskorting, bedoeld in artikel 8.9 van de Wet inkomstenbelasting 2001, van toepassing wordt na het tweede jaar voorafgaande aan het jaar waarvoor de draagkracht wordt vastgesteld, wordt op aanvraag van de debiteur de hoogte van zijn draagkracht dienovereenkomstig aangepast. 
+Indien het na het peiljaar een debiteur betreft die ouder zonder partner is als bedoeld in artikel 2, zesde lid, van de Wet op het kindgebonden budget of voor zijn partner de verhoging van de gecombineerde heffingskorting, bedoeld in artikel 8.9 van de Wet inkomstenbelasting 2001, van toepassing wordt na het tweede jaar voorafgaande aan het jaar waarvoor de draagkracht wordt vastgesteld, wordt op aanvraag van de debiteur de hoogte van zijn draagkracht dienovereenkomstig aangepast. 
 
 ### Artikel  10a.10  
 

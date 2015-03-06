@@ -254,28 +254,15 @@ Voor zover energiegerelateerde producten bij of krachtens titel 9.4 van de Wet m
 
 ### Artikel  19  
 
-1.  Met het toezicht op de naleving van het bepaalde bij of krachtens de artikelen 2, 4, 5, 6, 7, derde lid, en 9 is belast de Autoriteit Consument en Markt.   
-2.  Met het toezicht op de naleving van het bepaalde bij of krachtens de artikelen 2, 4, 5, 6, 7, derde lid, en 9 zijn belast de bij besluit van de Autoriteit Consument en Markt aangewezen ambtenaren.   
-3.  Van een besluit als bedoeld in het tweede wordt mededeling gedaan door plaatsing in de Staatscourant.  
+Met het toezicht op de naleving van het bepaalde bij of krachtens de artikelen 2, 4, 5, 6 en 7, derde lid, is belast de Autoriteit Consument en Markt. 
 
 ### Artikel  21  
 
-1. De Autoriteit Consument en Markt kan een last onder dwangsom opleggen terzake van overtreding van het bij of krachtens de artikelen 2, 4, 5, 6, 7, derde lid, en 9 bepaalde.  
-2.  Indien de Autoriteit Consument en Markt vaststelt dat een overtreding als bedoeld in het eerste lid is begaan, doet zij daarvan een rapport opmaken.   
-3.  Afdeling 5.4.2 van de Algemene wet bestuursrecht is van overeenkomstige toepassing. 
+De Autoriteit Consument en Markt kan een last onder dwangsom opleggen terzake van overtreding van het bij of krachtens de artikelen 2, 4, 5, 6 en 7, derde lid, bepaalde.
 
 ### Artikel  22  
 
-De Autoriteit Consument en Markt kan in geval van overtreding van het bij of krachtens de artikelen 2, 4, 5, 6, 7, derde lid, en 9 bepaalde of van artikel 5:20, eerste lid, van de Algemene wet bestuursrecht, de overtreder per overtreding een bestuurlijke boete opleggen van ten hoogste € 450 000. 
-
-### Artikel  28  
-
-1.  Een beschikking tot oplegging van een last onder dwangsom of een bestuurlijke boete wordt, nadat zij bekend is gemaakt, ter inzage gelegd bij de Autoriteit Consument en Markt.   
-2.  Van de beschikking wordt mededeling gedaan in de Staatscourant.  
-
-### Artikel  30  
-
-Verzet schorst de tenuitvoerlegging van een dwangbevel dat strekt tot invordering van de bestuurlijke boete. 
+De Autoriteit Consument en Markt kan in geval van overtreding van het bij of krachtens de artikelen 2, 4, 5, 6 en 7, derde lid, bepaalde, de overtreder per overtreding een bestuurlijke boete opleggen van ten hoogste € 450 000. 
 
 ### Hoofdstuk  4  
 

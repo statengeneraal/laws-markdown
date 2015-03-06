@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Granen, Zaden en Peulvruchten van 4 november 2004, houdende regels ter zake van de aan de onder het Productschap Granen, Zaden en Peulvruchten ressorterende ondernemers op te leggen heffing voor het jaar 2005 (Verordening GZP financieringsheffing jaar 2005)
 
 Het bestuur van het Productschap Granen, Zaden en Peulvruchten;
-Gelet op de [artikelen 95](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 eerste lid van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en de artikelen 8 en 19 van het Instellingsbesluit;
+Gelet op de artikelen 95 en 126 eerste lid van de Wet op de bedrijfsorganisatie en de artikelen 8 en 19 van het Instellingsbesluit;
 Besluit:
 ###§ 1 
 
@@ -80,13 +80,13 @@ De heffing bedoeld in de artikelen 2 tot en met 4 is bestemd voor de huishoudeli
 ###Artikel 6 
 Materieel uitgewerkt per 01-01-2006 
 
-1. De ondernemer bedoeld in de artikelen 2 en 3 is verplicht binnen tien dagen na afloop van ieder kwartaal door middel van een hiertoe dienend opgaveformulier aan het productschap naar waarheid gegevens te verstrekken ten behoeve van de vaststelling van de in genoemde artikelen bedoelde heffing. De [Verordening GZP algemene bepalingen 2003](../../../../../../../pbo/verordening/gzp/algemene/bepalingen/2003/BWBR0014665/README.md) is hierbij van toepassing.
+1. De ondernemer bedoeld in de artikelen 2 en 3 is verplicht binnen tien dagen na afloop van ieder kwartaal door middel van een hiertoe dienend opgaveformulier aan het productschap naar waarheid gegevens te verstrekken ten behoeve van de vaststelling van de in genoemde artikelen bedoelde heffing. De Verordening GZP algemene bepalingen 2003 is hierbij van toepassing.
 2. Ook indien in een bepaalde periode geen activiteiten als vermeld op het opgaveformulier hebben plaatsgevonden dient een opgave te worden gedaan.
 
 ###Artikel 7 
 Materieel uitgewerkt per 01-01-2006 
 
-1. De ondernemer bedoeld in artikel 4, eerste lid, is verplicht jaarlijks vóór 31 oktober door middel van een hiertoe dienend opgavenformulier aan het productschap naar waarheid gegevens te verstrekken ten behoeve van de vaststelling van de in artikel 4 bedoelde heffing. De [Verordening GZP algemene bepalingen 2003](../../../../../../../pbo/verordening/gzp/algemene/bepalingen/2003/BWBR0014665/README.md) is hierbij van toepassing.
+1. De ondernemer bedoeld in artikel 4, eerste lid, is verplicht jaarlijks vóór 31 oktober door middel van een hiertoe dienend opgavenformulier aan het productschap naar waarheid gegevens te verstrekken ten behoeve van de vaststelling van de in artikel 4 bedoelde heffing. De Verordening GZP algemene bepalingen 2003 is hierbij van toepassing.
 2. De heffing bedoeld in artikel 4, tweede lid, wordt door het productschap geïnd door middel van de in het eerste lid van artikel 4 bedoelde ondernemers op basis van de door hen afgesloten teeltcontracten.
 
 ###Artikel 8 
@@ -128,7 +128,7 @@ Het productschap kan besluiten nota's van minder dan € 50,- samen te voegen to
 ###Artikel 12 
 Materieel uitgewerkt per 01-01-2006 
 
-Aan de ondernemer die niet of niet geheel binnen de in artikel 10 gestelde termijn heeft betaald, kan door het productschap de wettelijke interest over het niet betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk diende te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md).
+Aan de ondernemer die niet of niet geheel binnen de in artikel 10 gestelde termijn heeft betaald, kan door het productschap de wettelijke interest over het niet betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk diende te zijn verricht ingevolge de aanmaning bedoeld in artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie.
 
 ###§ 5 
 
@@ -139,7 +139,7 @@ Materieel uitgewerkt per 01-01-2006
 ###Artikel 13 
 Materieel uitgewerkt per 01-01-2006 
 
-Deze verordening treedt in werking met ingang van 1 januari 2005. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 januari 2005, treedt zij in werking met ingang van de tweede dag na de dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt terug tot en met 1 januari 2005, met uitzondering van de toepassing van de [Verordening GZP algemene bepalingen 2003](../../../../../../../pbo/verordening/gzp/algemene/bepalingen/2003/BWBR0014665/README.md).
+Deze verordening treedt in werking met ingang van 1 januari 2005. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 januari 2005, treedt zij in werking met ingang van de tweede dag na de dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt terug tot en met 1 januari 2005, met uitzondering van de toepassing van de Verordening GZP algemene bepalingen 2003.
 
 ###Artikel 14 
 Materieel uitgewerkt per 01-01-2006 

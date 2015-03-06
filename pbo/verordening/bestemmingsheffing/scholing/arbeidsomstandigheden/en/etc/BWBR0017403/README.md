@@ -5,7 +5,7 @@
 Het bestuur van het Hoofdbedrijfschap Ambachten;
 Gehoord het bestuur van het Bedrijfschap Natuursteenbedrijf;
 
-Gelet op de [artikelen 95, tweede lid](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+Gelet op de artikelen 95, tweede lid en 126 van de Wet op de bedrijfsorganisatie;
 Besluit:
 ###§ 1 
 
@@ -23,11 +23,11 @@ c.werkende: alle personen die in de onderneming werkzaam zijn, hetzij in dienstb
 
 d.werknemer: degene die op grond van een arbeidsovereenkomst met de ondernemer in de onderneming werkzaam is;
 
-e.het premieloon: het bruto loon sociale verzekeringen in de zin van de [Coördinatiewet Sociale Verzekering](../../../../../../../../wet/coördinatiewet/sociale/verzekering/BWBR0002126/README.md) (CSV);
+e.het premieloon: het bruto loon sociale verzekeringen in de zin van de Coördinatiewet Sociale Verzekering (CSV);
 
 f.het hoofdbedrijfschap: het Hoofdbedrijfschap Ambachten
 
-g.bestemmingsheffing: heffing die is gebaseerd op [artikel 9, tweede lid, van het Instellingsbesluit Hoofdbedrijfschap Ambachten](../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/ambachten/BWBR0015845/README.md).
+g.bestemmingsheffing: heffing die is gebaseerd op artikel 9, tweede lid, van het Instellingsbesluit Hoofdbedrijfschap Ambachten.
 
 ###Artikel 2 
 
@@ -70,7 +70,7 @@ De voorzitter stelt de heffingen vast op basis van de ingevolge artikel 4 vastge
 
 ###Artikel 6 
 
-De [artikelen 7 tot en met 10 van de Heffingsverordening Hoofdbedrijfschap Ambachten 2005](../../../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/ambachten/2005/BWBR0017430/README.md) zijn van overeenkomstige toepassing.
+De artikelen 7 tot en met 10 van de Heffingsverordening Hoofdbedrijfschap Ambachten 2005 zijn van overeenkomstige toepassing.
 
 ###§ 4 
 
@@ -91,7 +91,7 @@ De [artikelen 7 tot en met 10 van de Heffingsverordening Hoofdbedrijfschap Ambac
 
 1.  Bij cumulatie van deze bestemmingsheffingen met een of meer andere aan het HBA te betalen bestemmingsheffing, vermindert de voorzitter de heffing tot nihil, indien de uitoefening van het natuursteenbedrijf kan worden aangemerkt als een nevenactiviteit ten opzichte van die andere bedrijfsuitoefening of bedrijfsuitoefeningen waarvoor een bestemmingsheffing is opgelegd.   
 2.  De vermindering wordt alleen toegepast ten aanzien van de onderneming waarin één persoon alle bedrijven uitoefent waarvoor bestemmingsheffingen zijn opgelegd.   
-3.  Het eerste lid wordt niet toegepast bij cumulatie met de bestemmingsheffing opgelegd op grond van de [Heffingsverordening natuursteenbedrijf 2005](../../../../../../../../pbo/verordening/bestemmingsheffing/natuursteenbedrijf/2005/BWBR0017408/README.md).  
+3.  Het eerste lid wordt niet toegepast bij cumulatie met de bestemmingsheffing opgelegd op grond van de Heffingsverordening natuursteenbedrijf 2005.  
 
 ###Artikel 9 
 

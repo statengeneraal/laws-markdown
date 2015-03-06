@@ -19,7 +19,7 @@ Wijzigt de Wet studiefinanciering 2000.
 
 ####Wijziging Algemene Kinderbijslagwet
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2017 
 
 Wijzigt de Algemene Kinderbijslagwet. 
 
@@ -27,7 +27,7 @@ Wijzigt de Algemene Kinderbijslagwet.
 
 ####Wijziging Experimentenwet vooropleidingseisen, selectie en collegegeldheffing
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2017 
 
 Wijzigt de Experimentenwet vooropleidingseisen, selectie en collegegeldheffing. 
 
@@ -35,7 +35,7 @@ Wijzigt de Experimentenwet vooropleidingseisen, selectie en collegegeldheffing.
 
 ####Wijziging Participatiewet
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2016 
 
 Wijzigt de Participatiewet. 
 
@@ -43,7 +43,7 @@ Wijzigt de Participatiewet.
 
 ####Wijziging Wet inkomstenbelasting 2001
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 Wijzigt de Wet inkomstenbelasting 2001. 
 
@@ -51,7 +51,7 @@ Wijzigt de Wet inkomstenbelasting 2001.
 
 ####Wijziging Wet maatregelen woningmarkt 2014 II
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 Wijzigt de Wet maatregelen woningmarkt 2014 II. 
 
@@ -59,15 +59,13 @@ Wijzigt de Wet maatregelen woningmarkt 2014 II.
 
 ####Wijziging Wet op het hoger onderwijs en wetenschappelijk onderzoek
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek. 
 
 ### Artikel  VIII  
 
 ####Wijziging Wet tegemoetkoming onderwijsbijdrage en schoolkosten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 Wijzigt de Wet tegemoetkoming onderwijsbijdrage en schoolkosten. 
 
@@ -75,7 +73,7 @@ Wijzigt de Wet tegemoetkoming onderwijsbijdrage en schoolkosten.
 
 ####Intrekking uitgewerkte Wijzigingswet
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-09-2015 
 
 De Wet van 16 mei 2007 tot wijziging van onder meer de Wet studiefinanciering 2000 in verband met aanpassing van de berekeningssystematiek veronderstelde ouderlijke bijdrage en de verlenging van experimenten met vooropleidingseisen, selectie en collegegeldheffing (Stb. 2007, 198) wordt ingetrokken. 
 
@@ -91,8 +89,6 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Inwerkingtreding
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.   
 2.  In afwijking van het eerste lid treden van artikel I de onderdelen AQ, subonderdeel 1, en BE, subonderdeel 1, in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werken terug tot en met 1 september 2010.   
 3.  In afwijking van het eerste lid treedt artikel I, onderdeel CQ, in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werkt terug tot en met 1 januari 2015.  
@@ -100,8 +96,6 @@ Treedt in werking op een nader te bepalen tijdstip
 ### Artikel  XII  
 
 ####Citeertitel
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 Deze wet wordt aangehaald als: Wet studievoorschot hoger onderwijs. 
 

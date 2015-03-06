@@ -3,7 +3,7 @@
 ##Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 14 maart 2005, nr. DGM/SB2005022945, Directoraat-Generaal Milieubeheer, Directie Strategie en Bestuur, houdende wijziging van de Subsidieregeling milieugerichte technologie (wijziging Subsidieprogramma milieu & technologie)
 
 De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,
-Gelet op [artikel 15.13, eerste tot en met derde lid, van de Wet milieubeheer](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);
+Gelet op artikel 15.13, eerste tot en met derde lid, van de Wet milieubeheer;
 Besluit:
 
 ###Artikel I 
@@ -12,7 +12,7 @@ Wijzigt de Subsidieregeling milieugerichte technologie.
 
 ###Artikel II 
 
-[Paragraaf 2.2 van de Subsidieregeling milieugerichte technologie](../../../../../../../../ministeriele-regeling/subsidieregeling/milieugerichte/technologie/BWBR0016362/README.md), zoals deze luidde voor de inwerkingtreding van deze regeling, blijft van toepassing op subsidies voor projecten als bedoeld in die paragraaf die voor dat tijdstip zijn aangevraagd op grond van die regeling.
+Paragraaf 2.2 van de Subsidieregeling milieugerichte technologie, zoals deze luidde voor de inwerkingtreding van deze regeling, blijft van toepassing op subsidies voor projecten als bedoeld in die paragraaf die voor dat tijdstip zijn aangevraagd op grond van die regeling.
 
 ###Artikel III 
 

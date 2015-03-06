@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Verkeer en Waterstaat, houdende het verlenen van subsidie aan de samenwerkingsgebieden en aan de Vereniging Nederlandse Gemeenten ten behoeve van de personele en bestuurslasten die voortvloeien uit het convenant VERDI voor het jaar 2003 (Regeling overdracht personele middelen convenant VERDI 2003) 
 
 De Minister van Verkeer en Waterstaat,  
-Gelet op [artikel 3 van de Kaderwet subsidies Verkeer en Waterstaat](../../../../../../../../../wet/kaderwet/subsidies/verkeer/en/waterstaat/BWBR0009196/README.md);
+Gelet op artikel 3 van de Kaderwet subsidies Verkeer en Waterstaat;
 Besluit:     
 
 ### Artikel  1  
@@ -12,7 +12,7 @@ In deze regeling wordt verstaan onder:
 
 a.  *minister:* de minister van Verkeer en Waterstaat;  
 
-b.  *samenwerkingsgebied:* een samenwerkingsgebied als bedoeld in [artikel 2 van de Wet gemeenschappelijke regelingen](../../../../../../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md), waarop [artikel 2 van de Kaderwet bestuur in verandering](../../../../../../../../../wet/kaderwet/bestuur/in/verandering/BWBR0006620/README.md) van toepassing is verklaard;  
+b.  *samenwerkingsgebied:* een samenwerkingsgebied als bedoeld in artikel 2 van de Wet gemeenschappelijke regelingen, waarop artikel 2 van de Kaderwet bestuur in verandering van toepassing is verklaard;  
 
 c.  *VNG:* de Vereniging van Nederlandse Gemeenten;  
 
@@ -60,7 +60,7 @@ De minister verleent bij de beschikking tot subsidieverlening een voorschot ter 
 
 a. een verslag waaruit blijkt welke activiteiten zijn uitgevoerd;  
 
-b. een financieel eindverslag dat vergezeld gaat van een goedkeurende verklaring afgegeven door een accountant als bedoeld in [artikel 393, vijfde lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).    
+b. een financieel eindverslag dat vergezeld gaat van een goedkeurende verklaring afgegeven door een accountant als bedoeld in artikel 393, vijfde lid, van Boek 2 van het Burgerlijk Wetboek.    
 3.  In de bijlage bij deze regeling zijn de modellen opgenomen van het financiële eindverslag en van de goedkeurende accountantsverklaring, bedoeld in het tweede lid, onderdeel b.  
 
 ### Artikel  6  
@@ -69,12 +69,12 @@ De minister stelt de subsidie ambtshalve vast binnen zes weken nadat de subsidie
 
 ### Artikel  7  
 
-1.  De subsidie-ontvanger vormt een egalisatiereserve als bedoeld in [artikel 4:72 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+1.  De subsidie-ontvanger vormt een egalisatiereserve als bedoeld in artikel 4:72 van de Algemene wet bestuursrecht.   
 2.  Indien op 31 december 2003 sprake is van een positieve egalisatiereserve, leggen de subsidie-ontvangers vóór 15 september 2005 rekening en verantwoording af over de besteding ervan in 2004. Artikel 5, tweede lid, is van overeenkomstige toepassing.  
 
 ### Artikel  8  
 
-De [Regeling overdracht personele middelen VERDI-convenant](../../../../../../../../../ministeriele-regeling/regeling/overdracht/personele/middelen/verdi-convenant/BWBR0008978/README.md) wordt ingetrokken, met dien verstande dat zij van toepassing blijft op de verantwoording van de subsidie over het jaar 2002, alsmede de rechtsgedingen die op die subsidie betrekking hebben.  
+De Regeling overdracht personele middelen VERDI-convenant wordt ingetrokken, met dien verstande dat zij van toepassing blijft op de verantwoording van de subsidie over het jaar 2002, alsmede de rechtsgedingen die op die subsidie betrekking hebben.  
 
 ### Artikel  9  
 
@@ -106,9 +106,9 @@ c. verslagen: verslaglegging omtrent formele overleggen.   1.3. De volgende rege
 
 a. de regeling en de daarop gebaseerde beschikkingen;  
 
-b. de [Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);  
+b. de Algemene wet bestuursrecht;  
 
-c. de [Kaderwet subsidies Verkeer en Waterstaat](../../../../../../../../../wet/kaderwet/subsidies/verkeer/en/waterstaat/BWBR0009196/README.md).   1.4 In dit controleprotocol wordt uiteengezet welke uitgangspunten en specifieke vereisten gelden bij de uitvoering van de controle over de besteding van de subsidie, alsmede op welke wijze de uitkomsten van de controle dienen te worden gerapporteerd. De verantwoordelijkheid voor het opstellen van de verantwoording ligt bij het samenwerkingsgebied en de Vereniging van Nederlandse Gemeenten. 1.5 Op verzoek van de Minister van Verkeer en Waterstaat kan, door de accountants van dit ministerie of andere door de minister aangewezen accountants, een review worden uitgevoerd bij de fungerende derdeaccountant ter toetsing van de naleving van het controleprotocol. Indien een review wordt uitgevoerd zal hierover tevens overleg worden gepleegd met het samenwerkingsgebied of de Vereniging van Nederlandse Gemeenten. 
+c. de Kaderwet subsidies Verkeer en Waterstaat.   1.4 In dit controleprotocol wordt uiteengezet welke uitgangspunten en specifieke vereisten gelden bij de uitvoering van de controle over de besteding van de subsidie, alsmede op welke wijze de uitkomsten van de controle dienen te worden gerapporteerd. De verantwoordelijkheid voor het opstellen van de verantwoording ligt bij het samenwerkingsgebied en de Vereniging van Nederlandse Gemeenten. 1.5 Op verzoek van de Minister van Verkeer en Waterstaat kan, door de accountants van dit ministerie of andere door de minister aangewezen accountants, een review worden uitgevoerd bij de fungerende derdeaccountant ter toetsing van de naleving van het controleprotocol. Indien een review wordt uitgevoerd zal hierover tevens overleg worden gepleegd met het samenwerkingsgebied of de Vereniging van Nederlandse Gemeenten. 
 
 ####*2. Uitgangspunten voor de controle*
 

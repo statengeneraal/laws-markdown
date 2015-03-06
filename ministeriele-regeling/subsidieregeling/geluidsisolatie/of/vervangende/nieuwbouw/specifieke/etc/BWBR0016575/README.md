@@ -3,12 +3,12 @@
 ##Regeling van de Staatssecretaris van Verkeer en Waterstaat houdende voorschriften met betrekking tot het verstrekken van subsidie aan eigenaren van kenmerkende woningen in het beperkingengebied van de luchthaven Schiphol, met het oog op het aanbrengen van geluidwerende voorzieningen dan wel het doen vervangen door nieuwbouw (Subsidieregeling geluidsisolatie of vervangende nieuwbouw specifieke panden)
 
 De Staatssecretaris van Verkeer en Waterstaat,  
-Gelet op de [artikelen 2 tot en met 4 van de Kaderwet subsidies Verkeer en Waterstaat](../../../../../../../../../wet/kaderwet/subsidies/verkeer/en/waterstaat/BWBR0009196/README.md);
+Gelet op de artikelen 2 tot en met 4 van de Kaderwet subsidies Verkeer en Waterstaat;
 Besluit:    
 
 ### Artikel  1  
 
-In deze regeling wordt onder ‘geluidsgevoelige ruimten van woningen’, ‘geluidwering van de uitwendige scheidingsconstructie’ en ‘kostenbegrenzingswaarde’ verstaan hetgeen daaronder wordt verstaan in de [Regeling geluidwerende voorzieningen 1997](../../../../../../../../../ministeriele-regeling/regeling/geluidwerende/voorzieningen/1997/BWBR0008540/README.md). 
+In deze regeling wordt onder ‘geluidsgevoelige ruimten van woningen’, ‘geluidwering van de uitwendige scheidingsconstructie’ en ‘kostenbegrenzingswaarde’ verstaan hetgeen daaronder wordt verstaan in de Regeling geluidwerende voorzieningen 1997. 
 
 ### Artikel  2  
 
@@ -38,9 +38,9 @@ Subsidie op grond van deze regeling kan slechts worden verstrekt met betrekking 
 
 a. waarvan na een constructief onderzoek is komen vast te staan dat zij geen bouwkundige gebreken of gebreken in de constructie vertonen,  
 
-b. die door de specifieke bouwwijze, constructie of vormgeving zodanig afwijken van de woningen waaraan op grond van de [Regeling geluidwerende voorzieningen 1997](../../../../../../../../../ministeriele-regeling/regeling/geluidwerende/voorzieningen/1997/BWBR0008540/README.md) geluidwerende voorzieningen worden aangebracht, dat de kosten voor het van rijkswege aanbrengen van geluidwerende voorzieningen hoger zullen zijn dan de kostenbegrenzingswaarde,  
+b. die door de specifieke bouwwijze, constructie of vormgeving zodanig afwijken van de woningen waaraan op grond van de Regeling geluidwerende voorzieningen 1997 geluidwerende voorzieningen worden aangebracht, dat de kosten voor het van rijkswege aanbrengen van geluidwerende voorzieningen hoger zullen zijn dan de kostenbegrenzingswaarde,  
 
-c. waarvan de constructie van het dak, de gevels of de fundering gebreken zouden gaan vertonen ten gevolge van het geheel of gedeeltelijk van rijkswege aanbrengen van geluidwerende voorzieningen, nadat is komen vast te staan dat andere mogelijkheden voor het aanbrengen van gehele of gedeeltelijke geluidwerende voorzieningen alsmede reductie van de waarde van de geluidwering van de uitwendige scheidingsconstructie tot ten hoogste –5dB(A), bedoeld in [artikel 17, zesde lid, van de Regeling geluidwerende voorzieningen 1997](../../../../../../../../../ministeriele-regeling/regeling/geluidwerende/voorzieningen/1997/BWBR0008540/README.md) niet realiseerbaar zijn, en  
+c. waarvan de constructie van het dak, de gevels of de fundering gebreken zouden gaan vertonen ten gevolge van het geheel of gedeeltelijk van rijkswege aanbrengen van geluidwerende voorzieningen, nadat is komen vast te staan dat andere mogelijkheden voor het aanbrengen van gehele of gedeeltelijke geluidwerende voorzieningen alsmede reductie van de waarde van de geluidwering van de uitwendige scheidingsconstructie tot ten hoogste –5dB(A), bedoeld in artikel 17, zesde lid, van de Regeling geluidwerende voorzieningen 1997 niet realiseerbaar zijn, en  
 
 d. die in verband met de specifieke bouwwijze, constructie of vormgeving, bedoeld in onderdeel b, als gevolg van het van rijkswege aanbrengen van geluidwerende voorzieningen ingrijpende constructieve aanpassingen behoeven ten behoeve van de stabiliteit van de woning.   
 
@@ -48,10 +48,10 @@ d. die in verband met de specifieke bouwwijze, constructie of vormgeving, bedoel
 
 1.  De eigenaren van de in artikel 5 bedoelde woningen ontvangen een aanbod voor het van rijkswege aanbrengen van geluidwerende voorzieningen, omvattende: 
 
-a. een aanbod als bedoeld in [artikel 12, tweede lid, van de Regeling geluidwerende voorzieningen 1997](../../../../../../../../../ministeriele-regeling/regeling/geluidwerende/voorzieningen/1997/BWBR0008540/README.md) en indien van toepassing, een overeenkomst op grond van [artikel 12, tweede lid van de Regeling geluidwerende voorzieningen 1997](../../../../../../../../../ministeriele-regeling/regeling/geluidwerende/voorzieningen/1997/BWBR0008540/README.md), en  
+a. een aanbod als bedoeld in artikel 12, tweede lid, van de Regeling geluidwerende voorzieningen 1997 en indien van toepassing, een overeenkomst op grond van artikel 12, tweede lid van de Regeling geluidwerende voorzieningen 1997, en  
 
 b. een voorstel tot subsidieverlening daarvoor.     
-2.  Bij de raming van het bedrag van de kosten van het van rijkswege aanbrengen van geluidwerende voorzieningen, inclusief extra uitvoeringskosten, wordt rekening gehouden met [artikel 11, vierde lid, onder d en e, van de Regeling geluidwerende voorzieningen 1997](../../../../../../../../../ministeriele-regeling/regeling/geluidwerende/voorzieningen/1997/BWBR0008540/README.md). Het geraamde bedrag wordt vergeleken met het geraamde bedrag van de kosten van vervangende nieuwbouw.   
+2.  Bij de raming van het bedrag van de kosten van het van rijkswege aanbrengen van geluidwerende voorzieningen, inclusief extra uitvoeringskosten, wordt rekening gehouden met artikel 11, vierde lid, onder d en e, van de Regeling geluidwerende voorzieningen 1997. Het geraamde bedrag wordt vergeleken met het geraamde bedrag van de kosten van vervangende nieuwbouw.   
 3.  Het aanbod van rijkswege is niet hoger dan het laagste bedrag van de twee in het tweede lid geraamde bedragen.   
 4.  Indien het geraamde bedrag van de kosten van het van rijkswege aanbrengen van geluidwerende voorzieningen, inclusief extra uitvoeringskosten, hoger is dan het bedrag van het aanbod, bedoeld in het derde lid, wordt niet tot het van rijkswege aanbrengen van geluidwerende voorzieningen overgegaan, tenzij de eigenaar van de woning het verschil tussen beide bedoelde bedragen voor zijn rekening neemt.  
 
@@ -90,7 +90,7 @@ b. een voorstel tot subsidieverlening daarvoor.
 
 ### Artikel  13  
 
-De subsidieontvanger verleent indien toepassing wordt gegeven aan artikel 7, eerste lid, op verzoek van de Minister van Verkeer en Waterstaat alle medewerking aan het door die minister overeenkomstig [artikel 4:24 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) op te stellen en te publiceren verslag over de doeltreffendheid en de effecten van de subsidie in de praktijk. Het verslag wordt slechts eenmaal opgesteld en gepubliceerd nadat alle op grond van deze regeling gesubsidieerde activiteiten zijn afgerond. 
+De subsidieontvanger verleent indien toepassing wordt gegeven aan artikel 7, eerste lid, op verzoek van de Minister van Verkeer en Waterstaat alle medewerking aan het door die minister overeenkomstig artikel 4:24 van de Algemene wet bestuursrecht op te stellen en te publiceren verslag over de doeltreffendheid en de effecten van de subsidie in de praktijk. Het verslag wordt slechts eenmaal opgesteld en gepubliceerd nadat alle op grond van deze regeling gesubsidieerde activiteiten zijn afgerond. 
 
 ### Artikel  14  
 

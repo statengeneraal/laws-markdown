@@ -40,15 +40,15 @@ k.  *representatieve organisatie:* een rechtspersoon die de belangen vertegenwoo
 
 l.  *verhuurder:* een toegelaten instelling als bedoeld in artikel 19, eerste lid, van de Woningwet, dan wel een eigenaar van ten minste 25 voor verhuur bestemde woongelegenheden in Nederland, of degene die door die eigenaar gevolmachtigd is namens hem op te treden; 
 
-m.  dit onderdeel is nog niet in werking getreden; 
+m.  *hernieuwbare energiebronnen:* hernieuwbare energiebronnen als bedoeld in artikel 2 van de richtlijn 2009/28/EG van het Europees Parlement en de Raad van 23 april 2009 ter bevordering van het gebruik van energie uit hernieuwbare bronnen en houdende wijziging en intrekking van Richtlijn 2001/77/EG en Richtlijn 2003/30/EG (Pb EU 2009, L 140);  
 
-n.  dit onderdeel is nog niet in werking getreden; 
+n.  *warmte uit hernieuwbare energiebronnen:* warmte die is opgewekt in een productie-installatie die uitsluitend gebruik maakt van hernieuwbare energiebronnen of is opgewekt met hernieuwbare energiebronnen in een hybride productie-installatie die ook gebruik maakt van fossiele energiebronnen; 
 
-o.  dit onderdeel is nog niet in werking getreden; 
+o.  *garantie van oorsprong voor warmte uit hernieuwbare energiebronnen:* gegevens op een rekening die betrekking hebben warmte uit hernieuwbare energiebronnen en waarmee wordt aangetoond dat een producent met zijn installatie een hoeveelheid warmte uit hernieuwbare energiebronnen heeft opgewekt;  
 
-p.  dit onderdeel is nog niet in werking getreden; 
+p.  *meetbedrijf:* een organisatorische eenheid die zich bezig houdt met het collecteren, valideren en vaststellen van productiemeetgegevens betreffende warmte;  
 
-q.  dit onderdeel is nog niet in werking getreden; 
+q.  *productiemeetgegevens:* de gegevens betreffende de hoeveelheid warmte uit hernieuwbare energiebronnen die door een producent wordt ingevoed op een warmtenet; 
 
 r.  *bindende gedragslijn:* een zelfstandige last die niet wegens een overtreding wordt opgelegd;  
 
@@ -143,7 +143,7 @@ d. een gebouw ingrijpend wordt gerenoveerd.
 3.  Indien een meetinrichting die op afstand uitleesbaar is door een leverancier aan een verbruiker ter beschikking wordt gesteld, kan die verbruiker deze meter weigeren. In dat geval wordt door de leverancier een niet op afstand uitleesbare meter ter beschikking gesteld.   
 4.  Een leverancier leest meetgegevens van een verbruiker, die beschikt over een meetinrichting die op afstand uitleesbaar is, niet op afstand uit indien de verbruiker hierom verzoekt.   
 5.  Het tarief voor de meting van het warmteverbruik wordt vastgesteld op basis van het gewogen gemiddelde van de meettarieven voor G6 aansluitingen van de gasmeter van de netbeheerders van de gastransportnetten niet zijnde de netbeheerder van het landelijk gastransportnet, voor het jaar t.   
-6.  Dit lid is nog niet in werking getreden.   
+6.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de eisen waaraan een meetinrichting ten minste voldoet, waarbij ten aanzien van meetinrichtingen die op afstand uitleesbaar zijn in ieder geval regels worden gesteld ten aanzien van de beveiliging van meetgegevens.   
 7.  Het is anderen dan de desbetreffende leverancier verboden een taak uit te voeren als bedoeld in het eerste en tweede lid.  
 
 ### Artikel  8a  
@@ -312,27 +312,40 @@ Een representatieve organisatie wordt geacht belanghebbende te zijn bij besluite
 
 ### Hoofdstuk  8  
 
-####Doelmatige warmtevoorziening
+####Garanties van oorsprong
 
-Vervallen per 01-01-2014 
+### Artikel  25  
 
-### Paragraaf  1:  
+1.  Onze Minister is belast met het uitgeven en innemen via een elektronisch systeem van garanties van oorsprong voor warmte uit hernieuwbare energiebronnen.   
+2.  Onze Minister opent op aanvraag van een in Nederland gevestigde producent, leverancier, handelaar of afnemer een rekening voor warmte uit hernieuwbare bronnen. Bij deze aanvraag overlegt de producent het resultaat van de vaststelling, bedoeld in artikel 27.   
+3.  Onze Minister boekt op aanvraag garanties van oorsprong voor warmte uit hernieuwbare energiebronnen op een daarbij aangegeven rekening voor hernieuwbare bronnen, indien een Nederland gevestigde producent bij deze aanvraag de productiemeetgegevens overlegt.  
 
-####Subsidie
+### Artikel  26  
 
-Vervallen per 01-01-2014 
+Onze Minister kan de taken, bedoeld in artikel 25, mandateren aan een niet-ondergeschikte die onafhankelijk is van producenten, leveranciers en handelaren. 
 
-### Paragraaf  2:  
+### Artikel  27  
 
-####Tarieven
+Een meetbedrijf stelt op verzoek van een producent vast of diens productie-installatie geschikt is voor de opwekking van warmte uit hernieuwbare energiebronnen alsmede of de inrichting om te meten geschikt is voor de meting van de warmte uit hernieuwbare energiebronnen die met de productie-installatie wordt opgewekt en op een warmtenet ingevoed. 
 
-Vervallen per 01-01-2014 
+### Artikel  28  
 
-### Paragraaf  3:  
+Een garantie van oorsprong voor warmte uit hernieuwbare energiebronnen toont bij uitsluiting aan dat de daarop aangegeven hoeveelheid warmte is opgewekt uit hernieuwbare bronnen. 
 
-####Lozing van restwarmte
+### Artikel  29  
 
-Vervallen per 01-01-2014 
+1.  Onze Minister stelt bij ministeriële regeling de tarieven vast voor kosten die gepaard gaan met handelingen met betrekking tot garanties van oorsprong voor warmte uit hernieuwbare energiebronnen.   
+2.  Onze Minister stelt bij ministeriële regeling regels met betrekking tot: 
+
+a. de informatie die door producenten, leveranciers, handelaars, afnemers of netbeheerders verstrekt wordt aan Onze Minister;  
+
+b. het uitgeven en de geldigheidsduur van garanties van oorsprong voor warmte uit hernieuwbare energiebronnen;  
+
+c. het vermelden van gegevens op garanties van oorsprong voor warmte uit hernieuwbare energiebronnen;  
+
+d. de voorwaarden waaronder en de wijze waarop producenten, leveranciers, handelaars of afnemers gebruik kunnen maken van de door hen verkregen garanties van oorsprong voor warmte uit hernieuwbare energiebronnen of deze kunnen verhandelen;  
+
+e. de vaststelling, bedoeld in artikel 27.    
 
 ### Hoofdstuk  9  
 

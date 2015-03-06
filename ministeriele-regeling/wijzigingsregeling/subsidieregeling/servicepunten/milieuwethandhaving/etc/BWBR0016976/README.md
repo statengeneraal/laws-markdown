@@ -3,7 +3,7 @@
 ##Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 2 juli 2004, nr. VI/BZ 4930, houdende wijziging van de Subsidieregeling servicepunten milieuwethandhaving (verlenging subsidiemogelijkheid)
 
 De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,  
-Gelet op [artikel 15.13, eerste tot en met derde lid, van de Wet milieubeheer](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);
+Gelet op artikel 15.13, eerste tot en met derde lid, van de Wet milieubeheer;
 Besluit:   
 
 ### Artikel  I  
@@ -12,7 +12,7 @@ Wijzigt de Subsidieregeling servicepunten milieuwethandhaving.
 
 ### Artikel  II  
 
-De [Subsidieregeling servicepunten milieuwethandhaving](../../../../../../../ministeriele-regeling/subsidieregeling/servicepunten/milieuwethandhaving/BWBR0010666/README.md), zoals ze luidde voor het tijdstip waarop deze regeling in werking is getreden, blijft van toepassing op subsidies die voor de inwerkingtreding van deze regeling zijn aangevraagd op grond van die regeling. 
+De Subsidieregeling servicepunten milieuwethandhaving, zoals ze luidde voor het tijdstip waarop deze regeling in werking is getreden, blijft van toepassing op subsidies die voor de inwerkingtreding van deze regeling zijn aangevraagd op grond van die regeling. 
 
 ### Artikel  III  
 

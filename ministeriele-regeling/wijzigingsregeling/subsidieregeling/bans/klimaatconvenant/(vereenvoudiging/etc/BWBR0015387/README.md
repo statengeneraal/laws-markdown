@@ -3,16 +3,16 @@
 ##Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 15 juli 2003, nr. KvI2003070862, tot wijziging van de Subsidieregeling BANS klimaatconvenant (vereenvoudiging subsidievoorwaarden en vaststelling Prestatiekaart provincies)
 
 De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,  
-Gelet op [artikel 15.13, eerste tot en met derde lid, van de Wet milieubeheer](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);
+Gelet op artikel 15.13, eerste tot en met derde lid, van de Wet milieubeheer;
 Besluit:    
 
 ###Artikel I  
 
-Wijzigt de [Subsidieregeling BANS klimaatconvenant](../../../../../../../../ministeriele-regeling/subsidieregeling/bans/klimaatconvenant/BWBR0013383/README.md). 
+Wijzigt de Subsidieregeling BANS klimaatconvenant. 
 
 ### Artikel  II  
 
-De [Subsidieregeling BANS klimaatconvenant](../../../../../../../../ministeriele-regeling/subsidieregeling/bans/klimaatconvenant/BWBR0013383/README.md), zoals die regeling luidde voor de datum van inwerkingtreding van deze regeling, blijft van toepassing op: 
+De Subsidieregeling BANS klimaatconvenant, zoals die regeling luidde voor de datum van inwerkingtreding van deze regeling, blijft van toepassing op: 
 
 a. subsidie die is aangevraagd voor de datum van inwerkingtreding van deze regeling;  
 

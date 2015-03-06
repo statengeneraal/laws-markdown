@@ -3,12 +3,12 @@
 ##Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 8 april 2011, nr. 2011-2000031222, tot vaststelling van een verhoogd subsidieplafond ten behoeve van de afhandeling van aanvragen op voet van de Tijdelijke subsidieregeling maatwerkadviezen voor woningen
 
 De Minister van Binnenlandse Zaken en Koninkrijksrelaties,  
-Gelet op [artikel 15.13, eerste tot en met derde lid, van de Wet milieubeheer](../../../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md),
+Gelet op artikel 15.13, eerste tot en met derde lid, van de Wet milieubeheer,
 Besluit:    
 
 ### Artikel  1  
 
-Bij de afhandeling van aanvragen om subsidie op grond van de [Tijdelijke subsidieregeling maatwerkadviezen voor woningen](../../../../../../../../../../../ministeriele-regeling/tijdelijke/subsidieregeling/maatwerkadviezen/voor/woningen/BWBR0025997/README.md) geldt voor 2010 een, op 15 december 2010 uitgeput zijnd, subsidieplafond van € 10.676.000,–. 
+Bij de afhandeling van aanvragen om subsidie op grond van de Tijdelijke subsidieregeling maatwerkadviezen voor woningen geldt voor 2010 een, op 15 december 2010 uitgeput zijnd, subsidieplafond van € 10.676.000,–. 
 
 ### Artikel  2  
 

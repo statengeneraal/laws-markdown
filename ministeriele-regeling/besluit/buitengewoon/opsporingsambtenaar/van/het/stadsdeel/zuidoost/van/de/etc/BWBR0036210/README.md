@@ -69,7 +69,7 @@ De op naam gestelde akten van beëdiging en de overige benoemingsbescheiden, afg
 
 ### Artikel  10  
 
-Dit besluit treedt in werking met ingang van 4 februari 2015 en vervalt op 19 maart 2015. 
+Dit besluit treedt in werking met ingang van 4 februari 2015 en vervalt op 19 maart 2016. 
 
 ### Artikel  11  
 

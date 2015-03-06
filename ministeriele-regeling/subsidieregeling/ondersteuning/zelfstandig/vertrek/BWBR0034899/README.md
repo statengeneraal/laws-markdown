@@ -3,7 +3,7 @@
 ##Regeling van de Staatssecretaris van Veiligheid en Justitie van 5 maart 2014, nr. DT&V/beleid/2013/UIT-1108, houdende regels met betrekking tot subsidieverstrekking in het kader van ondersteuning zelfstandig vertrek (Subsidieregeling ondersteuning zelfstandig vertrek)
 
 De Staatssecretaris van Veiligheid en Justitie,  
-Gelet op de [artikelen 2, eerste lid, onderdeel g](../../../../../../wet/wet/overige/bzk-subsidies/BWBR0019756/README.md), [3](../../../../../../wet/wet/overige/bzk-subsidies/BWBR0019756/README.md) en [4 van de Kaderwet overige BZK-subsidies](../../../../../../wet/wet/overige/bzk-subsidies/BWBR0019756/README.md) en [artikel 8](../../../../../../AMvB/kaderbesluit/bzk-subsidies/BWBR0033530/README.md) en [11, derde lid, van het Kaderbesluit BZK-subsidies](../../../../../../AMvB/kaderbesluit/bzk-subsidies/BWBR0033530/README.md);
+Gelet op de artikelen 2, eerste lid, onderdeel g, 3 en 4 van de Kaderwet overige BZK-subsidies en artikel 8 en 11, derde lid, van het Kaderbesluit BZK-subsidies;
 Besluit:    
 
 ### Artikel  1  
@@ -13,7 +13,7 @@ De Minister kan op aanvraag een subsidie verstrekken ten behoeve van activiteite
 ### Artikel  2  
 
 1.  De aanvraag tot subsidieverlening wordt bij de Minister ingediend vóór 1 oktober van het jaar waarvoor de subsidie wordt verzocht.   
-2.  Op deze aanvragen wordt beslist op volgorde van binnenkomst. Indien een aanvrager niet heeft voldaan aan enig wettelijk voorschrift voor het in behandeling nemen van de aanvraag en met toepassing van [artikel 4:5 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) de gelegenheid heeft gehad de aanvraag aan te vullen, geldt de dag waarop de aanvraag voldoet aan de wettelijke voorschriften als datum van ontvangst.   
+2.  Op deze aanvragen wordt beslist op volgorde van binnenkomst. Indien een aanvrager niet heeft voldaan aan enig wettelijk voorschrift voor het in behandeling nemen van de aanvraag en met toepassing van artikel 4:5 van de Algemene wet bestuursrecht de gelegenheid heeft gehad de aanvraag aan te vullen, geldt de dag waarop de aanvraag voldoet aan de wettelijke voorschriften als datum van ontvangst.   
 3.  Voor de in artikel 1 genoemde activiteit geldt per kalenderjaar een subsidieplafond van EUR 1.000.000,00.   
 4.  De aanvraag wordt ingediend door middel van een elektronisch beschikbaar gesteld formulier.   
 5.  Bij de aanvraag worden de goedgekeurde jaarstukken over het laatst aanwezige, afgesloten boekjaar gevoegd.   

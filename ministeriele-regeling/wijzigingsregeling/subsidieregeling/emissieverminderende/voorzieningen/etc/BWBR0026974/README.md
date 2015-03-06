@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 8 december 2009, nr. K&L2009065561, houdende wijziging van de Subsidieregeling emissieverminderende voorzieningen voor voertuigen, de Subsidieregeling dieselmotoren voor binnenvaartschepen en de Subsidieregeling motorrijtuigen met een emissiearme dieselmotor en recht op teruggaaf BPM
 
 De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,  
-Gelet op [artikel 15.13, eerste tot en met derde lid, van de Wet milieubeheer](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);
+Gelet op artikel 15.13, eerste tot en met derde lid, van de Wet milieubeheer;
 Besluit:    
 
 ### Artikel  I  

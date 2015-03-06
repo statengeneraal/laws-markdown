@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de [Wet overige BiZa-subsidies](../../../../../wet/wet/overige/biza-subsidies/BWBR0009055/README.md) te vervangen door een nieuwe regeling;
+Alzo Wij in overweging genomen hebben, dat het wenselijk is de Wet overige BiZa-subsidies te vervangen door een nieuwe regeling;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  1  
@@ -57,7 +57,7 @@ g. intrekking of wijziging van de subsidieverlening of -vaststelling;
 
 h. de wijze van verdeling van beschikbare bedragen;  
 
-i. de vergoeding die verschuldigd is bij vermogensvorming, bedoeld in [artikel 4:41 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);  
+i. de vergoeding die verschuldigd is bij vermogensvorming, bedoeld in artikel 4:41 van de Algemene wet bestuursrecht;  
 
 j. de termijn van publicatie en de inrichting van het verslag over de doeltreffendheid en de effecten van de subsidie in de praktijk;  
 
@@ -79,12 +79,12 @@ b. de subsidie lager vaststellen dan overeenkomstig de subsidieverlening;
 c. de subsidieverlening of -vaststelling intrekken of ten nadele van de subsidie-ontvanger wijzigen.     
 2.  Bij de vaststelling, intrekking of wijziging, bedoeld in het eerste lid, kan worden bepaald dat over een onverschuldigd betaalde subsidie een rentevergoeding is verschuldigd.   
 3.  De intrekking of wijziging, bedoeld in het eerste lid, werkt terug tot en met het tijdstip waarop de subsidie is verstrekt, tenzij bij die intrekking of wijziging anders is bepaald.   
-4.  De [artikelen 4:49, derde lid](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), en [4:57, vierde lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn niet van toepassing op de vaststelling, intrekking en wijziging, bedoeld in het eerste lid.  
+4.  De artikelen 4:49, derde lid, en 4:57, vierde lid, van de Algemene wet bestuursrecht zijn niet van toepassing op de vaststelling, intrekking en wijziging, bedoeld in het eerste lid.  
 
 ### Artikel  6  
 
 1.  Met het toezicht op de naleving van de bij of krachtens deze wet aan de subsidie-ontvanger opgelegde verplichtingen zijn belast de bij besluit van Onze Minister aangewezen personen.   
-2.  De toezichthouder beschikt niet over de bevoegdheden, vermeld in de [artikelen 5:18](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:19 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+2.  De toezichthouder beschikt niet over de bevoegdheden, vermeld in de artikelen 5:18 en 5:19 van de Algemene wet bestuursrecht.   
 3.  Aan subsidies die op grond van deze wet zijn verstrekt, is de verplichting verbonden dat de subsidie-ontvanger aan een toezichthouder alle medewerking verleent die deze redelijkerwijze kan vorderen bij de uitoefening van zijn bevoegdheden.   
 4.  Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.  
 

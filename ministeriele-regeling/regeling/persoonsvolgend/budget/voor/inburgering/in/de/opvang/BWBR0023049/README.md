@@ -3,7 +3,7 @@
 ##Regeling van de Minister voor Wonen, Wijken en Integratie van 9 december 2007, nr. DJZ2007121937, houdende regels tot bevordering van inburgering van personen die vallen onder het besluit van de Staatssecretaris van Justitie van 12 juni 2007, nr. 2007/11, houdende wijziging van de Vreemdelingencirculaire 2000 en die in een opvangvoorziening verblijven (Regeling persoonsvolgend budget voor inburgering in de opvang)
 
 De Minister voor Wonen, Wijken en Integratie,  
-Gelet op de [artikelen 48r](../../../../../../../../../../wet/wet/justitie-subsidies/BWBR0008121/README.md) en [48s van de Wet Justitie-subsidies](../../../../../../../../../../wet/wet/justitie-subsidies/BWBR0008121/README.md) en [artikel 6.1, derde lid, van het Besluit inburgering](../../../../../../../../../../AMvB/besluit/inburgering/BWBR0020674/README.md);
+Gelet op de artikelen 48r en 48s van de Wet Justitie-subsidies en artikel 6.1, derde lid, van het Besluit inburgering;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -17,33 +17,33 @@ a. Minister: Minister van Sociale Zaken en Werkgelegenheid;
 
 b. persoonsvolgend budget: budget dat aan een PVB-gerechtigde ter beschikking wordt gesteld ten behoeve van diens inburgering;  
 
-c. PVB-gerechtigde: persoon als bedoeld in het besluit van de Staatssecretaris van Justitie van 12 juni 2007, nr. 2007/11, houdende wijziging van de Vreemdelingencirculaire 2000 (Stcrt. 2007, 111), die inburgeringsplichtig is op grond van de [artikelen 3 tot en met 6 van de Wet inburgering](../../../../../../../../../../wet/wet/inburgering/BWBR0020611/README.md) en die op 1 januari 2008 in een opvangvoorziening verblijft;  
+c. PVB-gerechtigde: persoon als bedoeld in het besluit van de Staatssecretaris van Justitie van 12 juni 2007, nr. 2007/11, houdende wijziging van de Vreemdelingencirculaire 2000 (Stcrt. 2007, 111), die inburgeringsplichtig is op grond van de artikelen 3 tot en met 6 van de Wet inburgering en die op 1 januari 2008 in een opvangvoorziening verblijft;  
 
-d. cursusinstelling: cursusinstelling als bedoeld in [artikel 1, eerste lid, onderdeel j, van de Wet inburgering](../../../../../../../../../../wet/wet/inburgering/BWBR0020611/README.md);  
+d. cursusinstelling: cursusinstelling als bedoeld in artikel 1, eerste lid, onderdeel j, van de Wet inburgering;  
 
-e. exameninstelling: exameninstelling als bedoeld in [artikel 1, eerste lid, onderdeel i, van de Wet inburgering](../../../../../../../../../../wet/wet/inburgering/BWBR0020611/README.md);  
+e. exameninstelling: exameninstelling als bedoeld in artikel 1, eerste lid, onderdeel i, van de Wet inburgering;  
 
-f. inburgeringsexamen: examen als bedoeld in [artikel 1, eerste lid, onderdeel k, van de Wet inburgering](../../../../../../../../../../wet/wet/inburgering/BWBR0020611/README.md);  
+f. inburgeringsexamen: examen als bedoeld in artikel 1, eerste lid, onderdeel k, van de Wet inburgering;  
 
-g. staatsexamen: staatsexamen Nederlands als tweede taal I of II als bedoeld in [artikel 7.3.1, eerste lid, onderdeel c, van de Wet educatie en beroepsonderwijs](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+g. staatsexamen: staatsexamen Nederlands als tweede taal I of II als bedoeld in artikel 7.3.1, eerste lid, onderdeel c, van de Wet educatie en beroepsonderwijs;  
 
 h. inburgeringsprogramma: programma dat de PVB-gerechtigde in staat stelt mondelinge en schriftelijke vaardigheden in de Nederlandse taal en kennis van de Nederlandse samenleving te verwerven, teneinde het inburgeringsexamen of het staatsexamen te behalen waarbij is inbegrepen eenmaal het kosteloos afleggen van het inburgeringsexamen of het staatsexamen;  
 
-i. Informatiesysteem Inburgering: Informatiesysteem Inburgering, bedoeld in [artikel 47 van de Wet inburgering](../../../../../../../../../../wet/wet/inburgering/BWBR0020611/README.md);  
+i. Informatiesysteem Inburgering: Informatiesysteem Inburgering, bedoeld in artikel 47 van de Wet inburgering;  
 
-j. COA: Centraal Orgaan opvang asielzoekers, bedoeld in [artikel 2 van de Wet Centraal Orgaan opvang asielzoekers](../../../../../../../../../../wet/wet/centraal/orgaan/opvang/asielzoekers/BWBR0006685/README.md);  
+j. COA: Centraal Orgaan opvang asielzoekers, bedoeld in artikel 2 van de Wet Centraal Orgaan opvang asielzoekers;  
 
 k. opvangvoorziening: accommodatie waarin door of onder verantwoordelijkheid van het COA een opvang wordt geboden aan asielzoekers;  
 
 l. uitstroom: vertrek van de PVB-gerechtigde uit een opvangvoorziening naar een gemeente;  
 
-m.taalkennisvoorziening: voorziening die is gericht op de verwerving van de kennis van de Nederlandse taal die noodzakelijk is voor het kunnen afronden van een beroepsopleiding als bedoeld in [artikel 7.2.2, eerste lid, onderdelen a en b, van de Wet educatie en beroepsonderwijs](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);
+m.taalkennisvoorziening: voorziening die is gericht op de verwerving van de kennis van de Nederlandse taal die noodzakelijk is voor het kunnen afronden van een beroepsopleiding als bedoeld in artikel 7.2.2, eerste lid, onderdelen a en b, van de Wet educatie en beroepsonderwijs;
 
-n. Wet inburgering: [Wet inburgering](../../../../../../../../../../wet/wet/inburgering/BWBR0020611/README.md), zoals die luidde op 31 december 2012;  
+n. Wet inburgering: Wet inburgering, zoals die luidde op 31 december 2012;  
 
-o. Besluit inburgering: [Besluit inburgering](../../../../../../../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), zoals dat luidde op 31 december 2012;  
+o. Besluit inburgering: Besluit inburgering, zoals dat luidde op 31 december 2012;  
 
-p. Regeling inburgering: [Regeling inburgering](../../../../../../../../../../ministeriele-regeling/regeling/inburgering/BWBR0020657/README.md), zoals die luidde op 31 december 2012.  
+p. Regeling inburgering: Regeling inburgering, zoals die luidde op 31 december 2012.  
 
 ### Artikel  2  
 
@@ -51,7 +51,7 @@ De Minister kan, onder de in deze regeling genoemde voorwaarden, een persoonsvol
 
 a.een inburgeringsprogramma en dit af te sluiten met het inburgeringsexamen of het staatsexamen, dan wel
 
-b.een taalkennisvoorziening, mits de PVB-gerechtigde een beroepsopleiding als bedoeld in [artikel 7.2.2, eerste lid, onderdelen a en b, van de Wet educatie en beroepsonderwijs](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) volgt of gaat volgen. 
+b.een taalkennisvoorziening, mits de PVB-gerechtigde een beroepsopleiding als bedoeld in artikel 7.2.2, eerste lid, onderdelen a en b, van de Wet educatie en beroepsonderwijs volgt of gaat volgen. 
 
 ### Hoofdstuk  2  
 
@@ -79,17 +79,17 @@ c. de aanvrager:
 
 – heeft niet gedurende de leerplichtige leeftijd acht jaar of langer in Nederland verbleven;  
 
-– is niet in het bezit van een diploma of document als bedoeld in [artikel 2.3 van het Besluit inburgering](../../../../../../../../../../AMvB/besluit/inburgering/BWBR0020674/README.md);  
+– is niet in het bezit van een diploma of document als bedoeld in artikel 2.3 van het Besluit inburgering;  
 
-– heeft geen bewijs dat de korte vrijstellingstoets, bedoeld in [artikel 2.7 van het Besluit inburgering](../../../../../../../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), is gehaald;  
+– heeft geen bewijs dat de korte vrijstellingstoets, bedoeld in artikel 2.7 van het Besluit inburgering, is gehaald;  
 
 – heeft niet de nationaliteit van een land behorende tot de Europese Unie, de Europese Economische Ruimte, of de Zwitserse nationaliteit;  
 
 – is niet 65 jaar of ouder;  
 
-– is niet leerplichtig of kwalificatieplichtig als bedoeld in [artikel 5, eerste lid, onder d, van de Wet inburgering](../../../../../../../../../../wet/wet/inburgering/BWBR0020611/README.md);    
+– is niet leerplichtig of kwalificatieplichtig als bedoeld in artikel 5, eerste lid, onder d, van de Wet inburgering;    
 
-d. de aanvrager heeft geen openstaande lening als bedoeld in [artikel 16 van de Wet inburgering](../../../../../../../../../../wet/wet/inburgering/BWBR0020611/README.md).     
+d. de aanvrager heeft geen openstaande lening als bedoeld in artikel 16 van de Wet inburgering.     
 3.  De Minister controleert of de ingediende factuur afkomstig is van een cursusinstelling of van een exameninstelling, een origineel is en voldoet aan de criteria, bedoeld in artikel 7, tweede lid.  
 
 ### Artikel  5  
@@ -130,8 +130,8 @@ d. de naam van de cursus of het examen.
 
 1.  Het COA neemt bij de PVB-gerechtigde een intaketoets af om het niveau van de vaardigheden in de Nederlandse taal en de kennis van de Nederlandse samenleving vast te stellen.   
 2.  Het COA is de PVB-gerechtigde door middel van voorlichting en begeleiding behulpzaam bij het afstemmen van de keuze van het inburgeringsprogramma dan wel de taalkennisvoorziening, en de cursusinstelling op zijn persoonlijke situatie.   
-3.  Het COA verwijst de PVB-gerechtigde door naar de gemeente waar hij staat ingeschreven en waar hij een aanvraag kan doen tot ontheffing van de inburgeringsplicht op grond van een psychische of lichamelijke belemmering dan wel verstandelijke handicap als bedoeld in [artikel 6, eerste lid, van de Wet inburgering](../../../../../../../../../../wet/wet/inburgering/BWBR0020611/README.md).   
-4.  De [artikelen 2.8 van het Besluit inburgering](../../../../../../../../../../AMvB/besluit/inburgering/BWBR0020674/README.md) en [2.4 van de Regeling inburgering](../../../../../../../../../../ministeriele-regeling/regeling/inburgering/BWBR0020657/README.md) zijn van overeenkomstige toepassing.  
+3.  Het COA verwijst de PVB-gerechtigde door naar de gemeente waar hij staat ingeschreven en waar hij een aanvraag kan doen tot ontheffing van de inburgeringsplicht op grond van een psychische of lichamelijke belemmering dan wel verstandelijke handicap als bedoeld in artikel 6, eerste lid, van de Wet inburgering.   
+4.  De artikelen 2.8 van het Besluit inburgering en 2.4 van de Regeling inburgering zijn van overeenkomstige toepassing.  
 
 ### Artikel  10  
 
@@ -144,11 +144,11 @@ d. de naam van de cursus of het examen.
 
 ### Artikel  11  
 
-Het COA draagt er zorg voor dat de inburgering door middel van een persoonsvolgend budget bij overplaatsing van de PVB-gerechtigde naar een andere opvangvoorziening als bedoeld in [artikel 11, eerste lid, van de Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen 2005](../../../../../../../../../../ministeriele-regeling/regeling/verstrekkingen/asielzoekers/en/andere/categorieën/vreemdelingen/etc/BWBR0017959/README.md) kan worden gecontinueerd. 
+Het COA draagt er zorg voor dat de inburgering door middel van een persoonsvolgend budget bij overplaatsing van de PVB-gerechtigde naar een andere opvangvoorziening als bedoeld in artikel 11, eerste lid, van de Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen 2005 kan worden gecontinueerd. 
 
 ### Artikel  12  
 
-De inburgering door middel van een persoonsvolgend budget mag de uitstroom in geen geval vertragen. [Artikel 7, eerste lid, aanhef en onder a, van de Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen 2005](../../../../../../../../../../ministeriele-regeling/regeling/verstrekkingen/asielzoekers/en/andere/categorieën/vreemdelingen/etc/BWBR0017959/README.md) is van overeenkomstige toepassing. 
+De inburgering door middel van een persoonsvolgend budget mag de uitstroom in geen geval vertragen. Artikel 7, eerste lid, aanhef en onder a, van de Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen 2005 is van overeenkomstige toepassing. 
 
 ### Artikel  13  
 

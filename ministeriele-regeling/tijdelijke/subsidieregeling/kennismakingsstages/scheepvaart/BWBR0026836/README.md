@@ -53,7 +53,13 @@ c. € 300.000 in 2012;
 
 d. € 300.000 in 2013;  
 
-e. € 300.000 in 2014.     
+e. € 300.000 in 2014;  
+
+f. € 250.000 in 2015;  
+
+g. € 250.000 in 2016;  
+
+h. € 250.000 in 2017.    
 2.  De kosten van de in artikel 6 bedoelde uitvoerders, verbonden aan de werkzaamheden ter uitvoering van deze regeling, komen ten laste van de in het eerste lid genoemde bedragen.  
 
 ### Artikel  5  
@@ -71,14 +77,13 @@ b. reeds driemaal eerder aan de aanvrager een subsidie is verstrekt krachtens de
 De minister kan de Directeur van het Bureau van de KVNR of de Directeur van de Stichting Scheepvaart te Amsterdam, dan wel beide, met de uitvoering van deze regeling belasten. 
 
 ### Artikel  6a  
-Treedt in werking per 31-12-2014 
 
 De minister neemt de beschikking tot subsidievaststelling binnen dertien weken na ontvangst van de aanvraag. 
 
 ### Artikel  7  
 
-1.  Deze regeling treedt in werking met ingang van 1 januari 2010.   
-2.  Deze regeling vervalt 1 januari 2015, met dien verstande dat zij van toepassing blijft op voordien gevolgde stages of aangevraagde stages en subsidies.  
+1.  Deze regeling treedt in werking met ingang van 1 januari 2010.  
+2. Deze regeling vervalt met ingang van 1 januari 2018. 
 
 ### Artikel  8  
 

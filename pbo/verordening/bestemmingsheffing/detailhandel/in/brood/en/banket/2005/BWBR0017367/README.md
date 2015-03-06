@@ -3,7 +3,7 @@
 ##Verordening van het Hoofdbedrijfschap Detailhandel van 27 oktober 2004 houdende vaststelling bestemmingsheffing detailhandel in brood en banket voor het jaar 2005 (Verordening bestemmingsheffing detailhandel in brood en banket 2005)
 
 Het bestuur van het Hoofdbedrijfschap Detailhandel;
-Gelet op de [artikelen 95, tweede lid](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de Bedrijfsorganisatie](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+Gelet op de artikelen 95, tweede lid en 126 van de Wet op de Bedrijfsorganisatie;
 
 Gezien het advies van de Commissie detailhandel in brood en banket;
 Besluit:
@@ -20,7 +20,7 @@ In deze verordening wordt verstaan onder:
 
 a.detailhandel in brood- en banketproducten: het aan particulieren verkopen van:
 
-brood, dit is de gebakken eetwaar als bedoeld in [artikel 1 sub d van het warenwetbesluit meel en brood](../../../../../../../../../../AMvB/warenwetbesluit/meel/en/brood/BWBR0009669/README.md);
+brood, dit is de gebakken eetwaar als bedoeld in artikel 1 sub d van het warenwetbesluit meel en brood;
 
 banket, dit is gebak met slagroom, banketbakkersroom of een dergelijke grondstof, dan wel met vers of gesteriliseerd fruit;
 
@@ -31,7 +31,7 @@ b.franchiseformule: een commerciële samenwerkingsvorm tussen ondernemers, waarb
 ###Artikel 2 
 Materieel uitgewerkt per 04-03-2006 
 
-In deze verordening zijn de begripsbepalingen van de [Heffingsverordening Hoofdbedrijfschap Detailhandel 2005](../../../../../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/detailhandel/2005/BWBR0017377/README.md) van overeenkomstige toepassing.
+In deze verordening zijn de begripsbepalingen van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2005 van overeenkomstige toepassing.
 
 ### Artikel  3  
 Materieel uitgewerkt per 04-03-2006 
@@ -43,7 +43,7 @@ a. de detailhandel in brood en banket uitsluitend in de vorm van ambulante hande
 
 b. de detailhandel in brood en banket uitoefenen in het kader van een franchiseformule en de franchisegever schriftelijk heeft verklaard, dat de verkoopplaatsen van de franchisenemers kunnen worden aangemerkt als eigen verkoopplaatsen in de zin van deze verordening;  
 
-c. aan het Hoofdbedrijfschap Ambachten op grond van de [Heffingsverordening banketbakkersbedrijf 2005](../../../../../../../../../../pbo/verordening/bestemmingsheffing/banketbakkersbedrijf/2005/BWBR0017410/README.md) de bestemmingsheffing banket zijn verschuldigd.    
+c. aan het Hoofdbedrijfschap Ambachten op grond van de Heffingsverordening banketbakkersbedrijf 2005 de bestemmingsheffing banket zijn verschuldigd.    
 
 ###§ 2 
 
@@ -69,7 +69,7 @@ b.de Nederlandse Vereniging voor de Bakkerij,en over het jaar 2004 contributie a
 
 a.krachtens haar statutaire doelstelling haar werkzaamheid kan uitstrekken tot ten minste een belangrijk gedeelte van het terrein waarop het bedrijfslichaam een taak heeft te vervullen,
 
-b.voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de [artikelen 3 tot en met 7 van de Verordening representativiteit organisaties](../../../../../../../../../../pbo/verordening/representativiteit/organisaties/BWBR0011641/README.md),
+b.voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de artikelen 3 tot en met 7 van de Verordening representativiteit organisaties,
 
 c.tot de werkingssfeer van het bedrijfslichaam behorende leden heeft, waarvan het gewogen aantal niet-onbetekenend is,
 
@@ -88,7 +88,7 @@ Materieel uitgewerkt per 04-03-2006
 ###Artikel 6 
 Materieel uitgewerkt per 04-03-2006 
 
-De [artikelen 6 tot en met 17 van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2005](../../../../../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/detailhandel/2005/BWBR0017377/README.md) zijn van overeenkomstige toepassing.
+De artikelen 6 tot en met 17 van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2005 zijn van overeenkomstige toepassing.
 
 ###Artikel 7 
 Materieel uitgewerkt per 04-03-2006 

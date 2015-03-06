@@ -3,12 +3,12 @@
 ##Subsidieregeling servicepunten milieuwethandhaving
 
 De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,  
-Gelet op [artikel 15.13, eerste tot en met derde lid, van de Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en de [artikelen 5](../../../../../AMvB/besluit/milieusubsidies/BWBR0010065/README.md), [6](../../../../../AMvB/besluit/milieusubsidies/BWBR0010065/README.md), [10](../../../../../AMvB/besluit/milieusubsidies/BWBR0010065/README.md) en [13 van het Besluit milieusubsidies](../../../../../AMvB/besluit/milieusubsidies/BWBR0010065/README.md);
+Gelet op artikel 15.13, eerste tot en met derde lid, van de Wet milieubeheer en de artikelen 5, 6, 10 en 13 van het Besluit milieusubsidies;
 Besluit:     
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder: a.  de minister:   de Minister van Volkshisvesting, Ruimtelijke Ordening en Milieubeheer;  b. beheerder:  op grond van [artikel 3.2, eerste lid, van de Waterwet](../../../../../wet/waterwet/BWBR0025458/README.md) aangewezen overheidslichaam;  c. convenant:   bestuursovereenkomst inzake de versterking van de milieuwethandhaving in een provincie waaraan in ieder geval wordt deelgenomen door het college van gedeputeerde staten van de desbetreffende provincie, de colleges van burgemeester en wethouders van ten minste vier vijfde van de gemeenten in de desbetreffende provincie, ten minste vier vijfde van de binnen de desbetreffende provincie werkzame beheerders en de minister;  d.  servicepunt:   werkeenheid, bestaande uit daartoe aangewezen medewerkers, die ten minste tot taak heeft binnen een provincie of een deel daarvan ten behoeve van de milieuwethandhaving door de aan een convenant deelnemende partijen: 
+In deze regeling wordt verstaan onder: a.  de minister:   de Minister van Volkshisvesting, Ruimtelijke Ordening en Milieubeheer;  b. beheerder:  op grond van artikel 3.2, eerste lid, van de Waterwet aangewezen overheidslichaam;  c. convenant:   bestuursovereenkomst inzake de versterking van de milieuwethandhaving in een provincie waaraan in ieder geval wordt deelgenomen door het college van gedeputeerde staten van de desbetreffende provincie, de colleges van burgemeester en wethouders van ten minste vier vijfde van de gemeenten in de desbetreffende provincie, ten minste vier vijfde van de binnen de desbetreffende provincie werkzame beheerders en de minister;  d.  servicepunt:   werkeenheid, bestaande uit daartoe aangewezen medewerkers, die ten minste tot taak heeft binnen een provincie of een deel daarvan ten behoeve van de milieuwethandhaving door de aan een convenant deelnemende partijen: 
 
 handhavingsprocessen te faciliteren;  
 
@@ -37,7 +37,7 @@ Het subsidieplafond bedraagt voor het jaar 2004 € 2.260.000,– en voor het ja
 
 ### Artikel  6  
 
-Onverminderd het bepaalde in [artikel 10 van het Besluit milieusubsidies](../../../../../AMvB/besluit/milieusubsidies/BWBR0010065/README.md) is de subsidieontvanger verplicht ervoor te zorgen dat: 
+Onverminderd het bepaalde in artikel 10 van het Besluit milieusubsidies is de subsidieontvanger verplicht ervoor te zorgen dat: 
 
 a.  het servicepunt, dan wel de servicepunten, beschikt, respectievelijk beschikken, over een doelmatig kwaliteitszorgsysteem; 
 
@@ -47,7 +47,7 @@ c.  via het servicepunt, dan wel de servicepunten, met inachtneming van op lande
 
 ### Artikel  7  
 
-Het jaarlijkse verslag, bedoeld in [artikel 13, eerste lid, van het Besluit milieusubsidies](../../../../../AMvB/besluit/milieusubsidies/BWBR0010065/README.md), wordt ingediend voor 1 juli van het jaar dat volgt op het verslagjaar. 
+Het jaarlijkse verslag, bedoeld in artikel 13, eerste lid, van het Besluit milieusubsidies, wordt ingediend voor 1 juli van het jaar dat volgt op het verslagjaar. 
 
 ### Artikel  8  
 

@@ -2,7 +2,7 @@
 
 ##Heffingsverordening Promotieactiviteiten Groothandel Groenten en Fruit 2004
 
-Het bestuur van het Hoofdbedrijfschap Agrarische Groothandel, gelet op [artikel 126](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [artikel 100 lid 3 van de Wet op de Bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op [artikel 13 van het Instellingsbesluit Hoofdbedrijfschap Agrarische Groothandel](../../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md) (Staatsblad 2002 nr.155), heeft na advies van de Commissie Groenten en Fruit de volgende verordening vastgesteld:
+Het bestuur van het Hoofdbedrijfschap Agrarische Groothandel, gelet op artikel 126 en artikel 100 lid 3 van de Wet op de Bedrijfsorganisatie en op artikel 13 van het Instellingsbesluit Hoofdbedrijfschap Agrarische Groothandel (Staatsblad 2002 nr.155), heeft na advies van de Commissie Groenten en Fruit de volgende verordening vastgesteld:
 
 ###Artikel 1 
 Materieel uitgewerkt per 09-04-2005 

@@ -3,7 +3,7 @@
 ##Subsidieregeling kennisprojecten verkeer en vervoer
 
 De Minister van Verkeer en Waterstaat,  
-Gelet op de [artikelen 2](../../../../../../../wet/kaderwet/subsidies/verkeer/en/waterstaat/BWBR0009196/README.md), [3](../../../../../../../wet/kaderwet/subsidies/verkeer/en/waterstaat/BWBR0009196/README.md) en [4 van de Kaderwet subsidies Verkeer en Waterstaat](../../../../../../../wet/kaderwet/subsidies/verkeer/en/waterstaat/BWBR0009196/README.md);
+Gelet op de artikelen 2, 3 en 4 van de Kaderwet subsidies Verkeer en Waterstaat;
 Besluit:     
 
 ### Artikel  1  
@@ -67,7 +67,7 @@ e.  preconcurrentiële ontwikkeling, ten hoogste 25% van de subsidiabele kosten.
 
 ### Artikel  5  
 
-Op de verstrekking van subsidies is [afdeling 4.2.8 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing, voorzover daarvan in deze regeling niet uitdrukkelijk wordt afgeweken.  
+Op de verstrekking van subsidies is afdeling 4.2.8 van de Algemene wet bestuursrecht van toepassing, voorzover daarvan in deze regeling niet uitdrukkelijk wordt afgeweken.  
 
 ###Artikel 6 
 

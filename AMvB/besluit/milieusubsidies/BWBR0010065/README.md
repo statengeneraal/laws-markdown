@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 19 augustus 1998, nr. MJZ 98079022, Centrale Directie Juridische Zaken, Afdeling Wetgeving; 
 
-Gelet op [artikel 15.13, eerste en tweede lid, van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md); 
+Gelet op artikel 15.13, eerste en tweede lid, van de Wet milieubeheer; 
 
 De Raad van State gehoord (advies van 9 oktober 1998, nr. W08.98.0402); 
 
@@ -18,11 +18,11 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In dit besluit en in een ministeriële regeling krachtens [artikel 15.13, eerste, tweede of derde lid, van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md), wordt verstaan onder:  
+In dit besluit en in een ministeriële regeling krachtens artikel 15.13, eerste, tweede of derde lid, van de Wet milieubeheer, wordt verstaan onder:  
 
 a. liquiditeitsbehoefte: behoefte van een subsidie-ontvanger aan liquide middelen ten behoeve van het verrichten van de te subsidiëren activiteit, gedurende het tijdvak waarvoor subsidie wordt verleend;   
 
-b. programma: ministeriële regeling krachtens [artikel 15.13, eerste, tweede of derde lid, van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md), of onderdeel daarvan;   
+b. programma: ministeriële regeling krachtens artikel 15.13, eerste, tweede of derde lid, van de Wet milieubeheer, of onderdeel daarvan;   
 
 c. Commissie: Commissie van de Europese Gemeenschappen.    
 
@@ -52,9 +52,9 @@ Indien Onze Minister subsidie verstrekt op aanvraag van een staat of een volkenr
 ### Artikel  5  
 
 1.  In een programma worden tenminste opgenomen het doel van de subsidieverstrekking, een aanduiding van de in aanmerking komende subsidie-ontvangers en van de subsidiabele kosten, en indien van toepassing: het subsidieplafond, het maximale subsidiepercentage, en het maximale subsidiebedrag.    
-2.  Indien voor een programma een subsidieplafond als bedoeld in [artikel 15.13, derde lid, van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md), wordt vastgesteld, wordt in dat programma in verband met de besluitvorming over de aanvraag, bedoeld in [artikel 15.13, tweede lid, onderdeel d, van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md), bepaald of bij de subsidieverlening:  
+2.  Indien voor een programma een subsidieplafond als bedoeld in artikel 15.13, derde lid, van de Wet milieubeheer, wordt vastgesteld, wordt in dat programma in verband met de besluitvorming over de aanvraag, bedoeld in artikel 15.13, tweede lid, onderdeel d, van de Wet milieubeheer, bepaald of bij de subsidieverlening:  
 
-a. wordt beslist in de volgorde van de ontvangst van de aanvragen, met dien verstande dat wanneer de aanvrager krachtens [artikel 4:5 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) de gelegenheid heeft gehad de aanvraag aan te vullen, de dag waarop de aanvraag is aangevuld voor die beslissing als datum van ontvangst van de aanvraag geldt, of   
+a. wordt beslist in de volgorde van de ontvangst van de aanvragen, met dien verstande dat wanneer de aanvrager krachtens artikel 4:5 van de Algemene wet bestuursrecht de gelegenheid heeft gehad de aanvraag aan te vullen, de dag waarop de aanvraag is aangevuld voor die beslissing als datum van ontvangst van de aanvraag geldt, of   
 
 b. aanvragen met betrekking tot soortgelijke activiteiten gelijktijdig worden beoordeeld op basis van hun geschiktheid om bij te dragen aan de doelstellingen van het programma.     
 
@@ -164,7 +164,7 @@ h. indien de aanvraag wordt ingediend als met de betrokken activiteit reeds is b
 a. 80 procent van de verleende subsidie, ingeval de subsidie-ontvanger een onderneming drijft, en   
 
 b. 95 procent van de verleende subsidie, ingeval de subsidie-ontvanger geen onderneming drijft.      
-7.  In het zesde lid wordt verstaan onder onderneming: onderneming als bedoeld in de [Wet op de omzetbelasting 1968](../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md).   
+7.  In het zesde lid wordt verstaan onder onderneming: onderneming als bedoeld in de Wet op de omzetbelasting 1968.   
 
 ### Artikel  13  
 
@@ -198,7 +198,7 @@ b. een financiële verantwoording;
 
 c. indien de gemaakte kosten 10 procent of meer afwijken van de begrotingspost: een toelichting daarop, en   
 
-d. indien de subsidie € 50 000 of meer bedraagt: een verklaring van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).      
+d. indien de subsidie € 50 000 of meer bedraagt: een verklaring van een accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek.      
 3.  Indien een beschikking tot subsidieverlening is gegeven, geldt voor de financiële verantwoording, bedoeld in het tweede lid, onderdeel b, dat de indeling en mate van detaillering in overeenstemming moeten zijn met de begroting op basis waarvan subsidie is verleend.    
 4.  Indien geen beschikking tot subsidieverlening is gegeven, is artikel 11, tweede lid, onderdelen b, f en g, van toepassing op de aanvraag van de beschikking tot subsidievaststelling, onverminderd het tweede lid.    
 5.  Het tweede lid, onderdelen b, c en d, is niet van toepassing op een subsidie waarbij het niet van belang is of de subsidiabele kosten met inachtneming waarvan de hoogte van de subsidie is verleend, ook daadwerkelijk zijn gerealiseerd.    
@@ -207,7 +207,7 @@ d. indien de subsidie € 50 000 of meer bedraagt: een verklaring van een accou
 
 ###Artikel 14a 
 
-Indien de subsidie-ontvanger een gemeente, een provincie of een regionaal openbaar lichaam op grond van [artikel 104 van de Wet gemeenschappelijke regelingen](../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md) is, zijn de artikelen 10, 13 en 14 niet van toepassing.
+Indien de subsidie-ontvanger een gemeente, een provincie of een regionaal openbaar lichaam op grond van artikel 104 van de Wet gemeenschappelijke regelingen is, zijn de artikelen 10, 13 en 14 niet van toepassing.
 
 ### Artikel  15  
 
@@ -257,11 +257,11 @@ b. het Subsidiebesluit maatschappelijke organisaties en milieu;
 
 c. het Subsidiebesluit milieugerichte technologie, en   
 
-d.  het [Subsidiebesluit openbare lichamen milieubeheer](../../../../AMvB/subsidiebesluit/openbare/lichamen/milieubeheer/BWBR0004739/README.md), met uitzondering van: 
+d.  het Subsidiebesluit openbare lichamen milieubeheer, met uitzondering van: 
 
-1°.de [artikelen 48a tot en met 48r](../../../../AMvB/subsidiebesluit/openbare/lichamen/milieubeheer/BWBR0004739/README.md) en [77](../../../../AMvB/subsidiebesluit/openbare/lichamen/milieubeheer/BWBR0004739/README.md) en de [bijlage B](../../../../AMvB/subsidiebesluit/openbare/lichamen/milieubeheer/BWBR0004739/README.md), die worden ingetrokken met ingang van 1 januari 2003, onderscheidenlijk  
+1°.de artikelen 48a tot en met 48r en 77 en de bijlage B, die worden ingetrokken met ingang van 1 januari 2003, onderscheidenlijk  
 
-2°.de [artikelen 1](../../../../AMvB/subsidiebesluit/openbare/lichamen/milieubeheer/BWBR0004739/README.md), [2](../../../../AMvB/subsidiebesluit/openbare/lichamen/milieubeheer/BWBR0004739/README.md), [2b](../../../../AMvB/subsidiebesluit/openbare/lichamen/milieubeheer/BWBR0004739/README.md), [4 tot en met 4d](../../../../AMvB/subsidiebesluit/openbare/lichamen/milieubeheer/BWBR0004739/README.md), [6 tot en met 6h](../../../../AMvB/subsidiebesluit/openbare/lichamen/milieubeheer/BWBR0004739/README.md), [8 tot en met 8d](../../../../AMvB/subsidiebesluit/openbare/lichamen/milieubeheer/BWBR0004739/README.md), [11 tot en met 11d](../../../../AMvB/subsidiebesluit/openbare/lichamen/milieubeheer/BWBR0004739/README.md), [11f tot en met 13](../../../../AMvB/subsidiebesluit/openbare/lichamen/milieubeheer/BWBR0004739/README.md), [15 tot en met 19](../../../../AMvB/subsidiebesluit/openbare/lichamen/milieubeheer/BWBR0004739/README.md), [50 tot en met 52](../../../../AMvB/subsidiebesluit/openbare/lichamen/milieubeheer/BWBR0004739/README.md), [55 tot en met 57](../../../../AMvB/subsidiebesluit/openbare/lichamen/milieubeheer/BWBR0004739/README.md), [81a](../../../../AMvB/subsidiebesluit/openbare/lichamen/milieubeheer/BWBR0004739/README.md) en [83](../../../../AMvB/subsidiebesluit/openbare/lichamen/milieubeheer/BWBR0004739/README.md) en de [bijlage A](../../../../AMvB/subsidiebesluit/openbare/lichamen/milieubeheer/BWBR0004739/README.md), de [bijlage C](../../../../AMvB/subsidiebesluit/openbare/lichamen/milieubeheer/BWBR0004739/README.md) en de bijlage Lijst industrieterrein in kader sanering industrielawaai, die worden ingetrokken met ingang van een bij koninklijk besluit te bepalen tijdstip dat voor verschillende artikelen verschillend kan worden vastgesteld.       
+2°.de artikelen 1, 2, 2b, 4 tot en met 4d, 6 tot en met 6h, 8 tot en met 8d, 11 tot en met 11d, 11f tot en met 13, 15 tot en met 19, 50 tot en met 52, 55 tot en met 57, 81a en 83 en de bijlage A, de bijlage C en de bijlage Lijst industrieterrein in kader sanering industrielawaai, die worden ingetrokken met ingang van een bij koninklijk besluit te bepalen tijdstip dat voor verschillende artikelen verschillend kan worden vastgesteld.       
 2.  De besluiten, bedoeld in het eerste lid, onder a tot en met c, zoals ze luidden voor het tijdstip waarop dit besluit in werking is getreden, blijven van toepassing op subsidies die voor de inwerkingtreding van dit besluit zijn aangevraagd op grond van een dergelijk besluit. De artikelen en bijlagen, genoemd in het eerste lid, onder d, zoals deze laatstelijk luidden voor het tijdstip waarop ze worden ingetrokken, blijven van toepassing op subsidies die voor dat tijdstip zijn aangevraagd op grond van één van die artikelen.   
 3.  Het Programma Hergebruik Afvalstoffen 1998 (PH'98), onderdeel van de regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 6 maart 1998, nr. DGM/SP 98022985, houdende vaststelling voor 1998 van programma‘s en subsidieplafonds Subsidiebesluit milieugerichte technologie (Stcrt. 1998, nr. 50), zoals nadien gewijzigd, wordt aangemerkt als een programma in de zin van dit besluit. In afwijking van het eerste lid, aanhef en onderdeel c, wordt het Subsidiebesluit milieugerichte technologie gehandhaafd ten behoeve van de toepassing van het Programma, bedoeld in de eerste volzin.    
 4.  Dit besluit is niet van toepassing op subsidies verstrekt krachtens de Subsidieregeling niet-industriële restwarmte-infrastructuur.   

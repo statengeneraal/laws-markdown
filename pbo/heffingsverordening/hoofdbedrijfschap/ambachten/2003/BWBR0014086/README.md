@@ -3,7 +3,7 @@
 ##Verordening van het Hoofdbedrijfschap Ambachten van 2 oktober 2002, houdende regels terzake van de aan de onder het hoofdbedrijfschap ressorterende ondernemers op te leggen heffing Hoofdbedrijfschap Ambachten voor het jaar 2003 (Heffingsverordening Hoofdbedrijfschap Ambachten 2003)
 
 Het Bestuur van het Hoofdbedrijfschap Ambachten;
-Gelet op [artikel 126, eerste lid, van de Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op de artikelen 7, eerste lid, onderdeel b en c, en artikel 10 van de Instellingsverordening Hoofdbedrijfschap Ambachten;
+Gelet op artikel 126, eerste lid, van de Wet op de bedrijfsorganisatie en op de artikelen 7, eerste lid, onderdeel b en c, en artikel 10 van de Instellingsverordening Hoofdbedrijfschap Ambachten;
 Besluit:
 ###§ 1 
 
@@ -22,7 +22,7 @@ b.de onderneming: de onderneming waarin een in artikel 2 van de instellingsveror
 
 c.de ondernemer: degene die een onderneming drijft dan wel degenen die gezamenlijk een onderneming drijven;
 
-d.werkzame personen: personen als bedoeld in [artikel 9, derde lid, van het Handelsregisterbesluit 1996](../../../../../../AMvB/handelsregisterbesluit/1996/BWBR0008920/README.md) die betrokken zijn bij de uitoefening van een in artikel 2 van de instellingsverordening genoemd bedrijf;
+d.werkzame personen: personen als bedoeld in artikel 9, derde lid, van het Handelsregisterbesluit 1996 die betrokken zijn bij de uitoefening van een in artikel 2 van de instellingsverordening genoemd bedrijf;
 
 e.de voorzitter: de voorzitter van het Hoofdbedrijfschap Ambachten.
 
@@ -92,7 +92,7 @@ a.een vereniging is met volledige rechtsbevoegdheid;
 
 b.krachtens haar statutaire doelstelling haar werkzaamheid kan uitstrekken tot ten minste een belangrijk gedeelte van het terrein waarop het bedrijfslichaam een taak heeft te vervullen;
 
-c.voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de [artikelen 3 tot en met 7 van de Verordening representativiteit organisaties](../../../../../../pbo/verordening/representativiteit/organisaties/BWBR0011641/README.md);
+c.voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de artikelen 3 tot en met 7 van de Verordening representativiteit organisaties;
 
 d.tot de werkingssfeer van het bedrijfslichaam behorende leden heeft, waarvan het gewogen aantal niet-onbetekend is;
 

@@ -3,7 +3,7 @@
 ##Tijdelijke subsidieregeling International Groundwater Resources Assesment Centre (Tijdelijke subsidieregeling IGRAC)
 
 De Staatssecretaris van Infrastructuur en Milieu,  
-Gelet op de [artikelen 2, aanhef en onderdeel d](../../../../../wet/kaderwet/subsidies/verkeer/en/waterstaat/BWBR0009196/README.md), [3](../../../../../wet/kaderwet/subsidies/verkeer/en/waterstaat/BWBR0009196/README.md) en [4 van de Kaderwet subsidies Verkeer en Waterstaat](../../../../../wet/kaderwet/subsidies/verkeer/en/waterstaat/BWBR0009196/README.md);
+Gelet op de artikelen 2, aanhef en onderdeel d, 3 en 4 van de Kaderwet subsidies Verkeer en Waterstaat;
 Besluit:    
 
 ### Artikel  1  
@@ -16,7 +16,7 @@ In deze regeling wordt verstaan onder:
 
 *subsidieontvanger:* De stichting International Groundwater Rescources Assesment Centre IGRAC, gevestigd te Delft;  
 
-*wet:* [Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+*wet:* Algemene wet bestuursrecht.   
 
 ### Artikel  2  
 
@@ -24,7 +24,7 @@ De minister kan voor de periode van 1 januari 2011 tot en met 31 december 2015 o
 
 ### Artikel  3  
 
-[Afdeling 4.2.8 van de wet](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing, met uitzondering van [artikel 4:60](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). 
+Afdeling 4.2.8 van de wet is van toepassing, met uitzondering van artikel 4:60. 
 
 ### Artikel  4  
 
@@ -40,7 +40,7 @@ De aanvraag tot subsidie wordt uiterlijk 1 oktober 2011 schriftelijk ingediend 
 
 ### Artikel  7  
 
-Onverminderd [artikel 4:35 van de wet](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan de minister de subsidieverlening geheel of gedeeltelijk weigeren indien naar zijn oordeel de aanvraag niet voldoet aan artikel 6. 
+Onverminderd artikel 4:35 van de wet kan de minister de subsidieverlening geheel of gedeeltelijk weigeren indien naar zijn oordeel de aanvraag niet voldoet aan artikel 6. 
 
 ### Artikel  8  
 
@@ -61,7 +61,7 @@ De subsidieverlening geschiedt onder de voorwaarde dat voor het deel van de subs
 
 ### Artikel  10  
 
-a. Onverminderd de [artikelen 4:68](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [4:69](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [4:70 van de wet](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is de subsidieontvanger verplicht tot:  
+a. Onverminderd de artikelen 4:68, 4:69 en 4:70 van de wet is de subsidieontvanger verplicht tot:  
 
 b. het onverwijld doen van een schriftelijke melding aan de minister zodra aannemelijk is dat de gesubsidieerde activiteiten niet, niet tijdig of niet geheel zullen worden verricht of dat niet, niet tijdig of niet geheel aan de aan de subsidie verbonden verplichtingen zal worden voldaan;  
 
@@ -92,7 +92,7 @@ e. andere verplichtingen die de minister wenselijk acht ter verwezenlijking van 
 
 a. een administratie wordt gevoerd die zodanig is ingericht dat een gescheiden administratie van kosten en baten wordt gevoerd voor de gesubsidieerde activiteiten enerzijds en de overige activiteiten anderzijds; en  
 
-b. een onderzoek als bedoeld in [artikel 4:79, eerste lid, van de wet](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wordt uitgevoerd en dat dit onderzoek geschiedt met inachtneming van hetgeen daarover is bepaald in het controleprotocol.    
+b. een onderzoek als bedoeld in artikel 4:79, eerste lid, van de wet wordt uitgevoerd en dat dit onderzoek geschiedt met inachtneming van hetgeen daarover is bepaald in het controleprotocol.    
 
 ### Artikel  12  
 
@@ -114,7 +114,7 @@ d. het doen van aangifte tot faillissement of het aanvragen van surseance van be
 
 ### Artikel  14  
 
-De subsidieontvanger dient de aanvraag tot subsidievaststelling, waarop [paragraaf 4.2.8.5 van de wet](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing is, in binnen zes maanden volgend op het boekjaar 2015. 
+De subsidieontvanger dient de aanvraag tot subsidievaststelling, waarop paragraaf 4.2.8.5 van de wet van toepassing is, in binnen zes maanden volgend op het boekjaar 2015. 
 
 ### Artikel  15  
 

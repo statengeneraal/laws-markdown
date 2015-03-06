@@ -3,7 +3,7 @@
 ##Regeling tijdelijke garantie ontslaguitkeringen SWOV
 
 De Minister van Verkeer en Waterstaat,  
-Gelet op de [artikelen 3](../../../../../../../wet/kaderwet/subsidies/verkeer/en/waterstaat/BWBR0009196/README.md) en [4 van de Kaderwet subsidies Verkeer en Waterstaat](../../../../../../../wet/kaderwet/subsidies/verkeer/en/waterstaat/BWBR0009196/README.md);
+Gelet op de artikelen 3 en 4 van de Kaderwet subsidies Verkeer en Waterstaat;
 Besluit:    
 
 ### Artikel  1  
@@ -30,7 +30,7 @@ d. de ontslaguitkeringen leiden tot uitkeringen aan ex-werknemers die niet afwij
 
 e. de SWOV aantoonbaar al het mogelijke heeft gedaan om aanspraken op ontslaguitkeringen te minimaliseren, en  
 
-f. de SWOV van de werking van deze regeling jaarlijks verslag doet in het jaarverslag, bedoeld in [artikel 391, van Boek 2, van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).     
+f. de SWOV van de werking van deze regeling jaarlijks verslag doet in het jaarverslag, bedoeld in artikel 391, van Boek 2, van het Burgerlijk Wetboek.     
 2.  De aanvulling, bedoeld in het eerste lid, zal een formatieve omvang van 50 fte’s niet overschrijden.  
 
 ### Artikel  3  

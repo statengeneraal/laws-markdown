@@ -3,24 +3,24 @@
 ##Regeling van de Minister van Infrastructuur en Milieu van 6 december 2011, nr. IENM/BSK-2011/161754 tot intrekking van enkele subsidieregelingen en het laten vervallen van een subsidieprogramma op de beleidsterreinen ruimtelijke ordening en milieu (Intrekking enkele subsidieregelingen en een subsidieprogramma)
 
 De Minister van Infrastructuur en Milieu,  
-Gelet op [artikel 15.13, eerste en tweede lid, van de Wet milieubeheer](../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [artikel 6.10, eerste lid, van de Wet ruimtelijke ordening](../../../../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) en de [artikelen 6.3.1.5, eerste lid](../../../../../../../../../AMvB/besluit/ruimtelijke/ordening/BWBR0023798/README.md), [6.3.2.1, vierde lid](../../../../../../../../../AMvB/besluit/ruimtelijke/ordening/BWBR0023798/README.md), en [6.3.4.1, vierde lid, van het Besluit ruimtelijke ordening](../../../../../../../../../AMvB/besluit/ruimtelijke/ordening/BWBR0023798/README.md);
+Gelet op artikel 15.13, eerste en tweede lid, van de Wet milieubeheer, artikel 6.10, eerste lid, van de Wet ruimtelijke ordening en de artikelen 6.3.1.5, eerste lid, 6.3.2.1, vierde lid, en 6.3.4.1, vierde lid, van het Besluit ruimtelijke ordening;
 Besluit:    
 
 ### Artikel  I  
 
 1. De volgende regelingen worden ingetrokken: 
 
-a.de [Projectstimuleringsregeling INTERREG IV](../../../../../../../../../ministeriele-regeling/projectstimuleringsregeling/interreg/iv/BWBR0022526/README.md);
+a.de Projectstimuleringsregeling INTERREG IV;
 
-b.de [RijksCofinancieringsregeling INTERREG IV](../../../../../../../../../ministeriele-regeling/rijkscofinancieringsregeling/interreg/iv/BWBR0023149/README.md);
+b.de RijksCofinancieringsregeling INTERREG IV;
 
-c.de [Subsidieregeling aanpak zwerfafval](../../../../../../../../../ministeriele-regeling/subsidieregeling/aanpak/zwerfafval/BWBR0022499/README.md);
+c.de Subsidieregeling aanpak zwerfafval;
 
-d.de [Subsidieregeling dieselmotoren voor binnenvaartschepen](../../../../../../../../../ministeriele-regeling/subsidieregeling/dieselmotoren/voor/binnenvaartschepen/BWBR0018788/README.md);
+d.de Subsidieregeling dieselmotoren voor binnenvaartschepen;
 
-e.de [Subsidieregeling maatschappelijke organisaties en milieu 2009](../../../../../../../../../ministeriele-regeling/subsidieregeling/maatschappelijke/organisaties/en/milieu/2009/BWBR0025911/README.md), en
+e.de Subsidieregeling maatschappelijke organisaties en milieu 2009, en
 
-f.de [Subsidieregeling milieugerichte technologie](../../../../../../../../../ministeriele-regeling/subsidieregeling/milieugerichte/technologie/BWBR0016362/README.md).
+f.de Subsidieregeling milieugerichte technologie.
 2. Wijzigt de Subsidieregeling emissieverminderende voorzieningen voor voertuigen.
 
 ### Artikel  II  

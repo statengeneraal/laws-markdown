@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Verkeer en Waterstaat houdende bepalingen met betrekking tot de verstrekking van subsidies voor duurzame mobiliteit, logistiek en duurzaam waterbeheer (Kaderregeling subsidies duurzaamheid verkeer en waterstaat)
 
 De Minister van Verkeer en Waterstaat,  
-Gelet op de [artikelen 2, aanhef, onderdelen a, c, d](../../../../../../../../wet/kaderwet/subsidies/verkeer/en/waterstaat/BWBR0009196/README.md), [3](../../../../../../../../wet/kaderwet/subsidies/verkeer/en/waterstaat/BWBR0009196/README.md) en [4 van de Kaderwet subsidies Verkeer en Waterstaat](../../../../../../../../wet/kaderwet/subsidies/verkeer/en/waterstaat/BWBR0009196/README.md);
+Gelet op de artikelen 2, aanhef, onderdelen a, c, d, 3 en 4 van de Kaderwet subsidies Verkeer en Waterstaat;
 Besluit:     
 ### §  1  
 
@@ -37,7 +37,7 @@ In deze regeling en in de op grond van deze regeling vastgestelde subsidieprogra
 
 – *onderzoeksinstelling:*
 
-a. een in [onderdelen a of b van de bijlage van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) genoemde instelling voor hoger onderwijs;  
+a. een in onderdelen a of b van de bijlage van de Wet op het hoger onderwijs en wetenschappelijk onderzoek genoemde instelling voor hoger onderwijs;  
 
 b. een andere dan in de onder a bedoelde onderzoeksinstelling die geheel of gedeeltelijk door de rijksoverheid is gefinancierd en die activiteiten verricht met als doel het uitbreiden van de algemene wetenschappelijke en technische kennis;  
 
@@ -127,7 +127,7 @@ b. voorschriften die het desbetreffende European Research Area Network programma
 
 ####Wijze van verdeling subsidiegelden
 
-1.  De beschikbare gelden van een subsidieprogramma worden verdeeld in volgorde van ontvangst van de aanvragen die voldoen aan het vereiste van artikel 7, met dien verstande dat wanneer de aanvrager krachtens [artikel 4:5 van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) de gelegenheid heeft gehad de aanvraag aan te vullen, de dag waarop de aanvulling compleet is ontvangen als datum van ontvangst van de aanvraag geldt.   
+1.  De beschikbare gelden van een subsidieprogramma worden verdeeld in volgorde van ontvangst van de aanvragen die voldoen aan het vereiste van artikel 7, met dien verstande dat wanneer de aanvrager krachtens artikel 4:5 van de Algemene wet bestuursrecht de gelegenheid heeft gehad de aanvraag aan te vullen, de dag waarop de aanvulling compleet is ontvangen als datum van ontvangst van de aanvraag geldt.   
 2.  In afwijking van het eerste lid worden, indien het subsidieprogramma bepaalt dat de gelden worden verdeeld in volgorde van rangschikking van de aanvragen, de beschikbare gelden verdeeld over de aanvragen op basis van de beoordelingscriteria zoals vastgelegd in het desbetreffende subsidieprogramma, te beginnen met het hoogst gerangschikte project.  
 
 ### Artikel  5  
@@ -328,7 +328,7 @@ De subsidiabele kosten van een haalbaarheidsproject gericht op industrieel onder
 
 a. de volgende rechtstreeks aan de uitvoering van het project toe te rekenen kosten: 
 
-1°. loonkosten van direct bij het project betrokken personeel, waarbij het uurloon wordt berekend aan de hand van het brutoloon, kolom 3: loon in geld, volgens de verzamelloonstaat, ingevolge [artikel 7.2 van de Uitvoeringsregeling loonbelasting 2011](../../../../../../../../ministeriele-regeling/uitvoeringsregeling/loonbelasting/2011/BWBR0028236/README.md), te delen door 1650 productieve uren, verhoogd met een forfaitair percentage van 20 voor de werkgeverslasten. In geval van een part-time dienstverband wordt het uurloon op voornoemde wijze berekend na omrekening van het brutoloon naar een full-time dienstverband;  
+1°. loonkosten van direct bij het project betrokken personeel, waarbij het uurloon wordt berekend aan de hand van het brutoloon, kolom 3: loon in geld, volgens de verzamelloonstaat, ingevolge artikel 7.2 van de Uitvoeringsregeling loonbelasting 2011, te delen door 1650 productieve uren, verhoogd met een forfaitair percentage van 20 voor de werkgeverslasten. In geval van een part-time dienstverband wordt het uurloon op voornoemde wijze berekend na omrekening van het brutoloon naar een full-time dienstverband;  
 
 2°. kosten van aanschaf van verbruikte materialen en hulpmiddelen, gebaseerd op historische aanschafprijzen;  
 
@@ -574,7 +574,7 @@ Indien in een subsidieprogramma is opgenomen dat vouchers kunnen worden verleend
 1.  De minister kan op aanvraageen voucher verstrekken ten behoeve van een project.   
 2.  Een aanvraag voor een voucher wordt ingediend bij de in het subsidieprogramma genoemde uitvoeringsinstantie, met gebruikmaking van het bij die instantie verkrijgbaar formulier, vastgesteld door de minister.   
 3.  De aanvraag gaat vergezeld van een activiteitenplan en een begroting voor het project, alsmede van andere in het formulier bedoelde bescheiden en gegevens.   
-4.  De vouchers worden verstrekt in volgorde van ontvangst van de aanvragen, met dien verstande dat wanneer de aanvrager krachtens [artikel 4:5 van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) de gelegenheid heeft gehad de aanvraag aan te vullen, de dag waarop de aanvulling is ontvangen als datum van ontvangst van de aanvraag geldt.  
+4.  De vouchers worden verstrekt in volgorde van ontvangst van de aanvragen, met dien verstande dat wanneer de aanvrager krachtens artikel 4:5 van de Algemene wet bestuursrecht de gelegenheid heeft gehad de aanvraag aan te vullen, de dag waarop de aanvulling is ontvangen als datum van ontvangst van de aanvraag geldt.  
 
 ### Artikel  28  
 
@@ -828,9 +828,9 @@ f. wat het totale bedrag van de gerealiseerde eigen bijdrage is.
 
 ### Artikel  48  
 
-####Intrekking [Regeling personenvervoer van deur tot deur en op maat](../../../../../../../../ministeriele-regeling/regeling/personenvervoer/van/deur/tot/deur/en/op/maat/BWBR0010372/README.md)
+####Intrekking Regeling personenvervoer van deur tot deur en op maat
 
-De [Regeling personenvervoer van deur tot deur en op maat](../../../../../../../../ministeriele-regeling/regeling/personenvervoer/van/deur/tot/deur/en/op/maat/BWBR0010372/README.md) wordt ingetrokken met dien verstande dat deze van toepassing blijft op subsidies die voor de inwerkingtreding van deze regeling zijn verleend. 
+De Regeling personenvervoer van deur tot deur en op maat wordt ingetrokken met dien verstande dat deze van toepassing blijft op subsidies die voor de inwerkingtreding van deze regeling zijn verleend. 
 
 ### Artikel  49  
 
@@ -868,7 +868,7 @@ J.C. Huizinga-Heringa
 
 #### Doelstelling
 
-Dit controleprotocol heeft als doel het geven van aanwijzingen omtrent de reikwijdte en de intensiteit van de controle aan de accountant, die is belast met de controle van de, door de subsidieontvanger, bij het Ministerie van Infrastructuur en Milieu (hierna te noemen IenM) in te dienen aanvraag om subsidievaststelling. De controle kan worden uitgevoerd door een accountant als bedoeld in [artikel 393, eerste lid van boek 2 van het Burgerlijk Wetboek](../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md). 
+Dit controleprotocol heeft als doel het geven van aanwijzingen omtrent de reikwijdte en de intensiteit van de controle aan de accountant, die is belast met de controle van de, door de subsidieontvanger, bij het Ministerie van Infrastructuur en Milieu (hierna te noemen IenM) in te dienen aanvraag om subsidievaststelling. De controle kan worden uitgevoerd door een accountant als bedoeld in artikel 393, eerste lid van boek 2 van het Burgerlijk Wetboek. 
 
 ### 1.2  
 

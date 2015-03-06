@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 12 april 2007 met kenmerk SAS 2007018801, houdende vaststelling van regels met betrekking tot de sanering van wegen in de omgeving van de gemeenten Hof van Twente en Harderwijk, waarin asbestbevattend materiaal is verwerkt
 
 De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,  
-Gelet op [artikel 15.13, eerste en tweede lid, van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);
+Gelet op artikel 15.13, eerste en tweede lid, van de Wet milieubeheer;
 Besluit:     
 ### §  1  
 
@@ -28,7 +28,7 @@ f. Asbestona: Martinit B.V. te Hof van Twente;
 g. eigenaar: eigenaar of degene die uit anderen hoofde bevoegd is handelingen te verrichten aan een asbestbevattende weg of aan asbestbevattende stroken;  
 
 h. de minister: de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.     
-2.  Onder asbest, serpentijnasbest en amfiboolasbest wordt verstaan hetgeen daaronder wordt verstaan in het [Besluit asbestwegen milieubeheer](../../../../../../AMvB/besluit/asbestwegen/wms/BWBR0011619/README.md).  
+2.  Onder asbest, serpentijnasbest en amfiboolasbest wordt verstaan hetgeen daaronder wordt verstaan in het Besluit asbestwegen milieubeheer.  
 
 ### Artikel  2  
 
@@ -47,7 +47,7 @@ e. wegen en stroken, waarop na 1 juli 1993 asbest is aangebracht;
 
 f. wegen en stroken, waarop asbestbevattende afvalstoffen zijn aangebracht die niet rechtstreeks afkomstig zijn van Asbestona of Eternit;  
 
-g. wegen, waarvoor krachtens de [Saneringsregeling asbestwegen Twente](../../../../../../ministeriele-regeling/saneringsregeling/asbestwegen/twente/BWBR0010552/README.md), de [Saneringsregeling overige asbestwegen](../../../../../../ministeriele-regeling/saneringsregeling/overige/asbestwegen/BWBR0011209/README.md), de [Saneringsregeling asbestwegen Haaksbergen](../../../../../../ministeriele-regeling/saneringsregeling/asbestwegen/haaksbergen/BWBR0012753/README.md) of de [Saneringsregeling asbestwegen tweede fase](../../../../../../ministeriele-regeling/saneringsregeling/asbestwegen/tweede/fase/BWBR0014611/README.md) een maatregel is toegekend.     
+g. wegen, waarvoor krachtens de Saneringsregeling asbestwegen Twente, de Saneringsregeling overige asbestwegen, de Saneringsregeling asbestwegen Haaksbergen of de Saneringsregeling asbestwegen tweede fase een maatregel is toegekend.     
 3.  Deze regeling is voorts van toepassing op wegen en stroken, gelegen buiten een straal van twaalf kilometer rond de voormalige gemeente Goor of buiten een straal van twaalf kilometer rond de gemeente Harderwijk, te rekenen vanaf de gemeentegrenzen, maar binnen Nederland voorzover er gegronde reden bestaat om aan te nemen dat die wegen en stroken niet zijn aan te merken als wegen en stroken, als bedoeld in het tweede lid, onder d, e en f.  
 
 ### §  2  
@@ -73,12 +73,12 @@ b. met betrekking tot de desbetreffende weg of stroken voor de inwerkingtreding 
 
 c. deze in overeenstemming is met de bij of krachtens de wet gegeven regels; 
 
-d. de weg niet voldoet aan [artikel 3, onderdeel b, van de Regeling nadere voorschriften asbestwegen milieubeheer](../../../../../../ministeriele-regeling/regeling/nadere/voorschriften/asbestwegen/wms/BWBR0011658/README.md).   
+d. de weg niet voldoet aan artikel 3, onderdeel b, van de Regeling nadere voorschriften asbestwegen milieubeheer.   
 
 ### Artikel  5  
 
 1. De minister kan aan de beschikking op een aanvraag als bedoeld in artikel 3 nadere voorwaarden verbinden.  
-2.  De minister kan naar aanleiding van een aanvraag als bedoeld in artikel 3 vanwege zwaarwichtige redenen besluiten om niet of niet volledig tot het doen verwijderen van asbest uit een asbestbevattende weg of strook over te gaan en kan in de plaats daarvan besluiten tot het doen aanbrengen van een duurzame afscherming van het asbest overeenkomstig [artikel 3, onderdeel b, van de Regeling nadere voorschriften asbestwegen milieubeheer](../../../../../../ministeriele-regeling/regeling/nadere/voorschriften/asbestwegen/wms/BWBR0011658/README.md).  
+2.  De minister kan naar aanleiding van een aanvraag als bedoeld in artikel 3 vanwege zwaarwichtige redenen besluiten om niet of niet volledig tot het doen verwijderen van asbest uit een asbestbevattende weg of strook over te gaan en kan in de plaats daarvan besluiten tot het doen aanbrengen van een duurzame afscherming van het asbest overeenkomstig artikel 3, onderdeel b, van de Regeling nadere voorschriften asbestwegen milieubeheer.  
 
 ### Artikel  6  
 
@@ -185,9 +185,9 @@ d. bevond zich asbest in de bermen van de weg? ja/nee*
 
 e. indien vraag 2d met ja is beantwoord, wat was het oppervlak van (het deel van) de bermen waarin zich asbest bevond (in meters)?  
 
-f. heeft u in het verleden op grond van de [Saneringsregeling asbestwegen Twente](../../../../../../ministeriele-regeling/saneringsregeling/asbestwegen/twente/BWBR0010552/README.md), de [Saneringsregeling overige asbestwegen](../../../../../../ministeriele-regeling/saneringsregeling/overige/asbestwegen/BWBR0011209/README.md), de [Saneringsregeling asbestwegen Haaksbergen](../../../../../../ministeriele-regeling/saneringsregeling/asbestwegen/haaksbergen/BWBR0012753/README.md) of de [Saneringsregeling asbestwegen tweede fase](../../../../../../ministeriele-regeling/saneringsregeling/asbestwegen/tweede/fase/BWBR0014611/README.md) een handeling voor de weg of de stroken aangevraagd? ja/nee*  
+f. heeft u in het verleden op grond van de Saneringsregeling asbestwegen Twente, de Saneringsregeling overige asbestwegen, de Saneringsregeling asbestwegen Haaksbergen of de Saneringsregeling asbestwegen tweede fase een handeling voor de weg of de stroken aangevraagd? ja/nee*  
 
-g. is op grond van de [Saneringsregeling asbestwegen Twente](../../../../../../ministeriele-regeling/saneringsregeling/asbestwegen/twente/BWBR0010552/README.md), de [Saneringsregeling overige asbestwegen](../../../../../../ministeriele-regeling/saneringsregeling/overige/asbestwegen/BWBR0011209/README.md), de [Saneringsregeling asbestwegen Haaksbergen](../../../../../../ministeriele-regeling/saneringsregeling/asbestwegen/haaksbergen/BWBR0012753/README.md) of de [Saneringsregeling asbestwegen tweede fase](../../../../../../ministeriele-regeling/saneringsregeling/asbestwegen/tweede/fase/BWBR0014611/README.md) reeds een handeling aan de weg of de stroken uitgevoerd? ja/nee*   3. Andere vragen over de asbestbevattende weg: 
+g. is op grond van de Saneringsregeling asbestwegen Twente, de Saneringsregeling overige asbestwegen, de Saneringsregeling asbestwegen Haaksbergen of de Saneringsregeling asbestwegen tweede fase reeds een handeling aan de weg of de stroken uitgevoerd? ja/nee*   3. Andere vragen over de asbestbevattende weg: 
 
 a. bevindt de weg zich binnen een straal van 12 kilometer rond de voormalige gemeente Goor of de gemeente Harderwijk, te rekenen vanaf de gemeentegrens? ja/nee/onbekend*  
 

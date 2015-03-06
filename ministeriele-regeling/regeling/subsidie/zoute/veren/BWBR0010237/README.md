@@ -3,7 +3,7 @@
 ##Regeling subsidie zoute veren
 
 De Minister van Verkeer en Waterstaat,   
-Gelet op [artikel 3 van de Kaderwet subsidies Verkeer en Waterstaat](../../../../../../wet/kaderwet/subsidies/verkeer/en/waterstaat/BWBR0009196/README.md) (Stb. 1997, 724) 
+Gelet op artikel 3 van de Kaderwet subsidies Verkeer en Waterstaat (Stb. 1997, 724) 
 Besluit:      
 ### 1  
 
@@ -25,7 +25,7 @@ De subsidie wordt een veerdienst verleend ter tegemoetkoming in en tot de hoogte
 
 De subsidie wordt verleend onder de volgende voorwaarden:  
 
-a.  de in artikel 3 bedoelde reductie is uitsluitend verleend aan houders van een Pas 65 of houders van een document als bedoeld in [artikel 1, eerste lid, van de Wet op de identificatieplicht](../../../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md) en houders van een paspoort uit een van de overige lidstaten van de Europese Unie waaruit de leeftijd van 65 jaar of ouder blijkt;  
+a.  de in artikel 3 bedoelde reductie is uitsluitend verleend aan houders van een Pas 65 of houders van een document als bedoeld in artikel 1, eerste lid, van de Wet op de identificatieplicht en houders van een paspoort uit een van de overige lidstaten van de Europese Unie waaruit de leeftijd van 65 jaar of ouder blijkt;  
 
 b.  voor deze reductie worden specifieke kaartsoorten gebruikt. Deze kaarten worden alleen gebruikt met op vertoon van een van de documenten als bedoeld onder a. Op deze kaarten wordt vermeld dat zij enkel samen op vertoon van een van de documenten als bedoeld onder a geldig kunnen worden gebruikt;  
 
@@ -38,7 +38,7 @@ c.  deze reductie bedraagt nooit meer dan 50% van de normaal voor een kaartsoort
 ### Artikel  5  
 
 1.  De directeur van een in artikel 2 genoemde veerdienst kan éénmaal per kwartaal van het kalenderjaar aan de hand van verkoopgegevens opgestelde voorschotnota’s indienen. De voorschotnota wordt binnen 30 dagen na afloop van het betreffende kwartaal ingediend.    
-2.  Uiterlijk negen maanden na afloop van een kalenderjaar dient de in het eerste lid genoemde directeur een definitieve afrekeningsnota in over het voorafgaande jaar. De afrekeningsnota is opgesteld dan wel gecontroleerd door een registeraccountant of een Accountant-Administratieconsulent ten aanzien van wie bij de inschrijving in het in [artikel 36, eerste lid, van de Wet op de Accountants-Administratieconsulent](../../../../../../wet/wet/op/de/accountants-administratieconsulenten/BWBR0002856/README.md) bedoelde register een aan-tekening is geplaatst als bedoeld in [artikel 36, derde lid, van die wet](../../../../../../wet/wet/op/de/accountants-administratieconsulenten/BWBR0002856/README.md).    
+2.  Uiterlijk negen maanden na afloop van een kalenderjaar dient de in het eerste lid genoemde directeur een definitieve afrekeningsnota in over het voorafgaande jaar. De afrekeningsnota is opgesteld dan wel gecontroleerd door een registeraccountant of een Accountant-Administratieconsulent ten aanzien van wie bij de inschrijving in het in artikel 36, eerste lid, van de Wet op de Accountants-Administratieconsulent bedoelde register een aan-tekening is geplaatst als bedoeld in artikel 36, derde lid, van die wet.    
 3.  De voorschot- en afrekeningsnota’s worden ingediend bij de betrokken hoofdingenieur-directeur van de Rijkswaterstaat in de regionale directie.   
 
 ### 3  

@@ -3,7 +3,7 @@
 ##Verordening van het Hoofdbedrijfschap Detailhandel van 27 oktober 2004, houdende vaststelling bestemmingsheffing modedetailhandel mkb voor het jaar 2005 (Verordening bestemmingsheffing modedetailhandel mkb 2005)
 
 Het bestuur van het Hoofdbedrijfschap voor de Detailhandel;
-Gelet op de [artikelen 95, tweede lid](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de Bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+Gelet op de artikelen 95, tweede lid en 126 van de Wet op de Bedrijfsorganisatie;
 
 Gezien het advies van de Adviescommissie modedetailhandel behorend tot het midden- en kleinbedrijf;
 Besluit:
@@ -25,7 +25,7 @@ b.midden- en kleinbedrijf: ondernemingen met ten hoogste 20 verkoopplaatsen en m
 ###Artikel 2 
 Materieel uitgewerkt per 04-03-2006 
 
-In deze verordening zijn de begripsbepalingen van de [Heffingsverordening Hoofdbedrijfschap Detailhandel 2005](../../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/detailhandel/2005/BWBR0017377/README.md) van overeenkomstige toepassing.
+In deze verordening zijn de begripsbepalingen van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2005 van overeenkomstige toepassing.
 
 ###Artikel 3 
 Materieel uitgewerkt per 04-03-2006 
@@ -73,7 +73,7 @@ Materieel uitgewerkt per 04-03-2006
 
 a.krachtens haar statutaire doelstelling haar werkzaamheid kan uitstrekken tot ten minste een belangrijk gedeelte van het terrein waarop het bedrijfslichaam een taak heeft te vervullen,
 
-b.voldoet aan de kwalitatieve representativiteitcriteria, genoemd in de [artikelen 3 tot en met 7 van de Verordening representativiteit organisaties](../../../../../../../pbo/verordening/representativiteit/organisaties/BWBR0011641/README.md),
+b.voldoet aan de kwalitatieve representativiteitcriteria, genoemd in de artikelen 3 tot en met 7 van de Verordening representativiteit organisaties,
 
 c.tot de werkingssfeer van het bedrijfslichaam behorende leden heeft, waarvan het gewogen aantal niet-onbetekenend is,
 
@@ -92,7 +92,7 @@ Materieel uitgewerkt per 04-03-2006
 ###Artikel 7 
 Materieel uitgewerkt per 04-03-2006 
 
-De [artikelen 6 tot en met 17 van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2005](../../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/detailhandel/2005/BWBR0017377/README.md) zijn van overeenkomstige toepassing.
+De artikelen 6 tot en met 17 van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2005 zijn van overeenkomstige toepassing.
 
 ###Artikel 8 
 Materieel uitgewerkt per 04-03-2006 

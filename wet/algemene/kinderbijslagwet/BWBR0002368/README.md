@@ -25,7 +25,7 @@ c. vreemdeling: hetgeen daaronder wordt verstaan in de Vreemdelingenwet 2000;
 d.  continentaal plat: de exclusieve economische zone van het Koninkrijk, bedoeld in artikel 1 van de Rijkswet instelling exclusieve economische zone, voor zover deze grenst aan de territoriale zee van Nederland.  
 
 ### Artikel  1a  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2017 
 
 Voor de toepassing van deze wet wordt een reisvoorziening voor de deelnemer als bedoeld in artikel 2.3, eerste lid, tweede volzin, niet beschouwd als studiefinanciering in de zin van de Wet studiefinanciering 2000. 
 

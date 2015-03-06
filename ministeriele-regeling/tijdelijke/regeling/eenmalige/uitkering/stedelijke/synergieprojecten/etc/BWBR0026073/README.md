@@ -3,7 +3,7 @@
 ##Regeling van de Staatssecretaris van Verkeer en Waterstaat met betrekking tot de verstrekking van eenmalige uitkeringen voor stedelijke synergieprojecten Kaderrichtlijn Water (Tijdelijke regeling eenmalige uitkering stedelijke synergieprojecten kaderrichtlijn water)
 
 De staatssecretaris van Verkeer en Waterstaat,  
-Gelet op de [artikelen 2, aanhef en onderdeel d](../../../../../../../../../wet/kaderwet/subsidies/verkeer/en/waterstaat/BWBR0009196/README.md), [3](../../../../../../../../../wet/kaderwet/subsidies/verkeer/en/waterstaat/BWBR0009196/README.md) en [4 van de Kaderwet subsidies Verkeer en Waterstaat](../../../../../../../../../wet/kaderwet/subsidies/verkeer/en/waterstaat/BWBR0009196/README.md) en [artikel 17, vijfde lid, van de Financiële-verhoudingswet](../../../../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md);
+Gelet op de artikelen 2, aanhef en onderdeel d, 3 en 4 van de Kaderwet subsidies Verkeer en Waterstaat en artikel 17, vijfde lid, van de Financiële-verhoudingswet;
 Besluit:    
 
 ### Artikel  1  
@@ -25,7 +25,7 @@ f.  *Agentschap NL:* agentschap van het Ministerie van Economische Zaken.
 ### Artikel  2  
 
 1.  De minister verleent een specifieke uitkering aan een aanvrager als tegemoetkoming in de kosten van een project.   
-2.  Op de verlening van een specifieke uitkering aan een gemeente zijn de [artikelen 4:35](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [4:38](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [4:46](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [4:47](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [4:48](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [4:49](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [4:50](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [4:55](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [4:57 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van overeenkomstige toepassing.  
+2.  Op de verlening van een specifieke uitkering aan een gemeente zijn de artikelen 4:35, 4:38, 4:46, 4:47, 4:48, 4:49, 4:50, 4:55 en 4:57 van de Algemene wet bestuursrecht van overeenkomstige toepassing.  
 
 ### Artikel  3  
 
@@ -103,7 +103,7 @@ d. levert een inhoudelijke eindrapportage aan volgens een model dat verkrijgbaar
 
 ### Artikel  10  
 
-1.  De gemeente waaraan een specifieke uitkering is verleend legt jaarlijks verantwoording af over de besteding daarvan conform [artikel 17a van de Financiële-verhoudingswet](../../../../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md) via het principe van «single information single audit».   
+1.  De gemeente waaraan een specifieke uitkering is verleend legt jaarlijks verantwoording af over de besteding daarvan conform artikel 17a van de Financiële-verhoudingswet via het principe van «single information single audit».   
 2.  Als in de verantwoordingsinformatie, bedoeld in het eerste lid, is opgenomen dat het project is afgerond, geldt deze mededeling als een aanvraag tot vaststelling van de specifieke uitkering.   
 3.  De minister geeft de beschikking tot vaststelling binnen dertien weken na ontvangst van de aanvraag tot vaststelling van de specifieke uitkering.   
 4.  Indien de beschikking niet binnen dertien weken kan worden gegeven, stelt de minister de betrokkene daarvan in kennis en noemt daarbij een redelijke termijn waarbinnen de beschikking tegemoet kan worden gezien.   

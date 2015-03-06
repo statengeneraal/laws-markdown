@@ -22,19 +22,19 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder: 
 
-a. wet: [Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);  
+a. wet: Wet milieubeheer;  
 
 b. Rijkswaterstaat: het Directoraat-Generaal Rijkswaterstaat van het Ministerie van Verkeer en Waterstaat;  
 
 c. NMP-2: Tweede Nationaal Milieubeleidsplan (kamerstukken II 1993/94, 23 560, nr. 2);  
 
-d. geluidsgevoelige ruimte van een woning: verblijfsruimte binnen een woning als bedoeld in [artikel 1.1 van het Bouwbesluit 2012](../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), met uitzondering van een keuken met een vloeroppervlak van minder dan 11m<sup>2</sup>;  
+d. geluidsgevoelige ruimte van een woning: verblijfsruimte binnen een woning als bedoeld in artikel 1.1 van het Bouwbesluit 2012, met uitzondering van een keuken met een vloeroppervlak van minder dan 11m<sup>2</sup>;  
 
 e. ander geluidsgevoelig gebouw: 
 
 1°. basisschool;  
 
-2°. school voor voortgezet onderwijs als bedoeld in de [Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+2°. school voor voortgezet onderwijs als bedoeld in de Wet op het voortgezet onderwijs;  
 
 3°. instelling voor hoger beroepsonderwijs;  
 
@@ -44,7 +44,7 @@ e. ander geluidsgevoelig gebouw:
 
 f. geluidsgevoelig terrein: terrein dat behoort bij een gebouw als bedoeld onder f, onder 5°, voor zover dat terrein bestemd is of gebruikt wordt voor de in dat gebouw gegeven zorg;  
 
-g. geluidwerende maatregelen: geluidwerende maatregelen aan de uitwendige scheidingsconstructie, bedoeld in [artikel 1.1 van het Bouwbesluit 2012](../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md);  
+g. geluidwerende maatregelen: geluidwerende maatregelen aan de uitwendige scheidingsconstructie, bedoeld in artikel 1.1 van het Bouwbesluit 2012;  
 
 h. verkeersmaatregelen: maatregelen met betrekking tot de weg die het geluid, veroorzaakt door het verkeer op de weg, verminderen.   
 
@@ -58,9 +58,9 @@ h. verkeersmaatregelen: maatregelen met betrekking tot de weg die het geluid, ve
 
 In deze afdeling en de daarop berustende bepalingen wordt verstaan onder:  
 
-a. zone: zone die krachtens of met overeenkomstige toepassing van [artikel 53 van de Wet geluidhinder](../../../../../../wet/wet/geluidhinder/BWBR0003227/README.md) of krachtens [artikel 59 van de Wet geluidhinder](../../../../../../wet/wet/geluidhinder/BWBR0003227/README.md) is vastgesteld;  
+a. zone: zone die krachtens of met overeenkomstige toepassing van artikel 53 van de Wet geluidhinder of krachtens artikel 59 van de Wet geluidhinder is vastgesteld;  
 
-b. programma van maatregelen: door gedeputeerde staten overeenkomstig [artikel 71, tweede, derde en vierde lid, van de Wet geluidhinder](../../../../../../wet/wet/geluidhinder/BWBR0003227/README.md) opgesteld programma van maatregelen;  
+b. programma van maatregelen: door gedeputeerde staten overeenkomstig artikel 71, tweede, derde en vierde lid, van de Wet geluidhinder opgesteld programma van maatregelen;  
 
 c. fase II van het akoestisch onderzoek: het deel van het akoestisch onderzoek dat plaatsvindt met het oog op de door gedeputeerde staten te maken keuze uit de mogelijk te treffen maatregelen ter uitvoering van het programma van maatregelen;  
 
@@ -68,8 +68,8 @@ d. fase III van het akoestisch onderzoek: het deel van het akoestisch onderzoek 
 
 ### Artikel  2b  
 
-1.  Onze Minister kan regels stellen omtrent het verstrekken van extra informatie indien hij zulks noodzakelijk acht vanwege onvoldoende herkenbaarheid van de toepassing en besteding van een subsidie als bedoeld in artikel 6*a*, eerste lid, in de informatie die gedeputeerde staten krachtens [artikel 27, eerste lid van het Besluit financiële verhouding 2001](../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md), aan hem verstrekken.   
-2.  Onze Minister kan voorts een controleprotocol vaststellen ten behoeve van het onderzoek door overeenkomstig [artikel 217, tweede lid, van de Provinciewet](../../../../../../wet/provinciewet/BWBR0005645/README.md) aangewezen accountants als bedoeld in [artikel 393, eerste lid, van boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) naar de bestedingen van de in het eerste lid bedoelde subsidie.  
+1.  Onze Minister kan regels stellen omtrent het verstrekken van extra informatie indien hij zulks noodzakelijk acht vanwege onvoldoende herkenbaarheid van de toepassing en besteding van een subsidie als bedoeld in artikel 6*a*, eerste lid, in de informatie die gedeputeerde staten krachtens artikel 27, eerste lid van het Besluit financiële verhouding 2001, aan hem verstrekken.   
+2.  Onze Minister kan voorts een controleprotocol vaststellen ten behoeve van het onderzoek door overeenkomstig artikel 217, tweede lid, van de Provinciewet aangewezen accountants als bedoeld in artikel 393, eerste lid, van boek 2 van het Burgerlijk Wetboek naar de bestedingen van de in het eerste lid bedoelde subsidie.  
 
 ### Artikel  4  
 
@@ -114,7 +114,7 @@ c. met betrekking tot de bijdrage, bedoeld in artikel 6*a* , voor het jaar 1995:
 3°. het bedrag dat van het in 1995 niet-uitgegeven bedrag is gereserveerd voor het doen van toekomstige uitgaven als bedoeld in artikel 6*a*, tweede lid;    
 
 d. het aantal saneringsprogramma’s waarvan alle maatregelen als bedoeld in artikel 6*a*, tweede lid, op 1 januari 1997 zullen zijn uitgevoerd.     
-3.   Bij de vermelding van de kosten van de uitgevoerde maatregelen per saneringsprogramma worden de kosten uitgesplitst naar de in [artikel 2, eerste lid, van het Besluit saneringsmaatregelen industrieterreinen 1994](../../../../../../AMvB/besluit/saneringsmaatregelen/industrieterreinen/1994/BWBR0007107/README.md) onderscheiden categorieën van maatregelen.   
+3.   Bij de vermelding van de kosten van de uitgevoerde maatregelen per saneringsprogramma worden de kosten uitgesplitst naar de in artikel 2, eerste lid, van het Besluit saneringsmaatregelen industrieterreinen 1994 onderscheiden categorieën van maatregelen.   
 4.   Voor zover het verlenen, wijzigen of aanvullen van een vergunning deel uitmaakt van de op 1 januari 1996 uitgevoerde maatregelen, bedoeld in artikel 6*a*, tweede lid, verklaren gedeputeerde staten ten aanzien van iedere verleende, gewijzigde of aangevulde vergunning dat deze voorziet in een effectuering vóór 1 januari 2003. De verklaringen maken deel uit van de gegevens, bedoeld in het tweede lid.   
 5.   Gedeputeerde staten verstrekken aan het Interprovinciaal Overleg, met ingang van 1997, telkens in januari van het lopende kalenderjaar de gegevens, bedoeld in het tweede lid, onder *b* en *c*, over het daaraan voorafgaande kalenderjaar en de gegevens, bedoeld in het tweede lid, onder *d*, per 1 januari van het kalenderjaar dat volgt op het lopende kalenderjaar. Het derde en vierde lid zijn van overeenkomstige toepassing.   
 6.   Indien de gegevens niet of onvolledig zijn verstrekt, doet het Interprovinciaal Overleg daarvan mededeling in de rapportage.  
@@ -126,7 +126,7 @@ Voorafgaand aan de subsidievaststelling wordt geen beschikking tot subsidieverle
 ### Artikel  6a  
 
 1.  Onze Minister geeft aan het provinciaal bestuur jaarlijks in de kalenderjaren 1995 tot en met 2002 ambtshalve een beschikking tot subsidievaststelling terzake van de kosten van het terugbrengen, vóór 1 januari 2003, van de geluidsbelasting vanwege alle in de provincie gelegen industrieterreinen, voor zover deze voorkomen op de in artikel 3 bedoelde lijst en het in artikel 3b bedoelde overzicht, van de binnen de zone rond die industrieterreinen gelegen woningen en andere geluidsgevoelige gebouwen.   
-2.   De subsidie kan uitsluitend worden besteed aan kosten van uiterlijk vóór 1 januari 2008 te treffen maatregelen als bedoeld in [artikel 2, eerste lid, onder a tot en met e, van het Besluit saneringsmaatregelen industrieterreinen 1994](../../../../../../AMvB/besluit/saneringsmaatregelen/industrieterreinen/1994/BWBR0007107/README.md). Voor zover het maatregelen betreft als bedoeld in [artikel 2, eerste lid, onder b en c, van het Besluit saneringsmaatregelen industrieterreinen 1994](../../../../../../AMvB/besluit/saneringsmaatregelen/industrieterreinen/1994/BWBR0007107/README.md) kan ten hoogste 20% van de met betrekking tot die maatregelen vastgestelde subsidie tevens worden besteed aan kosten van voorbereiding, begeleiding en toezicht van deze maatregelen.   
+2.   De subsidie kan uitsluitend worden besteed aan kosten van uiterlijk vóór 1 januari 2008 te treffen maatregelen als bedoeld in artikel 2, eerste lid, onder a tot en met e, van het Besluit saneringsmaatregelen industrieterreinen 1994. Voor zover het maatregelen betreft als bedoeld in artikel 2, eerste lid, onder b en c, van het Besluit saneringsmaatregelen industrieterreinen 1994 kan ten hoogste 20% van de met betrekking tot die maatregelen vastgestelde subsidie tevens worden besteed aan kosten van voorbereiding, begeleiding en toezicht van deze maatregelen.   
 
 ### Artikel  6b  
 
@@ -198,7 +198,7 @@ b. blijkens de hem toegezonden rapportage gedeputeerde staten aan het Interprovi
 
 ### Artikel  6h  
 
-1.  Indien de informatie, bedoeld in [artikel 27, eerste lid van het Besluit financiële verhouding 2001](../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md), over het jaar waarin de beschikking tot subsidievaststelling, bedoeld in artikel 6a, eerste lid, is genomen, niet vóór 15 september is toegezonden, doet Onze Minister daarvan binnen vier weken na het verstrijken van die termijn mededeling aan gedeputeerde staten.   
+1.  Indien de informatie, bedoeld in artikel 27, eerste lid van het Besluit financiële verhouding 2001, over het jaar waarin de beschikking tot subsidievaststelling, bedoeld in artikel 6a, eerste lid, is genomen, niet vóór 15 september is toegezonden, doet Onze Minister daarvan binnen vier weken na het verstrijken van die termijn mededeling aan gedeputeerde staten.   
 2.   Onze Minister stelt bij de in het eerste lid bedoelde mededeling een termijn van ten hoogste acht weken binnen welke de ontbrekende informatie alsnog moet worden verstrekt.  
 
 ### Afdeling  2  
@@ -288,7 +288,7 @@ Indien Onze Minister toepassing heeft gegeven aan artikel 55 geeft hij uiterlijk
 
 ### Artikel  81a  
 
-Dit besluit berust op de [artikelen 17, eerste en tweede lid, van de Financiële-verhoudingswet](../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), 15.13, eerste en tweede lid, en 21.8 van de [Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en 106, 126a, 129 en 174 van de [Wet geluidhinder](../../../../../../wet/wet/geluidhinder/BWBR0003227/README.md).  
+Dit besluit berust op de artikelen 17, eerste en tweede lid, van de Financiële-verhoudingswet, 15.13, eerste en tweede lid, en 21.8 van de Wet milieubeheer en 106, 126a, 129 en 174 van de Wet geluidhinder.  
 
 ### Artikel  83  
 

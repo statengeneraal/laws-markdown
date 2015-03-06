@@ -3,7 +3,7 @@
 ##Stimuleringsregeling gecombineerd goederenvervoer 2000
 
 De Minister van Verkeer en Waterstaat,  
-Gelet op de [artikelen 3](../../../../../../wet/kaderwet/subsidies/verkeer/en/waterstaat/BWBR0009196/README.md), [4](../../../../../../wet/kaderwet/subsidies/verkeer/en/waterstaat/BWBR0009196/README.md) en [6 van de Kaderwet subsidies Verkeer en Waterstaat](../../../../../../wet/kaderwet/subsidies/verkeer/en/waterstaat/BWBR0009196/README.md);
+Gelet op de artikelen 3, 4 en 6 van de Kaderwet subsidies Verkeer en Waterstaat;
 Besluit:    
 
 ### Artikel  1  

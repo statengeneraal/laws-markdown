@@ -3,7 +3,7 @@
 ##Regeling stimuliering multimodaal en intermodaal transport 1998 
 
 De Minister van Verkeer en Waterstaat,  
-Gelet op de [artikelen 3](../../../../wet/kaderwet/subsidies/verkeer/en/waterstaat/BWBR0009196/README.md) en [4 van de Kaderwet subsidies Verkeer en Waterstaat](../../../../wet/kaderwet/subsidies/verkeer/en/waterstaat/BWBR0009196/README.md);
+Gelet op de artikelen 3 en 4 van de Kaderwet subsidies Verkeer en Waterstaat;
 Besluit:     
 
 ### Artikel  1  
@@ -126,10 +126,10 @@ c.  voor zover zij rechtstreeks aan het project zijn toe te rekenen.
 
 ### Artikel  8  
 
-1.  De aanvragen worden behandeld in volgorde van ontvangst met dien verstande dat wanneer een aanvrager krachtens [artikel 4:5 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) in de gelegenheid wordt gesteld zijn aanvraag aan te vullen, de dag waarop de aanvullende gegevens zijn ontvangen geldt als datum van ontvangst.   
+1.  De aanvragen worden behandeld in volgorde van ontvangst met dien verstande dat wanneer een aanvrager krachtens artikel 4:5 van de Algemene wet bestuursrecht in de gelegenheid wordt gesteld zijn aanvraag aan te vullen, de dag waarop de aanvullende gegevens zijn ontvangen geldt als datum van ontvangst.   
 2.  De Minister neemt binnen zes weken na de datum van ontvangst van de aanvraag een beslissing.   
 3.  Indien meer tot dezelfde projectcategorie behorende aanvragen op dezelfde dag zijn ontvangen die betrekking hebben op een totaalbedrag aan subsidie dat hoger is dan het resterende gedeelte van het voor die categorie beschikbare subsidieplafond, dan wordt het resterende gedeelte naar evenredigheid over die aanvragen verdeeld.   
-4.  Behalve de in de [Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) geregelde gevallen wordt de aanvraag ook afgewezen indien: 
+4.  Behalve de in de Algemene wet bestuursrecht geregelde gevallen wordt de aanvraag ook afgewezen indien: 
 
 a.  hij niet binnen de in artikel 7, derde lid, genoemde periode is ingediend; 
 
@@ -179,7 +179,7 @@ e.  op een daartoe strekkend verzoek van de programmabeheerder zijn medewerking 
 
 ### Artikel  12  
 
-Behalve de in de [Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) geregelde gevallen kan de subsidie, zolang deze nog niet definitief is vastgesteld, worden ingetrokken indien de subsidie-ontvanger failliet is verklaard, aan hem surseance van betaling is verleend of ten aanzien van hem de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, dan wel een verzoek daartoe bij de rechtbank is ingediend.  
+Behalve de in de Algemene wet bestuursrecht geregelde gevallen kan de subsidie, zolang deze nog niet definitief is vastgesteld, worden ingetrokken indien de subsidie-ontvanger failliet is verklaard, aan hem surseance van betaling is verleend of ten aanzien van hem de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, dan wel een verzoek daartoe bij de rechtbank is ingediend.  
 
 ### Artikel  13  
 
