@@ -3,7 +3,7 @@
 ##Verordening van het bestuur van het Productschap Tuinbouw van 12 november 2013 tot het verstrekken van subsidies voor activiteiten op het terrein van de overige autonome taken van het productschap in verband met zijn opheffing (Verordening PT subsidieverstrekking overige autonome taken 2013)
 
 Het bestuur van het Productschap Tuinbouw;  
-Gelet op de [artikelen 71](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [93](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [123 van de Wet op de bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en de [artikelen 12](../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md) en [13 van het Instellingsbesluit Productschap Tuinbouw](../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md);
+Gelet op de artikelen 71, 93, 95 en 123 van de Wet op de bedrijfsorganisatie, en de artikelen 12 en 13 van het Instellingsbesluit Productschap Tuinbouw;
 
 Gehoord
 
@@ -19,7 +19,7 @@ de Commissie voor hovenierswerkzaamheden, d.d. 4 november 2013, en,
 
 de Commissie voor groenten en fruit, d.d. 31 oktober 2013,
 
-Gelet op [titel 4.2 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md),
+Gelet op titel 4.2 van de Algemene wet bestuursrecht,
 Besluit:    
 ###§ 1 
 
@@ -45,7 +45,7 @@ In de verordening wordt verstaan onder:
 ###Artikel 2 
 
 1. Het bestuur stelt vast dat in verband met de overdracht van de overige autonome taken volgens de procedure van belangstellingsregistratie een subsidie kan worden verstrekt. 
-2. Op de aanvraag en verstrekking van projectsubsidies en exploitatiesubsidies is het besluit [Beleidsregels PT project- en exploitatiesubsidies 2010](../../../../../../../../../pbo/beleidsregels/pt/project-/en/exploitatiesubsidies/2010/BWBR0028118/README.md) van toepassing.
+2. Op de aanvraag en verstrekking van projectsubsidies en exploitatiesubsidies is het besluit Beleidsregels PT project- en exploitatiesubsidies 2010 van toepassing.
 
 ###Artikel 3 
 
@@ -139,8 +139,8 @@ De subsidieontvanger is verplicht de met de uitvoering van deze verordening bela
 
 ###Artikel 9 
 
-1. De subsidie kan worden ingetrokken of ten nadele van de subsidieontvanger worden gewijzigd overeenkomstig het bepaalde in [artikel 4:49 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). 
-2. Indien de subsidie door de voorzitter wordt ingetrokken of ten nadele van de subsidieontvanger wordt gewijzigd overeenkomstig [artikel 4:49 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), kunnen de verstrekte bedragen na opheffing van het productschap door de bij de opheffingswet PBO aangewezen vereffenaar overeenkomstig [artikel 4:57 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) worden teruggevorderd, vermeerderd met de wettelijke rente over de periode vanaf de eerste uitbetaling tot aan het moment van algehele voldoening.
+1. De subsidie kan worden ingetrokken of ten nadele van de subsidieontvanger worden gewijzigd overeenkomstig het bepaalde in artikel 4:49 van de Algemene wet bestuursrecht. 
+2. Indien de subsidie door de voorzitter wordt ingetrokken of ten nadele van de subsidieontvanger wordt gewijzigd overeenkomstig artikel 4:49 van de Algemene wet bestuursrecht, kunnen de verstrekte bedragen na opheffing van het productschap door de bij de opheffingswet PBO aangewezen vereffenaar overeenkomstig artikel 4:57 van de Algemene wet bestuursrecht worden teruggevorderd, vermeerderd met de wettelijke rente over de periode vanaf de eerste uitbetaling tot aan het moment van algehele voldoening.
 3. De te betalen rente is de wettelijke rente zoals deze geldt op de laatste dag van de maand waarin de betaling van de subsidie heeft plaatsgevonden.
 
 ###§ 6 

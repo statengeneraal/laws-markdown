@@ -3,11 +3,11 @@
 ##Verordening van de Sociaal-Economische Raad van 20 mei 1994 inzake een regeling voor de behandeling van bezwaarschriften (Verordening behandeling bezwaarschriften)
 
 De Sociaal-Economische Raad;
-Gelet op [artikel 31 van de Wet op de bedrijfsorganisatie](../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+Gelet op artikel 31 van de Wet op de bedrijfsorganisatie;
 
-Gelet op de bepalingen van de [Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);
+Gelet op de bepalingen van de Algemene wet bestuursrecht;
 
-Gelet op de [Verordening instelling Commissie Bezwaarschriften](../../../../../pbo/verordening/instelling/commissie/bezwaarschriften/BWBR0006689/README.md);
+Gelet op de Verordening instelling Commissie Bezwaarschriften;
 Besluit:
 ###§ 1 
 
@@ -19,7 +19,7 @@ In deze verordening wordt verstaan onder:
 
 a.commissie: Commissie Bezwaarschriften;
 
-b.wet: [Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);
+b.wet: Algemene wet bestuursrecht;
 
 c.verwerend orgaan: bestuursorgaan dat de bestreden beslissing heeft genomen;
 
@@ -55,7 +55,7 @@ Het verslag van de hoorzitting wordt ondertekend door de voorzitter en de secret
 
 ###Artikel 6 
 
-Het horen als bedoeld in [artikel 7:9 van de wet](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) geschiedt op dezelfde wijze als het horen als bedoeld in [artikel 7:2](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) jo [artikel 7:13 van de wet](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).
+Het horen als bedoeld in artikel 7:9 van de wet geschiedt op dezelfde wijze als het horen als bedoeld in artikel 7:2 jo artikel 7:13 van de wet.
 
 ###Artikel 7 
 

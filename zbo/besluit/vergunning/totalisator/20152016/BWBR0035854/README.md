@@ -13,7 +13,7 @@ A.1 De vergunninghouder is verplicht de Kansspelautoriteit onmiddellijk te infor
 
 * dat Sportech Plc, een *public listed company *(London Stock Exchange) naar Brits recht gevestigd in Londen, of een 100%-dochtervennootschap van Sportech Plc, de enige aandeelhouder van de vergunninghouder is.    
 
-A.2 De vergunninghouder is verplicht de totalisator aan te bieden met inachtneming van het ‘Totalisatorreglement 2014’, d.d. 4 juni 2014. Gebruik van een ander reglement is uitsluitend toegestaan na voorafgaande schriftelijke toestemming van de Kansspelautoriteit.  
+A.2 De vergunninghouder is verplicht de totalisator aan te bieden met inachtneming van het ‘Totalisatorreglement 2015’ d.d. 6 januari 2015; Gebruik van een ander reglement is uitsluitend toegestaan na voorafgaande schriftelijke toestemming van de Kansspelautoriteit.  
 
 A.3 De Kansspelautoriteit kan, in uitzonderlijke gevallen en na voorafgaand overleg met de vergunninghouder, de vergunninghouder aanwijzingen geven met betrekking tot het totalisatorreglement. De vergunninghouder is verplicht deze aanwijzingen op te volgen.      
 ### B  

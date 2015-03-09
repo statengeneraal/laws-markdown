@@ -3,7 +3,7 @@
 ##Verordening van de Sociaal-Economische Raad van 21 december 2012 tot delegatie van diverse bestuurlijke bevoegdheden en instelling van de Bestuurskamer en de Toezichtkamer, alsmede regelen betreffende de taken, bevoegdheden en werkwijze van deze commissies (Verordening bestuurlijke taken SER)
 
 De Sociaal-Economische Raad;  
-Gelet op de [artikelen 19](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [35](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [37](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [42](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [44 van de Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+Gelet op de artikelen 19, 35, 37, 42 en 44 van de Wet op de bedrijfsorganisatie;
 Besluit:    
 ###§ 1 
 
@@ -38,37 +38,37 @@ De taken en bevoegdheden die bij of krachtens de Wet op de ondernemingsraden zij
 ###Artikel 4 
 
 1. De Bestuurskamer wordt belast met de voorbereiding van door de Raad uit te brengen adviezen die de taken van de Raad als bestuursorgaan betreffen. 
-2. De Bestuurskamer is gemachtigd namens de Raad van advies te dienen over onderwerpen samenhangend met [het tweede hoofdstuk van de Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md).
+2. De Bestuurskamer is gemachtigd namens de Raad van advies te dienen over onderwerpen samenhangend met het tweede hoofdstuk van de Wet op de bedrijfsorganisatie.
 
 ###Artikel 5 
 
-De taken en bevoegdheden die op grond van de hieronder genoemde bepalingen uit de [Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) zijn toegekend aan de Raad worden, met uitzondering van de bevoegdheid tot het maken van verordeningen, gedelegeerd aan de Bestuurskamer:
+De taken en bevoegdheden die op grond van de hieronder genoemde bepalingen uit de Wet op de bedrijfsorganisatie zijn toegekend aan de Raad worden, met uitzondering van de bevoegdheid tot het maken van verordeningen, gedelegeerd aan de Bestuurskamer:
 
-a.[artikel 74, eerste lid](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+a.artikel 74, eerste lid;
 
-b.[artikel 90, tweede lid](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+b.artikel 90, tweede lid;
 
-c.[artikel 106, eerste lid](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+c.artikel 106, eerste lid;
 
-d.[artikel 115](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+d.artikel 115;
 
-e.[artikel 116, eerste en tweede lid](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+e.artikel 116, eerste en tweede lid;
 
-f.[artikel 121, eerste en tweede lid](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+f.artikel 121, eerste en tweede lid;
 
-g.[artikel 122a](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+g.artikel 122a;
 
-h.[artikel 125, tweede lid](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+h.artikel 125, tweede lid;
 
-i.[artikel 125a](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+i.artikel 125a;
 
-j.[artikel 129](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+j.artikel 129;
 
-k.[artikel 137, tweede lid](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md). 
+k.artikel 137, tweede lid. 
 
 ###Artikel 6 
 
-De taken en bevoegdheden die op grond van de [artikelen 10](../../../../../../wet/wet/op/de/kamers/van/koophandel/en/fabrieken/1997/BWBR0009276/README.md) en [11 van de Wet op de kamers van koophandel en fabrieken 1997](../../../../../../wet/wet/op/de/kamers/van/koophandel/en/fabrieken/1997/BWBR0009276/README.md) zijn toegekend aan de Raad worden gedelegeerd aan de Bestuurskamer. 
+De taken en bevoegdheden die op grond van de artikelen 10 en 11 van de Wet op de kamers van koophandel en fabrieken 1997 zijn toegekend aan de Raad worden gedelegeerd aan de Bestuurskamer. 
 
 ###§ 4 
 
@@ -82,43 +82,43 @@ De taken en bevoegdheden die op grond van de [artikelen 10](../../../../../../we
 
 ###Artikel 8 
 
-De taken en bevoegdheden die op grond van de hieronder genoemde bepalingen uit de [Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) zijn toegekend aan de Raad worden, met uitzondering van de bevoegdheid tot het maken van verordeningen, gedelegeerd aan de Toezichtkamer: 
+De taken en bevoegdheden die op grond van de hieronder genoemde bepalingen uit de Wet op de bedrijfsorganisatie zijn toegekend aan de Raad worden, met uitzondering van de bevoegdheid tot het maken van verordeningen, gedelegeerd aan de Toezichtkamer: 
 
-a.[artikel 65, tweede lid](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+a.artikel 65, tweede lid;
 
-b.[artikel 69, vierde lid](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+b.artikel 69, vierde lid;
 
-c.[artikel 77](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+c.artikel 77;
 
-d.[artikel 83](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+d.artikel 83;
 
-e.[artikel 92a, vierde lid](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+e.artikel 92a, vierde lid;
 
-f.[artikel 94](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+f.artikel 94;
 
-g.[artikel 97, tweede lid, aanhef en onder a](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+g.artikel 97, tweede lid, aanhef en onder a;
 
-h.[artikel 109, derde lid](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+h.artikel 109, derde lid;
 
-i.[artikel 119](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+i.artikel 119;
 
-j.[artikel 120, tweede lid](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+j.artikel 120, tweede lid;
 
-k.[artikel 124, vierde lid](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+k.artikel 124, vierde lid;
 
-l.[artikel 125, tweede lid](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+l.artikel 125, tweede lid;
 
-m.[artikel 126, zevende lid](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+m.artikel 126, zevende lid;
 
-n.[artikel 134, tweede lid](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+n.artikel 134, tweede lid;
 
-o.[artikel 137, tweede lid](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+o.artikel 137, tweede lid;
 
-p.[artikel 137a, eerste lid](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md).
+p.artikel 137a, eerste lid.
 
 ###Artikel 9 
 
-De bevoegdheid tot het verlenen van de instemming, bedoeld in [artikel 46 van de Wet tuchtrechtspraak bedrijfsorganisatie 2004](../../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md), wordt gedelegeerd aan de Toezichtkamer. 
+De bevoegdheid tot het verlenen van de instemming, bedoeld in artikel 46 van de Wet tuchtrechtspraak bedrijfsorganisatie 2004, wordt gedelegeerd aan de Toezichtkamer. 
 
 ###§ 5 
 
@@ -126,7 +126,7 @@ De bevoegdheid tot het verlenen van de instemming, bedoeld in [artikel 46 van de
 
 ###Artikel 10 
 
-Na inwerkingtreding van deze verordening berust de [Verordening financiën bedrijfslichamen 2011](../../../../../../pbo/verordening/financiën/bedrijfslichamen/2011/BWBR0029876/README.md) mede op het bepaalde in de paragrafen 3 en 4 van deze verordening. 
+Na inwerkingtreding van deze verordening berust de Verordening financiën bedrijfslichamen 2011 mede op het bepaalde in de paragrafen 3 en 4 van deze verordening. 
 
 ###Artikel 11 
 
@@ -138,7 +138,7 @@ Wijzigt de Verordening financiën bedrijfslichamen 2011.
 
 ###Artikel 12 
 
-De [Instellingsverordening Bestuurskamer 2008](../../../../../../pbo/instellingsverordening/bestuurskamer/2008/BWBR0024271/README.md) wordt ingetrokken. 
+De Instellingsverordening Bestuurskamer 2008 wordt ingetrokken. 
 
 ###Artikel 13 
 

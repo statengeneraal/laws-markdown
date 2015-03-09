@@ -3,11 +3,11 @@
 ##Verordening van de Sociaal-Economische Raad van 20 mei 1994 houdende instelling van de Commissie Bezwaarschriften (Verordening instelling Commissie Bezwaarschriften)
 
 De Sociaal-Economische Raad;
-Gelet op [artikel 31 van de Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+Gelet op artikel 31 van de Wet op de bedrijfsorganisatie;
 
-Gelet op [artikel 7:13 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);
+Gelet op artikel 7:13 van de Algemene wet bestuursrecht;
 
-Gelet op de [Verordening behandeling bezwaarschriften](../../../../../../pbo/verordening/representativiteit/organisaties/BWBR0011641/README.md);
+Gelet op de Verordening behandeling bezwaarschriften;
 Besluit:
 ###§ 1 
 
