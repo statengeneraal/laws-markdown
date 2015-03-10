@@ -34,7 +34,11 @@ Een categorie I wapen voorhanden hebben, dragen of overdragen, alleen gepleegd.
 |  *Bedenkelijke omstandigheden*   | GB € 325  | 5j  2j  | GB € 475  Idem of TS 36 uur  | Eis TS 50 uur of  GS 3 wkn ov  |
 | I.7 jo. 3 sub g RWM  Niet of slecht detecteerbare nabootsing van een wapen  | GB € 700  | 5j  2j  | GB € 1.000  Idem of TS 80 uur  | Eis TS 90 uur of  GS 6 wkn ov  |
 |  *Bedenkelijke omstandigheden*   | GB € 1.000  | 5j  2j  | TS 100 uur  TS 100 uur  | Eis TS 120 uur of  GS 2 mnd ov  |
-|  *Bijzonderheden*   * let op eventueel taakstrafverbod van art 22b Wetboek van strafrecht (SR)  Strafverzwarend onder andere:  Meerdere wapens   *Op een vliegveld of aan boord van een vliegtuig*   Evenement of voetbal gerelateerd = onder bedenkelijke omstandigheden  Straf verminderend:   *Het wapen is niet gebruiksklaar en niet met eenvoudige hulpmiddelen weer bruikbaar te maken*   |
+|  *Bijzonderheden*   * let op eventueel taakstrafverbod van art 22b Wetboek van strafrecht (SR)  |
+| --- |
+| Strafverzwarend onder andere:  Meerdere wapens   *Op een vliegveld of aan boord van een vliegtuig*   Evenement of voetbal gerelateerd = onder *bedenkelijke omstandigheden*   |
+| --- |
+| Straf verminderend:   *Het wapen is niet gebruiksklaar en niet met eenvoudige hulpmiddelen weer bruikbaar te maken*   |
 
 ####Basiscasus/delict
 
@@ -72,7 +76,11 @@ Een categorie II en III (vuur)wapen voorhanden hebben of overdragen, alleen gepl
 |  *Bedenkelijke omstandigheden*   | GB € 325  | 5j  2j  | GB € 475  Idem of TS 36 uur  | Eis TS 50 uur of  GS 3 wkn ov  |
 | III.4 Alarm- cq startpistool/revolver  | GB € 700  | 5j  2j  | GB € 1.000  Idem of TS 80 uur  | Eis TS 44 uur of  GS 3 wkn ov  |
 |  *Bedenkelijke omstandigheden*   | GB € 1.000  | 5j  2j  | TS 100 uur  TS 100 uur  | Eis TS 120 uur of  GS 2 mnd ov  |
-|  *Bijzonderheden*   Verdachte in beginsel voorgeleiden bij vuurwapen(s)  * let op eventueel taakstrafverbod (art. 22b Sr)  Strafverzwarend onder andere:  Meerdere wapens   *Op een vliegveld of aan boord van een vliegtuig*   Evenement of voetbal gerelateerd = is onder bedenkelijke omstandigheden  Terroristisch oogmerk (art. 55 lid 5 WWM) (maatwerk)  Straf verminderend:   *Het wapen is niet gebruiksklaar en niet met eenvoudige hulpmiddelen weer bruikbaar te maken*   |
+|  *Bijzonderheden*   Verdachte in beginsel voorgeleiden bij vuurwapen(s)  * let op eventueel taakstrafverbod (art. 22b Sr)  |
+| --- |
+| Strafverzwarend onder andere:  Meerdere wapens   *Op een vliegveld of aan boord van een vliegtuig*   Evenement of voetbal gerelateerd = is onder *bedenkelijke omstandigheden*   Terroristisch oogmerk (art. 55 lid 5 WWM) (maatwerk)  |
+| --- |
+| Straf verminderend:   *Het wapen is niet gebruiksklaar en niet met eenvoudige hulpmiddelen weer bruikbaar te maken*   |
 
 ####Basiscasus/delict
 
@@ -82,7 +90,11 @@ Een categorie IV wapen dragen of overdragen aan een minderjarige, alleen gepleeg
 |:---|:---|:---|:---|:---|
 | Blank wapen, lemmet meer dan een snijkant  Degen, zwaard of sabel  Bajonet  Wapenstok  Lucht-, gas- of veerdrukwapen, niet zijnde cat I.7  Kruisboog of harpoen  Voorwerp, gelet op de aard en/of omstandigheden…  | GB € 225  | 5j  2j  | GB € 325  GB € 325  | Eis GB € 450  |
 |  *Bedenkelijke omstandigheden*   | GB € 325  | 5j  2j  | GB € 475  GB € 475  | Eis GB € 650  |
-|  *Bijzonderheden*   Let op dit betreft een overtreding die alleen met een geldboete kan worden bestraft.  Strafverzwarend onder andere:  Meerdere wapens   *Op een vliegveld of aan boord van een vliegtuig*   Evenement of voetbal gerelateerd = onder bedenkelijke omstandigheden  Straf verminderend:   *Het wapen is niet gebruiksklaar en niet met eenvoudige hulpmiddelen weer bruikbaar te maken*   |
+|  *Bijzonderheden*   Let op dit betreft een overtreding die alleen met een geldboete kan worden bestraft.  |
+| --- |
+| Strafverzwarend onder andere:  Meerdere wapens   *Op een vliegveld of aan boord van een vliegtuig*   Evenement of voetbal gerelateerd = onder *bedenkelijke omstandigheden*   |
+| --- |
+| Straf verminderend:   *Het wapen is niet gebruiksklaar en niet met eenvoudige hulpmiddelen weer bruikbaar te maken*   |
 
 ####Basiscasus/delict
 
@@ -107,7 +119,9 @@ Munitie voorhanden hebben of overdragen, alleen gepleegd.
 | 20–49  | GB vanaf € 175  | 5j  2j  | GB vanaf € 250  Idem of TS vanaf 20 uur  | Eis TS vanaf 28 uur of  GS vanaf 14 dgn ov  |
 | 50–99  | GB € 60i € 30 € 20derrs 1 dader, first offendermaatwerk. 62 uur ts, dan alles afronden. wroden.is afgerond 3 wkn gs.425  | 5j  2j  | GB € 600  Idem of TS 48 uur  | Eis TS 60 uur of  GS 1 mnd ov  |
 | 100 of meer  | Eis GB vanaf € 750 of TS vanaf 60 uur  | 5j  2j  | GB vanaf € 1.100  Idem of TS vanaf 80 uur  | Eis TS vanaf 100 uur of  GS vanaf 7 wkn ov  |
-|  *Bijzonderheden*   Bij zowel scherpe als niet scherpe munitie de bedragen uit de tabellen bij elkaar optellen  * let op eventueel taakstrafverbod (art. 22b Sr)  Strafverzwarend onder andere:   *Bedenkelijke omstandigheden*    *Op een vliegveld of aan boord van een vliegtuig*   |
+|  *Bijzonderheden*   Bij zowel scherpe als niet scherpe munitie de bedragen uit de tabellen bij elkaar optellen  * let op eventueel taakstrafverbod (art. 22b Sr)  |
+| --- |
+| Strafverzwarend onder andere:   *Bedenkelijke omstandigheden*    *Op een vliegveld of aan boord van een vliegtuig*   |
 
 ####Basiscasus/delict
 
@@ -125,7 +139,9 @@ Voorhanden hebben of overdragen van onderdelen of hulpstukken, alleen gepleegd.
 |  *Bedenkelijke omstandigheden*   | GB € 1.000  | 5j  2j  | TS 100 uur  TS 100 uur  | Eis TS 120 uur of  GS 2 mnd ov  |
 | (Onderdelen van) munitie  | GB € 150  | 5j  2j  | GB € 225  Idem of TS 16 uur  | Eis TS 24 uur of  GS 12 dgn ov  |
 |  *Bedenkelijke omstandigheden*   | GB € 225  | 5j  2j  | GB € 325  Idem of TS 24 uur  | Eis TS 36 uur of  GS 18 dgn ov  |
-|  *Bijzonderheden*   * let op eventueel taakstrafverbod (art. 22b Sr)  Strafverzwarend onder andere:  Onderdelen van meerdere wapens (maatwerk)   *Op een vliegveld of aan boord van een vliegtuig*   |
+|  *Bijzonderheden*   * let op eventueel taakstrafverbod (art. 22b Sr)  |
+| --- |
+| Strafverzwarend onder andere:  Onderdelen van meerdere wapens (maatwerk)   *Op een vliegveld of aan boord van een vliegtuig*   |
 
 ####Legenda
 

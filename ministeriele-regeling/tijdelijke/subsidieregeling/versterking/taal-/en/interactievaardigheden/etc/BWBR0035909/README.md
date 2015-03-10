@@ -57,7 +57,7 @@ b. leidinggevenden of stafmedewerkers bij een kindercentrum of bemiddelingsmedew
 
 ####Subsidieplafond
 
-1.  Het subsidieplafond voor subsidie op grond van deze regeling bedraagt voor het tijdvak van 16 december 2014 tot 16 december 2015 € 3 000 000.   
+1.   Het subsidieplafond voor subsidie op grond van deze regeling bedraagt voor het tijdvak van 16 december 2014 tot 16 december 2015 € 3.300 000.   
 2.  Na het in het eerste lid genoemde tijdvak volgen nog drie tijdvakken van twaalf maanden waarvoor per tijdvak een subsidieplafond wordt vastgesteld door de minister en bekend wordt gemaakt in de Staatscourant.  
 
 ### Artikel  6  
@@ -65,7 +65,7 @@ b. leidinggevenden of stafmedewerkers bij een kindercentrum of bemiddelingsmedew
 ####Aanvraagtijdvakken
 
 1.  De mogelijkheid tot het indienen van aanvragen om subsidie bestaat slechts gedurende door de minister vastgestelde vier aanvraagtijdvakken, gelegen in de periode van 16 december 2014 tot 16 december 2018.   
-2.  Het eerste aanvraagtijdvak loopt vanaf 16 december 2014, 9.00 uur tot en met 27 februari 2015, 17.00 uur.   
+2.   Het eerste aanvraagtijdvak loopt vanaf 16 december 2014, 9.00 uur tot en met 30 april 2015, 17.00 uur.   
 3.  De overige aanvraagtijdvakken worden door de minister vooraf bekend gemaakt in de Staatscourant.  
 
 ### Artikel  7  
@@ -103,7 +103,7 @@ b. leidinggevenden of stafmedewerkers bij een kindercentrum of bemiddelingsmedew
 1.  De minister beslist binnen 13 weken na afloop van de periode waarin aanvragen kunnen worden ingediend.   
 2.  De beschikking tot subsidieverlening vermeldt de termijn waarbinnen de subsidiabele activiteiten uiterlijk zijn verricht.   
 3.  De minister verleent bij de beschikking tot subsidieverlening een voorschot van 100% van de te verlenen subsidie.   
-4.  De subsidie wordt uiterlijk 61 weken na dagtekening van de beschikking tot subsidieverlening ambtshalve vastgesteld. De beschikking tot subsidieverlening vermeldt de termijn waarbinnen de subsidie ambtshalve wordt vastgesteld.  
+4.  De subsidie wordt uiterlijk 72 weken na dagtekening van de beschikking tot subsidieverlening ambtshalve vastgesteld. De beschikking tot subsidieverlening vermeldt de termijn waarbinnen de subsidie ambtshalve wordt vastgesteld.  
 
 ### Artikel  11  
 
@@ -129,7 +129,7 @@ d. aanspraak bestaat op subsidie of financiering uit andere hoofde.
 
 ####Overige verplichtingen subsidieontvanger
 
-1.  De subsidieontvanger is verplicht om binnen 39 weken, te rekenen vanaf de datum van dagtekening van de beschikking tot subsidieverlening, de activiteiten waarvoor de subsidie is verleend volledig te doen afronden.   
+1.  De subsidieontvanger is verplicht om binnen 50 weken, te rekenen vanaf de datum van dagtekening van de beschikking tot subsidieverlening, de activiteiten waarvoor de subsidie is verleend volledig te doen afronden.   
 2.  De subsidieontvanger verleent desgevraagd kosteloos medewerking aan een steekproef door of namens de minister teneinde te onderzoeken of de activiteiten waarvoor de subsidie is verleend, zijn verricht en of is voldaan aan de aan de subsidie verbonden verplichtingen.   
 3.  De subsidieontvanger toont in het kader van de in het tweede lid bedoelde steekproef op een daartoe strekkend verzoek van of namens de minister door overlegging van een certificaat, diploma of bewijs van deelname aan dat de activiteiten waarvoor de subsidie is verleend, zijn verricht.  
 

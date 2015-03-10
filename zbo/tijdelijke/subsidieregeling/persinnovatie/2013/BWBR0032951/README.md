@@ -5,15 +5,19 @@
 Het Stimuleringsfonds voor de pers,  
 Handelende na overleg met de Staatssecretaris van Onderwijs, Cultuur en Wetenschap;
 
-Gelet op [artikel 8.15a van de Mediawet 2008](../../../../../../wet/mediawet/2008/BWBR0025028/README.md);
+Gelet op artikel 8.15a van de Mediawet 2008;
 Besluit:     
 ### Hoofdstuk  1  
 
 ####Inleidende bepalingen
 
+Materieel uitgewerkt per 02-03-2015 
+
 ### Artikel  1  
 
 ####Te subsidiëren activiteiten en kosten
+
+Materieel uitgewerkt per 02-03-2015 
 
 1.  Het Stimuleringsfonds kan ten behoeve van de versterking en vernieuwing van de journalistieke infrastructuur in Nederland subsidie verstrekken voor activiteiten die voldoen aan één van de volgende eisen: 
 
@@ -27,6 +31,8 @@ b. Zij hebben betrekking op onderzoek naar de activiteiten genoemd onder a.
 
 ####Subsidieaanvrager
 
+Materieel uitgewerkt per 02-03-2015 
+
 1.  Subsidie kan worden aangevraagd door de voor de desbetreffende activiteiten verantwoordelijke rechtspersoon of rechtspersonen dan wel rechtspersoon of rechtspersonen in oprichting, die in Nederland actief is of zijn.   
 2.  In afwijking van het gestelde onder het eerste lid kan voor projecten tot maximaal € 50.000 subsidie worden aangevraagd door natuurlijke personen.   
 3.  De in de voorgaande leden bedoelde personen dienen voorafgaand aan de subsidieaanvraag een projectidee te hebben ingediend volgens de richtlijnen gepubliceerd op de website van het Stimuleringsfonds www.persinnovatie.nl dat is gevolgd door een positief advies van het Stimuleringsfonds om een aanvraag in te dienen.  
@@ -34,6 +40,8 @@ b. Zij hebben betrekking op onderzoek naar de activiteiten genoemd onder a.
 ### Artikel  3  
 
 ####Subsidieplafond
+
+Materieel uitgewerkt per 02-03-2015 
 
 1.  Voor subsidieverlening op grond van deze regeling is per ronde als bedoeld in artikel 5 € 450.000 beschikbaar.   
 2.  Als in de eerste ronde na subsidieverlening het voor die ronde beschikbare bedrag niet geheel is gebruikt, kan het resterende deel toegevoegd aan het beschikbare bedrag voor de tweede ronde.   
@@ -44,9 +52,13 @@ b. Zij hebben betrekking op onderzoek naar de activiteiten genoemd onder a.
 
 ####Subsidieaanvraag
 
+Materieel uitgewerkt per 02-03-2015 
+
 ### Artikel  4  
 
 ####Subsidieaanvraag
+
+Materieel uitgewerkt per 02-03-2015 
 
 1.  Subsidie wordt op aanvraag verleend.   
 2.  Een aanvraag wordt uitsluitend ingediend door middel van het invullen en ondertekenen van een door het Stimuleringsfonds vastgesteld aanvraagformulier volgens de op de website van het Stimuleringsfonds www.persinnovatie.nl vermelde instructies, en omvat in ieder geval: 
@@ -66,6 +78,8 @@ c. en informatie waaruit blijkt dat de aanvrager rechtspersoonlijkheid bezit dan
 
 ####Termijn indiening aanvraag
 
+Materieel uitgewerkt per 02-03-2015 
+
 Een aanvraag voor subsidie wordt ingediend: 
 
 a. voor aanvraagronde 1: voor 20 mei 2013; en  
@@ -76,9 +90,13 @@ b. voor aanvraagronde 2: voor 21 oktober 2013.
 
 ####Subsidieverlening
 
+Materieel uitgewerkt per 02-03-2015 
+
 ### Artikel  6  
 
 ####Criteria verdeling bij subsidieverlening
+
+Materieel uitgewerkt per 02-03-2015 
 
 1.  Het Stimuleringsfonds beslist gelijktijdig op de aanvragen op basis van de volgende criteria: 
 
@@ -94,6 +112,8 @@ c. de haalbaarheid van het ingediende activiteitenplan.
 
 ####Beslissing subsidieverlening
 
+Materieel uitgewerkt per 02-03-2015 
+
 1.  Het Stimuleringsfonds beslist binnen 13 weken na de sluiting van elke aanvraagronde, bedoeld in artikel 5 lid 2, op de aanvragen die voor de desbetreffende aanvraagronde zijn ingediend.   
 2.  Het Stimuleringsfonds kan bekendmaken door wie een aanvraag is ingediend en voor welk innovatieproject.   
 3.  Tijdens de behandeling van de aanvraag wordt de subsidieaanvrager in de gelegenheid gesteld de haalbaarheid en uitvoerbaarheid van het project op eigen verzoek met behulp van deskundigen te versterken.   
@@ -103,9 +123,13 @@ c. de haalbaarheid van het ingediende activiteitenplan.
 
 ####Verplichtingen subsidieontvanger
 
+Materieel uitgewerkt per 02-03-2015 
+
 ### Artikel  8  
 
 ####Medewerkings- en informatieplicht
+
+Materieel uitgewerkt per 02-03-2015 
 
 1.  Als subsidie wordt verstrekt aan een in oprichting zijnde rechtspersoon kan het Stimuleringsfonds bij de subsidieverlening de verplichting opleggen dat de subsidieontvanger binnen een redelijke termijn rechtspersoonlijkheid heeft verkregen.   
 2.  De subsidieontvanger werkt mee aan door of namens het Stimuleringsfonds ingestelde onderzoeken die erop gericht zijn het Stimuleringsfonds inlichtingen te verschaffen ten behoeve van de ontwikkeling van het door of namens het Stimuleringsfonds te voeren beleid.   
@@ -116,9 +140,13 @@ c. de haalbaarheid van het ingediende activiteitenplan.
 
 ####Subsidievaststelling
 
+Materieel uitgewerkt per 02-03-2015 
+
 ### Artikel  9  
 
 ####Aanvraag tot vaststelling
+
+Materieel uitgewerkt per 02-03-2015 
 
 Binnen twee maanden na afloop van het project waarvoor subsidie is verleend, dient de subsidieontvanger een aanvraag tot subsidievaststelling in. De aanvraag gaat vergezeld van een activiteitenverslag en een financieel verslag. 
 
@@ -126,7 +154,9 @@ Binnen twee maanden na afloop van het project waarvoor subsidie is verleend, die
 
 ####Financieel verslag en accountantsverklaring
 
-1.  Het financieel verslag gaat vergezeld van een verklaring van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), waarin deze verklaart dat de in het verslag opgenomen bedragen juist en volledig zijn.   
+Materieel uitgewerkt per 02-03-2015 
+
+1.  Het financieel verslag gaat vergezeld van een verklaring van een accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek, waarin deze verklaart dat de in het verslag opgenomen bedragen juist en volledig zijn.   
 2.  De controleverklaring bevat tevens een oordeel over de naleving van de aan de subsidie verbonden verplichtingen door de subsidieontvanger.   
 3.  Het Stimuleringsfonds kan nadere verplichtingen opleggen in verband met de inrichting van het financieel verslag en de controleverklaring.   
 4.  Het eerste lid is niet van toepassing op subsidies waarvan het verleende subsidiebedrag € 50.000 of minder bedraagt.   
@@ -136,6 +166,8 @@ Binnen twee maanden na afloop van het project waarvoor subsidie is verleend, die
 
 ####Activiteitenverslag
 
+Materieel uitgewerkt per 02-03-2015 
+
 1.  Het activiteitenverslag bevat een overzicht van de activiteiten waarvoor subsidie is verstrekt en van de daarmee bereikte resultaten, in het bijzonder: de gerealiseerde vernieuwingen en de effecten daarvan voor het eigen bedrijf, andere journalistieke actoren in de perssector en de gebruiker en geeft inzicht over de voortzetting van de activiteiten na afloop van de projectperiode.   
 2.  De inrichting van het verslag komt overeen met de inrichting van het activiteitenplan.   
 3.  Het verslag bevat, voor zover van toepassing, een analyse van verschillen tussen de voorgenomen activiteiten en beoogde resultaten, vermeld in het activiteitenplan, en de feitelijke realisatie.  
@@ -144,9 +176,13 @@ Binnen twee maanden na afloop van het project waarvoor subsidie is verleend, die
 
 ####Betaling
 
+Materieel uitgewerkt per 02-03-2015 
+
 ### Artikel  12  
 
 ####Betaling in gedeelten
+
+Materieel uitgewerkt per 02-03-2015 
 
 Bij subsidieverlening wordt bij wijze van voorschot ten hoogste 50 procent van het verleende subsidiebedrag verstrekt. 
 
@@ -154,15 +190,21 @@ Bij subsidieverlening wordt bij wijze van voorschot ten hoogste 50 procent van h
 
 ####Slotbepalingen
 
+Materieel uitgewerkt per 02-03-2015 
+
 ### Artikel  13  
 
 ####Inwerkingtreding
+
+Materieel uitgewerkt per 02-03-2015 
 
 Deze regeling treedt in werking met ingang van de dag na uitgifte van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  14  
 
 ####Evaluatie
+
+Materieel uitgewerkt per 02-03-2015 
 
 Binnen 13 weken na afloop van de datum, bedoeld in artikel 7, evalueert het Stimuleringsfonds de uitvoering van deze regeling. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  

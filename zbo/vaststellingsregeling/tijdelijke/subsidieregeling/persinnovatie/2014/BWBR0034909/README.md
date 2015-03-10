@@ -1,11 +1,11 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Regeling van het stimuleringsfonds voor de pers van 10 maart 2014, nr. 23952, tot vaststelling van een tijdelijke subsidieregeling Persinnovatie 2014
+##Tijdelijke subsidieregeling persinnovatie 2014
 
 Het Stimuleringsfonds voor de pers,  
 Handelende in overeenstemming met de Staatssecretaris van Onderwijs, Cultuur en Wetenschap,
 
-Gelet op [artikel 8.15a van de Mediawet 2008](../../../../../../../wet/mediawet/2008/BWBR0025028/README.md);
+Gelet op artikel 8.15a van de Mediawet 2008;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -126,7 +126,7 @@ Binnen twee maanden na afloop van het project waarvoor subsidie is verleend, die
 
 ####Financieel verslag en accountantsverklaring
 
-1.  Het financieel verslag gaat vergezeld van een verklaring van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), waarin deze verklaart dat de in het verslag opgenomen bedragen juist en volledig zijn.   
+1.  Het financieel verslag gaat vergezeld van een verklaring van een accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek, waarin deze verklaart dat de in het verslag opgenomen bedragen juist en volledig zijn.   
 2.  De controleverklaring bevat tevens een oordeel over de naleving van de aan de subsidie verbonden verplichtingen door de subsidieontvanger.   
 3.  Het Stimuleringsfonds kan nadere verplichtingen opleggen in verband met de inrichting van het financieel verslag en de controleverklaring.   
 4.  Het eerste lid is niet van toepassing op subsidies waarvan het verleende subsidiebedrag € 50.000 of minder bedraagt.   

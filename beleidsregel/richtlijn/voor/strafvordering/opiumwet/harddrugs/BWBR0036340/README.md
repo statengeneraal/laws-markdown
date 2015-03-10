@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Richtlijn voor strafvordering Opiumwet, harddrugs
+##Richtlijn voor strafvordering opiumwet, harddrugs
 
 ####Beschrijving
 
@@ -23,7 +23,7 @@ Plegen of medeplegen van aanwezig hebben t/m 5 gram/10 pillen/eenheden.
 | > 4 t/m 4,5 gram / 9 p/e  | GB € 700  | 5j  2j  | GB € 1.000  Idem of TS 80 uur  | Eis TS 90 uur of  GS 6 wkn ov  |
 | > 4,5 t/m 5 gram / 10 p/e  | GB € 750  | 5j  2j  | GB € 1.100  Idem of TS 80 uur  | Eis TS 90 uur of  GS 6 wkn ov  |
 |  *Bezit tot 5 gram met dealerindicatie*   | TS 80 uur  | 2j  5j  | TS 120 uur  Idem of GS 2 mnd  | GS 4 mnd ov  |
-|  *Bijzonderheden*   Voor bezit van meer dan 5 gram zie delict handel  * Let op het taakstrafverbod van art. 22b Wetboek van Strafrecht (Sr)  |
+|  *Bijzonderheden*   Voor bezit van meer dan 5 gram zie delict handel  * Let op het taakstrafverbod van art. 22b Wetboek van strafrecht (Sr)  |
 
 p/e = pillen/eenheden 
 
@@ -75,7 +75,7 @@ Handel in de zin van dealen gedurende een periode op straat of vanuit dealpanden
 | 3–6 maanden  | GS 8 mnd  | 5j  2j  | GS 13 mnd  GS 14 mnd  | GS 24 mnd ov  |
 | 6–12 maanden  | GS 12 mnd  | 5j  2j  | GS 20 mnd  GS 24 mnd  | GS > 24 mnd ov  |
 | > 12 maanden  | maatwerk  | --- | maatwerk  | maatwerk  |
-|  *Bijzonderheden*   De vordering tot gevangenisstraf zal waar mogelijk vergezeld dienen te gaan van een vordering tot ontneming of verbeurdverklaring. De eis kan mede afhangen van frequentie van dealen.  Strafverzwarend onder andere:  Georganiseerd verband/medeplegen  * Verstoring openbare orde en ernstige overlast is al deels verdisconteerd in uitgangspunt  |
+|  *Bijzonderheden*   De vordering tot gevangenisstraf zal waar mogelijk vergezeld dienen te gaan van een vordering tot ontneming of verbeurdverklaring. De eis kan mede afhangen van frequentie van dealen.  Strafverzwarend onder andere:  Georganiseerd verband/*medeplegen*  * *Verstoring openbare orde en ernstige overlast* is al deels verdisconteerd in uitgangspunt  |
 
 ####Basiscasus/delict
 
@@ -105,7 +105,7 @@ Handel in de zin van dealen gedurende een periode op straat of vanuit dealpanden
 | 20–50 kg  | GS 5 jaar  | Koerier max 4jaar  |
 | 50–100 kg  | GS 6 jaar  | --- |
 | > 100 kg  | maatwerk  | --- |
-|  *Bijzonderheden*   De vordering tot gevangenisstraf zal waar mogelijk vergezeld dienen te gaan van een vordering tot ontneming.  Strafverzwarend onder andere:  Georganiseerd verband (maatwerk)  Cumulatie van feiten (indicaties: frequenties, duur periode, opbrengsten en/of hoeveelheden)  Mate van recidive (maatwerk)  Rol verdachte  Als ambtenaar misbruik maken van bevoegdheid/functie  Als niet-ambtenaar misbruik maken van bevoegdheid/functie  Strafverminderend onder andere:  Rol verdachte  Persoonlijke omstandigheden (afhankelijk van de persoon(lijke omstandigheden) en of een aangevraagd reclasseringsrapport daartoe aanleiding geeft kan tot 4 jaar een deel van de gevangenisstraf voorwaardelijk worden geëist).  Wettelijk:  Poging (minus 1/3)  Voorbereiding/bevordering handel, productie of in/uitvoer (max 6 jaar, art 10a OW)  Medeplichtigheid (minus 1/3)  |
+|  *Bijzonderheden*   De vordering tot gevangenisstraf zal waar mogelijk vergezeld dienen te gaan van een vordering tot ontneming.  Strafverzwarend onder andere:  Georganiseerd verband (maatwerk)  Cumulatie van feiten (indicaties: frequenties, duur periode, opbrengsten en/of hoeveelheden)  Mate van *recidive* (maatwerk)  Rol verdachte  Als ambtenaar misbruik maken van bevoegdheid/functie  Als niet-ambtenaar misbruik maken van bevoegdheid/functie  Strafverminderend onder andere:  Rol verdachte  Persoonlijke omstandigheden (afhankelijk van de persoon(lijke omstandigheden) en of een aangevraagd reclasseringsrapport daartoe aanleiding geeft kan tot 4 jaar een deel van de gevangenisstraf voorwaardelijk worden geëist).  Wettelijk:  Poging (minus 1/3)  Voorbereiding/bevordering handel, productie of in/uitvoer (max 6 jaar, art 10a OW)  Medeplichtigheid (minus 1/3)  |
 
 p/e = pillen/eenheden 
 

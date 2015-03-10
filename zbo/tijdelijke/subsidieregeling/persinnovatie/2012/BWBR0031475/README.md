@@ -3,15 +3,19 @@
 ##Regeling van het stimuleringsfonds voor de pers van 30 maart 2012, nr. 21969, tot vaststelling van een tijdelijke subsidieregeling persinnovatie 2012
 
 Het Stimuleringsfonds voor de pers,  
-Gelet op [artikel 8.3, tweede lid, onder a, van de Mediawet 2008](../../../../../../wet/mediawet/2008/BWBR0025028/README.md);
+Gelet op artikel 8.3, tweede lid, onder a, van de Mediawet 2008;
 Besluit:     
 ### Hoofdstuk  1  
 
 ####Inleidende bepalingen
 
+Materieel uitgewerkt per 21-04-2014 
+
 ### Artikel  1  
 
 ####Te subsidiëren activiteiten en kosten
+
+Materieel uitgewerkt per 21-04-2014 
 
 1.  Het Stimuleringsfonds kan ten behoeve van de versterking en vernieuwing van de journalistieke infrastructuur in Nederland subsidie verstrekken voor activiteiten die voldoen aan ten minste twee van de volgende eisen: 
 
@@ -31,12 +35,16 @@ e. zij hebben betrekking op lokale of regionale journalistieke activiteiten.
 
 ####Subsidieaanvrager
 
+Materieel uitgewerkt per 21-04-2014 
+
 1.  Subsidie kan worden aangevraagd door de voor de desbetreffende activiteiten verantwoordelijke rechtspersoon of rechtspersonen dan wel rechtspersoon of rechtspersonen in oprichting, die in Nederland actief is of zijn.   
 2.  In afwijking van het gestelde onder het eerste lid kan voor projecten tot maximaal € 50.000 subsidie worden aangevraagd door natuurlijke personen.  
 
 ### Artikel  3  
 
 ####Subsidieplafond
+
+Materieel uitgewerkt per 21-04-2014 
 
 1.  Voor subsidieverlening op grond van deze regeling is € 800.000 beschikbaar.   
 2.  Per aanvraag kan subsidie worden verstrekt voor ten hoogste een bedrag van € 100.000 en voor een periode van maximaal één jaar.   
@@ -46,9 +54,13 @@ e. zij hebben betrekking op lokale of regionale journalistieke activiteiten.
 
 ####Subsidieaanvraag
 
+Materieel uitgewerkt per 21-04-2014 
+
 ### Artikel  4  
 
 ####Subsidieaanvraag
+
+Materieel uitgewerkt per 21-04-2014 
 
 1.  Subsidie wordt op aanvraag verleend.   
 2.  Een aanvraag wordt uitsluitend ingediend door middel van het invullen en ondertekenen van een door het Stimuleringsfonds vastgesteld aanvraagformulier op de website van het Stimuleringsfonds www.stimuleringsfondspers.nl volgens de daarbij vermelde instructies, en omvat in ieder geval: 
@@ -66,6 +78,8 @@ c. informatie waaruit blijkt dat de aanvrager rechtspersoonlijkheid bezit dan we
 
 ####Termijn indiening aanvraag
 
+Materieel uitgewerkt per 21-04-2014 
+
 1.  Een aanvraag voor subsidie wordt ingediend vanaf 1 juni 2012 en voor 15 september 2012.   
 2.  Het Stimuleringsfonds beoordeelt binnen een week na indiening de volledigheid van de aanvraag. De subsidieaanvrager krijgt de gelegenheid om de aanvraag zo nodig aan te vullen. De sluitingstermijn voor het indienen van een aanvulling is 1 oktober 2012.  
 
@@ -73,9 +87,13 @@ c. informatie waaruit blijkt dat de aanvrager rechtspersoonlijkheid bezit dan we
 
 ####Subsidieverlening
 
+Materieel uitgewerkt per 21-04-2014 
+
 ### Artikel  6  
 
 ####Criteria verdeling bij subsidieverlening
+
+Materieel uitgewerkt per 21-04-2014 
 
 1.  Het Stimuleringsfonds beslist gelijktijdig op de aanvragen op basis van de volgende criteria: 
 
@@ -89,6 +107,8 @@ b. innovatief karakter, dat wil zeggen dat de te subsidiëren activiteiten verni
 
 ####Beslissing subsidieverlening
 
+Materieel uitgewerkt per 21-04-2014 
+
 1.  Het Stimuleringsfonds beslist binnen 12 weken na de sluitingstermijn bedoeld in artikel 5 lid 2, tegelijkertijd op de aanvragen die zijn ingediend.   
 2.  Het Stimuleringsfonds kan bekendmaken door wie een aanvraag is ingediend en voor welk innovatieproject. Hier kan op verzoek van de aanvrager worden afgeweken.   
 3.  Subsidies ten laste van een begroting die nog niet is vastgesteld worden verleend onder de voorwaarde dat voldoende gelden ter beschikking worden gesteld.  
@@ -97,9 +117,13 @@ b. innovatief karakter, dat wil zeggen dat de te subsidiëren activiteiten verni
 
 ####Verplichtingen subsidieontvanger
 
+Materieel uitgewerkt per 21-04-2014 
+
 ### Artikel  8  
 
 ####Medewerkings- en informatieplicht
+
+Materieel uitgewerkt per 21-04-2014 
 
 1.  Als subsidie wordt verstrekt aan een in oprichting zijnde rechtspersoon kan het Stimuleringsfonds bij de subsidieverlening de verplichting opleggen dat de subsidieontvanger binnen een redelijke termijn rechtspersoonlijkheid heeft verkregen.   
 2.  De subsidieontvanger werkt mee aan door of namens het Stimuleringsfonds ingestelde onderzoeken die erop gericht zijn het Stimuleringsfonds inlichtingen te verschaffen ten behoeve van de ontwikkeling van het door of namens het Stimuleringsfonds te voeren beleid.   
@@ -110,9 +134,13 @@ b. innovatief karakter, dat wil zeggen dat de te subsidiëren activiteiten verni
 
 ####Subsidievaststelling
 
+Materieel uitgewerkt per 21-04-2014 
+
 ### Artikel  9  
 
 ####Aanvraag tot vaststelling
+
+Materieel uitgewerkt per 21-04-2014 
 
 Binnen twee maanden na afloop van het project waarvoor subsidie is verleend, dient de subsidieontvanger een aanvraag tot subsidievaststelling in. De aanvraag gaat vergezeld van een activiteitenverslag en een financieel verslag. 
 
@@ -120,7 +148,9 @@ Binnen twee maanden na afloop van het project waarvoor subsidie is verleend, die
 
 ####Financieel verslag en accountantsverklaring
 
-1.  Het financieel verslag gaat vergezeld van een verklaring van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), waarin deze verklaart dat de in het verslag opgenomen bedragen juist en volledig zijn.   
+Materieel uitgewerkt per 21-04-2014 
+
+1.  Het financieel verslag gaat vergezeld van een verklaring van een accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek, waarin deze verklaart dat de in het verslag opgenomen bedragen juist en volledig zijn.   
 2.  De controleverklaring bevat tevens een oordeel over de naleving van de aan de subsidie verbonden verplichtingen door de subsidieontvanger.   
 3.  Het Stimuleringsfonds kan nadere verplichtingen opleggen in verband met de inrichting van het financieel verslag en de controleverklaring.   
 4.  Het eerste lid is niet van toepassing op subsidies waarvan het verleende subsidiebedrag € 50.000 of minder bedraagt.   
@@ -130,6 +160,8 @@ Binnen twee maanden na afloop van het project waarvoor subsidie is verleend, die
 
 ####Activiteitenverslag
 
+Materieel uitgewerkt per 21-04-2014 
+
 1.  Het activiteitenverslag bevat een overzicht van de activiteiten waarvoor subsidie is verstrekt en van de daarmee bereikte resultaten, in het bijzonder: de gerealiseerde innovaties en de effecten daarvan voor het eigen bedrijf en voor andere journalistieke actoren in de perssector   
 2.  De inrichting van het verslag komt overeen met de inrichting van het activiteitenplan.   
 3.  Het verslag bevat, voor zover van toepassing, een analyse van verschillen tussen de voorgenomen activiteiten en beoogde resultaten, vermeld in het activiteitenplan, en de feitelijke realisatie.  
@@ -138,9 +170,13 @@ Binnen twee maanden na afloop van het project waarvoor subsidie is verleend, die
 
 ####Betaling
 
+Materieel uitgewerkt per 21-04-2014 
+
 ### Artikel  12  
 
 ####Betaling in gedeelten
+
+Materieel uitgewerkt per 21-04-2014 
 
 Bij subsidieverlening wordt bij wijze van voorschot ten hoogste 50 procent van het verleende subsidiebedrag verstrekt. 
 
@@ -148,15 +184,21 @@ Bij subsidieverlening wordt bij wijze van voorschot ten hoogste 50 procent van h
 
 ####Slotbepalingen
 
+Materieel uitgewerkt per 21-04-2014 
+
 ### Artikel  13  
 
 ####Inwerkingtreding
+
+Materieel uitgewerkt per 21-04-2014 
 
 Deze regeling treedt in werking met ingang van de dag na uitgifte van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  14  
 
 ####Evaluatie
+
+Materieel uitgewerkt per 21-04-2014 
 
 Binnen 13 weken na afloop van de datum, bedoeld in artikel 7, evalueert het Stimuleringsfonds de uitvoering van deze regeling. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
