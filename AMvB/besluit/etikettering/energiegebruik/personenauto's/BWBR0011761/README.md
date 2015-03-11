@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Economische Zaken van 4 juli 2000, nr. WJZ00042055, gedaan mede namens Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en in overeenstemming met Onze Minister van Verkeer en Waterstaat;
 
-Gelet op richtlijn nr. 1999/94/EG van het Europees Parlement en de Raad van de Europese Unie van 13 december 1999 betreffende de beschikbaarheid van consumenteninformatie over het brandstofverbruik en de CO2-uitstoot bij het op de markt brengen van nieuwe personenauto's (PbEG 2000, L 12), op [artikel 6 van de Wet energiebesparing toestellen](../../../../../../wet/wet/energiebesparing/toestellen/BWBR0003916/README.md) en op [artikel 4b, tweede lid, van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);
+Gelet op richtlijn nr. 1999/94/EG van het Europees Parlement en de Raad van de Europese Unie van 13 december 1999 betreffende de beschikbaarheid van consumenteninformatie over het brandstofverbruik en de CO2-uitstoot bij het op de markt brengen van nieuwe personenauto's (PbEG 2000, L 12), op artikel 6 van de Wet energiebesparing toestellen en op artikel 4b, tweede lid, van de Wegenverkeerswet 1994;
 
 De Raad van State gehoord (advies van 24 augustus 2000, nr. W10.00.0271/II);
 
@@ -49,7 +49,7 @@ o. officiële specifieke CO<sub>2</sub>-uitstoot: de uitstoot gemeten overeenkom
 
 p. reclamemateriaal: al het drukwerk dat wordt gebruikt bij de afzet van, het adverteren voor en het bevorderen van de verkoop van voertuigen aan het publiek, waartoe in ieder geval behoren technische handboeken, brochures en reclame in kranten en tijdschriften, in de vakpers en op affiches;  
 
-q. RDW: de Dienst Wegverkeer, genoemd in [artikel 4a van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
+q. RDW: de Dienst Wegverkeer, genoemd in artikel 4a van de Wegenverkeerswet 1994;  
 
 r. brandstofverbruiksgids: een gids met informatie ten behoeve van de consument omtrent het energiegebruik van alle op de Nederlandse markt verkrijgbare nieuwe modellen personenauto's;  
 

@@ -247,7 +247,7 @@ c.elken arbeid of dienst van een persoon, gevorderd als gevolg van een veroordee
 
 d.elken arbeid of dienst, gevorderd in gevallen van overmacht, d. w. z. in geval van oorlog, onheilen of dreigende onheilen, zooals branden, overstroomingen, hongersnooden, aardbevingen, hevige epidemieën onder menschen of dieren, invallen van schadelijke dieren, insecten of plantaardige parasieten en in het algemeen, alle omstandigheden, welke het leven of de normale bestaansvoorwaarden van de geheele bevolking of een deel daarvan in gevaar brengen of in gevaar kunnen brengen; 
 
-e.de kleine dorpsdiensten, d. w. z. de diensten, uitgevoerd in het onmiddellijk belang van de gemeenschap door de leden daarvan, diensten, die uit dien hoofde beschouwd kunnen worden als normale burgerlijke verplichtingen, rustende op de leden van de gemeenschap, op voorwaarde, dat de bevolking zelf of hare reehtstreeksche vertegenwoordigers het recht hebben zich uit te spreken over de noodzakelijkheid van die diensten. 
+e.de kleine dorpsdiensten, d. w. z. de diensten, uitgevoerd in het onmiddellijk belang van de gemeenschap door de leden daarvan, diensten, die uit dien hoofde beschouwd kunnen worden als normale burgerlijke verplichtingen, rustende op de leden van de gemeenschap, op voorwaarde, dat de bevolking zelf of hare rechtstreeksche vertegenwoordigers het recht hebben zich uit te spreken over de noodzakelijkheid van die diensten. 
 
 ###Artikel 3 
 

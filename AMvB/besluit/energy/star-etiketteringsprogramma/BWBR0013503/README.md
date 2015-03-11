@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Economische Zaken van 25 januari 2002, nr. WJZ 02003829;
 
-Gelet op verordening (EG) nr. 2422/2001 van het Europees Parlement en de Raad van de Europese Unie betreffende een communautair energie-efficiëntie-etiketteringsprogramma voor kantoorapparatuur (PbEG L 332), en de [artikelen 6](../../../../../wet/wet/energiebesparing/toestellen/BWBR0003916/README.md) en [21 van de Wet energiebesparing toestellen](../../../../../wet/wet/energiebesparing/toestellen/BWBR0003916/README.md);
+Gelet op verordening (EG) nr. 2422/2001 van het Europees Parlement en de Raad van de Europese Unie betreffende een communautair energie-efficiëntie-etiketteringsprogramma voor kantoorapparatuur (PbEG L 332), en de artikelen 6 en 21 van de Wet energiebesparing toestellen;
 
 De Raad van State gehoord (advies van 21 februari 2002, nr. W.10.02.0050/II);
 

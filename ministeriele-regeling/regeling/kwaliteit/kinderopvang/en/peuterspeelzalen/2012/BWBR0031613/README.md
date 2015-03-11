@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 29 mei 2012, nr. KO/2012/7794 , tot uitvoering van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen (Regeling kwaliteit kinderopvang en peuterspeelzalen)
 
 De Minister van Sociale Zaken en Werkgelegenheid,  
-Gelet op de [artikelen 2, derde lid](../../../../../../../../AMvB/besluit/kwaliteit/kinderopvang/en/peuterspeelzalen/BWBR0031621/README.md), [3, derde lid](../../../../../../../../AMvB/besluit/kwaliteit/kinderopvang/en/peuterspeelzalen/BWBR0031621/README.md), [4, derde lid](../../../../../../../../AMvB/besluit/kwaliteit/kinderopvang/en/peuterspeelzalen/BWBR0031621/README.md), [5, vierde lid](../../../../../../../../AMvB/besluit/kwaliteit/kinderopvang/en/peuterspeelzalen/BWBR0031621/README.md), [6, tweede lid](../../../../../../../../AMvB/besluit/kwaliteit/kinderopvang/en/peuterspeelzalen/BWBR0031621/README.md), [12, derde lid](../../../../../../../../AMvB/besluit/kwaliteit/kinderopvang/en/peuterspeelzalen/BWBR0031621/README.md), [13, tweede en derde lid](../../../../../../../../AMvB/besluit/kwaliteit/kinderopvang/en/peuterspeelzalen/BWBR0031621/README.md), [14, tweede lid](../../../../../../../../AMvB/besluit/kwaliteit/kinderopvang/en/peuterspeelzalen/BWBR0031621/README.md), [15, tweede lid](../../../../../../../../AMvB/besluit/kwaliteit/kinderopvang/en/peuterspeelzalen/BWBR0031621/README.md), [17, derde lid](../../../../../../../../AMvB/besluit/kwaliteit/kinderopvang/en/peuterspeelzalen/BWBR0031621/README.md), [18, vierde lid](../../../../../../../../AMvB/besluit/kwaliteit/kinderopvang/en/peuterspeelzalen/BWBR0031621/README.md), [19, vierde lid](../../../../../../../../AMvB/besluit/kwaliteit/kinderopvang/en/peuterspeelzalen/BWBR0031621/README.md), [20, vierde lid van het Besluit kwaliteit kinderopvang en peuterspeelzalen](../../../../../../../../AMvB/besluit/kwaliteit/kinderopvang/en/peuterspeelzalen/BWBR0031621/README.md);
+Gelet op de artikelen 2, derde lid, 3, derde lid, 4, derde lid, 5, vierde lid, 6, tweede lid, 12, derde lid, 13, tweede en derde lid, 14, tweede lid, 15, tweede lid, 17, derde lid, 18, vierde lid, 19, vierde lid, 20, vierde lid van het Besluit kwaliteit kinderopvang en peuterspeelzalen;
 Besluit:     
 ### Paragraaf  1  
 
@@ -17,7 +17,7 @@ In deze regeling wordt verstaan onder:
 
 a.  *basisgroep:* vaste groep kinderen in de buitenschoolse opvang in een passend ingerichte ruimte;  
 
-b.  *besluit:* [Besluit kwaliteit kinderopvang en peuterspeelzalen](../../../../../../../../AMvB/besluit/kwaliteit/kinderopvang/en/peuterspeelzalen/BWBR0031621/README.md);  
+b.  *besluit:* Besluit kwaliteit kinderopvang en peuterspeelzalen;  
 
 c.  *peuterspeelzaalgroep:* vaste groep kinderen in een passend ingerichte vaste groepsruimte in een peuterspeelzaal;  
 
@@ -33,18 +33,18 @@ e.  *stamgroepruimte:* ruimte waarin kinderen het grootste deel van de dag aanwe
 
 ####Inventarisatie van risico’s met betrekking tot veiligheid en gezondheid
 
-1.  De inventarisatie van de risico’s, bedoeld in [artikel 2 van het besluit](../../../../../../../../AMvB/besluit/kwaliteit/kinderopvang/en/peuterspeelzalen/BWBR0031621/README.md), beschrijft op het terrein van de veiligheid van kinderen in ieder geval de risico's ten aanzien van verbranding, vergiftiging, verdrinking, valongevallen, verwondingen, beknelling, botsen, stoten, steken en snijden.   
-2.  De inventarisatie, bedoeld in [artikel 2 van het besluit](../../../../../../../../AMvB/besluit/kwaliteit/kinderopvang/en/peuterspeelzalen/BWBR0031621/README.md), beschrijft op het terrein van gezondheid van kinderen in ieder geval de risico's ten aanzien van het voorkomen van ziektekiemen, het binnenmilieu in een kindercentrum, het buitenmilieu bij een kindercentrum en medisch handelen.   
-3.  De inventarisatie, bedoeld in [artikel 2 van het besluit](../../../../../../../../AMvB/besluit/kwaliteit/kinderopvang/en/peuterspeelzalen/BWBR0031621/README.md), bevat tevens een lijst van ongevallen waarop, voor zover de oorzaak van het ongeval niet louter gelegen is in de medische gesteldheid van het desbetreffende kind, de plaats en de aard van het ongeval, het jaar waarin het ongeval zich heeft voorgedaan wordt geregistreerd alsmede een overzicht van de maatregelen die de houder naar aanleiding van elk ongeval heeft getroffen ter voorkoming van verdere ongevallen.   
-4.  De houder van een kindcentrum zorgt er voor dat personen werkzaam bij het kindercentrum kennis kunnen nemen van de voor dat centrum vastgestelde inventarisatie, bedoeld in [artikel 2 van het besluit](../../../../../../../../AMvB/besluit/kwaliteit/kinderopvang/en/peuterspeelzalen/BWBR0031621/README.md).   
-5.  De houder van een kindercentrum stelt een nieuwe inventarisatie, bedoeld in [artikel 2 van het besluit](../../../../../../../../AMvB/besluit/kwaliteit/kinderopvang/en/peuterspeelzalen/BWBR0031621/README.md), op in geval van een ingrijpende verbouwing of gewijzigd gebruik van het door hem geëxploiteerde kindercentrum.  
+1.  De inventarisatie van de risico’s, bedoeld in artikel 2 van het besluit, beschrijft op het terrein van de veiligheid van kinderen in ieder geval de risico's ten aanzien van verbranding, vergiftiging, verdrinking, valongevallen, verwondingen, beknelling, botsen, stoten, steken en snijden.   
+2.  De inventarisatie, bedoeld in artikel 2 van het besluit, beschrijft op het terrein van gezondheid van kinderen in ieder geval de risico's ten aanzien van het voorkomen van ziektekiemen, het binnenmilieu in een kindercentrum, het buitenmilieu bij een kindercentrum en medisch handelen.   
+3.  De inventarisatie, bedoeld in artikel 2 van het besluit, bevat tevens een lijst van ongevallen waarop, voor zover de oorzaak van het ongeval niet louter gelegen is in de medische gesteldheid van het desbetreffende kind, de plaats en de aard van het ongeval, het jaar waarin het ongeval zich heeft voorgedaan wordt geregistreerd alsmede een overzicht van de maatregelen die de houder naar aanleiding van elk ongeval heeft getroffen ter voorkoming van verdere ongevallen.   
+4.  De houder van een kindcentrum zorgt er voor dat personen werkzaam bij het kindercentrum kennis kunnen nemen van de voor dat centrum vastgestelde inventarisatie, bedoeld in artikel 2 van het besluit.   
+5.  De houder van een kindercentrum stelt een nieuwe inventarisatie, bedoeld in artikel 2 van het besluit, op in geval van een ingrijpende verbouwing of gewijzigd gebruik van het door hem geëxploiteerde kindercentrum.  
 
 ### Artikel  4  
 
 ####Beroepskwalificatie personeel
 
-1.  De beroepskwalificatie-eisen en bewijsstukken genoemd in de collectieve arbeidsovereenkomst kinderopvang 2012–2014 worden aangemerkt als passende beroepskwalificaties als bedoeld in [artikel 3, eerste lid, van het besluit](../../../../../../../../AMvB/besluit/kwaliteit/kinderopvang/en/peuterspeelzalen/BWBR0031621/README.md).   
-2.  De inzet van beroepskrachten in opleiding als bedoeld in [artikel 3, tweede lid, van het besluit](../../../../../../../../AMvB/besluit/kwaliteit/kinderopvang/en/peuterspeelzalen/BWBR0031621/README.md) geschiedt overeenkomstig de voorwaarden zoals opgenomen in de collectieve arbeidsovereenkomst kinderopvang 2012–2014.  
+1.  De beroepskwalificatie-eisen en bewijsstukken genoemd in de collectieve arbeidsovereenkomst kinderopvang 2012–2014 worden aangemerkt als passende beroepskwalificaties als bedoeld in artikel 3, eerste lid, van het besluit.   
+2.  De inzet van beroepskrachten in opleiding als bedoeld in artikel 3, tweede lid, van het besluit geschiedt overeenkomstig de voorwaarden zoals opgenomen in de collectieve arbeidsovereenkomst kinderopvang 2012–2014.  
 
 ### Artikel  5  
 
@@ -60,16 +60,8 @@ b. in de leeftijd tot en met drie jaar gelijktijdig ten hoogste zestien kinderen
 4.  Een kind maakt gedurende de week gebruik van ten hoogste twee verschillende stamgroepruimtes.   
 5.  Het vierde lid is niet van toepassing bij speciale activiteiten, beschreven in het pedagogisch beleidsplan, bedoeld in artikel 7.   
 6.  Het tweede, derde en vierde lid zijn niet van toepassing op een kind dat blijkens de overeenkomst tussen de houder van een kindercentrum en de ouders van het kind gebruik maakt van opvang op dagen die per week verschillen.   
-7.  Bij dagopvang bedraagt de verhouding tussen het aantal beroepskrachten en het aantal feitelijke aanwezige kinderen ten minste: 
-
-a. één beroepskracht per vier kinderen in de leeftijd tot één jaar;  
-
-b. één beroepskracht per vijf kinderen in de leeftijd van één tot twee jaar;  
-
-c. één beroepskracht per zes kinderen in de leeftijd van twee tot drie jaar;  
-
-d. één beroepskracht per acht kinderen in de leeftijd van drie tot vier jaar.     
-8.  Het minimale aantal beroepskrachten in relatie tot het aantal aanwezige kinderen bij een gemengde leeftijdsgroep wordt, met in achtneming van het eerste en het zevende lid en de rekenregels in de bijlage, bepaald met behulp van een rekentool die wordt bekendgemaakt via de website www.rijksoverheid.nl.   
+7.  Bij dagopvang in groepen waarin kinderen worden opgevangen van dezelfde leeftijd is de verhouding tussen het aantal beroepskrachten en het aantal feitelijk aanwezige kinderen in overeenstemming met tabel 1, onderdeel a, in de bijlage.   
+8.  Bij dagopvang in groepen waarin kinderen worden opgevangen van verschillende leeftijden wordt de verhouding tussen het aantal beroepskrachten en het aantal feitelijk aanwezige kinderen, in overeenstemming met tabel 1, onderdeel b, in de bijlage, bepaald met behulp van een rekentool die wordt bekendgemaakt via de website www.rijksoverheid.nl.   
 9.  Indien kinderen bij (spel)activiteiten de stamgroep verlaten, is het eerste lid niet van toepassing.   
 10.  Indien bij dagopvang per dag ten minste tien aaneengesloten uren opvang wordt geboden, kunnen, in afwijking van het zevende, achtste of negende lid, voor ten hoogste drie uren per dag, met uitzondering van de uren tussen 9.30 en 12.30 uur en 15.00 en 16.30 uur, minder beroepskrachten worden ingezet, met dien verstande dat ten minste de helft van het aantal beroepskrachten, vereist op grond van het zevende of achtste lid, wordt ingezet. In de periode vóór 9.30 uur en na 16.30 uur kan de in de eerste volzin bedoelde afwijkende inzet van beroepskrachten ten hoogste anderhalf uur aaneengesloten bedragen en in de (pauze)periode tussen 12.30 uur en 15.00 uur, ten hoogste twee uren aaneengesloten en niet langer dan de daadwerkelijke duur van de middagpauze.   
 11.  Indien op grond van het tiende lid slechts één beroepskracht in het kindercentrum wordt ingezet, is ter ondersteuning van deze beroepskracht ten minste één andere volwassene in het kindercentrum aanwezig.   
@@ -102,7 +94,7 @@ De houder van een kindercentrum organiseert de dagopvang op zodanige wijze, dat 
 
 ####Pedagogisch beleidsplan
 
-1.  Een pedagogisch beleidsplan, als bedoeld in [artikel 5, tweede lid, van het besluit](../../../../../../../../AMvB/besluit/kwaliteit/kinderopvang/en/peuterspeelzalen/BWBR0031621/README.md), bevat in duidelijke en observeerbare termen ten minste een beschrijving van: 
+1.  Een pedagogisch beleidsplan, als bedoeld in artikel 5, tweede lid, van het besluit, bevat in duidelijke en observeerbare termen ten minste een beschrijving van: 
 
 a. de wijze waarop de emotionele veiligheid van kinderen wordt gewaarborgd, de mogelijkheden voor kinderen tot de ontwikkeling van hun persoonlijke- en sociale competentie, en de wijze waarop de overdracht van normen en waarden aan kinderen plaatsvindt;  
 
@@ -149,9 +141,9 @@ Een kindercentrum beschikt voor kinderen tot de leeftijd van 1,5 jaar over een o
 
 ####Inventarisatie van risico’s voorzieningen voor gastouderopvang
 
-1.  Bij elke voorziening voor gastouderopvang is een originele door de bemiddelingsmedewerker en de gastouder ondertekende versie van de in [artikel 7, tweede lid, van het besluit](../../../../../../../../AMvB/besluit/kwaliteit/kinderopvang/en/peuterspeelzalen/BWBR0031621/README.md) bedoelde inventarisatie van de veiligheids- en gezondheidsrisico’s aanwezig. De inventarisatie bevat in ieder geval de risico’s, bedoeld in artikel 7, derde lid, van het besluit.   
-2.  De gastouder draagt er zorg voor dat de maatregelen uit het plan van aanpak bedoeld in [artikel 7, vijfde lid, van het besluit](../../../../../../../../AMvB/besluit/kwaliteit/kinderopvang/en/peuterspeelzalen/BWBR0031621/README.md) binnen de gestelde termijn zijn, respectievelijk worden genomen.   
-3.  De inventarisatie van risico’s bedoeld in [artikel 7, derde lid, van het besluit](../../../../../../../../AMvB/besluit/kwaliteit/kinderopvang/en/peuterspeelzalen/BWBR0031621/README.md) bevat in ieder geval: 
+1.  Bij elke voorziening voor gastouderopvang is een originele door de bemiddelingsmedewerker en de gastouder ondertekende versie van de in artikel 7, tweede lid, van het besluit bedoelde inventarisatie van de veiligheids- en gezondheidsrisico’s aanwezig. De inventarisatie bevat in ieder geval de risico’s, bedoeld in artikel 7, derde lid, van het besluit.   
+2.  De gastouder draagt er zorg voor dat de maatregelen uit het plan van aanpak bedoeld in artikel 7, vijfde lid, van het besluit binnen de gestelde termijn zijn, respectievelijk worden genomen.   
+3.  De inventarisatie van risico’s bedoeld in artikel 7, derde lid, van het besluit bevat in ieder geval: 
 
 a. de beschrijving van de risico's op het terrein van de veiligheid van kinderen ten aanzien van verbranding, vergiftiging, verdrinking, valongevallen, verwondingen, beknelling, botsen, stoten, steken en snijden;  
 
@@ -183,7 +175,7 @@ f. een bemiddelingsmedewerker van het gastouderbureau in ieder geval twee maal p
 
 ####Zorgplicht gastouderbureaus
 
-1.  De houder van een gastouderbureau draagt er zorg voor dat per voorziening voor gastouderopvang wordt beoordeeld of de samenstelling van de groep kinderen die wordt opgevangen, bedoeld in [artikel 14 van het besluit](../../../../../../../../AMvB/besluit/kwaliteit/kinderopvang/en/peuterspeelzalen/BWBR0031621/README.md), verantwoord is.   
+1.  De houder van een gastouderbureau draagt er zorg voor dat per voorziening voor gastouderopvang wordt beoordeeld of de samenstelling van de groep kinderen die wordt opgevangen, bedoeld in artikel 14 van het besluit, verantwoord is.   
 2.  De houder van een gastouderbureau draagt er zorg voor dat per gastouder op jaarbasis tenminste 16 uur wordt besteed aan begeleiding en bemiddeling. Hieronder wordt in ieder geval verstaan: 
 
 a. het intakegesprek, bedoeld in artikel 11a, eerste lid, onder b;  
@@ -215,13 +207,13 @@ l. overleg op het gebied van begeleiding en bemiddeling.
 
 ####Adequate vervanging bij calamiteiten
 
-Een adequate vervanging bij calamiteiten, bedoeld in [artikel 12, tweede lid, van het besluit](../../../../../../../../AMvB/besluit/kwaliteit/kinderopvang/en/peuterspeelzalen/BWBR0031621/README.md), houdt in dat in ieder geval bij de opvang van meer dan drie aanwezige kinderen een achterwachtregeling wordt getroffen waarin een achterwacht beschikbaar is die bij calamiteiten binnen 15 minuten bij het opvangadres aanwezig is. Deze persoon is tijdens opvangtijden altijd telefonisch bereikbaar. 
+Een adequate vervanging bij calamiteiten, bedoeld in artikel 12, tweede lid, van het besluit, houdt in dat in ieder geval bij de opvang van meer dan drie aanwezige kinderen een achterwachtregeling wordt getroffen waarin een achterwacht beschikbaar is die bij calamiteiten binnen 15 minuten bij het opvangadres aanwezig is. Deze persoon is tijdens opvangtijden altijd telefonisch bereikbaar. 
 
 ### Artikel  12a  
 
 ####Pedagogisch beleidsplan
 
-1.  Een pedagogisch beleidsplan als bedoeld in [artikel 11, eerste lid, van het besluit](../../../../../../../../AMvB/besluit/kwaliteit/kinderopvang/en/peuterspeelzalen/BWBR0031621/README.md) bevat in duidelijke en observeerbare termen ten minste een beschrijving van: 
+1.  Een pedagogisch beleidsplan als bedoeld in artikel 11, eerste lid, van het besluit bevat in duidelijke en observeerbare termen ten minste een beschrijving van: 
 
 a. de wijze waarop de emotionele veiligheid van kinderen wordt gewaarborgd, de mogelijkheden voor kinderen om persoonlijke en sociale competenties te ontwikkelen en de wijze waarop de overdracht van normen en waarden aan kinderen plaatsvindt;  
 
@@ -248,7 +240,7 @@ a. beschikt over voldoende speel- en slaapruimte voor kinderen, waaronder begrep
 
 b. beschikt over voldoende buitenspeelmogelijkheden, afgestemd op het aantal en de leeftijd van de op te vangen kinderen;  
 
-c. is voorzien van voldoende en goed functionerende rookmelders conform de eisen uit het vigerende [Bouwbesluit](../../../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md);  
+c. is voorzien van voldoende en goed functionerende rookmelders conform de eisen uit het vigerende Bouwbesluit;  
 
 d. is te allen tijde rookvrij.    
 2.  De in het eerste lid bedoelde eisen worden jaarlijks door de houder van een gastouderbureau getoetst op naleving tijdens een bezoek aan de voorzieningen voor gastouderopvang.  
@@ -261,7 +253,7 @@ d. is te allen tijde rookvrij.
 
 ####Inventarisatie van risico’s met betrekking tot veiligheid en gezondheid
 
-1.  De inventarisatie van de veiligheids- en gezondheidsrisico’s, bedoeld in [artikel 17 van het besluit](../../../../../../../../AMvB/besluit/kwaliteit/kinderopvang/en/peuterspeelzalen/BWBR0031621/README.md), beschrijft op het terrein van de veiligheid van kinderen in ieder geval de risico's ten aanzien van verbranding, vergiftiging, verdrinking, valongevallen, verwondingen, beknelling, botsen, stoten, steken en snijden.   
+1.  De inventarisatie van de veiligheids- en gezondheidsrisico’s, bedoeld in artikel 17 van het besluit, beschrijft op het terrein van de veiligheid van kinderen in ieder geval de risico's ten aanzien van verbranding, vergiftiging, verdrinking, valongevallen, verwondingen, beknelling, botsen, stoten, steken en snijden.   
 2.  De inventarisatie, bedoeld in het eerste lid, beschrijft op het terrein van gezondheid van kinderen in ieder geval de risico's ten aanzien van het voorkomen van ziektekiemen, het binnenmilieu in een peuterspeelzaal, het buitenmilieu bij een peuterspeelzaal en medisch handelen.   
 3.  De inventarisatie, bedoeld in het eerste lid, bevat tevens een lijst van ongevallen waarop, voor zover de oorzaak van het ongeval niet louter gelegen is in de medische gesteldheid van het desbetreffende kind, de plaats en de aard van het ongeval, het jaar waarin het ongeval zich heeft voorgedaan, wordt geregistreerd, alsmede een overzicht van de maatregelen die de houder van een peuterspeelzaal naar aanleiding van elk ongeval heeft getroffen ter voorkoming van verdere ongevallen.   
 4.  De houder van een peuterspeelzaal zorgt er voor dat personen werkzaam bij de peuterspeelzaal kennis kunnen nemen van de voor die peuterspeelzaal vastgestelde inventarisatie, bedoeld in het eerste lid.   
@@ -271,7 +263,7 @@ d. is te allen tijde rookvrij.
 
 ####Beroepskwalificatie personeel
 
-1.  De beroepskwalificatie-eisen en bewijsstukken genoemd in de collectieve arbeidsovereenkomst Welzijn en Maatschappelijke Dienstverlening 2012-2013 worden aangemerkt als een passende beroepskwalificatie, als bedoeld in [artikel 18, eerste lid, van het besluit](../../../../../../../../AMvB/besluit/kwaliteit/kinderopvang/en/peuterspeelzalen/BWBR0031621/README.md).   
+1.  De beroepskwalificatie-eisen en bewijsstukken genoemd in de collectieve arbeidsovereenkomst Welzijn en Maatschappelijke Dienstverlening 2014-2016 worden aangemerkt als een passende beroepskwalificatie, als bedoeld in artikel 18, eerste lid, van het besluit.   
 2.  De houder van een peuterspeelzaal informeert ouders over het aantal, de inzet en de opleiding van het personeel voor zover de ouder dat nodig heeft om een goede keuze te kunnen maken voor een peuterspeelzaal.  
 
 ### Artikel  18  
@@ -296,13 +288,13 @@ De houder van een peuterspeelzaal organiseert de opvang op zodanige wijze, dat d
 
 ####Adequate vervanging bij calamiteiten
 
-Een adequate vervanging bij calamiteiten, bedoeld in [artikel 19, derde lid, van het besluit](../../../../../../../../AMvB/besluit/kwaliteit/kinderopvang/en/peuterspeelzalen/BWBR0031621/README.md), houdt in ieder geval in dat zodra er slechts één beroepskracht in een peuterspeelzaal aanwezig is op het moment dat er kinderen aanwezig zijn in de peuterspeelzaal, er een volwassen achterwacht beschikbaar is, die in geval van calamiteiten binnen 15 minuten in de peuterspeelzaal aanwezig kan zijn. De houder van een peuterspeelzaal informeert de bij de peuterspeelzaal werkzame personen over de naam en het telefoonnummer van deze persoon. 
+Een adequate vervanging bij calamiteiten, bedoeld in artikel 19, derde lid, van het besluit, houdt in ieder geval in dat zodra er slechts één beroepskracht in een peuterspeelzaal aanwezig is op het moment dat er kinderen aanwezig zijn in de peuterspeelzaal, er een volwassen achterwacht beschikbaar is, die in geval van calamiteiten binnen 15 minuten in de peuterspeelzaal aanwezig kan zijn. De houder van een peuterspeelzaal informeert de bij de peuterspeelzaal werkzame personen over de naam en het telefoonnummer van deze persoon. 
 
 ### Artikel  20  
 
 ####Pedagogisch beleidsplan
 
-Een pedagogisch beleidsplan, bedoeld in [artikel 20 van het besluit](../../../../../../../../AMvB/besluit/kwaliteit/kinderopvang/en/peuterspeelzalen/BWBR0031621/README.md), bevat in duidelijke en observeerbare termen ten minste een beschrijving van: 
+Een pedagogisch beleidsplan, bedoeld in artikel 20 van het besluit, bevat in duidelijke en observeerbare termen ten minste een beschrijving van: 
 
 a. de wijze waarop de emotionele veiligheid van kinderen wordt gewaarborgd, de mogelijkheden voor kinderen tot de ontwikkeling van hun persoonlijke en sociale competentie en de wijze waarop de overdracht van normen en waarden aan kinderen plaatsvindt;  
 
@@ -322,7 +314,7 @@ g. de wijze waarop beroepskrachten in een peuterspeelzaal worden toegerust voor 
 
 ####Vrijwilligersbeleid
 
-1.  In een beleidsplan, bedoeld in [artikel 18, tweede lid, van het besluit](../../../../../../../../AMvB/besluit/kwaliteit/kinderopvang/en/peuterspeelzalen/BWBR0031621/README.md) staan in ieder geval: 
+1.  In een beleidsplan, bedoeld in artikel 18, tweede lid, van het besluit staan in ieder geval: 
 
 a. de minimumeisen waar een op de peuterspeelzaal werkzame vrijwilliger aan dient te voldoen;  
 
@@ -339,7 +331,7 @@ c. de taakomschrijvingen waarin wordt omschreven welke bijdrage aan het werk in 
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking op het tijdstip waarop het [Besluit kwaliteit kinderopvang en peuterspeelzalen](../../../../../../../../AMvB/besluit/kwaliteit/kinderopvang/en/peuterspeelzalen/BWBR0031621/README.md) in werking treedt. 
+Deze regeling treedt in werking op het tijdstip waarop het Besluit kwaliteit kinderopvang en peuterspeelzalen in werking treedt. 
 
 ### Artikel  23  
 
@@ -357,13 +349,13 @@ H.G.J. Kamp
 
 ### Bijlage 
 
-####als bedoeld in de artikelen 5, achtste lid  en 6, vijfde lid , van deze regeling
+####als bedoeld in de artikelen 5, zevende en achtste lid , en 6, vijfde lid , van deze regeling
 
 In deze bijlage zijn de rekenregels van de rekentool opgenomen. 
 
 ####Dagopvang
 
-* Het minimale aantal beroepskrachten in relatie tot het aantal aanwezige kinderen wordt bepaald op basis van de ratio’s in tabel 1 (conform artikel 5, zevende lid, van deze regeling).  
+* Het minimale aantal beroepskrachten in relatie tot het aantal aanwezige kinderen wordt bepaald op basis van de ratio’s in tabel 1 (conform artikel 5, zevende en achtste lid, van deze regeling).  
 
 * De voorwaarden met betrekking tot de maximale grootte van de stamgroep zijn in tabel 1 verwerkt: een stamgroep bestaat uit maximaal twaalf kinderen bij een groep met alleen kinderen van 0 jaar en maximaal zestien kinderen bij gemengde leeftijdsgroepen, waarvan maximaal acht kinderen van 0 jaar (conform artikel 5, eerste lid, van de regeling).  
 
@@ -371,18 +363,18 @@ In deze bijlage zijn de rekenregels van de rekentool opgenomen.
 
 |--- | Leeftijd kinderen  | Minimaal aantal beroepskrachten  | Maximaal aantal kinderen  | Minimaal aantal beroepskrachten  | Maximaal aantal kinderen  | Minimaal aantal beroepskrachten  | Maximaal aantal kinderen  | Minimaal aantal beroepskrachten  | Maximaal aantal kinderen  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| Groepen alle kinderen één leeftijd  | 0 tot 1  | 1  | 4  | 2  | 8  | 3  | 12  | ----  | ----  |
+| a. Groepen alle kinderen één leeftijd  | 0 tot 1  | 1  | 4  | 2  | 8  | 3  | 12  | ----  | ----  |
 | 1 tot 2  | 1  | 5  | 2  | 10  | 3  | 15  | 4  | 16  |
-| 2 tot 3  | 1  | 6  | 2  | 12  | 3  | 16  | ----  | ----  |
+| 2 tot 3  | 1  | 8  | 2  | 16  | ----  | ----  | ----  | ----  |
 | 3 tot 4  | 1  | 8  | 2  | 16  | ----  | ----  | ----  | ----  |
-| Gemengde leeftijdsgroepen  | 0 tot 2  | 1  | 5  | 2  | 9<sup>1</sup>   | 3  | 14<sup>1</sup>   | 4  | 16<sup>1</sup>   |
+| b. Gemengde leeftijdsgroepen  | 0 tot 2  | 1  | 5  | 2  | 9<sup>1</sup>   | 3  | 14<sup>1</sup>   | 4  | 16<sup>1</sup>   |
 | 0 tot 3  | 1  | 5  | 2  | 9<sup>2</sup> / 10<sup>3</sup>   | 3  | 15<sup>1</sup>   | 4  | 16<sup>1</sup>   |
-| 0 tot 4  | 1  | 5<sup>4</sup> / 6<sup>5</sup>   | 2  | 9<sup>6</sup> / 10<sup>7 </sup>/ 11<sup>8 </sup>/ 12<sup>9</sup>   | 3  | 16<sup>1</sup>   | ----  | ----  |
+| 0 tot 4  | 1  | 5<sup>4</sup> / 6<sup>5</sup>   | 2  | 9<sup>6</sup> / 10<sup>7</sup> /<sup>8</sup> 11 / 12<sup>9</sup>   | 3  | 16<sup>1</sup>   | ----  | ----  |
 | 1 tot 3  | 1  | 6  | 2  | 11  | 3  | 16  | ----  | ----  |
 | 1 tot 4  | 1  | 7  | 2  | 13  | 3  | 16  | ----  | ----  |
-| 2 tot 4  | 1  | 7  | 2  | 14  | 3  | 16  | ----  | ----  |
+| 2 tot 4  | 1  | 8  | 2  | 16  | ----  | ----  | ----  | ----  |
 
-<sup>1</sup> Waarvan maximaal acht kinderen van 0 jaar.  <sup>2</sup> Bij een groep met acht kinderen van 0 jaar .  <sup>3</sup> Bij een groep met zeven of minder kinderen van 0 jaar.  <sup>4</sup> Bij een groep met vier kinderen van 0 jaar.  <sup>5</sup> Bij een groep met drie of minder kinderen van 0 jaar.  <sup>6</sup> Bij een groep met acht kinderen van 0 jaar.  <sup>7</sup> Bij een groep met zeven kinderen van 0 jaar.  <sup>8</sup> Bij een groep met zes kinderen van 0 jaar.  <sup>9</sup> Bij een groep met vijf of minder kinderen van 0 jaar. 
+<sup>1</sup> Waarvan maximaal acht kinderen van 0 jaar.  <sup>2</sup> Bij een groep met acht kinderen van 0 jaar.  <sup>3</sup> Bij een groep met zeven of minder kinderen van 0 jaar.  <sup>4</sup> Bij een groep met vier kinderen van 0 jaar.  <sup>5</sup> Bij een groep met drie of minder kinderen van 0 jaar.  <sup>6</sup> Bij een groep met acht kinderen van 0 jaar.  <sup>7</sup> Bij een groep met zeven kinderen van 0 jaar.  <sup>8</sup> Bij een groep met zes kinderen van 0 jaar.  <sup>9</sup> Bij een groep met vijf of minder kinderen van 0 jaar.
 
 ####Buitenschoolse opvang
 

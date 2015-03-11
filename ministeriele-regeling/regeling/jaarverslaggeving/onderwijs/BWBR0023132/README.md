@@ -5,13 +5,13 @@
 De Minister van Onderwijs, Cultuur en Wetenschap, mede namens de Minister van Landbouw, Natuur en Voedselkwaliteit,  
 Gelet op: 
 
-– [artikel 2, vierde lid ](../../../../../AMvB/besluit/informatievoorziening/wpowec/BWBR0018065/README.md)en [artikel 4, van het Besluit informatievoorziening WPO/WEC](../../../../../AMvB/besluit/informatievoorziening/wpowec/BWBR0018065/README.md),
+– artikel 2, vierde lid en artikel 4, van het Besluit informatievoorziening WPO/WEC,
 
-– [artikel 18, vijfde lid, van het Bekostigingsbesluit W.V.O.](../../../../../AMvB/bekostigingsbesluit/wvo/BWBR0005672/README.md),
+– artikel 18, vijfde lid, van het Bekostigingsbesluit W.V.O.,
 
-– [artikel 2.5.3, tweede lid](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [artikel 2.5.4, tweede lid](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md). en [artikel 2.5.10 van de Wet educatie en beroepsonderwijs](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en de [artikelen 5.2.1](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md) en [5.2.2 van het Uitvoeringsbesluit WEB](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md)
+– artikel 2.5.3, tweede lid, artikel 2.5.4, tweede lid. en artikel 2.5.10 van de Wet educatie en beroepsonderwijs en de artikelen 5.2.1 en 5.2.2 van het Uitvoeringsbesluit WEB
 
-– [artikel 2.14 van de Wet op het Hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md),
+– artikel 2.14 van de Wet op het Hoger onderwijs en wetenschappelijk onderzoek,
 Besluit:    
 
 ### Artikel  1  
@@ -20,13 +20,13 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a.onderwijsinstelling: een bekostigde school als bedoeld in [artikel 1 van de Wet op het primair onderwijs](../../../../../wet/wbo/BWBR0003420/README.md), een bekostigde school als bedoeld in [artikel 1 van de Wet op de expertisecentra](../../../../../wet/isovso/BWBR0003549/README.md), een bekostigd regionaal expertisecentrum als bedoeld in [artikel 28b van de Wet op de expertisecentra](../../../../../wet/isovso/BWBR0003549/README.md), een school als bedoeld in [artikel 1 van de Wet op het voortgezet onderwijs ](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) met uitzondering van de scholen, bedoeld in [titel II, afdeling II van die wet](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), een bekostigde instelling als bedoeld in [artikel 1.1.1, onder b, van de Wet educatie en beroepsonderwijs](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), een bekostigd kenniscentrum als bedoeld in artikel 1.1.1, onder b1 van de Wet educatie en beroepsonderwijs of een instelling voor hoger onderwijs als bedoeld in [artikel 1.8 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md); 
+a.onderwijsinstelling: een bekostigde school als bedoeld in artikel 1 van de Wet op het primair onderwijs, een bekostigde school als bedoeld in artikel 1 van de Wet op de expertisecentra, een bekostigd regionaal expertisecentrum als bedoeld in artikel 28b van de Wet op de expertisecentra, een school als bedoeld in artikel 1 van de Wet op het voortgezet onderwijs  met uitzondering van de scholen, bedoeld in titel II, afdeling II van die wet, een bekostigde instelling als bedoeld in artikel 1.1.1, onder b, van de Wet educatie en beroepsonderwijs, een bekostigd kenniscentrum als bedoeld in artikel 1.1.1, onder b1 van de Wet educatie en beroepsonderwijs of een instelling voor hoger onderwijs als bedoeld in artikel 1.8 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek; 
 
-b. bevoegd gezag: het bevoegd gezag, bedoeld in [artikel 1 van de Wet op het primair onderwijs](../../../../../wet/wbo/BWBR0003420/README.md), het bestuur van een rechtspersoon die een centrale dienst in stand houdt als bedoeld in [artikel 68 van de Wet op het primair onderwijs](../../../../../wet/wbo/BWBR0003420/README.md), het bevoegd gezag, bedoeld in [artikel 1 van de Wet op de expertisecentra](../../../../../wet/isovso/BWBR0003549/README.md), het bestuur van de rechtspersoon die een regionaal expertisecentrum in stand houdt als bedoeld in [artikel 28b van de Wet op de expertisecentra](../../../../../wet/isovso/BWBR0003549/README.md), het bevoegd gezag, bedoeld in [artikel 1 van de Wet op het voortgezet onderwijs](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) onderscheidenlijk [artikel 1.1.1 van de Wet educatie en beroepsonderwijs](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) dan wel het instellingsbestuur, bedoeld in [artikel 1.1, onder j, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+b. bevoegd gezag: het bevoegd gezag, bedoeld in artikel 1 van de Wet op het primair onderwijs, het bestuur van een rechtspersoon die een centrale dienst in stand houdt als bedoeld in artikel 68 van de Wet op het primair onderwijs, het bevoegd gezag, bedoeld in artikel 1 van de Wet op de expertisecentra, het bestuur van de rechtspersoon die een regionaal expertisecentrum in stand houdt als bedoeld in artikel 28b van de Wet op de expertisecentra, het bevoegd gezag, bedoeld in artikel 1 van de Wet op het voortgezet onderwijs onderscheidenlijk artikel 1.1.1 van de Wet educatie en beroepsonderwijs dan wel het instellingsbestuur, bedoeld in artikel 1.1, onder j, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek;  
 
-c. jaarverslaggeving : het geheel van verslaggevingsdocumenten bestaande uit de jaarrekening, het jaarverslag en de overige gegevens, bedoeld in [artikel 392 van Titel 9 Boek 2 BW](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md);  
+c. jaarverslaggeving : het geheel van verslaggevingsdocumenten bestaande uit de jaarrekening, het jaarverslag en de overige gegevens, bedoeld in artikel 392 van Titel 9 Boek 2 BW;  
 
-d. jaarrekening: de jaarrekening, bedoeld in [artikel 361 van Titel 9, Boek 2, van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md);  
+d. jaarrekening: de jaarrekening, bedoeld in artikel 361 van Titel 9, Boek 2, van het Burgerlijk Wetboek;  
 
 e. jaarverslag: het verslag waarmee het bevoegd gezag van een onderwijsinstelling interne en externe belanghebbenden informeert over het gevoerde beleid en de gang van zaken bij de instelling, de uitkomsten van het gevoerde beleid in het jaar waarover verslag wordt gedaan alsmede de aanwending van middelen in dat jaar en verantwoording aflegt overeenkomstig de gestelde wettelijke eisen;  
 
@@ -42,13 +42,13 @@ i. periodelasten: lasten die in aanmerking worden genomen in de periode waarover
 
 ####Boek 2 BW
 
-Op de jaarverslaggeving is [Titel 9 Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) van overeenkomstige toepassing, met uitzondering van de [afdelingen 1](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [11](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en [12](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), een en ander voor zover in deze regeling niet anders is bepaald. 
+Op de jaarverslaggeving is Titel 9 Boek 2 van het Burgerlijk Wetboek van overeenkomstige toepassing, met uitzondering van de afdelingen 1, 11 en 12, een en ander voor zover in deze regeling niet anders is bepaald. 
 
 ### Artikel  3  
 
-####Afwijkingen van en aanvullingen op [Boek 2 Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md)
+####Afwijkingen van en aanvullingen op Boek 2 Burgerlijk Wetboek
 
-In afwijking van of in aanvulling op [Titel 9 Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md): 
+In afwijking van of in aanvulling op Titel 9 Boek 2 van het Burgerlijk Wetboek: 
 
 a. wordt de jaarverslaggeving ingericht overeenkomstig de richtlijnen, in het bijzonder de hoofdstukken 400, 640 en 660 behoudens het bepaalde in artikel 3a ten aanzien van het bevoegd gezag van een school of scholengemeenschappen in het primair en het voortgezet onderwijs;  
 
@@ -58,7 +58,9 @@ c. is het verslagjaar gelijk aan een kalenderjaar;
 
 d. wordt de jaarverslaggeving opgesteld door het bevoegd gezag dat de onderwijsinstelling in stand houdt; 
 
-e. is [artikel 383c](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) niet van toepassing op de jaarverslaggeving van een onderwijsinstelling;  
+e1.wordt de informatie, bedoeld in de artikelen 1.7, 4.1 en 4.2 van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector, opgenomen in de jaarrekening, waarbij gebruik wordt gemaakt van het verantwoordingsmodel WNT, zoals opgenomen in de bijlage bij deze regeling;
+
+e2.kan aan de artikelen 383 en 383c van Boek 2 van het Burgerlijk Wetboek worden voldaan middels het verstrekken van de betreffende bezoldigingsinformatie zoals vereist op grond van de WNT; 
 
 f. wordt aan het jaarverslag een verslag toegevoegd van de raad van toezicht of een vergelijkbare interne toezichthouder, waarin deze verantwoording aflegt over zijn handelen en van de resultaten die dat handelen heeft opgeleverd tenzij de onderwijsinstelling geen interne toezichthouder kent;  
 
@@ -66,9 +68,9 @@ g. worden de balans en de staat van baten en lasten, het kasstroomoverzicht en d
 
 h. worden, ingeval sprake is van groepsverhoudingen leidende tot een geconsolideerde jaarverslaggeving van de bevoegde gezagen, in de toelichting van de geconsolideerde jaarverslaggeving, de balans en de staat van baten en lasten zodanig gesegmenteerd, dat inzicht ontstaat in de onderscheiden posten uit de geconsolideerde jaarrekening op het instandhoudingsniveau; 
 
-i. specificeren de onderwijsinstellingen, bedoeld in [artikel 1.8 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), de door het Rijk verstrekte subsidies waarbij zulks in regelgeving of bij de subsidieverstrekking is aangegeven, eveneens in een tabel overeenkomstig het model dat als bijlage 1 bij deze regeling is gevoegd en dragen zij er zorg voor dat deze tabel is voorzien van een accountantsverklaring als bedoeld in [Titel 9 Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md);  
+i. specificeren de onderwijsinstellingen, bedoeld in artikel 1.8 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek, de door het Rijk verstrekte subsidies waarbij zulks in regelgeving of bij de subsidieverstrekking is aangegeven, eveneens in een tabel overeenkomstig het model dat als bijlage 1 bij deze regeling is gevoegd en dragen zij er zorg voor dat deze tabel is voorzien van een accountantsverklaring als bedoeld in Titel 9 Boek 2 van het Burgerlijk Wetboek;  
 
-j. wordt de jaarverslaggeving per instelling opgesteld als een bevoegd gezag meer dan één instelling als bedoeld in [artikel 1.1.1, onder b, van de Wet educatie en beroepsonderwijs](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md), een kenniscentrum als bedoeld in [artikel 1.1.1, onder b1 van de Wet educatie en beroepsonderwijs ](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md)of meer dan één instelling voor hoger onderwijs als bedoeld in [artikel 1.8 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) in stand houdt;  
+j. wordt de jaarverslaggeving per instelling opgesteld als een bevoegd gezag meer dan één instelling als bedoeld in artikel 1.1.1, onder b, van de Wet educatie en beroepsonderwijs, een kenniscentrum als bedoeld in artikel 1.1.1, onder b1 van de Wet educatie en beroepsonderwijs of meer dan één instelling voor hoger onderwijs als bedoeld in artikel 1.8 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek in stand houdt;  
 
 k. blijven ten aanzien van onderwijsinstellingen voor openbaar onderwijs zonder afgescheiden vermogen die niet door een privaatrechtelijke rechtspersoon in stand worden gehouden of voor onderwijsinstellingen waarvoor anderszins geen toerekening mogelijk is van een of meer balansposten aan het belang van de instelling, de onder g bedoelde modellen wat betreft de inrichting van de balans beperkt tot die posten waar die toerekening wel mogelijk is;  
 
@@ -78,13 +80,14 @@ m. is het niet toegestaan de jaarrekening op te stellen volgens de door de Inter
 
 ###Artikel  4 
 
-####Afwijking een aanvulling richtlijn
+####Afwijking en aanvulling richtlijn
 
-1.  In aanvulling op hoofdstuk 271 Personeelsbeloningen van de richtlijnen worden de lasten op basis van de BAPO en de SOP, overeenkomstig paragraaf 2, alinea 204, van dat hoofdstuk, in de staat van baten en lasten verantwoord als periodelasten.   
-2.  Onderwijsinstellingen nemen in het jaarverslag op aan hoeveel studenten zij uit het profileringsfonds, bedoeld in [artikel 7.51 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), financiële ondersteuning hebben verleend, uitgesplitst naar EER-studenten en niet EER-studenten. Tevens geven zij aan wat de hoogte is van de uitgaven samenhangend met het profileringsfonds.  
-3.  Instellingen voor hoger onderwijs als bedoeld in [artikel 1.8 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) nemen in het jaarverslag een overzicht op van de vergoedingen aan en de declaraties van de individuele bestuurders volgens het format conform bijlage 2 bij deze regeling, en publiceren dit tevens op de website van de onderwijsinstelling. 
+1a.  In aanvulling op hoofdstuk 271 Personeelsbeloningen van de richtlijnen worden de lasten op basis van de Bapo en de SOP, overeenkomstig paragraaf 2, alinea 204, van dat hoofdstuk, in de staat van baten en lasten verantwoord als periodelasten. 
+1b. Overeenkomstig hoofdstuk 271 Personeelsbeloningen van de richtlijnen worden de gespaarde verlofuren als gevolg van de afspraken duurzame inzetbaarheid of de werktijdenvermindering voor senioren conform paragraaf 2, alinea 203, van dat hoofdstuk, op de balans opgenomen als een verplichting uit hoofde van een opbouw van rechten voor zover de gespaarde rechten op doorbetaalde afwezigheid kunnen worden opgenomen of verzilverd.  
+2.  Onderwijsinstellingen nemen in het jaarverslag op aan hoeveel studenten zij uit het profileringsfonds, bedoeld in artikel 7.51 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek, financiële ondersteuning hebben verleend, uitgesplitst naar EER-studenten en niet EER-studenten. Tevens geven zij aan wat de hoogte is van de uitgaven samenhangend met het profileringsfonds.  
+3.  Instellingen voor hoger onderwijs als bedoeld in artikel 1.8 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek nemen in het jaarverslag een overzicht op van de vergoedingen aan en de declaraties van de individuele bestuurders volgens het format conform bijlage 2 bij deze regeling, en publiceren dit tevens op de website van de onderwijsinstelling. 
 4.  In het jaarverslag rapporteert het bevoegd gezag met gebruikmaking van de in bijlage 3 opgenomen set gegevens en de daarbij behorende toelichting over de resultaten van het financiële beleid over het verslagjaar. Daarnaast rapporteert het bevoegd gezag – in meerjarenperspectief over de drie verslagjaren volgend op het verslagjaar. Deze rapportage betreft onder meer het risicomanagement en het interne toezicht.
-5.  Een instelling voor hoger onderwijs verantwoordt zich in het jaarverslag over het verslagjaar 2015 conform het [Besluit experiment prestatiebekostiging hoger onderwijs](../../../../../AMvB/besluit/experiment/prestatiebekostiging/hoger/onderwijs/BWBR0032163/README.md) over realisatie van de plannen in het tijdvak 2013 tot en met 2015 en de daarbij in het vooruitzicht gestelde resultaten, voor zover die betrekking hebben op onderwijskwaliteit en studiesucces. Een instelling voor hoger onderwijs verstrekt tevens:
+5.  Een instelling voor hoger onderwijs verantwoordt zich in het jaarverslag over het verslagjaar 2015 conform het Besluit experiment prestatiebekostiging hoger onderwijs over realisatie van de plannen in het tijdvak 2013 tot en met 2015 en de daarbij in het vooruitzicht gestelde resultaten, voor zover die betrekking hebben op onderwijskwaliteit en studiesucces. Een instelling voor hoger onderwijs verstrekt tevens:
 
 a.  voor de verplichte indicatoren voor kwaliteit en studiesucces: de nulmeting, de ambitie zoals geformuleerd in de prestatieafspraak en het realisatiecijfer in 2015; en  
 
@@ -113,6 +116,44 @@ Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden ge
 De 
 Minister van Onderwijs, Cultuur en Wetenschap, 
 R.H.A. Plasterk    
+
+###Bijlage 0 
+
+####, behorende bij artikel 3, onderdeel e1 , van de regeling
+
+###Modelmatige weergave rapportage gegevens volgens Wet normering bezoldiging topfunctionarissen publieke en semiplublieke sector
+
+*Dit model bevat een samenvatting op hoofdlijnen van de regelgeving WNT; de regelgeving zelf is leidend.* *De elektronische aanlevering van WNT-gegevens geschiedt door gebruikmaking van het WNT e-formulier dat door DUO beschikbaar wordt gesteld.* VERMELDING TOPFUNCTIONARISSEN EN GEWEZEN TOPFUNCTIONARISSEN 1 (vermelding alle bestuurders met dienstbetrekking*)
+
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| naam  | voorz. j / n  | ingang dienstverband  | einde dienstverband  | omvang dienstverband in FTE  | beloning €  | belastbare onkostenvergoeding €  | voorziening beloning op termijn €  | uitkering beëindiging dienstverband* €  | motiveringen overschrijding norm an andere toelichtingen  |
+
+VERMELDING TOPFUNCTIONARISSEN EN GEWEZEN TOPFUNCTIONARISSEN 2 (vermelding alle bestuurders zonder dienstbetrekking)
+
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| naam  | voorz. J / n  | ingang dienstverband  | einde dienstverband in FTE  | omvang dienstverband  | beloning €  | belastbare onkostenvergoeding €  | voorziening beloning op termijn €  | uitkering beëindiging dienstverband** €  | motiveringen overschrijding norm en andere toelichtingen  |
+
+VERMELDING TOEZICHTHOUDERS (lid van het hoogste toezichthoudende orgaan)
+
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| naam  | voorz. j / n  | ingang functievervulling  | einde functievervulling  | --- | beloning €  | belastbare onkostenvergoeding €  | voorziening beloning op termijn €  | uitkering beëindiging dienstverband** €  | motiveringen overschrijding norm en andere toelichtingen  |
+
+VERMELDING NIET-TOPFUNCTIONARISSEN (andere functionarissen van wie de bezoldiging c.q. de ontslagvergoeding de norm overschrijdt)
+
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| --- | functieomschrijving  | ingang dienstverband  | einde dienstverband  | omvang dienstverband in FTE  | beloning €  | belastbare onkostenvergoeding €  | voorziening beloning op termijn €  | uitkering beëindiging dienstverband** €  | motiveringen overschrijding norm en andere toelichtingen  |
+
+VERMELDING NIET-TOPFUNCTIONARISSEN (zelfde opgave als hierboven, maar dan over het voorgaande verslagjaar)
+
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| --- | functieomschrijving  | ingang dienstverband  | einde dienstverband  | omvang dienstverband in FTE  | beloning €  | belastbare onkostenvergoeding €  | voorziening beloning op termijn €  | --- | motiveringen overschrijding norm en andere toelichtingen  |
+
+* Let op de vigerende bepalingen inzake fictieve dienstbetrekkingen** Indien van toepassing. Bij een uitkering wegens beëindiging dienstverband moet ook een lijst met alle voorgaande functie worden opgenomen.
 
 ### Bijlage  1 
 

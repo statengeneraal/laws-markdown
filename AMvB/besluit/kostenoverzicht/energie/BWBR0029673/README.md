@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Economische Zaken van 15 juli 2008, nr. WJZ / 8074858;
 
-Gelet op Richtlijn nr. 2006/32/EG van het Europees Parlement en de Raad van de Europese Unie van 5 april 2006 betreffende energie-efficiëntie bij het eindgebruik en energiediensten en houdende intrekking van Richtlijn 93/76/EEG van de Raad (PbEU L 114), de [artikelen 4](../../../../../wet/wet/implementatie/eg-richtlijnen/energie-efficiëntie/BWBR0029672/README.md), [5](../../../../../wet/wet/implementatie/eg-richtlijnen/energie-efficiëntie/BWBR0029672/README.md) en [6 van de Wet implementatie EG-richtlijnen energie-efficiëntie](../../../../../wet/wet/implementatie/eg-richtlijnen/energie-efficiëntie/BWBR0029672/README.md) en [artikel 40, vierde lid, van de Gaswet](../../../../../wet/gaswet/BWBR0011440/README.md);
+Gelet op Richtlijn nr. 2006/32/EG van het Europees Parlement en de Raad van de Europese Unie van 5 april 2006 betreffende energie-efficiëntie bij het eindgebruik en energiediensten en houdende intrekking van Richtlijn 93/76/EEG van de Raad (PbEU L 114), de artikelen 4, 5 en 6 van de Wet implementatie EG-richtlijnen energie-efficiëntie en artikel 40, vierde lid, van de Gaswet;
 
 De Raad van State gehoord (advies van 13 augustus 2008, nr. W10.08.0305/III);
 
@@ -71,7 +71,7 @@ Wijzigt het Besluit milieutaak gasbedrijven Gaswet.
 
 ### Artikel  5a  
 
-Dit besluit berust mede op de [artikelen 95lb](../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) en [95lc van de Elektriciteitswet 1998](../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) en de [artikelen 42b](../../../../../wet/gaswet/BWBR0011440/README.md) en [42c van de Gaswet](../../../../../wet/gaswet/BWBR0011440/README.md).
+Dit besluit berust mede op de artikelen 95lb en 95lc van de Elektriciteitswet 1998 en de artikelen 42b en 42c van de Gaswet.
 
 ### Artikel  6  
 

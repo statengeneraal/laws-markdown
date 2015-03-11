@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Economische Zaken van 21 september 2009, nr. WJZ / 9153805, gedaan mede namens Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,
 
-Gelet op richtlijn nr. 1999/94/EG van het Europees Parlement en de Raad van de Europese Unie van 13 december 1999 betreffende de beschikbaarheid van consumenteninformatie over het brandstofverbruik en de CO<sub>2</sub>-uitstoot bij het op de markt brengen van nieuwe personenauto’s (PbEG 2000, L 12), en op [artikel 6 van de Wet energiebesparing toestellen](../../../../../../../../wet/wet/energiebesparing/toestellen/BWBR0003916/README.md);
+Gelet op richtlijn nr. 1999/94/EG van het Europees Parlement en de Raad van de Europese Unie van 13 december 1999 betreffende de beschikbaarheid van consumenteninformatie over het brandstofverbruik en de CO<sub>2</sub>-uitstoot bij het op de markt brengen van nieuwe personenauto’s (PbEG 2000, L 12), en op artikel 6 van de Wet energiebesparing toestellen;
 
 De Raad van State gehoord (advies van 30 september 2009, nr. W10.09.0379/III);
 
@@ -19,7 +19,7 @@ Wijzigt het Besluit etikettering energiegebruik personenauto's.
 
 ### Artikel  II  
 
-Voor 2010 en 2011 gelden de constanten en waarden die daartoe door de RDW zijn bekendgemaakt met inachtneming van de wijze van berekening, bedoeld in artikel I, onderdeel B, in plaats van de in 2009 vastgestelde constanten en waarden op grond van [bijlage 4, onderdeel II, van het Besluit etikettering energiegebruik personenauto’s](../../../../../../../../AMvB/besluit/etikettering/energiegebruik/personenauto's/BWBR0011761/README.md) zoals die luidde op het tijdstip voor de inwerkingtreding van dit besluit. 
+Voor 2010 en 2011 gelden de constanten en waarden die daartoe door de RDW zijn bekendgemaakt met inachtneming van de wijze van berekening, bedoeld in artikel I, onderdeel B, in plaats van de in 2009 vastgestelde constanten en waarden op grond van bijlage 4, onderdeel II, van het Besluit etikettering energiegebruik personenauto’s zoals die luidde op het tijdstip voor de inwerkingtreding van dit besluit. 
 
 ### Artikel  III  
 
