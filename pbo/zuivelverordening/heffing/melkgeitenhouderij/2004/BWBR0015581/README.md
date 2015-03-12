@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Zuivel van 17 september 2003, houdende vaststelling bestemmingsheffing ten behoeve van de melkgeitenhouderij voor het jaar 2004 (Zuivelverordening Heffing melkgeitenhouderij 2004)
 
 Het bestuur van het Productschap Zuivel;
-Gelet op [artikel 126 van de Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [artikel 7 van het Instellingsbesluit Productschap Zuivel](../../../../../../AMvB/instellingsbesluit/productschap/zuivel/BWBR0015162/README.md);
+Gelet op artikel 126 van de Wet op de bedrijfsorganisatie en artikel 7 van het Instellingsbesluit Productschap Zuivel;
 Besluit:
 
 ###Artikel 1 

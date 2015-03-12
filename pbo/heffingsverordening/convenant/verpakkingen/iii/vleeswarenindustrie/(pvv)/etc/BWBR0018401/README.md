@@ -3,14 +3,14 @@
 ##Verordening van het Productschap Vee en Vlees van 8 juni 2005, houdende de vaststelling van een heffing ten behoeve van het Convenant Verpakkingen III voor het jaar 2005 (Heffingsverordening Convenant Verpakkingen III vleeswarenindustrie (PVV) 2005)
 
 Het bestuur van het Productschap Vee en Vlees;  
-Gelet op [artikel 126 van de Wet op de Bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en de [artikelen 10](../../../../../../../../../AMvB/instellingsbesluit/productschap/vee/en/vlees/BWBR0016491/README.md) en [12 van het Instellingsbesluit Productschap Vee en Vlees](../../../../../../../../../AMvB/instellingsbesluit/productschap/vee/en/vlees/BWBR0016491/README.md);
+Gelet op artikel 126 van de Wet op de Bedrijfsorganisatie en de artikelen 10 en 12 van het Instellingsbesluit Productschap Vee en Vlees;
 
-Gezien de [Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(pvv)/2005/BWBR0017340/README.md);
+Gezien de Verordening algemene bepalingen heffingen (PVV) 2005;
 Besluit:    
 
 ### Artikel  1  
 
-Deze verordening neemt over de begripsbepalingen van de [Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(pvv)/2005/BWBR0017340/README.md) en verstaat voorts onder:  
+Deze verordening neemt over de begripsbepalingen van de Verordening algemene bepalingen heffingen (PVV) 2005 en verstaat voorts onder:  
 
 | --- | --- | --- | --- |
 |:---|:---|:---|:---|
@@ -28,7 +28,7 @@ b. € 150,- in alle ander gevallen.
 
 ### Artikel  3  
 
-Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de [Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(pvv)/2005/BWBR0017340/README.md). 
+Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de Verordening algemene bepalingen heffingen (PVV) 2005. 
 
 ### Artikel  4  
 

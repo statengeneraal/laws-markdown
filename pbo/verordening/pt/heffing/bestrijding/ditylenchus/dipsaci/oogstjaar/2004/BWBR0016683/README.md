@@ -3,7 +3,7 @@
 ##Besluit van het bestuur van het Productschap Tuinbouw van 4 mei 2004, houdende de vaststelling van aan telers van bloembollen op te leggen heffing ter bestrijding van de ziekte Ditylenchus dipsaci (Verordening PT heffing bestrijding Ditylenchus dipsaci oogstjaar 2004)
 
 HET BESTUUR VAN HET PRODUCTSCHAP TUINBOUW,
-gelet op de [artikelen 95](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md); gelet op de [artikelen 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw](../../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md);
+gelet op de artikelen 95 en 126 van de Wet op de bedrijfsorganisatie; gelet op de artikelen 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw;
 
 gehoord de Sectorcommissie voor bollen, knollen en wortelstokken van bloemgewassen, d.d. 30 maart 2004;
 BESLUIT:
@@ -16,7 +16,7 @@ Materieel uitgewerkt per 01-04-2007
 ###Artikel 1 
 Materieel uitgewerkt per 01-04-2007 
 
-1. In deze verordening en de daarop berustende bepalingen worden overgenomen de begripsbepalingen van de [artikelen 1](../../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md) en [2 het Instellingsbesluit Productschap Tuinbouw](../../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md).
+1. In deze verordening en de daarop berustende bepalingen worden overgenomen de begripsbepalingen van de artikelen 1 en 2 het Instellingsbesluit Productschap Tuinbouw.
 2. In deze verordening en de daarop berustende bepalingen wordt verstaan onder:
 
 | --- | --- |
@@ -115,7 +115,7 @@ Aan de heffingsplichtige, die niet of niet geheel binnen de in artikel 8 bedoeld
 
 a.de daaruit voortvloeiende extra kosten van € 22,50 in rekening worden gebracht, alsmede
 
-b.de wettelijke interest over het niet betaalde bedrag, te berekenen vanaf de dag waarop de betaling diende te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid van de Wet op de bedrijfsorganisatie](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md).
+b.de wettelijke interest over het niet betaalde bedrag, te berekenen vanaf de dag waarop de betaling diende te zijn verricht ingevolge de aanmaning bedoeld in artikel 127, tweede lid van de Wet op de bedrijfsorganisatie.
 
 ###Artikel 10 
 Materieel uitgewerkt per 01-04-2007 

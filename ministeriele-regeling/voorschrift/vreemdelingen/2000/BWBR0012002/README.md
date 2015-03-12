@@ -792,10 +792,6 @@ Bij de beoordeling of een verblijfsvergunning voor bepaalde tijd, die is verleen
 
 Bij de indiening van de aanvraag, bedoeld in de artikelen 28 en 33 van de Wet, verklaart de vreemdeling of de wettelijk vertegenwoordiger ermee bekend te zijn dat de verblijfsrechtelijke gegevens via de koppelingen tussen het IND-informatiesysteem en de BRP worden doorgegeven aan instanties die deze gegevens voor de beoordeling van voorzieningen nodig hebben. 
 
-### Artikel  3.42  
-
-Voor de termijnen van de algemene asielprocedure, bedoeld in artikel 3.110, eerste en tweede lid, van het Besluit, tellen mee de dagen gedurende het weekeinde en de aan algemeen erkende feestdagen gelijkgestelde dagen, bedoeld in artikel 3, derde lid, van de Algemene termijnenwet. 
-
 ### Artikel 3.43a  
 
 Aan de vreemdeling die te kennen geeft de aanvraag tot het verlenen van de verblijfsvergunning voor bepaalde tijd, bedoeld in artikel 28 van de Wet, in te willen dienen wordt een brochure uitgereikt waarin hij, in een taal waarvan redelijkerwijze kan worden aangenomen dat hij die begrijpt, wordt ingelicht over: 

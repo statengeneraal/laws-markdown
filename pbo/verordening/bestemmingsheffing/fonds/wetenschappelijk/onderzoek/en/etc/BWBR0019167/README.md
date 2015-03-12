@@ -5,11 +5,11 @@
 Het bestuur van het Productschap Dranken heeft,  
 gelet op: 
 
-de [artikelen 93](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126, eerste en vierde lid van de Wet op de bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [artikel 12](../../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md) en [artikel 14 van de Instellingsbesluit Productschap Dranken](../../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md);
+de artikelen 93 en 126, eerste en vierde lid van de Wet op de bedrijfsorganisatie en artikel 12 en artikel 14 van de Instellingsbesluit Productschap Dranken;
 
 gezien:
 
-het advies van de Commissie ex [artikel 5 lid 1 onder c van het Instellingsbesluit Productschap Dranken](../../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md); de navolgende verordening vastgesteld
+het advies van de Commissie ex artikel 5 lid 1 onder c van het Instellingsbesluit Productschap Dranken; de navolgende verordening vastgesteld
 
 ### §  1  
 
@@ -56,11 +56,11 @@ hetzij door vermenging van ethylalcohol uit landbouwproducten met water;
 
 6. bottelen: het afvullen van verpakkingen die bestemd zijn om aan de consument af te leveren met een gedistilleerde en/of zwak gedistilleerde drank;  
 
-7. ondernemer: een natuurlijke of rechtspersoon, die een onderneming drijft als bedoeld in [artikel 3 lid 2 sub c van het Instellingsbesluit Productschap Dranken](../../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md);  
+7. ondernemer: een natuurlijke of rechtspersoon, die een onderneming drijft als bedoeld in artikel 3 lid 2 sub c van het Instellingsbesluit Productschap Dranken;  
 
 8. productschap: het Productschap Dranken;  
 
-9. commissie: d e Commissie voor gedistilleerd als bedoeld in [artikel 5 lid 1 onder c van het Instellingsbesluit Productschap Dranken](../../../../../../../../../AMvB/instellingsbesluit/productschap/dranken/BWBR0013660/README.md);  
+9. commissie: d e Commissie voor gedistilleerd als bedoeld in artikel 5 lid 1 onder c van het Instellingsbesluit Productschap Dranken;  
 
 10. secretaris: de secretaris van de Commissie voor gedistilleerd.   
 
@@ -130,7 +130,7 @@ niet onder vermelding of aanduiding van de persoon en/of onderneming, waarop zij
 
 in door het bestuur aan te wijzen gevallen, waarin dit naar zijn oordeel in het belang is van de bedrijfsgenoten, bekend worden gemaakt aan de Staat, andere publiekrechtelijk organen of naar het oordeel van het bestuur daarmede gelijk te stellen publiekrechtelijke instellingen, indien de verstrekking van deze gegevens voortvloeit uit het doel van de registratie en de persoonlijke levenssfeer van de geregistreerden door de verstrekking van deze gegevens niet onevenredig wordt geschaad.     
 2.  Bekendmaking van gegevens, als bedoeld in het eerste lid, blijft ook achterwege in gevallen, waarin uit de aard der gegevens of uit een of meer andere omstandigheden zou kunnen blijken, op welke persoon en/of onderneming de gegevens betrekking hebben.   
-3.  De secretaris en de overige leden van het personeel van het secretariaat zijn met het oog op de [Wet bescherming persoonsgegevens](../../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) verplicht tot geheimhouding van de gegevens tegenover een ieder, met uitzondering van de accountants als genoemd in boek 9, titel 2 BW en de leden van vorenbedoeld accountantskantoor en behoudens de eerdergenoemde toestemming van de betrokken belanghebbende.  
+3.  De secretaris en de overige leden van het personeel van het secretariaat zijn met het oog op de Wet bescherming persoonsgegevens verplicht tot geheimhouding van de gegevens tegenover een ieder, met uitzondering van de accountants als genoemd in boek 9, titel 2 BW en de leden van vorenbedoeld accountantskantoor en behoudens de eerdergenoemde toestemming van de betrokken belanghebbende.  
 
 ### §  4  
 
@@ -142,7 +142,7 @@ Materieel uitgewerkt per 01-01-2007
 Materieel uitgewerkt per 01-01-2007 
 
 1.  Deze verordening treedt in werking met ingang van 1 januari 2006.   
-2.  De [Verordening Bestemmingsheffing Fonds voor Wetenschappelijk Onderzoek en Voorlichting 2005](../../../../../../../../../pbo/verordening/bestemmingsheffing/fonds/voor/wetenschappelijk/onderzoek/en/etc/BWBR0017537/README.md) wordt ingetrokken.   
+2.  De Verordening Bestemmingsheffing Fonds voor Wetenschappelijk Onderzoek en Voorlichting 2005 wordt ingetrokken.   
 3.  Deze verordening kan worden aangehaald als Verordening Bestemmingsheffing Fonds Wetenschappelijk Onderzoek en Voorlichting 2006.  
 
 Schiedam 

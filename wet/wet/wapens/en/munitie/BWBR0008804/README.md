@@ -38,7 +38,13 @@ In deze wet wordt verstaan onder:
 
 11°. overdragen: het aan een ander doen overgaan van de feitelijke macht;  
 
-12°. Europese vuurwapenpas: het document dat wordt afgegeven door de autoriteiten van de lid-staten van de Europese Gemeenschappen aan de wettige houder en gebruiker van een vuurwapen.   
+12°. Europese vuurwapenpas: het document dat wordt afgegeven door de autoriteiten van de lid-staten van de Europese Gemeenschappen aan de wettige houder en gebruiker van een vuurwapen;  
+
+13°.  verordening (EU) nr. 258/2012: Verordening (EU) nr. 258/2012 van het Europees parlement en de Raad van 14 maart 2012 tot uitvoering van artikel 10 van het Protocol van de Verenigde Naties tegen de illegale vervaardiging van en handel in vuurwapens, hun onderdelen, componenten en munitie, tot aanvulling van het Verdrag van de Verenigde Naties ter bestrijding van grensoverschrijdende georganiseerde misdaad (VN-protocol inzake vuurwapens), en tot vaststelling van uitvoervergunningen voor vuurwapens, hun onderdelen, componenten en munitie en maatregelen betreffende de invoer en doorvoer ervan (PbEU 2012, L 94); 
+
+14°.  uitvoer: uitvoer als bedoeld in artikel 2, zesde lid, van verordening (EU) nr. 258/2012;  
+
+15°.  uitvoervergunning: een uitvoervergunning als bedoeld in artikel 2, veertiende lid, van verordening (EU) nr. 258/2012.  
 
 ### Artikel  2  
 
@@ -122,14 +128,14 @@ c. waarvan de ligplaats van de patronen en de gasuitlaat loodrecht staan op de l
 
 ### Artikel  3a  
 
-1.  De artikelen 9, eerste lid, 13, eerste lid, 14, eerste lid, 22, eerste lid, 26, eerste lid, 27, eerste lid, 32a, eerste lid, en 32b, eerste lid, zijn niet van toepassing op de krijgsmacht. Zij zijn evenmin van toepassing op personen die daarvan deel uitmaken of daarvoor werkzaam zijn, voor zover Onze Minister van Defensie dit bij regeling heeft bepaald.   
-2.   De artikelen 9, eerste lid, 13, eerste lid, 14, eerste lid, 22, eerste lid, 26, eerste lid, 27, eerste lid, 32a, eerste lid, en 32b, eerste lid, zijn niet van toepassing op de politie. Zij zijn evenmin van toepassing op personen die daarvan deel uitmaken of daarvoor werkzaam zijn, voor zover Onze Minister dit bij regeling heeft bepaald.   
-3.   De artikelen 13, eerste lid, 14, eerste lid, 22, eerste lid, 26, eerste lid, 27, eerste lid, 32a, eerste lid, en 32b, eerste lid, zijn niet van toepassing op de overige openbare dienst en op personen die daarvan deel uitmaken of daarvoor werkzaam zijn, daaronder begrepen opsporingsambtenaren van de bijzondere opsporingsdiensten, bedoeld in artikel 2 van de Wet op de bijzondere opsporingsdiensten en buitengewone opsporingsambtenaren, voor zover Onze Minister dit bij regeling heeft bepaald.   
+1.  De artikelen 9, eerste lid, 13, eerste lid, 14, eerste lid, 20a, tweede lid 22, eerste lid, 26, eerste lid, 27, eerste lid, 32a, eerste lid, en 32b, eerste lid, zijn niet van toepassing op de krijgsmacht. Zij zijn evenmin van toepassing op personen die daarvan deel uitmaken of daarvoor werkzaam zijn, voor zover Onze Minister van Defensie dit bij regeling heeft bepaald.   
+2.   De artikelen 9, eerste lid, 13, eerste lid, 14, eerste lid, 20a, tweede lid 22, eerste lid, 26, eerste lid, 27, eerste lid, 32a, eerste lid, en 32b, eerste lid, zijn niet van toepassing op de politie. Zij zijn evenmin van toepassing op personen die daarvan deel uitmaken of daarvoor werkzaam zijn, voor zover Onze Minister dit bij regeling heeft bepaald.   
+3.   De artikelen 13, eerste lid, 14, eerste lid, 20a, tweede lid 22, eerste lid, 26, eerste lid, 27, eerste lid, 32a, eerste lid, en 32b, eerste lid, zijn niet van toepassing op de overige openbare dienst en op personen die daarvan deel uitmaken of daarvoor werkzaam zijn, daaronder begrepen opsporingsambtenaren van de bijzondere opsporingsdiensten, bedoeld in artikel 2 van de Wet op de bijzondere opsporingsdiensten en buitengewone opsporingsambtenaren, voor zover Onze Minister dit bij regeling heeft bepaald.   
 4.  Voor de toepassing van dit artikel wordt onder krijgsmacht, politie en overige openbare dienst mede verstaan niet-Nederlandse krijgsmacht, politie of openbare dienst.  
 
 ### Artikel  4  
 
-1. Onze Minister kan van bij of krachtens deze wet vastgestelde voorschriften of verboden vrijstelling of, op daartoe strekkend verzoek, ontheffing verlenen voor daarbij te omschrijven wapens of munitie, behorend tot een van de volgende groepen:
+1. Onverminderd de artikelen 4 en 9 van verordening (EU) nr. 258/2012 kan Onze Minister van bij of krachtens deze wet vastgestelde voorschriften of verboden vrijstelling of, op daartoe strekkend verzoek, ontheffing verlenen voor daarbij te omschrijven wapens of munitie, behorend tot een van de volgende groepen:
 
 a. wapens die niet voor gebruik als zodanig geschikt te maken zijn;  
 
@@ -157,7 +163,7 @@ De in deze wet genoemde erkenningen, consenten, vergunningen, verloven, vrijstel
 
 ### Artikel  7  
 
-1.  De in deze wet genoemde erkenningen, consenten, vergunningen, verloven en ontheffingen worden, onverminderd de bijzondere gronden tot weigering daarvan, geweigerd indien: 
+1.  De in deze wet genoemde erkenningen, consenten, vergunningen, verloven en ontheffingen worden, onverminderd de bijzondere gronden tot weigering daarvan en onverminderd verordening (EU) nr. 258/2012, geweigerd indien: 
 
 a. de aanvrager niet de door Onze Minister bij regeling vastgestelde gegevens en bescheiden heeft overgelegd;  
 
@@ -166,7 +172,7 @@ b. er reden is om te vrezen dat aan de aanvrager het onder zich hebben van wapen
 c. er reden is om te vrezen dat daarvan dan wel van wapens of munitie misbruik zal worden gemaakt; of  
 
 d. wanneer daartoe dringende, aan het algemeen belang ontleende, redenen bestaan.     
-2.  De in deze wet genoemde erkenningen, consenten, vergunningen, verloven en ontheffingen kunnen, onverminderd de bijzondere gronden tot wijziging of intrekking daarvan, door het bestuursorgaan dat deze heeft verleend of door Onze Minister worden gewijzigd of ingetrokken: 
+2.  De in deze wet genoemde erkenningen, consenten, vergunningen, verloven en ontheffingen kunnen, onverminderd de bijzondere gronden tot wijziging of intrekking daarvan en onverminderd verordening (EU) nr. 258/2012, door het bestuursorgaan dat deze heeft verleend of door Onze Minister worden gewijzigd of ingetrokken: 
 
 a. indien onjuiste gegevens zijn verstrekt die hebben geleid tot de verlening daarvan;  
 
@@ -262,24 +268,43 @@ a. sportschutters en jagers;
 
 b. doorvoer van wapens of munitie;  
 
-c. de uitrusting van vaartuigen en luchtvaartuigen, alsmede van de bemanning daarvan.   Geen vrijstelling kan worden verleend ten aanzien van het, anders dan tijdelijk, doen uitgaan van wapens en munitie naar een lid-staat van de Europese Gemeenschappen.   
-5.  De houder van een in Nederland afgegeven consent of van een in een andere lid-staat van de Europese Gemeenschappen afgegeven vergunning voor het doen binnenkomen, doorvoeren of doen uitgaan van wapens of munitie, is verplicht de wapens en munitie tot aan de bestemming, respectievelijk het verlaten van het grondgebied van Nederland, te doen vergezellen van het consent of de vergunning.   
+c. de uitrusting van vaartuigen en luchtvaartuigen, alsmede van de bemanning daarvan.   Geen vrijstelling kan worden verleend ten aanzien van het, anders dan tijdelijk, doen uitgaan van wapens en munitie naar een lidstaat van de Europese Unie.   
+5.  De houder van een in Nederland afgegeven consent of van een in een andere lidstaat van de Europese Unie afgegeven vergunning voor het doen binnenkomen, doorvoeren of doen uitgaan van wapens of munitie, is verplicht de wapens en munitie tot aan de bestemming, respectievelijk het verlaten van het grondgebied van Nederland, te doen vergezellen van het consent of de vergunning.   
 6.  Met toepassing van artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet is paragraaf 4.1.3.3. van de Algemene wet bestuursrecht niet van toepassing op een verzoek om een consent. 
 
 ### Artikel  15  
 
-Onze Minister kan, na overleg met Onze Minister van Economische Zaken, bepalen dat op grond van de Algemene douanewet afgegeven vergunningen tevens gelden als consent in de zin van artikel 14. 
+Onze Minister kan, na overleg met Onze Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking, bepalen dat op grond van de Algemene douanewet afgegeven vergunningen tevens gelden als consent in de zin van artikel 14. 
 
 ### Artikel  16  
 
 1.  Voor zover het krachtens artikel 15 bepaalde niet van toepassing is, verleent Onze Minister van Defensie het consent tot binnenkomen ten behoeve van de krijgsmacht en Onze Minister dat ten behoeve van de overige openbare dienst.   
-2.  In alle overige gevallen wordt een consent verleend door de Belastingdienst/Douane centrale dienst voor in- en uitvoer.  
+2.  In alle overige gevallen wordt een consent verleend door het onderdeel van de Belastingdienst, de Centrale dienst voor in- en uitvoer.  
 
 ### Artikel  20  
 
 1.  Een consent tot binnenkomen wordt geweigerd indien de aanvrager niet gerechtigd is de wapens of de munitie in Nederland voorhanden te hebben, tenzij deze zijn bestemd voor overbrenging en opslag onder douaneverband.   
 2.  Een consent tot uitgaan wordt geweigerd indien niet uit een door de aanvrager over te leggen bewijsstuk blijkt of niet uit anderen hoofde bekend is dat de bevoegde autoriteiten van het land van bestemming geen bedenkingen hebben tegen de aanwezigheid van de wapens of munitie op hun grondgebied.   
-3.  Wanneer een lidstaat van de Europese Unie het land van bestemming of van doorvoer is van de wapens of munitie waarop de aanvraag betrekking heeft, doet de Belastingdienst/Douane centrale dienst voor in- en uitvoer mededeling aan die lidstaat van het verlenen van het consent.  
+3.  Wanneer een lidstaat van de Europese Unie het land van bestemming of van doorvoer is van de wapens of munitie waarop de aanvraag betrekking heeft, doet het onderdeel van de Belastingdienst, de Centrale dienst voor in- en uitvoer mededeling aan die lidstaat van het verlenen van het consent.  
+
+###§ 4a  
+
+####Uitvoer van vuurwapens en munitie opgenomen in bijlage I van verordening (EU) nr. 258/2012
+
+### Artikel  20a  
+
+1.  De artikelen 14 tot en met 16 en 20 zijn niet van toepassing op het doen uitgaan van vuurwapens, hun onderdelen, essentiële componenten en munitie, opgenomen in bijlage I van verordening (EU) nr. 258/2012, wanneer dat tevens is aan te merken als uitvoer.   
+2.  Het is verboden zonder uitvoervergunning vuurwapens, hun onderdelen, essentiële componenten en munitie, opgenomen in bijlage I van verordening (EU) nr. 258/2012, uit te voeren.   
+3.  Bij ministeriële regeling kunnen regels worden gesteld ter uitvoering van artikel 7, tweede lid, van verordening (EU) nr. 258/2012.   
+4.  Aan de uitvoervergunning wordt het voorschrift verbonden dat vuurwapens, hun onderdelen, essentiële componenten en munitie, opgenomen in bijlage I van verordening (EU) nr. 258/2012, zodanig worden verpakt dat deze niet voor onmiddellijk gebruik kunnen worden aangewend.   
+5.  De houder van een in Nederland afgegeven uitvoervergunning of van een in een andere lidstaat van de Europese Unie afgegeven uitvoervergunning, is verplicht vuurwapens, hun onderdelen, essentiële componenten en munitie tot aan de bestemming, respectievelijk het verlaten van het grondgebied van Nederland, te doen vergezellen van de uitvoervergunning.   
+6.  Onze Minister stelt bij regeling procedures vast voor de gevallen bedoeld in artikel 9, tweede lid, van verordening (EU) nr. 258/2012.   
+7.  Onze Minister kan met het oog op de uitvoer van geluiddempers zoals opgenomen in bijlage I van verordening (EU) nr. 258/2012, en onverminderd het bepaalde in artikel 13, tweede lid, ontheffing verlenen van een of meer verboden genoemd in artikel 13, eerste lid.  
+
+### Artikel  20b  
+
+1.  Onze Minister kan, na overleg met Onze Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking, bepalen dat op grond van de Algemene douanewet afgegeven vergunningen tevens gelden als uitvoervergunningen.   
+2.  Een uitvoervergunning wordt verleend door het onderdeel van de Belastingdienst, de Centrale dienst voor in- en uitvoer.  
 
 ### §  5  
 
@@ -437,7 +462,7 @@ d. het type munitie.
 
 ### Artikel  34  
 
-1.  Tegen beschikkingen van de korpschef en de Belastingdienst/Douane centrale dienst voor in- en uitvoer genomen krachtens deze wet staat administratief beroep open bij Onze Minister.    
+1.  Tegen beschikkingen van de korpschef en het onderdeel van de Belastingdienst, de Centrale dienst voor in- en uitvoer genomen krachtens deze wet staat administratief beroep open bij Onze Minister.    
 2.  Het beroep kan worden ingesteld: 
 
 a. tegen beschikkingen op grond van artikel 8: door de bewaargever en door de rechthebbende;  
@@ -451,12 +476,12 @@ b. in de overige gevallen door de aanvrager, dan wel de houder van de erkenning,
 ### Artikel  38  
 
 1.  Onze Minister kan regels vaststellen over de door de korpschef bij de uitvoering van deze wet te voeren administratie.   
-2.  Bij de uitvoering van deze wet volgen de korpschef en de Belastingdienst/Douane centrale dienst voor in- en uitvoer de aanwijzingen van Onze Minister.   
+2.  Bij de uitvoering van deze wet volgen de korpschef en het onderdeel van de Belastingdienst, de Centrale dienst voor in- en uitvoer de aanwijzingen van Onze Minister.   
 3.  Artikel 10:22, tweede lid, van de Algemene wet bestuursrecht is van overeenkomstige toepassing. 
 
 ### Artikel  39  
 
-Onze Minister kan modellen vaststellen van het bewijs van erkenning, de consenten, de vergunningen, de verloven, alsmede van andere ter uitvoering van de wet te gebruiken bescheiden. Deze modellen worden bekendgemaakt in de *Nederlandse Staatscourant*. 
+Onze Minister kan, onverminderd artikel 4, eerste lid, van verordening (EU) nr. 258/2012, modellen vaststellen van het bewijs van erkenning, de consenten, de vergunningen, de verloven, alsmede van andere ter uitvoering van de wet te gebruiken bescheiden. Deze modellen worden bekendgemaakt in de *Nederlandse Staatscourant*. 
 
 ### Artikel  40  
 
@@ -545,19 +570,21 @@ aanwijzingen dat een strafbaar feit als bedoeld onder a of b zal worden gepleegd
 
 ### Artikel  54  
 
-Met geldboete van de derde categorie wordt gestraft hij die handelt in strijd met een krachtens de artikelen 6, 8, tweede of derde lid, 33 of 42 vastgesteld voorschrift, dan wel in strijd met de artikelen 8, eerste lid, 14, vijfde lid, 26, vijfde lid, 27, eerste lid, of 31, derde of vierde lid. 
+Met geldboete van de derde categorie wordt gestraft hij die handelt in strijd met een krachtens de artikelen 6, 8, tweede of derde lid, 33 of 42 vastgesteld voorschrift, dan wel in strijd met de artikelen 8, eerste lid, 14, vijfde lid, 20a, vijfde lid, 26, vijfde lid, 27, eerste lid, of 31, derde of vierde lid. 
 
 ### Artikel  55  
 
-1. Met gevangenisstraf van ten hoogste negen maanden of geldboete van de vierde categorie wordt gestraft hij die handelt in strijd met de artikelen 9, eerste lid, 13, eerste lid, 22, eerste lid, 26, eerste lid, of 31, eerste lid.  
+1. Met gevangenisstraf van ten hoogste negen maanden of geldboete van de vierde categorie wordt gestraft hij die handelt in strijd met de artikelen 9, eerste lid, 13, eerste lid, 20a, tweede lid, voor zover het betreft een geluiddemper, 22, eerste lid, 26, eerste lid, of 31, eerste lid.  
 2.  Met gevangenisstraf van ten hoogste negen maanden of geldboete van de vierde categorie wordt gestraft hij die handelt in strijd met artikel 14, eerste lid.   
 3.  Met gevangenisstraf van ten hoogste vier jaar of geldboete van de vijfde categorie wordt gestraft: 
 
 a. hij die handelt in strijd met de artikelen 9, eerste lid, 14, eerste lid, 26, eerste lid, of 31, eerste lid, en het feit begaat met betrekking tot een wapen van categorie II, of een vuurwapen van categorie III;  
 
-b. hij die handelt in strijd met de artikelen 13, eerste lid, of 26, eerste lid, aan boord van een luchtvaartuig of op een luchthaven, aangewezen krachtens artikel 52, vierde lid.     
-4.  Met gevangenisstraf van ten hoogste acht jaar of geldboete van de vijfde categorie wordt gestraft: hij die handelt in strijd met de artikelen 9, eerste lid, 13, eerste lid, 14, eerste lid, 26, eerste lid, of 31, eerste lid, en van het in strijd met de wet vervaardigen, transformeren, uitwisselen, verhuren of anderszins ter beschikking stellen, herstellen, beproeven of verhandelen van wapens of munitie een beroep of een gewoonte maakt.   
-5.  Met gevangenisstraf van ten hoogste acht jaar of geldboete van de vijfde categorie wordt eveneens gestraft hij die handelt in strijd met artikel 9, eerste lid, 13, eerste lid, 14, eerste lid, 26, eerste lid, of 31, eerste lid, indien het feit begaan is met een terroristisch oogmerk als bedoeld in artikel 83a van het Wetboek van Strafrecht dan wel met het oogmerk om een terroristisch misdrijf als bedoeld in artikel 83 van dat wetboek voor te bereiden of gemakkelijk te maken.  
+b. hij die handelt in strijd met de artikelen 13, eerste lid, of 26, eerste lid, aan boord van een luchtvaartuig of op een luchthaven, aangewezen krachtens artikel 52, vierde lid;  
+
+c. hij die handelt in strijd met artikel 20a, tweede lid, voor zover het niet betreft een geluiddemper.    
+4.  Met gevangenisstraf van ten hoogste acht jaar of geldboete van de vijfde categorie wordt gestraft: hij die handelt in strijd met de artikelen 9, eerste lid, 13, eerste lid, 14, eerste lid, artikel 20a, tweede lid, 26, eerste lid, of 31, eerste lid, en van het in strijd met de wet vervaardigen, transformeren, uitwisselen, verhuren of anderszins ter beschikking stellen, herstellen, beproeven of verhandelen van wapens of munitie een beroep of een gewoonte maakt.   
+5.  Met gevangenisstraf van ten hoogste acht jaar of geldboete van de vijfde categorie wordt eveneens gestraft hij die handelt in strijd met artikel 9, eerste lid, 13, eerste lid, 14, eerste lid, artikel 20a, tweede lid, 26, eerste lid, of 31, eerste lid, indien het feit begaan is met een terroristisch oogmerk als bedoeld in artikel 83a van het Wetboek van Strafrecht dan wel met het oogmerk om een terroristisch misdrijf als bedoeld in artikel 83 van dat wetboek voor te bereiden of gemakkelijk te maken.  
 6.  Met een gevangenisstraf van ten hoogste vier jaar of geldboete van de vijfde categorie wordt gestraft hij die handelt in strijd met de artikelen 32a, eerste, tweede of derde lid, of 32b. 
 
 ### Artikel  56  

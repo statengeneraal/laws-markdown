@@ -225,7 +225,7 @@ a. een uitkering als bedoeld in artikel 2:4, eerste lid, onderdeel l, en een uit
 b. een eenmalige premie die door burgemeester en wethouders kan worden toegekend in het kader van een voorziening gericht op arbeidsinschakeling van ten hoogste € 2.339,00 per kalenderjaar; en  
 
 c. een kostenvergoeding voor het verrichten van vrijwilligerswerk van ten hoogste € 95,– per maand met een maximum van € 764,– per jaar, dan wel een kostenvergoeding voor het verrichten van vrijwilligerswerk in het kader van een voorziening gericht op arbeidsinschakeling als bedoeld in artikel 7, eerste lid, onderdeel a, van de Participatiewet van ten hoogste € 150,– per maand met een maximum van € 1.500,– per jaar.     
-2.  Onze Minister wijzigt de bedragen, bedoeld in het eerste lid, onderdelen b en c, met ingang van een door hem te bepalen dag, voor zover de ontwikkeling van de in artikel 31, tweede lid, onderdelen j en k, van de Participatiewet genoemde bedragen daartoe aanleiding geeft.   
+2.  De bedragen, genoemd in het eerste lid, onderdelen b en c, worden gewijzigd indien de ontwikkeling van de in artikel 31, tweede lid, onderdelen j en k, van de Participatiewet, genoemde bedragen daartoe aanleiding geeft. De gewijzigde bedragen en de dag waarop deze wijziging ingaat, worden door of namens Onze Minister bekendgemaakt in de Staatscourant.  
 3.  Voor het bepalen van inkomen als bedoeld in de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers is artikel 2:5 niet van toepassing.  
 
 ### Artikel  2:9  

@@ -9,19 +9,13 @@ Besluit:
 
 ####Regeling kwaliteitsafspraken mbo
 
-Treedt in werking per 01-01-2015 
-
 ###Hoofdstuk 1 
 
 ####Algemene bepalingen
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  1.1  
 
 ####Begripsbepalingen
-
-Treedt in werking per 01-01-2015 
 
 In deze regeling wordt verstaan onder:   a. investeringsbudget: aanvullende bekostiging als bedoeld in artikel 2.1;   b. kwaliteitsplan: kwaliteitsplan als bedoeld in artikel 1.4;   c. minister: de Minister van Onderwijs, Cultuur en Wetenschap en, voor zover het betreft het beroepsonderwijs op het gebied van landbouw, natuurlijke omgeving en voedsel, de Minister van Economische Zaken;   d. wet: de Wet educatie en beroepsonderwijs.   
 
@@ -29,23 +23,17 @@ In deze regeling wordt verstaan onder:   a. investeringsbudget: aanvullende beko
 
 ####Doelstelling
 
-Treedt in werking per 01-01-2015 
-
 De minister verstrekt aan instellingen voor de kalenderjaren 2015 tot en met 2018 jaarlijks een aanvulling op de bekostiging ten behoeve van activiteiten die erop zijn gericht de kwaliteit van het onderwijs van de instelling te verhogen. 
 
 ### Artikel  1.3  
 
 ####Investeringsbudget
 
-Treedt in werking per 01-01-2015 
-
 De aanvulling op de bekostiging, bedoeld in artikel 1.2, bestaat uit het investeringsbudget. 
 
 ### Artikel  1.4  
 
 ####Kwaliteitsplan
-
-Treedt in werking per 01-01-2015 
 
 1.  De instellingen stellen voor de kalenderjaren 2015 tot en met 2018 een kwaliteitsplan op.   
 2.  De instellingen leggen in het kwaliteitsplan gemotiveerd vast: 
@@ -65,8 +53,6 @@ d. hoe zij de aanvulling op de bekostiging willen besteden ten aanzien van het b
 
 ####Uitvoering
 
-Treedt in werking per 01-01-2015 
-
 1.  De instellingen ondertekenen een uitvoeringsovereenkomst met de minister. De ondertekende uitvoeringsovereenkomst wordt uiterlijk op 1 maart 2015 door de instellingen ingediend bij de minister.   
 2.  De instellingen winnen advies in over het door hen opgestelde kwaliteitsplan en de uitvoering daarvan bij een door de minister aangewezen instantie.   
 3.  Een door de minister aangewezen instantie adviseert de minister over de beoordeling van het kwaliteitsplan ten aanzien van het thema stimuleren van excellentie.  
@@ -74,8 +60,6 @@ Treedt in werking per 01-01-2015
 ### Artikel  1.6  
 
 ####Monitor en evaluatie
-
-Treedt in werking per 01-01-2015 
 
 1.  De instellingen dienen in 2016, 2017 en 2018 uiterlijk op 1 maart een schriftelijke tussenrapportage over de voortgang van de uitvoering van het kwaliteitsplan in bij de minister.   
 2.  De instellingen dienen in 2019 uiterlijk op 1 maart een schriftelijke eindrapportage over de uitvoering van het kwaliteitsplan in bij de minister.   
@@ -86,21 +70,15 @@ Treedt in werking per 01-01-2015
 
 ####Verantwoordingsplicht
 
-Treedt in werking per 01-01-2015 
-
 De verantwoording van de aanvulling op de bekostiging geschiedt conform het bepaalde in artikel 13, tweede lid, onder a, van de Regeling OCW-subsidies. 
 
 ### Hoofdstuk  2  
 
 ####Investeringsbudget
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  2.1  
 
 ####Investeringsbudget
-
-Treedt in werking per 01-01-2015 
 
 Het investeringsbudget wordt aan de instellingen verstrekt ten behoeve van het verhogen van de kwaliteit van het onderwijs van de instelling, in het bijzonder ten behoeve van de thema’s: 
 
@@ -120,8 +98,6 @@ f. verbeteren van studiesucces.
 
 ####Subsidieplafond
 
-Treedt in werking per 01-01-2015 
-
 1.  De subsidieplafonds worden jaarlijks bekendgemaakt in de Staatscourant.   
 2.  Voor het kalenderjaar 2015 is voor het verstrekken van het investeringsbudget, met uitzondering van het deel dat is bedoeld voor het thema stimuleren van excellentie, maximaal 163,5 miljoen euro beschikbaar.   
 3.  Voor het kalenderjaar 2015 is voor het verstrekken van het investeringsbudget dat is bedoeld voor het thema stimuleren van excellentie maximaal 24,0 miljoen euro beschikbaar.  
@@ -130,9 +106,7 @@ Treedt in werking per 01-01-2015
 
 ####Verdeling
 
-Treedt in werking per 01-01-2015 
-
-1.  Het in artikel 2.2, tweede lid, genoemde bedrag wordt als volgt verdeeld over de instellingen die voldoen aan de subsidievoorwaarden, bedoeld in de artikelen 1.4, eerste lid, en 1.5, tweede lid: 
+1.  Het in artikel 2.2, tweede lid, genoemde bedrag wordt als volgt verdeeld over de instellingen die voldoen aan de subsidievoorwaarden, bedoeld in de artikelen 1.4, eerste lid, en 1.5, eerste lid,: 
 
 a. tweederde deel wordt over deze instellingen verdeeld naar rato van het totaal van de voor dat kalenderjaar op grond van artikel 2.2.1, eerste lid, van het Uitvoeringsbesluit WEB berekende rijksbijdragedelen voor die instelling;  
 
@@ -143,8 +117,6 @@ b. eenderde deel wordt over deze instellingen verdeeld naar rato van het aantal 
 
 ####Stimuleren van excellentie
 
-Treedt in werking per 01-01-2015 
-
 1.  Instellingen die in aanmerking willen komen voor het deel van het investeringsbudget dat is bedoeld voor het thema stimuleren van excellentie, dienen dit thema in het kwaliteitsplan op te nemen. Artikel 1.4 is van overeenkomstige toepassing.   
 2.  De minister beoordeelt uiterlijk op 15 juli 2015 het thema stimuleren van excellentie, zoals dat is opgenomen in het kwaliteitsplan. Voor de beoordeling wordt gebruik gemaakt van het beoordelingskader in bijlage 2.   
 3.  Het investeringsbudget dat is bedoeld voor het thema stimuleren van excellentie wordt uitsluitend toegekend aan instellingen waarvan dit onderdeel van het kwaliteitsplan door de minister is goedgekeurd.  
@@ -153,15 +125,11 @@ Treedt in werking per 01-01-2015
 
 ####Besteding
 
-Treedt in werking per 01-01-2015 
-
 De aanvulling op de bekostiging kan ook worden aangewend voor andere activiteiten van de onderwijsinstelling dan waarvoor deze aanvullende vergoeding wordt verstrekt. 
 
 ### Artikel  2.6  
 
 ####Betaling
-
-Treedt in werking per 01-01-2015 
 
 1.  De betaling van het investeringsbudget vindt plaats volgens het kasritme van de betaling van de rijksbijdrage, bedoeld in artikel 2.2.4, tweede lid, van de wet. De eerste betaling vindt plaats in de maand mei 2015.   
 2.  In afwijking van het eerste lid vindt de eerste betaling van het deel van het investeringsbudget dat is bedoeld voor het thema stimuleren van excellentie, voor zover instellingen daarvoor in aanmerking komen, plaats in de maand september 2015.  
@@ -170,14 +138,10 @@ Treedt in werking per 01-01-2015
 
 ####Intrekking
 
-Treedt in werking per 01-01-2015 
-
 De Regeling intensivering Nederlandse taal en rekenen mbo wordt ingetrokken.
 ### Artikel  III  
 
 ####Overgangsbepaling
-
-Treedt in werking per 01-01-2015 
 
 1.Voor zover er ter zake, na het vervallen van de Regeling aanvullende bekostiging bekwaamheid van het management en professionalisering onderwijspersoneel Middelbaar Beroepsonderwijs en het intrekken van de Regeling intensivering Nederlandse taal en rekenen mbo, nog sprake is van enige bestuursrechtelijke afdoening, met inbegrip van bezwaar- en beroepsprocedures, vindt deze overeenkomstig genoemde regelingen plaats.
 
@@ -185,8 +149,6 @@ Treedt in werking per 01-01-2015
 ### Artikel  IV  
 
 ####Inwerkingtreding
-
-Treedt in werking per 01-01-2015 
 
 Deze regeling treedt in werking met ingang van 1 januari 2015.    Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
@@ -197,8 +159,6 @@ M. Bussemaker
 ### Bijlage 1 
 
 ####bij artikel 1.4, tweede lid, aanhef en onder a , van de Regeling kwaliteitsafspraken mbo
-
-Treedt in werking per 01-01-2015 
 
 De in deze bijlage beschreven doelstellingen en activiteiten dienen per thema, voor zover mogelijk, SMART te worden geformuleerd: Specifiek, Meetbaar, Acceptabel, Realistisch en Tijdgebonden. De instellingen formuleren het kwaliteitsplan mede met het oog op de verwachte resultaten voor vsv en studiesucces, waarvoor vanaf 2016 resultaatafhankelijke bekostiging plaatsvindt.  
 
@@ -221,8 +181,6 @@ De in deze bijlage beschreven doelstellingen en activiteiten dienen per thema, v
 ### Bijlage 2 
 
 ####bij artikel 2.4, tweede lid , van de Regeling kwaliteitsafspraken mbo
-
-Treedt in werking per 01-01-2015 
 
 ####Beoordelingskader bij het thema stimuleren van excellentie
 

@@ -3,7 +3,7 @@
 ##Besluit van het bestuur van het Productschap Tuinbouw van 26 april 2005, houdende de vaststelling van aan exporteurs van bloembollen op te leggen heffing voor de export van bloembollen naar Japan, voor het oogstjaar 2005 (Verordening PT heffing export bloembollen naar Japan oogstjaar 2005)
 
 Het bestuur van het Productschap Tuinbouw;  
-gelet op de [artikelen 95](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en gelet op de [artikelen 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw](../../../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md);
+gelet op de artikelen 95 en 126 van de Wet op de bedrijfsorganisatie, en gelet op de artikelen 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw;
 
 gehoord de Commissie voor bollen, knollen en wortelstokken van bloemgewassen, 15 februari 2005;
 Besluit:     
@@ -16,8 +16,8 @@ Materieel uitgewerkt per 24-06-2007
 ### Artikel  1  
 Materieel uitgewerkt per 24-06-2007 
 
-1.  In deze verordening worden overgenomen de begripsbepalingen van de [artikelen 1](../../../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md) en [2 van het Instellingsbesluit Productschap Tuinbouw](../../../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md).   
-2.  In deze verordening worden overgenomen de begripsbepalingen van de [artikelen 1:1](../../../../../../../../../../../pbo/verordening/pt/algemene/bepalingen/2003/BWBR0016684/README.md) en [artikel 3:1](../../../../../../../../../../../pbo/verordening/pt/algemene/bepalingen/2003/BWBR0016684/README.md) en de werkwijze zoals beschreven in [hoofdstuk 3 van de Verordening PT algemene bepalingen 2003](../../../../../../../../../../../pbo/verordening/pt/algemene/bepalingen/2003/BWBR0016684/README.md).   
+1.  In deze verordening worden overgenomen de begripsbepalingen van de artikelen 1 en 2 van het Instellingsbesluit Productschap Tuinbouw.   
+2.  In deze verordening worden overgenomen de begripsbepalingen van de artikelen 1:1 en artikel 3:1 en de werkwijze zoals beschreven in hoofdstuk 3 van de Verordening PT algemene bepalingen 2003.   
 3.  In deze verordening wordt verstaan   
 
 | --- | --- | --- |

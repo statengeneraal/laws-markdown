@@ -32,10 +32,12 @@ j. de verklaringen bedoeld in de artikelen 191, eerste lid, en 193, eerste lid,
 
 k. de indiening van verzoeken strekkende tot het verkrijgen van een machtiging van de kantonrechter onderscheidenlijk het doen van mededelingen of afleggen van verklaringen aan de kantonrechter ingevolge de artikelen 17 lid 3, 26 en 193 lid 1 van Boek 4 van het Burgerlijk Wetboek;  
 
-l. de indiening van verzoekschriften als bedoeld in de artikelen 28 en 30 van de Maatregel teboekgestelde schepen 1992.     
+l. de indiening van verzoekschriften als bedoeld in de artikelen 28 en 30 van de Maatregel teboekgestelde schepen 1992;  
+
+m. de indiening van een verzoek tot wijziging van een in een andere lidstaat gelaste beschermingsmaatregel, zoals bedoeld in artikel 5 van de Uitvoeringswet verordening wederzijdse erkenning van beschermingsmaatregelen in burgerlijke zaken.    
 2.  Eveneens wordt geen griffierecht geheven: 
 
-a. van gemeenten in zaken als bedoeld in de paragrafen 4 en 5 van hoofdstuk 6 van de Wet werk en bijstand en hoofdstuk 7 van de Wet investeren in jongeren, zoals deze luidde op de dag voor inwerkingtreding van artikel II van de Wet van 22 december 2011 tot wijziging van de Wet werk en bijstand en samenvoeging van die wet met de Wet investeren in jongeren gericht op bevordering van deelname aan de arbeidsmarkt en vergroting van de eigen verantwoordelijkheid van uitkeringsgerechtigden (Stb. 650);  
+a. van gemeenten in zaken als bedoeld in de paragrafen 4 en 5 van hoofdstuk 6 van de Participatiewet en hoofdstuk 7 van de Wet investeren in jongeren, zoals deze luidde op de dag voor inwerkingtreding van artikel II van de Wet van 22 december 2011 tot wijziging van de Wet werk en bijstand en samenvoeging van die wet met de Wet investeren in jongeren gericht op bevordering van deelname aan de arbeidsmarkt en vergroting van de eigen verantwoordelijkheid van uitkeringsgerechtigden (Stb. 650);  
 
 b. ingeval van ambtshalve verrichte verzegeling en ontzegeling als bedoeld in de artikelen 661 en 666 van het Wetboek van Burgerlijke Rechtsvordering;  
 

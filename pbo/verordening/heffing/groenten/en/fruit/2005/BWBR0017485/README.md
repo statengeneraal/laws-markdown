@@ -3,7 +3,7 @@
 ##Verordening van het Hoofdbedrijfschap voor de Agrarische Groothandel van 10 november 2004, houdende regels ter zake van de aan de groothandelaar, de commissionair, de tussenpersoon en de handelskweker in groenten en fruit op te leggen heffing voor het jaar 2005 (Verordening heffing groenten en fruit 2005)
 
 Het bestuur van het Hoofdbedrijfschap voor de Agrarische Groothandel,   
-gelet op [artikel 126 ](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md)en [artikel 100 lid 3 van de Wet op de Bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op [artikel 13 van het instellingsbesluit Hoofdbedrijfschap voor de Agrarische Groothandel](../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md) (Staatsblad 2002 nr. 155), heeft na advies van de Commissie groenten en fruit de volgende verordening vastgesteld:
+gelet op artikel 126 en artikel 100 lid 3 van de Wet op de Bedrijfsorganisatie en op artikel 13 van het instellingsbesluit Hoofdbedrijfschap voor de Agrarische Groothandel (Staatsblad 2002 nr. 155), heeft na advies van de Commissie groenten en fruit de volgende verordening vastgesteld:
 Besluit:     
 ### §  1  
 
@@ -14,11 +14,11 @@ Materieel uitgewerkt per 29-07-2006
 ### Artikel  1  
 Materieel uitgewerkt per 29-07-2006 
 
-In deze verordening wordt overgenomen de terminologie van het [Instellingsbesluit Hoofdbedrijfschap voor de Agrarische Groothandel](../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md) en wordt voorts verstaan onder: 
+In deze verordening wordt overgenomen de terminologie van het Instellingsbesluit Hoofdbedrijfschap voor de Agrarische Groothandel en wordt voorts verstaan onder: 
 
 1. voorzitter: de voorzitter van het Hoofdbedrijfschap voor de Agrarische Groothandel;  
 
-2. HBAG Commissie groenten en fruit: de op grond van [artikel 5 van het Instellingsbesluit Hoofdbedrijfschap voor de Agrarische Groothandel ](../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md)ingestelde commissie groenten en fruit.   
+2. HBAG Commissie groenten en fruit: de op grond van artikel 5 van het Instellingsbesluit Hoofdbedrijfschap voor de Agrarische Groothandel ingestelde commissie groenten en fruit.   
 
 ### Artikel  2  
 Materieel uitgewerkt per 29-07-2006 
@@ -99,13 +99,13 @@ Materieel uitgewerkt per 29-07-2006
 ### Artikel  5  
 Materieel uitgewerkt per 29-07-2006 
 
-1.  Onder omzet in artikel 3 lid 2 wordt verstaan de omzet als bedoeld in [artikel 3, lid 4 van de HBAG-Registratie-, enquête- en controleverordening 2003](../../../../../../../../pbo/hbag-registratie-/enquête-/en/controleverordening/2003/BWBR0014580/README.md) gemiddeld, hetzij over de kalenderjaren 2002 en 2003, hetzij over de boekjaren afgesloten in kalenderjaren 2002 en 2003.   
+1.  Onder omzet in artikel 3 lid 2 wordt verstaan de omzet als bedoeld in artikel 3, lid 4 van de HBAG-Registratie-, enquête- en controleverordening 2003 gemiddeld, hetzij over de kalenderjaren 2002 en 2003, hetzij over de boekjaren afgesloten in kalenderjaren 2002 en 2003.   
 2.  Het eerste lid is niet van toepassing voor de ondernemer die in 2002 of 2003 niet onder de werkingssfeer van het hoofdbedrijfschap viel. In dat geval wordt de omzet van het jaar dat de onderneming onder de werkingssfeer van het hoofdbedrijfschap is komen te vallen voor de berekening als uitgangspunt genomen.  
 
 ### Artikel  6  
 Materieel uitgewerkt per 29-07-2006 
 
-1.  Indien een opgave als bedoeld in [artikel 3 lid 4 en artikel 6 van de HBAG-Registratie-, enquête- en controleverordening 2003](../../../../../../../../pbo/hbag-registratie-/enquête-/en/controleverordening/2003/BWBR0014580/README.md) niet tijdig is gedaan, stelt de voorzitter op basis van een schatting de omzet vast.   
+1.  Indien een opgave als bedoeld in artikel 3 lid 4 en artikel 6 van de HBAG-Registratie-, enquête- en controleverordening 2003 niet tijdig is gedaan, stelt de voorzitter op basis van een schatting de omzet vast.   
 2.  De voorzitter geeft de ondernemer kennis van het bedrag van de geschatte omzet en de daarop gebaseerde heffing.   
 3.  De voorzitter stelt de ondernemer gedurende een termijn van 2 weken na verzending van de kennisgeving zoals bedoeld in het tweede lid, in de gelegenheid alsnog de vereiste opgave te doen.   
 4.  Indien de ondernemer de in het derde lid bedoelde opgave binnen de termijn doet en de opgegeven omzet geeft aanleiding de heffing te corrigeren, trekt de voorzitter de aanvankelijk opgelegde heffing in en neemt een nieuw besluit omtrent de heffing.   
@@ -149,7 +149,7 @@ Materieel uitgewerkt per 29-07-2006
 
 a. krachtens haar statutaire doelstelling haar werkzaamheid kan uitstrekken tot ten minste een belangrijk gedeelte van het terrein waarop het bedrijfslichaam een taak heeft te vervullen;  
 
-b. voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de [artikelen 3 tot en met 7 van de Verordening representativiteit organisaties](../../../../../../../../pbo/verordening/representativiteit/organisaties/BWBR0011641/README.md);  
+b. voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de artikelen 3 tot en met 7 van de Verordening representativiteit organisaties;  
 
 c. tot de werkingssfeer van het bedrijfslichaam behorende leden heeft, waarvan het gewogen aantal niet-onbetekenend is;  
 

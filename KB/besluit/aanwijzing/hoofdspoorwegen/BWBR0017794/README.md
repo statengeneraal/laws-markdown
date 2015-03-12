@@ -6,17 +6,17 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Verkeer en Waterstaat van 14 december 2004, nr. HDJZ/S&W/2004-3064, Hoofddirectie Juridische Zaken;
 
-Gelet op de [artikelen 2, eerste lid](../../../../../wet/spoorwegwet/BWBR0015007/README.md), en [124 van de Spoorwegwet](../../../../../wet/spoorwegwet/BWBR0015007/README.md) en de [artikelen 1, eerste lid](../../../../../wet/locaalspoor-/en/tramwegwet/BWBR0001866/README.md), en [2, eerste lid, van de wet van 9 juli 1900, houdende nadere regeling van den dienst en het gebruik van spoorwegen, waarop uitsluitend met beperkte snelheid wordt vervoerd](../../../../../wet/locaalspoor-/en/tramwegwet/BWBR0001866/README.md) (Stb. 118);
+Gelet op de artikelen 2, eerste lid, en 124 van de Spoorwegwet en de artikelen 1, eerste lid, en 2, eerste lid, van de wet van 9 juli 1900, houdende nadere regeling van den dienst en het gebruik van spoorwegen, waarop uitsluitend met beperkte snelheid wordt vervoerd (Stb. 118);
 Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
 1. Als hoofdspoorweg worden aangewezen de spoorwegen, genoemd in de bij dit besluit behorende bijlage 1.  
-2.  Als hoofdspoorwegen worden tevens aangewezen de in onderdeel a van bijlage 2 bij dit besluit genoemde spoorwegen en de berijdbare delen van de spoorwegen gelegen op de in onderdeel b van die bijlage genoemde locaties. Deze spoorwegen vallen onder het toepassingsbereik van [artikel 20, vierde lid, van de Spoorwegwet](../../../../../wet/spoorwegwet/BWBR0015007/README.md). 
+2.  Als hoofdspoorwegen worden tevens aangewezen de in onderdeel a van bijlage 2 bij dit besluit genoemde spoorwegen en de berijdbare delen van de spoorwegen gelegen op de in onderdeel b van die bijlage genoemde locaties. Deze spoorwegen vallen onder het toepassingsbereik van artikel 20, vierde lid, van de Spoorwegwet. 
 
 ###Artikel 2 
 
-De volgende beschikkingen tot aanwijzing als locaalspoorweg als bedoeld in [artikel 1, eerste lid, van de wet van 9 juli 1900, houdende nadere regeling van den dienst en het gebruik van spoorwegen, waarop uitsluitend met beperkte snelheid wordt vervoerd](../../../../../wet/locaalspoor-/en/tramwegwet/BWBR0001866/README.md) (Stb. 118), worden ingetrokken:
+De volgende beschikkingen tot aanwijzing als locaalspoorweg als bedoeld in artikel 1, eerste lid, van de wet van 9 juli 1900, houdende nadere regeling van den dienst en het gebruik van spoorwegen, waarop uitsluitend met beperkte snelheid wordt vervoerd (Stb. 118), worden ingetrokken:
 
 a.beschikking van 24 november 1958, nr. V-1/0116890;
 
@@ -32,7 +32,7 @@ De Concessie uitoefening dienst havenspoorweg Rotterdam Linker Maasoever 1979 wo
 
 ### Artikel  4  
 
-Dit besluit treedt in werking met ingang van 31 december 2004, met uitzondering van de artikelen 2 en 3, die in werking treden met ingang van het tijdstip waarop de [artikelen 16 tot en met 25 van de Spoorwegwet](../../../../../wet/spoorwegwet/BWBR0015007/README.md) in werking treden. 
+Dit besluit treedt in werking met ingang van 31 december 2004, met uitzondering van de artikelen 2 en 3, die in werking treden met ingang van het tijdstip waarop de artikelen 16 tot en met 25 van de Spoorwegwet in werking treden. 
 
 ###Artikel 5 
 
@@ -228,24 +228,22 @@ b. De spoorwegen gelegen op de volgende locaties zijn hoofdspoorwegen:
 
 20. Roosendaal Industrieterrein;  
 
-21. Roosendaal Borchwerf;  
+21. Alphen aan de Rijn, Industrieterrein Rijnhaven;  
 
-22. Alphen aan de Rijn, Industrieterrein Rijnhaven;  
+22. Tilburg, De Loven;  
 
-23. Tilburg, De Loven;  
+23. Hengelo Zuid;  
 
-24. Hengelo Zuid;  
+24. Born, Franciscushaven;  
 
-25. Born, Franciscushaven;  
+25. Axel, Axelse Vlakte;  
 
-26. Axel, Axelse Vlakte;  
+26. Venlo Tradeport;  
 
-27. Venlo Tradeport;  
+27. Almelo Dollegoor;  
 
-28. Almelo Dollegoor;  
+28. Almelo Bedrijvenpark Twente;  
 
-29. Almelo Bedrijvenpark Twente;  
+29. Arnhem, gemeentelijke stamlijn;  
 
-30. Arnhem, gemeentelijke stamlijn;  
-
-31. Oss-Elzenburg.    
+30. Oss-Elzenburg.    

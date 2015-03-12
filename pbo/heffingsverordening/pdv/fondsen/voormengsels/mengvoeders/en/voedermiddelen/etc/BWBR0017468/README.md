@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Diervoeder van 10 november 2004 houdende vaststelling bestemmingsheffing ten behoeve van de Fondsen voormengsels, mengvoeders en voedermiddelen voor het jaar 2005 (heffingsverordening PDV fondsen voormengsels, mengvoeders en voedermiddelen jaar 2005)
 
 Het bestuur van het Productschap Diervoeder;
-Gelet op de [artikelen 95](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [100](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 eerste en vierde lid van de Wet op de bedrijfsorganisatie](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op de [artikelen 12](../../../../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md) en [19 van het Instellingsbesluit akkerbouwproductschappen](../../../../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md);
+Gelet op de artikelen 95, 100 en 126 eerste en vierde lid van de Wet op de bedrijfsorganisatie en op de artikelen 12 en 19 van het Instellingsbesluit akkerbouwproductschappen;
 Besluit:
 ###§ 1 
 
@@ -58,19 +58,19 @@ voor vochtige voeders (moist): € 0,00 per 1000 kg vermenigvuldigd met de omrek
 ### Artikel  4  
 Materieel uitgewerkt per 22-01-2006 
 
-1.  De heffing op gedroogde bietenpulp en kunstmatig gedroogde groenvoeders, bedoeld in artikel 2, eerste lid, is bestemd voor het Fonds veevoedkundig onderzoek, bedoeld in de [Verordening PDV fonds veevoedkundig onderzoek 2003](../../../../../../../../../../pbo/verordening/pdv/fonds/veevoedkundig/onderzoek/2003/BWBR0014703/README.md): € 0,00.   
-2.  De heffing op vochtrijke voedermiddelen, bedoeld in artikel 2, tweede lid, is bestemd voor het Fonds veevoedkundig onderzoek, bedoeld in de [Verordening PDV fonds veevoedkundig onderzoek 2003](../../../../../../../../../../pbo/verordening/pdv/fonds/veevoedkundig/onderzoek/2003/BWBR0014703/README.md): € 0,00.   
+1.  De heffing op gedroogde bietenpulp en kunstmatig gedroogde groenvoeders, bedoeld in artikel 2, eerste lid, is bestemd voor het Fonds veevoedkundig onderzoek, bedoeld in de Verordening PDV fonds veevoedkundig onderzoek 2003: € 0,00.   
+2.  De heffing op vochtrijke voedermiddelen, bedoeld in artikel 2, tweede lid, is bestemd voor het Fonds veevoedkundig onderzoek, bedoeld in de Verordening PDV fonds veevoedkundig onderzoek 2003: € 0,00.   
 3.  De heffing op concentraten, voormengsels of mengvoeder voor landbouwhuisdieren, bedoeld in artikel 3, eerste lid, is bestemd voor: 
 
-a. Fonds sociale aangelegenheden bedoeld in de [Verordening PDV fonds sociale aangelegenheden 2003](../../../../../../../../../../pbo/verordening/pdv/fonds/sociale/aangelegenheden/2003/BWBR0014702/README.md): € 0,00  
+a. Fonds sociale aangelegenheden bedoeld in de Verordening PDV fonds sociale aangelegenheden 2003: € 0,00  
 
-b. Fonds veevoedkundig onderzoek bedoeld in de [Verordening PDV fonds veevoedkundig onderzoek 2003](../../../../../../../../../../pbo/verordening/pdv/fonds/veevoedkundig/onderzoek/2003/BWBR0014703/README.md): € 0,00.     
-4.  De heffing op huisdiervoeders, bedoeld in artikel 3, tweede lid, is bestemd voor het Fonds sociale aangelegenheden, bedoeld in de [Verordening PDV fonds sociale aangelegenheden 2003](../../../../../../../../../../pbo/verordening/pdv/fonds/sociale/aangelegenheden/2003/BWBR0014702/README.md).  
+b. Fonds veevoedkundig onderzoek bedoeld in de Verordening PDV fonds veevoedkundig onderzoek 2003: € 0,00.     
+4.  De heffing op huisdiervoeders, bedoeld in artikel 3, tweede lid, is bestemd voor het Fonds sociale aangelegenheden, bedoeld in de Verordening PDV fonds sociale aangelegenheden 2003.  
 
 ###Artikel 5 
 Materieel uitgewerkt per 22-01-2006 
 
-1. De ondernemer is verplicht binnen 2 maanden na afloop van ieder kwartaal door middel van een hiertoe dienend opgavenformulier aan het productschap de voor de vaststelling van de heffing bedoeld in de artikelen 2 en 3 benodigde gegevens te verstrekken. De [Verordening PDV algemene bepalingen 2003](../../../../../../../../../../pbo/verordening/pdv/algemene/bepalingen/2003/BWBR0014694/README.md) is hierbij van toepassing.
+1. De ondernemer is verplicht binnen 2 maanden na afloop van ieder kwartaal door middel van een hiertoe dienend opgavenformulier aan het productschap de voor de vaststelling van de heffing bedoeld in de artikelen 2 en 3 benodigde gegevens te verstrekken. De Verordening PDV algemene bepalingen 2003 is hierbij van toepassing.
 2. De ondernemer bedoeld in de artikelen 2 en 3 is eveneens verplicht het opgavenformulier in te dienen, indien hij in het betrokken kwartaal geen mengvoeders, huisdiervoeders of voedermiddelen heeft geproduceerd dan wel verhandeld.
 3. De ondernemer die gedurende een kalenderjaar geen mengvoeders, huisdiervoeders of voedermiddelen heeft geproduceerd dan wel heeft verhandeld, dient jaarlijks in januari van het daaropvolgende jaar een daaromtrent informatieve verklaring in te dienen bij het productschap. Deze verklaring wordt tevens gebruikt als aanname voor het lopende jaar, zodat de opgaven ingevolge het tweede lid niet behoeven te worden gedaan.
 4. Ingeval de secretaris zulks verlangt, is de ondernemer verplicht een door een accountant afgegeven verklaring te overleggen.
@@ -115,7 +115,7 @@ Het productschap kan besluiten nota's van minder dan € 50,- samen te voegen to
 ###Artikel 10 
 Materieel uitgewerkt per 22-01-2006 
 
-Aan de ondernemer die niet of niet geheel binnen de in artikel 8 gestelde termijn heeft betaald, kunnen de voor het productschap daaruit voortvloeiende extra kosten in rekening worden gebracht, alsmede de wettelijke interest over het niet betaalde bedrag, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md).
+Aan de ondernemer die niet of niet geheel binnen de in artikel 8 gestelde termijn heeft betaald, kunnen de voor het productschap daaruit voortvloeiende extra kosten in rekening worden gebracht, alsmede de wettelijke interest over het niet betaalde bedrag, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie.
 
 ###§ 5 
 
@@ -126,7 +126,7 @@ Materieel uitgewerkt per 22-01-2006
 ###Artikel 11 
 Materieel uitgewerkt per 22-01-2006 
 
-Deze verordening treedt in werking met ingang van 1 januari 2005. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 januari 2005, treedt zij in werking met ingang van de tweede dag na de dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt terug tot en met 1 januari 2005, met uitzondering van de toepassing van de [Verordening PDV algemene bepalingen 2003](../../../../../../../../../../pbo/verordening/pdv/algemene/bepalingen/2003/BWBR0014694/README.md).
+Deze verordening treedt in werking met ingang van 1 januari 2005. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 januari 2005, treedt zij in werking met ingang van de tweede dag na de dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt terug tot en met 1 januari 2005, met uitzondering van de toepassing van de Verordening PDV algemene bepalingen 2003.
 
 ###Artikel 12 
 Materieel uitgewerkt per 22-01-2006 

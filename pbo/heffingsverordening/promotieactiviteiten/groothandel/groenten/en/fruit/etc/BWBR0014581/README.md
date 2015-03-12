@@ -3,7 +3,7 @@
 ##Heffingsverordening Promotieactiviteiten Groothandel Groenten en Fruit 2003
 
 Het bestuur van het Hoofdbedrijfschap Agrarische Groothandel,
-gelet op [artikel 126](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [artikel 100 lid 3 van de Wet op de Bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op [artikel 13 van het Instellingsbesluit Hoofdbedrijfschap Agrarische Groothandel](../../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md) (Staatsblad 2002 nr.155),
+gelet op artikel 126 en artikel 100 lid 3 van de Wet op de Bedrijfsorganisatie en op artikel 13 van het Instellingsbesluit Hoofdbedrijfschap Agrarische Groothandel (Staatsblad 2002 nr.155),
 heeft na advies van de Commissie Groenten en Fruit de volgende verordening vastgesteld:
 
 ###Artikel 1 
@@ -15,7 +15,7 @@ In deze verordening wordt verstaan onder:
 |:---|:---|:---|
 |1. |HBAG Commissie Groenten en Fruit: |Het Hoofdbedrijfschap Agrarische Groothandel Commissie Groenten en Fruit. |
 |2. |Ondernemer: |Een natuurlijk persoon, rechtspersoon of geen rechtspersoonlijkheid bezittende vennootschap, die een onderneming drijft waarin wordt uitgeoefend het bedrijf van groothandelaar in groenten en fruit. |
-|3. |Groothandelaar: |De natuurlijke persoon, rechtspersoon of geen rechtspersoonlijkheid bezittende vennootschap, die de groothandel in groenten en fruit uitoefent, als bedoeld in het [Instellingsbesluit Agrarische Groothandel artikel 2 lid a.](../../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md) en die als zodanig op grond van de HBAG-Registratie-, enquête- en controleverordening 2003 dient te zijn geregistreerd. |
+|3. |Groothandelaar: |De natuurlijke persoon, rechtspersoon of geen rechtspersoonlijkheid bezittende vennootschap, die de groothandel in groenten en fruit uitoefent, als bedoeld in het Instellingsbesluit Agrarische Groothandel artikel 2 lid a. en die als zodanig op grond van de HBAG-Registratie-, enquête- en controleverordening 2003 dient te zijn geregistreerd. |
 |4. |Omzet: |Het bedrag van de bruto verkoopsom gemiddeld, hetzij over de kalenderjaren 2000 en 2001, hetzij over de boekjaren afgesloten in deze kalenderjaren, uitsluitend voor wat betreft de in Nederland geteelde groenten en fruit ongeacht de bestemming van deze producten. Indien de registratieplicht pas dan of nadien is ontstaan c.q. ontstaat, de bruto verkoopsom van het jaar waarin de registratieplicht is ontstaan. |
 |5. |Promotieactiviteiten: |De door het HBAG Commissie Groenten en Fruit in het jaar 2003 te verrichten werkzaamheden verband houdende met de voorlichting over de Nederlandse groothandelaar o.a. ten behoeve van de afnemers in binnen- en buitenland. |
 
@@ -44,8 +44,8 @@ Materieel uitgewerkt per 10-06-2005
 ###Artikel 3 
 Materieel uitgewerkt per 10-06-2005 
 
-1. Voor de omzetgegevens van de in artikel 2 bedoelde ondernemer zal gebruik worden gemaakt van de door de ondernemer op grond van het bepaalde in [artikel 3 lid 4 van de HBAG-Registratie-, enquête- en controleverordening 2003](../../../../../../../../../pbo/hbag-registratie-/enquête-/en/controleverordening/2003/BWBR0014580/README.md) aan het HBAG Commissie Groenten en Fruit verstrekte gegevens.
-2. Bij het niet voldoen aan de verplichting voortvloeiende uit het bepaalde in [artikel 3 van de HBAG-Registratie-, enquête- en controleverordening 2003](../../../../../../../../../pbo/hbag-registratie-/enquête-/en/controleverordening/2003/BWBR0014580/README.md), zijn de artikelen 5, 6 en 7 van de Heffingsverordening 2003 van het Bedrijfschap van overeenkomstige toepassing voor deze verordening.
+1. Voor de omzetgegevens van de in artikel 2 bedoelde ondernemer zal gebruik worden gemaakt van de door de ondernemer op grond van het bepaalde in artikel 3 lid 4 van de HBAG-Registratie-, enquête- en controleverordening 2003 aan het HBAG Commissie Groenten en Fruit verstrekte gegevens.
+2. Bij het niet voldoen aan de verplichting voortvloeiende uit het bepaalde in artikel 3 van de HBAG-Registratie-, enquête- en controleverordening 2003, zijn de artikelen 5, 6 en 7 van de Heffingsverordening 2003 van het Bedrijfschap van overeenkomstige toepassing voor deze verordening.
 
 ###Artikel 4 
 Materieel uitgewerkt per 10-06-2005 

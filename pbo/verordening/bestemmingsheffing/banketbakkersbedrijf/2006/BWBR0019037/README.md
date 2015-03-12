@@ -3,7 +3,7 @@
 ##Verordening van het Hoofdbedrijfschap Ambachten van 9 november 2005, houdende regels ter zake van de aan de ondernemers die het banketbakkersbedrijf uitoefenen op te leggen bestemmingsheffing voor het jaar 2006 (Verordening bestemmingsheffing banketbakkersbedrijf 2006)
 
 Het Bestuur van het Hoofdbedrijfschap Ambachten;  
-Gelet op [artikel 95, tweede lid](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+Gelet op artikel 95, tweede lid en 126 van de Wet op de bedrijfsorganisatie;
 
 Gezien het advies van de Commissie detailhandel in brood en banket;
 Besluit:     
@@ -57,7 +57,7 @@ b. de Nederlandse Vereniging voor de Bakkerij;   en over het jaar 2005 de volled
 
 a. krachtens haar statutaire doelstelling haar werkzaamheid kan uitstrekken tot ten minste een belangrijk gedeelte van het terrein waarop het bedrijfslichaam een taak heeft te vervullen,  
 
-b. voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de [artikelen 3 tot en met 7 van de Verordening representativiteit organisaties](../../../../../../pbo/verordening/representativiteit/organisaties/BWBR0011641/README.md),  
+b. voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de artikelen 3 tot en met 7 van de Verordening representativiteit organisaties,  
 
 c. tot de werkingssfeer van het bedrijfslichaam behorende leden heeft, waarvan het gewogen aantal niet-onbetekenend is,  
 
@@ -76,7 +76,7 @@ Materieel uitgewerkt per 25-11-2006
 ### Artikel  5  
 Materieel uitgewerkt per 25-11-2006 
 
-De [artikelen 5 tot en met 14 van de Heffingsverordening Hoofdbedrijfschap Ambachten 2006](../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/ambachten/2006/BWBR0019036/README.md) zijn van overeenkomstige toepassing. 
+De artikelen 5 tot en met 14 van de Heffingsverordening Hoofdbedrijfschap Ambachten 2006 zijn van overeenkomstige toepassing. 
 
 ### Artikel  6  
 Materieel uitgewerkt per 25-11-2006 
