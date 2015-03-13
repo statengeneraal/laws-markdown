@@ -3,7 +3,7 @@
 ##Verordening van het Hoofdbedrijfschap Agrarische Groothandel van 17 november 2005, houdende regels ter zake van de aan de onder het HBAG ressorterende ondernemers die de groothandel en/of het bedrijf van tussenpersoon in pootaardappelen, consumptie en/of voeraardappelen uitoefenen op te leggen heffing voor het jaar 2006 (Verordening HBAG financieringsheffing aardappelen 2006)
 
 Het bestuur van het Hoofdbedrijfschap Agrarische Groothandel;  
-Gelet op de [artikelen 95](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126, eerste en zesde lid van de Wet op de Bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en de [artikelen 3, eerste lid en tweede lid sub a](../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md), [5](../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md), [10](../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md), [11](../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md), en [13, eerste en derde lid van het Instellingsbesluit Hoofdbedrijfschap Agrarische Groothandel ](../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md)(Staatsblad 2002 nr. 155), in werking getreden met ingang van 1 januari 2003 (Staatsblad 2002 nr. 386);
+Gelet op de artikelen 95 en 126, eerste en zesde lid van de Wet op de Bedrijfsorganisatie en de artikelen 3, eerste lid en tweede lid sub a, 5, 10, 11, en 13, eerste en derde lid van het Instellingsbesluit Hoofdbedrijfschap Agrarische Groothandel (Staatsblad 2002 nr. 155), in werking getreden met ingang van 1 januari 2003 (Staatsblad 2002 nr. 386);
 
 Gehoord de commissie pootaardappelen en de commissie consumptie-, fabrieks- en voeraardappelen;
 Besluit;     
@@ -103,7 +103,7 @@ b)  hetzij al dan niet rechtstreeks lid is van een organisatie van ondernemers d
 
 1º krachtens haar statutaire doelstelling haar werkzaamheid kan uitstrekken tot tenminste een belangrijk gedeelte van het terrein waarop het hoofdbedrijfschap een taak heeft te vervullen,  
 
-2º voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de [artikelen 3 tot en met 7 van de Verordening representativiteit organisaties](../../../../../../../pbo/verordening/representativiteit/organisaties/BWBR0011641/README.md),  
+2º voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de artikelen 3 tot en met 7 van de Verordening representativiteit organisaties,  
 
 3º tot de werkingssfeer van het hoofdbedrijfschap behorende leden heeft, waarvan het gewogen aantal niet-onbetekenend is,  
 

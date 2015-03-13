@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Diervoeder van 9 november 2005 houdende vaststelling bestemmingsheffing ten behoeve van de kwaliteitscontrole vleeskalversector voor het jaar 2006 (heffingsverordening PDV kwaliteitscontrole vleeskalversector jaar 2006)
 
 Het bestuur van het Productschap Diervoeder;  
-Gelet op de [artikelen 95](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 eerste en vierde lid van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op de [artikelen 12](../../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md) en [19 van het Instellingsbesluit Akkerbouwproductschappen](../../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md);
+Gelet op de artikelen 95 en 126 eerste en vierde lid van de Wet op de bedrijfsorganisatie en op de artikelen 12 en 19 van het Instellingsbesluit Akkerbouwproductschappen;
 Besluit:     
 ### §  1  
 
@@ -27,11 +27,11 @@ In deze verordening wordt verstaan onder:
 ### Artikel  2  
 
 1.  De ondernemer is voor het jaar 2006 verplicht aan het productschap een heffing te betalen van € 4,538 per 1.000 kg zelf geproduceerde kunstmelkvoeders voor vleeskalveren, afgeleverd in Nederland.   
-2.  De heffing is bestemd voor het Fonds Kwaliteitsgarantie vleeskalversector, bedoeld in de [Verordening PDV fonds kwaliteitsgarantie vleeskalversector 2003](../../../../../../../../pbo/verordening/pdv/fonds/kwaliteitsgarantie/vleeskalversector/2003/BWBR0014708/README.md).  
+2.  De heffing is bestemd voor het Fonds Kwaliteitsgarantie vleeskalversector, bedoeld in de Verordening PDV fonds kwaliteitsgarantie vleeskalversector 2003.  
 
 ### Artikel  3  
 
-1.  De ondernemer die ingevolge artikel 2 heffingsplichtig is, is verplicht binnen twee maanden na afloop van ieder kwartaal door middel van een hiertoe dienend opgavenformulier aan het productschap de voor de vaststelling van de heffing benodigde gegevens te verstrekken. De [Verordening PDV algemene bepalingen 2003](../../../../../../../../pbo/verordening/pdv/algemene/bepalingen/2003/BWBR0014694/README.md) is van toepassing.   
+1.  De ondernemer die ingevolge artikel 2 heffingsplichtig is, is verplicht binnen twee maanden na afloop van ieder kwartaal door middel van een hiertoe dienend opgavenformulier aan het productschap de voor de vaststelling van de heffing benodigde gegevens te verstrekken. De Verordening PDV algemene bepalingen 2003 is van toepassing.   
 2.  De ondernemer is eveneens verplicht het opgavenformulier in te dienen, indien hij in het betreffende kwartaal geen kunstmelkvoeders voor vleeskalveren heeft geproduceerd.   
 3.  De ondernemer, die gedurende een kalenderjaar geen kunstmelkvoeders voor vleeskalveren heeft geproduceerd, moet jaarlijks een daaromtrent informatieve verklaring indienen bij het productschap. Deze verklaring wordt tevens gebruikt als aanname voor het lopende jaar, zodat de opgaven ingevolge het tweede lid niet behoeven te worden gedaan.   
 4.  Ingeval de secretaris zulks verlangt, is de ondernemer verplicht een door een accountant afgegeven verklaring te overleggen.   
@@ -71,7 +71,7 @@ Het productschap kan besluiten nota's van minder dan € 50,- samen te voegen to
 
 ### Artikel  8  
 
-Aan de ondernemer die niet of niet geheel binnen de in artikel 6 gestelde termijn heeft betaald, kunnen de voor het productschap daaruit voortvloeiende extra kosten in rekening worden gebracht, alsmede de wettelijke interest over het niet betaalde bedrag, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md). 
+Aan de ondernemer die niet of niet geheel binnen de in artikel 6 gestelde termijn heeft betaald, kunnen de voor het productschap daaruit voortvloeiende extra kosten in rekening worden gebracht, alsmede de wettelijke interest over het niet betaalde bedrag, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie. 
 
 ### §  5  
 
@@ -79,7 +79,7 @@ Aan de ondernemer die niet of niet geheel binnen de in artikel 6 gestelde termij
 
 ### Artikel  9  
 
-Deze verordening treedt in werking met ingang van 1 januari 2006. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 januari 2006, treedt zij in werking met ingang van de tweede dag na de dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt terug tot en met 1 januari 2006, met uitzondering van de toepassing van de [Verordening PDV algemene bepalingen 2003](../../../../../../../../pbo/verordening/pdv/algemene/bepalingen/2003/BWBR0014694/README.md). 
+Deze verordening treedt in werking met ingang van 1 januari 2006. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 januari 2006, treedt zij in werking met ingang van de tweede dag na de dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt terug tot en met 1 januari 2006, met uitzondering van de toepassing van de Verordening PDV algemene bepalingen 2003. 
 
 ### Artikel  10  
 

@@ -3,7 +3,7 @@
 ##Verordening van het Hoofdbedrijfschap Detailhandel van 26 oktober 2005, houdende vaststelling bestemmingsheffing Markt-, Straat- en Rivierhandel voor het jaar 2006 (Verordening bestemmingsheffing ambulante handel 2006)
 
 Het bestuur van het Hoofdbedrijfschap Detailhandel;  
-Gelet op de [artikelen 95, tweede lid](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de Bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+Gelet op de artikelen 95, tweede lid en 126 van de Wet op de Bedrijfsorganisatie;
 
 Gezien het advies van de Adviescommissie Markt-, Straat- en Rivierhandel;
 Besluit:     
@@ -16,7 +16,7 @@ Materieel uitgewerkt per 19-01-2007
 ### Artikel  1  
 Materieel uitgewerkt per 19-01-2007 
 
-In deze verordening zijn de begripsbepalingen van de [Heffingsverordening Hoofdbedrijfschap Detailhandel 2006](../../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/detailhandel/2006/BWBR0018942/README.md) van overeenkomstige toepassing. 
+In deze verordening zijn de begripsbepalingen van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2006 van overeenkomstige toepassing. 
 
 ### Artikel  2  
 Materieel uitgewerkt per 19-01-2007 
@@ -42,7 +42,7 @@ Materieel uitgewerkt per 19-01-2007
 
 a. krachtens haar statutaire doelstelling haar werkzaamheid kan uitstrekken tot ten minste een belangrijk gedeelte van het terrein waarop het bedrijfslichaam een taak heeft te vervullen,  
 
-b. voldoet aan de kwalitatieve representativiteitcriteria, genoemd in de [artikelen 3 tot en met 7 van de Verordening representativiteit organisaties](../../../../../../../pbo/verordening/representativiteit/organisaties/BWBR0011641/README.md),  
+b. voldoet aan de kwalitatieve representativiteitcriteria, genoemd in de artikelen 3 tot en met 7 van de Verordening representativiteit organisaties,  
 
 c. tot de werkingssfeer van het bedrijfslichaam behorende leden heeft, waarvan het gewogen aantal niet-onbetekenend is,  
 
@@ -60,8 +60,8 @@ Materieel uitgewerkt per 19-01-2007
 ### Artikel  5  
 Materieel uitgewerkt per 19-01-2007 
 
-1.  De [artikelen 6 tot en met 17 van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2006](../../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/detailhandel/2006/BWBR0018942/README.md) zijn van overeenkomstige toepassing.   
-2.  In afwijking van het bepaalde in het eerste lid is [artikel 6, eerste lid van de Heffingsverordening HBD 2006](../../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/detailhandel/2006/BWBR0018942/README.md), niet van overeenkomstige toepassing indien de ondernemer, die met de uitoefening van zijn bedrijf op of na 1 oktober 2006 is gestart, een bewijs van registratie wenst te ontvangen. De heffing bedraagt in dat geval 50% van de volgens deze verordening berekende heffing. Het gewenste bewijs van registratie wordt zo spoedig mogelijk na betaling van deze heffing ter beschikking gesteld.  
+1.  De artikelen 6 tot en met 17 van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2006 zijn van overeenkomstige toepassing.   
+2.  In afwijking van het bepaalde in het eerste lid is artikel 6, eerste lid van de Heffingsverordening HBD 2006, niet van overeenkomstige toepassing indien de ondernemer, die met de uitoefening van zijn bedrijf op of na 1 oktober 2006 is gestart, een bewijs van registratie wenst te ontvangen. De heffing bedraagt in dat geval 50% van de volgens deze verordening berekende heffing. Het gewenste bewijs van registratie wordt zo spoedig mogelijk na betaling van deze heffing ter beschikking gesteld.  
 
 ### Artikel  6  
 Materieel uitgewerkt per 19-01-2007 

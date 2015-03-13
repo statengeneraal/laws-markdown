@@ -3,7 +3,7 @@
 ##Verordening van het Hoofdbedrijfschap Detailhandel van 26 oktober 2005 houdende vaststelling bestemmingsheffing detailhandel in brood en banket voor het jaar 2006 (Verordening bestemmingsheffing detailhandel in brood en banket 2006)
 
 Het bestuur van het Hoofdbedrijfschap Detailhandel;  
-Gelet op de [artikelen 95, tweede lid](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de Bedrijfsorganisatie](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+Gelet op de artikelen 95, tweede lid en 126 van de Wet op de Bedrijfsorganisatie;
 
 Gezien het advies van de Commissie detailhandel in brood en banket;
 Besluit:     
@@ -20,14 +20,14 @@ Materieel uitgewerkt per 19-01-2007
 
 a. detailhandel in brood- en banketproducten: het aan particulieren verkopen van: 
 
-–brood, dit is de gebakken eetwaar als bedoeld in [artikel 1 sub d van het warenwetbesluit meel en brood](../../../../../../../../../../AMvB/warenwetbesluit/meel/en/brood/BWBR0009669/README.md);  
+–brood, dit is de gebakken eetwaar als bedoeld in artikel 1 sub d van het warenwetbesluit meel en brood;  
 
 –banket, dit is gebak met slagroom, banketbakkersroom of een dergelijke grondstof, dan wel met vers of gesteriliseerd fruit;  
 
 –overige bakkersartikelen, dit zijn andere geheel of gedeeltelijk uit meel of bloem bereide artikelen, die gewoonlijk in brood- en banketwinkels verkocht worden, dan wel die naar de aard van de verwerkte grondstoffen of de wijze van verwerking van die grondstoffen vergelijkbaar zijn met de hier bedoelde artikelen, zoals beschuit, koek, koekjes, ragoutwerk, kerstbrood of dergelijke (gelegenheids)producten;    
 
 b. franchiseformule: een commerciële samenwerkingsvorm tussen ondernemers, waarbij de ene partij, de franchisegever, aan de andere partij, de franchisenemer, tegen een vergoeding het recht verleent om een onderneming te exploiteren volgens een door de franchisegever ontwikkeld systeem en onder een door hem voorgeschreven handelsnaam.     
-2.  In deze verordening zijn de begripsbepalingen van de [Heffingsverordening Hoofdbedrijfschap Detailhandel 2006](../../../../../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/detailhandel/2006/BWBR0018942/README.md) van overeenkomstige toepassing.  
+2.  In deze verordening zijn de begripsbepalingen van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2006 van overeenkomstige toepassing.  
 
 ### Artikel  2  
 Materieel uitgewerkt per 19-01-2007 
@@ -65,7 +65,7 @@ b. de Nederlandse Vereniging voor de Bakkerij,   en over het jaar 2005 contribut
 
 a. krachtens haar statutaire doelstelling haar werkzaamheid kan uitstrekken tot ten minste een belangrijk gedeelte van het terrein waarop het bedrijfslichaam een taak heeft te vervullen,  
 
-b. voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de [artikelen 3 tot en met 7 van de Verordening representativiteit organisaties](../../../../../../../../../../pbo/verordening/representativiteit/organisaties/BWBR0011641/README.md),  
+b. voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de artikelen 3 tot en met 7 van de Verordening representativiteit organisaties,  
 
 c. tot de werkingssfeer van het bedrijfslichaam behorende leden heeft, waarvan het gewogen aantal niet-onbetekenend is,  
 
@@ -83,7 +83,7 @@ Materieel uitgewerkt per 19-01-2007
 ### Artikel  5  
 Materieel uitgewerkt per 19-01-2007 
 
-De [artikelen 6 tot en met 17 van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2006](../../../../../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/detailhandel/2006/BWBR0018942/README.md) zijn van overeenkomstige toepassing. 
+De artikelen 6 tot en met 17 van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2006 zijn van overeenkomstige toepassing. 
 
 ### Artikel  6  
 Materieel uitgewerkt per 19-01-2007 

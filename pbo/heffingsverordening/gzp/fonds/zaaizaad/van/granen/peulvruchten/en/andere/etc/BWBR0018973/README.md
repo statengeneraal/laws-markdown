@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Granen, Zaden en Peulvruchten van 3 november 2005, houdende vaststelling bestemmingsheffing ten behoeve van de sector zaaizaden van granen, peulvruchten en andere gewassen in Nederland voor het jaar 2006 (Heffingsverordening GZP fonds zaaizaad van granen, peulvruchten en andere gewassen jaar 2006)
 
 Het bestuur van het Productschap Granen, Zaden en Peulvruchten;  
-Gelet op de [artikelen 95](../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126, eerste en vierde lid, van de Wet op de bedrijfsorganisatie](../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en de [artikelen 8](../../../../../../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md) en [19 van het Instellingsbesluit](../../../../../../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md);
+Gelet op de artikelen 95 en 126, eerste en vierde lid, van de Wet op de bedrijfsorganisatie en de artikelen 8 en 19 van het Instellingsbesluit;
 Besluit:     
 ### §  1  
 
@@ -51,7 +51,7 @@ Voor de berekening van de basisheffing wordt gebruik gemaakt van het in het derd
 
 b. een heffing van € 5,58 per ha aangekocht zaaizaad van granen, peulvruchten en andere gewassen dat op contractbasis in Nederland is geteeld met uitzondering van zaaizaad van vezelvlas.     
 2.  De ondernemer die in het jaar 2006 zaaizaad van granen, peulvruchten en andere gewassen teelt, is verplicht aan het productschap af te dragen een heffing van € 2,59 per ha, met uitzondering van de teelt van zaaizaad van vezelvlas.   
-3.  De ondernemer bedoeld in het eerste lid, is verplicht jaarlijks vóór 31 oktober door middel van een door het productschap vastgesteld opgavenformulier aan het productschap naar waarheid gegevens te verstrekken ten behoeve van statistische doeleinden, alsmede voor de vaststelling van de heffing, bedoeld in het eerste en tweede lid. De [Verordening GZP algemene bepalingen 2003](../../../../../../../../../../../../pbo/verordening/gzp/algemene/bepalingen/2003/BWBR0014665/README.md) is hierbij van toepassing.   
+3.  De ondernemer bedoeld in het eerste lid, is verplicht jaarlijks vóór 31 oktober door middel van een door het productschap vastgesteld opgavenformulier aan het productschap naar waarheid gegevens te verstrekken ten behoeve van statistische doeleinden, alsmede voor de vaststelling van de heffing, bedoeld in het eerste en tweede lid. De Verordening GZP algemene bepalingen 2003 is hierbij van toepassing.   
 4.  De ondernemer, bedoeld in het eerste lid, legt, indien de secretaris daarom verzoekt, een door een accountant afgegeven verklaring over, waaruit blijkt de totale oppervlakte aangekochte zaaizaad van granen, peulvruchten en andere gewassen, die in Nederland op contractbasis is geteeld.   
 5.  De ondernemer, bedoeld in het eerste lid, is verplicht alle medewerking te verlenen aan de Interne Auditdienst van het Hoofdproductschap Akkerbouw ter controle van het opgavenformulier, indien de in het vierde lid bedoelde accountantsverklaring niet afkomstig is van een registeraccountant.   
 6.  De heffing bedoeld in het tweede lid wordt door het productschap geïnd door tussenkomst van de in het eerste lid bedoelde ondernemers en berekend op basis van de door hen afgesloten teeltcontracten.  
@@ -94,7 +94,7 @@ Het productschap kan besluiten nota's van minder dan € 50,- samen te voegen to
 ### Artikel  7  
 Materieel uitgewerkt per 29-04-2007 
 
-Aan de ondernemer die niet of niet geheel binnen de in artikel 5 gestelde termijn heeft betaald, kan door het productschap de wettelijke interest over het niet betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md). 
+Aan de ondernemer die niet of niet geheel binnen de in artikel 5 gestelde termijn heeft betaald, kan door het productschap de wettelijke interest over het niet betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie. 
 
 ### §  5  
 
@@ -105,7 +105,7 @@ Materieel uitgewerkt per 29-04-2007
 ### Artikel  8  
 Materieel uitgewerkt per 29-04-2007 
 
-Deze verordening treedt in werking met ingang van 1 januari 2006. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 januari 2006, treedt zij in werking met ingang van de tweede dag na de dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt terug tot en met 1 januari 2006, met uitzondering van de toepassing van de [Verordening GZP algemene bepalingen 2003](../../../../../../../../../../../../pbo/verordening/gzp/algemene/bepalingen/2003/BWBR0014665/README.md). 
+Deze verordening treedt in werking met ingang van 1 januari 2006. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 januari 2006, treedt zij in werking met ingang van de tweede dag na de dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt terug tot en met 1 januari 2006, met uitzondering van de toepassing van de Verordening GZP algemene bepalingen 2003. 
 
 ### Artikel  9  
 Materieel uitgewerkt per 29-04-2007 

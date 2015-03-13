@@ -9,7 +9,7 @@ De Staatssecretaris van Financiën heeft het volgende besloten.     *Dit besluit
 
 In dit besluit is de volgende goedkeuring ingeperkt om oneigenlijk gebruik tegen te gaan: 
 
-* Bestelauto met bovenbouwvermelding '(opleg)trekker' of 'voor verwisselbare opbouw'/’afneembare bovenbouw’ (2.2.4.2).   Daarnaast is de goedkeuring voor stoelen en/of bank in de laadruimte ten behoeve van werkzaamheden op locatie verplaatst. Hier is geen inhoudelijke wijziging mee beoogd.   
+* Bestelauto met bovenbouwvermelding '(opleg)trekker' of 'voor verwisselbare opbouw'/’afneembare bovenbouw’ (2.2.4.2).   Daarnaast is de goedkeuring voor stoelen en/of bank in de laadruimte ten behoeve van werkzaamheden op locatie verplaatst. Hier is geen inhoudelijke wijziging mee beoogd. Dit besluit werd gewijzigd bij besluit van 26 februari 2015, nr. 2015/151M. De wijziging betrof het opnemen van een overgangsregeling die is getroffen in verband met de inperking van de goedkeuring in onderdeel 2.2.4.2. Daarnaast werd de tekst van onderdeel 8.1 in overeenstemming gebracht met de tekst van onderdeel 11.5.1 van het kaderbesluit motorrijtuigenbelasting (BLKB2014/2068M).  
 ### 1.1  
 
 ####Gebruikte begrippen en afkortingen
@@ -245,7 +245,15 @@ Ik stel hieraan de volgende voorwaarden:
 De motorrijtuigen die als bovenbouwvermelding 'oplegtrekker’ (voor 1 januari 2013: ‘trekker') of 'afneembare bovenbouw’ (voor 1 januari 2013: ‘voor verwisselbare opbouw') op het kentekenbewijs krijgen, wijken af van de bestelauto’s met een bijzondere opbouw. Deze motorrijtuigen kunnen namelijk ook worden gebruikt zonder dat de oplegger, aanhanger of container aanwezig is. Op dat moment is het personenvervoer niet langer ondergeschikt aan het vervoer van lading. Sommige uitvoeringen onderscheiden zich daarnaast qua uiterlijk niet van motorrijtuigen die als personenauto worden aangemerkt. Dit is bijvoorbeeld het geval bij een pick-up met laadbak waar de koppelschotel in de laadbak is gemonteerd en de laadbak als zodanig aanwezig blijft. Het vervoeren van een last is echter de reden dat op het chassis een koppelschotel dan wel een containerframe is gemonteerd. 
 ### *Goedkeuring* 
 
-Ik keur met toepassing van artikel 63 van de AWR (de hardheidsclausule) goed, dat een motorrijtuig dat aan alle fiscale inrichtingseisen voor een bestelauto voldoet en op het kentekenbewijs de bovenbouwvermelding ’(opleg)trekker’ of 'voor verwisselbare opbouw’/’afneembare bovenbouw' heeft staan, nog steeds kwalificeert als bestelauto op het moment dat de ‘wisselbare opbouw’ / ‘afneembare bovenbouw’ tijdelijk niet aanwezig is.     
+Ik keur met toepassing van artikel 63 van de AWR (de hardheidsclausule) goed, dat een motorrijtuig dat aan alle fiscale inrichtingseisen voor een bestelauto voldoet en op het kentekenbewijs de bovenbouwvermelding ’(opleg)trekker’ of 'voor verwisselbare opbouw’/’afneembare bovenbouw' heeft staan, nog steeds kwalificeert als bestelauto op het moment dat de ‘wisselbare opbouw’ / ‘afneembare bovenbouw’ tijdelijk niet aanwezig is. 
+###*Overgangsregeling*
+
+De tekst van de goedkeuring in paragraaf 2.2.4.2 van het besluit van 4 maart 2014, BLKB2014/127M, blijft onder de volgende twee voorwaarden gelden voor motorrijtuigen waarvoor uiterlijk op 28 december 2014 een overeenkomst is gesloten tot ombouw van het motorrijtuig. 
+### *Voorwaarden* 
+
+– Het motorrijtuig moet uiterlijk 28 december 2015 te naam zijn gesteld.  
+
+– Bij het gebruik van het formulier BPM40 ‘Opgave bruto bpm-bedrag voor bestelauto’s’ dient een kopie van de overeenkomst tot ombouw van het motorrijtuig te worden overgelegd.      
 ### 2.2.5  
 
 ####Afmeting laadruimte pick-up
@@ -597,16 +605,16 @@ Er geldt onder bepaalde voorwaarden een teruggaafregeling voor een aantal catego
 
 ####Andere motorrijtuigen in gebruik bij ambulancediensten
 
-De ambulancebranche maakt naast ambulances steeds meer gebruik van andersoortige motorrijtuigen ter uitvoering van de taak tot het verlenen van spoedeisende medische hulpverlening. Het gaat dan om motorrijtuigen waarmee medisch personeel naar de plaats van het ongeluk kan rijden of van waaruit spoedeisende medische hulpverlening kan worden gecoördineerd. 
-### *Goedkeuring* 
+De ambulancebranche maakt naast ambulances steeds meer gebruik van andersoortige motorrijtuigen voor het verlenen van spoedeisende medische hulpverlening. Het gaat dan om personenauto's of motoren waarmee medisch personeel naar de plaats van het ongeluk kan rijden of motorrijtuigen van waaruit spoedeisende medische hulpverlening kan worden gecoördineerd. 
+### *Goedkeuring*
 
-Ik keur in dit verband met toepassing van artikel 63 van de AWR (de hardheidsclausule) goed dat de teruggaaf voor ambulances ook kan worden verleend voor andere motorrijtuigen dan personenauto’s. Deze motorrijtuigen moeten uitsluitend worden gebruikt voor het verlenen of coördineren van spoedeisende medische hulpverlening. Deze motorrijtuigen moeten daarbij aan de volgende cumulatieve eisen voldoen: 
+Ik keur in dit verband met toepassing van artikel 63 van de AWR (de hardheidsclausule) het volgende goed. Onder ambulances worden tevens begrepen andere motorrijtuigen, inclusief motorrijwielen, dan ambulances mits deze uitsluitend worden gebruikt voor het verlenen of coördineren van spoedeisende medische hulpverlening. Deze motorrijtuigen moeten daarbij aan de volgende drie cumulatieve eisen voldoen:
 
-– Het motorrijtuig wordt gebruikt door de regionale Ambulancevoorziening, bedoeld in artikel 4 van de Tijdelijke wet ambulance zorg;  
+1. Het motorrijtuig wordt gebruikt door de regionale Ambulancevoorziening, bedoeld in artikel 4 van de Tijdelijke wet ambulance zorg.  
 
-– Het motorrijtuig moet voorzien zijn van de binnen de branche voorgeschreven striping en het symbool als opgenomen in de bijlage bij de Regeling optische en geluidssignalen 2009;  
+2. Het motorrijtuig moet voorzien zijn van de binnen de branche voorgeschreven striping en het symbool als opgenomen in de bijlage bij de Regeling optische en geluidssignalen 2009.  
 
-– Het motorrijtuig moet voorzien zijn van optische en geluidssignalen en moet toestemming hebben tot het voeren van deze signalen op grond van de Regeling optische en geluidssignalen 2009.   Voor motorrijtuigen die niet uitsluitend worden ingezet voor bovengenoemde taken maar overigens wel voldoen aan de genoemde cumulatieve eisen, wordt geen teruggaaf van belasting verleend. Dit geldt ook voor multifunctioneel ingerichte motorrijtuigen die worden ingezet bij rampen en calamiteiten, zoals de zogenoemde geneeskundige (GNK)-voertuigen en commandovoertuigen, die dienen voor het vervoer van mensen en materieel en daarvoor speciaal zijn ingericht.    
+3. Het motorrijtuig moet voorzien zijn van optische en geluidssignalen en moet toestemming hebben tot het voeren van deze signalen op grond van de Regeling optische en geluidssignalen 2009.   Voor motorrijtuigen die niet uitsluitend worden ingezet voor bovengenoemde taken maar overigens wel voldoen aan de genoemde cumulatieve eisen, wordt geen teruggaaf van belasting verleend. Dit geldt ook voor multifunctioneel ingerichte motorrijtuigen die worden ingezet bij rampen en calamiteiten, zoals de zogenoemde geneeskundige (GNK)-voertuigen en commandovoertuigen, die dienen voor het vervoer van mensen en materieel en daarvoor speciaal zijn ingericht.    
 ### 8.2  
 
 ####Motorrijtuigen in gebruik bij reddingsbrigades

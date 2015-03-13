@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Granen, Zaden en Peulvruchten van 3 november 2005, houdende vaststelling bestemmingsheffing ten behoeve van de teelt van inlands graan in Nederland voor het jaar 2006 (Heffingsverordening GZP inlands graan jaar 2006)
 
 Het bestuur van het Productschap Granen, Zaden en Peulvruchten;  
-Gelet op de [artikelen 95](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 eerste en vierde lid van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en de [artikelen 8](../../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md) en [19 van het Instellingsbesluit akkerbouwproductschappen](../../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md);
+Gelet op de artikelen 95 en 126 eerste en vierde lid van de Wet op de bedrijfsorganisatie en de artikelen 8 en 19 van het Instellingsbesluit akkerbouwproductschappen;
 Besluit:     
 ### §  1  
 
@@ -34,7 +34,7 @@ Materieel uitgewerkt per 29-04-2007
 
 1.  De ondernemer is verplicht over de hoeveelheden inlands graan, met uitzondering van gerst, welke hij in het jaar 2006 verwerkt of in loon laat verwerken tot producten, welke al dan niet na verdere be- of verwerking voor menselijke consumptie kunnen dienen, met uitzondering van de hoeveelheden, welke hij in opdracht en voor rekening van telers verwerkt, aan het productschap een heffing te betalen van € 0,12 per ton verwerkte hoeveelheid graan.   
 2.  De ondernemer is verplicht over de hoeveelheden inlands gerst, welke hij in het jaar 2006 verwerkt of in loon laat verwerken tot producten, welke al dan niet na verdere be- of verwerking voor menselijke consumptie kunnen dienen, met uitzondering van de hoeveelheden, welke hij in opdracht en voor rekening van telers verwerkt, aan het productschap een heffing te betalen van € 0 per ton verwerkte hoeveelheid gerst.   
-3.  De in het eerste en tweede lid bedoelde heffing wordt vastgesteld op basis van de door de ondernemer op verzoek van het productschap verstrekte gegevens door middel van een door het productschap vastgesteld formulier. De [Verordening GZP algemene bepalingen 2003](../../../../../../../../pbo/verordening/gzp/algemene/bepalingen/2003/BWBR0014665/README.md) is hierbij van toepassing.   
+3.  De in het eerste en tweede lid bedoelde heffing wordt vastgesteld op basis van de door de ondernemer op verzoek van het productschap verstrekte gegevens door middel van een door het productschap vastgesteld formulier. De Verordening GZP algemene bepalingen 2003 is hierbij van toepassing.   
 4.  Ook wanneer in een bepaalde periode geen activiteiten hebben plaatsgevonden dient een opgave te worden gedaan.  
 
 ### Artikel  3  
@@ -81,7 +81,7 @@ Het productschap kan besluiten nota's van minder dan € 50,- samen te voegen to
 ### Artikel  8  
 Materieel uitgewerkt per 29-04-2007 
 
-Aan de ondernemer die niet of niet geheel binnen de in artikel 6 gestelde termijn heeft betaald, kan door het productschap de wettelijke interest over het niet betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md). 
+Aan de ondernemer die niet of niet geheel binnen de in artikel 6 gestelde termijn heeft betaald, kan door het productschap de wettelijke interest over het niet betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie. 
 
 ### §  5  
 
@@ -92,7 +92,7 @@ Materieel uitgewerkt per 29-04-2007
 ### Artikel  9  
 Materieel uitgewerkt per 29-04-2007 
 
-Deze verordening treedt in werking met ingang van 1 januari 2006. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 januari 2006, treedt zij in werking met ingang van de tweede dag na de dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt terug tot en met 1 januari 2006, met uitzondering van de toepassing van de [Verordening GZP algemene bepalingen 2003](../../../../../../../../pbo/verordening/gzp/algemene/bepalingen/2003/BWBR0014665/README.md). 
+Deze verordening treedt in werking met ingang van 1 januari 2006. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 januari 2006, treedt zij in werking met ingang van de tweede dag na de dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt terug tot en met 1 januari 2006, met uitzondering van de toepassing van de Verordening GZP algemene bepalingen 2003. 
 
 ### Artikel  10  
 Materieel uitgewerkt per 29-04-2007 

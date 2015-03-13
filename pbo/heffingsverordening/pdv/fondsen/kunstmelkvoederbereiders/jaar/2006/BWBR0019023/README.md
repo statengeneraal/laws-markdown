@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Diervoeder van 9 november 2005 houdende vaststelling bestemmingsheffing ten behoeve van de Fondsen kunstmelkvoederbereiders voor het jaar 2006 (Heffingsverordening PDV fondsen kunstmelkvoederbereiders jaar 2006)
 
 Het bestuur van het Productschap Diervoeder;  
-Gelet op de [artikelen 95](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 eerste en vierde lid van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op de [artikelen 12](../../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md) en [19 van het Instellingsbesluit](../../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md);
+Gelet op de artikelen 95 en 126 eerste en vierde lid van de Wet op de bedrijfsorganisatie en op de artikelen 12 en 19 van het Instellingsbesluit;
 Besluit:     
 ### §  1  
 
@@ -28,14 +28,14 @@ In deze verordening wordt verstaan onder:
 
 1.  De ondernemer is voor het jaar 2006 verplicht aan het productschap een heffing te betalen van € 0,31 per 1.000 kg geproduceerde kunstmelkvoeders voor vleeskalveren. Deze heffing is bestemd voor: 
 
-a. Fonds onderzoek en ontwikkeling vleeskalversector, bedoeld in [Verordening PDV fonds onderzoek en ontwikkeling vleeskalversector 2003](../../../../../../../../pbo/verordening/pdv/fonds/onderzoek/en/ontwikkeling/vleeskalversector/2003/BWBR0014707/README.md): € 0,30 per 1.000 kg.  
+a. Fonds onderzoek en ontwikkeling vleeskalversector, bedoeld in Verordening PDV fonds onderzoek en ontwikkeling vleeskalversector 2003: € 0,30 per 1.000 kg.  
 
-b. Fonds Sociale Aangelegenheden, bedoeld in de [Verordening PDV fonds sociale aangelegenheden 2003](../../../../../../../../pbo/verordening/pdv/fonds/sociale/aangelegenheden/2003/BWBR0014702/README.md): € 0,01 per 1.000 kg.     
-2.  De ondernemer is voor het jaar 2006 verplicht aan het productschap een heffing te betalen van € 0,01 per 1.000 kg geproduceerde kunstmelkvoeders voor overige kalveren. Deze heffing is bestemd voor: Fonds sociale aangelegenheden, bedoeld in de [Verordening PDV fonds sociale aangelegenheden 2003](../../../../../../../../pbo/verordening/pdv/fonds/sociale/aangelegenheden/2003/BWBR0014702/README.md): € 0,01 per 1.000 kg.  
+b. Fonds Sociale Aangelegenheden, bedoeld in de Verordening PDV fonds sociale aangelegenheden 2003: € 0,01 per 1.000 kg.     
+2.  De ondernemer is voor het jaar 2006 verplicht aan het productschap een heffing te betalen van € 0,01 per 1.000 kg geproduceerde kunstmelkvoeders voor overige kalveren. Deze heffing is bestemd voor: Fonds sociale aangelegenheden, bedoeld in de Verordening PDV fonds sociale aangelegenheden 2003: € 0,01 per 1.000 kg.  
 
 ### Artikel  3  
 
-1.  De ondernemer is verplicht binnen twee maanden na afloop van ieder kwartaal door middel van een hiertoe dienend opgavenformulier aan het productschap de voor de vaststelling van de heffing benodigde gegevens te verstrekken. De[ Verordening PDV algemene bepalingen 2003](../../../../../../../../pbo/verordening/pdv/algemene/bepalingen/2003/BWBR0014694/README.md) is hierbij van toepassing.   
+1.  De ondernemer is verplicht binnen twee maanden na afloop van ieder kwartaal door middel van een hiertoe dienend opgavenformulier aan het productschap de voor de vaststelling van de heffing benodigde gegevens te verstrekken. De Verordening PDV algemene bepalingen 2003 is hierbij van toepassing.   
 2.  De ondernemer is eveneens verplicht het opgavenformulier in te dienen, indien hij in het betrokken kwartaal geen kunstmelkvoeders heeft bereid.   
 3.  De ondernemer, die gedurende een kalenderjaar geen kunstmelkvoeders heeft bereid, moet jaarlijks een daaromtrent informatieve verklaring indienen bij het productschap. Deze verklaring wordt tevens gebruikt als aanname voor het lopende jaar, zodat de opgaven ingevolge het tweede lid niet behoeven te worden gedaan.   
 4.  Ingeval de secretaris zulks verlangt, is de ondernemer verplicht een door een accountant afgegeven verklaring te overleggen.   
@@ -75,7 +75,7 @@ Het productschap kan besluiten nota's van minder dan € 50,- samen te voegen to
 
 ### Artikel  8  
 
-Aan de ondernemer die niet of niet geheel binnen de in artikel 6 gestelde termijn heeft betaald, kunnen de voor het productschap daaruit voortvloeiende extra kosten in rekening worden gebracht, alsmede de wettelijke interest over het niet betaalde bedrag, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md). 
+Aan de ondernemer die niet of niet geheel binnen de in artikel 6 gestelde termijn heeft betaald, kunnen de voor het productschap daaruit voortvloeiende extra kosten in rekening worden gebracht, alsmede de wettelijke interest over het niet betaalde bedrag, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie. 
 
 ### §  5  
 
@@ -83,7 +83,7 @@ Aan de ondernemer die niet of niet geheel binnen de in artikel 6 gestelde termij
 
 ### Artikel  9  
 
-Deze verordening treedt in werking met ingang van 1 januari 2006. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 januari 2006, treedt zij in werking met ingang van de tweede dag na de dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt terug tot en met 1 januari 2006 met uitzondering van de toepassing van de [Verordening PDV algemene bepalingen 2003](../../../../../../../../pbo/verordening/pdv/algemene/bepalingen/2003/BWBR0014694/README.md). 
+Deze verordening treedt in werking met ingang van 1 januari 2006. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 januari 2006, treedt zij in werking met ingang van de tweede dag na de dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt terug tot en met 1 januari 2006 met uitzondering van de toepassing van de Verordening PDV algemene bepalingen 2003. 
 
 ### Artikel  10  
 

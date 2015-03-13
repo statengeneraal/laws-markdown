@@ -3,9 +3,9 @@
 ##Besluit van het bestuur van het Productschap Tuinbouw van 28 juni 2005, houdende de vaststelling van een heffing ten behoeve van de teelt van vollegrondsgroenten voor het jaar 2006 (Verordening PT bijzondere heffing vollegrondsgroenten 2006)
 
 Het bestuur van het Productschap Tuinbouw,  
-gelet op de [artikelen 95](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [100](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en
+gelet op de artikelen 95, 100 en 126 van de Wet op de bedrijfsorganisatie, en
 
-gelet op de [artikelen 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw](../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md);
+gelet op de artikelen 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw;
 
 gehoord de Commissie voor groenten en fruit, d.d. 7 juni 2005;
 Besluit:     
@@ -18,14 +18,14 @@ Materieel uitgewerkt per 14-01-2007
 ### Artikel  1  
 Materieel uitgewerkt per 14-01-2007 
 
-1.  In deze verordening worden overgenomen de begripsbepalingen van de [artikelen 1](../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md) en [2 van het Instellingsbesluit Productschap Tuinbouw](../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md).   
-2.  In deze verordening worden overgenomen de begripsbepalingen van [artikel 1:1](../../../../../../../../pbo/verordening/pt/algemene/bepalingen/2003/BWBR0016684/README.md) en [artikel 3:1](../../../../../../../../pbo/verordening/pt/algemene/bepalingen/2003/BWBR0016684/README.md), en de werkwijze zoals beschreven in [hoofdstuk 3 van de Verordening PT algemene bepalingen 2003](../../../../../../../../pbo/verordening/pt/algemene/bepalingen/2003/BWBR0016684/README.md).   
+1.  In deze verordening worden overgenomen de begripsbepalingen van de artikelen 1 en 2 van het Instellingsbesluit Productschap Tuinbouw.   
+2.  In deze verordening worden overgenomen de begripsbepalingen van artikel 1:1 en artikel 3:1, en de werkwijze zoals beschreven in hoofdstuk 3 van de Verordening PT algemene bepalingen 2003.   
 3.  In deze verordening en de daarop berustende bepalingen wordt verstaan onder:  
 
 | --- | --- | --- |
 |:---|:---|:---|
 | a.  | het braakland:  | de gronden die in enig oogstjaar tot en met april van het daarop volgend oogstjaar niet worden beteeld;  |
-| b.  | de cultuurgrond:  | beteelde grond, braakland, de oppervlakte van de grond die gemoeid is met het gebruik van elk ander groeimedium met behulp waarvan de in artikel 4  genoemde gewassen of producten kunnen worden geteeld, of ten tijde van het tijdvak als bedoeld in de [Regeling Landbouwtelling](../../../../../../../../ministeriele-regeling/regeling/landbouwtelling/en/gecombineerde/opgave/2006/BWBR0019662/README.md), nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet;  |
+| b.  | de cultuurgrond:  | beteelde grond, braakland, de oppervlakte van de grond die gemoeid is met het gebruik van elk ander groeimedium met behulp waarvan de in artikel 4  genoemde gewassen of producten kunnen worden geteeld, of ten tijde van het tijdvak als bedoeld in de Regeling Landbouwtelling, nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet;  |
 | c.  | de teelt onder glas:  | iedere andere teelt dan die in de open grond;  |
 | d.  | de gemeten maat:  | de oppervlakte beteelbare grond, inclusief paden en voren die voor de teelt noodzakelijk zijn;  |
 | e.  | de contractteelt:  | de teelt van gewassen of producten ingevolge een overeenkomst.  |

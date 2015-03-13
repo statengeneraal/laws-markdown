@@ -9,7 +9,7 @@ De Staatssecretaris van Financiën heeft het volgende besloten.    *Dit besluit 
 
 In dit besluit is de volgende goedkeuring ingeperkt om oneigenlijk gebruik tegen te gaan: 
 
-– Bestelauto met bovenbouwvermelding ‘(opleg)trekker’ of ‘voor verwisselbare opbouw’/’afneembare bovenbouw’ (2.2.4.2).   Daarnaast is de goedkeuring voor stoelen en/of bank in de laadruimte ten behoeve van werkzaamheden op locatie verplaatst. Hier is geen inhoudelijke wijziging mee beoogd.   
+– Bestelauto met bovenbouwvermelding ‘(opleg)trekker’ of ‘voor verwisselbare opbouw’/’afneembare bovenbouw’ (2.2.4.2).   Daarnaast is de goedkeuring voor stoelen en/of bank in de laadruimte ten behoeve van werkzaamheden op locatie verplaatst. Hier is geen inhoudelijke wijziging mee beoogd. Dit besluit werd gewijzigd bij besluit van 26 februari 2015, nr. 2015/151M. De wijziging betrof het opnemen van een toevoeging aan de overgangsregeling die is getroffen in verband met de inperking van de goedkeuring in onderdeel 2.2.4.2.  
 ### 1.1  
 
 ####Gebruikte begrippen en afkortingen
@@ -254,7 +254,7 @@ De motorrijtuigen die als bovenbouwvermelding 'oplegtrekker’ (voor 1 januari 
 Ik keur met toepassing van artikel 63 van de AWR (de hardheidsclausule) goed dat een motorrijtuig dat aan alle fiscale inrichtingseisen voor een bestelauto voldoet en op het kentekenbewijs de bovenbouwvermelding ’(opleg)trekker’ of 'voor verwisselbare opbouw’/’afneembare bovenbouw' heeft staan, nog steeds kwalificeert als bestelauto op het moment dat de ‘wisselbare opbouw’ / ‘afneembare bovenbouw’ tijdelijk niet aanwezig is. 
 ### *Overgangsregeling* 
 
-De tekst van de goedkeuring in paragraaf 2.2.4.2 van het besluit van 4 maart 2014, BLKB2014/128M, blijft gelden voor motorrijtuigen die de dag voorafgaand aan de publicatie van dit besluit aan de voorwaarden van die goedkeuring voldeden. Deze overgangsregeling geldt tot een jaar na publicatie van dit besluit zolang het voertuig niet van houder wisselt.     
+De tekst van de goedkeuring in paragraaf 2.2.4.2 van het besluit van 4 maart 2014, BLKB2014/128M, blijft gelden voor motorrijtuigen die de dag voorafgaand aan de publicatie van dit besluit aan de voorwaarden van die goedkeuring voldeden. Deze overgangsregeling geldt tot een jaar na publicatie van dit besluit zolang het voertuig niet van houder wisselt. De overgangsregeling is van overeenkomstige toepassing voor motorrijtuigen die in aanmerking komen voor de overgangsregeling bpm die is opgenomen in paragraaf 2.2.4.2 van het besluit van 17 december 2014, BLKB2014/2067M, laatstelijk gewijzigd bij besluit van 26 februari 2015, nr. BLKB2015/151M.    
 ### 2.2.5  
 
 ####Afmeting laadruimte pick-up

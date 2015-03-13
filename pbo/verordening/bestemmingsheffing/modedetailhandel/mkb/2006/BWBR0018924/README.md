@@ -3,7 +3,7 @@
 ##Verordening van het Hoofdbedrijfschap Detailhandel van 30 november 2005, houdende vaststelling bestemmingsheffing modedetailhandel mkb voor het jaar 2006 (Verordening bestemmingsheffing modedetailhandel mkb 2006)
 
 Het bestuur van het Hoofdbedrijfschap voor de Detailhandel;  
-Gelet op de [artikelen 95, tweede lid](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de Bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+Gelet op de artikelen 95, tweede lid en 126 van de Wet op de Bedrijfsorganisatie;
 
 Gezien het advies van de commissie modedetailhandel behorend tot hel midden- en kleinbedrijf;
 Besluit:     
@@ -23,7 +23,7 @@ a. modedetailhandel: het aan particulieren verkopen van herenbovenkleding, dames
 b. midden- en kleinbedrijf: ondernemingen met ten hoogste 20 verkoopplaatsen en maximaal 100 werkzame personen en die onder de werkingssfeerbepaling van de collectieve arbeidsovereenkomst voor de mode- en sportdetailhandel vallen;  
 
 c. franchiseformule: een commerciële samenwerkingsvorm tussen ondernemers, waarbij de ene partij, de franchisegever, aan de andere partij, de franchisenemer, tegen een vergoeding het recht verleent om een onderneming te exploiteren volgens een door de franchisegever ontwikkeld systeem en onder een door hem voorgeschreven handelsnaam.     
-2.  In deze verordening zijn de begripsbepalingen van de [Heffingsverordening Hoofdbedrijfschap Detailhandel 2006](../../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/detailhandel/2006/BWBR0018942/README.md) van overeenkomstige toepassing.  
+2.  In deze verordening zijn de begripsbepalingen van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2006 van overeenkomstige toepassing.  
 
 ### Artikel  2  
 Materieel uitgewerkt per 22-08-2008 
@@ -67,7 +67,7 @@ b. van € 14,50 voor de in artikel 3, tweede lid, onder b, bedoelde heffing.
 
 a. krachtens haar statutaire doelstelling haar werkzaamheid kan uitstrekken tot ten minste een belangrijk gedeelte van het terrein waarop het bedrijfslichaam een taak heeft te vervullen,  
 
-b. voldoet aan de kwalitatieve representativiteitcriteria, genoemd in de [artikelen 3 tot en met 7 van de Verordening representativiteit organisaties](../../../../../../../pbo/verordening/representativiteit/organisaties/BWBR0011641/README.md),  
+b. voldoet aan de kwalitatieve representativiteitcriteria, genoemd in de artikelen 3 tot en met 7 van de Verordening representativiteit organisaties,  
 
 c. tot de werkingssfeer van het bedrijfslichaam behorende leden heeft, waarvan het gewogen aantal niet-onbetekenend is,  
 
@@ -85,7 +85,7 @@ Materieel uitgewerkt per 22-08-2008
 ### Artikel  5  
 Materieel uitgewerkt per 22-08-2008 
 
-De [artikelen 6 tot en met 17 van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2006](../../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/detailhandel/2006/BWBR0018942/README.md) zijn van overeenkomstige toepassing. 
+De artikelen 6 tot en met 17 van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2006 zijn van overeenkomstige toepassing. 
 
 ### Artikel  6  
 Materieel uitgewerkt per 22-08-2008 

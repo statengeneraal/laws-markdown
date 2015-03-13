@@ -3,7 +3,7 @@
 ##VERORDENING van het Hoofdbedrijfschap Afbouw en Onderhoud, houdende regels ter zake van de tot de sector Stukadoors-, Afbouw- en Terrazzo-Vloerenbedrijf (SATV) behorende ondernemers op te leggen sectorheffing voor het jaar 2006 (Verordening Sectorheffing SATV Hoofdbedrijfschap Afbouw en Onderhoud 2006)
 
 Het bestuur van het Hoofdbedrijfschap Afbouw en Onderhoud,  
-Gelet op de [artikelen 93](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de Bedrijfsorganisatie](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [artikel 10 van het Instellingsbesluit Hoofdbedrijfschap Afbouw en Onderhoud](../../../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/afbouw/en/onderhoud/BWBR0013863/README.md),
+Gelet op de artikelen 93 en 126 van de Wet op de Bedrijfsorganisatie en artikel 10 van het Instellingsbesluit Hoofdbedrijfschap Afbouw en Onderhoud,
 Besluit:     
 ### §  1  
 

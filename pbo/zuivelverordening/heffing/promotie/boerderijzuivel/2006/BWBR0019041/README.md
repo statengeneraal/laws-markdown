@@ -3,13 +3,13 @@
 ##Verordening van het Productschap Zuivel van 9 november 2005, houdende vaststelling van de heffing voor de promotie van boerderijzuivelproducten voor het jaar 2006 (Zuivelverordening heffing promotie boerderijzuivel 2006)
 
 Het bestuur van het Productschap Zuivel;  
-Gelet op [artikel 126 van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [artikel 7 van de Instellingsbesluit Productschap Zuivel](../../../../../../../AMvB/instellingsbesluit/productschap/zuivel/BWBR0015162/README.md);
+Gelet op artikel 126 van de Wet op de bedrijfsorganisatie en artikel 7 van de Instellingsbesluit Productschap Zuivel;
 Besluit:    
 
 ### Artikel  1  
 Materieel uitgewerkt per 01-01-2007 
 
-In deze verordening wordt gebezigd de terminologie van de [Zuivelverordening 2003, Administratieve bepalingen](../../../../../../../pbo/zuivelverordening/2003/administratieve/bepalingen/BWBR0014245/README.md) en wordt voorts dan wel in afwijking daarvan verstaan onder:  
+In deze verordening wordt gebezigd de terminologie van de Zuivelverordening 2003, Administratieve bepalingen en wordt voorts dan wel in afwijking daarvan verstaan onder:  
 
 | --- | --- |
 |:---|:---|

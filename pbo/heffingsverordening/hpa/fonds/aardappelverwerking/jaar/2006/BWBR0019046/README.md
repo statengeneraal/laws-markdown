@@ -3,7 +3,7 @@
 ##Verordening van het Hoofdproductschap Akkerbouw van 10 november 2005 houdende vaststelling bestemmingsheffing ten behoeve van het Fonds aardappelverwerking voor het jaar 2006 (Heffingsverordening HPA fonds aardappelverwerking jaar 2006)
 
 Het bestuur van het Hoofdproductschap Akkerbouw;  
-Gelet op de [artikelen 95](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126, eerste, vierde en zesde lid van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op de [artikelen 3](../../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md), [5](../../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md) en [19 van het Instellingsbesluit akkerbouwproductschappen](../../../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md);
+Gelet op de artikelen 95 en 126, eerste, vierde en zesde lid van de Wet op de bedrijfsorganisatie en op de artikelen 3, 5 en 19 van het Instellingsbesluit akkerbouwproductschappen;
 
 Gehoord de Commissie Aardappelen;
 Besluit:     
@@ -111,7 +111,7 @@ De secretaris kan, namens het bestuur, besluiten nota's met een bedrag minder da
 ### Artikel  9  
 Materieel uitgewerkt per 18-02-2007 
 
-Aan de ondernemer die niet of niet geheel binnen de in artikel 6 gestelde termijn heeft betaald, kan door de secretaris, namens het bestuur, de wettelijke interest over het niet-betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md). 
+Aan de ondernemer die niet of niet geheel binnen de in artikel 6 gestelde termijn heeft betaald, kan door de secretaris, namens het bestuur, de wettelijke interest over het niet-betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie. 
 
 ### §  5  
 

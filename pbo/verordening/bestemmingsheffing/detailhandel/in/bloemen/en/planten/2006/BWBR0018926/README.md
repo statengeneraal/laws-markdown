@@ -3,7 +3,7 @@
 ##Verordening van het Hoofdbedrijfschap Detailhandel van 26 oktober 2005, houdende vaststelling bestemmingsheffing detailhandel in bloemen en planten voor het jaar 2006 (Verordening bestemmingsheffing detailhandel in bloemen en planten 2006)
 
 Het bestuur van het Hoofdbedrijfschap Detailhandel;  
-Gelet op de [artikelen 95, tweede lid](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de Bedrijfsorganisatie](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+Gelet op de artikelen 95, tweede lid en 126 van de Wet op de Bedrijfsorganisatie;
 
 Gezien het advies van de Commissie voor de detailhandel bloemen en planten;
 Besluit:     
@@ -16,7 +16,7 @@ Materieel uitgewerkt per 29-12-2007
 ### Artikel  1  
 Materieel uitgewerkt per 29-12-2007 
 
-In deze verordening zijn de begripsbepalingen van de [Heffingsverordening Hoofdbedrijfschap Detailhandel 2006](../../../../../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/detailhandel/2006/BWBR0018942/README.md) van overeenkomstige toepassing. 
+In deze verordening zijn de begripsbepalingen van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2006 van overeenkomstige toepassing. 
 
 ### Artikel  2  
 Materieel uitgewerkt per 29-12-2007 
@@ -63,7 +63,7 @@ c. Centrale Vereniging voor de Ambulante Handel (CVAH),   en over het jaar 2005 
 
 a. krachtens haar statutaire doelstelling haar werkzaamheid kan uitstrekken tot ten minste een belangrijk gedeelte van het terrein waarop het bedrijfslichaam een taak heeft te vervullen,  
 
-b. voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de [artikelen 3 tot en met 7 van de Verordening representativiteit organisaties](../../../../../../../../../../pbo/verordening/representativiteit/organisaties/BWBR0011641/README.md).  
+b. voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de artikelen 3 tot en met 7 van de Verordening representativiteit organisaties.  
 
 c. tot de werkingssfeer van het bedrijfslichaam behorende leden heeft, waarvan het gewogen aantal niet-onbetekenend is,  
 
@@ -81,7 +81,7 @@ Materieel uitgewerkt per 29-12-2007
 ### Artikel  5  
 Materieel uitgewerkt per 29-12-2007 
 
-De [artikelen 6 tot en met 17 van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2006](../../../../../../../../../../pbo/heffingsverordening/hoofdbedrijfschap/detailhandel/2006/BWBR0018942/README.md) zijn van overeenkomstige toepassing. 
+De artikelen 6 tot en met 17 van de Heffingsverordening Hoofdbedrijfschap Detailhandel 2006 zijn van overeenkomstige toepassing. 
 
 ### Artikel  6  
 Materieel uitgewerkt per 29-12-2007 
