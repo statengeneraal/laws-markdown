@@ -3,12 +3,13 @@
 ##Besluit gedifferentieerde premie WGA 2007
 
 Het Uitvoeringsinstituut werknemersverzekeringen,  
-Gelet op [artikel 38 van de Wet financiering sociale verzekeringen](../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md);
+Gelet op artikel 38 van de Wet financiering sociale verzekeringen;
 Besluit:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 01-01-2009 
 
-Voor de berekening van de gedifferentieerde premie op grond van [artikel 38 van de Wet financiering sociale verzekeringen](../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) over het jaar 2007 worden voor alle takken van bedrijf en beroep de navolgende premies en parameters vastgesteld:  
+Voor de berekening van de gedifferentieerde premie op grond van artikel 38 van de Wet financiering sociale verzekeringen over het jaar 2007 worden voor alle takken van bedrijf en beroep de navolgende premies en parameters vastgesteld:  
 
 | --- | --- |
 |:---|:---|
@@ -28,10 +29,12 @@ Voor de berekening van de gedifferentieerde premie op grond van [artikel 38 van 
 | 4 jaar bekend  | 1,25  |
 
 ### Artikel  2  
+Materieel uitgewerkt per 01-01-2009 
 
 Dit besluit wordt aangehaald als: Besluit gedifferentieerde premie WGA 2007. 
 
 ### Artikel  3  
+Materieel uitgewerkt per 01-01-2009 
 
 Dit besluit treedt in werking met ingang van 1 januari 2007. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.   

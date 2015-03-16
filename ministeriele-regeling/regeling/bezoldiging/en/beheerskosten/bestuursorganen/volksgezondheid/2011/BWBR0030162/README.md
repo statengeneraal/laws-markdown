@@ -31,7 +31,9 @@ g.  *het BBRA 1984:* het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984;
 
 h.  *de Kaderwet:* de Kaderwet zelfstandige bestuursorganen;  
 
-i.  *het CAK:* het CAK, genoemd in artikel 48, eerste lid, van de Algemene Wet Bijzondere Ziektekosten.  
+i. het CAK: het CAK, genoemd in artikel 6.1.1 van de Wet langdurige zorg;  
+
+j. het CIZ: het CIZ, genoemd in artikel 7.1.1. van de Wet langdurige zorg.  
 
 ### Hoofdstuk  2  
 
@@ -41,7 +43,7 @@ i.  *het CAK:* het CAK, genoemd in artikel 48, eerste lid, van de Algemene Wet B
 
 ####Reikwijdte hoofdstuk 2
 
-Dit hoofdstuk is, voor zover niet anders is bepaald en voor zover niet bij beschikking is afgeweken, van toepassing op de bestuursleden van: 
+Dit hoofdstuk is, voor zover niet anders is bepaald, van toepassing op de bestuursleden van: 
 
 a. het College bouw,  
 
@@ -51,7 +53,9 @@ c. het Zorginstituut,
 
 d. de zorgautoriteit,  
 
-e. het CAK.  
+e. het CAK, 
+
+f. het CIZ.  
 
 ### Artikel  3  
 
@@ -62,7 +66,7 @@ e. het CAK.
 3.  De bestuursleden hebben recht op een vakantie-uitkering overeenkomstig de artikelen 21 en 22 van het BBRA 1984. De opbouw van vakantie-uren, de opname en het overboeken daarvan naar een volgend jaar vinden plaats overeenkomstig de artikelen 22 en 23 van het ARAR.   
 4.  De bestuursleden hebben recht op een eindejaarsuitkering overeenkomstig artikel 20a van het BBRA 1984.   
 5.  De bezoldiging wordt uitbetaald in gelijke maandelijkse termijnen. De vakantie- en eindejaarsuitkering worden uitbetaald in de maanden mei respectievelijk december van ieder jaar.   
-6.  De bestuursleden worden aangemeld als volwaardig deelnemer bij het Algemeen Burgerlijk Pensioenfonds.  
+6.  De bestuursleden, met uitzondering van de bestuursleden van het CAK en van het CIZ, worden aangemeld als volwaardig deelnemer bij het Algemeen Burgerlijk Pensioenfonds.  
 
 ### Artikel  4  
 
@@ -107,15 +111,10 @@ De artikelen 13 en 14, vierde lid, van de Kaderwet zijn van overeenkomstige toep
 
 ### Artikel  10  
 
-####Speciale bepaling met betrekking tot Adviescommissie Pakket
+####Speciale bepaling met betrekking tot de Adviescommissie Pakket en de Adviescommissie Kwaliteit
 
-1.  De leden van de commissie, bedoeld in artikel 59a, eerste lid, van de Zorgverzekeringswet, niet zijnde bestuursleden van het Zorginstituut, ontvangen voor het bijwonen van vergaderingen per dagdeel waarin wordt vergaderd, een vergoeding van € 363.   
-2.  Ingeval een commissielid gebruik maakt van een eigen vervoermiddel en zijn woonhuis is gelegen in een gemeente die meer dan tien kilometer is verwijderd van de gemeente waarin de vergadering wordt gehouden, wordt de vergoeding bedoeld in het eerste lid vermeerderd met een vergoeding van € 0,27 voor elke afgelegde kilometer.   
-3.  Ingeval een commissielid gebruik maakt van een openbaar vervoermiddel en zijn woonhuis is gelegen in een gemeente die meer dan tien kilometer is verwijderd van de gemeente waarin de vergadering wordt gehouden, wordt de vergoeding bedoeld in het eerste lid vermeerderd met: 
-
-a. de kosten voor een retourbiljet (eerste klasse) van het gebruikte openbaar vervoer;  
-
-b. de gemaakte kosten voor plaatselijk vervoer in de gemeente, waarin de vergadering wordt gehouden.    
+1.  De voorzitter van de commissie, bedoeld in artikel 59a, eerste lid, van de Zorgverzekeringswet, die niet tevens lid is van het Zorginstituut Nederland, en de voorzitter van de commissie, genoemd in artikel 59b, eerste lid, van die wet ontvangen een vaste vergoeding per maand, afgeleid van het maximum van schaal 18 van het Bezoldigingsbesluit Rijksambtenaren 1984, vermenigvuldigd met een arbeidsduurfactor van 20,77 procent.   
+2.  De andere leden van de commissie, bedoeld in artikel 59a, eerste lid, van de Zorgverzekeringswet, die niet tevens lid zijn van het Zorginstituut Nederland, en de andere leden van de commissie, genoemd in artikel 59b, eerste lid, van die wet, ontvangen een vaste vergoeding per maand, afgeleid van het maximum van schaal 17 van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984, vermenigvuldigd met een arbeidsduurfactor van 6,92 procent.  
 
 ### Hoofdstuk  3  
 
@@ -135,6 +134,7 @@ c. de zorgautoriteit,
 
 d. het CAK.    
 2.  Dit hoofdstuk is, met inachtneming van de tussen de Minister en het College bouw gemaakte afspraken over de afbouw van dat college, waar mogelijk van overeenkomstige toepassing op het College bouw.  
+3.  Dit hoofdstuk is, met inachtneming van de tussen de Minister van Volksgezondheid, Welzijn en Sport en het CIZ gemaakte afspraken over de concretisering van de juridische status van het CIZ in de periode 2015 – 2019, waar mogelijk van overeenkomstige toepassing op het CIZ.
 
 ### Artikel  12  
 
@@ -223,8 +223,6 @@ g. substantiële schommelingen in de meerjarenraming worden toegelicht.
 
 ####Aanvullende bepaling jaarrekening CIZ
 
-Treedt in werking per 01-01-2015 
-
 In de jaarrekening van het CIZ wordt onderscheid gemaakt tussen de kosten verbonden aan het nemen van indicatiebesluiten als bedoeld in artikel 3.2.3 van de Wet langdurige zorg, de kosten verbonden aan het nemen van indicatiebesluiten als bedoeld in artikel 5.2.1 en het nemen van besluiten als bedoeld in artikel 5.2.2 van het Besluit langdurige zorg, en de kosten verbonden aan de uitvoering van het Besluit uitvoering kinderbijslag. 
 
 ### Artikel  18  
@@ -248,7 +246,7 @@ In de jaarrekening van het CIZ wordt onderscheid gemaakt tussen de kosten verbon
 
 ####Toestemming verrichten van handelingen
 
-Het CAK, het Zorginstituut en de zorgautoriteit behoeven voorafgaande toestemming van de Minister voor het verrichten van handelingen als bedoeld in artikel 32, onderdelen a en d tot en met g, van de Kaderwet. 
+Het CAK, het CIZ, het Zorginstituut en de zorgautoriteit behoeven voorafgaande toestemming van de Minister voor het verrichten van handelingen als bedoeld in artikel 32, onderdelen a en d tot en met g, van de Kaderwet. 
 
 ### Hoofdstuk  4  
 
@@ -272,7 +270,7 @@ Wijzigt de Regeling zorgverzekering.
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling bezoldiging en beheerskosten bestuursorganen volksgezondheid 2011 
+Deze regeling wordt aangehaald als: Regeling bezoldiging en beheerskosten zelfstandige bestuursorganen VWS 
 
 ### Artikel  24  
 

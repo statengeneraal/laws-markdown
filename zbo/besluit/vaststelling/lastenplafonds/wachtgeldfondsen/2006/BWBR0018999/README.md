@@ -3,22 +3,26 @@
 ##Besluit vaststelling lastenplafonds wachtgeldfondsen 2006
 
 Het Uitvoeringsinstituut werknemersverzekeringen,  
-Gelet op [artikel 94, eerste lid, van de Werkloosheidswet](../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) en [artikel 105, eerste lid, van de Wet financiering sociale verzekeringen](../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md);
+Gelet op artikel 94, eerste lid, van de Werkloosheidswet en artikel 105, eerste lid, van de Wet financiering sociale verzekeringen;
 Besluit:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 01-01-2008 
 
-De maxima van de lasten die in een boekjaar ten laste van de wachtgeldfondsen komen, bedoeld in [artikel 94 van de Werkloosheidswet](../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), worden voor het jaar 2006 vastgesteld op de percentages, bedoeld in bijlage 1 bij dit besluit. 
+De maxima van de lasten die in een boekjaar ten laste van de wachtgeldfondsen komen, bedoeld in artikel 94 van de Werkloosheidswet, worden voor het jaar 2006 vastgesteld op de percentages, bedoeld in bijlage 1 bij dit besluit. 
 
 ### Artikel  2  
+Materieel uitgewerkt per 01-01-2008 
 
 Het Besluit vaststelling lastenplafonds wachtgeldfondsen 2005 wordt ingetrokken. 
 
 ### Artikel  3  
+Materieel uitgewerkt per 01-01-2008 
 
 Dit besluit treedt, onder voorbehoud van goedkeuring door de Minister van Sociale Zaken en Werkgelegenheid, in werking met ingang van 1 januari 2006. 
 
 ### Artikel  4  
+Materieel uitgewerkt per 01-01-2008 
 
 Dit besluit wordt aangehaald als: Besluit vaststelling lastenplafonds wachtgeldfondsen 2006. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.   
@@ -35,6 +39,8 @@ J.M. Linthorst
 ### Bijlage  1  
 
 ####Lastenplafonds wachtgeldfondsen 2006
+
+Materieel uitgewerkt per 01-01-2008 
 
 |  Sectoren   |  Lastenplafonds (in %)   |
 |:---|:---|

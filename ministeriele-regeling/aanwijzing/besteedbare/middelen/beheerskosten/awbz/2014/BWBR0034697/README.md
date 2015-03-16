@@ -3,12 +3,12 @@
 ##Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 16 januari 2014, kenmerk 178661-114563-Z, inzake de besteedbare middelen ter dekking van de beheerskosten AWBZ 2014 (Aanwijzing besteedbare middelen beheerskosten AWBZ 2014)
 
 De Staatssecretaris van Volksgezondheid, Welzijn en Sport,  
-Gelet op [artikel 4.3 van het Besluit Wfsv](../../../../../../../../AMvB/besluit/wfsv/BWBR0019070/README.md);
+Gelet op artikel 4.3 van het Besluit Wfsv;
 Besluit:    
 
 ### Artikel  1  
 
-De besteedbare middelen ter dekking van de voor de uitvoering van de [Algemene Wet Bijzondere Ziektekosten](../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) te maken beheerskosten bedragen voor het jaar 2014 € 173,875 miljoen. 
+De besteedbare middelen ter dekking van de voor de uitvoering van de Algemene Wet Bijzondere Ziektekosten te maken beheerskosten bedragen voor het jaar 2014 € 173,875 miljoen. 
 
 ### Artikel  2  
 

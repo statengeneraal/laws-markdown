@@ -94,7 +94,9 @@ S.A. Blok
 
 * Regeling vermindering verhuurderheffing 2014;  
 
-* Stimuleringsregeling energieprestatie huursector.   
+* Stimuleringsregeling energieprestatie huursector;  
+
+*Regeling fonds energiebesparing huursector. 
 
 ### Bijlage  2  
 

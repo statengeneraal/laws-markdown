@@ -153,7 +153,7 @@ f) access to education for children.
 2.  Each Party shall take due account of the victim’s safety and protection needs.   
 3.  In addition, each Party shall provide necessary medical or other assistance to victims lawfully resident within its territory who do not have adequate resources and need such help.   
 4.  Each Party shall adopt the rules under which victims lawfully resident within its territory shall be authorised to have access to the labour market, to vocational training and education.   
-5.  Each Party shall take measures, where apporpriate and under the conditions provided for by its internal law, to co-operate with non-governmental organisations, other relevant organisations or other elements of civil society engaged in assistance to victims.   
+5.  Each Party shall take measures, where appropriate and under the conditions provided for by its internal law, to co-operate with non-governmental organisations, other relevant organisations or other elements of civil society engaged in assistance to victims.   
 6.  Each Party shall adopt such legislative or other measures as may be necessary to ensure that assistance to a victim is not made conditional on his or her willingness to act as a witness.   
 7.  For the implementation of the provisions set out in this article, each Party shall ensure that services are provided on a consensual and informed basis, taking due account of the special needs of persons in a vulnerable position and the rights of children in terms of accommodation, education and appropriate health care.  
 
@@ -305,7 +305,7 @@ Each Party shall, in accordance with the basic principles of its legal system, p
 
 ### Article  28  
 
-####Protection of victims, witnesses and collaborators with the judical authorities
+####Protection of victims, witnesses and collaborators with the judicial authorities
 
 1.  Each Party shall adopt such legislative or other measures as may be necessary to provide effective and appropriate protection from potential retaliation or intimidation in particular during and after investigation and prosecution of perpetrators, for: 
 
@@ -800,7 +800,7 @@ c. een bevoegdheid om controle binnen de rechtspersoon uit te oefenen.
 1.  Elke Partij neemt de wetgevende of andere maatregelen die nodig kunnen zijn om te waarborgen dat op de in de artikelen 18 tot en met 21 omschreven strafbare feiten doeltreffende, evenredige en afschrikkende straffen worden gesteld. Deze sancties omvatten, voor de overeenkomstig artikel 18 strafbaar gestelde feiten indien zij door natuurlijke personen worden gepleegd, straffen die vrijheidsbeneming met zich meebrengen en tot uitlevering kunnen leiden.   
 2.  Elke Partij waarborgt dat rechtspersonen die aansprakelijk worden gesteld overeenkomstig artikel 22, onderworpen worden aan doeltreffende, evenredige en afschrikkende strafrechtelijke of niet-strafrechtelijke sancties of maatregelen, met inbegrip van geldelijke sancties.    
 3.  Elke Partij neemt de wetgevende of andere maatregelen die nodig kunnen zijn om het mogelijk te maken de hulpmiddelen en opbrengsten van overeenkomstig de artikelen 18 en 20, onderdeel a, van dit Verdrag strafbaar gestelde feiten, of goederen waarvan de waarde overeenkomt met dergelijke opbrengsten, in beslag te nemen of anderszins te ontnemen.   
-4.  Elke Partij neemt de wetgevende of andere maatregelen die nodig kunnen zijn om de tijdelijke of permanente sluiting mogelijk te maken van een inrichting die gebruikt is voor mensenhandel, onverminderd de rechten van derden te goeder trouw, of om de dader tijdelijk of permanent het recht te ontzeggen de activiteit uit te voeren in de uitvoering waarvanj het strafbare feit werd gepleegd.  
+4.  Elke Partij neemt de wetgevende of andere maatregelen die nodig kunnen zijn om de tijdelijke of permanente sluiting mogelijk te maken van een inrichting die gebruikt is voor mensenhandel, onverminderd de rechten van derden te goeder trouw, of om de dader tijdelijk of permanent het recht te ontzeggen de activiteit uit te voeren in de uitvoering waarvan het strafbare feit werd gepleegd.  
 
 ### Artikel  24  
 

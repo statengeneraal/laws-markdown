@@ -5,36 +5,46 @@
 De Minister van Sociale Zaken en Werkgelegenheid,  
 Handelende in overeenstemming met de Staatssecretaris van Sociale Zaken;
 
-Gelet op de [artikelen 3](../../../../../../../../../../wet/kaderwet/szw-subsidies/BWBR0008754/README.md) en [9 van de Kaderwet SZW-subsidies](../../../../../../../../../../wet/kaderwet/szw-subsidies/BWBR0008754/README.md), de [artikelen 121](../../../../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) en [122 van de Wet financiering sociale verzekeringen](../../../../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) en de [artikelen 30, eerste lid, onderdeel i](../../../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), en [77 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);
+Gelet op de artikelen 3 en 9 van de Kaderwet SZW-subsidies, de artikelen 121 en 122 van de Wet financiering sociale verzekeringen en de artikelen 30, eerste lid, onderdeel i, en 77 van de Wet structuur uitvoeringsorganisatie werk en inkomen;
 Besluit:    
 
 ### Artikel  I  
 
-####Wijziging van de [Tijdelijke regeling inkomensgevolgen herbeoordeelde arbeidsongeschikten](../../../../../../../../../../ministeriele-regeling/tijdelijke/regeling/inkomensgevolgen/herbeoordeelde/arbeidsongeschikten/BWBR0017646/README.md)
+####Wijziging van de Tijdelijke regeling inkomensgevolgen herbeoordeelde arbeidsongeschikten
+
+Materieel uitgewerkt per 07-09-2010 
 
 Wijzigt de Tijdelijke regeling inkomensgevolgen herbeoordeelde arbeidsongeschikten. 
 
 ### Artikel  II  
 
-####Wijziging van de [Regeling tegemoetkoming onderhoudskosten thuiswonende gehandicapte kinderen 2000](../../../../../../../../../../ministeriele-regeling/regeling/tegemoetkoming/ouders/van/thuiswonende/gehandicapte/kinderen/BWBR0010997/README.md)
+####Wijziging van de Regeling tegemoetkoming onderhoudskosten thuiswonende gehandicapte kinderen 2000
+
+Materieel uitgewerkt per 07-09-2010 
 
 Wijzigt de Regeling tegemoetkoming onderhoudskosten thuiswonende gehandicapte kinderen 2000. 
 
 ### Artikel  III  
 
-####Wijziging van de [Regeling tegemoetkoming asbestslachtoffers](../../../../../../../../../../ministeriele-regeling/regeling/tegemoetkoming/asbestslachtoffers/BWBR0011113/README.md)
+####Wijziging van de Regeling tegemoetkoming asbestslachtoffers
+
+Materieel uitgewerkt per 07-09-2010 
 
 Wijzigt de Regeling tegemoetkoming asbestslachtoffers. 
 
 ### Artikel  IV  
 
-####Wijziging van de [Tijdelijke regeling brugbanen niet-uitkeringsgerechtigde herbeoordeelden](../../../../../../../../../../ministeriele-regeling/tijdelijke/regeling/brugbanen/niet-uitkeringsgerechtigde/herbeoordeelden/BWBR0023539/README.md)
+####Wijziging van de Tijdelijke regeling brugbanen niet-uitkeringsgerechtigde herbeoordeelden
+
+Materieel uitgewerkt per 07-09-2010 
 
 Wijzigt de Tijdelijke regeling brugbanen niet-uitkeringsgerechtigde herbeoordeelden. 
 
 ### Artikel  V  
 
-####Wijziging van de [Regeling Wfsv](../../../../../../../../../../ministeriele-regeling/regeling/wfsv/BWBR0019150/README.md)
+####Wijziging van de Regeling Wfsv
+
+Materieel uitgewerkt per 07-09-2010 
 
 Wijzigt de Regeling Wfsv. 
 
@@ -42,11 +52,15 @@ Wijzigt de Regeling Wfsv.
 
 ####Overgangsrecht
 
-De [Tijdelijke regeling inkomensgevolgen herbeoordeelde arbeidsongeschikten](../../../../../../../../../../ministeriele-regeling/tijdelijke/regeling/inkomensgevolgen/herbeoordeelde/arbeidsongeschikten/BWBR0017646/README.md), de [Regeling tegemoetkoming onderhoudskosten thuiswonende gehandicapte kinderen 2000](../../../../../../../../../../ministeriele-regeling/regeling/tegemoetkoming/ouders/van/thuiswonende/gehandicapte/kinderen/BWBR0010997/README.md), de [Regeling tegemoetkoming asbestslachtoffers](../../../../../../../../../../ministeriele-regeling/regeling/tegemoetkoming/asbestslachtoffers/BWBR0011113/README.md), de [Regeling Wfsv](../../../../../../../../../../ministeriele-regeling/regeling/wfsv/BWBR0019150/README.md) en de [Tijdelijke regeling brugbanen niet-uitkeringsgerechtigde herbeoordeelden](../../../../../../../../../../ministeriele-regeling/tijdelijke/regeling/brugbanen/niet-uitkeringsgerechtigde/herbeoordeelden/BWBR0023539/README.md), zoals deze luiden na de inwerkingtreding van deze regeling, zijn van toepassing op de wijze van raming en opgave, afdracht en afrekening over het kalenderjaar 2008. 
+Materieel uitgewerkt per 07-09-2010 
+
+De Tijdelijke regeling inkomensgevolgen herbeoordeelde arbeidsongeschikten, de Regeling tegemoetkoming onderhoudskosten thuiswonende gehandicapte kinderen 2000, de Regeling tegemoetkoming asbestslachtoffers, de Regeling Wfsv en de Tijdelijke regeling brugbanen niet-uitkeringsgerechtigde herbeoordeelden, zoals deze luiden na de inwerkingtreding van deze regeling, zijn van toepassing op de wijze van raming en opgave, afdracht en afrekening over het kalenderjaar 2008. 
 
 ### Artikel  VII  
 
 ####Inwerkingtreding
+
+Materieel uitgewerkt per 07-09-2010 
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst.   
