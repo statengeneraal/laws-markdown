@@ -3,12 +3,12 @@
 ##Regeling bloed- of tussenproducten Minister van Defensie 
 
 De Minister van Volksgezondheid, Welzijn en Sport;  
-Gelet op de [artikel 12, eerste lid, onder c](../../../../../../../../../wet/wet/inzake/bloedvoorziening/BWBR0009079/README.md), en [13, eerste lid, onder d, van de Wet inzake bloedvoorziening](../../../../../../../../../wet/wet/inzake/bloedvoorziening/BWBR0009079/README.md);
+Gelet op de artikel 12, eerste lid, onder c, en 13, eerste lid, onder d, van de Wet inzake bloedvoorziening;
 Besluit:    
 
 ###Artikel  1  
 
-Als een ander persoon als bedoeld in de [artikelen 12, eerste lid, onder c](../../../../../../../../../wet/wet/inzake/bloedvoorziening/BWBR0009079/README.md), of [13, eerste lid, onder d van de Wet inzake bloedvoorziening](../../../../../../../../../wet/wet/inzake/bloedvoorziening/BWBR0009079/README.md) wordt aangewezen de Minister van Defensie. 
+Als een ander persoon als bedoeld in de artikelen 12, eerste lid, onder c, of 13, eerste lid, onder d van de Wet inzake bloedvoorziening wordt aangewezen de Minister van Defensie. 
 
 ###Artikel  2  
 

@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Economische Zaken van 17 juli 2007, nr. WJZ 7085218;
 
-Gelet op [artikel 3 van de Kaderwet EZ-subsidies](../../../../../../wet/kaderwet/ez-subsidies/BWBR0007919/README.md);
+Gelet op artikel 3 van de Kaderwet EZ-subsidies;
 
 De Raad van State gehoord (advies van 23 augustus 2007, nr. W10.07.0257/III);
 
@@ -26,7 +26,7 @@ b. biomassa: de biologisch afbreekbare fractie van producten, afvalstoffen en re
 
 c. hernieuwbare elektriciteit: elektriciteit, opgewekt in een productie-installatie die uitsluitend gebruik maakt van hernieuwbare energiebronnen, alsmede elektriciteit die is opgewekt met hernieuwbare energiebronnen in een hybride productie-installatie die ook met conventionele energiebronnen werkt, met inbegrip van elektriciteit die is opgewekt met hernieuwbare energiebronnen en die wordt gebruikt voor accumulatiesystemen, en met uitzondering van elektriciteit die afkomstig is van accumulatiesystemen;  
 
-d. gas: gas als bedoeld in [artikel 1, eerste lid, onderdeel b, van de Gaswet](../../../../../../wet/gaswet/BWBR0011440/README.md);  
+d. gas: gas als bedoeld in artikel 1, eerste lid, onderdeel b, van de Gaswet;  
 
 e. hernieuwbaar gas: gas, opgewekt in een productie-installatie die uitsluitend gebruik maakt van hernieuwbare energiebronnen, alsmede gas, opgewekt met hernieuwbare energiebronnen in een hybride productie-installatie die ook fossiele energiebronnen gebruikt;  
 
@@ -38,17 +38,26 @@ h. productie-installatie: een samenstel van voorzieningen waarmee hernieuwbare e
 
 i. producent: een ieder die een productie-installatie in stand houdt;  
 
-j. elektriciteitsnet: een net als bedoeld in [artikel 1, eerste lid, onderdeel i, van de Elektriciteitswet 1998](../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) en een elektriciteitsnet dat is gelegen binnen de Nederlandse exclusieve economische zone dat is verbonden met een net als bedoeld in [artikel 1, eerste lid, onderdeel i, van de Elektriciteitswet 1998](../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md);  
+j. elektriciteitsnet: een net als bedoeld in artikel 1, eerste lid, onderdeel i, van de Elektriciteitswet 1998 en een elektriciteitsnet dat is gelegen binnen de Nederlandse exclusieve economische zone dat is verbonden met een net als bedoeld in artikel 1, eerste lid, onderdeel i, van de Elektriciteitswet 1998;  
 
-k. gasnet: een net als bedoeld in [artikel 1, eerste lid, onderdeel d, van de Gaswet](../../../../../../wet/gaswet/BWBR0011440/README.md);  
+k. gasnet: een net als bedoeld in artikel 1, eerste lid, onderdeel d, van de Gaswet;  
 
-l. garantie van oorsprong: een garantie van oorsprong voor als bedoeld in [artikel 1, onderdeel x, van de Elektriciteitswet 1998](../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md);  
+l. garantie van oorsprong: een garantie van oorsprong voor als bedoeld in artikel 1, onderdeel x, van de Elektriciteitswet 1998;  
 
 m. gebundelde aanvraag: de bundeling van maximaal 250 aanvragen om subsidieverlening vallend binnen één subsidieplafond in één aanvraag om subsidieverlening;  
 
-n.  productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie op zee: een productie-installatie die is opgericht op een afstand van meer dan één kilometer zeewaarts van de laagwaterlijn, bedoeld in de [artikelen 1, tweede lid](../../../../../../wet/wet/grenzen/nederlandse/territoriale/zee/BWBR0003748/README.md), en [2, eerste lid, van de Wet grenzen Nederlandse territoriale zee](../../../../../../wet/wet/grenzen/nederlandse/territoriale/zee/BWBR0003748/README.md) en die niet is gelegen binnen een gemeentelijke grens, waarmee hernieuwbare elektriciteit wordt geproduceerd met behulp van windenergie.    
+n.  productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie op zee: een productie-installatie die is opgericht op een afstand van meer dan één kilometer zeewaarts van de laagwaterlijn, bedoeld in de artikelen 1, tweede lid, en 2, eerste lid, van de Wet grenzen Nederlandse territoriale zee en die niet is gelegen binnen een gemeentelijke grens, waarmee hernieuwbare elektriciteit wordt geproduceerd met behulp van windenergie; 
+
+o.  fase: de bij ministeriële regeling vastgestelde periode waarbinnen de aanvragen ontvangen moeten zijn. Voor iedere fase geldt een andere openstellingsdatum;  
+
+p.  MEP: de subsidie verstrekt ten behoeve van de productie van duurzame elektriciteit, klimaatneutrale elektriciteit of elektriciteit die is opgewekt door middel van warmtekrachtkoppeling op grond van artikel 72m van de Elektriciteitswet 1998;  
+
+q.  OV-MEP: de Subsidieregeling opwekken duurzame elektriciteit in vergistingsinstallaties;  
+
+r.  richtlijn hernieuwbare energie: richtlijn nr. 2009/28/EG van het Europees Parlement en de Raad van 23 april 2009 ter bevordering van het gebruik van energie uit hernieuwbare bronnen en houdende wijziging en intrekking van Richtlijn 2001/77/EG en Richtlijn 2003/30/EG (PbEU 2009, L 140).    
 2.  Bij ministeriële regeling kunnen andere hernieuwbare energiebronnen dan genoemd in het eerste lid, onderdeel a, worden aangewezen.   
 3.  Bij ministeriële regeling wordt bepaald wat onder nuttig gebruik van hernieuwbare warmte wordt verstaan. 
+4. Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt gelijkgesteld met één kWh de hoeveelheid elektrische energie die overeenkomt met 0,102359965 Nm<sup>3</sup>aardgasequivalent of 0,0036 GJ.
 
 ### §  2  
 
@@ -65,75 +74,69 @@ b. de productie van hernieuwbaar gas aan een producent van hernieuwbaar gas om g
 c. de productie van hernieuwbare warmte aan een producent van hernieuwbare warmte om gedurende een bepaalde periode het verschil tussen de gemiddelde kostprijs van deze hernieuwbare warmte en de relevante gemiddelde marktprijs van warmte geheel of gedeeltelijk te compenseren.    
 2.  Bij ministeriële regeling wordt, na overleg met Onze Minister van Financiën, per categorie productie-installaties een afzonderlijk subsidieplafond of voor meerdere categorieën tezamen één subsidieplafond vastgesteld voor het verlenen van subsidies voor de productie van hernieuwbare elektriciteit, hernieuwbaar gas of hernieuwbare warmte.   
 3.  Bij ministeriële regeling wordt de wijze van verdeling van een subsidieplafond bepaald.   
-4.  Bij ministeriële regeling kunnen perioden worden vastgesteld waarbinnen de aanvragen ontvangen moeten zijn. 
+4.  Bij ministeriële regeling kunnen perioden worden vastgesteld waarbinnen de aanvragen ontvangen moeten zijn.  
+5.  Bij ministeriële regeling kan per categorie productie-installaties een afzonderlijke maximale productie in kWh, of voor meerdere categorieën tezamen, één maximale productie in kWh worden vastgesteld die jaarlijks voor subsidie in aanmerking komt.   
+6.  Bij ministeriële regeling kan voor de productie van hernieuwbare elektriciteit met behulp van windenergie op zee per locatie een afzonderlijke maximale productie in kWh, of voor meerdere locaties tezamen, één maximale productie in kWh worden vastgesteld die jaarlijks voor subsidie in aanmerking komt.  
 
 ### Artikel  3  
 
-1.  Geen subsidie als bedoeld in artikel 2, eerste lid, wordt verstrekt indien voor dezelfde productie-installatie reeds op grond van [artikel 72m van de Elektriciteitswet 1998](../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) subsidie van meer dan € 0,00 is verstrekt, tenzij: 
+1.  Geen subsidie als bedoeld in artikel 2, eerste lid, wordt verstrekt indien voor dezelfde productie-installatie reeds op grond van de MEP of de OV-MEP subsidie van meer dan € 0,00 is verstrekt, tenzij: 
 
-a. het een productie-installatie betreft die behoort een bij ministeriële regeling aangewezen categorie productie-installaties en waarvan voor het eerst geproduceerde hernieuwbare warmte nuttig zal worden gebruikt;  
-
-b. de productie-installatie ingrijpend wordt uitgebreid in capaciteit of geheel wordt vervangen;  
-
-c. het een productie-installatie betreft die ingrijpend wordt gerenoveerd en behoort tot een bij ministeriële regeling aangewezen categorie te renoveren productie-installaties;  
-
-d. het een productie-installatie betreft die behoort tot een bij ministeriële regeling aangewezen categorie productie-installaties waarmee hernieuwbare elektriciteit hernieuwbaar gas, hernieuwbare warmte of hernieuwbare warmte en hernieuwbare elektriciteit wordt geproduceerd door middel van biomassa;  
-
-e. er op de datum van de aanvraag van subsidie op grond van dit besluit geen voorschotten op grond van [artikel 72w van de Elektriciteitswet 1998](../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) zoals dat luidde op 31 december 2006 zijn verstrekt en de periode waarover op grond van [artikel 72m van de Elektriciteitswet 1998](../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) zoals dat luidde op 31 december 2006 subsidie is verstrekt, is aangevangen op 31 december 2007.    
-2.  Geen subsidie als bedoeld in artikel 2, eerste lid, wordt verstrekt indien voor dezelfde productie-installatie reeds op grond van artikel 2 van de Subsidieregeling opwekken duurzame elektriciteit in vergistingsinstallaties, tenzij: 
-
-a. het een productie-installatie betreft die behoort tot een bij ministeriële regeling aangewezen categorie productie-installaties waarmee hernieuwbare elektriciteit hernieuwbaar gas, hernieuwbare warmte of hernieuwbare warmte en hernieuwbare elektriciteit wordt geproduceerd door middel van biomassa;  
+a. het een productie-installatie betreft waarmee hernieuwbare elektriciteit, hernieuwbaar gas, hernieuwbare warmte of hernieuwbare warmte en hernieuwbare elektriciteit wordt geproduceerd door middel van biomassa en die behoort tot een bij ministeriële regeling aangewezen categorie productie-installaties;  
 
 b. de productie-installatie ingrijpend wordt uitgebreid in capaciteit of geheel wordt vervangen;  
 
-c. het een productie-installatie betreft die ingrijpend wordt gerenoveerd en behoort tot een bij ministeriële regeling aangewezen categorie te renoveren productie-installaties;  
+c. het een productie-installatie betreft die ingrijpend wordt gerenoveerd en die behoort tot een bij ministeriële regeling aangewezen categorie te renoveren productie-installaties;  
 
-d. het een productie-installatie betreft die behoort een bij ministeriële regeling aangewezen categorie productie-installaties en waarvan voor het eerst geproduceerde hernieuwbare warmte nuttig zal worden gebruikt.    
-3.  Geen subsidie als bedoeld in artikel 2, eerste lid, wordt verstrekt indien voor dezelfde productie-installatie reeds op grond van dit besluit subsidie is verstrekt, tenzij: 
+d. het een productie-installatie betreft waarvan voor het eerst geproduceerde hernieuwbare warmte nuttig zal worden gebruikt en die behoort tot een bij ministeriële regeling aangewezen categorie productie-installaties.     
+2.  Geen subsidie als bedoeld in artikel 2, eerste lid, wordt verstrekt indien voor dezelfde productie-installatie reeds op grond van dit besluit subsidie is verstrekt, tenzij: 
 
-a. het een productie-installatie betreft die behoort tot een bij ministeriële regeling aangewezen categorie productie-installaties waarmee hernieuwbare elektriciteit hernieuwbaar gas, hernieuwbare warmte of hernieuwbare warmte en hernieuwbare elektriciteit wordt geproduceerd door middel van biomassa;  
+a. het een productie-installatie betreft waarmee hernieuwbare elektriciteit, hernieuwbaar gas, hernieuwbare warmte of hernieuwbare warmte en hernieuwbare elektriciteit wordt geproduceerd door middel van biomassa en die behoort tot een bij ministeriële regeling aangewezen categorie productie-installaties;  
 
 b. de productie-installatie ingrijpend wordt uitgebreid in capaciteit of geheel wordt vervangen;  
 
-c. het een productie-installatie betreft die ingrijpend wordt gerenoveerd en behoort tot een bij ministeriële regeling aangewezen categorie te renoveren productie-installaties;  
+c. het een productie-installatie betreft die ingrijpend wordt gerenoveerd en die behoort tot een bij ministeriële regeling aangewezen categorie te renoveren productie-installaties;  
 
-d. het een productie-installatie betreft waarvoor reeds eerder subsidie op grond van dit besluit is verstrekt voor een of meer periodes van een bij ministeriële regeling te bepalen duur;  
+d. de productie-installatie niet in gebruik is genomen, er tenminste drie jaren zijn verstreken na de datum van de beschikking tot subsidieverlening en die beschikking door Onze Minister is ingetrokken.     
+3.  Geen subsidie als bedoeld in artikel 2, eerste lid, wordt verstrekt indien de productie-installatie in gebruik is genomen voor de datum waarop de subsidie is aangevraagd en waarvoor geen subsidie op grond van de MEP, de OV-MEP of dit besluit is verstrekt, tenzij: 
 
-e. de productie-installatie niet in gebruik is genomen, er tenminste vijf jaren zijn verstreken na de datum van de beschikking tot subsidieverlening en die beschikking door Onze Minister is ingetrokken.     
-4.  Geen subsidie als bedoeld in artikel 2, eerste lid, wordt verstrekt indien de productie-installatie in gebruik is genomen voor de datum waarop de subsidie is aangevraagd en waarvoor geen subsidie op grond van [artikel 72m van de Elektriciteitswet 1998](../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), artikel 2 van de Subsidieregeling opwekken duurzame elektriciteit in vergistingsinstallaties of dit besluit is verstrekt, tenzij: 
+a. het een bestaande productie-installatie betreft die voor het eerst gebruik zal maken van hernieuwbare energiebronnen en die behoort tot een bij ministeriële regeling aangewezen categorie productie-installaties;  
 
-a. de productie-installatie ingrijpend wordt uitgebreid in capaciteit of geheel wordt vervangen;  
+b. de productie-installatie ingrijpend wordt uitgebreid in capaciteit of geheel wordt vervangen;  
 
-b. het een productie-installatie betreft die behoort tot een bij ministeriële regeling aangewezen categorie productie-installaties en die ingrijpend wordt gerenoveerd;  
+c. het een productie-installatie betreft die ingrijpend wordt gerenoveerd en die behoort tot een bij ministeriële regeling aangewezen categorie te renoveren productie-installaties;  
 
-c. het een bestaande productie-installatie betreft die behoort tot een bij ministeriële regeling aangewezen categorie productie-installaties en die voor het eerst gebruik zal maken van hernieuwbare energiebronnen;  
-
-d. het een bestaande productie-installatie voor de productie van hernieuwbare warmte en hernieuwbare elektriciteit betreft die behoort tot een bij ministeriële regeling aangewezen categorie productie-installaties en die voor het eerst de warmte nuttig zal gebruiken.     
-5.  Geen subsidie als bedoeld in artikel 2, eerste lid, wordt verstrekt indien een productie-installatie geheel of gedeeltelijk bestaat uit gebruikte materialen, tenzij het een productie-installatie betreft die behoort tot een bij ministeriële regeling aangewezen categorie productie-installaties.   
-6.  Bij ministeriële regeling kunnen regels worden gesteld over de toepassing van het tweede tot en met het vijfde lid en het zevende lid.   
-7.  Geen subsidie als bedoeld in artikel 2, eerste lid, wordt verstrekt indien de productie-installatie hernieuwbare elektriciteit of hernieuwbare warmte opwekt uit een hernieuwbare energiebron die geheel of gedeeltelijk bestaat uit hernieuwbaar gas dat afkomstig is uit een of meerdere productie-installaties waaraan op grond van dit besluit subsidie is verstrekt. 
+d. het een bestaande productie-installatie voor de productie van hernieuwbare warmte en hernieuwbare elektriciteit betreft die voor het eerst de warmte nuttig zal gebruiken en die behoort tot een bij ministeriële regeling aangewezen categorie productie-installaties.     
+4.  Geen subsidie als bedoeld in artikel 2, eerste lid, wordt verstrekt indien een productie-installatie geheel of gedeeltelijk bestaat uit gebruikte materialen, tenzij het een productie-installatie betreft die behoort tot een bij ministeriële regeling aangewezen categorie productie-installaties.   
+5.  Geen subsidie als bedoeld in artikel 2, eerste lid, wordt verstrekt indien de productie-installatie hernieuwbare elektriciteit of hernieuwbare warmte opwekt uit een hernieuwbare energiebron die geheel of gedeeltelijk bestaat uit hernieuwbaar gas dat afkomstig is uit een of meerdere productie-installaties waaraan op grond van dit besluit subsidie is verstrekt.   
+6.  Bij ministeriële regeling kunnen regels worden gesteld over de toepassing van het tweede tot en met het vijfde lid.  
 
 ### Artikel  4  
 
 1. Onze Minister kan reeds ontvangen of genoten overheidssteun dan wel in de toekomst te ontvangen of te genieten overheidssteun die er toe leidt dat de totale aan de producent verleende overheidssteun meer bedraagt dan is toegestaan ingevolge voor de Staat geldende verplichtingen krachtens een verdrag, in mindering brengen op de subsidie bedoeld in artikel 2, eerste lid.  
-2.  De beschikking tot verlenen van een subsidie voor een productie-installatie voor de productie van hernieuwbare elektriciteit of hernieuwbare elektriciteit en hernieuwbare warmte met een nominaal vermogen gelijk aan of groter dan 125 MW: 
+2.  De beschikking tot verlenen van een subsidie voor een productie-installatie voor de productie van hernieuwbare elektriciteit of hernieuwbare elektriciteit en hernieuwbare warmte met een nominaal vermogen gelijk aan of groter dan 250 MW: 
 
-a. wordt verleend onder de opschortende voorwaarde dat goedkeuring wordt verkregen van de Europese Commissie in het kader van staatssteun;  
+a. kan worden verleend onder de opschortende voorwaarde dat goedkeuring wordt verkregen van de Europese Commissie in het kader van staatssteun;  
 
 b. kan worden gewijzigd ter verkrijging van de goedkeuring van de Europese Commissie in het kader van staatssteun.   
 
 ### Artikel  5  
 
-Indien sprake is van een situatie als bedoeld in artikel 3, eerste lid, onderdeel b, derde lid, onderdeel b of vierde lid, onderdeel a, komt uitsluitend hernieuwbare elektriciteit, hernieuwbaar gas en hernieuwbare warmte die als gevolg van deze uitbreiding extra is geproduceerd voor subsidie in aanmerking. 
+Indien sprake is van een situatie als bedoeld in artikel 3, eerste lid, onderdeel b, tweede lid, onderdeel b of derde lid, onderdeel b, komt uitsluitend hernieuwbare elektriciteit, hernieuwbaar gas en hernieuwbare warmte die als gevolg van deze uitbreiding extra is geproduceerd voor subsidie in aanmerking. 
+
+### Artikel  5a  
+
+Indien sprake is van een situatie als bedoeld in artikel 3, tweede lid, onderdeel a, en er daardoor voor dezelfde periode, of gedeeltelijk voor dezelfde periode, meerdere beschikkingen zijn afgegeven voor dezelfde productie-installatie en dezelfde soort hernieuwbare energie, wordt in een kalenderjaar de hernieuwbare elektriciteit, het hernieuwbare gas of de hernieuwbare warmte die onder een later afgegeven beschikking extra wordt geproduceerd, subsidiabel indien de subsidiabele productie van de eerder afgegeven beschikking of beschikkingen volledig is benut. 
 
 ### Artikel  6  
 
 1.  De periode waarover subsidie wordt verstrekt vangt aan op de door de subsidie-ontvanger in de aanvraag aangegeven datum, met dien verstande dat de periode waarover subsidie wordt verstrekt niet later aanvangt dan binnen de op grond van artikel 61, eerste lid, vastgestelde termijn waarbinnen de productie-installatie in gebruik moet worden genomen.   
-2.  Onze Minister kan op verzoek van de subsidie-ontvanger voorafgaand aan de periode waarover subsidie wordt verstrekt, het tijdstip van aanvang van de periode waarover subsidie wordt verstrekt maximaal driemaal wijzigen met dien verstande dat dit tijdstip niet later wordt vastgesteld dan binnen de op grond van artikel 61, eerste lid, vastgestelde termijn.  
+2.  Onze Minister kan op verzoek van de subsidie-ontvanger het tijdstip van aanvang van de periode waarover subsidie wordt verstrekt maximaal driemaal wijzigen met dien verstande dat dit verzoek niet later wordt ingediend dan de datum van ingebruikname van de productie-installatie, en dat dit tijdstip niet later wordt vastgesteld, dan binnen de op grond van artikel 61, eerste lid, vastgestelde termijn.   
+3.  Onze Minister kan op verzoek van de subsidie-ontvanger, voor een project voor de productie van hernieuwbare elektriciteit met een nominaal vermogen gelijk aan of groter dan 100 MW en die behoort tot een bij ministeriële regeling aangewezen categorie productie-installaties, bepalen dat het tijdstip van aanvang van de periode waarover subsidie wordt verstrekt voor maximaal vijf gedeelten van de beschikking tot subsidieverlening verschilt. Tussen de startdata zit een periode van tenminste twee maanden.  
 
 ### Artikel  7  
 
-Bij ministeriële regeling wordt bepaald over welke periode voor een categorie productie-installaties subsidie wordt verstrekt. Deze periode kan verschillen voor verschillende categorieën productie-installaties of verschillende wijzen van verdeling van het beschikbare bedrag. Indien een categorie productie-installaties bij ministeriële regeling is aangewezen als een categorie productie-installaties als bedoeld in de artikelen 15, tweede lid, tweede volzin, 23, tweede lid, tweede volzin, 32, tweede lid, tweede volzin, 40 tweede lid, tweede volzin, 48, tweede lid, tweede volzin, of 55, tweede lid, tweede volzin, kan Onze Minister op verzoek van de subsidie-ontvanger de periode waarover subsidie wordt verstrekt met maximaal een jaar verlengen om het ongebruikte aantal kWh, Nm<sup>3</sup> aardgasequivalent of GJ dat voor subsidie in aanmerking komt, te produceren. 
+Bij ministeriële regeling wordt bepaald over welke periode voor een categorie productie-installaties subsidie wordt verstrekt. Deze periode kan verschillen voor verschillende categorieën productie-installaties of verschillende wijzen van verdeling van het beschikbare bedrag. Indien een categorie productie-installaties bij ministeriële regeling is aangewezen als een categorie productie-installaties als bedoeld in de artikelen 15, derde lid, 23, derde lid, 32, derde lid, 40, derde lid, 48, derde lid, of 55, derde lid, kan Onze Minister op verzoek van de subsidie-ontvanger de periode waarover subsidie wordt verstrekt met maximaal een jaar verlengen om het ongebruikte aantal kWh dat voor subsidie in aanmerking komt, te produceren. 
 
 ### §  3  
 
@@ -156,6 +159,12 @@ Bij ministeriële regeling wordt bepaald over welke periode voor een categorie p
 
 De bepalingen in deze paragraaf gelden indien ingevolge artikel 2, derde lid, wordt gekozen voor verdeling op volgorde van binnenkomst. 
 
+### Artikel  10  
+
+1.  Bij regeling van Onze Minister, na overleg met Onze Minister van Financiën, wordt per fase een fasebedrag per kWh vastgesteld voor de subsidie voor de productie van hernieuwbare elektriciteit.   
+2.  Voor de subsidie voor de productie van hernieuwbare elektriciteit geldt het fasebedrag per kWh dat is vastgesteld voor de fase waarin de subsidie-aanvrager zijn aanvraag indient, tenzij dat fasebedrag hoger is dan het basisbedrag vastgesteld voor de betreffende categorie productie-installaties, bedoeld in artikel 11, in welk geval dit basisbedrag geldt.   
+3.  Bij regeling van Onze Minister kan voor een categorie productie-installaties een fasebedrag worden vastgesteld dat afwijkt van het fasebedrag vastgesteld op grond van het eerste lid.  
+
 ### Artikel  11  
 
 1.  Bij regeling van Onze Minister, na overleg met Onze Minister van Financiën, wordt per categorie productie-installaties een basisbedrag per kWh vastgesteld voor de subsidie voor de productie van hernieuwbare elektriciteit.   
@@ -170,18 +179,18 @@ c. het rendement van de productie-installatie.
 
 ### Artikel  12  
 
-1. Bij regeling van Onze Minister, na overleg met Onze Minister van Financiën, wordt ten behoeve van de correctie van het basisbedrag, bedoeld in artikel 14 en de vaststelling van het bedrag dat de subsidie ten hoogste bedraagt, bedoeld in artikel 16, een basiselektriciteitsprijs per kWh vastgesteld die kan verschillen per categorie productie-installaties. Bij regeling van Onze Minister kan een aparte basiselektriciteitsprijs per kWh worden vastgesteld voor elektriciteit die niet op een elektriciteitsnet wordt ingevoed.  
+1. Bij regeling van Onze Minister, na overleg met Onze Minister van Financiën, wordt ten behoeve van de correctie van het fasebedrag of basisbedrag, bedoeld in artikel 14 en de vaststelling van het bedrag dat de subsidie ten hoogste bedraagt, bedoeld in artikel 16, een basiselektriciteitsprijs per kWh vastgesteld die kan verschillen per categorie productie-installaties. Bij regeling van Onze Minister kan een aparte basiselektriciteitsprijs per kWh worden vastgesteld voor elektriciteit die niet op een elektriciteitsnet wordt ingevoed.  
 2.  Binnen een categorie productie-installaties kunnen verschillende basiselektriciteitsprijzen gelden die gerelateerd zijn aan de hoeveelheid geproduceerde kWh die voor subsidie in aanmerking komt.   
-3.  De hoogte van de basiselektriciteitsprijs bedraagt tweederde van de lange termijn elektriciteitsprijs. Indien hernieuwbare elektriciteit wordt opgewekt uit wind, wordt de basiselektriciteitsprijs vermenigvuldigd met de factor 1,25.  
+3.  De hoogte van de basiselektriciteitsprijs bedraagt tweederde van de lange termijn elektriciteitsprijs.  
 4.  Indien op grond van het eerste lid een aparte basiselektriciteitsprijs per kWh wordt vastgesteld voor elektriciteit die niet op een elektriciteitsnet wordt ingevoed dan geldt voor het aantal kWh dat niet op een elektriciteitsnet is ingevoed bij de toepassing van het derde lid en de artikelen 13, 14, eerste lid, onderdeel a, en tweede lid, en 16 de basiselektriciteitsprijs of elektriciteitsprijs voor niet op een elektriciteitsnet ingevoede elektriciteit. 
 
 ### Artikel  13  
 
-Het basisbedrag, bedoeld in artikel 11, en de basiselektriciteitsprijs, bedoeld in artikel 12, die gelden op het moment van aanvraag van de subsidie, gelden gedurende de gehele periode waarover subsidie wordt verstrekt. 
+Het fasebedrag, bedoeld in artikel 10, of het basisbedrag, bedoeld in artikel 11, en de basiselektriciteitsprijs, bedoeld in artikel 12, die gelden op het moment van aanvraag van de subsidie, gelden gedurende de gehele periode waarover subsidie wordt verstrekt. 
 
 ### Artikel  14  
 
-1.  Voor elke subsidie-ontvanger geldt dat het basisbedrag in elk kalenderjaar van de periode waarover subsidie wordt verstrekt wordt gecorrigeerd met: 
+1.  Voor elke subsidie-ontvanger geldt dat het fasebedrag of basisbedrag in elk kalenderjaar van de periode waarover subsidie wordt verstrekt wordt gecorrigeerd met: 
 
 a. de elektriciteitsprijs of, indien de elektriciteitsprijs lager is dan de in artikel 12 bedoelde basiselektriciteitsprijs, de in artikel 12 bedoelde basiselektriciteitsprijs;  
 
@@ -189,13 +198,12 @@ b. de waarde van garanties van oorsprong;
 
 c. andere bij ministeriële regeling vast te stellen correcties die een substantiële invloed hebben op het verschil tussen de gemiddelde kostprijs van hernieuwbare elektriciteit en de relevante gemiddelde marktprijs van elektriciteit en die voortvloeien uit maatregelen van de overheid.     
 2.  De elektriciteitsprijs, bedoeld in het eerste lid, onderdeel a, bedraagt de gemiddelde waarde voor elektriciteit, verminderd met de profielkosten van elektriciteitslevering aan het net en de onbalanskosten.   
-3.  Indien elektriciteit wordt opgewekt uit wind, wordt het bedrag, bedoeld in het eerste lid vermenigvuldigd met de factor 1,25.  
-4.  In de beschikking tot subsidieverlening kan Onze Minister bepalen dat, in aanvulling op het eerste lid, het basisbedrag wordt gecorrigeerd met een bedrag per kWh in verband met de opbrengsten die voor de subsidie-ontvanger voortvloeien uit het systeem van verhandelbare broeikasgasemissierechten, bedoeld in [titel 16.2 van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md).   
-5.  Bij ministeriële regeling worden jaarlijks voor 1 april de in het eerste en vierde lid bedoelde correcties en de in het tweede lid bedoelde profielkosten van elektriciteitslevering aan het net en onbalanskosten voor het voorgaande kalenderjaar vastgesteld, die kunnen verschillen per categorie productie-installaties en binnen een categorie productie-installaties indien op grond van artikel 12 verschillende basiselektriciteitsprijzen voor een categorie productie-installaties zijn vastgesteld.   
-6.  Ten behoeve van de voorschotverlening worden bij ministeriële regeling jaarlijks voor 1 november de in het eerste en vierde lid bedoelde correcties voor het volgende kalenderjaar vastgesteld, die kunnen verschillen per categorie productie-installaties en binnen een categorie productie-installaties indien op grond van artikel 12 verschillende basiselektriciteitsprijzen voor een categorie productie-installaties zijn vastgesteld en waarbij voor de elektriciteitsprijs de gemiddelde waarde in de periode 1 oktober tot en met 30 september voorafgaand aan het kalenderjaar wordt gehanteerd en voor de profielkosten van elektriciteitslevering aan het net en onbalanskosten de waarden die op grond van het vierde lid zijn vastgesteld. Indien na 1 november bij ministeriële regeling een andere categorie productie-installaties wordt aangewezen waarvoor subsidie kan worden aangevraagd, worden de in het eerste en vierde lid bedoelde correcties ten behoeve van de voorschotverlening voor die categorie productie-installaties bij die ministeriële regeling vastgesteld.   
-7.  Indien een productie-installatie geheel of gedeeltelijk bestaat uit gebruikte materialen, kan Onze Minister in de beschikking tot subsidieverlening een correctie op het ingevolge het eerste lid geldende bedrag vaststellen.   
-8.  Indien een productie-installatie ingrijpend wordt gerenoveerd, kan Onze Minister in de beschikking tot subsidieverlening een correctie op het ingevolge het eerste lid geldende bedrag vaststellen.   
-9.  Indien het ingevolge het eerste, vierde, zevende of achtste lid geldende bedrag negatief is, bedraagt het bedrag nul.  
+3.  In de beschikking tot subsidieverlening kan Onze Minister bepalen dat, in aanvulling op het eerste lid, het fasebedrag of basisbedrag wordt gecorrigeerd met een bedrag per kWh in verband met de opbrengsten die voor de subsidie-ontvanger voortvloeien uit het systeem van verhandelbare broeikasgasemissierechten, bedoeld in titel 16.2 van de Wet milieubeheer.   
+4.  Bij ministeriële regeling worden jaarlijks voor 1 april de in het eerste en vierde lid bedoelde correcties en de in het tweede lid bedoelde profielkosten van elektriciteitslevering aan het net en onbalanskosten voor het voorgaande kalenderjaar vastgesteld, die kunnen verschillen per categorie productie-installaties en binnen een categorie productie-installaties indien op grond van artikel 12 verschillende basiselektriciteitsprijzen voor een categorie productie-installaties zijn vastgesteld.   
+5.  Ten behoeve van de voorschotverlening worden bij ministeriële regeling jaarlijks voor 1 november de in het eerste en vierde lid bedoelde correcties voor het volgende kalenderjaar vastgesteld, die kunnen verschillen per categorie productie-installaties en binnen een categorie productie-installaties indien op grond van artikel 12 verschillende basiselektriciteitsprijzen voor een categorie productie-installaties zijn vastgesteld en waarbij voor de elektriciteitsprijs de gemiddelde waarde in de periode 1 september tot en met 31 augustus, of in een bij ministeriele regeling te bepalen periode, voorafgaand aan het kalenderjaar wordt gehanteerd en voor de profielkosten van elektriciteitslevering aan het net en onbalanskosten de waarden die op grond van het vierde lid zijn vastgesteld. Indien na 1 november bij ministeriële regeling een andere categorie productie-installaties wordt aangewezen waarvoor subsidie kan worden aangevraagd, worden de in het eerste en vierde lid bedoelde correcties ten behoeve van de voorschotverlening voor die categorie productie-installaties bij die ministeriële regeling vastgesteld.   
+6.  Indien een productie-installatie geheel of gedeeltelijk bestaat uit gebruikte materialen, kan Onze Minister in de beschikking tot subsidieverlening een correctie op het ingevolge het eerste lid geldende bedrag vaststellen.   
+7.  Indien een productie-installatie ingrijpend wordt gerenoveerd, kan Onze Minister in de beschikking tot subsidieverlening een correctie op het ingevolge het eerste lid geldende bedrag vaststellen.   
+8.  Indien het ingevolge het eerste, vierde, zevende of achtste lid geldende bedrag negatief is, bedraagt het bedrag nul.  
 
 ### Artikel  15  
 
@@ -205,16 +213,18 @@ a. met elkaar te vermenigvuldigen:
 
 1°. het aantal kWh dat in elk kalenderjaar voor subsidie in aanmerking komt en waarvoor garanties van oorsprong zijn verstrekt die aantonen dat de producent met zijn productie-installatie voor hernieuwbare elektriciteit in het betreffende kalenderjaar een hoeveelheid hernieuwbare elektriciteit heeft geproduceerd en op een elektriciteitsnet heeft ingevoed, met  
 
-2°. het voor het betreffende kalenderjaar op basis van artikel 14 geldende gecorrigeerde basisbedrag, en    
+2°. het voor het betreffende kalenderjaar op basis van artikel 14 geldende gecorrigeerde fasebedrag of basisbedrag, en    
 
 b. de overeenkomstig onderdeel a berekende bedragen voor ieder kalenderjaar van de periode waarover subsidie wordt verstrekt bij elkaar op te tellen.     
-2.  Het aantal kWh dat jaarlijks voor subsidie in aanmerking komt bedraagt ten hoogste het in de beschikking tot subsidieverlening vastgestelde maximum aantal kWh dat per jaar kan verschillen en dat gebaseerd is op het vermogen van de installatie en het aantal vollasturen. Bij ministeriële regeling kan voor een categorie productie-installaties worden bepaald dat indien in een jaar minder kWh is geproduceerd dan het aantal kWh dat het betreffende jaar voor subsidie in aanmerking komt, het verschil in kWh bij het aantal kWh dat het volgende jaar voor subsidie in aanmerking komt wordt opgeteld. Bij ministeriële regeling kan een maximum, dat per jaar kan verschillen, worden gesteld aan het aantal kWh dat opgeteld wordt bij het aantal kWh dat het volgende jaar voor subsidie in aanmerking komt.   
-3.  Bij ministeriële regeling kan ten behoeve van de berekening van het maximum aantal kWh, bedoeld in het tweede lid, voor een categorie van productie-installaties een maximum aantal vollasturen worden bepaald.   
-4.  Indien een subsidie-ontvanger hernieuwbare elektriciteit opwekt met een bij ministeriële regeling aangewezen productie-installatie, wordt bij de toepassing van het eerste lid, onderdeel a, ten eerste, opgeteld het aantal kWh dat in elk kalenderjaar voor subsidie in aanmerking komt en waarvoor garanties van oorsprong voor niet-netlevering, bedoeld in [artikel 1 van de Regeling garanties van oorsprong voor duurzame elektriciteit](../../../../../../ministeriele-regeling/regeling/garanties/van/oorsprong/voor/duurzame/elektriciteit/BWBR0016021/README.md) zijn verstrekt die aantonen dat de producent met zijn productie-installatie in het betreffende kalenderjaar een hoeveelheid hernieuwbare elektriciteit heeft geproduceerd en op een installatie, met uitzondering van de productie-installatie, heeft ingevoed. 
+2.  Het aantal kWh dat jaarlijks voor subsidie in aanmerking komt bedraagt ten hoogste het in de beschikking tot subsidieverlening vastgestelde maximum aantal kWh dat per jaar kan verschillen en dat gebaseerd is op het vermogen van de installatie en het aantal vollasturen. Indien de elektriciteitsprijs gedurende een bepaalde periode negatief is, kan het aantal kWh dat jaarlijks voor subsidie in aanmerking komt worden gecorrigeerd, bij ministeriële regeling kunnen regels worden gesteld in welke gevallen en over de wijze waarop deze correctie plaatsvindt.   
+3.  Bij ministeriële regeling kan voor een categorie productie-installaties worden bepaald dat, indien in een jaar minder kWh is geproduceerd dan het aantal kWh dat het betreffende jaar voor subsidie in aanmerking komt, het verschil in kWh bij het aantal kWh dat het volgende jaar voor subsidie in aanmerking komt wordt opgeteld. Bij ministeriële regeling kan een maximum, dat per jaar kan verschillen, worden gesteld aan het aantal kWh dat opgeteld wordt bij het aantal kWh dat het volgende jaar voor subsidie in aanmerking komt.   
+4.  Bij ministeriële regeling kan voor een categorie productie-installaties worden bepaald dat indien in een jaar meer kWh is geproduceerd of uit vorige jaren is overgebracht dan het aantal kWh dat het betreffende jaar voor subsidie in aanmerking komt, waarbij het verschil in kWh dat in een vorig jaar minder is geproduceerd ingevolge het derde lid reeds is opgeteld, het verschil in kWh bij het aantal geproduceerde kWh van het volgende jaar wordt opgeteld. Bij ministeriële regeling kan een maximum, dat per jaar kan verschillen, worden gesteld aan het aantal geproduceerde kWh dat opgeteld wordt bij het aantal geproduceerde kWh van het volgende jaar.  
+5.  Bij ministeriële regeling kan ten behoeve van de berekening van het maximum aantal kWh, bedoeld in het tweede lid, voor een categorie van productie-installaties een maximum aantal vollasturen worden bepaald.   
+6.  Indien een subsidie-ontvanger hernieuwbare elektriciteit opwekt met een bij ministeriële regeling aangewezen productie-installatie, wordt bij de toepassing van het eerste lid, onderdeel a, ten eerste, opgeteld het aantal kWh dat in elk kalenderjaar voor subsidie in aanmerking komt en waarvoor garanties van oorsprong voor niet-netlevering, bedoeld in artikel 1 van de Regeling garanties van oorsprong voor duurzame elektriciteit zijn verstrekt die aantonen dat de producent met zijn productie-installatie in het betreffende kalenderjaar een hoeveelheid hernieuwbare elektriciteit heeft geproduceerd en op een installatie heeft ingevoed. 
 
 ### Artikel  16  
 
-De subsidie bedraagt ten hoogste het verschil tussen het basisbedrag, bedoeld in artikel 11, en de basiselektriciteitsprijs, bedoeld in artikel 12, vermenigvuldigd met het in de beschikking tot subsidieverlening voor de gehele periode waarover subsidie wordt verstrekt bepaald maximum aantal kWh. 
+De subsidie bedraagt ten hoogste het verschil tussen het fasebedrag, bedoeld in artikel 10, of het basisbedrag, bedoeld in artikel 11, en de basiselektriciteitsprijs, bedoeld in artikel 12, vermenigvuldigd met het in de beschikking tot subsidieverlening voor de gehele periode waarover subsidie wordt verstrekt bepaald maximum aantal kWh. 
 
 ### §  3.3 
 
@@ -228,13 +238,14 @@ De bepalingen in deze paragraaf gelden indien ingevolge artikel 2, derde lid, wo
 
 1.  Bij de aanvraag tot subsidieverlening wordt door de producent een tenderbedrag per kWh opgegeven. Bij een gebundelde aanvraag is het door de producent opgegeven tenderbedrag van toepassing op alle aanvragen die deel uitmaken van de gebundelde aanvraag.   
 2.  Bij regeling van Onze Minister, na overleg met Onze Minister van Financiën, wordt per categorie productie-installaties een maximum tenderbedrag per kWh voor hernieuwbare elektriciteit bepaald.   
-3.  Het maximum tenderbedrag bedraagt maximaal de gemiddelde kosten per kWh voor het produceren van hernieuwbare elektriciteit per categorie van productie-installaties.  
+3.  Het maximum tenderbedrag bedraagt maximaal de gemiddelde kosten per kWh voor het produceren van hernieuwbare elektriciteit per categorie van productie-installaties.   
+4.  Indien de subsidie voor de productie van hernieuwbare elektriciteit met behulp van windenergie op zee per locatie wordt verstrekt, wordt bij de aanvraag tot subsidieverlening door de producent voor elke locatie afzonderlijk een tenderbedrag als bedoeld in het eerste lid opgegeven. De gecombineerde aanvraag voor twee of meerdere locaties wordt behandeld als één aanvraag. 
 
 ### Artikel  20  
 
 1. Bij regeling van Onze Minister, na overleg met Onze Minister van Financiën, wordt ten behoeve van de correctie van het tenderbedrag, bedoeld in artikel 22, en de vaststelling van bedrag dat de subsidie ten hoogste bedraagt, bedoeld in artikel 24, een basiselektriciteitsprijs per kWh vastgesteld die kan verschillen per categorie productie-installaties. Bij regeling van Onze Minister kan een aparte basiselektriciteitsprijs per kWh worden vastgesteld voor elektriciteit die niet op een elektriciteitsnet wordt ingevoed.  
 2.  Binnen een categorie productie-installaties kunnen verschillende basiselektriciteitsprijzen gelden die gerelateerd zijn aan de hoeveelheid geproduceerde kWh die voor subsidie in aanmerking komt.   
-3.  De hoogte van de basiselektriciteitsprijs bedraagt tweederde van de lange termijn elektriciteitsprijs. Indien hernieuwbare elektriciteit wordt opgewekt uit wind, wordt de basiselektriciteitsprijs vermenigvuldigd met de factor 1,25.  
+3.  De hoogte van de basiselektriciteitsprijs bedraagt tweederde van de lange termijn elektriciteitsprijs.  
 4.  Indien op grond van het eerste lid een aparte basiselektriciteitsprijs per kWh worden vastgesteld voor elektriciteit die niet op een elektriciteitsnet wordt ingevoed dan geldt voor het aantal kWh dat niet op een elektriciteitsnet is ingevoed bij de toepassing van het derde lid en de artikelen 21, tweede lid, 22, eerste lid, onderdeel a, en tweede lid, en 24 de basiselektriciteitsprijs of elektriciteitsprijs voor niet op een elektriciteitsnet ingevoede elektriciteit. 
 
 ### Artikel  21  
@@ -252,11 +263,10 @@ b. de waarde van de garanties van oorsprong;
 
 c. andere bij ministeriële regeling vast te stellen correcties die een substantiële invloed hebben op het verschil tussen de gemiddelde kostprijs van hernieuwbare elektriciteit en de relevante gemiddelde marktprijs van elektriciteit en die voortvloeien uit maatregelen van de overheid.     
 2.  De elektriciteitsprijs, bedoeld in het eerste lid, onderdeel a, bedraagt de gemiddelde waarde voor elektriciteit, verminderd met de profielkosten van elektriciteitslevering aan het net en de onbalanskosten.   
-3.  Indien elektriciteit wordt opgewekt uit wind, wordt het bedrag, bedoeld in het eerste lid vermenigvuldigd met de factor 1,25.  
-4.  In de beschikking tot subsidieverlening kan Onze Minister bepalen dat, in aanvulling op het eerste lid, het tenderbedrag wordt gecorrigeerd met een bedrag per kWh opbrengsten die voor de subsidie-ontvanger voortvloeien uit het systeem van verhandelbare broeikasgasemissierechten, bedoeld in titel [16.2 van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md).   
-5.  Bij ministeriële regeling worden jaarlijks voor 1 april de in het eerste en vierde lid bedoelde correcties en de in het tweede lid bedoelde profielkosten van elektriciteitslevering aan het net en onbalanskosten voor het voorgaande kalenderjaar vastgesteld, die kunnen verschillen per categorie productie-installaties en binnen een categorie productie-installaties indien op grond van artikel 20 verschillende basiselektriciteitsprijzen voor een categorie productie-installaties zijn vastgesteld.   
-6.  Ten behoeve van de voorschotverlening worden bij ministeriële regeling jaarlijks voor 1 november de in het eerste en vierde lid bedoelde correcties voor het volgende kalenderjaar vastgesteld, die kunnen verschillen per categorie productie-installaties en binnen een categorie productie-installaties indien op grond van artikel 20 verschillende basiselektriciteitsprijzen voor een categorie productie-installaties zijn vastgesteld en waarbij voor de elektriciteitsprijs de gemiddelde waarde in de periode 1 oktober tot en met 30 september voorafgaand aan het kalenderjaar wordt gehanteerd en voor de profielkosten van elektriciteitslevering aan het net en onbalanskosten de waarden die op grond van het vierde lid zijn vastgesteld. Indien na 1 november bij ministeriële regeling een andere categorie productie-installaties wordt aangewezen waarvoor subsidie kan worden aangevraagd, worden de in het eerste en vierde lid bedoelde correcties ten behoeve van de voorschotverlening voor die categorie productie-installaties bij die ministeriële regeling vastgesteld.   
-7.  Indien het ingevolge het eerste of vierde lid geldende bedrag negatief is, bedraagt het bedrag nul.  
+3.  In de beschikking tot subsidieverlening kan Onze Minister bepalen dat, in aanvulling op het eerste lid, het tenderbedrag wordt gecorrigeerd met een bedrag per kWh opbrengsten die voor de subsidie-ontvanger voortvloeien uit het systeem van verhandelbare broeikasgasemissierechten, bedoeld in titel 16.2 van de Wet milieubeheer.   
+4.  Bij ministeriële regeling worden jaarlijks voor 1 april de in het eerste en derde lid bedoelde correcties en de in het tweede lid bedoelde profielkosten van elektriciteitslevering aan het net en onbalanskosten voor het voorgaande kalenderjaar vastgesteld, die kunnen verschillen per categorie productie-installaties en binnen een categorie productie-installaties indien op grond van artikel 20 verschillende basiselektriciteitsprijzen voor een categorie productie-installaties zijn vastgesteld.   
+5.  Ten behoeve van de voorschotverlening worden bij ministeriële regeling jaarlijks voor 1 november de in het eerste en derde lid bedoelde correcties voor het volgende kalenderjaar vastgesteld, die kunnen verschillen per categorie productie-installaties en binnen een categorie productie-installaties indien op grond van artikel 20 verschillende basiselektriciteitsprijzen voor een categorie productie-installaties zijn vastgesteld en waarbij voor de elektriciteitsprijs de gemiddelde waarde in de periode 1 september tot en met 31 augustus, of in een bij ministeriele regeling te bepalen periode, voorafgaand aan het kalenderjaar wordt gehanteerd en voor de profielkosten van elektriciteitslevering aan het net en onbalanskosten de waarden die op grond van het derde lid zijn vastgesteld. Indien na 1 november bij ministeriële regeling een andere categorie productie-installaties wordt aangewezen waarvoor subsidie kan worden aangevraagd, worden de in het eerste en derde lid bedoelde correcties ten behoeve van de voorschotverlening voor die categorie productie-installaties bij die ministeriële regeling vastgesteld.   
+6.  Indien het ingevolge het eerste of derde lid geldende bedrag negatief is, bedraagt het bedrag nul.  
 
 ### Artikel  23  
 
@@ -269,9 +279,11 @@ a. met elkaar te vermenigvuldigen:
 2°. het voor het betreffende kalenderjaar op basis van artikel 22 geldende gecorrigeerde tenderbedrag, en    
 
 b. de overeenkomstig onderdeel a berekende bedragen voor ieder kalenderjaar van de periode waarover subsidie wordt verstrekt bij elkaar op te tellen.     
-2.  Het aantal kWh dat jaarlijks voor subsidie in aanmerking komt bedraagt ten hoogste het in de beschikking tot subsidieverlening vastgestelde maximum aantal kWh dat per jaar kan verschillen en dat gebaseerd is op het vermogen van de installatie en het aantal vollasturen. Bij ministeriële regeling kan voor een categorie productie-installaties worden bepaald dat indien in een jaar minder kWh is geproduceerd dan het aantal kWh dat het betreffende jaar voor subsidie in aanmerking komt, het verschil in kWh bij het aantal kWh dat het volgende jaar voor subsidie in aanmerking komt wordt opgeteld. Bij ministeriële regeling kan een maximum, dat per jaar kan verschillen, worden gesteld aan het aantal kWh dat opgeteld wordt bij het aantal kWh dat het volgende jaar voor subsidie in aanmerking komt.   
-3.  Bij ministeriële regeling kan ten behoeve van de berekening van het maximum aantal kWh, bedoeld in het tweede lid voor een categorie productie-installaties een maximum aantal vollasturen worden bepaald.   
-4.  Indien een subsidie-ontvanger hernieuwbare elektriciteit opwekt met een bij ministeriële regeling aangewezen productie-installatie, wordt bij de toepassing van het eerste lid, onderdeel a, ten eerste, opgeteld het aantal kWh dat in elk kalenderjaar voor subsidie in aanmerking komt en waarvoor garanties van oorsprong voor niet-netlevering, bedoeld in [artikel 1 van de Regeling garanties van oorsprong voor duurzame elektriciteit](../../../../../../ministeriele-regeling/regeling/garanties/van/oorsprong/voor/duurzame/elektriciteit/BWBR0016021/README.md) zijn verstrekt die aantonen dat de producent met zijn productie-installatie in het betreffende kalenderjaar een hoeveelheid hernieuwbare elektriciteit heeft geproduceerd en op een installatie, met uitzondering van de productie-installatie, heeft ingevoed. 
+2.  Het aantal kWh dat jaarlijks voor subsidie in aanmerking komt bedraagt ten hoogste het in de beschikking tot subsidieverlening vastgestelde maximum aantal kWh dat per jaar kan verschillen en dat gebaseerd is op het vermogen van de installatie en het aantal vollasturen. Indien de elektriciteitsprijs gedurende een bepaalde periode negatief is, kan het aantal kWh dat jaarlijks voor subsidie in aanmerking komt worden gecorrigeerd, bij ministeriële regeling kunnen regels worden gesteld in welke gevallen en over de wijze waarop deze correctie plaatsvindt.   
+3.  Bij ministeriële regeling kan voor een categorie productie-installaties worden bepaald dat indien in een jaar minder kWh is geproduceerd dan het aantal kWh dat het betreffende jaar voor subsidie in aanmerking komt, het verschil in kWh bij het aantal kWh dat het volgende jaar voor subsidie in aanmerking komt wordt opgeteld. Bij ministeriële regeling kan een maximum, dat per jaar kan verschillen, worden gesteld aan het aantal kWh dat opgeteld wordt bij het aantal kWh dat het volgende jaar voor subsidie in aanmerking komt.   
+4.  Bij ministeriële regeling kan voor een categorie productie-installaties worden bepaald dat indien in een jaar meer kWh is geproduceerd of uit vorige jaren is overgebracht dan het aantal kWh dat het betreffende jaar voor subsidie in aanmerking komt, waarbij het verschil in kWh dat in een vorig jaar minder is geproduceerd ingevolge het derde lid reeds is opgeteld, het verschil in kWh bij het aantal geproduceerde kWh van het volgende jaar wordt opgeteld. Bij ministeriële regeling kan een maximum, dat per jaar kan verschillen, worden gesteld aan het aantal geproduceerde kWh dat opgeteld wordt bij het aantal geproduceerde kWh van het volgende jaar.  
+5.  Bij ministeriële regeling kan ten behoeve van de berekening van het maximum aantal kWh, bedoeld in het tweede lid voor een categorie productie-installaties een maximum aantal vollasturen worden bepaald.   
+6.  Indien een subsidie-ontvanger hernieuwbare elektriciteit opwekt met een bij ministeriële regeling aangewezen productie-installatie, wordt bij de toepassing van het eerste lid, onderdeel a, ten eerste, opgeteld het aantal kWh dat in elk kalenderjaar voor subsidie in aanmerking komt en waarvoor garanties van oorsprong voor niet-netlevering, bedoeld in artikel 1 van de Regeling garanties van oorsprong voor duurzame elektriciteit zijn verstrekt die aantonen dat de producent met zijn productie-installatie in het betreffende kalenderjaar een hoeveelheid hernieuwbare elektriciteit heeft geproduceerd en op een installatie heeft ingevoed. 
 
 ### Artikel  24  
 
@@ -306,13 +318,19 @@ Aan de producent van hernieuwbaar gas dat is geproduceerd door een bij regeling 
 
 De bepalingen in deze paragraaf gelden indien ingevolge artikel 2, derde lid, wordt gekozen voor verdeling op volgorde van binnenkomst. 
 
+### Artikel  27  
+
+1.  Bij regeling van Onze Minister, na overleg met Onze Minister van Financiën, wordt per fase een fasebedrag per kWh vastgesteld voor de subsidie voor de productie van hernieuwbaar gas.   
+2.  Voor de subsidie voor de productie van hernieuwbaar gas geldt het fasebedrag per kWh dat is vastgesteld voor de fase waarin de subsidie-aanvrager zijn aanvraag indient, tenzij dat fasebedrag hoger is dan het basisbedrag vastgesteld voor de betreffende categorie productie-installaties, bedoeld in artikel 28, in welk geval dit basisbedrag geldt.   
+3.  Bij regeling van Onze Minister kan voor een categorie productie-installaties een fasebedrag worden vastgesteld dat afwijkt van het fasebedrag vastgesteld op grond van het eerste lid.  
+
 ### Artikel  28  
 
-1.  Bij regeling van Onze Minister, na overleg met Onze Minister van Financiën, wordt per categorie productie-installaties een basisbedrag per Nm<sup>3</sup> aardgasequivalent of GJ vastgesteld voor de subsidie voor de productie van hernieuwbaar gas.   
-2.  Het basisbedrag bedraagt ten hoogste de gemiddelde kosten per Nm<sup>3</sup> aardgasequivalent of GJ voor het produceren van hernieuwbaar gas per categorie van productie-installaties.   
-3.  Voor de Nm<sup>3</sup> aardgasequivalent of GJ die voor subsidie in aanmerking komen kunnen verschillende basisbedragen gelden die zijn gerelateerd aan: 
+1.  Bij regeling van Onze Minister, na overleg met Onze Minister van Financiën, wordt per categorie productie-installaties een basisbedrag per kWh vastgesteld voor de subsidie voor de productie van hernieuwbaar gas.   
+2.  Het basisbedrag bedraagt ten hoogste de gemiddelde kosten per kWh voor het produceren van hernieuwbaar gas per categorie van productie-installaties.   
+3.  Voor de kWh die voor subsidie in aanmerking komen kunnen verschillende basisbedragen gelden die zijn gerelateerd aan: 
 
-a. de hoeveelheid geproduceerde Nm<sup>3</sup> aardgasequivalent of GJ die voor subsidie in aanmerking komt;  
+a. de hoeveelheid geproduceerde kWh die voor subsidie in aanmerking komt;  
 
 b. het aantal vollasturen van de productie-installatie;  
 
@@ -320,24 +338,24 @@ c. het rendement van de productie-installatie.
 
 ### Artikel  29  
 
-1. Bij regeling van Onze Minister, na overleg met Onze Minister van Financiën, wordt ten behoeve van de correctie van het basisbedrag, bedoeld in artikel 31 en de vaststelling van het bedrag dat de subsidie ten hoogste bedraagt, bedoeld in artikel 33, een basisenergieprijs per Nm<sup>3</sup> aardgasequivalent of GJ vastgesteld die kan verschillen per categorie productie-installaties.  
+1. Bij regeling van Onze Minister, na overleg met Onze Minister van Financiën, wordt ten behoeve van de correctie van het fasebedrag of basisbedrag, bedoeld in artikel 31 en de vaststelling van het bedrag dat de subsidie ten hoogste bedraagt, bedoeld in artikel 33, een basisenergieprijs per kWh vastgesteld die kan verschillen per categorie productie-installaties.  
 2.  De hoogte van de basisenergieprijs bedraagt tweederde van de lange termijn gasprijs voor de betreffende toepassing van het gas. 
 
 ### Artikel  30  
 
-Het basisbedrag, bedoeld in artikel 28, en de basisenergieprijs, bedoeld in artikel 29, die gelden op het moment van aanvraag van de subsidie, gelden gedurende de gehele periode waarover subsidie wordt verstrekt. 
+Het fasebedrag, bedoeld in artikel 27, of het basisbedrag, bedoeld in artikel 28, en de basisenergieprijs, bedoeld in artikel 29, die gelden op het moment van aanvraag van de subsidie, gelden gedurende de gehele periode waarover subsidie wordt verstrekt. 
 
 ### Artikel  31  
 
-1.  Voor elke subsidie-ontvanger geldt dat het basisbedrag in elk kalenderjaar van de periode waarover subsidie wordt verstrekt wordt gecorrigeerd met: 
+1.  Voor elke subsidie-ontvanger geldt dat het fasebedrag of basisbedrag in elk kalenderjaar van de periode waarover subsidie wordt verstrekt wordt gecorrigeerd met: 
 
 a. de energieprijs of, indien de energieprijs lager is dan de in artikel 29 bedoelde basisenergieprijs, de in artikel 29 bedoelde basisenergieprijs;  
 
 b. andere bij ministeriële regeling vast te stellen correcties die een substantiële invloed hebben op het verschil tussen de gemiddelde kostprijs van de hernieuwbaar gas en de relevante gemiddelde marktprijs van gas en die voortvloeien uit maatregelen van de overheid.     
 2.  De energieprijs, bedoeld in het eerste lid, onderdeel a, bedraagt de gemiddelde waarde voor gas voor de betreffende toepassing van het gas.  
-3.  In de beschikking tot subsidieverlening kan Onze Minister bepalen dat, in aanvulling op het eerste lid, het basisbedrag wordt gecorrigeerd met een bedrag per Nm<sup>3</sup> aardgasequivalent of GJ in verband met opbrengsten die voor de subsidie-ontvanger voortvloeien uit het systeem van verhandelbare broeikasgasemissierechten, bedoeld in [titel 16.2 van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md).   
+3.  In de beschikking tot subsidieverlening kan Onze Minister bepalen dat, in aanvulling op het eerste lid, het fasebedrag of basisbedrag wordt gecorrigeerd met een bedrag per kWh in verband met opbrengsten die voor de subsidie-ontvanger voortvloeien uit het systeem van verhandelbare broeikasgasemissierechten, bedoeld in titel 16.2 van de Wet milieubeheer.   
 4.  Bij ministeriële regeling worden jaarlijks voor 1 april de in het eerste en derde lid bedoelde correcties vastgesteld, die kunnen verschillen per categorie productie-installaties.   
-5.  Ten behoeve van de voorschotverlening worden bij ministeriële regeling jaarlijks voor 1 november de in het eerste en derde lid bedoelde correcties voor het volgende kalenderjaar vastgesteld, die kunnen verschillen per categorie productie-installaties, waarbij voor de energieprijs de gemiddelde waarde in de periode 1 oktober tot en met 30 september voorafgaand aan het kalenderjaar wordt gehanteerd. Indien na 1 november bij ministeriële regeling een andere categorie productie-installaties wordt aangewezen waarvoor subsidie kan worden aangevraagd, worden de in het eerste en derde lid bedoelde correcties ten behoeve van de voorschotverlening voor die categorie productie-installaties bij die ministeriële regeling vastgesteld.   
+5.  Ten behoeve van de voorschotverlening worden bij ministeriële regeling jaarlijks voor 1 november de in het eerste en derde lid bedoelde correcties voor het volgende kalenderjaar vastgesteld, die kunnen verschillen per categorie productie-installaties, en waarbij voor de elektriciteitsprijs de gemiddelde waarde in de periode 1 september tot en met 31 augustus, of in een bij ministeriele regeling te bepalen periode, voorafgaand aan het kalenderjaar wordt gehanteerd. Indien na 1 november bij ministeriële regeling een andere categorie productie-installaties wordt aangewezen waarvoor subsidie kan worden aangevraagd, worden de in het eerste en derde lid bedoelde correcties ten behoeve van de voorschotverlening voor die categorie productie-installaties bij die ministeriële regeling vastgesteld.   
 6.  Indien een productie-installatie geheel of gedeeltelijk bestaat uit gebruikte materialen, kan Onze Minister in de beschikking tot subsidieverlening een correctie op het ingevolge het eerste lid geldende subsidiebedrag vaststellen.   
 7.  Indien een productie-installatie ingrijpend wordt gerenoveerd, kan Onze Minister in de beschikking tot subsidieverlening een correctie op het ingevolge het eerste lid geldende subsidiebedrag vaststellen.   
 8.  Indien het ingevolge het eerste, derde, zesde of zevende lid geldende bedrag negatief is, bedraagt het bedrag nul.  
@@ -348,23 +366,25 @@ b. andere bij ministeriële regeling vast te stellen correcties die een substant
 
 a. met elkaar te vermenigvuldigen: 
 
-1°. het aantal Nm<sup>3</sup> aardgasequivalent of GJ dat in elk kalenderjaar voor subsidie in aanmerking komt die een producent van hernieuwbaar gas in dat kalenderjaar heeft geproduceerd en op een gasnet heeft ingevoed, met  
+1°. het aantal kWh dat in elk kalenderjaar voor subsidie in aanmerking komt en waarvoor garanties van oorsprong zijn verstrekt die aantonen dat de producent met zijn productie-installatie voor hernieuwbaar gas in het betreffende kalenderjaar een hoeveelheid hernieuwbaar gas heeft geproduceerd en op een gasnet heeft ingevoed, met  
 
-2°. het voor het betreffende kalenderjaar op basis van artikel 31 geldende gecorrigeerde basisbedrag, en    
+2°. het voor het betreffende kalenderjaar op basis van artikel 31 geldende gecorrigeerde fasebedrag of basisbedrag, en    
 
 b. de overeenkomstig onderdeel a berekende bedragen voor ieder kalenderjaar van de periode waarover subsidie wordt verstrekt bij elkaar op te tellen.     
-2.  Het aantal Nm<sup>3</sup> aardgasequivalent of GJ dat jaarlijks voor subsidie in aanmerking komt bedraagt ten hoogste het in de beschikking tot subsidieverlening vastgestelde maximum aantal Nm<sup>3</sup> aardgasequivalent of GJ dat per jaar kan verschillen en dat gebaseerd is op het vermogen van de installatie en het aantal vollasturen. Bij ministeriële regeling kan voor een categorie productie-installaties worden bepaald dat indien in een jaar minder Nm<sup>3</sup> aardgasequivalent of GJ is geproduceerd dan het aantal Nm<sup>3</sup> aardgasequivalent of GJ dat het betreffende jaar voor subsidie in aanmerking komt, het verschil in Nm<sup>3</sup> aardgasequivalent of GJ bij het aantal Nm<sup>3</sup> aardgasequivalent of GJ dat het volgende jaar voor subsidie in aanmerking komt wordt opgeteld. Bij ministeriële regeling kan een maximum, dat per jaar kan verschillen, worden gesteld aan het aantal Nm<sup>3</sup> aardgasequivalent of GJ dat opgeteld wordt bij het aantal Nm<sup>3</sup> aardgasequivalent of GJ dat het volgende jaar voor subsidie in aanmerking komt.   
-3.  Bij ministeriële regeling kan ten behoeve van de berekening van het maximum aantal Nm<sup>3</sup> aardgasequivalent of GJ, bedoeld in het tweede lid, per categorie productie-installaties een maximum aantal vollasturen worden bepaald.   
-4.  Bij ministeriële regeling kan voor een categorie productie-installaties worden bepaald dat bij de toepassing van het eerste lid, onderdeel a, ten eerste, wordt opgeteld het aantal Nm<sup>3</sup> aardgasequivalent dat in elk kalenderjaar voor subsidie in aanmerking komt die een producent van hernieuwbaar gas in dat kalenderjaar heeft geproduceerd en op een gasnet heeft laten invoeden.   
-5.  Bij ministeriële regeling kan voor een categorie productie-installaties worden bepaald dat voor de berekening van de subsidie in afwijking van het eerste lid, onderdeel a, ten eerste, wordt genomen het aantal GJ dat in elk kalenderjaar voor subsidie in aanmerking komt en waarvoor de producent kan aantonen dat de producent met zijn productie-installatie voor hernieuwbaar gas in het betreffende kalenderjaar een hoeveelheid hernieuwbaar gas heeft geproduceerd: 
+2.  Het aantal kWh dat jaarlijks voor subsidie in aanmerking komt bedraagt ten hoogste het in de beschikking tot subsidieverlening vastgestelde maximum aantal kWh dat per jaar kan verschillen en dat gebaseerd is op het vermogen van de installatie en het aantal vollasturen.   
+3.  Bij ministeriële regeling kan voor een categorie productie-installaties worden bepaald dat indien in een jaar minder kWh is geproduceerd dan het aantal kWh dat het betreffende jaar voor subsidie in aanmerking komt, het verschil in kWh bij het aantal kWh dat het volgende jaar voor subsidie in aanmerking komt wordt opgeteld. Bij ministeriële regeling kan een maximum, dat per jaar kan verschillen, worden gesteld aan het aantal kWh dat opgeteld wordt bij het aantal kWh dat het volgende jaar voor subsidie in aanmerking komt.   
+4.  Bij ministeriële regeling kan voor een categorie productie-installaties worden bepaald dat indien in een jaar meer kWh is geproduceerd of uit vorige jaren is overgebracht dan het aantal kWh dat het betreffende jaar voor subsidie in aanmerking komt, waarbij het verschil in kWh dat in een vorig jaar minder is geproduceerd ingevolge het derde lid reeds is opgeteld, het verschil in kWh bij het aantal geproduceerde kWh van het volgende jaar wordt opgeteld. Bij ministeriële regeling kan een maximum, dat per jaar kan verschillen, worden gesteld aan het aantal geproduceerde kWh dat opgeteld wordt bij het aantal geproduceerde kWh van het volgende jaar.  
+5.  Bij ministeriële regeling kan ten behoeve van de berekening van het maximum aantal kWh, bedoeld in het tweede lid, per categorie productie-installaties een maximum aantal vollasturen worden bepaald.   
+6.  Bij ministeriële regeling kan voor een categorie productie-installaties worden bepaald dat bij de toepassing van het eerste lid, onderdeel a, ten eerste, wordt opgeteld het aantal kWh dat in elk kalenderjaar voor subsidie in aanmerking komt die een producent van hernieuwbaar gas in dat kalenderjaar heeft geproduceerd en op een gasnet heeft laten invoeden.   
+7.  Bij ministeriële regeling kan voor een categorie productie-installaties worden bepaald dat voor de berekening van de subsidie in afwijking van het eerste lid, onderdeel a, ten eerste, wordt genomen het aantal kWh dat in elk kalenderjaar voor subsidie in aanmerking komt en waarvoor de producent kan aantonen dat de producent met zijn productie-installatie voor hernieuwbaar gas in het betreffende kalenderjaar een hoeveelheid hernieuwbaar gas heeft geproduceerd: 
 
 a. waarmee hernieuwbare warmte is geproduceerd die nuttig is gebruikt of  
 
-b. waarmee hernieuwbare warmte die nuttig is gebruikt en hernieuwbare elektriciteit is geproduceerd, waarvoor garanties van oorsprong zijn verstrekt die aantonen dat een hoeveelheid hernieuwbare elektriciteit is geproduceerd en op een elektriciteitsnet is ingevoed of een hoeveelheid hernieuwbare warmte is geproduceerd en nuttig is gebruikt, of waarvoor garanties van oorsprong voor niet-netlevering, bedoeld in [artikel 1 van de Regeling garanties van oorsprong voor duurzame elektriciteit](../../../../../../ministeriele-regeling/regeling/garanties/van/oorsprong/voor/duurzame/elektriciteit/BWBR0016021/README.md), zijn verstrekt die aantonen dat in het betreffende kalenderjaar een hoeveelheid hernieuwbare elektriciteit is geproduceerd en op een installatie, met uitzondering van de productie-installatie, is ingevoed.   
+b. waarmee hernieuwbare warmte die nuttig is gebruikt en hernieuwbare elektriciteit is geproduceerd, waarvoor garanties van oorsprong zijn verstrekt die aantonen dat een hoeveelheid hernieuwbare elektriciteit is geproduceerd en op een elektriciteitsnet is ingevoed of een hoeveelheid hernieuwbare warmte is geproduceerd en nuttig is gebruikt, of waarvoor garanties van oorsprong voor niet-netlevering, bedoeld in artikel 1 van de Regeling garanties van oorsprong voor duurzame elektriciteit, zijn verstrekt die aantonen dat in het betreffende kalenderjaar een hoeveelheid hernieuwbare elektriciteit is geproduceerd en op een installatie is ingevoed.   
 
 ### Artikel  33  
 
-De subsidie bedraagt ten hoogste het verschil tussen het basisbedrag, bedoeld in artikel 28, en de basisenergieprijs, bedoeld in artikel 29, vermenigvuldigd met het in de beschikking tot subsidieverlening voor de gehele periode waarover subsidie wordt verstrekt bepaald maximum aantal Nm<sup>3</sup> aardgasequivalent of GJ. 
+De subsidie bedraagt ten hoogste het verschil tussen het fasebedrag, bedoeld in artikel 27, of het basisbedrag, bedoeld in artikel 28, en de basisenergieprijs, bedoeld in artikel 29, vermenigvuldigd met het in de beschikking tot subsidieverlening voor de gehele periode waarover subsidie wordt verstrekt bepaald maximum aantal kWh. 
 
 ### §  4.3 
 
@@ -376,13 +396,13 @@ De bepalingen in deze paragraaf gelden indien ingevolge artikel 2, derde lid, wo
 
 ### Artikel  36  
 
-1.  Bij de aanvraag tot subsidieverlening wordt door de producent een tenderbedrag per Nm<sup>3</sup> aardgasequivalent of GJ opgegeven. Bij een gebundelde aanvraag is het door de producent opgegeven tenderbedrag van toepassing op alle aanvragen die deel uitmaken van de gebundelde aanvraag.   
-2.  Bij regeling van Onze Minister, na overleg met Onze Minister van Financiën, wordt per categorie productie-installaties een maximum tenderbedrag per Nm<sup>3</sup> aardgasequivalent of GJ voor hernieuwbaar gas bepaald.   
-3.  Het maximum tenderbedrag bedraagt maximaal de gemiddelde kosten per Nm<sup>3</sup> aardgasequivalent of GJ voor het produceren van hernieuwbaar gas per categorie productie-installaties voor hernieuwbaar gas.  
+1.  Bij de aanvraag tot subsidieverlening wordt door de producent een tenderbedrag per kWh opgegeven. Bij een gebundelde aanvraag is het door de producent opgegeven tenderbedrag van toepassing op alle aanvragen die deel uitmaken van de gebundelde aanvraag.   
+2.  Bij regeling van Onze Minister, na overleg met Onze Minister van Financiën, wordt per categorie productie-installaties een maximum tenderbedrag per kWh voor hernieuwbaar gas bepaald.   
+3.  Het maximum tenderbedrag bedraagt maximaal de gemiddelde kosten per kWh voor het produceren van hernieuwbaar gas per categorie productie-installaties voor hernieuwbaar gas.  
 
 ### Artikel  37  
 
-1. Bij regeling van Onze Minister, na overleg met Onze Minister van Financiën, wordt ten behoeve van de correctie van het tenderbedrag, bedoeld in artikel 39, en de vaststelling van het bedrag dat de subsidie ten hoogste bedraagt, bedoeld in artikel 41, een basisenergieprijs per Nm<sup>3</sup> aardgasequivalent of GJ vastgesteld die kan verschillen voor verschillende categorieën productie-installaties.  
+1. Bij regeling van Onze Minister, na overleg met Onze Minister van Financiën, wordt ten behoeve van de correctie van het tenderbedrag, bedoeld in artikel 39, en de vaststelling van het bedrag dat de subsidie ten hoogste bedraagt, bedoeld in artikel 41, een basisenergieprijs per kWh vastgesteld die kan verschillen voor verschillende categorieën productie-installaties.  
 2.  De hoogte van de basisenergieprijs bedraagt tweederde van de lange termijn gasprijs. 
 
 ### Artikel  38  
@@ -398,9 +418,9 @@ a. de energieprijs of, indien de energieprijs lager is dan de in artikel 29 bedo
 
 b. andere bij ministeriële regeling vast te stellen correcties die een substantiële invloed hebben op het verschil tussen de gemiddelde kostprijs van het hernieuwbaar gas en de relevante gemiddelde marktprijs van gas en die voortvloeien uit maatregelen van de overheid.     
 2.  De energieprijs, bedoeld in het eerste lid, onderdeel a, bedraagt de gemiddelde waarde voor gas voor de betreffende toepassing van het gas.  
-3.  In de beschikking tot subsidieverlening kan Onze Minister bepalen dat, in aanvulling op het eerste lid, het tenderbedrag wordt gecorrigeerd met een bedrag per Nm<sup>3</sup> aardgasequivalent of GJ in verband met opbrengsten die voor de subsidie-ontvanger voortvloeien uit het systeem van verhandelbare broeikasgasemissierechten, bedoeld in [titel 16.2 van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md).   
+3.  In de beschikking tot subsidieverlening kan Onze Minister bepalen dat, in aanvulling op het eerste lid, het tenderbedrag wordt gecorrigeerd met een bedrag per kWh in verband met opbrengsten die voor de subsidie-ontvanger voortvloeien uit het systeem van verhandelbare broeikasgasemissierechten, bedoeld in titel 16.2 van de Wet milieubeheer.   
 4.  Bij ministeriële regeling worden jaarlijks voor 1 april de in het eerste en derde lid bedoelde correcties vastgesteld, die kunnen verschillen per categorie productie-installaties.   
-5.  Ten behoeve van de voorschotverlening worden bij ministeriële regeling jaarlijks voor 1 november de in het eerste en derde lid bedoelde correcties voor het volgende kalenderjaar vastgesteld, die kunnen verschillen per categorie productie-installaties, waarbij voor de energieprijs de gemiddelde waarde in de periode 1 oktober tot en met 30 september voorafgaand aan het kalenderjaar wordt gehanteerd. Indien na 1 november bij ministeriële regeling een andere categorie productie-installaties wordt aangewezen waarvoor subsidie kan worden aangevraagd, worden de in het eerste en derde lid bedoelde correcties ten behoeve van de voorschotverlening voor die categorie productie-installaties bij die ministeriële regeling vastgesteld.   
+5.  Ten behoeve van de voorschotverlening worden bij ministeriële regeling jaarlijks voor 1 november de in het eerste en derde lid bedoelde correcties voor het volgende kalenderjaar vastgesteld, die kunnen verschillen per categorie productie-installaties, en waarbij voor de elektriciteitsprijs de gemiddelde waarde in de periode 1 september tot en met 31 augustus, of in een bij ministeriele regeling te bepalen periode, voorafgaand aan het kalenderjaar wordt gehanteerd. Indien na 1 november bij ministeriële regeling een andere categorie productie-installaties wordt aangewezen waarvoor subsidie kan worden aangevraagd, worden de in het eerste en derde lid bedoelde correcties ten behoeve van de voorschotverlening voor die categorie productie-installaties bij die ministeriële regeling vastgesteld.   
 6.  Indien het ingevolge het eerste of derde lid geldende bedrag negatief is, bedraagt het bedrag nul.  
 
 ### Artikel  40  
@@ -409,23 +429,25 @@ b. andere bij ministeriële regeling vast te stellen correcties die een substant
 
 a. met elkaar te vermenigvuldigen: 
 
-1°. het aantal Nm<sup>3</sup> aardgasequivalent of GJ dat in elk kalenderjaar voor subsidie in aanmerking komt die een producent van hernieuwbaar gas in dat kalenderjaar heeft geproduceerd en op een gasnet heeft ingevoed, met  
+1°. het aantal kWh dat in elk kalenderjaar voor subsidie in aanmerking komt en waarvoor garanties van oorsprong zijn verstrekt die aantonen dat de producent met zijn productie-installatie voor hernieuwbaar gas in het betreffende kalenderjaar een hoeveelheid hernieuwbaar gas heeft geproduceerd en op een gasnet heeft ingevoed, met  
 
 2°. het voor het betreffende kalenderjaar op basis van artikel 39 geldende gecorrigeerde tenderbedrag, en    
 
 b. de overeenkomstig onderdeel a berekende bedragen voor ieder kalenderjaar van de periode waarover subsidie wordt verstrekt bij elkaar op te tellen.     
-2.  Het aantal Nm<sup>3</sup> aardgasequivalent of GJ dat jaarlijks voor subsidie in aanmerking komt bedraagt ten hoogste het in de beschikking tot subsidieverlening vastgestelde maximum aantal Nm<sup>3</sup> aardgasequivalent of GJ dat per jaar kan verschillen en dat gebaseerd is op het vermogen van de installatie en het aantal vollasturen. Bij ministeriële regeling kan voor een categorie productie-installaties worden bepaald dat indien in een jaar minder Nm<sup>3</sup> aardgasequivalent of GJ is geproduceerd dan het aantal Nm<sup>3</sup> aardgasequivalent of GJ dat het betreffende jaar voor subsidie in aanmerking komt, het verschil in Nm<sup>3</sup> aardgasequivalent of GJ bij het aantal Nm<sup>3</sup> aardgasequivalent of GJ dat het volgende jaar voor subsidie in aanmerking komt wordt opgeteld. Bij ministeriële regeling kan een maximum, dat per jaar kan verschillen, worden gesteld aan het aantal Nm<sup>3</sup> aardgasequivalent of GJ dat opgeteld wordt bij het aantal Nm<sup>3</sup> aardgasequivalent of GJ dat het volgende jaar voor subsidie in aanmerking komt.   
-3.  Bij ministeriële regeling kan ten behoeve van de berekening van het maximum aantal Nm<sup>3</sup> aardgasequivalent of GJ, bedoeld in het tweede lid, per categorie productie-installaties een maximum aantal vollasturen worden bepaald.   
-4.  Bij ministeriële regeling kan voor een categorie productie-installaties worden bepaald dat bij de toepassing van het eerste lid, onderdeel a, ten eerste, wordt opgeteld het aantal Nm<sup>3</sup> aardgasequivalent dat in elk kalenderjaar voor subsidie in aanmerking komt die een producent van hernieuwbaar gas in dat kalenderjaar heeft geproduceerd en op een gasnet heeft laten invoeden.   
-5.  Bij ministeriële regeling kan voor een categorie productie-installaties worden bepaald dat voor de berekening van de subsidie in afwijking van het eerste lid, onderdeel a, ten eerste, wordt genomen het aantal GJ dat in elk kalenderjaar voor subsidie in aanmerking komt en waarvoor de producent kan aantonen dat de producent met zijn productie-installatie voor hernieuwbaar gas in het betreffende kalenderjaar een hoeveelheid hernieuwbaar gas heeft geproduceerd: 
+2.  Het aantal kWh dat jaarlijks voor subsidie in aanmerking komt bedraagt ten hoogste het in de beschikking tot subsidieverlening vastgestelde maximum aantal kWh dat per jaar kan verschillen en dat gebaseerd is op het vermogen van de installatie en het aantal vollasturen.   
+3.  Bij ministeriële regeling kan voor een categorie productie-installaties worden bepaald dat indien in een jaar minder kWh is geproduceerd dan het aantal kWh dat het betreffende jaar voor subsidie in aanmerking komt, het verschil in kWh bij het aantal kWh dat het volgende jaar voor subsidie in aanmerking komt wordt opgeteld. Bij ministeriële regeling kan een maximum, dat per jaar kan verschillen, worden gesteld aan het aantal kWh dat opgeteld wordt bij het aantal kWh dat het volgende jaar voor subsidie in aanmerking komt.   
+4.  Bij ministeriële regeling kan voor een categorie productie-installaties worden bepaald dat indien in een jaar meer kWh is geproduceerd of uit vorige jaren is overgebracht dan het aantal kWh dat het betreffende jaar voor subsidie in aanmerking komt, waarbij het verschil in kWh dat in een vorig jaar minder is geproduceerd ingevolge het derde lid reeds is opgeteld, het verschil in kWh bij het aantal geproduceerde kWh van het volgende jaar wordt opgeteld. Bij ministeriële regeling kan een maximum, dat per jaar kan verschillen, worden gesteld aan het aantal geproduceerde kWh dat opgeteld wordt bij het aantal geproduceerde kWh van het volgende jaar.  
+5.  Bij ministeriële regeling kan ten behoeve van de berekening van het maximum aantal kWh, bedoeld in het tweede lid, per categorie productie-installaties een maximum aantal vollasturen worden bepaald.   
+6.  Bij ministeriële regeling kan voor een categorie productie-installaties worden bepaald dat bij de toepassing van het eerste lid, onderdeel a, ten eerste, wordt opgeteld het aantal kWh dat in elk kalenderjaar voor subsidie in aanmerking komt die een producent van hernieuwbaar gas in dat kalenderjaar heeft geproduceerd en op een gasnet heeft laten invoeden.   
+7.  Bij ministeriële regeling kan voor een categorie productie-installaties worden bepaald dat voor de berekening van de subsidie in afwijking van het eerste lid, onderdeel a, ten eerste, wordt genomen het aantal kWh dat in elk kalenderjaar voor subsidie in aanmerking komt en waarvoor de producent kan aantonen dat de producent met zijn productie-installatie voor hernieuwbaar gas in het betreffende kalenderjaar een hoeveelheid hernieuwbaar gas heeft geproduceerd: 
 
 a. waarmee hernieuwbare warmte is geproduceerd die nuttig is gebruikt of  
 
-b. waarmee hernieuwbare warmte die nuttig is gebruikt en hernieuwbare elektriciteit is geproduceerd, waarvoor garanties van oorsprong zijn verstrekt die aantonen dat een hoeveelheid hernieuwbare elektriciteit is geproduceerd en op een elektriciteitsnet is ingevoed of een hoeveelheid hernieuwbare warmte is geproduceerd en nuttig is gebruikt, of waarvoor garanties van oorsprong voor niet-netlevering, bedoeld in [artikel 1 van de Regeling garanties van oorsprong voor duurzame elektriciteit](../../../../../../ministeriele-regeling/regeling/garanties/van/oorsprong/voor/duurzame/elektriciteit/BWBR0016021/README.md), zijn verstrekt die aantonen dat in het betreffende kalenderjaar een hoeveelheid hernieuwbare elektriciteit is geproduceerd en op een installatie, met uitzondering van de productie-installatie, is ingevoed.   
+b. waarmee hernieuwbare warmte die nuttig is gebruikt en hernieuwbare elektriciteit is geproduceerd, waarvoor garanties van oorsprong zijn verstrekt die aantonen dat een hoeveelheid hernieuwbare elektriciteit is geproduceerd en op een elektriciteitsnet is ingevoed of een hoeveelheid hernieuwbare warmte is geproduceerd en nuttig is gebruikt, of waarvoor garanties van oorsprong voor niet-netlevering, bedoeld in artikel 1 van de Regeling garanties van oorsprong voor duurzame elektriciteit, zijn verstrekt die aantonen dat in het betreffende kalenderjaar een hoeveelheid hernieuwbare elektriciteit is geproduceerd en op een installatie is ingevoed.   
 
 ### Artikel  41  
 
-De subsidie bedraagt ten hoogste het verschil tussen het tenderbedrag, bedoeld in artikel 36, en de basisenergieprijs, bedoeld in artikel 37, vermenigvuldigd met het in de beschikking tot subsidieverlening voor de gehele periode waarover subsidie wordt verstrekt bepaald maximum aantal Nm<sup>3</sup> aardgasequivalent of GJ. 
+De subsidie bedraagt ten hoogste het verschil tussen het tenderbedrag, bedoeld in artikel 36, en de basisenergieprijs, bedoeld in artikel 37, vermenigvuldigd met het in de beschikking tot subsidieverlening voor de gehele periode waarover subsidie wordt verstrekt bepaald maximum aantal kWh. 
 
 ### §  5  
 
@@ -447,13 +469,19 @@ Bij regeling van Onze Minister kunnen categorieën productie-installaties die he
 
 De bepalingen in deze paragraaf gelden indien ingevolge artikel 2, derde lid, wordt gekozen voor verdeling op volgorde van binnenkomst. 
 
+### Artikel  43a  
+
+1.  Bij regeling van Onze Minister, na overleg met Onze Minister van Financiën, wordt per fase een fasebedrag per kWh vastgesteld voor de subsidie voor de productie van hernieuwbare warmte, of hernieuwbare warmte en hernieuwbare elektriciteit.   
+2.  Voor de subsidie voor de productie van hernieuwbare warmte of hernieuwbare warmte en hernieuwbare elektriciteit geldt het fasebedrag per kWh dat is vastgesteld voor de fase waarin de subsidie-aanvrager zijn al dan niet volledige aanvraag indient, tenzij dat fasebedrag hoger is dan het basisbedrag vastgesteld voor de betreffende categorie productie-installaties, bedoeld in artikel 44, in welk geval dit basisbedrag geldt.   
+3.  Bij regeling van Onze Minister kan voor een categorie productie-installaties een fasebedrag worden vastgesteld dat afwijkt van het fasebedrag vastgesteld op grond van het eerste lid.  
+
 ### Artikel  44  
 
-1.  Bij regeling van Onze Minister, na overleg met Onze Minister van Financiën, wordt per categorie productie-installaties een basisbedrag per GJ vastgesteld voor de subsidie voor de productie van hernieuwbare warmte of hernieuwbare warmte en hernieuwbare elektriciteit.   
-2.  Het basisbedrag bedraagt ten hoogste de gemiddelde kosten per GJ voor het produceren van hernieuwbare warmte of hernieuwbare warmte en hernieuwbare elektriciteit per categorie productie-installaties.   
-3.  Voor de GJ die voor subsidie in aanmerking komen kunnen verschillende basisbedragen gelden die zijn gerelateerd aan: 
+1.  Bij regeling van Onze Minister, na overleg met Onze Minister van Financiën, wordt per categorie productie-installaties een basisbedrag per kWh vastgesteld voor de subsidie voor de productie van hernieuwbare warmte of hernieuwbare warmte en hernieuwbare elektriciteit.   
+2.  Het basisbedrag bedraagt ten hoogste de gemiddelde kosten per kWh voor het produceren van hernieuwbare warmte of hernieuwbare warmte en hernieuwbare elektriciteit per categorie productie-installaties.   
+3.  Voor de kWh die voor subsidie in aanmerking komen kunnen verschillende basisbedragen gelden die zijn gerelateerd aan: 
 
-a. de hoeveelheid geproduceerde GJ die voor subsidie in aanmerking komt;  
+a. de hoeveelheid geproduceerde kWh die voor subsidie in aanmerking komt;  
 
 b. het aantal vollasturen van de productie-installatie;  
 
@@ -461,17 +489,17 @@ c. het rendement van de productie-installatie.
 
 ### Artikel  45  
 
-1.  Bij regeling van Onze Minister, na overleg met Onze Minister van Financiën, wordt ten behoeve van de correctie van het basisbedrag, bedoeld in artikel 44 en de vaststelling van het bedrag dat de subsidie ten hoogste bedraagt, bedoeld in artikel 49, een basisenergieprijs per GJ vastgesteld die kan verschillen per categorie productie-installaties of per soort toepassing van de energie.   
-2.  Binnen een categorie productie-installaties kunnen verschillende basisenergieprijzen gelden die gerelateerd zijn aan de hoeveelheid geproduceerde GJ die voor subsidie in aanmerking komt.   
-3.  Indien op grond van het eerste lid aparte basisprijzen per GJ worden vastgesteld per soort toepassing van energie geldt voor het aantal GJ met een soort toepassing bij de toepassing van de artikelen 46, 47, eerste lid, onderdeel a, en tweede lid, en 49 de basisenergieprijs of energieprijs voor de betreffende soort toepassing.  
+1.  Bij regeling van Onze Minister, na overleg met Onze Minister van Financiën, wordt ten behoeve van de correctie van het fasebedrag of basisbedrag, bedoeld in artikel 44 en de vaststelling van het bedrag dat de subsidie ten hoogste bedraagt, bedoeld in artikel 49, een basisenergieprijs per kWh vastgesteld die kan verschillen per categorie productie-installaties of per soort toepassing van de energie.   
+2.  Binnen een categorie productie-installaties kunnen verschillende basisenergieprijzen gelden die gerelateerd zijn aan de hoeveelheid geproduceerde kWh die voor subsidie in aanmerking komt.   
+3.  Indien op grond van het eerste lid aparte basisprijzen per kWh worden vastgesteld per soort toepassing van energie geldt voor het aantal kWh met een soort toepassing bij de toepassing van de artikelen 46, 47, eerste lid, onderdeel a, en tweede lid, en 49 de basisenergieprijs of energieprijs voor de betreffende soort toepassing.  
 
 ### Artikel  46  
 
-Het basisbedrag, bedoeld in artikel 44, en de basisenergieprijs, bedoeld in artikel 45, die gelden op het moment van aanvraag van de subsidie, gelden gedurende de gehele periode waarover subsidie wordt verstrekt. 
+Het fasebedrag, bedoeld in artikel 43a, of het basisbedrag, bedoeld in artikel 44, en de basisenergieprijs, bedoeld in artikel 45, die gelden op het moment van aanvraag van de subsidie, gelden gedurende de gehele periode waarover subsidie wordt verstrekt. 
 
 ### Artikel  47  
 
-1.  Voor elke subsidie-ontvanger geldt dat het basisbedrag in elk kalenderjaar van de periode waarover subsidie wordt verstrekt wordt gecorrigeerd met: 
+1.  Voor elke subsidie-ontvanger geldt dat het fasebedrag of basisbedrag in elk kalenderjaar van de periode waarover subsidie wordt verstrekt wordt gecorrigeerd met: 
 
 a. de energieprijs of, indien de energieprijs lager is dan de in artikel 45 bedoelde basisenergieprijs, de in artikel 45 bedoelde basisenergieprijs;  
 
@@ -479,9 +507,9 @@ b. de waarde van garanties van oorsprong;
 
 c. andere bij ministeriële regeling vast te stellen correcties die een substantiële invloed hebben op het verschil tussen de gemiddelde kostprijs van hernieuwbare warmte of hernieuwbare warmte en hernieuwbare elektriciteit en de relevante gemiddelde marktprijs van warmte of warmte en elektriciteit en die voortvloeien uit maatregelen van de overheid.     
 2.  De energieprijs, bedoeld in het eerste lid, onderdeel a, bedraagt de relevante gemiddelde waarde voor de betreffende soort energie.   
-3.  In de beschikking tot subsidieverlening kan Onze Minister bepalen dat, in aanvulling op het eerste lid, het basisbedrag wordt gecorrigeerd met een bedrag per GJ in verband met de opbrengsten die voor de subsidie-ontvanger voortvloeien uit het systeem van verhandelbare broeikasgasemissierechten, bedoeld in [titel 16.2 van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md).   
+3.  In de beschikking tot subsidieverlening kan Onze Minister bepalen dat, in aanvulling op het eerste lid, het fasebedrag of basisbedrag wordt gecorrigeerd met een bedrag per kWh in verband met de opbrengsten die voor de subsidie-ontvanger voortvloeien uit het systeem van verhandelbare broeikasgasemissierechten, bedoeld in titel 16.2 van de Wet milieubeheer.   
 4.  Bij ministeriële regeling worden jaarlijks voor 1 april de in het eerste en derde lid bedoelde correcties voor het voorgaande kalenderjaar vastgesteld, die kunnen verschillen per categorie productie-installaties en binnen een categorie productie-installaties indien op grond van artikel 45 verschillende basisenergieprijzen voor een categorie productie-installaties zijn vastgesteld.   
-5.  Ten behoeve van de voorschotverlening worden bij ministeriële regeling jaarlijks voor 1 november de in het eerste en derde lid bedoelde correcties voor het volgende kalenderjaar vastgesteld, die kunnen verschillen per categorie productie-installaties en binnen een categorie productie-installaties indien op grond van artikel 45 verschillende basisenergieprijzen voor een categorie productie-installaties zijn vastgesteld en waarbij voor de energieprijs de gemiddelde waarde in de periode 1 oktober tot en met 30 september voorafgaand aan het kalenderjaar wordt gehanteerd. Indien na 1 november bij ministeriële regeling een andere categorie productie-installaties wordt aangewezen waarvoor subsidie kan worden aangevraagd, worden de in het eerste en derde lid bedoelde correcties ten behoeve van de voorschotverlening voor die categorie productie-installaties bij die ministeriële regeling vastgesteld.   
+5.  Ten behoeve van de voorschotverlening worden bij ministeriële regeling jaarlijks voor 1 november de in het eerste en derde lid bedoelde correcties voor het volgende kalenderjaar vastgesteld, die kunnen verschillen per categorie productie-installaties en binnen een categorie productie-installaties indien op grond van artikel 45 verschillende basisenergieprijzen voor een categorie productie-installaties zijn vastgesteld en waarbij voor de elektriciteitsprijs de gemiddelde waarde in de periode 1 september tot en met 31 augustus, of in een bij ministeriele regeling te bepalen periode, voorafgaand aan het kalenderjaar wordt gehanteerd. Indien na 1 november bij ministeriële regeling een andere categorie productie-installaties wordt aangewezen waarvoor subsidie kan worden aangevraagd, worden de in het eerste en derde lid bedoelde correcties ten behoeve van de voorschotverlening voor die categorie productie-installaties bij die ministeriële regeling vastgesteld.   
 6.  Indien een productie-installatie geheel of gedeeltelijk bestaat uit gebruikte materialen, kan Onze Minister in de beschikking tot subsidieverlening een correctie op het ingevolge het eerste lid geldende bedrag vaststellen.   
 7.  Indien een productie-installatie ingrijpend wordt gerenoveerd, kan Onze Minister in de beschikking tot subsidieverlening een correctie op het ingevolge het eerste lid geldende bedrag vaststellen.   
 8.  Indien het ingevolge het eerste, derde, zesde of zevende lid geldende bedrag negatief is, bedraagt het bedrag nul.  
@@ -492,19 +520,21 @@ c. andere bij ministeriële regeling vast te stellen correcties die een substant
 
 a. met elkaar te vermenigvuldigen: 
 
-1°. het aantal GJ dat in elk kalenderjaar voor subsidie in aanmerking komt en waarvoor garanties van oorsprong aantonen dat de producent met zijn productie-installatie voor hernieuwbare warmte en hernieuwbare elektriciteit in het betreffende kalenderjaar een hoeveelheid hernieuwbare warmte heeft geproduceerd die nuttig is gebruikt en hernieuwbare elektriciteit heeft geproduceerd en op een elektriciteitsnet heeft ingevoed, met  
+1°. het aantal kWh dat in elk kalenderjaar voor subsidie in aanmerking komt en waarvoor garanties van oorsprong aantonen dat de producent met zijn productie-installatie voor hernieuwbare warmte en hernieuwbare elektriciteit in het betreffende kalenderjaar een hoeveelheid hernieuwbare warmte heeft geproduceerd die nuttig is gebruikt en hernieuwbare elektriciteit heeft geproduceerd en op een elektriciteitsnet heeft ingevoed, met  
 
-2°. het voor het betreffende kalenderjaar op basis van artikel 47 geldende gecorrigeerde basisbedrag, en    
+2°. het voor het betreffende kalenderjaar op basis van artikel 47 geldende gecorrigeerde fasebedrag of basisbedrag, en    
 
 b. de overeenkomstig onderdeel a berekende bedragen voor ieder kalenderjaar van de periode waarover subsidie wordt verstrekt bij elkaar op te tellen.     
-2.  Het aantal GJ dat jaarlijks voor subsidie in aanmerking komt bedraagt ten hoogste het in de beschikking tot subsidieverlening vastgestelde maximum aantal GJ dat per jaar kan verschillen en dat gebaseerd is op het vermogen van de installatie en het aantal vollasturen. Bij ministeriële regeling kan voor een categorie productie-installaties worden bepaald dat indien in een jaar minder GJ is geproduceerd dan het aantal GJ dat het betreffende jaar voor subsidie in aanmerking komt, het verschil in GJ bij het aantal GJ dat het volgende jaar voor subsidie in aanmerking komt wordt opgeteld. Bij ministeriële regeling kan een maximum, dat per jaar kan verschillen, worden gesteld aan het aantal GJ dat opgeteld wordt bij het aantal GJ dat het volgende jaar voor subsidie in aanmerking komt.   
-3.  Bij ministeriële regeling kan ten behoeve van de berekening van het maximum aantal GJ, bedoeld in het tweede lid, voor een categorie van productie-installaties een maximum aantal vollasturen worden bepaald.   
-4.  Indien een subsidie-ontvanger uitsluitend hernieuwbare warmte produceert wordt voor de berekening van de subsidie in afwijking van het eerste lid, onderdeel a, ten eerste, genomen het aantal GJ dat in elk kalenderjaar voor subsidie in aanmerking komt en waarvoor de producent kan aantonen dat hij met zijn productie-installatie voor hernieuwbare warmte in het betreffende kalenderjaar een hoeveelheid hernieuwbare warmte heeft geproduceerd die nuttig is gebruikt.   
-5.  Indien een subsidie-ontvanger hernieuwbare warmte en hernieuwbare elektriciteit produceert met een bij ministeriële regeling aangewezen productie-installatie, wordt bij de toepassing van het eerste lid, onderdeel a, ten eerste, opgeteld het aantal GJ dat in elk kalenderjaar voor subsidie in aanmerking komt en waarvoor garanties van oorsprong voor niet-netlevering, bedoeld in [artikel 1 van de Regeling garanties van oorsprong voor duurzame elektriciteit](../../../../../../ministeriele-regeling/regeling/garanties/van/oorsprong/voor/duurzame/elektriciteit/BWBR0016021/README.md) zijn verstrekt die aantonen dat de producent met zijn productie-installatie in het betreffende kalenderjaar een hoeveelheid hernieuwbare elektriciteit heeft geproduceerd en op de eigen installatie heeft ingevoed.  
+2.  Het aantal kWh dat jaarlijks voor subsidie in aanmerking komt bedraagt ten hoogste het in de beschikking tot subsidieverlening vastgestelde maximum aantal kWh dat per jaar kan verschillen en dat gebaseerd is op het vermogen van de installatie en het aantal vollasturen.   
+3.  Bij ministeriële regeling kan voor een categorie productie-installaties worden bepaald dat indien in een jaar minder kWh is geproduceerd dan het aantal kWh dat het betreffende jaar voor subsidie in aanmerking komt, het verschil in kWh bij het aantal kWh dat het volgende jaar voor subsidie in aanmerking komt wordt opgeteld. Bij ministeriële regeling kan een maximum, dat per jaar kan verschillen, worden gesteld aan het aantal kWh dat opgeteld wordt bij het aantal kWh dat het volgende jaar voor subsidie in aanmerking komt.   
+4.  Bij ministeriële regeling kan voor een categorie productie-installaties worden bepaald dat indien in een jaar meer kWh is geproduceerd of uit vorige jaren is overgebracht dan het aantal kWh dat het betreffende jaar voor subsidie in aanmerking komt, waarbij het verschil in kWh dat in een vorig jaar minder is geproduceerd ingevolge het derde lid reeds is opgeteld, het verschil in kWh bij het aantal geproduceerde kWh van het volgende jaar wordt opgeteld. Bij ministeriële regeling kan een maximum, dat per jaar kan verschillen, worden gesteld aan het aantal geproduceerde kWh dat opgeteld wordt bij het aantal geproduceerde kWh van het volgende jaar.  
+5.  Bij ministeriële regeling kan ten behoeve van de berekening van het maximum aantal kWh, bedoeld in het tweede lid, voor een categorie van productie-installaties een maximum aantal vollasturen worden bepaald.   
+6.  Indien een subsidie-ontvanger uitsluitend hernieuwbare warmte produceert wordt voor de berekening van de subsidie in afwijking van het eerste lid, onderdeel a, ten eerste, genomen het aantal kWh dat in elk kalenderjaar voor subsidie in aanmerking komt en waarvoor de producent kan aantonen dat hij met zijn productie-installatie voor hernieuwbare warmte in het betreffende kalenderjaar een hoeveelheid hernieuwbare warmte heeft geproduceerd die nuttig is gebruikt.   
+7.  Indien een subsidie-ontvanger hernieuwbare warmte en hernieuwbare elektriciteit produceert met een bij ministeriële regeling aangewezen productie-installatie, wordt bij de toepassing van het eerste lid, onderdeel a, ten eerste, opgeteld het aantal kWh dat in elk kalenderjaar voor subsidie in aanmerking komt en waarvoor garanties van oorsprong voor niet-netlevering, bedoeld in artikel 1 van de Regeling garanties van oorsprong voor duurzame elektriciteit zijn verstrekt die aantonen dat de producent met zijn productie-installatie in het betreffende kalenderjaar een hoeveelheid hernieuwbare elektriciteit heeft geproduceerd en op de eigen installatie heeft ingevoed.  
 
 ### Artikel  49  
 
-De subsidie bedraagt ten hoogste het verschil tussen het basisbedrag, bedoeld in artikel 44, en de basisenergieprijs, bedoeld in artikel 45, vermenigvuldigd met het in de beschikking tot subsidieverlening voor de gehele periode waarover subsidie wordt verstrekt bepaald maximum aantal GJ. 
+De subsidie bedraagt ten hoogste het verschil tussen het fasebedrag, bedoeld in artikel 43a, of het basisbedrag, bedoeld artikel 44, en de basisenergieprijs, bedoeld in artikel 45, vermenigvuldigd met het in de beschikking tot subsidieverlening voor de gehele periode waarover subsidie wordt verstrekt bepaald maximum aantal kWh. 
 
 ### §  5.3 
 
@@ -516,15 +546,15 @@ De bepalingen in deze paragraaf gelden indien ingevolge artikel 2, derde lid, wo
 
 ### Artikel  51  
 
-1.  Bij de aanvraag tot subsidieverlening wordt door de producent een tenderbedrag per GJ opgegeven. Bij een gebundelde aanvraag is het door de producent opgegeven tenderbedrag van toepassing op alle aanvragen die deel uitmaken van de gebundelde aanvraag.   
-2.  Bij regeling van Onze Minister, na overleg met Onze Minister van Financiën, wordt per categorie productie-installaties een maximum tenderbedrag per GJ voor hernieuwbare warmte of hernieuwbare warmte en hernieuwbare elektriciteit bepaald.   
-3.  Het maximum tenderbedrag bedraagt maximaal de gemiddelde kosten per GJ voor het produceren van hernieuwbare warmte of hernieuwbare warmte en hernieuwbare elektriciteit per categorie van productie-installaties.  
+1.  Bij de aanvraag tot subsidieverlening wordt door de producent een tenderbedrag per kWh opgegeven. Bij een gebundelde aanvraag is het door de producent opgegeven tenderbedrag van toepassing op alle aanvragen die deel uitmaken van de gebundelde aanvraag.   
+2.  Bij regeling van Onze Minister, na overleg met Onze Minister van Financiën, wordt per categorie productie-installaties een maximum tenderbedrag per kWh voor hernieuwbare warmte of hernieuwbare warmte en hernieuwbare elektriciteit bepaald.   
+3.  Het maximum tenderbedrag bedraagt maximaal de gemiddelde kosten per kWh voor het produceren van hernieuwbare warmte of hernieuwbare warmte en hernieuwbare elektriciteit per categorie van productie-installaties.  
 
 ### Artikel  52  
 
-1.  Bij regeling van Onze Minister, na overleg met Onze Minister van Financiën, wordt ten behoeve van de correctie van het tenderbedrag, bedoeld in artikel 54, en de vaststelling van het bedrag dat de subsidie ten hoogste bedraagt, bedoeld in artikel 55a, een basisenergieprijs per GJ vastgesteld die kan verschillen per categorie productie-installaties of per soort toepassing van de warmte.   
-2.  Binnen een categorie productie-installaties kunnen verschillende basisenergieprijzen gelden die gerelateerd zijn aan de hoeveelheid geproduceerde GJ die voor subsidie in aanmerking komt.   
-3.  Indien op grond van het eerste lid aparte basisprijzen per GJ worden vastgesteld per soort toepassing van warmte geldt voor het aantal GJ met een soort toepassing bij de toepassing van de artikelen 53, 54, eerste lid, onderdeel a, en tweede lid, en 55a de basisenergieprijs of energieprijs voor de betreffende soort toepassing.  
+1.  Bij regeling van Onze Minister, na overleg met Onze Minister van Financiën, wordt ten behoeve van de correctie van het tenderbedrag, bedoeld in artikel 54, en de vaststelling van het bedrag dat de subsidie ten hoogste bedraagt, bedoeld in artikel 55a, een basisenergieprijs per kWh vastgesteld die kan verschillen per categorie productie-installaties of per soort toepassing van de warmte.   
+2.  Binnen een categorie productie-installaties kunnen verschillende basisenergieprijzen gelden die gerelateerd zijn aan de hoeveelheid geproduceerde kWh die voor subsidie in aanmerking komt.   
+3.  Indien op grond van het eerste lid aparte basisprijzen per kWh worden vastgesteld per soort toepassing van warmte geldt voor het aantal kWh met een soort toepassing bij de toepassing van de artikelen 53, 54, eerste lid, onderdeel a, en tweede lid, en 55a de basisenergieprijs of energieprijs voor de betreffende soort toepassing.  
 
 ### Artikel  53  
 
@@ -541,9 +571,9 @@ b. de waarde van de garanties van oorsprong;
 
 c. andere bij ministeriële regeling vast te stellen correcties die een substantiële invloed hebben op het verschil tussen de gemiddelde kostprijs van hernieuwbare warmte en de relevante gemiddelde marktprijs van warmte en die voortvloeien uit maatregelen van de overheid.     
 2.  De energieprijs, bedoeld in het eerste lid, onderdeel a, bedraagt de relevante gemiddelde waarde voor de betreffende soort energie.   
-3.  In de beschikking tot subsidieverlening kan Onze Minister bepalen dat, in aanvulling op het eerste lid, het tenderbedrag wordt gecorrigeerd met een bedrag per GJ opbrengsten die voor de subsidie-ontvanger voortvloeien uit het systeem van verhandelbare broeikasgasemissierechten, bedoeld in [titel 16.2 van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md).   
+3.  In de beschikking tot subsidieverlening kan Onze Minister bepalen dat, in aanvulling op het eerste lid, het tenderbedrag wordt gecorrigeerd met een bedrag per kWh opbrengsten die voor de subsidie-ontvanger voortvloeien uit het systeem van verhandelbare broeikasgasemissierechten, bedoeld in titel 16.2 van de Wet milieubeheer.   
 4.  Bij ministeriële regeling worden jaarlijks voor 1 april de in het eerste en derde lid bedoelde correcties voor het voorgaande kalenderjaar vastgesteld, die kunnen verschillen per categorie productie-installaties en binnen een categorie productie-installaties indien op grond van artikel 52 verschillende basisenergieprijzen voor een categorie productie-installaties zijn vastgesteld.   
-5.  Ten behoeve van de voorschotverlening worden bij ministeriële regeling jaarlijks voor 1 november de in het eerste en derde lid bedoelde correcties voor het volgende kalenderjaar vastgesteld, die kunnen verschillen per categorie productie-installaties en binnen een categorie productie-installaties indien op grond van artikel 52 verschillende basisenergieprijzen voor een categorie productie-installaties zijn vastgesteld en waarbij voor de energieprijs de gemiddelde waarde in de periode 1 oktober tot en met 30 september voorafgaand aan het kalenderjaar wordt gehanteerd. Indien na 1 november bij ministeriële regeling een andere categorie productie-installaties wordt aangewezen waarvoor subsidie kan worden aangevraagd, worden de in het eerste en derde lid bedoelde correcties ten behoeve van de voorschotverlening voor die categorie productie-installaties bij die ministeriële regeling vastgesteld.   
+5.  Ten behoeve van de voorschotverlening worden bij ministeriële regeling jaarlijks voor 1 november de in het eerste en derde lid bedoelde correcties voor het volgende kalenderjaar vastgesteld, die kunnen verschillen per categorie productie-installaties en binnen een categorie productie-installaties indien op grond van artikel 52 verschillende basisenergieprijzen voor een categorie productie-installaties zijn vastgesteld en waarbij voor de elektriciteitsprijs de gemiddelde waarde in de periode 1 september tot en met 31 augustus, of in een bij ministeriele regeling te bepalen periode, voorafgaand aan het kalenderjaar wordt gehanteerd. Indien na 1 november bij ministeriële regeling een andere categorie productie-installaties wordt aangewezen waarvoor subsidie kan worden aangevraagd, worden de in het eerste en derde lid bedoelde correcties ten behoeve van de voorschotverlening voor die categorie productie-installaties bij die ministeriële regeling vastgesteld.   
 6.  Indien het ingevolge het eerste of derde lid geldende bedrag negatief is, bedraagt het bedrag nul.  
 
 ### Artikel  55  
@@ -552,19 +582,39 @@ c. andere bij ministeriële regeling vast te stellen correcties die een substant
 
 a. met elkaar te vermenigvuldigen: 
 
-1°. het aantal GJ dat in elk kalenderjaar voor subsidie in aanmerking komt en waarvoor garanties van oorsprong aantonen dat de producent met zijn productie-installatie voor hernieuwbare warmte en hernieuwbare elektriciteit in het betreffende kalenderjaar een hoeveelheid hernieuwbare warmte heeft geproduceerd die nuttig is gebruikt en hernieuwbare elektriciteit heeft geproduceerd en op een elektriciteitsnet heeft ingevoed, met  
+1°. het aantal kWh dat in elk kalenderjaar voor subsidie in aanmerking komt en waarvoor garanties van oorsprong aantonen dat de producent met zijn productie-installatie voor hernieuwbare warmte en hernieuwbare elektriciteit in het betreffende kalenderjaar een hoeveelheid hernieuwbare warmte heeft geproduceerd die nuttig is gebruikt en hernieuwbare elektriciteit heeft geproduceerd en op een elektriciteitsnet heeft ingevoed, met  
 
 2°. het voor het betreffende kalenderjaar op basis van artikel 54 geldende gecorrigeerde tenderbedrag, en    
 
 b. de overeenkomstig onderdeel a berekende bedragen voor ieder kalenderjaar van de periode waarover subsidie wordt verstrekt bij elkaar op te tellen.     
-2.  Het aantal GJ dat jaarlijks voor subsidie in aanmerking komt bedraagt ten hoogste het in de beschikking tot subsidieverlening vastgestelde maximum aantal GJ dat per jaar kan verschillen en dat gebaseerd is op het vermogen van de installatie en het aantal vollasturen. Bij ministeriële regeling kan voor een categorie productie-installaties worden bepaald dat indien in een jaar minder GJ is geproduceerd dan het aantal GJ dat het betreffende jaar voor subsidie in aanmerking komt, het verschil in GJ bij het aantal GJ dat het volgende jaar voor subsidie in aanmerking komt wordt opgeteld. Bij ministeriële regeling kan een maximum, dat per jaar kan verschillen, worden gesteld aan het aantal GJ dat opgeteld wordt bij het aantal GJ dat het volgende jaar voor subsidie in aanmerking komt.   
-3.  Bij ministeriële regeling kan ten behoeve van de berekening van het maximum aantal GJ, bedoeld in het tweede lid voor een categorie productie-installaties een maximum aantal vollasturen worden bepaald.   
-4.  Indien een subsidie-ontvanger uitsluitend hernieuwbare warmte produceert wordt voor de berekening van de subsidie in afwijking van het eerste lid, onderdeel a, ten eerste, genomen het aantal GJ dat in elk kalenderjaar voor subsidie in aanmerking komt en waarvoor de producent kan aantonen dat de producent met zijn productie-installatie voor hernieuwbare warmte in het betreffende kalenderjaar een hoeveelheid hernieuwbare warmte heeft geproduceerd die nuttig is gebruikt.   
-5.  Indien een subsidie-ontvanger hernieuwbare warmte en hernieuwbare elektriciteit produceert met een bij ministeriële regeling aangewezen productie-installatie, wordt bij de toepassing van het eerste lid, onderdeel a, ten eerste, opgeteld het aantal GJ dat in elk kalenderjaar voor subsidie in aanmerking komt en waarvoor garanties van oorsprong voor niet-netlevering, bedoeld in [artikel 1 van de Regeling garanties van oorsprong voor duurzame elektriciteit](../../../../../../ministeriele-regeling/regeling/garanties/van/oorsprong/voor/duurzame/elektriciteit/BWBR0016021/README.md) zijn verstrekt die aantonen dat de producent met zijn productie-installatie in het betreffende kalenderjaar een hoeveelheid hernieuwbare elektriciteit heeft geproduceerd en op de eigen installatie heeft ingevoed.  
+2.  Het aantal kWh dat jaarlijks voor subsidie in aanmerking komt bedraagt ten hoogste het in de beschikking tot subsidieverlening vastgestelde maximum aantal kWh dat per jaar kan verschillen en dat gebaseerd is op het vermogen van de installatie en het aantal vollasturen.   
+3.  Bij ministeriële regeling kan voor een categorie productie-installaties worden bepaald dat indien in een jaar minder kWh is geproduceerd dan het aantal kWh dat het betreffende jaar voor subsidie in aanmerking komt, het verschil in kWh bij het aantal kWh dat het volgende jaar voor subsidie in aanmerking komt wordt opgeteld. Bij ministeriële regeling kan een maximum, dat per jaar kan verschillen, worden gesteld aan het aantal kWh dat opgeteld wordt bij het aantal kWh dat het volgende jaar voor subsidie in aanmerking komt.   
+4.  Bij ministeriële regeling kan voor een categorie productie-installaties worden bepaald dat indien in een jaar meer kWh is geproduceerd of uit vorige jaren is overgebracht dan het aantal kWh dat het betreffende jaar voor subsidie in aanmerking komt, waarbij het verschil in kWh dat in een vorig jaar minder is geproduceerd ingevolge het derde lid reeds is opgeteld, het verschil in kWh bij het aantal geproduceerde kWh van het volgende jaar wordt opgeteld. Bij ministeriële regeling kan een maximum, dat per jaar kan verschillen, worden gesteld aan het aantal geproduceerde kWh dat opgeteld wordt bij het aantal geproduceerde kWh van het volgende jaar.  
+5.  Bij ministeriële regeling kan ten behoeve van de berekening van het maximum aantal kWh, bedoeld in het tweede lid voor een categorie productie-installaties een maximum aantal vollasturen worden bepaald.   
+6.  Indien een subsidie-ontvanger uitsluitend hernieuwbare warmte produceert wordt voor de berekening van de subsidie in afwijking van het eerste lid, onderdeel a, ten eerste, genomen het aantal kWh dat in elk kalenderjaar voor subsidie in aanmerking komt en waarvoor de producent kan aantonen dat de producent met zijn productie-installatie voor hernieuwbare warmte in het betreffende kalenderjaar een hoeveelheid hernieuwbare warmte heeft geproduceerd die nuttig is gebruikt.   
+7.  Indien een subsidie-ontvanger hernieuwbare warmte en hernieuwbare elektriciteit produceert met een bij ministeriële regeling aangewezen productie-installatie, wordt bij de toepassing van het eerste lid, onderdeel a, ten eerste, opgeteld het aantal kWh dat in elk kalenderjaar voor subsidie in aanmerking komt en waarvoor garanties van oorsprong voor niet-netlevering, bedoeld in artikel 1 van de Regeling garanties van oorsprong voor duurzame elektriciteit zijn verstrekt die aantonen dat de producent met zijn productie-installatie in het betreffende kalenderjaar een hoeveelheid hernieuwbare elektriciteit heeft geproduceerd en op de eigen installatie heeft ingevoed.  
 
 ### Artikel  55a  
 
-De subsidie bedraagt ten hoogste het verschil tussen het tenderbedrag, bedoeld in artikel 51, en de basisenergieprijs, bedoeld in artikel 52, vermenigvuldigd met het in de beschikking tot subsidieverlening voor de gehele periode waarover subsidie wordt verstrekt bepaald maximum aantal GJ. 
+De subsidie bedraagt ten hoogste het verschil tussen het tenderbedrag, bedoeld in artikel 51, en de basisenergieprijs, bedoeld in artikel 52, vermenigvuldigd met het in de beschikking tot subsidieverlening voor de gehele periode waarover subsidie wordt verstrekt bepaald maximum aantal kWh. 
+
+### §  5a  
+
+####Subsidie voor projecten in andere lidstaten
+
+### Artikel  55b  
+
+1.  Aan de producent van hernieuwbare elektriciteit, hernieuwbaar gas, hernieuwbare warmte of hernieuwbare elektriciteit en hernieuwbare warmte, geproduceerd door een bij regeling van Onze Minister aan te wijzen categorie productie-installaties die zich bevinden in een lidstaat waarmee een samenwerking is overeengekomen als bedoeld in artikel 7 van de richtlijn hernieuwbare energie, kan subsidie worden verleend.   
+2.  Het bepaalde bij of krachtens de paragrafen 1 tot en met 5 van dit besluit zijn van overeenkomstige toepassing op de subsidieverlening, bedoeld in het eerste lid, met dien verstande dat: 
+
+a. het elektriciteits-, gas- of warmtenet waarop wordt ingevoed niet in Nederland, maar in de betreffende lidstaat ligt;  
+
+b. met de elektriciteit-, gas-, of energieprijs, de prijs wordt bedoeld in de betreffende lidstaat of in het relevante gebied;  
+
+c. met «garanties van oorsprong» wordt bedoeld: de garanties van oorsprong afgegeven in de betreffende lidstaat overeenkomstig het bepaalde in artikel 15 van de richtlijn hernieuwbare energie;  
+
+d. met «productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie op zee» wordt bedoeld: een productie-installatie die is opgericht op zee, waarmee hernieuwbare elektriciteit wordt geproduceerd met behulp van windenergie.     
+3.  Bij ministeriële regeling kunnen nadere regels worden gesteld ter uitvoering van dit artikel, waarbij in ieder geval regels kunnen worden gesteld over de aanvraag van een subsidie en de besluitvorming daarover, de verplichtingen van de subsidie-ontvanger, de vaststelling van de subsidie en het verlenen van voorschotten.  
 
 ### §  6  
 
@@ -572,14 +622,14 @@ De subsidie bedraagt ten hoogste het verschil tussen het tenderbedrag, bedoeld i
 
 ### Artikel  56  
 
-1.  Een aanvraag om subsidieverlening wordt ingediend met gebruikmaking van een formulier, overeenkomstig het model dat bij ministeriële regeling is vastgesteld. Onze Minister kan bij ministeriële regeling een of meer categorieën productie-installaties aanwijzen waarvoor een gebundelde aanvraag kan worden ingediend. Bij ministeriële regeling kan voor een categorie productie-installaties worden bepaald dat per openstellingsperiode of per kalenderjaar per adres waarop een productie-installatie is of wordt geplaatst maximaal één aanvraag kan worden ingediend.   
-2.  Indien dit op het formulier is vermeld, gaat een aanvraag vergezeld van: 
+1.  Een aanvraag om subsidieverlening wordt ingediend met gebruikmaking van een middel dat door Onze Minister beschikbaar wordt gesteld. Onze Minister kan bij ministeriële regeling een of meer categorieën productie-installaties aanwijzen waarvoor een gebundelde aanvraag kan worden ingediend. Bij ministeriële regeling kan voor een categorie productie-installaties worden bepaald dat per openstellingsperiode of per kalenderjaar per adres waarop een productie-installatie is of wordt geplaatst maximaal één aanvraag kan worden ingediend.   
+2.  Indien van toepassing, gaat een aanvraag vergezeld van: 
 
 a. een omschrijving van iedere productie-installatie waarvoor subsidie wordt aangevraagd;  
 
-b. een onderbouwde opgave van de hoeveelheid op te wekken en in te voeden kWh, GJ of Nm<sup>3</sup> per kalenderjaar gedurende de periode waarover subsidie wordt verstrekt van iedere productie-installatie;  
+b. een onderbouwde opgave van de hoeveelheid op te wekken en in te voeden kWh per kalenderjaar gedurende de periode waarover subsidie wordt verstrekt van iedere productie-installatie;  
 
-c. de voor de productie-installatie verleende vergunningen krachtens de [Wet algemene bepalingen omgevingsrecht](../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), de [Wet beheer rijkswaterstaatswerken](../../../../../../wet/wet/beheer/rijkswaterstaatswerken/BWBR0008331/README.md), [hoofdstuk 6, paragraaf 6, van het Waterbesluit](../../../../../../AMvB/waterbesluit/BWBR0026872/README.md) of de [Mijnbouwwet](../../../../../../wet/mijnbouwwet/BWBR0014168/README.md); 
+c. de voor de productie-installatie verleende vergunningen krachtens de Wet algemene bepalingen omgevingsrecht, de Wet beheer rijkswaterstaatswerken, hoofdstuk 6, paragraaf 6, van het Waterbesluit of de Mijnbouwwet; 
 
 d. een plan voor het in gebruik nemen en exploiteren van iedere productie-installatie;  
 
@@ -587,7 +637,7 @@ e. een financiële onderbouwing van iedere productie-installatie waarvoor subsid
 
 f. indien de subsidie-aanvrager een samenwerkingsverband is, een overzicht van de deelnemers aan het samenwerkingsverband;  
 
-g. overige op het formulier aangegeven bescheiden.     
+g. overige door Onze Minister aangegeven bescheiden.     
 3.  Bij ministeriële regeling kunnen nadere regels worden gesteld over de gegevens die op grond van lid 2, onderdelen a tot en met g, overgelegd moeten worden. 
 
 ### Artikel  57  
@@ -603,36 +653,41 @@ b. om een subsidie voor hernieuwbare elektriciteit, hernieuwbaar gas of hernieuw
 
 ### Artikel  58  
 
-1.  Ingeval van verdeling op volgorde van binnenkomst, verdeelt Onze Minister het beschikbare bedrag in de volgorde van ontvangst van de aanvragen, met dien verstande dat indien een aanvrager niet heeft voldaan aan enig wettelijk voorschrift voor het in behandeling nemen van de aanvraag en met toepassing van [artikel 4:5 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) de gelegenheid heeft gehad de aanvraag aan te vullen, de dag waarop de aanvraag voldoet aan de wettelijke voorschriften als datum van ontvangst geldt.   
-2.  Indien honorering van alle aanvragen die op één dag zijn ontvangen ertoe zou leiden dat het beschikbare subsidieplafond zou worden overschreden, worden steeds de aanvragen om subsidie met het laagste basisbedrag in één decimaal omgerekend naar euro per GJ geacht eerder te zijn ontvangen. Indien honorering van alle aanvragen om subsidie met hetzelfde basisbedrag in één decimaal die op één dag zijn ontvangen ertoe zou leiden dat het beschikbare subsidieplafond zou worden overschreden, stelt Onze Minister de volgorde van ontvangst van deze aanvragen vast door middel van loting.   
-3.  Bij ministeriële regeling wordt voor de omrekening van Nm<sup>3</sup> aardgasequivalent naar GJ een omrekenfactor vastgesteld.  
-4.  Aanvragen die worden ontvangen op werkdagen na 17.00 uur of andere dagen, worden aangemerkt als ontvangen op de eerstvolgende werkdag.   
-5.  Bij de toepassing van het tweede lid: 
+1.  Ingeval van verdeling op volgorde van binnenkomst, verdeelt Onze Minister het beschikbare bedrag in de volgorde van ontvangst van de aanvragen, met dien verstande dat indien een aanvrager niet heeft voldaan aan enig wettelijk voorschrift voor het in behandeling nemen van de aanvraag en met toepassing van artikel 4:5 van de Algemene wet bestuursrecht de gelegenheid heeft gehad de aanvraag aan te vullen, voor de toepassing van dit artikel, de dag waarop de aanvraag voldoet aan de wettelijke voorschriften als datum van ontvangst geldt.   
+2.  Indien honorering van alle aanvragen die op één dag zijn ontvangen ertoe zou leiden dat het beschikbare subsidieplafond, of de maximale productie in kWh zou worden overschreden, worden steeds de aanvragen om subsidie met het laagste fasebedrag of basisbedrag in één decimaal omgerekend naar euro per kWh geacht eerder te zijn ontvangen. Indien honorering van alle aanvragen om subsidie met hetzelfde fasebedrag of basisbedrag in één decimaal die op één dag zijn ontvangen ertoe zou leiden dat het beschikbare subsidieplafond, of de maximale productie in kWh zou worden overschreden, stelt Onze Minister de volgorde van ontvangst van deze aanvragen vast door middel van loting.   
+3.  Aanvragen die worden ontvangen op werkdagen na 17.00 uur of andere dagen, worden aangemerkt als ontvangen op de eerstvolgende werkdag.   
+4.  Bij de toepassing van het tweede lid: 
 
-a. wordt bij de vergelijking van de basisbedragen het basisbedrag van een productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie gedeeld door 1,25;  
+a. wordt een gebundelde aanvraag behandeld als één aanvraag, waarbij als fasebedrag of basisbedrag geldt het fasebedrag of basisbedrag van de aanvraag met het hoogste fasebedrag of basisbedrag van de bundel;  
 
-b. wordt een gebundelde aanvraag behandeld als één aanvraag, waarbij als basisbedrag geldt het basisbedrag van de aanvraag met het hoogste basisbedrag van de bundel;  
-
-c. worden bij de loting alle op de betreffende dag ontvangen aanvragen met hetzelfde basisbedrag in één decimaal betrokken.   
+b. worden bij de loting alle op de betreffende dag ontvangen aanvragen met hetzelfde fasebedrag of basisbedrag in één decimaal betrokken.   
 
 ### Artikel  59  
 
-1. Onze Minister beslist in ieder geval afwijzend op een aanvraag indien: 
+1.  Onze Minister beslist in ieder geval afwijzend op een aanvraag indien: 
 
 a. de aanvraag niet voldoet aan dit besluit en de daarop berustende bepalingen;  
 
 b. hij het onaannemelijk acht dat de productie-installatie binnen vier jaar of binnen de bij of krachtens artikel 61, eerste lid, vastgestelde termijn in gebruik wordt genomen;  
 
-c. onvoldoende vertrouwen bestaat in de economische haalbaarheid van de productie-installatie;  
+c. hij het onaannemelijk acht dat het plan, bedoeld in artikel 56, lid 2, onderdeel d: 
 
-d. één of meer bij of krachtens de [Wet algemene bepalingen omgevingsrecht](../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [hoofdstuk 6, paragraaf 6, van het Waterbesluit](../../../../../../AMvB/waterbesluit/BWBR0026872/README.md), de [Wet beheer rijkswaterstaatswerken](../../../../../../wet/wet/beheer/rijkswaterstaatswerken/BWBR0008331/README.md) of de [Mijnbouwwet](../../../../../../wet/mijnbouwwet/BWBR0014168/README.md) voor de productie-installatie vereiste vergunningen niet zijn verleend.   
-2.  Bij ministeriële regeling kan voor een categorie productie-installaties worden bepaald dat Onze Minister afwijzend beslist op een aanvraag indien op het moment van indienen van de aanvraag geen toestemming van de eigenaar van de beoogde locatie is verkregen voor het plaatsen van de productie-installatie. 
+1°. uitvoerbaar is;  
+
+2°. technisch haalbaar is;  
+
+3°. financieel haalbaar is;  
+
+4°. economisch haalbaar is;    
+
+d. één of meer vergunningen als bedoeld in artikel 56, tweede lid, onderdeel c, niet zijn verleend.     
+2.  Bij ministeriële regeling kan voor een categorie productie-installaties worden bepaald dat Onze Minister afwijzend beslist op een aanvraag indien geen toestemming van de eigenaar van de beoogde locatie is verkregen voor het plaatsen van de productie-installatie. 
 
 ### Artikel  60  
 
 1.  Onze Minister rangschikt de aanvragen waarop niet met toepassing van het artikel 59 afwijzend wordt beslist zodanig dat een aanvraag hoger wordt gerangschikt indien: 
 
-a. voor hernieuwbare elektriciteit, hernieuwbaar gas of hernieuwbare warmte het tenderbedrag per kWh, Nm<sup>3</sup> aardgasequivalent of GJ lager is;  
+a. voor hernieuwbare elektriciteit, hernieuwbaar gas of hernieuwbare warmte het tenderbedrag per kWh lager is;  
 
 b. er meer sprake is van technologische- of brandstofinnovatie;  
 
@@ -655,8 +710,7 @@ b. de toepassing van de criteria, bedoeld in het eerste lid.
 
 1.  De subsidie-ontvanger neemt de productie-installatie zo spoedig mogelijk na de datum van de beschikking tot subsidieverlening in gebruik. Bij ministeriële regeling wordt de periode vastgesteld waarbinnen de subsidie-ontvanger de productie-installatie in gebruik moet nemen. Deze periode kan per categorie productie-installaties verschillen.   
 2.  Een subsidie-ontvanger mag, behoudens ontheffing van Onze Minister, tot de datum van ingebruikname van een productie-installatie een beschikking tot subsidieverlening niet overdragen aan een derde.   
-3.  Bij ministeriële regeling kan worden bepaald dat de beschikking tot subsidieverlening wordt verleend onder de opschortende voorwaarde dat de subsidie-ontvanger verplicht is mee te werken aan het sluiten van een uitvoeringsovereenkomst als bedoeld in [artikel 4:36, tweede lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). Bij ministeriële regeling kunnen nadere eisen aan de uitvoeringsovereenkomst worden gesteld.   
-4.  Indien artikel 3, eerste lid, onderdeel d, van toepassing is, verzoekt de subsidie-ontvanger binnen vier weken na de datum van de beschikking tot subsidieverlening Onze Minister de beschikking tot subsidieverlening op grond van [artikel 72m van de Elektriciteitswet 1998](../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) zoals [dat artikel](../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) luidde op 31 december 2006, in te trekken. 
+3.  Bij ministeriële regeling kan worden bepaald dat de beschikking tot subsidieverlening wordt verleend onder de opschortende voorwaarde dat de subsidie-ontvanger verplicht is mee te werken aan het sluiten van een uitvoeringsovereenkomst als bedoeld in artikel 4:36, tweede lid, van de Algemene wet bestuursrecht. Bij ministeriële regeling kunnen nadere eisen aan de uitvoeringsovereenkomst worden gesteld.  
 
 ### Artikel  62  
 
@@ -689,37 +743,37 @@ De subsidie-ontvanger verstrekt desgevraagd aan Onze Minister alle bescheiden, g
 ### Artikel  66  
 
 1.  Voor een subsidie waarvoor een beschikking tot subsidieverlening geldt, verstrekt Onze Minister ambtshalve maximaal één maal per jaar een voorschot.   
-2.  Onze Minister verstrekt het eerste voorschot aan een subsidie-ontvanger die hernieuwbare elektriciteit opwekt en aan een subsidie-ontvanger die hernieuwbare elektriciteit en hernieuwbare warmte produceert niet eerder dan nadat de subsidie-ontvanger een rekening, bedoeld in [artikel 1, eerste lid, onder y, van de Elektriciteitswet 1998](../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), bij de garantiebeheerinstantie heeft geopend.  
+2.  Onze Minister verstrekt het eerste voorschot aan een subsidie-ontvanger die hernieuwbare elektriciteit opwekt en aan een subsidie-ontvanger die hernieuwbare elektriciteit en hernieuwbare warmte produceert niet eerder dan nadat de subsidie-ontvanger een rekening, bedoeld in artikel 1, eerste lid, onder y, van de Elektriciteitswet 1998, bij de garantiebeheerinstantie heeft geopend.  
 
 ### Artikel  67  
 
 1.  Een voorschot aan een subsidie-ontvanger die hernieuwbare elektriciteit produceert bedraagt het product van: 
 
-a. het in de beschikking tot subsidieverlening per kalenderjaar vastgestelde maximum aantal kWh, en  
+a. het in de beschikking tot subsidieverlening per kalenderjaar vastgestelde maximum aantal kWh, waar op verzoek van de producent het aantal kWh, bedoeld in artikel 15, derde of vierde lid, of 23, derde of vierde lid, bij opgeteld kan worden, en  
 
-b. het basisbedrag dan wel het tenderbedrag verminderd met de op grond van artikel 14, zesde lid, dan wel artikel 22, zesde lid, vastgestelde correcties,   met dien verstande dat in het daaropvolgende kalenderjaar de hoogte van het voorschot wordt vastgesteld op basis van het in het voorgaande kalenderjaar feitelijk geproduceerde en voor subsidie in aanmerking komend aantal kWh en het gecorrigeerde bedrag, bedoeld in artikel 14, vijfde lid, dan wel artikel 22, vijfde lid.   
+b. het fasebedrag of basisbedrag dan wel het tenderbedrag verminderd met de op grond van artikel 14, vijfde lid, dan wel artikel 22, vijfde lid, vastgestelde correcties,   met dien verstande dat in het daaropvolgende kalenderjaar de hoogte van het voorschot wordt vastgesteld op basis van het in het voorgaande kalenderjaar feitelijk geproduceerde en voor subsidie in aanmerking komend aantal kWh en het gecorrigeerde bedrag, bedoeld in artikel 14, vierde lid, dan wel artikel 22, vierde lid.   
 2.  Een voorschot aan een subsidie-ontvanger die hernieuwbaar gas produceert bedraagt het product van: 
 
-a. het in de beschikking tot subsidieverlening per kalenderjaar vastgestelde maximum aantal Nm<sup>3</sup> aardgasequivalent of GJ, en  
+a. het in de beschikking tot subsidieverlening per kalenderjaar vastgestelde maximum aantal kWh, waar op verzoek van de producent het aantal kWh, bedoeld in artikel 32, derde of vierde lid, of 40, derde of vierde lid, bij opgeteld kan worden, en  
 
-b. het basisbedrag dan wel het tenderbedrag verminderd met de op grond van artikel 31, vijfde lid, dan wel artikel 39, vijfde lid, vastgestelde correcties,   met dien verstande dat in het daaropvolgende kalenderjaar de hoogte van het voorschot wordt vastgesteld op basis van het in het voorgaande kalenderjaar feitelijk geproduceerde en voor subsidie in aanmerking komend aantal Nm<sup>3</sup> aardgasequivalent of GJ en het gecorrigeerde bedrag, bedoeld in artikel 31, vierde lid, dan wel artikel 39, vierde lid.   
+b. het fasebedrag of basisbedrag dan wel het tenderbedrag verminderd met de op grond van artikel 31, vijfde lid, dan wel artikel 39, vijfde lid, vastgestelde correcties,   met dien verstande dat in het daaropvolgende kalenderjaar de hoogte van het voorschot wordt vastgesteld op basis van het in het voorgaande kalenderjaar feitelijk geproduceerde en voor subsidie in aanmerking komend aantal kWh en het gecorrigeerde bedrag, bedoeld in artikel 31, vierde lid, dan wel artikel 39, vierde lid.   
 3.  Een voorschot aan een subsidie-ontvanger die hernieuwbare warmte of hernieuwbare warmte en hernieuwbare elektriciteit produceert bedraagt het product van: 
 
-a. het in de beschikking tot subsidieverlening per kalenderjaar vastgestelde maximum aantal GJ en  
+a. het in de beschikking tot subsidieverlening per kalenderjaar vastgestelde maximum aantal kWh, waar op verzoek van de producent het aantal kWh, bedoeld in artikel 48, derde of vierde lid, of 55, derde of vierde lid, bij opgeteld kan worden, en  
 
-b. het basisbedrag dan wel het tenderbedrag verminderd met de op grond van artikel 47, vijfde lid, dan wel artikel 54, vijfde lid, vastgestelde correcties,   met dien verstande dat in het daaropvolgende kalenderjaar de hoogte van het voorschot wordt vastgesteld op basis van het in het voorgaande kalenderjaar feitelijk geproduceerde en voor subsidie in aanmerking komend aantal GJ en het gecorrigeerde bedrag, bedoeld in artikel 47, vierde lid, dan wel artikel 54, vierde lid.  
-4.  Onze Minister verstrekt per jaar slechts een voorschot tot ten hoogste in de beschikking tot subsidieverlening vastgestelde maximum aantal kWh, GJ of Nm<sup>3</sup> aardgasequivalent.   
+b. het fasebedrag of basisbedrag dan wel het tenderbedrag verminderd met de op grond van artikel 47, vijfde lid, dan wel artikel 54, vijfde lid, vastgestelde correcties,   met dien verstande dat in het daaropvolgende kalenderjaar de hoogte van het voorschot wordt vastgesteld op basis van het in het voorgaande kalenderjaar feitelijk geproduceerde en voor subsidie in aanmerking komend aantal kWh en het gecorrigeerde bedrag, bedoeld in artikel 47, vierde lid, dan wel artikel 54, vierde lid.  
+4.  Onze Minister verstrekt per jaar slechts een voorschot tot ten hoogste in de beschikking tot subsidieverlening per kalenderjaar vastgestelde maximum aantal kWh waar op verzoek van de producent, het aantal kWh, bedoeld in artikel 15, derde of vierde lid, 23, derde of vierde lid, 32, derde of vierde lid, 40, derde of vierde lid, 48, derde of vierde lid, of 55, derde of vierde lid, bij opgeteld kan worden.   
 5.  Indien de meetgegevens niet beschikbaar zijn in het kalenderjaar, bedoeld in het eerste en derde lid, wordt in afwijking van het eerste en derde lid het voorschot uiterlijk vastgesteld in het eerstvolgende kalenderjaar nadat de meetgegevens beschikbaar zijn. 
 
 ### Artikel  68  
 
 1.  Onze Minister verstrekt de in artikel 67, eerste, tweede en derde lid, bedoelde voorschotten in maandelijkse bedragen, tenzij bij ministeriële regeling is bepaald dat voor een bepaalde categorie productie-installaties het voorschot in een jaarlijks bedrag wordt verstrekt. De som van de maandelijkse bedragen of van het jaarlijkse bedrag bedraagt niet meer dan 80% van het product van: 
 
-a. het aantal kWh, GJ of Nm<sup>3</sup> aardgasequivalent dat volgens de beschikking tot subsidieverlening in het kalenderjaar waarop het voorschot betrekking heeft voor subsidie in aanmerking komt, en  
+a. Het in de beschikking tot subsidieverlening per kalenderjaar vastgestelde maximum aantal kWh, waar op verzoek van de producent, het aantal kWh, bedoeld in artikel 15, derde of vierde lid, 23, derde of vierde lid, 32, derde of vierde lid, 40, derde of vierde lid, 48, derde of vierde lid, of 55, derde of vierde lid, bij opgeteld kan worden en  
 
-b. het basisbedrag dan wel het tenderbedrag verminderd met de op grond van de artikelen 14, zesde lid, 31, vijfde lid, of 47, vijfde lid, dan wel de artikelen 22, zesde lid, 39, vijfde lid, of 54, vijfde lid,vastgestelde correcties.   
+b. het basisbedrag dan wel het tenderbedrag verminderd met de op grond van de artikelen 14, vijfde lid, 31, vijfde lid, of 47, vijfde lid, dan wel de artikelen 22, vijfde lid, 39, vijfde lid, of 54, vijfde lid, vastgestelde correcties.   
 2.  Indien de som van de maandelijkse bedragen of van het jaarlijkse bedrag die in een kalenderjaar zijn verstrekt minder dan wel meer bedraagt dan de hoogte van het voorschot dat na afloop van het kalenderjaar wordt vastgesteld, kan Onze Minister dit verrekenen met de nog te verstrekken maandelijkse of jaarlijkse bedragen.   
-3.  Bij ministeriële regeling worden regels gesteld over de berekening van de maandelijkse bedragen en van het jaarlijkse bedrag. 
+3.  Bij ministeriële regeling worden regels gesteld over de berekening van de maandelijkse bedragen en van het jaarlijkse bedrag, bedoeld in het eerste lid, en kunnen regels worden gesteld over de wijze waarop de voorschotten worden verrekend, als bedoeld in het tweede lid. 
 
 ### Artikel  69  
 
@@ -732,8 +786,8 @@ Onze Minister verstrekt geen voorschot, indien de subsidie-ontvanger niet heeft 
 ### Artikel  70  
 
 1.  De subsidie-ontvanger dient zijn aanvraag om subsidievaststelling in binnen zes maanden na het tijdstip waarop periode waarover subsidie wordt verstrekt, bepaald in de beschikking tot subsidieverlening, is verstreken.   
-2.  De aanvraag wordt ingediend met gebruikmaking van een formulier, overeenkomstig het model dat bij ministeriële regeling is vastgesteld.   
-3.  De aanvraag gaat, overeenkomstig in het formulier is vermeld, vergezeld van de in het formulier aangegeven bescheiden.  
+2.  De aanvraag wordt ingediend met gebruikmaking van een middel dat door Onze Minister beschikbaar wordt gesteld.   
+3.  De aanvraag gaat vergezeld van de door Onze Minister aangegeven bescheiden.  
 
 ### Artikel  71  
 
@@ -745,11 +799,16 @@ Onze Minister geeft de beschikking tot subsidievaststelling binnen dertien weken
 
 ### Artikel  72  
 
-Onze Minister publiceert binnen vier jaar na de inwerkingtreding van dit besluit een verslag over de doeltreffendheid en de effecten van dit besluit. 
+Onze Minister publiceert zo snel mogelijk na 1 januari 2016, en vervolgens telkens na vijf jaar, een verslag over de doeltreffendheid en de effecten van dit besluit in de praktijk. 
 
 ### Artikel  73  
 
-Voor een productie-installatie voor de productie van hernieuwbaar gas waarvoor subsidie is verstrekt op basis van een aanvraag om subsidie die is ingediend in 2011 wordt bij de toepassing van het artikel 32, eerste lid, onderdeel a, ten eerste, of artikel 40, eerste lid, onderdeel a, ten eerste, opgeteld het aantal Nm<sup>3</sup> aardgasequivalent dat in elk kalenderjaar voor subsidie in aanmerking komt die een producent van hernieuwbaar gas in dat kalenderjaar heeft geproduceerd en op een gasnet heeft laten invoeden. 
+Voor een productie-installatie voor de productie van hernieuwbaar gas waarvoor subsidie is verstrekt op basis van een aanvraag om subsidie die is ingediend in 2011 wordt bij de toepassing van het artikel 32, eerste lid, onderdeel a, ten eerste, of artikel 40, eerste lid, onderdeel a, ten eerste, opgeteld het aantal kWh dat in elk kalenderjaar voor subsidie in aanmerking komt die een producent van hernieuwbaar gas in dat kalenderjaar heeft geproduceerd en op een gasnet heeft laten invoeden. 
+
+### Artikel  74  
+
+1.  Op aanvragen om subsidie die vóór 1 januari 2015 zijn ingediend, op subsidies die vóór 1 januari 2015 zijn verleend en op subsidies die vóór 1 januari 2015 zijn vastgesteld blijft het recht van toepassing zoals dat luidde onmiddellijk vóór dat tijdstip, met uitzondering het bepaalde in de artikelen 1, vierde lid, 6, tweede lid, 7, 14, vijfde lid, 15, tweede, derde en vierde lid, 22, vijfde lid, 23, tweede, derde en vierde lid, 28, eerste, tweede lid en derde lid, aanhef en onderdeel a, 29, eerste lid, 31, derde en vijfde lid, 32, eerste, tweede, derde, vierde, zesde en zevende lid, 33, 36, eerste, tweede en derde lid, 37, eerste lid, 39, derde en vijfde lid, 40, eerste, tweede, derde, vierde, zesde en zevende lid, 41, 44, eerste en tweede lid en derde lid aanhef en onderdeel a, 47, derde en vijfde lid, 48, eerste lid, onderdeel a, onder 1°, tweede, derde, vierde, vijfde, zesde en zevende lid, 49, 51, eerste, tweede en derde lid, 52, eerste, tweede en derde lid, 54, derde en vijfde lid, 55, eerste lid, onderdeel a, onder 1°, tweede, derde, vierde, vijfde, zesde en zevende lid, 55a, 56, tweede lid, onderdeel b, 58, tweede lid, 60, eerste lid, onderdeel a, 67, eerste lid, tweede lid, onderdeel a en laatste zin, derde lid, onderdeel a en laatste zin en vierde lid, 68, eerste en derde lid en 73.   
+2.  Bij subsidies voor de productie van hernieuwbare elektriciteit met behulp van windenergie, kunnen de basiselektriciteitsprijs, bedoeld in de artikelen 12, eerste lid, en 20, eerste lid, en het bedrag, bedoeld in de artikelen 14, eerste lid, en 22, eerste lid, worden vermenigvuldigd met de factor 1,25, indien dit voor een categorie productie-installaties bij ministeriële regeling is bepaald. Deze categorie productie-installaties wordt in dat geval niet aangewezen als productie-installatie als bedoeld in artikel 15, derde en vierde lid.  
 
 ### Artikel  75  
 

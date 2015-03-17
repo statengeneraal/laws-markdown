@@ -140,6 +140,21 @@ c. het op basis van de uitkomst van de toetsing, bedoeld onder *b*, zo nodig ver
 
 Indien Onze Minister van oordeel is dat de Bloedvoorzieningsorganisatie haar taken, genoemd in het eerste lid van artikel 3, niet op verantwoorde wijze vervult, kan hij ter zake regels vaststellen.  
 
+###HOOFDSTUK IIa 
+
+####MILITAIRE BLOEDVOORZIENING
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+### Artikel  11a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Onze Minister van Defensie is bevoegd om bloedproducten en tussenproducten afgeleverd te krijgen, te bewaren, te verpakken, te etiketteren en te vervoeren ten behoeve van de militaire bloedvoorziening en ten behoeve van wetenschappelijk onderzoek in dat kader, alsmede bloedproducten en tussenproducten te bewerken ten behoeve van dit onderzoek.   
+2.  Onze Minister van Defensie is bevoegd om bloedproducten te bewerken tot tussenproducten met als doel deze producten te conserveren. Onze Minister van Defensie is tevens bevoegd om deze tussenproducten te bewerken tot bloedproducten.   
+3.  Onze Minister van Defensie is bevoegd om producten uit Nederland uit te voeren als deze bestemd zijn om gebruikt te worden in de militaire bloedvoorziening. Onze Minster van Defensie is tevens bevoegd om de eerder uitgevoerde producten in te voeren in Nederland.   
+4.  Onze Minister van Defensie is bevoegd om na voorafgaande toestemming van Onze Minister, bloedproducten of tussenproducten afgeleverd te krijgen van anderen dan de Bloedvoorzieningsorganisatie.   
+5.  Onze Minister van Defensie neemt bij het uitoefenen van de taken, bedoeld in dit artikel, de bij ministeriële regeling gestelde regels, ter uitvoering van besluiten van instellingen van de Europese Unie en andere besluiten van volkenrechtelijke organisaties, in acht.  
+
 ### HOOFDSTUK  III  
 
 ####AFLEVERING 
@@ -223,7 +238,9 @@ d. voor wat betreft tussenproducten, de krachtens artikel 13, eerste lid, onder 
 
 ### Artikel  18  
 
-Bij algemene maatregel van bestuur kan worden bepaald dat bij het indienen van een aanvraag om een aanwijzing als bedoeld in de artikelen 12, eerste lid, onder *c* , en 13, eerste lid, onder *d* , dan wel een vergunning als bedoeld in de artikelen 15, eerste lid, 16, eerste lid, en 17, eerste lid, een bedrag moet worden betaald, waarvan de hoogte bij die maatregel wordt geregeld, doch ten hoogste de kosten verbonden aan de aanwijzing of vergunning mag bedragen. Onze Minister kan regels stellen omtrent de wijze van betaling.  
+1.  De kosten die samenhangen met het in behandeling nemen van de aanvraag van een aanwijzing als bedoeld in de artikelen 12, eerste lid, onder c, en 13, eerste lid, onder d, of een vergunning als bedoeld in de artikelen 15, eerste lid, 16, eerste lid, en 17, eerste lid, kunnen ten laste worden gebracht van de aanvrager.   
+2.  Bij de houder van de aanwijzing of de vergunning, bedoeld in het eerste lid, kan jaarlijks een vergoeding in rekening worden gebracht.   
+3.  De bedragen ter vergoeding van de kosten en de hoogte van de jaarlijkse vergoeding worden bij ministeriële regeling vastgesteld.  
 
 ### HOOFDSTUK  VI  
 

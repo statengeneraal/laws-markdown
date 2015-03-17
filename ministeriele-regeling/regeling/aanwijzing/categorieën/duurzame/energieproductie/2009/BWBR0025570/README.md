@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Economische Zaken van 16 maart 2009, nr. WJZ/9051027, houdende aanwijzing van categorieën productie-installaties voor de stimulering van duurzame energieproductie in het jaar 2009 (Regeling aanwijzing categorieën duurzame energieproductie 2009)
 
 De Minister van Economische Zaken, Na overleg met de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, de Minister van Landbouw, Natuur en Voedselkwaliteit en de Minister van Financiën,  
-Gelet op de [artikelen 31, negende lid](../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), en [77c van de Elektriciteitswet 1998](../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) en [7](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [8](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [10](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [11, eerste lid](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [12, eerste lid](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [14, vijfde lid](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [15, derde lid en vierde lid](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [25](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [27](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [28, eerste lid](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [29, eerste lid](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [31, vierde lid](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [32, derde lid](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [56, eerste lid en derde lid](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [artikel 61, eerste lid](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), en [artikel 63, tweede lid, van het Besluit stimulering duurzame energieproductie](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);
+Gelet op de artikelen 31, negende lid, en 77c van de Elektriciteitswet 1998 en 7, 8, 10, 11, eerste lid, 12, eerste lid, 14, vijfde lid, 15, derde lid en vierde lid, 25, 27, 28, eerste lid, 29, eerste lid, 31, vierde lid, 32, derde lid, 56, eerste lid en derde lid, artikel 61, eerste lid, en artikel 63, tweede lid, van het Besluit stimulering duurzame energieproductie;
 Besluit:     
 ### §  1  
 
@@ -15,11 +15,11 @@ In deze regeling wordt verstaan onder:
 
 –  *minister:* de Minister van Economische Zaken;  
 
-–  *besluit:* het [Besluit stimulering duurzame energieproductie](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);  
+–  *besluit:* het Besluit stimulering duurzame energieproductie;  
 
 –  *algemene uitvoeringsregeling:* de Algemene uitvoeringsregeling stimulering duurzame energieproductie;  
 
-–  *gewogen maandelijks rendement:* het rendement, bedoeld in [artikel 1, vierde lid, van de Regeling garanties van oorsprong voor duurzame elektriciteit](../../../../../../../../ministeriele-regeling/regeling/garanties/van/oorsprong/voor/duurzame/elektriciteit/BWBR0016021/README.md);  
+–  *gewogen maandelijks rendement:* het rendement, bedoeld in artikel 1, vierde lid, van de Regeling garanties van oorsprong voor duurzame elektriciteit;  
 
 –  *NTA 8003:* 2008: de Nederlandse Technische Afspraak 8003, Classificatie van biomassa voor energietoepassing, uitgegeven door het Nederlands Normalisatie-instituut, zoals deze luidde op 31 december 2008;  
 
@@ -41,7 +41,7 @@ In deze regeling wordt verstaan onder:
 
 –  *productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van waterkracht:* een productie-installatie waarmee door hydro-mechanisch-elektrische omzetting hernieuwbare elektriciteit wordt geproduceerd uit potentiële dan wel kinetische energie van stromend water dat niet specifiek ten behoeve van de elektriciteitsproductie omhoog is gepompt;  
 
-–  *productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie op land:* een productie-installatie die niet is opgericht in de territoriale zee of in de Nederlandse exclusieve economische zone, waarmee hernieuwbare elektriciteit wordt geproduceerd met behulp van windenergie en die geen productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie is als bedoeld in [artikel 1, onderdeel o, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);  
+–  *productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie op land:* een productie-installatie die niet is opgericht in de territoriale zee of in de Nederlandse exclusieve economische zone, waarmee hernieuwbare elektriciteit wordt geproduceerd met behulp van windenergie en die geen productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie is als bedoeld in artikel 1, onderdeel o, van het besluit;  
 
 –  *productie-installatie voor de productie van hernieuwbaar gas met gebruik van stortgas of biogas uit afvalwater- of rioolwaterzuiveringsinstallaties:* een productie-installatie waarmee hernieuwbaar gas wordt geproduceerd: 
 
@@ -59,11 +59,11 @@ In deze regeling wordt verstaan onder:
 
 3° de verbranding van producten die voortkomen uit thermische behandeling;    
 
-–  *vergisting en co-vergisting van dierlijke mest:* de biologische afbraakreacties van in hoofdzaak verpompbare vaste en vloeibare uitwerpselen van dieren, al dan niet aangevuld met een of meer producten genoemd in de [Meststoffenbeschikking 1977, bijlage I, hoofdstuk III, typeaanduiding ‘co-vergiste mest’](../../../../../../../../ministeriele-regeling/meststoffenbeschikking/1977/BWBR0003122/README.md) zoals deze luidde op 31 december 2007;  
+–  *vergisting en co-vergisting van dierlijke mest:* de biologische afbraakreacties van in hoofdzaak verpompbare vaste en vloeibare uitwerpselen van dieren, al dan niet aangevuld met een of meer producten genoemd in de Meststoffenbeschikking 1977, bijlage I, hoofdstuk III, typeaanduiding ‘co-vergiste mest’ zoals deze luidde op 31 december 2007;  
 
 –  *vergisting van groente-, fruit- en tuinafval:* de biologische afbraakreacties van biomassa als bedoeld in de nummers 251, 252, 253, 254, 600, 610, 620 van de NTA 8003:2008;  
 
-–  *warmtebenuttingscoëfficiënt:* de hoeveelheid gedurende een kalenderjaar door een productie-installatie geproduceerde en nuttig aangewende warmte als bedoeld in [artikel 1, eerste lid, onderdeel v, van de Regeling garanties van oorsprong voor duurzame elektriciteit](../../../../../../../../ministeriele-regeling/regeling/garanties/van/oorsprong/voor/duurzame/elektriciteit/BWBR0016021/README.md), gedeeld door de hoeveelheid gedurende hetzelfde kalenderjaar geproduceerde en op het elektriciteitsnet ingevoede hernieuwbare elektriciteit.   
+–  *warmtebenuttingscoëfficiënt:* de hoeveelheid gedurende een kalenderjaar door een productie-installatie geproduceerde en nuttig aangewende warmte als bedoeld in artikel 1, eerste lid, onderdeel v, van de Regeling garanties van oorsprong voor duurzame elektriciteit, gedeeld door de hoeveelheid gedurende hetzelfde kalenderjaar geproduceerde en op het elektriciteitsnet ingevoede hernieuwbare elektriciteit.   
 
 ### §  2  
 
@@ -95,11 +95,11 @@ Het maximaal aantal vollasturen voor productie-installaties voor de productie va
 
 ### Artikel  6  
 
-Het basisbedrag, bedoeld in [artikel 11 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 2, eerste lid, bedraagt € 0,118 per kWh. 
+Het basisbedrag, bedoeld in artikel 11 van het besluit, voor subsidie als bedoeld in artikel 2, eerste lid, bedraagt € 0,118 per kWh. 
 
 ### Artikel  7  
 
-De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 2, eerste lid, bedraagt € 0,049 per kWh. 
+De basiselektriciteitsprijs, bedoeld in artikel 12 van het besluit, voor subsidie als bedoeld in artikel 2, eerste lid, bedraagt € 0,049 per kWh. 
 
 ### §  2.1a  
 
@@ -111,21 +111,21 @@ De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](../../../..
 
 a. het nominale vermogen van de individuele windturbine ten minste 6,0 MW bedraagt;  
 
-b. [artikel 9b, eerste lid, aanhef en onderdeel a, van de Elektriciteitswet 1998](../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) van toepassing is;  
+b. artikel 9b, eerste lid, aanhef en onderdeel a, van de Elektriciteitswet 1998 van toepassing is;  
 
-c. de milieu-effectrapportage, bedoeld in [hoofdstuk 7 van de Wet milieubeheer](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), op grond van [artikel 7.20 van de Wet milieubeheer](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) ter inzage is gelegd, en  
+c. de milieu-effectrapportage, bedoeld in hoofdstuk 7 van de Wet milieubeheer, op grond van artikel 7.20 van de Wet milieubeheer ter inzage is gelegd, en  
 
-d. de voor de productie-installatie vereiste vergunningen op grond van de [Woningwet](../../../../../../../../wet/woningwet/BWBR0005181/README.md), de [Wet Milieubeheer](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), de [Wet beheer rijkswaterstaatswerken](../../../../../../../../wet/wet/beheer/rijkswaterstaatswerken/BWBR0008331/README.md) en de [Wet op de Ruimtelijke ordening](../../../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) zijn aangevraagd.     
+d. de voor de productie-installatie vereiste vergunningen op grond van de Woningwet, de Wet Milieubeheer, de Wet beheer rijkswaterstaatswerken en de Wet op de Ruimtelijke ordening zijn aangevraagd.     
 2.  De minister verstrekt op aanvraag subsidie aan producenten van hernieuwbare elektriciteit geproduceerd door een productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie op land, indien: 
 
 a. de fundering in een meer van minimaal één vierkante kilometer staat en het nominale vermogen van de individuele windturbine ten minste 3,0 MW bedraagt;  
 
-b. [artikel 9b, eerste lid, onderdeel a, van de Elektriciteitswet 1998](../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) van toepassing is;  
+b. artikel 9b, eerste lid, onderdeel a, van de Elektriciteitswet 1998 van toepassing is;  
 
-c. de milieu-effectrapportage, bedoeld in [hoofdstuk 7 van de Wet milieubeheer](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), op grond van [artikel 7.20 van de Wet milieubeheer](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) ter inzage is gelegd, en  
+c. de milieu-effectrapportage, bedoeld in hoofdstuk 7 van de Wet milieubeheer, op grond van artikel 7.20 van de Wet milieubeheer ter inzage is gelegd, en  
 
-d. de voor de productie-installatie vereiste vergunningen op grond van de [Woningwet](../../../../../../../../wet/woningwet/BWBR0005181/README.md), de [Wet Milieubeheer](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), de [Wet beheer rijkswaterstaatswerken](../../../../../../../../wet/wet/beheer/rijkswaterstaatswerken/BWBR0008331/README.md) en de [Wet op de Ruimtelijke ordening](../../../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) zijn aangevraagd.     
-3.  Productie-installaties als bedoeld in het eerste en tweede lid, worden aangewezen als productie-installaties als bedoeld in [artikel 56, eerste lid, tweede volzin, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md).   
+d. de voor de productie-installatie vereiste vergunningen op grond van de Woningwet, de Wet Milieubeheer, de Wet beheer rijkswaterstaatswerken en de Wet op de Ruimtelijke ordening zijn aangevraagd.     
+3.  Productie-installaties als bedoeld in het eerste en tweede lid, worden aangewezen als productie-installaties als bedoeld in artikel 56, eerste lid, tweede volzin, van het besluit.   
 4.  Aanvragen om subsidie als bedoeld in het eerste en tweede lid, worden ontvangen in de periode van de datum van inwerkingtreding van dit artikel tot 29 januari 2010, 17:00 uur.   
 5.  Een aanvraag wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende bijlage 6.  
 
@@ -153,7 +153,7 @@ b. artikel 7a, tweede lid: 2494.
 
 ### Artikel  7e  
 
-Het basisbedrag, bedoeld in [artikel 11 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 7a, eerste en tweede lid, bedraagt voor productie-installaties als bedoeld in: 
+Het basisbedrag, bedoeld in artikel 11 van het besluit, voor subsidie als bedoeld in artikel 7a, eerste en tweede lid, bedraagt voor productie-installaties als bedoeld in: 
 
 a. artikel 7a, eerste lid: € 0,120 per kWh;  
 
@@ -161,7 +161,7 @@ b. artikel 7a, tweede lid: € 0,151 per kWh.
 
 ### Artikel  7f  
 
-De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 7a, eerste en tweede lid, bedraagt voor productie-installaties als bedoeld in: 
+De basiselektriciteitsprijs, bedoeld in artikel 12 van het besluit, voor subsidie als bedoeld in artikel 7a, eerste en tweede lid, bedraagt voor productie-installaties als bedoeld in: 
 
 a. artikel 7a, eerste lid: € 0,050 per kWh;  
 
@@ -177,11 +177,11 @@ b. artikel 7a, tweede lid: € 0,050 per kWh.
 
 a. groter dan 0,6 kWp en kleiner dan of gelijk aan 15 kWp;  
 
-b. groter dan 15 kWp en kleiner dan of gelijk aan 100 kWp, welke zijn geplaatst op of tegen een gebouw als bedoeld in [artikel 1, onderdeel c, Woningwet](../../../../../../../../wet/woningwet/BWBR0005181/README.md).     
-2.  Productie-installaties als bedoeld in het eerste lid, worden aangewezen als productie-installaties als bedoeld in [artikel 15, vierde lid, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md) en als bedoeld in artikel 56, eerste lid, tweede volzin.   
+b. groter dan 15 kWp en kleiner dan of gelijk aan 100 kWp, welke zijn geplaatst op of tegen een gebouw als bedoeld in artikel 1, onderdeel c, Woningwet.     
+2.  Productie-installaties als bedoeld in het eerste lid, worden aangewezen als productie-installaties als bedoeld in artikel 15, vierde lid, van het besluit en als bedoeld in artikel 56, eerste lid, tweede volzin.   
 3.  Aanvragen om subsidie als bedoeld in het eerste lid, worden ontvangen in de periode van 6 april 2009 tot 30 oktober 2009, 17:00 uur.   
 4.  Een aanvraag om subsidie wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende bijlage 2.   
-5.  Een gebundelde aanvraag om subsidie als bedoeld in [artikel 56, eerste lid, tweede volzin, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md) wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier dat is opgenomen in de bij deze regeling behorende bijlage 3.   
+5.  Een gebundelde aanvraag om subsidie als bedoeld in artikel 56, eerste lid, tweede volzin, van het besluit wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier dat is opgenomen in de bij deze regeling behorende bijlage 3.   
 6.  Een aanvraag om subsidie als bedoeld in het vierde lid en vijfde lid, wordt geacht een aanvraag tot het verstrekken van een voorschot te zijn, tenzij de aanvrager te kennen geeft een aparte aanvraag tot het verstrekken van een voorschot te willen indienen of aangeeft geen voorschot te willen ontvangen.  
 
 ### Artikel  9  
@@ -209,7 +209,7 @@ Het maximaal aantal vollasturen voor productie-installaties voor de productie va
 
 ### Artikel  13  
 
-Het basisbedrag, bedoeld in [artikel 11 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 8, eerste lid, bedraagt voor productie- installaties als bedoeld in: 
+Het basisbedrag, bedoeld in artikel 11 van het besluit, voor subsidie als bedoeld in artikel 8, eerste lid, bedraagt voor productie- installaties als bedoeld in: 
 
 a. artikel 8, eerste lid, onderdeel a: € 0,526 per kWh;  
 
@@ -217,7 +217,7 @@ b. artikel 8, eerste lid, onderdeel b: € 0,459 per kWh.
 
 ### Artikel  14  
 
-De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 8, eerste lid, bedraagt voor productie-installaties als bedoeld in: 
+De basiselektriciteitsprijs, bedoeld in artikel 12 van het besluit, voor subsidie als bedoeld in artikel 8, eerste lid, bedraagt voor productie-installaties als bedoeld in: 
 
 a. artikel 8, eerste lid, onderdeel a: € 0,202 per kWh;  
 
@@ -253,7 +253,7 @@ Het maximaal aantal vollasturen voor productie-installaties voor de productie va
 
 ### Artikel  20  
 
-Het basisbedrag, bedoeld in [artikel 11 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 15, eerste lid, bedraagt bij een gewogen maandelijks rendement dat groter is dan genoemd in kolom 1 en kleiner is dan of gelijk is aan genoemd in kolom 2, het bedrag in euro per kWh, genoemd in kolom 3.  
+Het basisbedrag, bedoeld in artikel 11 van het besluit, voor subsidie als bedoeld in artikel 15, eerste lid, bedraagt bij een gewogen maandelijks rendement dat groter is dan genoemd in kolom 1 en kleiner is dan of gelijk is aan genoemd in kolom 2, het bedrag in euro per kWh, genoemd in kolom 3.  
 
 | kolom 1  | kolom 2  | kolom 3  |
 |:---|:---|:---|
@@ -270,7 +270,7 @@ Het basisbedrag, bedoeld in [artikel 11 van het besluit](../../../../../../../..
 
 ### Artikel  21  
 
-De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 15, eerste lid, bedraagt € 0,092 per kWh. 
+De basiselektriciteitsprijs, bedoeld in artikel 12 van het besluit, voor subsidie als bedoeld in artikel 15, eerste lid, bedraagt € 0,092 per kWh. 
 
 ### §  2.4  
 
@@ -302,11 +302,11 @@ Het maximaal aantal vollasturen voor een productie-installatie voor de productie
 
 ### Artikel  27  
 
-Het basisbedrag, bedoeld in [artikel 11 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 24, eerste lid, bedraagt € 0,059 per kWh. 
+Het basisbedrag, bedoeld in artikel 11 van het besluit, voor subsidie als bedoeld in artikel 24, eerste lid, bedraagt € 0,059 per kWh. 
 
 ### Artikel  28  
 
-De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 24, eerste lid, bedraagt € 0,044 per kWh. 
+De basiselektriciteitsprijs, bedoeld in artikel 12 van het besluit, voor subsidie als bedoeld in artikel 24, eerste lid, bedraagt € 0,044 per kWh. 
 
 ### §  2.5  
 
@@ -342,7 +342,7 @@ Het maximaal aantal vollasturen voor productie-installaties als bedoeld in artik
 
 ### Artikel  33  
 
-1.  Het basisbedrag, bedoeld in [artikel 11 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 29, eerste lid, onderdeel a, bedraagt bij een warmtebenuttingscoëfficiënt groter dan genoemd in kolom 1 en kleiner dan of gelijk aan genoemd in kolom 2 een bedrag in euro per kWh, genoemd in kolom 3.  
+1.  Het basisbedrag, bedoeld in artikel 11 van het besluit, voor subsidie als bedoeld in artikel 29, eerste lid, onderdeel a, bedraagt bij een warmtebenuttingscoëfficiënt groter dan genoemd in kolom 1 en kleiner dan of gelijk aan genoemd in kolom 2 een bedrag in euro per kWh, genoemd in kolom 3.  
 
 | kolom 1  | kolom 2  | kolom 3  |
 |:---|:---|:---|
@@ -356,7 +356,7 @@ Het maximaal aantal vollasturen voor productie-installaties als bedoeld in artik
 | 1,75 MJ/kWh  | 2,0 MJ/kWh  | 0,174  |
 | 2,0 MJ/kWh  | onbepaald  | 0,177  |
 
-2.  Het basisbedrag, bedoeld in [artikel 11 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 29, eerste lid, onderdeel b, bedraagt bij een warmtebenuttingscoëfficiënt groter dan genoemd in kolom 1 en kleiner dan of gelijk aan genoemd in kolom 2 een bedrag in euro per kWh, genoemd in kolom 3.  
+2.  Het basisbedrag, bedoeld in artikel 11 van het besluit, voor subsidie als bedoeld in artikel 29, eerste lid, onderdeel b, bedraagt bij een warmtebenuttingscoëfficiënt groter dan genoemd in kolom 1 en kleiner dan of gelijk aan genoemd in kolom 2 een bedrag in euro per kWh, genoemd in kolom 3.  
 
 | kolom1  | kolom 2  | kolom 3  |
 |:---|:---|:---|
@@ -370,8 +370,8 @@ Het maximaal aantal vollasturen voor productie-installaties als bedoeld in artik
 | 1,75 MJ/kWh  | 2,0 MJ/kWh  | 0,146  |
 | 2,0 MJ/kWh  | onbepaald  | 0,149  |
 
-3.  Het basisbedrag, bedoeld in [artikel 11 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 29, eerste lid, onderdeel c, bedraagt € 0,158 per kWh.   
-4.  Het basisbedrag, bedoeld in [artikel 11 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 29, eerste lid, onderdeel d, bedraagt bij een warmtebenuttingscoëfficiënt groter dan genoemd in kolom 1 en kleiner dan of gelijk aan genoemd in kolom 2 een bedrag in euro per kWh, genoemd in kolom 3.  
+3.  Het basisbedrag, bedoeld in artikel 11 van het besluit, voor subsidie als bedoeld in artikel 29, eerste lid, onderdeel c, bedraagt € 0,158 per kWh.   
+4.  Het basisbedrag, bedoeld in artikel 11 van het besluit, voor subsidie als bedoeld in artikel 29, eerste lid, onderdeel d, bedraagt bij een warmtebenuttingscoëfficiënt groter dan genoemd in kolom 1 en kleiner dan of gelijk aan genoemd in kolom 2 een bedrag in euro per kWh, genoemd in kolom 3.  
 
 | kolom 1  | kolom 2  | kolom 3  |
 |:---|:---|:---|
@@ -395,7 +395,7 @@ Het maximaal aantal vollasturen voor productie-installaties als bedoeld in artik
 
 ### Artikel  34  
 
-De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 29, eerste lid, bedraagt € 0,044 per kWh. 
+De basiselektriciteitsprijs, bedoeld in artikel 12 van het besluit, voor subsidie als bedoeld in artikel 29, eerste lid, bedraagt € 0,044 per kWh. 
 
 ### §  2.6  
 
@@ -435,7 +435,7 @@ Het maximaal aantal vollasturen voor productie-installaties voor de productie va
 
 ### Artikel  39  
 
-Het basisbedrag, bedoeld in [artikel 11 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 35, eerste lid, bedraagt voor productie-installaties als bedoeld in: 
+Het basisbedrag, bedoeld in artikel 11 van het besluit, voor subsidie als bedoeld in artikel 35, eerste lid, bedraagt voor productie-installaties als bedoeld in: 
 
 a. artikel 35, eerste lid, onderdeel a: € 0,125 per kWh;  
 
@@ -443,7 +443,7 @@ b. artikel 35, eerste lid, onderdeel b: € 0,073 per kWh.
 
 ### Artikel  40  
 
-De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 35, eerste lid, onderdelen a en b, bedraagt € 0,044 per kWh. 
+De basiselektriciteitsprijs, bedoeld in artikel 12 van het besluit, voor subsidie als bedoeld in artikel 35, eerste lid, onderdelen a en b, bedraagt € 0,044 per kWh. 
 
 ### §  2.7  
 
@@ -453,43 +453,43 @@ De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](../../../..
 
 1.  De correcties op het basisbedrag voor de subsidie, bedoeld in artikel 8, eerste lid, onderdeel a, worden voor 2009 als volgt vastgesteld: 
 
-a. € 0,273 per kWh voor wat betreft de elektriciteitsprijs, bedoeld in [artikel 14, eerste lid, onderdeel a, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);  
+a. € 0,273 per kWh voor wat betreft de elektriciteitsprijs, bedoeld in artikel 14, eerste lid, onderdeel a, van het besluit;  
 
-b. € 0 voor wat betreft de correcties, bedoeld in [artikel 14, eerste lid, onderdelen b en c, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md).     
+b. € 0 voor wat betreft de correcties, bedoeld in artikel 14, eerste lid, onderdelen b en c, van het besluit.     
 2.  De correcties op het basisbedrag voor de subsidie, bedoeld in artikel 8, eerste lid, onderdeel b, worden voor 2009 als volgt vastgesteld: 
 
-a. € 0,076 per kWh voor wat betreft de elektriciteitsprijs, bedoeld in [artikel 14, eerste lid, onderdeel a, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);  
+a. € 0,076 per kWh voor wat betreft de elektriciteitsprijs, bedoeld in artikel 14, eerste lid, onderdeel a, van het besluit;  
 
-b. € 0 voor wat betreft de correcties, bedoeld in [artikel 14, eerste lid, onderdelen b en c, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md).     
+b. € 0 voor wat betreft de correcties, bedoeld in artikel 14, eerste lid, onderdelen b en c, van het besluit.     
 3.  De correcties op het basisbedrag voor subsidie-ontvangers als bedoeld in artikel 7a, eerste en tweede lid, worden voor 2009 als volgt vastgesteld: 
 
-a. € 0,080 per kWh voor wat betreft de elektriciteitsprijs, bedoeld in [artikel 14, eerste lid, onderdeel a, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);  
+a. € 0,080 per kWh voor wat betreft de elektriciteitsprijs, bedoeld in artikel 14, eerste lid, onderdeel a, van het besluit;  
 
-b. € 0,– voor wat betreft de correcties, bedoeld in [artikel 14, eerste lid, onderdelen b en c, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md).   
+b. € 0,– voor wat betreft de correcties, bedoeld in artikel 14, eerste lid, onderdelen b en c, van het besluit.   
 
 ### Artikel  42  
 
 1.  De correcties op het basisbedrag voor subsidie als bedoeld in artikel 29, eerste lid, worden voor 2009 als volgt vastgesteld: 
 
-a. € 0,070 per kWh voor wat betreft de elektriciteitsprijs, bedoeld in [artikel 14, eerste lid, onderdeel a, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);  
+a. € 0,070 per kWh voor wat betreft de elektriciteitsprijs, bedoeld in artikel 14, eerste lid, onderdeel a, van het besluit;  
 
-b. € 0 voor wat betreft de correcties, bedoeld in [artikel 14, eerste lid, onderdelen b en c, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md).    
+b. € 0 voor wat betreft de correcties, bedoeld in artikel 14, eerste lid, onderdelen b en c, van het besluit.    
 
 ### Artikel  43  
 
 1.  De correcties op het basisbedrag voor subsidie als bedoeld in artikel 35, eerste lid, worden voor 2009 als volgt vastgesteld: 
 
-a. € 0,070 per kWh voor wat betreft de elektriciteitsprijs, bedoeld in [artikel 14, eerste lid, onderdeel a, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);  
+a. € 0,070 per kWh voor wat betreft de elektriciteitsprijs, bedoeld in artikel 14, eerste lid, onderdeel a, van het besluit;  
 
-b. € 0 voor wat betreft de correcties, bedoeld in [artikel 14, eerste lid, onderdelen b en c, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md).    
+b. € 0 voor wat betreft de correcties, bedoeld in artikel 14, eerste lid, onderdelen b en c, van het besluit.    
 
 ### Artikel  43a  
 
 De correcties op het basisbedrag voor subsidie-ontvangers als bedoeld in artikel 7a, eerste en tweede lid, worden voor 2010 als volgt vastgesteld: 
 
-a. € 0,054 per kWh voor wat betreft de elektriciteitsprijs, bedoeld in [artikel 14, eerste lid, onderdeel a, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);  
+a. € 0,054 per kWh voor wat betreft de elektriciteitsprijs, bedoeld in artikel 14, eerste lid, onderdeel a, van het besluit;  
 
-b. € 0,– voor wat betreft de correcties, bedoeld in [artikel 14, eerste lid, onderdelen b en c, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md).   
+b. € 0,– voor wat betreft de correcties, bedoeld in artikel 14, eerste lid, onderdelen b en c, van het besluit.   
 
 ### §  3  
 
@@ -525,11 +525,11 @@ Het maximaal aantal vollasturen voor productie-installaties voor de productie va
 
 ### Artikel  49  
 
-Het basisbedrag, bedoeld in [artikel 28 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 44, eerste lid, bedraagt € 0,218 per Nm<sup>3</sup>. 
+Het basisbedrag, bedoeld in artikel 28 van het besluit, voor subsidie als bedoeld in artikel 44, eerste lid, bedraagt € 0,218 per Nm<sup>3</sup>. 
 
 ### Artikel  50  
 
-De basisgasprijs, bedoeld in [artikel 29 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 44, eerste lid, bedraagt € 0,147 per Nm<sup>3</sup>. 
+De basisgasprijs, bedoeld in artikel 29 van het besluit, voor subsidie als bedoeld in artikel 44, eerste lid, bedraagt € 0,147 per Nm<sup>3</sup>. 
 
 ### §  3.2  
 
@@ -563,7 +563,7 @@ Het maximaal aantal vollasturen voor productie-installaties bedoeld in artikel 5
 
 ### Artikel  55  
 
-Het basisbedrag, bedoeld in [artikel 28 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), bedraagt voor subsidie als bedoeld in: 
+Het basisbedrag, bedoeld in artikel 28 van het besluit, bedraagt voor subsidie als bedoeld in: 
 
 a. artikel 51, eerste lid, onderdeel a: € 0,465 per Nm<sup>3</sup>;  
 
@@ -571,7 +571,7 @@ b. artikel 51, eerste lid, onderdelen b en c: € 0,583 per Nm<sup>3</sup>.
 
 ### Artikel  56  
 
-De basisgasprijs, bedoeld in [artikel 29 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 51, eerste lid, bedraagt € 0,147 per Nm<sup>3</sup>. 
+De basisgasprijs, bedoeld in artikel 29 van het besluit, voor subsidie als bedoeld in artikel 51, eerste lid, bedraagt € 0,147 per Nm<sup>3</sup>. 
 
 ### §  3.3  
 
@@ -581,9 +581,9 @@ De basisgasprijs, bedoeld in [artikel 29 van het besluit](../../../../../../../.
 
 De correcties op het basisbedrag voor de subsidie, bedoeld in artikel 51, eerste lid, worden voor 2009 als volgt vastgesteld: 
 
-a. € 0,221 per Nm<sup>3</sup> voor wat betreft de gasprijs, bedoeld in [artikel 31, eerste lid, onderdeel a, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);  
+a. € 0,221 per Nm<sup>3</sup> voor wat betreft de gasprijs, bedoeld in artikel 31, eerste lid, onderdeel a, van het besluit;  
 
-b. € 0 voor wat betreft de correcties, bedoeld in [artikel 31, eerste lid, onderdeel b, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md).   
+b. € 0 voor wat betreft de correcties, bedoeld in artikel 31, eerste lid, onderdeel b, van het besluit.   
 
 ### §  4  
 

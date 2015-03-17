@@ -627,7 +627,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 (d) Any instrument of ratification or accession of a State may contain or be accompanied by a declaration making it a condition to its being considered as deposited that the instrument of one other State or one intergovernmental organization, or the instruments of two other States, or the instruments of one other State and one intergovernmental organization, specified by name and eligible to become party to this Act, is or are also deposited. The instrument containing or accompanied by such a declaration shall be considered to have been deposited on the day on which the condition indicated in the declaration is fulfilled. However, when an instrument specified in the declaration itself contains, or is itself accompanied by, a declaration of the said kind, that instrument shall be considered as deposited on the day on which the condition specified in the latter declaration is fulfilled.  
 
-(e) Any declaration made under paragraph (d) may be withdrawn, in its entirety or in part, at any time. Any such withdrawal shall become effective on the date on which the notification of withdrawal is received by the Director General.    
+(e) Any declaration made under subparagraph (d) may be withdrawn, in its entirety or in part, at any time. Any such withdrawal shall become effective on the date on which the notification of withdrawal is received by the Director General.    
 
 ### Article  28  
 
@@ -781,7 +781,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 (a) Where the International Bureau finds that the appointment of a representative complies with the applicable requirements, it shall record the fact that the applicant or holder has a representative, as well as the name and address of the representative, in the International Register. In such a case, the effective date of the appointment shall be the date on which the International Bureau received the international application or separate communication in which the representative is appointed.  
 
-(b) The International Bureau shall notify the recording referred to in subparagraph to both the applicant or holder and the representative.     
+(b) The International Bureau shall notify the recording referred to in subparagraph a) to both the applicant or holder and the representative.     
 4.   [*Effect of Appointment of a Representative*]  
 
 (a) Except where these Regulations expressly provide otherwise, the signature of a representative recorded under paragraph (3)(a) shall replace the signature of the applicant or holder.  
@@ -1153,7 +1153,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 (iii) if it is sent to the International Bureau after the expiry of the period applicable under Rule 18(1).    
 
-(b) Where subparagraph applies, the International Bureau shall, unless it cannot identify the international registration concerned, transmit a copy of the notification to the holder, shall inform, at the same time, the holder and the Office that sent the notification that the notification of refusal is not regarded as such by the International Bureau and has not been recorded in the International Register, and shall indicate the reasons therefor.     
+(b) Where subparagraph a) applies, the International Bureau shall, unless it cannot identify the international registration concerned, transmit a copy of the notification to the holder, shall inform, at the same time, the holder and the Office that sent the notification that the notification of refusal is not regarded as such by the International Bureau and has not been recorded in the International Register, and shall indicate the reasons therefor.     
 2.   [*Irregular Notification*] If the notification of refusal  
 
 (i) is not signed on behalf of the Office which communicated the refusal, or does not comply with the requirements established under Rule 2,  
@@ -1754,7 +1754,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 a. In elke aangewezen Verdragsluitende Partij waarvan het Bureau geen weigering overeenkomstig artikel 12 heeft medegedeeld, heeft de internationale inschrijving dezelfde rechtsgevolgen als de toekenning van de bescherming van de tekening of het model van nijverheid ingevolge de wetgeving van die Verdragsluitende Partij, uiterlijk te rekenen vanaf de datum van het verstrijken van de termijn gedurende welke zij een weigering kan mededelen of, wanneer een Verdragsluitende Partij daartoe een verklaring heeft gedaan ingevolge het Reglement van uitvoering, uiterlijk op het in die verklaring vermelde tijdstip.  
 
-b.  <sup> 3) Bij de aanneming van artikel 12, vierde lid, artikel 14, tweede lid, onder b), en regel 18, vierde lid, heeft de diplomatieke conferentie afgesproken dat de intrekking van een weigering door een Bureau dat een kennisgeving van weigering heeft medegedeeld, de vorm kan aannemen van een verklaring luidende dat het betrokken Bureau heeft besloten de rechtsgevolgen van de internationale inschrijving te aanvaarden voor alle of een gedeelte van de tekeningen of modellen van nijverheid waarop de kennisgeving van weigering van toepassing is. Er werd eveneens afgesproken dat een Bureau binnen de voor de mededeling van een kennisgeving van weigering voorgeschreven termijn een verklaring kan verzenden luidende dat het heeft besloten de rechtsgevolgen van de internationale inschrijving te aanvaarden, zelfs wanneer het een dergelijke kennisgeving van weigering niet heeft medegedeeld. </sup> Wanneer het Bureau van een aangewezen Verdragsluitende Partij een weigering heeft medegedeeld en deze weigering nadien geheel of ten dele heeft ingetrokken, heeft de internationale inschrijving in die Verdragsluitende Partij, voorzover de weigering is ingetrokken, dezelfde rechtsgevolgen als een toekenning van de bescherming van de tekening of het model van nijverheid ingevolge de wetgeving van genoemde Verdragsluitende Partij, uiterlijk te rekenen vanaf de datum waarop de weigering is ingetrokken.  
+b.  <sup> 3) Bij de aanneming van artikel 12, vierde lid, artikel 14, tweede lid, onder b), en regel 18, vierde lid, heeft de diplomatieke conferentie afgesproken dat de intrekking van een weigering door een Bureau dat een kennisgeving van weigering heeft medegedeeld, de vorm kan aannemen van een verklaring luidende dat het betrokken Bureau heeft besloten de rechtsgevolgen van de internationale inschrijving te aanvaarden voor alle of een gedeelte van de tekeningen of modellen van nijverheid waarop de kennisgeving van weigering van toepassing is. Er werd eveneens afgesproken dat een Bureau binnen de voor de mededeling van een kennisgeving van weigering voorgeschreven termijn een verklaring kan verzenden luidende dat het heeft besloten de rechtsgevolgen van de internationale inschrijving te aanvaarden, zelfs wanneer het een dergelijke kennisgeving van weigering niet heeft medegedeeld. </sup> Wanneer het Bureau van een aangewezen Verdragsluitende Partij een weigering heeft medegedeeld en deze weigering nadien geheel of ten dele heeft ingetrokken, heeft de internationale inschrijving in die Verdragsluitende Partij, voor zover de weigering is ingetrokken, dezelfde rechtsgevolgen als een toekenning van de bescherming van de tekening of het model van nijverheid ingevolge de wetgeving van genoemde Verdragsluitende Partij, uiterlijk te rekenen vanaf de datum waarop de weigering is ingetrokken.  
 
 c. De ingevolge dit lid aan de internationale inschrijving toegekende rechtsgevolgen zijn van toepassing op tekeningen of modellen van nijverheid die het onderwerp zijn van die inschrijving zoals zij door het aangewezen Bureau van het Internationaal Bureau zijn ontvangen of, in voorkomend geval, zoals zij zijn gewijzigd gedurende de procedure bij dat Bureau.     
 3.  [*Verklaring betreffende de rechtsgevolgen van de aanwijzing van de Verdragsluitende Partij van de aanvrager*] 
@@ -1774,7 +1774,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ### Artikel  16  
 
-####Aantekening van wijzigingen en andere aangelegenhedenbetreffende internationale inschrijvingen
+####Aantekening van wijzigingen en andere aangelegenheden betreffende internationale inschrijvingen
 
 Treedt in werking op een nader te bepalen tijdstip 
 
@@ -2263,7 +2263,7 @@ Treedt in werking op een nader te bepalen tijdstip
 1.  [*Termijnen uitgedrukt in jaren*] Elke termijn uitgedrukt in jaren loopt af in het in aanmerking te nemen volgende jaar, in de maand met dezelfde naam en op de dag met hetzelfde nummer als de maand en de dag van de gebeurtenis waarmee de termijn begint te lopen; indien de gebeurtenis zich evenwel op 29 februari heeft voorgedaan en de maand februari van het in aanmerking te nemen volgende jaar op de 28<sup>ste</sup> eindigt, loopt de termijn af op 28 februari.   
 2.  [*Termijnen uitgedrukt in maanden*] Elke termijn uitgedrukt in maanden loopt af in de in aanmerking te nemen volgende maand, op de dag met hetzelfde nummer als de dag van de gebeurtenis waarmee de termijn begint te lopen; indien de in aanmerking te nemen volgende maand evenwel geen dag heeft met hetzelfde nummer, loopt de termijn af op de laatste dag van die maand.   
 3.  [*Termijnen uitgedrukt in dagen*] Elke termijn uitgedrukt in dagen begint te lopen op de dag volgend op de dag waarop de desbetreffende gebeurtenis plaatsvindt en loopt dienovereenkomstig af.   
-4.  [*Afloop van een termijn op een dag waarop het Internationaal Bureau of een Bureau niet open is voor het publiek*] Indien een termijn afloopt op een dag waarop het Internationaal Bureau of het betrokken Bureau niet open is voor het publiek,loopt de termijn, onverminderd het bepaalde in het eerste tot en met derde lid, af op de eerstvolgende dag waarop het Internationaal Bureau of het betrokken Bureau open is voor het publiek.  
+4.  [*Afloop van een termijn op een dag waarop het Internationaal Bureau of een Bureau niet open is voor het publiek*] Indien een termijn afloopt op een dag waarop het Internationaal Bureau of het betrokken Bureau niet open is voor het publiek, loopt de termijn, onverminderd het bepaalde in het eerste tot en met derde lid, af op de eerstvolgende dag waarop het Internationaal Bureau of het betrokken Bureau open is voor het publiek.  
 
 ### Regel  5  
 
@@ -2292,7 +2292,7 @@ ii. dat de besteldienst de gegevens met betrekking tot de verzending van de mede
 Treedt in werking op een nader te bepalen tijdstip 
 
 1.  [*Internationale aanvraag*] De internationale aanvraag moet zijn opgesteld in het Engels of het Frans.   
-2.  [*Aantekening enpublicatie*] De aantekening in het internationale register en de publicatie in het publicatieblad van de internationale inschrijving en van alle gegevens met betrekking tot deze internationale inschrijving die zowel het onderwerp dienen te zijn van een aantekening als van een publicatie ingevolge dit Reglement van uitvoering, worden gedaan in het Engels of het Frans. De aantekening en de publicatie van de internationale inschrijving bevatten de aanduiding van de taal waarin het Internationaal Bureau de internationale aanvraag heeft ontvangen.   
+2.  [*Aantekening en publicatie*] De aantekening in het internationale register en de publicatie in het publicatieblad van de internationale inschrijving en van alle gegevens met betrekking tot deze internationale inschrijving die zowel het onderwerp dienen te zijn van een aantekening als van een publicatie ingevolge dit Reglement van uitvoering, worden gedaan in het Engels of het Frans. De aantekening en de publicatie van de internationale inschrijving bevatten de aanduiding van de taal waarin het Internationaal Bureau de internationale aanvraag heeft ontvangen.   
 3.  [*Mededelingen*] Elke mededeling met betrekking tot een internationale aanvraag of de internationale inschrijving die hiervan het gevolg is, dient te worden gesteld: 
 
 i. in het Engels of het Frans wanneer deze mededeling door de aanvrager of de houder of door een Bureau aan het Internationaal Bureau wordt gericht;  
@@ -2435,7 +2435,7 @@ iii. een individuele aanwijzingstaks voor elke aangewezen Verdragsluitende Parti
 iv. een publicatietaks.    
 
 b. Het bedrag van de onder i, ii en iv bedoelde taksen wordt vermeld in het overzicht van taksen.     
-2.  [*Datum waarop de taksen dienen te worden betaald*] De in het eerste lid bedoelde taksen dienen, onverminderd het bepaalde in het derde lid, te worden betaald op het tijdstip van de indiening van de internationale aanvraag, met uitzondering van de publicatietaks, die, wanneer de internationale aanvraag een verzoek tot opschorting van depublicatie bevat, overeenkomstig regel 16, derde lid, later kan worden betaald.   
+2.  [*Datum waarop de taksen dienen te worden betaald*] De in het eerste lid bedoelde taksen dienen, onverminderd het bepaalde in het derde lid, te worden betaald op het tijdstip van de indiening van de internationale aanvraag, met uitzondering van de publicatietaks, die, wanneer de internationale aanvraag een verzoek tot opschorting van de publicatie bevat, overeenkomstig regel 16, derde lid, later kan worden betaald.   
 3.  [*Individuele aanwijzingstaks betaalbaar in twee gedeelten*] 
 
 a. In de in artikel 7, tweede lid, bedoelde verklaring kan eveneens worden vermeld dat de voor de betrokken Verdragsluitende Partij verschuldigde individuele aanwijzingstaks uit twee gedeelten bestaat, waarvan het eerste gedeelte dient te worden betaald op het tijdstip van de indiening van de internationale aanvraag en het tweede gedeelte op een latere datum die wordt vastgesteld overeenkomstig de wetgeving van de betrokken Verdragsluitende Partij.  
@@ -2512,7 +2512,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 1.  [*Maximum tijdvak van opschorting*] Het voor de toepassing van artikel 11, eerste lid, onder a, en tweede lid, onder i, voorgeschreven tijdvak bedraagt 30 maanden, te rekenen vanaf de datum van indiening of, indien aanspraak wordt gemaakt op voorrang, te rekenen vanaf de datum van voorrang van de desbetreffende aanvraag.   
 2.  [*Termijn voor intrekking van een aanwijzing wanneer de opschorting volgens de toepasselijke wetgeving niet mogelijk is*] De in artikel 11, derde lid, onder i, bedoelde termijn voor intrekking door de aanvrager van de aanwijzing van een Verdragsluitende Partij waarvan de wetgeving de opschorting van de publicatie niet toestaat, bedraagt een maand, te rekenen vanaf de datum van de door het Internationaal Bureau verzonden kennisgeving.   
-3.  [*Termijn van betaling van de publicatietaks en voor het overleggen van de reproducties*] De in regel 12, eerste lid, onderdeel a, onder iv, bedoeldepublicatietaks en de in artikel 11, zesde lid, onder b, bedoelde reproducties, moeten worden betaald respectievelijk overgelegd voor het verstrijken van het toepasselijke tijdvak van opschorting ingevolge artikel 11, tweede lid, of voordat het tijdvak van opschorting overeenkomstig artikel11, vierde lid, onder a, wordt geacht te zijn verstreken.   
+3.  [*Termijn van betaling van de publicatietaks en voor het overleggen van de reproducties*] De in regel 12, eerste lid, onderdeel a, onder iv, bedoelde publicatietaks en de in artikel 11, zesde lid, onder b, bedoelde reproducties, moeten worden betaald respectievelijk overgelegd voor het verstrijken van het toepasselijke tijdvak van opschorting ingevolge artikel 11, tweede lid, of voordat het tijdvak van opschorting overeenkomstig artikel11, vierde lid, onder a, wordt geacht te zijn verstreken.   
 4.  [*Inschrijving van de reproducties*] Het Internationaal Bureau tekent elke reproductie die wordt overgelegd ingevolge artikel 11, zesde lid, onder b, aan in het internationaal register.   
 5.  [*Niet aan vereisten voldaan*] Indien aan de vereisten van het derde lid niet wordt voldaan, wordt de internationale inschrijving doorgehaald en niet gepubliceerd.  
 
@@ -2637,7 +2637,7 @@ ii. het feit dat de ongeldigverklaring niet langer het onderwerp kan zijn van ee
 
 iii. het nummer van de internationale inschrijving;  
 
-iv. wanneer de ongeldigverklaring geen betrekking heeft op alle tekeningen of modellenvan nijverheid die het onderwerp zijn van de internationale inschrijving, die tekeningen of modellen waarop de ongeldigverklaring betrekking heeft of geen betrekking heeft;  
+iv. wanneer de ongeldigverklaring geen betrekking heeft op alle tekeningen of modellen van nijverheid die het onderwerp zijn van de internationale inschrijving, die tekeningen of modellen waarop de ongeldigverklaring betrekking heeft of geen betrekking heeft;  
 
 v. de datum waarop de ongeldigverklaring is uitgesproken alsmede de datum waarop deze van kracht wordt.     
 2.  [*Inschrijving van de ongeldigverklaring*] Het Internationaal Bureau schrijft de ongeldigverklaring in in het internationale register, tezamen met de in de kennisgeving van ongeldigverklaring vermelde gegevens.  
@@ -2681,7 +2681,7 @@ iii. in geval van wijziging in de eigendom van de internationale inschrijving, d
 
 iv. in geval van wijziging in de eigendom van de internationale inschrijving, de Verdragsluitende Partij of Partijen ten aanzien waarvan de nieuwe eigenaar de in artikel 3 bedoelde voorwaarden vervult om houder te zijn van een internationale inschrijving;  
 
-v. in geval van wijziging in de eigendom van de internationale inschrijving die niet op alle tekeningen of modellen van nijverheid en op alle Verdragsluitende Partijen betrekking heeft, de nummers van de tekeningen of modellenvan nijverheid en de aangewezen Verdragsluitende Partijen waarop de wijziging in de eigendom van toepassing is; en  
+v. in geval van wijziging in de eigendom van de internationale inschrijving die niet op alle tekeningen of modellen van nijverheid en op alle Verdragsluitende Partijen betrekking heeft, de nummers van de tekeningen of modellen van nijverheid en de aangewezen Verdragsluitende Partijen waarop de wijziging in de eigendom van toepassing is; en  
 
 vi. het bedrag van de taksen die worden betaald en de wijze van betaling, of de opdracht het vereiste bedrag van de taksen af te schrijven van een bij het Internationaal Bureau geopende rekening, alsmede de identiteit van degene die de betaling verricht of de opdrachten geeft.     
 3.  [*Onregelmatig verzoek*] Wanneer het verzoek niet aan de toepasselijke vereisten voldoet, doet het Internationaal Bureau hiervan kennisgeving aan de houder en, indien het verzoek is ingediend door een persoon die zegt de nieuwe eigenaar te zijn, aan die persoon.   

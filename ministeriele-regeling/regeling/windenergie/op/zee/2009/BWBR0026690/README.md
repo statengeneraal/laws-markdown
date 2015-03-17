@@ -5,7 +5,7 @@
 De Minister van Economische Zaken,  
 Handelende na overleg met de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, de Minister van Landbouw, Natuur en Voedselkwaliteit en de Minister van Financiën;
 
-Gelet op de [artikelen 7](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [8](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [18](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [19, tweede lid](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [20, eerste lid](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [22, zesde lid](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [23, derde lid](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [56, eerste lid](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [57, eerste lid](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [60, tweede lid en zesde lid](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [61, eerste en derde lid](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), en [63, tweede lid, van het Besluit stimulering duurzame energieproductie](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);
+Gelet op de artikelen 7, 8, 18, 19, tweede lid, 20, eerste lid, 22, zesde lid, 23, derde lid, 56, eerste lid, 57, eerste lid, 60, tweede lid en zesde lid, 61, eerste en derde lid, en 63, tweede lid, van het Besluit stimulering duurzame energieproductie;
 Besluit:     
 ### §  1  
 
@@ -17,9 +17,9 @@ In deze regeling wordt verstaan onder:
 
 a.  *Minister:* de Minister van Economische Zaken;  
 
-b.  *besluit:* het [Besluit stimulering duurzame energieproductie](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);  
+b.  *besluit:* het Besluit stimulering duurzame energieproductie;  
 
-c.  *Wbr-vergunning:* de vergunning op grond van [artikel 2 van de Wet beheer rijkswaterstaatswerken](../../../../../../../wet/wet/beheer/rijkswaterstaatswerken/BWBR0008331/README.md) voor de bouw en exploitatie van een productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie op zee.   
+c.  *Wbr-vergunning:* de vergunning op grond van artikel 2 van de Wet beheer rijkswaterstaatswerken voor de bouw en exploitatie van een productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie op zee.   
 
 ### §  2  
 
@@ -35,15 +35,15 @@ c.  *Wbr-vergunning:* de vergunning op grond van [artikel 2 van de Wet beheer ri
 
 1.  Het subsidieplafond voor het verlenen van subsidie die is aangevraagd in de periode, bedoeld in artikel 2, tweede lid, bedraagt € 5.384.817.810,00.   
 2.  De Minister verdeelt het bedrag, genoemd in het eerste lid, op volgorde van rangschikking van de aanvragen.   
-3.  De criteria voor rangschikking, bedoeld in [artikel 60, eerste lid, onderdelen c tot en met e, van het besluit](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md) zijn niet van toepassing.  
+3.  De criteria voor rangschikking, bedoeld in artikel 60, eerste lid, onderdelen c tot en met e, van het besluit zijn niet van toepassing.  
 
 ### Artikel  4  
 
-Het maximum tenderbedrag, bedoeld in [artikel 19, tweede lid, van het besluit](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 2, eerste lid, bedraagt € 0,181000 per kWh. 
+Het maximum tenderbedrag, bedoeld in artikel 19, tweede lid, van het besluit, voor subsidie als bedoeld in artikel 2, eerste lid, bedraagt € 0,181000 per kWh. 
 
 ### Artikel  5  
 
-Voor de toepassing van [artikel 60, zesde lid, van het besluit](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), wordt het door de producent opgegeven tenderbedrag ten behoeve van de rangschikking gecorrigeerd met het in de tabel opgenomen bedrag:  Tabel: Correctie op tenderbedrag, afhankelijk van de hemelsbrede afstand tussen het transformatorstation en het aanlandingspunt: 
+Voor de toepassing van artikel 60, zesde lid, van het besluit, wordt het door de producent opgegeven tenderbedrag ten behoeve van de rangschikking gecorrigeerd met het in de tabel opgenomen bedrag:  Tabel: Correctie op tenderbedrag, afhankelijk van de hemelsbrede afstand tussen het transformatorstation en het aanlandingspunt: 
 
 | Hemelsbrede afstand tussen het transformatorstation<sup>1</sup> en het aanlandingspunt<sup>2</sup>, afgerond op 100m nauwkeurig (ingeval van meerdere transformatorstations of meerdere aanlandingspunten, wordt de afstand tussen het transformatorstation en het aanlandingspunt die het dichtst bij elkaar liggen, gebruikt voor de toepassing van de afstandscorrectie)  | Correctie op het tenderbedrag [€/kWh]  |
 |:---|:---|
@@ -82,7 +82,7 @@ Het maximaal aantal vollasturen voor productie-installaties voor de productie va
 
 ### Artikel  10  
 
-De basiselektriciteitsprijs, bedoeld in [artikel 20, eerste lid, van het besluit](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md) bedraagt € 0,051150 per kWh. 
+De basiselektriciteitsprijs, bedoeld in artikel 20, eerste lid, van het besluit bedraagt € 0,051150 per kWh. 
 
 ### Artikel  11  
 
@@ -102,9 +102,9 @@ e. de effecten van de uitval van windmolens op de bedrijfsvoering en op het onde
 
 De correcties op het tenderbedrag voor de subsidie, bedoeld in artikel 2, eerste lid, worden voor 2010 als volgt vastgesteld: 
 
-a. € 0,054638 per kWh voor wat betreft de elektriciteitsprijs, bedoeld in [artikel 22, eerste lid, onderdeel a, van het besluit](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);  
+a. € 0,054638 per kWh voor wat betreft de elektriciteitsprijs, bedoeld in artikel 22, eerste lid, onderdeel a, van het besluit;  
 
-b. € 0 voor wat betreft de correcties, bedoeld in [artikel 22, eerste lid, onderdeel b, van het besluit](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md).   
+b. € 0 voor wat betreft de correcties, bedoeld in artikel 22, eerste lid, onderdeel b, van het besluit.   
 
 ### §  3  
 
@@ -153,13 +153,13 @@ a. De Minister van Economische Zaken heeft blijkens een beschikking met kenmerk 
 
 b. De Beschikking bevat de opschortende voorwaarde dat binnen acht weken na afgifte van de beschikking de onderhavige uitvoeringsovereenkomst, hierna te noemen Uitvoeringsovereenkomst, tot stand is gekomen tussen de Staat en de subsidieaanvrager.  
 
-c. De Minister van Economische Zaken beoogt door middel van deze Uitvoeringsovereenkomst te verzekeren dat de Ondernemer de realisatie van het windpark bedoeld in de Beschikking vóór 1 augustus 2013 zal aanvangen opdat deze realisatie binnen de in [artikel 61 van het Besluit](../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md) stimulering duurzame energieproductie bedoelde termijn van vijf jaar kan worden voltooid.   Partijen komen daartoe het volgende overeen: 
+c. De Minister van Economische Zaken beoogt door middel van deze Uitvoeringsovereenkomst te verzekeren dat de Ondernemer de realisatie van het windpark bedoeld in de Beschikking vóór 1 augustus 2013 zal aanvangen opdat deze realisatie binnen de in artikel 61 van het Besluit stimulering duurzame energieproductie bedoelde termijn van vijf jaar kan worden voltooid.   Partijen komen daartoe het volgende overeen: 
 
 ### Artikel  1  
 
 ####Begripsbepaling
 
-1. Voor de toepassing van deze overeenkomst wordt onder ‘de aanvang van de bouwperiode’ verstaan: ‘het bereiken van het eerste moment dat de bodem in beroering gebracht wordt door plaatsing van het werk dan wel de bekabeling naar land’, als bedoeld in de door de Ondernemer verkregen vergunning verleend op basis van de [Wet beheer rijkswaterstaatswerken](../../../../../../../wet/wet/beheer/rijkswaterstaatswerken/BWBR0008331/README.md).  
+1. Voor de toepassing van deze overeenkomst wordt onder ‘de aanvang van de bouwperiode’ verstaan: ‘het bereiken van het eerste moment dat de bodem in beroering gebracht wordt door plaatsing van het werk dan wel de bekabeling naar land’, als bedoeld in de door de Ondernemer verkregen vergunning verleend op basis van de Wet beheer rijkswaterstaatswerken.  
 
 2. Voor de toepassing van deze overeenkomst wordt de bouwperiode geacht te zijn aangevangen op de datum waarop de Ondernemer dat aan de Staat heeft aangetoond.   
 
@@ -209,7 +209,7 @@ De Ondernemer verplicht zich om tot zekerheid voor de nakoming van de in artikel
 
 1. De Staat kiest voor uitvoering van deze Uitvoeringsovereenkomst domicilie ten kantore van SenterNovem, agentschap van het ministerie van Economische Zaken, Dokter van Deenweg 108, 8025 BK Zwolle.  
 
-2. Onverminderd het bepaalde in het [Wetboek van Burgerlijke Rechtsvordering](../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) dienen alle mededelingen, aanzeggingen, verzoeken, toestemmingen en andere berichten uit hoofde van deze uitvoeringsovereenkomst schriftelijk te worden gedaan.  
+2. Onverminderd het bepaalde in het Wetboek van Burgerlijke Rechtsvordering dienen alle mededelingen, aanzeggingen, verzoeken, toestemmingen en andere berichten uit hoofde van deze uitvoeringsovereenkomst schriftelijk te worden gedaan.  
 
 3. Mededelingen, aanzeggingen, verzoeken, toestemmingen en andere berichten die niet in overeenstemming met het tweede lid zijn gedaan blijven zonder rechtsgevolg.  
 

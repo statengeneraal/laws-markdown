@@ -804,6 +804,12 @@ E. M. H. Hirsch Ballin
 
 12.1. transformatie van langdurig leegstaande kantoren en industriële gebouwen naar andere gebruiksmogelijkheden.  
 
+### 13  
+
+####herstel, preventie en leefbaarheidsmaatregelen ten behoeve van aardbevingengebied Groningen
+
+*13.1.* maatregelen voor het vergroten van de veiligheid en het preventief versterken van bouwwerken  *13.2.* waardevermeerderende maatregelen en maatregelen voor het verduurzamen van bouwwerken  *13.3.* aanleg, uitbreiding of wijziging van kabels, leidingen en pijpleidingen 
+
 ### Bijlage  II  
 
 ####Ruimtelijke en infrastructurele projecten als bedoeld in artikel 1.1, eerste en tweede lid 
@@ -848,7 +854,7 @@ Aa. Overige ruimtelijke projecten
 | 2  | Amsterdam VU-gebied  | VU- en VUmc-terrein te Amsterdam  | (Her)ontwikkeling van het terrein van de Vrije Universiteit (VU) en VU Medisch Centrum (VUmc) naar grootschalige en duurzame functies  |
 | 3  | Amsterdam Zuidas  | Projectgebied van circa 270 hectare (ha), doorsneden door de Ringweg A10 Zuid, trein- en metrosporen  | Grootschalige en hoogwaardige duurzame ontwikkeling met kantoren, woningen en voorzieningen  |
 | 4  | Den Haag Binckhorst  | Verbinding van de verlengde Regulusweg en de Mercuriusweg  | In het betreffende gebied, dat nu in gebruik is als bedrijventerrein, moet het tunnelproject Rotterdamse Baan worden gerealiseerd en wordt er gewerkt aan de vastgoedontwikkeling van diverse deelplannen. Om tijdens de bouw van de tunnel en de vastgoedontwikkeling de verkeersontsluiting van dit gebied te waarborgen, dient vooruitlopend het project Verlengde Regulusweg te worden gerealiseerd. Deze Regulusweg maakt onderdeel uit van de hoofdverkeersstructuur  |
-| 5  | Spoorzone Delft  | Het gebied van de Spoorzone begint op het terrein van DSM/Gist in het noorden en loopt tot voorbij de Abtswoudseweg in het zuiden. Het noordelijk deel is de smalle strook van Phoenixstraat en Spoorsingel. Het middengedeelte wordt begrensd door Westvest en Coenderstraat. Het zuidelijk deel, tussen Engelsestraat en Industriestraat, omvat onder meer het oude emplacementsterrein  | Integrale herontwikkeling in van een gebied van circa 40 hectare, tussen de binnenstad van Delft en de woonwijken ten westen en zuiden daarvan  |
+| 5  | Spoorzone Delft  | Het gebied van de Spoorzone begint op het terrein van DSM/Gist in het noorden en loopt tot voorbij de Abtswoudseweg in het zuiden. Het noordelijk deel is de smalle strook van Phoenixstraat en Spoorsingel. Het middengedeelte wordt begrensd door Westvest, Coenderstraat en Van Bleijswijckstraat. Het zuidelijk deel, tussen Engelsestraat en Industriestraat, omvat onder meer het oude emplacementsterrein en het voormalige Haringterrein  | Integrale herontwikkeling in van een gebied van circa 40 hectare, tussen de binnenstad van Delft en de woonwijken ten westen en zuiden daarvan  |
 | 6  | Ruimte voor de Vecht  | Overijssels Vechtdal  | Integrale gebiedsontwikkeling Overijssels Vechtdal; toekomstvast garanderen van de waterveiligheid, realisatie van de natuuropgaven en versterking van de sociaal-economische infrastructuur in het Vechtdal  |
 |7 |Vossenberg-West II Tilburg |Multimodaal ontsloten logistiek bedrijventerrein in het noordwesten van Tilburg van circa 100 ha bruto (80 ha netto) |Het bestemmingsplan voor het bedrijventerrein Vossenberg-West II is gericht op grootschalige en gemengde industriële bedrijven, met name in de milieucategorie 3,4 en 5, transportbedrijven en logistieke dienstverleners |
 |8 |Bedrijvenpark H2O |Bedrijvenpark H2O ligt bij knooppunt Hattemerbroek en strekt zich uit langs de oostelijke rijbaan van de A28, aan beide zijden van de A50.  Het bedrijvenpark wordt aan één zijde begrensd door de A28. Het deel dat zich aan de Hattemse zijde van de A50 bevindt (± 18 hectare), wordt daarnaast begrensd door het tracé van de Hanzelijn en de Oostersedijk. Het gedeelte dat zich aan de Oldebroekse zijde van de A50 bevindt (± 52 hectare), wordt daarnaast begrensd door de Voskuilerdijk en de kern Hattemerbroek. |Bedrijvenpark H2O is een gezamenlijk ontwikkelingsproject van de gemeenten Hattem, Heerde (H2) en Oldebroek (O), die deel uitmaken van de Regio Noord-Veluwe in Gelderland, op de grens met Overijssel. Met het bedrijvenpark komen deze gemeenten tegemoet aan de vraag naar bedrijfskavels van lokaal tot internationaal georiënteerde bedrijven |
@@ -923,6 +929,8 @@ Aa. Overige ruimtelijke projecten
 |15 |N18 |Varsseveld – Enschedé |Aanleg/wijziging |
 |16 |N50 |Ens – Emmeloord |Wijziging |
 | 17  | Knooppunt Hoevelaken  | Vergroting capaciteit knooppunt Hoevelaken, verbreding A1 tussen Bunschoten en Barneveld en A28 tussen Maarn en Nijkerk.  | Hoofddoel van het project is verbetering van de bereikbaarheid van Midden-Nederland en van de Randstad (A1 en A28 zijn achterlandverbindingen voor de regio’s Amsterdam en Rotterdam)  |
+|18 |Rijksweg A2 in Midden-Limburg tussen Stein/Geleen en Maasbracht |Verbreding van het traject ’t Vonderen-Kerensheide |Verbreding vindt plaats door de spitsstroken op te waarderen tot volwaardige stroken, inclusief vluchtstroken. |
+|19 |A27  tussen Houten en Hooipolder |Vergroting van de wegcapaciteit ter verbetering van de doorstroming. |Hoofddoel van het project is de vergroting van de wegcapaciteit ter verbetering van de doorstroming. Nevendoelen zijn onder meer de verbetering van de luchtkwaliteit, van de geluidsituatie en van de barrièrewerking van de A27. |
 
 |  *F BRUGGEN*   | nr.  | Omschrijving brug  | Aard van het project  |
 |:---|:---|:---|:---|

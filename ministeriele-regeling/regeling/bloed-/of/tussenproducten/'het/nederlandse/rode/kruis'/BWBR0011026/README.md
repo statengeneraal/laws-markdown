@@ -5,12 +5,12 @@
 De Minister van Volksgezondheid, Welzijn en Sport;  
 Gelezen het verzoek tot aanwijzing van de vereniging ’het Nederlandse Rode Kruis’ van 4 november 1999;
 
-Gelet op de [artikelen 12, eerste lid, onder c](../../../../../../../../../../wet/wet/inzake/bloedvoorziening/BWBR0009079/README.md), en [13, eerste lid, onder d, van de Wet inzake bloedvoorziening](../../../../../../../../../../wet/wet/inzake/bloedvoorziening/BWBR0009079/README.md),
+Gelet op de artikelen 12, eerste lid, onder c, en 13, eerste lid, onder d, van de Wet inzake bloedvoorziening,
 Besluit:    
 
 ### Artikel  1  
 
-Als een ander rechtspersoon, bedoeld in de [artikelen 12, eerste lid, onder c](../../../../../../../../../../wet/wet/inzake/bloedvoorziening/BWBR0009079/README.md), en [13, eerste lid onder d, van de Wet inzake bloedvoorziening](../../../../../../../../../../wet/wet/inzake/bloedvoorziening/BWBR0009079/README.md), wordt aangewezen de vereniging ’het Nederlandse Rode Kruis’, gevestigd te Den Haag.  
+Als een ander rechtspersoon, bedoeld in de artikelen 12, eerste lid, onder c, en 13, eerste lid onder d, van de Wet inzake bloedvoorziening, wordt aangewezen de vereniging ’het Nederlandse Rode Kruis’, gevestigd te Den Haag.  
 
 ### Artikel  2  
 

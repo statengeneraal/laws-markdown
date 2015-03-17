@@ -221,7 +221,7 @@ a. in geval van benoeming in het ambt van:
 
 2°. hoofdofficier van justitie, plaatsvervangend hoofdofficier van justitie, senior officier van justitie A, senior officier van justitie, officier van justitie, substituut-officier van justitie, plaatsvervangend officier van justitie, officier enkelvoudige zittingen of plaatsvervangend officier enkelvoudige zittingen bij een arrondissementsparket, ten overstaan van een enkelvoudige of meervoudige kamer van de rechtbank waarvan het rechtsgebied overeenkomt met dat van het parket waarvan is vastgesteld dat het ambt daarbij wordt vervuld;  
 
-3°. hoofdofficier van justitie, plaatsvervangend hoofdofficier van justitie, senior officier van justitie A, senior officier van justitie, officier van justitie, substituut-officier van justitie, plaatsvervangend officier van justitie, officier enkelvoudige zittingen of plaatsvervangend officier enkelvoudige zittingen bij het landelijk parket, het functioneel parket of het parket-generaal, ten overstaan van een enkelvoudige of meervoudige kamer van de rechtbank Amsterdam, Den Haag, Oost-Brabant of Overijssel.   
+3°. hoofdofficier van justitie, plaatsvervangend hoofdofficier van justitie, senior officier van justitie A, senior officier van justitie, officier van justitie, substituut-officier van justitie, plaatsvervangend officier van justitie, officier enkelvoudige zittingen of plaatsvervangend officier enkelvoudige zittingen bij het landelijk parket, het functioneel parket, het parket centrale verwerking openbaar ministerie of het parket-generaal, ten overstaan van een enkelvoudige of meervoudige kamer van de rechtbank Amsterdam, Den Haag, Oost-Brabant of Overijssel.   
 
 b. in geval van benoeming in het ambt van: 
 
@@ -402,7 +402,7 @@ c. de rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding die op basis v
 
 d. de rechterlijk ambtenaar aan wie op zijn verzoek gedeeltelijk ontslag is verleend met het oog op een uitkering op grond van de regeling van flexibel pensioen en uittreden, zoals vastgelegd in het FPU-Reglement basisuitkering en aanvullende uitkering; of  
 
-e. de rechterlijk ambtenaar bij wie een verminderde arbeidsprestatie is vastgesteld en aan wie een uitkering op grond van de Wet werk en inkomen naar arbeidsvermogen, de WAO, de Wet arbeidsongeschiktheidsverzekering zelfstandigen of de Wet werk en arbeidsondersteuning jonggehandicapten is toegekend, recht heeft op arbeidsondersteuning op grond van de Wet werk en arbeidsondersteuning jonggehandicapten, of op wie artikel 2.3 van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen van toepassing is.     
+e. de rechterlijk ambtenaar bij wie een verminderde arbeidsprestatie is vastgesteld en aan wie een uitkering op grond van de Wet werk en inkomen naar arbeidsvermogen, de WAO, de Wet arbeidsongeschiktheidsverzekering zelfstandigen of de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten is toegekend, recht heeft op arbeidsondersteuning op grond van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, of op wie artikel 2.3 van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen van toepassing is.     
 4.  Op een verzoek als bedoeld in het eerste lid beslist Onze Minister onderscheidenlijk de Raad voor de rechtspraak niet dan nadat hij hierover het advies heeft ingewonnen van de functionele autoriteit.   
 5.  Artikel 8a, tweede en derde lid, is van toepassing.  
 

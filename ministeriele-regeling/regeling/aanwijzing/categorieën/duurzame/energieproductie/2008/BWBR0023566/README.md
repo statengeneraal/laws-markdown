@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Economische Zaken van 28 februari 2008, nr. WJZ 8024254, houdende aanwijzing van categorieën productie-installaties voor de stimulering van duurzame energieproductie in het jaar 2008 (Regeling aanwijzing categorieën duurzame energieproductie 2008)
 
 De Minister van Economische Zaken, na overleg met de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, de Minister van Landbouw, Natuur en Voedselkwaliteit en de Minister van Financiën,  
-Gelet op de [artikelen 31, negende lid](../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), en [77c van de Elektriciteitswet 1998](../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) en [7](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [8](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [10](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [11, eerste lid](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [12](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [15, derde lid](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [25](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [27](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [28, eerste lid](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), [29](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md) en [32, derde lid, van het Besluit stimulering duurzame energieproductie](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md) en [artikel 6, eerste lid, van de Algemene uitvoeringsregeling stimulering duurzame energieproductie](../../../../../../../../ministeriele-regeling/algemene/uitvoeringsregeling/stimulering/duurzame/energieproductie/BWBR0023563/README.md);
+Gelet op de artikelen 31, negende lid, en 77c van de Elektriciteitswet 1998 en 7, 8, 10, 11, eerste lid, 12, 15, derde lid, 25, 27, 28, eerste lid, 29 en 32, derde lid, van het Besluit stimulering duurzame energieproductie en artikel 6, eerste lid, van de Algemene uitvoeringsregeling stimulering duurzame energieproductie;
 Besluit:     
 ### §  1  
 
@@ -15,7 +15,7 @@ In deze regeling wordt verstaan onder:
 
 a. Minister: de Minister van Economische Zaken;  
 
-b. besluit: het [Besluit stimulering duurzame energieproductie](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);  
+b. besluit: het Besluit stimulering duurzame energieproductie;  
 
 c. productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie op land: een productie-installatie die niet is opgericht in de territoriale zee of in de exclusieve economische zone, waarmee hernieuwbare elektriciteit wordt geproduceerd met behulp van windenergie;  
 
@@ -27,7 +27,7 @@ d. productie-installatie voor de productie van hernieuwbare elektriciteit met be
 
 3°. de verbranding van producten die voortkomen uit thermische behandeling van afvalstoffen;    
 
-e. gewogen maandelijks rendement: het rendement, bedoeld in [artikel 1, vierde lid, van de Regeling garanties van oorsprong voor duurzame elektriciteit](../../../../../../../../ministeriele-regeling/regeling/garanties/van/oorsprong/voor/duurzame/elektriciteit/BWBR0016021/README.md);  
+e. gewogen maandelijks rendement: het rendement, bedoeld in artikel 1, vierde lid, van de Regeling garanties van oorsprong voor duurzame elektriciteit;  
 
 f. productie-installatie voor de productie van hernieuwbare elektriciteit met gebruik van stortgas of biogas uit afvalwater- of rioolwaterzuiveringsinstallaties: een productie-installatie waarmee hernieuwbare elektriciteit wordt geproduceerd: 
 
@@ -35,7 +35,7 @@ f. productie-installatie voor de productie van hernieuwbare elektriciteit met ge
 
 2°. uit gas dat vrijkomt tengevolge van biologische afbraakreacties bij de zuivering van huishoudelijk afvalwater, bedrijfsafvalwater en afvloeiend hemelwater;    
 
-g. co-vergisting van dierlijke mest: de biologische afbraakreacties van in hoofdzaak verpompbare vaste en vloeibare uitwerpselen van dieren en een of meer producten genoemd in de [Meststoffenbeschikking 1977, bijlage I, hoofdstuk III](../../../../../../../../ministeriele-regeling/meststoffenbeschikking/1977/BWBR0003122/README.md), typeaanduiding ‘co-vergiste mest’ zoals deze luidde op 31 december 2007;  
+g. co-vergisting van dierlijke mest: de biologische afbraakreacties van in hoofdzaak verpompbare vaste en vloeibare uitwerpselen van dieren en een of meer producten genoemd in de Meststoffenbeschikking 1977, bijlage I, hoofdstuk III, typeaanduiding ‘co-vergiste mest’ zoals deze luidde op 31 december 2007;  
 
 h. NTA 8003: de Nederlandse Technische Afspraak 8003, Classificatie van biomassa voor energietoepassing, uitgegeven door het Nederlands Normalisatie-instituut, zoals deze luidde op 1 december 2003;  
 
@@ -91,11 +91,11 @@ Het maximaal aantal vollasturen voor productie-installaties voor de productie va
 
 ### Artikel  7  
 
-Het basisbedrag, bedoeld in [artikel 11 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 3, eerste lid, bedraagt € 0,110 per kWh. 
+Het basisbedrag, bedoeld in artikel 11 van het besluit, voor subsidie als bedoeld in artikel 3, eerste lid, bedraagt € 0,110 per kWh. 
 
 ### Artikel  8  
 
-De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 3, eerste lid, bedraagt € 0,050 per kWh. 
+De basiselektriciteitsprijs, bedoeld in artikel 12 van het besluit, voor subsidie als bedoeld in artikel 3, eerste lid, bedraagt € 0,050 per kWh. 
 
 ### §  2.3  
 
@@ -103,8 +103,8 @@ De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](../../../..
 
 ### Artikel  9  
 
-1.  De Minister verstrekt op aanvraag subsidie aan producenten van hernieuwbare elektriciteit geproduceerd door een productie-installatie voor de productie van hernieuwbare elektriciteit uit zonlicht met behulp van fotovoltaïsche zonnepanelen met een vermogen groter dan 0,6 kWp en kleiner of gelijk aan 3,5 kWp, welke zijn geplaatst op, aan of tegen een bouwwerk waarvoor een bouwvergunning als bedoeld in de [Woningwet](../../../../../../../../wet/woningwet/BWBR0005181/README.md) is verkregen.   
-2.  Productie-installaties als bedoeld in het eerste lid worden aangewezen als productie-installaties als bedoeld in [artikel 15, vierde lid, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md).   
+1.  De Minister verstrekt op aanvraag subsidie aan producenten van hernieuwbare elektriciteit geproduceerd door een productie-installatie voor de productie van hernieuwbare elektriciteit uit zonlicht met behulp van fotovoltaïsche zonnepanelen met een vermogen groter dan 0,6 kWp en kleiner of gelijk aan 3,5 kWp, welke zijn geplaatst op, aan of tegen een bouwwerk waarvoor een bouwvergunning als bedoeld in de Woningwet is verkregen.   
+2.  Productie-installaties als bedoeld in het eerste lid worden aangewezen als productie-installaties als bedoeld in artikel 15, vierde lid, van het besluit.   
 3.  Aanvragen om subsidie als bedoeld in het eerste lid, worden ingediend in de periode van 1 april 2008 tot 1 augustus 2008.  
 
 ### Artikel  10  
@@ -118,15 +118,15 @@ Subsidie als bedoeld in artikel 9, eerste lid, wordt voor een periode van 15 jaa
 
 ### Artikel  12  
 
-Het maximaal aantal vollasturen voor productie-installaties voor de productie van hernieuwbare elektriciteit uit zonlicht met behulp van fotovoltaïsche zonnepanelen met een vermogen groter dan 0,6 kWp en kleiner of gelijk aan 3,5 kWp, welke zijn geplaatst op, aan of tegen een bouwwerk waarvoor een bouwvergunning als bedoeld in de [Woningwet](../../../../../../../../wet/woningwet/BWBR0005181/README.md) is verkregen, bedraagt 850 uren per jaar. 
+Het maximaal aantal vollasturen voor productie-installaties voor de productie van hernieuwbare elektriciteit uit zonlicht met behulp van fotovoltaïsche zonnepanelen met een vermogen groter dan 0,6 kWp en kleiner of gelijk aan 3,5 kWp, welke zijn geplaatst op, aan of tegen een bouwwerk waarvoor een bouwvergunning als bedoeld in de Woningwet is verkregen, bedraagt 850 uren per jaar. 
 
 ### Artikel  13  
 
-Het basisbedrag, bedoeld in [artikel 11 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 9, eerste lid, bedraagt € 0,564 per kWh. 
+Het basisbedrag, bedoeld in artikel 11 van het besluit, voor subsidie als bedoeld in artikel 9, eerste lid, bedraagt € 0,564 per kWh. 
 
 ### Artikel  14  
 
-De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 9, eerste lid, bedraagt € 0,205 per kWh. 
+De basiselektriciteitsprijs, bedoeld in artikel 12 van het besluit, voor subsidie als bedoeld in artikel 9, eerste lid, bedraagt € 0,205 per kWh. 
 
 ### §  2.4  
 
@@ -139,7 +139,7 @@ De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](../../../..
 
 ### Artikel  16  
 
-Voor subsidie als bedoeld in artikel 15, eerste lid, is de rapportageverplichting, bedoeld in [artikel 6, eerste lid, van de Algemene uitvoeringsregeling stimulering duurzame energieproductie](../../../../../../../../ministeriele-regeling/algemene/uitvoeringsregeling/stimulering/duurzame/energieproductie/BWBR0023563/README.md) niet van toepassing. 
+Voor subsidie als bedoeld in artikel 15, eerste lid, is de rapportageverplichting, bedoeld in artikel 6, eerste lid, van de Algemene uitvoeringsregeling stimulering duurzame energieproductie niet van toepassing. 
 
 ### Artikel  17  
 
@@ -156,7 +156,7 @@ Het maximaal aantal vollasturen voor productie-installaties voor de productie va
 
 ### Artikel  20  
 
-Het basisbedrag, bedoeld in [artikel 11 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 15, eerste lid, bedraagt: 
+Het basisbedrag, bedoeld in artikel 11 van het besluit, voor subsidie als bedoeld in artikel 15, eerste lid, bedraagt: 
 
 a. bij een gewogen maandelijks rendement groter dan 22% en kleiner of gelijk aan 23%, € 0,115 per kWh;  
 
@@ -180,7 +180,7 @@ j. bij een gewogen maandelijks rendement groter dan 31%, € 0,137 per kWh.
 
 ### Artikel  21  
 
-De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 15, eerste lid, bedraagt € 0,093 per kWh. 
+De basiselektriciteitsprijs, bedoeld in artikel 12 van het besluit, voor subsidie als bedoeld in artikel 15, eerste lid, bedraagt € 0,093 per kWh. 
 
 ### §  2.5  
 
@@ -193,7 +193,7 @@ De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](../../../..
 
 ### Artikel  23  
 
-Voor subsidie als bedoeld in artikel 22, eerste lid, is de rapportageverplichting, bedoeld in [artikel 6, eerste lid, van de Algemene uitvoeringsregeling stimulering duurzame energieproductie](../../../../../../../../ministeriele-regeling/algemene/uitvoeringsregeling/stimulering/duurzame/energieproductie/BWBR0023563/README.md) niet van toepassing. 
+Voor subsidie als bedoeld in artikel 22, eerste lid, is de rapportageverplichting, bedoeld in artikel 6, eerste lid, van de Algemene uitvoeringsregeling stimulering duurzame energieproductie niet van toepassing. 
 
 ### Artikel  24  
 
@@ -210,11 +210,11 @@ Het maximaal aantal vollasturen voor productie-installaties voor de productie va
 
 ### Artikel  27  
 
-Het basisbedrag, bedoeld in [artikel 11 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 22, eerste lid, bedraagt € 0,058 per kWh. 
+Het basisbedrag, bedoeld in artikel 11 van het besluit, voor subsidie als bedoeld in artikel 22, eerste lid, bedraagt € 0,058 per kWh. 
 
 ### Artikel  28  
 
-De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 22, eerste lid, bedraagt € 0,045 per kWh. 
+De basiselektriciteitsprijs, bedoeld in artikel 12 van het besluit, voor subsidie als bedoeld in artikel 22, eerste lid, bedraagt € 0,045 per kWh. 
 
 ### §  2.6  
 
@@ -252,11 +252,11 @@ c. inzet van warmte verkregen uit thermische conversie van vaste biomassa met ee
 
 ### Artikel  33  
 
-Het basisbedrag, bedoeld in [artikel 11 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 29, eerste lid, bedraagt € 0,120 per kWh. 
+Het basisbedrag, bedoeld in artikel 11 van het besluit, voor subsidie als bedoeld in artikel 29, eerste lid, bedraagt € 0,120 per kWh. 
 
 ### Artikel  34  
 
-De basiselektriciteitsprijs, bedoeld in [artikel 12 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 29, eerste lid, bedraagt € 0,045 per kWh. 
+De basiselektriciteitsprijs, bedoeld in artikel 12 van het besluit, voor subsidie als bedoeld in artikel 29, eerste lid, bedraagt € 0,045 per kWh. 
 
 ### §  3  
 
@@ -281,7 +281,7 @@ Het subsidieplafond voor het in 2008 verlenen van subsidies voor de productie va
 
 ### Artikel  37  
 
-Voor subsidie als bedoeld in artikel 36, eerste lid, is de rapportageverplichting, bedoeld in [artikel 6, eerste lid, van de Algemene uitvoeringsregeling stimulering duurzame energieproductie](../../../../../../../../ministeriele-regeling/algemene/uitvoeringsregeling/stimulering/duurzame/energieproductie/BWBR0023563/README.md) niet van toepassing. 
+Voor subsidie als bedoeld in artikel 36, eerste lid, is de rapportageverplichting, bedoeld in artikel 6, eerste lid, van de Algemene uitvoeringsregeling stimulering duurzame energieproductie niet van toepassing. 
 
 ### Artikel  38  
 
@@ -298,11 +298,11 @@ Het maximaal aantal vollasturen voor productie-installaties voor de productie va
 
 ### Artikel  41  
 
-Het basisbedrag, bedoeld in [artikel 28 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 36, eerste lid, bedraagt € 0,277 per Nm<sup>3</sup>. 
+Het basisbedrag, bedoeld in artikel 28 van het besluit, voor subsidie als bedoeld in artikel 36, eerste lid, bedraagt € 0,277 per Nm<sup>3</sup>. 
 
 ### Artikel  42  
 
-De basisgasprijs, bedoeld in [artikel 29 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 36, eerste lid, bedraagt € 0,140 per Nm<sup>3</sup>. 
+De basisgasprijs, bedoeld in artikel 29 van het besluit, voor subsidie als bedoeld in artikel 36, eerste lid, bedraagt € 0,140 per Nm<sup>3</sup>. 
 
 ### §  3.3  
 
@@ -336,11 +336,11 @@ b. biogas uit vergisting van groente-, fruit- en tuinafval,   bedraagt 8000 uren
 
 ### Artikel  42e  
 
-Het basisbedrag, bedoeld in [artikel 28 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 42a, eerste lid, bedraagt € 0,44 per Nm<sup>3</sup>. 
+Het basisbedrag, bedoeld in artikel 28 van het besluit, voor subsidie als bedoeld in artikel 42a, eerste lid, bedraagt € 0,44 per Nm<sup>3</sup>. 
 
 ### Artikel  42f  
 
-De basisgasprijs, bedoeld in [artikel 29 van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), voor subsidie als bedoeld in artikel 42a, eerste lid, bedraagt € 0,140 per Nm<sup>3</sup>. 
+De basisgasprijs, bedoeld in artikel 29 van het besluit, voor subsidie als bedoeld in artikel 42a, eerste lid, bedraagt € 0,140 per Nm<sup>3</sup>. 
 
 ### §  4  
 
@@ -356,7 +356,7 @@ Wijzigt de Regeling garanties van oorsprong voor duurzame elektriciteit.
 
 ### Artikel  44  
 
-Deze regeling treedt in werking op het tijdstip waarop het [Besluit stimulering duurzame energieproductie](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md) in werking treedt. 
+Deze regeling treedt in werking op het tijdstip waarop het Besluit stimulering duurzame energieproductie in werking treedt. 
 
 ### Artikel  45  
 

@@ -1246,7 +1246,7 @@ b. van oorsprong uit Montenegro en geproduceerd overeenkomstig de Montenegrijnse
 
 3. gearomatiseerde wijnen die vallen onder code 22.05 van het in lid 1 bedoelde verdrag; 
 
-a. van oorsprong uit de Gemeenschap en in overeenstemming met Verordening (EEG) nr. 1601/91 van de Raad van 10 juni 1991 tot vaststelling van de algemene voorschriften betreffende de definitie, de aanduiding en de aanbiedingsvorm van gearomatiseerde wijnen, gearomatiseerde dranken op basis van wijn en gearomatiseerde cocktails van wijnbouwproducten<sup> 5) PB L 149 van 14.06.1991, blz. 1. Verordening laatstelijk gewijzigd bij Verordening (EG) nr. 2061/96 van het Europees Parlement en de Raad (PB L 277 van 30.10.1996, blz. 1). </sup> , zoals gewijzigd; of  
+a. van oorsprong uit de Gemeenschap en in overeenstemming met Verordening (EEG) nr. 1601/91 van de Raad van 10 juni 1991 tot vaststelling van de algemene voorschriften betreffende de definitie, de aanduiding en de aanbiedingsvorm van gearomatiseerde wijnen, gearomatiseerde dranken op basis van wijn en gearomatiseerde cocktails van wijnbouwproducten<sup> 5) PB L 149 van 14.06.1991, blz. 1. Verordening laatstelijk gewijzigd bij Verordening (EG) nr. 2061/96 van het Europees Parlement en de Raad (PB L 277 van 30.10.1996, blz. 1). </sup> ; of  
 
 b. van oorsprong uit Montenegro en geproduceerd overeenkomstig de Montenegrijnse wetgeving, die in overeenstemming moet zijn met de communautaire wetgeving;     
 

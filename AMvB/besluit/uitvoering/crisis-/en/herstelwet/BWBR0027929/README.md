@@ -82,7 +82,9 @@ t. Blokhoeve Nieuwegein zoals aangegeven op de kaart in bijlage 26;
 
 u. Haarlemmermeer Masterplan Badhoevedorp-Centrum zoals aangegeven op de kaart in bijlage 27; 
 
-v. Haven- en industriegebied Oosterhorn Delfzijl en Haven- en industriegebied Eemshaven Eemsmond, zoals aangegeven op de kaarten in bijlage 36<sup>A en B</sup>.    
+v. Haven- en industriegebied Oosterhorn Delfzijl en Haven- en industriegebied Eemshaven Eemsmond, zoals aangegeven op de kaarten in bijlage 36<sup>A en B</sup>; 
+
+w. Transformatiegebied Noordelijke Stadsentree Meppel, zoals aangegeven op de kaart in bijlage 49.    
 2.  Als categorieën van gevallen als bedoeld in artikel 2.3, negende lid, van de wet worden aangegeven alle gevallen waarin een ander bestuursorgaan dan burgemeester en wethouders bevoegd zou zijn te beslissen als bedoeld in artikel 2.3, negende lid, van de wet.   
 3.  Een ander bestuursorgaan als bedoeld in het tweede lid kan categorieën van gevallen aangeven waarin een verklaring van geen bedenkingen niet is vereist.  
 
@@ -138,6 +140,12 @@ g. Woerden.
 
 Ten behoeve van het bouwen van een eco iglo in de gemeente Leeuwarden kan voor de duur van tien jaar worden afgeweken van de artikelen 2.129, 2.130, 3.22, 3.23, 3.41, eerste lid, 6.11, eerste lid, 6.13, 6.14 en 5.2, eerste en tweede lid, van het Bouwbesluit 2012. 
 
+### Artikel  4a  
+
+1.  Ten behoeve van het bouwen van woningen in het Ecodorp in de gemeente Boekel, zoals aangegeven op de kaart in bijlage no. 50, kan voor de duur van tien jaar worden afgeweken van de artikelen 2.33, eerste lid, 3.74, 3.75, eerste, tweede en derde lid, 4.3, en 4.22, eerste lid, van het Bouwbesluit 2012.   
+2.  Het verbod, gesteld in artikel 2.1, eerste lid, van de Wet algemene bepalingen omgevingsrecht geldt voor de duur van tien jaar niet voor het bouwen van een miniwindturbine in het Ecodorp.   
+3.  Bij het bouwen van een miniwindturbine in het Ecodorp wordt het bepaalde krachtens artikel 2.6.9, derde lid, van het Besluit algemene regels ruimtelijke ordening in acht genomen.  
+
 ### Artikel  5  
 
 1.  Dit artikel is van toepassing binnen het grondgebied van de gemeente Leeuwarden.   
@@ -184,7 +192,11 @@ Voor woningen die worden gebouwd in het project De Mars in Zutphen geldt, in afw
 
 ### Artikel  6d  
 
-Op de drijvende autarkische recreatiebungalow die wordt gebouwd naast de camping «De Kleine Wielen», De Groene Ster 14 te Leeuwarden, zijn voor de duur van ten hoogste vijf jaar vanaf het tijdstip van inwerkingtreding van dit artikel de artikelen 5.2, 6.11 tot en met 6.14 en 6.16 van het Bouwbesluit 2012 niet van toepassing. 
+De artikelen 5.2, 6.10, eerste lid, 6.11 tot en met 6.14 en 6.16 van het Bouwbesluit 2012 gelden: 
+
+a. tot 25 juli 2017 niet voor de bouw van een drijvende autarkische recreatiebungalow naast de camping «De Kleine Wielen», De Groene Ster 14 te Leeuwarden;  
+
+b. voor de duur van tien jaar niet voor de bouw van een drijvende autarkische trekkershut of een drijvend autarkisch theehuis op door de raad van de gemeente Zwolle aan te wijzen locaties.   
 
 ### Artikel  6e  
 
@@ -247,7 +259,7 @@ b. de volgende artikelen van het Besluit ruimtelijke ordening:
 
 1°. 1.2.1, tweede lid, en 1.2.1a, onderdeel a, onder de voorwaarde dat het ontwerp van het bestemmingplan of het vastgestelde bestemmingsplan elektronisch op een algemeen toegankelijke wijze beschikbaar wordt gesteld en blijft op een door de raad te bepalen internetadres. In dat geval bevat de landelijke voorziening, bedoeld in artikel 1.2.1, tweede lid, een verwijzing naar dit internetadres;  
 
-2°. 3.1.6, eerste lid, onder f, en vierde lid, onder c;    
+2°. 3.1.6, eerste lid, onder f, en vijfde lid, onder c;    
 
 c. de bij de ministeriële regeling, bedoeld in artikel 1.2.6 van het Besluit ruimtelijke ordening, gestelde regels of nadere regels.     
 2.  Voor de in het experiment betrokken bestemmingsplannen geldt dat indien daarin onbenutte bouw- of gebruiksmogelijkheden worden wegbestemd, de planschade in ieder geval als voorzienbaar in de zin van artikel 6.3, aanhef en onder a, wordt aangemerkt, indien: 
@@ -305,7 +317,7 @@ a. de volgende artikelen van het Besluit ruimtelijke ordening:
 
 1°. 1.2.1, tweede lid, en 1.2.1a, onderdeel a, onder de voorwaarde dat het ontwerp van het bestemmingplan of het vastgestelde bestemmingsplan elektronisch op een algemeen toegankelijke wijze beschikbaar wordt gesteld en blijft op een door de raad te bepalen internetadres. In dat geval bevat de landelijke voorziening, bedoeld in artikel 1.2.1, tweede lid, een verwijzing naar dit internetadres;  
 
-2°. 3.1.6, eerste lid, onder f, en vierde lid, onder c;    
+2°. 3.1.6, eerste lid, onder f, en vijfde lid, onder c;    
 
 b. de bij de ministeriële regeling, bedoeld in artikel 1.2.6 van het Besluit ruimtelijke ordening, gestelde regels of nadere regels.  
 
@@ -341,7 +353,9 @@ g. Bloemendalerpolder in de gemeenten Muiden en Weesp, zoals aangegeven op de ka
 
 h. Hembrugterrein in de gemeente Zaandstad, zoals aangegeven op de kaart in bijlage 44;  
 
-i. Havenkwartier, gemeente Assen, zoals aangegeven op de kaart in bijlage 47.   
+i. Havenkwartier, gemeente Assen, zoals aangegeven op de kaart in bijlage 47; 
+
+j. Spoorzone, gemeente Delft, zoals aangegeven op de kaart in bijlage 51.   
 
 ### Artikel  7d  
 
@@ -388,7 +402,7 @@ d. in afwijking van artikel 2.17 van het Activiteitenbesluit de in de periode tu
 1.  De voor het grondgebied van een gemeente vastgestelde bestemmingsplannen gelden als één bestemmingsplan voor het gehele grondgebied.   
 2.  Artikel 7c is op het bestemmingsplan voor het gehele grondgebied, bedoeld in het eerste lid, van overeenkomstige toepassing.   
 3.  Een bestemmingsplan voor een gedeelte van het grondgebied van een gemeente dat na het tijdstip van inwerkingtreding van dit besluit onherroepelijk wordt, maakt vanaf het tijdstip waarop dit bestemmingsplan onherroepelijk is geworden deel uit van het bestemmingsplan voor het gehele grondgebied, bedoeld in het eerste lid.   
-4.  Dit artikel is van toepassing op de gemeenten Breda, Bussum, Deventer, Oldenzaal, Soest en Venlo.  
+4.  Dit artikel is van toepassing op de gemeenten Breda, Bussum, Deventer, Meerssen, Oldenzaal, Soest en Venlo.  
 
 ### Artikel  7h  
 
@@ -403,7 +417,7 @@ a. de volgende artikelen van het Besluit ruimtelijke ordening:
 
 1°. 1.2.1, tweede lid, en 1.2.1a, onderdeel a, onder de voorwaarde dat het ontwerp van de structuurvisie of de vastgestelde structuurvisie elektronisch op een algemeen toegankelijke wijze beschikbaar wordt gesteld en blijft op een door de raad te bepalen internetadres. In dat geval bevat de landelijke voorziening, bedoeld in artikel 1.2.1, tweede lid, van het Besluit ruimtelijke ordening een verwijzing naar dit internetadres;  
 
-2°. 3.1.6, eerste lid, onder f, en vierde lid, onder c;    
+2°. 3.1.6, eerste lid, onder f, en vijfde lid, onder c;    
 
 b. de bij de ministeriële regeling, bedoeld in artikel 1.2.6 van het Besluit ruimtelijke ordening, gestelde regels of nadere regels.    
 
@@ -412,6 +426,50 @@ b. de bij de ministeriële regeling, bedoeld in artikel 1.2.6 van het Besluit ru
 1.  In afwijking van artikel 3.1, tweede lid, van de Wet ruimtelijke ordening wordt de bestemming van gronden, met inbegrip van de met het oog daarop gestelde regels, binnen een periode van vijftien jaar opnieuw vastgesteld.   
 2.  In afwijking van artikel 3.2 van de Wet ruimtelijke ordening geldt een voorlopige bestemming voor een termijn van ten hoogste vijftien jaar.   
 3.  Dit artikel is van toepassing op het bestemmingsplangebied Galecopperzoom in de gemeente Nieuwegein, zoals aangegeven op de kaart in bijlage 48.  
+
+### Artikel  7j  
+
+1.  Dit artikel is van toepassing op door de raad aan te wijzen locaties binnen de gemeenten: 
+
+a. Heerhugowaard,  
+
+b. Hoorn,  
+
+c. Koggenland,  
+
+d. Leeuwarden,  
+
+e. Ooststellingwerf en  
+
+f. Weststellingwerf.     
+2.  In aanvulling op Bijlage II, hoofdstuk III, artikel 3, van het Besluit omgevingsrecht is binnen de aangewezen gebieden geen omgevingsvergunning vereist voor een activiteit, die betrekking heeft op een collector voor warmteopwekking of een paneel voor elektriciteitsopwekking op de grond of op een op de grond staand bouwwerk, mits het bouwwerk, waarop de collectoren of panelen worden geplaatst, voldoet aan de volgende eisen: 
+
+1°. de bouwhoogte van het bouwwerk niet hoger is dan vijf meter;  
+
+2°. het bouwwerk niet voorzien is van een niet op de grond gelegen buitenruimte.     
+3.  In aanvulling op artikel 3.1, eerste lid, van de Wet ruimtelijke ordening kunnen voor aan te wijzen locaties in een bestemmingsplan regels worden gesteld met betrekking tot het uiterlijk van de in het eerste lid bedoelde bouwwerken en beleidsregels worden opgenomen die betrekking hebben op redelijke eisen van welstand als bedoeld in hoofdstuk II, afdeling 3, van de Woningwet. In afwijking van artikel 12b van de Woningwet wordt het advies van de welstandscommissie dan wel de stadsbouwmeester mede gebaseerd op de criteria, die zijn opgenomen in het bestemmingsplan.   
+4.  In afwijking van artikel 3.1, tweede lid, van de Wet ruimtelijke ordening wordt de bestemming van gronden, met inbegrip van de met het oog daarop gestelde regels, binnen een periode van vijftien jaar opnieuw vastgesteld.   
+5.  In afwijking van artikel 3.2 van de Wet ruimtelijke ordening geldt een voorlopige bestemming voor de duur van ten hoogste vijftien jaar.  
+
+### Artikel  7k  
+
+1.  In aanvulling op artikel 3.26 juncto artikel 3.1, eerste lid, van de Wet ruimtelijke ordening kunnen provinciale staten van Noord-Brabant in een inpassingsplan voor het plangebied «Logistiek Park Moerdijk» in de gemeente Moerdijk, zoals aangegeven op de kaart in bijlage no. 52, regels stellen die strekken ten behoeve van: 
+
+a. het bereiken en in stand houden van een veilige en gezonde fysieke leefomgeving en een goede omgevingskwaliteit, en  
+
+b. het doelmatig beheren, gebruiken en ontwikkelen van de fysieke leefomgeving ter vervulling van maatschappelijke functies.     
+2.  In afwijking van artikel 3.26 juncto artikel 3.1, tweede lid, van de Wet ruimtelijke ordening worden de in het inpassingsplan gestelde regels binnen een periode van twintig jaar opnieuw vastgesteld.  
+
+### Artikel  7l  
+
+1.  In aanvulling op artikel 4.1 juncto artikel 3.1, eerste lid, van de Wet ruimtelijke ordening kunnen provinciale staten van Noord-Brabant in de provinciale verordening ruimte regels stellen omtrent de inhoud van bestemmingsplannen, die strekken ten behoeve van het bereiken en in stand houden van een veilige en gezonde fysieke leefomgeving, een goede omgevingskwaliteit, mede met inachtneming van het belang om private inspanningen gericht op een duurzame en zorgvuldige veehouderij te bevorderen.   
+2.  Hiertoe kunnen behoren regels, waarbij: 
+
+a. in afwijking van de artikelen 2 en 6 van de Wet geurhinder en veehouderij voorschriften worden gesteld over de cumulatieve geurhinder veroorzaakt door veehouderijen;  
+
+b. in afwijking van artikel 5.6, eerste lid, van de Wet milieubeheer voor veehouderijen een grenswaarde voor zwevende deeltjes (PM<sub>10</sub>) wordt gesteld die strenger is dan de grenswaarden voor zwevende deeltjes (PM<sub>10</sub>) gesteld in paragraaf 4 van bijlage 2 bij de Wet milieubeheer.     
+3.  Onverminderd het Besluit ammoniakemissie huisvesting veehouderij en paragraaf 3.5.8 en artikel 6.24s van het Activiteitenbesluit milieubeheer kan het college van burgemeester en wethouders bij een beschikking maatregelen voorschrijven die de emissie van geur of van zwevende deeltjes (PM<sub>10</sub>) vanuit dierenverblijven, waarin landbouwhuisdieren worden gehouden, verminderen, als blijkt dat de nadelige gevolgen van deze emissie voor het milieu, gezien de ontwikkeling van de technische mogelijkheden tot bescherming van het milieu of gezien de ontwikkeling van de kwaliteit van het milieu, verder kunnen onderscheidenlijk moeten worden beperkt.   
+4.  Het vorige lid is alleen van toepassing op door burgemeester en wethouders aangewezen urgentiegebieden, waarvoor door de raad een verbeterplan is vastgesteld. Een aangewezen urgentiegebied geldt voor een termijn van tien jaar.  
 
 ### Paragraaf  4  
 
@@ -876,3 +934,28 @@ Kaart Assen, Havenkwartier
 
 ![254213](http://wetten.overheid.nl/Illustration/254213)
 Kaart Nieuwegein, Galecopperzoom
+
+### Bijlage 49 
+
+####bij Besluit uitvoering Crisis- en Herstelwet
+
+Kaart Meppel, Transformatiegebied Noordelijke Stadsentree Meppel  ![255077](http://wetten.overheid.nl/Illustration/255077)
+
+### Bijlage 50 
+
+####bij Besluit uitvoering Crisis- en Herstelwet
+
+Kaart Boekel, Ecodorp Boekel  ![255078](http://wetten.overheid.nl/Illustration/255078)
+
+### Bijlage 51 
+
+####bij Besluit uitvoering Crisis- en Herstelwet
+
+Kaart Delft, Spoorzone  ![255079](http://wetten.overheid.nl/Illustration/255079)
+
+### Bijlage 52 
+
+####bij Besluit uitvoering Crisis- en Herstelwet
+
+Kaart Noord-Brabant, Logistiek Park Moerdijk  ![255080](http://wetten.overheid.nl/Illustration/255080)
+
