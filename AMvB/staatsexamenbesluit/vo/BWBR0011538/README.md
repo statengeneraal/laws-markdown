@@ -96,11 +96,12 @@ In dit besluit wordt verstaan onder:
 
 ####Toelating tot staatsexamen beroepsgerichte leerwegen en gemengde leerweg vmbo
 
-Tot het staatsexamen vmbo in de basisberoepsgerichte leerweg, de kaderberoepsgerichte leerweg of de gemengde leerweg, wordt uitsluitend toegelaten: 
+1. Tot het staatsexamen vmbo in de basisberoepsgerichte leerweg, de kaderberoepsgerichte leerweg of de gemengde leerweg, wordt uitsluitend toegelaten: 
 
 a. de kandidaat die ten tijde van de aanmelding voor het staatsexamen is ingeschreven als deelnemer aan een beroepsopleiding als bedoeld in de Wet educatie en beroepsonderwijs, eerder is afgewezen voor het eindexamen vmbo in een in de aanhef genoemde leerweg, en een cijferlijst overlegt waaruit blijkt dat voor elk van de beroepsgerichte vakken waarin eindexamen is afgelegd, het eindcijfer 6 of meer is behaald;  
 
-b. de kandidaat die is ingeschreven aan een school voor voortgezet speciaal onderwijs of een school voor speciaal en voortgezet speciaal onderwijs als bedoeld in artikel 1 van de Wet op de expertisecentra en die met toepassing van artikel 30 van de Wet op het voortgezet onderwijs het eindexamen vmbo in een in de aanhef genoemde leerweg heeft afgelegd, indien de leerling daarvoor is afgewezen en een cijferlijst overlegt waaruit blijkt dat voor elk van de beroepsgerichte vakken waarin eindexamen is afgelegd, het eindcijfer 6 of meer is behaald.   
+b. de kandidaat die is ingeschreven aan een school voor voortgezet speciaal onderwijs of een school voor speciaal en voortgezet speciaal onderwijs als bedoeld in artikel 1 van de Wet op de expertisecentra en die met toepassing van artikel 30 van de Wet op het voortgezet onderwijs het eindexamen vmbo in een in de aanhef genoemde leerweg heeft afgelegd, indien de leerling daarvoor is afgewezen en een cijferlijst overlegt waaruit blijkt dat voor elk van de beroepsgerichte vakken waarin eindexamen is afgelegd, het eindcijfer 6 of meer is behaald.    
+2.  In afwijking van het eerste lid, worden tot het deelstaatsexamen vmbo voor een of meer algemene vakken in de basisberoepsgerichte leerweg of kaderberoepsgerichte leerweg eveneens toegelaten kandidaten die zijn ingeschreven aan een in dat lid bedoelde school voor voortgezet speciaal onderwijs of school voor speciaal en voortgezet speciaal onderwijs. 
 
 ### Artikel  3  
 
@@ -175,17 +176,19 @@ De kandidaat kiest, met inachtneming van dit hoofdstuk, in welke vakken hij het 
 
 ####Vrijstellingen van rechtswege
 
-1.  Onverminderd vrijstellingen en ontheffingen op grond van de artikelen 11, 12, 13, 22 en, voor zover het betreft de algemene vakken, 23 tot en met 25 van het Eindexamenbesluit VO en met inachtneming van de beperking in artikel 25, derde lid, aanhef en onderdeel d, dat van een school voor voortgezet onderwijs slechts één cijferlijst in beschouwing kan worden genomen, is de kandidaat die staatsexamen aflegt: 
+1.  Onverminderd vrijstellingen en ontheffingen op grond van de artikelen 11, 12, 13, 22 en, voor zover het betreft de algemene vakken, 23 tot en met 25 van het Eindexamenbesluit VO, is de kandidaat die staatsexamen aflegt: 
 
 a. vrijgesteld van de rekentoets of van het examen in een vak in het vwo op grond van een examen vwo, indien voor de rekentoets of het overeenkomstige vak een eindcijfer 6 of hoger is behaald;  
 
 b. vrijgesteld van de rekentoets of van het examen in een vak in het havo op grond van een examen vwo of havo, indien voor de overeenkomstige rekentoets of het overeenkomstige vak een eindcijfer 6 of hoger is behaald;  
 
+b1. vrijgesteld van de rekentoets op grond van een examen beroepsonderwijs als bedoeld in artikel 1.1.1 van de Wet educatie en beroepsonderwijs, indien voor de overeenkomstige rekentoets een eindcijfer 6 of hoger is behaald; 
+
 c. vrijgesteld van het examen in een vak in de theoretische of gemengde leerweg van het vmbo op grond van een examen vwo, havo, vmbo theoretische leerweg of vmbo gemengde leerweg, indien voor het overeenkomstige vak een eindcijfer 6 of hoger is behaald;  
 
 d. vrijgesteld van het examen in een vak in de basisberoepsgerichte of kaderberoepsgerichte leerweg van het vmbo op grond van een examen vwo, havo of vmbo, indien voor het overeenkomstige vak een eindcijfer 6 of hoger is behaald;  
 
-e. vrijgesteld van het examen in een vak van het vwo, havo of vmbo op grond van het overeenkomstige examen, afgelegd in Aruba, Curaçao of Sint Maarten, indien voor het overeenkomstige vak een eindcijfer 6 of hoger is behaald;  
+e. vrijgesteld van het examen in een vak van het vwo, havo of vmbo op grond van het overeenkomstige examen, afgelegd in Curaçao, Sint Maarten, Aruba, Bonaire, Saba of Sint Eustatius, indien voor het overeenkomstige vak een eindcijfer 6 of hoger is behaald;  
 
 f. vrijgesteld van het profielwerkstuk, indien reeds eerder een profielwerkstuk is gemaakt dat betrekking heeft op een of meer vakken van dezelfde schoolsoort, behorende tot het profiel van de kandidaat en waarvoor een eindcijfer 6 of hoger is behaald;  
 
@@ -349,21 +352,19 @@ c. ook in het derde tijdvak verhinderd is, of wanneer hij het centraal examen in
 
 1.  Het College voor examens stelt vast of de kandidaat het examen heeft afgelegd in de rekentoets en in de voor het staatsexamen voorgeschreven vakken.   
 2.  Het College voor examens stelt de uitslag van het staatsexamen vast, met inachtneming van de artikelen 24 en 26 dan wel 26a.   
-3.  De uitslag ter verkrijging van het staatsexamendiploma wordt vastgesteld op grond van de volgende eindcijfers, cijferlijsten of bewijzen van ontheffing, al dan niet in combinatie: 
+3.  De uitslag ter verkrijging van het staatsexamendiploma wordt, onverminderd de tweede volzin, vastgesteld op grond van de eindcijfers van een in dat jaar afgelegd volledig staatsexamen. Indien de kandidaat staatsexamen of deelstaatsexamen aflegt in een aantal vakken die samen geen volledig staatsexamen vormen, kan de kandidaat daaraan voorafgaand aan het College voor toetsen en examens kenbaar maken, het volledig staatsexamen te willen afleggen door voor de ontbrekende vakken, de rekentoets daaronder begrepen, in aanvulling op de cijferlijst voor die vakken aan het College voor toetsen en examens één of meer van de volgende bewijsstukken te overleggen: 
 
-a. de eindcijfers van een in dat jaar afgelegd volledig staatsexamen;  
+a. de eindcijfers van in dat jaar afgelegde deelstaatsexamens;  
 
-b. de eindcijfers van in dat jaar afgelegde deelstaatsexamens;  
+b. een of meer cijferlijsten als bedoeld in de artikelen 30 en 31, eerste lid;  
 
-c. een of meer cijferlijsten als bedoeld in de artikelen 30 en 31, eerste lid;  
+c. een of meer cijferlijsten van een school voor voortgezet onderwijs;  
 
-d. één cijferlijst van een school voor voortgezet onderwijs;  
+d. een of meer cijferlijsten van instellingen voor educatie en beroepsonderwijs;  
 
-e. een of meer cijferlijsten van instellingen voor educatie en beroepsonderwijs;  
+e. bewijzen van ontheffing als bedoeld in artikel 11, vierde lid;  
 
-f. bewijzen van ontheffing als bedoeld in artikel 11, vierde lid;  
-
-g. bewijzen van ontheffing als bedoeld in artikel 10, vierde lid, van het Eindexamenbesluit VO.     
+f. bewijzen van ontheffing als bedoeld in artikel 10, vierde lid, van het Eindexamenbesluit VO.     
 4.  Cijferlijsten worden uitsluitend bij de vaststelling van de uitslag betrokken, indien na het jaar waarin zij zijn vastgesteld, nog geen 10 jaren zijn verstreken. Bewijzen van ontheffing worden uitsluitend bij de vaststelling van de uitslag betrokken indien na het jaar waarin het onderliggende diploma, getuigschrift of ander bewijsstuk is vastgesteld, nog geen 10 jaren zijn verstreken.   
 5.  De uitslag luidt «geslaagd» of «afgewezen».   
 6.  Indien dat nodig is om de kandidaat te laten slagen voor het staatsexamen, betrekt het College voor examens een of meer eindcijfers van de vakken niet bij de bepaling van de definitieve uitslag. De overgebleven vakken dienen een staatsexamen te vormen.  
@@ -438,11 +439,11 @@ b. algemene natuurwetenschappen in het havo.
 
 a. het recht om voor één door de kandidaat te kiezen vak waarin hij in dat jaar door het College voor examens is geëxamineerd, opnieuw deel te nemen aan het college-examen, in door het College voor examens vast te stellen onderdelen van het examenprogramma,  
 
-b. het recht om opnieuw aan de rekentoets waarin hij in dat jaar door het College voor examens is geëxamineerd, deel te nemen, en 
+b. het recht om tweemaal opnieuw aan de rekentoets waarin hij in dat jaar door het College voor examens is geëxamineerd, deel te nemen, en 
 
 c. het recht om voor één door de kandidaat te kiezen vak waarin hij in dat jaar door het College voor examens is geëxamineerd, opnieuw deel te nemen aan het centraal examen.     
 3.  Voorwaarde voor toepassing van het eerste lid is dat de kandidaat daardoor alsnog kan slagen voor het staatsexamen.   
-4.  In afwijking van het eerste lid, heeft de kandidaat gedurende een kalenderjaar recht op één herkansing in de rekentoets. 
+4.  In afwijking van het eerste lid, heeft de kandidaat gedurende een kalenderjaar recht op twee herkansingen in de rekentoets. Artikel 51a, derde tot en met vijfde lid, van het Eindexamenbesluit VO is van overeenkomstige toepassing.  
 
 ### Artikel  28  
 

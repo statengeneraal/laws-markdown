@@ -176,7 +176,7 @@ c. vrijgesteld van het examen in een vak in de theoretische of gemengde leerweg 
 
 d. vrijgesteld van het examen in een vak in de basisberoepsgerichte of kaderberoepsgerichte leerweg van het vmbo op grond van een examen vwo, havo of vmbo, indien voor het overeenkomstige vak een eindcijfer 6 of hoger is behaald;  
 
-e. vrijgesteld van het examen in een vak van het vwo, havo of vmbo op grond van het overeenkomstige examen, afgelegd in Aruba, Curaçao of Sint Maarten, indien voor het overeenkomstige vak een eindcijfer 6 of hoger is behaald;  
+e. vrijgesteld van het examen in een vak van het vwo, havo of vmbo op grond van het overeenkomstige examen, afgelegd in Aruba, Curaçao, Sint Maarten of Nederland, indien voor het overeenkomstige vak een eindcijfer 6 of hoger is behaald;  
 
 f. vrijgesteld van het profielwerkstuk, indien reeds eerder een profielwerkstuk is gemaakt dat betrekking heeft op een of meer vakken van dezelfde schoolsoort, behorende tot het profiel van de kandidaat en waarvoor een eindcijfer 6 of hoger is behaald;  
 
@@ -330,21 +330,19 @@ c. ook in het derde tijdvak verhinderd is, of wanneer hij het centraal examen in
 
 1.  Het College voor examens stelt vast of de kandidaat het examen heeft afgelegd in de voor het staatsexamen voorgeschreven vakken.   
 2.  Het College voor examens stelt de uitslag van het staatsexamen vast, met inachtneming van de artikelen 22 en 24 dan wel 24a.   
-3.  De uitslag ter verkrijging van het staatsexamendiploma wordt vastgesteld op grond van de volgende eindcijfers, cijferlijsten of bewijzen van ontheffing, al dan niet in combinatie: 
+3.  De uitslag ter verkrijging van het staatsexamendiploma wordt, onverminderd de tweede volzin, vastgesteld op grond van de eindcijfers van een in dat jaar afgelegd volledig staatsexamen. Indien de kandidaat staatsexamen of deelstaatsexamen aflegt in een aantal vakken die samen geen volledig staatsexamen vormen, kan de kandidaat daaraan voorafgaand aan het College voor toetsen en examens kenbaar maken, het volledig staatsexamen te willen afleggen door voor de ontbrekende vakken in aanvulling op de cijferlijst voor die vakken aan het College voor toetsen en examens één of meer van de volgende bewijsstukken te overleggen: 
 
-a. de eindcijfers van een in dat jaar afgelegd volledig staatsexamen;  
+a. de eindcijfers van in dat jaar afgelegde deelstaatsexamens;  
 
-b. de eindcijfers van in dat jaar afgelegde deelstaatsexamens;  
+b. een of meer cijferlijsten als bedoeld in de artikelen 28 en 29, eerste lid;  
 
-c. een of meer cijferlijsten als bedoeld in de artikelen 28 en 29, eerste lid;  
+c. een of meer cijferlijsten van een school voor voortgezet onderwijs;  
 
-d. één cijferlijst van een school voor voortgezet onderwijs;  
+d. een of meer cijferlijsten van instellingen voor educatie en beroepsonderwijs;  
 
-e. een of meer cijferlijsten van instellingen voor educatie en beroepsonderwijs;  
+e. bewijzen van ontheffing als bedoeld in artikel 10, vierde lid;  
 
-f. bewijzen van ontheffing als bedoeld in artikel 10, vierde lid;  
-
-g. bewijzen van ontheffing als bedoeld in artikel 9, vierde lid, van het Eindexamenbesluit VO BES.     
+f. bewijzen van ontheffing als bedoeld in artikel 9, vierde lid, van het Eindexamenbesluit VO BES.     
 4.  Cijferlijsten worden uitsluitend bij de vaststelling van de uitslag betrokken, indien na het jaar waarin zij zijn vastgesteld, nog geen 10 jaren zijn verstreken. Bewijzen van ontheffing worden uitsluitend bij de vaststelling van de uitslag betrokken indien na het jaar waarin het onderliggende diploma, getuigschrift of ander bewijsstuk is vastgesteld, nog geen 10 jaren zijn verstreken.   
 5.  De uitslag luidt «geslaagd» of «afgewezen».   
 6.  Indien dat nodig is om de kandidaat te laten slagen voor het staatsexamen, betrekt het College voor examens een of meer eindcijfers van de vakken niet bij de bepaling van de definitieve uitslag. De overgebleven vakken dienen een staatsexamen te vormen.  

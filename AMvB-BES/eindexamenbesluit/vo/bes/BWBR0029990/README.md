@@ -170,8 +170,6 @@ b. welk deel van de examenstof centraal zal worden geëxamineerd en over welke e
 
 ####Minimumeis overeenstemming eindexamenvakken met schoolsoort van inschrijving
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 Indien het eindexamen één of meer vakken omvat van een andere schoolsoort dan die waarvoor de kandidaat is ingeschreven, behoort ten minste één vak tot de voorgeschreven eindexamenvakken van de schoolsoort van inschrijving. 
 
 ### Artikel  8  
@@ -186,7 +184,7 @@ b. vrijgesteld van het examen in een vak in het havo op grond van een examen vwo
 
 c. vrijgesteld van het examen in een vak in het vwo op grond van een examen vwo, indien voor het overeenkomstige vak een eindcijfer 6 of hoger of een daarmee overeenkomende waardering is behaald;  
 
-d. vrijgesteld van het examen in een vak van het vwo of havo op grond van het overeenkomstige examen, afgelegd op Aruba, Curaçao of Sint Maarten, indien voor het overeenkomstige vak een eindcijfer 6 of hoger of een daarmee overeenkomende waardering is behaald;  
+d. vrijgesteld van het examen in een vak van het vwo of havo op grond van het overeenkomstige examen, afgelegd op Curaçao, Sint Maarten, Aruba, Bonaire, Saba of Sint Eustatius, indien voor het overeenkomstige vak een eindcijfer 6 of hoger of een daarmee overeenkomende waardering is behaald;  
 
 e. vrijgesteld van het profielwerkstuk, indien reeds eerder een profielwerkstuk is gemaakt dat betrekking heeft op een of meer vakken van dezelfde schoolsoort, behorende tot het profiel van de kandidaat en waarvoor een eindcijfer 6 of hoger is behaald,  
 
@@ -316,7 +314,8 @@ b. een vak dat op grond van het tweede lid onderdeel kan zijn van de basisberoep
 c. een algemeen vak dat behoort tot het eindexamen van de theoretische leerweg, de kaderberoepsgerichte leerweg of de gemengde leerweg, genoemd in respectievelijk de artikelen 16, 18 of 29 van de wet, of  
 
 d. een vak als bedoeld in de artikelen 39 of 40 van de wet.     
-6.  Artikel 14, tweede lid, is van overeenkomstige toepassing.  
+6.  Artikel 14, tweede lid, is van overeenkomstige toepassing.   
+7.  In afwijking van het eerste lid is de kandidaat die het eindexamen aflegt aan een school voor vmbo, voor zover het betreft de basisberoepsgerichte leerweg, bij het eindexamen vrijgesteld van de vakken waarvoor vrijstelling is verleend voor het volgen van onderwijs op grond van artikel 29, vijfde lid, van het Inrichtingsbesluit WVO BES. 
 
 ### Artikel  16  
 
@@ -339,7 +338,8 @@ b. een vak dat op grond van het tweede lid onderdeel kan zijn van de kaderberoep
 
 c. een algemeen vak dat behoort tot het eindexamen van de theoretische leerweg of de gemengde leerweg, genoemd in respectievelijk artikel 16 of artikel 29 van de wet, of  
 
-d. een vak als bedoeld in de artikelen 39 of 40 van de wet.    
+d. een vak als bedoeld in de artikelen 39 of 40 van de wet.     
+5.  In afwijking van het eerste lid is de kandidaat die het eindexamen aflegt aan een school voor vmbo, voor zover het betreft de kaderberoepsgerichte leerweg, bij het eindexamen vrijgesteld van de vakken waarvoor vrijstelling is verleend voor het volgen van onderwijs op grond van artikel 29, zesde lid, van het Inrichtingsbesluit WVO BES. 
 
 ### Artikel  17  
 
@@ -356,7 +356,8 @@ c. in het vrije deel een nog niet in het sectordeel gekozen algemeen vak, bedoel
 d. een tot de sector behorend afdelingsvak, genoemd in artikel 25, eerste lid, van het Inrichtingsbesluit WVO BES of een intrasectoraal of intersectoraal programma als bedoeld in artikel 27, eerste lid, van het Inrichtingsbesluit WVO BES     
 2.  Artikel 14, tweede lid, is van overeenkomstige toepassing.   
 3.  In geval van toepassing van artikel 29, negende lid, van de wet, zijn het eerste en tweede lid van toepassing, met dien verstande dat het vervangen vak niet als extra vak als bedoeld in het vierde lid, kan dienen.   
-4.  In aanvulling op de voorgeschreven vakken, bedoeld in het eerste lid, kan het eindexamen omvatten, voor zover nog niet gekozen, een vak als bedoeld in artikel 29, zevende lid, onderdelen a, b en c, van de wet, of als bedoeld in artikel 39 of 40 van de wet.  
+4.  In aanvulling op de voorgeschreven vakken, bedoeld in het eerste lid, kan het eindexamen omvatten, voor zover nog niet gekozen, een vak als bedoeld in artikel 29, zevende lid, onderdelen a, b en c, van de wet, of als bedoeld in artikel 39 of 40 van de wet.   
+5.  In afwijking van het eerste lid is de kandidaat die het eindexamen aflegt aan een school voor vmbo, voor zover het betreft de gemengde leerweg, bij het eindexamen vrijgesteld van de vakken waarvoor vrijstelling is verleend voor het volgen van onderwijs op grond van artikel 29, zevende lid, van het Inrichtingsbesluit WVO BES. 
 
 ### Hoofdstuk  III  
 
@@ -462,12 +463,13 @@ c. het College voor examens deelt het door de kandidaat behaalde cijfer voor het
 
 ### Artikel  26  
 
-####Centraal examen voorlaatste leerjaar
+####Centraal examen in eerder leerjaar
 
-1.  In afwijking van artikel 25, tweede lid, kan het bevoegd gezag een leerling uit het voorlaatste leerjaar toelaten tot het centraal examen in één of meer vakken, niet zijnde alle vakken van het eindexamen.   
+1.  In afwijking van artikel 25, tweede lid, kan het bevoegd gezag een leerling uit het voorlaatste of direct daaraan voorafgaande leerjaar toelaten tot het centraal examen in één of meer vakken, niet zijnde alle vakken van het eindexamen.   
 2.  Indien toepassing wordt gegeven aan het eerste lid, wordt het schoolexamen in dat vak of die vakken afgesloten voor aanvang van het eerste tijdvak in dat leerjaar.   
 3.  Artikel 37, vierde lid, en artikel 37a, vijfde lid, zijn van overeenkomstige toepassing.   
-4.  Indien toepassing wordt gegeven aan het eerste lid, wordt het derde tijdvak aansluitend aan het voorlaatste leerjaar afgenomen door het College voor examens.  
+4.  Indien toepassing wordt gegeven aan het eerste lid, wordt het derde tijdvak aansluitend aan het voorlaatste of direct daaraan voorafgaande leerjaar afgenomen door het College voor examens.   
+5.  Indien de leerling in één of meer vakken centraal examen heeft afgelegd in het voorlaatste of direct daaraan voorafgaande leerjaar, en niet is bevorderd tot het volgende leerjaar, vervallen de met dit centraal examen of deze centrale examens behaalde resultaten. 
 
 ### Artikel  27  
 
@@ -545,7 +547,7 @@ Indien door onvoorziene omstandigheden het centraal examen in één of meer vakk
 
 1.  Het eindcijfer voor alle vakken van het eindexamen wordt uitgedrukt in een geheel cijfer uit de reeks 1 tot en met 10.   
 2.  De directeur bepaalt het eindcijfer op het rekenkundig gemiddelde van het cijfer voor het schoolexamen en het cijfer voor het centraal examen. Indien de uitkomst van de berekening niet een geheel getal is, wordt dat getal indien het eerste cijfer achter de komma een 4 of lager is, naar beneden afgerond en indien dat cijfer een 5 of hoger is, naar boven afgerond.   
-3.  Indien in een vak alleen een schoolexamen is gehouden is het cijfer voor het schoolexamen tevens het eindcijfer.  
+3.  Indien in een vak alleen een schoolexamen is afgenomen en niet tevens een centraal examen is het cijfer voor het schoolexamen tevens het eindcijfer.  
 
 ### Artikel  36  
 
@@ -554,15 +556,15 @@ Indien door onvoorziene omstandigheden het centraal examen in één of meer vakk
 1.  De directeur en de secretaris van het eindexamen stellen in geval van een eindexamen de uitslag vast met inachtneming van artikel 37 of artikel 37a, en voor zover van toepassing artikel 40.   
 2.  De uitslag luidt «geslaagd» of «afgewezen».   
 3.  Indien dat nodig is om de kandidaat te laten slagen betrekken de directeur en de secretaris van het eindexamen een of meer eindcijfers van de vakken niet bij de bepaling van de definitieve uitslag. De overgebleven vakken dienen een eindexamen te vormen.   
-4.  Met het afleggen van het eindexamen in enig jaar aan een instelling voor educatie en beroepsonderwijs wordt gelijkgesteld het in dat jaar afleggen van examen in een of meer vakken aan die instelling met het oogmerk, in dat jaar het diploma te behalen door de combinatie met het overleggen door de desbetreffende kandidaat aan de examencommissie vavo van: 
+4.  Indien de kandidaat aan een instelling voor educatie en beroepsonderwijs examen aflegt in één vak of in een aantal vakken die samen geen eindexamen vormen, kan de kandidaat daaraan voorafgaand aan de examencommissie vavo kenbaar maken, het volledig eindexamen te willen afleggen door voor de ontbrekende vakken in aanvulling op de cijferlijst voor die vakken aan deze examencommissie één of meer van de volgende bewijsstukken te overleggen: 
 
-a. één in artikel 39, eerste lid, of artikel 40, bedoelde cijferlijst van een school die is uitgereikt in een eerder jaar;  
+a. een of meer in artikel 39, eerste lid, of artikel 40, bedoelde cijferlijsten van een school voor voortgezet onderwijs, uitgereikt in een eerder jaar;  
 
-b. één in artikel 39, eerste lid, bedoelde cijferlijst, of een in artikel 41, tweede lid, bedoeld certificaat, afgegeven door een andere instelling voor educatie en beroepsonderwijs;  
+b. een of meer door een andere instelling voor educatie en beroepsonderwijs afgegeven cijferlijsten als bedoeld in artikel 39, eerste lid, of 41, eerste lid;  
 
-c. één cijferlijst als bedoeld in artikel 28, eerste of tweede lid, of artikel 29, eerste lid, van het Staatsexamenbesluit VO BES;  
+c. een of meer cijferlijsten als bedoeld in artikel 28, eerste of tweede lid, of artikel 29, eerste lid, van het Staatsexamenbesluit VO BES;  
 
-d. een of meer bewijzen van ontheffing als bedoeld in artikel 9, vierde lid, van dit besluit, of als bedoeld in artikel 10, vierde lid, van het Staatsexamenbesluit VO BES.     
+d. een of meer bewijzen van ontheffing als bedoeld in artikel 9, vierde lid, van dit besluit, of als bedoeld in artikel 10, vierde lid, van het Staatsexamenbesluit VO BES.     
 5.  Cijferlijsten worden uitsluitend bij de vaststelling van de uitslag betrokken, indien na het jaar waarin zij zijn vastgesteld, nog geen 10 jaren zijn verstreken. Bewijzen van ontheffing worden uitsluitend bij de vaststelling van de uitslag betrokken indien na het jaar waarin het onderliggende diploma, getuigschrift of ander bewijsstuk is vastgesteld, nog geen 10 jaren zijn verstreken.   
 6.  De kandidaat toont in voorkomend geval ten genoegen van de directeur aan dat hij recht heeft op een vrijstelling of ontheffing ingevolge de artikelen 11, 12, 13, 14, 15, 16 of 17, of ingevolge artikel 8, van dit besluit, dan wel als bedoeld in artikel 9 van het Staatsexamenbesluit VO BES.   
 7.  De directeur vergewist zich ervan dat het eindexamen de in de artikelen 11, 12, 13, 14, 15, 16 of 17 voorgeschreven vakken omvat.   
@@ -633,7 +635,7 @@ c. bij bijzondere scholen: godsdienst of levensbeschouwelijk vormingsonderwijs, 
 2.  De kandidaat stelt de directeur voor een door deze laatste te bepalen dag en tijdstip schriftelijk in kennis van gebruikmaking van het in het eerste lid bedoelde recht.   
 3.  Het hoogste van de cijfers behaald bij de herkansing en bij het eerder afgelegde centraal examen geldt als definitief cijfer voor het centraal examen.   
 4.  Na afloop van de herkansing in het laatste leerjaar wordt de uitslag definitief vastgesteld met overeenkomstige toepassing van artikel 36 en wordt deze schriftelijk aan de kandidaat bekendgemaakt.   
-5.  Na afloop van een herkansing in het voorlaatste leerjaar wordt het eindcijfer schriftelijk aan de kandidaat bekendgemaakt.   
+5.  Na afloop van een herkansing in het voorlaatste of direct daaraan voorafgaande leerjaar wordt het eindcijfer schriftelijk aan de kandidaat bekendgemaakt.   
 6.  Het eerste tot en met vierde lid zijn van overeenkomstige toepassing op de vakken waarin in een examenjaar deeleindexamen is afgelegd. De kandidaat die in een examenjaar zowel eindexamen als een of meer deeleindexamens aflegt, oefent het in het eerste lid bedoelde recht per examenjaar ten hoogste eenmaal uit.  
 
 ### Artikel  39  
@@ -654,10 +656,10 @@ e. de beoordeling van het kunstvak en het vak lichamelijke opvoeding uit het gem
 
 f. volgens welke differentiatie, bedoeld in artikel 6, derde lid, is geëxamineerd,  
 
-g. de eindcijfers voor de examenvakken met inbegrip van het cijfer bepaald op grond van artikel 37, derde lid, en  
+g. de eindcijfers voor de examenvakken met inbegrip van het cijfer bepaald op grond van artikel 37a, tweede lid, en  
 
 h. de uitslag van het eindexamen.     
-2.  De directeur reikt op grond van de definitieve uitslag aan elke voor het eindexamen geslaagde kandidaat, daaronder mede begrepen de kandidaat die zijn eindexamen met gunstig gevolg heeft voltooid ten overstaan van het College voor examens, een diploma uit, waarop het profiel of de profielen zijn vermeld die bij de uitslag zijn betrokken. Op het dipoma vmbo is in elk geval de leerweg vermeld die bij de uitslag is betrokken.   
+2.  De directeur reikt op grond van de definitieve uitslag aan elke voor het eindexamen geslaagde kandidaat, daaronder mede begrepen de kandidaat die zijn eindexamen met gunstig gevolg heeft voltooid ten overstaan van het College voor examens, een diploma uit, waarop het profiel of de profielen zijn vermeld die bij de uitslag zijn betrokken. Op het diploma vmbo is in elk geval de leerweg vermeld die bij de uitslag is betrokken.   
 3.  Indien een kandidaat in meer vakken examen heeft afgelegd dan in de vakken die ten minste samen een eindexamen vormen, worden de vakken die niet bij de bepaling van de uitslag zijn betrokken, op de cijferlijst vermeld, tenzij de kandidaat daartegen bedenkingen heeft geuit.   
 4.  Onze Minister stelt het model van de cijferlijst vast.   
 5.  Voor de vermelding op de cijferlijst van vakken waarvoor de kandidaat vrijstelling of ontheffing is verleend bij het eindexamen geldt het volgende: 
@@ -684,7 +686,11 @@ b. indien het betreft het eindexamen vmbo:
 
 3°. vakken waarvoor de kandidaat bij het eindexamen vmbo voor zover het betreft de theoretische leerweg, is vrijgesteld op grond van een eerder afgelegd eindexamen vmbo voor zover het betreft de kaderberoepsgerichte leerweg of de basisberoepsgerichte leerweg waarvan deze vakken dan wel de overeenkomstige vakken, bedoeld in artikel 16, negende lid, van de wet, deel uitmaakten, worden vermeld op de cijferlijst, met vermelding van het eerder behaalde cijfer;  
 
-4°. andere vakken waarvoor de kandidaat vrijstelling of ontheffing is verleend, worden vermeld op de cijferlijst, zonder vermelding van een cijfer.       
+4°. vakken waarvoor de kandidaat op grond van artikel 15, zevende lid, artikel 16, vijfde lid, of artikel 17, vijfde lid, bij het eindexamen vmbo zijn vrijgesteld, worden vermeld op de cijferlijst, met vermelding van het eerder behaalde cijfer;  
+
+5°. vakken die op grond van artikel 14, zevende lid, zijn gekozen in aanvulling op de daar bedoelde voorgeschreven vakken, worden vermeld op de cijferlijst, met vermelding van het daarvoor behaalde cijfer; 
+
+6°. andere vakken waarvoor de kandidaat vrijstelling of ontheffing is verleend, worden vermeld op de cijferlijst, zonder vermelding van een cijfer.       
 6.  De directeur en de secretaris van het eindexamen ondertekenen de diploma’s en de cijferlijsten.   
 7.  Indien de kandidaat in een bepaald jaar is geslaagd voor het eindexamen, draagt de directeur er op verzoek van de kandidaat zorg voor dat de behaalde cijfers voor de vakken waarin in datzelfde jaar deeleindexamen of deelstaatsexamen is afgelegd, worden vermeld op de cijferlijst.   
 8.  De directeur van een scholengemeenschap die in elk geval een school voor mavo omvat, reikt op verzoek van de kandidaat die met goed gevolg het examen vmbo in de gemengde leerweg aan die school heeft afgelegd en bovendien examen heeft afgelegd in een extra algemeen vak en met het meetellen van dat vak voldoet aan artikel 37 voor zover het betreft de uitslag van het eindexamen vmbo in de theoretische leerweg, het diploma vmbo van de theoretische leerweg uit.  
@@ -705,7 +711,7 @@ c. de kandidaat staat ingeschreven voor atheneum onderwijs.
 
 ####Voorlopige cijferlijst
 
-1.  Indien de kandidaat een centraal examen of een afsluitend schoolexamen in één of meer vakken heeft afgelegd in het voorlaatste leerjaar en vervolgens de school verlaat zonder het eindexamen te voltooien, verstrekt de directeur hem een voorlopige cijferlijst.   
+1.  Indien de kandidaat een centraal examen of een afsluitend schoolexamen in één of meer vakken heeft afgelegd in het voorlaatste of direct daaraan voorafgaande leerjaar en vervolgens de school verlaat zonder het eindexamen te voltooien, verstrekt de directeur hem een voorlopige cijferlijst.   
 2.  Op de voorlopige cijferlijst worden het vak of de vakken waarin de kandidaat centraal examen heeft afgelegd vermeld, alsmede het cijfer van het schoolexamen, het cijfer van het centraal examen en het eindcijfer, met de aantekening of gebruik is gemaakt van de herkansingsmogelijkheid.   
 3.  Indien de kandidaat een afsluitend schoolexamen heeft afgelegd wordt de beoordeling of het cijfer daarvan vermeld op de voorlopige cijferlijst.  
 4. Onze Minister stelt het model van de voorlopige cijferlijst vast.
@@ -722,7 +728,7 @@ b. voor het vwo en havo het vak of de vakken en het onderwerp of de titel van he
 
 c. voor het vmbo het thema alsmede de beoordeling van het sectorwerkstuk, en  
 
-d. de eindcijfers voor de examenvakken met inbegrip van het cijfer, bepaald op grond van artikel 37, derde lid.     
+d. de eindcijfers voor de examenvakken met inbegrip van het cijfer, bepaald op grond van artikel 37a, tweede lid.     
 2.  De examencommissie vavo reikt aan de in het eerste lid bedoelde kandidaat, alsmede aan de kandidaat aan wie op grond van de definitieve uitslag niet op grond van 39, tweede lid, een diploma kan worden uitgereikt, een certificaat uit, waarop zijn vermeld, voor zover van toepassing: 
 
 a. het vak of de vakken waarvoor de kandidaat een eindcijfer 6 of meer heeft behaald,  
@@ -774,7 +780,7 @@ c. enig ander vak waarbij het gebruik van de Nederlandse taal van overwegende be
 
 ####Gegevensverstrekking
 
-1.  Zo spoedig mogelijk na de vaststelling van de eindcijfers in het voorlaatste leerjaar, voor zover van toepassing, en na de vaststelling van de definitieve uitslag stuurt het bevoegd gezag aan Onze Minister en aan de inspectie een opgave waarop voor de kandidaten voor zover van toepassing zijn vermeld: 
+1.  Zo spoedig mogelijk na de vaststelling van de eindcijfers in het voorlaatste of direct daaraan voorafgaande leerjaar, voor zover van toepassing, en na de vaststelling van de definitieve uitslag stuurt het bevoegd gezag aan Onze Minister en aan de inspectie een opgave waarop voor de kandidaten voor zover van toepassing zijn vermeld: 
 
 a. het profiel of de profielen danwel de leerweg waarop het examen betrekking heeft;  
 
@@ -817,8 +823,6 @@ Ten behoeve van experimenten met een andere inrichting van het eindexamen kan On
 ### Artikel  47a  
 
 ####Hardheidsclausule
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 Onze Minister kan bij of krachtens dit besluit vastgestelde voorschriften buiten toepassing laten of daarvan afwijken voor zover onverkorte toepassing zal leiden tot onbillijkheden van overwegende aard. 
 

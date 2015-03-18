@@ -8,8 +8,8 @@ Besluit:
 
 ### Artikel  1  
 
-1.  Aan de hoofddirecteur Interne Organisatie wordt ondermandaat, volmacht en machtiging verleend voor beslissingen op bezwaarschriften inzake personeelsaangelegenheden voor zover daarvoor geen mandaat, volmacht en machtiging is verleend aan de directeur Bedrijfsvoering.   
-2.  Aan de hoofddirecteur Interne Organisatie wordt voorts ondermandaat, volmacht en machtiging verleend voor het nemen van besluiten en het verrichten van overige handelingen ten aanzien van medewerkers voor wie salarisschaal 15 of hoger van bijlage B van het BBRA geldt, respectievelijk kandidaten voor functies waarvoor die salarisschalen gelden betreffende: 
+1.  Aan de hoofddirecteur Interne Organisatie en Uitvoering wordt ondermandaat, volmacht en machtiging verleend voor beslissingen op bezwaarschriften inzake personeelsaangelegenheden voor zover daarvoor geen mandaat, volmacht en machtiging is verleend aan de directeur Bedrijfsvoering.   
+2.  Aan de hoofddirecteur Interne Organisatie en Uitvoering wordt voorts ondermandaat, volmacht en machtiging verleend voor het nemen van besluiten en het verrichten van overige handelingen ten aanzien van medewerkers voor wie salarisschaal 15 of hoger van bijlage B van het BBRA geldt, respectievelijk kandidaten voor functies waarvoor die salarisschalen gelden betreffende: 
 
 1°. het aanstellen in vaste of tijdelijke dienst en het beëindigen van vaste of tijdelijke aanstellingen;  
 
@@ -35,7 +35,7 @@ Besluit:
 
 ### Artikel  2  
 
-Aan de hoofddirecteur Interne Organisatie wordt ondermandaat, volmacht en machtiging verleend voor de P&O-aangelegenheden ten aanzien van de directeur Bedrijfsvoering, de directeur Dienst ICT Uitvoering en de directeur-hoofdinspecteur van het Agentschap Telecom. 
+Aan de hoofddirecteur Interne Organisatie en Uitvoering wordt ondermandaat, volmacht en machtiging verleend voor de P&O-aangelegenheden ten aanzien van de directeur Bedrijfsvoering, de directeur Dienst ICT Uitvoering en de directeur-hoofdinspecteur van het Agentschap Telecom. 
 
 ### Artikel  3  
 
@@ -43,7 +43,7 @@ Dit besluit treedt in werking met ingang van de eerste dag na uitgifte van de St
 
 ### Artikel  4  
 
-Dit besluit wordt aangehaald als: Besluit ondermandaat, volmacht en machtiging hoofddirecteur Interne Organisatie van het Ministerie van Economische Zaken 2015. 
+Dit besluit wordt aangehaald als: Besluit ondermandaat, volmacht en machtiging hoofddirecteur Interne Organisatie en Uitvoering van het Ministerie van Economische Zaken. 
 Dit besluit zal in de Staatscourant worden geplaatst.   
 
 ’s-Gravenhage 

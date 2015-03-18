@@ -661,6 +661,12 @@ The production and use of endosulfan shall be eliminated except for parties that
 | Tomato  | Aphids, diamondback moth, jassids, leaf miner, shoot and fruit borer, whiteflies  |
 | Wheat  | Aphids, pink borer, termites  |
 
+### Part VII 
+
+#### Hexabromocyclododecane
+
+Each Party that has registered for the exemption pursuant to Article 4 for the production and use of hexabromocyclododecane for expanded polystyrene and extruded polystyrene in buildings shall take necessary measures to ensure that expanded polystyrene and extruded polystyrene containing hexabromocyclododecane can be easily identified by labelling or other means throughout its life cycle.
+
 ### Annex   B 
 
 ####Restriction
@@ -1838,6 +1844,12 @@ De productie en het gebruik van endosulfan worden uitgebannen, behoudens ten aan
 | Tabak  | Bladluizen, Oosterse tabaksknopuil  |
 | Tomaat  | Bladluizen, koolwitje, *Jassidae*, mineervliegen, *Leucinodes orbonalis*, witte vliegen  |
 | Tarwe  | Bladluizen, roze stengelboorder, termieten  |
+
+### Deel VII 
+
+#### Hexabroomcyclododecaan
+
+Elke Partij die zich heeft ingeschreven voor de uitzondering ingevolge artikel 4 voor de productie en toepassing van hexabroomcyclododecaan in geëxpandeerd polystyreen en geëxtrudeerd polystyreen in bouwwerken neemt de nodige maatregelen om te waarborgen dat geëxpandeerd polystyreen en geëxtrudeerd polystyreen dat hexabroomcyclododecaan bevat gedurende de volledige levenscyclus eenvoudig herkenbaar zijn via etikettering of op andere wijze.
 
 ### Bijlage   B 
 

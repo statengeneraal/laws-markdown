@@ -4,15 +4,11 @@
 
 ####Agreement between the Kingdom of the Netherlands, in respect of the Netherlands Antilles, and Saint Vincent and the Grenadines on the Exchange of Information relating to Tax Matters
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 The Government of the Kingdom of the Netherlands, in respect of the Netherlands Antilles, and the Government of Saint Vincent and the Grenadines Desiring to facilitate the exchange of information with respect to taxes,   Have agreed as follows:    
 
 ### Article  1  
 
 ####Object and Scope of the Agreement
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  The competent authorities of the Contracting Parties shall provide assistance through exchange of information that is foreseeably relevant to the administration and enforcement of the domestic laws of the Contracting Parties concerning taxes covered by this Agreement. Such information shall include information that is foreseeably relevant to the determination, assessment and collection of such taxes, the recovery and enforcement of tax claims, or the investigation or prosecution of tax matters. Information shall be exchanged in accordance with the provisions of this Agreement and shall be treated as confidential in the manner provided in Article 8. The rights and safeguards secured to persons by the laws or administrative practice of the requested Party remain applicable to the extent that they do not unduly prevent or delay effective exchange of information.   
 2.  As regards the Kingdom of the Netherlands, this Agreement shall apply only to the Netherlands Antilles.  
@@ -21,15 +17,11 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Jurisdiction
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 A Requested Party is not obligated to provide information which is neither held by its authorities nor in the possession or control of persons who are within its territorial jurisdiction. 
 
 ### Article  3  
 
 ####Taxes Covered
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  The taxes which are the subject of this Agreement: 
 
@@ -51,8 +43,6 @@ b) in Saint Vincent and the Grenadines taxes of every kind and description.
 ### Article  4  
 
 ####Definitions
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  For the purposes of this Agreement, unless otherwise defined: 
 
@@ -99,8 +89,6 @@ q) the term “criminal laws” means all criminal laws designated as such under
 
 ####Exchange of Information Upon Request
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  The competent authority of the requested Party shall provide upon request information for the purposes referred to in Article 1. Such information shall be exchanged without regard to whether the conduct being investigated would constitute a crime under the laws of the requested Party if such conduct occurred in the territorial jurisdiction of the requested Party.   
 2.  If the information in the possession of the competent authority of the requested Party is not sufficient to enable it to comply with the request for information, that Party shall use all relevant information gathering measures to provide the applicant Party with the information requested, notwithstanding that the requested Party may not need such information for its own tax purposes.   
 3.  If specifically requested by the competent authority of an applicant Party, the competent authority of the requested Party shall provide information under this Article, to the extent allowable under its domestic laws, in the form of depositions of witnesses and authenticated copies of original records.   
@@ -134,8 +122,6 @@ b) if the competent authority of the requested Party has been unable to obtain a
 
 ####Tax Examinations Abroad
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  A Contracting Party may allow representatives of the competent authority of the other Contracting Party to enter the territory of the first-mentioned Party to interview individuals and examine records with the written consent of the persons concerned. The competent authority of the second-mentioned Party shall notify the competent authority of the first-mentioned Party of the time and place of the meeting with the individuals concerned.   
 2.  At the request of the competent authority of one Contracting Party, the competent authority of the other Contracting Party may allow representatives of the competent authority of the first-mentioned Party to be present at the appropriate part of a tax examination in the second-mentioned Party.   
 3.  If the request referred to in paragraph 2 is acceded to, the competent authority of the Contracting Party conducting the examination shall, as soon as possible, notify the competent authority of the other Party about the time and place of the examination, the authority or official designated to carry out the examination and the procedures and conditions required by the first-mentioned Party for the conduct of the examination. All decisions with respect to the conduct of the tax examination shall be made by the Party conducting the examination.  
@@ -143,8 +129,6 @@ Treedt in werking op een nader te bepalen tijdstip
 ### Article  7  
 
 ####Possibility of Declining a Request
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  The requested Party shall not be required to obtain or provide information that the applicant Party would not be able to obtain under its own laws for purposes of the administration or enforcement of its own tax laws. The competent authority of the requested Party may decline to assist where the request is not made in conformity with this Agreement.   
 2.  The provisions of this Agreement shall not impose on a Contracting Party the obligation to supply information which would disclose any trade, business, industrial, commercial or professional secret or trade process. Notwithstanding the foregoing, information of the type referred to in Article 5, paragraph 4 shall not be treated as such a secret or trade process merely because it meets the criteria in that paragraph.   
@@ -161,15 +145,11 @@ b) produced for the purposes of use in existing or contemplated legal proceeding
 
 ####Confidentiality
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 Any information received by a Contracting Party under this Agreement shall be treated as confidential and may be disclosed only to persons or authorities (including courts and administrative bodies) in the jurisdiction of the Contracting Party concerned with the assessment or collection of, the enforcement or prosecution in respect of, or the determination of appeals in relation to, the taxes covered by this Agreement or the oversight above. Such persons or authorities shall use such information only for such purposes. They may disclose the information in public court proceedings or in judicial decisions. The information may not be disclosed to any other person or entity or authority or any other jurisdiction without the express written consent of the competent authority of the requested Party. 
 
 ### Article  9  
 
 ####Costs
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 Incidence of costs incurred in providing assistance shall be agreed by the Contracting Parties. 
 
@@ -177,23 +157,17 @@ Incidence of costs incurred in providing assistance shall be agreed by the Contr
 
 ####Implementation Legislation
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 The Contracting Parties shall take all necessary legislative steps to comply with, and give effect to, the terms of the Agreement. 
 
 ### Article  11  
 
 ####Other international agreements or arrangements
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 The possibilities of assistance provided by this Agreement do not limit, nor are they limited by, those contained in existing international agreements or other arrangements between the Contracting Parties which relate to co-operation in tax matters. 
 
 ### Article  12  
 
 ####Mutual Agreement Procedure
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Where difficulties or doubts arise between the Contracting Parties regarding the implementation or interpretation of the Agreement, the competent authorities shall endeavour to resolve the matter by mutual agreement.   
 2.  In addition to the agreements referred to in paragraph 1, the competent authorities of the Contracting Parties may mutually agree on the procedures to be used under Articles 5 and 6.   
@@ -203,8 +177,6 @@ Treedt in werking op een nader te bepalen tijdstip
 ### Article  13  
 
 ####Entry into Force
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 This Agreement shall enter into force when each Contracting Party has notified the other in writing, through diplomatic channels, of the completion of its necessary internal procedures for entry into force. Upon entry into force, it shall have effect: 
 
@@ -216,8 +188,6 @@ b) for all other matters covered in Article 1 on that date, but only in respect 
 
 ####Termination
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  Either Contracting Party may terminate the Agreement, through diplomatic channels, by serving a notice of termination to the other Contracting Party.   
 2.  Such termination shall become effective on the first day of the month following the expiration of a period of six months after the date of receipt of notice of termination by the other Contracting Party.   
 3.  Following termination of the Agreement the Contracting Parties shall remain bound by the provisions of Article 8 with respect to any information obtained under the Agreement.  
@@ -226,15 +196,11 @@ IN WITNESS WHEREOF the undersigned, being duly authorised thereto by their respe
 
 ####Verdrag tussen het Koninkrijk der Nederlanden, ten behoeve van de Nederlandse Antillen, en Saint Vincent en de Grenadines inzake de uitwisseling van informatie betreffende belastingzaken
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 De Regering van het Koninkrijk der Nederlanden, ten behoeve van de Nederlandse Antillen, en de Regering van Saint Vincent en de Grenadines, Geleid door de wens de uitwisseling van informatie betreffende belastingen te vergemakkelijken,   Zijn het volgende overeengekomen:    
 
 ### Artikel  1  
 
 ####Doelstelling en reikwijdte van het Verdrag
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De bevoegde autoriteiten van de verdragsluitende partijen verlenen elkaar bijstand door middel van de uitwisseling van informatie die naar verwachting van belang zal zijn voor de toepassing en handhaving van de nationale wetten van de verdragsluitende partijen die betrekking hebben op de belastingen waarop dit Verdrag van toepassing is. Deze informatie omvat informatie die naar verwachting van belang zal zijn voor de bepaling, vaststelling en inning van deze belastingen, de invordering en tenuitvoerlegging van belastingvorderingen of het onderzoek naar of de vervolging van belastingzaken. Informatie wordt uitgewisseld in overeenstemming met de bepalingen van dit Verdrag en wordt vertrouwelijk behandeld op de wijze voorzien in artikel 8. De uit hoofde van de wetgeving of bestuursrechtelijke praktijk van de aangezochte partij aan personen toegekende rechten en waarborgen blijven van toepassing voor zover zij de doeltreffende uitwisseling van informatie niet onnodig verhinderen of vertragen.   
 2.  Wat het Koninkrijk der Nederlanden betreft, is dit Verdrag uitsluitend van toepassing op de Nederlandse Antillen.  
@@ -243,15 +209,11 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Rechtsmacht
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 Een aangezochte partij is niet verplicht informatie te verstrekken die noch in het bezit is van haar autoriteiten, noch in het bezit of in de macht van personen die onder haar territoriale rechtsmacht vallen. 
 
 ### Artikel  3  
 
 ####Belastingen waarop het Verdrag van toepassing is
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De belastingen waarop dit Verdrag van toepassing is betreffen: 
 
@@ -273,8 +235,6 @@ b. op Saint Vincent en de Grenadines belastingen van elke soort en benaming.
 ### Artikel  4  
 
 ####Begripsomschrijvingen
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Voor de toepassing van dit Verdrag, tenzij anders is bepaald: 
 
@@ -321,8 +281,6 @@ q. wordt verstaan onder de uitdrukking „strafwetten” alle strafrechtelijke b
 
 ####Uitwisseling van informatie op verzoek
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  De bevoegde autoriteit van de aangezochte partij verstrekt op verzoek informatie ten behoeve van de in artikel 1 bedoelde doelstellingen. Dergelijke informatie wordt uitgewisseld ongeacht of de onderzochte gedragingen, indien deze binnen het territoriale rechtsgebied van de aangezochte partij zouden plaatsvinden, uit hoofde van de wetgeving van de aangezochte partij als strafbaar feit zouden worden aangemerkt.   
 2.  Indien de informatie in het bezit van de bevoegde autoriteit van de aangezochte partij niet toereikend is om aan het verzoek om informatie te voldoen, treft die partij alle toepasselijke maatregelen ten behoeve van het verzamelen van informatie teneinde de verzoekende partij de verzochte informatie te verstrekken, ongeacht het feit dat de aangezochte partij ten behoeve van haar eigen belastingheffing niet over dergelijke informatie hoeft te beschikken.   
 3.  Indien de bevoegde autoriteit van een verzoekende partij daar specifiek om verzoekt, is de bevoegde autoriteit van de aangezochte partij gehouden uit hoofde van dit artikel informatie te verstrekken, voor zover zulks is toegestaan in overeenstemming met haar nationale wetgeving, in de vorm van getuigenverklaringen en gewaarmerkte afschriften van originele stukken.   
@@ -356,8 +314,6 @@ b. Indien de bevoegde autoriteit van de aangezochte partij niet in staat is de i
 
 ####Belastingcontrole in het buitenland
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  Een verdragsluitende partij kan vertegenwoordigers van de bevoegde autoriteit van de andere verdragsluitende partij toestaan het grondgebied van de eerstgenoemde partij binnen te komen teneinde, met schriftelijke toestemming van de betrokken personen, natuurlijke personen te ondervragen en stukken te onderzoeken. De bevoegde autoriteit van de als tweede genoemde partij stelt de bevoegde autoriteit van de eerstgenoemde partij in kennis van het tijdstip en de locatie van de bijeenkomst met de betrokken natuurlijke personen.   
 2.  Op verzoek van de bevoegde autoriteit van de ene verdragsluitende partij kan de bevoegde autoriteit van de andere verdragsluitende partij vertegenwoordigers van de bevoegde autoriteit van de eerstgenoemde partij toestaan aanwezig te zijn bij het daarvoor in aanmerking komende deel van een belastingcontrole in de als tweede genoemde partij.   
 3.  Indien het in het tweede lid bedoelde verzoek wordt ingewilligd, stelt de bevoegde autoriteit van de verdragsluitende partij die de controle uitvoert, de bevoegde autoriteit van de andere partij zo spoedig mogelijk in kennis van het tijdstip en de locatie van de controle, de autoriteit of functionaris die de controle zal uitvoeren en van de procedures en voorwaarden die bij de eerstgenoemde partij vereist zijn voor de uitvoering van de controle. Alle beslissingen met betrekking tot het uitvoeren van de belastingcontrole worden genomen door de partij die de controle uitvoert.  
@@ -365,8 +321,6 @@ Treedt in werking op een nader te bepalen tijdstip
 ### Artikel  7  
 
 ####Mogelijkheid een verzoek af te wijzen
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Van de aangezochte partij kan niet worden verlangd dat zij informatie verkrijgt of verstrekt die de verzoekende partij krachtens haar eigen wetgeving niet zou kunnen verkrijgen ten behoeve van de toepassing of handhaving van haar eigen belastingwetten. De bevoegde autoriteit van de aangezochte partij kan weigeren bijstand te verlenen indien het verzoek niet in overeenstemming met dit Verdrag is gedaan.   
 2.  De bepalingen van dit Verdrag mogen een verdragsluitende partij niet verplichten informatie te verstrekken waardoor een handelsgeheim, zakelijk geheim, industrieel, commercieel of beroepsgeheim of handelsproces zou worden onthuld. Niettegenstaande het voorgaande zal de informatie bedoeld in artikel 5, vierde lid, niet als geheim of handelsproces worden behandeld uitsluitend op grond van het feit dat zij aan de in dat lid gestelde criteria voldoet.   
@@ -383,15 +337,11 @@ b. plaatsvindt ten behoeve van bestaande of mogelijk in te stellen gerechtelijke
 
 ####Vertrouwelijkheid
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 Alle uit hoofde van dit Verdrag door een verdragsluitende partij ontvangen informatie wordt vertrouwelijk behandeld en wordt uitsluitend ter kennis gebracht van personen of autoriteiten (met inbegrip van rechterlijke en bestuursrechtelijke instanties) die onder de rechtsmacht van de desbetreffende verdragsluitende partij vallen en betrokken zijn bij de vaststelling of inning van, de tenuitvoerlegging of vervolging ter zake van, of de beslissing in beroepszaken betrekking hebbende op de belastingen waarop dit Verdrag van toepassing is, of het toezicht daarop. Deze personen of autoriteiten mogen uitsluitend voor deze doeleinden van deze informatie gebruikmaken. Zij mogen de informatie bekendmaken in openbare rechtszittingen of in gerechtelijke beslissingen. De informatie mag niet ter kennis worden gebracht van enige andere persoon, instelling, autoriteit of rechterlijke instantie zonder de uitdrukkelijke schriftelijke toestemming van de bevoegde autoriteit van de aangezochte partij. 
 
 ### Artikel  9  
 
 ####Kosten
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 De verdragsluitende partijen bereiken overeenstemming over kosten die voortvloeien uit het verlenen van bijstand. 
 
@@ -399,23 +349,17 @@ De verdragsluitende partijen bereiken overeenstemming over kosten die voortvloei
 
 ####Uitvoeringswetgeving
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 De verdragsluitende partijen nemen alle wetgevende maatregelen die noodzakelijk zijn om te voldoen aan en ter uitvoering van de bepalingen van dit Verdrag. 
 
 ### Artikel  11  
 
 ####Andere internationale verdragen of regelingen
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 De mogelijkheden voor bijstand waarin dit Verdrag voorziet, vormen geen beperking voor, noch worden zij beperkt door, de mogelijkheden vervat in bestaande internationale verdragen of andere regelingen tussen de verdragsluitende partijen die betrekking hebben op samenwerking ter zake van belastingzaken. 
 
 ### Artikel  12  
 
 ####Procedure voor onderling overleg
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De bevoegde autoriteiten trachten moeilijkheden of twijfelpunten die mochten rijzen tussen de verdragsluitende partijen met betrekking tot de uitvoering of de uitlegging van dit Verdrag in onderling overleg op te lossen.   
 2.  Naast de in het eerste lid bedoelde afspraken, kunnen de bevoegde autoriteiten van de verdragsluitende partijen in onderling overleg overeenstemming bereiken over de krachtens de artikelen 5 en 6 te hanteren procedures.   
@@ -426,8 +370,6 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Inwerkingtreding
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 Dit Verdrag treedt in werking nadat beide verdragsluitende partijen elkaar schriftelijk, langs diplomatieke weg, ervan in kennis hebben gesteld dat de vereiste interne procedures voor de inwerkingtreding ervan zijn voltooid. Vanaf de inwerkingtreding is dit Verdrag van toepassing op: 
 
 a. strafrechtelijke belastingzaken vanaf die datum; en  
@@ -437,8 +379,6 @@ b. alle overige aangelegenheden vanaf die datum waarop artikel 1 van toepassing 
 ### Artikel  14  
 
 ####Beëindiging
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Elk van de verdragsluitende partijen kan het Verdrag beëindigen, langs diplomatieke weg, door een kennisgeving van beëindiging in te dienen aan de andere verdragsluitende partij.   
 2.  Deze beëindiging wordt van kracht op de eerste dag van de maand na het verstrijken van een tijdvak van zes maanden na de datum van ontvangst van de kennisgeving van beëindiging door de andere verdragsluitende partij.   

@@ -156,7 +156,7 @@ In aanvulling op het aantal formatieplaatsen als bedoeld in de artikelen 2 en 3,
 | 50 tot 80  | 4  |
 | 80 tot 120  | 3,5  |
 | 120 tot 170  | 7,4  |
-| 170 tot 200  | 6  |
+| 170 tot 200  | 6,9  |
 | 200 tot 250  | 4  |
 | 250 of meer  | 0  |
 
