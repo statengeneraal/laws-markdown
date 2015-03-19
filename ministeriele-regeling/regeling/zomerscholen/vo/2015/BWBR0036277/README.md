@@ -39,13 +39,13 @@ De minister verstrekt subsidie aan uitvoerende scholen voor het aantal deelnemer
 ####Subsidieplafond en prioritering
 
 1.  Voor subsidieverstrekking aan scholen voor het in artikel 2 genoemde doel is in 2015 een bedrag van maximaal € 8.400.000,– beschikbaar.   
-2.  Bij overschrijding van het subsidieplafond wordt door middel van loting bepaald welke subsidieaanvragen worden gehonoreerd, met dien verstande dat in elk geval de subsidieaanvragen van scholen die hebben deelgenomen aan de door de VO-raad en CNV Onderwijs geïnitieerde pilots zomerscholen 2013 of 2014 worden gehonoreerd.  
+2.  Bij overschrijding van het subsidieplafond wordt door middel van loting bepaald welke subsidieaanvragen worden gehonoreerd, met dien verstande dat in elk geval de subsidieaanvragen van scholen die hebben deelgenomen aan de door de VO-raad en CNV Onderwijs geïnitieerde pilots zomerscholen 2013 of 2014, en subsidieaanvragen die uiterlijk 12 maart 2015 bij DUO zijn ingediend en voldoen aan de gestelde subsidievoorwaarden, worden gehonoreerd.  
 
 ### Artikel  4  
 
 ####Indienen en vereisten subsidieaanvraag
 
-1.  Uiterlijk op 12 maart 2015 dient de uitvoerende school bij de Dienst Uitvoering Onderwijs van het Ministerie van Onderwijs, Cultuur en Wetenschap te Zoetermeer (DUO) een door alle deelnemende scholen ondertekende subsidieaanvraag in via het daarvoor bestemde formulier, dat beschikbaar is via www.duo.nl. De ondertekening kan geschieden door een gescande of geüploade handtekening.   
+1.  Uiterlijk op 26 maart 2015 dient de uitvoerende school bij de Dienst Uitvoering Onderwijs van het Ministerie van Onderwijs, Cultuur en Wetenschap te Zoetermeer (DUO) een door alle deelnemende scholen ondertekende subsidieaanvraag in via het daarvoor bestemde formulier, dat beschikbaar is via www.duo.nl. De ondertekening kan geschieden door een gescande of geüploade handtekening.   
 2.  De subsidieaanvraag bevat de gevraagde informatie genoemd in de bijlage bij deze regeling.  
 
 ### Artikel  5  

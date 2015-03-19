@@ -14,9 +14,9 @@ b. "de Ondervoorzitters", de Ondervoorzitters van de Kamer;
 
 c. "De minister", de verantwoordelijke ministers en staatssecretarissen.  Op het lid of de leden van de Tweede Kamer aan wie door die Kamer de verdediging van een aldaar aangenomen voorstel van wet is opgedragen, zijn de bepalingen die in dit reglement op een minister van toepassing zijn, van overeenkomstige toepassing;  
 
-d. "het vergaderjaar", de periode die aanvangt op het in [artikel 65 der Grondwet](../../../../../../../wet/grondwet/BWBR0001840/README.md) bedoelde tijdstip van enig jaar en duurt tot aan hetzelfde tijdstip in het daarop volgende jaar;  
+d. "het vergaderjaar", de periode die aanvangt op het in artikel 65 der Grondwet bedoelde tijdstip van enig jaar en duurt tot aan hetzelfde tijdstip in het daarop volgende jaar;  
 
-e. "de geloofsbrief", de geloofsbrief in de zin der [Kieswet](../../../../../../../wet/kieswet/BWBR0004627/README.md) met de overige volgens de wet daarbij over te leggen stukken;  
+e. "de geloofsbrief", de geloofsbrief in de zin der Kieswet met de overige volgens de wet daarbij over te leggen stukken;  
 
 f. een "voorstel", een voorstel van wet of enig ander voorstel dat de Kamer in onderzoek nemen wil of aan beschouwing wil onderwerpen;  
 
@@ -30,7 +30,7 @@ g. een "gemengde commissie", een commissie die bestaat uit leden van de Eerste e
 
 ### Artikel  2  
 
-1.  Elk nieuw benoemd lid doet van zijn verkiezing blijken door overlegging van de bij de [Kieswet](../../../../../../../wet/kieswet/BWBR0004627/README.md) voorgeschreven stukken.   
+1.  Elk nieuw benoemd lid doet van zijn verkiezing blijken door overlegging van de bij de Kieswet voorgeschreven stukken.   
 2.   De geloofsbrieven en de daarop betrekking hebbende stukken worden ter griffie ter inzage gelegd voor de leden.  
 
 ### Artikel  3  
@@ -47,7 +47,7 @@ Over de toelating van leden die benoemd zijn verklaard na periodieke aftreding o
 
 ### Artikel  5  
 
-1.  Het lid aan wie krachtens het daarop betrekking hebbend artikel der [Kieswet](../../../../../../../wet/kieswet/BWBR0004627/README.md) <sup> * Vgl. artikel X3, tweede en derde lid Kieswet. </sup> is meegedeeld dat zijn lidmaatschap heeft opgehouden te bestaan, kan daarover binnen acht dagen het oordeel van de Kamer vragen.   
+1.  Het lid aan wie krachtens het daarop betrekking hebbend artikel der Kieswet <sup> * Vgl. artikel X3, tweede en derde lid Kieswet. </sup> is meegedeeld dat zijn lidmaatschap heeft opgehouden te bestaan, kan daarover binnen acht dagen het oordeel van de Kamer vragen.   
 2.   De Kamer benoemt in het onder het eerste lid bedoelde geval uit haar midden een commissie van onderzoek ,en spreekt geen oordeel uit voordat deze commissie verslag heeft uitgebracht. Indien het betrokken lid daarom verzoekt, wordt hij door de commissie gehoord.  
 
 ### Hoofdstuk  II  
@@ -177,7 +177,7 @@ Beraadslagingen omtrent de persoon, bedoeld in artikel 26 eerste lid, vinden pla
 
 ### Artikel  28  
 
-1.  De Huishoudelijke Commissie is belast met het uitoefenen van de bevoegdheden ingevolge het [Ambtenarenreglement Staten-Generaal](../../../../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md) en het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) ten aanzien van de Griffier en de plaatsvervangend(e) griffier(s).   
+1.  De Huishoudelijke Commissie is belast met het uitoefenen van de bevoegdheden ingevolge het Ambtenarenreglement Staten-Generaal en het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984 ten aanzien van de Griffier en de plaatsvervangend(e) griffier(s).   
 2.   De Huishoudelijke Commissie bepaalt de taken en bevoegdheden van de Griffier en de plaatsvervangend(e) griffier(s).  
 
 ### Artikel  29  
@@ -471,7 +471,7 @@ Het College van Senioren wordt, indien het zelf daartoe de wens te kennen geeft 
 ### Artikel  76  
 
 1.  Elk lid heeft een voor hem bestemde zitplaats in de vergaderzaal. De Voorzitter wijst deze zitplaats aan. Indien de Voorzitter dit vraagt, nemen de leden hun zitplaatsen in.   
-2.   De Voorzitter draagt zorg voor de beschikbaarheid van zitplaatsen voor de ministers en eventueel de personen die zij krachtens [artikel 69, derde lid van de Grondwet](../../../../../../../wet/grondwet/BWBR0001840/README.md) hebben aangewezen.   
+2.   De Voorzitter draagt zorg voor de beschikbaarheid van zitplaatsen voor de ministers en eventueel de personen die zij krachtens artikel 69, derde lid van de Grondwet hebben aangewezen.   
 3.   Voorts draagt hij, indien nodig, zorg voor de beschikbaarheid van zitplaatsen voor diegenen, in het bijzonder de Gevolmachtigde Ministers van de Nederlandse Antillen en/of de bijzondere gedelegeerden, aan wie bij Statuut, wet of verdrag enige bijzondere bevoegdheid is toegekend in de vergaderingen van de beide Kamers der Staten-Generaal.  
 
 ####Openbaarheid
@@ -495,7 +495,7 @@ Indien dit naar zijn oordeel noodzakelijk is, is de Voorzitter ten aanzien van a
 
 ### Artikel  81  
 
-De Kamer kan indien zij overeenkomstig [het tweede en derde lid van artikel 66 van de Grondwet](../../../../../../../wet/grondwet/BWBR0001840/README.md) met gesloten deuren vergadert, op voorstel van de Voorzitter of één der leden besluiten omtrent het daar behandelde de geheimhouding op te heffen. 
+De Kamer kan indien zij overeenkomstig het tweede en derde lid van artikel 66 van de Grondwet met gesloten deuren vergadert, op voorstel van de Voorzitter of één der leden besluiten omtrent het daar behandelde de geheimhouding op te heffen. 
 
 ####Ingekomen stukken
 
@@ -666,7 +666,7 @@ Stemmen geschiedt bij hoofdelijke oproeping, tenzij de Kamer op voorstel van de 
 
 ### Artikel  110  
 
-1.  Behoudens in de gevallen, in de [Grondwet](../../../../../../../wet/grondwet/BWBR0001840/README.md) voorzien, worden alle besluiten over zaken genomen bij volstrekte meerderheid van stemmen.   
+1.  Behoudens in de gevallen, in de Grondwet voorzien, worden alle besluiten over zaken genomen bij volstrekte meerderheid van stemmen.   
 2.   Bij staken van stemmen wordt het nemen van een besluit uitgesteld tot een volgende vergadering. Staken ook dan de stemmen, dan wordt het voorstel geacht te zijn verworpen.  
 
 ### Artikel  111  
@@ -774,7 +774,7 @@ De onderdelen van het officiële verslag, genoemd in het vorige artikel onder *b
 
 ### Artikel  125  
 
-1.  Het officiële verslag van de vergaderingen die volgens het bepaalde van [artikel 66 van de Grondwet](../../../../../../../wet/grondwet/BWBR0001840/README.md) met gesloten deuren worden gehouden, wordt afzonderlijk opgemaakt en bewaard.   
+1.  Het officiële verslag van de vergaderingen die volgens het bepaalde van artikel 66 van de Grondwet met gesloten deuren worden gehouden, wordt afzonderlijk opgemaakt en bewaard.   
 2.   De Kamer beslist of de stenografen met het maken hiervan zullen worden belast.   
 3.   De notulen uit dit verslag worden ter vertrouwelijke kennisneming voor de leden ter griffie ter inzage gelegd en behandeld overeenkomstig het bepaalde in artikel 124, derde lid. Indien de Kamer overeenkomstig dit artikel om een uitspraak wordt gevraagd, worden de deuren gesloten voordat over de notulen wordt beraadslaagd.   
 4.   De notulen worden afzonderlijk gehouden en ter griffie bewaard.   
@@ -831,13 +831,13 @@ De Kamer bepaalt bij het besluit tot het instellen van een onderzoek de termijn 
 
 ### Artikel  135  
 
-De processen-verbaal van verhoor van getuigen of deskundigen alsmede het afzonderlijk proces-verbaal bedoeld in artikel 134 worden door de aanwezige leden der commissie en door de griffier ondertekend. Alle andere van de commissie uitgaande stukken, behalve die waaromtrent de [Wet op de Parlementaire Enquête](../../../../../../../wet/wet/op/de/parlementaire/enquête/BWBR0001841/README.md) de ondertekening van de aanwezige leden van de commissie vordert, worden door haar voorzitter en de griffier ondertekend. 
+De processen-verbaal van verhoor van getuigen of deskundigen alsmede het afzonderlijk proces-verbaal bedoeld in artikel 134 worden door de aanwezige leden der commissie en door de griffier ondertekend. Alle andere van de commissie uitgaande stukken, behalve die waaromtrent de Wet op de Parlementaire Enquête de ondertekening van de aanwezige leden van de commissie vordert, worden door haar voorzitter en de griffier ondertekend. 
 
 ### Artikel  136  
 
 1.  Na afloop van het onderzoek of zo dikwijls de commissie het nodig oordeelt dan wel de Kamer daartoe besluit doet de commissie van haar verrichtingen verslag aan de Kamer.   
 2.   De processen-verbaal van de gehouden verhoren en de overige bescheiden van het ingestelde onderzoek worden op de griffie bewaard.   
-3.   De Kamer kan voorts de openbaarmaking gelasten van niet door de commissie openbaar gemaakte stukken, met uitzondering van bescheiden en aantekeningen die ingevolge een besluit van de commissie, genomen krachtens de haar bij [artikel 18*a* van de Wet op de Parlementaire Enquête](../../../../../../../wet/wet/op/de/parlementaire/enquête/BWBR0001841/README.md) verleende bevoegdheid, geheim dienen te worden gehouden.  
+3.   De Kamer kan voorts de openbaarmaking gelasten van niet door de commissie openbaar gemaakte stukken, met uitzondering van bescheiden en aantekeningen die ingevolge een besluit van de commissie, genomen krachtens de haar bij artikel 18*a* van de Wet op de Parlementaire Enquête verleende bevoegdheid, geheim dienen te worden gehouden.  
 
 ### Artikel  137  
 
@@ -921,7 +921,7 @@ De bepalingen in dit hoofdstuk zijn, voor zover de wet of dit reglement niet and
 
 ### Artikel  150  
 
-De Voorzitter geeft aan de Gevolmachtigde Ministers en de bijzondere gedelegeerden de gelegenheid de hun in het bijzonder bij de [artikelen 17](../../../../../../../rijkswet/statuut/voor/het/koninkrijk/der/nederlanden/BWBR0002154/README.md) en [18 van het Statuut voor het Koninkrijk der Nederlanden](../../../../../../../rijkswet/statuut/voor/het/koninkrijk/der/nederlanden/BWBR0002154/README.md) toegekende bevoegdheden uit te oefenen. 
+De Voorzitter geeft aan de Gevolmachtigde Ministers en de bijzondere gedelegeerden de gelegenheid de hun in het bijzonder bij de artikelen 17 en 18 van het Statuut voor het Koninkrijk der Nederlanden toegekende bevoegdheden uit te oefenen. 
 
 ### Artikel  151  
 
@@ -934,7 +934,7 @@ De Voorzitter verleent het woord aan de Gevolmachtigde Ministers en de bijzonder
 
 ### Artikel  153  
 
-Wanneer de Gevolmachtigde Ministers of de daartoe aangewezen bijzondere gedelegeerden gebruik maken van de hun bij [artikel 18 van het Statuut](../../../../../../../rijkswet/statuut/voor/het/koninkrijk/der/nederlanden/BWBR0002154/README.md) toegekende bevoegdheid om te verzoeken de stemming tot de volgende vergadering aan te houden, wordt aan dat verzoek voldaan. 
+Wanneer de Gevolmachtigde Ministers of de daartoe aangewezen bijzondere gedelegeerden gebruik maken van de hun bij artikel 18 van het Statuut toegekende bevoegdheid om te verzoeken de stemming tot de volgende vergadering aan te houden, wordt aan dat verzoek voldaan. 
 
 ### Artikel  154  
 
@@ -946,8 +946,97 @@ Wanneer de Kamer bij toepassing van artikel 139 aan een lid gelegenheid heeft ge
 
 ### Artikel  156  
 
-1.  Bij de behandeling van verdragen welke de Nederlandse Antillen onderscheidenlijk Aruba raken, wordt bij toepassing van de artikelen 143 tot en met 148 de bij het tweede lid van [artikel 24 van het Statuut](../../../../../../../rijkswet/statuut/voor/het/koninkrijk/der/nederlanden/BWBR0002154/README.md) aan de Gevolmachtigde Ministers toegekende bevoegdheid in acht genomen.   
+1.  Bij de behandeling van verdragen welke de Nederlandse Antillen onderscheidenlijk Aruba raken, wordt bij toepassing van de artikelen 143 tot en met 148 de bij het tweede lid van artikel 24 van het Statuut aan de Gevolmachtigde Ministers toegekende bevoegdheid in acht genomen.   
 2.   In het bijzonder worden de Gevolmachtigde Ministers in de gelegenheid gesteld de mondelinge behandeling van vragen en voorstellen als bedoeld in de artikelen 144 en 145 van dit reglement bij te wonen en daarbij zodanige verklaringen, opmerkingen en inlichtingen aan de Kamer te verstrekken als zij wenselijk achten.  
+
+###Hoofdstuk XIIa 
+
+####Integriteit
+
+Treedt in werking per 09-06-2015 
+
+####Belangenconflicten
+
+Treedt in werking per 09-06-2015 
+
+###Artikel 156a 
+Treedt in werking per 09-06-2015 
+
+Ieder lid geeft zich rekenschap van de belangen die hij anders dan als lid van de Kamer heeft en waakt ervoor dat deze belangen niet leiden tot het op oneigenlijke wijze uitoefenen van zijn functie.
+
+####Geschenken
+
+Treedt in werking per 09-06-2015 
+
+###Artikel 156b 
+Treedt in werking per 09-06-2015 
+
+Ter griffie wordt een register bijgehouden waarin de leden de door hen in hun hoedanigheid als lid van de Kamer ontvangen geschenken met een hogere waarde dan 50 euro vermelden, uiterlijk één week na ontvangst van het geschenk. Dit register ligt voor een ieder ter inzage.
+
+####Buitenlandse reizen
+
+Treedt in werking per 09-06-2015 
+
+###Artikel 156c 
+Treedt in werking per 09-06-2015 
+
+Ter griffie wordt een register bijgehouden waarin de leden hun in hun hoedanigheid als lid van de Kamer gemaakte buitenlandse reizen op uitnodiging en voor rekening van derden vermelden, uiterlijk één week na terugkeer in Nederland. Dit register ligt voor een ieder ter inzage. Vermelding van een buitenlandse reis kan achterwege blijven indien dit gelet op het belang van de veiligheid van het betrokken lid is aangewezen.
+
+####Functies naast het lidmaatschap van de Kamer
+
+Treedt in werking per 09-06-2015 
+
+###Artikel 156d 
+Treedt in werking per 09-06-2015 
+
+1. Ieder lid maakt conform de Wet vergoedingen leden Eerste Kamer zijn nevenfuncties openbaar door terinzagelegging van een opgave van deze functies bij de griffie. Deze opgave bevat tevens een korte beschrijving van de werkzaamheden die het lid verricht en van de organisatie waarvoor het lid werkzaam is.
+2. De beschrijving genoemd in het vorige lid kan achterwege blijven indien de aard van de werkzaamheden en de aard van de organisatie reeds voldoende duidelijk zijn na het vermelden van de functie. 
+3.  Is het lid werkzaam als adviseur, dan vermeldt het lid tevens de sector waarvoor hij adviseert.
+
+####Geheimhouding in een plenaire vergadering met gesloten deuren
+
+Treedt in werking per 09-06-2015 
+
+###Artikel 156e 
+Treedt in werking per 09-06-2015 
+
+1. Ten aanzien van de gedachtewisseling in een plenaire vergadering met gesloten deuren wordt geheimhouding in acht genomen.
+2. De geheimhouding wordt door hen die bij de behandeling aanwezig waren en allen die van het behandelde of de stukken kennis dragen, in acht genomen totdat de Kamer haar opheft. 
+3. De geheimhouding kan door de Kamer, met gesloten deuren vergaderend, worden opgeheven.
+
+####Geheimhouding besloten commissievergadering
+
+Treedt in werking per 09-06-2015 
+
+###Artikel 156f 
+Treedt in werking per 09-06-2015 
+
+1. Ten aanzien van de gedachtewisseling in een besloten commissievergadering wordt geheimhouding in acht genomen, met uitzondering van hetgeen de commissie in haar verslag vermeldt.
+2. De geheimhouding wordt door hen die bij de behandeling aanwezig waren en allen die van het behandelde of de stukken kennis dragen, in acht genomen totdat de commissie haar opheft.
+3. De geheimhouding kan door de commissie in een besloten commissievergadering worden opgeheven.
+
+####Vertrouwelijke stukken
+
+Treedt in werking per 09-06-2015 
+
+###Artikel 156g 
+Treedt in werking per 09-06-2015 
+
+1. De vertrouwelijkheid ten aanzien van de inhoud van een stuk ten aanzien waarvan de Kamer heeft bepaald, of waarvan uit zijn aard volgt, dat het vertrouwelijk is, wordt door een ieder in acht genomen. 
+2.  Ter griffie wordt een register bijgehouden van bij de Kamer dan wel bij de commissies ingekomen vertrouwelijke stukken.
+
+####Schending van de geheimhouding
+
+Treedt in werking per 09-06-2015 
+
+###Artikel 156h 
+Treedt in werking per 09-06-2015 
+
+1. De huishoudelijke commissie kan de Kamer voorstellen om een lid, dat de geheimhouding of de vertrouwelijkheid, bedoeld in de artikelen 156e, 156f en 156g, niet in acht neemt, voor ten hoogste één maand uit te sluiten van alle vergaderingen van één of meer commissies.
+2.  De huishoudelijke commissie kan de Kamer eveneens voorstellen om een lid, als bedoeld in het eerste lid, voor ten hoogste de verdere duur van de zitting uit te sluiten van de kennisneming van vertrouwelijke stukken.
+3.  Een voorstel als bedoeld in het eerste en tweede lid wordt niet gedaan dan nadat de huishoudelijke commissie het betrokken lid in de gelegenheid heeft gesteld te worden gehoord.
+4.  Een voorstel als bedoeld in het eerste en tweede lid wordt in stemming gebracht bij de aanvang van de eerste vergadering van de Kamer na de dag waarop de huishoudelijke commissie tot het doen van het voorstel heeft besloten. Over dit voorstel wordt niet beraadslaagd. 
+5.  Een besluit van de Kamer ingevolge dit artikel wordt door de Voorzitter onverwijld ter kennis gebracht van het betrokken lid.
 
 ### Hoofdstuk  XIII  
 
@@ -1079,7 +1168,7 @@ De artikelen, gegeven in Hoofdstuk XIII van dit reglement vinden in gevallen waa
 
 ### Artikel  179  
 
-De Kamer kan te allen tijde besluiten van de bepalingen van dit reglement af te wijken, indien geen der leden zich daartegen verzet en indien de afwijking niet in strijd is met het [Statuut voor het Koninkrijk der Nederlanden](../../../../../../../rijkswet/statuut/voor/het/koninkrijk/der/nederlanden/BWBR0002154/README.md), de [Grondwet](../../../../../../../wet/grondwet/BWBR0001840/README.md) of een andere wet. 
+De Kamer kan te allen tijde besluiten van de bepalingen van dit reglement af te wijken, indien geen der leden zich daartegen verzet en indien de afwijking niet in strijd is met het Statuut voor het Koninkrijk der Nederlanden, de Grondwet of een andere wet. 
 
 ### Artikel  180  
 

@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Diervoeder van 13 november 2002 houdende vaststelling bestemmingsheffing ten behoeve van de Fondsen voormengsels, mengvoeders en voedermiddelen voor het jaar 2003 (heffingsverordening PDV fondsen voormengsels, mengvoeders en voedermiddelen jaar 2003)
 
 Het bestuur van het Productschap Diervoeder heeft,
-gelet op de [artikelen 95](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 eerste en vierde lid van de Wet op de bedrijfsorganisatie](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op artikel 9 van de Instellingsverordening Akkerbouwproductschappen 1997, op 13 november 2002 de volgende verordening vastgesteld.
+gelet op de artikelen 95 en 126 eerste en vierde lid van de Wet op de bedrijfsorganisatie en op artikel 9 van de Instellingsverordening Akkerbouwproductschappen 1997, op 13 november 2002 de volgende verordening vastgesteld.
 Besluit:
 
 ###Artikel 1 
@@ -90,7 +90,7 @@ Het productschap kan verrekening van bedragen kleiner dan € 50,- achterwege la
 ###Artikel 10 
 Materieel uitgewerkt per 20-06-2004 
 
-Aan de ondernemer die niet of niet geheel binnen de in artikel 8 gestelde termijn heeft betaald, kunnen de voor het productschap daaruit voortvloeiende extra kosten in rekening worden gebracht, alsmede de wettelijke interest over het niet betaalde bedrag, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md).
+Aan de ondernemer die niet of niet geheel binnen de in artikel 8 gestelde termijn heeft betaald, kunnen de voor het productschap daaruit voortvloeiende extra kosten in rekening worden gebracht, alsmede de wettelijke interest over het niet betaalde bedrag, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie.
 
 ###Artikel 11 
 Materieel uitgewerkt per 20-06-2004 

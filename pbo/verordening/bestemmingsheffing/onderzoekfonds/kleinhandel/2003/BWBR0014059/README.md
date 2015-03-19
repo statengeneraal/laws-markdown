@@ -3,7 +3,7 @@
 ## Verordening bestemmingsheffing onderzoekfonds kleinhandel 2003
 
 Het bestuur van het Productschap Vis heeft, 
-gelet op de [artikelen 93](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en de artikelen 5, 6 en 9 van de Instellingsverordening Productschap Vis op 26 september 2002 de navolgende verordening vastgesteld.
+gelet op de artikelen 93, 95 en 126 van de Wet op de bedrijfsorganisatie en de artikelen 5, 6 en 9 van de Instellingsverordening Productschap Vis op 26 september 2002 de navolgende verordening vastgesteld.
 
 ###Artikel 1 
 
@@ -12,7 +12,7 @@ in deze verordening wordt verstaan onder:
 | --- | --- | --- |
 |:---|:---|:---|
 |Productschap |: |het Productschap Vis; |
-|Kleinhandelaar |: |degene die als zodanig op grond van de [Heffingsverordening 2003](../../../../../../../pbo/heffingsverordening/2003/BWBR0015544/README.md) heffing verschuldigd is; |
+|Kleinhandelaar |: |degene die als zodanig op grond van de Heffingsverordening 2003 heffing verschuldigd is; |
 |Bestuur |: |het bestuur van het Productschap; |
 |Voorzitter |: |de voorzitter van het Productschap; |
 |Commissie detailhandel |: |de commissie ingesteld door het bestuur met als doel het adviseren over aangelegenheden betreffende de detailhandel. |
@@ -25,7 +25,7 @@ in deze verordening wordt verstaan onder:
 
 ###Artikel 3 
 
-De [artikelen 11](../../../../../../../pbo/heffingsverordening/2003/BWBR0015544/README.md), [12](../../../../../../../pbo/heffingsverordening/2003/BWBR0015544/README.md), 15, 17 en 18 van de [Heffingsverordening 2003](../../../../../../../pbo/heffingsverordening/2003/BWBR0015544/README.md) zijn van overeenkomstige toepassing.
+De artikelen 11, 12, 15, 17 en 18 van de Heffingsverordening 2003 zijn van overeenkomstige toepassing.
 
 ###Artikel 4 
 

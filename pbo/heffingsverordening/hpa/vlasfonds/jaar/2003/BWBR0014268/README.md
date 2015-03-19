@@ -3,7 +3,7 @@
 ##Verordening van het Hoofdproductschap Akkerbouw van 14 november 2002, houdende vaststelling bestemmingsheffing ten behoeve van de vlassector voor het jaar 2003 (Heffingsverordening HPA vlasfonds jaar 2003)
 
 Het bestuur van het Hoofdproductschap Akkerbouw;
-Gelet op de [artikelen 95](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126, eerste en vierde lid](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) van de Wet op de bedrijfsorganisatie en op de artikelen 5, 15, 18 en 25 van de Instellingsverordening akkerbouwproductschappen 1997;
+Gelet op de artikelen 95 en 126, eerste en vierde lid van de Wet op de bedrijfsorganisatie en op de artikelen 5, 15, 18 en 25 van de Instellingsverordening akkerbouwproductschappen 1997;
 
 Gehoord de Commissie Vlas;
 Besluit:
@@ -82,7 +82,7 @@ Het hoofdproductschap kan verrekening van bedragen kleiner dan € 5,- achterweg
 ###Artikel 7 
 Materieel uitgewerkt per 19-02-2004 
 
-Aan de ondememer die niet of niet geheel binnen de in artikel 4 gestelde termijn heeft betaald, kan door het hoofdproductschap de wettelijke interest over het niet betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md).
+Aan de ondememer die niet of niet geheel binnen de in artikel 4 gestelde termijn heeft betaald, kan door het hoofdproductschap de wettelijke interest over het niet betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie.
 
 ###§ 5 
 

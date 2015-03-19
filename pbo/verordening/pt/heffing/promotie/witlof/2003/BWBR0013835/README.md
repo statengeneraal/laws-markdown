@@ -3,7 +3,7 @@
 ##Besluit van het bestuur van het Productschap Tuinbouw van 3 juli 2002, houdende de vaststelling van een heffing over de teelt van witlof bestemd voor de promotie van witlof, voor het jaar 2003 (Verordening PT heffing promotie witlof 2003)
 
 HET BESTUUR VAN HET PRODUCTSCHAP TUINBOUW,
-gelet op de [artikelen 95](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126, van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en 
+gelet op de artikelen 95 en 126, van de Wet op de bedrijfsorganisatie, en 
 
 gelet op de artikelen 14, 15 en 19, van de Instellingsverordening Productschap Tuinbouw 1998;
 
@@ -102,7 +102,7 @@ c.de ondernemer zich metterwoon in het buitenland heeft gevestigd of van het voo
 ###Artikel 8 
 Materieel uitgewerkt per 27-11-2004 
 
-Aan de heffingsplichtige, die niet of niet geheel binnen de in artikel 9 bedoelde termijn heeft betaald, kunnen de daaruit voortvloeiende extra kosten van € 22,50 in rekening worden gebracht, alsmede de wettelijke interest over het niet betaalde bedrag, te berekenen vanaf de dag waarop de betaling diende te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md).
+Aan de heffingsplichtige, die niet of niet geheel binnen de in artikel 9 bedoelde termijn heeft betaald, kunnen de daaruit voortvloeiende extra kosten van € 22,50 in rekening worden gebracht, alsmede de wettelijke interest over het niet betaalde bedrag, te berekenen vanaf de dag waarop de betaling diende te zijn verricht ingevolge de aanmaning bedoeld in artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie.
 
 ###Artikel 9 
 Materieel uitgewerkt per 27-11-2004 

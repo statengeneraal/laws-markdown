@@ -3,7 +3,7 @@
 ##Besluit van het bestuur van het Productschap Tuinbouw, d.d. 3 juli 2002, houdende regels ter zake van de aan de onder het Productschap Tuinbouw ressorterende ondernemers in de sector boomkwekerij-producten op te leggen heffing voor het jaar 2003 (Verordening PT vakheffing boomkwekerij-producten 2003)
 
 HET BESTUUR VAN HET PRODUCSHAP TUINBOUW,
-gelet op de [artikelen 95](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en
+gelet op de artikelen 95 en 126 van de Wet op de bedrijfsorganisatie, en
 
 gelet op de artikelen 15 en 19 van de Instellingsverordening Productschap Tuinbouw 1998;
 
@@ -119,7 +119,7 @@ Aan de heffingsplichtige, die niet of niet geheel binnen de in artikel 7 gesteld
 
 a.de daaruit voortvloeiende extra kosten van € 22,50 in rekening worden gebracht, alsmede
 
-b.de wettelijke interest over het niet betaalde bedrag, te berekenen vanaf de dag waarop de betaling diende te zijn verricht ingevolge de aanmaning als bedoeld in [artikel 127, tweede lid van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md).
+b.de wettelijke interest over het niet betaalde bedrag, te berekenen vanaf de dag waarop de betaling diende te zijn verricht ingevolge de aanmaning als bedoeld in artikel 127, tweede lid van de Wet op de bedrijfsorganisatie.
 
 ###Artikel 9 
 Materieel uitgewerkt per 08-05-2004 

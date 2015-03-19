@@ -3,7 +3,7 @@
 ##Besluit van het bestuur van het Productschap Tuinbouw van 3 juli 2001, houdende vaststelling van een vakheffing voor bloemkwekerijproducten, voor het jaar 2002 (Verordening PT Vakheffing Bloemkwekerij producten 2002)
 
 Het bestuur van het Productschap Tuinbouw;
-gelet op [artikel 126 van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op de artikelen 14, 15 en 19 van de Instellingsverordening Productschap Tuinbouw 1998;
+gelet op artikel 126 van de Wet op de bedrijfsorganisatie en op de artikelen 14, 15 en 19 van de Instellingsverordening Productschap Tuinbouw 1998;
 
 op voorstel van de Sectorcommissie voor bloemkwekerij producten;
 Besluit:
@@ -137,7 +137,7 @@ c.zodra de ondernemer zich metterwoon in het buitenland heeft gevestigd of van h
 ###Artikel 10 
 Materieel uitgewerkt per 24-04-2005 
 
-Aan de heffingsplichtige, die niet of niet geheel binnen de in artikel 9 bedoelde termijn heeft betaald, kunnen de daaruit voortvloeiende extra kosten van maximaal € 22,50 in rekening worden gebracht, alsmede de wettelijke interest over het niet betaalde bedrag, te berekenen vanaf de dag waarop de betaling diende te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md).
+Aan de heffingsplichtige, die niet of niet geheel binnen de in artikel 9 bedoelde termijn heeft betaald, kunnen de daaruit voortvloeiende extra kosten van maximaal € 22,50 in rekening worden gebracht, alsmede de wettelijke interest over het niet betaalde bedrag, te berekenen vanaf de dag waarop de betaling diende te zijn verricht ingevolge de aanmaning bedoeld in artikel 127, tweede lid van de Wet op de bedrijfsorganisatie.
 
 ###Artikel 11 
 Materieel uitgewerkt per 24-04-2005 

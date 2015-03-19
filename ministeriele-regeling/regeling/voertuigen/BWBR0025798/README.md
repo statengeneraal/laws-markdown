@@ -3653,7 +3653,7 @@ Een driewielig motorrijtuig moet voldoen aan de in deze afdeling opgenomen eisen
 
 |--- | Eisen  | Wijze van Keuren  |
 |:---|:---|:---|
-| 1.  | Indien het driewielig motorrijtuig is voorzien van een LPG-installatie, moet deze, onverminderd het bepaalde in artikel 5.5.9, voldoen aan de in de volgende leden gestelde eisen.  | –  |
+| 1.  | Indien het driewielig motorrijtuig is voorzien van een LPG-installatie, moet deze, onverminderd het bepaalde in artikel 5.5.9 , voldoen aan de in de volgende leden gestelde eisen.  | –  |
 | 2.  | De LPG-tank:  a. moet permanent zijn aangebracht aan het voertuig;  b. mag niet door corrosie zijn aangetast, met uitzondering van corrosie van het oppervlak, en  c. mag geen deuken vertonen.  | Leden 2 tot en met 8: visuele controle.  |
 | 3.  | De LPG-tank mag niet in de motorruimte zijn geplaatst.  | --- |
 | 4.  | De LPG-tank moet zijn voorzien van een deugdelijke gasdichte kast die in de buitenlucht moet uitmonden indien het voertuig in gebruik is genomen na 31 maart 1979, tenzij de tank in de open lucht is geplaatst.  | --- |

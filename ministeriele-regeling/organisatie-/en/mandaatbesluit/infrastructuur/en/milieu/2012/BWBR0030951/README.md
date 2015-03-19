@@ -68,7 +68,7 @@ g. de directie Participatie;
 
 h. de hoofddirectie Financiën, Management en Control;  
 
-i. de Shared Services Organisatie;  
+i. de directie Integrale Bedrijfsvoering IenM;  
 
 j. de directie Kennis, Innovatie en Strategie;  
 
@@ -412,10 +412,10 @@ c. de directie Human Resource Management: het ontwikkelen van beleid met betrekk
 
 ### Artikel  13  
 
-####: Shared Services Organisatie
+####Directie Integrale Bedrijfsvoering IenM
 
-1.  De Shared Services Organisatie staat onder leiding van de algemeen directeur Shared Services Organisatie.   
-2.  De Shared Services Organisatie bestaat uit de volgende dienstonderdelen: 
+1.  De directie Integrale Bedrijfsvoering IenM staat onder leiding van de algemeen directeur Integrale Bedrijfsvoering IenM.   
+2.  De directie Integrale Bedrijfsvoering IenM bestaat uit de volgende dienstonderdelen: 
 
 a. de directie Concern Informatievoorziening;  
 
@@ -423,11 +423,11 @@ b. de directie Financiën en Inkoop; en
 
 c. de directie Human Resource Management.     
 3.  De dienstonderdelen, genoemd in het tweede lid, staan onder leiding van een directeur en bestaan uit afdelingen die onder leiding staan van een afdelingshoofd.   
-4.  Bij afwezigheid of verhindering van de algemeen directeur Shared Services Organisatie zijn de directeuren bevoegd om als plaatsvervanger op te treden.   
+4.  Bij afwezigheid of verhindering van de algemeen directeur Integrale Bedrijfsvoering IenM zijn de directeuren bevoegd om als plaatsvervanger op te treden.   
 5.  Bij afwezigheid of verhindering van een directeur zijn de overige directeuren en de afdelingshoofden binnen de directie bevoegd om als plaatsvervanger op te treden.   
 6.  Bij afwezigheid of verhindering van een afdelingshoofd binnen een directie zijn de overige afdelingshoofden binnen de directie bevoegd om als plaatsvervanger op te treden.   
-7.  Plaatsvervanging geschiedt voor het overige overeenkomstig daartoe strekkende instructies van de algemeen directeur Shared Services Organisatie.   
-8.  De Shared Services Organisatie en haar dienstonderdelen hebben de volgende taken: 
+7.  Plaatsvervanging geschiedt voor het overige overeenkomstig daartoe strekkende instructies van de algemeen directeur Integrale Bedrijfsvoering IenM.   
+8.  De directie Integrale Bedrijfsvoering IenM en haar dienstonderdelen hebben de volgende taken: 
 
 a. de directie Concern Informatievoorziening: het verzorgen van dienstverlening en advies op het gebied van informatievoorziening en ICT-toepassingen;  
 
@@ -611,7 +611,7 @@ Aan de secretarissen van de adviesorganen van het ministerie wordt mandaat verle
 
 1.  Aan de secretaris-generaal wordt ondertekeningsmandaat verleend voor alle bevoegdheden van de bewindspersoon, een en ander tenzij bij wettelijk voorschrift anders is bepaald en onverminderd artikel 26, eerste lid.   
 2.  Aan de directeur Bestuursondersteuning wordt ondertekeningsmandaat verleend ten aanzien van de aan de secretaris-generaal verleende bevoegdheden, een en ander tenzij bij wettelijk voorschrift anders is bepaald.   
-3.  Aan de algemeen directeur Shared Services Organisatie wordt ondertekeningsmandaat verleend ten aanzien van de aan de diensthoofden en de secretarissen van adviesorganen verleende bevoegdheden betreffende de ambtelijke rechtspositie van de onder hen ressorterende functionarissen.   
+3.  Aan de algemeen directeur Integrale Bedrijfsvoering IenM wordt ondertekeningsmandaat verleend ten aanzien van de aan de diensthoofden en de secretarissen van adviesorganen verleende bevoegdheden betreffende de ambtelijke rechtspositie van de onder hen ressorterende functionarissen.   
 4.  Artikel 23, tweede lid, aanhef en onder a en b, is van toepassing op het ondertekeningsmandaat, bedoeld in het derde lid.  
 
 ### Hoofdstuk  4  
@@ -665,7 +665,7 @@ ii. het nemen van een besluit op een verzoek om informatie, bedoeld in de Wet op
 
 b. de hoofddirecteur Bestuurlijke en Juridische Zaken: de bevoegdheden inzake het behandelen van bezwaarschriften en het vertegenwoordigen van de bewindspersoon in bestuursrechtelijke procedures, bedoeld in artikel 7, zevende lid, onder c en d, met uitzondering van bezwaarschriften en bestuursrechtelijke procedures die verband houden met de taken van de Inspectie Leefomgeving en Transport en het directoraat-generaal Rijkswaterstaat, alsmede de ambtelijke rechtspositie;  
 
-c. de algemeen directeur Shared Services Organisatie: 
+c. de algemeen directeur Integrale Bedrijfsvoering IenM: 
 
 i. het voeren van de personeels- en salarisadministratie voor alle onderdelen, genoemd in artikel 2;  
 
