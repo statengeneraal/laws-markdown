@@ -3,7 +3,7 @@
 ##Verordening van het Hoofdbedrijfschap Ambachten van 2 oktober 2002, houdende vaststelling bestemmingsheffing ten behoeve van de Commissie detailhandel in brood en banket voor het jaar 2003 (Heffingsverordening Commissie detailhandel in brood en banket 2003)
 
 Het Bestuur van het Hoofdbedrijfschap Ambachten;
-Gelet op [artikel 126 van de Wet op de bedrijfsorganisatie](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) juncto artikel 10, tweede en derde lid, van de Instellingsverordening Hoofdbedrijfschap Ambachten;
+Gelet op artikel 126 van de Wet op de bedrijfsorganisatie juncto artikel 10, tweede en derde lid, van de Instellingsverordening Hoofdbedrijfschap Ambachten;
 
 Gezien het advies van de Commissie detailhandel in brood en banket d.d. 3 juli 2002;
 Besluit:
@@ -23,7 +23,7 @@ c.een verkoopplaats: elke voor het publiek toegankelijke besloten ruimte waar wa
 
 d.banketbakkersproducten: gebak dat is toebereid met slagroom, banketbakkersroom of een dergelijke grondstof, of met vers of gesteriliseerd fruit;
 
-e.broodbakkersproducten: de gebakken eetwaar als bedoeld in [artikel 1 sub d van het warenwetbesluit meel en brood](../../../../../../../../../../AMvB/warenwetbesluit/meel/en/brood/BWBR0009669/README.md);
+e.broodbakkersproducten: de gebakken eetwaar als bedoeld in artikel 1 sub d van het warenwetbesluit meel en brood;
 
 f.overige bakkersartikelen: andere dan brood- en banketbakkersartikelen die geheel of gedeeltelijk uit meel of bloem bereide artikelen, die gewoonlijk in brood- en banketbakkerswinkels verkocht worden, dan wel die naar de aard van de verwerkte grondstoffen of de wijze van verwerking van die grondstoffen vergelijkbaar zijn met de hier bedoelde artikelen, zoals beschuit, koek, koekjes, ragoutwerk, kerstbrood of dergelijke (gelegenheids)producten;
 
@@ -56,7 +56,7 @@ b.de Nederlandse Vereniging voor de Bakkerij;en over het jaar 2002 de volledige 
 
 a.krachtens haar statutaire doelstelling haar werkzaamheid kan uitstrekken tot ten minste een belangrijk gedeelte van het terrein waarop het bedrijfslichaam een taak heeft te vervullen,
 
-b.voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de [artikelen 3 tot en met 7 van de Verordening representativiteit organisaties](../../../../../../../../../../pbo/verordening/representativiteit/organisaties/BWBR0011641/README.md),
+b.voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de artikelen 3 tot en met 7 van de Verordening representativiteit organisaties,
 
 c.tot de werkingssfeer van het bedrijfslichaam behorende leden heeft, waarvan het gewogen aantal niet-onbetekend is,
 

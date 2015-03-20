@@ -205,8 +205,8 @@ b. de aard van de vergunning;
 
 c. de voorschriften en voorwaarden die aan de vergunning verbonden kunnen worden.     
 3.  Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht is niet van toepassing.   
-4.  De vergunning kan ook worden geweigerd, dan wel ingetrokken in het geval en onder de voorwaarden, bedoeld in artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur.   
-5.  Voordat toepassing wordt gegeven aan het vierde lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur, om een advies als bedoeld in artikel 9 van die wet worden gevraagd. 
+4.  De vergunning kan ook worden geweigerd, dan wel ingetrokken in het geval en onder de voorwaarden, bedoeld in artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur. Voordat toepassing wordt gegeven aan de vorige volzin, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in artikel 8 van die wet, om een advies als bedoeld in artikel 9 van die wet worden gevraagd.   
+5.  Een vergunning als bedoeld in de artikelen 8 en 10, eerste lid, wordt in ieder geval geweigerd voor zover dit voortvloeit uit internationale verplichtingen. 
 
 ### §  7  
 
@@ -349,7 +349,8 @@ b. een goed voor tweeërlei gebruik uit te voeren naar een in een ministeriële 
 ### Artikel  25  
 
 1.  Onze Minister kan aan een vergunning als bedoeld in de artikelen 20, eerste en tweede lid, 22, eerste en tweede lid, 24, derde lid, een ontheffing verleend op grond van artikel 21, en aan een vergunning verleend op grond van artikel 24, eerste lid, voorschriften en voorwaarden verbinden.   
-2.  Ten aanzien van de vergunningverlening is artikel 14, tweede lid, van toepassing in Bonaire, Sint Eustatius en Saba.  
+2.  Ten aanzien van de vergunningverlening is artikel 14, tweede lid, van toepassing in Bonaire, Sint Eustatius en Saba.   
+3.  Een vergunning als bedoeld in artikel 24, eerste en derde lid, wordt in ieder geval geweigerd voor zover dit voortvloeit uit internationale verplichtingen. 
 
 ### §  5  
 

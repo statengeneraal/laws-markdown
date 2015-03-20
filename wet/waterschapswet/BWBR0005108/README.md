@@ -1585,10 +1585,6 @@ Op termijnen gesteld in een verordening van het waterschap zijn de artikelen 1 t
 
 Artikel 44, vierde tot en met zevende lid, artikel 44a, vierde en vijfde lid, onderscheidenlijk artikel 48, zesde en zevende lid, is niet van toepassing op het bij inwerkingtreding van die bepaling zittende lid van het dagelijks bestuur onderscheidenlijk de voorzitter van het dagelijks bestuur van een waterschap, zolang deze zonder onderbreking zijn ambt vervult in hetzelfde waterschap. 
 
-### Artikel  174  
-
-Het op 1 januari 2013 zittende algemeen bestuur blijft aan tot 26 maart 2015. 
-
 ### Artikel  180  
 
 Deze wet kan worden aangehaald als Waterschapswet.  

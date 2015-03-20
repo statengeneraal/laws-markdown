@@ -3,7 +3,7 @@
 ##Verordening van het Hoofdbedrijfschap Afbouw en Onderhoud, houdende regels ter zake van de tot de sector Stukadoors-, Afbouw- en Terrazzo-Vloerenbedrijf (SATV) behorende ondernemers op te leggen sectorheffing voor het jaar 2007 (Verordening Sectorheffing SATV Hoofdbedrijfschap Afbouw en Onderhoud 2007)
 
 Het bestuur van het Hoofdbedrijfschap Afbouw en Onderhoud,  
-Gelet op de [artikelen 93](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de Bedrijfsorganisatie](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [artikel 10 van het Instellingsbesluit Hoofdbedrijfschap Afbouw en Onderhoud](../../../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/afbouw/en/onderhoud/BWBR0013863/README.md),
+Gelet op de artikelen 93 en 126 van de Wet op de Bedrijfsorganisatie en artikel 10 van het Instellingsbesluit Hoofdbedrijfschap Afbouw en Onderhoud,
 Besluit:     
 ### §  1  
 
@@ -25,7 +25,7 @@ d.  *omzet*: omzet behaald met de onderneming over het kalenderjaar dat twee jaa
 
 ### Artikel  2  
 
-Over de periode 1 januari 2007 tot en met 31 december 2007 wordt aan degenen die een onderneming drijven als bedoeld in [artikel 2, tweede lid onder b van het Instellingsbesluit](../../../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/afbouw/en/onderhoud/BWBR0013863/README.md), een heffing opgelegd. 
+Over de periode 1 januari 2007 tot en met 31 december 2007 wordt aan degenen die een onderneming drijven als bedoeld in artikel 2, tweede lid onder b van het Instellingsbesluit, een heffing opgelegd. 
 
 ### Artikel  3  
 

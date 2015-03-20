@@ -3,12 +3,12 @@
 ##Regeling kentekenbewijzen
 
 De Minister van Verkeer en Waterstaat,  
-Gelet op de [artikelen 36, derde en achtste lid](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), en [50, eerste en vijfde lid, van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en de [artikelen 1, onderdelen f en i](../../../../AMvB/kentekenreglement/BWBR0006951/README.md), [21, eerste lid](../../../../AMvB/kentekenreglement/BWBR0006951/README.md), [27, negende lid](../../../../AMvB/kentekenreglement/BWBR0006951/README.md), [31, tweede lid](../../../../AMvB/kentekenreglement/BWBR0006951/README.md), [32, tweede lid](../../../../AMvB/kentekenreglement/BWBR0006951/README.md), [33, eerste lid](../../../../AMvB/kentekenreglement/BWBR0006951/README.md), [36, derde lid](../../../../AMvB/kentekenreglement/BWBR0006951/README.md), en [37, vijfde en zesde lid, van het Kentekenreglement](../../../../AMvB/kentekenreglement/BWBR0006951/README.md);
+Gelet op de artikelen 36, derde en achtste lid, en 50, eerste en vijfde lid, van de Wegenverkeerswet 1994 en de artikelen 1, onderdelen f en i, 21, eerste lid, 27, negende lid, 31, tweede lid, 32, tweede lid, 33, eerste lid, 36, derde lid, en 37, vijfde en zesde lid, van het Kentekenreglement;
 Besluit:    
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder:   personenauto, bedrijfsauto, motorfiets, bromfiets, driewielig motorrijtuig en aanhangwagen:   hetgeen daaronder wordt verstaan in [artikel 1.1 van de Regeling voertuigen](../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md).    
+In deze regeling wordt verstaan onder:   personenauto, bedrijfsauto, motorfiets, bromfiets, driewielig motorrijtuig en aanhangwagen:   hetgeen daaronder wordt verstaan in artikel 1.1 van de Regeling voertuigen.    
 
 ### Artikel  2  
 
@@ -22,7 +22,7 @@ b. een na 31 december 2013 afgegeven kentekenbewijs deel II: model D.2;
 
 c. een kentekenbewijs, bevattende de enkele letter A, E, H, K, L, N, P, S, T, V, W of X en twee groepen van twee cijfers (kentekenbewijs voor weging en onderzoek): model 1.1;  
 
-d. een kentekenbewijs dat is afgegeven voor een voertuig dat door de Dienst Wegverkeer is gekeurd ingevolge [artikel 26 van de wet](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), in afwachting van de verkrijging van een tweedelig kentekenbewijs (voorlopig kentekenbewijs): model 2.1;  
+d. een kentekenbewijs dat is afgegeven voor een voertuig dat door de Dienst Wegverkeer is gekeurd ingevolge artikel 26 van de wet, in afwachting van de verkrijging van een tweedelig kentekenbewijs (voorlopig kentekenbewijs): model 2.1;  
 
 e. een deel I van een driedelig kentekenbewijs voor een personenauto, een motorfiets, een driewielig motorrijtuig, een aanhangwagen of een bedrijfsauto dan wel een deel I van een kentekenbewijs, bevattende een handelaarskenteken of de lettergroep BN of GN en twee groepen van twee cijfers dan wel de lettergroep GV en twee groepen van twee cijfers: model 5.1;  
 
@@ -32,7 +32,7 @@ g. een voor 1 juni 2004 afgegeven bedrijfsvoorraad deel II: model 11.1;
 
 h. een overschrijvingsbewijs: model 13.1;  
 
-i. een deel I A van een na 30 mei 2004 afgegeven kentekenbewijs voor een personenauto, een motorfiets, een bromfiets, een driewielig motorrijtuig, een aanhangwagen of een bedrijfsauto, een deel I A van een na 30 mei 2004 afgegeven kentekenbewijs, bevattende de lettergroep AA, CD of CDJ dan wel de lettergroep BN, GN of GV en twee groepen van twee cijfers dan wel een deel I van een na 30 mei 2004 afgegeven kentekenbewijs, bevattende een handelaarskenteken: model 14.1;  
+i. een deel I A van een na 30 mei 2004 afgegeven kentekenbewijs voor een personenauto, een motorfiets, een bromfiets, een driewielig motorrijtuig, een aanhangwagen of een bedrijfsauto, een deel I A van een na 30 mei 2004 afgegeven kentekenbewijs, bevattende de lettergroep AA, CD of CDJ dan wel de lettergroep BN, GN of GV en twee groepen van twee cijfers dan wel een deel I van een na 30 mei 2004 maar voor 1 april 2015 afgegeven kentekenbewijs, bevattende een handelaarskenteken: model 14.1;  
 
 j. een deel I B van een na 30 mei 2004 afgegeven kentekenbewijs voor een personenauto, een motorfiets, een bromfiets, een driewielig motorrijtuig, een aanhangwagen of een bedrijfsauto dan wel een deel I B van een na 30 mei 2004 afgegeven kentekenbewijs, bevattende de lettergroep AA, CD of CDJ dan wel de lettergroep BN, GN of GV en twee groepen van twee cijfers: model 15.1;  
 
@@ -40,7 +40,11 @@ k. een bedrijfsvoorraad deel I B: model 16.1 of model 16.2;
 
 l. een deel II van een na 30 mei 2004 afgegeven tweedelig kentekenbewijs: model 17.1;  
 
-m. een kentekenbewijs, bevattende een kenteken als bedoeld in [artikel 4, vijfde lid, van het Kentekenreglement](../../../../AMvB/kentekenreglement/BWBR0006951/README.md) (transitokentekenbewijs): model: 19.1.     
+m. een na 30 mei 2004 maar voor 1 april 2015 afgegeven kentekenbewijs, bevattende een kenteken als bedoeld in artikel 4, vijfde lid, van het Kentekenreglement (transitokentekenbewijs): model: 19.1;  
+
+n. een kentekencard bevattende een handelaarskenteken: model 5.2;  
+
+o. een kentekencard bevattende een kenteken als bedoeld in artikel 4, vijfde lid, van het Kentekenreglement (transitokenteken): model 19.2.    
 2.  De volgende, in de bijlage van dit besluit opgenomen, modellen worden vastgesteld: 
 
 a. een vrijwaringsbewijs, afgegeven door de Dienst Wegverkeer: model A.1;  
@@ -55,15 +59,15 @@ e. een tenaamstellingsverslag: af te geven door de Dienst Wegverkeer: model D.4.
 
 ### Artikel  3  
 
-De afgifte van een kentekenbewijs geschiedt elektronisch in het geval de aanvraag betrekking heeft op een kenteken als bedoeld in [artikel 4, zesde lid, van het Kentekenreglement](../../../../AMvB/kentekenreglement/BWBR0006951/README.md). 
+De afgifte van een kentekenbewijs geschiedt elektronisch in het geval de aanvraag betrekking heeft op een kenteken als bedoeld in artikel 4, zesde lid, van het Kentekenreglement. 
 
 ### Artikel  5  
 
 ####Documenten bij tenaamstelling met incompleet kentekenbewijs
 
-Als documenten, als bedoeld in [artikel 27, achtste lid, van het Kentekenreglement](../../../../AMvB/kentekenreglement/BWBR0006951/README.md), worden aangewezen: 
+Als documenten, als bedoeld in artikel 27, achtste lid, van het Kentekenreglement, worden aangewezen: 
 
-a. een legitimatiebewijs als bedoeld in [artikel 2 van de Regeling legitimatievoorschriften tenaamstelling en kentekenplaten](../../../../ministeriele-regeling/regeling/legitimatievoorschriften/tenaamstelling/en/kentekenplaten/BWBR0007091/README.md), en  
+a. een legitimatiebewijs als bedoeld in artikel 2 van de Regeling legitimatievoorschriften tenaamstelling en kentekenplaten, en  
 
 b. een ingevulde en ondertekende verklaring van een door de Dienst Wegverkeer vastgesteld model.   
 
@@ -71,23 +75,23 @@ b. een ingevulde en ondertekende verklaring van een door de Dienst Wegverkeer va
 
 ####Vervallenverklaring centraal
 
-1.  Indien een voertuig voorgoed buiten Nederland is gebracht en niet meer kan worden voldaan aan de [artikelen 31 tot en met 33 van het Kentekenreglement](../../../../AMvB/kentekenreglement/BWBR0006951/README.md), verklaart de Dienst Wegverkeer de tenaamstelling vervallen, indien een verklaring van een autoriteit in het buitenland bij hem is ingeleverd, waaruit blijkt dat het voertuig in het buitenland achterblijft. In dat geval behoeven de betrokken kentekenplaten niet te worden ingeleverd bij de Dienst Wegverkeer.   
+1.  Indien een voertuig voorgoed buiten Nederland is gebracht en niet meer kan worden voldaan aan de artikelen 31 tot en met 33 van het Kentekenreglement, verklaart de Dienst Wegverkeer de tenaamstelling vervallen, indien een verklaring van een autoriteit in het buitenland bij hem is ingeleverd, waaruit blijkt dat het voertuig in het buitenland achterblijft. In dat geval behoeven de betrokken kentekenplaten niet te worden ingeleverd bij de Dienst Wegverkeer.   
 2.  Als categorieën van voertuigen bedoeld in artikel 40b, zesde lid, onderdeel b, van het Kentekenreglement worden aangewezen: 
 
 a. een motorfiets,  
 
-b.bromfiets,
+b.bromfiets op twee wielen,
 
 c. een bedrijfsauto met een maximum massa van meer dan 3500 kg,  
 
 d. een aanhangwagen, of;  
 
-e. een ander voertuig dan de in de onderdelen a, b, c en d genoemde, voor zover het voertuig 15 jaar of ouder is.     
+e. een ander voertuig dan de in de onderdelen a, b, c en d genoemde, niet zijnde een voertuig als genoemd in artikel 1 van het Besluit beheer autowrakken, voor zover het voertuig 15 jaar of ouder is.     
 3.  Indien het voertuig definitief bestemd is voor gebruik buiten de weg, bedoeld in artikel 40b, derde lid, onderdeel c, van het Kentekenreglement, verklaart de Dienst Wegverkeer de tenaamstelling vervallen indien het voertuig bestemd is om als voertuig buiten de weg te worden gebruikt ten behoeve van: 
 
 a. bedrijfsmatig gebruik op een bedrijfsterrein dat geen deel uitmaakt van de voor het openbaar verkeer openstaande weg en dit aannemelijk wordt gemaakt aan de hand van:  
 
-1º. een uittreksel uit het handelsregister, bedoeld in [artikel 2 van de Handelsregisterwet 1996](../../../../wet/handelsregisterwet/1996/BWBR0007893/README.md) alsmede 2° een uittreksel uit het Kadaster of een huurcontract;    
+1º. een uittreksel uit het handelsregister, bedoeld in artikel 2 van de Handelsregisterwet 1996 alsmede 2° een uittreksel uit het Kadaster of een huurcontract;    
 
 b. educatieve doeleinden en dit aannemelijk wordt gemaakt aan de hand van een verklaring waaruit blijkt dat de melding geschiedt door een opleidingsinstituut in de autobranche of een instituut waar bijzondere rijopleidingen worden gegeven dan wel door de brandweer;  
 
@@ -100,8 +104,8 @@ d. het gebruik als museumvoertuig.
 
 ####Overgangsbepaling
 
-1. Op basis van de Wegenverkeerswet afgegeven modellen van kentekenbewijzen en delen daarvan, registratiebewijzen, kopieën deel III en ontvangstbewijzen behouden hun geldigheid tot het moment waarop zij op basis van de [Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) hun geldigheid verliezen. Op basis van de Wegenverkeerswet afgegeven modellen vrijwaringsbewijzen behouden hun geldigheid. 
-2. Ontvangstbewijzen afgegeven volgens model D.2 van de bijlage zoals deze bijlage luidde voor het tijdstip van inwerkingtreding van de [wet van 12 mei 2005 tot wijziging van de Wegenverkeerswet 1994 en enkele andere wetten in verband met de invoering van een kentekenregistratiesysteem voor bromfietsen alsmede vaststelling van overgangsbepalingen in verband daarmee](../../../../wet/wijzigingswet/wegenverkeerswet/1994/enz./(invoering/etc/BWBR0018326/README.md) (Stb. 281), blijven geldig tot het moment waarop zij op basis van de [Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) hun geldigheid verliezen.
+1. Op basis van de Wegenverkeerswet afgegeven modellen van kentekenbewijzen en delen daarvan, registratiebewijzen, kopieën deel III en ontvangstbewijzen behouden hun geldigheid tot het moment waarop zij op basis van de Wegenverkeerswet 1994 hun geldigheid verliezen. Op basis van de Wegenverkeerswet afgegeven modellen vrijwaringsbewijzen behouden hun geldigheid. 
+2. Ontvangstbewijzen afgegeven volgens model D.2 van de bijlage zoals deze bijlage luidde voor het tijdstip van inwerkingtreding van de wet van 12 mei 2005 tot wijziging van de Wegenverkeerswet 1994 en enkele andere wetten in verband met de invoering van een kentekenregistratiesysteem voor bromfietsen alsmede vaststelling van overgangsbepalingen in verband daarmee (Stb. 281), blijven geldig tot het moment waarop zij op basis van de Wegenverkeerswet 1994 hun geldigheid verliezen.
 
 ### Artikel  11  
 
@@ -126,11 +130,12 @@ Achterzijde kleur: overwegend geel ![201021](http://wetten.overheid.nl/Illustrat
 Model 4.1 Uitvoerkentekenbewijs *Kleur: wit* Het uitvoerkenteken moet zijn ingevuld. Aan het uitvoerkentekenbewijs is een blad gehecht met een vertaling van de tekst van het uitvoerkentekenbewijs in de volgende talen: Engels, Duits en Frans. Aan het uitvoerkentekenbewijs is tevens een groene en een gele doorslag gehecht, welke zijn bestemd voor de geregistreerde eigenaar/houder respectievelijk voor de Dienst Wegverkeer. ![201022](http://wetten.overheid.nl/Illustration/201022)
 Model 5.1 Deel I van een driedelig kentekenbewijs voor een personenauto, een motorfiets, een driewielig motorrijtuig, een bedrijfsauto of een aanhangwagen dan wel een deel I van een kentekenbewijs, bevattende een handelaarskenteken of de lettergroep BN of GN en twee groepen van twee cijfers dan wel de lettergroep GV en twee groepen van twee cijfers Voorzijde (kleur:wit en grijs) ![201023](http://wetten.overheid.nl/Illustration/201023)
 Achterzijde (kleur: overwegend groen) ![201024](http://wetten.overheid.nl/Illustration/201024)
-Model 6.1 Deel I van een kentekenbewijs, bevattende de lettergroep BN of GN en twee groepen van twee cijfers Vervallen. Model 7.1 Deel I van het driedelig kentekenbewijs voor een personenauto Vervallen. Model 8.1 Deel I van een driedelig kentekenbewijs voor een motorfiets of een driewielig motorrijtuig Vervallen. Model 9.1 Deel I van een driedelig kentekenbewijs voor een bedrijfsauto Vervallen. Model 10.1 Voor 1 juni 2004 afgegeven deel II van een driedelig kentekenbewijs voor een personenauto, een motorfiets of een driewielig motorrijtuig, een bedrijfsauto of een aanhangwagen Voorzijde (kleur: wit) ![201025](http://wetten.overheid.nl/Illustration/201025)
+Model 5.2 Kentekencard bevattende een handelaarskenteken![255090](http://wetten.overheid.nl/Illustration/255090)
+Model 6.1 Vervallen. Model 7.1 Vervallen. Model 8.1 Vervallen. Model 9.1 Vervallen. Model 10.1 Voor 1 juni 2004 afgegeven deel II van een driedelig kentekenbewijs voor een personenauto, een motorfiets of een driewielig motorrijtuig, een bedrijfsauto of een aanhangwagen Voorzijde (kleur: wit) ![201025](http://wetten.overheid.nl/Illustration/201025)
 Achterzijde (kleur: overwegend groen) ![201026](http://wetten.overheid.nl/Illustration/201026)
 Model 11.1 Voor 1 juni 2004 afgegeven bedrijfsvoorraad deel II ![201027](http://wetten.overheid.nl/Illustration/201027)
 Voorzijde (kleur: wit) ![201028](http://wetten.overheid.nl/Illustration/201028)
-Achterzijde (kleur: rose) Model 12.1 Deel III Vervallen. Model 13.1 Overschrijvingsbewijs Voorzijde (kleur: wit) ![201029](http://wetten.overheid.nl/Illustration/201029)
+Achterzijde (kleur: rose) Model 12.1 Vervallen. Model 13.1 Overschrijvingsbewijs Voorzijde (kleur: wit) ![201029](http://wetten.overheid.nl/Illustration/201029)
 Achterzijde kleur: overwegend groen ![201030](http://wetten.overheid.nl/Illustration/201030)
 Model 14.1  Deel I A van een na 30 mei 2004 afgegeven kentekenbewijs voor een personenauto, een motorfiets, een bromfiets, een driewielig motorrijtuig, een aanhangwagen of een bedrijfsauto, een deel I A van een na 30 mei 2004 afgegeven kentekenbewijs, bevattende de lettergroep AA, CD of CDJ dan wel de lettergroep BN, GN, of GV en twee groepen van twee cijfers dan wel een deel I van een na 30 mei 2004 afgegeven kentekenbewijs, bevattende een handelaarskenteken.  *Voorzijde (kleur: wit en grijs)*![201031](http://wetten.overheid.nl/Illustration/201031)
 *Achterzijde (kleur: overwegend groen)*![201032](http://wetten.overheid.nl/Illustration/201032)
@@ -142,15 +147,16 @@ Model 16.2 Bedrijfsvoorraad deel IB![242660](http://wetten.overheid.nl/Illustrat
 Model 17.1. *Deel II van een na 30 mei 2004 afgegeven tweedelig kentekenbewijs*  *Voorzijde (kleur: wit)*![201054](http://wetten.overheid.nl/Illustration/201054)
 *Achterzijde (kleur: overwegend groen)*![201056](http://wetten.overheid.nl/Illustration/201056)
 Model 18.1*Deel I van een na 30 mei 2004 afgegeven kentekenbewijs, bevattende een kenteken als bedoeld in artikel 4, vijfde lid, aanhef en onder a, van het Kentekenreglement, tevens uitvoerverklaring*![201039](http://wetten.overheid.nl/Illustration/201039)
-Model 19.1 *Deel I van een kentekenbewijs, bevattende een kenteken als bedoeld in artikel 4, vijfde lid, onder b, van het Kentekenreglement (transitokentekenbewijs)* *Voorzijde (kleur: wit)* ![241864](http://wetten.overheid.nl/Illustration/241864)
+Model 19.1 *Deel I van een na 30 mei 2004 maar voor 1 april 2015 afgegeven, bevattende een kenteken als bedoeld in artikel 4, vijfde lid, onder b, van het Kentekenreglement (transitokentekenbewijs)* *Voorzijde (kleur: wit)* ![241864](http://wetten.overheid.nl/Illustration/241864)
 *Achterzijde (kleur: overwegend blauw)* ![241865](http://wetten.overheid.nl/Illustration/241865)
+Model 19.2 Kentekencard bevattende een kenteken als bedoeld in artikel 4, vijfde lid, van het Kentekenreglement (transitokenteken)![255091](http://wetten.overheid.nl/Illustration/255091)
 Model A.1 Vrijwaringsbewijs, af te geven door de Dienst Wegverkeer ![201040](http://wetten.overheid.nl/Illustration/201040)
 Voorzijde (kleur: wit) ![201041](http://wetten.overheid.nl/Illustration/201041)
 Achterzijde (kleur: wit) Model A.2*Vrijwaringsbewijs, na 30 mei 2004 af te geven door de Dienst Wegverkeer* *Voorzijde (kleur: wit)*![201057](http://wetten.overheid.nl/Illustration/201057)
 *Achterzijde (kleur: wit)*![201043](http://wetten.overheid.nl/Illustration/201043)
 Model B.1 Vrijwaringsbewijs, af te geven door een erkend bedrijf ![201044](http://wetten.overheid.nl/Illustration/201044)
 Kleur: groen Model B.2 Vrijwaringsbewijs, af te geven door een erkend bedrijf.![242661](http://wetten.overheid.nl/Illustration/242661)
-Model C.1 Ontvangstbewijs dat wordt verstrekt door de Dienst Wegverkeer na een aanvraag van een kentekenbewijs of deel daarvan Vervallen. Model D.1 Kentekencard, afgegeven voor een personenauto, een motorfiets, een bromfiets, een driewielig motorrijtuig, een aanhangwagen of een bedrijfsauto ![252920](http://wetten.overheid.nl/Illustration/252920)
+Model C.1 Vervallen. Model D.1 Kentekencard, afgegeven voor een personenauto, een motorfiets, een bromfiets, een driewielig motorrijtuig, een aanhangwagen of een bedrijfsauto ![252920](http://wetten.overheid.nl/Illustration/252920)
 ![252921](http://wetten.overheid.nl/Illustration/252921)
 Model D.2 Na 31 december 2013 afgegeven kentekenbewijs deel II![252922](http://wetten.overheid.nl/Illustration/252922)
 ![252923](http://wetten.overheid.nl/Illustration/252923)

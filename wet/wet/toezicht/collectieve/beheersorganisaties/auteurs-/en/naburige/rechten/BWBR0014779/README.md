@@ -268,6 +268,8 @@ Het toezicht door het College van Toezicht strekt zich tevens uit tot de volgend
 
 – Stichting Naburige Rechtenorganisatie voor Musici en Acteurs (NORMA)  
 
+–Stichting Onafhankelijke Producenten Nederland (StOP NL)
+
 – Stichting Pictoright  
 
 – Stichting Platform Multimediaproducenten (Stichting PM)  

@@ -110,9 +110,10 @@ a. indien het belang van de internationale rechtsorde of een daarop betrekking h
 
 b. indien Onze Minister dit noodzakelijk acht voor de bescherming van de wezenlijke belangen van de nationale veiligheid.     
 4.  In andere gevallen dan die, bedoeld in het tweede lid, kan bij regeling van Onze Minister van Financiën in overeenstemming met Onze Minister vrijstelling worden verleend van het eerste lid.   
-5.  Onze Minister kan op aanvraag ontheffing verlenen van het eerste lid.   
-6.  Vrijstellingen en ontheffingen kunnen onder beperkingen worden verleend en daaraan kunnen voorschriften worden verbonden.   
-7.  Het is verboden om de goederen, bedoeld in lijst 2 van onderdeel B van de bijlage inzake stoffen bij het op 13 januari 1983 tot stand gekomen Verdrag tot verbod van de ontwikkeling, de productie, de aanleg van voorraden en het gebruik van chemische wapens en inzake de vernietiging van deze wapens (Trb. 1993, 162) in te voeren op de BES eilanden uit landen, die geen partij zijn bij dit verdrag.  
+5.  Onze Minister kan op aanvraag ontheffing verlenen van het eerste lid.  
+6. Een vergunning of ontheffing wordt in ieder geval geweigerd voor zover dit voortvloeit uit internationale verplichtingen. 
+7.  Vrijstellingen en ontheffingen kunnen onder beperkingen worden verleend en daaraan kunnen voorschriften worden verbonden.   
+8.  Het is verboden om de goederen, bedoeld in lijst 2 van onderdeel B van de bijlage inzake stoffen bij het op 13 januari 1983 tot stand gekomen Verdrag tot verbod van de ontwikkeling, de productie, de aanleg van voorraden en het gebruik van chemische wapens en inzake de vernietiging van deze wapens (Trb. 1993, 162) in te voeren op de BES eilanden uit landen, die geen partij zijn bij dit verdrag.  
 
 ### Artikel  2.7  
 

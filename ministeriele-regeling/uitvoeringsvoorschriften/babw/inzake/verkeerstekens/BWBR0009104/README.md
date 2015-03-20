@@ -3,7 +3,7 @@
 ##Regeling houdende voorschriften over de toepassing, plaatsing en uitvoering van verkeerstekens, uitgezonderd verkeerslichten 
 
 De Minister van Verkeer en Waterstaat,  
-Gelet op [artikel 14 van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en de artikelen 4, derde lid, 9, 10 eerste en tweede lid, derde lid onder a en c, 11 en 48, derde lid, van het Besluit administratieve bepalingen inzake het wegverkeer;
+Gelet op artikel 14 van de Wegenverkeerswet 1994 en de artikelen 4, derde lid, 9, 10 eerste en tweede lid, derde lid onder a en c, 11 en 48, derde lid, van het Besluit administratieve bepalingen inzake het wegverkeer;
 Besluit: de volgende voorschriften vast te stellen ten aanzien van de toepassing, de plaatsing en de uitvoering van enkele in het RVV 1990 opgenomen verkeersborden, onderborden en verkeerstekens op het wegdek:     
 ### Hoofdstuk I  
 
@@ -140,7 +140,7 @@ bij verkeerslichten: 70 km/h
 
 bij gevarenpunten: 60, 50 km/h.         
 3.   Binnen de bebouwde kom mag bord A1 worden geplaatst in afwijking van het bepaalde in Hoofdstuk II, Paragraaf 1 onder punt 2, om zonodig te herinneren aan de algemene snelheidslimiet van 50 km/h.   
-4.  15 km/h en 15 km/h zone, 30 km/h en 30 km/h zone, 60 km/h en 60 km/h zone Bord A1 (15 km/h en 15 km/h zone) mag op woonerven worden geplaatst om expliciet aan te geven dat op woonerven slechts stapvoets, 15 km/h, mag worden gereden, zoals bepaald in [artikel 45 van het RVV 1990](../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md). Bord A1 (30 km/h binnen en buiten de bebouwde kom en 60 km/h buiten de bebouwde kom) mag op wegvakken slechts worden toegepast indien wordt voldaan aan de volgende eisen: 
+4.  15 km/h en 15 km/h zone, 30 km/h en 30 km/h zone, 60 km/h en 60 km/h zone Bord A1 (15 km/h en 15 km/h zone) mag op woonerven worden geplaatst om expliciet aan te geven dat op woonerven slechts stapvoets, 15 km/h, mag worden gereden, zoals bepaald in artikel 45 van het RVV 1990. Bord A1 (30 km/h binnen en buiten de bebouwde kom en 60 km/h buiten de bebouwde kom) mag op wegvakken slechts worden toegepast indien wordt voldaan aan de volgende eisen: 
 
 iedere weg in het betrokken gebied heeft voornamelijk een verblijfsfunctie;  
 
@@ -299,8 +299,8 @@ een hoofdfietsroute, die duidelijk als zodanig herkenbaar is en waarop slechts e
 
 ###Toepassing en plaatsing
 
-1.  Het bord wordt geplaatst, bij of voor de ingang van tunnels, genoemd in de [Regeling vervoer over land van gevaarlijke stoffen](../../../../../../ministeriele-regeling/regeling/vervoer/over/land/van/gevaarlijke/stoffen/BWBR0010054/README.md).   
-2.  Het bord wordt voorzien van een onderbord, overeenkomstig artikel 3 van hoofdstuk II van [bijlage 2 van de Regeling vervoer over land van gevaarlijke stoffen](../../../../../../ministeriele-regeling/regeling/vervoer/over/land/van/gevaarlijke/stoffen/BWBR0010054/README.md).  
+1.  Het bord wordt geplaatst bij of voor de ingang van tunnels, genoemd in de Regeling vervoer over land van gevaarlijke stoffen, dan wel op wegen die zijn aangewezen op grond van artikel 20, eerste lid, van de Wet vervoer gevaarlijke stoffen.   
+2.  Het bord wordt bij toepassing voor de onder 1. bedoelde tunnels voorzien van een onderbord, overeenkomstig bijlage 2, hoofdstuk 2, artikel 3, van de Regeling vervoer over land van gevaarlijke stoffen, en bij toepassing op de onder 1. bedoelde aangewezen wegen voorzien van een onderbord waarin dezelfde systematiek als voor tunnels wordt gebruikt dan wel een andere aanduiding van stoffen overeenkomstig internationale regelgeving.  
 ###Vooraanduiding
 
 1.  Op autosnelwegen en autowegen wordt een vooraanduiding in de vorm van bord L10 geplaatst.  
@@ -716,7 +716,7 @@ c. Indien het beoogde verkeersgedrag niet kan worden aangegeven overeenkomstig d
 ####Algemene bepalingen
 
 1.  Tekens op het wegdek zijn wit tenzij voor een afzonderlijk teken anders is bepaald. Bij tijdelijke toepassing is de kleur in ieder geval een andere kleur dan wit.   
-2.  De minimale breedte van strepen is 0,10 m. De minimale breedte van de stopstreep, bedoeld in [art. 78 van het RVV 1990](../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), is 0,20 m.   
+2.  De minimale breedte van strepen is 0,10 m. De minimale breedte van de stopstreep, bedoeld in art. 78 van het RVV 1990, is 0,20 m.   
 3.  In afwijking van het tweede onderdeel, eerste volzin, is de minimale breedte van de kantstreep 0,05 m indien: 
 
 a. deze is aangebracht ter markering van de rechterzijde respectievelijk linkerzijde van de vluchtstrook, als de vluchtstrook aan de rechterzijde respectievelijk linkerzijde van de weg is gelegen, en  
@@ -816,7 +816,7 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 4.  
 ###Citeertitel
 
-Deze regeling wordt aangehaald als: [Uitvoeringsvoorschriften BABW inzake verkeerstekens](../../../../../../ministeriele-regeling/uitvoeringsvoorschriften/babw/inzake/verkeerstekens/BWBR0009104/README.md).  
+Deze regeling wordt aangehaald als: Uitvoeringsvoorschriften BABW inzake verkeerstekens.  
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 

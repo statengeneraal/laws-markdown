@@ -3,7 +3,7 @@
 ##Verordening heffingen fonds sociale aangelegenheden vleeswarenindustrie (PVV) 2003
 
 Het bestuur van het Productschap Vee en Vlees heeft,  
-Gelet op [artikel 126 van de Wet op de Bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en de artikelen 10 en 15 van de Instellingsverordening Productschap Vee en Vlees 1999-I, 
+Gelet op artikel 126 van de Wet op de Bedrijfsorganisatie en de artikelen 10 en 15 van de Instellingsverordening Productschap Vee en Vlees 1999-I, 
 
 op 9 juli 2003 vastgesteld de navolgende
 Verordening    
@@ -19,7 +19,7 @@ Materieel uitgewerkt per 02-12-2006
 | onderneming:  | onderneming waarin de vleeswaren- en vleesconservenindustrie of de baconindustrie wordt uitgeoefend;  |
 | ondernemer:  | een natuurlijk of rechtspersoon, die een onderneming drijft;  |
 | omzet:  | de geldomzet als ondernemer in de vleeswaren-, vleesconserven- en baconindustrie;  |
-| fonds sociale aangelegenheden vleeswarenindustrie:  | het fonds als bedoeld in [artikel 2 van de Verordening fonds sociale aangelegenheden vleeswarenindustrie (PVV) 2003](../../../../../../../../../pbo/verordening/fonds/sociale/aangelegenheden/vleeswarenindustrie/(pvv)/2003/BWBR0015354/README.md).  |
+| fonds sociale aangelegenheden vleeswarenindustrie:  | het fonds als bedoeld in artikel 2 van de Verordening fonds sociale aangelegenheden vleeswarenindustrie (PVV) 2003.  |
 
 ### Artikel  2  
 Materieel uitgewerkt per 02-12-2006 

@@ -10,41 +10,67 @@ Besluit:
 
 Er is een Werkgroep Advies Wet wapens en munitie, hierna te noemen: de werkgroep. 
 
+### Artikel  1a  
+
+1.  De voorzitter, plaatsvervangend voorzitter en de andere leden van de werkgroep worden door de Minister van Veiligheid en Justitie benoemd voor een periode van vier jaar.   
+2.  Herbenoeming kan plaatsvinden voor een periode van vier jaar.   
+3.  De werkgroep bestaat uit ambtenaren die werkzaam zijn bij: 
+
+a. het ministerie van Veiligheid en Justitie;  
+
+b. het Openbaar Ministerie;  
+
+c. de Nationale politie;  
+
+d. de Politieacademie;  
+
+e. de Koninklijke marechaussee;  
+
+f. de Douane.     
+4.  De werkgroep heeft een secretaris, die door de werkgroep wordt aangewezen.   
+5.  Een of meer ambtenaren van de directie Rechtshandhaving en Criminaliteitsbestrijding of de Dienst Justis van het ministerie van Veiligheid en Justitie zijn agenda-lid.  
+
 ### Artikel  2  
 
-Tot leden van de werkgroep worden benoemd: 
+De werkgroep bestaat uit de volgende leden: 
 
-– Mr. H.J.J. Talsma, Openbaar Ministerie, Officier van Justitie, tevens voorzitter;  
+a. mr. J.M. van de Meij, officier van Justitie, arrondissementsparket Amsterdam, tevens voorzitter;  
 
-– Mr. L.F. Roseval, Openbaar Ministerie, Officier van Justitie, tevens plaatsvervangend voorzitter;  
+b. mr. R.K. Nanhkoesingh, officier van Justitie, arrondissementsparket Zeeland/West-Brabant, tevens plaatsvervangend voorzitter;  
 
-– E.A.M. Vervloed-Peeters, Secretaris van het Landelijk Platform Vuurwapens, tevens secretaris;  
+c. A. van Iersel, expert A en Coördinator Regionaal Bureau Wapens en Munitie, Nationale Politie, Eenheid Zeeland West-Brabant;  
 
-– J.A.J.M. Waaijer, Politie Amsterdam-Amstelland, Projectleider Explosievenveiligheid en Wapens;  
+d. F. Damme, brigadier Bijzondere Wetten en Explosieven, Nationale Politie, Eenheid Rotterdam;  
 
-– A. van Iersel, Politie Midden- en West-Brabant, Expert A en Coördinator Regionaal Bureau Wapens en Munitie;  
+e. D.T. Ooms, recherchespecialist A, Nationale Politie, Eenheid Den Haag;  
 
-– F. Damme, Politie Rotterdam-Rijnmond, Brigadier Bijzondere Wetten Exo;  
+f. J.W. Blokland, coördinator Wapens en Munitie, Nationale Politie, Eenheid Oost- Brabant;  
 
-– D.T. Ooms, Politie Haaglanden, Recherchespecialist A  
+g. R. Hermsen, onderzoeksmedewerker Wet wapens en munitie, Nederlands Forensisch Instituut;  
 
-– J.W. Blokland, Politie Brabant-Noord, Coördinator Wapens en Munitie;  
+h. E. Putter, vraagbaak strategische Goederen en Wet wapens en munitie, Douane Landelijk Kantoor;  
 
-– H.G.M. Michels, Nederlands Forensisch Instituut, Onderzoeksmedewerker Wapens en Munitie;  
+i. A.M.A. Moeskops, adviseur Korpscheftaken, Politieacademie;  
 
-– A.C.M. Stuijt, Douane Landelijk Kantoor, Medewerker;  
+j. J.A.J.M. Waaijer, projectleider Explosieven Veiligheid en Wapens, Nationale Politie, Eenheid Amsterdam-Amstelland;  
 
-– J.M.T.P. Palms, Koninklijke Marechaussee, Medewerker Bureau Bijzondere Wetten en Taakaccenthouder Wet Wapens en Munitie;  
+k. B.J.H.A. Korte, operationeel Specialist B, Coördinator Landelijk Platvorm Vuurwapens, Nationale Politie, Landelijke Eenheid;  
 
-– F. Welkamp, Politieacademie, Docent/ontwikkelaar Recherche Tactisch-Juridisch Bpa;  
+l. N.O.B. Klein, vakspecialist Bureau Wapens, munitie en explosieven, Nationale Politie, Eenheid Rotterdam;  
 
-– A.M.A. Moeskops, Politieacademie, Adviseur Korpscheftaken en BOA en  
+m. M. Hempenius, medewerker Korpscheftaken, Nationale Politie, Eenheid Noord Nederland;  
 
-– BEd J.H.A. Korte, Landelijk Platform Vuurwapens, Coördinator   
+n. A. Benne, senior medewerker Opsporing, Nationale Politie, Eenheid Noord Nederland;  
+
+o. J.G. van Doormolen, medewerker Bureau Wapens, Munitie en Explosieven Koninklijke Marechaussee;  
+
+p. F.H.P.C. van der Heijden, vakspecialist Korpscheftaken Nationale Politie, Eenheid Oost-Brabant;  
+
+q. H. Jacobs, beleidsmedewerker, Douane, Landelijk Kantoor.   
 
 ### Artikel  3  
 
-De werkgroep heeft als taak het gevraagd en ongevraagd uitbrengen van advies aan de Staatssecretaris van Veiligheid en Justitie op het terrein van wapens en munitie. 
+De werkgroep heeft als taak het gevraagd en ongevraagd uitbrengen van advies aan de Minister van Veiligheid en Justitie op het terrein van wapens en munitie. 
 
 ### Artikel  4  
 
@@ -52,7 +78,7 @@ De werkgroep stelt bij aanvang van haar werkzaamheden een reglement vast over ha
 
 ### Artikel  5  
 
-Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin het wordt geplaatst. Dit besluit vervalt met ingang van 1 april 2015. 
+Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin het wordt geplaatst. 
 
 ### Artikel  6  
 

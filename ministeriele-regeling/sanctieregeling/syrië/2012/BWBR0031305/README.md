@@ -19,7 +19,7 @@ Besluit:
 
 ### Artikel  2  
 
-De bevoegde autoriteit in de artikelen 2bis, tweede lid en derde lid, 3, derde tot en met vijfde lid, 4, eerste lid en tweede lid, 5, eerste lid, 6bis, eerste lid, 7, eerste lid, artikel 7 bis, derde lid, 9bis, eerste lid, 10, eerste lid, 12, tweede lid, 13bis, 16, 17, 18, eerste lid, 19, 20, 20bis, 21, 21bis, 21quater, 25bis, en 29 van Verordening 36/2012 is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking dan wel, indien de uitoefening van de bevoegdheid betrekking heeft op financiële en bancaire aangelegenheden, zoals het verlenen van financiering en financiële bijstand, de verstrekking van leningen en kredieten, het openen van bankrekeningen, de vestiging van financiële instellingen en de overdracht, de vrijgave of beschikbaarstelling van tegoeden, de Minister van Financiën. 
+De bevoegde autoriteit in de artikelen 2bis, tweede lid en derde lid, 3, derde tot en met vijfde lid, 4, eerste lid en tweede lid, 5, eerste lid, 6bis, eerste lid, 7, eerste lid, 7 bis, derde lid, 9bis, eerste lid, 10, eerste lid, 12, tweede lid, 13bis, 16, 17, 18, eerste lid, 19, 20, 20bis, 21, 21bis, 21quater, 25bis, en 29 van Verordening 36/2012 is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking dan wel, indien de uitoefening van de bevoegdheid betrekking heeft op financiële en bancaire aangelegenheden, zoals het verlenen van financiering en financiële bijstand, de verstrekking van leningen en kredieten, het openen van bankrekeningen, de vestiging van financiële instellingen en de overdracht, de vrijgave of beschikbaarstelling van tegoeden, de Minister van Financiën. 
 
 ### Artikel  3  
 

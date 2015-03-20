@@ -635,17 +635,17 @@ c. de methode waarmee de aard van de geluiden en hoogte van de geluidsbelasting 
 
 ### Artikel  4.6  
 
-####Bijzondere deskundigheden bij bepaalde inrichtingen
+####Bijzondere deskundigheden en andere vereisten bij bepaalde inrichtingen
 
 Indien de aanvraag betrekking heeft op een inrichting die behoort tot een categorie, die is genoemd in bijlage I, onder 21, 28.4, onder g, of 29.1, onder k, van het besluit, verstrekt de aanvrager in of bij de aanvraag tevens gegevens en bescheiden met betrekking tot: 
 
-a. de namen van degenen die verantwoordelijk zijn voor de handelingen met de genetisch gemodificeerde organismen en voor het toezicht op en de controle van de veiligheid daarvan;  
+a. de namen van degenen die verantwoordelijk zijn voor de activiteiten met de genetisch gemodificeerde organismen en voor het toezicht op en de controle van de veiligheid daarvan;  
 
-b. de vakbekwaamheid van de in de inrichting werkzame personen die bij die handelingen zijn betrokken;  
+b. het eventuele bestaan van biologische veiligheidscomités of subcomités;  
 
-c. het eventuele bestaan van biologische veiligheidscomités of subcomités;  
+c. het gewenste aantal van elk van de aangevraagde categorieën van fysische inperking, als bedoeld in artikel 2.55, eerste lid, onder b, c en d, van het Besluit genetisch gemodificeerde organismen milieubeheer 2013;  
 
-d. het hoogste inperkingsniveau waaraan de ruimte bestemd voor ingeperkt gebruik voldoet.   
+d. een plattegrond van de inrichting, waarop is ingetekend het ggo-gebied als bedoeld in het Besluit genetisch gemodificeerde organismen milieubeheer 2013 en waarop is aangegeven waar de onderscheiden categorieën van fysische inperking zullen zijn gelegen.   
 
 ### Artikel  4.7  
 

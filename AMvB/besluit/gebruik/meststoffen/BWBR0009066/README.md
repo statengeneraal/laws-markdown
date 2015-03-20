@@ -34,7 +34,7 @@ f.*beheer*: beheer, gericht op de instandhouding van natuurwaarden, dat
 
 1°.is vastgesteld krachtens de Natuurbeschermingswet 1998,
 
-2°.geldt als voorwaarde voor de verlening van een subsidie op grond van de Kaderwet LNV-subsidies, of
+2°.geldt als voorwaarde voor de verlening van een subsidie op grond van de Kaderwet EZ-subsidies;
 
 3°.tot stand is gekomen met instemming van Onze Minister van Economische Zaken;
 
@@ -54,13 +54,13 @@ m.*fruitteelt*: bedrijfsmatige teelt op bouwland van vruchten, bestemd voor mens
 
 n.*emissiearm aanwenden*: gebruiken overeenkomstig de voorschriften die voor de desbetreffende situatie zijn opgenomen in de bij dit besluit behorende bijlage I;
 
-o.*veenkoloniaal bouwplan*: bouwplan met de teelt van fabrieksaardappelen ten behoeve van de zetmeelindustrie met een teeltfrequentie van ten minste éénmaal per drie jaar, met dien verstande dat geen sprake is van een veenkoloniaal bouwplan in de periode dat op de desbetreffende grond bloembollen worden geteeld of gras wordt geteeld;
+o.  *veenkoloniaal gebied:* gronden in de provincie Drenthe, de provincie Groningen ten zuiden van het Eemskanaal, de provincie Overijssel ten noorden van de lijn Zwolle-Ommen-Nijverdal-Almelo-Albergen-Tubbergen en de provincie Friesland ten oosten van de lijn Elsloo-Oosterwolde-Haulerwijk; 
 
 p.*hellingspercentage*: quotiënt van het hoogteverschil en de horizontale afstand, uitgedrukt in procenten, volgens de in bijlage II bij dit besluit aangegeven meetmethode;
 
 q.*niet-beteelde grond*: grond waarvan niet kan worden waargenomen dat deze gelijkmatig met een gewas is bedekt.  
 2. Voor de toepassing van artikel 1b, derde lid, is de situatie op 15 mei van het jaar waarin zuiveringsslib wordt gebruikt, bepalend voor de vraag of sprake is van bouwland of grasland, met dien verstande dat indien op 15 mei van het desbetreffende jaar landbouwgrond niet wordt beteeld, deze grond wordt aangemerkt als bouwland, tenzij de grond het gehele jaar niet wordt beteeld, in welk geval de grond wordt aangemerkt als overige grond. 
-3. Voor de toepassing van artikel 4b wordt onder grasland verstaan: grond die voor ten minste 50 procent uit gras bestaat dat is of wordt gebruikt voor beweiding met dieren of voor de winning van het gewas voor vervoedering aan dieren. 
+3. Voor de toepassing van artikel 4b wordt onder grasland verstaan: grond die voor tenminste 50 procent is beteeld met gras dat is of wordt gebruikt voor beweiding met dieren of voor de winning van het gewas voor vervoedering aan dieren. 
 4.  Voor de toepassing van de artikelen 4, 4a, 5 en 6d wordt onder bouwland niet verstaan grond waarop tuinbouw in glasopstanden wordt uitgeoefend, of waarop een anderszins bedekte teelt plaatsvindt.    
 5. Dit besluit berust, voor zover het de artikelen 4b, 6a, 6b, 6c, 6d en 8a betreft, mede op de artikelen 10 en 11 van de Wet bodembescherming. 
 6.  Dit besluit berust mede op de artikelen 6.6 en 6.7 van de Waterwet met betrekking tot de bodem en oever van oppervlaktewaterlichamen. 
@@ -92,8 +92,7 @@ b.indien het steekvast zuiveringslib betreft, de gebruikte hoeveelheid niet grot
 i.vier ton droge stof per hectare per twee jaren op bouwland; of
 
 ii.twee ton droge stof per hectare per twee jaren op grasland. 
-4. Gedurende de in het derde lid bedoelde perioden blijft het grondgebruik voor het desbetreffende aantal hectaren ongewijzigd. 
-5. In zoverre in afwijking van de aanhef van het derde lid, geldt het in het eerste lid gestelde verbod niet voor het gebruik van zuiveringsslib op percelen landbouwgrond waarvan overeenkomstig de krachtens artikel 16 van het Besluit kwaliteit en gebruik overige organische meststoffen gestelde regels, zoals deze luidden op het tijdstip waarop dit artikel in werking is getreden, is vastgesteld dat een of meer van de in de bodem aanwezige stoffen de in bijlage III opgenomen toetsingswaarden niet overschrijden, voor zover de geldigheidsduur van deze vaststelling niet is overschreden.
+4. Gedurende de in het derde lid bedoelde perioden blijft het grondgebruik voor het desbetreffende aantal hectaren ongewijzigd.
 
 ### Artikel 1c 
 
@@ -129,7 +128,7 @@ b.het natuurterrein is grasland en het totaal van de daarop gebruikte hoeveelhei
 
 a.het totaal van de gebruikte hoeveelheid dierlijke meststoffen en compost, uitgedrukt in kilogrammen fosfaat, is niet groter dan 20 kilogram fosfaat per hectare per jaar;
 
-b.de overige grond is grasland of bouwland en het totaal van de daarop gebruikte hoeveelheid dierlijke meststoffen en compost, uitgedrukt in kilogrammen fosfaat en stikstof, is niet groter dan 85 kilogram fosfaat, onderscheidenlijk 170 kilogram stikstof per hectare per jaar.  
+b.de overige grond is grasland of bouwland en het totaal van de daarop gebruikte hoeveelheid dierlijke meststoffen en compost, uitgedrukt in kilogrammen fosfaat en stikstof, is niet groter dan 80 kilogram fosfaat, onderscheidenlijk 170 kilogram stikstof per hectare per jaar.  
 5. Bij de bepaling van de in het derde en vierde lid bedoelde hoeveelheid meststoffen wordt de hoeveelheid fosfaat in compost slechts voor het krachtens artikel 12, vijfde lid, van de Meststoffenwet bepaalde deel in aanmerking genomen.
 
 ###Artikel 2a 
@@ -179,35 +178,15 @@ c. bouwland, gelegen op zandgrond of lössgrond, indien op de desbetreffende gro
 3.  Het is verboden in de periode van 1 augustus tot en met 15 februari drijfmest of vloeibaar zuiveringsslib te gebruiken.   
 4.  Het in het derde lid gestelde verbod is niet van toepassing op: 
 
-a. grasland, gelegen op kleigrond of veengrond, in de periode van: 
+a. grasland, in de periode van 1 augustus tot en met 31 augustus;  
 
-1° 1 februari tot en met 15 februari in de jaren 2010 en 2011;  
+b. bouwland, in de periode van 1 februari tot en met 15 februari;  
 
-2° 1 augustus tot en met 15 september in de jaren 2010 en 2011;  
+c. bouwland, in de periode van 1 augustus tot en met 31 augustus, indien: 
 
-3° 1 augustus tot en met 31 augustus in de jaren 2012 en volgende;    
+1°. uiterlijk op 31 augustus op de desbetreffende grond een bij ministeriële regeling aangewezen gewas wordt ingezaaid of geplant dat niet eerder dan acht weken na de datum van inzaaien of planten wordt vernietigd, of  
 
-b. grasland, gelegen op zandgrond of lössgrond, in de periode van: 
-
-1° 1 februari tot en met 15 februari in de jaren 2010 en 2011;  
-
-2° 1 augustus tot en met 31 augustus in de jaren 2010 en en volgende;    
-
-c. bouwland, gelegen op kleigrond of veengrond, in de periode van: 
-
-1° 1 februari tot en met 15 februari in de jaren 2010 en volgende;  
-
-2° 1 augustus tot en met 15 september in de jaren 2010 en 2011;  
-
-3° 1 augustus tot en met 31 augustus in de jaren 2012 en volgende, indien uiterlijk op 31 augustus van het desbetreffende jaar op de desbetreffende grond een gewas wordt geteeld dat behoort tot de in de krachtens artikel 10, eerste lid, van de Meststoffenwet, vastgestelde ministeriële regeling onderscheiden gewasgroep «groenbemesters» of indien in de desbetreffende grond in het daarop aansluitende najaar bloembollen worden geplant;    
-
-d. bouwland, gelegen op zandgrond of lössgrond, in de periode van: 
-
-1° 1 februari tot en met 15 februari in de jaren 2010 en volgende;  
-
-2° 1 augustus tot en met 31 augustus in de jaren 2010 en 2011;  
-
-3° 1 augustus tot en met 31 augustus in de jaren 2012 en volgende, indien uiterlijk op 31 augustus van het desbetreffende jaar op de desbetreffende grond een gewas wordt geteeld dat behoort tot de in de krachtens artikel 10, eerste lid, van de Meststoffenwet, vastgestelde ministeriële regeling onderscheiden gewasgroep «groenbemesters» of indien in de desbetreffende grond in het daarop aansluitende najaar bloembollen worden geplant.       
+2°. in de desbetreffende grond in het daarop aansluitende najaar bloembollen worden geplant.      
 5.  Het in het eerste en derde lid gestelde verbod is niet van toepassing op het gebruik van zuiveringsslib dat niet meer dan 70 gram stikstof per kilogram droge stof bevat, indien: 
 
 a. het zuiveringsslib door de producent of namens hem door tussenkomst van ten hoogste één vervoerder rechtstreeks aan de gebruiker is afgeleverd;  
@@ -215,7 +194,7 @@ a. het zuiveringsslib door de producent of namens hem door tussenkomst van ten h
 b. het zuiveringsslib wordt gebruikt op de dag waarop het aan de gebruiker is afgeleverd; en  
 
 c. het zuiveringsslib, nadat overeenkomstig de krachtens artikel 21, eerste lid, onderdeel d, van het Uitvoeringsbesluit Meststoffenwet gestelde regels, de samenstelling ervan is bepaald, niet is gemengd met ander zuiveringsslib of andere stoffen.     
-6.  Bij ministeriële regeling kan het gebruik van dierlijke meststoffen of zuiveringsslib in de periode van 1 augustus tot 15 augustus, dan wel in de periode van 1 september tot 15 september indien het het gebruik van drijfmest of vloeibaar zuiveringsslib op grasland, gelegen op kleigrond of veengrond betreft, van het bij die regeling te bepalen jaar en in het bij die regeling te bepalen gebied worden toegestaan, indien naar het oordeel van Onze Minister, de Technische commissie bodembescherming gehoord: 
+6.  Bij ministeriële regeling kan het gebruik van dierlijke meststoffen of zuiveringsslib in de periode van 1 augustus tot 15 augustus, dan wel in de periode van 1 september tot 15 september indien het het gebruik van drijfmest of vloeibaar zuiveringsslib op grasland, gelegen op kleigrond of veengrond betreft, van het bij die regeling te bepalen jaar en in het bij die regeling te bepalen gebied worden toegestaan, indien naar het oordeel van Onze Minister, de Technische commissie bodem gehoord: 
 
 a. daarvoor een landbouwkundige noodzaak bestaat; en  
 
@@ -254,12 +233,26 @@ c.een plan van voorzieningen dat is vastgesteld overeenkomstig de artikelen 39 t
 d.een reconstructieplan dat is vastgesteld overeenkomstig hoofdstuk 2 van de Reconstructiewet concentratiegebieden, waarin is voorzien in herverkaveling als bedoeld in hoofdstuk 3, titel 6 van de Reconstructiewet concentratiegebieden, of
 
 e.een inrichtingsplan dat is vastgesteld overeenkomstig de artikelen 17 tot en met 20 van de Wet inrichting landelijk gebied.  
-8.  Met toepassing van artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet is paragraaf 4.1.3.3 van de Algemene wet bestuursrecht niet van toepassing op de aanvraag tot accreditatie als bedoeld in het vierde lid. 
+8.  Het in het eerste lid gestelde verbod is niet van toepassing op grasland indien de graszode wordt vernietigd ten behoeve van de aanleg en onderhoud van een net als bedoeld in artikel 20, tweede lid, van Boek 5 van het Burgerlijk Wetboek.   
+9.  Het in het eerste lid gestelde verbod is niet van toepassing op grasland op zandgrond indien de graszode wordt vernietigd om schade aan het grasland te herstellen en wordt voldaan aan de volgende eisen: 
+
+a. de beschadiging van het grasland is veroorzaakt door droogte of door vraat van emelten of engerlingen;  
+
+b. de verwachte grasopbrengst zonder herinzaai is naar verwachting tenminste 25% lager dan in een jaar zonder vraat of droogte;  
+
+c. de totale oppervlakte beschadigd grasland bedraagt tenminste 5% van de oppervlakte grasland die bij het bedrijf in gebruik is;  
+
+d. een geregistreerd schade-expert bevestigt in een op het bedrijf te bewaren rapport dat is voldaan aan de onder a tot en met c genoemde voorwaarden;  
+
+e. het voornemen om de graszode te vernietigen wordt minimaal zeven werk dagen voorafgaand aan de daadwerkelijke vernietiging, maar uiterlijk op 31 augustus van het betreffende jaar en na gereedkomen van het onder d bedoelde rapport, gemeld bij Onze Minister van Economische Zaken;  
+
+f. op de betreffende percelen grasland vindt herinzaai van gras plaats binnen zeven werkdagen na de vernietiging van de graszode, maar uiterlijk op 15 september van het betreffende jaar.    
+10.  Met toepassing van artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet is paragraaf 4.1.3.3 van de Algemene wet bestuursrecht niet van toepassing op de aanvraag tot accreditatie als bedoeld in het vierde lid. 
 
 ### Artikel  5  
 
-1.  Het is verboden dierlijke meststoffen, zuiveringsslib of een mengsel met deze meststoffen te gebruiken op grasland of bouwland, tenzij de dierlijke meststoffen of het zuiveringsslib emissiearm worden aangewend.    
-2. Het in het eerste lid gestelde verbod is niet van toepassing op bouwland gelegen op Texel.  
+1.  Het is verboden dierlijke meststoffen, zuiveringsslib of een mengsel met deze meststoffen te gebruiken op grasland, bouwland of niet-beteelde grond, tenzij de dierlijke meststoffen of het zuiveringsslib emissiearm worden aangewend.    
+2.  Het in het eerste lid gestelde verbod is in de periode van 1 maart tot en met 31 mei niet van toepassing op het gebruik van drijfmest afkomstig van runderen ter voorkoming van schade aan gewassen door winderosie op bouwland gelegen op zandgrond in veenkoloniaal gebied of op Texel en indien op het perceel een gewas is ingezaaid, geplant of gepoot.  
 3.  Het in het eerste lid gestelde verbod is niet van toepassing op het gebruik van vaste dierlijke meststoffen onderscheidenlijk steekvast zuiveringsslib op grond waarop gras wordt geteeld of waarop uitsluitend fruitteelt wordt uitgeoefend, tenzij de grond een hellingspercentage heeft van 7 of meer.  
 
 ### Artikel  6  
@@ -300,7 +293,7 @@ Het verboden dierlijke meststoffen, stikstofkunstmest, zuiveringsslib, compost, 
 
 ### Artikel  7  
 
-1.  Onze Minister van Economische Zaken kan in overeenstemming met Onze Minister, op aanvraag en gehoord de Technische commissie bodembescherming, ten behoeve van onderzoek ontheffing verlenen van de in de artikelen 4, 4a, 4b, 5, 6, 6b en 6d gestelde verboden, op basis van een ingediend onderzoeksplan.   
+1.  Onze Minister van Economische Zaken kan in overeenstemming met Onze Minister, op aanvraag en gehoord de Technische commissie bodem, ten behoeve van onderzoek ontheffing verlenen van de in de artikelen 4, 4a, 4b, 5, 6, 6b en 6d gestelde verboden, op basis van een ingediend onderzoeksplan.   
 2.  Een ontheffing kan slechts worden verleend indien naar het oordeel van Onze Ministers:  
 
 - de ontheffing noodzakelijk is voor het te verrichten onderzoek,   
@@ -318,7 +311,7 @@ Het verboden dierlijke meststoffen, stikstofkunstmest, zuiveringsslib, compost, 
 ### Artikel  8  
 
 1.  Gedeputeerde staten kunnen voor de periode van 1 tot en met 15 september ten behoeve van experimenten met het gebruik van dierlijke meststoffen op bouwland of niet-beteelde grond, gelegen op zand- of lössgrond, of ten behoeve van experimenten met het gebruik van compost, zuiveringsslib of overige organische meststoffen op bouwland, gelegen op zand- of lössgrond, op aanvraag, ontheffing verlenen van het in artikel 4 gestelde verbod, op basis van een ingediend voorstel voor een experiment.    
-2.  De ontheffing kan slechts worden verleend na kennisgeving door gedeputeerde staten aan Onze Minister van de in het eerste lid bedoelde aanvraag en nadat Onze Minister ter zake de Technische commissie bodembescherming heeft gehoord.    
+2.  De ontheffing kan slechts worden verleend na kennisgeving door gedeputeerde staten aan Onze Minister van de in het eerste lid bedoelde aanvraag en nadat Onze Minister ter zake de Technische commissie bodem heeft gehoord.    
 3.   Artikel 7, tweede lid, is van overeenkomstige toepassing.   
 
 ### §  6  

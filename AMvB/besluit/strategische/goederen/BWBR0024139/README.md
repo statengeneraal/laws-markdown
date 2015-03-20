@@ -123,6 +123,7 @@ c. de doorvoer door Nederland van militaire goederen die afkomstig zijn uit, en 
 a. indien het belang van de internationale rechtsorde of een daarop betrekking hebbende internationale afspraak dat vereist of  
 
 b. indien Onze Minister dit noodzakelijk acht voor de bescherming van de wezenlijke belangen van de nationale veiligheid.    
+4. Een vergunning wordt in ieder geval niet verleend voor zover dit voortvloeit uit internationale verplichtingen.
 
 ### Artikel  6  
 
@@ -190,6 +191,7 @@ c. de inhoud van een melding.
 
 1.  Het is verboden om militaire goederen uit te voeren uit Nederland zonder individuele, globale of algemene uitvoervergunning.   
 2.  Het eerste lid is niet van toepassing op de uitvoer uit Nederland van militaire goederen als bedoeld in artikel 3, eerste lid, van de Uitvoeringswet verdrag chemische wapens.  
+3. Een vergunning wordt in ieder geval niet verleend voor zover dit voortvloeit uit internationale verplichtingen.
 
 ### Artikel  12  
 
@@ -247,6 +249,7 @@ b. de overdracht uit Nederland van militaire goederen naar België en Luxemburg.
 a. indien het belang van de internationale rechtsorde of een daarop betrekking hebbende internationale afspraak dat vereist;  
 
 b. indien dit noodzakelijk is voor de bescherming van de wezenlijke belangen van de nationale veiligheid.    
+4. Een vergunning wordt in ieder geval niet verleend voor zover dit voortvloeit uit internationale verplichtingen.
 
 ### Artikel  19  
 

@@ -3,7 +3,7 @@
 ##Verordening van het bestuur van het Hoofdbedrijfschap Ambachten van 2 oktober 2002, houdende regels terzake van de door het hoofdbedrijfschap aan de ondernemers die het textielreinigingsbedrijf uitoefenen op te leggen bestemmingsheffing textielreinigingsbedrijf voor het jaar 2003 (Heffingsverordening textielreinigingsbedrijf 2003)
 
 Het bestuur van het Hoofdbedrijfschap Ambachten;
-Gelet op de [artikelen 126 van de Wet op de bedrijfsorganisatie](../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), juncto artikel 10, tweede en derde lid van de Instellingsverordening Hoofdbedrijfschap Ambachten;
+Gelet op de artikelen 126 van de Wet op de bedrijfsorganisatie, juncto artikel 10, tweede en derde lid van de Instellingsverordening Hoofdbedrijfschap Ambachten;
 
 Gehoord de Commissie textielreinigingsbedrijf;
 Besluit:
@@ -48,7 +48,7 @@ Materieel uitgewerkt per 01-01-2004
 
 a.krachtens haar statutaire doelstelling haar werkzaamheid kan uitstrekken tot ten minste een belangrijk gedeelte van het terrein waarop het bedrijfslichaam een taak heeft te vervullen,
 
-b.voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de [artikelen 3 tot en met 7 van de Verordening representativiteit organisaties](../../../../../pbo/verordening/representativiteit/organisaties/BWBR0011641/README.md),
+b.voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de artikelen 3 tot en met 7 van de Verordening representativiteit organisaties,
 
 c.tot de werkingssfeer van het bedrijfslichaam behorende leden heeft, waarvan het gewogen aantal niet-onbetekend is,
 

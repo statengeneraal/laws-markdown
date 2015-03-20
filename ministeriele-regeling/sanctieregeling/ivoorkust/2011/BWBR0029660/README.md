@@ -11,13 +11,13 @@ Gelet op Verordening (EG) nr. 560/2005 van de Raad van de Europese Unie van 12
 
 Gelet op Besluit 2010/656/GBVB van de Raad van de Europese Unie van 29 oktober 2010 tot verlenging van de beperkende maatregelen tegen Ivoorkust (Pb EG L 285);
 
-Gelet op [artikel 2, tweede lid](../../../../../wet/sanctiewet/1977/BWBR0003296/README.md), en [artikel 3 van de Sanctiewet 1977](../../../../../wet/sanctiewet/1977/BWBR0003296/README.md),
+Gelet op artikel 2, tweede lid, en artikel 3 van de Sanctiewet 1977,
 Besluit:    
 
 ### Artikel  1  
 
 1.  Het is verboden te handelen in strijd met artikel 3 van Verordening (EG) nr. 174/2005 van de Raad van de Europese Unie van 31 januari 2004 tot instelling van beperkingen op het leveren van bijstand in verband met militaire activiteiten aan Ivoorkust.   
-2.  Het verbod, bedoeld in het eerste lid, geldt niet in gevallen waarin artikel 4 bis of 5 van de Verordening (EU) nr. 174/2005 van toepassing is.  
+2.  Het verbod, bedoeld in het eerste lid, geldt niet in gevallen waarin artikel 4 bis, artikel 4 ter of artikel 5 van de Verordening (EU) nr. 174/2005 van toepassing is.  
 
 ### Artikel  2  
 
@@ -26,7 +26,7 @@ Besluit:
 
 ### Artikel  3  
 
-1.  Het is verboden om paramilitaire uitrusting en wapens, munitie, militaire voertuigen, militaire uitrusting en goederen, alsmede militaire technologie, aangewezen in de [Uitvoeringsregeling strategische goederen 2012](../../../../../ministeriele-regeling/uitvoeringsregeling/strategische/goederen/2012/BWBR0030610/README.md), dan wel onderdelen daarvan, te verkopen, te leveren, over te dragen of uit te voeren aan personen, entiteiten of lichamen in Ivoorkust of voor gebruik in Ivoorkust.   
+1.  Het is verboden om paramilitaire uitrusting en wapens, munitie, militaire voertuigen, militaire uitrusting en goederen, alsmede militaire technologie, aangewezen in de Uitvoeringsregeling strategische goederen 2012, dan wel onderdelen daarvan, te verkopen, te leveren, over te dragen of uit te voeren aan personen, entiteiten of lichamen in Ivoorkust of voor gebruik in Ivoorkust.   
 2.  Het eerste lid is niet van toepassing, met vooraf verleende ontheffing van de Minister van Economische Zaken, Landbouw en Innovatie, op: 
 
 a. de bevoorrading uitsluitend bestemd voor ondersteuning van en gebruikmaking door de operatie van de Verenigde Naties in Ivoorkust en de Franse troepen die de operatie steunen;  
@@ -48,7 +48,7 @@ e. de verkoop, levering, overdracht of uitvoer van wapens en aanverwant materiee
 
 ### Artikel  5  
 
-De [Sanctieregeling Ivoorkust 2005](../../../../../ministeriele-regeling/sanctieregeling/ivoorkust/2005/BWBR0018440/README.md) wordt ingetrokken. 
+De Sanctieregeling Ivoorkust 2005 wordt ingetrokken. 
 
 ### Artikel  6  
 
