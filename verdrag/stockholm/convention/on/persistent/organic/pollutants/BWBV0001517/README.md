@@ -519,41 +519,43 @@ IN WITNESS WHEREOF the undersigned, being duly authorized to that effect, have s
 |  *Chemical*   |  *Activity*   |  *Specific exemption*   |
 |:---|:---|:---|
 | Aldrin* CAS No: 309-00-2  | Production  | None   |
-| --- | Use  | Local ectoparasiticide  Insecticide   |
-|Alpha hexachlorocyclohexane*  CAS No: 319-84-6  |Production |None |
-|Use |None |
-|Beta hexachlorocyclohexane*  CAS No: 319-85-7  |Production |None |
-|Use |None |
+| --- | Use  | Local ectoparasiticide   Insecticide   |
+| Alpha hexachlorocyclohexane*  CAS No: 319-84-6  | Production  | None  |
+| Use  | None  |
+| Beta hexachlorocyclohexane*  CAS No: 319-85-7  | Production  | None  |
+| Use  | None  |
 | Chlordane* CAS No: 57-74-9  | Production  | As allowed for the Parties listed in the Register   |
-| --- | Use  | Local ectoparasiticide  Insecticide  Termiticide  Termiticide in buildings and dams  Termiticide in roads  Additive in plywood adhesives   |
-|Chlordecone*  CAS No: 143-50-0  |Production |None |
-|Use |None |
+| --- | Use  | Local ectoparasiticide   Insecticide   Termiticide   Termiticide in buildings and dams   Termiticide in roads   Additive in plywood adhesives   |
+| Chlordecone*  CAS No: 143-50-0  | Production  | None  |
+| Use  | None  |
 | Dieldrin* CAS No: 60-57-1  | Production  | None  |
 | --- | Use  | In agricultural operations   |
 | Endrin* CAS No: 72-20-8  | Production  | None   |
 | --- | Use  | None  |
 | Heptachlor* CAS No: 76-44-8  | Production  | None   |
-| --- | Use  | Termiticide  Termiticide in structures of houses  Termiticide (subterranean)  Wood treatment  In use in underground cable boxes   |
-|Hexabromobiphenyl *  CAS No: 36355-01-8  |Production |None |
-|Use |None |
-|Hexabromodiphenyl ether* and heptabromodiphenyl ether* |Production |None |
-|Use |Articles in accordance with provisions of part IV of this Annex |
+| --- | Use  | Termiticide   Termiticide in structures of houses   Termiticide (subterranean)   Wood treatment   In use in underground cable boxes   |
+| Hexabromobiphenyl *  CAS No: 36355-01-8  | Production  | None  |
+| Use  | None  |
+| Hexabromocyclododecane  | Production  | As allowed for the parties listed in the Register in accordance with the provisions of Part VII of this Annex  |
+| --- | Use  | Expanded polystyrene and extruded polystyrene in buildings in accordance with the provisions of Part VII of this Annex  |
+| Hexabromodiphenyl ether* and heptabromodiphenyl ether*  | Production  | None  |
+| Use  | Articles in accordance with provisions of part IV of this Annex  |
 | Hexachlorobenzene CAS No: 118-74-1  | Production  | As allowed for the Parties listed in the Register   |
-| --- | Use  | Intermediate Solvent in pesticide  Closed system site limited intermediate   |
-|Lindane*  CAS No: 58-89-9  |Production |None |
-|Use |Human health pharmaceutical for control of head lice and scabies as second line treatment |
+| --- | Use  | Intermediate Solvent in pesticide   Closed system site limited intermediate   |
+| Lindane*  CAS No: 58-89-9  | Production  | None  |
+| Use  | Human health pharmaceutical for control of head lice and scabies as second line treatment  |
 | Mirex* CAS No: 2385-85-5  | Production  | As allowed for the Parties listed in the Register  |
 | --- | Use  | Termiticide   |
-|Pentachlorobenzene* CAS No: 608-93-5  |Production |None |
-|Use |None |
-|Toxaphene* CAS No: 8001-35-2  |Production |None |
-| --- |Use |None |
+| Pentachlorobenzene* CAS No: 608-93-5  | Production  | None  |
+| Use  | None  |
+| Toxaphene* CAS No: 8001-35-2  | Production  | None  |
+| --- | Use  | None  |
 | Polychlorinated Biphenyls (PCB)*  | Production  | None  |
 | --- | Use  | Articles in use in accordance with the provisions of Part II  of this Annex   |
-|Technical endosulfan* (CAS No: 115-29-7) and its related isomers* (CAS No: 959-98-8 and CAS No: 33213-65-9) |Production |As allowed for the parties listed in the Register |
-| --- |Use |Crop-pest complexes as listed in accordance with the provisions of part VI of this Annex |
-|Tetrabromodiphenyl ether* and pentabromodiphenyl ether*  |Production |None |
-| --- |Use |Articles in accordance with the provisions of Part IV of this Annex |
+| Technical endosulfan* (CAS No: 115-29-7) and its related isomers* (CAS No: 959-98-8 and CAS No: 33213-65-9)  | Production  | As allowed for the parties listed in the Register  |
+| --- | Use  | Crop-pest complexes as listed in accordance with the provisions of part VI of this Annex  |
+| Tetrabromodiphenyl ether* and pentabromodiphenyl ether*  | Production  | None  |
+| --- | Use  | Articles in accordance with the provisions of Part IV of this Annex  |
 
 Notes: 
 
@@ -1704,40 +1706,42 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, dit Verd
 |:---|:---|:---|
 | Aldrin* CAS-nummer: 309-00-2  | Productie  | Geen   |
 | Gebruik  | Lokale ectoparasiticide Insecticide   |
-|Alfahexachloorcyclohexaan*  CAS-nummer: 319-84-6  |Productie |Geen |
-|Gebruik |Geen |
-|Betahexachloorcyclohexaan*  CAS-nummer: 319-85-7  |Productie |Geen |
-|Gebruik |Geen |
+| Alfahexachloorcyclohexaan*  CAS-nummer: 319-84-6  | Productie  | Geen  |
+| Gebruik  | Geen  |
+| Betahexachloorcyclohexaan*  CAS-nummer: 319-85-7  | Productie  | Geen  |
+| Gebruik  | Geen  |
 | Chloordaan* CAS-nummer: 57-74-9  | Productie  | Zoals voor de in het Register ingeschreven Partijen toegestaan   |
-| Gebruik  | Lokale ectoparasiticide  Insecticide  Termiticide  Termiticide in gebouwen en dammen  Termiticide op wegen  Additief in triplexlijmen  |
-|Chloordecon*  CAS-nummer: 143-50-0  |Productie |Geen |
-|Gebruik |Geen |
+| Gebruik  | Lokale ectoparasiticide   Insecticide   Termiticide   Termiticide in gebouwen en dammen   Termiticide op wegen   Additief in triplexlijmen  |
+| Chloordecon*  CAS-nummer: 143-50-0  | Productie  | Geen  |
+| Gebruik  | Geen  |
 | Dieldrin* CAS-nummer: 60-57-1  | Productie  | Geen  |
 | Gebruik  | Landbouwactiviteiten  |
 | Endrin* CAS-nummer: 72-20-8  | Productie  | Geen   |
 | Gebruik  | Geen  |
 | Heptachloor* CAS-nummer: 76-44-8  | Productie  | Geen  |
-| Gebruik  | Termiticide  Termiticide in skeletten van huizen  Termiticide (ondergronds)  Behandeling van hout  Gebruik in ondergrondse kabeldozen   |
-|Hexabroombifenyl*  CAS-nummer: 36355-01-8  |Productie |Geen |
-|Gebruik |Geen |
+| Gebruik  | Termiticide   Termiticide in skeletten van huizen   Termiticide (ondergronds)   Behandeling van hout   Gebruik in ondergrondse kabeldozen   |
+| Hexabroombifenyl*  CAS-nummer: 36355-01-8  | Productie  | Geen  |
+| Gebruik  | Geen  |
+| Hexabroomcyclododecaan  | Productie  | Zoals toegestaan voor de Partijen vermeld in het register in overeenstemming met de bepalingen van deel VII van deze Bijlage  |
+| --- | Gebruik  | Geëxpandeerd polystyreen en geëxtrudeerd polystyreen in bouwwerken in overeenstemming met de bepalingen van deel VII van deze Bijlage  |
 | Hexabroomdifenylether* en heptabroomdifenylether*  | Productie  | Geen  |
-| Gebruik  | Artikelen in overeenstemming met de bepalingen van deel IV van deze Bijlage |
-|Hexachloorbenzeen CAS-nummer: 118-74-1 |Productie |Zoals voor de in het Register ingeschreven Partijen toegestaan  |
-|Gebruik |Tussenstof  Oplosmiddel in bestrijdingsmiddel  Tussenstof in een tot locatie beperkt gesloten systeem.  |
-|Lindaan  CAS-nummer: 58-89-9 |Productie |Geen |
-|Gebruik |Farmaceutisch middel als secundaire behandeling van hoofdluis en schurft bij de mens |
+| Gebruik  | Artikelen in overeenstemming met de bepalingen van deel IV van deze Bijlage  |
+| Hexachloorbenzeen CAS-nummer: 118-74-1  | Productie  | Zoals voor de in het Register ingeschreven Partijen toegestaan   |
+| Gebruik  | Tussenstof   Oplosmiddel in bestrijdingsmiddel   Tussenstof in een tot locatie beperkt gesloten systeem.   |
+| Lindaan  CAS-nummer: 58-89-9  | Productie  | Geen  |
+| Gebruik  | Farmaceutisch middel als secundaire behandeling van hoofdluis en schurft bij de mens  |
 | Mirex* CAS-nummer: 2385-85-5  | Productie  | Zoals voor de in het Register ingeschreven Partijen toegestaan   |
 | Gebruik  | Termiticide  |
-|Pentachloorbenzeen  CAS-nummer: 608-93-5  |Productie |Geen |
-|Gebruik |Geen |
+| Pentachloorbenzeen  CAS-nummer: 608-93-5  | Productie  | Geen  |
+| Gebruik  | Geen  |
 | Toxafeen* CAS-nummer: 8001-35-2  | Productie  | Geen   |
 | Gebruik  | Geen  |
 | Polychloorbifenylen (PCB's)*  | Productie  | Geen  |
 | Gebruik  | Artikelen in gebruik in overeenstemming met de bepalingen van Deel II  van deze Bijlage  |
-|Technisch endosulfan* (CAS-nummer: 115-29-7) en aanverwante isomeren* (CAS-nummer: 959-98-8 en CAS-nummer: 33213-65-9) |Productie |Zoals toegestaan voor de Partijen vermeld in het register |
-| --- |Gebruik |Tegen voor gewassen schadelijke organismen zoals vermeld in overeenstemming met de bepalingen van deel VI van deze Bijlage |
-|Tetrabroomdifenylether* en pentabroomdifenylether*  |Productie |Geen |
-|Gebruik |Artikelen in overeenstemming met de bepalingen van deel IV van deze Bijlage |
+| Technisch endosulfan* (CAS-nummer: 115-29-7) en aanverwante isomeren* (CAS-nummer: 959-98-8 en CAS-nummer: 33213-65-9)  | Productie  | Zoals toegestaan voor de Partijen vermeld in het register  |
+| --- | Gebruik  | Tegen voor gewassen schadelijke organismen zoals vermeld in overeenstemming met de bepalingen van deel VI van deze Bijlage  |
+| Tetrabroomdifenylether* en pentabroomdifenylether*  | Productie  | Geen  |
+| Gebruik  | Artikelen in overeenstemming met de bepalingen van deel IV van deze Bijlage  |
 
 Opmerkingen: 
 
