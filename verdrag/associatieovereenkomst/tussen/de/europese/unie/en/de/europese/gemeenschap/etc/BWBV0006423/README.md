@@ -2150,7 +2150,9 @@ d. onverminderd de artikelen 184, 186 en 190 van deze overeenkomst, en tenzij de
 
 a. de partijen erkennen in het kader van het handelsverkeer de status inzake plaagorganismen met betrekking tot de in bijlage XVIII-B bij deze overeenkomst opgenomen plaagorganismen als omschreven in bijlage XIX-B bij deze overeenkomst; en  
 
-b. onverminderd de artikelen 184, 186 en 190 van deze overeenkomst, en tenzij de partij van invoer uitdrukkelijk bezwaar maakt en om ondersteunende of bijkomende gegevens, overleg en/of verificatie verzoekt, neemt elke partij onverwijld de nodige wettelijke en bestuursrechtelijke maatregelen om de handel mogelijk te maken op basis van de bepalingen van dit lid, onder a). Erkenning van regionalisatie/zonering, plaagorganismevrije gebieden (PVG's) en beschermde gebieden (BG’s)  
+b. onverminderd de artikelen 184, 186 en 190 van deze overeenkomst, en tenzij de partij van invoer uitdrukkelijk bezwaar maakt en om ondersteunende of bijkomende gegevens, overleg en/of verificatie verzoekt, neemt elke partij onverwijld de nodige wettelijke en bestuursrechtelijke maatregelen om de handel mogelijk te maken op basis van de bepalingen van dit lid, onder a).  
+###Erkenning van regionalisatie/zonering, plaagorganismevrije gebieden (PVG's) en beschermde gebieden (BG’s)
+
 3. De partijen erkennen de begrippen regionalisatie en PVG’s zoals omschreven in het Internationaal Verdrag voor de bescherming van planten (IPPC) van 1997 en de internationale normen voor fytosanitaire maatregelen (ISPM’s) van de Voedsel- en landbouworganisatie van de Verenigde Naties (FAO), en beschermde gebieden, zoals gedefineerd in Richtlijn 2000/29/EG van de Raad van 8 mei 2000 betreffende de beschermende maatregelen tegen het binnenbrengen en de verspreiding in de Gemeenschap van voor planten en voor plantaardige producten schadelijke organismen, en komen overeen dat deze begrippen op de handel tussen hen van toepassing zijn.
 4. De partijen komen overeen dat regionalisatiebesluiten voor de in bijlage XVIII-A bij deze overeenkomst opgenomen dier- en visziekten en voor de in bijlage XVIII-B bij deze overeenkomst opgenomen plaagorganismen moeten worden genomen overeenkomstig de bepalingen van bijlage XIX, delen A en B, bij deze overeenkomst.
 5. Wat dierziekten betreft, deelt de partij van uitvoer die erkenning van haar regionalisatiebesluit door de partij van invoer wenst, overeenkomstig artikel 184 van deze overeenkomst de door haar ingestelde maatregelen mee met een omstandige toelichting op en ondersteunende gegevens voor haar bepalingen en besluiten. Onverminderd artikel 185 van deze overeenkomst en tenzij de partij van invoer uitdrukkelijk bezwaar maakt en om bijkomende gegevens, overleg en/of verificatie verzoekt binnen 15 werkdagen na ontvangst van de kennisgeving, wordt het aldus meegedeelde regionalisatiebesluit geacht te zijn aanvaard; Het in de eerste alinea van dit lid bedoelde overleg vindt plaats overeenkomstig artikel 185, lid 3, van deze overeenkomst. De partij van invoer beoordeelt de bijkomende gegevens binnen 15 werkdagen na ontvangst ervan. De in de eerste alinea van dit lid bedoelde verificatie geschiedt overeenkomstig artikel 188 van deze overeenkomst, binnen 25 werkdagen na ontvangst van het verzoek daartoe.
@@ -5459,7 +5461,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ### HOOFDSTUK  15  
 
-####ALGEMENE BEPALINGEN INZAKE AANPASSING UIT HOOFDE VAN TITEL V
+####ALGEMENE BEPALINGEN INZAKE AANPASSING UIT HOOFDE VAN TITEL V 
 
 Treedt in werking op een nader te bepalen tijdstip 
 

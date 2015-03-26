@@ -37,3 +37,39 @@ e) the intern will leave the Netherlands within 14 days after the end of the int
 Wordt voorlopig toegepast per 10-02-2015 
 
 ORGANISATION FOR THE PROHIBITION OF CHEMICAL WEAPONS The Hague, 10 February 2015 NV/ERD/196156/15 The Organisation for the Prohibition of Chemical Weapons presents its compliments to the Ministry of Foreign Affairs of the Kingdom of the Netherlands and has the honour to acknowledge receipt of the Ministry’s Note MINBUZA-2015.47587, dated 10 February 2015. The Organisation for the Prohibition of Chemical Weapons has the honour to inform the Ministry of Foreign Affairs that the proposal as formulated in the Ministry’s Note MINBUZA-2015.47587 of 10 February 2015 is acceptable to the Organisation for the Prohibition of Chemical Weapons. The Organisation for the Prohibition of Chemical Weapons accordingly agrees that the Ministry’s Note and this reply shall constitute an Agreement between the Organisation for the Prohibition of Chemical Weapons and the Kingdom of the Netherlands. This Agreement shall be applied provisionally as from the date of this reply and shall enter into force on the day the Kingdom of the Netherlands has notified the Organisation for the Prohibition of Chemical Weapons in writing that the legal requirements for entry into force have been complied with. The Organisation for the Prohibition of Chemical Weapons avails itself of this opportunity to renew to the Ministry of Foreign Affairs of the Kingdom of the Netherlands the assurances of its highest consideration. *Ministry of Foreign Affairs* *Kingdom of the Netherlands* *The Hague*   
+
+### Nr.  I  
+Wordt voorlopig toegepast per 10-02-2015 
+
+MINISTERIE VAN BUITENLANDSE ZAKEN ’s-Gravenhage, 10 februari 2015 Afdeling Verdragen MINBUZA-2015.47587 Het Ministerie van Buitenlandse Zaken van het Koninkrijk der Nederlanden biedt de Organisatie voor het Verbod van Chemische Wapens zijn complimenten aan en heeft, onder verwijzing naar het Verdrag tussen het Koninkrijk der Nederlanden en de Organisatie voor het Verbod van Chemische Wapens betreffende de zetel van de OPCW van 22 mei 1997 alsmede naar de gesprekken tussen het Ministerie en de OPCW inzake de registratie van stagairs die de OPCW heeft toegelaten tot haar stageprogramma in Nederland, de eer het volgende voor te stellen: 
+
+1. Voor de toepassing van dit Verdrag wordt verstaan onder “stagiair”: Een persoon die door de OPCW is toegelaten tot het stageprogramma van de OPCW en op die grond bepaalde taken voor de OPCW vervult. Een stagiair valt in geen geval onder de begripsomschrijving van een functionaris van de OPCW.  
+
+2. Binnen acht (8) dagen na de eerste aankomst van een stagiair in Nederland verzoekt de OPCW het Ministerie van Buitenlandse Zaken de stagiair te registreren in overeenstemming met het derde lid.  
+
+3. Het Ministerie van Buitenlandse Zaken registreert een stagiair ten behoeve van zijn of haar stage bij de OPCW voor een tijdvak van ten hoogste zes maanden, mits de OPCW het Ministerie van Buitenlandse Zaken een door de stagiair ondertekende verklaring doet toekomen, vergezeld van voldoende bewijs, waaruit blijkt dat: 
+
+a. de stagiair Nederland is binnengekomen in overeenstemming met de van toepassing zijnde immigratieprocedures;  
+
+b. de stagiair over voldoende financiële middelen beschikt om in zijn of haar levensonderhoud te voorzien alsmede voor zijn of haar terugkeer, en voldoende verzekerd is tegen ziektekosten (met inbegrip van een dekking voor kosten van ziekenhuisopname voor ten minste de duur van de stage plus een maand) en een wettelijkeaansprakelijkheidsverzekering, en niet ten laste zal komen van de openbare middelen van Nederland;  
+
+c. de stagiair gedurende zijn of haar stage in Nederland uitsluitend werkzaam zal zijn als stagiair bij de OPCW;  
+
+d. de stagiair geen familieleden meebrengt die bij hem of haar in Nederland zullen wonen, tenzij in overeenstemming met de desbetreffende immigratieprocedures;  
+
+e. de stagiair Nederland verlaat binnen 14 dagen na het einde van zijn of haar stage, tenzij hij of zij op andere gronden gerechtigd is in Nederland te verblijven in overeenstemming met de desbetreffende immigratiewetgeving.    
+
+4. Na registratie van de stagiair in overeenstemming met het derde lid, geeft het Ministerie van Buitenlandse Zaken aan de stagiair een identiteitskaart af.  
+
+5. De OPCW is niet aansprakelijk voor schade voortvloeiend uit niet-naleving door in overeenstemming met het derde lid geregistreerde stagiairs van de voorwaarden van de in dat lid bedoelde verklaring.  
+
+6. De stagiair geniet geen voorrechten of immuniteiten.  
+
+7. In uitzonderlijke omstandigheden kan het maximumtijdvak van zes maanden genoemd in het derde lid eenmaal worden verlengd met ten hoogste zes maanden.  
+
+8. De OPCW stelt het Ministerie van Buitenlandse Zaken binnen acht (8) dagen na het definitieve vertrek van de stagiair uit Nederland daarvan in kennis en retourneert daarbij de identiteitskaart van de stagiair.   Indien dit voorstel aanvaardbaar is voor de OPCW, stelt het Ministerie voor dat deze nota en de bevestigende antwoordnota van de OPCW tezamen een verdrag zullen vormen tussen het Koninkrijk der Nederlanden en de OPCW. Dit Verdrag wordt voorlopig toegepast vanaf de datum van dat antwoord en treedt in werking op de datum waarop het Koninkrijk der Nederlanden de OPCW er schriftelijk van in kennis heeft gesteld dat aan de wettelijke vereisten voor de inwerkingtreding is voldaan. Het Ministerie van Buitenlandse Zaken van het Koninkrijk der Nederlanden maakt van deze gelegenheid gebruik om de OPCW opnieuw te verzekeren van zijn zeer bijzondere hoogachting. *Organisatie voor het Verbod van Chemische Wapens* *’s-Gravenhage*   
+
+### Nr.  II  
+Wordt voorlopig toegepast per 10-02-2015 
+
+ORGANISATIE VOOR HET VERBOD VAN CHEMISCHE WAPENS ’s-Gravenhage, 10 februari 2015 NV/ERD/196156/15 De Organisatie voor het Verbod van Chemische Wapens biedt haar complimenten aan het Ministerie van Buitenlandse Zaken van het Koninkrijk der Nederlanden aan en heeft de eer de ontvangst te bevestigen van Nota MINBUZA-2015.47587 van het Ministerie van 10 februari 2015. De Organisatie voor het Verbod van Chemische Wapens heeft de eer het Ministerie van Buitenlandse Zaken ervan in kennis te stellen dat het voorstel zoals geformuleerd in Nota MINBUZA-2015.47587 van het Ministerie van 10 februari 2015 aanvaardbaar is voor de Organisatie voor het Verbod van Chemische Wapens. De Organisatie voor het Verbod van Chemische Wapens stemt er dienovereenkomstig mee in dat de nota van het Ministerie en dit antwoord een Verdrag zullen vormen tussen de Organisatie voor het Verbod van Chemische Wapens en het Koninkrijk der Nederlanden. Dit Verdrag wordt voorlopig toegepast vanaf de datum van dit antwoord en treedt in werking op de dag waarop het Koninkrijk der Nederlanden de Organisatie voor het Verbod van Chemische Wapens er schriftelijk van in kennis heeft gesteld dat aan de wettelijke vereisten voor de inwerkingtreding is voldaan. De Organisatie voor het Verbod van Chemische Wapens maakt van deze gelegenheid gebruik om het Ministerie van Buitenlandse Zaken van het Koninkrijk der Nederlanden opnieuw te verzekeren van haar zeer bijzondere hoogachting. *Ministerie van Buitenlandse Zaken* *Koninkrijk der Nederlanden* *’s-Gravenhage*   
