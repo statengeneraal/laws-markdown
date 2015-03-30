@@ -140,7 +140,7 @@ Deze overeenkomst treedt in werking op de dertigste dag na de laatste van de dat
 ####Beëindiging
 
 Deze overeenkomst blijft van kracht totdat zij door een van beide overeenkomstsluitende staten wordt beëindigd. Elke overeenkomstsluitende staat kan de overeenkomst langs diplomatieke weg beëindigen door ten minste zes maanden voor het einde van enig kalenderjaar na het verstrijken van een tijdvak van drie jaar na de datum van inwerkingtreding van de overeenkomst kennis te geven van beëindiging. In dat geval houdt de overeenkomst op van toepassing te zijn voor tijdvakken die aanvangen na het einde van het kalenderjaar waarin de kennisgeving van beëindiging is gegeven.
-Deze overeenkomst is opgesteld in de Sloveense, de Engelse en de Nederlandse taal, alle teksten zijnde gelijkelijk authentiek. In geval vanverschil van interpretatie tussen de teksten in de verschillende talen, is de Engelse tekst doorslaggevend.  *Voor de Republiek Slovenië*   *Voor het Koninkrijk der Nederlanden ten behoeve van de Nederlandse Antillen*  E. T. M. DE LANNOOY
+Deze overeenkomst is opgesteld in de Sloveense, de Engelse en de Nederlandse taal, alle teksten zijnde gelijkelijk authentiek. In geval van verschil van interpretatie tussen de teksten in de verschillende talen, is de Engelse tekst doorslaggevend.  *Voor de Republiek Slovenië*   *Voor het Koninkrijk der Nederlanden ten behoeve van de Nederlandse Antillen*  E. T. M. DE LANNOOY
 
 ###Bijlage 
 

@@ -1,14 +1,14 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Verdrag tot instelling van het Europees Stabiliteitsmechanisme tussen het Koninkrijk België, de Bondsrepubliek Duitsland, de Republiek Estland, Ierland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, de Italiaanse Republiek, de Republiek Cyprus, de Republiek Letland, het Groothertogdom Luxemburg, Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Portugese Republiek, de Republiek Slovenië, de Slowaakse Republiek en de Republiek Finland
+##Verdrag tot instelling van het Europees Stabiliteitsmechanisme tussen het Koninkrijk België, de Bondsrepubliek Duitsland, de Republiek Estland, Ierland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, de Italiaanse Republiek, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, het Groothertogdom Luxemburg, Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Portugese Republiek, de Republiek Slovenië, de Slowaakse Republiek en de Republiek Finland
 
-####Verdrag tot instelling van het Europees Stabiliteitsmechanisme tussen het Koninkrijk België, de Bondsrepubliek Duitsland, de Republiek Estland, Ierland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, de Italiaanse Republiek, de Republiek Cyprus, de Republiek Letland, het Groothertogdom Luxemburg, Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Portugese Republiek, de Republiek Slovenië, de Slowaakse Republiek en de Republiek Finland
+####Verdrag tot instelling van het Europees Stabiliteitsmechanisme tussen het Koninkrijk België, de Bondsrepubliek Duitsland, de Republiek Estland, Ierland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, de Italiaanse Republiek, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, het Groothertogdom Luxemburg, Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Portugese Republiek, de Republiek Slovenië, de Slowaakse Republiek en de Republiek Finland
 
-De verdragsluitende partijen, het Koninkrijk België, de Bondsrepubliek Duitsland, de Republiek Estland, Ierland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, de Italiaanse Republiek, de Republiek Cyprus, de Republiek Letland, het Groothertogdom Luxemburg, Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Portugese Republiek, de Republiek Slovenië, de Slowaakse Republiek en de Republiek Finland (de „lidstaten van de eurozone” of „ESM-leden”); Vastbesloten de financiële stabiliteit van de eurozone te waarborgen; Herinnerend aan de op 25 maart 2011 aangenomen conclusies van de Europese Raad betreffende de instelling van een Europees stabiliteitsmechanisme; Overwegende hetgeen volgt: 
+De verdragsluitende partijen, het Koninkrijk België, de Bondsrepubliek Duitsland, de Republiek Estland, Ierland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, de Italiaanse Republiek, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, het Groothertogdom Luxemburg, Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Portugese Republiek, de Republiek Slovenië, de Slowaakse Republiek en de Republiek Finland (de „lidstaten van de eurozone” of „ESM-leden”); Vastbesloten de financiële stabiliteit van de eurozone te waarborgen; Herinnerend aan de op 25 maart 2011 aangenomen conclusies van de Europese Raad betreffende de instelling van een Europees stabiliteitsmechanisme; Overwegende hetgeen volgt: 
 
 1. De Europese Raad heeft op 17 december 2010 overeenstemming bereikt over de noodzaak voor de lidstaten van de eurozone een permanent stabiliteitsmechanisme in te stellen. Dit Europees Stabiliteitsmechanisme („ESM”) zal de taken overnemen die momenteel door de Europese Faciliteit voor financiële stabiliteit („EFSF”) en het Europees financieel stabilisatiemechanisme („EFSM”) worden vervuld bij het verstrekken, indien nodig, van financiële bijstand aan lidstaten van de eurozone.  
 
-2. Op 25 maart 2011 heeft de Europese Raad Besluit 2011/199/EU tot wijziging van [artikel 136 van het Verdrag betreffende de werking van de Europese Unie](../../../../../../../../../../../../verdrag/verdrag/betreffende/de/werking/van/de/europese/unie/BWBV0001506/README.md) met betrekking tot een stabiliteitsmechanisme voor de lidstaten die de euro als munt hebben<sup> 2) PB L 91 van 6.4.2011, blz. 1. </sup> vastgesteld waarbij aan artikel 136 het volgende lid wordt toegevoegd: „De lidstaten die de euro als munt hebben kunnen een stabiliteitsmechanisme instellen dat geactiveerd wordt indien dat onontbeerlijk is om de stabiliteit van de eurozone in haar geheel te waarborgen. De verlening van financiële steun, indien vereist, uit hoofde van het mechanisme zal aan stringente voorwaarden gebonden zijn.”.  
+2. Op 25 maart 2011 heeft de Europese Raad Besluit 2011/199/EU tot wijziging van artikel 136 van het Verdrag betreffende de werking van de Europese Unie met betrekking tot een stabiliteitsmechanisme voor de lidstaten die de euro als munt hebben<sup> 2) PB L 91 van 6.4.2011, blz. 1. </sup> vastgesteld waarbij aan artikel 136 het volgende lid wordt toegevoegd: „De lidstaten die de euro als munt hebben kunnen een stabiliteitsmechanisme instellen dat geactiveerd wordt indien dat onontbeerlijk is om de stabiliteit van de eurozone in haar geheel te waarborgen. De verlening van financiële steun, indien vereist, uit hoofde van het mechanisme zal aan stringente voorwaarden gebonden zijn.”.  
 
 3. Om de doeltreffendheid van de financiële bijstand te verhogen en het risico op financiële besmetting te voorkomen, zijn de staatshoofden dan wel regeringsleiders van de lidstaten die de euro als munt hebben op 21 juli 2011 overeengekomen „[het ESM] flexibeler te maken, verbonden met passende conditionaliteit”.  
 
@@ -36,9 +36,9 @@ De verdragsluitende partijen, het Koninkrijk België, de Bondsrepubliek Duitslan
 
 15. In de ESM-leningsvoorwaarden voor lidstaten waarvoor een macro-economisch aanpassingsprogramma geldt, met inbegrip van de voorwaarden bedoeld in artikel 40 van dit Verdrag, moeten de financierings- en operationele kosten van het ESM worden afgedekt; de voorwaarden dienen aan te sluiten bij de leningsvoorwaarden van de overeenkomsten inzake financiële bijstand die ondertekend werden tussen de EFSF, Ierland en de Central Bank of Ireland enerzijds en de EFSF, de Portugese Republiek en de Banco de Portugal anderzijds.  
 
-16. Geschillen tussen de Verdragsluitende partijen onderling of tussen de Verdragsluitende partijen en het ESM in verband met de uitlegging en de toepassing van dit Verdrag, dienen overeenkomstig [artikel 273 van het Verdrag betreffende de werking van de Europese Unie](../../../../../../../../../../../../verdrag/verdrag/betreffende/de/werking/van/de/europese/unie/BWBV0001506/README.md) („VWEU”) aan de rechtsmacht van het Hof van Justitie van de Europese Unie te worden onderworpen.  
+16. Geschillen tussen de Verdragsluitende partijen onderling of tussen de Verdragsluitende partijen en het ESM in verband met de uitlegging en de toepassing van dit Verdrag, dienen overeenkomstig artikel 273 van het Verdrag betreffende de werking van de Europese Unie („VWEU”) aan de rechtsmacht van het Hof van Justitie van de Europese Unie te worden onderworpen.  
 
-17. Het post-programmatoezicht zal worden uitgeoefend door de Europese Commissie en de Raad van de Europese Unie binnen het kader dat in de [artikelen 121](../../../../../../../../../../../../verdrag/verdrag/betreffende/de/werking/van/de/europese/unie/BWBV0001506/README.md) en [136 VWEU](../../../../../../../../../../../../verdrag/verdrag/betreffende/de/werking/van/de/europese/unie/BWBV0001506/README.md) is vastgelegd,     Zijn overeengekomen hetgeen volgt:     
+17. Het post-programmatoezicht zal worden uitgeoefend door de Europese Commissie en de Raad van de Europese Unie binnen het kader dat in de artikelen 121 en 136 VWEU is vastgelegd,     Zijn overeengekomen hetgeen volgt:     
 ### HOOFDSTUK  1  
 
 ####LIDMAATSCHAP EN DOEL
@@ -54,7 +54,7 @@ De verdragsluitende partijen, het Koninkrijk België, de Bondsrepubliek Duitslan
 
 ####Nieuwe leden
 
-1.  Het lidmaatschap van het ESM staat open voor de andere lidstaten van de Europese Unie vanaf de inwerkingtreding van het overeenkomstig [artikel 140, lid 2, VWEU](../../../../../../../../../../../../verdrag/verdrag/betreffende/de/werking/van/de/europese/unie/BWBV0001506/README.md) vastgestelde besluit van de Raad van de Europese Unie tot intrekking van hun derogatie de euro aan te nemen.   
+1.  Het lidmaatschap van het ESM staat open voor de andere lidstaten van de Europese Unie vanaf de inwerkingtreding van het overeenkomstig artikel 140, lid 2, VWEU vastgestelde besluit van de Raad van de Europese Unie tot intrekking van hun derogatie de euro aan te nemen.   
 2.  Nieuwe ESM-leden worden overeenkomstig artikel 44 onder dezelfde voorwaarden als bestaande ESM-leden tot het ESM toegelaten.   
 3.  Een nieuwe lidstaat die tot het ESM toetreedt na de instelling ervan, ontvangt aandelen in het ESM in ruil voor zijn kapitaalinbreng, die wordt berekend overeenkomstig de in artikel 11 bepaalde bijdragesleutel.  
 
@@ -86,7 +86,7 @@ Het doel van het ESM is het vrijmaken van middelen en het verstrekken van stabil
 ####Raad van gouverneurs
 
 1.  Elk ESM-lid benoemt een gouverneur en een plaatsvervangend gouverneur. Deze benoemingen zijn te allen tijde herroepbaar. De gouverneur is een lid van de regering van dit ESM-lid en draagt verantwoordelijkheid voor financiën. De plaatsvervangend gouverneur is volledig bevoegd om namens de gouverneur op te treden wanneer deze niet aanwezig is.   
-2.  De Raad van gouverneurs besluit ofwel te worden voorgezeten door de voorzitter van de Eurogroep, als bedoeld in [Protocol (nr. 14) betreffende de Eurogroep](../../../../../../../../../../../../verdrag/verdrag/betreffende/de/europese/unie/BWBV0001507/README.md) dat aan het [Verdrag betreffende de Europese Unie](../../../../../../../../../../../../verdrag/verdrag/betreffende/de/europese/unie/BWBV0001507/README.md) en aan het [VWEU](../../../../../../../../../../../../verdrag/verdrag/betreffende/de/werking/van/de/europese/unie/BWBV0001506/README.md) is gehecht, ofwel om uit zijn leden een voorzitter en een vicevoorzitter te kiezen voor een periode van twee jaar. De voorzitter en de vicevoorzitter kunnen worden herverkozen. Er wordt onverwijld een nieuwe verkiezing georganiseerd indien de zittende voorzitter of vicevoorzitter niet langer de vereiste functie bekleedt om als gouverneur te worden aangewezen.   
+2.  De Raad van gouverneurs besluit ofwel te worden voorgezeten door de voorzitter van de Eurogroep, als bedoeld in Protocol (nr. 14) betreffende de Eurogroep dat aan het Verdrag betreffende de Europese Unie en aan het VWEU is gehecht, ofwel om uit zijn leden een voorzitter en een vicevoorzitter te kiezen voor een periode van twee jaar. De voorzitter en de vicevoorzitter kunnen worden herverkozen. Er wordt onverwijld een nieuwe verkiezing georganiseerd indien de zittende voorzitter of vicevoorzitter niet langer de vereiste functie bekleedt om als gouverneur te worden aangewezen.   
 3.  Het lid van de Europese Commissie belast met economische en monetaire zaken en de president van de ECB, alsook de voorzitter van de Eurogroep (indien hij niet de voorzitter van de Raad van gouverneurs of een gouverneur is), mogen aan de vergaderingen van de Raad van gouverneurs deelnemen als waarnemers.   
 4.  Ook vertegenwoordigers van lidstaten van buiten de eurozone die, naast het ESM, op ad-hocbasis aan operaties voor stabiliteitssteun aan een lidstaat van de eurozone deelnemen, worden als waarnemers uitgenodigd op de vergaderingen van de Raad van gouverneurs waarop deze stabiliteitssteun en het monitoren ervan worden besproken.   
 5.  Andere personen, zoals onder meer vertegenwoordigers van instellingen of organisaties, zoals het IMF, kunnen door de Raad van gouverneurs op ad-hocbasis worden uitgenodigd om vergaderingen bij te wonen als waarnemers.   
@@ -180,8 +180,8 @@ n. alle andere noodzakelijke besluiten waarin dit Verdrag niet uitdrukkelijk voo
 
 ####Maatschappelijk kapitaal
 
-1.  Het maatschappelijk kapitaal bedraagt 701.935,3 miljoen EUR. Het is verdeeld in zeven miljoen negentienduizend driehonderddrieënvijftig aandelen, elk met een nominale waarde van 100 000 EUR, waarop kan worden ingeschreven volgens de in artikel 11 omschreven en in bijlage I bepaalde oorspronkelijke bijdragesleutel.   
-2.  Het maatschappelijk kapitaal is verdeeld in volgestorte aandelen en niet-volgestorte aandelen. De oorspronkelijke totale geaggregeerde nominale waarde van de volgestorte aandelen bedraagt 80.221,2 miljoen EUR. De aandelen in het maatschappelijk kapitaal waarop aanvankelijk wordt ingeschreven, worden uitgegeven a pari. De andere aandelen worden eveneens a pari uitgegeven, tenzij de Raad van gouverneurs onder bijzondere omstandigheden besluit deze onder andere voorwaarden uit te geven.   
+1.  Het maatschappelijk kapitaal bedraagt 704.798,7 miljoen EUR. Het is verdeeld in zeven miljoen zevenenveertigduizend negenhonderdzevenentachtig aandelen, elk met een nominale waarde van 100 000 EUR, waarop kan worden ingeschreven volgens de in artikel 11 omschreven en in bijlage I bepaalde oorspronkelijke bijdragesleutel.   
+2.  Het maatschappelijk kapitaal is verdeeld in volgestorte aandelen en niet-volgestorte aandelen. De oorspronkelijke totale geaggregeerde nominale waarde van de volgestorte aandelen bedraagt 80.548,4 miljoen EUR. De aandelen in het maatschappelijk kapitaal waarop aanvankelijk wordt ingeschreven, worden uitgegeven a pari. De andere aandelen worden eveneens a pari uitgegeven, tenzij de Raad van gouverneurs onder bijzondere omstandigheden besluit deze onder andere voorwaarden uit te geven.   
 3.  De aandelen in het maatschappelijk kapitaal worden op generlei wijze verpand of bezwaard en zijn slechts overdraagbaar ingeval de overdrachten ten doel hebben uitvoering te geven aan aanpassingen in de in artikel 11 bepaalde bijdragesleutel, waarbij aandelen in die mate worden overgedragen dat de verdeling van de aandelen met de aangepaste sleutel overeenkomt.   
 4.  De ESM-leden verbinden er zich hierbij onherroepelijk en onvoorwaardelijk toe hun bijdrage tot het maatschappelijk kapitaal te leveren overeenkomstig hun in bijlage I vermelde bijdragesleutel. Zij geven tijdig gevolg aan alle opvragingen van kapitaal overeenkomstig de in dit Verdrag vastgelegde voorwaarden.   
 5.  De aansprakelijkheid van elk ESM-lid blijft onder alle omstandigheden beperkt tot zijn aandeel in het maatschappelijk kapitaal tegen de uitgifteprijs ervan. De ESM-leden zijn niet op grond van hun lidmaatschap aansprakelijk voor verplichtingen van het ESM. De verplichting van ESM-leden om overeenkomstig dit Verdrag tot het maatschappelijk kapitaal bij te dragen, wordt onverlet gelaten door het feit dat een dergelijk ESM-lid in aanmerking komt voor financiële bijstand van het ESM of dergelijke bijstand ontvangt.  
@@ -207,7 +207,7 @@ n. alle andere noodzakelijke besluiten waarin dit Verdrag niet uitdrukkelijk voo
 
 ####Bijdragesleutel
 
-1.  De bijdragesleutel voor de inschrijving op het maatschappelijk kapitaal van het ESM is, behoudens de leden 2 en 3, gebaseerd op de sleutel voor de inschrijving van de nationale centrale banken van de ESM-leden op het kapitaal van de ECB, welke is vastgesteld overeenkomstig [artikel 29 van Protocol (nr. 4) betreffende de statuten van het Europees Stelsel van centrale banken en van de Europese Centrale Bank (de „ESCB-statuten”)](../../../../../../../../../../../../verdrag/verdrag/betreffende/de/europese/unie/BWBV0001507/README.md), dat aan het [Verdrag betreffende de Europese Unie](../../../../../../../../../../../../verdrag/verdrag/betreffende/de/europese/unie/BWBV0001507/README.md) en aan het [VWEU](../../../../../../../../../../../../verdrag/verdrag/betreffende/de/werking/van/de/europese/unie/BWBV0001506/README.md) is gehecht.   
+1.  De bijdragesleutel voor de inschrijving op het maatschappelijk kapitaal van het ESM is, behoudens de leden 2 en 3, gebaseerd op de sleutel voor de inschrijving van de nationale centrale banken van de ESM-leden op het kapitaal van de ECB, welke is vastgesteld overeenkomstig artikel 29 van Protocol (nr. 4) betreffende de statuten van het Europees Stelsel van centrale banken en van de Europese Centrale Bank (de „ESCB-statuten”), dat aan het Verdrag betreffende de Europese Unie en aan het VWEU is gehecht.   
 2.  De bijdragesleutel voor de inschrijving op het maatschappelijk kapitaal van het ESM is vermeld in bijlage I.   
 3.  De bijdragesleutel voor de inschrijving op het maatschappelijk kapitaal van het ESM wordt aangepast wanneer: 
 
@@ -243,7 +243,7 @@ b. te onderzoeken of de overheidsschuld houdbaar is. Verwacht wordt dat een derg
 
 c. de reële of potentiële financieringsbehoeften van het betrokken ESM-lid.     
 2.  Op grond van het verzoek van het ESM-lid en de in lid 1 bedoelde beoordeling kan de Raad van gouverneurs besluiten om, in beginsel, stabiliteitssteun aan het betrokken ESM-lid toe te kennen in de vorm van een financiële-bijstandfaciliteit.   
-3.  Indien een besluit overeenkomstig lid 2 wordt vastgesteld, draagt de Raad van gouverneurs de Europese Commissie op om – in overleg met de ECB en, steeds als dit mogelijk is, samen met het IMF – met het betrokken ESM-lid te onderhandelen over een memorandum van overeenstemming waarin de aan de financiële-bijstandfaciliteit verbonden voorwaarden worden beschreven. In de inhoud van het memorandum van overeenstemming worden de ernst van de aan te pakken zwakke punten en het gekozen financiële-bijstandinstrument aangegeven. Tegelijkertijd stelt de directeur van het ESM een door de Raad van gouverneurs aan te nemen voorstel voor een akkoord over een financiële-bijstandfaciliteit op waarin de financiële en andere voorwaarden en de keuze van instrumenten zijn vastgelegd. Het memorandum van overeenstemming is volledig consistent met de maatregelen tot coördinatie van het economische beleid waarin het [VWEU](../../../../../../../../../../../../verdrag/verdrag/betreffende/de/werking/van/de/europese/unie/BWBV0001506/README.md) voorziet, in het bijzonder met alle rechtsbesluiten van de Europese Unie, met inbegrip van adviezen, waarschuwingen, aanbevelingen of besluiten die tot het betrokken ESM-lid worden gericht.   
+3.  Indien een besluit overeenkomstig lid 2 wordt vastgesteld, draagt de Raad van gouverneurs de Europese Commissie op om – in overleg met de ECB en, steeds als dit mogelijk is, samen met het IMF – met het betrokken ESM-lid te onderhandelen over een memorandum van overeenstemming waarin de aan de financiële-bijstandfaciliteit verbonden voorwaarden worden beschreven. In de inhoud van het memorandum van overeenstemming worden de ernst van de aan te pakken zwakke punten en het gekozen financiële-bijstandinstrument aangegeven. Tegelijkertijd stelt de directeur van het ESM een door de Raad van gouverneurs aan te nemen voorstel voor een akkoord over een financiële-bijstandfaciliteit op waarin de financiële en andere voorwaarden en de keuze van instrumenten zijn vastgelegd. Het memorandum van overeenstemming is volledig consistent met de maatregelen tot coördinatie van het economische beleid waarin het VWEU voorziet, in het bijzonder met alle rechtsbesluiten van de Europese Unie, met inbegrip van adviezen, waarschuwingen, aanbevelingen of besluiten die tot het betrokken ESM-lid worden gericht.   
 4.  De Europese Commissie ondertekent het memorandum van overeenstemming namens het ESM, mits vooraf aan de voorwaarden van lid 3 is voldaan en de Raad van gouverneurs daarmee instemt.   
 5.  De Raad van bewind hecht zijn goedkeuring aan het akkoord over de financiële-bijstandfaciliteit, dat de financiële aspecten van de toe te kennen stabiliteitssteun bevat, en, in voorkomend geval, aan de uitbetaling van de eerste tranche van de bijstand.   
 6.  Het ESM zet een adequaat waarschuwingssysteem op om te garanderen dat het alle terugbetalingen die het ESM-lid in het kader van de stabiliteitssteun gehouden is te verrichten, tijdig ontvangt.   
@@ -266,7 +266,7 @@ c. de reële of potentiële financieringsbehoeften van het betrokken ESM-lid.
 
 1.  De Raad van gouverneurs kan besluiten een ESM-lid financiële bijstand in de vorm van leningen te verlenen met het specifieke doel de financiële instellingen van dat ESM-lid te herkapitaliseren.   
 2.  De voorwaarden die aan financiële bijstand voor de herkapitalisatie van financiële instellingen van een ESM-lid verbonden zijn, worden overeenkomstig artikel 13, lid 3, beschreven in het memorandum van overeenstemming.   
-3.  Onverminderd de [artikelen 107](../../../../../../../../../../../../verdrag/verdrag/betreffende/de/werking/van/de/europese/unie/BWBV0001506/README.md) en [108 VWEU](../../../../../../../../../../../../verdrag/verdrag/betreffende/de/werking/van/de/europese/unie/BWBV0001506/README.md) worden de financiële en andere voorwaarden die aan financiële bijstand voor de herkapitalisatie van financiële instellingen van een ESM-lid verbonden zijn, vastgelegd in een door de directeur te ondertekenen akkoord over de financiële-bijstandfaciliteit.   
+3.  Onverminderd de artikelen 107 en 108 VWEU worden de financiële en andere voorwaarden die aan financiële bijstand voor de herkapitalisatie van financiële instellingen van een ESM-lid verbonden zijn, vastgelegd in een door de directeur te ondertekenen akkoord over de financiële-bijstandfaciliteit.   
 4.  De Raad van bewind stelt de gedetailleerde richtsnoeren vast die gelden voor de regels van tenuitvoerlegging van financiële bijstand voor de herkapitalisatie van financiële instellingen van een ESM-lid.   
 5.  In voorkomend geval, neemt de Raad van bewind in onderlinge overeenstemming op voorstel van de directeur en na ontvangst van een verslag van de Europese Commissie overeenkomstig artikel 13, lid 7, een besluit over de uitbetaling van de na de eerste tranche volgende tranches van de financiële bijstand.  
 
@@ -347,7 +347,7 @@ De Raad kan de lijst van financiële-bijstandinstrumenten waarin de artikelen 14
 ####Reservefonds en andere fondsen
 
 1.  De Raad van gouverneurs stelt een reservefonds en, indien nodig, andere fondsen in.   
-2.  Onverminderd artikel 23, worden de uit de ESM-operaties voortvloeiende netto-inkomsten en de van de ESM-leden ontvangen opbrengsten van de financiële sancties uit hoofde van de multilaterale toezichtprocedure, de buitensporigtekortprocedure en de procedure bij macro-economische onevenwichtigheden in het kader van het [VWEU](../../../../../../../../../../../../verdrag/verdrag/betreffende/de/werking/van/de/europese/unie/BWBV0001506/README.md) opzijgezet in een reservefonds.   
+2.  Onverminderd artikel 23, worden de uit de ESM-operaties voortvloeiende netto-inkomsten en de van de ESM-leden ontvangen opbrengsten van de financiële sancties uit hoofde van de multilaterale toezichtprocedure, de buitensporigtekortprocedure en de procedure bij macro-economische onevenwichtigheden in het kader van het VWEU opzijgezet in een reservefonds.   
 3.  De middelen van het reservefonds worden belegd overeenkomstig door de Raad van bewind vast te stellen richtsnoeren.   
 4.  De Raad van bewind stelt alle regels vast die vereist zijn voor het instellen, het beheer en het gebruik van andere fondsen.  
 
@@ -517,11 +517,11 @@ Tijdens de overgangsfase die loopt van de inwerkingtreding van dit Verdrag tot d
 1.  Aanvankelijk schrijven de ESM-leden op het maatschappelijk kapitaal in op basis van de in bijlage I vermelde oorspronkelijke bijdragesleutel. De tijdelijke correctie die in deze oorspronkelijke bijdragesleutel is verwerkt, is van toepassing voor een periode van twaalf jaar te rekenen vanaf de datum van aanneming van de euro door het betrokken ESM-lid.   
 2.  Indien het in euro luidend bruto binnenlands product (bbp) per capita tegen marktprijzen van een nieuw ESM-lid in het jaar onmiddellijk voorafgaand aan zijn toetreding tot het ESM minder dan 75% van het gemiddeld bbp per capita tegen marktprijzen van de Europese Unie bedraagt, dan wordt op zijn overeenkomstig artikel 10 vastgestelde bijdragesleutel voor de inschrijving op het maatschappelijk kapitaal van het ESM een tijdelijke correctie toegepast en is deze gelijk aan de som van: 
 
-a. 25% van het procentuele aandeel in het ECB-kapitaal van de nationale centrale bank van het betrokken ESM-lid, zoals bepaald overeenkomstig [artikel 29 van de ESCB-statuten](../../../../../../../../../../../../verdrag/verdrag/betreffende/de/europese/unie/BWBV0001507/README.md); en  
+a. 25% van het procentuele aandeel in het ECB-kapitaal van de nationale centrale bank van het betrokken ESM-lid, zoals bepaald overeenkomstig artikel 29 van de ESCB-statuten; en  
 
 b. 75% van het procentuele aandeel van het betrokken ESM-lid in het in euro luidend bruto nationaal inkomen (bni) tegen marktprijzen van de eurozone in het jaar onmiddellijk voorafgaand aan zijn toetreding tot het ESM. De onder a) en b) bedoelde percentages worden naar onder of naar boven afgerond op het kleinste veelvoud van 0,0001 procentpunt. De statistische termen zijn die gepubliceerd door Eurostat.     
 3.  Deze in lid 2 bedoelde tijdelijke correctie is van toepassing voor een periode van twaalf jaar te rekenen vanaf de datum van aanneming van de euro door het betrokken ESM-lid.   
-4.  Als gevolg van de tijdelijke correctie van de sleutel wordt het betreffende gedeelte van de krachtens lid 2 aan een ESM-lid toegewezen aandelen onder de ESM-leden die geen tijdelijke correctie genieten herverdeeld op basis van het overeenkomstig [artikel 29 van de ESCB-statuten](../../../../../../../../../../../../verdrag/verdrag/betreffende/de/europese/unie/BWBV0001507/README.md) vastgestelde aandelenbezit in de ECB onmiddellijk voorafgaand aan de uitgifte van aandelen aan het toetredende ESM-lid.  
+4.  Als gevolg van de tijdelijke correctie van de sleutel wordt het betreffende gedeelte van de krachtens lid 2 aan een ESM-lid toegewezen aandelen onder de ESM-leden die geen tijdelijke correctie genieten herverdeeld op basis van het overeenkomstig artikel 29 van de ESCB-statuten vastgestelde aandelenbezit in de ECB onmiddellijk voorafgaand aan de uitgifte van aandelen aan het toetredende ESM-lid.  
 
 ### Artikel  43  
 
@@ -538,7 +538,7 @@ b. 75% van het procentuele aandeel van het betrokken ESM-lid in het in euro luid
 
 ####Toetreding
 
-Overeenkomstig artikel 2 staat dit Verdrag open voor toetreding door andere lidstaten van de Europese Unie na indiening van een toetredingsaanvraag door een dergelijke lidstaat van de Europese Unie bij het ESM nadat de Raad van de Europese Unie overeenkomstig [artikel 140, lid 2, VWEU](../../../../../../../../../../../../verdrag/verdrag/betreffende/de/werking/van/de/europese/unie/BWBV0001506/README.md) het besluit tot intrekking van zijn derogatie de euro aan te nemen heeft vastgesteld. De Raad van gouverneurs hecht zijn goedkeuring aan de toetredingsaanvraag van het nieuwe ESM-lid en aan de aan de toetreding verbonden gedetailleerde technische voorwaarden, alsook aan de aanpassingen die als rechtstreeks gevolg van de toetreding aan het Verdrag moeten worden aangebracht. Na de goedkeuring van de aanvraag door de Raad van gouverneurs treden de nieuwe ESM-leden toe na neerlegging van de akten van toetreding bij de depositaris, die de andere ESM-leden daarvan in kennis stelt. 
+Overeenkomstig artikel 2 staat dit Verdrag open voor toetreding door andere lidstaten van de Europese Unie na indiening van een toetredingsaanvraag door een dergelijke lidstaat van de Europese Unie bij het ESM nadat de Raad van de Europese Unie overeenkomstig artikel 140, lid 2, VWEU het besluit tot intrekking van zijn derogatie de euro aan te nemen heeft vastgesteld. De Raad van gouverneurs hecht zijn goedkeuring aan de toetredingsaanvraag van het nieuwe ESM-lid en aan de aan de toetreding verbonden gedetailleerde technische voorwaarden, alsook aan de aanpassingen die als rechtstreeks gevolg van de toetreding aan het Verdrag moeten worden aangebracht. Na de goedkeuring van de aanvraag door de Raad van gouverneurs treden de nieuwe ESM-leden toe na neerlegging van de akten van toetreding bij de depositaris, die de andere ESM-leden daarvan in kennis stelt. 
 
 ### Artikel  45  
 
@@ -571,32 +571,33 @@ Dit Verdrag wordt neergelegd bij het secretariaat-generaal van de Raad van de Eu
 2.  Dit Verdrag treedt voor elke ondertekenaar die nadien zijn akte van bekrachtiging, goedkeuring of aanvaarding neerlegt, in werking op de dag volgend op de datum van neerlegging.   
 3.  Voor elke lidstaat die overeenkomstig artikel 44 tot dit Verdrag toetreedt, treedt dit Verdrag in werking op de twintigste dag volgend op de neerlegging van zijn akte van toetreding.  
 
-GEDAAN te Brussel op de tweede februari van het jaar tweeduizend en twaalf in één oorspronkelijk exemplaar, waarvan de Duitse, Engelse, Estse, Finse, Franse, Griekse, Ierse, Italiaanse, Maltese, Nederlandse, Portugese, Sloveense, Slowaakse, Spaanse en Zweedse tekst gelijkelijk authentiek zijn; het wordt neergelegd in het archief van de depositaris, die een naar behoren voor eensluidend gewaarmerkt afschrift doet toekomen aan alle verdragspartijen. Bij de toetreding van de Republiek Letland wordt de Letse tekst gelijkelijk authentiek; deze wordt neergelegd in het archief van de depositaris, die een naar behoren voor eensluidend gewaarmerkt afschrift doet toekomen aan alle verdragspartijen. 
+GEDAAN te Brussel op de tweede februari van het jaar tweeduizend en twaalf in één oorspronkelijk exemplaar, waarvan de Duitse, Engelse, Estse, Finse, Franse, Griekse, Ierse, Italiaanse, Maltese, Nederlandse, Portugese, Sloveense, Slowaakse, Spaanse en Zweedse tekst gelijkelijk authentiek zijn; het wordt neergelegd in het archief van de depositaris, die een naar behoren voor eensluidend gewaarmerkt afschrift doet toekomen aan alle verdragspartijen. Bij de toetreding van de Republiek Letland wordt de Letse tekst gelijkelijk authentiek; deze wordt neergelegd in het archief van de depositaris, die een naar behoren voor eensluidend gewaarmerkt afschrift doet toekomen aan alle verdragspartijen.Bij de toetreding van de Republiek Litouwen wordt de Litouwse tekst gelijkelijk authentiek; deze wordt neergelegd in het archief van de depositaris, die een naar behoren voor eensluidend gewaarmerkt afschrift doet toekomen aan alle verdragspartijen. 
 
 ### Bijlage  I  
 
 ####Sleutel voor de ESM-bijdrage
 
-| *ESM-lid*  | *ESM-sleutel (%)*  |
+| ESM-lid  | ESM-sleutel (%)  |
 |:---|:---|
-| Koninkrijk België  | 3,4675  |
-| Bondsrepubliek Duitsland  | 27,0716  |
-| Republiek Estland  | 0,1855  |
-| Ierland  | 1,5878  |
-| Helleense Republiek  | 2,8089  |
-| Koninkrijk Spanje  | 11,8709  |
-| Franse Republiek  | 20,3297  |
-| Italiaanse Republiek  | 17,8643  |
-| Republiek Cyprus  | 0,1957  |
-| Republiek Letland  | 0,2757  |
-| Groothertogdom Luxemburg  | 0,2497  |
-| Malta  | 0,0729  |
-| Koninkrijk der Nederlanden  | 5,7012  |
-| Republiek Oostenrijk  | 2,7757  |
-| Portugese Republiek  | 2,5023  |
-| Republiek Slovenië  | 0,4264  |
-| Slowaakse Republiek  | 0,8217  |
-| Republiek Finland  | 1,7924  |
+| Koninkrijk België  | 3,4534  |
+| Bondsrepubliek Duitsland  | 26,9616  |
+| Republiek Estland  | 0,1847  |
+| Ierland  | 1,5814  |
+| Helleense Republiek  | 2,7975  |
+| Koninkrijk Spanje  | 11,8227  |
+| Franse Republiek  | 20,2471  |
+| Italiaanse Republiek  | 17,7917  |
+| Republiek Cyprus  | 0,1949  |
+| Republiek Letland  | 0,2746  |
+|Republiek Litouwen |0,4063 |
+| Groothertogdom Luxemburg  | 0,2487  |
+| Malta  | 0,0726  |
+| Koninkrijk der Nederlanden  | 5,6781  |
+| Republiek Oostenrijk  | 2,7644  |
+| Portugese Republiek  | 2,4921  |
+| Republiek Slovenië  | 0,4247  |
+| Slowaakse Republiek  | 0,8184  |
+| Republiek Finland  | 1,7852  |
 | *Totaal*  | *100,0*  |
 
 De bovenstaande getallen zijn afgerond tot de vierde decimaal.  
@@ -605,7 +606,7 @@ De bovenstaande getallen zijn afgerond tot de vierde decimaal.
 
 ####Inschrijvingen op het maatschappelijk kapitaal
 
-| *ESM-lid*  | *Aantal aandelen*  | *Inschrijving op het kapitaal (EUR)*  |
+| ESM-lid  | Aantal aandelen  | Inschrijving op het kapitaal (EUR)  |
 |:---|:---|:---|
 | Koninkrijk België  | 243.397  | 24.339.700.000  |
 | Bondsrepubliek Duitsland  | 1.900.248  | 190.024.800.000  |
@@ -617,6 +618,7 @@ De bovenstaande getallen zijn afgerond tot de vierde decimaal.
 | Italiaanse Republiek  | 1.253.959  | 125.395.900.000  |
 | Republiek Cyprus  | 13.734  | 1.373.400.000  |
 | Republiek Letland  | 19.353  | 1.935.300.000  |
+|Republiek Litouwen |28.634 |2.863.400.000 |
 | Groothertogdom Luxemburg  | 17.528  | 1.752.800.000  |
 | Malta  | 5.117  | 511.700.000  |
 | Koninkrijk der Nederlanden  | 400.190  | 40.019.000.000  |
@@ -625,5 +627,5 @@ De bovenstaande getallen zijn afgerond tot de vierde decimaal.
 | Republiek Slovenië  | 29.932  | 2.993.200.000  |
 | Slowaakse Republiek  | 57.680  | 5.768.000.000  |
 | Republiek Finland  | 125.818  | 12.581.800.000  |
-| *Totaal*  | *7.019.353*  | *701.935.300.000*  |
+| *Totaal*  | *7.047.987*  | *704.798.700.000*  |
 

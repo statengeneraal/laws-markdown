@@ -4,15 +4,11 @@
 
 ####Agreement between the Kingdom of the Netherlands, in respect of Aruba, and the United Mexican States for the exchange of information with respect to taxes
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 The Kingdom of the Netherlands, in respect of Aruba, and the United Mexican States Desiring to facilitate the exchange of information with respect to taxes;   Have agreed as follows:    
 
 ### Article  1  
 
 ####Object and Scope of this Agreement
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  The competent authorities of the Contracting Parties shall provide assistance through exchange of information that is foreseeably relevant to the administration and enforcement of the domestic laws of the Contracting Parties concerning taxes covered by this Agreement. Such information shall include information that is foreseeably relevant to the determination, assessment and collection of such taxes, the recovery and enforcement of tax claims, or the investigation or prosecution of tax matters. Information shall be exchanged in accordance with the provisions of this Agreement and shall be treated as confidential in the manner provided in Article 8. The rights and safeguards secured to persons by the laws or administrative practice of the Requested Party remain applicable to the extent that they do not unduly prevent or delay effective exchange of information.   
 2.  As regards the Kingdom of the Netherlands, this Agreement shall apply only to Aruba.  
@@ -21,23 +17,17 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Jurisdiction
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 The Requested Party is not obligated to provide information which is neither held by its authorities nor in the possession or control of persons who are within its territorial jurisdiction. 
 
 ### Article  3  
 
 ####Interpretation
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 The competent authorities may take into consideration the commentaries pertaining to the 2002 Agreement on Exchange of Information on Tax Matters of the Organisation for Economic Cooperation and Development (OECD Model Agreement) when interpreting provisions of this Agreement that are identical to the provisions in that OECD Model Agreement. 
 
 ### Article  4  
 
 ####Taxes Covered
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  The existing taxes which are the subject of this Agreement are taxes of every kind and description in both Contracting Parties.   
 2.  This Agreement shall also apply to any identical or substantially similar taxes imposed after the date of signature of this Agreement in addition to or in place of the existing taxes. The competent authorities of the Contracting Parties shall notify each other of any substantial changes to the taxation and related information gathering measures covered by this Agreement.   
@@ -46,8 +36,6 @@ Treedt in werking op een nader te bepalen tijdstip
 ### Article  5  
 
 ####Definitions
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  For the purposes of this Agreement, unless otherwise defined: 
 
@@ -90,8 +78,6 @@ q) the term “criminal tax matters” means tax matters involving intentional c
 
 ####Exchange of Information
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  The competent authorities of the Contracting Parties shall exchange information in order to administer and enforce the provisions of their domestic laws concerning the taxes covered by this Agreement, including information to effect the determination, assessment, and collection of such taxes, and the recovery and enforcement of tax claims, or the investigation or prosecution of tax matters.   
 2.  The laws or practices of the Requested Party regarding the reception and disclosure of the information referred to in this Agreement, shall not prevent nor affect the correspondent measures of the competent authority of the Requested Party to obtain and provide information: 
 
@@ -126,8 +112,6 @@ f) certify either that the procedures requested by the competent authority of th
 
 ####Possibility of Declining a Request
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  The Requested Party shall not be required to obtain or provide information that the Applicant Party would not be able to obtain under its own laws for purposes of the administration or enforcement of its own tax laws. The competent authority of the Requested Party may decline to assist where the request is not made in conformity with this Agreement.   
 2.  The provisions of this Agreement shall not impose on a Contracting Party the obligation to supply information which would disclose any trade, business, industrial, commercial or professional secret or trade process. Notwithstanding the foregoing, information of the type referred to in paragraph 2 of Article 6 shall not be treated as such a secret or trade process merely because it meets the criteria in that paragraph.   
 3.  The provisions of this Agreement shall not impose on a Contracting Party the obligation to obtain or provide information, which would reveal confidential communications between a client and an attorney, solicitor or other admitted legal representative where such communications are: 
@@ -143,15 +127,11 @@ b) produced for the purposes of use in existing or contemplated legal proceeding
 
 ####Confidentiality
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 Any information received by a Contracting Party under this Agreement shall be treated as confidential and may be disclosed only to persons or authorities (including courts and administrative bodies) in the jurisdiction of the Contracting Party concerned with the assessment or collection of, the enforcement or prosecution in respect of, or the determination of appeals in relation to, the taxes covered by this Agreement. Such persons or authorities shall use such information only for such purposes. They may disclose the information in public court proceedings or in judicial decisions. The information may not be disclosed to any other person or entity or authority or any other jurisdiction without the express written consent of the competent authority of the Requested Party. 
 
 ### Article  9  
 
 ####Costs
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 Unless the competent authorities of the Contracting Parties otherwise agree, ordinary costs incurred in providing assistance shall be borne by the Requested Party, and extraordinary costs incurred in providing assistance (including reasonable costs of engaging external advisors in connection with litigation or otherwise) shall be borne by the Applicant Party. At the request of either Contracting Party, the competent authorities shall consult as necessary with regard to this Article, and in particular the competent authority of the Requested Party shall consult with the competent authority of the Applicant Party in advance if the costs of providing information with respect to a specific request are expected to be significant. 
 
@@ -159,15 +139,11 @@ Unless the competent authorities of the Contracting Parties otherwise agree, ord
 
 ####Implementation Legislation
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 The Contracting Parties shall enact any legislation necessary to comply with, and give effect to the terms of this Agreement. 
 
 ### Article  11  
 
 ####Mutual Agreement Procedure
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  The competent authorities of the Contracting Parties shall jointly endeavour to resolve any difficulties or doubts arising as to the interpretation or application of this Agreement.   
 2.  In addition to the endeavours referred to in paragraph 1, the competent authorities of the Contracting Parties may mutually determine the procedures to be used under Article 6.   
@@ -178,8 +154,6 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Entry into Force
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  The Governments of the Contracting Parties shall notify each other in writing, through diplomatic channels, that the internal procedures required by each Contracting Party for the entry into force of this Agreement have been complied with.   
 2.  This Agreement shall enter into force on the first day of the second month following the date of receipt of the later of the notifications referred to in paragraph 1.   
 3.  The provisions of this Agreement shall apply in their terms to information predating the coming into force of this Agreement.  
@@ -187,8 +161,6 @@ Treedt in werking op een nader te bepalen tijdstip
 ### Article  13  
 
 ####Termination
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  This Agreement shall remain in force until terminated by a Contracting Party. Either Contracting Party may terminate the Agreement, through diplomatic channels, by giving written notice of termination at least six (6) months before the end of any calendar year beginning on or after the expiration of a period of two (2) years from the date of its entry into force.   
 2.  In such event, the Agreement shall cease to have effect the first day of January in the next calendar year following that in which the notice is given.   
@@ -198,15 +170,11 @@ IN WITNESS WHEREOF the undersigned, being duly authorized thereto, have signed t
 
 ####Verdrag tussen het Koninkrijk der Nederlanden, ten behoeve van Aruba, en de Verenigde Mexicaanse Staten inzake de uitwisseling van informatie betreffende belastingen
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 Het Koninkrijk der Nederlanden, ten behoeve van Aruba, en de Verenigde Mexicaanse Staten Geleid door de wens de uitwisseling van informatie betreffende belastingen te vergemakkelijken;   Zijn het volgende overeengekomen:    
 
 ### Artikel  1  
 
 ####Doelstelling en reikwijdte van dit Verdrag
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De bevoegde autoriteiten van de verdragsluitende partijen verlenen elkaar bijstand door middel van de uitwisseling van informatie die naar verwachting van belang zal zijn voor de toepassing en handhaving van de nationale wetten van de verdragsluitende partijen die betrekking hebben op de belastingen waarop dit Verdrag van toepassing is. Deze informatie omvat informatie die naar verwachting van belang zal zijn voor de bepaling, vaststelling en inning van deze belastingen, de invordering en tenuitvoerlegging van belastingvorderingen of het onderzoek naar of de vervolging van belastingzaken. Informatie wordt uitgewisseld in overeenstemming met de bepalingen van dit Verdrag en wordt vertrouwelijk behandeld op de wijze voorzien in artikel 8. De uit hoofde van de wetgeving of de bestuursrechtelijke praktijk van de aangezochte patij aan personen toegekende rechten en waarborgen blijven van toepassing voor zover zij de doeltreffende uitwisseling van informatie niet onnodig verhinderen of vertragen.   
 2.  Wat het Koninkrijk der Nederlanden betreft, is dit Verdrag uitsluitend van toepassing op Aruba.  
@@ -215,23 +183,17 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Rechtsmacht
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 De aangezochte partij is niet verplicht informatie te verstrekken die noch in het bezit is van haar autoriteiten, noch in het bezit of in de macht van personen die onder haar territoriale rechtsmacht vallen. 
 
 ### Artikel  3  
 
 ####Interpretatie
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 Bij de interpretatie van de bepalingen van dit Verdrag die identiek zijn aan de bepalingen van het modelverdrag tot uitwisseling van informatie betreffende belastingaangelegenheden van 2002 van de Organisatie voor Economische Samenwerking en Ontwikkeling (OESO-modelverdrag) kunnen de bevoegde autoriteiten de commentaren bij dat model in aanmerking nemen. 
 
 ### Artikel  4  
 
 ####Belastingen waarop het Verdrag van toepassing is
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De bestaande belastingen waarop dit Verdrag van toepassing is betreffen belastingen van elke soort en benaming in beide verdragsluitende staten.   
 2.  Dit Verdrag is ook van toepassing op alle gelijke of in wezen gelijksoortige belastingen die na de datum van ondertekening van dit Verdrag naast of in de plaats van de bestaande belastingen worden geheven. De bevoegde autoriteiten van de verdragsluitende partijen doen elkaar mededeling van alle wezenlijke wijzigingen die zijn aangebracht in de belastingheffing en daarmee samenhangende maatregelen ten behoeve van het verzamelen van informatie waarop dit Verdrag van toepassing is.   
@@ -240,8 +202,6 @@ Treedt in werking op een nader te bepalen tijdstip
 ### Artikel  5  
 
 ####Begripsomschrijvingen
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Voor de toepassing van dit Verdrag, tenzij anders is bepaald: 
 
@@ -284,8 +244,6 @@ q. wordt verstaan onder de uitdrukking „strafrechtelijke belastingzaken” bel
 
 ####Uitwisseling van informatie
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  De bevoegde autoriteiten van de verdragsluitende partijen wisselen informatie uit ten behoeve van de uitvoering en handhaving van hun binnenlandse wetgeving ter zake van de belastingen waarop dit Verdrag van toepassing is, met inbegrip van informatie ter bepaling, vaststelling en inning van die belastingen, de invordering en tenuitvoerlegging van belastingvorderingen of het onderzoek naar of vervolging van belastingzaken.   
 2.  De wetgeving of praktijken van de aangezochte partij ter zake van de ontvangst en bekendmaking van de in dit Verdrag bedoelde informatie vormen geen beletsel voor of beperking van overeenkomstige maatregelen van de bevoegde autoriteit van de aangezochte partij teneinde deze informatie te verkrijgen en te verstrekken: 
 
@@ -320,8 +278,6 @@ f. verklaren dat de door de bevoegde autoriteit van de verzoekende partij verlan
 
 ####Mogelijkheid een verzoek af te wijzen
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  Van de aangezochte partij kan niet worden verlangd dat zij informatie verkrijgt of verstrekt die de verzoekende partij krachtens haar eigen wetgeving niet zou kunnen verkrijgen ten behoeve van de toepassing of handhaving van haar eigen belastingwetten. De bevoegde autoriteit van de aangezochte partij kan weigeren bijstand te verlenen indien het verzoek niet in overeenstemming met dit Verdrag is gedaan.   
 2.  De bepalingen van dit Verdrag mogen een verdragsluitende partij niet verplichten informatie te verstrekken waardoor een handelsgeheim, zakelijk geheim, industrieel, commercieel of beroepsgeheim of handelsproces zou worden onthuld. Niettegenstaande het voorgaande, zal de informatie zoals bedoeld in artikel 6, tweede lid, niet als geheim of handelsproces worden behandeld uitsluitend op grond van het feit dat zij aan de in dat lid gestelde criteria voldoet.   
 3.  De bepalingen van dit Verdrag mogen een verdragsluitende partij niet verplichten informatie te verkrijgen of te verstrekken waardoor vertrouwelijke communicatie tussen een cliënt en een advocaat of een andere erkende juridische vertegenwoordiger zou worden onthuld indien dergelijke communicatie: 
@@ -337,15 +293,11 @@ b. plaatsvindt ten behoeve van bestaande of mogelijk in te stellen gerechtelijke
 
 ####Vertrouwelijkheid
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 Alle uit hoofde van dit Verdrag door een verdragsluitende partij ontvangen informatie wordt vertrouwelijk behandeld en wordt uitsluitend ter kennis gebracht van personen of autoriteiten (met inbegrip van gerechtelijke en bestuursrechtelijke instanties) die onder de rechtsmacht van de desbetreffende verdragsluitende partij vallen en betrokken zijn bij de vaststelling of inning van, de tenuitvoerlegging of vervolging ter zake van, of de beslissing in beroepszaken betrekking hebbende op de belastingen waarop dit Verdrag van toepassing is. Deze personen of autoriteiten mogen uitsluitend voor deze doeleinden van deze informatie gebruikmaken. Zij mogen de informatie bekendmaken in openbare rechtszittingen of in gerechtelijke beslissingen. De informatie mag zonder de uitdrukkelijke schriftelijke toestemming van de bevoegde autoriteit van de aangezochte partij niet worden bekendgemaakt aan een andere persoon, entiteit, autoriteit of gerechtelijke instantie. 
 
 ### Artikel  9  
 
 ####Kosten
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 Tenzij de bevoegde autoriteiten van de verdragsluitende partijen anders overeenkomen, worden gewone kosten gemaakt bij het verlenen van bijstand gedragen door de aangezochte partij en worden buitengewone kosten gemaakt bij het verlenen van bijstand (met inbegrip van redelijke kosten voor het inschakelen van externe adviseurs in verband met een rechtsgeding of andere kosten) gedragen door de verzoekende partij. Op verzoek van een van de verdragsluitende partijen plegen de bevoegde autoriteiten van tijd tot tijd overleg met betrekking tot dit artikel en in het bijzonder de bevoegde autoriteit van de aangezochte partij overlegt vooraf met de bevoegde autoriteit van de verzoekende partij indien de kosten van het verstrekken van informatie naar aanleiding van een specifiek verzoek naar verwachting aanmerkelijk zullen zijn. 
 
@@ -353,15 +305,11 @@ Tenzij de bevoegde autoriteiten van de verdragsluitende partijen anders overeenk
 
 ####Uitvoeringswetgeving
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 De verdragsluitende partijen stellen alle wetgeving vast die noodzakelijk is om te voldoen aan en ter uitvoering van de bepalingen van dit Verdrag. 
 
 ### Artikel  11  
 
 ####Procedure voor onderling overleg
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De bevoegde autoriteiten van de verdragsluitende partijen trachten moeilijkheden of twijfelpunten die mochten rijzen met betrekking tot de uitlegging of de toepassing van dit Verdrag gezamenlijk op te lossen.   
 2.  Naast de in het eerste lid bedoelde afspraken, kunnen de bevoegde autoriteiten van de verdragsluitende partijen in onderling overleg de krachtens artikel 6 te hanteren procedures vaststellen.   
@@ -372,8 +320,6 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Inwerkingtreding
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  De Regeringen van de verdragsluitende partijen stellen elkaar schriftelijk langs diplomatieke weg ervan in kennis dat aan de interne procedures van beide verdragsluitende partijen nodig voor de inwerkingtreding van dit Verdrag is voldaan.   
 2.  Dit Verdrag treedt in werking op de eerste dag van de tweede maand na de datum van ontvangst van de laatste van de in het eerste lid bedoelde kennisgevingen.   
 3.  De bepalingen van dit Verdrag zijn van toepassing op informatie die voorafgaand aan de inwerkingtreding van dit Verdrag is verstrekt.  
@@ -381,8 +327,6 @@ Treedt in werking op een nader te bepalen tijdstip
 ### Artikel  13  
 
 ####Beëindiging
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Dit Verdrag blijft van kracht totdat het door een verdragsluitende partij wordt beëindigd. Elk van de verdragsluitende partijen kan het Verdrag langs diplomatieke weg beëindigen door ten minste zes (6) maanden voor het einde van enig kalenderjaar beginnend op of na het verstrijken van een tijdvak van twee (2) jaar na de datum van inwerkingtreding van het Verdrag, schriftelijk kennis te geven van beëindiging.   
 2.  In dat geval houdt het Verdrag op 1 januari van het kalenderjaar eerstvolgend op het jaar waarin de kennisgeving is gedaan op van kracht te zijn.   
