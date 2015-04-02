@@ -148,7 +148,7 @@ Het loodgehalte van lichte olie wordt bepaald volgens de in bijlage MO.1 bij dez
 
 ### Artikel  16  
 
-Indien bier, wijn, tussenproducten, overige alcoholhoudende producten en tabaksproducten zijn verpakt in kleinhandelsverpakking, wordt het volume of de massa in aanmerking genomen dat op de verpakking is vermeld, mits de wijze waarop dat is vastgesteld en de aanduiding ervan voldoen aan de voorwaarden gesteld bij het Hoeveelheidsaanduidingenbesluit (Warenwet). 
+Indien bier, wijn, tussenproducten, overige alcoholhoudende producten en tabaksproducten zijn verpakt in kleinhandelsverpakking, wordt het volume of de massa in aanmerking genomen dat op de verpakking is vermeld, mits de wijze waarop dat is vastgesteld en de aanduiding ervan voldoen aan de voorschriften gesteld bij het Warenwetbesluit hoeveelheden voorverpakkingen. 
 
 ### Hoofdstuk  III  
 

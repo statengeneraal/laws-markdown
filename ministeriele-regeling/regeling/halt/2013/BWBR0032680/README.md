@@ -314,7 +314,7 @@ e. correctie van het bedrag genoemd in onderdeel d, zal jaarlijks plaatsvinden o
 1.  Het Halt-bureau stelt voor zijn medewerkers een meldcode vast waarin stapsgewijs wordt aangegeven hoe met signalen van huiselijk geweld of kindermishandeling wordt omgegaan en die er redelijkerwijs aan bijdraagt dat zo snel en adequaat mogelijk hulp kan worden geboden.   
 2.  Voorafgaand aan de vaststelling van de meldcode zal het Halt-bureau deze eerst ter goedkeuring voorleggen aan Onze Minister.   
 3.  Onder huiselijk geweld wordt verstaan: huiselijk geweld, zoals bedoeld in artikel 1.1.1, eerste lid, van de Wet maatschappelijke ondersteuning 2015.   
-4.  Onder kindermishandeling wordt verstaan: kindermishandeling, zoals bedoeld in artikel 1.1.1, eerste lid, van de Wet maatschappelijke ondersteuning 2015.   
+4.  Onder kindermishandeling wordt verstaan: kindermishandeling, bedoeld in artikel 1.1 van de Jeugdwet.   
 5.  Het Halt-bureau bevordert de kennis en het gebruik van de meldcode onder zijn medewerkers.  
 
 ### Artikel  25  

@@ -31,6 +31,15 @@ Het Vliegerkruis, waarvan het model door Ons zal worden vastgesteld, bestaat uit
 
 Zij, aan wie het Vliegerkruis reeds eenmaal is toegekend, en die daarna wederom door gelijkwaardige daden de onderscheiding deelachtig worden, dragen het Arabische cijfer "2" in goud op het lint van het Vliegerkruis. Bij een volgende gelijkwaardige daad wordt het cijfer "2" verhoogd tot "3" en verder. 
 
+### Artikel  5a  
+
+Het Vliegerkruis kan, indien dit in bijzondere gevallen door het Hoofd van het betrokken Departement van Algemeen Bestuur wenschelijk wordt geacht, ook posthuum worden toegekend.
+
+### Artikel  5b  
+Treedt in werking per 01-07-2015 
+
+Ingaande 1 januari 2017 moet een verzoek om toekenning van het Vliegerkruis zijn ingediend binnen tien jaar na de in artikel 2 genoemde daden. 
+
 ### Artikel  6  
 
 In bijzondere gevallen, te Onzer beoordeeling, kan het Vliegerkruis tijdelijk of blijvend worden ontnomen aan hen, die zich dit eereteeken niet langer waardig toonen. 

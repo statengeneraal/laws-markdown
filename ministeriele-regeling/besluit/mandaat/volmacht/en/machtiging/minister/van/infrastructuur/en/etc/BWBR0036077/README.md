@@ -21,7 +21,7 @@ Het Besluit mandaat, volmacht en machtiging inspecteur-generaal Leefomgeving en 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van 1 januari 2015 en vervalt met ingang van 1 april 2015. 
+Dit besluit treedt in werking met ingang van 1 januari 2015 en vervalt met ingang van 1 mei 2015. 
 Dit besluit zal in de Staatscourant worden geplaatst.   
 
 ’s-Gravenhage 

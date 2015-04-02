@@ -25,10 +25,6 @@ In deze regeling wordt verstaan onder:
 
 ####Persoonsgebonden budget
 
-### Paragraaf  1  
-
-####budgetbeheer Sociale verzekeringsbank
-
 ### Artikel  2  
 
 1.  In dit artikel wordt verstaan onder ‘derde’: derde als bedoeld in artikel 2.3.6, eerste lid, van de wet.   
@@ -45,19 +41,19 @@ c. tot afdracht van eventuele loonheffing, premies voor de sociale verzekeringen
 a. bij het intrekken of herzien van een beslissing als bedoeld in artikel 2.3.10 van de wet;  
 
 b. wegens strijd met het recht, waaronder het recht dat van toepassing is op de arbeidsovereenkomst of overeenkomst van opdracht, of het belang van de uitvoerbaarheid van het verrichten van de betalingen uit het persoonsgebonden budget door de Sociale verzekeringsbank.     
-5.  De Sociale verzekeringsbank verricht betalingen uit het persoonsgebonden budget zonder dat dit bij beschikking wordt vastgesteld, binnen 30 dagen na ontvangst van de declaratie door de Sociale verzekeringsbank, tenzij een betaling geheel of gedeeltelijk wordt geweigerd. Betalingen die op grond van het vierde lid zijn geweigerd kunnen na goedkeuring door de Sociale verzekeringsbank binnen 30 dagen worden verricht.   
+5.  De Sociale verzekeringsbank verricht betalingen uit het persoonsgebonden budget zonder dat dit bij beschikking wordt vastgesteld, binnen 30 dagen na ontvangst van de declaratie door de Sociale verzekeringsbank, tenzij een betaling geheel of gedeeltelijk wordt geweigerd. Betalingen die op grond van het vierde lid zijn geweigerd kunnen na goedkeuring door de Sociale verzekeringsbank binnen 30 dagen alsnog worden verricht.   
 6.  De Sociale verzekeringsbank verricht betalingen ter verkrijging door de cliënt van gelden die aanvullend op het persoonsgebonden budget door of vanwege de cliënt zelf zijn gestort bij de Sociale verzekeringsbank.   
 7.  De Sociale verzekeringsbank ondersteunt de cliënt bij zijn werkgeverstaken waaronder ten aanzien van arbeidsomstandighedenregelgeving, zaakschade en aansprakelijkheid.  
 
-### Paragraaf  2  
+###Hoofdstuk  3 
 
-####beveiligingseisen gegevensverwerking
+####Beveiligingseisen gegevensverwerking
 
 ### Artikel  3  
 
-De beveiligingseisen, bedoeld in artikel 5.2.9, zesde lid, van de wet, voldoet aan NEN-ISO-IEC 27001 en NEN-ISO-IEC 27002 of is aan deze normen gelijkwaardig. 
+De gegevensverwerking, bedoeld in artikel 5.2.9, zesde lid, van de wet, voldoet aan NEN-ISO-IEC 27001 en NEN-ISO-IEC 27002 of is aan deze normen gelijkwaardig. 
 
-### Hoofdstuk  3  
+### Hoofdstuk  4  
 
 ####AMHK’s
 
@@ -94,7 +90,7 @@ e. kan een AMHK dat voldoet aan de eisen in artikel 2:396, eerste lid, van het B
 
 a. de jaarverslaggeving, bedoeld in artikel 5, in elektronische vorm;  
 
-b. het jaardocument, bedoeld in artikel 5, in elektronische vorm;     
+b. het jaardocument, bedoeld in artikel 5, in elektronische vorm.     
 2.  De Minister kan een AMHK uitstel van indiening verlenen op een gemotiveerd verzoek, dat uiterlijk acht weken vóór het verstrijken van de in het eerste lid genoemde termijn moet zijn ingediend.  
 
 ### Paragraaf  2  
@@ -105,7 +101,7 @@ b. het jaardocument, bedoeld in artikel 5, in elektronische vorm;
 
 Een AMHK verstrekt aan het Centraal Bureau voor de Statistiek structureel de gegevens, bedoeld in artikel 4.3.2, eerste lid, van het Uitvoeringsbesluit, op de wijze beschreven in de bijlage bij deze regeling. 
 
-### Hoofdstuk  4  
+### Hoofdstuk  5  
 
 ####Cliëntervaringsonderzoek maatschappelijke ondersteuning
 
@@ -121,7 +117,7 @@ b. de kwaliteit van de ondersteuning ervaren; of
 c. de ondersteuning vinden bijdragen aan de zelfredzaamheid en participatie.     
 3.  Het onderzoek, bedoeld in het eerste lid, kan door middel van een representatieve steekproef worden uitgevoerd.  
 
-### Hoofdstuk  5  
+### Hoofdstuk  6  
 
 ####Indexatie bedragen beschermd wonen
 
@@ -170,7 +166,7 @@ b. voor de verzekerde die de pensioengerechtigde leeftijd heeft bereikt: € 96
 4.  Voor de gehuwde verzekerden die de pensioengerechtigde leeftijd nog niet hebben bereikt, wordt, indien het op grond van artikel 3.13, eerste lid, onderdeel a, van het Uitvoeringsbesluit, na toepassing van de artikelen 9 tot en met 11, berekende bedrag voor hen tezamen, meer bedraagt dan € 13.284, als extra vrijlating in mindering gebracht 25% van het verschil tussen het berekende bedrag en laatstbedoeld bedrag.   
 5.  Het tweede lid is van toepassing indien een van beide gehuwde verzekerden de pensioengerechtigde leeftijd nog niet heeft bereikt.  
 
-### Hoofdstuk  6  
+### Hoofdstuk  7  
 
 ####Wijzigingsbepalingen
 
@@ -198,7 +194,7 @@ Wijzigt het Voorschrift Vreemdelingen 2000.
 
 Wijzigt de Voorzieningenregeling voor militaire oorlogs- en dienstslachtoffers. 
 
-### Hoofdstuk  7  
+### Hoofdstuk  8  
 
 ####Overgang- en slotbepalingen
 
@@ -569,6 +565,24 @@ Per melding is aangegeven over welke persoon of personen de melding gaat. Van de
 
 Het unieke persoonsnummer dat iedereen heeft die staat ingeschreven in de Basisregistratie personen (BRP). Toelichting: Indien er geen BSN bekend is, dan wordt in plaats van het BSN de code 000000000 genoteerd. Bij ongeboren kinderen wordt 999999999 genoteerd. Per melding kunnen meerdere BSN’s worden vermeld. Een melding kan namelijk betrekking hebben op meerdere personen tegelijk. Zie ook paragraaf 4.8.1. 
 
+### 3.8.2  
+
+####Geboortedatum
+
+De geboortedatum van de persoon wordt weergegeven als JJJJMMDD. Toelichting: Bij sommige personen is de exacte geboortedatum niet bekend. Indien de geboortedag niet bekend is, wordt dat aangegeven door JJJJMM00 te noteren. Indien (ook) de geboortemaand niet bekend is, dan wordt dat aangegeven door JJJJ0000 te noteren. Bij ongeboren kinderen wordt 99999999 genoteerd. Zie ook paragraaf 4.8.2. 
+
+### 3.8.3  
+
+####Geslacht
+
+Het geslacht van de persoon, waarbij de volgende opties gelden: 
+
+* Vrouw (V)  
+
+* Man (M)  
+
+* Onbekend (O)   Zie ook paragraaf 4.8.3. 
+
 ### 4  
 
 ####Gegevens over onderzoeken
@@ -801,37 +815,41 @@ In de brief van CBS aan de AMHK’s staat per keer aangegeven op welke datum de 
 
 ####Inhoud van het gegevensbestand
 
-In artikel 4.3.2 van het Uitvoeringsbesluit Wmo 2015 zijn de gegevens opgenomen die de AMHK’s aan CBS dienen te leveren voor de beleidsinformatie. In deel 1 van dit informatieprotocol is elk gegeven uitgewerkt in een definitie en, waar van toepassing, voorzien van keuzeopties. De AMHK’s leveren de gegevens aan het CBS in een door het CBS gedefinieerd gegevensbestand (zie deel 3 van dit informatieprotocol). Het gegevensbestand dat de AMHK’s genereren en uploaden bij CBS dient de volgende inhoud te hebben: 
+In artikel 4.3.2 van het Uitvoeringsbesluit Wmo 2015 zijn de gegevens opgenomen die de AMHK’s aan het CBS dienen te leveren voor de beleidsinformatie. In deel 1 van dit informatieprotocol is elk gegeven uitgewerkt in een definitie en, waar van toepassing, voorzien van keuzeopties. De AMHK’s leveren de gegevens aan het CBS in een door het CBS gedefinieerd gegevensbestand (zie deel 3 van dit informatieprotocol). Het gegevensbestand dat de AMHK’s genereren en uploaden bij het CBS dient de volgende inhoud te hebben: 
 
 * Een uniek nummer voor het betreffende AMHK.  
 
-* Alle in de verslagperiode afgegeven adviezen. Per advies wordt een record aangemaakt dat voorziet in een voor de organisatie uniek nummer. Verder bevat dit record een code voor de aanleiding om met het AMHK contact op te nemen, in het geval van huiselijk geweld, een code voor de vorm van het huiselijk geweld of de codes van de verschillende vormen van huiselijk geweld waarvan sprake is en tot slot bevat het record een code voor de hoedanigheid van adviesvrager. Hieronder is een voorbeeld record opgenomen. De exacte opbouw van het record wordt uitgewerkt door het CBS in een bestandspecificatie (zie 7.2.).  
+* Alle in de verslagperiode *afgegeven adviezen*. Per advies wordt een record aangemaakt dat voorziet in een voor de organisatie uniek nummer. Verder bevat dit record een code voor de aanleiding om met het AMHK contact op te nemen en een code voor de hoedanigheid van adviesvrager. Hieronder is een voorbeeld record opgenomen. De exacte opbouw van het record wordt uitgewerkt door het CBS in een bestandspecificatie (zie 7.2.).  
 
-| Nummer  | Aanleiding  | Aard van het huiselijk geweld  | Hoedanigheid adviesvrager  |
-|:---|:---|:---|:---|
-| AD23334  | 03  | 04  | 05  |
+| Nummer  | Aanleiding om contact op te nemen  | Hoedanigheid adviesvrager  |
+|:---|:---|:---|
+| AD23334  | 03  | 05  |
 
-* Alle in de verslagperiode afgeronde meldingen. Per melding wordt een record aangemaakt dat voorziet in een voor de organisatie uniek nummer. Verder bevat dit record een code voor de aanleiding om met het AMHK contact op te nemen, in geval van huiselijk geweld, een code voor de aard van het huiselijke geweld en een code voor het type huiselijk geweld, de datum van de melding, een code voor de hoedanigheid van de melder, een code voor het vervolg op de aanmelding en in geval het vervolg een onderzoek is, het nummer van dit onderzoek, in het geval dat een vervolgtraject moet wordt ingezet, de begindatum en einddatum van de bemoeienis van het AMHK en tot slot het BSN, de geboortedatum en het geslacht van degene waarop de melding betrekking heeft. Hieronder is een voorbeeld record opgenomen van een melding. De exacte opbouw van het record wordt uitgewerkt door het CBS in een bestandspecificatie (zie 7.2.).  
+* Alle in de verslagperiode *afgeronde meldingen*. Per melding wordt een record aangemaakt dat voorziet in een voor de organisatie uniek nummer. Verder bevat dit record een code voor de aanleiding om met het AMHK contact op te nemen, een code voor de aard van het geweld of de mishandeling, de datum van de melding, een code voor de hoedanigheid van de melder, een code voor het vervolg op de aanmelding en in geval het vervolg een onderzoek is, het nummer van dit onderzoek. In het geval dat een vervolgtraject moet wordt ingezet, de startdatum van het vervolgtraject en de datum dat de bemoeienis van het AMHK eindigt. Tot slot worden weergegeven het BSN, de geboortedatum en het geslacht van degene op wie de melding betrekking heeft. Hieronder is een voorbeeld record opgenomen van een melding. De exacte opbouw van het record wordt uitgewerkt door het CBS in een bestandspecificatie (zie 7.2.).  
 
-| Nummer  | Aanl.  | Datum  | Hoedanigheid melder  | Vervolg  | Onderzoek  | BSN  | Geboorte-datum  | Geslacht  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| ML45567  | 02  | 20150223  | 05  | 01  | OZ76885  | 123456789  | 20091105  | V  |
+| Nummer  | Aanleiding om contact op te nemen  | Aard van het geweld/ de mishandeling  | Datum  | Hoedanigheid melder  |
+|:---|:---|:---|:---|:---|
+| ML45567  | 02  | 03  | 20150223  | 05  |
 
-* Noot ten aanzien van het doorgeven van gegevens over de melding indien vervolg op de melding ‘inzetten vervolgtraject’ is. Een dergelijke melding, met alle bijbehorende gegevens zoals datum start inzetten vervolgtraject en datum einde bemoeienis AMHK wordt pas doorgegeven als de bemoeienis van het AMHK is geëindigd.  
+| Vervolg  | Onderzoek  | BSN  | Geboortedatum  | Geslacht  |
+|:---|:---|:---|:---|:---|
+| 01  | OZ76885  | 123456789  | 20091105  | V  |
 
-* Alle in de verslagperiode afgeronde onderzoeken. Per onderzoek wordt een record aangemaakt dat voorziet in een voor de organisatie uniek nummer. Verder bevat dit record een code voor de aanleiding om met het AMHK contact op te nemen, de startdatum van het onderzoek, de einddatum van het onderzoek, een code voor de uitkomst van het onderzoek, een code voor de aard van het geweld of de mishandeling, een code voor het vervolg van het onderzoek, het BSN, de geboortedatum en het geslacht van degene waarop de melding betrekking heeft. Hieronder is een voorbeeld record opgenomen. Hieronder is een voorbeeld record opgenomen. De exacte opbouw van het record wordt uitgewerkt door het CBS in een bestandspecificatie (zie 7.2.).  
+* Noot ten aanzien van het doorgeven van gegevens over de melding indien vervolg op de melding ‘*inzetten vervolgtraject*’ is. Een dergelijke melding, met alle bijbehorende gegevens zoals datum start inzetten vervolgtraject en datum einde bemoeienis AMHK wordt pas doorgegeven als de bemoeienis van het AMHK is geëindigd.  
 
-| Nummer  | Aanleiding  | Startdatum  | Datum afronding  | Uitkomst  | Aard van het huiselijke geweld  |
-|:---|:---|:---|:---|:---|:---|
-| OZ76885  | 02  | 20150225  | 20150506  | 03  | --- |
+* Alle in de verslagperiode *afgeronde onderzoeken*. Per onderzoek wordt een record aangemaakt dat voorziet in een voor de organisatie uniek nummer. Verder bevat dit record een code voor de aanleiding om met het AMHK contact op te nemen, de startdatum van het onderzoek, de einddatum van het onderzoek, een code voor de uitkomst van het onderzoek, een code voor de aard van het geweld of de mishandeling, een code voor het vervolg van het onderzoek, het BSN, de geboortedatum en het geslacht van degene waarop de melding betrekking heeft. Hieronder is een voorbeeld record opgenomen. Hieronder is een voorbeeld record opgenomen. De exacte opbouw van het record wordt uitgewerkt door het CBS in een bestandspecificatie (zie 7.2.).  
 
-Vervolg…  
+| Nummer  | Aanleiding om contact op te nemen  | Startdatum  | Datum afronding  | Uitkomst van het onderzoek  |
+|:---|:---|:---|:---|:---|
+| OZ76885  | 02  | 20150225  | 20150506  | 03  |
 
-| Aard van de kindermishandeling  | Vervolg onderzoek  | BSN  | Geboortedatum  | Geslacht  |
+Vervolg...  
+
+| Aard van het geweld/de mishandeling  | Vervolg onderzoek  | BSN  | Geboortedatum  | Geslacht  |
 |:---|:---|:---|:---|:---|
 | 03  | 02  | 123456789  | 20091105  | V  |
 
-* Per verslagperiode worden gegevens van alle onderzoeken doorgegeven die het AMHK in de betreffende periode heeft afgesloten. In de eerste verslagperiode zijn dus ook onderzoeken opgenomen die voor 1-1-2015 gestart zijn. Voor deze onderzoeken wordt de oorspronkelijke startdatum van het onderzoek doorgegeven.   
+* Per verslagperiode worden gegevens van alle onderzoeken doorgegeven die het AMHK in de betreffende periode heeft afgesloten. In de eerste verslagperiode zijn dus ook *onderzoeken opgenomen die voor 1-1-2015 gestart zijn*. Voor deze onderzoeken wordt de oorspronkelijke startdatum van het onderzoek doorgegeven.   
 
 ### 6.6  
 

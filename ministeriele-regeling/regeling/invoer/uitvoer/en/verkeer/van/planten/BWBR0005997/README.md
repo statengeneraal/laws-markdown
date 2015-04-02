@@ -277,10 +277,6 @@ b. zij, onverminderd de artikelen 12, bij binnenkomst in de Europese Unie overee
 2.  Levende pollen en voor opplant bestemde planten, met uitzondering van zaden, van Actinidia Lindl. van oorsprong uit derde landen, mogen slechts in de Europese Unie worden binnengebracht als zij voldoen aan de specifieke invoervoorschriften van bijlage I van uitvoeringsbesluit 2012/756/EU.   
 3.  Levende pollen en voor opplant bestemde planten, met uitzondering van zaden, van Actinidia Lindl. mogen slechts binnen de Europese Unie worden vervoerd als zij voldoen aan de voorwaarden van bijlage II van uitvoeringsbesluit 2012/756/EU.  
 
-### Artikel  12n  
-
-Vruchten van Citrus L., Fortunella Swingle, Poncirus Raf. en de hybriden daarvan van oorsprong uit Brazilië mogen slechts in de Europese Unie worden binnengebracht indien zij voldoen aan de voorschriften van de bijlage bij Beschikking 2004/416/EG van de Commissie van 29 april 2004 inzake noodmaatregelen ten aanzien van bepaalde citrusvruchten van oorsprong uit Brazilië (PbEU 2004, L 151), zoals deze laatstelijk gewijzigd is bij Uitvoeringsbesluit 2013/67/EU van de Commissie van 29 januari 2013 tot wijziging van Beschikking 2004/416/EG inzake tijdelijke noodmaatregelen ten aanzien van bepaalde citrusvruchten van oorsprong uit Brazilië (PbEU 2013, L 31).
-
 ### Artikel  12o  
 
 1.  Voor de toepassing van dit artikel wordt verstaan onder: 
@@ -288,7 +284,7 @@ Vruchten van Citrus L., Fortunella Swingle, Poncirus Raf. en de hybriden daarvan
 a.  *GN-code:* code als bedoeld in bijlage I van verordening (EEG) nr. 2658/87 van de Raad van 23 juli 1987 met betrekking tot de tarief- en statistieknomenclatuur en het gemeenschappelijk douanetarief (PbEG 1987, L 256);  
 
 b.  *houten verpakkingsmateriaal:* houten verpakkingsmateriaal als bedoeld in artikel 1, onder a, van Uitvoeringsbesluit 2013/92/EU van de Commissie van 18 februari 2013 betreffende het toezicht, de fytosanitaire controles en de te nemen maatregelen met betrekking tot houten verpakkingsmateriaal dat gebruikt wordt voor het vervoer van specifieke goederen van oorsprong uit China (PbEU 2013, L 47).     
-2.  Het houten verpakkingsmateriaal van een zending van oorsprong uit China die in de Europese Unie wordt ingevoerd met GN-code 2514 00 00, 2515, 2516, 6801 00 00 of 6802, wordt onder één van de douaneregelingen, genoemd in artikel 4, zestiende lid, onderdelen a, d, e, f of g, van het communautair douanewetboek geplaatst, indien dit verpakkingsmateriaal, blijkens inspecties als bedoeld in artikel 13 bis, eerste lid, onder b, onder iii, van richtlijn 2000/29/EG, voldoet aan de eisen, bedoeld in Bijlage IV, deel A, Rubriek I, onder 2 en 8, van richtlijn 2000/29/EG.   
+2.  Het houten verpakkingsmateriaal van een zending van oorsprong uit China die in de Europese Unie wordt ingevoerd met GN-code 2514 00 00, 2515, 2516, 6801 00 00, 6802, 6803 00, 6908 of 7210, wordt onder één van de douaneregelingen, genoemd in artikel 4, zestiende lid, onderdelen a, d, e, f of g, van het communautair douanewetboek geplaatst, indien dit verpakkingsmateriaal, blijkens inspecties als bedoeld in artikel 13 bis, eerste lid, onder b, onder iii, van richtlijn 2000/29/EG, voldoet aan de eisen, bedoeld in Bijlage IV, deel A, Rubriek I, onder 2 en 8, van richtlijn 2000/29/EG.   
 3.  Inspecties als bedoeld in het tweede lid, worden uitgevoerd op de plaats van binnenkomst of op de plaats van bestemming die door de douaneautoriteiten en door de minister is erkend overeenkomstig richtlijn nr. 2004/103/EG.   
 4.  Luchthavenautoriteiten, havenautoriteiten, importeurs of exploitanten kunnen door de minister worden verplicht om een op handen zijnde aankomst van een zending als bedoeld in het tweede lid, vooraf te melden bij het douanekantoor van de plaats van binnenkomst of bij de officiële instantie van de plaats van binnenkomst zodra zij hiervan op de hoogte zijn.   
 5.  Indien het houten verpakkingsmateriaal van een zending als bedoeld in het tweede lid, besmet is met een schadelijk organisme, genoemd in Bijlage I, deel A, van richtlijn 2000/29/EG of niet voldoet aan de eisen, bedoeld in Bijlage IV, deel A, Rubriek I, onder 2 en 8, van richtlijn 2000/29/EG, wordt een maatregel als bedoeld in artikel 13 quater, zevende lid, van richtlijn 2000/29/EG toegepast.  
@@ -316,7 +312,8 @@ e. voorzien zijn van een etiket dat voldoet aan de eisen, genoemd in artikel 6 v
 
 ### Artikel  12q  
 
-Het binnenbrengen in de Europese Unie van planten, met uitzondering van zaden en wortels, van Colocasia Schott en van planten, met uitzondering van zaden, van Mangifera L., Momordica L., Solanum melongena L.and Trichosanthes L., van oorsprong uit India, is verboden. 
+1. Het binnenbrengen in de Europese Unie van planten, met uitzondering van zaden en wortels, van Colocasia Schott en van planten, met uitzondering van zaden, van Momordica L., Solanum melongena L.and Trichosanthes L., van oorsprong uit India, is verboden.  
+2.  Artikel 12, eerste lid, is van overeenkomstige toepassing op planten met uitzondering van zaden van Mangifera L., van oorsprong uit India, met dien verstande dat het onderzoek, bedoeld in onderdeel d, mede omvat het onderzoek of de zending vergezeld gaat van een fytosanitair certificaat, waarop bij de rubriek ‘aanvullende verklaring’ een vermelding staat van de passende maatregelen die zijn genomen om ervoor te zorgen dat de planten vrij zijn van schadelijke organismen. 
 
 ### Artikel  12r  
 
@@ -436,7 +433,7 @@ De Regeling invoer, uitvoer en vervoer van planten wordt ingetrokken.
 ### Artikel  23  
 
 1.  Deze regeling treedt in werking met ingang van 1 juni 1993.   
-2.  Vervallen.   
+2.  Artikel 12o vervalt met ingang van 1 april 2017.   
 3.  Artikel 12m vervalt met ingang van 1 april 2016.   
 4.  Artikel 12n vervalt met ingang van 1 april 2015.  
 5.  Artikel 12p vervalt met ingang van 1 november 2015.  

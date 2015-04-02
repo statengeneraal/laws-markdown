@@ -1660,7 +1660,9 @@ Als wettelijke voorschriften, bedoeld in artikel 107, tweede lid, onder b, van d
 
 – de Faillisementswet;  
 
-– de Huisvestingswet 2014;  
+– de Huisvestingswet 2014; 
+
+–de Jeugdwet; 
 
 – de Paspoortwet;  
 
@@ -1713,8 +1715,6 @@ Als wettelijke voorschriften, bedoeld in artikel 107, tweede lid, onder b, van d
 – de Wet op de identificatieplicht;  
 
 – de Wet op de inlichtingen- en veiligheidsdiensten 2002;  
-
-– de Wet op de jeugdzorg;  
 
 – de Wet op de Kamer van Koophandel;  
 
@@ -1870,33 +1870,29 @@ M.J. Cohen
 
 ####, behorend bij artikel 2.1, eerste lid, onder a , Voorschrift Vreemdelingen 2000
 
-| Luchthaven  | Luchthavencode  |
+| Luchthaven  |  Luchthavencode  |
 |:---|:---|
 | Abu Dhabi International Airport  | AUH  |
-| Amman – Queen Alia International Airport  | AMM  |
-| Banjul Yundum International Airport  | BJL  |
+| Bahrein International Airport  | BAH  |
 | Beijing Capital International Airport  | PEK  |
 | Boryspil International Airport  | KBP  |
 | Kigali International Airport  | KGL  |
 | Cairo International Airport  | CAI  |
-| Casablanca Mohammed V International Airport  | CMN  |
-| Damman – King Fahd International Airport  | DMM  |
+| Damman-King Fahd International Airport  | DMM  |
 | Dar Es Salaam International Airport  | DAR  |
-| Denpasar Bali International Airport  | DPS  |
 | Dubai International Airport  | DXB  |
-| Dubai World Central – Al Maktoum International Airport  | DWC  |
+| Entebbe International Airport  | EBB  |
 | Guangzhou Baiyun International Airport  | CAN  |
 | Hong Kong International Airport  | HKG  |
 | Istanboel International Atatürk Airport  | IST  |
 | Istanboel Sabiha Gökçen International Airport  | SAW  |
 | Johannesburg International Airport  | JNB  |
-| Luanda 4 de Fevereiro International Airport  | LAD  |
+| Kilimanjaro International Airport  | JRO  |
+| Larnaca International Airport  | LCA  |
 | Moskou Sheremetjevo International Airport  | SVO  |
-| Muscat Seeb International Airport  | MCT  |
 | Nairobi Jomo Kenyatta International Airport  | NBO  |
 | New Delhi Indira Gandhi International Airport  | DEL  |
-| Panama Stad – Tocumen International Airport  | PTY  |
-| Quito Mariscal Sucre International Airport  | UIO  |
+| Panama Stad-Tocumen International Airport  | PTY  |
 | Singapore Changi International Airport  | SIN  |
 
 ###Bijlage 1a 

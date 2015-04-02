@@ -3,13 +3,13 @@
 ##Regeling van het Commissariaat voor de Media van 5 november 2013 houdende regels voor de landelijke publieke media-instellingen omtrent ledenvoordelen en ledenwerfactiviteiten als bedoeld in artikel 2.137, eerste lid, van de Mediawet 2008, en omtrent oproepen in het kader van ledenwerving als bedoeld in artikel 2.90 van de Mediawet 2008 (Regeling ledenvoordelen en ledenwerfactiviteiten)
 
 Het Commissariaat voor de Media,  
-gelet op de [artikelen 2.90](../../../../../../wet/mediawet/2008/BWBR0025028/README.md) en [2.137 van de Mediawet 2008](../../../../../../wet/mediawet/2008/BWBR0025028/README.md);
+gelet op de artikelen 2.90 en 2.137 van de Mediawet 2008;
 
 overwegende dat:
 
 – de Beleidsregels verenigingsactiviteiten van het Commissariaat van 4 december 2007<sup> 1 Beleidsregels verenigingsactiviteiten van het Commissariaat van 4 december 2007, *Stcrt. 2007, nr. 247*, p. 109. </sup> bepalingen bevatten met betrekking tot ledenvoordelen en ledenwerfactiviteiten;  
 
-– [artikel 6 van het Besluit ontheffing zelfpromotie](../../../../../../zbo/besluit/ontheffing/zelfpromotie/publieke/omroep/BWBR0022112/README.md) van het Commissariaat van 5 juni 2007<sup> 2 Besluit ontheffing zelfpromotie van het Commissariaat van 5 juni 2007, *Stcrt. 2007, nr. 117*, p. 17. </sup> het beleid van het Commissariaat bevat met betrekking tot oproepen voor ledenwerfactiviteiten in het media-aanbod;  
+– artikel 6 van het Besluit ontheffing zelfpromotie van het Commissariaat van 5 juni 2007<sup> 2 Besluit ontheffing zelfpromotie van het Commissariaat van 5 juni 2007, *Stcrt. 2007, nr. 117*, p. 17. </sup> het beleid van het Commissariaat bevat met betrekking tot oproepen voor ledenwerfactiviteiten in het media-aanbod;  
 
 – in de onderhavige regeling de inhoud van deze twee beleidsregels samenbrengt en op onderdelen verduidelijkt;     Besluit:     
 
@@ -19,10 +19,10 @@ overwegende dat:
 
 1.  In deze regeling wordt verstaan onder: 
 
-a.  *omroepvereniging:* een vereniging die voldoet aan de eisen genoemd in [artikel 2.24](../../../../../../wet/mediawet/2008/BWBR0025028/README.md), van de [wet](../../../../../../wet/mediawet/2008/BWBR0025028/README.md) en waaraan een erkenning of voorlopige erkenning is verleend op grond van [artikel 2.29 van de wet](../../../../../../wet/mediawet/2008/BWBR0025028/README.md);  
+a.  *omroepvereniging:* een vereniging die voldoet aan de eisen genoemd in artikel 2.24, van de wet en waaraan een erkenning of voorlopige erkenning is verleend op grond van artikel 2.29 van de wet;  
 
-b.  *wet:* de [Mediawet 2008](../../../../../../wet/mediawet/2008/BWBR0025028/README.md).     
-2.  Deze regeling is voor zover nodig van overeenkomstige toepassing op omroeporganisaties die een aanvraag voor een erkenning of voorlopige erkenning indienen voor de erkenningperiode 2016–2020 of voornemens zijn dat te doen, volgens de bepalingen van de [Mediawet 2008](../../../../../../wet/mediawet/2008/BWBR0025028/README.md) zoals die wet komt te luiden na inwerkingtreding van het op 11 februari 2011 ingediende voorstel van wet tot wijziging van de Mediawet 2008 teneinde het stelsel van de landelijke publieke omroep te moderniseren<sup> 3 Kamerstukken II, 2010–2011, 33 541, nrs. 1–2 </sup>.  
+b.  *wet:* de Mediawet 2008.     
+2.  Deze regeling is voor zover nodig van overeenkomstige toepassing op omroeporganisaties die een aanvraag voor een erkenning of voorlopige erkenning indienen voor de erkenningperiode 2016–2020 of voornemens zijn dat te doen, volgens de bepalingen van de Mediawet 2008 zoals die wet komt te luiden na inwerkingtreding van het op 11 februari 2011 ingediende voorstel van wet tot wijziging van de Mediawet 2008 teneinde het stelsel van de landelijke publieke omroep te moderniseren<sup> 3 Kamerstukken II, 2010–2011, 33 541, nrs. 1–2 </sup>.  
 
 ####Ledenvoordelen
 
@@ -30,31 +30,21 @@ b.  *wet:* de [Mediawet 2008](../../../../../../wet/mediawet/2008/BWBR0025028/RE
 
 ####Relatie
 
-Elk door een omroepvereniging te verstrekken voordeel in het kader van ledenwerving en aan bestaande leden dient te zijn gekoppeld aan de identiteit of het media-aanbod van de omroepvereniging. 
+Elk door een omroepvereniging te verstrekken voordeel aan bestaande leden dient te zijn gekoppeld aan de identiteit of het media-aanbod van de omroepvereniging. 
 
 ### Artikel  3  
 
 ####Toelaatbaarheid aanbieden en verstrekken ledenvoordeel
 
-Het is omroepverenigingen toegestaan op geld waardeerbare voordelen aan te bieden en te verstrekken aan: 
-
-1. nieuwe leden in het kader van ledenwerving voor de desbetreffende omroepvereniging, voor zover het voordeel bestaat uit: 
-
-a. een korting op de jaarlijkse kosten van een abonnement op een programmablad van de omroepvereniging, waarbij de waarde van de korting niet meer bedraagt dan de jaarcontributie welke door de betrokken omroepvereniging in rekening is gebracht; dan wel  
-
-b. een korting ter waarde van genoemde jaarcontributie op de prijs van een af te nemen product of andere dienst, niet zijnde het lidmaatschap zelf,    
-
-2. bestaande leden, mits de te verstrekken voordelen bescheiden van aard zijn en in ieder geval in redelijke verhouding staan tot de hoogte van de contributie en de duur van het lidmaatschap.  
-
-3. Bij de berekening van de korting of de voordelen bedoeld in dit artikel wordt uitgegaan van de blijkens de inkoopfactuur voor het betrokken geschenk door de omroepvereniging betaalde inkoopprijs met inbegrip van de daarover verschuldigde BTW.   
+1. Het is omroepverenigingen toegestaan op geld waardeerbare voordelen aan te bieden en te verstrekken aan bestaande leden, mits de te verstrekken voordelen bescheiden van aard zijn en in ieder geval in redelijke verhouding staan tot de hoogte van de contributie en de duur van het lidmaatschap. 
+2. Bij de berekening van de voordelen bedoeld in dit artikel wordt uitgegaan van de blijkens de inkoopfactuur voor het betrokken geschenk door de omroepvereniging betaalde inkoopprijs met inbegrip van de daarover verschuldigde BTW. 
 
 ### Artikel  4  
 
 ####Oproepen in het media-aanbod ten aanzien van ledenvoordelen
 
 1.  Het video- en audiogedeelte van het media-aanbod bevat buiten het aanbod dat wordt verzorgd door de Ster, geen oproepen over het verstrekken van op geld waardeerbare voordelen aan bestaande leden.   
-2.  Binnen het tekst- en grafische gedeelte van het media-aanbod zijn oproepen over het verstrekken van op geld waardeerbare voordelen aan bestaande leden toegestaan indien het aandeel van dergelijke oproepen beperkt is in hoeveelheid en duur en niet overheersend is.   
-3.  Op oproepen in het media-aanbod over het verstrekken van op geld waardeerbare voordelen in het kader van ledenwerving is artikel 7 van overeenkomstige toepassing.  
+2.  Binnen het tekst- en grafische gedeelte van het media-aanbod zijn oproepen over het verstrekken van op geld waardeerbare voordelen aan bestaande leden toegestaan indien het aandeel van dergelijke oproepen beperkt is in hoeveelheid en duur en niet overheersend is.  
 
 ####Ledenwerfactiviteiten
 
@@ -62,7 +52,7 @@ b. een korting ter waarde van genoemde jaarcontributie op de prijs van een af te
 
 ####Ledenwerfactiviteiten tijdens bijeenkomsten
 
-1.  Het is omroepverenigingen toegestaan één maal per jaar een verenigingsactiviteit voor haar leden als bedoeld in [2.136, tweede lid, onder b van de wet](../../../../../../wet/mediawet/2008/BWBR0025028/README.md) open te stellen voor niet-leden, teneinde nieuwe leden voor de omroepvereniging te werven.   
+1.  Het is omroepverenigingen toegestaan één maal per jaar een verenigingsactiviteit voor haar leden als bedoeld in 2.136, tweede lid, onder b van de wet open te stellen voor niet-leden, teneinde nieuwe leden voor de omroepvereniging te werven.   
 2.  Het is omroepverenigingen toegestaan om ledenwerfactiviteiten te verrichten tijdens andere door of op initiatief van de omroepvereniging georganiseerde bijeenkomsten dan die bedoeld in het eerste lid, indien die bijeenkomsten goedgekeurde nevenactiviteiten betreffen.   
 3.  Het is omroepverenigingen toegestaan om ledenwerfactiviteiten te verrichten tijdens bijeenkomsten die niet door of op initiatief van de betreffende omroepvereniging zijn georganiseerd.  
 
@@ -121,7 +111,7 @@ Ledenwerfactiviteiten worden zodanig ingericht dat elke persoon die lid wordt, z
 
 Commissariaat voor de Media, 
 M. de Cock Buning,  
-Voorzitter.. 
+Voorzitter. 
 
 E. Eljon,  
 Commissaris.    

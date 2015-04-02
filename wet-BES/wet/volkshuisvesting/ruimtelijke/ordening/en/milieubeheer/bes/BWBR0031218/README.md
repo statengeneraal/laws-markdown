@@ -34,7 +34,7 @@ Deze wet is van toepassing in de openbare lichamen Bonaire, Sint-Eustatius en Sa
 
 *belang van de bescherming van de bodem:* het belang van het voorkomen, beperken of ongedaan maken van veranderingen van hoedanigheden van de bodem, die een vermindering of bedreiging betekenen van de functionele eigenschappen die de bodem voor mens, plant of dier heeft;  
 
-*beschermde soorten:* de in de natuur levende dieren en planten beschermd bij of krachtens de [Wet grondslagen natuurbeheer en -bescherming BES](../../../../../../../../../wet-BES/wet/grondslagen/natuurbeheer-/en/bescherming/bes/BWBR0028434/README.md);  
+*beschermde soorten:* de in de natuur levende dieren en planten beschermd bij of krachtens de Wet grondslagen natuurbeheer en -bescherming BES;  
 
 *beste beschikbare technieken:* voor het bereiken van een hoog niveau van bescherming van het milieu meest doeltreffende technieken om de emissies en andere nadelige gevolgen voor het milieu, die een inrichting kan veroorzaken, te voorkomen of, indien dat niet mogelijk is, zoveel mogelijk te beperken, die – kosten en baten in aanmerking genomen – economisch en technisch haalbaar in de bedrijfstak waartoe de inrichting behoort, kunnen worden toegepast, en die voor degene die de inrichting drijft, redelijkerwijs te verkrijgen zijn, waarbij onder technieken mede wordt begrepen het ontwerp van de inrichting, de wijze waarop zij wordt gebouwd en onderhouden, alsmede de wijze van bedrijfsvoering en de wijze waarop de inrichting buiten gebruik wordt gesteld;  
 
@@ -88,7 +88,7 @@ b. elke vorm van schade aan wateren die een aanmerkelijke negatieve invloed heef
 
 c. elke vorm van bodemverontreiniging die een aanmerkelijk risico inhoudt voor negatieve effecten op de menselijke gezondheid, waarbij direct of indirect op, in of onder de bodem, stoffen, preparaten, organismen of micro-organismen gebracht zijn;    
 
-*natuurlijke habitats:* de gebieden beschermd bij of krachtens de [Wet grondslagen natuurbeheer en -bescherming BES](../../../../../../../../../wet-BES/wet/grondslagen/natuurbeheer-/en/bescherming/bes/BWBR0028434/README.md);  
+*natuurlijke habitats:* de gebieden beschermd bij of krachtens de Wet grondslagen natuurbeheer en -bescherming BES;  
 
 *natuurlijke rijkdommen:* beschermde soorten, natuurlijke habitats, wateren of bodem;  
 
@@ -138,8 +138,8 @@ a. onder gevolgen voor het milieu in ieder geval verstaan: gevolgen voor het fys
 b. onder gevolgen voor het milieu mede verstaan: gevolgen die verband houden met een doelmatig beheer van afvalstoffen of een doelmatig beheer van afvalwater, gevolgen die verband houden met het verbruik van energie en grondstoffen, alsmede gevolgen die verband houden met het verkeer van personen of goederen van en naar de inrichting;  
 
 c. onder bescherming van het milieu mede verstaan: de verbetering van het milieu, de zorg voor een doelmatig beheer van afvalstoffen of een doelmatig beheer van afvalwater, de zorg voor een zuinig gebruik van energie en grondstoffen, alsmede de zorg voor de beperking van de nadelige gevolgen voor het milieu van het verkeer van personen of goederen van en naar de inrichting.     
-3.  Dit lid is nog niet in werking getreden.   
-4.  Dit lid is nog niet in werking getreden.   
+3.  Bij algemene maatregel van bestuur worden categorieën van inrichtingen aangewezen, die nadelige gevolgen voor het milieu kunnen veroorzaken.   
+4.  In deze wet en de daarop berustende bepalingen wordt onder inrichting verstaan een inrichting, behorende tot een categorie die krachtens het derde lid is aangewezen. Daarbij worden als één inrichting beschouwd de tot eenzelfde onderneming of instelling behorende installaties die onderling technische, organisatorische of functionele bindingen hebben en in elkaars onmiddellijke nabijheid zijn gelegen. Onze Minister kan nadere regels stellen met betrekking tot hetgeen in deze wet en de daarop berustende bepalingen onder inrichting wordt verstaan.   
 5.  In deze wet en de daarop berustende bepalingen wordt: 
 
 a. onder het zich ontdoen van afvalstoffen mede verstaan: het nuttig toepassen of verwijderen van afvalstoffen binnen de inrichting waarin deze zijn ontstaan;  
@@ -192,7 +192,7 @@ a. er rekening mee dat het belang van de bescherming van het milieu vereist dat 
 
 b. er rekening mee dat het belang van een doelmatig beheer van afvalstoffen vereist dat het beheer van afvalstoffen op effectieve en efficiënte wijze geschiedt en effectief toezicht dan wel douanecontrole op het beheer van afvalstoffen mogelijk is.     
 5.  Onze Minister betrekt bij de voorbereiding van het milieubeleidsplan in ieder geval de bestuurscolleges van de openbare lichamen en de naar zijn oordeel bij de te behandelen onderwerpen meest belanghebbende instellingen en organisaties.   
-6.  In het milieubeleidsplan wordt rekening gehouden met het natuurbeleidsplan en de natuurplannen, bedoeld in onderscheidenlijk [artikel 2, eerste lid](../../../../../../../../../wet-BES/wet/grondslagen/natuurbeheer-/en/bescherming/bes/BWBR0028434/README.md), en [9, eerste lid, van de Wet grondslagen natuurbeheer en –bescherming BES](../../../../../../../../../wet-BES/wet/grondslagen/natuurbeheer-/en/bescherming/bes/BWBR0028434/README.md) alsmede met de ontwikkelingsplannen, bedoeld in [artikel 7 van de Wet grondslagen ruimtelijke ontwikkelingsplanning BES](../../../../../../../../../wet-BES/wet/grondslagen/ruimtelijke/ontwikkelingsplanning/bes/BWBR0028218/README.md).   
+6.  In het milieubeleidsplan wordt rekening gehouden met het natuurbeleidsplan en de natuurplannen, bedoeld in onderscheidenlijk artikel 2, eerste lid, en 9, eerste lid, van de Wet grondslagen natuurbeheer en –bescherming BES alsmede met de ontwikkelingsplannen, bedoeld in artikel 7 van de Wet grondslagen ruimtelijke ontwikkelingsplanning BES.   
 7.  Zodra het milieubeleidsplan is vastgesteld, doet Onze Minister hiervan mededeling door overlegging van het plan aan de beide kamers der Staten-Generaal en door toezending ervan aan de bestuurscolleges.   
 8.  Onze Minister maakt de vaststelling bekend in de Staatscourant. Hij geeft hierbij aan op welke wijze kennis kan worden verkregen van de inhoud van het plan.   
 9.  Het milieubeleidsplan geldt met ingang van een bij besluit van Onze Minister vast te stellen tijdstip.   
@@ -265,9 +265,9 @@ a. dat tot het gewone onderhoud behoort, of
 b. dat bij algemene maatregel van bestuur is aangemerkt als van beperkte betekenis, waarbij tevens voorschriften kunnen worden gegeven omtrent het gebruik van het bouwwerk.     
 3.  Het tweede lid, onderdeel b, is niet van toepassing op het bouwen in, op, aan of bij: 
 
-a. een beschermd monument of beschermd stads- en dorpsgezicht als bedoeld in de [Monumentenwet BES](../../../../../../../../../wet-BES/monumentenwet/bes/BWBR0028429/README.md);  
+a. een beschermd monument of beschermd stads- en dorpsgezicht als bedoeld in de Monumentenwet BES;  
 
-b. een monument waarop [artikel 5, vierde lid, eerste volzin, van de Monumentenwet BES](../../../../../../../../../wet-BES/monumentenwet/bes/BWBR0028429/README.md) van toepassing is.    
+b. een monument waarop artikel 5, vierde lid, eerste volzin, van de Monumentenwet BES van toepassing is.    
 
 ### Artikel  2.3  
 Treedt in werking op een nader te bepalen tijdstip 
@@ -365,9 +365,9 @@ De bouwvergunning wordt geweigerd, indien:
 
 a. de aanvraag en de daarbij overgelegde gegevens naar het oordeel van het bestuurscollege niet aannemelijk maken dat het bouwen waarop de aanvraag betrekking heeft, voldoet aan de voorschriften die zijn gegeven bij of krachtens algemene maatregel van bestuur als bedoeld in artikel 2.3;  
 
-b. het bouwen in strijd is met een ontwikkelingsplan als bedoeld in [artikel 7 van de Wet grondslagen ruimtelijke ontwikkelingsplanning BES](../../../../../../../../../wet-BES/wet/grondslagen/ruimtelijke/ontwikkelingsplanning/bes/BWBR0028218/README.md);  
+b. het bouwen in strijd is met een ontwikkelingsplan als bedoeld in artikel 7 van de Wet grondslagen ruimtelijke ontwikkelingsplanning BES;  
 
-c. voor het bouwen een vergunning ingevolge de [Monumentenwet BES](../../../../../../../../../wet-BES/monumentenwet/bes/BWBR0028429/README.md) is vereist en deze niet is verleend;  
+c. voor het bouwen een vergunning ingevolge de Monumentenwet BES is vereist en deze niet is verleend;  
 
 d. het bouwen in strijd is met redelijke eisen van welstand, beoordeeld naar de criteria, bedoeld in artikel 2.5, tweede lid, of  
 
@@ -589,7 +589,7 @@ a. die over een vergunning als bedoeld in artikel 4.10 beschikt;
 
 b. die bevoegd is de afvalstoffen nuttig toe te passen of te verwijderen op grond van een krachtens artikel 4.2, tweede lid, verleende vrijstelling; of  
 
-c. die krachtens [artikel 10.37 van de Wet milieubeheer](../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) bevoegd is.     
+c. die krachtens artikel 10.37 van de Wet milieubeheer bevoegd is.     
 3.  Bij of krachtens algemene maatregel van bestuur kunnen in het belang van de bescherming van het milieu regels worden gesteld omtrent het inzamelen en het beheer van de afvalstoffen, bedoeld in het eerste lid.  
 
 ### Artikel  4.10  
@@ -800,16 +800,11 @@ f. voorschriften ter bescherming van die riolering of een andere voor het lozen 
 
 ####Algemene regels en vergunningen
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Paragraaf  5.1  
 
 ####Algemeen
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  5.1  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld, die nodig zijn ter bescherming van het milieu tegen de nadelige gevolgen die inrichtingen daarvoor kunnen veroorzaken. Daarbij kan worden bepaald dat daarbij gestelde regels slechts gelden in daarbij aangegeven categorieën van gevallen.   
 2.  In afwijking van het eerste lid kunnen bij of krachtens algemene maatregel van bestuur categorieën van inrichtingen worden aangewezen, waarvoor het is verboden zonder een daartoe verleende vergunning een inrichting: 
@@ -874,23 +869,18 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Vergunningen
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  5.6  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Het bestuurscollege van het openbaar lichaam waar de inrichting zal zijn of is gelegen, is bevoegd te beslissen op de aanvraag om een vergunning als bedoeld in artikel 5.1, tweede lid.   
 2.  In afwijking van het eerste lid kan bij of krachtens algemene maatregel van bestuur worden bepaald dat Onze Minister bevoegd is te beslissen op de aanvraag om een vergunning ten aanzien van daarbij aangewezen categorieën van inrichtingen.   
 3.  In afwijking van het eerste en tweede lid kan Onze Minister, indien dat geboden is in het belang van de veiligheid van de Staat, in overeenstemming met Onze betrokken Minister, bepalen dat Onze Minister ten aanzien van een bij of krachtens zijn besluit aangewezen inrichting bevoegd is te beslissen op de aanvraag om een vergunning.  
 
 ### Artikel  5.7  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Indien bij of krachtens wettelijk voorschrift dan wel door een verandering van de inrichting of de werking daarvan de bevoegdheid te beslissen op aanvragen om een vergunning overgaat naar een ander bestuursorgaan, worden reeds voor die inrichting verleende vergunningen gelijkgesteld met vergunningen, verleend door dat andere bestuursorgaan.   
 2.  Bij algemene maatregel van bestuur kunnen regels worden gesteld over de overgang, bedoeld in het eerste lid.  
 
 ### Artikel  5.8  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Indien een vergunning wordt aangevraagd als bedoeld in artikel 5.1, tweede lid, onderdeel a en b, en voor die inrichting al een of meer vergunningen krachtens deze wet zijn verleend, kan het bevoegd gezag, uit eigen beweging of op verzoek, bepalen dat een vergunning moet worden aangevraagd voor die verandering en voor het in werking hebben na die verandering van de gehele inrichting of onderdelen daarvan, waarmee die verandering samenhangt.   
 2.  Indien het bevoegd gezag heeft bepaald dat een zodanige vergunning moet worden aangevraagd, besluit het tot het buiten behandeling laten van aanvragen om een vergunning voor de betrokken verandering van de inrichting of van de werking daarvan, die geen betrekking hebben op een zodanige vergunning.   
@@ -898,25 +888,18 @@ Treedt in werking op een nader te bepalen tijdstip
 4.  Een met toepassing van dit artikel verleende vergunning vervangt met ingang van het tijdstip waarop zij in werking treedt, de eerder voor de inrichting of met betrekking tot de in het eerste lid bedoelde onderdelen daarvan verleende vergunningen. Deze vergunningen vervallen op het tijdstip waarop de met toepassing van dit artikel verleende vergunning onherroepelijk wordt.  
 
 ### Artikel  5.9  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot de wijze waarop de aanvraag moet geschieden en de gegevens die door de aanvrager moeten worden verstrekt met het oog op de beslissing op de aanvraag.   
-2.  Bij de algemene maatregel van bestuur, bedoeld in het eerste lid, wordt in ieder geval bepaald dat de aanvrager in gevallen waarin de vergunning betrekking heeft op het oprichten of veranderen van een inrichting, hetgeen tevens is aan te merken als bouwen in de zin van hoofdstuk 2: 
-
-a. indien de aanvraag om een bouwvergunning voor dat bouwen tegelijk met de aanvraag om de vergunning krachtens dit hoofdstuk is ingediend, een afschrift van die aanvraag om een bouwvergunning bij zijn aanvraag overlegt;  
-
-b. indien de aanvraag om een bouwvergunning voor dat bouwen niet tegelijk met de aanvraag om de vergunning krachtens deze wet wordt ingediend, een afschrift van die aanvraag om een bouwvergunning aan het bevoegd gezag overlegt gelijktijdig met de indiening van de aanvraag om de vergunning krachtens deze wet.     
-3.  Bij ministeriële regeling kunnen regels worden gesteld ter uitvoering van het bepaalde krachtens het eerste en tweede lid.  
+2.  Dit lid is nog niet in werking getreden.   
+3.  Dit lid is nog niet in werking getreden.  
 
 ### Artikel  5.10  
-Treedt in werking op een nader te bepalen tijdstip 
 
-1.  Het bestuurscollege stelt de inspecteur in de gelegenheid advies uit te brengen over het ontwerp van de beschikking op de aanvraag om een vergunning.   
+1.  Dit lid is nog niet in werking getreden.   
 2.  Indien Onze Minister bevoegd is te beslissen op de aanvraag om een vergunning, stelt Onze Minister het bestuurscollege in de gelegenheid advies uit te brengen over het ontwerp van de beschikking op de aanvraag om een vergunning.   
-3.  De adviseurs, bedoeld in het eerste en tweede lid, kunnen te allen tijde uit eigen beweging advies uitbrengen over het ontwerp van de beschikking op de aanvraag om een vergunning.  
+3.  Dit lid is nog niet in werking getreden.  
 
 ### Artikel  5.11  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Het bevoegd gezag betrekt bij de beslissing op de aanvraag in ieder geval: 
 
@@ -932,12 +915,10 @@ b. aanwijzingen die met betrekking tot de beslissing op de aanvraag krachtens ar
 4.  Het bevoegd gezag geeft in de motivering van de beslissing op de aanvraag aan, op welke wijze de in het eerste lid genoemde aspecten de inhoud van het besluit hebben beïnvloed.  
 
 ### Artikel  5.12  
-Treedt in werking op een nader te bepalen tijdstip 
 
-Het bevoegd gezag draagt er bij de beslissing op de aanvraag zorg voor dat er geen strijd ontstaat met regels die met betrekking tot de inrichting gelden, gesteld bij of krachtens deze wet dan wel bij of krachtens de [Wet grondslagen ruimtelijke ontwikkelingsplanning BES](../../../../../../../../../wet-BES/wet/grondslagen/ruimtelijke/ontwikkelingsplanning/bes/BWBR0028218/README.md). 
+Het bevoegd gezag draagt er bij de beslissing op de aanvraag zorg voor dat er geen strijd ontstaat met regels die met betrekking tot de inrichting gelden, gesteld bij of krachtens deze wet dan wel bij of krachtens de Wet grondslagen ruimtelijke ontwikkelingsplanning BES. 
 
 ### Artikel  5.13  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De vergunning kan slechts in het belang van de bescherming van het milieu worden geweigerd.   
 2.  De vergunning wordt in ieder geval geweigerd indien: 
@@ -947,10 +928,9 @@ a. door verlening daarvan niet kan worden bereikt dat in de inrichting ten minst
 b. verlening daarvan niet in overeenstemming zou zijn met hetgeen overeenkomstig artikel 5.11, derde lid, door het bevoegd gezag in acht moet worden genomen;  
 
 c. door verlening daarvan strijd zou ontstaan met regels als bedoeld in artikel 5.12.     
-3.  In afwijking van het eerste lid kan de vergunning tevens worden geweigerd ingeval door verlening daarvan strijd zou ontstaan met een ontwikkelingsplan als bedoeld in de [Wet grondslagen ruimtelijke ontwikkelingsplanning BES](../../../../../../../../../wet-BES/wet/grondslagen/ruimtelijke/ontwikkelingsplanning/bes/BWBR0028218/README.md).  
+3.  In afwijking van het eerste lid kan de vergunning tevens worden geweigerd ingeval door verlening daarvan strijd zou ontstaan met een ontwikkelingsplan als bedoeld in de Wet grondslagen ruimtelijke ontwikkelingsplanning BES.  
 
 ### Artikel  5.14  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  In de vergunning wordt duidelijk aangegeven waarop zij betrekking heeft.   
 2.  De vergunning kan in het belang van de bescherming van het milieu onder beperkingen worden verleend.   
@@ -959,7 +939,6 @@ Treedt in werking op een nader te bepalen tijdstip
 5.  Voor zover met betrekking tot de inrichting regels gelden, gesteld bij of krachtens deze wet, kunnen de beperkingen en voorschriften daarvan alleen afwijken voor zover dat bij wettelijk voorschrift is toegestaan.  
 
 ### Artikel  5.15  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De aan een vergunning te verbinden voorschriften geven de doeleinden aan, die de vergunninghouder in het belang van de bescherming van het milieu op een door hem te bepalen wijze dient te verwezenlijken.   
 2.  Bij de voorschriften worden emissiegrenswaarden gesteld voor stoffen of voor daarbij aan te wijzen groepen, families of categorieën van stoffen, die in aanmerkelijke hoeveelheden uit de inrichting kunnen vrijkomen en die direct of door overdracht tussen water, lucht en bodem nadelige gevolgen voor het milieu kunnen veroorzaken.   
@@ -971,7 +950,6 @@ a. wordt bepaald of aan de eerstbedoelde voorschriften wordt voldaan, waarbij de
 b. de bij die bepaling verkregen gegevens aan het bevoegd gezag worden gemeld of ter inzage gegeven of anderszins ter beschikking moeten worden gesteld van het bevoegd gezag.    
 
 ### Artikel  5.16  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Voor zover dit naar het oordeel van het bevoegd gezag noodzakelijk is, kunnen aan de vergunning voorschriften worden verbonden, inhoudende de verplichting tot het treffen van technische maatregelen.   
 2.  Indien voorschriften als bedoeld in het eerste lid aan de vergunning worden verbonden in plaats van voorschriften als bedoeld in artikel 5.15, eerste en tweede lid, leiden de technische maatregelen tot een gelijkwaardige bescherming van het milieu.   
@@ -983,7 +961,6 @@ b. daarbij aangegeven metingen, berekeningen of tellingen moeten worden verricht
 4.  Voor zover aan een vergunning voorschriften worden verbonden als bedoeld in het derde lid, is artikel 5.15, vierde lid, onderdeel b, van overeenkomstige toepassing.  
 
 ### Artikel  5.17  
-Treedt in werking op een nader te bepalen tijdstip 
 
 Aan de vergunning worden in ieder geval de voor de betrokken inrichting in aanmerking komende voorschriften verbonden met betrekking tot: 
 
@@ -1004,7 +981,6 @@ g. het voorkomen van ongevallen en het beperken van de gevolgen van ongevallen;
 h. het treffen van maatregelen om bij definitieve bedrijfsbeëindiging de nadelige gevolgen die de inrichting heeft veroorzaakt voor het terrein waarop zij was gevestigd, ongedaan te maken of te beperken voor zover dat nodig is om dat terrein weer geschikt te maken voor een volgende functie.   
 
 ### Artikel  5.18  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Aan de vergunning kunnen in het belang van de bescherming van het milieu andere voorschriften worden verbonden. Die voorschriften kunnen in ieder geval inhouden: 
 
@@ -1028,7 +1004,6 @@ i. dat met betrekking tot een bij het voorschrift aangegeven onderwerp waarover 
 2.  Bij een voorschrift inzake nadere eisen als bedoeld in het eerste lid, onderdeel f, kan worden aangegeven hoe van die eisen door het aangewezen bestuursorgaan openbaar wordt kennisgegeven.  
 
 ### Artikel  5.19  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Bij algemene maatregel van bestuur kunnen regels worden gesteld, inhoudende de verplichting voor het bevoegd gezag beperkingen of voorschriften, die nodig zijn ter bescherming van het milieu en waarvan de inhoud in die maatregel is aangegeven, aan te brengen onderscheidenlijk te verbinden aan de vergunningen voor inrichtingen die behoren tot een bij de maatregel aangewezen categorie. Bij de algemene maatregel van bestuur kan worden bepaald dat de daarbij gestelde regels slechts gelden in daarbij aangegeven categorieën van gevallen.   
 2.  Artikel 5.2, eerste lid, is van overeenkomstige toepassing op de beslissing tot het vaststellen van een algemene maatregel van bestuur als bedoeld in het eerste lid.   
@@ -1037,7 +1012,6 @@ Treedt in werking op een nader te bepalen tijdstip
 5.  Bij de maatregel wordt voor de daarbij opgelegde verplichtingen het tijdstip aangegeven, waarop zij met betrekking tot de reeds verleende vergunningen moeten zijn uitgevoerd.  
 
 ### Artikel  5.20  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Indien de vergunning betrekking heeft op een inrichting waarin afvalstoffen nuttig worden toegepast of worden verwijderd, bevat de vergunning ten minste de verplichtingen: 
 
@@ -1057,7 +1031,6 @@ b. tot het bewaren van de geregistreerde gegevens gedurende ten minste vijf jare
 2.  Bij ministeriële regeling kunnen regels worden gesteld omtrent de wijze waarop de registratie plaatsvindt.  
 
 ### Artikel  5.21  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Bij algemene maatregel van bestuur wordt bepaald dat in daarbij aangegeven categorieën van gevallen waarin inrichtingen ernstige nadelige gevolgen voor het milieu kunnen veroorzaken, aan de vergunning tevens voorschriften kunnen worden verbonden, die de verplichting inhouden dat degene die de inrichting drijft: 
 
@@ -1069,7 +1042,6 @@ b. financiële zekerheid stelt ter dekking van zijn aansprakelijkheid voor schad
 4.  Indien overeenkomstig het eerste lid een voorschrift als bedoeld in dat lid, onderdeel a, aan een vergunning is verbonden, kan het bevoegd gezag bij het niet nakomen door de houder van de vergunning van een krachtens de vergunning voor hem geldende verplichting waarvoor financiële zekerheid is gesteld, bepalen tot welk bedrag het verhaal zal nemen op de gestelde zekerheid. Het bevoegd gezag kan het te verhalen bedrag invorderen bij dwangbevel.  
 
 ### Artikel  5.22  
-Treedt in werking op een nader te bepalen tijdstip 
 
 In een vergunning kan worden bepaald: 
 
@@ -1080,7 +1052,6 @@ b. dat daarbij aangewezen voorschriften slechts gelden tot een daarbij aangegeve
 c. dat daarbij aangewezen voorschriften nadat de vergunning haar gelding heeft verloren, gedurende een daarbij aangegeven termijn van kracht blijven.   
 
 ### Artikel  5.23  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  In een vergunning kan worden bepaald dat zij slechts geldt voor een daarbij vast te stellen termijn van ten hoogste vijf jaar, indien: 
 
@@ -1095,7 +1066,6 @@ d. dat nodig is in verband met het ontwikkelen van een beter inzicht in de gevol
 3.  In een vergunning wordt bepaald dat zij slechts geldt voor een daarbij aangegeven termijn, voor zover dat is bepaald bij een algemene maatregel van bestuur, die is vastgesteld ter uitvoering van een voor de openbare lichamen verbindend verdrag of een voor de openbare lichamen verbindend besluit van een volkenrechtelijke organisatie. De bij de algemene maatregel van bestuur, bedoeld in de eerste volzin, aangegeven termijn kan zo nodig afwijken van de in het eerste en tweede lid genoemde termijnen.  
 
 ### Artikel  5.24  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De vergunning voor een inrichting vervalt: 
 
@@ -1105,7 +1075,6 @@ b. indien de inrichting een stortplaats is en deze krachtens artikel 5.35 voor g
 2.  Indien kan worden verwacht dat de inrichting niet binnen de in het eerste lid, onderdeel a, bedoelde termijn kan worden voltooid en in werking gebracht, kan in de vergunning een andere termijn worden vastgesteld, die daarvoor in de plaats treedt.  
 
 ### Artikel  5.25  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Een voor een inrichting verleende vergunning geldt tevens voor veranderingen van de inrichting of van de werking daarvan die niet in overeenstemming zijn met de voor de inrichting verleende vergunning of de daaraan verbonden beperkingen en voorschriften, maar die niet leiden tot andere of grotere nadelige gevolgen voor het milieu dan die de inrichting ingevolge de vergunning en de daaraan verbonden beperkingen en voorschriften mag veroorzaken, onder voorwaarde dat: 
 
@@ -1125,7 +1094,6 @@ a. de gegevens die bij de melding moeten worden verstrekt;
 b. de openbare kennisgeving van de verklaring.    
 
 ### Artikel  5.26  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Een voor een inrichting verleende vergunning geldt voor een ieder die de inrichting drijft. Degene die de inrichting drijft, draagt er zorg voor dat de aan de vergunning verbonden voorschriften worden nageleefd.   
 2.  Indien een vergunning zal gaan gelden voor een ander dan de vergunninghouder, meldt de vergunninghouder dat ten minste een maand voordien aan het bevoegd gezag, onder vermelding van de bij algemene maatregel van bestuur aangegeven gegevens.   
@@ -1136,34 +1104,29 @@ a. de vergunning nog gedurende een daarbij aangegeven termijn blijft gelden voor
 b. de vergunning ook geldt voor een rechtspersoon, aan wie zij is overgedragen door een andere rechtspersoon, indien daarvoor door het bevoegd gezag toestemming is verleend.    
 
 ### Artikel  5.27  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Indien met betrekking tot een inrichting waarvoor de bij of krachtens artikel 5.1, tweede lid, gestelde verboden niet gelden, die verboden op enig tijdstip gaan gelden, kan die inrichting in afwijking van die bepaling zonder vergunning in werking worden gehouden tot twaalf weken na dat tijdstip en, indien binnen deze termijn een aanvraag om de krachtens die bepaling vereiste vergunning is ingediend, vervolgens tot acht weken na het tijdstip waarop de beschikking op die aanvraag in werking is getreden.   
 2.  Indien zodanige verboden gaan gelden ten gevolge van een verandering van de inrichting of van de werking daarvan, is het eerste lid niet van toepassing, voor zover het die verandering betreft.   
 3.  Indien de bij of krachtens artikel 5.1, tweede lid, gestelde verboden met betrekking tot de inrichting niet golden, blijven de voorschriften die krachtens een algemene maatregel van bestuur krachtens artikel 5.1, eerste lid, voor de inrichting golden onmiddellijk voor het gaan gelden van die verboden, voor de inrichting van toepassing gedurende de periode waarin de inrichting ingevolge het eerste lid zonder vergunning in werking mag worden gehouden, behoudens voor zover het veranderingen als bedoeld in het tweede lid betreft.  
 
 ### Artikel  5.28  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Het bevoegd gezag beziet regelmatig of de beperkingen waaronder een vergunning is verleend, en de voorschriften die aan een vergunning zijn verbonden, nog toereikend zijn gezien de ontwikkelingen op het gebied van de technische mogelijkheden tot bescherming van het milieu en de ontwikkelingen met betrekking tot de kwaliteit van het milieu.   
 2.  Het bevoegd gezag wijzigt de beperkingen waaronder de vergunning is verleend en de voorschriften die daaraan zijn verbonden, vult deze aan of trekt ze in, dan wel brengt alsnog beperkingen aan, of verbindt alsnog voorschriften aan de vergunning, voor zover blijkt dat de nadelige gevolgen die de inrichting voor het milieu veroorzaakt, gezien de ontwikkeling van de technische mogelijkheden tot bescherming van het milieu verder kunnen, of, gezien de ontwikkeling van de kwaliteit van het milieu, verder moeten worden beperkt.   
 3.  Met betrekking tot de beslissing ter zake en de inhoud van de beperkingen en voorschriften zijn de artikelen 5.10 tot en met 5.23 van overeenkomstige toepassing.  
 
 ### Artikel  5.29  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Het bevoegd gezag kan beperkingen waaronder een vergunning is verleend, en voorschriften die daaraan zijn verbonden, wijzigen, aanvullen of intrekken, dan wel alsnog beperkingen aanbrengen of voorschriften aan een vergunning verbinden in het belang van de bescherming van het milieu.   
 2.  Een belanghebbende, met uitzondering van de vergunninghouder, kan het bevoegd gezag verzoeken een vergunning in het belang van de bescherming van het milieu met toepassing van het eerste lid te wijzigen.   
 3.  Met betrekking tot de beslissing ter zake en de inhoud van de beperkingen en voorschriften zijn de artikelen 5.10 tot en met 5.23 van overeenkomstige toepassing.  
 
 ### Artikel  5.30  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Op aanvraag van de vergunninghouder kan het bevoegd gezag beperkingen waaronder een vergunning is verleend, en voorschriften die daaraan zijn verbonden, wijzigen, aanvullen of intrekken, dan wel alsnog beperkingen aanbrengen of voorschriften aan een vergunning verbinden.   
 2.  Met betrekking tot de beslissing ter zake en de inhoud van die beperkingen en voorschriften zijn de artikelen 5.10 tot en met 5.23 van overeenkomstige toepassing.  
 
 ### Artikel  5.31  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Het bevoegd gezag kan, onverminderd het in de artikelen 5.33 en 10.7 bepaalde, een vergunning voor een inrichting geheel of gedeeltelijk intrekken: 
 
@@ -1188,7 +1151,6 @@ b. voor zover regels vastgesteld bij algemene maatregel van bestuur ter uitvoeri
 7.  Het bevoegd gezag gaat tot intrekking van een vergunning op grond van het eerste lid, onderdeel c, d of e, of het tweede lid niet over zonder de vergunninghouder in de gelegenheid te hebben gesteld binnen een termijn van zes weken schriftelijk of mondeling zienswijzen over de intrekking naar voren te brengen. Van de beschikking wordt mededeling gedaan door toezending daarvan aan de adviseurs, bedoeld in artikel 5.10, eerste en tweede lid.  
 
 ### Artikel  5.32  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Het bevoegd gezag kan de vergunning geheel of gedeeltelijk intrekken op verzoek van de vergunninghouder, indien het belang van de bescherming van het milieu zich daartegen niet verzet.   
 2.  Met betrekking tot de beslissing ter zake zijn de artikelen 5.11 en 5.12 van overeenkomstige toepassing.   
@@ -1261,8 +1223,6 @@ De rechthebbende ten aanzien van de plaats waar de in artikel 5.36 bedoelde zorg
 
 ####Regels met betrekking tot badinrichtingen en zwemgelegenheden
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  5.39  
 Treedt in werking op een nader te bepalen tijdstip 
 
@@ -1276,7 +1236,6 @@ Treedt in werking op een nader te bepalen tijdstip
 Indien de omstandigheden met betrekking tot een badinrichting, daartoe vanuit het oogpunt van hygiëne of veiligheid van de bezoekers aanleiding geven, kan het bestuurscollege de houder van de inrichting gelasten deze te sluiten. 
 
 ### Artikel  5.41  
-Treedt in werking op een nader te bepalen tijdstip 
 
 De voordracht voor een krachtens artikel 5.1 vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide Kamers der Staten-Generaal is overgelegd. 
 
@@ -1408,7 +1367,7 @@ b. een onderzoek als bedoeld in artikel 6.9.
 ### Artikel  6.11  
 Treedt in werking op een nader te bepalen tijdstip 
 
-1.  Onze Minister kan aan een openbaar lichaam voor bij of krachtens algemene maatregel aangewezen activiteiten op aanvraag een bijzondere uitkering verstrekken op grond van [artikel 91 van de Wet financiën openbare lichamen Bonaire, Sint-Eustatius en Saba](../../../../../../../../../wet-BES/wet/financiën/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028151/README.md) ter financiering van het onderzoek van onderzoeksgevallen, het saneringsonderzoek en de sanering van gevallen van ernstige verontreiniging.   
+1.  Onze Minister kan aan een openbaar lichaam voor bij of krachtens algemene maatregel aangewezen activiteiten op aanvraag een bijzondere uitkering verstrekken op grond van artikel 91 van de Wet financiën openbare lichamen Bonaire, Sint-Eustatius en Saba ter financiering van het onderzoek van onderzoeksgevallen, het saneringsonderzoek en de sanering van gevallen van ernstige verontreiniging.   
 2.  Bij of krachtens algemene maatregel van bestuur worden in ieder geval regels gesteld omtrent: 
 
 a. de criteria voor de verstrekking;  
@@ -1446,7 +1405,7 @@ e. financiële zekerheid wordt gesteld voor het nakomen van krachtens de vergunn
 
 f. wordt voldaan aan de door het bestuurscollege gestelde nadere eisen;  
 
-g. de vergunninghouder technische maatregelen treft waardoor monumenten als bedoeld in [artikel 1, onderdeel a, van de Monumentenwet BES](../../../../../../../../../wet-BES/monumentenwet/bes/BWBR0028429/README.md) in de bodem kunnen worden behouden;  
+g. de vergunninghouder technische maatregelen treft waardoor monumenten als bedoeld in artikel 1, onderdeel a, van de Monumentenwet BES in de bodem kunnen worden behouden;  
 
 h. de vergunninghouder archeologisch onderzoek laat uitvoeren op het te ontgronden terrein door een deskundige op het terrein van de archeologische monumentenzorg.     
 5.  Aan de vergunning kunnen voorschriften worden verbonden inhoudende dat op een daarbij omschreven wijze moet worden aangetoond of aan andere voorschriften aan de vergunning wordt voldaan en dat de daarbij verkregen gegevens ter beschikking worden gesteld van het bestuurscollege.   
@@ -1468,16 +1427,11 @@ c. de inhoud van voorschriften, bedoeld in artikel 6.12, vierde lid, onderdelen 
 
 ####Milieueffectrapportage
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Paragraaf  7.1  
 
 ####Algemeen
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  7.1  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Bij of krachtens algemene maatregel van bestuur worden activiteiten aangewezen die: 
 
@@ -1505,7 +1459,6 @@ d. een aanduiding van de mogelijke belangrijke nadelige gevolgen voor het milieu
 8.  Uiterlijk twee weken na het nemen van het besluit, bedoeld in het vijfde lid, onderdeel b, doet het bevoegd gezag gelijktijdig mededeling van dat besluit door kennisgeving in een of meer plaatselijke dagbladen, in de Staatscourant en op de voor publicatie van officiële mededelingen gebruikelijke wijze, en wordt een exemplaar van dat besluit ter inzage gelegd, ten aanzien waarvan in de kennisgeving de plaats, het tijdstip en de uren worden vermeld.  
 
 ### Artikel  7.2  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  In gevallen waarin een besluit wordt genomen op verzoek van degene die de betrokken activiteit onderneemt, maakt deze het milieueffectrapport.   
 2.  In andere dan de in het eerste lid bedoelde gevallen maakt het bevoegd gezag het milieueffectrapport.  
@@ -1514,10 +1467,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####De milieueffectrapportage die betrekking heeft op een besluit
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  7.3  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Een milieueffectrapport dat betrekking heeft op een besluit bevat ten minste de volgende gegevens: 
 
@@ -1541,7 +1491,6 @@ i. een samenvatting die aan een algemeen publiek voldoende inzicht geeft voor de
 2.  Bij of krachtens algemene maatregel van bestuur kunnen regels gesteld worden met betrekking tot de wijze waarop de gegevens, bedoeld in het eerste lid, worden bepaald en beschreven.  
 
 ### Artikel  7.4  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Degene die een aangewezen activiteit als bedoeld in artikel 7.1, eerste lid, onderdeel a, wil ondernemen en voornemens is een aanvraag in te dienen tot het nemen van een besluit als bedoeld in artikel 7.1, tweede lid, deelt dat voornemen schriftelijk mee aan het bevoegd gezag.   
 2.  Op verzoek van de aanvrager kan het bevoegd gezag advies uitbrengen inzake de reikwijdte en het detailniveau van de informatie ten behoeve van een milieueffectrapport.   
@@ -1549,14 +1498,12 @@ Treedt in werking op een nader te bepalen tijdstip
 4.  Het bevoegd gezag geeft uiterlijk acht weken na ontvangst van het verzoek dan wel bij ontstentenis daarvan uiterlijk acht weken na de mededeling van het voornemen, een advies inzake de reikwijdte en het detailniveau van de informatie ten behoeve van een milieueffectrapport.  
 
 ### Artikel  7.5  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Degene die een aangewezen activiteit als bedoeld in artikel 7.1, eerste lid, onderdeel b, wil ondernemen en voornemens is een aanvraag in te dienen tot het nemen van een besluit als bedoeld in artikel 7.1, derde lid, deelt dat schriftelijk mee aan het bevoegd gezag.   
 2.  Het bevoegd gezag neemt uiterlijk acht weken na de datum van ontvangst een beslissing omtrent de vraag of bij de voorbereiding van het besluit, vanwege de belangrijke nadelige gevolgen die de voorgenomen activiteit voor het milieu kan hebben, een milieueffectrapport moet worden gemaakt.   
 3.  Indien het bevoegd gezag oordeelt dat een milieueffectrapport moet worden gemaakt, brengt het bevoegd gezag samen met de beslissing advies uit inzake de reikwijdte en het detailniveau van de informatie ten behoeve van een milieueffectrapport.  
 
 ### Artikel  7.6  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Een milieueffectrapport dat betrekking heeft op een besluit, wordt samen met de aanvraag aan het bevoegd gezag overgelegd.   
 2.  Het bevoegd gezag geeft kennis van de aanvraag en het milieueffectrapport in één of meer plaatselijke dagbladen en voorts op de voor publicatie van officiële mededelingen gebruikelijke wijze.   
@@ -1570,7 +1517,6 @@ c. of en welke onafhankelijke instantie in de gelegenheid wordt gesteld advies u
 4.  Indien er een onafhankelijke instantie advies zal uitbrengen, zendt het bevoegd gezag een exemplaar van de aanvraag en het erbij behorende milieueffectrapport onverwijld aan de onafhankelijke instantie, bedoeld in het derde lid, onderdeel c. Deze onafhankelijke instantie brengt binnen acht weken na de kennisgeving, bedoeld in het tweede lid, haar advies uit.  
 
 ### Artikel  7.7  
-Treedt in werking op een nader te bepalen tijdstip 
 
 Het bevoegd gezag laat een verzoek tot het nemen van een besluit waarvoor een milieueffectrapport moet worden opgesteld buiten behandeling indien: 
 
@@ -1579,7 +1525,6 @@ a. bij het indienen van de aanvraag geen milieueffectrapport is overlegd;
 b. het overgelegde milieueffectrapport niet voldoet aan artikel 7.3, dan wel onjuistheden bevat.   
 
 ### Artikel  7.8  
-Treedt in werking op een nader te bepalen tijdstip 
 
 In het besluit wordt in ieder geval vermeld: 
 
@@ -1595,10 +1540,7 @@ d. indien er een advies, als bedoeld in artikel 7.6, vierde lid, is uitgebracht,
 
 ####De milieueffectrapportage die betrekking heeft op een plan
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  7.9  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Het milieueffectrapport dat betrekking heeft op een plan als bedoeld in artikel 7.1, vierde lid, wordt opgesteld door het bevoegd gezag en bevat ten minste: 
 
@@ -1622,12 +1564,10 @@ i. een samenvatting die aan een algemeen publiek voldoende inzicht geeft voor de
 2.  Bij of krachtens algemene maatregel van bestuur kunnen regels gesteld worden met betrekking tot de wijze waarop de in het eerste lid bedoelde gegevens worden bepaald en beschreven.  
 
 ### Artikel  7.10  
-Treedt in werking op een nader te bepalen tijdstip 
 
 Alvorens het milieueffectrapport op te stellen, raadpleegt het bevoegd gezag de adviseurs en de bestuursorganen die ingevolge het wettelijk voorschrift waarop het plan berust bij de voorbereiding van het plan worden betrokken over de reikwijdte en het detailniveau van de informatie die gericht is op wat relevant is voor het plan en die op grond van artikel 7.9 in het milieueffectrapport moet worden opgenomen. 
 
 ### Artikel  7.11  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Het bevoegd gezag geeft kennis van het plan en het milieueffectrapport in één of meer plaatselijke dagbladen en voorts op de voor publicatie van officiële mededelingen gebruikelijke wijze.   
 2.  In de kennisgeving wordt vermeld: 
@@ -1640,7 +1580,6 @@ c. of en welke onafhankelijke instantie in de gelegenheid wordt gesteld advies u
 3.  Indien er een onafhankelijke instantie advies zal uitbrengen, zendt het bevoegd gezag een exemplaar van het ontwerp van het plan en het erbij behorende milieueffectrapport onverwijld aan de onafhankelijke instantie, bedoeld in het tweede lid, onderdeel c. Deze onafhankelijke instantie brengt binnen acht weken na de kennisgeving, bedoeld in het eerste lid, haar advies uit.  
 
 ### Artikel  7.12  
-Treedt in werking op een nader te bepalen tijdstip 
 
 Het bevoegd gezag stelt een plan als bedoeld in artikel 7.1, vierde lid, niet vast: 
 
@@ -1649,7 +1588,6 @@ a. dan nadat een milieueffectrapport is gemaakt;
 b. indien het plan ten opzichte van het ontwerp van dat plan zodanig is gewijzigd dat de gegevens die in het milieueffectrapport zijn opgenomen redelijkerwijs niet meer aan het plan ten grondslag kunnen worden gelegd.   
 
 ### Artikel  7.13  
-Treedt in werking op een nader te bepalen tijdstip 
 
 Bij de vaststelling van het plan wordt in ieder geval vermeld: 
 
@@ -1669,16 +1607,12 @@ d. indien er een advies als bedoeld in artikel 7.11, derde lid, is uitgebracht, 
 
 ####Ongewone voorvallen
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  8.1  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Degene die een inrichting drijft, treft alle maatregelen die nodig zijn om een ongewoon voorval te voorkomen en de gevolgen daarvan voor mens en milieu te beperken.   
 2.  Indien zich in een inrichting een ongewoon voorval voordoet of heeft voorgedaan, treft degene die de inrichting drijft, onmiddellijk de maatregelen die redelijkerwijs van hem kunnen worden verlangd, om de gevolgen van die gebeurtenis te voorkomen of, voor zover die gevolgen niet kunnen worden voorkomen, zoveel mogelijk te beperken en ongedaan te maken.  
 
 ### Artikel  8.2  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Degene die een inrichting drijft, waarin zich een ongewoon voorval voordoet of heeft voorgedaan, meldt dit voorval zo spoedig mogelijk aan het bestuursorgaan dat bevoegd is tot het verlenen van de vergunning krachtens artikel 5.1, tweede lid, indien het een inrichting betreft die bij of krachtens algemene maatregel van bestuur als bedoeld in artikel 5.1, eerste lid, is aangewezen, dan wel, in andere gevallen, aan het bestuurscollege.   
 2.  Het bevoegd gezag kan in een vergunning voor een inrichting of bij een maatwerkvoorschrift als bedoeld in artikel 5.4 voor een ongewoon voorval, waarvan de nadelige gevolgen voor het milieu niet significant zijn: 
@@ -1731,15 +1665,11 @@ b. niet kan worden vastgesteld wie de activiteit verricht.
 
 ####Zware ongevallen
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  8.5  
-Treedt in werking op een nader te bepalen tijdstip 
 
 Degene die een inrichting drijft, treft alle maatregelen die redelijkerwijze mogelijk zijn om zware ongevallen te voorkomen en de gevolgen daarvan voor mens en milieu te beperken. 
 
 ### Artikel  8.6  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Degene die een inrichting drijft die behoort tot één van de bij algemene maatregel van bestuur aangewezen categorieën, stelt een veiligheidsrapport op waarin het gevoerde beleid ter voorkoming van zware ongevallen, rekening houdend met de aanwezigheid en de omvang van de risico's, is vastgelegd.   
 2.  Bij algemene maatregel van bestuur kunnen: 
@@ -1868,7 +1798,7 @@ Treedt in werking op een nader te bepalen tijdstip
 3.  Met het toezicht op de naleving van het bij of krachtens de betrokken wet bepaalde binnen hun ambtsgebied zijn eveneens belast de bij besluit van het bestuurscollege aangewezen ambtenaren.   
 4.  Bij een besluit als bedoeld in het eerste lid kan Onze Minister gevallen of categorieën van gevallen aanwijzen met betrekking waartoe, in afwijking van het derde lid, bij zijn besluit aangewezen ambtenaren uitsluitend belast zijn met het toezicht op de naleving.   
 5.  Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.   
-6.  Onze Minister kan ambtenaren aanwijzen ten behoeve van het toezicht op de uitvoering van de aan het bestuurscollege bij of krachtens deze wet opgedragen taken. Deze ambtenaren beschikken over de bevoegdheden van de [artikelen 5:15 tot en met 5:17 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), met dien verstande dat in [artikel 5.16a van die wet](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) voor «identiteitsbewijs als bedoeld in [artikel 1 van de Wet op de identificatieplicht](../../../../../../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md)» wordt gelezen: identiteitsdocument als bedoeld in [artikel 2 van de Wet identificatieplicht BES](../../../../../../../../../wet-BES/wet/identificatieplicht/bes/BWBR0028575/README.md). De [artikelen 5:12](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:13](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:20 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing.  
+6.  Onze Minister kan ambtenaren aanwijzen ten behoeve van het toezicht op de uitvoering van de aan het bestuurscollege bij of krachtens deze wet opgedragen taken. Deze ambtenaren beschikken over de bevoegdheden van de artikelen 5:15 tot en met 5:17 van de Algemene wet bestuursrecht, met dien verstande dat in artikel 5.16a van die wet voor «identiteitsbewijs als bedoeld in artikel 1 van de Wet op de identificatieplicht» wordt gelezen: identiteitsdocument als bedoeld in artikel 2 van de Wet identificatieplicht BES. De artikelen 5:12, 5:13 en 5:20 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing.  
 
 ### Artikel  10.2  
 
@@ -1889,7 +1819,7 @@ d. de voorschriften die voor degene die een inrichting drijft, gelden op grond v
 
 ### Artikel  10.3  
 
-De [titels 5.1 tot en met 5.3 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van toepassing op bestuursorganen die tot taak hebben zorg te dragen voor het toezicht op en de bestuursrechtelijke handhaving van het bepaalde bij of krachtens deze wet, met dien verstande dat in [artikel 5.16a van eerstgenoemde wet](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) voor «identiteitsbewijs als bedoeld in [artikel 1 van de Wet op de identificatieplicht](../../../../../../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md)» wordt gelezen: identiteitsdocument als bedoeld in [artikel 2 van de Wet identificatieplicht BES](../../../../../../../../../wet-BES/wet/identificatieplicht/bes/BWBR0028575/README.md). 
+De titels 5.1 tot en met 5.3 van de Algemene wet bestuursrecht zijn van toepassing op bestuursorganen die tot taak hebben zorg te dragen voor het toezicht op en de bestuursrechtelijke handhaving van het bepaalde bij of krachtens deze wet, met dien verstande dat in artikel 5.16a van eerstgenoemde wet voor «identiteitsbewijs als bedoeld in artikel 1 van de Wet op de identificatieplicht» wordt gelezen: identiteitsdocument als bedoeld in artikel 2 van de Wet identificatieplicht BES. 
 
 ### Artikel  10.4  
 Treedt in werking op een nader te bepalen tijdstip 
@@ -1909,7 +1839,7 @@ b. het bestuurscollege, in gevallen als bedoeld in artikel 5.6, tweede lid.
 ### Artikel  10.6  
 
 1.  De krachtens artikel 10.1 aangewezen ambtenaren zijn voor de vervulling van hun taak bevoegd, met medeneming van de benodigde apparatuur, een woning of een tot woning bestemd gedeelte van een vaartuig binnen te treden zonder toestemming van de bewoner.   
-2.  Op het binnentreden, bedoeld in het eerste lid, is [Titel X van het Derde Boek van het Wetboek van Strafvordering BES](../../../../../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md) van overeenkomstige toepassing, met uitzondering van de [artikelen 155, vierde lid](../../../../../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), [156, tweede lid](../../../../../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), [157, tweede en derde lid](../../../../../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), [158, eerste lid](../../../../../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), met dien verstande dat de zinsnede «en zoveel mogelijk de grond van de verdenking» vervalt, en [160, eerste lid](../../../../../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), en met dien verstande dat de machtiging wordt verleend door de gezaghebber.  
+2.  Op het binnentreden, bedoeld in het eerste lid, is Titel X van het Derde Boek van het Wetboek van Strafvordering BES van overeenkomstige toepassing, met uitzondering van de artikelen 155, vierde lid, 156, tweede lid, 157, tweede en derde lid, 158, eerste lid, met dien verstande dat de zinsnede «en zoveel mogelijk de grond van de verdenking» vervalt, en 160, eerste lid, en met dien verstande dat de machtiging wordt verleend door de gezaghebber.  
 
 ### Artikel  10.7  
 
@@ -1971,9 +1901,9 @@ b. voor zover geen misdrijf, een overtreding en wordt gestraft met hechtenis van
 
 a. gehele of gedeeltelijke stillegging van de inrichting van de veroordeelde, waarin het delict is begaan, voor een tijd van ten hoogste een jaar;  
 
-b. verbeurdverklaring van de voorwerpen, genoemd in [artikel 35 van het Wetboek van Strafrecht BES](../../../../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md);  
+b. verbeurdverklaring van de voorwerpen, genoemd in artikel 35 van het Wetboek van Strafrecht BES;  
 
-c. verbeurdverklaring van voorwerpen, behorende tot de onderneming van een veroordeelde, waarin het delict is begaan, voor zover zij soortgelijk zijn aan en met betrekking tot het delict verband houden met die, genoemd in [artikel 35 van het Wetboek van Strafrecht BES](../../../../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md);  
+c. verbeurdverklaring van voorwerpen, behorende tot de onderneming van een veroordeelde, waarin het delict is begaan, voor zover zij soortgelijk zijn aan en met betrekking tot het delict verband houden met die, genoemd in artikel 35 van het Wetboek van Strafrecht BES;  
 
 d. gehele of gedeeltelijke ontzetting van bepaalde rechten of gehele of gedeeltelijke ontzegging van bepaalde voordelen, welke rechten of voordelen de veroordeelde in verband met zijn inrichting van overheidswege zijn of zouden kunnen worden toegekend, voor een tijd van ten hoogste twee jaren, en  
 
@@ -2099,7 +2029,7 @@ Eenieder die betrokken is bij de uitvoering van deze wet en daarbij de beschikki
 
 ### Paragraaf  11.3  
 
-####Wijziging [Wet bescherming Antarctica](../../../../../../../../../wet/wet/bescherming/antarctica/BWBR0009449/README.md)
+####Wijziging Wet bescherming Antarctica
 
 ### Artikel  11.14  
 
@@ -2107,7 +2037,7 @@ Wijzigt de Wet bescherming Antarctica.
 
 ### Paragraaf  11.4  
 
-####Wijziging van de [Wet grondslagen ruimtelijke ontwikkelingsplanning BES](../../../../../../../../../wet-BES/wet/grondslagen/ruimtelijke/ontwikkelingsplanning/bes/BWBR0028218/README.md)
+####Wijziging van de Wet grondslagen ruimtelijke ontwikkelingsplanning BES
 
 ### Artikel  11.15  
 
@@ -2115,7 +2045,7 @@ Wijzigt de Wet grondslagen ruimtelijke ontwikkelingsplanning BES.
 
 ### Paragraaf  11.5  
 
-####Wijziging [Arbeidsveiligheidswet BES](../../../../../../../../../wet-BES/arbeidsveiligheidswet/bes/BWBR0028228/README.md)
+####Wijziging Arbeidsveiligheidswet BES
 
 Treedt in werking op een nader te bepalen tijdstip 
 
@@ -2126,7 +2056,7 @@ Wijzigt de Arbeidsveiligheidswet BES.
 
 ### Paragraaf  11.6  
 
-####Wijziging [Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../../../../wet-BES/wet/financiën/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028151/README.md)
+####Wijziging Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba
 
 ### Artikel  11.17  
 
@@ -2140,12 +2070,12 @@ Wijzigt de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba.
 
 1.  Hoofdstuk 4 is niet van toepassing op gedragingen, voor zover daaromtrent voorschriften gelden, die zijn gesteld bij of krachtens: 
 
-a. de [Wet voorschriften bestrijdingsmiddelen BES](../../../../../../../../../wet-BES/wet/voorschriften/bestrijdingsmiddelen/bes/BWBR0028176/README.md),  
+a. de Wet voorschriften bestrijdingsmiddelen BES,  
 
-b. de [Wet voorkoming verontreiniging door schepen BES](../../../../../../../../../wet-BES/wet/voorkoming/van/verontreiniging/door/schepen/bes/BWBR0028453/README.md) en de [Wet voorkoming verontreiniging door schepen](../../../../../../../../../wet/wet/voorkoming/verontreiniging/door/schepen/BWBR0003642/README.md), behoudens voor zover uit de bepalingen van die wetten of van deze wet anders blijkt.     
+b. de Wet voorkoming verontreiniging door schepen BES en de Wet voorkoming verontreiniging door schepen, behoudens voor zover uit de bepalingen van die wetten of van deze wet anders blijkt.     
 2.  Hoofdstuk 6 is niet van toepassing op de bodem en de oevers van een oppervlaktewaterlichaam en, voor zover het oppervlaktewaterlichaam behoort tot de zee, de ondergrond van de zeebodem.   
-3.  Hoofdstuk 9 is niet van toepassing op het vervoeren, het ten vervoer aanbieden en het ten vervoer aannemen, het laden en het lossen en het neerleggen tijdens het vervoer van stoffen, preparaten of micro-organismen, alsmede op het laten staan en het laten liggen van een vervoermiddel waarin of waarop zich zodanige stoffen, preparaten of micro-organismen of resten daarvan bevinden, voor zover daaromtrent regels zijn gesteld bij of krachtens de [Wet luchtvaart](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) of de [Luchtvaartwet BES](../../../../../../../../../wet-BES/luchtvaartwet/bes/BWBR0028549/README.md), dan wel op de handelingen, genoemd in [artikel 2, eerste lid, van de Wet vervoer gevaarlijke stoffen](../../../../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md) ten aanzien van stoffen, preparaten of micro-organismen, voor zover daaromtrent regels zijn gesteld bij of krachtens die wet. In afwijking van de eerste volzin is hoofdstuk 9 van toepassing met betrekking tot de verpakking van micro-organismen, zijnde genetisch gemodificeerde organismen, indien die organismen zich bij de handelingen, bedoeld in de eerste volzin, niet bevinden in een verpakking die voldoet aan de regels die ter zake zijn gesteld bij of krachtens de [Wet vervoer gevaarlijke stoffen](../../../../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md), de Wet luchtvaart of de Luchtvaartwet BES.   
-4.  Hoofdstuk 9 is niet van toepassing op gedragingen, voor zover daaromtrent regels zijn gesteld bij of krachtens de [Wet op de geneesmiddelenvoorziening BES](../../../../../../../../../wet-BES/wet/op/de/geneesmiddelenvoorziening/bes/BWBR0028486/README.md) of de [Wet voorschriften bestrijdingsmiddelen BES](../../../../../../../../../wet-BES/wet/voorschriften/bestrijdingsmiddelen/bes/BWBR0028176/README.md).   
+3.  Hoofdstuk 9 is niet van toepassing op het vervoeren, het ten vervoer aanbieden en het ten vervoer aannemen, het laden en het lossen en het neerleggen tijdens het vervoer van stoffen, preparaten of micro-organismen, alsmede op het laten staan en het laten liggen van een vervoermiddel waarin of waarop zich zodanige stoffen, preparaten of micro-organismen of resten daarvan bevinden, voor zover daaromtrent regels zijn gesteld bij of krachtens de Wet luchtvaart of de Luchtvaartwet BES, dan wel op de handelingen, genoemd in artikel 2, eerste lid, van de Wet vervoer gevaarlijke stoffen ten aanzien van stoffen, preparaten of micro-organismen, voor zover daaromtrent regels zijn gesteld bij of krachtens die wet. In afwijking van de eerste volzin is hoofdstuk 9 van toepassing met betrekking tot de verpakking van micro-organismen, zijnde genetisch gemodificeerde organismen, indien die organismen zich bij de handelingen, bedoeld in de eerste volzin, niet bevinden in een verpakking die voldoet aan de regels die ter zake zijn gesteld bij of krachtens de Wet vervoer gevaarlijke stoffen, de Wet luchtvaart of de Luchtvaartwet BES.   
+4.  Hoofdstuk 9 is niet van toepassing op gedragingen, voor zover daaromtrent regels zijn gesteld bij of krachtens de Wet op de geneesmiddelenvoorziening BES of de Wet voorschriften bestrijdingsmiddelen BES.   
 5.  De voordracht voor een algemene maatregel van bestuur krachtens artikel 5.1, eerste lid, wordt gedaan door Onze Minister en, voor zover het onderdelen van het milieubeleid betreft die tot zijn verantwoordelijkheid behoren, Onze Minister van Economische Zaken, Landbouw en Innovatie.   
 6.  De voordracht voor een algemene maatregel van bestuur krachtens artikel 9.4 wordt gedaan door Onze Minister van Volksgezondheid, Welzijn en Sport, mede namens Onze Minister.  
 
@@ -2169,7 +2099,7 @@ Onze Minister zendt binnen zes jaar na de inwerkingtreding van deze wet aan de b
 
 ### Artikel  11.23  
 
-Indien een algemene maatregel van bestuur krachtens deze wet later in werking treedt dan deze wet blijven in afwijking van de [artikelen 215](../../../../../../../../../wet-BES/wet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028142/README.md) en [216 van de Wet openbare lichamen Bonaire, Sint-Eustatius en Saba](../../../../../../../../../wet-BES/wet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028142/README.md) de in de openbare lichamen onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van deze wet geldende eilandsverordeningen ten aanzien van onderwerpen waarin door die algemene maatregel van bestuur wordt voorzien, van toepassing totdat die algemene maatregel van bestuur in werking treedt. 
+Indien een algemene maatregel van bestuur krachtens deze wet later in werking treedt dan deze wet blijven in afwijking van de artikelen 215 en 216 van de Wet openbare lichamen Bonaire, Sint-Eustatius en Saba de in de openbare lichamen onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van deze wet geldende eilandsverordeningen ten aanzien van onderwerpen waarin door die algemene maatregel van bestuur wordt voorzien, van toepassing totdat die algemene maatregel van bestuur in werking treedt. 
 
 ### Artikel  11.24  
 

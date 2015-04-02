@@ -401,11 +401,11 @@ b. geregeld goederen invoert, dan wel incidenteel goederen invoert en een fiscaa
 
 c. een bedrijfsadministratie voert welke naar het oordeel van de inspecteur zodanig is ingericht dat daarin op overzichtelijke wijze zijn opgenomen de door de inspecteur nodig geoordeelde gegevens omtrent de ingevoerde goederen, en dat aan de hand daarvan op eenvoudige wijze de ter zake van de invoer van die goederen verschuldigde omzetbelasting kan worden vastgesteld.      
 3.   De aanwijzing geldt voor alle goederen welke ten behoeve van de belanghebbende worden ingevoerd, waaronder zijn begrepen de goederen ter zake waarvan de belanghebbende aan een andere ondernemer een schriftelijke verklaring heeft afgegeven dat hij de goederen invoert of dat de invoer in zijn opdracht plaatsvindt.    
-4.   Ten aanzien van goederen welke door Koninklijke TNT Post B.V. worden ingevoerd, vindt artikel 23 van de wet slechts toepassing, indien: 
+4.   Ten aanzien van goederen welke door Koninklijke PostNL B.V. worden ingevoerd, vindt artikel 23 van de wet slechts toepassing, indien: 
 
 a. op de postzending of in de daarbij behorende bescheiden het aan de belanghebbende toegekende btw-identificatienummer is vermeld, of   
 
-b. ten aanzien van de postzending de belanghebbende een schriftelijke inklaringsopdracht aan de Koninklijke TNT Post B.V. heeft verstrekt waarin het aan hem toegekende btw-identificatienummer is vermeld.     
+b. ten aanzien van de postzending de belanghebbende een schriftelijke inklaringsopdracht aan Koninklijke PostNL B.V. heeft verstrekt waarin het aan hem toegekende btw-identificatienummer is vermeld.     
 5.   Tenzij de inspecteur anders bepaalt, moet de belanghebbende voldoen aan de volgende voorwaarden: 
 
 a. van de invoer wordt afzonderlijk aantekening gehouden op de voet van artikel 31;  
@@ -692,7 +692,7 @@ b. de aantekeningen als bedoeld in onderdeel a zodanig te houden dat de herkomst
 
 1.  In afwijking in zoverre van de verplichtingen opgelegd bij artikel 35a van de wet geldt als een op de voorgeschreven wijze opgemaakte factuur: 
 
-a. het vervoersbewijs voorzover de ondernemer personen vervoert in de vorm van openbaar vervoer of taxivervoer als bedoeld in artikel 1, onderdelen h en j, van de Wet personenvervoer 2000;  
+a. het vervoersbewijs voorzover de ondernemer personen vervoert in de vorm van openbaar vervoer of taxivervoer als bedoeld in artikel 1 van de Wet personenvervoer 2000;  
 
 b. de gebruikelijke afrekening voorzover de ondernemer spijzen en dranken verstrekt voor gebruik ter plaatse binnen het kader van het hotel-, café-, restaurant-, pension- en aanverwant bedrijf aan personen die daar slechts voor een korte periode verblijf houden;  
 
@@ -703,7 +703,7 @@ d. de wekelijks of maandelijks uitgereikte verzamelfactuur met betrekking tot le
 e. het gedeelte van de overschrijvingskaart dat de afnemer behoudt of de aan de afnemer gezonden bank- of giro-afrekening, bij het gebruik van acceptgirokaarten onderscheidenlijk automatische overschrijving;   mits daarop de vermeldingen, bedoeld in artikel 35a, tweede lid, van de wet staan.   
 2.  In afwijking in zoverre van de verplichtingen opgelegd bij artikel 35a van de wet: 
 
-a. kan bij de levering van brandstof voor landvoertuigen de vermelding van de naam en het adres van de afnemer achterwege blijven, mits die afnemer kan worden geïdentificeerd doordat zijn gegevens door de wijze van betalen, giraal of anderszins, traceerbaar zijn;  
+a. kan bij de levering van energie voor landvoertuigen de vermelding van de naam en het adres van de afnemer achterwege blijven, mits die afnemer kan worden geïdentificeerd doordat zijn gegevens door de wijze van betalen, giraal of anderszins, traceerbaar zijn;  
 
 b. kan bij de levering van goederen door groothandelaren, in plaats van de vermelding van de aard van de geleverde goederen, een door de inspecteur goedgekeurde codevermelding worden gebruikt.    
 3.  Geen afwijkingen zijn toegestaan voor leveringen als bedoeld in artikel 5a van de wet en voor leveringen met toepassing van de bij de wet behorende tabel II, onderdeel a, post 6.  
@@ -740,7 +740,7 @@ f . bijzondere gezichtshulpmiddelen voor slechtzienden die gewoonlijk door een a
 
 ###Artikel 34a 
 
-1. Ter zake van de levering en het vervoer van gas door middel van pijpleidingen vinden de bij de wet behorende tabel I, onderdeel a, post 32, onderscheidenlijk onderdeel b, post 18, slechts toepassing, indien de afnemer van die prestaties een tuinbouwer is en mits per aansluiting een door de tuinbouwer ondertekende verklaring aan de leverancier onderscheidenlijk netbeheerder kan worden overlegd waaruit blijkt, dat deze het gas gebruikt voor verwarming ter bevordering van het groeiproces van tuinbouwproducten, en waarin voorts zijn vermeld:
+1. Ter zake van de levering en het vervoer van gas door middel van pijpleidingen vinden de bij de wet behorende tabel I, onderdeel a, post 32, onderscheidenlijk onderdeel b, post 18, slechts toepassing, indien de afnemer van die prestaties een tuinbouwer is en mits per aansluiting een door de tuinbouwer ondertekende verklaring aan de leverancier onderscheidenlijk netbeheerder kan worden overgelegd waaruit blijkt, dat deze het gas gebruikt voor verwarming ter bevordering van het groeiproces van tuinbouwproducten, en waarin voorts zijn vermeld:
 
 a. de dagtekening;  
 

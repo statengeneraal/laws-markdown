@@ -847,7 +847,8 @@ c. daartoe bij ministeriële regeling aangewezen personen en instanties in de in
 11.  Onze Minister verleent aan de huisarts die de geneeskundige praktijk uitoefent gezamenlijk met een huisarts aan wie een vergunning als bedoeld in het tiende lid is verleend, desgevraagd, een vergunning om UR- of UA-geneesmiddelen ten behoeve van de patiënten die hij behandelt, te bereiden en aan hen ter hand te stellen in de apotheek van de huisarts met wie hij de praktijk uitoefent.   
 12.  Een vergunning als bedoeld in het tiende lid vervalt van rechtswege indien de vergunninghouder de geneeskundige praktijk beëindigt dan wel niet meer staat ingeschreven in het krachtens artikel 3 van de Wet op de beroepen in de individuele gezondheidszorg ingestelde register van artsen.   
 13.  Onze Minister trekt een vergunning als bedoeld in het tiende lid in indien de grond van de verlening daarvan is vervallen.   
-14.  Een vergunning als bedoeld in het elfde lid vervalt van rechtswege indien de huisarts met wie de houder van die vergunning gezamenlijk de praktijk uitoefent, niet meer over een vergunning als bedoeld in het tiende lid beschikt.  
+14.  Een vergunning als bedoeld in het elfde lid vervalt van rechtswege indien de huisarts met wie de houder van die vergunning gezamenlijk de praktijk uitoefent, niet meer over een vergunning als bedoeld in het tiende lid beschikt.   
+15.  De kosten die samenhangen met het in behandeling nemen van de aanvraag en de afgifte van de vergunningen, bedoeld in het tiende en elfde lid, kunnen ten laste worden gebracht van de aanvrager van het document. Bij de houder van een vergunning kan jaarlijks een vergoeding in rekening worden gebracht. De bedragen ter vergoeding van de kosten en de hoogte van de jaarlijkse vergoeding worden bij ministeriële regeling vastgesteld. 
 
 ### Artikel  62  
 
@@ -1133,7 +1134,7 @@ g. daarin wordt aangegeven dat op verstrekking van het geneesmiddel aanspraak be
 
 ### Artikel  90  
 
-De verboden, bedoeld in de artikelen 85, 88, onder d, en 89, onder g, gelden niet voor publieksreclame ter bevordering van deelname aan een nationaal vaccinatieprogramma waarop aanspraak bestaat krachtens de Algemene Wet Bijzondere Ziektekosten. 
+De verboden, bedoeld in de artikelen 85, 88, onder d, en 89, onder g, gelden niet voor publieksreclame ter bevordering van deelname aan het vaccinatieprogramma, bedoeld in artikel 4a, eerste lid, van de Wet publieke gezondheid. 
 
 ### §  3  
 
@@ -1227,7 +1228,8 @@ Het uitzenden van telewinkelboodschappen is verboden.
 ### Artikel  98  
 
 1.  Onze Minister draagt ervoor zorg dat gevolg wordt gegeven aan een verzoek van een overheidsinstantie van een derde land, van een fabrikant of van een groothandelaar die geneesmiddelen uitvoert, om de vergunning voor het bereiden van geneesmiddelen van een fabrikant te certificeren. Het certificeren geschiedt overeenkomstig de administratieve voorschriften van de Wereldgezondheidsorganisatie ter zake en gaat vergezeld van een afschrift van de overeenkomstig artikel 46, eerste lid, goedgekeurde samenvatting van de kenmerken van het geneesmiddel.   
-2.  Indien de fabrikant niet beschikt over een handelsvergunning, legt hij, met het oog op een certificering als bedoeld in het eerste lid, desgevraagd, aan Onze Minister een verklaring voor waarin de reden daarvan wordt uitgelegd.  
+2.  Indien de fabrikant niet beschikt over een handelsvergunning, legt hij, met het oog op een certificering als bedoeld in het eerste lid, desgevraagd, aan Onze Minister een verklaring voor waarin de reden daarvan wordt uitgelegd.   
+3.  De kosten die samenhangen met het in behandeling nemen van de aanvraag door de fabrikant of groothandelaar en de afgifte van het certificaat, bedoeld in het eerste lid, kunnen ten laste worden gebracht van de aanvrager van het document. De bedragen ter vergoeding van de kosten worden bij ministeriële regeling vastgesteld. 
 
 ### Artikel  99  
 
@@ -1262,7 +1264,8 @@ b. hebben geen belangen, financieel of anderszins, in de farmaceutische industri
 1.  Indien een verslag als bedoeld in artikel 100a, eerste lid, daartoe aanleiding geeft, ontvangt degene bij wie een inspectie is verricht naar de naleving van voorschriften als bedoeld in artikelen 27, eerste of tweede lid, 36, eerste lid, respectievelijk 38b, eerste lid, binnen 90 dagen na de inspectie een certificaat waarin de betreffende naleving is vastgelegd.   
 2.  Indien betrokkene gevestigd is in een derdeland en voorschriften naleeft die gelijkwaardig zijn aan de voorschriften, bedoeld in het eerste lid, wordt zulks tevens in het certificaat tot uitdrukking gebracht.   
 3.  Indien een inspectie is uitgevoerd in het kader van de krachtens het verdrag, bedoeld in artikel 1, eerste lid, onder f, vastgestelde procedure voor het verkrijgen van een certificaat van overeenstemming met de monografieën van de Europese Farmacopee, verstrekt het Staatstoezicht op de volksgezondheid een dergelijk certificaat aan degene die om de inspectie heeft verzocht. Een afschrift van het certificaat wordt verstrekt aan degene bij wie de inspectie is verricht.   
-4.  Het Staatstoezicht op de volksgezondheid draagt ervoor zorg dat een afschrift van een certificaat als bedoeld in het eerste tot en met derde lid wordt gezonden aan het Bureau met het verzoek dit op te nemen in de EudraGMP-databank.  
+4.  Het Staatstoezicht op de volksgezondheid draagt ervoor zorg dat een afschrift van een certificaat als bedoeld in het eerste tot en met derde lid wordt gezonden aan het Bureau met het verzoek dit op te nemen in de EudraGMP-databank.   
+5.  De kosten die samenhangen met de afgifte van een certificaat als bedoeld in het eerste lid, kunnen ten laste worden gebracht van de aanvrager van het document. De bedragen ter vergoeding van de kosten worden bij ministeriële regeling vastgesteld. 
 
 ### Artikel  100c  
 

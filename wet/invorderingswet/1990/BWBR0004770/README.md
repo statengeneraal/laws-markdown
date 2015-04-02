@@ -990,8 +990,8 @@ De verplichtingen welke volgens dit hoofdstuk bestaan jegens de ontvanger, gelde
 
 ### Artikel  63b  
 
-1.  Indien de belastingschuldige de belasting welke bij wege van aanslag wordt geheven niet, gedeeltelijk niet dan wel niet binnen de op het aanslagbiljet vermelde termijn of termijnen heeft betaald, vormt dit een verzuim ter zake waarvan de ontvanger hem bij voor bezwaar vatbare beschikking een bestuurlijke boete van ten hoogste € 4920 kan opleggen.   
-2.  Degene die niet voldoet aan de verplichting hem opgelegd bij artikel 60, tweede lid, begaat een verzuim ter zake waarvan de ontvanger hem bij voor bezwaar vatbare beschikking een bestuurlijke boete van ten hoogste € 4920 kan opleggen.   
+1.  Indien de belastingschuldige de belasting welke bij wege van aanslag wordt geheven niet, gedeeltelijk niet dan wel niet binnen de op het aanslagbiljet vermelde termijn of termijnen heeft betaald, vormt dit een verzuim ter zake waarvan de ontvanger hem bij voor bezwaar vatbare beschikking een bestuurlijke boete van ten hoogste € 5.278 kan opleggen.   
+2.  Degene die niet voldoet aan de verplichting hem opgelegd bij artikel 60, tweede lid, begaat een verzuim ter zake waarvan de ontvanger hem bij voor bezwaar vatbare beschikking een bestuurlijke boete van ten hoogste € 5.278 kan opleggen.   
 3.  Het opleggen van de boete, bedoeld in het eerste en tweede lid, geschiedt met overeenkomstige toepassing van de artikelen 67g, tweede lid, 67pa, eerste lid, en 67pb van de Algemene wet inzake rijksbelastingen.   
 4.  Op het bezwaar, beroep, hoger beroep en beroep in cassatie inzake de in het eerste en tweede lid bedoelde beschikking is hoofdstuk V van de Algemene wet inzake rijksbelastingen van overeenkomstige toepassing.   
 5.  Een door de ontvanger opgelegde bestuurlijke boete is invorderbaar zes weken na de dagtekening van de beschikking waarbij deze is opgelegd, met overeenkomstige toepassing van de regels die gelden voor de invordering van de belastingaanslag in verband waarmee deze is opgelegd.  

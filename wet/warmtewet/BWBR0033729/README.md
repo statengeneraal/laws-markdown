@@ -131,7 +131,7 @@ b. is opgebouwd uit een gebruiksafhankelijk deel, uitgedrukt in een bedrag in eu
 a. een bestaande warmtewisselaar dient te worden vervangen;  
 
 b. een nieuwe warmtewisselaar wordt geïnstalleerd in een nieuw gebouw.     
-2.  Een leverancier heeft tot taak er zorg voor te dragen dat binnen een redelijke termijn aan verbruikers een individuele meter ter beschikking wordt gesteld door middel van verhuur die het actuele warmteverbruik kan weergeven en die informatie kan geven over de tijd waarin sprake was van daadwerkelijk verbruik, wanneer: 
+2.  Een leverancier heeft tot taak er zorg voor te dragen dat binnen een redelijke termijn aan verbruikers en voor iedere eenheid een individuele meter ter beschikking wordt gesteld door middel van verhuur die het actuele warmteverbruik kan weergeven en die informatie kan geven over de tijd waarin sprake was van daadwerkelijk verbruik, wanneer: 
 
 a. een verbruiker hierom vraagt, tenzij het ter beschikking stellen technisch onmogelijk is of financieel niet redelijk is;  
 

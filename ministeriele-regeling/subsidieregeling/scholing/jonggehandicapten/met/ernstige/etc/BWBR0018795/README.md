@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 22 september 2005, Directie Sociale Verzekeringen, nr. SV/R&S/2005/73174, houdende regels met betrekking tot de financiering van scholing van jonggehandicapten met ernstige scholingsbelemmeringen (Subsidieregeling scholing jonggehandicapten met ernstige scholingsbelemmeringen)
 
 De Minister van Sociale Zaken en Werkgelegenheid,  
-Gelet op [artikel 50a van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](../../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md);
+Gelet op artikel 50a van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten;
 Besluit:    
 
 ### Artikel  1  
@@ -14,25 +14,41 @@ In deze regeling wordt verstaan onder:
 
 a. de minister: de Minister van Sociale Zaken en Werkgelegenheid;  
 
-b. jonggehandicapte met ernstige scholingsbelemmeringen: jonggehandicapte met kenmerken als opgenomen in de bij deze regeling behorende bijlage die 
+b. persoon met ernstige scholingsbelemmeringen: persoon die nog geen diploma van een opleiding als bedoeld in artikel 7.2.2, eerste lid, onderdelen b tot en met e, van de Wet educatie en beroepsonderwijs heeft verworven, die geen uitkering ontvangt op basis van de Wet werk en inkomen naar arbeidsvermogen of de Wet op de arbeidsongeschiktheidsverzekering, die de leeftijd van 18 jaar heeft bereikt en kenmerken heeft zoals opgenomen in de bij deze regeling behorende bijlage die: 
 
-1°. na scholing of opleiding, die strekt tot behoud, herstel of bevordering van de mogelijkheid tot het verrichten van arbeid, in staat is algemeen geaccepteerde arbeid te verrichten als bedoeld in de [artikelen 2:5](../../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md) en [3:1 van de Wet werk en arbeidsondersteuning jonggehandicapten](../../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), en  
+1°. na scholing of opleiding, die strekt tot behoud, herstel of bevordering van de mogelijkheid tot het verrichten van arbeid, in staat is om algemeen geaccepteerde arbeid te verrichten als bedoeld in de artikelen 2:5 en 3:1 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten en 6, eerste lid, onderdeel b, van de Participatiewet, en  
 
-2°. als rechtstreeks en objectief medisch vast te stellen gevolg van ziekte of gebrek, ook met toepassing van voorzieningen als bedoeld in de [artikelen 35](../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) en [36 van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) en [artikel 2.17 van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen](../../../../../../../../wet/wet/invoering/en/financiering/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019058/README.md) ernstige belemmeringen ondervindt bij het deelnemen aan dergelijke scholing of opleiding;    
+2°. als rechtstreeks en objectief medisch vast te stellen gevolg van ziekte of gebrek, ook met toepassing van voorzieningen als bedoeld in de artikelen 35 en 36 van de Wet werk en inkomen naar arbeidsvermogen, 7, eerste lid, onderdeel a, en 10, eerste lid, van de Participatiewet, 2:22 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten en 19a van de Wet overige OCW-subsidies, ernstige belemmeringen ondervindt bij het deelnemen aan dergelijke scholing of opleiding;    
 
-c. scholingsinstelling: rechtspersoon die in het kader van de uitoefening van beroep of bedrijf door scholing de inschakeling van jonggehandicapten met ernstige scholingsbelemmeringen in de arbeid bevordert; 
+c. scholingsinstelling: rechtspersoon die in het kader van de uitoefening van beroep of bedrijf door scholing de inschakeling van personen met ernstige scholingsbelemmeringen in de arbeid bevordert; 
 
-d. cohort: een groep jonggehandicapten met ernstige scholingsbelemmeringen die in een bepaald kalenderjaar zijn opleiding aan een scholingsinstelling is aangevangen;  
+d. cohort: een groep personen met ernstige scholingsbelemmeringen die in een bepaald kalenderjaar zijn opleiding aan een scholingsinstelling is aangevangen;  
 
 e. cohortperiode: periode van drie jaar en zeven maanden waarin een cohort een opleiding volgt aan een scholingsinstelling;  
 
-f.  trajectprijs: omvang van de subsidie als bedoeld in artikel 8 gedeeld door het begrote opleidingsresultaat of de aangegane dienstbetrekking, bedoeld in artikel 13.  
+f.  trajectprijs: omvang van de subsidie als bedoeld in artikel 8 gedeeld door het begrote opleidingsresultaat of de aangegane dienstbetrekking, bedoeld in artikel 13; 
+
+g. het college: het college van burgemeester en wethouders. 
+
+### Artikel  1a  
+
+####Vaststelling persoon met ernstige scholingsbelemmeringen
+
+1.  Het Uitvoeringsinstituut werknemersverzekeringen oordeelt of een persoon een persoon met ernstige scholingsbelemmeringen is als bedoeld in artikel 1, onderdeel b, met dien verstande dat het Uitvoeringsinstituut werknemersverzekeringen de persoon alleen beoordeelt op de sociaal-medische criteria van de bij deze regeling behorende bijlage.   
+2.  Voor de beoordeling van een persoon waarvoor het college verantwoordelijk is, maakt de persoon gebruik van een daartoe door het Uitvoeringsinstituut werknemersverzekeringen te verstrekken formulier. Bij de aanvraag overlegt de persoon op verzoek van het Uitvoeringsinstituut werknemersverzekeringen alle gegevens die nodig zijn om vast te stellen of hij een persoon met ernstige scholingsbelemmeringen is als bedoeld in artikel 1, onderdeel b.   
+3.  Indien het college verantwoordelijk is voor de re-integratie van een persoon, neemt het Uitvoeringsinstituut werknemersverzekeringen de aanvraag, bedoeld in het tweede lid, niet in behandeling, dan nadat deze persoon schriftelijk instemming heeft verkregen van het college.  
+
+### Artikel  1b  
+
+####Grondslag
+
+Deze regeling berust op de artikelen 2:29, eerste lid, en 3:49, eerste lid, van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten en 32c, eerste lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen. 
 
 ### Artikel  2  
 
 ####Subsidie scholingsinstellingen
 
-1.  Het Uitvoeringsinstituut werknemersverzekeringen verstrekt één keer per drie jaar op aanvraag, telkens voor de duur van vijf kalenderjaren en zeven maanden, subsidie ten behoeve van een scholingsinstelling die beroepsonderwijs voor jonggehandicapten met ernstige scholingsbelemmeringen verzorgt als bedoeld in [artikel 7.2.2 van de Wet educatie en beroepsonderwijs](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en dat onderwijs is gericht op het verwerven van arbeidsmarktgerichte diploma’s of deelcertificaten.   
+1.  Het Uitvoeringsinstituut werknemersverzekeringen verstrekt één keer per drie jaar op aanvraag, telkens voor de duur van vijf kalenderjaren en zeven maanden, subsidie ten behoeve van een scholingsinstelling die beroepsonderwijs voor personen met ernstige scholingsbelemmeringen verzorgt als bedoeld in artikel 7.2.2 van de Wet educatie en beroepsonderwijs en dat onderwijs is gericht op het verwerven van arbeidsmarktgerichte diploma’s of deelcertificaten.   
 2.  De beschikking tot verlening van subsidie als bedoeld in het eerste lid vermeldt de verhouding tussen het bedrag van de subsidie en de door de subsidieontvanger te verrichten activiteiten.  
 
 ### Artikel  3  
@@ -46,7 +62,7 @@ De minister stelt één keer per vier jaar, telkens voor de duur van vijf kalend
 ####Verdeling beschikbare subsidie over aanvragers
 
 1.  Na het verstrijken van de periode van indiening, bedoeld in artikel 6, vijfde lid, worden de aanvragen per cohort ingedeeld naar de ernst van de handicap of de behoefte aan scholing van de cursisten op wie de aanvraag betrekking heeft.   
-2.  Per cohort worden de aanvragen in een rangorde geplaatst. Daarbij worden de aanvragen beoordeeld naar de verhouding tussen de kosten van de opleiding en het percentage jonggehandicapten dat na afronding van de door de scholingsinstelling verzorgde scholing een dienstbetrekking aangaat, waarbij de aanvraag met de gunstigste verhouding als eerste in de rangorde wordt geplaatst.   
+2.  Per cohort worden de aanvragen in een rangorde geplaatst. Daarbij worden de aanvragen beoordeeld naar de verhouding tussen de kosten van de opleiding en het percentage personen dat na afronding van de door de scholingsinstelling verzorgde scholing een dienstbetrekking aangaat, waarbij de aanvraag met de gunstigste verhouding als eerste in de rangorde wordt geplaatst.   
 3.  Indien het subsidiebedrag dat verleend kan worden aan de subsidieaanvrager wiens aanvraag als eerste in de rangorde is geplaatst, lager is dan het subsidieplafond per cohort, bedoeld in artikel 3, verleent het Uitvoeringsinstituut werknemersverzekeringen dat subsidiebedrag. Indien aan de aanvrager van de volgende aanvraag een subsidiebedrag kan worden verleend dat lager is dan het bedrag dat na beslissing op de eerste aanvraag resteert, verleent het Uitvoeringsinstituut werknemersverzekeringen ook aan die aanvrager dat subsidiebedrag, en zo vervolgens.   
 4.  Indien in de rangorde een aanvraag aan de orde is waarop een hoger bedrag kan worden verleend dan het bedrag dat van het subsidieplafond per cohort resteert wordt het subsidiebedrag bepaald gelijk aan het van het subsidieplafond per cohort resterende bedrag.   
 5.  Het Uitvoeringsinstituut werknemersverzekeringen wijst resterende aanvragen af.  
@@ -70,11 +86,11 @@ a. een beschrijving van de onderwijsvorm van de scholingsinstelling;
 
 b. een begroting van de voor subsidie in aanmerking te brengen kosten;  
 
-c. een opgave van het aantal jonggehandicapten met ernstige scholingsbelemmeringen van wie scholing met de subsidie wordt bekostigd met dien verstande dat de opgave van het aantal jonggehandicapten niet hoger mag zijn dan 10% van het gemiddeld aantal jonggehandicapten met ernstige scholingsbeperkingen in de laatste vijf jaar, bedoeld in onderdeel e.;  
+c. een opgave van het aantal personen met ernstige scholingsbelemmeringen van wie scholing met de subsidie wordt bekostigd met dien verstande dat de opgave van het aantal personen niet hoger mag zijn dan 10% van het gemiddeld aantal personen met ernstige scholingsbeperkingen in de laatste vijf jaar, bedoeld in onderdeel e.;  
 
 d. een document waaruit blijkt dat de subsidieaanvrager gemachtigd is de scholingsinstelling ten behoeve waarvan subsidie wordt aangevraagd, in rechte te vertegenwoordigen;  
 
-e. gegevens met betrekking tot het aantal jonggehandicapten met ernstige scholingsbelemmeringen dat in de laatste vijf jaar na het volgen van een opleiding bij een scholingsinstelling, in de arbeid is ingeschakeld;  
+e. gegevens met betrekking tot het aantal personen met ernstige scholingsbelemmeringen dat in de laatste vijf jaar na het volgen van een opleiding bij een scholingsinstelling, in de arbeid is ingeschakeld;  
 
 f. gegevens waaruit blijkt in welke mate de scholingsinstelling samenwerkt met partijen die in de regio zijn aangesloten bij samenwerkingsverbanden voor onderwijs of passend onderwijs, arbeidsmarkt en zorg.    
 4.  Indien de subsidieaanvrager voor de kosten, bedoeld in artikel 7, subsidie van een ander bestuursorgaan heeft aangevraagd of ontvangt, dan wel in verband daarmee van anderen inkomsten verwerft, doet hij daarvan mededeling in de aanvraag.   
@@ -85,7 +101,7 @@ f. gegevens waaruit blijkt in welke mate de scholingsinstelling samenwerkt met p
 
 ####Subsidiabele kosten
 
-Voor subsidie kunnen slechts in aanmerking worden gebracht de volgende noodzakelijke, rechtstreeks aan de voorbereiding en de feitelijke uitvoering van de scholing of opleiding van jonggehandicapten met ernstige scholingsbelemmeringen toe te rekenen, werkelijk gemaakte en ten laste van de scholingsinstelling ten behoeve waarvan de subsidie is aangevraagd, gebleken kosten van: 
+Voor subsidie kunnen slechts in aanmerking worden gebracht de volgende noodzakelijke, rechtstreeks aan de voorbereiding en de feitelijke uitvoering van de scholing of opleiding van personen met ernstige scholingsbelemmeringen toe te rekenen, werkelijk gemaakte en ten laste van de scholingsinstelling ten behoeve waarvan de subsidie is aangevraagd, gebleken kosten van: 
 
 a. personeel;  
 
@@ -93,9 +109,9 @@ b. lesmateriaal;
 
 c. kosten van huisvesting, ICT en andere indirecte kosten;  
 
-d. de woonfunctie van de jonggehandicapte met ernstige scholingsbelemmeringen;  
+d. de woonfunctie van de persoon met ernstige scholingsbelemmeringen;  
 
-e. vervoer als bedoeld in artikel 9, eerste lid, onderdeel j;  
+e. vervoer als bedoeld in artikel 9, onderdeel e;  
 
 f. inschakeling in de arbeid.   
 
@@ -116,17 +132,17 @@ a. de voor subsidie in aanmerking te brengen kosten niet in een redelijke verhou
 
 b. de administratieve organisatie niet voldoet aan de eisen, genoemd in artikel 11;  
 
-c. de scholingsinstelling niet meer dan één opleiding aanbiedt als bedoeld in [artikel 7.2.2, eerste lid, van de Wet educatie en beroepsonderwijs](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+c. de scholingsinstelling niet meer dan één opleiding aanbiedt als bedoeld in artikel 7.2.2, eerste lid, van de Wet educatie en beroepsonderwijs;  
 
-d. het geïntegreerd aanbod op het terrein van zorg, re-integratie en onderwijs van de scholinginstelling onvoldoende rekening houdt met de specifieke behoeften van jonggehandicapten met ernstige scholingsbelemmeringen;  
+d. het geïntegreerd aanbod op het terrein van zorg, re-integratie en onderwijs van de scholinginstelling onvoldoende rekening houdt met de specifieke behoeften van personen met ernstige scholingsbelemmeringen;  
 
-e. de scholingsinstelling geen zorg draagt voor het vervoer tussen het woonadres van jonggehandicapten met ernstige scholingsbelemmeringen en de scholingsinstelling of voor tegemoetkoming in de kosten van dat vervoer;  
+e. de scholingsinstelling geen zorg draagt voor het vervoer tussen het woonadres van personen met ernstige scholingsbelemmeringen en de scholingsinstelling of voor tegemoetkoming in de kosten van dat vervoer;  
 
-f. de scholingsinstelling niet kan aangeven met welke activiteiten wordt bevorderd dat de jonggehandicapte met ernstige scholingsbelemmeringen direct aansluitend op de schoolopleiding kan instromen in het arbeidsproces;  
+f. de scholingsinstelling niet kan aangeven met welke activiteiten wordt bevorderd dat de persoon met ernstige scholingsbelemmeringen direct aansluitend op de schoolopleiding kan instromen in het arbeidsproces;  
 
-g. de scholingsinstelling in de twee jaar aansluitend op de afronding van de schoolopleiding door de jonggehandicapte met ernstige scholingsbelemmeringen geen nazorg biedt;  
+g. de scholingsinstelling in de twee jaar aansluitend op de afronding van de schoolopleiding door de persoon met ernstige scholingsbelemmeringen geen nazorg biedt;  
 
-h. de jonggehandicapten met ernstige scholingsbelemmeringen op de scholingsinstelling afkomstig zijn uit minder dan drie regio’s als bedoeld in [artikel 10, eerste lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
+h. de personen met ernstige scholingsbelemmeringen op de scholingsinstelling afkomstig zijn uit minder dan drie regio’s als bedoeld in artikel 10, eerste lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen;  
 
 i. niet wordt voldaan aan artikel 6, derde lid, onderdeel c.   
 
@@ -156,7 +172,7 @@ Verstrekking van subsidie door het Uitvoeringsinstituut werknemersverzekeringen 
 ####Meldingsplicht en voortgangsverslag
 
 1.  De subsidieaanvrager doet onverwijld een schriftelijke melding aan het Uitvoeringsinstituut werknemersverzekeringen zodra aannemelijk is dat de activiteiten waarvoor de subsidie is verleend niet, niet tijdig of niet geheel zullen worden verricht of dat niet, niet tijdig of niet geheel aan de aan de subsidie verbonden verplichtingen zal worden voldaan.   
-2.  De in het vorige lid bedoelde omstandigheid doet zich in ieder geval, doch niet uitsluitend, voor indien er sprake is van een substantieel aantal minder te scholen jonggehandicapten met ernstige scholingsbelemmeringen dan waarop de door Uitvoeringsinstituut werknemersverzekeringen afgegeven toekenningsbeschikking is gebaseerd.   
+2.  De in het vorige lid bedoelde omstandigheid doet zich in ieder geval, doch niet uitsluitend, voor indien er sprake is van een substantieel aantal minder te scholen personen met ernstige scholingsbelemmeringen dan waarop de door Uitvoeringsinstituut werknemersverzekeringen afgegeven toekenningsbeschikking is gebaseerd.   
 3.  De subsidieaanvrager overlegt één keer per periode van 12 maanden een tussentijds voortgangsverslag aan het Uitvoeringsinstituut werknemersverzekeringen, conform de eisen die het Uitvoeringsinstituut werknemersverzekeringen in de beschikking aan dit verslag stelt.  
 
 ### Artikel  12  
@@ -165,7 +181,7 @@ Verstrekking van subsidie door het Uitvoeringsinstituut werknemersverzekeringen 
 
 1.  De subsidieaanvrager dient na afloop van de activiteiten waarvoor subsidie is verleend een aanvraag tot subsidievaststelling in. Het verzoek tot subsidievaststelling wordt door het Uitvoeringsinstituut werknemersverzekeringen ontvangen uiterlijk dertien weken na afloop van de cohortperiode waarvoor subsidie is verleend. Het Uitvoeringsinstituut werknemersverzekeringen geeft een beschikking binnen acht weken na ontvangst van de aanvraag.   
 2.  De aanvraag, bedoeld in het eerste lid, wordt ingediend onder gebruikmaking van het door het Uitvoeringsinstituut werknemersverzekeringen verstrekte formulier, dat is ingericht overeenkomstig een door het Uitvoeringsinstituut werknemersverzekeringen vast te stellen model, vergezeld van een declaratie van de gemaakte subsidiabele kosten, bedoeld in artikel 7, die is ingericht overeenkomstig een door het Uitvoeringsinstituut werknemersverzekeringen vast te stellen model.   
-3.  De declaratie is voorzien van een verklaring van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md). De verklaring van de accountant is gebaseerd op een controle die is uitgevoerd overeenkomstig het door het Uitvoeringsinstituut werknemersverzekeringen voorgeschreven controle- en rapportageprotocol.   
+3.  De declaratie is voorzien van een verklaring van een accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek. De verklaring van de accountant is gebaseerd op een controle die is uitgevoerd overeenkomstig het door het Uitvoeringsinstituut werknemersverzekeringen voorgeschreven controle- en rapportageprotocol.   
 4.  Op aanvraag kan de termijn, bedoeld in het eerste lid, worden verlengd met ten hoogste dertien weken.   
 5.  Indien van de subsidieaanvrager niet binnen de termijn, bedoeld in het eerste of vierde lid, een aanvraag tot subsidievaststelling is ontvangen, stelt het Uitvoeringsinstituut werknemersverzekeringen de subsidie binnen acht weken na afloop van de desbetreffende termijn ambtshalve vast.  
 
@@ -177,41 +193,29 @@ Verstrekking van subsidie door het Uitvoeringsinstituut werknemersverzekeringen 
 
 a. de subsidie wordt vastgesteld op 20% van het op grond van artikel 4 vastgestelde bedrag;  
 
-b. in aanvulling op de vaststelling, bedoeld in onderdeel a, wordt de subsidie op basis van het aantal in de afrekening genoemde trajecten vastgesteld op 80% indien het opleidingsresultaat, bedoeld in artikel 2, is behaald en het in de aanvraag genoemde aantal of een hoger aantal jonggehandicapten, nadat zij het opleidingsresultaat hebben behaald, een dienstbetrekking is aangegaan.     
+b. in aanvulling op de vaststelling, bedoeld in onderdeel a, wordt de subsidie op basis van het aantal in de afrekening genoemde trajecten vastgesteld op 80% indien het opleidingsresultaat, bedoeld in artikel 2, is behaald en het in de aanvraag genoemde aantal of een hoger aantal personen, nadat zij het opleidingsresultaat hebben behaald, een dienstbetrekking is aangegaan.     
 2.  Indien niet is voldaan aan het eerste lid, onderdeel b, wordt in aanvulling op de vaststelling, bedoeld in het eerste lid, onderdeel a, de subsidie vastgesteld op 40% van de trajectprijs per behaald onderwijsresultaat en 40% van de trajectprijs per aangegane dienstbetrekking.  
-
-### Artikel  14a  
-
-####Toedeling scholingsactiviteiten
-
-1.  De subsidieaanvrager geeft bij de aanvraag, bedoeld in artikel 12, eerste lid, aan ten aanzien van welke jonggehandicapten activiteiten plaatsgevonden hebben in het kader van de aanvullende subsidie, bedoeld in artikel 14, eerste lid.   
-2.  Bij de vaststelling van de subsidie, bedoeld in artikel 2, eerste lid, blijven activiteiten die plaatsvonden ten aanzien van jonggehandicapten, bedoeld in het eerste lid, buiten beschouwing.  
-
-### Artikel  14b  
-
-####Beschikking subsidieverlening en voorschot
-
-Indien de gevraagde aanvullende subsidie, bedoeld in artikel 14, eerste lid, geheel of gedeeltelijk wordt verleend, zendt het Uitvoeringsinstituut werknemersverzekeringen aan de subsidieaanvrager een beschikking tot subsidieverlening. Bij de subsidieverlening kan het Uitvoeringsinstituut werknemersverzekeringen een voorschot verstrekken van 60% van de verleende subsidie. Dit voorschot kan op verzoek van de subsidieaanvrager door het Uitvoeringsinstituut werknemersverzekeringen worden verhoogd, welk verzoek ten hoogste één keer per jaar kan worden ingediend. 
 
 ### Artikel  14c  
 
 ####Verantwoording Uitvoeringsinstituut werknemersverzekeringen
 
 1.  Binnen acht weken nadat een beschikking tot subsidieverlening is gegeven, overlegt het Uitvoeringsinstituut werknemersverzekeringen aan de minister per cohort gegevens over aantallen toegekende trajecten per subsidieaanvrager.   
-2.  Binnen acht weken nadat over een cohortperiode een beschikking tot subsidievaststelling is gegeven, overlegt het Uitvoeringsinstituut werknemersverzekeringen aan de minister per cohort gegevens over het aantal opgeleide en het aantal geplaatste jonggehandicapten met ernstige scholingsbelemmeringen, alsmede de totaal uitgekeerde bedragen.   
+2.  Binnen acht weken nadat over een cohortperiode een beschikking tot subsidievaststelling is gegeven, overlegt het Uitvoeringsinstituut werknemersverzekeringen aan de minister per cohort gegevens over het aantal opgeleide en het aantal geplaatste personen met ernstige scholingsbelemmeringen, alsmede de totaal uitgekeerde bedragen.   
 3.  Het Uitvoeringsinstituut werknemersverzekeringen informeert de minister onverwijld over ontwikkelingen met betrekking tot de uitvoering van deze regeling die van zodanig maatschappelijk of politiek belang zijn of die anderszins zodanig de aandacht kunnen trekken, dat tijdige kennisneming door de minister gewenst is.  
 
 ### Artikel  15  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst met dien verstande dat subsidies op grond van deze regeling niet eerder dan per 1 januari 2006 kunnen worden verleend. 
+1. Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst met dien verstande dat subsidies op grond van deze regeling niet eerder dan per 1 januari 2006 kunnen worden verleend. 
+2.  Deze regeling vervalt met ingang van 1 januari 2018, met dien verstande dat de regeling van toepassing blijft op voor die datum reeds verleende subsidies.
 
 ### Artikel  16  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Subsidieregeling scholing jonggehandicapten met ernstige scholingsbelemmeringen. 
+Deze regeling wordt aangehaald als: Subsidieregeling voor scholing en re-integratie van personen met arbeidsbeperkingen en ernstige scholingsbelemmeringen. 
 Deze regeling zal met de toelichting en bijlage 1 in de Staatscourant worden geplaatst.   
 
 Den Haag 

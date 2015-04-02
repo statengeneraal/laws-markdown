@@ -66,7 +66,7 @@ Deze regeling strekt tot uitvoering van Verordening (EU) nr. 1307/2013 en, voor
 
 ####Bevoegdheden minister
 
-1.  De minister wijst op aanvraag aan de landbouwer betalingsrechten toe overeenkomstig artikel 24 van Verordening (EU) nr. 1307/2013.   
+1.  De minister wijst op aanvraag aan de landbouwer betalingsrechten toe overeenkomstig artikel 24 en artikel 30, vierde lid, van Verordening (EU) nr. 1307/2013.   
 2.  De minister verstrekt rechtstreekse betalingen inzake de: 
 
 a. basisbetalingsregeling overeenkomstig artikel 32 van Verordening (EU) nr. 1307/2013;  
@@ -92,14 +92,16 @@ b. het jaarlijks laten begrazen van het areaal.
 a. het jaarlijks maaien en vervolgens afvoeren van het maaisel, of  
 
 b. het jaarlijks laten begrazen van het areaal.     
-3.  Boomsoorten behorende tot het geslacht wilg (*Salix*) met een maximale omlooptijd van vijf jaar komen in aanmerking als hakhout met korte omlooptijd, als bedoeld in artikel 4, eerste lid, onderdeel k, van Verordening (EU) nr. 1307/2013.  
+3.  Boomsoorten behorende tot het geslacht wilg (*Salix*) met een maximale omlooptijd van vijf jaar komen in aanmerking als hakhout met korte omlooptijd, als bedoeld in artikel 4, eerste lid, onderdeel k, van Verordening (EU) nr. 1307/2013.   
+4.  Bij de constatering van de oppervlakte van het landbouwareaal worden windhagen die zijn gelegen in een perceel grond gebruikt voor fruitteelt en die niet breder zijn dan 2 meter overeenkomstig de door de Europese Commissie aanvaarde meetmethoden gerekend tot de volledig gebruikte oppervlakte van het desbetreffende perceel.   
+5.  De maximumdichtheid, bedoeld in artikel 9, derde lid, van Verordening (EU) nr. 640/2014 is 50 bomen per hectare. 
 
 ### Artikel  2.3  
 
 ####Actieve landbouwer
 
 1.  Het bedrag aan rechtstreekse betalingen, bedoeld in artikel 9, vierde lid, van Verordening (EU) nr. 1307/2013 is € 1.   
-2.  Ter uitvoering van artikel 9, derde lid, aanhef en onderdeel a, van Verordening (EU) nr. 1307/2013 worden geen rechtstreekse betalingen toegekend aan landbouwers die niet zijn ingeschreven of waarvan de onderneming niet is ingeschreven in het handelsregister, bedoeld in artikel 2 van de Handelsregisterwet 2007, onder de vermelding van de verkorte omschrijving van een landbouwactiviteit, overeenkomstig artikel 11, onderdeel b, of artikel 15, eerste lid, onderdeel a, van het Handelsregisterbesluit 2008.   
+2.  Ter uitvoering van artikel 9, derde lid, aanhef en onderdeel a, van Verordening (EU) nr. 1307/2013 worden geen rechtstreekse betalingen toegekend aan landbouwers die niet uiterlijk op 15 mei van het jaar van aanvraag zijn ingeschreven of waarvan de onderneming niet uiterlijk op 15 mei van het jaar van aanvraag is ingeschreven in het handelsregister, bedoeld in artikel 2 van de Handelsregisterwet 2007, onder de vermelding van de verkorte omschrijving van een landbouwactiviteit, overeenkomstig artikel 11, onderdeel b, of artikel 15, eerste lid, onderdeel a, van het Handelsregisterbesluit 2008.   
 3.  Aan de opsomming van niet-landbouwbedrijven of -activiteiten, bedoeld in artikel 9, tweede lid, tweede alinea van Verordening (EU) nr. 1307/2013 worden toegevoegd: 
 
 a. rechtspersonen als bedoeld in artikel 1, eerste en tweede lid, van Boek 2 van het Burgerlijk Wetboek;  
@@ -107,7 +109,7 @@ a. rechtspersonen als bedoeld in artikel 1, eerste en tweede lid, van Boek 2 van
 b. bestuursorganen als bedoeld in artikel 1:1, eerste lid, van de Algemene wet bestuursrecht, en  
 
 c. al dan niet als belastingplichtige aangemerkte lichamen als bedoeld in artikel 2, zevende lid, van de Wet op de vennootschapsbelasting 1969.     
-4.  De verifieerbare bewijzen, bedoeld in artikel 9, tweede lid, derde alinea, van Verordening (EU) nr. 1307/2013 bestaan uit een accountantsverklaring dat het desbetreffende feit zich voordoet.  
+4.  De verifieerbare bewijzen, bedoeld in artikel 9, tweede lid, derde alinea, onderdelen a en b, van Verordening (EU) nr. 1307/2013 bestaan uit een accountantsverklaring dat het desbetreffende feit zich voordoet.  
 
 ### Artikel  2.4  
 
@@ -129,7 +131,11 @@ De verlaging, bedoeld in artikel 11, eerste lid, van Verordening (EU) nr. 1307/
 
 ####toewijzing betalingsrechten
 
-1.  Onverminderd artikel 24, eerste lid, eerste aanhef en onderdelen a en b, van Verordening (EU) nr. 1307/2013 worden op aanvraag tevens betalingsrechten toegekend aan landbouwers die overeenkomstig artikel 24, eerste lid, derde alinea, aanhef en onderdeel a, van Verordening (EU) nr. 1307/2013 en blijkens de landbouwtelling, bedoeld in artikel 24 van de Landbouwwet, van het jaar 2013 de gewassen, bedoeld in artikel 24, eerste lid, derde alinea, onderdeel a, van Verordening (EU) nr. 1307/2013 hebben geteeld.   
+1.  Onverminderd artikel 24, eerste lid, aanhef en onderdelen a en b, van Verordening (EU) nr. 1307/2013 worden op aanvraag tevens betalingsrechten toegekend aan landbouwers die: 
+
+a. overeenkomstig artikel 24, eerste lid, derde alinea, aanhef en onderdeel a, van Verordening (EU) nr. 1307/2013 en blijkens de landbouwtelling, bedoeld in artikel 24 van de Landbouwwet, van het jaar 2013 op ten minste 0,3 hectare landbouwareaal de gewassen, bedoeld in artikel 24, eerste lid, derde alinea, onderdeel a, van Verordening (EU) nr. 1307/2013 hebben geteeld, en  
+
+b. overeenkomstig artikel 24, eerste lid, derde alinea, aanhef en onderdeel c, van Verordening (EU) nr. 1307/2013 nooit hebben beschikt over betalingsrechten en in het jaar 2013 aantoonbaar ten genoegen van de minister landbouwproducten hebben geproduceerd, gefokt, of geteeld, inclusief door het oogsten, het melken en het houden van dieren voor landbouwdoeleinden.     
 2.  De datum, bedoeld in artikel 24, tweede lid, van Verordening (EU) nr. 1307/2013, is 15 mei 2015.   
 3.  Overeenkomstig artikel 24, zevende lid, Verordening (EU) nr. 1307/2013 worden voor bouwland dat zich bevindt onder een permanente kas geen betalingsrechten toegewezen.   
 4.  De minimumgrootte van het bedrijf waarvoor een landbouwer een aanvraag tot toewijzing van betalingsrechten kan indienen, bedoeld in artikel 24, negende lid, van Verordening (EU) nr. 1307/2013 is 0,3 subsidiabele hectare.  
@@ -234,7 +240,7 @@ De betaling voor de klimaat- en milieuvriendelijke landbouwpraktijken geschiedt 
 ####Verplicht weer omzetten naar blijvend grasland
 
 1.  De minister verplicht in de situatie, bedoeld in artikel 45, derde lid, van Verordening (EU) nr. 1307/2013, de landbouwer die beschikt over land dat van blijvend grasland is omgezet in land voor andere vormen van grondgebruik overeenkomstig artikel 44, tweede en derde lid, van Verordening (EU) nr. 639/2014 tot het omzetten van land in blijvend grasland.   
-2.  De verplichting, bedoeld in het eerste lid, wordt opgelegd aan iedere landbouwer die blijkens de verzamelaanvraag in het jaar waarin de situatie, bedoeld in artikel 45, derde lid, van Verordening (EU) nr. 1307/2013, zich voordoet, blijvend grasland heeft omgezet in land voor andere vormen van grondgebruik.   
+2.  De verplichting, bedoeld in het eerste lid, wordt opgelegd aan de landbouwer die het perceel in gebruik heeft dat blijkens een verzamelaanvraag is omgezet van blijvend grasland in land voor andere vormen van grondgebruik in het jaar waarin de situatie, bedoeld in artikel 45, derde lid, van Verordening (EU) nr. 1307/2013 zich voordoet.   
 3.  De minister stelt de betrokken landbouwer in kennis van de oppervlakte waarop deze verplichting betrekking heeft.   
 4.  De landbouwer die de verplichting uit het eerste lid krijgt opgelegd, zet de vereiste oppervlakte om in blijvend grasland voor het moment van indienen van de eerstvolgende verzamelaanvraag en overeenkomstig de voorwaarden die in de kennisgeving, bedoeld in het derde lid, zijn geformuleerd.  
 
@@ -250,9 +256,9 @@ b. areaal bebouwd met hakhout met korte omlooptijd van boomsoorten behorende tot
 
 c. areaal waarop in de teeltperiode van 15 mei tot 15 juli een gewas van de soorten esparcette (*Onobrychis viciifolia*), lupine (*Lupinus species*), luzerne (*Medicago sativa*), rode klaver (*Trifolium pratense*), rolklaver (*Lotus corniculatus,),* veldboon (*Vicia faba*) of voederwikke (*Vicia sativa subspecies sativa*) wordt geteeld, uitgezonderd het areaal waarop artikel 45, tiende lid, tweede alinea, van Verordening (EU) nr. 639/2014 van toepassing is;  
 
-d. areaal, anders dan het areaal, bedoeld in het derde lid, en anders dan het areaal waarop artikel 45, negende lid, tweede alinea, van Verordening (EU) nr. 639/2014 van toepassing is, waarop combinaties van vanggewassen worden geteeld als bedoeld in bijlage 2, onder de voorwaarden die per categorie voor de desbetreffende soorten in deze bijlage zijn vermeld.     
+d. areaal, anders dan het areaal waarop artikel 45, negende lid, tweede alinea, van Verordening (EU) nr. 639/2014 van toepassing is, waarop combinaties van vanggewassen worden geteeld als bedoeld in bijlage 2, onder de voorwaarden die per categorie voor de desbetreffende soorten in deze bijlage zijn vermeld.     
 2.  Ten aanzien van het ecologische aandachtsgebied, bedoeld in het eerste lid, onderdelen b, c en d, worden de wegingsfactoren van bijlage X van Verordening (EU) nr. 1307/2013 gebruikt bij de berekening van het aantal hectares.   
-3.  Op areaal als bedoeld in het eerste lid, onderdeel c, vindt nateelt plaats indien: 
+3.  Op areaal als bedoeld in het eerste lid, onderdeel c, vindt nateelt plaats van de vanggewassen, bedoeld in bijlage 2, categorie 1, onderdeel A, onder de voorwaarde dat de nateelt ten minste in de periode van 1 november in het jaar van aanvraag tot 1 maart in het jaar na de aanvraag op het perceel aanwezig is indien: 
 
 a. de teelt van de gewassen, bedoeld in het eerste lid, onderdeel c, wordt beëindigd voor 1 oktober van het jaar van aanvraag, en  
 
@@ -265,7 +271,7 @@ b. de teelt plaatsvindt op zand- of lössgronden, als vastgesteld in bijlage I b
 
 1.  Landbouwers op wie de verplichting, bedoeld in artikel 46, eerste lid, van Verordening (EU) nr. 1307/2013 rust, kunnen deelnemen aan een collectieve tenuitvoerlegging van deze verplichting, onder de voorwaarden, bedoeld in artikel 46, zesde lid, van Verordening (EU) nr. 1307/2013, en in artikel 47, eerste lid, onderdeel b, en vierde lid, van Verordening (EU) nr. 639/2014.   
 2.  Het aantal kilometers, bedoeld in artikel 47, eerste lid, onderdeel b, van Verordening (EU) nr. 639/2014, bedraagt 15.   
-3.  Eén van de landbouwers die deelnemen aan een collectieve tenuitvoerlegging van de verplichting van het beheer van ecologisch aandachtsgebied, bedoeld in het eerste lid, meldt de collectieve tenuitvoerlegging, onder vermelding van de gegevens van de deelnemende landbouwers en de toepasselijke arealen, uiterlijk 31 maart van het jaar van de aanvraag, met gebruikmaking van een middel dat door de minister beschikbaar wordt gesteld, aan de minister.  
+3.  Eén van de landbouwers die deelnemen aan een collectieve tenuitvoerlegging van de verplichting van het beheer van ecologisch aandachtsgebied, bedoeld in het eerste lid, meldt de collectieve tenuitvoerlegging uiterlijk 31 maart van het jaar van de aanvraag aan de minister onder vermelding van de gegevens, bedoeld in artikel 18, tweede alinea, aanhef en onderdelen a tot en met d, en vierde alinea, van Verordening (EU) nr. 809/2014, met gebruikmaking van een middel dat door de minister beschikbaar wordt gesteld.  
 
 ### Artikel  2.19  
 
@@ -299,7 +305,7 @@ b. stelt de certificeringsinstantie de desbetreffende landbouwer en de minister 
 ####Betaling voor jonge landbouwers
 
 1.  De minister stelt elk jaar het bedrag van de betaling voor jonge landbouwers vast volgens de berekening van artikel 50, achtste lid, van Verordening (EU) nr. 1307/2013.   
-2.  Het maximum aantal subsidiabele hectaren dat de landbouwer kan aangeven voor de betaling, bedoeld in het eerste lid, bedraagt 90.  
+2.  Het maximum aantal betalingsrechten dat de landbouwer kan activeren voor de betaling, bedoeld in het eerste lid, bedraagt 90.  
 
 ### Artikel  2.22  
 
@@ -358,10 +364,10 @@ Geen steun als bedoeld in artikel 2:22 en artikel 2:23 wordt verstrekt aan de la
 
 ####Berekeningsgrondslag
 
-1.  Voor de toepassing van artikel 30 van Verordening (EU) nr. 640/2013 wordt een rund, respectievelijk een schaap, waarvoor steun is aangevraagd voor de hele periode, bedoeld in artikel 2.24, eerste lid als niet geconstateerd aangemerkt indien het rund of het schaap niet juist is geregistreerd in het I&R-systeem rund, bedoeld in artikel 14, onderdeel a, van de Regeling identificatie en registratie van dieren, respectievelijk het I&R-systeem schapen en geiten, bedoeld in artikel 34, onderdeel a, van die regeling, en als gevolg van die onjuiste registratie een hogere premie zou worden verstrekt.   
-2.  Voor de toepassing van artikel 30, eerste lid, van Verordening (EU) nr. 640/2013 wordt een rund waarvoor steun is aangevraagd als niet geconstateerd aangemerkt indien artikel 2:22, derde lid, niet wordt nageleefd.   
-3.  Voor de toepassing van artikel 30, eerste lid, van Verordening (EU) nr. 640/2013 wordt, indien de aanvrager in zijn verzamelaanvraag meer dan 0,1 hectare tot zijn bedrijf behorende oppervlakte grasland niet heeft aangegeven, het aantal gehouden dieren dat hierdoor bij de toepassing van artikel 2:24, derde en vierde lid, ten onrechte niet in mindering zou worden gebracht voor de berekening van de hoogte van de steun als niet geconstateerd beschouwd. In voorkomend geval wordt het aantal dieren afgerond naar boven tot hele dieren.   
-4.  Voor de toepassing van artikel 30, eerste lid, van Verordening (EU) nr. 640/2013 wordt een rund, respectievelijk een schaap, waarvoor steun is aangevraagd als geconstateerd aangemerkt als het de hele periode, bedoeld in artikel 2.24, eerste lid, voldoet aan alle voorwaarden in artikel 2:22, respectievelijk artikel 2:23.  
+1.  Voor de toepassing van artikel 30 van Verordening (EU) nr. 640/2014 wordt een rund, respectievelijk een schaap, waarvoor steun is aangevraagd voor de hele periode, bedoeld in artikel 2.24, eerste lid als niet geconstateerd aangemerkt indien het rund of het schaap niet juist is geregistreerd in het I&R-systeem rund, bedoeld in artikel 14, onderdeel a, van de Regeling identificatie en registratie van dieren, respectievelijk het I&R-systeem schapen en geiten, bedoeld in artikel 34, onderdeel a, van die regeling, en als gevolg van die onjuiste registratie een hogere premie zou worden verstrekt.   
+2.  Voor de toepassing van artikel 30, eerste lid, van Verordening (EU) nr. 640/2014 wordt een rund waarvoor steun is aangevraagd als niet geconstateerd aangemerkt indien artikel 2:22, derde lid, niet wordt nageleefd.   
+3.  Voor de toepassing van artikel 30, eerste lid, van Verordening (EU) nr. 640/2014 wordt, indien de aanvrager in zijn verzamelaanvraag meer dan 0,1 hectare tot zijn bedrijf behorende oppervlakte grasland niet heeft aangegeven, het aantal gehouden dieren dat hierdoor bij de toepassing van artikel 2:24, derde en vierde lid, ten onrechte niet in mindering zou worden gebracht voor de berekening van de hoogte van de steun als niet geconstateerd beschouwd. In voorkomend geval wordt het aantal dieren afgerond naar boven tot hele dieren.   
+4.  Voor de toepassing van artikel 30, eerste lid, van Verordening (EU) nr. 640/2014 wordt een rund, respectievelijk een schaap, waarvoor steun is aangevraagd als geconstateerd aangemerkt als het voldoet aan alle voorwaarden in artikel 2:22, respectievelijk artikel 2:23.  
 
 ### Hoofdstuk  3  
 
@@ -447,7 +453,7 @@ De minimumoppervlakte van de landbouwpercelen, bedoeld in artikel 72, eerste lid
 
 1.  De aanvraag voor toepassing van artikel 24, achtste lid, van Verordening (EU) nr. 1307/2013 gebeurt met gebruikmaking van een middel dat door de minister beschikbaar wordt gesteld.   
 2.  De verkoper of verhuurder van het landbouwbedrijf of een deel ervan doet de aanvraag tot toewijzing van betalingsrechten bij een overdracht als bedoeld in artikel 2.7, eerste lid, aan de minister met gebruikmaking van een middel dat door de minister beschikbaar wordt gesteld overeenkomstig artikel 4, eerste lid, respectievelijk artikel 5, eerste lid, van Verordening (EU) nr. 641/2014.   
-3.  De verkoper of verhuurder van het landbouwbedrijf of een deel ervan, bedoeld in het tweede lid, identificeert de verkochte respectievelijk verhuurde percelen waarop de koop respectievelijk huur betrekking heeft.   
+3.  De koper of huurder van het landbouwbedrijf of een deel ervan, bedoeld in het tweede lid, identificeert de verkochte respectievelijk verhuurde percelen waarop de koop respectievelijk huur betrekking heeft.   
 4.  De aanvragen, bedoeld in het eerste of het tweede lid, worden volledig en naar waarheid door de landbouwer ingevuld, ondertekend en gedagtekend.   
 5.  Artikel 4.2, vierde lid, is van overeenkomstige toepassing op de aanvragen, bedoeld in het eerste en tweede lid.  
 
@@ -457,7 +463,7 @@ De minimumoppervlakte van de landbouwpercelen, bedoeld in artikel 72, eerste lid
 
 De landbouwer die aanspraak maakt op de betaling voor jonge landbouwers, bedoeld in artikel 2.21, 
 
-a. verklaart dat hij voldoet aan de vereisten, bedoeld in artikel 50, tweede lid, onderdelen a en b, van Verordening (EU) nr. 1307/2013 respectievelijk artikel 49, eerste lid, van Verordening (EU) nr. 639/2014, en  
+a. verklaart in de verzamelaanvraag, bedoeld in artikel 4.2, dat hij voldoet aan de vereisten, bedoeld in artikel 50, tweede lid, onderdelen a en b, van Verordening (EU) nr. 1307/2013 respectievelijk artikel 49, eerste lid, van Verordening (EU) nr. 639/2014, en  
 
 b. verleent toestemming aan de minister om persoonsgegevens te verwerken ten behoeve van de controle op de naleving van deze regeling.   
 
@@ -488,6 +494,19 @@ De minister geeft uitvoering aan artikel 54, eerste en derde lid, van Verordenin
 ####Rentetarief
 
 Het rentetarief dat overeenkomstig artikel 7, tweede lid, van Verordening (EU) nr. 809/2014 wordt toegepast betreft de wettelijke rente, bedoeld in artikel 120, eerste lid, van Boek 6 van het Burgerlijk Wetboek. 
+
+### Artikel  4.10  
+
+####Kennisgeving bedrijfsovername voor uitkering rechtstreekse betalingen
+
+1.  De kennisgeving, bedoeld in artikel 8, derde lid, van Verordening (EU) nr. 809/2014 geschiedt in de periode, bedoeld in artikel 4.2, derde lid, na de overdracht van een bedrijf, bedoeld in artikel 8, eerste lid, onderdeel a, van Verordening (EU) nr. 809/2014 met gebruikmaking van een middel dat door de minister beschikbaar wordt gesteld.   
+2.  Voor de toepassing van artikel 8, vijfde lid, van Verordening (EU) nr. 809/2014 wordt als passend aangemerkt de situatie waarin: 
+
+a. de kennisgeving, bedoeld in artikel 8, derde lid, van Verordening (EU) nr. 809/2014 niet of na de periode, bedoeld in artikel 4.2, derde lid, is ontvangen;  
+
+b. de persoon wiens bedrijf is overgedragen, voldoet aan alle voorwaarden voor de verstrekking van rechtstreekse betalingen, en  
+
+c. de persoon wiens bedrijf is overgedragen alle bewijsstukken heeft overgelegd die de minister nodig acht om de betalingen aan hem toe te kennen.    
 
 ### Hoofdstuk  5  
 
@@ -625,7 +644,7 @@ B. Voorwaarden waaronder de vanggewassen, bedoeld in onderdeel A, kunnen worden 
 
 8. Het gebruik van meststoffen als bedoeld in artikel 1, eerste lid, onderdeel d, van de Meststoffenwet, is toegestaan, het gebruik van een gewasbeschermingsmiddel als bedoeld in artikel 1, eerste lid, van de Wet gewasbeschermingsmiddelen en biociden is niet toegestaan tot en met 31 december.  
 
-9. In afwijking van onderdeel 8 is voor de teelt van de vanggewassen na de teelt van vlas of hennep op het zelfde areaal en in het zelfde jaar van aanvraag de aanwending van een gewasbeschermingsmiddel toegestaan.     
+9. Voor de teelt van de vanggewassen na de teelt van vlas of hennep op het zelfde areaal en in het zelfde jaar van aanvraag is onderdeel 7 niet van toepassing en is in afwijking van onderdeel 8 de aanwending van een gewasbeschermingsmiddel toegestaan.     
 
 ### Categorie  2  
 
@@ -653,9 +672,32 @@ B. Voorwaarden waaronder de vanggewassen, bedoeld in onderdeel A, kunnen worden 
 
 5. De landbouwer meldt de datum van inzaai bij de minister door middel van een daartoe door de minister beschikbaar gesteld middel.  
 
-6. De vanggewassen dienen ten minste 10 weken tot op het perceel aanwezig te zijn.  
+6. Het gebruik van meststoffen als bedoeld in artikel 1, eerste lid, onderdeel d, van de Meststoffenwet, en gewasbeschermingsmiddelen als bedoeld in artikel 1, eerste lid, van de Wet gewasbeschermingsmiddelen en biociden, is toegestaan.     
 
-7. Het gebruik van meststoffen als bedoeld in artikel 1, eerste lid, onderdeel d, van de Meststoffenwet, en gewasbeschermingsmiddelen als bedoeld in artikel 1, eerste lid, van de Wet gewasbeschermingsmiddelen en biociden, is toegestaan.     
+### Categorie  3  
+
+####Onderzaai van gras als combinatie van vanggewassen
+
+A. Lijst van grassen waarvan één soort of meer soorten in combinatie met de hoofdteelt als combinatie van vanggewassen kunnen worden geteeld:  
+
+| --- | --- |
+|:---|:---|
+| Engels raaigras  |  *Lolium perenne*   |
+| Italiaans/Westerwolds raaigras  |  *Lolium multiflorum *   |
+| Rietzwenkgras  |  *Festuca arundinacea*   |
+| Soedangras/Sorghum  |  *Sorghum bicolor*   |
+| Festulolium  |  *Lolium sp. x Festuca sp.*   |
+| Beemdlangbloem  |  *Festuca pratensis*   |
+| Veldbeemdgras  |  *Poa pratensis*   |
+| Timothee  |  *Phleum pratense*   |
+
+B. Voorwaarden waaronder soorten grassen als bedoeld in onderdeel A, als combinatie van vanggewassen kunnen worden geteeld: 
+
+1. De grassoort of grassoorten, bedoeld in onderdeel A, worden als onderzaai van gras in combinatie met de hoofdteelt voor 1 oktober van het jaar van aanvraag gezaaid.  
+
+2. De landbouwer meldt de datum van oogst van de hoofdteelt bij de minister door middel van een daartoe door de minister beschikbaar gesteld middel.  
+
+3. De onderzaai is ten minste 10 weken op het perceel aanwezig, te rekenen vanaf de oogstdatum of vanaf 1 oktober.    
 
 ### Bijlage 3 
 

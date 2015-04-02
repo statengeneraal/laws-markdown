@@ -306,7 +306,7 @@ c. de maatregel bedoeld in artikel 77s van het Wetboek van Strafrecht, indien de
 5.  Het eerste lid, onder a en b, is niet van toepassing op personen op wie Titel VIIIA van het Eerste Boek van het Wetboek van Strafrecht is toegepast.  
 
 ### Artikel  11b  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-07-2015 
 
 1.  Ten behoeve van de naleving van de artikelen 3, tweede lid, 4, eerste en tweede lid, en 9, vierde lid, van de Wet politiegegevens worden justitiële gegevens, bedoeld in de artikelen 6 en 7, eerste lid, onder b, g, h, onderdeel 4°, i, j, onderdeel 3°, en k, verstrekt aan de verantwoordelijke, bedoeld in artikel 1, onderdeel f, van de Wet politiegegevens en in artikel 1, onderdeel c, van het Besluit politiegegevens bijzondere opsporingsdiensten.   
 2.  De verantwoordelijke vernietigt de ontvangen justitiële gegevens terstond na het bereiken van het doel van de verstrekking.  
@@ -423,7 +423,7 @@ c. Onze Minister voorzover dit noodzakelijk is voor het verwerken van deze gegev
 
 d. Onze Minister en aan de korpschef voorzover dit noodzakelijk is voor de uitvoering van de Wet wapens en munitie, de Wet particuliere beveiligingsorganisaties en recherchebureaus en van de Flora- en faunawet;  
 
-e. Onze Minister van Defensie en het hoofd van de Belastingdienst/Douane centrale dienst voor in- en uitvoer voorzover dit noodzakelijk is voor de uitvoering van de Wet wapens en munitie.   
+e. Onze Minister van Defensie en het hoofd van het onderdeel van de Belastingdienst, de Centrale dienst voor in- en uitvoer, voor zover dit noodzakelijk is voor de uitvoering van de Wet wapens en munitie en andere in dat kader relevante regelgeving.   
 
 ### Artikel  17  
 
@@ -450,7 +450,6 @@ a. voor de selectie en bejegening van personen ten aanzien van wie de tenuitvoer
 b. voor het nemen van beslissingen over het verlaten van de inrichting bij wijze van verlof.   
 
 ### Artikel  18a  
-Treedt in werking op een nader te bepalen tijdstip 
 
 Justitiële gegevens worden desgevraagd verstrekt aan de Raad voor strafrechtstoepassing en jeugdbescherming, voor zover hij deze behoeft voor het nemen van beslissingen op beroep of schorsingsverzoeken. 
 
@@ -476,7 +475,7 @@ c. de autoriteiten, bedoeld in artikel 44, eerste lid, van die wet, in verband m
 
 Justitiële gegevens worden desgevraagd verstrekt aan: 
 
-a. de hulpofficier van justitie ten behoeve van de daadwerkelijke handhaving van de rechtsorde, bedoeld in artikel 3 van de Politiewet 2012 alsmede de hulpofficier van justitie van de Koninklijke marechaussee ten behoeve van de politietaken, bedoeld in artikel 4, eerste lid, van de Politiewet 2012;  
+a. de hulpofficier van justitie ten behoeve van de daadwerkelijke handhaving van de rechtsorde, bedoeld in artikel 3 van de Politiewet 2012 en de uitvoering van de taken, bedoeld in artikel 3 van de Wet op de bijzondere opsporingsdiensten, alsmede de hulpofficier van justitie van de Koninklijke marechaussee ten behoeve van de politietaken, bedoeld in artikel 4, eerste lid, van de Politiewet 2012;  
 
 b. het hoofd van een dienst die is belast met de behandeling van verzoeken om rechtshulp, van een landelijke eenheid als bedoeld in artikel 25, eerste lid, onderdeel b, van de Politiewet 2012 ten behoeve van het controleren van de juistheid van de gegevens uit de politieregisters, die op grond van een verzoek om rechtshulp door autoriteiten van een vreemde staat, als bedoeld in artikel 552h van het Wetboek van Strafvordering, al dan niet namens de officier van justitie worden verstrekt;  
 
@@ -506,14 +505,13 @@ b. de daartoe door Onze Minister van Infrastructuur en Milieu aangewezen ambtena
 
 ### Artikel  22a  
 
-Justitiële gegevens van degene die in het bezit is van een chauffeurskaart als bedoeld in artikel 1, onder i, van het Besluit personenvervoer 2000, worden ambtshalve verstrekt aan Onze Minister. Onze Minister verstrekt de justitiële gegevens, bedoeld in artikel 6, eerste lid, en artikel 7, eerste lid, onder f, terzake van de strafbare feiten die van belang zijn voor de beoordeling van een met het oog op het uitoefenen van het beroep van taxichauffeur aangevraagde verklaring omtrent het gedrag, verder aan Onze Minister van Infrastructuur en Milieu, met het oog op toepassing van artikel 82, zesde lid, van het Besluit personenvervoer 2000. 
+Justitiële gegevens van degene die in het bezit is van een chauffeurskaart als bedoeld in artikel 1, onder h, van het Besluit personenvervoer 2000, worden ambtshalve verstrekt aan Onze Minister. Onze Minister verstrekt de justitiële gegevens, bedoeld in artikel 6, eerste lid, en artikel 7, eerste lid, onder f, terzake van de strafbare feiten die van belang zijn voor de beoordeling van een met het oog op het uitoefenen van het beroep van taxichauffeur aangevraagde verklaring omtrent het gedrag, verder aan Onze Minister van Infrastructuur en Milieu, met het oog op toepassing van artikel 82, zesde lid, van het Besluit personenvervoer 2000. 
 
 ### Artikel  22b  
 
 Justitiële gegevens van degenen, bedoeld in de artikelen 1.50, 1.56, 1.56b en 2.6 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen, worden ambtshalve verstrekt aan Onze Minister. Onze Minister verstrekt de justitiële gegevens als bedoeld in artikel 6, eerste lid, en artikel 7, eerste lid, onder f, ter zake van de strafbare feiten die van belang zijn voor de beoordeling van een met het oog op het werkzaam zijn in de kinderopvang of in het peuterspeelzaalwerk aangevraagde verklaring omtrent het gedrag, verder aan Onze Minister van Sociale Zaken en Werkgelegenheid en het college van burgemeester en wethouders met het oog op het toezicht op de naleving van de kwaliteitseisen die de artikelen 1.50, 1.56, 1.56b en 2.6 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen stellen aan de exploitatie van kinderopvangvoorzieningen of peuterspeelzalen. 
 
 ### Artikel  22c  
-Treedt in werking op een nader te bepalen tijdstip 
 
 Justitiële gegevens van degene die in het bezit is van een toegangsbewijs als bedoeld in artikel 11a, eerste lid, van het Besluit beveiliging burgerluchtvaart, worden ambtshalve verstrekt aan Onze Minister. Onze Minister verstrekt de justitiële gegevens, bedoeld in de artikelen 6, eerste lid, en 7, eerste lid, onder f, terzake van de strafbare feiten die van belang zijn voor de beoordeling van een aanvraag om afgifte van een verklaring omtrent het gedrag met het oog op het uitoefenen van de werkzaamheden op een luchtvaartterrein, verder aan de exploitant van het desbetreffende luchtvaartterrein met het oog op toepassing van artikel 11a, vierde lid, van het Besluit beveiliging burgerluchtvaart. 
 
@@ -578,7 +576,7 @@ e. de directeur van een inrichting als bedoeld in artikel 1, onder b, van de Beg
 
 a. de directeur van het Nederlands Centraal Instituut voor Giraal Effectenverkeer BV ten behoeve van het onderzoek naar de betrouwbaarheid en de geschiktheid van personen die in aanmerking willen komen voor een dienstbetrekking bij deze rechtspersoon of bij het Nederlands Interprofessioneel Effectencentrum NIEC BV of die al een dienstbetrekking bij een van deze rechtspersonen vervullen, maar in aanmerking willen komen voor een andere dienstbetrekking bij een van deze rechtspersonen alsmede ten behoeve van het onderzoek naar de betrouwbaarheid en de geschiktheid van personen die bij de hiervoor genoemde rechtspersonen werkzaamheden gaan verrichten gedurende een zo lange periode dat hun positie kan worden gelijkgesteld met die van werknemers in dienstverband;  
 
-b. de President van De Nederlandsche Bank N.V. ten behoeve van het onderzoek naar de betrouwbaarheid en de geschiktheid van personen die in aanmerking willen komen voor een dienstbetrekking bij deze rechtspersoon of bij de Europese Centrale Bank of die reeds een dienstbetrekking bij deze rechtspersoon of bij de Europese Centrale Bank vervullen, maar in aanmerking willen komen voor een andere dienstbetrekking bij die rechtspersoon of de Europese Centrale Bank, alsmede ten behoeve van het onderzoek naar de betrouwbaarheid en de geschiktheid van personen die bij de hiervoor genoemde rechtspersonen werkzaamheden gaan verrichten gedurende een zodanige lange periode dat hun positie kan worden gelijkgesteld met die van werknemers in dienstverband;  
+b. de President van De Nederlandsche Bank N.V., ten behoeve van het onderzoek naar de betrouwbaarheid en de geschiktheid van personen die werkzaamheden gaan verrichten of verrichten bij deze rechtspersoon of bij de Europese Centrale Bank;  
 
 c. de President van De Nederlandsche Bank N.V. ten behoeve van het onderzoek naar de betrouwbaarheid en de geschiktheid van personen die naar aanleiding van een overeenkomst met De Nederlandsche Bank N.V. worden belast met het vervoer van bankbiljetten, munten of halffabrikaten die worden gebruikt bij de vervaardiging van bankbiljetten of munten;  
 

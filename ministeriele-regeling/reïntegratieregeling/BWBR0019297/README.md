@@ -30,7 +30,7 @@ a. echtgenoot: de geregistreerde partner alsmede de ongehuwde meerderjarige die 
 
 b. ongehuwd: de persoon die duurzaam gescheiden leeft van de persoon met wie hij gehuwd is.     
 3.  Onder bloedverwant in de eerste graad als bedoeld in het tweede lid, onderdeel a, wordt mede verstaan een meerderjarig aangehuwd kind of een meerderjarig voormalig pleegkind van de ongehuwde meerderjarige.   
-4.  Onder voormalig pleegkind als bedoeld in het derde lid wordt verstaan een pleegkind waarvoor de ongehuwde meerderjarige een pleegvergoeding ontving of ontvangt op grond van de Wet op de jeugdzorg of kinderbijslag ontving op grond van de Algemene Kinderbijslagwet. 
+4.  Onder voormalig pleegkind als bedoeld in het derde lid wordt verstaan een pleegkind waarvoor de ongehuwde meerderjarige een pleegvergoeding ontving of ontvangt op grond van de Wet op de jeugdzorg of de Jeugdwet of kinderbijslag ontving op grond van de Algemene Kinderbijslagwet. 
 
 ### Artikel  2  
 

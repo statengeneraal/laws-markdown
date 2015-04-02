@@ -8,7 +8,7 @@ Op de voordracht van Onze Minister voor Publiekrechtelijke Bedrijfsorganisatie v
 
 Overwegende, dat het wenselijk is regelen te stellen omtrent de onverenigbaarheid van het lidmaatschap van de Sociaal-Economische Raad met enige andere werkzaamheden;
 
-Gelet op [artikel 6, eerste lid, van de Wet op de Bedrijfsorganisatie](../../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) (*Stb.* 1950, K 22);
+Gelet op artikel 6, eerste lid, van de Wet op de Bedrijfsorganisatie (*Stb.* 1950, K 22);
 
 De Raad van State gehoord (advies van 30 Augustus 1955, no. 34);
 

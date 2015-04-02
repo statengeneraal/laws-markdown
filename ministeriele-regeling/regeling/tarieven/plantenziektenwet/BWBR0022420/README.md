@@ -75,13 +75,13 @@ Deze regeling berust mede op de artikelen 28, eerste lid, en 37, vijfde lid, va
 
 1.  Als vergoeding van de kosten voor het verrichten van fytosanitaire werkzaamheden ten behoeve van voor import, export en in het handelsverkeer aangeboden zendingen wordt de aanvrager het volgende tarief in rekening gebracht: 
 
-a. indien de werkzaamheden op verzoek worden verricht tijdens kantooruren, een basistarief van € 183,46 per inspectieaanvraag vermeerderd met een tarief van € 1,57 per minuut  
+a. indien de werkzaamheden op verzoek worden verricht tijdens kantooruren, een basistarief van € 186,21 per inspectieaanvraag vermeerderd met een tarief van € 1,59 per minuut  
 
-b. indien de werkzaamheden op verzoek worden verricht buiten kantooruren, een basistarief van € 246,13 per inspectieaanvraag vermeerderd met een tarief van: 
+b. indien de werkzaamheden op verzoek worden verricht buiten kantooruren, een basistarief van € 249,82 per inspectieaanvraag vermeerderd met een tarief van: 
 
-1°. € 378,62 als de inspectie niet langer duurt dan 3 uur;  
+1°. € 384,30 als de inspectie niet langer duurt dan 3 uur;  
 
-2°. € 378,62 vermeerderd met € 2,10 per minuut voor zover de inspectie langer duurt dan 3 uur.       
+2°. € 384,30 vermeerderd met € 2,13 per minuut voor zover de inspectie langer duurt dan 3 uur.       
 2.  Als vergoeding voor de kosten voor de afgifte van een fytosanitair certificaat en het verrichten van het eindonderzoek ten behoeve van dat certificaat, bedoeld in artikel 15 van de Regeling invoer, uitvoer en verkeer van planten, wordt de aanvrager het volgende tarief in rekening gebracht: 
 
 a. in het geval het werkzaamheden betreft die, als het niet de in de aanhef genoemde specifieke fytosanitaire activiteiten zouden betreffen, door het KCB zouden worden verricht, de tarieven bedoeld in artikel 9, 14, 15, tweede lid, 16, 17 en 18, waarbij artikel 19 van overeenkomstige toepassing is;  
@@ -94,33 +94,35 @@ d. in het geval het werkzaamheden betreft die, als het niet de in de aanhef geno
 
 ### Artikel  2a  
 
-Als vergoeding voor de kosten van het afgeven van een instructie voor invoervergunning welke noodzakelijk is voor de afgifte van een fytosanitair certificaat bij een zending waarvoor een derde land een importvergunning heeft afgegeven, wordt de aanvrager een tarief in rekening gebracht van € 207,67. 
+Als vergoeding voor de kosten van het afgeven van een instructie voor invoervergunning welke noodzakelijk is voor de afgifte van een fytosanitair certificaat bij een zending waarvoor een derde land een importvergunning heeft afgegeven, wordt de aanvrager een tarief in rekening gebracht van € 210,79. 
 
 ### Artikel  2b  
 
-1.  Het controlepercentage voor houten verpakkingsmateriaal als bedoeld in uitvoeringsbesluit nr. 2013/92/EU van zendingen van oorsprong uit China: 
+1.  Het controlepercentage voor houten verpakkingsmateriaal als bedoeld in uitvoeringsbesluit nr. 2013/92/EU van zendingen van oorsprong uit China: 
 
-a. met GN-code 2514 00 00, 2515 of 2516 is 90%;  
+a. met GN-code 2514 00 00, 2515, 2516, 6908 of 7210 is 15%;  
 
-b. met GN-code 6801 00 00 of 6802 is 50%.     
+b. met GN-code 6801 00 00, 6802 of 6803 00 is 50%.     
 2.  Als vergoeding voor de kosten van fytosanitaire werkzaamheden als bedoeld uitvoeringsbesluit nr. 2013/92/EU wordt de aanvrager het volgende tarief in rekening gebracht, waarbij het gewicht van de zending naar boven wordt afgerond in tonnen: 
 
-a. voor een zending van oorsprong uit China die in de Europese Unie wordt ingevoerd met GN-code 2514 00 00, 2515 of 2516, € 7,42 per ton, met een maximum van € 7.420,– per zending;  
+a. voor een zending van oorsprong uit China die in de Europese Unie wordt ingevoerd met GN-code 2514 00 00, 2515, 2516 of 6908, € 1,26 per ton, met een minimum van € 6,30 en een maximum van € 1.260,00 per zending;  
 
-b. voor een zending van oorsprong uit China die in de Europese Unie wordt ingevoerd met GN-code 6801 00 00 of 6802, € 6,56 per ton, met een maximum van € 6.560,– per zending.     
-3.  Als vergoeding voor de kosten van verwerking van inspectieaanvragen voor houten verpakkingsmateriaal als bedoeld in uitvoeringsbesluit nr. 2013/92/EU van zendingen van oorsprong uit China die niet via het elektronisch vooraanmeldsysteem CLIENT Import worden aangemeld, wordt naast het tarief, bedoeld in het tweede lid, een tarief van € 38,50 per zending in rekening gebracht.  
+b. voor een zending van oorsprong uit China die in de Europese Unie wordt ingevoerd met GN-code 6801 00 00, 6802 of 6803 00, € 6,60 per ton, met een minimum van € 6,60 en een maximum van € 6.600,00 per zending;  
+
+c. voor een zending van oorsprong uit China die in de Europese Unie wordt ingevoerd met GN-code 7210, € 0,51 per ton, met een minimum van € 5,10 en een maximum van € 510,00 per zending.     
+3.  Als vergoeding voor de kosten van verwerking van inspectieaanvragen voor houten verpakkingsmateriaal als bedoeld in uitvoeringsbesluit nr. 2013/92/EU van zendingen van oorsprong uit China die niet via het elektronisch vooraanmeldsysteem CLIENT Import worden aangemeld, wordt naast het tarief, bedoeld in het tweede lid, een tarief van € 39,08 per zending in rekening gebracht.  
 
 ### Artikel  3  
 
 Indien degene die voor het verrichten van werkzaamheden, bedoeld in artikel 2, eerste lid desgevraagd op een bepaald tijdstip en op een bepaalde plaats aanwezig is, maar de werkzaamheden door omstandigheden buiten toedoen van de met deze werkzaamheden belaste persoon, niet kunnen worden verricht, wordt de aanvrager als kosten een bedrag in rekening gebracht van: 
 
-a. € 277,54 indien het de werkzaamheden bedoeld in de artikel 2, eerste lid, onder a, betreft;  
+a. € 281,70 indien het de werkzaamheden bedoeld in de artikel 2, eerste lid, onder a, betreft;  
 
-b. € 372,436 indien het de werkzaamheden bedoeld in de artikel 2, eerste lid, onder b, betreft.   
+b. € 377,95 indien het de werkzaamheden bedoeld in de artikel 2, eerste lid, onder b, betreft.   
 
 ### Artikel  3a  
 
-Als vergoeding voor de kosten van het op verzoek intrekken van een teeltverbod als bedoeld in artikel 2 van de Regeling bestrijding schadelijke organismen voorafgaande aan de eindtermijn van dat verbod, wordt de aanvrager voor de administratieve afhandeling een tarief in rekening gebracht van € € 23,17. 
+Als vergoeding voor de kosten van het op verzoek intrekken van een teeltverbod als bedoeld in artikel 2 van de Regeling bestrijding schadelijke organismen voorafgaande aan de eindtermijn van dat verbod, wordt de aanvrager voor de administratieve afhandeling een tarief in rekening gebracht van € 23,52. 
 
 ### §  2.2  
 
@@ -128,28 +130,31 @@ Als vergoeding voor de kosten van het op verzoek intrekken van een teeltverbod a
 
 ### Artikel  4  
 
-Indien in het kader van de werkzaamheden, bedoeld in artikel 2, laboratoriumonderzoek noodzakelijk is, wordt de aanvrager boven de in dat artikel genoemde vergoeding een bedrag van € 173,71 per genomen monster in rekening gebracht. 
+Indien in het kader van de werkzaamheden, bedoeld in artikel 2, laboratoriumonderzoek noodzakelijk is, wordt de aanvrager boven de in dat artikel genoemde vergoeding een bedrag van € 176,32 per genomen monster in rekening gebracht. 
 
 ### §  2.3  
 
-####Certificaten en vergunningen
+####Certificaten, vergunningen en ontheffingen
 
 ### Artikel  5  
 
-Als vergoeding voor het ten kantore waarmerken van certificaten ten behoeve van niet-inspectieplichtige zendingen wordt de aanvrager € 5,60 per certificaat in rekening gebracht. 
-
-### Artikel  6  
-
-1.  Voor de behandeling van een aanvraag van een erkenning als bedoeld in artikel 37, zesde lid, van de Wet gewasbeschermingsmiddelen en biociden wordt de aanvrager € 1.069,38 per aanvraag in rekening gebracht.   
-2.  Voor toezicht op de naleving van de voorwaarden, verbonden aan de in het eerste lid bedoelde erkenning, wordt de aanvrager een bedrag van € 1069,38 per erkenning per jaar in rekening gebracht. 
+Als vergoeding voor het ten kantore waarmerken van certificaten ten behoeve van niet-inspectieplichtige zendingen wordt de aanvrager € 5,68 per certificaat in rekening gebracht. 
 
 ### Artikel  7  
 
-1.  Voor de behandeling van een aanvraag van een goedkeuring als bedoeld in artikel 2, eerste lid, van richtlijn 2008/61/EG wordt de aanvrager € 1.089,85 per aanvraag in rekening gebracht.   
-2.  Indien het voor de beoordeling van de in het eerste lid bedoelde vergunningaanvraag nodig is het betreffende materiaal te toetsen op de aanwezigheid van schadelijke organismen, wordt de aanvrager voor deze toetsing € 173,71 per monster in rekening gebracht.   
+1.  Voor de behandeling van een aanvraag van een goedkeuring als bedoeld in artikel 2, eerste lid, van richtlijn 2008/61/EG wordt de aanvrager € 1.106,20 per aanvraag in rekening gebracht.   
+2.  Indien het voor de beoordeling van de in het eerste lid bedoelde vergunningaanvraag nodig is het betreffende materiaal te toetsen op de aanwezigheid van schadelijke organismen, wordt de aanvrager voor deze toetsing € 176,32 per monster in rekening gebracht.   
 3.  Voor toezicht op de naleving van de voorwaarden, verbonden aan de in het eerste lid bedoelde vergunning, wordt de aanvrager een bedrag van € 1.089,85 per vergunning per jaar in rekening gebracht.   
-4.  Voor de behandeling van een aanvraag van een vergunning als bedoeld in artikel 2, tweede lid, van richtlijn 2008/61/EG wordt de aanvrager € 105,71 in rekening gebracht.   
-5.  Wanneer meerdere vergunningen als bedoeld in artikel 2, tweede lid, van richtlijn 2008/61/EG tegelijk worden aangevraagd, wordt, in afwijking van het vijfde lid, de aanvrager voor één vergunning € 105,71 en voor iedere andere hieraan gelijke vergunning € 51,93 in rekening gebracht.  
+4.  Voor de behandeling van een aanvraag van een vergunning als bedoeld in artikel 2, tweede lid, van richtlijn 2008/61/EG wordt de aanvrager € 107,30 in rekening gebracht.   
+5.  Wanneer meerdere vergunningen als bedoeld in artikel 2, tweede lid, van richtlijn 2008/61/EG tegelijk worden aangevraagd, wordt, in afwijking van het vijfde lid, de aanvrager voor één vergunning € 107,30 en voor iedere andere hieraan gelijke vergunning € 52,71 in rekening gebracht.  
+
+### Artikel  7a  
+
+1.  Voor de behandeling van een aanvraag voor een ontheffing als bedoeld in artikel 19, eerste lid, van het Besluit bestrijding schadelijke organismen van het verbod, bedoeld in artikel 3 van de Regeling bestrijding schadelijke organismen, wordt de aanvrager € 50,00 per aanvraag in rekening gebracht.   
+2.  Voor de behandeling van een aanvraag voor een ontheffing als bedoeld in artikel 19, eerste lid, van het Besluit bestrijding schadelijke organismen van het verbod, bedoeld in artikel 4 van de Regeling bestrijding schadelijke organismen, wordt de aanvrager € 150,00 per aanvraag in rekening gebracht.   
+3.  Voor de behandeling van een aanvraag voor een ontheffing als bedoeld in artikel 19, eerste lid, van het Besluit bestrijding schadelijke organismen van het verbod, bedoeld in artikel 14e, eerste lid, van de Regeling bestrijding schadelijke organismen, wordt de aanvrager € 75,00 per aanvraag in rekening gebracht.   
+4.  Voor de behandeling van een aanvraag voor een ontheffing van in aanvulling op het verbod, bedoeld in artikel 14e, eerste lid, van de Regeling bestrijding schadelijke organismen, opgelegde maatregelen als bedoeld in artikel 14e, derde lid, van die regeling, wordt de aanvrager € 75,00 per aanvraag in rekening gebracht.   
+5.  Voor de behandeling van een melding als bedoeld in Bijlage 5, onderdelen 4, onder c, 5, onder c, en 6, onder c, bij de Regeling bestrijding schadelijke organismen, wordt de aanvrager € 150,00 per melding in rekening gebracht.  
 
 ### §  2.4  
 
@@ -195,7 +200,7 @@ d. een tarief voor de controle van documenten van € 10,21 per importzending;
 
 e.een tarief voor de controle van de aangifte in CLIENT Import en vervoersdocumenten bij een verlegde inspectie van € 5,85 per importzending;
 
-f. indien een exportcertificaat of code ter waarmerking van een elektronisch certificaat is aangevraagd via CLIENT Export, een bedrag van € 5,00 voor de afgifte van het certificaat of de code.  
+f. indien een exportcertificaat of code ter waarmerking van een elektronisch certificaat is aangevraagd via CLIENT Export, een bedrag van € 5,14 voor de afgifte van het certificaat of de code.  
 
 ### Artikel  10  
 
@@ -316,7 +321,6 @@ c. op zondag of op een algemeen erkende feestdag per partij een tarief per ton, 
 3.  Voor inspectie van groenten en fruit, waarvoor ingevolge de bepalingen van richtlijn 2000/29/EG in alle gevallen een importinspectie dient plaats te vinden, is artikel 9 van toepassing.  
 
 ### Artikel  13a  
-Treedt in werking per 01-01-2015 
 
 In het geval de verlaagde inspectiefrequenties bij import zoals opgenomen in de Bijlage bij deze regeling, afwijken van de verlaagde inspectiefrequenties bij import zoals opgenomen in de lijst, bedoeld in artikel 2, tweede lid, van verordening 1756/2004, gelden de verlaagde inspectiefrequenties zoals opgenomen in de hiervoor bedoeld lijst. 
 
@@ -327,7 +331,7 @@ Voor de verwerking van inspectieaanvragen die niet via het elektronisch vooraanm
 ### Artikel  15  
 
 1. Indien de controles van de identiteit en de fytosanitaire controles bedoeld in artikel 12, eerste lid, onder a tot en met c, van de Regeling invoer, uitvoer en verkeer van planten overeenkomstig het zevende lid van dat artikel in een andere lidstaat plaatsvinden, wordt de aanvrager voor de controle van documenten een tarief van € 10,21 per zending in rekening gebracht.  
-2.  Voor op verzoek van de aanvrager door de keuringsdienst afgegeven document, ter facilitering van de fytosanitaire exportcertificering van een zending planten of plantaardig producten door een andere lidstaat dan de lidstaat van herkomst, wordt bij de aanvrager per document € 48,55 in rekening gebracht. 
+2.  Voor op verzoek van de aanvrager door de keuringsdienst afgegeven document, ter facilitering van de fytosanitaire exportcertificering van een zending planten of plantaardig producten door een andere lidstaat dan de lidstaat van herkomst, wordt bij de aanvrager per document het tarief bedoeld in artikel 33, tweede lid in rekening gebracht. 
 
 ### Artikel  16  
 
@@ -340,8 +344,8 @@ Indien degene die voor het verrichten van werkzaamheden, bedoeld in de artikelen
 ### Artikel  17  
 
 1. Indien in het kader van de werkzaamheden, bedoeld in de artikelen 9, 10, tweede lid, 11, tweede lid, 12, tweede lid, of 13, tweede lid, laboratoriumonderzoek noodzakelijk is, wordt de aanvrager boven de in deze artikelen genoemde vergoeding een bedrag van € 43,80, vermeerderd met het tarief bedoeld in artikel 4 per genomen monster in rekening gebracht.  
-2.  In afwijking van het eerste lid, wordt, in plaats van het in artikel 4 bedoelde tarief, voor laboratoriumonderzoek naar Ditylenchus dipsaci in Allium spp. het bedrag vermeerderd met een tarief van € 131,00 per uitgevoerd onderzoek.   
-3.  In afwijking van het eerste lid wordt voor laboratoriumonderzoek naar Radopholus similis in potplanten een bedrag van € 131,00 in rekening gebracht per uitgevoerd onderzoek. 
+2.  In afwijking van het eerste lid, wordt, in plaats van het in artikel 4 bedoelde tarief, voor laboratoriumonderzoek naar Ditylenchus dipsaci in Allium spp. het bedrag vermeerderd met het tarief bedoeld in artikel 35, onderdeel e, per uitgevoerd onderzoek.   
+3.  In afwijking van het eerste lid wordt voor laboratoriumonderzoek naar Radopholus similis in potplanten het tarief bedoeld in artikel 35, onderdeel f, in rekening gebracht per uitgevoerd onderzoek. 
 
 ### §  3.3  
 
@@ -393,7 +397,7 @@ d. indien de werkzaamheden op verzoek worden verricht op zaterdag of op maandag 
 
 e. indien de werkzaamheden op verzoek worden verricht op zondag of op een algemeen erkende feestdag, met uitzondering van 5 mei, een basistarief van € 96,40 per inspectieaanvraag vermeerderd met een tarief van € 2,60 per minuut;  
 
-f.indien een exportcertificaat is aangevraagd via CLIENT Export, een bedrag van € 5,00 voor de afgifte van het certificaat vermeerderd met een tarief van € 2,00 per certificaat voor het uitwisselen van fytosanitaire gegevens via het Ketenregister ten behoeve van de elektronische afgifte van het exportcertificaat. 
+f.indien een exportcertificaat is aangevraagd via CLIENT Export, een bedrag van € 5,14 voor de afgifte van het certificaat vermeerderd met een tarief van € 3,00 per certificaat voor het uitwisselen van fytosanitaire gegevens via het Ketenregister ten behoeve van de elektronische afgifte van het exportcertificaat. 
 2.  Voor de vergoeding van kosten voor het verrichten van overige fytosanitaire werkzaamheden anders dan die bedoeld in dit hoofdstuk, gelden de tarieven bedoeld in het eerste lid.  
 
 ### Artikel  21  
@@ -514,7 +518,7 @@ d. indien de werkzaamheden op verzoek worden verricht op zondag of op een algeme
 
 e.indien de inspectieaanvraag via het elektronisch vooraanmeldsysteem CLIENT Import wordt aangemeld, een bedrag van € 2,00 per zending; 
 
-f.indien een exportcertificaat is aangevraagd via CLIENT Export, een bedrag van € 5,00 voor de afgifte van het certificaat.   
+f.indien een exportcertificaat is aangevraagd via CLIENT Export, een bedrag van € 5, 14 voor de afgifte van het certificaat.   
 2.  In afwijking van het eerste lid kan geen inspectie worden aangevraagd voor maandag, dinsdag, woensdag, donderdag en vrijdag van 22.00 uur tot 5.00 uur, op zaterdag van 16.30 uur tot 8.30 uur, en op zondag of op een algemeen erkende feestdag van 16.30 uur tot 8.30 uur.  
 
 ### Artikel  30  
@@ -564,17 +568,17 @@ c. € 284,00 indien het de werkzaamheden bedoeld in artikel 29, onder c betref
 
 Indien in het kader van de werkzaamheden, bedoeld in artikel 29, laboratoriumonderzoek noodzakelijk is, wordt de aanvrager boven de in dat artikel genoemde vergoeding het volgende bedrag in rekening gebracht: 
 
-a. voor een standaard diagnose-onderzoek of morfologisch insectenonderzoek € 178,30 per uitgevoerd onderzoek;  
+a. voor een standaard diagnose-onderzoek of morfologisch insectenonderzoek € 181,50 per uitgevoerd onderzoek;  
 
-b. voor een kleine diagnose-opdracht € 155,50 per uitgevoerd onderzoek;  
+b. voor een kleine diagnose-opdracht € 158,50 per uitgevoerd onderzoek;  
 
-c. voor een diagnose van maximaal vijf virussen € 116,90 per uitgevoerd onderzoek;  
+c. voor een diagnose van maximaal vijf virussen € 119,00 per uitgevoerd onderzoek;  
 
 d. voor meerwerk, inclusief laboratoriumonderzoek door de NVWA, het tarief bedoeld in artikel 4;  
 
-e. voor laboratoriumonderzoek naar Ditylenchus dipsaci in Allium spp. een bedrag van € 133,60 per uitgevoerd onderzoek;  
+e. voor laboratoriumonderzoek naar Ditylenchus dipsaci in Allium spp. een bedrag van € 136,00 per uitgevoerd onderzoek;  
 
-f. voor laboratoriumonderzoek naar Radopholus similis in potplanten een bedrag van € 133,60
+f. voor laboratoriumonderzoek naar Radopholus similis in potplanten een bedrag van € 136,00
 
 per uitgevoerd onderzoek.  
 
@@ -642,7 +646,7 @@ c. Indien de werkzaamheden op verzoek worden verricht op zondag of op een algeme
 d. Indien de werkzaamheden niet voor 11.00 uur worden aangevraagd om te worden verricht op dezelfde dag, zijnde een werkdag, tussen 13.00 uur en 18.00 uur, dan wel niet voor 17.00 uur worden aangevraagd om te worden verricht op de eerstvolgende werkdag tussen 7.00 uur en 13.00 uur, in afwijking op de starttarieven vermeld in de onderdelen a en b, een starttarief van € 97,60 per inspectieaanvraag.    
 2.  De tarieven, bedoeld in het eerste lid, voor consumptieaardappelen en overige producten zijn eveneens van toepassing ingeval de inspectieaanvragen uitsluitend betrekking hebben op administratieve controles en daarmee verband houdende werkzaamheden.   
 3.  Voor alle inspectieaanvragen wordt een toeslag berekend van € 12,75 voor toezicht.  
-4. Voor de afgifte van een exportcertificaat dat is aangevraagd via CLIENT Export, wordt een bedrag van € 5,00 in rekening gebracht.
+4. Voor de afgifte van een exportcertificaat dat is aangevraagd via CLIENT Export, wordt een bedrag van € 5,14 in rekening gebracht.
 5. Voor het opmaken en afgeven van een exportcertificaat waarvan de gegevens niet via CLIENT Export worden aangeleverd, wordt per certificaat naast het tarief, genoemd in het vierde lid, een bedrag van € 26,50 in rekening gebracht. 
 6.  Voor het opmaken van een inspectiebiljet waarvan de gegevens niet via het elektronische systeem CLIENT Export worden aangeleverd, wordt naast het tarief bedoeld in het eerste lid, een tarief van € 14,50 per inspectiebiljet in rekening gebracht. 
 
@@ -788,7 +792,7 @@ De Regeling tarieven Plantenziektenkundige Dienst (Stcrt. 2005, 60) wordt ingetr
 ### Artikel  49  
 
 1. Deze regeling treedt in werking met ingang van 1 september 2007.  
-2.  De artikelen 1, onderdeel v, en 2b vervallen met ingang van 1 april 2015. 
+2.  De artikelen 1, onderdeel v, en 2b vervallen met ingang van 1 april 2017. 
 
 ### Artikel  50  
 
@@ -818,7 +822,7 @@ G. Verburg
 | Rosa  | Ethiopië  | 10  |
 | Rosa  | Kenia  | 5  |
 | Rosa  | Tanzania  | 15  |
-| Rosa  | Zambia  | 25  |
+| Rosa  | Zambia  | 15  |
 | --- | --- | --- |
 |  *Groenten en fruit*   | --- | --- |
 | Capsicum  | Israel  | 5  |
@@ -826,10 +830,10 @@ G. Verburg
 | --- | --- | --- |
 | Citrus  | Egypte  | 15  |
 | Citrus  | Israel  | 10  |
-| Citrus  | Mexico  | 15  |
+| Citrus  | Mexico  | 10  |
 | Citrus  | Marokko  | 5  |
-| Citrus  | Peru  | 15  |
-| Citrus  | Tunesië  | 25  |
+| Citrus  | Peru  | 10  |
+| Citrus  | Tunesië  | 75  |
 | Citrus  | Turkije  | 3  |
 | Citrus  | Uruguay  | 75  |
 | Citrus  | Verenigde Staten  | 15  |
@@ -841,6 +845,8 @@ G. Verburg
 | Malus  | Verenigde Staten  | 50  |
 | Malus  | Zuid-Afrika  | 5  |
 | --- | --- | --- |
+| Momordica  | Suriname  | 35  |
+| --- | --- | --- |
 | Passiflora  | Colombia  | 10  |
 | Passiflora  | Kenia  | 10  |
 | Passiflora  | Zimbabwe  | 75  |
@@ -849,16 +855,16 @@ G. Verburg
 | Prunus  | Argentinië  | 50  |
 | Prunus  | Chili  | 10  |
 | Prunus  | Marokko  | 50  |
-| Prunus  | Turkije  | 15  |
-| Prunus  | Verenigde Staten  | 15  |
+| Prunus  | Turkije  | 10  |
+| Prunus  | Verenigde Staten  | 10  |
 | Prunus  | Zuid-Afrika  | 10  |
 | --- | --- | --- |
+| Psidium  | Brazilië  | 75  |
+| --- | --- | --- |
 | Pyrus  | Argentinië  | 10  |
-| Pyrus  | Chili  | 25  |
+| Pyrus  | Chili  | 15  |
 | Pyrus  | China  | 50  |
 | Pyrus  | Zuid-Afrika  | 10  |
-| --- | --- | --- |
-| Momordica  | Suriname  | 35  |
 | --- | --- | --- |
 | Solanum melongena  | Kenia  | 10  |
 | Solanum melongena  | Turkije  | 10  |

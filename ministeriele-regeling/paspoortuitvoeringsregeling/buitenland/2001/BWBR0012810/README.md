@@ -757,7 +757,7 @@ Dit hoofdstuk is niet van toepassing op Nederlandse identiteitskaarten.
 
 1. Indien de minister van Buitenlandse Zaken een aanvraag in behandeling neemt dan wel een ingehouden reisdocument ontvangt betreffende een persoon, die blijkens de in artikel 5 bedoelde administratie, in het register paspoortsignaleringen is opgenomen, verzoekt hij terstond bij brief of per faxbericht aan de minister van Binnenlandse Zaken en Koninkrijksrelaties hem mede te delen of de desbetreffende persoon nog steeds in het register paspoortsignaleringen is opgenomen.  
 2.  In afwijking van het eerste lid kan in spoedgevallen het verzoek ook met gebruikmaking van andere communicatiemiddelen worden gedaan, mits het daarna bij brief of per faxbericht wordt bevestigd.   
-3.  Indien de Minister van Buitenlandse Zaken ingevolge artikel 44, derde lid, van de wet de in het register paspoortsignaleringen opgenomen gegevens van een persoon wenst te ontvangen, doet hij daartoe op de in het eerste en tweede lid voorgeschreven wijze een verzoek aan het agentschap BPR. Dit verzoek kan ook tegelijkertijd met het in het eerste lid bedoelde verzoek worden gedaan.  
+3.  Indien de Minister van Buitenlandse Zaken ingevolge artikel 44, derde lid, van de wet de in het register paspoortsignaleringen opgenomen gegevens van een persoon wenst te ontvangen, doet hij daartoe op de in het eerste en tweede lid voorgeschreven wijze een verzoek aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties. Dit verzoek kan ook tegelijkertijd met het in het eerste lid bedoelde verzoek worden gedaan.  
 
 ### Artikel  71  
 
@@ -784,7 +784,7 @@ De Minister van Buitenlandse Zaken geeft de Minister van Binnenlandse Zaken en K
 
 ####Melding van de vermissing of inname van een reisdocument
 
-Van de vermissing of de inname van een Nederlands reisdocument als bedoeld in de artikelen 41, 65 en 72 wordt terstond melding gemaakt aan het agentschap BPR met gebruikmaking van het daartoe door het agentschap BPR beschikbaar gestelde formulier. 
+Van de vermissing of de inname van een Nederlands reisdocument als bedoeld in de artikelen 41, 65 en 72 wordt terstond melding gemaakt aan de minister van Binnenlandse Zaken en Koninkrijksrelaties met gebruikmaking van het daartoe door de minister van Binnenlandse Zaken en Koninkrijksrelaties beschikbaar gestelde formulier. 
 
 ### § 2  
 
@@ -867,7 +867,7 @@ a. de burgemeester van de gemeente of de gezaghebber van het openbaar lichaam wa
 
 b. de autoriteit in Aruba, Curaçao of Sint Maarten, die het reisdocument heeft verstrekt, dan wel 
 
-c. de Minister van Buitenlandse Zaken indien het reisdocument is verstrekt in het buitenland, of de burgemeester van Bergen op Zoom, Bergeijk, Echt-Susteren, Enschede, ’s-Gravenhage, Haarlemmermeer, Maastricht, Montferland of Oldambt, die het reisdocument heeft verstrekt, dan wel 
+c. de Minister van Buitenlandse Zaken indien het reisdocument is verstrekt in het buitenland, of de burgemeester van Bergen op Zoom, Bergeijk, Breda, Echt-Susteren, Enschede, ’s-Gravenhage, Haarlemmermeer, Maastricht, Montferland, Oldambt of Venlo, die het reisdocument heeft verstrekt, dan wel 
 
 d.de burgemeester van de gemeente of de gezaghebber van het openbaar lichaam waarvan de houder laatstelijk ingezetene was, indien het reisdocument niet in het buitenland of door de in onderdeel b genoemde autoriteit is verstrekt. 
 

@@ -3,18 +3,18 @@
 ##Regeling van de Staatssecretaris van Veiligheid en Justitie van 6 juli 2011, nr. 5699818/11/DJI, houdende vaststelling van een model voor huisregels voor een justitiële jeugdinrichting (Regeling model huisregels justitiële jeugdinrichtingen)
 
 De Staatssecretaris van Veiligheid en Justitie,  
-Gelet op [artikel 16, zesde lid, van de Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md);
+Gelet op artikel 16, zesde lid, van de Beginselenwet justitiële jeugdinrichtingen;
 Besluit:    
 
 ### Artikel  1  
 
-1.  De directeur stelt in aanvulling op de bij of krachtens de [Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md) gegeven regels, met inachtneming van het model opgenomen in de bijlage en de daarbij gegeven aanwijzingen, de huisregels van zijn inrichting vast.   
+1.  De directeur stelt in aanvulling op de bij of krachtens de Beginselenwet justitiële jeugdinrichtingen gegeven regels, met inachtneming van het model opgenomen in de bijlage en de daarbij gegeven aanwijzingen, de huisregels van zijn inrichting vast.   
 2.  De directeur stelt de huisregels van zijn inrichting binnen drie maanden na inwerkingtreding van deze regeling vast.   
 3.  De directeur zendt de huisregels van zijn inrichting aan de Minister van Veiligheid en Justitie. Een wijziging van de huisregels van zijn inrichting zendt de directeur, binnen een maand na vaststelling van de wijziging, aan de Minister van Veiligheid en Justitie.  
 
 ### Artikel  2  
 
-De [Regeling model huisregels justitiële jeugdinrichtingen](../../../../../../../ministeriele-regeling/regeling/model/huisregels/justitiële/jeugdinrichtingen/BWBR0012747/README.md) van 14 augustus 2001, nr. 5113416/01/DJI wordt ingetrokken. 
+De Regeling model huisregels justitiële jeugdinrichtingen van 14 augustus 2001, nr. 5113416/01/DJI wordt ingetrokken. 
 
 ### Artikel  3  
 
@@ -35,7 +35,7 @@ F. Teeven
 
 ####Algemene inleiding
 
-Je bent geplaatst in de justitiële jeugdinrichting [*naam van de inrichting invullen*] in [*vestigingsplaats inrichting invullen*]. [*hier bestemming of aard van de inrichting omschrijven. Indien de inrichting is aangewezen voor het verblijf van kinderen van de jeugdige dat hier eveneens vermelden*] De adresgegevens van [*naam inrichting invullen*] zijn: [*hier vermelden: bezoekadres, postadres, algemeen telefoonnummer, faxnummer, evt.* *e-mailadres en website*] In een inrichting wonen en werken we met veel mensen samen. Om dat allemaal goed te laten verlopen zijn er regels nodig. In deze huisregels staan de belangrijkste regels waar we ons allemaal aan moeten houden. Veel van de regels zijn gebaseerd op de [Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md) of een andere wet of regeling. Als een regel gebaseerd is op een wet of een andere regeling wordt dat vermeld onder het kopje ‘nadere regelgeving’. [*hier aangeven op welke wijze de jeugdige kennis kan nemen van de huisregels. In ieder geval moeten de huisregels op de afdeling ter inzage liggen voor de jeugdige. Geef daarnaast aan waar de jeugdige de wet- en regelgeving kan inzien.*] 
+Je bent geplaatst in de justitiële jeugdinrichting [*naam van de inrichting invullen*] in [*vestigingsplaats inrichting invullen*]. [*hier bestemming of aard van de inrichting omschrijven. Indien de inrichting is aangewezen voor het verblijf van kinderen van de jeugdige dat hier eveneens vermelden*] De adresgegevens van [*naam inrichting invullen*] zijn: [*hier vermelden: bezoekadres, postadres, algemeen telefoonnummer, faxnummer, evt.* *e-mailadres en website*] In een inrichting wonen en werken we met veel mensen samen. Om dat allemaal goed te laten verlopen zijn er regels nodig. In deze huisregels staan de belangrijkste regels waar we ons allemaal aan moeten houden. Veel van de regels zijn gebaseerd op de Beginselenwet justitiële jeugdinrichtingen of een andere wet of regeling. Als een regel gebaseerd is op een wet of een andere regeling wordt dat vermeld onder het kopje ‘nadere regelgeving’. [*hier aangeven op welke wijze de jeugdige kennis kan nemen van de huisregels. In ieder geval moeten de huisregels op de afdeling ter inzage liggen voor de jeugdige. Geef daarnaast aan waar de jeugdige de wet- en regelgeving kan inzien.*] 
 ### *Aanwijzingen en opdrachten* 
 
 De medewerkers van de inrichting hebben de taak je verblijf in de inrichting zo goed mogelijk te laten verlopen. Daarvoor kunnen ze je aanspreken op je gedrag en je aanwijzingen en opdrachten geven. Aanwijzingen en opdrachten van medewerkers moet je altijd uitvoeren. 
@@ -43,9 +43,9 @@ De medewerkers van de inrichting hebben de taak je verblijf in de inrichting zo 
 
 Er mag alleen gerookt worden [*hier aangeven waar en wanneer gerookt mag worden*]. Voor de rest geldt in de hele inrichting een rookverbod.  *Nadere regelgeving:*  
 
-– [Artikel 4 Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md)  
+– Artikel 4 Beginselenwet justitiële jeugdinrichtingen  
 
-– [Artikel 10, tweede lid, Tabakswet](../../../../../../../wet/tabakswet/BWBR0004302/README.md)   
+– Artikel 10, tweede lid, Tabakswet   
 
 ### 2  
 
@@ -53,9 +53,9 @@ Er mag alleen gerookt worden [*hier aangeven waar en wanneer gerookt mag worden*
 
 Als je bij ons in de inrichting komt, wijzen wij je een kamer aan. De eerste week dat je hier bent kan voor jou een ander dagprogramma gelden dan voor de anderen. Je mag wel minimaal zes uur per dag deelnemen aan gemeenschappelijke activiteiten. Het afwijkend dagprogramma kan nodig zijn om te bekijken in welke groep je het beste geplaatst kunt worden en/of om je perspectiefplan op te stellen. Als de directeur het, na overleg met een gedragsdeskundige, noodzakelijk vindt, kan hij of zij de duur van je afwijkende programma twee keer verlengen met maximaal een week. Bij binnenkomst in de inrichting geldt de volgende procedure: [*hier procedure bij binnenkomst in de inrichting vermelden (intakegesprek, administratieve inschrijving, medische controle, fouillering/visitatie, controle goederen, urinecontrole etc.)*]  *Nadere regelgeving:*  
 
-– [Artikel 23 Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md)  
+– Artikel 23 Beginselenwet justitiële jeugdinrichtingen  
 
-– [Regeling plaatsing en overplaatsing jeugdigen](../../../../../../../ministeriele-regeling/regeling/plaatsing/en/overplaatsing/jeugdigen/BWBR0012741/README.md)   
+– Regeling plaatsing en overplaatsing jeugdigen   
 
 ### 3  
 
@@ -63,9 +63,9 @@ Als je bij ons in de inrichting komt, wijzen wij je een kamer aan. De eerste wee
 
 We willen de tijd dat je bij ons bent zo nuttig mogelijk besteden. Terwijl je hier bent willen we werken aan je opvoeding en je helpen met je voorbereidingen voor je terugkeer in de vrije maatschappij. Dat heeft alleen zin als we respect voor elkaar hebben, afspraken nakomen en ons houden aan duidelijke regels over de manier waarop we met elkaar omgaan. De medewerkers in deze inrichting zijn er niet alleen voor de beveiliging en het handhaven van de orde. Binnen drie weken na je aankomst in de inrichting stellen we een perspectiefplan voor je op. Dit plan vormt de basis voor de structuur van je verblijf in de inrichting. In het perspectiefplan wordt vastgelegd wat de doelstellingen zijn van je opvoeding en behandeling tijdens je verblijf in de inrichting en hoe we die doelstellingen willen bereiken. In het perspectiefplan leggen we ook vast wat je individuele werkdoelen zijn en wat je gaat doen op het gebied van onderwijs en andere activiteiten. Voordat je perspectiefplan wordt vastgesteld, wordt het met jou en indien mogelijk en gewenst met je ouders of je voogd, stiefouder of pleegouders besproken. Ook wordt je perspectiefplan besproken met de Raad voor de Kinderbescherming. Om de zoveel tijd en ten minste drie maal per jaar wordt gekeken of alles volgens plan verloopt of dat je perspectiefplan aangepast moet worden.  *Nadere regelgeving:*  
 
-– [Artikelen 20 Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md)  
+– Artikelen 20 Beginselenwet justitiële jeugdinrichtingen  
 
-– [Artikelen 25 tot en met 30 Reglement justitiële jeugdinrichtingen](../../../../../../../AMvB/reglement/justitiële/jeugdinrichtingen/BWBR0012647/README.md)   
+– Artikelen 25 tot en met 30 Reglement justitiële jeugdinrichtingen   
 
 ### 4  
 
@@ -91,9 +91,9 @@ Elke kamer heeft een standaard inrichting. Als je je kamer voor het eerst in geb
 
 –  *bediening elektra/water op de kamer*]   De ruimtes en materialen die je hebt gebruikt, moet je altijd schoon en opgeruimd achterlaten. [*hier nadere regels opnemen voor het schoonhouden van gemeenschappelijke ruimtes, opvang- en afzonderingsruimtes, corvee etc.*]  *Nadere regelgeving:*  
 
-– [Artikel 17 Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md)  
+– Artikel 17 Beginselenwet justitiële jeugdinrichtingen  
 
-– [Regeling eisen kamer justitiële jeugdinrichtingen](../../../../../../../ministeriele-regeling/regeling/eisen/kamer/justitiële/jeugdinrichtingen/BWBR0012736/README.md)   
+– Regeling eisen kamer justitiële jeugdinrichtingen   
 
 ### 4.2  
 
@@ -121,9 +121,9 @@ Je mag alleen persoonlijke bezittingen bij je houden waar de directeur toestemmi
 
 – het voor de handhaving van de orde en de veiligheid in de inrichting en/of voor de bescherming van je geestelijke en lichamelijke ontwikkeling noodzakelijk is.   Je moet er rekening mee houden dat je goederen die om deze redenen door de directeur van je zijn afgenomen ook niet mee mag nemen als je wordt overgeplaatst naar een andere afdeling of inrichting. Je bent persoonlijk aansprakelijk voor de voorwerpen die je bij je draagt of in je kamer hebt (zie verder paragraaf 12.2 van deze huisregels). De aansprakelijkheid van de directeur is nooit meer dan vijfhonderd euro. Goederen die je niet in je bezit mag hebben, worden op jouw naam geregistreerd en bewaard, naar je ouders of je voogd, stiefouder of pleegouders gestuurd of, als je daar toestemming voor hebt gegeven, vernietigd. De kosten van het bewaren, versturen of vernietigen kunnen aan jou in rekening worden gebracht. De directeur kan bezittingen van jou aan een opsporingsambtenaar geven als dit nodig is voor de voorkoming of de opsporing van strafbare feiten. [*hier procedure van de inrichting voor de in- en uitvoer van goederen opnemen*]  *Nadere regelgeving:*  
 
-– [Artikel 50 Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md)  
+– Artikel 50 Beginselenwet justitiële jeugdinrichtingen  
 
-– [Artikel 82 Reglement justitiële jeugdinrichtingen](../../../../../../../AMvB/reglement/justitiële/jeugdinrichtingen/BWBR0012647/README.md)   
+– Artikel 82 Reglement justitiële jeugdinrichtingen   
 
 ### 5  
 
@@ -131,7 +131,7 @@ Je mag alleen persoonlijke bezittingen bij je houden waar de directeur toestemmi
 
 Het dagprogramma is vooral gericht op je opvoeding en om je zo goed mogelijk voor te bereiden op je terugkeer in de samenleving. Het dagprogramma omvat alles van de tijd van opstaan ’s morgens tot de tijd van het naar bed gaan ’s avonds. Het programma is er onder meer op gericht om je eigen mogelijkheden beter te leren kennen en je te helpen je verder te ontwikkelen. Je bent verplicht aan alle activiteiten in het dagprogramma deel te nemen, tenzij de directeur heeft bepaald dat de deelname vrijwillig is. Als je niet deelneemt aan een bepaalde activiteit, kun je verplicht worden zolang op je kamer te blijven. In de inrichting zijn er ten minste 77 uur per week aan gemeenschappelijke activiteiten in het dagprogramma opgenomen. Deze uren worden verdeeld over de week, maar per dag neem je minimaal acht en een half uur deel aan gemeenschappelijke activiteiten. Deze uren kunnen onderbroken worden door een verblijf op je kamer. Je kunt ten minste twee uur per dag van de voor gemeenschappelijke activiteiten bestemde tijd besteden aan recreatie. Die twee uur kunnen ingevuld worden met vrije tijd of met een georganiseerde activiteit. In het dagprogramma is aangegeven hoe de dag is ingedeeld en wanneer de activiteiten plaatsvinden. In het dagprogramma zijn ook de tijden opgenomen dat je op je kamer moet blijven. Je moet in ieder geval op je kamer blijven gedurende de voor de nachtrust bestemde tijd. [*hier aangeven op welke wijze de jeugdige kennis kan nemen van het dagprogramma.*   *Het programma moet in ieder geval voor de jeugdige op de afdeling ter inzage liggen*] Tijdens de eerste drie weken in de inrichting kunnen andere regels gelden (zie hoofdstuk 2).  *Nadere regelgeving*  
 
-– [Artikelen 22](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md) en [53, vierde lid, Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md)   
+– Artikelen 22 en 53, vierde lid, Beginselenwet justitiële jeugdinrichtingen   
 
 ### 5.1  
 
@@ -139,7 +139,7 @@ Het dagprogramma is vooral gericht op je opvoeding en om je zo goed mogelijk voo
 
 Als je gezondheid het toelaat, mag je dagelijks in totaal ten minste één uur in de buitenlucht zijn. Dit uur hoeft niet aaneengesloten te zijn. Ook als je in afzondering bent geplaatst, mag je ten minste één uur per dag in de buitenlucht verblijven. Het verblijf in de buitenlucht kan dan ook in afzondering plaatsvinden.  *Nadere regelgeving:*  
 
-– [Artikelen 25, tweede lid](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md), [53, vijfde lid](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md) en [59, eerste lid, Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md)   
+– Artikelen 25, tweede lid, 53, vijfde lid en 59, eerste lid, Beginselenwet justitiële jeugdinrichtingen   
 
 ### 5.2  
 
@@ -147,11 +147,11 @@ Als je gezondheid het toelaat, mag je dagelijks in totaal ten minste één uur i
 
 Je bent gedurende je verblijf in de inrichting verplicht om onderwijs of andere scholings- en vormingsactiviteiten te volgen. Indien mogelijk houden we bij de keuze van het onderwijs rekening met je wensen en die van je ouders of je voogd, stiefouder of pleegouders. [*hier opnemen welke onderwijsfaciliteiten in de inrichting geboden worden*]  *Nadere regelgeving:*  
 
-– [Artikel 52 Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md)  
+– Artikel 52 Beginselenwet justitiële jeugdinrichtingen  
 
-– [Artikelen 62 tot en met 65 Reglement justitiële jeugdinrichtingen](../../../../../../../AMvB/reglement/justitiële/jeugdinrichtingen/BWBR0012647/README.md)  
+– Artikelen 62 tot en met 65 Reglement justitiële jeugdinrichtingen  
 
-– [Regeling tegemoetkoming bijzondere kosten onderwijs en pedagogische activiteiten jeugdigen](../../../../../../../ministeriele-regeling/regeling/tegemoetkoming/bijzondere/kosten/onderwijs/en/pedagogische/etc/BWBR0012737/README.md)   
+– Regeling tegemoetkoming bijzondere kosten onderwijs en pedagogische activiteiten jeugdigen   
 
 ### 5.3  
 
@@ -159,7 +159,7 @@ Je bent gedurende je verblijf in de inrichting verplicht om onderwijs of andere 
 
 Je mag ten minste tweemaal per week drie kwartier sporten of een andere vorm van lichamelijke oefening uitvoeren, uitzonderingen daargelaten. De hiervoor bestemde tijden zijn opgenomen in het dagprogramma. [*hier eventueel nadere bepalingen over het gebruik van voorgeschreven sportkleding omschrijven, zoals het verbod op het dragen van sieraden, zwarte zolen etc.*]  *Nadere regelgeving:*  
 
-– [Artikel 53, tweede lid, Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md)   
+– Artikel 53, tweede lid, Beginselenwet justitiële jeugdinrichtingen   
 
 ### 5.4  
 
@@ -167,7 +167,7 @@ Je mag ten minste tweemaal per week drie kwartier sporten of een andere vorm van
 
 Je mag eenmaal per week gebruik maken van een bibliotheek. [*hier procedure beschrijven voor het gebruik van de bibliotheekvoorziening*]  *Nadere regelgeving:*  
 
-– [Artikel 53, eerste lid, Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md)   
+– Artikel 53, eerste lid, Beginselenwet justitiële jeugdinrichtingen   
 
 ### 5.5  
 
@@ -175,7 +175,7 @@ Je mag eenmaal per week gebruik maken van een bibliotheek. [*hier procedure besc
 
 Je kunt eenmaal per week in de winkel van de inrichting of via een winkelbestellijst van je eigen geld dingen kopen, zoals snoepgoed, frisdrank, lectuur, postzegels, rookwaar of toiletartikelen. Zie ook paragraaf 12.1 van deze huisregels. Uiteraard kun je alleen dingen kopen die in de inrichting zijn toegestaan en waar jij toestemming voor hebt. [*hier procedure, frequentie en maximaal te besteden bedrag aangeven*]  *Nadere regelgeving:*  
 
-– [Artikel 49, vijfde lid, Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md)   
+– Artikel 49, vijfde lid, Beginselenwet justitiële jeugdinrichtingen   
 
 ### 5.6  
 
@@ -193,7 +193,7 @@ Je kunt eenmaal per week in de winkel van de inrichting of via een winkelbestell
 
 In de inrichting worden op vaste tijden maaltijden verstrekt. De tijden staan vermeld in het dagprogramma. Zo mogelijk houden we bij het menu rekening met je godsdienst en levensovertuiging. Je kunt alleen een bepaald dieet of aangepaste voeding krijgen als dat volgens de medische dienst om medische redenen noodzakelijk is.  *Nadere regelgeving:*  
 
-– [Artikel 49, eerste en derde lid, Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md)   
+– Artikel 49, eerste en derde lid, Beginselenwet justitiële jeugdinrichtingen   
 
 ### 6.2  
 
@@ -201,7 +201,7 @@ In de inrichting worden op vaste tijden maaltijden verstrekt. De tijden staan ve
 
 Je mag in de inrichting je eigen kleding en schoeisel dragen, tenzij die een gevaar kunnen opleveren voor de orde of de veiligheid in de inrichting of niet voldoen aan redelijk te stellen eisen. Je kunt verplicht worden tijdens bepaalde activiteiten of tijdens het sporten bepaalde voorgeschreven kleding of schoeisel te dragen. [*hier aangeven welke regels in de inrichting gelden voor het gebruik en onderhoud van kleding en schoeisel. Tevens aangeven hoeveel kleding en schoeisel de jeugdige op zijn eigen kamer mag bewaren*]  *Nadere regelgeving:*  
 
-– [Artikel 49, eerste en tweede lid, Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md)   
+– Artikel 49, eerste en tweede lid, Beginselenwet justitiële jeugdinrichtingen   
 
 ### 6.3  
 
@@ -209,7 +209,7 @@ Je mag in de inrichting je eigen kleding en schoeisel dragen, tenzij die een gev
 
 Je krijgt in de inrichting de gelegenheid om je uiterlijk en lichamelijke hygiëne naar behoren te verzorgen. [*hier aangeven wanneer de jeugdige mag douchen*] [*hier aangeven hoe vaak de jeugdige naar de kapper mag gaan en welke regels gelden voor de kosten van een bezoek aan de kapper*]  *Nadere regelgeving:*  
 
-– [Artikel 49, vierde lid, Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md)   
+– Artikel 49, vierde lid, Beginselenwet justitiële jeugdinrichtingen   
 
 ### 6.4  
 
@@ -222,11 +222,11 @@ Als je een klacht hebt over het medisch handelen van de inrichtingsarts, verplee
 
 – doorsturen naar de Commissie van Toezicht als je klacht gaat over de organisatie van de medische zorg;  
 
-– doorsturen naar de Medisch Adviseur van het ministerie van Veiligheid en Justitie als je klacht gaat over medisch handelen   In het eerste geval wordt je klacht afgehandeld zoals omschreven in hoofdstuk 11 van deze huisregels. In het tweede geval stelt de Medisch Adviseur je zo nodig in de gelegenheid je klacht nader toe te lichten. De Medisch Adviseur kan ook informatie inwinnen bij andere personen en hij mag jouw medisch dossier inzien. De Medisch Adviseur probeert binnen vier weken een oplossing te vinden voor je probleem. Als de bemiddeling is afgesloten en je bent nog niet tevreden, kun je binnen zeven dagen na ontvangst van het afschrift van de mededeling van de Medisch Adviseur een beroepschrift indienen bij de Raad voor Strafrechtstoepassing en Jeugdbescherming. Hoe je dat doet, lees je in de [artikelen 55 tot en met 58 van het Reglement justitiële jeugdinrichtingen](../../../../../../../AMvB/reglement/justitiële/jeugdinrichtingen/BWBR0012647/README.md). [*hier aangeven waar de jeugdige de regelgeving kan inzien en wie de jeugdige bij het indienen van het beroepsschrift kan ondersteunen*]  *Nadere regelgeving:*  
+– doorsturen naar de Medisch Adviseur van het ministerie van Veiligheid en Justitie als je klacht gaat over medisch handelen   In het eerste geval wordt je klacht afgehandeld zoals omschreven in hoofdstuk 11 van deze huisregels. In het tweede geval stelt de Medisch Adviseur je zo nodig in de gelegenheid je klacht nader toe te lichten. De Medisch Adviseur kan ook informatie inwinnen bij andere personen en hij mag jouw medisch dossier inzien. De Medisch Adviseur probeert binnen vier weken een oplossing te vinden voor je probleem. Als de bemiddeling is afgesloten en je bent nog niet tevreden, kun je binnen zeven dagen na ontvangst van het afschrift van de mededeling van de Medisch Adviseur een beroepschrift indienen bij de Raad voor Strafrechtstoepassing en Jeugdbescherming. Hoe je dat doet, lees je in de artikelen 55 tot en met 58 van het Reglement justitiële jeugdinrichtingen. [*hier aangeven waar de jeugdige de regelgeving kan inzien en wie de jeugdige bij het indienen van het beroepsschrift kan ondersteunen*]  *Nadere regelgeving:*  
 
-– [Artikel 47 Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md)  
+– Artikel 47 Beginselenwet justitiële jeugdinrichtingen  
 
-– [Artikelen 55 tot en met 58 Reglement Justitiële Jeugdinrichtingen](../../../../../../../AMvB/reglement/justitiële/jeugdinrichtingen/BWBR0012647/README.md)   
+– Artikelen 55 tot en met 58 Reglement Justitiële Jeugdinrichtingen   
 
 ### 6.5  
 
@@ -234,9 +234,9 @@ Als je een klacht hebt over het medisch handelen van de inrichtingsarts, verplee
 
 Je mag je godsdienst of levensovertuiging in de inrichting vrij belijden en beleven. Je kunt onder andere godsdienstige of levensbeschouwelijke bijeenkomsten bijwonen en persoonlijk en vertrouwelijk contact hebben met geestelijk verzorgers. [*hier aangeven waar en wanneer de jeugdige contact kan onderhouden met de geestelijk verzorger van de godsdienst of levensovertuiging van zijn keuze, die al dan niet aan de inrichting is verbonden. Tevens aangeven waar en wanneer de jeugdige in de inrichting te houden godsdienstige of levensbeschouwelijke bijeenkomsten van zijn keuze kan bijwonen*]  *Nadere regelgeving:*  
 
-– [Artikel 46, eerste lid, Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md)  
+– Artikel 46, eerste lid, Beginselenwet justitiële jeugdinrichtingen  
 
-– [Artikelen 51 tot en met 54 Reglement justitiële jeugdinrichtingen](../../../../../../../AMvB/reglement/justitiële/jeugdinrichtingen/BWBR0012647/README.md)   
+– Artikelen 51 tot en met 54 Reglement justitiële jeugdinrichtingen   
 
 ### 7  
 
@@ -264,7 +264,7 @@ e. de uitvoering van je perspectiefplan.   De weigering van een bezoeker op gron
 
 Om dezelfde redenen als waarvoor bezoek geweigerd kan worden, kan de directeur ook bepalen dat tijdens het bezoek toezicht wordt gehouden. Medewerkers van de inrichting mogen dan meeluisteren met je gesprekken en de gesprekken eventueel opnemen. Als dit gebeurt, worden jij en je bezoek daar van tevoren over geïnformeerd. [*hier aangeven op welke wijze in de inrichting toezicht wordt uitgeoefend*]  *Nadere regelgeving:*  
 
-– [Artikelen 43, eerste tot en met zesde lid](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md) en [artikel 62, Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md)   
+– Artikelen 43, eerste tot en met zesde lid en artikel 62, Beginselenwet justitiële jeugdinrichtingen   
 
 ### 7.2  
 
@@ -280,7 +280,7 @@ Een aantal personen en instanties worden in de wet aangewezen als ‘geprivilegi
 
 – je ouders of je voogd, stiefouder of pleegouders, behalve als de directeur vindt dat voor jou zwaarwichtige belangen zich daartegen verzetten;  
 
-– je reclasseringswerker, je gezinsvoogd of een vertegenwoordiger van een stichting als bedoeld in [artikel 1, eerste lid, van de Wet op de Jeugdzorg](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md);  
+– je reclasseringswerker, je gezinsvoogd of een andere vertegenwoordiger van een gecertificeerde instelling als bedoeld in artikel 1.1 van de Jeugdwet;  
 
 – je advocaat;  
 
@@ -296,7 +296,7 @@ Een aantal personen en instanties worden in de wet aangewezen als ‘geprivilegi
 
 – andere door de Minister van Veiligheid en Justitie of de directeur aan te wijzen personen of instanties.   [*hier aangeven op welke tijden en plaatsen geprivilegieerd bezoek kan worden ontvangen en de maximale duur van het bezoek*] [*hier aangeven op welke wijze geprivilegieerd bezoek aangevraagd moet worden*]  *Nadere regelgeving:*  
 
-– [Artikelen 42, eerste lid](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md) en [43, zevende lid, Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md)   
+– Artikelen 42, eerste lid en 43, zevende lid, Beginselenwet justitiële jeugdinrichtingen   
 
 ### 7.3  
 
@@ -310,9 +310,9 @@ Je mag ten minste tweemaal per week gedurende tien minuten één of meer telefoo
 
 Als het noodzakelijk en mogelijk is, mag je telefoneren met de zogenaamde geprivilegieerde personen die in paragraaf 7.2 worden opgesomd. Ook hierbij zijn de kosten voor je eigen rekening, tenzij de directeur anders bepaalt. Het is aan jou om aannemelijk te maken dat het noodzakelijk is dat je de betreffende geprivilegieerde persoon telefonisch spreekt. Bij een telefoongesprek met een geprivilegieerde persoon wordt alleen meegeluisterd om vast te stellen of je inderdaad degene aan de lijn hebt die je zei te willen spreken. [*hier aangeven hoe een gesprek met een geprivilegieerd contact aangevraagd moet worden*]  *Nadere regelgeving:*  
 
-– [Artikel 44 Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md)  
+– Artikel 44 Beginselenwet justitiële jeugdinrichtingen  
 
-– [Artikel 50a Reglement justitiële jeugdinrichtingen](../../../../../../../AMvB/reglement/justitiële/jeugdinrichtingen/BWBR0012647/README.md)   
+– Artikel 50a Reglement justitiële jeugdinrichtingen   
 
 ### 7.5  
 
@@ -334,7 +334,7 @@ De directeur kan weigeren bepaalde brieven of andere poststukken die je wilt ver
 
 – of aan een opsporingsambtenaar overhandigd, als dit nodig is ter voorkoming of opsporing van strafbare feiten.    *Nadere regelgeving:*  
 
-– [Artikel 41 Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md)   
+– Artikel 41 Beginselenwet justitiële jeugdinrichtingen   
 
 ### 7.6  
 
@@ -342,9 +342,9 @@ De directeur kan weigeren bepaalde brieven of andere poststukken die je wilt ver
 
 Voor de verzending en ontvangst van post van geprivilegieerde contacten gelden andere regels. Indien een brief bestemd is voor een geprivilegieerd contact moet je dit duidelijk op de envelop vermelden. Er mag geen controle worden uitgeoefend op de inhoud van een brief of een ander poststuk van jou aan een geprivilegieerde persoon. Er mag ook geen controle plaatsvinden van een brief of een ander poststuk voor jou van een geprivilegieerde persoon. Wel kan in jouw aanwezigheid de brief worden geopend om te kijken of er geen voorwerpen worden meegezonden.  *Nadere regelgeving:*  
 
-– [Artikel 42 Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md)  
+– Artikel 42 Beginselenwet justitiële jeugdinrichtingen  
 
-– [Regeling geprivilegieerde post jeugdigen jeugdinrichtingen](../../../../../../../ministeriele-regeling/regeling/geprivilegieerde/post/jeugdigen/BWBR0012742/README.md)   
+– Regeling geprivilegieerde post jeugdigen jeugdinrichtingen   
 
 ### 7.7  
 
@@ -352,7 +352,7 @@ Voor de verzending en ontvangst van post van geprivilegieerde contacten gelden a
 
 Je mag gesprekken voeren met vertegenwoordigers van de media – kranten, radio, tv etc. –, maar alleen met toestemming van de directeur. Hiervoor geldt een afzonderlijke procedure. Deze procedure wordt met je doorgenomen als je te kennen geeft te willen praten met iemand van de media.  *Nadere regelgeving:*  
 
-– [Artikel 45 Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md)  
+– Artikel 45 Beginselenwet justitiële jeugdinrichtingen  
 
 – Circulaire contacten tussen jeugdigen/directeuren en media   
 
@@ -362,9 +362,9 @@ Je mag gesprekken voeren met vertegenwoordigers van de media – kranten, radio,
 
 Verlof betekent dat je voor een bepaalde tijd en onder vooraf vastgestelde voorwaarden de inrichting mag verlaten. Er zijn verschillende soorten verlof. Er kan incidenteel verlof worden verleend als er onverwacht iets belangrijks gebeurt waarbij je aanwezigheid nodig is; bijvoorbeeld een sterfgeval in het gezin of een ziek familielid. Ook kan incidenteel verlof worden verleend voor een examen dat je moet afleggen. Daarnaast is er planmatig verlof; dat is verlof in het kader van je perspectiefplan. Dit kan begeleid of onbegeleid verlof zijn. Of je in aanmerking komt voor verlof is afhankelijk van de aard van de straf of de maatregel waarvoor je in de inrichting bent geplaatst. Als je wilt weten of je voor verlof in aanmerking komt, kun je dit vragen aan [*hier aangeven welke functionaris hier antwoord op kan geven*]. Je gedrag in de inrichting speelt een rol bij de beoordeling van de vraag of je met verlof mag gaan. Je krijgt alleen toestemming voor verlof als we vinden dat het verantwoord is.  *Nadere regelgeving:*  
 
-– [Artikelen 28 tot en met 30](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md), [61](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md) en [62 Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md)  
+– Artikelen 28 tot en met 30, 61 en 62 Beginselenwet justitiële jeugdinrichtingen  
 
-– [Artikelen 31 tot en met 40 Reglement justitiële jeugdinrichtingen](../../../../../../../AMvB/reglement/justitiële/jeugdinrichtingen/BWBR0012647/README.md)   
+– Artikelen 31 tot en met 40 Reglement justitiële jeugdinrichtingen   
 
 ### 9  
 
@@ -386,9 +386,9 @@ Wanneer je jeugddetentie hebt, met een reststraf van drie maanden, neem je in aa
 
 4. het STP intrekken.   De Minister van Veiligheid en Justitie kan in sommige gevallen de machtiging voor het STP intrekken. Wanneer dat gebeurt, moet de directeur het STP intrekken. In dat geval wordt je teruggeplaatst in de inrichting.  *Nadere regelgeving:*  
 
-– [Artikelen 3 Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md)  
+– Artikelen 3 Beginselenwet justitiële jeugdinrichtingen  
 
-– [Artikelen 3 tot en met 12a Reglement justitiële jeugdinrichtingen](../../../../../../../AMvB/reglement/justitiële/jeugdinrichtingen/BWBR0012647/README.md)   
+– Artikelen 3 tot en met 12a Reglement justitiële jeugdinrichtingen   
 
 ### 10  
 
@@ -406,9 +406,9 @@ b. in verband met een beslissing tot plaatsing of overplaatsing;
 
 c. in verband met het verlenen van toestemming voor het verlaten van de inrichting.   In je perspectiefplan kan worden opgenomen dat in het belang van je behandeling of het bereiken van je werkdoelen (overplaatsing naar een andere afdeling of inrichting of verlof) urinecontroles kunnen worden gehouden. De uitslag van een urinecontrole wordt zo snel mogelijk aan je meegedeeld. Je kunt als je het niet eens bent met de uitslag dezelfde urine nog eens laten controleren. Dat moet je dan wel zelf betalen, tenzij uit de uitslag van dit onderzoek blijkt dat er geen sprake is van ongeoorloofd gebruik van gedragsbeïnvloedende middelen.  *Nadere regelgeving:*  
 
-– [Artikel 35 Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md)  
+– Artikel 35 Beginselenwet justitiële jeugdinrichtingen  
 
-– [Regeling urineonderzoek jeugdigen](../../../../../../../ministeriele-regeling/regeling/urine/onderzoek/jeugdigen/BWBR0012738/README.md)   
+– Regeling urineonderzoek jeugdigen   
 
 ### 10.2  
 
@@ -420,7 +420,7 @@ De medewerkers van de inrichting mogen altijd je kamer betreden om je kamer te i
 
 – als uit feiten of omstandigheden blijkt of aannemelijk is dat een inspectie nodig is voor de handhaving van de orde of de veiligheid in de inrichting.    *Nadere regelgeving:*  
 
-– [Artikel 39 Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md)   
+– Artikel 39 Beginselenwet justitiële jeugdinrichtingen   
 
 ### 10.3  
 
@@ -434,7 +434,7 @@ Een onderzoek aan je lichaam wordt ook wel ‘visitatie’ genoemd. Een visitati
 
 – als het noodzakelijk is voor de handhaving van de orde of de veiligheid in de inrichting. Dit soort controle kan bij wijze van steekproef worden gehouden of omdat we vermoeden dat je iets bij je hebt wat je niet in je bezit mag hebben.   Als er bij het onderzoek voorwerpen worden gevonden die niet in je bezit mogen zijn, mag de directeur deze voorwerpen in beslag nemen. De voorwerpen kunnen dan op jouw kosten worden bewaard, naar je ouders of je voogd, stiefouder of pleegouders worden gestuurd, met jouw toestemming worden vernietigd of aan een opsporingsambtenaar worden gegeven om strafbare feiten te voorkomen of op te sporen.  *Nadere regelgeving:*  
 
-– [Artikel 34 Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md)   
+– Artikel 34 Beginselenwet justitiële jeugdinrichtingen   
 
 ### 10.4  
 
@@ -442,7 +442,7 @@ Een onderzoek aan je lichaam wordt ook wel ‘visitatie’ genoemd. Een visitati
 
 Bij een onderzoek in je lichaam moet je denken aan het maken van röntgenfoto’s of bijvoorbeeld een inwendig onderzoek van je slokdarm als we vermoeden dat je verdovende of gevaarlijke dingen hebt ingeslikt. Een onderzoek in je lichaam wordt altijd uitgevoerd door een arts of een verpleegkundige die in opdracht van een arts werkt. De directeur kan bepalen dat je in je lichaam onderzocht moet worden als het noodzakelijk is voor je eigen gezondheid of om ernstig gevaar voor de handhaving van de orde of de veiligheid in de inrichting af te wenden. In dringende gevallen kan ook een personeelslid of medewerker van de inrichting beslissen dat een arts of verpleegkundige een onderzoek in je lichaam uitvoert. Als er bij het onderzoek voorwerpen worden gevonden die niet in je bezit mogen zijn, mag de directeur deze voorwerpen in beslag nemen. De voorwerpen kunnen dan op jouw kosten worden bewaard, met jouw toestemming worden vernietigd of aan een opsporingsambtenaar worden gegeven om strafbare feiten te voorkomen of op te sporen.  *Nadere regelgeving:*  
 
-– [Artikel 36 Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md)   
+– Artikel 36 Beginselenwet justitiële jeugdinrichtingen   
 
 ### 10.5  
 
@@ -450,9 +450,9 @@ Bij een onderzoek in je lichaam moet je denken aan het maken van röntgenfoto’
 
 De directeur kan je verplichten om een medische behandeling door een arts of verpleegkundige toe te laten. Hij of zij kan je die verplichting opleggen als er ernstig gevaar dreigt voor de veiligheid of gezondheid van jezelf of van anderen. Er kan je bijvoorbeeld dwangmedicatie worden gegeven als je zo agressief wordt dat je jezelf, andere bewoners of medewerkers dreigt te verwonden. In zo’n geval moet je toestaan dat je de medicijnen toegediend krijgt.  *Nadere regelgeving:*  
 
-– [Artikel 37 Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md)  
+– Artikel 37 Beginselenwet justitiële jeugdinrichtingen  
 
-– [Artikelen 48 tot en met 50 Reglement justitiële jeugdinrichtingen](../../../../../../../AMvB/reglement/justitiële/jeugdinrichtingen/BWBR0012647/README.md)   
+– Artikelen 48 tot en met 50 Reglement justitiële jeugdinrichtingen   
 
 ### 10.6  
 
@@ -460,9 +460,9 @@ De directeur kan je verplichten om een medische behandeling door een arts of ver
 
 Als je in afzondering bent geplaatst kan de directeur bepalen dat je in je bewegingsvrijheid wordt beperkt door het gebruik van mechanische middelen. Je kunt daarbij bijvoorbeeld denken aan het gebruik van handboeien. Het in afzondering plaatsen wordt uitgelegd in paragraaf 10.9. Je mag met mechanische middelen in je bewegingsvrijheid worden beperkt als het echt noodzakelijk is om gevaar voor de gezondheid of de veiligheid van jezelf of van anderen af te wenden. Hoe lang je met deze middelen in je bewegingsvrijheid mag worden beperkt, is afhankelijk van je leeftijd. Als je jonger bent dan zestien jaar maximaal twaalf uur. Als je zestien jaar of ouder bent maximaal 24 uur. Bij acuut gevaar voor jezelf of voor anderen mag een medewerker van de inrichting ook besluiten mechanische middelen toe te passen. Dit mag echter voor maximaal vier uur. Bij dit gebruik van mechanische middelen stelt de directeur zo snel mogelijk de arts of diens vervanger en de commissie van toezicht op de hoogte.  *Nadere regelgeving:*  
 
-– [Artikel 38 Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md)  
+– Artikel 38 Beginselenwet justitiële jeugdinrichtingen  
 
-– [Regeling toepassing mechanische middelen jeugdigen](../../../../../../../ministeriele-regeling/regeling/toepassing/mechanische/middelen/jeugdigen/BWBR0012743/README.md)   
+– Regeling toepassing mechanische middelen jeugdigen   
 
 ### 10.7  
 
@@ -478,7 +478,7 @@ c. als het nodig is om te voorkomen dat jij je aan het toezicht van de inrichtin
 
 d. om DNA-materiaal af te nemen.   We waarschuwen je eerst voordat er geweld wordt gebruikt, tenzij het noodzakelijk is om onmiddellijk in te grijpen.  *Nadere regelgeving:*  
 
-– [Artikel 40 Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md)  
+– Artikel 40 Beginselenwet justitiële jeugdinrichtingen  
 
 – Geweldsinstructie justitiële jeugdinrichtingen   
 
@@ -488,7 +488,7 @@ d. om DNA-materiaal af te nemen.   We waarschuwen je eerst voordat er geweld wor
 
 De directeur kan besluiten je een time-outmaatregel op te leggen. Dit is een maatregel die maximaal één uur mag duren en in totaal mogen time-outmaatregelen maximaal twee uur per dag opgelegd worden. Je kunt de maatregel vergelijken met het tijdelijk weggestuurd worden uit de klas of dat je thuis tijdelijk naar je kamer wordt gestuurd. De time-out is een korte en minimaal ingrijpende pedagogische maatregel waarbij je kort buiten de groep wordt geplaatst om daarmee je gedrag gunstig te beïnvloeden. Deze maatregel is een onderdeel van je opvoeding en leert dat bepaald gedrag gevolgen heeft. De maatregel houdt in dat je uitgesloten wordt van het verblijf in de groep of van deelname aan gemeenschappelijke activiteiten. Als je wordt uitgesloten van het verblijf in de groep, moet je in je kamer op de afdeling blijven.  *Nadere regelgeving:*  
 
-– [Artikel 23a Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md)   
+– Artikel 23a Beginselenwet justitiële jeugdinrichtingen   
 
 ### 10.9  
 
@@ -522,14 +522,14 @@ De directeur kan besluiten je in afzondering te plaatsen. Afzondering vinden we 
 
 – als je nog geen zestien jaar bent, duurt de afzondering maximaal één dag (24 uur). Als de directeur vindt dat de noodzaak tot afzondering daarna nog steeds bestaat, kan hij je afzondering voor maximaal één dag verlengen.  
 
-– als je zestien jaar of ouder bent, kan de afzondering maximaal twee dagen (48 uur) duren. Als de directeur vindt dat de noodzaak tot afzondering daarna nog steeds bestaat kan hij je afzondering voor maximaal twee dagen verlengen.   Als je langer dan 24 uur afgezonderd wordt, zorgt de directeur ervoor dat de commissie van toezicht van de inrichting, de inrichtingsarts of diens vervanger en je ouders of je voogd, stiefouder of pleegouders of de stichting onmiddellijk hiervan op de hoogte wordt of worden gesteld. Als de afzondering per direct uitgevoerd moet worden, mag ook een personeelslid of een medewerker de maatregel opleggen, echter voor maximaal vijftien uur. Dat moet dan wel direct aan de directeur worden gemeld. 
+– als je zestien jaar of ouder bent, kan de afzondering maximaal twee dagen (48 uur) duren. Als de directeur vindt dat de noodzaak tot afzondering daarna nog steeds bestaat kan hij je afzondering voor maximaal twee dagen verlengen.   Als je langer dan 24 uur afgezonderd wordt, zorgt de directeur ervoor dat de commissie van toezicht van de inrichting, de inrichtingsarts of diens vervanger en je ouders of je voogd, stiefouder of pleegouders of de gecertificeerde instelling onmiddellijk hiervan op de hoogte wordt of worden gesteld. Als de afzondering per direct uitgevoerd moet worden, mag ook een personeelslid of een medewerker de maatregel opleggen, echter voor maximaal vijftien uur. Dat moet dan wel direct aan de directeur worden gemeld. 
 ### *Tijdelijke overplaatsing* 
 
-De vierde mogelijke ordemaatregel is de tijdelijke overplaatsing. De directeur kan besluiten je voor korte tijd naar een andere inrichting over te plaatsen. Een tijdelijke overplaatsing kan worden opgelegd als je door je gedrag de orde of de veiligheid in de inrichting in gevaar brengt, of om je te beschermen tegen jezelf en anderen (zie a en b bij het begin van paragraaf 10.9). De directeur kan alleen beslissen dat je tijdelijk in een andere inrichting wordt geplaatst na overleg met een gedragsdeskundige en de selectiefunctionaris. Een tijdelijke plaatsing kan maximaal veertien dagen duren. De directeur kan de maatregel met maximaal veertien dagen verlengen als na overleg met de directeur van de andere inrichting, een gedragsdeskundige en de selectiefunctionaris is gebleken dat de noodzaak nog steeds aanwezig is en er plaats is. De directeur stelt je ouders of je voogd, stiefouder of pleegouders of de stichting onmiddellijk op de hoogte van de tijdelijke plaatsing en een eventuele verlenging.  *Nadere regelgeving:*  
+De vierde mogelijke ordemaatregel is de tijdelijke overplaatsing. De directeur kan besluiten je voor korte tijd naar een andere inrichting over te plaatsen. Een tijdelijke overplaatsing kan worden opgelegd als je door je gedrag de orde of de veiligheid in de inrichting in gevaar brengt, of om je te beschermen tegen jezelf en anderen (zie a en b bij het begin van paragraaf 10.9). De directeur kan alleen beslissen dat je tijdelijk in een andere inrichting wordt geplaatst na overleg met een gedragsdeskundige en de selectiefunctionaris. Een tijdelijke plaatsing kan maximaal veertien dagen duren. De directeur kan de maatregel met maximaal veertien dagen verlengen als na overleg met de directeur van de andere inrichting, een gedragsdeskundige en de selectiefunctionaris is gebleken dat de noodzaak nog steeds aanwezig is en er plaats is. De directeur stelt je ouders of je voogd, stiefouder of pleegouders of de gecertificeerde instelling onmiddellijk op de hoogte van de tijdelijke plaatsing en een eventuele verlenging.  *Nadere regelgeving:*  
 
-– [Artikelen 24 tot en met 27 Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md)  
+– Artikelen 24 tot en met 27 Beginselenwet justitiële jeugdinrichtingen  
 
-– [Regeling straf- en afzonderingscel justitiële jeugdinrichtingen](../../../../../../../ministeriele-regeling/regeling/straf-/en/afzonderingscel/justitiële/jeugdinrichtingen/BWBR0012748/README.md)   
+– Regeling straf- en afzonderingscel justitiële jeugdinrichtingen   
 
 ### 10.10  
 
@@ -545,11 +545,11 @@ Een disciplinaire straf is bedoeld als terechtwijzing oftewel een sanctie voor o
 
 4. Weigering, intrekking of beperking van het eerstvolgende verlof.  
 
-5. Oplegging van een geldboete van ten hoogste je zakgeld voor één week.   Bij het opleggen van een geldboete geeft de directeur gelijk aan welke straf je krijgt als je de boete niet binnen de gestelde termijn betaalt. Deze straffen kunnen ook voorwaardelijk worden opgelegd met een proeftijd van maximaal twee maanden. Een voorwaarde waar je je in ieder geval aan moet houden, is dat je geen feiten meer zult plegen die de orde of de veiligheid in de inrichting in gevaar brengen of de ongestoorde tenuitvoerlegging van je vrijheidsbeneming verstoren. Bij een voorwaardelijke straf kan de directeur ook andere voorwaarden aan je gedrag stellen. De voorwaarden waar je aan moet voldoen, worden je schriftelijk meegedeeld. Een proeftijd loopt gewoon door als je naar een andere inrichting wordt overgeplaatst. Je ouders of je voogd, stiefouder of pleegouders dan wel de stichting worden van het opleggen van een disciplinaire straf en van de reden daarvan geïnformeerd. Indien je achttien jaar of ouder bent moet je hiermee instemmen.  *Nadere regelgeving:*  
+5. Oplegging van een geldboete van ten hoogste je zakgeld voor één week.   Bij het opleggen van een geldboete geeft de directeur gelijk aan welke straf je krijgt als je de boete niet binnen de gestelde termijn betaalt. Deze straffen kunnen ook voorwaardelijk worden opgelegd met een proeftijd van maximaal twee maanden. Een voorwaarde waar je je in ieder geval aan moet houden, is dat je geen feiten meer zult plegen die de orde of de veiligheid in de inrichting in gevaar brengen of de ongestoorde tenuitvoerlegging van je vrijheidsbeneming verstoren. Bij een voorwaardelijke straf kan de directeur ook andere voorwaarden aan je gedrag stellen. De voorwaarden waar je aan moet voldoen, worden je schriftelijk meegedeeld. Een proeftijd loopt gewoon door als je naar een andere inrichting wordt overgeplaatst. Je ouders of je voogd, stiefouder of pleegouders dan wel de gecertificeerde instelling worden van het opleggen van een disciplinaire straf en van de reden daarvan geïnformeerd. Indien je achttien jaar of ouder bent moet je hiermee instemmen.  *Nadere regelgeving:*  
 
-– [Artikelen 54 tot en met 59 Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md)  
+– Artikelen 54 tot en met 59 Beginselenwet justitiële jeugdinrichtingen  
 
-– [Regeling straf- en afzonderingscel justitiële jeugdinrichtingen](../../../../../../../ministeriele-regeling/regeling/straf-/en/afzonderingscel/justitiële/jeugdinrichtingen/BWBR0012748/README.md)   
+– Regeling straf- en afzonderingscel justitiële jeugdinrichtingen   
 
 ### 10.11  
 
@@ -605,7 +605,7 @@ Bij een aantal beslissingen over de beperking van je vrijheid en het opleggen va
 
 – je hiervoor niet in de juiste gemoedstoestand verkeert.    *Nadere regelgeving:*  
 
-– [Artikelen 61](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md) en [62 Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md)   
+– Artikelen 61 en 62 Beginselenwet justitiële jeugdinrichtingen   
 
 ### 11  
 
@@ -642,9 +642,9 @@ Bemiddeling betekent dat de maandcommissaris van de commissie van toezicht met j
 
 – als je het niet eens bent met een beslissing die over jou is genomen.   Een verzoek om bemiddeling door de maandcommissaris kan ook namens jou worden ingediend door je ouders of je voogd, stiefouder of pleegouders. Dit recht vervalt als de maandcommissaris van oordeel is dat voor jou zwaarwegende belangen zich hiertegen verzetten. Als je de maandcommissaris vraagt om voor jou te bemiddelen dan gaat hij of zij op zoek naar een oplossing voor je probleem waar zowel jij als de directeur zich in kan vinden. De bemiddeling kan maximaal zes weken duren. Als je klacht niet zo ingewikkeld is zal dit in het algemeen sneller kunnen. Zowel jij als de directeur krijgt van de maandcommissaris een schriftelijke beslissing van het resultaat van de bemiddeling. Bij een klacht over een beslissing van de directeur die je persoonlijk aangaat, zegt de beklagcommissie of jij of de directeur gelijk heeft en moeten beide partijen zich daaraan houden. Als je het met het resultaat van de bemiddeling niet eens bent en als het gaat over een beslissing die je persoonlijk aangaat, kun je alsnog binnen zeven dagen een klacht indienen bij de beklagcommissie, mits je de aanvraag voor bemiddeling tijdig hebt ingediend. De behandeling loopt dan verder zoals in paragraaf 11.2 wordt omschreven. Ging je klacht niet over een beslissing, maar over de manier waarop de directeur of een medewerker zich tegenover jou heeft gedragen of voor jou heeft gezorgd, dan loopt de procedure als volgt verder. De directeur laat je binnen vier weken na de mededeling van de maandcommissaris weten of hij of zij het eens is met het oordeel van de maandcommissaris en welke maatregelen hij of zij zal nemen. Hij geeft dat bericht ook aan de maandcommissaris. Als je het niet eens bent met wat de directeur zegt, kan je dat weer binnen zeven dagen melden bij de beklagcommissie. De beklagcommissie zal dan nogmaals een poging doen om te bemiddelen tussen jou en de directeur. Je ouders of je voogd, stiefouder of pleegouders kunnen ook bemiddeling door de maandcommissaris vragen als zij het niet eens zijn met de manier waarop zij zelf zijn behandeld. [*hier aangeven hoe de jeugdige en de ouders etc. in contact kunnen komen met de maandcommissaris*]  *Nadere regelgeving:*  
 
-– [Artikelen 7, vierde lid](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md), [64](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md), [66](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md) en [80 Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md)  
+– Artikelen 7, vierde lid, 64, 66 en 80 Beginselenwet justitiële jeugdinrichtingen  
 
-– [Artikelen 14 tot en met 23 Reglement justitiële jeugdinrichtingen](../../../../../../../AMvB/reglement/justitiële/jeugdinrichtingen/BWBR0012647/README.md)   
+– Artikelen 14 tot en met 23 Reglement justitiële jeugdinrichtingen   
 
 ### 11.2  
 
@@ -656,7 +656,7 @@ a. de weigering op het verzoek tot deelname aan een STP en de beëindiging van d
 
 b. de weigering of de intrekking van de toestemming om een kind in de inrichting onder te brengen;  
 
-c. de voortzetting van het verblijf op een afdeling voor intensieve zorg als bedoeld in [artikel 22a, derde lid](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md) of een afdeling voor intensieve behandeling als bedoeld in [artikel 22b, derde lid](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md) of een individuele trajectafdeling als bedoeld in [artikel 22c, vijfde lid](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md);  
+c. de voortzetting van het verblijf op een afdeling voor intensieve zorg als bedoeld in artikel 22a, derde lid of een afdeling voor intensieve behandeling als bedoeld in artikel 22b, derde lid of een individuele trajectafdeling als bedoeld in artikel 22c, vijfde lid;  
 
 d. de uitsluiting van het verblijf in de groep of van deelname aan activiteiten en de verlenging daarvan, alsmede verlenging van de uitsluiting van verblijf in de groep;  
 
@@ -700,7 +700,7 @@ De uitspraak van de beklagcommissie over je klacht wordt mondeling of schrifteli
 
 – De klacht is gegrond. Dit betekent dat je gelijk hebt gekregen.   Als je van de beklagcommissie gelijk hebt gekregen en de gevolgen van de beslissing waarom het ging niet meer teruggedraaid kunnen worden, kan de beklagcommissie een compensatie vaststellen. De compensatie kan bijvoorbeeld zijn dat je extra tijd krijgt om te telefoneren of om bezoek te ontvangen. In sommige gevallen kun je een compensatie in geld krijgen.  *Nadere regelgeving:*  
 
-– [Artikelen 65 tot en met 73](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md) en [80 Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md)   
+– Artikelen 65 tot en met 73 en 80 Beginselenwet justitiële jeugdinrichtingen   
 
 ### 11.3  
 
@@ -708,7 +708,7 @@ De uitspraak van de beklagcommissie over je klacht wordt mondeling of schrifteli
 
 Zowel jij als de directeur kan schriftelijk in beroep gaan tegen de uitspraak van de beklagcommissie bij de beroepscommissie van de Raad voor Strafrechtstoepassing en Jeugdbescherming. Je moet je beroepschrift uiterlijk binnen zeven dagen na de dag dat je de uitspraak van de beklagcommissie hebt gehoord of gelezen indienen. Voor het opstellen van een beroepschrift gelden dezelfde regels als voor het schrijven van een klacht (zie paragraaf 11.2 hierboven). Je moet daarbij duidelijk aangeven over welke uitspraak van de beklagcommissie het gaat. Zolang er nog geen uitspraak is gedaan door de beroepscommissie geldt wat de beklagcommissie heeft uitgesproken. Als je dat wilt kun je aan de voorzitter van de beroepscommissie vragen om de tenuitvoerlegging van de uitspraak van de beklagcommissie geheel of gedeeltelijk te schorsen, zolang zij nog geen definitieve uitspraak hebben gedaan. Het is handig om dit gelijk te vragen in de brief waarin je uitlegt waartegen je in beroep gaat en waarom. Je kunt ook een aparte brief schrijven waarin je dezelfde gegevens vermeldt die je ook bij een klacht moet opnemen (zie paragraaf 11.2) en zo duidelijk mogelijk aangeeft welke uitspraak je geheel of gedeeltelijk wilt laten schorsen. Als de directeur in beroep is gegaan tegen de uitspraak van de beklagcommissie kan hij ook om schorsing vragen.  *Nadere regelgeving:*  
 
-– [Artikelen 74](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md), [75](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md), [76](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md) en [80 Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md)   
+– Artikelen 74, 75, 76 en 80 Beginselenwet justitiële jeugdinrichtingen   
 
 ### 11.4  
 
@@ -734,7 +734,7 @@ Sommige beslissingen worden niet door de directeur, maar door de selectiefunctio
 
 – een verzoek om overplaatsing naar een bepaalde inrichting.   [*hier aangeven hoe de jeugdige een bezwaarschrift en een verzoekschrift kan indienen*] De selectiefunctionaris zal zijn beslissing over jouw bezwaar of verzoek schriftelijk aan je bekend maken. Hij moet dat binnen zes weken na het indienen van het bezwaar doen.  *Nadere regelgeving:*  
 
-– [Artikelen 18](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md) en [19 Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md)   
+– Artikelen 18 en 19 Beginselenwet justitiële jeugdinrichtingen   
 ### *Beroep* 
 
 Als je het niet eens bent met de beslissing van de selectiefunctionaris over je bezwaar of je verzoek, kun je hiertegen in beroep gaan bij de beroepscommissie van de Raad voor Strafrechtstoepassing en Jeugdbescherming. Je kunt alleen in beroep gaan als je helemaal of gedeeltelijk geen gelijk hebt gekregen. Je moet je beroepschrift binnen zeven dagen nadat je de schriftelijke uitspraak van de selectiefunctionaris hebt kunnen lezen indienen bij de beroepscommissie. Ook kun je rechtstreeks beroep bij de beroepscommissie van de Raad voor Strafrechtstoepassing en Jeugdbescherming instellen tegen: 
@@ -743,7 +743,7 @@ Als je het niet eens bent met de beslissing van de selectiefunctionaris over je 
 
 – de beslissing van de Minister van Veiligheid en Justitie tot weigering van het verlenen van een machtiging tot deelname aan het scholings- en trainingsprogramma, nadat je een verzoek tot deelname aan de directeur had gedaan.   Je ouders of je voogd, stiefouder of pleegouders hebben ook het recht om namens jou een bezwaar- of verzoekschrift in te dienen bij de selectiefunctionaris en het recht om in beroep te gaan tegen een beslissing van de selectiefunctionaris. Dit recht vervalt als de selectiefunctionaris of de beroepscommissie vinden dat voor jou zwaarwegende belangen zich hiertegen verzetten.  *Nadere regelgeving:*  
 
-– [Artikelen 77](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md), [78](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md) en [80 Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md)   
+– Artikelen 77, 78 en 80 Beginselenwet justitiële jeugdinrichtingen   
 
 ### 11.5  
 
@@ -751,11 +751,11 @@ Als je het niet eens bent met de beslissing van de selectiefunctionaris over je 
 
 Je kunt ook een beroep instellen bij de Raad voor Strafrechtstoepassing en Jeugdbescherming tegen een beslissing van de Minister van Veiligheid en Justitie over een onderbreking van je straf. Voor het opstellen van een beroepschrift gelden dezelfde regels als voor het schrijven van een klacht (zie paragraaf 11.2 hierboven). Je moet daarbij duidelijk aangeven over welke beslissing van de Minister het gaat.  *Nadere regelgeving:*  
 
-– [Artikelen 12](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md), [18](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md), [19](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md), [77](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md) en [78 Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md)  
+– Artikelen 12, 18, 19, 77 en 78 Beginselenwet justitiële jeugdinrichtingen  
 
-– [Artikel 77j Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  
+– Artikel 77j Wetboek van Strafrecht  
 
-– [Regeling strafonderbreking jeugdigen](../../../../../../../ministeriele-regeling/regeling/strafonderbreking/jeugdigen/BWBR0012744/README.md)   
+– Regeling strafonderbreking jeugdigen   
 
 ### 12  
 
@@ -767,7 +767,7 @@ Je kunt ook een beroep instellen bij de Raad voor Strafrechtstoepassing en Jeugd
 
 [*hier aangeven welke regels in de inrichting gelden met betrekking tot het bezit van contant geld en/of andere betaalmiddelen*] [*hier aangeven welke regels gelden met betrekking tot het beheer van en het gebruik van eigen geld op een rekening courant*] [*hier aangeven hoeveel zakgeld wordt toegekend*]  *Nadere regelgeving:*  
 
-– [Artikel 51 Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md)  
+– Artikel 51 Beginselenwet justitiële jeugdinrichtingen  
 
 – Regeling zakgeld justitiële jeugdinrichtingen   
 
@@ -777,7 +777,7 @@ Je kunt ook een beroep instellen bij de Raad voor Strafrechtstoepassing en Jeugd
 
 Als je schade veroorzaakt, kunnen de kosten daarvan op jou worden verhaald. De directeur kan met jou of met je wettelijke vertegenwoordiger een regeling treffen voor de vergoeding van de schade. Bij overplaatsing naar een andere inrichting neemt de andere inrichting de uitvoering van de met jou of je wettelijke vertegenwoordiger getroffen schaderegeling over. Het is ook mogelijk dat de directeur de schade op je verhaalt via een civielrechtelijke procedure of een voeging in een strafrechtelijke procedure.  *Nadere regelgeving:*  
 
-– [Artikel 55, vierde lid, Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md)   
+– Artikel 55, vierde lid, Beginselenwet justitiële jeugdinrichtingen   
 
 ### 12.3  
 
@@ -799,9 +799,9 @@ Bepaalde gegevens over jou en je verblijf in onze inrichting worden in een dossi
 
 – gratieverzoeken.   Als je wilt, mag je je eigen dossier inzien. Je hebt recht op een kopie van je perspectiefplan en de verslagen van de evaluaties. De directeur kan echter ook beslissen dat er goede redenen zijn om je dossier niet of slechts gedeeltelijk aan je te laten zien of je perspectiefplan en de evaluaties niet of maar gedeeltelijk aan je te geven. In dat geval moet de directeur je laten weten waarom hij of zij dat doet. Je kunt tegen deze beslissing in beklag gaan op de manier die in paragraaf 11.2. wordt omschreven. Bij een overplaatsing sturen we je dossier met je mee naar de andere justitiële jeugdinrichting. Het dossier wordt na beëindiging van de aan jou opgelegde straf of maatregel tien jaar bewaard. [*hier aangeven hoe de jeugdige gebruik kan maken van het recht op inzage*]  *Nadere regelgeving:*  
 
-– [Artikel 63 Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md)  
+– Artikel 63 Beginselenwet justitiële jeugdinrichtingen  
 
-– [Artikelen 66 tot en met 71 Reglement justitiële jeugdinrichtingen](../../../../../../../AMvB/reglement/justitiële/jeugdinrichtingen/BWBR0012647/README.md)   
+– Artikelen 66 tot en met 71 Reglement justitiële jeugdinrichtingen   
 
 ### 12.4  
 
@@ -809,5 +809,5 @@ Bepaalde gegevens over jou en je verblijf in onze inrichting worden in een dossi
 
 De directeur zorgt ervoor dat er regelmatig overleg met een vertegenwoordiging van jullie plaatsvindt over zaken die jullie verblijf in de inrichting aangaan. [*hier aangeven hoe de jeugdigen in dit overleg vertegenwoordigd worden (door middel van bijvoorbeeld een bewonersraad of groepsvergaderingen per afdeling)*] [*hier aangeven waar en wanneer het overleg met de jeugdigen plaatsvindt*]  *Nadere regelgeving:*  
 
-– [Artikel 79 Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md).   
+– Artikel 79 Beginselenwet justitiële jeugdinrichtingen.   
 

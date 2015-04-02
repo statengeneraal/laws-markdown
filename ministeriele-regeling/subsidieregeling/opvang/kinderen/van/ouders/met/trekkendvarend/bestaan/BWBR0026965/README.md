@@ -81,19 +81,19 @@ c. ten behoeve van het in samenwerking met andere exploitanten opvangen van de p
 
 ### Artikel  5  
 
-1.  Bij de verlening van de instellingssubsidie wordt het bedrag van de instellingssubsidie ten behoeve van het kalenderjaar 2014 berekend met de formule Σ(A x B)<sub>n</sub>+Σ(A x C)<sub>n</sub>+(D x E) – F, waarbij wordt verstaan onder de letter: 
+1.  Bij de verlening van de instellingssubsidie wordt het bedrag van de instellingssubsidie ten behoeve van het kalenderjaar 2015 berekend met de formule Σ(A x B)<sub>n</sub>+Σ(A x C)<sub>n</sub>+(D x E) – F, waarbij wordt verstaan onder de letter: 
 
 A: het aantal kinderen dat op 15 september van het jaar, voorafgaand aan het jaar waarvoor subsidie wordt aangevraagd, in het internaat van de exploitant werd gehuisvest, verzorgd en opgevoed;  
 
 B: indien de exploitant: 
 
-1°. het internaat huurt: een bedrag van € 25.998;  
+1°. het internaat huurt: een bedrag van € 26.401;  
 
-2°. eigenaar is van het internaat en in verband met een op of na 1 januari 2001 op het internaat gevestigde hypotheek rente- en aflossingskosten verschuldigd is: € 30.522;  
+2°. eigenaar is van het internaat en in verband met een op of na 1 januari 2001 op het internaat gevestigde hypotheek rente- en aflossingskosten verschuldigd is: € 30.996;  
 
-3°. eigenaar is van het internaat, doch niet of niet langer rente- en aflossingskosten verschuldigd is in verband met een daarop gevestigde hypotheek: € 24.359;  
+3°. eigenaar is van het internaat, doch niet of niet langer rente- en aflossingskosten verschuldigd is in verband met een daarop gevestigde hypotheek: € 24.737;  
 
-4°. eigenaar is van het internaat, doch niet van de onroerende zaak waarop het internaat is gebouwd: € 24.489;    
+4°. eigenaar is van het internaat, doch niet van de onroerende zaak waarop het internaat is gebouwd: € 24.869;    
 
 n: het aantal internaten van de exploitant;  
 
@@ -101,7 +101,7 @@ C: een bedrag dat wordt berekend door € 1.000.000 te delen door het totaal aa
 
 D: het aantal kinderen dat op 15 september van het jaar, voorafgaand aan het jaar waarvoor subsidie wordt aangevraagd, door bemiddeling van de exploitant in pleeggezinnen werd gehuisvest, verzorgd en opgevoed;  
 
-E: een bedrag van € 5.889;  
+E: een bedrag van € 5.960;  
 
 F: een door de minister goed te keuren raming van het totale bedrag aan ouderbijdragen, bedoeld in de artikelen 9 en 10.     
 2.  Indien een internaat bestaat uit een samenstel van gebouwen en deze gebouwen onder meer dan één categorie vallen, zoals omschreven in het eerste lid, letter B, wordt voor de toepassing van dit artikel uitgegaan van het gebouw waarin het kind overnacht.   
@@ -131,20 +131,21 @@ De aanvraag van een instellingssubsidie bevat een opgave van het aantal kinderen
 ### Artikel  9  
 
 1.  De exploitant komt schriftelijk met de binnenschipper, kermisexploitant of circusartiest overeen dat ten behoeve van de huisvesting, verzorging en opvoeding van diens kind in het internaat een ouderbijdrage is verschuldigd aan de exploitant.   
-2.  De ouderbijdrage, bedoeld in het eerste lid, bedraagt voor het boekjaar 2014: 
+2.  De ouderbijdrage, bedoeld in het eerste lid, bedraagt voor het boekjaar 2015: 
 
-a. voor het eerste kind uit een gezin € 1.606,51, vermeerderd met 3% van dat deel van het belastbare inkomen van de binnenschipper, kermisexploitant of circusartiest dat het bedrag van € 17.570,00 te boven gaat, tot een maximum van € 2.913,31;  
+a. voor het eerste kind uit een gezin € 1.645,22, vermeerderd met 3% van dat deel van het belastbare inkomen van de binnenschipper, kermisexploitant of circusartiest dat het bedrag van € 17.570,00 te boven gaat, tot een maximum van € 2.983,49;  
 
-b. voor het tweede en elk volgend kind uit een gezin € 1.070,83, vermeerderd met 1,5% van dat deel van het belastbare inkomen van de binnenschipper, kermisexploitant of circusartiest dat het bedrag van € 17.570,00 te boven gaat, tot een maximum van € 1.724,20.    
+b. voor het tweede en elk volgend kind uit een gezin € 1.096,63, vermeerderd met 1,5% van dat deel van het belastbare inkomen van de binnenschipper, kermisexploitant of circusartiest dat het bedrag van € 17.570,00 te boven gaat, tot een maximum van € 1.765,74.    
 
 ### Artikel  10  
 
 1.  De exploitant komt schriftelijk met de binnenschipper, kermisexploitant of circusartiest overeen dat ten behoeve van de huisvesting, verzorging en opvoeding van diens kind in het pleeggezin een ouderbijdrage is verschuldigd aan de exploitant.   
-2.  De ouderbijdrage, bedoeld in het eerste lid, bedraagt voor het boekjaar 2014: 
+2.  De ouderbijdrage, bedoeld in het eerste lid, bedraagt voor het boekjaar 2015:
 
-a. voor het eerste kind uit een gezin € 1.606,51 vermeerderd met 1% van dat deel van het belastbare inkomen van de binnenschipper, kermisexploitant of circusartiest dat het bedrag van € 17.570,00 te boven gaat, tot een maximum van € 2.042,12;  
+2. 
+a. voor het eerste kind uit een gezin € 1.645,22 vermeerderd met 1% van dat deel van het belastbare inkomen van de binnenschipper, kermisexploitant of circusartiest dat het bedrag van € 17.570,00 te boven gaat, tot een maximum van € 2.091,32;  
 
-b. voor het tweede en elk volgend kind uit een gezin € 1.070,83, vermeerderd met 0,5% van dat deel van het belastbare inkomen van de binnenschipper, kermisexploitant of circusartiest dat het bedrag van € 17.570,00 te boven gaat, tot een maximum van € 1.288,60.    
+b. voor het tweede en elk volgend kind uit een gezin € 1.096,63, vermeerderd met 0,5% van dat deel van het belastbare inkomen van de binnenschipper, kermisexploitant of circusartiest dat het bedrag van € 17.570,00 te boven gaat, tot een maximum van € 1.319,65.     
 
 ### Artikel  11  
 
@@ -167,11 +168,11 @@ De exploitant int de ouderbijdrage, bedoeld in de artikelen 9 en 10.
 
 1.  De exploitant doet binnen dertien weken na afloop van het boekjaar verslag over de wijze waarop uitvoering is gegeven aan de verplichtingen die zijn opgenomen in artikel 14.   
 2.  Het verslag, bedoeld in het eerste lid, wordt gedaan overeenkomstig een door de minister vastgesteld model.   
-3.  De exploitant zendt het verslag aan de minister en in afschrift aan de Inspectie jeugdzorg, bedoeld in artikel 47 van de Wet op de jeugdzorg.  
+3.  De exploitant zendt het verslag aan de minister en in afschrift aan de inspectie jeugdzorg, bedoeld in artikel 9.1 van de Jeugdwet.  
 
 ### Artikel  16  
 
-Met het toezicht op de naleving van de artikelen 14 en 15 zijn belast de ambtenaren van de Inspectie jeugdzorg, bedoeld in artikel 47 van de Wet op de jeugdzorg. 
+Met het toezicht op de naleving van de artikelen 14 en 15 zijn belast de ambtenaren van de inspectie jeugdzorg, bedoeld in artikel 9.1 van de Jeugdwet. 
 
 ### Artikel  18  
 

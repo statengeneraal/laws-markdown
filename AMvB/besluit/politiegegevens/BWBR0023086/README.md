@@ -159,7 +159,7 @@ a. de terbeschikkingstelling van de gegevens plaatsvindt ten behoeve van verdere
 
 b. uit de gegevens zelf een redelijk vermoeden voortvloeit dat een bepaalde persoon een misdrijf heeft begaan;  
 
-c. de terbeschikkingstelling van de gegevens plaatsvindt op grond van artikel 16, eerste lid, onderdeel c, van de wet, en deze gegevens redelijkerwijs van belang kunnen zijn ter voorkoming of opsporing van misdrijven als bedoeld in artikel 3:1.    
+c. de terbeschikkingstelling van de gegevens plaatsvindt op grond van artikel 16, eerste lid, onderdeel b, van de wet, en deze gegevens redelijkerwijs van belang kunnen zijn ter voorkoming of opsporing van misdrijven als bedoeld in artikel 3:1.    
 
 ### Paragraaf  3  
 
@@ -230,7 +230,13 @@ d. Onze Minister voor Immigratie, Integratie en Asiel, ten behoeve van het nemen
 
 a. de commissie, bedoeld in artikel 8 van de Wet schadefonds geweldsmisdrijven, ten behoeve van het nemen van een beslissing op een verzoek tot uitkering uit het schadefonds geweldsmisdrijven;  
 
-b. de stichting slachtofferhulp Nederland, ten behoeve van het behartigen van belangen van slachtoffers van strafbare feiten of verkeersongevallen;  
+b. de navolgende instanties die hulp aan slachtoffers verlenen: 
+
+1°. de stichting slachtofferhulp Nederland, ten behoeve van het behartigen van belangen van slachtoffers van strafbare feiten of verkeersongevallen;  
+
+2°. de stichting slachtoffer in beeld, voor wat betreft gegevens over slachtoffers van strafbare feiten en verkeersongevallen en, in bijzondere of ernstige gevallen, gegevens uit het proces-verbaal, ten behoeve van de bemiddeling tussen die slachtoffers en verdachten of veroordeelden, en;  
+
+3°. de stichting Comensha, voor wat betreft gegevens over slachtoffers van mensenhandel en de aanmeldende autoriteit, ten behoeve van de coördinatie van de opvang en verzorging van slachtoffers van mensenhandel en de registratie van gegevens over mensenhandel;    
 
 c. de Stichting Processen Verbaal, voor zover het gegevens betreft inzake aanrijdingen of aanvaringen, ten behoeve van een goede uitvoering van haar taak;  
 
@@ -258,7 +264,9 @@ k. Onze Minister van Veiligheid en Justitie, ten behoeve van:
 
 2°. het verwerken van gegevens omtrent de identiteit van verdachten en veroordeelden in de strafrechtsketendatabank en de verdere verstrekking van die gegevens aan de functionarissen en organen die met de toepassing van het strafrecht zijn belast, ten behoeve van de vaststelling van de identiteit van verdachten en veroordeelden;  
 
-3°. het vergelijken van deze gegevens, voor zover deze DNA-profielen van overleden personen betreffen wier identiteit onbekend is, met de DNA-profielen van de personen, bedoeld in artikel 14, vierde lid, onder d tot en met f, van het Besluit DNA-onderzoek in strafzaken, ten behoeve van de vaststelling van de identiteit van deze overleden personen.   
+3°. het vergelijken van deze gegevens, voor zover deze DNA-profielen van overleden personen betreffen wier identiteit onbekend is, met de DNA-profielen van de personen, bedoeld in artikel 14, vierde lid, onder d tot en met f, van het Besluit DNA-onderzoek in strafzaken, ten behoeve van de vaststelling van de identiteit van deze overleden personen; 
+
+4°. het verzoek tot weigering of vervallenverklaring van een reisdocument, op grond van artikel 23 van de Paspoortwet;   
 
 l. de Onderzoeksraad voor veiligheid, bedoeld in artikel 2 van de Rijkswet Onderzoeksraad voor veiligheid, ten behoeve van de uitvoering van de in die wet opgedragen taken;  
 
@@ -286,9 +294,13 @@ w. het Landelijk Bureau Inning Onderhoudsbijdragen, voor wat betreft gegevens ov
 
 x. de Minister van Defensie, ten behoeve van het nemen van een beslissing over de ongeldigverklaring van een door die minister afgegeven militair rijbewijs of rijmachtiging; 
 
-y. Onze Minister voor Immigratie en Asiel, ten behoeve van het verwerken van gegevens omtrent de identiteit van vreemdelingen in de Basisvoorziening Vreemdelingen en de verdere verstrekking van die gegevens aan instanties die zijn betrokken bij de uitvoering van de Vreemdelingenwet 2000, ten behoeve van de vaststelling van de identiteit van vreemdelingen, en aan andere instanties met een publieke taak belast, ten behoeve van registratie, identificatie en verificatie van vreemdelingen, hun documenten of hun verblijfsrechtelijke positie.    
+y. Onze Minister voor Immigratie en Asiel, ten behoeve van het verwerken van gegevens omtrent de identiteit van vreemdelingen in de Basisvoorziening Vreemdelingen en de verdere verstrekking van die gegevens aan instanties die zijn betrokken bij de uitvoering van de Vreemdelingenwet 2000, ten behoeve van de vaststelling van de identiteit van vreemdelingen, en aan andere instanties met een publieke taak belast, ten behoeve van registratie, identificatie en verificatie van vreemdelingen, hun documenten of hun verblijfsrechtelijke positie; 
+
+z. het agentschap Basisadministratie Persoonsgegevens en Reisdocumenten van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties met het oog op de weigering of vervallenverklaring van reisdocumenten zoals bedoeld in artikel 24, onder b, van de Paspoortwet; 
+
+aa. de inspecteur, bedoeld in artikel 1:3, eerste lid, onderdeel c, van de Algemene douanewet, voor zover hij deze gegevens behoeft voor een goede uitvoering van de in die wet aan hem opgedragen taken.    
 2.  Politiegegevens die worden verwerkt overeenkomstig de artikelen 8 en 13, eerste lid, van de wet kunnen, voor zover zij deze behoeven voor een goede uitvoering van hun taak, worden verstrekt aan ambtenaren die bij of krachtens de wet zijn belast met het houden van toezicht op de naleving van de bij ministeriële regeling aangewezen wetgeving, voor zover het betreft gegevens over de naleving van die wetgeving, en er tussen de verantwoordelijke en de betreffende ambtenaren afspraken zijn gemaakt over welke gegevens verstrekt worden, in welke gevallen en onder welke voorwaarden. De verantwoordelijke legt deze afspraken vast.   
-3.  Politiegegevens die worden verwerkt overeenkomstig de artikelen 8 en 13, eerste lid, van de wet kunnen, voor zover zij deze behoeven voor een goede uitvoering van hun taak, worden verstrekt aan de door Onze Minister van Sociale Zaken en Werkgelegenheid respectievelijk Onze Minister van Financiën aangewezen ambtenaren, die zijn belast met het toezicht op de naleving van het bepaalde bij of krachtens de Wet arbeid vreemdelingen respectievelijk de Invorderingswet 1990 en de Algemene wet inzake rijksbelastingen ten behoeve van de inschatting van de veiligheidsrisico’s met betrekking tot de uitoefening van vorenbedoeld toezicht.   
+3.  Politiegegevens die worden verwerkt overeenkomstig de artikelen 8 en 13, eerste lid, van de wet kunnen, voor zover zij deze behoeven voor een goede uitvoering van hun taak, worden verstrekt aan de door Onze Minister van Sociale Zaken en Werkgelegenheid respectievelijk Onze Minister van Financiën aangewezen ambtenaren, die zijn belast met het toezicht op de naleving van het bepaalde bij of krachtens de Wet arbeid vreemdelingen respectievelijk de Invorderingswet 1990, de Algemene wet inzake rijksbelastingen en de Algemene douanewet ten behoeve van de inschatting van de veiligheidsrisico’s met betrekking tot de uitoefening van vorenbedoeld toezicht.   
 4.  Politiegegevens die worden verwerkt overeenkomstig de artikelen 8 en 13, eerste lid, van de wet, kunnen worden verstrekt aan het college van burgemeester en wethouders en de Minister van Binnenlandse Zaken en Koninkrijksrelaties, met het oog op signalering van veranderingen in de gegevens die in de basisregistratie personen zijn opgenomen.  
 
 ### Artikel  4:3  
@@ -369,12 +381,15 @@ c. de Stichting Autoriteit Financiële Markten, te behoeve van:
 
 – Onze Minister van Veiligheid en Justitie, ten behoeve van het nemen van een beslissing op grond van de Wet particuliere beveiligingsorganisaties en recherchebureaus;  
 
+– Onze Minister van Veiligheid en Justitie, ten behoeve van een onderzoek naar de betrouwbaarheid van een buitengewoon opsporingsambtenaar en het nemen van een beslissing hieromtrent op grond van de artikelen 17 en 35 van het Besluit buitengewoon opsporingsambtenaar; 
+
 – de korpschef, ten behoeve van het nemen van beschikkingen omtrent het verlenen of intrekken van jachtakten op grond van de Flora- en faunawet;  
 
 – de burgemeester, omtrent de verlening, weigering of intrekking van een vergunning op grond van de Drank- en Horecawet;  
 
 – de burgemeester, ten behoeve van het nemen van een beslissing omtrent een vergunning op grond van de Wet op de kansspelen.     
-6.  Politiegegevens die worden verstrekt in de gevallen, bedoeld in het vijfde lid, kunnen tevens worden verstrekt aan een bestuursorgaan dat beslist naar aanleiding van een ingesteld bezwaar of administratief beroep.  
+6.  Politiegegevens die worden verstrekt in de gevallen, bedoeld in het vijfde lid, kunnen tevens worden verstrekt aan een bestuursorgaan dat beslist naar aanleiding van een ingesteld bezwaar of administratief beroep.   
+7.  Politiegegevens die worden verwerkt overeenkomstig de artikelen 8, 9, 10, eerste lid, onderdelen a en c, en 13, eerste lid, van de wet, kunnen worden verstrekt aan de daartoe aangewezen vertegenwoordigers van de deelnemende bestuursorganen aan een Regionaal Informatie- en Expertisecentrum, voor zover het betreft politiegegevens die relevant zijn voor het geïntegreerd handhavend optreden bij de bestrijding van georganiseerde criminaliteit en er tussen de betreffende bestuursorganen schriftelijke afspraken zijn gemaakt over de gevallen waarin en de voorwaarden waaronder de gegevens worden verstrekt. Politiegegevens die worden verwerkt overeenkomstig de artikelen 9 en 10, eerste lid, onderdelen a en c, van de wet, kunnen uitsluitend aan die vertegenwoordigers worden verstrekt ten behoeve van het analyseren van handhavingsknelpunten, het verrichten van integrale casusanalyses en het bepalen en uitvoeren van de uit deze analyses voortvloeiende interventies, en voor zover het gegevens betreffen die worden verwerkt overeenkomstig de artikelen 9 en 10, eerste lid, onderdeel a, van de wet, slechts na instemming van het openbaar ministerie. 
 
 ### Artikel  4:3a  
 
@@ -765,7 +780,7 @@ k. artikel 2:13, tweede lid, onderdeel c, wordt in plaats van «artikel 16, eers
 
 l. artikel 4:1, eerste lid, onderdeel b, wordt in plaats van «artikel 1, onderdeel h, van de Luchtvaartwet» gelezen «artikel 1, eerste lid, onderdeel i van de Luchtvaartwet BES» en wordt in plaats van «Opiumwet» gelezen: Opiumwet 1960 BES;  
 
-m. vervallen;  
+m. artikel 4:2, eerste lid, onderdeel aa, wordt in plaats van «bedoeld in artikel 1:3, eerste lid, onderdeel c, van de Algemene douanewet» gelezen: bedoeld in artikel 1.1, onderdeel h, van de Douane- en Accijnswet BES;  
 
 n. artikel 4:7, eerste lid, onder b, wordt in plaats van «de burgemeester» telkens gelezen: de gezaghebber;  
 
@@ -894,8 +909,8 @@ a. de Nederlandsche Bank, ten behoeve van:
 
 b. de Autoriteit Financiële Markten, ten behoeve van het verkrijgen van inzicht in de voornemens, handelingen en antecedenten, bedoeld in artikel 3:1 van het Besluit financiële markten BES, ter vaststelling van de betrouwbaarheid van een persoon, als bedoeld in artikel 3:4, eerste lid, van de Wet financiële markten BES.    
 3.  Aan de verdere verstrekking van de op grond van het tweede lid verstrekte politiegegevens kunnen door het openbaar ministerie nadere voorwaarden worden gesteld. Die voorwaarden kunnen onder meer betreffen het ter beschikking stellen of doorgeven van die gegevens of inlichtingen daarover aan derden.   
-4.  De op grond van het tweede lid verstrekte gegevens worden door de in dat lid genoemde personen en instanties niet langer dan gedurende een termijn van twaalf maanden na datum van verkrijgen bewaard. Gegevens die door de leden van het openbaar ministerie verder zijn verstrekt, kunnen langer worden bewaard met bijzondere toestemming van het   
-5.  Politiegegevens die worden verwerkt overeenkomstig de artikelen 8, 9, 10, eerste lid, onderdelen a en c, en 13, eerste lid, van de wet, kunnen worden verstrekt aan Onze Minister van Veiligheid en Justitie, ten behoeve van het nemen van een beslissing op grond van de Wapenwet BES en de Vuurwapenwet BES. Deze gegevens kunnen tevens worden verstrekt aan een bestuursorgaan dat beslist naar aanleiding van een ingesteld administratief beroep.  
+4.  De op grond van het tweede lid verstrekte gegevens worden door de in dat lid genoemde personen en instanties niet langer dan gedurende een termijn van twaalf maanden na datum van verkrijgen bewaard. Gegevens die door de leden van het openbaar ministerie verder zijn verstrekt, kunnen langer worden bewaard met bijzondere toestemming van het openbaar ministerie. Daarbij kunnen nadere voorwaarden worden gesteld.   
+5.  Politiegegevens die worden verwerkt overeenkomstig de artikelen 8, 9, 10, eerste lid, onderdelen a en c, en 13, eerste lid, van de wet, kunnen worden verstrekt aan Onze Minister van Veiligheid en Justitie en de gezaghebber, ten behoeve van het nemen van een beslissing op grond van de Wapenwet BES en de Vuurwapenwet BES. Deze gegevens kunnen tevens worden verstrekt aan een bestuursorgaan dat beslist naar aanleiding van een ingesteld administratief beroep.  
 
 ### Artikel  6a:7  
 

@@ -3,8 +3,8 @@
 ##Besluit vaststelling constanten regressieformules en waarden voor de gemiddelde CO2-uitstoot voor benzine- en dieselauto’s 2006
 
 De Algemeen Directeur van de Dienst Wegverkeer,
-Gelet op [artikel 8 van het Besluit etikettering energieverbruik personenauto’s](../../../../../../../../../../../AMvB/besluit/etikettering/energiegebruik/personenauto's/BWBR0011761/README.md) van 3-11-2000 (Stb. 2000, nr. 475);
-Besluit:De constanten voor de in [bijlage 4 bij het Besluit etikettering energieverbruik personenauto’s](../../../../../../../../../../../AMvB/besluit/etikettering/energiegebruik/personenauto's/BWBR0011761/README.md) opgenomen regressieformules, en de daarbij behorende waarden van de gemiddelde CO<sub>2</sub>-uitstoot voor personenauto’s met benzine als brandstof, en voor personenauto’s met diesel als brandstof, voor het kalenderjaar 2006, als volgt vast te stellen:
+Gelet op artikel 8 van het Besluit etikettering energieverbruik personenauto’s van 3-11-2000 (Stb. 2000, nr. 475);
+Besluit:De constanten voor de in bijlage 4 bij het Besluit etikettering energieverbruik personenauto’s opgenomen regressieformules, en de daarbij behorende waarden van de gemiddelde CO<sub>2</sub>-uitstoot voor personenauto’s met benzine als brandstof, en voor personenauto’s met diesel als brandstof, voor het kalenderjaar 2006, als volgt vast te stellen:
 ###*1. Constanten voertuiglengte:*
 
 | --- | --- |

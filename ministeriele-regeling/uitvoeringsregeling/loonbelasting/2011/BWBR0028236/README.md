@@ -362,7 +362,7 @@ c. de inhoudingsplichtige de toepassing van dit lid in de aangifte loonheffingen
 
 ####Privégebruik auto; rittenregistratie, loontijdvakken en verklaring geen privégebruik
 
-1.  De rittenregistratie, bedoeld in artikel 13bis, vierde lid, van de wet, bevat ten minste de volgende gegevens: 
+1.  De rittenregistratie, bedoeld in artikel 13bis, derde lid, van de wet, bevat ten minste de volgende gegevens: 
 
 a. merk, type en kenteken van de auto;  
 
@@ -379,8 +379,8 @@ c. per rit:
 4°. de gereden route indien deze afwijkt van de meest gebruikelijke;  
 
 5°. het karakter van de rit.       
-2.  Indien in een loontijdvak de vergoeding die de werknemer voor het gebruik voor privédoeleinden verschuldigd is, uitgaat boven het voor dat loontijdvak op grond van artikel 13bis, eerste tot en met derde lid, van de wet berekende voordeel, wordt in dat loontijdvak een negatief bedrag ter grootte van het verschil tussen het berekende voordeel en de verschuldigde vergoeding als voordeel in aanmerking genomen, voor zover op kalenderjaarbasis het berekende voordeel ten minste gelijk is aan de vergoeding voor het gebruik voor privédoeleinden.   
-3.  Een verzoek om een verklaring geen privégebruik als bedoeld in artikel 13bis, dertiende lid, van de wet bevat ten minste de volgende gegevens: 
+2.  Indien in een loontijdvak de vergoeding die de werknemer voor het gebruik voor privédoeleinden verschuldigd is, uitgaat boven het voor dat loontijdvak op grond van artikel 13bis, eerste en tweede lid, van de wet berekende voordeel, wordt in dat loontijdvak een negatief bedrag ter grootte van het verschil tussen het berekende voordeel en de verschuldigde vergoeding als voordeel in aanmerking genomen, voor zover op kalenderjaarbasis het berekende voordeel ten minste gelijk is aan de vergoeding voor het gebruik voor privédoeleinden.   
+3.  Een verzoek om een verklaring geen privégebruik als bedoeld in artikel 13bis, twaalfde lid, van de wet bevat ten minste de volgende gegevens: 
 
 a. de naam, het adres en het burgerservicenummer van de werknemer;  
 
@@ -698,9 +698,9 @@ a. voorzieningen die rechtstreeks voortvloeien uit het arbeidsomstandighedenbele
 b. hulpmiddelen die ook elders gebruikt kunnen worden en die geheel of nagenoeg geheel zakelijk gebruikt worden.     
 2.  In afwijking in zoverre van artikel 1.2, eerste lid, onderdeel f, wordt voor de toepassing van het eerste lid, onderdeel a, onder werkplek tevens verstaan: 
 
-1°. in geval van thuiswerk in de zin van de Arbeidsomstandighedenwet een werkruimte gelegen in een woning, een duurzaam aan een plaats gebonden schip of een woonwagen in de zin van artikel 1, onderdeel l, van de Wet op de huurtoeslag, de aanhorigheden daaronder begrepen, van de werknemer;  
+a. in geval van thuiswerk in de zin van de Arbeidsomstandighedenwet een werkruimte gelegen in een woning, een duurzaam aan een plaats gebonden schip of een woonwagen in de zin van artikel 1, onderdeel l, van de Wet op de huurtoeslag, de aanhorigheden daaronder begrepen, van de werknemer;  
 
-2°. de plaats waar uitvoering wordt gegeven aan het arbeidsomstandighedenbeleid dat de inhoudingsplichtige voert op grond van de Arbeidsomstandighedenwet.    
+b. de plaats waar uitvoering wordt gegeven aan het arbeidsomstandighedenbeleid dat de inhoudingsplichtige voert op grond van de Arbeidsomstandighedenwet.    
 
 ### Artikel  8.4b  
 
@@ -724,7 +724,7 @@ d. van de andere inhoudingsplichtigen, bedoeld in de aanhef, per inhoudingsplich
 
 4°. de in het kalenderjaar ingevolge artikel 31, eerste lid, onderdeel f en onderdeel g, van de wet door die inhoudingsplichtige aangewezen vergoedingen en verstrekkingen, met uitzondering van de vergoedingen en verstrekkingen die ingevolge artikel 31a, tweede lid, van de wet naast 1,2% van het loon, bedoeld in artikel 31a, tweede lid, van de wet, met inachtneming van artikel 31a, tiende lid, van de wet, in mindering komen;    
 
-d. de berekening van de gezamenlijk verschuldigde belasting, bedoeld in artikel 32, eerste lid, van de wet, en, ingeval deze belasting meer bedraagt dan nihil, de naam en het loonheffingennummer van de inhoudingsplichtige die deze belasting heeft aangegeven en afgedragen.     
+e. de berekening van de gezamenlijk verschuldigde belasting, bedoeld in artikel 32, eerste lid, van de wet, en, ingeval deze belasting meer bedraagt dan nihil, de naam en het loonheffingennummer van de inhoudingsplichtige die deze belasting heeft aangegeven en afgedragen.     
 2.  Van verwevenheid in financieel, organisatorisch en economisch opzicht tussen inhoudingsplichtige stichtingen als bedoeld in artikel 32, tweede lid, van de wet is sprake indien statutair is vastgelegd dat: 
 
 a. het bestuur van een van de stichtingen, bedoeld in de aanhef, de bestuursleden van de andere stichtingen, bedoeld in de aanhef, benoemt of een bindende voordracht doet voor de benoeming van die bestuursleden;  

@@ -18,7 +18,7 @@ In deze regeling wordt verstaan onder:
 
 * *Adviseur investeringsprioriteit B:* een natuurlijk persoon, niet zijnde een werknemer van de subsidieaanvrager, die in het kader van de uitoefening van zijn beroep of bedrijf als adviseur werkzaam is op het gebied van duurzame inzetbaarheid;
 
-*  *arbeidsbelemmerde:* een persoon die jegens het college van burgemeester en wethouders van zijn woonplaats aanspraak heeft op een uitkering op grond van de Wet werk en bijstand en naar het oordeel van dat college een lichamelijke, verstandelijke, psychische of psychosociale beperking heeft, dan wel een persoon die tot de doelgroep loonkostensubsidie, bedoeld in artikel 6, eerste lid, onderdeel e, van de Participatiewet behoort; 
+*  *arbeidsbelemmerde:* een persoon die jegens het college van burgemeester en wethouders van zijn woonplaats aanspraak heeft op een uitkering op grond van de Wet werk en bijstand of op grond van de Participatiewet, en naar het oordeel van dat college een lichamelijke, verstandelijke, psychische of psychosociale beperking heeft, dan wel een persoon die tot de doelgroep loonkostensubsidie, bedoeld in artikel 6, eerste lid, onderdeel e, van de Participatiewet behoort; 
 
 * *Arbeidsorganisatie:* een onderneming als bedoeld in artikel 5, onderdelen a, b en d, van de Handelsregisterwet 2007 waarin door werknemers arbeid wordt verricht; 
 
@@ -76,7 +76,7 @@ In deze regeling wordt verstaan onder:
 
 *  *voortgezet speciaal onderwijs:* het onderwijs dat wordt gegeven op een school of instelling waaraan voortgezet speciaal onderwijs als bedoeld in de Wet op de expertisecentra wordt verzorgd;  
 
-*  *Wajong-uitkering:* uitkering op grond van de Wet werk en arbeidsondersteuning jonggehandicapten;  
+*  *Wajong-uitkering:* uitkering op grond van de Wet werk en arbeidsondersteuning jonggehandicapten, of de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten;  
 
 *  *WAO-uitkering:* uitkering op grond van de Wet op de arbeidsongeschiktheidsverzekering;  
 
@@ -84,7 +84,7 @@ In deze regeling wordt verstaan onder:
 
 *  *WIA-uitkering:* uitkering op grond van de Wet werk en inkomen naar arbeidsvermogen;  
 
-*  *WWB-uitkering:* uitkering op grond van de Wet werk en bijstand;  
+*  *bijstandsuitkering:* uitkering op grond van de Wet werk en bijstand of de Participatiewet;  
 
 *  *ZW-uitkering:* uitkering op grond van de Ziektewet;   
 
@@ -420,13 +420,13 @@ Het maximaal beschikbare bedrag voor het verlenen van subsidie bedraagt voor het
 
 a. niet-uitkeringsontvangers;  
 
-b. arbeidsbelemmerden, dan wel personen met een uitkering op basis van de Wet werk en inkomen naar arbeidsvermogen, Wet op de arbeidsongeschiktheidsverzekering, Wet arbeidsongeschiktheidsverzekering zelfstandigen, Wet werk en arbeidsondersteuning jonggehandicapten, IOAW, IOAZ en Ziektewet dan wel personen met een recht op arbeidsondersteuning op grond van de Wet werk en arbeidsondersteuning jonggehandicapten;  
+b. arbeidsbelemmerden, dan wel personen met een uitkering op basis van de Wet werk en inkomen naar arbeidsvermogen, Wet op de arbeidsongeschiktheidsverzekering, Wet arbeidsongeschiktheidsverzekering zelfstandigen, Wet werk en arbeidsondersteuning jonggehandicapten of de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, IOAW, IOAZ en Ziektewet dan wel personen met een recht op arbeidsondersteuning op grond van de Wet werk en arbeidsondersteuning jonggehandicapten;  
 
-c. 50-plussers met een WWB-uitkering, een IOAW-uitkering, een IOAZ-uitkering, of een uitkering van het UWV;  
+c. 50-plussers met een, bijstandsuitkering op grond van Wet werk en bijstand of de Participatiewet, een IOAW-uitkering, een IOAZ-uitkering, of een uitkering van het UWV;  
 
 d. jongeren;  
 
-e. personen die algemene bijstand op grond van de WWB, een aanvullende IOAW-uitkering, een aanvullende IOAZ-uitkering, of een uitkering van het UWV ontvangen en in de twaalf maanden voorafgaand aan hun deelname aan een project deze uitkering(en) in totaal zes maanden of langer hebben ontvangen;  
+e. personen die algemene bijstand op grond van de WWB of de Participatiewet, een aanvullende IOAW-uitkering, een aanvullende IOAZ-uitkering, of een uitkering van het UWV ontvangen en in de twaalf maanden voorafgaand aan hun deelname aan een project deze uitkering(en) in totaal zes maanden of langer hebben ontvangen;  
 
 f. leerlingen, die vijftien jaar of ouder zijn of in het derde leerjaar of hoger zitten en die geïndiceerd zijn voor, en ingeschreven staan bij een school voor voortgezet speciaal onderwijs dan wel praktijkonderwijs, alsmede leerlingen die vijftien jaar of ouder zijn en die in de periode 24 maanden onmiddellijk voorafgaand aan de start van hun deelname aan het project, ingeschreven hebben gestaan bij een dergelijke school, en in aanvulling op het regulier onderwijs ondersteuning nodig hebben of die na het verlaten van de school begeleiding nodig hebben ten behoeve van arbeidsintegratie.    
 
@@ -582,7 +582,7 @@ Het maximaal beschikbare bedrag voor het verlenen van subsidie bedraagt voor het
 
 ####Doel en doelgroep
 
-1. Een project in het kader van dit hoofdstuk heeft tot doel de arbeidsmarktpositie van gedetineerden en jongeren verblijvend in een Justitiële jeugdinrichting dan wel een accommodatie als bedoeld in hoofdstuk IVb Wet op de jeugdzorg dan wel personen die in de periode twaalf maanden onmiddellijk voorafgaand aan de start van hun deelname aan het project in een gevangenis, tbs-kliniek of jeugdinrichting of een accommodatie als bedoeld in hoofdstuk IVb Wet op de jeugdzorg hebben verbleven, zodanig te verbeteren, dat zij naar werk bemiddelbaar zijn of na detentie direct inpasbaar zijn in een arbeidsmarkt gerelateerd programma of regulier opleidingstraject.  
+1. Een project in het kader van dit hoofdstuk heeft tot doel de arbeidsmarktpositie van gedetineerden en jongeren verblijvend in een Justitiële jeugdinrichting dan wel een gesloten accommodatie als bedoeld in artikel 1.1 van de Jeugdwet dan wel personen die in de periode twaalf maanden onmiddellijk voorafgaand aan de start van hun deelname aan het project in een gevangenis, tbs-kliniek of jeugdinrichting of een gesloten accommodatie als bedoeld in artikel 1.1 van de Jeugdwet hebben verbleven, zodanig te verbeteren, dat zij naar werk bemiddelbaar zijn of na detentie direct inpasbaar zijn in een arbeidsmarkt gerelateerd programma of regulier opleidingstraject.  
 
 2. Indien sprake is van een persoon die deelneemt aan twee opeenvolgende projecten en deze persoon behoort bij instroom in het eerste project aantoonbaar tot de doelgroep, dan behoort deze persoon ook het opvolgende project tot de doelgroep mits voor deze deelnemer sprake is van een individueel traject dat onafgebroken doorloopt in beide projecten.  
 

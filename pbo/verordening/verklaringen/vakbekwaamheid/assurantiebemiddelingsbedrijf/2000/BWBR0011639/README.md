@@ -3,9 +3,9 @@
 ##Verordening van de Sociaal-Economische Raad van 15 september 2000 houdende regelen krachtens welke de afgifte plaatsvindt van de in artikel 4, achtste lid, van de Wet assurantiebemiddelingsbedrijf bedoelde verklaringen (Verordening Verklaringen Vakbekwaamheid Assurantiebemiddelingsbedrijf 2000)
 
 De Sociaal-Economische Raad;
-Gelet op [artikel 36 van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+Gelet op artikel 36 van de Wet op de bedrijfsorganisatie;
 
-Gelet op [artikel 4, achtste lid, laatste volzin, van de Wet assurantiebemiddelingsbedrijf](../../../../../../../wet/wet/assurantiebemiddelingsbedrijf/BWBR0004993/README.md);
+Gelet op artikel 4, achtste lid, laatste volzin, van de Wet assurantiebemiddelingsbedrijf;
 Besluit:
 ###§ 1 
 
@@ -18,8 +18,8 @@ In deze verordening wordt verstaan onder:
 | --- | --- | --- |
 |:---|:---|:---|
 |1. |de raad: |de Sociaal-Economische Raad; |
-|2. |de wet: |de [Wet assurantiebemiddelingsbedrijf](../../../../../../../wet/wet/assurantiebemiddelingsbedrijf/BWBR0004993/README.md); |
-|3. |verklaring: |de verklaring bedoeld in [artikel 4, achtste lid, tweede volzin, van de wet](../../../../../../../wet/wet/assurantiebemiddelingsbedrijf/BWBR0004993/README.md), inhoudende dat degene op wiens naam de verklaring is gesteld, voldoet aan hetzij de vakbekwaamheidseisen bedoeld in [artikel 4, eerste lid, onderdeel a](../../../../../../../wet/wet/assurantiebemiddelingsbedrijf/BWBR0004993/README.md), hetzij de vakbekwaamheidseisen bedoeld in [artikel 4, eerste lid, onderdeel b, van de wet](../../../../../../../wet/wet/assurantiebemiddelingsbedrijf/BWBR0004993/README.md). |
+|2. |de wet: |de Wet assurantiebemiddelingsbedrijf; |
+|3. |verklaring: |de verklaring bedoeld in artikel 4, achtste lid, tweede volzin, van de wet, inhoudende dat degene op wiens naam de verklaring is gesteld, voldoet aan hetzij de vakbekwaamheidseisen bedoeld in artikel 4, eerste lid, onderdeel a, hetzij de vakbekwaamheidseisen bedoeld in artikel 4, eerste lid, onderdeel b, van de wet. |
 
 ###§ 2 
 
@@ -31,11 +31,11 @@ De raad geeft een verklaring op hun aanvraag af aan degenen die bij de afgifte e
 
 ###Artikel 3 
 
-De raad geeft een verklaring slechts af indien de aanvrager, gezien zijn persoonlijke omstandigheden, in het verleden redelijkerwijs niet in de gelegenheid is geweest een hetzij krachtens [artikel 4, achtste lid, eerste volzin, van de wet](../../../../../../../wet/wet/assurantiebemiddelingsbedrijf/BWBR0004993/README.md), hetzij krachtens artikel 5, derde lid, eerste volzin, van de Wet Assurantiebemiddeling 1952 aangewezen examendiploma te verwerven, en voorts van hem in redelijkheid niet kan worden verlangd dat hij zich alsnog onderwerpt aan het examen ter verkrijging van zulk een diploma aangewezen krachtens [artikel 4, achtste lid, eerste volzin, van de wet](../../../../../../../wet/wet/assurantiebemiddelingsbedrijf/BWBR0004993/README.md).
+De raad geeft een verklaring slechts af indien de aanvrager, gezien zijn persoonlijke omstandigheden, in het verleden redelijkerwijs niet in de gelegenheid is geweest een hetzij krachtens artikel 4, achtste lid, eerste volzin, van de wet, hetzij krachtens artikel 5, derde lid, eerste volzin, van de Wet Assurantiebemiddeling 1952 aangewezen examendiploma te verwerven, en voorts van hem in redelijkheid niet kan worden verlangd dat hij zich alsnog onderwerpt aan het examen ter verkrijging van zulk een diploma aangewezen krachtens artikel 4, achtste lid, eerste volzin, van de wet.
 
 ###Artikel 4 
 
-1. De verklaring dat de aanvrager voldoet aan de vakbekwaamheidseisen bedoeld in [artikel 4, eerste lid, onderdeel a, van de wet](../../../../../../../wet/wet/assurantiebemiddelingsbedrijf/BWBR0004993/README.md) wordt afgegeven aan degene die
+1. De verklaring dat de aanvrager voldoet aan de vakbekwaamheidseisen bedoeld in artikel 4, eerste lid, onderdeel a, van de wet wordt afgegeven aan degene die
 
 a.ten minste 40 jaren oud is;
 
@@ -58,7 +58,7 @@ b.
 
 ###Artikel 5 
 
-1. De verklaring dat de aanvrager voldoet aan de vakbekwaamheidseisen bedoeld in [artikel 4, eerste lid, onderdeel b, van de wet](../../../../../../../wet/wet/assurantiebemiddelingsbedrijf/BWBR0004993/README.md) wordt afgegeven aan degene die
+1. De verklaring dat de aanvrager voldoet aan de vakbekwaamheidseisen bedoeld in artikel 4, eerste lid, onderdeel b, van de wet wordt afgegeven aan degene die
 
 a.ten minste 40 jaren oud is;
 

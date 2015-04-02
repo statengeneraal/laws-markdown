@@ -342,10 +342,7 @@ De in artikel 15 bedoelde persoon draagt zorg dat de medische hulpmiddelen die h
 
 ####Permanente rimpelvullers
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  16a  
-Treedt in werking per 01-01-2015 
 
 De toepassing van een rimpelvuller die levenslang in het lichaam aanwezig blijft, is verboden voor andere dan reconstructieve doeleinden. 
 

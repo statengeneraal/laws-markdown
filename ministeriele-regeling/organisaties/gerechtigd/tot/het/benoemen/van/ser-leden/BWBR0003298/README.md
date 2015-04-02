@@ -6,7 +6,7 @@ Wij JULIANA bij de gratie Gods. Koninginder nederlanden, prinses van Oranje-Nass
 
 Op de voordracht van Onze Minister van Sociale Zaken van 27 februari 1980, Directoraat-Generaal voor Algemene Beleidsaangelegenheden, Directie Bedrijfsorganisatie, Ondernemingsraden en Bezitsvorming, nr. 20.768, de Sociaal-Economische Raad gehoord;
 
-Gelet op [artikel 4, tweede, vijfde en zevende lid, van de Wet op de Bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+Gelet op artikel 4, tweede, vijfde en zevende lid, van de Wet op de Bedrijfsorganisatie;
 Hebben goedgevonden en verstaan:    
 
 ### Artikel  1  

@@ -6,7 +6,7 @@ Wij JULIANA, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Staatssecretaris van Economische Zaken en Onze Minister van Sociale Zaken van 16 Februari 1950, no. 11193 O.B., Directie voor Wetgeving en andere Juridische Aangelegenheden;
 
-Gelet op de [artikelen 4](../../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), vijfde lid, en [138, tweede lid, van de Wet op de Bedrijfsorganisatie](../../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md):
+Gelet op de artikelen 4, vijfde lid, en 138, tweede lid, van de Wet op de Bedrijfsorganisatie:
 Hebben goedgevonden en verstaan:     
 
 ### Artikel  1  

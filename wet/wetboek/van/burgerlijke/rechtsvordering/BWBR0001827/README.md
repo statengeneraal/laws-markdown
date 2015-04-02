@@ -5142,10 +5142,10 @@ Wordt tussen de belanghebbenden over de verdeling van een batig saldo geen overe
 1.  Voor de toepassing van deze afdeling wordt onder belanghebbende verstaan degene op wiens rechten of verplichtingen de zaak rechtstreeks betrekking heeft. Degene die niet de ouder is en de minderjarige op wie de zaak betrekking heeft gedurende ten minste een jaar als behorende tot zijn gezin verzorgt en opvoedt, wordt aangemerkt als belanghebbende.   
 2.   In zaken van curatele, onderbewindstelling of mentorschap worden onder belanghebbenden bovendien verstaan de echtgenoot, de geregistreerde partner of andere levensgezel en de kinderen of, bij gebreke van dezen, de ouders, broers en zusters van degene wiens curatele, goederen of mentorschap het betreft.   
 
-###Artikel 799 
+### Artikel  799  
 
-1. Onverminderd het bepaalde in artikel 278, eerste lid, bevat een verzoekschrift de namen en, voor zover bekend, de voornamen en de woonplaats van de belanghebbenden, alsmede van anderen wier verklaring in verband met de beoordeling van het verzoek van betekenis kan zijn. 
-2.  Bij de indiening van het verzoekschrift ter griffie worden, voor zover nodig, overgelegd de bescheiden die kunnen dienen tot bewijs van de gestelde feiten. Eveneens worden de nodige afschriften van het verzoekschrift en de bescheiden overgelegd. 
+1.  Onverminderd het bepaalde in artikel 278, eerste lid, bevat een verzoekschrift de namen en, voor zover bekend, de voornamen en de woonplaats van de belanghebbenden, alsmede van anderen wier verklaring in verband met de beoordeling van het verzoek van betekenis kan zijn.    
+2.   Bij de indiening van het verzoekschrift ter griffie worden, voor zover nodig, overgelegd de bescheiden die kunnen dienen tot bewijs van de gestelde feiten. Eveneens worden de nodige afschriften van het verzoekschrift en de bescheiden overgelegd.   
 
 ### Artikel  799a  
 

@@ -71,18 +71,14 @@ h.  de wijze van toezicht, begeleiding en evaluatie.
 
 ### Artikel  6  
 
-1.  De activiteiten in het kader van een scholing- en trainingsprogramma kunnen aangeboden worden door de reclassering, de stichting bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg, een werkgever of een derde organisatie.   
-2.  Indien het scholings- en trainingsprogramma of een substantieel gedeelte daarvan uitgevoerd wordt door een derde-organisatie die: 
+1.  De activiteiten in het kader van een scholing- en trainingsprogramma kunnen aangeboden worden door de reclassering, de gecertificeerde instelling, bedoeld in artikel 1.1 van de Jeugdwet, een werkgever of een derde organisatie.   
+2.  Bij de aanvraag om erkenning van het scholings- en trainingsprogramma vermeldt de organisatie de erkenning of toelating, indien het scholings- en trainingsprogramma of een substantieel gedeelte daarvan uitgevoerd wordt door een derde-organisatie die: 
 
 a.  op grond van de Wet bijzondere opnemingen psychiatrische ziekenhuizen als zorginstelling is aangemerkt; 
 
-b.een instelling is als bedoeld in artikel 1, eerste lid, onderdeel f, van de Wet toelating zorginstellingen die is toegelaten voor het verlenen van zorg waarop aanspraak bestaat ingevolge artikel 6 van de Algemene Wet Bijzondere Ziektekosten; 
+b.een instelling is als bedoeld in artikel 1, eerste lid, onderdeel f, van de Wet toelating zorginstellingen die is toegelaten voor het verlenen van zorg als bedoeld in artikel 3.1.1 van de Wet langdurige zorg; 
 
-c.  door het ministerie van Onderwijs, Cultuur en Wetenschap is erkend als onderwijsinstelling; 
-
-d.  op grond van de Wet op de jeugdzorg erkend is; 
-
-e.  vermeldt de organisatie bij de aanvraag om erkenning van het scholings- en trainingsprogramma de erkenning of toelating.    
+c.  door het ministerie van Onderwijs, Cultuur en Wetenschap is erkend als onderwijsinstelling.    
 3.  Indien het scholing- en trainingsprogramma of een substantieel gedeelte daarvan uitgevoerd wordt door een derde-organisatie, die niet door een in het tweede lid genoemd Ministerie of krachtens een daar genoemde wet erkend of toegelaten is, wordt bij de aanvraag om erkenning van het scholings- en trainingsprogramma de betrouwbaarheid van de derde-organisatie getoetst.   
 
 ### Artikel  7  

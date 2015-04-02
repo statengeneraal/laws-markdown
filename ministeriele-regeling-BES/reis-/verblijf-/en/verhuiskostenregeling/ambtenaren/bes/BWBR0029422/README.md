@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 5 januari 2011, nr. 2010-0000006667, houdende vaststelling van de reis- en verblijfkosten wegens dienstreizen van ambtenaren in dienst van de staat en werkzaam in de openbare lichamen Bonaire, Sint Eustatius en Saba (Reis-, verblijf- en verhuiskostenregeling ambtenaren BES)
 
 De Minister van Binnenlandse Zaken en Koninkrijksrelaties,  
-Gelet op [artikel 73](../../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) en [73a, derde lid, van de Wet materieel ambtenarenrecht BES](../../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md);
+Gelet op artikel 73 en 73a, derde lid, van de Wet materieel ambtenarenrecht BES;
 Besluit:    
 
 ### Artikel  1  
@@ -14,13 +14,28 @@ Besluit:
 
 ### Artikel  2  
 
-1.  De ambtenaren genieten vergoeding voor verblijfkosten.   
+1.  Tenzij het bevoegd gezag heeft bepaald dat alleen werkelijk gedane uitgaven vergoed worden of een andere bijzondere regeling is getroffen, heeft de ambtenaar bij een dienstreis vergoeding voor verblijfkosten. De vergoeding voor verblijfkosten per dag bedraagt, exclusief de kosten voor een hotelovernachting: 
+
+a. USD 95,00 bij reizen naar een ander openbaar lichaam, naar Aruba, Curaçao of Sint Maarten;  
+
+b. USD 130,00 bij reizen naar landen behorend tot de Europese Unie; en  
+
+c. USD 120,00 bij reizen naar overige buitenlandse bestemmingen.     
 2.  De dienstreis vangt aan zodra de ambtenaar het openbaar lichaam of land van bestemming bereikt en eindigt op het moment dat het openbaar lichaam of land van bestemming wordt verlaten.   
-3.  Voor reizen, die twaalf uren of korter hebben geduurd, wordt slechts vergoeding voor verblijfkosten voor een halve dag verleend, wanneer de reis gemaakt wordt naar een bestemming buiten het openbaar lichaam dat als standplaats is aangewezen, alwaar tegen betaling een maaltijd is gebruikt.   
-4.  Indien de reis langer dan 12 uren en ten hoogste 24 uren duurt, wordt de vergoeding voor verblijfkosten voor een gehele dag in rekening gebracht.   
-5.  Bij reizen langer dan 24 uren wordt een halve dag in rekening gebracht voor de dag, waarop de reis na 12 uur 's middags aanvangt, zomede voor de dag, waarop de terugkeer vóór 12 uur 's middags plaats vindt.   
-6.  Bij een langere duur der reis dan 21 dagen en voor reizen naar plaatsen buiten de openbare lichamen wordt de vergoeding door het bevoegd gezag voor elk geval afzonderlijk bepaald.   
-7.  Voor zover in de reiskosten, welke vergoed worden, ook de kosten van voeding begrepen zijn, wordt 1/3 van de verblijfkosten volgens de schaal van artikel 13 genoten.  
+3.  Voor een dienstreis van twaalf uur of korter wordt slechts vergoeding voor verblijfkosten voor een halve dag verleend; geen vergoeding wordt verleend indien in het openbaar lichaam of land van bestemming niet tegen betaling een maaltijd is gebruikt.   
+4.  Voor een dienstreis van langer dan twaalf uur en korter dan vierentwintig uur wordt de vergoeding voor verblijfkosten voor een hele dag verleend.   
+5.  Bij een dienstreis van langer dan vierentwintig uur wordt zowel voor de dag waarop de reis na twaalf uur ’s middags aanvangt als voor de dag waarop de terugkeer vóór twaalf uur ’s middags plaatsvindt de vergoeding voor verblijfkosten voor een halve dag verleend.   
+6.  In afwijking van het eerste lid wordt bij een dienstreis van meer dan eenentwintig dagen binnen het Caribisch deel van Nederland alsmede voor reizen naar plaatsen buiten het Caribisch deel van Nederland de vergoeding voor verblijfskosten door het bevoegd gezag voor elk afzonderlijk geval bepaald.   
+7.  Voor zover in de vergoeding voor de reiskosten ook de kosten van voeding zijn begrepen, heeft de ambtenaar in afwijking van het eerste lid slechts aanspraak op een derde van de vergoeding voor verblijfkosten.  
+
+### Artikel  2a  
+
+1.  Bij een dienstreis binnen het Caribisch deel van Nederland van meer dan dertig dagen draagt het bevoegd gezag zo mogelijk zorg voor een ingerichte woning in het openbaar lichaam van bestemming. De volgende zaken worden vergoed door het bevoegd gezag: huur, water, elektra en internet.   
+2.  Ingeval de ambtenaar door toepassing van het eerste lid de beschikking heeft over een ingerichte woning, bedraagt de vergoeding voor verblijfskosten in afwijking van artikel 2, zesde lid, vanaf de dag dat de ambtenaar het openbaar lichaam van bestemming bereikt per dag USD 55,00.  
+
+### Artikel  2b  
+
+Bij een dienstreis binnen het Caribisch deel van Nederland van langer dan dertig dagen heeft de ambtenaar een maal per maand aanspraak op vergoeding van de reiskosten van het openbaar lichaam van bestemming naar zijn standplaats en terug. Artikel 1 is van overeenkomstige toepassing. 
 
 ### Artikel  3  
 
@@ -71,18 +86,7 @@ Het bevoegd gezag kan niet-ambtenaren die in zijn opdracht diensten verrichten v
 
 ### Artikel  9  
 
-1.  De vergoeding voor verblijfkosten bedraagt per dag, exclusief de kosten voor een hotelovernachting: 
-
-a. bij reizen naar de openbare lichamen, naar Curaçao, Aruba of St. Maarten $ 95,  
-
-b. bij reizen naar landen behorend tot de Europese unie $ 130 en  
-
-c. bij de overige reizen naar buitenlandse bestemmingen $ 120.     
-2.  Indien de ambtenaar ter overnachting van een hotel gebruik moet maken, worden hem boven de in het eerste lid bedoelde vergoeding, tegen overlegging van de betaalde rekeningen, de door hem gemaakte werkelijke kosten voor overnachting, zonder maaltijden, vergoed.  
-
-### Artikel  10  
-
-De in artikel 9 bedoelde vergoeding voor verblijfkosten wordt niet genoten door ambtenaren, voor wie door het bevoegd gezag is bepaald, dat alleen de werkelijk gedane uitgaven vergoed worden of een andere bijzondere regeling is getroffen. 
+Indien de ambtenaar ter overnachting van een hotel gebruik moet maken, worden hem boven de in artikel 2, eerste lid, tegen overlegging van de betaalde rekeningen, de door hem gemaakte werkelijke kosten voor overnachting, zonder maaltijden, vergoed. 
 
 ### Artikel  11  
 
@@ -91,6 +95,10 @@ De declaraties wegens reis- en verblijfkosten vermelden dag en uur waarop de rei
 ### Artikel  12  
 
 Deze regeling wordt aangehaald als: Reis- verblijf- en verhuiskostenregeling ambtenaren BES. 
+
+### Artikel  12a  
+
+Deze regeling berust op de artikelen 66, onder a, 67, derde lid, onder a, en 68, tweede lid, onder a, van het Rechtspositiebesluit ambtenaren BES. 
 
 ### Artikel  13  
 

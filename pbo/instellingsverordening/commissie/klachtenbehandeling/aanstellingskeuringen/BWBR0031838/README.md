@@ -3,7 +3,7 @@
 ##Verordening van de Sociaal-Economische Raad van 15 juni 2012 tot instelling van de Commissie klachtenbehandeling Aanstellingskeuringen (Instellingsverordening Commissie Klachtenbehandeling Aanbestellingskeuringen)
 
 De Sociaal-Economische Raad;  
-Gelet op de [artikelen 3](../../../../../../AMvB/besluit/klachtenbehandeling/aanstellingskeuringen/BWBR0013030/README.md) en [4 van het Besluit klachtenbehandeling aanstellingskeuringen](../../../../../../AMvB/besluit/klachtenbehandeling/aanstellingskeuringen/BWBR0013030/README.md), alsmede [artikel 36 van de Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+Gelet op de artikelen 3 en 4 van het Besluit klachtenbehandeling aanstellingskeuringen, alsmede artikel 36 van de Wet op de bedrijfsorganisatie;
 Besluit:    
 ###§ 1 
 
@@ -25,7 +25,7 @@ c.commissie: de Commissie Klachtenbehandeling Aanstellingskeuringen, genoemd in 
 
 ###Artikel 2 
 
-Er is een Commissie Klachtenbehandeling Aanstellingskeuringen, die belast is met de behandeling van klachten over keuringen als bedoeld in [artikel 4, eerste lid, van de Wet op de medische keuringen](../../../../../../wet/wet/op/de/medische/keuringen/BWBR0008819/README.md). 
+Er is een Commissie Klachtenbehandeling Aanstellingskeuringen, die belast is met de behandeling van klachten over keuringen als bedoeld in artikel 4, eerste lid, van de Wet op de medische keuringen. 
 
 ###Artikel 3 
 
@@ -63,12 +63,12 @@ De commissie stelt een regeling van werkzaamheden vast, waarin in ieder geval de
 ###Artikel 7 
 
 1. De voorzitter, de leden en de plaatsvervangende leden van de commissie ontvangen voor hun deelname aan vergaderingen en hoorzittingen een vacatievergoeding en een vergoeding voor reis- en verblijfkosten. 
-2. De vacatievergoeding en de vergoeding voor reis- en verblijfkosten zijn gelijk aan de vergoedingen die de leden van de Raad, het dagelijks bestuur en de commissies ontvangen op grond van de bij of krachtens [artikel 9 van de Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) gestelde regels. 
+2. De vacatievergoeding en de vergoeding voor reis- en verblijfkosten zijn gelijk aan de vergoedingen die de leden van de Raad, het dagelijks bestuur en de commissies ontvangen op grond van de bij of krachtens artikel 9 van de Wet op de bedrijfsorganisatie gestelde regels. 
 3. De voorzitter, leden en plaatsvervangende leden van de CKA ontvangen als vergoeding voor representatiekosten:
 
-a.de voorzitter en de leden: maandelijks een vergoeding ter hoogte van het maximumbedrag op maandbasis dat de leden van de Raad bij of krachtens [artikel 9 van de Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) ontvangen;
+a.de voorzitter en de leden: maandelijks een vergoeding ter hoogte van het maximumbedrag op maandbasis dat de leden van de Raad bij of krachtens artikel 9 van de Wet op de bedrijfsorganisatie ontvangen;
 
-b.de plaatsvervangende leden: maandelijks een vergoeding ter hoogte van de helft van het maximumbedrag op maandbasis dat de leden van de Raad bij of krachtens [artikel 9 van de Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) ontvangen.
+b.de plaatsvervangende leden: maandelijks een vergoeding ter hoogte van de helft van het maximumbedrag op maandbasis dat de leden van de Raad bij of krachtens artikel 9 van de Wet op de bedrijfsorganisatie ontvangen.
 
 ###§ 4 
 
@@ -76,7 +76,7 @@ b.de plaatsvervangende leden: maandelijks een vergoeding ter hoogte van de helft
 
 ###Artikel 8 
 
-Indien het bij koninklijke boodschap van 14 oktober 2011 ingediende voorstel van wet tot wijziging van de Wet op de medische keuringen in verband met het opnemen van de mogelijkheid tot onderbrenging van de klachtenbehandeling bij aanstellingskeuringen bij de Sociaal-Economische Raad en enige andere wijzigingen (Kamerstukken 33050) tot wet is of wordt verheven en die wet in werking treedt, treedt deze verordening in werking op het tijdstip waarop de met de wetswijziging verband houdende wijzigingen van het [Besluit klachtenbehandeling aanstellingskeuringen](../../../../../../AMvB/besluit/klachtenbehandeling/aanstellingskeuringen/BWBR0013030/README.md) in werking treden. 
+Indien het bij koninklijke boodschap van 14 oktober 2011 ingediende voorstel van wet tot wijziging van de Wet op de medische keuringen in verband met het opnemen van de mogelijkheid tot onderbrenging van de klachtenbehandeling bij aanstellingskeuringen bij de Sociaal-Economische Raad en enige andere wijzigingen (Kamerstukken 33050) tot wet is of wordt verheven en die wet in werking treedt, treedt deze verordening in werking op het tijdstip waarop de met de wetswijziging verband houdende wijzigingen van het Besluit klachtenbehandeling aanstellingskeuringen in werking treden. 
 
 ###Artikel 9 
 

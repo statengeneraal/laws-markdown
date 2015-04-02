@@ -51,16 +51,9 @@ Deze paragraaf is van toepassing op de topfunctionarissen in het onderwijs.
 
 ####Bezoldigingsmaxima topfunctionarissen in het onderwijs
 
-1. In afwijking van artikel 2.3, eerste lid, van de wet komen partijen geen bezoldiging overeen die per kalenderjaar meer bedraagt dan: 
-
-a. € 165.901 voor de topfunctionarissen in het primair onderwijs;  
-
-b. € 184.448 voor de topfunctionarissen in het voortgezet onderwijs;  
-
-c. € 199.905 voor de topfunctionarissen in het beroepsonderwijs en educatie; en  
-
-d. € 199.905 voor de topfunctionarissen van de hogescholen.    
-2.  Voor de topfunctionarissen in het wetenschappelijk onderwijs komen partijen geen bezoldiging overeen die per kalenderjaar meer bedraagt dan het bezoldigingsmaximum, bedoeld in artikel 2.3 van de wet. 
+1.  In afwijking van artikel 2.3, eerste lid, van de wet komen partijen geen bezoldiging overeen die per kalenderjaar meer bedraagt dan € 165.901 voor de topfunctionarissen in het primair onderwijs.   
+2.  Voor de topfunctionarissen in het voortgezet onderwijs, de topfunctionarissen in het beroepsonderwijs en educatie en de topfunctionarissen van de hogescholen is het bezoldigingsmaximum, bedoeld in artikel 2.3, eerste lid, van de wet van toepassing.  
+3.  Voor de topfunctionarissen in het wetenschappelijk onderwijs komen partijen geen bezoldiging overeen die per kalenderjaar meer bedraagt dan het bezoldigingsmaximum, bedoeld in artikel 2.3 van de wet, zoals dat luidde op 31 december 2014. 
 
 ### Artikel  4  
 
@@ -96,15 +89,15 @@ a. € 123.024 voor zover het betreft
 
 2°. het Nederlands Letterenfonds, of  
 
-3°. het Stimuleringsfonds Creatieve Industrie; of  
-
-4°. het Nederlands Fonds voor de Film; en    
+3°. het Stimuleringsfonds Creatieve Industrie, en    
 
 b. € 147.629 voor zover het betreft 
 
-1°. het Mondriaan Fonds, of  
+1°. het Mondriaan Fonds,  
 
-2°. het Nederlands Fonds voor Podiumkunsten+.     
+2°. het Nederlands Fonds voor de film, of
+
+3°. het Nederlands Fonds voor Podiumkunsten+.     
 
 ### Paragraaf  3  
 
@@ -115,7 +108,9 @@ b. € 147.629 voor zover het betreft
 ####Toezicht en handhaving door de Inspectie van het onderwijs
 
 1.  De inspecteur-generaal van het onderwijs en de ambtenaren van de Inspectie van het onderwijs die zijn belast met de uitoefening van de taken, bedoeld in artikel 3, tweede lid, van de Wet op het onderwijstoezicht, zijn belast met het toezicht op de naleving van de wet, het besluit en deze regeling, ten aanzien van de rechtspersonen, genoemd onder de nummers 1 tot en met 9 en 14, 15, en 17 in bijlage 1 van de wet onder het opschrift ‘Ministerie van Onderwijs, Cultuur en Wetenschap’ en de nummers 1 tot en met 3 onder het opschrift ‘Ministerie van Economische Zaken, Landbouw en Innovatie’.   
-2.  De inspecteur-generaal van het onderwijs is gemandateerd om ten aanzien van de rechtspersonen waarop hij toezicht houdt, de bevoegdheden aan te wenden, bedoeld in de artikelen 5.4, eerste lid, 5.5, eerste tot en met vierde lid, en 5.6, eerste en derde lid, van de wet.  
+2.  De inspecteur-generaal van het onderwijs is gemandateerd om ten aanzien van de rechtspersonen waarop hij toezicht houdt, de bevoegdheden aan te wenden, bedoeld in de artikelen 5.4, eerste lid, 5.5, eerste tot en met vierde lid, en 5.6, eerste en derde lid, van de wet.   
+3.  De inspecteur-generaal van het onderwijs kan ten aanzien van de aan hem toekomende bevoegdheden, bedoeld in het tweede lid, ondermandaat verlenen.   
+4.  De inspecteur-generaal van het onderwijs is bevoegd te beslissen op een bezwaarschrift dat is ingediend tegen een in ondermandaat genomen besluit ter aanwending van de bevoegdheden, bedoeld in het tweede lid.  
 
 ### Artikel  7  
 
@@ -198,7 +193,7 @@ Voor instellingen in de sector erfgoed en kunsten worden de volgende personen be
 
 a. de directeur en plaatsvervangend directeur van de directie erfgoed en kunsten;  
 
-b. de ambtenaren, werkzaam bij de afdeling financiën en control van de directie media en creatieve industrie.   
+b. de ambtenaren, werkzaam bij de afdeling sectoraal beleid van de directie erfgoed en kunsten.   
 
 ### Artikel  7i  
 
@@ -208,7 +203,11 @@ Voor instellingen in de sector media en creatieve industrie worden de volgende p
 
 a. de directeur en plaatsvervangend directeur van de directie media en creatieve industrie;  
 
-b. de ambtenaren, werkzaam bij de afdeling financiën en control van de directie media en creatieve industrie.   
+b. de ambtenaren, werkzaam bij de afdeling financiën en control van de directie media en creatieve industrie;  
+
+c. de ambtenaren, werkzaam bij de afdeling informatie- en bibliotheekbeleid van de directie media en creatieve industrie;  
+
+d. de ambtenaren, werkzaam bij de afdeling mediabeleid van de directie media en creatieve industrie.  
 
 ### Artikel  7j  
 
@@ -233,8 +232,6 @@ b. de controller van de directie internationaal beleid.
 ### Artikel  7k.1  
 
 ####Cultuurfondsen
-
-Treedt in werking per 01-01-2015 
 
 1.  Voor instellingen die worden gesubsidieerd door een fonds als bedoeld in artikel 5b worden, voor zover de wet op die instelling van toepassing is, de leden van het bestuur van het betreffende fonds belast met het toezicht op de naleving van de wet, het besluit en de regeling.   
 2.  Indien meer dan één van de in het eerste lid bedoelde fondsen subsidie verstrekken aan een instelling als bedoeld in het eerste lid, is het fonds dat de hoogste subsidie verstrekt aan de instelling belast met het toezicht op de naleving van de wet, het besluit en de regeling.  

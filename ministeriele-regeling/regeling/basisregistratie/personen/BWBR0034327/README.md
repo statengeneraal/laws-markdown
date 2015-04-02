@@ -31,16 +31,16 @@ c.  *de minister:* de Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
 De systeembeschrijving wordt gevormd door: 
 
-a. de in bijlage 1 bij deze regeling genoemde onderdelen van het Logisch Ontwerp GBA, versie 3.8, bedoeld in artikel 3, eerste lid;  
+a. de in bijlage 1 bij deze regeling genoemde onderdelen van het Logisch Ontwerp GBA, versie 3.9, bedoeld in artikel 3, eerste lid;  
 
-b. de in bijlage 2 bij deze regeling genoemde onderdelen van het Logisch Ontwerp RNI, versie 2.10.02, bedoeld in artikel 3, tweede lid;  
+b. de in bijlage 2 bij deze regeling genoemde onderdelen van het Logisch Ontwerp RNI, versie 2.11, bedoeld in artikel 3, tweede lid;  
 
 c. de hoofdstukken 3 en 4 van de in bijlage 3 bij deze regeling opgenomen beschrijving van de wijze waarop de in de bijlagen 1 en 2 bedoelde onderdelen worden toegepast.   
 
 ### Artikel  3  
 
-1.  Het Logisch Ontwerp GBA, versie 3.8, is opgenomen in bijlage 4 bij deze regeling.   
-2.  Het Logisch Ontwerp RNI, versie 2.10.02, is opgenomen in bijlage 5 bij deze regeling.  
+1.  Het Logisch Ontwerp GBA, versie 3.9, is opgenomen in bijlage 4 bij deze regeling.   
+2.  Het Logisch Ontwerp RNI, versie 2.11, is opgenomen in bijlage 5 bij deze regeling.  
 
 ### §  3  
 
@@ -156,11 +156,11 @@ Het model van het verhuisbericht, bedoeld in artikel 2.21, vijfde lid, van de We
 
 ### Artikel  17  
 
-Als instellingen voor gezondheidszorg als bedoeld in artikel 2.40, derde lid, onderdeel a, van de Wet BRP, worden aangewezen: de instellingen, bedoeld in artikel 1, onder 14 en 18, van het Uitvoeringsbesluit WTZi. 
+Als instellingen voor gezondheidszorg als bedoeld in artikel 2.40, derde lid, onderdeel a, van de Wet BRP, worden aangewezen: de instellingen, bedoeld in artikel 1.2, onder 14 en 18, van het Uitvoeringsbesluit WTZi. 
 
 ### Artikel  18  
 
-Als instellingen op het gebied van de kinderbescherming als bedoeld in artikel 2.40, derde lid, onderdeel b, van de Wet BRP, worden aangewezen: de justitiële jeugdinrichtingen, bedoeld in artikel 3a van de Beginselenwet justitiële jeugdinrichtingen, en accommodaties als bedoeld in artikel 29k, eerste lid, van de Wet op de jeugdzorg. 
+Als instellingen op het gebied van de kinderbescherming als bedoeld in artikel 2.40, derde lid, onderdeel b, van de Wet BRP, worden aangewezen: de justitiële jeugdinrichtingen, bedoeld in artikel 3a van de Beginselenwet justitiële jeugdinrichtingen, en gesloten accommodaties als bedoeld in artikel 1.1 van de Jeugdwet. 
 
 ### Artikel  19  
 
@@ -340,11 +340,13 @@ R.H.A. Plasterk
 
 ### Bijlage  1  
 
-####De onderdelen van het Logisch Ontwerp GBA, versie 3.8, die deel uitmaken van de systeembeschrijving
+####De onderdelen van het Logisch Ontwerp GBA, versie 3.9, die deel uitmaken van de systeembeschrijving
 
 ####Bijlage bij artikel 2, onderdeel a 
 
 De onderdelen van het Logisch Ontwerp GBA, die deel uitmaken van de systeembeschrijving: 
+
+–Hoofdstuk 1 (Inleiding), uitsluitend paragraaf 1.1
 
 – Hoofdstuk 2 (Inschrijving), uitsluitend de paragrafen 2.2. en 2.3  
 
@@ -368,6 +370,10 @@ De onderdelen van het Logisch Ontwerp GBA, die deel uitmaken van de systeembesch
 
 – Bijlage IV (Netwerk en alternatieve media)  
 
+– Bijlage A3 (Conversieprocedure nationaliteitsgegevens)  
+
+– Bijlage A4 (Conversieprocedure reisdocumenten) 
+
 – Bijlage C (GBA Verstrekkingen), met uitzondering van paragraaf C.1  
 
 – Bijlage D (De terugmeldvoorziening)  
@@ -376,17 +382,21 @@ De onderdelen van het Logisch Ontwerp GBA, die deel uitmaken van de systeembesch
 
 ### Bijlage  2  
 
-####De onderdelen van het Logisch Ontwerp RNI, versie 2.10.02, die deel uitmaken van de systeembeschrijving
+####De onderdelen van het Logisch Ontwerp RNI, versie 2.11, die deel uitmaken van de systeembeschrijving
 
 ####Bijlage bij artikel 2, onderdeel b 
 
 De onderdelen van het Logisch Ontwerp RNI, die deel uitmaken van de systeembeschrijving: 
+
+–Hoofdstuk 1 (Inleiding), uitsluitend paragraaf 1.1
 
 – Hoofdstuk 2 (Inschrijving), uitsluitend de paragrafen 2.2. en 2.3  
 
 – Hoofdstuk 3 (Actualiseren), met uitzondering van de paragrafen 3.15, 3.16, 3.18 en 3.19  
 
 – Hoofdstuk 4 (Privacyprocedures)  
+
+–Hoofdstuk 5 (Autorisatie- en routeringssysteem)
 
 – Hoofdstuk 6 (Berichtenafhandelingssysteem)  
 
@@ -505,19 +515,19 @@ De passages in de onderdelen die het voldoen aan deze verzoeken beperken tot de 
 
 De in de systeembeschrijving aangewezen onderdelen van het LO RNI komen grotendeels overeen met de aangewezen onderdelen van het LO GBA. Dit betekent dat wat hiervoor in hoofdstuk 3 is beschreven omtrent de toepassing van de aangewezen onderdelen van het LO GBA in beginsel ook geldt voor de beschrijving van de toepassing van de desbetreffende aangewezen onderdelen van het LO RNI. Wat betreft het ARS, dat in het LO RNI van toepassing is verklaard, houdt het voorgaande in dat het ARS de hiervoor in hoofdstuk 3, onder a, beschreven rol in het LO GBA ook vervult in het LO RNI bij de berichtuitwisseling tussen het RNI-systeem en de gemeenten, het RNI-systeem en GBA-V, het RNI-systeem en het agentschap BPR (in verband met de tabelberichten) en het RNI-systeem en de IND (de berichtuitwisseling in verband met de levering van verblijfstitels). 
 
-### Bijlage  4  
+### Bijlage 4 
 
-####Het Logisch Ontwerp GBA, versie 3.8
+####Logisch Ontwerp GBA, versie 3.9
 
 ####Bijlage bij artikel 3, eerste lid 
 
 Deze bijlage wordt ter inzage gelegd en tevens via www.bprbzk.nl beschikbaar gesteld. 
 
-### Bijlage  5  
+### Bijlage 5 
 
-####Het Logisch Ontwerp RNI, versie 2.10.02
+####Het Logisch Ontwerp RNI, versie 2.11
 
-####Bijlage bij artikel 3, tweede lid 
+####Bijlage bij artikel 3, tweede lid
 
 Deze bijlage wordt ter inzage gelegd en tevens via www.bprbzk.nl beschikbaar gesteld. 
 
@@ -546,7 +556,7 @@ Deze bijlage wordt ter inzage gelegd en tevens via www.bprbzk.nl beschikbaar ges
 | Aangifte van (her)vestiging in Nederland, van adreswijziging (niet zijnde emigratie) en overige bescheiden betreffende het verblijf en het adres  | 5 jaar  |
 | Bescheiden betreffende het aanwijzen van instellingen, bedoeld in artikel 2.40 of 2.42, onderdeel b, van de Wet BRP  | 1 jaar na vervallen van de verplichting of opheffing van de instelling  |
 | Bescheiden betreffende het bezit van een buitenlands reisdocument  | 5 jaar  |
-| Bescheiden betreffende het opnemen of wijzigen van gegevens met betrekking tot Nederlandse reisdocumenten, voor zover deze gegevens niet in de reisdocumentenadministratie ingevolge de Paspoortwet worden opgenomen  | 11 jaar  |
+| Bescheiden betreffende het opnemen of wijzigen van gegevens met betrekking tot Nederlandse reisdocumenten, voor zover deze gegevens niet in de reisdocumentenadministratie ingevolge de Paspoortwet worden opgenomen  | 16 jaar  |
 | Bescheiden betreffende het Nederlands kiesrecht  | 1 jaar  |
 | Bescheiden betreffende het Europees kiesrecht  | 10 jaar  |
 | Verzoeken betreffende de toepassing van artikel 3.21 van de Wet BRP  | 5 jaar  |
@@ -563,7 +573,7 @@ De aantekeningen in verband met het verblijfsrecht van de vreemdeling:
 
 a. de aantekening dat de ingeschrevene ingevolge artikel 8, onderdeel a, van de Vreemdelingenwet 2000 rechtmatig verblijf heeft op grond van een verblijfsvergunning voor bepaalde tijd, waarbij het de ingeschrevene is toegestaan elke vorm van arbeid in loondienst te verrichten;  
 
-b. de aantekening dat de ingeschrevene ingevolge artikel 8, onderdeel a, van de Vreemdelingenwet 2000 rechtmatig verblijf heeft op grond van een verblijfsvergunning voor bepaalde tijd, waarbij het de ingeschrevene is toegestaan elke vorm van arbeid in loondienst te verrichten, mits de werkgever van de ingeschrevene beschikt over een daartoe vereiste tewerkstellingsvergunning;  
+b.de aantekening dat de ingeschrevene ingevolge artikel 8, onderdeel a, van de Vreemdelingenwet 2000 rechtmatig verblijf heeft op grond van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 14 van die wet, waarbij het de ingeschrevene is toegestaan elke vorm van arbeid in loondienst te verrichten, mits de werkgever van de ingeschrevene beschikt over een daartoe vereiste tewerkstellingsvergunning of mits de ingeschrevene beschikt over een daartoe vereiste gecombineerde vergunning als bedoeld in artikel 1 van de Vreemdelingenwet 2000; 
 
 c. de aantekening dat de ingeschrevene ingevolge artikel 8, onderdeel a, van de Vreemdelingenwet 2000 rechtmatig verblijf heeft op grond van een verblijfsvergunning voor bepaalde tijd, waarbij het de ingeschrevene is toegestaan bepaalde vormen van arbeid in loondienst te verrichten;  
 
@@ -603,7 +613,7 @@ t. de aantekening dat de ingeschrevene ingevolge artikel 8.17 van het Vreemdelin
 
 u. de aantekening dat de ingeschrevene ingevolge artikel 8, onderdeel h, van de Vreemdelingenwet 2000 rechtmatig verblijf heeft gedurende de geldigheid van een door de president van het Europese Hof voor de Rechten van de Mens getroffen voorlopige maatregel, waarin is bepaald dat de vreemdeling niet mag worden uitgezet, waarbij het de ingeschrevene niet is toegestaan om arbeid in loondienst te verrichten;  
 
-v. de aantekening dat de ingeschrevene ingevolge artikel 8, onderdeel m, van de Vreemdelingenwet 2000 rechtmatig verblijf heeft in afwachting van de indiening van een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in artikel 28 van die wet;  
+v.De aantekening dat de ingeschrevene ingevolge artikel 8, onderdeel m, van de Vreemdelingenwet 2000 rechtmatig verblijf heeft na afwijzing van de aanvraag tot het verlenen van een verblijfsvergunning op grond van artikel 30, eerste lid, onder a, van de Vreemdelingenwet 2000 terwijl hij in afwachting is van de feitelijke overdracht naar een verantwoordelijke lidstaat in de zin van de Dublinverordening; 
 
 w. de aantekening dat de ingeschrevene rechtmatig verblijf heeft ingevolge de Vreemdelingenwet 2000 op aanwijzing van de Minister van Veiligheid en Justitie, niet zijnde een verblijf op grond van een verblijfsvergunning of de aanvraag van een verblijfsvergunning of een verblijf op grond van internationale verplichtingen en verdragen;  
 
@@ -650,6 +660,8 @@ y. de aantekening dat het verblijfsrecht van de niet-ingezetene niet is bepaald.
 | gemeentecode van de gemeente die het burgerservicenummer heeft ontleend  | X  | X  |
 | Overige gegevens  | aanduiding van de persoonslijst waarop zijn opgenomen de administratieve gegevens over het geschrift, waaraan algemene gegevens over de burgerlijke staat van de ouders, de echtgenoot dan wel de geregistreerde partner, de eerdere echtgenoten, de eerdere geregistreerde partners of de kinderen zijn ontleend  | X  | --- |
 | gemeentecode van de gemeente die op een persoonslijst een aanduiding van een andere persoonslijst heeft opgenomen  | X  | --- |
+|reden opname nationaliteit |X |X |
+|reden beëindigen nationaliteit |X |X |
 | datum van opneming van een algemeen gegeven  | X  | X  |
 | reden opschorting verwerking van gegevens op de persoonslijst  | X  | X  |
 | datum opschorting verwerking van gegevens op de persoonslijst  | X  | X  |
@@ -710,32 +722,33 @@ Het verhuisbericht dat moet worden verstrekt aan een persoon die in de aangifte 
 
 – adres-, e-mail- en telefoongegevens van de gemeente van vertrek.     
 
-### Bijlage  10  
+### Bijlage 10 
 
 ####Het autorisatie-aanvraagformulier
 
 ####Bijlage bij artikel 20 
 
-![252898](http://wetten.overheid.nl/Illustration/252898)
-![252899](http://wetten.overheid.nl/Illustration/252899)
-![252900](http://wetten.overheid.nl/Illustration/252900)
-![252901](http://wetten.overheid.nl/Illustration/252901)
-![252902](http://wetten.overheid.nl/Illustration/252902)
-![252903](http://wetten.overheid.nl/Illustration/252903)
-![252904](http://wetten.overheid.nl/Illustration/252904)
-![252905](http://wetten.overheid.nl/Illustration/252905)
-![252906](http://wetten.overheid.nl/Illustration/252906)
-![252907](http://wetten.overheid.nl/Illustration/252907)
-![252908](http://wetten.overheid.nl/Illustration/252908)
-![252909](http://wetten.overheid.nl/Illustration/252909)
-![252910](http://wetten.overheid.nl/Illustration/252910)
-![252911](http://wetten.overheid.nl/Illustration/252911)
-![252912](http://wetten.overheid.nl/Illustration/252912)
-![252913](http://wetten.overheid.nl/Illustration/252913)
-![252914](http://wetten.overheid.nl/Illustration/252914)
-![252915](http://wetten.overheid.nl/Illustration/252915)
-![252916](http://wetten.overheid.nl/Illustration/252916)
-![252917](http://wetten.overheid.nl/Illustration/252917)
-![252918](http://wetten.overheid.nl/Illustration/252918)
-![252919](http://wetten.overheid.nl/Illustration/252919)
+![254937](http://wetten.overheid.nl/Illustration/254937)
+![254938](http://wetten.overheid.nl/Illustration/254938)
+![254939](http://wetten.overheid.nl/Illustration/254939)
+![254940](http://wetten.overheid.nl/Illustration/254940)
+![254941](http://wetten.overheid.nl/Illustration/254941)
+![254942](http://wetten.overheid.nl/Illustration/254942)
+![254943](http://wetten.overheid.nl/Illustration/254943)
+![254944](http://wetten.overheid.nl/Illustration/254944)
+![254960](http://wetten.overheid.nl/Illustration/254960)
+![254946](http://wetten.overheid.nl/Illustration/254946)
+![254947](http://wetten.overheid.nl/Illustration/254947)
+![254948](http://wetten.overheid.nl/Illustration/254948)
+![254949](http://wetten.overheid.nl/Illustration/254949)
+![254950](http://wetten.overheid.nl/Illustration/254950)
+![254951](http://wetten.overheid.nl/Illustration/254951)
+![254952](http://wetten.overheid.nl/Illustration/254952)
+![254953](http://wetten.overheid.nl/Illustration/254953)
+![254954](http://wetten.overheid.nl/Illustration/254954)
+![254955](http://wetten.overheid.nl/Illustration/254955)
+![254956](http://wetten.overheid.nl/Illustration/254956)
+![254957](http://wetten.overheid.nl/Illustration/254957)
+![254958](http://wetten.overheid.nl/Illustration/254958)
+![254959](http://wetten.overheid.nl/Illustration/254959)
 

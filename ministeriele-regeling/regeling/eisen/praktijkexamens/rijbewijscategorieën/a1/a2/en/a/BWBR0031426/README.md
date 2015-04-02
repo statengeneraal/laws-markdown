@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Infrastructuur en Milieu, van 27 maart 2012, nr. IENM/BSK-2012/20626, houdende vaststelling van de eisen voor de praktijkexamens voor de rijbewijscategorieën A1, A2 en A (Regeling eisen praktijkexamens rijbewijscategorieën A1, A2 en A)
 
 De Minister van Infrastructuur en Milieu,  
-Gelet op richtlijn nr. 2006/126/EG van het Europees Parlement en de Raad van 20 december 2006 betreffende het rijbewijs (PbEU L 403) en [artikel 111, vierde lid, van de Wegenverkeerswet 1994](../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);
+Gelet op richtlijn nr. 2006/126/EG van het Europees Parlement en de Raad van 20 december 2006 betreffende het rijbewijs (PbEU L 403) en artikel 111, vierde lid, van de Wegenverkeerswet 1994;
 Besluit:     
 ### §  1  
 
@@ -11,7 +11,7 @@ Besluit:
 
 ### Artikel  1  
 
-De aanvrager van het praktijkexamen Voertuigbeheersing voor de rijbewijscategorie A1 dient er blijk van te geven een selectie van de hierna genoemde vaardigheiden te beheersen: 
+1. De aanvrager van het praktijkexamen Voertuigbeheersing voor de rijbewijscategorie A1 dient er blijk van te geven een selectie van de hierna genoemde vaardigheiden te beheersen: 
 
 a. het voertuig zonder hulp van de motor aan de hand voorwaarts voeren, dit vervolgens achteruit in een (denkbeeldig) parkeervak manoeuvreren en op de juiste wijze op de standaard plaatsen. De motor vervolgens van de standaard halen en verder lopen;  
 
@@ -35,7 +35,14 @@ j. het op juiste wijze uitvoeren van een maximale remming (noodstop);
 
 k. het op juiste wijze uitvoeren van een remming met vooraf bepaalde lengte (precisiestop);  
 
-l. het op juiste wijze stoppen bij een aangegeven snelheid (stopproef).   
+l. het op juiste wijze stoppen bij een aangegeven snelheid (stopproef).    
+2.  Bij de selectie behoren ten minste de volgende verrichtingen: 
+
+a. ten minste twee verrichtingen uitgevoerd bij een lagere snelheid, waaronder een slalom, ter beoordeling van de bediening van de koppeling in combinatie met de rem, balans, kijkrichting en de houding op het motorrijwiel en de positie van de voeten op de voetsteunen,  
+
+b. ten minste twee verrichtingen uitgevoerd bij een hogere snelheid, waaronder één verrichting in tweede of derde versnelling, minimaal 30 km per uur, en één verrichting voor het ontwijken van obstakels bij een snelheid van ten minste 50 km per uur, ter beoordeling van de houding op het motorrijwiel, kijkrichting, balans, stuurtechniek en schakeltechniek, en  
+
+c. ten minste twee remoefeningen, waaronder een noodstop bij een snelheid van ten minste 50 km per uur, ter beoordeling van de bediening van de voor- en achterrem, kijkrichting en de houding op het motorrijwiel.   
 
 ### Artikel  2  
 
@@ -147,11 +154,11 @@ i. van defensief rijgedrag in verband met de eigen kwetsbaarheid en beperkte zic
 
 ### Artikel  5a  
 
-1.  De artikelen 1 tot en met 5 zijn van overeenkomstige toepassing op de aanvragers van de praktijkexamens voor de rijbewijscategorie A2, bedoeld in [artikel 53, derde lid, onderdeel b, van het Reglement rijbewijzen](../../../../../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md).  
+1.  De artikelen 1 tot en met 5 zijn van overeenkomstige toepassing op de aanvragers van de praktijkexamens voor de rijbewijscategorie A2, bedoeld in artikel 53, derde lid, onderdeel b, van het Reglement rijbewijzen.  
 
 ### Artikel  6  
 
-De aanvrager van het praktijkexamen voor de rijbewijscategorie A2, bedoeld in [artikel 53, derde lid, onderdeel a, van het Reglement rijbewijzen](../../../../../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md) voor de rijbewijscategorie A2 is in staat een selectie van de hierna genoemde handelingen uit te voeren bij aanvang van dat examen: 
+De aanvrager van het praktijkexamen voor de rijbewijscategorie A2, bedoeld in artikel 53, derde lid, onderdeel a, van het Reglement rijbewijzen voor de rijbewijscategorie A2 is in staat een selectie van de hierna genoemde handelingen uit te voeren bij aanvang van dat examen: 
 
 a. controle op juiste bevestiging van de helm;  
 
@@ -175,7 +182,7 @@ j. controle van de wielophanging en aandrijving.
 
 ### Artikel  7  
 
-Tijdens het praktijkexamen voor de rijbewijscategorie A2, bedoeld in [artikel 53, derde lid, onderdeel a, van het Reglement rijbewijzen](../../../../../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md) wordt getoetst of de aanvrager van het praktijkexamen voor de rijbewijscategorie A2 een selectie van de hierna genoemde vaardigheden beheerst: 
+Tijdens het praktijkexamen voor de rijbewijscategorie A2, bedoeld in artikel 53, derde lid, onderdeel a, van het Reglement rijbewijzen wordt getoetst of de aanvrager van het praktijkexamen voor de rijbewijscategorie A2 een selectie van de hierna genoemde vaardigheden beheerst: 
 
 a. het voertuig zonder hulp van de motor aan de hand voorwaarts voeren, dit vervolgens achteruit in een (denkbeeldig) parkeervak manoeuvreren en op de juiste wijze op de standaard plaatsen. De motor vervolgens van de standaard halen en verder lopen;  
 
@@ -203,7 +210,7 @@ l. het op juiste wijze stoppen bij een aangegeven snelheid (stopproef).
 
 ### Artikel  8  
 
-Tijdens het praktijkexamen voor de rijbewijscategorie A2, bedoeld in [artikel 53, derde lid, onderdeel a, van het Reglement rijbewijzen](../../../../../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md) voor de rijbewijscategorie A2 dient de aanvrager blijk te geven in staat te zijn om in verkeerssituaties op veilige wijze: 
+Tijdens het praktijkexamen voor de rijbewijscategorie A2, bedoeld in artikel 53, derde lid, onderdeel a, van het Reglement rijbewijzen voor de rijbewijscategorie A2 dient de aanvrager blijk te geven in staat te zijn om in verkeerssituaties op veilige wijze: 
 
 a. de kant van de weg of de parkeerruimte te verlaten;  
 
@@ -237,7 +244,7 @@ o. te rijden in tunnels.
 
 ### Artikel  9  
 
-De aanvrager dient tijdens het praktijkexamen voor de rijbewijscategorie A2, bedoeld in [artikel 53, derde lid, onderdeel a, van het Reglement rijbewijzen](../../../../../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md) voor de rijbewijscategorie A2 blijk te geven inzicht te hebben ten aanzien van de in artikel 8 genoemde handelingen en manoeuvres door middel van: 
+De aanvrager dient tijdens het praktijkexamen voor de rijbewijscategorie A2, bedoeld in artikel 53, derde lid, onderdeel a, van het Reglement rijbewijzen voor de rijbewijscategorie A2 blijk te geven inzicht te hebben ten aanzien van de in artikel 8 genoemde handelingen en manoeuvres door middel van: 
 
 a. het letten op tekens en overige aanduidingen op de weg;  
 
@@ -261,7 +268,7 @@ j. te rijden met een veilige, aan de verkeersomstandigheden aangepaste snelheid 
 
 ### Artikel  10  
 
-De aanvrager van het het praktijkexamen voor de rijbewijscategorie A2, bedoeld in [artikel 53, derde lid, onderdeel a, van het Reglement rijbewijzen](../../../../../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md) dient bij het uitvoeren van de in de artikelen 8 en 9 genoemde examenonderdelen blijk te geven: 
+De aanvrager van het het praktijkexamen voor de rijbewijscategorie A2, bedoeld in artikel 53, derde lid, onderdeel a, van het Reglement rijbewijzen dient bij het uitvoeren van de in de artikelen 8 en 9 genoemde examenonderdelen blijk te geven: 
 
 a. het ontkoppelings- en schakelmechanisme van het voertuig op juiste wijze te bedienen;  
 
@@ -287,11 +294,11 @@ i. van defensief rijgedrag in verband met de eigen kwetsbaarheid en beperkte zic
 
 ### Artikel  11  
 
-De artikelen 6 tot en met 10 zijn van overeenkomstige toepassing op de aanvragers van het praktijkexamen voor de rijbewijscategorie A, bedoeld in [artikel 53, vierde lid, onderdeel a, van het Reglement rijbewijzen](../../../../../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md). 
+De artikelen 6 tot en met 10 zijn van overeenkomstige toepassing op de aanvragers van het praktijkexamen voor de rijbewijscategorie A, bedoeld in artikel 53, vierde lid, onderdeel a, van het Reglement rijbewijzen. 
 
 ### Artikel  12  
 
-De artikelen 1 tot en met 5 zijn van overeenkomstige toepassing op de aanvragers van het praktijkexamen voor de rijbewijscategorie A, bedoeld in [artikel 53, vierde lid, onderdeel b, van het Reglement rijbewijzen](../../../../../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md). 
+De artikelen 1 tot en met 5 zijn van overeenkomstige toepassing op de aanvragers van het praktijkexamen voor de rijbewijscategorie A, bedoeld in artikel 53, vierde lid, onderdeel b, van het Reglement rijbewijzen. 
 
 ### §  4  
 
@@ -303,11 +310,11 @@ Na afloop van het praktijkexamen Voertuigbeheersing en van het praktijkexamen Ve
 
 ### Artikel  14  
 
-De [Regeling eisen praktijkexamens rijbewijscategorie A](../../../../../../../../../../ministeriele-regeling/regeling/eisen/praktijkexamens/rijbewijscategorie/a/BWBR0015603/README.md) wordt ingetrokken. 
+De Regeling eisen praktijkexamens rijbewijscategorie A wordt ingetrokken. 
 
 ### Artikel  15  
 
-Deze regeling treedt in werking op het tijdstip waarop [artikel I, onderdelen A tot en met L, van de wet van 26 januari 2012 tot wijziging van de Wegenverkeerswet 1994 en de Wet rijonderricht motorrijtuigen 1993 in verband met de implementatie van de derde rijbewijsrichtlijn](../../../../../../../../../../wet/wijzigingswet/wegenverkeerswet/1994/enz./(implementatie/derde/etc/BWBR0031264/README.md) (Stb. 2012, 39) in werking treedt. 
+Deze regeling treedt in werking op het tijdstip waarop artikel I, onderdelen A tot en met L, van de wet van 26 januari 2012 tot wijziging van de Wegenverkeerswet 1994 en de Wet rijonderricht motorrijtuigen 1993 in verband met de implementatie van de derde rijbewijsrichtlijn (Stb. 2012, 39) in werking treedt. 
 
 ### Artikel  16  
 

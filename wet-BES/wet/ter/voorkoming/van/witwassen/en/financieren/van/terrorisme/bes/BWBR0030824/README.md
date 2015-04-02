@@ -176,7 +176,7 @@ b. indien van toepassing, de uiteindelijk belanghebbende te identificeren en ade
 
 c. het doel en de beoogde aard van de zakelijke relatie vast te stellen;  
 
-d. voor zover mogelijk, een voortdurende controle op de zakelijke relatie en de tijdens de duur van deze relatie verrichte transacties uit te voeren, teneinde te verzekeren dat deze overeenkomen met de kennis die de dienstverlener heeft van de cliënt en van zijn risicoprofiel, met in voorkomend geval een onderzoek naar de bron van het vermogen;  
+d. een voortdurende controle op de zakelijke relatie en de tijdens de duur van deze relatie verrichte transacties uit te oefenen, teneinde te verzekeren dat deze overeenkomen met de kennis die de instelling heeft van de cliënt en diens risicoprofiel, met zo nodig een onderzoek naar de bron van de middelen die bij de zakelijke relatie of de transactie gebruikt worden;  
 
 e. de natuurlijke persoon die de cliënt vertegenwoordigt, te identificeren en diens identiteit te verifiëren;  
 
@@ -209,7 +209,7 @@ e. indien het risico van betrokkenheid van een bestaande cliënt bij witwassen o
 
 ### Artikel  2.5  
 
-1.  Een dienstverlener stelt van elke cliënt met wie hij een zakelijke relatie onderhoudt een risicoprofiel op. Hij voert een voortdurende controle uit op de zakelijke relatie en de tijdens de duur van die relatie uit te voeren transacties, ten einde te verzekeren dat deze overeenkomen met de kennis die de dienstverlener heeft van de cliënt en van het risicoprofiel, met in voorkomend geval een onderzoek naar de bron van het vermogen.   
+1.  Een dienstverlener stelt van elke cliënt met wie hij een zakelijke relatie onderhoudt een risicoprofiel op. Hij voert een voortdurende controle uit op de zakelijke relatie en de tijdens de duur van die relatie uit te voeren transacties, ten einde te verzekeren dat deze overeenkomen met de kennis die de dienstverlener heeft van de cliënt en van het risicoprofiel, met in voorkomend geval een onderzoek naar de bron van de middelen die bij de zakelijke relatie of de transactie gebruikt worden.   
 2.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot het op te stellen risicoprofiel en de uit te voeren controle.  
 
 ### Artikel  2.6  

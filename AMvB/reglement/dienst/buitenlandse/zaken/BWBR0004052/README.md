@@ -1166,17 +1166,15 @@ d. ter beantwoording van de vraag of de ambtenaar tijdens het tijdvak waarin hij
 
 e. indien de ambtenaar in contact staat of kort geleden heeft gestaan met een persoon die een ziekte heeft waarvoor ingevolge de Wet publieke gezondheid een nominatieve aangifteplicht geldt;  
 
-f. om te beoordelen of de ambtenaar die een functie vervult als bedoeld in artikel 102 lichamelijk en psychisch in staat kan worden geacht zijn functie te blijven waarnemen, nadat hij de voor zijn functie vastgestelde leeftijdsgrens heeft bereikt;  
+f. om te beoordelen of er sprake is van een situatie als bedoeld in artikel 104, derde lid, aanhef en onderdelen a en b;  
 
-g. om te beoordelen of er sprake is van een situatie als bedoeld in artikel 104, derde lid, aanhef en onderdelen a en b;  
+g. om te beoordelen of de ambtenaar die wegens ziekte volledig ongeschikt is geweest zijn arbeid te verrichten zijn arbeid mag hervatten;  
 
-h. om te beoordelen of de ambtenaar die wegens ziekte volledig ongeschikt is geweest zijn arbeid te verrichten zijn arbeid mag hervatten;  
+h. voor zover dit voortvloeit uit enige wettelijke verplichting;  
 
-i. voor zover dit voortvloeit uit enige wettelijke verplichting;  
+i. indien de ambtenaar in verband met de uitoefening van zijn werkzaamheden aan bijzonder gevaar voor zijn gezondheid blootstaat of is benoemd in een functie waarvoor bij aanstelling een geneeskundig onderzoek is vereist als bedoeld in artikel 23, vierde lid, onderdeel b;  
 
-j. indien de ambtenaar in verband met de uitoefening van zijn werkzaamheden aan bijzonder gevaar voor zijn gezondheid blootstaat of is benoemd in een functie waarvoor bij aanstelling een geneeskundig onderzoek is vereist als bedoeld in artikel 23, vierde lid, onderdeel b;  
-
-k. om bij een verzoek als bedoeld in artikel 104, negende lid, te beoordelen of de ambtenaar lichamelijk en psychisch in staat is zijn functie te blijven vervullen.   
+j. om bij een verzoek als bedoeld in artikel 104, negende lid, te beoordelen of de ambtenaar lichamelijk en psychisch in staat is zijn functie te blijven vervullen.   
 2.  Onze Minister stelt de ambtenaar buiten dienst indien na een arbeidsgezondheidskundig onderzoek als bedoeld in het eerste lid, blijkt dat sprake is van een zodanige lichamelijke of geestelijke toestand dat de belangen van de ambtenaar, van de dienst of van bij het verrichten van de arbeid betrokken derden zich er tegen verzetten dat de ambtenaar zijn arbeid blijft verrichten. De ambtenaar wordt niet buiten dienst gesteld indien hem andere passende werkzaamheden kunnen worden opgedragen. Indien de ambtenaar buiten dienst wordt gesteld, wordt hij geacht wegens ziekte ongeschikt te zijn tot het verrichten van zijn arbeid, in welk geval de overige bepalingen van dit hoofdstuk van toepassing zijn.  
 
 ###Artikel 50b 
@@ -1204,14 +1202,14 @@ c.de behandelend arts, bedoeld in het vijfde lid.
 2.  De ambtenaar die verkeert in de in het vorige lid omschreven situatie, is verplicht daarvan ten spoedigste kennis te geven aan de deskundige persoon of de arbodienst. Hij is gehouden zich te gedragen naar de vanwege de deskundige persoon of de arbodienst gegeven aanwijzingen, waaronder die met betrekking tot het ondergaan van een arbeidsgezondheidskundig onderzoek.   
 3.  Gedurende de periode dat de ambtenaar ingevolge het bepaalde in dit artikel zijn dienst niet verricht, geniet hij zijn volle bezoldiging.  
 
-###Artikel 51 
+### Artikel  51  
 
 ####Bijzondere bepalingen in verband met plaatsing in het buitenland
 
-1. Bij plaatsing buiten Nederland geschiedt het door de ambtenaar raadplegen van de deskundige persoon of de arbodienst in het kader van het arbeidsgezondheidskundig spreekuur schriftelijk, in dringende gevallen met gebruikmaking van de telecommunicatiemiddelen van het Ministerie van Buitenlandse Zaken, voor rekening van het Rijk.
-2. De ambtenaar wordt in elk geval in verband met zijn plaatsing buiten Nederland, in overleg met of op aanwijzing van de deskundige persoon of de arbodienst onderworpen aan een periodiek arbeidsgezondheidskundig onderzoek als bedoeld in artikel 50a, eerste lid, onderdeel j. Een buiten Nederland geplaatste ambtenaar ondergaat dit onderzoek zo mogelijk tijdens verblijf hier te lande.
-3. Onverminderd het bepaalde in artikel 50a, tweede lid, vindt buitendienststelling plaats door Onze Minister. Daarbij vindt een belangenafweging plaats teneinde na te gaan of het verblijf van de ambtenaar in het land van plaatsing kan worden voortgezet.
-4. De deskundige persoon of de arbodienst kan de ambtenaren individueel of gezamenlijk aanwijzingen geven tot behoud, herstel of bevordering van hun arbeidsgeschiktheid en de geschiktheid tot verblijf buiten Nederland van hun gezinsleden. De ambtenaren zijn gehouden die aanwijzingen op te volgen.
+1.  Bij plaatsing buiten Nederland geschiedt het door de ambtenaar raadplegen van de deskundige persoon of de arbodienst in het kader van het arbeidsgezondheidskundig spreekuur schriftelijk, in dringende gevallen met gebruikmaking van de telecommunicatiemiddelen van het Ministerie van Buitenlandse Zaken, voor rekening van het Rijk.   
+2.  De ambtenaar wordt in elk geval in verband met zijn plaatsing buiten Nederland, in overleg met of op aanwijzing van de deskundige persoon of de arbodienst onderworpen aan een periodiek arbeidsgezondheidskundig onderzoek als bedoeld in artikel 50a, eerste lid, onderdeel i. Een buiten Nederland geplaatste ambtenaar ondergaat dit onderzoek zo mogelijk tijdens verblijf hier te lande.   
+3.  Onverminderd het bepaalde in artikel 50a, tweede lid, vindt buitendienststelling plaats door Onze Minister. Daarbij vindt een belangenafweging plaats teneinde na te gaan of het verblijf van de ambtenaar in het land van plaatsing kan worden voortgezet.   
+4.  De deskundige persoon of de arbodienst kan de ambtenaren individueel of gezamenlijk aanwijzingen geven tot behoud, herstel of bevordering van hun arbeidsgeschiktheid en de geschiktheid tot verblijf buiten Nederland van hun gezinsleden. De ambtenaren zijn gehouden die aanwijzingen op te volgen.  
 
 ### Artikel  52  
 
@@ -2159,12 +2157,6 @@ c. een maand, indien de ambtenaar ten tijde van de opzegging laatstelijk korter 
 
 Aan de ambtenaar die een benoeming tot minister of staatssecretaris aanvaardt, wordt met ingang van de dag van het aanvaarden van deze betrekking eervol ontslag verleend. 
 
-### Artikel  102  
-
-####Ontslag uit een substantieel bezwarende functie
-
-Voor het verlenen van ontslag aan de ambtenaar die belast is met een functie als vermeld op de in artikel 97, eerste lid, van het ARAR bedoelde lijst van functies met bezwarende werkzaamheden, is artikel 97 van het ARAR van overeenkomstige toepassing. 
-
 ### Artikel  103  
 
 ####Ontslag wegens bijzondere gedragingen
@@ -2175,7 +2167,7 @@ Voor de ontslagverlening, bedoeld in artikel 125e, tweede lid, van de Ambtenaren
 
 ####Gronden van ontslag
 
-1.  Anders dan op aanvraag van de ambtenaar, bij wijze van straf of ingevolge het bepaalde bij artikel 7 van de Wet Incompatibiliteiten Staten-Generaal en Europees Parlement, bij de artikelen 98 tot en met 102 van dit besluit en bij artikel 125e, tweede lid, van de Ambtenarenwet, kan de ambtenaar worden ontslagen op grond van: 
+1.  Anders dan op aanvraag van de ambtenaar, bij wijze van straf of ingevolge het bepaalde bij artikel 7 van de Wet Incompatibiliteiten Staten-Generaal en Europees Parlement, bij de artikelen 98 tot en met 101a van dit besluit en bij artikel 125e, tweede lid, van de Ambtenarenwet, kan de ambtenaar worden ontslagen op grond van: 
 
 a. het verlies van een vereiste voor de benoembaarheid, door het bevoegde gezag gesteld bij een regeling aan de benoeming voorafgegaan, tenzij het vereiste alleen voor de aanvang van het ambt geldt;  
 

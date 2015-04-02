@@ -3,9 +3,9 @@
 ##Verordening van de Sociaal-Economische Raad van 15 december 1995 houdende regelen krachtens welke de afgifte plaatsvindt van de in artikel 21, zevende lid van de Wet assurantiebemiddelingsbedrijf bedoelde verklaringen
 
 De Sociaal-Economische Raad;
-Gelet op [artikel 36 van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md);
+Gelet op artikel 36 van de Wet op de bedrijfsorganisatie;
 
-Gelet op [artikel 21, zevende lid van de Wet assurantiebemiddelingsbedrijf](../../../../../../../wet/wet/assurantiebemiddelingsbedrijf/BWBR0004993/README.md);
+Gelet op artikel 21, zevende lid van de Wet assurantiebemiddelingsbedrijf;
 Besluit:
 
 ###Artikel 1 
@@ -15,8 +15,8 @@ In deze verordening en de daarop berustende bepalingen wordt verstaan onder:
 | --- | --- | --- |
 |:---|:---|:---|
 |a. |de raad: |de Sociaal-Economische Raad; |
-|b. |de wet: |de [Wet assurantiebemiddelingsbedrijf](../../../../../../../wet/wet/assurantiebemiddelingsbedrijf/BWBR0004993/README.md); |
-|c. |verklaring: |de verklaring bedoeld in [artikel 21, zevende lid, tweede volzin, van de wet](../../../../../../../wet/wet/assurantiebemiddelingsbedrijf/BWBR0004993/README.md), inhoudende dat degene op wiens naam de verklaring is gesteld, voldoet aan de vakbekwaamheidseisen bedoeld in [artikel 21, eerste lid onderdeel b, van de wet](../../../../../../../wet/wet/assurantiebemiddelingsbedrijf/BWBR0004993/README.md), uitsluitend voor wat de eisen ter waarborging van een vakkundige uitoefening van het verzekeringsbedrijf betreft. |
+|b. |de wet: |de Wet assurantiebemiddelingsbedrijf; |
+|c. |verklaring: |de verklaring bedoeld in artikel 21, zevende lid, tweede volzin, van de wet, inhoudende dat degene op wiens naam de verklaring is gesteld, voldoet aan de vakbekwaamheidseisen bedoeld in artikel 21, eerste lid onderdeel b, van de wet, uitsluitend voor wat de eisen ter waarborging van een vakkundige uitoefening van het verzekeringsbedrijf betreft. |
 
 ###Artikel 2 
 
@@ -29,13 +29,13 @@ Op aanvraag geeft de raad een verklaring af aan degene die bij de afgifte een on
 
 ###Artikel 4 
 
-De raad geeft een verklaring slechts af indien de aanvrager, gezien zijn persoonlijke omstandigheden, in het verleden redelijkerwijs niet in de gelegenheid is geweest een krachtens [artikel 21, zevende lid, eerste volzin van de wet](../../../../../../../wet/wet/assurantiebemiddelingsbedrijf/BWBR0004993/README.md) aangewezen diploma teverwerven, dan wel zich de onder de Wet Assurantiebemiddeling van 1952 (Stb. 1952, 34) of de [Wet assurantiebemiddelingsbedrijf](../../../../../../../wet/wet/assurantiebemiddelingsbedrijf/BWBR0004993/README.md) voor de vestiging als gevolmachtigde agent aangewezen bewijsstukken te verwerven.
+De raad geeft een verklaring slechts af indien de aanvrager, gezien zijn persoonlijke omstandigheden, in het verleden redelijkerwijs niet in de gelegenheid is geweest een krachtens artikel 21, zevende lid, eerste volzin van de wet aangewezen diploma teverwerven, dan wel zich de onder de Wet Assurantiebemiddeling van 1952 (Stb. 1952, 34) of de Wet assurantiebemiddelingsbedrijf voor de vestiging als gevolmachtigde agent aangewezen bewijsstukken te verwerven.
 
 ###Artikel 5 
 
 1. Een verklaring wordt afgegeven aan degene die
 
-a.voldoet aan de in [artikel 4, eerste lid, onderdeel a van de wet](../../../../../../../wet/wet/assurantiebemiddelingsbedrijf/BWBR0004993/README.md) bedoelde vakbekwaamheidseisen;
+a.voldoet aan de in artikel 4, eerste lid, onderdeel a van de wet bedoelde vakbekwaamheidseisen;
 
 b.ten minste veertig jaar oud is;
 
@@ -63,7 +63,7 @@ verschillende soorten herverzekering;
 
 de gedragsregels die gelden voor verzekeraars; (volmachtgeving)
 
-de [Wet assurantiebemiddelingsbedrijf](../../../../../../../wet/wet/assurantiebemiddelingsbedrijf/BWBR0004993/README.md) in het algemeen en het [hoofdstuk Gevolmachtigde agent](../../../../../../../wet/wet/assurantiebemiddelingsbedrijf/BWBR0004993/README.md) in het bijzonder;
+de Wet assurantiebemiddelingsbedrijf in het algemeen en het hoofdstuk Gevolmachtigde agent in het bijzonder;
 
 de juridische positie van de gevolmachtigde agent en de vertegenwoordiger volgens het Burgerlijk Wetboek;
 

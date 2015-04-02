@@ -3,7 +3,7 @@
 ## Besluit bemiddelaar Vrijstellingsbesluit Wet Bpf 2000
 
 De Sociaal-Economische Raad;
-Gelet op [artikel 2 van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+Gelet op artikel 2 van de Wet op de bedrijfsorganisatie;
 
 Gezien het verzoek van 3 februari 1999 van de Stichting van de Arbeid;
 
@@ -14,13 +14,13 @@ Besluit:
 
 ####Definities
 
-1. In dit besluit worden overgenomen de begripsbepalingen van het vrijstellingsbesluit als bedoeld in [artikel 13, derde lid, van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000 (Wet Bpf 2000)](../../../../../../../../wet/wet/verplichte/deelneming/in/een/bedrijfstakpensioenfonds/2000/BWBR0012092/README.md).
+1. In dit besluit worden overgenomen de begripsbepalingen van het vrijstellingsbesluit als bedoeld in artikel 13, derde lid, van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000 (Wet Bpf 2000).
 2. In dit besluit wordt voorts verstaan onder:
 
 | --- | --- | --- | --- |
 |:---|:---|:---|:---|
-|a. |wet |: |[Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000](../../../../../../../../wet/wet/verplichte/deelneming/in/een/bedrijfstakpensioenfonds/2000/BWBR0012092/README.md); |
-|b. |vrijstellingsbesluit |: |vrijstellingsbesluit als bedoeld in [artikel 13, derde lid](../../../../../../../../wet/wet/verplichte/deelneming/in/een/bedrijfstakpensioenfonds/2000/BWBR0012092/README.md), van de wet; |
+|a. |wet |: |Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000; |
+|b. |vrijstellingsbesluit |: |vrijstellingsbesluit als bedoeld in artikel 13, derde lid, van de wet; |
 |c. |Vereniging |: |Vereniging van Bedrijfstakpensioenfondsen; |
 |d. |Verbond |: |Verbond van Verzekeraars |
 |e. |raad |: |Sociaal-Economische Raad. |
@@ -29,7 +29,7 @@ Besluit:
 
 ####Bemiddelaar Vrijstellingsbesluit Wet Bpf 2000
 
-1. Er is een bemiddelingsinstantie inzake het [vrijstellingsbesluit van de wet](../../../../../../../../wet/wet/verplichte/deelneming/in/een/bedrijfstakpensioenfonds/2000/BWBR0012092/README.md).
+1. Er is een bemiddelingsinstantie inzake het vrijstellingsbesluit van de wet.
 2. De bemiddelingsinstantie is genaamd bemiddelaar Vrijstellingsbesluit Wet Bpf 2000.
 3. De bemiddelingsinstantie wordt hierna aangeduid als bemiddelaar.
 
@@ -76,7 +76,7 @@ b.toepassing van de rekenregels inzake verzekeringstechnische aangelegenheden.
 
 de regels inzake de werkwijze bedoeld in artikel 5, tiende lid;
 
-eventuele tekortkomingen in het [vrijstellingsbesluit](../../../../../../../../wet/wet/verplichte/deelneming/in/een/bedrijfstakpensioenfonds/2000/BWBR0012092/README.md) voor zover deze betrekking hebben op de in artikel 3, eerste lid, onder a en b, bedoelde beleidsgebieden.
+eventuele tekortkomingen in het vrijstellingsbesluit voor zover deze betrekking hebben op de in artikel 3, eerste lid, onder a en b, bedoelde beleidsgebieden.
 
 ###Artikel 7 
 

@@ -171,7 +171,7 @@ b. een laissez-passer, indien verstrekking van een noodpaspoort met gebruikmakin
 
 ####De burgemeesters van aangewezen gemeenten
 
-De burgemeesters van Bergen op Zoom, Bergeijk, Echt-Susteren, Enschede, ’s-Gravenhage, Haarlemmermeer, Maastricht, Montferland en Oldambt verrichten de handelingen ingevolge de wet en artikel 6, eerste lid, tevens ten behoeve van personen die geen ingezetene van een gemeente zijn.
+De burgemeesters van Bergen op Zoom, Bergeijk, Breda, Echt-Susteren, Enschede, ’s-Gravenhage, Haarlemmermeer, Maastricht, Montferland, Oldambt en Venlo verrichten de handelingen ingevolge de wet en artikel 6, eerste lid, tevens ten behoeve van personen die geen ingezetene van een gemeente zijn.
 
 ### Artikel  8  
 
@@ -1870,7 +1870,7 @@ Om de steekproef uit te kunnen voeren is het noodzakelijk dat iedere gemeente vo
 
 1.De gemeente kan hiermee aantonen dat beveiligingsmaatregelen zijn genomen. Er is ‘bewijs’ aanwezig.
 
-2.Het Agentschap BPR zal zich voor de uitvoering van de steekproef mede baseren op de documenten die ten grondslag liggen aan de beantwoording van de vragenlijst.De gemeente moet zich voor de uitvoering van het onderzoek reisdocumenten baseren op schriftelijke documenten en moet deze documenten in het onderzoeksdossier voegen, tenzij er sprake is van mondelinge informatieoverdracht. In dat geval kan er geen document worden opgenomen in het onderzoeksdossier. 
+2.De Rijksdienst voor Identiteitsgegevens zal zich voor de uitvoering van de steekproef mede baseren op de documenten die ten grondslag liggen aan de beantwoording van de vragenlijst.De gemeente moet zich voor de uitvoering van het onderzoek reisdocumenten baseren op schriftelijke documenten en moet deze documenten in het onderzoeksdossier voegen, tenzij er sprake is van mondelinge informatieoverdracht. In dat geval kan er geen document worden opgenomen in het onderzoeksdossier. 
 
 | --- |
 |:---|

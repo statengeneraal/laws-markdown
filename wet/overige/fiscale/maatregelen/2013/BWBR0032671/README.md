@@ -135,7 +135,7 @@ Wijzigt de Wet uitwerking fiscale maatregelen Begrotingsakkoord 2013.
 
 ### Artikel  XXVIII  
 
-Het koninklijk besluit van 24 augustus 2004 tot wijziging van het [Besluit uitsluiting aftrek omzetbelasting 1968](../../../../../../KB/besluit/uitsluiting/aftrek/omzetbelasting/1968/BWBR0002636/README.md) (Stb. 2004, 435) wordt goedgekeurd. 
+Het koninklijk besluit van 24 augustus 2004 tot wijziging van het Besluit uitsluiting aftrek omzetbelasting 1968 (Stb. 2004, 435) wordt goedgekeurd. 
 
 ### Artikel  XXVIIIa  
 
@@ -171,13 +171,13 @@ Wijzigt de Wet verplichte beroepspensioenregeling.
 
 ### Artikel  XXXII  
 
-1.  Met betrekking tot kolen die vóór 1 januari 2013 zijn uitgeslagen of ingevoerd met vrijstelling van kolenbelasting op grond van [artikel 44, tweede lid, van de Wet belastingen op milieugrondslag](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) en die op of na 1 januari 2013 in een opslagplaats voorhanden zijn, wordt kolenbelasting geheven naar het tarief, genoemd in [artikel 43 van de Wet belastingen op milieugrondslag](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), zoals dit geldt op 1 januari 2013 na indexering.   
-2.  [Artikel 84a van de Wet op de accijns](../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), met uitzondering van het eerste lid, eerste alinea en het tweede lid, onderdeel b, is van overeenkomstige toepassing op de heffing van kolenbelasting, bedoeld in het eerste lid, met dien verstande dat de verwijzing in [artikel 84a, tweede lid, van de Wet op de accijns](../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) naar het eerste lid van dat artikel moet worden gelezen als een verwijzing naar het eerste lid van dit artikel.  
+1.  Met betrekking tot kolen die vóór 1 januari 2013 zijn uitgeslagen of ingevoerd met vrijstelling van kolenbelasting op grond van artikel 44, tweede lid, van de Wet belastingen op milieugrondslag en die op of na 1 januari 2013 in een opslagplaats voorhanden zijn, wordt kolenbelasting geheven naar het tarief, genoemd in artikel 43 van de Wet belastingen op milieugrondslag, zoals dit geldt op 1 januari 2013 na indexering.   
+2.  Artikel 84a van de Wet op de accijns, met uitzondering van het eerste lid, eerste alinea en het tweede lid, onderdeel b, is van overeenkomstige toepassing op de heffing van kolenbelasting, bedoeld in het eerste lid, met dien verstande dat de verwijzing in artikel 84a, tweede lid, van de Wet op de accijns naar het eerste lid van dat artikel moet worden gelezen als een verwijzing naar het eerste lid van dit artikel.  
 
 ### Artikel  XXXIII  
 
-1.  De [artikelen 80](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [86](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) en [87a tot en met 87d van de Wet belastingen op milieugrondslag](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) en de daarop berustende bepalingen, zoals deze luidden op 31 december 2012, blijven van toepassing op verpakkingen als bedoeld in [artikel 87a van die wet](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), zoals deze luidde op 31 december 2012, van producten die na 31 december 2012 maar vóór 1 april 2013 door een producent ter beschikking worden gesteld aan een belastingplichtige of ondernemer als bedoeld in [hoofdstuk VIII van de Wet belastingen op milieugrondslag](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) zoals dit luidde op 31 december 2012. Het voorgaande geldt niet voor producten waarop vóór 1 januari 2013 een regeling krachtens [artikel 88a van de Wet belastingen op milieugrondslag](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) van toepassing was.   
-2.  [Artikel 89, vierde en vijfde lid, van de Wet belastingen op milieugrondslag](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), zoals deze luidden op 31 december 2012, blijven van toepassing voor zover de verschuldigdheid van de verpakkingenbelasting vóór 1 januari 2013 is ontstaan.   
+1.  De artikelen 80, 86 en 87a tot en met 87d van de Wet belastingen op milieugrondslag en de daarop berustende bepalingen, zoals deze luidden op 31 december 2012, blijven van toepassing op verpakkingen als bedoeld in artikel 87a van die wet, zoals deze luidde op 31 december 2012, van producten die na 31 december 2012 maar vóór 1 april 2013 door een producent ter beschikking worden gesteld aan een belastingplichtige of ondernemer als bedoeld in hoofdstuk VIII van de Wet belastingen op milieugrondslag zoals dit luidde op 31 december 2012. Het voorgaande geldt niet voor producten waarop vóór 1 januari 2013 een regeling krachtens artikel 88a van de Wet belastingen op milieugrondslag van toepassing was.   
+2.  Artikel 89, vierde en vijfde lid, van de Wet belastingen op milieugrondslag, zoals deze luidden op 31 december 2012, blijven van toepassing voor zover de verschuldigdheid van de verpakkingenbelasting vóór 1 januari 2013 is ontstaan.   
 3.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot verzoeken om teruggaaf ingevolge het eerste lid.  
 
 ### Artikel  XXXIV  
@@ -190,17 +190,17 @@ Wijzigt de Wet normering bezoldiging topfunctionarissen publieke en semipublieke
 
 a. met betrekking tot de heffing van kansspelheffing over tijdvakken die voor 1 januari 2013 zijn geëindigd: 
 
-1°. [artikel 33f, derde tot en met zesde lid, van de Wet op de kansspelen](../../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md), zoals dit luidde op 31 december 2012, van toepassing blijft;   
+1°. artikel 33f, derde tot en met zesde lid, van de Wet op de kansspelen, zoals dit luidde op 31 december 2012, van toepassing blijft;   
 
-2°. [artikel 33f, derde tot en met zesde lid en achtste lid, van de Wet op de kansspelen](../../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md) niet van toepassing is;     
+2°. artikel 33f, derde tot en met zesde lid en achtste lid, van de Wet op de kansspelen niet van toepassing is;     
 
-b. aanmaningen of dwangbevelen die door de ontvanger, bedoeld in [artikel 33f, zevende lid, van de Wet op de kansspelen](../../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md), zoals dit luidde op 31 december 2012, voor 1 januari 2013 zijn verzonden, onderscheidenlijk uitgevaardigd, geacht worden te zijn verzonden, onderscheidenlijk uitgevaardigd, door het met ingang van 1 januari 2013 bevoegde bestuursorgaan;  
+b. aanmaningen of dwangbevelen die door de ontvanger, bedoeld in artikel 33f, zevende lid, van de Wet op de kansspelen, zoals dit luidde op 31 december 2012, voor 1 januari 2013 zijn verzonden, onderscheidenlijk uitgevaardigd, geacht worden te zijn verzonden, onderscheidenlijk uitgevaardigd, door het met ingang van 1 januari 2013 bevoegde bestuursorgaan;  
 
 c. artikel XVII, onderdeel B, voor het eerst toepassing vindt met betrekking tot tegemoetkomingen waarvoor een verzoek om opgaaf is gedaan op of na 1 januari 2013;  
 
-d. artikel XXV, onderdelen A, B en C, toepassing vindt voordat de [artikelen II, onderdeel D](../../../../../../wet/wet/uniformering/loonbegrip/BWBR0030105/README.md), [III, onderdeel K](../../../../../../wet/wet/uniformering/loonbegrip/BWBR0030105/README.md), en [XXX, onderdeel G, van de Wet uniformering loonbegrip](../../../../../../wet/wet/uniformering/loonbegrip/BWBR0030105/README.md) worden toegepast;  
+d. artikel XXV, onderdelen A, B en C, toepassing vindt voordat de artikelen II, onderdeel D, III, onderdeel K, en XXX, onderdeel G, van de Wet uniformering loonbegrip worden toegepast;  
 
-e. artikel XXVI, onderdelen Ba en C, toepassing vindt voordat de [artikelen XXVIII, onderdeel E](../../../../../../wet/belastingplan/2012/BWBR0030999/README.md), en [XXXIV van het Belastingplan 2012](../../../../../../wet/belastingplan/2012/BWBR0030999/README.md) worden toegepast.     
+e. artikel XXVI, onderdelen Ba en C, toepassing vindt voordat de artikelen XXVIII, onderdeel E, en XXXIV van het Belastingplan 2012 worden toegepast.     
 2.  Artikel XIV, onderdeel A, werkt terug tot en met 1 januari 2012.   
 3.  Artikel XIII, onderdeel A, werkt terug tot en met 20 juli 2012.  
 

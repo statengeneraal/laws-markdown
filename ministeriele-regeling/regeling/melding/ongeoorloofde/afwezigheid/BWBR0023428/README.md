@@ -2,7 +2,7 @@
 
 ##Regeling van de Staatssecretaris van Justitie van 29 januari 2008, nr. 5519777/07/DJI, houdende regels over de melding van ongeoorloofde afwezigheid uit penitentiaire inrichtingen, inrichtingen voor verpleging van ter beschikking gestelden en justitiële jeugdinrichtingen
 
-Gelet op [artikel 5a, tweede lid, van de Penitentiaire beginselenwet](../../../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md), [artikel 7a, tweede lid, van de Beginselenwet verpleging ter beschikking gestelden](../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md) en [artikel 5, tweede lid, van de Beginselenwet justitiële jeugdinrichtingen](../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md);
+Gelet op artikel 5a, tweede lid, van de Penitentiaire beginselenwet, artikel 7a, tweede lid, van de Beginselenwet verpleging ter beschikking gestelden en artikel 5, tweede lid, van de Beginselenwet justitiële jeugdinrichtingen;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -14,7 +14,7 @@ Besluit:
 
 In deze Regeling wordt verstaan onder: 
 
-a. ongeoorloofde afwezigheid: het na aanvang van de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel bedoeld in de [Penitentiaire beginselenwet](../../../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md), de [Beginselenwet verpleging ter beschikking gestelden](../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md) en de [Beginselenwet justitiële jeugdinrichtingen](../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md) zich hieraan onttrekken op een wijze als genoemd in respectievelijk hoofdstuk 2, 3 en 4 van deze regeling;  
+a. ongeoorloofde afwezigheid: het na aanvang van de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel bedoeld in de Penitentiaire beginselenwet, de Beginselenwet verpleging ter beschikking gestelden en de Beginselenwet justitiële jeugdinrichtingen zich hieraan onttrekken op een wijze als genoemd in respectievelijk hoofdstuk 2, 3 en 4 van deze regeling;  
 
 b. de DJI: de Dienst Justitiële Inrichtingen van het Ministerie van Veiligheid en Justitie;  
 
@@ -51,7 +51,7 @@ De directeur dan wel het hoofd van de inrichting bedoeld in respectievelijk hoof
 
 ### Hoofdstuk  2  
 
-####Meldingsprocedure bij ongeoorloofde afwezigheid als bedoeld in [artikel 5a, tweede lid, van de penitentiaire beginselenwet](../../../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md)
+####Meldingsprocedure bij ongeoorloofde afwezigheid als bedoeld in artikel 5a, tweede lid, van de penitentiaire beginselenwet
 
 ### Paragraaf  1  
 
@@ -61,7 +61,7 @@ De directeur dan wel het hoofd van de inrichting bedoeld in respectievelijk hoof
 
 ####Begripsbepalingen
 
-Op dit hoofdstuk zijn de begripsbepalingen, bedoeld in [artikel 1 van de Penitentiaire beginselenwet](../../../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md), van toepassing 
+Op dit hoofdstuk zijn de begripsbepalingen, bedoeld in artikel 1 van de Penitentiaire beginselenwet, van toepassing 
 
 ### Artikel  2.2  
 
@@ -71,7 +71,7 @@ Ongeoorloofde afwezigheid als bedoeld in dit hoofdstuk is het gevolg van het zic
 
 a. het zonder toestemming verlaten van een normaal beveiligde, uitgebreid beveiligde of extra beveiligde inrichting of afdeling of het tot die inrichting behorende terrein, dan wel van een afgesloten ruimte van een beperkt beveiligde inrichting;  
 
-b. het zonder toestemming verlaten van een afgesloten ruimte of terrein van een instelling waarnaar de gedetineerde is overgebracht op grond van [artikel 15, vijfde lid, van de Penitentiaire beginselenwet](../../../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md);  
+b. het zonder toestemming verlaten van een afgesloten ruimte of terrein van een instelling waarnaar de gedetineerde is overgebracht op grond van artikel 15, vijfde lid, van de Penitentiaire beginselenwet;  
 
 c. het zich onttrekken aan het toezicht tijdens vervoer;  
 
@@ -79,7 +79,7 @@ d. het zich onttrekken aan het toezicht tijdens begeleid verlof of ander verblij
 
 e. het zonder toestemming verlaten van een zeer beperkt beveiligde of beperkt beveiligde inrichting of terrein, anders dan bedoeld in onderdeel a;  
 
-f. het zonder toestemming verlaten van een open afdeling van een instelling waarnaar de gedetineerde is overgebracht op grond van [artikel 15, vijfde lid](../../../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md), [artikel 42, vierde lid, onder c](../../../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md), of [artikel 43, derde lid, van de Penitentiaire beginselenwet](../../../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md), dan wel waar de gedetineerde, de deelnemer aan een penitentiair programma of degene aan wie de maatregel bedoeld in [artikel 38m van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) is opgelegd met toestemming verblijft, zonder begeleiding;  
+f. het zonder toestemming verlaten van een open afdeling van een instelling waarnaar de gedetineerde is overgebracht op grond van artikel 15, vijfde lid, artikel 42, vierde lid, onder c, of artikel 43, derde lid, van de Penitentiaire beginselenwet, dan wel waar de gedetineerde, de deelnemer aan een penitentiair programma of degene aan wie de maatregel bedoeld in artikel 38m van het Wetboek van Strafrecht is opgelegd met toestemming verblijft, zonder begeleiding;  
 
 g. het zich niet tijdig op de afgesproken plaats bevinden of daar terugkeren na of tijdens onbegeleid verlof, deelname aan een penitentiair programma, of ander toegestaan verblijf buiten de inrichting zonder begeleiding.   
 
@@ -181,7 +181,7 @@ b. het hoofd van het BCL dan wel het hoofd van het BCV.
 
 ### Hoofdstuk  3  
 
-####Meldingsprocedure bij ongeoorloofde afwezigheid als bedoeld in [artikel 7a, tweede lid, van de beginselenwet verpleging ter beschikking gestelden](../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md)
+####Meldingsprocedure bij ongeoorloofde afwezigheid als bedoeld in artikel 7a, tweede lid, van de beginselenwet verpleging ter beschikking gestelden
 
 ### Paragraaf  1  
 
@@ -191,12 +191,12 @@ b. het hoofd van het BCL dan wel het hoofd van het BCV.
 
 ####Begripsbepalingen
 
-1.  Op dit hoofdstuk zijn de begripsbepalingen, bedoeld in [artikel 1 van de Beginselenwet verpleging ter beschikking gestelden](../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md), van toepassing.   
+1.  Op dit hoofdstuk zijn de begripsbepalingen, bedoeld in artikel 1 van de Beginselenwet verpleging ter beschikking gestelden, van toepassing.   
 2.  In dit hoofdstuk van deze Regeling wordt verstaan onder: 
 
-a. de inrichting: de inrichting bedoeld in [artikel 1, onder b, van de Beginselenwet verpleging ter beschikking gestelden](../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md);  
+a. de inrichting: de inrichting bedoeld in artikel 1, onder b, van de Beginselenwet verpleging ter beschikking gestelden;  
 
-b. het hoofd: het hoofd van de inrichting voor verpleging van ter beschikking gestelden bedoeld in [artikel 1, onder h, van de Beginselenwet verpleging ter beschikking gestelden](../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md).    
+b. het hoofd: het hoofd van de inrichting voor verpleging van ter beschikking gestelden bedoeld in artikel 1, onder h, van de Beginselenwet verpleging ter beschikking gestelden.    
 
 ### Artikel  3.2  
 
@@ -206,7 +206,7 @@ Ongeoorloofde afwezigheid als bedoeld in dit hoofdstuk is het gevolg van het zic
 
 a. het zonder toestemming verlaten van de inrichting of het tot de inrichting behorende terrein;  
 
-b. het zonder toestemming verlaten van de instelling waarnaar de verpleegde is overgebracht op grond van [artikel 13](../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md), [artikel 14](../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md), of [artikel 41, vierde lid, onderdeel c, van de Beginselenwet verpleging ter beschikking gestelden](../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md);  
+b. het zonder toestemming verlaten van de instelling waarnaar de verpleegde is overgebracht op grond van artikel 13, artikel 14, of artikel 41, vierde lid, onderdeel c, van de Beginselenwet verpleging ter beschikking gestelden;  
 
 c. het zich onttrekken aan het toezicht tijdens vervoer;  
 
@@ -270,7 +270,7 @@ b. de directeur FZ; het hoofd stelt daartoe het hoofd van de afdeling Plaatsing 
 
 ### Hoofdstuk  4  
 
-####Meldingsprocedure bij ongeoorloofde afwezigheid als bedoeld in [artikel 5, tweede lid, van de beginselenwet justitiële jeugdinrichtingen](../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md)
+####Meldingsprocedure bij ongeoorloofde afwezigheid als bedoeld in artikel 5, tweede lid, van de beginselenwet justitiële jeugdinrichtingen
 
 ### Paragraaf  1  
 
@@ -280,7 +280,7 @@ b. de directeur FZ; het hoofd stelt daartoe het hoofd van de afdeling Plaatsing 
 
 ####Begripsbepalingen
 
-Op dit hoofdstuk zijn de begripsbepalingen, bedoeld in [artikel 1 van de Beginselenwet justitiële jeugdinrichtingen](../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md), van toepassing. 
+Op dit hoofdstuk zijn de begripsbepalingen, bedoeld in artikel 1 van de Beginselenwet justitiële jeugdinrichtingen, van toepassing. 
 
 ### Artikel  4.2  
 
@@ -290,7 +290,7 @@ Ongeoorloofde afwezigheid als bedoeld in dit hoofdstuk is het gevolg van het zic
 
 a. het zonder toestemming verlaten van de inrichting of het tot de inrichting behorende terrein;  
 
-b. het zonder toestemming verlaten van de instelling waarnaar de jeugdige is overgebracht op grond van [artikel 12, achtste lid](../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md), of [artikel 48, derde lid, van de Beginselenwet justitiële jeugdinrichtingen](../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md);  
+b. het zonder toestemming verlaten van de instelling waarnaar de jeugdige is overgebracht op grond van artikel 12, achtste lid, of artikel 48, derde lid, van de Beginselenwet justitiële jeugdinrichtingen;  
 
 c. het zich onttrekken aan het toezicht tijdens vervoer;  
 
@@ -320,7 +320,7 @@ a. de groep strafrechtelijk geplaatsten omvat de jeugdigen aan wie is opgelegd:
 
 b. de groep niet-strafrechtelijk geplaatsten omvat de jeugdigen: 
 
-1° die op grond van [artikel 29k, tweede lid, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) in de inrichting verblijven;  
+1° die op grond van artikel 6.2.2, tweede lid, van de Jeugdwet in de inrichting verblijven;  
 
 2° in vreemdelingenbewaring;  
 
@@ -366,7 +366,7 @@ c. de officier van justitie of advocaat-generaal die de ongeoorloofd afwezige ve
 
 ####Meldingen na constatering ongeoorloofde afwezigheid niet-strafrechtelijk geplaatsten
 
-1.  De directeur meldt de ongeoorloofde afwezigheid van de jeugdigen bedoeld in artikel 4.4, onder b, onder 1°, onmiddellijk na constatering ervan telefonisch aan de betrokken stichting bedoeld in [artikel 1, eerste lid, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).   
+1.  De directeur meldt de ongeoorloofde afwezigheid van de jeugdigen bedoeld in artikel 4.4, onder b, onder 1°, onmiddellijk na constatering ervan telefonisch aan de betrokken gecertificeerde instelling, bedoeld in artikel 1.1 van de Jeugdwet.   
 2.  De directeur meldt de ongeoorloofde afwezigheid van de jeugdigen bedoeld in artikel 4.4, onder b, onder 2° en 3°, onmiddellijk na constatering ervan telefonisch aan: 
 
 a. de politie;  
@@ -419,7 +419,7 @@ d. de gezagdragers van de jeugdige.
 
 a. de sectordirecteur JJI; de directeur stelt daartoe de door de sectordirecteur aangewezen ambtenaar of piketambtenaar per elektronische post of per fax op de hoogte;  
 
-b. de betrokken stichting als bedoeld in [artikel 1, eerste lid, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).     
+b. de betrokken gecertificeerde instelling, bedoeld in artikel 1.1 van de Jeugdwet.     
 4.  Indien de ongeoorloofd afwezige jeugdige bedoeld in artikel 4.4, onder b, onder 2° en 3°, zichzelf meldt, informeert de directeur van de inrichting waar hij zich heeft gemeld, dan wel de directeur van de inrichting waar hij staat ingeschreven, hierover: 
 
 a. de politie zo spoedig mogelijk per elektronische post of per fax;  

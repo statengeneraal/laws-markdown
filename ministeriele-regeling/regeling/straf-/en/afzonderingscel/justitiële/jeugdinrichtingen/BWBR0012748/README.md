@@ -3,7 +3,7 @@
 ##Regeling straf- en afzonderingscel justitiële jeugdinrichtingen 
 
 De Minister van Justitie,  
-Gelet op [artikel 25, zevende lid](../../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md), [artikel 26, vierde lid](../../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md), [artikel 56, derde lid](../../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md) en [artikel 59, derde lid, van de Beginselenwet justitiële jeugdinrichtingen](../../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md);
+Gelet op artikel 25, zevende lid, artikel 26, vierde lid, artikel 56, derde lid en artikel 59, derde lid, van de Beginselenwet justitiële jeugdinrichtingen;
 
 Gezien het advies van het College van advies voor de justitiële kinderbescherming van 12 oktober 2000 nr. 5056746/00/TH/rb en van 1 februari 2001 nr. 5078699/01/TH/rb;
 Besluit:      
@@ -15,7 +15,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a.  *wet:* de [Beginselenwet justitiële jeugdinrichtingen](../../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md).    
+a.  *wet:* de Beginselenwet justitiële jeugdinrichtingen.    
 
 ### Paragraaf 2  
 
@@ -27,7 +27,7 @@ Bij de tenuitvoerlegging van een disciplinaire straf in een strafcel of van een 
 
 ### Artikel  3  
 
-Indien de afzondering, bedoeld in [artikel 25, eerste lid, van de wet](../../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md), niet ten uitvoer kan worden gelegd in een verblijfsruimte vindt deze plaats in een afzonderingscel.  
+Indien de afzondering, bedoeld in artikel 25, eerste lid, van de wet, niet ten uitvoer kan worden gelegd in een verblijfsruimte vindt deze plaats in een afzonderingscel.  
 
 ### Artikel  4  
 
@@ -57,7 +57,7 @@ De directeur draagt er zorg voor dat de wijze van verslaglegging over het verbli
 
 ### Artikel  9  
 
-De [artikelen 2](../../../../../../../../ministeriele-regeling/regeling/eisen/kamer/justitiële/jeugdinrichtingen/BWBR0012736/README.md), [5](../../../../../../../../ministeriele-regeling/regeling/eisen/kamer/justitiële/jeugdinrichtingen/BWBR0012736/README.md), [6](../../../../../../../../ministeriele-regeling/regeling/eisen/kamer/justitiële/jeugdinrichtingen/BWBR0012736/README.md) en [7 van de Regeling eisen kamer justitiële jeugdinrichting](../../../../../../../../ministeriele-regeling/regeling/eisen/kamer/justitiële/jeugdinrichtingen/BWBR0012736/README.md) zijn van overeenkomstige toepassing ten aanzien van een straf- of afzonderingscel.  
+De artikelen 2, 5, 6 en 7 van de Regeling eisen kamer justitiële jeugdinrichting zijn van overeenkomstige toepassing ten aanzien van een straf- of afzonderingscel.  
 
 ### Artikel  10  
 
@@ -94,7 +94,7 @@ In de straf- of afzonderingscel kan daglicht toetreden.
 2.  De directeur kan het recht van de jeugdige om te telefoneren met, of het ontvangen van bezoek van, persoonlijke relaties slechts beperken of uitsluiten indien het belang van de handhaving van de orde of de veiligheid in de inrichting, dan wel de gedragingen, lichamelijke of geestelijke toestand van de jeugdige, zulks noodzakelijk maken.   
 3.  Het bezoek vindt gescheiden van de overige jeugdigen en onder toezicht plaats.   
 4.  Tenzij de directeur anders beslist op grond van de gedragingen, lichamelijke of geestelijke toestand van de jeugdige, wordt er geen toezicht uitgeoefend op de bezoeken die door een advocaat dan wel andere hulpverleners worden afgelegd.   
-5.  Het is de in [artikel 42, eerste lid, van de wet](../../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md) genoemde personen en instanties toegestaan vrijelijk contact te onderhouden met de jeugdige.   
+5.  Het is de in artikel 42, eerste lid, van de wet genoemde personen en instanties toegestaan vrijelijk contact te onderhouden met de jeugdige.   
 
 ### Artikel  16  
 
@@ -106,7 +106,7 @@ De jeugdige die verblijft in een straf- of afzonderingscel heeft het recht lectu
 
 ### Artikel  18  
 
-De jeugdige wordt, gedurende zijn verblijf in de straf- of afzonderingscel, in staat gesteld goederen te kopen. Aangekochte goederen worden in de kamer, bedoeld in [artikel 17, tweede lid, van de wet](../../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md) opgeslagen, tenzij de directeur bepaalt dat tegen uitreiking van bepaalde goederen in de straf- of afzonderingscel geen bezwaar bestaat.  
+De jeugdige wordt, gedurende zijn verblijf in de straf- of afzonderingscel, in staat gesteld goederen te kopen. Aangekochte goederen worden in de kamer, bedoeld in artikel 17, tweede lid, van de wet opgeslagen, tenzij de directeur bepaalt dat tegen uitreiking van bepaalde goederen in de straf- of afzonderingscel geen bezwaar bestaat.  
 
 ### Artikel  19  
 
@@ -155,7 +155,7 @@ De jeugdige wordt voor de plaatsing in een straf- of afzonderingscel aan zijn kl
 1.  De directeur kan, indien de lichamelijke of geestelijke toestand van de jeugdige dit noodzakelijk maakt, bepalen dat de jeugdige dag en nacht door middel van een camera wordt geobserveerd.   
 2.  Alvorens hij hiertoe beslist, wint hij het advies van de inrichtingsarts dan wel de kinder- of jeugdpsychiater dan wel een gedragsdeskundige in, tenzij dit advies niet kan worden afgewacht. In dat geval wint de directeur het advies zo spoedig mogelijk na zijn beslissing in.   
 3.  De directeur geeft de jeugdige onverwijld schriftelijk, zoveel mogelijk in een voor hem begrijpelijke taal, een met redenen omklede, gedagtekende en ondertekende mededeling van zijn beslissing om tot camera observatie over te gaan.   
-4.  De directeur draagt zorg dat, indien wordt besloten tot camera observatie, de commissie van toezicht, alsmede de ouders of voogd, stiefouder of pleegouders, de stichting bedoeld in [artikel 1, eerste lid, van de Wet op de jeugdzorg](../../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), terstond hiervan in kennis worden gesteld.   
+4.  De directeur draagt zorg dat, indien wordt besloten tot camera observatie, de commissie van toezicht, alsmede de ouders of voogd, stiefouder of pleegouders, de gecertificeerde instelling, bedoeld in artikel 1.1 van de Jeugdwet, terstond hiervan in kennis worden gesteld.   
 
 ### Artikel  27  
 
@@ -183,10 +183,10 @@ De directeur instrueert het personeelslid of de medewerker, die wordt belast met
 
 ### Artikel  31  
 
-1.  Indien de directeur voornemens is, met toepassing van [artikel 26, eerste lid](../../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md), of [artikel 56, eerste lid, van de wet](../../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md). de afzondering buiten de eigen inrichting ten uitvoer te leggen, maakt hij zijn voorgenomen besluit kenbaar aan de selectiefunctionaris.   
+1.  Indien de directeur voornemens is, met toepassing van artikel 26, eerste lid, of artikel 56, eerste lid, van de wet. de afzondering buiten de eigen inrichting ten uitvoer te leggen, maakt hij zijn voorgenomen besluit kenbaar aan de selectiefunctionaris.   
 2.  Indien de afzondering buiten de eigen inrichting ten uitvoer wordt gelegd, voert de selectiefunctionaris omtrent de plaatsing overleg met de inrichting waar de afzondering dient te worden uitgevoerd.   
 3.  De directeur besluit tot plaatsing na instemming van de selectiefunctionaris.   
-4.  De directeur draagt zorg, dat indien besloten wordt tot overplaatsing, de ouders of voogd, stiefouder of pleegouders, de stichting bedoeld in [artikel 1, eerste lid, van de Wet op de jeugdzorg](../../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), terstond hiervan in kennis worden gesteld.   
+4.  De directeur draagt zorg, dat indien besloten wordt tot overplaatsing, de ouders of voogd, stiefouder of pleegouders, de gecertificeerde instelling, bedoeld in artikel 1.1 van de Jeugdwet, terstond hiervan in kennis worden gesteld.   
 
 ### Artikel  32  
 

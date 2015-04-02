@@ -73,7 +73,7 @@ Artikel 4, derde lid, van de wet vindt uitsluitend toepassing indien de hoeveelh
 
 ### Artikel  8  
 
-Indien alcoholvrije dranken zijn verpakt in kleinhandelsverpakking, wordt het volume in aanmerking genomen dat op de verpakking is vermeld. 
+Indien alcoholvrije dranken zijn verpakt in kleinhandelsverpakking, wordt het volume in aanmerking genomen dat op de verpakking is vermeld, mits de wijze waarop dat is vastgesteld en de aanduiding ervan voldoen aan de voorschriften gesteld bij het Warenwetbesluit hoeveelheden voorverpakkingen. 
 
 ### Hoofdstuk  III  
 

@@ -3,8 +3,8 @@
 ##Regeling bekendmaking constanten regressieformules en waarden voor de gemiddelde CO2-uitstoot voor benzine- en dieselauto’s 2012 en 2013
 
 De Directie van de Dienst Wegverkeer,  
-Gelet op [artikel 8 van het Besluit etikettering energiegebruik personenauto’s](../../../../../../../../../../../AMvB/besluit/etikettering/energiegebruik/personenauto's/BWBR0011761/README.md) van 3 november 2000.
-Besluit:    De constanten voor de in [bijlage 4 bij het Besluit etikettering energiegebruik personenauto’s](../../../../../../../../../../../AMvB/besluit/etikettering/energiegebruik/personenauto's/BWBR0011761/README.md) opgenomen regressieformules, en de daarbij behorende waarden van de gemiddelde CO<sub>2</sub>-uitstoot, voor personenauto’s met benzine als brandstof en voor personenauto’s met diesel als brandstof voor de kalenderjaren 2012 en 2013, als volgt vast te stellen: 
+Gelet op artikel 8 van het Besluit etikettering energiegebruik personenauto’s van 3 november 2000.
+Besluit:    De constanten voor de in bijlage 4 bij het Besluit etikettering energiegebruik personenauto’s opgenomen regressieformules, en de daarbij behorende waarden van de gemiddelde CO<sub>2</sub>-uitstoot, voor personenauto’s met benzine als brandstof en voor personenauto’s met diesel als brandstof voor de kalenderjaren 2012 en 2013, als volgt vast te stellen: 
 ### *Set 1: Constanten voor 2012* 
 
 1. Constanten voertuiglengte:  

@@ -3,9 +3,9 @@
 ##Verordening van de Sociaal-Economische Raad van 22 maart 2002, houdende regelen omtrent de samenstelling, de werkwijze en het voorzitterschap van de bedrijfscommissies (Verordening op de bedrijfscommissies 2002) 
 
 De Sociaal-Economische Raad;
-Gelet op [artikel 36 van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+Gelet op artikel 36 van de Wet op de bedrijfsorganisatie;
 
-Gelet op [artikel 39 van de Wet op de ondernemingsraden](../../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md);
+Gelet op artikel 39 van de Wet op de ondernemingsraden;
 
 Gehoord de Bestuurskamer;
 Besluit:  
@@ -19,7 +19,7 @@ In deze verordening wordt verstaan onder:
 
 | --- | --- | --- |
 |:---|:---|:---|
-|a. |de wet: |de [Wet op de ondernemingsraden](../../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md); |
+|a. |de wet: |de Wet op de ondernemingsraden; |
 |b. |de Minister: |de Minister van Sociale Zaken en Werkgelegenheid; |
 |c. |de Raad: |de Sociaal-Economische Raad. |
 
@@ -32,7 +32,7 @@ In deze verordening wordt verstaan onder:
 1. De leden en de plaatsvervangende leden van een bedrijfscommissie worden benoemd voor een zittingsperiode van vier jaar. Zij treden tegelijk af en kunnen terstond opnieuw worden benoemd.
 2. Het tijdstip waarop de eerste zittingsperiode aanvangt, wordt bepaald door de Raad.
 3. Hij die tot lid of tot plaatsvervangend lid van een bedrijfscommissie is benoemd ter vervulling van een tussentijds opengevallen plaats, treedt af op het tijdstip waarop degene, in wiens plaats hij is benoemd, had moeten aftreden.
-4. Ten minste zes maanden voor het begin van iedere zittingsperiode wint de Raad het advies in van de bedrijfscommissie inzake de vraag of er grond bestaat wijziging te brengen in de krachtens [artikel 38 van de wet](../../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md) door de Raad gedane aanwijzing van organisaties dan wel bepaling van het aantal leden dat elke aangewezen organisatie kan benoemen. Van het inwinnen van het advies wordt door de Raad mededeling gedaan in het Mededelingenblad Bedrijfsorganisatie.
+4. Ten minste zes maanden voor het begin van iedere zittingsperiode wint de Raad het advies in van de bedrijfscommissie inzake de vraag of er grond bestaat wijziging te brengen in de krachtens artikel 38 van de wet door de Raad gedane aanwijzing van organisaties dan wel bepaling van het aantal leden dat elke aangewezen organisatie kan benoemen. Van het inwinnen van het advies wordt door de Raad mededeling gedaan in het Mededelingenblad Bedrijfsorganisatie.
 
 ###Artikel 3 
 
@@ -47,7 +47,7 @@ In deze verordening wordt verstaan onder:
 ### Artikel  5  
 
 1. Een bedrijfscommissie kan al dan niet uit haar midden commissies of kamers instellen. Aan deze commissies of kamers kunnen, geheel of gedeeltelijk en al dan niet voorwaardelijk, bevoegdheden van de bedrijfscommissie worden overgedragen. 
-2. Elke bedrijfscommissie stelt, al dan niet gezamenlijk met een andere bedrijfscommissie, een scholingskamer in ter behandeling van vragen en geschillen over [artikel 18, tweede en derde lid](../../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md), en [artikel 22, derde en vierde lid, van de wet](../../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md).
+2. Elke bedrijfscommissie stelt, al dan niet gezamenlijk met een andere bedrijfscommissie, een scholingskamer in ter behandeling van vragen en geschillen over artikel 18, tweede en derde lid, en artikel 22, derde en vierde lid, van de wet.
 
 ### Artikel  6  
 
@@ -148,7 +148,7 @@ Een bedrijfscommissie brengt jaarlijks voor 1 april aan de Minister en de Raad v
 
 ###Artikel  18a 
 
-De ondernemingsraad en de ondernemer kunnen, al dan niet gezamenlijk, vragen over [artikel 18, tweede en derde lid](../../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md), en [artikel 22, derde en vierde lid, van de wet](../../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md) en geschillen over deze artikelen voorleggen aan de scholingskamer. Het in de vorige zin bepaalde is van overeenkomstige toepassing voor een centrale ondernemingsraad en een groepsondernemingsraad.
+De ondernemingsraad en de ondernemer kunnen, al dan niet gezamenlijk, vragen over artikel 18, tweede en derde lid, en artikel 22, derde en vierde lid, van de wet en geschillen over deze artikelen voorleggen aan de scholingskamer. Het in de vorige zin bepaalde is van overeenkomstige toepassing voor een centrale ondernemingsraad en een groepsondernemingsraad.
 
 ###Artikel  18b 
 

@@ -2,12 +2,13 @@
 
 ##Bekendmaking constanten regressieformules en waarden voor de gemiddelde CO2-uitstoot voor benzine- en dieselauto's 2010
 
-Gelet op [artikel 8 van het Besluit etikettering energiegebruik personenauto' s](../../../../../../../../../../../AMvB/besluit/etikettering/energiegebruik/personenauto's/BWBR0011761/README.md) van 3 november 2000 (Stb. 2000, nr. 475);
+Gelet op artikel 8 van het Besluit etikettering energiegebruik personenauto' s van 3 november 2000 (Stb. 2000, nr. 475);
 Besluit:    
 
 ### Enig artikel  
+Materieel uitgewerkt per 01-01-2013 
 
-De constanten voor de in [bijlage 4 bij het Besluit etikettering energiegebruik personenauto's](../../../../../../../../../../../AMvB/besluit/etikettering/energiegebruik/personenauto's/BWBR0011761/README.md) opgenomen regressieformules, en de daarbij behorende waarden van de gemiddelde CO<sub>2</sub>-uitstoot voor personenauto's met benzine als brandstof, en voor personenauto's met diesel als brandstof, voor het kalenderjaar 2010, als volgt vast te stellen: 
+De constanten voor de in bijlage 4 bij het Besluit etikettering energiegebruik personenauto's opgenomen regressieformules, en de daarbij behorende waarden van de gemiddelde CO<sub>2</sub>-uitstoot voor personenauto's met benzine als brandstof, en voor personenauto's met diesel als brandstof, voor het kalenderjaar 2010, als volgt vast te stellen: 
 ###SET 1.
 
 Constanten berekend op basis van de huidige wetgeving  1. Constanten voertuiglengte: 

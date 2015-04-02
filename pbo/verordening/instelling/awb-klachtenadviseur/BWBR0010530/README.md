@@ -3,9 +3,9 @@
 ##Verordening van de Sociaal-Economische Raad van 18 juni 1999 houdende instelling van een adviseur als bedoeld in afdeling 9.3 van de Algemene wet bestuursrecht
 
 De Sociaal-Economische Raad;
-Gelet op [artikel 31](../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [artikel 35 van de Wet op de bedrijfsorganisatie](../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+Gelet op artikel 31 en artikel 35 van de Wet op de bedrijfsorganisatie;
 
-Gelet op [artikel 9:14 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);
+Gelet op artikel 9:14 van de Algemene wet bestuursrecht;
 Besluit:
 ###§ 1 
 
@@ -17,8 +17,8 @@ In deze verordening wordt verstaan onder:
 
 | --- | --- | --- |
 |:---|:---|:---|
-|a. Awb |: |[Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md); |
-|b. klacht |: |elke mondelinge of schriftelijke uiting van ongenoegen over een gedraging van de Raad als bedoeld in [artikel 9:1 van de Awb](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), voorzover tegen de gedraging niet de mogelijkheid van bezwaar of beroep als bedoeld in de [Awb](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) openstaat of heeft opengestaan. |
+|a. Awb |: |Algemene wet bestuursrecht; |
+|b. klacht |: |elke mondelinge of schriftelijke uiting van ongenoegen over een gedraging van de Raad als bedoeld in artikel 9:1 van de Awb, voorzover tegen de gedraging niet de mogelijkheid van bezwaar of beroep als bedoeld in de Awb openstaat of heeft opengestaan. |
 
 ###Artikel 2 
 
@@ -28,7 +28,7 @@ In deze verordening wordt verstaan onder:
 
 ###Artikel 3 
 
-De klachtenadviseur heeft als taak advies uit te brengen over ingediende klachten met in achtneming van de bepalingen van [artikel 9:15 van de Awb](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).
+De klachtenadviseur heeft als taak advies uit te brengen over ingediende klachten met in achtneming van de bepalingen van artikel 9:15 van de Awb.
 
 ###§ 2 
 

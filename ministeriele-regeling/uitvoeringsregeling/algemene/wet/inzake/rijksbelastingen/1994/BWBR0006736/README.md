@@ -561,7 +561,7 @@ d. de Minister van Economische Zaken:
 
 1°. gegevens die van belang kunnen zijn voor de uitvoering van titel 3.11 van de Regeling nationale EZ-subsidies;  
 
-2°. gegevens met betrekking tot bedrijven als bedoeld in artikel 3, eerste lid, onderdeel a, van de Wet voorraadvorming aardolieproducten 2001 ten behoeve van de uitvoering van die wet;  
+2°. gegevens met betrekking tot bedrijven als bedoeld in artikel 4, eerste lid, onderdeel a, van de Wet voorraadvorming aardolieproducten 2012 ten behoeve van de uitvoering van die wet;  
 
 3°. gegevens over het inkomen van uitgetreden vissers, ten behoeve van het controleren van de juistheid van de aan die vissers toegekende financiële tegemoetkoming, bedoeld in artikel 4:9, eerste lid, onderdeel d, van de Regeling LNV-subsidies;  
 
@@ -659,10 +659,10 @@ y. de Nederlandse Voedsel- en Warenautoriteit: gegevens met betrekking tot het d
 
 z. de inspecteur, bedoeld in artikel 1, onderdeel h, van het Besluit tegemoetkoming specifieke zorgkosten, en de ontvanger, bedoeld in artikel 1, onderdeel i, van dat besluit: gegevens die van belang zijn voor de uitvoering van het Besluit tegemoetkoming specifieke zorgkosten; 
 
-aa.de Minister voor Wonen en Rijksdienst of het Centraal Fonds voor de Volkshuisvesting: de resultaten van bestandsbevragingen ter verificatie van bij de directie Woningmarkt van het directoraat-generaal Wonen, Bouwen en Integratie van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties of het Centraal Fonds voor de Volkshuisvesting aanwezige informatie, alsmede vastgoedtransactiegegevens en inkomensgegevens van leden van de raad van bestuur en van medewerkers van de woningcorporaties, ten behoeve van het toezicht op de woningcorporaties en ten behoeve van integriteitsonderzoeken;
+aa.de Minister voor Wonen en Rijksdienst of het Centraal Fonds voor de Volkshuisvesting: de resultaten van bestandsbevragingen ter verificatie van bij de directie Woningmarkt van het directoraat-generaal Wonen, Bouwen en Integratie van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties of het Centraal Fonds voor de Volkshuisvesting aanwezige informatie, alsmede vastgoedtransactiegegevens, inkomensgegevens en vermogensgegevens van leden van de raad van bestuur of raad van toezicht en van medewerkers van de woningcorporaties, en van derden voor zover die gegevens direct of indirect verband houden met genoemde leden en medewerkers, ten behoeve van het toezicht op de woningcorporaties en ten behoeve van integriteitsonderzoeken;
 
 ab. Stichting Nationale en Internationale Wegvervoer Organisatie: de controlerapporten en onderzoeksverslagen die zijn opgemaakt naar aanleiding van controles bij vervoerders, gegevens omtrent btw-identificatienummers van vervoerders en gegevens van vervoerders die op één adres staan ingeschreven, ten behoeve van de uitvoering en handhaving van de haar op grond van de Wet wegvervoer goederen toegekende taken.    
-2.  De in het eerste lid bedoelde gegevens worden verstrekt op verzoek van het betreffende bestuursorgaan. De eerste volzin is niet van toepassing op de verstrekking van gegevens als bedoeld in het eerste lid, onderdeel l, onder 3°, alsmede de onderdelen i en t, voor zover het gegevens betreft die worden verstrekt aan de landelijk directeur van de Belastingdienst/Grote ondernemingen.   
+2.  De in het eerste lid bedoelde gegevens worden verstrekt op verzoek van het betreffende bestuursorgaan. De eerste volzin is niet van toepassing op de verstrekking van gegevens als bedoeld in het eerste lid, onderdeel l, onder 3°, en onderdeel aa, alsmede de onderdelen i en t voor zover het gegevens betreft die worden verstrekt aan de landelijk directeur van de Belastingdienst/Grote ondernemingen.   
 3.  Voor de toepassing van het eerste lid wordt verstaan onder: 
 
 a. inkomen: het inkomensgegeven, bedoeld in artikel 21, onderdeel e, van de wet;  

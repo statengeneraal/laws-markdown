@@ -3,7 +3,7 @@
 ##Beleidsregels van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 5 september 2012 september 2012, nr. 2012-0000515185 ter uitvoering van het Besluit beheer sociale-huursector inzake het gebruik van financiële derivaten door toegelaten instellingen als bedoeld in artikel 70 van de Woningwet (Beleidsregels gebruik financiële derivaten door toegelaten instellingen volkshuisvesting)
 
 De Minister van Binnenlandse Zaken en Koninkrijksrelaties,  
-Gelet op [artikel 21 van het Besluit beheer sociale-huursector](../../../../../../../../../../AMvB/besluit/beheer/sociale-huursector/BWBR0005686/README.md);
+Gelet op artikel 21 van het Besluit beheer sociale-huursector;
 Besluit:     
 ### §  1  
 
@@ -37,9 +37,9 @@ i.  *hedging:* afdekken dan wel beperken van opwaartse renterisico’s van aange
 
 j.  *liquiditeitsbuffer:* som van de bij een toegelaten instelling aanwezige liquide middelen, op zeer korte termijn liquide te maken beleggingen en direct opeisbare en voor het doel van de buffer aan te wenden leningsfaciliteiten;  
 
-k.  *toegelaten instelling:* toegelaten instelling als bedoeld in [artikel 70 van de Woningwet](../../../../../../../../../../wet/woningwet/BWBR0005181/README.md);  
+k.  *toegelaten instelling:* toegelaten instelling als bedoeld in artikel 70 van de Woningwet;  
 
-l.  *fonds:* Centraal Fonds voor de Volkshuisvesting, bedoeld in [artikel 71 van de Woningwet](../../../../../../../../../../wet/woningwet/BWBR0005181/README.md);  
+l.  *fonds:* Centraal Fonds voor de Volkshuisvesting, bedoeld in artikel 71 van de Woningwet;  
 
 m.  *minister:* Minister van Binnenlandse Zaken en Koninkrijksrelaties;  
 
@@ -89,7 +89,7 @@ d. beheersingsstructuren rond de risico’s van financiële derivaten, onder mee
 
 ### Artikel  5  
 
-1. Toegelaten instellingen mogen uitsluitend financiële derivaten aantrekken van een financiële instelling, als zij door die financiële instelling in het kader van de zorgplichtregels van de [Wet op het financieel toezicht](../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), in het bijzonder [artikel 4:18d van die wet](../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), als ‘niet professionele belegger’ worden aangemerkt.
+1. Toegelaten instellingen mogen uitsluitend financiële derivaten aantrekken van een financiële instelling, als zij door die financiële instelling in het kader van de zorgplichtregels van de Wet op het financieel toezicht, in het bijzonder artikel 4:18d van die wet, als ‘niet professionele belegger’ worden aangemerkt.
 2. Een toegelaten instelling sluit, voordat zij een financieel derivaat aantrekt van een financiële instelling, een raamovereenkomst, zoals opgenomen in bijlage I bij deze beleidsregels, met die financiële instelling.
 
 ### Artikel  6  
@@ -126,7 +126,7 @@ b. in overleg met het fonds een beleidslijn op te stellen gericht op het weer ku
 
 ### Artikel  9  
 
-1.  Toegelaten instellingen die financiële derivaten gebruiken, dienen zich hierover in hun jaarverslag of in hun cijfermatige kerngegevens, bedoeld in [artikel 26, derde lid, van het Besluit beheer sociale-huursector](../../../../../../../../../../AMvB/besluit/beheer/sociale-huursector/BWBR0005686/README.md), op een transparante, complete en inzichtelijke wijze te verantwoorden.   
+1.  Toegelaten instellingen die financiële derivaten gebruiken, dienen zich hierover in hun jaarverslag of in hun cijfermatige kerngegevens, bedoeld in artikel 26, derde lid, van het Besluit beheer sociale-huursector, op een transparante, complete en inzichtelijke wijze te verantwoorden.   
 2.  De verantwoording, bedoeld in het eerste lid, heeft in elk geval betrekking op: 
 
 a. de interne organisatie, bedoeld in artikel 3, eerste lid;  
@@ -136,7 +136,7 @@ b. de samenstelling en omvang van de derivatenportefeuille van de toegelaten ins
 c. de liquiditeitsbuffer, bedoeld in artikel 8, en  
 
 d. de wijze waarop de toegelaten instellingolkshuisvestingsverslag mee kan (moet) doen) toepassing geeft aan artikel 10, indien dat artikel op haar van toepassing is.     
-3.  Voor zover niet of niet anders bepaald in deze beleidsregels zijn voor de verwerking, waardering, resultaatbepaling, presentatie en toelichting van financiële derivaten in de jaarrekening [titel 9 van Boek 2 van het Burgerlijk Wetboek](../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en richtlijn 290 Financiële instrumenten’ van de Raad voor de Jaarverslaggeving van toepassing.   
+3.  Voor zover niet of niet anders bepaald in deze beleidsregels zijn voor de verwerking, waardering, resultaatbepaling, presentatie en toelichting van financiële derivaten in de jaarrekening titel 9 van Boek 2 van het Burgerlijk Wetboek en richtlijn 290 Financiële instrumenten’ van de Raad voor de Jaarverslaggeving van toepassing.   
 4.  Het fonds betrekt de solvabiliteitsrisico’s vanwege het bezit van financiële derivaten bij zijn financiële oordelen over de toegelaten instelling.  
 
 ### §  9  
@@ -180,19 +180,19 @@ J.W.E. Spies
 
 [•] (*‘Partij B’*).     OVERWEGENDE DAT 
 
-A. Partij B een Nederlandse woningcorporatie is die ingevolge het bepaalde in de [Woningwet](../../../../../../../../../../wet/woningwet/BWBR0005181/README.md) onder toezicht staat.  
+A. Partij B een Nederlandse woningcorporatie is die ingevolge het bepaalde in de Woningwet onder toezicht staat.  
 
 B. In de *Beleidsregels gebruik financiële derivaten door toegelaten instellingen volkshuisvesting* van 5 september 2012, nr. 2012-0000515185 (de *‘Beleidsregel’*) is vastgelegd onder welke voorwaarden woningcorporaties een interest rate swap (*‘IRS’*) mogen aangaan.  
 
-C. Deze raamovereenkomst (de *‘Overeenkomst’*) regelt dat, in overeenstemming met de Beleidsregel, Nederlands recht van toepassing is op de rechtsverhouding tussen Partij A en Partij B, en de toepasselijkheid van de [Wet op het financieel Toezicht](../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) (*‘Wft’*) en het Burgerlijk Wetboek (*‘BW’*).  
+C. Deze raamovereenkomst (de *‘Overeenkomst’*) regelt dat, in overeenstemming met de Beleidsregel, Nederlands recht van toepassing is op de rechtsverhouding tussen Partij A en Partij B, en de toepasselijkheid van de Wet op het financieel Toezicht (*‘Wft’*) en het Burgerlijk Wetboek (*‘BW’*).  
 
 D. Alle aspecten van de IRS die tussen Partij A en Partij B wordt aangegaan zijn onderhevig aan de toepasselijke ISDA Master Agreement, Schedule en Confirmations.    *VERKLAREN TE ZIJN OVEREENGEKOMEN ALS VOLGT:*  
 
-1. Partij A is verplicht te handelen overeenkomstig de Beleidsregel en verplicht zorg te dragen dat Partij B in overeenstemming met de Beleidsregel handelt. Deze Overeenkomst wordt aangemerkt als een overeenkomst van dienstverlening als bedoeld in [artikel 7:400 BW](../../../../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md).  
+1. Partij A is verplicht te handelen overeenkomstig de Beleidsregel en verplicht zorg te dragen dat Partij B in overeenstemming met de Beleidsregel handelt. Deze Overeenkomst wordt aangemerkt als een overeenkomst van dienstverlening als bedoeld in artikel 7:400 BW.  
 
-2. Partij A erkent en accepteert dat op Partij A een geschreven en ongeschreven zorgplicht rust jegens Partij B als bedoeld in het BW, de [Wft](../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en de Algemene Bankvoorwaarden.  
+2. Partij A erkent en accepteert dat op Partij A een geschreven en ongeschreven zorgplicht rust jegens Partij B als bedoeld in het BW, de Wft en de Algemene Bankvoorwaarden.  
 
-3. Partij A en Partij B komen ingevolge [artikel 4:18d Wft](../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) overeen dat Partij B zal worden aangemerkt als een niet-professionele belegger als bedoeld in [artikel 1:1 Wft](../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).  
+3. Partij A en Partij B komen ingevolge artikel 4:18d Wft overeen dat Partij B zal worden aangemerkt als een niet-professionele belegger als bedoeld in artikel 1:1 Wft.  
 
 4. Indien Partij A met Partij B één of meer transacties aangaat die ingevolge de Beleidsregel niet zijn toegestaan, dan kan zowel Partij A als Partij B een beroep doen op deze Overeenkomst. In dat geval worden alle schulden of vorderingsrechten van Partij B die voortgevloeid zijn, voortvloeien en zullen voortvloeien uit dergelijke transacties geneutraliseerd door tegengestelde schulden en vorderingsrechten met eenzelfde omvang. Deze tegengestelde schulden en vorderingsrechten ontstaan uit hoofde van deze Overeenkomst en ontstaan op hetzelfde moment als de schulden en vorderingsrechten die voortgevloeid zijn, voortvloeien en zullen voortvloeien uit de transactie die ingevolge de Beleidsregel niet is toegestaan en zullen met elkaar verrekend worden.  
 
@@ -268,7 +268,7 @@ Dated as of ..................... between  * *Please fill in the name laid down 
 
 ####Scope of Agreement
 
-As of the date of this Agreement, all Transactions entered into from that date between the parties to this Agreement (and the respective rights and obligations of the parties in respect of those Transactions) shall be governed by, subject to, and determined in accordance with, the terms and conditions set out in this Agreement and the related Confirmations. Party B is a Dutch housing association (‘toegelaten instelling’) and its main purpose is the stimulation of social housing in the Netherlands by means of public funding. As a result, Party B is supervised by the Dutch government and any supervisory bodies and institutions. In respect of this Agreement, Party B shall be considered as a non-professional investor, in accordance with the Dutch [Wet op het financieel toezicht](../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md). Regarding these Transactions, Party A shall act as an advisor for Party B. All of the above is incorporated in the independent agreement governed by Dutch law, as referred to in article 6 of the Dutch Beleidsregels gebruik financiële derivaten door toegelaten instellingen volkshuisvesting. 
+As of the date of this Agreement, all Transactions entered into from that date between the parties to this Agreement (and the respective rights and obligations of the parties in respect of those Transactions) shall be governed by, subject to, and determined in accordance with, the terms and conditions set out in this Agreement and the related Confirmations. Party B is a Dutch housing association (‘toegelaten instelling’) and its main purpose is the stimulation of social housing in the Netherlands by means of public funding. As a result, Party B is supervised by the Dutch government and any supervisory bodies and institutions. In respect of this Agreement, Party B shall be considered as a non-professional investor, in accordance with the Dutch Wet op het financieel toezicht. Regarding these Transactions, Party A shall act as an advisor for Party B. All of the above is incorporated in the independent agreement governed by Dutch law, as referred to in article 6 of the Dutch Beleidsregels gebruik financiële derivaten door toegelaten instellingen volkshuisvesting. 
 
 ### Part  1  
 
@@ -292,7 +292,7 @@ In this Agreement:
 
 (f)  *‘Termination Currency’ *means Euro or the currency selected by the Non-defaulting Party or the Non-affected Party, or in the circumstance where there are two Affected Parties, agreed by Party A and Party B, and failing such agreement the Termination Currency shall be Euro.  
 
-(g)  *‘Additional Termination Event’* will apply. The following will constitute an Additional Termination Event:   For any reason the status of Party B as ‘toegelaten instelling’ is withdrawn in accordance with article 70 of the Dutch Housing Act (‘’[Woningwet](../../../../../../../../../../wet/woningwet/BWBR0005181/README.md)’’). 
+(g)  *‘Additional Termination Event’* will apply. The following will constitute an Additional Termination Event:   For any reason the status of Party B as ‘toegelaten instelling’ is withdrawn in accordance with article 70 of the Dutch Housing Act (‘’Woningwet’’). 
 
 ### Part  2  
 
@@ -352,7 +352,7 @@ For the purpose of Section 4(a)(i) and 4(a)(ii) of the Agreement, each party agr
 
 (e)  *Default Under Specified Transaction*  Section 5(a)(v)(2) shall be amended by replacing ‘First Local Business Day’ by ‘Third Local Business Day’.  
 
-(f)  *Events*  Section 5(a) and (b) shall be amended by adding Section 5(a)(ix): ‘Any act, and/or decision under or pursuant to the Dutch Housing Act (“[Woningwet](../../../../../../../../../../wet/woningwet/BWBR0005181/README.md)”) regarding Party B will not qualify as an Event of Default.’ and Section 5(b)(vii): ‘Any act, and/or decision under or pursuant to the Dutch Housing Act (“Woningwet”) regarding Party B will not qualify as a Termination Event.’. Section 5(a) and (b) shall be amended by adding Section 5(a)(x): ‘The mortgaging of Party B’s real estate or pledging of Party B’s rental revenues to the Stichting Waarborgfonds Sociale Woningbouw shall not qualify as an Event of Default.’ and Section 5(b)(viii): ‘The mortgaging of Party B’s real estate or pledging of Party B’s rental revenues to the Stichting Waarborgfonds Sociale Woningbouw shall not qualify as a Termination Event.’.  
+(f)  *Events*  Section 5(a) and (b) shall be amended by adding Section 5(a)(ix): ‘Any act, and/or decision under or pursuant to the Dutch Housing Act (“Woningwet”) regarding Party B will not qualify as an Event of Default.’ and Section 5(b)(vii): ‘Any act, and/or decision under or pursuant to the Dutch Housing Act (“Woningwet”) regarding Party B will not qualify as a Termination Event.’. Section 5(a) and (b) shall be amended by adding Section 5(a)(x): ‘The mortgaging of Party B’s real estate or pledging of Party B’s rental revenues to the Stichting Waarborgfonds Sociale Woningbouw shall not qualify as an Event of Default.’ and Section 5(b)(viii): ‘The mortgaging of Party B’s real estate or pledging of Party B’s rental revenues to the Stichting Waarborgfonds Sociale Woningbouw shall not qualify as a Termination Event.’.  
 
 (g)  *Severability*  In the event any one or more of the provisions contained in this Agreement should be held invalid, illegal, or unenforceable in any respect, the validity, legality and enforceability of the remaining provisions contained herein shall not in any way be affected or impaired thereby. The parties shall endeavour, in good faith negotiations, to replace the invalid, illegal or unenforceable provisions with valid provisions the economic effect of which comes as close as possible to that of the invalid, illegal or unenforceable provisions.  
 

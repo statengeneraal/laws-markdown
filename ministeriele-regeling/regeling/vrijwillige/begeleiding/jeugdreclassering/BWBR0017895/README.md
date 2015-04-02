@@ -3,36 +3,36 @@
 ##Regeling van de Minister van Justitie van 12 januari 2005, nr. 5328243/04/DJJ, houdende aanwijzing van gevallen waarin de raad voor de kinderbescherming de stichting kan inschakelen voor vrijwillige begeleiding van een jeugdige (Regeling vrijwillige begeleiding jeugdreclassering)
 
 De Minister van Justitie,
-Gelet op [artikel 77hh, tweede lid, van het Wetboek van Strafrecht;](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)
+Gelet op artikel 77hh, tweede lid, van het Wetboek van Strafrecht;
 Besluit:
 
 ### Artikel  1  
 
 Voor de toepassing van deze regeling wordt verstaan onder: 
 
-a. stichting: de stichting, bedoeld in [artikel 1, eerste lid, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md);  
+a. gecertificeerde instelling: gecertificeerde instelling, bedoeld in artikel 1.1 van de Jeugdwet.  
 
 b. langdurige detentie: strafduur van meer dan zes maanden;  
 
 c. kortdurende detentie: strafduur zes maanden of minder.   
 
-###Artikel 2 
+### Artikel  2  
 
-1. In de volgende gevallen kan de raad voor de kinderbescherming de stichting inschakelen voor vrijwillige begeleiding van een jeugdige:
+1.  In de volgende gevallen kan de raad voor de kinderbescherming de gecertificeerde instelling inschakelen voor vrijwillige begeleiding van een jeugdige: 
 
-a.na langdurige detentie, mits de jeugdige bij ontslag uit een justitiële jeugdinrichting de leeftijd van 18 jaar nog niet heeft bereikt;
+a. na langdurige detentie, mits de jeugdige bij ontslag uit een justitiële jeugdinrichting de leeftijd van 18 jaar nog niet heeft bereikt;  
 
-b.tijdens en na kortdurende detentie, mits de jeugdige bij aanvang van de begeleiding van de jeugdreclassering de leeftijd van 18 jaar nog niet heeft bereikt;
+b. tijdens en na kortdurende detentie, mits de jeugdige bij aanvang van de begeleiding van de jeugdreclassering de leeftijd van 18 jaar nog niet heeft bereikt;  
 
-c.na een maatregel tot plaatsing in een inrichting voor jeugdigen, mits de jeugdige bij ontslag uit een justitiële jeugdinrichting de leeftijd van 18 jaar nog niet heeft bereikt.
-2. In de volgende gevallen kan de raad voor de kinderbescherming de stichting inschakelen voor vrijwillige begeleiding van een jeugdige:
+c. na een maatregel tot plaatsing in een inrichting voor jeugdigen, mits de jeugdige bij ontslag uit een justitiële jeugdinrichting de leeftijd van 18 jaar nog niet heeft bereikt.     
+2.  In de volgende gevallen kan de raad voor de kinderbescherming de gecertificeerde instelling inschakelen voor vrijwillige begeleiding van een jeugdige: 
 
-a.nadat tegen de jeugdige een proces-verbaal is opgemaakt zonder dat de jeugdige in verzekering is gesteld;
+a. nadat tegen de jeugdige een proces-verbaal is opgemaakt zonder dat de jeugdige in verzekering is gesteld;  
 
-b.nadat een jeugdige is heengezonden nadat hij in verzekering is gesteld;
+b. nadat een jeugdige is heengezonden nadat hij in verzekering is gesteld;  
 
-c.indien een jeugdige in voorlopige hechtenis is gesteld.
-3. De raad voor de kinderbescherming kan de stichting inschakelen voor vrijwillige begeleiding tijdens en na een taakstraf van een jeugdige.
+c. indien een jeugdige in voorlopige hechtenis is gesteld.     
+3.  De raad voor de kinderbescherming kan de gecertificeerde instelling inschakelen voor vrijwillige begeleiding tijdens en na een taakstraf van een jeugdige.  
 
 ###Artikel 3 
 

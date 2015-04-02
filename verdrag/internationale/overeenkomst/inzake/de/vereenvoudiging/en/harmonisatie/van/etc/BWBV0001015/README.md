@@ -281,7 +281,7 @@ e) notify the Contracting Parties, those Members of the Council that are not Con
 
 ### Article  20  
 
-In accordance with [Article 102 of the Charter of the United Nations](../../../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md), this Convention shall be registered with the Secretariat of the United Nations at the request of the Secretary General of the Council. 
+In accordance with Article 102 of the Charter of the United Nations, this Convention shall be registered with the Secretariat of the United Nations at the request of the Secretary General of the Council. 
 
 #### General annex
 
@@ -501,7 +501,7 @@ The Customs shall permit the lodging of the Goods declaration at any designated 
 
 ### 3.21 
 
-####Standard
+####Transitional Standard
 
 The Customs shall permit the lodging of the Goods declaration by electronic means.
 
@@ -1473,7 +1473,7 @@ e. geeft de Overeenkomstsluitende Partijen, de leden van de Raad die geen Overee
 
 ### Artikel  20  
 
-Overeenkomstig [artikel 102 van het Handvest van de Verenigde Naties](../../../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md) wordt deze Overeenkomst op verzoek van de Secretaris-generaal van de Raad bij het Secretariaat van de Verenigde Naties geregistreerd. 
+Overeenkomstig artikel 102 van het Handvest van de Verenigde Naties wordt deze Overeenkomst op verzoek van de Secretaris-generaal van de Raad bij het Secretariaat van de Verenigde Naties geregistreerd. 
 
 ####Algemene bijlage
 

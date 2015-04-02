@@ -18,11 +18,11 @@ In dit besluit wordt verstaan onder:
 
 ###Artikel 2 
 
-Op door de Raad per boekjaar verstrekte subsidies aan rechtspersonen is [afdeling 4.2.8 van de Awb](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing, met inachtneming van de navolgende bepalingen.
+Op door de Raad per boekjaar verstrekte subsidies aan rechtspersonen is afdeling 4.2.8 van de Awb van toepassing, met inachtneming van de navolgende bepalingen.
 
 ###Artikel 3 
 
-De algemeen secretaris van de Raad is toezichthouder als bedoeld in [artikel 4:59 van de Awb](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). De algemeen secretaris kan medewerkers van de Raad mandateren namens hem als toezichthouder op te treden.
+De algemeen secretaris van de Raad is toezichthouder als bedoeld in artikel 4:59 van de Awb. De algemeen secretaris kan medewerkers van de Raad mandateren namens hem als toezichthouder op te treden.
 
 ###Artikel 4 
 

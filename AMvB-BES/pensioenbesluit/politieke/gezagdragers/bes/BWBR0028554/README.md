@@ -16,21 +16,17 @@ b.  *gewezen politieke gezagdrager:* degene die uit hoofde van ontslag uitzicht 
 
 c.  *gepensioneerde politieke gezagdrager:* degene die recht heeft op pensioen op grond van dit besluit;  
 
-d.  *ontslag:* de op enigerlei wijze formele beëindiging van de benoeming tot politieke gezagdrager, niet zijnde het tijdelijk ontslag als bedoeld in [artikel Ya 13](../../../../../../wet/kieswet/BWBR0004627/README.md) juncto [X 10, eerste of tweede lid van de Kieswet](../../../../../../wet/kieswet/BWBR0004627/README.md);  
+d.  *ontslag:* de op enigerlei wijze formele beëindiging van de benoeming tot politieke gezagdrager, niet zijnde het tijdelijk ontslag als bedoeld in artikel Ya 13 juncto X 10, eerste of tweede lid van de Kieswet;  
 
-e.  *overheidsdienaren:* de ambtenaren in de zin van de [Ambtenarenwet BES](../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md);  
+e.  *overheidsdienaren:* de ambtenaren in de zin van de Ambtenarenwet BES;  
 
 f.  *nabestaande:* degene met wie de politieke gezagdrager, de gewezen politieke gezagdrager of de gepensioneerde politieke gezagdrager op de dag van overlijden gehuwd was;  
 
-g.*bevoegde gezag;* 
-
-1°. Onze Minister wat betreft gewezen of gepensioneerde gezaghebbers;  
-
-2°. het bestuurscollege van het betrokken openbaar lichaam wat betreft gewezen of gepensioneerde eilandgedeputeerden en leden van de eilandsraad.     
+g.  *bevoegde gezag:* het bestuurscollege van het betrokken openbaar lichaam.   
 
 ### Artikel  1a  
 
-Dit besluit is niet van toepassing op een lid van de eilandsraad van een openbaar lichaam dat is benoemd in een plaats die is opengevallen als gevolg van het tijdelijk ontslag van een lid van de eilandsraad van een openbaar lichaam wegens zwangerschap en bevalling of ziekte, ingevolge [artikel Ya 13](../../../../../../wet/kieswet/BWBR0004627/README.md) juncto [X 10, eerste of tweede lid van de Kieswet](../../../../../../wet/kieswet/BWBR0004627/README.md). 
+Dit besluit is niet van toepassing op een lid van de eilandsraad van een openbaar lichaam dat is benoemd in een plaats die is opengevallen als gevolg van het tijdelijk ontslag van een lid van de eilandsraad van een openbaar lichaam wegens zwangerschap en bevalling of ziekte, ingevolge artikel Ya 13 juncto X 10, eerste of tweede lid van de Kieswet. 
 
 ### Hoofdstuk  2  
 
@@ -38,7 +34,7 @@ Dit besluit is niet van toepassing op een lid van de eilandsraad van een openbaa
 
 ### Artikel  2  
 
-1.  De politieke gezagdrager aan wie ontslag is verleend en die op het tijdstip van ontslag de leeftijd als bedoeld in [artikel 6 van de Wet algemene ouderdomsverzekering BES](../../../../../../wet-BES/wet/algemene/ouderdomsverzekering/bes/BWBR0028459/README.md) nog niet heeft bereikt, heeft met ingang van de dag waarop het ontslag ingaat recht op een uitkering ingevolge de volgende artikelen.   
+1.  De politieke gezagdrager aan wie ontslag is verleend en die op het tijdstip van ontslag de leeftijd als bedoeld in artikel 6 van de Wet algemene ouderdomsverzekering BES nog niet heeft bereikt, heeft met ingang van de dag waarop het ontslag ingaat recht op een uitkering ingevolge de volgende artikelen.   
 2.  Geen recht op uitkering bestaat indien de politieke gezagdrager: 
 
 a.zonder onderbreking opnieuw in hetzelfde ambt optreedt; 
@@ -117,7 +113,7 @@ c. de eisen die worden gesteld aan de organisatie die de planmatige ondersteunin
 1.  De uitkering bedraagt gedurende de eerste drie maanden 95 procent, de daarop volgende zeven maanden 85 procent, de daarop volgende tien maanden 75 procent en vervolgens 70 procent van de bezoldiging als politieke gezagdrager.   
 2.  Onder bezoldiging bedoeld in het eerste lid wordt verstaan de vaste inkomensbestanddelen waarop de politieke gezagdrager op de dag voorafgaande aan het ontslag aanspraak had.   
 3.  In afwijking van het tweede lid, worden onkostenvergoedingen, onder welke benaming dan ook, niet gerekend tot de bezoldiging.  
-4. Als de bezoldiging van de ambtenaren, bedoeld in [artikel 1, eerste lid, van de Ambtenarenwet BES](../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md), wijziging ondergaat, wordt met ingang van de datum waarop die wijziging ingaat de uitkering, bedoeld in het eerste lid, overeenkomstig deze wijziging aangepast, onder nadere vaststelling voor zoveel nodig, van de bedragen, genoemd in artikel 1, eerste lid.  
+4. Als de bezoldiging van de ambtenaren, bedoeld in artikel 1, eerste lid, van de Ambtenarenwet BES, wijziging ondergaat, wordt met ingang van de datum waarop die wijziging ingaat de uitkering, bedoeld in het eerste lid, overeenkomstig deze wijziging aangepast, onder nadere vaststelling voor zoveel nodig, van de bedragen, genoemd in artikel 1, eerste lid.  
 5.  Bij ministeriële regeling, kunnen omtrent de vaststelling van de bezoldiging bedoeld in het tweede lid, en de overeenkomstige wijziging bedoeld in het vierde lid, nadere regels worden gesteld.  
 
 ### Artikel  5  
@@ -154,7 +150,7 @@ Het recht op uitkering eindigt met ingang van de dag waarop de gewezen politieke
 
 a. is overleden;  
 
-b. de leeftijd als bedoeld in [artikel 6 van de Wet algemene ouderdomsverzekering BES](../../../../../../wet-BES/wet/algemene/ouderdomsverzekering/bes/BWBR0028459/README.md) heeft bereikt;  
+b. de leeftijd als bedoeld in artikel 6 van de Wet algemene ouderdomsverzekering BES heeft bereikt;  
 
 c. opnieuw in hetzelfde ambt optreedt;  
 
@@ -179,7 +175,7 @@ De uitkering wordt, over een maand berekend, in maandelijkse termijnen betaald.
 
 ### Artikel  11  
 
-1.  Een politieke gezagdrager heeft na ontslag recht op pensioen, indien hij op de dag van ingang van het ontslag de leeftijd als bedoeld in [artikel 6 van de Wet algemene ouderdomsverzekering BES](../../../../../../wet-BES/wet/algemene/ouderdomsverzekering/bes/BWBR0028459/README.md) heeft bereikt, tenzij hij op dat tijdstip opnieuw als politieke gezagdrager optreedt.   
+1.  Een politieke gezagdrager heeft na ontslag recht op pensioen, indien hij op de dag van ingang van het ontslag de leeftijd als bedoeld in artikel 6 van de Wet algemene ouderdomsverzekering BES heeft bereikt, tenzij hij op dat tijdstip opnieuw als politieke gezagdrager optreedt.   
 2.  Een gewezen politieke gezagdrager verkrijgt recht op pensioen bij het bereiken van die leeftijd, tenzij hij op dat tijdstip opnieuw politieke gezagdrager is of wordt.  
 
 ### Artikel  12  
@@ -194,7 +190,7 @@ a.*diensttijd*
 
 b.  *berekeningsgrondslag:* de bezoldiging, bedoeld in artikel 4, gerekend over een jaar, die de betrokkene op de dag voorafgaande aan het ontslag in die functie ontving;  
 
-c.  *franchise:* 10/7 van de tot een jaarbedrag herleide uitkering van het wettelijk ouderdomspensioen, bedoeld in de [Wet algemene ouderdomsverzekering BES](../../../../../../wet-BES/wet/algemene/ouderdomsverzekering/bes/BWBR0028459/README.md), zoals deze geldt op de dag waarop het recht op pensioen ingaat. De franchise wordt naar boven afgerond op hele dollars;  
+c.  *franchise:* 10/7 van de tot een jaarbedrag herleide uitkering van het wettelijk ouderdomspensioen, bedoeld in de Wet algemene ouderdomsverzekering BES, zoals deze geldt op de dag waarop het recht op pensioen ingaat. De franchise wordt naar boven afgerond op hele dollars;  
 
 d.  *pensioengrondslag:* de berekeningsgrondslag op de dag waarop het recht op pensioen ingaat, zonodig aangepast overeenkomstig de bepalingen in artikel 14, verminderd met de franchise.     
 2.  De tijd bedoeld in het eerste lid, sub a, onderdeel 2, geldt voor de helft van die tijd als diensttijd. Voor zover en voor zolang de uitkering wordt verminderd op grond van artikel 7 geldt die tijd niet als diensttijd.   
@@ -214,7 +210,7 @@ b. voor elke resterende gehele maand diensttijd 1/12 deel van drie percent, tot 
 
 ### Artikel  14  
 
-1.  Indien de bezoldiging van de ambtenaren, bedoeld in [artikel 1, eerste lid, van de Ambtenarenwet BES](../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md), wijziging ondergaat, wordt de pensioengrondslag met ingang van de datum waarop die wijziging ingaat overeenkomstig deze wijziging aangepast. De toegekende pensioenen worden dienovereenkomstig opnieuw vastgesteld.   
+1.  Indien de bezoldiging van de ambtenaren, bedoeld in artikel 1, eerste lid, van de Ambtenarenwet BES, wijziging ondergaat, wordt de pensioengrondslag met ingang van de datum waarop die wijziging ingaat overeenkomstig deze wijziging aangepast. De toegekende pensioenen worden dienovereenkomstig opnieuw vastgesteld.   
 2.  Indien een wijziging van de bezoldigingen bedoeld in het eerste lid, een verlaging van deze bezoldigingen inhoudt ten opzichte van het van het voorafgaande peil, vindt aanpassing van de pensioengrondslag niet plaats. Indien een later volgende wijziging als hiervoor bedoeld, een verhoging inhoudt, wordt deze verhoging geheel of gedeeltelijk achterwege gelaten totdat de aanpassing die de pensioengrondslag bij toepassing van het eerste lid zou hebben ondergaan, geheel is gecompenseerd.   
 3.  Bij ministeriële regeling, kunnen voor de uitvoering van het eerste en tweede lid nadere regels worden gesteld.  
 
@@ -229,7 +225,7 @@ b. voor elke resterende gehele maand diensttijd 1/12 deel van drie percent, tot 
 
 a. de echtgenoot ten tijde van het sluiten van het huwelijk recht had op uitkering ter zake van zijn ontslag als politieke gezagdrager, of  
 
-b. de echtgenoten reeds voor het ontslag met elkaar gehuwd waren geweest en mits het huwelijk was gesloten voordat de politieke gezagdrager de leeftijd als bedoeld in [artikel 6 van de Wet algemene ouderdomsverzekering BES](../../../../../../wet-BES/wet/algemene/ouderdomsverzekering/bes/BWBR0028459/README.md) had bereikt.     
+b. de echtgenoten reeds voor het ontslag met elkaar gehuwd waren geweest en mits het huwelijk was gesloten voordat de politieke gezagdrager de leeftijd als bedoeld in artikel 6 van de Wet algemene ouderdomsverzekering BES had bereikt.     
 3.  Voor de toepassing van het tweede lid wordt het ontslag geacht niet te zijn ingegaan, indien zonder wezenlijke onderbreking weer als politieke gezagdrager optreedt.   
 4.  Van een wezenlijke onderbreking is geen sprake indien deze ten hoogste twee maanden heeft geduurd.  
 
@@ -244,7 +240,7 @@ b. de echtgenoten reeds voor het ontslag met elkaar gehuwd waren geweest en mits
 
 a. de kinderen tot wie de overledene in familierechtelijke betrekking stond die de leeftijd van 18 jaren nog niet hebben bereikt en niet gehuwd zijn of gehuwd geweest zijn;  
 
-b. de kinderen van een mannelijke politieke gezagdrager tot wie hij niet in familierechtelijke betrekking stond die de leeftijd van 18 jaren nog niet hebben bereikt en niet gehuwd zijn of gehuwd geweest zijn, indien hem ten behoeve van deze kinderen ten tijde van zijn overlijden een onderhoudsplicht krachtens [artikel 394 van boek I van het Burgerlijk Wetboek BES](../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/1/BWBR0028743/README.md) was opgelegd, dan wel door hem bij authentieke akte een onderhoudsplicht was erkend;  
+b. de kinderen van een mannelijke politieke gezagdrager tot wie hij niet in familierechtelijke betrekking stond die de leeftijd van 18 jaren nog niet hebben bereikt en niet gehuwd zijn of gehuwd geweest zijn, indien hem ten behoeve van deze kinderen ten tijde van zijn overlijden een onderhoudsplicht krachtens artikel 394 van boek I van het Burgerlijk Wetboek BES was opgelegd, dan wel door hem bij authentieke akte een onderhoudsplicht was erkend;  
 
 c. de kinderen die de leeftijd van 18 jaren nog niet hebben bereikt en niet gehuwd zijn of gehuwd geweest zijn voor wie de overledene ten tijde van diens overlijden de pleegouderlijke zorg droeg.     
 2.  Het eerste lid is eveneens van toepassing op de kinderen die de leeftijd van 18 maar niet van 25 jaren hebben bereikt en niet gehuwd zijn of gehuwd geweest zijn, naar de onderscheidingen en voorwaarden in het eerste lid gesteld, en: 
@@ -264,9 +260,9 @@ b. die naar het oordeel van het bevoegde gezag ten gevolge van ziekten of gebrek
 1.  Het nabestaandenpensioen bedraagt zeventig procent van het pensioen, waarop de overleden politieke gezagdrager als zodanig recht zou hebben gehad indien hij met ingang van de dag na die van het overlijden was ontslagen of waarop de overleden gewezen of gepensioneerde politieke gezagdrager als zodanig op de dag van overlijden uitzicht respectievelijk recht had.   
 2.  In afwijking van het vorige lid bedraagt het pensioen van de nabestaande van degene die overlijdt: 
 
-a. als politieke gezagdrager vóór het bereiken van de leeftijd als bedoeld in [artikel 6 van de Wet algemene ouderdomsverzekering BES](../../../../../../wet-BES/wet/algemene/ouderdomsverzekering/bes/BWBR0028459/README.md), vijf zevende gedeelte van het pensioen waarop die politieke gezagdrager aanspraak zou hebben kunnen maken, indien hij het ambt tot het bereiken van evengenoemde leeftijd zou hebben bekleed;  
+a. als politieke gezagdrager vóór het bereiken van de leeftijd als bedoeld in artikel 6 van de Wet algemene ouderdomsverzekering BES, vijf zevende gedeelte van het pensioen waarop die politieke gezagdrager aanspraak zou hebben kunnen maken, indien hij het ambt tot het bereiken van evengenoemde leeftijd zou hebben bekleed;  
 
-b. als gewezen politieke gezagdrager in de periode, waarover hem een uitkering is toegekend, vijf zevende deel van het pensioen waarop die gewezen politieke gezagdrager recht zou hebben, indien hij tot het bereiken van de leeftijd als bedoeld in [artikel 6 van de Wet algemene ouderdomsverzekering BES](../../../../../../wet-BES/wet/algemene/ouderdomsverzekering/bes/BWBR0028459/README.md) recht op uitkering zou hebben gehad, met dien verstande, dat voor de berekening van het pensioen de diensttijd wordt doorgeteld in de mate waarin deze op grond van het bepaalde in artikel 12, tweede lid, als diensttijd geldt op de dag van overlijden.    
+b. als gewezen politieke gezagdrager in de periode, waarover hem een uitkering is toegekend, vijf zevende deel van het pensioen waarop die gewezen politieke gezagdrager recht zou hebben, indien hij tot het bereiken van de leeftijd als bedoeld in artikel 6 van de Wet algemene ouderdomsverzekering BES recht op uitkering zou hebben gehad, met dien verstande, dat voor de berekening van het pensioen de diensttijd wordt doorgeteld in de mate waarin deze op grond van het bepaalde in artikel 12, tweede lid, als diensttijd geldt op de dag van overlijden.    
 
 ### Artikel  20  
 
@@ -343,7 +339,7 @@ Elk pensioen eindigt met het einde van de maand waarin de rechthebbende is overl
 
 ### Artikel  31  
 
-Op de bezoldiging van de politieke gezagdrager en op de uitkering van de gewezen politieke gezagdrager wordt, volgens bij ministeriële regeling te stellen regels, een bedrag ingehouden overeenkomstig de inhouding op de bezoldiging van ambtenaren, bedoeld in [artikel 1, eerste lid, van de Ambtenarenwet BES](../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) ter zake van aanspraken bij ziekte, arbeidsongeschiktheid, ouderdom en overlijden. 
+Op de bezoldiging van de politieke gezagdrager en op de uitkering van de gewezen politieke gezagdrager wordt, volgens bij ministeriële regeling te stellen regels, een bedrag ingehouden overeenkomstig de inhouding op de bezoldiging van ambtenaren, bedoeld in artikel 1, eerste lid, van de Ambtenarenwet BES ter zake van aanspraken bij ziekte, arbeidsongeschiktheid, ouderdom en overlijden. 
 
 ### Artikel  32  
 
@@ -398,7 +394,7 @@ d.de Pensioenverordening Gezaghebbers (P.B.1982,106).
 
 ### Artikel  39  
 
-1.  Op degene die voorafgaande aan de datum waarop dit besluit in werking treedt tijd heeft doorgebracht als minister, gevolmachtigd minister, staatssecretaris, statenlid of gezaghebber en als zodanig uitzicht of recht heeft op een pensioen op grond van een pensioenregeling, blijft in afwijking van artikel 37 voor het pensioen die regeling van toepassing.   
+1.  Op degene die voorafgaande aan de datum waarop dit besluit in werking treedt tijd heeft doorgebracht als minister, gevolmachtigd minister, staatssecretaris, statenlid of gezaghebber en als zodanig uitzicht of recht heeft op een pensioen op grond van een pensioenregeling, blijft in afwijking van artikel 38 voor het pensioen die regeling van toepassing.   
 2.  Het bepaalde in het eerste lid is van overeenkomstige toepassing op de rechten van nabestaanden, wezen en op overigen met recht op pensioen uit hoofde van hun relatie met degenen, bedoeld in het eerste lid.   
 3.  Voor degene die op of na de dag van inwerkingtreding van dit besluit tijd doorbrengt als politieke gezagdrager en aan die tijd uitzicht of recht op pensioen ontleent op grond van een pensioenregeling als bedoeld in het eerste lid, telt die tijd niet mee als diensttijd als bedoeld in artikel 12 en blijft gedurende die tijd artikel 31 buiten toepassing.   
 4.  In afwijking van de in het eerste lid bedoelde regelingen heeft de weduwe, weduwnaar en wees recht op pensioen indien de politieke gezagsdrager na het bereiken van de zestig jarige leeftijd in het huwelijk is getreden, mits dat huwelijk voorafgaande aan diens ontslag is gesloten.  
@@ -417,17 +413,17 @@ d.de Pensioenverordening Gezaghebbers (P.B.1982,106).
 1.  De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.   
 2.  In afwijking van het eerste lid, treden de artikelen 3a tot en met 3c in werking: 
 
-a. voor de gezaghebber van Bonaire: op het moment dat voor de eerste keer na de inwerkingtreding van de [Wet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../wet-BES/wet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028142/README.md) een gezaghebber van Bonaire wordt benoemd of herbenoemd.  
+a. voor de gezaghebber van Bonaire: op het moment dat voor de eerste keer na de inwerkingtreding van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba een gezaghebber van Bonaire wordt benoemd of herbenoemd.  
 
-b. voor de gezaghebber van Sint Eustatius: op het moment dat voor de eerste keer na de inwerkingtreding van de [Wet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../wet-BES/wet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028142/README.md) een gezaghebber van Sint Eustatius wordt benoemd of herbenoemd.  
+b. voor de gezaghebber van Sint Eustatius: op het moment dat voor de eerste keer na de inwerkingtreding van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba een gezaghebber van Sint Eustatius wordt benoemd of herbenoemd.  
 
-c. voor de gezaghebber van Saba: op het moment dat voor de eerste keer na de inwerkingtreding van de [Wet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../wet-BES/wet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028142/README.md) een gezaghebber van Saba wordt benoemd of herbenoemd.     
-3.  De artikelen 3a tot en met 3c zijn niet van toepassing op de leden van de eilandsraden, bedoeld in [artikel 233, eerste lid, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../wet-BES/wet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028142/README.md).   
-4.  De artikelen 3a tot en met 3c zijn niet van toepassing op de gedeputeerden, bedoeld in [artikel 234, eerste lid, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../wet-BES/wet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028142/README.md). 
+c. voor de gezaghebber van Saba: op het moment dat voor de eerste keer na de inwerkingtreding van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba een gezaghebber van Saba wordt benoemd of herbenoemd.     
+3.  De artikelen 3a tot en met 3c zijn niet van toepassing op de leden van de eilandsraden, bedoeld in artikel 233, eerste lid, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba.   
+4.  De artikelen 3a tot en met 3c zijn niet van toepassing op de gedeputeerden, bedoeld in artikel 234, eerste lid, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba. 
 
 ### Artikel  40b  
 
-Dit besluit berust op [artikel 56, tweede lid](../../../../../../wet-BES/wet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028142/README.md), [78, tweede lid](../../../../../../wet-BES/wet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028142/README.md), [120, tweede lid](../../../../../../wet-BES/wet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028142/README.md), [87, eerste lid, onderdeel c](../../../../../../wet-BES/wet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028142/README.md) en [233, derde lid, onderdeel b, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../wet-BES/wet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028142/README.md). 
+Dit besluit berust op artikel 56, tweede lid, 78, tweede lid, 120, tweede lid, 87, eerste lid, onderdeel c en 233, derde lid, onderdeel b, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba. 
 
 ### Artikel  41  
 

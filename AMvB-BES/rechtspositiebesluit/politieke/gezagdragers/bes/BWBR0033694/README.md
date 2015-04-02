@@ -6,7 +6,7 @@ Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oran
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 27 mei 2013, no. 13.001061;
 
-Gelet op de [artikelen 56, eerste, tweede en zevende lid](../../../../../../wet-BES/wet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028142/README.md), [78, eerste, tweede en zevende lid](../../../../../../wet-BES/wet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028142/README.md), [87](../../../../../../wet-BES/wet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028142/README.md), [92](../../../../../../wet-BES/wet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028142/README.md), [120, vierde lid](../../../../../../wet-BES/wet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028142/README.md), en [121 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../wet-BES/wet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028142/README.md);
+Gelet op de artikelen 56, eerste, tweede en zevende lid, 78, eerste, tweede en zevende lid, 87, 92, 120, vierde lid, en 121 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba;
 
 De Afdeling advisering van de Raad van State gehoord (advies van 26 juni 2013, nr. W04.13.0147/I);
 
@@ -20,7 +20,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder 
 
-a.  *politieke gezagdrager:* gezaghebber, eilandgedeputeerde, lid van de eilandsraad van een openbaar lichaam en lid van een commissie als bedoeld in de [artikelen 117](../../../../../../wet-BES/wet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028142/README.md) en [118 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../wet-BES/wet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028142/README.md);  
+a.  *politieke gezagdrager:* gezaghebber, eilandgedeputeerde, lid van de eilandsraad van een openbaar lichaam en lid van een commissie als bedoeld in de artikelen 117 en 118 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba;  
 
 b.  *Onze Minister:* Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;  
 
@@ -96,11 +96,11 @@ De overgang van een openbaar lichaam naar een lagere klasse in verband met vermi
 
 ### Artikel  7  
 
-Als de bezoldiging van de ambtenaren, bedoeld in [artikel 1, eerste lid, van de Ambtenarenwet BES](../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) en in dienst van de staat, wijziging ondergaat, wordt met ingang van de datum waarop die wijziging ingaat met betrekking tot de gezaghebber of de eilandgedeputeerden de bezoldiging, of met betrekking tot de leden van de eilandsraad de maximale vergoeding voor hun werkzaamheden en de maximale tegemoetkoming in de kosten daarvan bij ministeriële regeling op gelijke voet gewijzigd, onder nadere vaststelling van de bedragen, genoemd in artikel 6, eerste, onderscheidenlijk tweede en derde lid. 
+Als de bezoldiging van de ambtenaren, bedoeld in artikel 1, eerste lid, van de Ambtenarenwet BES en in dienst van de staat, wijziging ondergaat, wordt met ingang van de datum waarop die wijziging ingaat met betrekking tot de gezaghebber of de eilandgedeputeerden de bezoldiging, of met betrekking tot de leden van de eilandsraad de maximale vergoeding voor hun werkzaamheden en de maximale tegemoetkoming in de kosten daarvan bij ministeriële regeling op gelijke voet gewijzigd, onder nadere vaststelling van de bedragen, genoemd in artikel 6, eerste, onderscheidenlijk tweede en derde lid. 
 
 ### Artikel  8  
 
-Artikel 6 is van overeenkomstige toepassing op het lid van de eilandsraad aan wie ingevolge [artikel Ya 13](../../../../../../wet/kieswet/BWBR0004627/README.md) juncto [artikel X 10, eerste en tweede lid, van de Kieswet](../../../../../../wet/kieswet/BWBR0004627/README.md) tijdelijk ontslag is verleend wegens zwangerschap en bevalling of ziekte, met dien verstande dat de tegemoetkoming in de kosten van zijn werkzaamheden de helft bedraagt van het bedrag dat op grond van die bepaling van toepassing is. 
+Artikel 6 is van overeenkomstige toepassing op het lid van de eilandsraad aan wie ingevolge artikel Ya 13 juncto artikel X 10, eerste en tweede lid, van de Kieswet tijdelijk ontslag is verleend wegens zwangerschap en bevalling of ziekte, met dien verstande dat de tegemoetkoming in de kosten van zijn werkzaamheden de helft bedraagt van het bedrag dat op grond van die bepaling van toepassing is. 
 
 ### §  4  
 
@@ -108,7 +108,7 @@ Artikel 6 is van overeenkomstige toepassing op het lid van de eilandsraad aan wi
 
 ### Artikel  9  
 
-1.  De eilandsraad kan bij eilandverordening bepalen dat aan een lid van een commissie als bedoeld in de [artikelen 117](../../../../../../wet-BES/wet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028142/README.md) en [118 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../wet-BES/wet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028142/README.md) een vergoeding voor het bijwonen van de vergaderingen van de commissie wordt toegekend tot het maximumbedrag, genoemd in onderstaande tabel.  Lid commissie eilandsraad 
+1.  De eilandsraad kan bij eilandverordening bepalen dat aan een lid van een commissie als bedoeld in de artikelen 117 en 118 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba een vergoeding voor het bijwonen van de vergaderingen van de commissie wordt toegekend tot het maximumbedrag, genoemd in onderstaande tabel.  Lid commissie eilandsraad 
 
 | Klasse  | Vergoeding per vergadering  |
 |:---|:---|
@@ -120,11 +120,11 @@ Artikel 6 is van overeenkomstige toepassing op het lid van de eilandsraad aan wi
 
 2.  Geen vergoeding wordt verstrekt aan een lid van een commissie dat tevens lid is van de eilandsraad of aan een ambtenaar die als zodanig tot lid van een commissie is benoemd.   
 3.  Artikel 6, vierde lid, is van overeenkomstige toepassing op de vergoeding voor de leden van een commissie.   
-4.  Als de bezoldiging van de ambtenaren, bedoeld in [artikel 1, eerste lid, van de Ambtenarenwet BES](../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) en in dienst van de staat, wijziging ondergaat, wordt met ingang van de datum waarop die wijziging ingaat de maximale vergoeding voor de leden van een commissie bij ministeriële regeling op gelijke voet gewijzigd, onder nadere vaststelling van de bedragen, genoemd in het eerste lid.  
+4.  Als de bezoldiging van de ambtenaren, bedoeld in artikel 1, eerste lid, van de Ambtenarenwet BES en in dienst van de staat, wijziging ondergaat, wordt met ingang van de datum waarop die wijziging ingaat de maximale vergoeding voor de leden van een commissie bij ministeriële regeling op gelijke voet gewijzigd, onder nadere vaststelling van de bedragen, genoemd in het eerste lid.  
 
 ### Artikel  10  
 
-Ten aanzien van een lid van een commissie als bedoeld in de [artikelen 117](../../../../../../wet-BES/wet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028142/README.md) en [118 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../wet-BES/wet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028142/README.md) 
+Ten aanzien van een lid van een commissie als bedoeld in de artikelen 117 en 118 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba 
 
 a. die op grond van zijn bijzondere beroepsmatige deskundigheid op het taakgebied van de commissie voor deelneming aan haar werkzaamheden is aangetrokken, en  
 
@@ -136,15 +136,16 @@ b. ten aanzien waarvan de vergoeding niet geacht kan worden in een redelijke ver
 
 ### Artikel  11  
 
-De gezaghebber of eilandgedeputeerde van Sint Eustatius en Saba ontvangt een toelage van zestien en drietiende procent van zijn bezoldiging. 
+1.  De gezaghebber en eilandgedeputeerden van Sint Eustatius en Saba ontvangen een Saba/Statiatoelage met overeenkomstige toepassing van het bepaalde bij of krachtens artikel 28, derde lid, van het Rechtspositiebesluit ambtenaren BES.   
+2.  De gezaghebber en eilandgedeputeerden ontvangen een vereveningtoelage met overeenkomstige toepassing van het bepaalde bij of krachtens artikel 28, vierde lid, van het Rechtspositiebesluit ambtenaren BES.  
 
 ### Artikel  12  
 
-Indien aan de ambtenaren, bedoeld in [artikel 1, eerste lid, van de Ambtenarenwet BES](../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) en in dienst van de staat, een eenmalige uitkering wordt toegekend, ontvangt de gezaghebber of de eilandgedeputeerde een uitkering op gelijke voet. 
+Indien aan de ambtenaren, bedoeld in artikel 1, eerste lid, van de Ambtenarenwet BES en in dienst van de staat, een eenmalige uitkering wordt toegekend, ontvangt de gezaghebber of de eilandgedeputeerde een uitkering op gelijke voet. 
 
 ### Artikel  13  
 
-De gezaghebber of de eilandgedeputeerde heeft aanspraak op een vakantie-uitkering en een eindejaarsuitkering overeenkomstig de bepalingen die daaromtrent zijn vastgesteld voor de ambtenaren, bedoeld in [artikel 1, eerste lid, van de Ambtenarenwet BES](../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) en in dienst van de staat. 
+De gezaghebber of de eilandgedeputeerde heeft aanspraak op een vakantie-uitkering en een eindejaarsuitkering overeenkomstig de bepalingen die daaromtrent zijn vastgesteld voor de ambtenaren, bedoeld in artikel 1, eerste lid, van de Ambtenarenwet BES en in dienst van de staat. 
 
 ### §  6  
 
@@ -163,15 +164,19 @@ De gezaghebber of de eilandgedeputeerde heeft aanspraak op een vakantie-uitkerin
 
 ### Artikel  15  
 
-1.  Voor 1 april van elk kalenderjaar of binnen twee maanden na zijn beëdiging verstrekt de gezaghebber of de eilandgedeputeerde aan Onze Minister, dan wel een door hem aangewezen instantie, een opgave van de neveninkomsten welke hij verwacht over het desbetreffende kalenderjaar of gedeelte daarvan te zullen genieten, dan wel een verklaring, dat hij verwacht niet meer dan 14% van de bezoldiging op jaarbasis aan neveninkomsten over dat jaar of een evenredig deel daarvan over het desbetreffende gedeelte van dat jaar te zullen genieten.   
-2.  Onze Minister, dan wel de door hem aangewezen instantie, deelt het bestuurscollege het bedrag van de voorlopige aftrek op de bezoldiging mede en verstrekt een afschrift daarvan aan de gezaghebber of de eilandgedeputeerde.   
-3.  De gezaghebber of de eilandgedeputeerde kan een verklaring inzenden dat een opgave van neveninkomsten achterwege zal blijven. In dit geval, alsmede indien binnen de in het eerste lid bedoelde termijn geen opgave of verklaring is ingezonden, bedraagt de bezoldiging over dat kalenderjaar 65% van de bezoldiging op jaarbasis.   
-4.  Zo spoedig mogelijk na afloop van het kalenderjaar zendt de gezaghebber of de eilandgedeputeerde of zenden zijn nabestaanden aan Onze Minister, dan wel de door hem aangewezen instantie, een opgave van de neveninkomsten welke over dat kalenderjaar zijn genoten, dan wel een verklaring dat over dat jaar niet meer dan 14% van de bezoldiging op jaarbasis of, indien de gezaghebber of de eilandgedeputeerde een gedeelte van het kalenderjaar lid van het bestuurscollege is geweest, een evenredig deel van dit bedrag, is genoten.   
-5.  Onze Minister, dan wel de door hem aangewezen instantie, deelt aan het bestuurscollege zo spoedig mogelijk na ontvangst van de in het vierde lid bedoelde opgave of verklaring het bedrag van de definitieve aftrek op de bezoldiging mede en verstrekt een afschrift daarvan aan de gezaghebber of de eilandgedeputeerde.   
-6.  Indien een opgave of verklaring als bedoeld in het vierde lid niet binnen zes maanden na afloop van het kalenderjaar is ontvangen, bedraagt de bezoldiging over dat kalenderjaar 65% van de bezoldiging op jaarbasis.   
-7.  De gezaghebber of de eilandgedeputeerde zendt Onze Minister, dan wel de door hem aangewezen instantie, zo spoedig mogelijk na afloop van het kalenderjaar tevens een afschrift van de aanslag voor de inkomstenbelasting over het desbetreffende kalenderjaar. Het bedrag van de uitbetaalde bezoldiging kan, al dan niet op verzoek van de gezaghebber of de eilandgedeputeerde, worden herzien, indien op grond van de onherroepelijk geworden aanslag in de inkomstenbelasting daartoe aanleiding blijkt te bestaan.   
-8.  Bij de toepassing van het vijfde, zesde en zevende lid vindt zo nodig terugbetaling of verrekening plaats.   
-9.  Dit artikel is niet van toepassing op de gezaghebber en de eilandgedeputeerde op wie [artikel 235, tweede onderscheidenlijk derde lid, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../wet-BES/wet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028142/README.md) van toepassing is.  
+1.  Zo spoedig mogelijk na afloop van het kalenderjaar verstrekt de gezaghebber of de eilandgedeputeerde aan Onze Minister, dan wel de door hem aangewezen instantie: 
+
+a. een opgave van de neveninkomsten welke hij over dat kalenderjaar heeft genoten, dan wel  
+
+b. een verklaring dat hij geen neveninkomsten heeft genoten of niet meer dan 14% van de bezoldiging op jaarbasis aan neveninkomsten heeft genoten over dat jaar of, indien hij een gedeelte van het kalenderjaar lid van het bestuurscollege is geweest, een evenredig deel daarvan, dan wel  
+
+c. een verklaring dat een opgave van neveninkomsten achterwege zal blijven.     
+2.  Het bestuurscollege vermindert op verzoek van de gezaghebber of eilandgedeputeerde diens bezoldiging reeds gedurende het kalenderjaar met een bedrag waarmee hij verwacht dat zijn bezoldiging verrekend zal worden vanwege zijn neveninkomsten.   
+3.  Onze Minister, dan wel de door hem aangewezen instantie, deelt aan het bestuurscollege het bedrag van de bezoldiging dat teruggevorderd dient te worden mede en verstrekt een afschrift daarvan aan de gezaghebber of de eilandgedeputeerde.   
+4.  Het bestuurscollege vordert, indien Onze Minister dan wel de door hem aangewezen instantie constateert dat er sprake is van te verrekenen neveninkomsten, het teveel aan ontvangen bezoldiging terug van de gezaghebber of de eilandgedeputeerde.   
+5.  Indien de gezaghebber of de eilandgedeputeerde geen informatie kan verstrekken, meldt hij dit binnen zes maanden onder opgaaf van redenen aan Onze Minister dan wel aan een door Onze Minister aangewezen instantie. De gezaghebber of de eilandgedeputeerde meldt tevens een redelijke termijn waarop hij deze informatie alsnog zal verstrekken.   
+6.  In het geval, bedoeld in het eerste lid, onder c, alsmede indien de gezaghebber of de eilandgedeputeerde binnen zes maanden na afloop van het kalenderjaar geen opgave of verklaring als bedoeld in het eerste lid heeft ingezonden, of indien hij niet heeft voldaan aan het vijfde lid, stelt het bestuurscollege de bezoldiging over het afgelopen jaar vast op 65% van de bezoldiging op jaarbasis, tenzij het bestuurscollege uit anderen hoofde kan vaststellen tot welk bedrag er verrekend moet worden.   
+7.  Op verzoek van de gezaghebber of de eilandgedeputeerde kan het bestuurscollege besluiten de verrekening in termijnen te laten plaatsvinden.  
 
 ### §  8  
 
@@ -179,9 +184,9 @@ De gezaghebber of de eilandgedeputeerde heeft aanspraak op een vakantie-uitkerin
 
 ### Artikel  16  
 
-1.  De eilandgedeputeerde die op grond van [artikel 90, eerste lid, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../wet-BES/wet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028142/README.md) gedurende meer dan dertig dagen onafgebroken het ambt van gezaghebber waarneemt, ontvangt voor die tijd de voor het ambt vastgestelde bezoldiging. Voor die tijd vervalt de bezoldiging als eilandgedeputeerde.   
-2.  Het eilandsraadslid dat op grond van [artikel 90, tweede lid, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../wet-BES/wet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028142/README.md) gedurende meer dan dertig dagen onafgebroken het ambt van gezaghebber waarneemt, ontvangt voor die tijd de voor het ambt vastgestelde bezoldiging. Voor die tijd vervalt de vergoeding voor de werkzaamheden als eilandsraadslid.   
-3.  Degene die op grond van [artikel 91 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../wet-BES/wet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028142/README.md) als waarnemend gezaghebber is aangewezen, ontvangt voor de tijd van de waarneming een bezoldiging als bedoeld in artikel 6, eerste lid, met inbegrip van de toelagen, indien de waarneming: 
+1.  De eilandgedeputeerde die op grond van artikel 90, eerste lid, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba gedurende meer dan dertig dagen onafgebroken het ambt van gezaghebber waarneemt, ontvangt voor die tijd de voor het ambt vastgestelde bezoldiging. Voor die tijd vervalt de bezoldiging als eilandgedeputeerde.   
+2.  Het eilandsraadslid dat op grond van artikel 90, tweede lid, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba gedurende meer dan dertig dagen onafgebroken het ambt van gezaghebber waarneemt, ontvangt voor die tijd de voor het ambt vastgestelde bezoldiging. Voor die tijd vervalt de vergoeding voor de werkzaamheden als eilandsraadslid.   
+3.  Degene die op grond van artikel 91 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba als waarnemend gezaghebber is aangewezen, ontvangt voor de tijd van de waarneming een bezoldiging als bedoeld in artikel 6, eerste lid, met inbegrip van de toelagen, indien de waarneming: 
 
 a. dertig dagen of langer onafgebroken heeft geduurd;  
 
@@ -203,7 +208,7 @@ c. in een tijdvak van twaalf maanden in totaal zestig dagen of langer heeft gedu
 
 ### Artikel  18  
 
-Bij het bereiken van de leeftijd als bedoeld in [artikel 6 van de Wet algemene ouderdomsverzekering BES](../../../../../../wet-BES/wet/algemene/ouderdomsverzekering/bes/BWBR0028459/README.md) eindigt de ambtsperiode van de gezaghebber. 
+Bij het bereiken van de leeftijd als bedoeld in artikel 6 van de Wet algemene ouderdomsverzekering BES eindigt de ambtsperiode van de gezaghebber. 
 
 ### §  10  
 
@@ -211,7 +216,7 @@ Bij het bereiken van de leeftijd als bedoeld in [artikel 6 van de Wet algemene o
 
 ### Artikel  19  
 
-Het [Rechtspositiebesluit gezaghebbers BES](../../../../../../AMvB-BES/rechtspositiebesluit/gezaghebbers/bes/BWBR0028526/README.md), het [Rechtspositiebesluit eilandgedeputeerden en eilandsraadsleden BES](../../../../../../AMvB-BES/rechtspositiebesluit/eilandgedeputeerden/en/eilandsraadsleden/bes/BWBR0028423/README.md) en het [Aanvullend rechtspositiebesluit eilandgedeputeerden BES](../../../../../../AMvB-BES/aanvullend/rechtspositiebesluit/eilandgedeputeerden/bes/BWBR0028484/README.md) worden ingetrokken. 
+Het Rechtspositiebesluit gezaghebbers BES, het Rechtspositiebesluit eilandgedeputeerden en eilandsraadsleden BES en het Aanvullend rechtspositiebesluit eilandgedeputeerden BES worden ingetrokken. 
 
 ### Artikel  20  
 

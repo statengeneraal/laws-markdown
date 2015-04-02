@@ -871,7 +871,7 @@ a. de autoriteit in Aruba, Curaçao of Sint Maarten, die het reisdocument heeft 
 
 b. de Minister van Buitenlandse Zaken indien het reisdocument is verstrekt in het buitenland, dan wel  
 
-c. de burgemeester van Bergen op Zoom, Bergeijk, Echt-Susteren, Enschede, ’s-Gravenhage, Haarlemmermeer, Maastricht, Montferland of Oldambt, indien deze autoriteit het reisdocument heeft verstrekt aan een houder die ten tijde van de verstrekking niet als ingezetene in de basisregistratie personen was ingeschreven, dan wel  
+c. de burgemeester van Bergen op Zoom, Bergeijk, Breda, Echt-Susteren, Enschede, ’s-Gravenhage, Haarlemmermeer, Maastricht, Montferland, Oldambt of Venlo, indien deze autoriteit het reisdocument heeft verstrekt aan een houder die ten tijde van de verstrekking niet als ingezetene in de basisregistratie personen was ingeschreven, dan wel  
 
 d.de burgemeester van de gemeente of de gezaghebber van het openbaar lichaam waarvan de houder blijkens de basisregistratie personen onderscheidenlijk de basisadministratie ingezetene is, of laatstelijk ingezetene was, indien het reisdocument niet in het buitenland of door de in a en c genoemde autoriteit is verstrekt. 
 

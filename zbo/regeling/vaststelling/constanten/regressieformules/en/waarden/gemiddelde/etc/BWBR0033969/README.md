@@ -3,7 +3,7 @@
 ##Regeling vaststelling constanten regressieformules en waarden gemiddelde CO2-uitstoot benzine- en dieselauto’s 2014 en 2015
 
 De directie van de Dienst Wegverkeer,  
-Gelet op [artikel 8 van het Besluit etikettering energiegebruik personenauto' s](../../../../../../../../../../AMvB/besluit/etikettering/energiegebruik/personenauto's/BWBR0011761/README.md) van 3 november 2000 en de [Regeling relatieve zuinigheid personenauto’s](../../../../../../../../../../ministeriele-regeling/regeling/relatieve/zuinigheid/personenauto's/BWBR0032215/README.md) van 31 oktober 2012;
+Gelet op artikel 8 van het Besluit etikettering energiegebruik personenauto' s van 3 november 2000 en de Regeling relatieve zuinigheid personenauto’s van 31 oktober 2012;
 Besluit:     De constanten voor de in de Regeling relatieve zuinigheid personenauto's opgenomen regressieformules en de daarbij behorende waarden van de gemiddelde CO<sub>2</sub>-uitstoot voor personenauto's met benzine als brandstof, alsmede voor personenauto's met diesel als brandstof voor de kalenderjaren 2014 en 2015, als volgt vast te stellen: 
 ### *Constanten en waarden voor 2014 en 2015* 
 

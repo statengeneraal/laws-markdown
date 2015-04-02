@@ -5,7 +5,7 @@
 De Minister van Justitie,  
 Handelende in overeenstemming met de Minister van Sociale Zaken en Werkgelegenheid;
 
-Gelet op [artikel 35, eerste lid van de Wet Justitiesubsidies](../../../../../wet/wet/justitie-subsidies/BWBR0008121/README.md);
+Gelet op artikel 35, eerste lid van de Wet Justitiesubsidies;
 Besluit:     
 ### §  1  
 
@@ -90,7 +90,7 @@ f. een beschrijving van de wijze waarop het project wordt geëvalueerd.
 a. de aanvraag niet voldoet aan de voorschriften in deze regeling;  
 
 b. subsidieverzoeker onvoldoende aannemelijk maakt de capaciteit te hebben om het project naar behoren te ontwikkelen, te faciliteren of uit te voeren.     
-4.  De minister verdeelt het beschikbare budget in de volgorde van ontvangst van de aanvragen, met dien verstande dat indien een aanvrager niet heeft voldaan aan de voorschriften genoemd in artikel 3 en met toepassing van [artikel 4:5 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) in de gelegenheid is gesteld de aanvraag aan te vullen, de dag waarop de aanvraag voldoet aan de voorschriften genoemd in artikel 3 als datum van ontvangst geldt.   
+4.  De minister verdeelt het beschikbare budget in de volgorde van ontvangst van de aanvragen, met dien verstande dat indien een aanvrager niet heeft voldaan aan de voorschriften genoemd in artikel 3 en met toepassing van artikel 4:5 van de Algemene wet bestuursrecht in de gelegenheid is gesteld de aanvraag aan te vullen, de dag waarop de aanvraag voldoet aan de voorschriften genoemd in artikel 3 als datum van ontvangst geldt.   
 5.  Bij de subsidieverlening kunnen nadere verplichtingen worden opgelegd, die strekken tot verwezenlijking van het doel van de subsidie.  
 
 ### §  3  
@@ -119,7 +119,7 @@ b. subsidieverzoeker onvoldoende aannemelijk maakt de capaciteit te hebben om he
 ### Artikel  7  
 
 1.  Binnen dertien weken na afloop van de activiteiten waarvoor de subsidie is verleend, dient de subsidie-ontvanger een aanvraag tot vaststelling van de projectsubsidie in.   
-2.  De aanvraag tot vaststelling van de projectsubsidie omvat in ieder geval een activiteitenverslag als bedoeld in [artikel 4:80 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en een financiële verantwoording die is gerelateerd aan de goedgekeurde begroting.   
+2.  De aanvraag tot vaststelling van de projectsubsidie omvat in ieder geval een activiteitenverslag als bedoeld in artikel 4:80 van de Algemene wet bestuursrecht en een financiële verantwoording die is gerelateerd aan de goedgekeurde begroting.   
 3.  Indien het bedrag waarop de subsidie ten hoogste kan worden vastgesteld € 100.000,- of meer bedraagt, dient het eindverslag vergezeld te gaan van een accountantsverklaring die is opgesteld op de in Bijlage 1 van deze regeling aangegeven wijze.   
 4.  De subsidie-ontvanger draagt er zorg voor dat de accountant meewerkt aan door of namens de minister in te stellen onderzoeken.   
 5.  Het totale bedrag van subsidievaststelling bedraagt maximaal 100 procent van het bedrag zoals vastgesteld in de voorlopige beschikking tot subsidieverlening.   
@@ -175,7 +175,7 @@ Voor de uitvoering van de bepalingen die zijn opgesteld ten behoeve van het onde
 
 – een assurancerapport  
 
-– een rapport van feitelijke bevindingen.   De grondslag voor een zodanige aanwijzing wordt gevonden in de [Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) (Awb), [wet Justitie subsidies](../../../../../wet/wet/justitie-subsidies/BWBR0008121/README.md) alsmede in specifieke behoeften van de subsidieverstrekker. In de [Awb](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn hierover onder meer de volgende relevante aanwijzingen opgenomen. In [artikel 4:79, eerste lid, Awb](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is bepaald dat bij wettelijk voorschrift of bij subsidieverlening kan worden bepaald dat de in [artikel 4:78, eerste lid, Awb](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bedoelde opdracht tevens strekt tot onderzoek van de naleving van aan de subsidie verbonden verplichtingen. In [artikel 4:79, tweede lid, AWB](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is bepaald dat bij toepassing van het eerste lid de opdracht vergezeld gaat van een bij of krachtens wettelijk voorschrift of bij de subsidieverlening vast te stellen aanwijzing over de reikwijdte en de intensiteit van de controle. [Artikel 4:78 AWB](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) vermeldt bepalingen die van toepassing zijn bij het onderzoek van het financiële verslag dat door een subsidieontvanger is opgedragen aan een accountant. Onder meer is in lid 3 bepaald dat de accountant de uitslag van zijn onderzoek weergeeft in een schriftelijke verklaring omtrent de getrouwheid van het financiële verslag. In dit hoofdstuk wordt verder een uiteenzetting gegeven van de doelstelling die beoogd wordt bij de controle van subsidies en een toelichting op de meest relevante begrippen op subsidie gebied. In de hoofdstukken 2 tot en met 4 wordt achtereenvolgens ingegaan op de bovengenoemde accountantsproducten. In hoofdstuk 5 worden nog enige bijzondere onderwerpen belicht. Tot slot is in hoofdstuk 6 een aantal bijlagen opgenomen waarin modellen voor de accountantsproducten zijn opgenomen. Benadrukt dat deze modellen nog wijziging kunnen ondergaan wat betreft de invulling van het begrip rechtmatigheid en het voldoen aan de WOPT-eisen. Om het controleprotocol actueel te houden is voorzien in een jaarlijkse beoordeling van het protocol door het ministerie van Justitie. 
+– een rapport van feitelijke bevindingen.   De grondslag voor een zodanige aanwijzing wordt gevonden in de Algemene wet bestuursrecht (Awb), wet Justitie subsidies alsmede in specifieke behoeften van de subsidieverstrekker. In de Awb zijn hierover onder meer de volgende relevante aanwijzingen opgenomen. In artikel 4:79, eerste lid, Awb is bepaald dat bij wettelijk voorschrift of bij subsidieverlening kan worden bepaald dat de in artikel 4:78, eerste lid, Awb bedoelde opdracht tevens strekt tot onderzoek van de naleving van aan de subsidie verbonden verplichtingen. In artikel 4:79, tweede lid, AWB is bepaald dat bij toepassing van het eerste lid de opdracht vergezeld gaat van een bij of krachtens wettelijk voorschrift of bij de subsidieverlening vast te stellen aanwijzing over de reikwijdte en de intensiteit van de controle. Artikel 4:78 AWB vermeldt bepalingen die van toepassing zijn bij het onderzoek van het financiële verslag dat door een subsidieontvanger is opgedragen aan een accountant. Onder meer is in lid 3 bepaald dat de accountant de uitslag van zijn onderzoek weergeeft in een schriftelijke verklaring omtrent de getrouwheid van het financiële verslag. In dit hoofdstuk wordt verder een uiteenzetting gegeven van de doelstelling die beoogd wordt bij de controle van subsidies en een toelichting op de meest relevante begrippen op subsidie gebied. In de hoofdstukken 2 tot en met 4 wordt achtereenvolgens ingegaan op de bovengenoemde accountantsproducten. In hoofdstuk 5 worden nog enige bijzondere onderwerpen belicht. Tot slot is in hoofdstuk 6 een aantal bijlagen opgenomen waarin modellen voor de accountantsproducten zijn opgenomen. Benadrukt dat deze modellen nog wijziging kunnen ondergaan wat betreft de invulling van het begrip rechtmatigheid en het voldoen aan de WOPT-eisen. Om het controleprotocol actueel te houden is voorzien in een jaarlijkse beoordeling van het protocol door het ministerie van Justitie. 
 
 ### 1.2  
 
@@ -253,7 +253,7 @@ In de accountantsverklaring spreekt de accountant een oordeel uit of het in het 
 
 ####Referentiekader
 
-Het ‘Stramien voor Assurance-opdrachten’ is leidend voor controle-opdrachten die leiden tot een accountantsverklaring. Dit Stramien geeft een referentiekader ten behoeve van accountants en anderen die betrokken zijn bij assurance opdrachten, waaronder de beoogde gebruikers en de verantwoordelijke partij. De controle dient te worden uitgevoerd door een accountant als bedoeld in [artikel 393, eerste lid van boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md). Buiten de als bekend veronderstelde algemene wet- en regelgeving, moet de verantwoording voldoen aan specifiek op de subsidierelatie van toepassing zijnde wet- en regelgeving. Deze specifieke regelgeving wordt vermeld in de bijlage van het specifieke deel van de Aanwijzing controleprotocol subsidiëring. 
+Het ‘Stramien voor Assurance-opdrachten’ is leidend voor controle-opdrachten die leiden tot een accountantsverklaring. Dit Stramien geeft een referentiekader ten behoeve van accountants en anderen die betrokken zijn bij assurance opdrachten, waaronder de beoogde gebruikers en de verantwoordelijke partij. De controle dient te worden uitgevoerd door een accountant als bedoeld in artikel 393, eerste lid van boek 2 van het Burgerlijk Wetboek. Buiten de als bekend veronderstelde algemene wet- en regelgeving, moet de verantwoording voldoen aan specifiek op de subsidierelatie van toepassing zijnde wet- en regelgeving. Deze specifieke regelgeving wordt vermeld in de bijlage van het specifieke deel van de Aanwijzing controleprotocol subsidiëring. 
 
 ### 2.4  
 
@@ -326,7 +326,7 @@ De accountant dient toereikende assurance informatie te verkrijgen waarop zijn c
 
 ####Referentiekader
 
-De controle dient te worden uitgevoerd door een accountant als bedoeld in [artikel 393, eerste lid van boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md). Het eerdergenoemde COS 3000 verwijst ook naar het zogenoemde ‘Stramien voor Assurance-opdrachten’. Dit Stramien geeft een referentiekader voor assurance opdrachten ten behoeve van accountants en anderen die betrokken zijn bij assurance opdrachten, waaronder de beoogde gebruikers en de verantwoordelijke partij. Paragraaf 37 van het Stramien geeft aan dat ten behoeve van de uitvoerbaarheid van de assurance opdracht criteria dienen te worden geformuleerd op grond waarvan de accountant het object van onderzoek kan evalueren of toetsen. De van toepassing zijnde criteria dienen door de accountant te worden beoordeeld op toepasbaarheid. Criteria zijn generiek of specifiek ontwikkeld. In het geval specifieke criteria zijn ontwikkeld, zal de accountant beoordelen of de specifiek ontwikkelde criteria toepasbaar zijn voor de doelstellingen van de beoogde gebruikers. Benadrukt wordt dat met het oog op het te verkrijgen zekerheidsoordeel in het assurance rapport naast de criteria ook de betrouwbaarheid en de nauwkeurigheid waarmee het onderzoek moet worden uitgevoerd, aan de accountant dienen te worden kenbaar gemaakt.  
+De controle dient te worden uitgevoerd door een accountant als bedoeld in artikel 393, eerste lid van boek 2 van het Burgerlijk Wetboek. Het eerdergenoemde COS 3000 verwijst ook naar het zogenoemde ‘Stramien voor Assurance-opdrachten’. Dit Stramien geeft een referentiekader voor assurance opdrachten ten behoeve van accountants en anderen die betrokken zijn bij assurance opdrachten, waaronder de beoogde gebruikers en de verantwoordelijke partij. Paragraaf 37 van het Stramien geeft aan dat ten behoeve van de uitvoerbaarheid van de assurance opdracht criteria dienen te worden geformuleerd op grond waarvan de accountant het object van onderzoek kan evalueren of toetsen. De van toepassing zijnde criteria dienen door de accountant te worden beoordeeld op toepasbaarheid. Criteria zijn generiek of specifiek ontwikkeld. In het geval specifieke criteria zijn ontwikkeld, zal de accountant beoordelen of de specifiek ontwikkelde criteria toepasbaar zijn voor de doelstellingen van de beoogde gebruikers. Benadrukt wordt dat met het oog op het te verkrijgen zekerheidsoordeel in het assurance rapport naast de criteria ook de betrouwbaarheid en de nauwkeurigheid waarmee het onderzoek moet worden uitgevoerd, aan de accountant dienen te worden kenbaar gemaakt.  
 
 ### 3.4  
 
@@ -342,7 +342,7 @@ Voorbeelden van bepalingen die onderzocht kunnen worden in een assurance onderzo
 
 – Vaststellen dat de kosten uitvoering sociaal plan (ook niet materieel) op de juiste wijze zijn opgesteld.  
 
-– Vaststellen dat rechtsbijstand alleen wordt verleend door daartoe in [artikel 13 van de Wet op de rechtsbijstand](../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md) vermelde rechtsbijstandverleners rekening houdend met de vermelde uitzonderingsbepalingen.  
+– Vaststellen dat rechtsbijstand alleen wordt verleend door daartoe in artikel 13 van de Wet op de rechtsbijstand vermelde rechtsbijstandverleners rekening houdend met de vermelde uitzonderingsbepalingen.  
 
 – Vaststellen dat de met notarissen en anderen aangegane overeenkomsten tot het verlenen van rechtsbijstand op bepaalde gebieden overeenkomen met de in het door de Staatssecretaris goedgekeurde jaarplan vermelde nadere regels.   In de situatie dat geen zekerheidsoordeel wordt verlangd, maar volstaan kan worden met een beschrijving van de feitelijke situatie is er keuzemogelijkheid om de uitkomsten van bovengenoemde onderzoeken op te nemen in een rapport van feitelijke bevindingen. 
 
@@ -354,7 +354,7 @@ Voorbeelden van bepalingen die onderzocht kunnen worden in een assurance onderzo
 
 ####Algemeen
 
-In een rapport van feitelijke bevindingen worden de onderzoeksbevindingen vermeld, zonder dat de accountant een oordeel hierover uitspreekt. Dat wordt overgelaten aan de gebruiker van het rapport. Deze rapportvorm valt onder COS 4400. Aan het gebruik van het rapport zijn beperkingen verbonden. De accountant doet verslag van zijn feitelijke bevindingen uit hoofde van specifiek overeengekomen werkzaamheden. Hij voert in deze situatie geen controle uit die leidt tot een accountantsverklaring bij een financiële verantwoording; het is geen assurance-opdracht. In het specifieke protocol moet duidelijk zijn vastgelegd, wat de aard, het tijdstip van uitvoering en de omvang van de uit te voeren werkzaamheden zijn en ook de vorm van de rapportage en de verspreidingskring. De accountant beschrijft zijn bevindingen met daarbij de door hem aangetroffen fouten en afwijkingen. De gebruiker van de rapportage beslist op grond hiervan zelf of de subsidieontvanger voldaan heeft aan de gestelde voorwaarden. Gezien de specifieke afspraken is de rapportage uitsluitend bestemd voor de partijen waarmee de accountant de werkzaamheden is overeengekomen, omdat anderen (die niet op de hoogte zijn van het doel van de werkzaamheden) de resultaten onjuist zouden kunnen interpreteren. De [Wet openbaarheid bestuur](../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) (WOB) staat deze rapportvorm niet in de weg, wel moeten enkele waarborgen worden ingebouwd. Zo moet het rapport expliciet vermelden dat het voor een beperkte kring bestemd is en moet in de opdrachtbevestiging staan dat verdere verspreiding alleen mogelijk is na schriftelijke toestemming van de accountant. 
+In een rapport van feitelijke bevindingen worden de onderzoeksbevindingen vermeld, zonder dat de accountant een oordeel hierover uitspreekt. Dat wordt overgelaten aan de gebruiker van het rapport. Deze rapportvorm valt onder COS 4400. Aan het gebruik van het rapport zijn beperkingen verbonden. De accountant doet verslag van zijn feitelijke bevindingen uit hoofde van specifiek overeengekomen werkzaamheden. Hij voert in deze situatie geen controle uit die leidt tot een accountantsverklaring bij een financiële verantwoording; het is geen assurance-opdracht. In het specifieke protocol moet duidelijk zijn vastgelegd, wat de aard, het tijdstip van uitvoering en de omvang van de uit te voeren werkzaamheden zijn en ook de vorm van de rapportage en de verspreidingskring. De accountant beschrijft zijn bevindingen met daarbij de door hem aangetroffen fouten en afwijkingen. De gebruiker van de rapportage beslist op grond hiervan zelf of de subsidieontvanger voldaan heeft aan de gestelde voorwaarden. Gezien de specifieke afspraken is de rapportage uitsluitend bestemd voor de partijen waarmee de accountant de werkzaamheden is overeengekomen, omdat anderen (die niet op de hoogte zijn van het doel van de werkzaamheden) de resultaten onjuist zouden kunnen interpreteren. De Wet openbaarheid bestuur (WOB) staat deze rapportvorm niet in de weg, wel moeten enkele waarborgen worden ingebouwd. Zo moet het rapport expliciet vermelden dat het voor een beperkte kring bestemd is en moet in de opdrachtbevestiging staan dat verdere verspreiding alleen mogelijk is na schriftelijke toestemming van de accountant. 
 
 ### 4.2  
 
@@ -388,7 +388,7 @@ Controleerbaar wil zeggen dat de beschikbare informatie de controlerende instant
 
 ####Referentiekader
 
-Het onderzoek dient te worden uitgevoerd door een accountant als bedoeld in [artikel 393, eerste lid van boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md). Conform COS 4400 paragraaf 9 dient de accountant er zeker van te zijn dat er met de vertegenwoordigers van de entiteit en, in het algemeen, met de belanghebbenden die een exemplaar van het rapport met de feitelijke bevindingen zullen ontvangen, duidelijk overeenstemming bestaat over de overeengekomen werkzaamheden en de voorwaarden van de opdracht. De onderwerpen die onder meer aan de orde komen zijn: 
+Het onderzoek dient te worden uitgevoerd door een accountant als bedoeld in artikel 393, eerste lid van boek 2 van het Burgerlijk Wetboek. Conform COS 4400 paragraaf 9 dient de accountant er zeker van te zijn dat er met de vertegenwoordigers van de entiteit en, in het algemeen, met de belanghebbenden die een exemplaar van het rapport met de feitelijke bevindingen zullen ontvangen, duidelijk overeenstemming bestaat over de overeengekomen werkzaamheden en de voorwaarden van de opdracht. De onderwerpen die onder meer aan de orde komen zijn: 
 
 – De aard van de opdracht met inbegrip van het gegeven dat de werkzaamheden niet worden uitgevoerd in het kader van een controle- of een beoordelingsopdracht en dat derhalve geen zekerheid wordt verstrekt.  
 
@@ -416,11 +416,11 @@ Onderstaand zijn voorbeelden van bepalingen vermeld die onderzocht worden en zic
 
 – De opzet, het bestaan en de werking van de procedures voor het verlenen en vaststellen van de door de gesubsidieerde instelling verstrekte bijdragen aan derden, voor zover de verstrekte bijdragen worden gefinancierd door het ministerie van Justitie.  
 
-– De werking van de procedures voor het verlenen van toevoegingen en vaststellen van declaraties op basis van de [Wet op de rechtsbijstand](../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md).  
+– De werking van de procedures voor het verlenen van toevoegingen en vaststellen van declaraties op basis van de Wet op de rechtsbijstand.  
 
 – De onderzoeksbevindingen met betrekking tot beheersing van specifieke projecten.  
 
-– Het naleven van [artikel 44 zesde lid, van de Wet op de Jeugdzorg](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) (Beleidsinformatie) betreffende de opzet en de werking van de informatieverzameling en -verwerking van de gegevens.  
+– Het naleven van artikel 7.4.3 van de Jeugdwet (Beleidsinformatie) betreffende de opzet en de werking van de informatieverzameling en -verwerking van de gegevens.  
 
 – Het treffen van een regeling voor de behandeling van klachten, met inachtneming van hetgeen hieromtrent is bepaald in van toepassing zijnde wet- en regelgeving.  
 
@@ -540,7 +540,7 @@ Onze verantwoordelijkheid is het geven van een oordeel over de jaarrekening op b
 
 ####Oordeel
 
-Naar ons oordeel geeft de jaarrekening een getrouw beeld van de grootte en de samenstelling van het vermogen van ... (naam entiteit) per ... 2008 en van het resultaat over 2008 in overeenstemming met hetgeen hierover is bepaald in het Subsidiebesluit XYZ. Voorts zijn wij van oordeel dat de in deze jaarrekening verantwoorde baten, lasten en balansmutaties over 2008 voldoen aan de eisen van financiële rechtmatigheid. Dit houdt in dat deze bedragen in overeenstemming zijn met de in de relevante wet- en regelgeving opgenomen bepalingen. Verklaring betreffende andere wettelijke voorschriften en/of voorschriften van regelgevende instanties Verder melden wij dat het activiteitenverslag, voor zover wij dat kunnen beoordelen, verenigbaar is met de jaarrekening. Voorts merken wij op dat niet is voldaan aan de wettelijke verplichting tot vermelding van de informatie over topinkomens ([artikel 6 van de Wet openbaarmaking uit publieke middelen gefinancierde topinkomens](../../../../../wet/wet/openbaarmaking/uit/publieke/middelen/gefinancierde/topinkomens/BWBR0019562/README.md))<sup> 2  Uitzonderingsrapportage indien niet is voldaan aan de WOPT. Als de WOPT expliciet onderdeel uitmaakt van het verslaggevingsstelsel, dan wordt dit meegenomen in de oordeelsvorming van het getrouw beeld onder het eerste kopje.  </sup>. Plaats, datum Naam accountantsorganisatie Naam externe accountant en ondertekening met die naam 
+Naar ons oordeel geeft de jaarrekening een getrouw beeld van de grootte en de samenstelling van het vermogen van ... (naam entiteit) per ... 2008 en van het resultaat over 2008 in overeenstemming met hetgeen hierover is bepaald in het Subsidiebesluit XYZ. Voorts zijn wij van oordeel dat de in deze jaarrekening verantwoorde baten, lasten en balansmutaties over 2008 voldoen aan de eisen van financiële rechtmatigheid. Dit houdt in dat deze bedragen in overeenstemming zijn met de in de relevante wet- en regelgeving opgenomen bepalingen. Verklaring betreffende andere wettelijke voorschriften en/of voorschriften van regelgevende instanties Verder melden wij dat het activiteitenverslag, voor zover wij dat kunnen beoordelen, verenigbaar is met de jaarrekening. Voorts merken wij op dat niet is voldaan aan de wettelijke verplichting tot vermelding van de informatie over topinkomens (artikel 6 van de Wet openbaarmaking uit publieke middelen gefinancierde topinkomens)<sup> 2  Uitzonderingsrapportage indien niet is voldaan aan de WOPT. Als de WOPT expliciet onderdeel uitmaakt van het verslaggevingsstelsel, dan wordt dit meegenomen in de oordeelsvorming van het getrouw beeld onder het eerste kopje.  </sup>. Plaats, datum Naam accountantsorganisatie Naam externe accountant en ondertekening met die naam 
 
 ### 6.2  
 
@@ -594,15 +594,15 @@ Onderstaand wordt een opsomming gegeven van algemene wet- en regelgeving die bet
 
 1. Europese aanbestedingsrichtlijnen: Richtlijn 93/36/EEG voor de coördinatie van opdrachten voor Leveringen, Richtlijn 92/50/EEG voor de coördinatie van de opdrachten voor Diensten, Richtlijn 93/37/EEG voor de coördinatie van de procedures voor het aanbesteden van Werken, Wijzigingsrichtlijn 97/52/EEG voor Diensten, Leveringen en Werken.  
 
-2. Nederlandse wet- en regelgeving: [Besluit Aanbestedingsregels voor overheidsopdrachten](../../../../../AMvB/besluit/aanbestedingsregels/voor/overheidsopdrachten/BWBR0018607/README.md) Stbl. 408 (2005) e.v., [Raamwet EEG-voorschriftenoverheidsaanbestedingen](../../../../../wet/raamwet/eeg-voorschriften/aanbestedingen/BWBR0005937/README.md) 212 jo (1993) , 305 (1993), 379 (1994), 436 (1997), 542 (1998).  
+2. Nederlandse wet- en regelgeving: Besluit Aanbestedingsregels voor overheidsopdrachten Stbl. 408 (2005) e.v., Raamwet EEG-voorschriftenoverheidsaanbestedingen 212 jo (1993) , 305 (1993), 379 (1994), 436 (1997), 542 (1998).  
 
-3. [Algemene wet bestuursrecht titel 4.2](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [titel 4.2.8](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).  
+3. Algemene wet bestuursrecht titel 4.2 en titel 4.2.8.  
 
-4. [Wet Justitie-Subsidies](../../../../../wet/wet/justitie-subsidies/BWBR0008121/README.md)  
+4. Wet Justitie-Subsidies  
 
-5. [Wet openbaarmaking uit publieke middelen gefinancierde topinkomens](../../../../../wet/wet/openbaarmaking/uit/publieke/middelen/gefinancierde/topinkomens/BWBR0019562/README.md) (Stb 2006, 95)  
+5. Wet openbaarmaking uit publieke middelen gefinancierde topinkomens (Stb 2006, 95)  
 
-6. [Besluit Voorschrift Informatiebeveiliging Rijksoverheid 2007](../../../../../ministeriele-regeling/besluit/voorschrift/informatiebeveiliging/rijksdienst/2007/BWBR0022141/README.md).   
+6. Besluit Voorschrift Informatiebeveiliging Rijksoverheid 2007.   
 
 ####Specifiek
 

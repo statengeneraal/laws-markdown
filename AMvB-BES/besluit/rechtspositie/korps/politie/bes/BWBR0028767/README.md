@@ -18,11 +18,11 @@ c.  *ambtenaar van politie:* de ambtenaar aangesteld voor de uitvoering van de p
 
 d.  *aspirant:* degene die toegelaten is tot de basisopleiding;  
 
-e.  *ambtenaar aangesteld voor de uitvoering van de politietaak:* de ambtenaar, bedoeld in [artikel 3, onder a, van de Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](../../../../../../../rijkswet/rijkswet/politie/van/curaçao/van/sint/maarten/en/van/bonaire/sint/etc/BWBR0028079/README.md), met uitzondering van de aspirant;  
+e.  *ambtenaar aangesteld voor de uitvoering van de politietaak:* de ambtenaar, bedoeld in artikel 3, onder a, van de Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba, met uitzondering van de aspirant;  
 
-f.  *ambtenaar aangesteld voor de uitvoering van technische, administratieve en andere taken ten dienste van de politie:* de ambtenaar, bedoeld in [artikel 3, onder b, van de Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](../../../../../../../rijkswet/rijkswet/politie/van/curaçao/van/sint/maarten/en/van/bonaire/sint/etc/BWBR0028079/README.md); 
+f.  *ambtenaar aangesteld voor de uitvoering van technische, administratieve en andere taken ten dienste van de politie:* de ambtenaar, bedoeld in artikel 3, onder b, van de Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba; 
 
-f1.  *vrijwillige ambtenaar aangesteld voor de uitvoering van de politietaak:* de ambtenaar, bedoeld in [artikel 3, onder c, van de Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](../../../../../../../rijkswet/rijkswet/politie/van/curaçao/van/sint/maarten/en/van/bonaire/sint/etc/BWBR0028079/README.md);  
+f1.  *vrijwillige ambtenaar aangesteld voor de uitvoering van de politietaak:* de ambtenaar, bedoeld in artikel 3, onder c, van de Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba;  
 
 f2.  *vrijwillige ambtenaar in opleiding:* degene die door Onze Minister is benoemd tot vrijwillige ambtenaar in opleiding en die is toegelaten tot de opleiding tot vrijwillige ambtenaar van politie;  
 
@@ -34,9 +34,9 @@ h.  *deelbetrekking:* een betrekking met een arbeidstijd van gemiddeld minder da
 
 i. *bezoldiging:*
 
-– het loon van de ambtenaar aangesteld voor de uitvoering van de politietaak en de aspirant met inachtneming van de bepalingen van dit besluit aan de hand van een bezoldigingsschaal vastgesteld;  
+a. voor de ambtenaar aangesteld voor de uitvoering van de politietaak en de aspirant: het loon van de ambtenaar met inachtneming van de bepalingen bij of krachtens dit besluit aan de hand van een bezoldigingsschaal vastgesteld en vermenigvuldigd met een factor 40/39,5;  
 
-– het loon van de ambtenaar aangesteld voor de uitvoering van technische, administratieve en andere taken ten dienste van de politie met inachtneming van het bepaalde bij of krachtens het [Bezoldigingsbesluit 1998 BES](../../../../../../../AMvB-BES/bezoldigingsbesluit/1998/bes/BWBR0028491/README.md);    
+b. voor de ambtenaar aangesteld voor de uitvoering van technische, administratieve en andere taken ten dienste van de politie: het loon van de ambtenaar met inachtneming van de bepalingen bij of krachtens het Bezoldigingsbesluit 1998 BES vastgesteld;    
 
 j.  *bezoldigingsschaal:* een als zodanig bij ministeriële regeling vastgestelde, van een volgnummer voorziene reeks van bedragen;  
 
@@ -62,7 +62,7 @@ p.  *maximum-bezoldiging:* het bedrag behorende bij de hoogste bezoldigingstrede
 
 ### Artikel  2  
 
-De [hoofdstukken II](../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md) en [III van het Rechtspositiebesluit ambtenaren BES](../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md) zijn niet van toepassing op de ambtenaar van politie, met dien verstande, dat het bepaalde bij of krachtens [artikel 10 van het Rechtspositiebesluit ambtenaren BES](../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md) inzake bevordering wel van toepassing is op de ambtenaar aangesteld voor de uitvoering van technische, administratieve en andere taken ten dienste van de politie. 
+De hoofdstukken II en III van het Rechtspositiebesluit ambtenaren BES zijn niet van toepassing op de ambtenaar van politie, met dien verstande, dat het bepaalde bij of krachtens artikel 10 van het Rechtspositiebesluit ambtenaren BES inzake bevordering wel van toepassing is op de ambtenaar aangesteld voor de uitvoering van technische, administratieve en andere taken ten dienste van de politie. 
 
 ### §  2  
 
@@ -443,8 +443,8 @@ d. andere werkzaamheden die door de instantie kunnen worden uitgevoerd, mits die
 
 ### Artikel  13  
 
-1.  Op de ambtenaar aangesteld voor de uitvoering van de politietaak en de aspirant zijn van [hoofdstuk IV van het Rechtspositiebesluit ambtenaren BES](../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md) uitsluitend de [artikelen 25a](../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md), [25b](../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md), [25c](../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md), [27](../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md), [29](../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md), [30](../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md) en [36a](../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md) van toepassing.   
-2.  Op de vrijwillige ambtenaar van politie zijn van [hoofdstuk IV van het Rechtspositiebesluit ambtenaren BES](../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md) uitsluitend de [artikelen 27](../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md), [29](../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md) en [30](../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md) van toepassing.   
+1.  Op de ambtenaar aangesteld voor de uitvoering van de politietaak en de aspirant zijn van hoofdstuk IV van het Rechtspositiebesluit ambtenaren BES uitsluitend de artikelen 25a, 25aa, 25b, 25c, 27, 28, 29, 30 en 36a en de daarop gebaseerde bepalingen van toepassing.   
+2.  Op de vrijwillige ambtenaar van politie zijn van hoofdstuk IV van het Rechtspositiebesluit ambtenaren BES uitsluitend de artikelen 27, 29 en 30 van toepassing.   
 3.  De artikelen 14 tot en met 23 van dit besluit zijn niet van toepassing op de vrijwillige ambtenaar van politie. 
 
 ### Artikel  14  
@@ -471,10 +471,10 @@ Indien de ambtenaar aangesteld voor de uitvoering van de politietaak, anders dan
 
 ### Artikel  18  
 
-1.  De bezoldiging van de ambtenaar aangesteld voor de uitvoering van de politietaak wordt verhoogd tot het bedrag dat behoort bij de naasthogere bezoldigingstrede in de schaal, indien hij naar het oordeel van Onze Minister, dat is neergelegd in een formele beoordeling, bedoeld in artikel 25, zijn functie naar behoren vervult. Deze beoordeling vindt voor iedere ambtenaar aangesteld voor de uitvoering van de politietaak, niet later dan één jaar na zijn indiensttreding of na zijn overgang naar een andere functie en vervolgens ten minste aan het einde van elk jaar plaats.   
-2.  De bezoldiging van de ambtenaar aangesteld voor de uitvoering van de politietaak, kan worden verhoogd tot het bedrag dat behoort bij de eerste bezoldigingstrede volgend op de naasthogere bezoldigingstrede in de schaal, indien hij naar het oordeel van Onze Minister, dat is neergelegd in een formele beoordeling, bedoeld in artikel 25, zijn functie zeer goed of uitstekend verricht.   
-3.  Vervult de ambtenaar aangesteld voor de uitvoering van de politietaak, zijn functie naar het oordeel van Onze Minister niet naar behoren, dan blijft verhoging van de bezoldiging achterwege.   
-4.  De in het eerste en het tweede lid bedoelde verhogingen van de bezoldiging worden met ingang van 1 januari van een jaar toegekend, zolang de ambtenaar aangesteld voor de uitvoering van de politietaak, de maximum-bezoldiging van de voor hem geldende bezoldigingsschaal nog niet heeft bereikt, doch voor de eerste maal niet eerder dan nadat sinds zijn aanstelling als ambtenaar aangesteld voor de uitvoering van de politietaak, ten minste zes maanden zijn verstreken.  
+1.  Het loon van de ambtenaar aangesteld voor de uitvoering van de politietaak wordt verhoogd tot het bedrag dat behoort bij de naasthogere bezoldigingstrede in de schaal, indien hij naar het oordeel van Onze Minister, dat is neergelegd in een formele beoordeling, bedoeld in artikel 25, zijn functie naar behoren vervult. Deze beoordeling vindt voor iedere ambtenaar aangesteld voor de uitvoering van de politietaak, niet later dan één jaar na zijn indiensttreding of na zijn overgang naar een andere functie en vervolgens ten minste aan het einde van elk jaar plaats.   
+2.  Het loon van de ambtenaar aangesteld voor de uitvoering van de politietaak, kan worden verhoogd tot het bedrag dat behoort bij de eerste bezoldigingstrede volgend op de naasthogere bezoldigingstrede in de schaal, indien hij naar het oordeel van Onze Minister, dat is neergelegd in een formele beoordeling, bedoeld in artikel 25, zijn functie zeer goed of uitstekend verricht.   
+3.  Vervult de ambtenaar aangesteld voor de uitvoering van de politietaak, zijn functie naar het oordeel van Onze Minister niet naar behoren, dan blijft verhoging van het loon achterwege.   
+4.  De in het eerste en het tweede lid bedoelde verhogingen van het loon worden met ingang van 1 januari van een jaar toegekend, zolang de ambtenaar aangesteld voor de uitvoering van de politietaak, de maximum-bezoldiging van de voor hem geldende bezoldigingsschaal nog niet heeft bereikt, doch voor de eerste maal niet eerder dan nadat sinds zijn aanstelling als ambtenaar aangesteld voor de uitvoering van de politietaak, ten minste zes maanden zijn verstreken.  
 
 ### Artikel  19  
 
@@ -528,13 +528,73 @@ c. 200 procent, indien het een dienstuitoefening betreft op roostervrije- zon- e
 
 De vrijwillige ambtenaar in opleiding en de vrijwillige ambtenaar aangesteld voor de uitoefening van de politietaak die in opdracht van Onze Minister een voor zijn functie relevante cursus volgt dan wel deelneemt aan een oefening of in opdracht van Onze Minister werkelijke dienst verricht, ontvangen een bij ministeriële regeling vastgestelde vergoeding. 
 
-### Artikel  23c  
-
-Aan de ambtenaar van politie die in januari 2011 in dienst was van de staat, met uitzondering van de vrijwillige ambtenaar van politie,, wordt een eenmalige uitkering verleend ter hoogte van USD 100,00 netto. 
-
 ### Artikel  23d  
 
-[Artikel 9a van het Bezoldigingsbesluit 1998 BES](../../../../../../../AMvB-BES/bezoldigingsbesluit/1998/bes/BWBR0028491/README.md) is van overeenkomstige toepassing op de ambtenaar van politie, met uitzondering van de vrijwillige ambtenaar van politie. 
+Artikel 9a van het Bezoldigingsbesluit 1998 BES is van overeenkomstige toepassing op de ambtenaar van politie, met uitzondering van de vrijwillige ambtenaar van politie. 
+
+### §  4a  
+
+####Overgangsrecht bezoldiging
+
+### Artikel  23e  
+
+In deze paragraaf wordt verstaan onder: 
+
+a.  *ambtenaar:* de ambtenaar van politie aangesteld voor de uitvoering van de politietaak en de aspirant;  
+
+b.  *oorspronkelijke bezoldigingsschaal:* de bezoldigingsschaal die van toepassing was tot en met 30 juni 2013;  
+
+c.  *nieuwe bezoldigingsschaal:* de bezoldigingsschaal die met terugwerkende kracht van toepassing is met ingang van 1 juli 2013;  
+
+d.  *oorspronkelijke maximum-bezoldiging:* het bedrag, behorende bij de hoogste bezoldigingstrede van de oorspronkelijke bezoldigingsschaal;  
+
+e.  *garantietrede:* elk afzonderlijk binnen een bezoldigingsschaal opgenomen bezoldigingsbedrag, voorzien van een nummer dat wordt voorafgegaan door de aanduiding «GPT»;  
+
+f.  *bevorderen:* overgaan naar een functie, aan welke bezoldiging in een hogere bezoldigingsschaal is verbonden.   
+
+### Artikel  23f  
+
+Voor zover in de nieuwe bezoldigingsschaal de maximum-bezoldiging een lager bedrag is dan de maximum-bezoldiging in de oorspronkelijke bezoldigingsschaal worden bij ministeriële regeling garantietreden vastgesteld. 
+
+### Artikel  23g  
+
+1.  Bij ministeriële regeling worden inpastabellen vastgesteld voor ambtenaren die reeds op 30 september 2014 in dienst waren, waarbij onderscheid wordt gemaakt tussen: 
+
+a. ambtenaren die hun functie in 2013 naar het oordeel van Onze Minister, dat is neergelegd in een formele beoordeling als bedoeld in artikel 25, naar behoren hebben vervuld, en  
+
+b. ambtenaren ten aanzien van wie niet in een formele beoordeling als bedoeld in artikel 25 is neergelegd dat zij hun functie in 2013 naar behoren hebben vervuld.   Een inpastabel vermeldt per bezoldigingsschaal ten aanzien van iedere bezoldigingstrede in de oorspronkelijke bezoldigingsschaal op welke bezoldigings- of garantietrede de bezoldiging van een ambtenaar met in achtneming van het tweede tot en met vierde lid opnieuw wordt vastgesteld in de nieuwe bezoldigingsschaal.   
+2.  De bezoldiging van de ambtenaar die reeds op 30 juni 2013 in dienst was en de bezoldiging van de aspirant die reeds op 30 juni 2013 in dienst was, wordt op basis van de voor hem geldende inpastabel met terugwerkende kracht tot en met 1 juli 2013, of, indien hij daarna is bevorderd, voor de periode van 1 juli 2013 tot de datum van bevordering, met terugwerkende kracht vastgesteld in de bezoldigingsschaal volgens welke hij wordt of tot dan toe werd bezoldigd.   
+3.  De bezoldiging van de ambtenaar die tussen 1 juli 2013 en 1 oktober 2014 in dienst is getreden en de bezoldiging van de aspirant die tussen 1 juli 2013 en 1 oktober 2014 in dienst is getreden, wordt op basis van de voor hem geldende inpastabel met terugwerkende kracht tot en met de datum van indiensttreding of, indien de ambtenaar na 1 juli 2013 is bevorderd voor de periode van de datum van indiensttreding tot de datum van bevordering met terugwerkende kracht vastgesteld in de bezoldigingsschaal volgens welke hij wordt of tot zijn bevordering werd bezoldigd.   
+4.  Indien de ambtenaar, bedoeld in het tweede of derde lid, na 1 juli 2013 is bevorderd, wordt zijn bezoldiging op basis van de voor hem geldende inpastabel met terugwerkende kracht tot en met de datum van bevordering opnieuw vastgesteld in de bezoldigingsschaal volgens welke hij vanaf zijn bevordering werd bezoldigd.  
+
+### Artikel  23h  
+
+1.  Indien de ambtenaar die reeds op 30 september 2014 in dienst was de maximum-bezoldiging van de voor hem geldende bezoldigingsschaal heeft bereikt, wordt zijn bezoldiging met overeenkomstige toepassing van artikel 18, eerste lid, verhoogd tot het bedrag dat behoort bij de eerste garantietrede die behoort bij de schaal, indien hij naar het oordeel van Onze Minister, dat is neergelegd in een formele beoordeling als bedoeld in artikel 25, zijn functie naar behoren vervult.   
+2.  Indien de ambtenaar wordt bezoldigd op een garantietrede binnen de voor hem geldende bezoldigingschaal, wordt zijn bezoldiging met overeenkomstige toepassing van artikel 18, eerste lid, verhoogd tot het bedrag dat behoort bij de naast-hogere garantietrede die behoort bij de schaal, indien hij naar het oordeel van Onze Minister, dat is neergelegd in een formele beoordeling als bedoeld in artikel 25, zijn functie naar behoren vervult.   
+3.  Voor zover de ambtenaar die reeds op 30 september 2014 in dienst was de maximum-bezoldiging van de voor hem geldende bezoldigingsschaal heeft bereikt, wordt zijn bezoldiging bij toepassing van artikel 18, tweede lid, verhoogd tot een bedrag dat behoort tot de eerste garantietrede volgend op de naast-hogere bezoldigings- of garantietrede die behoort bij de schaal, indien hij naar het oordeel van Onze Minister, dat is neergelegd in een formele beoordeling als bedoeld in artikel 25, zijn functie zeer goed of uitstekend vervult.   
+4.  De in het tweede en derde lid bedoelde verhogingen van de bezoldiging worden met ingang van 1 januari van een jaar toegekend, zolang de ambtenaar aangesteld de laatste garantietrede die behoort bij de voor hem geldende bezoldigingsschaal nog niet heeft bereikt.   
+5.  Aan een verhoging, bedoeld in het eerste of tweede lid, behoeft geen formele beoordeling als bedoeld in artikel 25 ten grondslag te liggen, indien het een aspirant betreft.  
+
+### Artikel  23i  
+
+1.  Indien de ambtenaar die reeds op 30 september 2014 in dienst was na 1 juli 2013 een of twee maal is bevorderd, en hij de maximum-bezoldiging van de alsdan voor hem geldende bezoldigingsschaal heeft bereikt, is artikel 23h van overeenkomstige toepassing met inachtneming van het tweede en derde lid.   
+2.  Na de eerste bevordering sinds 1 juli 2013, niet zijnde een reguliere plaatsing in de vooraf afgesproken formatieve bezoldigingsschaal, kunnen verhogingen van de bezoldiging van de ambtenaar, bedoeld in het eerste lid, worden toegekend tot en met het aantal garantietreden in de bezoldigingsschaal volgens welke hij vóór zijn bevordering werd bezoldigd minus twee.   
+3.  Na de tweede bevordering sinds 1 juli 2013, niet zijnde een reguliere plaatsing in de vooraf afgesproken formatieve bezoldigingsschaal, kunnen verhogingen van de bezoldiging van de ambtenaar, bedoeld in het eerste lid, worden toegekend tot en met het aantal garantietreden in de bezoldigingsschaal volgens welke hij vóór zijn eerste bevordering werd bezoldigd minus vijf.   
+4.  Het eerste, tweede en derde lid zijn van overeenkomstige toepassing op de ambtenaar die tussen 1 juli 2013 en 1 oktober 2014 in dienst is getreden, met dien verstande dat voor «1 juli 2013» gelezen wordt: de datum van indiensttreding.   
+5.  Indien de ambtenaar die reeds op 30 september 2014 in dienst was na 1 juli 2013 is geplaatst in de vooraf afgesproken formatieve bezoldigingsschaal, en hij de maximum-bezoldiging van de alsdan voor hem geldende bezoldigingsschaal heeft bereikt, is artikel 23h van overeenkomstige toepassing.  
+
+### Artikel  23j  
+
+Ingeval de ambtenaar die reeds op 30 september 2013 in dienst was, wordt bevorderd wordt hem, onverminderd artikel 21, de bezoldigings- of garantietrede in de nieuwe bezoldigingsschaal toegekend, waarvan het bedrag ten minste gelijk is aan de hem laatstelijk toekomende bezoldigings- of garantietrede in de oude schaal. 
+
+### Artikel  23k  
+
+1.  Aan de ambtenaar die reeds op 30 juni 2013 in dienst was, wordt een eenmalige harmonisatie-uitkering verleend ter hoogte van USD 300,00.   
+2.  De harmonisatie-uitkering wordt voor de ambtenaar, bedoeld in het eerste lid, met een deelbetrekking vastgesteld op een evenredig deel van de harmonisatie-uitkering, bedoeld in het eerste lid.  
+
+### Artikel  23l  
+
+De ambtenaar die naar het oordeel van Onze Minister, dat is neergelegd in een formele beoordeling als bedoeld in artikel 25, in 2013 zijn functie naar behoren heeft vervuld, ontvangt een eenmalige uitkering van USD 100,00. 
 
 ### §  5  
 
@@ -575,7 +635,11 @@ De ambtenaar van politie, anders dan de aspirant, die daartoe de wens te kennen 
 
 ### Artikel  28  
 
-Het [Besluit vakantie en vrijstelling van dienst ambtenaren BES](../../../../../../../AMvB-BES/besluit/vakantie/en/vrijstelling/van/dienst/ambtenaren/bes/BWBR0028606/README.md), met uitzondering van [artikel 6a](../../../../../../../AMvB-BES/besluit/vakantie/en/vrijstelling/van/dienst/ambtenaren/bes/BWBR0028606/README.md), is niet van toepassing op de ambtenaar van politie. 
+Het Besluit vakantie en vrijstelling van dienst ambtenaren BES is niet van toepassing op de ambtenaar van politie. 
+
+### Artikel  28a  
+
+Voor zover de ambtenaar van politie ten aanzien van wie een dienstrooster als bedoeld in artikel 37 van het Rechtspositiebesluit ambtenaren BES is vastgesteld, vakantie is verleend op een tijd waarop hij volgens het dienstrooster niet gehouden is werkzaamheden te verrichten, maar wel op de werkplaats beschikbaar moet zijn, wordt slechts de helft van die tijd als genoten vakantie-uren aangemerkt. 
 
 ### §  2  
 
@@ -623,13 +687,13 @@ In afwijking van artikel 1, onder c, wordt in deze paragraaf onder ambtenaar van
 
 1.  Het aantal vakantie-uren waarop de ambtenaar van politie per kalenderjaar aanspraak heeft, bedraagt: 
 
-a. 176 vakantie-uren voor de bezoldigingsschalen 1, 2, 3, 4 en 5;  
+a. 184 vakantie-uren voor de bezoldigingsschalen 1, 2, 3, 4 en 5;  
 
 b. 184 vakantie-uren voor de bezoldigingsschalen 6, 7, 8 en 9;  
 
 c. 184 vakantie-uren voor de bezoldigingsschalen 10, 11, 12, en 13;  
 
-d. 200 vakantie-uren voor de bezoldigingsschalen 14, 15, 16 en 17.     
+d. 192 vakantie-uren voor de bezoldigingsschalen 14, 15, 16 en 17.     
 2.  Aan de ambtenaar van politie die ingevolge het voor hem geldende dienstrooster avond- en/of nachtdienst en dienst op zon- en feestdagen moet verrichten, heeft per kalenderjaar aanspraak op 24 extra vakantie-uren.   
 3.  Voor de toepassing van het eerste lid geldt de bezoldigingsschaal waartoe de ambtenaar van politie op 1 januari van het kalenderjaar behoort, of, in geval van aanstelling of bevordering in de loop van een kalenderjaar, de bezoldigingsschaal waartoe hij op dat tijdstip behoort.   
 4.  Bij de ambtenaar van politie die in onregelmatige ploegendienst werkzaam is, en de ambtenaar van politie, bedoeld in het tweede lid, worden voor elk tijdvak van een week waarin zij vakantie genieten, evenveel vakantie-uren op het hen jaarlijks toekomend aantal vakantie-uren in mindering gebracht als bij de ambtenaar van politie voor wie de werkweek uit vijf werkdagen bestaat.   
@@ -711,7 +775,7 @@ g. andere redenen op grond waarvan Onze Minister daartoe redenen aanwezig acht.
 
 ### Artikel  43  
 
-1.  Tenzij anders is bepaald bij dit besluit of bij of krachtens de [Ambtenarenwet BES](../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md), wordt de vrijstelling van dienst verleend met behoud van volle bezoldiging.   
+1.  Tenzij anders is bepaald bij dit besluit of bij of krachtens de Ambtenarenwet BES, wordt de vrijstelling van dienst verleend met behoud van volle bezoldiging.   
 2.  In afwijking van artikel 1, onder c, wordt in dit hoofdstuk onder ambtenaar van politie verstaan: ambtenaar van politie, met uitzondering van de vrijwillige ambtenaar van politie.  
 
 ### Artikel  44  
@@ -1145,7 +1209,8 @@ Indien een ambtenaar, op de laatste dag van de in artikel 74k bedoelde perioden,
 
 ### Artikel  75  
 
-[Hoofdstuk VII](../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md), met uitzondering van de [artikelen 66](../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md), [67](../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md), [71a](../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md), [72 tot en met 72h](../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md) en [76, van het Rechtspositiebesluit ambtenaren BES](../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md) en de daarop berustende regelingen zijn niet van toepassing op de ambtenaar van politie. 
+1.  Hoofdstuk VII, met uitzondering van de artikelen 66, 67, 68, 71a, 72 tot en met 72h en 76 van het Rechtspositiebesluit ambtenaren BES en de daarop berustende bepalingen zijn niet van toepassing op de ambtenaar van politie.   
+2.  In afwijking van het eerste lid zijn regelingen op grond van artikel 77, onder a, van het Rechtspositiebesluit ambtenaren BES mede van toepassing op de ambtenaar van politie, tenzij in die regelingen anders is bepaald. 
 
 ### Artikel  76  
 
@@ -1193,7 +1258,7 @@ De ambtenaar van politie die verhinderd is dienst te verrichten, geeft daarvan o
 5.  De aspirant geniet huisvesting en voeding van rijkswege, tenzij Onze Minister daarvan ontheffing heeft verleend.   
 6.  Door Onze Minister kunnen regels worden gesteld omtrent een door de aspirant te betalen vergoeding voor de huisvesting en voeding van rijkswege, bedoeld in het vijfde lid.   
 7.  Onze Minister kan een dienstwoning die de staat in eigendom heeft of van derden huurt ten behoeve van de dienst, ter beschikking stellen aan een ambtenaar van politie tegen betaling van de huurprijs.   
-8.  De huurprijs, bedoeld in het zevende lid, wordt bepaald op 16 procent van het inkomen van de ambtenaar van politie met als maximumgrondslag voor de berekening hiervan de aanvangsbezoldiging van schaal 10 van het [Bezoldigingsbesluit 1998 BES](../../../../../../../AMvB-BES/bezoldigingsbesluit/1998/bes/BWBR0028491/README.md) respectievelijk van schaal 7 van de regeling, bedoeld in artikel 1, onder j, van dit besluit. Onder inkomen als bedoeld in de eerste volzin wordt verstaan de jaarlijkse of maandelijkse bezoldiging, verhoogd met een eventuele persoonlijke toelage, kostwinnerstoelage, kindertoelage en standplaatstoelage. In het geval van twee of meer bezoldigde betrekkingen, wordt de som van de inkomens verbonden aan deze betrekkingen als inkomen aangemerkt.   
+8.  De huurprijs, bedoeld in het zevende lid, wordt bepaald op 16 procent van het inkomen van de ambtenaar van politie met als maximumgrondslag voor de berekening hiervan de aanvangsbezoldiging van schaal 10 van het Bezoldigingsbesluit 1998 BES respectievelijk van schaal 7 van de regeling, bedoeld in artikel 1, onder j, van dit besluit. Onder inkomen als bedoeld in de eerste volzin wordt verstaan de jaarlijkse of maandelijkse bezoldiging, verhoogd met een eventuele persoonlijke toelage, kostwinnerstoelage, kindertoelage en standplaatstoelage. In het geval van twee of meer bezoldigde betrekkingen, wordt de som van de inkomens verbonden aan deze betrekkingen als inkomen aangemerkt.   
 9.  De huurprijs, bedoeld in het zevende lid, wordt maandelijks voldaan door middel van inhouding daarvan op de bezoldiging van de ambtenaar van politie.  
 
 ### Artikel  81  
@@ -1201,7 +1266,7 @@ De ambtenaar van politie die verhinderd is dienst te verrichten, geeft daarvan o
 1.  Indien het belang van de dienst dat naar het oordeel van Onze Minister vordert, is de ambtenaar van politie, anders dan de aspirant en de vrijwillige ambtenaar van politie, behoudens in het in het tweede lid genoemde geval, verplicht om binnen het korps zijn functie te vervullen op een andere plaats van tewerkstelling of binnen een ander werkgebied, dan wel een andere functie dan waarin hij geplaatst is, te vervullen hetzij op zijn plaats van tewerkstelling of binnen zijn werkgebied hetzij op een andere plaats van tewerkstelling of binnen een ander werkgebied. Behoudens in spoedeisende gevallen geschiedt zulks niet dan na overleg met betrokkene.   
 2.  Aan de ambtenaar van politie die in deelbetrekking werkzaam is, kan niet zonder zijn instemming een plaats van tewerkstelling buiten het openbaar lichaam van inwoning worden opgedragen.   
 3.  Indien de ambtenaar van politie in een andere functie, bedoeld in het eerste lid, wordt geplaatst, wordt een functie opgedragen die hem in verband met zijn persoonlijkheid, omstandigheden en vooruitzichten redelijkerwijs kan worden opgedragen.   
-4.  De ambtenaar van politie, bedoeld in het eerste lid, die verplicht is om binnen het korps zijn functie of een andere functie dan waarin hij is geplaatst, te vervullen binnen een ander werkgebied, heeft aanspraak op een dienstwoning. Artikel 80, zevende, achtste en negende lid, is van overeenkomstige toepassing.   
+4.  De ambtenaar van politie, bedoeld in het eerste lid, die verplicht is om binnen het korps zijn functie of een andere functie dan waarin hij is geplaatst, te vervullen binnen een ander werkgebied, heeft aanspraak op een vanwege Onze Minister ingerichte woning in dat andere werkgebied. Bij ministeriële regeling kunnen nadere regels worden gesteld.   
 5.  Bij ministeriële regeling kunnen regels worden gesteld over een toelage aan de ambtenaar van politie, bedoeld in het eerste lid, die binnen een ander werkgebied zijn functie, dan wel een andere functie dan waarin hij geplaats is, dient te vervullen.  
 
 ### Artikel  82  
@@ -1274,7 +1339,7 @@ b. is voortgevloeid uit een wettelijk voorschrift of een overeenkomst die met in
 1.  De rekenplichtige ambtenaar van politie wordt van de verplichting tot aanzuivering van een tekort geheel of gedeeltelijk ontheven naarmate hij het beheer nauwgezet heeft uitgevoerd en de nodige voorzorgen heeft genomen voor de bewaring van gelden en geldswaardige papieren.   
 2.  Vloeit de verplichting tot aanzuivering van een tekort voort uit aansprakelijkheid voor ondergeschikten, dan wordt bovendien in aanmerking genomen in hoeverre de rekenplichtige ambtenaar van politie op het doen en laten van die ondergeschikten toezicht heeft gehouden.   
 3.  De rekenplichtige ambtenaar van politie is van zijn verantwoordelijkheid ter zake ontheven gedurende de tijd dat hij door ziekte, ongeval of andere wettige afwezigheid het beheer niet persoonlijk heeft gevoerd, indien zijn betrekking gedurende die tijd wordt waargenomen.   
-4.  Dit artikel is alleen van toepassing voor zover de [Comptabiliteitswet 2001](../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md) niet anders bepaalt.  
+4.  Dit artikel is alleen van toepassing voor zover de Comptabiliteitswet 2001 niet anders bepaalt.  
 
 ### Artikel  95  
 
@@ -1304,11 +1369,7 @@ a. een tevredenheidsbetuiging;
 
 b. een eenvoudige geldelijke beloning tot maximaal 10% van de aanvangsbezoldiging behorende bij bezoldigingsschaal 1;  
 
-c. een gratificatie van ten hoogste acht en een derde procent (8 1/3%) van de bezoldiging van de betrokken ambtenaar, berekend over een kalenderjaar;  
-
-d. een verhoging van de bezoldiging tot de naasthogere bezoldigingstrede;  
-
-e. een indeling in de naasthogere bezoldigingsschaal.     
+c. een gratificatie van ten hoogste acht en een derde procent (8 1/3%) van de bezoldiging van de betrokken ambtenaar, berekend over een kalenderjaar.     
 2.  De gratificatie zal in een kalenderjaar niet meer mogen bedragen dan 100% van de inkomsten per maand van de ambtenaar van politie.   
 3.  Ten aanzien van de ambtenaar van politie die in deelbetrekking werkzaam is, wordt voor de uitvoering van dit artikel in aanmerking genomen de inkomsten die hij genoten zou hebben, indien hij in volledige betrekking werkzaam was geweest.   
 4.  Het eerste tot en met derde lid is van overeenkomstige toepassing op de vrijwillige ambtenaar van politie, met dien verstande dat de beloningen zijn: 
@@ -1327,7 +1388,7 @@ b. een gratificatie van maximaal 150 procent van de per kalenderjaar krachtens a
 
 ### Artikel  101  
 
-1.  [Hoofdstuk VIII van het Rechtspositiebesluit ambtenaren BES](../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md) en de daarop berustende regelingen zijn niet van toepassing op de ambtenaar van politie.   
+1.  Hoofdstuk VIII van het Rechtspositiebesluit ambtenaren BES en de daarop berustende regelingen zijn niet van toepassing op de ambtenaar van politie.   
 2.  De ambtenaar van politie die zijn ambtelijke verplichtingen niet nakomt of zich overigens aan plichtsverzuim schuldig maakt, kan disciplinair worden gestraft.   
 3.  Plichtsverzuim omvat zowel het overtreden van een voorschrift als het doen of nalaten van iets dat een goed ambtenaar van politie in gelijke omstandigheden behoort na te laten of te doen.   
 4.  Een strafrechterlijke vervolging wegens een feit dat mede plichtsverzuim inhoudt, sluit een disciplinaire strafoplegging wegens dat feit niet uit.  
@@ -1369,7 +1430,7 @@ i. ontslag.
 
 ### Artikel  104  
 
-1.  De kennisgeving bedoeld in [artikel 95, eerste lid, van de Wet ambtenarenrechtspraak 1951 BES](../../../../../../../wet-BES/wet/ambtenarenrechtspraak/1951/bes/BWBR0028616/README.md), wordt zo mogelijk op de plaats van tewerkstelling aan de ambtenaar van politie tegen gedagtekend en door hem ondertekend ontvangstbewijs uitgereikt.   
+1.  De kennisgeving bedoeld in artikel 95, eerste lid, van de Wet ambtenarenrechtspraak 1951 BES, wordt zo mogelijk op de plaats van tewerkstelling aan de ambtenaar van politie tegen gedagtekend en door hem ondertekend ontvangstbewijs uitgereikt.   
 2.  Indien de ambtenaar van politie niet op de plaats van tewerkstelling aanwezig is, wordt de kennisgeving aan zijn woon- of verblijfplaats tegen gedagtekend en door de ontvanger ondertekend ontvangstbewijs afgegeven aan hemzelf of aan een van zijn huisgenoten. Indien degene die met de afgifte van de kennisgeving belast is noch de ambtenaar van politie noch iemand van zijn huisgenoten aantreft, of indien degene die hij aantreft weigert de kennisgeving in ontvangst te nemen of het ontvangstbewijs te ondertekenen, wordt het aangetekend aan de woon- of verblijfplaats van de ambtenaar van politie gezonden.   
 3.  In de gevallen, bedoeld in het tweede lid, wordt de betrokken ambtenaar van politie geacht met de kennisgeving bekend te zijn geworden op de dag van afgifte aan zijn woon- of verblijfplaats, onderscheidenlijk op de dag waarop het door de postdienst aan die woon- of verblijfplaats is bezorgd of aangeboden.  
 
@@ -1392,7 +1453,7 @@ De tot strafoplegging bevoegde instantie stelt de gestrafte ambtenaar van politi
 
 ### Artikel  107  
 
-[Hoofdstuk IV van de Ambtenarenwet BES](../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) en [hoofdstuk IX van het Rechtspositiebesluit ambtenaren BES](../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md) zijn niet van toepassing op de ambtenaar van politie. 
+Hoofdstuk IV van de Ambtenarenwet BES en hoofdstuk IX van het Rechtspositiebesluit ambtenaren BES zijn niet van toepassing op de ambtenaar van politie. 
 
 ### §  2  
 
@@ -1400,8 +1461,8 @@ De tot strafoplegging bevoegde instantie stelt de gestrafte ambtenaar van politi
 
 ### Artikel  108  
 
-1.  De ambtenaar van politie is van rechtswege in zijn ambt geschorst wanneer hem rechtmatig zijn vrijheid is ontnomen, tenzij de vrijheidsbeneming het gevolg is van een maatregel, anders dan op grond van de [Wet tot regeling van het toezicht op krankzinnigen BES](../../../../../../../wet-BES/wet/tot/regeling/van/het/toezicht/op/krankzinnigen/bes/BWBR0028223/README.md), genomen in het belang van de volksgezondheid.   
-2.  Indien de vrijheidsbeneming het gevolg is van een maatregel op grond van de [Wet tot regeling van het toezicht op krankzinnigen BES](../../../../../../../wet-BES/wet/tot/regeling/van/het/toezicht/op/krankzinnigen/bes/BWBR0028223/README.md) wordt de ambtenaar van politie, onverminderd het eerste lid, behandeld als ware hem vrijstelling van dienst wegens ziekte als bedoeld in hoofdstuk VII, verleend.  
+1.  De ambtenaar van politie is van rechtswege in zijn ambt geschorst wanneer hem rechtmatig zijn vrijheid is ontnomen, tenzij de vrijheidsbeneming het gevolg is van een maatregel, anders dan op grond van de Wet tot regeling van het toezicht op krankzinnigen BES, genomen in het belang van de volksgezondheid.   
+2.  Indien de vrijheidsbeneming het gevolg is van een maatregel op grond van de Wet tot regeling van het toezicht op krankzinnigen BES wordt de ambtenaar van politie, onverminderd het eerste lid, behandeld als ware hem vrijstelling van dienst wegens ziekte als bedoeld in hoofdstuk VII, verleend.  
 
 ### Artikel  109  
 
@@ -1418,7 +1479,7 @@ c. wanneer naar het oordeel van Onze Minister, dan wel naar Ons oordeel, indien 
 ### Artikel  110  
 
 1.  Tijdens de schorsing worden de inkomsten voor een derde gedeelte ingehouden. Na verloop van zes weken kan verdere inhouding, ook van het volle bedrag der inkomsten, plaatsvinden. Indien het een schorsing betreft als bedoeld in artikel 109, lid 1, onder b, kan Onze Minister bepalen dat met onmiddellijke ingang meer dan een derde gedeelte of het volle bedrag der inkomsten wordt ingehouden   
-2.  Geen inhouding vindt plaats ingeval van een schorsing in het belang van de dienst, bedoeld in artikel 109, eerste lid, onder c, van een maatregel op grond van de [Wet tot regeling van het toezicht op krankzinnigen BES](../../../../../../../wet-BES/wet/tot/regeling/van/het/toezicht/op/krankzinnigen/bes/BWBR0028223/README.md), of van een ophouding voor verhoor of een inverzekeringstelling, bedoeld in de [titels V](../../../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md) en [VII van het Wetboek van Strafvordering BES](../../../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), mits niet gevolgd door voorlopige hechtenis.   
+2.  Geen inhouding vindt plaats ingeval van een schorsing in het belang van de dienst, bedoeld in artikel 109, eerste lid, onder c, van een maatregel op grond van de Wet tot regeling van het toezicht op krankzinnigen BES, of van een ophouding voor verhoor of een inverzekeringstelling, bedoeld in de titels V en VII van het Wetboek van Strafvordering BES, mits niet gevolgd door voorlopige hechtenis.   
 3.  De ingehouden inkomsten worden alsnog aan de ambtenaar van politie uitbetaald als de schorsing niet wordt gevolgd door een onvoorwaardelijk ontslag bij wijze van straf. Op de uit te betalen inkomsten worden in mindering gebracht de inkomsten die de ambtenaar van politie sedert de schorsing heeft genoten uit arbeid die hij als gevolg van de schorsing heeft kunnen verrichten, tenzij dit naar het oordeel van Onze Minister onredelijk is.   
 4.  Het niet ingehouden gedeelte van de inkomsten van de geschorste ambtenaar van politie kan door Onze Minister in bijzondere gevallen worden uitbetaald aan de betrekkingen van de ambtenaar van politie, genoemd in artikel 54.  
 
@@ -1525,12 +1586,12 @@ c. hij blijkens het schriftelijke oordeel van een geneeskundige bedoeld in artik
 
 ### Artikel  118a  
 
-1.  Aan een ambtenaar van politie kan eervol ontslag worden verleend, indien hij op grond van het bepaalde in [artikel 5, derde lid](../../../../../../../wet/wet/veiligheidsonderzoeken/BWBR0008277/README.md), of [artikel 10, tweede lid, van de Wet veiligheidsonderzoeken](../../../../../../../wet/wet/veiligheidsonderzoeken/BWBR0008277/README.md) uit een vertrouwensfunctie moet worden ontheven.   
+1.  Aan een ambtenaar van politie kan eervol ontslag worden verleend, indien hij op grond van het bepaalde in artikel 5, derde lid, of artikel 10, tweede lid, van de Wet veiligheidsonderzoeken uit een vertrouwensfunctie moet worden ontheven.   
 2.  Indien een ontslag als bedoeld in het eerste lid door Onze Minister wordt verleend, is de medewerking vereist van Onze Minister van Justitie.  
 
 ### Artikel  119  
 
-1.  Buiten de gevallen bij dit besluit of bij of krachtens enige wettelijke regeling, anders dan het [Rechtspositiebesluit ambtenaren BES](../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md), bepaald kan de ambtenaar van politie alleen worden ontslagen op grond van: 
+1.  Buiten de gevallen bij dit besluit of bij of krachtens enige wettelijke regeling, anders dan het Rechtspositiebesluit ambtenaren BES, bepaald kan de ambtenaar van politie alleen worden ontslagen op grond van: 
 
 a. het verlies van een vereiste voor de aanstelling, gesteld bij een regeling aan de aanstelling voorafgegaan zijnde, tenzij het vereiste alleen voor de aanvang van het ambt geldt;  
 
@@ -1562,7 +1623,7 @@ f. het bij of in verband met de aanstelling dan wel de keuring verstrekken van o
 
 1.  Onze Minister deelt de ambtenaar aangesteld voor de uitvoering van de politietaak, de vrijwillige ambtenaar van politie en aspirant, zijn beslissing op het bezwaar zo spoedig mogelijk, doch uiterlijk binnen een maand na de ontvangst van het bezwaarschrift, dan wel, indien een hoorzitting heeft plaatsgevonden, na de datum van die hoorzitting, mede. Het tijdvak van een maand kan door Onze Minister bij gemotiveerde beschikking éénmaal met ten hoogste een maand worden verlengd   
 2.  De mededeling omtrent de beslissing op het bezwaar bevat de overwegingen waarop deze steunt en, indien het bezwaar geheel of gedeeltelijk gegrond is gebleken, de wijziging van de oorspronkelijke beslissing of weigering waartoe de heroverweging Onze Minister aanleiding heeft gegeven.   
-3.  De beslissing op het bezwaar is een beschikking als bedoeld in [artikel 3, eerste lid, van de Wet ambtenarenrechtspraak 1951 BES](../../../../../../../wet-BES/wet/ambtenarenrechtspraak/1951/bes/BWBR0028616/README.md). Indien met deze beslissing niet of niet geheel aan het bezwaar tegemoet wordt gekomen, wordt in de mededeling, bedoeld in het tweede lid, tevens aangegeven, dat bij het gerecht in ambtenarenzaken in beroep kan worden gekomen en de termijn waarbinnen dat dient te geschieden.  
+3.  De beslissing op het bezwaar is een beschikking als bedoeld in artikel 3, eerste lid, van de Wet ambtenarenrechtspraak 1951 BES. Indien met deze beslissing niet of niet geheel aan het bezwaar tegemoet wordt gekomen, wordt in de mededeling, bedoeld in het tweede lid, tevens aangegeven, dat bij het gerecht in ambtenarenzaken in beroep kan worden gekomen en de termijn waarbinnen dat dient te geschieden.  
 
 ### Hoofdstuk  XII  
 
@@ -1570,7 +1631,7 @@ f. het bij of in verband met de aanstelling dan wel de keuring verstrekken van o
 
 ### Artikel  122  
 
-Dit besluit berust op de [artikelen 41, eerste en tweede lid](../../../../../../../rijkswet/rijkswet/politie/van/curaçao/van/sint/maarten/en/van/bonaire/sint/etc/BWBR0028079/README.md), en [46, eerste lid, van de Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](../../../../../../../rijkswet/rijkswet/politie/van/curaçao/van/sint/maarten/en/van/bonaire/sint/etc/BWBR0028079/README.md), de [artikelen 4](../../../../../../../wet-BES/veiligheidswet/bes/BWBR0028586/README.md), [21, tweede lid](../../../../../../../wet-BES/veiligheidswet/bes/BWBR0028586/README.md), en [22, tweede lid, van de Veiligheidswet BES](../../../../../../../wet-BES/veiligheidswet/bes/BWBR0028586/README.md) en [artikel 120a van de Ambtenarenwet BES](../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md). 
+Dit besluit berust op de artikelen 41, eerste en tweede lid, en 46, eerste lid, van de Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba, de artikelen 4, 21, tweede lid, en 22, tweede lid, van de Veiligheidswet BES en artikel 120a van de Ambtenarenwet BES. 
 
 ### Artikel  123  
 
@@ -1582,12 +1643,12 @@ Dit besluit berust op de [artikelen 41, eerste en tweede lid](../../../../../../
 
 ### Artikel  123a  
 
-Op de personen die op het tijdstip van inwerkingtreding van de [Veiligheidswet BES](../../../../../../../wet-BES/veiligheidswet/bes/BWBR0028586/README.md) worden aangesteld als ambtenaar van politie zijn de aanstellingseisen, genoemd in de artikelen 8, 8a en 8b, niet van toepassing. 
+Op de personen die op het tijdstip van inwerkingtreding van de Veiligheidswet BES worden aangesteld als ambtenaar van politie zijn de aanstellingseisen, genoemd in de artikelen 8, 8a en 8b, niet van toepassing. 
 
 ### Artikel  123b  
 
-1.  De personen die op het tijdstip van inwerkingtreding van de [Veiligheidswet BES](../../../../../../../wet-BES/veiligheidswet/bes/BWBR0028586/README.md) worden aangesteld als ambtenaar van politie en in de week voorafgaand aan dat tijdstip ten overstaan van de gezaghebber van het eilandgebied Bonaire, Sint Eustatius of Saba de eed dan wel verklaring en belofte van zuivering alsmede de daarop volgende eed of belofte, zoals geformuleerd in artikel 10, eerste en tweede lid, hebben afgelegd, worden geacht bij de aanvaarding van hun ambt de vereiste eed dan wel verklaring en belofte van zuivering alsmede de daarop volgende eed of belofte, bedoeld in artikel 10, eerste of tweede lid, te hebben afgelegd.   
-2.  De personen die op het tijdstip van inwerkingtreding van de [Veiligheidswet BES](../../../../../../../wet-BES/veiligheidswet/bes/BWBR0028586/README.md) worden aangesteld als ambtenaar van politie en in de week voorafgaand aan deze inwerkingtreding niet de in het eerste lid bedoelde de eed dan wel verklaring en belofte van zuivering alsmede de daarop volgende eed of belofte, zoals geformuleerd in artikel 10, eerste en tweede lid, hebben afgelegd, worden gedurende twee maanden na inwerkingtreding van dit besluit geacht bij de aanvaarding van hun ambt de vereiste eed dan wel verklaring en belofte van zuivering alsmede de daarop volgende eed of belofte, bedoeld in artikel 10, eerste of tweede lid, te hebben afgelegd.   
+1.  De personen die op het tijdstip van inwerkingtreding van de Veiligheidswet BES worden aangesteld als ambtenaar van politie en in de week voorafgaand aan dat tijdstip ten overstaan van de gezaghebber van het eilandgebied Bonaire, Sint Eustatius of Saba de eed dan wel verklaring en belofte van zuivering alsmede de daarop volgende eed of belofte, zoals geformuleerd in artikel 10, eerste en tweede lid, hebben afgelegd, worden geacht bij de aanvaarding van hun ambt de vereiste eed dan wel verklaring en belofte van zuivering alsmede de daarop volgende eed of belofte, bedoeld in artikel 10, eerste of tweede lid, te hebben afgelegd.   
+2.  De personen die op het tijdstip van inwerkingtreding van de Veiligheidswet BES worden aangesteld als ambtenaar van politie en in de week voorafgaand aan deze inwerkingtreding niet de in het eerste lid bedoelde de eed dan wel verklaring en belofte van zuivering alsmede de daarop volgende eed of belofte, zoals geformuleerd in artikel 10, eerste en tweede lid, hebben afgelegd, worden gedurende twee maanden na inwerkingtreding van dit besluit geacht bij de aanvaarding van hun ambt de vereiste eed dan wel verklaring en belofte van zuivering alsmede de daarop volgende eed of belofte, bedoeld in artikel 10, eerste of tweede lid, te hebben afgelegd.   
 3.  De ambtenaren van politie, bedoeld in het tweede lid, leggen de eed dan wel verklaring en belofte van zuivering alsmede de daarop volgende eed of belofte, bedoeld in artikel 10, eerste of tweede lid, zo spoedig mogelijk, doch uiterlijk binnen twee maanden na inwerkingtreding van dit besluit alsnog af.  
 
 ### Artikel  124  

@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken van 17 december 1980, nr. 21254 S.G./Kab., Directoraat-Generaal voor Overheidspersoneelsbeleid, Directie Overheidspersoneelszaken, afdeling Algemene en Juridische Zaken;
 
-Gelet op [artikel 97, eerste lid van het Algemeen Rijksambtenarenreglement](../../../../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);
+Gelet op artikel 97, eerste lid van het Algemeen Rijksambtenarenreglement;
 Hebben goedgevonden en verstaan:    
 
 ### Artikel  1  

@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten: 
 
-Alzo Wij in overweging genomen hebben, dat het, mede in verband met de [artikelen 10](../../../../../../../wet/grondwet/BWBR0001840/README.md) en [11 van de Grondwet](../../../../../../../wet/grondwet/BWBR0001840/README.md), wenselijk is regelen te stellen met betrekking tot medisch-wetenschappelijk onderzoek met mensen;
+Alzo Wij in overweging genomen hebben, dat het, mede in verband met de artikelen 10 en 11 van de Grondwet, wenselijk is regelen te stellen met betrekking tot medisch-wetenschappelijk onderzoek met mensen;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:     
 ### Paragraaf  1  
 
@@ -34,7 +34,7 @@ h.commissie: een krachtens artikel 16 erkende commissie;
 
 i.centrale commissie: de commissie bedoeld in artikel 14;
 
-j.College: het College ter beoordeling van geneesmiddelen, genoemd in [artikel 2, eerste lid, van de Geneesmiddelenwet](../../../../../../../wet/geneesmiddelenwet/BWBR0021505/README.md);
+j.College: het College ter beoordeling van geneesmiddelen, genoemd in artikel 2, eerste lid, van de Geneesmiddelenwet;
 
 k.andere lidstaten: andere lidstaten van de Europese Unie dan Nederland;
 
@@ -58,7 +58,7 @@ t.onverwachte bijwerking: een bijwerking waarvan de aard en de ernst niet overee
 
 u.schriftelijke toestemming: geïnformeerde, schriftelijke, gedagtekende en ondertekende toestemming om aan een wetenschappelijk onderzoek deel te nemen.   
 2.  Het onderwerpen van personen aan handelingen en het opleggen aan personen van een bepaalde gedragswijze uitsluitend ten behoeve van de hulpverlening aan hen is onder het eerste lid, onder b, niet begrepen.    
-3.  Deze wet is niet van toepassing op wetenschappelijk onderzoek voor het verrichten waarvan een vergunning is vereist op grond van de [Wet op het bevolkingsonderzoek](../../../../../../../wet/wet/op/het/bevolkingsonderzoek/BWBR0005699/README.md) en, met uitzondering van de artikelen 7 en 9 en de artikelen 8, 11 en 33, voor zover deze betrekking hebben op artikel 7, op wetenschappelijk onderzoek waarvan het onderzoeksprotocol ingevolge de [Embryowet](../../../../../../../wet/embryowet/BWBR0013797/README.md) een positief oordeel heeft gekregen van de ingevolge [artikel 3 van de Embryowet](../../../../../../../wet/embryowet/BWBR0013797/README.md) bevoegde commissie.   
+3.  Deze wet is niet van toepassing op wetenschappelijk onderzoek voor het verrichten waarvan een vergunning is vereist op grond van de Wet op het bevolkingsonderzoek en, met uitzondering van de artikelen 7 en 9 en de artikelen 8, 11 en 33, voor zover deze betrekking hebben op artikel 7, op wetenschappelijk onderzoek waarvan het onderzoeksprotocol ingevolge de Embryowet een positief oordeel heeft gekregen van de ingevolge artikel 3 van de Embryowet bevoegde commissie.   
 
 ### Artikel  2  
 
@@ -162,7 +162,7 @@ d. de bezwaren die het onderzoek voor de proefpersoon met zich zou kunnen brenge
 ### Artikel  7  
 
 1.  Het wetenschappelijk onderzoek wordt slechts verricht indien op het tijdstip waarop het onderzoek aanvangt, een verzekering is gesloten die de bij algemene maatregel van bestuur aangewezen door het onderzoek veroorzaakte schade door dood of letsel van de proefpersoon dekt. De verzekering behoeft niet te dekken de schade waarvan op grond van de aard van het onderzoek zeker of nagenoeg zeker was dat deze zich zou voordoen.   
-2.  Op de verplichting van de verzekeraar tot vergoeding van de schade, bedoeld in het eerste lid, zijn van [afdeling 6.1.10 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) de [artikelen 95](../../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md), [96, eerste lid](../../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md), [97](../../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md), [100 tot en met 102](../../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md), [105 tot en met 107a, eerste lid](../../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md), en [108](../../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) van overeenkomstige toepassing.   
+2.  Op de verplichting van de verzekeraar tot vergoeding van de schade, bedoeld in het eerste lid, zijn van afdeling 6.1.10 van het Burgerlijk Wetboek de artikelen 95, 96, eerste lid, 97, 100 tot en met 102, 105 tot en met 107a, eerste lid, en 108 van overeenkomstige toepassing.   
 3.  Bij of krachtens algemene maatregel van bestuur worden ter zake van de verzekering en ter zake van de omvang van de dekking van de verzekering nadere regelen gesteld. Krachtens algemene maatregel van bestuur te stellen regels betreffen slechts wijziging van in die maatregel opgenomen geldbedragen die naar hun aard met regelmaat wijziging behoeven. De algemene maatregel van bestuur treedt niet eerder in werking dan acht weken na de datum van uitgifte van het Staatsblad, waarin hij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan de beide kamers der Staten-Generaal.    
 4.  De verzekering dekt uitsluitend de schade van natuurlijke personen.   
 5.  Indien naar het oordeel van de commissie die belast is met de beoordeling van het desbetreffende onderzoeksprotocol, aan het wetenschappelijk onderzoek voor de proefpersoon naar zijn aard geen risico’s verbonden zijn, kan zij bij positief oordeel over het onderzoeksprotocol de verrichter op diens verzoek ontheffing verlenen van de verplichting een verzekering te sluiten.   
@@ -232,7 +232,7 @@ a.degene die het wetenschappelijk onderzoek verricht of zijn wettelijk vertegenw
 
 b.de geneesmiddelen voor onderzoek of in voorkomend geval de hulpmiddelen voor toediening, behoudens indien het wetenschappelijk onderzoek met geregistreerde geneesmiddelen betreft, gratis ter beschikking worden gesteld door degene die het wetenschappelijk onderzoek verricht;
 
-c.een op grond van de [Wet op de beroepen in de individuele gezondheidszorg](../../../../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md) geregistreerde arts of tandarts, werkzaam in de gezondheidszorg, verantwoordelijk is voor de medische verzorging en de medische beslissingen over de proefpersoon.
+c.een op grond van de Wet op de beroepen in de individuele gezondheidszorg geregistreerde arts of tandarts, werkzaam in de gezondheidszorg, verantwoordelijk is voor de medische verzorging en de medische beslissingen over de proefpersoon.
 
 ### Artikel 13e 
 
@@ -287,7 +287,7 @@ e.de redelijke verwachting bestaat dat de voordelen van toediening van het genee
 ### Artikel 13j 
 
 1. De centrale commissie of Onze Minister, ingeval het vijfde lid van artikel 13i van toepassing is, maakt gemotiveerd bezwaar indien in de Europese databank reeds bijwerkingen van het geneesmiddel voor onderzoek zijn opgenomen die leiden tot onaanvaardbare risico’s voor de proefpersoon of indien er anderszins aanwijzingen zijn dat het wetenschappelijk onderzoek leidt tot onaanvaardbare risico’s voor de proefpersoon. 
-2. De Inspectie voor de Gezondheidszorg controleert op verzoek van de centrale commissie of van Onze Minister, ingeval het vijfde lid van artikel 13i van toepassing is, of het wetenschappelijk onderzoek met geneesmiddelen naar verwachting kan plaats vinden overeenkomstig deze wet. Het bepaalde in [artikel 5:12](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:13](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:15 tot en met 5:20 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing.
+2. De Inspectie voor de Gezondheidszorg controleert op verzoek van de centrale commissie of van Onze Minister, ingeval het vijfde lid van artikel 13i van toepassing is, of het wetenschappelijk onderzoek met geneesmiddelen naar verwachting kan plaats vinden overeenkomstig deze wet. Het bepaalde in artikel 5:12, 5:13 en 5:15 tot en met 5:20 van de Algemene wet bestuursrecht is van overeenkomstige toepassing.
 
 ### Artikel 13k 
 
@@ -349,7 +349,7 @@ c.de ingevolge artikel 2, tweede lid, bevoegde commissie.
 
 ### Artikel  14  
 
-1.  Er is een centrale commissie voor medisch-wetenschappelijk onderzoek. Zij heeft ten hoogste vijftien leden. De [Kaderwet zelfstandige bestuursorganen](../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) is op de centrale commissie van toepassing, met uitzondering van [artikel 22 van die wet](../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), voor zover het besluiten betreft die de centrale commissie neemt ter uitvoering van deze wet en de [artikelen 10](../../../../../../../wet/embryowet/BWBR0013797/README.md), [16](../../../../../../../wet/embryowet/BWBR0013797/README.md) en [19 van de Embryowet](../../../../../../../wet/embryowet/BWBR0013797/README.md).   
+1.  Er is een centrale commissie voor medisch-wetenschappelijk onderzoek. Zij heeft ten hoogste vijftien leden. De Kaderwet zelfstandige bestuursorganen is op de centrale commissie van toepassing, met uitzondering van artikel 22 van die wet, voor zover het besluiten betreft die de centrale commissie neemt ter uitvoering van deze wet en de artikelen 10, 16 en 19 van de Embryowet.   
 2.  De centrale commissie bestaat in elk geval uit een of meer artsen, en uit personen die deskundig zijn op het gebied van de embryologie, de farmacologie, de farmacie, de verpleegkunde, de gedragswetenschappen, de rechtswetenschap, de methodologie van wetenschappelijk onderzoek en de ethiek, alsmede een persoon die het wetenschappelijk onderzoek specifiek beoordeelt vanuit de invalshoek van de proefpersoon.    
 3.  Voor elk lid wordt een plaatsvervangend lid benoemd.    
 4.   De leden, waaronder de voorzitter, en de plaatsvervangende leden van de centrale commissie worden voor ten hoogste vier jaar benoemd. Onze Minister wijst een persoon aan die als waarnemer de vergaderingen van de commissie kan bijwonen.    
@@ -363,7 +363,7 @@ De centrale commissie heeft een secretariaat, waarvan de ambtenaren door Onze Mi
 
 ### Artikel  16  
 
-1.  De centrale commissie kan commissies erkennen, die belast zijn met de toetsing van onderzoeksprotocollen overeenkomstig het bepaalde bij of krachtens deze wet of de [Embryowet](../../../../../../../wet/embryowet/BWBR0013797/README.md).    
+1.  De centrale commissie kan commissies erkennen, die belast zijn met de toetsing van onderzoeksprotocollen overeenkomstig het bepaalde bij of krachtens deze wet of de Embryowet.    
 2.  Voor erkenning komt slechts in aanmerking een commissie:  
 
 a. die in elk geval bestaat uit een of meer artsen en uit personen die deskundig zijn op het gebied van de rechtswetenschap, de methodologie van wetenschappelijk onderzoek en de ethiek, alsmede een persoon die het wetenschappelijk onderzoek specifiek beoordeelt vanuit de invalshoek van de proefpersoon en die ingeval van beoordeling van wetenschappelijk onderzoek met geneesmiddelen tevens bestaat uit personen die deskundig zijn op het gebied van de farmacie en de klinische farmacologie;   
@@ -435,7 +435,7 @@ c. door een wijziging van het reglement van de commissie een goede uitoefening v
 
 ### Artikel  27  
 
-Telkens binnen een periode van vijf jaar brengt de centrale commissie een rapport uit aan Onze Minister, waarin de taakvervulling van de centrale commissie aan een onderzoek wordt onderworpen en voorstellen kunnen worden gedaan voor gewenste veranderingen. Onze Minister neemt zijn opvattingen over dit rapport op in het verslag, bedoeld in [artikel 39, eerste lid, van de Kaderwet zelfstandige bestuursorganen](../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) en voegt het rapport bij dat verslag. 
+Telkens binnen een periode van vijf jaar brengt de centrale commissie een rapport uit aan Onze Minister, waarin de taakvervulling van de centrale commissie aan een onderzoek wordt onderworpen en voorstellen kunnen worden gedaan voor gewenste veranderingen. Onze Minister neemt zijn opvattingen over dit rapport op in het verslag, bedoeld in artikel 39, eerste lid, van de Kaderwet zelfstandige bestuursorganen en voegt het rapport bij dat verslag. 
 
 ### Paragraaf  7  
 
@@ -457,7 +457,7 @@ De toepassing van deze wet door de commissies geschiedt met inachtneming van de 
 
 ### Artikel  31  
 
-1.  Onverminderd de [artikelen 7, eerste lid](../../../../../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](../../../../../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md) kan, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, artikel 32 in werking worden gesteld.    
+1.  Onverminderd de artikelen 7, eerste lid, en 8, eerste lid, van de Coördinatiewet uitzonderingstoestanden kan, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, artikel 32 in werking worden gesteld.    
 2.  Wanneer het in het eerste lid bedoelde besluit is genomen, wordt onverwijld een voorstel van wet aan de Tweede Kamer gezonden omtrent het voortduren van de werking van de bij dat besluit in werking gestelde bepaling.    
 3.  Wordt het voorstel van wet door de Staten-Generaal verworpen, dan wordt bij koninklijk besluit, op voordracht van Onze Minister-President, de bepaling die ingevolge het eerste lid in werking is gesteld, onverwijld buiten werking gesteld.    
 4.  Bij koninklijk besluit, op voordracht van Onze Minister-President, wordt de bepaling die ingevolge het eerste lid in werking is gesteld, buiten werking gesteld, zodra de omstandigheden dit naar Ons oordeel toelaten.    
@@ -498,7 +498,7 @@ Wijzigt deze wet.
 ### Artikel  37  
 
 1. Onze Minister zendt binnen 4 jaar na de inwerkingtreding van deze wet, en vervolgens telkens na 5 jaar, aan de Staten-Generaal een verslag over de doeltreffendheid en effecten van deze wet in de praktijk.   
-2.  Het verslag, bedoeld in [artikel 39, eerste lid, van de Kaderwet zelfstandige bestuursorganen](../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), maakt onderdeel uit van het in het eerste lid bedoelde verslag. 
+2.  Het verslag, bedoeld in artikel 39, eerste lid, van de Kaderwet zelfstandige bestuursorganen, maakt onderdeel uit van het in het eerste lid bedoelde verslag. 
 
 ### Artikel  38  
 

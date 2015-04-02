@@ -1303,8 +1303,8 @@ Voor goederen, vermeld in onderstaande lijst, die in kleine zendingen of door re
 | Omschrijving  | Grondslag  | Tarief  |
 |:---|:---|:---|
 | a. overige alcoholhoudende producten als bedoeld in artikel 12 van de Wet op de accijns:  | liter  | € 6,41  |
-| b. rooktabak  | kleinhandelsprijs van   soortgelijke producten  | 58,8%  |
-| c. sigaretten  | kleinhandelsprijs van   soortgelijke producten  | 62,2%  |
+| b. rooktabak  | kleinhandelsprijs van   soortgelijke producten  | 55,8%  |
+| c. sigaretten  | kleinhandelsprijs van   soortgelijke producten  | 61,2%  |
 
 ### Artikel  7:18  
 

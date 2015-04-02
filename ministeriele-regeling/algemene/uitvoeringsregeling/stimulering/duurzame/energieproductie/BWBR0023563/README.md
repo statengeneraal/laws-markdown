@@ -47,8 +47,12 @@ p.meetrapport: een rapport dat alle meetgegevens van de desbetreffende kalenderm
 
 q.systeemgrens van de productie-installatie: een fictieve gesloten omhulling van één of meer productie-eenheden die dezelfde wijze van opwekking van warmte gebruiken;
 
-r.toegelaten meetbedrijf: een meetbedrijf dat op grond van de voorwaarden, bedoeld in artikel 31, eerste lid, onderdeel b, van de Elektriciteitswet 1998, is toegelaten. 
-2. Onder nuttig gebruik van hernieuwbare warmte als bedoeld in artikel 1, derde lid, van het besluit wordt verstaan: de warmte, uitgedrukt in GJ die vrijkomt uit hernieuwbare energiebronnen en die wordt aangewend voor: 
+r.toegelaten meetbedrijf: een meetbedrijf dat op grond van de voorwaarden, bedoeld in artikel 31, eerste lid, onderdeel b, van de Elektriciteitswet 1998, is toegelaten;
+
+s. P50-waarde voor de netto elektriciteitsproductie: de netto elektriciteitsproductie waarbij de verwachte jaarlijkse energieproductie voor een gegeven combinatie van locatie en windturbine dient te zijn bepaald met een waarschijnlijkheid van 50%; 
+
+t. bosbeheereenheid: een eenheid bos die wordt beheerd op basis van een beheersysteem met specifieke doelstellingen, overeenkomstig een langetermijnbeheerplan.  
+2. Onder nuttig gebruik van hernieuwbare warmte als bedoeld in artikel 1, derde lid, van het besluit wordt verstaan: de warmte, uitgedrukt in kWh die vrijkomt uit hernieuwbare energiebronnen en die wordt aangewend voor: 
 
 a. gebouwklimatisering van de binnenruimten van gebouwen;  
 
@@ -100,17 +104,29 @@ b. een exploitatieberekening die ten minste bevat:
 3°. een berekening van het projectrendement over de subsidielooptijd.       
 2.  In aanvulling op het eerste lid bevat het plan: 
 
-a. indien de aanvraag wordt ingediend voor een productie-installatie voor de productie van hernieuwbare energie uit wind, waterkracht, biomassa of afvalverbranding, een energieopbrengstberekening;  
+a. indien de aanvraag wordt ingediend voor een productie-installatie voor de productie van hernieuwbare energie uit waterkracht of biomassa, een energieopbrengstberekening;  
 
 b. indien de aanvraag wordt ingediend voor een productie-installatie voor de productie van hernieuwbaar gas, een verklaring met prijsindicatie van de netbeheerder voor het invoeden van hernieuwbaar gas;  
 
 c. indien de aanvraag wordt ingediend voor een productie-installatie voor de productie van hernieuwbare warmte, een onderbouwing van de warmteafzet;  
 
-d. indien de aanvraag wordt ingediend voor een productie-installatie voor de productie van hernieuwbare warmte door middel van geothermie, een geologisch rapport dat voldoet aan: 
+d. indien de aanvraag wordt ingediend voor een productie-installatie voor de productie van hernieuwbare elektriciteit, hernieuwbare warmte of hernieuwbare elektriciteit en hernieuwbare warmte, door middel van geothermie, een geologisch rapport dat voldoet aan: 
 
-1°. het Model Geologisch Onderzoek SDE+, dat wordt opgesteld met gebruikmaking van het formulier dat is opgenomen in de bij deze regeling behorende bijlage 7, of  
+1°. het Model Geologisch Onderzoek SDE+, dat wordt opgesteld met gebruikmaking van het formulier dat is opgenomen in de bij deze regeling behorende bijlage 7,  
 
-2° het Model Geologisch Onderzoek, dat wordt opgesteld met gebruikmaking van het formulier dat is opgenomen in bijlage D, behorende bij het Aanvraagformulier Subsidieregeling Energie en Innovatie Risico’s dekken voor aardwarmte, opgenomen in bijlage 3.4.1. van de Subsidieregeling energie en innovatie.       
+2° het Model Geologisch Onderzoek, dat wordt opgesteld met gebruikmaking van het formulier dat is opgenomen in bijlage D, behorende bij het Aanvraagformulier Subsidieregeling Energie en Innovatie Risico’s dekken voor aardwarmte, opgenomen in bijlage 3.4.1. van de Subsidieregeling energie en innovatie, zoals deze luidde voor 2 oktober 2014, of  
+
+3°. het Model Geologisch Onderzoek, dat wordt opgesteld met gebruikmaking van het Model Geologisch Onderzoek dat is opgenomen in Bijlage 4.3.1, behorend bij artikel 4.3.1 van de Subsidieregeling nationale EZ-subsidies;    
+
+e. indien de aanvraag wordt ingediend voor een productie-installatie voor de productie van hernieuwbare elektriciteit door middel van windenergie, een windenergie-opbrengstberekening die is opgesteld door een onafhankelijke organisatie met expertise op het gebied van windenergie-opbrengstberekeningen, waarbij gebruik wordt gemaakt van gerenommeerde rekenmodellen, omgevingsmodellen, windmodellen en windkaarten en dat tenminste bevat: 
+
+1°. de locatiegegevens van het windpark,  
+
+2°. de technische specificaties van de beoogde windturbines (merk, type, ashoogte, rotordiameter en vermogenscurve),  
+
+3°. de lokale windgegevens voor het windpark, en  
+
+4°. een berekening van de P50-waarde voor de netto elektriciteitsproductie op jaarbasis van het windpark.      
 3.  De financiële onderbouwing, bedoeld in artikel 56, tweede lid, onderdeel e, van het besluit voldoet ten minste aan de volgende eisen: 
 
 a. het bevat een financieringsplan voor de productie-installatie waarvoor subsidie wordt aangevraagd;  
@@ -129,7 +145,7 @@ c. indien het aandeel van het eigen vermogen minder dan 20% van de investering i
 
 ### Artikel  3  
 
-1.  De subsidie-ontvanger verstrekt de opdrachten, bedoeld in artikel 2, onderdeel a, binnen een jaar na de datum van inwerkingtreding van de beschikking tot subsidieverlening en zendt een afschrift aan de Minister.  
+1.  De subsidie-ontvanger verstrekt de opdrachten, bedoeld in artikel 2, eerste lid, onderdeel a, onderdeel 1°, binnen een jaar na de datum van inwerkingtreding van de beschikking tot subsidieverlening en zendt een afschrift aan de Minister.  
 2.  De subsidie-ontvanger rapporteert na de datum van de beschikking tot subsidieverlening tot het moment van ingebruikname jaarlijks over de voortgang van de realisatie van de in het plan als bedoeld in artikel 56, tweede lid, onderdeel d, van het besluit opgenomen ijkmomenten.   
 3.  De subsidie-ontvanger zendt de Minister binnen een jaar na de datum van ingebruikname van de productie-installatie een overzicht van de daadwerkelijke investeringskosten, van de reeds ontvangen subsidies en overige steun en van de nog te ontvangen subsidies en overige steun. Indien de verleende subsidie als bedoeld in de artikelen 16, 24, 33, 41, 49 en 55a van het besluit meer bedraagt dan € 125.000, gaat het overzicht vergezeld van een accountantsverklaring. De accountantsverklaring wordt opgesteld conform het model en het controleprotocol die zijn opgenomen in de bij deze regeling behorende bijlage 1.   
 4.  Het derde lid is niet van toepassing als de subsidieontvanger geen andere subsidie heeft ontvangen dan die op grond van het besluit en geen andere overige steun heeft ontvangen dan die op grond van artikel 3.42 van de Wet op de inkomstenbelasting 2001. 
@@ -142,14 +158,48 @@ De subsidie-ontvanger meet de productie van hernieuwbare elektriciteit, hernieuw
 
 1.  De subsidie-ontvanger die een productie-installatie bedrijft waarin biomassa wordt omgezet in hernieuwbare warmte of hernieuwbaar gas, zendt binnen vier maanden na afloop van ieder kalenderjaar waarover een voorschot wordt verstrekt aan de minister een verklaring over de gebruikte biomassa met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende bijlage 2.   
 2.  Indien aan een subsidie-ontvanger die een productie-installatie bedrijft waarin door middel van thermische conversie vloeibare biomassa wordt omgezet in hernieuwbare elektriciteit of hernieuwbare warmte uitsluitend subsidie wordt verstrekt voor zover de subsidie-ontvanger aantoont dat de gebruikte vloeibare biomassa voldoet aan de duurzaamheidscriteria, bedoeld in artikel 17, eerste lid, van de richtlijn hernieuwbare energie, toont de subsidie-ontvanger dit aan middels de verklaring, bedoeld in het eerste lid, of middels voor de geproduceerde hernieuwbare elektriciteit of hernieuwbare warmte geboekte garanties van oorsprong als bedoeld in artikel 1, eerste lid, onderdeel x, van de Elektriciteitswet 1998.   
-3.  Een subsidie-ontvanger kan door middel van certificaten, afgegeven op basis van een certificeringsysteem waarvan de Europese Commissie op grond van artikel 18, vierde lid, van de richtlijn hernieuwbare energie heeft besloten dat deze accurate gegevens bevat met het oog op de toepassing van artikel 17 van de richtlijn hernieuwbare energie, aantonen dat vloeibare biomassa voldoet aan de duurzaamheidscriteria, bedoeld in artikel 17, eerste lid, van de richtlijn hernieuwbare energie.  
+3.  Een subsidie-ontvanger toont door middel van certificaten, afgegeven op basis van een certificeringsysteem waarvan de Europese Commissie op grond van artikel 18, vierde lid, van de richtlijn hernieuwbare energie heeft besloten dat deze accurate gegevens bevat met het oog op de toepassing van artikel 17 van de richtlijn hernieuwbare energie, aan dat vloeibare biomassa voldoet aan de duurzaamheidscriteria, bedoeld in artikel 17, eerste lid, van de richtlijn hernieuwbare energie.  
 4. De verklaring, bedoeld in het eerste lid, gaat vergezeld van een assurancerapport van een externe accountant dat is opgesteld met inachtneming van het onderzoeksprotocol assurancerapport biomassa, opgenomen in bijlage 3, tenzij het een productie-installatie voor de productie van hernieuwbare warmte met een vermogen kleiner dan of gelijk aan 3 MW thermisch betreft.
 5. Uit het assurancerapport blijkt eenduidig per kalendermaand welke biomassagrondstoffen zijn ingezet en wat de aard en de verhouding van de in de productie-installatie verwerkte brandstoffen is in honderdste van procenten nauwkeurig. 
 6. Indien paragraaf 3.3 van toepassing is gaat de accountant ten behoeve van het bepalen van de gegevens, bedoeld in het vijfde lid, na of een juiste toepassing is gegeven aan de geëigende methode, bedoeld in de artikelen 7h en 7i.
 
 ### §  3.2  
 
-####Verplichtingen hernieuwbaar gas en groen gas hubs
+####Verplichtingen gebruik vaste en gasvormige biomassa
+
+### Artikel  7  
+
+Een subsidie-ontvanger die een productie-installatie bedrijft waarin vaste biomassa wordt omgezet in hernieuwbare warmte door middel van verbranding van houtpellets geproduceerd uit vaste biomassa in een ketel met een vermogen groter dan of gelijk aan 10 MW, of die een productie-installatie bedrijft waarin vaste of gasvormige biomassa wordt omgezet in hernieuwbare elektriciteit, of hernieuwbare elektriciteit en hernieuwbare warmte geproduceerd door een productie-installatie voor de productie van elektriciteit door middel van kolen waarin biomassa wordt meegestookt is verplicht gebruik te maken van biomassa die voldoet aan de duurzaamheidscriteria opgenomen in de bij deze regeling behorende bijlage 4. 
+
+### Artikel  7a  
+
+1.  De subsidie-ontvanger die een productie-installatie bedrijft waarin vaste biomassa wordt omgezet in hernieuwbare warmte door middel van verbranding van houtpellets geproduceerd uit vaste biomassa in een ketel met een vermogen groter dan of gelijk aan 10 MW, zendt binnen vier maanden na afloop van ieder kalenderjaar waarover een voorschot wordt verstrekt aan de minister een verklaring waaruit blijkt dat de gebruikte biomassa aan de duurzaamheidscriteria, bedoeld in artikel 7, voldoet, met gebruikmaking van een middel dat door de minister beschikbaar wordt gesteld.   
+2.  De subsidie-ontvanger toont voor het deel van de rapportage betreffende houtige biomassa dat betrekking heeft op het duurzaam bosbeheer op regionaal niveau of op het niveau van de bosbeheereenheid aan dat aan de duurzaamheidscriteria is voldaan, met uitzondering van biomassa: 
+
+a. die voor 2020 afkomstig is uit een bosbeheereenheid groter of gelijk aan 1.000 hectare, waarvoor op het niveau van de bosbeheereenheid wordt aangetoond dat aan de duurzaamheidscriteria is voldaan,  
+
+b. die van 2020 tot 2022 afkomstig is uit een bosbeheereenheid groter of gelijk aan 800 hectare, waarvoor op het niveau van de bosbeheereenheid wordt aangetoond dat aan de duurzaamheidscriteria is voldaan,  
+
+c. die van 2022 tot 2026 afkomstig is uit een bosbeheereenheid groter of gelijk aan 500 hectare, waarvoor op het niveau van de bosbeheereenheid wordt aangetoond dat aan de duurzaamheidscriteria is voldaan,  
+
+d. die vanaf 2026 wordt gebruikt, waarvoor op het niveau van de bosbeheereenheid wordt aangetoond dat aan de duurzaamheidscriteria is voldaan.     
+3.  De subsidie-ontvanger kan voor het deel van de rapportage betreffende houtige biomassa dat betrekking heeft op het duurzaam bosbeheer, in afwijking van het tweede lid, overeenkomstig artikel 7b, tweede en derde lid, aantonen dat aan de duurzaamheidscriteria is voldaan.  
+
+### Artikel  7b  
+
+1.  De subsidie-ontvanger die een productie-installatie bedrijft waarin vaste of gasvormige biomassa wordt omgezet in hernieuwbare elektriciteit, of hernieuwbare elektriciteit en hernieuwbare warmte geproduceerd door een productie-installatie voor de productie van elektriciteit door middel van kolen waarin biomassa wordt meegestookt, zendt binnen vier maanden na afloop van ieder kalenderjaar waarover een voorschot wordt verstrekt aan de minister een verklaring waaruit blijkt dat de gebruikte biomassa aan de duurzaamheidscriteria, bedoeld in artikel 7, voldoet, met gebruikmaking van een middel dat door de minister beschikbaar wordt gesteld.   
+2.  De subsidie-ontvanger toont voor het deel van de rapportage betreffende houtige biomassa afkomstig uit een bosbeheereenheid die kleiner is dan 500 hectare dat betrekking heeft op het duurzaam bosbeheer op regionaal niveau of op het niveau van de bosbeheereenheid aan dat aan de duurzaamheidscriteria is voldaan, met uitzondering van: 
+
+a. de laatste twee jaar van de periode waarover subsidie wordt verstrekt aan een subsidie-ontvanger die een productie-installatie bedrijft die in 2015 of 2016 in gebruik of opnieuw in gebruik is genomen, waarvoor op het niveau van de bosbeheereenheid wordt aangetoond dat aan de duurzaamheidscriteria is voldaan,  
+
+b. de laatste drie jaar van de periode waarover subsidie wordt verstrekt aan een subsidie-ontvanger die een productie-installatie bedrijft die in 2017 of 2018 in gebruik of opnieuw in gebruik is genomen, waarvoor op het niveau van de bosbeheereenheid wordt aangetoond dat aan de duurzaamheidscriteria is voldaan,  
+
+c. de laatste vier jaar van de periode waarover subsidie wordt verstrekt aan een subsidie-ontvanger die een productie-installatie bedrijft die in 2019 in gebruik of opnieuw in gebruik is genomen, waarvoor op het niveau van de bosbeheereenheid wordt aangetoond dat aan de duurzaamheidscriteria is voldaan,  
+
+d. de laatste vijf jaar van de periode waarover subsidie wordt verstrekt aan een subsidie-ontvanger die een productie-installatie bedrijft die in 2020 in gebruik of opnieuw in gebruik is genomen, waarvoor op het niveau van de bosbeheereenheid wordt aangetoond dat aan de duurzaamheidscriteria is voldaan,  
+
+e. een subsidie-ontvanger die een productie-installatie bedrijft die na 2020 in gebruik of opnieuw in gebruik is genomen, waarvoor voor de gehele subsidieperiode op het niveau van de bosbeheereenheid wordt aangetoond dat aan de duurzaamheidscriteria is voldaan.     
+3.  De subsidie-ontvanger toont voor het deel van de rapportage betreffende houtige biomassa afkomstig uit een bosbeheereenheid groter dan of gelijk aan 500 hectare dat betrekking heeft op het duurzaam bosbeheer op het niveau van de bosbeheereenheid aan dat aan de duurzaamheidscriteria is voldaan.  
 
 ### §  3.3  
 
@@ -179,7 +229,7 @@ b. een schriftelijk bewijs dat hij voldoet aan vergelijkbare procesnormen als va
 a. een certificaat behorend bij de biomassa die een behandeling heeft ondergaan, afgegeven door een certificeringsinstantie, waaruit blijkt dat de oorsprong van de biomassa van die partijen volledig is aan te merken als zuivere biomassa, en  
 
 b. het certificaat voldoet aan de eis dat dit per partij wordt aangebracht en gevolgd en gereproduceerd kan worden.     
-3.  De certificeringinstantie is onafhankelijk en werkt volgens kwaliteitsstandaarden die zijn gecertificeerd door een organisatie die is geaccrediteerd door een accreditatie-instantie die is aangesloten bij de European co-operation for Accredition of het International Accreditation Forum.  
+3.  De certificeringsinstantie is geaccrediteerd door de Raad voor Accreditatie of een andere accreditatie-instantie als bedoeld in artikel 4 van Verordening (EG) nr. 765/2008 van het Europees Parlement en de Raad van 9 juli 2008 tot vaststelling van de eisen inzake accreditatie en markttoezicht betreffende het verhandelen van producten en tot intrekking van Verordening (EEG) nr. 339/93 (PbEU 2008, L 218), of een accreditatie-instantie die is aangesloten bij het International Accreditation Forum.  
 
 ### Artikel  7j  
 
@@ -198,11 +248,11 @@ De subsidie-ontvanger kan de minister om toestemming verzoeken om, in afwijking 
 
 1.  De Minister stelt een voorschot binnen zes maanden na afloop van het kalenderjaar bij aan de hand van: 
 
-a. de productie in het betreffende kalenderjaar waarover garanties van oorsprong of certificaten zijn afgegeven, het aantal GJ hernieuwbare warmte dat in het betreffende kalenderjaar voor subsidie in aanmerking komt of het aantal Nm<sup>3</sup> aardgasequivalent dat in het betreffende kalenderjaar voor subsidie in aanmerking komt,   
+a. de productie in het betreffende kalenderjaar waarover garanties van oorsprong zijn afgegeven,  
 
 b. de voor het betreffende kalenderjaar vastgestelde correcties op grond van artikelen 14, vijfde lid, 22, vijfde lid, 31, vierde lid, 39, vierde lid, 47, vierde lid, en 54, vierde lid, van het besluit en  
 
-c. indien artikel 11, derde lid, onderdeel a, b of c, 28, derde lid, onderdeel a, b of c, of 44, derde lid, onderdeel a, b, of c, van het besluit van toepassing is, het aantal geproduceerde kWh, GJ of Nm<sup>3</sup> aardgasequivalenten die voor subsidie in aanmerking komt, het aantal gerealiseerde vollasturen van de productie-installatie of het gerealiseerde rendement van de productie-installatie.     
+c. indien artikel 11, derde lid, onderdeel a, b of c, 28, derde lid, onderdeel a, b of c, of 44, derde lid, onderdeel a, b, of c, van het besluit van toepassing is, het aantal geproduceerde kWh aardgasequivalenten die voor subsidie in aanmerking komt, het aantal gerealiseerde vollasturen van de productie-installatie of het gerealiseerde rendement van de productie-installatie.     
 2.  De Minister verrekent een tekort aan verstrekte maandelijkse bedragen of een tekort op het jaarlijkse bedrag, als bedoeld in artikel 68, tweede lid, van het besluit, door het te weinig betaalde bedrag aan het voorschot binnen zes weken na de datum van bijstelling van het voorschot aan de subsidie-ontvanger te verstrekken.   
 3.  De minister verrekent een teveel aan verstrekte maandelijkse bedragen of een teveel op het verstrekte jaarlijkse bedrag als bedoeld in artikel 68, tweede lid, van het besluit, door het bedrag van het teveel betaalde voorschot aan de subsidie-ontvanger in mindering te brengen op het eerst volgende te verstrekken maandelijkse bedrag of op het eerst volgende te verstrekken jaarlijkse bedrag en vervolgens op zoveel maandelijkse of jaarlijkse bedragen als nodig is om het teveel betaalde voorschot volledig te verrekenen. Indien geen maandelijkse of jaarlijkse bedragen meer verschuldigd zijn, wordt een teveel betaald voorschot teruggevorderd.   
 4.  De minister kan op verzoek van de subsidieontvanger, voor voorschotten betaald tot en met 2012, een teveel aan verstrekte maandelijkse bedragen of een teveel op het verstrekte jaarlijkse bedrag als bedoeld in artikel 68, tweede lid, van het besluit, tot het teveel betaalde bedrag volledig is verrekend, verrekenen door het bedrag van het teveel betaalde voorschot aan de subsidieontvanger in delen in mindering te brengen op de volgende te verstrekken maandelijkse bedragen of op de volgende te verstrekken jaarlijkse bedragen. Indien geen maandelijkse of jaarlijkse bedragen meer verschuldigd zijn, wordt een teveel betaald voorschot teruggevorderd. 
@@ -211,32 +261,36 @@ c. indien artikel 11, derde lid, onderdeel a, b of c, 28, derde lid, onderdeel a
 
 1.  Het in artikel 68, eerste lid, van het besluit bedoelde maandelijkse bedrag bedraagt één-twaalfde van 80% van het product van: 
 
-a. de in beschikking tot subsidieverlening voor het betreffende kalenderjaar opgenomen maximum productie, en  
+a. de in beschikking tot subsidieverlening voor het betreffende kalenderjaar opgenomen maximum productie, waar de minister op verzoek van de producent, het aantal kWh, bedoeld in artikel 15, derde of vierde lid, 23, derde of vierde lid, 32, derde of vierde lid, 40, derde of vierde lid, 48, derde of vierde lid, of 55, derde of vierde lid, van het besluit, bij op kan tellen, en  
 
 b. het voor de subsidie-ontvanger geldende: 
 
-1°. basisbedrag, of bij toepassing van artikel 11, derde lid, onderdeel c, of 28, derde lid, onderdeel c, of 44, derde lid, onderdeel c, van het besluit het basisbedrag behorende bij het in de beschikking tot subsidieverlening opgenomen rendement, verminderd met de bij ministeriële regeling vastgestelde correcties op grond van artikel 14, zesde lid, 31, vijfde lid, of 47, vijfde lid, van het besluit, of  
+1°. basisbedrag, of bij toepassing van artikel 11, derde lid, onderdeel c, of 28, derde lid, onderdeel c, of 44, derde lid, onderdeel c, van het besluit het basisbedrag behorende bij het in de beschikking tot subsidieverlening opgenomen rendement, verminderd met de bij ministeriële regeling vastgestelde correcties op grond van artikel 14, zesde lid, 31, vijfde lid, of 47, vijfde lid, van het besluit,  
 
-2°. het tenderbedrag verminderd met de bij ministeriële regeling vastgestelde correcties op grond van artikel 22, zesde lid, 39, vijfde lid, of 54, vijfde lid, van het besluit.       
+2°. het tenderbedrag verminderd met de bij ministeriële regeling vastgestelde correcties op grond van artikel 22, zesde lid, 39, vijfde lid, of 54, vijfde lid, van het besluit, of  
+
+3°. fasebedrag, verminderd met de bij ministeriële regeling vastgestelde correcties op grond van artikel 14, zesde lid, 31, vijfde lid, of 47, vijfde lid, van het besluit.      
 2.  Het in artikel 68, eerste lid, van het besluit bedoelde jaarlijkse bedrag bedraagt 80% van het product van: 
 
-a. de in beschikking tot subsidieverlening voor het betreffende kalenderjaar opgenomen maximum productie, en  
+a. de in beschikking tot subsidieverlening voor het betreffende kalenderjaar opgenomen maximum productie, waar de minister op verzoek van de producent, het aantal kWh, bedoeld in artikel 15, derde of vierde lid, 23, derde of vierde lid, 32, derde of vierde lid, 40, derde of vierde lid, 48, derde of vierde lid, of 55, derde of vierde lid, van het besluit, bij op kan tellen, en  
 
 b. het voor de subsidie-ontvanger geldende: 
 
-1°. basisbedrag, of bij toepassing van artikel 11, derde lid, onderdeel c, of 28, derde lid, onderdeel c, of 44, derde lid, onderdeel c, van het besluit het basisbedrag behorende bij het in de beschikking tot subsidieverlening opgenomen rendement, verminderd met de bij ministeriële regeling vastgestelde correcties op grond van artikel 14, zesde lid, 31, vijfde lid, of 47, vijfde lid, van het besluit, of  
+1°. basisbedrag, of bij toepassing van artikel 11, derde lid, onderdeel c, of 28, derde lid, onderdeel c, of 44, derde lid, onderdeel c, van het besluit het basisbedrag behorende bij het in de beschikking tot subsidieverlening opgenomen rendement, verminderd met de bij ministeriële regeling vastgestelde correcties op grond van artikel 14, zesde lid, 31, vijfde lid, of 47, vijfde lid, van het besluit,  
 
-2°. het tenderbedrag verminderd met de bij ministeriële regeling vastgestelde correcties op grond van artikel 22, zesde lid, 39, vijfde lid, of 54, vijfde lid, van het besluit.       
+2°. het tenderbedrag verminderd met de bij ministeriële regeling vastgestelde correcties op grond van artikel 22, zesde lid, 39, vijfde lid, of 54, vijfde lid, van het besluit, of  
+
+3°. fasebedrag, verminderd met de bij ministeriële regeling vastgestelde correcties op grond van artikel 14, zesde lid, 31, vijfde lid, of 47, vijfde lid, van het besluit.      
 3.  Indien de subsidieperiode start op een andere datum dan 1 januari of eindigt op een andere datum dan 31 december bedraagt voor het eerste jaar respectievelijk het laatste jaar van de periode waarover subsidie wordt verstrekt het maandelijkse of jaarlijkse bedrag een evenredig deel van het aantal maanden of van het jaar waarover het voorschot wordt verstrekt.   
 4.  De minister kan het maandelijkse of jaarlijkse bedrag herberekenen indien: 
 
 a. de subsidie-ontvanger een verzoek tot ontheffing als bedoeld in artikel 62, derde lid, van het besluit, indient;  
 
-b. de maandelijkse productie van hernieuwbare elektriciteit, hernieuwbare warmte of hernieuwbaar gas gedurende ten minste twee maanden ten minste 50 procent zal achterblijven dan wel achter is gebleven ten opzichte van de in de beschikking tot voorschotverlening opgenomen maximum productie in kWh, GJ of Nm<sup>3</sup> aardgasequivalent;  
+b. de maandelijkse productie van hernieuwbare elektriciteit, hernieuwbare warmte of hernieuwbaar gas gedurende ten minste twee maanden ten minste 50 procent zal achterblijven dan wel achter is gebleven ten opzichte van de in de beschikking tot voorschotverlening opgenomen maximum productie in kWh aardgasequivalent;  
 
 c. de minister na het begin van de voorschotverlening meer dan een maand geen productiegegevens heeft ontvangen over de betreffende productie-installatie, of  
 
-d. de cumulatieve productie van hernieuwbare elektriciteit, hernieuwbare warmte of hernieuwbaar gas in het betreffende kalenderjaar ten minste 20% zal achterblijven dan wel achter is gebleven ten opzichte van de in de beschikking tot voorschotverlening opgenomen maximum productie in kWh, GJ of Nm3 aardgasequivalent.    
+d. de cumulatieve productie van hernieuwbare elektriciteit, hernieuwbare warmte of hernieuwbaar gas in het betreffende kalenderjaar ten minste 20% zal achterblijven dan wel achter is gebleven ten opzichte van de in de beschikking tot voorschotverlening opgenomen maximum productie in kWh aardgasequivalent.    
 5.  In afwijking van het bepaalde in het eerste lid, onderdeel b, ten eerste, kan de Minister van een lager basisbedrag uitgaan indien het rendement van de productie-installatie gedurende ten minste twee jaar structureel is achtergebleven ten opzichte van het in de beschikking tot voorschotverlening opgenomen rendement.  
 
 ### §  5  
@@ -302,11 +356,11 @@ d. artikel 4, eerste lid, 10, eerste lid, 16, eerste lid, 21, eerste lid, 26, ee
 
 ### Artikel  14a  
 
-Productie-installaties, met uitzondering van productie-installaties voor de productie van hernieuwbare elektriciteit met behulp van windenergie, waarvoor subsidie is verstrekt op grond van de Regeling aanwijzing categorieën duurzame energieproductie 2008, de Regeling aanwijzing categorieën duurzame energieproductie 2009, de Regeling aanwijzing categorieën duurzame energieproductie 2010 en de Regeling aanwijzing categorieën duurzame energieproductie 2011, worden met ingang van 1 januari 2012 aangewezen als productie-installaties als bedoeld in de artikelen 15, tweede lid, 32, tweede lid, of 48, tweede lid, van het besluit. 
+Productie-installaties, met uitzondering van productie-installaties voor de productie van hernieuwbare elektriciteit met behulp van windenergie, waarvoor subsidie is verstrekt op grond van de Regeling aanwijzing categorieën duurzame energieproductie 2008, de Regeling aanwijzing categorieën duurzame energieproductie 2009, de Regeling aanwijzing categorieën duurzame energieproductie 2010 en de Regeling aanwijzing categorieën duurzame energieproductie 2011, worden met ingang van 1 januari 2012 aangewezen als productie-installaties als bedoeld in de artikelen 15, derde lid, 32, derde lid, of 48, derde lid, van het besluit. 
 
 ### Artikel  14b  
 
-De omrekenfactor voor de omrekening van Nm<sup>3</sup> aardgasequivalent naar GJ, bedoeld in artikel 58, derde lid, van het besluit, is: Nm<sup>3</sup> aardgasequivalent / GJ = 40,27777778. 
+Productie-installaties, met uitzondering van productie-installaties voor de productie van hernieuwbare elektriciteit met behulp van windenergie, waarvoor subsidie is verstrekt op grond van de Regeling aanwijzing categorieën duurzame energieproductie 2008, de Regeling aanwijzing categorieën duurzame energieproductie 2009, de Regeling aanwijzing categorieën duurzame energieproductie 2010, de Regeling aanwijzing categorieën duurzame energieproductie 2011, de Regeling aanwijzing categorieën duurzame energieproductie 2012, de Regeling aanwijzing categorieën duurzame energieproductie 2013 en de Regeling aanwijzing categorieën duurzame energieproductie 2014, worden met ingang van 1 januari 2015 aangewezen als productie-installaties als bedoeld in de artikelen 15, vierde lid, 32, vierde lid, of 48, vierde lid, van het besluit, met dien verstande dat het verschil in kWh dat bij het aantal geproduceerde kWh van het volgende jaar kan worden opgeteld, bedoeld in de artikel 15, vierde lid, 32, vierde lid, of 48, vierde lid, van het besluit, wordt gemaximeerd op 25% van het aantal kWh dat het desbetreffende jaar voor subsidie in aanmerking komt. 
 
 ### §  7  
 
@@ -706,6 +760,328 @@ Op grond van onze werkzaamheden concluderen wij dat *de biomassaverklaring herni
 ####Overige informatie
 
 De accountant kan hier overige informatie en uiteenzettingen opnemen die niet als doel hebben afbreuk te doen aan zijn conclusie. Plaats en datum: Ondertekening: 
+
+###Bijlage 4 
+
+####, behorende bij artikel 7  van de Algemene uitvoeringsregeling stimulering duurzame energieproductie
+
+### 1  
+
+####Classificatie soorten biomassa en toepassing criteria
+
+Voor bij- en meestook en andere vormen van bio-energieproductie door verbranding of vergassing wordt een aantal soorten biomassa gebruikt. In onderstaand overzicht staan 6 hoofdcategorieën genoemd. In tabel 1 staat welke van de in hoofdstuk 2 genoemde duurzaamheidscriteria toepasselijk zijn voor deze biomassacategorieën. Voor de toepasselijkheid van de duurzaamheidscriteria worden de volgende 7 categorieën onderscheiden. 
+
+1. Houtige biomassa afkomstig uit een grote bosbeheereenheid. De definitie van grote bosbeheereenheid is 2. vanaf 1 januari 2015: bosbeheereenheden groter dan of gelijk aan 500 hectare.  
+
+2. Houtige biomassa afkomstig uit een kleine bosbeheereenheid. De definitie van kleine bosbeheereenheid is 4. vanaf 1 januari 2015: bosbeheereenheden kleiner dan 500 hectare.  
+
+3. Restproducten afkomstig uit multifunctionele bossen<sup> 1 Zie voor definities van restproducten uit bossen en multifunctioneel bos hoofdstuk 4 Bijlage: definities. </sup> zonder kaalkap- of verjongingsgebieden van meer dan 5 hectare.  
+
+4. Agrarische restproducten. Dit zijn rechtstreeks uit de landbouw afkomstige primaire restproducten (bijvoorbeeld gras, stro of doppen).  
+
+5. Restproducten uit de agro-food of houtverwerkende industrie. Dit zijn secundaire residuen uit de houtverwerkende industrie (zoals zaagsel en schors) en restproducten uit de agro-food verwerkende industrie.  
+
+6. Biogene afvalmaterialen. Dit zijn houtafval (tertiaire residuen), organisch huishoudelijk afval en organisch bedrijfsafval of andere organische afvalstoffen.  
+
+7. Biomassarestproducten die vrijkomen bij beheer van stedelijk groen, landschap of natuur anders dan bos gericht op het behoud, herstel of de versterking van specifieke natuurlijke, recreatieve of landschappelijke functies. Tevens vallen hieronder biomassarestproducten die vrijkomen bij het reguliere onderhoud van openbare groengebieden en parken.   Biomassa die concurreert met voedsel(productie) is niet toelaatbaar voor de productie van bio-energie. In tabel 1 zijn de biomassacategorieën en de toepasselijke duurzaamheidscriteria samengevat. De nummering van de criteria verwijst naar de in hoofdstuk 2 beschreven duurzaamheidscriteria. De kern van de criteria bestaat uit criteria voor duurzaam bosbeheer (SFM). Waar nodig zijn de SFM-criteria aangepast of uitgebreid zodat zij ook betrekking hebben op niet uit bosbouw afkomstige biomassa  **   Tabel 1: Biomassacategorieën en bijbehorende duurzaamheidscriteria. Een X betekent dat de criteria gelden voor de betreffende categorie. N.v.t. betekent dat criteria niet relevant zijn of de risico’s laag zijn waardoor de criteria voor deze categorie niet gelden. 
+
+| Biomassacategorieën  | Duurzaamheidscriteria  | SFM-  criteria  | BKG-  balans  | Koolstof‑ schuld  | ILUC  | Bodem-kwaliteit  | Naleving wetgeving  | Chain of Custody  | II.P2-II.P7  | I.P1  III.P4  | I.P2  | I.P4  | II.C 3.1<sup>3</sup>   | II.P1<sup>4</sup>   III.C1.3b  | III.P1-III.P3  |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| 1. Houtige biomassa uit grote bosbeheereenheden  | X  | X<sup>1</sup>   | X<sup>1</sup>   | X<sup>1,2</sup>   | X<sup>1</sup>   | X<sup>1</sup>   | X<sup>1</sup>   |
+| 2. Houtige biomassa uit kleine bosbeheereenheden  | X  | X  | X  | n.v.t.  | X  | X  | X  |
+| 3. Restproducten uit multifuntionele bossen  | n.v.t.  | X  | n.v.t.  | n.v.t.  | X  | X  | X  |
+| 4. Agrarische restproducten  | n.v.t.  | X  | n.v.t.  | n.v.t.  | X  | X  | X  |
+| 5. Restproducten agro-food en houtindustrie  | n.v.t.  | X  | n.v.t.  | n.v.t.  | n.v.t.  | X  | X  |
+| 6. Biogene afvalmaterialen  | n.v.t.  | X  | n.v.t.  | n.v.t.  | n.v.t.  | X  | X  |
+| 7. Restproducten natuur- en landschapsbeheer  | n.v.t.  | X  | n.v.t.  | n.v.t.  | n.v.t.  | X  | X  |
+
+<sup>1</sup> Deze criteria maken deel uit van het volledige pakket criteria voor duurzaam bosbeheer (SFM).  <sup>2</sup> Geldt uitsluitend voor nieuwe teeltsystemen met een korte rotatieperiode gericht op de productie van biomassa voor bio-energie.  <sup>3</sup> C3.1a geldt voor categorie 1 en 2. C3.1b geldt voor categorieën 3-7.  <sup>4</sup> P1 (SFM) geldt voor categorie 1 en 2.
+
+####Houtige biomassa afkomstig uit (productie)bossen
+
+Voor houtige biomassa uit bossen ongeacht de grootte van de beheereenheid zijn alle criteria van toepassing. Bij biomassa uit kleine bosbeheereenheden kan de duurzaamheid tijdelijk worden aangetoond op het niveau van een grotere samenhangende regio waarin het bos met een kleine beheereenheid ligt. In het geval van certificering is de eerste partij die gecertificeerd moet zijn de pelletmill. Deze uitzondering wordt gemaakt omdat de administratieve last van certificering op het niveau van het bos voor kleine eigenaren in de praktijk vaak nog te hoog is wanneer de vrijkomende biomassa wordt ingezet voor energietoepassingen. 
+
+####Restproducten uit multifunctionele bossen zonder kaalkap of verjongingsgebieden van meer dan 5 hectare
+
+Voor restproducten uit multifunctionele bossen waar geen kaalkap of verjongingsgebieden van meer dan 5 hectare zijn of worden gecreëerd, gelden beperkte duurzaamheidscriteria. In feite wordt de vrijgekomen biomassa gezien als een restproduct dat vrijkomt bij het op meerdere functies gerichte beheer van het bos. Ook hier geldt dat de chain of custody begint bij de eerste juridische eigenaar van het materiaal vanaf het moment waarop de biomassa wordt afgevoerd. Bij kaalkap of verjongingsgebieden van meer dan 5 hectare zijn alle criteria van toepassing. 
+
+####Biogeen afval en restproducten uit de categorieën 4-7
+
+Biomassa uit de categorieën 4-7 bestaat uit restproducten waarvoor minder duurzaamheidscriteria gelden omdat de duurzaamheidsrisico’s verbonden aan restproducten en afval minder groot zijn dan die voor biomassa geproduceerd enkel en alleen voor energieopwekking. De chain of custody begint bij de eerste juridische eigenaar van het materiaal vanaf het moment waarop de biomassa wordt afgevoerd. Agrarische restproducten kunnen bestaan uit bijvoorbeeld gras, stro, doppen of tuinafval. Restproducten uit de agro-food verwerkende industrie zijn bijvoorbeeld vliezen, pitten of pulp. Restproducten uit de houtverwerkende industrie, zogenaamde secundaire residuen, zijn bijvoorbeeld zaagsel of schors. Houtige afvalstromen, zogenaamde tertiaire residuen, zijn ook bekend als A,B en C hout. 
+
+### 2  
+
+####Tabel duurzaamheidscriteria
+
+|--- |  *Standaarden*   |
+|:---|:---|
+| I  | Criteria voor klimaat en bio-energie  |
+| II  | Criteria voor duurzaam bosbeheer  |
+| III  | Criteria voor de Chain of Custody  |
+
+| Principe  | Criterium  |
+|:---|:---|
+|  *I. Criteria voor klimaat- en bio-energie*   |
+| Vermindering BKG-uitstoot  | I.P1. Het gebruik van biomassa leidt tot een overeengekomen reductie van de uitstoot van broeikasgassen berekend over de gehele keten.  |
+| --- | C1.1 De berekende maximale CO2eq-uitstoot is gebaseerd op een reductie van de BKG-uitstoot voor warmte en elektriciteit van 70% ten opzichte van de EU-referentiewaarden en bedraagt maximaal 56 g CO2eq/MJ voor elektriciteit en 24 g CO2eq/MJ voor warmte. Dit maximum is een jaarlijks gemiddelde met als voorwaarde dat de uitstoot van geen enkele levering van biomassa boven de waarde van 74 g CO2eq/MJ voor elektriciteit en 32 g CO2eq/MJ warmte overschrijdt (gelijkstaand aan een vermindering van de BKG-uitstoot met 60% ten opzichte van de EU-referentiewaarden).  |
+| --- | --- |
+| --- |  * *Toelichting:* De berekende maximale CO2eq-uitstoot dient gebaseerd te zijn op de meest recente publicatie van de Europese Commissie betreffende duurzaamheidscriteria voor vaste biomassa en verstrekte referentiewaarden voor fossiele brandstoffen. Het Staff Working Document: State of play on the sustainability of solid and gaseous biomass used for electricity, heating and cooling in the EU (SWD (2014) 259) vermeldt de volgende referentiewaarden voor fossiele brandstoffen: 186 gCO2eq/MJ voor elektriciteit en 80 gCO2eq /MJ voor warmte.*   |
+| Instandhouding van koolstofreservoirs  | I.P2. Biomassaproductie mag niet leiden tot een aanzienlijk risico op een langlopende koolstofschuld.  |
+| --- | C2.1 Uitsluitend die soorten biomassa die voldoen volgens de beoordelingstabel voor biomassa vanuit het oogpunt van koolstofschuld in Bijlage 3 mogen worden gebruikt. De organisatie dient daarnaast voor alle bosbiomassa over schriftelijk bewijs te beschikken dat de bosbeheereenheid waaruit het hout afkomstig is, beheerd wordt met het oog op het op lange termijn behouden of vergroten van koolstofvoorraden. Dit bewijs kan geleverd worden in de vorm van een plan voor het bosbeheer of een vergelijkbaar bewijsstuk zoals beschreven in de duurzaamheidscriteria voor duurzaam bosbeheer(II.P6).  |
+| ILUC (indirecte veranderingen in landgebruik)  | I.P3. Biomassa afkomstig uit nieuwe teeltsystemen met een korte rotatieperiode gericht op de productie van biomassa voor bio-energie die na 1 januari 2015 in gebruik worden genomen dient een 'laag ILUC-risico’ mee te brengen. Kleine bosbeheereenheden zijn vrijgesteld van deze eis.  |
+| --- | C3.1. ILUC-risico's moeten worden vastgesteld aan de hand van de methodologie en eisen van de LIIB-methodologie (LIIB = Low Indirect Impact Biofuels) of een gelijkwaardige methode. Uitsluitend biomassa waarvoor een ‘laag ILUC-risico’ kan worden aangetoond is acceptabel.  |
+| --- | --- |
+| --- | Toelichting: de methodologie wordt, indien daar aanleiding voor is, om de drie jaar geëvalueerd en aangepast als er een verbeterde methodologie beschikbaar komt.  |
+| --- | --- |
+|  *II. Criteria voor duurzaam bosbeheer*   |
+|  *Wet- en regelgeving*   |
+| Wet- en regelgeving  | II.P1. Alle toepasselijke internationale, nationale en regionale/lokale wet- en regelgeving dient te worden nageleefd.  |
+| Eisen voor de bosbeheerder  | C 1.1. De bosbeheerder heeft het juridische gebruiksrecht op het bos.  |
+| C 1.2. De bosbeheerder voldoet aan alle verplichtingen tot het betalen van belastingen en royalty’s.  |
+| C 1.3. Aan alle door het betreffende land van herkomst van de biomassa geratificeerde internationale overeenkomsten die betrekking hebben op de bosbeheereenheid wordt voldaan.  |
+| --- | --- |
+| --- |  *Toelichting:* Onder internationale overeenkomsten wordt voornamelijk verstaan: het Verdrag inzake biologische diversiteit (CBD), de Overeenkomst inzake de internationale handel in bedreigde in het wild levende dier- en plantensoorten (CITES), de ILO-overeenkomsten en de VN-verklaring inzake de rechten van inheemse volken (UNDRIP) .  |
+| Legaliteit<sup>1</sup>  | C1.4 Het hout wordt gekapt in overeenstemming met de wetgeving die van kracht is in het land waar de houtkap plaatsvindt en die betrekking heeft op de volgende aangelegenheden:  • rechten tot houtkap binnen in een officieel publicatieblad bekendgemaakte grenzen;  • betalingen voor houtkaprechten en hout, inclusief heffingen in verband met houtkap;  • houtkap, met inbegrip van rechtstreeks daarmee verband houdende milieu- en boswetgeving, inclusief bosbeheer en behoud van de biodiversiteit;  • door houtkap geschonden wettelijke rechten van derden betreffende grondgebruik en grondbezit; en  • handels- en douanewetgeving, voor zover van toepassing op de bosbouwsector.  |
+| Anticorruptie  | C1.5. Anticorruptiewetgeving, waar deze bestaat, wordt nageleefd. Bij gebrek aan anticorruptiewetgeving dient de (bos)beheerder andere anticorruptiemaatregelen te treffen die in verhouding staan tot de schaal en intensiteit van de beheeractiviteiten en het risico op corruptie.  |
+|  *Ecologische aspecten*   |
+| Biodiversiteit  | II.P2. Biodiversiteit moet in stand gehouden en waar mogelijk versterkt worden.  |
+| Soorten en ecosystemen  | C 2.1. Terreinen met een hoge beschermingswaarde – (HCV) of gelijkwaardig- en representatieve gebieden van bostypen die binnen de bosbeheereenheid voorkomen, dienen in kaart gebracht, geïnventariseerd en beschermd te worden en zo mogelijk te worden versterkt.  |
+| C 2.2. Beschermde en bedreigde planten- en diersoorten worden niet voor commerciële doeleinden geëxploiteerd. Waar nodig zijn maatregelen getroffen voor de bescherming daarvan en, indien van toepassing, de versterking van de populatie daarvan.  Toelichting: Plantensoorten omvatten tevens boomsoorten.  |
+| Conversie  | C 2.3. Conversie van bossen binnen de bosbeheereenheid naar andere soorten grondgebruik, met inbegrip van houtplantages, is niet toegestaan, behalve in gerechtvaardigde uitzonderlijke omstandigheden.  |
+| --- | --- |
+| --- |  *Toelichting:* Uitzonderlijke omstandigheden zijn bijvoorbeeld natuurrampen. Daarnaast kan conversie plaatsvinden indien deze leidt tot duidelijke lange termijn voordelen voor natuurbehoud. Conversie in de vorm van herbestemming mag plaatsvinden indien deze betrekking heeft op een geringe oppervlakte, hetgeen het geval is indien het gaat om maximaal 0,5% van de totale oppervlakte van de bosbeheereenheid in het lopende jaar of een toekomstig jaar en de totale geconverteerde oppervlakte niet groter is dan 5% van de oppervlakte van de bosbeheereenheid.  |
+| --- | --- |
+| --- |  *Toelichting:* De bosbeheerder van een plantage dient ernaar te streven duidelijk te maken hoe de plantage bijdraagt aan het verminderen van de druk op natuurlijke bossen; bijvoorbeeld indien de plantage wordt aangelegd op gedegradeerde grond in plaats van door conversie. Conversie mag niet plaatsvinden in een HCV of gelijkwaardig gebied  |
+| Plantages  | C 2.4. In het geval van plantages bestaat een voorkeur voor inheemse soorten, en een relevant gedeelte van het areaal van de plantage moet zich opnieuw kunnen ontwikkelen tot natuurlijk bos.  |
+| --- |
+|  *Toelichting:* 5% van het totale areaal wordt als een relevant gedeelte beschouwd.  |
+| C 2.5. Na *1997* mogen plantages niet zijn aangelegd door middel van conversie van natuurlijke bossen.  |
+| Andere bosproducten dan hout, jacht en visserij  | C 2.6. De exploitatie van andere bosproducten dan hout, inclusief de producten van jacht en visserij, wordt gereguleerd, gemonitord en gecontroleerd. Voor zover relevant wordt bij het monitoren van de commerciële exploitatie gebruik gemaakt van de kennis van de plaatselijke bevolking, inheemse volken en ter plaatse opererende milieuorganisaties.  |
+| Reguleringsfuncties  | II.P3. De reguleringsfunctie en de kwaliteit, gezondheid en vitaliteit van het bos moeten in stand gehouden en waar mogelijk versterkt worden.  |
+| Bodem  | C 3.1a. De bodemkwaliteit van de bosbeheereenheid dient in stand gehouden te worden en zo nodig verbeterd te worden, waarbij bijzondere aandacht uitgaat naar kusten, rivieroevers, erosiegevoelige gedeelten en hellingen.  |
+| --- | --- |
+| --- |  *Toelichting:* Drempelwaarden voor maximaal toelaatbare hoogte en helling zijn relevante indicatoren voor het voorkomen van bodemerosie.  |
+| Bodemgesteldheid in geval van agrarische restproducten en restproducten uit natuurgebieden.  | C 3.1b. Bij de productie en conversie van biomassa op basis van agrarische restproducten en restproducten uit natuurgebieden wordt uitgegaan van best practices voor de instandhouding of verbetering van de bodem en de bodemkwaliteit. Het gebruik van restproducten mag niet in strijd zijn met andere lokale functies ten aanzien van bodembehoud.  |
+| --- | --- |
+| --- |  *Toelichting:* Dit criterium geldt voor agrarische restproducten en restproducten uit natuurgebieden wanneer de activiteiten in het kader van de biomassaoogst gericht zijn op de instandhouding of versterking van specifieke functies van het gebied, zoals de natuurlijke kenmerken of recreatieve functies.  |
+| Water  | C 3.2. De waterbalans en -kwaliteit van zowel grondwater als oppervlaktewater in de bosbeheereenheid, alsook benedenstrooms (buiten de bosbeheereenheid), dienen minimaal behouden en waar nodig verbeterd te worden.  |
+| --- | --- |
+| --- |  *Toelichting*   De instandhouding en zo nodig verbetering van grond- en oppervlaktewater omvat de bescherming of het herstel van natuurlijke waterlopen, waterlichamen, oeverzones en de verbindingen daartussen.  |
+| Ecologische cycli  | C 3.3. Belangrijke ecologische cycli, inclusief koolstof- en nutriëntenkringlopen, die in de bosbeheereenheid voorkomen, blijven ten minste behouden.  |
+| --- | --- |
+| --- |  *Toelichting:* bijvoorbeeld geen verlaging van het grondwaterpeil op veengronden, voorkoming van vertroebeling van stromen, maatregelen ter voorkoming van grootschalig weglekken van voedingsstoffen na houtkap.  |
+| Schadebeperkende houtkap (RIL)  | C 3.4. Onnodige schade aan het ecosysteem wordt voorkomen door toepassing van voor de omstandigheden meest geschikte methoden en technieken voor houtkap en wegenbouw.  |
+| Bosbranden  | C 3.5. Het stichten van bosbranden is uitsluitend toegestaan indien dat met het oog op de verwezenlijking van de beheerdoelstellingen voor de bosbeheereenheid noodzakelijk is en adequate veiligheidsmaatregelen worden getroffen.  |
+| --- | --- |
+| --- |  *Toelichting:* Kleinschalige, traditioneel duurzame "kap- en afbrandpraktijken (“slash and burn”) binnen een bosbeheereenheid worden door dit criterium niet ingeperkt.  |
+| Ziekten en plagen  | C 3.6. Het bosbeheer is gericht op het voorkomen en beheersen van ziekten en plagen voor zover deze een bedreiging vormen voor de houtproductie.  |
+| Chemicaliën  | C 3.7. Het gebruik van chemicaliën is slechts toegestaan indien maximaal gebruik van ecologische processen en duurzame alternatieven ontoereikend blijkt. Het gebruik van pesticiden die door de Wereldgezondheidsorganisatie geclassificeerd zijn als type 1A en 1B en van gechloreerde koolwaterstoffen is niet toegestaan.  |
+| Afval en zwerfvuil  | C 3.8. Anorganisch afval en zwerfvuil wordt voorkomen, verzameld, op de aangegeven plaatsen opgeslagen en op een milieuverantwoorde wijze afgevoerd.  |
+|  *Economische aspecten*   | --- |
+| Productiefunctie  | II.P4. De productiecapaciteit van hout en relevante andere bosproducten dan hout wordt in stand gehouden.  |
+| Productiecapaciteit  | C 4.1. De productiecapaciteit van ieder bostype binnen de bosbeheereenheid als geheel dient in stand gehouden te worden.  |
+| --- | --- |
+| --- |  *Toelichting:* Overexploitatie van afzonderlijke commerciële boomsoorten dient voorkomen te worden.  |
+| Illegale activiteiten  | C 4.2. De bosbeheerder werkt niet mee aan illegale exploitatie, illegale vestiging van nederzettingen, illegaal landgebruik, illegaal gestichte branden en overige illegale activiteiten.  |
+| Bijdrage aan de lokale economie  | II.P5. Het bosbeheer draagt bij aan de lokale economie en werkgelegenheid.  |
+| Werkgelegenheid  | C 5.1. Het bosbeheer dient een redelijk perspectief op werkgelegenheid te bieden aan de plaatselijke bevolking, inclusief inheemse volken, evenals op het lokaal verwerken van hout en andere bosproducten dan hout.  |
+| --- | --- |
+| --- |  *Toelichting:* De werkgelegenheid voor de plaatselijke bevolking, inclusief inheemse volken, dient gestimuleerd te worden, bijvoorbeeld door middel van opleidingsactiviteiten.  |
+| Infrastructuur  | C 5.2. De bosbeheerder ontplooit extra activiteiten; een bijdrage wordt geleverd aan de ontwikkeling van de plaatselijke fysieke infrastructuur en van sociale voorzieningen en programma's voor de plaatselijke bevolking, inclusief inheemse volken. Deze bijdrage wordt geleverd in samenspraak met de plaatselijke bevolking.  |
+| --- | --- |
+| --- |  *Toelichting:* De bosbeheerder is van deze eis vrijgesteld indien door lokale en/of nationale overheden met instemming van de plaatselijke bevolking in voldoende mate wordt voorzien in extra activiteiten.  |
+|  *Beheeraspecten*   | --- |
+| Beheersysteem  | II.P6. Duurzaam bosbeheer wordt gerealiseerd op basis van een beheersysteem.  |
+| --- | --- |
+| --- |  *Toelichting:* in het geval van biomassa uit kleine bosbeheereenheden is het tijdelijk toegestaan de duurzaamheid aan te tonen op het niveau van een grotere samenhangende regio waarin het bos met een kleine beheereenheid ligt. In dat geval wordt de eis voor een bosbeheersysteem of een bosbeheerplan in onderstaande criteria geïnterpreteerd als een eis voor een management systeem bij de pelletmill welke borgt dat aan de duurzaamheidscriteria wordt voldaan.  |
+| Beheercyclus  | C 6.1. Het bosbeheer is gericht op realisatie van de doelstellingen die in een plan voor het bosbeheer zijn vastgelegd en omvat de cyclus van inventarisatie en analyse, planning, uitvoering, monitoring, evaluatie en bijstelling.  |
+| Bosbeheerplan  | C 6.2. Er is een plan voor bosbeheer dat minimaal bestaat uit:  • een beschrijving van de huidige staat van de bosbeheereenheid;  • lange termijndoelstellingen;  • de gemiddelde jaarlijks toelaatbare kap per bostype en, indien van toepassing, de jaarlijks toelaatbare exploitatie van andere bosproducten dan hout, op basis van betrouwbare en actuele gegevens;  • maatregelen gericht op het op lange termijn behouden of vergroten van koolstofvoorraden;  • begroting voor de uitvoering van het plan voor bosbeheer.  |
+| --- | --- |
+| --- |  *Toelichting:* Een realistische begroting moet de uitvoering van het plan mogelijk maken.  |
+| --- | --- |
+| --- |  *Toelichting:* In het plan moet aandacht geschonken worden aan relevante economische, sociale en ecologische (ecosystemen, soorten, functies) elementen en relevante kwesties om de huidige staat van de bosbeheereenheid te beschrijven.  |
+| --- | --- |
+| --- |  *Toelichting:* in geval het gaat om een systeem dat de duurzaamheid aantoont op het niveau van een grotere samenhangende regio, zoals omschreven in Principe II.P6 dient dit criterium geïnterpreteerd te worden als een eis voor een management systeem bij de pellet mill welke een beschrijving geeft van de status van het bos in het intrekgebied en aantoont dat op lange termijn de koolstofvoorraden in stand blijven of groeien.  |
+| Kaarten  | C 6.3. Essentiële elementen voor het bosbeheer, inclusief HCV-gebieden of gelijkwaardig, dienen op kaarten aangegeven te worden.  |
+| Monitoring  | C 6.4. De uitvoering van het plan voor het bosbeheer en de ecologische, sociale en economische effecten van bosbeheer op de (het) bos(beheereenheid) en de omgeving daarvan moeten periodiek op basis van adequate gegevens gemonitord worden. Dit kunnen mondiaal, regionaal of nationaal significant grote gebieden zijn.  |
+| Kennis en expertise  | C 6.5. Wetenschappelijk onderzoek en, zo nodig, informatie over vergelijkbare bossoorten liggen ten grondslag aan het bosbeheer.  |
+| C 6.6. Het bosbeheer wordt uitgevoerd door vakbekwame medewerkers en boswerkers. De vakbekwaamheid en kennis worden op peil gehouden door middel van adequate periodieke scholing.  |
+| Beheergroep of regioverband  | II.P7. In het geval van groepscertificatie dient het bosbeheer door een groep of regioverband gepaard te gaan met waarborgen voor duurzaam bosbeheer. Het certificatiesysteem stelt dan de volgende eisen:  |
+| Groep of regioverband  | C 7.1. Een groep of regioverband staat onder leiding en toezicht van een zelfstandige juridische entiteit.  |
+| C 7.2. Het beheersysteem van een groep of regioverband biedt voldoende garantie op naleving van criterium C 7.3.  |
+| Eisen ten aanzien van duurzaam bosbeheer  | C 7.3. Een groep of regioverband voldoet aan de eisen voor duurzaam bosbeheer. Bovendien voldoet ieder lid van een groep of regioverband aan deze eisen voor zover deze van toepassing zijn op de werkzaamheden van dat lid.  |
+| --- | --- |
+|  *III. Criteria voor de Chain of Custody*   |
+|  *CoC-eisen vanuit duurzaam bosbeheer*   |
+| Chain-of-Custody-systeem  | III.P1a. Er dient een Chain of Custody (CoC) te bestaan, *van de boseenheid van oorsprong tot aan de bio-energieproducent*, die voorziet in een koppeling tussen het materiaal in het product of de productlijn en de oorspronkelijke boseenheden.  III.P1b. Voor biomassarestproducten niet afkomstig uit bos, begint de Chain of Custody bij het eerste inzamelingspunt, te weten de eerste juridische eigenaar van het materiaal, vanaf het moment waarop de reststroom wordt afgevoerd.   *Opmerking: zie tabel 1 voor biomassacategorieën die geclassificeerd worden als biomassarestproducten.*   |
+| Organisatie  | C 1.1. Iedere afzonderlijke organisatie in de Chain of Custody beschikt over een werkend Chain-of-Custody-systeem.  |
+| C 1.2. Het managementsysteem van iedere organisatie in de CoC moet waarborgen dat aan de eisen van de CoC-standaard wordt voldaan.  |
+| --- |
+|  *Toelichting: *Indien een organisatie het certificaat ook op uitbesteding van toepassing wil laten zijn, dient de organisatie erop toe te zien dat de (onder)aannemer labels van het systeem uitsluitend gebruikt voor producten die onder de uitbestedingsovereenkomst vallen.  |
+| C 1.3. Iedere afzonderlijke organisatie in de Chain of Custody dient de hoeveelheden en de namen en certificaatnummers te registreren van de organisaties waarvan zij biomassa koopt en waaraan zij biomassa verkoopt.  • C1.3a. De eindgebruiker kan bij gebruik van certificaten uitsluitend een claim conform het systeem doen gelden indien alle organisaties in de toeleveringsketen (zoals producenten, verwerkers, handelaren, eindgebruikers) beschikken over een geldig CoC certificaat en juridisch eigenaar zijn van het product, zoals bedoeld door het systeem.  • C1.3b. Organisaties in de toeleveringsketen, vanaf de eenheid van oorsprong tot aan de bio-energieproducent, dienen alle toepasselijke nationale en regionale wet- en regelgeving na te leven en zich te committeren aan de in de standaard voor duurzaam (bos)beheer gedefinieerde sociale eisen en gezondheids- en veiligheidseisen.  • C1.3c. De systeemeigenaar dient aan te tonen welke informatie in het kader van het systeem binnen de toeleveringsketen wordt doorgegeven, naast de hier in C1.3 (III.P1) omschreven eisen.  • C1.3d. Documenten, rapportages en aantekeningen worden opgesteld en bewaard als bewijs dat voldaan is aan vereisten en bepalingen, als basis voor informatie die wordt aangeleverd voor de gebruikelijke rapportage aan derden en als bewijs voor de effectieve uitvoering van maatregelen, procedures en planningen.  • Ondernemers zijn verplicht alle bewijsstukken gedurende minimaal 5 jaar te bewaren.  |
+| Legale bronnen  | C 1.4. Vermenging van materiaal dat aan alle relevante criteria voor duurzaam bosbeheer (II.P1-II.P8) voldoet met ander materiaal is toegestaan, mits voor het andere materiaal een verifieerbaar systeem geldt waarmee vastgesteld kan worden dat het afkomstig is van legale bronnen. Dit geldt voor nieuw materiaal en pre-consumer gerecycled materiaal.  |
+| --- |
+|  *Toelichting:* Voor post-consumer gerecycled materiaal volstaat het wanneer de status ervan als post-consumer gerecycled materiaal wordt vastgesteld door een verifieerbaar systeem; de legaliteit van de oorsprong van het hout wordt buiten beschouwing gelaten. De legaliteit van de oorsprong van pre-consumer gerecycled materiaal moet daarentegen wel door een verifieerbaar systeem worden vastgesteld.  |
+| C1.5. Hout dat aan de criteria voor duurzaam bosbeheer voldoet, inclusief houtproducten, hout uit andere geverifieerde legale bronnen en hout uit niet-geverifieerde (legale) bronnen worden administratief gescheiden. Hout uit niet-geverifieerde (legale) bronnen wordt tevens fysiek gescheiden van hout uit de andere twee bronnen.  |
+| Gemengd hout en samengestelde producten  | C1.6a. Indien materialen met een verschillende duurzaamheidsclaim gemengd worden, dient/dienen (een van) de volgende benaderingen gevolgd te worden:  Massabalansclaim:  • De informatie over de duurzaamheidskenmerken en omvang van de materialen met verschillende duurzaamheidskenmerken blijft aan het mengsel toegewezen.  • De som van alle leveringen die uit het mengsel zijn gehaald heeft dezelfde duurzaamheidskenmerken, in dezelfde hoeveelheden, als de som van alle leveringen die aan het mengsel worden toegevoegd.  Percentage-based claim:  • Het percentage materiaal dat aan de criteria voor duurzaam bosbeheer voldoet in een product of productlijn wordt vermeld.  |
+| --- | --- |
+| --- |  *Toelichting:* De percentage-based claim mag uitsluitend worden gebruikt voor uit de bosbouw afkomstige biomassa.  |
+| Gemengde niet uit de bosbouw afkomstige grondstoffen  | C1.6b. Indien materiaal dat niet uit de bosbouw afkomstig is en aan de gestelde duurzaamheidscriteria voldoet gemengd wordt met ander materiaal, dient de volgende benadering gevolgd te worden:  Massabalansclaim:  • De informatie over de duurzaamheidskenmerken en omvang van de materialen met verschillende duurzaamheidskenmerken blijft aan het mengsel toegewezen.  • De som van alle leveringen die uit het mengsel zijn gehaald heeft dezelfde duurzaamheidskenmerken, in dezelfde hoeveelheden, als de som van alle leveringen die aan het mengsel worden toegevoegd.  |
+| Legale houtbronnen: mixed-claim  | C1.7. Indien zoals gedefinieerd in criterium C1.4 (III.P1), materiaal dat voldoet aan alle relevante criteria voor duurzaam bosbeheer gemengd wordt met ander materiaal gelden de volgende eisen:  • Maximaal 30 volumeprocent van het in de producten gebruikte materiaal bestaat uit ander materiaal. Voor producten op basis van houtsnippers en vezels is een combinatie met 50% ander materiaal tijdelijk toegestaan. Deze vrijstelling voor deze 50% geldt tot 31 december 2015.  • Het aandeel van 30% (of 50%) ander materiaal mag geen illegaal gekapt hout bevatten, geen hout dat is gekapt in strijd met burgerrechten, geen hout dat is gekapt in bossen waar hoge beschermingswaarden bedreigd worden door beheeractiviteiten en geen hout dat is gekapt in bossen die geconverteerd worden naar plantages of anderszins als bossen verloren gaan.  |
+| Chain-of-Custody-groepscertificering  | III.P2. Bij groepscertificering van de CoC moet de standaard voorschrijven dat de groep als geheel aan dezelfde eisen voldoet die aan afzonderlijke bedrijven gesteld worden. In dit kader stelt het systeem de volgende eisen:  |
+| Juridische entiteit  | C 2.1. Een groep staat onder leiding van een juridische entiteit die verantwoordelijk is voor de groep als geheel.  |
+| Groepsleiding  | C 2.2. De groep heeft een managementsysteem dat voldoende garanties biedt dat aan C 2.3 (III.P2) wordt voldaan.  |
+| C 2.3. De groep werkt volgens principe 1; daarnaast voldoet ieder groepslid aan deze eisen voor zover deze op de werkzaamheden van dat lid van toepassing zijn.  |
+| Registratie  | C 2.4. De groepsleiding beschikt over een registratiesysteem waarin worden opgenomen:  • namen en adressen van de groepsleden;  • een verklaring van ieder lid waarin het lid verklaart te voldoen aan de certificeringsvereisten van de CoC.  • de inkomende en uitgaande biomassastromen van elk van de afzonderlijke groepsleden.  |
+| Logo's en labels  | III.P3. Logo’s en labels die behoren tot een certificeringssysteem en voorkomen op producten en documenten moeten een ondubbelzinnige betekenis hebben en moeten toegepast worden in overeenstemming met de regels die vastgesteld zijn door het certificeringssysteem. In dit kader stelt het systeem de volgende eisen:  |
+| Vormgeving en gebruik van logo's en labels  | C 3.1. De systeemmanager hanteert regels voor het gebruik van logo’s en labels en voor het toezien op de naleving ervan. De regels omvatten tenminste:  • omschrijving van logo's en labels;  • ondubbelzinnige beschrijving van de claim die de logo’s en labels vertegenwoordigen, inclusief de eis van vermelding van de feitelijke percentages of minimumpercentages van gecertificeerd en na verbruik gerecycled materiaal dat in het product of de productlijn is opgenomen;  • rechten om logo's en labels te gebruiken;  • instructies met betrekking tot het gebruik van logo’s en labels en de informatieve tekst die ze weergeven.  |
+| Auteursrecht  | C 3.2. Het logo is auteursrechtelijk beschermd en als handelsmerk geregistreerd.  |
+| Duidelijke en correcte claims  | C 3.3. Er is een duidelijk beschreven mechanisme voor de controle van alle claims die gedaan worden over het gecertificeerde kenmerk van producten, dat ervoor zorgt dat claims duidelijk en accuraat zijn en dat actie ondernomen wordt om onjuiste of misleidende claims te voorkomen.  |
+
+<sup>1</sup> Dit criterium is overgenomen uit de Europese houtverordening (EUTR 995/2010) 
+
+| Klimaat- en bio-energieaspecten met betrekking tot de Chain of Custody  |
+|:---|
+|  *Vermindering BKG-uitstoot*   | III.P4. Voor iedere afzonderlijke processtap in de Chain of Custody zijn gegevens over de BKG-uitstoot bekend.  |
+|  *Massabalans*   | III.P5. Indien gebruik gemaakt wordt van een massabalansclaim gelden naast C1.6 (III.P1) de volgende eisen:  • het dient minimaal op het niveau van een locatie (*site*) te worden toegepast;  • de duurzaamheidskenmerken van een mengsel moeten terug herleid kunnen worden tot de afzonderlijke stromen;  • informatie over de duurzaamheidskenmerken en omvang van de stroom blijft aan het mengsel gekoppeld;  • de som van alle stromen die aan het mengsel onttrokken worden heeft dezelfde duurzaamheidskenmerken, in dezelfde hoeveelheden, als het totaal van alle aan het mengsel toegevoegde stromen, rekening houdend met toepasselijke conversiefactoren.  |
+|  *Legale houtbronnen: mixed-claim*   | III.P6. Indien zoals gedefinieerd in criterium C1.4 (III.P1), materiaal dat voldoet aan alle relevante criteria voor duurzaam bosbeheer gemengd wordt met ander materiaal gelden de volgende eisen:  • Het aandeel van 30% (of 50%) ander materiaal dient te voldoen aan de eisen ten aanzien van koolstofschuld, ILUC en een vermindering van de BKG-uitstoot.  |
+
+### 3  
+
+####Beoordelingstabel voor biomassa vanuit het oogpunt van koolstofschuld
+
+In onderstaande tabel wordt aangegeven of de betreffende soorten biomassa voldoet of niet voldoet aan het criterium van koolstofschuld. De beoordeling in de tabel heeft uitsluitend betrekking op risico's ten aanzien van koolstofschuld en niet op andere duurzaamheidscriteria.  
+
+|--- | Biomassa  | Beoordeling  |
+|:---|:---|:---|
+| --- | --- | --- |
+|  *1.*   |  *Land waarop de teelt en/of oogst van biomassa niet is toegestaan*   | --- |
+| --- | Structureel gedraineerd land dat in januari 2008 veengebied was, tenzij kan worden aangetoond dat de teelt en het oogsten van deze grondstoffen geen ontwatering van een voorheen niet-ontwaterde bodem met zich meebrengt.  | Voldoet niet  |
+| --- | Land dat na januari 2008 is geconverteerd van wetlands naar andere (drogere) ecosystemen.  | Voldoet niet  |
+| --- | --- | --- |
+|  *2.*   |  *Hout uit bossen die voldoen aan de relevante Nederlandse duurzaamheidseisen uit hoofdstuk 2*   | --- |
+| --- | --- | --- |
+|  *2.1*   |  *Algemene eis*   | --- |
+| 2.1.1  | Er is schriftelijk bewijs dat de bosbeheereenheid waaruit het hout afkomstig is, beheerd wordt met het oog op het op lange termijn behouden of vergroten van koolstofvoorraden. Dit bewijs kan geleverd worden in de vorm van een plan voor het bosbeheer of een vergelijkbaar bewijsstuk zoals beschreven in de criteria voor duurzaam bosbeheer (onder II.P6).  | --- |
+| --- | --- | --- |
+|  *2.2*   |  *Duurzaam beheerde productiebossen met een rotatieperiode van 40 jaar of minder*   | --- |
+| 2.2.1  | Hout uit productiebossen die vóór 1 januari 2008 zijn aangelegd of ontstaan.  | Voldoet  |
+| 2.2.2  | Hout uit productiebossen die op of na 1 januari 2008 zijn aangelegd door middel van conversie van (semi-)natuurlijke bossen.  | Voldoet niet  |
+| 2.2.3  | Hout uit productiebossen die op of na 1 januari 2008 zijn aangelegd op landbouwgrond of grasland.  | Voldoet (het ILUC-criterium is van toepassing)  |
+|  *2.3*   |  *Duurzaam beheerde bossen anders dan bedoeld onder 2.2*   | --- |
+| 2.3.1  | Tak- en tophout – algemeen  | Voldoet  |
+| 2.3.2  | Stronken  | Voldoet niet  |
+| 2.3.3  | Stronken die om andere redenen dienen te worden verwijderd (bijvoorbeeld voor de aanleg van wegen).  | Voldoet  |
+| 2.3.4  | Rondhout uit een bos met een rotatieperiode van meer dan 40 jaar is alleen acceptabel als grondstof voor bio-energie indien aan de volgende bijkomende voorwaarde wordt voldaan:  Er is gedocumenteerd bewijs dat slechts een beperkt deel van de waarde van het gekapte hout gebruikt wordt voor de productie van bio-energie (exclusief dunningshout). Dit moet ervoor zorgen dat het beheer van bossen gericht blijft op het genereren van diverse producten en dat bos niet primair voor bio-energie gekapt wordt.  | Voldoet  |
+| --- | --- | --- |
+| --- | Als indicator hiervoor wordt gebruik gemaakt van volume. Bij houtoogst (exclusief dunningen) mag gemiddeld minder dan de helft van het rondhout voor houtpellets gebruikt worden. De houtpelletmill moet hier zorg voor dragen.  | --- |
+| --- | --- | --- |
+| --- |  *Toelichting: de indicator maakt gebruik van volume in plaats van economische waarde omdat het in praktijk moeilijk is het percentage van de waarde die naar houtpellets gaat betrouwbaar vast te stellen, omdat marktprijzen lokaal verschillen en sterk kunnen veranderen over tijd, wat ongewenste onzekerheden zou veroorzaken bij een waarde-indicator. De afgelopen 10 jaar lag de verhouding tussen pulphout prijzen en zaaghout prijzen voor hout op stam in bijvoorbeeld het zuiden van de VS tussen de 2,5 en 5. Bovenstaande volume-indicator beperkt daarmee de fractie van de economische waarde van een houtoogst die naar houtpellets gaat tot gemiddeld 23%. Deze indicator zal in de praktijk getoetst worden op uitvoerbaarheid waarbij met name aandacht zal zijn voor de vraag of de benodigde data voor deze indicator verzameld en geverifieerd kan worden in de verschillende houtpellet producerende regio’s. Indien de indicator niet uitvoerbaar blijkt, zal een andere indicator worden gezocht en is in tussentijd de indicator niet toetsbaar en dus buiten werking.*   | --- |
+| --- | --- | --- |
+|  *3*   |  *Hout uit bossen die niet voldoen aan de relevante Nederlandse duurzaamheidseisen uit hoofdstuk 2*   | --- |
+| --- | Alle niet sub 2.1-2.3 gespecificeerde bostypen.  | Voldoet niet  |
+| --- | --- | --- |
+|  *4*   |  *Primaire biomassa stromen die niet uit natuurlijk bos of productiebos afkomstig zijn*   | --- |
+| 4.1  | Hout afkomstig van onderhoud aan landschapselementen, parken, lanen, enz.  | Voldoet  |
+| 4.2  | Biomassarestproducten die vrijkomen bij het beheer van andere natuurgebieden dan bosgebieden wanneer de activiteiten in het kader van de biomassaoogst gericht zijn op de instandhouding of versterking van specifieke functies van het gebied, zoals de natuurlijke kenmerken of de recreatieve functies.  | Voldoet  |
+| --- | --- | --- |
+|  *5.*   |  *Secundaire biomassastromen*   | --- |
+| 5.1  | Restproducten uit de houtverwerking (zaagsel, schors, enz.)  | Voldoet  |
+| --- | --- | --- |
+|  *6.*   |  *Tertiaire biomassastromen (houtafval)*   | --- |
+| 6.1  | Afvalhout van A-kwaliteit  | Voldoet  |
+| 562  | Afvalhout van B-kwaliteit  | Voldoet  |
+| 6.3  | Afvalhout van C-kwaliteit  | Voldoet  |
+
+### 4  
+
+####Definities
+
+*Andere bosproducten dan hout:* Alle producten uit het bos die geen hout zijn, inclusief materialen die van bomen verkregen worden, zoals hars en loof, en alle andere plantaardige, dierlijke of plantaardige/dierlijke producten. (TPAS)  
+
+*Bedreigde soorten:* Planten- en diersoorten die minimaal als ‘bedreigd’ geclassificeerd zijn in de mondiale rode lijst van de IUCN en de richtlijnen van de IUCN voor de regionale toepassing van de rode lijst van de IUCN. (TPAS)  
+
+*Biodiversiteit:* De variabiliteit van levende organismen van alle oorsprongen, inclusief, onder andere, terrestrische, mariene en andere aquatische ecosystemen en de ecologische complexen waarvan zij deel uitmaken; hierin is ook begrepen de diversiteit binnen soorten, tussen soorten en van ecosystemen. (TPAS)  
+
+*Bos:* Terrein groter dan 0,5 hectare, bezet met bomen groter dan 5 meter en een kroonbedekking van meer dan 10%, of met bomen die deze grenswaarden kunnen bereiken. Het betreft geen gebied dat overwegend stedelijk of in agrarisch gebruik is. (FAO) – als referentie voor koolstofschuldcriterium.  
+
+*Bosbeheer:* Het plannen en uitvoeren van activiteiten gericht op het beheer en gebruik van bossen en andere beboste gebieden ter verwezenlijking van bepaalde doelstellingen op economisch, sociaal en/of cultureel gebied en/of op milieugebied. (TPAS)  
+
+*Bosbeheerder:* De eigenaar, concessiehouder of persoon die in een andere hoedanigheid verantwoordelijk is voor het beheer en de exploitatie van een bosbeheereenheid. (TPAS)  
+
+*Bosbeheereenheid:* Eén of meer bospercelen – hetzij natuurlijk bos, aangeplant bos of een ander soort bos – die als één geheel wordt beheerd.  
+
+*Certificering:* De afgifte van een schriftelijk bewijs (het certificaat) door een onafhankelijke externe instantie waaruit blijkt dat deze een bosbeheereenheid, biomassaproductie-eenheid of bedrijf uit de Chain of Custody onderzocht heeft en vastgesteld heeft dat deze voldoet aan de in de standaard opgenomen eisen. (TPAS)  
+
+*Certificeringssysteem (voor biomassa):* Het stelsel van regels dat zorgt voor een schriftelijke verklaring (certificaat) door een onafhankelijke externe instantie dat ze een audit heeft gedaan waarbij is geverifieerd of het (management)systeem voldoet aan de eisen die gespecificeerd zijn in een standaard. Een standaard kan variëren van een enkel criterium tot een heel stelsel van principes en criteria voor de gehele keten van de bron tot de consument. Essentieel voor een certificeringssysteem is de traceerbaarheid van producten door de keten.  
+
+*Certificeringssysteem (voor hout):* Een wettelijk geregistreerd systeem dat tot doel heeft duurzaam bosbeheer te bevorderen door certificering van bosbeheer en van de bijbehorende Chain of Custody. (TPAS)  
+
+*Chain of Custody (CoC) (algemeen):* De keten van bewijs waarin producten worden vervaardigd en gedistribueerd, van hun oorsprong tot aan de bio-energieproducent.  
+
+*Chain of Custody voor hout (CoC):* De keten van alle opeenvolgende entiteiten die uit de bosbouw afkomstige producten oogsten en verwerken en die deel uitmaken van de distributieketen van bos tot eindgebruiker. (TPAS)  
+
+*Chemicaliën:* Alle soorten meststoffen, biociden en hormonen. (TPAS)  
+
+*CoC-systeem:* Een samenstel van regels, procedures en documenten op bedrijfsniveau, waarmee de traceerbaarheid van gecertificeerd materiaal verzekerd wordt. (TPAS)  
+
+*Conversie (van natuurlijk bos):* Menselijke activiteit waardoor een natuurlijk bos wordt omgezet in een andere vorm van grondgebruik (TPAS), bossoort of plantage.  
+
+*Duurzaam bosbeheer:* Het beheer en gebruik van bossen en beboste gebieden op een manier en met een intensiteit waarbij deze hun productiviteit, biologische diversiteit, regeneratiecapaciteit en vitaliteit behouden, evenals het vermogen om nu en in de toekomst de relevante economische, ecologische en sociale functies op lokaal, nationaal en mondiaal niveau te vervullen, waarbij koolstofvoorraden op lange termijn behouden of vergroot worden en geen schade aan andere ecosystemen wordt toegebracht. (TPAS)  
+
+*Ecologische functies:* Ecologische processen die in belangrijke mate gunstig voor de samenleving zijn. (TPAS)  
+
+*Ecologische kringlopen:* Natuurlijke processen waarbij elementen in verschillende vormen voortdurend worden uitgewisseld tussen de verschillende compartimenten van het ecosysteem, inclusief nutriënten-, koolstof- en waterkringlopen. (TPAS)  
+
+*Eigendoms- en gebruiksrechten:* De rechten om land, gebieden en hulpbronnen in traditioneel door inheemse volken en de plaatselijke bevolking bewoonde streken te bezitten, gebruiken, ontwikkelen en daarover zeggenschap uit te oefenen. (TPAS)  
+
+*Genetisch gemodificeerd organisme:* Een organisme dat getransformeerd is door het inbrengen van een of meer transgenen. (TPAS)  
+
+*Groep (of regioverband):* Juridische entiteit waarin verschillende bosbouwondernemingen in een bepaald gebied samenwerken; of bedrijven die actief zijn in een bepaald segment van de Chain of Custody. (TPAS)  
+
+*Groepscertificering:* Certificering van een groep of regioverband waarbij de certificering geldt voor de groep als geheel. Hieronder vallen zowel de certificering van groepen als de certificering van ondernemingen met diverse vestigingen (multi-site-certificering) binnen de CoC. Bij groepscertificering beoordelen certificeringsinstellingen deelnemende groepsleden op basis van steekproeven ter vaststelling van het bestaan van gemeenschappelijke, centraal geadministreerde en bewaakte controle- en verslagleggingssystemen.  
+
+*Habitat:* De plaats of het soort gebied waar een organisme of populatie van nature voorkomt.  
+
+*Hout van noodkap:* Beschadigde, stervende of dode bomen die verwijderd worden vanwege schadelijke invloeden zoals wind of ijsstormen of de verspreiding van invasieve epidemische bospathogenen, insecten en ziekten of andere epidemische biologische risico's voor het bos, maar niet vanwege concurrentie. Onder noodkap valt tevens hout dat verwijderd wordt om het risico op brand te verkleinen. (JRC) - als referentie voor koolstofschuldcriterium.  
+
+*Houtkap:* Het volume (gemeten met schors) van alle bomen, levend of dood, met een diameter van meer dan 10 cm op borsthoogte, die jaarlijks in bossen of beboste gebieden gekapt worden. Hierbij gaat het om het volume van alle gekapte bomen, ongeacht of deze wel of niet verwijderd worden. (JRC) – als referentie voor koolstofschuldcriterium.  
+
+*Jaarlijks toegestane kap (annual allowable cut, AAC):* Het volume hout dat jaarlijks binnen een omschreven gebied gekapt mag worden, gewoonlijk uitgedrukt in kubieke meters hout per jaar. Bij de berekening van de AAC moet rekening gehouden worden met landschap, bossoorten, ecologische beschermingsgebieden en infrastructuur, en de AAC mag de jaarlijkse netto aanwas op de lange termijn niet overschrijden. (TPAS)  
+
+*Juridisch gebruiksrecht (van de bosbeheerder):* Het door de daartoe bevoegde overheidsinstantie verleende recht om in een bepaald gebied bosbouwactiviteiten uit te voeren. (TPAS)  
+
+*Metasysteem:* Organisatie die geen eigen certificeringssysteem beheert maar in plaats daarvan beoordeelt of nationale of regionale certificeringssystemen aan haar algemene standaard voldoen. (TPAS)  
+
+*Multifuncrioneel bos:* Een bos waarvan het beheer gericht is op de instandhouding en/of versterking van diverse, naast elkaar bestaande functies, bijvoorbeeld de functies natuur, landschap, recreatie en de productie van hout en biomassa. Als regel is er niet één dominante functie die de instandhouding en/of versterking van de andere functies in de weg staat (zo mag het bosbeheer niet uitsluitend gericht zijn op een optimale houtproductie). In de praktijk kan de multifunctionaliteit van het bos afgelezen worden aan de consistentie van de genomen beheermaatregelen: maatregelen ter versterking van specifieke soorten (flora en fauna), instandhouding van de recreatieve infrastructuur (wandelpaden), houtkapactiviteiten.  
+
+*Ontbossing:* De directe, door de mens veroorzaakte omzetting van bebost gebied in niet-bebost gebied. (JRC) – als referentie voor koolstofschuldcriterium.  
+
+*Plantagebos:* Bosopstanden die door aanplant en/of bezaaiing tot stand komen in het kader van bebossing of herbebossing. Zij bestaan ofwel uit geïntroduceerde soorten (alle aangeplante opstanden) ofwel uit intensief beheerde opstanden van inheemse soorten die aan alle volgende criteria voldoen: een of twee soorten per plantage, gelijke leeftijdsklasse, regelmatige plantafstand. (TPAS)  
+
+*Productiebos:* Bosgebied dat primair bestemd is voor de productie van hout, vezels, bio-energie en/of andere bosproducten dan hout. (FAO) – als referentie voor koolstofschuldcriterium.  
+
+*Restproducten uit bossen:* Tak- en tophout, schors, onbruikbare stammen en andere gedeelten van bomen die als bijproduct ontstaan bij de reguliere kap van stammen voor zaaghout, houtpulp of bij bosbeheer ten behoeve van andere functies zoals in multifunctionele bossen – als referentie voor koolstofschuldcriterium.  
+
+*Restproducten uit natuur en landschapsbeheer:* Restproducten die vrijkomen bij beheer van stedelijk groen, landschap of natuur anders dan bos gericht op het behoud, herstel of de versterking van specifieke natuurlijke, recreatieve of landschappelijke functies. Tevens vallen hieronder biomassarestproducten die vrijkomen bij het reguliere onderhoud van openbare groengebieden en parken.  
+
+*Rondhout:* Hout van de stam van een boom; niet van de takken, stronk of wortel – als referentie voor koolstofschuldcriterium.  
+
+*Rotatieperiode van een productiebos:* De tijd tussen het moment waarop een opstand (van bomen van gelijke leeftijdsklasse) wordt gezaaid of geplant en het tijdstip waarop die boomopstand wordt geoogst – als referentie voor koolstofschuldcriterium.  
+
+*Stronk:* Het gedeelte van een plant en met name een boom dat aan de wortel blijft vastzitten nadat de stam is geveld. (JRC) – als referentie voor koolstofschuldcriterium.  
+
+*Systeemmanager:* Persoon die optreedt als (wettelijk) vertegenwoordiger van het certificeringssysteem. (TPAS)  
+
+*Tak:* Een uitspruitsel uit een stam of stengel of een secundaire stam of stengel die uit de hoofdstam of -stengel van een plant voortkomt. (JRC) – als referentie voor koolstofschuldcriterium.  
+
+*Dunningshout:* Bij dunningswerkzaamheden verwijderde bomen met het oog op vermindering van de dichtheid van opstanden en verbetering van de diametergroei en het volume van de resterende opstanden. Staande houtvoorraad van onacceptabele kwaliteit, gedefinieerd als bomen die als structureel zwak beschouwd worden of die een geringe groeikracht hebben en niet het vermogen hebben om uit te groeien tot een zaaghoutstam van 12 voet (366 cm) of nog ten minste 10 jaar te leven. Hieronder vallen tevens bomen die verwijderd worden om het risico op brand te verkleinen. (JRC) – als referentie voor koolstofschuldcriterium.  
+
+*Verificatie:* Verificatie van gegevens en duurzaamheidsclaims is het vermogen van organisaties om door rapportering van gegevens en duurzaamheidsclaims aan de betreffende instantie aan te tonen dat de duurzaamheidseisen nageleefd worden. Deze informatie dient vergezeld te gaan van een verificatieverklaring waarin een onafhankelijke verificateur bevestigt de gegevens gecontroleerd te hebben en geen misstanden aangetroffen te hebben in de gerapporteerde data en de daarvoor gehanteerde systemen.  
+
+*Verifieerbaar systeem (voor niet-gecertificeerd materiaal):* Een pakket regels, procedures en documenten waarmee vastgesteld kan worden dat niet-gecertificeerd materiaal in een product of productlijn inderdaad afkomstig is van niet-betwiste, in elk geval legale bronnen. (TPAS)  
+
+*Wetlands:* Land dat permanent of gedurende een groot gedeelte van het jaar onder water staat of verzadigd is met water. (EU-RED) – als referentie voor koolstofschuldcriterium.   
 
 ### Bijlage  5  
 

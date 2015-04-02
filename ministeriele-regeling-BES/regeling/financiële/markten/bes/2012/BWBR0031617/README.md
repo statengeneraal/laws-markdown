@@ -3,7 +3,7 @@
 ##Regeling houdende nadere regels ter uitvoering van de Wet financiële markten BES en het Besluit financiële markten BES (Regeling financiële markten BES 2012)
 
 De Minister van Financiën;  
-Gelet op de [artikelen 1:10, derde lid](../../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [1:26](../../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [4:19, tweede lid](../../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), en [6:1, eerste lid, van de Wet financiële markten BES](../../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) en de [artikelen 2:17, eerste lid, onderdeel a, en tweede lid, onderdeel a](../../../../../../../AMvB-BES/besluit/financiële/markten/bes/BWBR0031636/README.md), [3:4](../../../../../../../AMvB-BES/besluit/financiële/markten/bes/BWBR0031636/README.md), [3:18, eerste lid](../../../../../../../AMvB-BES/besluit/financiële/markten/bes/BWBR0031636/README.md), [6:3, eerste lid](../../../../../../../AMvB-BES/besluit/financiële/markten/bes/BWBR0031636/README.md), [7:17, zesde lid](../../../../../../../AMvB-BES/besluit/financiële/markten/bes/BWBR0031636/README.md), en [8:1, eerste lid, van het Besluit financiële markten BES](../../../../../../../AMvB-BES/besluit/financiële/markten/bes/BWBR0031636/README.md);
+Gelet op de artikelen 1:10, derde lid, 1:26, 4:19, tweede lid, en 6:1, eerste lid, van de Wet financiële markten BES en de artikelen 2:17, eerste lid, onderdeel a, en tweede lid, onderdeel a, 3:4, 3:18, eerste lid, 6:3, eerste lid, 7:17, zesde lid, en 8:1, eerste lid, van het Besluit financiële markten BES;
 Besluit:     
 ### §  1  
 
@@ -13,13 +13,13 @@ Besluit:
 
 ####(begripsbepalingen)
 
-In deze regeling wordt, tenzij anders bepaald, verstaan onder*besluit* : [Besluit financiële markten BES](../../../../../../../AMvB-BES/besluit/financiële/markten/bes/BWBR0031636/README.md). 
+In deze regeling wordt, tenzij anders bepaald, verstaan onder*besluit* : Besluit financiële markten BES. 
 
 ### Artikel  1:2  
 
 ####(tarieven eenmalige toezichthandelingen)
 
-1.  Voor het in behandeling nemen van een aanvraag van een beschikking op grond van de [wet](../../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) is het ingevolge bijlage 1 toepasselijke tarief verschuldigd.   
+1.  Voor het in behandeling nemen van een aanvraag van een beschikking op grond van de wet is het ingevolge bijlage 1 toepasselijke tarief verschuldigd.   
 2.  De toezichtautoriteit brengt het tarief, bedoeld in het eerste lid, voor zover mogelijk, direct na ontvangst van de aanvraag in rekening.   
 3.  De toezichtautoriteit kan afwijken van de in het eerste lid bedoelde tarieven voor zover toepassing daarvan, gelet op het belang van een reële en rechtvaardige kostendoorberekening, zal leiden tot een onbillijkheid van overwegende aard.  
 
@@ -27,7 +27,7 @@ In deze regeling wordt, tenzij anders bepaald, verstaan onder*besluit* : [Beslui
 
 ####(tarieven doorlopende toezichtkosten)
 
-Ter zake van de kosten, bedoeld in [artikel 1:10, tweede lid, van de wet](../../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), is jaarlijks het ingevolge bijlage 2 toepasselijke tarief verschuldigd. 
+Ter zake van de kosten, bedoeld in artikel 1:10, tweede lid, van de wet, is jaarlijks het ingevolge bijlage 2 toepasselijke tarief verschuldigd. 
 
 ### Artikel  1:4  
 
@@ -43,8 +43,8 @@ b. zij reisbureau of reisorganisatie zijn en de verzekeringen waarin zij bemidde
 
 ####(vrijstelling kredietinstellingen en verzekeraars)
 
-1.  Kredietinstellingen met zetel in het buitenland zijn vrijgesteld van [artikel 5:5, eerste lid, van het besluit](../../../../../../../AMvB-BES/besluit/financiële/markten/bes/BWBR0031636/README.md).   
-2.  Verzekeraars met zetel in het buitenland zijn vrijgesteld van [artikel 5:6, eerste lid, van het besluit](../../../../../../../AMvB-BES/besluit/financiële/markten/bes/BWBR0031636/README.md).  
+1.  Kredietinstellingen met zetel in het buitenland zijn vrijgesteld van artikel 5:5, eerste lid, van het besluit.   
+2.  Verzekeraars met zetel in het buitenland zijn vrijgesteld van artikel 5:6, eerste lid, van het besluit.  
 
 ### Artikel  1:6  
 
@@ -60,14 +60,14 @@ Het is geldtransactiekantoren tevens toegestaan hun zetel te hebben in Nederland
 
 ####(bijkantorengrens kredietinstellingen en verzekeraars)
 
-1.  Het bedrag, bedoeld in [artikel 2:17, eerste lid, onderdeel a, van het besluit](../../../../../../../AMvB-BES/besluit/financiële/markten/bes/BWBR0031636/README.md) wordt vastgesteld op USD 90 miljoen.   
-2.  Het bedrag, bedoeld in [artikel 2:17, tweede lid, onderdeel a, van het besluit](../../../../../../../AMvB-BES/besluit/financiële/markten/bes/BWBR0031636/README.md) wordt vastgesteld op USD 5 miljoen.  
+1.  Het bedrag, bedoeld in artikel 2:17, eerste lid, onderdeel a, van het besluit wordt vastgesteld op USD 90 miljoen.   
+2.  Het bedrag, bedoeld in artikel 2:17, tweede lid, onderdeel a, van het besluit wordt vastgesteld op USD 5 miljoen.  
 
 ### Artikel  2:2  
 
 ####(erkende assurantiediploma’s)
 
-1.  Erkende diploma’s als bedoeld in [artikel 3:4 van het besluit](../../../../../../../AMvB-BES/besluit/financiële/markten/bes/BWBR0031636/README.md) ter zake van bemiddeling in levensverzekeringen onderscheidenlijk het optreden als gevolmachtigd agent met betrekking tot levensverzekeringen zijn: 
+1.  Erkende diploma’s als bedoeld in artikel 3:4 van het besluit ter zake van bemiddeling in levensverzekeringen onderscheidenlijk het optreden als gevolmachtigd agent met betrekking tot levensverzekeringen zijn: 
 
 a. het diploma op grond waarvan de bezitter in het Verenigd Koninkrijk de bevoegdheid heeft verkregen de titel Fellow Chartered Insurance Institute (FCII) te voeren;  
 
@@ -85,18 +85,18 @@ g. het diploma Assurantiebezorger (A), afgegeven door de Stichting Examens Assur
 
 h. het diploma op grond waarvan de bezitter in de Verenigde Staten van Amerika en Canada de bevoegdheid heeft verkregen de titel Chartered Life Insurance Underwriter (CLU) te voeren;  
 
-i. een diploma afgegeven door een exameninstituut dat is erkend door de Minister van Financiën ingevolge [artikel 4:9, derde lid, van de Wet op het financieel toezicht](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), voor zover dit diploma toegang geeft tot de bemiddeling in levensverzekeringen.     
-2.  Erkende diploma’s als bedoeld in [artikel 3:4 van het besluit](../../../../../../../AMvB-BES/besluit/financiële/markten/bes/BWBR0031636/README.md), ter zake van de bemiddeling in schadeverzekeringen respectievelijk het optreden als gevolmachtigd agent met betrekking tot schadeverzekeringen zijn: 
+i. een diploma afgegeven door een exameninstituut dat is erkend door de Minister van Financiën ingevolge artikel 4:9, derde lid, van de Wet op het financieel toezicht, voor zover dit diploma toegang geeft tot de bemiddeling in levensverzekeringen.     
+2.  Erkende diploma’s als bedoeld in artikel 3:4 van het besluit, ter zake van de bemiddeling in schadeverzekeringen respectievelijk het optreden als gevolmachtigd agent met betrekking tot schadeverzekeringen zijn: 
 
 a. de diploma’s, bedoeld in het eerste lid, onderdelen a tot en met g, alsmede het diploma op grond waarvan de bezitter in de Verenigde Staten van Amerika en Canada de bevoegdheid heeft verkregen de titel Chartered Property Casualty Underwriter (CPCU) te voeren;  
 
-b. een diploma afgegeven door een exameninstituut dat is erkend door de Minister van Financiën ingevolge [artikel 4:9, derde lid, van de Wet op het financieel toezicht](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), voor zover dit diploma toegang geeft tot de bemiddeling in schadeverzekeringen.    
+b. een diploma afgegeven door een exameninstituut dat is erkend door de Minister van Financiën ingevolge artikel 4:9, derde lid, van de Wet op het financieel toezicht, voor zover dit diploma toegang geeft tot de bemiddeling in schadeverzekeringen.    
 
 ### Artikel  2:3  
 
 ####(gegevens en bescheiden trustkantoren)
 
-De door een trustkantoor voor de toezichtautoriteit beschikbaar te houden bescheiden en gegevens bedoeld in [artikel 3:18, onderdeel b, van het besluit](../../../../../../../AMvB-BES/besluit/financiële/markten/bes/BWBR0031636/README.md), zijn: 
+De door een trustkantoor voor de toezichtautoriteit beschikbaar te houden bescheiden en gegevens bedoeld in artikel 3:18, onderdeel b, van het besluit, zijn: 
 
 a. de op zijn boekhouding betrekking hebbende boeken, bescheiden en andere informatiedragers;  
 
@@ -130,48 +130,47 @@ n. een actueel overzicht van de formele en feitelijke zeggenschapsstructuur en z
 
 ####(prospectus beleggingsinstellingen)
 
-Het prospectus, bedoeld in [artikel 6:3, eerste lid, van het besluit](../../../../../../../AMvB-BES/besluit/financiële/markten/bes/BWBR0031636/README.md), bevat ten minste de gegevens die zijn opgenomen in bijlage 3. 
+Het prospectus, bedoeld in artikel 6:3, eerste lid, van het besluit, bevat ten minste de gegevens die zijn opgenomen in bijlage 3. 
 
 ### Artikel  2:5  
 
 ####(normbedragen kredietwaardigheidstoets)
 
-De normbedragen en de daarin begrepen woonlasten, bedoeld in [artikel 7:17, zesde lid, van het besluit](../../../../../../../AMvB-BES/besluit/financiële/markten/bes/BWBR0031636/README.md), worden, rekening houdend met de samenstelling van het huishouden van de aanvrager en het openbaar lichaam waar hij woonachtig is, vastgesteld overeenkomstig onderstaande tabel:  
+De normbedragen en de daarin begrepen woonlasten, bedoeld in artikel 7:17, zesde lid, van het besluit, worden, rekening houdend met de samenstelling van het huishouden van de aanvrager en het openbaar lichaam waar hij woonachtig is, vastgesteld overeenkomstig onderstaande tabel:  
 
-| Aantal personen afhankelijk van het inkomen van de aanvrager (incl. aanvrager)  | Normbedrag (USD)  | Standaard woonlasten (USD)  | Bonaire  | Statia  | Saba  | Bonaire  | Statia  | Saba  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| 1 volwassene  | 681  | 732  | 690  | 107  | 115  | 108  |
-| 1 volwassene, 1 kind  | 885  | 951  | 897  | 139  | 149  | 141  |
-| 2 volwassenen  | 1.022  | 1.098  | 1.036  | 160  | 172  | 162  |
-| 1 volwassene, 2 kinderen  | 1.089  | 1.170  | 1.104  | 171  | 184  | 173  |
-| 2 volwassenen, 1 kind  | 1.226  | 1.317  | 1.242  | 193  | 207  | 195  |
-| 3 volwassenen  | 1.362  | 1.463  | 1.380  | 214  | 230  | 217  |
-| 2 volwassenen, 2 kinderen  | 1.430  | 1.537  | 1.449  | 225  | 242  | 228  |
+| Aantal personen afhankelijk van het inkomen van de aanvrager (incl. aanvrager)  | Normbedrag (USD)  | Standaard woonlasten (USD)  |--- | Bonaire  | Statia  | Saba  | Bonaire  | Statia  | Saba  |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| 1 volwassene  | 691  | 751  | 704  | 109  | 118  | 111  |
+| 1 volwassene, 1 kind  | 898  | 976  | 915  | 141  | 153  | 144  |
+| 2 volwassenen  | 1.037  | 1.126  | 1.056  | 162  | 176  | 165  |
+| 1 volwassene, 2 kinderen  | 1.105  | 1.201  | 1.126  | 173  | 188  | 177  |
+| 2 volwassenen, 1 kind  | 1.244  | 1.351  | 1.267  | 196  | 213  | 199  |
+| 3 volwassenen  | 1.382  | 1.501  | 1.407  | 217  | 236  | 221  |
+| 2 volwassenen, 2 kinderen  | 1.451  | 1.576  | 1.478  | 228  | 248  | 232  |
 
 ### Artikel  2:5a  
 
-####(maximale kredietvergoeding)
-
-De ten hoogste toegelaten kredietvergoeding, bedoeld in [artikel 7:20, eerste lid, van het besluit](../../../../../../../AMvB-BES/besluit/financiële/markten/bes/BWBR0031636/README.md), bedraagt 24 procent op jaarbasis. 
+1.  De ten hoogste toegelaten kredietvergoeding, bedoeld in artikel 7:20, eerste lid, van het besluit, bedraagt 23 procent op jaarbasis.   
+2.  Het eerste lid is niet van toepassing op kredietovereenkomsten met een vaste kredietvergoeding die zijn afgesloten voor 1 april 2015. Voor kredietovereenkomsten met een vaste kredietvergoeding, afgesloten tussen 1 januari 2013 en 1 april 2015, bedraagt de ten hoogste toegelaten kredietvergoeding 24 procent op jaarbasis.  
 
 ### Artikel  2:5b  
 
 ####(maximale vertragingsvergoeding)
 
-De ten hoogste toegelaten vertragingsvergoeding, bedoeld in [artikel 7:21 van het besluit](../../../../../../../AMvB-BES/besluit/financiële/markten/bes/BWBR0031636/README.md), wordt op dagbasis berekend. De ten hoogste toegelaten vertragingsvergoeding per dag wordt als volgt berekend: ![251504](http://wetten.overheid.nl/Illustration/251504)
+De ten hoogste toegelaten vertragingsvergoeding, bedoeld in artikel 7:21 van het besluit, wordt op dagbasis berekend. De ten hoogste toegelaten vertragingsvergoeding per dag wordt als volgt berekend: ![251504](http://wetten.overheid.nl/Illustration/251504)
 In deze formule is: VV<sub>d</sub>: de ten hoogste toegelaten vertragingsvergoeding over dag d; A<sub>d</sub>: het bedrag in de betaling waarvan de kredietnemer aan het begin van dag d achterstallig is dan wel, indien het een doorlopende krediettransactie met variabele kredietvergoeding betreft, het deel van het uitstaand saldo dat op dag d de kredietlimiet te boven gaat als gevolg van achterstallige betalingen; r: het honderdste deel van het in het kader van de krediettransactie overeengekomen effectieve kredietvergoedingspercentage op jaarbasis; q: het aantal dagen van de maand waarvan dag d deel uitmaakt. 
 
 ### Artikel  2:6  
 
 ####(prospectus bij aanbieden effecten)
 
-Het prospectus, bedoeld in [artikel 8:1, eerste lid, van het besluit](../../../../../../../AMvB-BES/besluit/financiële/markten/bes/BWBR0031636/README.md), bevat ten minste de gegevens die zijn opgenomen in bijlage 4. 
+Het prospectus, bedoeld in artikel 8:1, eerste lid, van het besluit, bevat ten minste de gegevens die zijn opgenomen in bijlage 4. 
 
 ### Artikel  2:7  
 
 ####(erkende effectenbeurzen)
 
-Erkende effectenbeurzen als bedoeld in [artikel 6:1 van de wet](../../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), zijn de beurzen van: 
+Erkende effectenbeurzen als bedoeld in artikel 6:1 van de wet, zijn de beurzen van: 
 
 a. Amsterdam, New York en Parijs, gehouden door NYSE Euronext;  
 
@@ -322,7 +321,7 @@ Een instelling beschikt over procedures en maatregelen die waarborgen dat zij op
 ####(nieuwe categorieën financiële ondernemingen)
 
 1.  Degene die reeds op 31 mei 2012 in de openbare lichamen het bedrijf van elektronischgeldinstelling uitoefende, optrad als adviseur, als bemiddelaar in andere financiële producten dan verzekeringen, of als vermogensbeheerder, dan wel krediet aanbood anders dan als kredietinstelling of verzekeraar, is tot en met 31 december 2012 vrijgesteld van de eisen die ingevolge de wet aan de uitoefening van het bedrijf van elektronischgeldinstelling, het optreden als adviseur, bemiddelaar of vermogensbeheerder, onderscheidenlijk het aanbieden van krediet worden gesteld.   
-2.  In geval de betrokken financiële onderneming voor 1 oktober 2012 een aanvraag voor een vergunning tot uitoefening van het bedrijf van elektronischgeldinstelling, om op te treden als adviseur, bemiddelaar of vermogensbeheerder dan wel om krediet aan te bieden heeft ingediend die voldoet aan de bij of krachtens [artikel 2:6 van de wet](../../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) aan de aanvraag gestelde eisen, geldt in afwijking van het eerste lid de in dat lid bedoelde vrijstelling tot en met de dag waarop de vergunning wordt verleend, dan wel tot en met de eerste dag van de derde kalendermaand na het tijdstip van afwijzing van de aanvraag. Indien de betrokken financiële onderneming niet voor 1 oktober 2012 een aanvraag voor een vergunning heeft ingediend die voldoet aan het ingevolge artikel 2:6 van de wet bepaalde, vervalt de vrijstelling met ingang van die datum. Voor die afwikkeling kan de bevoegde autoriteit een termijn stellen of een aanwijzing geven.  
+2.  In geval de betrokken financiële onderneming voor 1 oktober 2012 een aanvraag voor een vergunning tot uitoefening van het bedrijf van elektronischgeldinstelling, om op te treden als adviseur, bemiddelaar of vermogensbeheerder dan wel om krediet aan te bieden heeft ingediend die voldoet aan de bij of krachtens artikel 2:6 van de wet aan de aanvraag gestelde eisen, geldt in afwijking van het eerste lid de in dat lid bedoelde vrijstelling tot en met de dag waarop de vergunning wordt verleend, dan wel tot en met de eerste dag van de derde kalendermaand na het tijdstip van afwijzing van de aanvraag. Indien de betrokken financiële onderneming niet voor 1 oktober 2012 een aanvraag voor een vergunning heeft ingediend die voldoet aan het ingevolge artikel 2:6 van de wet bepaalde, vervalt de vrijstelling met ingang van die datum. Voor die afwikkeling kan de bevoegde autoriteit een termijn stellen of een aanwijzing geven.  
 
 ### Artikel  4:2  
 
@@ -352,11 +351,11 @@ Bijlage als bedoeld in artikel 1:2
 | Code  | Omschrijving  | Artikel van de wet  | Tarief  |
 |:---|:---|:---|:---|
 |  *Ontheffing*   |
-| D1.01  | Voor een financiële onderneming, zijnde een rechtspersoon   | [Artikel 1:27](../../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md)  | USD 2.000  |
+| D1.01  | Voor een financiële onderneming, zijnde een rechtspersoon   | Artikel 1:27  | USD 2.000  |
 | D1.02  | Voor een financiële onderneming, zijnde een natuurlijk persoon  | Artikel 1:27  | USD 500  |
 | D1.03  | Voor een aanvrager, niet zijnde een financiële onderneming  | Artikel 1:27  | USD 500  |
 |  *Vergunning*   |
-| D2.01  | Uitoefenen van het bedrijf van kredietinstelling met zetel in een openbaar lichamen   | [Artikel 2:1, eerste lid, onderdeel a, onder 1°](../../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md)  | USD 10.000  |
+| D2.01  | Uitoefenen van het bedrijf van kredietinstelling met zetel in een openbaar lichamen   | Artikel 2:1, eerste lid, onderdeel a, onder 1°  | USD 10.000  |
 | D2.02  | Uitoefenen van het bedrijf van kredietinstelling met zetel in het buitenland   | Artikel 2:1, eerste lid, onderdeel a, onder 1°  | USD 5.000  |
 | D2.03  | Uitoefenen van het bedrijf van elektronischgeldinstelling met zetel in een openbaar lichaam  | Artikel 2:1, eerste lid, onderdeel a, onder 1°  | USD 2.000  |
 | D2.04  | Uitoefenen van het bedrijf van elektronischgeldinstelling met zetel in het buitenland  | Artikel 2:1, eerste lid, onderdeel a, onder 1°  | USD 1.000  |
@@ -368,9 +367,9 @@ Bijlage als bedoeld in artikel 1:2
 | D2.10  | Uitoefenen van het bedrijf van levensverzekeraar of schadeverzekeraar vanuit een in een openbaar lichaam gelegen bijkantoor  | Artikel 2:1, eerste lid, onderdeel b  | USD 4.000  |
 | D2.11  | Uitoefenen van het bedrijf van natura-uitvaartverzekeraar met zetel in een openbaar lichaam  | Artikel 2:1, eerste lid, onderdeel b  | USD 2.000  |
 | D2.12  | Uitoefenen van het bedrijf van natura-uitvaartverzekeraar vanuit een in een openbaar lichaam gelegen bijkantoor  | Artikel 2:1, eerste lid, onderdeel b  | USD 1.000  |
-| D2.13  | Een groepsvergunning voor trustkantoren   | [Artikel 2:2, eerste lid](../../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md)  | USD 5.000  |
+| D2.13  | Een groepsvergunning voor trustkantoren   | Artikel 2:2, eerste lid  | USD 5.000  |
 |  *Wijziging van een vergunning*   |
-| D3.01  | Kredietinstelling met zetel in een openbaar lichamen   | [Artikel 2:14](../../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md)   | USD 5.000  |
+| D3.01  | Kredietinstelling met zetel in een openbaar lichamen   | Artikel 2:14   | USD 5.000  |
 | D3.02  | Kredietinstellingen met zetel in het buitenland   | Artikel 2:14  | USD 2.500  |
 | D3.03  | Elektronischgeldinstelling met zetel in een openbaar lichaam  | Artikel 2:14  | USD 1.000  |
 | D3.04  | Elektronischgeldinstelling met zetel in het buitenland  | Artikel 2:14  | USD 500  |
@@ -384,25 +383,25 @@ Bijlage als bedoeld in artikel 1:2
 | D3.12  | Natura-uitvaartverzekeraar die vanuit een bijkantoor in een openbaar lichaam opereert   | Artikel 2:14  | USD 500  |
 | D3.13  | Trustkantoren in een groep  | Artikel 2:14  | USD 2.500  |
 |  *Notificatie*   |
-| D4.01  | Inkomende dienstverrichting verzekeraars  | [Artikel 2:23, tweede lid](../../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md)  | USD 1.000  |
+| D4.01  | Inkomende dienstverrichting verzekeraars  | Artikel 2:23, tweede lid  | USD 1.000  |
 | D4.02  | Wijziging inkomende dienstverrichting verzekeraars  | Artikel 2:23, tweede lid  | USD 500  |
 | Beoordeling van een persoon op betrouwbaarheid en geschiktheid  |
-| D5.01  | Toetsing van de betrouwbaarheid en geschiktheid van een persoon, anders dan bij aanvraag van een vergunning of in het kader van periodieke hertoetsing   | [Artikelen 3:4](../../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) en [3:5](../../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md)  | USD 500  |
-| D5.02  | Toetsing van de betrouwbaarheid van een persoon als bedoeld in [artikel 3:29 van de wet](../../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md)  | [Artikel 3:29](../../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md)  | USD 500  |
+| D5.01  | Toetsing van de betrouwbaarheid en geschiktheid van een persoon, anders dan bij aanvraag van een vergunning of in het kader van periodieke hertoetsing   | Artikelen 3:4 en 3:5  | USD 500  |
+| D5.02  | Toetsing van de betrouwbaarheid van een persoon als bedoeld in artikel 3:29 van de wet  | Artikel 3:29  | USD 500  |
 | Verklaring van geen bezwaar  |
-| D6.01  | Verklaring van geen bezwaar voor een gekwalificeerde deelneming  | [Artikel 3:28](../../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md)  | USD 2.000  |
-| D6.02  | Verklaring van geen bezwaar voor vvgb-plichtige handelingen van een kredietinstelling  | [Artikel 4:23](../../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md)  | USD 2.000  |
+| D6.01  | Verklaring van geen bezwaar voor een gekwalificeerde deelneming  | Artikel 3:28  | USD 2.000  |
+| D6.02  | Verklaring van geen bezwaar voor vvgb-plichtige handelingen van een kredietinstelling  | Artikel 4:23  | USD 2.000  |
 
 ####Toezichtautoriteit: AFM
 
 | Code  | Omschrijving  | Artikel van de wet  | Tarief  |
 |:---|:---|:---|:---|
 |  *Ontheffing*   |
-| A1.01  | Voor een financiële ondernemingen zijnde een rechtspersoon   | [Artikel 1:27](../../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md)  | USD 1.000  |
+| A1.01  | Voor een financiële ondernemingen zijnde een rechtspersoon   | Artikel 1:27  | USD 1.000  |
 | A1.02  | Voor een financiële onderneming, zijnde een natuurlijk persoon  | Artikel 1:27  | USD 500  |
 | A1.03  | Voor een aanvrager, niet zijnde een financiële onderneming  | Artikel 1:27  | USD 500  |
 |  *Vergunning*   |
-| A2.01  | Optreden als adviseur  | [Artikel 2:3, eerste lid, onderdeel a](../../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md),  | USD 250  |
+| A2.01  | Optreden als adviseur  | Artikel 2:3, eerste lid, onderdeel a,  | USD 250  |
 | A2.02  | Optreden als bemiddelaar, niet zijnde een bemiddelaar als bedoeld in A2.04, indien de aanvrager een natuurlijk persoon is  | Artikel 2:3, eerste lid, onderdeel a  | USD 250  |
 | A2.03  | Optreden als bemiddelaar, niet zijnde een bemiddelaar als bedoeld in A2.04, indien de aanvrager een rechtspersoon is  | Artikel 2:3, eerste lid, onderdeel a  | USD 500  |
 | A2.04  | Optreden als bemiddelaar in effecten, niet zijnde een bemiddelaar in effecten als bedoeld in artikel 4:21, tweede lid, van het besluit  | Artikel 2:3, eerste lid, onderdeel a  | USD 2.000  |
@@ -413,7 +412,7 @@ Bijlage als bedoeld in artikel 1:2
 | A2.09  | Houden van een effectenbeurs  | Artikel 2:3, eerste lid, onderdeel d  | USD 10.000  |
 | A2.10  | Werkzaam zijn als beleggingsinstelling  | Artikel 2:3, tweede lid  | USD 2.000  |
 |  *Wijziging van een vergunning*   |
-| A3.01  | Adviseur  | [Artikel 2:14](../../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md)  | USD 250  |
+| A3.01  | Adviseur  | Artikel 2:14  | USD 250  |
 | A3.02  | Natuurlijk persoon die optreedt als bemiddelaar, niet zijnde een bemiddelaar in effecten als bedoeld in onderdeel A3.04   | Artikel 2:14  | USD 250  |
 | A3.03  | Rechtspersoon die optreedt als bemiddelaar, niet zijnde een bemiddelaar in effecten als bedoeld in onderdeel A3.04   | Artikel 2:14  | USD 500  |
 | A3.04  | Bemiddelaar in effecten, niet zijnde een bemiddelaar in effecten als bedoeld in artikel 4:21, tweede lid, van het besluit   | Artikel 2:14  | USD 1.000  |
@@ -424,9 +423,9 @@ Bijlage als bedoeld in artikel 1:2
 | A3.09  | Houder van een effectenbeurs  | Artikel 2:14  | USD 5.000  |
 | A3.10  | Beleggingsinstelling  | Artikel 2:14  | USD 1.000  |
 |  *Beoordeling van een persoon op betrouwbaarheid en geschiktheid*   |
-| A4.01  | Toetsing van de betrouwbaarheid en geschiktheid van een persoon, anders dan bij aanvraag van een vergunning of in het kader van periodieke hertoetsing   | [Artikelen 3:4](../../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) en [3:5](../../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md)  | USD 500  |
+| A4.01  | Toetsing van de betrouwbaarheid en geschiktheid van een persoon, anders dan bij aanvraag van een vergunning of in het kader van periodieke hertoetsing   | Artikelen 3:4 en 3:5  | USD 500  |
 |  *Goedkeuring prospectus*   |
-| A5.01  | Behandeling van de aanvraag voor goedkeuring van een prospectus, respectievelijk van een aanvullend document als bedoeld in artikel 8:3 van het besluit  | [Artikel 5:20, eerste lid](../../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md)  | USD 1.000  |
+| A5.01  | Behandeling van de aanvraag voor goedkeuring van een prospectus, respectievelijk van een aanvullend document als bedoeld in artikel 8:3 van het besluit  | Artikel 5:20, eerste lid  | USD 1.000  |
 
 ### Bijlage  2  
 
@@ -438,7 +437,7 @@ Bijlage als bedoeld in artikel 1:3
 
 | Toezichtcategorie  | Wetsverwijzing  | Tarief per jaar  |
 |:---|:---|:---|
-| Kredietinstelling met zetel in een openbaar lichaam   | [Artikel 2:1, eerste lid, onderdeel a, onder 1°](../../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md)  | USD 1.000 voor elk heel veelvoud van USD 5 miljoen aan aangehouden betaalrekeningen, spaartegoeden en deposito’s per ultimo van het laatst afgesloten boekjaar, met een minimum van USD 2.000 en een maximum van USD 25.000.   |
+| Kredietinstelling met zetel in een openbaar lichaam   | Artikel 2:1, eerste lid, onderdeel a, onder 1°  | USD 1.000 voor elk heel veelvoud van USD 5 miljoen aan aangehouden betaalrekeningen, spaartegoeden en deposito’s per ultimo van het laatst afgesloten boekjaar, met een minimum van USD 2.000 en een maximum van USD 25.000.   |
 | Kredietinstelling met zetel in het buitenland  | Artikel 2:1, eerste lid, onderdeel a, onder 1°  | USD 500 voor elk heel veelvoud van USD 5 miljoen aan aangehouden betaalrekeningen, spaartegoeden en deposito’s per ultimo van het laatst afgesloten boekjaar, met een minimum van USD 1.000.  |
 | Elektronischgeldinstelling met zetel in een openbaar lichaam  | Artikel 2:1, eerste lid, onderdeel a, onder 1°  | USD 1.000  |
 | Elektronischgeldinstelling met zetel in het buitenland  | Artikel 2:1, eerste lid, onderdeel a, onder 1°  | USD 500  |
@@ -450,15 +449,15 @@ Bijlage als bedoeld in artikel 1:3
 | Levensverzekeraar of schadeverzekeraar vanuit een in een openbaar lichaam gelegen bijkantoor  | Artikel 2:1, eerste lid, onderdeel b  | USD 500 voor elk heel veelvoud van USD 250.000 aan ontvangen bruto premies over het laatst afgesloten boekjaar, met een minimum van USD 1.000.  |
 | Natura-uitvaartverzekeraar met zetel in een openbaar lichaam  | Artikel 2:1, eerste lid, onderdeel b  | USD 1.000  |
 | Natura-uitvaartverzekeraar vanuit een in een openbaar lichaam gelegen bijkantoor  | Artikel 2:1, eerste lid, onderdeel b  | USD 500  |
-| Trustkantoren die opereren in een groep  | [Artikel 2:2](../../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md)  | USD 1.500  |
+| Trustkantoren die opereren in een groep  | Artikel 2:2  | USD 1.500  |
 
 ####Toezichtautoriteit: AFM
 
 | Toezichtcategorie  | Wetsverwijzing  | Tarief per jaar  |
 |:---|:---|:---|
-| Adviseur  | [Artikel 2:3, eerste lid, onderdeel a](../../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md)  | USD 250  |
+| Adviseur  | Artikel 2:3, eerste lid, onderdeel a  | USD 250  |
 | Bemiddelaar als bedoeld in bijlage 1 , code A3.02  | Artikel 2:3, eerste lid, onderdeel a  | USD 250  |
-| Bemiddelaar als bedoeld in bijlage 1, code A3.03  | Artikel 2:3, eerste lid, onderdeel a  | USD 500  |
+| Bemiddelaar als bedoeld in bijlage 1, code A3.03  | Artikel 2:3, eerste lid, onderdeel a  | USD 250  |
 | Bemiddelaar in effecten als bedoeld in bijlage 1, code A3.04  | Artikel 2:3, eerste lid, onderdeel a | USD 1.000  |
 | Gevolmachtigde of ondergevolmachtigde agent  | Artikel 2:3, eerste lid, onderdeel a | USD 250  |
 | Vermogensbeheerder  | Artikel 2:3, eerste lid, onderdeel b | USD 1.000  |
@@ -529,7 +528,7 @@ Bijlage als bedoeld in artikel 2:19
 
 3.13. In voorkomend geval, de beurzen of markten waar de deelnemingsrechten tot de notering zijn toegelaten of worden verhandeld.  
 
-3.14. Datum waarop de jaarrekening en de halfjaarcijfers van de instelling op grond van haar voorwaarden of ingevolge de [wet](../../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) moeten zijn afgesloten alsmede de plaatsen waar deze stukken ter inzage liggen.  
+3.14. Datum waarop de jaarrekening en de halfjaarcijfers van de instelling op grond van haar voorwaarden of ingevolge de wet moeten zijn afgesloten alsmede de plaatsen waar deze stukken ter inzage liggen.  
 
 3.15. Beschrijving van de voorschriften waaraan de winstbepaling en -bestemming is onderworpen, alsmede van de wijze waarop en de frequentie waarmee winstuitkering zal geschieden.  
 
@@ -559,7 +558,7 @@ Bijlage als bedoeld in artikel 2:19
 
 4.3. Indien de beheerder een naar het recht van de openbare lichamen, Curaçao of Sint Maarten opgerichte naamloze of besloten vennootschap is, het nummer van inschrijving in het handelsregister en de plaats van inschrijving.  
 
-4.4. De datum waarop de jaarrekening van de beheerder op grond van zijn statuten of de [wet](../../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) moet zijn afgesloten.  
+4.4. De datum waarop de jaarrekening van de beheerder op grond van zijn statuten of de wet moet zijn afgesloten.  
 
 4.5. Een letterlijke weergave, of een gedegen samenvatting, van de geldende tekst van de statuten van de beheerder, alsmede vermelding van de plaatsen waar deze stukken, voor zover deze niet bij het prospectus zijn gevoegd, en de verslagen of jaarrekeningen van de beheerder ter inzage liggen en verkrijgbaar zijn.  
 
@@ -579,7 +578,7 @@ Bijlage als bedoeld in artikel 2:19
 
 5.5. De voornaamste werkzaamheden van de in rubriek 5.4 genoemde personen buiten de functie(s) die zij bij de bewaarder vervullen voor zover deze activiteiten verband houden met de werkzaamheden van de bewaarder of van de beleggingsinstelling waaraan de bewaarder is verbonden.  
 
-5.6. De datum waarop de jaarrekening van de bewaarder op grond van zijn statuten of ingevolge de [wet](../../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) moet zijn afgesloten.  
+5.6. De datum waarop de jaarrekening van de bewaarder op grond van zijn statuten of ingevolge de wet moet zijn afgesloten.  
 
 5.7. Een letterlijke weergave, of een gedegen samenvatting, van de geldende tekst van de statuten van de bewaarder, alsmede vermelding van de plaatsen waar deze stukken, voor zover deze niet bij het prospectus zijn gevoegd, en de verslagen of jaarrekeningen van de bewaarder ter inzage liggen en verkrijgbaar zijn.    
 

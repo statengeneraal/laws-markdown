@@ -172,31 +172,23 @@ i. de beschikkingen van de Minister van Economische Zaken van 18 april 1998 met
 
 Als mobiliteitsprojecten in het kader van het project Anders betalen voor mobiliteit of het programma Beter Benutten als bedoeld in artikel 3.13, eerste lid, onderdeel i, van de wet worden aangewezen: 
 
-a. Spitsmijden A15 als bedoeld in het Uitvoeringsconvenant Spitsmijden A15 (Stcrt. 2009, 14);  
+a. Mobiliteitsprojecten SLIM Prijzen en SLIM Prijzen Waalbrug als bedoeld in het Uitvoeringsconvenant Mobiliteitsprojecten SLIM Prijzen en SLIM Prijzen Waalbrug (Stcrt. 2009, 18102);  
 
-b. Mobiliteitsprojecten SLIM Prijzen en SLIM Prijzen Waalbrug als bedoeld in het Uitvoeringsconvenant Mobiliteitsprojecten SLIM Prijzen en SLIM Prijzen Waalbrug (Stcrt. 2009, 18102);  
+b. Mobiliteitsproject Spitsmijden A12-corridor (Stcrt. 2011, 19634);  
 
-c. Mobiliteitproject Beloningsmaatregel Utrecht Oost als bedoeld in het Uitvoeringsconvenant Mobiliteitsproject Beloningsmaatregel Utrecht Oost (Stcrt. 2009, 18120);  
+c. Pedelec (Stcrt. 2013, 34274);  
 
-d. Mobiliteitsproject Spitsmijden A12-corridor (Stcrt. 2011, 19634); 
+d. B-riders (Stcrt. 2013, 34274);  
 
-e. Twentse E-fiets actie 2013 (Stcrt. 2013, 34274);  
+e. Fietsimpuls Maastricht-beloningsysteem voor Forensen (Stcrt. 2013, 34274);  
 
-f. Pedelec (Stcrt. 2013, 34274);  
+f. Stimulering E-Bike (Stcrt. 2013, 34274); 
 
-g. B-riders (Stcrt. 2013, 34274);  
+g. Mobiliteitsproject Spitsmijden Personen op Ruit Rotterdam (Stcrt. 2014, 9406);  
 
-h. Fietsimpuls Maastricht-beloningsysteem voor Forensen (Stcrt. 2013, 34274);  
+h. Mobiliteitsproject Spitsmijden Algeracorridor (regio Rotterdam) (Stcrt. 2014, 9406); 
 
-i. Stimulering E-Bike (Stcrt. 2013, 34274); 
-
-j. Mobiliteitsproject Spitsmijden Personen op Ruit Rotterdam (Stcrt. 2014, 9406);  
-
-k. Mobiliteitsproject Spitsmijden Algeracorridor (regio Rotterdam) (Stcrt. 2014, 9406); 
-
-l. Fietsactie 2014-2015 Regio Groningen-Assen (Stcrt. 2014, 22226);  
-
-m. Fietsactie 2014 Regio Twente (Stcrt. 2014, 22226).  
+i. Fietsactie 2014-2015 Regio Groningen-Assen (Stcrt. 2014, 22226).   
 
 ### Artikel  7  
 

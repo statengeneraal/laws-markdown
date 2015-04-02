@@ -3,7 +3,7 @@
 ##Besluit van de Sociaal-Economische Raad van 6 februari 2009, houdende machtiging aan het dagelijks bestuur en enkele commissies (Algemeen machtigingsbesluit SER)
 
 De Sociaal-Economische Raad;  
-Gelet op [artikel 44 van de Wet op de bedrijfsorganisatie](../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [artikel 10:3, eerste lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);
+Gelet op artikel 44 van de Wet op de bedrijfsorganisatie en artikel 10:3, eerste lid, van de Algemene wet bestuursrecht;
 Besluit:    
 ###§ 1 
 
@@ -15,7 +15,7 @@ In dit besluit wordt verstaan onder:
 
 a.Raad: Sociaal-Economische Raad; 
 
-b. wet: [Wet op de bedrijfsorganisatie](../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md). 
+b. wet: Wet op de bedrijfsorganisatie. 
 
 ###§ 2 
 
@@ -24,7 +24,7 @@ b. wet: [Wet op de bedrijfsorganisatie](../../../../../wet/wet/op/de/bedrijfsorg
 ###Artikel 2 
 
 1. Het dagelijks bestuur is gemachtigd namens de Raad te besluiten over de toewijzing van de behandeling van adviesaanvragen aan commissies. 
-2. Het dagelijks bestuur is gemachtigd om bij de toewijzing van de behandeling van een adviesaanvraag aan een commissie te bepalen dat de commissie op grond van [artikel 44 van de wet](../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) namens de Raad van advies dient. 
+2. Het dagelijks bestuur is gemachtigd om bij de toewijzing van de behandeling van een adviesaanvraag aan een commissie te bepalen dat de commissie op grond van artikel 44 van de wet namens de Raad van advies dient. 
 3. Het dagelijks bestuur informeert de Raad regelmatig over de gebruikmaking van de bevoegdheden in het eerste en tweede lid van dit artikel. 
 
 ###Artikel 2a 
@@ -39,7 +39,7 @@ b. wet: [Wet op de bedrijfsorganisatie](../../../../../wet/wet/op/de/bedrijfsorg
 
 ###Artikel 2c 
 
-1. Het dagelijks bestuur wijst, ten behoeve van de controle van de jaarrekening en de daarop betrekking hebbende boeken en bescheiden, namens de Raad een accountant aan, als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).
+1. Het dagelijks bestuur wijst, ten behoeve van de controle van de jaarrekening en de daarop betrekking hebbende boeken en bescheiden, namens de Raad een accountant aan, als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek.
 2. Het dagelijks bestuur verstrekt namens de Raad jaarlijks voor 1 juli een raming van de inkomsten en uitgaven van de Raad in het volgende begrotingsjaar aan de Minister van Sociale Zaken en Werkgelegenheid.
 
 ###Artikel 3 
@@ -48,13 +48,13 @@ Het dagelijks bestuur is gemachtigd namens de Raad voordrachten te doen voor ben
 
 ###Artikel 4 
 
-1. De Pensioencommissie is gemachtigd namens de Raad van advies te dienen over de verplichtstelling van beroepspensioenregelingen ingevolge de [Wet verplichte beroepspensioenregeling](../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md). 
+1. De Pensioencommissie is gemachtigd namens de Raad van advies te dienen over de verplichtstelling van beroepspensioenregelingen ingevolge de Wet verplichte beroepspensioenregeling. 
 2. De in het eerste lid bedoelde adviezen van de Pensioencommissie worden voorbereid door haar Subcommissie Verplichtstelling Beroepspensioenregelingen. 
 3. De Pensioencommissie kan de Subcommissie Verplichtstelling Beroepspensioenregelingen machtigen namens haar de adviezen uit te brengen. 
 
 ###Artikel 5 
 
-1. De Commissie Arbeids- en Ondernemingsrecht is gemachtigd namens de Raad van advies te dienen over verzoeken om ontheffing als bedoeld in de [artikelen 63d, tweede lid](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [156](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en [266 van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md). 
+1. De Commissie Arbeids- en Ondernemingsrecht is gemachtigd namens de Raad van advies te dienen over verzoeken om ontheffing als bedoeld in de artikelen 63d, tweede lid, 156 en 266 van Boek 2 van het Burgerlijk Wetboek. 
 2. De in het eerste lid bedoelde adviezen van de Commissie Arbeids- en Ondernemingsrecht worden voorbereid door haar Subcommissie Ontheffingen Structuurwet. 
 3. De Commissie Arbeids- en Ondernemingsrecht kan de Subcommissie Ontheffingen Structuurwet machtigen namens haar de adviezen uit te brengen. 
 
@@ -72,7 +72,7 @@ Het Algemeen machtigingsbesluit adviezen wordt ingetrokken.
 
 ###Artikel 8 
 
-Het [Machtigingsbesluit dagelijks bestuur](../../../../../pbo/machtigingsbesluit/dagelijks/bestuur/BWBR0010409/README.md) wordt ingetrokken. 
+Het Machtigingsbesluit dagelijks bestuur wordt ingetrokken. 
 
 ###Artikel 9 
 

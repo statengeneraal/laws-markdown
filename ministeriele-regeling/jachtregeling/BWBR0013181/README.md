@@ -3,9 +3,9 @@
 ##Jachtregeling
 
 De Staatssecretaris van Landbouw, Natuurbeheer en Visserij,  
-Gelet op de [artikelen 40, tweede lid](../../../wet/flora-/en/faunawet/BWBR0009640/README.md), [46, eerste lid](../../../wet/flora-/en/faunawet/BWBR0009640/README.md), [59, eerste lid](../../../wet/flora-/en/faunawet/BWBR0009640/README.md), en [94, eerste lid, van de Flora- en faunawet](../../../wet/flora-/en/faunawet/BWBR0009640/README.md);
+Gelet op de artikelen 40, tweede lid, 46, eerste lid, 59, eerste lid, en 94, eerste lid, van de Flora- en faunawet;
 
-Gelet op de [artikelen 7, eerste lid](../../../AMvB/jachtbesluit/BWBR0011848/README.md), en [8, vierde lid, van het Jachtbesluit](../../../AMvB/jachtbesluit/BWBR0011848/README.md);
+Gelet op de artikelen 7, eerste lid, en 8, vierde lid, van het Jachtbesluit;
 Besluit:     
 ### § 1 
 
@@ -13,24 +13,35 @@ Besluit:
 
 ### Artikel  1  
 
-1.  Een jachtakte wordt aangevraagd op een kosteloos bij het bevoegde bestuursorgaan, bedoeld in [artikel 42, eerste lid, van de Flora- en faunawet](../../../wet/flora-/en/faunawet/BWBR0009640/README.md), verkrijgbaar formulier, waarvan het model door de Minister van Landbouw, Natuur en Voedselkwaliteit wordt vastgesteld.   
-2.  Een valkeniersakte of kooikersakte wordt aangevraagd op een kosteloos bij het bevoegde bestuursorgaan, bedoeld in [artikel 43 van de Flora- en faunawet](../../../wet/flora-/en/faunawet/BWBR0009640/README.md), verkrijgbaar formulier, waarvan het model door de Minister van Landbouw, Natuur en Voedselkwaliteit wordt vastgesteld.   
+1.  Een jachtakte wordt aangevraagd op een kosteloos bij het bevoegde bestuursorgaan, bedoeld in artikel 42, eerste lid, van de Flora- en faunawet, verkrijgbaar formulier, waarvan het model door de Minister van Landbouw, Natuur en Voedselkwaliteit wordt vastgesteld.   
+2.  Een valkeniersakte of kooikersakte wordt aangevraagd op een kosteloos bij het bevoegde bestuursorgaan, bedoeld in artikel 43 van de Flora- en faunawet, verkrijgbaar formulier, waarvan het model door de Minister van Landbouw, Natuur en Voedselkwaliteit wordt vastgesteld.   
 3.  Een aanvraag gaat vergezeld van twee goed gelijkende pasfoto's van degene voor wie de akte bestemd is.   
 4.  De uit te reiken jachtakte, bedoeld in het eerste lid, wordt door het bevoegde bestuursorgaan voorzien van de pasfoto van degene voor wie de akte is bestemd. Deze foto wordt door middel van een stempelafdruk gewaarmerkt.  
 
 ### Artikel  2  
 
-De aanvraag voor een akte als bedoeld in [artikel 45 van de Flora- en faunawet](../../../wet/flora-/en/faunawet/BWBR0009640/README.md), kan namens de persoon voor wie de akte bestemd is, worden ingediend en ondertekend door een jachthouder, die hem voor de jacht heeft uitgenodigd. 
+De aanvraag voor een akte als bedoeld in artikel 45 van de Flora- en faunawet, kan namens de persoon voor wie de akte bestemd is, worden ingediend en ondertekend door een jachthouder, die hem voor de jacht heeft uitgenodigd. 
 
 ### Artikel  3  
 
 1.  Uitreiking van een jacht-, valkeniers- of kooikersakte vindt niet plaats voordat de som der bedragen, bedoeld in het tweede tot en met vijfde lid, aan het bevoegde bestuursorgaan is voldaan.   
-2.  De bijdrage ter dekking van de kosten van de uitgifte van de akte, bedoeld in [artikel 8, derde lid, van het Jachtbesluit](../../../AMvB/jachtbesluit/BWBR0011848/README.md), bedraagt: € 40,– voor de jachtakte en € 45,– voor een valkeniersakte of kooikersakte.   
-3.  De algemene bijdrage in de kosten van onderzoek en voorlichting op het gebied van jacht, beheer en schadebestrijding, bedoeld in [artikel 8, derde lid, van het Jachtbesluit](../../../AMvB/jachtbesluit/BWBR0011848/README.md), bedraagt: € 18,-.   
-4.  De bijdrage ten behoeve van het Faunafonds, bedoeld in [artikel 94 van de Flora- en faunawet](../../../wet/flora-/en/faunawet/BWBR0009640/README.md), bedraagt: € 27,-.   
+2.  De bijdrage ter dekking van de kosten, bedoeld in artikel 8, derde lid, van het Jachtbesluit bedraagt voor: 
+
+a. de uitgifte van een jachtakte: € 65,–;  
+
+b. het verlengen van de geldigheidsduur van een jachtakte: € 30,–;  
+
+c. het wijzigen van een jachtakte: € 15,–;  
+
+d. het vervangen als gevolg van verlies van een jachtakte: € 15,–;  
+
+e. de uitgifte van een valkeniersakte of kooikersakte: € 45,–.     
+3.  De algemene bijdrage in de kosten van onderzoek en voorlichting op het gebied van jacht, beheer en schadebestrijding, bedoeld in artikel 8, derde lid, van het Jachtbesluit, bedraagt: € 18,-.   
+4.  De bijdrage ten behoeve van het Faunafonds, bedoeld in artikel 94 van de Flora- en faunawet, bedraagt: € 27,-.   
 5.  Voor een duplicaat van een akte is een geldsom van € 30,- verschuldigd.   
-6.  Het derde en vierde lid zijn niet van toepassing voor de afgifte van een akte als bedoeld in [artikel 45 van de Flora- en faunawet](../../../wet/flora-/en/faunawet/BWBR0009640/README.md).   
-7.  De gelden die voldaan zijn ter zake van uitgereikte akten, worden niet gerestitueerd.  
+6.  Het derde en vierde lid zijn niet van toepassing voor de afgifte van een akte als bedoeld in artikel 45 van de Flora- en faunawet.   
+7.  De gelden die voldaan zijn ter zake van uitgereikte akten, worden niet gerestitueerd.   
+8.  De bijdrage voor een combinatie van de in het tweede lid, onderdelen a, b, c of d, genoemde handelingen bedraagt niet meer dan het bedrag dat verschuldigd zou zijn voor dat deel van de combinatie waarvoor de hoogste vergoeding geldt. 
 
 ###Artikel 3a 
 
@@ -47,23 +58,23 @@ De aanvraag voor een akte als bedoeld in [artikel 45 van de Flora- en faunawet](
 
 1.  Het theoretische gedeelte van het jachtexamen voor de jacht met een geweer bevat: 
 
-a.  ten minste 50 meerkeuzevragen waarin de kennis, bedoeld in [artikel 6, tweede lid, van het Jachtbesluit](../../../AMvB/jachtbesluit/BWBR0011848/README.md), wordt getoetst, waarvan 
+a.  ten minste 50 meerkeuzevragen waarin de kennis, bedoeld in artikel 6, tweede lid, van het Jachtbesluit, wordt getoetst, waarvan 
 
-15 vragen betreffende onderwerpen als bedoeld in [artikel 6, tweede lid, onderdeel a tot en met d, van het Jachtbesluit](../../../AMvB/jachtbesluit/BWBR0011848/README.md);
+15 vragen betreffende onderwerpen als bedoeld in artikel 6, tweede lid, onderdeel a tot en met d, van het Jachtbesluit;
 
-10 vragen betreffende onderwerpen als bedoeld in [artikel 6, tweede lid, onderdeel e en f, van het Jachtbesluit](../../../AMvB/jachtbesluit/BWBR0011848/README.md);
+10 vragen betreffende onderwerpen als bedoeld in artikel 6, tweede lid, onderdeel e en f, van het Jachtbesluit;
 
-10 vragen betreffende onderwerpen als bedoeld in [artikel 6, tweede lid, onderdeel g en h, van het Jachtbesluit](../../../AMvB/jachtbesluit/BWBR0011848/README.md);
+10 vragen betreffende onderwerpen als bedoeld in artikel 6, tweede lid, onderdeel g en h, van het Jachtbesluit;
 
-10 vragen betreffende onderwerpen als bedoeld in [artikel 6, tweede lid, onderdeel i en j, van het Jachtbesluit](../../../AMvB/jachtbesluit/BWBR0011848/README.md);
+10 vragen betreffende onderwerpen als bedoeld in artikel 6, tweede lid, onderdeel i en j, van het Jachtbesluit;
 
-5 vragen betreffende onderwerpen als bedoeld in [artikel 6, tweede lid, onderdeel k en l, van het Jachtbesluit](../../../AMvB/jachtbesluit/BWBR0011848/README.md) en 
+5 vragen betreffende onderwerpen als bedoeld in artikel 6, tweede lid, onderdeel k en l, van het Jachtbesluit en 
 
-b.  ten minste 25 meerkeuzevragen, gesteld naar aanleiding van dia- of filmbeelden of andere beelddragers waarin de kennis, bedoeld in [artikel 6, tweede lid, van het Jachtbesluit](../../../AMvB/jachtbesluit/BWBR0011848/README.md), wordt getoetst, waarvan 
+b.  ten minste 25 meerkeuzevragen, gesteld naar aanleiding van dia- of filmbeelden of andere beelddragers waarin de kennis, bedoeld in artikel 6, tweede lid, van het Jachtbesluit, wordt getoetst, waarvan 
 
-15 vragen betreffende onderwerpen als bedoeld in [artikel 6, tweede lid, onderdeel a en b, van het Jachtbesluit](../../../AMvB/jachtbesluit/BWBR0011848/README.md) en
+15 vragen betreffende onderwerpen als bedoeld in artikel 6, tweede lid, onderdeel a en b, van het Jachtbesluit en
 
-10 vragen betreffende de overige onderwerpen als bedoeld in [artikel 6, tweede lid, van het Jachtbesluit](../../../AMvB/jachtbesluit/BWBR0011848/README.md).    
+10 vragen betreffende de overige onderwerpen als bedoeld in artikel 6, tweede lid, van het Jachtbesluit.    
 2.  Van de vragen, bedoeld in het eerste lid, onderdeel a en b, dient ten minste 70% goed te zijn beantwoord.   
 3.  Het praktische gedeelte van het jachtexamen voor de jacht met een geweer omvat: 
 
@@ -77,23 +88,23 @@ c.  het tonen van weidelijk gedrag en bekwaamheid in het veilig omgaan met een g
 
 1.  Het theoretische gedeelte van het jachtexamen voor de jacht met één of meer jachtvogels bevat: 
 
-a.  ten minste 40 meerkeuzevragen waarin de kennis, bedoeld in [artikel 6, derde lid, van het Jachtbesluit](../../../AMvB/jachtbesluit/BWBR0011848/README.md), wordt getoetst, waarvan: 
+a.  ten minste 40 meerkeuzevragen waarin de kennis, bedoeld in artikel 6, derde lid, van het Jachtbesluit, wordt getoetst, waarvan: 
 
-15 vragen betreffende onderwerpen als bedoeld in [artikel 6, tweede lid, onderdeel a tot en met c, van het Jachtbesluit](../../../AMvB/jachtbesluit/BWBR0011848/README.md);
+15 vragen betreffende onderwerpen als bedoeld in artikel 6, tweede lid, onderdeel a tot en met c, van het Jachtbesluit;
 
-5 vragen betreffende onderwerpen als bedoeld in [artikel 6, tweede lid, onderdeel e, van het Jachtbesluit](../../../AMvB/jachtbesluit/BWBR0011848/README.md);
+5 vragen betreffende onderwerpen als bedoeld in artikel 6, tweede lid, onderdeel e, van het Jachtbesluit;
 
-10 vragen betreffende onderwerpen als bedoeld in [artikel 6, tweede lid, onderdeel g en h, van het Jachtbesluit](../../../AMvB/jachtbesluit/BWBR0011848/README.md);
+10 vragen betreffende onderwerpen als bedoeld in artikel 6, tweede lid, onderdeel g en h, van het Jachtbesluit;
 
-5 vragen betreffende onderwerpen als bedoeld in [artikel 6, tweede lid, onderdeel j, van het Jachtbesluit](../../../AMvB/jachtbesluit/BWBR0011848/README.md);
+5 vragen betreffende onderwerpen als bedoeld in artikel 6, tweede lid, onderdeel j, van het Jachtbesluit;
 
-5 vragen betreffende onderwerpen als bedoeld in [artikel 6, tweede lid, onderdeel k en l, van het Jachtbesluit](../../../AMvB/jachtbesluit/BWBR0011848/README.md) en 
+5 vragen betreffende onderwerpen als bedoeld in artikel 6, tweede lid, onderdeel k en l, van het Jachtbesluit en 
 
-b.  ten minste 20 meerkeuzevragen, gesteld naar aanleiding van dia- of filmbeelden of andere beelddragers waarin de kennis, bedoeld in [artikel 6, derde lid, van het Jachtbesluit](../../../AMvB/jachtbesluit/BWBR0011848/README.md), wordt getoetst, waarvan: 
+b.  ten minste 20 meerkeuzevragen, gesteld naar aanleiding van dia- of filmbeelden of andere beelddragers waarin de kennis, bedoeld in artikel 6, derde lid, van het Jachtbesluit, wordt getoetst, waarvan: 
 
-10 vragen betreffende onderwerpen als bedoeld in [artikel 6, tweede lid, onderdeel a en b, van het Jachtbesluit](../../../AMvB/jachtbesluit/BWBR0011848/README.md) en
+10 vragen betreffende onderwerpen als bedoeld in artikel 6, tweede lid, onderdeel a en b, van het Jachtbesluit en
 
-10 vragen betreffende onderwerpen als bedoeld in [artikel 6, tweede lid, onderdeel c, e, g, h, j, k en l, van het Jachtbesluit](../../../AMvB/jachtbesluit/BWBR0011848/README.md).    
+10 vragen betreffende onderwerpen als bedoeld in artikel 6, tweede lid, onderdeel c, e, g, h, j, k en l, van het Jachtbesluit.    
 2.  Van de vragen, bedoeld in het eerste lid, onderdeel a en b, dient ten minste 70% goed te zijn beantwoord.   
 3.  Het praktische gedeelte van het jachtexamen voor de jacht met een jachtvogel omvat twee stages van een jaar bij twee door een in artikel 7 bedoelde organisatie aangewezen mentoren. Bij de beoordeling van de stages wordt getoetst of voldoende bekwaamheid is verworven ten aanzien van: 
 
@@ -123,26 +134,26 @@ gebruik van fluit, loer en balg.
 
 1.  Het theoretische gedeelte van het jachtexamen voor de jacht met een eendenkooi bevat: 
 
-a.  ten minste 30 meerkeuzevragen waarin de kennis, bedoeld in [artikel 6, vierde lid, van het Jachtbesluit](../../../AMvB/jachtbesluit/BWBR0011848/README.md), wordt getoetst, waarvan: 
+a.  ten minste 30 meerkeuzevragen waarin de kennis, bedoeld in artikel 6, vierde lid, van het Jachtbesluit, wordt getoetst, waarvan: 
 
-15 vragen betreffende onderwerpen als bedoeld in [artikel 6, tweede lid, onderdeel a tot en met c, van het Jachtbesluit](../../../AMvB/jachtbesluit/BWBR0011848/README.md);
+15 vragen betreffende onderwerpen als bedoeld in artikel 6, tweede lid, onderdeel a tot en met c, van het Jachtbesluit;
 
-5 vragen betreffende onderwerpen als bedoeld in [artikel 6, tweede lid, onderdeel e, van het Jachtbesluit](../../../AMvB/jachtbesluit/BWBR0011848/README.md);
+5 vragen betreffende onderwerpen als bedoeld in artikel 6, tweede lid, onderdeel e, van het Jachtbesluit;
 
-5 vragen betreffende onderwerpen als bedoeld in [artikel 6, tweede lid, onderdeel j, van het Jachtbesluit](../../../AMvB/jachtbesluit/BWBR0011848/README.md);
+5 vragen betreffende onderwerpen als bedoeld in artikel 6, tweede lid, onderdeel j, van het Jachtbesluit;
 
-5 vragen betreffende onderwerpen als bedoeld in [artikel 6, tweede lid, onderdeel k en l, van het Jachtbesluit](../../../AMvB/jachtbesluit/BWBR0011848/README.md) en 
+5 vragen betreffende onderwerpen als bedoeld in artikel 6, tweede lid, onderdeel k en l, van het Jachtbesluit en 
 
-b.  ten minste 15 meerkeuzevragen, gesteld naar aanleiding van dia- of filmbeelden of andere beelddragers waarin de kennis, bedoeld in [artikel 6, vierde lid, van het Jachtbesluit](../../../AMvB/jachtbesluit/BWBR0011848/README.md), wordt getoetst, waarvan: 
+b.  ten minste 15 meerkeuzevragen, gesteld naar aanleiding van dia- of filmbeelden of andere beelddragers waarin de kennis, bedoeld in artikel 6, vierde lid, van het Jachtbesluit, wordt getoetst, waarvan: 
 
-10 vragen betreffende onderwerpen als bedoeld in [artikel 6, tweede lid, onderdeel a en b, van het Jachtbesluit](../../../AMvB/jachtbesluit/BWBR0011848/README.md) en
+10 vragen betreffende onderwerpen als bedoeld in artikel 6, tweede lid, onderdeel a en b, van het Jachtbesluit en
 
-5 vragen betreffende onderwerpen als bedoeld in [artikel 6, tweede lid, onderdeel c, e, j, k en l, van het Jachtbesluit](../../../AMvB/jachtbesluit/BWBR0011848/README.md).    
+5 vragen betreffende onderwerpen als bedoeld in artikel 6, tweede lid, onderdeel c, e, j, k en l, van het Jachtbesluit.    
 2.  Van de vragen, bedoeld in het eerste lid, onderdeel a en b, dient ten minste 70% goed te zijn beantwoord.  
 
 ### Artikel  7  
 
-Een organisatie die examens afneemt als bedoeld in [artikel 39, eerste lid, onderdeel c, van de Flora- en faunawet](../../../wet/flora-/en/faunawet/BWBR0009640/README.md), voldoet aan de volgende eisen: 
+Een organisatie die examens afneemt als bedoeld in artikel 39, eerste lid, onderdeel c, van de Flora- en faunawet, voldoet aan de volgende eisen: 
 
 zij bezit rechtspersoonlijkheid;
 
@@ -152,7 +163,7 @@ de bestuursleden zijn naar evenredigheid afkomstig uit de kringen van jagers en 
 
 zij beschikt over een itembank met ten minste 500 meerkeuzevragen die betrekking hebben op de jachtexamens, waarvan de relatieve samenstelling overeenkomt met de eisen die ten aanzien van het examen worden gesteld;
 
-zij beschikt over een diabank of andere beelddrager met ten minste twee afbeeldingen van elk van de diersoorten, genoemd in [artikel 6, tweede lid, onderdeel a, van het Jachtbesluit](../../../AMvB/jachtbesluit/BWBR0011848/README.md) en ten minste één afbeelding van de overige beschermde diersoorten;
+zij beschikt over een diabank of andere beelddrager met ten minste twee afbeeldingen van elk van de diersoorten, genoemd in artikel 6, tweede lid, onderdeel a, van het Jachtbesluit en ten minste één afbeelding van de overige beschermde diersoorten;
 
 zij beschikt over een kwaliteitszorgsysteem en
 
@@ -172,7 +183,7 @@ zij beschikt over een reglement waarin onder meer is vastgelegd aan welke eisen 
 
 ### Artikel  9  
 
-Als gelijkwaardig aan het jachtexamen, bedoeld in [artikel 39, eerste lid, onder c, van de Flora- en faunawet](../../../wet/flora-/en/faunawet/BWBR0009640/README.md) worden erkend: 
+Als gelijkwaardig aan het jachtexamen, bedoeld in artikel 39, eerste lid, onder c, van de Flora- en faunawet worden erkend: 
 
 a.  met betrekking tot het theoretische gedeelte, het theoretische gedeelte A en B van het jachtexamen, afgelegd vanaf 1 april 1984 op grond van het bepaalde bij of krachtens het Belgisch Koninklijk besluit van 28 februari 1977 betreffende de afgifte van jachtverloven en jachtvergunningen, het Belgisch ministerieel besluit van 2 maart 1977 tot inrichting van het jachtexamen en het Besluit van de Vlaamse Executieve van 29 mei 1991 tot inrichting van het jachtexamen; 
 
@@ -220,8 +231,8 @@ Het opschrift van de palen ter afpaling van de kring van een eendenkooi wordt al
 
 ### Artikel  12  
 
-1.  Een vóór de inwerkingtreding van de [Flora- en faunawet](../../../wet/flora-/en/faunawet/BWBR0009640/README.md) met gunstig gevolg afgeronde stageperiode van drie jaar, die is doorlopen onder auspiciën van één van de valkeniersverenigingen, genoemd in het derde lid, wordt beschouwd als omvattende het theoretische en praktische gedeelte van het jachtexamen voor de jacht met een jachtvogel, bedoeld in artikel 5, eerste en tweede lid.   
-2.  Een stageperiode die onder auspiciën van één van de valkeniersverenigingen, genoemd in het derde lid, is aangevangen 12 maanden of langer vóór de inwerkingtreding van de [Flora- en faunawet](../../../wet/flora-/en/faunawet/BWBR0009640/README.md), omvat geheel of gedeeltelijk het praktische gedeelte van het jachtexamen, bedoeld in artikel 5, tweede lid, mits een beoordelingsrapport kan worden overgelegd, dat voorzien is of begeleid gaat van een daartoe strekkende verklaring van één van de verenigingen, genoemd in het derde lid.   
+1.  Een vóór de inwerkingtreding van de Flora- en faunawet met gunstig gevolg afgeronde stageperiode van drie jaar, die is doorlopen onder auspiciën van één van de valkeniersverenigingen, genoemd in het derde lid, wordt beschouwd als omvattende het theoretische en praktische gedeelte van het jachtexamen voor de jacht met een jachtvogel, bedoeld in artikel 5, eerste en tweede lid.   
+2.  Een stageperiode die onder auspiciën van één van de valkeniersverenigingen, genoemd in het derde lid, is aangevangen 12 maanden of langer vóór de inwerkingtreding van de Flora- en faunawet, omvat geheel of gedeeltelijk het praktische gedeelte van het jachtexamen, bedoeld in artikel 5, tweede lid, mits een beoordelingsrapport kan worden overgelegd, dat voorzien is of begeleid gaat van een daartoe strekkende verklaring van één van de verenigingen, genoemd in het derde lid.   
 3.  De valkeniersverenigingen, bedoeld in het eerste en tweede lid, zijn: 
 
 a.  Nederlands Valkeniersverbond 'Adriaan Mollen' te Nistelrode; 
@@ -234,7 +245,7 @@ d.  Valkerij Equipage 'Jacoba van Beieren' te Wintelre.
 
 ### Artikel  13  
 
-Deze regeling treedt in werking op het tijdstip waarop de [artikelen 40, tweede lid](../../../wet/flora-/en/faunawet/BWBR0009640/README.md), [46, eerste lid](../../../wet/flora-/en/faunawet/BWBR0009640/README.md), [59, eerste lid](../../../wet/flora-/en/faunawet/BWBR0009640/README.md), [94, eerste lid, van de Flora- en faunawet](../../../wet/flora-/en/faunawet/BWBR0009640/README.md) en de [artikelen 7, eerste lid](../../../AMvB/jachtbesluit/BWBR0011848/README.md), en [8, vierde lid, van het Jachtbesluit](../../../AMvB/jachtbesluit/BWBR0011848/README.md) in werking treden. 
+Deze regeling treedt in werking op het tijdstip waarop de artikelen 40, tweede lid, 46, eerste lid, 59, eerste lid, 94, eerste lid, van de Flora- en faunawet en de artikelen 7, eerste lid, en 8, vierde lid, van het Jachtbesluit in werking treden. 
 
 ### Artikel  14  
 

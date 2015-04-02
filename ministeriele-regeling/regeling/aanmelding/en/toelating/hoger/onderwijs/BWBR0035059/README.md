@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 3 april 2014, nr. 540459 inzake de toelating tot het hoger onderwijs
 
 De Minister van Onderwijs, Cultuur en Wetenschap, handelende in overeenstemming met de Minister van Economische Zaken,  
-Gelet op de artikelen [artikel 7.25, eerste, tweede, derde en vierde lid](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), [7,26 eerste en tweede lid](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), [7.26a eerste lid](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), [7.28](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), [7.31a, eerste lid](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), [7.31b, tweede lid](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), [7. 57a, vierde lid](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), [7.57b, vijfde lid](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), [7.57c, vierde lid](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), 7.57c, vierde lid, [7.57e, vijfde lid](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) [7.57f, tweede lid van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);
+Gelet op de artikelen artikel 7.25, eerste, tweede, derde en vierde lid, 7,26 eerste en tweede lid, 7.26a eerste lid, 7.28, 7.31a, eerste lid, 7.31b, tweede lid, 7. 57a, vierde lid, 7.57b, vijfde lid, 7.57c, vierde lid, 7.57c, vierde lid, 7.57e, vijfde lid 7.57f, tweede lid van de Wet op het hoger onderwijs en wetenschappelijk onderzoek;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -15,81 +15,81 @@ Besluit:
 
 a. *de minister:* Onze Minister van Onderwijs, Cultuur en Wetenschap en, voor zover het betreft het onderwijs en onderzoek op het gebied van landbouw en natuurlijke omgeving, Onze Minister van Economische Zaken;  
 
-b. *wet:* [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+b. *wet:* Wet op het hoger onderwijs en wetenschappelijk onderzoek;  
 
-c. *WVO:* [Wet op het voortgezet onderwijs](../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+c. *WVO:* Wet op het voortgezet onderwijs;  
 
-d. *WVO-BES:* [Wet op het voortgezet onderwijs BES](../../../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md);  
+d. *WVO-BES:* Wet op het voortgezet onderwijs BES;  
 
-e. *WEB:* [Wet educatie en beroepsonderwijs](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+e. *WEB:* Wet educatie en beroepsonderwijs;  
 
-f. *instelling:* een instelling voor hoger onderwijs als bedoeld in [artikel 1.8, eerste en tweede lid, van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) of een rechtspersoon voor hoger onderwijs;  
+f. *instelling:* een instelling voor hoger onderwijs als bedoeld in artikel 1.8, eerste en tweede lid, van de wet of een rechtspersoon voor hoger onderwijs;  
 
 g. *universiteit:*
 
-1°. een universiteit als bedoeld in de [onderdelen a en b van de bijlage bij de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md),  
+1°. een universiteit als bedoeld in de onderdelen a en b van de bijlage bij de wet,  
 
-2°. de Open Universiteit, bedoeld in [onderdeel h van de bijlage bij de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), en  
+2°. de Open Universiteit, bedoeld in onderdeel h van de bijlage bij de wet, en  
 
-3°. een levensbeschouwelijke universiteit als bedoeld in [onderdeel i, van de bijlage bij de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);    
+3°. een levensbeschouwelijke universiteit als bedoeld in onderdeel i, van de bijlage bij de wet;    
 
-h. *hogeschool:* een hogeschool als bedoeld in [onderdelen c en g van de bijlage bij de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+h. *hogeschool:* een hogeschool als bedoeld in onderdelen c en g van de bijlage bij de wet;  
 
-i. *rechtspersoon voor hoger onderwijs: * een rechtspersoon als bedoeld in [artikel 1.1, onderdeel aa, van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+i. *rechtspersoon voor hoger onderwijs: * een rechtspersoon als bedoeld in artikel 1.1, onderdeel aa, van de wet;  
 
-j. *instellingsbestuur:* een instellingsbestuur als bedoeld in [artikel 1.1, onderdeel j, eerste gedachtestreep van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+j. *instellingsbestuur:* een instellingsbestuur als bedoeld in artikel 1.1, onderdeel j, eerste gedachtestreep van de wet;  
 
-k. *opleiding:* een opleiding als bedoeld in [artikel 7.3a, eerste lid, onderdeel a en tweede lid, onderdeel a, van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+k. *opleiding:* een opleiding als bedoeld in artikel 7.3a, eerste lid, onderdeel a en tweede lid, onderdeel a, van de wet;  
 
-l. *opleiding op het gebied van de kunst:* een opleiding als bedoeld in [7.26a van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+l. *opleiding op het gebied van de kunst:* een opleiding als bedoeld in 7.26a van de wet;  
 
-m. *lerarenopleiding op het gebied van de kunst:* een lerarenopleiding als bedoeld in [artikel 7.26a, van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+m. *lerarenopleiding op het gebied van de kunst:* een lerarenopleiding als bedoeld in artikel 7.26a, van de wet;  
 
 n. *studiejaar:* het tijdvak dat aanvangt op 1 september en eindigt op 31 augustus van het daarop volgende jaar;  
 
-o. *vooropleidingseisen:* eisen als bedoeld in [artikel 7.24 van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+o. *vooropleidingseisen:* eisen als bedoeld in artikel 7.24 van de wet;  
 
-p. *nadere vooropleidingseisen vo-ho:* eisen als bedoeld in [artikel 7.25, eerste en tweede lid, van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+p. *nadere vooropleidingseisen vo-ho:* eisen als bedoeld in artikel 7.25, eerste en tweede lid, van de wet;  
 
-q. *nadere vooropleidingseisen mbo-hbo:* eisen als bedoeld in [artikel 7.25, derde lid van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+q. *nadere vooropleidingseisen mbo-hbo:* eisen als bedoeld in artikel 7.25, derde lid van de wet;  
 
-r. *aanvullende eisen:* eisen als bedoeld in [artikel 7.26, eerste lid](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), en [7.26a, eerste lid, van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+r. *aanvullende eisen:* eisen als bedoeld in artikel 7.26, eerste lid, en 7.26a, eerste lid, van de wet;  
 
-s. *profiel:* een profiel als bedoeld in [artikel 12, tweede lid, van de WVO](../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) of [artikel 38, tweede lid, van de WVO BES](../../../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md);  
+s. *profiel:* een profiel als bedoeld in artikel 12, tweede lid, van de WVO of artikel 38, tweede lid, van de WVO BES;  
 
-t. *domein:* een opleidingsdomein als bedoeld in [artikel 6.4.1, eerste lid, van de WEB](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+t. *domein:* een opleidingsdomein als bedoeld in artikel 6.4.1, eerste lid, van de WEB;  
 
 u. *Studielink:* de gemeenschappelijke aanmeld- en inschrijfapplicatie van de hogescholen, de universiteiten en de minister;  
 
 v. *DUO:* Dienst Uitvoering Onderwijs van het ministerie van OCW;  
 
-w. *het accreditatieorgaan:* de Nederlands-Vlaamse accreditatieorganisatie, bedoeld in [artikel 5.a.2 van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+w. *het accreditatieorgaan:* de Nederlands-Vlaamse accreditatieorganisatie, bedoeld in artikel 5.a.2 van de wet;  
 
-x. *fixusopleiding:* een opleiding waarvoor op grond van [artikelen 7.53](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) of [56 van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) een beperkt aantal studenten kan worden ingeschreven;  
+x. *fixusopleiding:* een opleiding waarvoor op grond van artikelen 7.53 of 56 van de wet een beperkt aantal studenten kan worden ingeschreven;  
 
 ij. *kandidaat:* degene die zich voor de propedeutische fase van een bepaalde opleiding wil aanmelden of laten inschrijven;  
 
-z. *selectieprocedure:* selectieprocedure als bedoeld in [artikel 7.57a, derde lid, onderdeel a, van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+z. *selectieprocedure:* selectieprocedure als bedoeld in artikel 7.57a, derde lid, onderdeel a, van de wet;  
 
-aa. *lotingsprocedure:* lotingsprocedure als bedoeld in [artikel 7.57 b van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+aa. *lotingsprocedure:* lotingsprocedure als bedoeld in artikel 7.57 b van de wet;  
 
-bb. *decentrale selectie:* decentrale selectie als bedoeld in [artikel 7.57e van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+bb. *decentrale selectie:* decentrale selectie als bedoeld in artikel 7.57e van de wet;  
 
-cc. *bewijs van toelating:* bewijs van toelating als bedoeld in [artikel 7.57a, tweede lid, van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+cc. *bewijs van toelating:* bewijs van toelating als bedoeld in artikel 7.57a, tweede lid, van de wet;  
 
 dd. *diploma:*
 
-1° diploma als bedoeld in [artikel 7.24, eerste en tweede lid, van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), dan wel een daarmee overeenkomend diploma, behaald in Bonaire, Saba, Sint Eustatius, Curaçao, Sint Maarten, Aruba of Suriname danwel het diploma van het Europees baccalaureaat van de Europese school, bedoeld in het Statuut van de Europese school (Tractatenblad 1957, nr. 246), voor zover dat baccalaureaat het vak Nederlands als eerste of tweede taal omvat;  
+1° diploma als bedoeld in artikel 7.24, eerste en tweede lid, van de wet, dan wel een daarmee overeenkomend diploma, behaald in Bonaire, Saba, Sint Eustatius, Curaçao, Sint Maarten, Aruba of Suriname danwel het diploma van het Europees baccalaureaat van de Europese school, bedoeld in het Statuut van de Europese school (Tractatenblad 1957, nr. 246), voor zover dat baccalaureaat het vak Nederlands als eerste of tweede taal omvat;  
 
-2°. het diploma van een niet in [artikel 7.24 van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) bedoelde vooropleiding of een niet in [artikel 7.28, eerste lid, van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) bedoelde opleiding dat op grond van een voor Nederland in werking getreden internationale overeenkomst toegangsrecht tot het Nederlandse hoger onderwijs met zich meebrengt;  
+2°. het diploma van een niet in artikel 7.24 van de wet bedoelde vooropleiding of een niet in artikel 7.28, eerste lid, van de wet bedoelde opleiding dat op grond van een voor Nederland in werking getreden internationale overeenkomst toegangsrecht tot het Nederlandse hoger onderwijs met zich meebrengt;  
 
-3° een gewaarmerkte verklaring van het bestuur van een instelling, inhoudende dat de kandidaat met toepassing van de [artikelen 7.25, derde lid of vijfde lid](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), [7.28, lid 1a, tweede lid](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), of [29, eerste, derde of vierde lid, van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), onverminderd artikel 7.28, vierde lid, van de wet, tot de opleiding van zijn keuze kan worden toegelaten;    
+3° een gewaarmerkte verklaring van het bestuur van een instelling, inhoudende dat de kandidaat met toepassing van de artikelen 7.25, derde lid of vijfde lid, 7.28, lid 1a, tweede lid, of 29, eerste, derde of vierde lid, van de wet, onverminderd artikel 7.28, vierde lid, van de wet, tot de opleiding van zijn keuze kan worden toegelaten;    
 
 ee. *cijferlijst:*een cijferlijst, behorend bij een diploma;  
 
-ff. *getuigschrift: *getuigschrift als bedoeld in [artikel 7.11, tweede lid, van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+ff. *getuigschrift: *getuigschrift als bedoeld in artikel 7.11, tweede lid, van de wet;  
 
-gg. *sufficiëntieverklaring:* verklaring van het bestuur van een instelling inhoudende dat de kandidaat voldoet aan de voorwaarden, bedoeld in [artikel 7.25, eerste, tweede of derde lid, van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), [artikel 7.28, lid 1a en derde lid](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) en [artikel 7.29, eerste, derde en vierde lid, van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).   
+gg. *sufficiëntieverklaring:* verklaring van het bestuur van een instelling inhoudende dat de kandidaat voldoet aan de voorwaarden, bedoeld in artikel 7.25, eerste, tweede of derde lid, van de wet, artikel 7.28, lid 1a en derde lid en artikel 7.29, eerste, derde en vierde lid, van de wet.   
 
 ### Artikel  1.2  
 
@@ -115,8 +115,6 @@ De data in deze regeling vallen steeds in het studiejaar dat voorafgaat aan het 
 
 ####Nadere vooropleidingseisen per opleiding
 
-Treedt in werking per 01-09-2014 
-
 1.  Voor opleidingen aan universiteiten gelden voor kandidaten die in het bezit zijn van een vwo-diploma van een in bijlage A opgenomen opleiding, de nadere vooropleidingseisen die zijn opgenomen in bijlage A.   
 2.  Voor opleidingen aan hogescholen gelden voor kandidaten die in het bezit zijn van een vwo-diploma of het havo-diploma van een in bijlage B opgenomen opleiding, de nadere vooropleidingseisen die zijn opgenomen in bijlage B.   
 3.  Als de naam van een opleiding wordt gewijzigd, blijven de nadere vooropleidingseisen gelden zoals die golden voor het tijdstip van de naamswijziging.   
@@ -130,7 +128,7 @@ Treedt in werking per 01-09-2014
 
 ####Aanwijzing opleidingen inzake toelating deficiënte studenten in het wetenschappelijk onderwijs
 
-Voor het wetenschappelijk onderwijs vindt aanwijzing als bedoeld in [artikel 7.25, vijfde lid, tweede volzin, van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) plaats voor de opleidingen Werktuigbouwkunde en Civiele Techniek, voor zover het betreft het profiel economie en maatschappij of het profiel cultuur en maatschappij. 
+Voor het wetenschappelijk onderwijs vindt aanwijzing als bedoeld in artikel 7.25, vijfde lid, tweede volzin, van de wet plaats voor de opleidingen Werktuigbouwkunde en Civiele Techniek, voor zover het betreft het profiel economie en maatschappij of het profiel cultuur en maatschappij. 
 
 ### Artikel  2.3  
 
@@ -148,11 +146,37 @@ Als de naam van een opleiding wordt gewijzigd, blijft de toelatingsmogelijkheid 
 
 Treedt in werking per 01-09-2015 
 
-Voor opleidingen in het hoger beroepsonderwijs in een in bijlage C opgenomen sector, geldt voor kandidaten die met goed gevolg een middenkaderopleiding of een specialistenopleiding als bedoeld in [artikel 7.2.2, eerste lid, onder d, onderscheidenlijk e, van de WEB](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) hebben afgelegd als nadere vooropleidingseis: 
+Voor opleidingen in het hoger beroepsonderwijs in een in bijlage C opgenomen sector, geldt voor kandidaten die met goed gevolg een middenkaderopleiding of een specialistenopleiding als bedoeld in artikel 7.2.2, eerste lid, onder d, onderscheidenlijk e, van de WEB hebben afgelegd als nadere vooropleidingseis: 
 
 a. het bezit van een diploma van een opleiding behorend tot een in bijlage C opgenomen domein of  
 
 b. een door de hogeschool afgegeven sufficiëntieverklaring.   
+
+### §  4  
+
+####Bijzondere nadere vooropleidingseisen opleiding tot leraar basisonderwijs
+
+Treedt in werking per 01-09-2015 
+
+### Artikel  2.5  
+
+####Vereiste kennisniveaus
+
+Treedt in werking per 01-09-2015 
+
+1.  Voor wat betreft het kennisgebied aardrijkskunde, bedoeld in artikel 9, tweede lid, onderdeel a, van de Wet op het primair onderwijs, beschikt een kandidaat over voldoende kennis, indien die kennis voldoet aan het niveau dat is vastgesteld in bijlage F, onderdeel I.   
+2.  Voor wat betreft het kennisgebied geschiedenis, bedoeld in artikel 9, tweede lid, onderdeel b, van de Wet op het primair onderwijs, beschikt een kandidaat over voldoende kennis, indien die kennis voldoet aan het niveau dat is vastgesteld in bijlage F, onderdeel II.   
+3.  Voor wat betreft het kennisgebied de natuur, waaronder biologie, bedoeld in artikel 9, tweede lid, onderdeel c, van de Wet op het primair onderwijs, beschikt een kandidaat over voldoende kennis, indien die kennis voldoet aan het niveau dat is vastgesteld in bijlage F, onderdeel III.  
+
+### Artikel  2.6  
+
+####Examenvakken die zonder meer tot toelating leiden
+
+Treedt in werking per 01-09-2015 
+
+1.  Een kandidaat voldoet in ieder geval aan de bijzondere nadere vooropleidingseisen op het kennisgebied aardrijkskunde, bedoeld in artikel 9, tweede lid, onderdeel a, van de Wet op het primair onderwijs, indien het vak aardrijkskunde deel heeft uitgemaakt van het examen ter verkrijging van het diploma hoger algemeen voortgezet onderwijs, bedoeld in artikel 8 van de Wet op het voortgezet onderwijs of artikel 14 van de Wet voortgezet hoger onderwijs BES   
+2.  Een kandidaat voldoet in ieder geval aan de bijzondere nadere vooropleidingseisen op het kennisgebied geschiedenis, bedoeld in artikel 9, tweede lid, onderdeel b, van de Wet op het primair onderwijs, indien het vak geschiedenis deel heeft uitgemaakt van het examen ter verkrijging van het diploma hoger algemeen voortgezet onderwijs, bedoeld in artikel 8 van de Wet op het voortgezet onderwijs of artikel 14 van de Wet voortgezet hoger onderwijs BES   
+3.  Een kandidaat voldoet in ieder geval aan de bijzondere nadere vooropleidingseisen op het kennisgebied de natuur, waaronder biologie, bedoeld in artikel 9, tweede lid, onderdeel c, van de Wet op het primair onderwijs, indien het vak natuurkunde, biologie of nlt (natuur, leven en technologie) deel heeft uitgemaakt van het examen ter verkrijging van het diploma hoger algemeen voortgezet onderwijs, bedoeld in artikel 8 van de Wet op het voortgezet onderwijs of artikel 14 van de Wet voortgezet hoger onderwijs BES  
 
 ### Hoofdstuk  3  
 
@@ -213,7 +237,7 @@ d. het stellen van de aanvullende eisen geen afbreuk doet aan de toegankelijkhei
 
 ####Elektronische aanmelding (verzoek tot inschrijving)
 
-1.  De kandidaat die zich overeenkomstig [artikel 7.31a, eerste lid, van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) aanmeldt, doet dat met behulp van DigiD via Studielink.   
+1.  De kandidaat die zich overeenkomstig artikel 7.31a, eerste lid, van de wet aanmeldt, doet dat met behulp van DigiD via Studielink.   
 2.  Onverminderd de artikelen 4.3 en 4.8 kan de in het eerste lid bedoelde aanmelding betrekking hebben op ten hoogste drie opleidingen.   
 3.  De minister verifieert de persoonsgegevens van de kandidaat aan de hand van de over de kandidaat in de gemeentelijke basisadministratie persoonsgegevens opgenomen gegevens.   
 4.  Als de kandidaat buiten Nederland woonachtig is, verstrekt hij gegevens die tenminste betrekking hebben op de naam, de geboortedatum en -plaats, het adres, de nationaliteit en de vooropleiding. Tevens verstrekt de kandidaat een fotokopie van de persoonsgegevens uit zijn paspoort of (Europees) identiteitsbewijs, een uittreksel uit het bevolkingsregister of een daarmee overeenkomend register, dan wel een uittreksel uit of een fotokopie van de geboorteakte. Het instellingsbestuur verifieert de gegevens.   
@@ -238,7 +262,7 @@ b. of de instelling voor die fixusopleiding decentrale selectie zal toepassen.
 
 ####Aanmelding onderzoek
 
-1.  De kandidaat die wenst te worden ingeschreven voor een opleiding waarvoor krachtens [artikel 7.26](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) of [artikel 7.26a van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) aanvullende eisen zijn gesteld, meldt zich voor 15 januari aan bij de desbetreffende instelling voor het onderzoek dienaangaande.   
+1.  De kandidaat die wenst te worden ingeschreven voor een opleiding waarvoor krachtens artikel 7.26 of artikel 7.26a van de wet aanvullende eisen zijn gesteld, meldt zich voor 15 januari aan bij de desbetreffende instelling voor het onderzoek dienaangaande.   
 2.  De desbetreffende instelling draagt er zorg voor dat de kandidaat voor 15 april de uitslag van het onderzoek kan vernemen.   
 3.  De kandidaat die aan de aanvullende eisen voldoet en aan de desbetreffende opleiding wil worden ingeschreven, meldt zich overeenkomstig artikel 4.1, aan bij de minister.  
 
@@ -261,7 +285,7 @@ Ongeacht de artikelen 4.5, 4.6, 4.20 en 4.21, vindt de aanmelding voor een fixus
 a. een gewaarmerkte kopie van zijn cijferlijst of  
 
 b. een gewaarmerkte kopie van zijn getuigschrift.     
-2.  Als krachtens [artikel 7.25](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) en [artikel 7.25a van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) nadere vooropleidingseisen vo-ho, nadere vooropleidingseisen mbo-hbo of bijzondere nadere vooropleidingseisen gelden of het instellingsbestuur van een universiteit gebruik heeft gemaakt van de in [artikel 7.28, lid 1a en derde lid](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), toegekende bevoegdheid, stuurt de kandidaat die zich heeft aangemeld, voor 15 mei aan de minister een bewijsstuk waaruit blijkt dat hij aan die eisen voldoet. Dit bewijsstuk bestaat uit: 
+2.  Als krachtens artikel 7.25 en artikel 7.25a van de wet nadere vooropleidingseisen vo-ho, nadere vooropleidingseisen mbo-hbo of bijzondere nadere vooropleidingseisen gelden of het instellingsbestuur van een universiteit gebruik heeft gemaakt van de in artikel 7.28, lid 1a en derde lid, toegekende bevoegdheid, stuurt de kandidaat die zich heeft aangemeld, voor 15 mei aan de minister een bewijsstuk waaruit blijkt dat hij aan die eisen voldoet. Dit bewijsstuk bestaat uit: 
 
 a. een gewaarmerkte kopie van zijn cijferlijst waaruit blijkt dat hij aan deze eisen voldoet, of  
 
@@ -280,16 +304,16 @@ b. voor 1 september een gewaarmerkte kopie van zijn cijferlijst of een gewaarme
 
 1.  De kandidaat, bedoeld in artikel 4.5, tweede lid, die bij de aanmelding nog niet voldoet aan de vooropleidingseisen of nadere vooropleidingseisen vo-ho respectievelijk mbo-hbo en die een verklaring als bedoeld in artikel 4.5, derde lid wil afgeven, legt voor 15 mei aan de minister de volgende documenten over: 
 
-a. een opgave van zijn in [artikel 7.25 van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) bedoelde profielkeuze waaruit blijkt dat hij aan de nadere vooropleidingseisen vo-ho of de nadere vooropleidingseisen mbo-hbo of de bijzondere nadere vooropleidingseisen zal voldoen, of  
+a. een opgave van zijn in artikel 7.25 van de wet bedoelde profielkeuze waaruit blijkt dat hij aan de nadere vooropleidingseisen vo-ho of de nadere vooropleidingseisen mbo-hbo of de bijzondere nadere vooropleidingseisen zal voldoen, of  
 
 b. een gewaarmerkte verklaring, afgegeven door een instelling, waaruit blijkt dat hij met zijn diploma of zijn getuigschrift tevens zal voldoen aan de nadere vooropleidingseisen vo-ho, de nadere vooropleidingseisen mbo-hbo respectievelijk de bijzondere nadere vooropleidingseisen.     
-2.  De kandidaat die bij de aanmelding al voldoet aan de vooropleidingseisen, maar op dat tijdstip niet voldoet aan de nadere vooropleidingseisen vo-ho, de nadere vooropleidingseisen mbo-hbo, de bijzondere nader vooropleidingseisen of de in [artikel 7.28, lid 1a en tweede lid, van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) bedoelde vrijstelling, legt voor 15 mei een bewijsstuk over, bestaande uit een van de in het eerste lid genoemde bewijsstukken, dan wel een verklaring dat hij deelneemt of zal deelnemen aan het onderzoek ter verkrijging van een sufficiëntieverklaring. Deze kandidaat stuurt zijn sufficiëntieverklaring voor 1 september aan de minister.  
+2.  De kandidaat die bij de aanmelding al voldoet aan de vooropleidingseisen, maar op dat tijdstip niet voldoet aan de nadere vooropleidingseisen vo-ho, de nadere vooropleidingseisen mbo-hbo, de bijzondere nader vooropleidingseisen of de in artikel 7.28, lid 1a en tweede lid, van de wet bedoelde vrijstelling, legt voor 15 mei een bewijsstuk over, bestaande uit een van de in het eerste lid genoemde bewijsstukken, dan wel een verklaring dat hij deelneemt of zal deelnemen aan het onderzoek ter verkrijging van een sufficiëntieverklaring. Deze kandidaat stuurt zijn sufficiëntieverklaring voor 1 september aan de minister.  
 
 ### Artikel  4.7  
 
 ####Aanmelding voor decentrale selectie
 
-1.  De kandidaat die wil deelnemen aan decentrale selectie, meldt zich daartoe voor 15 januari aan via Studielink. Als zijn aanmelding een opleiding betreft waarop [artikel 7.57d van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) van toepassing is, vermeldt hij daarbij ook bij welke universiteit hij aan de decentrale selectie wil deelnemen.   
+1.  De kandidaat die wil deelnemen aan decentrale selectie, meldt zich daartoe voor 15 januari aan via Studielink. Als zijn aanmelding een opleiding betreft waarop artikel 7.57d van de wet van toepassing is, vermeldt hij daarbij ook bij welke universiteit hij aan de decentrale selectie wil deelnemen.   
 2.  Het instellingsbestuur kan de in het eerste lid genoemde termijn verlengen.   
 3.  Een aanmelding voor decentrale selectie geldt ook als aanmelding voor de lotingsprocedure.  
 
@@ -297,10 +321,10 @@ b. een gewaarmerkte verklaring, afgegeven door een instelling, waaruit blijkt da
 
 ####Registratie in verband met beperking van deelname aan de selectieprocedure (loting en decentrale selectie)
 
-1.  Voor de toepassing van [artikel 57f, derde lid van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) registreert de minister de kandidaten die zich aanmelden voor een fixusopleiding.   
+1.  Voor de toepassing van artikel 57f, derde lid van de wet registreert de minister de kandidaten die zich aanmelden voor een fixusopleiding.   
 2.  In afwijking van het eerste lid blijft registratie van de aanmelding van de kandidaat achterwege: 
 
-a. als de kandidaat er in dat jaar niet in slaagt te voldoen aan de vooropleidingseisen, bedoeld in [artikel 7.24 van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), dan wel aan de nadere vooropleidingseisen vo-ho, de nadere vooropleidingseisen mbo-hbo of de bijzondere nadere vooropleidingseisen,  
+a. als de kandidaat er in dat jaar niet in slaagt te voldoen aan de vooropleidingseisen, bedoeld in artikel 7.24 van de wet, dan wel aan de nadere vooropleidingseisen vo-ho, de nadere vooropleidingseisen mbo-hbo of de bijzondere nadere vooropleidingseisen,  
 
 b. als de kandidaat zich niet voor decentrale selectie heeft aangemeld en zijn aanmelding voor de lotingsprocedure intrekt voordat hem op grond van artikel 4.14 een lotnummer is toegekend, of  
 
@@ -318,25 +342,25 @@ Als de kandidaat niet binnen de gestelde termijnen heeft voldaan aan de artikele
 
 1.  Aan de selectieprocedure wordt uitsluitend deelgenomen door de kandidaten die zich overeenkomstig de artikelen 4.1 tot en met 4.8 hebben aangemeld.   
 2.  De kandidaat neemt deel aan de selectieprocedure voor de opleiding van zijn keuze. Dit sluit deelname aan de selectieprocedure voor een andere opleiding uit, behoudens artikel 4.20.   
-3.  In afwijking van het tweede lid neemt de kandidaat deel aan de lotingsprocedure voor meer dan één opleiding, als voor de desbetreffende opleiding [artikel 7.57d van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) geldt. De kandidaat maakt in dat geval aan de minister de volgorde van zijn voorkeur bekend.  
+3.  In afwijking van het tweede lid neemt de kandidaat deel aan de lotingsprocedure voor meer dan één opleiding, als voor de desbetreffende opleiding artikel 7.57d van de wet geldt. De kandidaat maakt in dat geval aan de minister de volgorde van zijn voorkeur bekend.  
 
 ### Artikel  4.11  
 
 ####Gemiddeld eindexamencijfer
 
-1.  Het gemiddelde eindexamencijfer, bedoeld in [artikel 7.57b, eerste en tweede lid, van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), van een kandidaat die met goed gevolg het eindexamen heeft afgelegd volgens de [artikelen 12 tot en met 15](../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [22 van de WVO](../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) of de [artikelen 72 tot en met 74 van de WVO BES](../../../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), wordt berekend uit de eindcijfers van het gemeenschappelijk deel, het profieldeel en het hoogste eindcijfer van het vrije deel gezamenlijk. Daarbij wordt, als de kandidaat het eindexamen heeft afgelegd volgens de bij of krachtens de [WVO](../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) of [WVO BES](../../../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md) gegeven voorschriften, het gemiddelde van de eindcijfers bedoeld in [artikel 49, zesde lid van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o.](../../../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) en [artikel 35 van het Eindexamenbesluit WVO BES](../../../../../../../../AMvB-BES/eindexamenbesluit/vo/bes/BWBR0029990/README.md), aangemerkt als het eind(examen)cijfer van één vak.   
-2.  Het gemiddelde eindexamencijfer, bedoeld in [artikel 7.57b, eerste en tweede lid, van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), van een kandidaat met een diploma van een opleiding als bedoeld in [artikel 7.2.2, eerste lid, onderdeel d en e, van de WEB](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) of met een diploma middelbaar beroepsonderwijs wordt berekend uit de combinatie van vijf cijfers van de cijferlijst die het hoogste gemiddelde oplevert, met dien verstande dat indien het een diploma betreft van een experimentele opleiding als bedoeld in [artikel 12.1a.2 van de laatstgenoemde wet](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) zoals dat artikel luidde vóór 1 januari 2012, het gemiddelde eindexamencijfer wordt berekend op basis van de cijfers voor de kerntaken.   
+1.  Het gemiddelde eindexamencijfer, bedoeld in artikel 7.57b, eerste en tweede lid, van de wet, van een kandidaat die met goed gevolg het eindexamen heeft afgelegd volgens de artikelen 12 tot en met 15 en 22 van de WVO of de artikelen 72 tot en met 74 van de WVO BES, wordt berekend uit de eindcijfers van het gemeenschappelijk deel, het profieldeel en het hoogste eindcijfer van het vrije deel gezamenlijk. Daarbij wordt, als de kandidaat het eindexamen heeft afgelegd volgens de bij of krachtens de WVO of WVO BES gegeven voorschriften, het gemiddelde van de eindcijfers bedoeld in artikel 49, zesde lid van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o. en artikel 35 van het Eindexamenbesluit WVO BES, aangemerkt als het eind(examen)cijfer van één vak.   
+2.  Het gemiddelde eindexamencijfer, bedoeld in artikel 7.57b, eerste en tweede lid, van de wet, van een kandidaat met een diploma van een opleiding als bedoeld in artikel 7.2.2, eerste lid, onderdeel d en e, van de WEB of met een diploma middelbaar beroepsonderwijs wordt berekend uit de combinatie van vijf cijfers van de cijferlijst die het hoogste gemiddelde oplevert, met dien verstande dat indien het een diploma betreft van een experimentele opleiding als bedoeld in artikel 12.1a.2 van de laatstgenoemde wet zoals dat artikel luidde vóór 1 januari 2012, het gemiddelde eindexamencijfer wordt berekend op basis van de cijfers voor de kerntaken.   
 3.  Bij de berekening, bedoeld in het tweede lid, worden de resultaten van een gegadigde voor de onderdelen ‘leren, loopbaan en burgerschap’ of ‘loopbaan en burgerschap’, Nederlands, rekenen en Engels, of een andere moderne vreemde taal, buiten beschouwing gelaten.   
 4.  Als de beoordelingen bij een diploma zijn uitgedrukt in de termen uitmuntend, zeer goed, goed, ruim voldoende, voldoende, matig, onvoldoende, ruim onvoldoende, slecht en zeer slecht, dan worden deze voor de berekening van het gemiddelde eindexamencijfer geïnterpreteerd als respectievelijk 10, 9, 8, 7, 6, 5, 4, 3, 2 en 1.   
 5.  Als op de cijferlijst minder dan het in het tweede lid bedoelde aantal cijfers is vermeld, is het gemiddelde eindexamencijfer het gemiddelde van de vermelde cijfers.   
-6.  De minister deelt de kandidaat die in het bezit is van een diploma, afgegeven buiten Nederland in een andere lidstaat van de Europese Unie of de Europese Economische Ruimte of Zwitserland in klasse a in, als naar het oordeel van de minister de gemiddelde waardering van de geëxamineerde vakken vergelijkbaar is met een gemiddeld eindexamencijfer van 8 of hoger als bedoeld in [artikel 7.57b, eerste en tweede lid, van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md). Artikel 7.57b, vierde lid, van de wet wordt in dat geval niet toegepast.  
+6.  De minister deelt de kandidaat die in het bezit is van een diploma, afgegeven buiten Nederland in een andere lidstaat van de Europese Unie of de Europese Economische Ruimte of Zwitserland in klasse a in, als naar het oordeel van de minister de gemiddelde waardering van de geëxamineerde vakken vergelijkbaar is met een gemiddeld eindexamencijfer van 8 of hoger als bedoeld in artikel 7.57b, eerste en tweede lid, van de wet. Artikel 7.57b, vierde lid, van de wet wordt in dat geval niet toegepast.  
 
 ### Artikel  4.12  
 
 ####Selectie van kandidaten uit Curaçao, Sint Maarten, Aruba en de openbare lichamen Bonaire, Sint Eustatius en Saba
 
-1.  Het aantal plaatsen voor kandidaten afkomstig van Curaçao, Sint Maarten, Aruba en de openbare lichamen Bonaire, Sint Eustatius en Saba, die door de minister kunnen worden aangewezen voor indeling in de lotingsklasse, genoemd in [artikel 7.57b, tweede lid, onderdeel a, van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), bij inschrijving voor een fixusopleiding in het hoger beroepsonderwijs, bedraagt respectievelijk acht, drie, acht en vier. Daarbij wordt nagestreefd dat van de kandidaten tenminste respectievelijk drie, een, drie en twee van het vrouwelijk geslacht zijn.   
-2.  Het aantal plaatsen voor kandidaten afkomstig van Curaçao, Sint Maarten, Aruba en de openbare lichamen Bonaire, Sint Eustatius en Saba, die door de minister kunnen worden aangewezen voor indeling in de lotingsklasse, genoemd in [artikel 7.57b, tweede lid, onderdeel a, van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), bij inschrijving voor een fixusopleiding in het wetenschappelijk onderwijs, bedraagt respectievelijk acht, drie, acht en vier. Daarbij wordt nagestreefd dat van de kandidaten tenminste respectievelijk drie, een, drie en twee van het vrouwelijk geslacht zijn.   
+1.  Het aantal plaatsen voor kandidaten afkomstig van Curaçao, Sint Maarten, Aruba en de openbare lichamen Bonaire, Sint Eustatius en Saba, die door de minister kunnen worden aangewezen voor indeling in de lotingsklasse, genoemd in artikel 7.57b, tweede lid, onderdeel a, van de wet, bij inschrijving voor een fixusopleiding in het hoger beroepsonderwijs, bedraagt respectievelijk acht, drie, acht en vier. Daarbij wordt nagestreefd dat van de kandidaten tenminste respectievelijk drie, een, drie en twee van het vrouwelijk geslacht zijn.   
+2.  Het aantal plaatsen voor kandidaten afkomstig van Curaçao, Sint Maarten, Aruba en de openbare lichamen Bonaire, Sint Eustatius en Saba, die door de minister kunnen worden aangewezen voor indeling in de lotingsklasse, genoemd in artikel 7.57b, tweede lid, onderdeel a, van de wet, bij inschrijving voor een fixusopleiding in het wetenschappelijk onderwijs, bedraagt respectievelijk acht, drie, acht en vier. Daarbij wordt nagestreefd dat van de kandidaten tenminste respectievelijk drie, een, drie en twee van het vrouwelijk geslacht zijn.   
 3.  De kandidaten voor de plaatsen, bedoeld in het eerste en tweede lid, worden door de minister aangewezen.   
 4.  De minister wijst de kandidaten, afkomstig van Curaçao, Sint Maarten, Aruba, aan op voordracht van de regeringen van Curaçao, Sint Maarten en Aruba. De voordracht aan de minister wordt gedaan vóór 5 juli.  
 
@@ -346,7 +370,7 @@ Als de kandidaat niet binnen de gestelde termijnen heeft voldaan aan de artikele
 
 De minister verstrekt direct een bewijs van toelating aan: 
 
-a. een kandidaat als bedoeld in [artikel 7.57b, tweede lid, onderdeel a, van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), nadat deze heeft voldaan aan artikel 4.5;  
+a. een kandidaat als bedoeld in artikel 7.57b, tweede lid, onderdeel a, van de wet, nadat deze heeft voldaan aan artikel 4.5;  
 
 b. de kandidaten, bedoeld in artikel 4.12 derde lid;  
 
@@ -363,30 +387,30 @@ c. de kandidaat, die op grond van artikel 4.11 zesde lid, in klasse a is ingedee
 
 ####Indeling gegadigden in lotingsklassen
 
-De kandidaat wordt met inachtneming van [artikel 7.57b, eerste, tweede en vierde lid, van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) in die lotingsklasse ingedeeld die hem op grond van zijn cijferlijst dan wel zijn getuigschrift, of zijn cijferlijsten of zijn getuigschriften, de grootste kans op inloting geeft. 
+De kandidaat wordt met inachtneming van artikel 7.57b, eerste, tweede en vierde lid, van de wet in die lotingsklasse ingedeeld die hem op grond van zijn cijferlijst dan wel zijn getuigschrift, of zijn cijferlijsten of zijn getuigschriften, de grootste kans op inloting geeft. 
 
 ### Artikel  4.16  
 
 ####Verdeling plaatsen over lotingsklassen
 
-1.  Voor de toepassing van dit artikel wordt onder het aantal vastgestelde plaatsen per opleiding verstaan het totaal van het op grond van de [artikelen 7.53](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) of [56 van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) vastgestelde aantal plaatsen, verminderd met het aantal plaatsen dat voor het desbetreffend studiejaar wordt gebruikt: 
+1.  Voor de toepassing van dit artikel wordt onder het aantal vastgestelde plaatsen per opleiding verstaan het totaal van het op grond van de artikelen 7.53 of 56 van de wet vastgestelde aantal plaatsen, verminderd met het aantal plaatsen dat voor het desbetreffend studiejaar wordt gebruikt: 
 
 a. door kandidaten die door toepassing van artikel 4.13, onderdeel a, een bewijs van toelating hebben ontvangen;  
 
 b. door kandidaten die door toepassing van artikel 4.29 een bewijs van toelating ontvangen;  
 
-c. door kandidaten die in het voorgaande jaar een plaats toegewezen hebben gekregen op grond van toepassing van [artikel 7.57c, vierde lid, van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+c. door kandidaten die in het voorgaande jaar een plaats toegewezen hebben gekregen op grond van toepassing van artikel 7.57c, vierde lid, van de wet;  
 
 d. door kandidaten die door toepassing van artikel 4.13, onder b, een bewijs van toelating hebben ontvangen;  
 
 e. door kandidaten die in het voorgaande jaar een voorlopig bewijs van toelating hebben ontvangen als bedoeld in artikel 4.19, tweede en derde lid;     
-2.  Het aantal vastgestelde plaatsen wordt verdeeld over de lotingsklassen, bedoeld in [artikel 7.57b, tweede lid, onder b tot en met e, van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), zodanig dat de quotiënten van het aantal plaatsen en het aantal gegadigden per lotingsklasse zich verhouden als bepaald in [artikel 7.57c, derde lid, van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md). Bij deze verdeling vindt afronding plaats naar de dichtstbijzijnde gehele getallen en bij een uitkomst van 0,5 wordt naar boven afgerond.   
+2.  Het aantal vastgestelde plaatsen wordt verdeeld over de lotingsklassen, bedoeld in artikel 7.57b, tweede lid, onder b tot en met e, van de wet, zodanig dat de quotiënten van het aantal plaatsen en het aantal gegadigden per lotingsklasse zich verhouden als bepaald in artikel 7.57c, derde lid, van de wet. Bij deze verdeling vindt afronding plaats naar de dichtstbijzijnde gehele getallen en bij een uitkomst van 0,5 wordt naar boven afgerond.   
 3.  Als een verschil ontstaat tussen het aantal vastgestelde plaatsen en het krachtens het derde lid berekende aantal plaatsen, wordt dit verschil verrekend met het aantal berekende plaatsen in lotingsklasse e.   
-4.  Dit artikel is van overeenkomstige toepassing op een opleiding waarvoor [artikel 7.57d van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) geldt, met dien verstande dat: 
+4.  Dit artikel is van overeenkomstige toepassing op een opleiding waarvoor artikel 7.57d van de wet geldt, met dien verstande dat: 
 
 a. het eerste lid wordt toegepast op het aantal plaatsen dat voor deze opleiding aan de desbetreffende universiteiten gezamenlijk is bepaald en  
 
-b. op dat aantal plaatsen in mindering wordt gebracht de plaatsen die aan gegadigden worden toegewezen met toepassing van [artikel 7.57d, derde lid, van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).    
+b. op dat aantal plaatsen in mindering wordt gebracht de plaatsen die aan gegadigden worden toegewezen met toepassing van artikel 7.57d, derde lid, van de wet.    
 
 ### Artikel  4.17  
 
@@ -400,7 +424,7 @@ b. op dat aantal plaatsen in mindering wordt gebracht de plaatsen die aan gegadi
 
 ####Nadere regeling toewijzing plaatsen voor dezelfde opleiding bij verschillende universiteiten
 
-1.  Bij de toepassing van [artikel 7.57d, tweede lid](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), worden de kandidaten die zijn ingeloot, geplaatst bij de universiteit van hun eerste voorkeur. Als aan de desbetreffende universiteit onvoldoende plaatsen beschikbaar zijn, worden de plaatsen verdeeld met overeenkomstige toepassing van artikel 4.16, tweede en derde lid.   
+1.  Bij de toepassing van artikel 7.57d, tweede lid, worden de kandidaten die zijn ingeloot, geplaatst bij de universiteit van hun eerste voorkeur. Als aan de desbetreffende universiteit onvoldoende plaatsen beschikbaar zijn, worden de plaatsen verdeeld met overeenkomstige toepassing van artikel 4.16, tweede en derde lid.   
 2.  De kandidaten die na toepassing van het eerste lid niet kunnen worden geplaatst aan de universiteit van hun eerste voorkeur, worden geplaatst aan de universiteit van hun hoogst mogelijke voorkeur. De toewijzing van plaatsen vindt plaats met overeenkomstige toepassing van artikel 4.16, tweede en derde lid, aan de gegadigden met de laagste lotnummers.   
 3.  De toewijzing van een plaats aan een kandidaat door het vervallen van het bewijs van toelating van een andere kandidaat vindt plaats met overeenkomstige toepassing van artikel 4.16, tweede en derde lid, aan de kandidaat met het laagste lotnummer.   
 4.  De kandidaat die beschikt over een verklaring als bedoeld in artikel 1, onderdeel gg, wordt bij inloten, zo nodig in afwijking van het eerste of derde lid, geplaatst aan de universiteit die de desbetreffende verklaring heeft afgegeven.  
@@ -410,9 +434,9 @@ b. op dat aantal plaatsen in mindering wordt gebracht de plaatsen die aan gegadi
 ####Procedure verstrekking bewijzen van toelating
 
 1.  De kandidaat die is ingeloot, ontvangt een op naam gesteld bewijs van toelating. Dit bewijs van toelating heeft betrekking op het studiejaar waarvoor de kandidaat zich heeft aangemeld, en op de opleiding waarvoor hij is ingeloot. Een bewijs van toelating wordt, behoudens artikel 4.22, niet later verstrekt dan 15 september.   
-2.  In afwijking van het eerste lid, ontvangt de kandidaat die op grond van het eerste lid in aanmerking komt voor een bewijs van toelating, maar die niet het bewijs heeft geleverd, bedoeld in [artikel 7.28, tweede lid, voorlaatste volzin, van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), een voorlopig bewijs van toelating voor het studiejaar volgend op het studiejaar waarvoor hij zich heeft aangemeld. Dit voorlopige bewijs van toelating wordt omgezet in een bewijs van toelating, als de kandidaat voor 1 september het bewijs aan de minister levert.   
+2.  In afwijking van het eerste lid, ontvangt de kandidaat die op grond van het eerste lid in aanmerking komt voor een bewijs van toelating, maar die niet het bewijs heeft geleverd, bedoeld in artikel 7.28, tweede lid, voorlaatste volzin, van de wet, een voorlopig bewijs van toelating voor het studiejaar volgend op het studiejaar waarvoor hij zich heeft aangemeld. Dit voorlopige bewijs van toelating wordt omgezet in een bewijs van toelating, als de kandidaat voor 1 september het bewijs aan de minister levert.   
 3.  In bijzondere gevallen kan de minister op het verzoek van een kandidaat bepalen dat in plaats van het bewijs van toelating of een voorlopig bewijs van toelating aan de kandidaat een voorlopig bewijs van toelating wordt verstrekt dat betrekking heeft op het studiejaar, volgend op het studiejaar waarvoor hij is ingeloot of waarvoor hem een voorlopig bewijs van toelating is verstrekt.   
-4.  Aan een kandidaat die beschikt over een sufficiëntieverklaring voor een opleiding waarvoor [artikel 7.57d van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) geldt, en die niet wordt ingeloot bij de universiteit die de desbetreffende verklaring heeft afgegeven, maar bij een andere universiteit, wordt een bewijs van toelating voor die andere universiteit slechts afgegeven, als de kandidaat binnen twee weken een sufficiëntieverklaring van die andere universiteit kan overleggen. De kandidaat neemt daarbij tevens de termijnen van het eerste lid in acht, tenzij het instellingsbestuur van de desbetreffende universiteit goedvindt dat inschrijving plaatsvindt na 15 september.   
+4.  Aan een kandidaat die beschikt over een sufficiëntieverklaring voor een opleiding waarvoor artikel 7.57d van de wet geldt, en die niet wordt ingeloot bij de universiteit die de desbetreffende verklaring heeft afgegeven, maar bij een andere universiteit, wordt een bewijs van toelating voor die andere universiteit slechts afgegeven, als de kandidaat binnen twee weken een sufficiëntieverklaring van die andere universiteit kan overleggen. De kandidaat neemt daarbij tevens de termijnen van het eerste lid in acht, tenzij het instellingsbestuur van de desbetreffende universiteit goedvindt dat inschrijving plaatsvindt na 15 september.   
 5.  De kandidaten die zijn uitgeloot, ontvangen daarvan een schriftelijke mededeling van de minister.   
 6.  Als een loting als bedoeld in artikel 4.20 plaatsvindt wordt daarvan tevens aan die kandidaten mededeling gedaan.  
 
@@ -420,14 +444,14 @@ b. op dat aantal plaatsen in mindering wordt gebracht de plaatsen die aan gegadi
 
 ####Tweede loting
 
-1.  Als blijkt dat alle kandidaten voor een bepaalde opleiding of een opleiding waarvoor [artikel 7.57d van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) geldt, zijn geplaatst en er plaatsen voor die opleiding onbezet blijven, vindt loting plaats onder kandidaten die voldoen aan de eisen bedoeld in artikel 4.5, die op grond van een loting voor een andere opleiding geen bewijs van toelating hebben gekregen, en die binnen veertien dagen na de mededeling, bedoeld in artikel 4.19, vijfde lid, de minister via Studielink hebben medegedeeld dat zij aan de eerstbedoelde loting wensen deel te nemen.   
+1.  Als blijkt dat alle kandidaten voor een bepaalde opleiding of een opleiding waarvoor artikel 7.57d van de wet geldt, zijn geplaatst en er plaatsen voor die opleiding onbezet blijven, vindt loting plaats onder kandidaten die voldoen aan de eisen bedoeld in artikel 4.5, die op grond van een loting voor een andere opleiding geen bewijs van toelating hebben gekregen, en die binnen veertien dagen na de mededeling, bedoeld in artikel 4.19, vijfde lid, de minister via Studielink hebben medegedeeld dat zij aan de eerstbedoelde loting wensen deel te nemen.   
 2.  Op de loting, bedoeld in het eerste lid, zijn de artikelen 4.15 tot en met 4.19 van overeenkomstige toepassing met dien verstande, dat onder het aantal vastgestelde of beschikbare plaatsen wordt verstaan het aantal onbenut gebleven plaatsen. Aan de kandidaten kent de notaris een nieuw lotnummer toe.  
 
 ### Artikel  4.21  
 
 ####Opvullen open plaatsen
 
-1.  Als alle kandidaten voor een bepaalde opleiding of een opleiding waarvoor [artikel 7.57d van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) geldt, zijn geplaatst en er plaatsen voor die opleiding onbenut blijven na de loting bedoeld in artikel 4.20, worden deze open plaatsen zo veel mogelijk opgevuld door kandidaten die voldoen aan de eisen, bedoeld in artikel 4.5, en die, door zich aan te hebben aangemeld, hebben laten blijken belangstelling te hebben voor een plaats, maar die niet hebben voldaan aan de termijnen, genoemd in de artikelen 4.2 tot en met 4.8.   
+1.  Als alle kandidaten voor een bepaalde opleiding of een opleiding waarvoor artikel 7.57d van de wet geldt, zijn geplaatst en er plaatsen voor die opleiding onbenut blijven na de loting bedoeld in artikel 4.20, worden deze open plaatsen zo veel mogelijk opgevuld door kandidaten die voldoen aan de eisen, bedoeld in artikel 4.5, en die, door zich aan te hebben aangemeld, hebben laten blijken belangstelling te hebben voor een plaats, maar die niet hebben voldaan aan de termijnen, genoemd in de artikelen 4.2 tot en met 4.8.   
 2.  Het eerste lid is eveneens van toepassing ten aanzien van een opleiding waarvoor geen mededeling is gedaan als bedoeld in artikel 4.19, vijfde lid, maar waarvoor wel alle kandidaten zijn geplaatst en niettemin plaatsen onbenut zijn gebleven.   
 3.  Als het eerste of tweede lid van toepassing is, registreert de minister de kandidaten in volgorde van de datum van ontvangst van hun ingezonden bewijsstukken. Bij de toepassing van het eerste of tweede lid worden bewijzen van toelating verstrekt met inachtneming van deze volgorde.  
 
@@ -443,14 +467,14 @@ b. op dat aantal plaatsen in mindering wordt gebracht de plaatsen die aan gegadi
 
 ####Hardheidsclausule ingelote kandidaten
 
-De kandidaat, die toepassing verlangt van [artikel 7.57d, derde lid, van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) richt zijn verzoek daartoe binnen veertien dagen na bekendmaking van de mededeling van inloting schriftelijk aan de minister. 
+De kandidaat, die toepassing verlangt van artikel 7.57d, derde lid, van de wet richt zijn verzoek daartoe binnen veertien dagen na bekendmaking van de mededeling van inloting schriftelijk aan de minister. 
 
 ### Artikel  4.24  
 
 ####Hardheidsclausule uitgelote kandidaten
 
-1.  De kandidaat die een beroep doet op [artikel 7.57c, vierde lid, van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), richt zijn verzoek tot het verkrijgen van een bewijs van toelating binnen zes weken na de mededeling van uitloting schriftelijk aan de minister. Als een verzoek wordt gehonoreerd, wordt een bewijs van toelating verstrekt voor het studiejaar dat volgt op het studiejaar waarvoor hij is uitgeloot.   
-2.  Het percentage, bedoeld in [artikel 7.57c, vierde lid, van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), bedraagt vijf.  
+1.  De kandidaat die een beroep doet op artikel 7.57c, vierde lid, van de wet, richt zijn verzoek tot het verkrijgen van een bewijs van toelating binnen zes weken na de mededeling van uitloting schriftelijk aan de minister. Als een verzoek wordt gehonoreerd, wordt een bewijs van toelating verstrekt voor het studiejaar dat volgt op het studiejaar waarvoor hij is uitgeloot.   
+2.  Het percentage, bedoeld in artikel 7.57c, vierde lid, van de wet, bedraagt vijf.  
 
 ### Artikel  4.25  
 
@@ -465,22 +489,22 @@ De kandidaat, die toepassing verlangt van [artikel 7.57d, derde lid, van de wet]
 
 ####Invoering decentrale selectie door instelling
 
-1.  Het instellingsbestuur dat gebruik wil maken van de bevoegdheid kandidaten op grond van [artikel 7.57e van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) decentraal te selecteren, maakt daarvan melding aan de minister voor 1 juni van het kalenderjaar dat voorafgaat aan het studiejaar waarvoor de decentrale selectie geldt.   
-2.  Deze melding gaat vergezeld van de informatie bedoeld in [artikel 7.57e, tweede lid, van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).  
+1.  Het instellingsbestuur dat gebruik wil maken van de bevoegdheid kandidaten op grond van artikel 7.57e van de wet decentraal te selecteren, maakt daarvan melding aan de minister voor 1 juni van het kalenderjaar dat voorafgaat aan het studiejaar waarvoor de decentrale selectie geldt.   
+2.  Deze melding gaat vergezeld van de informatie bedoeld in artikel 7.57e, tweede lid, van de wet.  
 
 ### Artikel  4.27  
 
 ####Bekendmaking gegadigden door de minister
 
 1.  De minister verstrekt de gegevens van de kandidaten die zich overeenkomstig artikel 4.7 hebben aangemeld, aan het instellingsbestuur.   
-2.  Als het een opleiding betreft waarvoor [artikel 7.57d van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) geldt, maakt de minister de kandidaat slechts aan het bestuur van één instelling bekend. De minister volgt daarbij de keuze van de kandidaat.  
+2.  Als het een opleiding betreft waarvoor artikel 7.57d van de wet geldt, maakt de minister de kandidaat slechts aan het bestuur van één instelling bekend. De minister volgt daarbij de keuze van de kandidaat.  
 
 ### Artikel  4.28  
 
 ####Uitvoering decentrale selectie
 
 1.  Het instellingsbestuur deelt voor 15 juni aan alle kandidaten schriftelijk de beslissing van zijn selectie mee alsmede de plaats op de lijst, bedoeld in het tweede lid. Bij toepassing van het vierde lid wordt dit voor 1 augustus meegedeeld.   
-2.  Het instellingsbestuur vermeldt de geselecteerde kandidaten op een lijst in een door hem te bepalen volgorde. De lijst bevat ten minste het aantal kandidaten dat overeenkomt met het percentage, bedoeld in [artikel 7.57e, tweede lid, onderdeel d, van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md). Als het aantal decentrale plaatsen op basis van het opgegeven percentage het aantal kandidaten overtreft, bevat de lijst alle gegadigden.   
+2.  Het instellingsbestuur vermeldt de geselecteerde kandidaten op een lijst in een door hem te bepalen volgorde. De lijst bevat ten minste het aantal kandidaten dat overeenkomt met het percentage, bedoeld in artikel 7.57e, tweede lid, onderdeel d, van de wet. Als het aantal decentrale plaatsen op basis van het opgegeven percentage het aantal kandidaten overtreft, bevat de lijst alle gegadigden.   
 3.  De lijst wordt voor 15 juni aan de minister bekendgemaakt.   
 4.  In afwijking van het derde lid kan het instellingsbestuur de lijst voor 1 augustus aan de minister bekendmaken, als het een selectiemethode toepast die vanwege de tijdsbelasting voor de kandidaten geheel of grotendeels na 15 juni moet worden uitgevoerd. Het instellingsbestuur stelt de minister hiervan in kennis bij de toepassing van artikel 4.26, eerste lid.  
 
@@ -489,7 +513,7 @@ De kandidaat, die toepassing verlangt van [artikel 7.57d, derde lid, van de wet]
 ####Toekenning bewijzen van toelating na decentrale selectie
 
 1.  De minister verwijdert van de in artikel 4.28 tweede lid, bedoelde lijst de kandidaten die na toepassing van artikel 4.5 niet voldoen aan de voorwaarden voor selectie. Daarnaast verwijdert de minister van deze lijst de kandidaten die op grond van artikel 4.13 een bewijs van toelating ontvangen.   
-2.  De minister verstrekt na toepassing van het eerste lid, en met inachtneming van de lijstvolgorde en het aantal, bedoeld in [artikel 7.57e, tweede lid, onder d, van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), een bewijs van toelating aan de decentraal geselecteerde kandidaten.   
+2.  De minister verstrekt na toepassing van het eerste lid, en met inachtneming van de lijstvolgorde en het aantal, bedoeld in artikel 7.57e, tweede lid, onder d, van de wet, een bewijs van toelating aan de decentraal geselecteerde kandidaten.   
 3.  Als blijkt dat er, na toepassing van het eerste en tweede lid, nog decentrale plaatsen voor die opleiding onbenut blijven, vindt een loting plaats onder de kandidaten, die voldoen aan de eisen, bedoeld in artikel 4.5. Op de loting zijn de artikelen 4.14 tot en met 4.21 van overeenkomstige toepassing.  
 
 ### Hoofdstuk  5  
@@ -508,8 +532,8 @@ De kandidaat, die toepassing verlangt van [artikel 7.57d, derde lid, van de wet]
 
 ####Intrekken oude regelingen
 
-1.  De [Regeling aanmelding en selectie hoger onderwijs](../../../../../../../../ministeriele-regeling/regeling/aanmelding/en/selectie/hoger/onderwijs/BWBR0025627/README.md), de [Regeling aanwijzing opleidingen inzake toelating deficiënte studenten](../../../../../../../../ministeriele-regeling/regeling/aanwijzing/opleidingen/in/het/hoger/onderwijs/inzake/toelating/etc/BWBR0022404/README.md) en de [Regeling aanvullende eisen hoger onderwijs en kunstonderwijs 2007](../../../../../../../../ministeriele-regeling/regeling/aanvullende/eisen/hoger/onderwijs/en/kunstonderwijs/2007/BWBR0022032/README.md) worden ingetrokken met ingang van de dag, bedoeld in artikel 5.1, eerste lid.   
-2.  De [Regeling nadere vooropleidingseisen](../../../../../../../../ministeriele-regeling/regeling/nadere/vooropleidingseisen/hoger/onderwijs/2007/BWBR0022022/README.md) wordt ingetrokken met ingang van 1 september 2014.  
+1.  De Regeling aanmelding en selectie hoger onderwijs, de Regeling aanwijzing opleidingen inzake toelating deficiënte studenten en de Regeling aanvullende eisen hoger onderwijs en kunstonderwijs 2007 worden ingetrokken met ingang van de dag, bedoeld in artikel 5.1, eerste lid.   
+2.  De Regeling nadere vooropleidingseisen wordt ingetrokken met ingang van 1 september 2014.  
 
 ### Artikel  5.3  
 
@@ -1414,4 +1438,389 @@ Lerarenopleidingen en opleidingen op het gebied van de kunst waarvoor aanvullend
 |:---|:---|:---|
 | B Hoger hotelonderwijs  | Zuyd Hogeschool  Stenden Hogeschool  Saxion hogeschool  NHTV internationale hogeschool Breda  | Voldoende aanleg en geschiktheid voor de opleiding, gelet op de organisatie en inrichting van het onderwijs  |
 | B Business Administration in Hotel Management  | Hotelschool The Hague  | Voldoende aanleg en geschiktheid voor de opleiding, gelet op de organisatie en inrichting van het onderwijs  |
+
+### Bijlage  F  
+
+####Bijzondere nadere vooropleidingseisen opleiding tot leraar basisonderwijs; vereiste kennisniveaus
+
+Treedt in werking per 01-09-2015 
+
+### I  
+
+####Aardrijkskunde
+
+1.  *Geografische vragen beantwoorden*  
+
+* De kandidaat kan geografische vragen waarbij gebiedskenmerken belangrijk zijn herkennen en beantwoorden.    
+
+2.  *Geografische werkwijzen hanteren*  
+
+* De kandidaat kan verschijnselen en gebieden vergelijken in ruimte en tijd.  
+
+* De kandidaat kan relaties leggen binnen een gebied en tussen gebieden.  
+
+* De kandidaat kan verschijnselen en gebieden vanuit verschillende perspectieven beschrijven en verklaren.  
+
+* De kandidaat kan verschijnselen en gebieden op verschillende schaalniveaus beschrijven en verklaren.  
+
+* De kandidaat kan verschijnselen en gebieden beschrijven en verklaren door relaties te leggen tussen het bijzondere en algemene.  
+
+* De kandidaat kan verschijnselen en gebieden in hun geografische context plaatsen.    
+
+3.  *Geografische hulpmiddelen inzetten*  
+
+* De kandidaat kan een (digitale) kaart selecteren en lezen als informatiebron op basis van titel, legenda, schaal, windroos, kaartsoort en kaarttype.  
+
+* De kandidaat kan patronen in een gebied op een (digitale) kaart beschrijven.  
+
+* De kandidaat kan op een (digitale) kaart patronen in een gebied verklaren met algemene geografische kennis.     
+
+### A  
+
+####Acht kernthema's aardrijkskunde
+
+1.  *Aarde, klimaat en landschap*  
+
+* De kandidaat kan de positie van de aarde ten opzichte van de zon toelichten.  
+
+* De kandidaat kan spreiding en kenmerken van hoofdklimaten op aarde beschrijven.  
+
+* De kandidaat kan de ligging van een klimaat verklaren.  
+
+* De kandidaat kan aan de hand van een kaartbeeld van de wereld de ligging van de hoofdklimaten aanwijzen.  
+
+* De kandidaat kan klimaatverandering en de gevolgen daarvan beschrijven.  
+
+* De kandidaat kan de elementen van het weer beschrijven en weersveranderingen verklaren.  
+
+* De kandidaat kan de ligging en kenmerken van Nederlandse landschappen beschrijven.  
+
+* De kandidaat kan de ontstaanswijze van het Nederlandse landschappen verklaren.  
+
+* De kandidaat kan aan de hand van een kaartbeeld de spreiding van en het grondgebruik in (cultuur)landschappen in Nederland toelichten.    
+
+2.  *Bevolking en ruimte*  
+
+* De kandidaat kan de bevolkingsspreiding in Nederland, Europa en de wereld beschrijven en verklaren.  
+
+* De kandidaat kan ontwikkelingen in de bevolking in Nederland, Europa en de wereld beschrijven en verklaren.  
+
+* De kandidaat kan het proces van de groei van steden beschrijven en verklaren.  
+
+* De kandidaat kan oorzaken en gevolgen van huidige stedelijke problematiek onderscheiden.    
+
+3.  *Bestaansmiddelen*  
+
+* De kandidaat kan economische sectoren en hun verspreiding en kenmerken beschrijven.  
+
+* De kandidaat kan aan de hand van een kaartbeeld van Nederland en de wereld belangrijke economische gebieden aangeven.  
+
+* De kandidaat kan het proces van globalisering en de gevolgen voor verschillende gebieden toelichten.    
+
+4.  *Arm en rijk*  
+
+* De kandidaat kan kenmerken van meer en minder ontwikkelde gebieden en de situatie van bewoners in die gebieden beschrijven en verklaren.    
+
+5.  *Grenzen en identiteit*  
+
+* De kandidaat kan verschillende soorten grenzen beschrijven  
+
+* De kandidaat kan de relatie tussen grenzen en identiteit verklaren.  
+
+* De kandidaat kan het ontstaan, de doelstellingen, de namen en de ligging van de belangrijkste landen van de Europese Unie beschrijven.  
+
+* De kandidaat kan de spreiding van wereldgodsdiensten en belangrijke taalgebieden op een wereldkaart beschrijven.    
+
+6.  *Krachten der aarde*  
+
+* De kandidaat kan de landschapsvormende werking van endogene krachten beschrijven en verklaren.  
+
+* De kandidaat kan de landschapsvormende werking van exogene krachten beschrijven en verklaren.  
+
+* De kandidaat kan natuurrampen beschrijven en verklaren en maatregelen noemen om schade te beperken.  
+
+* De kandidaat kan verbanden leggen tussen plaattektoniek, hooggebergte en endogene verschijnselen op de wereldkaart.    
+
+7.  *Bronnen van energie*  
+
+* De kandidaat kan soorten energiebronnen beschrijven.  
+
+* De kandidaat kan het verband aangeven tussen welvaart, welzijn en energieverbruik in Nederland en wereldwijd.    
+
+8.  *Water*  
+
+* De kandidaat kan de verschillende fasen van de waterkringloop beschrijven en verklaren.  
+
+* De kandidaat kan waterverdeling tussen zoet en zout water in Nederland en in de wereld op hoofdlijnen beschrijven.  
+
+* De kandidaat kan ruimtelijke maatregelen, met name in Nederland, om het overstromingsrisico als gevolg zeespiegelstijging laag te houden, beschrijven en verklaren.  
+
+* De kandidaat kan ruimtelijke maatregelen, met name in Nederland, het overstromingsrisico bij rivieren laag te houden, beschrijven en verklaren.  
+
+* De kandidaat kan aangeven wat het belang is van schoon water voor de kwaliteit van leven van mensen.     
+
+### II  
+
+####Geschiedenis
+
+* De kandidaat kan omgaan met historische bronnen, standplaatsgebondenheid herkennen en bronnen selecteren op bruikbaarheid.  
+
+* De kandidaat kan de tijdbalk als middel gebruiken om gebeurtenissen, ontwikkelingen, verschijnselen en personen in de juiste tijd te plaatsen.  
+
+* De kandidaat kan historische gebeurtenissen, ontwikkelingen, verschijnselen en personen plaatsen in historische perioden.  
+
+* De kandidaat kan oorzaken en gevolgen van historische gebeurtenissen, verschijnselen en ontwikkelingen in een bepaalde historische periode onderscheiden en beschrijven.  
+
+* De kandidaat kan vergelijkingen maken tussen historische perioden onderling en het heden.   
+
+### B  
+
+####Tien tijdvakken geschiedenis
+
+1.  *Tijd van jagers en boeren (tot 3000 v.C.)*  
+
+* De kandidaat kan uitleggen waarom jagers-verzamelaars nomaden waren.  
+
+* De kandidaat kan veranderingen toelichten die het gevolg waren van de agrarische revolutie.    
+
+2.  *Tijd van Grieken en Romeinen (3000 v.C. – 500)*  
+
+* De kandidaat kan Grieks-Romeinse cultuur herkennen en beschrijven.  
+
+* De kandidaat kan voorbeelden herkennen en beschrijven van de beïnvloeding van de Grieks-Romeinse cultuur op de Germaanse cultuur.  
+
+* De kandidaat kan de ontwikkeling van het christendom in het Romeinse Rijk beschrijven.    
+
+3.  *Tijd van monniken en ridders (500–1000)*  
+
+* De kandidaat kan beschrijven hoe het christendom zich in Europa verspreidde.  
+
+* De kandidaat kan het ontstaan van de islam beschrijven.  
+
+* De kandidaat kan beschrijven hoe de islam zich verspreidde.  
+
+* De kandidaat kan hofstelsel, leenstelsel en horigheid uitleggen.    
+
+4.  *Tijd van steden en staten (1000–1500)*  
+
+* De kandidaat kan de opkomst van handel en het ontstaan van steden uitleggen.  
+
+* De kandidaat kan uitleggen waarom de steden zelfstandiger werden ten opzichte van de adel.  
+
+* De kandidaat kan aan de hand van het Bourgondische Rijk het ontstaan van staten binnen Europa beschrijven.    
+
+5.  *De tijd van ontdekkers en hervormers (1500–1600)*  
+
+* De kandidaat kan redenen voor de ontdekkingsreizen uitleggen.  
+
+* De kandidaat kan denkbeelden en gevolgen van de Reformatie herkennen en beschrijven.  
+
+* De kandidaat kan uitleggen hoe de Opstand in een onafhankelijke Nederlandse staat resulteerde.    
+
+6.  *Tijd van vorsten en regenten (1600–1700)*  
+
+* De aspirant-student kan verbanden leggen tussen de overzeese expansie, het handelskapitalisme en het ontstaan van een wereldeconomie.  
+
+* De kandidaat kan burgerlijk bestuur en stedelijke cultuur in het Nederland van de 17e eeuw herkennen en beschrijven.  
+
+* De kandidaat kan uitleggen waarin de staatsinrichting van de Republiek zich onderscheidde van die in andere landen.  
+
+* De kandidaat kan aspecten van het absolutisme beschrijven.    
+
+7.  *Tijd van pruiken en revoluties (1700–1800)*  
+
+* De kandidaat kan de ontwikkeling van slavenhandel en slavernij beschrijven.  
+
+* De kandidaat kan motieven voor afschaffing van slavenhandel en slavernij toelichten.  
+
+* De kandidaat kan denkbeelden van de Verlichting op het gebied van politiek, godsdienst en sociale verhoudingen beschrijven.  
+
+* De kandidaat kan grondrechten en toenemende politieke invloed van de burgerij in de Franse en Bataafse revolutie beschrijven.    
+
+8.  *Tijd van burgers en stoommachines (1800–1900)*  
+
+* De kandidaat kan uitleggen waardoor de burgerij (bourgeoisie) steeds meer politieke invloed kreeg.  
+
+* De kandidaat kan uitleggen wat een parlementair stelsel is.  
+
+* De kandidaat kan kenmerken van de industriële revolutie beschrijven.  
+
+* De kandidaat kan de gevolgen van de industriële revolutie voor de werk- en leefomstandigheden van arbeiders toelichten.  
+
+* De kandidaat kan verbanden leggen tussen de industriële revolutie en de opkomst van emancipatiebewegingen.  
+
+* De kandidaat kan de relatie beschrijven tussen modern imperialisme en nationalisme.  
+
+* De kandidaat kan uitleggen waarom grondstoffen en afzetmarkten belangrijke aspecten van het modern imperialisme waren.    
+
+9.  *Tijd van wereldoorlogen (1900–1950)*  
+
+* De kandidaat kan sociale, economische en politieke gevolgen van de wereldcrisis van de jaren 30 van de vorige eeuw beschrijven.  
+
+* De kandidaat kan kenmerken van het nationaalsocialisme beschrijven.  
+
+* De kandidaat kan de Jodenvervolging beschrijven.  
+
+* De kandidaat kan Europa en Nederland tijdens de Tweede Wereldoorlog beschrijven en voorbeelden van collaboratie, verzet en aanpassing van de Nederlandse bevolking noemen.    
+
+10.  *Tijd van tv en computer (1950–heden)*  
+
+* De kandidaat kan uitleggen welke rol nationale bewegingen in de Nederlandse koloniën speelden bij het verkrijgen van onafhankelijkheid.  
+
+* De kandidaat kan de spanningen tussen de Sovjetunie en de VS ten tijde van de Koude Oorlog beschrijven.  
+
+* De kandidaat kan de economische en sociaal-culturele veranderingen en de toenemende pluriformiteit vanaf de jaren ’60 in Nederland beschrijven.     
+
+### III  
+
+####Natuur en techniek
+
+1.  *Onderzoeken*  
+
+* De kandidaat kan bij een vraag of probleem een onderzoeksmethode kiezen, zijn keuze toelichten en de fasen van de onderzoekscyclus benoemen.  
+
+* De kandidaat kan bij een onderzoeksobject (voorwerp, verschijnsel of organisme) in een bepaalde context uit gegeven onderzoeksvragen, voorspellingen en onderzoeksopzetten de juiste selecteren, uit een onderzoek systematisch resultaten verzamelen, interpreteren en verwerken tot conclusies en deze conclusies relateren aan voorspellingen.    
+
+2.  *Ontwerpen*  
+
+* De kandidaat kan bij een ontwerpprobleem (wens, behoefte) de fasen van de ontwerpcyclus benoemen.  
+
+* De kandidaat kan bij een gegeven ontwerpprobleem een verband leggen tussen het programma van eisen (de functie) en de technische aspecten van het ontwerp (materiaal en vorm) en de werking van het prototype of model toelichten.    
+
+3.  *Hanteren van onderzoeksobjecten, instrumenten, materiaal en reken- en wiskundige vaardigheden*  
+
+* De kandidaat kan bij het uitvoeren van onderzoek criteria benoemen bij de wijze van omgaan met objecten en organismen en de keuze van onderzoeksinstrumenten toelichten en bij het aflezen van meetinstrumenten de grootheid en de bijpassende eenheid gebruiken.  
+
+* De kandidaat kan bij het maken van een prototype of model kiezen welk materiaal, gereedschap en apparatuur nodig zijn en criteria benoemen hoe deze worden gekozen en gebruikt.  
+
+* De kandidaat kan gegevens selecteren, verwerken en interpreteren uit tabellen en grafieken en werken met eenvoudige formules, die de relaties tussen grootheden weergeven.     
+
+### C  
+
+####Tien kernconcepten natuur & techniek
+
+### * *Biologie* * 
+
+1.  *Biologische eenheid*  
+
+* De kandidaat kan een cel beschrijven als een zelfstandig functionerende eenheid, de onderdelen van cellen benoemen en enkele functies daarvan toelichten.  
+
+* De kandidaat kan organen van planten, dieren en de mens noemen en de relatie tussen vorm en functie toelichten.  
+
+* De kandidaat kan kenmerken van planten en dieren gebruiken om ze te classificeren en kan daarbij het begrip soort toepassen.  
+
+* De kandidaat kan beschrijven dat een ecosysteem het geheel is van biotische factoren (organismen) en abiotische factoren (omgeving) die in wisselwerking zijn.    
+
+2.  *Instandhouding*  
+
+* De kandidaat kan toelichten dat stofwisselingsprocessen zich afspelen in cellen en kan uitleggen dat fotosynthese voorwaarde is voor het voortbestaan van het leven op aarde.  
+
+* De kandidaat kan toelichten dat processen als ademhaling, transport, stofwisseling en uitscheiding met elkaar samenhangen en nodig zijn voor het in leven blijven van planten, dieren en de mens.  
+
+* De kandidaat kan uitleggen welke functies voedselbestanddelen hebben bij de instandhouding van het organisme en kan de samenstelling van een gezond voedingspakket toelichten.  
+
+* De kandidaat kan bij beweging betrokken organen benoemen en de functie en werking toelichten.  
+
+* De kandidaat kan uitleggen hoe het menselijk lichaam reageert op lichaamsvreemde stoffen en welke organen daarbij een rol spelen.  
+
+* De kandidaat kan uitleggen dat een ecosysteem in stand wordt gehouden door de interacties van planten, dieren en de mens met hun omgeving en door hun onderlinge interactie met als gevolg een dynamisch evenwicht.    
+
+3.  *Gedrag en interactie*  
+
+* De kandidaat kan de rol van zintuigen en hormonen bij dieren en de mens uitleggen in relatie tot hun gedrag.  
+
+* De kandidaat kan een verband leggen tussen gedrag van organismen om zich te voeden, (voort) te bewegen, voort te planten, te verdedigen en te beschermen enerzijds en de rol van hun omgeving daarin anderzijds.  
+
+* De kandidaat kan uitleggen dat planten, dieren en de mens zich aanpassen aan (a-) biotische factoren.    
+
+4.  *Voortplanting*  
+
+* De kandidaat kan uitleggen hoe de voortplanting bij dieren, planten en de mens verloopt.  
+
+* De kandidaat kan kenmerken van planten, dieren en de mens (bouw, gedrag) in verband brengen met de wijze van bevruchting.  
+
+* De kandidaat kan het ontstaan van geslachtscellen beschrijven aan de hand van het verschil tussen een dubbele set en een enkelvoudige set chromosomen en de rol van chromosomen bij het overdragen van erfelijke eigenschappen op nakomelingen toelichten.    
+
+5.  *Groei en ontwikkeling*  
+
+* De kandidaat kan uitleggen hoe de ontwikkeling bij de mens en andere zoogdieren voor en na de geboorte verloopt.  
+
+* De kandidaat kan uitleggen hoe de ontwikkeling van planten verloopt.  
+
+* De kandidaat kan van verschillende organismen stadia van levenscycli beschrijven en de daarbij passende begrippen gebruiken.  
+
+* De kandidaat kan uitleggen hoe dieren hun eieren en/of jongen verzorgen.  
+
+* De kandidaat kan uitleggen dat de erfelijke aanleg en de interactie met de omgeving de ontwikkeling van een organisme bepalen.  
+
+* De kandidaat kan beschrijven hoe soorten evolueren: genetische variatie in een veranderende omgeving leidt tot (natuurlijke) selectie, waarbij beter aangepaste organismen meer kans hebben op overleving en voortplanting.     
+### * *Natuurkunde en techniek* * 
+
+6.  *Materie en techniek*  
+
+* De kandidaat kan materialen ordenen aan de hand van een aantal gegeven fysische eigenschappen.  
+
+* De kandidaat kan van een product benoemen uit welke materialen het is samengesteld en bij een ontwerpvoorstel een verband leggen tussen de keuze van het materiaal en de vorm en functie van het ontwerp.  
+
+* De kandidaat kan de fase en de faseverandering van stoffen herkennen en benoemen en uitleggen of daar energie voor nodig is of bij vrij komt.  
+
+* De kandidaat kan het voorkomen van stoffen in een bepaalde fase beschrijven aan de hand van de beweging van moleculen.  
+
+* De kandidaat kan zuivere stoffen en soorten mengsels beschrijven, en uitleggen hoe mengsels met scheidingstechnieken te scheiden zijn.    
+
+7.  *Energie en techniek*  
+
+* De kandidaat kan diverse vormen van (duurzame) energie en energiebronnen onderscheiden.  
+
+* De kandidaat kan uitleggen hoe verschillende vormen van energie in elkaar omgezet kunnen worden en toelichten dat daarbij nooit energie verloren gaat.  
+
+* De kandidaat kan beschrijven op welke manieren warmtetransport kan plaatsvinden of voorkomen kan worden.  
+
+* De kandidaat kan een elektrische huisinstallatie met een kWh-meter en aangesloten apparaten beschrijven, de veiligheidsvoorzieningen toelichten, het energieverbruik berekenen op basis van vermogen van apparaten en een energierekening interpreteren.  
+
+* De kandidaat kan statische elektriciteit beschrijven.  
+
+* De kandidaat herkent een spanningsbron als energiebron, kan een stroomkring beschrijven en kan stroomsterkte en spanning meten.  
+
+* De kandidaat kan magnetisme beschrijven en kan toepassingen beschrijven waarbij een elektrische stroom een magneetveld opwekt.  
+
+* De kandidaat kan van geautomatiseerde stuursystemen en regelsystemen in eenvoudige termen beschrijven hoe invoer, verwerking en uitvoer van informatie plaatsvindt.    
+
+8.  *Licht, geluid en techniek*  
+
+* De kandidaat kan enkele lichtbronnen noemen, de voortplanting en eigenschappen van licht beschrijven en een schaduw construeren als licht van een of twee puntbronnen op een niet-transparant voorwerp valt.  
+
+* De kandidaat kan van een voorwerp dat vóór een vlakke spiegel staat, met een constructietekening uitleggen waar zich het spiegelbeeld bevindt.  
+
+* De kandidaat kan uitleggen dat zichtbaar licht samengesteld is uit primaire licht kleuren (rood, groen en blauw) en kan beschrijven dat verschillende lichtkleuren zijn samengesteld uit combinaties van primaire lichtkleuren. En hij kan beschrijven dat voorwerpen bepaalde kleuren licht absorberen dan wel reflecteren en dat op basis daarvan de waargenomen kleuren van een voorwerp verklaard kunnen worden.  
+
+* De kandidaat kan uitleggen dat licht breekt bij de overgang van lucht naar glas/water en van glas/water naar lucht.  
+
+* De kandidaat kan van een voorwerp, dat voor een bolle lens staat, het beeld construeren en redeneren met brandpuntsafstand, beeldafstand en vergrotingsfactor.  
+
+* De kandidaat kan enkele geluidsbronnen noemen, eigenschappen van geluid en de manier van voortplanten van geluid beschrijven en een aantal toepassingen noemen. En hij kan een grafische voorstelling van geluid interpreteren (met geluidstrilling, frequentie en geluidssterkte, oscilloscoop).    
+
+9.  *Kracht, beweging en techniek*  
+
+* De kandidaat kan soorten krachten herkennen in verschillende situaties, krachten tekenen die werken op een voorwerp, de resulterende kracht herkennen en contactkrachten en krachten die op afstand werken onderscheiden. En hij kan de druk van een voorwerp berekenen als een kracht per oppervlakte-eenheid.  
+
+* De kandidaat kan verklaren dat als een voorwerp in rust is of met een constante snelheid beweegt, de krachten op het voorwerp elkaar in evenwicht houden (de resulterende kracht is gelijk aan nul).  
+
+* De kandidaat kan uitleggen dat het versnellen of vertragen en/of van richting veranderen van een voorwerp veroorzaakt wordt door een werkende (resulterende) kracht.  
+
+* De kandidaat kan zinken, zweven en drijven van voorwerpen in vloeistoffen met verschillende dichtheid verklaren als een resulterende kracht van zwaartekracht en opwaartse kracht.  
+
+* De kandidaat kan uitleggen dat bewegingen en krachten overgebracht kunnen worden door middel van (tand)wielen, hefbomen en katrollen en dat daarbij krachten worden vergroot, verkleind of van richting worden veranderd en bewegingen worden versneld, vertraagd of van richting worden veranderd.  
+
+* De kandidaat kan bij het ontwerpen van een product uitleggen hoe hij stevigheid en stabiliteit kan realiseren door gebruik te maken van profielen, driehoekconstructies, bogen, brede basis en/of in verband bouwen en zijn keuzen relateren aan de vorm en functie(s) van het product.  
+
+* De kandidaat kan een keuze voor verbindingen uitleggen op basis van de functie van het geheel en/of de onderdelen van een (te ontwerpen) product.    
+
+10.  *Ruimte*  
+
+* De kandidaat kan weersverschijnselen beschrijven, kan meetinstrumenten en meetgegevens gebruiken en kan een verband leggen tussen de weersverschijnselen en het seizoen.  
+
+* De kandidaat kan het zonnestelsel beschrijven als een samenhangend systeem van de zon en zich daar omheen bewegende planeten en manen.  
+
+* De kandidaat kan uitleggen hoe de beweging van de aarde om de zon en van de maan om de aarde natuurverschijnselen kunnen veroorzaken.     
 

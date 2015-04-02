@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is, mede in verband met [artikel 79 van de Grondwet](../../../../wet/grondwet/BWBR0001840/README.md), algemene regels te stellen over de advisering in zaken van algemeen verbindende voorschriften of te voeren beleid van het Rijk;
+Alzo Wij in overweging genomen hebben, dat het wenselijk is, mede in verband met artikel 79 van de Grondwet, algemene regels te stellen over de advisering in zaken van algemeen verbindende voorschriften of te voeren beleid van het Rijk;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:     
 ### HOOFDSTUK  1  
 
@@ -24,7 +24,7 @@ b. Onze Minister: Onze Minister wie het aangaat.
 
 Geen adviescollege in de zin van deze wet is: 
 
-a. een college als bedoeld in [artikel 1:1, tweede lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);  
+a. een college als bedoeld in artikel 1:1, tweede lid, van de Algemene wet bestuursrecht;  
 
 b. een college dat voor meer dan de helft bestaat uit ambtenaren die werkzaam zijn bij een ministerie of een daaronder ressorterende instelling, dienst of bedrijf, en die in verband met hun werkzaamheden in dat college zitting hebben.   
 
@@ -166,7 +166,7 @@ Een adviescollege zendt jaarlijks voor 1 april aan Onze Minister een ontwerp voo
 
 ### Artikel  27  
 
-Een adviescollege houdt bij het vervullen van zijn taak zoveel mogelijk rekening met het werkprogramma. Onverminderd de [Comptabiliteitswet 2001](../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md) vervult het zijn taak met de middelen die ingevolge de desbetreffende begrotingswet ter beschikking zijn gesteld. 
+Een adviescollege houdt bij het vervullen van zijn taak zoveel mogelijk rekening met het werkprogramma. Onverminderd de Comptabiliteitswet 2001 vervult het zijn taak met de middelen die ingevolge de desbetreffende begrotingswet ter beschikking zijn gesteld. 
 
 ### HOOFDSTUK  6  
 

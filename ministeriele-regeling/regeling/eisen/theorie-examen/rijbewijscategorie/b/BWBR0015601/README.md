@@ -10,7 +10,7 @@ Besluit:
 
 De aanvrager van het theorie-examen moet blijk geven kennis en inzicht te bezitten van de hierna genoemde voorschriften, alsmede kennis en inzicht van die voorschriften voor zover deze gelden voor andere verkeersdeelnemers: 
 
-a. van de Wegenverkeerswet 1994: de artikelen 1, eerste lid, 2, eerste tot en met derde lid, 5, 6, 7, 8, 9, 10, 11, 12, 21, eerste lid, 36, eerste, derde, vijfde en zesde lid, 37, eerste en tweede lid, 40, eerste en vierde lid, 41, 57, 58, 60, eerste en vijfde lid, 72, 81, eerste lid, 107, eerste en tweede lid, 108, eerste lid, onderdelen a, b en c, 118, 123, 123b, 130, 131, 132, 160, 162, 163, 164, eerste tot en met derde lid, 174, eerste en tweede lid, 179 en 184;  
+a. van de Wegenverkeerswet 1994: de artikelen 1, eerste lid, 2, eerste tot en met derde lid, 5, 6, 7, 8, 9, 10, 11, 12, 21, eerste lid, 36, eerste, derde, vijfde en zesde lid, 37, eerste en tweede lid, 40, eerste en vierde lid, 41, 60, eerste lid, 72, 81, eerste lid, 107, eerste en tweede lid, 108, eerste lid, onderdelen a, b en c, 118, 123, 123b, 130, 131, 132, 160, 162, 163, 164, eerste tot en met derde lid, 174, eerste en tweede lid, 179 en 184;  
 
 b. van het Reglement verkeersregels en verkeerstekens 1990: de artikelen 1 tot en met 98 en de bij dat reglement behorende bijlagen 1 en 2, alsmede de gebruikelijke, door de wegbeheerder geplaatste, aanduidingen ter geleiding van het verkeer of ter informatie van de weggebruikers;  
 

@@ -116,7 +116,6 @@ b. verdergaande controle als bedoeld in artikel 37hd van de Luchtvaartwet;
 c. controle van de identiteit van personen en de rechtmatigheid van hun aanwezigheid op het luchtvaartterrein als bedoeld in artikel 37f, tweede lid, onder b, en 37h, derde lid, van de Luchtvaartwet.   
 
 ### Artikel  11a  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Personen die werkzaam zijn op een luchtvaartterrein en die toegang hebben tot de om beveiligingsredenen beperkt toegankelijke zones van de in artikel 37b, eerste lid, onder b en c, van de Luchtvaartwet bedoelde delen van dat luchtvaartterrein, beschikken over een door een exploitant van een luchtvaartterrein verstrekt of erkend toegangsbewijs.   
 2.  Alvorens het toegangsbewijs als bedoeld in het eerste lid, wordt verstrekt, wordt een achtergrondonderzoek ingesteld. Ten aanzien van de personen bedoeld in het eerste lid, betreft dit onderzoek de afgifte van een verklaring omtrent het gedrag als bedoeld in artikel 28 van de Wet justitiële en strafvorderlijke gegevens, die is gekoppeld aan continue controle op nieuwe gegevens in de justitiële documentatie van de houder van de verklaring. Ten aanzien van personen die een functie vervullen of willen vervullen die is aangewezen als vertrouwensfunctie, betreft dit onderzoek de afgifte van een verklaring als bedoeld in artikel 1, onder b, van de Wet veiligheidsonderzoeken.   

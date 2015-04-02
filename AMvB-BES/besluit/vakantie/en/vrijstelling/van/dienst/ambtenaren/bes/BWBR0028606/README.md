@@ -12,9 +12,8 @@
 
 ### Artikel  2  
 
-1.  [vervallen]   
-2.  Op de ambtenaar van politie, bedoeld in [artikel 1, onderdeel c, van het Besluit rechtspositie korps politie BES](../../../../../../../../../../AMvB-BES/besluit/rechtspositie/korps/politie/bes/BWBR0028767/README.md), is uitsluitend hoofdstuk IV van dit besluit van toepassing.   
-3.  Voor de toepassing van hoofdstuk II van dit besluit worden niet als ambtenaar beschouwd: 
+1.  Dit besluit is niet van toepassing op de ambtenaar van politie, bedoeld in artikel 1, onderdeel c, van het Besluit rechtspositie korps politie BES.   
+2.  Voor de toepassing van hoofdstuk II van dit besluit worden niet als ambtenaar beschouwd: 
 
 a. het onderwijzend personeel bij het van overheidswege gegeven openbaar onderwijs. Onder onderwijzend personeel wordt mede begrepen de amanuensis werkzaam bij het van overheidswege gegeven openbaar onderwijs;  
 
@@ -28,7 +27,7 @@ b. de met volledige dagtaak aan een politieopleidingschool verbonden leerkracht.
 
 Voor de toepassing van dit besluit en de uit kracht daarvan gegeven voor schriften wordt verstaan onder: 
 
-*bevoegde autoriteit:*
+*bevoegd gezag:*
 
 a. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, voor wat betreft hoofden van dienst in dienst van de staat;  
 
@@ -52,15 +51,20 @@ c. de overige kinderen tot wie de betrokken ambtenaar in familie-rechtelijke bet
 
 ### Hoofdstuk  II  
 
-####Vakantie van ambtenaren niet behorende tot het onderwijzend personeel bij het van overheidswege gegeven openbaar onderwijs en tot die bedoeld in Hoofdstuk IIIA  alsmede die bedoeld in het [Besluit rechtspositie korps politie BES](../../../../../../../../../../AMvB-BES/besluit/rechtspositie/korps/politie/bes/BWBR0028767/README.md)
+####Vakantie van ambtenaren niet behorende tot het onderwijzend personeel bij het van overheidswege gegeven openbaar onderwijs en tot die bedoeld in Hoofdstuk IIIA  alsmede die bedoeld in het Besluit rechtspositie korps politie BES
 
 ### Artikel  5  
 
 1.  De ambtenaar heeft per kalenderjaar aanspraak op vakantie met behoud van vol inkomen, op de voorwaarden en met inachtneming van de regelen gesteld in dit hoofdstuk. Hij is gerechtigd zijn vakantie geheel of gedeeltelijk in het buitenland door te brengen.   
-2.  De vakantie bedoeld in het eerste lid, wordt aan de ambtenaar op zijn daartoe strekkend schriftelijk verzoek aaneengesloten verleend door de bevoegde autoriteit.   
+2.  De vakantie bedoeld in het eerste lid, wordt aan de ambtenaar op zijn daartoe strekkend schriftelijk verzoek aaneengesloten verleend door het bevoegd gezag.   
 3.  Wanneer de ambtenaar dit verzoekt en de dienst het toelaat, kan in een kalenderjaar ten hoogste de helft van het aantal vakantieuren waarop de ambtenaar per kalenderjaar aanspraak heeft gesplitst worden verleend. Door of namens het bevoegd gezag kan voor een bepaalde dienst of een bepaald dienstvak of bedrijf het minimum-aantal aaneengesloten uren worden vastgesteld dat op een zelfde dag als vakantieuren kan worden toegekend. Dit aantal mag niet hoger gesteld worden dan het voor een ambtenaar volgens de voor hem geldende werktijd op één dag vastgestelde aantal werkuren.   
-4.  Omtrent de tijdstippen, waarop de vakantie zal ingaan, alsmede omtrent de tijdvakken waarin deze eventueel zal worden gesplitst, beslist de bevoegde autoriteit.   
+4.  Omtrent de tijdstippen, waarop de vakantie zal ingaan, alsmede omtrent de tijdvakken waarin deze eventueel zal worden gesplitst, beslist het bevoegd gezag.   
 5.  Bij het nemen van de beslissing bedoeld in het vorige lid, wordt met inachtneming van de belangen van de dienst zoveel mogelijk rekening gehouden met de wensen van de ambtenaar, waartoe deze kenbaar maakt, wanneer hij bij voorkeur de hem toekomende vakantie wenst te genieten.  
+
+### Artikel  5a  
+
+1.  Het bevoegd gezag kan aan het begin van het kalenderjaar voor dat jaar twee dagen als brugdag aanwijzen. Onder brugdag wordt verstaan een dag tussen een feestdag en een weekend of tussen een weekend en een feestdag, waarop de ambtelijke dienst gesloten is en de ambtenaar zijn werkzaamheden niet kan verrichten. De niet gewerkte uren worden in mindering gebracht op het aantal vakantie-uren waarop de ambtenaar dat kalenderjaar aanspraak heeft.   
+2.  De aanwijzing van brugdagen vindt niet plaats dan nadat daarover door of namens Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties overleg is gepleegd met de Sectorale Overlegcommissie BES, bedoeld in artikel 2.1 van het Besluit overlegstelsel BES.  
 
 ### Artikel  6  
 
@@ -69,25 +73,25 @@ c. de overige kinderen tot wie de betrokken ambtenaar in familie-rechtelijke bet
 
 ### Artikel  6a  
 
-Voor zover de ambtenaar ten aanzien van wie een dienstrooster als bedoeld in [artikel 37 van het Rechtspositiebesluit ambtenaren BES](../../../../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md) is vastgesteld, vakantie is verleend op een tijd waarop hij volgens het dienstrooster niet gehouden is werkzaamheden te verrichten, maar wel op de werkplaats beschikbaar moet zijn, wordt slechts de helft van die tijd als genoten vakantie-uren aangemerkt. 
+Voor zover de ambtenaar ten aanzien van wie een dienstrooster als bedoeld in artikel 37 van het Rechtspositiebesluit ambtenaren BES is vastgesteld, vakantie is verleend op een tijd waarop hij volgens het dienstrooster niet gehouden is werkzaamheden te verrichten, maar wel op de werkplaats beschikbaar moet zijn, wordt slechts de helft van die tijd als genoten vakantie-uren aangemerkt. 
 
 ### Artikel  7  
 
-1.  De in dit hoofdstuk bedoelde vakantie kan wegens dringende redenen van dienstbelang geheel of gedeeltelijk worden geweigerd of ingetrokken bij gemotiveerde beschikking van de bevoegde autoriteit.   
+1.  De in dit hoofdstuk bedoelde vakantie kan wegens dringende redenen van dienstbelang geheel of gedeeltelijk worden geweigerd of ingetrokken bij gemotiveerde beschikking van het bevoegd gezag.   
 2.  Indien de vakantie krachtens het vorige lid geheel of gedeeltelijk is geweigerd of ingetrokken behoudt de ambtenaar zijn aanspraak op het aantal door hem niet genoten vakantieuren. Weigering of intrekking kan voor ten hoogste 12 maanden uitstel van de desbetreffende vakantie tot gevolg hebben. Behalve in het geval dat de dienstverhouding tot de overheid wegens ontslag eindigt, kan aan de ambtenaar in enig kalenderjaar nimmer een langere vakantie worden verleend dan tweemaal het hem volgens artikel 8 toekomende aantal vakantieuren.   
 3.  In geval van intrekking van de vakantie zoals bedoeld in het voorgaande lid wordt, indien de ambtenaar als gevolg daarvan van de hem op een bepaalde dag toegekende vakantieuren er een deel niet heeft kunnen genieten, geen van de op die dag vallende vakantieuren als zodanig aangemerkt. Indien de ambtenaar tengevolge van de intrekking van vakantie geldelijke schade lijdt, wordt deze schade hem vergoed. In het geval de ambtenaar zijn vakantie doorbrengt buiten het eiland waar hij werkzaam is, wordt hem, indien hij op het tijdstip waarop hij zijn werkzaamheden hervat minder dan 3/4 gedeelte van het aantal vakantieuren dat hij buiten het eiland waar hij werkzaam is zou doorbrengen heeft genoten, bovendien vergoed de door hem voor zich en zijn gezin gemaakte reiskosten naar de plaats waar hij op het tijdstip van de intrekking met vakantie vertoeft, vermeerderd met een vergoeding van de door hem gemaakte kosten van een rechtstreekse reis van die plaats naar het eiland waar hij werkzaam is.  
 
 ### Artikel  8  
 
-1.  Het aantal vakantieuren waarop de ambtenaar per kalenderjaar aanspraak heeft, bedraagt voor de ambtenaar die ingevolge het [Bezoldigingsbesluit 1998 BES](../../../../../../../../../../AMvB-BES/bezoldigingsbesluit/1998/bes/BWBR0028491/README.md) of volgens daarmee in andere organieke bezoldigingsregelingen voorkomende overeenkomstige bezoldigingsschalen ingeschaald is in: 
+1.  Het aantal vakantieuren waarop de ambtenaar per kalenderjaar aanspraak heeft, bedraagt voor de ambtenaar die ingevolge het Bezoldigingsbesluit 1998 BES of volgens daarmee in andere organieke bezoldigingsregelingen voorkomende overeenkomstige bezoldigingsschalen ingeschaald is in: 
 
-a. schaal 1 tot en met 5: 176 werkuren;  
+a. schaal 1 tot en met 5: 184 werkuren;  
 
 b. schaal 6 tot en met 9: 184 werkuren;  
 
 c. schaal 10 tot en met 13: 184 werkuren;  
 
-d. schaal 14 tot en met 17: 200 werkuren.   De ambtenaar die niet in een van de bedoelde schalen ingeschaald is, maar eenzelfde bezoldiging geniet overeenkomstig een van de genoemde schalen, dan wel een bezoldiging geniet waarvan de hoogte niet in een van genoemde schalen voorkomt, heeft aanspraak op het aantal werkuren vakantie dat behoort bij de naast-hogere schaal. De ambtenaar die niet ingeschaald is en een hogere bezoldiging geniet dan de ambtenaar die bezoldigd is in schaal 17, heeft aanspraak op 240 werkuren vakantie.   
+d. schaal 14 tot en met 17: 192 werkuren.   De ambtenaar die niet in een van de bedoelde schalen ingeschaald is, maar eenzelfde bezoldiging geniet overeenkomstig een van de genoemde schalen, dan wel een bezoldiging geniet waarvan de hoogte niet in een van genoemde schalen voorkomt, heeft aanspraak op het aantal werkuren vakantie dat behoort bij de naast-hogere schaal. De ambtenaar die niet ingeschaald is en een hogere bezoldiging geniet dan de ambtenaar die bezoldigd is in schaal 17, heeft aanspraak op 240 werkuren vakantie.   
 2.  Aan de ambtenaar die ingevolge het voor hem geldende werkrooster avond- en/of nachtdienst en dienst op zon- en feestdagen moet verrichten wordt per kalenderjaar 24 extra vakantie-uren verleend.   
 3.  Voor de toepassing van het eerste lid geldt de categorie waartoe de ambtenaar op 1 januari van het kalenderjaar, waarover hij aanspraak op vakantie kan doen gelden behoort, of in geval van indiensttreding in de loop van het kalenderjaar, de categorie waartoe hij behoort op het tijdstip van indiensttreding.   
 4.  Voor een ambtenaar voor wie de geldende werktijd korter is dan de gebruikelijke volledige werktijd, wordt het ingevolge het eerste tot en met derde lid van toepassing zijnde aantal vakantieuren vermenigvuldigd met een breuk waarvan de teller bestaat uit het aantal uren van de voor die ambtenaar geldende werktijd en de noemer uit het aantal uren van de voor zijn functie geldende gebruikelijke volledige werktijd.   
@@ -126,7 +130,7 @@ b. over het gedeelte van dat kalenderjaar vanaf zijn aanstelling: 1/12 gedeelte 
 
 ### Artikel  13  
 
-Het bepaalde in het vorige artikel is van overeenkomstige toepassing op: 
+Artikel 12 is van overeenkomstige toepassing op: 
 
 a. de ambtenaar in dienst van de Staat die in dienst van een openbaar lichaam overgaat;  
 
@@ -227,7 +231,7 @@ Vervallen per 01-07-2012
 
 ### Artikel  26  
 
-1.  Tenzij de belangen van de dienst zich daartegen verzetten, wordt aan de ambtenaar op zijn daartoe strekkend mondeling of schriftelijk verzoek door de bevoegde autoriteit vrijstelling van dienst wegens bijzondere omstandigheden, met behoud van vol inkomen, verleend: 
+1.  Tenzij de belangen van de dienst zich daartegen verzetten, wordt aan de ambtenaar op zijn daartoe strekkend mondeling of schriftelijk verzoek door het bevoegd gezag vrijstelling van dienst wegens bijzondere omstandigheden, met behoud van vol inkomen, verleend: 
 
 I. 
 
@@ -266,7 +270,7 @@ III.
 a. voor het bijwonen van vergaderingen of zittingen van of het verrichten van werkzaamheden voor publiekrechtelijke colleges of commissies, waarin de ambtenaar is benoemd of aangewezen, en voor zover zulks niet in vrije tijd kan geschieden;  
 
 b. voor het voldoen aan een wettelijke verplichting, een en ander voor zover dit niet in vrije tijd kan geschieden en omzetting van dienst niet mogelijk is.       
-2.  Tenzij de belangen van de dienst zich daartegen verzetten wordt jaarlijks op de daartoe strekkend mondeling of schriftelijk verzoek van de ambtenaar door de bevoegde autoriteit ten hoogste vijftien dagen vrijstelling van dienst wegens bijzondere omstandigheden, met behoud van vol inkomen, verleend voor het bijwonen van vergaderingen van statutaire organen van verenigingen van ambtenaren, van centrale organisaties waarbij deze verenigingen zijn aangesloten of van internationale ambtenarenorganisaties, mits de ambtenaar hieraan deelneemt: 
+2.  Tenzij de belangen van de dienst zich daartegen verzetten wordt jaarlijks op de daartoe strekkend mondeling of schriftelijk verzoek van de ambtenaar door het bevoegd gezag ten hoogste vijftien dagen vrijstelling van dienst wegens bijzondere omstandigheden, met behoud van vol inkomen, verleend voor het bijwonen van vergaderingen van statutaire organen van verenigingen van ambtenaren, van centrale organisaties waarbij deze verenigingen zijn aangesloten of van internationale ambtenarenorganisaties, mits de ambtenaar hieraan deelneemt: 
 
 a. voor zover betreft vergaderingen van verenigingen van ambtenaren als bestuurslid van die vereniging dan wel als afgevaardigde of bestuurslid van een onderdeel daarvan;  
 
@@ -276,13 +280,13 @@ c. voor zover betreft vergaderingen van een internationale ambtenarenorganisatie
 
 ### Artikel  27  
 
-1.  De dagen gedurende welke de ambtenaar op grond van [artikel 43 van het Rechtspositiebesluit ambtenaren BES](../../../../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md) de toegang tot de dienstlokalen, dienstgebouwen of het werk, dan wel het verblijf aldaar, is ontzegd, anders dan wegens hinderlijke gedragingen of het gebruik van alcoholhoudende drank, worden als vrijstelling van dienst wegens bijzondere omstandigheden, met behoud van vol inkomen, aangemerkt.   
-2.  De dagen gedurende welke het de ambtenaar op grond van [artikel 46 van het Rechtspositiebesluit ambtenaren BES](../../../../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md) wegens besmettelijke ziekte van een persoon als in dat artikel bedoeld, verboden is aan de dienst deel te nemen, worden als vrijstelling van dienst wegens bijzondere omstandigheden, met behoud van vol inkomen, aangemerkt.  
+1.  De dagen gedurende welke de ambtenaar op grond van artikel 43 van het Rechtspositiebesluit ambtenaren BES de toegang tot de dienstlokalen, dienstgebouwen of het werk, dan wel het verblijf aldaar, is ontzegd, anders dan wegens hinderlijke gedragingen of het gebruik van alcoholhoudende drank, worden als vrijstelling van dienst wegens bijzondere omstandigheden, met behoud van vol inkomen, aangemerkt.   
+2.  De dagen gedurende welke het de ambtenaar op grond van artikel 46 van het Rechtspositiebesluit ambtenaren BES wegens besmettelijke ziekte van een persoon als in dat artikel bedoeld, verboden is aan de dienst deel te nemen, worden als vrijstelling van dienst wegens bijzondere omstandigheden, met behoud van vol inkomen, aangemerkt.  
 
 ### Artikel  29  
 
-1.  Vrijstelling van dienst wegens bijzondere omstandigheden kan bovendien op daartoe strekkend schriftelijk verzoek van de ambtenaar worden verleend in de gevallen waarin het in het tweede lid bedoelde gezag of de in dat lid bedoelde autoriteit oordeelt dat daartoe aanleiding bestaat. Deze vrijstelling van dienst wordt verleend voor de duur van ten hoogste drie maanden en kan geheel of gedeeltelijk in het buitenland worden doorgebracht.   
-2.  Indien de vrijstelling van dienst bedoeld in het eerste lid van dit artikel van langere duur is dan 15 dagen of voor geheel of gedeeltelijk verblijf in het buitenland wordt verleend, wordt deze bij beschikking van het bevoegde gezag verleend. Indien de vrijstelling bedoeld in het eerste lid niet van langere duur is dan 15 dagen noch voor geheel of gedeeltelijk verblijf in het buitenland wordt verleend, wordt deze door de bevoegde autoriteit verleend.   
+1.  Vrijstelling van dienst wegens bijzondere omstandigheden kan bovendien op daartoe strekkend schriftelijk verzoek van de ambtenaar worden verleend in de gevallen waarin het bevoegd gezag oordeelt dat daartoe aanleiding bestaat. Deze vrijstelling van dienst wordt verleend voor de duur van ten hoogste drie maanden en kan geheel of gedeeltelijk in het buitenland worden doorgebracht.   
+2.  Indien de vrijstelling van dienst bedoeld in het eerste lid van dit artikel van langere duur is dan 15 dagen of voor geheel of gedeeltelijk verblijf in het buitenland wordt verleend, wordt deze bij beschikking van het bevoegde gezag verleend. Indien de vrijstelling bedoeld in het eerste lid niet van langere duur is dan 15 dagen noch voor geheel of gedeeltelijk verblijf in het buitenland wordt verleend, wordt deze door het bevoegd gezag verleend.   
 3.  Gedurende de vrijstelling van dienst bedoeld in het eerste lid van dit artikel heeft de ambtenaar aanspraak op zijn bezoldiging, vermeerderd met de toelagen, die tot het ambtelijk inkomen worden gerekend voor de berekening van het pensioengevend inkomen gedurende de eerste maand en naar reden van vijftig ten honderd van zijn bezoldiging, vermeerderd met de toelagen, die tot het ambtelijk inkomen worden gerekend voor de berekening van het pensioengevend inkomen gedurende elk der volgende twee maanden.   
 4.  De vrijstelling van dienst bedoeld in het eerste lid van dit artikel kan, voor zover deze is verleend voor een langere duur dan 30 dagen en indien dringende redenen van dienstbelang zulks vorderen, worden ingekort tot minimaal 30 dagen, bij een met redenen omklede beschikking van het bevoegde gezag.   
 5.  Indien de ambtenaar tengevolge van de inkorting bedoeld in het voorgaande lid geldelijke schade lijdt, wordt deze schade hem vergoed.   
@@ -317,7 +321,7 @@ c. tachtig ten honderd van zijn vol inkomen gedurende de resterende maanden.
 
 II. voor een ambtenaar in tijdelijke dienst zijn vol inkomen.     
 5.  Ingeval de vrijstelling van dienst wegens ziekte langer duurt dan dertig dagen, worden voor de toepassing van het vierde lid, in afwijking van artikel 4, de bijzondere individuele vergoedingen welke strekken tot vergoeding van onkosten na die eerste dertig dagen niet langer tot het inkomen gerekend.   
-6.  Gedurende een vrijstelling van dienst wegens ziekte heeft de ambtenaar gedurende de eerste dertig dagen voorts aanspraak op de vergoeding die hij ingevolge [artikel 25a](../../../../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md) of [25b van het Rechtspositiebesluit ambtenaren BES](../../../../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md) genoten zou hebben, indien hij niet door ziekte verhinderd zou zijn geweest zijn dienst te verrichten. Na die eerste dertig dagen heeft hij aanspraak op een vergoeding ter grootte van de gemiddeld over de voorgaande twaalf maanden genoten vergoeding ingevolge [artikel 25a](../../../../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md) of [25b van het Rechtspositiebesluit ambtenaren BES](../../../../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md).  
+6.  Gedurende een vrijstelling van dienst wegens ziekte heeft de ambtenaar gedurende de eerste dertig dagen voorts aanspraak op de vergoeding die hij ingevolge artikel 25a of 25b van het Rechtspositiebesluit ambtenaren BES genoten zou hebben, indien hij niet door ziekte verhinderd zou zijn geweest zijn dienst te verrichten. Na die eerste dertig dagen heeft hij aanspraak op een vergoeding ter grootte van de gemiddeld over de voorgaande twaalf maanden genoten vergoeding ingevolge artikel 25a of 25b van het Rechtspositiebesluit ambtenaren BES.  
 7.  Een opnieuw ingetreden verhindering tot dienstverrichting wegens ziekte wordt voor het bepalen van de in het tweede en vierde lid genoemde termijnen als een voortzetting van de vorige verhindering beschouwd, tenzij die verhindering zich voordoet, nadat tenminste dertig kalenderdagen zijn verstreken sedert de ambtenaar zijn dienst volledig heeft hervat.   
 8.  Het inkomen bedoeld onder lid 4, letters b en c, wordt naar boven afgerond tot het naaste bedrag in gehele dollars dat een veelvoud is van twaalf.   
 9.  Tijdens de vrijstelling van dienst wegens ziekte ondergaat het inkomen van de ambtenaar dezelfde wijzigingen, welke het zou hebben ondergaan indien de ambtenaar niet verhinderd zou zijn geweest zijn dienst uit te oefenen.  
@@ -357,13 +361,13 @@ In de gevallen bedoeld in de artikelen 31A en 31B kan het bevoegde gezag op gron
 
 ### Artikel  32  
 
-1.  Vrijstelling van dienst wegens ziekte wordt door het in het tweede lid bedoelde gezag of de in dat lid bedoelde autoriteit verleend. Deze vrijstelling van dienst kan, onverminderd het bepaalde in artikel 34, met schriftelijke toestemming van het bevoegde gezag geheel of gedeeltelijk in het buitenland worden doorgebracht.   
-2.  Indien de vrijstelling van dienst bedoeld in het eerste lid van dit artikel van langere duur is dan dertig dagen of voor verblijf in het buitenland wordt verleend, wordt deze bij beschikking van het bevoegde gezag verleend. Indien de vrijstelling van dienst bedoeld in het eerste lid niet van langere duur is dan dertig dagen noch voor verblijf in het buitenland wordt verleend, wordt deze door de bevoegde autoriteit verleend.  
+1.  Vrijstelling van dienst wegens ziekte wordt door het bevoegd gezag verleend. Deze vrijstelling van dienst kan, onverminderd het bepaalde in artikel 34, met schriftelijke toestemming van het bevoegde gezag geheel of gedeeltelijk in het buitenland worden doorgebracht.   
+2.  Indien de vrijstelling van dienst bedoeld in het eerste lid van dit artikel van langere duur is dan dertig dagen of voor verblijf in het buitenland wordt verleend, wordt deze bij beschikking van het bevoegde gezag verleend. Indien de vrijstelling van dienst bedoeld in het eerste lid niet van langere duur is dan dertig dagen noch voor verblijf in het buitenland wordt verleend, wordt deze door het bevoegd gezag verleend.  
 
 ### Artikel  33  
 
-1.  De ambtenaar die wegens ziekte verhinderd is zijn dienst uit te oefenen, geeft daarvan onverwijld kennis aan de bevoegde autoriteit.   
-2.  De bevoegde autoriteit kan van de ambtenaar overlegging van een geneeskundige verklaring vorderen of hem door een geneeskundige laten onderzoeken.   
+1.  De ambtenaar die wegens ziekte verhinderd is zijn dienst uit te oefenen, geeft daarvan onverwijld kennis aan het bevoegd gezag.   
+2.  Het bevoegd gezag kan van de ambtenaar overlegging van een geneeskundige verklaring vorderen of hem door een geneeskundige laten onderzoeken.   
 3.  Ter verkrijging van een vrijstelling van dienst wegens ziekte van meer dan drie achtereenvolgende dagen, is overlegging van een geneeskundige verklaring door de ambtenaar verplicht.   
 4.  Vrijstelling van dienst wegens ziekte van meer dan dertig dagen of verlenging daarvan waardoor deze vrijstelling van dienst van langere duur wordt dan dertig dagen, wordt door het bevoegde gezag slechts verleend indien uit een schriftelijke verklaring, afgegeven door één of meerdere door de overheid aangewezen geneeskundigen, blijkt dat de betrokken ambtenaar wegens ziekte verhinderd is zijn dienst uit te oefenen. In de door deze geneeskundige afgegeven verklaring wordt, met inachtneming van het gestelde in artikel 31, derde lid, het tijdvak aangegeven waarin de ambtenaar vermoedelijk zijn dienst niet zal kunnen uitoefenen. Indien verblijf in het buitenland noodzakelijk blijkt, wordt tevens hiervan, met vermelding van de plaats van verblijf en de wijze waarop de reis moet worden volbracht, mededeling gedaan.   
 5.  [vervallen]   
@@ -376,7 +380,7 @@ In de gevallen bedoeld in de artikelen 31A en 31B kan het bevoegde gezag op gron
 ### Artikel  35  
 
 1.  Van een uitspraak krachtens artikel 33, vierde lid of krachtens artikel 36, eerste lid, staat, binnen 30 dagen nadat de ambtenaar van de uitspraak schriftelijk in kennis is gesteld, beroep open bij een herkeuringscommissie, bestaande uit tenminste drie geneeskundigen. Een van deze geneeskundigen wordt aangewezen door de betrokken ambtenaar.   
-2.  Het krachtens het eerste lid in te dienen beroepschrift wordt aangeboden aan het gezag of de autoriteit die ingevolge het vierde lid de herkeuringscommissie moet benoemen. Het beroepschrift vermeldt tevens de naam en het adres van de geneeskundige die door de betrokken ambtenaar voor benoeming in de herkeuringscommissie is aangewezen.   
+2.  Het krachtens het eerste lid in te dienen beroepschrift wordt aangeboden aan het bevoegd gezag dat ingevolge het vierde lid de herkeuringscommissie moet benoemen. Het beroepschrift vermeldt tevens de naam en het adres van de geneeskundige die door de betrokken ambtenaar voor benoeming in de herkeuringscommissie is aangewezen.   
 3.  De leden van de herkeuringscommissie mogen niet bij een uitspraak, bedoeld in het eerste lid van dit artikel, betrokken zijn geweest.   
 4.  De leden van de herkeuringscommissie worden benoemd: 
 
@@ -397,12 +401,12 @@ b. of zich een omstandigheid voordoet, als bedoeld in artikel 31A of in artikel 
 c. of verdere maatregelen in het belang van het herstel nodig zijn;  
 
 d. wanneer en in welke mate de dienst kan worden hervat.     
-2.  De vanwege de dienst optredende geneeskundige deelt het oordeel terstond mede aan de ambtenaar en stelt het gezag dat of de autoriteit die het onderzoek aanvroeg, daarvan zo spoedig mogelijk in kennis.  
+2.  De vanwege de dienst optredende geneeskundige deelt het oordeel terstond mede aan de ambtenaar en stelt het gezag dat het onderzoek aanvroeg, daarvan zo spoedig mogelijk in kennis.  
 
 ### Artikel  35b  
 
-1.  De ambtenaar, die zich met het oordeel van de in artikel 35A, tweede lid, bedoelde geneeskundige, niet kan verenigen, kan hiervan, mits binnen de kortst mogelijke tijd, doch in ieder geval binnen 3 maal 24 uur nadat dit oordeel te zijner kennis is gebracht, onder opgave van redenen aan het gezag dat, of autoriteit, die het onderzoek aanvroeg, schriftelijk mededeling doen. Hij kan ter ondersteuning van zijn bezwaar een verklaring overleggen van een geneeskundige, die alsdan door de in het tweede lid bedoelde commissie in de gelegenheid wordt gesteld tot het geven van een nadere mondelinge toelichting.   
-2.  Behalve indien, na overleg met de geneeskundige, bedoeld in het tweede lid van artikel 35A, door het gezag dat, of de autoriteit, die het onderzoek aanvroeg, het bezwaar van de ambtenaar reeds aanstonds voldoende gegrond wordt geacht, wordt binnen 14 dagen na ontvangst van het bezwaarschrift door een commissie van geneeskundigen – waarin geen zitting zal mogen hebben de in artikel 35A, tweede lid, bedoelde geneeskundige – een hernieuwd onderzoek ingesteld. De commissie deelt haar oordeel zo spoedig mogelijk mede aan het bevoegde gezag, dat vervolgens de ambtenaar daarvan in kennis stelt.   
+1.  De ambtenaar, die zich met het oordeel van de in artikel 35A, tweede lid, bedoelde geneeskundige, niet kan verenigen, kan hiervan, mits binnen de kortst mogelijke tijd, doch in ieder geval binnen 3 maal 24 uur nadat dit oordeel te zijner kennis is gebracht, onder opgave van redenen aan het gezag dat het onderzoek aanvroeg, schriftelijk mededeling doen. Hij kan ter ondersteuning van zijn bezwaar een verklaring overleggen van een geneeskundige, die alsdan door de in het tweede lid bedoelde commissie in de gelegenheid wordt gesteld tot het geven van een nadere mondelinge toelichting.   
+2.  Behalve indien, na overleg met de geneeskundige, bedoeld in het tweede lid van artikel 35A, door het gezag dat het onderzoek aanvroeg, het bezwaar van de ambtenaar reeds aanstonds voldoende gegrond wordt geacht, wordt binnen 14 dagen na ontvangst van het bezwaarschrift door een commissie van geneeskundigen – waarin geen zitting zal mogen hebben de in artikel 35A, tweede lid, bedoelde geneeskundige – een hernieuwd onderzoek ingesteld. De commissie deelt haar oordeel zo spoedig mogelijk mede aan het bevoegde gezag, dat vervolgens de ambtenaar daarvan in kennis stelt.   
 3.  De kosten van het hernieuwde onderzoek komen voor rekening van de overheid.  
 
 ### Artikel  36  
@@ -432,7 +436,7 @@ Dit besluit wordt aangehaald als: Besluit vakantie en vrijstelling van dienst am
 
 ### Artikel  39  
 
-Dit besluit berust op [artikel 43 van de Ambtenarenwet BES](../../../../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) en [artikel 21, tweede lid, onder a, van de Veiligheidswet BES](../../../../../../../../../../wet-BES/veiligheidswet/bes/BWBR0028586/README.md). 
+Dit besluit berust op artikel 43 van de Ambtenarenwet BES en artikel 21, tweede lid, onder a, van de Veiligheidswet BES. 
 
 ### Artikel  40  
 

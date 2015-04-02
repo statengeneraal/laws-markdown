@@ -399,7 +399,7 @@ c. overige inkomsten met uitzondering van:
 
 5°. de individuele inkomenstoeslag, bedoeld in artikel 36 van de Participatiewet;  
 
-6°. de vergoeding voor de verzorging en opvoeding van een pleegkind in het kader van de Wet op de jeugdzorg;
+6°. de vergoeding voor de verzorging en opvoeding van een pleegkind in het kader van de Jeugdwet;
 
 7°. het kindgebonden budget, bedoeld in de Wet op het kindgebonden budget; 
 
@@ -759,4 +759,4 @@ Overeenkomst inzake de overheidsvordering De ondergetekenden:
 
 5. De bank informeert Onze Minister over de op de rekening betrekking hebbende gegevens.  
 
-6. De bepalingen in deze overeenkomst strekken mede ten behoeve van de bank waar de belastingschuldige een betaalrekening houdt en indien op die betaalrekening een overheidsvordering is uitgevoerd, en hebben dienovereenkomstig te gelden als een onherroepelijk derdenbeding als bedoeld in artikel 253 en verder van Boek 6 van het Burgerlijk Wetboek.   Aldus overeengekomen en getekend, te (plaats) op (datum) Onze Minister, voor deze: De bank, 
+6. De bepalingen in deze overeenkomst strekken mede ten behoeve van de betaaldienstverlener waar de belastingschuldige een betaalrekening houdt en indien op die betaalrekening een overheidsvordering is uitgevoerd, en hebben dienovereenkomstig te gelden als een onherroepelijk derdenbeding als bedoeld in artikel 253 en verder van Boek 6 van het Burgerlijk Wetboek.   Aldus overeengekomen en getekend, te (plaats) op (datum) Onze Minister, voor deze: De bank, 

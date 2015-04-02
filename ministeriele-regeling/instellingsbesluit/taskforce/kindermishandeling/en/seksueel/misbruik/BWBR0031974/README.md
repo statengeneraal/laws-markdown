@@ -3,7 +3,7 @@
 ##Besluit van de Minister van Veiligheid en Justitie en de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 31 augustus 2012, nr. 272329, houdende instelling van de Taskforce kindermishandeling en seksueel misbruik (Instellingsbesluit Taskforce kindermishandeling en seksueel misbruik)
 
 De Minister van Veiligheid en Justitie en de Staatssecretaris van Volksgezondheid, Welzijn en Sport,  
-Gelet op [artikel 2 van de Wet vergoedingen adviescolleges en commissies](../../../../../../../../wet/wet/vergoedingen/adviescolleges/en/commissies/BWBR0024775/README.md),
+Gelet op artikel 2 van de Wet vergoedingen adviescolleges en commissies,
 Besluiten:    
 
 ### Artikel  1  
@@ -16,7 +16,7 @@ a.  *Taskforce:* de Taskforce kindermishandeling en seksueel misbruik, bedoeld i
 
 b.  *Actieplan:* het Actieplan aanpak kindermishandeling 2012–2016 ‘Kinderen Veilig’;  
 
-c.  *kindermishandeling:* kindermishandeling als bedoeld in [artikel 1, eerste lid, van de Wet op de jeugdzorg](../../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md);  
+c.  *kindermishandeling:* kindermishandeling als bedoeld in artikel 1.1 van de Jeugdwet;  
 
 d.  *de Ministers:* de Minister van Veiligheid en Justitie en de Minister van Volksgezondheid, Welzijn en Sport.   
 
@@ -44,7 +44,7 @@ d. het initiëren en stimuleren van activiteiten die bijdragen aan een gevoel va
 
 ####Samenstelling
 
-1.  De Taskforce bestaat uit een voorzitter en ten hoogste acht overige leden.   
+1. De Taskforce bestaat uit een voorzitter en ten hoogste negen overige leden.  
 2.  De voorzitter en overige leden worden door de Ministers benoemd voor ten hoogste drie jaar. Herbenoeming is mogelijk.   
 3.  De voorzitter en overige leden worden benoemd op grond van de deskundigheid die nodig is voor een goede vervulling van de in artikel 3 genoemde taken.   
 4.  De Taskforce kan zich op onderdelen van haar taak laten bijstaan door personen van zowel binnen als buiten de overheid, van wie de deskundige inbreng van belang kan zijn voor haar werkzaamheden. Zij zal onder andere gebruik maken van de expertise van de als waarnemer aan de Taskforce verbonden Nationaal Rapporteur Mensenhandel en Seksueel Geweld tegen kinderen.  
@@ -73,9 +73,9 @@ De Ministers voorzien in de ondersteuning van de Taskforce.
 
 ####Vergoeding
 
-1.  **De leden van de Taskforce, voor zover niet vallend onder de uitzondering van [artikel 2, derde lid, van de Wet vergoedingen adviescolleges en commissies](../../../../../../../../wet/wet/vergoedingen/adviescolleges/en/commissies/BWBR0024775/README.md), komen in aanmerking voor een vaste vergoeding per maand, gebaseerd op salarisschaal 17 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) en een arbeidsduurfactor van 0,0327.  
+1.  **De leden van de Taskforce, voor zover niet vallend onder de uitzondering van artikel 2, derde lid, van de Wet vergoedingen adviescolleges en commissies, komen in aanmerking voor een vaste vergoeding per maand, gebaseerd op salarisschaal 17 van bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984 en een arbeidsduurfactor van 0,0327.  
 
-2.  De vergoeding, bedoeld in het eerste lid, wordt verstrekt overeenkomstig het bepaalde bij of krachtens de [Wet vergoedingen adviescolleges en commissies](../../../../../../../../wet/wet/vergoedingen/adviescolleges/en/commissies/BWBR0024775/README.md).    
+2.  De vergoeding, bedoeld in het eerste lid, wordt verstrekt overeenkomstig het bepaalde bij of krachtens de Wet vergoedingen adviescolleges en commissies.    
 
 ### Artikel  9  
 
@@ -87,7 +87,7 @@ De archiefbescheiden van de Taskforce worden na zijn opheffing of, zo de omstand
 
 ####Intrekking
 
-Het [Instellingsbesluit stuurgroep aanpak kindermishandeling](../../../../../../../../ministeriele-regeling/instellingsbesluit/stuurgroep/aanpak/kindermishandeling/BWBR0024576/README.md) wordt ingetrokken. 
+Het Instellingsbesluit stuurgroep aanpak kindermishandeling wordt ingetrokken. 
 
 ### Artikel  11  
 

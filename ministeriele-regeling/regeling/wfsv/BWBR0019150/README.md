@@ -23,7 +23,7 @@ In deze regeling wordt verstaan onder:
 
 – AOW: Algemene Ouderdomswet;  
 
-– AWBZ: de Algemene Wet Bijzondere Ziektekosten;  
+– Wlz: De Wet langdurige zorg.  
 
 *IOW:* de Wet inkomensvoorziening oudere werklozen; 
 
@@ -31,7 +31,7 @@ In deze regeling wordt verstaan onder:
 
 – TW: de Toeslagenwet;  
 
-– Wet Wajong: de Wet werk en arbeidsondersteuning jonggehandicapten;  
+– Wajong: de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten;  
 
 – WAO: de Wet op de arbeidsongeschiktheidsverzekering;  
 
@@ -59,7 +59,7 @@ Voor de toepassing van dit hoofdstuk worden de landen van het Koninkrijk der Ned
 
 ####Partnerbegrip voor vaststelling premie-inkomen
 
-Voor de toepassing van artikel 8, eerste lid, van de Wfsv wordt verstaan onder partner: degene, die partner is in de zin van artikel 5a van de Algemene wet inzake rijksbelastingen en artikel 1.2 van de Wet inkomstenbelasting 2001 en degene, die gelet op artikel 1.2, vierde lid, onderdeel b, van de laatstgenoemde wet geen keuze voor behandeling als binnenlandse belastingplichtige heeft gedaan of heeft kunnen doen. 
+Voor de toepassing van artikel 8, eerste lid, van de Wfsv wordt verstaan onder partner: degene, die partner is in de zin van artikel 5a van de Algemene wet inzake rijksbelastingen en artikel 1.2 van de Wet inkomstenbelasting 2001, waarbij het vierde lid, onderdeel b, van het laatstgenoemde artikel buiten toepassing blijft. 
 
 ### Artikel  2.3  
 
@@ -442,7 +442,7 @@ b. is artikel 3.24a van overeenkomstige toepassing met dien verstande dat voor h
 
 ####Gemoedsbezwaarden
 
-1.  De persoon, die gemoedsbezwaren heeft tegen één van de verzekeringen, geregeld in de AOW, de ANW, de AWBZ, de ZW, de WAO, de Wet WIA en de WW, alsmede de rechtspersoon, waarbij natuurlijke personen betrokken zijn, die zodanige gemoedsbezwaren hebben, kan op zijn verzoek door de SVB worden ontheven van verplichtingen hem bij de Wfsv, of één van de andere, in dit artikel genoemde wetten opgelegd.   
+1.  De persoon, die gemoedsbezwaren heeft tegen één van de volksverzekeringen, bedoeld in artikel 2 van de Wfsv, of alle werknemersverzekeringen als bedoeld in artikel 2 van de Wfsv, alsmede de rechtspersoon, waarbij natuurlijke personen betrokken zijn, die zodanige gemoedsbezwaren hebben, kan op zijn verzoek door de SVB worden ontheven van verplichtingen hem bij de Wfsv, of bij één van deze volksverzekeringen of werknemersverzekeringen opgelegd.   
 2.  In afwijking van het eerste lid kan geen ontheffing worden verleend van de verplichtingen, bedoeld in artikel 54 van de AWBZ, de artikelen 13 en 49 van de ZW, de artikelen 12 en 80 van de WAO, de artikelen 27 en 33 van de Wet WIA en de artikelen 13 en 25 van de WW.  
 
 ### Artikel  4.2  
@@ -513,14 +513,7 @@ b. indien naar het oordeel van de SVB de gemoedsbezwaren, op grond waarvan de on
 4.  Degene, wiens ontheffing is ingetrokken, is verplicht binnen drie dagen na de dagtekening van de desbetreffende kennisgeving, het bewijs van ontheffing terug te geven aan de SVB.   
 5.  Indien degene, wiens ontheffing is ingetrokken, aan de loonbelasting is onderworpen, doet de SVB van de intrekking mededeling aan degene, die de inhouding verricht.   
 6.  Ten aanzien van de werknemer, die niet aan de loonbelasting is onderworpen, wordt eenzelfde mededeling als bedoeld in het vorige lid gedaan aan diens werkgever.   
-7.  Artikel 4.9 vindt overeenkomstige toepassing ten aanzien van de mededeling van de intrekking van de ontheffing.   
-8.  Onverminderd het overigens in dit artikel bepaalde vervalt de ontheffing, die is verleend aan een rechtspersoon, na verloop van vijf jaar na de datum van ingang van de ontheffing. Met ingang van de datum, waarop een ontheffing is vervallen, kan een nieuwe ontheffing worden verleend.  
-
-### Artikel  4.10  
-
-####Weigering uitkering
-
-In geval van intrekking van een ontheffing van verplichtingen als werknemer, is het UWV bevoegd artikel 44 van de Ziektewet toe te passen indien ongeschiktheid tot werken wegens ziekte, anders dan wegens zwangerschap en bevalling, bestond op de dag van intrekking van de ontheffing, dan wel is ingetreden binnen vier weken na die dag. Op deze termijnen is de Algemene termijnenwet niet van toepassing. 
+7.  Onverminderd het overigens in dit artikel bepaalde vervalt de ontheffing, die is verleend aan een rechtspersoon, na verloop van vijf jaar na de datum van ingang van de ontheffing. Met ingang van de datum, waarop een ontheffing is vervallen, kan een nieuwe ontheffing worden verleend.  
 
 ### Hoofdstuk  5  
 
@@ -840,7 +833,7 @@ a. één of meer rekeningen-courant op naam van de SVB ten behoeve van de financ
 
 b. één of meer rekeningen-courant op naam van het UWV ten behoeve van de financiële middelen van de fondsen die het UWV beheert;  
 
-c. één of meer rekeningen-courant op naam van het Zorginstituut ten behoeve van de financiële middelen van het Algemeen Fonds Bijzondere Ziektekosten.   
+c. één of meer rekeningen-courant op naam van het Zorginstituut ten behoeve van de financiële middelen van het Fonds langdurige zorg.   
 
 ### Artikel  5.17  
 
@@ -867,7 +860,7 @@ d. de afschrijvingen van het tegoed van ’s Rijks schatkist bij een bankinstell
 3.  De Minister van Financiën sluit met de SVB en het UWV overeenkomsten ter uitwerking van het gebruik van de rekeningen-courant.   
 4.  In een overeenkomst als bedoeld in het derde lid worden afspraken vastgelegd over de wederzijdse informatievoorziening tussen enerzijds de Minister van Financiën en anderzijds respectievelijk de SVB en het UWV.   
 5.  De boekingen, bedoeld in het eerste lid, onderdeel b, worden door de Minister van Financiën van valutadata voorzien, zodanig dat deze data overeenkomen met de gemiddelde data waarop de premies door de rijksbelastingdienst worden geïnd.   
-6.  De artikelen 4.3 en 4.4 van de Regeling zorgverzekering zijn van overeenkomstige toepassing op de rekeningen-courant op naam van het Zorginstituut ten behoeve van de financiële middelen van het Algemeen Fonds Bijzondere Ziektekosten.  
+6.  De artikelen 4.3 en 4.4 van de Regeling zorgverzekering zijn van overeenkomstige toepassing op de rekeningen-courant op naam van het Zorginstituut ten behoeve van de financiële middelen van het Fonds langdurige zorg.  
 
 ### Artikel  5.18  
 
@@ -913,7 +906,7 @@ De rekening-couranthouder is bevoegd een bedrag van ten hoogste € 2,5 miljoen
 
 ### Afdeling  3  
 
-####Regels afdracht aan algemeen kinderbijslagfonds, toeslagenfonds, arbeidsondersteuningsfonds jonggehandicapten en arbeidsongeschiktheidsfonds
+####Regels afdracht aan algemeen kinderbijslagfonds, toeslagenfonds, Arbeidsongeschiktheidsfonds jonggehandicapten en arbeidsongeschiktheidsfonds
 
 ### §  1  
 
@@ -931,11 +924,11 @@ b. lasten met betrekking tot het Algemeen Kinderbijslagfonds: de op grond van de
 
 c.  overige baten en lasten met betrekking tot het Algemeen Kinderbijslagfonds: de baten verkregen met toepassing van artikel 17a van de AKW, de baten verkregen met toepassing van artikel 17 van de AKW en de baten en lasten verkregen door interesten en diversen;  
 
-d. Wajong-fonds: het Arbeidsondersteuningsfonds jonggehandicapten, genoemd in artikel 5:1 van de Wet Wajong;  
+d. Wajong-fonds: het Arbeidsongeschiktheidsfonds jonggehandicapten, genoemd in artikel 5:1 van de Wajong;  
 
 e. Toeslagenfonds: het Toeslagenfonds, genoemd in artikel 31 van de Toeslagenwet;  
 
-f. overige baten en lasten met betrekking tot het Wajong-fonds: wettelijke rente, proceskosten, rentelasten, baten op grond van artikel 4:2 van de Wet Wajong, en de vereveningsbijdrage, bedoeld in artikel 2:54 of 3:46 van de Wet Wajong;  
+f. overige baten en lasten met betrekking tot het Wajong-fonds: wettelijke rente, proceskosten, rentelasten, baten op grond van artikel 4:2 van de Wajong, en de vereveningsbijdrage, bedoeld in artikel 2:54 of 3:46 van de Wajong;  
 
 g. valutadag: de op de rekening-courantafschriften aangegeven dag van betaling;  
 
@@ -972,21 +965,21 @@ b. 1/12<sup>de</sup> deel van de geraamde uitvoeringskosten met als valutadatum 
 
 ### §  3  
 
-####Toeslagenfonds en Arbeidsondersteuningsfonds jonggehandicapten
+####Toeslagenfonds en Arbeidsongeschiktheidsfonds jonggehandicapten
 
 ### Artikel  5.29a  
 
-####Middelen Toeslagenfonds en Arbeidsondersteuningsfonds jonggehandicapten
+####Middelen Toeslagenfonds en Arbeidsongeschiktheidsfonds jonggehandicapten
 
-1.  Deze paragraaf heeft betrekking op de middelen voor het Toeslagenfonds en het Arbeidsondersteuningsfonds jonggehandicapten, waarin voorzien wordt door rijksbijdragen.   
-2.  De middelen voor Arbeidsondersteuningsfonds jonggehandicapten dienen ter dekking van lasten die op grond van enige wettelijk voorschrift ten laste van het Arbeidsondersteuningsfonds jonggehandicapten komen.   
+1.  Deze paragraaf heeft betrekking op de middelen voor het Toeslagenfonds en het Arbeidsongeschiktheidsfonds jonggehandicapten, waarin voorzien wordt door rijksbijdragen.   
+2.  De middelen voor Arbeidsongeschiktheidsfonds jonggehandicapten dienen ter dekking van lasten die op grond van enige wettelijk voorschrift ten laste van het Arbeidsongeschiktheidsfonds jonggehandicapten komen.   
 3.  De middelen voor het Toeslagenfonds dienen ter dekking van lasten van het UWV voor: 
 
 a. toeslagen op grond van de TW;  
 
 b. uitkeringen op grond van de Tijdelijke wet BIA;  
 
-c. tegemoetkomingen op grond van de artikelen 10 van de Wet tegemoetkoming chronisch zieken en gehandicapten, zoals dat luidde op 31 december 2013, 63a van de Wet werk en inkomen naar arbeidsvermogen, 65l van de Wet op de arbeidsongeschiktheidsverzekering, 67i van de Wet arbeidsongeschiktheidsverzekering zelfstandigen en 3:75 van de Wet werk en arbeidsondersteuning jonggehandicapten;  
+c. tegemoetkomingen op grond van de artikelen 10 van de Wet tegemoetkoming chronisch zieken en gehandicapten, zoals dat luidde op 31 december 2013, 63a van de Wet werk en inkomen naar arbeidsvermogen, 65l van de Wet op de arbeidsongeschiktheidsverzekering, 67i van de Wet arbeidsongeschiktheidsverzekering zelfstandigen en 3:75 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten;  
 
 d. uitkeringen op grond van de IOW.   
 
@@ -998,9 +991,9 @@ In deze paragraaf wordt verstaan onder:
 
 a.  *toeslagen:* toeslagen op grond van de TW, inclusief de op grond van enige wet over de toeslagen door het UWV verschuldigde premies die niet op deze toeslagen in mindering kunnen worden gebracht en de door het UWV verschuldigde vergoedingen, bedoeld in artikel 46 van de Zorgverzekeringswet. Onder toeslagen wordt mede begrepen de uitkeringen op grond van de Tijdelijke wet BIA;  
 
-b.  *uitkeringen:* uitkeringen op grond van de IOW en de Wet Wajong, inclusief de op grond van enige wet over de uitkeringen door het UWV verschuldigde premies, die niet op deze uitkeringen in mindering kunnen worden gebracht, de door het UWV verschuldigde vergoedingen, bedoeld in artikel 46 van de Zorgverzekeringswet, en de tegemoetkomingen op grond van de artikelen 2:52 en 3:10 van de Wet Wajong;  
+b.  *uitkeringen:* uitkeringen op grond van de IOW en de Wajong, inclusief de op grond van enige wet over de uitkeringen door het UWV verschuldigde premies, die niet op deze uitkeringen in mindering kunnen worden gebracht, de door het UWV verschuldigde vergoedingen, bedoeld in artikel 46 van de Zorgverzekeringswet, en de tegemoetkomingen op grond van de artikelen 2:52 en 3:10 van de Wajong;  
 
-c.  *tegemoetkomingen:* tegemoetkomingen op grond van de artikelen 10 van de Wet tegemoetkoming chronisch zieken en gehandicapten, zoals dat luidde op 31 december 2013, 63a van de Wet werk en inkomen naar arbeidsvermogen, 65l van de Wet op de arbeidsongeschiktheidsverzekering, 67i van de Wet arbeidsongeschiktheidsverzekering zelfstandigen en 3:75 van de Wet werk en arbeidsondersteuning jonggehandicapten;  
+c.  *tegemoetkomingen:* tegemoetkomingen op grond van de artikelen 10 van de Wet tegemoetkoming chronisch zieken en gehandicapten, zoals dat luidde op 31 december 2013, 63a van de Wet werk en inkomen naar arbeidsvermogen, 65l van de Wet op de arbeidsongeschiktheidsverzekering, 67i van de Wet arbeidsongeschiktheidsverzekering zelfstandigen en 3:75 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten;  
 
 d.  *overige baten en lasten:* de overige baten en lasten met betrekking tot het Wajong-fonds en de overige baten en lasten met betrekking tot het Toeslagenfonds.  
 
@@ -1027,7 +1020,7 @@ b. 1/12<sup>de</sup> deel van de geraamde uitvoeringskosten met als valutadatum 
 ####Afrekening
 
 1.  In de jaarrekening, bedoeld in artikel 49 van de Wet SUWI, worden de baten en lasten, alsmede de ontvangen voorschotten, bedoeld in artikel 5.31, eerste lid, met betrekking tot hetToeslagenfonds en het Wajong-fonds opgenomen, waarbij de gegevens met betrekking tot het Toeslagenfonds tevens worden gespecificeerd naar de in artikel 5.29a, derde lid, genoemde wetten, met uitzondering van onderdeel b.   
-2.  De overige baten en lasten met betrekking tot het Toeslagenfonds en het Wajong-fonds kunnen in de jaarrekening, bedoeld in het eerste lid, worden toegerekend aan respectievelijk de Toeslagenwet en de Wet Wajong.   
+2.  De overige baten en lasten met betrekking tot het Toeslagenfonds en het Wajong-fonds kunnen in de jaarrekening, bedoeld in het eerste lid, worden toegerekend aan respectievelijk de Toeslagenwet en de Wajong.   
 3.  Na goedkeuring van het besluit tot vaststelling van de jaarrekening, bedoeld in artikel 34, tweede lid, van de Kaderwet zelfstandige bestuursorganen, rekent de Minister van Sociale Zaken en Werkgelegenheid de baten en lasten, alsmede de ontvangen voorschotten, met betrekking tot het desbetreffende kalenderjaar af, met als valutadatum 1 juni van het hierop volgende kalenderjaar.  
 
 ### §  4  
@@ -1095,7 +1088,7 @@ De Minister van Sociale Zaken en Werkgelegenheid stelt jaarlijks voor 31 oktobe
 
 ####Begripsbepaling
 
-In deze paragraaf wordt verstaan onder AIO: algemene bijstand in de vorm van een aanvullende inkomensvoorziening ouderen, bedoeld in artikel 47a, eerste lid, van de Wet werk en bijstand. 
+In deze paragraaf wordt verstaan onder AIO: algemene bijstand in de vorm van een aanvullende inkomensvoorziening ouderen, bedoeld in artikel 47a, eerste lid, van de Participatiewet. 
 
 ### Artikel  5.43  
 
@@ -1710,7 +1703,7 @@ Hier worden bedoeld schoonmaakbedrijven, glazenwassersbedrijven, gevelreinigings
 
 #### *19. Grootwinkelbedrijf*
 
-Warenhuizen en filiaalbedrijven in de detailhandel die een loonsom WW van tenminste € 5.820.575 hebben 
+Warenhuizen en filiaalbedrijven in de detailhandel die een loonsom WW van tenminste € 5.890.425 hebben 
 
 #### *20. Havenbedrijven, omvattende:*
 
@@ -1894,7 +1887,7 @@ e. Prostitutiebestrijding;
 
 f. Zorg voor a-socialen;  
 
-g. Jeugdzorg;  
+g. Jeugdhulp;  
 
 h. Kinderbescherming;  
 
@@ -2664,7 +2657,7 @@ Instellingen of diensten die zich bezighouden met de feitelijke uitvoering van:
 
 – de Wet sociale werkvoorziening (Wsw);  
 
-– voorzieningen, gericht op arbeidsinschakeling, als bedoeld in artikel 7, eerste lid, onderdeel a, van de Wet werk en bijstand.   
+– voorzieningen, gericht op arbeidsinschakeling, als bedoeld in artikel 7, eerste lid, onderdeel a, van de Participatiewet.   
 
 #### *68. Railbouw, omvattende:*
 

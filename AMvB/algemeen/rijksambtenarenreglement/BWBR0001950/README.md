@@ -778,7 +778,7 @@ b. een inwonend kind tot wie de ambtenaar als ouder in een familierechtelijke be
 
 c. een inwonend kind van zijn echtgenote of echtgenoot;  
 
-d. een pleegkind dat blijkens de basisregistratie personen op hetzelfde adres woont als de ambtenaar en door hem duurzaam wordt verzorgd en opgevoed op basis van een pleegcontract als bedoeld in artikel 22, eerste lid, van de Wet op de jeugdzorg.     
+d. een pleegkind dat blijkens de basisregistratie personen op hetzelfde adres woont als de ambtenaar en dat hij als pleegouder als bedoeld in artikel 1.1 van de Jeugdwet verzorgt.    
 2.  Tenzij een zwaarwegend dienstbelang zich daartegen verzet wordt aan de ambtenaar verlof met behoud van bezoldiging verleend voor de noodzakelijke verzorging in verband met ernstige ziekte van: echtgenote, echtgenoot, ouders, stiefouders, pleegouders, schoonouders, kinderen, stiefkinderen, pleegkinderen of aangehuwde kinderen.   
 3.  Het verlof, bedoeld in het eerste en tweede lid, bedraagt in elk kalenderjaar ten hoogste tweemaal de arbeidsduur per week.   
 4.  De ambtenaar meldt vooraf aan het bevoegd gezag dat hij het verlof, bedoeld in het eerste en tweede lid, opneemt onder opgave van de reden. Indien dit niet mogelijk is, meldt de ambtenaar het opnemen van het verlof zo spoedig mogelijk aan het bevoegd gezag onder opgave van de reden. Bij die melding geeft de ambtenaar ook de omvang, de wijze van opneming en de vermoedelijke duur van het verlof aan.   
@@ -903,17 +903,15 @@ d) ter beantwoording van de vraag of de ambtenaar tijdens het tijdvak waarin hij
 
 e) indien de ambtenaar in contact staat of kort geleden heeft gestaan met een persoon die een ziekte heeft waarvoor ingevolge de Wet publieke gezondheid, een nominatieve aangifteplicht geldt;   
 
-f) om te beoordelen of de ambtenaar, die een functie vervult als bedoeld in artikel 97, eerste lid, lichamelijk en psychisch in staat kan worden geacht zijn functie te blijven waarnemen, nadat hij de voor zijn functie vastgestelde leeftijdsgrens heeft bereikt;   
+f) om te beoordelen of er sprake is van een situatie als bedoeld in artikel 98, derde lid, aanhef en onderdelen a en b;   
 
-g) om te beoordelen of er sprake is van een situatie als bedoeld in artikel 98, derde lid, aanhef en onderdelen a en b;   
+g) om te beoordelen of de ambtenaar die wegens ziekte volledig ongeschikt is geweest zijn arbeid te verrichten zijn arbeid mag hervatten;   
 
-h) om te beoordelen of de ambtenaar die wegens ziekte volledig ongeschikt is geweest zijn arbeid te verrichten zijn arbeid mag hervatten;   
+h) voorzover dit voortvloeit uit enige wettelijke verplichting;   
 
-i) voorzover dit voortvloeit uit enige wettelijke verplichting;   
+i) indien hij in verband met de uitoefening van zijn werkzaamheden aan bijzonder gevaar voor zijn gezondheid blootstaat of hij is benoemd in een functie waarvoor bij aanstelling een geneeskundig onderzoek is vereist als bedoeld in artikel 9, vierde lid, onderdeel b;  
 
-j) indien hij in verband met de uitoefening van zijn werkzaamheden aan bijzonder gevaar voor zijn gezondheid blootstaat of hij is benoemd in een functie waarvoor bij aanstelling een geneeskundig onderzoek is vereist als bedoeld in artikel 9, vierde lid, onderdeel b;  
-
-k) om bij een verzoek als bedoeld in artikel 98, negende lid, te beoordelen of de ambtenaar lichamelijk en psychisch in staat is zijn functie te blijven vervullen.    
+j) om bij een verzoek als bedoeld in artikel 98, negende lid, te beoordelen of de ambtenaar lichamelijk en psychisch in staat is zijn functie te blijven vervullen.    
 2.  Onze Minister stelt de ambtenaar buiten dienst indien na een arbeidsgezondheidskundig onderzoek als bedoeld in het eerste lid, blijkt dat sprake is van een zodanige lichamelijke of geestelijke toestand dat de belangen van de ambtenaar, van de dienst of van bij het verrichten van de arbeid betrokken derden zich er tegen verzetten dat de ambtenaar zijn arbeid blijft verrichten. De ambtenaar wordt niet buiten dienst gesteld indien hem andere passende werkzaamheden kunnen worden opgedragen. Indien de ambtenaar buiten dienst wordt gesteld, wordt hij geacht wegens ziekte ongeschikt te zijn tot het verrichten van zijn arbeid, in welk geval de overige bepalingen van dit hoofdstuk van toepassing zijn.   
 
 ####Medisch advies 
@@ -1904,7 +1902,7 @@ b. bij ontslag tijdens het volgen van de scholing en in bijzondere gevallen bij 
 
 ### Artikel  60  
 
-Bij regeling van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties kunnen nadere regels worden gesteld om ambtenaren die werkzaam zijn in een substantieel bezwarende functie als bedoeld in artikel 97, eerste lid, te stimuleren na verloop van tijd de overstap te maken naar een niet substantieel bezwarende functie. 
+Bij regeling van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties kunnen nadere regels worden gesteld om ambtenaren die werkzaam zijn in een substantieel bezwarende functie als bedoeld in artikel 94b, eerste lid, te stimuleren na verloop van tijd de overstap te maken naar een niet substantieel bezwarende functie. 
 
 ### Artikel  61  
 
@@ -1989,7 +1987,7 @@ f. het aanbieden van lunches, diners en overige consumpties, persoonlijke attent
 g. fooien.     
 3.  De tegemoetkoming, bedoeld in het eerste lid, bedraagt: 
 
-a. voor een functie, genoemd in artikel 7, vierde lid: € 533,33;  
+a. voor een functie, genoemd in artikel 7, vierde lid: € 533,33per 1 januari 2015: € 538,13;  
 
 b. voor het structurele plaatsvervangerschap van een functie als bedoeld onder a: 75% van het onder a genoemde bedrag;  
 
@@ -2195,6 +2193,46 @@ c. ingevolge een aanvraag van de ambtenaar.
 2.  Op aanvraag van de ambtenaar kan het in het eerste lid bedoelde ontslag ook voor een gedeelte van de voor hem geldende arbeidsduur worden verleend, tenzij de belangen van de dienst zich hiertegen verzetten. Het gedeelte van dit ontslag bedraagt ten minste 10% van de arbeidsduur. Ontslag voor een gedeelte van de arbeidsduur waaruit reeds eerder gedeeltelijk ontslag met het oog op de in het eerste lid bedoelde uitkering heeft plaatsgevonden, bedraagt ten minste 10% van de oorspronkelijke arbeidsduur.   
 3.  Artikel 94, tweede tot en met vijfde lid, is zoveel mogelijk van overeenkomstige toepassing.  
 
+### Artikel  94b  
+
+1.  Bij regeling van Onze Minister voor Wonen en Rijksdienst worden functies aangewezen die uit hoofde van de aard van de aan die functies verbonden werkzaamheden als substantieel bezwarend worden aangemerkt.   
+2.  Aan de ambtenaar die is belast met een functie die is aangemerkt als substantieel bezwarend wordt op zijn verzoek eervol ontslag verleend met het oog op een uitkering op grond van het achtste lid, indien onmiddellijk voorafgaand aan het ontslag een aaneengesloten diensttijd van ten minste vijf jaar is doorgebracht in een of meer substantieel bezwarende functies.   
+3.  Het ontslag, bedoeld in het tweede lid, kan niet eerder ingaan dan met ingang van de eerst mogelijke datum waarop het ouderdomspensioen op grond van de overeenkomst, bedoeld in artikel 4, eerste lid, van de Wet privatisering ABP, in kan gaan.   
+4.  Op aanvraag van de ambtenaar kan het ontslag voor een gedeelte van de voor hem geldende arbeidsduur worden verleend. Dit gedeelte bedraagt ten minste 10% en ten hoogste 50% van de omvang van de voor hem geldende arbeidsduur.   
+5.  Het vierde lid is niet van toepassing indien de werktijd van de ambtenaar is teruggebracht op grond van artikel 21a, eerste lid.   
+6.  Na het ontslag, bedoeld in het vierde lid, kan op aanvraag van de ambtenaar ontslag worden verleend voor de resterende arbeidsduur.   
+7.  Ontslag uit een substantieel bezwarende functie wordt uiterlijk verleend op de dag waarop de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, is bereikt.   
+8.  De ambtenaar, aan wie op grond van het tweede, vierde of zesde lid voor het bereiken van de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet ontslag is verleend, heeft recht op een uitkering. Onze Minister voor Wonen en Rijksdienst stelt regels over de uitkering.   
+9.  Het tweede tot en met achtste lid zijn niet van toepassing op de ambtenaar die gebruik heeft gemaakt van de op grond van artikel 60, door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties vastgestelde regeling.  
+
+### Artikel  94c  
+
+1.  Onze Minister voor Wonen en Rijksdienst stelt bij ministeriële regeling een lijst vast met: 
+
+a. functies waarvan de aanmerking als substantieel bezwarend na 31 maart 2015 vervalt;  
+
+b. functies waarvan de aanmerking als substantieel bezwarend is vervallen in de periode van 1 januari 2000 tot en met 31 maart 2015;  
+
+c. functies, bedoeld in artikel 3 van het Besluit overgangsrecht FLO-functies, zoals dat luidde op 31 maart 2015.     
+2.  De ambtenaar die een functie als bedoeld in het eerste lid vervult, kan het bevoegd gezag verzoeken om eervol ontslag met het oog op een uitkering als bedoeld in het zevende lid. Dit ontslag kan niet eerder ingaan dan met ingang van de eerst mogelijke datum waarop het ouderdomspensioen op grond van de overeenkomst, bedoeld in artikel 4, eerste lid, van de Wet privatisering ABP, in kan gaan.   
+3.  Aan de ambtenaar die een functie als bedoeld in het eerste lid, onder a, vervult, wordt ontslag als bedoeld in het tweede lid verleend, indien de ambtenaar voldoet aan de volgende voorwaarden: 
+
+a. de ambtenaar heeft op de dag waarop de aanmerking als substantieel bezwarende functie vervalt een aaneengesloten diensttijd van ten minste vijf jaar doorgebracht in een substantieel bezwarende functie en blijft deze functie vervullen tot zijn ontslag, en  
+
+b. de ambtenaar is op de dag waarop de aanmerking als substantieel bezwarende functie vervalt maximaal vijf jaar verwijderd van de eerst mogelijke datum waarop zijn ouderdomspensioen op grond van de overeenkomst, bedoeld in artikel 4, eerste lid, van de Wet privatisering ABP, in kan gaan of heeft op die dag een aaneengesloten diensttijd van ten minste twintig jaar doorgebracht in een substantieel bezwarende functie.     
+4.  Aan de ambtenaar die een functie als bedoeld in het eerste lid, onder b, vervult, wordt ontslag als bedoeld in het tweede lid verleend, indien de ambtenaar voldoet aan de volgende voorwaarden: 
+
+a. de ambtenaar heeft op de dag waarop de aanmerking als substantieel bezwarende functie is vervallen een aaneengesloten diensttijd van ten minste vijf jaar doorgebracht in een substantieel bezwarende functie en blijft deze functie vervullen tot zijn ontslag, en  
+
+b. de ambtenaar is op 1 april 2015 maximaal vijf jaar verwijderd van de eerst mogelijke datum waarop zijn ouderdomspensioen op grond van de overeenkomst, bedoeld in artikel 4, eerste lid, van de Wet privatisering ABP, in kan gaan of heeft op de dag waarop de aanmerking als substantieel bezwarende functie is vervallen een aaneengesloten diensttijd van ten minste twintig jaar doorgebracht in een substantieel bezwarende functie.     
+5.  Aan de ambtenaar die een functie als bedoeld in het eerste lid, onder c, vervult, wordt ontslag als bedoeld in het tweede lid verleend, indien de ambtenaar voldoet aan de volgende voorwaarden: 
+
+a. de ambtenaar heeft op 1 januari 2000 een aaneengesloten diensttijd van ten minste vijf jaar doorgebracht in een functie als bedoeld in het eerste lid, onder c, en blijft deze functie vervullen tot zijn ontslag, en  
+
+b. de ambtenaar is met ingang van 1 april 2015 maximaal vijf jaar verwijderd van de eerst mogelijke datum waarop zijn ouderdomspensioen op grond van de overeenkomst, bedoeld in artikel 4, eerste lid, van de Wet privatisering ABP, in kan gaan of heeft op 1 januari 2000 een aaneengesloten diensttijd van ten minste twintig jaar doorgebracht in een FLO-functie.     
+6.  Bij ontslag op grond van het tweede lid zijn artikel 94b, vierde, vijfde en zesde lid, van overeenkomstige toepassing.   
+7.  De ambtenaar aan wie op grond van dit artikel voor het bereiken van de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, ontslag is verleend, heeft recht op een uitkering. Onze Minister voor Wonen en Rijksdienst stelt regels over de uitkering.  
+
 ### Artikel  95  
 
 1.  Aan de ambtenaar die is aangesteld in tijdelijke dienst wordt geacht eervol ontslag te zijn verleend zodra de duur van de aanstelling in tijdelijke dienst is verstreken, tenzij sprake is van een stilzwijgende voortzetting als bedoeld in artikel 6, vierde of vijfde lid.   
@@ -2236,18 +2274,6 @@ c. één maand, indien de ambtenaar ten tijde van de opzegging laatstelijk korte
 
 Aan de ambtenaar die een benoeming tot minister of staatssecretaris aanvaardt wordt, met ingang van de dag van het aanvaarden van deze betrekking, eervol ontslag verleend.  
 
-### Artikel  97  
-
-1.  Bij besluit van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties wordt een in categorie A en B onderverdeelde lijst met functies vastgesteld, die uit hoofde van de aard van de aan die functies verbonden werkzaamheden als substantieel bezwarend worden aangemerkt.   
-2.  De ambtenaar, belast met een functie die is ingedeeld in categorie A van de in het eerste lid bedoelde lijst, wordt eervol ontslag verleend op de eerste dag van de maand volgende op die waarin hij de leeftijd van 60 jaar en 8 maanden heeft bereikt. Indien onmiddellijk voorafgaande aan de vroegst mogelijke datum van ontslag geen aaneengesloten diensttijd van ten minste vijf jaar is doorgebracht in een of meer zodanige functies, wordt het ontslag uitgesteld tot de datum waarop aan deze voorwaarde is voldaan.   
-3.  De ambtenaar, belast met een functie die is ingedeeld in categorie B van de in het eerste lid bedoelde lijst, wordt eervol ontslag verleend op de eerste dag van de maand volgende op die waarin hij de leeftijd van 55 jaar heeft bereikt. Indien onmiddellijk voorafgaande aan de vroegst mogelijke datum van ontslag geen aaneengesloten diensttijd van ten minste vijf jaar is doorgebracht in een of meer zodanige functies, wordt het ontslag uitgesteld tot de datum waarop aan deze voorwaarde is voldaan.   
-4.  Op verzoek van de ambtenaar ziet het bevoegd gezag af van het verlenen van ontslag, bedoeld in het tweede en het derde lid, voor de duur van telkens ten hoogste één jaar, indien de ambtenaar blijkens de uitslag van een door de deskundige persoon of arbodienst ingesteld arbeidsgezondheidskundig onderzoek als bedoeld in artikel 36a, eerste lid, onder f, lichamelijk en psychisch in staat kan worden geacht zijn functie te blijven vervullen.   
-5.  Indien niet meer wordt voldaan aan de voorwaarde, genoemd in het vierde lid, wordt eervol ontslag verleend.   
-6.  Het ontslag, bedoeld in het vijfde lid, wordt verleend met ingang van een dag niet vroeger dan een maand, maar niet later dan drie maanden na de dag, waarop niet langer aan de voorwaarde, genoemd in het vierde lid, wordt voldaan.   
-7.  De ambtenaar, aan wie op grond van het tweede, derde of vijfde lid ontslag is verleend, heeft recht op een uitkering overeenkomstig door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties te stellen regels.   
-8.  Het ontslag op grond van het tweede, derde of vijfde lid wordt geacht een ontslag te zijn als bedoeld in artikel 94a, tweede lid, indien ten aanzien van dat ontslag wordt voldaan aan de in dat artikel genoemde voorwaarden.   
-9.  Het tweede tot en met achtste lid zijn niet van toepassing op de ambtenaar die gebruik heeft gemaakt van de op grond van artikel 60 door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties vastgestelde regeling. 
-
 ### Artikel  97b  
 
 1.  Voor de ontslagverlening als bedoeld in artikel 125*e*, tweede lid, van de Ambtenarenwet, is overeenstemming vereist met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties. Deze is gehouden het advies in te winnen van de Adviescommissie grondrechten en functie-uitoefening ambtenaren.    
@@ -2255,7 +2281,7 @@ Aan de ambtenaar die een benoeming tot minister of staatssecretaris aanvaardt wo
 
 ### Artikel  98  
 
-1.  Anders dan op aanvraag van de ambtenaar, bij wijze van straf of ingevolge het bepaalde bij artikel 7 van de Wet Incompatibiliteiten Staten-Generaal en Europees Parlement, de artikelen 95, 96, 96a, 96b, 96c en 97 van dit besluit en bij artikel 125e, tweede lid, van de Ambtenarenwet, kan de ambtenaar worden ontslagen op grond van:  
+1.  Anders dan op aanvraag van de ambtenaar, bij wijze van straf of ingevolge het bepaalde bij artikel 7 van de Wet Incompatibiliteiten Staten-Generaal en Europees Parlement, de artikelen 94b, 94c, 95, 96, 96a, 96b en 96 van dit besluit en bij artikel 125e, tweede lid, van de Ambtenarenwet, kan de ambtenaar worden ontslagen op grond van:  
 
 a. het verlies van een vereiste voor de benoembaarheid, door het bevoegde gezag gesteld bij een regeling aan de benoeming voorafgegaan, tenzij het vereiste alleen voor de aanvang van het ambt geldt;   
 
@@ -2598,14 +2624,8 @@ Artikel 69, tweede lid, is niet van toepassing op beroepsincidenten die zich heb
 
 ### Artikel  130c  
 
-In afwijking van artikel 97, tweede lid, wordt aan de ambtenaar die is geboren voor 1950 eervol ontslag verleend op de eerste dag van de maand volgende op die waarin hij de leeftijd van 60 jaar heeft bereikt. 
-
-### Artikel  130d  
-
-1.  In afwijking van artikel 97, tweede lid, geldt voor ambtenaren die zijn geboren in de jaren 1950 tot en met 1964 als ontslagleeftijd de dag waarop hun uitkering op grond van de krachtens het zevende lid van artikel 97 vastgestelde regeling eindigt.   
-2.  Gedurende de periode waarin de ambtenaar aanspraak kan maken op de in het eerste lid bedoelde uitkering, verleent het bevoegd gezag de ambtenaar buitengewoon verlof zonder behoud van bezoldiging. Artikel 97, vierde tot en met zesde lid, is hierbij van overeenkomstige toepassing, met dien verstande dat voor «ontslag» wordt gelezen: verlof.   
-3.  Indien de ambtenaar op de dag van ingang van zijn verlof nog aanspraak heeft op vakantie, wordt hem voor ieder uur vakantie dat hij niet heeft opgenomen een vergoeding toegekend ten bedrage van het salaris per uur dat de ambtenaar direct voorafgaand aan zijn verlof genoot. De vergoeding wordt berekend over ten hoogste twee maal de aanspraak op vakantie over een vol kalenderjaar, uitgaande van het salaris en de werktijd zoals die direct voorafgaand aan het verlof voor de ambtenaar golden en de leeftijd welke hij bereikt in het kalenderjaar waarin het verlof ingaat.   
-4.  Indien op de dag van ingang van zijn verlof blijkt, dat de ambtenaar teveel vakantie heeft genoten, is hij voor ieder uur teveel genoten vakantie een bedrag schuldig ten bedrage van het salaris per uur dat de ambtenaar direct voorafgaand aan zijn verlof genoot.  
+1.  Onze Minister voor Wonen en Rijksdienst stelt bij ministeriële regeling een lijst vast met functies die op 31 maart 2015 zijn ingedeeld in categorie B van de lijst, bedoeld in artikel 97, eerste lid, van het Algemeen Rijksambtenarenreglement, zoals dat luidde voor inwerkingtreding van dit besluit.   
+2.  Bij regeling van Onze Minister van Infrastructuur en Milieu worden regels gesteld voor ambtenaren die op 31 maart 2015 werkzaam zijn in een functie als bedoeld in het eerste lid.  
 
 ### Artikel  131a  
 
