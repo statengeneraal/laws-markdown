@@ -3,12 +3,12 @@
 ##Beleidsregel van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 23 januari 2014, 2014-0000011942, houdende vaststelling van de periode van onafgebroken arbeidsongeschiktheid op grond van artikel 5, eerste lid, van de Wet ziekteverzekering BES (Beleidsregel expiratie uitkering ziekengeld)
 
 De Staatssecretaris van Sociale Zaken en Werkgelegenheid,  
-Gelet op [artikel 5, eerste lid, van de Wet ziekteverzekering BES](../../../../../../../wet-BES/wet/ziekteverzekering/bes/BWBR0028728/README.md);
+Gelet op artikel 5, eerste lid, van de Wet ziekteverzekering BES;
 Besluit:    
 
 ### Artikel  1  
 
-Voor het na twee jaar vervallen van het recht op ziekengeld wegens eenzelfde ziekteoorzaak, zoals bedoeld in [artikel 5, eerste lid, van de Wet ziekteverzekering BES](../../../../../../../wet-BES/wet/ziekteverzekering/bes/BWBR0028728/README.md), wordt uitgegaan van een situatie van onafgebroken arbeidsongeschiktheid. Voor het bepalen van de onafgebroken arbeidsongeschiktheid gedurende een periode worden tijdvakken van ongeschiktheid samengeteld, indien zij elkaar met een onderbreking van minder dan vier weken opvolgen. 
+Voor het na twee jaar vervallen van het recht op ziekengeld wegens eenzelfde ziekteoorzaak, zoals bedoeld in artikel 5, eerste lid, van de Wet ziekteverzekering BES, wordt uitgegaan van een situatie van onafgebroken arbeidsongeschiktheid. Voor het bepalen van de onafgebroken arbeidsongeschiktheid gedurende een periode worden tijdvakken van ongeschiktheid samengeteld, indien zij elkaar met een onderbreking van minder dan vier weken opvolgen. 
 
 ### Artikel  2  
 

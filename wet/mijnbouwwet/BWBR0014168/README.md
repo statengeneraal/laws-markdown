@@ -887,13 +887,13 @@ g. de ontvanger: de door Onze Minister van Financiën bij ministeriële regeling
 |  Tijdvak  | Bedrag per km<sup>2</sup>   |
 |:---|:---|
 | 1e tot en met 6e tijdvak  | € 200   
-per 1 januari 2014 € 245. |
+per 1 januari 2015 € 248. |
 | 7e tot en met 9e tijdvak  | € 400   
-per 1 januari 2014 € 491. |
+per 1 januari 2015 € 497. |
 | Volgende tijdvakken  | € 600  
-per 1 januari 2014 € 734. |
+per 1 januari 2015 € 744. |
 
-2.  Het tarief over 2003 voor het houden van een winningsvergunning bedraagt € 600 per 1 januari 2014 € 734. per vierkante kilometer.   
+2.  Het tarief over 2003 voor het houden van een winningsvergunning bedraagt € 600 per 1 januari 2015 € 744. per vierkante kilometer.   
 3.  Bij het begin van ieder kalenderjaar worden de voor dat jaar geldende tarieven, bedoeld in het eerste en tweede lid, bij ministeriële regeling vastgesteld. Deze tarieven worden berekend aan de hand van het indexcijfer, bedoeld in artikel 1, van het koninklijk besluit van 28 september 1992, houdende begripsomschrijving van het indexcijfer der lonen (Stb. 507), zoals dat gold op 31 december van het voorgaande jaar.  
 
 ### Artikel  59  
@@ -1004,7 +1004,7 @@ b. de waarde van de in het winningsbedrijf gewonnen en verbruikte koolwaterstoff
 
 ### Artikel  68  
 
-1.  De winst- en verliesrekening, bedoeld in artikel 66, eerste lid, wordt opgemaakt met overeenkomstige toepassing van de artikelen 3.8, 3.14, eerste lid, onderdelen b tot en met g, en derde tot en met zesde lid, 3.25 tot en met 3.39, 3.52, 3.53, eerste lid, onderdelen a en b, en tweede lid, 3.54, 3.56 en 3.57 van de Wet inkomstenbelasting 2001, alsmede de artikelen 7, vierde en vijfde lid, 8, vierde lid, 9 tot en met 10b, 14 tot en met 14b en 15d, van de Wet op de vennootschapsbelasting 1969, behoudens voorzover bij of krachtens deze wet anders is bepaald, dan wel uit het verschil in wezen tussen de houder dan wel de medehouder enerzijds en een natuurlijk persoon in de zin van de inkomstenbelasting respectievelijk een belastingplichtige voor de vennootschapsbelasting anderzijds, het tegendeel voortvloeit.   
+1.  De winst- en verliesrekening, bedoeld in artikel 66, eerste lid, wordt opgemaakt met overeenkomstige toepassing van de artikelen 3.8, 3.14, eerste lid, onderdelen b tot en met g, en derde tot en met vijfde lid, 3.25 tot en met 3.39, 3.52, 3.53, eerste lid, onderdelen a en b, en tweede lid, 3.54, 3.56 en 3.57 van de Wet inkomstenbelasting 2001, alsmede de artikelen 7, vierde en vijfde lid, 8, vierde lid, 9 tot en met 10b, 14 tot en met 14b en 15d, van de Wet op de vennootschapsbelasting 1969, behoudens voorzover bij of krachtens deze wet anders is bepaald, dan wel uit het verschil in wezen tussen de houder dan wel de medehouder enerzijds en een natuurlijk persoon in de zin van de inkomstenbelasting respectievelijk een belastingplichtige voor de vennootschapsbelasting anderzijds, het tegendeel voortvloeit.   
 2.  Voor de toepassing van het eerste lid wordt in de genoemde artikelen van de Wet inkomstenbelasting 2001 en van de Wet op de vennootschapsbelasting 1969 voor «onderneming» gelezen: winningsbedrijf.   
 3.  Bij het opmaken van de winst- en verliesrekening, bedoeld in artikel 66, eerste lid, wordt een verhoging van 10% toegepast op de kosten met uitzondering van: 
 

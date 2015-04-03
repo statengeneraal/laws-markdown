@@ -4,7 +4,7 @@
 
 De Minister van Financiën,
 
-Gelet op [artikel 5:15, tweede lid, van de Wet financiële markten BES](../../../../../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) en de [artikelen 7:20, eerste lid](../../../../../../../../../../AMvB-BES/besluit/financiële/markten/bes/BWBR0031636/README.md), en [7:21 van het Besluit financiële markten BES](../../../../../../../../../../AMvB-BES/besluit/financiële/markten/bes/BWBR0031636/README.md);
+Gelet op artikel 5:15, tweede lid, van de Wet financiële markten BES en de artikelen 7:20, eerste lid, en 7:21 van het Besluit financiële markten BES;
 Besluit:    
 
 ### Artikel  I  
@@ -13,7 +13,7 @@ Wijzigt de Regeling financiële markten BES 2012.
 
 ### Artikel  II  
 
-De [artikelen 2:5a](../../../../../../../../../../ministeriele-regeling-BES/regeling/financiële/markten/bes/2012/BWBR0031617/README.md) en [2:5b](../../../../../../../../../../ministeriele-regeling-BES/regeling/financiële/markten/bes/2012/BWBR0031617/README.md) zijn niet van toepassing op kredietovereenkomsten met een vaste kredietvergoeding die zijn afgesloten voor 1 januari 2013. 
+De artikelen 2:5a en 2:5b zijn niet van toepassing op kredietovereenkomsten met een vaste kredietvergoeding die zijn afgesloten voor 1 januari 2013. 
 
 ### Artikel  III  
 

@@ -3,7 +3,7 @@
 ##Besluit van de Staatssecretaris van Economische Zaken van 20 december 2013, nr. WJZ / 13182859, houdende taken, werkwijze, benoeming en vergoeding Visserijcommissie BES (Besluit houdende taken, werkwijze, benoeming en vergoeding Visserijcommissie BES)
 
 De Staatssecretaris van Economische Zaken,  
-Gelet op [artikel 3a van het Visserijbesluit BES](../../../../../../../../../../../AMvB-BES/visserijbesluit/bes/BWBR0028413/README.md);
+Gelet op artikel 3a van het Visserijbesluit BES;
 Besluit:    
 
 ### Artikel  1  
@@ -12,23 +12,23 @@ In dit besluit wordt verstaan onder:
 
 a.  *de minister:* de Minister van Economische Zaken;  
 
-b.  *commissie:* de visserijcommissie als bedoeld in [artikel 13 van de Visserijwet BES](../../../../../../../../../../../wet-BES/visserijwet/bes/BWBR0028168/README.md).   
+b.  *commissie:* de visserijcommissie als bedoeld in artikel 13 van de Visserijwet BES.   
 
 ### Artikel  2  
 
 De commissie heeft tot taak de minister te adviseren over: 
 
-a. het verlenen van vergunningen als bedoeld in [artikel 2, vijfde lid, van de Visserijwet BES](../../../../../../../../../../../wet-BES/visserijwet/bes/BWBR0028168/README.md);  
+a. het verlenen van vergunningen als bedoeld in artikel 2, vijfde lid, van de Visserijwet BES;  
 
-b. het verlenen van ontheffingen ten behoeve van het verrichten van wetenschappelijk zeeonderzoek als bedoeld in [artikel 2, zesde lid, van de Visserijwet BES](../../../../../../../../../../../wet-BES/visserijwet/bes/BWBR0028168/README.md);  
+b. het verlenen van ontheffingen ten behoeve van het verrichten van wetenschappelijk zeeonderzoek als bedoeld in artikel 2, zesde lid, van de Visserijwet BES;  
 
-c. het instellen van visverboden voor een bepaald tijdvak als bedoeld in [artikel 5 van de Visserijwet BES](../../../../../../../../../../../wet-BES/visserijwet/bes/BWBR0028168/README.md);  
+c. het instellen van visverboden voor een bepaald tijdvak als bedoeld in artikel 5 van de Visserijwet BES;  
 
-d. het stellen van algemene regelen betreffende de gegevens die bij het verzoek voor een vergunning dienen te worden verstrekt alsmede de wijze waarop het verzoek dient te worden ingediend als bedoeld in [artikel 7, eerste lid, van de Visserijwet BES](../../../../../../../../../../../wet-BES/visserijwet/bes/BWBR0028168/README.md);  
+d. het stellen van algemene regelen betreffende de gegevens die bij het verzoek voor een vergunning dienen te worden verstrekt alsmede de wijze waarop het verzoek dient te worden ingediend als bedoeld in artikel 7, eerste lid, van de Visserijwet BES;  
 
-e. het intrekken van een vergunning als bedoeld in [artikel 7, zesde lid, van de Visserijwet BES](../../../../../../../../../../../wet-BES/visserijwet/bes/BWBR0028168/README.md);  
+e. het intrekken van een vergunning als bedoeld in artikel 7, zesde lid, van de Visserijwet BES;  
 
-f. het verlengen van een vergunning als bedoeld in [artikel 8, tweede lid, van de Visserijwet BES](../../../../../../../../../../../wet-BES/visserijwet/bes/BWBR0028168/README.md).   
+f. het verlengen van een vergunning als bedoeld in artikel 8, tweede lid, van de Visserijwet BES.   
 
 ### Artikel  3  
 
@@ -41,7 +41,7 @@ f. het verlengen van een vergunning als bedoeld in [artikel 8, tweede lid, van d
 
 ### Artikel  4  
 
-1.  De leden van de commissie die door de openbare lichamen zijn benoemd overeenkomstig [artikel 3a, tweede lid, van het Visserijbesluit BES](../../../../../../../../../../../AMvB-BES/visserijbesluit/bes/BWBR0028413/README.md), en die niet werkzaam zijn bij een openbaar lichaam of bij de Rijksdienst Caribisch Nederland ontvangen een vergoeding per vergadering van 140 USD.   
+1.  De leden van de commissie die door de openbare lichamen zijn benoemd overeenkomstig artikel 3a, tweede lid, van het Visserijbesluit BES, en die niet werkzaam zijn bij een openbaar lichaam of bij de Rijksdienst Caribisch Nederland ontvangen een vergoeding per vergadering van 140 USD.   
 2.  Alle leden ontvangen daarnaast een vergoeding van reis- en verblijfkosten op de voet van de regeling voor het personeel werkzaam bij de sector Rijk.  
 
 ### Artikel  5  

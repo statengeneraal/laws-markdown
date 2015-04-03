@@ -6,7 +6,7 @@ Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oran
 
 Op de voordracht van Onze Minister van Veiligheid en Justitie van 11 februari 2014, Directie Wetgeving en Juridische Zaken, nr. 482703;
 
-Gelet op [artikel 1 van het Wetboek van Strafvordering BES](../../../../../../../../../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md) en op [artikel 87 van het Wetboek van Strafrecht BES](../../../../../../../../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md);
+Gelet op artikel 1 van het Wetboek van Strafvordering BES en op artikel 87 van het Wetboek van Strafrecht BES;
 
 De Afdeling advisering van de Raad van State gehoord (advies van 19 februari 2014, nr. W03.14.0035/II);
 
@@ -14,17 +14,14 @@ Gezien het nader rapport van Onze Minister van Veiligheid en Justitie van 26 fe
 Hebben goedgevonden en verstaan:    
 
 ### Artikel  1  
-Treedt in werking per 01-07-2014 
 
-Als installatie ter zee als bedoeld in de begripsomschrijving van «opvarende» van [artikel 1 van het Wetboek van Strafvordering BES](../../../../../../../../../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md) wordt aangewezen: elke installatie ter zee als bedoeld in artikel 1 van het Wetboek van Strafvordering BES die is opgericht op de bodem van de territoriale zee van de openbare lichamen Bonaire, Sint Eustatius en Saba. 
+Als installatie ter zee als bedoeld in de begripsomschrijving van «opvarende» van artikel 1 van het Wetboek van Strafvordering BES wordt aangewezen: elke installatie ter zee als bedoeld in artikel 1 van het Wetboek van Strafvordering BES die is opgericht op de bodem van de territoriale zee van de openbare lichamen Bonaire, Sint Eustatius en Saba. 
 
 ### Artikel  2  
-Treedt in werking per 01-07-2014 
 
-Als installatie ter zee als bedoeld in [artikel 87 van het Wetboek van Strafrecht BES](../../../../../../../../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) wordt aangewezen: hetgeen daaronder wordt verstaan in [artikel 1 van het Wetboek van Strafvordering BES](../../../../../../../../../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md). 
+Als installatie ter zee als bedoeld in artikel 87 van het Wetboek van Strafrecht BES wordt aangewezen: hetgeen daaronder wordt verstaan in artikel 1 van het Wetboek van Strafvordering BES. 
 
 ### Artikel  3  
-Treedt in werking per 01-07-2014 
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
