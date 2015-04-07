@@ -5,10 +5,11 @@
 De Minister van Sociale Zaken en Werkgelegenheid,  
 Handelende in overeenstemming met de Staatssecretaris van Financiën;
 
-Gelet op de [artikelen 13](../../../../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), [50c](../../../../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) en [52a, vierde lid, van de Wet financiering sociale verzekeringen](../../../../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md);
+Gelet op de artikelen 13, 50c en 52a, vierde lid, van de Wet financiering sociale verzekeringen;
 Besluit:    
 
 ### Artikel  I  
+Materieel uitgewerkt per 24-12-2012 
 
 Wijzigt de Regeling Wfsv.
 
@@ -16,9 +17,12 @@ Wijzigt de Regeling Wfsv.
 
 ####Premievrijstelling arbeid in kleine banen
 
-De maximumloon bedragen, bedoeld in [artikel 52a, eerste lid, van de Wet financiering sociale verzekeringen](../../../../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), worden met toepassing van het vierde lid van dat artikel voor het kalenderjaar 2011 ongewijzigd vastgesteld. 
+Materieel uitgewerkt per 24-12-2012 
+
+De maximumloon bedragen, bedoeld in artikel 52a, eerste lid, van de Wet financiering sociale verzekeringen, worden met toepassing van het vierde lid van dat artikel voor het kalenderjaar 2011 ongewijzigd vastgesteld. 
 
 ### Artikel  III  
+Materieel uitgewerkt per 24-12-2012 
 
 1.  Indien het bij koninklijke boodschap van 17 juni 2010 ingediende voorstel van wet tot wijziging van verschillende wetten in verband met harmonisatie en vereenvoudiging van deze wetten ten behoeve van de uitvoering van die wetten door het Uitvoeringsinstituut werknemersverzekeringen (Wet harmonisatie en vereenvoudiging sociale zekerheidswetten) (32 421) tot wet is verheven en artikel IV van die wet in werking treedt, treedt artikel I van deze regeling op hetzelfde tijdstip in werking, met uitzondering van: 
 

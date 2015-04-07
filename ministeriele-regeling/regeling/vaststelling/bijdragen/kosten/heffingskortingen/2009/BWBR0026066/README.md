@@ -5,20 +5,24 @@
 De Staatssecretaris van Sociale Zaken en Werkgelegenheid,  
 Handelende in overeenstemming met de Staatssecretaris van Financiën en de Minister van Volksgezondheid, Welzijn en Sport;
 
-Gelet op [artikel 15 van de Wet financiering sociale verzekeringen](../../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md);
+Gelet op artikel 15 van de Wet financiering sociale verzekeringen;
 Besluit:    
 
 ### Artikel  1  
 
 ####Geraamde totale kosten voor heffingskortingen
 
-De geraamde totale kosten voor de heffingskortingen, bedoeld in [artikel 15 van Wet financiering sociale verzekeringen](../../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), voor het jaar 2009 bedragen: € 35.546.000.000 
+Materieel uitgewerkt per 09-07-2011 
+
+De geraamde totale kosten voor de heffingskortingen, bedoeld in artikel 15 van Wet financiering sociale verzekeringen, voor het jaar 2009 bedragen: € 35.546.000.000 
 
 ### Artikel  2  
 
 ####Rijksbijdrage in de kosten van de heffingskortingen per fonds
 
-Met toepassing van de formule, bedoeld in [artikel 15 van de Wet financiering sociale verzekeringen](../../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), bedraagt de bijdrage in de kosten van de heffingskortingen per fonds voor het jaar 2009: 
+Materieel uitgewerkt per 09-07-2011 
+
+Met toepassing van de formule, bedoeld in artikel 15 van de Wet financiering sociale verzekeringen, bedraagt de bijdrage in de kosten van de heffingskortingen per fonds voor het jaar 2009: 
 
 a. ten gunste van het Ouderdomsfonds: € 3.086.400.000;  
 
@@ -29,6 +33,8 @@ c. ten gunste van het Algemeen Fonds Bijzondere Ziektekosten: € 4.896.400.000
 ### Artikel  3  
 
 ####Inwerkingtreding
+
+Materieel uitgewerkt per 09-07-2011 
 
 Deze regeling treeft in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   

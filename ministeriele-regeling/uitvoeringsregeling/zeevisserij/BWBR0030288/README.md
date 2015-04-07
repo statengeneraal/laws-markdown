@@ -152,7 +152,7 @@ Besluit:
 
 –*GMO-verordening:* Verordening (EU) nr. 1379/2013 van het Europees Parlement en de Raad van 11 december 2013 houdende een gemeenschappelijke marktordening voor visserijproducten en aquacultuurproducten, tot wijziging van Verordeningen (EG) nr. 1184/2006 en (EG) nr. 1224/2009 van de Raad en tot intrekking van Verordening (EG) nr. 104/2000 van de Raad (PbEU L, 354);  
 
-–*verordening vangstmogelijkheden:* Verordening van de Raad van 16 december 2014 tot vaststelling, voor 2015, van de vangstmogelijkheden voor sommige visbestanden en groepen visbestanden welke in de Uniewateren en, voor Unievaartuigen, in bepaalde wateren buiten de EU van toepassing zijn, en tot intrekking van Verordening (EU) nr. 779/2014 van de Raad.   
+–*verordening vangstmogelijkheden:* Verordening (EU) 2015/104 van de Raad van 19 januari 2015 tot vaststelling, voor 2015, van de vangstmogelijkheden voor sommige visbestanden en groepen visbestanden welke in de wateren van de Unie en, voor vaartuigen van de Unie, in bepaalde wateren buiten de Unie van toepassing zijn, tot wijziging van Verordening (EU) nr. 43/2014 en tot intrekking van Verordening (EU) nr. 779/2014 (PbEU 2015, L 22).   
 
 ### Artikel  2  
 
@@ -263,7 +263,7 @@ a. het Nederlandse vissersvaartuigen betreft en het Nederlands quotum voor de de
 
 b. het Europese vissersvaartuigen betreft en het Europees quotum voor de desbetreffende vissoort, zoals dit ingevolge artikel 33, vijfde lid, van de controleverordening is verminderd, niet is overschreden;  
 
-c. het vissersvaartuigen van derde landen betreft, in de gebieden vermeld in bijlage 4, 5 en 6, mits de visserij wordt uitgeoefend overeenkomstig artikel 42 van de verordening vangstmogelijkheden; en  
+c. het vissersvaartuigen van derde landen betreft, in de gebieden vermeld in bijlage 4, 5 en 6, mits de visserij wordt uitgeoefend overeenkomstig artikel 41 van de verordening vangstmogelijkheden; en  
 
 d. wordt gehandeld in overeenstemming met de voorschriften die in de vorm van een voetnoot bij de desbetreffende hoeveelheden zijn opgenomen in de bijlagen 5 en 6.     
 4.  De minister kan de in bijlagen 5 of 6 genoemde hoeveelheden wijzigen of op nul stellen, voor zover hij dit noodzakelijk acht voor de nakoming van verplichtingen van de Europese Unie.   
@@ -287,8 +287,8 @@ a. wetenschappelijk onderzoek, voor zover:
 
 5e de totale vangsten waarvoor ontheffing wordt verleend het in artikel 33, zesde lid, van de controleverordening, genoemde percentage van de in bijlage I van de verordening vangstmogelijkheden aan Nederland toegewezen vangstmogelijkheden niet te boven gaat; en    
 
-b. een pilot in het kader van volledig gedocumenteerde visserij als bedoeld in titel II, hoofdstuk II, van de verordening vangstmogelijkheden, voor zover wordt voldaan aan artikel 16, eerste lid, van deze verordening;     
-2.  De op grond van het eerste lid, onderdeel b, verleende ontheffing wordt ingetrokken in de situatie, genoemd in artikel 18 van de verordening vangstmogelijkheden.  
+b. een pilot in het kader van volledig gedocumenteerde visserij als bedoeld in titel II, hoofdstuk II, van de verordening vangstmogelijkheden, voor zover wordt voldaan aan artikel 15, eerste lid, van deze verordening;     
+2.  De op grond van het eerste lid, onderdeel b, verleende ontheffing wordt ingetrokken in de situatie, genoemd in artikel 17 van de verordening vangstmogelijkheden.  
 
 ### Artikel  12  
 
@@ -308,10 +308,8 @@ d. het afboeken van vangsten of bijvangsten van soorten die op grond van artikel
 
 ### Artikel  13  
 
-####Overige verboden
-
-1.  Het is verboden in strijd te handelen met de artikelen 11, 13, tweede lid, 24, 25, 26, 29, 33, eerste, derde en vierde lid, 34, 35, 36, tweede lid, 37, 38, 40, 41 en 45 van de verordening vangstmogelijkheden.   
-2.  Het is verboden visserijactiviteit uit te oefenen in strijd met de artikelen 22, 28, eerste en tweede lid, 36 en 39 van de verordening vangstmogelijkheden.  
+1.  Het is verboden in strijd te handelen met de artikelen 11, 12, tweede lid, 23, 24, 25, 28, 32, eerste, derde en vierde lid, 33, 34, 35, tweede lid, 36, 37, 39, 40 en 44 van de verordening vangstmogelijkheden.   
+2.  Het is verboden visserijactiviteit uit te oefenen in strijd met de artikelen 21, 27, eerste en tweede lid, 35 en 38 van de verordening vangstmogelijkheden.  
 
 ### Artikel  14  
 
@@ -333,7 +331,7 @@ b. ten aanzien waarvan een visvergunning is toegekend die eerder was toegekend t
 
 ####Pelagische visserij
 
-1.  Het is verboden met een vissersvaartuig enige visserijactiviteit uit te oefenen in de zone van de SPRFMO, bedoeld in artikel 4, onderdeel m, van de verordening vangstmogelijkheden.   
+1.  Het is verboden met een vissersvaartuig enige visserijactiviteit uit te oefenen in de zone van de SPRFMO, bedoeld in artikel 4, onderdeel o, van de verordening vangstmogelijkheden.   
 2.  Het eerste lid is niet van toepassing op vissersvaartuigen die pelagische visserij uitoefenen en die aantoonbaar in 2007, 2008 of 2009 in de in het eerste lid bedoelde zone visserijactiviteiten hebben uitgeoefend of op een vissersvaartuig dat voornoemd vissersvaartuig vervangt, indien: 
 
 a. het vissersvaartuig hetzelfde of een kleiner brutotonnage heeft dan het te vervangen vaartuig;  
@@ -2180,105 +2178,133 @@ Nieuwe Statenzijl (gemeente Reiderland) Noordpolderzijl (gemeente Eemsmond) De C
 
 ####Vangstverboden voor het kalenderjaar 2015 op de vissoorten, bedoeld in artikel 10, eerste lid , van de Uitvoeringsregeling zeevisserij
 
-A. *Vissoorten waarop in de desbetreffende gebieden niet mag worden gevist op grond van artikel 13 van de verordening vangstmogelijkheden (verboden soorten).*   
+A. *Vissoorten waarop in de desbetreffende gebieden niet mag worden gevist op grond van de verordening vangstmogelijkheden (verboden soorten).*   
 
 | Vissoort  | Gebied  |
 |:---|:---|
-|  *Alaskapollak*   | volle zee van de Beringzee  |
-|  *Theragra chalcogramma*   | --- |
+|  *Afrikaanse duivelsrog*   | Alle wateren  |
+|  *Mobula rochebrunei (RMN)*   | --- |
+|  *Alaskapollak*   | Volle zee van de Beringzee  |
+|  *Theragra chalcogramma (ALK)*   | --- |
 |  *Antarctische ijsheek*   | Antarctische wateren van FAO gebied 48.4  |
-|  *Dissostichus mawsoni*   | --- |
-|  *Antarctische ijsheken*   | FAO divisie 58.4.4 – Indian Ocean, part of Enderby- Wilkes  |
-|  *Dissostichus ssp*   | FAO sub-area 58.5 – Indian Ocean, Antarctica-Kerguelen  |
-| --- | FAO-sub-area 58.6 - Indian Ocean, Antarctica, Crozet   |
-| --- | FAO sub-area 58.7- Indian Ocean, Antarctica, Marion-Edward  |
+|  *Dissostichus mawsoni (TOA)*   | --- |
+|  *Antarctische ijsheken*   | FAO division 58.4.4 – Indian Ocean, Antarctica, part of Enderby – Wilkes  |
+|  *Dissostichus spp (TOT)*   | FAO sub-area 58.5 – Indian Ocean, Antarctica – Kerguelen  |
+| --- | FAO sub-area 58.6 – Indian Ocean, Antarctica, Crozet  |
+| --- | FAO sub-area 58.7 – Indian Ocean, Antarctica, Marion-Edward  |
 | --- | FAO sub-area 88.3 – Pacific, Antarctica, Amundsen Sea  |
+|  *Atlantische duivelsrog*   | alle wateren  |
+|  *Mobula hypostoma (RMH)*   | --- |
 |  *Beenvisachtigen*   | FAO 48.1  |
-|  *Osteichthyes*   | FAO 48.2  |
+|  *Osteichthyes (FIN)*   | FAO 48.2  |
 |  *Diepzeehaaien*   | SEAFO-verdragsgebied  |
-|  *Elasmobranchii spp*   | --- |
+|  *Elasmobranchii spp (DWS)*   | --- |
 |  *Doornhaai*   | SEAFO-verdragsgebied  |
-|  *Squalus acanthias*   | Unie-wateren van ICES gebieden IIa en IV en alle wateren van ICES gebieden I,V,VI,VII, VIII,XII en XIV  |
+|  *Squalus acanthias (DGS)*   | Unie-wateren van ICES gebieden IIa en IV en alle wateren van ICES-gebieden I, V, VI, VII, VIII, XII en XIV  |
+|  *Dwergduivelsrog*   | alle wateren  |
+|  *Mobula munkiana (RMU)*   | --- |
+|  *Dwergzaagvis*   | alle wateren  |
+|  *Pristis clavata (RPC)*   | --- |
 |  *Electrona carlsbergi*   | Antarctische wateren van FAO gebied 48.3  |
-|  *Electrona carlsbergi*   | --- |
+|  *Electrona carlsbergi (ELC)*   | --- |
 |  *Fluweelijshaai*   | SEAFO-verdragsgebied  |
-|  *Scymnodon squamolusa*   | --- |
+|  *Scymnodon squamulosus (SSQ)*   | --- |
 |  *Gemarmerde zuidpoolkabeljauw*   | Antarctische wateren van FAO gebied 48.3  |
-|  *Notothenia rossi*   | FAO 48.1  |
+|  *Notothenia rossii (NOR)*   | FAO 48.1  |
 | --- | FAO 48.2  |
 |  *Georgia-ijsvis*   | Antarctische wateren van FAO gebied 48.3  |
-|  *Pseudochaenichtys georgianus*   | --- |
+|  *Pseudochaenichthys georgianus (SGI)*   |
+|  *Gestekelde duivelsrog*   | alle wateren  |
+|  *Mobula japanica (RMJ)*   | --- |
 |  *Gevlekte gladde lantaarnhaai*   | SEAFO-verdragsgebied  |
-|  *Etmopterus bigelowi*   | --- |
-|  *Gitaarroggen*   | Unie-wateren van ICES deelgebieden I,II,III,IV,V,VI,VII,VIII,IX,X en XII  |
-|  *Rhinobatidae*   | --- |
+|  *Etmopterus bigelowi (ETB)*   | --- |
+|  *Gewone zaagvis*   | alle wateren  |
+|  *Pristis pristis (RPR)*   | --- |
+|  *Gitaarroggen*   | Unie-wateren van ICES-deelgebieden I, II, III, IV, V, VI, VII, VIII, IX, X en XII  |
+|  *Rhinobatidae (GTF)*   | --- |
 |  *Gladde lantaarnhaai*   | SEAFO-verdragsgebied  |
-|  *Etmopterus pusillus*   | Unie-wateren van ICES gebieden IIa en IV en alle wateren van ICES gebieden I,V,VI,VII, VIII,XII en XIV  |
+|  *Etmopterus pusillus (ETP)*   | --- |
+|  *Gladstaartduivelsrog*   | alle wateren  |
+|  *Mobula thurstoni (RMO)*   | --- |
 |  *Golfrog*   | Unie-wateren van ICES gebieden VI en X  |
-|  *Raja undulata*   | --- |
+|  *Raja undulata (RJU)*   | --- |
 |  *Grijze zuidpoolkabeljauw*   | Antarctische wateren van FAO gebied 48.3  |
-|  *Lepidonotothen squamifrons*   | FAO division 58.4.4 – Indian Ocean, Antartica, part of Enderby – Wilkes  |
-|  *Groene zuidpoolkabeljauw*   | Antartische wateren van FAO gebied 48.3  |
-|  *Gobionotothen gibberifrons*   | --- |
+|  *Gobionotothen gibberifrons (NOG)*   | --- |
 |  *Grootoog-voshaai*   | ICCAT-verdragsgebied  |
-|  *Alopias superciliosus*   | --- |
+|  *Alopias superciliosus (BTH)*   | --- |
 |  *Grote lantaarnhaai*   | SEAFO-verdragsgebied  |
-|  *Etmopterus princeps*   | Unie-wateren van ICES gebieden IIa en IV en alle wateren van ICES gebieden I en XIV  |
+|  *Etmopterus princeps (ETR)*   | Unie-wateren van ICES gebieden IIa en IV en alle wateren van ICES-gebieden I en XIV  |
 |  *Gunthers Patagonische rotskabeljauw*   | Antarctische wateren van FAO gebied 48.3  |
-|  *Patagonotothen guntheri*   | --- |
+|  *Patagonotothen guntheri (GHP)*   | --- |
 |  *Haaien en doornhaaien*   | CCAMLAR-verdragsgebied  |
-|  *Squalidae*   | --- |
+|  *Squalidae (DGX)*   | --- |
 |  *Hamerhaaien*   | ICCAT-verdragsgebied  |
-|  *Sphyrnidae*   | --- |
+|  *Sphyrnidae (SPY)*   | --- |
 |  *Haringhaai*   | alle wateren  |
-|  *Lamna nasus*   | --- |
+|  *Lamna nasus (POR)*   | --- |
+|  *Kleine duivelsrog*   | alle wateren  |
+|  *Mobula mobular (RMM)*   | --- |
+|  *Kleintandzaagvis*   | alle wateren  |
+|  *Pristis pectinata (RPP)*   | --- |
 |  *Kortstaartlantaarnhaai*   | SEAFO-verdragsgebied  |
-|  *Etmopterus brachyurus*   | --- |
+|  *Etmopterus brachyurus (ETH)*   | --- |
+|  *Kortvinduivelsrog*   | alle wateren  |
+|  *Mobula kuhlii (RMK)*   | --- |
+|  *Langkamzaagvis*   | alle wateren  |
+|  *Pristis zijsron (RPZ)*   | --- |
+|  *Langvinduivelsrog*   | alle wateren  |
+|  *Mobula eregoodootenkee (RME)*   | --- |
 |  *Manta*   | alle wateren  |
-|  *Manta birostris*   | --- |
+|  *Manta birostris (RMB)*   | --- |
+|  *Manta alfredi*   | alle wateren  |
+|  *Manta alfredi (RMA)*   | --- |
+|  *Mestandzaagvis*   | alle wateren  |
+|  *Anoxypristis cuspidata (RPA)*   | --- |
 |  *Noorse rog*   | Unie-wateren van ICES gebieden VIa-b en VIIa-c, VIIe-h en VIIk  |
-|  *Raja (Dipturus) nidarosiensis*   | --- |
+|  *Raja (Dipturus) nidarosiensis (JAD)*   | --- |
 |  *Portugese ijshaai*   | Unie-wateren van ICES gebieden IIa en IV en alle wateren van ICES-gebieden I en XIV  |
-|  *Centroscymnus coelolepis*   | --- |
+|  *Centroscymnus coelolepis (CYO)*   | --- |
 |  *Reuzenhaai*   | alle wateren  |
-|  *Cetorhinus maximus*   | --- |
+|  *Cetorhinus maximus (BSK)*   | --- |
 |  *Roggen*   | SEAFO-verdragsgebied  |
-|  *Rajidae*   | --- |
+|  *Rajidae (RAJ)*   | --- |
 |  *Ruwe haai*   | Unie-wateren van ICES gebieden IIa en IV en alle wateren van ICES-gebieden I, V, VI, VII, VIII, XII en XIV  |
-|  *Galeorhinus galeus*   |
+|  *Galeorhinus galeus (GAG)*   |
 |  *Schubzwelghaai*   | Unie-wateren van ICES gebieden IIa en IV en alle wateren van ICES-gebieden I en XIV  |
-|  *Centrophorus squamosus*   | --- |
+|  *Centrophorus squamosus (GUQ)*   | --- |
 |  *Scotiazee-ijsvis*   | Antarctische wateren van FAO gebied 48.3  |
-|  *Chaenocephalus aceratus*   | --- |
+|  *Chaenocephalus aceratus (SSI)*   | --- |
+|  *Sikkelvinduivelsrog*   | alle wateren  |
+|  *Mobula tarapacana (RMT)*   | --- |
 |  *Spitsneusrog*   | Unie-wateren van ICES gebieden VI, VII, VIII, IX en X  |
-|  *Raja alba*   | --- |
+|  *Raja alba (RJA)*   | --- |
 |  *Spitssnuitsnavelhaai*   | Unie-wateren van ICES gebieden IIa en IV en alle wateren van ICES-gebieden I en XIV  |
-| Deania calcea  | --- |
+|  *Deania calcea (DCA)*   | --- |
 |  *Spookkathaai*   | SEAFO-verdragsgebied  |
-|  *Apristurus manis*   | --- |
+|  *Apristurus manis (APA)*   | --- |
 |  *Stekelrog*   | Unie-wateren van ICES gebied IIIa  |
-|  *Raja clavata*   | --- |
-|  *Sterrog*   | Unie-wateren van ICES gebieden IIa, IIIa, Iva en VIId  |
-|  *Amblyraja radiata*   | --- |
+|  *Raja clavata (RJC)*   | --- |
+|  *Sterrog*   | Unie-wateren van ICES-gebieden IIa, IIIa, IV en VIId  |
+|  *Amblyraja radiata (RJR)*   | --- |
 |  *Vleet*   | Unie-wateren van de ICES-sector IIa en ICES-deelgebieden III, IV, VI, VII, VIII, IX en X  |
-|  *Dipturus batis*   | --- |
+|  *Dipturus batis (RJB)*   | --- |
 |  *Voshaaien*   | IOTC-verdragsgebied  |
-|  *Alopias spp*   | --- |
+|  *Alopias spp (THR)*   | --- |
 |  *Witpunthaai*   | IATTC-verdragsgebied  |
-|  *Carcharhinus longimanus*   | ICCAT-verdragsgebied  |
+|  *Carcharhinus longimanus (OCS)*   | ICCAT-verdragsgebied  |
 | --- | IOTC-verdragsgebied  |
 | --- | WCPFC-vedragsgebied  |
 |  *Witte haai*   | alle wateren  |
-|  *Carcharodon carcharias*   | --- |
+|  *Carcharodon carcharias (WSH)*   | --- |
 |  *Zee-engel*   | Unie-wateren  |
-|  *Squatina squatina*   | --- |
+|  *Squatina squatina (AGN)*   | --- |
 |  *Zeevissen (niet nader benoemd)*   | Antarctische wateren van FAO gebied 58.5.2.  |
-|  *Osteichthyes*   | --- |
+|  *Osteichthyes (MZZ)*   | --- |
 |  *Zijdehaai*   | IATTC-verdragsgebied  |
-|  *Carcharhinus falciformis*   | ICCAT-verdragsgebied  |
+|  *Carcharhinus falciformis (FAL)*   | ICCAT-verdragsgebied  |
 | --- | WCPFC-vedragsgebied  |
 |  *Zwarte haai*   | Unie-wateren van ICES gebieden IIa en IV en alle wateren van ICES-gebieden I en XIV  |
-|  *Dalatias licha*   | --- |
+|  *Dalatias licha (SCK)*   | --- |
 
 B. *Vissoorten waarvoor in de desbetreffende gebieden een nul-TAC geldt of waarvoor Nederland geen quotum heeft.*   *Voor de met een asterisk gemarkeerde vissoorten geldt een vangstverbod voor alle vissersvaartuigen, Nederlands of niet-Nederlands.*   *Voor de niet met een asterisk gemarkeerde vissoorten geldt een vangstverbod voor Nederlandse vissersvaartuigen.*   
 
@@ -2660,24 +2686,24 @@ B. *Vissoorten waarvoor in de desbetreffende gebieden een nul-TAC geldt of waarv
 
 ### Bijlage  7  
 
-Totale toegestane visserij-inspanning, uitgedrukt in kW dagen per categorie vistuig en per (gedeelte van de) beheersperiode als bedoeld in artikel 16, tweede lid, onderdeel a, van de Uitvoeringsregeling zeevisserij   Bijlage 
+####Totale toegestane visserij-inspanning, uitgedrukt in kW dagen per categorie vistuig en per (gedeelte van de) beheersperiode als bedoeld in artikel 16, tweede lid, onderdeel a , van de Uitvoeringsregeling zeevisserij
 
-| Vistuigcategorieën  | Vistuig-categorie code  | Visserij-inspanning in de maanden februari 2014 tot en met september 2014  | Visserij-inspanning in de maanden oktober 2014 tot en met januari 2015  |
+| Vistuigcategorieën  | Vistuigcategorie code  | Visserij-inspanning in de maanden februari 2015 tot en met september 2015  | Visserij-inspanning in de maanden oktober 2015 tot en met januari 2016  |
 |:---|:---|:---|:---|
-| Bodemtrawls en zegens (vistuigtypen OTB, OTT, PTB, SDN, SSC, SPR) met een maaswijdte:  | --- | --- | --- |
+|  *Bodemtrawls en zegens (vistuigtypen OTB, OTT, PTB, SDN, SSC, SPR) met een maaswijdte:*   | --- | --- | --- |
 | gelijk aan of groter dan 120 mm  | TR1 A<sup>1</sup>   | 124.950  | 22.050  |
 | gelijk aan of groter dan 120 mm  | TR1 B<sup>2</sup>   | 93.726  | 16.540  |
 | gelijk aan of groter dan 100 mm en kleiner dan 120 mm  | TR1 C  | 779.277  | 137.520  |
 | gelijk aan of groter dan 70 mm en kleiner dan 100 mm  | TR2  | 1.449.331  | 483.110  |
 | --- |
-| Bodemtrawls en zegens (vistuigtypen OTB, OTT, PTB, SDN, SSC, SPR) met een maaswijdte:  | --- | Visserij-inspanning in de maanden februari 2014 tot en met januari 2015  |
+|  *Bodemtrawls en zegens (vistuigtypen OTB, OTT, PTB, SDN, SSC, SPR) met een maaswijdte:*   | --- |  *Visserij-inspanning in de maanden februari 2015 tot en met januari 2016*   |
 | gelijk aan of groter dan 16 mm en kleiner dan 32 mm  | TR3  | 36.617  |
-| Boomkorren (vistuigtype TBB) met een maaswijdte:  | --- | --- |
+|  *Boomkorren (vistuigtype TBB) met een maaswijdte:*   | --- | --- |
 | gelijk aan of groter dan 120 mm  | BT1  | 999.808  |
 | gelijk aan of groter dan 80 mm en kleiner dan 120 mm  | BT2  | 22.004.242  |
-| Kieuwnetten en warrelnetten (vistuigtype GN)  | GN  | 438.664  |
+|  *Kieuwnetten en warrelnetten (vistuigtype GN)*   | GN  | 438.664  |
 
-<sup>1</sup> Het vistuig met de desbetreffende maaswijdte is aan boord van een vissersvaartuig dat is geregistreerd op naam van een ondernemer die deelneemt aan een pilot in het kader van volledig gedocumenteerde visserij als bedoeld in titel II, hHoofdstuk II, van de verordening vangstmogelijkheden.<sup>2</sup> Het vistuig met de desbetreffende maaswijdte is aan boord van een vissersvaartuig dat is geregistreerd op naam van een ondernemer die *niet* deelneemt aan een pilot in het kader van volledig gedocumenteerde visserij als bedoeld in titel II, hoofdstuk II, van de verordening vangstmogelijkheden.
+Voetnoten:  <sup>1</sup> Het vistuig met de desbetreffende maaswijdte is aan boord van een vissersvaartuig dat is geregistreerd op naam van een ondernemer die deelneemt aan een pilot in het kader van volledig gedocumenteerde visserij als bedoeld in titel II, hHoofdstuk II, van de verordening vangstmogelijkheden.  <sup>2</sup> Het vistuig met de desbetreffende maaswijdte is aan boord van een vissersvaartuig dat is geregistreerd op naam van een ondernemer die *niet* deelneemt aan een pilot in het kader van volledig gedocumenteerde visserij als bedoeld in titel II, hoofdstuk II, van de verordening vangstmogelijkheden.
 
 ### Bijlage  8  
 

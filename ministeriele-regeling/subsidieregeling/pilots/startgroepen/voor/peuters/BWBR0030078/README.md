@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 6 juni 2011, nr. WJZ/303439 (2774), houdende subsidie ten behoeve van pilots van startgroepen voor peuters (Subsidieregeling pilots startgroepen voor peuters)
 
 De Minister van Onderwijs, Cultuur en Wetenschap,  
-Gelet op [artikel 70 van de Wet op het primair onderwijs](../../../../../../../wet/wbo/BWBR0003420/README.md) en [artikel 4 van de Wet overige OCW-subsidies](../../../../../../../wet/wet/overige/ocw-subsidies/BWBR0009458/README.md);
+Gelet op artikel 70 van de Wet op het primair onderwijs en artikel 4 van de Wet overige OCW-subsidies;
 Besluit:    
 
 ### Artikel  1  
@@ -12,17 +12,17 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-*  *begeleider voorschoolse educatie:* beroepskracht voorschoolse educatie die voldoet aan [artikel 3, eerste en derde lid, van de Wet op het primair onderwijs](../../../../../../../wet/wbo/BWBR0003420/README.md) en aan [artikel 5.1 van het Besluit bekwaamheidseisen onderwijspersoneel](../../../../../../../AMvB/besluit/bekwaamheidseisen/onderwijspersoneel/BWBR0018692/README.md);  
+*  *begeleider voorschoolse educatie:* beroepskracht voorschoolse educatie die voldoet aan artikel 3, eerste en derde lid, van de Wet op het primair onderwijs en aan artikel 5.1 van het Besluit bekwaamheidseisen onderwijspersoneel;  
 
-*  *beroepskracht voorschoolse educatie:* beroepskracht voorschoolse educatie als bedoeld in [artikel 1.1, eerste lid](../../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md), en [artikel 2.1, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md);  
+*  *beroepskracht voorschoolse educatie:* beroepskracht voorschoolse educatie als bedoeld in artikel 1.1, eerste lid, en artikel 2.1, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen;  
 
-*  *bevoegd gezag:* bevoegd gezag als bedoeld in [artikel 1 van de Wet op het primair onderwijs](../../../../../../../wet/wbo/BWBR0003420/README.md);  
+*  *bevoegd gezag:* bevoegd gezag als bedoeld in artikel 1 van de Wet op het primair onderwijs;  
 
-*  *directeur:* directeur als bedoeld in [artikel 29, eerste lid, van de Wet op het primair onderwijs](../../../../../../../wet/wbo/BWBR0003420/README.md);  
+*  *directeur:* directeur als bedoeld in artikel 29, eerste lid, van de Wet op het primair onderwijs;  
 
 *  *gemeente:* gemeente waarin zowel de vestiging van de school als het kindercentrum dan wel de peuterspeelzaal gelegen zijn die aan de pilot meedoen of willen doen;  
 
-*  *kindercentrum:* kindercentrum als bedoeld in [artikel 1.1, eerste lid, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) dat voorschoolse educatie verzorgt;  
+*  *kindercentrum:* kindercentrum als bedoeld in artikel 1.1, eerste lid, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen dat voorschoolse educatie verzorgt;  
 
 *  *krimpregio Parkstad Limburg:* gemeenten Brunssum, Heerlen, Kerkrade, Landgraaf, Nuth, Onderbanken, Voerendaal en Simpelveld;  
 
@@ -34,21 +34,21 @@ In deze regeling wordt verstaan onder:
 
 *  *opbrengstgericht werken:* doelgerichte, ontwikkelingsgerichte en systematische manier van werken die erop gericht is ontwikkelingskansen en de toekomstige onderwijsresultaten in de schoolloopbaan van de leerlingen te verbeteren;  
 
-*  *peuterspeelzaal:* peuterspeelzaal als bedoeld in [artikel 2.1, eerste lid, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) die voorschoolse educatie verzorgt;  
+*  *peuterspeelzaal:* peuterspeelzaal als bedoeld in artikel 2.1, eerste lid, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen die voorschoolse educatie verzorgt;  
 
-*  *school:* basisschool als bedoeld in [artikel 1 van de Wet op het primair onderwijs](../../../../../../../wet/wbo/BWBR0003420/README.md) die vroegschoolse educatie verzorgt;  
+*  *school:* basisschool als bedoeld in artikel 1 van de Wet op het primair onderwijs die vroegschoolse educatie verzorgt;  
 
-*  *schooljaar:* schooljaar als bedoeld in [artikel 1 van de Wet op het primair onderwijs](../../../../../../../wet/wbo/BWBR0003420/README.md);  
+*  *schooljaar:* schooljaar als bedoeld in artikel 1 van de Wet op het primair onderwijs;  
 
 *  *startgroep:* groep in een peuterspeelzaal of kindercentrum voor kinderen van twee of drie jaar waaraan voorschoolse educatie wordt gegeven door een begeleider voorschoolse educatie en een beroepskracht voorschoolse educatie, waarbij de directeur van de school een regiefunctie vervult ten aanzien van activiteiten in het kader van deze regeling;  
 
-*  *taal- of rekenzwakke school:* school die blijkens het meest recente onderzoek, bedoeld in [artikel 11 van de Wet op het onderwijstoezicht](../../../../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md), als eindresultaat taal of rekenen een onvoldoende heeft gehaald als bedoeld in paragraaf 2.7 respectievelijk paragraaf 2.8 van de notitie Analyse en waardering van opbrengsten, september 2010, www.onderwijsinspectie.nl;  
+*  *taal- of rekenzwakke school:* school die blijkens het meest recente onderzoek, bedoeld in artikel 11 van de Wet op het onderwijstoezicht, als eindresultaat taal of rekenen een onvoldoende heeft gehaald als bedoeld in paragraaf 2.7 respectievelijk paragraaf 2.8 van de notitie Analyse en waardering van opbrengsten, september 2010, www.onderwijsinspectie.nl;  
 
-*  *voorschoolse educatie:* voorschoolse educatie als bedoeld in de [artikelen 1.1, eerste lid](../../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md), en [2.1 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md);  
+*  *voorschoolse educatie:* voorschoolse educatie als bedoeld in de artikelen 1.1, eerste lid, en 2.1 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen;  
 
-*  *vroegschoolse educatie:* vroegschoolse educatie als bedoeld in [artikel 1 van de Wet op het primair onderwijs](../../../../../../../wet/wbo/BWBR0003420/README.md);  
+*  *vroegschoolse educatie:* vroegschoolse educatie als bedoeld in artikel 1 van de Wet op het primair onderwijs;  
 
-*  *zwakke of zeer zwakke school:* school waarvan de kwaliteit door de Inspectie van het onderwijs, bedoeld in [artikel 1 van de Wet op het onderwijstoezicht](../../../../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md), als zwak of zeer zwak is beoordeeld op basis van het meest recente onderzoek als bedoeld in [artikel 11 van de Wet op het onderwijstoezicht](../../../../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md).   
+*  *zwakke of zeer zwakke school:* school waarvan de kwaliteit door de Inspectie van het onderwijs, bedoeld in artikel 1 van de Wet op het onderwijstoezicht, als zwak of zeer zwak is beoordeeld op basis van het meest recente onderzoek als bedoeld in artikel 11 van de Wet op het onderwijstoezicht.   
 
 ### Artikel  2  
 
@@ -58,9 +58,9 @@ De minister kan subsidie verstrekken aan een bevoegd gezag voor het bevorderen v
 
 ### Artikel  3  
 
-####Toepassing [Regeling OCW-subsidies](../../../../../../../ministeriele-regeling/regeling/ocw-subsidies/BWBR0028820/README.md)
+####Toepassing Regeling OCW-subsidies
 
-[Artikel 4 van de Regeling OCW-subsidies](../../../../../../../ministeriele-regeling/regeling/ocw-subsidies/BWBR0028820/README.md) is niet van toepassing op subsidieverstrekking op grond van deze regeling. 
+Artikel 4 van de Regeling OCW-subsidies is niet van toepassing op subsidieverstrekking op grond van deze regeling. 
 
 ### Artikel  4  
 
@@ -101,21 +101,22 @@ f. de kosten ter grootte van 1 dagdeel in verband met de inzet van de beroepskra
 
 a. de scholing, die voor 1 december 2011 is afgerond, van de begeleider voorschoolse educatie en de directeur van de school, specifiek gericht op de ontwikkeling van kinderen van 2 of 3 jaar;  
 
-b. de scholing, bedoeld in [artikel 4, derde lid, van het Besluit basisvoorwaarden kwaliteit voorschoolse educatie](../../../../../../../AMvB/besluit/basisvoorwaarden/kwaliteit/voorschoolse/educatie/BWBR0027961/README.md), die voor 1 december 2011 is afgerond, van degene ten aanzien van wie de subsidieontvanger voornemens is hem werkzaam te laten zijn als begeleider voorschoolse educatie.    
+b. de scholing, bedoeld in artikel 4, derde lid, van het Besluit basisvoorwaarden kwaliteit voorschoolse educatie, die voor 1 december 2011 is afgerond, van degene ten aanzien van wie de subsidieontvanger voornemens is hem werkzaam te laten zijn als begeleider voorschoolse educatie.    
 
 ### Artikel  7  
 
 ####Subsidiebedrag
 
 1.  Het subsidiebedrag voor het schooljaar 2011–2012 bedraagt per school € 61.128,–.   
-2.  Het totale subsidiebedrag voor de schooljaren 2012–2013, 2013–2014 en 2014–2015, bedraagt per school € 153.384,–.  
+2.  Het totale subsidiebedrag voor de schooljaren 2012–2013, 2013–2014 en 2014–2015, bedraagt per school € 153.384,–.   
+3.   Het subsidiebedrag voor het schooljaar 2015–2016 bedraagt per school € 51.128,–. 
 
 ### Artikel  8  
 
 ####Besteding subsidie
 
 1.  Het eventueel niet voor de activiteiten, bedoeld in artikel 6, aangewende deel van de subsidie voor het schooljaar 2011–2012 kan, mits die activiteiten volledig zijn uitgevoerd, in het schooljaar 2011–2012 worden besteed aan andere activiteiten van het bevoegd gezag waarvoor bekostiging wordt verstrekt.   
-2.  Het eventueel niet voor de activiteiten, bedoeld in artikel 6, aangewende deel van de subsidie voor de schooljaren 2012–2013, 2013–2014 en 2014–2015 kan, mits die activiteiten volledig zijn uitgevoerd, in het schooljaar 2014–2015 worden besteed aan andere activiteiten van het bevoegd gezag waarvoor bekostiging wordt verstrekt.  
+2.  Het eventueel niet voor de activiteiten, bedoeld in artikel 6, aangewende deel van de subsidie voor de schooljaren 2012–2013 tot en met 2015–2016 kan, mits die activiteiten volledig zijn uitgevoerd, in de schooljaren 2014–2015 en 2015–2016 worden besteed aan andere activiteiten van het bevoegd gezag waarvoor bekostiging wordt verstrekt.  
 
 ### Artikel  9  
 
@@ -165,9 +166,9 @@ Indien ingevolge de loting, bedoeld in artikel 9, geen subsidie kan worden verst
 
 ### Artikel  11  
 
-####Verdeelcriteria subsidie schooljaren 2012–2013, 2013–2014 en 2014–2015
+####Verdeelcriteria subsidie schooljaren 2012–2013 tot en met 2015–2016
 
-Subsidie voor de schooljaren 2012–2013, 2013–2014 en 2014–2015 kan slechts worden verstrekt indien uit de voortgangsrapportage, bedoeld in artikel 13, vierde lid, naar het oordeel van de minister voldoende voortgang en voldoende resultaat blijkt. 
+Subsidie voor de schooljaren 2012–2013 tot en met 2015–2016 kan slechts worden verstrekt indien uit de voortgangsrapportage, bedoeld in artikel 13, vierde lid, naar het oordeel van de minister voldoende voortgang en voldoende resultaat blijkt. 
 
 ### Artikel  12  
 
@@ -181,7 +182,7 @@ De minister beslist binnen 13 weken na het verstrijken van de aanvraagtermijnen,
 
 1.  De subsidieontvanger: 
 
-a. zet middelen van de bekostiging op grond van de [Wet op het primair onderwijs](../../../../../../../wet/wbo/BWBR0003420/README.md) in, ten behoeve van de vroegschoolse educatie, om de aansluiting van de startgroep op de groepen 1 en 2 van de basisschool te bevorderen;  
+a. zet middelen van de bekostiging op grond van de Wet op het primair onderwijs in, ten behoeve van de vroegschoolse educatie, om de aansluiting van de startgroep op de groepen 1 en 2 van de basisschool te bevorderen;  
 
 b. werkt mee aan onderzoek naar de opbrengsten van de startgroep.     
 2.  De subsidieontvanger draagt er tevens, in samenwerking met de gemeente, de houder van de peuterspeelzaal dan wel het kindercentrum, zorg voor dat: 
@@ -210,7 +211,7 @@ f. de inzet vanuit het bevoegd gezag van de school van een begeleider voorschool
 
 ####Melding
 
-De melding, bedoeld in [artikel 9 van de Regeling OCW-subsidies](../../../../../../../ministeriele-regeling/regeling/ocw-subsidies/BWBR0028820/README.md), geschiedt aan Dienst Uitvoering Onderwijs van het Ministerie van Onderwijs, Cultuur en Wetenschap. 
+De melding, bedoeld in artikel 9 van de Regeling OCW-subsidies, geschiedt aan Dienst Uitvoering Onderwijs van het Ministerie van Onderwijs, Cultuur en Wetenschap. 
 
 ### Artikel  15  
 
