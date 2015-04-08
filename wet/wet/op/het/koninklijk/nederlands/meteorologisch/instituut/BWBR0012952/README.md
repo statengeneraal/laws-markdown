@@ -24,7 +24,7 @@ c. hoofddirecteur: hoofddirecteur van het KNMI;
 
 d. algemeen weerbericht: algemeen weerbericht als bedoeld in artikel 5, tweede en vijfde lid;  
 
-e. luchtvaartmeteorologische inlichtingen: inlichtingen ten behoeve van het luchtverkeer, bedoeld in [artikel 1.1, eerste lid, van de Wet luchtvaart](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md);  
+e. luchtvaartmeteorologische inlichtingen: inlichtingen ten behoeve van het luchtverkeer, bedoeld in artikel 1.1, eerste lid, van de Wet luchtvaart;  
 
 f. KNMI-gegevens: door het KNMI uit eigen waarneming of in internationaal verband verkregen gegevens met betrekking tot meteorologische en andere geofysische feiten en omstandigheden, uitgezonderd de luchtvaartmeteorologische inlichtingen en het algemeen weerbericht;  
 
@@ -150,7 +150,7 @@ c. kunnen andere regels inzake de inhoud van de overeenkomst en regels voor de v
 1. Het KNMI kan, onverminderd zijn verantwoordelijkheid voor het verlenen van de diensten, bedoeld in artikel 8, na schriftelijke instemming van Onze Minister gebruikmaken van de diensten van een andere verlener van meteorologische diensten voor luchtvaartnavigatie voor het uitvoeren van de in artikel 3, eerste lid, onderdeel c, bedoelde taak.
 2. Gronden waarop instemming als bedoeld in het eerste lid kan worden onthouden zijn:
 
-a.het niet voldoen of niet kunnen voldoen door de verlener van wiens diensten gebruik zal worden gemaakt aan de op grond van [artikel 5.14d, derde lid, van de Wet luchtvaart](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) aan het certificaat van het KNMI gestelde beperkingen en voorschriften;
+a.het niet voldoen of niet kunnen voldoen door de verlener van wiens diensten gebruik zal worden gemaakt aan de op grond van artikel 5.14d, derde lid, van de Wet luchtvaart aan het certificaat van het KNMI gestelde beperkingen en voorschriften;
 
 b.strijd met het belang van een veilig, ordelijk en vlot verloop van het luchtverkeer; of
 

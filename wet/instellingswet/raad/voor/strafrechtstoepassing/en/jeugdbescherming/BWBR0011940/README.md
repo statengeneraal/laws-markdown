@@ -22,7 +22,7 @@ b. vrijheidsstraf: gevangenisstraf, (vervangende) hechtenis, militaire detentie 
 
 c. vrijheidsbeperkende straf: voorwaardelijke vrijheidsstraf en taakstraf;  
 
-d. vrijheidsbenemende maatregel: voorlopige hechtenis, vreemdelingenbewaring, gijzeling, terbeschikkingstelling met bevel tot verpleging, plaatsing in een inrichting voor jeugdigen, plaatsing in een justitiële jeugdinrichting in verband met de tenuitvoerlegging van een machtiging als bedoeld in artikel 29b en 29c van de Wet op de jeugdzorg, plaatsing in een inrichting voor stelselmatige daders en vrijheidsbeneming die op andere gronden dan de in onderdeel b genoemde gronden plaatsvindt;  
+d. vrijheidsbenemende maatregel: voorlopige hechtenis, vreemdelingenbewaring, gijzeling, terbeschikkingstelling met bevel tot verpleging, plaatsing in een inrichting voor jeugdigen, plaatsing in een justitiële jeugdinrichting in verband met de tenuitvoerlegging van een machtiging als bedoeld in de artikelen 6.1.2 en 6.1.3 van de Jeugdwet, plaatsing in een inrichting voor stelselmatige daders en vrijheidsbeneming die op andere gronden dan de in onderdeel b genoemde gronden plaatsvindt;  
 
 e. vrijheidsbeperkende maatregel: voorwaardelijke vrijheidsbenemende maatregel;  
 
@@ -68,9 +68,9 @@ b.personen, werkzaam onder de verantwoordelijkheid van Onze Minister, indien hun
 
 c.bestuursleden, leden van een raad van toezicht, medewerkers of personeelsleden van een door Onze Minister gesubsidieerde instelling die werkzaam is op het terrein van de tenuitvoerlegging van vrijheidsbenemende of vrijheidsbeperkende straffen of maatregelen;
 
-d.bestuursleden, leden van een raad van toezicht, medewerkers of personeelsleden van een stichting als bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg, bij de uitvoering van de taken, bedoeld in artikel 10, eerste lid, onderdelen c en d, van de Wet op de jeugdzorg;
+d. bestuursleden, leden van een raad van toezicht, medewerkers of personeelsleden van een gecertificeerde instelling als bedoeld in artikel 1.1 van de Jeugdwet, bij de uitvoering van de jeugdreclassering, bedoeld in artikel 1.1 van de Jeugdwet;  
 
-e.personen die werkzaam zijn bij of deel uitmaken van een instantie die toezicht houdt op de tenuitvoerlegging van vrijheidsbenemende of vrijheidsbeperkende straffen of maatregelen of op de taken, bedoeld in artikel 10, eerste lid, onderdelen c en d, van de Wet op de jeugdzorg;
+e. personen die werkzaam zijn bij of deel uitmaken van een instantie die toezicht houdt op de tenuitvoerlegging van vrijheidsbenemende of vrijheidsbeperkende straffen of maatregelen of op de uitvoering van de jeugdreclassering, bedoeld in artikel 1.1 van de Jeugdwet; 
 
 f.personen tegen wie bezwaren bestaan voor wat betreft de vervulling van de functie, die blijken uit de justitiële gegevens, bedoeld in het Besluit justitiële gegevens, of uit politiegegevens, bedoeld in artikel 1, onder a, van de Wet politiegegevens; de bezwaren hebben betrekking op het vertrouwelijk karakter van de functie alsmede de aan de functie verbonden bevoegdheden.  
 4.  Bij de samenstelling van de Raad wordt gestreefd naar evenredige deelneming van vrouwen en personen behorende tot etnische of culturele minderheidsgroepen.  
