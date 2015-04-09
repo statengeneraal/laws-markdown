@@ -3,22 +3,22 @@
 ##Regeling van de Minister van Justitie van 5 september 2005, nr. 5373439/505, houdende nieuwe bepalingen met betrekking tot bloed- en urineonderzoek
 
 De Minister van Justitie,  
-Gelet op [artikel 163, vijfde, achtste, negende en tiende lid, van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [artikel 28a, zesde, negende tot en met elfde lid van de Scheepvaartwet](../../../../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md), [artikel 11.6, vijfde, achtste tot en met tiende lid van de Wet luchtvaart](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) en [artikel 89, vijfde, achtste tot en met tiende lid van de Spoorwegwet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md) en de [artikelen 13](../../../../../../AMvB/besluit/alcoholonderzoeken/BWBR0008805/README.md), [18](../../../../../../AMvB/besluit/alcoholonderzoeken/BWBR0008805/README.md), [19](../../../../../../AMvB/besluit/alcoholonderzoeken/BWBR0008805/README.md), [21](../../../../../../AMvB/besluit/alcoholonderzoeken/BWBR0008805/README.md) en [22 van het Besluit alcoholonderzoeken](../../../../../../AMvB/besluit/alcoholonderzoeken/BWBR0008805/README.md);
+Gelet op artikel 163, vijfde, achtste, negende en tiende lid, van de Wegenverkeerswet 1994, artikel 28a, zesde, negende tot en met elfde lid van de Scheepvaartwet, artikel 11.6, vijfde, achtste tot en met tiende lid van de Wet luchtvaart en artikel 89, vijfde, achtste tot en met tiende lid van de Spoorwegwet en de artikelen 13, 18, 19, 21 en 22 van het Besluit alcoholonderzoeken;
 Besluit:    
 
 ### Artikel  1  
 
 In deze regeling wordt verstaan onder: 
 
-a. het besluit: het [Besluit alcoholonderzoeken](../../../../../../AMvB/besluit/alcoholonderzoeken/BWBR0008805/README.md);  
+a. het besluit: het Besluit alcoholonderzoeken;  
 
-b. bloedafname: het afnemen van een hoeveelheid bloed ten behoeve van een onderzoek als bedoeld in [artikel 8, tweede lid, onder b en derde lid, onder b, van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [artikel 27, tweede lid, onder b, van de Scheepvaartverkeerswet](../../../../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md), [artikel 2.12, derde lid, onderdeel b, van de Wet Luchtvaart](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) of [artikel 4, tweede lid, onderdeel b, van de Spoorwegwet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md);  
+b. bloedafname: het afnemen van een hoeveelheid bloed ten behoeve van een onderzoek als bedoeld in artikel 8, tweede lid, onder b en derde lid, onder b, van de Wegenverkeerswet 1994, artikel 27, tweede lid, onder b, van de Scheepvaartverkeerswet, artikel 2.12, derde lid, onderdeel b, van de Wet Luchtvaart of artikel 4, tweede lid, onderdeel b, van de Spoorwegwet;  
 
-c. politie: de ambtenaar van politie, bedoeld in [artikel 2, onderdeel a, van de Politiewet 2012](../../../../../../wet/politiewet/2012/BWBR0031788/README.md), en de ambtenaar van politie, bedoeld in [artikel 2, onderdelen c, en d, van de Politiewet 2012](../../../../../../wet/politiewet/2012/BWBR0031788/README.md), voor zover zij zijn aangesteld voor de uitvoering van de politietaak. Onder de politie wordt voor de toepassing van deze regeling mede verstaan een ambtenaar van het Wapen der Koninklijke Marechaussee.   
+c. politie: de ambtenaar van politie, bedoeld in artikel 2, onderdeel a, van de Politiewet 2012, en de ambtenaar van politie, bedoeld in artikel 2, onderdelen c, en d, van de Politiewet 2012, voor zover zij zijn aangesteld voor de uitvoering van de politietaak. Onder de politie wordt voor de toepassing van deze regeling mede verstaan een ambtenaar van het Wapen der Koninklijke Marechaussee.   
 
 ### Artikel  2  
 
-1.  Als ambtenaren, bedoeld in [artikel 163, vijfde, achtste en negende lid, van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [artikel 28a, zesde, negende en tiende lid, van de Scheepvaartverkeerswet](../../../../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md), [artikel 11.6, vijfde, achtste en negende lid, van de Wet luchtvaart](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) en [artikel 89, vijfde, achtste en negende lid van de Spoorwegwet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md), worden aangewezen de ambtenaren van politie, benoemd in schaal 8 of hoger.   
+1.  Als ambtenaren, bedoeld in artikel 163, vijfde, achtste en negende lid, van de Wegenverkeerswet 1994, artikel 28a, zesde, negende en tiende lid, van de Scheepvaartverkeerswet, artikel 11.6, vijfde, achtste en negende lid, van de Wet luchtvaart en artikel 89, vijfde, achtste en negende lid van de Spoorwegwet, worden aangewezen de ambtenaren van politie, benoemd in schaal 8 of hoger.   
 2.  Zij oefenen, voor zover zij geen hulpofficier van justitie zijn, de hun toegekende bevoegdheid niet uit indien een hulpofficier van justitie beschikbaar is.  
 
 ### Artikel  3  
@@ -33,7 +33,7 @@ c. politie: de ambtenaar van politie, bedoeld in [artikel 2, onderdeel a, van de
 
 ### Artikel  5  
 
-1.  De urine, bestemd voor het in [artikel 17 van het besluit](../../../../../../AMvB/besluit/alcoholonderzoeken/BWBR0008805/README.md) bedoelde onderzoek, wordt opgevangen in een flesje met een inhoud van ongeveer 100 milliliter, van een type dat is aangewezen door het Nederlands Forensisch Instituut.   
+1.  De urine, bestemd voor het in artikel 17 van het besluit bedoelde onderzoek, wordt opgevangen in een flesje met een inhoud van ongeveer 100 milliliter, van een type dat is aangewezen door het Nederlands Forensisch Instituut.   
 2.  Het flesje, bedoeld in het eerste lid, is voorzien van 1000 milligram natriumfluoride.  
 
 ### Artikel  6  
@@ -43,7 +43,7 @@ c. politie: de ambtenaar van politie, bedoeld in [artikel 2, onderdeel a, van de
 
 ### Artikel  7  
 
-1.  De opsporingsambtenaar zorgt er voor, dat, indien de korpschef, bedoeld in [artikel 27 van de Politiewet 2012,](../../../../../../wet/politiewet/2012/BWBR0031788/README.md) of de brigadecommandant van de Koninklijke Marechaussee, een aanvraag doet tot het verrichten van onderzoek aan een bloed- of urinemonster, de gevulde monsterbuisjes in een verpakking die is voorzien van een sluitzegel, worden bezorgd bij het Nederlands Forensisch Instituut.   
+1.  De opsporingsambtenaar zorgt er voor, dat, indien de korpschef, bedoeld in artikel 27 van de Politiewet 2012, of de brigadecommandant van de Koninklijke Marechaussee, een aanvraag doet tot het verrichten van onderzoek aan een bloed- of urinemonster, de gevulde monsterbuisjes in een verpakking die is voorzien van een sluitzegel, worden bezorgd bij het Nederlands Forensisch Instituut.   
 2.  Het Nederlands Forensisch Instituut stelt de sluitzegel en verpakking, bedoeld in het eerste lid, vast.  
 
 ### Artikel  8  
@@ -61,7 +61,7 @@ De aanvraag van een onderzoek naar het alcoholgehalte van bloed of urine, bedoel
 
 ### Artikel  11  
 
-1.  Het Nederlands Forensisch Instituut verricht het tegenonderzoek als bedoeld in [artikel 10a van het Besluit alcoholonderzoeken](../../../../../../AMvB/besluit/alcoholonderzoeken/BWBR0008805/README.md). De artikelen 3 tot en met 10 zijn van overeenkomstige toepassing.   
+1.  Het Nederlands Forensisch Instituut verricht het tegenonderzoek als bedoeld in artikel 10a van het Besluit alcoholonderzoeken. De artikelen 3 tot en met 10 zijn van overeenkomstige toepassing.   
 2.  De kosten van het onderzoek, bedoeld in het eerste lid, bedragen: 
 
 a. € 4,50 voor het gebruik van de in artikel 4 bedoelde monsterbuisjes, alsmede de in artikel 7, tweede lid, bedoelde sluitzegel en verpakking;  
@@ -87,11 +87,11 @@ Met de in deze regeling bedoelde apparatuur en onderzoeksmaterialen worden gelij
 
 ### Artikel  14  
 
-Na de inwerkingtreding van deze regeling berusten krachtens de [Regeling bloed- en urineonderzoek](../../../../../../ministeriele-regeling/regeling/bloed-/en/urineonderzoek/BWBR0008798/README.md) (Stcrt. 1997, 129) vastgestelde besluiten op deze regeling. 
+Na de inwerkingtreding van deze regeling berusten krachtens de Regeling bloed- en urineonderzoek (Stcrt. 1997, 129) vastgestelde besluiten op deze regeling. 
 
 ### Artikel  15  
 
-De [Regeling bloed- en urineonderzoek](../../../../../../ministeriele-regeling/regeling/bloed-/en/urineonderzoek/BWBR0008798/README.md) (Stcrt. 1997, 129) wordt ingetrokken. 
+De Regeling bloed- en urineonderzoek (Stcrt. 1997, 129) wordt ingetrokken. 
 
 ### Artikel  16  
 
@@ -296,7 +296,7 @@ Het bloedmonster wordt in het ontvangen monsterbuisje goed gehomogeniseerd.
 
 ####Uitvoering van de bepaling
 
-Er wordt een hoeveelheid bloed uit het monsterbuisje door middel van een diluter met een waterige interne standaardoplossing in een constante verhouding van ongeveer 1 op 10 verdund. Van de aldus verkregen oplossing wordt een hoeveelheid van 0,5 à 5 μl in de gaschromatograaf gespoten. De kolom en de overige omstandigheden moeten zodanig worden gekozen dat alcohol en de interne standaard volledig worden gescheiden (resolutie ten minste 1,1). Ter ijking worden ten minste 6 alcoholstandaarden van bekend gehalte op identieke wijze gemeten. Deze alcoholstandaarden liggen qua gehalte verspreid over de te verwachten bloedalcoholgehaltes. 
+Er wordt een hoeveelheid bloed uit het monsterbuisje door middel van een diluter of een doseerpipet met wegwerppipetpunt met een waterige interne standaardoplossing in een constante verhouding van ongeveer 1 op 10 verdund. Van de aldus verkregen oplossing wordt een hoeveelheid van 0,5 à 5 μl in de gaschromatograaf gespoten. De kolom en de overige omstandigheden moeten zodanig worden gekozen dat alcohol en de interne standaard volledig worden gescheiden (resolutie ten minste 1,1). Ter ijking worden ten minste 6 alcoholstandaarden van bekend gehalte op identieke wijze gemeten. Deze alcoholstandaarden liggen qua gehalte verspreid over de te verwachten bloedalcoholgehaltes. 
 
 ### 3.5.3 
 

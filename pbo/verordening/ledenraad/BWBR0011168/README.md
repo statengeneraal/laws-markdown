@@ -5,7 +5,7 @@
 De ledenraad van de Koninklijke Notariële Beroepsorganisatie KNB;
 Overwegende dat het gewenst is regelen te stellen met betrekking tot het functioneren van de ledenraad;
 
-Gelet op [artikel 77 van de Wet op het notarisambt](../../../../wet/notariswet/BWBR0010388/README.md);
+Gelet op artikel 77 van de Wet op het notarisambt;
 
 Gezien het ontwerp van het bestuur met bijbehorende toelichting;
 
@@ -73,7 +73,7 @@ De besluiten worden door de voorzitter zo spoedig mogelijk aan de leden van de K
 
 ###Artikel 7 
 
-De [Algemene Termijnenwet](../../../../wet/algemene/termijnenwet/BWBR0002448/README.md) is van overeenkomstige toepassing op deze verordening.
+De Algemene Termijnenwet is van overeenkomstige toepassing op deze verordening.
 
 ###Artikel 8 
 
@@ -81,7 +81,7 @@ Deze verordening wordt aangehaald als Verordening ledenraad.
 
 ###Artikel 9 
 
-Deze verordening treedt in werking met ingang van 1 oktober 2000 of zoveel later als de termijn van tien dagen na publicatie in de Staatscourant als bedoeld in [artikel 91 lid 2 Wet op het notarisambt](../../../../wet/notariswet/BWBR0010388/README.md) is verstreken.
+Deze verordening treedt in werking met ingang van 1 oktober 2000 of zoveel later als de termijn van tien dagen na publicatie in de Staatscourant als bedoeld in artikel 91 lid 2 Wet op het notarisambt is verstreken.
 
 Utrecht
 16 februari 2000 respectievelijk 21 juni 2000.Goedgekeurd door de Staatssecretaris van Justitie bij brief d.d. 13 september 2000, nr. 5047950/00/06.

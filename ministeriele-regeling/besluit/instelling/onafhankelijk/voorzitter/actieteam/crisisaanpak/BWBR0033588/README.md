@@ -3,7 +3,7 @@
 ##Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 19 juni 2013, nr. 2013-0000082106, tot instelling van een Onafhankelijk Voorzitter Actieteam Crisisaanpak
 
 De Minister van Sociale Zaken en Werkgelegenheid,  
-Gelet op [artikel 2 van de Wet vergoedingen adviescolleges en commissies](../../../../../../../../wet/wet/vergoedingen/adviescolleges/en/commissies/BWBR0024775/README.md);
+Gelet op artikel 2 van de Wet vergoedingen adviescolleges en commissies;
 Besluit:    
 
 ### Artikel  1  
@@ -46,7 +46,7 @@ c. in samenspraak met de minister in de media de aanpak van het Actieteam toe te
 
 ####Benoeming
 
-1.  Tot onafhankelijk voorzitter wordt benoemd mevrouw M.J. Oudeman tot 1 januari 2015.   
+1.  Tot onafhankelijk voorzitter wordt benoemd mevrouw M.J. Oudeman tot 1 juli 2015.   
 2.  De onafhankelijk voorzitter kan éénmaal worden herbenoemd tot 1 januari 2016.  
 
 ### Artikel  6  
@@ -61,8 +61,8 @@ c. in samenspraak met de minister in de media de aanpak van het Actieteam toe te
 
 ####Vergoeding
 
-1.  Aan de onafhankelijk voorzitter wordt een vaste vergoeding toegekend volgens de regels van de [Wet vergoedingen adviescolleges en commissies](../../../../../../../../wet/wet/vergoedingen/adviescolleges/en/commissies/BWBR0024775/README.md) respectievelijk het [Besluit vergoedingen adviescolleges en commissies](../../../../../../../../AMvB/besluit/vergoedingen/adviescolleges/en/commissies/BWBR0025279/README.md).   
-2.  De vergoeding wordt vastgesteld op het maximum van salarisschaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) met een arbeidsduurfactor van 0,17.  
+1.  Aan de onafhankelijk voorzitter wordt een vaste vergoeding toegekend volgens de regels van de Wet vergoedingen adviescolleges en commissies respectievelijk het Besluit vergoedingen adviescolleges en commissies.   
+2.  De vergoeding wordt vastgesteld op het maximum van salarisschaal 18 van bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984 met een arbeidsduurfactor van 0,17.  
 
 ### Artikel  8  
 

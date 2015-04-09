@@ -95,6 +95,13 @@ In deze regeling wordt verstaan onder:
 4.  De minister stelt middelen beschikbaar voor de cofinanciering van maatregelen in sectorplannen teneinde subsidie te verlenen in de jaren 2013 tot en met 2015.   
 5.  Maatregelen in sectorplannen komen voor een maximale termijn van twee aaneengesloten jaren voor cofinanciering in aanmerking. De aanvang van deze termijn kan niet eerder liggen dan na publicatie van deze regeling in de Staatscourant.  
 
+### Artikel  1.2a  
+
+####Verlenging looptijd sectorplannen
+
+1.  De minister kan op verzoek van de hoofdaanvrager eenmalig de looptijd van een sectorplan met maximaal zes maanden verlengen, waarbij artikel 1.2, vijfde lid, onverminderd van toepassing blijft.   
+2.  Het verzoek, bedoeld in het eerste lid, wordt niet eerder ingediend dan het moment waarop het tussentijds voortgangsverslag, bedoeld in artikel 5.4, eerste lid, is overlegd en niet later dan het moment waarop 24 maanden zijn verstreken na de datum van de subsidiebeschikking.  
+
 ### Artikel  1.3  
 
 ####Toepasselijkheid Algemene regeling SZW-subsidies
@@ -373,7 +380,7 @@ c. binnen 6 maanden na het verlenen van de subsidiebeschikking, geen aanvang is 
 ####Rapportageverplichting
 
 1.  Voor zover de uitvoering van het sectorplan een periode beslaat van twaalf maanden of langer, overlegt de hoofdaanvrager, onder gebruikmaking van het daartoe door de minister elektronisch beschikbaar gestelde formulier, uiterlijk acht weken na afloop van die twaalf maanden een tussentijds voortgangsverslag. Het tussentijds voortgangsverslag bevat ten minste de gerealiseerde aantallen, de aard en de kosten van de maatregelen en de resultaten.   
-2.  Voor zover de uitvoering van het sectorplan door toepassing van artikel 4.3, derde lid, een periode beslaat van meer dan 24 maanden, overlegt de hoofdaanvrager, onder gebruikmaking van het daartoe door de minister elektronisch beschikbaar gestelde formulier, uiterlijk acht weken na afloop van die 24 maanden een tussentijds voortgangsverslag. Het tussentijds voortgangsverslag bevat ten minste de gerealiseerde aantallen, de aard en de kosten van de maatregelen en de resultaten.  
+2.  Voor zover de uitvoering van het sectorplan door toepassing van artikel 1.2a of artikel 4.3, derde lid, een periode beslaat van meer dan 24 maanden, overlegt de hoofdaanvrager, onder gebruikmaking van het daartoe door de minister elektronisch beschikbaar gestelde formulier, uiterlijk acht weken na afloop van die 24 maanden een tussentijds voortgangsverslag. Het tussentijds voortgangsverslag bevat ten minste de gerealiseerde aantallen, de aard en de kosten van de maatregelen en de resultaten.  
 3.  De hoofdaanvrager verstrekt bij het tussentijds voortgangsverslag, onder gebruikmaking van het daartoe door de minister elektronisch beschikbaar gestelde formulier, aan de minister het burgerservicenummer van de deelnemers per maatregel in het sectorplan waarvoor cofinanciering is verstrekt.   
 4.  Indien de hoofdaanvrager voorschotten ontvangt als bedoeld in artikel 5.3 kan de minister in de beschikking tot subsidieverlening de verplichting opleggen dat het tussentijdse voortgangsverslag is voorzien van een verklaring van een accountant als bedoeld in artikel 393, eerste lid, van boek 2 van het Burgerlijk Wetboek, volgens een door de minister voor te schrijven model.  
 
@@ -383,7 +390,8 @@ c. binnen 6 maanden na het verlenen van de subsidiebeschikking, geen aanvang is 
 
 1.  De hoofdaanvrager dient binnen dertien weken na beëindiging van de uitvoering van de in de subsidiebeschikking genoemde maatregelen, doch uiterlijk binnen dertien weken na afloop van de termijn, bedoeld in artikel 1.2, vijfde lid, een verzoek tot vaststelling van subsidie in bij de minister onder gebruikmaking van het daartoe door de minister beschikbaar gestelde elektronisch formulier.   
 2.  Bij het verzoek tot vaststelling van subsidie wordt een verantwoording inclusief einddeclaratie gevoegd. De hoofdaanvrager verstrekt bij de verantwoording het burgerservicenummer van de deelnemers per maatregel in het sectorplan waarvoor cofinanciering is verstrekt. De verantwoording bevat ten minste de gerealiseerde aantallen, de aard en de kosten van de maatregelen en de resultaten.   
-3.  De minister beslist binnen 22 weken na ontvangst van het verzoek tot vaststelling van de subsidie.  
+3.  Indien de minister toestemming heeft gegeven om een sectorplan te verlengen als bedoeld in artikel 1.2a, dient de hoofdaanvrager binnen dertien weken na beëindiging van de uitvoering van de in de subsidiebeschikking genoemde maatregelen, doch uiterlijk binnen dertien weken na afloop van een termijn van dertig maanden na de datum van die subsidiebeschikking, een verzoek tot vaststelling van subsidie van het sectorplan in bij de minister onder gebruikmaking van het daartoe door de minister beschikbaar gestelde (elektronisch) formulier.  
+4.  De minister beslist binnen 22 weken na ontvangst van het verzoek tot vaststelling van de subsidie.  
 
 ### Artikel  5.6  
 
@@ -621,7 +629,7 @@ Vereniging VNO-NCW Koninklijke Vereniging MKB-Nederland Vereniging Land- en Tuin
 | 16.  | Openbaar bestuur, overheidsdiensten en verplichte sociale verzekeringen  |
 | 17.  | Onderwijs  • Primair en speciaal onderwijs  • Voortgezet onderwijs  • Middelbaar beroepsonderwijs en educatie  • Tertiair onderwijs  • Overig onderwijs (sport, cultuur, autorijscholen, afstandsonderwijs, bedrijfsopleiding en – training)  |
 | 18.  | Zorg:  • Ziekenhuizen  • verpleging en verzorging  • Geestelijke gezondheidszorg  • Gehandicaptenzorg  • Thuiszorg  • Overige zorg: (para)medische praktijken, gezondheidscentra  |
-| 19.  | Welzijn  • Jeugdzorg  • Kinderopvang/peuterspeelzalen  • Maatschappelijke opvang, sociaal-cultureel werk, maatschappelijk werk en overig welzijn  |
+| 19.  | Welzijn  • Jeugdhulp  • Kinderopvang/peuterspeelzalen  • Maatschappelijke opvang, sociaal-cultureel werk, maatschappelijk werk en overig welzijn  |
 | 20.  | Cultuur, sport en recreatie  • Kunst  • Culturele uitleencentra, openbare archieven, musea, dieren- en plantentuinen, natuurbehoud  • Loterijen en kansspelen  • Sport en recreatie  |
 | 21.  | Overige dienstverlening, huishoudens en extraterritoriale organisaties  • Levensbeschouwelijke en politieke organisaties, belangen- en ideële organisaties, hobbyclubs  • Reparatie van computers en consumentenartikelen  • Wellness en overige dienstverlening; uitvaartbranche  • Huishoudens als werkgever van huishoudelijk personeel  • Niet-gespecificeerde productie van goederen en diensten door particuliere huishoudens voor eigen gebruik  • Extraterritoriale organisaties en lichamen  |
 

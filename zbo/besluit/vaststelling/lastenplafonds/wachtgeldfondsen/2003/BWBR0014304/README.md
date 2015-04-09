@@ -3,12 +3,12 @@
 ##Besluit vaststelling lastenplafonds wachtgeldfondsen 2003
 
 Het Uitvoeringsinstituut Werknemersverzekeringen,
-Gelet op [artikel 94 van de Werkloosheidswet](../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md);
+Gelet op artikel 94 van de Werkloosheidswet;
 Besluit: 
 
 ###Artikel 1 
 
-De maxima die in een boekjaar ten laste van de wachtgeldfondsen komen, bedoeld in [artikel 94 van de Werkloosheidswet](../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), worden voor het jaar 2003 vastgesteld op de percentages, bedoeld in bijlage 1 bij dit besluit. 
+De maxima die in een boekjaar ten laste van de wachtgeldfondsen komen, bedoeld in artikel 94 van de Werkloosheidswet, worden voor het jaar 2003 vastgesteld op de percentages, bedoeld in bijlage 1 bij dit besluit. 
 
 ###Artikel 2 
 

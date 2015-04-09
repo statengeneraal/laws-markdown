@@ -9,13 +9,9 @@ Besluit:
 
 ####Algemene bepalingen
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  1.1  
 
 ####Begripsbepalingen
-
-Treedt in werking per 01-01-2015 
 
 In deze regeling wordt verstaan onder: 
 
@@ -87,8 +83,6 @@ In deze regeling wordt verstaan onder:
 
 ####Financiering sectorplannen
 
-Treedt in werking per 01-01-2015 
-
 1.  De sectorplannen worden gefinancierd uit de eigen middelen van de bij het sectorplan betrokken werknemersorganisaties en werkgeversorganisaties, de arbeidsorganisaties, werknemers en zelfstandigen zonder personeel waarop het sectorplan betrekking heeft.   
 2.  Indien één of meer provincies of (centrum)gemeenten deel uitmaken van het samenwerkingsverband, kunnen zij, in afwijking van het eerste lid, maximaal 50% van de bijdrage van het samenwerkingsverband, financieren.   
 3.  Onder eigen middelen van arbeidsorganisaties wordt niet verstaan middelen die voor dezelfde activiteiten als subsidie of uit private fondsen zijn verstrekt, met uitzondering van de middelen die uit één of meerdere O&O-fonds zijn verstrekt.   
@@ -96,19 +90,22 @@ Treedt in werking per 01-01-2015
 5.  De minister stelt middelen beschikbaar voor de cofinanciering van maatregelen in sectorplannen teneinde subsidie te verlenen in het jaar 2015.   
 6.  Maatregelen in sectorplannen komen voor een maximale termijn van twee aaneengesloten jaren voor cofinanciering in aanmerking. De aanvang van deze termijn kan niet eerder liggen dan na publicatie van deze regeling in de Staatscourant.  
 
+### Artikel  1.2a  
+
+####Verlenging looptijd sectorplannen
+
+1.  De minister kan op verzoek van de hoofdaanvrager eenmalig de looptijd van een sectorplan met maximaal zes maanden verlengen, waarbij artikel 1.2, zesde lid, onverminderd van toepassing blijft.   
+2.  Het verzoek, bedoeld in het eerste lid, wordt niet eerder ingediend dan het moment waarop het tussentijds voortgangsverslag, bedoeld in artikel 4.4, eerste lid, is overlegd en niet later dan het moment waarop 24 maanden zijn verstreken na de datum van de subsidiebeschikking.  
+
 ### Artikel  1.3  
 
 ####Toepasselijkheid Algemene regeling SZW-subsidies
-
-Treedt in werking per 01-01-2015 
 
 Op deze regeling is de Algemene regeling SZW-subsidies van toepassing voor zover daarvan in deze regeling niet wordt afgeweken. 
 
 ### Artikel  1.4  
 
 ####Subsidieplafond
-
-Treedt in werking per 01-01-2015 
 
 1.  De minister stelt 150 miljoen EUR beschikbaar voor de cofinanciering van sectorplannen, welk bedrag wordt onderverdeeld in door de minister vast te stellen aanvraagtijdvakken met voor de tijdvakken afzonderlijk vast te stellen subsidieplafonds.   
 2.  De mogelijkheid tot het indienen van aanvragen voor subsidie bestaat slechts gedurende door de minister vastgestelde aanvraagtijdvakken. Indien deze mogelijkheid wordt geopend, wordt hiervan vooraf door de minister in de Staatscourant mededeling gedaan met vermelding van het subsidieplafond voor dat aanvraagtijdvak.  
@@ -117,16 +114,12 @@ Treedt in werking per 01-01-2015
 
 ####Verdeling
 
-Treedt in werking per 01-01-2015 
-
 1.  Voor het bepalen van het bereiken van het subsidieplafond binnen een aanvraagtijdvak, worden de subsidieaanvragen op volgorde van binnenkomst behandeld, waarbij alleen een volledige subsidieaanvraag in behandeling wordt genomen. Van een volledige subsidieaanvraag is sprake wanneer wordt voldaan aan de voorwaarden opgenomen in artikel 2.3.   
 2.  Wanneer de hoofdaanvrager op grond van artikel 4:5 van de Algemene wet bestuursrecht in de gelegenheid is gesteld zijn aanvraag tot cofinanciering aan te vullen, geldt als moment van binnenkomst de datum en tijd van ontvangst van de volledige aanvraag tot cofinanciering.  
 
 ### Artikel  1.6  
 
 ####Mandaat directeur Agentschap SZW
-
-Treedt in werking per 01-01-2015 
 
 1.  Aan de directeur van het Agentschap SZW wordt mandaat verleend tot het nemen van besluiten met betrekking tot de uitvoering van deze regeling, waaronder begrepen: 
 
@@ -141,13 +134,9 @@ c. het beslissen op bezwaarschriften tegen besluiten als bedoeld in de onderdele
 
 ####Subsidieverlening
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  2.1  
 
 ####Het samenwerkingsverband
-
-Treedt in werking per 01-01-2015 
 
 1.  Een sectorplan wordt opgesteld en uitgevoerd door een samenwerkingsverband.   
 2.  Het samenwerkingsverband kan, in afwijking van artikel 1.1, bestaan uit ten minste één werknemersorganisatie en meerdere bij een werkgeversorganisatie aangesloten arbeidsorganisaties.   
@@ -157,8 +146,6 @@ Treedt in werking per 01-01-2015
 ### Artikel  2.2  
 
 ####De hoofdaanvrager
-
-Treedt in werking per 01-01-2015 
 
 1.  De hoofdaanvrager dient namens een samenwerkingsverband een sectorplan in en vraagt hiervoor subsidie aan.   
 2.  De hoofdaanvrager toont aan dat de aanvraag wordt ingediend namens een samenwerkingsverband waarvan de betrokken partijen in staat zijn om het sectorplan binnen de gestelde tijd uit te voeren.   
@@ -172,13 +159,11 @@ Treedt in werking per 01-01-2015
 – een O&O-fonds.     
 5.  De hoofdaanvrager toont aan te beschikken over een eigen vermogen van ten minste 80% van het aangevraagde subsidiebedrag, exclusief overhead als bedoeld in artikel 4.6, tweede lid.   
 6.  Indien de hoofdaanvrager niet beschikt over een eigen vermogen, als bedoeld in het vijfde lid, stelt of stellen één of meerdere partijen uit het samenwerkingsverband zich garant voor ten minste dit bedrag.   
-7.  Indien het aanwijzen van een hoofdaanvrager als bedoeld in het vierde lid niet mogelijk is, kan een sectorplan eveneens worden ingediend door een andere rechtspersoon, met uitzondering van een provincie of een (centrum)gemeente, die als hoofdaanvrager optreedt, indien die daarbij aantoont dat het samenwerkingsverband of één of meer partijen van het samenwerkingsverband zich garant stelt of stellen voor ten minste 80% van het aangevraagde subsidiebedrag.  
+7.  Indien het aanwijzen van een hoofdaanvrager als bedoeld in het vierde lid niet mogelijk is, kan een sectorplan eveneens worden ingediend door een andere rechtspersoon, met uitzondering van een provincie, een (centrum) gemeente, een openbaar lichaam, een gemeenschappelijk orgaan of een bedrijfsvoeringsorganisatie als bedoeld in artikel 8 van de Wet gemeenschappelijke regelingen, die als hoofdaanvrager optreedt, indien die daarbij aantoont dat het samenwerkingsverband of één of meer partijen van het samenwerkingsverband zich garant stelt of stellen voor ten minste 80% van het aangevraagde subsidiebedrag.  
 
 ### Artikel  2.3  
 
 ####De aanvraag
-
-Treedt in werking per 01-01-2015 
 
 1.  Het aangevraagde subsidiebedrag bedraagt ten minste 125.000 EUR, exclusief overhead als bedoeld in artikel 4.6, tweede lid.   
 2.  De subsidieaanvraag wordt gedaan middels een namens de minister verstrekt (elektronisch) formulier.   
@@ -209,8 +194,6 @@ i. een overeenkomst tussen de werkgevers- en werknemersorganisaties waarin, indi
 
 ####Subsidieverlening
 
-Treedt in werking per 01-01-2015 
-
 1.  De minister kan subsidie verlenen voor de cofinanciering van maatregelen in een sectorplan.   
 2.  De subsidie wordt verleend aan de hoofdaanvrager.   
 3.  De beschikking tot verlening van subsidie betreft de voor cofinanciering in aanmerking komende maatregelen, en het aantal toepassingen van deze maatregelen, zoals vastgelegd in het bij de subsidieaanvraag gevoegde sectorplan.   
@@ -221,8 +204,6 @@ Treedt in werking per 01-01-2015
 ### Artikel  2.5  
 
 ####Weigering van de subsidie
-
-Treedt in werking per 01-01-2015 
 
 1.  Een aanvraag tot verlening van subsidie wordt in ieder geval geheel of gedeeltelijk geweigerd, indien naar het oordeel van de minister: 
 
@@ -261,13 +242,9 @@ o. onvoldoende is aangetoond dat de partij uit het samenwerkingsverband die zich
 
 ####Subsidiabele kosten en maatregelen
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  3.1  
 
 ####Subsidiabele maatregelen
-
-Treedt in werking per 01-01-2015 
 
 1.  Voor subsidie komen in aanmerking maatregelen zoals opgenomen in de artikelen 3.2 tot en met 3.5, of een samenstelling daarvan.   
 2.  Maatregelen op grond van de artikelen 3.2 en 3.4, komen slechts voor cofinanciering in aanmerking indien de werkgever direct na afloop van de scholing een baangarantie van ten minste één jaar biedt.   
@@ -276,8 +253,6 @@ Treedt in werking per 01-01-2015
 ### Artikel  3.2  
 
 ####Van werk naar een ander beroep
-
-Treedt in werking per 01-01-2015 
 
 1.  De sectorplannen kunnen maatregelen bevatten die sectorale of intersectorale mobiliteit van werknemers naar een ander beroep bij een andere werkgever bevorderen.   
 2.  Kosten voor maatregelen komen slechts voor cofinanciering in aanmerking voor zover zij betrekking hebben op ten minste één van de volgende activiteiten: 
@@ -294,8 +269,6 @@ d. omscholing.
 
 ####Van werk naar hetzelfde beroep
 
-Treedt in werking per 01-01-2015 
-
 1.  De sectorplannen kunnen maatregelen bevatten die sectorale of intersectorale mobiliteit van werknemers in hetzelfde beroep, bij een andere werkgever, bevorderen.   
 2.  Kosten voor maatregelen komen slechts voor cofinanciering in aanmerking voor zover zij betrekking hebben op ten minste één van de volgende activiteiten: 
 
@@ -311,8 +284,6 @@ d. bijscholing.
 
 ####Vanuit een uitkering op grond van de Werkloosheidswet naar een ander of hetzelfde beroep
 
-Treedt in werking per 01-01-2015 
-
 1.  De sectorplannen kunnen maatregelen bevatten die sectorale of intersectorale mobiliteit van WW-gerechtigden bevorderen, naar hetzelfde of een ander beroep, bij een andere werkgever dan de werkgever waarbij de werkloosheid is ontstaan.   
 2.  Kosten voor maatregelen komen slechts voor cofinanciering in aanmerking voor zover zij betrekking hebben op ten minste één van de volgende activiteiten: 
 
@@ -326,8 +297,6 @@ c. om- of bijscholing.
 
 ####Van overig naar een ander of hetzelfde beroep
 
-Treedt in werking per 01-01-2015 
-
 1.  De sectorplannen kunnen maatregelen bevatten om zelfstandigen zonder personeel of personen, niet zijnde werknemers of WW-gerechtigden of personen die fulltime een opleiding volgen, te begeleiden naar hetzelfde of een ander beroep.   
 2.  Kosten voor maatregelen komen slechts voor cofinanciering in aanmerking voor zover zij betrekking hebben op ten minste één van de volgende activiteiten: 
 
@@ -340,8 +309,6 @@ c. om- of bijscholing.
 ### Artikel  3.6  
 
 ####Kosten voor opleidingen in het kader van de maatregelen genoemd in de artikelen 3.2 tot en met 3.5 
-
-Treedt in werking per 01-01-2015 
 
 1.  Maatregelen als bedoeld in de artikelen 3.2 tot en met 3.5, die tot doel hebben om werknemers op te leiden door middel van algemene opleiding kunnen voor cofinanciering in aanmerking komen. De subsidiabele kosten zijn: 
 
@@ -361,8 +328,6 @@ d. begeleiding en advisering van opleidingstrajecten.
 
 ####In aanmerking te nemen kosten
 
-Treedt in werking per 01-01-2015 
-
 Voor cofinanciering komen in aanmerking: 
 
 a. subsidiabele kosten, zijnde kosten die daadwerkelijk zijn gemaakt ter uitvoering van de subsidiabele activiteiten, bedoeld in de artikelen 3.2 tot en met 3.5, en die rechtstreeks aan de uitvoering van de maatregelen van het sectorplan zijn toe te rekenen; en  
@@ -372,8 +337,6 @@ b. kosten voor overhead en aan overhead gerelateerde exploitatiekosten als bedoe
 ### Artikel  3.8  
 
 ####Niet in aanmerking te nemen kosten
-
-Treedt in werking per 01-01-2015 
 
 1.  Niet voor cofinanciering komen in aanmerking: 
 
@@ -396,13 +359,9 @@ b. niet ten minste drie offertes zijn aangevraagd, voor zover deze kosten meer b
 
 ####Subsidieverstrekking
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  4.1  
 
 ####Hoogte van de subsidie
-
-Treedt in werking per 01-01-2015 
 
 1.  De subsidie ten behoeve van maatregelen bedraagt 50% van de subsidiabele kosten, doch ten hoogste het in de beschikking tot subsidieverlening vermelde maximumbedrag.   
 2.  Indien bij het controleren van de einddeclaratie blijkt, dat minder dan 60% van de totale subsidiabele kosten, genoemd in de beschikking tot subsidieverlening, is gerealiseerd, wordt het subsidiebedrag op nihil vastgesteld.   
@@ -411,8 +370,6 @@ Treedt in werking per 01-01-2015
 ### Artikel  4.2  
 
 ####Intrekking en terugvordering
-
-Treedt in werking per 01-01-2015 
 
 1.  Onverminderd artikel 4:48 van de Algemene wet bestuursrecht wordt de beschikking tot subsidieverlening geheel ingetrokken indien: 
 
@@ -428,8 +385,6 @@ c. binnen 6 maanden na het verlenen van de subsidiebeschikking, geen aanvang is 
 
 ####Bevoorschotting en meldingsplicht
 
-Treedt in werking per 01-01-2015 
-
 1.  Indien een aanvraag tot cofinanciering van een sectorplan wordt goedgekeurd, kan een voorschot op het totale subsidiebedrag worden verstrekt.   
 2.  Na goedkeuring van het sectorplan kan een voorschot van 10% van het in de beschikking tot subsidieverlening vermelde subsidiebedrag worden verstrekt.   
 3.  Iedere zes maanden na verlening van het eerste voorschot, kan op basis van het in de subsidiebeschikking bepaalde tijdpad een tussentijds voorschot worden verleend, tot een maximum van 80% van het in de beschikking tot subsidieverlening vermelde subsidiebedrag.   
@@ -441,10 +396,8 @@ Treedt in werking per 01-01-2015
 
 ####Rapportageverplichting
 
-Treedt in werking per 01-01-2015 
-
 1.  Voor zover de uitvoering van het sectorplan een periode beslaat van twaalf maanden of langer, overlegt de hoofdaanvrager, onder gebruikmaking van het daartoe door de minister (elektronisch) beschikbaar gestelde formulier, uiterlijk acht weken na afloop van die twaalf maanden een tussentijds voortgangsverslag. Het tussentijds voortgangsverslag bevat ten minste de gerealiseerde aantallen, de aard en de kosten van de maatregelen en de resultaten.   
-2.  Voor zover de uitvoering van het sectorplan door toepassing van artikel 3.6, vijfde lid, een periode beslaat van meer dan 24 maanden, overlegt de hoofdaanvrager, onder gebruikmaking van het daartoe door de minister (elektronisch) beschikbaar gestelde formulier, uiterlijk acht weken na afloop van die 24 maanden een tussentijds voortgangsverslag. Het tussentijds voortgangsverslag bevat ten minste de gerealiseerde aantallen, de aard en de kosten van de maatregelen en de resultaten.   
+2.  Voor zover de uitvoering van het sectorplan door toepassing van artikel 1.2a of artikel 3.6, vijfde lid, een periode beslaat van meer dan 24 maanden, overlegt de hoofdaanvrager, onder gebruikmaking van het daartoe door de minister (elektronisch) beschikbaar gestelde formulier, uiterlijk acht weken na afloop van die 24 maanden een tussentijds voortgangsverslag. Het tussentijds voortgangsverslag bevat ten minste de gerealiseerde aantallen, de aard en de kosten van de maatregelen en de resultaten.   
 3.  De hoofdaanvrager verstrekt bij het tussentijds voortgangsverslag, onder gebruikmaking van het daartoe door de minister (elektronisch) beschikbaar gestelde formulier, aan de minister het burgerservicenummer van de deelnemers per maatregel in het sectorplan waarvoor cofinanciering is verstrekt.   
 4.  Indien de hoofdaanvrager voorschotten ontvangt als bedoeld in artikel 4.3, kan de minister in de beschikking tot subsidieverlening de verplichting opleggen dat het tussentijdse voortgangsverslag is voorzien van een controleverklaring van een accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek, volgens een door de minister voor te schrijven model.  
 
@@ -452,17 +405,14 @@ Treedt in werking per 01-01-2015
 
 ####Einddeclaratie en subsidievaststelling
 
-Treedt in werking per 01-01-2015 
-
 1.  De hoofdaanvrager dient binnen dertien weken na beëindiging van de uitvoering van de in de subsidiebeschikking genoemde maatregelen, doch uiterlijk binnen dertien weken na afloop van de termijn, bedoeld in artikel 1.2, zesde lid, een verzoek tot vaststelling van subsidie in bij de minister onder gebruikmaking van het daartoe door de minister beschikbaar gestelde (elektronisch) formulier.   
 2.  Bij het verzoek tot vaststelling van subsidie wordt een verantwoording inclusief einddeclaratie gevoegd. De hoofdaanvrager verstrekt bij de verantwoording het burgerservicenummer van de deelnemers per maatregel in het sectorplan waarvoor cofinanciering is verstrekt. De verantwoording bevat ten minste de gerealiseerde aantallen, de aard en de kosten van de maatregelen en de resultaten.   
-3.  De minister beslist binnen 22 weken na ontvangst van het verzoek tot vaststelling van de subsidie.  
+3.  Indien de minister toestemming heeft gegeven om een sectorplan te verlengen als bedoeld in artikel 1.2a, dient de hoofdaanvrager binnen dertien weken na beëindiging van de uitvoering van de in de subsidiebeschikking genoemde maatregelen, doch uiterlijk binnen dertien weken na afloop van een termijn van dertig maanden na de datum van die subsidiebeschikking, een verzoek tot vaststelling van subsidie van het sectorplan in bij de minister onder gebruikmaking van het daartoe door de minister beschikbaar gestelde (elektronisch) formulier.  
+4.  De minister beslist binnen 22 weken na ontvangst van het verzoek tot vaststelling van de subsidie.  
 
 ### Artikel  4.6  
 
 ####Overhead
-
-Treedt in werking per 01-01-2015 
 
 1.  Kosten voor overhead en aan overhead gerelateerde exploitatiekosten van de hoofdaanvrager komen voor 50% van een forfaitair bedrag als bedoeld in het vierde lid, voor cofinanciering in aanmerking.   
 2.  Onder kosten voor overhead en aan overhead gerelateerde exploitatiekosten worden verstaan alle niet directe kosten waaronder inbegrepen de kosten van administratie en beheer en de kosten van de controleverklaring, bedoeld in artikel 4.4, vierde lid, en de Algemene regeling SZW-subsidies.   
@@ -479,8 +429,6 @@ c. 1% van het in de subsidievaststelling bepaalde bedrag aan subsidiabele kosten
 
 ####Administratievoorschriften
 
-Treedt in werking per 01-01-2015 
-
 1.  De hoofdaanvrager houdt een inzichtelijke en controleerbare administratie bij met betrekking tot de uitvoering van het sectorplan en de in verband daarmee gemaakte kosten en verworven inkomsten. Deze administratie bestaat uit een projectadministratie, waaronder begrepen een financiële administratie en een administratie van de deelnemers per maatregel inclusief een burgerservicenummer waarin alle noodzakelijke gegevens tijdig, juist en volledig zijn vastgelegd en ten behoeve van de vaststelling van de subsidiabiliteit zijn te verifiëren met bewijsstukken. Deze administratie is voor controle beschikbaar op één locatie.   
 2.  De administratie geeft inzicht in de geplande en gerealiseerde maatregelen.   
 3.  De financiële administratie geeft inzicht in de gemaakte subsidiabele kosten, de inkomsten en de wijze waarop de inkomsten en gemaakte kosten aan de maatregelen van het sectorplan worden toegerekend.  
@@ -489,13 +437,9 @@ Treedt in werking per 01-01-2015
 
 ####Evaluatie
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  5.1  
 
 ####Evaluatiebepaling
-
-Treedt in werking per 01-01-2015 
 
 1.  De minister draagt in 2016 en 2018 zorg voor de evaluatie van deze regeling.   
 2.  De hoofdaanvrager verleent aan de minister medewerking aan het opstellen van evaluatierapporten met betrekking tot deze regeling, en draagt, voor zover het sectorplan niet in eigen beheer wordt uitgevoerd, er zorg voor dat de feitelijke uitvoerder van het sectorplan deze medewerking verleent.   
@@ -505,13 +449,9 @@ Treedt in werking per 01-01-2015
 
 ####Wijziging van andere regelingen
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  6.1  
 
 ####Wijziging van de Regeling cofinanciering sectorplannen
-
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Regeling cofinanciering sectorplannen. 
 
@@ -519,29 +459,21 @@ Wijzigt de Regeling cofinanciering sectorplannen.
 
 ####Wijziging van de Scholingsregeling WW
 
-Treedt in werking per 01-01-2015 
-
 Wijzigt de Scholingsregeling WW. 
 
 ### Hoofdstuk  7  
 
 ####Slotbepalingen
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  7.1  
 
 ####Citeertitel
-
-Treedt in werking per 01-01-2015 
 
 Deze regeling wordt aangehaald als: Regeling cofinanciering sectorplannen 2015 
 
 ### Artikel  7.2  
 
 ####Inwerkingtreding
-
-Treedt in werking per 01-01-2015 
 
 1.  Deze regeling treedt inwerking met ingang van 1 januari 2015 en vervalt met ingang van 1 januari 2020.   
 2.  In afwijking van het eerste lid blijft deze regeling, zoals die luidde op 31 december 2019, van toepassing op de afwikkeling van verleende subsidies op grond van deze regeling.  
@@ -557,8 +489,6 @@ L.F. Asscher
 ### Bijlage  1  
 
 ####: Arbeidsmarktregio’s
-
-Treedt in werking per 01-01-2015 
 
 Het Uitvoeringsinstituut Werknemersverzekeringen en gemeenten hanteren voor de Nederlandse arbeidsmarkt een indeling in 35 arbeidsmarktregio’s. Per regio is er een centrumgemeente, hieronder aangeduid met*. 
 
@@ -706,15 +636,11 @@ Bergeijk | Best | Bladel | Cranendonck | Eersel | *Eindhoven | Heeze-Leende | Nu
 
 ####: Centrale werkgeversorganisaties
 
-Treedt in werking per 01-01-2015 
-
 Vereniging VNO-NCW Koninklijke Vereniging MKB-Nederland Vereniging Land- en Tuinbouworganisatie Nederland 
 
 ### Bijlage  3  
 
 ####: Sectorindeling
-
-Treedt in werking per 01-01-2015 
 
 | Indeling naar sector  |
 |:---|
@@ -736,7 +662,7 @@ Treedt in werking per 01-01-2015
 | 16. Openbaar bestuur, overheidsdiensten en verplichte sociale verzekeringen  |
 | 17. Onderwijs  • Primair en speciaal onderwijs  • Voortgezet onderwijs  • Middelbaar beroepsonderwijs en educatie  • Tertiair onderwijs  • Overig onderwijs (sport, cultuur, autorijscholen, afstandsonderwijs, bedrijfsopleiding en – training)  |
 | 18. Zorg:  • Ziekenhuizen  • verpleging en verzorging  • Geestelijke gezondheidszorg  • Gehandicaptenzorg  • Thuiszorg  • Overige zorg: (para)medische praktijken, gezondheidscentra  |
-| 19. Welzijn  • Jeugdzorg  • Kinderopvang/peuterspeelzalen  • Maatschappelijke opvang, sociaal-cultureel werk, maatschappelijk werk en overig welzijn  |
+| 19. Welzijn  • Jeugdhulp  • Kinderopvang/peuterspeelzalen  • Maatschappelijke opvang, sociaal-cultureel werk, maatschappelijk werk en overig welzijn  |
 | 20. Cultuur, sport en recreatie  • Kunst  • Culturele uitleencentra, openbare archieven, musea, dieren- en plantentuinen, natuurbehoud  • Loterijen en kansspelen  • Sport en recreatie  |
 | 21. Overige dienstverlening, huishoudens en extraterritoriale organisaties  • Levensbeschouwelijke en politieke organisaties, belangen- en ideële organisaties, hobbyclubs  • Reparatie van computers en consumentenartikelen  • Wellness en overige dienstverlening; uitvaartbranche  • Huishoudens als werkgever van huishoudelijk personeel  • Niet-gespecificeerde productie van goederen en diensten door particuliere huishoudens voor eigen gebruik  • Extraterritoriale organisaties en lichamen  |
 
