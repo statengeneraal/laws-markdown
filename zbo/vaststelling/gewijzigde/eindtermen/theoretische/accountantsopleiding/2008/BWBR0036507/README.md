@@ -2,8 +2,7 @@
 
 ##Vaststelling gewijzigde eindtermen theoretische accountantsopleiding 2008
 
-####Eindtermen theoretische accountantsopleiding
-
+De Commissie Eindtermen Accountantsopleiding (CEA) is een bij wet ingesteld zelfstandig bestuursorgaan dat tot taak heeft om eindtermen voor de opleiding tot accountant-administratieconsulent en registeraccountant (artikel 46 Wet op het Accountantsberoep) vast te stellen. In 2007 heeft CEA de eindtermen 2008 voor de theoretische opleiding tot accountant-administratieconsulent en registeraccountant vastgesteld. Jaarlijks beoordeelt CEA de geldigheid en actualiteit van de eindtermen en brengt zij, indien nodig en wenselijk, een update uit. Nadat de noodzaak en wenselijkheid van aanpassing van de bestaande eindtermen zijn geïnventariseerd, heeft CEA in haar vergadering van 11 maart 2015 besloten tot (beperkte) bijstelling van de theoretische eindtermen 2008. De gewijzigde eindtermen zijn van kracht met ingang van 1 september 2015. De eindtermen zijn van belang voor onderwijsinstellingen die de opleiding tot accountant-administratieconsulent en/of registeraccountant aanbieden dan wel willen gaan aanbieden. De eindtermen, evenals een toelichting op de wijzigingen, liggen ter inzage bij CEA (Antonio Vivaldistraat 2-8, 1083 HP Amsterdam) en zijn beschikbaar via de website www.ceaweb.nl.   
 ### 1  
 
 ####Inleiding
@@ -25,21 +24,21 @@ De vastgestelde eindtermen zijn gebaseerd op het rapport van juni 2007 van de do
 
 Voor het bereiken en in stand houden van een kwalitatief goede accountantsopleiding moeten naar het oordeel van de CEA enkele essentiële voorwaarden vervuld zijn. Deze voorwaarden zijn achtereenvolgens: 
 
-o kwalificatie-eisen (geformuleerd als eindtermen);  
+○ kwalificatie-eisen (geformuleerd als eindtermen);  
 
-o een curriculum (structuur en inhoud van de opleiding);  
+○ een curriculum (structuur en inhoud van de opleiding);  
 
-o onderwijsprogramma’s, gebaseerd op onderwijsleerdoelen;  
+○ onderwijsprogramma’s, gebaseerd op onderwijsleerdoelen;  
 
-o regelingen aangaande toetsing, evaluatie en selectie;  
+○ regelingen aangaande toetsing, evaluatie en selectie;  
 
-o interne kwaliteitsbewaking (evaluatie van onderwijs en docenten);  
+○ interne kwaliteitsbewaking (evaluatie van onderwijs en docenten);  
 
-o externe kwaliteitstoetsing (visitatie/accreditatie en beleidsgesprekken/aanwijzingen);  
+○ externe kwaliteitstoetsing (visitatie/accreditatie en beleidsgesprekken/aanwijzingen);  
 
-o aandacht voor permanente curriculumbijstelling en -ontwikkeling;  
+○ aandacht voor permanente curriculumbijstelling en -ontwikkeling;  
 
-o systematische deskundigheidsbevordering van docenten en examinatoren.      
+○ systematische deskundigheidsbevordering van docenten en examinatoren.      
 ### 1.4  
 
 ####Definitie en reikwijdte van eindtermen
@@ -54,7 +53,7 @@ De eindtermen voor de accountantsopleiding vervullen verschillende functies. All
 
 ####Eindtermen en curriculumconstructie
 
-De eindtermen van de accountantsopleiding zoals vastgesteld door de CEA, vormen de basis voor het curriculum van de accountantsopleidingen in Nederland. De eindtermen zijn te kwalificeren als minimumnorm voor de accountantsopleiding. Elke onderwijsinstelling of organisatie die een accountantsopleiding aanbiedt of wil gaan aanbieden, is verantwoor-delijk voor het inrichten van een adequaat curriculum voor de eigen accountantsopleiding. Instellingen dienen de eindtermen te vertalen naar onderwijsleerdoelen<sup> 3 Eindtermen zijn niet hetzelfde als onderwijsleerdoelen. Eindtermen beschrijven het ‘eindproduct’ van de opleiding, het niveau van functioneren op het moment van kwalificatie. Onderwijsleerdoelen beschrijven de weg waarlangs de eindtermen bereikt (zouden) kunnen worden. </sup> die uitmonden in een coherent onderwijsprogramma en literatuuropgave. In de tentamens en examens dienen de eindtermen op een juiste en evenwichtige wijze aan bod te komen. Het staat instellingen vrij om naast de vastgestelde eindtermen aanvullende eindtermen in het curriculum op te nemen of de vastgestelde eindtermen op een hoger niveau op te nemen. Hierdoor bestaat de mogelijkheid van intensivering en specialisatie binnen het curriculum.    
+De eindtermen van de accountantsopleiding zoals vastgesteld door de CEA, vormen de basis voor het curriculum van de accountantsopleidingen in Nederland. De eindtermen zijn te kwalificeren als* minimum*norm voor de accountantsopleiding. Elke onderwijsinstelling of organisatie die een accountantsopleiding aanbiedt of wil gaan aanbieden, is verantwoordelijk voor het inrichten van een adequaat curriculum voor de eigen accountantsopleiding. Instellingen dienen de eindtermen te vertalen naar onderwijsleerdoelen<sup> 3 Eindtermen zijn niet hetzelfde als onderwijsleerdoelen. Eindtermen beschrijven het ‘eindproduct’ van de opleiding, het niveau van functioneren op het moment van kwalificatie. Onderwijsleerdoelen beschrijven de weg waarlangs de eindtermen bereikt (zouden) kunnen worden. </sup> die uitmonden in een coherent onderwijsprogramma en literatuuropgave. In de tentamens en examens dienen de eindtermen op een juiste en evenwichtige wijze aan bod te komen. Het staat instellingen vrij om naast de vastgestelde eindtermen aanvullende eindtermen in het curriculum op te nemen of de vastgestelde eindtermen op een hoger niveau op te nemen. Hierdoor bestaat de mogelijkheid van intensivering en specialisatie binnen het curriculum.    
 ### 1.7  
 
 ####Geldigheid van eindtermen
@@ -66,9 +65,9 @@ De hier beschreven eindtermen zijn naar hun aard statisch en daarom kwetsbaar vo
 
 De opleiding tot AA en RA omvat over het algemeen een initieel deel bij een bekostigde of particuliere onderwijsinstelling waarop de Wet op het hoger onderwijs en wetenschappelijk onderzoek (Whw) van toepassing is en een postinitieel deel dat buiten de werkingssfeer van de Whw valt. Studenten moeten om in aanmerking te komen voor inschrijving in een accountantsregister een theoretische en praktijkopleiding gevolgd hebben die voldoet aan de eindtermen. Dit betekent dat voor de theoretische opleiding het geheel van initiële en postinitiële opleiding tezamen moet voldoen aan de eindtermen van de CEA. Hiervan is alleen sprake als de initiële opleiding is geaccrediteerd door de NVAO en de postinitiële opleiding beschikt over een aanwijzing van de CEA en de onderwijsprogramma’s van beide opleidingen zodanig op elkaar aansluiten dat zij de totale set van eindtermen omvatten. Ten behoeve van de te verstrekken aanwijzingen zal de CEA de samenhang tussen initiële en postinitiële opleiding nadrukkelijk beoordelen. Overigens geldt dat als studenten binnen een studiefase (bachelor, master of postinitieel) overstappen naar een andere onderwijsinstelling, de nieuwe onderwijsinstelling moet vaststellen dat de eindtermen tot aan het moment van overstap zijn behaald mede in relatie tot het eigen curriculum. Bij het toelaten van studenten tot een volgende fase van de accountantsopleiding moet de betreffende onderwijsinstelling vaststellen dat de eindtermen van de eerder gevolgde opleiding nauwgezet aansluiten op de opleiding van de ontvangende onderwijsinstelling. Als niet alle eindtermen afgedekt worden, dient de ontvangende onderwijsinstelling er op toe te zien dat bestaande deficiënties in de eindtermen worden weggewerkt. Omdat de CEA niet rechtstreeks toeziet op de eindtermen in de initiële opleiding zijn er specifieke afspraken gemaakt met de onderwijsinstellingen die zien op de initiële opleiding. Die afspraken luiden: 
 
-o de CEA voert periodiek beleidsgesprekken met de onderwijsinstellingen die het initiële deel van de opleiding tot AA respectievelijk RA aanbieden;  
+○ de CEA voert periodiek beleidsgesprekken met de onderwijsinstellingen die het initiële deel van de opleiding tot AA respectievelijk RA aanbieden;  
 
-o ten behoeve van de visitaties van de initiële opleidingen voor AA respectievelijk RA worden bij de samenstelling van de leden van het visitatiepanel ten behoeve van de accreditatie door de NVAO in ieder geval die personen gekozen die voorkomen op een lijst van deskundigen van de CEA en wel zodanig dat alle beroepsdisciplines (AA, RA en bedrijfseconomie) in het visitatiepanel zijn afgedekt.   De eisen waaraan instellingen moeten voldoen om in aanmerking te komen voor een aanwijzing door de CEA zijn opgenomen in het ‘Reglement aanwijzing opleiding door de CEA’. Dit reglement is opgenomen op de website van de CEA. Daarnaast vermeldt de aanwijzingsbeschikking nauwkeurig de voorwaarden die verbonden zijn aan een aanwijzing.    
+○ ten behoeve van de visitaties van de initiële opleidingen voor AA respectievelijk RA worden bij de samenstelling van de leden van het visitatiepanel ten behoeve van de accreditatie door de NVAO in ieder geval die personen gekozen die voorkomen op een lijst van deskundigen van de CEA en wel zodanig dat alle beroepsdisciplines (AA, RA en bedrijfseconomie) in het visitatiepanel zijn afgedekt.   De eisen waaraan instellingen moeten voldoen om in aanmerking te komen voor een aanwijzing door de CEA zijn opgenomen in het ‘Reglement aanwijzing opleiding door de CEA’. Dit reglement is opgenomen op de website van de CEA. Daarnaast vermeldt de aanwijzingsbeschikking nauwkeurig de voorwaarden die verbonden zijn aan een aanwijzing.    
 ### 1.9  
 
 ####Samenloop eindtermen theoretische en praktijkopleiding
@@ -84,45 +83,43 @@ Zoals hiervoor al aangegeven omvat de accountantsopleiding zowel een theoretisch
 
 De eisen voor het theoretische deel van de opleiding tot wettelijk controleur zoals beschreven in de EU-Richtlijn (2006/43) voor wettelijke controles van jaarrekeningen en geconsolideerde jaarrekeningen zijn het uitgangspunt voor de eindtermen. Bij de beschrijving van de eindtermen staat primair de functie van wettelijk controleur en het niveau waaraan het theoretische deel van de opleiding tot wettelijk controleur (gegeven de Richtlijn) ten minste moet voldoen, centraal. De minimaal te realiseren eindtermen, waar het de vakgebieden van de Richtlijn betreft, voor de wettelijk controleur en daarmee voor een AA- en een RA- opleiding, zijn gelijk. Dit betekent dat er één set eindtermen is gedefinieerd voor zowel de AA- als de RA-opleiding. Voor de in de Richtlijn genoemde vakgebieden, waarvan de theoretische kennis in een (AA- of RA-) opleiding getoetst dient te worden, is een basisstudiebelasting vastgesteld. Deze basisstudiebelasting omvat – gerelateerd aan desbetreffende vakgebieden – het aantal studie-uren dat een voltijdstudent ten minste nodig heeft om het minimaal vereiste theoretische niveau voor de (beginnend) wettelijk controleur te verwerven. De basisstudie-belasting betreft zowel de ‘standaardroutes’ als andere studietrajecten (waaronder de zogenoemde zij-instromers). Ook voor de andere trajecten heeft de basisstudiebelasting een indicatieve (d.w.z. aanwijzende) functie. Overigens geldt uitsluitend voor studenten die de duale variant van de accountantsopleiding volgen dat een deel van de basisstudiebelasting wordt gerealiseerd via de werkperiode in de opleiding. Voor de opzet van de eindtermen geldt aanvullend dat: 
 
-o de eindtermen zo algemeen als mogelijk en zo specifiek als nodig zijn geformuleerd;  
+○ de eindtermen zo algemeen als mogelijk en zo specifiek als nodig zijn geformuleerd;  
 
-o de eindtermen uitsluitend de inhoudsvereisten van de accountantsopleiding omvatten en daardoor niet de eisen weergeven die worden gesteld aan hbo- en wo-instellingen die voortvloeien uit de Wet op het hoger onderwijs en wetenschappelijk onderzoek;  
+○ de eindtermen uitsluitend de inhoudsvereisten van de accountantsopleiding omvatten en daardoor niet de eisen weergeven die worden gesteld aan hbo- en wo-instellingen die voortvloeien uit de Wet op het hoger onderwijs en wetenschappelijk onderzoek;  
 
-o de eindtermen zijn beschreven op het eindniveau.   Tot slot wordt opgemerkt dat de opleiding tot AA en RA mede gericht dient te zijn op het beroepsprofiel van de AA respectievelijk RA, zoals vastgesteld door de betreffende beroepsorganisaties. Daar is rekening mee gehouden bij het vaststellen van de eindtermen, maar de eindtermen zien niet specifiek toe op de brede functie van de AA en de RA.    
+○ de eindtermen zijn beschreven op het eindniveau.   Tot slot wordt opgemerkt dat de opleiding tot AA en RA mede gericht dient te zijn op het beroepsprofiel van de AA respectievelijk RA, zoals vastgesteld door de betreffende beroepsorganisaties. Daar is rekening mee gehouden bij het vaststellen van de eindtermen, maar de eindtermen zien niet specifiek toe op de brede functie van de AA en de RA.    
 ### 2.2  
 
 ####Basisstudiebelasting en ects
 
 Mede op grond van een analyse van de bestaande studietrajecten is gekomen tot een basisstudiebelasting van minimaal 200 ects. Benadrukt wordt dat met deze basisstudiebelasting op zichzelf nog geen curriculum voor een volwaardige AA- of RA-opleiding kan worden ingericht. Voor het bepalen van de studielast is aangesloten op het in Europa in het kader van de bachelor-masterstructuur geldende ects-systeem, waarbij één studiepunt staat voor 28 studie-uren. Het ects-systeem maakt weliswaar geen onderscheid naar hoger beroepsonderwijs (hbo) en wetenschappelijk onderwijs (wo), maar in het Nederlandse stelsel voor hoger onderwijs kan een ‘hbo-ects’ niet gelijk worden gesteld aan een ‘wo-ects’. Derhalve is het te bereiken eindniveau van een vierjarige hbo-bachelor (240 ects) niet hetzelfde als dat van een driejarige wo-bachelor (180 ects) of dat van een wo-bachelor + eenjarige master (240 ects). Met andere woorden: de accountantsopleidingen in het wo zullen de beschreven eindtermen in minder ects kunnen realiseren dan de opleidingen in het hbo, maar tegelijkertijd vanwege de noodzakelijk geachte academische vorming aan meer en in zekere zin ook andere eisen moeten voldoen. Dit geldt voor zowel het totaal aantal ects als het aantal ects per vak. Het vorenstaande komt in het wo onder meer tot uitdrukking in: 
 
-o de benaderingswijze (m.n. inzichtgericht) van het onderwijsleerproces;  
+○ de benaderingswijze (m.n. inzichtgericht) van het onderwijsleerproces;  
 
-o het gebruik van overwegend wetenschappelijke literatuur;  
+○ het gebruik van overwegend wetenschappelijke literatuur;  
 
-o de complexiteit en de theoretische verdieping van de leerstof;  
+○ de complexiteit en de theoretische verdieping van de leerstof;  
 
-o het uitvoeren van wetenschappelijk onderzoek, respectievelijk het gebruik van de uitkomsten van wetenschappelijk onderzoek in het onderwijsleerproces.   Bovenstaande neemt niet weg dat zowel binnen wo als hbo dezelfde eindtermen moeten worden gerealiseerd. Op deze wijze wordt de doorstroom van hbo naar posthbo vereenvoudigd. Bovendien zal door identieke eindtermen de doorstroom van hbo naar wo naar verwachting gemakkelijker worden. Verondersteld mag immers worden dat de vervolgopleiding erop gericht is studenten te laten voldoen aan inhoud en niveau van de masteropleiding alsmede – daarop aansluitend – alleen dat deel van de eindtermen dat niet reeds door de hbo bacheloropleiding is afgedekt. Voor de AA-opleiding geldt thans dat een deel van de totale basisstudiebelasting (na de hbo-bachelor in Accountancy van 240 ects) in een posthbo-opleiding is opgenomen. In de RA-opleiding omvat een deel van de basisstudiebelasting nu ook een deel van de postacademische (postmaster) opleiding. In beide studietrajecten komt het totale aantal ects daarmee (ruim) boven de 240. Naast de verplichting voor het schrijven van een thesis of scriptie in het wetenschappelijk onderwijs respectievelijk stage en afstudeeropdracht in het hoger beroepsonderwijs, biedt het curriculum, uitgaande van de bestaande structuren, een zekere ‘vrije ruimte’. Deze ruimte is onder meer bestemd voor: 
+○ het uitvoeren van wetenschappelijk onderzoek, respectievelijk het gebruik van de uitkomsten van wetenschappelijk onderzoek in het onderwijsleerproces.   Bovenstaande neemt niet weg dat zowel binnen wo als hbo dezelfde eindtermen moeten worden gerealiseerd. Op deze wijze wordt de doorstroom van hbo naar posthbo vereenvoudigd. Bovendien zal door identieke eindtermen de doorstroom van hbo naar wo naar verwachting gemakkelijker worden. Verondersteld mag immers worden dat de vervolgopleiding erop gericht is studenten te laten voldoen aan inhoud en niveau van de masteropleiding alsmede – daarop aansluitend – alleen dat deel van de eindtermen dat niet reeds door de hbo bacheloropleiding is afgedekt. Voor de AA-opleiding geldt thans dat een deel van de totale basisstudiebelasting (na de hbo-bachelor in Accountancy van 240 ects) in een posthbo-opleiding is opgenomen. In de RA-opleiding omvat een deel van de basisstudiebelasting nu ook een deel van de postacademische (postmaster) opleiding. In beide studietrajecten komt het totale aantal ects daarmee (ruim) boven de 240. Naast de verplichting voor het schrijven van een thesis of scriptie in het wetenschappelijk onderwijs respectievelijk stage en afstudeeropdracht in het hoger beroepsonderwijs, biedt het curriculum, uitgaande van de bestaande structuren, een zekere ‘vrije ruimte’. Deze ruimte is onder meer bestemd voor: 
 
-o verbreding en verdieping van de wetenschappelijke component in met name de universitaire bachelor- en masteropleidingen;  
+○ verbreding en verdieping van de wetenschappelijke component in met name de universitaire bachelor- en masteropleidingen;  
 
-o verdieping op het terrein van de kernvakken;  
+○ verdieping op het terrein van de kernvakken;  
 
-o verdieping vanuit het geldende beroepsprofiel;  
+○ verdieping vanuit het geldende beroepsprofiel;  
 
-o eigen profilering van de onderwijsinstelling.   De basisstudiebelasting van 200 ects, biedt – binnen kaders – ruimte voor flexibiliteit en innovatie in een curriculum. Vorenstaande mag niet tot de conclusie leiden dat een volwaardige AA- of RA-opleiding met een omvang van 200 ects kan volstaan. De keuze voor gemeenschappelijke, minimaal te realiseren, eindtermen en eenzelfde basisstudiebelasting betekent evenmin dat de curricula van de opleidingen gemeenschappelijk dienen te zijn.    
+○ eigen profilering van de onderwijsinstelling.   De basisstudiebelasting van 200 ects, biedt – binnen kaders – ruimte voor flexibiliteit en innovatie in een curriculum. Vorenstaande mag niet tot de conclusie leiden dat een volwaardige AA- of RA-opleiding met een omvang van 200 ects kan volstaan. De keuze voor gemeenschappelijke, minimaal te realiseren, eindtermen en eenzelfde basisstudiebelasting betekent evenmin dat de curricula van de opleidingen gemeenschappelijk dienen te zijn.    
 ### 2.3  
 
 ####Vakgebieden EU-Richtlijn
 
-Zoals hiervoor al gesteld wordt een belangrijk kader voor de inrichting van een accountantsopleiding gegeven door de EU-Richtlijn van 17 mei 2006 betreffende de wettelijke controles van jaarrekeningen en geconsolideerde jaarrekeningen. Deze richtlijn beschrijft de minimumeisen waaraan een opleiding tot wettelijk auditor dient te voldoen, inclusief een beschrijving van de vakgebieden<sup> 4 Artikel 8 van Richtlijn 2006/43/EG betreffende de wettelijke controle van jaarrekeningen en geconsolideerde jaarrekeningen, van 17 mei 2006 beschrijft de vakgebieden. </sup> die in zo’n opleiding aan de orde moeten komen. Een voltooide accountantsopleiding (inclusief praktijkopleiding), die recht geeft op inschrijving in het accountantsregister als AA of RA moet (ook) voldoen aan de eisen van bovenbedoelde EU-richtlijn. In de Nederlandse accountants wet- en regelgeving wordt met betrekking tot de opleiding aangesloten op c.q. verwezen naar (de vakgebieden van) de Richtlijn. Hierna is een ‘vertaling’ opgenomen van de vakgebieden van de Richtlijn met daarbij een opgave van de aantallen ects die ten minste aan een vakgebied in een accountantsopleiding moeten worden toegekend om de beschreven eindtermen van een AA- of een RA-opleiding te kunnen realiseren. De ects hebben niet alleen ten doel de studielast te normeren, maar geven ook een indicatie van de relatieve zwaarte van de vakgebieden. De toegekende aantallen ects zijn gebaseerd op een analyse van: 
+Zoals hiervoor al gesteld wordt een belangrijk kader voor de inrichting van een accountantsopleiding gegeven door de EU-Richtlijn van 17 mei 2006 betreffende de wettelijke controles van jaarrekeningen en geconsolideerde jaarrekeningen. Deze richtlijn beschrijft de minimumeisen waaraan een opleiding tot wettelijk auditor dient te voldoen, inclusief een beschrijving van de vakgebieden<sup> 4 Artikel 8 van Richtlijn 2006/43/EG betreffende de wettelijke controle van jaarrekeningen en geconsolideerde jaarrekeningen, van 17 mei 2006 beschrijft de vakgebieden. </sup> die in zo’n opleiding aan de orde moeten komen. Een voltooide accountantsopleiding (inclusief praktijkopleiding), die recht geeft op inschrijving in het accountantsregister als AA of RA moet (ook) voldoen aan de eisen van bovenbedoelde EU-richtlijn. In de Nederlandse accountants wet- en regelgeving wordt met betrekking tot de opleiding aangesloten op c.q. verwezen naar (de vakgebieden van) de Richtlijn. Hierna is een “vertaling” opgenomen van de vakgebieden van de Richtlijn met daarbij een opgave van de aantallen ects die ten minste aan een vakgebied in een accountantsopleiding moeten worden toegekend om de beschreven eindtermen van een AA- of een RA-opleiding te kunnen realiseren. De ects hebben niet alleen ten doel de studielast te normeren, maar geven ook een indicatie van de relatieve zwaarte van de vakgebieden. De toegekende aantallen ects zijn gebaseerd op een analyse van: 
 
-o de examenprogramma’s van het voormalige Examenbureau AA en van het voormalige Examenbureau RA;  
+○ de examenprogramma’s van het voormalige Examenbureau AA en van het voormalige Examenbureau RA;  
 
-o het rapport van de Commissie van Zutphen<sup> 5 Rapport van de Commissie Van Zutphen ‘Het theoretische gedeelte van de opleiding tot registeraccountant, een aanzet voor een curriculum’, Amsterdam, 1996. </sup>;  
+○ het rapport van de Commissie van Zutphen<sup> 5 Rapport van de Commissie Van Zutphen ‘Het theoretische gedeelte van de opleiding tot registeraccountant, een aanzet voor een curriculum’, Amsterdam, 1996. </sup>;  
 
-o de door de hbo-accountancy opleidingen en de door de particuliere opleiders geïndiceerde studiepunten per vakgebied voor de hbo-bacheloropleiding accountancy en de posthbo-AA opleidingen.  
-
-o De vakgebieden van de Richtlijn zijn verdeeld in twee categorieën: de eerste categorie betreft de vakgebieden waarvan de theoretische kennis met name in het examen getoetst dient te worden; de tweede categorie betreft de vakgebieden die eveneens getoetst dienen te worden, dat wil zeggen ‘voor zover deze voor de wettelijke controle van jaarrekeningen van belang zijn’. De Richtlijn laat relatief veel ruimte voor een eigen invulling door de lidstaten; in feite wordt – binnen kaders – slechts aangegeven welke (specifieke onderdelen van dan wel onderwerpen uit) vakgebieden aan de orde moeten komen en dat de meeste aandacht dient uit te gaan naar de kernvakgebieden. In de Richtlijn worden – vrij vertaald – als kernvakgebieden aangemerkt: Boekhouden, Externe Verslaggeving en Controleleer. In Nederland wordt Boekhouden als ondersteunend vakgebied gezien, terwijl hier ook het vakgebied van Bestuurlijke Informatieverzorging (BIV) als kernvakgebied wordt beschouwd. In de meeste andere EU-lidstaten is BIV geen afzonderlijk kernvakgebied en zijn de tot dit vakgebied behorende eindtermen aan de andere (kern)vakgebieden gerelateerd c.q. hierin opgenomen.   Een en ander leidt tot de volgende indeling van vakgebieden van de Richtlijn.  Tabel 1: Vakgebieden EU-Richtlijn, onderverdeeld naar kern- en ondersteunende vakgebieden 
+○ de door de hbo-accountancy opleidingen en de door de particuliere opleiders geïndiceerde studiepunten per vakgebied voor de hbo-bacheloropleiding accountancy en de posthbo-AA opleidingen.   De vakgebieden van de Richtlijn zijn verdeeld in twee categorieën: de eerste categorie betreft de vakgebieden waarvan de theoretische kennis met name in het examen getoetst dient te worden; de tweede categorie betreft de vakgebieden die eveneens getoetst dienen te worden, dat wil zeggen “voor zover deze voor de wettelijke controle van jaarrekeningen van belang zijn”. De Richtlijn laat relatief veel ruimte voor een eigen invulling door de lidstaten; in feite wordt – binnen kaders – slechts aangegeven welke (specifieke onderdelen van dan wel onderwerpen uit) vakgebieden aan de orde moeten komen en dat de meeste aandacht dient uit te gaan naar de kernvakgebieden. In de Richtlijn worden – vrij vertaald – als kernvakgebieden aangemerkt: Boekhouden, Externe Verslaggeving en Controleleer. In Nederland wordt Boekhouden als ondersteunend vakgebied gezien, terwijl hier ook het vakgebied van Bestuurlijke Informatieverzorging (BIV) als kernvakgebied wordt beschouwd. In de meeste andere EU-lidstaten is BIV geen afzonderlijk kernvakgebied en zijn de tot dit vakgebied behorende eindtermen aan de andere (kern)vakgebieden gerelateerd c.q. hierin opgenomen. Een en ander leidt tot de volgende indeling van vakgebieden van de Richtlijn.  Tabel 1: Vakgebieden EU-Richtlijn, onderverdeeld naar kern- en ondersteunende vakgebieden 
 
 | --- |
 |:---|
@@ -141,44 +138,44 @@ In de categorie ‘ondersteunende vakgebieden’ kan nog onderscheid worden gema
 
 Beknopte toelichting: 
 
-o Externe Verslaggeving: hieronder te verstaan Financial Accounting & Reporting;  
+○ Externe Verslaggeving: hieronder te verstaan Financial Accounting & Reporting;  
 
-o Bestuurlijke Informatieverzorging (Accounting Information Systems): omvat zowel  
+○ Bestuurlijke Informatieverzorging (Accounting Information Systems): omvat zowel  
 
-o AO/IC als ICT;  
+○ AO/IC als ICT;  
 
-o Auditing & Assurance: de Richtlijn noemt het vakgebied Controleleer (en hiermee samenhangende aspecten). Dit hier te beschouwen als het brede gebied van  
+○ Auditing & Assurance: de Richtlijn noemt het vakgebied Controleleer (en hiermee samenhangende aspecten). Dit hier te beschouwen als het brede gebied van  
 
-o auditing & assurance(verschaffing);  
+○ auditing & assurance(verschaffing);  
 
-o Management Accounting: omvat cost accounting, interne berichtgeving en management control.      
+○ Management Accounting: omvat cost accounting, interne berichtgeving en management control.      
 ### 2.4  
 
 ####Hbo- en wo-kaders
 
 Het theoretische gedeelte van een accountantsopleiding wordt in Nederland in belangrijke mate in de vorm van een bachelor- en een masteropleiding aangeboden. In hoofdlijn zijn er twee modellen: 
 
-o de hbo-bachelor accountancy opleiding en een posthbo-opleiding tot AA;  
+○ de hbo-bachelor accountancy opleiding en een posthbo-opleiding tot AA;  
 
-o een wo-bachelor en een wo-master, gevolgd door een postinitiële (postmaster) RA-opleiding.   Een (driejarige) wo-bachelor opleiding omvat 180 ects; een wo-master ten minste 60 ects. De studielast van de postinitiële RA-opleiding kan per universiteit verschillen omdat deze mede afhankelijk is van de gevolgde (bama)vooropleiding. Een (vierjarige) hbo-bacheloropleiding omvat 240 ects. Een belangrijk onderscheid betreft de wetenschappelijke oriëntatie van een wo-opleiding versus de meer beroepsgerichte oriëntatie van een hbo-opleiding. De AA-opleiding wordt in een hbo-kader aangeboden, de RA-opleiding in een wo-kader, waarbij de hbo-accountancyopleiding ook voor deze opleiding als basis kan fungeren. De wetenschappelijke dimensie van een opleiding komt onder meer tot uitdrukking in de vereiste kennis van het vakgebied (omvang, niveau en diepgang), in het behandelen van (actuele) theoretische concepten en -modellen en internationale- (wetenschappelijke) literatuur en in het (kunnen) verrichten van wetenschappelijk onderzoek. Een hbo-opleiding is in beginsel meer toepassingsgericht en legt daarom een sterker accent op het ontwikkelen van praktische vaardigheden. Deze elementen kunnen, afhankelijk van het doel en de oriëntatie van de opleiding, deels afzonderlijk en deels geïntegreerd, in de vakgebieden aan (de eindtermen van) een curriculum worden toegevoegd.    
+○ een wo-bachelor en een wo-master, gevolgd door een postinitiële (postmaster) RA-opleiding.   Een (driejarige) wo-bachelor opleiding omvat 180 ects; een wo-master ten minste 60 ects. De studielast van de postinitiële RA-opleiding kan per universiteit verschillen omdat deze mede afhankelijk is van de gevolgde (bama)vooropleiding. Een (vierjarige) hbo-bacheloropleiding omvat 240 ects. Een belangrijk onderscheid betreft de wetenschappelijke oriëntatie van een wo-opleiding versus de meer beroepsgerichte oriëntatie van een hbo-opleiding. De AA-opleiding wordt in een hbo-kader aangeboden, de RA-opleiding in een wo-kader, waarbij de hbo-accountancyopleiding ook voor deze opleiding als basis kan fungeren. De wetenschappelijke dimensie van een opleiding komt onder meer tot uitdrukking in de vereiste kennis van het vakgebied (omvang, niveau en diepgang), in het behandelen van (actuele) theoretische concepten en -modellen en internationale- (wetenschappelijke) literatuur en in het (kunnen) verrichten van wetenschappelijk onderzoek. Een hbo-opleiding is in beginsel meer toepassingsgericht en legt daarom een sterker accent op het ontwikkelen van praktische vaardigheden. Deze elementen kunnen, afhankelijk van het doel en de oriëntatie van de opleiding, deels afzonderlijk en deels geïntegreerd, in de vakgebieden aan (de eindtermen van) een curriculum worden toegevoegd.    
 ### 2.5  
 
 ####Ects per vakgebied
 
 Op grond van de hiervoor geschetste kaders, uitgangspunten en overwegingen is een toedeling van ects per vakgebied (zie tabel 3) gemaakt. Hierbij is uitgegaan van een minimaal aantal ects per categorie, met als doel het vereiste basisniveau voor het desbetreffende vakgebied te markeren. De kernvakgebieden dienen in ieder geval substantieel in de initiële opleidingen aan bod te komen. Het te bereiken eindniveau in deze vakken overstijgt daarbij het niveau van een bacheloropleiding.  Tabel 3: Overzicht minimaal aantal studiepunten per vakgebied van een accountantsopleiding 
 
-| In het curriculum op te nemen vakgebieden  | Minimaal aantal ects  | Minimaal totaal per categorie  |
+| In het curriculum op te nemen vakgebieden  | Minimaal aantal  ects  | Minimaal totaal per categorie  |
 |:---|:---|:---|
-|  *Kernvakgebieden*   | --- | 90  |
+| Kernvakgebieden  | --- | 90  |
 | Auditing & Assurance  Externe Verslaggeving  Bestuurlijke Informatieverzorging  | 30  30  30  | --- |
 | Aan de kernvakgebieden gerelateerde  bedrijfseconomische/accountancy  vakgebieden  | --- | 65  |
-| Boekhouden<sup>1</sup>   Management Accounting  Financieel Management/Financiering  Management en Organisatie  Corporate Governance  | 16–18  16–18  16–18  8–10  3–5  | --- |
-|  *Overige ondersteunende vakgebieden*   | --- | 45  |
+| Boekhouden *)  Management Accounting  Financieel Management/Financiering  Management en Organisatie  Corporate Governance  *) Boekhouden omvat tevens de comptabele aspecten van Management Accounting, Financiering en Financial Accounting en daarnaast ICT-aspecten.  | 16–18  16–18  16–18  8–10  3–5  | --- |
+| Overige ondersteunende vakgebieden  | --- | 45  |
 | Recht  Belastingrecht  Algemene Economie  Levensverzekeringswiskunde en Statistiek  | 10–14  12–16  4–8  6–10  | --- |
-|  *Totaal*   | 200  | 200  |
+| Totaal  | 200  | 200  |
 | Vrije ruimte  – de thesis of scriptie in het wo dan wel de stage en de afstudeeropdracht in het hbo;  – wetenschappelijke component van de vakken, met name in het wo (incl. methodologie en verdieping kwantitatieve methoden en technieken);  – verdieping op het terrein van de kernvakken;  – verdieping vanuit het beroepsprofiel;  – eigen profilering van de onderwijsinstelling.  | pm  | --- |
 
-<sup>1</sup>Boekhouden omvat tevens de comptabele aspecten van Management Accounting, Financiering en Financial Accounting en daarnaast ICT-aspecten. De per categorie en vakgebied toegekende ects geven als geheel een representatief beeld van de relatieve zwaarte en de betekenis van de kernvakgebieden in een accountantsopleiding en zijn daarmee een richtsnoer voor de mate van aandacht die voor het realiseren van de eindtermen ten minste moet worden gegeven aan het desbetreffende vakgebied. Het totale aantal ects van elke categorie vormt een harde ondergrens; een (volledig) curriculum van een accountantsopleiding dient per categorie minimaal de hiervoor vastgestelde aantallen ects te omvatten. Binnen de drie categorieën gelden de aan de kernvakgebieden toegedeelde studiepunten ook als harde ondergrens. Voor de vakgebieden van de overige twee categorieën wordt per vakgebied als ondergrens een marge gehanteerd van twee ects bij de bedrijfseconomische/accountancyvakken en vier ects bij de overige ondersteunende vakken. Binnen deze categorieën kan per vak het minimum aantal ects in een curriculum dus enigszins verschillen. Het totale aantal ects van de vakgebieden in desbetreffende categorie moet echter wel ten minste het voor die categorie bepaalde minimum omvatten. Dit onderscheid is wenselijk om de verschillende opleidingen de mogelijkheid te bieden om de accenten zwaarder op het ene dan wel het andere vakgebied te leggen, waarbij overigens altijd aan de eindtermen voldaan zal moeten worden. Voor de drie kernvakgebieden geldt 30 ects per vakgebied voor het minimaal te bereiken niveau. Voor de categorieën ‘aan de kernvakgebieden gerelateerde bedrijfseconomische/accountancy vakgebieden’ en ‘overige ondersteunende vakgebieden’ geldt 65 respectievelijk 45 ects per categorie. Zo komt het totaal van de in het curriculum van een accountantsopleiding op te nemen vakgebieden uit op minimaal 200 ects. Deze ects zijn ingebed in een accountantsopleiding die kan bestaan uit een bachelor-, een postbachelor-, een master- en een postmasterfase. De resterende ‘vrije ruimte’ kan binnen wo- of hbo-kader worden toegedeeld aan de te onderscheiden fasen van een accountantsopleiding.    
+De per categorie en vakgebied toegekende ects geven als geheel een representatief beeld van de relatieve zwaarte en de betekenis van de kernvakgebieden in een accountantsopleiding en zijn daarmee een richtsnoer voor de mate van aandacht die voor het realiseren van de eindtermen ten minste moet worden gegeven aan het desbetreffende vakgebied. Het totale aantal ects van elke categorie vormt een harde ondergrens; een (volledig) curriculum van een accountantsopleiding dient per categorie minimaal de hiervoor vastgestelde aantallen ects te omvatten. Binnen de drie categorieën gelden de aan de kernvakgebieden toegedeelde studiepunten ook als harde ondergrens. Voor de vakgebieden van de overige twee categorieën wordt per vakgebied als ondergrens een marge gehanteerd van twee ects bij de bedrijfseconomische/accountancyvakken en vier ects bij de overige ondersteunende vakken. Binnen deze categorieën kan per vak het minimum aantal ects in een curriculum dus enigszins verschillen. Het totale aantal ects van de vakgebieden in desbetreffende categorie moet echter wel ten minste het voor die categorie bepaalde minimum omvatten. Dit onderscheid is wenselijk om de verschillende opleidingen de mogelijkheid te bieden om de accenten zwaarder op het ene dan wel het andere vakgebied te leggen, waarbij overigens altijd aan de eindtermen voldaan zal moeten worden. Voor de drie kernvakgebieden geldt 30 ects per vakgebied voor het minimaal te bereiken niveau. Voor de categorieën ‘aan de kernvakgebieden gerelateerde bedrijfseconomische/ accountancy vakgebieden’ en ‘overige ondersteunende vakgebieden’ geldt 65 respectievelijk 45 ects per categorie. Zo komt het totaal van de in het curriculum van een accountantsopleiding op te nemen vakgebieden uit op minimaal 200 ects. Deze ects zijn ingebed in een accountantsopleiding die kan bestaan uit een bachelor-, een postbachelor-, een master- en een postmasterfase. De resterende ‘vrije ruimte’ kan binnen wo- of hbo-kader worden toegedeeld aan de te onderscheiden fasen van een accountantsopleiding.    
 ### 2.6  
 
 ####Opleidingsniveau
@@ -192,7 +189,7 @@ Natuurlijke personen kunnen op grond van de Richtlijn slechts toegelaten worden 
 
 ####Inleiding
 
-Voor de beschrijving van de kernvakgebieden is aansluiting gezocht bij recente notities die door de hoogleraren in deze vakgebieden ten behoeve van de accountantsopleiding zijn opgesteld. Deze notities vormen een ‘state of the art’ beschrijving door de experts in deze vakgebieden. Daarom is aansluiting gezocht bij deze notities, maar zijn ze niet zonder meer één op één overgenomen. Aanpassingen zijn aangebracht onder meer in verband met actuele ontwikkelingen in wet- en regelgeving en specifiek wetenschappelijke of verdiepende componenten in de notities die weliswaar van belang zijn binnen een wetenschappelijke opleiding maar niet binnen een opleiding in het hbo. Wel zijn – in verband met de leesbaarheid van de zelfstandige onderdelen – de opzet van genoemde notities zo veel mogelijk in stand gelaten. Hiermee is gekozen voor leesbaarheid en draagvlak boven een uniforme structuur. Voor de beschrijving van de overige vakgebieden is aangesloten op de bestaande examen-programma’s van de voormalige examenbureaus. Hierop zijn aanpassingen verricht, zowel in verband met de al hierboven genoemde aspecten en bovendien vanwege actuele ontwikkelingen met betrekking tot ICT en specifiek op het MKB-gerichte eindtermen uit het examenprogramma AA, die afzonderlijk zijn opgenomen in hoofdstuk 4. Bij de opstelling is rekening gehouden met twee fasen: bachelor-master en postinitieel. De beschrijving van de eindtermen betreft de hiervoor genoemde fasen. Verdere specialisatie behoeft niet in deze fasen opgenomen te worden maar kan, na het voltooien van de accountantsopleiding, in de na-ervaringsfase een plaats krijgen. Er is geen verplichte literatuur voorgeschreven. Dat is een verantwoordelijkheid van de onderwijsinstellingen. Het is evident dat relevante wet- en regelgeving in alle gevallen deel uitmaakt van de literatuurselectie. Per vakgebied is sprake van niveauaanduidingen. In 3.3 wordt de niveau-aanduiding toegelicht. Onder 3.4 volgt de beschrijving per vakgebied voor zowel de AA- als de RA-opleiding. Bij de uitwerking kan rekening gehouden worden met aspecten als wo- of hbo-omgeving en complexere huishouding versus een MKB-omgeving. Teneinde bepaalde aspecten van de MKB-component separaat tot uitdrukking te laten komen is in hoofdstuk 4 een nadere beschrijving van Strategisch Management MKB en Fiscale Advisering opgenomen. Deze onderdelen zijn verplicht voor de AA-opleiding.    
+Voor de beschrijving van de kernvakgebieden is aansluiting gezocht bij recente notities die door de hoogleraren in deze vakgebieden ten behoeve van de accountantsopleiding zijn opgesteld. Deze notities vormen een “state of the art” beschrijving door de experts in deze vakgebieden. Daarom is aansluiting gezocht bij deze notities, maar zijn ze niet zonder meer één op één overgenomen. Aanpassingen zijn aangebracht onder meer in verband met actuele ontwikkelingen in wet- en regelgeving en specifiek wetenschappelijke of verdiepende componenten in de notities die weliswaar van belang zijn binnen een wetenschappelijke opleiding maar niet binnen een opleiding in het hbo. Wel zijn – in verband met de leesbaarheid van de zelfstandige onderdelen – de opzet van genoemde notities zo veel mogelijk in stand gelaten. Hiermee is gekozen voor leesbaarheid en draagvlak boven een uniforme structuur. Voor de beschrijving van de overige vakgebieden is aangesloten op de bestaande examen-programma’s van de voormalige examenbureaus. Hierop zijn aanpassingen verricht, zowel in verband met de al hierboven genoemde aspecten en bovendien vanwege actuele ontwikkelingen met betrekking tot ICT en specifiek op het MKB-gerichte eindtermen uit het examenprogramma AA, die afzonderlijk zijn opgenomen in hoofdstuk 4. Bij de opstelling is rekening gehouden met twee fasen: bachelor-master en postinitieel. De beschrijving van de eindtermen betreft de hiervoor genoemde fasen. Verdere specialisatie behoeft niet in deze fasen opgenomen te worden maar kan, na het voltooien van de accountantsopleiding, in de na-ervaringsfase een plaats krijgen. Er is geen verplichte literatuur voorgeschreven. Dat is een verantwoordelijkheid van de onderwijsinstellingen. Het is evident dat relevante wet- en regelgeving in alle gevallen deel uitmaakt van de literatuurselectie. Per vakgebied is sprake van niveauaanduidingen. In 3.3 wordt de niveau-aanduiding toegelicht. Onder 3.4 volgt de beschrijving per vakgebied voor zowel de AA- als de RA-opleiding. Bij de uitwerking kan rekening gehouden worden met aspecten als wo- of hbo-omgeving en complexere huishouding versus een MKB-omgeving. Teneinde bepaalde aspecten van de MKB-component separaat tot uitdrukking te laten komen is in hoofdstuk 4 een nadere beschrijving van Strategisch Management MKB en Fiscale Advisering opgenomen. Deze onderdelen zijn verplicht voor de AA-opleiding.    
 ### 3.2  
 
 ####Gebruik van eindtermen door de onderwijsinstellingen
@@ -216,55 +213,61 @@ Teneinde te verduidelijken welk niveau (binnen de kaders van het hoger onderwijs
 
 Alvorens een beschrijving van de eindtermen per vakgebied te geven, zijn hieronder een aantal overkoepelende eindtermen die in een AA- of een RA-opleiding gerealiseerd dienen te worden, beschreven. Afgestudeerden dienen te beschikken over de capaciteit om: 
 
-o specifieke vraagstukken uit de beroepspraktijk op te lossen vanuit een theoretisch conceptueel kader;  
+○ specifieke vraagstukken uit de beroepspraktijk op te lossen vanuit een theoretisch conceptueel kader;  
 
-o de verworven kennis en vaardigheden toe te passen op (complexe) bedrijfssituaties;  
+○ de verworven kennis en vaardigheden toe te passen op (complexe) bedrijfssituaties;  
 
-o nieuwe ontwikkelingen in het eigen vakgebied te onderkennen en naar waarde te schatten;  
+○ nieuwe ontwikkelingen in het eigen vakgebied te onderkennen en naar waarde te schatten;  
 
-o zowel zelfstandig als in teams te kunnen samenwerken en leiding te geven in de beroepspraktijk;  
+○ zowel zelfstandig als in teams te kunnen samenwerken en leiding te geven in de beroepspraktijk;  
 
-o de verworven kennis en inzichten op het vakgebied en relationele vaardigheden te gebruiken;  
+○ de verworven kennis en inzichten op het vakgebied en relationele vaardigheden te gebruiken;  
 
-o in de beroepsuitoefening en zowel in woord als in geschrift op adequate wijze te communiceren met beroepsgenoten en niet-deskundigen.     
+○ in de beroepsuitoefening en zowel in woord als in geschrift op adequate wijze te communiceren met beroepsgenoten en niet-deskundigen.     
 ### 3.4.1  
 
 ####Beroepsethiek
 
 Accountants vervullen een belangrijke maatschappelijke functie en dat geldt in het bijzonder voor de assurancefunctie die centraal staat in de beschrijving van deze eindtermen. Kenmerkend onderscheid van het accountantsberoep is de verantwoordelijkheid te handelen in het algemeen belang; de verantwoordelijkheid van accountants beperkt zich niet tot het behartigen van het belang van een individuele cliënt. Om aan deze verantwoordelijkheid invulling te kunnen geven dienen afgestudeerden: 
 
-o grondige kennis en inzicht te hebben in de fundamentele beginselen van de beroepsethiek alsmede in de toepassing daarvan in concrete situaties;  
+○ grondige kennis en inzicht te hebben in de fundamentele beginselen van de beroepsethiek alsmede in de toepassing daarvan in concrete situaties;  
 
-o in de (toekomstige) beroepsuitoefening op een integere wijze te kunnen functioneren, zich te kunnen verantwoorden en in situaties, waarin sprake kan zijn van tegenstrijdige belangen en inzichten, te komen tot een eigen afweging (rechte rug), oordeelsvorming en professioneel handelen;  
+○ in de (toekomstige) beroepsuitoefening op een integere wijze te kunnen functioneren, zich te kunnen verantwoorden en in situaties, waarin sprake kan zijn van tegenstrijdige belangen en inzichten, te komen tot een eigen afweging (rechte rug), oordeelsvorming en professioneel handelen;  
 
-o met een professioneel-kritische instelling controlewerkzaamheden uit te kunnen voeren;  
+○ met een professioneel-kritische instelling controlewerkzaamheden uit te kunnen voeren;  
 
-o inzicht te hebben in de eigen begrenzingen en het vermogen om in specifieke situaties/bedrijfsethische kwesties te kunnen reflecteren op eigen en andermans denken en handelen.      
+○ inzicht te hebben in de eigen begrenzingen en het vermogen om in specifieke situaties/bedrijfsethische kwesties te kunnen reflecteren op eigen en andermans denken en handelen.      
 ### 3.4.2  
 
 ####Audit en Assurance
 
 ####Inleiding
 
-Dit onderdeel bevat de eindtermen voor het vakgebied Audit & Assurance als onderdeel van de theoretische opleiding tot accountant. Eindtermen Van kandidaten wordt verwacht dat zij na afronding van het vakgebied Audit & Assurance in staat zijn -op grond van de theoretische fundamenten van het vakgebied van de auditing -de hoofdlijn van een doeltreffende en efficiënte aanpak van een specifiek controlevraagstuk te ontwerpen en deze op overtuigende wijze te presenteren. Communicatieve vaardigheid, zowel mondeling als schriftelijk, is daarbij een belangrijk onderdeel. Kandidaten moeten bij de toetsing er blijk van geven dat zij beschikken over kennis en inzicht zoals mag worden verwacht van een aanstaande accountant in het kader van de Audit & Assurance van jaarrekeningen en van andere financiële verantwoordingen, te weten: 
+Dit onderdeel bevat de eindtermen voor het vakgebied Audit & Assurance als onderdeel van de theoretische opleiding tot accountant.    
 
-o kennis hebben van de grondslagen van de beroepsuitoefening onder meer bestaande uit economische motieven, relevante wet- en regelgeving en institutionele kaders, alsmede diepgaand inzicht hebben in de ethische aspecten van de beroepsuitoefening.  
+####Eindtermen
 
-o kennis hebben van de functie van het accountantsberoep in ‘corporate governance’ en de verslaggevingsketen in het bijzonder.  
+Van kandidaten wordt verwacht dat zij na afronding van het vakgebied Audit & Assurance in staat zijn -op grond van de theoretische fundamenten van het vakgebied van de auditing -de hoofdlijn van een doeltreffende en efficiënte aanpak van een specifiek controlevraagstuk te ontwerpen en deze op overtuigende wijze te presenteren. Communicatieve vaardigheid, zowel mondeling als schriftelijk, is daarbij een belangrijk onderdeel. Kandidaten moeten bij de toetsing er blijk van geven dat zij beschikken over kennis en inzicht zoals mag worden verwacht van een aanstaande accountant in het kader van de Audit & Assurance van jaarrekeningen en van andere financiële verantwoordingen, te weten: 
 
-o ethische aspecten in een specifieke opdracht kunnen onderkennen en (ethische) dilemma’s gemotiveerd weten op te lossen.  
+○ kennis hebben van de grondslagen van de beroepsuitoefening onder meer bestaande uit economische motieven, relevante wet- en regelgeving en institutionele kaders, alsmede diepgaand inzicht hebben in de ethische aspecten van de beroepsuitoefening.  
 
-o gemotiveerd de aanvaardbaarheid, rationaliteit en uitvoerbaarheid van een specifieke opdracht kunnen uiteen zetten met een oriëntatie op de doelstelling van de opdracht.  
+○ kennis hebben van de functie van het accountantsberoep in ‘corporate governance’ en de verslaggevingsketen in het bijzonder.  
 
-o een grondige en onderbouwde analyse kunnen geven van de controlerisico's in een specifieke situatie. In die risicoanalyse dient ook aandacht te worden geschonken aan de risico's op het terrein van de interne beheersing (inclusief administratieve organisatie en interne controle) en op het terrein van de externe verslaggeving voor zover van belang voor de financial audit. De bedoelde situaties kunnen zowel opdrachten tot controle van de jaarrekening als bijzondere opdrachten betreffen.  
+○ ethische aspecten in een specifieke opdracht kunnen onderkennen en (ethische) dilemma’s gemotiveerd weten op te lossen.  
 
-o gemotiveerd een oplossingsrichting kunnen aangeven voor specifieke vraagstukken, in het bijzonder de identificatie van de controle-informatie die nodig is als deugdelijke grondslag voor de uitvoering van de desbetreffende opdracht.  
+○ gemotiveerd de aanvaardbaarheid, rationaliteit en uitvoerbaarheid van een specifieke opdracht kunnen uiteen zetten met een oriëntatie op de doelstelling van de opdracht.  
 
-o op basis van de beschikbare controle-informatie een oordeel kunnen vormen en beargumenteren ten aanzien van een specifiek controlevraagstuk met inachtneming van de relevante wet- en regelgeving, evenals de formulering van het oordeel kunnen geven.  
+○ een grondige en onderbouwde analyse kunnen geven van de controlerisico's in een specifieke situatie.  
 
-o in staat zijn de hoofdlijnen van een accountantsverslag en overige rapportage ten behoeve van de directie en organen belast met governance te beschrijven.  
+○ In die risicoanalyse dient ook aandacht te worden geschonken aan de risico's op het terrein van de interne beheersing (inclusief administratieve organisatie en interne controle) en op het terrein van de externe verslaggeving voor zover van belang voor de financial audit. De bedoelde situaties kunnen zowel opdrachten tot controle van de jaarrekening als bijzondere opdrachten betreffen.  
 
-o in staat zijn zich een objectief oordeel te vormen over de getrouwheid van een verantwoording op basis van de beschikbare controle-informatie evenals de formulering van dit oordeel.   Mede op grond van het voorgaande volgt hieronder een nadere uitwerking van de eindtermen. 
+○ gemotiveerd een oplossingsrichting kunnen aangeven voor specifieke vraagstukken, in het bijzonder de identificatie van de controle-informatie die nodig is als deugdelijke grondslag voor de uitvoering van de desbetreffende opdracht.  
+
+○ op basis van de beschikbare controle-informatie een oordeel kunnen vormen en beargumenteren ten aanzien van een specifiek controlevraagstuk met inachtneming van de relevante wet- en regelgeving, evenals de formulering van het oordeel kunnen geven.  
+
+○ in staat zijn de hoofdlijnen van een accountantsverslag en overige rapportage ten behoeve van de directie en organen belast met governance te beschrijven.  
+
+○ in staat zijn zich een objectief oordeel te vormen over de getrouwheid van een verantwoording op basis van de beschikbare controle-informatie evenals de formulering van dit oordeel.   Mede op grond van het voorgaande volgt hieronder een nadere uitwerking van de eindtermen. 
 
 a. Algemeen  
 
@@ -294,7 +297,7 @@ b. Specifiek met betrekking tot de financial audit
 | 5  | Onderkennen van fraudesignalen en het adequaat opvolging daaraan geven.  | 3  |
 | 6  | Invloed van geautomatiseerde systemen (van de gecontroleerde) op planning, uitvoering, evaluatie en rapportering van financial audits.  | 3  |
 | 7  | Eisen van wet- en regelgeving waaraan een financiële verantwoording moet voldoen (IFRS, BW2 titel 9, Richtlijnen voor de Jaarverslaggeving) als onderdeel van het toetsingskader bij de financial audit.  | 3  |
-| 8  | Financial audit methoden, middelen en technieken; aard, omvang (deel-waarnemingen waaronder steekproeven en gebruik maken van uitkomsten data analyse) en tijdstip van te vergaren bewijsmateriaal, zowel op het niveau van een post als een proces.  | 3  |
+| 8  | Financial audit methoden, middelen en technieken; aard, omvang (deel-waarnemingen waaronder steekproeven) en gebruik maken van data analyse en tijdstip van te vergaren bewijsmateriaal, zowel op het niveau van een post als een proces.  | 3  |
 | 9  | Gebruik maken van de werkzaamheden van andere accountants (waar-onder het optreden als groepsaccountant) en andere deskundigheden.  | 3  |
 | 10  | Afronding van de controle inclusief het proces van oordeelsvorming en de evaluatie van de bevindingen en besluitvorming ten aanzien van de af te geven verklaring. Aandacht dient te worden geschonken aan de verantwoordelijkheid van de accountant voor het jaarverslag. Bijzondere onderwerpen, die in de afronding aan de orde kunnen komen, zijn: gebeurtenissen na balansdatum, niet uit de balans blijkende verplichtingen, problematiek met betrekking tot verslaggeving en controle in geval van transacties tussen verbonden partijen, going concern problematiek.  | 3  |
 | 11  | Rapportering van bevindingen: verklaringen, managementletters en overige rapporteringsvormen (waaronder rapportering via elektronische weg zoals XBRL/SBR) inclusief kennis en inzicht in de reikwijdte van de verantwoordelijkheid van de accountant ter zake.  | 3  |
@@ -329,21 +332,21 @@ d. Overige Services
 
 Dit onderdeel bevat de eindtermen voor het vakgebied Externe Verslaggeving als onderdeel van de theoretische opleiding tot accountant. Externe verslaggeving wordt gedefinieerd als de verstrekking van informatie van primair financieel-economische aard in een min of meer gestandaardiseerde vorm door het bestuur van een organisatie aan belanghebbenden en belangstellenden. Tot de belanghebbenden en belangstellenden worden in het bijzonder gerekend de aandeelhouders, banken die krediet verlenen, overige verschaffers van vreemd vermogen, werknemers, leveranciers, afnemers en het algemene publiek. Kenmerk van externe verslaggeving is dat sprake is van een zekere mate van openbaarheid. Daarmee onderscheidt externe verslaggeving zich van interne verslaggeving (de verslaggeving die vooral gericht is op de informatievoorziening aan bestuurders in een organisatie) en van informatieverschaffing aan de fiscus in het kader van de vaststelling van de belastingaanslag. Raakvlakken met andere disciplines Externe verslaggeving kan in algemene zin worden beschouwd als een discipline van het bedrijfseconomische vakgebied, maar met een gedeeltelijke juridische inslag. De juridische inslag betreft in het bijzonder het jaarrekeningenrecht en meer in het algemeen het ondernemingsrecht. Het jaarrekeningenrecht betreft primair de wettelijke regeling inzake de inhoud van jaarrekening en jaarverslag. Het ondernemingsrecht omvat gerelateerde vraagstukken als het opmaken, vaststellen en goedkeuren van jaarrekeningen, de rechtspleging rond de jaarrekening, de aansprakelijkheid voor onjuiste jaarrekeningen en het kapitaalbeschermingsrecht. Externe verslaggeving kent uiteraard diverse raakvlakken met andere bedrijfseconomische deeldisciplines. Ook hier geldt dat de grenzen niet altijd scherp zijn te trekken en dat diverse vraagstukken die samenhangen met de verstrekking van informatie tot verschillende disciplines kunnen worden gerekend. In het voorgaande werd reeds de interne verslaggeving genoemd. Interne verslaggeving kan vanuit verschillende gezichtspunten worden bekeken: 
 
-o de administratieve en comptabele kant: de discipline Boekhouden;  
+○ de administratieve en comptabele kant: de discipline Boekhouden;  
 
-o de organisatie van de interne informatieverzorging, waaronder de betrouwbaarheid van informatie en de adequaatheid van administratieve procedures: de discipline Bestuurlijke Informatieverzorging en Administratieve Organisatie;  
+○ de organisatie van de interne informatieverzorging, waaronder de betrouwbaarheid van informatie en de adequaatheid van administratieve procedures: de discipline Bestuurlijke Informatieverzorging en Administratieve Organisatie;  
 
-o het gebruik van interne informatie voor planning, beheersing, kostprijscalculatie en besluitvorming: de discipline Management accounting, Kostenvraagstukken, Interne verslaggeving of Interne informatieverschaffing.   De gegevens die voortkomen uit het interne informatiesysteem zijn uiteraard ook direct van belang voor de extern te verstrekken informatie. Daarom wordt vooral de discipline Boekhouden ook wel beschouwd als een subdiscipline van Externe verslaggeving. Soms zijn vraagstukken zowel voor de interne verslaggeving als voor de externe verslaggeving expliciet van belang. Gedacht kan worden aan de berekening van de kostprijs van voorraden: deze is zowel van belang voor prijsstelling, margeberekening en assortimentsbeslissing, als voor de waardering op de balans. Een andere discipline die sterk verwant is met externe verslaggeving is de accountants-controle of auditing. De accountantscontrole is vooral gericht op het vaststellen of externe verslagen, in het bijzonder jaarrekeningen, voldoende betrouwbaar zijn voor de (externe) belanghebbenden en belangstellenden. Daarmee steunt deze discipline op die van de externe verslaggeving, maar kent zij ook andere vraagstukken als de omvang en de wijze van uitvoering van de controle, de wijze waarop conclusies worden getrokken, de wijze waarop naar de buitenwereld wordt gerapporteerd en de gedrags- en beroepseisen voor controlerende accountants. Ten slotte noemen wij de discipline financiering en belegging. Vraagstukken die een direct raakvlak hebben met externe verslaggeving en tot beide vakgebieden gerekend kunnen worden betreffen vooral: 
+○ het gebruik van interne informatie voor planning, beheersing, kostprijscalculatie en besluitvorming: de discipline Management accounting, Kostenvraagstukken, Interne verslaggeving of Interne informatieverschaffing.   De gegevens die voortkomen uit het interne informatiesysteem zijn uiteraard ook direct van belang voor de extern te verstrekken informatie. Daarom wordt vooral de discipline Boekhouden ook wel beschouwd als een subdiscipline van Externe verslaggeving. Soms zijn vraagstukken zowel voor de interne verslaggeving als voor de externe verslaggeving expliciet van belang. Gedacht kan worden aan de berekening van de kostprijs van voorraden: deze is zowel van belang voor prijsstelling, margeberekening en assortimentsbeslissing, als voor de waardering op de balans. Een andere discipline die sterk verwant is met externe verslaggeving is de accountants-controle of auditing. De accountantscontrole is vooral gericht op het vaststellen of externe verslagen, in het bijzonder jaarrekeningen, voldoende betrouwbaar zijn voor de (externe) belanghebbenden en belangstellenden. Daarmee steunt deze discipline op die van de externe verslaggeving, maar kent zij ook andere vraagstukken als de omvang en de wijze van uitvoering van de controle, de wijze waarop conclusies worden getrokken, de wijze waarop naar de buitenwereld wordt gerapporteerd en de gedrags- en beroepseisen voor controlerende accountants. Ten slotte noemen wij de discipline financiering en belegging. Vraagstukken die een direct raakvlak hebben met externe verslaggeving en tot beide vakgebieden gerekend kunnen worden betreffen vooral: 
 
-o de oordeelsvorming en besluitvorming van (potentiële) aandeelhouders en kredietverschaffers op basis van jaarrekeninginformatie; gedacht kan worden aan ratio-analyse en andere financiële analysevraagstukken en de gevolgen van jaarrekeninggegevens voor beurskoersen;  
+○ de oordeelsvorming en besluitvorming van (potentiële) aandeelhouders en kredietverschaffers op basis van jaarrekeninginformatie; gedacht kan worden aan ratio-analyse en andere financiële analysevraagstukken en de gevolgen van jaarrekeninggegevens voor beurskoersen;  
 
-o cash flow berekeningen, onder andere in het kader van de bepaling van bedrijfs-waarden ten behoeve van de vaststelling van bijzondere waardeverminderingen (‘impairments’), waarmee samenhangend de waardering van ondernemingen of onderdelen daarvan in het kader van fusies en overnames en van de bepaling van de waarde van de goodwill;  
+○ cash flow berekeningen, onder andere in het kader van de bepaling van bedrijfswaarden ten behoeve van de vaststelling van bijzondere waardeverminderingen (‘impairments’), waarmee samenhangend de waardering van ondernemingen of onderdelen daarvan in het kader van fusies en overnames en van de bepaling van de waarde van de goodwill;  
 
-o bepalingen van fair values (‘reële waarden’), waaronder toepassingen zoals het Black-Scholes model voor de bepaling van de reële waarde van opties en waarderings-modellen ter bepaling van de reële waarde van financiële instrumenten.   Een controlerend accountant is geen financieel analist of waardebepaler, maar komt in zijn beroepsuitoefening wel met deze vraagstukken in aanraking. Daarom is ten minste een goed begrip nodig van de aspecten die hierbij een rol spelen. Op het onderdeel financiële analyse wordt hierna nog nader daarop ingegaan. Nadere invulling van externe verslaggeving. In tabel a is een indeling naar object van verslaggeving aangegeven op basis van de volgende twee criteria: 
+○ bepalingen van fair values (‘reële waarden’), waaronder toepassingen zoals het Black-Scholes model voor de bepaling van de reële waarde van opties en waarderings-modellen ter bepaling van de reële waarde van financiële instrumenten.   Een controlerend accountant is geen financieel analist of waardebepaler, maar komt in zijn beroepsuitoefening wel met deze vraagstukken in aanraking. Daarom is ten minste een goed begrip nodig van de aspecten die hierbij een rol spelen. Op het onderdeel financiële analyse wordt hierna nog nader daarop ingegaan. Nadere invulling van externe verslaggeving. In tabel a is een indeling naar object van verslaggeving aangegeven op basis van de volgende twee criteria: 
 
-o al dan niet primair van financiële aard;  
+○ al dan niet primair van financiële aard;  
 
-o al dan niet periodiek.    Tabel a: Externe verslaggeving ingedeeld naar object 
+○ al dan niet periodiek.    Tabel a: Externe verslaggeving ingedeeld naar object 
 
 |--- | Primair financieel van aard  | Primair niet-financieel van aard  |
 |:---|:---|:---|
@@ -352,13 +355,13 @@ o al dan niet periodiek.    Tabel a: Externe verslaggeving ingedeeld naar object
 
 Opgemerkt wordt dat, in navolging van de definitie, externe verslaggeving is beperkt tot informatie van primair financieel-economische aard in min of meer gestandaardiseerde vorm. Niet bij alle in tabel a genoemde objecten wordt hieraan voldaan. Bijvoorbeeld, een milieuverslag dat vooral technisch gericht is (emissiewaarden e.d.) valt in dit kader niet onder de discipline externe verslaggeving (maar wel onder het veel ruimere corporate communications). Maar een milieuverslag met financiële gegevens en financieel-economische informatie (milieukosten, investeringsplannen inzake het milieu) is wel een vorm van financieel-economische externe verslaggeving. Het blijkt opnieuw: de grens is niet scherp. In toenemende mate is er sprake van geïntegreerde verslaggeving. Een andere indeling betreft doel en functie van de vraagstukken waarmee externe verslaggeving zich bezighoudt. In tabel b is hiervan een overzicht opgenomen, gebaseerd op twee criteria: 
 
-o al dan niet primair gericht op de inhoud van het object;  
+○ al dan niet primair gericht op de inhoud van het object;  
 
-o al dan niet met een normatief karakter.   De indeling is overigens enigszins arbitrair en verschillende onderdelen overlappen elkaar.  Tabel b. Externe verslaggeving ingedeeld naar doel en functie 
+○ al dan niet met een normatief karakter.   De indeling is overigens enigszins arbitrair en verschillende onderdelen overlappen elkaar.  Tabel b. Externe verslaggeving ingedeeld naar doel en functie 
 
 |--- | Primair gericht op de inhoud  | Niet primair gericht op de inhoud  |
 |:---|:---|:---|
-| Normatief karakter  | – algemene grondslagen;  wet- en regelgeving inzake inhoud;  – internationale harmonisatie;  – waardering en resultaatbepaling.  | – wet- en regelgeving en rechtspraak rondom jaarrekening, milieu-verslag e.d.;  – financiële analyse.  |
+| Normatief karakter  | – algemene grondslagen;  wet- en regelgeving inzake inhoud;  – internationale harmonisatie;  – waardering en resultaatbepaling.  | – wet- en regelgeving en rechtspraak rondom jaarrekening, milieuverslag e.d.;  – financiële analyse.  |
 | Beschrijvend en verklarend  | – empirisch onderzoek;  – jaarrekeningbeleid.  | – theorievorming;  – geschiedenis.  |
 
 Het belangrijkste object van de discipline externe verslaggeving is de jaarrekening. Het belangrijkste kwadrant in tabel b is het kwadrant linksboven: externe verslaggeving in het kader van de accountancyopleiding houdt zich voor het belangrijkste deel bezig met de inhoud, vanuit een normatief gezichtspunt. Dat wil uiteraard niet zeggen dat de andere objecten en kwadranten niet van belang zijn, maar wel dat de aandacht daarvoor geringer zal zijn.    
@@ -367,19 +370,19 @@ Het belangrijkste object van de discipline externe verslaggeving is de jaarreken
 
 Het vakgebied Externe verslaggeving staat internationaal traditioneel bekend als Financial accounting of Financial reporting. De inhoud loopt in grote mate parallel. Internationaal komt men onder andere de volgende modules tegen (met name in de Verenigde Staten): 
 
-o Accounting: brede basismodule, inclusief interne verslaggeving, management accounting en boekhouden;  
+○ Accounting: brede basismodule, inclusief interne verslaggeving, management accounting en boekhouden;  
 
-o Financial Accounting: basismodule voor financial accounting, gericht op algemene aspecten van balans, winst- en verliesrekening en kasstroomoverzicht;  
+○ Financial Accounting: basismodule voor financial accounting, gericht op algemene aspecten van balans, winst- en verliesrekening en kasstroomoverzicht;  
 
-o Intermediate Financial Accounting: vervolgmodule financial accounting, gericht op de specifieke vraagstukken met betrekking tot posten van de balans en winst- en verliesrekening en capita selecta als pensioenen, leasing, belastingen en inflation accounting;  
+○ Intermediate Financial Accounting: vervolgmodule financial accounting, gericht op de specifieke vraagstukken met betrekking tot posten van de balans en winst- en verliesrekening en capita selecta als pensioenen, leasing, belastingen en inflation accounting;  
 
-o Advanced Financial Accounting: specialisatiemodule, waarin vooral behandeld worden: consolidatie, fusie en overname, vreemde valuta, financiële instrumenten en bijzondere organisaties (partnerships, overheidsorganisaties, health care organisations, colleges and universities);  
+○ Advanced Financial Accounting: specialisatiemodule, waarin vooral behandeld worden: consolidatie, fusie en overname, vreemde valuta, financiële instrumenten en bijzondere organisaties (financiële instellingen, partnerships, overheidsorganisaties, health care organisations, colleges and universities);  
 
-o International Accounting: gericht op externe verslaggeving in internationaal perspectief;  
+○ International Accounting: gericht op externe verslaggeving in internationaal perspectief;  
 
-o Financial accounting theory: overzicht van theorievorming op het vakgebied;  
+○ Financial accounting theory: overzicht van theorievorming op het vakgebied;  
 
-o Financial Analysis: bespreking van vraagstukken op het gebied van financiële analyse.   In de onder 2 t/m 5 genoemde modules is een belangrijke plaats ingeruimd voor de opvattingen in de regelgeving (nationaal en/of internationaal). Internationaal (vooral in Angelsaksische landen) wordt vaak eerst aandacht besteed aan specifieke vraagstukken en komt pas later in de studie de theorievorming aan de orde. Een belangrijke ontwikkeling in dit verband is dat het vakgebied, in elk geval vanuit het perspectief van de regelgeving, als gevolg van de internationale harmonisatie steeds internationaler wordt. In dit opzicht is van bijzonder belang dat beursgenoteerde ondernemingen in Europa sinds 2005 verplicht zijn hun geconsolideerde jaarrekening op te stellen op basis van International Financial Reporting Standards (IFRS), opgesteld door de International Accounting Standards Board (IASB). Voorts worden de verschillen met de regels in de Verenigde Staten (US GAAP) steeds kleiner. Deze IFRS hebben ook belangrijke invloed op andere dan beursgenoteerde ondernemingen, hetzij doordat deze (vrijwillig) IFRS toepassen, hetzij doordat IFRS invloed heeft op de nationale wet- en regelgeving. Een gevolg voor het curriculum is dat het hiervoor genoemde onderdeel ‘international accounting’ nauwelijks meer als zelfstandige module wordt aangemerkt. In de hierna opgenomen eindtermen is reeds met deze ontwikkelingen rekening gehouden. Een andere ontwikkeling is dat de vraagkant steeds belangrijker wordt: de wensen en eisen die aandeelhouders, financiële analisten, rating agencies e.d aan de externe verslaggeving stellen, nemen steeds meer toe. Deze wensen en eisen kunnen verder gaan dan in de wet- en regelgeving is opgenomen. De discussies over de noodzaak tot transparantie en tot adequate corporate governance dragen hieraan bij.    
+○ Financial Analysis: bespreking van vraagstukken op het gebied van financiële analyse.   In de onder 2 t/m 5 genoemde modules is een belangrijke plaats ingeruimd voor de opvattingen in de regelgeving (nationaal en/of internationaal). Internationaal (vooral in Angelsaksische landen) wordt vaak eerst aandacht besteed aan specifieke vraagstukken en komt pas later in de studie de theorievorming aan de orde. Een belangrijke ontwikkeling in dit verband is dat het vakgebied, in elk geval vanuit het perspectief van de regelgeving, als gevolg van de internationale harmonisatie steeds internationaler wordt. In dit opzicht is van bijzonder belang dat beursgenoteerde ondernemingen in Europa sinds 2005 verplicht zijn hun geconsolideerde jaarrekening op te stellen op basis van International Financial Reporting Standards (IFRS), opgesteld door de International Accounting Standards Board (IASB). Deze IFRS hebben ook belangrijke invloed op andere dan beursgenoteerde ondernemingen, hetzij doordat deze (vrijwillig) IFRS toepassen, hetzij doordat IFRS invloed heeft op de nationale wet- en regelgeving. Een gevolg voor het curriculum is dat het hiervoor genoemde onderdeel ‘international accounting’ nauwelijks meer als zelfstandige module wordt aangemerkt. In de hierna opgenomen eindtermen is reeds met deze ontwikkelingen rekening gehouden. Een andere ontwikkeling is dat de vraagkant steeds belangrijker wordt: de wensen en eisen die aandeelhouders, financiële analisten, rating agencies e.d aan de externe verslaggeving stellen, nemen steeds meer toe. Deze wensen en eisen kunnen verder gaan dan in de wet- en regelgeving is opgenomen. De discussies over de noodzaak tot transparantie en tot adequate corporate governance dragen hieraan bij.    
 
 ####Eindtermen
 
@@ -405,27 +408,29 @@ De accountant dient diepgaand begrip te hebben van de grondslagen van de externe
 
 Met betrekking tot de toepassingen van financiële verslaggeving kan een nadere indeling worden gemaakt van de diverse vraagstukken: 
 
-o Ethische aspecten bij verslaggevingsvraagstukken kunnen onderkennen en (ethische) dilemma’s gemotiveerd weten op te lossen.  
+○ Ethische aspecten bij verslaggevingsvraagstukken kunnen onderkennen en (ethische) dilemma’s gemotiveerd weten op te lossen.  
 
-o Op basis van de post in de balans en winst- en verliesrekening: immateriële vaste activa, materiële vaste activa, financiële vaste activa, voorraden, vorderingen, effecten, liquide middelen, eigen vermogen, voorzieningen, schulden, omzet, bedrijfsresultaat, bijzondere baten en lasten.  
+○ Op basis van de post in de balans en winst- en verliesrekening: immateriële vaste activa, materiële vaste activa, financiële vaste activa, voorraden, vorderingen, effecten, liquide middelen, eigen vermogen, voorzieningen, schulden, omzet, bedrijfsresultaat, bijzondere baten en lasten.  
 
-o Op basis van de aard van het jaarrekeningprobleem: het op de balans opnemen van activa en passiva (‘recognition and derecognition’), waardering en resultaatbepaling, impairment, consolidatie, inrichting van balans, winst- en verliesrekening, overzicht totaalresultaat en kasstroomoverzicht, informatieverschaffing in de toelichting (‘disclosure’).  
+○ Op basis van de aard van het jaarrekeningprobleem: het op de balans opnemen van activa en passiva (‘recognition and derecognition’), waardering en resultaatbepaling, impairment, consolidatie, inrichting van balans, winst- en verliesrekening, overzicht totaalresultaat en kasstroomoverzicht, informatieverschaffing in de toelichting (‘disclosure’).  
 
-o Op basis van de verwerking van gebeurtenissen en transacties in de jaarrekening: inflatie, koersveranderingen, investeringen en desinvesteringen, fusies en overnames, aangaan van een joint venture, reorganisaties, afsluiten van contracten, betalen van belastingen, uitvoeren of aanpassen van een pensioenregeling, aantrekken van leningen, emissie van aandelen, inkoop van eigen aandelen, handel in derivaten, leasing, factoring, verkrijgen van overheidssubsidie, insolventie.  
+○ Op basis van de verwerking van gebeurtenissen en transacties in de jaarrekening: inflatie, koersveranderingen, investeringen en desinvesteringen, fusies en overnames, aangaan van een joint venture, reorganisaties, afsluiten van contracten, betalen van belastingen, uitvoeren of aanpassen van een pensioenregeling, aantrekken van leningen, emissie van aandelen, inkoop van eigen aandelen, handel in derivaten, leasing, factoring, verkrijgen van overheidssubsidie, insolventie.  
 
-o Op basis van de (juridische) aard van de rapporterende eenheid: naamloze vennootschap, besloten vennootschap, coöperatie, onderlinge waarborgmaatschappij, stichting, vereniging, commanditaire vennootschap, vennootschap onder firma, maatschap, eenmanszaak; dan wel beursgenoteerd versus niet-beursgenoteerd.  
+○ Op basis van de (juridische) aard van de rapporterende eenheid: naamloze vennootschap, besloten vennootschap, coöperatie, onderlinge waarborgmaatschappij, stichting, vereniging, commanditaire vennootschap, vennootschap onder firma, maatschap, eenmanszaak; dan wel beursgenoteerd versus niet-beursgenoteerd.  
 
-o Op basis van de economische aard van de rapporterende eenheid: productiebedrijven, bouwbedrijven, handelsbedrijven, uitgeverijen, dienstverlenende instellingen, banken, verzekeringsmaatschappijen, beleggingsinstellingen, agrarische bedrijven, fondsenwervende instellingen, ziekenhuizen, woningcorporaties, gemeentelijke en provinciale overheid, rijksoverheid.  
+○ Op basis van de economische aard van de rapporterende eenheid: productiebedrijven, bouwbedrijven, handelsbedrijven, uitgeverijen, dienstverlenende instellingen, banken, verzekeringsmaatschappijen, beleggingsinstellingen, agrarische bedrijven, fondsenwervende instellingen, ziekenhuizen, woningcorporaties, gemeentelijke en provinciale overheid, rijksoverheid.  
 
-o Op basis van het land van vestiging van de rapporterende eenheid: verslaggevingseisen en -praktijken in diverse landen, verslaggevingsproblemen van multinationals, internationale harmonisatie.  
+○ Op basis van het land van vestiging van de rapporterende eenheid: verslaggevingseisen en -praktijken in diverse landen, verslaggevingsproblemen van multinationals, internationale harmonisatie.  
 
-o Op basis van het object van verslaggeving: jaarrekening en jaarverslag, tussentijdse berichten, milieuverslagen en dergelijke (zie tabel a).  
+○ Op basis van het object van verslaggeving: jaarrekening en jaarverslag, tussentijdse berichten, milieuverslagen en dergelijke (zie tabel a).  
 
-o Op basis van fiscale grondslagen (samenvalregeling).   In het kader van de controle van de jaarrekening dient de accountant vanuit de diverse invalshoeken kennis en inzicht te hebben op twee niveaus: 
+○ Op basis van fiscale grondslagen (samenvalregeling).  
 
-o De Nederlandse wet- en regelgeving;  
+○ In het kader van de controle van de jaarrekening dient de accountant vanuit de diverse invalshoeken kennis en inzicht te hebben op twee niveaus:  
 
-o De International Financial Reporting Standards van de IASB.   Daarnaast dient de accountant kennis te hebben van de International Financial Reporting Standards for Small-and-Medium-Sized Entities (IFRS-SME) en de mogelijke toepassing daarvan. Voorts is voor beursgenoteerde bedrijven kennis nodig van de specifieke beursregels inzake bijvoorbeeld openbaarmaking van financiële informatie en het omgaan met koersgevoelige informatie. Dit betekent niet dat accountants alle regels paraat moeten hebben, maar wel dat zij van het bestaan van de regels afweten, dat zij op hoofdlijnen van de inhoud van de regels op de hoogte zijn en dat zij de regels begrijpen en kunnen toepassen in concrete situaties.    
+○ De Nederlandse wet- en regelgeving;  
+
+○ De International Financial Reporting Standards van de IASB.   Daarnaast dient de accountant kennis te hebben van de International Financial Reporting Standards for Small-and-Medium-Sized Entities (IFRS-SME) en de mogelijke toepassing daarvan. Voorts is voor beursgenoteerde bedrijven kennis nodig van de specifieke beursregels inzake bijvoorbeeld openbaarmaking van financiële informatie en het omgaan met koersgevoelige informatie. Dit betekent niet dat accountants alle regels paraat moeten hebben, maar wel dat zij van het bestaan van de regels afweten, dat zij op hoofdlijnen van de inhoud van de regels op de hoogte zijn en dat zij de regels begrijpen en kunnen toepassen in concrete situaties.    
 
 ####Eindtermen
 
@@ -458,7 +463,7 @@ De controlerend accountant geeft zijn verklaring primair af ten behoeve van het 
 
 ####Inleiding
 
-Dit onderdeel bevat de eindtermen voor het vakgebied Bestuurlijke Informatieverzorging als onderdeel van de theoretische opleiding tot accountant. Aansluitend bij het zogenoemde ‘hooglerarenoverleg’ wordt het vakgebied aangeduid als Bestuurlijke Informatieverzorging (Nederland) ofwel Accounting Information Systems (internationaal). Deze termen mogen desgewenst worden aangevuld met nadere aanduidingen die per instelling verschillend kunnen zijn. Dit betekent dat aanduidingen als Organisatie van de Informatieverzorging (OIV), Interne Beheersing (IB), Internal Control (IC), Administratieve Organisatie (AO) of combinaties daarvan nog slechts gebruikt zullen worden in samenhang met de term Bestuurlijke Informatieverzorging (Accounting Information Systems). Om de eindtermen BIV/AIS te beschrijven wordt uitgegaan van een tiental kennisdomeinen die het gehele vakgebied afdekken en wordt een vaste structuur gehanteerd die elk van de kennisdomeinen beschrijft. De volgende kennisdomeinen worden onderscheiden (tussen haakjes staan om de internationale herkenbaarheid zeker te stellen de Engelstalige aanduidingen):  
+Dit onderdeel bevat de eindtermen voor het vakgebied Bestuurlijke Informatieverzorging als onderdeel van de theoretische opleiding tot accountant. Aansluitend bij het zogenoemde “hooglerarenoverleg” wordt het vakgebied aangeduid als Bestuurlijke Informatieverzorging (Nederland) ofwel Accounting Information Systems (internationaal). Deze termen mogen desgewenst worden aangevuld met nadere aanduidingen die per instelling verschillend kunnen zijn. Dit betekent dat aanduidingen als Organisatie van de Informatieverzorging (OIV), Interne Beheersing (IB), Internal Control (IC), Administratieve Organisatie (AO) of combinaties daarvan nog slechts gebruikt zullen worden in samenhang met de term Bestuurlijke Informatieverzorging (Accounting Information Systems). Om de eindtermen BIV/AIS te beschrijven wordt uitgegaan van een tiental kennisdomeinen die het gehele vakgebied afdekken en wordt een vaste structuur gehanteerd die elk van de kennisdomeinen beschrijft. De volgende kennisdomeinen worden onderscheiden (tussen haakjes staan om de internationale herkenbaarheid zeker te stellen de Engelstalige aanduidingen):  
 
 | --- | --- |
 |:---|:---|
@@ -494,15 +499,15 @@ De genoemde kennisdomeinen zijn derhalve ook op andere vakgebieden van toepassin
 
 De factor mens speelt in alle organisaties een dominante rol. Toegespitst op het vakgebied BIV (AIS) zien we dit terug in onder andere de volgende aandachtsgebieden: 
 
-o subjectiviteit van oordeelsvorming en dus op specifieke personen afgestemde informatieverzorging;  
+○ subjectiviteit van oordeelsvorming en dus op specifieke personen afgestemde informatieverzorging;  
 
-o het bouwen van gebruikersinterfaces voor een betere mens/machine-interactie rondom geautomatiseerde systemen;  
+○ het bouwen van gebruikersinterfaces voor een betere mens/machine-interactie rondom geautomatiseerde systemen;  
 
-o het beïnvloeden van het gedrag van mensen in organisaties door middel van prestatieprikkels die gebaseerd zijn op de output van het informatiesysteem;  
+○ het beïnvloeden van het gedrag van mensen in organisaties door middel van prestatieprikkels die gebaseerd zijn op de output van het informatiesysteem;  
 
-o het beïnvloeden van de kwaliteit van informatieverzorging door de mensen in een organisatie die zich bezighouden met informatieverzorging te beïnvloeden;  
+○ het beïnvloeden van de kwaliteit van informatieverzorging door de mensen in een organisatie die zich bezighouden met informatieverzorging te beïnvloeden;  
 
-o het beïnvloeden van de organisatiecultuur en meer specifiek de controleomgeving als een onderdeel van internal control dat beïnvloed wordt door management controls.   Door de factor mens te introduceren wordt een brug geslagen tussen internal control en management control. Het vakgebied BIV mag zich echter niet volledig op het terrein van management control begeven. Slechts voor zover de gedragsbeïnvloeding zoals bekend uit de management control direct of indirect van toepassing is op de kwaliteit van de informatieverzorging, behoren management controls tot het domein van de BIV.    
+○ het beïnvloeden van de organisatiecultuur en meer specifiek de controleomgeving als een onderdeel van internal control dat beïnvloed wordt door management controls.   Door de factor mens te introduceren wordt een brug geslagen tussen internal control en management control. Het vakgebied BIV mag zich echter niet volledig op het terrein van management control begeven. Slechts voor zover de gedragsbeïnvloeding zoals bekend uit de management control direct of indirect van toepassing is op de kwaliteit van de informatieverzorging, behoren management controls tot het domein van de BIV.    
 
 ####Eindtermen
 
@@ -589,11 +594,11 @@ Informatie- en communicatietechnologie (IT) heeft betrekking op de media die wor
 
 | Nr  | Onderwerp  | niveau  |
 |:---|:---|:---|
-| 1  | Na afronding van de opleiding heeft de student kennis van de gevolgen van veranderingen in de IT-infrastructuur voor zover van betekenis voor:  o de betrouwbaarheid van de bestuurlijke informatieverzorging  o de informatie over de effectiviteit en efficiëntie van de bedrijfsvoering  o de informatie over de naleving van relevante wet- en regelgeving  | 1  1  1  |
-| 2  | Na afronding van de opleiding heeft de student inzicht in de gevolgen van veranderingen in IT-applicaties voor zover van betekenis voor:  o de betrouwbaarheid van de bestuurlijke informatieverzorging  o de informatie over de effectiviteit en efficiëntie van de bedrijfsvoering  o de informatie over de naleving van relevante wet- en regelgeving  | 1  1  1  |
-| 3  | Na afronding van de opleiding heeft de student inzicht in de gevolgen van veranderingen in IT-management voor zover van betekenis voor:  o de betrouwbaarheid van de bestuurlijke informatieverzorging  o de informatie over de effectiviteit en efficiëntie van de bedrijfsvoering  o de informatie over de naleving van relevante wet- en regelgeving  | 1  1  1  |
-| 4  | Na afronding van de opleiding heeft de student inzicht in de gevolgen van veranderingen in de IT-strategie voor zover van betekenis voor:  o de betrouwbaarheid van de bestuurlijke informatieverzorging  o de informatie over de effectiviteit en efficiëntie van de bedrijfsvoering  o de informatie over de naleving van relevante wet- en regelgeving  | 1  1  1  |
-| 5  | Na afronding van de opleiding kan de student een adequaat IT-control systeem ontwerpen voor zover van betekenis voor:  o de betrouwbaarheid van de bestuurlijke informatieverzorging  o de informatie over de effectiviteit en efficiëntie van de bedrijfsvoering  | 3  2  |
+| 1  | Na afronding van de opleiding heeft de student kennis van de gevolgen van veranderingen in de IT-infrastructuur voor zover van betekenis voor:  ○ de betrouwbaarheid van de bestuurlijke informatieverzorging  ○ de informatie over de effectiviteit en efficiëntie van de bedrijfsvoering  ○ de informatie over de naleving van relevante wet- en regelgeving  | 1  1  1  |
+| 2  | Na afronding van de opleiding heeft de student inzicht in de gevolgen van veranderingen in IT-applicaties voor zover van betekenis voor:  ○ de betrouwbaarheid van de bestuurlijke informatieverzorging  ○ de informatie over de effectiviteit en efficiëntie van de bedrijfsvoering  ○ de informatie over de naleving van relevante wet- en regelgeving  | 1  1  1  |
+| 3  | Na afronding van de opleiding heeft de student inzicht in de gevolgen van veranderingen in IT-management voor zover van betekenis voor:  ○ de betrouwbaarheid van de bestuurlijke informatieverzorging  ○ de informatie over de effectiviteit en efficiëntie van de bedrijfsvoering  ○ de informatie over de naleving van relevante wet- en regelgeving  | 1  1  1  |
+| 4  | Na afronding van de opleiding heeft de student inzicht in de gevolgen van veranderingen in de IT-strategie voor zover van betekenis voor:  ○ de betrouwbaarheid van de bestuurlijke informatieverzorging  ○ de informatie over de effectiviteit en efficiëntie van de bedrijfsvoering  ○de informatie over de naleving van relevante wet- en regelgeving  | 1  1  1  |
+| 5  | Na afronding van de opleiding kan de student een adequaat IT-control systeem ontwerpen voor zover van betekenis voor:  ○ de betrouwbaarheid van de bestuurlijke informatieverzorging  ○ de informatie over de effectiviteit en efficiëntie van de bedrijfsvoering  | 3  2  |
 
 ####K7: Relevantie van informatie
 
@@ -667,15 +672,15 @@ Beheersingsmaatregelen die betrekking hebben op de naleving van relevante wet- e
 
 De kandidaat heeft kennis van het boekhoudkundige model en de grootboekrekeningen en is in staat een eenvoudige administratie met financiële instrumenten te voeren. De kandidaat heeft de kennis om een balans en een resultatenrekening op te stellen en de permanence te verwerken in de boekhouding. De kandidaat heeft inzicht in het systematisch verzamelen, vastleggen, verwerken en verstrekken van financiële informatie ten behoeve van het besluitvormingsproces binnen en buiten de organisatie alsmede ten behoeve van de verantwoording die over de financiële aspecten van de bedrijfsvoering wordt afgelegd. De kandidaat heeft daartoe inzicht in de administratieve verwerking van financiële feiten met betrekking tot afdelingen en activiteiten. Daarbij dient de kandidaat ook de comptabele aspecten van de relaties tussen afdelingen en activiteiten te begrijpen en deze te kunnen vertalen in journaalposten. De kandidaat dient een referentiekader te hebben opgebouwd om: 
 
-○ verslaggevingsproblemen in voldoende mate te kunnen onderkennen en daarvoor ook een comptabele oplossing te kunnen aangeven;  
+− verslaggevingsproblemen in voldoende mate te kunnen onderkennen en daarvoor ook een comptabele oplossing te kunnen aangeven;  
 
-○ voldoende vaardig te zijn om in concrete situaties comptabele problemen en cases op het gebied van financial accounting te analyseren en op te lossen;  
+− voldoende vaardig te zijn om in concrete situaties comptabele problemen en cases op het gebied van financial accounting te analyseren en op te lossen;  
 
-○ over voldoende inzicht in financial accounting te beschikken om te komen tot gemotiveerde beslissingen;  
+− over voldoende inzicht in financial accounting te beschikken om te komen tot gemotiveerde beslissingen;  
 
-○ veranderende regelgeving te doorgronden en toe te passen;  
+− veranderende regelgeving te doorgronden en toe te passen;  
 
-○ inzicht te hebben in het werken binnen een geautomatiseerde omgeving.      
+− inzicht te hebben in het werken binnen een geautomatiseerde omgeving.      
 
 ####Eindtermen beginselen boekhouden
 
@@ -835,7 +840,7 @@ De kandidaat kan rekentechnieken die op verschillende momenten, bij verschillend
 | 11  | Instrumenten ter beoordeling van investeringsvoorstellen.  | 2  |
 | 12  | Reële opties.  | 1  |
 | I  | Waardering van ondernemingen en financiële activa  | --- |
-| 13  | Ondernemingswaardering (DCF, APV, rentabiliteitsmethode, ratio's, directe en indirecte methode).  | 3  |
+| 13  | Ondernemingswaardering (DCF, rentabiliteitsmethode, ratio's, directe en indirecte methode).  | 3  |
 | 14  | Fair value berekeningen (componenten EV, VV en activa op de balans).  | 2  |
 
 ### 3.4.5.4  
@@ -846,13 +851,13 @@ De kandidaat kan rekentechnieken die op verschillende momenten, bij verschillend
 
 De kandidaat heeft kennis van en inzicht in het vakgebied Management & Organisatie. De kandidaat heeft inzicht in organisaties als vorm van doelgericht menselijk samenwerken en op de manier waarop daaraan leiding wordt gegeven. De kandidaat dient over een zodanig niveau van kennis en inzicht te beschikken dat hij deze in de praktijk van de accountant kan toepassen bij onder andere: 
 
-o de opzet van een controleplan (onderscheiden van relevante bedrijfsonderdelen en verbindingen daartussen en de afgrenzing met partijen daarbuiten);  
+○ de opzet van een controleplan (onderscheiden van relevante bedrijfsonderdelen en verbindingen daartussen en de afgrenzing met partijen daarbuiten);  
 
-o het doorgronden van bestaande verdelingen in taken, bevoegdheden en verantwoordelijkheden en het opmerken van mogelijke gebreken daarin;  
+○ het doorgronden van bestaande verdelingen in taken, bevoegdheden en verantwoordelijkheden en het opmerken van mogelijke gebreken daarin;  
 
-o het herkennen van problemen in de organisatie die vanuit de verantwoordelijkheid van de accountant gezien vragen om signalering en advisering, zoals mogelijke fraudegevoelige relaties;  
+○ het herkennen van problemen in de organisatie die vanuit de verantwoordelijkheid van de accountant gezien vragen om signalering en advisering, zoals mogelijke fraudegevoelige relaties;  
 
-o het opstellen van een zgn. management letter, in aanvulling op de accountantsverklaring, waarin de directie op specifieke misstanden dan wel verbeterpunten kan worden gewezen.      
+○ het opstellen van een zgn. management letter, in aanvulling op de accountantsverklaring, waarin de directie op specifieke misstanden dan wel verbeterpunten kan worden gewezen.      
 
 ####Eindtermen
 
@@ -862,7 +867,7 @@ o het opstellen van een zgn. management letter, in aanvulling op de accountantsv
 | 2  | Besluitvorming in organisaties.  | 1  |
 | 3  | Organisatiestructuren en menselijke factoren in de organisatie:  – opbouw en uitbouw van een organisatie(structuur);  – arbeidsverdeling en coördinatie;  – organisatiestelsels, relaties en bevoegdheden;  – groei en ontwikkeling van bedrijfsafdeling en omspanningsvermogen van de leiding;  – werkstructurering;  – groei en ontwikkeling van organisaties en het centralisatie-/ decentralisatievraagstuk;  – groei en verandering van basisvorm van organisatie en taak en samenstelling topleiding;  – bestuursmodellen non-profit organisaties;  – motivatie, organisatie en groep, conflicthantering, organisatiecultuur en organisatieverandering;  – management en organisatie van allianties.  | 2  |
 | 4  | Strategieformulering en invoering van strategische planning:  – strategieformulering als probleem;  – stappen in het strategieformuleringsproces;  – strategische planning in de kleine en middelgrote onderneming;  – strategieformulering in het accountantskantoor, strategie en structuur.  | 3  |
-| 5  | Het besturen van de actie in de organisatie:  – stijlen van leidinggeven;  – communicatie;  – beloning;  – planning;  – methoden en technieken bij dagelijkse sturing.  | 2  |
+| 5  | Het besturen van de actie in de organisatie:  – stijlen van leidinggeven;  – communicatie;  – beloning;  – planning;  -– methoden en technieken bij dagelijkse sturing.  | 2  |
 | 6  | Marketing in organisaties.  | 1  |
 | 7  | Organisatieonderzoek en organisatieadvies voor verandering of verbetering.  | 2  |
 
@@ -874,11 +879,11 @@ o het opstellen van een zgn. management letter, in aanvulling op de accountantsv
 
 De kandidaat dient in staat te zijn om Corporate Governance en de ontwikkelingen hierin vanuit verschillende invalshoeken te kunnen belichten en nader uit te werken. De kandidaat heeft inzicht in Corporate Governance binnen een organisatie, waaronder die activiteiten van het (top) management die leiden tot een intern beheersingssysteem dat: 
 
-o waarborgen biedt voor het realiseren van de bedrijfsdoelstellingen;  
+○ waarborgen biedt voor het realiseren van de bedrijfsdoelstellingen;  
 
-o de integriteit van het interne en externe verslaggevingsproces bewaakt;  
+○ de integriteit van het interne en externe verslaggevingsproces bewaakt;  
 
-o de naleving van interne en externe wet- en regelgeving bewaakt.   Voorts dient de rol van de accountant aan de orde te komen waaronder begrepen toetsing en communicatie.    
+○ de naleving van interne en externe wet- en regelgeving bewaakt.   Voorts dient de rol van de accountant aan de orde te komen waaronder begrepen toetsing en communicatie.    
 
 ####Eindtermen
 
@@ -927,13 +932,13 @@ De accountant zal bij de wettelijke controle zich bewust moeten zijn van de juri
 
 De kandidaat heeft kennis en inzicht over wanneer loon en omzetbelastingen (LB/OB) worden geheven en hoe ze in grote lijnen werken en dient in staat te zijn om zelfstandig, met gebruikmaking van de wettekst, oplossingen te vinden voor praktijkproblemen. Op de gebieden van inkomstenbelasting en vennootschapsbelasting (IB/Vpb) staat de belastingproblematiek rond de onderneming centraal. Onder meer de volgende onderwerpen komen aan de orde: 
 
-o het winst- en kapitaalbegrip, de jaarwinstbepaling en de problematiek betreffende onttrekkingen, uitdelingen en informele kapitaalstortingen;  
+○ het winst- en kapitaalbegrip, de jaarwinstbepaling en de problematiek betreffende onttrekkingen, uitdelingen en informele kapitaalstortingen;  
 
-o grotere lichamen en conglomeraten, waarbij ruim aandacht wordt besteed aan de deelnemingsvrijstelling en de fiscale eenheid;  
+○ grotere lichamen en conglomeraten, waarbij ruim aandacht wordt besteed aan de deelnemingsvrijstelling en de fiscale eenheid;  
 
-o andere ondernemingen: de eenmanszaak en de werkmaatschappij met haar dga;  
+○ andere ondernemingen: de eenmanszaak en de werkmaatschappij met haar dga;  
 
-o de betekenis van horizontaal toezicht.      
+○ de betekenis van horizontaal toezicht.      
 
 ####Eindtermen
 
@@ -950,14 +955,14 @@ o de betekenis van horizontaal toezicht.
 
 ####Doelstelling
 
-De kandidaat verkrijgt kennis en inzicht in de micro- en macro-economie, afzonderlijk en in hun samenhang als ook de internationale dimensie van de economische vraagstukken zoals de impact van globalisering, valutarisico’s en wisselkoersen.   
+De kandidaat verkrijgt kennis en inzicht in de micro- en macro-economie, afzonderlijk en in hun samenhang als ook de internationale dimensie van de economische vraagstukken zoals de impact van globalisering, valutarisico’s en wisselkoersen.    
 
 ####Eindtermen
 
 | Nr  | Onderwerp  | niveau  |
 |:---|:---|:---|
 | 1  | Micro-economie:  – markten;  – speltheorie;  – vraag en aanbod en prijsmechanismen op verschillende deelmarkten;  – dynamiek van bedrijfstakken;  – concurrentie en concurrentiekracht;  – de rol van de overheid in de bedrijfsomgeving.  | 1  |
-| 2  | Macro-economie en Internationale Economische Betrekkingen:  – macro-economische stromingen (bijvoorbeeld Klassieken en Keynesianen);  – conjunctuurgolf;  – financieel overheidsbeleid;  – stabiliteits- en groeipact;  – invloed van het buitenland op de Nederlandse economie en het Nederlandse bedrijfsleven;  – Euregionale integratie.  | 1  |
+| 2  | Macro-economie en Internationale Economische Betrekkingen:  – macro-economische stromingen (bijvoorbeeld Klassieken en Keynesianen);  – conjunctuurgolf;  – financieel overheidsbeleid;  – stabiliteits- en groeipact;  -– invloed van het buitenland op de Nederlandse economie en het Nederlandse bedrijfsleven;  – Euregionale integratie.  | 1  |
 | 3  | Ontwikkelingen in het internationale geldwezen:  – inflatie en de ontwikkeling van de rentevoet;  – vermogensmarkten en determinanten van de wisselkoers;  – valutarisicobeheer;  – monetair beleid in een geliberaliseerde kapitaalmarkt.  | 1  |
 
 ### 3.4.6.4  
@@ -1001,9 +1006,9 @@ De kandidaat verkent de kwantitatieve methoden en technieken waarvan kennis voor
 
 De MKB component krijgt reeds inhoud bij de onder 3.4. vermelde vakgebieden. Daarnaast bestaat voor de AA-opleiding behoefte aan een nadere beschrijving van eindtermen die specifiek de kennis van het midden- en kleinbedrijf omvatten, welke hierna is opgenomen. Het onderdeel kennis van het midden- en kleinbedrijf bestaat uit twee vakgebieden, te weten: 
 
-o Fiscale Advisering voor het MKB als aanvulling op het onderdeel belastingrecht uit de ondersteunende vakgebieden;  
+○ Fiscale Advisering voor het MKB als aanvulling op het onderdeel belastingrecht uit de ondersteunende vakgebieden;  
 
-o Strategisch Management voor het MKB.     
+○ Strategisch Management voor het MKB.     
 ### 4.1  
 
 ####Fiscale advisering voor het MKB
@@ -1030,23 +1035,23 @@ De kandidaat moet in staat zijn de belastingaangiften van de ondernemer en de on
 
 De kandidaat dient kennis te hebben van de macro-economische betekenis van het MKB, de typering van de ondernemingen daarin en de problematiek die annex is aan de bedrijfsvoering in het MKB. De kandidaat moet in staat zijn alle zaken te onderkennen die verband houden met de bedrijfsvoering van een onderneming, de cliënt daarover te kunnen informeren en waar nodig bij te staan. Daartoe zal hij over een hoog kennisniveau moeten beschikken van de in de eindtermen genoemde onderwerpen. Toegespitst, zal de kandidaat kennis en vaardigheden moeten verkrijgen ter zake: 
 
-o de belangrijkste regels en wetten die gelden voor het MKB;  
+○ de belangrijkste regels en wetten die gelden voor het MKB;  
 
-o abstract denken, waarmee de positie van de onderneming in het MKB wordt bepaald;  
+○ abstract denken, waarmee de positie van de onderneming in het MKB wordt bepaald;  
 
-o typering van het MKB in kwantitatieve en kwalitatieve zin;  
+○ typering van het MKB in kwantitatieve en kwalitatieve zin;  
 
-o de levenscyclus van een onderneming in het MKB;  
+○ de levenscyclus van een onderneming in het MKB;  
 
-o het management in het MKB;  
+○ het management in het MKB;  
 
-o de maatschappelijke aspecten van het ondernemerschap in het MKB;  
+○ de maatschappelijke aspecten van het ondernemerschap in het MKB;  
 
-o commerciële randvoorwaarden voor het functioneren van het MKB;  
+○ commerciële randvoorwaarden voor het functioneren van het MKB;  
 
-o marketinginstrumenten van de onderneming in het MKB;  
+○ marketinginstrumenten van de onderneming in het MKB;  
 
-o de (volledige) inhoud van een ondernemingsplan van een onderneming in het MKB.      
+○ de (volledige) inhoud van een ondernemingsplan van een onderneming in het MKB.      
 
 ####Eindtermen
 
