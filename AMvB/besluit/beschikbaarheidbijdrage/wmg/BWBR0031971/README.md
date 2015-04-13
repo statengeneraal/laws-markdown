@@ -101,7 +101,7 @@ c.  *acute verloskunde:* verloskundige zorg in geval van een spoedeisende situat
 
 d.  *crisisopvang geestelijke gezondheidszorg:* zorg, bestaande uit de eerste diagnose, de verwijzing en de opvang van patiënten met een acute psychiatrische crisis. Hierbij geldt de voorwaarde dat regionaal is vastgelegd door welke zorgaanbieders de geestelijke gezondheidszorg in crisissituaties wordt geborgd;  
 
-e.  *zorg als omschreven bij of krachtens de Algemene Wet Bijzondere Ziektekosten.*     
+e. zorg als omschreven bij of krachtens de Wet langdurige zorg.    
 
 3.  *Zorg, bedoeld in de aanhef en onder 1 en 2, waarvoor terstond een financiële oplossing moet worden geboden* in de vorm van een beschikbaarheidbijdrage ten behoeve van het beschikbaar hebben van die zorg in afwachting van de besluitvorming op grond van de volgende procedures: 
 
@@ -115,7 +115,7 @@ c. de aanwijzingsprocedure, bedoeld in artikel 59, aanhef en onder j, juncto ar
 
 Vormen van zorg waarvoor op grond van artikel 4, eerste lid, van het Besluit beschikbaarheidbijdrage WMG de Nederlandse Zorgautoriteit zonder verklaring van geen bezwaar van Onze Minister een beschikbaarheidbijdrage kan toekennen: 
 
-1.  *Opleidingen.* Om zorg als omschreven bij of krachtens de Zorgverzekeringswet (Zvw) of Algemene Wet Bijzondere Ziektekosten (AWBZ) beschikbaar te hebben, zijn (medische) vervolgopleidingen noodzakelijk. Dit betreft vervolgopleidingen tot (medisch) specialist (per specialisme), tot huisarts of specialist ouderengeneeskunde, tot gespecialiseerd verpleegkundige en voor medisch ondersteunend personeel. 
+1.  *Opleidingen.* Om zorg als omschreven bij of krachtens de Zorgverzekeringswet (Zvw) of de Wet langdurige zorg (Wlz) beschikbaar te hebben, zijn (medische) vervolgopleidingen noodzakelijk. Dit betreft vervolgopleidingen tot (medisch) specialist (per specialisme), tot huisarts of specialist ouderengeneeskunde, tot gespecialiseerd verpleegkundige en voor medisch ondersteunend personeel. 
 
 a. Bij de vervolgopleidingen tot (medisch) specialist gaat het om: 
 
@@ -155,7 +155,7 @@ b. twee voertuigen met 7 x 24 uur beschikbare medisch specialistische teams;
 
 9.  *Gespecialiseerde brandwondenzorg.* Dit betreft zorg in een daarvoor toegerust medisch centrum aan brandwondenpatiënten in de categorie II tot en met V en brandwondenpatiënten in de categorie I die vitaal bedreigd zijn (Advies Afbakening zorg beschikbaarheidbijdrage, Nederlandse Zorgautoriteit, februari 2012, pagina 24). De zorg wordt geleverd door multidisciplinaire teams, waarbij in elk geval (brandwonden)chirurgen, anesthesiologen/ intensivisten, verpleegkundigen, revalidatiedeskundigen, psychosociale ondersteuning en diëtisten zijn betrokken. Ook zijn specifieke bouwkundige voorzieningen zoals een speciaal ingerichte operatiekamer, overdruk op verpleegafdelingen, isolatiekamers, warmtehemels en klimaatregeling tot 28°C vereist;  
 
-10.  *Gespecialiseerde psychotraumazorg aan specifieke doelgroepen.* Het gaat hierbij om derdelijns psychotraumazorg aan oorlogsslachtoffers, vluchtelingen en asielzoekers. Hierbij geldt de voorwaarde dat de zorg wordt geleverd door een zorgaanbieder die eveneens de landelijke kennis-, onderzoeks- en opleidingsfunctie voor curatieve geestelijke gezondheidszorg aan getraumatiseerden als gevolg van (systematisch) geweld of misbruik met als bijzondere doelgroepen oorlogsslachtoffers, veteranen, vluchtelingen, asielzoekers en personeel van de politie uitvoert;  
+10.  *Gespecialiseerde en derdelijns psychotraumazorg voor zover het de kennis- en expertisefunctie betreft en wordt geleverd door een zorgaanbieder met een landelijke kennis- en expertisefunctie.* Het gaat hierbij om het verlenen van derdelijns psychotraumazorg aan mensen met complexe psychotraumaklachten, die het gevolg zijn van bijvoorbeeld ernstige incidenten, geweld, of misbruik, waarvoor een landelijke kennisinfrastructuur noodzakelijk is. De genoemde derdelijns psychotraumazorg wordt geleverd door een zorgaanbieder die ook de landelijke kennis- en expertisefunctie voor gespecialiseerde psychotraumazorg bezit. Tevens geldt de voorwaarde dat het landelijke centrum expertise borgt of ontwikkelt voor het bieden van psychotraumazorg aan specifieke doelgroepen, en deze expertise vertaalt in specifiek behandelaanbod;  
 
 11.  *Zorg aan Joodse oorlogsslachtoffers.* Het betreft specifieke zorg voor Joodse oorlogsslachtoffers die samenhangt met het verwerken van de gevolgen van de Tweede Wereldoorlog. Hierbij geldt de voorwaarde dat de zorg wordt geleverd door een zorgaanbieder die specifiek is toegerust voor zorgverlening aan deze doelgroep;  
 

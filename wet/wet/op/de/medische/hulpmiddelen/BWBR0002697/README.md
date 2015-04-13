@@ -86,11 +86,11 @@ Het ontwerp van een algemene maatregel van bestuur als bedoeld in een der artike
 2. Onze Minister kan de hem in het eerste lid toekomende bevoegdheid delegeren aan een door hem aan te wijzen ander orgaan van de centrale overheid. 
 3.  Een krachtens het tweede lid vastgesteld besluit wordt in de *Staatscourant* bekend gemaakt.
 
-###Artikel 9 
+### Artikel  9  
 
-1. Een vergunning of ontheffing kan onder beperkingen worden verleend. Aan een vergunning of ontheffing kunnen voorschriften worden verbonden.
-2.  Ingeval regelen worden vastgesteld krachtens een der artikelen 2-5, kunnen tevens bij of krachtens algemene maatregel van bestuur met betrekking tot vergunningen en ontheffingen nadere regelen worden gesteld en kan bij algemene maatregel van bestuur worden bepaald, dat ter zake van de behandeling van een aanvrage om vergunning of ontheffing een vergoeding overeenkomstig bij de maatregel gestelde regelen verschuldigd is. Ingeval regelen worden vastgesteld krachtens artikel 7 kunnen daarbij overeenkomstige voorzieningen worden getroffen.
-3.  Het is verboden ter zake van een aanvrage om vergunning of ontheffing onjuiste of onvolledige gegevens te verstrekken.
+1.  Een vergunning of ontheffing kan onder beperkingen worden verleend. Aan een vergunning of ontheffing kunnen voorschriften worden verbonden.   
+2.   Ingeval regelen worden vastgesteld krachtens een der artikelen 2-5, kunnen tevens bij of krachtens algemene maatregel van bestuur met betrekking tot vergunningen en ontheffingen nadere regelen worden gesteld. Ingeval regelen worden vastgesteld krachtens artikel 7 kunnen daarbij overeenkomstige voorzieningen worden getroffen.   
+3.   Het is verboden ter zake van een aanvrage om vergunning of ontheffing onjuiste of onvolledige gegevens te verstrekken.  
 
 ###Artikel 10 
 
@@ -127,7 +127,6 @@ Tegen een beschikking inzake goedkeuring kan een belanghebbende beroep instellen
 Onze Minister zendt binnen vijf jaar na de inwerkingtreding van de wet waarbij dit artikel in deze wet is ingevoegd, en vervolgens telkens na vier jaar aan de Staten-Generaal een verslag over de doeltreffendheid en doelmatigheid van het functioneren van de krachtens artikel 10 aangewezen instellingen.
 
 ### Artikel  10g  
-Treedt in werking per 01-01-2015 
 
 1.  De kosten die samenhangen met de bij of krachtens deze wet door Onze Minister of door het op grond van artikel 8, tweede lid, aangewezen andere orgaan van de centrale overheid, dan wel ingevolge de krachtens artikel 3, eerste lid, vastgestelde regels, verrichte werkzaamheden en afgegeven documenten, kunnen ten laste worden gebracht van degene ten behoeve van wie deze werkzaamheden worden verricht of de documenten worden afgegeven.   
 2.  De bedragen ter vergoeding van de kosten worden bij ministeriële regeling vastgesteld.  

@@ -65,7 +65,7 @@ c. gegevens, door de directeur uit andere bron verkregen.
 
 ### Artikel  5  
 
-1. Een vordering tot overgifte van het rijbewijs, bedoeld in artikel 130, tweede lid, van de wet geschiedt in de volgende gevallen: 
+Een vordering tot overgifte van het rijbewijs, bedoeld in artikel 130, tweede lid, van de wet geschiedt in de volgende gevallen: 
 
 a. betrokkene heeft een motorrijtuig bestuurd onder invloed van drogerende stoffen, andere dan alcohol;  
 
@@ -85,21 +85,19 @@ h. betrokkene heeft een aanrijding veroorzaakt door het intrappen van het onjuis
 
 i. betrokkene is bewust ingereden op een andere weggebruiker;  
 
-j. bij betrokkene wordt als bestuurder van een motorrijtuig een adem- of bloedalcoholgehalte geconstateerd dat gelijk is aan of hoger is dan 570 µg/l, respectievelijk 1,3‰;  
+j. bij betrokkene wordt als bestuurder van een motorrijtuig een adem- of bloedalcoholgehalte geconstateerd dat gelijk is aan of hoger is dan 785 µg/l, respectievelijk 1,8‰;  
 
-k. bij betrokkene wordt, in de hoedanigheid van beginnende bestuurder, een adem- of bloedalcoholgehalte geconstateerd dat gelijk is aan of hoger is dan 435 µg/l, respectievelijk 1,0‰;  
+k. bij betrokkene wordt, in de hoedanigheid van beginnende bestuurder, een adem- of bloedalcoholgehalte geconstateerd dat gelijk is aan of hoger is dan 570 µg/l, respectievelijk 1,3‰;  
 
-l. betrokkene heeft geweigerd mee te werken aan een onderzoek als bedoeld in artikel 8 van de wet, tenzij de constatering heeft plaatsgevonden ten aanzien van een bestuurder van een motorrijtuig van de categorie AM;  
+l. vervallen;  
 
-m. ten aanzien van betrokkene is binnen een periode van vijf jaar ten minste vier maal proces-verbaal opgemaakt op verdenking van overtreding van artikel 8, tweede, derde of vierde lid, van de wet, waarbij de laatste overtreding moet zijn begaan als houder van een rijbewijs;  
+m. ten aanzien van betrokkene is binnen een periode van vijf jaar ten minste drie maal proces-verbaal opgemaakt op verdenking van overtreding van artikel 8, tweede, derde of vierde lid, van de wet, waarbij de laatste overtreding moet zijn begaan als houder van een rijbewijs;  
 
 n. betrokkene heeft twee maal als beginnende bestuurder een of meer van de in bijlage 1, onderdeel A, subonderdeel IV, opgenomen feiten begaan en voor deze feiten is hij tijdens of na de in artikel 1, onder beginnende bestuurder, genoemde termijn onherroepelijk veroordeeld, tenzij voor het feit in eerste instantie een strafbeschikking als bedoeld in artikel 257b van het Wetboek van Strafvordering is uitgevaardigd, dan wel voor deze feiten is tijdens of na die termijn ten aanzien van hem een onherroepelijk geworden strafbeschikking als bedoeld in artikel 257a van het Wetboek van Strafvordering uitgevaardigd;  
 
 o. ten aanzien van betrokkene is tijdens de duur van het alcoholslotprogramma proces-verbaal opgemaakt op verdenking van overtreding van artikel 8, derde juncto vierde lid, van de wet of artikel 9, negende lid, van de wet;  
 
-p. betrokkene, die voor zijn achttiende verjaardag in het kader van begeleid rijden een rijbewijs voor de categorie B heeft behaald, heeft in de periode tot zijn achttiende verjaardag een motorrijtuig bestuurd zonder een op de begeleiderspas geregistreerde begeleider, dan wel met een begeleider van wie hij weet dat deze onder zodanige invloed verkeert van een stof, waarvan het gebruik - al dan niet in combinatie met het gebruik van een andere stof - de rijvaardigheid kan verminderen, dat deze niet tot behoorlijk begeleiden in staat moet worden geacht.   
-2.  In de gevallen, bedoeld in het eerste lid, onderdeel j, vindt geen vordering tot overgifte plaats, indien de constatering heeft plaatsgevonden ten aanzien van een bestuurder van een motorrijtuig van de categorie AM en het een adem- of bloedalcoholgehalte betreft dat gelijk is aan dan wel hoger is dan 570 µg/l respectievelijk 1,3‰, maar lager dan 785 µg/l respectievelijk 1,8‰.   
-3.  In de gevallen, bedoeld in het eerste lid, onderdeel k, vindt geen vordering tot overgifte plaats, indien de constatering heeft plaatsgevonden ten aanzien van een bestuurder van een motorrijtuig van de categorie AM en het een adem- of bloedalcoholgehalte betreft dat gelijk is aan dan wel hoger is dan 435 µg/l respectievelijk 1,0‰, maar lager dan 785 µg/l respectievelijk 1,8‰. 
+p. betrokkene, die voor zijn achttiende verjaardag in het kader van begeleid rijden een rijbewijs voor de categorie B heeft behaald, heeft in de periode tot zijn achttiende verjaardag een motorrijtuig bestuurd zonder een op de begeleiderspas geregistreerde begeleider, dan wel met een begeleider van wie hij weet dat deze onder zodanige invloed verkeert van een stof, waarvan het gebruik - al dan niet in combinatie met het gebruik van een andere stof - de rijvaardigheid kan verminderen, dat deze niet tot behoorlijk begeleiden in staat moet worden geacht. 
 
 ### Artikel  6  
 
@@ -173,17 +171,15 @@ b. kosten van de uitvoering van de maatregel, die € 216,– bedragen.
 
 1.  Het CBR besluit tot oplegging van een educatieve maatregel alcohol en verkeer indien: 
 
-a. bij betrokkene een adem- of bloedalcoholgehalte is geconstateerd dat gelijk is aan of hoger is dan 435 µg/l, respectievelijk 1,0‰, maar lager is dan 570 µg/l, respectievelijk 1,3‰;  
+a. bij betrokkene een adem- of bloedalcoholgehalte is geconstateerd dat gelijk is aan of hoger is dan 435 µg/l, respectievelijk 1,0‰, maar lager is dan 785 µg/l, respectievelijk 1,8‰, of indien betrokkene heeft geweigerd mee te werken aan een onderzoek als bedoeld in artikel 8, tweede of derde lid, van de wet;  
 
-b. bij betrokkene in de hoedanigheid van beginnende bestuurder een adem- of bloedalcoholgehalte is geconstateerd dat gelijk is aan of hoger is dan 350 µg/l, respectievelijk 0,8‰, maar lager is dan 435 µg/l, respectievelijk 1,0‰;  
+b. bij betrokkene in de hoedanigheid van beginnende bestuurder een adem- of bloedalcoholgehalte is geconstateerd dat gelijk is aan of hoger is dan 350 µg/l, respectievelijk 0,8‰, maar lager is dan 570 µg/l, respectievelijk 1,3‰, of indien betrokkene heeft geweigerd mee te werken aan een onderzoek als bedoeld in artikel 8, tweede of derde lid, van de wet;  
 
-c. ten aanzien van betrokkene binnen een periode van vijf jaar tenminste twee maal proces-verbaal opgemaakt op verdenking van overtreding van artikel 8, tweede, derde of vierde lid, van de wet, waarbij bij één van die verdenkingen een adem- of bloedalcoholgehalte is geconstateerd dat hoger is dan 220 µg/l, respectievelijk 0,5‰, dan wel hoger is dan 88 µg/l, respectievelijk 0,2‰ indien een van de feiten is begaan als beginnende bestuurder,  
+c. ten aanzien van betrokkene binnen een periode van vijf jaar tenminste twee maal proces-verbaal opgemaakt op verdenking van overtreding van artikel 8, tweede, derde of vierde lid, van de wet, waarbij bij één van die verdenkingen een adem- of bloedalcoholgehalte is geconstateerd dat hoger is dan 220 µg/l, respectievelijk 0,5‰, dan wel hoger is dan 88 µg/l, respectievelijk 0,2‰ indien een van de feiten is begaan als beginnende bestuurder, of waarbij hij ten minste eenmaal heeft geweigerd mee te werken aan een onderzoek als bedoeld in artikel 8, tweede of derde lid;  
 
 d. betrokkene op grond van artikel 8, onderdeel c, niet in aanmerking komt voor een lichte educatieve maatregel alcohol en verkeer;  
 
-e. betrokkene op grond van artikel 18, eerste lid, onderdeel g, niet in aanmerking komt voor het alcoholslotprogramma en aan hem de afgelopen vijf jaar niet eerder een educatieve maatregel alcohol en verkeer is opgelegd; 
-
-f. betrokkene op grond van artikel 18, eerste lid, onderdeel h, niet in aanmerking komt voor het alcoholslotprogramma en aan hem de afgelopen vijf jaar niet eerder een educatieve maatregel alcohol en verkeer is opgelegd.    
+e. betrokkene weigert mee te werken aan een onderzoek als bedoeld in artikel 8, tweede of derde lid, van de wet.    
 2.  Artikel 9 is van overeenkomstige toepassing.  
 
 ### Artikel  12  
@@ -266,58 +262,6 @@ b. kosten met betrekking tot de uitvoering van de maatregel, die € 708,– bed
 ### §  6  
 
 ####Alcoholslotprogramma
-
-### Artikel  17  
-
-1. Het CBR besluit dat betrokkene zich dient te onderwerpen aan het alcoholslotprogramma indien:
-
-a. bij betrokkene een adem- of bloedalcoholgehalte is geconstateerd dat gelijk is aan of hoger is dan 570 µg/l, respectievelijk 1,3‰, maar lager is dan 785 µg/l, respectievelijk 1,8‰;  
-
-b. bij betrokkene, in de hoedanigheid van beginnende bestuurder, een adem- of bloedalcoholgehalte is geconstateerd dat gelijk is aan of hoger is dan 435 µg/l, respectievelijk 1,0‰, maar lager is dan 785 µg/l, respectievelijk 1,8‰;  
-
-c. betrokkene heeft geweigerd mee te werken aan een onderzoek als bedoeld in artikel 8, tweede of derde lid, van de wet;  
-
-d. ten aanzien van betrokkene binnen een periode van vijf jaar tenminste drie maal proces-verbaal opgemaakt op verdenking van overtreding van artikel 8, tweede, derde of vierde lid, van de wet, waarbij bij één van die verdenkingen een adem- of bloedalcoholgehalte is geconstateerd dat hoger is dan 220 µg/l, respectievelijk 0,5‰, dan wel 88 µg/l, respectievelijk 0,2‰ indien een van de feiten is begaan als beginnende bestuurder, of waarbij hij ten minste eenmaal heeft geweigerd mee te werken aan een onderzoek als bedoeld in dat artikel;  
-
-e. betrokkene op grond van artikel 8, onderdelen a, d of h, niet in aanmerking komt voor een lichte educatieve maatregel alcohol en verkeer;  
-
-f. betrokkene op grond van artikel 12, onderdelen a, c of g, niet in aanmerking komt voor een educatieve maatregel alcohol en verkeer, of  
-
-g. de uitslag van het ingevolge artikel 23, eerste lid, opgelegde onderzoek geen aanleiding geeft tot ongeldigverklaring van het rijbewijs, tenzij oplegging van dit onderzoek heeft plaatsgevonden op grond van artikel 23, eerste lid, onderdelen b, onder I, of c, onder I.   
-2. In afwijking van artikel 18, eerste lid, onderdeel b, komt betrokkene in aanmerking voor oplegging van het alcoholslotprogramma indien: 
-
-a. hem in de afgelopen vijf jaar op grond van artikel 7 deelname aan een lichte educatieve maatregel alcohol en verkeer is opgelegd, maar hij op grond van artikel 23, eerste lid, onderdeel b, onder I, een onderzoek naar de geschiktheid heeft ondergaan;  
-
-b. hem in de afgelopen vijf jaar op grond van artikel 11 deelname aan een educatieve maatregel alcohol en verkeer is opgelegd, maar hij op grond van artikel 23, eerste lid, onderdeel c, onder I, een onderzoek naar de geschiktheid heeft ondergaan.  
-
-### Artikel  18  
-
-1. Betrokkene komt niet in aanmerking voor het alcoholslotprogramma indien: 
-
-a. hij de afgelopen vijf jaar aan het alcoholslotprogramma heeft deelgenomen, tenzij de doorverwijzing naar het alcoholslotprogramma plaatsvindt op basis van de uitslag van het ingevolge artikel 23, eerste lid, opgelegde onderzoek;  
-
-b. hij zich de afgelopen vijf jaar heeft moeten onderwerpen aan een onderzoek naar de geschiktheid, tenzij de doorverwijzing naar het alcoholslotprogramma plaatsvindt op basis van de uitslag van het ingevolge artikel 23, eerste lid, opgelegde onderzoek;  
-
-c. hij naar het oordeel van een medisch deskundige lijdt aan een ernstige psychiatrische stoornis of dementie, dan wel aan een langdurige lichamelijke stoornis die deelname onmogelijk maakt;  
-
-d. dat het bij de politie bekend is dat hij regelmatig drogerende stoffen, anders dan alcohol, gebruikt;  
-
-e. hij uitsluitend de beschikking had over een rijbewijs voor de categorieën A1, A2 of A, het rijbewijs voor de categorie AM niet meegerekend;  
-
-f.hij beschikt over een door het daartoe bevoegde gezag in Nederland afgegeven rijbewijs, maar op het moment van het nemen van het besluit, bedoeld in artikel 131, eerste lid, onderdeel b, van de wet niet in Nederland woonachtig is;
-
-g. de overtreding waarop de mededeling is gebaseerd, is begaan als bestuurder van een motorrijtuig van de categorie AM; 
-
-h. naar het oordeel van het CBR is aangetoond dat betrokkene op het tijdstip van het nemen van het besluit dan wel het nemen van de beslissing op bezwaar voor zijn inkomen afhankelijk was van het rijbewijs voor een of meer van de categorieën C1, C, D1 of D.   
-2.  De in het eerste lid, onderdeel h, bedoelde inkomensafhankelijkheid kan in ieder geval worden aangetoond door: 
-
-a. een of meer werkgeversverklaringen,  
-
-b. loonstrookjes,  
-
-c. een bewijs van inschrijving bij de Kamer van Koophandel, dat niet ouder is dan vier weken en waaruit blijkt dat betrokkene ingeschreven was op het in het eerste lid, onderdeel h, bedoelde tijdstip, of  
-
-d. opdrachten waaruit blijkt dat betrokkene voor het inkomen van dat rijbewijs afhankelijk is.   
 
 ### Artikel  19  
 
@@ -432,33 +376,15 @@ Het CBR besluit tot verlenging van het alcoholslotprogramma indien uit de in art
 
 1.  Het CBR besluit dat betrokkene zich dient te onderwerpen aan een onderzoek naar de geschiktheid, bedoeld in artikel 131, eerste lid, van de wet indien: 
 
-a. bij betrokkene, al dan niet in hoedanigheid van beginnende bestuurder, een adem- of bloedalcoholgehalte is geconstateerd dat gelijk is aan of hoger is dan 785 µg/l, respectievelijk 1,8‰;  
+a. bij betrokkene een adem- of bloedalcoholgehalte is geconstateerd dat gelijk is aan of hoger is dan 785 µg/l, respectievelijk 1,8‰;  
 
-b. betrokkene niet in aanmerking komt voor een lichte educatieve maatregel alcohol en verkeer op grond van: 
+b. bij betrokkene, in de hoedanigheid van beginnende bestuurder, een adem- of bloedalcoholgehalte is geconstateerd dat gelijk is aan of hoger is dan 570 µg/l, respectievelijk 1,3‰;  
 
-I.artikel 8, onderdeel b,
+c. ten aanzien van betrokkene binnen een periode van vijf jaar tenminste drie maal proces-verbaal is opgemaakt op verdenking van overtreding van artikel 8, tweede, derde of vierde lid, van de wet, waarbij bij één van die verdenkingen een adem- of bloedalcoholgehalte is geconstateerd dat hoger is dan 220 µg/l, respectievelijk 0,5‰, dan wel 88 µg/l, respectievelijk 0,2‰ indien een van de feiten is begaan als beginnende bestuurder, of waarbij hij ten minste eenmaal heeft geweigerd mee te werken aan een onderzoek als bedoeld in dat artikel;  
 
-II,artikel 8, onderdeel e,
+d. betrokkene niet in aanmerking komt voor een lichte educatieve maatregel alcohol en verkeer, op grond van een of meer van de in artikel 8 genoemde onderdelen a, b, d, e, f, g, h of i.  
 
-III.artikel 8, onderdeel f,
-
-IV.artikel 8, onderdeel g of
-
-V.artikel 8, onderdeel i; 
-
-c. betrokkene niet in aanmerking komt voor een educatieve maatregel alcohol en verkeer op grond van: 
-
-I.artikel 12, onderdeel b,
-
-II,artikel 12, onderdeel d,
-
-III.artikel 12, onderdeel e,
-
-IV.artikel 12, onderdeel f of
-
-V.artikel 12, onderdeel h; 
-
-d. betrokkene op grond van artikel 18, eerste lid, niet in aanmerking komt voor een alcoholslotprogramma, tenzij artikel 11, eerste lid, onderdeel e, van toepassing is.     
+e. betrokkene op grond van artikel 12 niet in aanmerking komt voor een educatieve maatregel alcohol en verkeer.     
 2.  Het CBR besluit voorts dat betrokkene zich dient te onderwerpen aan een onderzoek naar de rijvaardigheid, meer in het bijzonder het rijgedrag, indien betrokkene op grond van artikel 15, onderdeel d, niet in aanmerking komt voor een educatieve maatregel gedrag en verkeer.   
 3.  Het CBR besluit ten slotte dat betrokkene zich dient te onderwerpen aan een onderzoek naar de rijvaardigheid dan wel geschiktheid: 
 
@@ -516,10 +442,6 @@ b. niet voldoet aan de bij ministeriële regeling vastgestelde eisen met betrekk
 ### Artikel  28  
 
 De Regeling maatregelen rijvaardigheid en geschiktheid wordt ingetrokken. 
-
-### Artikel  29  
-
-Deze regeling treedt in werking op het tijdstip waarop de artikelen I, onderdelen A, E tot en met DD, en GG tot en met PP, en II tot en met VIII, van de wet van 4 juni 2010 tot wijziging van de Wegenverkeerswet 1994 in verband met de aanpassing van de vorderingsprocedure en de invoering van het alcoholslotprogramma (Stb. 259) in werking treden. 
 
 ### Artikel  30  
 
@@ -942,13 +864,11 @@ j. het als bestuurder van een bromfiets overschrijden van de toegestane maximums
 
 □ betrokkene is bewust ingereden op een andere weggebruiker;  
 
-□ bij betrokkene wordt als bestuurder een adem- of bloedalcoholgehalte geconstateerd dat gelijk is aan of hoger is dan 570 µg/l respectievelijk 1,3‰;  
+□ bij betrokkene wordt als bestuurder een adem- of bloedalcoholgehalte geconstateerd dat gelijk is aan of hoger is dan 785 µg/l, respectievelijk 1,8‰;  
 
-□ bij betrokkene wordt in de hoedanigheid van beginnende bestuurder een adem- of bloedalcoholgehalte geconstateerd dat gelijk is aan dan wel hoger is dan 435 µg/l, respectievelijk 1,0‰;  
+□ bij betrokkene wordt in de hoedanigheid van beginnende bestuurder een adem- of bloedalcoholgehalte geconstateerd dat gelijk is aan dan wel hoger is dan 570 µg/l, respectievelijk 1,3‰;  
 
-□ betrokkene heeft geweigerd mee te werken naar een onderzoek als bedoeld in artikel 8, tweede of derde lid, van de wet;  
-
-□ ten aanzien van betrokkene is binnen een periode van vijf jaar tenminste vier maal proces-verbaal opgemaakt op verdenking van overtreding van artikel 8, tweede, derde of vierde lid, van de wet, waarbij betrokkene ten tijde van de laatste verdenking houder van een rijbewijs was;  
+□ ten aanzien van betrokkene is binnen een periode van vijf jaar tenminste drie maal proces-verbaal opgemaakt op verdenking van overtreding van artikel 8, tweede, derde of vierde lid, van de wet, waarbij betrokkene ten tijde van de laatste verdenking houder van een rijbewijs was;  
 
 □ betrokkene heeft twee maal als beginnende bestuurder een of meer van de strafbare feiten begaan die worden genoemd in bijlage 1, onderdeel A, subonderdeel IV, bij de Regeling maatregelen rijvaardigheid en geschiktheid 2011 en voor deze feiten is hij tijdens of na de in artikel 1, onder beginnende bestuurder, van die regeling genoemde termijn onherroepelijk veroordeeld, tenzij voor het feit in eerste instantie een strafbeschikking als bedoeld in artikel 257b van het Wetboek van Strafvordering is uitgevaardigd, dan wel voor deze feiten is tijdens of na die termijn ten aanzien van hem een onherroepelijk geworden strafbeschikking als bedoeld in artikel 257a van het Wetboek van Strafvordering uitgevaardigd;  
 
