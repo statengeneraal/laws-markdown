@@ -34,7 +34,7 @@ f. de Douane.
 
 De werkgroep bestaat uit de volgende leden: 
 
-a. mr. J.M. van de Meij, officier van Justitie, arrondissementsparket Amsterdam, tevens voorzitter;  
+a. mr. J.H. van der Meij, officier van Justitie, arrondissementsparket Amsterdam, tevens voorzitter;  
 
 b. mr. R.K. Nanhkoesingh, officier van Justitie, arrondissementsparket Zeeland/West-Brabant, tevens plaatsvervangend voorzitter;  
 

@@ -4,7 +4,7 @@
 
 ####CUSTOMS CONVENTION ON THE TEMPORARY IMPORTATION OF PRIVATE ROAD VEHICLES
 
-The Contracting Parties,  *Desiring* to facilitate the development of international touring,  *Having regard* to the aims of the [Convention on Road Traffic](../../../../../../../../../../verdrag/convention/on/road/traffic/BWBV0005415/README.md), adopted by the United Nations Conference on Road and Motor Transport held at Geneva from 23 August to 19 September 1949 and opened for signature at Geneva on 19 September 1949,   *Have decided* to conclude a Convention and have agreed upon the following provisions:   
+The Contracting Parties,  *Desiring* to facilitate the development of international touring,  *Having regard* to the aims of the Convention on Road Traffic, adopted by the United Nations Conference on Road and Motor Transport held at Geneva from 23 August to 19 September 1949 and opened for signature at Geneva on 19 September 1949,   *Have decided* to conclude a Convention and have agreed upon the following provisions:   
 ### CHAPTER  I  
 
 ####Definitions
@@ -186,7 +186,7 @@ The competent customs authorities shall not require payment of import duties and
 
 ### Article  26  
 
-Customs authorities shall not have the right to require from the guaranteeing association payment of import duties and import taxes on vehicles or component parts temporarily imported when the nondischarge of the temporary importation papers has not been notified to the guaranteeing association within a year of the date of expiry of the validity of those papers. The Customs authorities shall provide the guaranteeing associations with details of the amount of import duties and import taxes within one year from the notification of the non-discharge. The guaranteeing associations' liability for these sums shall cease if such information is not furnished within this one year period. 
+Customs authorities shall not have the right to require from the guaranteeing association payment of import duties and import taxes on vehicles or component parts temporarily imported when the non-discharge of the temporary importation papers has not been notified to the guaranteeing association within a year of the date of expiry of the validity of those papers. The Customs authorities shall provide the guaranteeing associations with details of the amount of import duties and import taxes within one year from the notification of the non-discharge. The guaranteeing associations' liability for these sums shall cease if such information is not furnished within this one year period. 
 
 ### Article  27  
 
@@ -322,7 +322,7 @@ The “Carnet” is issued in English and French The dimensions are 21 x 29.7 cm
 The following information is provided by the issuing association to motorists. L'association qui a délivré le présent carnet fournit les renseignements suivants aux usagers. 
 ###‹Back cover / Extérieur du dos de la couverture›
 
-This carnet, which has been drawn up in accordance with the provisions of the Customs Conventions on the Temporary importation of Private Road Vehicles (1954) and [Commercial Road Vehicles](../../../../../../../../../../verdrag/customs/convention/on/the/temporary/importation/of/commercial/road/etc/BWBV0005229/README.md) (1956), may be used in the following countries under the guarantee of the authorized associations indicated:/ Ce carnet, qui a été élaboré selon les dispositions des Conventions douanières relatives à l'importation temporaire des véhicules routiers privés (1954) et [des véhicules routiers commerciaux](../../../../../../../../../../verdrag/customs/convention/on/the/temporary/importation/of/commercial/road/etc/BWBV0005229/README.md) (1956), peut être utilise dans les pays suivants, sous la garantie des associations autorisées ci-après: (LIST OF COUNTRIES AND AUTHORIZED ASSOCIATIONS) (LISTE DES PAYS ET ASSOCIATIONS AUTORISEES)  ![10000055041](http://wetten.overheid.nl/Illustration/10000055041)
+This carnet, which has been drawn up in accordance with the provisions of the Customs Conventions on the Temporary importation of Private Road Vehicles (1954) and Commercial Road Vehicles (1956), may be used in the following countries under the guarantee of the authorized associations indicated:/ Ce carnet, qui a été élaboré selon les dispositions des Conventions douanières relatives à l'importation temporaire des véhicules routiers privés (1954) et des véhicules routiers commerciaux (1956), peut être utilise dans les pays suivants, sous la garantie des associations autorisées ci-après: (LIST OF COUNTRIES AND AUTHORIZED ASSOCIATIONS) (LISTE DES PAYS ET ASSOCIATIONS AUTORISEES)  ![10000055041](http://wetten.overheid.nl/Illustration/10000055041)
 
 ### Annex  2  
 

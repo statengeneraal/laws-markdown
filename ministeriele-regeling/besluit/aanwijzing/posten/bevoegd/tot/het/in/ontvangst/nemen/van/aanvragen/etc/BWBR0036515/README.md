@@ -1,12 +1,13 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Besluit van de Minister van Buitenlandse Zaken van 2 februari 2015, met nr. DCV/RL-0037/2015 tot aanwijzing van posten bevoegd tot het in ontvangst nemen van aanvragen voor reisdocumenten en identiteitskaarten
+##Besluit van de Minister van Buitenlandse Zaken van 2 april 2015, nr. DCV/RL-0299/2015 tot aanwijzing van posten bevoegd tot het in ontvangst nemen van aanvragen voor reisdocumenten en identiteitskaarten
 
 De Minister van Buitenlandse Zaken,  
-Gelet op artikel 26, eerste lid, onderdeel d, derde lid en vierde lid, alsmede artikel 42, eerste lid, van de Paspoortwet;
+Gelet op artikel 26, eerste lid, onderdeel d, derde lid en vierde lid, en artikel 42, eerste lid, van de Paspoortwet;
 Besluit:    
 
 ### Artikel  1  
+Treedt in werking per 04-05-2015 
 
 1.  De hoofden van de in bijlage A genoemde consulaire posten zijn bevoegd tot het in ontvangst nemen van aanvragen voor, alsmede het uitreiken van: 
 
@@ -23,24 +24,28 @@ e. tweede paspoorten.
 3.  De hoofden van alle consulaire posten zijn bevoegd tot het in ontvangst nemen van aanvragen voor, alsmede het uitreiken van laissez-passers en noodpaspoorten.  
 
 ### Artikel  2  
+Treedt in werking per 04-05-2015 
 
 De hoofden van honorair consulaire posten zijn bevoegd tot het uitreiken van paspoorten, zoals bedoeld in artikel 1, indien veilige verzending van het reisdocument niet mogelijk is. 
 
 ### Artikel  3  
+Treedt in werking per 04-05-2015 
 
-Het besluit van de Minister van Buitenlandse Zaken van 8 december 2014, nr. DCM/RL-1540/2014 tot aanwijzing van posten bevoegd tot het in ontvangst nemen van aanvragen voor reisdocumenten en identiteitskaarten wordt ingetrokken. 
+Het besluit van de Minister van Buitenlandse Zaken van 2 februari 2015, met nr. DCV/RL-0037/2015 tot aanwijzing van posten bevoegd tot het in ontvangst nemen van aanvragen voor reisdocumenten en identiteitskaarten wordt ingetrokken. 
 
 ### Artikel  4  
+Treedt in werking per 04-05-2015 
 
-Dit besluit treedt in werking met ingang van 1 maart 2015. 
+Dit besluit treedt in werking met ingang van 4 mei 2015. 
 Dit besluit zal met de bijlagen in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Buitenlandse Zaken, namens deze, 
-W.A. van Ee,  
+W.A. van Ee  
 Directeur Consulaire Zaken en Visumbeleid   
 
 ### Bijlage  A  
+Treedt in werking per 04-05-2015 
 
 | Land  | Plaats  | Type  |
 |:---|:---|:---|
@@ -72,7 +77,6 @@ Directeur Consulaire Zaken en Visumbeleid
 | China  | Hong Kong  | Consulaat-Generaal  |
 | China  | Shanghai  | Consulaat-Generaal  |
 | Colombia  | Bogota  | Ambassade  |
-| Colombia  | Cali  | Honorair Consulaat  |
 | Costa Rica  | San Jose  | Ambassade  |
 | Cuba  | Havanna  | Ambassade  |
 | Cyprus  | Nicosia  | Ambassade  |
@@ -177,6 +181,7 @@ Directeur Consulaire Zaken en Visumbeleid
 | Zwitserland  | Bern  | Ambassade  |
 
 ### Bijlage  B  
+Treedt in werking per 04-05-2015 
 
 | Land  | Plaats  | Type  |
 |:---|:---|:---|

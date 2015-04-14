@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 15 december 2011, nr. WJZ/343240 (2780), houdende regels voor de verstrekking van bijzondere bekostiging voor het primair en speciaal onderwijs in verband met de actieplannen Basis voor Presteren en Leraar 2020 en verstrekking van subsidie in het kader van het programma Cultuureducatie met Kwaliteit (Regeling prestatiebox primair onderwijs)
 
 De Minister van Onderwijs, Cultuur en Wetenschap,  
-Gelet op [artikel 123, eerste lid, van de Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md), [artikel 120, eerste lid, van de Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md), de [artikelen 2](../../../../../../wet/wet/overige/ocw-subsidies/BWBR0009458/README.md) en [4 van de Wet overige OCW-subsidies](../../../../../../wet/wet/overige/ocw-subsidies/BWBR0009458/README.md) en [artikel 4 van het Besluit informatievoorziening WPO/WEC](../../../../../../AMvB/besluit/informatievoorziening/wpowec/BWBR0018065/README.md);
+Gelet op artikel 123, eerste lid, van de Wet op het primair onderwijs, artikel 120, eerste lid, van de Wet op de expertisecentra, de artikelen 2 en 4 van de Wet overige OCW-subsidies en artikel 4 van het Besluit informatievoorziening WPO/WEC;
 Besluit:    
 
 ### Artikel  1  
@@ -14,13 +14,13 @@ In deze regeling wordt verstaan onder:
 
 a.  *minister:* Minister van Onderwijs, Cultuur en Wetenschap;  
 
-b.  *bevoegd gezag:* bevoegd gezag als bedoeld in [artikel 1 van de Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md) of [artikel 1 van de Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md);  
+b.  *bevoegd gezag:* bevoegd gezag als bedoeld in artikel 1 van de Wet op het primair onderwijs of artikel 1 van de Wet op de expertisecentra;  
 
-c.  *basisschool:* basisschool als bedoeld in [artikel 1 van de Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md);  
+c.  *basisschool:* basisschool als bedoeld in artikel 1 van de Wet op het primair onderwijs;  
 
-d.  *speciale school voor basisonderwijs:* speciale school voor basisonderwijs als bedoeld in [artikel 1 van de Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md);  
+d.  *speciale school voor basisonderwijs:* speciale school voor basisonderwijs als bedoeld in artikel 1 van de Wet op het primair onderwijs;  
 
-e.  *school voor (voortgezet) speciaal onderwijs:* school voor speciaal onderwijs, voortgezet speciaal onderwijs of speciaal en voortgezet speciaal onderwijs als bedoeld in [artikel 1 van de Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md);  
+e.  *school voor (voortgezet) speciaal onderwijs:* school voor speciaal onderwijs, voortgezet speciaal onderwijs of speciaal en voortgezet speciaal onderwijs als bedoeld in artikel 1 van de Wet op de expertisecentra;  
 
 f.  *school:* basisschool, speciale school voor basisonderwijs of school voor speciaal onderwijs, speciaal voortgezet onderwijs of speciaal en voortgezet speciaal onderwijs;  
 
@@ -28,7 +28,7 @@ g.  *Actieplannen:* de Actieplannen Basis voor Presteren en Leraar 2020 – een 
 
 h.  *bestuursakkoord:* Convenant tussen de Staat der Nederlanden en de PO-Raad ter uitvoering van de Actieplannen;  
 
-i.  *bijzondere bekostiging:* bijzondere bekostiging als bedoeld in [artikel 123, eerste lid, van de Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md) of [artikel 120, eerste lid, van de Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md);  
+i.  *bijzondere bekostiging:* bijzondere bekostiging als bedoeld in artikel 123, eerste lid, van de Wet op het primair onderwijs of artikel 120, eerste lid, van de Wet op de expertisecentra;  
 
 j.  *schooljaar:* het tijdvak van 1 augustus tot en met 31 juli daaraanvolgend;  
 
@@ -63,9 +63,9 @@ l.  *schoolleider:* directeur of adjunctdirecteur van een school.
 
 ####Verstrekking bijzondere gegevens
 
-1.  Met betrekking tot de aanspraken op bijzondere bekostiging en de subsidie op grond van deze regeling en in aanvulling op de gegevens, bedoeld in de [Regeling structurele gegevenslevering WPO/WEC](../../../../../../ministeriele-regeling/regeling/structurele/gegevenslevering/wpowec/BWBR0022542/README.md), stelt het bevoegd gezag aan de minister jaarlijks, voor al de scholen waarvan hij het bevoegd gezag is gezamenlijk, gegevens ter beschikking omtrent de wijze waarop de verstrekte bijzondere bekostiging en subsidie heeft bijgedragen tot het daarmee beoogde doel. Daarbij worden in elk geval gegevens verstrekt omtrent de hoogte van de bestede bedragen per activiteit.   
+1.  Met betrekking tot de aanspraken op bijzondere bekostiging en de subsidie op grond van deze regeling en in aanvulling op de gegevens, bedoeld in de Regeling structurele gegevenslevering WPO/WEC, stelt het bevoegd gezag aan de minister jaarlijks, voor al de scholen waarvan hij het bevoegd gezag is gezamenlijk, gegevens ter beschikking omtrent de wijze waarop de verstrekte bijzondere bekostiging en subsidie heeft bijgedragen tot het daarmee beoogde doel. Daarbij worden in elk geval gegevens verstrekt omtrent de hoogte van de bestede bedragen per activiteit.   
 2.  De bijzondere gegevens worden in de vorm van een beknopt verslag per doel als bedoeld in artikel 2, als afzonderlijke bijlage tegelijkertijd aangeleverd bij het jaarverslag dat betrekking heeft op het kalenderjaar waarin de bijzondere bekostiging en subsidie is ontvangen of besteed.   
-3.  Voor de schooljaren 2010–2011 tot en met 2014–2015 heeft de verplichting tot het verstrekken van bijzondere gegevens tevens betrekking op de aanspraken op grond van de [artikelen 28](../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md) en [28a van het Besluit bekostiging WPO](../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md), waarin is bepaald dat voor de bestrijding van onderwijsachterstanden onder bepaalde voorwaarden aanvullende bekostiging personeelskosten kan worden toegekend.  
+3.  Voor de schooljaren 2010–2011 tot en met 2014–2015 heeft de verplichting tot het verstrekken van bijzondere gegevens tevens betrekking op de aanspraken op grond van de artikelen 28 en 28a van het Besluit bekostiging WPO, waarin is bepaald dat voor de bestrijding van onderwijsachterstanden onder bepaalde voorwaarden aanvullende bekostiging personeelskosten kan worden toegekend.  
 
 ### Artikel  6  
 
@@ -73,14 +73,14 @@ l.  *schoolleider:* directeur of adjunctdirecteur van een school.
 
 1.  De volgende regelingen worden ingetrokken: 
 
-a. [Regeling bestemmingsbox](../../../../../../ministeriele-regeling/regeling/bestemmingsbox/BWBR0027811/README.md); en  
+a. Regeling bestemmingsbox; en  
 
-b. [Regeling bijzondere bekostiging taal, rekenen en opbrengstgericht werken](../../../../../../ministeriele-regeling/regeling/bijzondere/bekostiging/taal/rekenen/en/opbrengstgericht/werken/BWBR0027810/README.md).     
-2.  Bijzondere bekostiging voor het schooljaar 2011–2012 verstrekt op grond van de [regeling, bedoeld in het eerste lid, onder b](../../../../../../ministeriele-regeling/regeling/bijzondere/bekostiging/taal/rekenen/en/opbrengstgericht/werken/BWBR0027810/README.md), wordt geacht te zijn verstrekt op grond van deze regeling.  
+b. Regeling bijzondere bekostiging taal, rekenen en opbrengstgericht werken.     
+2.  Bijzondere bekostiging voor het schooljaar 2011–2012 verstrekt op grond van de regeling, bedoeld in het eerste lid, onder b, wordt geacht te zijn verstrekt op grond van deze regeling.  
 
 ### Artikel  7  
 
-####Wijziging [Regeling bekostiging personeel PO 2011–2012](../../../../../../ministeriele-regeling/regeling/bekostiging/personeel/po/2011–2012/en/aanpassing/bedragen/etc/BWBR0030618/README.md)
+####Wijziging Regeling bekostiging personeel PO 2011–2012
 
 Wijzigt de Regeling bekostiging personeel PO 2011–2012. 
 

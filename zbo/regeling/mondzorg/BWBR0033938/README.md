@@ -2,7 +2,7 @@
 
 ##Regeling mondzorg
 
-Ingevolge de [artikelen 36 derde lid](../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md), [37 eerste lid, aanhef en onder a](../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md), [38 derde en zevende lid van de Wet marktordening gezondheidszorg](../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) (Wmg), heeft de Nederlandse Zorgautoriteit (NZa) de volgende regeling vastgesteld: Regeling mondzorg.   
+Ingevolge de artikelen 36 derde lid, 37 eerste lid, aanhef en onder a, 38 derde en zevende lid van de Wet marktordening gezondheidszorg (Wmg), heeft de Nederlandse Zorgautoriteit (NZa) de volgende regeling vastgesteld: Regeling mondzorg.   
 ### 1  
 
 ####Reikwijdte regeling
@@ -76,7 +76,7 @@ De prijs voor een (deel van een) prestatie van een zorgaanbieder.
 
 * een AWBZ-verzekeraar;  
 
-* een particuliere ziektekostenverzekeraar, zijnde een financiële onderneming die ingevolge de [Wet op het financieel toezicht](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) in Nederland het bedrijf van verzekeraar mag uitoefenen.      
+* een particuliere ziektekostenverzekeraar, zijnde een financiële onderneming die ingevolge de Wet op het financieel toezicht in Nederland het bedrijf van verzekeraar mag uitoefenen.      
 ### 3.11  
 
 ####Zitting
@@ -184,7 +184,7 @@ De zorgaanbieder is verplicht om op verzoek van de consument of diens verzekeraa
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking op 1 mei 2013. Ingevolge [artikel 20, tweede lid, onderdeel a, van de Wet marktordening gezondheidszorg](../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) (Wmg) zal deze regeling in de Staatscourant worden geplaatst.      Deze regeling kan worden aangehaald als: 'Regeling mondzorg'.  
+Deze regeling treedt in werking op 1 mei 2013. Ingevolge artikel 20, tweede lid, onderdeel a, van de Wet marktordening gezondheidszorg (Wmg) zal deze regeling in de Staatscourant worden geplaatst.      Deze regeling kan worden aangehaald als: 'Regeling mondzorg'.  
 
 de Raad van Bestuur van de Nederlandse Zorgautoriteit, 
 T.W. Langejan  

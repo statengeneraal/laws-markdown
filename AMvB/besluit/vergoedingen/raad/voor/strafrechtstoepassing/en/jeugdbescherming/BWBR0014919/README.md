@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Justitie van 27 november 2002, directie Wetgeving, nr. 5198842/02/6;
 
-Gelet op [artikel 7 van de Tijdelijke instellingswet Raad voor strafrechtstoepassing en jeugdbescherming](../../../../../../../../../wet/instellingswet/raad/voor/strafrechtstoepassing/en/jeugdbescherming/BWBR0011940/README.md);
+Gelet op artikel 7 van de Tijdelijke instellingswet Raad voor strafrechtstoepassing en jeugdbescherming;
 
 De Raad van State gehoord (advies van 20 december 2002, no. W03.02.0542/I);
 
@@ -19,9 +19,9 @@ In dit besluit wordt verstaan onder:
 
 a.  *Raad:* de Raad voor strafrechtstoepassing en jeugdbescherming;  
 
-b.  *wet:* de [Instellingswet Raad voor strafrechtstoepassing en jeugdbescherming](../../../../../../../../../wet/instellingswet/raad/voor/strafrechtstoepassing/en/jeugdbescherming/BWBR0011940/README.md);  
+b.  *wet:* de Instellingswet Raad voor strafrechtstoepassing en jeugdbescherming;  
 
-c.  *sectievoorzitter:* de voorzitter van een sectie, als bedoeld in [artikel 11 van de wet](../../../../../../../../../wet/instellingswet/raad/voor/strafrechtstoepassing/en/jeugdbescherming/BWBR0011940/README.md);  
+c.  *sectievoorzitter:* de voorzitter van een sectie, als bedoeld in artikel 11 van de wet;  
 
 d.  *bestuur:* het bestuur van de Raad, bestaande uit de voorzitter, de sectievoorzitters en de voorzitter van de rechtspraakkamer van de Raad;  
 
@@ -38,32 +38,32 @@ g.  *vergadering:* plenaire vergadering van de Raad, vergadering van het bestuur
 
 ### Artikel  3  
 
-1.  De leden en plaatsvervangende leden van het bestuur, een sectie, een beroepscommissie en een rechtspraakkamer ontvangen een vergoeding per vergadering van 2,75% van het maximum van salarisschaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md).   
+1.  De leden en plaatsvervangende leden van het bestuur, een sectie, een beroepscommissie en een rechtspraakkamer ontvangen een vergoeding per vergadering van 2,75% van het maximum van salarisschaal 18 van bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984.   
 2.  De algemeen voorzitter, de sectievoorzitter, de voorzitter van een beroepscommissie en de voorzitter van een rechtspraakkamer, ontvangen een vergoeding per vergadering van 130% van de hoogte van de vergoeding, bedoeld in het eerste lid.  
 
 ### Artikel  4  
 
-1.  De leden en plaatsvervangende leden van een preadviescommissie ontvangen een vergoeding per vergadering van 2,25% van het maximum van salarisschaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md).   
+1.  De leden en plaatsvervangende leden van een preadviescommissie ontvangen een vergoeding per vergadering van 2,25% van het maximum van salarisschaal 18 van bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984.   
 2.  De voorzitter van de preadviescommissie ontvangt een vergoeding per vergadering van 130% van de hoogte van de vergoeding bedoeld in het eerste lid.   
 3.  De voorzitter en de leden van de preadviescommissie die een bezoek afleggen aan een plaats waar een vrijheidsstraf, vrijheidsbeperkende straf, vrijheidsbenemende maatregel of vrijheidsbeperkende maatregel ten wordt uitvoer gelegd, ontvangt per bezoek een vergoeding van gelijke hoogte als in artikel 3.  
 
 ### Artikel  5  
 
-De leden ontvangen een vergoeding per bijeenkomst van 2% van het maximum van salarisschaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) voor het deelnemen aan overige bijeenkomsten die verband houden met de uitoefening van de taken van de Raad. 
+De leden ontvangen een vergoeding per bijeenkomst van 2% van het maximum van salarisschaal 18 van bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984 voor het deelnemen aan overige bijeenkomsten die verband houden met de uitoefening van de taken van de Raad. 
 
 ### Artikel  6  
 
-1.  De voorzitter, de leden en de plaatsvervangende leden van een beroepscommissie, ontvangen een vergoeding per zitting. De vergoeding is van gelijke hoogte als de vergoeding die ingevolge [artikel 38, eerste lid, onderdeel b, van het Besluit rechtspositie rechterlijke ambtenaren](../../../../../../../../../AMvB/besluit/rechtspositie/rechterlijke/ambtenaren/BWBR0006530/README.md) wordt toegekend.   
+1.  De voorzitter, de leden en de plaatsvervangende leden van een beroepscommissie, ontvangen een vergoeding per zitting. De vergoeding is van gelijke hoogte als de vergoeding die ingevolge artikel 38, eerste lid, onderdeel b, van het Besluit rechtspositie rechterlijke ambtenaren wordt toegekend.   
 2.  Bij de afdoening van beroepszaken in een uitsluitend schriftelijke procedure wordt voor de afdoening van 15 beroepszaken een vergoeding toegekend van gelijke hoogte als de vergoeding voor één zitting als bedoeld in het eerste lid.   
 3.  Bij de behandeling van verzoeken tot schorsing wordt voor de behandeling van 20 schorsingsverzoeken een vergoeding toegekend van gelijke hoogte, als de vergoeding voor één zitting als bedoeld in het eerste lid.  
 
 ### Artikel  7  
 
-De leden en de plaatsvervangende leden van de Raad hebben overeenkomstig het [Reisbesluit binnenland](../../../../../../../../../AMvB/reisbesluit/binnenland/BWBR0005889/README.md) en het [Reisbesluit buitenland](../../../../../../../../../AMvB/reisbesluit/buitenland/BWBR0006842/README.md) recht op vergoeding wegens reis- en verblijfkosten. 
+De leden en de plaatsvervangende leden van de Raad hebben overeenkomstig het Reisbesluit binnenland en het Reisbesluit buitenland recht op vergoeding wegens reis- en verblijfkosten. 
 
 ### Artikel  8  
 
-De artikelen 3, eerste lid, en 4, eerste en derde lid, zijn van overeenkomstige toepassing op de vergoeding van de werkzaamheden van personen als bedoeld in [artikel 14, eerste lid, van de wet](../../../../../../../../../wet/instellingswet/raad/voor/strafrechtstoepassing/en/jeugdbescherming/BWBR0011940/README.md). 
+De artikelen 3, eerste lid, en 4, eerste en derde lid, zijn van overeenkomstige toepassing op de vergoeding van de werkzaamheden van personen als bedoeld in artikel 14, eerste lid, van de wet. 
 
 ### Artikel  9  
 
