@@ -53,7 +53,7 @@ b. een school tot en met 31 juli 1996 een door hem aan te wijzen opleiding die n
 9.  Elk verzoek, bedoeld in het eerste lid, wordt door Onze minister toegezonden aan de provincie die het aangaat. Zo spoedig mogelijk, doch uiterlijk vóór 1 januari 1991, stellen provinciale staten Onze minister in kennis van hun oordeel over deze verzoeken. Het bepaalde in de eerste volzin is van overeenkomstige toepassing met betrekking tot verzoeken die de gemeenten Amsterdam, Rotterdam, 's-Gravenhage en Utrecht aangaan.   
 C.  
 
-1.  Bij de samenstelling van het plan van spreiding en situering wordt tevens uitgegaan van de verzoeken, ingediend door of namens een of meer bevoegde gezagsorganen van dagscholen voor middelbaar beroepsonderwijs die zijn opgenomen in het plan van scholen dat krachtens [artikel 65 van de Wet op het voortgezet onderwijs](../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) in 1990 wordt vastgesteld.  
+1.  Bij de samenstelling van het plan van spreiding en situering wordt tevens uitgegaan van de verzoeken, ingediend door of namens een of meer bevoegde gezagsorganen van dagscholen voor middelbaar beroepsonderwijs die zijn opgenomen in het plan van scholen dat krachtens artikel 65 van de Wet op het voortgezet onderwijs in 1990 wordt vastgesteld.  
 
 2.  Het bepaalde in onderdeel B is van overeenkomstige toepassing met dien verstande dat in het tweede lid in plaats van 1 september 1990 wordt gelezen: 1 november 1990, en in het derde lid in plaats van 1 augustus 1994 telkens wordt gelezen: in het vijfde schooljaar na de aanvang van de bekostiging uit 's Rijks kas.  
 
@@ -73,7 +73,7 @@ E.
 
 2.  Indien aan een verzoek om opneming van een school in het plan van spreiding en situering geen gevolg is gegeven, worden de redenen hiervan bij de toezending van het plan aan de aanvrager medegedeeld.    
 F. Indien tegen een besluit als bedoeld in onderdeel *E*, tweede lid, beroep is ingesteld en de uitspraak strekt tot opneming van een school in het plan van spreiding en situering, brengt Onze Minister de school voor bekostiging uit 's Rijks kas in aanmerking met ingang van 1 augustus van het jaar, volgend op dat van de uitspraak.   
-G.   [Artikel 64a van de Wet op het voortgezet onderwijs](../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) is vanaf 1 augustus 1991 niet van toepassing op dagscholen voor middelbaar beroepsonderwijs waarvan de bekostiging uit 's Rijks kas de voortzetting vormt van de bekostiging ingevolge:  
+G.   Artikel 64a van de Wet op het voortgezet onderwijs is vanaf 1 augustus 1991 niet van toepassing op dagscholen voor middelbaar beroepsonderwijs waarvan de bekostiging uit 's Rijks kas de voortzetting vormt van de bekostiging ingevolge:  
 
 a. onderdeel A, eerste lid, of  
 
@@ -109,19 +109,19 @@ h. Eindexamenbesluit m.m.o. (*Stb.* 1973, 38), en
 
 i. Eindexamenbesluit dagscholen m.e.a.o. (*Stb.* 1971, 670).    
 
-2.  Onverminderd het bepaalde in de onderdelen H, derde lid, I en M, vervallen met ingang van 1 augustus 1991 alle voorschriften van het Besluit van 7 december 1973, houdende uitvoering van [artikel 24, derde lid, van de Wet op het voortgezet onderwijs](../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) (*Stb.* 1973, 620) voor zover die betrekking hebben op dagscholen voor middelbaar beroepsonderwijs.  
+2.  Onverminderd het bepaalde in de onderdelen H, derde lid, I en M, vervallen met ingang van 1 augustus 1991 alle voorschriften van het Besluit van 7 december 1973, houdende uitvoering van artikel 24, derde lid, van de Wet op het voortgezet onderwijs (*Stb.* 1973, 620) voor zover die betrekking hebben op dagscholen voor middelbaar beroepsonderwijs.  
 
-3.  Onverminderd het bepaalde in de onderdelen H, derde lid, I en M, wordt met ingang van 1 augustus 1991 ingetrokken het Besluit van 13 maart 1987, houdende aanwijzing ingevolge [artikel 29, tweede lid tweede volzin, van de Wet op het voortgezet onderwijs](../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) van de afdelingen middelbaar horeca-onderwijs (*Stb.* 1987, 138) en vervallen met ingang van 1 augustus 1991 alle voorschriften van de volgende koninklijke besluiten op grond van [artikel 29, tweede lid, tweede volzin, van de Wet op het voortgezet onderwijs](../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) voor zover die betrekking hebben op dagscholen voor middelbaar beroepsonderwijs:  
+3.  Onverminderd het bepaalde in de onderdelen H, derde lid, I en M, wordt met ingang van 1 augustus 1991 ingetrokken het Besluit van 13 maart 1987, houdende aanwijzing ingevolge artikel 29, tweede lid tweede volzin, van de Wet op het voortgezet onderwijs van de afdelingen middelbaar horeca-onderwijs (*Stb.* 1987, 138) en vervallen met ingang van 1 augustus 1991 alle voorschriften van de volgende koninklijke besluiten op grond van artikel 29, tweede lid, tweede volzin, van de Wet op het voortgezet onderwijs voor zover die betrekking hebben op dagscholen voor middelbaar beroepsonderwijs:  
 
 a. het Besluit van 21 mei 1979, houdende aanwijzing van een aantal scholen en afdelingen als scholen en afdelingen waarvan het bevoegd gezag de regeling van het eindexamen vaststelt (*Stb.* 1979, 288),  
 
 b. het Besluit van 20 juni 1986 tot intrekking van enige Eindexamenbesluiten en tot aanwijzing conform artikel 29, tweede lid, tweede volzin, van de W.V.O. van een aantal scholen en afdelingen voor beroepsonderwijs ( *Stb.* 1986, 358), en  
 
-c. het Besluit van 16 december 1986, houdende aanwijzing van enige opleidingen voor lager en middelbaar beroepsonderwijs ingevolge [artikel 29, tweede lid tweede volzin, van de Wet op het voortgezet onderwijs](../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) ( *Stb.* 1986, 707).       
-L.  De op 31 jul 1991 geldende bij of krachtens de [Wet op het voortgezet onderwijs](../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) gegeven voorschriften die betrekking hebben op avondscholen en dag-avondscholen voor middelbaar beroepsonderwijs blijven van kracht.   
+c. het Besluit van 16 december 1986, houdende aanwijzing van enige opleidingen voor lager en middelbaar beroepsonderwijs ingevolge artikel 29, tweede lid tweede volzin, van de Wet op het voortgezet onderwijs ( *Stb.* 1986, 707).       
+L.  De op 31 jul 1991 geldende bij of krachtens de Wet op het voortgezet onderwijs gegeven voorschriften die betrekking hebben op avondscholen en dag-avondscholen voor middelbaar beroepsonderwijs blijven van kracht.   
 M.  
 
-1.  Voor zover eindtermen als bedoeld in artikel I, onderdeel F, artikel 17, van een opleiding ten minste zes maanden voor 1 augustus 1991 nog niet zijn vastgesteld, blijven de op 31 juli 1991 geldende voorschriften omtrent de eindexamens, gegeven bij of krachtens [artikel 29, tweede en vijfde lid](../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), onderscheidenlijk de [artikelen 61 tot en met 63 van de Wet op het voortgezet onderwijs](../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), op die opleiding van toepassing. Het bepaalde in de eerste volzin is van overeenkomstige toepassing op de opleidingen waarvan eindtermen voor de eerste maal later dan bedoeld tijdstip worden vastgesteld.  
+1.  Voor zover eindtermen als bedoeld in artikel I, onderdeel F, artikel 17, van een opleiding ten minste zes maanden voor 1 augustus 1991 nog niet zijn vastgesteld, blijven de op 31 juli 1991 geldende voorschriften omtrent de eindexamens, gegeven bij of krachtens artikel 29, tweede en vijfde lid, onderscheidenlijk de artikelen 61 tot en met 63 van de Wet op het voortgezet onderwijs, op die opleiding van toepassing. Het bepaalde in de eerste volzin is van overeenkomstige toepassing op de opleidingen waarvan eindtermen voor de eerste maal later dan bedoeld tijdstip worden vastgesteld.  
 
 2.  Indien de eindtermen, bedoeld in het eerste lid, zijn vastgesteld, zijn de onderdelen H, derde lid, en I van overeenkomstige toepassing, te rekenen vanaf 1 augustus na het jaar waarin de eindtermen zijn vastgesteld.  
 
@@ -136,7 +136,7 @@ P.
 
 1.  Tot en met 31 juli 1991 kunnen er scholengemeenschappen zijn van enerzijds een dagschool voor middelbaar beroepsonderwijs en anderzijds een inrichting voor voortgezet onderwijs waaraan het nieuw vervolg/beroepsonderwijs wordt gegeven.  
 
-2.  Bij ministeriële regeling kunnen regels worden gegeven omtrent de scholengemeenschappen, bedoeld in het eerste lid, zo nodig in afwijking van het bepaalde bij of krachtens de [Wet op het voortgezet onderwijs](../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).    
+2.  Bij ministeriële regeling kunnen regels worden gegeven omtrent de scholengemeenschappen, bedoeld in het eerste lid, zo nodig in afwijking van het bepaalde bij of krachtens de Wet op het voortgezet onderwijs.    
 Q.  
 
 1.  Er kunnen scholengemeenschappen zijn van enerzijds een dagschool voor middelbaar beroepsonderwijs en anderzijds:  
@@ -145,7 +145,7 @@ a. een of meer cursussen voor beroepsbegeleidend onderwijs,
 
 b. een inrichting voor voortgezet onderwijs waaraan het deeltijd vervolg/beroepsonderwijs wordt gegeven, of  
 
-c. een of meer cursussen voor middelbaar beroepsonderwijs die opleiden voor een diploma dat overeenkomt met een diploma waarvoor in de [Wet op het voortgezet onderwijs](../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) bedoelde dagscholen voor middelbaar beroepsonderwijs opleiden.    
+c. een of meer cursussen voor middelbaar beroepsonderwijs die opleiden voor een diploma dat overeenkomt met een diploma waarvoor in de Wet op het voortgezet onderwijs bedoelde dagscholen voor middelbaar beroepsonderwijs opleiden.    
 
 2.  Een bekostigingsstelsel dat aansluit op het bekostigingsstelsel dat geldt voor dagscholen voor middelbaar beroepsonderwijs, wordt in elk geval toegepast op:  
 
@@ -167,43 +167,43 @@ b. de scholengemeenschappen van enerzijds een school voor middelbaar beroepsonde
 
 4.  Scholengemeenschappen als bedoeld in het eerste lid, aanhef en onderdelen *a* en *b*, kunnen slechts worden gevormd tot 1 april 1991. De eerste volzin is niet van toepassing indien op het moment waarop de scholengemeenschap wordt gevormd, wordt voldaan aan de voorwaarde, vermeld in het tweede lid, onderdeel *a*.  
 
-5.  Bij of krachtens algemene maatregel van bestuur worden regels gegeven omtrent de uitvoering van dit onderdeel, zo nodig in afwijking van het bepaalde bij of krachtens de [Wet op het voortgezet onderwijs](../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).    
+5.  Bij of krachtens algemene maatregel van bestuur worden regels gegeven omtrent de uitvoering van dit onderdeel, zo nodig in afwijking van het bepaalde bij of krachtens de Wet op het voortgezet onderwijs.    
 R.  
 
 1.  Tot een bij koninklijk besluit te bepalen tijdstip, doch niet eerder dan 1 augustus 1992, kan een afdeling vooropleiding voor hoger beroepsonderwijs die voortkomt uit de overeenkomstige op 1 augustus 1990 bestaande afdeling, worden verbonden aan een in het plan van spreiding en situering opgenomen school.  
 
-2. Met ingang van 1 augustus 1991 wordt een bekostigingsstelsel toegepast dat aansluit op het bekostigingsstelsel dat geldt voor dagscholen voor middelbaar beroepsonderwijs. Bij ministeriële regeling worden regels gegeven omtrent de uitvoering van de eerste volzin, zo nodig in afwijking van het bepaalde bij of krachtens de [Wet op het voortgezet onderwijs](../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).
+2. Met ingang van 1 augustus 1991 wordt een bekostigingsstelsel toegepast dat aansluit op het bekostigingsstelsel dat geldt voor dagscholen voor middelbaar beroepsonderwijs. Bij ministeriële regeling worden regels gegeven omtrent de uitvoering van de eerste volzin, zo nodig in afwijking van het bepaalde bij of krachtens de Wet op het voortgezet onderwijs.
 
 3  Het bepaalde in de onderdelen H, derde lid, I en J is van overeenkomstige toepassing.   
 S.  
 
 1.  Tot een bij koninklijk besluit te bepalen tijdstip, doch niet eerder dan 1 augustus 1992, kan een afdeling voor hoger algemeen voortgezet onderwijs die voortkomt uit de overeenkomstige op 1 augustus 1990 bestaande afdeling, worden verbonden aan een in het plan van spreiding en situering opgenomen school. Voor de toepassing van onderdeel B, derde lid, worden leerlingen van een afdeling als bedoeld in de eerste volzin, beschouwd als leerlingen van een school voor middelbaar beroepsonderwijs.  
 
-2.  Met ingang van 1 augustus 1991 wordt een bekostigingsstelsel toegepast dat aansluit op het bekostigingsstelsel dat geldt voor dagscholen voor middelbaar beroepsonderwijs. Bij ministeriële regeling worden regels gegeven omtrent de uitvoering van de eerste volzin, zo nodig in afwijking van het bepaalde bij of krachtens de [Wet op het voortgezet onderwijs](../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).  
+2.  Met ingang van 1 augustus 1991 wordt een bekostigingsstelsel toegepast dat aansluit op het bekostigingsstelsel dat geldt voor dagscholen voor middelbaar beroepsonderwijs. Bij ministeriële regeling worden regels gegeven omtrent de uitvoering van de eerste volzin, zo nodig in afwijking van het bepaalde bij of krachtens de Wet op het voortgezet onderwijs.  
 
 3.  Het bepaalde in de onderdelen H, derde lid, I en J is van overeenkomstige toepassing.    
 T.  Met ingang van 1 augustus 1990 worden geen leerlingen meer toegelaten tot het eerste leerjaar van een afdeling interim algemene schakelopleiding met een cursusduur van twee jaar of met een cursusduur van 16 maanden.   
-U.  Onze minister kan scholen en scholengemeenschappen die reeds op 1 augustus 1990 voldoen aan de voorwaarden, bedoeld in onderdeel B, derde en vierde lid, aanwijzen als scholen waarvoor in het schooljaar 1990-1991 bij ministeriële regeling vast te stellen regels omtrent het onderwijs en de bekostiging gelden, die vooruit lopen op de regels die met ingang van 1 augustus 1991 voor de dagscholen voor middelbaar beroepsonderwijs zullen gelden. Onze minister kan bij het stellen van die regels afwijken van het bij of krachtens de [Wet op het voortgezet onderwijs](../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) bepaalde.   
+U.  Onze minister kan scholen en scholengemeenschappen die reeds op 1 augustus 1990 voldoen aan de voorwaarden, bedoeld in onderdeel B, derde en vierde lid, aanwijzen als scholen waarvoor in het schooljaar 1990-1991 bij ministeriële regeling vast te stellen regels omtrent het onderwijs en de bekostiging gelden, die vooruit lopen op de regels die met ingang van 1 augustus 1991 voor de dagscholen voor middelbaar beroepsonderwijs zullen gelden. Onze minister kan bij het stellen van die regels afwijken van het bij of krachtens de Wet op het voortgezet onderwijs bepaalde.   
 V.  
 
-1.  Bij ministeriële regeling worden regels gegeven omtrent de grondslag voor de vergoeding van de personeelskosten van dagscholen voor middelbaar beroepsonderwijs en van scholengemeenschappen waarvan een dagschool voor middelbaar beroepsonderwijs deel uitmaakt, en omtrent de wijze van vergoeding daarvan, zo nodig in afwijking van het bepaalde bij of krachtens de [Wet op het voortgezet onderwijs](../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).  
+1.  Bij ministeriële regeling worden regels gegeven omtrent de grondslag voor de vergoeding van de personeelskosten van dagscholen voor middelbaar beroepsonderwijs en van scholengemeenschappen waarvan een dagschool voor middelbaar beroepsonderwijs deel uitmaakt, en omtrent de wijze van vergoeding daarvan, zo nodig in afwijking van het bepaalde bij of krachtens de Wet op het voortgezet onderwijs.  
 
 2.  In de ministeriële regeling, bedoeld in het eerste lid, wordt in ieder geval:  
 
-a. bepaald dat het bevoegd gezag van een dagschool voor middelbaar beroepsonderwijs het voor personeelskosten beschikbaar gestelde bedrag ten behoeve van die school zodanig besteedt dat het wordt aangewend voor de kosten van het personeel, zoals onderscheiden in [artikel 37*a* van de Wet op het voortgezet onderwijs](../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), en dat een overschot op dat bedrag kan worden aangewend voor voorzieningen in de exploitatie.  
+a. bepaald dat het bevoegd gezag van een dagschool voor middelbaar beroepsonderwijs het voor personeelskosten beschikbaar gestelde bedrag ten behoeve van die school zodanig besteedt dat het wordt aangewend voor de kosten van het personeel, zoals onderscheiden in artikel 37*a* van de Wet op het voortgezet onderwijs, en dat een overschot op dat bedrag kan worden aangewend voor voorzieningen in de exploitatie.  
 
 b. voorzien in een regeling omtrent vervanging bij afwezigheid, en  
 
 c. bepaald dat de kosten van huisvesting en inrichting ten behoeve van opleidingen die een dagschool voor middelbaar beroepsonderwijs start en die niet overeenkomen met onderwijs dat vóór 1 augustus 1991 werd verzorgd aan de school of de inrichting voor voortgezet onderwijs waaruit de school mede voortkomt, niet voor vergoeding in aanmerking worden gebracht.      
 W.  
 
-1.  Bij ministeriële regeling kunnen vanaf 1 januari 1992 ter vervanging van de ministeriële regeling, bedoeld in onderdeel V, regels worden gegeven omtrent de grondslag voor de vergoeding van de personeels- en exploitatiekosten van dagscholen voor middelbaar beroepsonderwijs en van scholengemeenschappen waarvan een dagschool voor middelbaar beroepsonderwijs deel uitmaakt, en omtrent de wijze van vergoeding daarvan, zo nodig in afwijking van het bepaalde bij of krachtens de [Wet op het voortgezet onderwijs](../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).  
+1.  Bij ministeriële regeling kunnen vanaf 1 januari 1992 ter vervanging van de ministeriële regeling, bedoeld in onderdeel V, regels worden gegeven omtrent de grondslag voor de vergoeding van de personeels- en exploitatiekosten van dagscholen voor middelbaar beroepsonderwijs en van scholengemeenschappen waarvan een dagschool voor middelbaar beroepsonderwijs deel uitmaakt, en omtrent de wijze van vergoeding daarvan, zo nodig in afwijking van het bepaalde bij of krachtens de Wet op het voortgezet onderwijs.  
 
 2.  In de ministeriële regeling, bedoeld in het eerste lid, wordt in ieder geval:  
 
 a. bepaald dat het Rijk jaarlijks aan het bevoegd gezag een bedrag beschikbaar stelt ten behoeve van de personeels- en exploitatiekosten gezamenlijk,  
 
-b. bepaald dat het bevoegd gezag het voor personeels- en exploitatiekosten beschikbaar gestelde bedrag aanwendt voor de kosten van personeel, zoals onderscheiden in [artikel 37a van de Wet op het voortgezet onderwijs](../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), of voor voorzieningen in de exploitatie, en dat een overschot op dat bedrag kan worden aangewend voor voorzieningen in de huisvesting en inventaris,  
+b. bepaald dat het bevoegd gezag het voor personeels- en exploitatiekosten beschikbaar gestelde bedrag aanwendt voor de kosten van personeel, zoals onderscheiden in artikel 37a van de Wet op het voortgezet onderwijs, of voor voorzieningen in de exploitatie, en dat een overschot op dat bedrag kan worden aangewend voor voorzieningen in de huisvesting en inventaris,  
 
 c. bepaald dat de kosten van huisvesting en inrichting ten behoeve van opleidingen die een dagschool voor middelbaar beroepsonderwijs start en die niet overeenkomen met onderwijs dat vóór 1 augustus 1991 werd verzorgd aan de school of inrichting voor voortgezet onderwijs waaruit de school mede voortkomt, niet voor vergoeding in aanmerking worden gebracht, en  
 

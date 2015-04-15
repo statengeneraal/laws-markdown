@@ -42,7 +42,7 @@ De gemeenteraad kan een leegstandverordening vaststellen.
 
 ###Artikel 3 
 
-1. De gemeenteraad kan in de leegstandverordening bepalen dat de leegstand van een of meer daarbij aangewezen categorieën gebouwen of gedeelten daarvan, niet zijnde woonruimte, gelegen in de gemeente of daarbij aangegeven delen van de gemeente, door de eigenaar wordt gemeld aan burgemeester en wethouders, zodra die leegstand langer duurt dan een in die verordening aangegeven termijn van ten minste zes maanden.
+1. De gemeenteraad kan in de leegstandverordening bepalen dat de leegstand van een of meer daarbij aangewezen categorieën gebouwen of gedeelten daarvan, gelegen in de gemeente of daarbij aangegeven delen van de gemeente, door de eigenaar wordt gemeld aan burgemeester en wethouders, zodra die leegstand langer duurt dan een in die verordening aangegeven termijn van ten minste zes maanden.
 2. Burgemeester en wethouders houden een lijst bij van de overeenkomstig het eerste lid gemelde gebouwen of gedeelten daarvan. Op deze lijst houden zij ook de gebouwen of gedeelten daarvan bij, waarvan ambtshalve geconstateerd is dat deze leegstaan en waarvan de leegstand overeenkomstig het eerste lid van dit artikel gemeld had moeten worden door de eigenaar.
 3. In de leegstandverordening worden nadere regels gegeven omtrent het melden, bedoeld in het eerste en tweede lid.
 4. De termijnen, bedoeld in het eerste lid en artikel 5, vangen aan op de dag na de datum van inwerkingtreding van de leegstandverordening, bedoeld in dat lid.

@@ -13,7 +13,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1.  Voor de toepassing van deze wet wordt verstaan onder:  
 
-a. toegelaten instelling: voor 1 januari 1995 ingevolge [artikel 70 van de Woningwet](../../../../../../../wet/woningwet/BWBR0005181/README.md) als zodanig aangewezen instelling,   
+a. toegelaten instelling: voor 1 januari 1995 ingevolge artikel 70 van de Woningwet als zodanig aangewezen instelling,   
 
 b. woningen: te verhuren of verhuurde woningen, bejaardenwoningen, wooneenheden in verzorgingstehuizen voor bejaarden en te verhuren of verhuurde woningen en wooneenheden in woongebouwen met een bijzonder karakter,   
 
@@ -22,11 +22,11 @@ c. bijdrage: ingevolge de desbetreffende regeling of deze wet te ontvangen jaarl
 d. woongelegenheid: woning of bejaardenoord als bedoeld in de Wet op de bejaardenoorden, zoals die wet luidde voor de intrekking van die wet,  
 
 e. Onze Minister: Onze Minister voor Wonen, Wijken en Integratie.      
-2.   Voor de toepassing van deze wet wordt, voor zover niet anders is bepaald, onder toegelaten instelling mede verstaan een instelling welke na 1 januari 1995 doch voor 1 januari 1997 ingevolge [artikel 70 van de Woningwet](../../../../../../../wet/woningwet/BWBR0005181/README.md) als zodanig is aangewezen.   
+2.   Voor de toepassing van deze wet wordt, voor zover niet anders is bepaald, onder toegelaten instelling mede verstaan een instelling welke na 1 januari 1995 doch voor 1 januari 1997 ingevolge artikel 70 van de Woningwet als zodanig is aangewezen.   
 
 ### Artikel  2  
 
-1.  Onze Minister stelt voor elke in een gemeente werkzame toegelaten instelling afzonderlijk de som vast van de contante waarden op 1 januari 1995 van de, uit hoofde van geldelijke steun aan de gemeente verleend krachtens [artikel 67 van de Woningwet 1962](../../../../../../../wet/woningwet/1962/BWBR0002379/README.md) of [artikel 56 van de Woningwet](../../../../../../../wet/woningwet/BWBR0005181/README.md) 1901 met het oog op de toepassing van artikel 60 onderscheidenlijk artikel 51 van die wetten, op of na die datum te ontvangen bijdragen voor woningen welke op die datum in eigendom zijn van die toegelaten instelling of die zijn onderworpen aan een recht van erfpacht dat toebehoort aan die toegelaten instelling.    
+1.  Onze Minister stelt voor elke in een gemeente werkzame toegelaten instelling afzonderlijk de som vast van de contante waarden op 1 januari 1995 van de, uit hoofde van geldelijke steun aan de gemeente verleend krachtens artikel 67 van de Woningwet 1962 of artikel 56 van de Woningwet 1901 met het oog op de toepassing van artikel 60 onderscheidenlijk artikel 51 van die wetten, op of na die datum te ontvangen bijdragen voor woningen welke op die datum in eigendom zijn van die toegelaten instelling of die zijn onderworpen aan een recht van erfpacht dat toebehoort aan die toegelaten instelling.    
 2.   Het in het eerste lid bepaalde geldt mede voor de geldelijke steun voor woningen die deel uitmaken van het op of na 1 januari 1995 doch voor 1 januari 1997 door een toegelaten instelling als bedoeld in artikel 1, eerste lid, van een andere rechtspersoon zonder winstoogmerk verworven totale bezit aan woningen die deel uitmaakten van een bejaardenoord als bedoeld in artikel 1, onderdeel *c*, van de Wet op de bejaardenoorden, zoals die wet luidde voor de intrekking van die wet.    
 3.   Het eerste lid is voor de gemeente van overeenkomstige toepassing ten aanzien van door die gemeente te ontvangen bijdragen voor woningen, in eigendom van de gemeente zelf.   
 
@@ -52,7 +52,7 @@ a. een jaarlijkse stijging van de variabele exploitatiekosten met 0 procent,
 
 b. een rendement over het geïnvesteerd vermogen van 7 procent, en   
 
-c. een jaarlijkse stijging van de huur met 0 procent voor woningen voor welke op het tijdstip van toekenning van de geldelijke steun tevens een lening werd verstrekt als bedoeld in [artikel 60, derde lid, onderdeel *a*, van de Woningwet 1962](../../../../../../../wet/woningwet/1962/BWBR0002379/README.md), en van 5 procent voor andere woningen.      
+c. een jaarlijkse stijging van de huur met 0 procent voor woningen voor welke op het tijdstip van toekenning van de geldelijke steun tevens een lening werd verstrekt als bedoeld in artikel 60, derde lid, onderdeel *a*, van de Woningwet 1962, en van 5 procent voor andere woningen.      
 4.   Indien geldelijke steun is verleend met toepassing van de Regeling geldelijke steun huurwoningen normkostensysteem 1988, wordt voorts voor elk tijdvak van tien jaar, ingaande op of na 1 januari 1995, rekening gehouden met een dynamische kostprijshuur als bedoeld in die regeling, met dien verstande dat bij de berekening daarvan wordt uitgegaan van:  
 
 a. een jaarlijkse stijging van de variabele exploitatiekosten met 0 procent,   
@@ -60,23 +60,23 @@ a. een jaarlijkse stijging van de variabele exploitatiekosten met 0 procent,
 b. een rendement over het geïnvesteerd vermogen van 7 procent, en   
 
 c. een jaarlijkse stijging van de huur met 0 procent.      
-5.   Onze Minister kan voor de toepassing van daarbij aan te geven krachtens de [Woningwet 1962](../../../../../../../wet/woningwet/1962/BWBR0002379/README.md) of de [Woningwet](../../../../../../../wet/woningwet/BWBR0005181/README.md) 1901 gegeven ministeriële regelingen een ander percentage van de jaarlijkse stijging van de huur vaststellen.   
+5.   Onze Minister kan voor de toepassing van daarbij aan te geven krachtens de Woningwet 1962 of de Woningwet 1901 gegeven ministeriële regelingen een ander percentage van de jaarlijkse stijging van de huur vaststellen.   
 
 ### Artikel  5  
 
 1.  Een ingevolge de artikelen 2 en 3, eerste lid, gegeven beschikking heeft tot gevolg dat:  
 
-a. een verbintenis van het Rijk jegens de gemeente uit hoofde van geldelijke steun, verleend op grond van [artikel 67 van de Woningwet 1962](../../../../../../../wet/woningwet/1962/BWBR0002379/README.md) of [artikel 56 van de Woningwet](../../../../../../../wet/woningwet/BWBR0005181/README.md) 1901, teniet gaat, voor zover deze strekt tot betaling van bijdragen uit hoofde van verleende geldelijke steun over het tijdvak na de inwerkingtreding van de beschikking,   
+a. een verbintenis van het Rijk jegens de gemeente uit hoofde van geldelijke steun, verleend op grond van artikel 67 van de Woningwet 1962 of artikel 56 van de Woningwet 1901, teniet gaat, voor zover deze strekt tot betaling van bijdragen uit hoofde van verleende geldelijke steun over het tijdvak na de inwerkingtreding van de beschikking,   
 
 b. ten laste van het Rijk een verbintenis ontstaat tot betaling aan de gemeente van de ingevolge de artikelen 2 en 3, eerste lid, vastgestelde som,   
 
-c. vorderingen van het Rijk uit hoofde van leningen, aan de gemeente verstrekt krachtens [artikel 67 van de Woningwet 1962](../../../../../../../wet/woningwet/1962/BWBR0002379/README.md) of [artikel 56 van de Woningwet](../../../../../../../wet/woningwet/BWBR0005181/README.md) 1901 berekend naar de stand op 1 januari 1995, met inbegrip van de verschuldigde rente tot die datum in hun geheel opeisbaar worden,   
+c. vorderingen van het Rijk uit hoofde van leningen, aan de gemeente verstrekt krachtens artikel 67 van de Woningwet 1962 of artikel 56 van de Woningwet 1901 berekend naar de stand op 1 januari 1995, met inbegrip van de verschuldigde rente tot die datum in hun geheel opeisbaar worden,   
 
-d. de verbintenis van de gemeente jegens de toegelaten instelling uit hoofde van geldelijke steun, verleend op grond van [artikel 60 van de Woningwet 1962](../../../../../../../wet/woningwet/1962/BWBR0002379/README.md) of [artikel 51 van de Woningwet](../../../../../../../wet/woningwet/BWBR0005181/README.md) 1901, teniet gaat, voor zover deze strekt tot betaling van een of meer bijdragen over het tijdvak na de inwerkingtreding van de beschikking,   
+d. de verbintenis van de gemeente jegens de toegelaten instelling uit hoofde van geldelijke steun, verleend op grond van artikel 60 van de Woningwet 1962 of artikel 51 van de Woningwet 1901, teniet gaat, voor zover deze strekt tot betaling van een of meer bijdragen over het tijdvak na de inwerkingtreding van de beschikking,   
 
 e. ten laste van de gemeente een verbintenis ontstaat tot betaling aan de toegelaten instelling van de ingevolge de artikelen 2 en 3, eerste lid, vastgestelde som,   
 
-f. vorderingen van de gemeente uit hoofde van leningen, aan de toegelaten instelling verstrekt krachtens [artikel 60 van de Woningwet 1962](../../../../../../../wet/woningwet/1962/BWBR0002379/README.md) of [artikel 51 van de Woningwet](../../../../../../../wet/woningwet/BWBR0005181/README.md) 1901, berekend naar de stand op 1 januari 1995, met inbegrip van de verschuldigde rente tot die datum, voor zover deze betrekking hebben op door het Rijk aan de gemeente verstrekte leningen als bedoeld in onderdeel *c*, in hun geheel opeisbaar worden, en   
+f. vorderingen van de gemeente uit hoofde van leningen, aan de toegelaten instelling verstrekt krachtens artikel 60 van de Woningwet 1962 of artikel 51 van de Woningwet 1901, berekend naar de stand op 1 januari 1995, met inbegrip van de verschuldigde rente tot die datum, voor zover deze betrekking hebben op door het Rijk aan de gemeente verstrekte leningen als bedoeld in onderdeel *c*, in hun geheel opeisbaar worden, en   
 
 g. het verschuldigde uit hoofde van leningen als bedoeld in de onderdelen *c* en *f*, voor zover de uit het verstrekken van die leningen ontstane verbintenissen niet ingevolge artikel 8 te niet gaan, bevrijdend kan worden betaald, zonder dat overeengekomen boeten of kosten verschuldigd worden.      
 2.   De schulden als bedoeld in het eerste lid, onderdelen *b* en *e*, worden vermeerderd met een rente van 6,75 procent per jaar, te rekenen vanaf 1 januari 1995 tot de inwerkingtreding van de beschikking en vervolgens verminderd met de in onderdeel *a*, onderscheidenlijk onderdeel *d*, bedoelde bijdragen die op of na 1 januari 1995 zijn of worden betaald, vermeerderd met een rente van 6,75 procent per jaar over die bijdragen, berekend over het tijdvak van de betaling tot de inwerkingtreding van de beschikking.    
@@ -84,7 +84,7 @@ g. het verschuldigde uit hoofde van leningen als bedoeld in de onderdelen *c* en
 
 ### Artikel  6  
 
-1.  Onze Minister verleent aan de toegelaten instelling of gemeente aan welke een of meer leningen zijn verstrekt op grond van artikel 60, derde lid, onderdeel *a*, of artikel 67 voor de toepassing van [artikel 61 van de Woningwet 1962](../../../../../../../wet/woningwet/1962/BWBR0002379/README.md) of op grond van [artikel 56 van de Woningwet](../../../../../../../wet/woningwet/BWBR0005181/README.md) 1901 een rentebijdrage op een aanvraag ingediend binnen zes maanden na de inwerkingtreding van de beschikking tot vaststelling, bedoeld in de artikelen 2 en 3, eerste lid.    
+1.  Onze Minister verleent aan de toegelaten instelling of gemeente aan welke een of meer leningen zijn verstrekt op grond van artikel 60, derde lid, onderdeel *a*, of artikel 67 voor de toepassing van artikel 61 van de Woningwet 1962 of op grond van artikel 56 van de Woningwet 1901 een rentebijdrage op een aanvraag ingediend binnen zes maanden na de inwerkingtreding van de beschikking tot vaststelling, bedoeld in de artikelen 2 en 3, eerste lid.    
 2.   De rentebijdrage is gelijk aan:  
 
 a. de som van de per jaar berekende contante waarden op 1 november 1993 van de rente die over het tijdvak vanaf de vervroegde aflossing of de inwerkingtreding van een ingevolge de artikelen 2 en 3, eerste lid, gegeven beschikking tot de datum van de eerste renteherziening van de in het eerste lid bedoelde leningen verschuldigd is of zou zijn, indien op de kapitaalmarkt of bij een gemeente ter vervanging van die leningen een of meer leningen zijn of zouden zijn gesloten met een gelijke hoofdsom en met gelijke aflossingsvoorwaarden, verminderd met   
@@ -123,7 +123,7 @@ a. voor woningen van een toegelaten instelling indien deze die woningen na 1 jan
 
 b. voor woningen van een toegelaten instelling indien deze die woningen na 1 januari 1993 doch voor 1 januari 1997 van een rechtspersoon als bedoeld in artikel 2, tweede lid, in eigendom heeft verkregen,   
 
-c. voor woningen van een toegelaten instelling indien deze na 1 januari 1993 doch voor 1 januari 1995 als zodanig ingevolge [artikel 70 van de Woningwet](../../../../../../../wet/woningwet/BWBR0005181/README.md) is aangewezen.      
+c. voor woningen van een toegelaten instelling indien deze na 1 januari 1993 doch voor 1 januari 1995 als zodanig ingevolge artikel 70 van de Woningwet is aangewezen.      
 5.   Voor de toepassing van het eerste en tweede lid, worden mede in aanmerking genomen  
 
 a. woningen die zijn onderworpen aan een recht van erfpacht dat toebehoort aan een gemeente of een toegelaten instelling, en   
@@ -178,9 +178,9 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent de uitvoe
 
 a. de wijze van indiening van aanvragen, de daarbij over te leggen gegevens en bescheiden alsmede het vaststellen van daarvoor te gebruiken formulieren,   
 
-b. de vaststelling van de in artikel 2 bedoelde te ontvangen bijdragen op grond van gegevens, verstrekt door een gemeente of toegelaten instelling ingevolge de op voet van de [Woningwet 1962](../../../../../../../wet/woningwet/1962/BWBR0002379/README.md) gegeven van toepassing zijnde regelingen tot het verlenen van geldelijke steun,   
+b. de vaststelling van de in artikel 2 bedoelde te ontvangen bijdragen op grond van gegevens, verstrekt door een gemeente of toegelaten instelling ingevolge de op voet van de Woningwet 1962 gegeven van toepassing zijnde regelingen tot het verlenen van geldelijke steun,   
 
-c. de vaststelling van de in artikel 2 bedoelde te ontvangen bijdragen indien de ingevolge de [Woningwet 1962](../../../../../../../wet/woningwet/1962/BWBR0002379/README.md) gegeven van toepassing zijnde regelingen tot het verlenen van geldelijke steun niet of slechts beperkt uitgaan van een genormeerde woningexploitatie,   
+c. de vaststelling van de in artikel 2 bedoelde te ontvangen bijdragen indien de ingevolge de Woningwet 1962 gegeven van toepassing zijnde regelingen tot het verlenen van geldelijke steun niet of slechts beperkt uitgaan van een genormeerde woningexploitatie,   
 
 d. de wijze van berekening van de in artikel 6 bedoelde rentebijdrage,   
 

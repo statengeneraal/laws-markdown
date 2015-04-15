@@ -155,17 +155,17 @@ d. bijlessen en tentamen- of examentrainingen die worden verstrekt in het kader 
 
 ### Artikel  9  
 
-1.  Als diensten als bedoeld in artikel 11, eerste lid, onderdeel *u* , van de wet, worden aangewezen de diensten, verleend aan hun leden door zelfstandige groeperingen van:  
+1.  Als diensten als bedoeld in artikel 11, eerste lid, onderdeel u, van de wet, worden aangewezen de diensten, verleend aan hun leden door zelfstandige groeperingen van:  
 
 a.vervallen; 
 
 b. instellingen welke zijn toegelaten om op de voet van de Woningwet werkzaam te zijn in het belang van de volkshuisvesting, voor zover de diensten rechtstreeks nodig zijn voor het beheer of het onderhoud van woningwet- of premiewoningen;   
 
-c. vervallen;   
+c. vervallen;  
 
-d. verplegings- en verzorgingsinstellingen waarvan de prestaties zijn vrijgesteld op grond van artikel 11, eerste lid, onderdeel *c* , van de wet, voor zover de diensten rechtstreeks nodig zijn voor het verrichten van die prestaties, met uitzondering van de diensten, bestaande in de wasverzorging en het verzorgen van de loon- en salarisadministratie, de financiële administratie en de grootboekadministratie;   
+d. verplegings- en verzorgingsinstellingen waarvan de prestaties zijn vrijgesteld op grond van artikel 11, eerste lid, onderdeel c, van de wet, voor zover de diensten rechtstreeks nodig zijn voor het verrichten van die prestaties, met uitzondering van de diensten, bestaande in de wasverzorging en het verzorgen van de loon- en salarisadministratie, de financiële administratie en de grootboekadministratie;   
 
-e. kruisverenigingen waarvan de prestaties zijn vrijgesteld op grond van artikel 11, eerste lid, onderdeel *f* , van de wet, voor zover de diensten rechtstreeks nodig zijn voor het verrichten van die prestaties;   
+e. kruisverenigingen waarvan de prestaties zijn vrijgesteld op grond van artikel 11, eerste lid, onderdeel f, van de wet, voor zover de diensten rechtstreeks nodig zijn voor het verrichten van die prestaties;   
 
 f. andere dan hiervoor genoemde personen of lichamen in de zin van de Algemene wet inzake rijksbelastingen, die prestaties verrichten welke zijn vrijgesteld of waarvoor zij geen ondernemer zijn, voor zover de diensten rechtstreeks nodig zijn voor het verrichten van die prestaties, met uitzondering van de diensten, bestaande in het verzorgen van de loon- en salarisadministratie, de financiële administratie en de grootboekadministratie.      
 2.   Het eerste lid is alleen van toepassing, indien de daar bedoelde zelfstandige groeperingen ter zake van de aan hun leden verrichte diensten slechts terugbetaling vorderen van het aandeel van die leden in de gezamenlijke uitgaven.    
@@ -182,23 +182,23 @@ f. andere dan hiervoor genoemde personen of lichamen in de zin van de Algemene w
 
 a. 
 
-1°.voor wat betreft de levering, de intracommunautaire verwerving en de invoer van luchtvaartuigen, alsmede de diensten welke ten aanzien van luchtvaartuigen worden verricht, indien de ondernemer kan overleggen een schriftelijke verklaring van de afnemer van de luchtvaartuigen, onderscheidenlijk degene aan wie de diensten ten aanzien van luchtvaartuigen worden verleend, dat het luchtvaartuigen betreft als bedoeld in de bij de wet behorende tabel II, onderdeel a, post 3; 
+1°.voor wat betreft de levering, de intracommunautaire verwerving en de invoer van luchtvaartuigen, alsmede de diensten welke ten aanzien van luchtvaartuigen worden verricht, indien de ondernemer kan overleggen een schriftelijke verklaring van de afnemer van de luchtvaartuigen, onderscheidenlijk degene aan wie de diensten ten aanzien van luchtvaartuigen worden verleend, dat het luchtvaartuigen betreft als bedoeld in de bij de wet behorende tabel II, onderdeel a, post 3;
 
 2°.voor wat betreft de leveringen van goederen als bedoeld in de bij de wet behorende tabel II, onderdeel a, post 6, indien de ondernemer beschikt over het btw-identificatienummer van degene die de goederen afneemt; 
 
 b. 
 
-1°. voor wat betreft de leveringen van accijnsgoederen als bedoeld in de bij de wet behorende tabel II, onderdeel a, post 7, onder a, indien de ondernemer kan overleggen een schriftelijke verklaring van de ondernemer die de accijnsgoederen afneemt dat deze de goederen geleverd krijgt en in opslag neemt in een accijnsgoederenplaats als bedoeld in de Wet op de accijns die voor die soort accijnsgoederen als zodanig is aangewezen, en dat deze de goederen niet aan dat regime zal onttrekken, anders dan in het kader van een levering ter zake waarvan gehele aftrek van belasting op de voet van artikel 15 van de wet door die ondernemer mogelijk is;   
+1°. voor wat betreft de leveringen van accijnsgoederen als bedoeld in de bij de wet behorende tabel II, onderdeel a, post 7, onder a, indien de ondernemer kan overleggen een schriftelijke verklaring van de ondernemer die de accijnsgoederen afneemt dat deze de goederen geleverd krijgt en in opslag neemt in een accijnsgoederenplaats als bedoeld in de Wet op de accijns die voor die soort accijnsgoederen als zodanig is aangewezen, en dat deze de goederen niet aan dat regime zal onttrekken, anders dan in het kader van een levering ter zake waarvan gehele aftrek van belasting op de voet van artikel 15 van de wet door die ondernemer mogelijk is;  
 
-2°. voor wat betreft de leveringen van minerale oliën als bedoeld in de bij de wet behorende tabel II, onderdeel a, post 7, onder b, indien de ondernemer kan overleggen een afschrift van het geleidedocument alsmede een schriftelijke verklaring van de ondernemer die de minerale oliën afneemt dat deze de minerale oliën niet aan het geleidedocument zal onttrekken, anders dan in het kader van een levering ter zake waarvan gehele aftrek van belasting op de voet van artikel 15 van de wet door die ondernemer mogelijk is;     
+2°. voor wat betreft de leveringen van minerale oliën als bedoeld in de bij de wet behorende tabel II, onderdeel a, post 7, onder b, indien de ondernemer kan overleggen een afschrift van het geleidedocument alsmede een schriftelijke verklaring van de ondernemer die de minerale oliën afneemt dat deze de minerale oliën niet aan het geleidedocument zal onttrekken, anders dan in het kader van een levering ter zake waarvan gehele aftrek van belasting op de voet van artikel 15 van de wet door die ondernemer mogelijk is;    
 
-c. voor wat betreft de leveringen van goederen als bedoeld in de bij de wet behorende tabel II, onderdeel a, post 8, onder a, indien de ondernemer kan overleggen een schriftelijke verklaring van de ondernemer die de goederen afneemt dat deze die goederen opneemt in zijn niet-plaatsgebonden entrepot als bedoeld in die post, onder vermelding van het nummer van zijn entrepotvergunning, en dat deze de goederen niet aan dat regime zal onttrekken, anders dan in het kader van een levering ter zake waarvan gehele aftrek van belasting op de voet van artikel 15 van de wet door die ondernemer mogelijk is.   
+c. voor wat betreft de leveringen van goederen als bedoeld in de bij de wet behorende tabel II, onderdeel a, post 8, onder a, indien de ondernemer kan overleggen een schriftelijke verklaring van de ondernemer die de goederen afneemt dat deze die goederen opneemt in zijn niet-plaatsgebonden entrepot als bedoeld in die post, onder vermelding van het nummer van zijn entrepotvergunning, en dat deze de goederen niet aan dat regime zal onttrekken, anders dan in het kader van een levering ter zake waarvan gehele aftrek van belasting op de voet van artikel 15 van de wet door die ondernemer mogelijk is.  
 
 d. voor wat betreft de achtereenvolgende leveringen die plaatsvinden ingeval door meer dan één persoon overeenkomsten worden gesloten met de verplichting tot levering van eenzelfde goed dat vervolgens door de eerste persoon rechtstreeks aan de laatste afnemer buiten de Unie of in een entrepot wordt afgeleverd, indien een door iedere afnemer - behalve de buitenlandse - aan zijn leverancier uit te reiken schriftelijke opdracht tot uitvoer uit de Unie of tot plaatsing onder het stelsel van douane-entrepots op basis van artikel 98, lid 1, onder b), van het Communautair douanewetboek kan worden overgelegd;   
 
-e. voor wat betreft de levering van een motorrijtuig waarvoor ter zake van de in artikel 36 van de Wegenverkeerswet 1994 bedoelde opgaaf van een kenteken een bewijs is afgegeven en welk motorrijtuig door een ondernemer wordt vervoerd naar een andere lidstaat of wordt uitgevoerd uit de Unie, indien de ondernemer een afschrift van het ter zake door de Dienst Wegverkeer afgegeven kentekenbewijs deel II, dat hem is uitgereikt op de voet van artikel 17, tweede lid, van het Kentekenreglement, kan overleggen;   
+e. voor wat betreft de levering van een motorrijtuig waarvoor ter zake van de in artikel 36 van de Wegenverkeerswet 1994 bedoelde opgaaf van een kenteken een bewijs is afgegeven en welk motorrijtuig door een ondernemer wordt vervoerd naar een andere lidstaat of wordt uitgevoerd uit de Unie, indien de ondernemer een afschrift van het ter zake door de Dienst Wegverkeer afgegeven kentekenbewijs deel II, dat hem is uitgereikt op de voet van artikel 17, tweede lid, van het Kentekenreglement, kan overleggen;  
 
-f. voor wat betreft de levering door een ondernemer als bedoeld in artikel 7, zesde lid, van de wet, van een nieuw vervoermiddel dat wordt vervoerd naar een andere lidstaat, indien de ondernemer aan de inspecteur de naam en het adres meldt van degene aan wie de levering is verricht.    In geval de leverancier of de afnemer in de gevallen bedoeld in de onderdelen b en c niet in Nederland woont of is gevestigd dan wel aldaar geen vaste inrichting heeft, dient deze voor de toepassing van het tarief van nihil een fiscaal vertegenwoordiger als bedoeld in artikel 24c  te hebben aangesteld.    
+f. voor wat betreft de levering door een ondernemer als bedoeld in artikel 7, zesde lid, van de wet, van een nieuw vervoermiddel dat wordt vervoerd naar een andere lidstaat, indien de ondernemer aan de inspecteur de naam en het adres meldt van degene aan wie de levering is verricht.    In geval de leverancier of de afnemer in de gevallen bedoeld in de onderdelen b en c niet in Nederland woont of is gevestigd dan wel aldaar geen vaste inrichting heeft, dient deze voor de toepassing van het tarief van nihil een fiscaal vertegenwoordiger als bedoeld in artikel 24c te hebben aangesteld.    
 3.   In geval een ondernemer die een verklaring als bedoeld in het tweede lid, onderdeel b of c, heeft afgegeven, aan de desbetreffende goederen een andere bestemming geeft, wordt de belasting ter zake van de aan hem verrichte levering van die goederen alsnog verschuldigd naar het tarief als bedoeld in artikel 9, eerste lid, dan wel tweede lid, onderdeel a, van de wet.    
 4.   In geval het derde lid toepassing vindt met betrekking tot accijnsgoederen als bedoeld in de bij de wet behorende tabel II, onderdeel a, post 7, wordt de maatstaf van heffing verhoogd met het bedrag van de accijns dat voor die goederen ingevolge de Wet op de accijns bij uitslag verschuldigd zou zijn.    
 5.   Bij ministeriële regeling kunnen nadere voorschriften worden gegeven met betrekking tot de wijze waarop de aanspraak op toepassing van het tarief van nihil wordt aangetoond.   
@@ -415,17 +415,17 @@ b. ter zake van de levering van goederen tegen inwisseling van de waardebonnen b
 
 ### Artikel  24b  
 
-1.   Dit artikel verstaat onder:  
+1.   Dit artikel verstaat onder: 
 
-a. werknemer, dienstbetrekking en inhoudingsplichtige: hetgeen daaronder wordt verstaan voor de toepassing van de Wet op de loonbelasting 1964;   
+a. werknemer, dienstbetrekking en inhoudingsplichtige: hetgeen daaronder wordt verstaan voor de toepassing van de Wet op de loonbelasting 1964;  
 
 b. aannemer: degene, die zich jegens een ander, de opdrachtgever, verbindt om buiten dienstbetrekking tegen een te betalen prijs een werk van stoffelijke aard uit te voeren dat betrekking heeft op onroerende zaken of schepen als bedoeld in Bijlage I, deel II, hoofdstuk 89, van Verordening (EEG) nr. 2658/87 van de Raad van 23 juli 1987 met betrekking tot de tarief- en statistieknomenclatuur en het gemeenschappelijk douanetarief (PbEG 1987, L 256),   
 
-c. onderaannemer: degene, die zich jegens een aannemer verbindt om buiten dienstbetrekking tegen een te betalen prijs het in onderdeel *b* bedoelde werk geheel of gedeeltelijk uit te voeren.      
-2.   Voor de toepassing van dit artikel wordt de onderaannemer ten opzichte van zijn onderaannemer als aannemer beschouwd.    
-3.   Voor de toepassing van dit artikel wordt met een aannemer gelijkgesteld degene, die zonder daartoe van een opdrachtgever opdracht te hebben gekregen buiten dienstbetrekking in de normale uitoefening van zijn bedrijf een in het eerste lid, onderdeel *b*, bedoeld werk uitvoert.    
-4.   Voor de toepassing van dit artikel wordt ten opzichte van de aannemer als onderaannemer beschouwd de verkoper van een toekomstige zaak, indien en voor zover de koop en verkoop voortvloeit uit of verband houdt met het in het eerste lid, onderdeel *b*, bedoelde werk.    
-5.   Als gevallen als zijn bedoeld in artikel 12, vijfde lid, van de wet worden aangewezen de gevallen waarin:  
+c. onderaannemer: degene, die zich jegens een aannemer verbindt om buiten dienstbetrekking tegen een te betalen prijs het in onderdeel *b* bedoelde werk geheel of gedeeltelijk uit te voeren.     
+2.   Voor de toepassing van dit artikel wordt de onderaannemer ten opzichte van zijn onderaannemer als aannemer beschouwd.   
+3.   Voor de toepassing van dit artikel wordt met een aannemer gelijkgesteld degene, die zonder daartoe van een opdrachtgever opdracht te hebben gekregen buiten dienstbetrekking in de normale uitoefening van zijn bedrijf een in het eerste lid, onderdeel *b*, bedoeld werk uitvoert.   
+4.   Voor de toepassing van dit artikel wordt ten opzichte van de aannemer als onderaannemer beschouwd de verkoper van een toekomstige zaak, indien en voor zover de koop en verkoop voortvloeit uit of verband houdt met het in het eerste lid, onderdeel *b*, bedoelde werk.   
+5.   Als gevallen als zijn bedoeld in artikel 12, vijfde lid, van de wet worden aangewezen de gevallen waarin: 
 
 a. een onderaannemer een in het eerste lid, onderdeel *b*, bedoeld werk geheel of gedeeltelijk uitvoert;   
 
