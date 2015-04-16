@@ -3,38 +3,34 @@
 ##Aanwijzingsbesluit spoorwegen als locaalspoorweg
 
 De Minister van Verkeer en Waterstaat,
-Gelet op [artikel 1, eerste lid, van de Locaalspoor- en Tramwegwet](../../../../../../wet/locaalspoor-/en/tramwegwet/BWBR0001866/README.md) (Stb. 1900, 118);
+Gelet op artikel 1, eerste lid, van de Locaalspoor- en Tramwegwet (Stb. 1900, 118);
 Besluit:
 
 ### Artikel  1  
 
 De volgende spoorwegen worden als locaalspoorwegen beschouwd als bedoeld in de Locaalspoor- en Tramwegwet: 
 
-a. Nieuw Amsterdam–Schoonebeek;  
+a. Boxtel–Veghel;  
 
-b. vervallen;  
+b. Veendam–Stadskanaal–Musselkanaal-Valthermond;  
 
-c. Boxtel–Veghel;  
+c. Coevorden–Grens (Laarwald);  
 
-d. Veendam–Stadskanaal–Musselkanaal-Valthermond;  
+d. Boekelo–Haaksbergen;  
 
-e. Coevorden–Grens (Laarwald);  
+e. Apeldoorn Zuid–Dieren;  
 
-f. Boekelo–Haaksbergen;  
+f. Hoorn–Medemblik;  
 
-g. Apeldoorn Zuid–Dieren;  
+g. Amsterdam Haarlemmermeer–Bovenkerk;  
 
-h. Hoorn–Medemblik;  
+h. Kerkrade–Simpelveld;  
 
-i. Amsterdam Haarlemmermeer–Bovenkerk;  
-
-j. Kerkrade–Simpelveld;  
-
-k. Schin op Geul–Simpelveld–Grens.   
+i. Schin op Geul–Simpelveld–Grens.   
 
 ###Artikel 2 
 
-Dit besluit treedt in werking met ingang van het tijdstip waarop de [artikelen 16 tot en met 23 van de Spoorwegwet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md) (2003, 264) in werking treden.
+Dit besluit treedt in werking met ingang van het tijdstip waarop de artikelen 16 tot en met 23 van de Spoorwegwet (2003, 264) in werking treden.
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 De 

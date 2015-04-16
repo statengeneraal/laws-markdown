@@ -455,7 +455,7 @@ b. een adviseur: voor zover het betreft de aspecten waarover hij bij de totstand
 
 1.  Het bevoegd gezag wijzigt voorschriften van de omgevingsvergunning: 
 
-a. ter uitvoering van een verzoek als bedoeld in artikel 2.29, eerste lid, tweede volzin, onder a;  
+a. ter uitvoering van een verzoek als bedoeld in artikel 2.29, eerste lid, tweede volzin, onder a, of een aanwijzing als bedoeld in artikel 2.34, eerste lid;  
 
 b. indien door toepassing van artikel 2.30, eerste lid, blijkt dat de nadelige gevolgen die de inrichting voor het milieu veroorzaakt, gezien de ontwikkeling van de technische mogelijkheden tot bescherming van het milieu, verder kunnen, of, gezien de ontwikkeling van de kwaliteit van het milieu, verder moeten worden beperkt;  
 
@@ -495,7 +495,7 @@ a. de uitvoering van een voor Nederland verbindend verdrag of een voor Nederland
 
 b. deze betrekking heeft op een activiteit als bedoeld in artikel 2.1, eerste lid, onder e, indien door toepassing van artikel 2.31, eerste lid, aanhef en onder b, redelijkerwijs niet kan worden bereikt dat in de inrichting of het mijnbouwwerk ten minste de voor de inrichting of het mijnbouwwerk in aanmerking komende beste beschikbare technieken worden toegepast;  
 
-c. dat nodig is ter uitvoering van een verzoek als bedoeld in artikel 2.29, eerste lid, tweede volzin, onder a;  
+c. dat nodig is ter uitvoering van een verzoek als bedoeld in artikel 2.29, eerste lid, tweede volzin, onder a, of een aanwijzing als bedoeld in artikel 2.34, eerste lid;  
 
 d. de inrichting of het mijnbouwwerk ontoelaatbaar nadelige gevolgen voor het milieu veroorzaakt en toepassing van artikel 2.31 daarvoor redelijkerwijs geen oplossing biedt;  
 
@@ -527,14 +527,24 @@ g. deze betrekking heeft op een activiteit als bedoeld in artikel 2.2, op de gro
 h. deze betrekking heeft op een activiteit als bedoeld in artikel 2.19, op de gronden die zijn aangegeven in het betrokken wettelijk voorschrift.     
 3.  Voor zover een verzoek van een vergunninghouder tot gehele of gedeeltelijke intrekking van een omgevingsvergunning betrekking heeft op een activiteit als bedoeld in artikel 2.1, eerste lid, onder e, trekt het bevoegd gezag de omgevingsvergunning slechts geheel of gedeeltelijk in, indien het belang van de bescherming van het milieu zich daartegen niet verzet.  
 
+### Artikel  2.34  
+
+1.  Onze Minister kan, indien dat in het algemeen belang geboden is, aan het bevoegd gezag een aanwijzing geven ter zake van het nemen van een besluit ten aanzien van een aanvraag om een omgevingsvergunning of ten aanzien van een al verleende omgevingsvergunning ten behoeve van maatregelen ter voorkoming van overschrijding van één of meer voor hoofdspoorwegen vastgestelde risicoplafonds als bedoeld in artikel 15, derde lid, van de Wet vervoer gevaarlijke stoffen. Deze bevoegdheid geldt niet: 
+
+a. met betrekking tot activiteiten als bedoeld in artikel 2.2;  
+
+b. in gevallen waarin een Onzer andere Ministers het bevoegd gezag is;  
+
+c. met betrekking tot een verklaring van een Onzer andere Ministers en de daarbij overeenkomstig artikel 2.27, vierde lid, aangegeven of aan te geven voorschriften.     
+2.  Voordat Onze Minister een aanwijzing geeft, bepaalt Onze Minister in overleg met de betrokken gemeenten en de spoorinfrabeheerder welke maatregelen door het rijk en deze partijen genomen zullen worden om de overschrijding van het vigerende risicoplafond zo veel als mogelijk te beperken. Hij deelt het voornemen, onder vermelding van de redenen daarvoor, mee aan de Staten-Generaal.   
+3.  Het bevoegd gezag doet van de wijze waarop gevolg is gegeven aan de aanwijzing, schriftelijk mededeling aan Onze Minister.   
+4.  De aanwijzing wordt vermeld in de beschikking van het bevoegd gezag, ter zake waarvan zij is gegeven. Een exemplaar ervan wordt gevoegd bij ieder exemplaar van die beschikking.   
+5.  Indien het bevoegd gezag niet of niet volledig gevolg geeft aan een aanwijzing als bedoeld in het eerste lid kan Onze Minister een besluit als bedoeld in het eerste lid nemen voor rekening van de rechtspersoon waartoe het betrokken bestuursorgaan behoort.  
+
 ### Artikel  2.33a  
 
 1.  In een geval behorende tot een krachtens artikel 4.1 aangewezen categorie kan een voorschrift overeenkomstig de betrokken algemene maatregel van bestuur aan een beschikking tot gehele of gedeeltelijke intrekking van de omgevingsvergunning worden verbonden.   
 2.  In een beschikking als bedoeld in het eerste lid kan worden bepaald dat een voorschrift als bedoeld in het eerste lid, dan wel daarbij aangegeven aan de omgevingsvergunning verbonden voorschriften gedurende een daarbij aan te geven termijn blijven gelden.  
-
-### §  2.7  
-
-####Aanwijzingen aan het bevoegd gezag
 
 ### Hoofdstuk  3  
 

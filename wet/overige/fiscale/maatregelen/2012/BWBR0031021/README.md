@@ -87,7 +87,7 @@ Wijzigt de Wet inkomstenbelasting BES.
 
 ### Artikel  XVII  
 
-[Artikel 25 van de Wet inkomstenbelasting BES](../../../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md) vindt op 1 januari 2012 geen toepassing. 
+Artikel 25 van de Wet inkomstenbelasting BES vindt op 1 januari 2012 geen toepassing. 
 
 ### Artikel  XVIII  
 
@@ -117,17 +117,17 @@ Wijzigt de Fiscale vereenvoudigingswet 2010.
 
 1.  Deze wet treedt in werking met ingang van 1 januari 2012, met dien verstande dat: 
 
-a. de voorwaarden die ingevolge de wijzigingen van artikel III, onderdeel A, worden gesteld aan de in [artikel 14, tweede lid, van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](../../../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md) bedoelde overeenkomst, voor het eerst toepassing vinden met betrekking tot overeenkomsten die ingaan op of na 1 januari 2012;  
+a. de voorwaarden die ingevolge de wijzigingen van artikel III, onderdeel A, worden gesteld aan de in artikel 14, tweede lid, van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen bedoelde overeenkomst, voor het eerst toepassing vinden met betrekking tot overeenkomsten die ingaan op of na 1 januari 2012;  
 
 b. de wijzigingen ingevolge artikel IV, onderdelen B, C, D en E, voor het eerst toepassing vinden met betrekking tot boekjaren die aanvangen op of na 1 januari 2012;  
 
-c. [artikel 30, tweede lid, van de Wet op de omzetbelasting 1968](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) zoals dat luidde op 31 december 2011, van toepassing blijft met betrekking tot de in die bepaling bedoelde intracommunautaire verwervingen die zijn verricht vóór 1 januari 2012;  
+c. artikel 30, tweede lid, van de Wet op de omzetbelasting 1968 zoals dat luidde op 31 december 2011, van toepassing blijft met betrekking tot de in die bepaling bedoelde intracommunautaire verwervingen die zijn verricht vóór 1 januari 2012;  
 
 d. de wijziging ingevolge artikel XIII, onderdeel A, onder 1, voor het eerst toepassing vindt met betrekking tot berekeningsjaren die zijn aangevangen op of na 1 januari 2012;  
 
 e. de wijziging ingevolge artikel XIII, onderdeel A, onder 2, voor het eerst toepassing vindt met betrekking tot berekeningsjaren die zijn aangevangen op of na 1 januari 2010, waarbij voor het berekeningsjaar dat is aangevangen op 1 januari 2010 «derde lid (nieuw)» wordt gelezen als: vijfde lid.  
 
-f. de wijzigingen ingevolge artikel XIII, onderdelen B, D en F, gelden voor de tegemoetkomingen met betrekking tot de berekeningsjaren die zijn aangevangen of aanvangen op of na 1 januari 2006 voor zover die tegemoetkomingen op 1 januari 2012 nog niet zijn toegekend, waarbij voor de toepassing van [artikel 14, derde lid, van Algemene wet inkomensafhankelijke regelingen](../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md) voor de berekeningsjaren 2006 en 2007 voor de zinsnede «geen inkomensgegeven in de basisregistratie inkomen, bedoeld in [artikel 21a, eerste lid, van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), is opgenomen, die persoon niet is uitgenodigd tot het doen van aangifte inkomstenbelasting en van die persoon ook geen beschikking ter zake van niet in Nederland belastbaar inkomen is of wordt vastgesteld» telkens moet worden gelezen: geen toetsingsinkomen als bedoeld in [artikel 8 van de Algemene wet inkomensafhankelijke regelingen](../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md) zoals dit artikel luidde op 1 januari van het berekeningsjaar is;  
+f. de wijzigingen ingevolge artikel XIII, onderdelen B, D en F, gelden voor de tegemoetkomingen met betrekking tot de berekeningsjaren die zijn aangevangen of aanvangen op of na 1 januari 2006 voor zover die tegemoetkomingen op 1 januari 2012 nog niet zijn toegekend, waarbij voor de toepassing van artikel 14, derde lid, van Algemene wet inkomensafhankelijke regelingen voor de berekeningsjaren 2006 en 2007 voor de zinsnede «geen inkomensgegeven in de basisregistratie inkomen, bedoeld in artikel 21a, eerste lid, van de Algemene wet inzake rijksbelastingen, is opgenomen, die persoon niet is uitgenodigd tot het doen van aangifte inkomstenbelasting en van die persoon ook geen beschikking ter zake van niet in Nederland belastbaar inkomen is of wordt vastgesteld» telkens moet worden gelezen: geen toetsingsinkomen als bedoeld in artikel 8 van de Algemene wet inkomensafhankelijke regelingen zoals dit artikel luidde op 1 januari van het berekeningsjaar is;  
 
 g. zaken die op de dag voorafgaand aan de inwerkingtreding van artikel XIV, onderdelen A, G, H, I, J, K, L, M en N, en artikel XV, onderdeel A, aanhangig waren bij de Raad van Beroep voor belastingzaken van rechtswege over gaan naar het Gerecht in eerste aanleg;  
 

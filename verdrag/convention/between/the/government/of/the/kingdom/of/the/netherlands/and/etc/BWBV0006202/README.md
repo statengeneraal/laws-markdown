@@ -4,7 +4,7 @@
 
 ####Convention between the Government of the Kingdom of the Netherlands and the Government of the United Kingdom of Great Britain and Northern Ireland for the avoidance of double taxation and the prevention of fiscal evasion with respect to bank taxes
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 30-04-2015 
 
 The Government of the Kingdom of the Netherlands and the Government of the United Kingdom of Great Britain and Northern Ireland, Desiring to conclude a Convention for the avoidance of double taxation and the prevention of fiscal evasion with respect to bank taxes,   Have agreed as follows:    
 
@@ -12,7 +12,7 @@ The Government of the Kingdom of the Netherlands and the Government of the Unite
 
 ####Entities covered
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 30-04-2015 
 
 This Convention shall apply to entities which are residents of one or both of the Contracting States. 
 
@@ -20,7 +20,7 @@ This Convention shall apply to entities which are residents of one or both of th
 
 ####Taxes Covered
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 30-04-2015 
 
 1.  This Convention shall apply to bank taxes imposed on behalf of a Contracting State, irrespective of the manner in which they are levied.   
 2.  The existing bank taxes to which the Convention shall apply are in particular: 
@@ -34,7 +34,7 @@ b) in the United Kingdom: the bank levy set out in Schedule 19 of the Finance Ac
 
 ####General Definitions
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 30-04-2015 
 
 1.  For the purposes of this Convention, unless the context otherwise requires: 
 
@@ -67,7 +67,7 @@ f) the term “competent authority” means:
 
 ####Residence
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 30-04-2015 
 
 The residence of an entity will be determined by the domestic laws of the Contracting States. Where an entity is a resident of both Contracting States, then the entity shall for the purposes of this Convention be deemed to be a resident only of the State in which its place of effective management is situated. 
 
@@ -75,7 +75,7 @@ The residence of an entity will be determined by the domestic laws of the Contra
 
 ####Elimination of Double Taxation
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 30-04-2015 
 
 1.  In the case of the Netherlands, double charging of bank tax shall be dealt with as follows: 
 
@@ -96,7 +96,7 @@ b) where the Netherlands bank tax has applied, either directly or through consol
 
 ####Mutual Agreement Procedure
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 30-04-2015 
 
 1.  Where an entity considers that the actions of one or both of the Contracting States result or will result for it in taxation not in accordance with the provisions of this Convention, it may, irrespective of the remedies provided by the domestic law of those States, present its case to either competent authority. The case must be presented within three years from the first notification of the action resulting in taxation not in accordance with the provisions of the Convention, or, if later, within six years from the end of the year or the chargeable period in respect of which that taxation is imposed or proposed.   
 2.  The competent authority to whom the case has been presented shall endeavour, if the objection appears to it to be justified and if it is not itself able to arrive at a satisfactory solution, to resolve the case by mutual agreement with the competent authority of the other Contracting State, with a view to the avoidance of taxation which is not in accordance with the Convention. Any agreement reached shall be implemented notwithstanding any time limits in the domestic law of the Contracting States, except such limitations as apply for the purposes of giving effect to such an agreement.   
@@ -112,7 +112,7 @@ b) the competent authorities are unable to reach an agreement to resolve that ca
 
 ####Exchange of Information
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 30-04-2015 
 
 1.  Subject to the provisions of the domestic law of the Contracting States, the competent authorities of the Contracting States shall exchange such information as is foreseeably relevant for carrying out the provisions of this Convention or to the administration or enforcement of the domestic laws concerning bank taxes, in particular, to prevent fraud and to facilitate the administration of statutory provisions against legal avoidance.   
 2.  Any information received under paragraph 1 by a Contracting State shall be treated as secret in the same manner as information obtained under the domestic laws of that State and shall be disclosed only to entities or authorities (including courts and administrative bodies) concerned with the assessment or collection of, the enforcement or prosecution in respect of, the determination of appeals in relation to the bank taxes or the oversight of the above. Such authorities shall use the information only for such purposes. They may disclose the information in public court proceedings or in judicial decisions. Notwithstanding the foregoing, information received by a Contracting State may be used for other purposes when such information may be used for such other purposes under the laws of both States and the competent authority of the supplying State authorises such use.   
@@ -130,7 +130,7 @@ c) to supply information which would disclose any trade, business, industrial, c
 
 ####Entry into Force
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 30-04-2015 
 
 Each of the Contracting States shall notify to the other, through diplomatic channels, the completion of the procedures required by its law for bringing into force this Convention. This Convention shall enter into force on the last day of the month following the month in which the later of these notifications has been received and shall have effect from 1 January 2011. Notice of completion shall be regarded as having been given by a Contracting State on the date of receipt of such notice by the other Contracting State. 
 
@@ -138,7 +138,7 @@ Each of the Contracting States shall notify to the other, through diplomatic cha
 
 ####Termination
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 30-04-2015 
 
 This Convention shall remain in force until terminated by one of the Contracting States. Either Contracting State may terminate the Convention, through diplomatic channels, by giving notice of termination at least six months before the end of any calendar year beginning after the expiry of five years from the date of entry into force of the Convention. In such event, the Convention shall cease to have effect from 1 January of the calendar year next following that in which the notice is given. Notice of termination shall be regarded as having been given by a Contracting State on the date of receipt of such notice by the other Contracting State. 
 
@@ -146,7 +146,7 @@ IN WITNESS WHEREOF the undersigned, duly authorised thereto, have signed this Co
 
 ####Protocol to the Convention between the Government of the Kingdom of the Netherlands and the Government of the United Kingdom of Great Britain and Northern Ireland for the avoidance of double taxation and the prevention of fiscal evasion with respect to bank taxes 
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 30-04-2015 
 
 At the moment of signing the Convention for the avoidance of double taxation with respect to bank taxes, this day concluded between the Government of the Kingdom of the Netherlands and the Government of the United Kingdom of Great Britain and Northern Ireland, the undersigned have agreed that the following provisions shall form an integral part of the Convention. 
 

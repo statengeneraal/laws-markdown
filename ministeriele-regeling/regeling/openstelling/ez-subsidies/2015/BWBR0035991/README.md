@@ -19,6 +19,18 @@ Besluit:
 | Titel 2.5: Garantstelling landbouw  | 2.5.2  | --- | --- | Tijdstip waarop de regeling van de Staatssecretaris van Economische Zaken van 27 januari 2015 houdende wijziging van de Regeling nationale EZ-subsidies en de Regeling openstelling EZ-subsidies 2015 in verband met aanpassingen van de Garantstelling landbouw aan de nieuwe staatsteunkaders en de openstelling ervan in werking is getreden tot en met 31-12-2015  | 42.500.000  |
 | Titel 3.2: TKI-toeslag  | 3.2.2, onderdeel a  | --- | --- | 06-01-2015 t/m 15-09-2015  | --- |
 | Titel 3.2: TKI-toeslag  | 3.2.2, onderdeel b  | --- | --- | 06-01-2015 t/m 15-10-2015  | --- |
+| Titel 3.3:  TKI MKB-versterking  | 3.3.4 en 3.3.6  | --- | HTSM/ICT  | 19-5-2015 t/m  15-9-2015  | € 400.000, waarvan ten hoogste  € 200.000 voor netwerkactiviteiten  |
+| Titel 3.3:  TKI MKB-versterking  | 3.3.4 en 3.3.6  | --- | Tuinbouw & Uitgangsmaterialen  | 19-5-2015 t/m  15-9-2015  | € 200.000, waarvan ten hoogste  € 100.000 voor netwerkactiviteiten  |
+| Titel 3.3:  TKI MKB-versterking  | 3.3.4 en 3.3.6  | --- | Logistiek  | 19-5-2015 t/m  15-9-2015  | € 200.000, waarvan ten hoogste  € 100.000 voor netwerkactiviteiten  |
+| Titel 3.3:  TKI MKB-versterking  | 3.3.4 en 3.3.6  | --- | Life Sciences and Health  | 19-5-2015 t/m  15-9-2015  | € 200.000, waarvan ten hoogste  € 100.000 voor netwerkactiviteiten  |
+| Titel 3.3:  TKI MKB-versterking  | 3.3.4 en 3.3.6  | --- | Water  | 19-5-2015 t/m  15-9-2015  | € 200.000, waarvan ten hoogste  € 100.000 voor netwerkactiviteiten  |
+| Titel 3.3:  TKI MKB-versterking  | 3.3.4 en 3.3.6  | --- | Chemie/Biobased economy  | 19-5-2015 t/m  15-9-2015  | € 400.000, waarvan ten hoogste  € 200.000 voor netwerkactiviteiten  |
+| Titel 3.3:  TKI MKB-versterking  | 3.3.4 en 3.3.6  | --- | Creatieve Industrie  | 19-5-2015 t/m  15-9-2015  | € 200.000, waarvan ten hoogste  € 100.000 voor netwerkactiviteiten  |
+| Titel 3.3:  TKI MKB-versterking  | 3.3.4 en 3.3.6  | --- | Agri&Food  | 19-5-2015 t/m  15-9-2015  | € 200.000, waarvan ten hoogste  € 100.000 voor netwerkactiviteiten  |
+| Titel 3.3:  TKI MKB-versterking  | 3.3.4 en 3.3.6  | --- | Energie  | 19-5-2015 t/m  15-9-2015  | € 200.000, waarvan ten hoogste  € 100.000 voor netwerkactiviteiten  |
+| Titel 3.4  | 3.4.4 en 3.4.15a  | --- | --- | 19-5-2015 t/m  15-9-2015  | € 3.900.000  |
+| Titel 3.4  | 3.4.8  | --- | --- | 19-5-2015 t/m  15-9-2015  | € 1.500.000  |
+| Titel 3.4  | 3.4.20  | --- | --- | 19-5-2015 t/m  15-9-2015  | € 11.000.000  |
 | Titel 3.7: Eurostarsprojecten  | 3.7.2  | --- | --- | 18-12-2014 t/m 06-01-2015  | 9.162.500  |
 | Titel 3.8: Internationaal innoveren  | 3.8.2  | ITEA3-innovatieprojecten  | --- | 14-03-2015 t/m 03-04-2015  | 10.000.000  |
 | Titel 3.9: Innovatiekredieten  | 3.9.2  | Klinische ontwikkelingsprojecten  | --- | 01-01-2015 t/m 31-12-2015  | 20.000.000  |
@@ -31,6 +43,20 @@ Besluit:
 | Titel 3.16: Vroege fase financiering  | 3.16.2  | MKB-ondernemer  | --- | 01-01- 2015 t/m 01-07-2015  | 1.000.000  |
 | Titel 3.16: Vroege fase financiering  | 3.16.7  | Innovatieve starter  | --- | 01-01- 2015 t/m 01-07-2015  | 2.800.000  |
 | Titel 3.16: Vroege fase financiering  | 3.16.12  | Academische innovatieve starter  | --- | 15-01-2015 t/m 02-03-2015  | 1.900.000  |
+| Titel 4.2: Topsector energie-projecten  | 4.2.9  | BBE Innovatieproject  | --- | 01-04-2015 t/m 15-09-2015  | 2.700.000  |
+| 4.2.16  | Hernieuwbare-energieproject  | --- | 01-04-2015 t/m 15-12-2015  | 50.000.000  |
+| 4.2.23  | STEM-project  | --- | 01-04-2015 t/m 18-07-2015  | 1.500.000  |
+| 4.2.44  | LNG-project  | --- | 01-04-2015 t/m 16-06-2015  | 1.600.000  |
+| 4.2.58  | iDEEGO-project  | 1. Zonnestroom (PV) systemen  | 01-04-2015 t/m 02-06-2015  | 1.200.000  |
+| --- | --- | 2. Compacte conversie en opslag van thermische energie  | 01-04-2015 t/m 02-06-2015  | 500.000  |
+| --- | --- | 3. Multifunctionele bouwdelen  | 01-04-2015 t/m 02-06-2015  | 500.000  |
+| --- | --- | 4. Energieregel-systemen en -diensten  | 01-04-2015 t/m 02-06-2015  | 800.000  |
+| --- | --- | 5. Flexibele energie-infrastructuur  | 01-04-2015 t/m 02-06-2015  | 800.000  |
+| 4.2.65  | DEI-project  | --- | 01-04 t/m 28-04-2015  | 14.000.000  |
+| 4.2.65  | DEI-project  | --- | 01-07-2015 t/m 27-10-2015  | 20.000.000  |
+| 4.2.79  | Jip-energiebesparing industrieproject  | --- | 01-04-2015 t/m 30-06-2015  | 5.200.000  |
+| 4.2.86  | Wind op zee R&D-project  | --- | 01-04-2015 t/m 06-10-2015  | 3.700.000  |
+| 4.2.107  | Energiebesparing industrie: early adopterproject  | --- | 01-04-2015 t/m 06-10-2015  | 500.000  |
 | Titel 4.4: Indirecte emissiekosten ETS  | 4.4.2  | --- | --- | 15-01-2015 t/m 15-04-2015  | 50.000.000  |
 
 ### Artikel  2  

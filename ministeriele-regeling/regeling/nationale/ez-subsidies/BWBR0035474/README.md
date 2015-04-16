@@ -1058,14 +1058,14 @@ b. de private bijdragen aan TKI-relevante onderzoeksopdrachten,   die in het kal
 
 ####Algemeen nut beogende instellingen
 
-1.  In afwijking van de artikelen 3.2.3, eerste lid, en 3.2.5, eerste lid, worden private bijdragen aan onderzoeksorganisaties voor onderzoek dat past binnen een programma als bedoeld in artikel 3.2.2 eerste lid, afkomstig van instellingen als bedoeld in artikel 5b, eerste lid, van de Algemene wet inzake rijksbelastingen, in aanmerking genomen tot ten hoogste € 75.000.000 per jaar.   
-2.  Indien de in een bepaalde openstellingsperiode ingediende aanvragen het bedrag, bedoeld in het eerste lid, overschrijden, worden de in de desbetreffende aanvragen opgenomen bedragen op volgorde van binnenkomst in aanmerking genomen.  
+1.  In afwijking van de artikelen 3.2.3, eerste lid, en 3.2.5, eerste lid, worden private bijdragen aan onderzoeksorganisaties, al dan niet binnen een samenwerkingsproject, voor onderzoek dat past binnen een programma als bedoeld in artikel 3.2.2 eerste lid, afkomstig van instellingen als bedoeld in artikel 5b, eerste lid, van de Algemene wet inzake rijksbelastingen, in aanmerking genomen tot ten hoogste € 75.000.000 per jaar.   
+2.  Indien het totaal van de in een bepaalde openstellingsperiode ingediende aanvragen het bedrag, bedoeld in het eerste lid, overschrijden, worden de in de desbetreffende aanvragen opgenomen bedragen op volgorde van binnenkomst in aanmerking genomen.  
 
 ### Artikel  3.2.7  
 
 ####Toewijzingsgronden TKI-toeslag
 
-1.  De minister verstrekt uitsluitend TKI-toeslag indien ten aanzien van de inzet van TKI-toeslag voor een samenwerkingsproject wordt voldaan aan de voorwaarden in paragraaf 2.2.2, nummer 28, onderdeel b of d in samenhang met nummer 29, van de O&O&I-kaderregeling.   
+1.  De minister verstrekt uitsluitend TKI-toeslag indien ten aanzien van de inzet van TKI-toeslag voor een samenwerkingsproject wordt voldaan aan de voorwaarden in paragraaf 2.2.2, nummer 28, onderdeel b, c of d in samenhang met nummer 29, van de O&O&I-kaderregeling.   
 2.  De minister verstrekt voorts uitsluitend TKI-toeslag voor zover: 
 
 a. verzekerd is dat op het terrein van het programma werkzame ondernemers en onderzoeksorganisaties onder transparante en redelijke voorwaarden in aanmerking komen voor deelname aan samenwerkingsprojecten die passen in het programma;  
@@ -1335,6 +1335,8 @@ Deze titel vervalt met ingang van 1 november 2017, met dien verstande dat deze 
 
 1.  In deze titel wordt verstaan onder: 
 
+*Adviesorganisatie:* organisatie, niet zijnde een kennisinstelling, die deskundigheid heeft op het gebied van de op grond van deze regeling te subsidiëren activiteiten, en die als bedrijfsactiviteit adviesopdrachten uitvoert; 
+
 *detachering:* detachering als bedoeld in artikel 2, onderdeel 98, van de algemene groepsvrijstellingsverordening;  
 
 *hooggekwalificeerd personeel:* hooggekwalificeerd personeel als bedoeld in artikel 2, onderdeel 93, van de algemene groepsvrijstellingsverordening;  
@@ -1361,6 +1363,10 @@ d. rechtspersoon ten aanzien waarvan een instelling als bedoeld onder a, b of c 
 
 e. onderzoeksorganisatie zonder winstoogmerk met eigen medewerkers in loondienst, die tot doel heeft via het structureel doen van eigen onderzoek en het ontwikkelen en testen van technische toepassingen door haar medewerkers, de technologische kennis op een specifiek terrein te bevorderen, die geen instelling is als bedoeld onder a tot en met d;    
 
+*MIT-haalbaarheidsproject:* een project dat bestaat uit een haalbaarheidsstudie, of uit een combinatie van een haalbaarheidsstudie en experimentele ontwikkeling of industrieel onderzoek; 
+
+*MIT-innovatie-adviesproject:* een door een kennisinstelling of een onafhankelijke adviesorganisatie verrichte activiteit bestaande uit het, al dan niet op basis van te verrichten nader onderzoek, adviseren over een toepassingsgerichte kennisvraag van een ondernemer, uitgaande van voor de ondernemer nieuwe kennis met betrekking tot de vernieuwing van producten, productieprocessen of diensten, dan wel het verstrekken van innovatieadviesdiensten of innovatieondersteunings-diensten als bedoeld in artikel 2, nrs. 94 en 95 van de algemene groeps-vrijstellingsverordening; 
+
 *MIT-kennisoverdrachtsproject:* een door een kennisinstelling verrichte activiteit bestaande uit het, al dan niet op basis van te verrichten nader onderzoek, beantwoorden van een toepassingsgerichte kennisvraag van een ondernemer, uitgaande van voor de ondernemer nieuwe kennis met betrekking tot de vernieuwing van producten, productieprocessen of diensten;  
 
 *MIT-kennisvoucher:* een op grond van artikel 3.4.8 door de minister aan een MKB-ondernemer afgegeven document, dat deze ondernemer kan inleveren bij een kennisinstelling ten behoeve van de uitvoering van een MIT-kennisoverdrachtsproject;  
@@ -1374,39 +1380,61 @@ e. onderzoeksorganisatie zonder winstoogmerk met eigen medewerkers in loondienst
 
 ####Subsidieaanvraag
 
-1.  De minister verstrekt op grond van deze titel op aanvraag subsidie voor activiteiten die passen binnen de programma’s die als bijlagen op het Ministerie van Economische Zaken ter inzage liggen.   
-2.  De minister verdeelt de aan deze activiteiten verbonden subsidieplafonds voor de paragrafen 2, 3, 4 en 6 van deze titel op volgorde van binnenkomst van de aanvragen en voor titel 5 op volgorde van rangschikking van de aanvragen.  
+1.  De minister verstrekt op grond van deze titel op aanvraag subsidie voor activiteiten die passen binnen een programma of plan dat is opgenomen in een van de volgende bijlagen: 
+
+a. MKB-Innovatiestimuleringsplan 2015 voor de topsector HTSM;  
+
+b. MIT-programma Tuinbouw & Uitgangsmaterialen (T&U), 2015;  
+
+c. MIT-programma Logistiek, 2015;  
+
+d. MIT programma Life Sciences and Health, 2015;  
+
+e. MIT-programma Water, 2015;  
+
+f. MKB-Innovatiestimuleringsplan (MIT) 2015 voor Chemie en Energie;  
+
+g. MIT-MKB-plan Creatieve Industrie, 2015;  
+
+h. MIT-programma Agri&Food, 2015.     
+2.  De minister verdeelt de aan deze activiteiten verbonden subsidieplafonds voor de paragrafen 2, 3, 3a, 4 en 6 van deze titel op volgorde van binnenkomst van de aanvragen en voor titel 5 op volgorde van rangschikking van de aanvragen.  
 
 ### Artikel  3.4.3  
 
 ####Afwijzingsgrond
 
-Een aanvraag van een MKB-ondernemer wordt afgewezen indien aan hem in hetzelfde kalenderjaar al subsidie of een MIT-kennisvoucher is verstrekt op grond van deze titel. 
+1. Een aanvraag van een MKB-ondernemer wordt afgewezen indien aan hem in hetzelfde kalenderjaar al subsidie, met uitzondering van een MIT-kennisvoucher, is verstrekt op grond van deze titel. 
+2.  Een aanvraag voor een subsidie voor een MIT-innovatie-adviesproject, een MIT-haalbaarheidsproject en een MIT-R&D-samenwerkingsproject wordt afgewezen indien in 2015 door een provincie of een samenwerkingsverband van provincies een subsidie voor de genoemde soorten projecten kan worden verstrekt. 
+
+### Artikel  3.4.3a  
+
+De aanvrager voegt bij de aanvraag een samenvatting van het project waarvoor de subsidie wordt aangevraagd die door de minister kan worden gebruikt in voor een ieder toegankelijke publicaties. 
 
 ### §  3.4.2  
 
-####Haalbaarheidsstudies in het kader van de MIT
+####MIT-haalbaarheidsprojecten
 
 ### Artikel  3.4.4  
 
 ####Doelgroep
 
-Subsidie voor een haalbaarheidsstudie wordt verleend aan een MKB-ondernemer. 
+Subsidie voor een haalbaarheidsproject wordt verleend aan een MKB-ondernemer. 
 
 ### Artikel  3.4.5  
 
 ####Steunintensiteit
 
-1.  De subsidiabele kosten zijn de kosten, bedoeld in artikel 25, vierde lid, van de algemene groepsvrijstellingsverordening.  
-2.  In afwijking van artikel 1.3 bedraagt de subsidie voor een haalbaarheidsstudie 40 procent van de subsidiabele kosten.   
-3.  Het maximum subsidiebedrag bedraagt € 50.000 per haalbaarheidsstudie.  
+1.  De minister verstrekt op aanvraag subsidie aan een MKB-ondernemer die een MIT-haalbaarheidsproject uitvoert dat voor ten minste 60% bestaat uit een haalbaarheidsstudie en voor ten hoogste 40% uit industrieel onderzoek of experimentele ontwikkeling.   
+2.  Het subsidiebedrag bedraagt ten hoogste € 50.000,–.   
+3.  In aanvulling op artikel 1.3 bedraagt het subsidiepercentage voor een haalbaarheidsproject in zijn geheel ten hoogste 40%.   
+4.  De subsidiabele kosten zijn de kosten als bedoeld in artikel 25, derde en vierde lid, van de algemene groepsvrijstellingsverordening. 
 
 ### Artikel  3.4.6  
 
 ####Start- en realisatietermijn
 
-1.  Met de uitvoering van de haalbaarheidsstudie wordt gestart binnen zes maanden na indiening van de subsidieaanvraag.   
-2.  De haalbaarheidsstudie wordt uitgevoerd binnen twaalf maanden na de start van de haalbaarheidsstudie.  
+1.  Met de uitvoering van het haalbaarheidsproject wordt gestart binnen vier maanden na indiening van de subsidieaanvraag.   
+2.  Het haalbaarheidsproject wordt uitgevoerd binnen twaalf maanden na de start van het haalbaarheidsproject. 
 
 ### Artikel  3.4.7  
 
@@ -1414,9 +1442,9 @@ Subsidie voor een haalbaarheidsstudie wordt verleend aan een MKB-ondernemer.
 
 De minister beslist afwijzend op een aanvraag indien: 
 
-a. de voorgenomen activiteiten waarop de haalbaarheidsstudie betrekking heeft in technische of financiële zin onvoldoende risicovol zijn om de haalbaarheidsstudie te rechtvaardigen;  
+a. de voorgenomen activiteiten waarop het haalbaarheidsproject betrekking heeft in technische of financiële zin onvoldoende risicovol zijn om de haalbaarheidsstudie te rechtvaardigen;  
 
-b. de haalbaarheidsstudie onvoldoende inzicht geeft in het economisch perspectief en de uitvoerbaarheid van de voorgenomen activiteiten waarop de haalbaarheidsstudie betrekking heeft.   
+b. het haalbaarheidsproject onvoldoende inzicht geeft in het economisch perspectief en de uitvoerbaarheid van de voorgenomen activiteiten waarop de haalbaarheidsstudie betrekking heeft.  
 
 ### §  3.4.3  
 
@@ -1436,7 +1464,7 @@ Een MIT-kennisvoucher heeft een waarde van maximaal € 3.750 en wordt aan een 
 
 ####Subsidiabele kosten
 
-De waarde van de voucher bedraagt 40 procent van de subsidiabele kosten tot een maximum van € 3.750. 
+De waarde van de voucher bedraagt 50 procent van de subsidiabele kosten tot een maximum van € 3.750. 
 
 ### Artikel  3.4.10  
 
@@ -1449,7 +1477,8 @@ De MKB-ondernemer vermeldt bij de aanvraag de kennisvraag die hij in het kader v
 ####Besteding MIT-kennisvoucher
 
 1.  De MKB-ondernemer besteedt de MIT-kennisvoucher bij een van de in de aanvraag met naam en toenaam opgenomen kennisinstellingen.   
-2.  In de aanvraag worden maximaal drie kennisinstellingen opgenomen.  
+2.  In de aanvraag worden maximaal drie kennisinstellingen opgenomen.   
+3.  De MKB-ondernemer legt binnen 4 maanden na de dagtekening van de toekenning van een MIT-kennisvoucher een offerte of een ondertekende opdrachtbevestiging van de kennisinstelling over. 
 
 ### Artikel  3.4.12  
 
@@ -1460,6 +1489,12 @@ De minister beslist afwijzend op een aanvraag indien:
 a. de ondernemer en de kennisinstelling reeds voor de afgiftedatum van de MIT-kennisvoucher verplichtingen jegens elkaar zijn aangegaan met betrekking tot het MIT-kennisoverdrachtsproject;  
 
 b. de ondernemer de MIT-kennisvoucher wil aanwenden voor een MIT-kennisoverdrachtsproject waarvoor reeds door een bestuursorgaan of de Europese Commissie subsidie is verstrekt of dat deel uitmaakt van een project of programma waarvoor reeds door een bestuursorgaan of de Europese Commissie subsidie is verstrekt.   
+
+### Artikel  3.4.12a  
+
+####Ambtshalve vaststelling
+
+De minister stelt de subsidie vast op nihil indien niet wordt voldaan aan artikel 3.4.11, derde lid. 
 
 ### §  3.4.3.2  
 
@@ -1483,6 +1518,40 @@ De subsidie bedraagt 40 procent van de door de kennisinstelling ten behoeve van 
 
 1.  Een aanvraag om subsidie wordt na afloop van het MIT-kennisoverdrachtsproject door de kennisinstelling ingediend.   
 2.  De aanvraag moet binnen een jaar nadat de MIT-kennisvoucher aan de ondernemer is verstrekt zijn ontvangen. Op een voor het einde van de termijn daartoe ingediend verzoek kan de minister deze termijn eenmalig verlengen met ten hoogste zes maanden.  
+
+### §  3.4.3a  
+
+####MIT-innovatie-adviesprojecten
+
+### Artikel  3.4.15a  
+
+####Doelgroep
+
+Subsidie voor een MIT-innovatie-adviesproject wordt verleend aan een MKB-ondernemer. 
+
+### Artikel  3.4.15b  
+
+####Steunintensiteit
+
+1.  De minister verstrekt op aanvraag subsidie aan een MKB-ondernemer die een MIT-innovatie-adviesproject laat uitvoeren.   
+2.  Het subsidiebedrag bedraagt ten hoogste € 10.000,–.   
+3.  De subsidie bedraagt ten hoogste 50% van de subsidiabele kosten.   
+4.  De subsidiabele kosten zijn de kosten, waaronder loonkosten, van het verstrekken van advies en procesbegeleiding door kennisinstellingen of door onafhankelijke adviesorganisaties.  
+
+### Artikel  3.4.15c  
+
+1.  Bij de aanvraag wordt een beknopt plan gevoegd, waarin de kennisvraag en de doelstelling van het innovatietraject zijn gevoegd, alsmede de kennisinstelling of adviesorganisatie worden genoemd die het MIT-innovatieadviesproject gaat uitvoeren.   
+2.  Bij de aanvraag wordt een verklaring gevoegd waaruit blijkt dat de adviesorganisatie die met de aanvrager het innovatieadviesproject gaat uitvoeren organisatorisch en financieel onafhankelijk van de aanvrager is.   
+3.  Met de uitvoering van het innovatieadviesproject wordt gestart binnen vier maanden na de subsidieverlening.   
+4.  Het innovatieadviesproject wordt uitgevoerd binnen twaalf maanden na de start van het project.  
+
+### Artikel  3.4.15d  
+
+De minister beslist afwijzend op een aanvraag indien: 
+
+a. de ondernemer en de kennisinstelling reeds voor de subsidieverlening verplichtingen jegens elkaar zijn aangegaan met betrekking tot het MIT-innovatie-adviesproject;  
+
+b. de kennisvraag in het beknopte plan kennelijk onvoldoende aansluit bij het in het beknopte plan beschreven innovatietraject.   
 
 ### §  3.4.4  
 
@@ -1523,7 +1592,8 @@ De subsidiabele kosten zijn de kosten, bedoeld in artikel 28, tweede lid, onderd
 
 ####MIT-R&D-samenwerkingsverband
 
-De minister verstrekt op aanvraag subsidie aan een deelnemer in een MIT-R&D-samenwerkingsverband dat een MIT-R&D-samenwerkingsproject uitvoert. 
+1. De minister verstrekt op aanvraag subsidie aan een deelnemer in een MIT-R&D-samenwerkingsverband dat een MIT-R&D-samenwerkingsproject uitvoert.  
+2.  De subsidiabele kosten van een MIT-R&D-samenwerkingsproject bedragen ten minste € 50.000,–. 
 
 ### Artikel  3.4.21  
 
@@ -1536,9 +1606,9 @@ De penvoerder is een onderneming die deelneemt aan het MIT-R&D-samenwerkingsverb
 ####Steunintensiteit
 
 1.  De subsidiabele kosten zijn de kosten, bedoeld in artikel 25, derde lid, van de algemene groepsvrijstellingsverordening.  
-2.  In afwijking van artikel 1.3 bedraagt de subsidie voor een MIT-R&D-samenwerkingsproject 30 procent van de subsidiabele kosten.   
+2.  In afwijking van artikel 1.3 bedraagt de subsidie voor een MIT-R&D-samenwerkingsproject 35 procent van de subsidiabele kosten.   
 3.  Elke individuele deelnemer aan het MIT-R&D-samenwerkingsverband neemt niet meer dan 70 procent van de voor subsidie in aanmerking komende kosten van het MIT-R&D-samenwerkingsproject voor zijn rekening.   
-4.  Het maximum subsidiebedrag bedraagt € 200.000 per MIT-R&D-samenwerkingsproject.   
+4.  Het subsidiebedrag bedraagt ten hoogste € 200.000,–.   
 5.  Het maximum subsidiebedrag bedraagt € 100.000 per deelnemer aan het MIT-R&D-samenwerkingsverband.  
 
 ### Artikel  3.4.23  
@@ -1576,11 +1646,9 @@ c. de kwaliteit van de R&D samenwerking hoger is, ten minste blijkend uit de mat
 
 d. er meer sprake is van sectoroverstijgende combinaties en van combinaties van sectoren, genoemd in de bijlagen, bedoeld in artikel 3.4.2, eerste lid, die niet conventioneel zijn.     
 2.  De minister kent voor de onderdelen a, b en c van het eerste lid ten minste één en ten hoogste dertig punten toe en voor onderdeel d van het eerste lid één en ten hoogste tien punten.   
-3.  De minister kent tien additionele punten toe aan een project met eveneens een regionaal belang, blijkend uit een beschikking tot verlening van subsidie door het bevoegde bestuursorgaan van een provincie, waarmee ten minste 15 procent van de subsidiabele projectkosten door die provincie wordt gefinancierd.   
-4.  De minister rangschikt de aanvragen waarop niet afwijzend is beslist hoger naarmate in totaal meer punten aan het project zijn toegekend.   
-5.  De minister stelt een algemeen subsidieplafond vast voor alle in de bijlagen, bedoeld in artikel 3.4.2, eerste lid, genoemde sectoren tezamen en een subsidieplafond per sector.   
-6.  De minister verdeelt het algemene subsidieplafond onder de aanvragen die het hoogste zijn gerangschikt.   
-7.  Na uitputting van het algemene subsidieplafond verdeelt de minister de sectorale subsidieplafonds, op volgorde van de sortering op sector binnen de rangschikking  
+3.  De minister rangschikt de aanvragen waarop niet afwijzend is beslist hoger naarmate in totaal meer punten aan het project zijn toegekend.   
+4.  De minister stelt een algemeen subsidieplafond vast voor alle in de bijlagen, bedoeld in artikel 3.4.2, eerste lid, genoemde sectoren tezamen en een subsidieplafond per sector.   
+5.  De minister verdeelt het algemene subsidieplafond onder de aanvragen die het hoogste zijn gerangschikt.  
 
 ### §  3.4.6  
 
@@ -3666,7 +3734,7 @@ Deze titel en de bijlagen 3.16.1, 3.16.2 en 3.16.3 vervallen met ingang van 1 j
 
 In dit hoofdstuk wordt verstaan onder: 
 
-*demonstratieproject:* op bescherming van het milieu gericht samenhangend geheel van activiteiten die een technisch en economisch risico inhouden, waarbij die activiteiten bestaan uit het door de aanvrager treffen van energie-efficiëntie maatregelen of maatregelen ter bevordering van energie uit hernieuwbare energiebronnen met behulp van: 
+*energiedemonstratieproject:* op bescherming van het milieu gericht samenhangend geheel van activiteiten die een technisch en economisch risico inhouden, waarbij die activiteiten bestaan uit het door de aanvrager treffen van energie-efficiëntie maatregelen of maatregelen ter bevordering van energie uit hernieuwbare energiebronnen met behulp van: 
 
 a. voor Nederland nieuwe apparaten, systemen of technieken, of  
 
@@ -3689,6 +3757,8 @@ c. geheel of gedeeltelijk door een andere staat gefinancierde openbare instellin
 d. geheel of gedeeltelijk door een andere staat gefinancierde onderzoeksinstelling die activiteiten verricht met als doel de algemene wetenschappelijke en technische kennis uit te breiden;    
 
 *milieubescherming:* milieubescherming als bedoeld in paragraaf 1.3, onderdeel 19, onder 1, van de Richtsnoeren staatssteun ten behoeve van milieubescherming en energie 2014–2020 (PbEU 2014, C200); 
+
+*niet-economische activiteiten van onderzoeksorganisaties:* fundamenteel onderzoek, industrieel onderzoek of experimentele ontwikkeling of een combinatie van deze vormen, onafhankelijk uitgevoerd door onderzoeksorganisaties en in de boekhouding van deze organisaties opgenomen als niet-economische activiteiten;
 
 *ondernemer in de landbouwsector:* ondernemer die activiteiten verricht op het gebied van de productie, verwerking en afzet van landbouwproducten als bedoeld in bijlage 1 bij het Verdrag tot oprichting van de Europese Gemeenschap, met uitzondering van ondernemers in de visserij- en aquacultuursector en in de bosbouwsector;  
 
@@ -3751,7 +3821,9 @@ a. gegevens over de aanvrager, waaronder de naam van de organisatie, het KvK-num
 
 b. gegevens over de contactpersoon bij de aanvrager, waaronder de naam, het telefoonnummer en het e-mailadres;  
 
-c. kerngegevens over het project.     
+c. kerngegevens over het project;  
+
+d.informatie over de wijze waarop de aanvrager en indien van toepassing de deelnemers van een samenwerkingsverband hun eigen aandeel in de projectkosten financieren.   
 3.  De aanvraag voor de vaststelling van een subsidie die krachtens deze titel is verleend bevat in ieder geval: 
 
 a. gegevens over de aanvrager, waaronder de naam van de aanvrager en het door de minister verstrekte referentienummer;  
@@ -3762,9 +3834,10 @@ c. de kerngegevens voor de onderbouwing van de subsidievaststelling.
 
 ### Artikel  4.2.4  
 
-####Demonstratieprojecten
+####Energiedemonstratieprojecten
 
-Voor zover de subsidiabele projectkosten betrekking hebben op een demonstratieproject als bedoeld in deze titel, zijn de artikelen 10, derde lid, en 38, eerste lid, onderdelen b tot en met d, van het besluit niet van toepassing. 
+1. Voor zover de subsidiabele projectkosten betrekking hebben op een energiedemonstratieproject als bedoeld in deze titel, zijn de artikelen 10, derde lid, en 38, eerste lid, onderdelen b tot en met d, van het besluit niet van toepassing. 
+2. Voor een energiedemonstratieproject dat maatregelen betreft ter bevordering van energie uit hernieuwbare bronnen, wordt geen subsidie uitgekeerd nadat de installatie in bedrijf is genomen.
 
 ### Artikel  4.2.5  
 
@@ -3777,8 +3850,7 @@ Voor zover de subsidiabele projectkosten betrekking hebben op een demonstratiepr
 
 ####Vervaltermijn
 
-1.  Deze titel vervalt met ingang van 1 juli 2017, met dien verstande dat deze van toepassing blijft op subsidies die voor die datum zijn verleend.   
-2.  De bijlagen 4.2.1, 4.2.2, 4.2.3, 4.2.3, 4.2.4, 4.2.5, 4.2.6, 4.2.7, 4.2.8, 4.2.9, 4.2.10, 4.2.11, 4.2.12, 4.2.13, 4.2.14, 4.2.15, 4.2.16 en 4.2.17 vervallen met ingang van 1 juli 2017.  
+Deze titel en de bijlagen 4.2.1, 4.2.2, 4.2.3, 4.2.4, 4.2.5, 4.2.6, 4.2.8, 4.2.9, 4.2.10, 4.2.11, 4.2.12 en 4.2.15, vervallen met ingang van 1 juli 2017, met dien verstande dat deze van toepassing blijven op subsidies die voor die datum zijn verleend. 
 
 ### §  4.2.2  
 
@@ -3794,8 +3866,8 @@ In deze paragraaf wordt verstaan onder BBE Innovatieproject: project bestaande u
 
 ####Subsidieaanvraag
 
-1.  De minister verstrekt op aanvraag een subsidie aan een deelnemer in een samenwerkingsverband voor het uitvoeren van een BBE Innovatieproject.   
-2.  Een samenwerkingsverband bestaat ten minste uit twee ondernemingen.  
+1.  De minister verstrekt op aanvraag een subsidie aan een deelnemer in een samenwerkingsverband voor het uitvoeren van een BBE Innovatieproject.  
+2. Een samenwerkingsverband bevat ten minste één onderneming. 
 
 ### Artikel  4.2.10  
 
@@ -3805,13 +3877,11 @@ In deze paragraaf wordt verstaan onder BBE Innovatieproject: project bestaande u
 
 a. 50% van de subsidiabele kosten voor zover deze betrekking hebben op industrieel onderzoek;  
 
-b. 25% van de subsidiabele kosten voor zover deze betrekking hebben op experimentele ontwikkeling.     
-2.  De in het eerste lid genoemde percentages worden met 10 procentpunten verhoogd, voor zover de aanvrager een MKB-ondernemer is en de subsidiabele kosten worden gemaakt en betaald door de MKB-ondernemer.   
-3.  Onverminderd het tweede lid, wordt het in het eerste lid, onderdeel b, bedoelde percentage voor ondernemingen met 5 procentpunten verhoogd indien: 
+b. 25% van de subsidiabele kosten voor zover deze betrekking hebben op experimentele ontwikkeling; 
 
-a. geen van de ondernemingen meer dan 70% van de subsidiabele kosten voor rekening moet nemen en ten minste één deelnemer in het samenwerkingsverband een MKB-ondernemer is of ten minste één deelnemer in het samenwerkingsverband in een andere lidstaat van de Europese Unie dan Nederland is gevestigd en niet behoort tot een groep van een in Nederland gevestigde deelnemer, of  
-
-b. het project samenwerking met een onderzoeksorganisatie betreft, de onderzoeksorganisatie minstens 10% van de subsidiabele projectkosten draagt en de onderzoeksorganisatie het recht heeft de resultaten van het project te publiceren voor zover deze afkomstig zijn van het door die organisatie uitgevoerde onderzoek.     
+c.80% van de subsidiabele kosten voor zover deze betrekking hebben op niet-economische activiteiten van onderzoeksorganisaties.    
+2.   De in het eerste lid, onderdelen a en b, genoemde percentages worden met 20 procentpunten verhoogd, indien de aanvrager een kleine onderneming is en de subsidiabele kosten worden gemaakt en betaald door de kleine onderneming.   
+3.  De in het eerste lid, onderdelen a en b, genoemde percentages worden met 10 procentpunten verhoogd, indien de aanvrager een middelgrote onderneming is en de subsidiabele kosten worden gemaakt en betaald door de middelgrote ondernemer.   
 4.  De subsidie bedraagt maximaal € 500.000 per BBE Innovatieproject.  
 
 ### Artikel  4.2.11  
@@ -3834,9 +3904,7 @@ De minister beslist afwijzend op een aanvraag indien:
 
 a. na toepassing van artikel 4.2.14, eerste lid, minder dan 12 punten zijn toegekend;  
 
-b. niet ten minste 40% van de subsidiabele projectkosten wordt gefinancierd door ondernemingen;  
-
-c. eerder op grond van deze titel een subsidie is verstrekt voor een soortgelijk project.   
+b. eerder op grond van deze titel een subsidie is verstrekt voor een soortgelijk project.   
 
 ### Artikel  4.2.14  
 
@@ -3863,53 +3931,49 @@ De subsidie, bedoeld in artikel 4.2.9. bevat staatssteun en wordt gerechtvaardig
 
 ### §  4.2.3  
 
-####Biobased Economy: Kostprijsreductie elektriciteit- en warmteproductie
+####Hernieuwbare energie
 
 ### Artikel  4.2.15  
 
 ####Begripsomschrijving
 
-In deze paragraaf wordt verstaan onder BBE KEW-project: project bestaande uit industrieel onderzoek of experimentele ontwikkeling of zijnde een demonstratieproject of een combinatie van deze vormen, dat past binnen de in bijlage 4.2.2 (BBE KEW projecten) opgenomen programmalijnen. 
+In deze paragraaf wordt verstaan onder hernieuwbare-energieproject: project bestaande uit industrieel onderzoek of experimentele ontwikkeling of zijnde een energiedemonstratieproject of een combinatie van deze vormen, dat past binnen de in bijlage 4.2.2. (hernieuwbare-energieprojecten) opgenomen programmalijnen. 
 
 ### Artikel  4.2.16  
 
 ####Subsidieaanvraag
 
-a. De minister verstrekt op aanvraag een subsidie aan een deelnemer in een samenwerkingsverband voor het uitvoeren van een BBE KEW-project.  
-
-b. Een samenwerkingsverband bestaat ten minste uit twee ondernemingen.   
+1.  De minister verstrekt op aanvraag een subsidie aan een deelnemer in een samenwerkingsverband voor het uitvoeren van een hernieuwbare-energieproject.   
+2.  Een samenwerkingsverband bevat ten minste één onderneming.  
 
 ### Artikel  4.2.17  
 
 ####Steunintensiteit
 
-1.  In afwijking van artikel 1.3 bedraagt de subsidie voor een BBE-KEW-project ten hoogste: 
+1.  In afwijking van artikel 1.3 bedraagt de subsidie voor een hernieuwbare-energieproject ten hoogste: 
 
 a. 50% van de subsidiabele kosten voor zover deze betrekking hebben op industrieel onderzoek;  
 
-b. 25% van de subsidiabele kosten voor zover deze betrekking hebben op experimentele ontwikkeling;  
+b. 25% van de subsidiabele kosten voor zover deze betrekking hebben op experimentele ontwikkeling; 
 
-c. voor een demonstratieproject: 
+c. 80% van de subsidiabele kosten voor zover deze betrekking hebben op niet-economische activiteiten van onderzoeksorganisaties;  
 
-1°. 30% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat energie-efficiëntie maatregelen betreft;  
+d. voor een energiedemonstratieproject: 
 
-2°. 45% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat maatregelen betreft ter bevordering van energie uit hernieuwbare energiebronnen en waarbij de subsidiabele kosten worden berekend in overeenstemming met artikel 41, zesde lid, onderdeel a of b, van de algemene groepsvrijstellingsverordening;  
+1°. 45% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat maatregelen betreft ter bevordering van energie uit hernieuwbare energiebronnen en waarbij de subsidiabele kosten worden berekend in overeenstemming met artikel 41, zesde lid, onderdeel a of b, van de algemene groepsvrijstellingsverordening;  
 
-3°. 30% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat maatregelen betreft ter bevordering van energie uit hernieuwbare energiebronnen en waarbij de subsidiabele kosten worden berekend in overeenstemming met artikel 41, zesde lid, onderdeel c, van de algemene groepsvrijstellingsverordening.       
-2.  De subsidiabele kosten van een demonstratieproject worden berekend in overeenstemming met de artikelen 38 en 41 van de algemene groepsvrijstellingsverordening.   
-3.  De in het eerste lid genoemde percentages worden met 10 procentpunten verhoogd, voor zover de aanvrager een MKB-ondernemer is en de subsidiabele kosten worden gemaakt en betaald door de MKB-ondernemer.   
-4.  Onverminderd het derde lid, wordt het in het eerste lid, onderdeel b, bedoelde percentage voor ondernemingen met 5 procentpunten verhoogd indien: 
-
-a. geen van de ondernemingen meer dan 70% van de subsidiabele kosten voor haar rekening moet nemen en ten minste één deelnemer in het samenwerkingsverband een MKB-ondernemer is of ten minste één deelnemer in het samenwerkingsverband in een andere lidstaat van de Europese Unie dan Nederland is gevestigd en niet behoort tot een groep van een in Nederland gevestigde deelnemer, of  
-
-b. het project samenwerking met een onderzoeksorganisatie betreft, de onderzoeksorganisatie minstens 10% van de subsidiabele projectkosten draagt en de onderzoeksorganisatie het recht heeft de resultaten van het project te publiceren voor zover deze afkomstig zijn van het door die organisatie uitgevoerde onderzoek.     
-5.  De subsidie bedraagt maximaal € 1.000.000 per BBE-KEW-project.  
+2°. 30% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat maatregelen betreft ter bevordering van energie uit hernieuwbare energiebronnen en waarbij de subsidiabele kosten worden berekend in overeenstemming met artikel 41, zesde lid, onderdeel c, van de algemene groepsvrijstellingsverordening.     
+2. De subsidiabele kosten van een energiedemonstratieproject worden berekend in overeenstemming met artikel 41 van de algemene groepsvrijstellingsverordening.
+3. De in het eerste lid, onderdelen a en b, genoemde percentages worden met 20 procentpunten verhoogd, indien de aanvrager een kleine onderneming is en de subsidiabele kosten worden gemaakt en betaald door de kleine onderneming.
+4. De in het eerste lid, onderdelen a en b, genoemde percentages worden met 10 procentpunten verhoogd, indien de aanvrager een middelgrote onderneming is en de subsidiabele kosten worden gemaakt en betaald door de middelgrote ondernemer.
+5. De in het eerste lid, onderdelen a en b, genoemde percentages worden voor ondernemingen met 10 procentpunten verhoogd, indien het project samenwerking met een onderzoeksorganisatie betreft, de onderzoeksorganisatie minstens 10% van de subsidiabele projectkosten draagt en de onderzoeksorganisatie het recht heeft de resultaten van het project te publiceren voor zover deze afkomstig zijn van het door die organisatie uitgevoerde onderzoek.
+6. De subsidie bedraagt maximaal € 6.000.000 per hernieuwbare-energieproject. 
 
 ### Artikel  4.2.18  
 
 ####Verdeling van het subsidieplafond
 
-De minister verdeelt het subsidieplafond op volgorde van de rangschikking van de aanvragen. 
+De minister verdeelt het subsidieplafond op volgorde van binnenkomst van de aanvragen. 
 
 ### Artikel  4.2.19  
 
@@ -3923,36 +3987,21 @@ De termijn, bedoeld in artikel 23, eerste lid, onderdeel c, van het besluit, is 
 
 De minister beslist afwijzend op een aanvraag indien: 
 
-a. na toepassing van artikel 4.2.21, minder dan 12 punten zijn toegekend;  
+a. de aanvrager niet aannemelijk heeft gemaakt dat het project leidt tot duurzame energieproductie in 2023 en leidt tot een besparing op de uitgaven aan subsidies in het kader van het Besluit stimulering duurzame energieproductie, die groter is dan de aangevraagde subsidie onder deze paragraaf, hetgeen uit een berekening blijkt;  
 
-b. niet ten minste 40% van de subsidiabele projectkosten worden gefinancierd door ondernemingen;  
+b. de kwaliteit van het project onvoldoende is, blijkend uit de uitwerking van aanpak en methodiek, de omgang met risico’s, de uitvoerbaarheid, de deelnemende partijen of de mate waarin de beschikbare middelen effectief en efficiënt worden ingezet;  
 
-c. eerder op grond van deze titel een subsidie is verstrekt voor een soortgelijk project;  
+c. in onvoldoende mate is voorzien in een kwalitatief goede kennisverspreiding;  
 
-d. de aanvrager niet aannemelijk heeft gemaakt dat het BBE KEW-project leidt tot duurzame energie productie in 2023 en leidt tot een besparing op de uitgaven aan subsidies in het kader van het Besluit stimulering duurzame energieproductie, die groter is dan de aangevraagde subsidie onder deze paragraaf.   
+d. eerder op grond van dit hoofdstuk of de Subsidieregeling energie en innovatie een subsidie is verstrekt voor een soortgelijk project;  
+
+e. de samenwerking onvoldoende evenwichtig is.  
 
 ### Artikel  4.2.21  
 
-####Rangschikkingscriteria
-
-1.  De minister kent aan een project aan de hand van de volgende criteria een hoger aantal punten toe naarmate: 
-
-a. het project meer bijdraagt aan verduurzaming van de Nederlandse energiehuishouding en maatschappelijk relevanter is, binnen de context van het innovatiecontract van de topsector energie;  
-
-b. de mogelijke bijdrage van het project aan de Nederlandse economie groter is;  
-
-c. het project vernieuwender is ten opzichte van de internationale stand van onderzoek of techniek en de Nederlandse kennispositie meer versterkt;  
-
-d. de kwaliteit van het project beter is, blijkend uit de uitwerking van aanpak en methodiek, de omgang met risico’s, de uitvoerbaarheid en de deelnemende partijen.     
-2.  De minister kent per onderdeel van het eerste lid ten minste één en ten hoogste vijf punten toe.   
-3.  De minister rangschikt de aanvragen waarop niet afwijzend is beslist hoger naarmate in totaal meer punten aan het project zijn toegekend.   
-4.  Geen subsidie wordt verleend voor een project dat lager is gerangschikt dan een soortgelijk project.  
-
-### Artikel  4.2.21a  
-
 ####Staatssteun
 
-De subsidie, bedoeld in artikel 4.2.16 bevat staatssteun en wordt gerechtvaardigd door de artikelen 25, 38 en 41 van de algemene groepsvrijstellingsverordening. 
+De subsidie, bedoeld in artikel 4.2.16, met uitzondering van de subsidie voor zover deze betrekking heeft op niet-economische activiteiten van onderzoeksorganisaties, bevat staatssteun en wordt gerechtvaardigd door de artikelen 25 en 41 van de algemene groepsvrijstellingsverordening. 
 
 ### §  4.2.4  
 
@@ -3962,14 +4011,14 @@ De subsidie, bedoeld in artikel 4.2.16 bevat staatssteun en wordt gerechtvaardig
 
 ####Begripsomschrijving
 
-In deze paragraaf wordt verstaan onder STEM-project: project bestaande uit fundamenteel onderzoek, industrieel onderzoek of een combinatie van deze vormen, dat past binnen de in bijlage 4.2.3 (Programmalijnen STEM) opgenomen programmalijnen. 
+In deze paragraaf wordt verstaan onder STEM-project: project bestaande uit fundamenteel onderzoek uitgevoerd door een onderzoeksorganisatie voor zover het niet-economische activiteiten betreft, industrieel onderzoek of een combinatie van deze vormen, dat past binnen het in bijlage 4.2.3 (Programma STEM) opgenomen programma. 
 
 ### Artikel  4.2.23  
 
 ####Subsidieaanvraag
 
-1.  De minister verstrekt op aanvraag een subsidie aan een deelnemer in een samenwerkingsverband voor het uitvoeren van een STEM-project.   
-2.  Een samenwerkingsverband bestaat ten minste uit drie deelnemers, waarvan ten minste één kennisinstelling en ten minste één onderneming of een organisatie zonder winstoogmerk die ondernemingen als achterban heeft.  
+1.  De minister verstrekt op aanvraag een subsidie aan een deelnemer in een samenwerkingsverband voor het uitvoeren van een STEM-project.  
+2. Een samenwerkingsverband bevat ten minste één onderneming of een organisatie zonder winstoogmerk die ondernemingen als achterban heeft. 
 
 ### Artikel  4.2.24  
 
@@ -3977,13 +4026,11 @@ In deze paragraaf wordt verstaan onder STEM-project: project bestaande uit funda
 
 1.  In afwijking van artikel 1.3 bedraagt de subsidie voor een STEM-project ten hoogste: 
 
-a. 30% van de subsidiabele kosten voor zover deze betrekking hebben op ondernemingen of een organisatie zonder winstoogmerk die ondernemingen als achterban heeft;  
+a. 50% van de subsidiabele kosten voor zover deze betrekking hebben op industrieel onderzoek;  
 
-b. 50% van de subsidiabele kosten voor zover deze betrekking hebben op economische activiteiten van kennisinstellingen;  
-
-c. 80% van de subsidiabele kosten voor zover deze betrekking hebben op niet-economische activiteiten van kennisinstellingen;     
-2.  Het in het eerste lid, onderdeel a, genoemde percentage wordt met 20 procentpunten verhoogd indien het STEM-project betrekking heeft op hoofdlijn 1 uit bijlage 4.2.3: Energie gerelateerde sociale innovatie vraagstukken voor meerdere sectoren in Nederland (TSE-TKI doorsnijdende vraagstukken).   
-3.  De subsidie bedraagt maximaal € 400.000 per STEM-project.  
+b. 80% van de subsidiabele kosten voor zover deze betrekking hebben op niet-economische activiteiten van onderzoeksorganisaties.     
+2.  Het in het eerste lid, onderdeel a, genoemde percentage wordt voor ondernemingen met 10 procentpunten verhoogd, indien het project samenwerking met een onderzoeksorganisatie betreft, de onderzoeksorganisatie minstens 10% van de subsidiabele projectkosten draagt en de onderzoeksorganisatie het recht heeft de resultaten van het project te publiceren voor zover deze afkomstig zijn van het door die organisatie uitgevoerde onderzoek.   
+3.  De subsidie bedraagt maximaal € 450.000 per STEM-project. 
 
 ### Artikel  4.2.25  
 
@@ -4005,11 +4052,9 @@ De minister beslist afwijzend op een aanvraag indien:
 
 a. na toepassing van artikel 4.2.28, eerste lid, minder dan 5 punten per criterium zijn toegekend;  
 
-b. niet ten minste 20% van de subsidiabele projectkosten worden gefinancierd door ondernemingen of een organisatie zonder winstoogmerk die ondernemingen als achterban heeft;  
+b. na toepassing van artikel 4.2.28, eerste lid, minder dan 22 punten zijn toegekend;  
 
-c. eerder op grond van deze titel een subsidie is verstrekt voor een soortgelijk project;  
-
-d. de subsidiabele kosten niet minimaal € 100.000 bedragen.   
+c. eerder op grond van deze titel een subsidie is verstrekt voor een soortgelijk project.   
 
 ### Artikel  4.2.28  
 
@@ -4017,7 +4062,7 @@ d. de subsidiabele kosten niet minimaal € 100.000 bedragen.
 
 1.  De minister kent aan een project aan de hand van de volgende criteria een hoger aantal punten toe naarmate: 
 
-a. het project meer bijdraagt aan de generieke doelstellingen van STEM en aan de doelstellingen van ten minste één van de STEM-programmalijnen, opgenomen in bijlage 4.2.3;  
+a.het project meer bijdraagt aan een of meerdere doelstellingen van het STEM-programma, opgenomen in bijlage 4.2.3; 
 
 b. het project vernieuwender is ten opzichte van de internationale stand van onderzoek of techniek en de Nederlandse kennispositie meer versterkt;  
 
@@ -4038,92 +4083,7 @@ De subsidie, bedoeld in artikel 4.2.23 bevat staatssteun en wordt gerechtvaardig
 
 ####Groen Gas
 
-### Artikel  4.2.29  
-
-####Begripsomschrijving
-
-In deze paragraaf wordt verstaan onder GG-project: project bestaande uit industrieel onderzoek, experimentele ontwikkeling, een demonstratieproject of een combinatie van deze vormen, dat past binnen de bijlage 4.2.4 (Programmalijnen Groen Gas) opgenomen programmalijnen. 
-
-### Artikel  4.2.30  
-
-####Subsidieaanvraag
-
-1.  De minister verstrekt op aanvraag een subsidie aan een deelnemer in een samenwerkingsverband voor het uitvoeren van een GG-project.   
-2.  Een samenwerkingsverband bestaat ten minste uit twee ondernemingen.  
-
-### Artikel  4.2.31  
-
-####Steunintensiteit
-
-1.  In afwijking van artikel 1.3 bedraagt de subsidie voor een GG-project ten hoogste: 
-
-a. 50% van de subsidiabele kosten voor zover deze betrekking hebben op industrieel onderzoek;  
-
-b. 25% van de subsidiabele kosten voor zover deze betrekking hebben op experimentele ontwikkeling;  
-
-c. voor een demonstratieproject: 
-
-1°. 30% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat energie-efficiëntie maatregelen betreft;  
-
-2°. 45% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat maatregelen betreft ter bevordering van energie uit hernieuwbare energiebronnen en waarbij de subsidiabele kosten worden berekend in overeenstemming met artikel 41, zesde lid, onderdeel a of b, van de algemene groepsvrijstellingsverordening;  
-
-3°. 30% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat maatregelen betreft ter bevordering van energie uit hernieuwbare energiebronnen en waarbij de subsidiabele kosten worden berekend in overeenstemming met artikel 41, zesde lid, onderdeel c, van de algemene groepsvrijstellingsverordening.       
-2.  De subsidiabele kosten van een demonstratieproject worden berekend in overeenstemming met de artikelen 38 en 41 van de algemene groepsvrijstellingsverordening.   
-3.  De in het eerste lid bedoelde percentages worden met 10 procentpunten verhoogd, voor zover de aanvrager een MKB-ondernemer is en de subsidiabele kosten worden gemaakt en betaald door de MKB-ondernemer.   
-4.  Onverminderd het derde lid, wordt het in het eerste lid, onderdeel b, bedoelde percentage voor ondernemingen met 5 procentpunten verhoogd indien: 
-
-a. geen van de ondernemingen meer dan 70% van de subsidiabele kosten voor haar rekening moet nemen en ten minste één deelnemer in het samenwerkingsverband een MKB-ondernemer is of ten minste één deelnemer in het samenwerkingsverband in een andere lidstaat van de Europese Unie dan Nederland is gevestigd en niet behoort tot een groep van een in Nederland gevestigde deelnemer, of  
-
-b. het project samenwerking met een onderzoeksorganisatie betreft, de onderzoeksorganisatie minstens 10% van de subsidiabele projectkosten draagt en de onderzoeksorganisatie het recht heeft de resultaten van het project te publiceren voor zover deze afkomstig zijn van het door die organisatie uitgevoerde onderzoek.    
-
-### Artikel  4.2.32  
-
-####Verdeling van het subsidieplafond
-
-De minister verdeelt het subsidieplafond op volgorde van de rangschikking van de aanvragen. 
-
-### Artikel  4.2.33  
-
-####Realisatietermijn
-
-De termijn, bedoeld in artikel 23, eerste lid, onderdeel c, van het besluit, is vier jaar. 
-
-### Artikel  4.2.34  
-
-####Afwijzingsgronden
-
-De minister beslist afwijzend op een aanvraag indien: 
-
-a. na toepassing van artikel 4.2.35, eerste lid, minder dan 15 punten zijn toegekend;  
-
-b. eerder op grond van deze titel een subsidie is verstrekt voor een soortgelijk project;  
-
-c. de aanvrager niet aannemelijk heeft gemaakt dat het GG-project leidt tot duurzame energie productie in 2023 en leidt tot een besparing op de uitgaven aan subsidies in het kader van het Besluit stimulering duurzame energieproductie, die groter is dan de aangevraagde subsidie onder deze paragraaf.   
-
-### Artikel  4.2.35  
-
-####Rangschikkingscriteria
-
-1.  De minister kent aan een project aan de hand van de volgende criteria een hoger aantal punten toe naarmate: 
-
-a. het project meer bijdraagt aan verduurzaming van de Nederlandse energiehuishouding en maatschappelijk relevanter is, binnen de context van het innovatiecontract van de topsector energie;  
-
-b. de mogelijke bijdrage van het project aan de Nederlandse economie groter is;  
-
-c. het project vernieuwender is ten opzichte van de internationale stand van onderzoek of techniek en de Nederlandse kennispositie meer versterkt;  
-
-d. de kwaliteit van het project beter is, blijkend uit de uitwerking van aanpak en methodiek, de omgang met risico’s, de uitvoerbaarheid, de deelnemende partijen en de mate waarin de beschikbare middelen effectiever en efficiënter worden ingezet;  
-
-e. het project meer bijdraagt aan de kostprijsverlaging van een duurzame energietechnologie die in aanmerking komt of zou kunnen komen voor subsidie in het kader van het Besluit stimulering duurzame energieproductie.     
-2.  De minister kent per onderdeel van het eerste lid ten minste één en ten hoogste vijf punten toe.   
-3.  De minister rangschikt de aanvragen waarop niet afwijzend is beslist hoger naarmate in totaal meer punten aan het project zijn toegekend.   
-4.  Geen subsidie wordt verleend voor een project dat lager is gerangschikt dan een soortgelijk project.  
-
-### Artikel  4.2.35a  
-
-####Staatssteun
-
-De subsidie, bedoeld in artikel 4.2.30 bevat staatssteun en wordt gerechtvaardigd door de artikelen 25, 38 en 41 van de algemene groepsvrijstellingsverordening. 
+Vervallen per 01-04-2015 
 
 ### §  4.2.6  
 
@@ -4172,7 +4132,7 @@ De termijn, bedoeld in artikel 23, eerste lid, onderdeel c, van het besluit, is 
 
 De minister beslist afwijzend op een aanvraag indien: 
 
-a. na toepassing van artikel 4.2.14, eerste lid, minder dan 3 punten per criterium zijn toegekend;  
+a. na toepassing van artikel 4.2.42, eerste lid, minder dan 3 punten per criterium zijn toegekend;  
 
 b. eerder op grond van deze titel een subsidie is verstrekt voor een soortgelijk project.   
 
@@ -4207,14 +4167,14 @@ De subsidie, bedoeld in artikel 4.2.37 bevat staatssteun en wordt gerechtvaardig
 
 ####Begripsomschrijving
 
-In deze paragraaf wordt verstaan onder LNG-project: project bestaande uit fundamenteel onderzoek, industrieel onderzoek, experimentele ontwikkeling, een demonstratieproject of een combinatie van deze vormen, dat past binnen de in de bijlage 4.2.6 (Programmalijnen LNG) opgenomen programmalijnen. 
+In deze paragraaf wordt verstaan onder LNG-project: project bestaande uit industrieel onderzoek, experimentele ontwikkeling, een energiedemonstratieproject of een combinatie van deze vormen, dat past binnen de in de bijlage 4.2.6 (Programmalijnen LNG) opgenomen programmalijnen. 
 
 ### Artikel  4.2.44  
 
 ####Subsidieaanvraag
 
-1.  De minister verstrekt op aanvraag een subsidie aan een deelnemer in een samenwerkingsverband voor het uitvoeren van een LNG-project.   
-2.  Een samenwerkingsverband bestaat ten minste uit twee ondernemingen.  
+1.  De minister verstrekt op aanvraag een subsidie aan een deelnemer in een samenwerkingsverband voor het uitvoeren van een LNG-project.  
+2. Een samenwerkingsverband bevat ten minste één onderneming. 
 
 ### Artikel  4.2.45  
 
@@ -4222,20 +4182,18 @@ In deze paragraaf wordt verstaan onder LNG-project: project bestaande uit fundam
 
 1.  In afwijking van artikel 1.3 bedraagt de subsidie voor een LNG-project ten hoogste: 
 
-a. 75% van de subsidiabele kosten voor zover deze betrekking hebben op fundamenteel onderzoek;  
+a. 50% van de subsidiabele kosten voor zover deze betrekking hebben op industrieel onderzoek;  
 
-b. 50% van de subsidiabele kosten voor zover deze betrekking hebben op industrieel onderzoek;  
+b. 25% van de subsidiabele kosten voor zover deze betrekking hebben op experimentele ontwikkeling;  
 
-c. 25% van de subsidiabele kosten voor zover deze betrekking hebben op experimentele ontwikkeling;  
-
-d. voor een demonstratieproject: 
+c. voor een energiedemonstratieproject: 
 
 1°. 30% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat energie-efficiëntie maatregelen betreft;  
 
 2°. 45% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat maatregelen betreft ter bevordering van energie uit hernieuwbare energiebronnen en waarbij de subsidiabele kosten worden berekend in overeenstemming met artikel 41, zesde lid, onderdeel a of b, van de algemene groepsvrijstellingsverordening;  
 
 3°. 30% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat maatregelen betreft ter bevordering van energie uit hernieuwbare energiebronnen en waarbij de subsidiabele kosten worden berekend in overeenstemming met artikel 41, zesde lid, onderdeel c, van de algemene groepsvrijstellingsverordening.       
-2.  De subsidiabele kosten van een demonstratieproject worden berekend volgens de artikelen 38 en 41 van de algemene groepsvrijstellingsverordening, met inachtneming van artikel 14a, tweede lid, van het besluit.   
+2.  De subsidiabele kosten van een energiedemonstratieproject worden berekend volgens de artikelen 38 en 41 van de algemene groepsvrijstellingsverordening.   
 3.  De subsidie bedraagt maximaal € 500.000 per LNG-project.  
 
 ### Artikel  4.2.46  
@@ -4287,139 +4245,55 @@ De subsidie, bedoeld in artikel 4.2.44 bevat staatssteun en wordt gerechtvaardig
 
 ####ZEGO
 
-### Artikel  4.2.50  
-
-####Begripsomschrijving
-
-In deze paragraaf wordt verstaan onder ZEGO-project: project bestaande uit fundamenteel onderzoek, industrieel onderzoek, experimentele ontwikkeling, een demonstratieproject of een combinatie van deze vormen, dat past binnen de in de bijlage 4.2.7 (Prioriteitsthema’s ZEGO) opgenomen prioriteitsthema’s. 
-
-### Artikel  4.2.51  
-
-####Subsidieaanvraag
-
-1.  De minister verstrekt op aanvraag een subsidie aan een deelnemer in een samenwerkingsverband voor het uitvoeren van een ZEGO-project.   
-2.  Een samenwerkingsverband bestaat ten minste uit één onderneming en één onderzoeksorganisatie.  
-
-### Artikel  4.2.52  
-
-####Steunintensiteit
-
-1.  In afwijking van artikel 1.3 bedraagt de subsidie voor een ZEGO-project ten hoogste: 
-
-a. 100% van de subsidiabele kosten voor zover deze betrekking hebben op fundamenteel onderzoek;  
-
-b. 60% van de subsidiabele kosten voor zover deze betrekking hebben op industrieel onderzoek;  
-
-c. 40% van de subsidiabele kosten voor zover deze betrekking hebben op experimentele ontwikkeling;  
-
-d. voor een demonstratieproject: 
-
-1°. 30% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat energie-efficiëntie maatregelen betreft;  
-
-2°. 45% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat maatregelen betreft ter bevordering van energie uit hernieuwbare energiebronnen en waarbij de subsidiabele kosten worden berekend in overeenstemming met artikel 41, zesde lid, onderdeel a of b, van de algemene groepsvrijstellingsverordening;  
-
-3°. 30% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat maatregelen betreft ter bevordering van energie uit hernieuwbare energiebronnen en waarbij de subsidiabele kosten worden berekend in overeenstemming met artikel 41, zesde lid, onderdeel c, van de algemene groepsvrijstellingsverordening.       
-2.  De subsidiabele kosten van een demonstratieproject worden berekend in overeenstemming met de artikelen 38 en 41 van de algemene groepsvrijstellingsverordening.   
-3.  De onderzoeksorganisatie of onderzoeksorganisaties draagt respectievelijk dragen bij fundamenteel onderzoek, industrieel onderzoek en experimentele ontwikkeling gezamenlijk minstens 10% van de subsidiabele projectkosten en heeft respectievelijk hebben het recht de resultaten van het project te publiceren voor zover deze afkomstig zijn van het door die organisatie respectievelijk organisaties uitgevoerde onderzoek.   
-4.  De subsidie bedraagt maximaal € 1.000.000 per ZEGO-project.  
-
-### Artikel  4.2.53  
-
-####Verdeling van het subsidieplafond
-
-De minister verdeelt het subsidieplafond op volgorde van de rangschikking van de aanvragen. 
-
-### Artikel  4.2.54  
-
-####Realisatietermijn
-
-De termijn, bedoeld in artikel 23, eerste lid, onderdeel c, van het besluit, is vijf jaar. 
-
-### Artikel  4.2.55  
-
-####Afwijzingsgronden
-
-De minister beslist afwijzend op een aanvraag indien: 
-
-a. na toepassing van artikel 4.2.56, eerste lid, minder dan 3 punten per criterium zijn toegekend;  
-
-b. niet ten minste 40% van de subsidiabele projectkosten worden gefinancierd door ondernemingen;  
-
-c. eerder op grond van deze titel een subsidie is verstrekt voor een soortgelijk project;  
-
-d. de aanvrager niet aannemelijk heeft gemaakt dat het ZEGO-project leidt tot duurzame energie productie in 2023 en leidt tot een besparing op de uitgaven aan subsidies in het kader van het Besluit stimulering duurzame energieproductie, die groter is dan de aangevraagde subsidie onder deze paragraaf.   
-
-### Artikel  4.2.56  
-
-####Rangschikkingscriteria
-
-1.  De minister kent aan een project aan de hand van de volgende criteria een hoger aantal punten toe naarmate: 
-
-a. het project meer bijdraagt aan verduurzaming van de Nederlandse energiehuishouding en maatschappelijk relevanter is, binnen de context van het innovatiecontract van de topsector energie;  
-
-b. de mogelijke bijdrage van het project aan de Nederlandse economie groter is.  
-
-c. het project vernieuwender is ten opzichte van de internationale stand van onderzoek of techniek en de Nederlandse kennispositie meer versterkt;  
-
-d. de kwaliteit van het project beter is, blijkend uit de uitwerking van aanpak en methodiek, de omgang met risico’s, de uitvoerbaarheid, de deelnemende partijen en de mate waarin de beschikbare middelen effectiever en efficiënter worden ingezet.     
-2.  De minister kent per onderdeel van het eerste lid ten minste één en ten hoogste 5 punten toe.   
-3.  Voor de rangschikking wordt het aantal punten gegeven voor het eerste lid, onderdeel a, vermenigvuldigd met 20, het eerste lid, onderdeel b, vermenigvuldigd met 20, het eerste lid, onderdeel c, vermenigvuldigd met 30 en het eerste lid, onderdeel d, vermenigvuldigd met 30 en vervolgens opgeteld.   
-4.  De minister rangschikt de aanvragen waarop niet afwijzend is beslist hoger naarmate in totaal meer punten aan het project zijn toegekend.   
-5.  Geen subsidie wordt verleend voor een project dat lager is gerangschikt dan een soortgelijk project.  
-
-### Artikel  4.2.56a  
-
-####Staatssteun
-
-De subsidie, bedoeld in artikel 4.2.51 bevat staatssteun en wordt gerechtvaardigd door de artikelen 25, 38 en 41 van de algemene groepsvrijstellingsverordening. 
+Vervallen per 01-04-2015 
 
 ### §  4.2.9  
 
-####EnerGo
+####innovatie Duurzame Energie en Energiebesparing Gebouwde Omgeving (iDEEGO)
 
 ### Artikel  4.2.57  
 
 ####Begripsomschrijving
 
-In deze paragraaf wordt verstaan onder EnerGO-project: project bestaande uit fundamenteel onderzoek, industrieel onderzoek, experimentele ontwikkeling, een demonstratieproject of een combinatie van deze vormen, dat past binnen de in de bijlage 4.2.8 (Programmalijnen EnerGO) opgenomen programmalijnen. 
+In deze paragraaf wordt verstaan onder iDEEGO-project: project bestaande uit fundamenteel onderzoek voor zover het niet-economische activiteiten van onderzoeksorganisaties betreft, industrieel onderzoek, experimentele ontwikkeling, een energiedemonstratieproject of een combinatie van deze vormen, dat past binnen de in de bijlage 4.2.8. (Programmalijnen iDEEGO) opgenomen programmalijnen.
 
 ### Artikel  4.2.58  
 
 ####Subsidieaanvraag
 
-1.  De minister verstrekt op aanvraag een subsidie aan een deelnemer in een samenwerkingsverband voor het uitvoeren van een EnerGO-project.   
-2.  Een samenwerkingsverband bestaat ten minste uit één onderneming en één onderzoeksorganisatie.  
+1.  De minister verstrekt op aanvraag een subsidie aan een deelnemer in een samenwerkingsverband voor het uitvoeren van een iDEEGO-project.   
+2.  Een samenwerkingsverband bevat ten minste één onderneming.  
 
 ### Artikel  4.2.59  
 
 ####Steunintensiteit
 
-1.  In afwijking van artikel 1.3 bedraagt de subsidie voor een EnerGO-project ten hoogste: 
+1.  In afwijking van artikel 1.3 bedraagt de subsidie voor een iDEEGO-project ten hoogste: 
 
-a. 100% van de subsidiabele kosten voor zover deze betrekking hebben op fundamenteel onderzoek;  
+a. 50% van de subsidiabele kosten voor zover deze betrekking hebben op industrieel onderzoek;  
 
-b. 60% van de subsidiabele kosten voor zover deze betrekking hebben op industrieel onderzoek;  
+b. 25% van de subsidiabele kosten voor zover deze betrekking hebben op experimentele ontwikkeling;  
 
-c. 40% van de subsidiabele kosten voor zover deze betrekking hebben op experimentele ontwikkeling.  
+c. 80% van de subsidiabele kosten voor zover deze betrekking hebben op niet-economische activiteiten door onderzoeksorganisaties;  
 
-d. 100% van de subsidiabele kosten voor zover deze betrekking hebben op niet-economische activiteiten van onderzoeksorganisaties;  
+d. voor een energiedemonstratieproject: 
 
-e. voor een demonstratieproject: 
-
-1°. 30% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat energie-efficiëntie maatregelen betreft;  
+1°. 30% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat energie-efficiëntiemaatregelen betreft;  
 
 2°. 45% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat maatregelen betreft ter bevordering van energie uit hernieuwbare energiebronnen en waarbij de subsidiabele kosten worden berekend in overeenstemming met artikel 41, zesde lid, onderdeel a of b, van de algemene groepsvrijstellingsverordening;  
 
 3°. 30% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat maatregelen betreft ter bevordering van energie uit hernieuwbare energiebronnen en waarbij de subsidiabele kosten worden berekend in overeenstemming met artikel 41, zesde lid, onderdeel c, van de algemene groepsvrijstellingsverordening.       
-2.  De subsidiabele kosten van een demonstratieproject worden berekend in overeenstemming met de artikelen 38 en 41 van de algemene groepsvrijstellingsverordening.   
-3.  De onderzoeksorganisatie draagt bij fundamenteel onderzoek, industrieel onderzoek en experimentele ontwikkeling minstens 10% van subsidiabele projectkosten en heeft het recht de resultaten van het project te publiceren voor zover deze afkomstig zijn van het door die organisatie uitgevoerde onderzoek.   
-4.  De subsidie bedraagt maximaal € 1.000.000 per EnerGO-project.  
+2.  De subsidiabele kosten van een energiedemonstratieproject worden berekend in overeenstemming met de artikelen 38 en 41 van de algemene groepsvrijstellingsverordening.   
+3.  De in het eerste lid, onderdelen a en b, genoemde percentages worden met 20 procentpunten verhoogd, indien de aanvrager een kleine onderneming is en de subsidiabele kosten worden gemaakt en betaald door de kleine ondernemer.   
+4.  De in het eerste lid, onderdelen a en b, genoemde percentages worden met 10 procentpunten verhoogd, indien de aanvrager een middelgrote onderneming is en de subsidiabele kosten worden gemaakt en betaald door de middelgrote ondernemer.   
+5.  De in het eerste lid, onderdelen a en b, genoemde percentages worden voor ondernemingen met 10 procentpunten verhoogd, indien het project samenwerking met een onderzoeksorganisatie betreft, de onderzoeksorganisatie minstens 10% van de subsidiabele projectkosten draagt en de onderzoeksorganisatie het recht heeft de resultaten van het project te publiceren voor zover deze afkomstig zijn van het door die organisatie uitgevoerde onderzoek.   
+6.  De subsidie bedraagt maximaal € 200.000 per iDEEGO-project.  
 
 ### Artikel  4.2.60  
 
 ####Verdeling van het subsidieplafond
 
-Per programmalijn, zoals beschreven in de bijlage, verdeelt de minister de beschikbare subsidies op volgorde van de rangschikking van de aanvragen. 
+Per programmalijn, zoals beschreven in de bijlage, verdeelt de minister de beschikbare subsidies op volgorde van rangschikking van de aanvragen. 
 
 ### Artikel  4.2.61  
 
@@ -4433,35 +4307,35 @@ De termijn, bedoeld in artikel 23, eerste lid, onderdeel c, van het besluit, is 
 
 De minister beslist afwijzend op een aanvraag indien: 
 
-a. na toepassing van artikel 4.2.63, eerste lid, minder dan 3 punten per criterium zijn toegekend;  
+a. na toepassing van artikel 4.2.63, eerste lid, minder dan 5 punten per criterium zijn toegekend;  
 
-b. niet ten minste 40% van de subsidiabele projectkosten worden gefinancierd door ondernemingen;  
+b. na toepassing van artikel 4.2.63, eerste lid, minder dan 23 punten zijn toegekend;  
 
-c. eerder op grond van deze titel een subsidie is verstrekt voor een soortgelijk project.   
+c. eerder op grond van deze titel of de Subsidieregeling energie en innovatie een subsidie is verstrekt voor een soortgelijk project.  
 
 ### Artikel  4.2.63  
 
 ####Rangschikkingscriteria
 
-1.  De minister kent aan een project aan de hand van de volgende criteria een hoger aantal punten toe naarmate: 
+1.  De minister kent aan een project een hoger aantal punten toe naarmate: 
 
-a. het project meer bijdraagt aan verduurzaming van de Nederlandse energiehuishouding en maatschappelijk relevanter is, binnen de context van het innovatiecontract van de topsector energie;  
+a. het project meer bijdraagt aan de doelstellingen van ten minste één van de iDEEGO- programmalijnen, opgenomen in bijlage 4.2.8;  
 
-b. de mogelijke bijdrage van het project aan de Nederlandse economie groter is.  
+b. de mogelijke bijdrage van het project aan de Nederlandse economie groter is;  
 
 c. het project vernieuwender is ten opzichte van de internationale stand van onderzoek of techniek en de Nederlandse kennispositie meer versterkt;  
 
-d. de kwaliteit van het project beter is, blijkend uit de uitwerking van aanpak en methodiek, de omgang met risico’s, de uitvoerbaarheid, de deelnemende partijen en de mate waarin de beschikbare middelen effectiever en efficiënter worden ingezet.     
-2.  De minister kent per onderdeel van het eerste lid ten minste één en ten hoogste 5 punten toe.   
+d. de kwaliteit van het project beter is, blijkend uit de uitwerking van aanpak en methodiek, de omgang met risico’s, de uitvoerbaarheid, de deelnemende partijen en de mate waarin de beschikbare middelen effectief en efficiënt worden ingezet.     
+2.  De minister kent per onderdeel van het eerste lid ten minste één en ten hoogste 10 punten toe.   
 3.  Voor de rangschikking wordt het aantal punten gegeven voor het eerste lid, onderdeel a, vermenigvuldigd met 20, het eerste lid, onderdeel b, vermenigvuldigd met 20, het eerste lid, onderdeel c, vermenigvuldigd met 30 en het eerste lid, onderdeel d, vermenigvuldigd met 30 en vervolgens opgeteld.   
 4.  De minister rangschikt de aanvragen waarop niet afwijzend is beslist hoger naarmate in totaal meer punten aan het project zijn toegekend.   
-5.  Geen subsidie wordt verleend voor een project dat lager is gerangschikt dan een soortgelijk project.  
+5.  Geen subsidie wordt verleend voor een project dat lager is gerangschikt dan een soortgelijk project. 
 
 ### Artikel  4.2.63a  
 
 ####Staatssteun
 
-De subsidie, bedoeld in artikel 4.2.58. bevat staatssteun en wordt gerechtvaardigd door de artikelen 25, 38 en 41 van de algemene groepsvrijstellingsverordening. 
+De subsidie, bedoeld in artikel 4.2.58, met uitzondering van de subsidie voor zover deze betrekking heeft op niet-economische activiteiten van onderzoeksorganisaties, bevat staatssteun en wordt gerechtvaardigd door de artikelen 25, 38 en 41 van de algemene groepsvrijstellingsverordening.
 
 ### §  4.2.10  
 
@@ -4471,7 +4345,7 @@ De subsidie, bedoeld in artikel 4.2.58. bevat staatssteun en wordt gerechtvaardi
 
 ####Begripsomschrijvingen
 
-In deze paragraaf wordt verstaan onder DEI-project: demonstratieproject of combinatie van industrieel onderzoek, experimentele ontwikkeling en demonstratieproject, dat respectievelijk die past binnen de in de bijlage 4.2.9 (Demonstratie energie-innovatie) opgenomen beschrijving van demonstratie energie-innovatie. 
+In deze paragraaf wordt verstaan onder DEI-project: energiedemonstratieproject of combinatie van industrieel onderzoek, experimentele ontwikkeling en energiedemonstratieproject, dat respectievelijk die past binnen de in de bijlage 4.2.9 (Demonstratie energie-innovatie) opgenomen beschrijving van demonstratie energie-innovatie. 
 
 ### Artikel  4.2.65  
 
@@ -4490,7 +4364,7 @@ b. een deelnemer in een samenwerkingsverband.
 
 1.  In afwijking van artikel 1.3 bedraagt de subsidie voor een DEI-project ten hoogste: 
 
-a. voor een demonstratieproject: 
+a. voor een energiedemonstratieproject: 
 
 1°. 30% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat energiebesparende maatregelen betreft;  
 
@@ -4501,10 +4375,10 @@ a. voor een demonstratieproject:
 b. 50% van de subsidiabele kosten voor zover deze betrekking hebben op industrieel onderzoek;  
 
 c. 25% van de subsidiabele kosten voor zover deze betrekking hebben op experimentele ontwikkeling.     
-2.  De subsidiabele kosten van een demonstratieproject worden berekend in overeenstemming met de artikelen 38 en 41 van de algemene groepsvrijstellingsverordening.   
+2.  De subsidiabele kosten van een energiedemonstratieproject worden berekend in overeenstemming met de artikelen 38 en 41 van de algemene groepsvrijstellingsverordening.   
 3.  De in het eerste lid genoemde percentages worden met 20 procentpunten verhoogd, indien de aanvrager een kleine onderneming is en de subsidiabele kosten worden gemaakt en betaald door de kleine ondernemer.   
 4.  De in het eerste lid genoemde percentages worden met 10 procentpunten verhoogd, indien de aanvrager een middelgrote onderneming is en de subsidiabele kosten worden gemaakt en betaald door de middelgrote ondernemer.   
-5.  De subsidie bedraagt minimaal € 125.000 en maximaal € 4.000.000 per DEI-project.  
+5.  De subsidie bedraagt maximaal € 4.000.000 per DEI-project.  
 
 ### Artikel  4.2.67  
 
@@ -4530,7 +4404,7 @@ b. eerder op grond van deze regeling of de Subsidieregeling energie en innovatie
 
 c. het project lager is gerangschikt dan een soortgelijk project;  
 
-d. bij een DEI-project dat bestaat uit een combinatie van industrieel onderzoek, experimentele ontwikkeling en een demonstratieproject, niet ten minste 70% van de subsidiabele kosten is toe te rekenen aan het demonstratieproject.   
+d. bij een DEI-project dat bestaat uit een combinatie van industrieel onderzoek, experimentele ontwikkeling en een energiedemonstratieproject, niet ten minste 70% van de subsidiabele kosten is toe te rekenen aan het energiedemonstratieproject.   
 
 ### Artikel  4.2.70  
 
@@ -4662,14 +4536,14 @@ De subsidie, bedoeld in artikel 4.2.72 bevat staatssteun en wordt gerechtvaardig
 
 ####Begripsomschrijvingen
 
-In deze paragraaf wordt verstaan onder jip-energiebesparing industrieproject: project, bestaande uit fundamenteel onderzoek, industrieel onderzoek, experimentele ontwikkeling, of een combinatie van deze vormen, dat past binnen de in bijlage 4.2.11 (Programmalijnen Energiebesparing industrie: joint industry projects) opgenomen programmalijnen. 
+In deze paragraaf wordt verstaan onder jip-energiebesparing industrieproject: project, bestaande uit industrieel onderzoek, experimentele ontwikkeling, of een combinatie van deze vormen, dat past binnen de in bijlage 4.2.11 (Programmalijnen Energiebesparing industrie: joint industry projects) opgenomen programmalijnen. 
 
 ### Artikel  4.2.79  
 
 ####Subsidieaanvraag
 
-1.  De minister verstrekt op aanvraag een subsidie aan een onderzoeksorganisatie of een ondernemer met als hoofdactiviteit het ontwikkelen van kennis en technologie voor derden, in een samenwerkingsverband voor het uitvoeren van een jip-energiebesparing industrieproject.   
-2.  Een samenwerkingsverband bestaat uit ten minste vier ondernemingen en ten minste één onderzoeksorganisatie of ondernemer met als hoofdactiviteit het ontwikkelen van kennis en technologie voor derden.  
+1.  De minister verstrekt op aanvraag een subsidie aan een deelnemer in een samenwerkingsverband voor het uitvoeren van een jip-energiebesparing industrieproject.   
+2.  Een samenwerkingsverband bevat ten minste één onderneming.  
 
 ### Artikel  4.2.80  
 
@@ -4677,15 +4551,14 @@ In deze paragraaf wordt verstaan onder jip-energiebesparing industrieproject: pr
 
 1.  In afwijking van artikel 1.3 bedraagt de subsidie voor een jip-energiebesparing industrieproject ten hoogste: 
 
-a. 100% van de subsidiabele kosten voor zover deze betrekking hebben op fundamenteel onderzoek;  
+a. 50% van de subsidiabele kosten voor zover deze betrekking hebben op industrieel onderzoek;  
 
-b. 50% van de subsidiabele kosten voor zover deze betrekking hebben op industrieel onderzoek;  
+b. 25% van de subsidiabele kosten voor zover deze betrekking hebben op experimentele ontwikkeling;  
 
-c. 25% van de subsidiabele kosten voor zover deze betrekking hebben op experimentele ontwikkeling;  
-
-d. 100% van de subsidiabele kosten voor zover deze betrekking hebben op niet-economische activiteiten van onderzoeksorganisaties.     
-2.  De in het eerste lid, onderdelen b en c, genoemde percentages worden met 20 procentpunten verhoogd indien de aanvrager een kleine onderneming is en de subsidiabele kosten worden gemaakt en betaald door de kleine ondernemer.   
-3.  De in het eerste lid, onderdelen b en c, genoemde percentages worden met 10 procentpunten verhoogd indien de aanvrager een middelgrote onderneming is en de subsidiabele kosten worden gemaakt en betaald door de middelgrote ondernemer.  
+c. 80% van de subsidiabele kosten voor zover deze betrekking hebben op niet-economische activiteiten van onderzoeksorganisaties.     
+2.  De in het eerste lid, onderdelen a en b, genoemde percentages worden met 20 procentpunten verhoogd indien de aanvrager een kleine onderneming is en de subsidiabele kosten worden gemaakt en betaald door de kleine ondernemer.   
+3.  De in het eerste lid, onderdelen a en b, genoemde percentages worden met 10 procentpunten verhoogd indien de aanvrager een middelgrote onderneming is en de subsidiabele kosten worden gemaakt en betaald door de middelgrote ondernemer. 
+4.  De subsidie bedraagt maximaal € 1.000.000 per jip-energiebesparing industrieproject. 
 
 ### Artikel  4.2.81  
 
@@ -4705,15 +4578,13 @@ De termijn, bedoeld in artikel 23, eerste lid, onderdeel c, van het besluit, is 
 
 De minister beslist afwijzend op een aanvraag indien: 
 
-a. na toepassing van artikel 2.4.20.7, eerste lid, minder dan 12 punten zijn toegekend;  
+a. na toepassing van artikel 4.2.84., eerste lid, minder dan 12 punten zijn toegekend;  
 
-b. niet ten minste 40% van de subsidiabele projectkosten wordt gefinancierd door ondernemingen;  
+b. eerder op grond van deze titel een subsidie is verstrekt voor een soortgelijk project;  
 
-c. eerder op grond van deze titel een subsidie is verstrekt voor een soortgelijk project;  
+c. in onvoldoende mate is voorzien in een kwalitatief goede kennisverspreiding;  
 
-d. in onvoldoende mate is voorzien in een kwalitatief goede kennisverspreiding;  
-
-e. na toepassing van artikel 2.4.20.7, eerste lid, een project lager is gerangschikt dan een soortgelijk project.   
+d. na toepassing van artikel 4.2.84., eerste lid, een project lager is gerangschikt dan een soortgelijk project.   
 
 ### Artikel  4.2.84  
 
@@ -4739,45 +4610,42 @@ De subsidie, bedoeld in artikel 4.2.79 bevat staatssteun en wordt gerechtvaardig
 
 ### §  4.2.13  
 
-####Wind op zee: joint industry projects
+####Wind op zee: R&D-projecten
 
 ### Artikel  4.2.85  
 
 ####Begripsomschrijvingen
 
-In deze paragraaf wordt verstaan onder wind op zee jip: project bestaande uit industrieel onderzoek, experimentele ontwikkeling, of een combinatie van deze vormen, dat past binnen de in bijlage 4.2.12 (Programmalijnen Wind op zee) opgenomen innovatiethema’s. 
+In deze paragraaf wordt verstaan onder wind op zee R&D-project: project bestaande uit industrieel onderzoek, experimentele ontwikkeling, of een combinatie van deze vormen, dat past binnen de in bijlage 4.2.12 (Programmalijnen Wind op zee) opgenomen innovatiethema’s. 
 
 ### Artikel  4.2.86  
 
 ####Subsidieaanvraag
 
-1.  De minister verstrekt op aanvraag een subsidie aan een onderzoeksorganisatie in een samenwerkingsverband voor het uitvoeren van een wind op zee jip.   
-2.  Een samenwerkingsverband bestaat uit ten minste drie ondernemingen en ten minste één onderzoeksorganisatie.   
-3.  De penvoerder van het samenwerkingsverband is een onderzoeksorganisatie in het samenwerkingsverband.   
-4.  De penvoerder geeft in de aanvraag aan binnen welke van de in bijlage 3.7.1 genoemde innovatiethema’s de aanvraag valt.  
+1.  De minister verstrekt op aanvraag een subsidie aan een deelnemer in een samenwerkingsverband voor het uitvoeren van een wind op zee R&D-project.   
+2.  Een samenwerkingsverband bevat ten minste één onderneming  
 
 ### Artikel  4.2.87  
 
 ####Steunintensiteit
 
-1.  In afwijking van artikel 1.3 bedraagt de subsidie voor een wind op zee jip ten hoogste: 
+1.  In afwijking van artikel 1.3 bedraagt de subsidie voor een wind op zee R&D-project ten hoogste: 
 
 a. 50% van de subsidiabele kosten voor zover deze betrekking hebben op industrieel onderzoek;  
 
-b. 25% van de subsidiabele kosten voor zover deze betrekking hebben op experimentele ontwikkeling.     
-2.  De subsidie bedraagt per wind op zee jip ten hoogste: 
+b. 25% van de subsidiabele kosten voor zover deze betrekking hebben op experimentele ontwikkeling;  
 
-a. € 1.000.000 indien het valt in innovatiethema 1 (Ondersteuningsconstructies) of innovatiethema 5 (Beheer en onderhoud);  
-
-b. € 500.000 indien het valt in innovatiethema 2 (Optimalisatie van de windcentrale) of innovatiethema 3 (Intern elektrisch netwerk en aansluiting op het hoogspanningsnet);  
-
-c. € 1.500.000 indien het valt in innovatiethema 4 (Transport, Installatie en Logistiek).    
+c. 80% van de subsidiabele kosten voor zover deze betrekking hebben op niet-economische activiteiten van onderzoeksorganisaties.     
+2.  De in het eerste lid, onderdelen a en b, genoemde percentages worden met 20 procentpunten verhoogd, indien de aanvrager een kleine onderneming is en de subsidiabele kosten worden gemaakt en betaald door de kleine onderneming.   
+3.  De in het eerste lid, onderdelen a en b, genoemde percentages worden met 10 procentpunten verhoogd, indien de aanvrager een middelgrote onderneming is en de subsidiabele kosten worden gemaakt en betaald door de middelgrote ondernemer.   
+4.  De in het eerste lid, onderdelen a en b, genoemde percentages worden voor ondernemingen met 10 procentpunten verhoogd, indien het project samenwerking met een onderzoeksorganisatie betreft, de onderzoeksorganisatie minstens 10% van de subsidiabele projectkosten draagt en de onderzoeksorganisatie het recht heeft de resultaten van het project te publiceren voor zover deze afkomstig zijn van het door die organisatie uitgevoerde onderzoek.   
+5.  De subsidie bedraagt maximaal € 1.000.000 per wind op zee R&D-project.  
 
 ### Artikel  4.2.88  
 
 ####Verdeling van het subsidieplafond
 
-De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aanvragen. 
+De minister verdeelt het subsidieplafond op volgorde van binnenkomst van de aanvragen. 
 
 ### Artikel  4.2.89  
 
@@ -4791,34 +4659,13 @@ De termijn, bedoeld in artikel 23, eerste lid, onderdeel c, van het besluit, is 
 
 De minister beslist afwijzend op een aanvraag indien: 
 
-a. na toepassing van artikel 4.2.91, eerste lid, minder dan 2,5 punten per criterium zijn toegekend;  
+a. eerder op grond van dit hoofdstuk of de Subsidieregeling energie en innovatie een subsidie is verstrekt voor een soortgelijk project;  
 
-b. na toepassing van artikel 4.2.91, eerste lid, minder dan 12 punten zijn toegekend;  
+b. de aanvraag betrekking heeft op programmalijn 2 (Optimalisatie van de windcentrale) van bijlage 4.2.12 en eerder op grond van deze paragraaf tweemaal een subsidie is verstrekt voor een project in die programmalijn;  
 
-c. niet ten minste 50% van de financiering van de subsidiabele projectkosten bestaat uit een financiële bijdrage door ondernemingen;  
+c. de kwaliteit van het project onvoldoende is, blijkend uit de uitwerking van aanpak en methodiek, de omgang met risico’s, de uitvoerbaarheid, de deelnemende partijen of de mate waarin de beschikbare middelen effectief en efficiënt ingezet worden;  
 
-d. eerder op grond van dit hoofdstuk of de Subsidieregeling energie en innovatie een subsidie is verstrekt voor een soortgelijk project;  
-
-e. na toepassing van artikel 4.2.91, eerste lid, een project lager is gerangschikt dan een soortgelijk project;  
-
-f. de aanvrager niet aannemelijk heeft gemaakt dat het wind op zee jip leidt tot duurzame energieproductie in 2023 en tot een besparing op de uitgaven aan subsidies in het kader van het Besluit stimulering duurzame energieproductie, die groter is dan de aangevraagde subsidie onder deze paragraaf.   
-
-### Artikel  4.2.91  
-
-####Rangschikkingscriteria
-
-1.  De minister kent aan een project een hoger aantal punten toe naarmate: 
-
-a. het project meer bijdraagt aan de kwantitatieve reductie van de kostprijs van windenergie op zee in 2020;  
-
-b. het project meer bijdraagt aan omzet en werkgelegenheid van de Nederlandse windenergie op zee sector in 2020;  
-
-c. de kwaliteit van het project beter is, blijkend uit de samenstelling van het samenwerkingsverband, deelname van cruciale partijen uit de waardeketen of het MKB, het publicatieplan en de plannen voor intellectueel eigendom, de technische of wetenschappelijke onderzoeksmethode, het projectplan en de projectorganisatie;  
-
-d. de projectopzet kosteneffectiever is en het aandeel van de financiering door ondernemingen in de totale projectfinanciering groter is.     
-2.  De minister kent per onderdeel van het eerste lid ten minste één en ten hoogste vijf punten toe.   
-3.  De minister kent per project 0,5 extra punten toe indien het valt in de programmalijnen 1 (Ondersteuningsconstructies) of 5 (Beheer en onderhoud) en één extra punt indien het valt in programmalijn 4 (Transport, installatie en logistiek).   
-4.  De minister rangschikt de aanvragen waarop niet afwijzend is beslist hoger naarmate in totaal meer punten aan het project zijn toegekend.  
+d. de samenwerking onvoldoende evenwichtig is.  
 
 ### Artikel  4.2.91a  
 
@@ -4830,185 +4677,13 @@ De subsidie, bedoeld in artikel 4.2.86 bevat staatssteun en wordt gerechtvaardig
 
 ####EnerGO: compacte conversie en opslag
 
-### Artikel  4.2.92  
-
-####Begripsomschrijvingen
-
-In deze paragraaf wordt verstaan onder EnerGO CCO-project: project bestaande uit fundamenteel onderzoek, industrieel onderzoek, experimentele ontwikkeling, een demonstratieproject, of een combinatie van deze vormen, dat past binnen de in bijlage 4.2.13 (Programmalijnen EnerGO: compacte conversie en opslag) opgenomen programmalijnen. 
-
-### Artikel  4.2.93  
-
-####Subsidieaanvraag
-
-1.  De minister verstrekt op aanvraag een subsidie aan een deelnemer in een samenwerkingsverband voor het uitvoeren van een EnerGO CCO-project.   
-2.  Een samenwerkingsverband voor een EnerGO CCO-project bestaat uit ten minste één onderneming en ten minste één onderzoeksorganisatie.  
-
-### Artikel  4.2.94  
-
-####Steunintensiteit
-
-1.  In afwijking van artikel 1.3 bedraagt de subsidie voor een EnerGO CCO-project ten hoogste: 
-
-a. 100% van de subsidiabele kosten voor zover deze betrekking hebben op fundamenteel onderzoek;  
-
-b. 60% van de subsidiabele kosten voor zover deze betrekking hebben op industrieel onderzoek;  
-
-c. 40% van de subsidiabele kosten voor zover deze betrekking hebben op experimentele ontwikkeling;  
-
-d. 100% van de subsidiabele kosten voor zover deze betrekking hebben op niet-economische activiteiten van onderzoeksorganisaties;  
-
-e. voor een demonstratieproject: 
-
-1°. 30% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat energiebesparende maatregelen betreft;  
-
-2°. 45% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat maatregelen betreft die het gebruik van hernieuwbare energiebronnen bevorderen en waarbij de subsidiabele kosten worden berekend in overeenstemming met artikel 41, zesde lid, onderdeel a of b, van de algemene groepsvrijstellingsverordening;  
-
-3°. 30% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat maatregelen betreft die het gebruik van hernieuwbare energiebronnen bevorderen en waarbij de subsidiabele kosten worden berekend in overeenstemming met artikel 41, zesde lid, onderdeel c, van de algemene groepsvrijstellingsverordening.       
-2.  De in het eerste lid, onderdelen b, c en e, genoemde percentages worden met 10 procentpunten verhoogd, indien de aanvrager een MKB-onderneming is en de subsidiabele kosten worden gemaakt en betaald door de MKB-onderneming.   
-3.  De subsidiabele kosten van een demonstratieproject worden berekend in overeenstemming met de artikelen 38 en 41 van de algemene groepsvrijstellingsverordening.   
-4.  De onderzoeksorganisatie of onderzoeksorganisaties draagt respectievelijk dragen bij fundamenteel onderzoek, industrieel onderzoek en experimentele ontwikkeling gezamenlijk minstens 10% van de subsidiabele projectkosten en heeft respectievelijk hebben het recht de resultaten van het project te publiceren voor zover deze afkomstig zijn van het door die organisatie respectievelijk organisaties uitgevoerde onderzoek.   
-5.  De subsidie bedraagt maximaal € 3.100.000 per EnerGO CCO-project.  
-
-### Artikel  4.2.95  
-
-####Verdeling van het subsidieplafond
-
-De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aanvragen. 
-
-### Artikel  4.2.96  
-
-####Realisatietermijn
-
-De termijn, bedoeld in artikel 23, eerste lid, onderdeel c, van het besluit, is 4 jaar. 
-
-### Artikel  4.2.97  
-
-####Afwijzingsgronden
-
-De minister beslist afwijzend op een aanvraag indien: 
-
-a. na toepassing van artikel 4.2.98, eerste lid, op de onderdelen a tot en met d, minder dan drie punten per criterium zijn toegekend;  
-
-b. niet ten minste 40% van de subsidiabele projectkosten wordt gefinancierd door ondernemingen;  
-
-c. eerder op grond van dit hoofdstuk of de Subsidieregeling energie en innovatie een subsidie is verstrekt voor een soortgelijk project;  
-
-d. na toepassing van artikel 4.2.98, eerste lid, een project lager is gerangschikt dan een soortgelijk project.   
-
-### Artikel  4.2.98  
-
-####Rangschikkingscriteria
-
-1.  De minister kent aan een project een hoger aantal punten toe naarmate: 
-
-a. het project meer bijdraagt aan verduurzaming van de Nederlandse energiehuishouding en maatschappelijk relevanter is, binnen de context van het innovatiecontract van de topsector energie (Kamerstukken II 2011/12, 32 637, nr. 32);  
-
-b. de mogelijke bijdrage van het project aan de Nederlandse economie groter is;  
-
-c. het project vernieuwender is ten opzichte van de internationale stand van onderzoek of techniek en de Nederlandse kennispositie meer versterkt;  
-
-d. de kwaliteit van het project beter is, blijkend uit de uitwerking van aanpak en methodiek, de omgang met risico’s, de uitvoerbaarheid, de deelnemende partijen en de mate waarin de beschikbare middelen effectiever en efficiënter worden ingezet.  
-
-e. het project meer kenmerken bevat van de programmatische aanpak zoals beschreven in bijlage 4.2.13.     
-2.  De minister kent per onderdeel van het eerste lid ten minste één en ten hoogste vijf punten toe.   
-3.  De minister rangschikt de aanvragen waarop niet afwijzend is beslist hoger naarmate in totaal meer punten aan het project zijn toegekend.  
-
-### Artikel  4.2.98a  
-
-####Staatssteun
-
-De subsidie, bedoeld in artikel 4.2.93 bevat staatssteun en wordt gerechtvaardigd door de artikelen 25, 38 en 41 van de algemene groepsvrijstellingsverordening. 
+Vervallen per 01-04-2015 
 
 ### §  4.2.15  
 
 ####Smart grids
 
-### Artikel  4.2.99  
-
-####Begripsomschrijvingen
-
-In deze paragraaf wordt verstaan onder smart-grids-project: project bestaande uit fundamenteel onderzoek, industrieel onderzoek, experimentele ontwikkeling, een demonstratieproject, of een combinatie daarvan, dat past binnen de in bijlage 4.2.14 (Programmalijnen Smart Grids) opgenomen programmalijnen. 
-
-### Artikel  4.2.100  
-
-####Subsidieaanvraag
-
-1.  De minister verstrekt op aanvraag een subsidie aan een deelnemer in een samenwerkingsverband voor het uitvoeren van een smart-grids-project.   
-2.  Een samenwerkingsverband bestaat uit ten minste één onderneming en ten minste één onderzoeksorganisatie.  
-
-### Artikel  4.2.101  
-
-####Steunintensiteit
-
-1.  In afwijking van artikel 1.3 bedraagt de subsidie voor een smart-grids-project ten hoogste: 
-
-a. 80% van de subsidiabele kosten voor zover deze betrekking hebben op fundamenteel onderzoek;  
-
-b. 50% van de subsidiabele kosten voor zover deze betrekking hebben op industrieel onderzoek;  
-
-c. 25% van de subsidiabele kosten voor zover deze betrekking hebben op experimentele ontwikkeling.  
-
-d. voor een demonstratieproject: 
-
-1°. 30% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat energiebesparende maatregelen betreft;  
-
-2°. 45% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat maatregelen betreft die het gebruik van hernieuwbare energiebronnen bevorderen en waarbij de subsidiabele kosten worden berekend in overeenstemming met artikel 41, zesde lid, onderdeel a of b, van de algemene groepsvrijstellingsverordening;  
-
-3°. 30% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat maatregelen betreft die het gebruik van hernieuwbare energiebronnen bevorderen en waarbij de subsidiabele kosten worden berekend in overeenstemming met artikel 41, zesde lid, onderdeel c, van de algemene groepsvrijstellingsverordening;       
-2.  De subsidiabele kosten van een demonstratieproject worden berekend in overeenstemming met de artikelen 38 en 41 van de algemene groepsvrijstellingsverordening.   
-3.  De in het eerste lid, onderdelen b tot en met d, genoemde percentages, worden verhoogd met 10 procentpunten, indien de aanvrager een MKB-ondernemer is en de subsidiabele kosten worden gemaakt en betaald door de MKB-ondernemer.   
-4.  De subsidie bedraagt maximaal € 1.000.000 per smart-grids-project.  
-
-### Artikel  4.2.102  
-
-####Verdeling van het subsidieplafond
-
-Per programmalijn, genoemd in bijlage 4.2.14, verdeelt de minister het subsidieplafond op volgorde van de rangschikking van de aanvragen. 
-
-### Artikel  4.2.103  
-
-####Realisatietermijn
-
-De termijn, bedoeld in artikel 23, eerste lid, onderdeel c, van het besluit, is vier jaar. 
-
-### Artikel  4.2.104  
-
-####Afwijzingsgronden
-
-De minister beslist afwijzend op een aanvraag indien: 
-
-a. na toepassing van artikel 2.4.23.7, eerste lid, op de onderdelen a, b, c of d, minder dan vijf punten per criterium zijn toegekend;  
-
-b. de subsidie minder bedraagt dan € 125.000;  
-
-c. reeds eerder op grond van dit hoofdstuk of de Subsidieregeling energie en innovatie subsidie is verstrekt voor een soortgelijk project;  
-
-d. na toepassing van artikel 2.4.23.7, eerste lid, een project lager is gerangschikt dan een soortgelijk project.   
-
-### Artikel  4.2.105  
-
-####Rangschikkingscriteria
-
-1.  De minister kent aan een project een hoger aantal punten toe naarmate: 
-
-a. het project meer bijdraagt aan verduurzaming van de Nederlandse energiehuishouding en maatschappelijk relevanter is, binnen de context van het innovatiecontract van de topsector energie (Kamerstukken II 2011/12, 32 637, nr. 32);  
-
-b. de mogelijke bijdrage van het project aan de Nederlandse economie groter is;  
-
-c. het project vernieuwender is ten opzichte van de internationale stand van onderzoek of techniek en de Nederlandse kennispositie meer versterkt;  
-
-d. de kwaliteit van het project beter is, blijkend uit de uitwerking van aanpak en methodiek, de omgang met risico’s, de uitvoerbaarheid en de deelnemende partijen;  
-
-e. de aanvrager verhoudingsgewijs minder subsidie vraagt dan op basis van de regeling is toegestaan.     
-2.  De minister kent per onderdeel van het eerste lid ten minste één en ten hoogste 10 punten toe.   
-3.  Voor de rangschikking wordt het aantal punten gegeven voor het eerste lid, onderdelen a en b, elk vermenigvuldigd met 2,5, het eerste lid, onderdelen c en d, elk vermenigvuldigd met twee en vervolgens opgeteld.   
-4.  De minister rangschikt de aanvragen waarop niet afwijzend is beslist hoger naarmate in totaal meer punten aan het project zijn toegekend.  
-
-### Artikel  4.2.105a  
-
-####Staatssteun
-
-De subsidie, bedoeld in artikel 4.2.100 bevat staatssteun en wordt gerechtvaardigd door de artikelen 25, 38 en 41 van de algemene groepsvrijstellingsverordening. 
+Vervallen per 01-04-2015 
 
 ### §  4.2.16  
 
@@ -5018,7 +4693,7 @@ De subsidie, bedoeld in artikel 4.2.100 bevat staatssteun en wordt gerechtvaardi
 
 ####Begripsomschrijvingen
 
-In deze paragraaf wordt verstaan onder early adopter-project: project bestaande uit experimentele ontwikkeling, gericht op het in een realistische industriële omgeving valideren van een nieuwe energiebesparende technologie, passend binnen de in bijlage 4.2.15 (Programmalijnen Energiebesparing industrie: early adopter-projecten) opgenomen programmalijnen. 
+In deze paragraaf wordt verstaan onder:  *early adopter-project*: project bestaande uit experimentele ontwikkeling, gericht op het in een realistische industriële omgeving valideren van een nieuwe energiebesparende technologie, passend binnen de in bijlage 4.2.15 (Programmalijnen Energiebesparing industrie: early adopterprojecten) opgenomen programmalijnen.  *eindgebruiker*: onderneming die de ontwikkelde technologie gaat toepassen en daarmee energiebesparing in zijn onderneming realiseert. 
 
 ### Artikel  4.2.107  
 
@@ -5028,6 +4703,15 @@ In deze paragraaf wordt verstaan onder early adopter-project: project bestaande 
 2.  Een samenwerkingsverband bestaat uit ten minste drie ondernemingen.   
 3.  Ten minste twee van de deelnemers zijn potentiële eindgebruikers van de technologie.   
 4.  De penvoerder van het samenwerkingsverband is een MKB-deelnemer in het samenwerkingsverband.  
+5. Het eindverslag dat bij de aanvraag voor subsidievaststelling wordt ingediend, geeft in ieder geval inzicht in:
+
+a. de toepasbaarheid van de technologie in de industrie;  
+
+b. de duurzaamheidseffecten en kostenbesparing van de eindgebruiker;  
+
+c. de slagingskans dat de technologie verder uitgerold kan worden;  
+
+d. de wijze waarop de onder c bedoelde uitrol plaats moet gaan vinden.  
 
 ### Artikel  4.2.108  
 
@@ -5036,7 +4720,7 @@ In deze paragraaf wordt verstaan onder early adopter-project: project bestaande 
 1.  In afwijking van artikel 1.3 bedraagt de subsidie voor een early adopter-project ten hoogste 25% van de subsidiabele kosten.   
 2.  Het in het eerste lid genoemde percentage wordt met 20 procentpunten verhoogd indien de aanvrager een kleine onderneming is en de subsidiabele kosten worden gemaakt en betaald door de kleine ondernemer.   
 3.  Het in het eerste lid genoemde percentage wordt met 10 procentpunten verhoogd indien de aanvrager een middelgrote onderneming is en de subsidiabele kosten worden gemaakt en betaald door de middelgrote ondernemer.   
-4.  Onverminderd het tweede en derde lid, wordt het in het eerste lid bedoelde percentage voor ondernemingen met 10 procentpunten verhoogd indien geen van de ondernemingen meer dan 70% van de subsidiabele kosten voor rekening moet nemen en ten minste één deelnemer in het samenwerkingsverband een MKB-ondernemer is of ten minste één deelnemer in het samenwerkingsverband in een andere lidstaat van de Europese Unie dan Nederland is gevestigd en niet behoort tot een groep van een in Nederland gevestigde deelnemer.   
+4.  Onverminderd het tweede en derde lid, wordt het in het eerste lid bedoelde percentage voor ondernemingen met 10 procentpunten verhoogd indien geen van de ondernemingen meer dan 70% van de subsidiabele kosten voor rekening moet nemen en ten minste één deelnemer in het samenwerkingsverband een MKB-ondernemer is.   
 5.  De subsidie bedraagt maximaal € 75.000 per early adopter-project.  
 
 ### Artikel  4.2.109  
@@ -5079,174 +4763,13 @@ De subsidie, bedoeld in artikel 4.2.107 bevat staatssteun en wordt gerechtvaardi
 
 ####Energiebesparing industrie: pilotprojecten
 
-### Artikel  4.2.112  
-
-####Begripsomschrijvingen
-
-In deze paragraaf wordt verstaan onder pilotproject energiebesparing industrie: project, bestaande uit experimentele ontwikkeling, indien noodzakelijk met inbegrip van demonstratieactiviteiten, gericht op het uitvoeren van grootschalige industriële pilots van technologieën, dat past binnen de in bijlage 4.2.16 (Programmalijnen Energiebesparing industrie: pilotprojecten) opgenomen programmalijnen. 
-
-### Artikel  4.2.113  
-
-####Subsidieaanvraag
-
-1.  De minister verstrekt op aanvraag een subsidie aan een deelnemer in een samenwerkingsverband voor het uitvoeren van een pilotproject energiebesparing industrie.   
-2.  Een samenwerkingsverband bestaat uit ten minste twee ondernemingen.  
-
-### Artikel  4.2.114  
-
-####Steunintensiteit
-
-1.  In afwijking van artikel 1.3 bedraagt de subsidie voor een pilotproject energiebesparing industrie ten hoogste: 
-
-a. 25% van de subsidiabele kosten voor zover deze betrekking hebben op experimentele ontwikkeling;  
-
-b. 30% van de subsidiabele kosten voor zover deze betrekking hebben op demonstratieactiviteiten.     
-2.  De subsidiabele kosten van demonstratieactiviteiten worden berekend in overeenstemming met artikel 38 van de algemene groepsvrijstellingsverordening.   
-3.  De in het eerste lid genoemde percentages worden met 20 procentpunten verhoogd indien de aanvrager een kleine onderneming is en de subsidiabele kosten worden gemaakt en betaald door de kleine ondernemer.   
-4.  De in het eerste lid genoemde percentages worden met 10 procentpunten verhoogd indien de aanvrager een middelgrote onderneming is en de subsidiabele kosten worden gemaakt en betaald door de middelgrote ondernemer.   
-5.  Onverminderd het derde en vierde lid, wordt het in het eerste lid, onderdeel a, bedoelde percentage voor ondernemingen met 10 procentpunten verhoogd indien: 
-
-a. geen van de ondernemingen meer dan 70% van de subsidiabele kosten voor rekening moet nemen en ten minste één deelnemer in het samenwerkingsverband een MKB-ondernemer is of ten minste één deelnemer in het samenwerkingsverband in een andere lidstaat van de Europese Unie dan Nederland is gevestigd en niet behoort tot een groep van een in Nederland gevestigde deelnemer, of  
-
-b. het project samenwerking met een onderzoeksorganisatie betreft, de onderzoeksorganisatie minstens 10% van de subsidiabele projectkosten draagt en de onderzoeksorganisatie het recht heeft de resultaten van het project te publiceren voor zover deze afkomstig zijn van het door die organisatie uitgevoerde onderzoek.     
-6.  De subsidie bedraagt maximaal € 800.000 per pilotproject energiebesparing industrie.  
-
-### Artikel  4.2.115  
-
-####Verdeling van het subsidieplafond
-
-Per programmalijn, zoals beschreven in de bijlage, verdeelt de minister de beschikbare subsidies op volgorde van de rangschikking van de aanvragen. 
-
-### Artikel  4.2.116  
-
-####Realisatietermijn
-
-De termijn, bedoeld in artikel 23, eerste lid, onderdeel c, van het besluit, is vier jaar. 
-
-### Artikel  4.2.117  
-
-####Afwijzingsgronden
-
-De minister beslist afwijzend op een aanvraag indien: 
-
-a. na toepassing van artikel 4.2.118, eerste lid, minder dan 12 punten zijn toegekend;  
-
-b. niet ten minste 50% van de subsidiabele projectkosten wordt gefinancierd door ondernemingen;  
-
-c. eerder op grond van deze titel een subsidie is verstrekt voor een soortgelijk project;  
-
-d. na toepassing van artikel 4.2.118, eerste lid, een project lager is gerangschikt dan een soortgelijk project.   
-
-### Artikel  4.2.118  
-
-####Rangschikkingscriteria
-
-1.  De minister kent aan een project een hoger aantal punten toe naarmate: 
-
-a. het project meer bijdraagt aan verduurzaming van de Nederlandse energiehuishouding en maatschappelijk relevanter is, binnen de context van het innovatiecontract van de topsector energie (Kamerstukken II 2011/12, 32 637, nr. 32);  
-
-b. de mogelijke bijdrage van het project aan de Nederlandse economie groter is;  
-
-c. het project vernieuwender is ten opzichte van de internationale stand van onderzoek of techniek en de Nederlandse kennispositie meer versterkt;  
-
-d. de kwaliteit van het project beter is, blijkend uit de uitwerking van aanpak en methodiek, de omgang met risico’s, de uitvoerbaarheid, de deelnemende partijen en het plan voor de kennisverspreiding.     
-2.  De minister kent per onderdeel van het eerste lid ten minste één en ten hoogste vijf punten toe.   
-3.  De minister rangschikt de aanvragen waarop niet afwijzend is beslist hoger naarmate in totaal meer punten aan het project zijn toegekend.  
-
-### Artikel  4.2.118a  
-
-####Staatssteun
-
-De subsidie, bedoeld in artikel 4.2.113 bevat staatssteun en wordt gerechtvaardigd door de artikelen 25 en 38 van de algemene groepsvrijstellingsverordening. 
+Vervallen per 01-04-2015 
 
 ### §  4.2.18  
 
 ####PV-technologie
 
-### Artikel  4.2.119  
-
-####Begripsomschrijvingen
-
-In deze paragraaf wordt verstaan onder PV-project: project bestaande uit fundamenteel onderzoek, industrieel onderzoek, experimentele ontwikkeling, een demonstratieproject of een combinatie van deze vormen, dat past binnen de in de bijlage 4.2.17 (Prioriteitsthema’s PV-projecten) opgenomen prioriteitsthema’s. 
-
-### Artikel  4.2.120  
-
-####Subsidieaanvraag
-
-1.  De minister verstrekt op aanvraag een subsidie aan een deelnemer in een samenwerkingsverband voor het uitvoeren van een PV-project.   
-2.  Een samenwerkingsverband bestaat uit ten minste één onderneming en één onderzoeksorganisatie.  
-
-### Artikel  4.2.121  
-
-####Steunintensiteit
-
-1.  In afwijking van artikel 1.3 bedraagt de subsidie voor een PV-project ten hoogste: 
-
-a. 100% van de subsidiabele kosten voor zover deze betrekking hebben op fundamenteel onderzoek;  
-
-b. 60% van de subsidiabele kosten voor zover deze betrekking hebben op industrieel onderzoek;  
-
-c. 40% van de subsidiabele kosten voor zover deze betrekking hebben op experimentele ontwikkeling;  
-
-d. voor een demonstratieproject: 
-
-1°. 45% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat maatregelen betreft ter bevordering van energie uit hernieuwbare energiebronnen en waarbij de subsidiabele kosten worden berekend in overeenstemming met artikel 41, zesde lid, onderdeel a of b, van de algemene groepsvrijstellingsverordening;  
-
-2°. 30% van de subsidiabele kosten, voor zover deze betrekking hebben op een project dat maatregelen betreft ter bevordering van energie uit hernieuwbare energiebronnen en waarbij de subsidiabele kosten worden berekend in overeenstemming met artikel 41, zesde lid, onderdeel c, van de algemene groepsvrijstellingsverordening;    
-
-e. 100% van de subsidiabele kosten voor zover deze betrekking hebben op niet-economische activiteiten van onderzoeksorganisaties.     
-2.  De subsidiabele kosten van een demonstratieproject worden berekend in overeenstemming met artikel 41 van de algemene groepsvrijstellingsverordening.   
-3.  De onderzoeksorganisatie of onderzoeksorganisaties draagt respectievelijk dragen bij fundamenteel onderzoek, industrieel onderzoek en experimentele ontwikkeling gezamenlijk minstens 10% van de subsidiabele projectkosten en heeft respectievelijk hebben het recht de resultaten van het project te publiceren voor zover deze afkomstig zijn van het door die organisatie respectievelijk organisaties uitgevoerde onderzoek.   
-4.  De subsidie bedraagt maximaal € 750.000 per PV-project.  
-
-### Artikel  4.2.122  
-
-####Verdeling van het subsidieplafond
-
-Per prioriteitsthema, zoals beschreven in de bijlage, verdeelt de minister de beschikbare subsidies op volgorde van de rangschikking van de aanvragen. 
-
-### Artikel  4.2.123  
-
-####Realisatietermijn
-
-De termijn, bedoeld in artikel 23, eerste lid, onderdeel c, van het besluit, is vijf jaar. 
-
-### Artikel  4.2.124  
-
-####Afwijzingsgronden
-
-De minister beslist afwijzend op een aanvraag indien: 
-
-a. na toepassing van artikel 4.2.125, eerste lid, minder dan 6 punten per criterium zijn toegekend;  
-
-b. niet ten minste 40% van de subsidiabele projectkosten wordt gefinancierd door ondernemingen;  
-
-c. eerder op grond van deze titel een subsidie is verstrekt voor een soortgelijk project;  
-
-d. na toepassing van artikel 4.2.125, eerste lid, een project lager is gerangschikt dan een soortgelijk project.   
-
-### Artikel  4.2.125  
-
-####Rangschikkingscriteria
-
-1.  De minister kent aan een project aan de hand van de volgende criteria een hoger aantal punten toe naarmate: 
-
-a. het project meer bijdraagt aan verduurzaming van de Nederlandse energiehuishouding en maatschappelijk relevanter is, binnen de context van het innovatiecontract van de topsector energie (Kamerstukken II 2011/12, 32 637, nr. 32);  
-
-b. de mogelijke bijdrage van het project aan de Nederlandse economie groter is;  
-
-c. het project vernieuwender is ten opzichte van de internationale stand van onderzoek of techniek en de Nederlandse kennispositie meer versterkt;  
-
-d. de kwaliteit van het project beter is, blijkend uit de uitwerking van aanpak en methodiek, de omgang met risico’s, de uitvoerbaarheid, de deelnemende partijen en de mate waarin de beschikbare middelen effectiever en efficiënter worden ingezet.     
-2.  De minister kent per onderdeel van het eerste lid ten minste één en ten hoogste 10 punten toe.   
-3.  Voor de rangschikking wordt het aantal punten gegeven voor eerste lid, onderdeel a, vermenigvuldigd met 15, het eerste lid, onderdeel b, vermenigvuldigd met 30, het eerste lid, onderdeel c, vermenigvuldigd met 30 en het eerste lid, onderdeel d, vermenigvuldigd met 25 en vervolgens opgeteld.   
-4.  De minister rangschikt de aanvragen waarop niet afwijzend is beslist hoger naarmate in totaal meer punten aan het project zijn toegekend.  
-
-### Artikel  4.2.125a  
-
-####Staatssteun
-
-De subsidie, bedoeld in artikel 4.2.120 bevat staatssteun en wordt gerechtvaardigd door de artikelen 25 en 41 van de algemene groepsvrijstellingsverordening. 
+Vervallen per 01-04-2015 
 
 ### Titel  4.3  
 
@@ -5594,14 +5117,15 @@ c. de kerngegevens voor de onderbouwing van de subsidievaststelling.
 
 ### Artikel  4.3.17  
 
+####Staatssteun
+
 De subsidie, bedoeld in artikel 4.3.2, bevat staatssteun en wordt gerechtvaardigd door artikel 41 van de algemene groepsvrijstellingsverordening. 
 
 ### Artikel  4.3.18  
 
 ####Vervaltermijn
 
-1.  Deze titel vervalt met ingang van 1 juli 2017, met dien verstande dat deze van toepassing blijft op subsidies die voor die datum zijn verleend.   
-2.  De bijlagen 4.3.1 en 4.3.2 vervallen met ingang van 1 juli 2017.  
+Deze titel en de bijlagen 4.3.1 en 4.3.2 vervallen met ingang van 1 juli 2017, met dien verstande dat deze van toepassing blijven op subsidies die voor die datum zijn verleend. 
 
 ### Titel  4.4  
 
@@ -5743,238 +5267,19 @@ De subsidie, bedoeld in artikel 4.4.2, bevat staatssteun en wordt gerechtvaardig
 
 ####Vervaltermijn
 
-1.  Deze titel vervalt met ingang van 1 juli 2017, met dien verstande dat deze van toepassing blijft op subsidies die voor die datum zijn verleend.   
-2.  De bijlagen 4.4.1 en 4.4.2 vervallen met ingang van 1 juli 2017.  
+Deze titel en de bijlagen 4.4.1 en 4.4.2 vervallen met ingang van 1 juli 2017, met dien verstande dat deze van toepassing blijven op subsidies die voor die datum zijn verleend. 
 
 ### Titel  4.5  
 
 ####Wind op zee projecten
 
-### Artikel  4.5.1  
-
-####Begripsomschrijving
-
-In deze titel wordt verstaan onder wind op zee-project: project bestaande uit fundamenteel onderzoek, industrieel onderzoek, experimentele ontwikkeling, een demonstratieproject of een combinatie van deze vormen, dat past binnen bijlage 4.5.1. 
-
-### Artikel  4.5.2  
-
-####Subsidieaanvraag
-
-1.  De minister verstrekt op aanvraag een subsidie aan een deelnemer in een samenwerkingsverband voor het uitvoeren van een wind op zee project.   
-2.  Een samenwerkingsverband voert een project uit voor gezamenlijke rekening en risico.   
-3.  Een samenwerkingsverband bestaat ten minste uit een onderneming en een kennisinstelling.   
-4.  De subsidieontvanger voert het wind op zee project hoofdzakelijk in Nederland uit, behoudens voorafgaande schriftelijke ontheffing van de minister voor gedeeltelijke uitvoering buiten Nederland.   
-5.  Binnen een ‘wind op zee-project’ kan ten hoogste 20% van de subsidiabele kosten besteed worden aan met het project samenhangend fundamenteel onderzoek.  
-
-### Artikel  4.5.3  
-
-####Steunintensiteit
-
-1.  In afwijking van artikel 1.3 bedraagt de subsidie voor een demonstratieproject wind op zee 40 procent van de subsidiabele kosten, voor zover die kosten betrekking hebben op activiteiten, niet zijnde fundamenteel onderzoek, industrieel onderzoek of experimentele ontwikkeling.   
-2.  De subsidie bedraagt voor een wind op zee project: 
-
-a. in afwijking van artikel1.3 ten hoogste 100 procent van de subsidiabele kosten voor zover deze betrekking hebben op fundamenteel onderzoek;  
-
-b. 50 procent van de subsidiabele kosten voor zover deze betrekking hebben op industrieel onderzoek;  
-
-c. 25 procent van de subsidiabele kosten voor zover deze betrekking hebben op experimentele ontwikkeling.     
-3.  Indien de subsidiabele kosten betrekking hebben op een combinatie van fundamenteel onderzoek, industrieel onderzoek en experimentele ontwikkeling, bedraagt de subsidie het gewogen gemiddelde van de in het tweede lid genoemde percentages van de desbetreffende subsidiabele kosten.   
-4.  De in het eerste en tweede lid genoemde percentages worden, met uitzondering van het percentage genoemd in het tweede lid, onder a, met 10 procentpunten verhoogd, voor zover de aanvrager een MKB-ondernemer is en de subsidiabele kosten worden gemaakt en betaald door de MKB-ondernemer.   
-5.  De subsidiabele kosten van een demonstratieproject worden berekend in overeenstemming met artikel 41 van de algemene groepsvrijstellingsverordening en met inachtneming van artikel 14a, tweede lid, van het besluit.  
-
-### Artikel  4.5.4  
-
-####Cumulatie
-
-Bij toepassing van artikel 6, eerste lid, van het besluit worden buiten beschouwing gelaten de bijdragen van de Europese Commissie op grond van Besluit nr. 1982/2006/EG van het Europees Parlement en de Raad van 18 december 2006 betreffende het zevende kaderprogramma voor activiteiten op het gebied van onderzoek, technologische ontwikkeling en demonstratie (PbEU 2006, L412) en Verordening (EU) nr. 1291/2013 van het Europees Parlement en de Raad van 11 december 2013 tot vaststelling van Horizon 2020 – het kaderprogramma voor onderzoek en innovatie (2014–2020) en tot intrekking van Besluit nr. 1982/2006/EG (PbEU 2013, L347). 
-
-### Artikel  4.5.5  
-
-####Subsidiabele kosten
-
-Voor zover de projectkosten betrekking hebben op activiteiten als bedoeld in artikel 4.5.3, eerste lid, is artikel 14a van het besluit van toepassing en zijn de artikelen 10, derde lid, 38, eerste lid, onder b t/m d, en 41 van het besluit niet van toepassing. 
-
-### Artikel  4.5.6  
-
-####Verdeling van het subsidieplafond
-
-Per programmalijn, zoals beschreven in de bijlage, verdeelt de minister de beschikbare subsidies op volgorde van de rangschikking van de aanvragen. 
-
-### Artikel  4.5.7  
-
-####Realisatietermijn
-
-De termijn, bedoeld in artikel 23, eerste lid, onderdeel c, van het besluit, is vier jaar. 
-
-### Artikel  4.5.8  
-
-####Adviescommissie
-
-1.  Er is een Adviescommissie Wind op Zee die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in artikel 23, eerste lid, onderdelen e tot en met h, van het besluit en in artikel 4.5.9, en de rangschikkingscriteria, bedoeld in artikel 4.5.10.   
-2.  De commissie bestaat uit ten minste vijf en ten hoogste tien leden.   
-3.  De voorzitter en de andere leden worden door de minister voor een termijn van ten hoogste vier jaar benoemd.  
-
-### Artikel  4.5.9  
-
-####Afwijzingsgronden
-
-De minister beslist afwijzend op een aanvraag indien: 
-
-a. per criterium, bedoeld in artikel 4.5.10 niet minimaal 2,5 van de maximaal 5 punten zijn verkregen;  
-
-b. in totaal voor de gezamenlijke criteria, bedoeld in artikel 4.5.10 niet 12 punten of meer verkregen zijn;  
-
-c. eerder op grond van deze titel of titel 4.2 een subsidie is verstrekt voor een soortgelijk project;  
-
-d. de aanvrager niet aannemelijk heeft gemaakt dat het wind op zee-project leidt tot duurzame energieproductie in 2023 en leidt tot een besparing op de uitgaven aan subsidies in het kader van het Besluit stimulering duurzame energieproductie, die groter is dan de aangevraagde subsidie onder deze paragraaf.   
-
-### Artikel  4.5.10  
-
-####Rangschikkingscriteria
-
-1.  De minister rangschikt de aanvragen waarop niet afwijzend is beslist, hoger naarmate: 
-
-a. het project meer bijdraagt aan de kwantitatieve reductie van de kostprijs van windenergie op zee in 2020;  
-
-b. het project meer bijdraagt aan omzet en werkgelegenheid van de Nederlandse windenergie op zee sector in 2020;  
-
-c. de kwaliteit van het project beter is, blijkend uit de samenstelling van het consortium, deelname van cruciale partijen uit de waardeketen of van het MKB, het publicatieplan en de plannen voor het intellectuele eigendom, de technische of wetenschappelijke onderzoeksmethode, het projectplan en de projectorganisatie;  
-
-d. de projectopzet kosteneffectiever is en voor het project minder subsidie wordt aangevraagd in verhouding tot wat maximaal voor het project op grond van deze paragraaf mogelijk is.     
-2.  Voor de rangschikking tellen de criteria even zwaar.   
-3.  Geen subsidie wordt verleend voor een project dat lager is gerangschikt dan een soortgelijk project.  
-
-### Artikel  4.5.11  
-
-####Subsidievoorwaarden
-
-1.  De subsidieontvanger start binnen zes maanden na de datum van de beschikking tot subsidieverlening de uitvoering van het wind op zee-project.   
-2.  De subsidieontvanger draagt zorg voor de openbaarmaking en verspreiding van de resultaten van het project conform het publicatieplan.   
-3.  Iedere publicatie door of met medewerking van de deelnemers in het project of diens medewerkers wordt voorzien van de vermelding dat het project wordt uitgevoerd met Topsector Energie-subsidie van het Ministerie van Economische Zaken.  
-
-### Artikel  4.5.12  
-
-####Informatieverplichtingen
-
-1.  Een aanvraag om subsidie op grond van artikel 4.5.2 bevat ten minste de gegevens, bedoeld in artikel 6, tweede lid, van de algemene groepsvrijstellingsverordening.  
-2.  Onverminderd het eerste lid bevat een aanvraag om subsidie op grond van artikel 4.5.2 ten minste: 
-
-a. gegevens over de aanvrager, waaronder de naam van de organisatie, het KvK-nummer, het post- en bezoekadres en het rekeningnummer;  
-
-b. gegevens over de contactpersoon bij de aanvrager, waaronder de naam, het telefoonnummer en het e-mailadres;  
-
-c. kerngegevens over het project.     
-3.  De aanvraag voor de vaststelling van een subsidie die krachtens deze titel is verleend bevat in ieder geval: 
-
-a. gegevens over de aanvrager, waaronder de naam van de aanvrager en het door de minister verstrekte referentienummer;  
-
-b. de omvang van de vast te stellen subsidie;  
-
-c. de kerngegevens voor de onderbouwing van de subsidievaststelling.    
-
-### Artikel  4.5.13  
-
-####Staatssteun
-
-De subsidie, bedoeld in artikel 4.5.2, bevat staatssteun en wordt gerechtvaardigd door de artikelen 25 en 41 van de algemene groepsvrijstellingsverordening. 
-
-### Artikel  4.5.14  
-
-####Vervaltermijn
-
-1.  Deze titel vervalt met ingang van 1 juli 2017, met dien verstande dat deze van toepassing blijft op subsidies die voor die datum zijn verleend.   
-2.  Bijlage 4.5.1 vervalt met ingang van 1 juli 2017.  
+Vervallen per 01-04-2015 
 
 ### Titel  4.6  
 
 ####Wind op zee-haalbaarheidsstudies
 
-### Artikel  4.6.1  
-
-####Begripsomschrijvingen
-
-In deze titel wordt verstaan onder wind op zee-haalbaarheidsstudie: samenstel van activiteiten dat leidt tot een schriftelijk rapport met een inschatting van de technische en economische mogelijkheden van door een MKB-ondernemer voorgenomen industrieel onderzoek of experimentele ontwikkeling, dat past binnen bijlage 4.5.1. 
-
-### Artikel  4.6.2  
-
-####Subsidieaanvraag
-
-De minister verstrekt op aanvraag een subsidie aan een MKB-ondernemer voor het uitvoeren van een wind op zee-haalbaarheidsstudie. 
-
-### Artikel  4.6.3  
-
-####Steunintensiteit
-
-1.  In afwijking van artikel 1.3 bedraagt de subsidie voor een wind op zee-haalbaarheidsstudie ten hoogste 40% van de subsidiabele kosten.   
-2.  De subsidie bedraagt maximaal € 50.000 per wind op zee-haalbaarheidsstudie.  
-
-### Artikel  4.6.4  
-
-####Cumulatie
-
-Bij toepassing van artikel 6, eerste lid, van het besluit worden buiten beschouwing gelaten de bijdragen van de Europese Commissie op grond van Besluit nr. 1982/2006/EG van het Europees Parlement en de Raad van 18 december 2006 betreffende het zevende kaderprogramma voor activiteiten op het gebied van onderzoek, technologische ontwikkeling en demonstratie (PbEU 2006, L412) en Verordening (EU) nr. 1291/2013 van het Europees Parlement en de Raad van 11 december 2013 tot vaststelling van Horizon 2020 – het kaderprogramma voor onderzoek en innovatie (2014–2020) en tot intrekking van Besluit nr. 1982/2006/EG (PbEU 2013, L347). 
-
-### Artikel  4.6.5  
-
-####Verdeling van het subsidieplafond
-
-Per programmalijn, zoals beschreven in de bijlage, verdeelt de minister de beschikbare subsidies op volgorde van binnenkomst van de aanvragen. 
-
-### Artikel  4.6.6  
-
-####Realisatietermijn
-
-De termijn, bedoeld in artikel 23, eerste lid, onderdeel c, van het besluit, is 12 maanden. 
-
-### Artikel  4.6.7  
-
-####Afwijzingsgronden
-
-De minister beslist afwijzend op een aanvraag indien: 
-
-a. de voorgenomen activiteiten waarop de wind op zee-haalbaarheidsstudie betrekking heeft in technische of financiële zin onvoldoende risicovol zijn om de wind op zee-haalbaarheidsstudie te rechtvaardigen;  
-
-b. het projectplan voor de wind op zee-haalbaarheidsstudie onvoldoende inzicht geeft in het economisch perspectief en de uitvoerbaarheid van de voorgenomen activiteiten waarop de wind op zee-haalbaarheidsstudie betrekking heeft.   
-
-### Artikel  4.6.8  
-
-####Subsidievoorwaarden
-
-1.  De subsidieontvanger start binnen zes maanden na de datum van de beschikking tot subsidieverlening de uitvoering van de wind op zee-haalbaarheidsstudie.   
-2.  De subsidieontvanger draagt zorg voor de openbaarmaking en verspreiding van de resultaten van het project conform het publicatieplan.   
-3.  Iedere publicatie door of met medewerking van de deelnemers in het project of diens medewerkers wordt voorzien van de vermelding dat het project wordt uitgevoerd met Topsector Energie-subsidie van het Ministerie van Economische Zaken.  
-
-### Artikel  4.6.9  
-
-####Informatieverplichtingen
-
-1.  Een aanvraag om subsidie op grond van artikel 4.6.2 bevat ten minste de gegevens, bedoeld in artikel 6, tweede lid, van de algemene groepsvrijstellingsverordening.  
-2.  Onverminderd het eerste lid bevat een aanvraag om subsidie op grond van artikel 4.6.2 ten minste: 
-
-a. gegevens over de aanvrager, waaronder de naam van de organisatie, het KvK-nummer, het post- en bezoekadres en het rekeningnummer;  
-
-b. gegevens over de contactpersoon bij de aanvrager, waaronder de naam, het telefoonnummer en het e-mailadres;  
-
-c. kerngegevens over het project.     
-3.  De aanvraag voor de vaststelling van een subsidie die krachtens deze titel is verleend bevat in ieder geval: 
-
-a. gegevens over de aanvrager, waaronder de naam van de aanvrager en het door de minister verstrekte referentienummer;  
-
-b. de omvang van de vast te stellen subsidie;  
-
-c. de kerngegevens voor de onderbouwing van de subsidievaststelling.    
-
-### Artikel  4.6.10  
-
-####Staatssteun
-
-De subsidie, bedoeld in artikel 4.6.2, bevat staatssteun en wordt gerechtvaardigd door artikel 25 van de algemene groepsvrijstellingsverordening. 
-
-### Artikel  4.6.11  
-
-####Vervaltermijn
-
-Deze titel vervalt met ingang van 1 juli 2017, met dien verstande dat deze van toepassing blijft op subsidies die voor die datum zijn verleend. 
+Vervallen per 01-04-2015 
 
 ### Hoofdstuk  5  
 
@@ -10903,79 +10208,121 @@ Plaats en datum Handtekening Naam accountant Naam accountantskantoor
 
 ### Bijlage 4.2.1 
 
-####, behorend bij artikel 4.2.8  van de Regeling nationale EZ-subsidies
+####, behorende bij artikel 4.2.8  van de Regeling nationale EZ-subsidies (Programmalijnen BBE Innovatie projecten)
 
-####Biobased Economy: Innovatieprojecten
-
-Doel van deze tender is de ondersteuning van onderzoeks- en ontwikkelingsprojecten gericht op conversie van biomassa naar vermarktbare eindproducten via chemisch katalytische- en biotechnologische conversieroutes. Daarbij moet sprake zijn van cascaderend, dan wel hoogwaardiger, gebruik van biomassa en een significante bijdrage aan de doelstellingen van de Topsector Energie. Bij cascadering wordt biomassa omgezet in een spectrum van vermarktbare producten en energie ter vervanging van fossiele grondstoffen. Hierbij wordt gestreefd naar een zo efficiënt mogelijk gebruik van de biomassa: alle componenten worden optimaal gebruikt en het ontstaan van reststromen wordt geminimaliseerd. Bij hoogwaardiger gebruik moeten we denken aan opwaarderen van de grondstoffen door middel van nieuw te ontwikkelen dan wel optimaliseren van bestaande technologieën. Hierbij kan worden gedacht aan: 
+Doel van deze tender is de ondersteuning van onderzoeks- en ontwikkelingsprojecten gericht op conversie van biomassa naar vermarktbare eindproducten via chemisch katalytische- en biotechnologische conversieroutes. Daarbij moet sprake zijn van cascaderend, dan wel hoogwaardiger, gebruik van biomassa en een significante bijdrage aan de doelstellingen van de Topsector energie (verduurzaming van de energiehuishouding tegen de laagst mogelijke kosten, CO<sub>2</sub>-reductie, benutten van het potentieel aan energiebesparing en versterking van de economie). *Bij cascadering wordt biomassa omgezet in een spectrum van vermarktbare producten en energie ter vervanging van fossiele grondstoffen. Hierbij wordt gestreefd naar een zo efficiënt mogelijk gebruik van de biomassa: *alle componenten worden optimaal gebruikt en het ontstaan van reststromen wordt geminimaliseerd. Bij hoogwaardiger gebruik moeten we denken aan het opwaarderen van de grondstoffen door middel van nieuw te ontwikkelen technologieën, dan wel door het optimaliseren van bestaande technologieën. Hierbij kan bijvoorbeeld worden gedacht aan:
 
 * voorbehandelingstechnologieën op basis van enzymen of verhoogde temperatuur en druk;  
 
-* het gebruik van laagwaardige alternatieve grondstoffen/materialen, die of een voorbehandeling of een reiniging, dan wel een extra (nieuwe) verwerkingstechniek nodig hebben.   Projecten komen in aanmerking voor subsidie indien: 
+* het gebruik van laagwaardige alternatieve grondstoffen/materialen, die of een voorbehandeling of een reiniging, dan wel een extra (nieuwe) verwerkingstechniek nodig hebben.  Projecten komen in aanmerking voor subsidie indien: 
 
-* de conversie van biomassa leidt tot eindproducten waarvan een aanzienlijk deel een energietoepassing heeft, of  
+* De conversie van biomassa leidt tot eindproducten waarvan een aanzienlijk deel een energietoepassing heeft, of  
 
-* de conversie van biomassa leidt tot een aanzienlijke energiebesparing ten opzichte van de huidige, gangbare, fossiele routes.   In beide gevallen geldt dat een aanzienlijke CO<sub>2</sub>-reductie moet worden bereikt ten opzichte van de huidige fossiele routes. Binnen projecten moet de nadruk liggen op validatie van nieuwe technologie. Daarom wordt een substantiële financiële en inhoudelijke bijdrage van bedrijven verwacht. Voor projecten die zich (deels) richten op de productie van transportbrandstoffen, elektriciteit en/of warmte uit biomassa geldt dat aannemelijk moet worden gemaakt dat deze op termijn leiden tot een kostprijsreductie ten opzichte van de gangbare routes vanuit biomassa. Projecten moeten passen binnen de programmalijnen ‘Chemisch katalytische conversietechnologie’ en/of ‘Biotechnologische conversietechnologie’. 'Chemisch katalytische conversietechnologie' betreft de ontwikkeling van nieuwe geavanceerde technologieën voor de omzetting van -al dan niet voorbewerkte- biomassa naar groene materialen, chemicaliën en brandstoffen via chemokatalytische routes. Conversieprocessen worden bij voorkeur voorafgegaan door bioraffinage. Bij bioraffinage worden plantaardige en dierlijke grondstoffen op efficiënte, ecologisch verantwoorde en economische wijze ontrafeld, zodat de volledige potentie van haar inhoudsstoffen benut kan worden. Het streven daarbij is om bestaande functionaliteiten en koolstofskeletstructuren in de moleculen zo veel mogelijk te behouden. Conversieprocessen worden gevolgd door energie-efficiënte scheidingstechnieken. 'Biotechnologische conversietechnologie' betreft ontwikkeling van nieuwe geavanceerde technologieën voor de omzetting van -al dan niet voorbewerkte- biomassa naar groene materialen, chemicaliën en brandstoffen via biotechnologische routes (met aandacht voor biotechnologie/genomics). Conversieprocessen worden bij voorkeur voorafgegaan door bioraffinage. Bij bioraffinage worden plantaardige en dierlijke grondstoffen op efficiënte, ecologisch verantwoorde en economische wijze ontrafeld, zodat de volledige potentie van haar inhoudsstoffen benut kan worden. Het streven daarbij is bestaande functionaliteiten en koolstofskeletstructuren in de moleculen zo veel mogelijk te behouden. Conversieprocessen worden gevolgd door energie-efficiënte scheidingstechnieken. Projecten waarin biotechnologische, biokatalytische en/of chemokatalytische routes gecombineerd worden, komen eveneens in aanmerking voor subsidie. Ook de conversie van energiedragers geproduceerd uit biomassa naar vermarktbare producten komt in aanmerking voor subsidie. Daarbij kan gedacht worden aan de productie van biobrandstoffen uit pyrolyse-olie of uit synthesegas afkomstig van biomassavergassing. Projecten die niet in aanmerking voor subsidie komen, zijn: 
+* De conversie van biomassa leidt tot een aanzienlijke energiebesparing ten opzichte van de huidige, gangbare, fossiele routes.  In beide gevallen geldt dat een aanzienlijke CO<sub>2</sub>-reductie moet worden bereikt ten opzichte van de huidige fossiele routes. Binnen projecten moet de nadruk liggen op validatie van nieuwe technologie. Daarom wordt een substantiële financiële en inhoudelijke bijdrage van bedrijven verwacht. Voor projecten die zich (deels) richten op de productie van transportbrandstoffen, elektriciteit en/of warmte uit biomassa geldt dat aannemelijk moet worden gemaakt dat deze op termijn leiden tot een kostprijsreductie ten opzichte van de gangbare routes vanuit biomassa. Projecten moeten passen binnen de programmalijnen ‘Chemisch katalytische conversietechnologie’ en, of ‘Biotechnologische conversietechnologie’. 'Chemisch katalytische conversietechnologie' betreft de ontwikkeling van nieuwe geavanceerde technologieën voor de omzetting van -al dan niet voorbewerkte- biomassa naar groene materialen, chemicaliën en energiedragers via chemokatalytische routes. Conversieprocessen worden bij voorkeur vooraf gegaan door bioraffinage. Bij bioraffinage worden plantaardige en dierlijke grondstoffen op efficiënte, ecologisch verantwoorde en economische wijze ontrafeld, zodat de volledige potentie van haar inhoudsstoffen benut kan worden. Het streven is daarbij om bestaande functionaliteiten en koolstofskeletstructuren in de moleculen zo veel mogelijk te behouden. Conversieprocessen worden waar nodig gevolgd door energie-efficiënte scheidingstechnieken. 'Biotechnologische conversietechnologie' betreft ontwikkeling van nieuwe geavanceerde technologieën voor de omzetting van -al dan niet voorbewerkte- biomassa naar groene materialen, chemicaliën en energiedragers via biotechnologische routes (met aandacht voor biotechnologie/genomics). Conversieprocessen worden bij voorkeur vooraf gegaan door bioraffinage. Bij bioraffinage worden plantaardige en dierlijke grondstoffen op efficiënte, ecologisch verantwoorde en economische wijze ontrafeld, zodat de volledige potentie van haar inhoudsstoffen benut kan worden. Het streven is daarbij om bestaande functionaliteiten en koolstofskeletstructuren in de moleculen zo veel mogelijk te behouden. Conversieprocessen worden waar nodig gevolgd door energie-efficiënte scheidingstechnieken. Projecten waarin biotechnologische, biokatalytische en, of chemokatalytische routes gecombineerd worden komen eveneens in aanmerking voor subsidie. Ook de conversie van energiedragers geproduceerd uit biomassa naar vermarktbare producten komt in aanmerking voor subsidie. Daarbij kan bijvoorbeeld gedacht worden aan de productie van biobrandstoffen uit pyrolyse-olie of uit synthesegas afkomstig van biomassavergassing. Omvangrijke projecten scoren hoger op het aspect ‘aanpak en methodiek’ van het rangschikkingscriterium ‘kwaliteit van het project’ indien er al op labschaal succesvol vooronderzoek gedaan is dat de technische haalbaarheid aantoont. Indien dat niet het geval is, scoren projecten hoger op dit criterium indien de omvang van het project beperkt wordt tot het vooronderzoek op labschaal. Projecten in de zin van de regeling zijn niet: 
 
-–  projecten gericht op de teelt van biomassa;  
+– projecten gericht op de teelt van biomassa  
 
-– projecten gericht op de raffinage van aquatische biomassa;  
+– projecten gericht op de raffinage van aquatische biomassa  
 
-– projecten die primair zijn gericht op de productie van groen gas en omzetting daarvan in warmte en/of elektriciteit, aangezien deze projecten in aanmerking kunnen komen voor subsidie onder de subparagraaf Groen Gas.   
+– projecten die primair zijn gericht op de productie van groen gas en omzetting daarvan in warmte en/of elektriciteit, aangezien deze projecten in aanmerking voor subsidie kunnen komen onder paragraaf 4.2.3 Hernieuwbare energie.   
 
 ### Bijlage  4.2.2 
 
-####, behorende bij artikel 4.2.15  van de Regeling nationale EZ-subsidies
+####, behorende bij artikel 4.2.15  van de Regeling nationale EZ-subsidies (Hernieuwbare-energieprojecten)
 
-####Biobased Economy: Kostprijsreductie elektriciteit- en warmteproductie
+####Doelstelling
 
-Doel van deze tender is de ondersteuning van onderzoeks- en ontwikkelingsprojecten en demonstratieprojecten die leiden tot een verlaging van de kostprijs voor de productie van elektriciteit en warmte uit biomassa met een praktijktoepassing vóór 2023. Daarbij moet de nadruk liggen op validatie of een eerste praktijktoepassing van nieuwe technologie. Daarom wordt een substantiële financiële en inhoudelijke bijdrage van bedrijven verwacht. Projecten moeten passen binnen de programmalijn 'Thermische conversie van biomassa’. Activiteiten moeten gericht zijn op rendementsverbetering, kostprijsreductie en gebruik van laagwaardige biomassa. Daarbij moet ook aandacht worden besteed aan de duurzaamheid van de gebruikte biomassa. De programmalijn 'Thermische conversie van biomassa’ richt zich op technologieën waarmee biomassa bij verhoogde temperatuur, al dan niet in aanwezigheid van zuurstof, wordt omgezet naar: 
+De doelstelling van de paragraaf hernieuwbare-energieprojecten is om de doelstelling van 16% hernieuwbare energie in 2023 kosteneffectiever te realiseren door middel van innovatieve projecten. Deze doelstelling is geconcretiseerd in de voorwaarde dat hernieuwbare-energieprojecten moeten leiden tot duurzame energieproductie in 2023 en tot een besparing op de uitgaven aan subsidies in het kader van het Besluit stimulering duurzame energieproductie (hierna: SDE+) in de toekomst die groter is dan de subsidie die voor het project aangevraagd wordt (zie art. 4.2.20, onderdeel a). Hernieuwbare energie (of duurzame energie) houdt het volgende in: energie geproduceerd met installaties waarbij uitsluitend van hernieuwbare energiebronnen wordt gebruikgemaakt, alsmede het aandeel in calorische waarde van de energie die met hernieuwbare energiebronnen wordt opgewekt in hybride installaties die ook met conventionele energiebronnen werken. Hieronder valt ook voor accumulatiesystemen gebruikte hernieuwbare elektriciteit, maar niet elektriciteit die van dergelijke systemen afkomstig is. Hernieuwbare energiebronnen die in aanmerking komen zijn de volgende hernieuwbare, niet-fossiele energiebronnen: windenergie, zonne- energie, aerothermische (lucht), geothermische (bodem), hydrothermische (oppervlaktewater) energie en energie uit de oceanen, waterkracht, biomassa, stortgas, rioolwaterzuiveringsgas en biogas. Niet alle projecten op het gebied van hernieuwbare energie passen bij voorbaat binnen de doelstelling van deze paragraaf. Projecten die binnen de doelstelling kunnen passen, zijn projecten die: 
 
-– elektriciteit en/of warmte  
+1. de productie van hernieuwbare energie middels technieken zoals genoemd in de Regeling aanwijzing categorieën duurzame energieproductie (de SDE+ aanwijsregeling) voor enig kalenderjaar goedkoper maken;  
 
-– hoogwaardige energiedragers die geschikt zijn voor de productie van elektriciteit en/of warmte.   De beoogde technieken kunnen bijvoorbeeld tot doel hebben de energiedichtheid van ruwe biomassa te verhogen en eigenschappen m.b.t. houdbaarheid, opslag, transport en maalbaarheid te verbeteren. Voorbeelden daarvan zijn pyrolyse en torrefactie. Technieken kunnen ook gericht zijn op het opwaarderen van natte of droge biomassastromen die nu geen hoogwaardige toepassing of energietoepassingen kennen, zoals bermgras en riet. Opwaardering van dergelijke biomassastromen kan ze geschikt maken voor de opwekking van elektriciteit en/of warmte in een biomassacentrale. Ook het geschikt maken van biomassacentrales voor dergelijke laagwaardige biomassastromen kan in aanmerking komen voor subsidie. Beoogde projecten kunnen ook tot doel hebben innovatieve technologie en logistiek/infrastructuur te ontwikkelen voor het meestoken van biomassa op de schaal die noodzakelijk is om de nationale emissie- en duurzame energiedoelstellingen te bereiken. Deze zijn thans niet beschikbaar cq. nog niet bewezen. Daarnaast moeten technisch/economisch exploitabele biomassastromen gevonden en getest worden en moet de *supply chain* daarvoor nog ontwikkeld worden. Zonder verhoging van het aandeel biomassa meestoken zijn de Nederlandse doelstellingen voor 2020 niet haalbaar. Initiatieven moeten dicht bij de markt staan, dat wil zeggen dat ze toepassingsgericht moeten zijn. Hierbij kan ook gedacht worden aan innovatieve voorbehandelingstechnologieën om grondstoffen op te waarderen. Projecten die niet in aanmerking voor subsidie komen, zijn: 
+2. duurzame energieopwekking en opslag combineren;  
 
-– projecten gericht op de teelt van biomassa;  
+3. duurzame energieopwekking en slimme regeling (smart grids) combineren op decentraal niveau;  
 
-– projecten gericht op de raffinage van aquatische biomassa;  
+4. duurzame energie-opties betreffen die niet in de SDE+ zitten en waarop door innovatie additionele productie haalbaar kan zijn. Dit betreft de opties zonnewarmte, kleinschalige (<15 Kwp) of niet aan het net gekoppelde zon PV-systemen, ondiepe bodemenergie (<500m) en buitenluchtwarmte (de laatste twee gebruiken warmtepompen als techniek).   Projecten in de zin van de regeling omvatten niet: 
 
-– projecten die primair zijn gericht op de productie van groen gas en omzetting daarvan in warmte en/of elektriciteit, aangezien deze projecten in aanmerking kunnen komen voor subsidie onder de subparagraaf Groen Gas;  
+– energiedemonstratieprojecten op het gebied van biobrandstoffen die onder de bijmengverplichting vallen (vastgelegd in het Besluit en de Regeling hernieuwbare energie vervoer);  
 
-– projecten op het gebied van biobrandstoffen voor transport;  
+– energiedemonstratieprojecten die de werking van productiemachines voor energiebesparende of duurzame energieproducten demonstreren;  
 
-– projecten die niet vóór 2023 leiden tot duurzame energieproductie en/of niet leiden tot een besparing op de SDE+ uitgaven die groter is dan de aangevraagde subsidie (zie de afwijzingsgronden).   
+– energiedemonstratieprojecten die groter zijn dan nodig om de werking van een innovatie in de praktijk aan te tonen.  
+
+####Focus
+
+Deze regeling richt zich met name op ontwikkeling en demonstratie, TRL’s 6 t/m TRL 8 (‘technology readiness level’), maar projecten die ook werkpakketten hebben gericht op TRL 4 of 5 worden niet uitgesloten. 
+
+####Hernieuwbare energie-opties zoals genoemd in de SDE+ aanwijsregeling
+
+Voor optie 1 geldt dat projecten in de zin van de regeling passen binnen de doelstelling als deze projecten of spin off projecten in 2023 leiden tot daadwerkelijk duurzame energieproductie. Besparing op de SDE+ uitgaven treedt op als het door de innovatie te realiseren basisbedrag van een SDE+ techniek lager wordt dan 13 ct/kWh (of 89,7 ct/Nm3). Voor wind op zee (de duurste optie die nodig is om de duurzame energiedoelstellingen te realiseren) is het door innovatie te realiseren basisbedrag waaronder besparing op de SDE+ uitgaven optreedt 14,5 ct/kWh in 2015. Dit is inclusief de kosten van een individuele aansluiting voor rekening van de parkexploitant. 
+
+####Overige hernieuwbare energieopties
+
+Voor de opties 2 tot en met 4 geldt dat projecten in de zin van de regeling passen binnen de doelstelling als er door deze projecten of spin off projecten in 2023 additionele duurzame energieproductie ontstaat als gevolg van incrementele innovaties. Om het onderscheid van deze innovaties zichtbaar te maken dient er – als gevolg van de innovatie – sprake te zijn van een verbreding van de toepassingsmogelijkheden (de techniek komt binnen bereik van andere doelgroepen in de markt), of er dient aantoonbaar meer duurzame energie opgewekt te kunnen worden (bijvoorbeeld op decentraal niveau waar tegen de grenzen van wat er ingepast kan worden in het net aangelopen wordt), of er wordt een schaalsprong gerealiseerd in de techniek die bij normale uitontwikkeling niet verwacht zou zijn (bijv. in de efficiency van een warmtepomp). Besparing op de SDE+ uitgaven treedt op als de gevraagde subsidie kleiner is dan er voor eenzelfde productie van duurzame energie via windenergie op zee in 2023 gecommitteerd zou zijn aan SDE+ subsidie. 
+
+####Onderbouwing
+
+In alle gevallen dient de verwachte besparing onderbouwd te worden met een berekening conform een model dat RVO.nl zal aanbieden. De basisbedragen zoals berekend door ECN voor het kalenderjaar van de subsidieaanvraag, zijn het uitgangspunt voor de berekeningen. Bij het aannemelijk maken van de kostenbesparing tellen, naast het project zelf, ook kostenbesparingen mee uit spin-off projecten en herhalingsprojecten, en mogen kostenreducties gerealiseerd voor 2023 en die doorlopen na 2023 meegeteld worden. De gehele looptijd van de SDE+ subsidie telt dus mee. Ook dient er voldoende inzicht gegeven te worden in de resultaten van vooronderzoek op labschaal, dat de technische haalbaarheid van de voorgestelde innovatie en de claims die in het projectplan gedaan worden ten aanzien van de werking van de techniek, aantoont (kwaliteit van het project, blijkend uit de uitwerking van aanpak en methodiek). 
 
 ### Bijlage  4.2.3 
 
-####, behorende bij de artikelen 4.2.22  en 4.2.28  van de Regeling nationale EZ-subsidies
+####, behorende bij artikel 4.2.22  van de Regeling nationale EZ-subsidies (Programma STEM)
 
-####Programmalijnen STEM
+####Ambitie
 
-Om de ambitieuze doelstellingen van de TSE te realiseren is een TKI-doorsnijdend sociaal innovatie programma nodig. Het STEM programma, een acroniem voor Samenwerken Topsector Energie en Maatschappij, is een pragmatisch maar ambitieus sociaal-innovatie programma waarin bedrijven en wetenschappers met elkaar werken aan niet-technologische innovatie uitdagingen op weg naar een toekomstbestendige energievoorziening. STEM richt zich op het vergroten van de realiseerbaarheid van energie-innovaties door beter te leren in spelen op maatschappelijke behoeftes en het handelingsperspectief van diverse groepen uit de maatschappij. STEM streeft na om de energietransitie sneller, effectiever en efficiënter te laten verlopen en daarmee bij te dragen aan de Europese en topsector energie doelstellingen op het gebied van CO<sub>2</sub>-reductie en duurzame energieopwekking. Het programma stimuleert tevens multidisciplinaire wetenschappelijke samenwerking rondom sociale-innovatie uitdagingen in de energiesector. Projecten dienen direct of indirect bij te dragen aan de realisatie van de innovatie ambities van een of meerdere TKI’s en dienen gericht te zijn op een verdere verduurzaming van de energiehuishouding van Nederland en een groei van ons economisch potentieel. In STEM worden onderzoekers uitgedaagd op een effectieve wijze het maatschappelijk bewustzijn van de sector te vergroten en het energiebewustzijn van de maatschappij. Ook zal STEM erop focussen om in de praktijk energieontwikkelingen bij te sturen vanuit een Living Lab aanpak. STEM is opgebouwd uit drie verschillende programmalijnen, die sterke onderlinge raakvlakken vertonen, maar onderscheidend zijn m.b.t. het handelingsperspectief dat centraal staat. 
+Deze regeling is onderdeel van de Topsector energie brede ambitie om bij te dragen aan het versnellen van de transitie naar een duurzame energievoorziening. Dit mede ten behoeve van het realiseren van de doelen van het Energieakkoord. STEM (Samenwerken Topsector Energie en Maatschappij) levert relevante kennis en inzichten van menselijk gedrag bij acceptatie van technologische energie-innovaties en ruimtelijke ontwikkelingen en/of bij de ontwikkeling van technologische energie-innovaties. Een tweede ambitie is alle betrokken wetenschappers hierbij samen te laten werken ten behoeve van de korte en lange termijn ontwikkelingen en de kennis en ervaring te delen met, en te benutten van, de andere topsectoren. In STEM worden bedrijven, onderzoeksorganisaties en andere partijen die betrokken zijn bij het implementeren van innovaties binnen en rond het energiesysteem, uitgedaagd om op een multidisciplinaire, effectieve wijze een versnelling te realiseren van de implementatie van duurzame energie-innovaties en/of nieuwe aanpakken die de energietransitie ondersteunen en die de maatschappelijke inbedding en acceptatie van energie-innovaties vergroten. 
 
-####Maatschappelijk bewustzijn Energiesector
+####Doelstellingen STEM
 
-Focus op handelen van: Spelers in de energiesector en gerelateerde actoren, met ambities om grootschalige energiegerelateerde infrastructurele projecten te realiseren. Projecten binnen deze programmalijn richten zich erop de slaagkans van innovaties in het publieke domein te vergroten door een positieve bijdrage te leveren aan de effectiviteit en efficiëntie van de werkwijze van energiespelers, in wisselwerking met diverse groepen uit de maatschappij. Dit kan o.a. dankzij het creëren van inzicht in en aandacht voor: 
+STEM is een programma dat kennis ontwikkelt met de volgende doelen: 
 
-1) maatschappelijke trends en ontwikkeling van waarden onder diverse groepen in de maatschappij  
+* Inzicht ontwikkelen in relevant gedrag voor het effectief en efficiënt introduceren van energie-technologische innovaties en ruimtelijke ontwikkelingen in de Nederlandse samenleving.  
 
-2) de eigen rol en het optreden van organisaties.   Er is specifieke behoefte aan projecten die leiden tot inzichten in: Vormen van participatie die wel/beter werken dan in het verleden het geval was om daarmee draagvlak te garanderen voor aanpassingen aan de energievoorziening in het publieke domein; Nut/noodzaak en kansen op het gebied van meervoudige waarde-creatie; dat wil bijvoorbeeld zeggen, komen tot een ander, genuanceerder winstbegrip, waarin niet alleen het financiële resultaat van een onderneming een plek heeft maar ook ecologische en sociale waarde wordt gecreëerd; Mogelijkheden om wet-, regelgeving en beleid zo aan te passen dat energie-infra gerelateerde besluitvormingsprocessen meer draagvlak opleveren voor aanpassingen aan de energievoorziening in het publieke domein. 
+* Inzicht krijgen in de wensen en belemmeringen van consumenten en bedrijven ten aanzien van nieuwe technologische innovaties.  
 
-####Energiebewustzijn Maatschappij
+* Inzicht krijgen in potentieel nieuwe toepassingen van nieuwe technologieën.  
 
-Focus op handelen van: de consument en prosument, die een rol wil spelen in de energietransitie Projecten in deze programmalijn maken het consumenten/prosumenten makkelijker om duurzame keuzes op het gebied van energiegebruik te maken (besparing, opwek, vergroening) en moeten bijdragen aan meer begrip voor, betrokkenheid bij en bekwaamheid van consumenten en prosumenten bij de energietransitie. Dit kan bijvoorbeeld door meer inzicht te genereren in en aandacht voor factoren die het handelingsperspectief beïnvloeden op de niveaus:  *Gedrag* – gericht op het realiseren van specifieke afgebakende energie handelingen (aanschaffen spaarlampen, laten uitvoeren energie-scan, plaatsen zonnepanelen, etc.) van consumenten/prosumenten.  *Lifestyle* – gericht op het scheppen van voorwaarden die het consumenten/prosumenten mogelijk maken een duurzamere leefstijl te ontwikkelen waarvan duurzaam energiegedrag een onderdeel is.  *Competenties* – gericht op het ontwikkelen van het vermogen van consumenten/prosumenten om kennis te vinden, te screenen en te benutten bij het zelfstandig maken van afwegingen en maken van keuzes ten einde eigen gedrag en lifestyle positief te beïnvloeden. Binnen deze programmalijn worden projecten aangemoedigd die: Het mogelijk maken om effectiever in te kunnen spelen op de behoefte aan (duurzame) energiecollectiviteit. Daartoe is meer inzicht nodig in de drijfveren van energiecollectiviteit onder diverse groepen in de samenleving. Ook is behoefte aan projecten die leiden tot inzicht in succesvolle interventies met, bij en door consumenten die werken om de energietransitie te versnellen. In dit kader wordt specifiek belang gehecht aan projecten die het mogelijk maken om te kunnen bepalen wat het belang is van moralisering van technologie, dienstenontwikkeling gericht op ontzorging en interventies gericht op overtuigen/verleiden (‘licht uit’, ‘douche korter’) middels marketing/communicatie. 
+* Het beschikbaar stellen van de hierboven ontwikkelde inzichten aan alle direct en indirect betrokkenen bij de Topsector energie.   Belangrijke elementen voor inzicht in gedrag zijn de economische, juridische, maatschappelijke en psychologische invalshoeken. Hiermee zouden voorspellingen gedaan kunnen worden over stimulerende en belemmerende houdingen bij introductie van innovaties en hoe daar mee om te gaan. 
 
-####Samen leren in de praktijk/Living Labs
+####Kenmerken van STEM-projecten
 
-Focus op: Concrete duurzame energie vraagstukken/ontwikkelingen die nu spelen en waarover onzekerheid bestaat over de slagingskans. Projecten in deze programmalijn maken het mogelijk om meer grip te krijgen op duurzame energie-ontwikkelingen die nu spelen en meer (wetenschappelijk) gefundeerde keuzes te maken in de wijze waarop deze ontwikkelingen worden bijgestuurd. Er zijn hierin drie categorieën benoemd: Technologiegedreven (denk aan Slimme meters, wind op land trajecten, etc.) Energie-initiatief in de samenleving (bv energiecoöperaties) Cocreatie situaties – meerdere partijen hebben een gezamenlijke duurzame energie-ambitie maar staan open voor de verdere invulling. Projecten dienen het mogelijk te maken dat lopende ontwikkelingen gericht op het creëren van een toekomstbestendige energievoorziening effectief kunnen worden bijgestuurd. Projecten die bottom-up energie initiatief faciliteren worden aangemoedigd. Een project kan passen binnen meerdere programmalijnen. 
+* Toegepast wetenschappelijk.  
 
-### Bijlage 4.2.4 
+* Dominant gericht op inzichten in gedrag.  
 
-####, behorende bij artikel 4.2.29  van de Regeling nationale EZ-subsidies
+* Gerelateerd aan energie-innovaties.  
 
-####Programmalijnen Groen Gas
+* Aantoonbaar relevant en substantieel voor de energietransitie in Nederland.   
 
-Het doel van programmalijnen Groen Gas is om middels innovatieve projecten Groen Gas (of synthesegas of biogas) goedkoper te maken en een bijdrage te leveren aan de duurzaamheiddoelstelling in 2020. De programmalijn ‘Vergassing’ richt zich op onderzoek naar kostprijsverlaging of het verbeteren van de performance in meest brede zin. Denk hierbij aan onderzoek naar toepassing van goedkopere biomassa of mengstromen, verbeteren van de efficiency, bedrijfsprestaties zoals de beschikbaarheid, betere reiniging/opwerking van het (synthese)gas. Onder vergassing wordt thermische vergassing van droge biomassa/mengstromen (temperatuur boven 800 graden Celsius) of superkritische vergassing van natte stromen verstaan. De programmalijn ‘Vergisting’ richt zich op onderzoek naar kostprijsverlaging of het verbeteren van de performance in meest brede zin. Denk hierbij aan; verbreding van het biomassa-aanbod, efficiencyverbetering, ontsluiting van lignocellulose, toeslagstoffen zoals enzymen, benutting van bijproducten zoals mineralen. Vergisting wordt breed opgevat; vergisters op boerderijen, industriële vergisters, vergisters bij RWZI’s, innovatieve vergisters zoals hogedrukvergisting. Tot de programmalijn ‘Vergisting’ behoren ook gecombineerde mestverwerking en vergisting en het ‘repoweren’ van zogenaamde ‘MEP’-vergisters. In het laatste geval gaat het alleen om installaties rond de vergister zoals efficiënte opwerkingsinstallaties. De programmalijn ‘Infrastructuur’ richt zich op alle projectelementen die zich bevinden tussen productie en afnemer van Groen Gas, biogas of synthesegas. Denk hierbij aan; biogashubs, buffers, meetapparatuur, kwaliteitsbewaking (b.v. poortwachter), logistieke optimalisatie. Een kansrijke toepassing van Groen Gas (inclusief biogas en synthesegas) betreft de mobiliteit, zowel het wegtransport (bio-CNG en bio-LNG) als varen op bio-LNG. Groen Gas-toepassingen in de mobiliteit vormen een TKI Groen Gas-programmalijn, maar komen niet in aanmerking voor subsidie onder subparagraaf 2.4.5 Groen Gas. 
+####Onderzoeksonderwerpen STEM regeling
+
+Concreet hebben we behoefte aan inzichten in het gedrag van de mens. Deze tender richt zich op drie belangrijke onderzoeksonderwerpen: 
+
+1. Het vergroten van inzicht in slimme aanpakken om nieuwe, vooral grootschalige energie- innovaties of kleinschalige energie-innovaties die op grote schaal ingevoerd worden, snel en succesvol gerealiseerd te krijgen. Voorbeelden daarvan zijn: 
+
+a. de introductie van windmolens, biovergisters en geothermie;  
+
+b. de introductie van slimme meters, smart grids, zonnepanelen;  
+
+c. de introductie van energiebesparingsopties.    
+
+2. Het vergroten van inzicht in slimme vormen van energie-innovaties waar ondernemers en consumenten behoefte aan hebben. Het gaat daarbij om slimme energie-innovaties voor: 
+
+a. gewenste toepassingen in de gebouwde omgeving;  
+
+b. gewenste toepassingen voor consumentengebruik;  
+
+c. gewenste toepassingen door bedrijven.    
+
+3. Het vergroten van inzicht in de implementatie en nieuwe toepassing van energie-innovaties. Het gaat daarbij om nieuwe toepassingen voor: 
+
+a. duurzame energie zoals zonne-energie, bio-energie, windenergie, etc.  
+
+b. energiebesparing, slimme energieregelingen en/of -opslag.     
+
+####Tenslotte
+
+Een relevante bijdrage van een onderzoeksorganisatie als deelnemende partij aan het totale project wordt positief gewaardeerd op het rangschikkingscriterium ‘kwaliteit van het project’. 
 
 ### Bijlage 4.2.5 
 
@@ -11050,23 +10397,23 @@ Het Upstream Gas programma is open voor projectvoorstellen die betrekking hebben
 
 ### Bijlage 4.2.6 
 
-####, behorende bij artikel 4.2.43  van de Regeling nationale EZ-subsidies
+####, behorende bij artikel 4.2.43  van de Regeling nationale EZ-subsidies (Programmalijnen LNG)
 
-Het doel van de programmalijn LNG (Liquefied Natural Gas, vloeibaar aardgas) is het wegnemen van belemmeringen voor de grootschalige introductie voor LNG als brandstof (veiligheid & technologie) , het verlagen van de kosten van de LNG keten en het bevorderen van de maatschappelijke acceptatie van LNG. Tevens draagt de programmalijn LNG direct bij aan de doelstelling van het Nationale LNG platform en de Green deal LNG: 50 zeeschepen, 50 binnenvaartschepen en 500 trucks gebruiken LNG als brandstof in 2015. Daarnaast heeft het LNG platform de doelstelling geformuleerd om in 2015 minimaal 2 miljard kuub gas als LNG te leveren vanuit Gate terminal te leveren als brandstof in de short-sea vrachtvaart, veerdiensten, binnenvaart, wegtransport en off grid applicaties. In 2020 moet dit volume zijn uitgebreid naar 4 miljard kuub gas. Door het actief inzetten op de benutting van LNG als transportbrandstof in Nederland creëert Nederland een voorsprong op dit gebied in Noord West Europa. Deze kennisvoorsprong in combinatie met de positie die Nederland heeft omdat het veel LNG importeert en door kan leveren kan een verdere bijdrage leveren aan de versterking van de Nederlandse gassector en daarmee aan de groei van de Nederlandse economie. Bijdrage aan milieu & klimaat: Het gebruik van LNG als alternatieve brandstof voor diesel in de scheepvaart- en transport sector heeft een positieve bijdrage op CO<sub>2</sub>-reductie, bij het verlagen van de emissies van NO<sub>x</sub>, SO<sub>x</sub>, fijnstof en geluid (bij wegtransport). De inzet van LNG is niet het einddoel. Uiteindelijk wordt het van belang dat de LNG infrastructuur in toenemende mate wordt gevoed met bio-LNG, gebaseerd op biogas en groen gas. Daardoor kan groen gas ook ingezet worden als transportbrandstof in de scheepvaart en het zware wegtransport. Hierdoor kunnen de CO<sub>2</sub> emissies vergaand terug gedrongen worden. Verwachte CO<sub>2</sub> reductie in 2020: 0,5 Mton. Naast het verlagen van de emissies is het van belang dat de introductie van LNG plaatsvindt binnen de randvoorwaarden van externe veiligheid. Hiervoor is een nationaal veiligheidsprogramma opgezet dat in samenwerking met het ministerie van I&M en de Industrie wordt uitgevoerd. Bijdrage aan economie: De invoering van LNG als alternatieve, schonere brandstof voor wegtransport, binnenvaart en kustvaart kan tot 2030 leiden tot 2,7 miljard euro extra economische groei en 8.000 arbeidsjaren. De ontwikkeling van LNG is daarmee van strategisch belang voor de Nederlandse transportsector. Het biedt Nederland kansen om de positie als gasrotonde te versterken en investeringen en werkgelegenheid te genereren. Deze cijfers komen uit een onderzoek dat in het kader van de ‘Green Deal Rijn en Wadden’ is uitgevoerd door PwC, in opdracht van het ministerie van Economische Zaken. De uitrol van de nieuwe LNG-keten komt al snel op gang: 7 LNG-stations operationeel, 135 LNG-trucks op de weg, 2 LNG-binnenvaartschepen in de vaart, 1 small scale LNG-tanker in de vaart, bunkerpunt voor schepen operationeel, Rotterdam eerste Europese haven met wet- en regelgeving voor LNG. 
+*Het doel van de programmalijn* LNG (Liquefied Natural Gas, vloeibaar aardgas) is het wegnemen van belemmeringen voor de grootschalige introductie voor LNG als brandstof (veiligheid & technologie), het verlagen van de kosten van de LNG keten en het bevorderen van de maatschappelijke acceptatie van LNG. Tevens draagt de programmalijn LNG direct bij aan de doelstelling van het Nationale LNG platform en de Green deal LNG: 50 zeeschepen, 50 binnenvaartschepen en 500 trucks gebruiken LNG als brandstof in 2015.Door het actief inzetten op de benutting van LNG als transportbrandstof creëert Nederland een voorsprong in (Noord West) Europa. Deze kennisvoorsprong draagt bij aan de versterking van de Nederlandse gassector en daarmee aan de groei van de Nederlandse economie.*Bijdrage aan milieu & klimaat:* Het gebruik van LNG als alternatieve brandstof voor diesel in de scheepvaart- en transport sector heeft een positieve bijdrage op CO<sub>2</sub>-reductie, bij het verlagen van de emissies van NO<sub>x</sub>, SO<sub>x</sub>, fijnstof en geluid (bij wegtransport). De inzet van LNG is niet het einddoel. Uiteindelijk wordt het van belang dat de LNG infrastructuur in toenemende mate wordt gevoed met bio-LNG, gebaseerd op biogas en groen gas. Daardoor kan groen gas ook ingezet worden als transportbrandstof in de scheepvaart en het zware wegtransport. Hierdoor kunnen de CO<sub>2</sub> emissies vergaand terug gedrongen worden. Verwachte CO<sub>2</sub> reductie in 2020: 0,5 Mton. Naast het verlagen van de emissies is het van belang dat de introductie van LNG plaatsvindt binnen de randvoorwaarden van externe veiligheid. Hiervoor is een nationaal veiligheidsprogramma opgezet dat in samenwerking met het ministerie van I&M en de industrie wordt uitgevoerd. Bijdrage aan economie: De invoering van LNG als alternatieve, schonere brandstof voor wegtransport, binnenvaart en kustvaart kan tot 2030 leiden tot 2,7 miljard euro extra economische groei en 8000 arbeidsjaren. De ontwikkeling van LNG is daarmee van strategisch belang voor de Nederlandse transportsector. Het biedt Nederland kansen om de positie als gasrotonde te versterken en investeringen en werkgelegenheid te genereren. Deze cijfers komen uit een onderzoek dat in het kader van de ‘Green Deal Rijn en Wadden’ is uitgevoerd door PwC, in opdracht van het ministerie van Economische Zaken. De uitrol van de nieuwe LNG-keten komt al snel op gang: 7 LNG-stations operationeel, 220 LNG-trucks op de weg, 2 LNG-binnenvaartschepen in de vaart, 2 small scale LNG-tankers in de vaart, bunkerpunt voor schepen operationeel, Rotterdam eerste Europese haven met wet- en regelgeving voor LNG.  *Doelstellingen van het LNG programma zijn:*  
 
-1. Technologie ontwikkeling en ketenintegratie: technologie voor LNG toelevering: Optimalisatie van uitstoot, prestaties en kosteneffectiviteit van LNG systemen voor de bevoorrading van LNG als brandstof incl. verduurzaming (Bio-LNG)  
+1. Technologie ontwikkeling en ketenintegratie: technologie voor LNG toelevering: Optimalisatie van uitstoot, prestaties en kosteneffectiviteit van LNG systemen voor de bevoorrading van LNG als brandstof incl. verduurzaming (Bio-LNG) 
 
 2. LNG aandrijftechnologie: 
 
 * ontwikkeling van schonere en efficiëntere motor(control)systemen en uitlaatgasnabehandeling voor schepen, vrachtauto’s en andere zwaar transport toepassingen;  
 
-* instrumentatie en meetstandaard ontwikkeling; Ontwikkeling en standaardisatie van kosten effectieve niveau- flow en samenstellingsmeting.    
+* instrumentatie en meetstandaard ontwikkeling; Ontwikkeling en standaardisatie van kosten effectieve niveau- flow en samenstellingsmeting.   
 
 3. Optimalisatie en reductie van emissies.  
 
-4. Veiligheid en risicobeheersing: technologisch verbeteren van de veiligheid en betrouwbaarheid van LNG op- en overslag systemen, draagt tevens bij aan het wegenemen van barrières in de wet en regelgeving;  
+4. Veiligheid en risicobeheersing: technologisch verbeteren van de veiligheid en betrouwbaarheid van LNG op- en overslag systemen, draagt tevens bij aan het wegenemen van barrières in de wet en regelgeving; 
 
-5. Maatschappelijke acceptatie van LNG. Voor dit onderdeel is een aparte programmalijn binnen TKI Gas. Voor de subsidiemogelijkheden voor deze programmalijn wordt verwezen naar subparagraaf 2.4.3 STEM.   De onderzoeksthema’s voor deze tender zijn: 
+5. Maatschappelijke acceptatie van LNG. Voor dit onderdeel is een aparte programmalijn binnen TKI Gas. Voor de subsidiemogelijkheden voor deze programmalijn wordt verwezen naar paragraaf 4.2.4 STEM.   *De onderzoeksthema’s voor deze tender zijn:*  
 
 1. Ketenintegratie en technologische ontwikkeling 
 
@@ -11074,185 +10421,363 @@ Het doel van de programmalijn LNG (Liquefied Natural Gas, vloeibaar aardgas) is 
 
 * Optimalisatie van kosteneffectieve ontwerpen en operationalisatie voor de LNG leveringsinfrastructuur, waaronder: 
 
-○ Innovatieve LNG opslag, gereedschap, systemen en operationele oplossingen  
+o Innovatieve LNG opslag, gereedschap, systemen en operationele oplossingen  
 
-○ Innovatieve LNG brandstof levering- en laad- gereedschap, systemen en operationele oplossingen    
+o Innovatieve LNG brandstof levering- en laad- gereedschap, systemen en operationele oplossingen   
 
 * Ontwikkeling van metrologische parameters voor metingen aan de LNG overdracht in de leveringsketen (betreffende LNG doorstroming en LNG samenstelling)  
 
-* Consequenties van toekomstige LNG brandstof specificaties en relevante Europese standaards van toepassing op de ontwikkeling van de LNG infrastructuur.    
+* Consequenties van toekomstige LNG brandstof specificaties en relevante Europese standaards van toepassing op de ontwikkeling van de LNG infrastructuur.  
 
-2. Geoptimaliseerde emissieprestatie Verbeteren van kennisniveau van het gedrag van materialen, vloeistof en gas in relatie tot LNG emissieprestatie 
+2. Geoptimaliseerde emissieprestatie 
+
+* Verbeteren van kennisniveau van het gedrag van materialen, vloeistof en gas in relatie tot LNG emissieprestatie  
 
 * Verlaging van methaanemissie bij LNG motoren, in het bijzonder bij schepen  
 
 * Tegen gaan van emissie van methaan uit de leveringsketen, specifiek: 
 
-○ Opslag en levering- en laadstations door LNG verdamping en uitstoot uit de opslagtank en methaanemissie bij de LNG brandstof levering- en laadsystemen  
+o Opslag en levering- en laadstations door LNG verdamping en uitstoot uit de opslagtank en methaanemissie bij de LNG brandstof levering- en laadsystemen  
 
-○ Opslagtanks van schepen en vrachtwagens door verdamping uit de tanks bij langdurige stilstand    
+o Opslagtanks van schepen en vrachtwagens door verdamping uit de tanks bij langdurige stilstand   
 
-* De LNG kwaliteitsinvloeden op de motorprestaties en het motoronderhoud (incl. omgevingsinvloeden)    
+* De LNG kwaliteitsinvloeden op de motorprestaties en het motoronderhoud (incl. omgevingsinvloeden)   
 
 3. Risicomanagement en Veiligheid 
 
 * Verbeteren van het kennisniveau van het gedrag van materialen, vloeistof en gas in relatie tot LNG verlies, verspreiding (dispersie) en verdamping;  
 
-* Optimalisatie van schip, opslag, LNG levering/laadmechanismes en tankontwerp voor minimale kosten en veilige operaties.     
+* Optimalisatie van schip, opslag, LNG levering/laadmechanismes en tankontwerp voor minimale kosten en veilige operaties.    
 
-### Bijlage 4.2.7 
+####Tenslotte
 
-####, behorende bij artikel 4.2.50  van de Regeling nationale EZ-subsidies
-
-Het ZEGO-programma richt zich op de toepassing van fotovoltaïsche (PV) en thermische zonne-energie in de gebouwde omgeving in de breedste zin van het woord (gebouwen en fysieke infrastructuur): zonnestroom en zonnewarmte. De doelstelling van de Nederlandse PV sector is een opgesteld vermogen in Nederland van minder dan 1 GWp in 2013 tot 4-8 GWp in 2020, bij typische opwekkosten van 0,08-0,15 €/kWh, afhankelijk van systeemtype en toepassing. Dit komt overeen met een bijdrage van 3 tot 6% aan het totale elektriciteitsgebruik in 2020. Deze snelle groei wordt enerzijds mogelijk gemaakt doordat zonnestroom in een toenemend aantal gevallen (gebruikmakend van het beschikbare financiële instrumentarium) kan concurreren met conventioneel opgewekte stroom, en anderzijds doordat nieuwe producten en diensten beschikbaar komen. Na 2020 kunnen de kosten verder dalen tot ongeveer 0,05 €/kWh, zodat het marktaandeel van PV verder zal kunnen groeien. Het plaatsingspotentieel voor PV wordt geschat op minimaal 100 GWp, zodat de doelstelling voor 2020 moet worden gezien als een eerste stap naar grootschalig gebruik van zonnestroom in Nederland. Dit betekent dat PV op termijn ook in Nederland een substantieel deel van het totale elektriciteitsgebruik concurrerend kan opwekken. Ook voor zonthermische energie is forse groei mogelijk. In Europa kan het aandeel zonthermische energie in 2030 1.400 PJ hoger worden (vergelijkbaar met ruim 40% van het totale energiegebruik van Nederland), bij goede integratie in het energiesysteem en met name in combinatie met opslag. Grootschalige toepassing van zonne-energie in een dichtbevolkt land als Nederland is echter alleen mogelijk als de systemen worden geïntegreerd in de gebouwde omgeving en de infrastructuur (meervoudig ruimtegebruik). Dit is de kern van het gezamenlijke programma van de TKI’s Solar Energy en EnerGO: Zonne-energie in de Gebouwde Omgeving (ZEGO). Belangrijkste thema van dit programma betreft integratie, waarbij drastische prijsdaling hand in hand gaat met esthetische kwaliteit, duurzaamheid, veiligheid, gebruikersgemak en optimalisatie van de energieopbrengst. Naast fysieke integratie is een tweede voorwaarde voor grootschalig gebruik van zonne-energie, de integratie in het energiesysteem van gebouw tot energienet. Bij een toenemende penetratiegraad van zonne-energie worden het toepassen van intelligente elektronica, afstemming van vraag en aanbod en/of opslag technisch noodzakelijk en vanuit economisch oogpunt aantrekkelijk. Dit geldt zowel op gebouwniveau als op gebiedsniveau. 
-
-####Specifieke thema’s van deze tender
-
-### 1  
-
-####Ontwikkeling en validatie van systeemcomponenten en -diensten om de output van zonne-energiesystemen te optimaliseren
-
-Bij een toenemende penetratiegraad van zonne-energie worden het toepassen van intelligente elektronica, een goede afstemming van vraag en aanbod en/of opslag technisch noodzakelijk en vanuit economisch oogpunt ook aantrekkelijk. Toepassing van zonne-energie in de complexe gebouwde omgeving vraagt anders geoptimaliseerde elektronica dan grote grondgebonden systemen. Partiële beschaduwing, vervuiling en de wens om systemen in fases uit te kunnen breiden, geven aanleiding tot andere ontwerpen en diensten met regelstrategieën voor bijvoorbeeld het elektrisch PV systeem. In deze tender wordt gezocht naar projecten waarin innovatieve componenten en diensten worden ontwikkeld en gevalideerd die de opbrengst van zonne-energie systemen in de gebouwde omgeving optimaliseren. 
-
-### 2  
-
-####Ontwikkeling en validatie van multifunctionele bouwdelen waarin opwekking van zonne-energie (stroom en warmte) wordt geïntegreerd met klassieke functies zoals wind- en waterdichtheid, isolatie, etc.
-
-Dak- en gevel- elementen waarin fotovoltaïsche en/of zonthermische elementen worden geïntegreerd vormen een aantrekkelijke optie voor zowel de nieuwbouw als de renovatie van gebouwen. Het is daarbij van belang dat de oplossing een aantoonbaar voordeel heeft op kosten en/of kwaliteit ten opzichte van het stapelen van oplossingen. Deze tender zoekt specifiek naar projecten waarin dergelijke multifunctionele bouwelementen worden ontwikkeld en gevalideerd, voor de bestaande bouw, die naast klassieke functies als wind- en water- dichtheid en isolatie, ook elektriciteit en/of thermische energie (t.b.v. tapwaterverwarming, ruimteverwarming of bron/bodem regeneratie) kunnen opwekken. In de glastuinbouw bestaat een aanzienlijk deel van de variabele bedrijfskosten uit energiekosten. Daarnaast wil men, afhankelijk van het precieze gewas, drie variabelen bij voorkeur onafhankelijk van elkaar kunnen beheersen: het invallende licht, de temperatuur in de kas en de CO<sub>2</sub> concentratie. Er wordt gezocht naar projecten waarin glastuinbouwsystemen worden ontwikkeld die flexibiliteit met betrekking tot gewas, seizoen en weersgesteldheid combineren met een goede kWh opbrengst en acceptabele ‘return on investment’. 
-
-### 3  
-
-####Ontwikkeling en validatie van oplossingen voor energetische integratie van zonne-energiesystemen met (slimme) netten en opslagsystemen
-
-De waarde van energie, met name van elektriciteit, varieert over de seizoenen en over de dag. Bij een hoge penetratiegraad van PV is bijvoorbeeld de elektriciteitsopwekking midden op een zonnige dag groot, zodat de waarde dan daalt. In Duitsland heeft dit al geleid tot een herwaardering van lokale opslagsystemen in combinatie met een lokaal energiemanagementsysteem. Functionaliteit op het gebied van balanceren van vraag en opwekking zal in waarde toenemen. De structuur van het slimme net zelf en het aanbieden van mogelijke tariefdifferentiatie liggen buiten het domein van het ZEGO programma, maar het ‘smart grid compatibel’ maken van zonne-energiesystemen ligt binnen het domein van het ZEGO programma. Ook de waarde en toepasbaarheid van grote zonthermische systemen neemt toe met een goede integratie in het energiesysteem van gebouw tot net. Daarvoor is combinatie met opslag een succesfactor. Het zoveel mogelijk lokaal (in het gebouw of de wijk) gebruiken van de opgewekte elektrische en/of thermische energie beperkt de druk op de collectieve netten en voorkomt investeringen in netten op grotere schaal. Voor deze tender ligt de focus op projecten die innovatieve oplossingen voor energetische integratie niet alleen ontwikkelen, maar ook valideren. 
-
-### 4  
-
-####Demonstratie van esthetische integratie van zonne-energie in infrastructurele objecten
-
-Voor een grootschalige uitrol van zonne-energie in Nederland is het opportuun om het multifunctioneel gebruik van oppervlak in de gebouwde omgeving uit te breiden naar infrastructurele objecten zoals wegen, dijken, geluidschermen, viaducten, parkeervoorzieningen, spoorlijnen, etc. Dit bedient tevens de markt voor groene mobiliteitsdiensten. Hierbij moet de primaire functie van het infrastructurele element natuurlijk behouden blijven. Daarnaast liggen er uitdagingen qua systeem lay-out, veiligheid, levensduur, storingsgevoeligheid en rendement op investering. In deze tender wordt specifiek gezocht naar projecten waarbij dergelijke oplossingen in ‘real life environment’ en op significante schaal worden gedemonstreerd. Behalve het behalen van de projectdoelstellingen, is het herhalingspotentieel van groot belang bij de boordeling van de ingediende projectvoorstellen. 
-
-### 5  
-
-####Demonstratie van multifunctionele (en waar relevant: esthetische) integratie van zonne-energie in bouwelementen voor daken, gevels, kassen, etc.
-
-De waarde van multifunctionele bouwdelen waarbij klassieke functies zoals wind- en waterdichtheid en isolatie worden aangevuld met de mogelijkheid om zonnestroom en/of zonnewarmte op te wekken, wordt natuurlijk voor een belangrijk deel bepaald door ze te vergelijken met klassieke bouwelementen waaraan een zonne-energiesysteem wordt toegevoegd. Specifieke omstandigheden vragen om speciale oplossingen: zo vragen daken met weinig draagvermogen om lichte dakelementen en daken met een gebogen constructie om vormvrijheid in het bouwelement. Daarbij zullen, naast dergelijke basisfunctionaliteiten de esthetische kwaliteit, het formaat, levensduur en betrouwbaarheid, geen of nauwelijks onderhoud, installatiegemak en lage kosten een doorslaggevende rol spelen bij het daadwerkelijk op de markt krijgen van dergelijke multifunctionele bouwelementen. Gezocht wordt naar demonstratieprojecten die juist al deze aspecten van multifunctionele bouwelementen waarmee ook zonne-energie kan worden opgewekt in de praktijk aantonen op significante schaal. In deze tender wordt expliciet de nadruk gelegd op grootschalige toepassing in lastige gebouwschilcomponenten (draagvermogen, vorm) waarbij, behalve het behalen van de projectdoelstellingen, het herhalingspotentieel van groot belang wordt geacht bij het beoordelen van de projectvoorstellen. 
+Projecten in de zin van de regeling omvatten geen energiedemonstratieprojecten op het gebied van biobrandstoffen die onder de bijmengverplichting vallen (vastgelegd in het Besluit en de Regeling hernieuwbare energie vervoer). 
 
 ### Bijlage 4.2.8 
 
-####, behorende bij artikel 4.2.57  van de Regeling nationale EZ-subsidies
+####, behorende bij artikel 4.2.57  van de Regeling nationale EZ-subsidies (Programmalijnen iDEEGO)
 
-####Programmalijnen EnerGO
+####Aanleiding
 
-EnerGO bevat vijf programmalijnen die in deze bijlage verder zijn toegespitst op de eerste tender van 2014.  ![254109](http://wetten.overheid.nl/Illustration/254109)
-De volgende paragrafen beschrijven de inhoud van de programmalijnen. Alle programmalijnen richten zich primair op bestaande bouw, omdat daar de impact (zie beoordelingscriteria) het grootst is. Onderstaande tabel biedt een beknopt overzicht. Het overzicht en de paragrafen geven de focus aan voor deze tender binnen de programmalijnen, waarvan verwacht wordt dat met name deze goed voldoen aan de criteria. Het is mogelijk projecten van beperkte omvang in te dienen die op een andere baanbrekende wijze bijdragen aan het bereiken van de doelstellingen, zoals die zijn beschreven in het programma van TKI EnerGO in de Innovatie Agenda (2013) en hoog scoren op de beoordelingscriteria. De projecten dienen bij te dragen aan het (versneld) bereiken van de energiebesparingsdoelstellingen voor de gebouwde omgeving: 
+De paragrafen voor Solar Energy, EnerGO en Smart Grids zijn in 2015 gecombineerd tot de paragraaf innovatie Duurzame Energie en Energiebesparing Gebouwde Omgeving (iDEEGO), met daarin 5 geïntegreerde programmalijnen. Deze programmalijnen zijn: 
 
-– halvering van het totale energiegebruik in de gebouwde omgeving in 2035,  
+1. Zonnestroom (PV) systemen  
 
-– energie neutrale gebouwde omgeving medio deze eeuw,  
+2. Compacte conversie en opslag van thermische energie  
 
-– energie neutrale nieuwbouw (woningbouw en utiliteit) in 2020, en  
+3. Multifunctionele bouwdelen’  
 
-– 35% CO<sub>2</sub> emissiereductie ten opzichte van 1990 in 2020.   De tenderregeling stimuleert doorbraken gericht op deze energiedoelen in combinatie met het creëren van additionele economische activiteit en groei van werkgelegenheid. 
+4. Energieregelsystemen en -diensten  
 
-* Primaire aandacht voor de bestaande bouw (woningen + utiliteit)  
+5. Flexibele energie-infrastructuur   
 
-* Specifiek gericht op thermische energie (warmte/koude)- duurzame opwekking, opslag , distributie en regeling  
+####Focus
 
-* Opslag van warmte en koude en integrale aanpak voor uiteindelijk energie-neutraliteit op gebiedsniveau   De vijf programmalijnen van EnerGO staan in onderstaande tabel. Deze tender richt zich op de programmalijnen 3, 4 en 5.  
+iDEEGO-projecten in de zin van de regeling betreffen alle soorten O&O&I activiteiten (fundamenteel onderzoek, industrieel onderzoek en experimentele ontwikkeling). Energiedemonstratieprojecten in de zin van de regeling zijn praktijkproeven die niet groter zijn dan noodzakelijk om de ontwikkeling aantoonbaar te beproeven. Voor overige energiedemonstratieprojecten wordt verwezen naar de mogelijkheden van paragraaf 4.2.10 Demonstratie energie-innovatie (DEI). Ten opzichte van de paragraaf Hernieuwbare Energie (4.2.3) hebben iDEEGO-projecten een meer fundamenteel en industrieel onderzoeks- en ontwikkelingskarakter. 
 
-| --- |
-|:---|
-| 1. Duurzame Compacte Conversietechnologie  |
-|  *Niet *in deze eerste tender van 2014. Focus voor de tweede ronde in 2014 verwacht op: Duurzame compacte conversie, met name kleine, hoog efficiënte componenten en warmtepompen geschikt voor bestaande bouw  |
-| 2. Compacte Opslag  |
-|  *Niet* in deze eerste tender van 2014. Focus voor de tweede ronde in 2014 verwacht op: Compacte verliesvrije thermische opslag, met name materialen, componenten, reactoren voor thermochemische opslag geschikt voor bestaande bouw  |
-| 3. Regeling Energieprestatie en Control  |
-| Zelf-lerende intelligente regelsystemen, gericht op optimalisatie op mens cq vertrekniveau van gezondheid, comfort en energiegebruik/duurzame opwekking.  |
-| Technische innovaties in combinatie met nieuwe energiediensten of gericht op energieprestatiegarantie concepten  |
-| 4. Multifunctionele bouwdelen  |
-| Gebouwschil die op een innovatieve manier minimaal drie van de volgende functies combineert: isoleert, opwekt, opslaat, regelt en ventileert voor industrieel verbouwen van *utiliteit*sgebouwen (w.o. gezondheidzorg, onderwijs, kantoren).  |
-| Multifunctionele bouwdelen voor renovatie van woningen die zowel qua (energie) prestatie en prijs aantoonbaar beter zijn dan reeds beschikbare (NL en/of internationale) concepten. Dit dient in het voorstel te worden aangetoond.  |
-| 5. Energieopwekking, distributie en opslag op gebiedsniveau  |
-| Opslag op hogere dan nu reguliere temperatuur (>= 30C) in ondergrond (gedrag ondergrond).  |
-| Ondiepe geothermie, waarbij warmte wordt onttrokken van 30–40C op een diepte tussen de 500 en 1.000 m  |
-| Concepten en tools voor optimalisatie en omvorming van lokale (of individuele) warmte- en koudesystemen naar collectieve netwerken.  |
-| Concepten en tools voor optimalisatie en transitie van lokale energienetten. Aandacht hierbij voor mogelijke besparing op kosten van renovatie op niveau van het energiesysteem door: aanpassing van netten, effecten van verandering in energiedrager, lokale energiebesparing, duurzame opwekking en/of opslag.  |
+### 1 
 
-Ontwikkelingen zijn niet alleen gericht op componenten, maar ook op uiteindelijk totale producten en diensten. Integrale projecten zijn mogelijk, een project kan bijdragen aan meer dan één programmalijn. De programmalijnen Regeling energieprestatie en control, Multifunctionele gebouwdelen en Energieopwekking, -distributie en opslag op gebiedsniveau richten zich ook specifiek op integratie op systeem, gebouw en gebiedsniveau. 
+####Zonnestroom (PV) systemen
 
-####Nadere toelichting op de programmalijnen van deze tender
+####Aanleiding en programmalijndoelstellingen
 
-####Doel en Noodzaak
+Deze programmalijn richt zich op de ontwikkeling en implementatie van Nederlandse kennis en kunde voor wat betreft de ontwikkeling en productie van zonnestroomproducten (d.w.z. cellen, halffabricaten, modules, etc.). Deze programmalijn zal succesvol zijn als er meer Nederlandse technologie, productieapparatuur en materialen van Nederlandse leveranciers wereldwijd in zonnestroomproducten worden verwerkt dan op het moment dat het programma begon. De programmalijn heeft tevens als ambitie om de kosten van zonnestroom te helpen verlagen en draagt daarmee (indirect) bij aan het versnellen van de implementatie van PV in Nederland. De belangrijkste doelstellingen van deze programmalijn zijn het verhogen van het omzettingsrendement (van zonlicht naar elektriciteit) en het verlagen van de integrale kostprijs van zonnestroomproducten. Daarnaast is integrale duurzaamheid een belangrijk ontwikkeldoel, respectievelijk een randvoorwaarde. 
 
-![254110](http://wetten.overheid.nl/Illustration/254110)
-Regeling energieprestatie en *control*  Energie besparen krijgt een verdere impuls indien we energie alleen dan en daar inzetten waar het waarde levert. Energiesystemen zodanig regelen en beheersen dat verliezen door onnodig en ongewenst verwarmen, koelen en verlichten wordt voorkomen, vereist werkelijk zelflerende systemen, mede gezien de grote variëteit aan gebouwen en mensen daarin. De business case voor deze energiebesparende systemen wordt vergroot doordat ze ook zorgen voor gezond en comfortabel leef- en werkklimaat, beperking van onderhoudskosten en verhoging van de productiviteit. De energietransitie verschuift kosten van gebruik (brandstof, stroom) naar investering. En van gebruiker naar eigenaar. Om deze investeringen te realiseren ontstaan nieuwe business modellen. Toeleveranciers, energiebedrijven en installatiebureaus ontmoeten elkaar in service concepten. Service concepten met bijvoorbeeld een andere eigendomsverhouding (leverancier blijft eigenaar hardware en verkoopt de dienst) maken nieuwe technologische oplossingen mogelijk. Om de verschuiving van gebruik naar investeringen en services succesvol te krijgen zijn prestatiegaranties een essentieel onderdeel van deze programmalijn. Regelsystemen met continue* commissioning* leveren dat. Lerende systemen zorgen voor continue optimalisatie van energie bij veranderend gebruik. Om de potentie te benutten zijn innovaties voorzien voor: 
+– Modulerendementen (indicatief, mede afhankelijk van beoogde toepassing) van 24% voor geavanceerde xSi ontwerpen en 22% voor de laagste kosten per Wp ontwerpen o.b.v. xSi, (≥)18% voor CIGS en III-V modules, en 12% voor CZTS, TF Si, perovskiet en OPV producten.  
 
-* via sensor en sensornetwerk technologie energie/gebouwbeheersystemen voeden met informatie ook uit andere systemen over (toekomstige) omstandigheden;  
+– Vermijden van het gebruik van schaarse en schadelijke materialen, levensduur > 25 jaar onder extreme condities en 30-35 jaar onder normale condities, ontworpen om hergebruikt te worden en met een energieterugverdientijd van minder dan 1 jaar.  
 
-* combineren van *real-time* performance monitoring met (PV) energie aanbod voorspellingen (met meteorologische data) en *demand side management;*   
+– Fabricagekosten van PV panelen in 2020: 0,3 €/Wp en turn-key prijzen van PV systemen van 0,6-1,0 €/Wp (afhankelijk van type en grootte, incl. duurzame marges);  
 
-* slimme ict en algoritmes voor laag energiegebruik bij gelijktijdig individueel comfort van mensen met verschillende behoeften;  
+– Opwekkosten zonnestroom (LCoE) in 2020 in Nederland: 0,06-0,10 €/kWh (o.m. afhankelijk van kapitaalskosten).  
 
-* van regeling met een groot gebouwenergiesysteem naar regeling met lokale actuatoren (link met programmalijnen ‘Multifunctionele bouwdelen’ en ‘Duurzame compacte conversietechnologie’);  
+– Mogelijkheid om nieuwe markten te openen (o.m. voor geïntegreerde PV systemen) door het beschikbaar maken van nieuwe uitvoeringsvormen tegen marktconforme prijzen.   De belangrijkste 'producten' die uit deze programmalijn zullen voortkomen, zijn technologiepakketten voor concurrerende innovatieve zonnestroomproducten die beschermde Nederlandse technologie bevatten in de vorm van ontwerpconcepten, processen, gerelateerde productieapparatuur en materialen van Nederlandse bedrijven. Hiertoe zal deze programmalijn zich met name richten op technologieontwikkeling gevolgd door daadwerkelijke industriële implementatie; de kern van innovatie. 
 
-* regelingen die de waarde van gegenereerde energie (mn zon PV) maximaliseert en energie inkoop kosten minimaliseert (slim regelen van gebruik, opwekking, conversie en opslag), in interface met smart grids.   Deze tender richt zich binnen deze programmalijn op: 
+####Programma’s 2015
 
-* zelf-lerende intelligente regelsystemen, gericht op optimalisatie op mens cq vertrekniveau van gezondheid, comfort en energiegebruik/duurzame opwekking;  
+Projecten in de zin van de regeling passen binnen de volgende programma’s: 
 
-* technische innovaties in combinatie met nieuwe energiediensten of gericht op energieprestatiegarantie concepten.   Deze programmalijn heeft interfaces met smart grids. Projecten die voornamelijk het accent op het optimaliseren van het net hebben, passen niet binnen het programma van TKI EnerGO maar mogelijk wel bij TKI Switch2SmartGrids.  ![254111](http://wetten.overheid.nl/Illustration/254111)
+### 1.1 
 
-####Multifunctionele Bouwdelen
+####Wafergebaseerde kristallijn silicium PV technologieën
 
-####Doel en Noodzaak
+In dit programma worden innovatieve technologieën ontwikkeld voor (de productie van) wafergebaseerde silicium zonnestroomcomponenten. De focus van dit programma ligt op de toepassing van nieuwe materialen, geavanceerde cel- en moduleconcepten (inclusief toepassing specifieke oplossingen), gerelateerde productieprocessen en – apparatuur en duurzaamheids-aspecten zoals ‘design for recycling’ en 'design for sustainability'. 
 
-In 2011 was 63% van de gebouwen ouder dan 30 jaar. Van de gebouwen in 2050 zal ook het merendeel er nu in 2014 al zijn. Slimme energierenovatie is cruciaal om de bestaande gebouwde omgeving energieneutraal te maken. Om deze markt te creëren en versnellen moeten eigenaren deze renovatie willen aanschaffen. Dat vraagt bouwdelen die de functies energiebesparing, energieopslag en energieopwekking integreren en met de volgende eigenschappen: 
+### 1.2 
 
-* esthetisch, architectonisch aantrekkelijk;  
+####Dunne film PV technologieën
 
-* economisch verantwoord, zichzelf tijdig terugverdienen in vastgoedwaarde; en/of energiebesparing en energieopbrengst;  
+In dit programma worden innovatieve technologieën ontwikkeld voor (de productie van) dunne film zonnestroomcomponenten. De focus van dit programma ligt op de toepassing van nieuwe materialen, geavanceerde cel- en moduleconcepten (inclusief toepassing van specifieke oplossingen), gerelateerde productieprocessen en – apparatuur en duurzaamheidsaspecten zoals ‘design for recycling’ en 'design for sustainability'. 
 
-* simpel en effectief op nieuwe ketensamenwerking en industrieel bouwen;  
+### 1.3 
 
-* gebruiksvriendelijk;  
+####Nieuwe, hybride en generieke toepassing PV technologieën
 
-* toevoegen van extra voordelen, zoals lokaal comfort (per ruimte).   Toepasbaarheid in verschillende typen gebouwen enerzijds en schaalvoordelen in aantallen anderzijds vraagt om geïndustrialiseerd maatwerk (‘*mass production for 1*’). Daarmee zijn ook export mogelijkheden groter. Hetzelfde geldt voor eenvoudige montage en vervanging. Dat kan moeizame procesveranderingen in de bouwkolom voorkomen en ook toepasbaarheid buiten Nederland vergemakkelijken. Dit kan door zo goed mogelijke integratie van o.a. de functies van isolatie, duurzame opwekking, thermische opslag en ventilatie in de gebouwschil, vooral in daken en gevels. Dat vraagt slim ontwerpen en industrieel verbouwen. Ook vraagt het miniaturisatie van componenten. Die nieuwe componenten daarvoor worden ontwikkeld in programmalijnen ‘Duurzame compacte conversietechnologie’ en ‘Compacte opslag’ en in het gezamenlijke programma met TKI Solar Energy (zie subparagraaf 2.4.12). In deze programmalijn gaat het om de fysieke integratie, om gebouwdelen (gevel- resp. dak elementen) en integratiesystemen voor energetische renovatie: 
+In dit programma worden innovatieve concepten en technologieën ontwikkeld voor (de productie van) zonnestroomcomponenten met een zeer hoog omzettingsrendement gebaseerd op, maar niet exclusief, hybriden van kristallijn silicium- en dunne film- PV technologieën en generiek toepasbare PV technologieën. De focus van dit programma ligt op de toepassing van nieuwe materialen, de ontwikkeling van innovatieve cel- en moduleconcepten (inclusief 3 of 4 en 2-terminal tandems), gerelateerde productieprocessen en – apparatuur en duurzaamheidsaspecten zoals ‘design for recycling’ en 'design for sustainability'. 
 
-* gebouwschil functies integreren: integratie van (bouw)fysische functies (constructief, buitenhouden ongewenst klimaat, geluid) met installatie/klimaat functies (verwarmen, koelen en ventileren en ook licht) en duurzame opwekkingsfuncties;  
+### 1.4 
 
-* integratie van multifunctionele en adaptieve afwerkingen, coatings en componenten;  
+####Applicatieontwikkeling van Nederlandse PV-technologieën
 
-* snel te monteren en vervangen, ook op onderdelen;  
+In dit programma worden innovatieve zonnestroomcomponenten ontwikkeld, en in de praktijk beproeft, die voornamelijk zijn gebaseerd op Nederlandse kennis en kunde, zodat deze succesvoller en sneller op de markt kunnen worden gebracht. Er wordt met name gezocht naar producten die een exportpotentieel hebben. Hierbij is met name de ‘bankability’ van Nederlandse innovaties belangrijk. De focus van dit thema ligt op applicatieontwikkeling en demonstratie. 
 
-* gestandaardiseerd maatwerk (‘*mass customization*’), flexibel in maatvoering, kleur en vorm.   Naast integratie van reguliere functies voor gebouwen kan ook gedacht worden aan andere extra functionaliteiten te integreren om de verkoopbaarheid van de producten en daarmee de impact te vergroten. Een mogelijk voorbeeld daarvan is de reeds ontwikkelde combinatie met beeldscherm in ramen. Deze tender richt zich binnen deze programmalijn op: 
+### 1.5 
 
-* gebouwschil die op een innovatieve manier minimaal drie van de volgende functies combineert: isoleert, opwekt, opslaat, regelt en ventileert voor industrieel verbouwen van *utiliteit*sgebouwen (w.o. gezondheidzorg, onderwijs, kantoren);  
+####Innovatieve componenten en diensten om output van zonnestroomsystemen te optimaliseren
 
-* multifunctionele bouwdelen voor renovatie van woningen die zowel qua (energie) prestatie en prijs aantoonbaar beter zijn dan reeds beschikbare (NL en/of internationale) concepten. Dit dient in het voorstel te worden aangetoond.    ![254112](http://wetten.overheid.nl/Illustration/254112)
+Grootschalige toepassing van zonne-energie in de complexe gebouwde omgeving vraagt anders geoptimaliseerde elektronica dan grote grondgebonden systemen. Partiële beschaduwing en de wens om systemen in fases uit te kunnen breiden, vragen bijvoorbeeld andere ontwerpen en diensten met regelstrategieën voor het zonnestroomsysteem. Daarom is het doel van dit programma om innovatieve componenten en diensten, die de opbrengst van zonnestroomsystemen in de gebouwde omgeving optimaliseren, te ontwikkelen en beschikbaar te maken voor de markt. 
 
-####Energieopwekking, distributie en opslag op gebiedsniveau
+### 2 
 
-####Doel en Noodzaak
+####Compacte conversie en opslag van thermische energie
 
-Op gebouwniveau en installatieniveau optimaliseren we opwekking en gebruik zoveel mogelijk. Een tijdsonafhankelijke energieneutrale gebouwde omgeving vereist echter ook maatregelen op gebiedsniveau die lokaal potentieel efficiënter benutten dan gebouwniveau alleen. Zonne-energie op gebiedsniveau, geïntegreerd op met name infrastructuur (*infrastructure integrated PV*, I2PV-) is opgenomen in het gezamenlijke programma van TKI Solar en TKI-EnerGO in subparagraaf 2.4.12. Lokaal potentieel van (duurzame) opwekking zit in thermische reststromen en opwekking; oppervlaktewater; ondergrond; geothermie; infrastructuren; biomateriaal; lokale windturbines; zonnevelden; riool/ waterzuivering. Daarnaast is er op gebiedsniveau veel potentieel voor thermische opslag (WKO). Het gebruik daarvan wordt intensiever en vraagt om betere oplossingen om onderlinge verstoring te voorkomen. Verandering in lokale opwekking en vraag, maakt aanpassing van lokale energienetten nodig. Zodat investeringen nu al anticiperen op straks werkelijk energieneutrale oplossingen en in dat zicht desinvesteringen en ‘*locked in*’ wordt voorkomen. Behalve met reguliere netten, kunnen gebruikers in een gebied met elkaar worden verbonden via ondergrondse opslag. Dat voorkomt onderlinge verstoring. Bovendien kan met gezamenlijk gebruik van ondergrondse opslag de energievraag en opwekking op gebiedsniveau worden vereffend, waarmee een gebied in warmte en koude zelfvoorzienend wordt: thermisch autarkisch. Daar waar effectief, kan worden gestreefd naar collectieve systemen. Daarnaast zal opslag op hogere (‘midden’) temperaturen in de ondergrond (30-60 C) nieuwe mogelijkheden ontsluiten voor collectieve buffering en gebruik. Vereiste ontwikkelingen zijn: 
+####Aanleiding en programmalijndoelstellingen
 
-* benutting, koppeling en opslag van lokaal potentieel via opslag op gebiedsniveau;  
+De doelstellingen van deze programmalijn zijn het verhogen van de efficiëntie van de conversie naar warmte en koude voor ruimtes en tapwater, het vervangen van de inzet van fossiele brandstof door duurzame thermische energie en het verhogen van de nuttige inzet van die duurzame bronnen door gebruik van thermische opslag. Conversie en Opslag maken samen de ‘warmtebatterij’ mogelijk. Energiedragers ‘warmte’ en ‘elektriciteit’ worden in het nieuwe systeem beter verbonden. Energieopslag stelt ons in staat om aanbod en vraag te ontkoppelen wat onmisbaar is om:
 
-* ontwikkeling ondergrondse opslag op midden temperatuur niveaus;  
+– het fluctuerende aanbod en de fluctuerende vraag op elk moment op elkaar af te stemmen;  
 
-* combinaties van energiewinning met andere functies, met name bodemsanering, waterwinning en waterzuivering,zodat vervuiling niet onbedoeld verspreidt en kosten worden gedeeld;  
+– te voorkomen dat energienetten in onbalans raken;  
 
-* optimale ontwerpen van lokale energie systemen (inclusief opschaalbaarheid en financierbaarheid), die afwegingen mogelijk maken over uitvoering en noodzaak voor aanpassing van warmte- of gasnetten en elektriciteitsnetten gericht op een energieneutrale gebouwde omgeving medio deze eeuw.  
+– verdere groei van hernieuwbare energie mogelijk te maken.  Deze conversie en opslag moeten compact zijn voor toepassing in de bestaande bouw en zijn te integreren met installaties en bouwdelen (programmalijn 3). Compactheid biedt tevens mogelijkheid voor zeer lokale comfortregeling (programmalijn 4) door afgifte (efficiënt) op bijvoorbeeld vertrek- of werkplekniveau. Opslag en opwekking van warmte (en koude) zijn ook mogelijk via energiestromen naar en uit de ondergrond. Programmalijn 5 (flexibele energie infrastructuur) biedt daarvoor Programma’s.Doelstelling van deze programmalijn is om te komen tot componenten en apparaten voor duurzame thermische energie (warmte en/of koude), conversie naar warmte en warmteopslag gericht op: 
 
-* Het gaat in deze programmalijn om cruciale innovaties bovenop bestaande ervaringen.   Deze tender van 2014 richt zich met name op projecten voor *smart heat/cold* via opslag in bijvoorbeeld de ondergrond en innovaties bij toepassing van andere temperaturen, dieptes en integratie van systemen. Innovatieve oplossingen voor omschakeling van bestaande gebieden met reguliere gasinfrastructuur naar energieneutrale systemen kunnen ook worden ingediend, waarbij oplossing wordt gevonden voor enerzijds leveringszekerheid, afschrijving en onderhoud van het resterende bestaande en anderzijds een doorbraak in versnelling van deze transitie. Deze tender richt zich binnen deze programmalijn op: 
+– maximale benutting duurzame (thermische en elektrische) energie  
 
-* opslag op hogere dan nu reguliere temperatuur (>=30C) in ondergrond (gedrag ondergrond);  
+– overschotten in de elektriciteitsvoorziening opvangen door dit tijdelijk als warmte of koude op te slaan t.b.v. later gebruik voor verwarming of koeling  
 
-* ondiepe geothermie, waarbij warmte wordt onttrokken van 30- 40C op een diepte tussen de 500 en 1.000 m;  
+– bestaande bouw (en daarmee geschikt voor nieuwbouw)  Het gaat daarbij specifiek om: 
 
-* concepten en tools voor optimalisatie en omvorming van lokale (of individuele) warmte- en koudesystemen naar collectieve netwerken;  
+1. Compacte, hoog efficiënte warmtepompen (ontwikkeling gericht op een factor 2 hoger rendement dan huidige state of the art ).  
 
-* concepten en tools voor optimalisatie en transitie van lokale energienetten. Aandacht hierbij voor mogelijke besparing op kosten van renovatie op niveau van het energiesysteem door: aanpassing van netten, effecten van verandering in energiedrager, lokale energiebesparing, duurzame opwekking en/of opslag.   
+2. Compacte, verliesvrije (thermische) opslag (ontwikkeling gericht op uiteindelijk een factor 8 compacter dan in water).  
+
+3. Warmtebatterij (systemen met conversie en opslag optimaal geïntegreerd).  
+
+4. Zon-thermische innovaties (als los component geen focusthema voor 2015, wel in focus is de integratie ervan in bouwdelen, zie daarvoor programmalijn 3).  
+
+####Programma’s 2015
+
+Projecten in de zin van de regeling passen binnen de volgende programma’s: 
+
+### 2.1 
+
+####Duurzame compacte conversie
+
+Deze programmalijn richt zich met name op kleine, hoog efficiënte componenten en warmtepompen geschikt voor de bestaande bouw (woningen en utiliteitsbouw). De oplossingen kunnen uiteindelijk separaat in de markt worden gezet, maar ook in samenhang met o.a. compacte thermische opslag. In de ontwikkeling is specifiek aandacht voor: efficiency van de conversietechnieken, afmetingen van installaties, geluidsniveaus, onderhoudsfrequentie en kosten, efficiënte bereiding van warm tapwater. Voorbeelden van ontwikkelingen in dit programma zijn: 
+
+i. Verbeterde warmtepomptechnologie, gebaseerd op nieuwe compressorconcepten en COP-verbetering; gericht op kleine vermogens en inzet in de bestaande bouw. De ontwikkeling moet leiden tot volgende generatie warmtepomp concepten.  
+
+ii. Een magneto calorische warmtepomp, een stille warmtepomp met potentie voor een aanzienlijk hogere COP dan nu gangbare warmtepompen hebben. Het gaat hier om verbetering van het ontwerp van de warmtepomp voor grotere capaciteiten op basis van magneto calorische materialen.   
+
+### 2.2 
+
+####Compacte verliesvrije thermische opslag
+
+Dit programma richt zich op de ontwikkeling van compacte thermische opslag, significant compacter dan water met als uiteindelijk doel een factor 8 compacter. Deze ambitie wordt in stappen, via generaties producten, nagestreefd. Het gaat hierbij met name om materialen, componenten (waaronder warmtewisselaars) en reactoren voor thermochemische opslag en opslag in PCM (phase change materials) geschikt voor de bestaande bouw. In deze ontwikkeling is specifiek aandacht voor: miniaturisatie, het vergroten van de opslagdichtheid, verkorten van de laadtijd en ontlaadtijd, verlagen van de laadtemperatuur, verhogen van ontlaadtemperatuur, verlengen van de levensduur, vergroten van de stabiliteit van systemen, verbeteren van capaciteit en vermogen, kostprijsverlaging. Ook biedt Dit programma ruimte voor projecten gericht op de inzet van hoge temperatuur TCM materiaal voor nuttige afzet in de gebouwde omgeving van industriële restwarmte. Hierbij gaat het om de ontwikkeling van elementen van warmteopslag (reactoren en warmtewisseling) en afgifte, inclusief transportmethode. 
+
+### 2.3 
+
+####Integratie aspecten (van 2.1.1 en 2.1.2) en demonstratie van generaties conversie en opslag ‘warmtebatterij’
+
+De combinatie van compacte conversie en opslag biedt een totaal product ‘warmtebatterij’ voor levering van warmte, mogelijk koude én de mogelijkheid om met het warmtesysteem in te spelen op fluctuaties van vraag en aanbod (en de prijzen daarbij) in het elektriciteitssysteem. In dit programma gaat het behalve om de *combinatie* ook om het ontwikkelen van *geïntegreerde* apparaten waarin compacte opslag en compacte warmtepomp zijn samengebracht. Voor het optimaal inzetten van de combinatie is daarnaast ook de vraag naar een regelsysteem dat de conversiefunctie en opslagfunctie integraal beheert. Bij de integratie is tevens van belang de koppeling met het warmteafgifte systeem en de warmtevraag. Als ondersteuning bij een gerichte ontwikkeling van componenten en systemen is voorzien in een emulator. Dit is een test- en ontwikkelinfrastructuur die beschikbaar is voor partijen die componenten en systemen voor een warmtebatterij in een testomgeving willen (laten) bemeten voor diverse fysiek en dynamisch gesimuleerde praktijksituaties. In 2015 is de ambitie om de simulatie in een emulator uit te breiden van tussenwoning naar ook andere gebouwen. In 2014 is de ontwikkeling gestart van opslag en transport van industriële restwarmte (in PCM) voor nuttig gebruik in de gebouwde omgeving. In 2015 ligt voor deze toepassing de focus op een demonstratiefase die voortbouwt op de resultaten van de ontwikkeling in 2014. Demonstratie onderdelen in dit programma zijn beperkte, gerichte veldtesten en praktijkproeven. 
+
+### 3 
+
+####ultifunctionele bouwdelen (MFB)
+
+####Aanleiding en programmalijndoelstellingen
+
+De belangrijkste doelstelling van deze programmalijn is het energieneutraal maken van de gebouwde omgeving in Nederland, door grootschalige implementatie van duurzame energiesystemen (zonnestroom, warmte en koude) én energiebesparing door middel van slimme energierenovatie van gebouwen en civiele infrastructuur (constructies in of aan wegen, spoorwegen etc). Door het toepassen van multifunctionele bouwdelen hiervoor, wordt tevens de installatiebranche en de bouwsector economisch versterkt. Grootschalige toepassing van duurzame energie in een dichtbevolkt land als Nederland is alleen mogelijk als duurzame energiesystemen worden geïntegreerd in de gebouwde omgeving en de civiele infrastructuur (meervoudig ruimtegebruik). Multifunctionele bouwdelen kunnen de implementatie van energiebesparing en de conversie van energie uit duurzame bronnen gemakkelijker en goedkoper maken. Multifunctionele bouwdelen integreren isolatie, duurzame opwekking, afgifte van warmte/koude en ventilatie in bouwdelen, vooral in daken en gevels. Zo’n alles-in-één product beperkt het ongemak en de (kostbare) (ver)bouw en installatietijd. Ook zorgt het ervoor dat het ruimtebeslag van nieuwe energieoplossingen ín het gebouw beperkt blijft (belangrijk bij bestaande bouw). Via ‘gestandaardiseerd maatwerk’, een ‘industriële aanpak’ geschikt voor series van 1, moet voldoende worden aangesloten bij de diversiteit in de bestaande bouw en moeten tegelijkertijd kosten worden beperkt. Dit vraagt om innovatieve oplossingen met de volgende eigenschappen: 
+
+– Esthetisch, architectonisch aantrekkelijk;  
+
+– Aantrekkelijk in geluidsniveau van installaties;  
+
+– Eenvoudig te onderhouden;  
+
+– Geschikt voor ongunstige gevels of daken (oriëntatie, schaduw, gewicht, vorm)  
+
+– Economisch verantwoord; i.e. zichzelf terugverdienend door een stijging van de waarde van het gebouw/kunstwerk en/of door energiebesparing en energieopbrengst;  
+
+– Simpel en effectief op nieuwe ketensamenwerking en industrieel (ver)bouwen;  
+
+– Gebruiksvriendelijk en voorbereid om nieuwe mogelijkheden toe te voegen.  Deze programmalijn richt zich op het integreren van diverse functies tot multifunctionele energiebesparende en/of energieleverende bouwdelen met bovenstaande eigenschappen. Het gaat daarbij specifiek om het combineren van de conversie en opwekkingsfunctie voor duurzame energie en andere installatie componenten met klassieke functies van bouwelementen in multifunctionele bouwdelen. Dit is de kern van deze programmalijn, waarbij drastische prijsdaling hand in hand gaat met esthetische kwaliteit, duurzaamheid, veiligheid, gebruikersgemak, beperking van de energievraag en optimalisatie van de energieopbrengst.
+
+####Programma’s 2015
+
+Projecten in de zin van de regeling passen binnen de volgende programma’s: 
+
+### 3.1 
+
+####Ontwikkeling van multifunctionele bouwdelen voor utiliteitsgebouwen
+
+In dit programma worden multifunctionele bouwdelen ontwikkeld om toegepast te worden bij de in de Aanleiding genoemde ‘industriële’ nieuwbouw / renovatie van utiliteitsgebouwen, waarbij de gebouwschil op een innovatieve wijze meerdere functies combineert. Hierbij wordt gedacht aan het combineren van klassieke functies (zoals stijfheid en sterkte, wind- en waterdichtheid en isolatie) met minimaal twee extra functies als duurzame energieopwekking (van zonnestroom, warmte, koude), decentrale energieopslag, warmte / koude afgifte, ventilatie, klimaatregeling, en/of energiemanagement. Uiteindelijk zal deze oplossing aantoonbaar beter moeten presteren (zowel financieel als qua energieprestatie) dan bestaande concepten. 
+
+### 3.2 
+
+####Ontwikkeling van multifunctionele bouwdelen voor woningen
+
+In dit programma worden multifunctionele bouwdelen ontwikkeld om toegepast te worden bij de in de Aanleiding genoemde ‘industriële’ nieuwbouw / renovatie van woningen met ‘gestandaardiseerd maatwerk’, waarbij de gebouwschil op een innovatieve wijze meerdere functies combineert. Hierbij wordt gedacht aan het combineren van klassieke functies (zoals stijfheid en sterkte, wind- en waterdichtheid en isolatie) met minimaal twee extra functies als duurzame energieopwekking (van zonnestroom, warmte, koude), decentrale energieopslag, warmte / koude afgifte, ventilatie, klimaatregeling, en/of energiemanagement. Uiteindelijk zal deze oplossing aantoonbaar beter moeten presteren (zowel financieel als qua energieprestatie) dan bestaande concepten. 
+
+### 3.3 
+
+####Ontwikkeling van multifunctionele bouwdelen voor civieltechnische infrastructuurelementen
+
+In dit programma worden multifunctionele bouwdelen ontwikkeld om toegepast te worden in civieltechnische infrastructuurelementen die de opwekking van duurzame energie (zonnestroom, warmte en koude) combineren met klassieke functies van een civieltechnisch infrastructuurelement zoals stijfheid en sterkte, zicht- en geluidsisolatie, etc. In dit programma wordt gezocht naar oplossingen die gebruikt kunnen worden bij zowel de nieuwbouw als de renovatie van een civieltechnisch infrastructuurelement. 
+
+### 3.4 
+
+####Praktijkproeven van multifunctionele bouwdelen
+
+Esthetische kwaliteit, formaat, levensduur, betrouwbaarheid, noodzakelijk onderhoud, geluid, installatiegemak en lage kosten zijn uiteindelijk van doorslaggevend belang bij het daadwerkelijk op de markt krijgen van innovatieve multifunctionele bouwdelen. Voordat dergelijke multifunctionele bouwdelen voor dak, gevel of infrastructuurelement grootschalig kunnen worden toegepast dienen ze echter eerst op voldoende schaal gedemonstreerd te worden. Daarom is er behoefte aan twee praktijkproeven:  *Praktijkproef MFB Ubouw*, waarbij in een nieuwbouwproject of een renovatieproject van een bedrijfspand een industrieel MFB concept, zoals beschreven in programma 3.1, daadwerkelijk wordt toegepast. Hierbij is het belangrijk om de energieprestaties goed te monitoren en het economisch perspectief van het concept aan te kunnen tonen.  *Praktijkproef MFB woningbouw*, waarbij in een nieuwbouwproject of een renovatieproject van circa 10 woningen een industrieel MFB concept, zoals in programma 3.2 is beschreven, daadwerkelijk wordt toegepast. Hierbij is het belangrijk om de energieprestaties van het concept goed te monitoren en het economisch perspectief van het concept te kunnen aantonen. De omvang van het project moet groot genoeg, maar niet groter zijn dan noodzakelijk om de ontwikkeling aantoonbaar te beproeven. 
+
+### 4 
+
+####Energieregelsystemen en -diensten in de gebouwde omgeving
+
+####Aanleiding en programmalijndoelstellingen
+
+Eigenaren van energieregelsystemen kunnen opwekking, opslag en gebruik van energie beter beheren en de uitwisseling van energie via energiehandel optimaliseren. De bedoeling van de programmalijn is om met deze systemen de waarde van lokaal opgewekte duurzame energie te verhogen. En de waarde van flexibiliteit te verhogen: de mate waarin het energiesysteem opwekking en gebruik aanpast in reactie op (on)verwachte fluctuaties. De energieregelsystemen dragen ook bij aan minstens 15% energiebesparing en een gezond binnenklimaat. De in deze programmalijn te onderzoeken en te ontwikkelen energieregelsystemen en -diensten richten zich, in de gebouwde omgeving, op energiegebruikers en eigenaren van energiesystemen en op producenten en aanbieders energie. En op exploitanten van energieopslag. Doelstelling van deze programmalijn is het ontwikkelen van zelflerende intelligente energieregelsystemen en (ondersteunende) producten en diensten (meet- en regeltechniek, ICT, open ICT platforms voor nieuwe producten en diensten, prestatiegaranties) om: 
+
+– de beschikbaarheid van en de behoefte aan flexibiliteit in beeld te brengen en te registreren;  
+
+– bronnen van flexibiliteit te aggregeren en flexibiliteit ter beschikking te stellen waar nodig;  
+
+– energiegebruik te verminderen, energiegebruik alleen daar en wanneer nodig;  
+
+– duurzame energie optimaal in te zetten;  
+
+– binnenklimaat te optimaliseren (w.o. ventilatie, temperatuur, licht) in samenhang met energiegebruik;  
+
+– energie en flexibiliteit te verrekenen met prijsmechanismen en dynamische verrekeningen.   
+
+####Programma’s 2015
+
+Projecten in de zin van de regeling passen binnen de volgende programma’s: 
+
+### 4.1 
+
+####Beheersen en bufferen van energiestromen
+
+Dit programma richt zich op zelflerende intelligente energieregelsystemen en -diensten voor optimaal energiegebruik, optimale inzet van duurzame energie, ontsluiting van flexibiliteit en energiebesparing. De volgende (combinaties van) aspecten spelen een rol: 
+
+– Kansen met het beïnvloeden en voorspellen van de vraag naar en het aanbod van energie.  
+
+– Kansen met de toepassing van energieopslag voor later energiegebruik.  
+
+– Kansen met de toepassing van de voorspelling van weer, aanwezigheid en (micro)klimaat.  
+
+– Kansen met prestatiegaranties en continue optimalisatie, waarmee investeerders een beeld / garanties krijgen over het rendement op hun investering met energiebesparing en/of -handel.  
+
+– Marktwerking en (duurzame) energietoepassingen (zonnestroom, windvermogen, warmtepompen, elektrisch vervoer, warmte-kracht) veranderen patronen in vraag en aanbod.  
+
+– Algemene wensen op het gebied van comfort, gezondheid en (binnen)klimaat bepalen aan de ene kant het energiegebruik en bieden aan de andere kant kansen om energie te besparen.  
+
+– Algemene wens om energie te besparen. Alleen energiegebruik daar en wanneer nodig.  
+
+– De maatschappelijke kosten en baten van energieregelsystemen.  
+
+– Algemene wens om de energievoorziening stabiel te houden, vraag en aanbod met elkaar in evenwicht te houden (binnen kleine tijdsintervallen) en pieken en investeringen te matigen.  
+
+– Kansen om de energievoorziening te optimaliseren op verschillende (combinaties van) geografische schalen: zelfvoorzienend gebouw, wijk(en), terrein(en), regio, tussen regio’s.  
+
+– Kansen om de energievoorziening te optimaliseren met verschillende (combinaties van) organisaties: consument en grotere gebruiker van energie(diensten), ‘prosument’, gebouwbeheerder, woning- en energiecoöperatie, ‘virtual power plant’, lokaal duurzaam energie initiatief, collectief, energiedienstenbedrijf (‘esco’, aanbieder van diensten met opslag, ‘aggregator’ van flexibele vraag en aanbod), energiebedrijf (met programmaverantwoordelijkheid), netbeheerder, ICT provider, ‘broker’, datamanagement, telecom, installatiebedrijf.   Een iDEEGO-project plaatst zich in de brede context van de hierboven genoemde aspecten. En geeft aan hoe het energiebeheer leidt tot flexibiliteit en/of energiebesparing en/of optimalisatie van duurzame energie opwekking en hoe daaruit een verdienmodel ontstaat. 
+
+### 4.2 
+
+####Inzetten van prijsmechanismen en dynamische verrekeningen
+
+Prijsmechanismen en dynamische verrekeningen bieden ‘incentives’ om de energievoorziening duurzamer in te richten. Bijvoorbeeld op de commoditymarkt, de onbalansmarkt en/of met dynamische prijzen voor transport en levering. In projecten dienen partijen betrokken te worden, die op deze energiemarkten met innovatieve tariefstructuren een rol spelen. De traditionele manier van verrekenen en factureren (‘billing’) is niet toereikend voor de energietransitie. In het bijzonder geldt dit voor nieuwe flexibiliteitsdiensten, zoals vraagsturing (‘demand response’) en onderlinge levering tussen consumenten. De huidige ‘billing’ processen zijn gericht op een jaarlijkse energienota en kunnen nieuwe diensten en bijbehorende prijsmechanismen niet adequaat verwerken. Nieuwe functionaliteiten en processen zullen beschikbaar moeten komen en nieuwe stakeholders zullen eigen ‘billing’ mechanismen aanbieden. Een iDEEGO-project geeft aan hoe prijsmechanismen en dynamische verrekeningen leiden tot flexibiliteit en/of energiebesparing en hoe daaruit een verdienmodel ontstaat. Aandachtspunten bij de programma’s Essentiële aandachtpunten om rekening mee te houden en op in te spelen, voor zover nodig voor een succesvolle toepassing van de projectresultaten, zijn: 
+
+– Opschaling van oplossingen met bijbehorende (internationale) standaardisatie; dit speelt in het bijzonder voor de ICT-aspecten en het datamanagement.  
+
+– Interoperabiliteit om geografische schalen en organisaties te verbinden.  
+
+– Privacy & ‘security’ (de beveiliging van de goede werking van het energiesysteem);  
+
+– ‘Resilience’ van het energiesysteem, het vermogen om te herstellen van (ver)storingen, negatieve effecten ervan te beheersen, ‘back up’ (opgestelde reserve).  
+
+– (Gedrag van) energie ‘prosumenten’; hoe neemt een projectvoorstel hen mee in oplossingsrichtingen, hoe draagt het bij aan een participerende houding?  
+
+– Wet- en regelgeving;  
+
+– Verdienmodellen en rollen in een bestaande en/of nieuwe waardeketen.  
+
+– Welke inzichten biedt het project voor de periode dat de zogenoemde saldering van levering en teruglevering van energie niet langer houdbaar is?  
+
+– ‘Big data’: data sets die zo omvangrijk, complex en dynamisch zijn dat het (welhaast) onmogelijk is geworden om die te verwerken en te beheren middels handmatige databasemanagement tools of traditionele applicaties. Uitdagingen hierbij zijn focus op precies die data die relevant zijn, curatie, opslag, doorzoeken, analyseren, delen en visualisatie;  
+
+– ‘Open data’: noodzakelijke beperkingen minimaliseren voor hergebruik van data voor meerdere doeleinden, zodat dit nieuwe inzichten en nieuwe verdienmodellen mogelijk maakt. Nauw gerelateerd aan open data is het begrip ‘linked open data’, dat samenhang in informatie brengt. Elk concept wint aan betekenis als er meer beschrijvingen aan gelinkt worden. Daardoor krijgt de inhoud van webdocumenten meer betekenis en worden zoekresultaten nauwkeuriger.   
+
+### 5 
+
+####Flexibele energie infrastructuur
+
+####Aanleiding en programmalijndoelstellingen
+
+De bedoeling van de programmalijn is om de bijdrage van de energie infrastructuur aan een duurzame energievoorziening te verhogen, met een grotere flexibiliteit van deze infrastructuur. Het gaat om de fysieke infrastructuur (elektriciteit, gas, warmte, koude) voor het transport en de distributie van energie, energienetten en ondergrondse thermische systemen. De te onderzoeken en te ontwikkelen producten en diensten richten zich op de beheerders van de energie infrastructuur. Producten en diensten die deze programmalijn als doel heeft te ontwikkelen, zijn: 
+
+– Slimme warmte- en/of koude-netten.  
+
+– Betere benutting van ondergrond voor opwekking en opslag van thermische energie.  
+
+– ICT platformen, informatiesystemen, meet-en regelsystemen, sensors, actuatoren, slimme meter datamanagement, markt control mechanisme, slimme kabels, slimme omzetters (‘inverters’), software voor het analyseren van gegevens uit de infrastructuur.  
+
+– Concepten en tools voor optimalisatie en transitie van lokale energie infrastructuur als onderdeel van een duurzame energievoorziening. Met aandacht voor besparing op kosten van renovatie van de energie infrastructuur door: aanpassing van netten, effecten van verandering in energiedrager, lokale energiebesparing, duurzame opwekking en/of opslag.   
+
+####Programma’s 2015
+
+Projecten in de zin van de regeling passen binnen de volgende programma’s: 
+
+### 5.1 
+
+####Flexibele elektrische energie infrastructuur
+
+Flexibilisering van de energie netinfrastructuur door middel van de ontwikkeling van nieuwe meettechnieken, nieuwe regelingen en nieuwe rekenalgoritmes die leiden tot betere benutting van de infrastructuur, een hogere betrouwbaarheid en meer mogelijkheden voor de inpassing van duurzame energieopwekking. Intelligente componenten zoals DC interfaces en andere vermogenselektronica, regelbare ‘tapchangers’ (voor transformatoren) voor verbetering van de bedrijfsvoering van de energie infrastructuur. Intelligente monitoring, meting en aansturing zullen de betrouwbaarheid van de infrastructuur verhogen en de beschikbare capaciteit beter benutten. De in te zetten technologie moet zich (kunnen) aanpassen aan de bestaande en geïnstalleerde componenten. Hierbij zal een duidelijke knip gemaakt moeten worden in de instrumentatie- architectuur tussen operationele technologie (OT) en informatietechnologie (IT) gezien de verschillen in vervanging en omloopsnelheden van de technologieën. Zelfherstellende functionaliteiten (‘self healing’) en adaptief schakelen verbeteren de kwaliteit van de elektriciteitsvoorziening (‘power quality’) en verminderen de kwetsbaarheid van de infrastructuur. Regelalgoritmen zorgen voor stabiliteit en voorkomen congestie ten gevolge van extreme transportsituaties. De ontwikkeling van diagnostieken en methodieken zullen de componentkennis vergroten. 
+
+### 5.2 
+
+####Lage temperatuur warmte- en koudenetwerken via clusteraanpak
+
+In gebieden is enerzijds warmte over en op andere plaatsen en tijdstippen juist warmte tekort (idem voor koude). Daarnaast kunnen met de toename van individuele ondergrondse WKO-systemen (warmte koude opslag) deze systemen elkaar onderling in ongunstige zin beïnvloeden en tot hogere kosten leiden dan voor collectieve systemen. Dit programma richt zich op het optimaliseren van warmte- en koudesystemen door optimalisatie en onderlinge levering in clusters en gebieden. Het gaat hierbij om concepten en tools voor inrichten en omvormen van lokale (of individuele) warmte- en koudesystemen (netwerken) naar collectieve duurzame opwekking en in het systeem geïntegreerde opslag. Dit in combinatie met aanleg van lage temperatuur (LT) thermische netten die via meerdere bronnen en afgifteclusters in de bestaande gebouwde omgeving worden toegepast. 
+
+###5.3 
+
+#### Sturingsregeling voor multiple vraag en aanbod in LT netten
+
+Klassieke warmtenetten kennen een centrale bron en meerdere afnemers. Net als bij slimme elektriciteitsnetten is ook in warmtenetten een transitie nodig waarin meerdere bronnen invoeden op het net, zodat optimaal gebruik kan worden gemaakt van diverse lokale warmtebronnen. Daarvoor is het nodig om regelstrategie, (markt)platforms en meet- en regeltechniek te ontwikkelen voor specifieke integratie van vraag/aanbod profielen in LT warmtenetten.
+
+### 5.4 
+
+####Betere benutting van de ondergrond voor opwekking en opslag van thermische energie
+
+Opslag in de ondergrond biedt meer mogelijkheden als dat mag op hogere dan nu reguliere temperatuur (>= 30°C). Om dat mogelijk te maken is belangrijk vast te stellen dat daarbij geen ongewenste processen in de ondergrond ontstaan door die temperatuur. Dit programma richt zich op onderzoek naar gedrag van de ondergrond bij deze temperaturen voor het ontwikkelen van deze toepassing van warmteopslag. 
+
+### 5.5 
+
+####Ondiepe geothermie
+
+Geothermie is een bron van duurzame warmte, die echter forse investeringen vraagt vanwege de diepe boringen die nodig zijn om de warmte te onttrekken. Minder diep is de temperatuur lager, maar nog wel hoog genoeg voor lage temperatuur verwarming. Dit programma richt zich op onderzoek en ontwikkeling van geothermiesystemen waarbij warmte wordt onttrokken van 30- 40°C op een diepte tussen de 500 en 1000 meter. 
+
+### 5.6 
+
+####Beschikbaar stellen of leveren van informatie- en datamanagement
+
+Het verzamelen van data en deze als informatie aanbieden aan derden behoren bij de digitalisering van het energiesysteem. Netbeheerders krijgen de mogelijkheden om de toestand van hun energienetten continu en in meer detail te monitoren en de energiestromen beter te controleren, te sturen en te beheren. Andere commerciële partijen krijgen steeds meer de mogelijkheid energiemanagement en andere ‘flex-diensten’ te ontwikkelen en aan hun klanten aan te bieden. Data worden onder meer gegenereerd door het monitoren en controleren met behulp van sensoren. Al die data zullen door middel van ‘agent’ technologieën worden geaggregeerd en via ‘datamining’ en analyses worden gepresenteerd als stuurinformatie voor de energie infrastructuur. Daarmee komt er meer controle over de energie infrastructuur en kunnen mogelijke verstoringen voorkomen worden. De specifieke uitdaging is instrumenten te laten ontstaan voor het meten, verzamelen, transporteren, analyseren, interpreteren en presenteren van data in een smart grid. ICT reikt elementen aan in de waardeketen die er voor zorgen dat het ‘grid’ zelf lerend en zelfsturend wordt. Specifieke speerpunten zijn: ‘frameworks’ en standaarden, interoperabiliteit, controle en beheerssystemen, ‘resilience’ (beschikbaarheid en veerkracht), ‘security by design’ (de beveiliging van de goede werking van het energiesysteem vanuit het ontwerp) en eigenaarschap van data & privacy. Voor ‘resilience’ en ‘security by design’ geldt bovendien: 
+
+– ‘Resilience’: de overgang naar decentrale intelligente energienetten betekent vaak meer complexiteit dan in de traditionele energienetten. Omdat elk onderdeel van het systeem onbetrouwbaar kan zijn, is inzet nodig van modellen en analyses om fouten en onderbrekingen te voorkomen, te voorspellen en op te lossen: een proactieve exploitatie.  
+
+– ‘Security’ is een voorwaarde voor betrouwbare energiesystemen. Met ervaringen in ICT-projecten en ‘security by design’ als uitgangspunt kunnen ICT- en energiesector elkaar versterken. ‘Cyber security’ standaarden en onderzoek naar en ontwikkeling van nieuwe methodes van certificeren kunnen security aanvallen minimaliseren: ‘protectie, ontdekken en adequaat reageren’.   
+
+###5.7 
+
+####Concepten en tools voor (her)ontwerp energie infrastructuur
+
+Voor het (her)ontwerp van de energie infrastructuur en voor het ondersteunen van keuzes voor (her)investering daarin en in lokale energiesystemen is van belang de juiste gegevens integraal af te kunnen wegen. Hiervoor zijn concepten en tools nodig voor optimalisatie en transitie van lokale energie infrastructuur als onderdeel van een duurzame energievoorziening. In die optimalisatie en transitie is aandacht voor mogelijke besparing op de kosten van renovatie van de energie infrastructuur door: aanpassing van netten, effecten van verandering in energiedrager, lokale energiebesparing, duurzame opwekking en/of opslag.
+
+####Aandachtspunten bij de programma’s
+
+Hoofdstuk 4 beschrijft essentiële aandachtspunten. Deze gelden ook voor de flexibele energie infrastructuur (dit hoofdstuk 5). Een iDEEGO-project houdt rekening met en speelt in op deze aandachtspunten, voor zover nodig voor een succesvolle toepassing van de projectresultaten. 
 
 ### Bijlage 4.2.9 
 
@@ -11288,112 +10813,162 @@ d.  *Transport en opslag via nieuwe opties: *hieronder vallen onderwerpen waarbi
 
 ### Bijlage 4.2.11 
 
-####, behorende bij artikel 4.2.78  van de Regeling nationale EZ-subsidies
+####, behorende bij artikel 4.2.78  van de Regeling nationale EZ-subsidies (Programmalijnen Energiebesparing industrie: joint industry projects)
 
-####Programmalijnen Energiebesparing industrie: joint industry projects
+De doelstelling van de regeling is het ondersteunen van een samenwerkingsverband voor het uitvoeren van een JIP Energiebesparing industrieproject gericht op toegepast R&D onderzoek (van TRL 3 tot en met TRL 7 <sup> 1 Bron: Horizon 2020 Workprogramme 2014-2015 General Annex G  </sup>), van een door de industrie (klein, middel en groot bedrijf) verlangde innovatieve procestechnologie. De projecten vallen binnen de scope van de hieronder genoemde programmalijnen van het TKI-ISPT gericht op verbetering van de industriële energie efficiency. 
 
-De doelstelling van de regeling is het ondersteunen van een samenwerkingsverband voor het uitvoeren van een Joint Industry Program (JIP) -energiebesparing industrieproject gericht op nieuw toegepast R&D onderzoek. De projecten vallen binnen de scope van de hieronder genoemde programmalijnen van het TKI-ISPT gericht op verbetering van de industriële energie-efficiency: 
+####Programmalijnen
 
-* nieuwe generatie scheidingstechnologie als vervanging van energie-intensieve destillatie;  
+1. Nieuwe generatie scheidingstechnologie  
 
-* intensifiëren van processen en optimaliseren van warmte- en stofoverdracht;  
+2. Intensiveren van processen en optimaliseren van warmte- en stofoverdracht  
 
-* energie-efficiënte manier van gasscheiding en gasbehandeling;  
+3. Energie-efficiënte manier van gasscheiding en gasbehandeling  
 
-* verwijderen van waardevolle componenten uit waterstromen, en ontwikkelen van alternatieven voor huidige energie-intensieve behandelingsmethoden zoals verdamping;  
+4. Winnen van waardevolle componenten uit waterstromen, en ontwikkelen van alternatieven voor huidige energie-intensieve behandelingsmethoden zoals verdamping  
 
-* nieuwe generatie warmtegebruik systemen.    ![254114](http://wetten.overheid.nl/Illustration/254114)
-De regeling stimuleert doorbraken gericht op deze energiedoelen in combinatie met het creëren van additionele economische activiteit en groei van werkgelegenheid. Er wordt gekeken naar vier aspecten; bijdrage duurzaamheid, innovativiteit, economische potentie en projectkwaliteit. In de volgende paragrafen zijn de onderzoeksvragen beschreven zoals door de industrie zijn gedefinieerd. 
+5. Nieuwe generatie warmtegebruik systemen  
 
-####Programmalijn Nieuwe generatie scheidingstechnologie als vervanging van energie-intensieve destillatie
+6. Betrouwbare, rendabele, energie zuinige droog- & ontwateringprocessen   De regeling stimuleert doorbraken gericht op deze energiedoelen in combinatie met het creëren van additionele economische activiteit en groei van werkgelegenheid. Projecte worden gerangschikt op vier aspecten; 1) Bijdrage duurzaamheid, 2) Economische potentie, 3) Innovativiteit en 4) Projectkwaliteit (inclusief kennisverspreiding en consortiumvorming). 
 
-Industriële processen voor het scheiden van vloeistoffen gebruiken grote hoeveelheden energie. Destillatie en indamping worden in de huidige industriële praktijk op grote schaal toegepast, maar zijn zeer energie-intensief. Sterke energiebesparing is mogelijk door het toepassen van andere scheidingsprincipes. Te denken valt aan affiniteitsscheidingen (zoals bijvoorbeeld extractie, adsorptie, absorptie) en de toepassing van membranen. Ook hybride technologieën, waarbij destillatie gecombineerd wordt met andere technologie, zoals extractieve destillatie of de combinatie van membranen met destillatie, kunnen bijdragen aan het terugbrengen van het huidige energiegebruik van vloeistofscheiding. Voor grootschalige toepassing van deze technologieën in de industrie is onderzoek en ontwikkeling noodzakelijk. Deze call vraagt daarom om een set van activiteiten binnen een JIP-energiebesparing industrieproject, waarbij kan worden gedacht aan: 
+### 1 
 
-* het verkrijgen van bredere kennis bij affiniteitscheidingen is nodig ten behoeve van de selectie van het extractiemiddelen, in samenhang met de eigenschappen van de te verwijderen component en het procesontwerp van de affiniteitscheiding. Fundamenteel begrip van moleculaire interacties die een rol spelen bij affiniteitscheidingen en case studies kunnen toepassing aanzienlijk versnellen;  
+####Bijdrage duurzaamheid
 
-* bredere toepassing van membraantechnologie, zoals nanofiltratie, vraagt om membranen die beter voldoen aan de toepassingseisen, zoals stabiliteit, levensduur, flux en selectiviteit. Ontwikkeling van materialen die aan deze eisen voldoen, alsmede het opschalen, moduleontwerp en het testen met industrieel relevante mengsels, zijn belangrijke stappen in de richting van implementatie.   
+De projecten dienen bij te dragen aan het (versneld) bereiken van de energiebesparingsdoelstellingen voor de procesindustrie: 30% reductie van industrieel energieverbruik en broeikasgasemissies. Ook is het herhalingspotentieel van belang: de technologie en of ontwikkelde kennis dienen breed toepasbaar te zijn, zodat een grote energiebesparing kan worden gerealiseerd bij het uitrollen in de markt. Naast de directe besparing in een specifiek productieproces kan de technologietoepassing ook besparing of efficiencyverbetering verderop in het proces of productieketen bewerkstellingen dan wel in het proces aanleiding geven tot gebruik van andere (energiebesparende) grondstoffen. Toepassingen die industriële symbiose mogelijk maken, kunnen een directe en/of lange termijn besparing opleveren. Waar mogelijk signaleren projecten in de zin van de regeling deze mogelijkheden en verduidelijken deze. 
 
-####Programmalijn Intensifiëren van processen en optimaliseren van warmte- en stofoverdracht
+### 2 
 
-*Achtergrondinformatie en specifieke uitdagingen:*  Energie en grondstoffen zijn relatief schaars in Europa, terwijl de groei in de bulkchemie relatief laag is in een overwegend verzadigde markt. Dientengevolge dient de bulkchemische sector voortdurend de efficiëntie van zijn overwegend continue en kapitaalintensieve processen te verhogen en efficiënter om te gaan met grond- en hulpstoffen. Tegelijkertijd vindt er een verschuiving plaats naar de produktie van fijn- en speciaalchemicaliën met een hogere toegevoegde waarde die typisch in batchprocessen worden geproduceerd. Verder maakt de ‘bio-based economy’ opgang met uitdagingen op het gebied van gedistribueerde beschikbaarheid van grondstoffen, de verwerking van verdunde processtromen, etc. Procesintensivering (PI) richt zich op de conceptualisering, verkenning en ontwikkeling van nieuwe innovatieve technologie waarmee deze uitdagingen tegemoet getreden kunnen worden. Potentiele energiepesparingen door PI worden hoog ingeschat [*SPIRE Roadmap, *http://www.spire2030.eu]. De potentiële energiebesparing ten gevolge van PI in de Nederlandse chemische industrie wordt geschat op 30–60 PJ per jaar [*De Sleutelrol waarmaken – Routekaart Chemie 2012–2013: Energie en klimaat, *http://www.routekaartchemie.nl/]. De call is erop gericht om te komen tot een set van activiteiten binnen een JIP-energiebesparing industrieproject met als mogelijke onderwerpen: 
+####Economische potentie
 
-* Warmte- en massatransport zijn sterk afhankelijk van de hydrodynamica via de directe invloed daarvan op de warmte- en stofoverdrachtscoëfficienten en de oppervlakken waarover deze werkzaam zijn. Ook (micro)menging wordt sterk door de hydrodynamica bepaald. Externe krachtenvelden in het algemeen en centrifugaalvelden in het bijzonder bieden de mogelijkheid om deze processen te intensiveren door het bevorderen van de turbulentie en/of het verhogen van het beschikbare oppervlak. Toepassing van deze technologie op b.v. desorptie (stripping), absorptie, reactie en precipitatie biedt potentiële voordelen ten aanzien van de hoogte van investeringen en energieverbruik.  
+Daarnaast dient het project bij te dragen aan het creëren van economische waarde voor zowel de deelnemers als de Nederlandse economie door: 
 
-* De conversie in veel chemische processen (zowel in de bulk- als in de fijnchemie) is thermodynamisch gelimiteerd en maakt het gebruik van meerdere reactoren, grote recycle stromen, integratie van warmtestromen en scheiding van producten en reactanten in energie-intensieve processen noodzakelijk. Bekende voorbeelden zijn b.v. de productie van ammoniak, methanol, de ‘water-gas-shift’ reactie, ‘stream reforming’, transesterificaties, veresteringen, etc. Intensivering van deze conversieprocessen door het in-situ verwijderen van een van de reactieproducten (zoals met b.v. reactieve destillatie, membraanreactoren, ‘sorption-enhanced’ reactoren, etc.) kan leiden tot aanzienlijk hogere conversies en daarmee tot aanzienlijke energiebesparingen.  
+* de uitbouw van banen en omzet in de proces industrie en de toeleverende sector; Doelstelling van het TKI is om het aantal banen uit te breiden naar 330.000 waar het niveau van 2013 ongeveer 290.000 is;  
 
-* Veel fijn- en speciaalchemicaliën worden geproduceerd in batchprocessen. Intensivering van deze processen middels een overgang naar continue produktie op kleine schaal biedt vele voordelen ten aanzien van veiligheid, efficiëntie, consistentie, procescondities, time-to-market, etc. Deze overgang wordt momenteel mogelijk gemaakt door de opkomst van geïntensifeerde reactoren zoals o.a. spinning disc reactoren, micro- en milli-reactoren en oscillating baffle flow reactoren voor enkelvoudige en meervoudige reacties. De naschakeling van continue geïntensiveerde scheidingstechnologieën is een volgende stap in deze overgang. Door uit te gaan van flexibele en modulaire concepten wordt het verlies aan schaalvoordeel goedgemaakt en kan mogelijk ook de supply chain worden geoptimaliseerd door de introductie van gedecentraliseerde produktie (‘on demand’ en zo dicht mogelijk bij de klant).   De scope voor de projectvoorstellen zullen zich richten op het aantonen van de industriële haalbaarheid van bovengenoemde geïntensiveerde technologieën, het demonstreren van de technologie op TRL 4-5 en het aantonen van de potentiële energiebesparing. 
+* nieuwe banen en extra omzet in de toeleverende industrie. Doelstelling van het TKI is om 2000 extra banen te realiseren bij met name MKB-ers, het deelnemen van midden- en klein bedrijf in het project wordt dan ook gezien als positief bij de scoring.   Inventarisatie van het economisch potentieel (bijvoorbeeld extra banen en nieuwe omzet bij de technologie ontwikkelaar, groei bij de eindgebruiker, of export van technologie) maakt deel uit van het project. 
 
-####Programmalijn Energie-efficiënte manier van gasscheiding en gasbehandeling
+### 3 
 
-####Terugwinning van waardevolle verbindingen uit lage druk gasstromen
+####Innovativiteit
 
-In de energie-intensieve industriële sector worden in veel gevallen gasvormige bijproducten gevormd. Dit zijn gassen die voor het specifieke bedrijf van geringe waarde zijn. Voor een ander bedrijf kunnen deze stromen echter wel waardevolle componenten bevatten. Door toename van een industriële symbiose kan de waarde hiervan benut worden, leidend tot een hogere energie en grondstof efficiency. Een van de huidige belemmeringen is een gebrek aan kennis omtrent economische en technische haalbaarheid van het terugwinnen van de pure componenten uit deze, vaak lage druk, gasstromen. Deze call richt zich op JIP-energiebesparing industrieproject met hierbinnen activiteiten van korte duur waarin verschillende technologieën experimenteel worden verkend. Hierbij bestaat er een voorkeur voor de terugwinning van waterstof en koolmonoxide. Een techno-economische evaluatie in vergelijking met de huidige gebruikelijke praktijk vormt een essentieel onderdeel van de studie, waarin met name de energie en grondstofefficiency een belangrijke rol spelen. 
+De projecten dienen betrekking te hebben op innovatie, procesefficiëntie en het efficiënter gebruik maken van hulpbronnen. Het toenemen van industriële symbiose kan hier ook een bijdrage aan leveren evenals het terugwinnen en hergebruik van nuttige en waardevolle producten dan wel opslag en distributie van warmte. Als de resultaten van een project toepasbaar zijn binnen verschillende sectoren wordt is de mate van vernieuwing groter. Dat wordt positief beoordeeld onder het rangschikkingscriterium dat het project vernieuwender is ten opzichte van de internationale stand van onderzoek of techniek en de Nederlandse kennispositie meer versterkt. 
 
-####Programmalijn Verwijderen van waardevolle componenten uit waterstromen, en ontwikkelen van alternatieven voor huidige energie-intensieve behandelingsmethoden zoals verdamping
+### 4 
 
-Deze call vraagt om een set van activiteiten binnen een JIP-energiebesparing industrieproject waarin meerdere partijen gezamenlijk gaan investeren en werken aan het praktisch inzetbaar maken (van TRL 4 naar TRL 7 brengen) c.q verbeteren (van TRL 3 naar TRL 5 brengen) van een door de industrie verlangde innovatieve procestechnologie voor het behandelen van proceswaterstromen in de procesindustrie. Dit moet resulteren in meer(terugwinnen en hergebruiken van nuttige en waardevolle producten en proceswater, het sluiten van interne processtromen (inclusief de water cyclus) en een sterk gereduceerd en schoner aanbod van stromen aan publieke zuivering installaties (RWZI). Uitgangspunt daarbij is een aantoonbaar gezonde en duurzame business case. Het JIP-energiebesparing industrieproject moet binnen 6 jaar leiden tot een besparing van 25% op het energieverbruik dat nu nodig is (bij toepassen van thans commercieel beschikbare bewezen procestechnologie in dezelfde processen) om dezelfde mate van prestatie bij (terug)winning en hergebruik te bereiken. In het bijzonder wordt gedacht aan een combinatie van activiteiten gericht op (een aantal van) de volgende onderwerpen: 
+####Projectkwaliteit
 
-| --- | --- |
-|:---|:---|
-|1. |Vrijmaken van complexe moleculen (zouten, metalen, organische stoffen) uit complexe stromen |
-|2. |Opstellen van een beslisboom welke technologie in welke omstandigheid toe te passen |
-|3. |Onttrekken en hergebruiken van organische componenten uit proceswaterstromen |
-|4. |Technologieën en systemen voor het terugwinnen en hergebruiken voor optimale valorisatie van waardevolle organische componenten als aanwezig in (zij-, rest- en afval) waterstromen van industriële processen. |
-|5. |Op meest optimale wijze verwijderen en recyclen van anorganische componenten (mineralen, zuren, basen, zouten, zoals fosfaat) uit proceswaterstromen en het beschikbaar maken daarvan voor andere toepassingen |
-|6. |Terugwinnen en hergebruiken van zouten, zuren, basen en metaal ionen vanuit rest- en afval- waterstromen van industriële processen (Voorbeeld: Het terugwinnen en hergebruiken van zoutstromen die vrijkomen bij de preparatie van proces en boiler water (ketelwater; bijvoorbeeld bij de-mineralisatie en regeneratie van ionenwisselaars). |
-|7. |Recycling van water en sluiten van de watercyclus: Water zelf beschouwen als de waardevolle en terug te winnen component. Gebruikt proceswater zuiveren en omzetten naar schoon en her te gebruiken water |
-|8. |Voorkomen van accumulatie van storende componenten bij hergebruik van water (kringloopsluiting) |
-|9. |Optimale energie winning en hergebruik van water via osmotische gedreven membraan processen bijvoorbeeld in vergelijking met omgekeerde elektrodialyse (Blue Energy) |
-|10. |Ontwikkelen en toepassen van betere concentratiemethoden in relatie tot behandeling van proceswater (realisatie van her te gebruiken geconcentreerde stromen en schoon water). |
-|11. |Het onttrekken en hergebruiken van nutriënten en andere stoffen uit een van een algenkweek afkomstige waterstroom inclusief het geschikt maken van die waterstroom voor hergebruik. |
-|12. |Ontwikkelen van nieuwe en alternatieve schoonmaakprocessen teneinde de productieverliezen, en gebruik van water, chemicaliën en energie te minimaliseren (cleaning without product loss, m.n. Food en Farma)  |
+a. De kwaliteit wordt beoordeeld aan de hand van de kwaliteit van het projectplan en de projectopzet, alsmede van de expertise van de betrokken kennisaanbieders. Essentieel hierbij is dat het project een oplossing biedt voor de vragen van de industrie zoals hieronder beschreven. De mate waarin dit aansluit op de vraag zal meegenomen worden in de weging. Indien concreet kan worden gemaakt hoe de vervolgstappen van het JIP Energiebesparing industrieproject er uit zien en hoe dit leidt tot brede implementatie, beïnvloedt dit de beoordeling positief. Dit kan bijvoorbeeld door het opnemen in het voorstel van een go/no-go beslissing voor de betreffende vervolgfase inclusief de criteria, waarop dit besluit zal worden genomen en een omschrijving van deze volgende fase.  
 
-Een set van activiteiten kan desgewenst op verschillende wijze gegroepeerd worden. Bijvoorbeeld methoden gericht op behandeling van de hoofd processtroom (1, 3, 5, 7, 10, 11)of op behandeling van rest- en afvalstromen (4, 6, 8, 12). Indien concreet kan worden gemaakt hoe de voorgestelde set van activiteiten die passen in de call gecombineerd gaan worden met soortgelijke/gerelateerde activiteiten welke door FISCH (Flanders Innovation Hub for Sustainable Chemistry) in België worden gestart kan dit de beoordeling van het rangschikkingscriterium ‘kwaliteit van het project’ positief beïnvloeden. Toelichting:  ![254115](http://wetten.overheid.nl/Illustration/254115)
-Door afscheiden en hergebruik van nuttige en waardevolle componenten uit proceswaterstromen, kan meer waarde worden gehaald uit die stromen. Tevens wordt een substantiële reductie in energieverbruik gerealiseerd en kan gezuiverd water worden ingezet voor hergebruik. Winning van gewenste organische producten uit water gebaseerde processtromen kan ernstig worden gehinderd door aanwezigheid van andere storende componenten. Conversie en scheiding in processen zijn nooit volledig. Nuttig en waardevol materiaal komt terecht in zij- en reststromen. Betere (terug)winning van waardevolle componenten en meer zuiveren van water voor hergebruik blijft nu vaak achterwege omdat het economisch niet aantrekkelijk is, terwijl door inzetten en toepasbaar maken van nieuwe procestechnologie en het verbeteren daarvan deze horde kan worden genomen. Door het ontwikkelen en toepassen van dergelijke technologie kan de toch al sterke expertpositie van Nederland op het gebied van waterbehandeling en omgang met water (Nederland ‘waterland’) worden versterkt. Dit leidt tot toename van exportkansen en extra werkgelegenheid bij Nederlandse toeleveringsbedrijven, Daarnaast ontstaat concurrentievoordeel voor Nederlandse eindgebruikers bij toepassing van de nieuwe technologie. 
+b. Ook *kennisuitwisseling *beschreven in een communicatieplan is belangrijk. Hierin dient te worden aangegeven welke communicatie uitingen worden gedaan en waarom. Denk hierbij aan publicaties, nieuwsbrieven en deelname aan congressen. Daarnaast kan via kennisnetwerken aandacht aan het project geschonken worden door het organiseren van interactieve bijeenkomsten, het stimuleren van netwerkvorming en het opnemen van de resultaten in een kennisdossier. Om tot een actieve link met het onderwijs te komen en de daarbij behorende kennisdisseminatie kansen, is het actief betrekken van Lectoren en Centres of Expertise een pré als het gaat om het rangschikkingscriterium ‘kwaliteit van het project’ en dan met name het plan van de kennisverspreiding.  
 
-####Programmalijn Nieuwe generatie warmtegebruik systemen
+c. Een groter aantal deelnemende partners uit verschillende sectoren *(consortiumvorming)* zal als extra positief worden beoordeeld als het gaat om het rangschikkingscriterium ‘kwaliteit van het project’ en dan met name om de deelnemende partijen. Dit alles om een brede verspreiding van de technologie te bevorderen over verscheidene sectoren, zowel richting professionals als educatieve instellingen. Als de voorgestelde activiteiten gecombineerd gaan of kunnen worden met soortgelijke activiteiten in buitenlandse netwerken is dit positief.   In de volgende paragrafen zijn de onderzoeksvragen voor deze tender beschreven zoals door de industrie zijn gedefinieerd. 
 
-In deze programmalijn wordt gestreefd naar: 
+### 1 
 
-* reductie van (fossiel) energieverbruik voor de productie en het gebruik van industriële warmte;  
+####Nieuwe generatie scheidingstechnologie als vervanging van energie intensieve destillatie
 
-* verbeteren van het concurrentievermogen van de belanghebbenden door reductie van de energiekosten;  
+Industriële processen voor het scheiden van vloeistoffen gebruiken grote hoeveelheden energie. Destillatie wordt in de huidige industriële praktijk op grote schaal toegepast, maar is zeer energie-intensief. De energie-efficiëntie van klassieke destillatiekolommen kan in een eerste stap verhoogd worden door geïntegreerde destillatie (beter gebruik van interne warmtehuishouding, integratie van bewerkingsstappen), of het onderzoeken van een volgende generatie kolominternals. Ook hybride technologieën, waarbij destillatie gecombineerd wordt met andere technologie, zoals extractieve destillatie of de combinatie van membranen met destillatie, kunnen bijdragen aan het terugbrengen van het huidige energiegebruik van vloeistofscheiding. Een bestaand en energievriendelijker alternatief voor destillatie is kristallisatie, maar deze technologie moet verder verbeterd worden om het toepassingsgebied te verbreden; mogelijke verbeteringen zijn combinaties met ultrasone technologie, of met extractie door diepe eutectica. Het voordeel van de bovenvermelde stapsgewijze verbeteringen is dat ze in vele gevallen als retrofit geïnstalleerd kunnen worden, wat door gebruikers makkelijker wordt geaccepteerd. Door het toepassen van andere scheidingsprincipes waarbij geen fasetransitie meer plaats vindt, is een nog grotere energiebesparing mogelijk. Te denken valt aan affiniteitsscheidingen (extractie, adsorptie, absorptie) en de toepassing van membranen. Voor grootschalige toepassing van deze technologieën in de industrie is onderzoek en ontwikkeling noodzakelijk. Deze tender vraagt daarom om een set van activiteiten binnen een JIP-energiebesparing industrieproject, waarbij kan worden gedacht aan: 
 
-* creëren van nieuwe marktmogelijkheden voor fabrikanten van apparatuur;  
+* Het uitwerken van retrofittable innovatieve technologieën waarmee op korte termijn een significante energiebesparing zal worden behaald; een nieuwe generatie kolominternals en geïntegreerde destillatiekolommen zijn hier voorbeelden van.  
 
-* verbeteren van de energie-efficiëntie van industriële processen.   Het geschatte energiebesparingspotentieel komt overeen met 100 PJ / jaar. Het gebruik van warmte binnen de industrie is verantwoordelijk voor meer dan 80% van het uiteindelijke energieverbruik. Warmte wordt gebruikt voor verwarming van grondstoffen, het mogelijk maken van reacties en het aandrijven van scheidingsprocessen. Het gewenste temperatuurniveau omvat een breed bereik, afhankelijk van het specifieke proces. Tegelijkertijd komen grote hoeveelheden afvalwarmte vrij naar de omgevingsatmosfeer die niet op economische wijze kunnen worden hergebruikt. Hergebruik van restwarmte: Het terugwinnen en hergebruiken van industriële restwarmte wordt belemmerd door technologische en economische barrières. Verschillende mogelijke paden kunnen worden voorzien die starten vanuit economisch warmteterugwinning van restwarmte. Vervolgens kan restwarmte worden omgezet in proceswarmte, proceskoude of vermogen. Tenslotte kan warmteopslag en distributie worden gerealiseerd. Binnen de call voor deze programmalijn wordt gevraagd naar een set van activiteiten binnen een JIP-energiebesparing industrieproject waarin gezamenlijk gewerkt gaat worden aan onderstaande onderwerpen; 
+* Het verkrijgen van bredere kennis bij affiniteitscheidingen. Dit is nodig voor de selectie van het extractiemiddelen in samenhang met de eigenschappen van de te verwijderen component en voor het procesontwerp van de affiniteitscheiding. Beter fundamenteel inzicht in moleculaire interacties die een rol spelen bij affiniteitscheidingen en case studies zullen leiden tot betere modellen en voorspellingen, waardoor het toepassingsgebied verbreed en implementatie versneld kan worden.  
 
-### A  
+* Bredere toepassing van membraantechnologie, zoals nanofiltratie voor extreme procescondities (denk daarbij bijvoorbeeld aan hoge en lage pH en/of temperatuur of aanwezigheid van agressieve organische oplosmiddelen) Dit vraagt om membranen en modules die beter voldoen aan de toepassingseisen, zoals stabiliteit, levensduur, flux, drukval, selectiviteit en resistentie tegen of onstream verwijdering van vervuiling. Ontwikkeling van materialen die aan deze eisen voldoen, alsmede het opschalen, ontwerp van gebruiksvriendelijke modules en het testen met industrieel relevante mengsels, zijn belangrijke stappen in de richting van implementatie.   
 
-####Warmteterugwinning
+### 2 
 
-Een deel van de vrijkomende restwarmte uit industriële processen is momenteel niet of moeilijk winbaar. Dit wordt veroorzaakt doordat de restwarmtestromen problemen leveren qua temperatuur (thermische, mechanische stabiliteit), qua samenstelling (corrosie, fouling, vocht) of qua fase (m.n. vaste stoffen). Dit limiteert het hergebruik van deze restwarmte voor nuttige doeleinden. Benodigde activiteiten op dit gebied, zijn technologieën die op kosteneffectieve wijze warmte kunnen terugwinnen uit ‘moeilijke’ (hoge temperatuur, corrosief, hoge vochtpercentages, vaste stoffen) stromen. 
+####Intensiveren van processen en optimaliseren van warmte- en stofoverdracht
 
-### B  
+*Achtergrond informatie en specifieke uitdagingen:* Energie en grondstoffen zijn relatief schaars in Europa, terwijl de groei in de bulkchemie relatief laag is in een overwegend verzadigde markt. Dientengevolge dient de bulkchemische sector voortdurend de efficiëntie van zijn overwegend continue en kapitaalintensieve processen te verhogen en efficiënter om te gaan met grond- en hulpstoffen. Tegelijkertijd vindt er een verschuiving plaats naar de productie van fijn- en speciaalchemicaliën met een hogere toegevoegde waarde die traditioneel typisch in batchprocessen worden geproduceerd. De ‘biobased economy’ maakt opgang, met uitdagingen op het gebied van gedistribueerde beschikbaarheid van grondstoffen en de verwerking van complexe en verdunde processtromen. Wijzigingen in het energieaanbod vereisen technologische aanpassingen (elektrificering en flexibilisering) en systeemintegratie. Procesintensivering (*PI: Process Intensification*) adresseert de bovengenoemde uitdagingen door de conceptualisering, verkenning en ontwikkeling van nieuwe innovatieve technologieën die leiden tot efficiëntere processen en/of een efficiëntere procesvoering. PI heeft een synergistische connectie met integraal procesontwerp (*PSE: Process Systems Engineering*) en geavanceerde procescontrole (*APC: Advanced Process Control*) die zich richten zich op de optimalisatie van het procesontwerp en de beheersing van deze processen (mogelijk ook over de keten heen).De tender richt zich op een set van activiteiten die leiden tot energiebesparing. Hierbij kan gedacht worden aan: 
 
-####Warmteconversies
+* De toepassing van externe krachtenvelden in het algemeen en centrifugaalvelden in het bijzonder teneinde stofoverdracht, warmteoverdracht en/of micromenging te intensiveren (al of niet in een reactieve omgeving).  
 
-Indien het temperatuurniveau van de vrijkomende industriële restwarmte te laag is voor hergebruik kunnen een aantal conversies worden ingezet om weer tot een nuttige inzet te komen. Drie verschillende conversies worden hier onderscheiden: 
+* De toepassing van technologieën die zijn gericht op de in-situ verwijdering van reactieproducten in evenwichtsreacties om conversies te verhogen en recycles te verlagen.  
 
-1. Restwarmte naar proceswarmte; Restwarmte kan worden opgewaardeerd naar proceswarmte middels een warmtepomp. Conventionele warmtepompen zijn gelimiteerd in zowel temperatuurverhoging als leveringstemperatuur. Daarnaast zijn de condities bij de eindgebruikers zeer divers, zowel qua temperatuurniveau, qua vermogen als qua aard van de warmtestromen (voelbaar, latent). Dit leidt tot de behoefte aan een portfolio van activiteiten aan warmtepomptechnologieën voor de diversiteit voor toepassingen binnen de industrie. De leveringstemperatuur moet omhoog van de huidige 100°C naar 200°C (afhankelijk van de toepassing). Ook zijn temperatuurverhogingen van 50°C of meer noodzakelijk om het toepassingspotentieel van industriële warmtepompen te vergroten. Daar waar mogelijk moeten warmtepompen worden geïntegreerd in het proces (bijvoorbeeld in combinatie met drogen).  
+* De ontwikkeling en toepassing van geïntensiveerde reactoren en scheidingstechnologieën in het algemeen en met name de integratie daarvan in flexibele, modulaire units om een overgang van batchgewijze operatie naar continue operatie mogelijk te maken.  
 
-2. Restwarmte naar koude; Conversie van restwarmte naar koude is een bekende technologie en commercieel beschikbaar. De technologie is vaak weinig flexibel en de investeringskosten zijn hoog. Bij deze activiteiten is er behoefte aan kostenreductie en een meer flexibele technologie ten aanzien van temperatuurniveaus.  
+* De ontwikkeling en toepassing van PSE en APC om uitdagingen op het gebied van ketenoptimalisatie, integratie van nieuwe technologieën in het procesontwerp en het ontwerpen van optimale processen voor complexe (biobased) chemische routes tegemoet te treden.  
 
-3. Restwarmte naar kracht; De nu beschikbare commerciële technieken om elektriciteit te produceren uit restwarmte zijn momenteel, vanwege relatief lage elektriciteitsprijzen, economisch niet haalbaar. Qua efficiency zijn er, thermodynamisch gezien, maar beperkte mogelijkheden tot verbetering. Activiteiten gericht op het bewerkstelligen van een significante kostenreductie zijn nodig om tot een economisch rendabele conversietechnologie te komen voor industriële eindgebruikers.   
+### 3 
 
-### C  
+####Energie-efficiënte manier van gasscheiding en gasbehandeling
 
-####Warmteopslag
+Binnen deze programmalijn wordt er aan nieuwe gasscheidingstechnologieën gewerkt om het energieverbruik van geselecteerde processen met 30% te verminderen. De nadruk ligt op fysische scheidingsmethoden, waarbij overall chemische reacties géén overwegende rol spelen. Binnen deze programmalijn wordt aan 3 thema’s gewerkt: 
 
-Binnen het energiesysteem en ook bij industriële eindgebruikers ontstaat steeds meer behoefte aan flexibilisering ten aanzien van de inzet van energiedragers. Warmteopslag (en distributie) maakt het mogelijk om deze flexibilisering in tijd en plaats op te vangen. Dit kan worden ingezet binnen (batch) processen, maar ook tussen sites of sectoren. Hierbij is er behoefte aan compact opslagtechnologieën tegen lage kosten. Om tot dit te komen zullen activiteiten binnen het JIP-energiebesparing industrieproject kunnen worden ontplooit om met een diversiteit aan oplossingen te komen tot op temperatuurniveaus van 250°C. 
+*  *Methaan platform*: verwijdering van verontreinigingen en terugwinning van waardevolle bestanddelen uit bio- en stortgassen alsmede aardgas van fossiele oorsprong is een belangrijk onderdeel in de productie van pijplijn kwaliteit methaan. De verwijdering van zure gassen en in de toekomst ook van inerte bestanddelen, speelt hierbij een vooraanstaande rol.  
+
+*  *H2 zuivering en synthese gas conditionering*: productie van 'groene' H<sub>2</sub> met een hoge zuiverheid en een lage CO<sub>2</sub>-uitstoot, en de samenstelling van een synthesegas passend te maken voor verder gebruik. Het voorkomen van tussendoor afkoelen en weer opwarmen van de gasstromen dient te leiden tot toename van de energie-efficiency. Technologieën die boven de 300 °C functioneren hebben hierom een voorkeur.  
+
+*  *Waarde creatie uit industriële gassen*: terugwinning van waardevolle componenten uit lage druk gasstromen die nu slechts gebruikt worden voor de calorische waarde. Deze componenten kunnen echter ook nog als basisbouwstenen voor de chemische industrie dienen. Hierbij valt bijvoorbeeld te denken aan CO en H<sub>2</sub>, maar ook aan propaan. Deze terugwinning is op dit moment nog lang niet altijd kosten- en energie-efficiënt mogelijk.   Generieke problematiek die rond deze drie thema’s spelen en waarvoor een aanpak gezocht wordt zijn onder andere: 
+
+*  *Materiaalkunde*; opschaling productietechnologie, met effectieve materiaalvormgeving van gestructureerde componenten, ter verlaging van diffusiebelemmeringen. Experimentele verificatie van een verbeterde levensduur onder industrieel relevante omstandigheden van druk, temperatuur en voedingssamenstelling op een pre-pilot schaal.  
+
+*  *Functionaliteitsverhoging*: vergroting van potentieel inzetgebied door prestatieverbetering dat leidt tot hogere productiviteit, kleinere installaties, hogere effectiviteit, lagere regeneratie energieën, geringere drukvallen etc.  
+
+*  *Proces en systeem*: simulatie en modellering ter vermindering van de energie- en investeringskosten, door bijvoorbeeld inpassing als retrofitoptie in bestaande installaties of het compacter maken van de specifieke scheidingsstap. Optimalisatie van een robuuste procesvoering door verbeterde moduleconcepten, stromingsprofielen, regeneratiemethodieken etc. Effectieve combinatie en schakeling van verschillende technologieën om de vereiste scheiding te bewerkstellen.  
+
+*  *Organisatie*: voorbereiding en pre-engineering van een grootschalige industriële pilot op de locatie van een eindgebruiker, gekoppeld aan de vorming van een consortium en waardeketen voor de commerciële benutting van de technologie. De deelname van MKB-ers binnen de waardeketens wordt aangemoedigd.  
+
+### 4 
+
+####Winnen van waardevolle componenten uit waterstromen, en ontwikkelen van alternatieven voor huidige energie-intensieve behandelingsmethoden zoals verdamping
+
+Door afscheiden en hergebruik van nuttige en waardevolle componenten uit proceswaterstromen, kan meer waarde worden gehaald uit die stromen. Tevens wordt een substantiële reductie in energieverbruik gerealiseerd en kan gezuiverd water worden ingezet voor hergebruik. Via deze tender wordt gevraagd om projectvoorstellen voor het behandelen van diverse proceswaterstromen in de industrie. Het betreft primaire proces-, zij- en afvalstromen als mede utilities (koelwater, ketelwater en proceswater). Projectrealisatie moet resulteren in het winnen c.q. terugwinnen en hergebruiken van waardevolle producten en energie uit waterstromen in de procesindustrie. Tevens gaat het om het efficiënter (her)gebruik van materialen en water, het zoveel mogelijk sluiten van interne kringlopen (inclusief de waterkringloop) en schonere c.q. sterk in omvang gereduceerde afvalstromen, zoals bijvoorbeeld worden aangeboden aan rioolwaterzuiveringsinstallaties. In het JIP Energiebesparing industrieproject moet men aannemelijk maken dat het project binnen 6 jaar leidt tot een energetisch 25% gunstigere situatie dan nu om (bij toepassen van thans commercieel beschikbare en bewezen technologie in dezelfde processen) dezelfde mate van prestatie bij (terug)winning en hergebruik te bereiken. Toepassing van de voor ogen staande technologie moet aantoonbaar afdoende zicht bieden op een gezonde en duurzame business case. Meer specifiek kan worden gedacht aan (een combinatie van) activiteiten gericht op (verder) verbeteren en opschalen van technologieën en systemen aangaande: 
+
+– Terugwinnen en valoriseren van organische componenten met hoge waarde uit proceswaterstromen.  
+
+– Verwijderen en terugwinnen voor hergebruik van zouten en anorganische componenten uit diverse proceswaterstromen (inclusief IX gebruik en regeneratie)  
+
+– Sluiten van de waterkringloop en verbeteren van hergebruik van water. Technische oplossingen die bijdragen aan het wegnemen van belemmeringen die nu het hergebruik van water uit afvalwater voor diverse industriële water stromen in de weg staan.  
+
+– Energiewinning uit zout bevattende industriële waterprocesstromen (zoals blue energy; osmotisch gedreven membraanprocessen voor optimale energiewinst en waterhergebruik).  
+
+– Verbeteren van processen met op water gebaseerde processtromen door tijdige afscheiding en hergebruik van storende componenten (incl. *trace removal*).  
+
+– Geavanceerde concentratiemethodes voor beter hergebruik van componenten en water.  
+
+– Afscheiden en hergebruiken van waardevolle componenten (zoals VFA’s) voortgekomen uit conversie van organisch restmateriaal in (bio based) industriële afvalwaterstromen.  
+
+– Hergebruik van waterige nutriëntrijke stromen afkomstig van biokweken (zoals algenkweek). ![255064](http://wetten.overheid.nl/Illustration/255064)
+Fig.: Algemeen overzicht programmalijn 4  
+
+### 5 
+
+####Nieuwe generatie warmtegebruik systemen
+
+Er wordt gezocht naar voorstellen die antwoord geven op de twee onderstaande vragen, namelijk ten eerste ‘Efficiënte productie van warmte’ en ten tweede ‘Hergebruik van restwarmte’. 
+
+1. Efficiënte productie van warmte 
+
+* De implementatie van industriële warmtekrachtkoppeling (WKK) installaties heeft in de negentiger jaren van de vorige eeuw tot significante energiebesparing geleid. Echter, de huidige verhouding tussen elektriciteits- en gasprijzen (spark spread) is dusdanig dat deze installaties economisch niet meer renderen. Daarom is er behoefte aan nieuwe concepten voor de rol van industriële WKK in het huidige en toekomstige energiesysteem of nieuwe technologieën die onder de huidige prijsverhouding economisch beter presteren. Deze nieuwe concepten en technologieën moeten het mogelijk maken dat er op een kosteneffectieve en flexibele wijze warmte kan worden geproduceerd in een (duurzaam) energiesysteem dat aan sterke fluctuaties onderhevig is.  
+
+* (Diepe) geothermie wordt gezien als één van de meest veelbelovende manieren om de productie industriële warmte te verduurzamen. Toepassing hiervan wordt gehinderd door zowel de risico’s van boren in de ondergrond als het koppelen van deze warmtebron aan een industrieel proces. Vanuit industrieel perspectief is er behoefte aan concepten en technologieën die er voor zorgen dat een geothermische bron maximaal wordt benut.   
+
+2. Hergebruik van restwarmte 
+
+* Het hergebruik van restwarmte middels industriële warmtepompen voor hogere temperaturen vereist een portfolio aan innovatieve warmtepomptechnologieën. Veel van deze ontwikkelingen vinden plaats in laboratoria. Er is een behoefte om deze technologieën te demonstreren onder reële industriële condities. Voorstellen worden gezocht die tot veldtesten van industriële warmtepomptechnologieën leiden (TRL7). In aanvulling hierop zijn voorstellen gewenst die tot kostenreductie van warmtepomptechnologie gaat leiden, om de marktintroductie hiervan te versnellen.  
+
+* Een belangrijk deel van de huidige industriële restwarmte wordt momenteel niet teruggewonnen vanwege het problematische karakter van de restwarmtestroom. Deze stromen betreffen bijvoorbeeld hoge-temperatuur rookgassen met corrosie- of depositieproblemen, luchtstromen met hoge vochtigheid en deeltjesbelading of restwarmte aanwezig in vaste stoffen. Er is een behoefte aan innovatieve concepten en technologieën die het mogelijk maken deze restwarmte op een economische verantwoorde manier terug te winnen.  
+
+* Nieuwe concepten en technologieën worden gezocht die restwarmte kunnen omzetten in proceswarmte, koude, elektriciteit of producten. Deze concepten en technologieën moeten uitzicht bieden op oplossingen die technisch en economisch concurrerend zijn met oplossingen die momenteel beschikbaar of in ontwikkeling zijn. Deze voorstellen kunnen een verkennend karakter hebben met een lager TRL niveau (TRL 2 – 4)    
+
+### 6 
+
+####Betrouwbare, rendabele, energie zuinige droog- & ontwateringsprocessen
+
+Het droogproces alleen is verantwoordelijk voor ongeveer 18% van het totale energieverbruik in de (Nederlandse) procesindustrie. De belangrijkste doelstellingen voor projecten op dit thema zijn het genereren van doorbraak onderzoek naar energie-efficiënt drogen en ontwateren. Er wordt gestreefd naar technologieën die een substantiële vermindering van het energieverbruik van 20-50% mogelijk maken. Het kan gaan om mechanische ontwatering (sedimentatie, flotatie, filtratie, centrifugatie, spiraalscheiders); membraanprocessen; thermische ontwatering (verdamping, kristallisatie); droogprocessen en het terugwinnen van het verwijderde water. In de ingediende projecten dient naast energiebesparing ingegaan te worden op de productkwaliteit. De interesse ligt nadrukkelijk op procesinnovaties die droogstappen vermijden (dan wel sterk verkleinen) of op een andere manier een doorbraak kunnen realiseren. Het ontwerpen/selecteren en opschalen van de juiste apparatuur en de juiste droogcondities is een uitdagend proces. Er wordt daarom gezocht naar projecten die de voorspelbaarheid van bevredigend functionerende droogprocessen voor de industrie kunnen bevorderen. Gegeven de complexiteit van deze processen heeft een multidisciplinaire benadering de voorkeur. Gedacht kan worden aan ‘single’ of ‘multiple- dropletstudies’ met als aanpak een combinatie van: productwetenschap, materiaalkunde, fysische chemie, fysica, numerieke berekening en procestechniek. 
 
 ### Bijlage 4.2.12 
 
-####, behorende bij artikel 4.2.85  van de Regeling nationale EZ-subsidies
+####, behorende bij artikel 4.2.85  van de Regeling nationale EZ-subsidies (Programmalijnen wind op zee)
 
-####Programmalijnen Wind op zee
+####Aanleiding en doelstelling
 
-De activiteiten waarmee het Nederlandse bedrijfsleven en de kennisinstellingen aan de slag gaan om innovaties, nieuwe technieken en werkmethodes te ontwikkelen zijn in het InnovatieContract Wind op Zee ondergebracht in een vijftal innovatiethema’s, te weten: 
+Het programma van het TKI Wind op Zee bestaat uit 2 delen: ‘Development’ en ‘Demonstration’, beiden binnen de kaders van de TKI Wind op Zee programmalijnen. De paragraaf wind op zee R&D-projecten biedt subsidiemogelijkheden voor het ’development’ programma. Dit programma is gericht op onderzoek en ontwikkeling met als doel om de kostprijs van windenergie op zee op langere termijn te reduceren zonder demonstratiemogelijkheden. Dit betreft projecten die verder van de markt staan en mogelijk pas na 2023 tot daadwerkelijke toepassing zullen leiden. Het programma richt zich met name op TRL 4 t/m TRL 6, maar projecten die ook werkpakketten hebben gericht op lagere TRL-niveaus worden niet uitgesloten. Projecten in de zin van de regeling onderscheiden zich van projecten zoals beoogd worden met het ‘demonstration’ programma. Dat programma is juist gericht op ontwikkeling en demonstratie met als doel om kostenreductie van windenergie op zee binnen de termijnen van het Energieakkoord (2023) te realiseren. Het programma richt zich met name op TRL 6 t/m TRL 8, maar projecten die ook werkpakketten hebben gericht op TRL 4 of 5 worden niet uitgesloten. De subsidiemogelijkheden daarvoor zijn opgenomen in paragraaf 4.2.3 Hernieuwbare energie. ![255066](http://wetten.overheid.nl/Illustration/255066)
+
+####Programmalijnen
+
+De vijf TKI Wind op Zee innovatiethema’s of programmalijnen zijn: 
 
 1. Ondersteuningsconstructies  
 
@@ -11403,26 +10978,23 @@ De activiteiten waarmee het Nederlandse bedrijfsleven en de kennisinstellingen a
 
 4. Transport, Installatie en Logistiek  
 
-5. Beheer en Onderhoud   Binnen de vijf thema’s is een gebalanceerd portfolio van activiteiten gedefinieerd, die ieder bijdragen aan één of meerdere van de schakels *discovery*, *development* en *deployment* van de innovatieketen. Voor een deel van de activiteiten is de proeftuin essentieel om de innovaties daadwerkelijk te realiseren. 
-### *De proeftuin als essentieel onderdeel van de R&D activiteiten* 
+5. Beheer en Onderhoud   Binnen de vijf thema's is een gebalanceerd portfolio van activiteiten gedefinieerd, die ieder bijdragen aan één of meerdere van de schakels *discovery*, *development* en *deployment* van de innovatieketen. Voor een deel van de activiteiten is een proeftuin of demonstratieomgeving essentieel om de innovaties daadwerkelijk te realiseren.  *De proeftuin als essentieel onderdeel van de R&D activiteiten*  Een proeftuin is een fysieke locatie ergens voor de Nederlandse kust waarbij allerlei nieuw ontwikkelde innovaties, technieken en werkmethodes uitgetest kunnen worden voordat ze echt op grote schaal toegepast zullen worden. Een proeftuin vormt zo een schakel tussen *discovery* en *development* enerzijds en deployment anderzijds. Hiermee wordt een brug geboden over de zogenaamde ‘*valley of death*’ waar veel innovaties in de praktijk op stuk lopen. Het TKI Wind op Zee werkt aan demonstratiefaciliteiten op zee in de vorm van embedded demonstration (ondersteuning van demonstratie binnen regulieren offshore windparken) en co-locatie (op zichzelf staande demonstratie locaties dicht bij reguliere windparken). 
 
-Een proeftuin is een fysieke locatie ergens voor de Nederlandse kust waarbij allerlei nieuw ontwikkelde innovaties, technieken en werkmethodes uitgetest kunnen worden voordat ze echt op grote schaal toegepast zullen worden. Een proeftuin vormt zo een schakel tussen *discovery* en *development* enerzijds en deployment anderzijds. Hiermee wordt een brug geboden over de zogenaamde ‘*valley of death*’ waar veel innovaties in de praktijk op stuk lopen. Wij voorzien een combinatie van de proeftuin met een commercieel demonstratieveld van 200 MW, dat deels wordt gebruikt om uitgeteste technologie te demonstreren. 
-
-### 1  
+### 1 
 
 ####Ondersteuningsconstructies
 
-### 1.1  
+### 1.1 
 
 ####Het belang
 
 Nederland heeft sterke spelers met innovatieve productielijnen voor ondersteuningsconstructies van windturbines. Deze bedrijven zijn marktleider, en willen deze positie borgen en verder uitbouwen. Naast het optimaliseren van bestaande ondersteuningsconstructies door middel van de juiste ontwerpmethoden en toepassing van integrale ontwerp- en optimalisatie tools, is kostendaling mogelijk door het ontwerpen van geheel nieuwe typen ondersteuningsconstructies en op het gebied van optimale fabricage door middel van bouwresearch. 
 
-### 1.2  
+### 1.2 
 
 ####De R&D activiteiten
 
-1. Ontwerptools: Ontwikkelen van betere en goedkopere constructies dankzij verbeterde ontwerptools gebaseerd op de nieuwste ‘*state-of-the-art*’ ontwerpstandaarden. De regels en methoden waarmee ondersteuningsconstructies worden ontworpen zijn nog jong en worden regelmatig aangepast en slimmer en sneller gemaakt aan de hand van opgedane ervaringen, terwijl de funderingen steeds grotere en zwaardere turbines moeten dragen. (Langdurige) conditiemonitoring kan ontwerpregels voor vermoeiing en veiligheidsmarges aanscherpen. Het valideren en de certificering kan alleen door met proefopstellingen te testen.  
+1. Ontwerptools: Ontwikkelen van betere en goedkopere constructies dankzij verbeterde ontwerptools gebaseerd op de nieuwste ‘*state-of-the-art*’ ontwerpstandaarden. De regels en methoden waarmee ondersteuningsconstructies worden ontworpen zijn nog jong en worden regelmatig aangepast en slimmer en sneller gemaakt aan de hand van opgedane ervaringen, terwijl de funderingen steeds grotere en zwaardere turbines moeten dragen. (Langdurige) conditiemonitoring kan ontwerpregels voor vermoeiing en veiligheidsmarges aanscherpen. Het valideren en de certificering kan alleen door met proefopstellingen te testen. 
 
 2. Zee (bodem) onderzoek: Vergaren van meer kennis over ondergrond en golven en hun interactie met de fundering. De modellen waarmee ondersteuningsconstructies worden berekend kunnen verder worden geoptimaliseerd door testen in de proeftuin.  
 
@@ -11430,19 +11002,19 @@ Nederland heeft sterke spelers met innovatieve productielijnen voor ondersteunin
 
 4. Bouwresearch: snelle, efficiënte serieproductie van de ontwerpen, zoals die tevoorschijn komen uit de bovenstaande acties, zowel onshore als offshore, inclusief nieuwe lastechnieken.   
 
-### 2  
+### 2 
 
 ####Optimalisatie van de windcentrale
 
-### 2.1  
+### 2.1 
 
 ####Het belang
 
 Een offshore wind park is nog steeds geen wind power station, maar een gecoördineerde samenbouw van componenten met een verschillende achtergrond. Het geïntegreerd ontwerpen op basis van de laagste cost of energy van het geheel in plaats van de ‘eigen’ component staat nog in de kinderschoenen, maar wordt steeds noodzakelijker gezien de toenemende omvang van de centrale en de turbines. De belangrijkste (technische) aspecten hierbij zijn – innovaties gericht op verhoging van de betrouwbaarheid en levensduur van (componenten van) het windpark, -geïntegreerd ontwerpen van turbine plus ondersteuningsconstructie plus netwerk, – optimalisatie van de windcentrale. Dit laatste steunt onder andere op een hogere mate van regelbaarheid van iedere turbine en de afstemming van de turbines op elkaar. Deze ontwerpaspecten zullen ondersteund worden door een geïntegreerde toepassing van meteorologische, aerodynamische, materialen en control-kennis. 
 
-### 2.2  
+### 2.2 
 
-####De R&D activiteiten
+####2.2. De R&D activiteiten
 
 1. Vergaande integratie van de kennis van offshore wind, aerodynamica, dynamica, materialen en regeltechniek  
 
@@ -11452,17 +11024,17 @@ Een offshore wind park is nog steeds geen wind power station, maar een gecoördi
 
 4. Uitwerken van een nieuwe windparkfilosofie, voor maximale opbrengst en betrouwbaarheid, verbeteren kennis offshore windklimaat   
 
-### 3  
+### 3 
 
 ####Intern elektrisch netwerk en aansluiting op het hoogspanningsnet
 
-### 3.1  
+### 3.1 
 
 ####Het belang
 
 Offshore onderstations zijn groot en zwaar en daardoor duur en moeilijk te transporteren en installeren. Qua technologie zijn er allerlei uitdagingen die liggen op het gebied van HVDC, geavanceerde blindstroomcompensatie-apparatuur, DC-schakelapparatuur & vermogenselektronica en elektrotechnische beveiliging en besturing. Beheerders van onderstations en kabels kunnen niet terugvallen op voldoende statistische gegevens waaruit een onderhoudsbeleid en -strategie kan worden afgeleid. Het ontstaan van een offshore netwerk met e-hubs zorgt voor koppeling van offshore windparken en van de Europese markten. Het fluctuerende gedrag van wind wordt steeds meer bepalend voor de energiestromen in het Europese net. Een oplossing hiervoor is het smart transmission grid (of smart super grid), een net waarin op transmissieniveau slimme besturings- en regelmogelijkheden van energiestromen zijn ingebouwd. De combinatie van proeftuin en demonstratieveld zal waarschijnlijk één offshore onderstation kennen. Dat onderstation mag licht, modulair en innovatief zijn, maar moet allereerst bedrijfszeker zijn en veilig. In de proeftuin worden interne kabels tussen de turbines gelegd. Monitoring technieken voor bepalen van locatie en status van de kabel kunnen daar getest worden. Slimme besturings- en regelmogelijkheden op windturbine-, onderstation- en windparkniveau kunnen in de proeftuin getest worden. Of een HVDC verbinding bij de proeftuin toegepast gaat worden hangt o.a. af van de afstand tot de kust. De leverancier van de elektrische infrastructuur van de proeftuin zal gevraagd worden te komen tot een maximale integratie van alle componenten in de elektrische systemen (dus van turbine tot aan het grid). Het is niet te verwachten dat de proeftuin op een interconnector zal aansluiten. 
 
-### 3.2  
+### 3.2 
 
 ####De R&D activiteiten
 
@@ -11474,17 +11046,17 @@ Offshore onderstations zijn groot en zwaar en daardoor duur en moeilijk te trans
 
 4. Ontwerpen en demonstreren van de combinatie van internationale transmissie met een offshore wind park met oog voor technische aspecten, inrichting van elektriciteitsmarkten en aanpassen van regelgeving. Vervolgens initiëren en leiden van standaardisatieactiviteiten die uiteindelijk leiden tot een transnationaal grid en e-hubs op de Noordzee   
 
-### 4  
+### 4 
 
 ####Transport, Installatie & Logistiek
 
-### 4.1  
+### 4.1 
 
 ####Het belang
 
 Nieuwe schepen en equipment zijn nodig die grotere turbines en fundaties sneller en bij hogere zeegang installeren. Standaardfundaties zoals monopalen kunnen sneller geïnstalleerd worden, heigeluid moet gereduceerd worden. Ontgronding (scour) moet gecontroleerd plaatsvinden zodat geen steenstorting meer nodig is. Aansluiting van elektriciteitskabels op fundatie / windturbines en het offshore onderstation blijkt regelmatig een uitdaging te zijn. Kabels moeten doeltreffender worden gelegd en ingegraven. Afstemming tussen en vermindering van de componenten die offshore geïnstalleerd moeten worden, en het ontwerp zodanig aanpassen dat de assemblage zoveel mogelijk onshore kan plaatsvinden. Havens moeten worden vergroot en/of nieuw gebouwd. Wellicht is het rendabel extra havens midden in zee te bouwen, ook voor de operationele fase. Een goede infrastructuur en een optimale ‘supply-chain’ dragen bij in kostenreductie. Havens moeten worden vergroot en/of nieuw gebouwd. 
 
-### 4.2  
+### 4.2 
 
 ####De R&D activiteiten
 
@@ -11498,17 +11070,17 @@ Nieuwe schepen en equipment zijn nodig die grotere turbines en fundaties sneller
 
 5. Onderzoek naar betere infrastructuur (incl. havens) en logistieke keten.   
 
-### 5  
+### 5 
 
 ####Beheer en Onderhoud
 
-### 5.1  
+### 5.1 
 
 ####Het belang
 
 Circa een kwart van de kosten van offshore windenergie zijn gerelateerd aan het beheer en onderhoud van windparken. Beheer en onderhoud staat nog in de kinderschoenen. Dit vormt een belangrijk aangrijpingspunt in het verlagen van de kosten. Veel grote en kleine Nederlandse MKB bedrijven zijn actief op dit gebied, of willen dat worden. Ook de Nederlandse kennisinstellingen zijn actief op dit gebied en hebben een goede kennispositie. Ook kan door effectief onderhoud de beschikbaarheid van windturbines verder worden opgevoerd wat direct leidt tot hogere productie en lagere Cost of Energy. Design for maintenance (redundantie, betrouwbaarheid) maar ook control strategies die partiële operatie van een turbine toestaan verhogen de productie van een park. 
 
-### 5.2  
+### 5.2 
 
 ####De R&D activiteiten
 
@@ -11520,361 +11092,59 @@ Circa een kwart van de kosten van offshore windenergie zijn gerelateerd aan het 
 
 4. Organiseren van O&M bases in Nederlandse havens, in samenspraak met lijn 1: onderzoek naar kunstmatige werkeilanden op zee, clusteren van onderhoudsbasis zoals nu al gebeurt in Esbjerg.   
 
-### Bijlage 4.2.13 
-
-####, behorende bij artikel 4.2.92  van de Regeling nationale EZ-subsidies
-
-####Programmalijnen EnerGO: compacte conversie en opslag
-
-### 1  
-
-####Doelstelling TKI EnerGO
-
-EnerGO projecten dienen bij te dragen aan het (versneld) bereiken van de energiebesparingsdoelstellingen voor de gebouwde omgeving: 
-
-– Halvering van het totale energiegebruik in de gebouwde omgeving in 2035  
-
-– Energie neutrale gebouwde omgeving medio deze eeuw.  
-
-– Energie neutrale nieuwbouw (woningbouw en utiliteit) in 2020   De tenderregeling stimuleert doorbraken gericht op deze energiedoelen in combinatie met het creëren van additionele economische activiteit en groei van werkgelegenheid. Primaire aandacht gaat uit naar de warmte en koude oplossingen in de bestaande bouw (woningen + utiliteit) omdat de impact daarvan het hoogst is. 
-
-### 2  
-
-####TKI EnerGO programmalijnen en de focus van deze tender
-
-Om een energieneutrale gebouwde omgeving mogelijk te maken is het noodzakelijk dat de energievraag in gebouwen wordt gereduceerd en dat duurzame energiebronnen zo effectief en efficiënt mogelijk worden ingezet. Om aan de warmte/koude vraag die resteert na verhoging van de energie-efficiëntie zo effectief en duurzaam mogelijk te voldoen, zijn *compacte* *warmtepompen* een essentieel onderdeel van het toekomstige energiesysteem. Daarnaast is essentieel voor energieneutraliteit gedurende het hele jaar op gebiedsniveau, het opvangen van het tijdverschil in de vraag en het aanbod van duurzame energie. Lokale *compacte thermische opslag* van een overschot aan duurzame energie maakt het mogelijk om te voorzien in de thermische vraag op momenten dat de vraag hoger is dan het beschikbare aanbod. Daarbij ontlasten lokale oplossingen voor energieopslag het elektriciteitsnetwerk. Vooral in de bestaande bouw vraagt het behalen van energieneutraliteit om nieuwe technologieën en systeemoplossingen. Deze tender richt zich specifiek op *thermische energie* (warmte/koude); en dan met name op oplossingen voor *compacte conversie (warmtepompen) en (compacte) opslag* en inpassing (fysiek & energiesysteem) hiervan in installatiecomponenten, gebouwen en gebied om daarmee *energieneutraliteit* op gebiedsniveau te realiseren, niet alleen op jaarbasis, maar ook momentaan. Projecten die passen binnen deze tender ondersteunen: 
-
-* een verhoogde inzet van effectieve PV- en zonthermische systemen;  
-
-* maximale benutting van eigen duurzame energie productie achter de meter (in verband met mogelijke toekomstige begrenzingen van de salderingsmogelijkheden);  
-
-* het voorkomen van onbalans in energienetten;  
-
-* een beperking van de dimensionering van installaties (of componenten daarbinnen door extreme vraag af te vangen);  
-
-* een beperking van de dimensionering van elektriciteits- en warmtenetwerken (en daarmee een verlaging van upgradekosten); mogelijk geleidelijke uitfasering van het gasnet in een gebied (en daarmee renovatiekosten beperken) bij teruglopende beschikbaarheid van gas in de komende decennia.   Hieronder worden de vijf lijnen van TKI EnerGO genoemd, daarna wordt de focus van deze tender nader aangegeven. ![254116](http://wetten.overheid.nl/Illustration/254116)
-figuur 1: programmalijnen TKI EnerGO  
-
-| Lijnen in TKI-EnerGO  |
-|:---|
-|  *1. De ‘warmtebatterij’ is de integratie van Duurzame Compacte Conversietechnologie en Compacte Opslag.*   |
-|  *Onderdeel van deze tender.* In het verleden waren dit twee afzonderlijke programmalijnen die nu zijn geïntegreerd in een programmalijn.  De focus ligt op :  a) duurzame compacte conversie, met name kleine, hoog efficiënte componenten en warmtepompen geschikt voor bestaande bouw. De oplossingen moeten inpasbaar zijn in bestaande woningen en utiliteitsbouw. Belangrijk is ook de regeling in samenhang met andere onderdelen van het lokale energiesysteem, in het bijzonder compacte thermische opslag.  Specifieke prestaties die verbeterd moeten worden zijn de:  – efficiency van de conversietechnieken  – afmetingen van installaties (compactere systemen zijn essentieel voor inpassing in de gebouwde omgeving)  – geluidsniveaus van installaties (in woningen moeten installaties niet hoorbaar zijn)  – onderhoudsfrequentie van installaties (betrouwbare technieken en lagere onderhoudskosten maken de business case voor de toepassingen interessanter)  – efficiënte bereiding van warm tapwater  Mogelijke benaderingen hiervoor kunnen zich richten op de toepassing van magnetocalorische materialen, microchannels en nanofluids. Daarnaast kunnen er onderdelen in het voorstel zijn die zich meer richten op het optimaliseren van bestaande warmtepompen als eerste stappen naar producten op basis van principes waarmee prestaties zoals hierboven beschreven verder verbeterd kunnen worden.  b) compacte verliesvrije thermische opslag, met name materialen, componenten (waaronder warmtewisselaars) en reactoren voor thermochemische opslag geschikt voor bestaande bouw. Belangrijk is ook de regeling in samenhang met andere onderdelen van het lokale energiesysteem, in het bijzonder compacte warmtepompen.  Specifieke zaken die verbeterd moeten worden zijn:  – het vergroten van de opslagdichtheid  – het verkorten van de laadtijd  – het verlagen van de laadtemperatuur  – het verhogen van de ontlaadtemperatuur  – het verlengen van de levensduur / stabiliteit van systemen vergroten  – de mogelijkheid om momentaan de energetische beladingsgraad te bepalen op basis van bestaande sensoring technieken  – de capaciteit/vermogen ratio.  In ieder geval wordt een lijn van werken verwacht aan systemen op basis van hydratatie van zouten. Daarnaast kunnen er onderdelen in het voorstel zijn die zich meer richten op het optimaliseren van bestaande producten voor compacte opslag als eerste stappen naar producten of systemen op basis van principes waarmee prestaties als boven bedoeld verder verbeterd kunnen worden (bijvoorbeeld PCM toepassingen).  c) De integratie van aspecten van onderdeel a) en b)  |
-|  *2. Compacte Opslag (dit is nu geïntegreerd in programmalijn 1)*   |
-| --- |
-|  *3. Regeling Energieprestatie en Control*   |
-|  *Niet* in deze tender.  |
-| --- |
-|  *4. Multifunctionele bouwdelen*   |
-|  *Niet* in deze tender.  |
-| --- |
-|  *5. Energieopwekking, distributie en opslag op gebiedsniveau*   |
-|  *Niet* in deze tender.  |
-
-Ontwikkelingen zijn niet alleen gericht op componenten, maar ook op de uiteindelijke totale systemen, producten en diensten. Projecten mogen bijdragen aan één of meerdere van de onderdelen 1a, 1b of 1c. 
-
-### 3  
-
-####Kenmerken van een programmatische aanpak
-
-Bij de beoordeling van voorstellen worden in deze tender extra punten toegekend indien het CCO-project beter tegemoet komt aan de programmatische aanpak (zie artikel 2.4.22.7 lid 1 onderdeel e van de hoofdtekst van deze regeling). Dit extra aantal punten is maximaal 5 en is hoger naarmate een programma meer van de hieronder beschreven kenmerken heeft. Voor het gemak wordt in deze bijlage over een ‘Programma’ gesproken indien het CCO-project de onderstaande kenmerken van de programmatische aanpak in zich heeft. Voorstellen die niet voldoen aan de programmatische aanpak missen de extra punten die gelden voor een programma, maar worden wel degelijk opgenomen in de uiteindelijke ranking. Voor alle CCO-projecten geldt dat de activiteiten en begroting volledig uitgewerkt dienen te worden. Onder een Programmatische aanpak (of programma) wordt hier verstaan: het ontwikkelen en uitvoeren van een meerjaren*programma* / roadmap waarin partijen zich committeren aan onderzoeks- en ontwikkellijnen voor nieuwe materialen, componenten & apparaten en systemen die compacte conversie en opslag van thermische energie in de gebouwde omgeving mogelijk maken. Het meerjarenprogramma / de roadmap richt zich op innovaties voor alle drie de hierboven genoemde onderdelen 1a, 1b en 1c. Een Programma kenmerkt zich door een samenhangende aanpak waarin de consortiumleden: 
-
-– samenwerken aan de uitvoering van een gemeenschappelijke roadmap en het actueel houden van de roadmap (zie paragraaf 3.1);  
-
-– samenwerken aan pre-competitieve en ketengeïntegreerde onderdelen, toegang regelen tot elkaars faciliteiten voor het betreffende programmadeel, informatie delen en activiteiten afstemmen (zie paragraaf 3.2);  
-
-– een besluitvormingsproces opnemen in haar aanpak voor inhoudelijke afstemming omtrent het programma / de roadmap en voor eventuele toetreding en uittreding van consortiumleden (zie paragraaf 3.3);  
-
-– toezeggingen doen over zowel de financiële bijdrage alsmede de inzet van kennis die onderzoeksorganisaties opdoen in programmagerelateerde activiteiten (paragraaf 3.4 en 3.5).   De bovengenoemde kenmerken van een programmatische aanpak worden hieronder nader toegelicht. Herkenbaarheid en hardheid van deze kenmerken in het voorstel versterken het programmatische karakter. 
-
-### 3.1  
-
-####Een programma op basis van een ‘product roadmap’
-
-Een *roadmap* is een gestructureerde aanpak waarbij, op basis op een marktgerichte en prestatiegedreven visie, ontwikkelpaden, productinnovaties en onderzoeksprogramma’s worden gedefinieerd om tegemoet te komen aan prestatie-eisen die volgen uit de visie. De routekaart beschrijft (zie figuur 3): 
-
-– de ontwikkeling van prestatie-eisen / markteisen in de tijd (op basis van een marktvisie);  
-
-– ontwikkelpaden, productinnovaties en concepten waarmee tegemoet gekomen wordt aan de prestatie-eisen;  
-
-– het actieprogramma met de benodigde research op het gebied van materialen, componenten, apparaten en systemen om de productinnovaties met gewenste specificaties te kunnen realiseren.   Kenmerkend voor de aanpak is de prestatiegedreven werkwijze waarbij de diverse belanghebbenden en experts de routekaart uitwerken en visualiseren. Het consortium ontwikkelt op basis van een uitwerking van de visie die ten grondslag ligt aan deze tender een specificatie van prestatie-eisen, gewenste productinnovaties met bijbehorende ontwikkelpaden en business cases. Dit mondt uit in het (jaarlijks) actieprogramma van het consortium (zie figuur 2). ![254117](http://wetten.overheid.nl/Illustration/254117)
-figuur 2: proces voor een ‘product roadmap’ De prestatie-eisen en gewenste productinnovaties met bijbehorende benodigde onderzoek wordt vastgelegd in een regelmatig te actualiseren (product) roadmap (zie figuur 3). ![254118](http://wetten.overheid.nl/Illustration/254118)
-figuur 3: opbouw van een ‘product roadmap’ 
-
-### 3.2  
-
-####Een programma heeft pre-competitieve en ketengeïntegreerde onderdelen
-
-Het programma omvat in ieder geval de volgende 2 typen samenwerking: 
-
-* precompetitief onderzoek waarbij meerdere bedrijven binnen 1 schakel in de keten kunnen samenwerken;  
-
-* onderzoek waarbij bedrijven uit verschillende schakels in de keten samenwerken.   ![254119](http://wetten.overheid.nl/Illustration/254119)
-Afstemming tussen activiteiten, gezamenlijke kennisopbouw, kennisuitwisseling en het delen van onderzoeksfaciliteiten zijn essentieel om te komen tot een efficiënt en effectief onderzoeks- en innovatieprogramma. 
-
-### 3.3  
-
-####Governance
-
-Alle deelnemers in het programma zijn vertegenwoordigd in een toezichtsraad die ondermeer de volgende taken en bevoegdheden heeft: 
-
-* ziet toe op de organisatie en het besluitvormingsproces van het consortium.  
-
-* ontwikkelt de visie en actualiseert en stelt jaarlijks het kader voor de deelprogramma’s vast (Warmtepompen en Opslag);  
-
-* stelt eenmalig een protocol vast voor toe- en uittreding  
-
-* besluit over de hoogte van de toetredingsprijs en de jaarlijkse cash bijdrage van bedrijven per deelprogramma.   Voor elk van de deelprogramma’s (Warmtepompen en Opslag) zal er een deelprogrammacommissie uit de deelnemers worden gevormd die ondermeer jaarlijks het deelprogramma actualiseert en toeziet op de uitvoering daarvan. Indien er gedurende de uitvoering van het programma wijzigingen / aanpassingen nodig zijn in het programma, dan stemt de penvoerder de herverdeling van de financiële middelen (in cash en in kind) af met het consortiumleden en met de subsidieverlener. Ook besluiten over toe- en uittreding van consortialeden worden via de penvoerder afgestemd met de subsidieverlener. 
-
-### 3.4  
-
-####Eigen en financiële bijdragen van bedrijven
-
-Het programmavoorstel dient een sluitende begroting te hebben voor de opgenomen activiteiten. Ook moet per consortiumlid duidelijk zijn hoeveel deze bijdraagt (in cash en in kind) aan het programma. Voor bedrijven zal de bijdrage aan het programma minimaal bestaan uit een substantiële inbreng in cash (waarbij verschil gemaakt mag worden tussen de bijdrage van grote ondernemingen en MKB bedrijven). 
-
-### 3.5  
-
-####Relevante gerelateerde inzet van onderzoeksorganisaties
-
-Deelnemende onderzoeksorganisaties dienen tijdens de uitvoering van het programma aantoonbaar voldoende relevante kennis te ontwikkelen via substantiële aan het programma gerelateerde projecten of programma’s. Dit dient zichtbaar gemaakt te worden door in het projectplan aan te geven aan welk substantiële en relevante activiteiten de betrokken onderzoeksorganisaties zich reeds hebben gecommitteerd voor de komende jaren. Per activiteit dient helder te zijn: 
-
-a. wat de inhoudelijke focus is van het gerelateerde programma of project;  
-
-b. wat de looptijd is van de betreffende programma’s of projecten;  
-
-c. wat de programma of projectenkosten zijn voor de organisatie.   Uitgangspunt voor een substantiële bijdrage in de context van het programma voor TNO en ECN is een eigen speurwerkprogramma in gerelateerd onderzoek. Voor Universiteiten geldt als uitgangspunt voor een relevante bijdrage vanuit gerelateerde kennistrajecten de inzet van promovendi/postdocs, gefinancierd vanuit een 1<sup>e</sup> of 2<sup>e</sup> geldstroom (zoals NWO, STW, FOM) in voor dit Programma relevante promotie- en/of postdoc-programma’s. Voor andere kennisinstellingen geldt als uitgangspunt dat zij jaarlijks een substantiële hoeveelheid aan algemene kennismiddelen inzetten in relevante en gerelateerde kennisontwikkeling. De partijen dienen in het projectvoorstel aan te geven in hoeverre de kennis uit deze gerelateerde projecten en programma’s daadwerkelijk beschikbaar is voor het programma en/of er beperkingen gelden op het delen van kennis in verband met afspraken rond het intellectuele eigendom (IP). 
-
-### Bijlage 4.2.14 
-
-####, behorende bij artikel 4.2.99  van de Regeling nationale EZ-subsidies
-
-####Programmalijnen Smart grids
-
-De ambitie van het TKI S2SG is het realiseren van een significant (15%-30%) flexibeler energiesysteem door innovaties in 1) energiemanagementsystemen gericht op energie- consumenten, en 2) informatiediensten en control systems gericht op exploitanten van de energie infrastructuur. Dat resulteert in energiebesparing door bewustwording bij energieconsumenten, grote investeringsbesparingen in de energie infrastructuur en nieuwe omzet uit ‘flexibilisering’ voor nieuwe, opkomende, en ‘veranderende’ energiebedrijven. TKI S2SG zet daarbij in op het ontwikkelen van een ecosysteem waarin bedrijven, kennisinstellingen en overheden samenwerken aan zowel technisch-economische als socio-economische aspecten van smart grids. De kracht van Nederland ligt bij het innoveren op systeemniveau, het werken aan oplossingen die passen in het grotere geheel en het maken van afspraken over hoe dat dan moet (standaardisatie). Een belangrijk aandachtspunt hierbij is opschaling. De TKI S2SG programmalijnen zijn op bovenstaande gericht: het faciliteren van innovaties in de ontsluiting van flexibiliteit in het energiesysteem. De innovaties zullen zorgen voor het ontstaan van product- en marktcombinaties voor energieconsumenten en voor bedrijven. De programmering van het TKI S2SG bestaat uit twee programmalijnen, die ieder weer zijn onderverdeeld in een drietal speerpunten. Projecten dienen gericht te zijn op de speerpunten binnen één programmalijn. Een project kan zich niet op meer dan één programmalijn richten. In de programmalijnen gaat het om innoveren en waarde creëren in de keten (waarbij elke stap/ product/dienst in de keten exportmogelijkheden biedt): van toeleveranciers naar leveranciers van systeemflexibiliteitdiensten naar energieconsumenten (programmalijn 1) en van toeleveranciers naar leveranciers van energie-infrastructuur-flexibiliteit-diensten naar exploitanten van de energie- infrastructuur (programmalijn 2). Zie figuur 1 met de programmalijnen in de keten. ![254120](http://wetten.overheid.nl/Illustration/254120)
-Figuur 1: de programmalijnen in de keten 
-
-### Programmalijn  1  
-
-####Energiemanagement voor flexibiliteit in het energiesysteem
-
-In 2020 gebruikt een substantieel aandeel van de energieconsumenten smart grids diensten die flexibiliteit ontsluiten. Daarmee zal ook een deel energie kunnen worden bespaard. Deze lijn gaat bijvoorbeeld over de product/markt combinaties: energiemanagementsystemen, software voor peak shaving, energievraag en -aanbod, ‘smart charging’ van elektrische auto’s. De speerpunten van programmalijn 1: 
-
-– beter benutten bestaande infrastructuur en lokale energieopslag;  
-
-– integreren van decentrale duurzame productie;  
-
-– beheersen van energiestromen (energiemanagement).   Kenmerken van deze programmalijn: 
-
-– producten betreffen het (near) real time managen van de energievraag (demand response) voor klein, middelgrote en grootverbruikers en het managen van gedecentraliseerd aanbod op verschillende schaalgroottes, beiden in combinatie met het benutten van opslag en conversie. Naast technologie is de aandacht ook gericht op de inrichting van Lokale, Regionale, Nationale en Internationale markten die deze flexibiliteit ondersteunen;  
-
-– eindproducten worden geleverd aan energieconsumenten.   
-
-### Programmalijn  2  
-
-####Informatie en control systems voor flexibiliteit in de energie-infrastructuur.
-
-Het doel van deze programmalijn is de kosten van netwerkaanpassingen voor de integratie van duurzame energie substantieel te reduceren en het ondersteunen van de totstandkoming van nieuwe dienstverlening voor tientallen (MKB) bedrijven. Deze lijn richt zich op bijvoorbeeld de product/marktcombinaties: ICT platformen, informatiesystemen, meet- en regelsystemen, sensors, slimme meter datamanagement, markt control mechanisme, slimme kabels, smart inverters, software voor ‘dynamic billing’. De speerpunten van programmalijn 2: 
-
-– beschikbaar stellen of leveren van informatie en datamanagement;  
-
-– inzetten van prijsmechanismen en dynamische verrekeningen;  
-
-– flexibiliseren van de energie infrastructuur.   Kenmerken van deze programmalijn: 
-
-– producten betreffen inzicht geven in de toestand van de infrastructuren, beschikbaar stellen van informatie uit de infrastructuren en flexibeler omgaan met de infrastructuur zelf;  
-
-– eindproducten worden geleverd aan exploitanten van de energie infrastructuur.   
-
-####Essentiële randvoorwaarden voor projecten in het programma
-
-Over de programmalijnen heen is een aantal essentiële aandachtspunten gedefinieerd die richting geven aan de innovaties in de programmalijnen. Projecten zullen aandacht moeten besteden aan zoveel mogelijk van deze aandachtpunten: schaalbaarheid, standaardisatie, privacy en security, wet- en regelgeving, markten, business- en verdienmodellen, tools en modellen voor systeemintegratie. 
-
 ### Bijlage 4.2.15 
 
-####, behorende bij artikel 4.2.106  van de Regeling nationale EZ-subsidies (programmalijnen energiebesparing industrie: early-adopter projecten)
+####, behorende bij artikel 4.2.106  van de Regeling nationale EZ-subsidies
 
-De doelstelling van de regeling is het ondersteunen van Early Adopter Projecten (EAP’s) voor energiebesparende technologieën met MKB-ondernemingen als technologieleveranciers dan wel met een consortium van een onderzoeksorganisatie die als technologie-eigenaar (IP leverancier) optreedt en een MKB-onderneming die deze technologie wil vermarkten. De projecten vallen binnen de scope van de hieronder genoemde vier programmalijnen van de TKI ISPT gericht op verbetering van de industriële energie efficiency: Omzetting & Scheiding, Utilities en Control, Ontwateren en Drogen en Proces/Systeem analyse en ontwerp. ![254121](http://wetten.overheid.nl/Illustration/254121)
+(Programmalijnen energiebesparing industrie: early adopter projecten) De doelstelling van de regeling is het ondersteunen van Early Adopter Projecten (EAP’s) voor energiebesparende technologieën met MKB-ondernemingen als technologieleveranciers dan wel met een consortium waarin een onderzoeksorganisatie die als technologie-eigenaar (IP leverancier) optreedt en een MKB-onderneming die deze technologie wil vermarkten. De projecten vallen binnen de scope van de hieronder genoemde zes programmalijnen van het TKI ISPT gericht op verbetering van de industriële energie efficiency. 
 
-####Omzetting en scheiding
+####Programmalijnen
 
-* Efficiënte verbrandings- en oventechnologie.  
+1. Nieuwe generatie scheidingstechnologie  
 
-* Energie efficiënte scheidingstechnologie (energiegebruiksvermindering> 50%).  
+2. Intensiveren van processen en optimaliseren van warmte- en stofoverdracht  
 
-* Geavanceerde reactor en procesintensificatietechnologie.  
+3. Energie-efficiënte manier van gasscheiding en gasbehandeling  
 
-* Nieuwe procesroutes.   
+4. Winnen van waardevolle componenten uit waterstromen, en ontwikkelen van alternatieven voor huidige energie-intensieve behandelingsmethoden zoals verdamping  
 
-####Utilities en control
+5. Nieuwe generatie warmtegebruik systemen  
 
-* Systemen en technologieën voor een duurzame (lokale) energie/warmtehuishouding in processen, warmteterugwinning en restwarmtebenutting.  
+6. Betrouwbare, rendabele, energiezuinige droog- & ontwateringprocessen   Hieronder een korte beschrijving van deze programmalijnen. 
 
-* Multifuel concepten.  
+1) *Nieuwe Generatie scheidingstechnologie:* Door het toepassen van andere scheidingsprincipes waarbij geen fasetransitie meer plaats vindt, is een nog grotere energiebesparing mogelijk. Te denken valt aan affiniteitsscheidingen (extractie, adsorptie, absorptie) en de toepassing van membranen. Voor grootschalige toepassing van deze technologieën in de industrie is onderzoek en ontwikkeling noodzakelijk. Maar ook het uitwerken van retrofittable innovatieve technologieën, zoals een nieuwe generatie kolominternals en geïntegreerde destillatiekolommen zijn van belang in deze programmalijn. 
 
-* Geavanceerde procesbesturing gericht op maximale energie efficiëntie met behoud van betrouwbare operatie en productspecificatie, ook voor toekomstige gedistribueerde productieprocessen.   
+2) *Intensiveren van processen en optimaliseren van warmte- en stofoverdracht:* Procesintensivering (PI) adresseert uitdagingen door de conceptualisering, verkenning en ontwikkeling van nieuwe innovatieve technologieën die leiden tot efficiëntere processen en/of een efficiëntere procesvoering. PI heeft een synergistische connectie met integraal procesontwerp (*PSE: Process Systems Engineering*) en geavanceerde procescontrole (*APC: Advanced Process Control*) die zich richten zich op de optimalisatie van het procesontwerp en de beheersing van deze processen (mogelijk ook over de keten heen). 
 
-####Ontwateren en drogen
+3) *Energie-efficiënte manier van gasscheiding en gasbehandeling:* Binnen deze programmalijn wordt er aan nieuwe gasscheidingstechnologieën gewerkt om het energieverbruik van geselecteerde processen met 30% te verminderen. De nadruk ligt op fysische scheidingsmethoden, waarbij overall chemische reacties géén overwegende rol spelen. Binnen deze programmalijn wordt aan 3 thema’s gewerkt; 1) Methaanplatform; verwijdering van verontreinigingen en terugwinning van waardevolle bestanddelen uit bio- en stortgassen alsmede aardgas van fossiele oorsprong is een belangrijk onderdeel in de productie van pijplijn kwaliteit methaan. De verwijdering van zure gassen en in de toekomst ook van inerte bestanddelen, speelt hierbij een vooraanstaande rol, 2) H<sub>2</sub> zuivering en synthesegas conditionering; productie van 'groene' H<sub>2</sub> met een hoge zuiverheid en een lage CO<sub>2</sub>-uitstoot, en de samenstelling van een synthesegas passend te maken voor verder gebruik. Het voorkomen van tussendoor afkoelen en weer opwarmen van de gasstromen dient te leiden tot toename van de energie-efficiency, 3) Waardecreatie uit industriële gassen; terugwinning van waardevolle componenten uit lage druk gasstromen die nu slechts gebruikt worden voor de calorische waarde. 
 
-* Droogprocessen met 50% minder energiegebruik met gelijktijdige verbetering van productkwaliteit. Technologieën voor energie efficiënte behandeling van geconcentreerde, vaak hoog viskeuze processtromen.   
+4) *Winnen van waardevolle componenten uit waterstromen, en ontwikkelen van alternatieven voor huidige energie-intensieve behandelingsmethoden zoals verdamping:* Er wordt gezocht naar technologieën die resulteren in het meer winnen c.q. terugwinnen en hergebruiken van waardevolle producten en energie uit waterstromen in de procesindustrie. Tevens gaat het om efficiënter (her)gebruik van materialen en water, het zoveel mogelijk sluiten van interne kringlopen (inclusief de waterkringloop) en om schonere c.q. sterk in omvang gereduceerde afvalstromen, zoals bijvoorbeeld aangeboden aan rioolwater zuiveringsinstallaties. 
 
-####Proces/Systeem analyse en ontwerp
+5) *Nieuwe generatie warmtegebruik systemen:* Nieuwe technologieën voor efficiëntere productie van warmte; met name voor de rol die industriële WKK’s nu hebben en het mogelijk maken van (diepe) geothermie. En technologieën voor hergebruik van restwarmte. Hierbij wordt gedacht aan technologieën die dit op een brede schaal mogelijk maken , aan innovatieve warmtepomp technologieën en technologieën die restwarmte kunnen omzetten in proceswarmte, koude, elektriciteit of producten. 
 
-* Analyse en ontwerp van processen en systemen die leiden tot een doorbraak in efficiënter energie- en grondstoffenverbruik. Deze kennis uit processen geeft richting aan technologische en niet technologische innovaties.  
+6) *Betrouwbare, rendabele, energiezuinige droog- & ontwateringprocessen:* De programmalijn richt zich op droogprocessen met 20-50% minder energieverbruik met gelijktijdige verbetering van de productkwaliteit. Het gaat met nadruk om technologieën die droogstappen vermijden, dan wel sterk verkleinen.    *De EAP’s hebben als doelstelling om:*  
 
-* Het opheffen van barrières voor het toepassen van nieuwe technologieën.   De EAP’s hebben als doelstelling om: Gebruik te maken van het vermogen van MKB-bedrijven om nieuwe procestechnologische kennis te genereren en deze om te zetten in succesvolle en implementeerbare technologieën en producten. Kleine en middelgrote hoogtechnologische bedrijven spelen een cruciale rol in het snel omzetten van kennis in nieuwe commerciële processen. Het maximaliseren van de toepassing van bestaande (technologische) oplossingen door technologieleveranciers bij projecten te betrekken. Early Adopter Projecten zijn toepassingsgericht: Kleinschalige testen in reële stromen bij bijvoorbeeld partnerbedrijven van TKI-ISPT (Institute for Sustainable Process Technology), NL GUTS (Netherlands Group of Users of Technology for Separation) of PIN NL (Process Intensification Network) of NWGD (Nederlandse Werkgroep Drogen) om inzicht te krijgen in de technologische levensvatbaarheid van procestechnologie of procestechnologische concepten, bij voorkeur in nieuwe toepassingsgebieden. De regeling stimuleert doorbraken gericht op deze energiedoelen in combinatie met het creëren van additionele economische activiteit en groei van werkgelegenheid. Er wordt gekeken naar vier aspecten; bijdrage duurzaamheid, innovativiteit, economische potentie en projectkwaliteit. 
+* Gebruik te maken van het vermogen van MKB ondernemingen om nieuwe procestechnologische kennis te genereren en deze om te zetten in succesvolle en implementeerbare technologieën en producten. Kleine en middelgrote hoogtechnologische bedrijven spelen een cruciale rol in het snel omzetten van kennis in nieuwe commerciële processen.  
 
-### 1  
+* Het maximaliseren van de toepassing van bestaande (technologische) oplossingen door technologieleveranciers bij projecten te betrekken.   Early adopterprojecten zijn toepassingsgericht: Kleinschalige testen in reële stromen bij bijvoorbeeld partnerbedrijven van TKI-ISPT (Institute for Sustainable Process Technology), NL GUTS (Netherlands Group of Users of Technology for Separation) of PIN NL (Process Intensification Network) of NWGD (Nederlandse Werkgroep Drogen) om inzicht te krijgen in de technologische levensvatbaarheid van een technologie of procestechnologische concepten, bij voorkeur in nieuwe toepassingsgebieden. De regeling stimuleert doorbraken gericht op deze energiedoelen in combinatie met het creëren van additionele economische activiteit en groei van werkgelegenheid. Het voorstel zal worden beoordeeld op de volgende 4 aspecten: 1) Bijdrage duurzaamheid, 2) Economische potentie, 3) Innovativiteit, 4) Projectkwaliteit (inclusief kennisverspreiding en consortiumvorming); 
 
-####Bijdrage duurzaamheid
+1. Bijdrage duurzaamheid De projecten dienen bij te dragen aan het (versneld) bereiken van de energiebesparingsdoelstellingen voor de procesindustrie: 30% reductie van industrieel energieverbruik en broeikasgasemissies. Ook is het herhalingspotentieel van belang: de technologie en of ontwikkelde kennis dienen breed toepasbaar te zijn, zodat een grote energiebesparing kan worden gerealiseerd bij het uitrollen in de markt. Naast de directe besparing in een specifiek productieproces kan de technologietoepassing ook besparing of efficiencyverbetering verderop in het proces of productieketen bewerkstellingen dan wel in het proces aanleiding geven tot gebruik van andere (energiebesparende) grondstoffen. Toepassingen die Industriële symbiose mogelijk maken kunnen een directe en/of lange termijn besparing opleveren. Signaleren van deze mogelijkheden en verduidelijking hiervan sterkt tot aanbeveling. 
 
-De projecten dienen bij te dragen aan het (versneld) bereiken van de energiebesparingsdoelstellingen voor de procesindustrie: 30% reductie van industrieel energiegebruik en broeikasgasemissies. Ook is het herhalingspotentieel van belang: de technologie dient breed toepasbaar te zijn, zodat een grote energiebesparing kan worden gerealiseerd bij het uitrollen in de markt. Naast de directe besparing in een specifiek productieproces kan de technologietoepassing ook besparing of efficiencyverbetering verderop in het proces of productieketen bewerkstellingen dan wel voor in het proces aanleiding geven tot gebruik van andere (energiebesparende) grondstoffen. Deze mogelijkheden en verduidelijking hiervan sterkt tot aanbeveling. 
+2. Economische potentie Daarnaast dient het project bij te dragen aan het creëren van economische waarde voor de deelnemers en de Nederlandse economie door:
 
-### 2  
+* de uitbouw van banen en omzet in de procesindustrie en de toeleverende sector; Doelstelling van het TKI is om het aantal banen uit te breiden naar 330.000 waar het niveau van 2013 ongeveer 290.000 is;  
 
-####Innovativiteit
+* nieuwe banen en extra omzet in de toeleverende industrie. Doelstelling van het TKI is om 2000 extra banen te realiseren bij met name MKB-ers, het deelnemen van midden- en klein bedrijf in het project wordt dan ook gezien als positief bij de scoring.  Inventarisatie van het economisch potentieel (bijvoorbeeld extra banen en nieuwe omzet bij de technologie ontwikkelaar, groei bij de eindgebruiker, of export van technologie) maakt deel uit van het project. 
 
-De projecten dienen betrekking te hebben op innovatieve, nieuwe technologie, of wel betrekking te hebben op een innovatieve nieuwe toepassingen in de betrokken sector waarbij de technologie kan worden overgebracht van de ene sector naar de andere ten einde de brede toepasbaarheid verder te ondersteunen. 
+3. Innovativiteit De projecten dienen betrekking te hebben op innovatie, procesefficiëntie en het efficiënter gebruik maken van hulpbronnen. Het toenemen van industriële symbiose kan hier ook een bijdrage aan leveren evenals het terugwinnen en hergebruik van nuttige en waardevolle producten en de opslag en distributie van warmte. Het toepassen binnen verschillende sectoren wordt ondersteund. 
 
-### 3  
+4. Projectkwaliteit 
 
-####Economische potentie
+a) De kwaliteit wordt beoordeeld aan de hand van de kwaliteit van het projectplan en de projectopzet, alsmede van de expertise van de betrokken kennisaanbieders.  
 
-Daarnaast dient het bij te dragen aan het creëren van economische waarde voor de deelnemers en de Nederlandse economie door: 
+b) Ook kennisuitwisseling beschreven in een communicatieplan is een vereiste. Hierin dient te worden aangegeven welke communicatie uitingen worden gedaan en waarom. Denk hierbij aan; publicaties, nieuwsbrieven en deelname aan congressen. Daarnaast kan via kennisnetwerken aandacht aan het project geschonken worden door het organiseren van interactieve bijeenkomsten, het stimuleren van netwerkvorming en het opnemen van de resultaten in een kennisdossier.  
 
-* de uitbouw van banen en omzet in de processing industrie en de toeleverende sector; Doelstelling van het TKI is om het aantal banen uit te breiden naar 330.000 waar het niveau van 2013 ongeveer 290.000 is;  
-
-* nieuwe banen en extra omzet in de toeleverende industrie. Doelstelling van het TKI is om 2000 extra banen te realiseren bij met name MKB-ers.   Inventarisatie van het economisch potentieel (bijvoorbeeld extra banen en nieuwe omzet bij de technologie ontwikkelaar, groei bij de eindgebruiker, of export van technologie) maakt deel uit van het project. 
-
-### 4  
-
-####Projectkwaliteit
-
-De kwaliteit wordt beoordeeld aan de hand van de kwaliteit van het projectplan en de projectopzet, de expertise van de betrokken partijen. Een brede vertegenwoordiging van meerdere eindgebruikers is een voorwaarde. Ook kennisuitwisseling van projectresultaten naar de sector of via bijvoorbeeld kennisnetwerken zoals het TKI-ISPT, NL GUTS, PIN NL of NWGD is een vereiste, omdat dit een brede verspreiding van de technologie kan bevorderen. Via het betrokken kennisnetwerk wordt aandacht aan het project geschonken door het organiseren van interactieve bijeenkomsten, het stimuleren van netwerkvorming, het opnemen van de resultaten in een kennisdossier. 
-
-### Bijlage 4.2.16 
-
-####, behorende bij artikel 4.2.112  van de Regeling nationale EZ-subsidies (programmalijnen energiebesparing industrie: pilotprojecten)
-
-Het doel van de pilotprojecten is om in een samenwerkingsverband de brug te vormen tussen onderzoek, ontwikkeling en het uitrollen van een energiebesparende technologie in de industrie. Het TKI-ISPT zoekt voor deze tender grootschalige pilotprojecten van mogelijke kansrijke innovatieve procestechnologie, die kunnen resulteren in een aanzienlijke energiebesparing. Omdat alleen technologieën die breed toepasbaar zijn in aanmerking komen, vanwege het grotere besparingspotentieel, wordt verwacht dat bedrijven deze pilotprojecten in een samenwerkingsverband uitvoeren. De projecten dienen te vallen binnen Technology Readyness Level (TRL) 6: het testen van een representatief prototype in een realistische omgeving. Met name voor industriële procestechnologie brengt de stap van opschaling naar industriële schaal extra ontwikkelingsvragen met zich mee. In de pilotprojecten worden deze aspecten uitgewerkt en in de praktijk getoetst, zodat men na afloop de stap kan zetten naar een full scale demonstratie. In deze regeling worden geen full scale demonstratieprojecten ondersteund. De uitvoering van een dergelijk project door meerdere ondernemingen (groot draagvlak) strekt tot groot voordeel evenals een brede disseminatie van de resultaten van het project. Inschakeling van de bij het TKI-ISPT aangesloten partijen en netwerken wordt positief beoordeeld onder het criterium ‘kwaliteit van het project.’ Het programma van het TKI-ISPT omvat vier programmalijnen; Omzetting & Scheiding, Utilities & Control, Ontwateren en Drogen en Proces/Systeem analyse en ontwerp. Deze tender richt zich op de programmalijn Omzetting en Scheiding met hierbinnen specifieke aandacht voor Energy Efficient Bulk Liquid Separation en de programmalijn Utilities en Control. ![254122](http://wetten.overheid.nl/Illustration/254122)
-
-####Utilities en control
-
-* Systemen en technologieën voor een duurzame (lokale) energie/warmtehuishouding in processen, warmteterugwinning en restwarmtebenutting  
-
-* Multifuel concepten  
-
-* Geavanceerde procesbesturing gericht op maximale energie efficiëntie met behoud van betrouwbare operatie en productspecificatie, ook voor toekomstige gedistribueerde productieprocessen   
-
-####Omzetting en scheiding
-
-* Efficiënte verbrandings- en oventechnologie  
-
-* Energie efficiënte scheidingstechnologie (energiegebruiksvermindering> 50%)  
-
-* Geavanceerde reactor en procesintensificatietechnologie  
-
-* Nieuwe procesroutes   De tenderregeling stimuleert doorbraken gericht op deze energiedoelen in combinatie met het creëren van additionele economische activiteit en groei van werkgelegenheid. Aanvragen worden gerangschikt op vier criteria; bijdrage duurzaamheid, innovativiteit, economische potentie en projectkwaliteit. Alle criteria wegen even zwaar. Bij indiening van het projectplan zal duidelijk moeten worden gemaakt hoe het project hier aan bij zal dragen. 
-
-### Criterium  1  
-
-####Bijdrage duurzaamheid
-
-De projecten dienen bij te dragen aan het (versneld) bereiken van de energiebesparingsdoelstellingen voor de procesindustrie: 30% reductie van industrieel energiegebruik en broeikasgasemissies. Ook is het herhalingspotentieel van belang: de technologie dient breed toepasbaar te zijn, zodat een grote energiebesparing kan worden gerealiseerd bij het uitrollen in de markt. Naast de directe besparing in een specifiek productieproces kan de technologietoepassing ook besparing of efficiency verbetering verderop in het proces of productieketen bewerkstellingen dan wel voor in het proces aanleiding geven tot gebruik van andere (energiebesparende) grondstoffen. Deze mogelijkheden en verduidelijking hiervan sterkt tot aanbeveling. 
-
-### Criterium  2  
-
-####Economische potentie
-
-Daarnaast dient het bij te dragen aan het creëren van economische waarde voor de deelnemers en de Nederlandse economie door: 
-
-* de uitbouw van banen en omzet in de processing industrie en de toeleverende sector; Doelstelling van het TKI is om het aantal banen uit te breiden naar 330.000 waar het niveau van 2013 ongeveer 290.000 is.  
-
-* nieuwe banen en omzet in de toeleverende industrie. Doelstelling van het TKI is om 2000 banen te realiseren bij met name MKB-ers.   In het project kan de bijdrage tot uiting komen in bijvoorbeeld extra banen en nieuwe omzet bij de technologie ontwikkelaar, groei bij de eindgebruiker, of export van technologie. Inventarisatie van het economisch potentieel maakt deel uit van het project. 
-
-### Criterium  3  
-
-####Innovativiteit
-
-De projecten dienen betrekking te hebben op innovatieve, nieuwe technologie, of wel betrekking te hebben op een innovatieve nieuwe toepassingen in de betrokken sector waarbij de technologie kan worden overgebracht van de ene sector naar de andere ten einde de brede toepasbaarheid verder te ondersteunen. In het project dient een stap gezet te worden in de ontwikkeling van de technologie van TRL 5 naar TRL 7. Een project wordt positiever beoordeeld indien de faciliteiten na afloop van het project gebruikt kunnen worden voor verder onafhankelijk onderzoek. 
-
-### Criterium  4  
-
-####Projectkwaliteit
-
-De kwaliteit wordt beoordeeld aan de hand van de kwaliteit van het projectplan en de projectopzet, de expertise van de betrokken partijen. Ook kennisuitwisseling van projectresultaten naar de sector of via bijvoorbeeld kennisnetwerken zoals het TKI-ISPT, NL GUTS, PIN NL of NWGD is een vereiste, omdat dit een brede verspreiding van de technologie kan bevorderen. Via het betrokken kennisnetwerk wordt aandacht aan het project geschonken door het organiseren van interactieve bijeenkomsten, het stimuleren van netwerkvorming, het opnemen van de resultaten in een kennisdossier. Doel van de kennisverspreiding is vergroting van het herhalingspotentieel via de gebruikers en systeemleveranciers in de procestechnologie-community en samenwerkende kennisnetwerken. 
-
-### Bijlage 4.2.17 
-
-####, behorende bij artikel 4.2.119  van de Regeling nationale EZ-subsidies (prioriteitsthema’s pv-projecten)
-
-De 2014 tenders in het PV programma van het TKI Solar Energy richten zich op de volgende thema’s: 
-
-### 1.1  
-
-####Wafergebaseerde kristallijn silicium PV technologieën
-
-Ontwikkeling van innovatieve technologieën voor (de productie van) wafergebaseerde silicium PV cellen en panelen. De focus van dit programma ligt op de toepassing van nieuwe materialen, geavanceerde cel- en moduleconcepten (inclusief toepassingspecifieke oplossingen), gerelateerde productieprocessen en -apparatuur en duurzaamheidaspecten zoals ‘*design for recycling*’ en *‘design for sustainbility*’. De belangrijkste ontwikkelingsdoelstellingen voor 2020 van dit gedeelte van het programma zijn: 
-
-####Concurrerende productiekosten
-
-PV panelen die voor minder dan 0,40 €/Wp kunnen worden geproduceerd (indicatief en afhankelijk van wereldwijde ontwikkelingen) die ‘sleutelklare’ PV systemen met een prijs van minder dan 0,8-1,0 €/Wp mogelijk maken en waarmee in Nederland voor minder 0,08-0,10 €/kWh elektriciteit kan worden opgewekt (ter indicatie; mede afhankelijk van kapitaalkosten). 
-
-####Hoog rendement
-
-PV panelen met een hoog omzettingsrendement: 24% voor geavanceerde ontwerpen en 22% voor de laagste kosten per Wp op moduleniveau (d.w.z. niet noodzakelijk op systeemniveau). 
-
-####Duurzaam
-
-PV panelen zonder schaarse materialen, met een levensduur > 25 jaar onder extreme condities en 30-35 jaar onder normale condities, ontworpen om hergebruikt te worden en met een energieterugverdientijd van minder dan 1 jaar. 
-
-####Economisch toegevoegde waarde
-
-Bijdrage aan de verdere ontwikkeling van dit gedeelte van de Nederlandse PV sector in termen van omzet (met name export) en werkgelegenheid. Doelstelling voor de hele sector voor 2020: 2 miljard €, respectievelijk 7.500 f.t.e. 
-
-### 1.2  
-
-####Dunne film PV technologieën
-
-Ontwikkeling van innovatieve technologieën voor (de productie van) dunne film PV panelen. De focus van dit programma ligt op de toepassing van nieuwe materialen, geavanceerde cel- en moduleconcepten (inclusief toepassingsspecifieke oplossingen), gerelateerde productieprocessen en -apparatuur en duurzaamheidaspecten zoals ‘design for recycling’ en ‘design for sustainability’. De belangrijkste ontwikkelingsdoelstellingen voor 2020 van dit gedeelte van het programma zijn: 
-
-####Concurrerende productiekosten en/of nieuwe toepassingen
-
-PV panelen die voor minder dan 0,40 €/Wp kunnen worden geproduceerd (indicatief en afhankelijk van wereldwijde ontwikkelingen) die ‘sleutelklare’ PV systemen met een prijs van minder dan 0,8-1,0 €/Wp mogelijk maken en waarmee in Nederland voor minder 0,08-0,10 €/kWh elektriciteit kan worden opgewekt (ter indicatie; mede afhankelijk van kapitaalkosten). Een alternatief doel is de ontwikkeling van oplossingen voor nieuwe toepassingen met een zeer laag gewicht, mechanische flexibiliteit, semitransparantie, etc. 
-
-####Hoog rendement
-
-PV panelen met een hoog omzettingsrendement: 18% module efficiency voor CIGS panelen, 12% (stabiel) voor dunne film silicium panelen, 8% voor OPV panelen en 12% voor prototype CZTS panelen. 
-
-####Duurzaam
-
-CIGS en dunne film silicium panelen met een levensduur van meer dan 25 jaar en OPV panelen met een levensduur van meer dan 10 jaar, ontworpen om hergebruik van materialen te vergemakkelijken. 
-
-####Economische toegevoegde waarde
-
-Bijdrage aan de verdere ontwikkeling van dit gedeelte van de Nederlandse PV sector in termen van omzet (met name export) en werkgelegenheid. Doelstelling voor de hele sector voor 2020: 2 miljard €, respectievelijk 7.500 f.t.e. 
-
-### 1.3  
-
-####Nieuwe, hybride en generiek toepasbare PV technologieën
-
-Ontwikkeling van innovatieve concepten en technologieën voor (de productie van) PV panelen met een zeer hoog omzettingsrendement gebaseerd op, maar niet exclusief, hybriden van kristallijn silicium en dunne film PV technologieën. De focus van dit programma ligt op de toepassing van nieuwe materialen, de ontwikkeling van innovatieve cel- en moduleconcepten (inclusief 3 of 4 en 2-terminal tandems), gerelateerde productieprocessen en -apparatuur en duurzaamheidaspecten zoals ‘design for recycling’ en ‘design for sustainibility’. Tevens worden in dit programma generiek toepasbare PV technieken ontwikkeld. De belangrijkste ontwikkelingsdoelstellingen voor 2020 van dit gedeelte van het programma zijn: 
-
-####Technisch en economisch haalbaar
-
-‘*Proof of feasibility*’ van PV panelen met een zeer hoog omzettingsrendement (> 25% voor commerciële prototypes) en een ‘*proof of manufacturability*’ van dergelijke PV panelen tegen commerciële kostprijzen. 
-
-####Duurzaam
-
-PV panelen met een zeer hoog omzettingsrendement met een gegarandeerde levensduur van meer dan 25 jaar en ontworpen om hergebruikt te worden. 
-
-####Economische toegevoegde waarde
-
-Bijdrage aan de verdere ontwikkeling van dit gedeelte van de Nederlandse PV sector in termen van omzet (met name export) en werkgelegenheid. Doelstelling voor de hele sector voor 2020: € 2 miljard, respectievelijk 7.500 f.t.e.. NB: dit programma richt zich met name op de periode na 2020 en kan de rol van de eerste twee programma’s dan geleidelijk overnemen. 
-
-### 1.4  
-
-####Applicatieontwikkeling en demonstratie van Nederlandse PV-technologieën
-
-Ontwikkelen en demonstreren van innovatieve PV-producten die voornamelijk zijn gebaseerd op Nederlandse kennis en kunde, zodat deze succesvoller en sneller op de markt kunnen worden gebracht en vóór 2020 (ook in Nederland) geïmplementeerd kunnen worden. Er wordt met name gezocht naar PV-producten die een exportpotentieel hebben. Hierbij is met name de ‘bankability’ van Nederlandse innovaties belangrijk De focus van dit thema ligt op applicatieontwikkeling en demonstratie. 
+c) Een groter aantal deelnemende partners uit verschillende sectoren zal als extra positief worden beoordeeld. Dit alles om een brede verspreiding van de technologie te bevorderen over verscheidene sectoren zowel richting professionals als educatieve instellingen. Als de voorgestelde activiteiten gecombineerd gaan of kunnen worden met soortgelijke activiteiten in buitenlandse netwerken is dit positief.     
 
 ### Bijlage 4.3.1 
 
@@ -12198,137 +11468,3 @@ Bij bijlage 1 van Besluit 2011/278/EU is vastgesteld dat bij bepaalde productiep
 * de relevante indirecte emissies en  
 
 * de som van de totale directe emissies en de relevante indirecte emissies     Overeenkomstig artikel 14 van Besluit 2011/278/EU.
-
-### Bijlage 4.5.1 
-
-####, behorend bij titel 4.5  en 4.6  van de Regeling nationale EZ-subsidies
-
-####Programmalijnen Wind op zee
-
-De activiteiten waarmee het Nederlandse bedrijfsleven en de kennisinstellingen aan de slag gaan om innovaties, nieuwe technieken en werkmethodes te ontwikkelen zijn in het InnovatieContract Wind op Zee ondergebracht in een vijftal innovatiethema’s, te weten: 
-
-1. Ondersteuningsconstructies  
-
-2. Optimalisatie van de windcentrale  
-
-3. Intern elektrisch netwerk en aansluiting op het hoogspanningsnet  
-
-4. Transport, Installatie en Logistiek  
-
-5. Beheer en Onderhoud   Binnen de vijf thema’s is een gebalanceerd portfolio van activiteiten gedefinieerd, die ieder bijdragen aan één of meerdere van de schakels *discovery*, *development* en *deployment* van de innovatieketen. Voor een deel van de activiteiten is de proeftuin essentieel om de innovaties daadwerkelijk te realiseren. 
-### *De proeftuin als essentieel onderdeel van de R&D activiteiten* 
-
-Een proeftuin is een fysieke locatie ergens voor de Nederlandse kust waarbij allerlei nieuw ontwikkelde innovaties, technieken en werkmethodes uitgetest kunnen worden voordat ze echt op grote schaal toegepast zullen worden. Een proeftuin vormt zo een schakel tussen *discovery* en *development* enerzijds en deployment anderzijds. Hiermee wordt een brug geboden over de zogenaamde ‘*valley of death*’ waar veel innovaties in de praktijk op stuk lopen. Wij voorzien een combinatie van de proeftuin met een commercieel demonstratieveld van 200 MW, dat deels wordt gebruikt om uitgeteste technologie te demonstreren. 
-
-### 1  
-
-####Ondersteuningsconstructies
-
-### 1.1  
-
-####Het belang
-
-Nederland heeft sterke spelers met innovatieve productielijnen voor ondersteuningsconstructies van windturbines. Deze bedrijven zijn marktleider, en willen deze positie borgen en verder uitbouwen. Naast het optimaliseren van bestaande ondersteuningsconstructies door middel van de juiste ontwerpmethoden en toepassing van integrale ontwerp- en optimalisatie tools, is kostendaling mogelijk door het ontwerpen van geheel nieuwe typen ondersteuningsconstructies en op het gebied van optimale fabricage door middel van bouwresearch. 
-
-### 1.2  
-
-####De R&D activiteiten
-
-1. Ontwerptools: Ontwikkelen van betere en goedkopere constructies dankzij verbeterde ontwerptools gebaseerd op de nieuwste ‘*state-of-the-art*’ ontwerpstandaarden. De regels en methoden waarmee ondersteuningsconstructies worden ontworpen zijn nog jong en worden regelmatig aangepast en slimmer en sneller gemaakt aan de hand van opgedane ervaringen, terwijl de funderingen steeds grotere en zwaardere turbines moeten dragen. (Langdurige) conditiemonitoring kan ontwerpregels voor vermoeiing en veiligheidsmarges aanscherpen. Het valideren en de certificering kan alleen door met proefopstellingen te testen.  
-
-2. Zee (bodem) onderzoek: Vergaren van meer kennis over ondergrond en golven en hun interactie met de fundering. De modellen waarmee ondersteuningsconstructies worden berekend kunnen verder worden geoptimaliseerd door testen in de proeftuin.  
-
-3. Nieuwe concepten: Ontwerpen en testen van nieuwe concepten, zoals nieuwe varianten (Tripod, SIWT, Twisted Jacket), geïntegreerd ontwerp van fundatie en toren, onderzoek naar slimme verbindingstechnieken zoals slip-joint of gelaste verbinding ter vervanging van grout en toepassing van andere componenten en materialen (composietmaterialen, sandwichconstructies).  
-
-4. Bouwresearch: snelle, efficiënte serieproductie van de ontwerpen, zoals die tevoorschijn komen uit de bovenstaande acties, zowel onshore als offshore, inclusief nieuwe lastechnieken.   
-
-### 2  
-
-####Optimalisatie van de windcentrale
-
-### 2.1  
-
-####Het belang
-
-Een offshore wind park is nog steeds geen wind power station, maar een gecoördineerde samenbouw van componenten met een verschillende achtergrond. Het geïntegreerd ontwerpen op basis van de laagste cost of energy van het geheel in plaats van de ‘eigen’ component staat nog in de kinderschoenen, maar wordt steeds noodzakelijker gezien de toenemende omvang van de centrale en de turbines. De belangrijkste (technische) aspecten hierbij zijn – innovaties gericht op verhoging van de betrouwbaarheid en levensduur van (componenten van) het windpark, -geïntegreerd ontwerpen van turbine plus ondersteuningsconstructie plus netwerk, – optimalisatie van de windcentrale. Dit laatste steunt onder andere op een hogere mate van regelbaarheid van iedere turbine en de afstemming van de turbines op elkaar. Deze ontwerpaspecten zullen ondersteund worden door een geïntegreerde toepassing van meteorologische, aerodynamische, materialen en control-kennis. 
-
-### 2.2  
-
-####De R&D activiteiten
-
-1. Vergaande integratie van de kennis van offshore wind, aerodynamica, dynamica, materialen en regeltechniek  
-
-2. Innovaties van componenten van de windcentrale gericht op een verlaging van de cost of energy.  
-
-3. Vergroten van de betrouwbaarheid en levensduur van de windcentrale, door ‘design for reliability’, en optimalisatie van O&M methodieken  
-
-4. Uitwerken van een nieuwe windparkfilosofie, voor maximale opbrengst en betrouwbaarheid, verbeteren kennis offshore windklimaat   
-
-### 3  
-
-####Intern elektrisch netwerk en aansluiting op het hoogspanningsnet
-
-### 3.1  
-
-####Het belang
-
-Offshore onderstations zijn groot en zwaar en daardoor duur en moeilijk te transporteren en installeren. Qua technologie zijn er allerlei uitdagingen die liggen op het gebied van HVDC, geavanceerde blindstroomcompensatie-apparatuur, DC-schakelapparatuur & vermogenselektronica en elektrotechnische beveiliging en besturing. Beheerders van onderstations en kabels kunnen niet terugvallen op voldoende statistische gegevens waaruit een onderhoudsbeleid en -strategie kan worden afgeleid. Het ontstaan van een offshore netwerk met e-hubs zorgt voor koppeling van offshore windparken en van de Europese markten. Het fluctuerende gedrag van wind wordt steeds meer bepalend voor de energiestromen in het Europese net. Een oplossing hiervoor is het smart transmission grid (of smart super grid), een net waarin op transmissieniveau slimme besturings- en regelmogelijkheden van energiestromen zijn ingebouwd. De combinatie van proeftuin en demonstratieveld zal waarschijnlijk één offshore onderstation kennen. Dat onderstation mag licht, modulair en innovatief zijn, maar moet allereerst bedrijfszeker zijn en veilig. In de proeftuin worden interne kabels tussen de turbines gelegd. Monitoring technieken voor bepalen van locatie en status van de kabel kunnen daar getest worden. Slimme besturings- en regelmogelijkheden op windturbine-, onderstation- en windparkniveau kunnen in de proeftuin getest worden. Of een HVDC verbinding bij de proeftuin toegepast gaat worden hangt o.a. af van de afstand tot de kust. De leverancier van de elektrische infrastructuur van de proeftuin zal gevraagd worden te komen tot een maximale integratie van alle componenten in de elektrische systemen (dus van turbine tot aan het grid). Het is niet te verwachten dat de proeftuin op een interconnector zal aansluiten. 
-
-### 3.2  
-
-####De R&D activiteiten
-
-1. Het ontwerpen van een lichter en modulair offshore onderstation.  
-
-2. Het ontwikkelen van monitoring technieken voor het bepalen van de status van de kabel (partial discharge, trillingsmetingen, temperatuurbewaking, etc.) en ook voor preventie  
-
-3. Smart transmission grid. Het ontwerpen en demonstreren van slimme besturings- en regelmogelijkheden op windturbine-, onderstation- en windparkniveau. Regelbaar maken van HVDC verbindingen / innovatieve voorbereidingen van Net op Zee. Integreren van alle componenten in de elektrische systemen (dus van turbine tot aan het grid)  
-
-4. Ontwerpen en demonstreren van de combinatie van internationale transmissie met een offshore wind park met oog voor technische aspecten, inrichting van elektriciteitsmarkten en aanpassen van regelgeving. Vervolgens initiëren en leiden van standaardisatieactiviteiten die uiteindelijk leiden tot een transnationaal grid en e-hubs op de Noordzee   
-
-### 4  
-
-####Transport, Installatie & Logistiek
-
-### 4.1  
-
-####Het belang
-
-Nieuwe schepen en equipment zijn nodig die grotere turbines en fundaties sneller en bij hogere zeegang installeren. Standaardfundaties zoals monopalen kunnen sneller geïnstalleerd worden, heigeluid moet gereduceerd worden. Ontgronding (scour) moet gecontroleerd plaatsvinden zodat geen steenstorting meer nodig is. Aansluiting van elektriciteitskabels op fundatie / windturbines en het offshore onderstation blijkt regelmatig een uitdaging te zijn. Kabels moeten doeltreffender worden gelegd en ingegraven. Afstemming tussen en vermindering van de componenten die offshore geïnstalleerd moeten worden, en het ontwerp zodanig aanpassen dat de assemblage zoveel mogelijk onshore kan plaatsvinden. Havens moeten worden vergroot en/of nieuw gebouwd. Wellicht is het rendabel extra havens midden in zee te bouwen, ook voor de operationele fase. Een goede infrastructuur en een optimale ‘supply-chain’ dragen bij in kostenreductie. Havens moeten worden vergroot en/of nieuw gebouwd. 
-
-### 4.2  
-
-####De R&D activiteiten
-
-1. Het ontwerpen en uittesten van nieuwe gespecialiseerde schepen en equipment voor installatie en O&M. Bijvoorbeeld schepen voor het vervoeren van complete molens, voor nieuwe fundatietechnieken zoals boren, en schepen die sneller en bij hogere zeegang kunnen installeren.  
-
-2. Het ontwikkelen en testen van sterk verbeterde installatiemethoden van standaardfundaties zoals monopalen; hoger heitempo, geluidsreductie, alternatieve inbrengingsmethoden (boren, trillen), ontwikkeling van methodes voor gecontroleerde ontgronding.  
-
-3. Het ontwikkelen en testen van betrouwbaardere en betere methodes van het ingraven (of boren) én aansluiten van de elektriciteitskabels.  
-
-4. Het verbeteren van de interfaces tussen componenten die offshore geïnstalleerd worden.  
-
-5. Onderzoek naar betere infrastructuur (incl. havens) en logistieke keten.   
-
-### 5  
-
-####Beheer en Onderhoud
-
-### 5.1  
-
-####Het belang
-
-Circa een kwart van de kosten van offshore windenergie zijn gerelateerd aan het beheer en onderhoud van windparken. Beheer en onderhoud staat nog in de kinderschoenen. Dit vormt een belangrijk aangrijpingspunt in het verlagen van de kosten. Veel grote en kleine Nederlandse MKB bedrijven zijn actief op dit gebied, of willen dat worden. Ook de Nederlandse kennisinstellingen zijn actief op dit gebied en hebben een goede kennispositie. Ook kan door effectief onderhoud de beschikbaarheid van windturbines verder worden opgevoerd wat direct leidt tot hogere productie en lagere Cost of Energy. Design for maintenance (redundantie, betrouwbaarheid) maar ook control strategies die partiële operatie van een turbine toestaan verhogen de productie van een park. 
-
-### 5.2  
-
-####De R&D activiteiten
-
-1. O&M en access methodiek uitwerken in concept en toetsen in de praktijk in bestaande parken en de proeftuin, ontwerp van nieuwe stabielere O&M schepen, en hotelschepen voor accommodatie.  
-
-2. Meten, monitoren en voorspellen van slijtage van componenten om gepland onderhoud te doen, en ongepland onderhoud zo veel mogelijk te vermijden.  
-
-3. Verbeteren van betrouwbaarheid van componenten, toevoegen van reserve onderdelen die op afstand ingeschakeld kunnen worden.  
-
-4. Organiseren van O&M bases in Nederlandse havens, in samenspraak met lijn 1: onderzoek naar kunstmatige werkeilanden op zee, clusteren van onderhoudsbasis zoals nu al gebeurt in Esbjerg.   
-

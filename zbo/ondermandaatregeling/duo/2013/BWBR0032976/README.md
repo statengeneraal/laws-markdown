@@ -16,7 +16,7 @@ Besluit:
 
 ####Mandaat voor de uitvoering
 
-De volgende functionarissen hebben mandaat ten aanzien van alle aangelegenheden die behoren tot hun werkterrein: De hoofddirecteur Bedrijfsvoering, de directeur Onderwijsinstellingen, de directeur Beleid & Strategie, de manager Informatieproducten, de manager Bedrijfsvoering Diensten, de (plaatsvervangend) productmanagers, de clustermanagers, de programmamanagers, de directeur Onderwijsvolgers, de directeur Registers & Examens, de directeur ICT-Supply, de manager Human Resource, de manager Bezwaar, Beroep, Klachten en Beleid, de onder de vijf laatstgenoemden vallende managers en medewerkers, de centrale klachtenfunctionaris, de medewerker Programmabeheer locatie Groningen, de Klachtenfunctionarissen Onderwijsvolgers, de medewerker klachtafhandeling Servicecentrum Inburgering en de medewerker klachten en klanttevredenheid Registers & Examens. 
+De volgende functionarissen hebben mandaat ten aanzien van alle aangelegenheden die behoren tot hun werkterrein: De hoofddirecteur Bedrijfsvoering, de directeur Onderwijsinstellingen, de directeur Beleid & Strategie, de manager Informatieproducten, de manager Bedrijfsvoering Diensten, de (plaatsvervangend) productmanagers, de clustermanagers, de programmamanagers, de directeur Onderwijsvolgers, de directeur Registers & Examens, de directeur ICT-Supply, de manager Human Resource, de manager Bezwaar, Beroep, Klachten en Beleid, de onder de vijf laatstgenoemden vallende managers en medewerkers, de centrale klachtenfunctionaris en functionaris Nationale Ombudsman-Wet openbaarheid van bestuur,, de medewerker Programmabeheer locatie Groningen, de Klachtenfunctionarissen Onderwijsvolgers, de medewerker klachtafhandeling Servicecentrum Inburgering, de klachtenfunctionaris directie Onderwijsinstellingen en de medewerker klachten en klanttevredenheid Registers & Examens. 
 
 ### Artikel  2  
 
@@ -42,14 +42,14 @@ c. het instellen van enig rechtsmiddel tegen uitspraken in de onder b. genoemde 
 
 ####Mandaat aan anderen en ondermandaat
 
-1.  De directeur-generaal DUO, de hoofddirecteur Uitvoering & Dienstverlening en de hoofddirecteur Bedrijfsvoering kunnen, onverminderd het Organisatie- en mandaatbesluit OCW 2008 bij afzonderlijk besluit mandaat aan anderen dan de in artikel 1, 2 en 3 genoemde functionarissen verlenen.   
-2.  Het verlenen van ondermandaat is slechts mogelijk voor zover dat bij deze regeling of afzonderlijk besluit van de directeur-generaal DUO, de hoofddirecteur Uitvoering & Dienstverlening of hoofddirecteur Bedrijfsvoering is toegestaan.  
+1.  De directeur-generaal DUO en de hoofddirecteur Bedrijfsvoering kunnen, onverminderd het Organisatie- en mandaatbesluit OCW 2008 bij afzonderlijk besluit mandaat aan anderen dan de in artikel 1, 2 en 3 genoemde functionarissen verlenen.   
+2.  Het verlenen van ondermandaat is slechts mogelijk voor zover dat bij deze regeling of afzonderlijk besluit van de directeur-generaal DUO of hoofddirecteur Bedrijfsvoering is toegestaan.  
 
 ### Artikel  5  
 
 ####Vervanging
 
-Bij afwezigheid van de directeur-generaal DUO gaan diens bevoegdheden over op de hoofddirecteur Uitvoering & Dienstverlening. Bij afwezigheid van de directeur-generaal DUO en de hoofddirecteur Uitvoering & Dienstverlening gaan hun bevoegdheden over op de hoofddirecteur Bedrijfsvoering. Bij afwezigheid van de hoofddirecteur Uitvoering & Dienstverlening alsmede de hoofddirecteur Bedrijfsvoering dan wel een van hen gaan hun bevoegdheden over op de directeur-generaal DUO. 
+Bij afwezigheid van de directeur-generaal DUO gaan diens bevoegdheden over op de hoofddirecteur Bedrijfsvoering. Bij afwezigheid van de hoofddirecteur Bedrijfsvoering gaan diens bevoegdheden over op de directeur-Generaal DUO. 
 
 ### Artikel  6  
 
