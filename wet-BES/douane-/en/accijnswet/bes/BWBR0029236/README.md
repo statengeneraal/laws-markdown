@@ -1176,7 +1176,7 @@ d. indien onjuiste of onvolledige gegevens werden verstrekt die van beslissende 
 
 e. als de vergunninghouder zijn bedrijfsactiviteiten heeft gestaakt.     
 2.  De intrekking van de vergunning wordt schriftelijk en met redenen omkleed medegedeeld aan de vergunninghouder.   
-3.  Aan de goederen die op het moment van intrekking van de vergunning in het douane-entrepot of in de accijnsgoederenplaats zijn opgeslagen, wordt binnen een termijn van drie dagen te rekenen vanaf de datum van intrekking van de vergunning, een nadere douanebestemming gegeven. Indien na het verstrijken van bedoelde termijn geen nadere douanebestemming aan de goederen is gegeven wordt de douanebestemming invoer geacht te zijn gegeven aan de goederen. De inspecteur neemt alle nodige maatregelen om de situatie van deze goederen te regulariseren.  
+3.  Aan de goederen die op het moment van intrekking van de vergunning in het douane-entrepot zijn opgeslagen, wordt binnen een termijn van drie dagen te rekenen vanaf de datum van intrekking van de vergunning, een nadere douanebestemming gegeven. Indien na het verstrijken van bedoelde termijn geen nadere douanebestemming aan de goederen is gegeven wordt de douanebestemming invoer geacht te zijn gegeven aan de goederen. De inspecteur neemt alle nodige maatregelen om de situatie van deze goederen te regulariseren.  
 
 ### Titel  8  
 

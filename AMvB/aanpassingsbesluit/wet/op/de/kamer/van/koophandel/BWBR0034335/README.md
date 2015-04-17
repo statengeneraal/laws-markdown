@@ -8,31 +8,31 @@ Op de voordracht van Onze Minister van Economische Zaken van 1 oktober 2013, nr
 
 Gelet op
 
-– [artikel 16, eerste lid, van de Prijzennoodwet](../../../../../../../../../wet/prijzennoodwet/BWBR0003734/README.md);  
+– artikel 16, eerste lid, van de Prijzennoodwet;  
 
-– [artikel 24, tweede lid, onder b, van de Colportagewet](../../../../../../../../../wet/colportagewet/BWBR0002896/README.md);  
+– artikel 24, tweede lid, onder b, van de Colportagewet;  
 
-– [artikel 70, vierde lid, van de Woningwet](../../../../../../../../../wet/woningwet/BWBR0005181/README.md);  
+– artikel 70, vierde lid, van de Woningwet;  
 
-– [artikel 17, eerste lid, van de Brandweerwet 1985](../../../../../../../../../wet/brandweerwet/1985/BWBR0003764/README.md);  
+– artikel 17, eerste lid, van de Brandweerwet 1985;  
 
-– [artikel 4:20, eerste lid, van de Wet op het financieel toezicht](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+– artikel 4:20, eerste lid, van de Wet op het financieel toezicht;  
 
-– [artikel 110, derde lid, van de Wet geluidhinder](../../../../../../../../../wet/wet/geluidhinder/BWBR0003227/README.md);  
+– artikel 110, derde lid, van de Wet geluidhinder;  
 
-– [artikel 15.13, tweede lid, van de Wet milieubeheer](../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);  
+– artikel 15.13, tweede lid, van de Wet milieubeheer;  
 
-– de [artikelen 1.5, derde lid](../../../../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md), [1.45, vierde lid](../../../../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md), [1.47a, tweede lid](../../../../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md), [1.50, tweede lid, 2.2, derde lid](../../../../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md), [2.4a, tweede lid](../../../../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md), en [2.6, tweede lid, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md);  
+– de artikelen 1.5, derde lid, 1.45, vierde lid, 1.47a, tweede lid, 1.50, tweede lid, 2.2, derde lid, 2.4a, tweede lid, en 2.6, tweede lid, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen;  
 
-– [artikel 7b, zevende lid, van de Wet op de kansspelen](../../../../../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md);  
+– artikel 7b, zevende lid, van de Wet op de kansspelen;  
 
-– de [artikelen 8, onderdeel b](../../../../../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md), [19, eerste lid](../../../../../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md), [20, vierde lid](../../../../../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md), [39](../../../../../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md) en [51 van de Handelsregisterwet 2007](../../../../../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md);  
+– de artikelen 8, onderdeel b, 19, eerste lid, 20, vierde lid, 39 en 51 van de Handelsregisterwet 2007;  
 
-– [artikel 67 van de Wet op de bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);  
+– artikel 67 van de Wet op de bedrijfsorganisatie;  
 
-– [artikel 4 van de Kaderwet BZK-subsidies](../../../../../../../../../wet/wet/overige/bzk-subsidies/BWBR0019756/README.md), en  
+– artikel 4 van de Kaderwet BZK-subsidies, en  
 
-– [artikel 107, zevende lid, van de Vreemdelingenwet 2000](../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md);   
+– artikel 107, zevende lid, van de Vreemdelingenwet 2000;   
 De Afdeling advisering van de Raad van State gehoord (advies van 16 oktober 2013, nr. W15.13.0351/IV);
 
 Gezien het nader rapport van Onze Minister van Economische Zaken van 18 november 2013, nr. WJZ / 13175769;
@@ -64,11 +64,11 @@ Wijzigt het Besluit geluidhinder.
 
 ### Artikel  VII  
 
-Het [Besluit heffingen kamers van koophandel en fabrieken](../../../../../../../../../AMvB/besluit/heffingen/kamers/van/koophandel/en/fabrieken/BWBR0009278/README.md) wordt ingetrokken. 
+Het Besluit heffingen kamers van koophandel en fabrieken wordt ingetrokken. 
 
 ### Artikel  VIII  
 
-Het [Besluit instelling, gebiedsindeling en bestuursgrootte kamers van koophandel en fabrieken](../../../../../../../../../AMvB/besluit/instelling/gebiedsindeling/en/bestuursgrootte/kamers/van/etc/BWBR0009277/README.md) wordt ingetrokken. 
+Het Besluit instelling, gebiedsindeling en bestuursgrootte kamers van koophandel en fabrieken wordt ingetrokken. 
 
 ### Artikel  IX  
 
@@ -104,7 +104,7 @@ Wijzigt het Vreemdelingenbesluit 2000.
 
 ### Artikel  XVII  
 
-Dit besluit treedt in werking met ingang van het tijdstip waarop [hoofdstuk 12 van de Wet op de Kamer van Koophandel](../../../../../../../../../wet/wet/op/de/kamer/van/koophandel/BWBR0034331/README.md) in werking treedt. 
+Dit besluit treedt in werking met ingang van het tijdstip waarop hoofdstuk 12 van de Wet op de Kamer van Koophandel in werking treedt. 
 
 ### Artikel  XVIII  
 

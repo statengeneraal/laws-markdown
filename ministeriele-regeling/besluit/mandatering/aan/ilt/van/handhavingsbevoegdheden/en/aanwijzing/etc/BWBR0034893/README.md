@@ -94,7 +94,15 @@ S.A. Blok.
 
 De werkzaamheden betreffen: 
 
-– Het houden van toezicht op de naleving van het verbod in artikel 120, tweede lid, van de Woningwet, betreffende: CE-markering en bijbehorende prestatieverklaringen zoals bedoeld in de verordening bouwproducten en het Besluit energieprestatie gebouwen, voor zover het gaat om het afficheren van het energielabel en de verplichte keuring van airconditioningsystemen en het handhaven daarvan op grond van de bevoegdheid, bedoeld in artikel 120b van de Woningwet;  
+– Het houden van toezicht op de naleving van het verbod in artikel 120, tweede lid, van de Woningwet, betreffende: CE-markering en bijbehorende prestatieverklaringen zoals bedoeld in de verordening bouwproducten en het Besluit energieprestatie gebouwen, voor zover het gaat om: 
+
+a. de aanwezigheid van energielabels bij oplevering, verkoop en nieuwe verhuur van gebouwen;  
+
+b. de validatie van de erkende deskundige bij het energielabel voor woningen;  
+
+c. de verplichte keuring van airconditioningsystemen;  
+
+d. de zichtbaarheid van het energielabel in overheidsgebouwen en overige publiek toegankelijke gebouwen,   en het handhaven daarvan op grond van de bevoegdheid, bedoeld in artikel 120b van de Woningwet;  
 
 – Het houden van toezicht op de taken die de toegelaten instellingen op basis van hoofdstuk 5, afdeling 3, van de Woningwet hebben, en de handhaving daarvan op grond van het bepaalde bij en krachtens artikel 70d, tweede lid, van de Woningwet door onder meer het geven van een aanwijzing aan individuele woningcorporaties en het opleggen van een last onder dwangsom op grond van artikel 105 van de Woningwet;  
 

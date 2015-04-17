@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 22 juli 1988, no. MJZ 2278002), Centrale Directie Juridische Zaken, Afdeling Wetgeving;
 
-Gelet op [artikel 59, vijfde lid, van de Woningwet](../../../../../../../../wet/woningwet/BWBR0005181/README.md) (Stb. 1964, 222).
+Gelet op artikel 59, vijfde lid, van de Woningwet (Stb. 1964, 222).
 
 Gezien het advies van de Raad voor de Gemeentefinanciën van 7 juni 1988, no. 24058 RGF 175/14;
 
@@ -60,14 +60,14 @@ b. jaarlijks voor 1 december het in het eerste lid, onderdeel b, bedoelde overzi
 
 ### Artikel  5  
 
-1.. Ten behoeve van het toezicht verstrekt de toegelaten instelling, naast de bescheiden, bedoeld in [artikel 30 van het Besluit beheer sociale-huursector](../../../../../../../../AMvB/besluit/beheer/sociale-huursector/BWBR0005686/README.md), jaarlijks:
+1.. Ten behoeve van het toezicht verstrekt de toegelaten instelling, naast de bescheiden, bedoeld in artikel 30 van het Besluit beheer sociale-huursector, jaarlijks:
 
-a.voor 1 februari aan het fonds een bestuursverklaring bij de gegevens, bedoeld in [bijlage I bij dat besluit](../../../../../../../../AMvB/besluit/beheer/sociale-huursector/BWBR0005686/README.md);
+a.voor 1 februari aan het fonds een bestuursverklaring bij de gegevens, bedoeld in bijlage I bij dat besluit;
 
-b.voor 1 juli aan het fonds een bestuursverklaring bij de gegevens, bedoeld in [bijlage II bij dat besluit](../../../../../../../../AMvB/besluit/beheer/sociale-huursector/BWBR0005686/README.md), en
+b.voor 1 juli aan het fonds een bestuursverklaring bij de gegevens, bedoeld in bijlage II bij dat besluit, en
 
-c.voor 1 juli aan het fonds de gegevens, bedoeld in [bijlage IV bij dat besluit](../../../../../../../../AMvB/besluit/beheer/sociale-huursector/BWBR0005686/README.md), alsmede de mededeling, bedoeld in het tweede lid.  
-2.  De toegelaten instelling verzoekt aan een daartoe als openbaar optredende accountant als bedoeld in [artikel 27, eerste lid, van het Besluit beheer sociale-huursector](../../../../../../../../AMvB/besluit/beheer/sociale-huursector/BWBR0005686/README.md), of aan een organisatie waarin zodanige accountants samenwerken, om overeenkomstig [bijlage III](../../../../../../../../AMvB/besluit/beheer/sociale-huursector/BWBR0005686/README.md) bij dat besluit een mededeling op te stellen omtrent de gegevens, bedoeld in het eerste lid.   
+c.voor 1 juli aan het fonds de gegevens, bedoeld in bijlage IV bij dat besluit, alsmede de mededeling, bedoeld in het tweede lid.  
+2.  De toegelaten instelling verzoekt aan een daartoe als openbaar optredende accountant als bedoeld in artikel 27, eerste lid, van het Besluit beheer sociale-huursector, of aan een organisatie waarin zodanige accountants samenwerken, om overeenkomstig bijlage III bij dat besluit een mededeling op te stellen omtrent de gegevens, bedoeld in het eerste lid.   
 3.  Het fonds bevestigt binnen vier weken de ontvangst van de krachtens het eerste lid gezonden bescheiden.   
 4.  Indien een toegelaten instelling de bescheiden op 1 februari respectievelijk 1 juli van een jaar niet aan het fonds heeft doen toekomen, stelt het fonds onverwijld een termijn van ten hoogste vier weken binnen welke de bescheiden alsnog moeten worden verstrekt en doet daarvan mededeling aan die toegelaten instelling.   
 5.  Indien de toegelaten instelling de bescheiden niet binnen de krachtens het vierde lid gestelde termijn verstrekt, kan het fonds bepalen, dat zij, totdat zij de bescheiden alsnog verstrekt, de door het fonds aangegeven rechtshandelingen slechts kan verrichten na zijn instemming.  
@@ -78,7 +78,7 @@ c.voor 1 juli aan het fonds de gegevens, bedoeld in [bijlage IV bij dat besluit]
 
 ### Artikel  6  
 
-1. In de beleidsregels, bedoeld in [artikel 71b, eerste lid, van de Woningwet](../../../../../../../../wet/woningwet/BWBR0005181/README.md), wordt met betrekking tot de subsidie, bedoeld in [artikel 71a, eerste lid, onderdeel a, van die wet](../../../../../../../../wet/woningwet/BWBR0005181/README.md), bepaald:
+1. In de beleidsregels, bedoeld in artikel 71b, eerste lid, van de Woningwet, wordt met betrekking tot de subsidie, bedoeld in artikel 71a, eerste lid, onderdeel a, van die wet, bepaald:
 
 a.dat een aanvraag voor subsidie bij het fonds wordt ingediend;
 
@@ -90,10 +90,10 @@ b.welke gegevens door de aanvragende toegelaten instelling aan het fonds moeten 
 
 c.binnen welke termijn de betrokken gegevens, bedoeld in onderdeel b, aan het fonds moeten worden verstrekt, en dat het fonds, indien de toegelaten instelling die gegevens niet binnen die termijn verstrekt, kan bepalen dat zij, totdat zij de gegevens alsnog verstrekt, de door het fonds aangegeven rechtshandelingen slechts kan verrichten na zijn instemming;
 
-d.onder welke verplichtingen of voorschriften het fonds subsidie als bedoeld in artikel 2 verstrekt, waartoe verplichtingen kunnen behoren met betrekking tot de wijze waarop de toegelaten instelling uitvoering geeft aan [artikel 21, eerste lid, van het Besluit beheer sociale-huursector](../../../../../../../../AMvB/besluit/beheer/sociale-huursector/BWBR0005686/README.md);
+d.onder welke verplichtingen of voorschriften het fonds subsidie als bedoeld in artikel 2 verstrekt, waartoe verplichtingen kunnen behoren met betrekking tot de wijze waarop de toegelaten instelling uitvoering geeft aan artikel 21, eerste lid, van het Besluit beheer sociale-huursector;
 
 e.aan de hand van welke criteria ten aanzien van de vermogenspositie van een toegelaten instelling wordt beoordeeld of die instelling voor de subsidie, bedoeld in artikel 2, in aanmerking komt, en  
-2.  In de beleidsregels komt tot uitdrukking dat, indien door Onze Minister een aanwijzing is gegeven met toepassing van [artikel 41, eerste lid, van het Besluit beheer sociale-huursector](../../../../../../../../AMvB/besluit/beheer/sociale-huursector/BWBR0005686/README.md), het fonds bij de verstrekking van subsidie als bedoeld in [artikel 71a, eerste lid, onderdeel a, van de Woningwet](../../../../../../../../wet/woningwet/BWBR0005181/README.md) tevens die aanwijzing in acht neemt.  
+2.  In de beleidsregels komt tot uitdrukking dat, indien door Onze Minister een aanwijzing is gegeven met toepassing van artikel 41, eerste lid, van het Besluit beheer sociale-huursector, het fonds bij de verstrekking van subsidie als bedoeld in artikel 71a, eerste lid, onderdeel a, van de Woningwet tevens die aanwijzing in acht neemt.  
 
 ### Artikel  7  
 
@@ -103,13 +103,13 @@ a. de criteria die het fonds hanteert bij het opstellen van de overzichten, bedo
 
 b. de wijze waarop het fonds toepassing geeft aan de artikelen 5, eerste en vijfde lid, en 12, tweede lid, aan de ingevolge artikel 6, eerste lid, onderdeel c, gestelde beleidsregels en aan artikel 31, derde lid, van het Besluit beheer sociale-huursector;  
 
-c. de criteria aan de hand waarvan het fonds bepaalt of en voor hoelang het over voldoende financiële middelen beschikt om uitvoering te geven aan [artikel 71a, eerste lid, van de Woningwet](../../../../../../../../wet/woningwet/BWBR0005181/README.md) en  
+c. de criteria aan de hand waarvan het fonds bepaalt of en voor hoelang het over voldoende financiële middelen beschikt om uitvoering te geven aan artikel 71a, eerste lid, van de Woningwet en  
 
-d. de termijn waarbinnen de hoogte van de bijdrage, bedoeld in [artikel 71e, tweede lid, van de Woningwet](../../../../../../../../wet/woningwet/BWBR0005181/README.md), door het fonds moet zijn bepaald, de termijn waarbinnen de hoogte van die bijdrage door het fonds aan de toegelaten instellingen moet zijn bekendgemaakt, en de termijn vanaf het tijdstip van bekendmaking waarbinnen die bijdrage door de toegelaten instellingen aan het fonds moet zijn betaald, met dien verstande dat de hoogte van het totaal aan bijdragen op hetzelfde tijdstip moet zijn bepaald als waarop de begroting, bedoeld in [artikel 71f, eerste lid, van de Woningwet](../../../../../../../../wet/woningwet/BWBR0005181/README.md), is vastgesteld.   
+d. de termijn waarbinnen de hoogte van de bijdrage, bedoeld in artikel 71e, tweede lid, van de Woningwet, door het fonds moet zijn bepaald, de termijn waarbinnen de hoogte van die bijdrage door het fonds aan de toegelaten instellingen moet zijn bekendgemaakt, en de termijn vanaf het tijdstip van bekendmaking waarbinnen die bijdrage door de toegelaten instellingen aan het fonds moet zijn betaald, met dien verstande dat de hoogte van het totaal aan bijdragen op hetzelfde tijdstip moet zijn bepaald als waarop de begroting, bedoeld in artikel 71f, eerste lid, van de Woningwet, is vastgesteld.   
 
 ### Artikel  8  
 
-De beleidsregels, bedoeld in [artikel 71b, eerste lid, van de Woningwet](../../../../../../../../wet/woningwet/BWBR0005181/README.md), worden door het fonds bekendgemaakt in de Staatscourant. 
+De beleidsregels, bedoeld in artikel 71b, eerste lid, van de Woningwet, worden door het fonds bekendgemaakt in de Staatscourant. 
 
 ### §  5  
 
@@ -117,7 +117,7 @@ De beleidsregels, bedoeld in [artikel 71b, eerste lid, van de Woningwet](../../.
 
 ### Artikel  9  
 
-De bijdrage, bedoeld in [artikel 71e, tweede lid, van de Woningwet](../../../../../../../../wet/woningwet/BWBR0005181/README.md), bestaat uit de som van:
+De bijdrage, bedoeld in artikel 71e, tweede lid, van de Woningwet, bestaat uit de som van:
 
 a.een bedrag ten behoeve van het verstrekken van subsidie ter bevordering van de sanering van toegelaten instellingen, en
 
@@ -134,7 +134,7 @@ b.een bedrag per andere woongelegenheid, dat lager is dan het bedrag, bedoeld in
 
 a.per categorie woongelegenheden als bedoeld in het eerste lid met elkaar te vermenigvuldigen:
 
-1°.het aantal woongelegenheden in die categorie dat de toegelaten instelling op 31 december van het jaar voorafgaand aan het jaar waarover de bijdrage verschuldigd is in eigendom of in beheer had volgens de gegevens, bedoeld in [bijlage II bij het Besluit beheer sociale-huursector](../../../../../../../../AMvB/besluit/beheer/sociale-huursector/BWBR0005686/README.md), en
+1°.het aantal woongelegenheden in die categorie dat de toegelaten instelling op 31 december van het jaar voorafgaand aan het jaar waarover de bijdrage verschuldigd is in eigendom of in beheer had volgens de gegevens, bedoeld in bijlage II bij het Besluit beheer sociale-huursector, en
 
 2°.het betrokken in het eerste lid, onderdeel a of b, bedoelde bedrag, en
 
@@ -147,25 +147,25 @@ b.de aldus verkregen bedragen bij elkaar op te tellen.
 a.een bedrag per woongelegenheid, en
 
 b.een tarief per € 1000 van de gezamenlijke WOZ-waarde van de woongelegenheden. 
-2. Het fonds bepaalt de hoogte van het bedrag, bedoeld in artikel 9, onderdeel b, door, met gebruikmaking van het aantal woongelegenheden dat de toegelaten instelling op 31 december van het jaar voorafgaand aan het jaar waarover de bijdrage verschuldigd is in eigendom of in beheer had volgens de gegevens, bedoeld in [bijlage II bij het Besluit beheer sociale-huursector](../../../../../../../../AMvB/besluit/beheer/sociale-huursector/BWBR0005686/README.md):
+2. Het fonds bepaalt de hoogte van het bedrag, bedoeld in artikel 9, onderdeel b, door, met gebruikmaking van het aantal woongelegenheden dat de toegelaten instelling op 31 december van het jaar voorafgaand aan het jaar waarover de bijdrage verschuldigd is in eigendom of in beheer had volgens de gegevens, bedoeld in bijlage II bij het Besluit beheer sociale-huursector:
 
 a.het aantal woongelegenheden te vermenigvuldigen met het in het eerste lid, onderdeel a, bedoelde bedrag;
 
 b.de gezamenlijke WOZ-waarde van de woongelegenheden te delen door 1000 en vervolgens te vermenigvuldigen met het tarief, bedoeld in het eerste lid, onderdeel b;
 
 c.de aldus verkregen bedragen bij elkaar op te tellen. 
-3. In dit artikel wordt onder gezamenlijke WOZ-waarde verstaan de som van de op voet van [hoofdstuk IV van de Wet waardering onroerende zaken](../../../../../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md) vastgestelde waarden volgens de gegevens, bedoeld in [bijlage II bij het Besluit beheer sociale-huursector](../../../../../../../../AMvB/besluit/beheer/sociale-huursector/BWBR0005686/README.md).
+3. In dit artikel wordt onder gezamenlijke WOZ-waarde verstaan de som van de op voet van hoofdstuk IV van de Wet waardering onroerende zaken vastgestelde waarden volgens de gegevens, bedoeld in bijlage II bij het Besluit beheer sociale-huursector.
 
 ### Artikel  10  
 
-1. Het fonds bepaalt de hoogte van de bijdrage, bedoeld in [artikel 71e, tweede lid, van de Woningwet](../../../../../../../../wet/woningwet/BWBR0005181/README.md), zodanig, dat het voor ten minste het kalenderjaar waarover deze verschuldigd is over voldoende financiële middelen beschikt om uitvoering te geven aan [artikel 71a, eerste lid, van die wet](../../../../../../../../wet/woningwet/BWBR0005181/README.md), met dien verstande dat het bedrag, bedoeld in artikel 9, onderdeel a, en het bedrag, bedoeld in artikel 9, onderdeel b, niet meer is dan 5 procent, onderscheidenlijk 1 procent van de gerealiseerde jaarhuuropbrengst van de woongelegenheden, bedoeld in [bijlage II bij het Besluit beheer sociale-huursector](../../../../../../../../AMvB/besluit/beheer/sociale-huursector/BWBR0005686/README.md), als volgens genoemde [bijlage](../../../../../../../../AMvB/besluit/beheer/sociale-huursector/BWBR0005686/README.md) voor de bijdrageplichtige toegelaten instellingen gezamenlijk bepaald over het jaar voorafgaand aan het jaar waarover de bijdrage verschuldigd is.  
-2.  Het fonds bepaalt de hoogte van de bijdrage aan de hand van de ingevolge [artikel 30 van het Besluit beheer sociale-huursector](../../../../../../../../AMvB/besluit/beheer/sociale-huursector/BWBR0005686/README.md) aan het fonds gezonden bescheiden. Het kan in plaats daarvan de hoogte van de bijdrage door schatting bepalen, uitsluitend indien het toepassing heeft gegeven aan [artikel 5, vierde lid](../../../../../../../../AMvB/besluit/beheer/sociale-huursector/BWBR0005686/README.md), of aan [artikel 31, tweede lid, van het Besluit beheer sociale-huursector](../../../../../../../../AMvB/besluit/beheer/sociale-huursector/BWBR0005686/README.md) en de betrokken toegelaten instelling de ontbrekende bescheiden niet binnen de krachtens het betrokken artikellid gestelde termijn heeft verstrekt. Het fonds kan aan de betrokken toegelaten instelling administratiekosten in rekening brengen die verbonden zijn aan het door schatting bepalen van de hoogte van de bijdrage.  
+1. Het fonds bepaalt de hoogte van de bijdrage, bedoeld in artikel 71e, tweede lid, van de Woningwet, zodanig, dat het voor ten minste het kalenderjaar waarover deze verschuldigd is over voldoende financiële middelen beschikt om uitvoering te geven aan artikel 71a, eerste lid, van die wet, met dien verstande dat het bedrag, bedoeld in artikel 9, onderdeel a, en het bedrag, bedoeld in artikel 9, onderdeel b, niet meer is dan 5 procent, onderscheidenlijk 1 procent van de gerealiseerde jaarhuuropbrengst van de woongelegenheden, bedoeld in bijlage II bij het Besluit beheer sociale-huursector, als volgens genoemde bijlage voor de bijdrageplichtige toegelaten instellingen gezamenlijk bepaald over het jaar voorafgaand aan het jaar waarover de bijdrage verschuldigd is.  
+2.  Het fonds bepaalt de hoogte van de bijdrage aan de hand van de ingevolge artikel 30 van het Besluit beheer sociale-huursector aan het fonds gezonden bescheiden. Het kan in plaats daarvan de hoogte van de bijdrage door schatting bepalen, uitsluitend indien het toepassing heeft gegeven aan artikel 5, vierde lid, of aan artikel 31, tweede lid, van het Besluit beheer sociale-huursector en de betrokken toegelaten instelling de ontbrekende bescheiden niet binnen de krachtens het betrokken artikellid gestelde termijn heeft verstrekt. Het fonds kan aan de betrokken toegelaten instelling administratiekosten in rekening brengen die verbonden zijn aan het door schatting bepalen van de hoogte van de bijdrage.  
 
 ### Artikel  12  
 
-1.  Het fonds kan op verzoek van een toegelaten instelling de op grond van [artikel 71e, tweede lid, van de Woningwet](../../../../../../../../wet/woningwet/BWBR0005181/README.md) door die instelling verschuldigde bijdrage kwijtschelden, indien naar het oordeel van het fonds betaling van die bijdrage in aanmerkelijke mate afbreuk zou doen aan de uitoefening van de taken van het fonds, bedoeld in [artikel 71a, eerste lid, van die wet](../../../../../../../../wet/woningwet/BWBR0005181/README.md).   
-2.  Het fonds kan op verzoek van een toegelaten instelling het gedeelte van de op grond van [artikel 71e, tweede lid, van de Woningwet](../../../../../../../../wet/woningwet/BWBR0005181/README.md) door die instelling verschuldigde bijdrage, bedoeld in artikel 9, eerste lid, onderdeel b, kwijtschelden, indien naar het oordeel van het fonds de betrokken toegelaten instelling aannemelijk heeft gemaakt dat zij in aanzienlijke mate heeft bijgedragen aan werkzaamheden op het gebied van de volkshuisvesting die door andere toegelaten instellingen worden verricht, of dat zij in aanzienlijke mate werkzaamheden op het gebied van de volkshuisvesting ten behoeve van andere toegelaten instellingen heeft verricht.   
-3.  Aan een beschikking op een verzoek als bedoeld in het eerste of tweede lid kan het fonds voorschriften verbinden met betrekking tot de wijze waarop de toegelaten instelling uitvoering geeft aan [artikel 21, eerste lid, van het Besluit beheer sociale-huursector](../../../../../../../../AMvB/besluit/beheer/sociale-huursector/BWBR0005686/README.md).   
+1.  Het fonds kan op verzoek van een toegelaten instelling de op grond van artikel 71e, tweede lid, van de Woningwet door die instelling verschuldigde bijdrage kwijtschelden, indien naar het oordeel van het fonds betaling van die bijdrage in aanmerkelijke mate afbreuk zou doen aan de uitoefening van de taken van het fonds, bedoeld in artikel 71a, eerste lid, van die wet.   
+2.  Het fonds kan op verzoek van een toegelaten instelling het gedeelte van de op grond van artikel 71e, tweede lid, van de Woningwet door die instelling verschuldigde bijdrage, bedoeld in artikel 9, eerste lid, onderdeel b, kwijtschelden, indien naar het oordeel van het fonds de betrokken toegelaten instelling aannemelijk heeft gemaakt dat zij in aanzienlijke mate heeft bijgedragen aan werkzaamheden op het gebied van de volkshuisvesting die door andere toegelaten instellingen worden verricht, of dat zij in aanzienlijke mate werkzaamheden op het gebied van de volkshuisvesting ten behoeve van andere toegelaten instellingen heeft verricht.   
+3.  Aan een beschikking op een verzoek als bedoeld in het eerste of tweede lid kan het fonds voorschriften verbinden met betrekking tot de wijze waarop de toegelaten instelling uitvoering geeft aan artikel 21, eerste lid, van het Besluit beheer sociale-huursector.   
 4.  Indien bij een beschikking op een verzoek als bedoeld in het eerste of tweede lid dat verzoek wordt ingewilligd, betaalt het fonds een als gevolg van die beschikking ten onrechte betaald bedrag terug aan de betrokken toegelaten instelling. Tevens wordt rente over dat bedrag betaald, berekend vanaf de datum waarop ten onrechte is betaald tot de datum van terugbetaling, bedoeld in de eerste volzin, van welke rente het percentage gelijk is aan dat van de depositorente die de Europese Centrale Bank vaststelt, vermeerderd met 1,25.  
 
 ### §  6  

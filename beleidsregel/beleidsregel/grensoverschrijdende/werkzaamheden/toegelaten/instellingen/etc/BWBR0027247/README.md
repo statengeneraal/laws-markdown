@@ -3,12 +3,12 @@
 ##Beleidsregel van de Minister voor Wonen, Wijken en Integratie van 16 februari 2010, nr. ABC2010005669, ter bepaling van de criteria aan de hand waarvan wordt beoordeeld welke grensoverschrijdende werkzaamheden van toegelaten instellingen in België en de Bondsrepubliek Duitsland in het belang van de volkshuisvesting zijn (Beleidsregel grensoverschrijdende werkzaamheden toegelaten instellingen volkshuisvesting)
 
 De Minister voor Wonen, Wijken en Integratie,  
-Gelet op [artikel 70, eerste lid, van de Woningwet](../../../../../../../../wet/woningwet/BWBR0005181/README.md),
+Gelet op artikel 70, eerste lid, van de Woningwet,
 Stelt de volgende beleidsregel vast:    
 
 ### Artikel  1  
 
-Uit [artikel 70, eerste lid, van de Woningwet](../../../../../../../../wet/woningwet/BWBR0005181/README.md) volgt dat een toegelaten instelling uitsluitend werkzaam mag zijn in het belang van de volkshuisvesting. Hiermee is bedoeld de volkshuisvesting ten behoeve van de Nederlandse woningmarkt, zijnde het belang van de volkshuisvesting van Nederland. 
+Uit artikel 70, eerste lid, van de Woningwet volgt dat een toegelaten instelling uitsluitend werkzaam mag zijn in het belang van de volkshuisvesting. Hiermee is bedoeld de volkshuisvesting ten behoeve van de Nederlandse woningmarkt, zijnde het belang van de volkshuisvesting van Nederland. 
 
 ### Artikel  2  
 

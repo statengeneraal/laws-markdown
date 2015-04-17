@@ -3,17 +3,17 @@
 ##Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, nr. MJZ 22695035, houdende uitvoering van de Wet balansverkorting geldelijke steun volkshuisvesting 
 
 De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,  
-Gelet op de [artikelen 4, vijfde lid](../../../../../../../wet/wet/balansverkorting/geldelijke/steun/volkshuisvesting/BWBR0007419/README.md), en [16 van de Wet balansverkorting geldelijke steun volkshuisvesting](../../../../../../../wet/wet/balansverkorting/geldelijke/steun/volkshuisvesting/BWBR0007419/README.md);
+Gelet op de artikelen 4, vijfde lid, en 16 van de Wet balansverkorting geldelijke steun volkshuisvesting;
 Besluit:     
 
 ### Artikel  1  
 
-1.  Voor de toepassing van deze regeling wordt verstaan onder: a.  wet:   [Wet balansverkorting geldelijke steun volkshuisvesting](../../../../../../../wet/wet/balansverkorting/geldelijke/steun/volkshuisvesting/BWBR0007419/README.md),  b. toegelaten instelling:   voor 1 januari 1995 ingevolge [artikel 70 van de Woningwet](../../../../../../../wet/woningwet/BWBR0005181/README.md) als zodanig aangewezen instelling,  c. woningen:   te verhuren of verhuurde woningen, bejaardenwoningen, wooneenheden in verzorgingstehuizen voor bejaarden en te verhuren of verhuurde woningen en wooneenheden in woongebouwen met een bijzonder karakter,  d.  bijdrage:   ingevolge de desbetreffende regeling of de wet te ontvangen jaarlijkse bijdrage of bijdrage ineens,  e. Minister:   Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.     
-2.  Voor de toepassing van deze regeling wordt onder toegelaten instelling mede verstaan een instelling welke na 1 januari 1995 doch voor 1 januari 1997 ingevolge [artikel 70 van de Woningwet](../../../../../../../wet/woningwet/BWBR0005181/README.md) als zodanig is aangewezen.   
+1.  Voor de toepassing van deze regeling wordt verstaan onder: a.  wet:   Wet balansverkorting geldelijke steun volkshuisvesting,  b. toegelaten instelling:   voor 1 januari 1995 ingevolge artikel 70 van de Woningwet als zodanig aangewezen instelling,  c. woningen:   te verhuren of verhuurde woningen, bejaardenwoningen, wooneenheden in verzorgingstehuizen voor bejaarden en te verhuren of verhuurde woningen en wooneenheden in woongebouwen met een bijzonder karakter,  d.  bijdrage:   ingevolge de desbetreffende regeling of de wet te ontvangen jaarlijkse bijdrage of bijdrage ineens,  e. Minister:   Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.     
+2.  Voor de toepassing van deze regeling wordt onder toegelaten instelling mede verstaan een instelling welke na 1 januari 1995 doch voor 1 januari 1997 ingevolge artikel 70 van de Woningwet als zodanig is aangewezen.   
 
 ### Artikel  2  
 
-Voor de toepassing van [artikel 4, eerste lid, van de wet](../../../../../../../wet/wet/balansverkorting/geldelijke/steun/volkshuisvesting/BWBR0007419/README.md) met betrekking tot de Regeling geldelijke steun uit ’s Rijks kas op voet van de [Woningwet](../../../../../../../wet/woningwet/BWBR0005181/README.md) voor het verbeteren van complexen woningen van toegelaten instellingen en gemeenten (MG 73-24, MG 74-40, MG 81-13), onderdeel integrale bijdrage vaststelling op basis van een jaarverslag/exploitatie-overzicht, worden in afwijking van die bepaling van de wet 
+Voor de toepassing van artikel 4, eerste lid, van de wet met betrekking tot de Regeling geldelijke steun uit ’s Rijks kas op voet van de Woningwet voor het verbeteren van complexen woningen van toegelaten instellingen en gemeenten (MG 73-24, MG 74-40, MG 81-13), onderdeel integrale bijdrage vaststelling op basis van een jaarverslag/exploitatie-overzicht, worden in afwijking van die bepaling van de wet 
 
 a.  de jaarlijkse variabele exploitatiekosten voor zover betrekking hebbend op assurantiën en belastingen berekend 
 
@@ -45,7 +45,7 @@ e.  de grondslag voor de annuïteiten en de rentepercentages omgezet door
 
 ### Artikel  3  
 
-Voor de toepassing van [artikel 4, eerste lid, van de wet](../../../../../../../wet/wet/balansverkorting/geldelijke/steun/volkshuisvesting/BWBR0007419/README.md) met betrekking tot 
+Voor de toepassing van artikel 4, eerste lid, van de wet met betrekking tot 
 
 a.  de Beschikking geldelijke steun particuliere huurwoningen (1966), 
 
@@ -63,13 +63,13 @@ g.  de Beschikking geldelijke steun toegelaten instellingen (1966),
 
 h.  de Beschikking geldelijke steun toegelaten instellingen 1968, 
 
-i.  de Regeling geldelijke steun uit ’s Rijks kas op voet van de [Woningwet](../../../../../../../wet/woningwet/BWBR0005181/README.md) voor het verbeteren van complexen woningen van toegelaten instellingen en gemeenten (MG 74-40, MG 76-49, MG 81-13, MG 83-57, MG 85-30, complexen op dekkingsschema incl. domeinwoningen), en 
+i.  de Regeling geldelijke steun uit ’s Rijks kas op voet van de Woningwet voor het verbeteren van complexen woningen van toegelaten instellingen en gemeenten (MG 74-40, MG 76-49, MG 81-13, MG 83-57, MG 85-30, complexen op dekkingsschema incl. domeinwoningen), en 
 
 j.  de Regeling geldelijke steun overgedragen studentenwoningen 1991,  zijn in afwijking van die bepaling van de wet met ingang van 1 juli 1993 de normbedragen voor onderhoud en algemene beheers- en administratie-kosten alsmede voor onderhoud lift en centrale verwarming de in bijlage I bij deze regeling genoemde bedragen.  
 
 ### Artikel  4  
 
-Voor de toepassing van [artikel 4, tweede lid, onderdeel a, van de wet](../../../../../../../wet/wet/balansverkorting/geldelijke/steun/volkshuisvesting/BWBR0007419/README.md) met betrekking tot de Beschikking geldelijke steun particuliere huurwoningen (1966), en de Beschikking geldelijke steun particuliere huurwoningen 1968, zijn in afwijking van die bepaling van de wet met ingang van 1 juli 1993 van toepassing voor 
+Voor de toepassing van artikel 4, tweede lid, onderdeel a, van de wet met betrekking tot de Beschikking geldelijke steun particuliere huurwoningen (1966), en de Beschikking geldelijke steun particuliere huurwoningen 1968, zijn in afwijking van die bepaling van de wet met ingang van 1 juli 1993 van toepassing voor 
 
 a.  de jaarlijkse stijging van de assurantiën en belastingen: de in bijlage II bij deze regeling genoemde bedragen en de daaruit voortvloeiende stijgingspercentages, en 
 
@@ -77,7 +77,7 @@ b.  de jaarlijkse stijging van de huurderving: de in bijlage III bij deze regeli
 
 ### Artikel  5  
 
-Voor de toepassing van [artikel 4, tweede lid, onderdeel c, van de wet](../../../../../../../wet/wet/balansverkorting/geldelijke/steun/volkshuisvesting/BWBR0007419/README.md) met betrekking tot de Regeling geldelijke steun uit ’s Rijks kas op voet van de [Woningwet](../../../../../../../wet/woningwet/BWBR0005181/README.md) voor het verbeteren van complexen woningen van toegelaten instellingen en gemeenten (MG 74-40 en MG 81-13), onderdeel na-oorlogse woningen, wordt, voor zover het betreft de in bijlage IV bedoelde exploitatiegedeelten van woningen (woningcomplexen), in afwijking van die bepaling van de wet de jaarlijkse stijging van de huur 3 procent.  
+Voor de toepassing van artikel 4, tweede lid, onderdeel c, van de wet met betrekking tot de Regeling geldelijke steun uit ’s Rijks kas op voet van de Woningwet voor het verbeteren van complexen woningen van toegelaten instellingen en gemeenten (MG 74-40 en MG 81-13), onderdeel na-oorlogse woningen, wordt, voor zover het betreft de in bijlage IV bedoelde exploitatiegedeelten van woningen (woningcomplexen), in afwijking van die bepaling van de wet de jaarlijkse stijging van de huur 3 procent.  
 
 ### Artikel  6  
 
@@ -106,7 +106,7 @@ b.  een verklaring van burgemeester en wethouders inzake de juistheid van de in 
 
 ### Artikel  8  
 
-1.  Een aanvraag tot verlening van een rentebijdrage als bedoeld in [artikel 6, eerste lid, van de wet](../../../../../../../wet/wet/balansverkorting/geldelijke/steun/volkshuisvesting/BWBR0007419/README.md) wordt ingediend door inzending van het in bijlage VI van deze regeling bedoelde model-formulier door de invulling waarvan gegevens worden verstrekt inzake: 
+1.  Een aanvraag tot verlening van een rentebijdrage als bedoeld in artikel 6, eerste lid, van de wet wordt ingediend door inzending van het in bijlage VI van deze regeling bedoelde model-formulier door de invulling waarvan gegevens worden verstrekt inzake: 
 
 a.  de opeisbaar geworden of vervroegd afgeloste leningen en de wijze waarop in de herfinanciering daarvan is voorzien, 
 
@@ -120,25 +120,25 @@ d.  de verschuldigde kosten voor de borgstelling terzake van de onder b bedoelde
 
 ### Artikel  9  
 
-De in [artikel 6, eerste lid, van de wet](../../../../../../../wet/wet/balansverkorting/geldelijke/steun/volkshuisvesting/BWBR0007419/README.md) bedoelde rentebijdrage wordt verstrekt aan toegelaten instellingen of gemeenten die op 1 januari 1995 leningen als bedoeld in dat artikellid verschuldigd waren of zodanige leningen, verstrekt voor woningen welke zij op 1 januari 1995 in eigendom hadden of die waren onderworpen aan een recht van erfpacht dat hen toebehoorde, tussen 1 november 1993 en 1 januari 1995 hebben afgelost.  
+De in artikel 6, eerste lid, van de wet bedoelde rentebijdrage wordt verstrekt aan toegelaten instellingen of gemeenten die op 1 januari 1995 leningen als bedoeld in dat artikellid verschuldigd waren of zodanige leningen, verstrekt voor woningen welke zij op 1 januari 1995 in eigendom hadden of die waren onderworpen aan een recht van erfpacht dat hen toebehoorde, tussen 1 november 1993 en 1 januari 1995 hebben afgelost.  
 
 ### Artikel  10  
 
-1.  De in [artikel 6, eerste lid, van de wet](../../../../../../../wet/wet/balansverkorting/geldelijke/steun/volkshuisvesting/BWBR0007419/README.md) bedoelde rentebijdrage wordt berekend 
+1.  De in artikel 6, eerste lid, van de wet bedoelde rentebijdrage wordt berekend 
 
-a.  voor een of meer, ter vervanging van in [artikel 6, eerste lid, van de wet](../../../../../../../wet/wet/balansverkorting/geldelijke/steun/volkshuisvesting/BWBR0007419/README.md) bedoelde leningen, met een gelijke hoofdsom en met gelijke aflossingsvoorwaarden op de kapitaalmarkt of bij een gemeente gesloten leningen met een looptijd van twee jaar of meer: overeenkomstig het in [artikel 6, tweede lid, van de wet](../../../../../../../wet/wet/balansverkorting/geldelijke/steun/volkshuisvesting/BWBR0007419/README.md) bepaalde, 
+a.  voor een of meer, ter vervanging van in artikel 6, eerste lid, van de wet bedoelde leningen, met een gelijke hoofdsom en met gelijke aflossingsvoorwaarden op de kapitaalmarkt of bij een gemeente gesloten leningen met een looptijd van twee jaar of meer: overeenkomstig het in artikel 6, tweede lid, van de wet bepaalde, 
 
-b.  voor een of meer, ter vervanging van in [artikel 6, eerste lid, van de wet](../../../../../../../wet/wet/balansverkorting/geldelijke/steun/volkshuisvesting/BWBR0007419/README.md) bedoelde leningen, met een gelijke hoofdsom en met gelijke aflossingsvoorwaarden op de kapitaalmarkt of bij een gemeente gesloten leningen met een looptijd van minder dan twee jaar: overeenkomstig het in [artikel 6, tweede lid, van de wet](../../../../../../../wet/wet/balansverkorting/geldelijke/steun/volkshuisvesting/BWBR0007419/README.md) bepaalde, met toepassing van het in [artikel 6, derde lid, van de wet](../../../../../../../wet/wet/balansverkorting/geldelijke/steun/volkshuisvesting/BWBR0007419/README.md) bedoelde rentepercentage.    
-2.  Indien leningen als bedoeld in [artikel 6, eerste lid, van de wet](../../../../../../../wet/wet/balansverkorting/geldelijke/steun/volkshuisvesting/BWBR0007419/README.md) zijn vervangen door meerdere ter vervanging van die leningen aangegane leningen of gedeeltelijk geen vervangende lening is aangegaan, stelt de Minister een gewogen rentepercentage vast. Het gewogen rentepercentage wordt vastgesteld overeenkomstig het in het eerste lid bepaalde in evenredigheid tot de verschillende vervangende leningen en het gedeelte waar geen vervangende lening voor is aangegaan op of vóór het tijdstip gelegen zes maanden na de inwerkingtreding van de in [artikel 3, eerste lid, van de wet](../../../../../../../wet/wet/balansverkorting/geldelijke/steun/volkshuisvesting/BWBR0007419/README.md) bedoelde beschikking en uitgaande van de voor die vervangende leningen geldende rentepercentages en voor het deel waar geen vervangende lening voor is aangegaan van het rentepercentage bedoeld in [artikel 6, derde lid, van de wet](../../../../../../../wet/wet/balansverkorting/geldelijke/steun/volkshuisvesting/BWBR0007419/README.md).   
+b.  voor een of meer, ter vervanging van in artikel 6, eerste lid, van de wet bedoelde leningen, met een gelijke hoofdsom en met gelijke aflossingsvoorwaarden op de kapitaalmarkt of bij een gemeente gesloten leningen met een looptijd van minder dan twee jaar: overeenkomstig het in artikel 6, tweede lid, van de wet bepaalde, met toepassing van het in artikel 6, derde lid, van de wet bedoelde rentepercentage.    
+2.  Indien leningen als bedoeld in artikel 6, eerste lid, van de wet zijn vervangen door meerdere ter vervanging van die leningen aangegane leningen of gedeeltelijk geen vervangende lening is aangegaan, stelt de Minister een gewogen rentepercentage vast. Het gewogen rentepercentage wordt vastgesteld overeenkomstig het in het eerste lid bepaalde in evenredigheid tot de verschillende vervangende leningen en het gedeelte waar geen vervangende lening voor is aangegaan op of vóór het tijdstip gelegen zes maanden na de inwerkingtreding van de in artikel 3, eerste lid, van de wet bedoelde beschikking en uitgaande van de voor die vervangende leningen geldende rentepercentages en voor het deel waar geen vervangende lening voor is aangegaan van het rentepercentage bedoeld in artikel 6, derde lid, van de wet.   
 
 ### Artikel  11  
 
-1.  Indien het rentepercentage van een lening aangegaan ter vervanging van leningen als bedoeld in [artikel 6, eerste lid, van de wet](../../../../../../../wet/wet/balansverkorting/geldelijke/steun/volkshuisvesting/BWBR0007419/README.md), hoger is dan het in [artikel 6, derde lid, van de wet](../../../../../../../wet/wet/balansverkorting/geldelijke/steun/volkshuisvesting/BWBR0007419/README.md) bedoelde percentage, toetst de Minister of dat percentage, gelet op de leningsvoorwaarden en de looptijd van de lening, overeenkomt met de geldende marktomstandigheden.   
-2.  Indien het percentage afwijkt van de geldende marktomstandigheden geldt voor de vaststelling van de rentebijdrage het in [artikel 6, derde lid, van de wet](../../../../../../../wet/wet/balansverkorting/geldelijke/steun/volkshuisvesting/BWBR0007419/README.md) bedoelde rentepercentage.   
+1.  Indien het rentepercentage van een lening aangegaan ter vervanging van leningen als bedoeld in artikel 6, eerste lid, van de wet, hoger is dan het in artikel 6, derde lid, van de wet bedoelde percentage, toetst de Minister of dat percentage, gelet op de leningsvoorwaarden en de looptijd van de lening, overeenkomt met de geldende marktomstandigheden.   
+2.  Indien het percentage afwijkt van de geldende marktomstandigheden geldt voor de vaststelling van de rentebijdrage het in artikel 6, derde lid, van de wet bedoelde rentepercentage.   
 
 ### Artikel  12  
 
-Indien het percentage van de rente van een lening als bedoeld in [artikel 6, eerste lid, van de wet](../../../../../../../wet/wet/balansverkorting/geldelijke/steun/volkshuisvesting/BWBR0007419/README.md) na 1 januari 1995, doch voor het tijdstip van inwerkingtreding van een beschikking als bedoeld in [artikel 3, eerste lid, van de wet](../../../../../../../wet/wet/balansverkorting/geldelijke/steun/volkshuisvesting/BWBR0007419/README.md) ingevolge de voor die lening geldende leningsovereenkomst nader wordt vastgesteld, geldt voor de toepassing van [artikel 6 van de wet](../../../../../../../wet/wet/balansverkorting/geldelijke/steun/volkshuisvesting/BWBR0007419/README.md) dat nader vastgestelde percentage. 
+Indien het percentage van de rente van een lening als bedoeld in artikel 6, eerste lid, van de wet na 1 januari 1995, doch voor het tijdstip van inwerkingtreding van een beschikking als bedoeld in artikel 3, eerste lid, van de wet ingevolge de voor die lening geldende leningsovereenkomst nader wordt vastgesteld, geldt voor de toepassing van artikel 6 van de wet dat nader vastgestelde percentage. 
 
 ### Artikel  13  
 

@@ -44,11 +44,11 @@ c.een penitentiaire inrichting.
 1. Op verzoek blijft voor de toepassing van artikel 2 van de wet, van artikel 7 van de Algemene wet inkomensafhankelijke regelingen en de op die artikelen berustende bepalingen voor zover het betreft het toekennen van een huurtoeslag, een partner of medebewoner buiten beschouwing indien sprake is van een verzorgingsbehoefte bij de huurder, diens partner of een medebewoner. 
 2. Het eerste lid geldt uitsluitend ten aanzien van de partner of medebewoner die met het oog op de verzorgingsbehoefte van de huurder of van hemzelf als ingezetene op hetzelfde woonadres als de huurder staat ingeschreven in de basisregistratie personen en is van toepassing indien:
 
-a.de verzorgingsbehoefte blijkt uit een verklaring van een indicatieorgaan als bedoeld in artikel 9a van de Algemene Wet Bijzondere Ziektekosten;
+a. de verzorgingsbehoefte blijkt uit een indicatiebesluit van het CIZ, genoemd in artikel 7.1.1 van de Wet langdurige zorg; 
 
-b.het voordeel uit sparen en beleggen als bedoeld in artikel 5.2 van de Wet inkomstenbelasting 2001 over het berekeningsjaar van de in het eerste lid bedoelde buiten beschouwing te laten persoon, niet meer bedraagt dan € 4.052 en
+b.het voordeel uit sparen en beleggen als bedoeld in artikel 5.2 van de Wet inkomstenbelasting 2001 over het berekeningsjaar van de in het eerste lid bedoelde buiten beschouwing te laten persoon, niet meer bedraagt dan € 4.116 en
 
-c.het gezamenlijke toetsingsinkomen van de huurder, diens partner en de medebewoners, met inbegrip van de in het eerste lid bedoelde buiten beschouwing te laten persoon, niet meer bedraagt dan € 44.450. 
+c.het gezamenlijke toetsingsinkomen van de huurder, diens partner en de medebewoners, met inbegrip van de in het eerste lid bedoelde buiten beschouwing te laten persoon, niet meer bedraagt dan € 45.175. 
 3. Voor de toepassing van het eerste lid wordt geen rekening gehouden met de verzorgingsbehoefte van een minderjarige eerstegraads bloed- of aanverwant in de neergaande lijn. 
 4. Artikel 27, eerste lid, van de wet is van overeenkomstige toepassing op de in het tweede lid, onderdelen b en c, vermelde bedragen, waarbij ten aanzien van het in het tweede lid, onderdeel c, vermelde bedrag het resultaat naar boven wordt afgerond op een veelvoud van € 25.
 
@@ -64,7 +64,7 @@ c.wezenuitkeringen die met toepassing van artikel 49 van de Algemene nabestaande
 
 d.afkoopsommen op grond van de Liquidatiewet ongevallenwetten;
 
-e.verhogingen op grond van artikel 10 van de Wet arbeidsongeschiktheidsverzekering zelfstandigen, artikel 2:51 of 3:9 van de Wet werk en arbeidsondersteuning jonggehandicapten of artikel 22 van de Wet op de arbeidsongeschiktheidsverzekering voorzover het bedrag van de verhoging niet hoger is dan het in artikel 6.20, eerste lid, onderdeel a, van de Wet inkomstenbelasting 2001 genoemde drempelbedrag voor uitgaven voor specifieke zorgkosten. 
+e.verhogingen op grond van artikel 10 van de Wet arbeidsongeschiktheidsverzekering zelfstandigen, artikel 2:51 of 3:9 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten of artikel 22 van de Wet op de arbeidsongeschiktheidsverzekering voorzover het bedrag van de verhoging niet hoger is dan het in artikel 6.20, eerste lid, onderdeel a, van de Wet inkomstenbelasting 2001 genoemde drempelbedrag voor uitgaven voor specifieke zorgkosten. 
 2. Indien sprake is van een nabetaling die over de berekeningsjaren waarop deze nabetaling betrekking heeft gemiddeld meer dan € 2300 per jaar bedraagt, vindt het eerste lid, onderdeel b, uitsluitend toepassing indien over de berekeningsjaren waarop de nabetaling betrekking heeft minder huurtoeslag zou worden genoten dan indien de betrokken inkomsten niet als nabetaling zouden zijn uitbetaald. 
 3. Indien de belanghebbende gedurende het gehele berekeningsjaar een partner heeft, wordt het in het eerste lid, onderdeel e, bedoelde drempelbedrag voor uitgaven voor specifieke zorgkosten verdubbeld.
 
@@ -98,7 +98,7 @@ a.de desbetreffende woonruimten bestemd zijn voor huurders die zonder zorg of be
 
 b.het begeleid wonen of de daarmee vergelijkbare woonvorm gericht is op integratie en acceptatie van de bewoners in de nabije omgeving;
 
-c.de zorg of begeleiding plaatsvindt door een instelling als bedoeld in artikel 1, eerste lid, onderdeel f, van de Wet toelating zorginstellingen, die zorg verleent waarop aanspraak bestaat ingevolge de Algemene Wet Bijzondere Ziektekosten of door een andere deskundige, erkende hulpverleningsinstantie, of de huurders beschikken over een persoonsgebonden budget op grond van laatstgenoemde wet;
+c.de zorg of begeleiding plaatsvindt door een instelling als bedoeld in artikel 1, eerste lid, onderdeel f, van de Wet toelating zorginstellingen, die zorg verleent waarop aanspraak bestaat ingevolge de Wet langdurige zorg of door een andere deskundige, erkende hulpverleningsinstantie, of de huurders beschikken over een persoonsgebonden budget als bedoeld in de Wet langdurige zorg, de Zorgverzekeringswet, de Wet maatschappelijke ondersteuning 2015 of de Jeugdwet;
 
 d.er een gescheiden huur- en zorgovereenkomst is, en
 

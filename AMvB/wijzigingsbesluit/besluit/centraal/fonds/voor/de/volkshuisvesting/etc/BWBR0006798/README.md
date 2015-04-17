@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 15 september, nr. MJZ 15993010, Centrale Directie Juridische Zaken, Afdeling Wetgeving;
 
-Gelet op [artikel 71 van de Woningwet](../../../../../../../../../../wet/woningwet/BWBR0005181/README.md);
+Gelet op artikel 71 van de Woningwet;
 
 Gezien het advies van de Raad voor de Volkshuisvesting van 5 april 1993, nr. 209;
 
@@ -25,7 +25,7 @@ Bevat wijzigingen in andere regelgeving.
 
 ### Artikel  III  
 
-Onze Minister kan bepalen, dat het Centraal Fonds voor de Volkshuisvesting vóór 1 oktober 1994 de in [artikel 10, eerste lid, van het Besluit Centraal Fonds voor de Volkshuisvesting](../../../../../../../../../../AMvB/besluit/centraal/fonds/voor/de/volkshuisvesting/BWBR0004418/README.md) bedoelde bijdrage, verschuldigd over 1993, geheel of gedeeltelijk aan de betrokken toegelaten instellingen restitueert, voor zover dit geen afbreuk doet aan een verantwoorde uitvoering van artikel 3 van genoemd besluit. 
+Onze Minister kan bepalen, dat het Centraal Fonds voor de Volkshuisvesting vóór 1 oktober 1994 de in artikel 10, eerste lid, van het Besluit Centraal Fonds voor de Volkshuisvesting bedoelde bijdrage, verschuldigd over 1993, geheel of gedeeltelijk aan de betrokken toegelaten instellingen restitueert, voor zover dit geen afbreuk doet aan een verantwoorde uitvoering van artikel 3 van genoemd besluit. 
 
 ### Artikel  IV  
 

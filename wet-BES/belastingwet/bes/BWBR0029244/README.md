@@ -2262,7 +2262,7 @@ De verplichting tot betaling wordt niet geschorst door het instellen van beroep.
 
 ####Behandeling door een enkelvoudige en een meervoudige kamer
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 30-06-2015 
 
 1.  Zaken die bij het Gerecht in eerste aanleg aanhangig worden gemaakt, worden in behandeling genomen door een enkelvoudige kamer.   
 2.  De enkelvoudige kamer kan een zaak naar een meervoudige kamer verwijzen.   
@@ -2272,7 +2272,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Gelijke toepassing voorschriften en bevoegdheden
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 30-06-2015 
 
 1.  De voorschriften omtrent de behandeling van het beroep zijn op de behandeling zowel door een enkelvoudige als door een meervoudige kamer van toepassing.   
 2.  Degene die zitting heeft in een enkelvoudige kamer heeft tevens de bevoegdheden en de verplichtingen die de voorzitter van een meervoudige kamer heeft.  
@@ -2329,7 +2329,7 @@ De Raad kan de indiener van het beroepschrift in de gelegenheid stellen schrifte
 
 ####Vereenvoudigde behandeling
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 30-06-2015 
 
 Het Gerecht in eerste aanleg kan onmiddellijk uitspraak doen indien een nader onderzoek het Gerecht niet nodig voorkomt, omdat: 
 
@@ -2345,7 +2345,7 @@ d. de inspecteur kennelijk aan de bezwaren van de belanghebbende tegemoet is gek
 
 ####Verzet
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 30-06-2015 
 
 1.  Tegen de in artikel 8.106a bedoelde uitspraak kunnen partijen schriftelijk verzet doen bij het Gerecht in eerste aanleg. Artikel 8.103 is van overeenkomstige toepassing.   
 2.  Alvorens een uitspraak te doen op het verzet, kan het Gerecht in eerste aanleg de partij die het verzet deed in de gelegenheid stellen te worden gehoord. Is het Gerecht in eerste aanleg van oordeel dat het verzet ongegrond is, dan gaat het niet tot ongegrondverklaring over dan na de indiener van het verzetschrift die daarom vroeg in de gelegenheid te hebben gesteld te worden gehoord.   
@@ -2456,13 +2456,13 @@ Binnen twee weken na de dagtekening van de uitspraak zendt de secretaris kostelo
 
 #### Hoger beroep 
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 30-06-2015 
 
 ### Artikel  8.116a  
 
 ####Hoger beroep
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 30-06-2015 
 
 1.  Partijen kunnen bij het Hof hoger beroep instellen tegen een uitspraak van het Gerecht in eerste aanleg als bedoeld in de artikelen 8.112 en 8.113.   
 2.  De termijn voor het instellen van hoger beroep bedraagt twee maanden na de dag van de toezending van de uitspraak van het Gerecht in eerste aanleg overeenkomstig artikel 8.116.   
@@ -2472,7 +2472,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Overeenkomstige toepassing
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 30-06-2015 
 
 Op het hoger beroep zijn de artikelen van afdeling 3, met uitzondering van de artikelen 8.102a en 8.102b, van overeenkomstige toepassing, voor zover in deze afdeling niet anders is bepaald. 
 
@@ -2480,7 +2480,7 @@ Op het hoger beroep zijn de artikelen van afdeling 3, met uitzondering van de ar
 
 ####Griffierecht
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 30-06-2015 
 
 1.  Van de indiener van het beroepschrift in hoger beroep wordt ten behoeve van ’s Rijks schatkist een griffierecht geheven ten bedrage van USD 60.   
 2.  De griffier wijst de indiener van het beroepschrift op de verschuldigdheid van het griffierecht en deelt hem mee dat het griffierecht binnen zes weken na de verzending van zijn mededeling dient te zijn betaald aan het Hof.   
@@ -2491,7 +2491,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Strekking uitspraak
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 30-06-2015 
 
 1.  Het Hof bevestigt de uitspraak van het Gerecht in eerste aanleg, hetzij met overneming hetzij met verbetering van de gronden, of doet, met gehele of gedeeltelijke vernietiging van die uitspraak, hetgeen het Gerecht in eerste aanleg had behoren te doen.   
 2.  Wanneer het Gerecht in eerste aanleg de niet-ontvankelijkheid heeft uitgesproken en het Hof deze uitspraak vernietigt met een ontvankelijkverklaring, wordt de zaak terugverwezen naar het Gerecht in eerste aanleg om te worden hervat in de stand waarin de behandeling zich bevond. Tegen de nieuwe uitspraak van het Gerecht in eerste aanleg staat hoger beroep open overeenkomstig deze afdeling.   
