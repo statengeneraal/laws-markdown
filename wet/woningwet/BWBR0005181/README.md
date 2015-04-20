@@ -705,6 +705,12 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 Indien toepassing van bestuursdwang ter handhaving van de bij of krachtens deze wet gegeven voorschriften leidt tot het slopen van een bouwwerk, worden de overblijvende materialen door het bevoegd gezag in het openbaar verkocht, tenzij, naar redelijkerwijs is te verwachten, bij onderhandse verkoop een hogere opbrengst kan worden verkregen. De opbrengst wordt, na aftrek van de kosten van het slopen en van de verkoop, aan de rechthebbende uitgekeerd.  
 
+### Artikel  104a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Onze Minister kan een toegelaten instelling aan welke compensatie niet volledig toekomt, verplichten tot betaling van een geldsom ten laste van die compensatie. Artikel 61d, eerste lid, tweede volzin, is ten aanzien van een samenwerkingsvennootschap als bedoeld in die volzin van overeenkomstige toepassing.   
+2.  Bij algemene maatregel van bestuur kunnen nadere voorschriften worden gegeven omtrent de toepassing van het eerste lid.  
+
 ### Artikel  105  
 
 1.  Onze Minister kan aan een toegelaten instelling die in strijd handelt met het bepaalde bij of krachtens artikel 70, 70a of 70c, of met een maatregel als bedoeld in artikel 70d, tweede lid, tweede volzin, onderdeel a, b of c, een last onder dwangsom opleggen.   

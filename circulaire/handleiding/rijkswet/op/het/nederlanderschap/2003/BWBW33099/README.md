@@ -2269,7 +2269,7 @@ Uitzonderingen daargelaten (bijvoorbeeld in geval van op goede gronden gerezen t
 ####Verkrijging, vertaling en legalisatie van buitenlandse documenten
 
 Voor zowel het verkrijgen van documenten als de vertalingen en eventuele legalisatie en inhoudelijke verificatie van stukken, dient betrokkene zelf zorg te dragen. Indien de documenten zijn opgesteld in een andere taal dan het Nederlands, Engels, Duits of Frans, dient de optant zorg te dragen voor een door een beëdigd vertaler gemaakte vertaling, die gehecht moet zijn aan het originele (afschrift van het) document. De circulaire legalisatie en verificatie van buitenlandse bewijsstukken betreffende de staat van personen, alsmede de toepassing van DNA-onderzoek in een aantal gevallen waarin bewijsstukken ontbreken van 15 mei 2006 is van toepassing. Wanneer een houder van een verblijfsvergunning asiel, bezwaar maakt tegen het aanvragen van documenten in het land van herkomst, wordt van overlegging van die documenten afgezien. Hiervan kan echter worden afgeweken indien zich een van de situaties voordoet op grond waarvan bezwaar tegen legalisatie niet zou hoeven worden gehonoreerd. 
-###paragraaf 2.2.5.6 
+###Paragraaf 2.2.5.6 
 
 ####Bewijsnood (gelegaliseerde/van apostille voorziene) buitenlandse documenten
 
@@ -2277,9 +2277,20 @@ Van de voorwaarde van het overleggen van uit het buitenland afkomstige gelegalis
 
 * de optant beschikt over een document (bijvoorbeeld een identiteitsbewijs) dat ná de datum van de verleende reguliere verblijfsvergunning aan hem in persoon is afgegeven door de autoriteiten van het land van herkomst;  
 
-* op verzoek van de optant een rechtsfeit of rechtshandeling heeft plaatsgevonden waarbij de autoriteiten waarvan de verzoeker de nationaliteit bezit betrokken waren; of  
+* op verzoek van de optant een rechtsfeit of rechtshandeling heeft plaatsgevonden waarbij de autoriteiten waarvan de optant de nationaliteit bezit betrokken waren; of  
 
-* de optant vrijwillig naar het land van herkomst is gereisd, waarvan hij de nationaliteit bezit  Er kunnen echter omstandigheden zijn dat ondanks dat één van bovenstaande omstandigheden zich heeft voorgedaan, toch sprake is van bewijsnood. 
+* de optant vrijwillig naar het land van herkomst is gereisd, waarvan hij de nationaliteit bezit.   Er kunnen echter omstandigheden zijn dat ondanks dat één van bovenstaande omstandigheden zich heeft voorgedaan, toch sprake is van bewijsnood.
+###*Syrië*
+
+###*Geboorteakte*
+
+Op grond van het ambtsbericht van het ministerie van Buitenlandse Zaken van 11 december 2013 is vanwege de bestaande politieke situatie in Syrië besloten dat bij het afleggen van een optieverklaring tot 1 april 2015 een in Syrië geboren vreemdeling niet een uit Syrië afkomstige geboorteakte hoeft te overleggen. Het ambtsbericht Syrië geeft aan dat civiele registers vernietigd zijn dan wel niet meer volledig functioneren. Deze vrijstelling is verlengd tot 1 april 2016. Mocht een in Syrië geboren vreemdeling wel een uit Syrië afkomstige geboorteakte/uittreksel van de geboorteakte overleggen, dan wordt deze door de bevoegde autoriteiten, na de gebruikelijke controle en akkoordbevinding, geregistreerd in de desbetreffende bevolkingsbasisregistratie.
+###*Paspoort*
+
+De Staatssecretaris van Veiligheid en Justitie heeft bij brief de Tweede Kamer geïnformeerd (TK 2014–2015, 19 637 nr. 1928 d.d. 21 november 2014) dat Syriërs tijdelijk geen geldig Syrisch paspoort hoeven te overleggen. Een groot deel van de Syrische ambassades in West-Europa is gesloten en de Syrische ambassade in Brussel levert nog maar beperkt consulaire diensten. Het is dus in veel gevallen op dit moment niet mogelijk voor Syrische onderdanen om aan het paspoortvereiste te voldoen. Ook deze vrijstelling is verlengd tot 1 april 2016.
+###*Conclusie*
+
+Dit betekent dat tot 1 april 2016 optieverklaringen kunnen worden afgelegd zonder dat de vreemdeling, die in Syrië is geboren en/of de Syrische nationaliteit heeft, verplicht is om een geboorteakte en/of geldig paspoort te overleggen. Dit geldt tevens als op de optieverklaring na 1 april 2016 nog moet worden beslist, al dan niet na een rechterlijke procedure over het verzoek.
 ###*Voorbeeld*
 
 Betrokkene heeft regulier verblijfsrecht gekregen, nadat haar asielverzoek was afgewezen. Bij het verkrijgen van die reguliere verblijfsvergunning werd zij indertijd vrijgesteld van het paspoortvereiste. Bij het afleggen van haar optieverklaring overlegt zij nu een Engelstalige verklaring van de ambassade van het land van herkomst. Uit de verklaring blijkt dat betrokkene een geboorteakte heeft proberen op te vragen en dat haar verzoek door is gestuurd naar het land van herkomst. Daar is echter gebleken dat haar geboortegegevens onvindbaar zijn in de betreffende archieven. Deze verklaring op zich is niet voldoende om bewijsnood aan te tonen. Het zou immers kunnen dat betrokkene niet werkelijk geboren is in het land waar zij vandaan stelt te komen. Slechts wanneer er geen indicaties zijn dat betrokkene wellicht afkomstig is uit een ander land dan gesteld en wanneer de gegevens van betrokkene op de verklaring overeenkomen met de gegevens die zij eerder op heeft gegeven bij het indienen van haar asielverzoek en bij het afleggen van de VOE kan op grond van een dergelijke verklaring eventueel bewijsnood aangenomen worden. Andere stukken (zoals een schooldiploma of een doopakte uit het land van herkomst) waar ook dezelfde gegevens op vermeld staan, zouden het in dit geval makkelijker maken om het beroep op bewijsnood te accepteren.
@@ -3115,7 +3126,7 @@ Als in het verleden al gelegaliseerde (en soms tevens geverifieerde) documenten 
 ####Verkrijging, vertaling en legalisatie van buitenlandse documenten
 
 Voor zowel het verkrijgen van documenten als de vertalingen en eventuele legalisatie van stukken, dient betrokkene zelf zorg te dragen. Indien de documenten zijn opgesteld in een andere taal dan het Nederlands, Engels, Duits of Frans, dient verzoeker zorg te dragen voor een door een beëdigd vertaler gemaakte vertaling, die gehecht moet zijn aan het originele (afschrift van het) document. De circulaire legalisatie en verificatie van buitenlandse bewijsstukken betreffende de staat van personen, alsmede de toepassing van DNA-onderzoek in een aantal gevallen waarin bewijsstukken ontbreken van 15 mei 2006 is van toepassing. Wanneer een houder van een verblijfsvergunning asiel, bezwaar maakt tegen het aanvragen van documenten in het land van herkomst, wordt van overlegging van die documenten afgezien. Hiervan kan echter worden afgeweken indien zich een van de situaties voordoet op grond waarvan bezwaar tegen legalisatie niet zou hoeven worden gehonoreerd. 
-###paragraaf 3.5.6 
+###Paragraaf 3.5.6 
 
 ####Bewijsnood gelegaliseerde buitenlandse documenten
 
@@ -3125,8 +3136,19 @@ Van de voorwaarde van het overleggen van uit het buitenland afkomstige gelegalis
 
 * op verzoek van verzoeker een rechtsfeit of rechtshandeling heeft plaatsgevonden waarbij de autoriteiten waarvan de verzoeker de nationaliteit bezit betrokken waren; of  
 
-* verzoeker vrijwillig naar het land van herkomst is gereisd, waarvan hij de nationaliteit bezit.  Er kunnen echter omstandigheden zijn dat ondanks dat één van bovenstaande omstandigheden zich heeft voorgedaan, toch sprake is van bewijsnood.
-### *Voorbeeld*
+* verzoeker vrijwillig naar het land van herkomst is gereisd, waarvan hij de nationaliteit bezit.   Er kunnen echter omstandigheden zijn dat ondanks dat één van bovenstaande omstandigheden zich heeft voorgedaan, toch sprake is van bewijsnood.
+###*Syrië*
+
+###*Geboorteakte*
+
+Op grond van het ambtsbericht van het ministerie van Buitenlandse Zaken van 11 december 2013 is vanwege de bestaande politieke situatie in Syrië besloten dat in de naturalisatieprocedure tot 1 april 2015 een in Syrië geboren vreemdeling niet een uit Syrië afkomstige geboorteakte hoeft te overleggen. Het ambtsbericht Syrië geeft aan dat civiele registers vernietigd zijn dan wel niet meer volledig functioneren. Deze vrijstelling is verlengd tot 1 april 2016. Mocht een in Syrië geboren vreemdeling wel een uit Syrië afkomstige geboorteakte/uittreksel van de geboorteakte dan wordt deze door de bevoegde autoriteiten, na de gebruikelijke controle en akkoordbevinding, geregistreerd in de desbetreffende bevolkingsbasisregistratie.
+###*Paspoort*
+
+De Staatssecretaris van Veiligheid en Justitie heeft bij brief de Tweede Kamer geïnformeerd (TK 2014–2015, 19 637 nr. 1928 d.d. 21 november 2014) dat Syriërs tijdelijk geen geldig Syrisch paspoort hoeven te overleggen. Een groot deel van de Syrische ambassades in West-Europa is gesloten en de Syrische ambassade in Brussel levert nog maar beperkt consulaire diensten. Het is dus in veel gevallen op dit moment niet mogelijk voor Syrische onderdanen om aan het paspoortvereiste te voldoen. Ook deze vrijstelling is verlengd tot 1 april 2016.
+###*Conclusie*
+
+Dit betekent dat tot 1 april 2016 naturalisatieverzoeken kunnen worden gedaan zonder dat de vreemdeling, die in Syrië is geboren en/of de Syrische nationaliteit heeft, verplicht is om een geboorteakte en/of geldig paspoort te overleggen. Dit geldt tevens in het geval dat op het naturalisatieverzoek na 1 april 2016 nog moet worden beslist, al dan niet na een rechterlijke procedure over het verzoek.
+###*Voorbeeld*
 
 Betrokkene heeft regulier verblijfsrecht gekregen, nadat haar asielverzoek was afgewezen. Bij het verkrijgen van die reguliere verblijfsvergunning werd zij indertijd vrijgesteld van het paspoortvereiste. Bij het indienen van haar verzoek om naturalisatie overlegt zij nu een Engelstalige verklaring van de ambassade van het land van herkomst. Uit de verklaring blijkt dat betrokkene een geboorteakte heeft proberen op te vragen en dat haar verzoek door is gestuurd naar het land van herkomst. Daar is echter gebleken dat haar geboortegegevens onvindbaar zijn in de betreffende archieven. Deze verklaring op zich is niet voldoende om bewijsnood aan te tonen. Het zou immers kunnen dat betrokkene niet werkelijk geboren is in het land waar zij vandaan stelt te komen. Slechts wanneer er geen indicaties zijn dat betrokkene wellicht afkomstig is uit een ander land dan gesteld en wanneer de gegevens van betrokkene op de verklaring overeenkomen met de gegevens die zij eerder op heeft gegeven bij het indienen van haar asielverzoek en bij het afleggen van de VOE kan op grond van een dergelijke verklaring eventueel bewijsnood aangenomen worden. Andere stukken (zoals een schooldiploma of een doopakte uit het land van herkomst) waar ook dezelfde gegevens op vermeld staan, zouden het in dit geval makkelijker maken om het beroep op bewijsnood te accepteren.
 ###paragraaf 3.6 

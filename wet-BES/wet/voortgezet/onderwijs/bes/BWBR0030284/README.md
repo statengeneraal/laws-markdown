@@ -149,6 +149,17 @@ Onderwijs in lichamelijke opvoeding, bestaande uit praktische bewegingsactivitei
 3.  Bij of krachtens algemene maatregel van bestuur kunnen nadere voorschriften worden gegeven over de gegevens omtrent de invulling van de uren en de in een onderwijsprogramma verzorgde activiteiten.   
 4.  Ten behoeve van het verrichten van andere taken dan het verzorgen van onderwijs stelt het bevoegd gezag jaarlijks de data vast van ten hoogste negen werkdagen waarop geen onderwijs behoeft te worden verzorgd, waarvan ten hoogste zes werkdagen onmiddellijk aansluitend en ten hoogste vijf werkdagen niet onmiddellijk aansluitend voor of na de voor de school op grond van artikel 45, tweede lid, vastgestelde grote vakantie.  
 
+### Artikel  12b  
+
+####Onderwijsdagen
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  In elk schooljaar wordt op ten minste 189 dagen onderwijs verzorgd.   
+2.  In afwijking van het in het eerste lid genoemde aantal dagen behoeft in het laatste leerjaar geen onderwijs te worden verzorgd vanaf de aanvang van het eerste tijdvak waarin het centraal eindexamen wordt afgenomen.   
+3.  Bij of krachtens algemene maatregel van bestuur kunnen voorschriften worden gesteld omtrent vakanties en andere dagen waarop geen onderwijs behoeft te worden verzorgd.   
+4.  Bij ministeriële regeling kunnen begin en eind van vakanties worden vastgesteld, die niet voor alle scholen gelijk behoeven te zijn. Daarbij kan het aantal dagen, genoemd in het eerste lid, voor een daarbij aan te geven groep scholen, hoger of lager worden vastgesteld indien dit noodzakelijk is in verband met de spreiding van de landelijk vastgestelde vakantie over verschillende delen van Nederland.  
+
 ### Artikel  13  
 
 ####Voorbereidend wetenschappelijk onderwijs

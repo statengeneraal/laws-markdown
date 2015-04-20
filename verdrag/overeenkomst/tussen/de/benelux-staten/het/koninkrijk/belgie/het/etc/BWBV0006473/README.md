@@ -2007,12 +2007,9 @@ Treedt in werking op een nader te bepalen tijdstip
 
 Treedt in werking op een nader te bepalen tijdstip 
 
-| --- |
-|:---|
-| --- |
-| --- |
-| --- |
-| --- |
+| --- | --- | --- |
+|:---|:---|:---|
+| --- | --- | --- |
 
 | --- | --- |
 |:---|:---|

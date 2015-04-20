@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Onderwijs, Cultuur en Wetenschap van 27 april 2011, WJZ/290456 (3842), directie Wetgeving en Juridische Zaken, gedaan mede namens Onze Minister van Economische Zaken, Landbouw en Innovatie;
 
-Gelet op de [artikelen 10f, vijfde lid](../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), [19](../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), [22, derde lid](../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), [29, vierde lid](../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), [30, tweede lid](../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), [60, vijfde lid](../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), en [85, vierde lid, van de Wet op het voortgezet onderwijs](../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);
+Gelet op de artikelen 10f, vijfde lid, 19, 22, derde lid, 29, vierde lid, 30, tweede lid, 60, vijfde lid, en 85, vierde lid, van de Wet op het voortgezet onderwijs;
 
 De Afdeling advisering van de Raad van State gehoord (advies van 20 mei 2011, nr. W05.11.0150/I);
 
@@ -15,31 +15,31 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-####Wijziging van het [Bekostigingsbesluit W.V.O](../../../../../../../../../AMvB/bekostigingsbesluit/wvo/BWBR0005672/README.md).
+####Wijziging van het Bekostigingsbesluit W.V.O.
 
 Wijzigt het Bekostigingsbesluit W.V.O. 
 
 ### Artikel  II  
 
-####Wijziging van het [Staatsexamenbesluit VO](../../../../../../../../../AMvB/staatsexamenbesluit/vo/BWBR0011538/README.md)
+####Wijziging van het Staatsexamenbesluit VO
 
 Wijzigt het Staatsexamenbesluit VO. 
 
 ### Artikel  III  
 
-####Wijziging van het [Besluit vbo-groen in een AOC](../../../../../../../../../AMvB/besluit/vbo-groen/in/een/aoc/BWBR0019495/README.md)
+####Wijziging van het Besluit vbo-groen in een AOC
 
 Wijzigt het Besluit vbo-groen in een AOC. 
 
 ### Artikel  IV  
 
-####Wijziging van het [Eindexamenbesluit VO](../../../../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md)
+####Wijziging van het Eindexamenbesluit VO
 
 Wijzigt het Eindexamenbesluit VO. 
 
 ### Artikel  V  
 
-####Wijziging van het [Inrichtingsbesluit WVO](../../../../../../../../../AMvB/inrichtingsbesluit/wvo/BWBR0005946/README.md)
+####Wijziging van het Inrichtingsbesluit WVO
 
 Wijzigt het Inrichtingsbesluit WVO. 
 

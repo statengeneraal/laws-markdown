@@ -451,6 +451,34 @@ b. in afwijking van artikel 26 de stemopneming plaatsvindt op de eerste werkdag 
 
 c. in afwijking van artikel Y 2 juncto artikel O 1, eerste lid, van de Kieswet, het hoofdstembureau op de dag na de dag van de stemopneming om tien uur een openbare zitting houdt.   
 
+### Artikel  47a  
+Treedt in werking per 01-07-2015 
+
+Op een experiment met een nieuw stembiljet voor kiezers buiten Nederland bij een referendum als bedoeld in de Wet raadgevend referendum is hoofdstuk 2, met uitzondering van de artikelen 5, eerste lid, en 12 tot en met 16, van toepassing met dien verstande dat: 
+
+a. in artikel 3 voor «artikel M 1 van de Kieswet» wordt gelezen: artikel 62, eerste lid, van de Wet raadgevend referendum juncto artikel M 1 van de Kieswet.  
+
+b. in artikel 5, tweede lid, voor «artikel M 6, eerste lid, aanhef, van de Kieswet» wordt gelezen «artikel 62, eerste lid, van de Wet raadgevend referendum juncto artikel M 6, eerste lid, aanhef, van de Kieswet» en de zinsnede «en stelt hem het overzicht van de kandidatenlijsten beschikbaar» buiten toepassing blijft.  
+
+c. in artikel 6, eerste lid, voor «artikel M 13, vierde lid, van de Kieswet» wordt gelezen «artikel 62, eerste lid, van de Wet raadgevend referendum juncto artikel M 13, vierde lid, van de Kieswet» en voor «artikel M 6, eerste lid, onderdeel b, van de Kieswet» wordt gelezen: artikel 62, eerste lid, van de Wet raadgevend referendum juncto artikel M 6, eerste lid, onderdeel b, van de Kieswet.  
+
+d. in artikel 6, tweede lid, voor «artikel M 7, vierde lid, van de Kieswet» wordt gelezen «artikel 62, eerste lid, van de Wet raadgevend referendum juncto artikel M 7, vierde lid, van de Kieswet» en voor «artikel M 6a, eerste lid, van de Kieswet» wordt gelezen: artikel 62, eerste lid, van de Wet raadgevend referendum juncto artikel M 6a, eerste lid, van de Kieswet.  
+
+e. in artikel 10, eerste lid, voor «artikel M 2, tweede lid, van de Kieswet» wordt gelezen: artikel 62, eerste lid, van de Wet raadgevend referendum juncto artikel M 2, tweede lid, van de Kieswet.  
+
+f. in artikel 10, derde en vierde lid, telkens voor «artikel J 24, tweede lid, van de Kieswet» wordt gelezen: artikel 59, onderdeel d, van de Wet raadgevend referendum juncto artikel J 24, tweede lid, van de Kieswet.  
+
+g. in artikel 11 voor «artikel M 10, eerste lid, van de Kieswet» wordt gelezen: artikel 62, eerste lid, van de Wet raadgevend referendum juncto artikel M 10, eerste lid, van de Kieswet.   
+
+### Artikel  47b  
+Treedt in werking per 01-07-2015 
+
+1.  Onze minister stelt voor een experiment met een nieuw stembiljet voor kiezers buiten Nederland bij een referendum als bedoeld in de Wet raadgevend referendum een stembiljet vast dat elektronisch naar de kiezer in het buitenland kan worden verzonden. Artikel 58, eerste lid, tweede zin, van de Wet raadgevend referendum is niet van toepassing.   
+2.  In afwijking van artikel 69 van de Wet raadgevend referendum juncto artikel N 16, derde en vierde lid, van de Kieswet, wordt de geldigheid en de betekenis van een stem vastgesteld op basis van de volgende leden.   
+3.  Een stem is geldig die voor of tegen de inzake de aan het referendum onderworpen wet dan wel blanco is uitgebracht met een stembiljet dat bij of krachtens de Experimentenwet mag worden gebruikt en waarop geen bijvoegingen zijn geplaatst waardoor de kiezer kan worden geïdentificeerd.   
+4.  Een stem is voor of tegen de inzake de aan het referendum onderworpen wet uitgebracht indien dat op ondubbelzinnige wijze is kenbaar gemaakt door het geheel of gedeeltelijk rood, blauw, zwart of groen maken van het witte stipje, geplaatst vóór zijn keuze inzake de aan het referendum onderworpen wet te noteren in de daarvoor bestemde ruimte op het stembiljet.   
+5.  Een stem is blanco uitgebracht indien dat op ondubbelzinnige wijze is kenbaar gemaakt doordat geen wit stipje rood, blauw, zwart of groen is gemaakt.  
+
 ### Artikel  48  
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en vervalt met ingang van de dag dat de Tijdelijke Experimentenwet stembiljetten en centrale stemopneming (Stb. 2013, 240) vervalt. 

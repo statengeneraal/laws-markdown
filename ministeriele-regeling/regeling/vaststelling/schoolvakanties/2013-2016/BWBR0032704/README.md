@@ -5,7 +5,7 @@
 De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,  
 Handelende in overeenstemming met de Minister van Economische Zaken;
 
-Gelet op [artikel 15, tweede lid, van de Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md), [artikel 26, tweede lid, van de Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md), [artikel 22, tweede lid, van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [artikel 17 van het Inrichtingsbesluit W.V.O.](../../../../../../AMvB/inrichtingsbesluit/wvo/BWBR0005946/README.md);
+Gelet op artikel 15, tweede lid, van de Wet op het primair onderwijs, artikel 26, tweede lid, van de Wet op de expertisecentra, artikel 22, tweede lid, van de Wet op het voortgezet onderwijs en artikel 17 van het Inrichtingsbesluit W.V.O.;
 BESLUIT:    
 
 ### Artikel  1  
@@ -16,15 +16,15 @@ In deze regeling wordt verstaan onder:
 
 a.  *de minister:* de Minister van Onderwijs, Cultuur en Wetenschap;  
 
-b.  *een school voor basisonderwijs:* een basisschool of speciale school voor basisonderwijs als bedoeld in [artikel 1 de Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md);  
+b.  *een school voor basisonderwijs:* een basisschool of speciale school voor basisonderwijs als bedoeld in artikel 1 de Wet op het primair onderwijs;  
 
-c.  *een school voor speciaal onderwijs:* een school voor speciaal onderwijs als bedoeld in [artikel 1 van de Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md);  
+c.  *een school voor speciaal onderwijs:* een school voor speciaal onderwijs als bedoeld in artikel 1 van de Wet op de expertisecentra;  
 
-d.  *een school voor speciaal en voortgezet speciaal onderwijs:* een school, dan wel een instelling voor speciaal en voortgezet speciaal onderwijs als bedoeld in [artikel 1 van de Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md);  
+d.  *een school voor speciaal en voortgezet speciaal onderwijs:* een school, dan wel een instelling voor speciaal en voortgezet speciaal onderwijs als bedoeld in artikel 1 van de Wet op de expertisecentra;  
 
-e.  *een school voor voortgezet speciaal onderwijs:* een school voor voortgezet speciaal onderwijs, als bedoeld in [artikel 1 van de Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md);  
+e.  *een school voor voortgezet speciaal onderwijs:* een school voor voortgezet speciaal onderwijs, als bedoeld in artikel 1 van de Wet op de expertisecentra;  
 
-f.  *een school voor voortgezet onderwijs:* een school voor voortgezet onderwijs als bedoeld in de [Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), met uitzondering van het voorbereidend beroepsonderwijs dat deel uitmaakt van een agrarisch opleidingscentrum als bedoeld in [artikel 1.3.3 van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en met uitzondering van een school voor voortgezet onderwijs die deel uitmaakt van een scholengemeenschap met een regionaal opleidingencentrum als bedoeld in [artikel 1.3.1 van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) of een agrarisch opleidingscentrum als bedoeld in artikel 1.3.3 van de Wet educatie en beroepsonderwijs;  
+f.  *een school voor voortgezet onderwijs:* een school voor voortgezet onderwijs als bedoeld in de Wet op het voortgezet onderwijs, met uitzondering van het voorbereidend beroepsonderwijs dat deel uitmaakt van een agrarisch opleidingscentrum als bedoeld in artikel 1.3.3 van de Wet educatie en beroepsonderwijs en met uitzondering van een school voor voortgezet onderwijs die deel uitmaakt van een scholengemeenschap met een regionaal opleidingencentrum als bedoeld in artikel 1.3.1 van de Wet educatie en beroepsonderwijs of een agrarisch opleidingscentrum als bedoeld in artikel 1.3.3 van de Wet educatie en beroepsonderwijs;  
 
 g.  *een school:* een school als bedoeld in b, c, d, e of f.   
 
@@ -111,7 +111,7 @@ NB: Deze data gelden voor scholen voor basisonderwijs, speciaal onderwijs, voort
 2.  In afwijking van artikel 2 kan het bevoegd gezag van een school, indien meer dan de helft van de leerlingen van de school in een andere regio woont dan die van de school, die andere regio aanwijzen ten behoeve van de periode, vastgesteld in artikel 6. Voor de vaststelling van het aantal leerlingen, bedoeld in de eerste zin, wordt uitgegaan van het aantal leerlingen in het voorafgaande schooljaar.   
 3.  In afwijking van artikel 2 kan het bevoegd gezag van een school voor basisonderwijs, een school voor speciaal onderwijs, een school voor voortgezet speciaal onderwijs of een school voor speciaal en voortgezet speciaal onderwijs, indien gedurende drie achtereenvolgende schooljaren telkens meer dan zeventig procent van de leerlingen is doorgestroomd naar scholen voor voortgezet onderwijs in een andere regio dan die van de school, met ingang van het daaropvolgend schooljaar die andere regio aanwijzen ten behoeve van de periode, vastgesteld in artikel 6.   
 4.  In afwijking van artikel 2 kan het bevoegd gezag van een school voor voortgezet onderwijs met een tijdelijke nevenvestiging of nevenvestiging in een andere regio dan die van de hoofdvestiging, voor deze school de periode, bedoeld in artikel 6 zodanig vaststellen dat die periode niet eerder begint dan de vroegste periode en niet later eindigt dan de laatste periode van een van de vestigingen.   
-5.  Het bevoegd gezag van een school voor cluster 3 en 4 onderwijs, als bedoeld in [artikel 1 van de Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md), kan de perioden, vastgesteld in artikel 6 bekorten.   
+5.  Het bevoegd gezag van een school voor cluster 3 en 4 onderwijs, als bedoeld in artikel 1 van de Wet op de expertisecentra, kan de perioden, vastgesteld in artikel 6 bekorten.   
 6.  In afwijking van het gestelde in artikel 6 hebben in de gemeenten Vlieland, Terschelling, Ameland en Schiermonnikoog de zomervakanties in het primair en voortgezet onderwijs een duur van 5 weken. In afwijking van het gestelde in artikel 6, beginnen de zomervakanties in deze gemeenten steeds tegelijk met die regio die het eerst vakantie heeft.   
 7.  De Inspectie van het Onderwijs toetst of de afwijkingen, bedoeld in het tweede, derde, vierde en vijfde lid, voldoen aan de in deze leden genoemde voorschriften.  
 

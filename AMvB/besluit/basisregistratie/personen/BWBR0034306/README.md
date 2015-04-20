@@ -530,9 +530,7 @@ d. taken op grond van artikel 13, aanhef en onderdeel a, van de Wet ter voorkomi
 
 e. taken op grond van artikel 110, eerste lid, van de Wet op het notarisambt, artikel 30 van de Gerechtsdeurwaarderswet of artikel 24 van de Wet ter voorkoming van witwassen en financieren van terrorisme;  
 
-f. de taken, bedoeld in artikel 11, eerste lid, van de Wet op de jeugdzorg;  
-
-g. de taken, bedoeld in artikel 21b, tweede lid, van de Wet maatschappelijke ondersteuning.   
+f. de taken, bedoeld in artikel 4.1.1, tweede lid, van de Wet maatschappelijke ondersteuning 2015.   
 
 ### Hoofdstuk  4  
 
@@ -806,6 +804,7 @@ I.W. Opstelten
 |  *Het bijhouden van een registratie van donoren ter uitvoering van taken op grond van de Wet inzake bloedvoorziening*   | De Bloedvoorzieningsorganisatie als bedoeld in artikel 1 van de Wet inzake bloedvoorziening.  | --- | Nee  |
 |  *Het opsporen van personen in het kader van de werkzaamheden op het terrein van de maatschappelijke zorg, bedoeld in artikel 2, onderdeel d, van de Kaderwet VWS-subsidies*   | Stichting Ambulante FIOM.  | De werkzaamheden geschieden zodanig dat geen gegevens aan derden worden verstrekt zonder uitdrukkelijke voorafgaande toestemming van de ingeschrevene.  | Nee  |
 |  *Het opsporen van vermiste personen en het herstellen van contact tussen familieleden die van elkaar gescheiden zijn geraakt*   | De vereniging het Nederlandse Rode Kruis.  | Het vermist raken van personen en het gescheiden raken van familieleden zijn het gevolg van een gewapend conflict, een ramp of andere bijzondere gebeurtenis, als bedoeld in artikel 3, vierde lid, onderdeel c, van het Besluit Rode Kruis 1988.  | Nee  |
+|*Het uitvoeren van de taken, bedoeld in artikel 4.1.1, tweede lid, van de Wet maatschappelijke ondersteuning 2015* |Een AMHK als bedoeld in artikel 1.1.1, eerste lid, van de Wet maatschappelijke ondersteuning 2015, niet zijnde een overheidsorgaan. |Uit de basisregistratie kunnen geen andere algemene gegevens worden verstrekt dan: de algemene gegevens, bedoeld in artikel 2.7, eerste lid, onderdeel a, onder 1° tot en met 9°, van de wet. |Nee |
 
 ### Bijlage 5 
 
@@ -818,7 +817,6 @@ I.W. Opstelten
 |  *Gerechtelijke werkzaamheden*   | Een derde die uit hoofde van ambt of beroep gewoonlijk met de hiervoor genoemde werkzaamheden is belast.  | De werkzaamheden geschieden in verband met de uitvoering van een algemeen verbindend voorschrift.  | Ja  |
 |  *Het honoreren van aanspraken van gerechtigden op, al dan niet op termijn opvorderbare gelden, effecten of goederen op de instellingen of verzekeraar*   | Banken, effecteninstellingen, verzekeraars en beleggingsinstellingen als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, die zijn ingeschreven in het in artikel 1:107 van die wet bedoelde register.  | Uit de basisregistratie kunnen geen andere algemene gegevens worden verstrekt dan: de algemene gegevens geslachtsnaam, voornamen, geboortedatum, geboorteplaats, overlijdensdatum, algemene gegevens over het adres en datum vertrek uit Nederland.  | Nee  |
 |  *Het opsporen van personen in het kader van de werkzaamheden op het terrein van de maatschappelijke zorg, bedoeld in artikel 2, onderdeel d, van de Kaderwet VWS-subsidies*   | Stichting Ambulante FIOM.  | De werkzaamheden geschieden zodanig dat geen gegevens aan derden worden verstrekt zonder uitdrukkelijke voorafgaande toestemming van de ingeschrevene.  | Nee  |
-|  *Het uitvoeren van de taken, bedoeld in artikel 21b, tweede lid, van de Wet maatschappelijke ondersteuning*   | Een steunpunt huiselijk geweld als bedoeld in artikel 1, eerste lid, van de Wet maatschappelijke ondersteuning, niet zijnde een overheidsorgaan.  | Uit de basisregistratie kunnen geen andere algemene gegevens worden verstrekt dan: de algemene gegevens, bedoeld in artikel 2.7, eerste lid, onderdeel a, onder 1° tot en met 6°, van de wet.  | Nee  |
 
 ### Bijlage 6 
 
