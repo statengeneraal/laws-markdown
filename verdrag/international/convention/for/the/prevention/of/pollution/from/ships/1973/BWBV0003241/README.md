@@ -13373,8 +13373,8 @@ De volgende procedure wordt gebruikt om vast te stellen of de aan boord van sche
 | --- |
 | HIERBIJ WORDT VERKLAARD:  |
 | --- | --- |
-| 1.  | Dat het schip is onderzocht in overeenstemming met voorschrift 5.4 van Bijlage VI van het Verdrag; en  |
-| 2.  | Dat uit het onderzoek is gebleken dat het schip voldoet aan de van toepassing zijnde vereisten van voorschrift 20, voorschrift 21 en voorschrift 22.  |
+| 1.  | Dat het schip is onderzocht in overeenstemming met voorschrift 5.4 van Bijlage VI  van het Verdrag; en  |
+| 2.  | Dat uit het onderzoek is gebleken dat het schip voldoet aan de van toepassing zijnde vereisten van voorschrift 20 , voorschrift 21  en voorschrift 22 .  |
 | --- | --- |
 | Datum van voltooiing van het onderzoek waarop dit certificaat gebaseerd is: ........ (dd/mm/jjjj)  |
 | --- |
@@ -13403,7 +13403,7 @@ De volgende procedure wordt gebruikt om vast te stellen of de aan boord van sche
 | --- | --- |
 | 3  | De hokjes worden ingevuld met ofwel een kruisje (x) voor de antwoorden „ja” en „van toepassing” of een streepje (-) voor de antwoorden „neen” en „niet van toepassing”, al naargelang wat van toepassing is.  |
 | --- | --- |
-| 4  | Tenzij anders vermeld, verwijzen de voorschriften genoemd in dit journaal naar de voorschriften in Bijlage VI van het Verdrag en resoluties of circulaires verwijzen naar die welke zijn aangenomen door de Internationale Maritieme Organisatie.  |
+| 4  | Tenzij anders vermeld, verwijzen de voorschriften genoemd in dit journaal naar de voorschriften in Bijlage VI  van het Verdrag en resoluties of circulaires verwijzen naar die welke zijn aangenomen door de Internationale Maritieme Organisatie.  |
 
 | --- | --- |
 |:---|:---|
@@ -13413,7 +13413,7 @@ De volgende procedure wordt gebruikt om vast te stellen of de aan boord van sche
 | 1.3  | Datum van bouwcontract ........  |
 | 1.4  | Brutotonnage ........  |
 | 1.5  | Draagvermogen ........  |
-| 1.6  | Type schip<sup>Vermeld scheepstype in overeenstemming met de in voorschrift 2 vermelde begripsomschrijvingen. Schepen die onder meer dan een van de in voorschrift 2 omschreven scheepstypen vallen, worden geacht onder het scheepstype te vallen met de strengste (laagste) vereiste EEDI. Indien een schip onder geen van de in voorschrift 2 omschreven scheepstypen valt, dient „Schip anders dan de in voorschrift 2 omschreven scheepstypen” te worden ingevuld. </sup> ........  |
+| 1.6  | Type schip<sup>1)</sup> ........  |
 | --- | --- |
 |  *2*   |  *Voortstuwingssysteem*   |
 | 2.1  | Dieselvoorstuwing ........  |
@@ -13423,30 +13423,32 @@ De volgende procedure wordt gebruikt om vast te stellen of de aan boord van sche
 | 2.5  | Ander voortstuwingssysteem dan hierboven vermeld ........  |
 | --- | --- |
 |  *3 *   |  *Bereikte ontwerpindex voor energie-efficiëntie (EEDI)*   |
-| 3.1  | De bereikte EEDI in overeenstemming met voorschrift 20.1 is berekend op basis van de informatie vervat in het technisch dossier bij de EEDI waarin ook de uitgevoerde berekening van de bereikte EEDI zelf staat vermeld. ........ □  |
+| 3.1  | De bereikte EEDI in overeenstemming met voorschrift 20.1  is berekend op basis van de informatie vervat in het technisch dossier bij de EEDI waarin ook de uitgevoerde berekening van de bereikte EEDI zelf staat vermeld. ........ □  |
 | --- | De bereikte EEDI is: ........ gram CO<sub>2</sub>/tonmijl  |
 | 3.2  | De bereikte EEDI wordt niet berekend aangezien:  |
-| 3.2.1  | het schip ingevolge voorschrift 20.1 is vrijgesteld aangezien het geen nieuw schip is zoals omschreven in voorschrift 2.23 ........ □  |
-| 3.2.2  | het type voortstuwingssysteem is vrijgesteld in overeenstemming met voorschrift 19.3 ........ □  |
-| 3.2.3  | de Administratie van het schip afziet van het vereiste van voorschrift 20 in overeenstemming met voorschrift 19.4 ........ □  |
-| 3.2.4  | het scheepstype is vrijgesteld in overeenstemming met voorschrift 20.1 ........ □  |
+| 3.2.1  | het schip ingevolge voorschrift 20.1  is vrijgesteld aangezien het geen nieuw schip is zoals omschreven in voorschrift 2.23  ........ □  |
+| 3.2.2  | het type voortstuwingssysteem is vrijgesteld in overeenstemming met voorschrift 19.3  ........ □  |
+| 3.2.3  | de Administratie van het schip afziet van het vereiste van voorschrift 20  in overeenstemming met voorschrift 19.4  ........ □  |
+| 3.2.4  | het scheepstype is vrijgesteld in overeenstemming met voorschrift 20.1  ........ □  |
 | --- | --- |
 |  *4 *   |  *Vereiste EEDI*   |
 | 4.1  | De vereiste EEDI is: ........ gram CO<sub>2</sub>/tonmijl  |
 | 4.2  | De vereiste EEDI wordt niet berekend aangezien:  |
-| 4.2.1  | het schip ingevolge voorschrift 21.1 is vrijgesteld aangezien het geen nieuw schip is zoals omschreven in voorschrift 2.23 ........ □  |
-| 4.2.2  | het type voortstuwingssysteem is vrijgesteld in overeenstemming met voorschrift 19.3 ........ □  |
-| 4.2.3  | de Administratie van het schip afziet van het vereiste van voorschrift 21 in overeenstemming met voorschrift 19.4 ........ □  |
-| 4.2.4  | het scheepstype is vrijgesteld in overeenstemming met voorschrift 21.1 ........ □  |
-| 4.2.5  | de capaciteit van het schip minder is dan de minimale capaciteitsdrempel in tabel 1 van voorschrift 21.2 ........ □  |
+| 4.2.1  | het schip ingevolge voorschrift 21.1  is vrijgesteld aangezien het geen nieuw schip is zoals omschreven in voorschrift 2.23  ........ □  |
+| 4.2.2  | het type voortstuwingssysteem is vrijgesteld in overeenstemming met voorschrift 19.3  ........ □  |
+| 4.2.3  | de Administratie van het schip afziet van het vereiste van voorschrift 21  in overeenstemming met voorschrift 19.4  ........ □  |
+| 4.2.4  | het scheepstype is vrijgesteld in overeenstemming met voorschrift 21.1  ........ □  |
+| 4.2.5  | de capaciteit van het schip minder is dan de minimale capaciteitsdrempel in tabel 1 van voorschrift 21.2  ........ □  |
 | --- | --- |
 |  *5 *   |  *Energie-efficiëntiemanagementplan van het schip (SEEMP)*   |
-| 5.1  | Het schip is voorzien van een energie-efficiëntiemanagementplan (SEEMP) in overeenstemming met voorschrift 22 ........ □  |
+| 5.1  | Het schip is voorzien van een energie-efficiëntiemanagementplan (SEEMP) in overeenstemming met voorschrift 22  ........ □  |
 | --- | --- |
 |  *6 *   |  *Technisch dossier bij de EEDI*   |
-| 6.1  | Het IEE-certificaat gaat vergezeld van het technisch dossier bij de EEDI in overeenstemming met voorschrift 20.1 ........ □  |
+| 6.1  | Het IEE-certificaat gaat vergezeld van het technisch dossier bij de EEDI in overeenstemming met voorschrift 20.1  ........ □  |
 | 6.2  | Het identificatie/verificatienummer van het technisch dossier bij de EEDI ........ □  |
 | 6.3  | De verificatiedatum van het technisch dossier bij de EEDI ........ □  |
+
+<sup>1)</sup> Vermeld scheepstype in overeenstemming met de in voorschrift 2 vermelde begripsomschrijvingen. Schepen die onder meer dan een van de in voorschrift 2 omschreven scheepstypen vallen, worden geacht onder het scheepstype te vallen met de strengste (laagste) vereiste EEDI. Indien een schip onder geen van de in voorschrift 2 omschreven scheepstypen valt, dient „Schip anders dan de in voorschrift 2 omschreven scheepstypen” te worden ingevuld. 
 
 | --- | --- |
 |:---|:---|

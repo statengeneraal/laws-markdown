@@ -1233,7 +1233,7 @@ b) Rule 80.5 shall apply *mutatis mutandis* to the priority period.
 
 (i)indications concerning the inventor where the national law of none of the designated States requires that the name of the inventor be furnished at the time of filing a national application,
 
-(ii)a request to the receiving Office to prepare and transmit the priority document to the International Bureau where the application whose priority is claimed was filed with the national Office or intergovernmental authority which is the receiving Ofice,
+(ii)a request to the receiving Office to prepare and transmit the priority document to the International Bureau where the application whose priority is claimed was filed with the national Office or intergovernmental authority which is the receiving Office,
 
 (iii) declarations as provided in Rule 4.17,  
 
