@@ -1,18 +1,18 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Regeling van de Directie van de RDW (Dienst Wegverkeer), houdende mandatering en volmachtverlening van het vragen van prijsopgaven en het aangaan van financiële verplichtingen aan functionarissen van de RDW (Regeling Financieel Mandaat RDW)
+##Regeling van de Directie van de RDW (Dienst Wegverkeer), houdende mandatering en volmachtverlening van het vragen van prijsopgaven en het aangaan van financiële verplichtingen aan functionarissen van de RDW (Regeling Financieel Mandaat RDW), 25 maart 2015, kenmerk JBZ2015/12061
 
 De directie van de RDW,  
-Gelet op [artikel 4g van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en het Directiereglement RDW 2010 en de daartoe verleende instemming van de Raad van Toezicht;
-Besluit:    
+Gelet op artikel 4g van de Wegenverkeerswet 1994 en het Directiereglement RDW 2010 en de daartoe verleende instemming van de Raad van Toezicht;
+BESLUIT    
 
 ### Artikel  1  
 
-De aan de Directie, bij [artikel 4g, eerste lid, van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), verleende bevoegdheid wordt ten aanzien van het aangaan van financiële verplichtingen gemandateerd en volmacht verleend aan zowel de Algemeen Directeur en de Directeur Bedrijfsvoering, als aan hen ieder afzonderlijk. 
+De aan de Directie, bij artikel 4g, eerste lid, van de Wegenverkeerswet 1994, verleende bevoegdheid wordt ten aanzien van het aangaan van financiële verplichtingen gemandateerd en volmacht verleend aan zowel de Algemeen Directeur en de Directeur Bedrijfsvoering, als aan hen ieder afzonderlijk. 
 
 ### Artikel  1a  
 
-De aan de Directie bij [artikel 4g, eerste lid, van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) verleende bevoegdheid wordt ten aanzien van het aangaan van financiële verplichtingen – voor zover ze een geldelijk belang van € 250.000,– inclusief BTW niet te boven gaan – gemandateerd en volmacht verleend aan: 
+De aan de Directie bij artikel 4g, eerste lid, van de Wegenverkeerswet 1994 verleende bevoegdheid wordt ten aanzien van het aangaan van financiële verplichtingen – voor zover ze een geldelijk belang van € 250.000,– inclusief BTW niet te boven gaan – gemandateerd en volmacht verleend aan: 
 
 a. de Divisiemanager Voertuigtechniek;  
 
@@ -22,7 +22,7 @@ c. de Manager ICT Bedrijf (Informatie en Communicatie Technologie).
 
 ### Artikel  2  
 
-De aan de Directie bij [artikel 4g, eerste lid, van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) verleende bevoegdheid wordt ten aanzien van het aangaan van financiële verplichtingen – voor zover ze een geldelijk belang van € 100.000,– inclusief BTW niet te boven gaan – gemandateerd en volmacht verleend aan: 
+De aan de Directie bij artikel 4g, eerste lid, van de Wegenverkeerswet 1994 verleende bevoegdheid wordt ten aanzien van het aangaan van financiële verplichtingen – voor zover ze een geldelijk belang van € 100.000,– inclusief BTW niet te boven gaan – gemandateerd en volmacht verleend aan: 
 
 a. de Clustermanagers ICT;  
 
@@ -34,7 +34,7 @@ c. de volgende functionaris, werkzaam bij de Divisie Registratie en Informatie, 
 
 ### Artikel  3  
 
-De aan de Directie bij [artikel 4g, eerste lid, van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) verleende bevoegdheid wordt ten aanzien van het aangaan van financiële verplichtingen – voor zover ze een geldelijk belang van € 50.000,– inclusief BTW niet te boven gaan – gemandateerd en volmacht verleend aan: 
+De aan de Directie bij artikel 4g, eerste lid, van de Wegenverkeerswet 1994 verleende bevoegdheid wordt ten aanzien van het aangaan van financiële verplichtingen – voor zover ze een geldelijk belang van € 50.000,– inclusief BTW niet te boven gaan – gemandateerd en volmacht verleend aan: 
 
 a. het Hoofd F&C (Financiën en Control);  
 
@@ -62,11 +62,13 @@ g. de volgende functionarissen, werkzaam bij de Divisie Voertuigtechniek, te wet
 
 h. de volgende functionarissen, werkzaam bij de Divisie Registratie en Informatie, te weten: 
 
-1. de Afdelingsmanager Operations;  
+1. de Afdelingsmanager Registratie Voertuigen;  
 
 2. de Afdelingsmanager Relatiemanagement RDW;  
 
-3. de Afdelingsmanager Klantenservice;    
+3. de Afdelingsmanager Informatie & Rijbewijzen;  
+
+4. de afdelingsmanager Frontoffice;    
 
 i. de volgende functionarissen werkzaam bij het ICT Bedrijf, te weten: 
 
@@ -78,7 +80,7 @@ j. de volgende functionarissen werkzaam bij F&C (Financiën en Control), te wete
 
 ### Artikel  4  
 
-De aan de Directie bij [artikel 4g, eerste lid, van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) verleende bevoegdheid wordt ten aanzien van het aangaan van financiële verplichtingen – voor zover ze een geldelijk belang van € 25.000,– inclusief BTW niet te boven gaan – gemandateerd en volmacht verleend aan: 
+De aan de Directie bij artikel 4g, eerste lid, van de Wegenverkeerswet 1994 verleende bevoegdheid wordt ten aanzien van het aangaan van financiële verplichtingen – voor zover ze een geldelijk belang van € 25.000,– inclusief BTW niet te boven gaan – gemandateerd en volmacht verleend aan: 
 
 a. de volgende functionarissen werkzaam bij het Facilitair Bedrijf: 
 
@@ -96,7 +98,7 @@ b. de volgende functionaris werkzaam bij het bedrijfsproces Toelating Toezicht V
 
 ### Artikel  5  
 
-De aan de Directie bij [artikel 4g, eerste lid, van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) verleende bevoegdheid wordt ten aanzien van het aangaan van financiële verplichtingen – voor zover ze een geldelijk belang van € 12.500,– inclusief BTW niet te boven gaan – gemandateerd en volmacht verleend aan: 
+De aan de Directie bij artikel 4g, eerste lid, van de Wegenverkeerswet 1994 verleende bevoegdheid wordt ten aanzien van het aangaan van financiële verplichtingen – voor zover ze een geldelijk belang van € 12.500,– inclusief BTW niet te boven gaan – gemandateerd en volmacht verleend aan: 
 
 a. de volgende functionarissen werkzaam bij het ICT Bedrijf: 
 
@@ -136,35 +138,43 @@ f. de volgende functionarissen werkzaam bij bedrijfsproces KIM:
 
 3. de Manager KIM Beheer;    
 
-g. de volgende functionarissen werkzaam bij afdeling Operations van de Divisie Registratie en Informatie: 
+g. de volgende functionarissen werkzaam bij afdeling Registratie Voertuigen van de Divisie Registratie en Informatie: 
 
 1. de unitmanager Voertuigregistratie en Documenten;  
 
 2. de unitmanager Aansprakelijkheids- en Persoonsregistratie;  
 
-3. de unitmanager Erkenningen en Toezicht;  
+3. de unitmanager Erkenningen en Toezicht;    
 
-4. de unitmanager Rijbewijzen;  
+h. de volgende functionarissen werkzaam bij de afdeling Informatie & Rijbewijzen van de Divisie Registratie en Informatie: 
 
-5. de unitmanager Handhaving;    
-
-h. de volgende functionarissen werkzaam bij de afdeling RDW Klantenservice van de Divisie Registratie en Informatie: 
-
-1. de unitmanager KlantContactCentrum;  
+1. de unitmanager Handhaving;  
 
 2. de unitmanager Informatieverstrekking;  
 
 3. de unitmanager Landelijk Informatiecentrum Voertuigcriminaliteit (LIV);  
 
-4. de unitmanager i-Dee.    
+4. de unitmanager Rijbewijzen.    
 
-i. de volgende functionaris werkzaam bij de afdeling Projectmanagement en Support, te weten: 
+i. de volgende functionarissen werkzaam bij de afdeling Frontoffice van de Divisie Registratie en Informatie, te weten: 
 
-– de unitmanager Planning & Control.     
+1. de unitmanager i-Dee;  
+
+2. de unitmanager Klanten Contact Centrum;  
+
+3. de unitmanager Centrale Nabewerking;    
+
+j. de volgende functionaris werkzaam bij de afdeling Projectmanagement en Support: 
+
+– de unitmanager Projectmanagement en Control    
+
+k. de volgende functionarissen werkzaam bij de afdeling Relatiemanagement: 
+
+– de Relatiemanagers;     
 
 ### Artikel  6  
 
-De aan de Directie bij [artikel 4g, eerste lid, van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) verleende bevoegdheid wordt ten aanzien van het uitzetten van overtollig kasgeld en het aantrekken van kortlopende financiering, voor een periode van maximaal twaalf maanden bij het Ministerie van Financiën gemandateerd en volmacht verleend aan het Hoofd F&C (Financiën en Control). 
+De aan de Directie bij artikel 4g, eerste lid, van de Wegenverkeerswet 1994 verleende bevoegdheid wordt ten aanzien van het uitzetten van overtollig kasgeld en het aantrekken van kortlopende financiering, voor een periode van maximaal twaalf maanden bij het Ministerie van Financiën gemandateerd en volmacht verleend aan het Hoofd F&C (Financiën en Control). 
 
 ### Artikel  7  
 
@@ -172,17 +182,17 @@ De in de artikelen 1 tot en met 5, bedoelde volmachten betreffen tenzij anders v
 
 ### Artikel  8  
 
-De aan de Directie bij [artikel 4g, eerste lid, van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) verleende bevoegdheid wordt ten aanzien van het aangaan van verplichtingen, in het kader van dienstverlening voor derden op basis van de [Regeling taken Dienst Wegverkeer](../../../../../../ministeriele-regeling/regeling/taken/dienst/wegverkeer/BWBR0008144/README.md), – voor zover ze een geldelijk belang van € 250.000,– inclusief BTW niet te boven gaan – mandaat en volmacht verleend aan: 
+De aan de Directie bij artikel 4g, eerste lid, van de Wegenverkeerswet 1994 verleende bevoegdheid wordt ten aanzien van het aangaan van verplichtingen, in het kader van dienstverlening voor derden op basis van de Regeling taken Dienst Wegverkeer, – voor zover ze een geldelijk belang van € 250.000,– inclusief BTW niet te boven gaan – mandaat en volmacht verleend aan: 
 
 a. de Divisiemanager Voertuigtechniek;  
 
-b. de Divisiemanager Registratie en Informatie;  
+b. de Divisiemanager Registratie en Informatie.  
 
-c. de Manager ICT Bedrijf (Informatie en Communicatie Technologie).   
+c. de Manager ICT Bedrijf (Informatie en Communicatie Technologie);   
 
 ### Artikel  9  
 
-De aan de Directie bij [artikel 4g, eerste lid, van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) verleende bevoegdheid wordt ten aanzien van het aangaan van verplichtingen, in het kader van dienstverlening voor derden op basis van de [Regeling taken Dienst Wegverkeer](../../../../../../ministeriele-regeling/regeling/taken/dienst/wegverkeer/BWBR0008144/README.md), – voor zover ze een geldelijk belang van € 50.000,– inclusief BTW niet te boven gaan – mandaat en volmacht verleend aan: 
+De aan de Directie bij artikel 4g, eerste lid, van de Wegenverkeerswet 1994 verleende bevoegdheid wordt ten aanzien van het aangaan van verplichtingen, in het kader van dienstverlening voor derden op basis van de Regeling taken Dienst Wegverkeer, – voor zover ze een geldelijk belang van € 50.000,– inclusief BTW niet te boven gaan – mandaat en volmacht verleend aan: 
 
 a. de Afdelingsmanager Relatiemanagement RDW;  
 
@@ -204,11 +214,11 @@ i. het Hoofd SEO (Strategie en Externe Ontwikkelingen);
 
 j. de Manager Typegoedkeuring (betreft het bedrijfsproces Typegoedkeuring, Toelating Exceptioneel Transport en Individueel Keuren Speciaal);  
 
-k. de Unitmanager Informatieverstrekking van de afdeling RDW Klantenservice.   
+k. de Unitmanager Informatieverstrekking van de afdeling Informatie & Rijbewijzen.   
 
 ### Artikel  10  
 
-De aan de Directie bij [artikel 4g, eerste lid, van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) verleende bevoegdheid wordt ten aanzien van het aangaan van verplichtingen, in het kader van dienstverlening voor derden op basis van de [Regeling taken Dienst Wegverkeer](../../../../../../ministeriele-regeling/regeling/taken/dienst/wegverkeer/BWBR0008144/README.md), – voor zover ze een geldelijk belang van € 25.000,– inclusief BTW niet te boven gaan – mandaat en volmacht verleend aan: 
+De aan de Directie bij artikel 4g, eerste lid, van de Wegenverkeerswet 1994 verleende bevoegdheid wordt ten aanzien van het aangaan van verplichtingen, in het kader van dienstverlening voor derden op basis van de Regeling taken Dienst Wegverkeer, – voor zover ze een geldelijk belang van € 25.000,– inclusief BTW niet te boven gaan – mandaat en volmacht verleend aan: 
 
 a. de Manager Product Beoordeling;  
 
@@ -237,7 +247,7 @@ b. Aan de Directie en de in artikel 1a genoemde functionarissen blijven voorbeho
 
 ### Artikel  13  
 
-De in de artikelen 1 tot en met 12 genoemde functionarissen maken van het aan hen verleende mandaat en de aan hen verleende volmacht uitsluitend gebruik: 
+De in de artikelen 1 tot en met 12 genoemde functionarissen maken van het aan hen verleende mandaat en de aan hen verleende volmacht uitsluitend gebruik, 
 
 a. voor zover het aangelegenheden betreft die behoren tot hun werkterrein en als zodanig zijn opgenomen in het door de directie vastgestelde werkplan of het financiële meerjarenbeleidplan,  
 
@@ -257,7 +267,7 @@ De stukken die door de in de artikelen 1 tot en met 10 genoemde functionarissen 
 
 ### Artikel  17  
 
-De Regeling Financieel Mandaat RDW van 20 maart 2012, JBZ2012/7537, Stcr. 2012, 6920 wordt ingetrokken. 
+De Regeling Financieel Mandaat RDW van 26 september 2013 wordt ingetrokken. 
 
 ### Artikel  18  
 
@@ -265,15 +275,14 @@ Deze regeling wordt aangehaald als: ‘Regeling Financieel Mandaat RDW’.
 
 ### Artikel  19  
 
-Deze regeling wordt gepubliceerd in de Staatscourant en werkt terug tot 1 september 2013. 
-Een afschrift zal worden gezonden aan de in deze regeling genoemde functionarissen.   
+Deze regeling wordt gepubliceerd in de Staatscourant en werkt terug tot 1 januari 2015. Een afschrift zal worden gezonden aan de in deze regeling genoemde functionarissen. 
 
 Zoetermeer 
-26 september 2013   
+25 maart 2015   
 
 De directie van de RDW, 
-J.G. Hakkenberg,  
-Algemeen directeur.  
+A. Van Ravestein  
+Algemeen directeur  
 
-H. van Santen,  
-Directeur bedrijfsvoering.    
+H. van Santen  
+Directeur bedrijfsvoering    

@@ -9,13 +9,9 @@ Besluit:
 
 ####Algemene bepalingen
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  1.1  
 
 ####(begrippen)
-
-Treedt in werking per 01-01-2015 
 
 In deze regeling wordt verstaan onder: 
 
@@ -51,15 +47,11 @@ In deze regeling wordt verstaan onder:
 
 ####De inhoud van de verzekering
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  2.1  
-Treedt in werking per 01-01-2015 
 
-De zorgprofielen, bedoeld in artikel 3.1.1, eerste lid, van het Besluit, zijn zijn opgenomen in bijlage A bij deze regeling. 
+De zorgprofielen, bedoeld in artikel 3.1.1, eerste lid, van het Besluit, zijn opgenomen in bijlage A bij deze regeling. 
 
 ### Artikel  2.2  
-Treedt in werking per 01-01-2015 
 
 1.  Een verzekerde heeft recht op meer zorg dan waarop hij op grond van het hem geïndiceerde zorgprofiel of zorgzwaartepakket recht heeft, voor zover naar het oordeel van de Wlz-uitvoerder of het zorgkantoor meer zorg nodig is om te voorzien in zijn behoefte aan zorg en: 
 
@@ -91,7 +83,6 @@ c. de behoefte aan zorg tevens bestaat uit gespecialiseerde epilepsiezorg, chron
 2.  Een verzekerde als bedoeld in het eerste lid, onder a of b, kan slechts recht op de in dat lid bedoelde zorg krijgen indien zijn behoefte aan zorg minimaal 25% hoger is dan de zorg die is opgenomen in het zorgzwaartepakket dat voor de bekostiging van het zorgprofiel wordt gebruikt dan wel van het zorgprofiel.  
 
 ### Artikel  2.3  
-Treedt in werking per 01-01-2015 
 
 1.  De mobiliteitshulpmiddelen voor individueel gebruik als bedoeld in artikel 3.1.2, eerste lid, van het Besluit, omvatten: 
 
@@ -102,12 +93,11 @@ b. Dit onderdeel is nog niet in werking getreden.
 c. Dit onderdeel is nog niet in werking getreden.     
 2.  Het recht op het individueel gebruik van een mobiliteitshulpmiddel bestaat indien dat gebruik is aangewezen in verband met het ontbreken van de loopfunctie dan wel in verband met blijvende of langdurige loopfunctiestoornissen. Indien de verzekerde daarop is aangewezen, kan een tweede exemplaar in een andere uitvoering worden verstrekt.   
 3.  Het individueel gebruik van een mobiliteitshulpmiddel omvat tevens de voor de verzekerde noodzakelijke aanpassing en vervanging alsmede het noodzakelijke onderhoud en herstel van de hem in gebruik gegeven mobiliteitshulpmiddel.   
-4.  Voorafgaand aan het verstrekken van een mobiliteitshulpmiddel toestemming van de Wlz-uitvoerder nodig. De Wlz-uitvoerder beoordeelt welk mobiliteitshulpmiddel het meest is aangewezen.   
+4.  Voorafgaand aan het verstrekken van een mobiliteitshulpmiddel is toestemming van de Wlz-uitvoerder nodig. De Wlz-uitvoerder beoordeelt welk mobiliteitshulpmiddel het meest is aangewezen.   
 5.  Indien het recht op zorg krachtens de wet eindigt omdat hij krachtens een zorgverzekering of een andere wettelijke regeling recht heeft of kan doen gelden op die zorg, behoudt de verzekerde het recht op het individueel gebruik van een reeds in gebruik genomen mobiliteitshulpmiddel waarop hij is aangewezen, totdat aan hem een hulpmiddel kan worden verstrekt krachtens die zorgverzekering of andere wettelijke regeling.   
 6.  Het recht op individueel gebruik van een rolstoel bestaat in 2015 alleen voor een verzekerde die gedurende dat jaar gaat verblijven in een instelling waar de verzekerde met verblijf gepaard gaande behandeling als bedoeld in artikel 3.1.1, eerste lid, onderdeel d, van de wet ontvangt.  
 
 ### Artikel  2.4  
-Treedt in werking per 01-01-2015 
 
 1.  De verzekerde heeft slechts aanspraak op tandheelkundige zorg als bedoeld in artikel 3.1.1, eerste lid, onderdeel d, onder 5°, van de wet, voor zover die nodig is met het oog op een ernstige aangeboren of verworven tandheelkundige aandoening of een lichamelijke of geestelijke aandoening, en indien de Wlz-uitvoerder vooraf toestemming heeft verleend.   
 2.  Indien het verblijf van de verzekerde in een instelling wordt beëindigd in verband met verblijf als bedoeld in artikel 2.12 van het Besluit zorgverzekering, bestaat nog gedurende een periode van ten hoogste acht dagen aanspraak op tandheelkundige zorg.   
@@ -117,16 +107,12 @@ Treedt in werking per 01-01-2015
 
 ####De indicatiebesluiten
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  3.1  
-Treedt in werking per 01-01-2015 
 
 1.  Indicatiebesluiten als bedoeld in artikel 11.1.1, zesde lid, en artikel 3.2.2, eerste lid, van de wet, worden genomen zonder het onderzoek van de verzekerde in persoon, bedoeld in artikel 3.2.2 van het besluit.   
 2.  Voorafgaande aan het onderzoek, bedoeld in artikel 3.2.2 van het Besluit, of indien een dergelijk onderzoek niet nodig is, voorafgaand aan het nemen van een indicatiebesluit, vergewist het CIZ zich ervan dat degene voor wie het indicatiebesluit is aangevraagd, verzekerd is.  
 
 ### Artikel  3.2  
-Treedt in werking per 01-01-2015 
 
 1.  De geldigheidsduur van een indicatiebesluit wordt vastgesteld op ten hoogste drie jaar indien het een van de volgende zorgprofielen betreft: 
 
@@ -141,7 +127,7 @@ Treedt in werking per 01-01-2015
 – LVG besloten wonen met zeer intensieve behandeling en begeleiding,  
 
 – LVG behandeling in een SGLVG behandelcentrum;     
-2.  De geldigheidsduur van een indicatiebesluit wordt vastgesteld op drie jaar indien het een van de volgende zorgprofielen betreft: 
+2.  De geldigheidsduur van een indicatiebesluit wordt vastgesteld op ten hoogste drie jaar indien het een van de volgende zorgprofielen betreft: 
 
 – GGZ-B voortgezet verblijf met intensieve begeleiding,  
 
@@ -156,7 +142,6 @@ Treedt in werking per 01-01-2015
 4.  De bepaling van de geldigheidsduur vindt plaats met inachtneming van de beperkingen van de verzekerde en veranderingen die zich daarin kunnen voordoen, behoudens het tweede lid.  
 
 ### Artikel  3.3  
-Treedt in werking per 01-01-2015 
 
 1.  Een besluit van het CIZ als bedoeld in artikel 5.2.1 van het besluit, op basis van de Tijdelijke subsidieregeling extramurale behandeling, heeft een geldigheidsduur van ten hoogste vijf jaar.   
 2.  In afwijking van het eerste lid, heeft een besluit een geldigheidsduur van ten hoogste: 
@@ -178,7 +163,6 @@ b. het bereiken van een leeftijd van de verzekerde die van invloed kan zijn op d
 4.  Verzekerden met een somatische aandoening, met een psychogeriatrische aandoening, met een lichamelijke beperking of, indien het meerderjarige verzekerden betreft, met een verstandelijke beperking, die op 31 december 2014 beschikken over een indicatiebesluit voor extramurale behandeling op grond van artikel 8 van het Besluit zorgaanspraken AWBZ en het medisch noodzakelijk vervoer op grond van artikel 10 van het Besluit zorgaanspraken AWBZ welke besluiten naar het recht van 31 december 2014 op 1 januari 2015 nog geldig zouden zijn, worden aangemerkt als verzekerden met besluiten, bedoeld in artikel 5.1.1, van het besluit.  
 
 ### Artikel  3.4  
-Treedt in werking per 01-01-2015 
 
 Een besluit van het CIZ als bedoeld in artikel 5.2.1, tweede lid, van het Besluit, op basis van de Subsidieregeling eerstelijns verblijf 2015, heeft een geldigheidsduur van ten hoogste drie maanden voor de prestaties eerstelijns verblijf basis en eerstelijns verblijf intensief, en een geldigheidsduur van ten hoogste drie jaar voor de prestatie eerstelijns verblijf palliatief. 
 
@@ -186,10 +170,7 @@ Een besluit van het CIZ als bedoeld in artikel 5.2.1, tweede lid, van het Beslui
 
 ####Eigen bijdragen
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  4.1  
-Treedt in werking per 01-01-2015 
 
 Ingevolge artikel 3.3.2.3, eerste lid, onderdeel b, onder 2°, van het Besluit worden op het bedrag, bedoeld in het eerste lid, onderdeel a, van dat artikel, in mindering gebracht: 
 
@@ -202,7 +183,6 @@ c. een aftrekpost, genoemd in artikel 4.4, en
 d. een extra vrijlating, genoemd in artikel 4.5.   
 
 ### Artikel  4.2  
-Treedt in werking per 01-01-2015 
 
 Het bedrag voor zak- en kleedgeld, bedoeld in artikel 4.1, aanhef en onder a, bedraagt: 
 
@@ -211,7 +191,6 @@ a. voor de ongehuwde verzekerde: € 3.517;
 b. voor de gehuwde verzekerden tezamen: € 5.471.   
 
 ### Artikel  4.3  
-Treedt in werking per 01-01-2015 
 
 1.  Het bedrag in verband met de premie zorgverzekering, bedoeld in artikel 4.1, aanhef en onder b, bedraagt: 
 
@@ -235,7 +214,6 @@ a. voor de verzekerde die ongehuwd is: een bedrag van € 1.060, met dien verst
 b. voor de verzekerden die gehuwd zijn: een bedrag van € 2.062 met dien verstande dat indien hun gezamenlijke inkomen €19.043 of meer bedraagt dit bedrag wordt verminderd met 8,713% van het verschil tussen hun gezamenlijke inkomen en € 19.043.    
 
 ### Artikel  4.4  
-Treedt in werking per 01-01-2015 
 
 Het bedrag van de aftrekpost, bedoeld in artikel 4.1, aanhef en onder c, bedraagt: 
 
@@ -244,7 +222,6 @@ a. voor de verzekerde die de pensioengerechtigde leeftijd nog niet heeft bereikt
 b. voor de verzekerde die de pensioengerechtigde leeftijd heeft bereikt: € 965.   
 
 ### Artikel  4.5  
-Treedt in werking per 01-01-2015 
 
 Het bedrag van de extra vrijlating, bedoeld in artikel 4.1, aanhef en onder d, bedraagt 25% van het verschil tussen het op grond van artikel 3.3.2.3, eerste lid, onderdeel a, van het Besluit, na toepassing van de artikelen 4.2 tot en met 4.4, berekende bedrag en: 
 
@@ -260,16 +237,11 @@ d. € 13.284, indien het gaat om gehuwde verzekerden tezamen die de pensioenge
 
 ####Leveringsvormen
 
-Treedt in werking per 01-01-2015 
-
 ### §  1  
 
 ####Zorg in natura
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  5.1  
-Treedt in werking per 01-01-2015 
 
 1.  Bij het bepalen van de totale kosten van een modulair pakket thuis voor 2015, als bedoeld in artikel 3.3.2, vierde lid, onderdeel b, van de wet, blijven buiten beschouwing de kosten van modules voor: 
 
@@ -281,14 +253,12 @@ c. behandeling als bedoeld in artikel 3.1.1, eerste lid, onderdeel c, van de wet
 2.  Voor het modulair pakket thuis is het bedrag beschikbaar, bedoeld in het eerste lid, verminderd met het aan de verzekerde volgens hoofdstuk 5 verleende persoonsgebonden budget.  
 
 ### Artikel  5.2  
-Treedt in werking per 01-01-2015 
 
-1.  Indien een modulair pakket thuis tezamen met een persoonsgebonden wordt verleend, wordt bij het bepalen van de totale kosten van een modulair pakket thuis en een persoonsgebonden budget tezamen, bedoeld in artikel 3.3.2, vierde lid, onderdeel b, van de wet, voor 2015, uitgegaan van het bedrag dat aan de verzekerde volgens paragraaf 4 van dit hoofdstuk zou zijn verleend indien hij uitsluitend een persoonsgebonden budget zou ontvangen.   
+1.  Indien een modulair pakket thuis tezamen met een persoonsgebonden budget wordt verleend, wordt bij het bepalen van de totale kosten van een modulair pakket thuis en een persoonsgebonden budget tezamen, bedoeld in artikel 3.3.2, vierde lid, onderdeel b, van de wet, voor 2015, uitgegaan van het bedrag dat aan de verzekerde volgens paragraaf 4 van dit hoofdstuk zou zijn verleend indien hij uitsluitend een persoonsgebonden budget zou ontvangen.   
 2.  In afwijking van artikel 5.1, tweede lid, en van de artikelen 5.13 tot en met 5.15 van deze regeling, kan het zorgkantoor bij een combinatie van een modulair pakket thuis en een persoonsgebonden budget, in het belang van de verzekerde en op zijn uitdrukkelijke verzoek, het persoonsgebonden budget lager vaststellen, om de ruimte voor het modulair pakket thuis binnen de totale kosten van een modulair pakket thuis en een persoonsgebonden budget tezamen te vergroten.   
 3.  Een beschikking tot wijziging van een persoonsgebonden budget kan tevens betrekking hebben op het modulair pakket thuis, indien het persoonsgebonden budget is verleend met toepassing van het eerste lid.  
 
 ### Artikel  5.3  
-Treedt in werking per 01-01-2015 
 
 1.  Alvorens de levering van een modulair pakket thuis te weigeren op de grond dat het niet op doelmatige wijze ten huize van de verzekerde kan worden geleverd, en nadat daarover overleg is gevoerd met de verzekerde, beoordeelt de Wlz-uitvoerder of deze weigering wegens ondoelmatigheid kan worden vermeden door toepassing van enige verhoging van de voor het pakket ten hoogste toelaatbare kosten met ten hoogste 25%.   
 2.  Alvorens de verlening van een persoonsgebonden budget te weigeren op de grond dat daarmee niet op doelmatige wijze zal worden voorzien in toereikende zorg, en nadat daarover overleg is gevoerd met de verzekerde, beoordeelt het zorgkantoor of deze weigering wegens ondoelmatigheid kan worden vermeden door toepassing van enige verhoging van het persoonsgebonden budget met ten hoogste 25%.   
@@ -300,21 +270,19 @@ b. op de verzekerde die een of meer kinderen heeft die de leeftijd van 18 jaar n
 
 c. op verzekerden die op zorg zijn aangewezen vanwege een somatische aandoening of beperking of een lichamelijke of zintuiglijke handicap, zonder dat sprake is van een verstandelijke handicap of een psychiatrische aandoening of psychogeriatrisch beperking, met het oog op de mogelijkheid van de verzekerde om vanuit huis inkomen uit werk te verkrijgen of om een studie of opleiding te volgen met het oog op het verwerven van inkomen uit werk, of  
 
-d. indien het leven van de verzekerde voortdurend acuut door een aandoening, beperking, handicap of stoornis wordt bedreigd, met het oog op het verhogen van de door de verzekerde ervaren kwaliteit van leven door zorg thuis te ontvangen.    
+d. indien het leven van de verzekerde voortdurend acuut door een aandoening, beperking, handicap of stoornis wordt bedreigd, met het oog op het verhogen van de door de verzekerde ervaren kwaliteit van leven door zorg thuis te ontvangen.     
+4.  De Wlz-uitvoerder kan de voor het modulair pakket thuis ten hoogste toelaatbare kosten verhogen in geval van een verzekerde die krachtens zijn indicatiebesluit is aangewezen op zorgprofiel VV Beschermd verblijf met intensieve palliatief-terminale zorg, voor zover die verhoging nodig is met het oog op de mogelijkheid van de verzekerde om palliatief terminale zorg thuis te ontvangen.   
+5.  Het zorgkantoor kan het persoonsgebonden budget verhogen in geval van een verzekerde die krachtens zijn indicatiebesluit is aangewezen op zorgprofiel VV Beschermd verblijf met intensieve palliatief-terminale zorg, voor zover die verhoging nodig is met het oog op diens mogelijkheid om palliatief terminale zorg thuis te ontvangen. 
 
 ### §  2  
 
 ####Algemene bepalingen over het persoonsgebonden budget
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  5.4  
-Treedt in werking per 01-01-2015 
 
 Het zorgkantoor verleent slechts een persoonsgebonden budget voor verzekerden die woonachtig zijn in de regio van het zorgkantoor. 
 
 ### Artikel  5.5  
-Treedt in werking per 01-01-2015 
 
 1.  Een persoonsgebonden budget wordt niet verleend aan een verzekerde die is aangewezen op zorgprofiel: 
 
@@ -330,7 +298,6 @@ Treedt in werking per 01-01-2015
 2.  Het eerste lid is niet van toepassing op de verzekerde die onmiddellijk voorafgaand aan de intrekking van de Algemene Wet Bijzondere Ziektekosten was aangewezen op een zorgzwaartepakket 3 LVG en aanspraak had op een persoonsgebonden budget.  
 
 ### Artikel  5.6  
-Treedt in werking per 01-01-2015 
 
 1.  Tenzij de verzekerde beschikt over gewaarborgde hulp, wordt een persoonsgebonden budget niet verleend aan een verzekerde die is aangewezen op zorgprofiel: 
 
@@ -354,7 +321,6 @@ Treedt in werking per 01-01-2015
 2.  Het eerste lid, is tot 1 april 2015 niet van toepassing op verzekerden die onmiddellijk voorafgaand aan de intrekking van de Algemene Wet Bijzondere Ziektekosten waren aangewezen op een zorgzwaartepakket dat volgens de in bijlage A bij deze regeling opgenomen conversietabel overeenkomt met een in het eerste genoemd zorgprofiel, en aanspraak had op een persoonsgebonden budget.  
 
 ### Artikel  5.7  
-Treedt in werking per 01-01-2015 
 
 1.  Het zorgkantoor verleent een verzekerde een persoonsgebonden budget indien de subsidieperiode waarvoor het wordt aangevraagd: 
 
@@ -367,17 +333,13 @@ b. aansluit op een periode waarin de verzekerde verbleef in een instelling als b
 
 ####De aanvraag van een persoonsgebonden budget
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  5.8  
-Treedt in werking per 01-01-2015 
 
 1.  De aanvraag gaat vergezeld van een budgetplan dat is ingericht volgens het door het Zorginstituut vastgestelde model.   
 2.  De verzekerde die aan het zorgkantoor een persoonlijk plan wil overhandigen wordt daartoe door het zorgkantoor in staat gesteld gedurende zeven dagen na ontvangst van een volledige aanvraag.   
 3.  Het zorgkantoor nodigt de verzekerde of diens vertegenwoordiger uit om de aanvraag met het zorgkantoor te bespreken.  
 
 ### Artikel  5.9  
-Treedt in werking per 01-01-2015 
 
 Het verlenen een persoonsgebonden budget wordt geweigerd indien: 
 
@@ -394,12 +356,10 @@ e. ten aanzien van de verzekerde of, indien de verzekerde de leeftijd van 18 jaa
 f. de verzekerde of diens vertegenwoordiger het zorgkantoor geen toestemming geeft om de persoonsgegevens van de verzekerde door te geven aan het CAK ten behoeve van de vaststelling van de te betalen eigen bijdrage en aan de Sociale verzekeringsbank ten behoeve van de uitvoering van diens bij of krachtens de opgedragen taken omtrent het persoonsgebonden budget.   
 
 ### Artikel  5.10  
-Treedt in werking per 01-01-2015 
 
 Het zorgkantoor gaat bij de toepassing van artikel 4:25 van de Algemene bestuursrecht, gelezen in samenhang met het subsidieplafond van artikel 8.2 van deze regeling uit van de datum van ontvangst van het in artikel 3.6.2, eerste lid, onderdeel c, van het Besluit bedoelde aanvraagformulier of, indien dat aanvraagformulier is ontvangen voor de datum van vaststelling van het indicatiebesluit, de datum van het indicatiebesluit. 
 
 ### Artikel  5.11  
-Treedt in werking per 01-01-2015 
 
 1.  De verzekerde die gewaarborgde hulp inschakelt verstrekt het zorgkantoor onverwijld: 
 
@@ -417,10 +377,9 @@ b. een aanduiding van de hulp die zal worden geboden en de hoedanigheid waarin d
 4°. ten aanzien van de derde de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, dan wel een verzoek daartoe bij de rechtbank is ingediend of de derde surséance van betaling heeft aangevraagd of failliet is verklaard, of  
 
 5°. anderszins onvoldoende waarborg zal bieden voor het nakomen van de voor de verzekerde aan het persoonsgebonden budget verbonden verplichtingen.     
-3.  Het eerste lid is tot 1 april 2015 niet van toepassing op de verzekerde die onmiddellijk voorafgaand aan de intrekking van de Algemene Bijzondere Ziektekosten een aanspraak had op een persoonsgebonden budget5. Op verzoek van de verzekerde die de leeftijd van 21 jaar nog niet heeft bereikt of van diens telijk vertegenwoordiger, wordt een persoonsgebonden budget verleend aan de organisatie die belast is met de ondertoezichtstelling van de verzekerde of die een reclasseringsmaatregel uitoefent krachtens een uitspraak van de rechter of het Openbaar Ministerie op grond van artikel 14d, artikel 15b, tweede lid, of Bok I, Titel VIII A Bijzondere bepalingen voor jeugdige personen van het boek van Strafrecht.  
+3.  Het eerste lid is tot 1 april 2015 niet van toepassing op de verzekerde die onmiddellijk voorafgaand aan de intrekking van de Algemene Bijzondere Ziektekosten een aanspraak had op een persoonsgebonden budget. Op verzoek van de verzekerde die de leeftijd van 21 jaar nog niet heeft bereikt of van diens telijk vertegenwoordiger, wordt een persoonsgebonden budget verleend aan de organisatie die belast is met de ondertoezichtstelling van de verzekerde of die een reclasseringsmaatregel uitoefent krachtens een uitspraak van de rechter of het Openbaar Ministerie op grond van artikel 14d, artikel 15b, tweede lid, of Bok I, Titel VIII A Bijzondere bepalingen voor jeugdige personen van het boek van Strafrecht.  
 
 ### Artikel  5.12  
-Treedt in werking per 01-01-2015 
 
 Het persoonsgebonden budget wordt verleend voor een subsidieperiode die: 
 
@@ -432,10 +391,7 @@ b. eindigt met ingang van de dag waarop het indicatiebesluit zijn geldigheidsduu
 
 ####De hoogte van het persoonsgebonden budget
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  5.13  
-Treedt in werking per 01-01-2015 
 
 1.  Een persoonsgebonden budget voor een verzekerde die blijkens een indicatiebesluit is aangewezen op zorg, bedraagt in 2015 ten hoogste voor: 
 
@@ -451,17 +407,20 @@ e. begeleiding groep, inclusief vervoer: 1e klasse 1: € 2.744 2e klasse 2: �
 2.  Het persoonsgebonden budget wordt berekend door het in het indicatiebesluit opgenomen zorgprofiel of een zorgzwaartepakket, indien het een verzekerde betreft die krachtens overgangsrecht beschikt over een zorgzwaartepakket krachtens de Algemene Bijzondere Ziektekosten, met toepassing van de in bijlage C bij deze regeling om te rekenen naar een of meer klassen, bedoeld in het eerste lid.   
 3.  Indien de verzekerde niet in een instelling verblijft hoogt het zorgkantoor het persoonsgebonden budget op met € 3.357.   
 4.  Het zorgkantoor verhoogt het persoonsgebonden budget met € 4.030 voor een verzekerde die woont in een kleinschalig wooninitiatief.   
-5.  Dit artikel is niet van toepassing op een verzekerde met een indicatiebesluit als bedoeld in artikel 11.1.1, zesde lid, van de . Het bedrag van een persoonsgebonden budget dat voor deze verzekerden wordt vastgesteld krachtens artikel 11.1.2, zevende lid, van de , wordt in 2015 verhoogt met 0,74%, alsmede met het bedrag, bedoeld in het derde lid.  
+5.  Dit artikel is niet van toepassing op een verzekerde met een indicatiebesluit als bedoeld in artikel 11.1.1, zesde lid, van de wet, of artikel 9.3a of 9.3b van deze regeling. Het bedrag van een persoonsgebonden budget dat voor deze verzekerden wordt vastgesteld krachtens artikel 11.1.2, zevende lid, van de wet, zo nodig in verbinding met de artikelen 9.3a, tweede lid, of 9.3b, eerste lid, van deze regeling, wordt in 2015 verhoogd met 0,74% alsmede met: 
+
+a. het bedrag, bedoeld in het derde lid, indien de verzekerde over 2014 jegens het college van burgemeester en wethouders van de gemeente waarin hij woonde recht had op een persoonsgebonden budget voor huishoudelijke verzorging van niet meer dan € 4.857, of  
+
+b. het bedrag van het persoonsgebonden budget voor huishoudelijke verzorging waarop de verzekerde over 2014 jegens het college van burgemeester en wethouders van de gemeente waarin hij woonde recht had, indien dat meer bedroeg dan € 4.857 en de verzekerde achttien jaar of ouder is.     
+6.  Indien een verzekerde slechts gedurende een gedeelte van 2014 een persoonsgebonden budget als bedoeld in het vijfde lid, onderdeel a of b, ontving of in 2014 wegens verhuizing achtereenvolgens meerdere persoonsgebonden budgetten als bedoeld in het vijfde lid, onderdeel a of b, ontving, wordt voor de beantwoording van de vraag of de verzekerde recht heeft op de in het vijfde lid, onderdeel a dan wel onderdeel b bedoelde toeslag, het budget waarop over 2014 recht bestond bepaald door het in dat jaar laatst toegekende budget te delen door het aantal dagen in 2014 waarover dat budget was toegekend en het resultaat van dit quotiënt te vermenigvuldigen met 365.  
 
 ### Artikel  5.14  
-Treedt in werking per 01-01-2015 
 
 1.  Een persoonsgebonden budget dat voor meerdere vormen van zorg wordt verleend, bedraagt ten hoogste de som van de met behulp van de in de artikel 5.13 bepaalde bedragen.   
-2.  Het zorgkantoor kan onder daarbij te stellen voorwaarden in het voordeel van de verzekerde afwijken van het eerste lid indien de verzekerde naar het oordeel van het zorgkantoor aanspraak heeft op meer zorg als bedoeld in artikel 2.2 van deze regeling of op een verhoging als bedoeld in artikel 5.3, tweede lid.   
+2.  Het zorgkantoor kan onder daarbij te stellen voorwaarden in het voordeel van de verzekerde afwijken van het eerste lid indien de verzekerde naar het oordeel van het zorgkantoor aanspraak heeft op meer zorg als bedoeld in artikel 2.2 van deze regeling of op een verhoging als bedoeld in artikel 5.3, tweede en vijfde lid.   
 3.  Indien een subsidieperiode met ingang van een andere dag dan 1 januari van een kalenderjaar aanvangt of op een andere dag dan 31 december eindigt, wordt het maximum persoonsgebonden budget vermenigvuldigd met een breuk waarvan de teller bestaat uit het aantal dagen van de subsidieperiode in het desbetreffende kalenderjaar en de noemer uit het aantal dagen in dat kalenderjaar.  
 
 ### Artikel  5.15  
-Treedt in werking per 01-01-2015 
 
 1.  Het zorgkantoor hoogt het persoonsgebonden budget op tot een garantiebedrag ter hoogte van 100,74% van het persoonsgebonden budget dat was verleend voor de subsidieperiode die eindigde op 31 december 2014, indien de verzekerde volgens het indicatiebesluit was aangewezen op verblijf zoals dat gold onder de Algemene Bijzondere Ziektekosten, en 
 
@@ -485,14 +444,25 @@ a. met een onderbreking van niet meer dan zeven kalenderdagen, aansluit op een e
 
 b. aansluit op een periode waarin de verzekerde verbleef in een instelling als bedoeld in de wet, de Algemene Wet Bijzondere Ziektekosten of de Zorgverzekeringswet en dit verblijf aansloot op een eerdere subsidieperiode.    
 
+### Artikel  5.15a  
+
+1.  In geval de verzekerde geïndiceerd is voor het zorgprofiel LG Wonen met begeleiding en intensieve verzorging, LG Wonen met zeer intensieve begeleiding en zeer intensieve verzorging, dan wel voor het zorgzwaartepakket ZZP LG 5 of ZZP LG 7, hoogt het zorgkantoor op aanvraag van de verzekerde zijn persoonsgebonden budget op tot ten hoogste € 219.000 indien de verzekerde: 
+
+a. vanuit een medische noodzaak is aangewezen op permanent toezicht of 24 uur per dag zorg in de nabijheid om de veiligheid van verzekerde in levensbedreigende situaties te waarborgen,  
+
+b. 18 jaar of ouder is,  
+
+c. geen cognitieve beperkingen heeft, en  
+
+d. op eigen kracht, zonder hulp van een vertegenwoordiger, de taken als omschreven in artikel 3.3.3, vierde lid, onderdeel b en c, van de wet kan uitvoeren.     
+2.  De aanvraag van verzekerde bij het zorgkantoor gaat vergezeld van een oordeel van een behandelend arts over de medische noodzaak als beschreven in het eerste lid, onderdeel a, en wordt slechts ingewilligd nadat het zorgkantoor de verzekerde in persoon heeft gezien en mede op grond daarvan tot de overtuiging is gekomen dat de verzekerde voldoet aan de voorwaarden, bedoeld in het eerste lid.   
+3.  Het persoonsgebonden budget van de verzekerde, bedoeld in het eerste lid, kan in afwijking van het eerste lid, tot ten hoogste € 146.000 worden opgehoogd indien verzekerde samenleeft met een echtgenoot.  
+
 ### §  5  
 
 ####Het gebruik van het persoonsgebonden budget
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  5.16  
-Treedt in werking per 01-01-2015 
 
 1.  De zorgovereenkomst bevat ten minste de onderdelen die zijn vereist volgens de daartoe door de Sociale verzekeringsbank vastgestelde modelovereenkomsten.   
 2.  Door het zorgkantoor kan de goedkeuring slechts worden gegeven, indien: 
@@ -510,27 +480,23 @@ a. de overeenkomst ten minste de volgende elementen bevat:
 b. uit de omschrijving van de wijze waarop de zorgverlener voorziet in de behoefte aan zorg van de verzekerde, blijkt dat de overeenkomst strekt tot de inkoop van persoonlijke verzorging, verpleging, begeleiding, huishoudelijke hulp en vervoer naar een plaats waar de verzekerde gedurende een dagdeel begeleiding of behandeling ontvangt, of tot inkoop van logeeropvang of kortdurend verblijf.    
 
 ### Artikel  5.17  
-Treedt in werking per 01-01-2015 
 
 1.  Het persoonsgebonden budget mag uitsluitend worden gebruikt voor: 
 
 a. het door de Sociale verzekeringsbank doen betalen van zorg als bedoeld in artikel 3.3.3 van de wet, of  
 
-b. van bemiddelingskosten zoals onder 5.19, eerste lid, onderdeel fopgenomen voorwaarden, of  
+b. het betalen van bemiddelingskosten onder de in artikel 5.18, eerste lid, onderdeel f, opgenomen voorwaarden, of  
 
-c. voor een bedrag van niet meer dan € 4.030 aan de zorginfrastructuur van een kleinschalig wooninitiatief.     
+c. een bedrag van niet meer dan € 4.030 aan de zorginfrastructuur van een kleinschalig wooninitiatief.    
 2.  In afwijking van het eerste lid, onderdeel a, mag het persoonsgebonden budget slechts besteed worden aan kosten van vervoer naar een plaats waar de verzekerde gedurende een dagdeel begeleiding of behandeling ontvangt indien een persoonsgebonden budget verleend is voor begeleiding groep inclusief vervoer of indien de verzekerde blijkens het indicatiebesluit is aangewezen op een zorgzwaartepakket VV.   
-3.  de verzekerde hoeft geen verantwoording af te leggen over de besteding van maximaal 1,5% van het voor dat jaar verleende persoonsgebonden budget met een minimum van € 250 en een maximum van € 1.250.   
+3.  De verzekerde hoeft geen verantwoording af te leggen over de besteding van maximaal 1,5% van het voor dat jaar verleende persoonsgebonden budget met een minimum van € 250 en een maximum van € 1.250.   
 4.  Indien een subsidieperiode met ingang van een andere dag dan 1 januari van een kalenderjaar aanvangt of op een andere dag dan 31 december eindigt, worden de bedragen, genoemd in het derde lid, voor dat kalenderjaar vermenigvuldigd met een breuk waarvan de teller bestaat uit het aantal dagen van de subsidieperiode in het desbetreffende kalenderjaar en de noemer uit het aantal dagen in dat kalenderjaar.  
 
 ### §  6  
 
 ####Regels over verlenen en vaststellen van een persoonsgebonden budget
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  5.18  
-Treedt in werking per 01-01-2015 
 
 1.  Bij de verlening van het persoonsgebonden budget worden de verzekerde in ieder geval de volgende verplichtingen opgelegd: 
 
@@ -553,7 +519,6 @@ h. de verzekerde besteedt het persoonsgebonden budget niet aan logeeropvang buit
 i. de verzekerde deelt het zorgkantoor op diens verzoek of onverwijld uit eigen beweging alle feiten en omstandigheden mee waarvan hem redelijkerwijs duidelijk moet zijn dat zij van invloed kunnen zijn op de verstrekking van het persoonsgebonden budget.    
 
 ### Artikel  5.19  
-Treedt in werking per 01-01-2015 
 
 De verleningsbeschikking van het zorgkantoor aan de verzekerde bevat ten minste de volgende gegevens: 
 
@@ -566,7 +531,6 @@ c. de verplichtingen van de verzekerde;
 d. De maximale hoogte van het bedrag waarover een budgethouder zich niet hoeft te verantwoorden, en de wijze waarop dat bedrag is berekend.   
 
 ### Artikel  5.20  
-Treedt in werking per 01-01-2015 
 
 1.  Het zorgkantoor wijzigt de verleningsbeschikking of trekt deze in: 
 
@@ -582,21 +546,18 @@ e. met ingang van de dag waarop het indicatiebesluit ten nadele van de verzekerd
 2.  De verleningsbeschikking kan worden ingetrokken of gewijzigd met ingang van de dag waarop de verzekerde, of de derde die aan verzekerde gewaarborgde hulp biedt, de opgelegde verplichtingen niet nakomt of niet langer voldoet aan de voorwaarden of verleningsgronden van het persoonsgebonden budget of aan de eisen voor gewaarborgde hulp.  
 
 ### Artikel  5.21  
-Treedt in werking per 01-01-2015 
 
 1.  Na afloop van iedere subsidieperiode wordt de subsidie voor de desbetreffende subsidieperiode vastgesteld.   
 2.  Het zorgkantoor stelt het persoonsgebonden budget binnen zes weken na afloop van de subsidieperiode vast.   
-3.  Indien de verzekerde geen betalingen heeft laten doen dan wordt de subsidie, in afwijking van het derde lid, vastgesteld op nihil.   
-4.  Indien een subsidieperiode met ingang van een andere dag dan 1 januari van een kalenderjaar aanvangt of op een andere dag dan 31 december eindigt, worden de bedragen, genoemd in het derde lid, voor dat kalenderjaar vermenigvuldigd met een breuk waarvan de teller bestaat uit het aantal dagen van de subsidieperiode in het desbetreffende kalenderjaar en de noemer uit het aantal dagen in dat kalenderjaar.  
+3.  Het persoonsgebonden budget wordt vastgesteld op 1,5% van het voor het kalenderjaar verleende persoonsgebonden budget met een minimum van € 250 en een maximum van € 1.250, vermeerderd met de som van de bedragen die de Sociale verzekeringsbank met toestemming van de verzekerde voor tijdens de subsidieperiode verleende zorg heeft uitbetaald.  
+4.  Indien de verzekerde geen betalingen heeft laten doen dan wordt de subsidie, in afwijking van het derde lid, vastgesteld op nihil.   
+5.  Indien een subsidieperiode met ingang van een andere dag dan 1 januari van een kalenderjaar aanvangt of op een andere dag dan 31 december eindigt, worden de bedragen, genoemd in het derde lid, voor dat kalenderjaar vermenigvuldigd met een breuk waarvan de teller bestaat uit het aantal dagen van de subsidieperiode in het desbetreffende kalenderjaar en de noemer uit het aantal dagen in dat kalenderjaar.  
 
 ### §  7  
 
 ####Betaling uit het persoonsgebonden budget
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  5.22  
-Treedt in werking per 01-01-2015 
 
 1.  De uit het persoonsgebonden budget te vergoeden kosten van een zorgaanbieder zijn ten hoogste: € 63 per uur of € 58 per dagdeel of een door de zorgautoriteit op grond van de Wet marktordening gezondheidszorg voor de desbetreffende zorg vastgesteld hoger tarief.   
 2.  In afwijking van het eerste lid wordt een tarief van ten hoogste € 20 per uur, of € 20 per dagdeel gehanteerd tenzij het een budgethouder betreft die onmiddellijk voor intrekking van de Algemene Wet Bijzondere Ziektekosten een persoonsgebonden budget beschikte of de verzekerde aan wie met ingang van 1 januari 2014 een persoonsgebonden budget is verleend en kan aantonen dat de zorg is verleend door: 
@@ -611,7 +572,6 @@ c. een persoon die is ingeschreven in het register, bedoeld in artikel 3 van Wet
 5.  het bedrag dat aan bemiddelingskosten, zoals bedoeld in eerste lid, onderdeel f, betaald mag worden bedraagt maximaal € 250 per jaar indien het verleende persoonsgebonden budget op jaarbasis € 25.000 of minder bedraagt en € 500 per jaar indien het verleende persoonsgebonden budget op jaarbasis meer dan € 25.000 bedraagt.  
 
 ### Artikel  5.23  
-Treedt in werking per 01-01-2015 
 
 1.  De Sociale verzekeringsbank verricht betalingen uit het persoonsgebonden budget, voor werkzaamheden die voortvloeien uit een arbeidsovereenkomst of overeenkomst van opdracht, indien een declaratie van de persoon met wie deze overeenkomst is aangegaan, de naam en het adres van deze persoon, het tarief, een verantwoording van de overeengekomen resultaten dan wel een overzicht van het aantal te betalen uren en dagdelen of etmalen, bevat.   
 2.  De Sociale verzekeringsbank kan beslissen tot beëindiging van de betalingen of weigering van een betaling uit het persoonsgebonden budget: 
@@ -631,10 +591,7 @@ d. indien een ingediende declaratie niet voldoet aan de voorwaarden van de zorgo
 
 ####Overige bepalingen omtrent het persoonsgebonden budget
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  5.24  
-Treedt in werking per 01-01-2015 
 
 De aanvaardbaarheidspercentages, bedoeld in artikel 3.7.2, derde lid, van het Besluit, zijn de in bijlage D bij deze regeling opgenomen aanvaardbaarheidspercentages. 
 
@@ -642,10 +599,7 @@ De aanvaardbaarheidspercentages, bedoeld in artikel 3.7.2, derde lid, van het Be
 
 ####Organisatie en verantwoording van de langdurige zorg
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  6.1  
-Treedt in werking per 01-01-2015 
 
 Tot de regio's, genoemd in artikel 4.2.1, eerste lid, van het Besluit, behoren de in bijlage B genoemde gemeenten. 
 
@@ -653,10 +607,7 @@ Tot de regio's, genoemd in artikel 4.2.1, eerste lid, van het Besluit, behoren d
 
 ####Informatiebepalingen
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  7.1  
-Treedt in werking per 01-01-2015 
 
 Als persoonsgegevens, waaronder persoonsgegevens betreffende de gezondheid als bedoeld in de Wet bescherming persoonsgegevens, die voor Wlz-uitvoerders noodzakelijk zijn voor de uitvoering van de wet, worden in ieder geval aangemerkt: 
 
@@ -683,7 +634,6 @@ j. het bank- of gironummer, en
 k. overige gegevens die noodzakelijk zijn voor het verrichten van een materiële controle als bedoeld in artikel 7.2, dan wel voor het verrichten van fraudeonderzoek als bedoeld in artikel 7.10.   
 
 ### Artikel  7.2  
-Treedt in werking per 01-01-2015 
 
 De controle, bedoeld in artikel 9.1.2, eerste lid, onder i, van de wet houdt in: 
 
@@ -702,19 +652,16 @@ b. formele controle: een onderzoek waarbij de Wlz-uitvoerder nagaat of het tarie
 c. detailcontrole: onderzoek door de Wlz-uitvoerder naar bij de zorgaanbieder berustende persoonsgegevens met betrekking tot eigen verzekerden ten behoeve van materiële controle als bedoeld in artikel 7.3 of fraudeonderzoek als bedoeld in artikel 7.10.   
 
 ### Artikel  7.3  
-Treedt in werking per 01-01-2015 
 
 1.  De Wlz-uitvoerder verricht materiële controle op de wijze zoals bepaald in de artikelen 7.4 tot en met 7.9.   
 2.  De zorgaanbieder is verplicht zijn medewerking te verlenen aan de overeenkomstig het eerste lid uitgevoerde materiële controle.  
 
 ### Artikel  7.4  
-Treedt in werking per 01-01-2015 
 
 1.  De Wlz-uitvoerder stelt voorafgaand aan de uitvoering van materiële controle het doel ervan vast door te bepalen wanneer voldoende zekerheid is verkregen dat de door de zorgaanbieder in rekening gebrachte prestatie is geleverd of die geleverde prestatie het meest was aangewezen gezien de gezondheidstoestand van de verzekerde.   
 2.  Bij de vaststelling van het doel als bedoeld in het eerste lid, neemt de Wlz-uitvoerder voor het uitvoeren van controles mede de op grond van de artikelen 31 en 36 van de Wet marktordening gezondheidszorg door de zorgautoriteit gestelde regels in acht.  
 
 ### Artikel  7.5  
-Treedt in werking per 01-01-2015 
 
 1.  De Wlz-uitvoerder mag verzekerden met gebruikmaking van persoonsgegevens waarover hij in verband met de uitvoering van de wet reeds beschikt enquêteformulieren zenden om: 
 
@@ -725,7 +672,6 @@ Treedt in werking per 01-01-2015
 3.  De Wlz-uitvoerder draagt er zorg voor dat terug ontvangen enquêteformulieren als bedoeld in het eerste lid, onderdeel 2°, niet herleidbaar zijn tot personen en dat niet herleidbaar is welke verzekerden geen formulier hebben teruggestuurd.  
 
 ### Artikel  7.6  
-Treedt in werking per 01-01-2015 
 
 1.  De Wlz-uitvoerder voert een algemene risicoanalyse uit op basis van gegevens waarover deze in verband met de uitvoering van de wet beschikt.   
 2.  De Wlz-uitvoerder stelt op basis van de in het eerste lid uitgevoerde algemene risicoanalyse een algemeen controleplan vast, waarin de objecten van materiële controle en de in te zetten controle-instrumenten zijn opgenomen.   
@@ -733,12 +679,10 @@ Treedt in werking per 01-01-2015
 4.  Indien uit het uitgevoerde algemene controleplan blijkt dat het controledoel, bedoeld in artikel 7.4, eerste lid, is bereikt, kan alleen detailcontrole worden uitgevoerd als er van een ander dan de Wlz-uitvoerder afkomstige of uit de uitgevoerde controle voortvloeiende aanwijzingen zijn waaruit blijkt dat er sprake is van onvoldoende zekerheid.  
 
 ### Artikel  7.7  
-Treedt in werking per 01-01-2015 
 
 De Wlz-uitvoerder maakt informatie openbaar over het ingevolge artikel 7.4 vastgestelde controledoel en het ingevolge artikel 7.6 vastgestelde algemene controleplan op een zodanige wijze dat die informatie voor verzekerden en zorgaanbieders gemakkelijk verkrijgbaar is. 
 
 ### Artikel  7.8  
-Treedt in werking per 01-01-2015 
 
 1.  De Wlz-uitvoerder voert geen detailcontrole uit, dan nadat is voldaan aan de volgende voorwaarden: 
 
@@ -756,12 +700,10 @@ e. de Wlz-uitvoerder heeft de zorgaanbieder voorafgaand aan de uitvoering van de
 4.  De Wlz-uitvoerder betrekt de reactie van de zorgaanbieder bij de vaststelling van de definitieve uitkomsten van de detailcontrole en bericht deze uitkomsten aan de zorgaanbieder.  
 
 ### Artikel  7.9  
-Treedt in werking per 01-01-2015 
 
 De Wlz-uitvoerder legt de specifieke risicoanalyse en de uitvoering van detailcontroles in zijn administratie vast om toetsing door en verantwoording aan toezichthouders mogelijk te maken. 
 
 ### Artikel  7.10  
-Treedt in werking per 01-01-2015 
 
 1.  Het fraudeonderzoek, bedoeld in artikel 9.1.2, eerste lid, onder j, van de wet houdt een onderzoek in waarbij de Wlz-uitvoerder nagaat of de verzekerde of de zorgaanbieder valsheid in geschrifte, bedrog, benadeling van rechthebbenden of verduistering pleegt of tracht te plegen bij de uitvoering door betrokken personen en organisaties van de verzekering op grond van de wet, met het doel een prestatie, vergoeding, betaling of ander voordeel te krijgen waarop de verzekerde dan wel de zorgaanbieder geen recht heeft of recht kan hebben.   
 2.  Bij fraudeonderzoek zijn de voorwaarden bedoeld in artikel 7.8, eerste lid, onderdelen b en d, van overeenkomstige toepassing, en is de in onderdeel e bedoelde voorwaarde van overeenkomstige toepassing voor zover het onderzoeksbelang of het belang van de bescherming van de persoonlijke levenssfeer van de betrokken verzekerde zich daar niet tegen verzet.   
@@ -769,7 +711,6 @@ Treedt in werking per 01-01-2015
 4.  De zorgaanbieder is verplicht zijn medewerking te verlenen aan overeenkomstig het tweede lid uitgevoerd fraudeonderzoek.  
 
 ### Artikel  7.11  
-Treedt in werking per 01-01-2015 
 
 De Wlz-uitvoerder verwerkt de persoonsgegevens, bedoeld in artikel 6.1.1 van de wet slechts verder voor de uitvoering van de wet en voor zover dit noodzakelijk is voor de doelen als omschreven in artikel 9.1.2, eerste en derde lid, en 9.1.3, tweede lid, van de wet. 
 
@@ -777,141 +718,154 @@ De Wlz-uitvoerder verwerkt de persoonsgegevens, bedoeld in artikel 6.1.1 van de 
 
 ####Financiële bepalingen
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  8.1  
-Treedt in werking per 01-01-2015 
 
-1.  Het bedrag, bedoeld in artikel 49e, eerste lid, van de Wet marktordening gezondheidszorg bedraagt voor het jaar 2015: € 17.665 miljoen .   
-2.  Van het bedrag, bedoeld in het eerste lid, is € 16.505 miljoen bestemd voor zorg in natura en € 1.160 miljoen bestemd voor persoonsgebonden budgetten.  
+1.  Het bedrag, bedoeld in artikel 49e, eerste lid, van de Wet marktordening gezondheidsheidszorg bedraagt voor het jaar 2015: € 17.785 miljoen.   
+2.  Van het bedrag, bedoeld in het eerste lid, is € 16.505 miljoen bestemd voor zorg in natura en € 1.280 miljoen bestemd voor persoonsgebonden budgetten.  
 
 ### Artikel  8.2  
-Treedt in werking per 01-01-2015 
 
-De bedragen die in 2015 beschikbaar zijn voor de verstrekking van persoonsgebonden budgetten zijn voor de hiernavolgende regio's de achter die regio's opgenomen: 
+De bedragen die in 2015 beschikbaar zijn voor de verstrekking van persoonsgebonden budgetten zijn voor de hiernavolgende regio's achter die regio's opgenomen: 
 
-– Groningen: € 65.785.039  
+– Groningen: € 69.311.239  
 
-– Friesland: € 81.557.893  
+– Friesland: € 83.684.474  
 
-– Drenthe: € 55.802.248  
+– Drenthe: € 58.407.506  
 
-– Zwolle: € 43.540.933  
+– Zwolle: € 49.254.500  
 
-– Twente: € 58.126.639  
+– Twente: € 59.657.527  
 
-– Apeldoorn, Zutphen, en omstreken: € 24.505.730  
+– Apeldoorn, Zutphen, en omstreken: € 28.585.637  
 
-– Arnhem: € 84.587.832  
+– Arnhem: € 87.772.629  
 
-– Nijmegen: € 43.127.032  
+– Nijmegen: € 40.203.850  
 
-– Utrecht: € 65.623.587  
+– Utrecht: € 79.207.401  
 
-– Flevoland: € 15.010.566  
+– Flevoland: € 17.006.338  
 
-– ’t Gooi: € 31.625.839  
+– ’t Gooi: € 32.214.275  
 
-– Noord-Holland Noord: € 34.987.851  
+– Noord-Holland Noord: € 39.274.102  
 
-– Kennemerland: € 22.056.449  
+– Kennemerland: € 24.800.894  
 
-– Zaanstreek/Waterland: € 15.231.149  
+– Zaanstreek/Waterland: € 17.037.675  
 
-– Amsterdam: € 30.519.659  
+– Amsterdam: € 38.326.056  
 
-– Amstelland en de Meerlanden: € 5.340.473  
+– Amstelland en de Meerlanden: € 9.649.988  
 
-– Zuid-Holland Noord: € 18.406.681  
+– Zuid-Holland Noord: € 26.090.967  
 
-– Haaglanden: € 40.860.645  
+– Haaglanden: € 48.896.352  
 
-– Delft Westland Oostland: € 10.881.504  
+– Delft Westland Oostland: € 16.309.234  
 
-– Midden-Holland: € 16.147.931  
+– Midden-Holland: € 16.531.981  
 
-– Rotterdam: € 31.152.720  
+– Rotterdam: € 37.468.392  
 
-– Nieuwe Waterweg Noord: € 8.275.770  
+– Nieuwe Waterweg Noord: € 10.890.145  
 
-– Zuid-Hollandse Eilanden: € 26.471.712  
+– Zuid-Hollandse Eilanden: € 30.824.465  
 
-– Waardenland: € 23.209.374  
+– Waardenland: € 26.602.121  
 
-– Zeeland: € 21.223.205  
+– Zeeland: € 26.819.230  
 
-– West-Brabant: € 45.096.427  
+– West-Brabant: € 53.223.667  
 
-– Midden-Brabant: € 42.852.179  
+– Midden-Brabant: € 44.097.152  
 
-– Noordoost Brabant: € 49.395.894  
+– Noordoost Brabant: € 51.765.053  
 
-– Zuidoost Brabant: € 57.830.013  
+– Zuidoost Brabant: € 55.069.693  
 
-– Noord- en Midden-Limburg: € 36.785.419  
+– Noord- en Midden-Limburg: € 39.086.566  
 
-– Zuid-Limburg: € 46.031.446  
+– Zuid-Limburg: € 51.430.868  
 
-– Midden IJssel: € 7.950.164.   
+– Midden IJssel: € 10.500.022.   
 
 ### Hoofdstuk  9  
 
 ####Tijdelijk en overgangsrecht, burgerlijk recht
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  9.1  
-Treedt in werking per 01-01-2015 
 
 1.  Echtgenoten van verzekerden die op de dag voorafgaande aan de inwerkingtreding van de wet met toepassing van artikel 9, derde lid, van het Besluit zorgaanspraken AWBZ in een instelling verbleven, behouden dat recht na inwerkingtreding van de wet.   
 2.  Artikel 3.1.2, eerste lid, tweede volzin, is van overeenkomstige toepassing.  
 
 ### Artikel  9.2  
-Treedt in werking per 01-01-2015 
 
 Artikel 11.1.1, vierde lid, van de wet geldt slechts voor verzekerden die op de dag voorafgaande aan de intrekking van de Algemene Wet Bijzondere Ziektekosten op grond van een indicatiebesluit waren aangewezen op een zorgzwaartepakket als bedoeld in het derde lid van dat artikel. 
 
 ### Artikel  9.3  
-Treedt in werking per 01-01-2015 
 
 1.  Verzekerden als bedoeld in artikel 11.1.1, zesde lid, van de wet die voor 1 januari 2015 hebben laten en voor zorg als bedoeld in de wet in aanmerking te willen komen en die deze zorg in natura wensen te ontvangen, hebben gedurende het jaar 2015 recht op de zorg die zij op de dag voorafgaande aan de inwerkingtreding van de wet in natura ontvingen.   
 2.  Indien verzekerden als bedoeld in het eerste lid of in artikel 11.1.2, zevende lid, van de wet vanaf 1 januari voor al hun zorg of een deel van hun zorg voor andere leveringsvormen kiezen dan de leveringsvormen die zij op de dag voorafgaande aan de inwerkingtreding van de wet ontvingen, dan wel een andere verhouding tussen leveringsvormen wensen, spannen de Wlz-uitvoerder of het zorgkantoor zich ervoor in dat de hoeveelheid zorg die betrokkenen in 2015 in natura ontvangen of zelf kunnen inkopen, gelijk is aan de hoeveelheid zorg waarop zij op de dag voorafgaande aan de inwerkingtreding van de wet aanspraak hadden.   
 3.  Het eerste lid geldt niet indien de gezondheidssituatie van de verzekerde dan wel toepasselijkheid van artikel 3.2.4, aanhef en onderdeel a, van de wet noodzaakt tot een gedurende het jaar 2015 ingaande herindicatie.  
 
+### Artikel  9.3a  
+
+1.  Verzekerden die onmiddellijk voorafgaande aan de intrekking van de Algemene Wet Bijzondere Ziektekosten krachtens een indicatiebesluit als bedoeld in het Zorgindicatiebesluit aanspraak hadden op ADL-assistentie als bedoeld in het Besluit zorgaanspraken AWBZ en op 
+
+a. een totaal aantal van ten minste 25 uren per week individuele begeleiding, persoonlijke verzorging of verpleging, of  
+
+b. verpleging in verband met een behoefte aan thuisbeademing, behouden desgewenst tot 1 januari 2017 hun recht op de in onderdeel a of b bedoelde zorg als zouden zij verzekerden als bedoeld in artikel 11.1.1, zesde lid, van de wet zijn.     
+2.  Het eerste lid geldt slechts voor verzekerden aan wie vanaf 1 januari 2015 ADL-assistentie wordt verleend als bedoeld in de Subsidieregeling ADL-assistentie.   
+3.  De berekening het van het aantal uren, bedoeld in het eerste lid, onderdeel a, geschiedt op de in bijlage E geregelde wijze.   
+4.  Het eerste lid geldt slechts voor verzekerden die zich voor 1 januari 2015 daartoe bij het CIZ hebben aangemeld.   
+5.  Het recht, bedoeld in het eerste lid, vervalt zodra de verzekerde op grond van een indicatie als bedoeld in artikel 3.2.3 van de wet zorg ontvangt.  
+
+### Artikel  9.3b  
+
+1.  Verzekerden die onmiddellijk voorafgaande aan de intrekking van de Algemene Wet Bijzondere Ziektekosten op grond van een indicatie voor extramurale zorg een persoonsgebonden budget ontvingen of zorg in natura genoten, die voor 1 januari 2015 via de cliëntenorganisaties Ieder(in) of Per Saldo een indicatie als bedoeld in artikel 3.2.3 van de wet hebben aangevraagd en aan wie het CIZ op basis van een advies van een van deze of van beide cliëntenorganisaties deze indicatie heeft verschaft, behouden gedurende de geldigheidsduur van deze indicatie hun recht op zorg als zouden zij verzekerden als bedoeld in artikel 11.1.1, zesde lid, van de wet zijn.   
+2.  Tenzij de gezondheidssituatie van de verzekerde dan wel toepasselijkheid van artikel 3.2.4, aanhef, en onderdeel a, van de wet, noodzaakt tot een gedurende 2015 ingaande herindicatie, geldt een indicatiebesluit dat volgens de in het eerste lid bedoelde procedure tot stand is gekomen tot 1 januari 2016.  
+
+### Artikel  9.3c  
+
+1.  Indien een verzekerde als bedoeld in artikel 11.1.1, zesde lid, van de wet of in artikel 9.3a of 9.3b tijdens de periode van zijn overgangrecht een herindicatie aanvraagt, indiceert het CIZ hem op basis van de bij en krachtens de Algemene Wet Bijzondere Ziektekosten gestelde regels zoals deze op 31 december 2014 luidden.   
+2.  Het CIZ geeft een besluit tot herindicatie als bedoeld in het derde lid een geldigheidsduur die de duur van het voor de verzekerde geldende overgangsrecht niet overschrijdt.  
+
 ### Artikel  9.4  
-Treedt in werking per 01-01-2015 
 
 Een verzekerde die onmiddellijk voorafgaande aan de intrekking van de Algemene Wet Bijzondere Ziektekosten voortgezet verblijf als bedoeld in artikel 13 van het Besluit zorgaanspraken AWBZ ontving zonder over een indicatie voor een zorgzwaartepakket B GGZ te beschikken, behoudt totdat de met het verblijf gepaard gaande geneeskundige zorg voor hem niet meer medisch noodzakelijk is zijn recht op dat voortgezet verblijf. 
 
 ### Artikel  9.5  
-Treedt in werking per 01-01-2015 
 
 Een zorgovereenkomst die krachtens artikel 2.6.15 van de Regeling subsidies AWBZ, zoals die gold onmiddellijk voorafgaande aan de intrekking van de Algemene Wet Bijzondere Ziektekosten, door de zorgverzekeraar of door de Sociale verzekeringsbank is goedgekeurd, geldt als een goedgekeurde zorgovereenkomst op grond van artikel 3.6.4, derde lid, van het Besluit. 
 
 ### Artikel  9.6  
-Treedt in werking per 01-01-2015 
 
-1.  De verzekerde die met ingang van 1 januari 2015 recht krijgt op verblijf in een instelling waar de verzekerde met verblijf gepaard gaande behandeling als bedoeld in artikel 3.1.1, eerste lid, onderdeel d, van de wet en die onmiddellijk voorafgaand aan de intrekking van de Algemene Wet Bijzondere Ziektekosten krachtens de Wet maatschappelijke ondersteuning het individueel gebruik van een mobiliteitshulpmiddel had, behoudt het gebruik van dat hulpmiddel totdat krachtens artikel 2.3 van deze regeling een mobiliteitshulpmiddel kan worden verstrekt.   
+1.  De verzekerde die met ingang van 1 januari 2015 recht krijgt op verblijf in een instelling waar de verzekerde met verblijf gepaard gaande behandeling als bedoeld in artikel 3.1.1, eerste lid, onderdeel d, van de wet had en die onmiddellijk voorafgaand aan de intrekking van de Algemene Wet Bijzondere Ziektekosten krachtens de Wet maatschappelijke ondersteuning het individueel gebruik van een mobiliteitshulpmiddel had, behoudt het gebruik van dat hulpmiddel totdat krachtens artikel 2.3 van deze regeling een mobiliteitshulpmiddel kan worden verstrekt.   
 2.  De verzekerde die met ingang van 1 januari 2016 recht krijgt op zorg krachtens de wet en onmiddellijk daaraan voorafgaand krachtens de  Wet maatschappelijke ondersteuning 2015 het individueel gebruik van een mobiliteitshulpmiddel had, behoudt dit hulpmiddel totdat het op grond van de Wet langdurige zorg kan worden verstrekt.  
+
+### Artikel  9.7  
+
+Indien een op 31 december 2014 geldig indicatiebesluit als bedoeld in artikel 4 van het Zorgindicatiebesluit zoals dat onmiddellijk voorafgaande aan de intrekking van de Algemene Wet Bijzondere Ziektekosten luidde, voor 1 mei 2015 verloopt of is verlopen, kan de aanspraak op de geïndiceerde zorg tezamen met de daaraan verbonden verplichtingen doorlopen tot 1 mei 2015 indien het indicatiebesluit aanspraak geeft of gaf op zorg met toepassing van: 
+
+a. de Verordening (EG) nr. 883/2004 van het Europees Parlement en de Raad van 29 april 2004 betreffende de coördinatie van sociale zekerheidsstelsels (PbEU 2004, L 166), of  
+
+b. een Verdrag waarbij Nederland partij is.   
 
 ### Hoofdstuk  10  
 
 ####Slotbepalingen
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  10.1  
-Treedt in werking per 01-01-2015 
 
 Het bedrag, bedoeld in artikel 21, derde lid, van het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999, bedraagt € 250.000. 
 
 ### Artikel  10.2  
-Treedt in werking per 01-01-2015 
 
 Deze regeling wordt aangehaald als: Regeling langdurige zorg. 
 
 ### Artikel  10.3  
-Treedt in werking per 01-01-2015 
 
 1.  Deze regeling treedt in werking op 1 januari 2015, met uitzondering van artikel 2.3, eerste lid, onderdelen b en c, welke in werking treden op 1 januari 2016.   
 2.  Met ingang van 1 januari 2016 vervalt artikel 2.3, zesde lid.  
@@ -924,9 +878,7 @@ M.J. van Rijn
 
 ####bij artikel 2.1  van de Regeling langdurige zorg
 
-Treedt in werking per 01-01-2015 
-
-Zorgprofielen integraal pakket als bedoeld in artikel 3.3.1, eerste lid, van het Besluit langdurige zorg (met conversietabel ZZP’s Algemene Wet Bijzondere Ziektekosten en tevens met aanduiding van zorgprofielen waarboven meer zorg mogelijk is met *)  
+Zorgprofielen integraal pakket als bedoeld in artikel 3.1.1, eerste lid, van het Besluit langdurige zorg (met conversietabel ZZP’s Algemene Wet Bijzondere Ziektekosten en tevens met aanduiding van zorgprofielen waarboven meer zorg mogelijk is met *)  
 
 | Sector Verpleging en verzorging (VV)  | ZZP AWBZ  |
 |:---|:---|
@@ -1346,17 +1298,13 @@ Zorgprofielen integraal pakket als bedoeld in artikel 3.3.1, eerste lid, van het
 
 ####bij artikel 8.2  van de Regeling langdurige zorg
 
-Treedt in werking per 01-01-2015 
-
 ####Verdeling van gemeenten over zorgkantoorregio's in 2015
 
 *Groningen*  Appingedam, Bedum, Bellingwedde, De Marne, Delfzijl, Eemsmond, Groningen, Grootegast, Haren, Hoogezand-Sappemeer, Leek, Loppersum, Marum, Menterwolde, Oldambt, Pekela, Slochteren, Stadskanaal, Ten Boer, Veendam, Vlagtwedde, Winsum, Zuidhorn  *Friesland*  Achtkarspelen, Ameland, Dantumadiel, de Friese Meren, Dongeradeel, Ferwerderadiel, Franekeradeel, Harlingen, Heerenveen, het Bildt, Kollumerland en Nieuwkruisland, Leeuwarden, Leeuwarderadeel, Littenseradiel, Menameradiel, Ooststellingwerf, Opsterland, Schiermonnikoog, Smallingerland, Súdwest Fryslân, Terschelling, Tytsjerksteradiel, Vlieland, Weststellingwerf  *Drenthe*  Aa en Hunze, Assen, Borger-Odoorn, Coevorden, De Wolden, Emmen, Hoogeveen, Meppel, Midden-Drenthe, Noordenveld, Tynaarlo, Westerveld  *Zwolle*  Dalfsen, Elburg, Ermelo, Hardenberg, Harderwijk, Hattem, Kampen, Nunspeet, Oldebroek, Ommen, Putten, Staphorst, Steenwijkerland, Zwartewaterland, Zwolle  *Twente*  Almelo, Borne, Dinkelland, Enschede, Haaksbergen, Hellendoorn, Hengelo, Hof van Twente, Losser, Oldenzaal, Rijssen-Holten, Tubbergen, Twenterand, Wierden  *Apeldoorn, Zutphen e.o.*  Apeldoorn, Brummen, Epe, Heerde, Lochem, Zutphen  *Arnhem*  Aalten, Arnhem, Barneveld, Berkelland, Bronckhorst, Doesburg, Doetinchem, Duiven, Ede, Lingewaard, Montferland, Oost-Gelre, Oude IJsselstreek, Overbetuwe, Renkum, Rheden, Rijnwaarden, Rozendaal, Scherpenzeel, Wageningen, Westervoort, Winterswijk, Zevenaar  *Nijmegen*  Beuningen, Buren, Culemborg, Druten, Geldermalsen, Gennep, Groesbeek, Heumen, Lingewaal, Mook en Middelaar, Neder-Betuwe, Neerijnen, Nijmegen, Tiel, West Maas en Waal, Wijchen  *Utrecht*  Amersfoort, Baarn, Bunnik, Bunschoten, De Bilt, De Ronde Venen, Houten, IJsselstein, Leusden, Lopik, Montfoort, Nieuwegein, Nijkerk, Oudewater, Renswoude, Rhenen, Soest, Stichtse Vecht, Utrecht, Utrechtse Heuvelrug, Veenendaal, Vianen, Wijk bij Duurstede, Woerden, Woudenberg, Zeist  *Flevoland*  Dronten, Lelystad, Noordoostpolder, Urk, Zeewolde  *‘t Gooi*  Almere, Blaricum, Bussum, Eemnes, Hilversum, Huizen, Laren, Muiden, Naarden, Weesp, Wijdemeren  *Noord-Holland Noord*  Alkmaar, Bergen nh, Den Helder, Drechterland, Enkhuizen, Heerhugowaard, Heiloo, Hollands Kroon, Hoorn, Koggenland, Langedijk, Medemblik, Opmeer, Schagen, Stede Broec, Texel  *Kennemerland*  Beverwijk, Bloemendaal, Castricum, Haarlem, Haarlemmerliede en Spaarnwoude, Heemskerk, Heemstede, Uitgeest, Velsen, Zandvoort  *Zaanstreek/Waterland*  Beemster, Edam-Volendam, Landsmeer, Oostzaan, Purmerend, Waterland, Wormerland, Zaanstad, Zeevang  *Amsterdam*  Amsterdam, Diemen  *Amstelland en de Meerlanden*  Aalsmeer, Amstelveen, Haarlemmermeer, Ouder-Amstel, Uithoorn  *Zuid-Holland Noord*  Alphen aan den Rijn, Hillegom, Kaag en Braassem, Katwijk, Leiden, Leiderdorp, Lisse, Nieuwkoop, Noordwijk, Noordwijkerhout, Oegstgeest, Teylingen, Voorschoten, Zoeterwoude  *Haaglanden*  ‘s-Gravenhage, Leidschendam-Voorburg, Rijswijk, Wassenaar, Zoetermeer  *Delft Westland Oostland*  Delft, Lansingerland, Midden-Delfland, Pijnacker-Nootdorp, Westland  *Midden-Holland*  Bodegraven-Reeuwijk, Gouda, Krimpenerwaard, Waddinxveen, Zuidplas  *Rotterdam*  Capelle aan den IJssel, Krimpen aan den IJssel, Rotterdam  *Nieuwe Waterweg Noord*  Maassluis, Schiedam, Vlaardingen  *Zuid-Hollandse eilanden*  Albrandswaard, Barendrecht, Binnenmaas, Brielle, Cromstrijen, Goeree-Overflakkee, Hellevoetsluis, Korendijk, Nissewaard, Oud-Beijerland, Ridderkerk, Strijen, Westvoorne  *Waardenland*  Alblasserdam, Dordrecht, Giessenlanden, Gorinchem, Hardinxveld-Giessendam, Hendrik-Ido-Ambacht, Leerdam, Molenwaard, Papendrecht, Sliedrecht, Zederik, Zwijndrecht  *Zeeland*  Borsele, Goes, Hulst, Kapelle, Middelburg, Noord-Beveland, Reimerswaal, Schouwen-Duiveland, Sluis, Terneuzen, Tholen, Veere, Vlissingen  *West-Brabant*  Aalburg, Alphen-Chaam, Baarle-Nassau, Bergen op Zoom, Breda, Drimmelen, Etten-Leur, Geertruidenberg, Halderberge, Moerdijk, Oosterhout, Roosendaal, Rucphen, Steenbergen, Werkendam, Woensdrecht, Woudrichem, Zundert  *Midden-Brabant*  Dongen, Gilze en Rijen, Goirle, Heusden, Hilvarenbeek, Loon op Zand, Oisterwijk, Tilburg, Waalwijk  *Noordoost Brabant*  Bernheze, Boekel, Boxmeer, Boxtel, Cuijk, Grave, Haaren, Landerd, Maasdriel, Mill en Sint Hubert, Oss, Schijndel, ‘s-Hertogenbosch, Sint Anthonis, Sint-Michielsgestel, Sint-Oedenrode, Uden, Veghel, Vught, Zaltbommel  *Zuidoost Brabant*  Asten, Bergeijk, Best, Bladel, Cranendonck, Deurne, Eersel, Eindhoven, Geldrop-Mierlo, Gemert-Bakel, Heeze-Leende, Helmond, Laarbeek, Nuenen, Gerwen en Nederwetten, Oirschot, Reusel-De Mierden, Someren, Son en Breugel, Valkenswaard, Veldhoven, Waalre  *Noord- en Midden-Limburg*  Beesel, Bergen lb, Echt-Susteren, Horst aan de Maas, Leudal, Maasgouw, Nederweert, Peel en Maas, Roerdalen, Roermond, Venlo, Venray, Weert  *Zuid-Limburg*  Beek, Brunssum, Eijsden-Margraten, Gulpen-Wittem, Heerlen, Kerkrade, Landgraaf, Maastricht, Meerssen, Nuth, Onderbanken, Schinnen, Simpelveld, Sittard-Geleen, Stein, Vaals, Valkenburg aan de Geul, Voerendaal  *Midden IJssel*  Deventer, Olst-Wijhe, Raalte, Voorst 
 
 ### Bijlage C 
 
-####bij artikel 5.8  van de Regeling langdurige zorg
-
-Treedt in werking per 01-01-2015 
+####bij artikel 5.13  van de Regeling langdurige zorg
 
 Klassen voor vormen van zorg (persoonlijke verzorging, verpleging, begeleiding individueel, begeleiding groep), per zorgprofiel telkens met of zonder begeleiding groep. Met inbegrip van klassen voor vormen van zorg per zorgzwaartepakket op basis van de Algemene Wet Bijzondere Ziektekosten voor verzekerden die krachtens overgangsrecht toegang hebben verkregen tot zorg krachtens de Wet langdurige zorg.  
 
@@ -1452,8 +1400,6 @@ Klassen voor vormen van zorg (persoonlijke verzorging, verpleging, begeleiding i
 
 ####bij artikel 5.24  van de Regeling langdurige zorg.
 
-Treedt in werking per 01-01-2015 
-
 ####Aanvaardbaarheidspercentages, bedoeld in artikel 3.7.2, derde lid, van het besluit langdurige zorg.
 
 | --- | --- |
@@ -1462,3 +1408,38 @@ Treedt in werking per 01-01-2015
 
 Het aanvaardbaarheidspercentage voor een land dat in bovenstaande lijst ontbreekt is 30%. 
 
+###Bijlage E 
+
+####bij artikel 9.3a  van de Regeling langdurige zorg
+
+1. Voor de berekening van het aantal uren, bedoeld in artikel 9.3.a, eerste lid, onderdeel a, wordt een indicatie voor ‘begeleiding individueel’ of ‘persoonlijke verzorging’ in een van de hiernavolgende klassen aangemerkt als een indicatie voor het na de klasse genoemde aantal uren:  
+
+| klasse  | uren  |
+|:---|:---|
+| 1  | 1,0  |
+| 2  | 3,0  |
+| 3  | 5,5  |
+| 4  | 8,5  |
+| 5  | 11,5  |
+| 6  | 14,5  |
+| 7  | 18,0  |
+| 8  | 22,5  |
+
+2. Voor de berekening van het aantal uren, bedoeld in artikel 9.3.a, eerste lid, onderdeel a, wordt een indicatie voor ‘verpleging’ in een van de hiernavolgende klassen aangemerkt als een indicatie voor het na de klasse genoemde aantal uren:  
+
+| klasse  | uren  |
+|:---|:---|
+| 0  | 0,5  |
+| 1  | 1,5  |
+| 2  | 3,0  |
+| 3  | 5,5  |
+| 4  | 8,5  |
+| 5  | 11,5  |
+| 6  | 14,5  |
+| 7  | 18,0  |
+
+3. Indien een verzekerde krachtens zijn indicatiebesluit is aangewezen op ‘begeleiding individueel’ en daartoe klasse 8 vermeerderd met extra geïndiceerde uren geïndiceerd heeft gekregen, wordt het aantal uren ‘begeleiding individueel’, bedoeld in artikel 9.3.a, eerste lid, onderdeel a, bepaald door het aantal van 25 te vermeerderen met het aantal extra geïndiceerde uren.  
+
+4. Indien een verzekerde krachtens zijn indicatiebesluit is aangewezen op ‘persoonlijke verzorging’ en daartoe klasse 8 vermeerderd met extra geïndiceerde uren geïndiceerd heeft gekregen, wordt het aantal uren ‘persoonlijke verzorging’, bedoeld in artikel 9.3.a, eerste lid, onderdeel a, bepaald door het aantal van 25 te vermeerderen met het aantal extra geïndiceerde uren.  
+
+5. Indien een verzekerde krachtens zijn indicatiebesluit is aangewezen op ‘verpleging’ en daartoe klasse 7 vermeerderd met extra geïndiceerde uren geïndiceerd heeft gekregen, wordt het aantal uren ‘verpleging’, bedoeld in artikel 9.3.a, eerste lid, onderdeel a, bepaald door het aantal van 20 te vermeerderen met het aantal extra geïndiceerde uren.  

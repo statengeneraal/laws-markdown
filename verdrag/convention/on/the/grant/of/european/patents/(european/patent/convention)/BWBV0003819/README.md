@@ -1692,7 +1692,7 @@ In written proceedings before the European Patent Office, the requirement to use
 
 ####Filing of and formal requirements for documents
 
-1.  In proceedings before the European Patent Office, documents may be filed by delivery by hand, by post or by technical means of communication. The President of the European Patent Office shall lay down the details and conditions and, where appropriate, any special formal or technical requirements for the filing of documents. In particular, he may specify that confirmation must be supplied. If such confirmation is not supplied in due time, the European patent application shall be refused; documents filed subsequently shall be deemed not to have been received.   
+1. In proceedings before the European Patent Office, documents may be filed by delivery by hand, by postal services or by means of electronic communication. The President of the European Patent Office shall lay down the details and conditions and, where appropriate, any special formal or technical requirements for the filing of documents. In particular, he may specify that confirmation must be supplied. If such confirmation is not supplied in due time, the European patent application shall be refused; documents filed subsequently shall be deemed not to have been received.  
 2.  Where the Convention provides that a document must be signed, the authenticity of the document may be confirmed by handwritten signature or other appropriate means the use of which has been permitted by the President of the European Patent Office. A document authenticated by such other means shall be deemed to meet the legal requirements of signature in the same way as a document bearing a handwritten signature which has been filed in paper form.  
 
 ### Rule  3  
@@ -3083,7 +3083,7 @@ e) a statement establishing a prima facie case for fearing that it might subsequ
 
 1.  Minutes of oral proceedings and of the taking of evidence shall be drawn up, containing the essentials of the oral proceedings or of the taking of evidence, the relevant statements made by the parties, the testimony of the parties, witnesses or experts and the result of any inspection.   
 2.  The minutes of the testimony of a witness, expert or party shall be read out, submitted to him, so that he may examine them or, where they are recorded by technical means, played back to him, unless he waives this right. It shall be noted in the minutes that this formality has been carried out and that the person who gave the testimony approved the minutes. If his approval is not given, his objections shall be noted. It is not necessary to play back the minutes or to obtain approval of them if the testimony has been recorded verbatim and directly using technical means.   
-3.  The minutes shall be signed by the employee responsible for drawing them up and by the employee who conducted the oral proceedings or taking of evidence.   
+3.  The minutes shall be authenticated by the employee responsible for drawing them up and by the employee who conducted the oral proceedings or taking of evidence, either by their signature or by any other appropriate means.   
 4.  The parties shall be provided with a copy of the minutes. 
 
 ### CHAPTER  IV  
@@ -3094,12 +3094,12 @@ e) a statement establishing a prima facie case for fearing that it might subsequ
 
 ####General provisions
 
-1.  In proceedings before the European Patent Office, any notification to be made shall take the form of the original document, a copy thereof certified by or bearing the seal of the European Patent Office, or a computer print-out bearing such seal. Copies of documents emanating from the parties themselves shall not require such certification.  
+1.  The European Patent Office shall, as a matter of course, notify those concerned of decisions and summonses, and of any notice or other communication from which a time limit is reckoned, or of which those concerned must be notified under the Convention, or of which notification has been ordered by the President of the European Patent Office. Any notification to be made shall take the form of the original document, a copy thereof certified by or bearing the seal of the European Patent Office, a computer print-out bearing such seal or an electronic document containing such seal or otherwise certified. Copies of documents emanating from the parties themselves shall not require such certification.  
 2. Notification shall be made: 
 
-a) by post in accordance with Rule 126;  
+a) by postal services in accordance with Rule 126;  
 
-b) by technical means of communication in accordance with Rule 127;  
+b) by means of electronic communication in accordance with Rule 127;  
 
 c) by delivery on the premises of the European Patent Office in accordance with Rule 128; or  
 
@@ -3107,20 +3107,21 @@ d) by public notice in accordance with Rule 129.
 3.  Notification through the central industrial property office of a Contracting State shall be made in accordance with the law applicable to that office in national proceedings.   
 4.  Where a document has reached the addressee, if the European Patent Office is unable to prove that it has been duly notified, or if provisions relating to its notification have not been observed, the document shall be deemed to have been notified on the date established by the European Patent Office as the date of receipt. 
 
-###Rule 126 
+### Rule  126  
 
-####Notification by post
+####Notification by postal services
 
-1.  Decisions incurring a period for appeal or a petition for review, summonses and other such documents as determined by the President of the European Patent Office shall be notified by registered letter with advice of delivery. All other notifications by post shall be by registered letter.   
-2.  Where notification is effected by registered letter, whether or not with advice of delivery, such letter shall be deemed to be delivered to the addressee on the tenth day following its posting, unless it has failed to reach the addressee or has reached him at a later date; in the event of any dispute, it shall be incumbent on the European Patent Office to establish that the letter has reached its destination or to establish the date on which the letter was delivered to the addressee, as the case may be.   
-3.  Notification by registered letter, whether or not with advice of delivery, shall be deemed to have been effected even if acceptance of the letter has been refused.   
-4.  To the extent that notification by post is not covered by paragraphs 1 to 3, the law of the State in which the notification is made shall apply. 
+1.  Decisions incurring a period for appeal or a petition for review, summonses and other such documents as determined by the President of the European Patent Office shall be notified by registered letter with advice of delivery or equivalent. All other notifications by postal services shall be by registered letter.   
+2.  Where notification is effected in accordance with paragraph 1, the letter shall be deemed to be delivered to the addressee on the tenth day following its handover to the postal service provider, unless it has failed to reach the addressee or has reached him at a later date; in the event of any dispute, it shall be incumbent on the European Patent Office to establish that the letter has reached its destination or to establish the date on which the letter was delivered to the addressee, as the case may be.   
+3.  Notification in accordance with paragraph 1 shall be deemed to have been effected even if acceptance of the letter has been refused.   
+4.  To the extent that notification by postal services is not covered by paragraphs 1 to 3, the law of the State in which the notification is made shall apply. 
 
-###Rule 127 
+###Rule  127  
 
-####Notification by technical means of communication
+####Notification by means of electronic communication
 
-Notification may be effected by such technical means of communication as are determined by the President of the European Patent Office and under the conditions laid down by him.
+1. Notification may be effected by means of electronic communication as determined by the President of the European Patent Office and under the conditions laid down by him.
+2. Where notification is effected by means of electronic communication, the electronic document shall be deemed to be delivered to the addressee on the tenth day following its transmission, unless it has failed to reach its destination or has reached its destination at a later date; in the event of any dispute, it shall be incumbent on the European Patent Office to establish that the electronic document has reached its destination or to establish the date on which it reached its destination, as the case may be.
 
 ###Rule 128 
 
@@ -3168,25 +3169,25 @@ Notification may be effected on the premises of the European Patent Office by de
 
 ####Late receipt of documents
 
-1.  A document received late at the European Patent Office shall be deemed to have been received in due time if it was posted, or delivered to a recognised delivery service, in due time before expiry of the period in accordance with the conditions laid down by the President of the European Patent Office, unless the document was received later than three months after expiry of the period.   
+1.  A document received late at the European Patent Office shall be deemed to have been received in due time if it was delivered to a recognised postal service provider in due time before expiry of the period in accordance with the conditions laid down by the President of the European Patent Office, unless the document was received later than three months after expiry of the period.   
 2.  Paragraph 1 shall apply *mutatis mutandis* to any period where transactions are carried out with the competent authority in accordance with Article 75, paragraphs 1(b) or 2(b). 
 
 ###Rule 134 
 
 ####Extension of periods
 
-1.  If a period expires on a day on which one of the filing offices of the European Patent Office under Rule 35, paragraph 1, is not open for receipt of documents or on which, for reasons other than those referred to in paragraph 2, mail is not delivered there, the period shall extend to the first day thereafter on which all the filing offices are open for receipt of documents and on which mail is delivered. The first sentence shall apply *mutatis mutandis* if documents filed by one of the technical means of communication permitted by the President of the European Patent Office under Rule 2, paragraph 1, cannot be received.   
+1.  If a period expires on a day on which one of the filing offices of the European Patent Office under Rule 35, paragraph 1, is not open for receipt of documents or on which, for reasons other than those referred to in paragraph 2, mail is not delivered there, the period shall extend to the first day thereafter on which all the filing offices are open for receipt of documents and on which mail is delivered. The first sentence shall apply mutatis mutandis if documents filed by one of the means of electronic communication permitted by the President of the European Patent Office under Rule 2, paragraph 1, cannot be received.   
 2.  If a period expires on a day on which there is a general dislocation in the delivery or transmission of mail in a Contracting State, the period shall extend to the first day following the end of the interval of dislocation for parties which are resident in the State concerned or have appointed representatives with a place of business in that State. Where the State concerned is the State in which the European Patent Office is located, this provision shall apply to all parties and their representatives. This paragraph shall apply *mutatis mutandis* to the period referred to in Rule 37, paragraph 2.   
 3.  Paragraphs 1 and 2 shall apply *mutatis mutandis* where acts are performed with the competent authority in accordance with Article 75, paragraphs 1(b) or 2(b).   
 4.  The date of commencement and the end of any dislocation under paragraph 2 shall be published by the European Patent Office.   
-5.  Without prejudice to paragraphs 1 to 4, a party concerned may produce evidence that on any of the ten days preceding the day of expiry of a period the delivery or transmission of mail was dislocated due to an exceptional occurrence such as a natural disaster, war, civil disorder, a general breakdown in any of the technical means of communication permitted by the President of the European Patent Office under Rule 2, paragraph 1, or other like reasons affecting the locality where the party or his representative resides or has his place of business. If the evidence produced satisfies the European Patent Office, a document received late shall be deemed to have been received in due time, provided that the mailing or the transmission was effected at the latest on the fifth day after the end of the dislocation. 
+5.  Without prejudice to paragraphs 1 to 4, a party concerned may produce evidence that on any of the ten days preceding the day of expiry of a period the delivery or transmission of mail was dislocated due to an exceptional occurrence such as a natural disaster, war, civil disorder, a general breakdown in any of the means of electronic communication permitted by the President of the European Patent Office under Rule 2, paragraph 1, or other like reasons affecting the locality where the party or his representative resides or has his place of business. If the evidence produced satisfies the European Patent Office, a document received late shall be deemed to have been received in due time, provided that the mailing or the transmission was effected at the latest on the fifth day after the end of the dislocation. 
 
 ###Rule 135 
 
 ####Further processing
 
 1.  Further processing under Article 121, paragraph 1, shall be requested by payment of the prescribed fee within two months of the communication concerning either the failure to observe a time limit or a loss of rights. The omitted act shall be completed within the period for making the request.   
-2.  Further processing shall be ruled out in respect of the periods referred to in Article 121, paragraph 4, and of the periods under Rule 6, paragraph 1, Rule 16, paragraph 1(a), Rule 31, paragraph 2, Rule 36, paragraph 2, Rule 40, paragraph 3, Rule 51, paragraphs 2 to 5, Rule 52, paragraphs 2 and 3, Rules 55, 56, 58, 59, 62a, 63, 64 and Rule 112, paragraph 2.   
+2.  Further processing shall be ruled out in respect of the periods referred to in Article 121, paragraph 4, and of the periods under Rule 6, paragraph 1, Rule 16, paragraph 1(a), Rule 31, paragraph 2, Rule 36, paragraph 2, Rule 40, paragraph 3, Rule 51, paragraphs 2 to 5, Rule 52, paragraphs 2 and 3, Rules 55, 56, 58, 59, 62a, 63, 64, Rule 112, paragraph 2, and Rule 164, paragraphs 1 and 2.   
 3.  The department competent to decide on the omitted act shall decide on the request for further processing.  
 
 ###Rule 136 
@@ -3556,12 +3557,31 @@ h) file, where applicable, the certificate of exhibition referred to in Article 
 5.  Where, at the expiry of the period under Rule 159, paragraph 1, the requirements of Article 133, paragraph 2, have not been satisfied, the European Patent Office shall invite the applicant to appoint a professional representative within two months.   
 6.  If the deficiencies noted under paragraphs 1, 4 or 5 are not corrected in due time, the European patent application shall be refused. If the deficiency noted under paragraph 2 is not corrected in due time, the right of priority shall be lost for the application. 
 
-###Rule 164 
+### Rule  164  
 
-####Consideration of unity by the European Patent Office
+####Unity of invention and further searches
 
-1.  Where the European Patent Office considers that the application documents which are to serve as the basis for the supplementary European search do not meet the requirements for unity of invention, a supplementary European search report shall be drawn up on those parts of the application which relate to the invention, or the group of inventions within the meaning of Article 82, first mentioned in the claims.   
-2.  Where the examining division finds that the application documents on which the European grant procedure is to be based do not meet the requirements of unity of invention, or protection is sought for an invention not covered by the international search report or, as the case may be, by the supplementary international search report or supplementary European search report, it shall invite the applicant to limit the application to one invention covered by the international search report, the supplementary international search report or the supplementary European search report. 
+1.  If the European Patent Office considers that the application documents which are to serve as the basis for the supplementary European search do not comply with the requirement of unity of invention, it shall: 
+
+a) draw up a partial supplementary search report on those parts of the application which relate to the invention, or the group of inventions within the meaning of Article 82, first mentioned in the claims;  
+
+b) inform the applicant that, for the supplementary European search report to cover the other inventions, a further search fee must be paid, in respect of each invention involved, within a period of two months; and  
+
+c) draw up the supplementary European search report for the parts of the application relating to inventions in respect of which search fees have been paid.     
+2.  If the supplementary European search report is dispensed with and the Examining Division considers that in the application documents which are to serve as the basis for examination an invention, or a group of inventions within the meaning of Article 82, is claimed which was not searched by the European Patent Office in its capacity as International Searching Authority or Authority specified for supplementary international search, the Examining Division shall: 
+
+a) inform the applicant that a search will be performed in respect of any such invention for which a search fee is paid within a period of two months;  
+
+b) issue the results of any search performed in accordance with paragraph (a) together with: 
+
+– a communication under Article 94, paragraph 3, and Rule 71, paragraphs 1 and 2, in which it shall give the applicant the opportunity to comment on these results and to amend the description, claims and drawings, or  
+
+– a communication under Rule 71, paragraph 3, and   
+
+c) where appropriate, in the communication issued under paragraph (b), invite the applicant to limit the application to one invention, or group of inventions within the meaning of Article 82, for which a search report was drawn up by the European Patent Office in its capacity either as International Searching Authority or as Authority specified for supplementary international search, or for which a search was performed in accordance with the procedure under paragraph (a).    
+3.  In the procedure under paragraph 2(a), Rules 62a and 63 shall apply mutatis mutandis.   
+4.  Rule 62 and Rule 70, paragraph 2, shall not apply to the results of any search performed in accordance with paragraph 2.   
+5.  Any fee paid under paragraphs 1 or 2 shall be refunded if the applicant requests a refund and the Examining Division finds that the communication under paragraphs 1(b) or 2(a) was not justified. 
 
 ###Rule 165 
 
@@ -5626,7 +5646,7 @@ In een schriftelijke procedure voor het Europees Octrooibureau is voldaan aan de
 
 ####Indiening van stukken; Vormvoorschriften
 
-1.  In de procedures voor het Europees Octrooibureau kunnen stukken rechtstreeks worden overhandigd of per post of met behulp van technische communicatiemiddelen worden ingediend. De President van het Europees Octrooibureau legt de nadere details en voorwaarden en indien aangewezen eventuele bijzondere formele of technische vereisten voor de indiening van stukken vast. Hij kan in het bijzonder bepalen dat een bevestiging dient te worden nagestuurd. Indien een dergelijke bevestiging niet tijdig is ingediend, wordt de Europese octrooiaanvrage afgewezen; nadien ingediende stukken worden geacht niet te zijn ontvangen.   
+1.  In de procedures voor het Europees Octrooibureau kunnen stukken door rechtstreekse overhandiging, per post of met behulp van elektronische communicatie worden ingediend. De President van het Europees Octrooibureau legt de nadere details en voorwaarden en indien aangewezen eventuele bijzondere formele of technische vereisten voor de indiening van stukken vast. Hij kan in het bijzonder bepalen dat een bevestiging dient te worden nagestuurd. Indien een dergelijke bevestiging niet tijdig is ingediend, wordt de Europese octrooiaanvrage afgewezen; nadien ingediende stukken worden geacht niet te zijn ontvangen.   
 2.  Indien het Verdrag bepaalt dat een stuk dient te worden ondertekend, kan de authenticiteit van het stuk worden bevestigd door middel van een handgeschreven handtekening of met behulp van andere passende middelen waarvan het gebruik is toegestaan door de President van het Europees Octrooibureau. Een met behulp van deze andere middelen gewaarmerkt stuk wordt geacht op dezelfde wijze te voldoen aan de wettelijke vereisten omtrent handtekeningen als een schriftelijk, in de papieren vorm ingediend stuk dat is voorzien van een handgeschreven handtekening.  
 
 ###Regel 3 
@@ -7017,7 +7037,7 @@ e. een uiteenzetting van de redenen die rechtvaardigen dat verwacht mag worden d
 
 1.  Van een mondelinge procedure en van het verkrijgen van bewijs wordt een verslag opgesteld, waarin het belangrijkste van de mondelinge procedure of van het verkrijgen van bewijs wordt weergegeven, alsmede de van belang zijnde mededelingen van de partijen, de verklaringen van de partijen, de getuigen of de deskundigen en de bevindingen van de bezichtiging ter plaatse.   
 2.  Het verslag van de verklaring van een getuige, deskundige of partij wordt de betrokkene voorgelezen, hem ter inzage overhandigd zodat hij het kan nalopen, of wanneer deze met technische middelen is opgenomen, voor hem afgespeeld, tenzij hij afziet van dit recht. In het verslag wordt aangetekend dat dit geschied is en dat het verslag is goedgekeurd door degene die de verklaring heeft afgelegd. Wanneer het verslag niet wordt goedgekeurd, wordt aantekening gemaakt van de gemaakte bezwaren. Het verslag behoeft niet opnieuw te worden afgespeeld en niet te worden goedgekeurd, indien de verklaring rechtstreeks woordelijk is opgenomen met behulp van technische middelen.   
-3.  Het verslag wordt ondertekend door het personeelslid dat verantwoordelijk is voor het opstellen en door het personeelslid dat de mondelinge procedure of het verkrijgen van bewijs heeft geleid.   
+3.  Het verslag wordt gelegaliseerd door het personeelslid dat verantwoordelijk is voor het opstellen ervan en door het personeelslid dat de mondelinge procedure of het verkrijgen van bewijs heeft geleid, hetzij door ondertekening hetzij op andere passende wijze.   
 4.  Een afschrift van het verslag wordt verstrekt aan de partijen.  
 
 ### HOOFDSTUK  IV  
@@ -7028,12 +7048,12 @@ e. een uiteenzetting van de redenen die rechtvaardigen dat verwacht mag worden d
 
 ####Algemene bepalingen
 
-1.  In een procedure voor het Europees Octrooibureau geschieden alle te verrichten kennisgevingen door middel van het originele stuk, een door het Europees Octrooibureau voor eensluidend gewaarmerkt of van een zegel voorzien afschrift van het stuk of een computeruitdraai die van dit zegel is voorzien. De door de partijen zelf ingediende afschriften van stukken behoeven niet op deze wijze te worden gewaarmerkt.   
+1.  Het Europees Octrooibureau geeft ambtshalve aan de betrokkenen kennis van alle beslissingen en oproepen, alsmede van kennisgevingen of andere mededelingen waardoor een termijn gaat lopen of waarvan kennisgeving aan de betrokkenen bij dit Verdrag of door de President van het Europees Octrooibureau is voorgeschreven. Alle kennisgevingen geschieden door middel van het originele stuk, een door het Europees Octrooibureau voor eensluidend gewaarmerkt of van een zegel van het Europees Octrooibureau voorzien afschrift van het stuk, of een computeruitdraai die van dit zegel is voorzien of een elektronisch document dat een dergelijk zegel bevat of anderszins is gewaarmerkt. De door de partijen zelf ingediende afschriften van stukken behoeven niet op deze wijze te worden gewaarmerkt.   
 2.  Kennisgeving wordt gedaan: 
 
 a. per post overeenkomstig regel 126;  
 
-b. met behulp van technische communicatiemiddelen overeenkomstig regel 127;  
+b. met behulp van elektronische communicatie overeenkomstig regel 127; 
 
 c. door overhandiging ten kantore van het Europees Octrooibureau overeenkomstig regel 128; of  
 
@@ -7045,16 +7065,17 @@ d. door openbare kennisgeving overeenkomstig regel 129.
 
 ####Kennisgeving per post
 
-1.  Van beslissingen, waarbij een beroepstermijn of de termijn voor een verzoek om herziening gaat lopen, van oproepen en van alle andere door de President van het Europees Octrooibureau aan te wijzen stukken, wordt kennisgeving gedaan per aangetekende brief met ontvangstbevestiging. Alle andere kennisgevingen per post geschieden per aangetekende brief.   
-2.  Wanneer de kennisgeving is gedaan door middel van een aangetekende brief, met of zonder ontvangstbevestiging, wordt deze geacht door de geadresseerde te zijn ontvangen op de tiende dag nadat deze is gepost, tenzij het stuk de geadresseerde niet of pas later heeft bereikt; in geval van een geschil dient het Europees Octrooibureau te bewijzen dat de brief is aangekomen of, in voorkomend geval, dat de brief op een bepaalde datum aan de geadresseerde is overhandigd.   
-3.  De kennisgeving door middel van een aangetekende brief, met of zonder ontvangstbevestiging, wordt geacht te zijn gedaan, zelfs indien de brief is geweigerd.   
+1.  Van beslissingen waarbij een beroepstermijn of de termijn voor een verzoek om herziening gaat lopen, van oproepen en van alle andere door de President van het Europees Octrooibureau aan te wijzen stukken, wordt per aangetekende brief met ontvangstbevestiging of het equivalent daarvan kennisgeving gedaan. De andere kennisgevingen per post geschieden per aangetekende brief.   
+2.  Wanneer de kennisgeving is gedaan overeenkomstig het eerste lid, wordt de brief geacht door de geadresseerde te zijn ontvangen op de tiende dag nadat deze aan de postdienst is overhandigd, tenzij het stuk de geadresseerde niet of pas later heeft bereikt; in geval van een geschil dient het Europees Octrooibureau te bewijzen dat de brief is aangekomen of, in voorkomend geval, dat de brief op een bepaalde datum aan de geadresseerde is overhandigd.   
+3.  Kennisgeving overeenkomstig het eerste lid wordt geacht te zijn gedaan, zelfs indien de brief is geweigerd.   
 4.  Voor zover de kennisgeving per post niet geheel wordt geregeld door het eerste tot en met het derde lid, geldt het recht van de Staat waar de kennisgeving wordt gedaan.  
 
-### Regel  127  
+###Regel 127 
 
-####Kennisgeving met behulp van technische communicatiemiddelen
+#### Kennisgeving met behulp van elektronische communicatie
 
-De kennisgeving kan met behulp van door de President van het Europees Octrooibureau vast te stellen technische communicatiemiddelen en onder door hem vast te stellen voorwaarden worden gedaan. 
+1.  De kennisgeving kan met behulp van door de President van het Europees Octrooibureau vast te stellen elektronische communicatiemiddelen en onder door hem vast te stellen voorwaarden worden gedaan. 
+2. Wanneer de kennisgeving met behulp van elektronische communicatie is gedaan, wordt het elektronische stuk geacht door de geadresseerde te zijn ontvangen op de tiende dag nadat deze is verzonden, tenzij het zijn bestemming niet of pas later heeft bereikt; in geval van een geschil dient het Europees Octrooibureau te bewijzen dat het elektronische stuk zijn bestemming heeft bereikt of, in voorkomend geval, de datum vast te stellen waarop het stuk zijn bestemming heeft bereikt. 
 
 ### Regel  128  
 
@@ -7102,25 +7123,25 @@ De kennisgeving kan ten kantore van het Europees Octrooibureau worden gedaan doo
 
 ####Tardief ontvangen stukken
 
-1.  Een stuk dat door het Europees Octrooibureau te laat is ontvangen, wordt geacht op tijd te zijn ontvangen, indien het tijdig voor het verstrijken van de termijn, overeenkomstig de door de President van het Europees Octrooibureau vastgestelde voorwaarden, ter post was bezorgd of was afgeleverd bij een erkende bezorgdienst, tenzij het stuk later dan drie maanden na het verstrijken van de termijn is ontvangen.   
+1.  Een stuk dat door het Europees Octrooibureau te laat is ontvangen, wordt geacht op tijd te zijn ontvangen, indien het tijdig voor het verstrijken van de termijn, overeenkomstig de door de President van het Europees Octrooibureau vastgestelde voorwaarden, is afgeleverd bij een erkende postdienst, tenzij het stuk later dan drie maanden na het verstrijken van de termijn is ontvangen.   
 2.  Het eerste lid is van overeenkomstige toepassing op elke termijn waarin in overeenstemming met artikel 75, eerste lid, onderdeel b, of tweede lid, onderdeel b, handelingen plaatsvinden voor de bevoegde instantie.  
 
 ### Regel  134  
 
 ####Verlenging van termijnen
 
-1.  Indien een termijn op een dag afloopt waarop een van de kantoren van het Europees Octrooibureau, waar men ingevolge regel 35, eerste lid, een octrooiaanvrage kan indienen, niet geopend is voor het in ontvangst nemen van stukken, of op een dag waarop om andere redenen dan bedoeld in het tweede lid daar geen postbestellingen plaatsvinden, wordt de termijn verlengd tot de eerstvolgende dag waarop alle kantoren waar men een octrooiaanvrage kan indienen, geopend zijn voor het in ontvangst nemen van stukken en waarop postbestellingen plaatsvinden. De eerste volzin is van overeenkomstige toepassing indien stukken, ingediend met behulp van de ingevolge regel 2, eerste lid, door de President van het Europees Octrooibureau toegestane technische communicatiemiddelen, niet ontvangen kunnen worden.   
+1.  Indien een termijn op een dag afloopt waarop een van de kantoren van het Europees Octrooibureau, waar men ingevolge regel 35, eerste lid, een octrooiaanvrage kan indienen, niet geopend is voor het in ontvangst nemen van stukken, of op een dag waarop om andere redenen dan bedoeld in het tweede lid daar geen postbestellingen plaatsvinden, wordt de termijn verlengd tot de eerstvolgende dag waarop alle kantoren waar men een octrooiaanvrage kan indienen, geopend zijn voor het in ontvangst nemen van stukken en waarop postbestellingen plaatsvinden. De eerste volzin is van overeenkomstige toepassing indien stukken, ingediend met behulp van een van de ingevolge regel 2, eerste lid, door de President van het Europees Octrooibureau toegestane elektronische communicatiemiddelen, niet ontvangen kunnen worden.   
 2.  Indien een termijn op een dag afloopt waarop de postbestelling of verzending van post in een Verdragsluitende Staat algemeen was verstoord, wordt voor de partijen die hun woonplaats of zetel in die Staat hebben of die gemachtigden hebben aangewezen die hun kantoor hebben in die Staat, de termijn verlengd tot de eerstvolgende dag na deze periode van verstoring. Indien de desbetreffende Staat de Staat is waar het Europees Octrooibureau gevestigd is, is deze bepaling van toepassing op alle partijen en hun gemachtigden. Dit lid is van overeenkomstige toepassing op de termijn bedoeld in regel 37, tweede lid.   
 3.  Het eerste en tweede lid zijn van overeenkomstige toepassing wanneer handelingen worden verricht voor de in artikel 75, eerste lid, onderdeel b, of tweede lid, onderdeel b, bedoelde bevoegde instantie.   
 4.  De datum van de aanvang en van het einde van een verstoring zoals bedoeld in het tweede lid, wordt door het Europees Octrooibureau bekendgemaakt.   
-5.  Onverminderd het eerste tot en met het vierde lid, kan iedere betrokkene partij aantonen dat op een van de tien dagen voorafgaand aan de dag waarop een termijn verstrijkt de postbezorging of verzending van post was verstoord ten gevolge van een uitzonderlijke gebeurtenis zoals een natuurramp, een oorlog, burgerlijke onrust, een algemene storing van een van de door de President van het Europees Octrooibureau ingevolge regel 2, eerste lid, toegestane technische communicatiemiddelen of om soortgelijke redenen, die de plaats betreffen waar de partij of zijn gemachtigde zijn woonplaats of zijn zetel heeft. Indien het bewijs het Europees Octrooibureau overtuigt, wordt het te laat ontvangen stuk geacht tijdig te zijn ontvangen, mits het uiterlijk vijf dagen na afloop van de storing ter post is bezorgd of verzonden.  
+5.  Onverminderd het eerste tot en met vierde lid, kan iedere betrokkene partij aantonen dat op een van de tien dagen voorafgaand aan de dag waarop een termijn verstrijkt de postbezorging of verzending van post was verstoord ten gevolge van een uitzonderlijke gebeurtenis zoals een natuurramp, oorlog, burgerlijke onrust, een algemene storing van een van de door de President van het Europees Octrooibureau ingevolge regel 2, eerste lid, toegestane elektronische communicatiemiddelen of om soortgelijke redenen, die de plaats betreffen waar de partij of zijn gemachtigde zijn woonplaats of zijn zetel heeft. Indien het bewijs het Europees Octrooibureau overtuigt, wordt het te laat ontvangen stuk geacht tijdig te zijn ontvangen, mits het uiterlijk vijf dagen na afloop van de storing ter post is bezorgd of verzonden.  
 
 ### Regel  135  
 
 ####Verdere behandeling
 
 1.  Verdere behandeling ingevolge artikel 121, eerste lid, wordt verzocht door betaling van de voorgeschreven taks binnen twee maanden na de mededeling betreffende het verzuim een termijn in acht te nemen of een verlies van recht. De nagelaten handeling dient binnen de termijn voor het indienen van het verzoek te worden voltooid.   
-2.  Verdere behandeling is uitgesloten ter zake van de termijnen bedoeld in artikel 121, vierde lid, en de termijnen ingevolge regel 6, eerste lid, regel 16, eerste lid, onderdeel a, regel 31, tweede lid, regel 36, tweede lid, regel 40, derde lid, regel 51, tweede tot en met vijfde lid, regel 52, tweede en derde lid, regels 55, 56, 58, 59, 62a, 63, 64 en regel 112, tweede lid.   
+2.  Verdere behandeling is uitgesloten ter zake van de termijnen bedoeld in artikel 121, vierde lid, en de termijnen ingevolge regel 6, eerste lid, regel 16, eerste lid, onderdeel a, regel 31, tweede lid, regel 36, tweede lid, regel 40, derde lid, regel 51, tweede tot en met vijfde lid, regel 52, tweede en derde lid, regels 55, 56, 58, 59, 62a, 63, 64, regel 112, tweede lid en regel 164, eerste en tweede lid.   
 3.  Het orgaan dat bevoegd is ter zake van de nagelaten handeling beslist op het verzoek om verdere behandeling.  
 
 ### Regel  136  
@@ -7492,10 +7513,29 @@ h. indien van toepassing, het indienen van het tentoonstellingsbewijs als bedoel
 
 ### Regel  164  
 
-####Onderzoek van eenheid door het Europees Octrooibureau
+####Eenheid van uitvinding en aanvullende nieuwheidsonderzoeken
 
-1.  Indien het Europees Octrooibureau van mening is dat de stukken van de aanvrage, die als basis voor het aanvullend Europees nieuwheidsonderzoek moeten dienen, niet voldoen aan de vereisten van eenheid van uitvinding, wordt een aanvullend verslag van het nieuwheidsonderzoek opgesteld voor die delen van de aanvrage die betrekking hebben op de uitvinding of de groep van uitvindingen in de zin van artikel 82, die als eerste in de conclusies wordt genoemd.   
-2.  Indien de onderzoeksafdeling vaststelt dat de stukken van de aanvrage, die als basis voor de procedure voor het verlenen van het Europese octrooi moeten dienen, niet voldoen aan de vereisten van eenheid van uitvinding of indien bescherming wordt gevraagd voor een uitvinding waarop het verslag van het internationaal nieuwheidsonderzoek of, naargelang van het geval, het verslag van het aanvullend internationale nieuwheidsonderzoek of het aanvullend verslag van het Europees nieuwheidsonderzoek geen betrekking heeft, wordt de aanvrager verzocht de aanvrage te beperken tot een uitvinding waarop het verslag van het internationaal nieuwheidsonderzoek, het verslag van het aanvullend internationaal nieuwheidsonderzoek of het aanvullend verslag van het Europees nieuwheidsonderzoek betrekking heeft.  
+1.  Indien het Europees Octrooibureau meent dat de stukken van de aanvrage, die als basis voor het aanvullend Europees nieuwheidsonderzoek moeten dienen, niet voldoen aan het vereiste van eenheid van uitvinding: 
+
+a. stelt het bureau een gedeeltelijk aanvullend verslag van het nieuwheidsonderzoek op voor die delen van de aanvrage die betrekking hebben op de uitvinding, of op de groep van uitvindingen in de zin van artikel 82, die als eerste in de conclusies wordt genoemd;  
+
+b. deelt het bureau de aanvrager mee, dat indien het aanvullend verslag van het Europees nieuwheidsonderzoek de andere uitvindingen dient te bestrijken, voor elke betrokken uitvinding een volgende taks voor nieuwheidsonderzoek dient te worden betaald binnen een termijn van twee maanden; en  
+
+c. stelt het bureau het aanvullend verslag van het Europees nieuwheidsonderzoek op voor die delen van de aanvrage die betrekking hebben op de uitvindingen waarvoor taksen voor het nieuwheidsonderzoek zijn betaald.     
+2.  Indien van een aanvullend verslag van een Europees nieuwheidsonderzoek wordt afgezien en de onderzoeksafdeling meent dat in de stukken van de aanvrage die als basis voor onderzoek moeten dienen, een uitvinding of groep van uitvindingen in de zin van artikel 82, waar bescherming voor wordt gevraagd, niet is onderzocht door het Europees Octrooibureau in zijn hoedanigheid van instantie voor het internationaal nieuwheidsonderzoek of van voor het aanvullende internationale nieuwheidsonderzoek aangezochte instantie: 
+
+a. deelt de onderzoeksafdeling de aanvrager mee, dat er een nieuwheidsonderzoek wordt uitgevoerd ter zake van iedere uitvinding waarvoor binnen een termijn van twee maanden een taks voor nieuwheidsonderzoek wordt betaald;  
+
+b. maakt de onderzoeksafdeling de resultaten bekend van elk nieuwheidsonderzoek dat is uitgevoerd in overeenstemming met onderdeel a, tezamen met: 
+
+– een mededeling ingevolge artikel 94, derde lid, en regel 71, eerste en tweede lid, waarin de aanvrager in de gelegenheid wordt gesteld te reageren op deze resultaten en de beschrijving, de conclusies en de tekeningen te wijzigen, of  
+
+– een mededeling ingevolge regel 71, derde lid, en   
+
+c. indien van toepassing, nodigt de onderzoeksafdeling in de mededeling die ingevolge onderdeel b is uitgegaan, de aanvrager uit de aanvrage te beperken tot één uitvinding, of groep van uitvindingen in de zin van artikel 82, waarvoor een verslag van het nieuwheidsonderzoek is opgesteld door het Europees Octrooibureau in zijn hoedanigheid van Instantie voor Internationaal Nieuwheidsonderzoek of van voor het aanvullende internationale nieuwheidsonderzoek aangezochte instantie, of waarvoor een nieuwheidsonderzoek is uitgevoerd in overeenstemming met de in onderdeel a bedoelde procedure.    
+3.  In de procedure ingevolge het tweede lid, onderdeel a, zijn de regels 62a en 63 van overeenkomstige toepassing.   
+4.  Regel 62 en regel 70, tweede lid, zijn niet van toepassing op de resultaten van een nieuwheidsonderzoek dat is uitgevoerd in overeenstemming met het tweede lid.   
+5.  Een ingevolge het eerste of tweede lid betaalde taks voor nieuwheidsonderzoek wordt terugbetaald, indien de aanvrager daarom verzoekt en de onderzoeksafdeling vaststelt dat de in het eerste lid, onderdeel b, of tweede lid, onderdeel a, bedoelde mededeling niet gerechtvaardigd was.  
 
 ### Regel  165  
 

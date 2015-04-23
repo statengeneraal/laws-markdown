@@ -9,10 +9,7 @@ BESLUIT:
 
 ####Algemene bepalingen
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  1.1  
-Treedt in werking per 01-01-2015 
 
 In deze regeling wordt verstaan onder: 
 
@@ -33,9 +30,8 @@ In deze regeling wordt verstaan onder:
 –  *wet:* Wet langdurige zorg.   
 
 ### Artikel  1.2  
-Treedt in werking per 01-01-2015 
 
-1.  Het Zorginstituut kan aan een Wlz-uitvoerder, die op grond van artikel 4.2.4, tweede lid, van de wet is aangewezen als zorgkantoor, een subsidie verstrekken voor het aan verzekerden doen verlenen van behandeling en vervoer in de regio of regio's waarvoor de Wlz-uitvoerder als zorgkantoor is aangewezen.   
+1.  Het Zorginstituut kan aan een Wlz-uitvoerder die op grond van artikel 4.2.4, tweede lid, van de wet is aangewezen als zorgkantoor, een subsidie verstrekken voor het aan verzekerden doen verlenen van behandeling en vervoer in de regio of regio's waarvoor de Wlz-uitvoerder als zorgkantoor is aangewezen.   
 2.  Voor subsidie komt uitsluitend in aanmerking: 
 
 a. behandeling van: 
@@ -87,10 +83,9 @@ b. vervoer naar en van de locatie waar de verzekerde gedurende een dagdeel de be
 – Vervoer dagbehandeling GHZ rolstoel extramuraal;  
 
 – Vervoer dagbehandeling kind extramuraal.     
-5.  Behandeling waarop de verzekerde recht heeft uit hoofde van de wet of de Zorgverzekeringswet of die bekostigd kan worden uit hoofde van enig ander wettelijk voorschrift, komt niet voor subsidie in aanmerking.  
+5.  Behandeling waarop de verzekerde recht heeft uit hoofde van de wet of een zorgverzekering als bedoeld in de Zorgverzekeringswet of die bekostigd kan worden uit hoofde van enig ander wettelijk voorschrift, komt niet voor subsidie in aanmerking tenzij het gaat om een verzekerde wiens gelijkstelling berust op grond van artikel 11.1.1, derde lid, van de wet, nadat de geldigheidsduur van zijn op grond van de Algemene Wet Bijzondere Ziektekosten afgegeven indicatiebesluit is verlopen.  
 
 ### Artikel  1.3  
-Treedt in werking per 01-01-2015 
 
 1.  De volgende prestaties komen alleen voor subsidie in aanmerking voor zover de verzekerde daar blijkens een oordeel van het CIZ bij wijze van individuele behandeling voor in aanmerking komt: 
 
@@ -124,7 +119,6 @@ Treedt in werking per 01-01-2015
 – Dagbehandeling LG zwaar.    
 
 ### Artikel  1.4  
-Treedt in werking per 01-01-2015 
 
 1.  De volgende prestaties komen alleen voor subsidie in aanmerking indien het vervoer blijkens een oordeel van het CIZ medisch noodzakelijk is en indien sprake is van een combinatie met de prestaties, genoemd in artikel 1.3, vierde lid: 
 
@@ -138,12 +132,10 @@ Treedt in werking per 01-01-2015
 2.  De prestatie Reiskosten zorgverlener komt alleen voor subsidie in aanmerking in combinatie met een consult verleend aan een verzekerde die beschikt over een oordeel van het CIZ waaruit blijkt dat hij in aanmerking komt voor individuele behandeling.  
 
 ### Artikel  1.5  
-Treedt in werking per 01-01-2015 
 
 De subsidie wordt per kalenderjaar verstrekt. 
 
 ### Artikel  1.6  
-Treedt in werking per 01-01-2015 
 
 Het bedrag van de subsidie dat voor het jaar 2015 ten hoogste wordt verleend aan de Wlz-uitvoerder is gelijk aan de som van de volgende bedragen per regio waarvoor de Wlz-uitvoerder is aangewezen als zorgkantoor: 
 
@@ -215,16 +207,12 @@ Het bedrag van de subsidie dat voor het jaar 2015 ten hoogste wordt verleend aan
 
 ####Aanvraag
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  2.1  
-Treedt in werking per 01-01-2015 
 
 1.  De subsidie wordt op aanvraag verstrekt.   
 2.  Een aanvraag tot verlening van de subsidie wordt ontvangen uiterlijk dertien weken voor de aanvang van het jaar waarvoor de subsidie wordt aangevraagd.  
 
 ### Artikel  2.2  
-Treedt in werking per 01-01-2015 
 
 1.  Voor een aanvraag tot verlening van de subsidie wordt een door het Zorginstituut vastgesteld formulier gebruikt.   
 2.  Het aanvraagformulier wordt ondertekend door een persoon die bevoegd is de aanvrager te vertegenwoordigen.  
@@ -233,15 +221,11 @@ Treedt in werking per 01-01-2015
 
 ####Verlening
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  3.1  
-Treedt in werking per 01-01-2015 
 
 Het Zorginstituut besluit binnen dertien weken na ontvangst van de aanvraag over de verlening van de subsidie. 
 
 ### Artikel  3.2  
-Treedt in werking per 01-01-2015 
 
 Het Zorginstituut vermeldt in het besluit tot verlening van de subsidie in ieder geval het maximumbedrag dat aan subsidie wordt verleend. 
 
@@ -249,10 +233,7 @@ Het Zorginstituut vermeldt in het besluit tot verlening van de subsidie in ieder
 
 ####Bevoorschotting en verplichtingen
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  4.1  
-Treedt in werking per 01-01-2015 
 
 1.  Het Zorginstituut verleent bij het besluit tot verlening van de subsidie ambtshalve tevens voorschotten op het maximumbedrag van de verleende subsidie.   
 2.  De voorschotten worden betaald aan het CAK.   
@@ -261,7 +242,6 @@ Treedt in werking per 01-01-2015
 5.  De subisidieontvanger doet binnen twee weken na afloop van elke maand een opgave van de betalingen.  
 
 ### Artikel  4.2  
-Treedt in werking per 01-01-2015 
 
 De subsidieontvanger zorgt ervoor dat: 
 
@@ -272,7 +252,6 @@ b. de uitvoering van de gesubsidieerde activiteiten op verantwoorde wijze wordt 
 c. de voor de uitvoering van de gesubsidieerde activiteiten benodigde middelen op verantwoorde wijze worden beheerd.   
 
 ### Artikel  4.3  
-Treedt in werking per 01-01-2015 
 
 1.  De subsidieontvanger houdt een zodanig ingerichte administratie bij dat daarin altijd kan worden nagegaan: 
 
@@ -285,7 +264,6 @@ c. de voor de vaststelling van de subsidie van belang zijnde rechten en verplich
 3.  De administratie en de daartoe behorende bescheiden worden gedurende tien jaren bewaard.  
 
 ### Artikel  4.4  
-Treedt in werking per 01-01-2015 
 
 1.  De subsidieontvanger meldt meteen aan het Zorginstituut als: 
 
@@ -297,14 +275,12 @@ c. zich andere omstandigheden voordoen of zullen voordoen die van belang kunnen 
 2.  De melding wordt schriftelijk gedaan. De melding wordt voorzien van een toelichting. Bij de melding worden de relevante stukken overgelegd.  
 
 ### Artikel  4.5  
-Treedt in werking per 01-01-2015 
 
 1.  De subsidieontvanger werkt, onder meer door het verschaffen van de daartoe benodigde inlichtingen, gegevens en bescheiden, mee aan door of namens het Zorginstituut ingesteld onderzoek dat erop is gericht het Zorginstituut inlichtingen te verschaffen die van belang zijn voor het nemen van een besluit over het verstrekken van de subsidie.   
 2.  De subsidieontvanger werkt, onder meer door het verschaffen van de daartoe benodigde inlichtingen, gegevens en bescheiden, mee aan door of namens de minister ingesteld onderzoek dat erop is gericht de minister inlichtingen te verschaffen voor de ontwikkeling van het beleid van de minister.   
 3.  De subsidieontvanger verplicht zijn accountant alsmede degenen die hij de behandeling en het vervoer doet verlenen tot medewerking aan het onderzoek.  
 
 ### Artikel  4.6  
-Treedt in werking per 01-01-2015 
 
 Het Zorginstituut kan bij de verlening van de subsidie verplichtingen opleggen als bedoeld in artikel 4:38 van de Algemene wet bestuursrecht. 
 
@@ -312,39 +288,31 @@ Het Zorginstituut kan bij de verlening van de subsidie verplichtingen opleggen a
 
 ####Verhoging
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  5.1  
-Treedt in werking per 01-01-2015 
 
 1.  Het Zorginstituut kan het bedrag van de verleende subsidie op aanvraag van de subsidieontvanger verhogen.   
 2.  De subsidie wordt slechts verhoogd indien het op grond van het bedrag dat de subsidieontvanger in de periode van 1 januari tot en met 30 april van het jaar waarvoor de subsidie is verleend heeft betaald voor verrichte prestaties aannemelijk is dat de verleende subsidie ontoereikend zal zijn voor het in het gehele jaar doen verrichten van de prestaties.  
 
 ### Artikel  5.2  
-Treedt in werking per 01-01-2015 
 
 1.  Het subsidieplafond voor de verhoging van de verleende subsidie bedraagt in 2015 € 10.000.000.   
 2.  Indien het toekennen van de aanvragen tot verhoging van de verleende subsidie zou leiden tot overschrijding van het subsidieplafond, worden de uit hoofde van het subsidieplafond beschikbare middelen verdeeld over de subsidieontvangers die de verhoging hebben aangevraagd naar rato van het bedrag dat de subsidieontvanger in de periode van 1 januari tot en met 30 april van het jaar waarvoor de subsidie is verleend heeft betaald voor verrichte prestaties.  
 
 ### Artikel  5.3  
-Treedt in werking per 01-01-2015 
 
 1.  De aanvraag tot verhoging van de verleende subsidie wordt uiterlijk op 31 mei van het jaar waarvoor de subsidie is verleend ontvangen.   
 2.  Een aanvraag die na de termijn, bedoeld in het vorige lid, wordt ontvangen wordt afgewezen.  
 
 ### Artikel  5.4  
-Treedt in werking per 01-01-2015 
 
 De aanvraag tot verhoging van de verleende subsidie gaat vergezeld van een opgave van het bedrag dat de subsidieontvanger in de periode van 1 januari tot en met 30 april van het jaar waarvoor de subsidie is verleend heeft betaald voor verrichte prestaties. 
 
 ### Artikel  5.5  
-Treedt in werking per 01-01-2015 
 
 1.  Indien de aanvrager niet heeft voldaan aan enig wettelijk voorschrift voor het in behandeling nemen van de aanvraag of indien de verstrekte gegevens en bescheiden onvoldoende zijn voor de beoordeling van de aanvraag of de voorbereiding van de beschikking stelt het Zorginstituut de aanvrager in de gelegenheid de aanvraag tot verhoging van de verleende subsidie binnen drie weken aan te vullen.   
 2.  Het Zorginstituut besluit de aanvraag niet te behandelen indien de aanvraag binnen de termijn, bedoeld in het eerste lid, niet of niet voldoende is aangevuld.  
 
 ### Artikel  5.6  
-Treedt in werking per 01-01-2015 
 
 De artikelen 2.2, 3.1 en 3.2 zijn van overeenkomstige toepassing op de aanvraag tot verhoging van de verleende subsidie 
 
@@ -352,28 +320,22 @@ De artikelen 2.2, 3.1 en 3.2 zijn van overeenkomstige toepassing op de aanvraag 
 
 ####Vaststelling
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  6.1  
-Treedt in werking per 01-01-2015 
 
 1.  De subsidieontvanger dient binnen tweeëntwintig weken na afloop van het jaar waarvoor de subsidie is verleend een aanvraag in tot vaststelling van de subsidie.   
 2.  Het Zorginstituut kan ontheffing verlenen van de termijn, bedoeld in het eerste lid.  
 
 ### Artikel  6.2  
-Treedt in werking per 01-01-2015 
 
 1.  Voor een aanvraag tot vaststelling van de subsidie wordt een door het Zorginstituut vastgesteld formulier gebruikt.   
 2.  Het aanvraagformulier wordt ondertekend door een persoon die bevoegd is de aanvrager te vertegenwoordigen.  
 
 ### Artikel  6.3  
-Treedt in werking per 01-01-2015 
 
 1.  De subsidieontvanger doet in de aanvraag tot vaststelling van de subsidie per prestatie opgave van de som van het aantal prestaties die de subsidieontvanger in het jaar waarvoor de subsidie is verstrekt heeft doen verlenen in alle regio's waarvoor de subsidieontvanger als zorgkantoor is aangewezen.   
 2.  De subsidieontvanger toont in de aanvraag tot vaststelling van de subsidie aan dat voldaan is aan de verplichtingen die verbonden zijn aan de verleende subsidie.  
 
 ### Artikel  6.4  
-Treedt in werking per 01-01-2015 
 
 De aanvraag tot vaststelling gaat vergezeld van: 
 
@@ -382,7 +344,6 @@ a. een assurancerapport van een accountant die is opgesteld overeenkomstig een d
 b. een rapport van feitelijke bevindingen omtrent de naleving van de aan de subsidie verbonden verplichtingen door de subsidieontvanger, opgesteld door een accountant overeenkomstig een door het Zorginstituut vastgesteld model met inachtneming van een door het Zorginstituut vastgesteld protocol.   
 
 ### Artikel  6.5  
-Treedt in werking per 01-01-2015 
 
 1.  De subsidie wordt per prestatie vastgesteld op het aantal prestaties dat de subsidieontvanger in het jaar waarvoor de subsidie is verstrekt heeft doen verlenen in alle regio's waarvoor de subsidieontvanger als zorgkantoor is aangewezen vermenigvuldigd met in 2015: 
 
@@ -427,7 +388,6 @@ Treedt in werking per 01-01-2015
 3.  De subsidie wordt ten hoogste vastgesteld op het maximum bedrag van de verleende subsidie.  
 
 ### Artikel  6.6  
-Treedt in werking per 01-01-2015 
 
 Binnen tweeëntwintig weken na ontvangst van de aanvraag tot vaststelling van de subsidie neemt het Zorginstituut een besluit op de aanvraag. 
 
@@ -435,22 +395,17 @@ Binnen tweeëntwintig weken na ontvangst van de aanvraag tot vaststelling van de
 
 ####Slotbepalingen
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  7.1  
-Treedt in werking per 01-01-2015 
 
 1.  In afwijking van artikel 2.1 wordt een aanvraag ten behoeve van 2015 uiterlijk ingediend binnen vier weken na publicatie van deze regeling in de Staatscourant.   
 2.  In afwijking van artikel 3.1 besluit het Zorginstituut besluit binnen acht weken na ontvangst van de aanvraag over de verlening van de subsidie ten behoeve van 2015.   
 3.  In afwijking van artikel 4.1 kan het Zorginstituut na ontvangst van de aanvraag ten behoeve van 2015 ambtshalve voorschotten verstrekken.  
 
 ### Artikel  7.2  
-Treedt in werking per 01-01-2015 
 
 Deze regeling treedt in werking met ingang van 1 januari 2015. 
 
 ### Artikel  7.3  
-Treedt in werking per 01-01-2015 
 
 Deze regeling wordt aangehaald als: Tijdelijke subsidieregeling extramurale behandeling. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst  

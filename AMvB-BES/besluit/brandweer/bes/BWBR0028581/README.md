@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 2 juli 2010, nr. 2010-0000461929, CZW/WSG;
 
-Gelet op de [artikelen 27, negende lid](../../../../../wet-BES/veiligheidswet/bes/BWBR0028586/README.md), [33, derde, vierde en vijfde lid](../../../../../wet-BES/veiligheidswet/bes/BWBR0028586/README.md), en [80, vierde lid, van de Veiligheidswet BES](../../../../../wet-BES/veiligheidswet/bes/BWBR0028586/README.md);
+Gelet op de artikelen 27, negende lid, 33, derde, vierde en vijfde lid, en 80, vierde lid, van de Veiligheidswet BES;
 
 De Raad van State gehoord (advies van 11 augustus 2010, nr. W04.10.0342/I);
 
@@ -151,21 +151,17 @@ c. ondersteuning bij vliegtuigbrandbestrijding en scheepsincidenten.
 
 ####Overgangs- en slotbepalingen
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  13  
 Treedt in werking op een nader te bepalen tijdstip 
 
 Bij ministeriële regeling kunnen regels worden gesteld over de gelijkstelling van diploma’s van het personeel van de brandweer die zijn verstrekt tot de dag, voorafgaand aan de datum van inwerkingtreding van de Veiligheidswet BES, met het diploma van de bij de desbetreffende functie behorende opleiding. 
 
 ### Artikel  14  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Indien het bij koninklijk besluit van 9 november 2009 ingediende voorstel van wet houdende bepalingen over de politie en over de brandweerzorg, de rampenbestrijding en de crisisbeheersing op Bonaire, Sint Eustatius en Saba (Veiligheidswet BES) tot wet is verheven en die wet in werking treedt, treden de artikelen 3, tweede lid, en 8 tot en met 12 van dit besluit op hetzelfde tijdstip in werking.   
 2.  De andere artikelen treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
 
 ### Artikel  15  
-Treedt in werking op een nader te bepalen tijdstip 
 
 Dit besluit wordt aangehaald als: Besluit brandweer BES. 
 

@@ -844,7 +844,7 @@ Ligt ter inzage op het Ministerie van Infrastructuur en Milieu en is gepubliceer
 
 ####Kaart met grenzen van oppervlaktewaterlichamen en zijwateren waar het Rijk het waterstaatkundig beheer voert (bijlage bij artikel 3.2, derde lid , en artikel 6.7  van de Waterregeling)
 
-Deze bijlage ligt ter inzage op het Ministerie van Infrastructuur en Milieu en is tevens raadpleegbaar op en te downloaden van www.waterwet.nl. 
+Ligt ter inzage op het Ministerie van Infrastructuur en Milieu en is gepubliceerd op www.waterwet.nl. 
 
 ### Bijlage  V  
 
