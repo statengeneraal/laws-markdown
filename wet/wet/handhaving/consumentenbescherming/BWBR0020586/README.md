@@ -34,7 +34,9 @@ e. financiële dienst of activiteit:
 
 4°. het exploiteren of beheren van een gereglementeerde markt waarvoor een vergunning als bedoeld in artikel 5:26, eerste lid, van de Wet op het financieel toezicht is verleend of het exploiteren van een multilaterale handelsfaciliteit waarvoor een vergunning als bedoeld in artikel 2:96 van de Wet op het financieel toezicht is verleend;  
 
-5°. een dienst als bedoeld onder 6 van de bijlage van richtlijn nr. 2007/64/EG van het Europees Parlement en de Raad van de Europese Unie van 13 november 2007 betreffende betalingsdiensten in de interne markt tot wijziging van de Richtlijnen 97/7/EG, 2002/65/EG, 2005/60/EG en 2006/48/EG en tot intrekking van Richtlijn 97/5/EG (PbEU L 319);   
+5°. een dienst als bedoeld onder 6 van de bijlage van richtlijn nr. 2007/64/EG van het Europees Parlement en de Raad van de Europese Unie van 13 november 2007 betreffende betalingsdiensten in de interne markt tot wijziging van de Richtlijnen 97/7/EG, 2002/65/EG, 2005/60/EG en 2006/48/EG en tot intrekking van Richtlijn 97/5/EG (PbEU L 319); 
+
+6°. een beleggingsaanbeveling als bedoeld in artikel 5:53, vijfde lid, van de Wet op het financieel toezicht;   
 
 f. inbreuk: elke overtreding van een wettelijke bepaling als bedoeld in de bijlage bij deze wet, welke schade toebrengt of kan toebrengen aan de collectieve belangen van consumenten;  
 

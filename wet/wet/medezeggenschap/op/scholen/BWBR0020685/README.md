@@ -232,6 +232,14 @@ q. vaststelling van de competentieprofielen van de toezichthouders en het toezic
 
 r. vaststelling of wijziging van het schoolondersteuningsprofiel, bedoeld in artikel 1 van de Wet op het primair onderwijs, artikel 1 van de Wet op de expertisecentra en artikel 1 van de Wet op het voortgezet onderwijs.  
 
+### Artikel  11a  
+
+####Adviesbevoegdheid ondersteuningsplanraad
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+De ondersteuningsplanraad wordt vooraf in de gelegenheid gesteld om advies uit te brengen over elk door het samenwerkingsverband te nemen besluit met betrekking tot in ieder geval de vaststelling van de competentieprofielen van toezichthouders en het toezichthoudend orgaan van het samenwerkingsverband. 
+
 ### Artikel   12  
 
 ####Instemmingsbevoegdheid personeelsdeel medezeggenschapsraad

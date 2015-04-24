@@ -6,60 +6,60 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de [Ziektewet](../../../../../../../../wet/ziektewet/BWBR0001888/README.md) en enige andere wetten aan te passen teneinde ziekteverzuim en arbeidsongeschiktheid van vangnetters te beperken;
+Alzo Wij in overweging genomen hebben, dat het wenselijk is de Ziektewet en enige andere wetten aan te passen teneinde ziekteverzuim en arbeidsongeschiktheid van vangnetters te beperken;
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  
 
-####Wijziging van de [Ziektewet](../../../../../../../../wet/ziektewet/BWBR0001888/README.md)
+####Wijziging van de Ziektewet
 
 Wijzigt de Ziektewet. 
 
 ### Artikel  II  
 
-####Wijziging van de [Wet financiering sociale verzekeringen](../../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md)
+####Wijziging van de Wet financiering sociale verzekeringen
 
 Wijzigt de Wet financiering sociale verzekeringen. 
 
 ### Artikel  III  
 
-####Wijziging van de [Wet werk en inkomen naar arbeidsvermogen](../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md)
+####Wijziging van de Wet werk en inkomen naar arbeidsvermogen
 
 Wijzigt de Wet werk en inkomen naar arbeidsvermogen. 
 
 ### Artikel  IV  
 
-####Wijziging van de [Werkloosheidswet](../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md)
+####Wijziging van de Werkloosheidswet
 
 Wijzigt de Werkloosheidswet. 
 
 ### Artikel  V  
 
-####Wijziging [Wet werk en arbeidsondersteuning jonggehandicapten](../../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md)
+####Wijziging Wet werk en arbeidsondersteuning jonggehandicapten
 
 Wijzigt de Wet werk en arbeidsondersteuning jonggehandicapten. 
 
 ### Artikel  VI  
 
-####Wijziging van de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md)
+####Wijziging van de Wet op de arbeidsongeschiktheidsverzekering
 
 Wijzigt de Wet op de arbeidsongeschiktheidsverzekering. 
 
 ### Artikel  VII  
 
-####Wijziging van de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md)
+####Wijziging van de Wet arbeidsongeschiktheidsverzekering zelfstandigen
 
 Wijzigt de Wet arbeidsongeschiktheidsverzekering zelfstandigen. 
 
 ### Artikel  VIII  
 
-####Wijziging [Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md)
+####Wijziging Wet structuur uitvoeringsorganisatie werk en inkomen
 
 Wijzigt de Wet structuur uitvoeringsorganisatie werk en inkomen. 
 
 ### Artikel  IX  
 
-####Wijziging van de [Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md)
+####Wijziging van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen
 
 Wijzigt de Wet kinderopvang en kwaliteitseisen peuterspeelzalen. 
 

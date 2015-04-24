@@ -6,7 +6,7 @@ Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oran
 
 Op de voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid van 26 februari 2013, nr. IVV/2013/10006,
 
-Gelet op de [artikelen 15, tweede lid, van de Ziektewet](../../../../wet/ziektewet/BWBR0001888/README.md), [17a, derde lid](../../../../wet/werkloosheidswet/BWBR0004045/README.md), en [45, tweede lid, van de Werkloosheidswet](../../../../wet/werkloosheidswet/BWBR0004045/README.md), [13, derde lid](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), en [58, derde lid, van de Wet werk en inkomen naar arbeidsvermogen](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) en [14, tweede lid, van de Wet op de arbeidsongeschiktheidsverzekering](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md);
+Gelet op de artikelen 15, tweede lid, van de Ziektewet, 17a, derde lid, en 45, tweede lid, van de Werkloosheidswet, 13, derde lid, en 58, derde lid, van de Wet werk en inkomen naar arbeidsvermogen en 14, tweede lid, van de Wet op de arbeidsongeschiktheidsverzekering;
 
 De Afdeling advisering van de Raad van State gehoord (advies van 19 april 2013, nr W12.12.0048/III);
 
@@ -24,58 +24,58 @@ Hebben goedgevonden en verstaan:
 
 a.  *aangiftetijdvak:* het tijdvak van vier weken dan wel één maand waarop de aangifte waarop de ingehouden loonbelasting wordt afgedragen, betrekking heeft danwel, indien de werkgever over een afwijkend tijdvak aangifte doet, het tijdvak waarover loon is betaald van één maand of vier weken of herleid tot één maand of vier weken;  
 
-b.  *arbeidsongeschikt(heid):* arbeidsongeschikt(heid) als bedoeld in [artikel 18, eerste lid, van de WAO](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) of volledige en duurzame arbeidsongeschiktheid en gedeeltelijke arbeidsgeschiktheid als bedoeld in de [artikelen 4](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) en [5 van de Wet WIA](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md);  
+b.  *arbeidsongeschikt(heid):* arbeidsongeschikt(heid) als bedoeld in artikel 18, eerste lid, van de WAO of volledige en duurzame arbeidsongeschiktheid en gedeeltelijke arbeidsgeschiktheid als bedoeld in de artikelen 4 en 5 van de Wet WIA;  
 
-c.  *arbeidsurenverlies:* het arbeidsurenverlies, bedoeld in [artikel 16, eerste lid, van de WW](../../../../wet/werkloosheidswet/BWBR0004045/README.md);  
+c.  *arbeidsurenverlies:* het arbeidsurenverlies, bedoeld in artikel 16, eerste lid, van de WW;  
 
 d.  *gebroken aangiftetijdvak:* een aangiftetijdvak dat deels binnen en deels buiten het refertejaar bedoeld in artikel 2 of artikel 13, valt;  
 
-e.  *het UWV:* het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
+e.  *het UWV:* het Uitvoeringsinstituut werknemersverzekeringen, genoemd in hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen;  
 
-f.  *minimumjeugdloonpercentage:* een percentage als bedoeld in [artikel 8, derde lid, van de WML](../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md);  
+f.  *minimumjeugdloonpercentage:* een percentage als bedoeld in artikel 8, derde lid, van de WML;  
 
-g.  *minimumloon:* het minimumloon per maand, bedoeld in [artikel 8, eerste lid, onderdeel a, van de WML](../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md), gedeeld door 21,75;  
+g.  *minimumloon:* het minimumloon per maand, bedoeld in artikel 8, eerste lid, onderdeel a, van de WML, gedeeld door 21,75;  
 
-h.  *uitkering:* een uitkering op grond van de [ZW](../../../../wet/ziektewet/BWBR0001888/README.md), de [WW](../../../../wet/werkloosheidswet/BWBR0004045/README.md), de [Wet WIA](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), de [WAO](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) of de [Wazo](../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md);  
+h.  *uitkering:* een uitkering op grond van de ZW, de WW, de Wet WIA, de WAO of de Wazo;  
 
-i.  *verlof:* een tussen de werkgever en werknemer voor een gedeelte of het geheel van de arbeidstijd overeengekomen tijdvak, waarin de werknemer geen arbeid jegens de werkgever verricht, met uitzondering van verlof als bedoeld in de [artikelen 3:1](../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md) en [3:2 van de Wazo](../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md);  
+i.  *verlof:* een tussen de werkgever en werknemer voor een gedeelte of het geheel van de arbeidstijd overeengekomen tijdvak, waarin de werknemer geen arbeid jegens de werkgever verricht, met uitzondering van verlof als bedoeld in de artikelen 3:1 en 3:2 van de Wazo;  
 
-j.  *WAO:* [Wet op de arbeidsongeschiktheidsverzekering](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md);  
+j.  *WAO:* Wet op de arbeidsongeschiktheidsverzekering;  
 
-k.  *WAO-dagloon:* het dagloon, bedoeld in [artikel 14, eerste lid, van de WAO](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md);  
+k.  *WAO-dagloon:* het dagloon, bedoeld in artikel 14, eerste lid, van de WAO;  
 
-l.  *WAO-vervolgdagloon:* het vervolgdagloon, bedoeld in [artikel 21b van de WAO](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md);  
+l.  *WAO-vervolgdagloon:* het vervolgdagloon, bedoeld in artikel 21b van de WAO;  
 
-m.  *Wazo:* [Wet arbeid en zorg](../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md);  
+m.  *Wazo:* Wet arbeid en zorg;  
 
-n.  *Wazo-dagloon:* het dagloon, bedoeld in [artikel 3:13 van de Wazo](../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md);  
+n.  *Wazo-dagloon:* het dagloon, bedoeld in artikel 3:13 van de Wazo;  
 
-o.  *Wet WIA:* [Wet werk en inkomen naar arbeidsvermogen](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md);  
+o.  *Wet WIA:* Wet werk en inkomen naar arbeidsvermogen;  
 
-p.  *WIA-dagloon:* het dagloon, bedoeld in [artikel 13, eerste lid, van de Wet WIA](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md);  
+p.  *WIA-dagloon:* het dagloon, bedoeld in artikel 13, eerste lid, van de Wet WIA;  
 
-q.  *Wfsv:* [Wet financiering sociale verzekeringen](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md);  
+q.  *Wfsv:* Wet financiering sociale verzekeringen;  
 
-r.  *WML:* [Wet minimumloon en minimumvakantiebijslag](../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md);  
+r.  *WML:* Wet minimumloon en minimumvakantiebijslag;  
 
-s.  *WW:* [Werkloosheidswet](../../../../wet/werkloosheidswet/BWBR0004045/README.md);  
+s.  *WW:* Werkloosheidswet;  
 
-t.  *WW-dagloon:* het dagloon, bedoeld in [artikel 45, eerste lid, van de WW](../../../../wet/werkloosheidswet/BWBR0004045/README.md);  
+t.  *WW-dagloon:* het dagloon, bedoeld in artikel 45, eerste lid, van de WW;  
 
-u.  *ziek/ziekte:* ongeschikt(heid) tot het verrichten van zijn of haar arbeid als bedoeld in [artikel 19, eerste of tweede lid, van de ZW](../../../../wet/ziektewet/BWBR0001888/README.md);  
+u.  *ziek/ziekte:* ongeschikt(heid) tot het verrichten van zijn of haar arbeid als bedoeld in artikel 19, eerste of tweede lid, van de ZW;  
 
-v.  *ZW:* [Ziektewet](../../../../wet/ziektewet/BWBR0001888/README.md);  
+v.  *ZW:* Ziektewet;  
 
-w.  *ZW-dagloon:* het dagloon, bedoeld in [artikel 15, eerste lid, van de ZW](../../../../wet/ziektewet/BWBR0001888/README.md).     
+w.  *ZW-dagloon:* het dagloon, bedoeld in artikel 15, eerste lid, van de ZW.     
 2.  Voor de toepassing van dit besluit is maandag de eerste dag van de kalenderweek en zijn de eerste vijf dagen van de kalenderweek dagloondagen.  
 
 ### Hoofdstuk  2  
 
-####Bepalingen voor vaststelling van dagloon [ZW](../../../../wet/ziektewet/BWBR0001888/README.md) en [WW](../../../../wet/werkloosheidswet/BWBR0004045/README.md)
+####Bepalingen voor vaststelling van dagloon ZW en WW
 
 ### Artikel  2  
 
-####Refertejaar voor [ZW](../../../../wet/ziektewet/BWBR0001888/README.md) en [WW](../../../../wet/werkloosheidswet/BWBR0004045/README.md)
+####Refertejaar voor ZW en WW
 
 1.  Onder refertejaar wordt in dit hoofdstuk de periode verstaan van een jaar die eindigt op de laatste dag van het tweede aangiftetijdvak voorafgaande aan het aangiftetijdvak waarin de ziekte of het arbeidsurenverlies is ingetreden.   
 2.  In afwijking van het eerste lid eindigt het refertejaar op de laatste dag van het tweede aangiftetijdvak voorafgaande aan het aangiftetijdvak waarin de dienstbetrekking is geëindigd, indien de dienstbetrekking eindigt door ontbinding door de kantonrechter, wederzijds goedvinden van partijen, of opzegging, zonder inachtneming van de geldende opzegtermijn, en 
@@ -83,43 +83,43 @@ w.  *ZW-dagloon:* het dagloon, bedoeld in [artikel 15, eerste lid, van de ZW](..
 a. de werknemer een schadeloosstelling of vergoeding wegens de beëindiging van de dienstbetrekking heeft ontvangen waardoor het arbeidsurenverlies, bedoeld in het eerste lid, op een later moment intreedt dan het moment waarop de dienstbetrekking eindigt, en  
 
 b. de datum van eindiging van die dienstbetrekking is gelegen voor het einde van het refertejaar, bedoeld het eerste lid.     
-3.  Bij het vaststellen van het ZW-dagloon van de persoon, wiens aanspraak op ziekengeld berust op [artikel 46 van de ZW](../../../../wet/ziektewet/BWBR0001888/README.md) eindigt het refertejaar, in afwijking van het eerste lid, op de laatste dag van het tweede aangiftetijdvak voorafgaand aan het aangiftetijdvak waarin de verzekering is geëindigd.   
-4.  Bij het vaststellen van het WW-dagloon van de werknemer, op wie in verband met opeenvolgende verliezen van arbeidsuren [artikel 2 van het Besluit nadere regeling verlies van arbeidsuren](../../../../AMvB/besluit/nadere/regeling/verlies/van/arbeidsuren/BWBR0004096/README.md) van toepassing is, eindigt het refertejaar, in afwijking van het eerste lid, op de laatste dag van het tweede aangiftetijdvak voorafgaand aan het aangiftetijdvak waarin het eerste verlies van arbeidsuren is ingetreden, indien het opeenvolgende verlies van arbeidsuren heeft plaatsgevonden in dezelfde dienstbetrekking.  
+3.  Bij het vaststellen van het ZW-dagloon van de persoon, wiens aanspraak op ziekengeld berust op artikel 46 van de ZW eindigt het refertejaar, in afwijking van het eerste lid, op de laatste dag van het tweede aangiftetijdvak voorafgaand aan het aangiftetijdvak waarin de verzekering is geëindigd.   
+4.  Bij het vaststellen van het WW-dagloon van de werknemer, op wie in verband met opeenvolgende verliezen van arbeidsuren artikel 2 van het Besluit nadere regeling verlies van arbeidsuren van toepassing is, eindigt het refertejaar, in afwijking van het eerste lid, op de laatste dag van het tweede aangiftetijdvak voorafgaand aan het aangiftetijdvak waarin het eerste verlies van arbeidsuren is ingetreden, indien het opeenvolgende verlies van arbeidsuren heeft plaatsgevonden in dezelfde dienstbetrekking.  
 
 ### Artikel  3  
 
-####Loonbegrip voor [ZW](../../../../wet/ziektewet/BWBR0001888/README.md) en [WW](../../../../wet/werkloosheidswet/BWBR0004045/README.md)
+####Loonbegrip voor ZW en WW
 
-1.  Onder loon wordt in dit hoofdstuk verstaan loon in de zin van [artikel 16 van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), genoten in het refertejaar uit de dienstbetrekking waaruit de werknemer ziek of werkloos is geworden met dien verstande dat niet onder loon worden begrepen: 
+1.  Onder loon wordt in dit hoofdstuk verstaan loon in de zin van artikel 16 van de Wfsv, genoten in het refertejaar uit de dienstbetrekking waaruit de werknemer ziek of werkloos is geworden met dien verstande dat niet onder loon worden begrepen: 
 
-a. uitkeringen op grond van de [Wet WIA](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), de [WAO](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), de [WW](../../../../wet/werkloosheidswet/BWBR0004045/README.md) en de uitkeringen die naar aard en strekking met deze uitkeringen overeenkomen, met uitzondering van een uitkering op grond van [artikel 18 van de WW](../../../../wet/werkloosheidswet/BWBR0004045/README.md);  
+a. uitkeringen op grond van de Wet WIA, de WAO, de WW en de uitkeringen die naar aard en strekking met deze uitkeringen overeenkomen, met uitzondering van een uitkering op grond van artikel 18 van de WW;  
 
-b. de aanvullingen en de toeslagen op grond van de [Toeslagenwet](../../../../wet/toeslagenwet/BWBR0004043/README.md), bedoeld in [artikel 16, tweede lid, onderdeel a, van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) op de uitkeringen die niet onder loon worden begrepen genoemd in onderdeel a;  
+b. de aanvullingen en de toeslagen op grond van de Toeslagenwet, bedoeld in artikel 16, tweede lid, onderdeel a, van de Wfsv op de uitkeringen die niet onder loon worden begrepen genoemd in onderdeel a;  
 
-c. een eindheffingsbestanddeel als bedoeld in [artikel 31, eerste lid, onderdeel a, van de Wet op de loonbelasting 1964](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) ten aanzien waarvan de werkgever met toestemming van de inspecteur van de rijksbelastingdienst geen correctiebericht als bedoeld in [artikel 28a van de laatstgenoemde wet](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) heeft ingediend; en  
+c. een eindheffingsbestanddeel als bedoeld in artikel 31, eerste lid, onderdeel a, van de Wet op de loonbelasting 1964 ten aanzien waarvan de werkgever met toestemming van de inspecteur van de rijksbelastingdienst geen correctiebericht als bedoeld in artikel 28a van de laatstgenoemde wet heeft ingediend; en  
 
-d. een uitkering die de werknemer heeft genoten op grond van de aanspraak, bedoeld in [artikel 39d van de Wet op de loonbelasting 1964](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), zonder dat er sprake is van onbetaald extra verlof.     
+d. een uitkering die de werknemer heeft genoten op grond van de aanspraak, bedoeld in artikel 39d van de Wet op de loonbelasting 1964, zonder dat er sprake is van onbetaald extra verlof.     
 2.  In dit hoofdstuk wordt onder loon tevens verstaan de som van het loon, bedoeld in het eerste lid, genoten in het refertejaar uit elkaar opvolgende dienstbetrekkingen bij dezelfde werkgever indien: 
 
-a. ten aanzien van al deze dienstbetrekkingen een schriftelijk beding als bedoeld in [artikel 691, tweede lid, van boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) was opgenomen;  
+a. ten aanzien van al deze dienstbetrekkingen een schriftelijk beding als bedoeld in artikel 691, tweede lid, van boek 7 van het Burgerlijk Wetboek was opgenomen;  
 
 b. al deze dienstbetrekkingen van rechtswege zijn geëindigd door inroeping van dat beding; en  
 
 c. de werknemer gedurende de tussen de elkaar opvolgende dienstbetrekkingen liggende dagen recht op ziekengeld had.   Indien de vorige zin van toepassing is dan geldt tevens als loon het ziekengeld dat is uitgekeerd gedurende de tussen elkaar opvolgende dienstbetrekkingen liggende dagen.   
-3.  In dit hoofdstuk wordt onder loon tevens verstaan de som van het loon, bedoeld in het eerste en tweede lid, indien de werknemer bij één werkgever als bedoeld in [artikel 690 van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), meer opvolgende dienstbetrekkingen als bedoeld in [artikel 691 van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), heeft gehad en deze dienstbetrekkingen in de loonaangifte vanaf de aanvang van de eerste dienstbetrekking worden aangemerkt als één inkomstenverhouding. 
+3.  In dit hoofdstuk wordt onder loon tevens verstaan de som van het loon, bedoeld in het eerste en tweede lid, indien de werknemer bij één werkgever als bedoeld in artikel 690 van Boek 7 van het Burgerlijk Wetboek, meer opvolgende dienstbetrekkingen als bedoeld in artikel 691 van Boek 7 van het Burgerlijk Wetboek, heeft gehad en deze dienstbetrekkingen in de loonaangifte vanaf de aanvang van de eerste dienstbetrekking worden aangemerkt als één inkomstenverhouding. 
 
 ### Artikel  4  
 
-####Algemene bepalingen over het loon voor [ZW](../../../../wet/ziektewet/BWBR0001888/README.md) en [WW](../../../../wet/werkloosheidswet/BWBR0004045/README.md)
+####Algemene bepalingen over het loon voor ZW en WW
 
 1.  Voor de toepassing van dit hoofdstuk wordt de werknemer geacht zijn loon te hebben genoten in het aangiftetijdvak waarover de werkgever van dat loon opgave heeft gedaan.   
 2.  Onder loon als bedoeld in artikel 3 wordt mede begrepen loon uit de dienstbetrekking waaruit de werknemer ziek of werkloos is geworden en uit de daaraan voorafgaande dienstbetrekkingen, bedoeld in artikel 3, tweede lid, waarvan de werknemer aantoont dat dit in het refertejaar vorderbaar maar niet tevens inbaar is geworden. Voor de toepassing van dit hoofdstuk wordt de werknemer geacht dit loon te hebben genoten in het aangiftetijdvak waarin het vorderbaar is geworden. Indien in het refertejaar een uitkering is genoten, waarbij in het dagloon loon als bedoeld in de eerste zin is meegerekend, wordt, indien van dat loon in het refertejaar opgave is gedaan, dat loon bij de dagloonberekening buiten beschouwing gelaten.  
 
 ### Artikel  5  
 
-####Dagloon voor [ZW](../../../../wet/ziektewet/BWBR0001888/README.md) en [WW](../../../../wet/werkloosheidswet/BWBR0004045/README.md)
+####Dagloon voor ZW en WW
 
-1.  Het dagloon van uitkeringen op grond van de [ZW](../../../../wet/ziektewet/BWBR0001888/README.md) en [WW](../../../../wet/werkloosheidswet/BWBR0004045/README.md) is de uitkomst van de volgende berekening: [(A–B) x 108/100 + C] / D waarbij: A staat voor het loon dat de werknemer in het refertejaar heeft genoten bij een werkgever die vakantiebijslag reserveert; B staat voor de bedragen aan vakantiebijslag die de werknemer in het refertejaar heeft genoten; C staat voor het loon dat de werknemer in het refertejaar heeft genoten bij een werkgever die geen vakantiebijslag reserveert; en D staat voor 261 dan wel, indien de dienstbetrekking waaruit de werknemer ziek of werkloos is geworden is aangevangen na aanvang van het refertejaar, voor het aantal dagloondagen vanaf en met inbegrip van de dag waarop de dienstbetrekking is aangevangen tot en met de laatste dag van het refertejaar.   
+1.  Het dagloon van uitkeringen op grond van de ZW en WW is de uitkomst van de volgende berekening: [(A–B) x 108/100 + C] / D waarbij: A staat voor het loon dat de werknemer in het refertejaar heeft genoten bij een werkgever die vakantiebijslag reserveert; B staat voor de bedragen aan vakantiebijslag die de werknemer in het refertejaar heeft genoten; C staat voor het loon dat de werknemer in het refertejaar heeft genoten bij een werkgever die geen vakantiebijslag reserveert; en D staat voor 261 dan wel, indien de dienstbetrekking waaruit de werknemer ziek of werkloos is geworden is aangevangen na aanvang van het refertejaar, voor het aantal dagloondagen vanaf en met inbegrip van de dag waarop de dienstbetrekking is aangevangen tot en met de laatste dag van het refertejaar.   
 2.  De factoren A, B, en C die bij de berekening in het eerste lid voor een gebroken aangiftetijdvak in aanmerking worden genomen, worden verkregen door het loon respectievelijk de vakantiebijslag over het desbetreffende gebroken aangiftetijdvak te vermenigvuldigen met de breuk Y/Z waarbij: Y staat voor het totale aantal binnen het refertejaar gelegen dagloondagen in het gebroken aangiftetijdvak waarop de werknemer in de dienstbetrekking is waaruit hij ziek of werkloos is geworden; en Z staat voor het totale aantal dagloondagen in het gebroken aangiftetijdvak waarop de werknemer in de dienstbetrekking is waaruit hij ziek of werkloos is geworden. Indien Z nul is, wordt de uitkomst van deze berekening op nihil gesteld.   
 3.  Voor de toepassing van het eerste lid en tweede lid wordt onder een werkgever die geen vakantiebijslag reserveert een werkgever verstaan die: 
 
@@ -127,7 +127,7 @@ a. de vakantiebijslag periodiek bij iedere loonbetaling uitbetaalt;
 
 b. de vakantiebijslag als onderdeel van het periodieke loon betaalt; of  
 
-c. de vakantiebijslag voldoet overeenkomstig [artikel 18, eerste lid, van de WML](../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md).     
+c. de vakantiebijslag voldoet overeenkomstig artikel 18, eerste lid, van de WML.     
 4.  D staat, indien de dienstbetrekking waaruit de werknemer ziek of werkloos is geworden een of meer aangiftetijdvakken kent waarin geen loon is genoten anders dan vanwege verlof, arbeidsongeschiktheid of ziekte, in afwijking van het eerste lid, voor het aantal dagloondagen van de aangiftetijdvakken waarin wel loon is genoten.   
 5.  D staat, indien de dienstbetrekking waaruit de werknemer ziek of werkloos is geworden, is aangevangen na afloop van het refertejaar, in afwijking van het eerste lid, voor het aantal dagloondagen vanaf en met inbegrip van de dag waarop de dienstbetrekking is aangevangen tot de dag waarop de ziekte of het arbeidsurenverlies is ingetreden en A, B en C staan in dat geval, in zoverre in afwijking van artikel 3, voor het loon respectievelijk de vakantiebijslag genoten in deze dienstbetrekking na afloop van het refertejaar. Dit lid is van overeenkomstige toepassing in de situatie, bedoeld in artikel 3, tweede en derde lid.   
 6.  Indien artikel 3, tweede of derde lid, van toepassing is, staat C tevens voor het ziekengeld uitgekeerd tussen de elkaar opvolgende dienstbetrekkingen, bedoeld in dat tweede of derde lid, en staat D voor het aantal dagloondagen vanaf en met inbegrip van de dag waarop de eerste van de elkaar opvolgende dienstbetrekkingen, bedoeld in dat tweede of derde lid, is aangevangen tot en met de laatste dag van het refertejaar.   
@@ -148,30 +148,30 @@ b. de werknemer gedurende het volledige aangiftetijdvak in dienstbetrekking tot 
 
 a. de toepassing van dit artikel leidt tot een lager dagloon, of  
 
-b. gedurende het aangiftetijdvak, bedoeld in het eerste lid, het te vervangen loon mede bestaat uit een uitkering op grond van de [ZW](../../../../wet/ziektewet/BWBR0001888/README.md), vanwege de omstandigheden, bedoeld in het eerste lid.    
+b. gedurende het aangiftetijdvak, bedoeld in het eerste lid, het te vervangen loon mede bestaat uit een uitkering op grond van de ZW, vanwege de omstandigheden, bedoeld in het eerste lid.    
 
 ### Artikel  7  
 
 ####ZW-dagloon van een uitkeringsgerechtigde en bij nawerking
 
-1.  In afwijking van de artikelen 5 en 6 wordt het ZW-dagloon van de persoon, die op de dag van het ontstaan van zijn ziekte op grond van [artikel 7 van de ZW](../../../../wet/ziektewet/BWBR0001888/README.md) als werknemer wordt aangemerkt, vastgesteld op het WW-dagloon.   
-2.  Het ZW-dagloon van de persoon die laatstelijk op grond van [artikel 8c van de ZW](../../../../wet/ziektewet/BWBR0001888/README.md) verzekerd was, wordt vastgesteld op het Wazo-dagloon.   
-3.  Indien de uitkering op grond van de [WW](../../../../wet/werkloosheidswet/BWBR0004045/README.md) in verband met niet volledig arbeidsurenverlies is vastgesteld of op die uitkering inkomen wordt verrekend met toepassing van [artikel 35aa van de WW](../../../../wet/werkloosheidswet/BWBR0004045/README.md), wordt het ZW-dagloon, van de persoon bedoeld in het eerste lid, vastgesteld op 100/70 van het bedrag van de uitkering op grond van de [WW](../../../../wet/werkloosheidswet/BWBR0004045/README.md) per dag over de vier kalenderweken voorafgaande aan de dag van het ontstaan van de ziekte.   
-4.  Het ZW-dagloon van de persoon, wiens aanspraak op ziekengeld berust op [artikel 46 van de ZW](../../../../wet/ziektewet/BWBR0001888/README.md), die tevens laatstelijk verzekerd was op grond van [artikel 7](../../../../wet/ziektewet/BWBR0001888/README.md) of [8 van de ZW](../../../../wet/ziektewet/BWBR0001888/README.md) wordt vastgesteld op het WW-dagloon respectievelijk het ZW-dagloon.  
+1.  In afwijking van de artikelen 5 en 6 wordt het ZW-dagloon van de persoon, die op de dag van het ontstaan van zijn ziekte op grond van artikel 7 van de ZW als werknemer wordt aangemerkt, vastgesteld op het WW-dagloon.   
+2.  Het ZW-dagloon van de persoon die laatstelijk op grond van artikel 8c van de ZW verzekerd was, wordt vastgesteld op het Wazo-dagloon.   
+3.  Indien de uitkering op grond van de WW in verband met niet volledig arbeidsurenverlies is vastgesteld of op die uitkering inkomen wordt verrekend met toepassing van artikel 35aa van de WW, wordt het ZW-dagloon, van de persoon bedoeld in het eerste lid, vastgesteld op 100/70 van het bedrag van de uitkering op grond van de WW per dag over de vier kalenderweken voorafgaande aan de dag van het ontstaan van de ziekte.   
+4.  Het ZW-dagloon van de persoon, wiens aanspraak op ziekengeld berust op artikel 46 van de ZW, die tevens laatstelijk verzekerd was op grond van artikel 7 of 8 van de ZW wordt vastgesteld op het WW-dagloon respectievelijk het ZW-dagloon.  
 
 ### Artikel  8  
 
 ####WW-dagloon van gewezen en gedeeltelijk arbeidsongeschikte werknemer
 
-1.  Het WW-dagloon van de werknemer die op de dag voorafgaande aan de eerste werkloosheidsdag een arbeidsongeschiktheidsuitkering op grond van de [WAO](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) heeft ontvangen, is, indien die uitkering met ingang van de eerste werkloosheidsdag wordt ingetrokken op grond van [artikel 43, eerste lid, van de WAO](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), gelijk aan het laatstelijk geldende WAO-dagloon. Het WAO-dagloon van de werknemer die op de dag voorafgaande aan de eerste werkloosheidsdag een uitkering op grond van de WAO naar een arbeidsongeschiktheid van minder dan 80% heeft ontvangen, wordt in aanmerking genomen naar de mate waarin de uitkering, waarvoor het dagloon wordt vastgesteld, in de plaats is gekomen voor de uitkering op grond van de WAO.   
-2.  Het WW-dagloon van de werknemer die op de eerste werkloosheidsdag, of op de eerste dag van herleving van het recht op werkloosheidsuitkering, een uitkering op grond van de [WAO](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) naar een arbeidsongeschiktheid van minder dan 80% ontvangt, wordt vastgesteld door evenredige verlaging van het laatstelijk geldende WAO-dagloon. Dit WAO-dagloon wordt in aanmerking genomen naar de mate waarin de uitkering, waarvoor het dagloon wordt vastgesteld, in de plaats is gekomen voor de uitkering op grond van de WAO.   
-3.  Indien op een tijdstip na de in het tweede lid bedoelde dagloonvaststelling de werknemer wordt ingedeeld in een andere arbeidsongeschiktheidsklasse, wordt het WW-dagloon opnieuw vastgesteld. Het WAO-dagloon wordt in aanmerking genomen naar de mate waarin de uitkering, waarvoor het dagloon wordt vastgesteld, in de plaats is gekomen voor de uitkering op grond van de [WAO](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md).   
+1.  Het WW-dagloon van de werknemer die op de dag voorafgaande aan de eerste werkloosheidsdag een arbeidsongeschiktheidsuitkering op grond van de WAO heeft ontvangen, is, indien die uitkering met ingang van de eerste werkloosheidsdag wordt ingetrokken op grond van artikel 43, eerste lid, van de WAO, gelijk aan het laatstelijk geldende WAO-dagloon. Het WAO-dagloon van de werknemer die op de dag voorafgaande aan de eerste werkloosheidsdag een uitkering op grond van de WAO naar een arbeidsongeschiktheid van minder dan 80% heeft ontvangen, wordt in aanmerking genomen naar de mate waarin de uitkering, waarvoor het dagloon wordt vastgesteld, in de plaats is gekomen voor de uitkering op grond van de WAO.   
+2.  Het WW-dagloon van de werknemer die op de eerste werkloosheidsdag, of op de eerste dag van herleving van het recht op werkloosheidsuitkering, een uitkering op grond van de WAO naar een arbeidsongeschiktheid van minder dan 80% ontvangt, wordt vastgesteld door evenredige verlaging van het laatstelijk geldende WAO-dagloon. Dit WAO-dagloon wordt in aanmerking genomen naar de mate waarin de uitkering, waarvoor het dagloon wordt vastgesteld, in de plaats is gekomen voor de uitkering op grond van de WAO.   
+3.  Indien op een tijdstip na de in het tweede lid bedoelde dagloonvaststelling de werknemer wordt ingedeeld in een andere arbeidsongeschiktheidsklasse, wordt het WW-dagloon opnieuw vastgesteld. Het WAO-dagloon wordt in aanmerking genomen naar de mate waarin de uitkering, waarvoor het dagloon wordt vastgesteld, in de plaats is gekomen voor de uitkering op grond van de WAO.   
 4.  De vaststelling, bedoeld in het tweede lid, en de hernieuwde vaststelling, bedoeld in het derde lid, geschieden volgens de volgende berekening: A x (100 – B) / 100 waarbij: A staat voor het WAO-dagloon, bedoeld in het tweede lid; en B staat voor het midden van de arbeidsongeschiktheidsklasse die bij de vaststelling of hernieuwde vaststelling in acht wordt genomen.   
-5.  Voor de werknemer, bedoeld in het tweede lid, wiens arbeidsongeschiktheidsuitkering op een tijdstip na de in dat lid bedoelde dagloonberekening wordt ingetrokken op grond van [artikel 43, eerste lid, van de WAO](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), is het WW-dagloon het in de eerste zin van het in het tweede lid bedoelde WAO-dagloon respectievelijk het in het zesde lid bedoelde, WAO-vervolgdagloon.   
+5.  Voor de werknemer, bedoeld in het tweede lid, wiens arbeidsongeschiktheidsuitkering op een tijdstip na de in dat lid bedoelde dagloonberekening wordt ingetrokken op grond van artikel 43, eerste lid, van de WAO, is het WW-dagloon het in de eerste zin van het in het tweede lid bedoelde WAO-dagloon respectievelijk het in het zesde lid bedoelde, WAO-vervolgdagloon.   
 6.  Indien de arbeidsongeschiktheidsuitkering laatstelijk was gebaseerd op een WAO-vervolgdagloon wordt bij de toepassing van het eerste, tweede, vierde en vijfde lid voor «WAO-dagloon» gelezen: WAO-vervolgdagloon.   
-7.  Voor de toepassing van het eerste en tweede lid wordt met het ontvangen van een uitkering op grond van de [WAO](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) gelijkgesteld: het zouden hebben ontvangen van een dergelijke uitkering indien de [artikelen 25](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), [28](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), [30](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) of [33 van de WAO](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) niet van toepassing zouden zijn geweest.   
-8.  Dit artikel is niet van toepassing zolang bij de vaststelling van de mate van arbeidsongeschiktheid of bij de toepassing van [artikel 44 WAO](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) rekening wordt gehouden met de arbeid die de werknemer na het intreden van zijn arbeidsongeschiktheid heeft verricht in de dienstbetrekking waaruit hij werkloos is geworden.   
-9.  De dagloonvaststelling op grond van het eerste lid is van overeenkomstige toepassing op de werknemer die voorafgaande aan de eerste werkloosheidsdag een arbeidsongeschiktheidsuitkering op grond van de [Wet WIA](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) ontvangt.  
+7.  Voor de toepassing van het eerste en tweede lid wordt met het ontvangen van een uitkering op grond van de WAO gelijkgesteld: het zouden hebben ontvangen van een dergelijke uitkering indien de artikelen 25, 28, 30 of 33 van de WAO niet van toepassing zouden zijn geweest.   
+8.  Dit artikel is niet van toepassing zolang bij de vaststelling van de mate van arbeidsongeschiktheid of bij de toepassing van artikel 44 WAO rekening wordt gehouden met de arbeid die de werknemer na het intreden van zijn arbeidsongeschiktheid heeft verricht in de dienstbetrekking waaruit hij werkloos is geworden.   
+9.  De dagloonvaststelling op grond van het eerste lid is van overeenkomstige toepassing op de werknemer die voorafgaande aan de eerste werkloosheidsdag een arbeidsongeschiktheidsuitkering op grond van de Wet WIA ontvangt.  
 
 ### Artikel  9  
 
@@ -179,9 +179,9 @@ b. gedurende het aangiftetijdvak, bedoeld in het eerste lid, het te vervangen lo
 
 1.  In afwijking van artikel 8, tweede tot en met vierde lid, vindt de evenredige verlaging bij vaststelling respectievelijk hernieuwde vaststelling plaats overeenkomstig het tweede lid indien: 
 
-a. de werknemer zijn recht op uitkering op grond van de [WW](../../../../wet/werkloosheidswet/BWBR0004045/README.md) ontleent aan artikel 65, eerste lid of vijfde lid, onderdeel a, van Verordening (EG) nr. 883/2004 van het Europees Parlement en de Raad van 29 april 2004 betreffende de coördinatie van de socialezekerheidsstelsels (PbEU L 166);  
+a. de werknemer zijn recht op uitkering op grond van de WW ontleent aan artikel 65, eerste lid of vijfde lid, onderdeel a, van Verordening (EG) nr. 883/2004 van het Europees Parlement en de Raad van 29 april 2004 betreffende de coördinatie van de socialezekerheidsstelsels (PbEU L 166);  
 
-b. aan de werknemer op grond van die verordening overeenkomstig de bepalingen van de [WAO](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) een arbeidsongeschiktheidsuitkering is toegekend, waarvan het bedrag is bepaald naar de verhouding tussen enerzijds de duur van de Nederlandse verzekering en anderzijds de totale duur van: 
+b. aan de werknemer op grond van die verordening overeenkomstig de bepalingen van de WAO een arbeidsongeschiktheidsuitkering is toegekend, waarvan het bedrag is bepaald naar de verhouding tussen enerzijds de duur van de Nederlandse verzekering en anderzijds de totale duur van: 
 
 1°. de tijdvakken van Nederlandse verzekering; en  
 
@@ -194,7 +194,7 @@ c. de werknemer geen recht heeft op toekenning van een invaliditeitsuitkering va
 
 ####WW-dagloon bij opeenvolgend arbeidsurenverlies binnen het refertejaar uit dezelfde dienstbetrekking
 
-Het WW-dagloon van de werknemer, op wie in verband met opeenvolgende verliezen van arbeidsuren in dezelfde dienstbetrekking [artikel 3 van het Besluit nadere regeling verlies van arbeidsuren](../../../../AMvB/besluit/nadere/regeling/verlies/van/arbeidsuren/BWBR0004096/README.md) van toepassing is, wordt vastgesteld door de berekening op grond van artikel 5, eerste lid, te vervangen door: (A + B) x C / Dwaarbij: A staat voor het dagloon dat ten grondslag ligt aan de uitkering ter zake van zijn arbeidsurenverlies waarbij op grond van [artikel 3 van het Besluit nadere regeling verlies van arbeidsuren](../../../../AMvB/besluit/nadere/regeling/verlies/van/arbeidsuren/BWBR0004096/README.md) een daaropvolgend arbeidsurenverlies wordt samengeteld; B staat voor de evenredige verhoging van het dagloon, in de mate waarin het minimumloon in de periode bedoeld in C is herzien; C staat voor het gemiddelde aantal arbeidsuren in de kalenderweek van het voorgaande arbeidsurenverlies tot en met de kalenderweek voorafgaande aan die waarin het volgende arbeidsurenverlies plaatsvindt; en D staat voor het gemiddelde aantal arbeidsuren voorafgaande aan het voorgaande arbeidsurenverlies.
+Het WW-dagloon van de werknemer, op wie in verband met opeenvolgende verliezen van arbeidsuren in dezelfde dienstbetrekking artikel 3 van het Besluit nadere regeling verlies van arbeidsuren van toepassing is, wordt vastgesteld door de berekening op grond van artikel 5, eerste lid, te vervangen door: (A + B) x C / Dwaarbij: A staat voor het dagloon dat ten grondslag ligt aan de uitkering ter zake van zijn arbeidsurenverlies waarbij op grond van artikel 3 van het Besluit nadere regeling verlies van arbeidsuren een daaropvolgend arbeidsurenverlies wordt samengeteld; B staat voor de evenredige verhoging van het dagloon, in de mate waarin het minimumloon in de periode bedoeld in C is herzien; C staat voor het gemiddelde aantal arbeidsuren in de kalenderweek van het voorgaande arbeidsurenverlies tot en met de kalenderweek voorafgaande aan die waarin het volgende arbeidsurenverlies plaatsvindt; en D staat voor het gemiddelde aantal arbeidsuren voorafgaande aan het voorgaande arbeidsurenverlies.
 
 ### Artikel  11  
 
@@ -204,7 +204,7 @@ Het WW-dagloon van de werknemer, die aantoont dat zijn per tijdseenheid overeeng
 
 ### Artikel  12  
 
-####Algemene dagloongarantie [WW](../../../../wet/werkloosheidswet/BWBR0004045/README.md)
+####Algemene dagloongarantie WW
 
 1.  Het WW-dagloon van de werknemer die binnen 24 maanden na de dag van beëindiging van een eerdere dienstbetrekking, waaruit hij een WW-uitkering heeft ontvangen, een andere dienstbetrekking is aangegaan, wordt, bij beëindiging van deze nieuwe dienstbetrekking binnen 36 maanden na die eerdere beëindiging, niet lager vastgesteld dan op het WW-dagloon dat gold vanwege die eerdere dienstbetrekking. Het dagloon wordt in aanmerking genomen naar de mate waarin de nieuwe dienstbetrekking in de plaats is gekomen van de eerdere dienstbetrekking.   
 2.  De in het eerste lid genoemde termijn van 24 maanden wordt verlengd met in deze periode gelegen perioden van ziekte.   
@@ -216,42 +216,184 @@ a. verwijtbare werkloosheid van de werknemer;
 
 b. het bereiken van de leeftijd waarop het uit deze dienstbetrekking voortvloeiende ouderdomspensioen aanvangt.    
 
+### Hoofdstuk  2a  
+
+####Bepalingen voor vaststelling van dagloon ZW en Wazo
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+### Artikel  12a  
+
+####Werknemer
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+Voor de toepassing van dit hoofdstuk wordt verstaan onder werknemer: 
+
+a. de werknemer, bedoeld in de eerste afdeling, paragraaf 2, van de ZW; en  
+
+b. de werknemer en de gelijkgestelde, bedoeld in artikel 3:6, eerste lid, onderdeel a en b, en tweede lid, van de Wazo.   
+
+### Artikel  12b  
+
+####Referteperiode voor ZW en Wazo
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Onder referteperiode wordt in dit hoofdstuk verstaan de periode van een jaar die eindigt op de laatste dag van het tweede aangiftetijdvak voorafgaande aan het aangiftetijdvak waarin de ziekte is ingetreden of waarin het recht op grond van hoofdstuk 3, afdeling 2, paragraaf 1 van de Wazo is ontstaan.   
+2.  In afwijking van het eerste lid eindigt de referteperiode op de laatste dag van het tweede aangiftetijdvak voorafgaande aan het aangiftetijdvak waarin de dienstbetrekking is geëindigd, indien de dienstbetrekking eindigt door wederzijds goedvinden van partijen of opzegging, zonder inachtneming van de geldende opzegtermijn, en: 
+
+a. de werknemer een vergoeding wegens de beëindiging van de dienstbetrekking of vergoeding op grond van artikel 672, negende lid of artikel 677, tweede lid, van Boek 7 van het Burgerlijk Wetboek heeft ontvangen waardoor het arbeidsurenverlies, bedoeld in artikel 16, eerste lid, van de WW, op een later moment intreedt dan het moment waarop de dienstbetrekking eindigt; en  
+
+b. de datum van eindiging van die dienstbetrekking is gelegen voor het einde van de referteperiode, bedoeld in het eerste lid.     
+3.  Bij het vaststellen van het ZW-dagloon van de persoon, wiens aanspraak op ziekengeld berust op artikel 46 van de ZW eindigt de referteperiode, in afwijking van het eerste lid, op de laatste dag van het tweede aangiftetijdvak voorafgaand aan het aangiftetijdvak waarin de verzekering is geëindigd.   
+4.  Bij het vaststellen van het Wazo-dagloon van de persoon, wiens aanspraak op uitkering berust op artikel 3:10 van de Wazo eindigt de referteperiode, in afwijking van het eerste lid, op de laatste dag van het tweede aangiftetijdvak voorafgaand aan het aangiftetijdvak waarin de verzekering is geëindigd.  
+
+### Artikel  12c  
+
+####Loonbegrip voor ZW en Wazo
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Onder loon wordt in dit hoofdstuk verstaan loon in de zin van artikel 16 van de Wfsv, genoten in de referteperiode uit de dienstbetrekking waaruit de werknemer ziek is geworden of waaruit het recht op uitkering op grond van hoofdstuk 3, afdeling 2, paragraaf 1, van de Wazo is ontstaan, met dien verstande dat niet onder loon worden begrepen: 
+
+a. uitkeringen op grond van de Wet WIA, de WAO, de WW en de uitkeringen die naar aard en strekking met deze uitkeringen overeenkomen, met uitzondering van een uitkering op grond van artikel 18 van de WW;  
+
+b. de aanvullingen en de toeslagen op grond van de Toeslagenwet, bedoeld in artikel 16, tweede lid, onderdeel a, van de Wfsv op de uitkeringen die niet onder loon worden begrepen genoemd in onderdeel a;  
+
+c. een eindheffingsbestanddeel als bedoeld in artikel 31, eerste lid, onderdeel a, van de Wet op de loonbelasting 1964 ten aanzien waarvan de werkgever met toestemming van de inspecteur van de rijksbelastingdienst geen correctiebericht als bedoeld in artikel 28a van de laatstgenoemde wet heeft ingediend; en  
+
+d. een uitkering die de werknemer heeft genoten op grond van de aanspraak, bedoeld in artikel 39d van de Wet op de loonbelasting 1964, zonder dat er sprake is van onbetaald extra verlof.     
+2.  In dit hoofdstuk wordt onder loon tevens verstaan de som van het loon, bedoeld in het eerste lid, genoten in de referteperiode uit elkaar opvolgende dienstbetrekkingen bij dezelfde werkgever indien: 
+
+a. ten aanzien van al deze dienstbetrekkingen een schriftelijk beding als bedoeld in artikel 691, tweede lid, van Boek 7 van het Burgerlijk Wetboek was opgenomen;  
+
+b. al deze dienstbetrekkingen van rechtswege zijn geëindigd door inroeping van dat beding; en  
+
+c. de werknemer gedurende de tussen de elkaar opvolgende dienstbetrekkingen liggende dagen recht op ziekengeld had.   Indien de vorige zin van toepassing is dan geldt tevens als loon het ziekengeld dat is uitgekeerd gedurende de tussen elkaar opvolgende dienstbetrekkingen liggende dagen.   
+3.  In dit hoofdstuk wordt onder loon tevens verstaan de som van het loon, bedoeld in het eerste en tweede lid, indien de werknemer bij één werkgever als bedoeld in artikel 690 van Boek 7 van het Burgerlijk Wetboek, meer elkaar opvolgende dienstbetrekkingen als bedoeld in artikel 691 van Boek 7 van het Burgerlijk Wetboek, heeft gehad en deze dienstbetrekkingen in de loonaangifte vanaf de aanvang van de eerste dienstbetrekking worden aangemerkt als één inkomstenverhouding.  
+
+### Artikel  12d  
+
+####Algemene bepalingen over het loon voor ZW en Wazo
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Voor de toepassing van dit hoofdstuk wordt de werknemer geacht zijn loon te hebben genoten in het aangiftetijdvak waarover de werkgever van dat loon opgave heeft gedaan.   
+2.  Onder loon als bedoeld in artikel 12c wordt mede begrepen loon uit de dienstbetrekking waaruit de werknemer ziek is geworden of waaruit het recht op uitkering op grond van hoofdstuk 3, afdeling 2, paragraaf 1, van de Wazo is ontstaan, en uit de daaraan voorafgaande dienstbetrekkingen, bedoeld in artikel 12c, tweede en derde lid, waarvan de werknemer aantoont dat dit in de referteperiode vorderbaar maar niet tevens inbaar is geworden. Voor de toepassing van dit hoofdstuk wordt de werknemer geacht dit loon te hebben genoten in het aangiftetijdvak waarin het vorderbaar is geworden. Indien in de referteperiode een uitkering is genoten, waarbij in het dagloon loon als bedoeld in de eerste zin is meegerekend, wordt, indien van dat loon in de referteperiode opgave is gedaan, dat loon bij de dagloonberekening buiten beschouwing gelaten.  
+
+### Artikel  12e  
+
+####Dagloon voor ZW en de Wazo
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Het dagloon van uitkeringen op grond van de ZW en de Wazo is de uitkomst van de volgende berekening: [(A-B) x 108/100 + C] / D waarbij: A staat voor het loon dat de werknemer in de referteperiode heeft genoten bij een werkgever die vakantiebijslag reserveert; B staat voor de bedragen aan vakantiebijslag die de werknemer in de referteperiode heeft genoten; C staat voor het loon dat de werknemer in de referteperiode heeft genoten bij een werkgever die geen vakantiebijslag reserveert; en D staat voor 261 dan wel, indien de dienstbetrekking waaruit de werknemer ziek is geworden of waaruit recht op uitkering op grond van hoofdstuk 3, afdeling 2, paragraaf 1, van de Wazo is ontstaan, is aangevangen na aanvang van de referteperiode, voor het aantal dagloondagen vanaf en met inbegrip van de dag waarop de dienstbetrekking is aangevangen tot en met de laatste dag van de referteperiode.   
+2.  In een gebroken aangiftetijdvak worden de factoren A, B en C berekend door het loon of de vakantiebijslag in dat tijdvak te vermenigvuldigen met de breuk Y/Z. Waarbij: Z staat voor het aantal dagloondagen in het gebroken aangiftetijdvak binnen de dienstbetrekking of de uitkeringsverhouding; en Y staat voor het aantal dagloondagen van Z dat binnen de referteperiode valt. Indien Z nul is, wordt de uitkomst van deze berekening op nihil gesteld.   
+3.  Voor de toepassing van het eerste en tweede lid wordt onder een werkgever die geen vakantiebijslag reserveert een werkgever verstaan die: 
+
+a. de vakantiebijslag periodiek bij iedere loonbetaling uitbetaalt;  
+
+b. de vakantiebijslag als onderdeel van het periodieke loon betaalt; of  
+
+c. de vakantiebijslag voldoet overeenkomstig artikel 18, eerste lid, van de WML.     
+4.  D staat, indien de dienstbetrekking waaruit de werknemer ziek is geworden of waaruit het recht op uitkering op grond van hoofdstuk 3, afdeling 2, paragraaf 1, van de Wazo is ontstaan, één of meer aangiftetijdvakken kent waarin geen loon is genoten anders dan vanwege verlof, arbeidsongeschiktheid of ziekte, in afwijking van het eerste lid, voor het aantal dagloondagen van de aangiftetijdvakken waarin wel loon is genoten.   
+5.  D staat, indien de dienstbetrekking waaruit de werknemer ziek is geworden of waaruit het recht op uitkering op grond van hoofdstuk 3, afdeling 2, paragraaf 1, van de Wazo is ontstaan, is aangevangen na afloop van de referteperiode, in afwijking van het eerste lid, voor het aantal dagloondagen vanaf en met inbegrip van de dag waarop de dienstbetrekking is aangevangen tot de dag waarop de ziekte is ingetreden of de dag waarop het recht op een uitkering op grond van hoofdstuk 3, afdeling 2, paragraaf 1, van de Wazo is ontstaan en A, B en C staan in dat geval, in zoverre in afwijking van artikel 12c, voor het loon respectievelijk de vakantiebijslag genoten in deze dienstbetrekking. Dit lid is van overeenkomstige toepassing op de situatie, bedoeld in artikel 12c, tweede en derde lid.   
+6.  Indien artikel 12c, tweede of derde lid, van toepassing is, staat C tevens voor het ziekengeld uitgekeerd tussen de elkaar opvolgende dienstbetrekkingen, bedoeld in dat tweede of derde lid, en staat D voor het aantal dagloondagen vanaf en met inbegrip van de dag waarop de eerste van de elkaar opvolgende dienstbetrekkingen, bedoeld in dat tweede of derde lid, is aangevangen tot en met de laatste dag van de referteperiode.   
+7.  Indien het aantal dagloondagen nul is, dan is het dagloon, in afwijking van het eerste lid, de uitkomst van de volgende berekening: E/F waarbij: E staat voor het overeengekomen loon in het aangiftetijdvak waarin de ziekte is ingetreden of waarin het recht op uitkering op grond van hoofdstuk 3, afdeling 2, paragraaf 1, van de Wazo is ontstaan; en F staat voor het aantal dagloondagen in het aangiftetijdvak waarin de ziekte is ingetreden of waarin het recht op uitkering op grond van hoofdstuk 3, afdeling 2, paragraaf 1, van de Wazo is ontstaan dan wel, indien het een aangiftetijdvak van een maand betreft, voor 21,75.  
+
+### Artikel  12f  
+
+####Loon in geval van ziekte of verlof tijdens een dienstbetrekking
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Indien de werknemer in een aangiftetijdvak geen loon of minder loon heeft genoten in verband met verlof of omdat hij de bedongen arbeid niet heeft verricht in verband met ziekte, wordt bij de berekening van het dagloon, bedoeld in 12e, eerste lid, als loon in dat aangiftetijdvak in aanmerking genomen het loon, genoten in dezelfde dienstbetrekking of in de opvolgende dienstbetrekkingen als bedoeld in artikel 12c, derde lid, in het laatste aan dat verlof of die ziekte, voorafgaande en volledig in de referteperiode gelegen aangiftetijdvak, waarin die omstandigheid zich niet heeft voorgedaan.   
+2.  Indien er geen voorafgaand aangiftetijdvak als bedoeld in het eerste lid is, wordt bij de berekening van het dagloon, bedoeld in artikel 12e, eerste lid, het loon in aanmerking genomen uit dezelfde dienstbetrekking of uit de opvolgende dienstbetrekkingen als bedoel in artikel 12c, derde lid, over het aangiftetijdvak direct na afloop van dat verlof of die ziekte, indien: 
+
+a. dat aangiftetijdvak geheel is gelegen in de referteperiode; en  
+
+b. de werknemer gedurende het volledige aangiftetijdvak in dienstbetrekking tot de desbetreffende werkgever stond.     
+3.  Indien er geen aangiftetijdvak is als bedoeld in het eerste of tweede lid, wordt voor ieder in de referteperiode gelegen aangiftetijdvak waarin door de werknemer geen of minder loon is genoten in verband met de in het eerste lid genoemde omstandigheden, bij de berekening van het dagloon het per aangiftetijdvak geldende overeengekomen loon in aanmerking genomen.   
+4.  Dit artikel blijft buiten toepassing indien: 
+
+a. de toepassing van dit artikel leidt tot een lager dagloon; of  
+
+b. gedurende het aangiftetijdvak, bedoeld in het eerste lid, het te vervangen loon mede bestaat uit een uitkering op grond van de ZW, vanwege de omstandigheden, bedoeld in het eerste lid.    
+
+### Artikel  12g  
+
+####ZW-dagloon na eerder recht op uitkering
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  In afwijking van de artikelen 12b tot en met 12f wordt het ZW-dagloon van de persoon, wiens aanspraak op ziekengeld berust op artikel 46 van de ZW, die tevens laatstelijk verzekerd was op grond van artikel 7 van die wet, vastgesteld op het vastgestelde en herziene WW-dagloon.   
+2.  In afwijking van het eerste lid wordt het ZW-dagloon vastgesteld op 100/70 keer de gemiddelde WW-uitkering per werkdag waarop recht bestond in de kalendermaand voorafgaande aan de kalendermaand waarin de dag na de dag waarop het recht op een uitkering op grond van de WW is geëindigd, ligt, indien met de WW-uitkering in die voorafgaande kalendermaand inkomen als bedoeld in artikel 1b van die wet is verrekend.   
+3.  In afwijking van de artikelen 12b tot en met 12f wordt het ZW-dagloon van de persoon, wiens aanspraak op ziekengeld berust op artikel 46 van de ZW, die tevens laatstelijk op grond van artikel 8c van de ZW verzekerd was, vastgesteld op het Wazo-dagloon.   
+4.  In afwijking van de artikelen 12b tot en met 12f wordt het ZW-dagloon van de persoon, wiens aanspraak op ziekengeld berust op artikel 46 van de ZW, die tevens laatstelijk verzekerd was op grond van artikel 8 van de ZW, vastgesteld op het voorgaande ZW-dagloon.   
+5.  In afwijking van de artikelen 12b tot en met 12f wordt het ZW-dagloon van de persoon die laatstelijk op grond van artikel 8c van de ZW verzekerd was, vastgesteld op het Wazo-dagloon.  
+
+### Artikel  12h  
+
+####Wazo-dagloon in geval van een voorafgaande reguliere WW, ZW of WIA uitkering
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  In afwijking van de artikelen 12b tot en met 12f, wordt het dagloon van de gelijkgestelde, bedoeld in artikel 3:6, eerste lid, onderdeel b, onder 1°, van de Wazo, die op de dag voorafgaande aan het ontstaan van het recht op een uitkering op grond van de Wazo als werknemer wordt aangemerkt op grond van artikel 7, onderdeel a, van de ZW, vastgesteld op: 
+
+a. het vastgestelde en herziene WW-dagloon, indien met de uitkering op grond van die wet in de kalendermaand voorafgaande aan de kalendermaand waarin het recht op uitkering op grond van de Wazo is ontstaan, geen inkomen als bedoeld in artikel 1b van de WW is verrekend; of  
+
+b. 100/70 keer de gemiddelde uitkering op grond van de WW per werkdag, waarop recht bestond, in de laatste kalendermaand voorafgaande aan de kalendermaand waarin het recht op uitkering op grond van de Wazo is ontstaan, indien met de uitkering op grond van de WW in die laatste kalendermaand inkomen als bedoeld in artikel 1b van die wet is verrekend.     
+2.  In afwijking van de artikelen 12b tot en met 12f, wordt het dagloon van de gelijkgestelde, bedoeld in artikel 3:6, eerste lid, onderdeel b, onder 1°, van de Wazo, die op grond van artikel 8, onderdeel a, van de ZW voorafgaand aan een uitkering op grond van de Wazo ziekengeld ontving, vastgesteld op: 
+
+a. het vastgestelde en herziene ZW-dagloon, indien met de uitkering op grond van die wet in de vier kalenderweken voorafgaande aan de uitkering op grond van de Wazo, geen inkomen op grond van artikel 31 van de ZW is verrekend; of  
+
+b. 100/A van het ziekengeld per dag over de vier kalenderweken voorafgaande aan de Wazo-uitkering, indien er met de uitkering op grond van die wet in de vier kalenderweken voorafgaand aan een uitkering op grond van de Wazo inkomen is verrekend op grond van artikel 31 van de ZW. Daarbij staat A voor het uitkeringpercentage van de uitkering op grond van de ZW.     
+3.  Indien de gelijkgestelde, bedoeld in het tweede lid, recht had op ziekengeld, omdat hij op de eerste dag dat hij zijn arbeid niet kon verrichten vanwege ziekte op grond van artikel 7, onderdeel a, van de ZW als werknemer werd aangemerkt, wordt, in afwijking van het tweede lid, het dagloon vastgesteld op: 
+
+a. het vastgestelde en herziene WW-dagloon, indien met de uitkering op grond van de ZW in de kalendermaand voorafgaande aan de kalendermaand waarin het recht op uitkering op grond van de Wazo is ontstaan, geen inkomen als bedoeld in artikel 1b van de WW is verrekend; of  
+
+b. 100/70 keer de gemiddelde uitkering op grond van de ZW per dag, waarop recht bestond, in de laatste kalendermaand voorafgaande aan de kalendermaand waarin het recht op uitkering op grond van de Wazo is ontstaan, indien met de uitkering op grond van de ZW in die laatste kalendermaand inkomen als bedoeld in artikel 1b van de WW is verrekend.     
+4.  Voor de gelijkgestelde, bedoeld in artikel 3:6, eerste lid, onderdeel b, onder 2°, van de Wazo, is het dagloon, in afwijking van de artikelen 12b tot en met 12f, gelijk aan het reeds vastgestelde en herziene WIA-dagloon. Indien voor de gelijkgestelde, bedoeld in de eerste zin, bij het vaststellen van de hoogte van de loongerelateerde uitkering van de werkhervattingsuitkering gedeeltelijk arbeidsgeschikten op grond van artikel 61 van de Wet WIA rekening werd gehouden met inkomen, wordt het Wazo-dagloon, vastgesteld op 100/70 keer de gemiddelde uitkering per dag in de laatste kalendermaand voorafgaande aan de kalendermaand waarin het recht op uitkering op grond van de Wazo is ontstaan.   
+5.  In afwijking van de artikelen 12b tot en met 12f, wordt het dagloon voor de werknemer en de gelijkgestelde, bedoeld in artikel 3:6, tweede lid, van de Wazo vastgesteld overeenkomstig artikel 68 van de ZW en de regels op grond van artikel 71, onderdeel c, van die wet.   
+6.  Dit artikel is van overeenkomstige toepassing voor de persoon die recht heeft op een Wazo-uitkering op grond van artikel 3:10 van de Wazo.  
+
 ### Hoofdstuk  3  
 
-####Bepalingen voor vaststelling van dagloon [Wet WIA](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) en [WAO](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md)
+####Bepalingen voor vaststelling van dagloon Wet WIA en WAO
 
 ### Artikel  13  
 
-####Refertejaar voor [Wet WIA](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) en [WAO](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md)
+####Refertejaar voor Wet WIA en WAO
 
 1.  Onder refertejaar wordt in dit hoofdstuk de periode verstaan van één jaar die eindigt op de laatste dag van het aangiftetijdvak voorafgaande aan het aangiftetijdvak waarin de arbeidsongeschiktheid is ingetreden, of die eindigt, in geval de arbeidsongeschiktheid is ingetreden in gelijktijdige dienstbetrekkingen, op de laatste dag van het aangiftetijdvak dat het eerst voor het intreden van de arbeidsongeschiktheid is geëindigd.   
-2.  Indien [artikel 40, eerste lid, van de WAO](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) van toepassing is, is artikel 40, tweede lid, van de WAO van overeenkomstige toepassing.   
-3.  Het refertejaar eindigt, indien de aanspraak op uitkering berust op [artikel 10 van de Wet WIA](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) of op [artikel 17 van de WAO](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), in afwijking van het eerste lid, op de laatste dag van het aangiftetijdvak voorafgaand aan het aangiftetijdvak waarin de verzekering is geëindigd.  
+2.  Indien artikel 40, eerste lid, van de WAO van toepassing is, is artikel 40, tweede lid, van de WAO van overeenkomstige toepassing.   
+3.  Het refertejaar eindigt, indien de aanspraak op uitkering berust op artikel 10 van de Wet WIA of op artikel 17 van de WAO, in afwijking van het eerste lid, op de laatste dag van het aangiftetijdvak voorafgaand aan het aangiftetijdvak waarin de verzekering is geëindigd.  
 
 ### Artikel  14  
 
-####Loonbegrip voor [Wet WIA](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) en [WAO](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md)
+####Loonbegrip voor Wet WIA en WAO
 
-Onder loon wordt in dit hoofdstuk verstaan loon in de zin van [artikel 16 van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) met dien verstande dat niet onder loon wordt begrepen: 
+Onder loon wordt in dit hoofdstuk verstaan loon in de zin van artikel 16 van de Wfsv met dien verstande dat niet onder loon wordt begrepen: 
 
-a. de toeslagen en aanvullingen, bedoeld in [artikel 16, tweede lid, onderdeel a, van die wet](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md);  
+a. de toeslagen en aanvullingen, bedoeld in artikel 16, tweede lid, onderdeel a, van die wet;  
 
-b. een eindheffingsbestanddeel als bedoeld in [artikel 31, eerste lid, onderdeel a, van de Wet op de loonbelasting 1964](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) ten aanzien waarvan de werkgever met toestemming van de inspecteur van de rijksbelastingdienst geen correctiebericht als bedoeld in [artikel 28a van de laatstgenoemde wet](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) heeft ingediend; en  
+b. een eindheffingsbestanddeel als bedoeld in artikel 31, eerste lid, onderdeel a, van de Wet op de loonbelasting 1964 ten aanzien waarvan de werkgever met toestemming van de inspecteur van de rijksbelastingdienst geen correctiebericht als bedoeld in artikel 28a van de laatstgenoemde wet heeft ingediend; en  
 
-c. een uitkering die de werknemer heeft genoten op grond van de aanspraak, bedoeld in [artikel 39d van de Wet op de loonbelasting 1964](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), zonder dat er sprake is van onbetaald extra verlof.   
+c. een uitkering die de werknemer heeft genoten op grond van de aanspraak, bedoeld in artikel 39d van de Wet op de loonbelasting 1964, zonder dat er sprake is van onbetaald extra verlof.   
 
 ### Artikel  15  
 
-####Algemene bepalingen over het loon voor [Wet WIA](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) en [WAO](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md)
+####Algemene bepalingen over het loon voor Wet WIA en WAO
 
 1.  Voor de toepassing van dit hoofdstuk wordt de werknemer geacht zijn loon te hebben genoten in het aangiftetijdvak waarover een werkgever van dat loon opgave heeft gedaan.   
 2.  Onder loon als bedoeld in artikel 14 wordt mede begrepen het loon waarvan de werknemer aantoont dat dit in het refertejaar vorderbaar maar niet tevens inbaar is geworden. Voor de toepassing van dit hoofdstuk wordt de werknemer geacht dit loon te hebben genoten in het aangiftetijdvak waarin het vorderbaar is geworden. Indien in het refertejaar een uitkering is genoten, waarbij in het dagloon loon als bedoeld in de eerste zin is meegerekend, wordt, indien van dat loon in het refertejaar opgave is gedaan, dat loon bij de dagloonberekening buiten beschouwing gelaten.  
 
 ### Artikel  16  
 
-####Dagloon voor [Wet WIA](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) en [WAO](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md)
+####Dagloon voor Wet WIA en WAO
 
-1.  Het dagloon van uitkeringen op grond van de [Wet WIA](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) en de [WAO](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) is de uitkomst van de volgende berekening: [(A–B) x 108/100 + C] / D waarbij: A staat voor het loon dat de werknemer in het refertejaar heeft genoten bij een werkgever die vakantiebijslag reserveert; B staat voor de bedragen aan vakantiebijslag die de werknemer in het refertejaar heeft genoten; C staat voor het loon dat de werknemer in het refertejaar heeft genoten bij een werkgever die geen vakantiebijslag reserveert; en D staat voor 261.   
+1.  Het dagloon van uitkeringen op grond van de Wet WIA en de WAO is de uitkomst van de volgende berekening: [(A–B) x 108/100 + C] / D waarbij: A staat voor het loon dat de werknemer in het refertejaar heeft genoten bij een werkgever die vakantiebijslag reserveert; B staat voor de bedragen aan vakantiebijslag die de werknemer in het refertejaar heeft genoten; C staat voor het loon dat de werknemer in het refertejaar heeft genoten bij een werkgever die geen vakantiebijslag reserveert; en D staat voor 261.   
 2.  De factoren A, B en C, die bij de berekening van een gebroken aangiftetijdvak in aanmerking worden genomen, worden verkregen door het loon respectievelijk de vakantiebijslag over het desbetreffende gebroken loonaangiftetijdvak te vermenigvuldigen met de breuk Y/Z waarbij: Y staat voor het aantal binnen het refertejaar gelegen dagloondagen in het gebroken aangiftetijdvak waarop de werknemer in dienstbetrekking is; en Z staat voor het totale aantal dagloondagen in het gebroken aangiftetijdvak waarop de werknemer in dienstbetrekking is. Indien Z nul is, wordt de uitkomst van deze berekening op nihil gesteld.   
 3.  Voor de toepassing van het eerste en tweede lid wordt onder een werkgever die geen vakantiebijslag reserveert een werkgever verstaan die: 
 
@@ -259,16 +401,16 @@ a. de vakantiebijslag periodiek bij iedere loonbetaling uitbetaalt;
 
 b. de vakantiebijslag als onderdeel van het periodieke loon betaalt; of  
 
-c. de vakantiebijslag voldoet overeenkomstig [artikel 18, eerste lid, van de WML](../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md).     
+c. de vakantiebijslag voldoet overeenkomstig artikel 18, eerste lid, van de WML.     
 4.  Indien het loon in het refertejaar geheel of gedeeltelijk heeft bestaan uit een uitkering wordt voor de toepassing van het eerste lid het bedrag van de uitkering gesteld op de uitkomst van de volgende berekening: ((100 x E) / F) waarbij: E staat voor de uitkering; en F staat voor: 
 
 a. 70, dan wel  
 
-b. indien het uitkeringspercentage op grond van de [ZW](../../../../wet/ziektewet/BWBR0001888/README.md), [hoofdstuk IV van de WW](../../../../wet/werkloosheidswet/BWBR0004045/README.md), de [WAO](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), [hoofdstuk 6 van de Wet WIA](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) of van [hoofdstuk 3, afdeling 2, paragraaf 1, van de Wazo](../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md) hoger is dan 70, het uitkeringspercentage waarnaar de uitkering is berekend; of  
+b. indien het uitkeringspercentage op grond van de ZW, hoofdstuk IV van de WW, de WAO, hoofdstuk 6 van de Wet WIA of van hoofdstuk 3, afdeling 2, paragraaf 1, van de Wazo hoger is dan 70, het uitkeringspercentage waarnaar de uitkering is berekend; of  
 
-c. 100, indien [artikel 53](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) of [63 van de Wet WIA](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) van toepassing is, dan wel  
+c. 100, indien artikel 53 of 63 van de Wet WIA van toepassing is, dan wel  
 
-d. indien de teller van de factor, bedoeld in [artikel 53](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) of [63 van de Wet WIA](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) lager is, de waarde van die teller.     
+d. indien de teller van de factor, bedoeld in artikel 53 of 63 van de Wet WIA lager is, de waarde van die teller.     
 5.  Voor zover het vierde lid van toepassing is, wordt voor de toepassing van het eerste lid, het bedrag van de vakantiebijslag behorende bij de uitkeringen bedoeld in het vierde lid, gesteld op de uitkomst van de volgende berekening: (100 x G) / H waarbij: G staat voor de vakantiebijslag die in het in aanmerking te nemen tijdvak is genoten; en H gelijk is aan de factor F, bedoeld in het vierde lid.   
 6.  Indien de dienstbetrekking is geëindigd door ontbinding door de kantonrechter, wederzijds goedvinden van partijen, of opzegging, zonder inachtneming van de geldende opzegtermijn, en de werknemer schadeloosstelling of vergoeding wegens beëindiging van een dienstbetrekking heeft ontvangen waardoor het arbeidsurenverlies op een later moment intreedt dan het moment waarop de dienstbetrekking eindigt, wordt voor de toepassing van het eerste lid factor D verminderd met het aantal dagloondagen gedurende de periode tussen het einde van de dienstbetrekking en het intreden van het arbeidsurenverlies, voor zover die periode in het refertejaar ligt, en worden de factoren A, B en C verminderd met al het loon genoten in de aangiftetijdvakken die volledig liggen binnen die periode.  
 
@@ -302,19 +444,19 @@ b. gedurende het aangiftetijdvak, bedoeld in het eerste lid, het te vervangen lo
 
 ####WIA-dagloongarantie voor oudere arbeidsongeschikten
 
-Indien een werknemer, die recht heeft op een uitkering op grond van de [WAO](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) of de [Wet WIA](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), op of na de dag waarop hij de leeftijd van 45 jaar heeft bereikt, met arbeid inkomen is gaan verwerven in verband waarmee zijn uitkering op grond van de WAO of de Wet WIA is beëindigd, binnen vijf jaar na de datum waarop die uitkering is beëindigd recht heeft op een uitkering op grond van de Wet WIA, wordt het WIA-dagloon niet lager vastgesteld dan het WAO- of WIA-dagloon van de laatstelijk ontvangen uitkering op grond van de WAO of de Wet WIA. Het dagloon van de laatstelijk ontvangen uitkering als bedoeld in de eerste zin, wordt in aanmerking genomen, zoals dat zou zijn herzien vanaf de datum van beëindiging tot aan de datum van het nieuwe recht op uitkering op grond van [artikel 15, eerste lid, van de WAO](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), dan wel [artikel 14, eerste lid, van de Wet WIA](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) indien de uitkering op grond van de WAO of de Wet WIA niet zou zijn beëindigd. 
+Indien een werknemer, die recht heeft op een uitkering op grond van de WAO of de Wet WIA, op of na de dag waarop hij de leeftijd van 45 jaar heeft bereikt, met arbeid inkomen is gaan verwerven in verband waarmee zijn uitkering op grond van de WAO of de Wet WIA is beëindigd, binnen vijf jaar na de datum waarop die uitkering is beëindigd recht heeft op een uitkering op grond van de Wet WIA, wordt het WIA-dagloon niet lager vastgesteld dan het WAO- of WIA-dagloon van de laatstelijk ontvangen uitkering op grond van de WAO of de Wet WIA. Het dagloon van de laatstelijk ontvangen uitkering als bedoeld in de eerste zin, wordt in aanmerking genomen, zoals dat zou zijn herzien vanaf de datum van beëindiging tot aan de datum van het nieuwe recht op uitkering op grond van artikel 15, eerste lid, van de WAO, dan wel artikel 14, eerste lid, van de Wet WIA indien de uitkering op grond van de WAO of de Wet WIA niet zou zijn beëindigd. 
 
 ### Artikel  20  
 
 ####WIA-dagloon bij gedeeltelijke arbeidsongeschiktheid bij aanvang verzekering
 
-Het WIA-dagloon van de werknemer, die gedeeltelijk arbeidsongeschikt is als bedoeld in [artikel 46, derde lid, van de Wet WIA](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), zoals dat artikellid luidde op 31 december 2010, bedraagt ten hoogste het maatmaninkomen, dat op grond van dat artikellid, zoals dat luidde op 31 december 2010, wordt vastgesteld, vermenigvuldigd met het aantal uren van de urenomvang, bedoeld in [artikel 9, onderdeel b, van het Schattingsbesluit arbeidsongeschiktheidswetten](../../../../AMvB/schattingsbesluit/arbeidsongeschiktheidswetten/BWBR0011478/README.md), gedeeld door vijf. 
+Het WIA-dagloon van de werknemer, die gedeeltelijk arbeidsongeschikt is als bedoeld in artikel 46, derde lid, van de Wet WIA, zoals dat artikellid luidde op 31 december 2010, bedraagt ten hoogste het maatmaninkomen, dat op grond van dat artikellid, zoals dat luidde op 31 december 2010, wordt vastgesteld, vermenigvuldigd met het aantal uren van de urenomvang, bedoeld in artikel 9, onderdeel b, van het Schattingsbesluit arbeidsongeschiktheidswetten, gedeeld door vijf. 
 
 ### Artikel  21  
 
 ####WIA-dagloon bij later ontstaan van recht dan einde wachttijd
 
-In de gevallen waarin de [artikelen 48, eerste lid, onderdelen b en c](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), en [55, eerste lid, onderdelen b en c, van de Wet WIA](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) van toepassing zijn, wordt het WIA-dagloon niet lager vastgesteld dan het dagloon dat op grond van de [Wet WIA](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) in aanmerking zou zijn genomen als het recht op uitkering zou zijn ontstaan op de in [artikel 47, tweede lid](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), en [artikel 54, tweede lid van de Wet WIA](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) bedoelde dag, zoals dat dagloon vanaf die dag tot aan de datum van het recht op uitkering op grond van [artikel 14, eerste lid, van de Wet WIA](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) zou zijn herzien, indien het recht op uitkering op grond van de Wet WIA op die dag zou zijn ontstaan. 
+In de gevallen waarin de artikelen 48, eerste lid, onderdelen b en c, en 55, eerste lid, onderdelen b en c, van de Wet WIA van toepassing zijn, wordt het WIA-dagloon niet lager vastgesteld dan het dagloon dat op grond van de Wet WIA in aanmerking zou zijn genomen als het recht op uitkering zou zijn ontstaan op de in artikel 47, tweede lid, en artikel 54, tweede lid van de Wet WIA bedoelde dag, zoals dat dagloon vanaf die dag tot aan de datum van het recht op uitkering op grond van artikel 14, eerste lid, van de Wet WIA zou zijn herzien, indien het recht op uitkering op grond van de Wet WIA op die dag zou zijn ontstaan. 
 
 ### Artikel  22  
 
@@ -330,7 +472,7 @@ Het WIA- of WAO-dagloon van de werknemer, die aantoont dat zijn per tijdseenheid
 
 ####Aanpassing dagloon in verband met herziening minimumloon
 
-Indien het minimumloon is herzien tussen het einde van het refertejaar en de eerste dag waarop recht bestaat op een uitkering op grond van de [ZW](../../../../wet/ziektewet/BWBR0001888/README.md), de [WW](../../../../wet/werkloosheidswet/BWBR0004045/README.md), de [Wet WIA](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) of de [WAO](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) wordt de hoogte van het dagloon zoals berekend op grond van dit besluit aangepast in de mate waarin het minimumloon is herzien. 
+Indien het minimumloon is herzien tussen het einde van het refertejaar en de eerste dag waarop recht bestaat op een uitkering op grond van de ZW, de WW, de Wet WIA of de WAO wordt de hoogte van het dagloon zoals berekend op grond van dit besluit aangepast in de mate waarin het minimumloon is herzien. 
 
 ### Artikel  24  
 
@@ -338,35 +480,35 @@ Indien het minimumloon is herzien tussen het einde van het refertejaar en de eer
 
 1.  Indien de werknemer: 
 
-a. bij aanvang van het refertejaar, bedoeld in artikel 2 of artikel 13, jonger is dan 23 jaar en het op grond van dit besluit berekende dagloon minder bedraagt dan het minimumloon vermeerderd met de vakantiebijslag, bedoeld in [artikel 15 van de WML](../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md), dat behoort bij de leeftijd van de werknemer op de eerste dag waarop recht bestaat op uitkering; of  
+a. bij aanvang van het refertejaar, bedoeld in artikel 2 of artikel 13, jonger is dan 23 jaar en het op grond van dit besluit berekende dagloon minder bedraagt dan het minimumloon vermeerderd met de vakantiebijslag, bedoeld in artikel 15 van de WML, dat behoort bij de leeftijd van de werknemer op de eerste dag waarop recht bestaat op uitkering; of  
 
-b. op de eerste dag waarop recht bestaat op uitkering jonger is dan 23 jaar en het op grond van de overige artikelen van dit besluit berekende dagloon minder bedraagt dan het minimumloon vermeerderd met de vakantiebijslag, bedoeld in [artikel 15 van de WML](../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md), dat behoort bij de leeftijd van de werknemer bij zijn verjaring,   wordt zijn dagloon op de eerste dag waarop recht bestaat op uitkering respectievelijk telkens bij zijn verjaring verhoogd door het dagloon te vermenigvuldigen met: A /B waarbij: A staat voor het minimumjeugdloonpercentage dat verbonden is aan de leeftijd van de werknemer op de eerste dag waarop recht bestaat op uitkering dan wel voor het minimumjeugdloonpercentage dat geldt bij zijn verjaring of indien de werknemer de leeftijd van 23 jaar heeft bereikt, voor 100; en B staat voor het minimumjeugdloonpercentage dat verbonden is aan de leeftijd van de werknemer bij aanvang van het refertejaar dan wel voor het minimumjeugdloonpercentage dat geldt op de laatste dag voor zijn verjaring.   
-2.  Het op grond van dit artikel verhoogde dagloon bedraagt niet meer dan het minimumloon vermeerderd met de vakantiebijslag, bedoeld in [artikel 15 van de WML](../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md) dat behoort bij de leeftijd van de werknemer op de eerste dag waarop recht bestaat op uitkering, dan wel bij de leeftijd van de werknemer bij zijn verjaring.   
+b. op de eerste dag waarop recht bestaat op uitkering jonger is dan 23 jaar en het op grond van de overige artikelen van dit besluit berekende dagloon minder bedraagt dan het minimumloon vermeerderd met de vakantiebijslag, bedoeld in artikel 15 van de WML, dat behoort bij de leeftijd van de werknemer bij zijn verjaring,   wordt zijn dagloon op de eerste dag waarop recht bestaat op uitkering respectievelijk telkens bij zijn verjaring verhoogd door het dagloon te vermenigvuldigen met: A /B waarbij: A staat voor het minimumjeugdloonpercentage dat verbonden is aan de leeftijd van de werknemer op de eerste dag waarop recht bestaat op uitkering dan wel voor het minimumjeugdloonpercentage dat geldt bij zijn verjaring of indien de werknemer de leeftijd van 23 jaar heeft bereikt, voor 100; en B staat voor het minimumjeugdloonpercentage dat verbonden is aan de leeftijd van de werknemer bij aanvang van het refertejaar dan wel voor het minimumjeugdloonpercentage dat geldt op de laatste dag voor zijn verjaring.   
+2.  Het op grond van dit artikel verhoogde dagloon bedraagt niet meer dan het minimumloon vermeerderd met de vakantiebijslag, bedoeld in artikel 15 van de WML dat behoort bij de leeftijd van de werknemer op de eerste dag waarop recht bestaat op uitkering, dan wel bij de leeftijd van de werknemer bij zijn verjaring.   
 3.  Indien bij het vaststellen van het dagloon artikel 18 van toepassing is of indien de dienstbetrekking is aangevangen na aanvang van het refertejaar als bedoeld in artikel 5 wordt bij toepassing van het eerste lid voor «bij aanvang van een refertejaar» gelezen: bij aanvang van de dienstbetrekking.  
 
 ### Artikel  25  
 
 ####Maximering van het dagloon bij samenloop van uitkeringen
 
-1.  Vanaf het moment waarop een werknemer gelijktijdig aanspraak gaat hebben op meer dan een uitkering en de som van de uitkeringen per dag meer bedraagt dan 70% van het bedrag, bedoeld in [artikel 17, eerste lid, tweede zin, van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), met betrekking tot een loontijdvak van een dag, worden de aan die uitkeringen ten grondslag liggende daglonen zodanig vastgesteld of herzien dat de som van de evenredig verlaagde uitkeringen per dag niet meer bedraagt dan 70% van dat bedrag.   
-2.  Indien van een van de uitkeringen, bedoeld in het eerste lid, het uitkeringspercentage hoger is dan 70, wordt de uitkomst van 70% van het bedrag bedoeld in [artikel 17, eerste lid, tweede zin, van de Wfsv](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), met betrekking tot een loontijdvak van een dag, verhoogd met de uitkomst van de volgende berekening: ((A – 70) / 100) x B waarbij: A staat voor het hogere uitkeringspercentage; en B staat voor het dagloon van de uitkering, waarvoor het uitkeringspercentage A geldt voordat dit dagloon is herzien op grond van het eerste lid.   
+1.  Vanaf het moment waarop een werknemer gelijktijdig aanspraak gaat hebben op meer dan een uitkering en de som van de uitkeringen per dag meer bedraagt dan 70% van het bedrag, bedoeld in artikel 17, eerste lid, tweede zin, van de Wfsv, met betrekking tot een loontijdvak van een dag, worden de aan die uitkeringen ten grondslag liggende daglonen zodanig vastgesteld of herzien dat de som van de evenredig verlaagde uitkeringen per dag niet meer bedraagt dan 70% van dat bedrag.   
+2.  Indien van een van de uitkeringen, bedoeld in het eerste lid, het uitkeringspercentage hoger is dan 70, wordt de uitkomst van 70% van het bedrag bedoeld in artikel 17, eerste lid, tweede zin, van de Wfsv, met betrekking tot een loontijdvak van een dag, verhoogd met de uitkomst van de volgende berekening: ((A – 70) / 100) x B waarbij: A staat voor het hogere uitkeringspercentage; en B staat voor het dagloon van de uitkering, waarvoor het uitkeringspercentage A geldt voordat dit dagloon is herzien op grond van het eerste lid.   
 3.  Indien een van de uitkeringen, bedoeld in het eerste of tweede lid, wordt beëindigd wegens het bereiken van de maximale uitkeringsduur, wordt het dagloon van de resterende uitkering of uitkeringen met ingang van de dag van de beëindiging herzien, voor zover van toepassing met inachtneming van het eerste en tweede lid.  
 
 ### Artikel  26  
 
-####Intrekken [Besluit dagloonregels werknemersverzekeringen](../../../../AMvB/besluit/dagloonregels/werknemersverzekeringen/BWBR0018842/README.md)
+####Intrekken Besluit dagloonregels werknemersverzekeringen
 
-1.  Het [Besluit dagloonregels werknemersverzekeringen](../../../../AMvB/besluit/dagloonregels/werknemersverzekeringen/BWBR0018842/README.md) wordt ingetrokken.   
-2.  Het [Besluit dagloonregels werknemersverzekeringen](../../../../AMvB/besluit/dagloonregels/werknemersverzekeringen/BWBR0018842/README.md), zoals dat luidde voor de in het eerste lid bedoelde intrekking blijft van toepassing op uitkeringen als bedoeld in dat besluit waarvan de eerste uitkeringsdag is gelegen voor de datum van intrekking.   
-3.  Indien zich ten aanzien van de uitkeringen, bedoeld in het tweede lid, op of na de inwerkingtreding van dit besluit, een situatie voordoet als bedoeld in [artikel 22 van het Besluit dagloonregels werknemersverzekeringen](../../../../AMvB/besluit/dagloonregels/werknemersverzekeringen/BWBR0018842/README.md), zoals dat luidde voor de in het eerste lid bedoelde intrekking is, in plaats van dat artikel, artikel 25 van dit besluit van toepassing.   
-4.  Onder uitkeringsdag in het tweede lid wordt voor de [WW](../../../../wet/werkloosheidswet/BWBR0004045/README.md) en de [Wet WIA](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) verstaan de dag dat recht op uitbetaling bestaat op grond van respectievelijk [artikel 30 van de WW](../../../../wet/werkloosheidswet/BWBR0004045/README.md) en [artikel 67 van de Wet WIA](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), voor de [ZW](../../../../wet/ziektewet/BWBR0001888/README.md) de dag waarop het ziekengeld wordt uitgekeerd op grond van [artikel 29 van de ZW](../../../../wet/ziektewet/BWBR0001888/README.md) en voor de [WAO](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) de dag waarop de uitkering betaalbaar wordt gesteld, op grond van [artikel 50 van de WAO](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md).   
-5.  Het tweede lid is niet van toepassing op een dagloonherziening op grond van [artikel 40, eerste lid](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), of [48, derde lid, van de WAO](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md).  
+1.  Het Besluit dagloonregels werknemersverzekeringen wordt ingetrokken.   
+2.  Het Besluit dagloonregels werknemersverzekeringen, zoals dat luidde voor de in het eerste lid bedoelde intrekking blijft van toepassing op uitkeringen als bedoeld in dat besluit waarvan de eerste uitkeringsdag is gelegen voor de datum van intrekking.   
+3.  Indien zich ten aanzien van de uitkeringen, bedoeld in het tweede lid, op of na de inwerkingtreding van dit besluit, een situatie voordoet als bedoeld in artikel 22 van het Besluit dagloonregels werknemersverzekeringen, zoals dat luidde voor de in het eerste lid bedoelde intrekking is, in plaats van dat artikel, artikel 25 van dit besluit van toepassing.   
+4.  Onder uitkeringsdag in het tweede lid wordt voor de WW en de Wet WIA verstaan de dag dat recht op uitbetaling bestaat op grond van respectievelijk artikel 30 van de WW en artikel 67 van de Wet WIA, voor de ZW de dag waarop het ziekengeld wordt uitgekeerd op grond van artikel 29 van de ZW en voor de WAO de dag waarop de uitkering betaalbaar wordt gesteld, op grond van artikel 50 van de WAO.   
+5.  Het tweede lid is niet van toepassing op een dagloonherziening op grond van artikel 40, eerste lid, of 48, derde lid, van de WAO.  
 
 ### Artikel  27  
 
 ####Overgangsbepaling
 
-Artikelen 3, 5 en 6 van het Dagloonbesluit werknemersverzekeringen zoals deze luidden op de dag voorafgaand aan de dag van de inwerkingtreding van artikel II, onderdelen A, C en D, maar met inachtneming van de wijzigingen in artikel II, onderdeel B, van het Besluit tot wijziging van het Besluit SUWI en enige andere besluiten in verband met gegevensverstrekking aan werkgevers en verzekeraars en enige andere technische wijzigingen, blijven van toepassing op een recht op uitkering op grond van de [Werkloosheidswet](../../../../wet/werkloosheidswet/BWBR0004045/README.md) of de [Ziektewet](../../../../wet/ziektewet/BWBR0001888/README.md), waarvan de eerste uitkeringsdag is gelegen voor de dag van die inwerkingtreding. 
+Artikelen 3, 5 en 6 van het Dagloonbesluit werknemersverzekeringen zoals deze luidden op de dag voorafgaand aan de dag van de inwerkingtreding van artikel II, onderdelen A, C en D, maar met inachtneming van de wijzigingen in artikel II, onderdeel B, van het Besluit tot wijziging van het Besluit SUWI en enige andere besluiten in verband met gegevensverstrekking aan werkgevers en verzekeraars en enige andere technische wijzigingen, blijven van toepassing op een recht op uitkering op grond van de Werkloosheidswet of de Ziektewet, waarvan de eerste uitkeringsdag is gelegen voor de dag van die inwerkingtreding. 
 
 ### Artikel  30  
 

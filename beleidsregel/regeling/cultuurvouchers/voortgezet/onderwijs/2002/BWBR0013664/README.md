@@ -12,19 +12,19 @@ In deze regeling wordt verstaan onder:
 
 minister:de minister van onderwijs, cultuur en wetenschappen;
 
-basisvorming:de periode van basisvorming, bedoeld in [artikel 11a, eerste lid, van de Wet op het voortgezet onderwijs](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);
+basisvorming:de periode van basisvorming, bedoeld in artikel 11a, eerste lid, van de Wet op het voortgezet onderwijs;
 
-vwo:voorbereidend wetenschappelijk onderwijs als bedoeld in [artikel 7 van de Wet op het voortgezet onderwijs](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);
+vwo:voorbereidend wetenschappelijk onderwijs als bedoeld in artikel 7 van de Wet op het voortgezet onderwijs;
 
-havo:hoger algemeen voortgezet onderwijs als bedoeld in [artikel 8 van de Wet op het voortgezet onderwijs](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);
+havo:hoger algemeen voortgezet onderwijs als bedoeld in artikel 8 van de Wet op het voortgezet onderwijs;
 
-vmbo:middelbaar algemeen vormend onderwijs of voorbereidend beroepsonderwijs als bedoeld in [artikel 9](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) respectievelijk [artikel 10a van de Wet op het voortgezet onderwijs](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);
+vmbo:middelbaar algemeen vormend onderwijs of voorbereidend beroepsonderwijs als bedoeld in artikel 9 respectievelijk artikel 10a van de Wet op het voortgezet onderwijs;
 
-praktijkonderwijs:praktijkonderwijs als bedoeld in [artikel 10f van de Wet op het voortgezet onderwijs](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);
+praktijkonderwijs:praktijkonderwijs als bedoeld in artikel 10f van de Wet op het voortgezet onderwijs;
 
-vso:voortgezet speciaal onderwijs als bedoeld in [artikel 2, tweede lid, van de Wet op de expertisecentra](../../../../../../../wet/isovso/BWBR0003549/README.md);
+vso:voortgezet speciaal onderwijs als bedoeld in artikel 2, tweede lid, van de Wet op de expertisecentra;
 
-school:een uit ’s Rijks kas bekostigde school voor vwo, havo, vmbo, praktijkonderwijs, voortgezet speciaal onderwijs, of speciaal onderwijs en voortgezet speciaal onderwijs voor het daaraan verzorgde voortgezet speciaal onderwijs dan wel een agrarisch opleidingeninstituut als bedoeld in [artikel 1.3.3. van de Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) voor het daaraan verzorgde voorbereidend beroepsonderwijs;
+school:een uit ’s Rijks kas bekostigde school voor vwo, havo, vmbo, praktijkonderwijs, voortgezet speciaal onderwijs, of speciaal onderwijs en voortgezet speciaal onderwijs voor het daaraan verzorgde voortgezet speciaal onderwijs dan wel een agrarisch opleidingeninstituut als bedoeld in artikel 1.3.3. van de Wet educatie en beroepsonderwijs voor het daaraan verzorgde voorbereidend beroepsonderwijs;
 
 bevoegd gezag:het bevoegd gezag van een school;
 
@@ -88,7 +88,7 @@ c.in een door het bevoegd gezag te bepalen verblijfsjaar van twee cohorten leerl
 
 a.is aangesloten bij een door de minister aangewezen culturele koepelorganisatie,
 
-b.subsidie in de zin van de [Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) ontvangt voor culturele activiteiten, of
+b.subsidie in de zin van de Algemene wet bestuursrecht ontvangt voor culturele activiteiten, of
 
 c.culturele prestaties levert die vallen onder het verlaagde BTW-tarief .
 4. De minister kan andere culturele organisaties op de lijst plaatsen en culturele organisaties van de lijst verwijderen. CJP kan om administratieftechnische redenen culturele organisaties verwijderen van de lijst.
