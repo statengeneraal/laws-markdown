@@ -18,7 +18,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 a. zorg:
 
-1°. zorg als omschreven bij of krachtens de Zorgverzekeringswet en de Algemene Wet Bijzondere Ziektekosten;  
+1°. zorg als omschreven bij of krachtens de Zorgverzekeringswet en de Wet langdurige zorg;  
 
 2°. hulp waarbij handelingen worden verricht als bedoeld in artikel 36 van de Wet op de beroepen in de individuele gezondheidszorg, die niet vallen onder zorg als bedoeld onder 1°;    een en ander met uitzondering van bij algemene maatregel van bestuur aangewezen zorg;  
 
@@ -31,7 +31,7 @@ c. zorgaanbieder:
 2°. de natuurlijke personen of rechtspersonen, die gezamenlijk een instelling vormen;     
 
 d. Onze Minister: Onze Minister van Volksgezondheid, Welzijn en Sport.      
-2.   Bij algemene maatregel van bestuur kan, indien het belang van de bevordering van de kwaliteit van zorg dit vereist, een vorm van hulp worden aangewezen als zorg in de zin van deze wet.    
+2.   Bij algemene maatregel van bestuur kan, indien het belang van de bevordering van de kwaliteit van zorg dit vereist, een vorm van hulp worden aangewezen als zorg in de zin van deze wet, met uitzondering van voorzieningen waarop de Wet maatschappelijke ondersteuning 2015 van toepassing is.   
 3.   Niet als instelling wordt beschouwd het organisatorisch verband waarbinnen in het kader van de binnen een ander organisatorisch verband verleende zorg, een deel van die zorg wordt verleend.    
 4.   Indien het betreft een zorgaanbieder als bedoeld in het eerste lid, onder *c*, 2°, richten de uit deze wet voortvloeiende verplichtingen zich tot ieder van de in dat onderdeel bedoelde personen.   
 
@@ -51,8 +51,8 @@ De zorgaanbieder organiseert de zorgverlening op zodanige wijze, voorziet de ins
 ### Artikel  3a  
 
 1.  De zorgaanbieder stelt voor zijn medewerkers een meldcode vast waarin stapsgewijs wordt aangegeven hoe met signalen van huiselijk geweld of kindermishandeling wordt omgegaan en die er redelijkerwijs aan bijdraagt dat zo snel en adequaat mogelijk hulp kan worden geboden.   
-2.  Onder huiselijk geweld wordt verstaan: huiselijk geweld als bedoeld in artikel 1, eerste lid, van de Wet maatschappelijke ondersteuning.   
-3.  Onder kindermishandeling wordt verstaan: kindermishandeling als bedoeld in artikel 1 van de Wet op de jeugdzorg.   
+2.  Onder huiselijk geweld wordt verstaan: huiselijk geweld als bedoeld in artikel 1.1.1 van de Wet maatschappelijke ondersteuning 2015.   
+3.  Onder kindermishandeling wordt verstaan: kindermishandeling als bedoeld in artikel 1.1 van de Jeugdwet.   
 4.  De zorgaanbieder bevordert de kennis en het gebruik van de meldcode.   
 5.  Bij of krachtens algemene maatregel van bestuur wordt vastgesteld uit welke elementen een meldcode in ieder geval bestaat.  
 

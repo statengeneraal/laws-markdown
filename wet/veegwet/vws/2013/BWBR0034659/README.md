@@ -6,7 +6,7 @@ Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oran
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is in de [Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), de [Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) en de [Invoerings- en aanpassingwet](../../../../../wet/invoerings-/en/aanpassingswet/zorgverzekeringswet/BWBR0018830/README.md) beperkte wijzigingen met betrekking tot de verantwoording en de financiering van zorgverzekeraars aan te brengen, alsmede dat het wenselijk is in diverse wetten wetstechnische reparaties aan te brengen en een tweetal uitgewerkte wetten in te trekken;
+Alzo Wij in overweging genomen hebben, dat het wenselijk is in de Algemene Wet Bijzondere Ziektekosten, de Zorgverzekeringswet en de Invoerings- en aanpassingwet beperkte wijzigingen met betrekking tot de verantwoording en de financiering van zorgverzekeraars aan te brengen, alsmede dat het wenselijk is in diverse wetten wetstechnische reparaties aan te brengen en een tweetal uitgewerkte wetten in te trekken;
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  
@@ -23,7 +23,7 @@ Wijzigt de Invoerings- en aanpassingwet Zorgverzekeringswet.
 
 ### Artikel  IIIa  
 
-1.  In aanvulling op [artikel 39 van de Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) kunnen tevens ten gunste of ten laste van het Zorgverzekeringsfonds worden gebracht door het Zorginstituut vast te stellen, met zorgverzekeraars als bedoeld in de [Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) te verrekenen bedragen met betrekking tot in een kalenderjaar aangevangen, bij of krachtens [artikel 11 van de Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) bedoelde zorg van bij ministeriële regeling aan te wijzen categorieën zorgaanbieders, die in de twee daaropvolgende kalenderjaren bij de zorgverzekeraars in rekening is gebracht.   
+1.  In aanvulling op artikel 39 van de Zorgverzekeringswet kunnen tevens ten gunste of ten laste van het Zorgverzekeringsfonds worden gebracht door het Zorginstituut vast te stellen, met zorgverzekeraars als bedoeld in de Zorgverzekeringswet te verrekenen bedragen met betrekking tot in een kalenderjaar aangevangen, bij of krachtens artikel 11 van de Zorgverzekeringswet bedoelde zorg van bij ministeriële regeling aan te wijzen categorieën zorgaanbieders, die in de twee daaropvolgende kalenderjaren bij de zorgverzekeraars in rekening is gebracht.   
 2.  Het eerste lid geldt slechts voor zorg die is aangevangen in het kalenderjaar onmiddellijk voorafgaande aan het jaar waarin voor de aangewezen categorie zorgaanbieders een nieuw bekostigingssysteem is gaan gelden.   
 3.  Bij ministeriële regeling wordt bepaald welke zorg het Zorginstituut bij toepassing van het eerste lid in aanmerking neemt, hoe het Zorginstituut de bedragen, bedoeld in dat lid, berekent en wanneer de in dat lid bedoelde verrekening dient te hebben plaatsgevonden.  
 
@@ -61,7 +61,7 @@ Wijzigt de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba.
 
 ### Artikel  Xb  
 
-Een algemene maatregel van bestuur die berust op [artikel 18.1 van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../wet-BES/invoeringswet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028063/README.md) berust na inwerkingtreding van deze wet op [artikel 18.4.7a van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../wet-BES/invoeringswet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028063/README.md). 
+Een algemene maatregel van bestuur die berust op artikel 18.1 van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba berust na inwerkingtreding van deze wet op artikel 18.4.7a van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba. 
 
 ### Artikel  XI  
 
@@ -173,7 +173,7 @@ Wijzigt de Wijzigingswet Wet op de jeugdzorg, enz. (verbetering positie pleegoud
 
 ### Artikel  XXXIX  
 
-De [Wet van 23 oktober 1957, houdende gedeeltelijke compensatie voor de ingevolge de Algemene Ouderdomswet geheven premie over een pensioen, toegekend krachtens de Wet buitengewoon pensioen 1940–1945](../../../../../wet/wet/gedeeltelijke/compensatie/voor/ingevolge/algemene/ouderdomswet/geheven/etc/BWBR0002255/README.md) (Stb. 1947, H 313) en de [Wet van 23 oktober 1957, houdende gedeeltelijke compensatie voor de ingevolge de Algemene Ouderdomswet geheven premie over een pensioen, toegekend krachtens de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](../../../../../wet/wet/houdende/gedeeltelijke/compensatie/voor/de/ingevolge/de/algemene/etc/BWBR0002256/README.md) (Stb. 1947, H 420) worden ingetrokken.
+De Wet van 23 oktober 1957, houdende gedeeltelijke compensatie voor de ingevolge de Algemene Ouderdomswet geheven premie over een pensioen, toegekend krachtens de Wet buitengewoon pensioen 1940–1945 (Stb. 1947, H 313) en de Wet van 23 oktober 1957, houdende gedeeltelijke compensatie voor de ingevolge de Algemene Ouderdomswet geheven premie over een pensioen, toegekend krachtens de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers (Stb. 1947, H 420) worden ingetrokken.
 
 ### Artikel  XXXX  
 
@@ -185,7 +185,7 @@ Onze Minister van Volksgezondheid, Welzijn en sport zendt binnen vijf jaar na de
 
 ### Artikel  XXXXII  
 
-In afwijking van de [artikelen 22](../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md) juncto [32 van de Wet toelating zorginstellingen](../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md) zijn op de rechtspositie van het personeel van het College bouw zorginstellingen en het College sanering zorginstellingen de regels die gelden voor ambtenaren die zijn aangesteld bij ministeries, niet van toepassing tot 1 januari 2017. 
+In afwijking van de artikelen 22 juncto 32 van de Wet toelating zorginstellingen zijn op de rechtspositie van het personeel van het College bouw zorginstellingen en het College sanering zorginstellingen de regels die gelden voor ambtenaren die zijn aangesteld bij ministeries, niet van toepassing tot 1 januari 2017. 
 
 ### Artikel  XXXXIII  
 
@@ -193,7 +193,7 @@ In afwijking van de [artikelen 22](../../../../../wet/wet/toelating/zorginstelli
 2.  Artikel I, onderdeel H, eerste subonderdeel, en artikel II, onderdeel L, eerste subonderdeel, werken terug tot en met 1 januari 2008.   
 3.  Artikel II, onderdeel E, eerste subonderdeel, werkt terug tot en met 1 januari 2006.   
 4.  Artikel XXIX, onderdeel A, werkt terug tot en met 1 januari 2012.   
-5.  Artikel I, onderdelen D, E, F, J en K, artikel II, onderdelen I en O, de in artikel III opgenomen [artikelen 2.1.7b](../../../../../wet/invoerings-/en/aanpassingswet/zorgverzekeringswet/BWBR0018830/README.md) en [2.2.2b van de Invoerings- en aanpassingswet Zorgverzekeringswet](../../../../../wet/invoerings-/en/aanpassingswet/zorgverzekeringswet/BWBR0018830/README.md), artikel VII en artikel XXXXII werken terug tot en met 1 januari 2013.  
+5.  Artikel I, onderdelen D, E, F, J en K, artikel II, onderdelen I en O, de in artikel III opgenomen artikelen 2.1.7b en 2.2.2b van de Invoerings- en aanpassingswet Zorgverzekeringswet, artikel VII en artikel XXXXII werken terug tot en met 1 januari 2013.  
 
 ### Artikel  XXXXIV  
 

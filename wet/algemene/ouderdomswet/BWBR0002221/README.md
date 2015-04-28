@@ -113,11 +113,12 @@ b. wordt niet als verzekerde aangemerkt de persoon op wie op grond van een verdr
 
 ### Artikel  7  
 
-Recht op ouderdomspensioen overeenkomstig de bepalingen van deze wet heeft degene, die  
+1. Recht op ouderdomspensioen overeenkomstig de bepalingen van deze wet heeft degene, die  
 
 a. de pensioengerechtigde leeftijd heeft bereikt, en   
 
-b. ingevolge deze wet verzekerd is geweest in het tijdvak, aanvangende met de dag waarop de aanvangsleeftijd is bereikt en eindigende met de dag voorafgaande aan de dag waarop de pensioengerechtigde leeftijd is bereikt.    
+b. ingevolge deze wet minimaal één kalenderjaar verzekerd is geweest in het tijdvak, aanvangende met de dag waarop de aanvangsleeftijd is bereikt en eindigende met de dag voorafgaande aan de dag waarop de pensioengerechtigde leeftijd is bereikt.     
+2.  Bij ministeriële regeling worden regels gesteld omtrent de herleiding van gedeelten van kalenderjaren tot gehele kalenderjaren. 
 
 ### Artikel  7a  
 
@@ -791,7 +792,6 @@ Ten aanzien van de persoon wiens vrijheid op de dag voorafgaande aan de inwerkin
 Artikel 17, tweede lid, zoals dat luidde op de dag voorafgaand aan de dag van inwerkingtreding van artikel I, onderdeel B, van de Wet van 9 juli 2014 tot wijziging van de Algemene Ouderdomswet in verband met beëindiging van de voorschotregeling en vaststelling van een grondslag voor het stellen van regels ten aanzien van hetgeen wordt verstaan onder het hebben van het hoofdverblijf in dezelfde woning (Stb. 2014, 307) blijft van toepassing op pensioengerechtigden ten aanzien waarvan dat artikellid is toegepast tot het tijdstip waarop niet meer wordt voldaan aan de in dat artikellid gestelde voorwaarden. 
 
 ### Artikel  64d  
-Treedt in werking per 01-04-2015 
 
 Artikel 7, zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van artikel III, onderdeel A, van de Wet vereenvoudiging regelingen SVB blijft na de inwerkingtreding van dat artikelonderdeel van toepassing op personen die op die dag op grond van artikel 7 recht hebben op ouderdomspensioen. 
 

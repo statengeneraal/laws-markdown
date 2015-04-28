@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het, mede in verband met [artikel 11 van de Grondwet](../../../../../../wet/grondwet/BWBR0001840/README.md), wenselijk is met het oog op de rechtszekerheid van de betrokkenen, ter bevordering van het aanbod en de rechtvaardige verdeling van geschikte organen en ter voorkoming van handel in organen bij wet regelen te stellen omtrent het ter beschikking stellen van organen ten behoeve van in het bijzonder de geneeskundige behandeling van anderen;
+Alzo Wij in overweging genomen hebben, dat het, mede in verband met artikel 11 van de Grondwet, wenselijk is met het oog op de rechtszekerheid van de betrokkenen, ter bevordering van het aanbod en de rechtvaardige verdeling van geschikte organen en ter voorkoming van handel in organen bij wet regelen te stellen omtrent het ter beschikking stellen van organen ten behoeve van in het bijzonder de geneeskundige behandeling van anderen;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 ###Hoofdstuk 1 
 
@@ -26,7 +26,7 @@ d. verwijderen: het verwijderen van een orgaan, anders dan ten behoeve van de do
 
 e. implantatie: het in- of aanbrengen van een orgaan van een donor in of aan het lichaam van een ander met het oog op diens geneeskundige behandeling;   
 
-f. ziekenhuis: een krachtens [artikel 5 van de Wet toelating zorginstellingen](../../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md) als ziekenhuis of verpleeginrichting toegelaten instelling of een afdeling daarvan;  
+f. ziekenhuis: een krachtens artikel 5 van de Wet toelating zorginstellingen als ziekenhuis of verpleeginrichting toegelaten instelling of een afdeling daarvan;  
 
 g. orgaancentrum: een instelling als bedoeld in artikel 24.   
 
@@ -91,7 +91,7 @@ Het verwijderen van een orgaan bij leven is slechts toegestaan, indien daarvoor 
 
 ### Artikel  10  
 
-1.  Onze minister draagt ervoor zorg dat iedere ingezetene als bedoeld in de [Wet basisregistratie personen](../../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), een donorformulier wordt toegezonden, wanneer hij of zij de leeftijd van achttien jaren heeft bereikt. Donorformulieren worden voorts op verzoek door de zorg van Onze minister en door het college van burgemeester en wethouders kosteloos ter beschikking gesteld.   
+1.  Onze minister draagt ervoor zorg dat iedere ingezetene als bedoeld in de Wet basisregistratie personen, een donorformulier wordt toegezonden, wanneer hij of zij de leeftijd van achttien jaren heeft bereikt. Donorformulieren worden voorts op verzoek door de zorg van Onze minister en door het college van burgemeester en wethouders kosteloos ter beschikking gesteld.   
 2.  Er is een donorregister waarin, met het oog op de kenbaarheid van de wilsbeschikking van de betrokkene ter zake aantekening wordt gehouden van door middel van het donorformulier verleende toestemming tot of gemaakt bezwaar tegen het na overlijden verwijderen van organen, dan wel de door middel van dat formulier te kennen gegeven wens de beslissing ter zake over te laten aan de in artikel 11 bedoelde nabestaanden of aan een door hem te bepalen persoon. Het register wordt gehouden door of vanwege Onze minister.   
 3.  Het register kan door of in opdracht van een arts dag en nacht worden geraadpleegd wanneer dat met het oog op de voorgenomen verwijdering van een orgaan noodzakelijk is.   
 4. Bij algemene maatregel van bestuur worden nadere regels gesteld omtrent de vorm, inhoud en toezending van het donorformulier en het bijhouden en de toegankelijkheid van het donorregister. Bij die algemene maatregel kan worden bepaald dat een donorformulier wordt toegezonden aan personen die na het bereiken van de leeftijd van negentien jaar nieuw als ingezetene zijn ingeschreven dan wel opnieuw als ingezetene zijn geregistreerd in de basisregistratie personen, of dat aan daarbij aan te wijzen categorieën van personen aan wie een donorformulier is toegezonden en van wie na een bij die maatregel te bepalen termijn nog geen wilsverklaring in het register is opgenomen, opnieuw een donorformulier wordt toegezonden.  
@@ -131,11 +131,11 @@ Tenzij degene die toestemming verleent uitdrukkelijk anders bepaalt, wordt toest
 
 ### Artikel  16  
 
-Bij verwijdering van een orgaan uit een stoffelijk overschot geschiedt de lijkschouwing als bedoeld in [artikel 3 van de Wet op de lijkbezorging](../../../../../../wet/wet/op/de/lijkbezorging/BWBR0005009/README.md) (*Stb*. 1991, 133) niet door een arts die bij de verwijdering of de implantatie van het orgaan betrokken is. 
+Bij verwijdering van een orgaan uit een stoffelijk overschot geschiedt de lijkschouwing als bedoeld in artikel 3 van de Wet op de lijkbezorging (*Stb*. 1991, 133) niet door een arts die bij de verwijdering of de implantatie van het orgaan betrokken is. 
 
 ### Artikel  17  
 
-Bij de aanwezigheid of het vermoeden van een niet natuurlijke dood mag een orgaan niet worden verwijderd, voordat is gebleken dat de officier van justitie de in [artikel 76, tweede lid, van de Wet op de lijkbezorging](../../../../../../wet/wet/op/de/lijkbezorging/BWBR0005009/README.md) bedoelde toestemming verleent. 
+Bij de aanwezigheid of het vermoeden van een niet natuurlijke dood mag een orgaan niet worden verwijderd, voordat is gebleken dat de officier van justitie de in artikel 76, tweede lid, van de Wet op de lijkbezorging bedoelde toestemming verleent. 
 
 ### §  3  
 
@@ -230,12 +230,12 @@ e. de voorlichting in het ziekenhuis over de in het protocol gestelde regels.
 ### Artikel  24  
 
 1. Het bemiddelen bij het verkrijgen, bij het typeren en bij het vervoeren van organen van donoren, alsmede het toewijzen van die organen aan een daarvoor geschikte ontvanger mag slechts geschieden door een orgaancentrum, dat daartoe een vergunning van Onze minister behoeft. 
-2.  Op de uitvoering van de in het eerste lid bedoelde taak door een orgaancentrum waaraan daartoe een vergunning is verleend, is de [Kaderwet zelfstandige bestuursorganen](../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) van toepassing, met uitzondering van [artikel 22 van die wet](../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), voor zover het besluiten betreft met betrekking tot het toewijzen van organen.  
+2.  Op de uitvoering van de in het eerste lid bedoelde taak door een orgaancentrum waaraan daartoe een vergunning is verleend, is de Kaderwet zelfstandige bestuursorganen van toepassing, met uitzondering van artikel 22 van die wet, voor zover het besluiten betreft met betrekking tot het toewijzen van organen.  
 
 ### Artikel  25  
 
-1.  Een vergunning kan uitsluitend worden verleend aan een rechtspersoon wiens werkzaamheid niet is gericht op het behalen van winst en die geen weefselinstelling als bedoeld in [artikel 1, eerste lid, onderdeel k, van de Wet veiligheid en kwaliteit lichaamsmateriaal](../../../../../../wet/wet/veiligheid/en/kwaliteit/lichaamsmateriaal/BWBR0014682/README.md) is.   
-2.  Een vergunning wordt geweigerd, indien niet wordt of naar redelijke verwachting niet zal worden voldaan aan het bepaalde bij of krachtens deze wet, een doelmatige voorziening in de behoefte aan organen niet is gebaat bij verlening van de vergunning, dan wel een doelmatige samenwerking met andere orgaancentra en met orgaanbanken als bedoeld in [artikel 1, eerste lid, onderdeel l, van de Wet veiligheid en kwaliteit lichaamsmateriaal](../../../../../../wet/wet/veiligheid/en/kwaliteit/lichaamsmateriaal/BWBR0014682/README.md) niet is verzekerd.  
+1.  Een vergunning kan uitsluitend worden verleend aan een rechtspersoon wiens werkzaamheid niet is gericht op het behalen van winst en die geen weefselinstelling als bedoeld in artikel 1, eerste lid, onderdeel k, van de Wet veiligheid en kwaliteit lichaamsmateriaal is.   
+2.  Een vergunning wordt geweigerd, indien niet wordt of naar redelijke verwachting niet zal worden voldaan aan het bepaalde bij of krachtens deze wet, een doelmatige voorziening in de behoefte aan organen niet is gebaat bij verlening van de vergunning, dan wel een doelmatige samenwerking met andere orgaancentra en met orgaanbanken als bedoeld in artikel 1, eerste lid, onderdeel l, van de Wet veiligheid en kwaliteit lichaamsmateriaal niet is verzekerd.  
 
 ### Artikel  26  
 
@@ -258,7 +258,7 @@ g. de verslaglegging over de werkzaamheden.
 
 ### Artikel  27  
 
-Een vergunning kan worden ingetrokken indien niet meer wordt voldaan aan het bepaalde bij of krachtens deze wet of de [Wet veiligheid en kwaliteit lichaamsmateriaal](../../../../../../wet/wet/veiligheid/en/kwaliteit/lichaamsmateriaal/BWBR0014682/README.md) of de aan de vergunning verbonden voorschriften dan wel indien in strijd is gehandeld met een beperking waaronder de vergunning is verleend.  
+Een vergunning kan worden ingetrokken indien niet meer wordt voldaan aan het bepaalde bij of krachtens deze wet of de Wet veiligheid en kwaliteit lichaamsmateriaal of de aan de vergunning verbonden voorschriften dan wel indien in strijd is gehandeld met een beperking waaronder de vergunning is verleend.  
 
 ###Hoofdstuk 5 
 

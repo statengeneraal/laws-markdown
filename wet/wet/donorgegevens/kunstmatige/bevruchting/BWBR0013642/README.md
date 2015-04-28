@@ -28,7 +28,7 @@ c. kunstmatige donorbevruchting: het beroeps-of bedrijfsmatig verrichten van han
 
 d. donor: degene die zaad of een eicel heeft afgestaan ten behoeve van kunstmatige donorbevruchting;  
 
-e.de Kaderwet: de [Kaderwet zelfstandige bestuursorganen](../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md). 
+e.de Kaderwet: de Kaderwet zelfstandige bestuursorganen. 
 
 ### §  2  
 
@@ -59,14 +59,14 @@ c. aan de ouders of een van hen van het kind dat door en tengevolge van kunstmat
 2.  De persoonsidentificerende gegevens van de donor worden aan degene die weet of vermoedt dat hij is verwekt door en ten gevolge van kunstmatige donorbevruchting en die de leeftijd van zestien jaren heeft bereikt, op zijn verzoek verstrekt, nadat de donor daarmee schriftelijk heeft ingestemd.  Verstrekking blijft, indien de donor daarmee niet instemt, uitsluitend achterwege indien, in aanmerking genomen de gevolgen die niet-verstrekking voor de verzoeker zou kunnen hebben, zwaarwegende belangen van de donor meebrengen dat verstrekking niet behoort plaats te vinden.  
 3.  Indien de donor is overleden dan wel onvindbaar is, wordt de instemming, bedoeld in het tweede lid, geacht te zijn geweigerd, tenzij de echtgenoot, geregistreerde partner of andere levensgezel dan wel, bij het ontbreken van een van hen, een bloedverwant in de eerste of tweede graad, schriftelijk instemt met de verstrekking van de persoonsidentificerende gegevens. Na een weigering in te stemmen worden de in de eerste volzin bedoelde personen in de gelegenheid gesteld de belangen van de donor bij niet-verstrekking naar voren te brengen.   
 4.  Het bestuur van de Stichting stelt de donor onverwijld schriftelijk in kennis van een voorgenomen verstrekking van zijn persoonsgegevens, alsmede van de gronden waarop dit voornemen berust. Binnen dertig dagen na de dag van verzending van de kennisgeving kan de donor tegen de voorgenomen verstrekking bezwaar maken bij de Stichting. Verstrekking geschiedt niet dan nadat de beslissing op het bezwaar onherroepelijk is geworden.   
-5.   [Artikel 6:5, eerste lid, aanhef en onderdeel a, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing ten aanzien van de donor.   
+5.   Artikel 6:5, eerste lid, aanhef en onderdeel a, van de Algemene wet bestuursrecht is niet van toepassing ten aanzien van de donor.   
 6.  Van een verstrekking van gegevens van de donor aan een minderjarige die de leeftijd van zestien jaren nog niet heeft bereikt, worden de ouders op de hoogte gesteld. Aan de minderjarige wordt hiervan mededeling gedaan. Op verzoek van beide ouders of van een van hen worden deze gegevens eveneens aan hen verstrekt.   
 7.  De Stichting draagt zorg voor deskundige begeleiding bij de verstrekking van de gegevens, bedoeld in het eerste lid onder b en in het tweede lid.   
 8.  Bij algemene maatregel van bestuur wordt bepaald welke bescheiden een verzoek tot verstrekking van gegevens van de donor moeten vergezellen.  
 
 ### Artikel  3a  
 
-Op verzoek van de ouder van het kind dat door kunstmatige donorbevruchting is verwekt, verstrekt de Stichting een verklaring als bedoeld in [artikelen 198, eerste lid, onder b](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), of [227, vierde lid, van Boek 1 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), waarin de persoonsidentificerende gegevens van de donor niet worden opgenomen. 
+Op verzoek van de ouder van het kind dat door kunstmatige donorbevruchting is verwekt, verstrekt de Stichting een verklaring als bedoeld in artikelen 198, eerste lid, onder b, of 227, vierde lid, van Boek 1 van het Burgerlijk Wetboek, waarin de persoonsidentificerende gegevens van de donor niet worden opgenomen. 
 
 ### §  3  
 
@@ -82,7 +82,7 @@ b. bij reglement te bepalen op welke wijze en op welk moment de gegevens, bedoel
 
 c. voorlichting te verschaffen, voor zover de onder a en b omschreven taken van de Stichting dat vereisen, alsmede zorg te dragen voor de begeleiding bij de verstrekking van deze gegevens.     
 2.  Degenen op wie de verplichtingen, bedoeld in artikel 2, rusten, zijn verplicht de reglementen van de Stichting na te leven.   
-3.  De Kaderwet is van toepassing op de Stichting. [Artikel 22 van de Kaderwet](../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) is niet van toepassing op besluiten van de Stichting inzake bewaring, beheer of verstrekking van de gegevens, bedoeld in artikel 2. 
+3.  De Kaderwet is van toepassing op de Stichting. Artikel 22 van de Kaderwet is niet van toepassing op besluiten van de Stichting inzake bewaring, beheer of verstrekking van de gegevens, bedoeld in artikel 2. 
 
 ### Artikel  5  
 
@@ -94,7 +94,7 @@ c. voorlichting te verschaffen, voor zover de onder a en b omschreven taken van 
 
 1.  De reglementen alsmede wijzigingen in deze reglementen of in de statuten van de Stichting behoeven de goedkeuring van Onze Ministers. Goedkeuring kan worden geweigerd wegens strijd met het recht of het algemeen belang.   
 2.  Het bestuur van de Stichting kan niet besluiten tot ontbinding van de Stichting.   
-3.  [Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing op de goedkeuring, bedoeld in het eerste lid. 
+3.  Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht is van toepassing op de goedkeuring, bedoeld in het eerste lid. 
 
 ### Artikel  7  
 

@@ -69,7 +69,7 @@ d. zij op grond van een registratie worden aangemerkt als een gezamenlijke huish
 5.  Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot hetgeen wordt verstaan onder het blijk geven zorg te dragen voor een ander als bedoeld in het derde lid.   
 6.  Bij algemene maatregel van bestuur wordt vastgesteld welke registraties, en gedurende welk tijdvak, in aanmerking worden genomen voor de toepassing van het vierde lid, onderdeel d.   
 7.  Onder bloedverwant in de eerste graad als bedoeld in het tweede lid, onderdeel a, wordt mede verstaan een meerderjarig aangehuwd kind of een meerderjarig voormalig pleegkind van de ongehuwde meerderjarige.   
-8.  Onder voormalig pleegkind als bedoeld in het zevende lid wordt verstaan een pleegkind waarvoor de ongehuwde meerderjarige een pleegvergoeding ontving of ontvangt op grond van de Wet op de jeugdzorg of kinderbijslag ontving op grond van de Algemene Kinderbijslagwet. 
+8.  Onder voormalig pleegkind als bedoeld in het zevende lid wordt verstaan een pleegkind voor wie de ongehuwde meerderjarige een pleegvergoeding ontving of ontvangt op grond van de Wet op de jeugdzorg of de Jeugdwet, of kinderbijslag ontving op grond van de Algemene Kinderbijslagwet. 
 
 ### Hoofdstuk  2  
 
@@ -228,14 +228,7 @@ b. het loon uit dienstbetrekking dat de uitkeringsgerechtigde in die maand verdi
 
 ####Recht op ondersteuning bij arbeidsinschakeling
 
-1. De uitkeringsgerechtigde heeft recht op ondersteuning bij arbeidsinschakeling en met inachtneming van de daarvoor geldende wettelijke bepalingen, op de naar het oordeel van het UWV noodzakelijk geachte voorziening gericht op arbeidsinschakeling.  
-2.  Voor de toepassing van het eerste lid wordt voor personen die blijkens een indicatiebeschikking of herindicatiebeschikking tot de doelgroep behoren van de Wet sociale werkvoorziening, onder een voorziening gericht op de arbeidsinschakeling mede verstaan een voorziening gericht op het verkrijgen van arbeid in een dienstbetrekking als bedoeld in de artikelen 2 en 7 van die wet. 
-
-### Artikel  11a  
-
-####Algemeen geaccepteerde arbeid
-
-Behoudens voor de toepassing van artikel 13, tweede en derde lid, wordt niet als algemeen geaccepteerde arbeid beschouwd arbeid op grond van een dienstbetrekking als bedoeld in hoofdstuk 2 of 3 van de Wet sociale werkvoorziening. 
+De uitkeringsgerechtigde heeft recht op ondersteuning bij arbeidsinschakeling en met inachtneming van de daarvoor geldende wettelijke bepalingen, op de naar het oordeel van het UWV noodzakelijk geachte voorziening gericht op arbeidsinschakeling.
 
 ### Artikel  12  
 
@@ -286,7 +279,7 @@ c. mee te werken aan aanpassing van de arbeidsplaats en aan persoongebonden voor
 
 ### Artikel  15  
 
-####Plichten gericht op inschakeling in de arbeid
+####Verplichtingen
 
 De aanvrager en de uitkeringsgerechtigde 
 
@@ -298,15 +291,16 @@ c. aanvaarden aangeboden algemeen geaccepteerde arbeid;
 
 d. stellen geen eisen in verband met door hen te verrichten arbeid die het aanvaarden of verkrijgen van algemeen geaccepteerde arbeid belemmeren;  
 
-e. voorkomen dat zij door eigen toedoen geen algemeen geaccepteerde arbeid verkrijgen.   
+e. voorkomen dat zij door eigen toedoen geen algemeen geaccepteerde arbeid verkrijgen;  
+
+f.onthouden zich van zeer ernstige misdragingen jegens de met de uitvoering van deze wet belaste personen en instanties tijdens het verrichten van hun werkzaamheden. 
 
 ### Artikel  16  
 
 ####Vrijstelling en ontheffing van verplichtingen
 
 1.  Bij ministeriële regeling kunnen regels worden gesteld waarbij groepen personen worden vrijgesteld van de verplichtingen, bedoeld in de artikelen 12, tweede lid, onderdeel c, 14 en 15.   
-2.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld op grond waarvan aan aanvragers en uitkeringsgerechtigden in individuele gevallen tijdelijk ontheffing kan worden verleend van verplichtingen, hen opgelegd op grond van de artikelen 12, tweede lid, onderdeel c, 14 en 15. 
-3. De artikelen 14, eerste lid, en 15 zijn niet van toepassing op de werknemer die blijkens een indicatiebeschikking of herindicatiebeschikking tot de doelgroep van de Wet sociale werkvoorziening behoort. 
+2.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld op grond waarvan aan aanvragers en uitkeringsgerechtigden in individuele gevallen tijdelijk ontheffing kan worden verleend van verplichtingen, hen opgelegd op grond van de artikelen 12, tweede lid, onderdeel c, 14 en 15.  
 
 ### Artikel  17  
 
@@ -381,9 +375,9 @@ Bij ministeriële regeling kunnen regels worden gesteld omtrent de termijn waarv
 
 ####Invordering bestuurlijke boete
 
-1.  Het UWV verrekent de bestuurlijke boete met een uitkering op grond van deze wet, de Ziektewet, de Wet werk en inkomen naar arbeidsvermogen, de Wet op de arbeidsongeschiktheidsverzekering, de Wet arbeidsongeschiktheidsverzekering zelfstandigen, de Wet werk en arbeidsondersteuning jonggehandicapten, de Wet arbeidsongeschiktheidsvoorziening militairen, de Wet arbeid en zorg, de Werkloosheidswet of een toeslag op grond van de Toeslagenwet, die de overtreder ontvangt.   
+1.  Het UWV verrekent de bestuurlijke boete met een uitkering op grond van deze wet, de Ziektewet, de Wet werk en inkomen naar arbeidsvermogen, de Wet op de arbeidsongeschiktheidsverzekering, de Wet arbeidsongeschiktheidsverzekering zelfstandigen, de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, de Wet arbeidsongeschiktheidsvoorziening militairen, de Wet arbeid en zorg, de Werkloosheidswet of een toeslag op grond van de Toeslagenwet, die de overtreder ontvangt.   
 2.  Onverminderd het eerste lid kan het UWV de bestuurlijke boete verrekenen met een vordering die degene aan wie de bestuurlijke boete is opgelegd op hem heeft.  
-3.  De Sociale verzekeringsbank onderscheidenlijk de gemeente betaalt het bedrag van de bestuurlijke boete, zonder dat daarvoor een machtiging nodig is, op zijn verzoek aan het UWV indien de overtreder een uitkering ontvangt op grond van de Algemene Ouderdomswet, de Algemene nabestaanden wet, de Wet werk en bijstand, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers of de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen.   
+3.  De Sociale verzekeringsbank onderscheidenlijk de gemeente betaalt het bedrag van de bestuurlijke boete, zonder dat daarvoor een machtiging nodig is, op zijn verzoek aan het UWV indien de overtreder een uitkering ontvangt op grond van de Algemene Ouderdomswet, de Algemene nabestaanden wet, de Participatiewet, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers of de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen.   
 4.  De in artikel 479g van het Wetboek van Burgerlijke Rechtsvordering aan de raad voor de kinderbescherming toegekende bevoegdheid komt gelijkelijk toe aan het UWV. Indien het UWV gebruik maakt van deze bevoegdheid, geschiedt de bekendmaking van het dwangbevel, in afwijking van artikel 4:123, eerste lid, van de Algemene wet bestuursrecht, door middel van toezending per post aan degene aan wie de boete is opgelegd.   
 5.  Zolang de overtreder zijn verplichting, bedoeld in artikel 21, negende lid, niet of niet behoorlijk nakomt: 
 
@@ -400,7 +394,7 @@ b. geldt de beslagvrije voet, bedoeld in de artikelen 475c tot en met 475e van h
 2.  Artikel 24, eerste lid, en het eerste lid zijn van overeenkomstige toepassing op de verrekening van de bestuurlijke boete wegens eenzelfde gedraging als bedoeld in artikel 21, zesde lid, indien en voor zover op het moment van verrekening, bedoeld in het eerste lid, de bestuurlijke boete door de overtreder niet is betaald.   
 3.  Het UWV kan op verzoek van de overtreder besluiten het eerste lid en tweede lid niet of niet meer toe te passen indien, gelet op bijzondere omstandigheden, dringende redenen daartoe noodzaken.   
 4.  De voorgaande leden laten de verrekening van de bestuurlijke boete op grond van artikel 24, eerste lid, na het tijdvak, bedoeld in het eerste lid, onverlet.   
-5.  Indien als gevolg van de verrekening, bedoeld in het eerste en tweede lid, algemene bijstand op grond van de Wet werk en bijstand wordt toegekend, wordt bij de verrekening een bij ministeriële regeling bepaald deel van de uitkering op grond van deze wet op aanvraag vrijgelaten in verband met zorgkosten, woonkosten en de kosten van kinderen. Het vrij te laten deel van de uitkering kan afhankelijk worden gesteld van de leefsituatie.   
+5.  Indien als gevolg van de verrekening, bedoeld in het eerste en tweede lid, algemene bijstand op grond van de Participatiewet wordt toegekend, wordt bij de verrekening een bij ministeriële regeling bepaald deel van de uitkering op grond van deze wet op aanvraag vrijgelaten in verband met zorgkosten, woonkosten en de kosten van kinderen. Het vrij te laten deel van de uitkering kan afhankelijk worden gesteld van de leefsituatie.   
 6.  Voor de toepassing van het vijfde lid kunnen bij ministeriële regeling nadere regels worden gesteld.   
 7.  Het vrijgelaten deel, bedoeld in het vijfde lid, is niet vatbaar voor beslag, waaronder begrepen beslag ingevolge faillissement of toepassing van de schuldsaneringsregeling natuurlijke personen. 
 
@@ -457,7 +451,7 @@ c. bij ontstentenis van de in de onderdelen a en b bedoelde personen, aan degene
 
 ####Betaling aan instellingen
 
-1.  Indien de uitkeringsgerechtigde aanspraak heeft op verstrekking of vergoeding van zorg als bedoeld in de Algemene Wet Bijzondere Ziektekosten en op grond van die wet een bijdrage voor die zorg verschuldigd is, is het UWV bevoegd de uitkering tot het bedrag van die bijdrage in plaats van aan de uitkeringsgerechtigde, zonder diens machtiging uit te betalen aan het Zorginstituut Nederland, genoemd in artikel 58, eerste lid, van de Zorgverzekeringswet.   
+1.  Indien de uitkeringsgerechtigde aanspraak heeft op verstrekking of vergoeding van zorg als bedoeld in de Wet langdurige zorg en op grond van die wet een bijdrage voor die zorg verschuldigd is, is het UWV bevoegd de uitkering tot het bedrag van die bijdrage in plaats van aan de uitkeringsgerechtigde, zonder diens machtiging uit te betalen aan het Zorginstituut Nederland, genoemd in artikel 58, eerste lid, van de Zorgverzekeringswet.   
 2.  Indien de uitkeringsgerechtigde in een inrichting ter verpleging van geesteszieken of van zwakzinnigen is opgenomen en het UWV, van de desbetreffende inrichting of van het college van burgemeester en wethouders van de gemeente die de opnamekosten betaalt, het verzoek ontvangt om de uitkering aan die inrichting of die gemeente uit te betalen, is het UWV bevoegd dat verzoek zonder het stellen van andere voorwaarden in te willigen.   
 3.  Indien het eerste lid toepassing vindt, heeft de in het tweede lid bedoelde bevoegdheid betrekking op het gedeelte van de uitkering op grond van deze wet, dat niet aan het Zorginstituut Nederland wordt uitbetaald.   
 4.  Een herziening van de uitkering op grond van het eerste lid als gevolg van een wijziging van de verschuldigde bijdrage vindt plaats zonder dat dit bij beschikking is vastgesteld.  
@@ -700,7 +694,7 @@ Onze Minister zendt binnen 2 jaar na de inwerkingtreding van deze wet aan de Sta
 ####Inwerkingtreding
 
 1.  Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.   
-2.  Deze wet vervalt met ingang van 1 december 2016.  
+2.  Deze wet vervalt met ingang van 1 januari 2027.  
 
 ### Artikel  51  
 

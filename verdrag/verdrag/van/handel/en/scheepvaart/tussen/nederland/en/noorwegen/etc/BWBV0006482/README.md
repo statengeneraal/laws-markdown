@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Verdrag van scheepvaart en handel tussen het Koninkrijk der Nederlanden en het Koninkrijk van Zweden en Noorwegen
+##Verdrag van handel en scheepvaart tussen Nederland en Noorwegen
 
 ####TRAITE DE COMMERCE ET DE NAVIGATION ENTRE LES PAYS-BAS ET LA NORVÈGE. 
 

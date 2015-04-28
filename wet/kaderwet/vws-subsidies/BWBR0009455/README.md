@@ -29,7 +29,7 @@ e.de sport, voor zover van landelijke betekenis.
 
 ### Artikel  3  
 
-1.  Onverminderd [hoofdstuk 3 van de Financiële-verhoudingswet](../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md) kunnen bij of krachtens algemene maatregel van bestuur of bij regeling van Onze Minister de activiteiten waarvoor subsidie kan worden verstrekt nader worden bepaald alsmede andere criteria voor die verstrekking worden vastgesteld.    
+1.  Onverminderd hoofdstuk 3 van de Financiële-verhoudingswet kunnen bij of krachtens algemene maatregel van bestuur of bij regeling van Onze Minister de activiteiten waarvoor subsidie kan worden verstrekt nader worden bepaald alsmede andere criteria voor die verstrekking worden vastgesteld.    
 2.  Bij of krachtens algemene maatregel van bestuur of bij regeling van Onze Minister kunnen voorts regels worden gesteld met betrekking tot:  
 
 a. het bedrag van de subsidie dan wel de wijze waarop dit bedrag wordt bepaald;   
@@ -46,14 +46,14 @@ f. de intrekking en wijziging van de subsidieverlening of subsidievaststelling;
 
 g. de betaling van de subsidie en de verlening van voorschotten;   
 
-h. het verslag over de doeltreffendheid en de effecten van de subsidie in de praktijk, bedoeld in [artikel 4:24 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).     
+h. het verslag over de doeltreffendheid en de effecten van de subsidie in de praktijk, bedoeld in artikel 4:24 van de Algemene wet bestuursrecht.     
 3. Onze Minister kan de uitvoering van een algemene maatregel van bestuur of een ministeriële regeling als bedoeld in het eerste lid, met inbegrip van het nemen van besluiten op grond van deze regels, delegeren aan andere bestuursorganen.
 
 ### Artikel  4  
 
 Onze Minister verstrekt slechts subsidie op grond van een algemene maatregel van bestuur of een ministeriële regeling als bedoeld in artikel 3, tenzij het een subsidie betreft:  
 
-a. als bedoeld in [artikel 4:23, derde lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) of   
+a. als bedoeld in artikel 4:23, derde lid, van de Algemene wet bestuursrecht of   
 
 b. waarvan de voorgenomen strekking tevoren schriftelijk is meegedeeld aan de beide Kamers der Staten-Generaal.    
 
@@ -66,7 +66,7 @@ Bij of krachtens algemene maatregel van bestuur of bij ministeriële regeling al
 1.  Een aanvraag kan worden afgewezen en een beschikking tot subsidieverstrekking op grond van deze wet kan worden ingetrokken of gewijzigd voor zover subsidieverstrekking in strijd zou zijn respectievelijk in strijd is met ingevolge een verdrag voor de staat geldende verplichtingen.    
 2.  Bij de intrekking of wijziging kan worden bepaald, dat over onverschuldigd betaalde subsidiebedragen een rentevergoeding verschuldigd is.    
 3.  De intrekking of wijziging werkt terug tot en met het tijdstip waarop de subsidie is verstrekt tenzij bij de intrekking of wijziging anders is bepaald.    
-4.  De[ artikelen 4:49, derde lid](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), en [4:57, vierde lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn niet van toepassing op de intrekking of wijziging, bedoeld in het eerste lid.   
+4.  De artikelen 4:49, derde lid, en 4:57, vierde lid, van de Algemene wet bestuursrecht zijn niet van toepassing op de intrekking of wijziging, bedoeld in het eerste lid.   
 
 ### Artikel  7  
 

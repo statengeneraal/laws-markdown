@@ -1559,11 +1559,6 @@ Wijzigt deze wet.
 
 Ten aanzien van verzekerden die aanspraak maken op ziekengeld op grond van artikel 29, tweede lid, onderdeel e, f of g, wier eerste dag van ongeschiktheid tot het verrichten van hun arbeid wegens ziekte is gelegen voor de dag van inwerkingtreding van artikel II, onderdeel C, onder 2, van de Wet wijziging verrekening inkomsten met ziekengeld en de werkgevers van die verzekerden is artikel 38, vierde lid, zoals dat luidde op de dag voor inwerkingtreding van artikel II, onderdeel C, onder 2, van de Wet wijziging verrekening inkomsten met ziekengeld, van toepassing. 
 
-### Artikel  99  
-
-1.  Artikel 31, derde, vierde en vijfde lid, zoals dat luidde op de dag voor inwerkingtreding van artikel VIII, onderdeel G, onder 3 en 4, van de Wet harmonisatie en vereenvoudiging socialezekerheidswetgeving, blijft van toepassing op de verzekerde wiens eerste dag van ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte is gelegen voor de dag waarop artikel VIII, onderdeel G, onder 3 en 4, van die wet in werking is getreden.   
-2.  Dit artikel vervalt drie jaar na de dag waarop artikel VIII, onderdeel G, van de Wet harmonisatie en vereenvoudiging socialezekerheidswetgeving in werking is getreden.  
-
 ### Artikel  100  
 
 1.  Artikel 19aa is niet van toepassing op de verzekerde wiens eerste dag van ongeschiktheid tot het verrichten van arbeid is gelegen voor het tijdstip van inwerkingtreding van artikel I, onderdeel B, van de Wet beperking ziekteverzuim en arbeidsongeschiktheid vangnetters. De artikelen 19a, derde lid, onderdeel b, 19b, tweede lid, en 19c, tweede lid, zoals deze artikelen luidden op de dag voor inwerkingtreding van die wet blijven van toepassing op de verzekerde, bedoeld in de eerste zin.   

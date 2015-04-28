@@ -200,9 +200,7 @@ b. arbeidsongeschikt is
 
 1°. op en sedert de dag van overlijden van de verzekerde, of   
 
-2°. op en sedert de laatste dag van de maand waarin hij niet meer voldoet aan de voorwaarde bedoeld in onderdeel *a*, en wiens arbeidsongeschiktheid na de onderscheidenlijk onder 1° en 2° bedoelde dag ten minste drie maanden voortduurt, dan wel ten aanzien van wie aannemelijk is dat de arbeidsongeschiktheid ten minste drie maanden na de vorenbedoelde dag zal voortduren; of     
-
-c. geboren is voor 1 januari 1950.      
+2°. op en sedert de laatste dag van de maand waarin hij niet meer voldoet aan de voorwaarde bedoeld in onderdeel *a*, en wiens arbeidsongeschiktheid na de onderscheidenlijk onder 1° en 2° bedoelde dag ten minste drie maanden voortduurt, dan wel ten aanzien van wie aannemelijk is dat de arbeidsongeschiktheid ten minste drie maanden na de vorenbedoelde dag zal voortduren.       
 2.   Het recht op nabestaandenuitkering gaat in op de eerste dag van de maand van overlijden van de verzekerde.    
 3.  Voor de nabestaande die op de dag van overlijden van de verzekerde niet voldoet aan de voorwaarde, genoemd in het eerste lid, onderdeel *a*, omdat het kind op het moment van overlijden tot het huishouden van een ander behoort, gaat het recht op nabestaandenuitkering in op de eerste dag van de maand waarin hij als gevolg van het overlijden wel aan die voorwaarde voldoet.   
 4.  Voor de nabestaande die geen recht heeft op een nabestaandenuitkering op grond van artikel 15, eerste lid, onderdeel d, gaat het recht op een nabestaandenuitkering in op de eerste dag van de maand dat hij, uiterlijk binnen zes maanden na het overlijden van de verzekerde, deze gezamenlijke huishouding niet meer voert.    
@@ -229,7 +227,7 @@ e. die al recht op een nabestaandenuitkering op grond van deze wet heeft en die 
 
 1.  Het recht op nabestaandenuitkering eindigt, indien:  
 
-a. niet langer aan de voorwaarden van artikel 14, eerste lid, onderdelen a en b, wordt voldaan, tenzij de nabestaande is geboren voor 1 januari 1950; of   
+a. niet langer aan de voorwaarden van artikel 14, eerste lid, onderdelen a en b, wordt voldaan; of   
 
 b. de nabestaande in het huwelijk treedt dan wel een gezamenlijke huishouding gaat voeren anders dan ten behoeve van de verzorging van een hulpbehoevende; of   
 
